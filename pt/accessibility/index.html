@@ -1,0 +1,320 @@
+<!doctype html>
+<html lang="pt">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#003A87">
+  <title>Funcionalidades de Acessibilidade | Travel Document Vault</title>
+  <meta name="description" content="Travel Document Vault foi construída para todos. Saiba mais sobre as nossas funcionalidades VoiceOver, Tipo Dinâmico, Modo Escuro e Reduzir Movimento. Encriptada com AES-256-GCM, offline e privada sem subscrição.">
+  <link rel="canonical" href="https://traveldocumentvault.com/pt/accessibility/">
+  <link rel="alternate" hreflang="x-default" href="https://traveldocumentvault.com/accessibility/">
+  <link rel="alternate" hreflang="en"      href="https://traveldocumentvault.com/accessibility/">
+  <link rel="alternate" hreflang="es"      href="https://traveldocumentvault.com/es/accessibility/">
+  <link rel="alternate" hreflang="fr"      href="https://traveldocumentvault.com/fr/accessibility/">
+  <link rel="alternate" hreflang="de"      href="https://traveldocumentvault.com/de/accessibility/">
+  <link rel="alternate" hreflang="pt"      href="https://traveldocumentvault.com/pt/accessibility/">
+  <link rel="alternate" hreflang="sv"      href="https://traveldocumentvault.com/sv/accessibility/">
+  <link rel="alternate" hreflang="da"      href="https://traveldocumentvault.com/da/accessibility/">
+  <link rel="alternate" hreflang="it"      href="https://traveldocumentvault.com/it/accessibility/">
+  <link rel="alternate" hreflang="ja"      href="https://traveldocumentvault.com/ja/accessibility/">
+  <link rel="alternate" hreflang="zh-Hans" href="https://traveldocumentvault.com/zh-Hans/accessibility/">
+  <link rel="alternate" hreflang="id"      href="https://traveldocumentvault.com/id/accessibility/">
+  <link rel="alternate" hreflang="ru"      href="https://traveldocumentvault.com/ru/accessibility/">
+  <link rel="alternate" hreflang="uk"      href="https://traveldocumentvault.com/uk/accessibility/">
+  <link rel="alternate" hreflang="nl"      href="https://traveldocumentvault.com/nl/accessibility/">
+  <link rel="alternate" hreflang="ko"      href="https://traveldocumentvault.com/ko/accessibility/">
+  <link rel="alternate" hreflang="th"      href="https://traveldocumentvault.com/th/accessibility/">
+
+  <meta property="og:title" content="Funcionalidades de Acessibilidade | Travel Document Vault">
+  <meta property="og:description" content="Construída para todos. Suporte completo VoiceOver, Tipo Dinâmico, Modo Escuro, contraste elevado. Encriptada com AES-256-GCM, offline e privada sem subscrição.">
+  <meta property="og:url" content="https://traveldocumentvault.com/accessibility/">
+  <meta property="og:type" content="website">
+
+  <link rel="icon" type="image/svg+xml" href="/assets/images/app_icon.svg">
+  <link rel="apple-touch-icon" href="/assets/images/app_icon.svg">
+
+  <meta name="robots" content="index, follow">
+  <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" href="/dist/output.css" as="style">
+  <link rel="stylesheet" href="/dist/output.css">
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=optional" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=optional"></noscript>
+
+  <style>
+    html { scroll-behavior: smooth; }
+    .glass-panel { background: rgba(17, 25, 40, 0.75); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border: 1px solid rgba(255, 255, 255, 0.12); }
+    .feature-card { background: rgba(17, 25, 40, 0.75); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border: 1px solid rgba(255, 255, 255, 0.15); box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); }
+    .nav-link-active { color: white !important; border-bottom: 2px solid #FFB000; padding-bottom: 2px; }
+  </style>
+</head>
+<body class="bg-gradient-to-b from-[#003A87] to-[#0A192F] font-sans antialiased text-slate-200 min-h-screen selection:bg-brand-gold selection:text-white">
+
+  <!-- Navigation -->
+  <nav class="fixed top-0 left-0 right-0 z-[100] glass-panel border-b border-white/5">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16">
+        <a href="/pt/" class="flex items-center gap-3">
+          <img loading="lazy" src="/assets/images/app_icon.svg" alt="Travel Document Vault" class="w-8 h-8" width="32" height="32" />
+          <span class="font-semibold text-white hidden sm:block">Travel Document Vault</span>
+        </a>
+        <div class="flex items-center gap-6 text-sm font-medium">
+          <a href="/pt/" class="nav-link text-slate-200 hover:text-white transition-colors">Início</a>
+          <a href="/pt/features/" class="nav-link text-slate-200 hover:text-white transition-colors">Funcionalidades</a>
+          <a href="/pt/faq/" class="nav-link text-slate-200 hover:text-white transition-colors">Perguntas Frequentes</a>
+
+          <!-- Language Picker (Desktop) -->
+          <div class="relative" id="lang-picker-desktop">
+            <button id="lang-btn-desktop" type="button"
+              style="display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border-radius:8px;border:1px solid rgba(255,255,255,0.18);font-size:0.875rem;font-weight:500;color:rgba(226,232,240,1);background:transparent;cursor:pointer;transition:background 0.2s,color 0.2s;"
+              onmouseover="this.style.background='rgba(255,255,255,0.07)';this.style.color='white'"
+              onmouseout="this.style.background='transparent';this.style.color='rgba(226,232,240,1)'"
+              aria-expanded="false" aria-haspopup="listbox" aria-label="Selecione o idioma">
+              <span id="lang-flag-desktop">🇵🇹</span>
+              <span id="lang-name-desktop">Português</span>
+              <svg style="width:10px;height:10px;opacity:0.6;flex-shrink:0;" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M19 9l-7 7-7-7"/>
+              </svg>
+            </button>
+            <!-- dropdown rendered by lang-picker.js on <body> to escape nav stacking context -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <main class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-24 pb-12 sm:pt-32 sm:pb-20">
+
+    <!-- Hero -->
+    <header class="text-center mb-16">
+      <h1 class="text-4xl sm:text-5xl font-bold text-white mb-6 leading-tight">
+        Construída para <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">Todos</span>
+      </h1>
+      <p class="text-blue-100/90 text-lg sm:text-xl leading-relaxed max-w-2xl mx-auto">
+        Travel Document Vault foi concebida para ser acessível a todos. Eis como garantimos que todos os utilizadores possam gerir os seus documentos de viagem com facilidade.
+      </p>
+    </header>
+
+    <!-- Accessibility Features -->
+    <section class="space-y-8 mb-8">
+      <h2 class="text-2xl sm:text-3xl font-bold text-white text-center mb-10">Funcionalidades de Acessibilidade</h2>
+
+      <!-- VoiceOver -->
+      <div class="feature-card rounded-2xl p-8">
+        <div class="flex items-start gap-4 mb-4">
+          <div class="w-12 h-12 rounded-xl bg-brand-gold/10 flex items-center justify-center border border-brand-gold/20 flex-shrink-0">
+            <svg class="w-6 h-6 text-brand-gold" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z" />
+            </svg>
+          </div>
+          <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-2">Suporte VoiceOver</h3>
+            <p class="text-slate-300 text-base leading-relaxed mb-3">
+              Cada ecrã no Travel Document Vault é completamente narrado com VoiceOver. Navegue, digitalize documentos, defina lembretes e gira o seu cofre usando gestos, teclado, braille e saída de fala.
+            </p>
+            <ul class="space-y-2 text-slate-300 text-sm">
+              <li class="flex items-start gap-2">
+                <svg class="w-4 h-4 text-brand-gold flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+                <span>Etiquetas descritivas para todos os elementos interativos</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <svg class="w-4 h-4 text-brand-gold flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+                <span>Hierarquia de títulos apropriada para navegação fácil</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <svg class="w-4 h-4 text-brand-gold flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+                <span>Descrições significativas de botões e controlos</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <svg class="w-4 h-4 text-brand-gold flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+                <span>Anúncios de estado para mudanças importantes</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Larger Text / Dynamic Type -->
+      <div class="feature-card rounded-2xl p-8">
+        <div class="flex items-start gap-4 mb-4">
+          <div class="w-12 h-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 flex-shrink-0">
+            <svg class="w-6 h-6 text-blue-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+          </div>
+          <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-2">Texto Maior (Tipo Dinâmico)</h3>
+            <p class="text-slate-300 text-base leading-relaxed mb-3">
+              Todo o texto na aplicação escala com as suas preferências de tamanho de texto do sistema. Aumente o tamanho do texto até 200% ou mais, e o layout da aplicação adapta-se automaticamente.
+            </p>
+            <p class="text-slate-400 text-sm">
+              Ajuste o tamanho do texto em <strong class="text-slate-300">Definições → Acessibilidade → Ecrã e Tamanho do Texto → Texto Maior</strong> no seu dispositivo.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Dark Interface -->
+      <div class="feature-card rounded-2xl p-8">
+        <div class="flex items-start gap-4 mb-4">
+          <div class="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center border border-purple-400/20 flex-shrink-0">
+            <svg class="w-6 h-6 text-purple-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+            </svg>
+          </div>
+          <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-2">Interface Escura</h3>
+            <p class="text-slate-300 text-base leading-relaxed mb-3">
+              Travel Document Vault suporta os modos Claro e Escuro. A aplicação corresponde automaticamente à aparência do seu sistema ou pode definir o seu tema preferido nas Definições.
+            </p>
+            <p class="text-slate-400 text-sm">
+              Opções: <strong class="text-slate-300">Sistema (Automático)</strong>, <strong class="text-slate-300">Claro</strong>, ou <strong class="text-slate-300">Escuro</strong>.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Sufficient Contrast -->
+      <div class="feature-card rounded-2xl p-8">
+        <div class="flex items-start gap-4 mb-4">
+          <div class="w-12 h-12 rounded-xl bg-emerald-500/10 flex items-center justify-center border border-emerald-400/20 flex-shrink-0">
+            <svg class="w-6 h-6 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+              <path stroke-linecap="round" stroke-linejoin="round" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
+            </svg>
+          </div>
+          <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-2">Contraste Suficiente</h3>
+            <p class="text-slate-300 text-base leading-relaxed mb-3">
+              Todo o texto e elementos interativos cumprem os padrões de contraste WCAG AAA (4.5:1 para texto normal, 3:1 para texto grande). As cores de elevado contraste garantem legibilidade em todas as condições de iluminação.
+            </p>
+            <p class="text-slate-400 text-sm">
+              O nosso sistema de cores fornece rácios de contraste 15:1+ para texto principal em temas claro e escuro.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Differentiate Without Color Alone -->
+      <div class="feature-card rounded-2xl p-8">
+        <div class="flex items-start gap-4 mb-4">
+          <div class="w-12 h-12 rounded-xl bg-orange-500/10 flex items-center justify-center border border-orange-400/20 flex-shrink-0">
+            <svg class="w-6 h-6 text-orange-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M7 21a4 4 0 01-4-4V5a2 2 0 012-2h4a2 2 0 012 2v12a4 4 0 01-4 4zm0 0h12a2 2 0 002-2v-4a2 2 0 00-2-2h-2.343M11 7.343l1.657-1.657a2 2 0 012.828 0l2.829 2.829a2 2 0 010 2.828l-8.486 8.485M7 17h.01" />
+            </svg>
+          </div>
+          <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-2">Diferenciar Sem Apenas Cor</h3>
+            <p class="text-slate-300 text-base leading-relaxed mb-3">
+              Informações importantes nunca são transmitidas apenas por cor. Os indicadores de estado utilizam ícones, formas e etiquetas de texto além da cor.
+            </p>
+            <ul class="space-y-2 text-slate-300 text-sm">
+              <li class="flex items-start gap-2">
+                <svg class="w-4 h-4 text-brand-gold flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+                <span>Marcas de seleção verdes para documentos válidos (não apenas cor verde)</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <svg class="w-4 h-4 text-brand-gold flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+                <span>Ícones de aviso para documentos a expirar (não apenas cor amarela/laranja)</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <svg class="w-4 h-4 text-brand-gold flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+                <span>Indicadores de erro com ícones X (não apenas cor vermelha)</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Reduced Motion -->
+      <div class="feature-card rounded-2xl p-8">
+        <div class="flex items-start gap-4 mb-4">
+          <div class="w-12 h-12 rounded-xl bg-indigo-500/10 flex items-center justify-center border border-indigo-400/20 flex-shrink-0">
+            <svg class="w-6 h-6 text-indigo-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+          </div>
+          <div class="flex-1">
+            <h3 class="text-xl font-bold text-white mb-2">Movimento Reduzido</h3>
+            <p class="text-slate-300 text-base leading-relaxed mb-3">
+              Todas as animações e efeitos de movimento respeitam a sua preferência de Reduzir Movimento. Quando ativado, as animações são minimizadas ou removidas para prevenir enjoos e desconforto.
+            </p>
+            <p class="text-slate-400 text-sm">
+              Ative em <strong class="text-slate-300">Definições → Acessibilidade → Movimento → Reduzir Movimento</strong> no seu dispositivo.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Additional Features -->
+    <section class="glass-panel rounded-2xl p-8 mb-8">
+      <h2 class="text-2xl font-bold text-white mb-6">Considerações Adicionais de Acessibilidade</h2>
+      <div class="space-y-4 text-slate-300">
+        <div class="flex items-start gap-3">
+          <svg class="w-5 h-5 text-brand-gold flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+          <div>
+            <p class="font-semibold text-white mb-1">Alvo Tátil de 44pt</p>
+            <p class="text-sm">Todos os elementos interativos cumprem o tamanho de alvo tátil mínimo de 44pt da Apple para toque fácil.</p>
+          </div>
+        </div>
+        <div class="flex items-start gap-3">
+          <svg class="w-5 h-5 text-brand-gold flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+          <div>
+            <p class="font-semibold text-white mb-1">Navegação por Teclado</p>
+            <p class="text-sm">Navegue toda a aplicação usando um teclado ligado ao seu dispositivo.</p>
+          </div>
+        </div>
+        <div class="flex items-start gap-3">
+          <svg class="w-5 h-5 text-brand-gold flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+          <div>
+            <p class="font-semibold text-white mb-1">Fontes Legíveis</p>
+            <p class="text-sm">Fontes do sistema otimizadas para legibilidade em todos os tamanhos.</p>
+          </div>
+        </div>
+        <div class="flex items-start gap-3">
+          <svg class="w-5 h-5 text-brand-gold flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+          <div>
+            <p class="font-semibold text-white mb-1">Mensagens de Erro Claras</p>
+            <p class="text-sm">Estados de erro são anunciados ao VoiceOver e apresentados com texto claro e acionável.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Feedback -->
+    <section class="text-center glass-panel rounded-2xl p-8">
+      <h2 class="text-2xl font-bold text-white mb-4">Estamos Sempre a Melhorar</h2>
+      <p class="text-slate-300 text-base leading-relaxed max-w-2xl mx-auto mb-6">
+        Acessibilidade é um compromisso contínuo. Se encontrar barreiras ao usar Travel Document Vault, ou tiver sugestões de melhorias, informe-nos.
+      </p>
+      <a href="mailto:support@traveldocumentvault.com?subject=Accessibility%20Feedback" class="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-brand-gold text-brand-blue font-bold text-base hover:bg-brand-goldHover transition-colors">
+        Enviar Feedback de Acessibilidade
+      </a>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="text-center pt-24 md:pt-32 pb-24 md:pb-10 space-y-4 max-w-6xl mx-auto px-4">
+    <div class="flex flex-wrap items-center justify-center gap-x-6 gap-y-2 text-sm font-medium">
+      <a href="/pt/features/" class="text-slate-50 hover:text-white transition-colors duration-200">Funcionalidades</a>
+      <span class="text-blue-200/20 hidden sm:inline">·</span>
+      <a href="/pt/faq/" class="text-slate-50 hover:text-white transition-colors duration-200">Perguntas Frequentes</a>
+      <span class="text-blue-200/20 hidden sm:inline">·</span>
+      <a href="/privacy-policy/" class="text-slate-50 hover:text-white transition-colors duration-200">Política de Privacidade</a>
+      <span class="text-blue-200/20 hidden sm:inline">·</span>
+      <a href="/terms/" class="text-slate-50 hover:text-white transition-colors duration-200">Termos de Serviço</a>
+    </div>
+    <div class="text-sm">
+      <a href="mailto:support@traveldocumentvault.com" class="text-slate-50 hover:text-white transition-colors duration-200">support&#64;traveldocumentvault&#46;com</a>
+    </div>
+    <p class="text-slate-50 text-xs">&copy; Mustafa Hafeez. Todos os direitos reservados.</p>
+  </footer>
+
+  <script src="/assets/js/lang-picker.js" defer></script>
+  <script src="/assets/js/cookie-consent.js" defer></script>
+</body>
+</html>

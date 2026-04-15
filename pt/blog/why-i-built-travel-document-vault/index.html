@@ -1,0 +1,620 @@
+<!doctype html>
+<html lang="pt">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#003A87">
+
+  <!-- SEO metadata-->
+  <title>Porque Criei o Travel Document Vault: Para o Pai que se Lembra de Tudo</title>
+  <meta name="description" content="Criei o Travel Document Vault para substituir aplicações dispersas. Um cofre especializado e offline com encriptação AES-256-GCM, uma camada gratuita de 5 documentos, sem subscrição.">
+  <link rel="canonical" href="https://traveldocumentvault.com/pt/blog/why-i-built-travel-document-vault/">
+  <link rel="alternate" hreflang="x-default" href="https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/">
+  <link rel="alternate" hreflang="en"      href="https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/">
+  <link rel="alternate" hreflang="es"      href="https://traveldocumentvault.com/es/blog/why-i-built-travel-document-vault/">
+  <link rel="alternate" hreflang="fr"      href="https://traveldocumentvault.com/fr/blog/why-i-built-travel-document-vault/">
+  <link rel="alternate" hreflang="de"      href="https://traveldocumentvault.com/de/blog/why-i-built-travel-document-vault/">
+  <link rel="alternate" hreflang="pt"      href="https://traveldocumentvault.com/pt/blog/why-i-built-travel-document-vault/">
+  <link rel="alternate" hreflang="sv"      href="https://traveldocumentvault.com/sv/blog/why-i-built-travel-document-vault/">
+  <link rel="alternate" hreflang="da"      href="https://traveldocumentvault.com/da/blog/why-i-built-travel-document-vault/">
+  <link rel="alternate" hreflang="it"      href="https://traveldocumentvault.com/it/blog/why-i-built-travel-document-vault/">
+  <link rel="alternate" hreflang="ja"      href="https://traveldocumentvault.com/ja/blog/why-i-built-travel-document-vault/">
+  <link rel="alternate" hreflang="zh-Hans" href="https://traveldocumentvault.com/zh-Hans/blog/why-i-built-travel-document-vault/">
+  <link rel="alternate" hreflang="id"      href="https://traveldocumentvault.com/id/blog/why-i-built-travel-document-vault/">
+  <link rel="alternate" hreflang="ru"      href="https://traveldocumentvault.com/ru/blog/why-i-built-travel-document-vault/">
+  <link rel="alternate" hreflang="uk"      href="https://traveldocumentvault.com/uk/blog/why-i-built-travel-document-vault/">
+  <link rel="alternate" hreflang="nl"      href="https://traveldocumentvault.com/nl/blog/why-i-built-travel-document-vault/">
+  <link rel="alternate" hreflang="ko"      href="https://traveldocumentvault.com/ko/blog/why-i-built-travel-document-vault/">
+  <link rel="alternate" hreflang="th"      href="https://traveldocumentvault.com/th/blog/why-i-built-travel-document-vault/">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:title" content="Porque Criei o Travel Document Vault: Para o Pai que se Lembra de Tudo">
+  <meta property="og:description" content="Criei o Travel Document Vault para substituir aplicações dispersas. Um cofre especializado e offline com encriptação AES-256-GCM, uma camada gratuita de 5 documentos, sem subscrição.">
+  <meta property="og:image" content="https://traveldocumentvault.com/assets/images/social-preview.png">
+  <meta property="og:url" content="https://traveldocumentvault.com/pt/blog/why-i-built-travel-document-vault/">
+  <meta property="og:type" content="article">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Porque Criei o Travel Document Vault: Para o Pai que se Lembra de Tudo">
+  <meta name="twitter:description" content="Criei o Travel Document Vault para substituir aplicações dispersas. Um cofre especializado e offline com encriptação AES-256-GCM, uma camada gratuita de 5 documentos, sem subscrição.">
+  <meta name="twitter:image" content="https://traveldocumentvault.com/assets/images/social-preview.png">
+
+  <link rel="icon" type="image/svg+xml" href="/assets/images/app_icon.svg">
+  <link rel="apple-touch-icon" href="/assets/images/app_icon.svg">
+
+  <meta name="robots" content="index, follow">
+  <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+
+  <!-- Structured Data (JSON-LD) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Porque Criei o Travel Document Vault: Para o Pai que se Lembra de Tudo",
+    "description": "Criei o Travel Document Vault porque estava farto de verificar cinco aplicações diferentes antes de cada viagem em família. Uma aplicação para os documentos de todos. Offline. Encriptada. Sem subscrição.",
+    "image": "https://traveldocumentvault.com/assets/images/social-preview.png",
+    "author": {
+      "@type": "Person",
+      "name": "Mustafa Hafeez"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Travel Document Vault",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://traveldocumentvault.com/assets/images/app_icon.svg"
+      }
+    },
+    "datePublished": "2026-01-03",
+    "dateModified": "2026-02-28",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://traveldocumentvault.com/pt/blog/why-i-built-travel-document-vault/"
+    }
+  }
+  </script>
+
+  <!-- Breadcrumb Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Início",
+        "item": "https://traveldocumentvault.com/pt/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://traveldocumentvault.com/pt/blog/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Por que Criei o Travel Document Vault",
+        "item": "https://traveldocumentvault.com/pt/blog/why-i-built-travel-document-vault/"
+      }
+    ]
+  }
+  </script>
+
+  <!-- Preconnect and Preload for Performance -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" href="../../../dist/output.css" as="style">
+  <link rel="stylesheet" href="../../../dist/output.css">
+
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Caveat:wght@400;500;600;700&display=optional" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Caveat:wght@400;500;600;700&display=optional"></noscript>
+
+  <style>
+    html { scroll-behavior: smooth; }
+
+    .glass-panel {
+      background: rgba(17, 25, 40, 0.6);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .prose p {
+      margin-bottom: 1.5em;
+      line-height: 1.8;
+    }
+
+    .prose strong {
+      color: #FFB000;
+      font-weight: 600;
+    }
+
+    .nav-link {
+      position: relative;
+    }
+
+    .nav-link::after {
+      content: '';
+      position: absolute;
+      bottom: -2px;
+      left: 0;
+      width: 0;
+      height: 2px;
+      background: #FFB000;
+      transition: width 0.3s ease;
+    }
+
+    .nav-link:hover::after {
+      width: 100%;
+    }
+
+    .nav-link-active {
+      color: #FFFFFF !important;
+    }
+
+    .nav-link-active::after {
+      width: 100%;
+    }
+
+    .post-card {
+      background: rgba(17, 25, 40, 0.6);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 16px;
+      transition: border-color 0.2s ease, transform 0.2s ease;
+      text-decoration: none;
+      display: block;
+    }
+    .post-card:hover {
+      border-color: rgba(255, 176, 0, 0.3);
+      transform: translateY(-2px);
+    }
+    .tag-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.3rem 0.8rem;
+      border-radius: 999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+    .tag-passport { background: rgba(59,130,246,0.15); color: #93c5fd; border: 1px solid rgba(59,130,246,0.2); }
+    .tag-organisation { background: rgba(52,211,153,0.12); color: #6ee7b7; border: 1px solid rgba(52,211,153,0.2); }
+    .tag-renewal { background: rgba(251,191,36,0.12); color: #fcd34d; border: 1px solid rgba(251,191,36,0.2); }
+    .tag-privacy { background: rgba(167,139,250,0.12); color: #c4b5fd; border: 1px solid rgba(167,139,250,0.2); }
+    .tag-story { background: rgba(255,176,0,0.1); color: #FFB000; border: 1px solid rgba(255,176,0,0.2); }
+    .scroll-fade-in { opacity: 0; transform: translateY(30px); transition: opacity 0.6s ease-out, transform 0.6s ease-out; }
+    .scroll-fade-in.visible { opacity: 1; transform: translateY(0); }
+  </style>
+</head>
+
+<body class="bg-gradient-to-b from-[#003A87] to-[#0A192F] font-sans antialiased text-slate-200 min-h-screen selection:bg-brand-gold selection:text-white">
+<a href="#main" class="skip-link sr-only">Ir para o conteúdo principal</a>
+
+  <!-- Navigation -->
+  <nav class="fixed top-0 left-0 right-0 z-[100] glass-panel border-b border-white/5 transition-all duration-300">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16">
+        <a href="/pt/" class="flex items-center gap-3 group">
+          <img loading="lazy" src="../../../assets/images/app_icon.svg" alt="Travel Document Vault" class="w-8 h-8 group-hover:scale-110 transition-transform duration-300" width="32" height="32" />
+          <span class="font-bold text-white hidden sm:block tracking-tight group-hover:text-blue-100 transition-colors">Travel Document Vault</span>
+        </a>
+
+        <!-- Mobile menu button -->
+        <button id="mobile-menu-button" type="button" class="md:hidden p-2 text-slate-200 hover:text-white transition-colors" aria-controls="mobile-menu" aria-expanded="false" aria-label="Abrir menu">
+          <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+        </button>
+
+        <!-- Desktop Menu -->
+        <div class="hidden md:flex items-center gap-6 text-sm font-medium">
+          <a href="/pt/" class="nav-link text-slate-50 hover:text-white transition-colors" aria-label="Página inicial">Início</a>
+          <a href="/pt/features/" class="nav-link text-slate-50 hover:text-white transition-colors" aria-label="Página de funcionalidades">Funcionalidades</a>
+          <a href="/pt/why-us/" class="nav-link text-slate-50 hover:text-white transition-colors" aria-label="Página Por Que Nós">Por Que Nós</a>
+          <a href="/pt/blog/" class="nav-link text-slate-50 hover:text-white transition-colors" aria-label="Página de Blogue">Blogue</a>
+          <a href="/pt/blog/why-i-built-travel-document-vault/" class="nav-link nav-link-active text-slate-50 hover:text-white transition-colors" aria-label="Página Por Que Criei Isto, página atual" aria-current="page">Por Que Criei Isto</a>
+          <a href="/pt/#pricing" class="nav-link text-slate-50 hover:text-white transition-colors" aria-label="Ir para a secção de preços">Preços</a>
+          <a href="/pt/faq/" class="nav-link text-slate-50 hover:text-white transition-colors" aria-label="Página de perguntas frequentes">Perguntas Frequentes</a>
+          <a href="/privacy-policy/" class="nav-link text-slate-50 hover:text-white transition-colors" aria-label="Página de política de privacidade">Privacidade</a>
+          <!-- Language Picker (Desktop) -->
+          <div class="relative" id="lang-picker-desktop">
+            <button id="lang-btn-desktop" type="button"
+              style="display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border-radius:8px;border:1px solid rgba(255,255,255,0.18);font-size:0.875rem;font-weight:500;color:rgba(226,232,240,1);background:transparent;cursor:pointer;transition:background 0.2s,color 0.2s;"
+              onmouseover="this.style.background='rgba(255,255,255,0.07)';this.style.color='white'"
+              onmouseout="this.style.background='transparent';this.style.color='rgba(226,232,240,1)'"
+              aria-expanded="false" aria-haspopup="listbox" aria-label="Selecionar idioma">
+              <span id="lang-flag-desktop">🇵🇹</span>
+              <span id="lang-name-desktop">Português</span>
+              <svg style="width:10px;height:10px;opacity:0.6;flex-shrink:0;" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <!-- dropdown rendered by lang-picker.js on <body> to escape nav stacking context -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Mobile Menu -->
+  <div id="mobile-menu" class="hidden md:hidden fixed top-16 left-0 right-0 bottom-0 bg-[#0A192F] z-[90] border-t border-white/10 p-6 space-y-6 overflow-y-auto transition-opacity transition-transform duration-300 ease-in-out opacity-0 -translate-y-4">
+    <div class="space-y-4">
+      <a href="/pt/" class="block text-lg font-medium text-slate-200 hover:text-white pl-4 py-1 hover:border-l-2 hover:border-brand-gold transition-all" aria-label="Página inicial">Início</a>
+      <a href="/pt/features/" class="block text-lg font-medium text-slate-200 hover:text-white pl-4 py-1 hover:border-l-2 hover:border-brand-gold transition-all" aria-label="Página de funcionalidades">Funcionalidades</a>
+      <a href="/pt/why-us/" class="block text-lg font-medium text-slate-200 hover:text-white pl-4 py-1 hover:border-l-2 hover:border-brand-gold transition-all" aria-label="Página Por Que Nós">Por Que Nós</a>
+      <a href="/pt/blog/" class="block text-lg font-medium text-slate-200 hover:text-white pl-4 py-1 hover:border-l-2 hover:border-brand-gold transition-all" aria-label="Página de Blogue">Blogue</a>
+      <a href="/pt/blog/why-i-built-travel-document-vault/" class="block text-lg font-medium text-white border-l-2 border-brand-gold pl-4 py-1" aria-label="Página Por Que Criei Isto, página atual" aria-current="page">Por Que Criei Isto</a>
+      <a href="/pt/#pricing" class="block text-lg font-medium text-slate-200 hover:text-white pl-4 py-1 hover:border-l-2 hover:border-brand-gold transition-all" aria-label="Ir para a secção de preços">Preços</a>
+      <a href="/pt/faq/" class="block text-lg font-medium text-slate-200 hover:text-white pl-4 py-1 hover:border-l-2 hover:border-brand-gold transition-all" aria-label="Página de perguntas frequentes">Perguntas Frequentes</a>
+    </div>
+    <div class="pt-4 border-t border-white/10">
+      <p class="text-xs text-blue-200/40 px-4 mb-2 uppercase tracking-wide">Idioma</p>
+      <div id="lang-mobile-list" class="grid grid-cols-2 gap-1">
+        <!-- populated by lang-picker.js -->
+      </div>
+    </div>
+    <div class="pt-4 border-t border-white/10 space-y-3">
+      <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'ios', 'source_page': window.location.pathname, 'source_section': 'navbar'});" class="flex items-center justify-center gap-3 px-6 py-4 rounded-xl bg-brand-gold text-brand-blue font-bold text-lg hover:bg-brand-goldHover transition-colors w-full shadow-lg">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/>
+        </svg>
+        Descarregar na App Store
+      </a>
+    </div>
+  </div>
+
+  <main id="main" class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-24 sm:pt-32">
+    <article class="max-w-[720px] mx-auto relative z-10">
+
+      <!-- Breadcrumb -->
+      <nav aria-label="Navegação estrutural" class="mb-8 text-sm text-blue-200/50">
+        <ol class="flex items-center gap-2">
+          <li><a href="/pt/" class="hover:text-white transition-colors">Início</a></li>
+          <li aria-hidden="true">›</li>
+          <li><a href="/pt/blog/" class="hover:text-white transition-colors">Blogue</a></li>
+          <li aria-hidden="true">›</li>
+          <li class="text-blue-200/80" aria-current="page">Porque o Criei</li>
+        </ol>
+      </nav>
+
+      <!-- Header -->
+      <header class="mb-14 text-center animate-fade-in-down">
+        <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass-panel text-blue-200 text-sm font-medium tracking-wide shadow-lg mb-8">
+          <span class="w-2 h-2 rounded-full bg-brand-gold shadow-[0_0_10px_rgba(255,176,0,0.5)]" aria-hidden="true"></span>
+          Privacidade em primeiro lugar. Apenas no dispositivo. Sem contas necessárias.
+        </div>
+        <h1 class="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-8 leading-[1.1] tracking-tight drop-shadow-2xl">
+          Porque Criei o<br />
+          <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-200">Travel Document Vault</span>
+        </h1>
+
+        <div class="flex items-center justify-center gap-3">
+          <div class="h-10 w-10 rounded-full bg-gradient-to-br from-brand-gold to-brand-blue p-[2px]">
+            <div class="h-full w-full rounded-full bg-[#0A192F] flex items-center justify-center text-xs font-bold text-white">
+              MH
+            </div>
+          </div>
+          <div class="text-left">
+            <p class="text-white text-sm font-semibold">Mustafa Hafeez</p>
+            <div class="flex items-center gap-2 text-blue-200/50 text-xs">
+              <time datetime="2026-01-03">3 de janeiro de 2026</time>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <!-- Content Container -->
+      <div class="glass-panel rounded-2xl shadow-glass p-6 sm:p-12 animate-fade-in-up opacity-0">
+        <div class="prose md:prose-lg prose-invert prose-headings:font-bold prose-headings:text-white prose-p:text-blue-100/80 prose-p:leading-relaxed prose-strong:text-brand-gold prose-a:text-brand-gold hover:prose-a:text-white prose-blockquote:border-brand-gold prose-blockquote:bg-blue-500/5 prose-blockquote:py-2 prose-blockquote:px-6 prose-blockquote:rounded-r-lg prose-li:text-blue-100/80">
+
+          <p>
+            Estava na imigração quando o funcionário olhou para o passaporte da minha filha, fez uma pausa, e depois olhou para mim.
+          </p>
+
+          <p>
+            "Sabe que este expira em sete meses, pois não?" disse ele. "Só para ter em conta, alguns países não o deixam entrar com menos de seis meses de validade."
+          </p>
+
+          <p>
+            Agradeci-lhe. Estávamos bem, por pouco. Mas durante toda a viagem não parei de pensar: se ele não tivesse dito nada, eu nunca teria reparado. Sete meses pareciam tempo mais do que suficiente. Tinha verificado o passaporte antes de reservar. Simplesmente esqueci por completo a regra dos seis meses que a maioria dos países aplica.
+          </p>
+
+          <p>
+            Esse susto ficou comigo. Já tinha configurado lembretes no calendário para as datas de validade dos passaportes de toda a família. Pensei que era suficiente. Mas não estava a verificar realmente as datas, estava apenas a confiar nos lembretes. E quando alguém renovava o passaporte, tinha de atualizar o lembrete, atualizar o digitalizador no Google Drive, e esperar não me ter esquecido de nada.
+          </p>
+
+          <p>
+            Aquele aperto no estômago, perceber que quase arruinei uma viagem em família sem sequer o saber, é exatamente porque criei esta aplicação.
+          </p>
+
+          <h2 class="text-2xl text-white mt-12 mb-6">O trabalho invisível</h2>
+
+          <p>
+            Se é a pessoa na sua família que gere os documentos, já conhece esta sensação.
+          </p>
+
+          <p>
+            Não está apenas a guardar ficheiros. Carrega uma lista de verificação invisível na cabeça. Quais passaportes expiram quando. Quem precisa do quê para a matrícula escolar. Quais países têm a regra dos seis meses. Se o seguro de viagem foi realmente renovado ou se apenas pensou em fazê-lo.
+          </p>
+
+          <p>
+            Nenhuma verificação individual demora muito. Encontrar um digitalizador de passaporte, ler a data de validade, confirmar que cobre a sua viagem por seis meses, talvez dois ou três minutos. Mas multiplique isso por quatro membros da família, adicione a apólice de seguro enterrada no e-mail, a carta de condução da qual não tem a certeza se ainda é válida, e queimou quinze ou vinte minutos às 23h da noite anterior a um voo.
+          </p>
+
+          <p>
+            Isso assumindo que tudo está onde pensa estar. Se está a percorrer milhares de fotos à procura de um digitalizador de passaporte, ou a verificar três pastas na nuvem diferentes para encontrar o ficheiro certo, demora mais, e o stress acumula-se rapidamente.
+          </p>
+
+          <p>
+            <strong>Ninguém vê este trabalho. Ninguém lhe dá uma lista de verificação. Simplesmente carrega-a.</strong>
+          </p>
+
+          <p>
+            Não queria criar uma aplicação de viagens. Queria parar de carregar isto na cabeça.
+          </p>
+
+          <h2 class="text-2xl text-white mt-12 mb-6">O que tentei primeiro</h2>
+
+          <p>
+            Tentei tudo antes de criar isto.
+          </p>
+
+          <p>
+            Armazenamento na nuvem? Ótimo para ficheiros, inútil para datas de validade. Ainda tinha de abrir cada documento manualmente e fazer as contas mentalmente.
+          </p>
+
+          <p>
+            Lembretes no calendário? Também os tentei. Defini uma notificação seis meses antes de cada passaporte expirar. Mas os digitalizadores estavam num lugar, os lembretes noutro, e quando precisava de verificar algo às 23h antes de reservar um voo, estava a saltar entre três aplicações a tentar juntar tudo.
+          </p>
+
+          <p>
+            Gestores de palavras-passe? Algumas pessoas juram por eles para digitalizações de documentos. Mas são feitos para palavras-passe, não para datas de validade. Definitivamente não o avisam quando o passaporte do seu filho está prestes a arruinar uma viagem.
+          </p>
+
+          <p>
+            O que finalmente fez sentido: não precisava de outro lugar para guardar PDFs. Precisava de algo que me lembrasse seis meses antes da data de validade, não na data de validade. Algo onde pudesse ver de relance: "vamos viajar em agosto, o passaporte de todos cobre-nos até fevereiro?" sem pesquisar regras de vistos ou fazer aritmética mental.
+          </p>
+
+          <p>
+            E tinha de funcionar offline. Porque estaria no aeroporto, ou preso num lobby de hotel com Wi-Fi terrível, precisando de mostrar uma cópia de um documento, e é exatamente quando as aplicações na nuvem deixam de carregar.
+          </p>
+
+          <h2 class="text-2xl text-white mt-12 mb-6">Então criei exatamente o que precisava</h2>
+
+          <p>
+            O Travel Document Vault faz uma coisa: coloca tudo num único lugar, para nunca mais ter de pensar nisso até a aplicação o avisar.
+          </p>
+
+          <p>
+            Digitalize um documento uma vez. A aplicação lê a data de validade (o utilizador verifica-a). Os lembretes programam-se automaticamente: seis meses antes, depois três meses, seis semanas, um mês, duas semanas, até ao dia anterior à expiração.
+          </p>
+
+          <p>
+            Um perfil por membro da família. Cada documento num único lugar. Quando precisa de verificar se pode viajar, abre a aplicação e sabe. Imediatamente. Não "provavelmente" ou "acho que sim", <strong>sabe mesmo</strong>.
+          </p>
+
+          <p>
+            Quando um hotel pede uma cópia do passaporte, uma embaixada precisa dos seus dados, ou o balcão de aluguer de carros quer a sua carta de condução, partilha-a com um toque. Sem buscas. Sem Wi-Fi necessário. Tudo junto, mesmo ali.
+          </p>
+
+          <p>
+            Esse é o verdadeiro benefício: recupera o seu espaço mental. A carga mental invisível, aquele zumbido constante de "estou a esquecer-me de algo?", desaparece. A aplicação lembra-se para que não tenha de o fazer.
+          </p>
+
+          <h2 class="text-2xl text-white mt-12 mb-6">Não são só passaportes</h2>
+
+          <p>
+            Assim que comecei a usá-la, reparei em quantos outros documentos expiram silenciosamente em segundo plano.
+          </p>
+
+          <p>
+            Autorizações de trabalho se viver no estrangeiro. Vistos e cartões de residência que precisam de renovação anual. Cartas de condução. Seguro de saúde para o qual precisa de comprovar cobertura. Apólices de seguro de viagem. Os bilhetes de identidade dos filhos.
+          </p>
+
+          <p>
+            Todos têm datas de validade. Todos são importantes no momento menos oportuno. Ninguém o avisa até ser tarde demais, ou já estar na embaixada a perceber que o seu visto expirou no mês passado.
+          </p>
+
+          <p>
+            A aplicação trata de todos eles. Tudo o que tenha uma data de validade, passaportes, vistos, autorizações de trabalho, seguros, cartas de condução, o que a sua família precisar, num único lugar, rastreado, organizado.
+          </p>
+
+          <h2 class="text-2xl text-white mt-12 mb-6">Quando as coisas correm mal no estrangeiro</h2>
+
+          <p>
+            Centenas de milhares de passaportes são perdidos ou roubados todos os anos nos EUA, Reino Unido e Canadá combinados. Se isso lhe acontecer no estrangeiro, não está a começar do zero.
+          </p>
+
+          <p>
+            Números de documentos, datas de validade, digitalizações nítidas, tudo pronto quando precisar de apresentar uma queixa ou contactar uma embaixada. Não substitui os originais, mas dá-lhe o que precisa para avançar rapidamente. Sem Wi-Fi, sem pânico.
+          </p>
+
+          <h2 class="text-2xl text-white mt-12 mb-6">Concebido para a privacidade</h2>
+
+          <p>
+            Desde o início, tomei uma decisão firme: os seus documentos pertencem-lhe, e ficam consigo. Ponto final.
+          </p>
+
+          <p>
+            O Travel Document Vault é autónomo:
+          </p>
+
+          <ul class="list-none space-y-2 pl-0 my-6 font-semibold text-white">
+            <li class="flex items-center gap-3">
+              <svg class="w-5 h-5 text-brand-gold" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+              </svg>
+              Sem contas para criar
+            </li>
+            <li class="flex items-center gap-3">
+              <svg class="w-5 h-5 text-brand-gold" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+              </svg>
+              Sem envio para servidor
+            </li>
+            <li class="flex items-center gap-3">
+              <svg class="w-5 h-5 text-brand-gold" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+              </svg>
+              Encriptado no seu dispositivo
+            </li>
+          </ul>
+
+          <p>
+            Quando digitaliza um documento, o reconhecimento de texto é executado no seu dispositivo. Tudo fica no seu telemóvel. <strong>Nada é enviado para qualquer servidor.</strong>
+          </p>
+
+          <p>
+            Algumas pessoas querem aplicações que sincronizem em todo o lado. Para passaportes e documentos de identidade, quis um modelo mais simples: o seu telemóvel é o cofre. Pode exportar as suas cópias quando precisar. São suas, afinal de contas.
+          </p>
+
+          <h2 class="text-2xl text-white mt-12 mb-6">Por que pagar uma vez em vez de subscrever</h2>
+
+          <p>
+            Um cofre de documentos de viagem é algo que se configura uma vez e esquece. Fica ali silenciosamente a rastrear datas de validade até realmente ser necessário. É esse o objetivo.
+          </p>
+
+          <p>
+            Uma subscrição não faz sentido para isso. Se deixar de pagar, teria de exportar tudo, encontrar outra aplicação, migrar os meus documentos, recriar todos os meus lembretes. E se me esquecer de renovar? Perco o acesso exatamente quando mais preciso, parado no balcão de check-in a perceber que o passaporte do meu filho expira daqui a quatro meses e não consigo aceder à digitalização que guardei.
+          </p>
+
+          <p>
+            Quando compra esta aplicação, é sua. Os documentos ficam no seu dispositivo. Os lembretes continuam a funcionar. Sem renovações. Sem exportações. Sem bloqueios. Simplesmente funciona, silenciosamente em segundo plano, até precisar dela.
+          </p>
+
+          <p>
+            A versão gratuita oferece-lhe um perfil, cinco documentos, OCR, lembretes e um bloqueio por PIN. A versão Pro desbloqueia perfis e documentos ilimitados com um único pagamento. Pague uma vez, todas as atualizações v1.x incluídas, para sempre. É tudo.
+          </p>
+
+          <p class="text-slate-300 text-xs">
+            <a href="/pricing-policy/#version-policy" class="text-brand-gold hover:text-white underline">Sobre a nossa política de versões →</a>
+          </p>
+
+          <hr class="border-white/10 my-12" />
+
+          <h2 class="text-2xl text-white mt-12 mb-6">Por que isto existe</h2>
+
+          <p>
+            Criei o Travel Document Vault porque estava farto de ser o pai ansioso na porta de embarque.
+          </p>
+
+          <p>
+            Queria apontar os aviões aos meus filhos, não estar a saltar entre aplicações à procura do documento certo. Queria saber, saber mesmo, não apenas esperar, que tudo estava tratado antes de sairmos de casa.
+          </p>
+
+          <p>
+            Se é a pessoa na sua família que verifica tudo duas vezes, mantém a pasta, se preocupa em silêncio para que os outros não tenham de o fazer, esta é a história do fundador por detrás da aplicação que criei para si.
+          </p>
+
+          <p class="text-lg font-medium text-white">
+            <strong>Uma preocupação a menos.</strong>
+          </p>
+
+        </div>
+
+        <!-- Author Sig -->
+        <div class="mt-16 sm:mt-24 pt-10 border-t border-white/5 text-center">
+          <p class="text-xs text-blue-200/30 mb-8 font-medium tracking-wide">
+            Criado para uso pessoal primeiro. Sem contas. Sem envio para servidor.
+          </p>
+          <p class="font-handwriting text-3xl text-white/90 mb-2">Mustafa</p>
+          <p class="text-blue-200/40 text-sm font-medium tracking-wide uppercase">Fundador, Travel Document Vault</p>
+        </div>
+      </div>
+      <!-- Related Articles -->
+      <aside class="mt-12" aria-label="Artigos relacionados">
+        <h2 class="text-xs font-bold text-blue-200/40 uppercase tracking-widest mb-4">Artigos Relacionados</h2>
+        <div class="flex flex-col gap-3">
+          <a href="/blog/passport-expiry-6-month-rule/" class="post-card" style="padding: 0.75rem 1rem;">
+            <div class="flex items-center gap-2 mb-3">
+              <span class="tag-pill tag-passport">Regras de Passaporte</span>
+              <span class="text-blue-200/40 text-xs">7 min de leitura · 1 fev 2026</span>
+            </div>
+            <p class="text-white font-semibold text-sm leading-snug">A Regra dos 6 Meses do Passaporte: Que Países a Aplicam</p>
+          </a>
+          <a href="/blog/how-to-organise-family-travel-documents/" class="post-card" style="padding: 0.75rem 1rem;">
+            <div class="flex items-center gap-2 mb-3">
+              <span class="tag-pill tag-organisation">Organização</span>
+              <span class="text-blue-200/40 text-xs">7 min de leitura · 5 fev 2026</span>
+            </div>
+            <p class="text-white font-semibold text-sm leading-snug">Como Organizar Documentos de Viagem em Família (Antes da Próxima Viagem)</p>
+          </a>
+        </div>
+      </aside>
+
+    </article>
+  <!-- Disclaimer -->
+  <section class="px-4 mb-8 mt-12">
+    <div class="glass-panel rounded-2xl p-6 sm:p-8 text-center max-w-3xl mx-auto">
+      <p class="text-slate-50 text-sm leading-relaxed">
+        <strong class="text-slate-200">Importante:</strong> O Travel Document Vault é uma ferramenta de organização pessoal para guardar cópias digitais dos seus documentos. <strong class="text-slate-200">As cópias digitais guardadas nesta aplicação NÃO são válidas para viagem.</strong> Não verifica a autenticidade de documentos nem fornece aconselhamento jurídico ou de viagem. Leve sempre documentos originais e verifique todos os requisitos de viagem junto de fontes governamentais oficiais.
+      </p>
+    </div>
+  </section>
+
+  <!-- CTA Section -->
+  <section class="scroll-fade-in text-center space-y-6 pt-24 pb-24">
+    <h2 class="text-3xl sm:text-4xl font-bold text-white">A Aplicação que Gostaria de Ter Tido</h2>
+    <p class="text-blue-200/70 text-lg max-w-xl mx-auto">Se é a pessoa na sua família que controla tudo, isto é para si. Digitalize uma vez, deixe de se preocupar para sempre.</p>
+    <div class="flex flex-col sm:flex-row items-center justify-center gap-8">
+      <!-- App Store Badge -->
+      <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'ios', 'source_page': window.location.pathname, 'source_section': 'blog_cta'});" class="group relative inline-flex items-center transition-transform active:scale-95">
+        <img loading="lazy" src="../../../assets/images/app-store-badge-black.svg" alt="Descarregar na App Store" class="relative h-[56px] w-auto" width="120" height="40" />
+      </a>
+
+      <a href="https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault" target="_blank" rel="noopener noreferrer" class="group relative inline-flex items-center transition-transform active:scale-95">
+        <img loading="lazy" src="../../../assets/images/google-play-badge.svg" alt="Disponível no Google Play" class="relative h-[56px] w-auto" width="135" height="40"  />
+      </a>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="text-center pt-20 pb-24 md:pb-10 space-y-4">
+    <div class="flex flex-wrap items-center justify-center gap-x-6 gap-y-2 text-sm font-medium">
+      <a href="/pt/features/" class="text-slate-50 hover:text-white transition-colors duration-200">Funcionalidades</a>
+      <span class="text-blue-200/20 hidden sm:inline">·</span>
+      <a href="/pt/faq/" class="text-slate-50 hover:text-white transition-colors duration-200">Perguntas Frequentes</a>
+      <span class="text-blue-200/20 hidden sm:inline">·</span>
+      <a href="/pt/blog/why-i-built-travel-document-vault/" class="text-slate-50 hover:text-white transition-colors duration-200">Por Que Criei Isto</a>
+      <span class="text-blue-200/20 hidden sm:inline">·</span>
+      <a href="/pt/accessibility/" class="text-slate-50 hover:text-white transition-colors duration-200">Acessibilidade</a>
+      <span class="text-blue-200/20 hidden sm:inline">·</span>
+      <a href="/privacy-policy/" class="text-slate-50 hover:text-white transition-colors duration-200">Política de Privacidade</a>
+      <span class="text-blue-200/20 hidden sm:inline">·</span>
+      <a href="/terms/" class="text-slate-50 hover:text-white transition-colors duration-200">Termos de Serviço</a>
+      <span class="text-blue-200/20 hidden sm:inline">·</span>
+      <a href="/pricing-policy/" class="text-slate-50 hover:text-white transition-colors duration-200">Política de Preços</a>
+    </div>
+    <div class="text-sm">
+      <a href="mailto:support@traveldocumentvault.com" class="text-slate-50 hover:text-white transition-colors duration-200">support&#64;traveldocumentvault&#46;com</a>
+    </div>
+    <p class="text-slate-50 text-xs">© Mustafa Hafeez. Todos os direitos reservados.</p>
+  </footer>
+</main>
+
+  <script src="../../../assets/js/cookie-consent.js" defer></script>
+  <script src="../../../assets/js/mobile-menu.js" defer></script>
+  <script src="../../../assets/js/lang-picker.js" defer></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) { entry.target.classList.add('visible'); }
+        });
+      }, { root: null, rootMargin: '50px', threshold: 0.1 });
+      document.querySelectorAll('.scroll-fade-in').forEach(function(el) {
+        var rect = el.getBoundingClientRect();
+        if (rect.top < window.innerHeight && rect.bottom > 0) { el.classList.add('visible'); }
+        observer.observe(el);
+      });
+    });
+  </script>
+</body>
+</html>

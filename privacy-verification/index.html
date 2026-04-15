@@ -1,0 +1,477 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#003A87">
+  <title>Privacy Verification | Travel Document Vault</title>
+  <meta name="description" content="Verifiable privacy claims for Travel Document Vault. Zero trackers, zero network calls, on-device only. See every permission we request and why.">
+  <link rel="canonical" href="https://traveldocumentvault.com/privacy-verification/">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:title" content="Privacy Verification | Travel Document Vault">
+  <meta property="og:description" content="Verifiable privacy claims for Travel Document Vault. Zero trackers, zero network calls, on-device only. See every permission we request and why.">
+  <meta property="og:image" content="https://traveldocumentvault.com/assets/images/social-preview.png">
+  <meta property="og:url" content="https://traveldocumentvault.com/privacy-verification/">
+  <meta property="og:type" content="website">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Privacy Verification | Travel Document Vault">
+  <meta name="twitter:description" content="Verifiable privacy claims for Travel Document Vault. Zero trackers, zero network calls, on-device only. See every permission we request and why.">
+  <meta name="twitter:image" content="https://traveldocumentvault.com/assets/images/social-preview.png">
+
+  <link rel="icon" type="image/svg+xml" href="/assets/images/app_icon.svg">
+  <link rel="apple-touch-icon" href="/assets/images/app_icon.svg">
+
+  <meta name="robots" content="index, follow">
+  <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+
+  <!-- Preconnect and Preload for Performance -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" href="../dist/output.css" as="style">
+  <link rel="stylesheet" href="../dist/output.css">
+
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=optional" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=optional"></noscript>
+  <style>
+    html { scroll-behavior: smooth; }
+    .glass-panel {
+      background: rgba(17, 25, 40, 0.6);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+    .nav-link-active {
+      color: white !important;
+      border-bottom: 2px solid #FFB000;
+      padding-bottom: 2px;
+    }
+    .badge-card {
+      background: rgba(17, 25, 40, 0.4);
+      border: 1px solid rgba(255, 255, 255, 0.06);
+    }
+    .permission-card {
+      background: rgba(17, 25, 40, 0.3);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+    }
+  </style>
+</head>
+<body class="bg-gradient-to-b from-[#003A87] to-[#0A192F] font-sans antialiased text-slate-200 min-h-screen selection:bg-brand-gold selection:text-white">
+<a href="#main" class="skip-link sr-only">Skip to main content</a>
+
+  <!-- Navigation -->
+  <nav class="fixed top-0 left-0 right-0 z-[100] glass-panel border-b border-white/5">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16">
+        <a href="../" class="flex items-center gap-3">
+          <img loading="lazy" src="../assets/images/app_icon.svg" alt="Travel Document Vault" class="w-8 h-8" width="32" height="32" />
+          <span class="font-semibold text-white hidden sm:block">Travel Document Vault</span>
+        </a>
+
+        <!-- Mobile menu button -->
+        <button id="mobile-menu-button" type="button" class="md:hidden p-2 text-slate-200 hover:text-white transition-colors" aria-controls="mobile-menu" aria-expanded="false" aria-label="Toggle menu">
+          <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+        </button>
+
+        <!-- Desktop Menu -->
+        <div class="hidden md:flex items-center gap-6 text-sm font-medium">
+          <a href="../" class="nav-link text-slate-200 hover:text-white transition-colors" aria-label="Home page">Home</a>
+          <a href="../features/" class="nav-link text-slate-200 hover:text-white transition-colors" aria-label="Features page">Features</a>
+          <a href="../why-us/" class="nav-link text-slate-200 hover:text-white transition-colors" aria-label="Why Us page">Why Us</a>
+          <a href="../blog/" class="nav-link text-slate-200 hover:text-white transition-colors" aria-label="Blog page">Blog</a>
+          <a href="../blog/why-i-built-travel-document-vault/" class="nav-link text-slate-200 hover:text-white transition-colors" aria-label="Why I Built This page">Why I Built This</a>
+          <a href="../#pricing" class="nav-link text-slate-200 hover:text-white transition-colors" aria-label="Jump to Pricing section">Pricing</a>
+          <a href="../faq/" class="nav-link text-slate-200 hover:text-white transition-colors" aria-label="FAQ page">FAQ</a>
+          <a href="../privacy-policy/" class="nav-link text-slate-200 hover:text-white transition-colors" aria-label="Privacy Policy page">Privacy</a>
+        </div>
+      </div>
+
+  </nav>
+
+  <!-- Mobile Menu -->
+  <div id="mobile-menu" class="hidden md:hidden fixed top-16 left-0 right-0 bottom-0 bg-[#0A192F] z-[90] border-t border-white/10 p-6 space-y-6 overflow-y-auto transition-opacity transition-transform duration-300 ease-in-out opacity-0 -translate-y-4">
+    <div class="space-y-4">
+      <a href="../" class="block text-lg font-medium text-slate-200 hover:text-white pl-4 py-1 hover:border-l-2 hover:border-brand-gold transition-all" aria-label="Home page">Home</a>
+      <a href="../features/" class="block text-lg font-medium text-slate-200 hover:text-white pl-4 py-1 hover:border-l-2 hover:border-brand-gold transition-all" aria-label="Features page">Features</a>
+      <a href="../why-us/" class="block text-lg font-medium text-slate-200 hover:text-white pl-4 py-1 hover:border-l-2 hover:border-brand-gold transition-all" aria-label="Why Us page">Why Us</a>
+      <a href="../blog/" class="block text-lg font-medium text-slate-200 hover:text-white pl-4 py-1 hover:border-l-2 hover:border-brand-gold transition-all" aria-label="Blog page">Blog</a>
+      <a href="../blog/why-i-built-travel-document-vault/" class="block text-lg font-medium text-slate-200 hover:text-white pl-4 py-1 hover:border-l-2 hover:border-brand-gold transition-all" aria-label="Why I Built This page">Why I Built This</a>
+      <a href="../#pricing" class="block text-lg font-medium text-slate-200 hover:text-white pl-4 py-1 hover:border-l-2 hover:border-brand-gold transition-all" aria-label="Jump to Pricing section">Pricing</a>
+      <a href="../faq/" class="block text-lg font-medium text-slate-200 hover:text-white pl-4 py-1 hover:border-l-2 hover:border-brand-gold transition-all" aria-label="FAQ page">FAQ</a>
+      <a href="../privacy-policy/" class="block text-lg font-medium text-slate-200 hover:text-white pl-4 py-1 hover:border-l-2 hover:border-brand-gold transition-all" aria-label="Privacy Policy page">Privacy</a>
+    </div>
+    <div class="pt-4 border-t border-white/10 space-y-3">
+      <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-3 px-6 py-4 rounded-xl bg-brand-gold text-brand-blue font-bold text-lg hover:bg-brand-goldHover transition-colors w-full shadow-lg">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/>
+        </svg>
+        Download on App Store
+      </a>
+      <a href="https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-3 px-6 py-4 rounded-xl bg-brand-gold text-brand-blue font-bold text-lg hover:bg-brand-goldHover transition-colors w-full shadow-lg">
+          <img src="../assets/images/google-play-badge.svg" alt="Get it on Google Play" class="h-8 w-auto" />
+        </a>
+    </div>
+  </div>
+
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-24 pb-12 sm:pt-32 sm:pb-20 space-y-12">
+
+    <!-- Hero -->
+    <section aria-labelledby="hero-heading" class="scroll-fade-in text-center max-w-3xl mx-auto mb-4">
+      <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass-panel text-blue-200 text-sm font-medium tracking-wide shadow-lg mb-8">
+        <span class="w-2 h-2 rounded-full bg-brand-gold shadow-[0_0_10px_rgba(255,176,0,0.5)]" aria-hidden="true"></span>
+        Privacy-first. On-device only. No accounts needed.
+      </div>
+      <h1 id="hero-heading" class="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-[1.1] mb-6">
+        Privacy <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">Verification</span>
+      </h1>
+      <p class="text-blue-100/80 text-base leading-relaxed max-w-2xl mx-auto">
+        We do not ask you to take our word for it. Here are our privacy claims, how to verify them yourself, and a full breakdown of every permission the app requests.
+      </p>
+    </section>
+
+    <!-- Main content -->
+    <main id="main" class="space-y-12 animate-fade-in-up opacity-0">
+
+      <!-- Privacy Badges -->
+      <section aria-labelledby="badges-heading">
+        <h2 id="badges-heading" class="text-2xl font-bold text-white mb-6">Our privacy claims</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div class="badge-card rounded-xl p-6 sm:p-8 flex items-start gap-4">
+            <div class="flex-shrink-0 w-10 h-10 rounded-lg bg-green-500/10 flex items-center justify-center">
+              <svg class="w-5 h-5 text-green-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" /></svg>
+            </div>
+            <div>
+              <h3 class="font-semibold text-white text-sm">Zero trackers</h3>
+              <p class="text-slate-400 text-sm mt-1">No analytics SDKs, no advertising libraries, no tracking pixels inside the app.</p>
+            </div>
+          </div>
+          <div class="badge-card rounded-xl p-6 sm:p-8 flex items-start gap-4">
+            <div class="flex-shrink-0 w-10 h-10 rounded-lg bg-green-500/10 flex items-center justify-center">
+              <svg class="w-5 h-5 text-green-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728A9 9 0 015.636 5.636m12.728 12.728L5.636 5.636" /></svg>
+            </div>
+            <div>
+              <h3 class="font-semibold text-white text-sm">No network calls</h3>
+              <p class="text-slate-400 text-sm mt-1">The app makes zero outbound connections during normal use. It works fully offline.</p>
+            </div>
+          </div>
+          <div class="badge-card rounded-xl p-6 sm:p-8 flex items-start gap-4">
+            <div class="flex-shrink-0 w-10 h-10 rounded-lg bg-green-500/10 flex items-center justify-center">
+              <svg class="w-5 h-5 text-green-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z" /></svg>
+            </div>
+            <div>
+              <h3 class="font-semibold text-white text-sm">On-device only</h3>
+              <p class="text-slate-400 text-sm mt-1">All documents, scans, and data stay on your phone. There is no cloud, no server, no backend.</p>
+            </div>
+          </div>
+          <div class="badge-card rounded-xl p-6 sm:p-8 flex items-start gap-4">
+            <div class="flex-shrink-0 w-10 h-10 rounded-lg bg-green-500/10 flex items-center justify-center">
+              <svg class="w-5 h-5 text-green-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" /></svg>
+            </div>
+            <div>
+              <h3 class="font-semibold text-white text-sm">AES-256-GCM encryption</h3>
+              <p class="text-slate-400 text-sm mt-1">Every document is encrypted before it touches your device's storage.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Verify It Yourself -->
+      <section aria-labelledby="verify-heading" class="glass-panel rounded-2xl shadow-glass p-6 sm:p-10 space-y-6">
+        <h2 id="verify-heading" class="text-2xl font-bold text-white">Verify it yourself</h2>
+        <p class="text-slate-300 text-sm leading-relaxed">
+          You do not need to trust us. You can confirm every claim above with free, public tools.
+        </p>
+
+        <div class="space-y-6">
+          <!-- Network traffic -->
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white flex items-center gap-2">
+              <span class="text-brand-gold">1.</span> Network traffic test
+            </h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              Install a network monitor such as <strong class="text-white">mitmproxy</strong> (free, open source), <strong class="text-white">Charles Proxy</strong>, or <strong class="text-white">Wireshark</strong>. Open Travel Document Vault, scan a document, browse your vault, and set a reminder. You will see zero outbound requests. The only exception is if you have opted into Sentry crash reporting in Settings, which sends data only when the app crashes.
+            </p>
+          </div>
+
+          <!-- iOS Privacy Report -->
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white flex items-center gap-2">
+              <span class="text-brand-gold">2.</span> iOS App Privacy Report
+            </h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              On iPhone, go to <strong class="text-white">Settings &gt; Privacy &amp; Security &gt; App Privacy Report</strong>. This built-in Apple feature shows which apps have contacted network domains. Travel Document Vault will show no network activity during normal use.
+            </p>
+          </div>
+
+          <!-- App Store labels -->
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white flex items-center gap-2">
+              <span class="text-brand-gold">3.</span> App Store and Play Store privacy labels
+            </h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              Both Apple and Google require developers to declare what data their app collects. Check the App Store or Google Play listing for Travel Document Vault. Our declaration: <strong class="text-white">no data collected</strong>.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Permissions Justification -->
+      <section aria-labelledby="permissions-heading" class="space-y-6">
+        <div class="text-center mb-2">
+          <h2 id="permissions-heading" class="text-2xl font-bold text-white mb-3">Every permission explained</h2>
+          <p class="text-slate-400 text-sm max-w-2xl mx-auto">
+            Android apps declare permissions in their manifest. Some are requested by the app directly, and some are inherited from libraries the app depends on. Here is a transparent breakdown of every permission, grouped by purpose.
+          </p>
+        </div>
+
+        <!-- GROUP: Core app features -->
+        <h3 class="text-lg font-semibold text-white pt-2">Permissions the app uses directly</h3>
+
+        <!-- Camera -->
+        <div class="permission-card rounded-xl p-6 sm:p-8 space-y-3">
+          <div class="flex items-center gap-3">
+            <div class="flex-shrink-0 w-9 h-9 rounded-lg bg-blue-500/10 flex items-center justify-center">
+              <svg class="w-5 h-5 text-blue-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 9a2 2 0 012-2h.93a2 2 0 001.664-.89l.812-1.22A2 2 0 0110.07 4h3.86a2 2 0 011.664.89l.812 1.22A2 2 0 0018.07 7H19a2 2 0 012 2v9a2 2 0 01-2 2H5a2 2 0 01-2-2V9z" /><path stroke-linecap="round" stroke-linejoin="round" d="M15 13a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
+            </div>
+            <h3 class="font-semibold text-white">Camera</h3>
+            <span class="text-xs text-slate-500 font-medium ml-auto">iOS + Android</span>
+          </div>
+          <p class="text-slate-300 text-sm leading-relaxed">
+            <strong class="text-white">Why we ask:</strong> To scan your passport, visa, or travel document pages directly from the app.
+          </p>
+          <p class="text-slate-400 text-sm leading-relaxed">
+            <strong class="text-slate-300">What we never do:</strong> Photos are saved locally on your device. They are never uploaded, transmitted, or sent anywhere.
+          </p>
+        </div>
+
+        <!-- Photo Library (iOS) -->
+        <div class="permission-card rounded-xl p-6 sm:p-8 space-y-3">
+          <div class="flex items-center gap-3">
+            <div class="flex-shrink-0 w-9 h-9 rounded-lg bg-purple-500/10 flex items-center justify-center">
+              <svg class="w-5 h-5 text-purple-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" /></svg>
+            </div>
+            <h3 class="font-semibold text-white">Photo Library / Photos / Storage</h3>
+            <span class="text-xs text-slate-500 font-medium ml-auto">iOS + Android</span>
+          </div>
+          <p class="text-slate-300 text-sm leading-relaxed">
+            <strong class="text-white">Why we ask:</strong> So you can import an existing photo of a document, and so the app can export ZIP backup archives when you request them. On older Android versions, READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE are required for this. On Android 13+, READ_MEDIA_IMAGES is used instead.
+          </p>
+          <p class="text-slate-400 text-sm leading-relaxed">
+            <strong class="text-slate-300">What we never do:</strong> The app reads only the image you select. It never scans, indexes, or browses your photo library or file system.
+          </p>
+        </div>
+
+        <!-- Face ID / Biometric -->
+        <div class="permission-card rounded-xl p-6 sm:p-8 space-y-3">
+          <div class="flex items-center gap-3">
+            <div class="flex-shrink-0 w-9 h-9 rounded-lg bg-emerald-500/10 flex items-center justify-center">
+              <svg class="w-5 h-5 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 11c0 3.517-1.009 6.799-2.753 9.571m-3.44-2.04l.054-.09A13.916 13.916 0 008 11a4 4 0 118 0c0 1.017-.07 2.019-.203 3m-2.118 6.844A21.88 21.88 0 0015.171 17m3.839 1.132c.645-2.266.99-4.659.99-7.132A8 8 0 008 4.07M3 15.364c.64-1.319 1-2.8 1-4.364 0-1.457.39-2.823 1.07-4" /></svg>
+            </div>
+            <h3 class="font-semibold text-white">Face ID / Touch ID / Biometric unlock</h3>
+            <span class="text-xs text-slate-500 font-medium ml-auto">iOS + Android</span>
+          </div>
+          <p class="text-slate-300 text-sm leading-relaxed">
+            <strong class="text-white">Why we ask:</strong> To lock and unlock the app so only you can access your documents. On Android 6&ndash;8, USE_FINGERPRINT is used. On Android 9+, USE_BIOMETRIC is used instead.
+          </p>
+          <p class="text-slate-400 text-sm leading-relaxed">
+            <strong class="text-slate-300">What we never do:</strong> Your biometric data never leaves your device. The operating system handles authentication and returns only a pass/fail result to the app.
+          </p>
+        </div>
+
+        <!-- Notifications + Vibration -->
+        <div class="permission-card rounded-xl p-6 sm:p-8 space-y-3">
+          <div class="flex items-center gap-3">
+            <div class="flex-shrink-0 w-9 h-9 rounded-lg bg-amber-500/10 flex items-center justify-center">
+              <svg class="w-5 h-5 text-amber-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9" /></svg>
+            </div>
+            <h3 class="font-semibold text-white">Notifications, Vibration, Boot Completed, Wake Lock</h3>
+            <span class="text-xs text-slate-500 font-medium ml-auto">Android</span>
+          </div>
+          <p class="text-slate-300 text-sm leading-relaxed">
+            <strong class="text-white">Why we ask:</strong> To deliver on-device expiry reminders that you set yourself. RECEIVE_BOOT_COMPLETED re-schedules your reminders after a device restart. WAKE_LOCK ensures reminders fire reliably even when the phone is asleep. VIBRATE accompanies notification delivery.
+          </p>
+          <p class="text-slate-400 text-sm leading-relaxed">
+            <strong class="text-slate-300">What we never do:</strong> No marketing, promotional, or third-party notifications are ever sent. Reminders are scheduled entirely on your device.
+          </p>
+        </div>
+
+        <!-- Internet + Network -->
+        <div class="permission-card rounded-xl p-6 sm:p-8 space-y-3">
+          <div class="flex items-center gap-3">
+            <div class="flex-shrink-0 w-9 h-9 rounded-lg bg-cyan-500/10 flex items-center justify-center">
+              <svg class="w-5 h-5 text-cyan-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" /></svg>
+            </div>
+            <h3 class="font-semibold text-white">Internet, Network State, Wi-Fi State</h3>
+            <span class="text-xs text-slate-500 font-medium ml-auto">Android</span>
+          </div>
+          <p class="text-slate-300 text-sm leading-relaxed">
+            <strong class="text-white">Why these appear:</strong> These are required by two features: <strong class="text-white">Sentry crash reporting</strong> (opt-in, disabled by default) and <strong class="text-white">Google Play billing</strong> for the Pro upgrade purchase. ACCESS_NETWORK_STATE and ACCESS_WIFI_STATE let these libraries check whether a connection is available before attempting to send.
+          </p>
+          <p class="text-slate-400 text-sm leading-relaxed">
+            <strong class="text-slate-300">What we never do:</strong> The app itself makes zero network calls during normal use. It works fully offline. You can verify this with a network monitor. The only outbound traffic occurs if you have opted into crash reporting (when a crash happens) or when restoring a Pro purchase.
+          </p>
+        </div>
+
+        <!-- GROUP: Inherited from dependencies -->
+        <h3 class="text-lg font-semibold text-white pt-6">Permissions inherited from libraries (not used by the app)</h3>
+        <p class="text-slate-400 text-sm -mt-3">
+          Android apps include third-party libraries for features like in-app purchases, crash reporting, and notifications. These libraries declare permissions in their own manifests, which get merged into the final app. The permissions below are declared by dependencies, not by our code. The app never calls the APIs behind them.
+        </p>
+
+        <!-- RECORD_AUDIO -->
+        <div class="permission-card rounded-xl p-6 sm:p-8 space-y-3 border border-amber-500/20">
+          <div class="flex items-center gap-3">
+            <div class="flex-shrink-0 w-9 h-9 rounded-lg bg-red-500/10 flex items-center justify-center">
+              <svg class="w-5 h-5 text-red-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z" /></svg>
+            </div>
+            <h3 class="font-semibold text-white">Record Audio</h3>
+            <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-amber-500/10 text-amber-400 ml-auto">Inherited, never used</span>
+          </div>
+          <p class="text-slate-300 text-sm leading-relaxed">
+            <strong class="text-white">Why it appears:</strong> This permission is declared by a third-party library included in the build (commonly the camera or media plugin). It appears in the Android manifest but is never triggered by our code. The app does not record audio or video under any circumstances.
+          </p>
+          <p class="text-slate-400 text-sm leading-relaxed">
+            <strong class="text-slate-300">How you can confirm:</strong> The app will never prompt you for microphone access. If you check your device's permission manager, you will see that audio recording is not granted to Travel Document Vault.
+          </p>
+        </div>
+
+        <!-- SYSTEM_ALERT_WINDOW -->
+        <div class="permission-card rounded-xl p-6 sm:p-8 space-y-3">
+          <div class="flex items-center gap-3">
+            <div class="flex-shrink-0 w-9 h-9 rounded-lg bg-slate-500/10 flex items-center justify-center">
+              <svg class="w-5 h-5 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 17V7m0 10a2 2 0 01-2 2H5a2 2 0 01-2-2V7a2 2 0 012-2h2a2 2 0 012 2m0 10a2 2 0 002 2h2a2 2 0 002-2M9 7a2 2 0 012-2h2a2 2 0 012 2m0 10V7" /></svg>
+            </div>
+            <h3 class="font-semibold text-white">System Alert Window</h3>
+            <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-slate-500/10 text-slate-400 ml-auto">Inherited</span>
+          </div>
+          <p class="text-slate-300 text-sm leading-relaxed">
+            Declared by the Flutter framework for development and debugging overlays. This permission is not used in the release build of the app and has no effect on your privacy.
+          </p>
+        </div>
+
+        <!-- DETECT_SCREEN_CAPTURE -->
+        <div class="permission-card rounded-xl p-6 sm:p-8 space-y-3">
+          <div class="flex items-center gap-3">
+            <div class="flex-shrink-0 w-9 h-9 rounded-lg bg-slate-500/10 flex items-center justify-center">
+              <svg class="w-5 h-5 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" /></svg>
+            </div>
+            <h3 class="font-semibold text-white">Detect Screen Capture</h3>
+            <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-slate-500/10 text-slate-400 ml-auto">Inherited</span>
+          </div>
+          <p class="text-slate-300 text-sm leading-relaxed">
+            Declared by a framework dependency. The app does not detect, block, or respond to screenshots. This permission has no effect on your usage.
+          </p>
+        </div>
+
+        <!-- Badge permissions -->
+        <div class="permission-card rounded-xl p-6 sm:p-8 space-y-3">
+          <div class="flex items-center gap-3">
+            <div class="flex-shrink-0 w-9 h-9 rounded-lg bg-slate-500/10 flex items-center justify-center">
+              <svg class="w-5 h-5 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z" /></svg>
+            </div>
+            <h3 class="font-semibold text-white">Badge count permissions</h3>
+            <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-slate-500/10 text-slate-400 ml-auto">Inherited</span>
+          </div>
+          <p class="text-slate-300 text-sm leading-relaxed">
+            READ_APP_BADGE, UPDATE_BADGE, BADGE_COUNT_READ, BADGE_COUNT_WRITE, READ_SETTINGS, WRITE_SETTINGS, UPDATE_COUNT, CHANGE_BADGE, BROADCAST_BADGE, and PROVIDER_INSERT_BADGE are declared by the notification library to display unread badge counts on your home screen icon across different Android manufacturers (Samsung, Huawei, Xiaomi, etc.). They only affect the number shown on the app icon.
+          </p>
+        </div>
+
+        <!-- Billing / store -->
+        <div class="permission-card rounded-xl p-6 sm:p-8 space-y-3">
+          <div class="flex items-center gap-3">
+            <div class="flex-shrink-0 w-9 h-9 rounded-lg bg-slate-500/10 flex items-center justify-center">
+              <svg class="w-5 h-5 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z" /></svg>
+            </div>
+            <h3 class="font-semibold text-white">Billing, Check License, Install Referrer</h3>
+            <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-slate-500/10 text-slate-400 ml-auto">Google Play</span>
+          </div>
+          <p class="text-slate-300 text-sm leading-relaxed">
+            Declared by the Google Play Billing library (for the Pro upgrade purchase) and the Play Install Referrer library. These are standard Google Play Store requirements and do not access any personal data.
+          </p>
+        </div>
+
+        <!-- DOWNLOAD_WITHOUT_NOTIFICATION -->
+        <div class="permission-card rounded-xl p-6 sm:p-8 space-y-3">
+          <div class="flex items-center gap-3">
+            <div class="flex-shrink-0 w-9 h-9 rounded-lg bg-slate-500/10 flex items-center justify-center">
+              <svg class="w-5 h-5 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" /></svg>
+            </div>
+            <h3 class="font-semibold text-white">Download Without Notification</h3>
+            <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-slate-500/10 text-slate-400 ml-auto">Inherited</span>
+          </div>
+          <p class="text-slate-300 text-sm leading-relaxed">
+            Declared by a framework dependency. The app does not download files in the background.
+          </p>
+        </div>
+
+        <!-- Permissions we DON'T request -->
+        <div class="glass-panel rounded-2xl shadow-glass p-6 sm:p-8 space-y-4 mt-8">
+          <h3 class="text-lg font-semibold text-white">Permissions we do not request</h3>
+          <p class="text-slate-300 text-sm leading-relaxed">
+            These are common permissions that many apps ask for. We do not request any of them, and they do not appear in our manifest.
+          </p>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 mt-4">
+            <div class="flex items-center gap-3">
+              <svg class="w-5 h-5 text-red-400 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" /></svg>
+              <span class="text-slate-300 text-sm"><strong class="text-white">Location</strong> &mdash; no GPS, no geofencing, no tracking</span>
+            </div>
+            <div class="flex items-center gap-3">
+              <svg class="w-5 h-5 text-red-400 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" /></svg>
+              <span class="text-slate-300 text-sm"><strong class="text-white">Contacts</strong> &mdash; no access to your address book</span>
+            </div>
+            <div class="flex items-center gap-3">
+              <svg class="w-5 h-5 text-red-400 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" /></svg>
+              <span class="text-slate-300 text-sm"><strong class="text-white">Bluetooth</strong> &mdash; no local network or device scanning</span>
+            </div>
+            <div class="flex items-center gap-3">
+              <svg class="w-5 h-5 text-red-400 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" /></svg>
+              <span class="text-slate-300 text-sm"><strong class="text-white">Calendar</strong> &mdash; reminders are handled on-device, not via your calendar</span>
+            </div>
+          </div>
+        </div>
+
+      </section>
+
+      <!-- CTA -->
+      <section class="text-center pt-4 pb-8">
+        <p class="text-slate-400 text-sm mb-6">
+          Still have questions? Read our full <a href="../privacy-policy/" class="text-brand-gold hover:text-yellow-300 transition-colors">Privacy Policy</a> or check the <a href="../faq/" class="text-brand-gold hover:text-yellow-300 transition-colors">FAQ</a>.
+        </p>
+      </section>
+
+    </main>
+  </div>
+
+  <!-- Footer -->
+  <footer class="text-center pt-24 md:pt-32 pb-24 md:pb-10 space-y-4">
+    <div class="flex flex-wrap items-center justify-center gap-x-6 gap-y-2 text-sm font-medium">
+      <a href="../features/" class="text-slate-50 hover:text-white transition-colors duration-200">Features</a>
+      <span class="text-blue-200/20 hidden sm:inline">&middot;</span>
+      <a href="../faq/" class="text-slate-50 hover:text-white transition-colors duration-200">FAQ</a>
+      <span class="text-blue-200/20 hidden sm:inline">&middot;</span>
+      <a href="../blog/why-i-built-travel-document-vault/" class="text-slate-50 hover:text-white transition-colors duration-200">Why We Built This</a>
+      <span class="text-blue-200/20 hidden sm:inline">&middot;</span>
+      <a href="../accessibility/" class="text-slate-50 hover:text-white transition-colors duration-200">Accessibility</a>
+      <span class="text-blue-200/20 hidden sm:inline">&middot;</span>
+      <a href="../privacy-policy/" class="text-slate-50 hover:text-white transition-colors duration-200">Privacy Policy</a>
+      <span class="text-blue-200/20 hidden sm:inline">&middot;</span>
+      <a href="../terms/" class="text-slate-50 hover:text-white transition-colors duration-200">Terms of Service</a>
+      <span class="text-blue-200/20 hidden sm:inline">&middot;</span>
+      <a href="../pricing-policy/" class="text-slate-50 hover:text-white transition-colors duration-200">Pricing Policy</a>
+    </div>
+    <div class="text-sm">
+      <a href="mailto:support@traveldocumentvault.com" class="text-slate-50 hover:text-white transition-colors duration-200">support&#64;traveldocumentvault&#46;com</a>
+    </div>
+    <p class="text-slate-50 text-xs">&copy; Mustafa Hafeez. All rights reserved.</p>
+  </footer>
+  <script src="../assets/js/cookie-consent.js" defer></script>
+  <script src="../assets/js/mobile-menu.js" defer></script>
+</body>
+</html>

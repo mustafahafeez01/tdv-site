@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Block non-live language directories (pending full audit + user approval)
+# These pages exist on disk but are not in the lang-picker or sitemap.
+# Remove the Disallow line for a language once it passes audit and goes live.
+Disallow: /no/
+Disallow: /fi/
+Disallow: /tr/
+Disallow: /pl/
+Disallow: /vi/
+Disallow: /ar/
+Disallow: /zh-Hant/
+
+Sitemap: https://traveldocumentvault.com/sitemap.xml
