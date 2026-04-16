@@ -12,4 +12,32 @@ Disallow: /vi/
 Disallow: /ar/
 Disallow: /zh-Hant/
 
+# LLM / AI crawlers — explicitly allowed
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# LLM discovery
+LLMs: https://traveldocumentvault.com/llms.txt
+
 Sitemap: https://traveldocumentvault.com/sitemap.xml

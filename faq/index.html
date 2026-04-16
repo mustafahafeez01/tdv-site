@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#003A87">
-  <title>FAQ | Travel Document Vault</title>
-  <meta name="description" content="One less thing to worry about. Answers about Travel Document Vault, your offline family passport organizer with smart expiry reminders. No accounts. No cloud. No subscription.">
+  <title>Passport &amp; Travel Document FAQ | Travel Document Vault</title>
+  <meta name="description" content="Answers about Travel Document Vault: on-device passport storage, AES-256 encryption, offline access, expiry reminders. No accounts, no cloud, no subscription.">
   <link rel="canonical" href="https://traveldocumentvault.com/faq/">
   <link rel="alternate" hreflang="x-default" href="https://traveldocumentvault.com/faq/">
   <link rel="alternate" hreflang="en"      href="https://traveldocumentvault.com/faq/">
@@ -26,7 +26,7 @@
   <link rel="alternate" hreflang="th"      href="https://traveldocumentvault.com/th/faq/">
 
   <!-- Open Graph / Facebook -->
-  <meta property="og:title" content="FAQ | Travel Document Vault">
+  <meta property="og:title" content="Passport &amp; Travel Document FAQ | Travel Document Vault">
   <meta property="og:description" content="One less thing to worry about. Answers about Travel Document Vault, your offline family passport organizer with smart expiry reminders. No accounts. No cloud. No subscription.">
   <meta property="og:image" content="https://traveldocumentvault.com/assets/images/social-preview.png">
   <meta property="og:url" content="https://traveldocumentvault.com/faq/">
@@ -36,7 +36,7 @@
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="FAQ | Travel Document Vault">
+  <meta name="twitter:title" content="Passport &amp; Travel Document FAQ | Travel Document Vault">
   <meta name="twitter:description" content="One less thing to worry about. Answers about Travel Document Vault, your offline family passport organizer with smart expiry reminders. No accounts. No cloud. No subscription.">
   <meta name="twitter:image" content="https://traveldocumentvault.com/assets/images/social-preview.png">
 
@@ -114,6 +114,48 @@
         "@type": "Answer",
         "text": "Travel Document Vault was built by Mustafa Hafeez, a senior software developer with years of professional experience building privacy-respecting applications, and a parent who needed this app for his own family. Privacy is not a marketing line. The app was designed and architected from day one so that documents never leave your device, no accounts are needed, and no servers are involved."
       }
+    }, {
+      "@type": "Question",
+      "name": "Can I snooze a reminder?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. When a reminder fires, tap Snooze directly from the notification. Choose 1 hour, later today, tomorrow, or next week. The app reschedules it automatically. You can also snooze from inside the app on the document detail screen."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Can I colour-code my documents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Every document card is colour-coded automatically. Green means valid, amber means expiry is approaching, and red means expired or expiring imminently. Pro users can also override the colour on a per-document-type basis from profile settings, assigning a distinct colour to passports, visas, or any category."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Can I attach photos to my notes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Notes and Vouchers support multiple image attachments. Free users can attach one image per note. Pro users can attach up to 10. Every image is encrypted on-device, exactly like the rest of your vault."
+      }
+    }, {
+      "@type": "Question",
+      "name": "What is Show to Another Person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Show to Another Person is a protected display mode for moments when a border officer, hotel receptionist, or airline agent needs to see a document on your screen. It blocks screenshots and screen recordings. When they hand your phone back, a single tap returns you to your vault. Your documents never leave your device."
+      }
+    }, {
+      "@type": "Question",
+      "name": "What is a recovery code, and why do I need one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A recovery code is your safety net if you ever forget your PIN. When you set up App Lock, the app generates a unique recovery code. Save it somewhere safe. If you forget your PIN, enter your recovery code on the PIN screen to disable App Lock and regain full access without losing any documents."
+      }
+    }, {
+      "@type": "Question",
+      "name": "What is Auto-Erase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Auto-Erase permanently wipes your vault if too many incorrect PIN attempts are made. It is off by default. Enable it in Settings if you want maximum protection against a stolen phone. Use it alongside a vault export backup so you can restore if it ever triggers accidentally."
+      }
     }]
   }
   </script>
@@ -189,6 +231,18 @@
       transform: translateY(0);
     }
   </style>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Travel Document Vault FAQ",
+    "url": "https://traveldocumentvault.com/faq/",
+    "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": ["h1", "h2", ".faq-item"]
+    }
+  }
+  </script>
 </head>
 <body class="bg-gradient-to-b from-[#003A87] to-[#0A192F] font-sans antialiased text-slate-200 min-h-screen selection:bg-brand-gold selection:text-white">
 <a href="#main" class="skip-link sr-only">Skip to main content</a>
@@ -585,6 +639,49 @@
             <p class="mt-3">If you restore from a backup, your documents will automatically work on your new device without you needing to do anything special.</p>
           </div>
         </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-show-to-another" class="faq-toggle hidden peer" />
+          <label for="faq-show-to-another" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">What is "Show to Another Person"?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Show to Another Person is a protected display mode for moments when a border officer, hotel receptionist, or airline agent needs to see a document on your screen. Tap the icon and the app enters a clean, full-screen view that <strong class="text-white">blocks screenshots and screen recordings.</strong> When they hand your phone back, a single tap returns you to your vault.</p>
+            <p class="mt-3">Your documents never leave your device. This mode just gives you a safe, controlled way to present them to someone else without handing over access to your entire vault.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-recovery-code" class="faq-toggle hidden peer" />
+          <label for="faq-recovery-code" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">What is a recovery code, and why do I need one?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>A recovery code is your safety net if you ever forget your PIN. When you set up App Lock, the app generates a unique recovery code. Save it somewhere safe: your password manager, a printed note, anywhere you trust.</p>
+            <p class="mt-3">If you forget your PIN, enter your recovery code on the PIN screen. App Lock is disabled and you regain <strong class="text-white">full access without losing a single document.</strong></p>
+            <p class="mt-3 text-sm text-slate-400">Without a recovery code, the only option is to delete and reinstall the app, which permanently erases your vault. Save your code when prompted. You will not get a second chance.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-auto-erase" class="faq-toggle hidden peer" />
+          <label for="faq-auto-erase" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">What is Auto-Erase?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Auto-Erase permanently wipes your vault if too many incorrect PIN attempts are made. It is <strong class="text-white">off by default.</strong> Enable it in Settings → App Lock if you want maximum protection against a stolen phone. Once too many wrong attempts are made, every document is erased and cannot be recovered.</p>
+            <p class="mt-3"><strong class="text-white">Important:</strong> Enable Auto-Erase only after creating a vault export backup. That way, if it ever triggers accidentally, you can restore from your backup. Using it alongside a recovery code gives you both maximum security and a clear path back in.</p>
+          </div>
+        </div>
       </div>
     </section>
 
@@ -706,13 +803,7 @@
               <li><strong class="text-white">Biometric Lock:</strong> Enable Face ID (iPhone with Face ID), Touch ID (iPhone with fingerprint), or fingerprint unlock (Android). Free for all users — because security should not be paywalled.</li>
             </ul>
             <p class="mt-3"><strong class="text-white">Best practice:</strong> Enable App Lock + set your device to auto-lock after 30 seconds. This creates multiple layers of protection: device lock, then app lock, then encrypted files.</p>
-            <p class="mt-3 text-sm text-slate-500"><strong class="text-white">Important: Forgotten PIN:</strong> If you forget your PIN, the only way to regain access is to delete and reinstall the app, which <strong class="text-white">permanently deletes all your data</strong>. To protect yourself:</p>
-            <ul class="list-disc list-inside mt-2 space-y-1 ml-2 text-sm text-slate-500">
-              <li>Export an encrypted backup <strong class="text-white">before</strong> enabling App Lock (Settings → Export Vault)</li>
-              <li>Store your PIN somewhere safe (e.g., your device's password manager)</li>
-              <li>Enable <strong class="text-white">biometric unlock</strong> (free for all users) so you can use Face ID, Touch ID, or fingerprint instead of typing the PIN</li>
-              <li>If you have device backups (iCloud/Google) enabled, restoring from a backup may recover your data after reinstalling</li>
-            </ul>
+            <p class="mt-3 text-sm text-slate-400"><strong class="text-white">Forgotten PIN?</strong> Save your recovery code when you set up App Lock. Enter it in the PIN screen to disable App Lock without losing any data. See "What is a recovery code?" below for full details.</p>
           </div>
         </div>
 
@@ -802,6 +893,46 @@
             <p>Yes. You can store health insurance cards, repeat prescriptions, vaccination records, and any other health-related document. Use the <strong class="text-white">Note</strong> or <strong class="text-white">Document</strong> type, add an expiry date, and the app will send you reminders before renewal is due — the same way it does for passports and visas. Everything stays on your device, encrypted, and never uploaded anywhere.</p>
           </div>
         </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-snooze" class="faq-toggle hidden peer" />
+          <label for="faq-snooze" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Can I snooze a reminder?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Yes. When a reminder fires, tap <strong class="text-white">Snooze</strong> directly from the notification. Choose 1 hour, later today, tomorrow, or next week. The app reschedules it automatically. You can also snooze from inside the app on the document detail screen. The reminder comes back at exactly the time you chose. No need to remember to check manually.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-colour-code" class="faq-toggle hidden peer" />
+          <label for="faq-colour-code" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Can I colour-code my documents?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Every document card is colour-coded automatically. <strong class="text-white">Green</strong> means valid, <strong class="text-white">amber</strong> means expiry is approaching, and <strong class="text-white">red</strong> means expired or expiring imminently. You can see the status of your entire vault at a glance without opening a single document.</p>
+            <p class="mt-3"><strong class="text-white">Pro users</strong> can go further: override the colour on a per-document-type basis from the profile settings tab. Assign a distinct colour to passports, visas, or any category you want to stand out. This stacks on top of the status colours, so you always see both the category and the urgency at once.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-note-attachments" class="faq-toggle hidden peer" />
+          <label for="faq-note-attachments" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Can I attach photos to my notes?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Yes. Notes and Vouchers support multiple image attachments. Free users can attach one image per note. <strong class="text-white">Pro users can attach up to 10.</strong> Attach a photo of a confirmation email, a QR code, a booking reference, or anything else that adds context. Every image is encrypted on-device, exactly like the rest of your vault.</p>
+          </div>
+        </div>
       </div>
     </section>
 
@@ -846,7 +977,7 @@
 
         <div class="faq-item p-6">
           <input type="checkbox" id="faq-storage-space" class="faq-toggle hidden peer" />
-          <label for="faq-storage-space" class="faq-label flex items-center justify-center cursor-pointer">
+          <label for="faq-storage-space" class="faq-label flex items-center justify-between cursor-pointer">
             <span class="font-semibold text-white">How much storage space does the app use?</span>
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />

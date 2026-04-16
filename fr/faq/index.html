@@ -585,6 +585,49 @@
             <p class="mt-3">Si vous restaurez à partir d'une sauvegarde, vos documents fonctionneront automatiquement sur votre nouvel appareil sans que vous ayez besoin de rien faire de spécial.</p>
           </div>
         </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-show-to-another" class="faq-toggle hidden peer" />
+          <label for="faq-show-to-another" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Qu'est-ce que « Montrer à une autre personne » ?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Montrer à une autre personne est un mode d'affichage protégé pour les moments où un agent des frontières, un réceptionniste d'hôtel ou un agent de compagnie aérienne a besoin de voir un document sur votre écran. Appuyez sur l'icône et l'application passe à une vue épurée, en plein écran qui <strong class="text-white">bloque les captures d'écran et les enregistrements d'écran.</strong> Quand ils vous rendent votre téléphone, un seul appui vous ramène à votre coffre.</p>
+            <p class="mt-3">Vos documents ne quittent jamais votre appareil. Ce mode vous offre simplement un moyen sûr et contrôlé de les présenter à quelqu'un d'autre sans lui donner accès à votre coffre entier.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-recovery-code" class="faq-toggle hidden peer" />
+          <label for="faq-recovery-code" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Qu'est-ce qu'un code de récupération, et pourquoi en ai-je besoin ?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Un code de récupération est votre filet de sécurité si vous oubliez jamais votre PIN. Quand vous configurez Verrouillage de l'application, l'application génère un code de récupération unique. Enregistrez-le quelque part de sûr : votre gestionnaire de mots de passe, une note imprimée, n'importe où où vous faites confiance.</p>
+            <p class="mt-3">Si vous oubliez votre PIN, entrez votre code de récupération sur l'écran PIN. Le verrouillage de l'application est désactivé et vous récupérez <strong class="text-white">l'accès complet sans perdre un seul document.</strong></p>
+            <p class="mt-3 text-sm text-slate-400">Sans code de récupération, la seule option est de supprimer et réinstaller l'application, ce qui efface définitivement votre coffre. Enregistrez votre code quand vous êtes invité. Vous n'aurez pas une deuxième chance.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-auto-erase" class="faq-toggle hidden peer" />
+          <label for="faq-auto-erase" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Qu'est-ce que l'Effacement automatique ?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>L'Effacement automatique efface définitivement votre coffre si trop de tentatives PIN incorrectes sont effectuées. Il est <strong class="text-white">désactivé par défaut.</strong> Activez-le dans Paramètres → Verrouillage de l'application si vous voulez une protection maximale contre un téléphone volé. Une fois qu'un trop grand nombre de tentatives incorrectes sont effectuées, chaque document est effacé et ne peut pas être récupéré.</p>
+            <p class="mt-3"><strong class="text-white">Important :</strong> Activez l'Effacement automatique uniquement après avoir créé une sauvegarde d'export du coffre. De cette façon, si cela se déclenche accidentellement, vous pouvez restaurer à partir de votre sauvegarde. L'utiliser aux côtés d'un code de récupération vous offre une sécurité maximale et un chemin clair vers l'accès.</p>
+          </div>
+        </div>
       </div>
     </section>
 
@@ -800,6 +843,46 @@
           </label>
           <div class="faq-content text-slate-300">
             <p>Oui. Vous pouvez stocker les cartes d'assurance maladie, les ordonnances renouvelables, les dossiers de vaccination et tout autre document lié à la santé. Utilisez le type <strong class="text-white">Note</strong> ou <strong class="text-white">Document</strong>, ajoutez une date d'expiration et l'application vous enverra des rappels avant que le renouvellement ne soit dû, de la même façon qu'elle le fait pour les passeports et les visas. Tout reste sur votre appareil, chiffré et jamais téléchargé nulle part.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-snooze" class="faq-toggle hidden peer" />
+          <label for="faq-snooze" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Puis-je reporter un rappel ?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Oui. Quand un rappel se déclenche, appuyez sur <strong class="text-white">Reporter</strong> directement depuis la notification. Choisissez 1 heure, plus tard aujourd'hui, demain ou la semaine prochaine. L'application la reprogramme automatiquement. Vous pouvez aussi reporter depuis l'application sur l'écran de détail du document. Le rappel revient exactement à l'heure que vous avez choisie. Pas besoin de vous souvenir de vérifier manuellement.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-colour-code" class="faq-toggle hidden peer" />
+          <label for="faq-colour-code" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Puis-je utiliser un code couleur pour mes documents ?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Chaque carte de document est automatiquement codée par couleur. <strong class="text-white">Vert</strong> signifie valide, <strong class="text-white">orange</strong> signifie que l'expiration approche, et <strong class="text-white">rouge</strong> signifie expiré ou expiration imminente. Vous pouvez voir l'état de votre coffre entier en un coup d'œil sans ouvrir un seul document.</p>
+            <p class="mt-3">Les <strong class="text-white">utilisateurs Pro</strong> peuvent aller plus loin : remplacer la couleur sur une base par type de document à partir de l'onglet des paramètres de profil. Attribuez une couleur distincte aux passeports, visas, ou n'importe quelle catégorie que vous voulez qui se démarque. Cela s'ajoute aux couleurs d'état, donc vous voyez toujours à la fois la catégorie et l'urgence en même temps.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-note-attachments" class="faq-toggle hidden peer" />
+          <label for="faq-note-attachments" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Puis-je joindre des photos à mes notes ?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Oui. Les notes et les bons prennent en charge plusieurs pièces jointes d'image. Les utilisateurs gratuits peuvent joindre une image par note. Les <strong class="text-white">utilisateurs Pro peuvent en joindre jusqu'à 10.</strong> Joignez une photo d'un e-mail de confirmation, un code QR, une référence de réservation, ou tout ce qui ajoute du contexte. Chaque image est chiffrée sur l'appareil, exactement comme le reste de votre coffre.</p>
           </div>
         </div>
       </div>

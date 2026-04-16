@@ -74,6 +74,12 @@
       "@type": "WebPage",
       "@id": "https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/"
     }
+    ,
+    "isPartOf": {
+      "@type": "Blog",
+      "name": "Travel Document Vault Blog",
+      "url": "https://traveldocumentvault.com/blog/"
+    }
   }
   </script>
   
@@ -194,6 +200,58 @@
     .scroll-fade-in { opacity: 0; transform: translateY(30px); transition: opacity 0.6s ease-out, transform 0.6s ease-out; }
     .scroll-fade-in.visible { opacity: 1; transform: translateY(0); }
   </style>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why was Travel Document Vault built?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Travel Document Vault was built because managing family travel documents across multiple apps and folders created constant anxiety before trips. The app puts passports, visas, and IDs in one place with automatic expiry reminders, so you know immediately whether you are good to travel."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does Travel Document Vault upload documents to a server?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. Travel Document Vault is self-contained. There are no accounts to create, no server upload, and everything is encrypted on your device. Text recognition runs on-device when you scan a document. Nothing gets uploaded to any server."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is Travel Document Vault a subscription?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. Travel Document Vault is a one-time purchase. The free version gives you one profile, five documents, OCR, reminders, and a PIN lock. Pro unlocks unlimited profiles and documents with a single payment. Pay once, all v1.x updates included, forever."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What documents can I store in Travel Document Vault?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Travel Document Vault handles anything with an expiry date: passports, visas, work permits, driver's licences, health insurance, travel insurance, residency cards, and national IDs. One profile per family member, every document in one place."
+        }
+      }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Why I Built Travel Document Vault: For the Parent Who Remembers Everything",
+    "url": "https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/",
+    "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": ["h1", "h2", ".takeaways-box"]
+    }
+  }
+  </script>
 </head>
 
 <body class="bg-gradient-to-b from-[#003A87] to-[#0A192F] font-sans antialiased text-slate-200 min-h-screen selection:bg-brand-gold selection:text-white">
