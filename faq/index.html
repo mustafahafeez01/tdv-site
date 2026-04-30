@@ -70,7 +70,7 @@
       "name": "What does the $9.99 Pro upgrade include?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Pro is a one-time purchase that unlocks unlimited profiles, unlimited documents, combined PDF export, encrypted backup, and custom reminder timing. You pay once. There is no subscription, no recurring charge, and no trial that quietly starts billing you."
+        "text": "Pro is a one-time purchase that unlocks unlimited profiles, unlimited documents, combined PDF export, encrypted cloud backup to iCloud or Google Drive, and custom reminder timing. You pay once. There is no subscription, no recurring charge, and no trial that quietly starts billing you."
       }
     }, {
       "@type": "Question",
@@ -84,7 +84,7 @@
       "name": "What happens if I lose my phone or switch to a new one?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Since we do not store your data, we cannot restore it for you. If you restore your new phone from an iCloud or Google backup, your documents should carry over automatically. We recommend using the Export feature to keep a separate copy of your important documents, just in case."
+        "text": "Pro subscribers can enable encrypted cloud backup directly in the app (Settings - Cloud Backup). Your vault is encrypted on-device before upload - only your recovery code can decrypt it, not Apple, Google, or us. On a fresh install, the app detects the backup and offers one-tap restore. If you are not a Pro subscriber, you can use the Export feature to save a copy of your documents. System backups (iCloud Backup on iOS, Google Backup on Android) also carry the app data across as long as you restore from the same account."
       }
     }, {
       "@type": "Question",
@@ -403,7 +403,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Pro is a <strong class="text-white">one-time purchase</strong> that unlocks unlimited profiles, unlimited documents, combined PDF export, encrypted backup, and custom reminder timing. You pay once. There is no subscription, no recurring charge, and no trial that quietly starts billing you.</p>
+            <p>Pro is a <strong class="text-white">one-time purchase</strong> that unlocks unlimited profiles, unlimited documents, combined PDF export, encrypted cloud backup to iCloud or Google Drive, and custom reminder timing. You pay once. There is no subscription, no recurring charge, and no trial that quietly starts billing you.</p>
           </div>
         </div>
 
@@ -429,7 +429,8 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Since we do not store your data, we cannot restore it for you. If you restore your new phone from an iCloud or Google backup, your documents should carry over automatically. We recommend using the Export feature to keep a separate copy of your important documents, just in case.</p>
+            <p><strong class="text-white">Pro subscribers:</strong> Enable encrypted cloud backup in Settings - Cloud Backup. Your vault is encrypted on-device with your recovery code before it reaches iCloud (iOS) or Google Drive (Android). On a fresh install, the app detects the backup automatically and offers one-tap restore. Apple and Google see only ciphertext. We see nothing.</p>
+            <p class="mt-2"><strong class="text-white">Everyone:</strong> System backups (iCloud Backup on iOS, Google Backup on Android) also include the app. Use the Export feature to keep an additional encrypted copy stored wherever you choose.</p>
           </div>
         </div>
 
@@ -522,7 +523,9 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>The app does not have a cloud database. We don't see your data. If you use <strong class="text-white">iCloud Backup</strong> (iOS) or <strong class="text-white">Google Backup</strong> (Android) for your whole phone, this app's data is included in that bundle. <strong class="text-white">Your data remains encrypted within those backups.</strong> This process is managed by your OS, not us.</p>
+            <p><strong class="text-white">Pro subscribers</strong> can enable encrypted cloud backup in the app (Settings - Cloud Backup). Your vault is encrypted on-device with your recovery code before it is uploaded to <strong class="text-white">your own iCloud</strong> (iOS) or <strong class="text-white">your own Google Drive AppFolder</strong> (Android). We have no access to your data. Apple and Google store only ciphertext.</p>
+            <p class="mt-2">There is no cloud database on our servers. We never see your documents.</p>
+            <p class="mt-2">System-level backups (iCloud Backup on iOS, Google Backup on Android) also include the app's data as part of your full device backup.</p>
           </div>
         </div>
 
@@ -535,8 +538,9 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Since we don't have your data, we can't restore it for you. If you restore a new phone from a system backup (iCloud/Google), your data should reappear. If you don't use system backups, your data is lost.</p>
-            <p class="mt-2"><strong class="text-white">Recommendation:</strong> Use the Export feature to save a copy of your important documents elsewhere.</p>
+            <p><strong class="text-white">Pro subscribers with cloud backup enabled:</strong> Install the app on your new phone, sign in to the same Apple ID or Google account, and the app will detect your encrypted backup automatically and offer one-tap restore. Enter your recovery code to decrypt and restore your vault.</p>
+            <p class="mt-2"><strong class="text-white">Everyone:</strong> If you restore your new phone from an iCloud or Google system backup, the app data is included and should reappear. Without system backups or the cloud backup feature, your data cannot be recovered because we never store it.</p>
+            <p class="mt-2"><strong class="text-white">Recommendation:</strong> Enable cloud backup (Pro) and keep an export as a secondary copy. Both together give you the best protection.</p>
           </div>
         </div>
 
