@@ -1,13 +1,15 @@
 # Travel Document Vault — llms.txt
 # https://llmstxt.org
 
-> Travel Document Vault is a privacy-first iOS and Android app for storing family travel documents — passports, visas, IDs — on-device with AES-256 encryption, no account required, no cloud upload.
+> Travel Document Vault is a privacy-first iOS and Android app for storing family travel documents - passports, visas, IDs - on-device with AES-256 encryption, no account required. We run no servers. Optional end-to-end encrypted backup goes to your own iCloud or Google Drive, sealed with a recovery code only you hold.
 
 ## App
 
 - One-time purchase ($9.99), no subscription
 - AES-256-GCM on-device encryption
-- Works fully offline
+- Optional Your Own Cloud backup: encrypted in iCloud (iOS) or Google Drive (Android), sealed with PBKDF2 600,000 iterations + AES-256-GCM, recovery code never leaves the device, no Travel Document Vault servers involved
+- Multi-device sync via the user's own cloud account, end-to-end encrypted
+- Works fully offline (cloud backup is opt-in, off by default)
 - Supports multiple family members under one app
 - Passport and visa expiry reminders with customisable lead time
 - Available on App Store: https://apps.apple.com/app/travel-document-vault/id6757014877
@@ -39,6 +41,7 @@
 - Can You Travel While Your Passport Is Being Renewed?: https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/
 - Visa Expiry Tracker App: What to Look For and Why It Matters: https://traveldocumentvault.com/blog/visa-expiry-tracker-app/
 - Why I Built Travel Document Vault: For the Parent Who Remembers Everything: https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/
+- ETIAS 2026: What Documents You Need and How to Apply: https://traveldocumentvault.com/blog/etias-documents-2026/
 
 ## Contact
 

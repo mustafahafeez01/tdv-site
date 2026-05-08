@@ -162,7 +162,7 @@
       </div>
 
       <div class="space-y-4 pb-4 border-b border-white/10">
-        <p class="text-sm font-semibold text-brand-gold">Last updated: January 28, 2026</p>
+        <p class="text-sm font-semibold text-brand-gold">Last updated: 5 May 2026</p>
         <p class="text-slate-300 text-sm leading-relaxed">
           Travel Document Vault (provided by Mustafa Hafeez) ("we" or "us" or "our") respects the privacy of our users ("user" or "you"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application, Travel Document Vault (the "Application"). Please read this Privacy Policy carefully. <span class="font-bold text-white">IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.</span>
         </p>
@@ -177,7 +177,7 @@
       <section class="space-y-3">
         <h2 class="text-xl font-bold text-white">Introduction</h2>
         <p class="text-slate-300 leading-relaxed">
-          Travel Document Vault is designed to provide a secure, local environment for managing your personal travel documents. Our philosophy is strict data isolation: we believe your sensitive documents belong solely to you, on your device. This Application operates without user accounts, cloud synchronization, or backend servers.
+          Travel Document Vault is designed to provide a secure, local environment for managing your personal travel documents. Our philosophy is strict data isolation: your sensitive documents belong solely to you, on your device. The Application operates without user accounts and without any backend servers run by us. We have never operated a server that holds user data, and we never will. We do not see, hold, or have access to your documents. If you choose to enable our optional Your Own Cloud backup feature, an encrypted copy of your vault is stored in your own iCloud or Google Drive account using end-to-end encryption with a recovery code only you hold. That encrypted copy is unreadable to us, to Apple, and to Google.
         </p>
       </section>
 
@@ -219,10 +219,49 @@
       <section class="space-y-3">
         <h2 class="text-xl font-bold text-white">Data Storage</h2>
         <p class="text-slate-300 leading-relaxed">
-          All documents and related data are <strong>encrypted on disk</strong> locally on your device using AES-256-GCM encryption. The app scrambles your files before saving them to your device's storage. The app does not upload, sync, or back up documents to any server.
+          All documents and related data are <strong>encrypted on disk</strong> locally on your device using AES-256-GCM encryption. The app scrambles your files before saving them to your device's storage.
         </p>
         <p class="text-slate-300 leading-relaxed mt-3">
-          If you have <strong class="text-white">iCloud Backup</strong> (iOS) or <strong class="text-white">Google Backup</strong> (Android) enabled, your documents are included in your encrypted device backup. This is handled by your operating system, not by the app. When you export your vault, the backup is <strong class="text-white">password-protected</strong> with AES-256-GCM encryption and PBKDF2 key derivation, ensuring your data remains encrypted even outside your device.
+          By default, the app does not upload, sync, or back up your documents anywhere. We do not run servers. If you choose to enable Your Own Cloud (see next section), an encrypted copy of your vault is stored in your own iCloud or Google Drive account, sealed with a key only you hold. We never receive your data and never operate infrastructure that stores it.
+        </p>
+        <p class="text-slate-300 leading-relaxed mt-3">
+          If you have <strong class="text-white">iCloud Backup</strong> (iOS) or <strong class="text-white">Google Backup</strong> (Android) enabled at the operating-system level, your encrypted local app data is included in your operating system's device backup. This is handled by your operating system, not by us. When you manually export your vault, the export file is <strong class="text-white">password-protected</strong> with AES-256-GCM encryption and PBKDF2 key derivation, so your data remains encrypted even outside your device.
+        </p>
+      </section>
+
+      <section class="space-y-3">
+        <h2 class="text-xl font-bold text-white">Your Own Cloud (Optional Backup)</h2>
+        <p class="text-slate-300 leading-relaxed">
+          The Application offers an <strong class="text-white">optional</strong> backup feature called <strong class="text-white">Your Own Cloud</strong>. It is <strong class="text-white">off by default</strong>. You enable it from inside the app and you can turn it off at any time.
+        </p>
+        <p class="text-slate-300 leading-relaxed mt-3">
+          When enabled, an encrypted copy of your vault is stored in <strong class="text-white">your own iCloud account</strong> (iOS) or <strong class="text-white">your own Google Drive account</strong> (Android). It is never stored on any server we operate. We do not run servers that hold user data and we never have.
+        </p>
+        <p class="text-slate-300 leading-relaxed mt-3">
+          <strong class="text-white">How the encryption works:</strong>
+        </p>
+        <ul class="list-disc list-inside text-slate-300 space-y-1 ml-4">
+          <li>When you turn on backup, the app generates a <strong class="text-white">recovery code</strong> on your device. This recovery code is your only key.</li>
+          <li>The recovery code is processed using PBKDF2 with 600,000 iterations, then HKDF, to derive the keys that seal your vault.</li>
+          <li>Your vault is sealed with AES-256-GCM before it ever leaves your device.</li>
+          <li>The recovery code is <strong class="text-white">never sent to us</strong>, never sent to Apple, and never sent to Google. Only you have it. If you lose it, no one can recover your backup, including us.</li>
+          <li>Apple and Google see only an encrypted blob in your iCloud or Google Drive folder. They cannot read its contents. Neither can we.</li>
+          <li>We see nothing. We have no servers, no logs, and no telemetry tied to your backup.</li>
+        </ul>
+        <p class="text-slate-300 leading-relaxed mt-3">
+          <strong class="text-white">What is uploaded:</strong> An encrypted blob containing your documents, profiles, trips, notes, expiry dates, and reminders. Everything in your vault, sealed as one package before it leaves your device.
+        </p>
+        <p class="text-slate-300 leading-relaxed mt-3">
+          <strong class="text-white">Multi-device sync:</strong> Once enabled, you can install the Application on another device, sign in with the same iCloud or Google account, enter your recovery code, and restore your vault. Subsequent changes sync between your devices through your own cloud account, end-to-end encrypted at every step.
+        </p>
+        <p class="text-slate-300 leading-relaxed mt-3">
+          <strong class="text-white">Turning it off:</strong> You can disable Your Own Cloud at any time inside the app. When you disable it, the Application removes the encrypted blob from your iCloud or Google Drive folder. Your local vault on your device is unaffected.
+        </p>
+        <p class="text-slate-300 leading-relaxed mt-3">
+          <strong class="text-white">Provider relationship:</strong> Apple Inc. (iCloud) and Google LLC (Google Drive) act as blind storage for the encrypted blob. Their handling of the file is governed by your own iCloud or Google account terms. Because we never operate servers and never receive your data, no data processing agreement between you and us is needed for the backup contents.
+        </p>
+        <p class="text-slate-300 leading-relaxed mt-3">
+          <strong class="text-white">Legal basis (UK GDPR / EU GDPR):</strong> Your explicit, opt-in consent (Article 6(1)(a)), given inside the Application when you enable the feature. You can withdraw consent at any time by disabling the feature.
         </p>
       </section>
 
