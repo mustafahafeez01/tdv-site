@@ -71,7 +71,7 @@
       "name": "Hvad indeholder $9.99 Pro-opgraderingen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Pro er et engangskøb, der låser op for ubegrænsede profiler, ubegrænsede dokumenter, kombineret PDF-eksport, krypteret sikkerhedskopiering og brugerdefineret påmindelsestiming. Du betaler én gang. Der er intet abonnement, ingen tilbagevendende gebyrer og ingen prøveperiode, der stille og roligt begynder at opkræve dig."
+        "text": "Pro er et engangskøb, der låser op for ubegrænsede profiler, ubegrænsede dokumenter, kombineret PDF-eksport, krypteret sky-sikkerhedskopiering og brugerdefineret påmindelsestiming. Du betaler én gang. Der er intet abonnement, ingen tilbagevendende gebyrer og ingen prøveperiode, der stille og roligt begynder at opkræve dig."
       }
     }, {
       "@type": "Question",
@@ -85,7 +85,7 @@
       "name": "Hvad sker der, hvis jeg mister min telefon eller skifter til en ny?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Da vi ikke gemmer dine data, kan vi ikke gendanne dem for dig. Hvis du gendanner din nye telefon fra en iCloud- eller Google-sikkerhedskopi, bør dine dokumenter overføres automatisk. Vi anbefaler at bruge eksportfunktionen til at beholde en separat kopi af dine vigtige dokumenter, for en sikkerheds skyld."
+        "text": "Da vi ikke gemmer dine data, kan vi ikke gendanne dem for dig. Almindelige telefonsikkerhedskopier (iCloud eller Google Backup) omfatter ikke app-data, fordi krypteringsnøglen aldrig forlader din enhed. I stedet kan du bruge gratis Vault Export til at gemme en krypteret .tdvault-fil, eller aktivere Pro-Cloud Backup til krypteret sikkerhedskopi til dit eget iCloud eller Google Drive."
       }
     }, {
       "@type": "Question",
@@ -114,6 +114,41 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Travel Document Vault er bygget af Mustafa Hafeez, en senior softwareudvikler med mange års professionel erfaring med at bygge privatlivsbeskyttende applikationer, og en forælder, der havde brug for denne app til sin egen familie. Privatlivsbeskyttelse er ikke en marketingfrase. Appen er designet og bygget fra dag ét, så dokumenter aldrig forlader din enhed, ingen konti er nødvendige, og ingen servere er involveret."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Kan jeg tage gratis sikkerhedskopi af mine data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja. Vault Export (krypteret .tdvault-sikkerhedskopifil) er gratis for alle. Appen opretter også automatiske lokale sikkerhedskopier på din enhed med få minutters mellemrum, uden beregning. Sky-sikkerhedskopiering til dit eget iCloud eller Google Drive er Pro-muligheden. Ingen sikkerhedskopierings-funktion låser dine data inde."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Hvad betyder 'Seneste sikkerhedskopi: for 2 timer siden, 12 dokumenter' i Indstillinger?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Den linje viser appens seneste automatiske lokale sikkerhedskopi: hvor lang tid siden den blev gemt, og hvor mange dokumenter den indeholder. Det bekræfter, at der findes en gendannelig kopi på din enhed. Tryk på Gendan lokal sikkerhedskopi for at rulle tilbage til den."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Hvordan gendanner jeg mit vault fra en lokal sikkerhedskopi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gå til Indstillinger og tryk på Gendan lokal sikkerhedskopi. Appen viser en liste over tilgængelige sikkerhedskopier med tidsstempler. Vælg den du ønsker, og bekræft. For at gendanne fra en .tdvault-fil du har eksporteret, tryk i stedet på Importer vault og vælg filen. Begge muligheder er gratis for alle. Gendannelse erstatter dine nuværende data med indholdet af sikkerhedskopien."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Appen viser et gendannelsesskærmbillede eller siger, at mine data ikke kunne indlæses. Hvad gør jeg?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appen sletter aldrig dine data lydløst. Hvis den ikke kan læse det lokale lager, viser den et gendannelsesskærmbillede i stedet for at slette noget. Tryk på Gendan lokal sikkerhedskopi for at gendanne fra den seneste automatiske sikkerhedskopi, eller tryk på Importer vault for at gendanne fra en .tdvault-fil du tidligere har eksporteret. Sikkerhedskopier oprettet inden en nylig appopdatering kan også gendannes. Dine dokumenter kan gendannes, og intet er blevet slettet."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Hvorfor oprettede appen en sikkerhedskopi inden opdatering?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inden en større opgradering af dataformatet tager appen automatisk et øjebliksbillede af dit vault, så den kan rulle tilbage, hvis noget går galt. Processen er automatisk og gratis for alle."
       }
     }]
   }
@@ -166,7 +201,7 @@
     }
 
     .faq-toggle:checked ~ .faq-content {
-      max-height: 500px;
+      max-height: 800px;
       padding-top: 1rem;
       padding-bottom: 0.5rem;
     }
@@ -303,8 +338,19 @@
       </div>
     </section>
 
+    <!-- Table of Contents -->
+    <div class="flex flex-wrap items-center justify-center gap-2 mb-12 px-4">
+      <span class="text-sm font-medium text-slate-300">Gå til:</span>
+      <a href="#privacy" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Privatliv</a>
+      <a href="#features" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Funktioner</a>
+      <a href="#backup" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Sikkerhedskopi</a>
+      <a href="#pricing" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Priser</a>
+      <a href="#troubleshooting" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Fejlfinding</a>
+      <a href="#legal" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Juridisk</a>
+    </div>
+
     <!-- Trust & Transparency -->
-    <section class="scroll-fade-in">
+    <section id="privacy" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -350,7 +396,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Pro er et <strong class="text-white">engangskøb</strong>, der låser op for ubegrænsede profiler, ubegrænsede dokumenter, kombineret PDF-eksport, krypteret sikkerhedskopi og tilpasset påmindelsestidspunkt. Du betaler én gang. Der er intet abonnement, ingen tilbagevendende afgift og ingen prøveperiode, der stille og roligt begynder at opkræve dig.</p>
+            <p>Pro er et <strong class="text-white">engangskøb</strong>, der låser op for ubegrænsede profiler, ubegrænsede dokumenter, kombineret PDF-eksport, krypteret sky-sikkerhedskopi og tilpasset påmindelsestidspunkt. Du betaler én gang. Der er intet abonnement, ingen tilbagevendende afgift og ingen prøveperiode, der stille og roligt begynder at opkræve dig.</p>
           </div>
         </div>
 
@@ -376,7 +422,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Da vi ikke gemmer dine data, kan vi ikke gendanne dem for dig. Hvis du gendanner din nye telefon fra en iCloud- eller Google-sikkerhedskopi, bør dine dokumenter overføres automatisk. Vi anbefaler at bruge Eksport-funktionen til at beholde en separat kopi af dine vigtige dokumenter, for en sikkerheds skyld.</p>
+            <p>Da vi ikke gemmer dine data, kan vi ikke gendanne dem for dig. Almindelige telefonsikkerhedskopier (iCloud eller Google Backup) omfatter ikke app-data, fordi krypteringsnøglen aldrig forlader din enhed. I stedet kan du bruge gratis Vault Export til at gemme en krypteret .tdvault-fil, eller aktivere Pro-Cloud Backup til krypteret sikkerhedskopi til dit eget iCloud eller Google Drive.</p>
           </div>
         </div>
 
@@ -469,7 +515,20 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Appen har ingen cloud-database. Vi ser ikke dine data. Hvis du bruger <strong class="text-white">iCloud Backup</strong> (iOS) eller <strong class="text-white">Google Backup</strong> (Android) til hele din telefon, er denne apps data inkluderet i den pakke. <strong class="text-white">Dine data forbliver krypterede inden for disse sikkerhedskopier.</strong> Denne proces styres af dit operativsystem, ikke os.</p>
+            <p>Appen har ingen cloud-database. Vi ser ikke dine data. Selvom du bruger <strong class="text-white">iCloud Backup</strong> (iOS) eller <strong class="text-white">Google Backup</strong> (Android) til hele din telefon, er denne apps data <strong class="text-white">ikke</strong> inkluderet i den pakke, fordi krypteringsnøglen aldrig forlader din enhed. Du kan i stedet bruge Vault Export eller Pro-Cloud Backup til at sikkerhedskopiere dine dokumenter.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-backup-free">
+          <input type="checkbox" id="faq-backup-free-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-backup-free-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Kan jeg tage gratis sikkerhedskopi af mine data?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Ja. Vault Export (krypteret .tdvault-sikkerhedskopifil) er gratis for alle. Appen opretter også automatiske lokale sikkerhedskopier på din enhed med få minutters mellemrum, uden beregning. Sky-sikkerhedskopiering til dit eget iCloud eller Google Drive er Pro-muligheden. Ingen sikkerhedskopierings-funktion låser dine data inde.</p>
           </div>
         </div>
 
@@ -482,8 +541,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Da vi ikke har dine data, kan vi ikke gendanne dem for dig. Hvis du gendanner en ny telefon fra en systemsikkerhedskopi (iCloud/Google), bør dine data vises igen. Hvis du ikke bruger systemsikkerhedskopier, er dine data tabt.</p>
-            <p class="mt-2"><strong class="text-white">Anbefaling:</strong> Brug Eksport-funktionen til at gemme en kopi af dine vigtige dokumenter et andet sted.</p>
+            <p>Da vi ikke har dine data, kan vi ikke gendanne dem for dig. Systemsikkerhedskopier (iCloud/Google) omfatter ikke app-data, fordi krypteringsnøglen aldrig forlader din enhed. Du kan bruge gratis Vault Export til at gemme en krypteret .tdvault-fil og importere den på en ny enhed, eller aktivere Pro-Cloud Backup til krypteret sikkerhedskopi til dit eget iCloud eller Google Drive.</p>
           </div>
         </div>
 
@@ -527,7 +585,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Alle dine data er <strong class="text-white">permanent slettet</strong>, når du afinstallerer appen. Der er ingen måde at gendanne dem på efterfølgende, da vi ikke gemmer noget eksternt. <strong class="text-white">Inden sletning:</strong> Eksporter dine dokumenter eller opret en sikkerhedskopi ZIP-fil (Pro-funktion) for at gemme dem et andet sted.</p>
+            <p>Alle dine data er <strong class="text-white">permanent slettet</strong>, når du afinstallerer appen. Der er ingen måde at gendanne dem på efterfølgende, da vi ikke gemmer noget eksternt. <strong class="text-white">Inden sletning:</strong> Eksporter dine dokumenter eller opret en .tdvault-sikkerhedskopifil for at gemme dem et andet sted.</p>
           </div>
         </div>
       </div>
@@ -582,8 +640,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Ja.</strong> Automatiske sikkerhedskopier krypteres via din enheds indbyggede sikkerhedskopieringssystem (iCloud/Google). Manuelle vault-eksporter (Pro-funktion) er <strong class="text-white">adgangskodebeskyttede</strong> med stærk kryptering. Du angiver en adgangskode ved eksport og skal bruge den til gendannelse.</p>
-            <p class="mt-3">Hvis du gendanner fra en sikkerhedskopi, vil dine dokumenter automatisk fungere på din nye enhed uden at du behøver at gøre noget særligt.</p>
+            <p><strong class="text-white">Ja.</strong> Appen opretter lokale automatiske sikkerhedskopier på din enhed (ikke systemsikkerhedskopier). Vault-eksporter (.tdvault-filer) er <strong class="text-white">adgangskodebeskyttede</strong> med stærk kryptering. Du angiver en adgangskode ved eksport og skal bruge den til gendannelse. For at gendanne på en ny enhed bruges Vault Export eller Pro-Cloud Backup til dit eget iCloud eller Google Drive.</p>
           </div>
         </div>
 
@@ -633,7 +690,7 @@
     </section>
 
     <!-- Funktioner -->
-    <section class="scroll-fade-in">
+    <section id="features" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-blue-300">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -692,14 +749,14 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Ja! Gratis-brugere kan dele individuelle dokumenter. Pro-brugere får kraftfulde batchværktøjer: vælg specifikke dokumenter (eller alles profiler) og generer en <strong class="text-white">enkelt kombineret PDF</strong> optimeret til udskrivning. Du kan endda indstille brugerdefinerede filnavne til dine eksporter for at holde dine digitale poster organiseret.</p>
+            <p>Ja. Gratis-brugere kan dele individuelle dokumenter. Pro-brugere får kraftfulde batchværktøjer: vælg specifikke dokumenter (eller alles profiler) og generer en <strong class="text-white">enkelt kombineret PDF</strong> optimeret til udskrivning. Du kan endda indstille brugerdefinerede filnavne til dine eksporter for at holde dine digitale poster organiseret.</p>
           </div>
         </div>
 
         <div class="faq-item p-6">
           <input type="checkbox" id="faq-11" class="faq-toggle hidden peer" />
           <label for="faq-11" class="faq-label flex items-center justify-between cursor-pointer">
-            <span class="font-semibold text-white">Hvad med sikkerhedskopi?</span>
+            <span class="font-semibold text-white">Hvordan sikkerhedskopierer appen mine data?</span>
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
             </svg>
@@ -731,7 +788,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Ja!</strong> Appen fungerer helt offline. Du kan tilføje dokumenter, se dem og modtage påmindelser uden nogen internetforbindelse. Perfekt til rejser.</p>
+            <p><strong class="text-white">Ja.</strong> Appen fungerer helt offline. Du kan tilføje dokumenter, se dem og modtage påmindelser uden nogen internetforbindelse. Perfekt til rejser.</p>
           </div>
         </div>
 
@@ -769,14 +826,66 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Ja, appen opretter automatiske lokale sikkerhedskopier hvert 5. minut</strong> (når appen er åben og der foretages ændringer). Disse sikkerhedskopier gemmes på din enhed og er inkluderet i din iCloud (iOS) eller Google (Android) enhedssikkerhedskopi, hvis du har disse tjenester aktiveret.</p>
+            <p><strong class="text-white">Ja, appen opretter automatiske lokale sikkerhedskopier med få minutters mellemrum</strong> (når appen er åben og der foretages ændringer). Disse sikkerhedskopier gemmes på din enhed og er inkluderet i din iCloud (iOS) eller Google (Android) enhedssikkerhedskopi, hvis du har disse tjenester aktiveret.</p>
             <p class="mt-3"><strong class="text-white">Sådan fungerer det:</strong></p>
             <ul class="list-disc list-inside mt-3 space-y-2 ml-2">
               <li>Appen beholder <strong class="text-white">10 rullende sikkerhedskopier</strong> på din enhed. Når en 11. sikkerhedskopi oprettes, slettes den ældste automatisk.</li>
               <li>Sikkerhedskopier er <strong class="text-white">krypterede</strong> med samme beskyttelse som dine dokumenter.</li>
               <li>Hvis appen går ned eller du ved en fejl sletter et dokument, kan du gendanne fra den nyeste sikkerhedskopi via <strong class="text-white">Indstillinger → Importer vault</strong>.</li>
             </ul>
-            <p class="mt-3"><strong class="text-white">Manuelle sikkerhedskopier (Pro):</strong> Pro-brugere kan også oprette manuelle krypterede ZIP-sikkerhedskopier og gemme dem i Filer, iCloud Drive, eller dele dem via AirDrop/e-mail til opbevaring uden for enheden. Dette anbefales inden større opdateringer eller enhedsskift.</p>
+            <p class="mt-3"><strong class="text-white">Vault Export:</strong> Du kan eksportere en krypteret .tdvault-fil og gemme den i Filer, iCloud Drive, eller dele den via AirDrop/e-mail til opbevaring uden for enheden. Dette anbefales inden større opdateringer eller enhedsskift.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-backup-status-label">
+          <input type="checkbox" id="faq-backup-status-label-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-backup-status-label-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Hvad betyder "Seneste sikkerhedskopi: for 2 timer siden, 12 dokumenter" i Indstillinger?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Den linje viser appens seneste automatiske lokale sikkerhedskopi: hvor lang tid siden den blev gemt, og hvor mange dokumenter den indeholder. Det bekræfter, at der findes en gendannelig kopi på din enhed. Tryk på Gendan lokal sikkerhedskopi for at rulle tilbage til den.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-restore-local-backup">
+          <input type="checkbox" id="faq-restore-local-backup-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-restore-local-backup-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Hvordan gendanner jeg mit vault fra en lokal sikkerhedskopi?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Gå til Indstillinger og tryk på Gendan lokal sikkerhedskopi. Appen viser en liste over tilgængelige sikkerhedskopier med tidsstempler. Vælg den du ønsker, og bekræft. For at gendanne fra en .tdvault-fil du har eksporteret, tryk i stedet på Importer vault og vælg filen. Begge muligheder er gratis for alle. Gendannelse erstatter dine nuværende data med indholdet af sikkerhedskopien.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-recovery-screen">
+          <input type="checkbox" id="faq-recovery-screen-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-recovery-screen-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Appen viser et gendannelsesskærmbillede eller siger, at mine data ikke kunne indlæses. Hvad gør jeg?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Appen sletter aldrig dine data lydløst. Hvis den ikke kan læse det lokale lager, viser den et gendannelsesskærmbillede i stedet for at slette noget. Tryk på Gendan lokal sikkerhedskopi for at gendanne fra den seneste automatiske sikkerhedskopi, eller tryk på Importer vault for at gendanne fra en .tdvault-fil du tidligere har eksporteret. Sikkerhedskopier oprettet inden en nylig appopdatering kan også gendannes. Dine dokumenter kan gendannes, og intet er blevet slettet.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-backup-before-update">
+          <input type="checkbox" id="faq-backup-before-update-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-backup-before-update-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Hvorfor oprettede appen en sikkerhedskopi inden opdatering?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Inden en større opgradering af dataformatet tager appen automatisk et øjebliksbillede af dit vault, så den kan rulle tilbage, hvis noget går galt. Processen er automatisk og gratis for alle.</p>
           </div>
         </div>
 
@@ -817,7 +926,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Kort tid, ja.</strong> Efter sletning af dokumenter (enkelt eller masse) vil du se et kort fortrydelsesvindue nederst på skærmen. Tryk på <strong class="text-white">"Fortryd"</strong> for at gendanne dem øjeblikkeligt. Når fortrydelsesvinduet forsvinder, er sletningen <strong class="text-white">permanent</strong> og kan ikke fortrydes. Vi anbefaler at eksportere en sikkerhedskopi inden massesletning af dokumenter.</p>
+            <p><strong class="text-white">Ja - du har to beskyttelsesniveauer.</strong> Efter sletning af dokumenter (enkelt eller masse) vil du se et kort fortrydelsesvindue nederst på skærmen. Tryk på <strong class="text-white">"Fortryd"</strong> for at gendanne dem øjeblikkeligt. Hvis du misser fortrydelsesvinduet, flyttes slettede dokumenter til <strong class="text-white">Nylig slettede</strong> i Indstillinger, hvor de bliver i 30 dage, før de bliver slettet permanent. Pro-brugere med cloud backup aktiveret holder elementer i Nylig slettede på ubestemt tid, indtil de trykker på Slet permanent.</p>
           </div>
         </div>
 
@@ -924,7 +1033,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Ja, ved at bruge krypteret vault-eksport (Pro-funktion).</strong> Eksporter en krypteret sikkerhedskopi fra din nuværende enhed (Indstillinger → Eksporter vault), overfør den til din nye enhed (via e-mail, cloud-lagring eller direkte overførsel), og brug derefter Indstillinger → Importer vault til at gendanne dine dokumenter.</p>
+            <p><strong class="text-white">Ja, ved at bruge krypteret Vault Export.</strong> Eksporter en krypteret .tdvault-fil fra din nuværende enhed (Indstillinger → Eksporter vault), overfør den til din nye enhed (via e-mail, cloud-lagring eller direkte overførsel), og brug derefter Indstillinger → Importer vault til at gendanne dine dokumenter.</p>
             <p class="mt-3">Dette fungerer på tværs af platforme, fordi krypteringsformatet er universelt. Du skal bruge den samme adgangskode, som du brugte, da du eksporterede vault'en. Dit Pro-køb skal også gendannes på den nye enhed (se "Kan jeg gendanne mit køb på en ny enhed?" nedenfor).</p>
           </div>
         </div>
@@ -960,7 +1069,7 @@
     </section>
 
     <!-- Priser & Purchases -->
-    <section class="scroll-fade-in">
+    <section id="pricing" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -980,7 +1089,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Gratis</strong> inkluderer 1 profil og op til 5 dokumenter med fuld funktionalitet, inklusive OCR-scanning, udløbspåmindelser, dokumentdeling, PIN-lås og biometrisk lås (Face ID / Touch ID). <strong class="text-white">Pro</strong> (engangsbetaling på $9.99*) låser op for ubegrænsede profiler, ubegrænsede dokumenter, kombineret PDF-eksport, batcheksport (ZIP), brugerdefinerede påmindelsestider og flersides optagelse for flybilletter og andre dokumenter.</p>
+            <p><strong class="text-white">Gratis</strong> inkluderer 1 profil og op til 5 dokumenter med fuld funktionalitet, inklusive OCR-scanning, udløbspåmindelser, dokumentdeling, PIN-lås og biometrisk lås (Face ID / Touch ID). <strong class="text-white">Pro</strong> (engangsbetaling på $9.99*) låser op for ubegrænsede profiler, ubegrænsede dokumenter, kombineret PDF-eksport, batcheksport (.tdvault), brugerdefinerede påmindelsestider og flersides optagelse for flybilletter og andre dokumenter.</p>
             <p class="text-slate-400 text-xs mt-2">* Se <a href="/pricing-policy/#version-policy" class="text-brand-gold hover:text-white underline">Prispolitik</a> for versionsdetaljer.</p>
           </div>
         </div>
@@ -1057,7 +1166,7 @@
     </section>
 
     <!-- Troubleshooting -->
-    <section class="scroll-fade-in">
+    <section id="troubleshooting" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-blue-300">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -1123,8 +1232,114 @@
       </div>
     </section>
 
+    <!-- Setup and recovery -->
+    <section id="backup" class="scroll-fade-in">
+      <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
+        <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
+          </svg>
+        </span>
+        Konfiguration og gendannelse
+      </h2>
+
+      <div class="glass-panel rounded-2xl overflow-hidden">
+        <div class="faq-item p-6" id="recovery-code">
+          <input type="checkbox" id="recovery-code-toggle" class="faq-toggle hidden peer" />
+          <label for="recovery-code-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Hvad er min gendannelseskode, og hvad sker der, hvis jeg mister den?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Din gendannelseskode er en 24-tegns adgangskode, der krypterer din skysicheringskopi.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="cloud-backup-encryption">
+          <input type="checkbox" id="cloud-backup-encryption-toggle" class="faq-toggle hidden peer" />
+          <label for="cloud-backup-encryption-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Hvordan krypteres min skysicheringskopi?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Dit vault er krypteret fra ende til ende ved hjælp af AES-256-GCM på din enhed.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="pin-faceid-recovery">
+          <input type="checkbox" id="pin-faceid-recovery-toggle" class="faq-toggle hidden peer" />
+          <label for="pin-faceid-recovery-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Hvordan fungerer PIN, Face ID og gendannelseskode sammen?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Din PIN-kode er et dagligt lås. Face ID er en hurtig genvej til at låse op.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="export-import">
+          <input type="checkbox" id="export-import-toggle" class="faq-toggle hidden peer" />
+          <label for="export-import-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Hvordan eksporterer og importerer jeg mit vault?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Alle brugere kan eksportere hele deres vault som en krypteret, adgangskodebeskyttet sikkerhedskopifil (.tdvault) via Indstillinger. Gem den i Filer, send den til dig selv via e-mail, eller opbevar den på et USB-stik. Importer den på en hvilken som helst enhed via Indstillinger → Importer vault. Hele round-trip bevarer alt præcist. (Kombineret PDF-eksport af flere dokumenter på én gang er en separat Pro-funktion.) Se guiden til eksport/import for trinvise instruktioner med skærmbilleder.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="allowance-modes">
+          <input type="checkbox" id="allowance-modes-toggle" class="faq-toggle hidden peer" />
+          <label for="allowance-modes-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Godtgørelsestilstande Besøgende vs Hjem: hvilken skal jeg vælge?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Besøgende-tilstand sporer dage I et land. Hjem-tilstand sporer dage VÆORK fra dit hjemland.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="family-profiles">
+          <input type="checkbox" id="family-profiles-toggle" class="faq-toggle hidden peer" />
+          <label for="family-profiles-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Hvad er familieprofiler?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Hvert familiemedlem har en separat profil med deres egne dokumenter, fotos og påmindelser.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="delete-restore">
+          <input type="checkbox" id="delete-restore-toggle" class="faq-toggle hidden peer" />
+          <label for="delete-restore-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Hvad sker der, når jeg sletter noget?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Slettede elementer går til papirkurven i 30 dage.</p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
     <!-- Legal -->
-    <section class="scroll-fade-in">
+    <section id="legal" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -1228,5 +1443,19 @@
   <script src="/assets/js/cookie-consent.js" defer></script>
   <script src="/assets/js/mobile-menu.js" defer></script>
   <script src="/assets/js/lang-picker.js" defer></script>
+  <!-- Accordion aria-expanded sync (a11y) -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      document.querySelectorAll('.faq-toggle').forEach(function (toggle) {
+        var label = toggle.nextElementSibling;
+        if (label && label.classList.contains('faq-label')) {
+          label.setAttribute('aria-expanded', toggle.checked ? 'true' : 'false');
+          toggle.addEventListener('change', function () {
+            label.setAttribute('aria-expanded', this.checked ? 'true' : 'false');
+          });
+        }
+      });
+    });
+  </script>
 </body>
 </html>

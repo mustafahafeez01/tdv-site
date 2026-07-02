@@ -68,7 +68,7 @@
       {
         "@type": "Question",
         "name": "จะเกิดอะไรขึ้นถ้าฉันทำโทรศัพท์หาย?",
-        "acceptedAnswer": { "@type": "Answer", "text": "เอกสารของคุณอยู่บนอุปกรณ์ ดังนั้นการสำรองข้อมูลโทรศัพท์ปกติ (iCloud หรือ Google Backup) จะรวมไว้ด้วย เมื่อคุณกู้คืนไปยังโทรศัพท์เครื่องใหม่ กล่องเก็บของจะมาด้วย ผู้ใช้ Pro ยังสามารถสร้างการสำรองข้อมูลแบบเข้ารหัสได้ทุกเมื่อ" }
+        "acceptedAnswer": { "@type": "Answer", "text": "เอกสารของคุณอยู่บนอุปกรณ์ของคุณโดยมีรหัสเข้ารหัสที่ไม่ออกจากอุปกรณ์นั้น ดังนั้นการสำรองข้อมูลโทรศัพท์ปกติ (iCloud หรือ Google Backup) จะติดตั้งแอปใหม่ แต่ไม่สามารถกู้คืนเอกสารของคุณได้ แทน: ผู้ใช้ Pro สามารถเปิดใช้งานการสำรองข้อมูลคลาวด์เข้ารหัสไปยัง iCloud หรือ Google Drive ของตนเอง หรือส่งออก .tdvault file ที่ป้องกันด้วยรหัสผ่านและนำเข้าบนอุปกรณ์ใหม่" }
       },
       {
         "@type": "Question",
@@ -113,6 +113,7 @@
     .nav-link:hover::after { width: 100%; }
     .pricing-highlight { background: linear-gradient(145deg, rgba(255,176,0,0.15) 0%, rgba(255,176,0,0.05) 100%); border: 2px solid rgba(255,176,0,0.3); }
     .pricing-highlight:hover { border-color: rgba(255,176,0,0.5); background: linear-gradient(145deg, rgba(255,176,0,0.2) 0%, rgba(255,176,0,0.08) 100%); }
+    .pro-badge { background: linear-gradient(135deg, #FFB000 0%, #e69f00 100%); }
     .scroll-fade-in { opacity: 0; transform: translateY(30px); transition: opacity 0.6s ease-out, transform 0.6s ease-out; }
     .scroll-fade-in.visible { opacity: 1; transform: translateY(0); }
     .stagger-children > * { opacity: 0; transform: translateY(20px); transition: opacity 0.5s ease-out, transform 0.5s ease-out; }
@@ -143,10 +144,10 @@
     /* Screenshot carousel - gold standard */
     .carousel-stage {
       position: relative;
-      height: calc(80vw * 2.17 + 70px);
+      height: calc(80vw * 2.17 + 130px);
     }
-    @media (min-width: 640px) { .carousel-stage { height: 770px; } }
-    @media (min-width: 1024px) { .carousel-stage { height: 870px; } }
+    @media (min-width: 640px) { .carousel-stage { height: 860px; } }
+    @media (min-width: 1024px) { .carousel-stage { height: 960px; } }
 
     .carousel-slide {
       position: absolute;
@@ -364,14 +365,14 @@
         ความเป็นส่วนตัวเป็นอันดับแรก บนอุปกรณ์เท่านั้น ไม่ต้องสร้างบัญชี
       </div>
       <h1 id="hero-heading" class="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-[1.1] mb-8">
-        คุณเสียเวลาหาเอกสาร<br class="hidden sm:block">
-        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">นานแค่ไหนแล้ว?</span>
+        เอกสารของคุณ<br class="hidden sm:block">
+        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">พร้อมเมื่อคุณต้องการ</span>
       </h1>
       <p class="text-blue-100/90 text-lg sm:text-xl leading-relaxed max-w-2xl mx-auto mb-6">
-        ด่านตรวจคนเข้าเมือง การยื่นขอวีซ่า แบบฟอร์มประกัน <strong class="text-white">ทุกครั้งที่ค้นหาในม้วนกล้องเพิ่มความเครียดที่ไม่จำเป็น</strong>
+        ไม่ต้องค้นหาในม้วนกล้องของคุณ ไม่ต้องลืม ไม่ต้องกังวล แค่เปิด แอปแล้วได้ <strong class="text-white">เอกสารหนังสือเดินทาง วีซ่า และประกันภัยของครอบครัว ทั้งหมดในที่เดียว</strong>
       </p>
       <p class="text-blue-200/80 text-base sm:text-lg leading-relaxed max-w-xl mx-auto mb-8">
-        <strong class="text-white">ถ้าเอกสารพร้อมอยู่เสมอล่ะ?</strong>
+        <strong class="text-white">ไม่มีบัญชี ไม่มีเซิร์ฟเวอร์ ไม่มีความกังวล</strong>
       </p>
       <div class="flex flex-col items-center gap-4 pt-4">
         <p class="text-white text-lg font-semibold">ดาวน์โหลดฟรี ไม่ต้องสร้างบัญชี ไม่มีค่าสมาชิก</p>
@@ -384,6 +385,33 @@
       </a>
         </div>
         <span class="text-slate-50 text-sm font-medium">จ่ายครั้งเดียว รวมอัปเดต v1.x ทั้งหมด ตลอดไป</span>
+        <p class="text-blue-200/70 text-xs max-w-md mt-2">สร้างโดยบุคคลที่ต้องการแอปนี้สำหรับครอบครัวของเขา ไม่มี VC ไม่มีผู้ถือหุ้น ไม่มีเครือข่ายโฆษณา ฉันตอบต่อคนเพียงคนเดียว: คุณ</p>
+      </div>
+    </section>
+
+    <!-- Founder Story - Section 2 -->
+    <section aria-labelledby="founder-heading" class="scroll-fade-in text-center max-w-3xl mx-auto pt-24 md:pt-32">
+      <div class="glass-panel rounded-2xl p-8 sm:p-10">
+        <div class="flex items-start gap-4 mb-6 justify-center">
+          <div class="h-16 w-16 rounded-full bg-gradient-to-br from-brand-gold to-brand-blue p-[2px] flex-shrink-0">
+            <div class="h-full w-full rounded-full bg-[#0A192F] flex items-center justify-center text-base font-bold text-white">
+              MH
+            </div>
+          </div>
+          <div class="text-left">
+            <p class="text-white font-semibold text-lg">Mustafa Hafeez</p>
+            <p class="text-slate-400 text-sm">สร้าง Travel Document Vault สำหรับครอบครัวของเขา</p>
+          </div>
+        </div>
+        <blockquote class="text-slate-200 text-lg sm:text-xl leading-relaxed mb-6">
+          "การเดินทางของครอบครัวทุกครั้งกลายเป็นการล่าสมบัติใน Photos, อีเมล และ Drive ฉันสร้างสิ่งนี้ขึ้นมาเพื่อให้การเดินทางครั้งต่อไปไม่ต้องเป็นแบบนั้น"
+        </blockquote>
+        <p class="text-blue-200/70 text-base leading-relaxed mb-4">
+          ไม่มีการสนับสนุนจากบุคคลลงทุน ไม่มีผู้ถือหุ้น ไม่มีเครือข่ายโฆษณา แค่พ่อแม่คนหนึ่งที่เบื่อกับความตื่นตระหนกเดิมๆ ในการเดินทางทุกครั้ง
+        </p>
+        <a href="/th/blog/why-i-built-travel-document-vault/" class="text-brand-gold hover:text-brand-gold transition-colors inline-flex items-center gap-2 font-semibold">
+          อ่านเรื่องราวทั้งหมด →
+        </a>
       </div>
     </section>
 
@@ -420,8 +448,8 @@
 
     <!-- SECTION 3: Alternatives -->
     <section aria-labelledby="alternatives-heading" class="scroll-fade-in">
-      <h2 id="alternatives-heading" class="text-2xl sm:text-3xl font-bold text-white text-center mb-4">What You're Probably Using Now</h2>
-      <p class="text-blue-200/80 text-center mb-10 max-w-xl mx-auto">These are all reasonable choices. Each one works - up to a point.</p>
+      <h2 id="alternatives-heading" class="text-2xl sm:text-3xl font-bold text-white text-center mb-4">อาจจะใช้อะไรกันอยู่ในตอนนี้</h2>
+      <p class="text-blue-200/80 text-center mb-10 max-w-xl mx-auto">ตัวเลือกเหล่านี้ดูเหมือนจะสมควร ซึ่งแต่ละอย่างทำงานได้ - จนถึงจุดหนึ่ง</p>
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 max-w-5xl mx-auto stagger-children">
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">General-Purpose Vaults</h3>
@@ -449,57 +477,25 @@
           <p class="text-slate-400 text-base"><strong class="text-slate-300">Falls short:</strong> No expiry reminders, no guided capture, and your passport photo sits next to your grocery list with no encryption.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">Paper Folders</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Works:</strong> Reliable at home.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Falls short:</strong> Useless at an airport in another country. And paper doesn't send you a reminder six months before expiry.</p>
-        </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">"I'll Remember"</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Works:</strong> Sometimes.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Falls short:</strong> Until it doesn't. And it usually fails the night before a flight, when it's too late to fix anything.</p>
-        </div>
-        <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Spreadsheets</h3>
           <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Works:</strong> Excellent for planning itineraries and typing out details.</p>
           <p class="text-slate-400 text-base"><strong class="text-slate-300">Falls short:</strong> No secure image attachments, terrible formatting on mobile screens at the airport, and no automated expiry reminders before your trip.</p>
         </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">Airline Apps</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Works:</strong> Smooth for the specific flight you are taking today.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Falls short:</strong> They forget your details between trips, do not track visas, and are entirely useless when you need to show ID at a hotel or rent a car.</p>
-        </div>
-      </div>
-      <!-- Founder Quote with Attribution -->
-      <div class="glass-panel rounded-2xl p-6 sm:p-8 mt-8 max-w-3xl mx-auto scroll-fade-in">
-        <div class="flex items-start gap-4 mb-4">
-          <div class="h-12 w-12 rounded-full bg-gradient-to-br from-brand-gold to-brand-blue p-[2px] flex-shrink-0">
-            <div class="h-full w-full rounded-full bg-[#0A192F] flex items-center justify-center text-sm font-bold text-white">
-              MH
-            </div>
-          </div>
-          <div>
-            <p class="text-white font-semibold">Mustafa Hafeez</p>
-            <p class="text-slate-400 text-sm">Founder, Travel Document Vault</p>
-          </div>
-        </div>
-        <blockquote class="text-slate-200 text-base sm:text-lg leading-relaxed italic">
-          "I used most of these myself. The camera roll. The shared drive. The 'I'll just remember' approach. Here's what I kept wishing existed."
-        </blockquote>
       </div>
     </section>
 
     <!-- Comparison Table -->
     <section aria-labelledby="comparison-heading" class="scroll-fade-in">
       <div class="text-center mb-10">
-        <h2 id="comparison-heading" class="text-3xl sm:text-4xl font-bold text-white mb-4">How It Stacks Up</h2>
-        <p class="text-blue-200/70 text-base max-w-xl mx-auto">Every alternative does one or two things well. Only one does all of them.</p>
+        <h2 id="comparison-heading" class="text-3xl sm:text-4xl font-bold text-white mb-4">วิธีที่มันเทียบเคียง</h2>
+        <p class="text-blue-200/70 text-base max-w-xl mx-auto">ทางเลือกอื่น ๆ ทำได้ดีในสิ่งเดียวหรือสองสิ่ง มีเพียงอันเดียวที่ทำได้ทั้งหมด</p>
       </div>
 
       <div class="overflow-x-auto rounded-2xl">
         <table class="w-full text-sm" style="border-collapse:separate;border-spacing:0">
           <thead>
             <tr>
-              <th class="text-left px-5 py-4 text-slate-400 font-medium text-xs uppercase tracking-wider" style="background:rgba(17,25,40,0.7);border-bottom:1px solid rgba(255,255,255,0.08)">Feature</th>
+              <th class="text-left px-5 py-4 text-slate-400 font-medium text-xs uppercase tracking-wider" style="background:rgba(17,25,40,0.7);border-bottom:1px solid rgba(255,255,255,0.08)">คุณลักษณะ</th>
               <th class="px-5 py-4 text-center font-bold text-brand-gold text-sm" style="background:rgba(255,176,0,0.12);border-bottom:2px solid rgba(255,176,0,0.5);border-left:1px solid rgba(255,176,0,0.2)">Travel Document Vault</th>
               <th class="px-5 py-4 text-center text-slate-300 font-medium text-xs" style="background:rgba(17,25,40,0.7);border-bottom:1px solid rgba(255,255,255,0.08)">Apple Wallet</th>
               <th class="px-5 py-4 text-center text-slate-300 font-medium text-xs" style="background:rgba(17,25,40,0.7);border-bottom:1px solid rgba(255,255,255,0.08)">Photos / Drive</th>
@@ -509,52 +505,52 @@
           <tbody>
             <!-- Row helper: alternating subtle bg -->
             <tr style="background:rgba(17,25,40,0.5)">
-              <td class="px-5 py-4 text-slate-200 font-medium" style="border-bottom:1px solid rgba(255,255,255,0.05)">Expiry reminders</td>
-              <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-bottom:1px solid rgba(255,176,0,0.15);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span><span class="block text-[10px] text-slate-400 mt-0.5">6 mo ahead</span></td>
+              <td class="px-5 py-4 text-slate-200 font-medium" style="border-bottom:1px solid rgba(255,255,255,0.05)">การแจ้งเตือนเมื่อหมดอายุ</td>
+              <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-bottom:1px solid rgba(255,176,0,0.15);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span><span class="block text-[10px] text-slate-400 mt-0.5">8 เดือนก่อน</span></td>
               <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
               <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
               <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
             </tr>
             <tr style="background:rgba(10,25,47,0.5)">
-              <td class="px-5 py-4 text-slate-200 font-medium" style="border-bottom:1px solid rgba(255,255,255,0.05)">Family profiles</td>
-              <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-bottom:1px solid rgba(255,176,0,0.15);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span><span class="block text-[10px] text-slate-400 mt-0.5">Unlimited (Pro)</span></td>
+              <td class="px-5 py-4 text-slate-200 font-medium" style="border-bottom:1px solid rgba(255,255,255,0.05)">โปรไฟล์ครอบครัว</td>
+              <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-bottom:1px solid rgba(255,176,0,0.15);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span><span class="block text-[10px] text-slate-400 mt-0.5">ไม่จำกัด (Pro)</span></td>
               <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
               <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
-              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">Shared vaults only</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">ร่วมกำแพงเท่านั้น</span></td>
             </tr>
             <tr style="background:rgba(17,25,40,0.5)">
-              <td class="px-5 py-4 text-slate-200 font-medium" style="border-bottom:1px solid rgba(255,255,255,0.05)">No cloud sync</td>
-              <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-bottom:1px solid rgba(255,176,0,0.15);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span><span class="block text-[10px] text-slate-400 mt-0.5">On-device only</span></td>
+              <td class="px-5 py-4 text-slate-200 font-medium" style="border-bottom:1px solid rgba(255,255,255,0.05)">ไม่มีการซิงค์บนคลาวด์</td>
+              <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-bottom:1px solid rgba(255,176,0,0.15);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span><span class="block text-[10px] text-slate-400 mt-0.5">อุปกรณ์เท่านั้น</span></td>
               <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span><span class="block text-[10px] text-slate-400 mt-0.5">iCloud sync</span></td>
               <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span><span class="block text-[10px] text-slate-400 mt-0.5">Cloud-first</span></td>
               <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span><span class="block text-[10px] text-slate-400 mt-0.5">Cloud-first</span></td>
             </tr>
             <tr style="background:rgba(10,25,47,0.5)">
-              <td class="px-5 py-4 text-slate-200 font-medium" style="border-bottom:1px solid rgba(255,255,255,0.05)">Travel-specific doc types</td>
+              <td class="px-5 py-4 text-slate-200 font-medium" style="border-bottom:1px solid rgba(255,255,255,0.05)">ประเภทเอกสารเฉพาะการเดินทาง</td>
               <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-bottom:1px solid rgba(255,176,0,0.15);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span><span class="block text-[10px] text-slate-400 mt-0.5">Passport, visa, ID...</span></td>
-              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">Boarding passes only</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">เพียงบัตรโดยสารเท่านั้น</span></td>
               <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
               <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
             </tr>
             <tr style="background:rgba(17,25,40,0.5)">
-              <td class="px-5 py-4 text-slate-200 font-medium" style="border-bottom:1px solid rgba(255,255,255,0.05)">Works offline</td>
+              <td class="px-5 py-4 text-slate-200 font-medium" style="border-bottom:1px solid rgba(255,255,255,0.05)">ทำงานออฟไลน์</td>
               <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-bottom:1px solid rgba(255,176,0,0.15);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span></td>
               <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-green-400 text-base">✓</span></td>
-              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">Needs prior cache</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">ต้องแคชก่อน</span></td>
               <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-green-400 text-base">✓</span></td>
             </tr>
             <tr style="background:rgba(10,25,47,0.5)">
-              <td class="px-5 py-4 text-slate-200 font-medium" style="border-bottom:1px solid rgba(255,255,255,0.05)">No account required</td>
+              <td class="px-5 py-4 text-slate-200 font-medium" style="border-bottom:1px solid rgba(255,255,255,0.05)">ไม่จำเป็นต้องมีบัญชี</td>
               <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-bottom:1px solid rgba(255,176,0,0.15);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span></td>
-              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">Apple ID needed</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">ต้องมี Apple ID</span></td>
               <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
               <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
             </tr>
             <tr style="background:rgba(17,25,40,0.5)">
-              <td class="px-5 py-4 text-slate-200 font-medium">No subscription</td>
-              <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span><span class="block text-[10px] text-slate-400 mt-0.5">$9.99 one-time</span></td>
+              <td class="px-5 py-4 text-slate-200 font-medium">ไม่มีการสมัครสมาชิก</td>
+              <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span><span class="block text-[10px] text-slate-400 mt-0.5">$9.99 ครั้งเดียว</span></td>
               <td class="px-5 py-4 text-center"><span class="text-green-400 text-base">✓</span></td>
-              <td class="px-5 py-4 text-center"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">Free but ad-funded</span></td>
+              <td class="px-5 py-4 text-center"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">ฟรี แต่มีโฆษณา</span></td>
               <td class="px-5 py-4 text-center"><span class="text-red-400 text-base">✗</span><span class="block text-[10px] text-slate-400 mt-0.5">$36/yr+</span></td>
             </tr>
           </tbody>
@@ -592,7 +588,7 @@
         <div class="bg-brand-gold/20 border-l-4 border-brand-gold rounded-lg p-6">
           <p class="text-white text-lg font-bold mb-4">Everything stays on your device. Period.</p>
           <p class="text-slate-200 text-base leading-relaxed mb-4">
-            The lack of cloud sync is a deliberate security feature. No cloud. No accounts. Your documents never touch a third-party server.
+            การซิงค์บนคลาวด์ปิดใช้งานโดยค่าเริ่มต้น หากคุณเปิดใช้งาน (Pro) ห้องเก็บของของคุณจะเข้ารหัสบนอุปกรณ์ของคุณก่อนอัปโหลด และไปยัง iCloud หรือ Google Drive ของคุณเอง ปิดผนึกด้วยรหัสการกู้คืนเพียงคนเดียว ไม่มีใครรวมถึงเรา Apple หรือ Google สามารถอ่านได้ สัญญานี้บังคับใช้โดยโค้ด ไม่ใช่นโยบาย
           </p>
           <p class="text-slate-300 text-sm">
             AES-256-GCM encryption at rest. Encrypted backups use PBKDF2 key derivation. <a href="/privacy-policy/" class="text-brand-gold hover:text-yellow-300 transition-colors underline">Full privacy policy</a>
@@ -609,7 +605,7 @@
           <h3 class="text-xl font-bold text-white mb-4">Expiry Reminders, Months Ahead</h3>
 
           <p class="text-slate-300 text-base leading-relaxed mb-4">
-            Passport renewals take 6 to 8 weeks. <strong class="text-white">Reminders start 6 months early</strong> and cascade down automatically.
+            Passport renewals take 6 to 8 weeks. <strong class="text-white">Reminders start 8 months early</strong> and cascade down automatically.
           </p>
 
           <p class="text-slate-300 text-base leading-relaxed mb-4">
@@ -702,6 +698,95 @@
       </div>
     </section>
 
+    <!-- v1.2 FEATURES -->
+    <section class="scroll-fade-in max-w-5xl mx-auto px-4 sm:px-6 pt-8">
+      <div class="text-center mb-10">
+        <span class="inline-block px-3 py-1 rounded-full bg-blue-500/20 text-blue-200 text-sm font-medium mb-3">สำหรับการเดินทางและวันท่องเที่ยว</span>
+        <h2 class="text-3xl sm:text-4xl font-bold text-white mb-4">คุณสมบัติสำหรับทั้งครอบครัว</h2>
+        <p class="text-blue-200/70 text-base max-w-xl mx-auto">วางแผนการเดินทางร่วมกัน ติดตามสิทธิ์ รู้จักขีดจำกัดวีซ่าของคุณ</p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-5">
+        <!-- Trip Planner -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col items-center text-center gap-3">
+          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+            </svg>
+          </div>
+          <span class="inline-block text-[10px] font-bold uppercase tracking-wide bg-brand-gold/20 text-brand-gold px-2 py-0.5 rounded-full">Pro</span>
+          <h3 class="text-base font-bold text-white">ทุกคนพร้อมแล้ว ที่สายตาหนึ่ง</h3>
+          <p class="text-xs text-slate-300 leading-relaxed">ไฟจราจรความพร้อมของครอบครัว ดูว่าใครพร้อมเดินทาง</p>
+        </div>
+
+        <!-- Your Own Cloud -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col items-center text-center gap-3">
+          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M9 19l3 3m0 0l3-3m-3 3v-6" />
+            </svg>
+          </div>
+          <span class="inline-block text-[10px] font-bold uppercase tracking-wide bg-brand-gold/20 text-brand-gold px-2 py-0.5 rounded-full">Pro</span>
+          <h3 class="text-base font-bold text-white">คลาวด์ของคุณ คีย์ของคุณ</h3>
+          <p class="text-xs text-slate-300 leading-relaxed">การสำรองข้อมูลที่เข้ารหัส end-to-end ไปยัง iCloud หรือ Google Drive ของคุณ</p>
+        </div>
+
+        <!-- Days Abroad -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col items-center text-center gap-3">
+          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+            </svg>
+          </div>
+          <span class="inline-block text-[10px] font-bold uppercase tracking-wide bg-brand-gold/20 text-brand-gold px-2 py-0.5 rounded-full">Pro</span>
+          <h3 class="text-base font-bold text-white">ติดตามวันนอกประเทศ</h3>
+          <p class="text-xs text-slate-300 leading-relaxed">บันทึกจำนวนวันที่ใช้ในประเทศใด ก็ได้ ตั้งเป้าหมายการจำกัดวันที่กำหนดเอง และติดตามกฎระยะเวลาวีซ่า</p>
+        </div>
+
+        <!-- Trip Allowances -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col items-center text-center gap-3">
+          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+          </div>
+          <span class="inline-block text-[10px] font-bold uppercase tracking-wide bg-brand-gold/20 text-brand-gold px-2 py-0.5 rounded-full">Pro</span>
+          <h3 class="text-base font-bold text-white">ปลอดภาษีโดยไม่ต้องคณิตศาสตร์</h3>
+          <p class="text-xs text-slate-300 leading-relaxed">ติดตามเบี้ยความช่วยเหลือต่อสมาชิกต่อการเดินทาง</p>
+        </div>
+
+        <!-- Recently Deleted -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col items-center text-center gap-3">
+          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
+            </svg>
+          </div>
+          <h3 class="text-base font-bold text-white">เลิกทำ 30 วัน</h3>
+          <p class="text-xs text-slate-300 leading-relaxed">ลบโดยไม่ตั้งใจ กู้คืนได้ตลอดเวลา</p>
+        </div>
+
+        <!-- Family Profiles -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col items-center text-center gap-3">
+          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
+            </svg>
+          </div>
+          <span class="inline-block text-[10px] font-bold uppercase tracking-wide bg-brand-gold/20 text-brand-gold px-2 py-0.5 rounded-full">Pro</span>
+          <h3 class="text-base font-bold text-white">สมาชิกครอบครัวทุกคน</h3>
+          <p class="text-xs text-slate-300 leading-relaxed">โปรไฟล์แยกต่างหาก เอกสารของแต่ละคนจัดระเบียบไว้อย่างเป็นระเบียบ</p>
+        </div>
+      </div>
+      <div class="text-center mt-12 scroll-fade-in">
+        <p class="text-white text-lg font-semibold mb-4">เริ่มฟรี อัพเกรดได้ตลอดเวลา</p>
+        <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+          <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'ios', 'source_page': window.location.pathname, 'source_section': 'why_us_cta'});" class="group relative inline-flex items-center transition-transform active:scale-95"><img loading="lazy" src="/assets/images/app-store-badge-black.svg" alt="ดาวน์โหลดบน App Store" class="relative h-[56px] w-auto" width="120" height="40" /></a>
+          <a href="https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'android', 'source_page': window.location.pathname, 'source_section': 'why_us_cta'});" class="group relative inline-flex items-center transition-transform active:scale-95"><img loading="lazy" src="/assets/images/google-play-badge.svg" alt="ดาวน์โหลดได้ที่ Google Play" class="relative h-[56px] w-auto" width="135" height="40" /></a>
+        </div>
+      </div>
+    </section>
+
     <!-- SCREENSHOT CAROUSEL SHOWCASE (hidden on very small screens) -->
     <section aria-label="App screenshots" class="scroll-fade-in hidden xs:block" style="display: none;">
     <style>@media (min-width: 390px) { section[aria-label="App screenshots"] { display: block !important; } }</style>
@@ -719,7 +804,7 @@
 
           <!-- Left arrow: absolute, centered on image (label ~60px tall) -->
           <button id="carousel-prev" class="carousel-arrow carousel-arrow-mobile" aria-label="Previous screenshot" aria-disabled="true"
-                  style="position: absolute; left: 0; top: calc(60px + (100% - 60px) / 2); transform: translateY(-50%) translateX(-50%); z-index: 10;">
+                  style="position: absolute; left: 0; top: calc(110px + (100% - 110px) / 2); transform: translateY(-50%) translateX(-50%); z-index: 10;">
             <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
             </svg>
@@ -736,64 +821,64 @@
 
           <!-- Screenshot 1 -->
           <div class="carousel-slide is-active" role="group" aria-label="Screenshot 1 of 6" aria-roledescription="slide">
-            <p class="carousel-label-title">One Vault.</p>
-            <p class="carousel-label-sub">For All Your Documents</p>
-            <img src="/assets/images/screenshots-appstore/01.png"
+            <p class="carousel-label-title">รู้ว่าใครพร้อมก่อนออกเดินทาง</p>
+            <p class="carousel-label-sub">ตรวจสถานะเอกสารทุกคนได้ทันที</p>
+            <img src="../../assets/images/screenshots-appstore/01.webp"
                  decoding="async"
                  alt="Documents list showing family profiles with expiry dates"
                  class="loaded"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 2 -->
           <div class="carousel-slide" role="group" aria-label="Screenshot 2 of 6" aria-roledescription="slide">
-            <p class="carousel-label-title">All Your Docs.</p>
-            <p class="carousel-label-sub">Passports, Visas, IDs, and More</p>
-            <img src="/assets/images/screenshots-appstore/04.png"
+            <p class="carousel-label-title">พร้อมสำหรับการเดินทาง</p>
+            <p class="carousel-label-sub">ทุกคน ทุกเอกสาร ตรวจสอบแล้ว</p>
+            <img src="../../assets/images/screenshots-appstore/04.webp"
                  decoding="async"
                  alt="Document types including passport, visa, ID, airline ticket"
                  class="loaded"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 3 -->
           <div class="carousel-slide" role="group" aria-label="Screenshot 3 of 6" aria-roledescription="slide">
-            <p class="carousel-label-title">Never Miss a Renewal.</p>
-            <p class="carousel-label-sub">Smart Reminders Months Early</p>
-            <img data-src="/assets/images/screenshots-appstore/02.png"
+            <p class="carousel-label-title">โปรไฟล์การเดินทางของทุกคน</p>
+            <p class="carousel-label-sub">เอกสาร ทริป การแจ้งเตือน ครบในที่เดียว</p>
+            <img data-src="../../assets/images/screenshots-appstore/02.webp"
                  decoding="async"
                  alt="Smart reminders with 6 weeks notice notification"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 4 -->
           <div class="carousel-slide" role="group" aria-label="Screenshot 4 of 6" aria-roledescription="slide">
-            <p class="carousel-label-title">Your Family. Protected.</p>
-            <p class="carousel-label-sub">One Profile Per Family Member</p>
-            <img data-src="/assets/images/screenshots-appstore/03.png"
+            <p class="carousel-label-title">วันที่เหลือในแต่ละประเทศ</p>
+            <p class="carousel-label-sub">ติดตามเวลาของทุกคนในต่างประเทศ</p>
+            <img data-src="../../assets/images/screenshots-appstore/03.webp"
                  decoding="async"
                  alt="Family profiles for Emma, Lucas, Oliver, and Sophie"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 5 -->
           <div class="carousel-slide" role="group" aria-label="Screenshot 5 of 6" aria-roledescription="slide">
-            <p class="carousel-label-title">Every Detail. Captured.</p>
-            <p class="carousel-label-sub">Photos, Dates, and Notes</p>
-            <img data-src="/assets/images/screenshots-appstore/05.png"
+            <p class="carousel-label-title">รู้ก่อนวันหมดอายุจะมาถึง</p>
+            <p class="carousel-label-sub">การแจ้งเตือนก่อนที่คุณจะต้องการ</p>
+            <img data-src="../../assets/images/screenshots-appstore/05.webp"
                  decoding="async"
                  alt="Document detail view with passport attachment and metadata"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 6 -->
           <div class="carousel-slide" role="group" aria-label="Screenshot 6 of 6" aria-roledescription="slide">
-            <p class="carousel-label-title">Stays on Your Device.</p>
-            <p class="carousel-label-sub">PIN Lock. No Cloud. No Accounts.</p>
-            <img data-src="/assets/images/screenshots-appstore/06.png"
+            <p class="carousel-label-title">พาสปอร์ต วีซ่า บัตรประชาชน จัดระเบียบแล้ว</p>
+            <p class="carousel-label-sub">เห็นชัดว่าอะไรหมดอายุเมื่อไร</p>
+            <img data-src="../../assets/images/screenshots-appstore/06.webp"
                  decoding="async"
                  alt="PIN lock screen for privacy you can trust"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
             </div>
@@ -803,7 +888,7 @@
 
           <!-- Right arrow: absolute, centered on image -->
           <button id="carousel-next" class="carousel-arrow carousel-arrow-mobile" aria-label="Next screenshot"
-                  style="position: absolute; right: 0; top: calc(60px + (100% - 60px) / 2); transform: translateY(-50%) translateX(50%); z-index: 10;">
+                  style="position: absolute; right: 0; top: calc(110px + (100% - 110px) / 2); transform: translateY(-50%) translateX(50%); z-index: 10;">
             <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
             </svg>
@@ -918,7 +1003,7 @@
             <span class="font-semibold text-white text-base">What happens if I lose my phone?</span>
             <span class="transition group-open:rotate-180"><svg fill="none" class="h-5 w-5 text-brand-gold flex-shrink-0" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg></span>
           </summary>
-          <div class="text-slate-300 text-base px-6 pb-6 leading-relaxed">Your documents live on your device, so a regular phone backup (iCloud or Google Backup) includes them. When you restore to a new phone, your vault comes with it. Pro users can also create encrypted backups anytime.</div>
+          <div class="text-slate-300 text-base px-6 pb-6 leading-relaxed">Your documents live on your device, encrypted with a key that never leaves it. A regular phone backup reinstalls the app but cannot restore your documents. To move to a new phone, turn on Your Own Cloud backup (Pro) for one-tap restore, or use the free Vault Export.</div>
         </details>
         <details class="glass-panel rounded-xl group">
           <summary class="flex items-center justify-between p-6 cursor-pointer list-none">

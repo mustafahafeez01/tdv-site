@@ -146,6 +146,24 @@
       border-color: rgba(255, 176, 0, 0.4);
     }
 
+    .post-card-thumb {
+      display: block;
+      max-width: none;
+      width: calc(100% + 2.5rem);
+      margin: -1.25rem -1.25rem 1rem -1.25rem;
+      aspect-ratio: 3 / 2;
+      object-fit: cover;
+      border-radius: 16px 16px 0 0;
+      background: #002461;
+    }
+
+    @media (min-width: 640px) {
+      .post-card-thumb {
+        width: calc(100% + 4rem);
+        margin: -1.75rem -2rem 1.25rem -2rem;
+      }
+    }
+
     .tag-pill {
       display: inline-flex;
       align-items: center;
@@ -316,6 +334,7 @@
       <!-- Featured Post - Founder Story -->
       <section class="mb-6 animate-fade-in-up opacity-0" aria-label="Featured article">
         <a href="why-i-built-travel-document-vault/" class="post-card post-card-featured">
+          <img class="post-card-thumb" src="/blog/why-i-built-travel-document-vault/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
           <div class="flex items-center gap-2 mb-4">
             <span class="tag-pill tag-story">Grundlæggerens historie</span>
             <span class="text-blue-200/40 text-xs">Anbefalet</span>
@@ -343,8 +362,31 @@
 
         <div class="flex flex-col gap-4">
 
+          <!-- Can You Travel with an Expired Passport? UK Rules - Jul 2, 2026 -->
+          <a href="travel-expired-passport-uk/" class="post-card">
+            <img class="post-card-thumb" src="/blog/travel-expired-passport-uk/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <div class="flex items-center gap-2 mb-3">
+              <span class="tag-pill tag-renewal">Pasfornyelse</span>
+            </div>
+            <h2 class="text-xl font-bold text-white mb-2 leading-snug">
+              Kan du rejse med et udløbet pas? UK-regler
+            </h2>
+            <p class="text-blue-100/60 text-sm leading-relaxed">
+              Nej. Et udløbet britisk pas blokerer internationale rejser. Den absolutte regel, indenlandske undtagelser, nødfornyelsesmuligheder og hvad flyselskaber faktisk kontrollerer.
+            </p>
+            <div class="card-meta-row">
+              <div class="flex items-center gap-2 text-blue-200/40 text-xs">
+                <time datetime="2026-07-02">2. juli 2026</time>
+                <span aria-hidden="true">·</span>
+                <span>7 min</span>
+              </div>
+              <span class="read-more-arrow" aria-hidden="true">Læs →</span>
+            </div>
+          </a>
+
           <!-- ETIAS 2026: What Documents You Need - May 8, 2026 -->
           <a href="etias-documents-2026/" class="post-card">
+            <img class="post-card-thumb" src="/blog/etias-documents-2026/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-renewal">Visa og indrejse</span>
             </div>
@@ -364,8 +406,9 @@
             </div>
           </a>
 
-          <!-- Child Travel Consent Letter — May 5, 2026 -->
+          <!-- Child Travel Consent Letter - May 5, 2026 -->
           <a href="/blog/child-travel-consent-letter/" class="post-card">
+            <img class="post-card-thumb" src="/blog/child-travel-consent-letter/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-organisation">Familierejser</span>
             </div>
@@ -385,8 +428,9 @@
             </div>
           </a>
 
-          <!-- How Long is a Passport Valid for Travel — Apr 30, 2026 -->
+          <!-- How Long is a Passport Valid for Travel - Apr 30, 2026 -->
           <a href="/blog/how-long-is-passport-valid-for-travel/" class="post-card">
+            <img class="post-card-thumb" src="/blog/how-long-is-passport-valid-for-travel/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-passport">Pasregler</span>
             </div>
@@ -408,6 +452,7 @@
 
           <!-- Safest Way to Store Passport Digitally - Apr 15, 2026 -->
           <a href="/blog/safest-way-to-store-passport-digitally/" class="post-card">
+            <img class="post-card-thumb" src="/blog/safest-way-to-store-passport-digitally/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-privacy">Privatliv &amp; Sikkerhed</span>
             </div>
@@ -429,6 +474,7 @@
 
 
           <a href="/blog/digital-passport-copy-valid/" class="post-card">
+            <img class="post-card-thumb" src="/blog/digital-passport-copy-valid/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-passport">Pasregler</span>
             </div>
@@ -451,6 +497,7 @@
 
           <!-- Visa Expiry Tracker App - Mar 21, 2026 -->
           <a href="visa-expiry-tracker-app/" class="post-card">
+            <img class="post-card-thumb" src="/blog/visa-expiry-tracker-app/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-renewal">Visa og indrejse</span>
             </div>
@@ -472,6 +519,7 @@
 
           <!-- Can You Travel While Renewal Pending - Mar 14, 2026 -->
           <a href="travel-while-passport-renewal-pending/" class="post-card">
+            <img class="post-card-thumb" src="/blog/travel-while-passport-renewal-pending/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-renewal">Fornyelse</span>
             </div>
@@ -493,6 +541,7 @@
 
           <!-- Lost Passport Abroad - Mar 11, 2026 -->
           <a href="lost-passport-abroad/" class="post-card">
+            <img class="post-card-thumb" src="/blog/lost-passport-abroad/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-organisation">Rejseforbereder</span>
             </div>
@@ -514,6 +563,7 @@
 
           <!-- Article 1 - Mar 18 (most recent) -->
           <a href="passport-expired-what-to-do/" class="post-card">
+            <img class="post-card-thumb" src="/blog/passport-expired-what-to-do/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-renewal">Fornyelse</span>
             </div>
@@ -535,6 +585,7 @@
 
           <!-- Best Passport Organizer App - Mar 4, 2026 -->
           <a href="best-passport-organizer-app/" class="post-card">
+            <img class="post-card-thumb" src="/blog/best-passport-organizer-app/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-passport">Rejseværktøjer</span>
             </div>
@@ -556,6 +607,7 @@
 
           <!-- Travel Document Checklist - Mar 4, 2026 -->
           <a href="travel-document-checklist/" class="post-card">
+            <img class="post-card-thumb" src="/blog/travel-document-checklist/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-passport">Pasregler</span>
               <span class="tag-pill tag-organisation">Organisation</span>
@@ -578,6 +630,7 @@
 
           <!-- Article 2 - Feb 15 -->
           <a href="is-it-safe-to-store-passport-in-google-photos/" class="post-card">
+            <img class="post-card-thumb" src="/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-privacy">Privatliv</span>
             </div>
@@ -599,6 +652,7 @@
 
           <!-- Article 3 - Feb 10 -->
           <a href="how-long-does-passport-renewal-take/" class="post-card">
+            <img class="post-card-thumb" src="/blog/how-long-does-passport-renewal-take/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-renewal">Fornyelse</span>
             </div>
@@ -620,6 +674,7 @@
 
           <!-- Article 4 - Feb 5 -->
           <a href="how-to-organise-family-travel-documents/" class="post-card">
+            <img class="post-card-thumb" src="/blog/how-to-organise-family-travel-documents/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-organisation">Organisering</span>
             </div>
@@ -641,6 +696,7 @@
 
           <!-- Article 5 - Feb 1 (oldest) -->
           <a href="passport-expiry-6-month-rule/" class="post-card">
+            <img class="post-card-thumb" src="/blog/passport-expiry-6-month-rule/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-passport">Pasregler</span>
             </div>

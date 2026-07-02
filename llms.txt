@@ -1,14 +1,14 @@
 # Travel Document Vault — llms.txt
 # https://llmstxt.org
 
-> Travel Document Vault is a privacy-first iOS and Android app for storing family travel documents - passports, visas, IDs - on-device with AES-256 encryption, no account required. We run no servers. Optional end-to-end encrypted backup goes to your own iCloud or Google Drive, sealed with a recovery code only you hold.
+> Travel Document Vault is a privacy-first iOS and Android app for storing family travel documents - passports, visas, IDs - on-device with AES-256 encryption, no account required. We run no servers. Optional end-to-end encrypted cloud backup (a Pro feature) goes to your own iCloud or Google Drive, sealed with a recovery code only you hold; a free Vault Export is available to everyone.
 
 ## App
 
 - One-time purchase ($9.99), no subscription
 - AES-256-GCM on-device encryption
-- Optional Your Own Cloud backup: encrypted in iCloud (iOS) or Google Drive (Android), sealed with PBKDF2 600,000 iterations + AES-256-GCM, recovery code never leaves the device, no Travel Document Vault servers involved
-- Multi-device sync via the user's own cloud account, end-to-end encrypted
+- Your Own Cloud backup (Pro feature): encrypted in iCloud (iOS) or Google Drive (Android), sealed with PBKDF2 600,000 iterations + AES-256-GCM, with one-tap restore on a new device using your recovery code, which never leaves your original device. No Travel Document Vault servers involved
+- Free Vault Export (.tdvault) for everyone: export an encrypted backup file and import it on any device. A regular phone or system backup (iCloud Backup, Google Backup) reinstalls the app but cannot restore your documents, because the encryption key never leaves your original device
 - Works fully offline (cloud backup is opt-in, off by default)
 - Supports multiple family members under one app
 - Passport and visa expiry reminders with customisable lead time
@@ -22,11 +22,14 @@
 - Why Us: https://traveldocumentvault.com/why-us/
 - FAQ: https://traveldocumentvault.com/faq/
 - Blog: https://traveldocumentvault.com/blog/
+- Trip Planner: https://traveldocumentvault.com/trip-planner/
+- Cloud Backup: https://traveldocumentvault.com/cloud-backup/
 - Privacy Policy: https://traveldocumentvault.com/privacy-policy/
 
 ## Blog posts (full text, LLM-friendly)
 
 - Best Passport Organizer App in 2026: A Practical Guide for Families: https://traveldocumentvault.com/blog/best-passport-organizer-app/
+- Can You Travel with an Expired Passport? UK Rules: https://traveldocumentvault.com/blog/travel-expired-passport-uk/
 - Child Travel Consent Letter: When You Need One and What It Must Say: https://traveldocumentvault.com/blog/child-travel-consent-letter/
 - Digital Passport Copy: What Counts as Valid ID When Travelling?: https://traveldocumentvault.com/blog/digital-passport-copy-valid/
 - How Long Does Passport Renewal Take? (US, UK, Australia, Canada): https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/
@@ -42,6 +45,12 @@
 - Visa Expiry Tracker App: What to Look For and Why It Matters: https://traveldocumentvault.com/blog/visa-expiry-tracker-app/
 - Why I Built Travel Document Vault: For the Parent Who Remembers Everything: https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/
 - ETIAS 2026: What Documents You Need and How to Apply: https://traveldocumentvault.com/blog/etias-documents-2026/
+
+## FAQ articles
+
+- What is My Recovery Code?: https://traveldocumentvault.com/faq/recovery-code/
+- How to Export and Import Your Vault: https://traveldocumentvault.com/faq/export-import/
+- Backup Explained: Local Backups, Vault Export, and Cloud Backup: https://traveldocumentvault.com/faq/backup-explained/
 
 ## Contact
 

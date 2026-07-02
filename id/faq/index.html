@@ -67,7 +67,7 @@
       "name": "Apa yang termasuk dalam upgrade Pro $9.99?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Pro adalah pembelian satu kali yang membuka profil tak terbatas, dokumen tak terbatas, ekspor PDF gabungan, cadangan terenkripsi, dan pengaturan waktu pengingat kustom. Anda membayar sekali. Tidak ada langganan, tidak ada biaya berulang, dan tidak ada uji coba yang secara diam-diam mulai menagih Anda."
+        "text": "Pro adalah pembelian satu kali yang membuka profil tak terbatas, dokumen tak terbatas, ekspor PDF gabungan, cadangan cloud terenkripsi, dan pengaturan waktu pengingat kustom. Anda membayar sekali. Tidak ada langganan, tidak ada biaya berulang, dan tidak ada uji coba yang secara diam-diam mulai menagih Anda."
       }
     }, {
       "@type": "Question",
@@ -95,7 +95,7 @@
       "name": "Bahasa apa yang didukung aplikasi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Aplikasi tersedia dalam 22 bahasa: Inggris, Spanyol, Prancis, Jerman, Italia, Portugis (Brasil & Portugal), Rusia, Tionghoa Sederhana, Tionghoa Tradisional, Jepang, Korea, Belanda, Polandia, Turki, Indonesia, Vietnam, Thai, Ukraina, Swedia, Norwegia, Denmark, dan Finlandia. Antarmuka aplikasi otomatis menyesuaikan dengan bahasa perangkat Anda."
+        "text": "Aplikasi tersedia dalam 15 bahasa: Inggris, Spanyol, Prancis, Jerman, Italia, Portugis (Brasil & Portugal), Rusia, Tionghoa Sederhana, Jepang, Korea, Belanda, Ukraina, Thai, Swedia, dan Denmark. Antarmuka aplikasi otomatis menyesuaikan dengan bahasa perangkat Anda."
       }
     }, {
       "@type": "Question",
@@ -110,6 +110,48 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Travel Document Vault dibangun oleh Mustafa Hafeez, pengembang perangkat lunak senior dengan pengalaman profesional bertahun-tahun membangun aplikasi yang menghormati privasi, dan seorang orang tua yang membutuhkan aplikasi ini untuk keluarganya sendiri. Privasi bukan slogan pemasaran. Aplikasi ini dirancang dan diarsitektur dari hari pertama sehingga dokumen tidak pernah meninggalkan perangkat Anda, tidak diperlukan akun, dan tidak ada server yang terlibat."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Bagaimana cara mengekspor dan mengimpor brankas saya?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Setiap pengguna dapat mengekspor seluruh vault mereka sebagai file cadangan terenkripsi dan dilindungi kata sandi (.tdvault) dari Pengaturan, lalu mengimpornya di perangkat mana pun atau setelah instal ulang. Ekspor dan impor bolak-balik mempertahankan semuanya persis sama, sehingga data Anda portabel dan Anda tidak pernah terkunci. (Ekspor PDF multi-dokumen gabungan adalah fitur Pro terpisah.)"
+      }
+    }, {
+      "@type": "Question",
+      "name": "Bisakah saya mencadangkan data secara gratis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ya. Vault Export (file cadangan terenkripsi .tdvault) gratis untuk semua orang. Aplikasi juga menyimpan cadangan lokal otomatis di perangkat Anda setiap beberapa menit, tanpa biaya. Pencadangan cloud ke iCloud atau Google Drive Anda sendiri adalah opsi Pro. Tidak ada fitur cadangan yang mengunci data Anda."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Apa arti 'Cadangan terakhir: 2 jam lalu, 12 dokumen' di Pengaturan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Baris tersebut menunjukkan cadangan lokal otomatis terbaru aplikasi, berapa lama sejak disimpan, dan berapa banyak dokumen yang dikandungnya. Ini meyakinkan Anda bahwa salinan yang dapat dipulihkan ada di perangkat Anda. Ketuk Pulihkan Cadangan Lokal untuk kembali ke versi tersebut."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Bagaimana cara memulihkan vault dari cadangan lokal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Buka Pengaturan, lalu ketuk Pulihkan Cadangan Lokal. Aplikasi menampilkan daftar cadangan yang tersedia beserta cap waktunya. Pilih yang Anda inginkan, lalu konfirmasi. Untuk memulihkan dari file .tdvault yang Anda ekspor, ketuk Impor Vault sebagai gantinya dan pilih file tersebut. Kedua opsi gratis untuk semua orang. Pemulihan menggantikan data Anda saat ini dengan isi cadangan."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Aplikasi menampilkan layar pemulihan atau mengatakan data tidak dapat dimuat. Apa yang harus dilakukan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aplikasi tidak pernah diam-diam menghapus data Anda. Jika tidak dapat membaca penyimpanan lokal, aplikasi menampilkan layar pemulihan alih-alih membuang apa pun. Ketuk Pulihkan Cadangan Lokal untuk memulihkan dari cadangan otomatis terbaru, atau ketuk Impor Vault untuk memulihkan dari file .tdvault yang sebelumnya Anda ekspor. Cadangan yang dibuat sebelum pembaruan aplikasi terbaru juga dapat dipulihkan. Dokumen Anda dapat dipulihkan dan tidak ada yang dihapus."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Mengapa aplikasi membuat cadangan sebelum memperbarui?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sebelum pembaruan format data besar, aplikasi secara otomatis membuat snapshot vault Anda sehingga dapat melakukan rollback jika terjadi masalah. Prosesnya otomatis dan gratis untuk semua orang."
       }
     }]
   }
@@ -135,7 +177,7 @@
     .faq-item:last-child { border-bottom: none; }
     .faq-item:has(.faq-toggle:checked) { border-left-color: #FFB000; background-color: rgba(255, 176, 0, 0.05); }
     .faq-content { max-height: 0; overflow: hidden; transition: max-height 0.3s ease, padding 0.3s ease; }
-    .faq-toggle:checked ~ .faq-content { max-height: 600px; padding-top: 1rem; padding-bottom: 0.5rem; }
+    .faq-toggle:checked ~ .faq-content { max-height: 800px; padding-top: 1rem; padding-bottom: 0.5rem; }
     .faq-arrow { transition: transform 0.3s ease; }
     .faq-toggle:checked ~ .faq-label .faq-arrow { transform: rotate(180deg); }
     .scroll-fade-in { opacity: 0; transform: translateY(30px); transition: opacity 0.6s ease-out, transform 0.6s ease-out; }
@@ -249,8 +291,19 @@
       </div>
     </section>
 
+    <!-- Table of Contents -->
+    <div class="flex flex-wrap items-center justify-center gap-2 mb-12 px-4">
+      <span class="text-sm font-medium text-slate-300">Lompat ke:</span>
+      <a href="#privacy" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Privasi</a>
+      <a href="#features" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Fitur</a>
+      <a href="#backup" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Cadangan</a>
+      <a href="#pricing" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Harga</a>
+      <a href="#troubleshooting" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Pemecahan Masalah</a>
+      <a href="#legal" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Hukum</a>
+    </div>
+
     <!-- Trust & Transparency -->
-    <section class="scroll-fade-in">
+    <section id="privacy" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -334,7 +387,7 @@
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Aplikasi tersedia dalam <strong class="text-white">22 bahasa</strong>: Inggris, Spanyol, Prancis, Jerman, Italia, Portugis (Brasil &amp; Portugal), Rusia, Tionghoa Sederhana, Tionghoa Tradisional, Jepang, Korea, Belanda, Polandia, Turki, Indonesia, Vietnam, Thai, Ukraina, Swedia, Norwegia, Denmark, dan Finlandia. Antarmuka aplikasi otomatis menyesuaikan dengan bahasa perangkat Anda. Jika ada bahasa lain yang ingin Anda lihat, kami ingin mendengarnya di <a href="mailto:support@traveldocumentvault.com" class="text-blue-300 hover:text-white underline">support@traveldocumentvault.com</a>.</p>
+            <p>Aplikasi tersedia dalam <strong class="text-white">15 bahasa</strong>: Inggris, Spanyol, Prancis, Jerman, Italia, Portugis (Brasil &amp; Portugal), Rusia, Tionghoa Sederhana, Jepang, Korea, Belanda, Ukraina, Thai, Swedia, dan Denmark. Antarmuka aplikasi otomatis menyesuaikan dengan bahasa perangkat Anda. Jika ada bahasa lain yang ingin Anda lihat, kami ingin mendengarnya di <a href="mailto:support@traveldocumentvault.com" class="text-blue-300 hover:text-white underline">support@traveldocumentvault.com</a>.</p>
           </div>
         </div>
 
@@ -393,7 +446,7 @@
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Aplikasi tidak memiliki database cloud. Kami tidak melihat data Anda. Jika Anda menggunakan <strong class="text-white">iCloud Backup</strong> (iOS) atau <strong class="text-white">Google Backup</strong> (Android) untuk seluruh ponsel Anda, data aplikasi ini termasuk dalam paket tersebut. <strong class="text-white">Data Anda tetap terenkripsi dalam cadangan tersebut.</strong> Proses ini dikelola oleh sistem operasi Anda, bukan oleh kami.</p>
+            <p>Aplikasi tidak memiliki database cloud. Kami tidak melihat data Anda. Jika Anda menggunakan <strong class="text-white">iCloud Backup</strong> (iOS) atau <strong class="text-white">Google Backup</strong> (Android) untuk seluruh ponsel Anda, aplikasi akan diinstal ulang tetapi <strong class="text-white">tidak dapat memulihkan dokumen Anda</strong> karena kunci enkripsi tidak pernah meninggalkan perangkat asli Anda. Semua orang dapat mengekspor vault sebagai file .tdvault terenkripsi gratis dari Pengaturan. Pengguna Pro dapat membuat cadangan cloud terenkripsi ke iCloud atau Google Drive pribadi mereka dengan pemulihan satu ketukan di perangkat baru menggunakan kode pemulihan mereka.</p>
           </div>
         </div>
 
@@ -404,8 +457,8 @@
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Karena kami tidak memiliki data Anda, kami tidak dapat memulihkannya untuk Anda. Jika Anda memulihkan ponsel baru dari cadangan sistem (iCloud/Google), data Anda seharusnya muncul kembali. Jika Anda tidak menggunakan cadangan sistem, data Anda hilang.</p>
-            <p class="mt-2"><strong class="text-white">Rekomendasi:</strong> Gunakan fitur Ekspor untuk menyimpan salinan dokumen penting Anda di tempat lain.</p>
+            <p>Karena kami tidak memiliki data Anda, kami tidak dapat memulihkannya untuk Anda. Jika Anda memulihkan ponsel baru dari cadangan sistem (iCloud/Google), aplikasi akan diinstal ulang tetapi dokumen Anda tidak akan dimulihkan karena kunci enkripsi tidak pernah meninggalkan perangkat asli.</p>
+            <p class="mt-2"><strong class="text-white">Rekomendasi:</strong> Gunakan fitur Ekspor untuk menyimpan salinan vault Anda sebagai file .tdvault terenkripsi. Pengguna Pro juga dapat membuat cadangan cloud terenkripsi ke iCloud atau Google Drive pribadi mereka.</p>
           </div>
         </div>
 
@@ -443,7 +496,7 @@
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Semua data Anda <strong class="text-white">dihapus secara permanen</strong> ketika Anda menghapus instalan aplikasi. Tidak ada cara untuk memulihkannya setelahnya karena kami tidak menyimpan apa pun secara eksternal. <strong class="text-white">Sebelum menghapus:</strong> Ekspor dokumen Anda atau buat file cadangan ZIP (fitur Pro) untuk menyimpannya di tempat lain.</p>
+            <p>Semua data Anda <strong class="text-white">dihapus secara permanen</strong> ketika Anda menghapus instalan aplikasi. Tidak ada cara untuk memulihkannya setelahnya karena kami tidak menyimpan apa pun secara eksternal. <strong class="text-white">Sebelum menghapus:</strong> Ekspor vault Anda sebagai file .tdvault dari Pengaturan, atau pulihkan cadangan lokal terlebih dahulu lalu ekspor.</p>
           </div>
         </div>
       </div>
@@ -492,7 +545,7 @@
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Ya.</strong> Cadangan otomatis dienkripsi melalui sistem cadangan bawaan perangkat Anda (iCloud/Google). Ekspor vault manual (fitur Pro) <strong class="text-white">dilindungi kata sandi</strong> dengan enkripsi yang kuat. Anda akan menetapkan kata sandi saat mengekspor dan membutuhkannya untuk memulihkan.</p>
+            <p><strong class="text-white">Ya.</strong> Cadangan otomatis dienkripsi melalui sistem cadangan bawaan perangkat Anda (iCloud/Google). Ekspor Vault (.tdvault) <strong class="text-white">dilindungi kata sandi</strong> dengan enkripsi yang kuat. Anda akan menetapkan kata sandi saat mengekspor dan membutuhkannya untuk memulihkan.</p>
             <p class="mt-3">Jika Anda memulihkan dari cadangan, dokumen Anda akan otomatis bekerja di perangkat baru Anda tanpa perlu melakukan apa pun yang istimewa.</p>
           </div>
         </div>
@@ -543,7 +596,7 @@
     </section>
 
     <!-- Features -->
-    <section class="scroll-fade-in">
+    <section id="features" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-blue-300">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -594,7 +647,7 @@
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Ya! Pengguna gratis dapat berbagi dokumen individual. Pengguna Pro mendapatkan alat batch yang andal: pilih dokumen tertentu (atau profil semua orang) dan buat <strong class="text-white">PDF gabungan tunggal</strong> yang dioptimalkan untuk dicetak. Anda bahkan dapat menetapkan nama file kustom untuk ekspor Anda agar catatan digital Anda tetap terorganisir.</p>
+            <p>Pengguna gratis dapat berbagi dokumen individual. Pengguna Pro mendapatkan alat batch yang andal: pilih dokumen tertentu (atau profil semua orang) dan buat <strong class="text-white">PDF gabungan tunggal</strong> yang dioptimalkan untuk dicetak. Anda bahkan dapat menetapkan nama file kustom untuk ekspor Anda agar catatan digital Anda tetap terorganisir.</p>
           </div>
         </div>
 
@@ -655,13 +708,13 @@
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Ya, aplikasi membuat cadangan lokal otomatis setiap 5 menit</strong> (ketika aplikasi terbuka dan perubahan dibuat). Cadangan ini disimpan di perangkat Anda dan termasuk dalam cadangan perangkat iCloud (iOS) atau Google (Android) jika Anda mengaktifkan layanan tersebut.</p>
+            <p><strong class="text-white">Ya, aplikasi membuat cadangan lokal otomatis setiap beberapa menit</strong> (ketika aplikasi terbuka dan perubahan dibuat). Cadangan ini disimpan di perangkat Anda dan termasuk dalam cadangan perangkat iCloud (iOS) atau Google (Android) jika Anda mengaktifkan layanan tersebut.</p>
             <ul class="list-disc list-inside mt-3 space-y-2 ml-2">
               <li>Aplikasi menyimpan <strong class="text-white">10 cadangan bergulir</strong> di perangkat Anda. Ketika cadangan ke-11 dibuat, yang paling lama secara otomatis dihapus.</li>
               <li>Cadangan <strong class="text-white">dienkripsi</strong> menggunakan perlindungan yang sama dengan dokumen Anda.</li>
-              <li>Jika aplikasi macet atau Anda tidak sengaja menghapus dokumen, Anda dapat memulihkan dari cadangan terbaru melalui <strong class="text-white">Pengaturan → Impor Vault</strong>.</li>
+              <li>Jika aplikasi macet atau Anda tidak sengaja menghapus dokumen, Anda dapat memulihkan dari cadangan terbaru melalui <strong class="text-white">Pengaturan → Pulihkan Cadangan Lokal</strong>.</li>
             </ul>
-            <p class="mt-3"><strong class="text-white">Cadangan manual (Pro):</strong> Pengguna Pro juga dapat membuat cadangan ZIP terenkripsi manual dan menyimpannya ke File, iCloud Drive, atau berbagi melalui AirDrop/email untuk penyimpanan di luar perangkat.</p>
+            <p class="mt-3"><strong class="text-white">Vault Export:</strong> Buka Pengaturan untuk mengekspor file .tdvault terenkripsi kapan saja. Simpan ke Files, iCloud Drive, atau bagikan melalui AirDrop/email untuk penyimpanan di luar perangkat. Gratis untuk semua pengguna.</p>
           </div>
         </div>
 
@@ -696,7 +749,7 @@
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Sebentar, ya.</strong> Setelah menghapus dokumen (tunggal atau massal), Anda akan melihat jendela pembatalan singkat di bagian bawah layar. Ketuk <strong class="text-white">"Batalkan"</strong> untuk memulihkannya segera. Setelah jendela pembatalan menghilang, penghapusan bersifat <strong class="text-white">permanen</strong> dan tidak dapat dibalik. Kami menyarankan mengekspor cadangan sebelum menghapus dokumen secara massal.</p>
+            <p><strong class="text-white">Ya - Anda memiliki dua lapisan perlindungan.</strong> Setelah menghapus dokumen (tunggal atau massal), Anda akan melihat jendela pembatalan singkat di bagian bawah layar. Ketuk <strong class="text-white">"Batalkan"</strong> untuk memulihkannya segera. Jika Anda melewatkan jendela pembatalan, dokumen yang dihapus akan pindah ke <strong class="text-white">Dihapus Baru-Baru Ini</strong> di Pengaturan, tempat dokumen akan tetap selama 30 hari sebelum penghapusan permanen. Pengguna Pro dengan pencadangan cloud yang diaktifkan menyimpan item di Dihapus Baru-Baru Ini tanpa batas waktu sampai mereka mengetuk Hapus Selamanya.</p>
           </div>
         </div>
 
@@ -795,7 +848,7 @@
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Ya, menggunakan ekspor vault terenkripsi (fitur Pro).</strong> Ekspor cadangan terenkripsi dari perangkat Anda saat ini (Pengaturan → Ekspor Vault), transfer ke perangkat baru (melalui email, penyimpanan cloud, atau transfer langsung), lalu gunakan Pengaturan → Impor Vault untuk memulihkan dokumen Anda.</p>
+            <p><strong class="text-white">Ya, menggunakan Vault Export terenkripsi.</strong> Ekspor file .tdvault dari perangkat Anda saat ini (Pengaturan → Ekspor Vault), transfer ke perangkat baru (melalui email, penyimpanan cloud, atau transfer langsung), lalu gunakan Pengaturan → Impor Vault untuk memulihkan dokumen Anda.</p>
             <p class="mt-3">Ini bekerja lintas platform karena format enkripsi bersifat universal. Anda memerlukan kata sandi yang sama yang Anda gunakan saat mengekspor vault. Pembelian Pro Anda juga perlu dipulihkan di perangkat baru.</p>
           </div>
         </div>
@@ -827,7 +880,7 @@
     </section>
 
     <!-- Pricing & Purchases -->
-    <section class="scroll-fade-in">
+    <section id="pricing" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -845,7 +898,7 @@
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Gratis</strong> mencakup 1 profil dan hingga 5 dokumen dengan fungsionalitas penuh, termasuk pemindaian OCR, pengingat kedaluwarsa, berbagi dokumen, Kunci PIN, dan Kunci Biometrik (Face ID / Touch ID). <strong class="text-white">Pro</strong> ($9.99 satu kali*) membuka profil tak terbatas, dokumen tak terbatas, ekspor PDF gabungan, ekspor batch (ZIP), pengaturan waktu pengingat kustom, dan pengambilan multi-halaman untuk Tiket Pesawat dan Dokumen Lainnya.</p>
+            <p><strong class="text-white">Gratis</strong> mencakup 1 profil dan hingga 5 dokumen dengan fungsionalitas penuh, termasuk pemindaian OCR, pengingat kedaluwarsa, berbagi dokumen, Kunci PIN, dan Kunci Biometrik (Face ID / Touch ID). <strong class="text-white">Pro</strong> ($9.99 satu kali*) membuka profil tak terbatas, dokumen tak terbatas, ekspor PDF gabungan, ekspor batch (.tdvault), pengaturan waktu pengingat kustom, dan pengambilan multi-halaman untuk Tiket Pesawat dan Dokumen Lainnya.</p>
             <p class="text-slate-400 text-xs mt-2">* Lihat <a href="/pricing-policy/#version-policy" class="text-brand-gold hover:text-white underline">Kebijakan Harga</a> untuk detail versi.</p>
           </div>
         </div>
@@ -912,7 +965,7 @@
     </section>
 
     <!-- Troubleshooting -->
-    <section class="scroll-fade-in">
+    <section id="troubleshooting" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-blue-300">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -970,8 +1023,169 @@
       </div>
     </section>
 
+    <!-- Setup and recovery -->
+    <section id="backup" class="scroll-fade-in">
+      <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
+        <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
+          </svg>
+        </span>
+        Pengaturan dan pemulihan
+      </h2>
+
+      <div class="glass-panel rounded-2xl overflow-hidden">
+        <div class="faq-item p-6" id="recovery-code">
+          <input type="checkbox" id="recovery-code-toggle" class="faq-toggle hidden peer" />
+          <label for="recovery-code-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Apa itu kode pemulihan saya dan apa yang terjadi jika saya kehilangannya?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Kode pemulihan Anda adalah frasa sandi 24 karakter yang mengenkripsi cadangan cloud Anda.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="cloud-backup-encryption">
+          <input type="checkbox" id="cloud-backup-encryption-toggle" class="faq-toggle hidden peer" />
+          <label for="cloud-backup-encryption-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Bagaimana cadangan cloud saya dienkripsi?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Brankas Anda dienkripsi ujung ke ujung menggunakan AES-256-GCM di perangkat Anda.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="pin-faceid-recovery">
+          <input type="checkbox" id="pin-faceid-recovery-toggle" class="faq-toggle hidden peer" />
+          <label for="pin-faceid-recovery-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Bagaimana PIN, Face ID, dan kode pemulihan bekerja bersama?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>PIN Anda adalah kunci harian. Face ID adalah jalan pintas cepat untuk membuka kunci.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="export-import">
+          <input type="checkbox" id="export-import-toggle" class="faq-toggle hidden peer" />
+          <label for="export-import-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Bagaimana cara mengekspor dan mengimpor brankas saya?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Setiap pengguna dapat mengekspor seluruh vault mereka sebagai file cadangan terenkripsi dan dilindungi kata sandi (.tdvault) dari Pengaturan, lalu mengimpornya di perangkat mana pun atau setelah instal ulang. Ekspor dan impor bolak-balik mempertahankan semuanya persis sama, sehingga data Anda portabel dan Anda tidak pernah terkunci. (Ekspor PDF multi-dokumen gabungan adalah fitur Pro terpisah.)</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-backup-free-new">
+          <input type="checkbox" id="faq-backup-free-new-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-backup-free-new-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Bisakah saya mencadangkan data secara gratis?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Ya. Vault Export (file cadangan terenkripsi .tdvault) gratis untuk semua orang. Aplikasi juga menyimpan cadangan lokal otomatis di perangkat Anda setiap beberapa menit, tanpa biaya. Pencadangan cloud ke iCloud atau Google Drive Anda sendiri adalah opsi Pro. Tidak ada fitur cadangan yang mengunci data Anda.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-last-backup-status">
+          <input type="checkbox" id="faq-last-backup-status-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-last-backup-status-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Apa arti "Cadangan terakhir: 2 jam lalu, 12 dokumen" di Pengaturan?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Baris tersebut menunjukkan cadangan lokal otomatis terbaru aplikasi, berapa lama sejak disimpan, dan berapa banyak dokumen yang dikandungnya. Ini meyakinkan Anda bahwa salinan yang dapat dipulihkan ada di perangkat Anda. Ketuk Pulihkan Cadangan Lokal untuk kembali ke versi tersebut.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-restore-local-backup">
+          <input type="checkbox" id="faq-restore-local-backup-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-restore-local-backup-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Bagaimana cara memulihkan vault dari cadangan lokal?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Buka Pengaturan, lalu ketuk Pulihkan Cadangan Lokal. Aplikasi menampilkan daftar cadangan yang tersedia beserta cap waktunya. Pilih yang Anda inginkan, lalu konfirmasi. Untuk memulihkan dari file .tdvault yang Anda ekspor, ketuk Impor Vault sebagai gantinya dan pilih file tersebut. Kedua opsi gratis untuk semua orang. Pemulihan menggantikan data Anda saat ini dengan isi cadangan.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-recovery-screen">
+          <input type="checkbox" id="faq-recovery-screen-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-recovery-screen-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Aplikasi menampilkan layar pemulihan atau mengatakan data tidak dapat dimuat. Apa yang harus dilakukan?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Aplikasi tidak pernah diam-diam menghapus data Anda. Jika tidak dapat membaca penyimpanan lokal, aplikasi menampilkan layar pemulihan alih-alih membuang apa pun. Ketuk Pulihkan Cadangan Lokal untuk memulihkan dari cadangan otomatis terbaru, atau ketuk Impor Vault untuk memulihkan dari file .tdvault yang sebelumnya Anda ekspor. Cadangan yang dibuat sebelum pembaruan aplikasi terbaru juga dapat dipulihkan. Dokumen Anda dapat dipulihkan dan tidak ada yang dihapus.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-pre-update-backup">
+          <input type="checkbox" id="faq-pre-update-backup-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-pre-update-backup-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Mengapa aplikasi membuat cadangan sebelum memperbarui?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Sebelum pembaruan format data besar, aplikasi secara otomatis membuat snapshot vault Anda sehingga dapat melakukan rollback jika terjadi masalah. Prosesnya otomatis dan gratis untuk semua orang.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="allowance-modes">
+          <input type="checkbox" id="allowance-modes-toggle" class="faq-toggle hidden peer" />
+          <label for="allowance-modes-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Mode tunjangan Pengunjung vs Rumah: mana yang harus saya pilih?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Mode Pengunjung melacak hari DI negara. Mode Rumah melacak hari JAUH dari negara asal Anda.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="family-profiles">
+          <input type="checkbox" id="family-profiles-toggle" class="faq-toggle hidden peer" />
+          <label for="family-profiles-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Apa itu profil keluarga?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Setiap anggota keluarga memiliki profil terpisah dengan dokumen, foto, dan pengingat mereka sendiri.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="delete-restore">
+          <input type="checkbox" id="delete-restore-toggle" class="faq-toggle hidden peer" />
+          <label for="delete-restore-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Apa yang terjadi ketika saya menghapus sesuatu?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Item yang dihapus masuk ke tempat sampah selama 30 hari.</p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
     <!-- Legal -->
-    <section class="scroll-fade-in">
+    <section id="legal" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -1063,5 +1277,19 @@
   <script src="/assets/js/cookie-consent.js" defer></script>
   <script src="/assets/js/mobile-menu.js" defer></script>
   <script src="/assets/js/lang-picker.js" defer></script>
+  <!-- Accordion aria-expanded sync (a11y) -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      document.querySelectorAll('.faq-toggle').forEach(function (toggle) {
+        var label = toggle.nextElementSibling;
+        if (label && label.classList.contains('faq-label')) {
+          label.setAttribute('aria-expanded', toggle.checked ? 'true' : 'false');
+          toggle.addEventListener('change', function () {
+            label.setAttribute('aria-expanded', this.checked ? 'true' : 'false');
+          });
+        }
+      });
+    });
+  </script>
 </body>
 </html>

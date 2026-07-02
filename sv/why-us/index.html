@@ -68,7 +68,7 @@
       {
         "@type": "Question",
         "name": "Vad händer om jag tappar bort min telefon?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Dina dokument finns på din enhet, så en vanlig telefonsäkerhetskopia (iCloud eller Google Backup) inkluderar dem. När du återställer till en ny telefon följer ditt valv med. Pro-användare kan också skapa krypterade säkerhetskopior när som helst." }
+        "acceptedAnswer": { "@type": "Answer", "text": "Vi lagrar inte din data, så vi kan inte återställa den åt dig. Om du återställer från en systemsäkerhetskopia (iCloud/Google) installeras appen om men dokumenten hämtas inte automatiskt - krypteringsnycklarna lämnade aldrig din ursprungliga enhet. Gratis Vault Export är ditt sätt att spara en kopia. Pro-användare kan också skapa krypterad molnsäkerhetskopia till sitt eget iCloud eller Google Drive, med återställningskod endast de har." }
       },
       {
         "@type": "Question",
@@ -93,6 +93,27 @@
     ]
   }
   </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "Travel Document Vault",
+    "description": "Offline-hanterare för pass, visum och ID. AES-256-krypterad, inga konton, inga servrar.",
+    "url": "https://traveldocumentvault.com",
+    "applicationCategory": "Productivity",
+    "operatingSystem": "iOS, Android",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD",
+      "name": "Free tier"
+    },
+    "author": {
+      "@type": "Organization",
+      "name": "Mustafa Hafeez"
+    }
+  }
+  </script>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -113,6 +134,7 @@
     .nav-link:hover::after { width: 100%; }
     .pricing-highlight { background: linear-gradient(145deg, rgba(255,176,0,0.15) 0%, rgba(255,176,0,0.05) 100%); border: 2px solid rgba(255,176,0,0.3); }
     .pricing-highlight:hover { border-color: rgba(255,176,0,0.5); background: linear-gradient(145deg, rgba(255,176,0,0.2) 0%, rgba(255,176,0,0.08) 100%); }
+    .pro-badge { background: linear-gradient(135deg, #FFB000 0%, #e69f00 100%); }
     .scroll-fade-in { opacity: 0; transform: translateY(30px); transition: opacity 0.6s ease-out, transform 0.6s ease-out; }
     .scroll-fade-in.visible { opacity: 1; transform: translateY(0); }
     .stagger-children > * { opacity: 0; transform: translateY(20px); transition: opacity 0.5s ease-out, transform 0.5s ease-out; }
@@ -347,14 +369,14 @@
         Integritet i fokus. Endast på enheten. Inga konton behövs.
       </div>
       <h1 id="hero-heading" class="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-[1.1] mb-8">
-        Hur mycket tid förlorar du på<br class="hidden sm:block">
-        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">att leta efter dokument?</span>
+        Alltid redo när<br class="hidden sm:block">
+        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">du behöver dem</span>
       </h1>
       <p class="text-blue-100/90 text-lg sm:text-xl leading-relaxed max-w-2xl mx-auto mb-6">
-        Immigrationsdiskar. Visumansökningar. Försäkringsblanketter. <strong class="text-white">Varje sökning i kamerarullen tillför stress du inte behöver.</strong>
+        Alla familjens dokument på en plats. Spårade, krypterade och redo för varje resa. <strong class="text-white">Ingen stress vid immigrationsdisken eller visumansökan.</strong>
       </p>
       <p class="text-blue-200/80 text-base sm:text-lg leading-relaxed max-w-xl mx-auto mb-8">
-        <strong class="text-white">Tänk om de alltid var redo?</strong>
+        <strong class="text-white">En enda app för allt.</strong>
       </p>
       <div class="flex flex-col items-center gap-4 pt-4">
         <p class="text-white text-lg font-semibold">Ladda ner gratis. Inget konto. Ingen prenumeration.</p>
@@ -367,6 +389,33 @@
           </a>
         </div>
         <span class="text-slate-50 text-sm font-medium">Betala en gång. Alla v1.x-uppdateringar ingår, för alltid.</span>
+        <p class="text-blue-200/70 text-xs max-w-md mt-2">Byggt av någon som behövde det för sin egen familj. Inga VC:s, inga aktieägare, inget annonsörnätverk. Jag är ansvarig för en person: dig.</p>
+      </div>
+    </section>
+
+    <!-- Grundarens historia - Sektion 2 -->
+    <section aria-labelledby="founder-heading" class="scroll-fade-in text-center max-w-3xl mx-auto pt-24 md:pt-32">
+      <div class="glass-panel rounded-2xl p-8 sm:p-10">
+        <div class="flex items-start gap-4 mb-6 justify-center">
+          <div class="h-16 w-16 rounded-full bg-gradient-to-br from-brand-gold to-brand-blue p-[2px] flex-shrink-0">
+            <div class="h-full w-full rounded-full bg-[#0A192F] flex items-center justify-center text-base font-bold text-white">
+              MH
+            </div>
+          </div>
+          <div class="text-left">
+            <p class="text-white font-semibold text-lg">Mustafa Hafeez</p>
+            <p class="text-slate-400 text-sm">Byggde Travel Document Vault för min familj</p>
+          </div>
+        </div>
+        <blockquote class="text-slate-200 text-lg sm:text-xl leading-relaxed mb-6">
+          "Varje familjeresa blev en skattjakt genom Foton, e-post och Drive. Jag byggde det här för att nästa resa inte skulle bli det."
+        </blockquote>
+        <p class="text-blue-200/70 text-base leading-relaxed mb-4">
+          Ingen riskkapitalfinansiering. Inga aktieägare. Inget annonsörnätverk. Bara en förälder som blev trött på samma panik, varje resa.
+        </p>
+        <a href="/sv/blog/why-i-built-travel-document-vault/" class="text-brand-gold hover:text-brand-gold font-semibold transition-colors inline-flex items-center gap-2">
+          Läs hela historien →
+        </a>
       </div>
     </section>
 
@@ -383,99 +432,71 @@
           <p class="text-brand-gold text-sm font-semibold uppercase tracking-wider mb-4">Vid gaten</p>
           <p class="text-slate-100 text-base leading-relaxed">Immigrationsdisken. Tjänstemannen ber om ditt visum.</p>
           <p class="text-slate-300 text-base leading-relaxed mt-3">Tänk om du kunde öppna en app och ha det precis där? Ingen letande. Inget appbyte. Bara omedelbar åtkomst.</p>
+          <p class="text-blue-200/70 text-xs mt-4 font-medium">Om det är du: Företagsresenär, digital nomad eller frekvent flygare.</p>
         </li>
         <li class="glass-panel rounded-2xl p-8 sm:p-10 border-l-4 border-brand-gold">
           <p class="text-brand-gold text-sm font-semibold uppercase tracking-wider mb-4">Giltighetsfällan</p>
           <p class="text-slate-100 text-base leading-relaxed">Ditt pass går ut nästa år. Gott om tid, eller hur?</p>
           <p class="text-slate-300 text-base leading-relaxed mt-3">Fel. Pass för Schengenresor måste vara utfärdade de senaste 10 åren, och många länder tillämpar en 6-månadersgiltighetsregel. Flygbolag använder officiella databaser som IATA Timatic vid gaten för att genomdriva dessa regler. En enkel utgångskontroll räcker inte.</p>
+          <p class="text-blue-200/70 text-xs mt-4 font-medium">Om det är du: Frekvent resenär, skattemässig medvetenhet eller bosatt i flera länder.</p>
         </li>
         <li class="glass-panel rounded-2xl p-8 sm:p-10 border-l-4 border-brand-gold">
           <p class="text-brand-gold text-sm font-semibold uppercase tracking-wider mb-4">Förnyelsekaos</p>
           <p class="text-slate-100 text-base leading-relaxed">Ett förnyelsebrev anländer. Du har ingen aning om när du senast förnyade, vilka dokument du behöver, eller om barnens pass löper ut samtidigt.</p>
+          <p class="text-blue-200/70 text-xs mt-4 font-medium">Om det är du: Förälder, vårdnadshavare eller familjereseplanerare.</p>
         </li>
         <li class="glass-panel rounded-2xl p-8 sm:p-10 border-l-4 border-brand-gold">
           <p class="text-brand-gold text-sm font-semibold uppercase tracking-wider mb-4">Allt samlat</p>
           <p class="text-slate-100 text-base leading-relaxed mb-3">Pass. Visum. Körkort. Försäkring. Resebokningar. Barnens dokument.</p>
           <p class="text-slate-300 text-base leading-relaxed">Allt på ett ställe. Alltid tillgängligt. Redo när du behöver det.</p>
+          <p class="text-blue-200/70 text-xs mt-4 font-medium">Om det är du: Organiserad person som bara behöver en betrodd app.</p>
         </li>
       </ul>
     </section>
 
-    <!-- Alternativ -->
-    <section aria-labelledby="alternatives-heading" class="scroll-fade-in">
-      <h2 id="alternatives-heading" class="text-2xl sm:text-3xl font-bold text-white text-center mb-4">Vad du förmodligen använder nu</h2>
-      <p class="text-blue-200/80 text-center mb-10 max-w-xl mx-auto">Dessa är alla rimliga val. Var och en fungerar, upp till en punkt.</p>
+    <!-- SEKTION 3: Alternativ -->
+    <section aria-labelledby="alternatives-heading" class="scroll-fade-in pt-8">
+      <h2 id="alternatives-heading" class="text-2xl sm:text-3xl font-bold text-white text-center mb-4">Det du förmodligen använder nu</h2>
+      <p class="text-blue-200/80 text-center mb-10 max-w-xl mx-auto">Det här är alla rimliga val. De fungerar alla upp till en viss gräns.</p>
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 max-w-5xl mx-auto stagger-children">
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Allmänna valv</h3>
           <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fungerar:</strong> Hög säkerhet och offline-åtkomst.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Faller kort:</strong> De behandlar ett pass som ett butikskvitto och saknar resespecifik logik. Vi byggde detta specifikt för resenärer, med en generös 5-dokuments gratisversion och ett enkelt engångspris på 99 kr utan prenumerationer.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Begränsningar:</strong> De behandlar ett pass som ett kvitto och saknar resespecifik logik. Vi byggde detta specifikt för resenärer och erbjuder en generös gratis version med 5 dokument och ett enkelt engångspris på 99 kr utan återkommande prenumerationer.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">Kamerarull / Foton</h3>
+          <h3 class="text-white font-semibold mb-3">Fotobibliotek / Foton</h3>
           <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fungerar:</strong> Alltid med dig.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Faller kort:</strong> Begravt bland tusentals foton utan utgångsspårning, ingen organisation och ingen säkerhet utöver ditt telefon-lösenord.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Begränsningar:</strong> Begravt i tusentals foton utan utgångsspårning, ingen organisation och ingen säkerhet bortom telefonens lås.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Molnlagring</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fungerar:</strong> Har offline-läge och synkroniserar mellan enheter.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Faller kort:</strong> Du lagrar ditt pass, kollar utgångsdatumet, byter till en kalenderapp för att ange en påminnelse, och försöker sedan komma ihåg vilken mapp som hade din makes/makas dokument. Det är tre appar som gör jobbet för en, och ingen vet att det är ett pass som löper ut.</p>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fungerar:</strong> Har offline-läge och synkroniseras mellan enheter.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Begränsningar:</strong> Du lagrar ditt pass, kontrollerar utgångsdatumet, byter till en kalenderapp för att ställa in en påminnelse, och sedan kommer du ihåg vilken mapp som hade din partners dokument. Det är tre appar som gör jobbet för en, och ingen av dem vet att det är ett pass som slutar gälla.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Lösenordshanterare</h3>
           <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fungerar:</strong> Utmärkt för lösenord.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Faller kort:</strong> Inte designade för dokumentbilder, utgångsspårning eller familjeorganisation. Ett passfoto i ett lösenordsfält är en omväg, inte en lösning.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Begränsningar:</strong> Inte utformad för dokumentbilder, utgångsspårning eller familjeorganisation. Ett passfoto i ett lösenordsfält är en omväg, inte en lösning.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Anteckningsappar</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fungerar:</strong> Flexibla och bekanta.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Faller kort:</strong> Inga utgångspåminnelser, ingen guidad skanning och ditt passfoto sitter bredvid din inköpslista utan kryptering.</p>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fungerar:</strong> Flexibel och bekant.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Begränsningar:</strong> Ingen utgångsspårning, ingen guidning för skanning, och ditt passfoto sitter bredvid din matvarolista utan kryptering.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">Pappermappar</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fungerar:</strong> Pålitliga hemma.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Faller kort:</strong> Värdelösa på en flygplats i ett annat land. Och papper skickar inte en påminnelse sex månader innan utgångsdatum.</p>
+          <h3 class="text-white font-semibold mb-3">Kalkylark</h3>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fungerar:</strong> Utmärkt för reseplaneringoch att skriva in detaljer.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Begränsningar:</strong> Inga säkra bildbilagor, fruktansvärd formatering på mobila skärmar på flygplatsen och inga automatiserade utgångspåminnelser innan din resa.</p>
         </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">"Jag kommer ihåg"</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fungerar:</strong> Ibland.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Faller kort:</strong> Tills det inte gör det. Och det misslyckas vanligtvis kvällen innan en flygning, när det är för sent att fixa något.</p>
-        </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">Kalkylblad</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fungerar:</strong> Utmärkta för att planera resvägar och skriva ner detaljer.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Faller kort:</strong> Inga säkra bildbilagor, fruktansvärd formatering på mobila skärmar på flygplatsen och inga automatiska utgångspåminnelser innan din resa.</p>
-        </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">Flygbolagsappar</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fungerar:</strong> Smidiga för just det flyg du tar idag.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Faller kort:</strong> De glömmer dina uppgifter mellan resor, spårar inte visum och är helt värdelösa när du behöver visa legitimation på ett hotell eller hyra en bil.</p>
-        </div>
-      </div>
-      <!-- Grundarcitat -->
-      <div class="glass-panel rounded-2xl p-6 sm:p-8 mt-8 max-w-3xl mx-auto scroll-fade-in">
-        <div class="flex items-start gap-4 mb-4">
-          <div class="h-12 w-12 rounded-full bg-gradient-to-br from-brand-gold to-brand-blue p-[2px] flex-shrink-0">
-            <div class="h-full w-full rounded-full bg-[#0A192F] flex items-center justify-center text-sm font-bold text-white">
-              MH
-            </div>
-          </div>
-          <div>
-            <p class="text-white font-semibold">Mustafa Hafeez</p>
-            <p class="text-slate-400 text-sm">Grundare, Travel Document Vault</p>
-          </div>
-        </div>
-        <blockquote class="text-slate-200 text-base sm:text-lg leading-relaxed italic">
-          "Jag använde de flesta av dessa själv. Kamerarullen. Den delade disken. 'Jag kommer ihåg'-metoden. Här är vad jag hela tiden önskade att det fanns."
-        </blockquote>
       </div>
     </section>
 
-    <!-- Jämförelsetabell -->
+    <!-- Jämförningstabell -->
     <section aria-labelledby="comparison-heading" class="scroll-fade-in">
       <div class="text-center mb-10">
         <h2 id="comparison-heading" class="text-3xl sm:text-4xl font-bold text-white mb-4">Hur det mäter sig</h2>
-        <p class="text-blue-200/70 text-base max-w-xl mx-auto">Varje alternativ gör en eller två saker bra. Bara ett gör alla.</p>
+        <p class="text-blue-200/70 text-base max-w-xl mx-auto">Varje alternativ kan en eller två saker bra. Bara en gör allt.</p>
       </div>
 
       <div class="overflow-x-auto rounded-2xl">
@@ -539,6 +560,27 @@
               <td class="px-5 py-4 text-center"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">Gratis men annonsfinansierat</span></td>
               <td class="px-5 py-4 text-center"><span class="text-red-400 text-base">✗</span><span class="block text-[10px] text-slate-400 mt-0.5">~350 kr/år+</span></td>
             </tr>
+            <tr style="background:rgba(10,25,47,0.5)">
+              <td class="px-5 py-4 text-slate-200 font-medium">Reseplaneringschecklista <span class="text-[10px] text-slate-500">(per resa)</span></td>
+              <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-bottom:1px solid rgba(255,176,0,0.15);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span><span class="block text-[10px] text-slate-400 mt-0.5">Ja</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
+            </tr>
+            <tr style="background:rgba(17,25,40,0.5)">
+              <td class="px-5 py-4 text-slate-200 font-medium">Anpassade dagsgränser per land (dagar-i / dagar-borta)</td>
+              <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-bottom:1px solid rgba(255,176,0,0.15);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
+            </tr>
+            <tr style="background:rgba(10,25,47,0.5)">
+              <td class="px-5 py-4 text-slate-200 font-medium">Krypterad molnsynk (ditt eget moln)</td>
+              <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span><span class="block text-[10px] text-slate-400 mt-0.5">Din iCloud / Google Drive</span></td>
+              <td class="px-5 py-4 text-center"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">Endast Apple ID</span></td>
+              <td class="px-5 py-4 text-center"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">Endast Google Drive/Dropbox</span></td>
+              <td class="px-5 py-4 text-center"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">Deras servrar</span></td>
+            </tr>
           </tbody>
         </table>
       </div>
@@ -569,9 +611,9 @@
         </p>
 
         <div class="bg-brand-gold/20 border-l-4 border-brand-gold rounded-lg p-6">
-          <p class="text-white text-lg font-bold mb-4">Allt stannar på din enhet. Punkt.</p>
+          <p class="text-white text-lg font-bold mb-4">Din enhet. Din kontroll.</p>
           <p class="text-slate-200 text-base leading-relaxed mb-4">
-            Avsaknaden av molnsynkronisering är en medveten säkerhetsfunktion. Inget moln. Inga konton. Dina dokument rör aldrig en tredjepartsserver.
+            Molnsynkronisering är inaktiverad som standard. Om du aktiverar det (Pro), krypteras ditt valv på din enhet innan något laddas upp och går till din egen iCloud eller Google Drive, förseglade med en återställningskod endast du har. Ingen – inte vi, Apple eller Google – kan läsa det. Detta löfte tillämpas genom kod, inte genom policy.
           </p>
           <p class="text-slate-300 text-sm">
             AES-256-GCM-kryptering i vila. Krypterade säkerhetskopior använder PBKDF2-nyckelderivering. <a href="/privacy-policy/" class="text-brand-gold hover:text-yellow-300 transition-colors underline">Fullständig integritetspolicy</a>
@@ -588,7 +630,7 @@
           <h3 class="text-xl font-bold text-white mb-4">Utgångspåminnelser månader i förväg</h3>
 
           <p class="text-slate-300 text-base leading-relaxed mb-4">
-            Passförnyelsetider är 6 till 8 veckor. <strong class="text-white">Påminnelserna börjar 6 månader i förväg</strong> och kaskaderar automatiskt nedåt.
+            Passförnyelsetider är 6 till 8 veckor. <strong class="text-white">Påminnelserna börjar 8 månader i förväg</strong> och kaskaderar automatiskt nedåt.
           </p>
 
           <p class="text-slate-300 text-base leading-relaxed mb-4">
@@ -694,7 +736,7 @@
         <div style="position: relative;">
 
           <button id="carousel-prev" class="carousel-arrow carousel-arrow-mobile" aria-label="Föregående skärmdump" aria-disabled="true"
-                  style="position: absolute; left: 0; top: calc(60px + (100% - 60px) / 2); transform: translateY(-50%) translateX(-50%); z-index: 10;">
+                  style="position: absolute; left: 0; top: calc(110px + (100% - 110px) / 2); transform: translateY(-50%) translateX(-50%); z-index: 10;">
             <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
             </svg>
@@ -709,66 +751,66 @@
                  tabindex="0">
 
           <div class="carousel-slide is-active" role="group" aria-label="Skärmdump 1 av 6" aria-roledescription="bild">
-            <p class="carousel-label-title">Ett valv.</p>
-            <p class="carousel-label-sub">För alla dina dokument</p>
-            <img src="/assets/images/screenshots-appstore/01.png"
+            <p class="carousel-label-title">Vet vem som är redo innan du åker</p>
+            <p class="carousel-label-sub">Kontrollera allas dokumentstatus direkt</p>
+            <img src="../../assets/images/screenshots-appstore/01.webp"
                  decoding="async"
                  alt="Dokumentlista med familjeprofiler och utgångsdatum"
                  class="loaded"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <div class="carousel-slide" role="group" aria-label="Skärmdump 2 av 6" aria-roledescription="bild">
-            <p class="carousel-label-title">Alla dina dokument.</p>
-            <p class="carousel-label-sub">Pass, visum, ID och mer</p>
-            <img src="/assets/images/screenshots-appstore/04.png"
+            <p class="carousel-label-title">Redo för din resa</p>
+            <p class="carousel-label-sub">Varje person, varje dokument, verifierat</p>
+            <img src="../../assets/images/screenshots-appstore/04.webp"
                  decoding="async"
                  alt="Dokumenttyper inklusive pass, visum, ID, flygbiljett"
                  class="loaded"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <div class="carousel-slide" role="group" aria-label="Skärmdump 3 av 6" aria-roledescription="bild">
-            <p class="carousel-label-title">Missa aldrig en förnyelse.</p>
-            <p class="carousel-label-sub">Smarta påminnelser månader i förväg</p>
-            <img data-src="/assets/images/screenshots-appstore/02.png"
+            <p class="carousel-label-title">Varje persons reseprofil</p>
+            <p class="carousel-label-sub">Dokument, resor, påminnelser tillsammans</p>
+            <img data-src="../../assets/images/screenshots-appstore/02.webp"
                  decoding="async"
                  alt="Smarta påminnelser med 6 veckors förvarning"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <div class="carousel-slide" role="group" aria-label="Skärmdump 4 av 6" aria-roledescription="bild">
-            <p class="carousel-label-title">Din familj. Skyddad.</p>
-            <p class="carousel-label-sub">En profil per familjemedlem</p>
-            <img data-src="/assets/images/screenshots-appstore/03.png"
+            <p class="carousel-label-title">Dagar kvar i varje land</p>
+            <p class="carousel-label-sub">Spåra varje persons tid utomlands</p>
+            <img data-src="../../assets/images/screenshots-appstore/03.webp"
                  decoding="async"
                  alt="Familjeprofiler för Emma, Lucas, Oliver och Sophie"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <div class="carousel-slide" role="group" aria-label="Skärmdump 5 av 6" aria-roledescription="bild">
-            <p class="carousel-label-title">Varje detalj. Fångad.</p>
-            <p class="carousel-label-sub">Foton, datum och anteckningar</p>
-            <img data-src="/assets/images/screenshots-appstore/05.png"
+            <p class="carousel-label-title">Håll dig före tidsgränserna</p>
+            <p class="carousel-label-sub">Påminnelser innan du behöver dem</p>
+            <img data-src="../../assets/images/screenshots-appstore/05.webp"
                  decoding="async"
                  alt="Dokumentdetaljvy med passbilaga och metadata"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <div class="carousel-slide" role="group" aria-label="Skärmdump 6 av 6" aria-roledescription="bild">
-            <p class="carousel-label-title">Stannar på din enhet.</p>
-            <p class="carousel-label-sub">PIN-lås. Inget moln. Inga konton.</p>
-            <img data-src="/assets/images/screenshots-appstore/06.png"
+            <p class="carousel-label-title">Pass, visum, ID, allt organiserat</p>
+            <p class="carousel-label-sub">Se exakt vad som löper ut och när</p>
+            <img data-src="../../assets/images/screenshots-appstore/06.webp"
                  decoding="async"
                  alt="PIN-låsskärm för integritet du kan lita på"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
             </div>
           </div>
 
           <button id="carousel-next" class="carousel-arrow carousel-arrow-mobile" aria-label="Nästa skärmdump"
-                  style="position: absolute; right: 0; top: calc(60px + (100% - 60px) / 2); transform: translateY(-50%) translateX(50%); z-index: 10;">
+                  style="position: absolute; right: 0; top: calc(110px + (100% - 110px) / 2); transform: translateY(-50%) translateX(50%); z-index: 10;">
             <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
             </svg>
@@ -880,7 +922,7 @@
             <span class="font-semibold text-white text-base">Vad händer om jag tappar bort min telefon?</span>
             <span class="transition group-open:rotate-180"><svg fill="none" class="h-5 w-5 text-brand-gold flex-shrink-0" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg></span>
           </summary>
-          <div class="text-slate-300 text-base px-6 pb-6 leading-relaxed">Dina dokument finns på din enhet, så en vanlig telefonsäkerhetskopia (iCloud eller Google Backup) inkluderar dem. När du återställer till en ny telefon följer ditt valv med. Pro-användare kan också skapa krypterade säkerhetskopior när som helst.</div>
+          <div class="text-slate-300 text-base px-6 pb-6 leading-relaxed">Vi lagrar inte din data, så vi kan inte återställa den åt dig. En systemsäkerhetskopia (iCloud/Google) installerar om appen men hämtar inte dokumenten - krypteringsnycklarna lämnade aldrig din ursprungliga enhet. Exportera en kopia med Vault Export (gratis). Pro-användare kan också skapa krypterad molnsäkerhetskopia till sitt eget iCloud eller Google Drive med en återställningskod endast de har.</div>
         </details>
         <details class="glass-panel rounded-xl group">
           <summary class="flex items-center justify-between p-6 cursor-pointer list-none">
@@ -928,8 +970,8 @@
     </section>
 
     <!-- Slutgiltig CTA -->
-    <section id="final-cta" aria-labelledby="cta-heading" class="scroll-fade-in text-center space-y-6 pt-8 pb-24 md:pb-12">
-      <h2 id="cta-heading" class="text-3xl sm:text-4xl font-bold text-white">Sluta oroa dig för utgångsdatum</h2>
+    <section aria-labelledby="cta-heading" class="scroll-fade-in text-center space-y-6 pt-8 pb-24 md:pb-12">
+      <h2 id="cta-heading" class="text-3xl sm:text-4xl font-bold text-white">Din familj. Skyddad. Alltid.</h2>
       <p class="text-blue-200/70 text-lg max-w-xl mx-auto">Allt på ett ställe. Inga konton, inga prenumerationer, inga överraskningar.</p>
       <div class="flex flex-col sm:flex-row items-center justify-center gap-8">
         <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" class="group relative inline-flex items-center transition-transform active:scale-95">

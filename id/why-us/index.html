@@ -68,7 +68,7 @@
       {
         "@type": "Question",
         "name": "Apa yang terjadi jika saya kehilangan ponsel?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Dokumen Anda tersimpan di perangkat, sehingga pencadangan ponsel rutin (iCloud atau Google Backup) sudah mencakupnya. Saat Anda memulihkan ke ponsel baru, vault Anda ikut terbawa. Pengguna Pro juga dapat membuat cadangan terenkripsi kapan saja." }
+        "acceptedAnswer": { "@type": "Answer", "text": "Dokumen Anda tersimpan di perangkat, dan kunci enkripsi tidak pernah meninggalkannya. Cadangan ponsel sistem (iCloud atau Google Backup) menginstal ulang aplikasi tetapi tidak dapat memulihkan dokumen Anda. Semua orang dapat mengekspor vault mereka sebagai file terenkripsi .tdvault gratis dari Pengaturan untuk menjaga keamanan. Pengguna Pro dapat membuat cadangan cloud terenkripsi ke iCloud atau Google Drive milik mereka sendiri, dengan pemulihan satu ketukan di perangkat baru menggunakan kode pemulihan mereka." }
       },
       {
         "@type": "Question",
@@ -143,10 +143,10 @@
     /* Screenshot carousel - gold standard */
     .carousel-stage {
       position: relative;
-      height: calc(80vw * 2.17 + 70px);
+      height: calc(80vw * 2.17 + 130px);
     }
-    @media (min-width: 640px) { .carousel-stage { height: 770px; } }
-    @media (min-width: 1024px) { .carousel-stage { height: 870px; } }
+    @media (min-width: 640px) { .carousel-stage { height: 860px; } }
+    @media (min-width: 1024px) { .carousel-stage { height: 960px; } }
 
     .carousel-slide {
       position: absolute;
@@ -261,6 +261,7 @@
     /* Focus visible for keyboard nav */
     details summary:focus-visible { outline: 2px solid #FFB000; outline-offset: 2px; border-radius: 0.75rem; }
     a:focus-visible, button:focus-visible { outline: 2px solid #FFB000; outline-offset: 2px; border-radius: 4px; }
+    .pro-badge { background: linear-gradient(135deg, #FFB000 0%, #e69f00 100%); }
     /* Reduced motion */
     @media (prefers-reduced-motion: reduce) {
       .scroll-fade-in, .stagger-children > *, .screenshot-reveal,
@@ -359,14 +360,14 @@
         Privasi diutamakan. Hanya di perangkat. Tanpa akun.
       </div>
       <h1 id="hero-heading" class="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-[1.1] mb-8">
-        Berapa Banyak Waktu yang Anda<br class="hidden sm:block">
-        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">Habiskan Mencari Dokumen?</span>
+        Selalu Siap <br class="hidden sm:block">
+        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">Saat Anda Membutuhkan</span>
       </h1>
       <p class="text-blue-100/90 text-lg sm:text-xl leading-relaxed max-w-2xl mx-auto mb-6">
-        Loket imigrasi. Permohonan visa. Formulir asuransi. <strong class="text-white">Setiap pencarian di galeri foto menambah stres yang tidak perlu.</strong>
+        Loket imigrasi. Permohonan visa. Formulir asuransi. <strong class="text-white">Semua dokumen keluarga, selalu di ujung jari Anda.</strong>
       </p>
       <p class="text-blue-200/80 text-base sm:text-lg leading-relaxed max-w-xl mx-auto mb-8">
-        <strong class="text-white">Bagaimana jika semuanya selalu siap tersedia?</strong>
+        Tidak ada pencarian. Tidak ada stres. Hanya akses instan kapan pun Anda membutuhkannya.
       </p>
       <div class="flex flex-col items-center gap-4 pt-4">
         <p class="text-white text-lg font-semibold">Unduh gratis. Tanpa akun. Tanpa langganan.</p>
@@ -379,6 +380,33 @@
           </a>
         </div>
         <span class="text-slate-50 text-sm font-medium">Bayar sekali. Semua pembaruan v1.x termasuk, selamanya.</span>
+        <p class="text-blue-200/70 text-xs max-w-md mt-2">Dibangun oleh seseorang yang membutuhkannya untuk keluarganya sendiri. Tanpa VC, tanpa pemegang saham, tanpa jaringan iklan. Saya hanya menjawab kepada satu orang: Anda.</p>
+      </div>
+    </section>
+
+    <!-- Founder Story - Section 2 -->
+    <section aria-labelledby="founder-heading" class="scroll-fade-in text-center max-w-3xl mx-auto pt-24 md:pt-32">
+      <div class="glass-panel rounded-2xl p-8 sm:p-10">
+        <div class="flex items-start gap-4 mb-6 justify-center">
+          <div class="h-16 w-16 rounded-full bg-gradient-to-br from-brand-gold to-brand-blue p-[2px] flex-shrink-0">
+            <div class="h-full w-full rounded-full bg-[#0A192F] flex items-center justify-center text-base font-bold text-white">
+              MH
+            </div>
+          </div>
+          <div class="text-left">
+            <p class="text-white font-semibold text-lg">Mustafa Hafeez</p>
+            <p class="text-slate-400 text-sm">Dibangun Travel Document Vault untuk keluarga saya</p>
+          </div>
+        </div>
+        <blockquote class="text-slate-200 text-lg sm:text-xl leading-relaxed mb-6">
+          "Setiap perjalanan keluarga berubah jadi perburuan harta karun di Foto, email, dan Drive. Saya membuat ini agar perjalanan berikutnya tidak begitu."
+        </blockquote>
+        <p class="text-blue-200/70 text-base leading-relaxed mb-4">
+          Tanpa pendanaan modal ventura. Tanpa pemegang saham. Tanpa jaringan iklan. Hanya orang tua yang lelah dengan panik yang sama, setiap perjalanan.
+        </p>
+        <a href="/id/blog/why-i-built-travel-document-vault/" class="text-brand-gold hover:text-brand-gold-hover font-semibold transition-colors inline-flex items-center gap-2">
+          Baca cerita lengkapnya →
+        </a>
       </div>
     </section>
 
@@ -414,7 +442,7 @@
     </section>
 
     <!-- SECTION 3: Alternatives -->
-    <section aria-labelledby="alternatives-heading" class="scroll-fade-in">
+    <section aria-labelledby="alternatives-heading" class="scroll-fade-in pt-8">
       <h2 id="alternatives-heading" class="text-2xl sm:text-3xl font-bold text-white text-center mb-4">Yang Mungkin Anda Gunakan Sekarang</h2>
       <p class="text-blue-200/80 text-center mb-10 max-w-xl mx-auto">Ini semua pilihan yang wajar. Masing-masing bekerja - hingga batas tertentu.</p>
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 max-w-5xl mx-auto stagger-children">
@@ -444,42 +472,10 @@
           <p class="text-slate-400 text-base"><strong class="text-slate-300">Kekurangan:</strong> Tidak ada pengingat kedaluwarsa, tidak ada panduan pengambilan gambar, dan foto paspor Anda berdampingan dengan daftar belanja tanpa enkripsi.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">Folder Fisik</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Keunggulan:</strong> Andal di rumah.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Kekurangan:</strong> Tidak berguna di bandara di negara lain. Dan kertas tidak mengirimkan pengingat enam bulan sebelum kedaluwarsa.</p>
-        </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">"Saya Akan Ingat"</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Keunggulan:</strong> Kadang berhasil.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Kekurangan:</strong> Sampai tidak berhasil. Dan biasanya gagal malam sebelum penerbangan, saat sudah terlambat untuk memperbaiki apa pun.</p>
-        </div>
-        <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Spreadsheet</h3>
           <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Keunggulan:</strong> Sangat baik untuk merencanakan itinerari dan mengetikkan detail.</p>
           <p class="text-slate-400 text-base"><strong class="text-slate-300">Kekurangan:</strong> Tidak ada lampiran gambar aman, tampilan buruk di layar ponsel di bandara, dan tidak ada pengingat kedaluwarsa otomatis sebelum perjalanan.</p>
         </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">Aplikasi Maskapai</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Keunggulan:</strong> Lancar untuk penerbangan spesifik yang sedang Anda ambil hari ini.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Kekurangan:</strong> Mereka melupakan detail Anda antar perjalanan, tidak melacak visa, dan sama sekali tidak berguna saat Anda perlu menunjukkan KTP di hotel atau menyewa kendaraan.</p>
-        </div>
-      </div>
-      <!-- Founder Quote with Attribution -->
-      <div class="glass-panel rounded-2xl p-6 sm:p-8 mt-8 max-w-3xl mx-auto scroll-fade-in">
-        <div class="flex items-start gap-4 mb-4">
-          <div class="h-12 w-12 rounded-full bg-gradient-to-br from-brand-gold to-brand-blue p-[2px] flex-shrink-0">
-            <div class="h-full w-full rounded-full bg-[#0A192F] flex items-center justify-center text-sm font-bold text-white">
-              MH
-            </div>
-          </div>
-          <div>
-            <p class="text-white font-semibold">Mustafa Hafeez</p>
-            <p class="text-slate-400 text-sm">Pendiri, Travel Document Vault</p>
-          </div>
-        </div>
-        <blockquote class="text-slate-200 text-base sm:text-lg leading-relaxed italic">
-          "Saya menggunakan sebagian besar ini sendiri. Galeri foto. Drive bersama. Pendekatan 'saya akan ingat'. Inilah yang terus saya inginkan ada."
-        </blockquote>
       </div>
     </section>
 
@@ -563,7 +559,7 @@
     <section aria-labelledby="different-heading" class="scroll-fade-in space-y-8">
       <div class="text-center space-y-4 mb-12">
         <h2 id="different-heading" class="text-3xl sm:text-4xl font-bold text-white">Satu Aplikasi. <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">Semua Terorganisir.</span></h2>
-        <p class="text-blue-200/90 text-base max-w-xl mx-auto">Dibangun oleh seorang orang tua yang butuh ketenangan, bukan daftar tugas tambahan.</p>
+        <p class="text-blue-200/90 text-base max-w-xl mx-auto">Dibuat oleh orang tua yang lelah menelusuri Foto, email, dan Drive sebelum setiap perjalanan. Sekarang Anda tidak perlu.</p>
       </div>
 
       <div class="space-y-8">
@@ -586,7 +582,7 @@
         <div class="bg-brand-gold/20 border-l-4 border-brand-gold rounded-lg p-6">
           <p class="text-white text-lg font-bold mb-4">Segalanya tetap di perangkat Anda. Titik.</p>
           <p class="text-slate-200 text-base leading-relaxed mb-4">
-            Ketiadaan sinkronisasi cloud adalah fitur keamanan yang disengaja. Tanpa cloud. Tanpa akun. Dokumen Anda tidak pernah menyentuh server pihak ketiga.
+            Sinkronisasi cloud dinonaktifkan secara default. Jika Anda mengaktifkannya (Pro), brankas Anda dienkripsi di perangkat Anda sebelum apa pun diunggah, dan pergi ke iCloud atau Google Drive Anda sendiri, disegel dengan kode pemulihan yang hanya Anda miliki. Tidak ada siapa pun, termasuk kami, Apple, atau Google, yang dapat membacanya. Janji ini ditegakkan oleh kode, bukan kebijakan.
           </p>
           <p class="text-slate-300 text-sm">
             Enkripsi AES-256-GCM saat penyimpanan. Cadangan terenkripsi menggunakan derivasi kunci PBKDF2. <a href="/privacy-policy/" class="text-brand-gold hover:text-yellow-300 transition-colors underline">Kebijakan privasi lengkap</a>
@@ -603,7 +599,7 @@
           <h3 class="text-xl font-bold text-white mb-4">Pengingat Kedaluwarsa, Berbulan-bulan Lebih Awal</h3>
 
           <p class="text-slate-300 text-base leading-relaxed mb-4">
-            Pembaruan paspor memakan waktu 6 hingga 8 minggu. <strong class="text-white">Pengingat dimulai 6 bulan lebih awal</strong> dan bertingkat secara otomatis.
+            Pembaruan paspor memakan waktu 6 hingga 8 minggu. <strong class="text-white">Pengingat dimulai 8 bulan lebih awal</strong> dan bertingkat secara otomatis.
           </p>
 
           <p class="text-slate-300 text-base leading-relaxed mb-4">
@@ -696,6 +692,104 @@
       </div>
     </section>
 
+    <!-- v1.2 FEATURES -->
+    <section class="scroll-fade-in max-w-5xl mx-auto px-4 sm:px-6 pt-8">
+      <div class="text-center mb-10">
+        <h2 class="text-3xl sm:text-4xl font-bold text-white mb-4">Dibangun untuk Keluarga</h2>
+        <p class="text-blue-200/70 text-base max-w-xl mx-auto">Fitur modern untuk perjalanan modern.</p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+        <!-- Trip Planner -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Semua Siap Sekilas Pandang</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Lampu lalu lintas kesiapan keluarga. Lihat siapa yang siap bepergian.</p>
+        </div>
+
+        <!-- Your Own Cloud -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M9 19l3 3m0 0l3-3m-3 3v-6" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Cloud Anda. Kunci Anda.</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Cadangan terenkripsi ujung ke ujung di iCloud atau Google Drive Anda.</p>
+        </div>
+
+        <!-- Days Abroad -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Lacak Hari di Luar Negeri</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Catat hari yang dihabiskan di negara mana pun. Tetapkan target batas hari khusus dan tetap mengikuti puti aturan durasi visa.</p>
+        </div>
+
+        <!-- Trip Allowances -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Bea Bebas Tanpa Matematika</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Lacak kuota per anggota per perjalanan.</p>
+        </div>
+
+        <!-- Recently Deleted -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col items-center text-center gap-3">
+          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
+            </svg>
+          </div>
+          <h3 class="text-base font-bold text-white">Pembatalan 30 Hari</h3>
+          <p class="text-xs text-slate-300 leading-relaxed">Hapus tanpa sengaja. Pulihkan kapan saja.</p>
+        </div>
+
+        <!-- Family Profiles -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Setiap Anggota Keluarga</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Profil terpisah. Dokumen setiap orang diatur di tempat mereka sendiri.</p>
+        </div>
+      </div>
+      <div class="text-center mt-12 scroll-fade-in">
+        <p class="text-white text-lg font-semibold mb-4">Mulai gratis. Tingkatkan kapan saja.</p>
+        <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+          <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'ios', 'source_page': window.location.pathname, 'source_section': 'why_us_cta'});" class="group relative inline-flex items-center transition-transform active:scale-95"><img loading="lazy" src="/assets/images/app-store-badge-black.svg" alt="Unduh di App Store" class="relative h-[56px] w-auto" width="120" height="40" /></a>
+          <a href="https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'android', 'source_page': window.location.pathname, 'source_section': 'why_us_cta'});" class="group relative inline-flex items-center transition-transform active:scale-95"><img loading="lazy" src="/assets/images/google-play-badge.svg" alt="Dapatkan di Google Play" class="relative h-[56px] w-auto" width="135" height="40" /></a>
+        </div>
+      </div>
+    </section>
+
     <!-- SCREENSHOT CAROUSEL SHOWCASE (hidden on very small screens) -->
     <section aria-label="App screenshots" class="scroll-fade-in hidden xs:block" style="display: none;">
     <style>@media (min-width: 390px) { section[aria-label="App screenshots"] { display: block !important; } }</style>
@@ -713,7 +807,7 @@
 
           <!-- Left arrow: absolute, centered on image (label ~60px tall) -->
           <button id="carousel-prev" class="carousel-arrow carousel-arrow-mobile" aria-label="Screenshot sebelumnya" aria-disabled="true"
-                  style="position: absolute; left: 0; top: calc(60px + (100% - 60px) / 2); transform: translateY(-50%) translateX(-50%); z-index: 10;">
+                  style="position: absolute; left: 0; top: calc(110px + (100% - 110px) / 2); transform: translateY(-50%) translateX(-50%); z-index: 10;">
             <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
             </svg>
@@ -730,64 +824,64 @@
 
           <!-- Screenshot 1 -->
           <div class="carousel-slide is-active" role="group" aria-label="Screenshot 1 dari 6" aria-roledescription="slide">
-            <p class="carousel-label-title">Satu Vault.</p>
-            <p class="carousel-label-sub">Untuk Semua Dokumen Anda</p>
-            <img src="/assets/images/screenshots-appstore/01.png"
+            <p class="carousel-label-title">Tahu siapa yang siap sebelum berangkat</p>
+            <p class="carousel-label-sub">Cek status dokumen setiap orang seketika</p>
+            <img src="../../assets/images/screenshots-appstore/01.webp"
                  decoding="async"
                  alt="Daftar dokumen menampilkan profil keluarga dengan tanggal kedaluwarsa"
                  class="loaded"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 2 -->
           <div class="carousel-slide" role="group" aria-label="Screenshot 2 dari 6" aria-roledescription="slide">
-            <p class="carousel-label-title">Semua Dokumen Anda.</p>
-            <p class="carousel-label-sub">Paspor, Visa, KTP, dan Lainnya</p>
-            <img src="/assets/images/screenshots-appstore/04.png"
+            <p class="carousel-label-title">Siap untuk perjalanan Anda</p>
+            <p class="carousel-label-sub">Setiap orang, setiap dokumen, terverifikasi</p>
+            <img src="../../assets/images/screenshots-appstore/04.webp"
                  decoding="async"
                  alt="Jenis dokumen termasuk paspor, visa, KTP, tiket pesawat"
                  class="loaded"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 3 -->
           <div class="carousel-slide" role="group" aria-label="Screenshot 3 dari 6" aria-roledescription="slide">
-            <p class="carousel-label-title">Tidak Pernah Melewatkan Pembaruan.</p>
-            <p class="carousel-label-sub">Pengingat Cerdas Berbulan-bulan Lebih Awal</p>
-            <img data-src="/assets/images/screenshots-appstore/02.png"
+            <p class="carousel-label-title">Profil perjalanan setiap orang</p>
+            <p class="carousel-label-sub">Dokumen, perjalanan, pengingat dalam satu tempat</p>
+            <img data-src="../../assets/images/screenshots-appstore/02.webp"
                  decoding="async"
                  alt="Pengingat cerdas dengan notifikasi 6 minggu lebih awal"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 4 -->
           <div class="carousel-slide" role="group" aria-label="Screenshot 4 dari 6" aria-roledescription="slide">
-            <p class="carousel-label-title">Keluarga Anda. Terlindungi.</p>
-            <p class="carousel-label-sub">Satu Profil Per Anggota Keluarga</p>
-            <img data-src="/assets/images/screenshots-appstore/03.png"
+            <p class="carousel-label-title">Sisa hari di setiap negara</p>
+            <p class="carousel-label-sub">Lacak waktu setiap orang di luar negeri</p>
+            <img data-src="../../assets/images/screenshots-appstore/03.webp"
                  decoding="async"
                  alt="Profil keluarga untuk Emma, Lucas, Oliver, dan Sophie"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 5 -->
           <div class="carousel-slide" role="group" aria-label="Screenshot 5 dari 6" aria-roledescription="slide">
-            <p class="carousel-label-title">Setiap Detail. Terekam.</p>
-            <p class="carousel-label-sub">Foto, Tanggal, dan Catatan</p>
-            <img data-src="/assets/images/screenshots-appstore/05.png"
+            <p class="carousel-label-title">Selalu selangkah lebih maju</p>
+            <p class="carousel-label-sub">Pengingat sebelum Anda membutuhkannya</p>
+            <img data-src="../../assets/images/screenshots-appstore/05.webp"
                  decoding="async"
                  alt="Tampilan detail dokumen dengan lampiran paspor dan metadata"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 6 -->
           <div class="carousel-slide" role="group" aria-label="Screenshot 6 dari 6" aria-roledescription="slide">
-            <p class="carousel-label-title">Tetap di Perangkat Anda.</p>
-            <p class="carousel-label-sub">Kunci PIN. Tanpa Cloud. Tanpa Akun.</p>
-            <img data-src="/assets/images/screenshots-appstore/06.png"
+            <p class="carousel-label-title">Paspor, visa, KTP, semua teratur</p>
+            <p class="carousel-label-sub">Lihat persis apa yang kedaluwarsa dan kapan</p>
+            <img data-src="../../assets/images/screenshots-appstore/06.webp"
                  decoding="async"
                  alt="Layar kunci PIN untuk privasi yang dapat dipercaya"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
             </div>
@@ -797,7 +891,7 @@
 
           <!-- Right arrow: absolute, centered on image -->
           <button id="carousel-next" class="carousel-arrow carousel-arrow-mobile" aria-label="Screenshot berikutnya"
-                  style="position: absolute; right: 0; top: calc(60px + (100% - 60px) / 2); transform: translateY(-50%) translateX(50%); z-index: 10;">
+                  style="position: absolute; right: 0; top: calc(110px + (100% - 110px) / 2); transform: translateY(-50%) translateX(50%); z-index: 10;">
             <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
             </svg>
@@ -912,7 +1006,7 @@
             <span class="font-semibold text-white text-base">Apa yang terjadi jika saya kehilangan ponsel?</span>
             <span class="transition group-open:rotate-180"><svg fill="none" class="h-5 w-5 text-brand-gold flex-shrink-0" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg></span>
           </summary>
-          <div class="text-slate-300 text-base px-6 pb-6 leading-relaxed">Dokumen Anda tersimpan di perangkat, sehingga pencadangan ponsel rutin (iCloud atau Google Backup) sudah mencakupnya. Saat Anda memulihkan ke ponsel baru, vault Anda ikut terbawa. Pengguna Pro juga dapat membuat cadangan terenkripsi kapan saja.</div>
+          <div class="text-slate-300 text-base px-6 pb-6 leading-relaxed">Dokumen Anda tersimpan di perangkat, dan kunci enkripsi tidak pernah meninggalkannya. Cadangan ponsel sistem (iCloud atau Google Backup) menginstal ulang aplikasi tetapi tidak dapat memulihkan dokumen Anda. Semua orang dapat mengekspor vault mereka sebagai file terenkripsi .tdvault gratis dari Pengaturan. Pengguna Pro dapat membuat cadangan cloud terenkripsi ke iCloud atau Google Drive pribadi mereka dengan pemulihan satu ketukan di perangkat baru menggunakan kode pemulihan mereka.</div>
         </details>
         <details class="glass-panel rounded-xl group">
           <summary class="flex items-center justify-between p-6 cursor-pointer list-none">

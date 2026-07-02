@@ -84,7 +84,7 @@
       "name": "What happens if I lose my phone or switch to a new one?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Pro subscribers can enable encrypted cloud backup directly in the app (Settings - Cloud Backup). Your vault is encrypted on-device before upload - only your recovery code can decrypt it, not Apple, Google, or us. On a fresh install, the app detects the backup and offers one-tap restore. If you are not a Pro subscriber, you can use the Export feature to save a copy of your documents. System backups (iCloud Backup on iOS, Google Backup on Android) also carry the app data across as long as you restore from the same account."
+        "text": "Pro subscribers can enable encrypted cloud backup in the app (Settings - Cloud Backup). Your vault is encrypted on-device with your recovery code before upload, so Apple, Google, and we only ever see ciphertext, and a fresh install offers one-tap restore. If you are not a Pro subscriber, use the free Vault Export in Settings and import it on any device. Note that system backups (iCloud Backup, Google Backup) reinstall the app but cannot restore your documents, because the encryption key never leaves your old device, so export before you switch phones."
       }
     }, {
       "@type": "Question",
@@ -156,6 +156,139 @@
         "@type": "Answer",
         "text": "Auto-Erase permanently wipes your vault if too many incorrect PIN attempts are made. It is off by default. Enable it in Settings if you want maximum protection against a stolen phone. Use it alongside a vault export backup so you can restore if it ever triggers accidentally."
       }
+    }, {
+      "@type": "Question",
+      "name": "How is my cloud backup encrypted?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your vault is encrypted end-to-end using AES-256-GCM on your device before it leaves your phone. The key is derived from your recovery code. Apple and Google can see the encrypted file on their servers, but they cannot decrypt it. Neither can we. Only your recovery code unlocks it."
+      }
+    }, {
+      "@type": "Question",
+      "name": "How do PIN, Face ID, and recovery code work together?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your PIN is the day-to-day lock. Face ID is a fast shortcut to unlock. The recovery code is the master key for when you forget your PIN entirely. If Face ID fails, try your PIN. If you forget your PIN, enter your recovery code. If you lose the recovery code, you must reinstall the app and restore from cloud backup."
+      }
+    }, {
+      "@type": "Question",
+      "name": "How do I export and import my vault?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Every user can export their entire vault as an encrypted, password-protected backup file (.tdvault) from Settings, then import it on any device or fresh install. Round-trip export and import preserves everything exactly, so your data is portable and you are never locked in. (Combined multi-document PDF export is a separate Pro feature.)"
+      }
+    }, {
+      "@type": "Question",
+      "name": "Visitor vs Home allowance modes: which should I pick?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Visitor mode tracks days IN a country. Home mode tracks days AWAY from your home country. Pick Visitor if you are following a rule like Schengen 90/180. Pick Home if you are tracking tax residency or a similar abroad-allowance rule. Unsure? Visitor is the safer default for most travellers."
+      }
+    }, {
+      "@type": "Question",
+      "name": "What are family profiles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Each family member is a separate profile with their own documents, photos, and reminders. Your data is yours. Your partner's is theirs. Profiles are local-only and never sync between devices or people. This design respects privacy and ensures no accidental mixing of sensitive documents."
+      }
+    }, {
+      "@type": "Question",
+      "name": "What happens when I delete something?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Without cloud backup, deleted items go to the trash for 30 days and are then permanently removed from your device. You can restore them at any time during that 30-day window. With cloud backup enabled, items stay in Recently Deleted indefinitely until you tap Delete Forever. See the Cloud Backup section below for details. Clearing the trash or factory-resetting your phone is irreversible."
+      }
+    }, {
+      "@type": "Question",
+      "name": "What happens when I delete a document with cloud backup enabled?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Deleting moves it to Recently Deleted (trash). It stays there indefinitely, there is no automatic purge when cloud backup is on. The trashed document is still backed up to your cloud. To permanently remove it, go to Recently Deleted and tap Delete Forever on each item. You will see a warning that this also removes it from your cloud backup."
+      }
+    }, {
+      "@type": "Question",
+      "name": "What happens if I delete all my documents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The app will not sync an empty vault to the cloud. Your existing backup is preserved. You can restore from it using Settings, Cloud Backup, Restore from Backup."
+      }
+    }, {
+      "@type": "Question",
+      "name": "How do I set up cloud backup on a second device?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When you enable cloud backup on a new device signed into the same iCloud or Google account, the app detects your existing backup and asks whether to restore it or start fresh. Choose Restore from backup and enter your recovery code. Both devices then share the same backup. Starting fresh replaces the existing backup, only choose this if you are certain."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Can I use cloud backup on multiple devices at the same time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cloud backup is designed as a single-device backup with multi-device restore. One device is the primary backup source. To move to a new device, restore from your backup on the new device. Simultaneous editing on two devices syncing to the same backup is not supported, the last device to sync wins."
+      }
+    }, {
+      "@type": "Question",
+      "name": "What if I enable cloud backup while offline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need an internet connection to enable cloud backup. The app checks for existing backups in your cloud account during setup, which requires connectivity. Once enabled, the app works fully offline and syncs when you are back online."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Is my backup protected if I accidentally delete something?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, multiple layers protect you. Deleted documents stay in Recently Deleted indefinitely (no auto-purge with cloud backup on). Permanent deletion requires a separate confirmation that warns about cloud impact. Even after permanent deletion, the backup retains the document data for several more sync cycles as a safety net. And an empty vault is never synced to the cloud, so a bulk accident cannot wipe your backup."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Should I keep my own backup copies as well?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Cloud backup is one safety layer, but no system is perfect. Cloud accounts can be lost, recovery codes can be forgotten, and unexpected sync or storage issues can happen. We strongly recommend keeping an independent copy of critical documents, such as a printed copy in a safe place or an encrypted vault export saved to separate storage. Treat cloud backup as a convenience, not your only line of defense. You are responsible for verifying your documents remain recoverable."
+      }
+    }, {
+      "@type": "Question",
+      "name": "What happens if I lose my recovery code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your recovery code is the only key to decrypt your cloud backup. We have a zero-knowledge design, which means we cannot reset, retrieve, or recover it for you. Neither can Apple or Google. If you lose your recovery code, your encrypted backup becomes permanently unrecoverable. Save your recovery code somewhere safe before you depend on cloud backup. A password manager, a printed copy in a secure location, or both. Verify you can read it back before you store it as your only copy."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Can I back up my data for free?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Vault Export (.tdvault encrypted backup file) is free for everyone. The app also keeps automatic local backups on your device every few minutes, at no cost. Cloud backup to your own iCloud or Google Drive is the Pro option. No backup feature traps your data."
+      }
+    }, {
+      "@type": "Question",
+      "name": "What does 'Last backup: 2 hours ago, 12 documents' mean in Settings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "That line shows the app's most recent automatic local backup, how long ago it was saved, and how many documents it contains. It reassures you that a recoverable copy exists on your device. Tap Restore Local Backup to roll back to it."
+      }
+    }, {
+      "@type": "Question",
+      "name": "How do I restore my vault from a local backup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Go to Settings, then tap Restore Local Backup. The app shows a list of available backups with timestamps. Pick the one you want, then confirm. To restore from a .tdvault file you exported, tap Import Vault instead and select the file. Both options are free for everyone. Restoring replaces your current data with the contents of the backup."
+      }
+    }, {
+      "@type": "Question",
+      "name": "The app is showing a recovery screen or says my data could not be loaded. What do I do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The app never silently wipes your data. If it cannot read the local store, it surfaces a recovery screen instead of discarding anything. Tap Restore Local Backup to recover from the most recent automatic backup, or tap Import Vault to restore from a .tdvault file you previously exported. Backups created before a recent app update can also be restored. Your documents are recoverable and nothing has been deleted."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Why did the app create a backup before updating?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before a major data-format upgrade the app automatically snapshots your vault so it can roll back if anything goes wrong. The process is automatic and free for everyone."
+      }
     }]
   }
   </script>
@@ -207,7 +340,7 @@
     }
 
     .faq-toggle:checked ~ .faq-content {
-      max-height: 500px;
+      max-height: 800px;
       padding-top: 1rem;
       padding-bottom: 0.5rem;
     }
@@ -338,7 +471,7 @@
         Privacy-first. On-device only. No accounts needed.
       </div>
       <h1 id="hero-heading" class="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-[1.1] mb-6">
-        Frequently Asked <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">Questions</span>
+        Frequently Asked <span class="text-brand-gold">Questions</span>
       </h1>
       <p class="text-blue-100/80 text-lg sm:text-xl leading-relaxed max-w-2xl mx-auto mb-6">
         Everything you need to know about Travel Document Vault.
@@ -356,8 +489,19 @@
       </div>
     </section>
 
+    <!-- Table of Contents -->
+    <div class="flex flex-wrap items-center justify-center gap-2 mb-12 px-4">
+      <span class="text-sm font-medium text-slate-300">Jump to:</span>
+      <a href="#privacy" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Privacy</a>
+      <a href="#features" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Features</a>
+      <a href="#backup" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Backup</a>
+      <a href="#pricing" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Pricing</a>
+      <a href="#troubleshooting" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Troubleshooting</a>
+      <a href="#legal" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Legal</a>
+    </div>
+
     <!-- Trust & Transparency -->
-    <section class="scroll-fade-in">
+    <section id="privacy" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -430,7 +574,7 @@
           </label>
           <div class="faq-content text-slate-300">
             <p><strong class="text-white">Pro subscribers:</strong> Enable encrypted cloud backup in Settings - Cloud Backup. Your vault is encrypted on-device with your recovery code before it reaches iCloud (iOS) or Google Drive (Android). On a fresh install, the app detects the backup automatically and offers one-tap restore. Apple and Google see only ciphertext. We see nothing.</p>
-            <p class="mt-2"><strong class="text-white">Everyone:</strong> System backups (iCloud Backup on iOS, Google Backup on Android) also include the app. Use the Export feature to keep an additional encrypted copy stored wherever you choose.</p>
+            <p class="mt-2"><strong class="text-white">Everyone:</strong> Use the free Vault Export (.tdvault) in Settings and import it on any device. System backups (iCloud or Google) reinstall the app but cannot restore your documents - the encryption key never leaves your old device by design, so export before you switch phones.</p>
           </div>
         </div>
 
@@ -456,7 +600,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>The app is currently available in English. We are actively planning additional languages and are prioritising based on what users ask for. If your language is not yet supported, we genuinely want to know. Drop us a line at <a href="mailto:support@traveldocumentvault.com" class="text-blue-300 hover:text-white underline">support@traveldocumentvault.com</a> and it will directly influence the roadmap.</p>
+            <p>The app is currently available in English. We are actively planning additional languages and are prioritising based on what users ask for. If your language is not yet supported, we genuinely want to know. Drop us a line at <a href="mailto:support@traveldocumentvault.com" class="text-brand-gold hover:text-white underline">support@traveldocumentvault.com</a> and it will directly influence the roadmap.</p>
           </div>
         </div>
 
@@ -482,11 +626,11 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Travel Document Vault was built by <a href="../blog/why-i-built-travel-document-vault/" class="text-blue-300 hover:text-white underline">Mustafa Hafeez</a>, a senior software developer with years of professional experience building privacy-respecting applications, and a parent who needed this app for his own family. Privacy is not a marketing line. The app was designed and architected from day one so that no accounts are needed, no Travel Document Vault servers are ever involved, and your documents stay readable only by you. Optional cloud backup uses your own iCloud or Google Drive, end-to-end encrypted with a recovery code only you hold. That is a deliberate engineering decision, not a policy that could be changed with a settings toggle.</p>
+            <p>Travel Document Vault was built by <a href="../blog/why-i-built-travel-document-vault/" class="text-brand-gold hover:text-white underline">Mustafa Hafeez</a>, a senior software developer with years of professional experience building privacy-respecting applications, and a parent who needed this app for his own family. Privacy is not a marketing line. The app was designed and architected from day one so that no accounts are needed, no Travel Document Vault servers are ever involved, and your documents stay readable only by you. Optional cloud backup uses your own iCloud or Google Drive, end-to-end encrypted with a recovery code only you hold. That is a deliberate engineering decision, not a policy that could be changed with a settings toggle.</p>
           </div>
         </div>
       </div>
-      <p class="text-sm text-slate-400 mt-4 ml-1">Want to verify these claims yourself? See our <a href="../privacy-verification/" class="text-brand-gold hover:text-yellow-300 transition-colors">Privacy Verification</a> page for independent proof and a full breakdown of every app permission.</p>
+      <p class="text-sm text-slate-400 mt-4 ml-1">Want to verify these claims yourself? See our <a href="../privacy-verification/" class="text-brand-gold hover:text-brand-gold transition-colors">Privacy Verification</a> page for independent proof and a full breakdown of every app permission.</p>
     </section>
 
     <!-- Privacy & Data -->
@@ -525,22 +669,20 @@
           <div class="faq-content text-slate-300">
             <p><strong class="text-white">Pro subscribers</strong> can enable encrypted cloud backup in the app (Settings - Cloud Backup). Your vault is encrypted on-device with your recovery code before it is uploaded to <strong class="text-white">your own iCloud</strong> (iOS) or <strong class="text-white">your own Google Drive AppFolder</strong> (Android). We have no access to your data. Apple and Google store only ciphertext.</p>
             <p class="mt-2">There is no cloud database on our servers. We never see your documents.</p>
-            <p class="mt-2">System-level backups (iCloud Backup on iOS, Google Backup on Android) also include the app's data as part of your full device backup.</p>
+            <p class="mt-2">A system-level device backup (iCloud Backup, Google Backup) reinstalls the app but does not restore your documents - the encryption key never leaves your original device. To move your vault to a new phone, use cloud backup (Pro) or the free Vault Export.</p>
           </div>
         </div>
 
         <div class="faq-item p-6">
-          <input type="checkbox" id="faq-3" class="faq-toggle hidden peer" />
-          <label for="faq-3" class="faq-label flex items-center justify-between cursor-pointer">
-            <span class="font-semibold text-white">What happens if I lose my phone?</span>
+          <input type="checkbox" id="faq-backup-free" class="faq-toggle hidden peer" />
+          <label for="faq-backup-free" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Can I back up my data for free?</span>
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Pro subscribers with cloud backup enabled:</strong> Install the app on your new phone, sign in to the same Apple ID or Google account, and the app will detect your encrypted backup automatically and offer one-tap restore. Enter your recovery code to decrypt and restore your vault.</p>
-            <p class="mt-2"><strong class="text-white">Everyone:</strong> If you restore your new phone from an iCloud or Google system backup, the app data is included and should reappear. Without system backups or the cloud backup feature, your data cannot be recovered because we never store it.</p>
-            <p class="mt-2"><strong class="text-white">Recommendation:</strong> Enable cloud backup (Pro) and keep an export as a secondary copy. Both together give you the best protection.</p>
+            <p>Yes. Vault Export (.tdvault encrypted backup file) is free for everyone. Go to Settings, Export Vault, and the app creates a password-protected file you can save to Files, iCloud Drive, or share off-device. The app also keeps <strong class="text-white">automatic local backups</strong> on your device every few minutes, at no cost. Cloud backup to your own iCloud or Google Drive is the Pro option. No backup feature traps your data.</p>
           </div>
         </div>
 
@@ -584,7 +726,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>All your data is <strong class="text-white">permanently deleted</strong> when you uninstall the app. There's no way to recover it afterward since we don't store anything externally. <strong class="text-white">Before deleting:</strong> Export your documents or create a backup ZIP file (Pro feature) to save them elsewhere.</p>
+            <p>All your data is <strong class="text-white">permanently deleted</strong> when you uninstall the app. There's no way to recover it afterward since we don't store anything externally. <strong class="text-white">Before deleting:</strong> Export your documents or create an encrypted backup file (.tdvault) via Settings to save them elsewhere.</p>
           </div>
         </div>
       </div>
@@ -612,35 +754,7 @@
           </label>
           <div class="faq-content text-slate-300">
             <p><strong class="text-white">Yes.</strong> All document images and PDFs are encrypted before being saved to your device. This means that even if someone gets access to your phone's files, they cannot view your documents.</p>
-            <p class="mt-3"><strong class="text-white">For maximum security:</strong> We recommend enabling App Lock and using a strong device passcode. See our <a href="../privacy-policy/" class="text-blue-300 hover:text-white underline">Privacy Policy</a> for complete details.</p>
-          </div>
-        </div>
-
-        <div class="faq-item p-6">
-          <input type="checkbox" id="faq-developer-access" class="faq-toggle hidden peer" />
-          <label for="faq-developer-access" class="faq-label flex items-center justify-between cursor-pointer">
-            <span class="font-semibold text-white">Can you access my documents?</span>
-            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
-            </svg>
-          </label>
-          <div class="faq-content text-slate-300">
-            <p><strong class="text-white">No.</strong> We have no servers and no accounts. Your documents stay readable only by you. By default, nothing leaves your device. If you turn on optional Pro cloud backup, your vault is end-to-end encrypted on-device before upload to your own iCloud or Google Drive, sealed with a recovery code only you hold. We cannot read it. Apple cannot read it. Google cannot read it.</p>
-            <p class="mt-3">Because we never operate servers and never receive your data, we have no way to access, view, or recover your documents. This is by design to protect your privacy.</p>
-          </div>
-        </div>
-
-        <div class="faq-item p-6">
-          <input type="checkbox" id="faq-backup-encryption" class="faq-toggle hidden peer" />
-          <label for="faq-backup-encryption" class="faq-label flex items-center justify-between cursor-pointer">
-            <span class="font-semibold text-white">Are backups encrypted too?</span>
-            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
-            </svg>
-          </label>
-          <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Yes.</strong> Automatic backups are encrypted via your device's built-in backup system (iCloud/Google). Manual vault exports (Pro feature) are <strong class="text-white">password-protected</strong> with strong encryption. You'll set a password when exporting and need it to restore.</p>
-            <p class="mt-3">If you restore from a backup, your documents will automatically work on your new device without you needing to do anything special.</p>
+            <p class="mt-3"><strong class="text-white">For maximum security:</strong> We recommend enabling App Lock and using a strong device passcode. See our <a href="../privacy-policy/" class="text-brand-gold hover:text-white underline">Privacy Policy</a> for complete details.</p>
           </div>
         </div>
 
@@ -690,9 +804,9 @@
     </section>
 
     <!-- Features -->
-    <section class="scroll-fade-in">
+    <section id="features" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
-        <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-blue-300">
+        <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
             <path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" />
           </svg>
@@ -710,7 +824,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>The app supports <strong class="text-white">Passports</strong>, <strong class="text-white">National IDs</strong> (front + back), <strong class="text-white">Visas/Residence Permits</strong>, <strong class="text-white">Airline Tickets</strong>, <strong class="text-white">Vouchers &amp; Entry Tickets</strong> (gift cards, promo codes, event tickets — with expiry reminders so they don't go to waste), <strong class="text-white">Other Documents</strong> (travel insurance, health insurance, vaccination records, memberships, prescriptions — anything with an expiry date), and <strong class="text-white">Notes</strong> (text-only for deadlines and reminders). You can capture documents using your camera, import from your photo library, or import PDF files. Pro users can capture multi-page documents for Airline Tickets, Vouchers, and Other Documents.</p>
+            <p>The app supports <strong class="text-white">Passports</strong>, <strong class="text-white">National IDs</strong> (front + back), <strong class="text-white">Visas/Residence Permits</strong>, <strong class="text-white">Airline Tickets</strong>, <strong class="text-white">Vouchers &amp; Entry Tickets</strong> (gift cards, promo codes, event tickets, with expiry reminders so they do not go to waste), <strong class="text-white">Other Documents</strong> (travel insurance, health insurance, vaccination records, memberships, prescriptions, anything with an expiry date), and <strong class="text-white">Notes</strong> (text-only for deadlines and reminders). You can capture documents using your camera, import from your photo library, or import PDF files. Pro users can capture multi-page documents for Airline Tickets, Vouchers, and Other Documents.</p>
           </div>
         </div>
 
@@ -756,19 +870,21 @@
         <div class="faq-item p-6">
           <input type="checkbox" id="faq-11" class="faq-toggle hidden peer" />
           <label for="faq-11" class="faq-label flex items-center justify-between cursor-pointer">
-            <span class="font-semibold text-white">What about backup?</span>
+            <span class="font-semibold text-white">How does the app back up my data?</span>
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>The app stores everything on your device. If you have iCloud (iOS) or Google Backup (Android) enabled, your documents are already protected through your device backup. Pro users can export a <strong class="text-white">password-protected encrypted backup</strong> for safekeeping, and all users can <strong class="text-white">restore from a backup</strong> at any time via Settings → Import Vault. This replaces all current data with the backup contents. We intentionally don't sync to our servers to protect your privacy.</p>
+            <p><strong class="text-white">Free:</strong> Use Vault Export (.tdvault encrypted backup file) from Settings to manually back up your entire vault as a password-protected file. You control where it's stored.</p>
+            <p class="mt-2"><strong class="text-white">Pro:</strong> Enable encrypted cloud backup to your own iCloud (iOS) or Google Drive (Android). Your vault is encrypted on-device with your recovery code before upload. We never see your data. Apple and Google see only ciphertext. Automatic and one-tap restore on a fresh install.</p>
+            <p class="mt-2">The app also keeps automatic local backups on your device every few minutes, at no cost. System backups (iCloud Backup, Google Backup) reinstall the app but cannot restore your documents, because the encryption key never leaves your device.</p>
           </div>
         </div>
 
         <div class="faq-item p-6">
-          <input type="checkbox" id="faq-9" class="faq-toggle hidden peer" />
-          <label for="faq-9" class="faq-label flex items-center justify-between cursor-pointer">
+          <input type="checkbox" id="faq-share-family" class="faq-toggle hidden peer" />
+          <label for="faq-share-family" class="faq-label flex items-center justify-between cursor-pointer">
             <span class="font-semibold text-white">Can I share documents with family members?</span>
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
@@ -780,8 +896,8 @@
         </div>
 
         <div class="faq-item p-6">
-          <input type="checkbox" id="faq-10" class="faq-toggle hidden peer" />
-          <label for="faq-10" class="faq-label flex items-center justify-between cursor-pointer">
+          <input type="checkbox" id="faq-offline" class="faq-toggle hidden peer" />
+          <label for="faq-offline" class="faq-label flex items-center justify-between cursor-pointer">
             <span class="font-semibold text-white">Does the app work offline?</span>
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
@@ -804,7 +920,7 @@
             <p>To enable App Lock, go to <strong class="text-white">Settings → App Lock</strong> in the app:</p>
             <ul class="list-disc list-inside mt-3 space-y-2 ml-2">
               <li><strong class="text-white">PIN Lock (Free):</strong> Set a 4-digit PIN code. The app will require this PIN every time you open it.</li>
-              <li><strong class="text-white">Biometric Lock:</strong> Enable Face ID (iPhone with Face ID), Touch ID (iPhone with fingerprint), or fingerprint unlock (Android). Free for all users — because security should not be paywalled.</li>
+              <li><strong class="text-white">Biometric Lock:</strong> Enable Face ID (iPhone with Face ID), Touch ID (iPhone with fingerprint), or fingerprint unlock (Android). Free for all users. Security should not be paywalled.</li>
             </ul>
             <p class="mt-3"><strong class="text-white">Best practice:</strong> Enable App Lock + set your device to auto-lock after 30 seconds. This creates multiple layers of protection: device lock, then app lock, then encrypted files.</p>
             <p class="mt-3 text-sm text-slate-400"><strong class="text-white">Forgotten PIN?</strong> Save your recovery code when you set up App Lock. Enter it in the PIN screen to disable App Lock without losing any data. See "What is a recovery code?" below for full details.</p>
@@ -820,14 +936,66 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Yes, the app creates automatic local backups every 5 minutes</strong> (when the app is open and changes are made). These backups are stored on your device and are included in your iCloud (iOS) or Google (Android) device backup if you have those services enabled.</p>
+            <p><strong class="text-white">Yes, the app creates automatic local backups every few minutes</strong> (when the app is open and changes are made). These backups are stored on your device and are included in your iCloud (iOS) or Google (Android) device backup if you have those services enabled.</p>
             <p class="mt-3"><strong class="text-white">How it works:</strong></p>
             <ul class="list-disc list-inside mt-3 space-y-2 ml-2">
               <li>The app keeps <strong class="text-white">10 rolling backups</strong> on your device. When an 11th backup is created, the oldest one is automatically deleted.</li>
               <li>Backups are <strong class="text-white">encrypted</strong> using the same protection as your documents.</li>
               <li>If the app crashes or you accidentally delete a document, you can restore from the most recent backup via <strong class="text-white">Settings → Import Vault</strong>.</li>
             </ul>
-            <p class="mt-3"><strong class="text-white">Manual backups (Pro):</strong> Pro users can also create manual encrypted ZIP backups and save them to Files, iCloud Drive, or share them via AirDrop/email for off-device storage. This is recommended before major updates or device changes.</p>
+            <p class="mt-3"><strong class="text-white">Vault Export:</strong> Any user can export an encrypted backup file (.tdvault) and save it to Files, iCloud Drive, or share it via AirDrop/email for off-device storage. This is recommended before major updates or device changes.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-backup-status-label" class="faq-toggle hidden peer" />
+          <label for="faq-backup-status-label" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">What does "Last backup: 2 hours ago, 12 documents" mean in Settings?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>That line shows the app's most recent automatic local backup, how long ago it was saved, and how many documents it contains. It's there to reassure you that a recoverable copy exists on your device. Tap <strong class="text-white">Restore Local Backup</strong> to roll back to it if you ever need to.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-restore-local-backup" class="faq-toggle hidden peer" />
+          <label for="faq-restore-local-backup" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">How do I restore my vault from a local backup?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Go to <strong class="text-white">Settings</strong>, then tap <strong class="text-white">Restore Local Backup</strong>. The app shows a list of available backups with timestamps. Pick the one you want, then confirm. To restore from a .tdvault file you exported, tap <strong class="text-white">Import Vault</strong> instead and select the file. Both options are free for everyone. Be aware that restoring replaces your current data with the contents of the backup.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-recovery-screen" class="faq-toggle hidden peer" />
+          <label for="faq-recovery-screen" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">The app is showing a recovery screen or says my data could not be loaded. What do I do?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Don't worry. The app never silently wipes your data. If it can't read the local store it surfaces a recovery screen instead of discarding anything. Tap <strong class="text-white">Restore Local Backup</strong> to recover from the most recent automatic backup, or tap <strong class="text-white">Import Vault</strong> to restore from a .tdvault file you previously exported. Backups created before a recent app update can also be restored. Your documents are recoverable, and nothing has been deleted.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-backup-before-update" class="faq-toggle hidden peer" />
+          <label for="faq-backup-before-update" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Why did the app create a backup before updating?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Before a major data-format upgrade the app automatically snapshots your vault. If anything goes wrong during the upgrade, you can roll back to that snapshot. The process is automatic and free for everyone.</p>
           </div>
         </div>
 
@@ -868,7 +1036,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Briefly, yes.</strong> After deleting documents (single or bulk), you'll see a short undo window at the bottom of the screen. Tap <strong class="text-white">"Undo"</strong> to restore them immediately. Once the undo window disappears, deletion is <strong class="text-white">permanent</strong> and cannot be reversed. We recommend exporting a backup before bulk deleting documents.</p>
+            <p><strong class="text-white">Yes - you have two layers of protection.</strong> After deleting documents (single or bulk), you'll see a short undo window at the bottom of the screen. Tap <strong class="text-white">"Undo"</strong> to restore them immediately. If you miss the undo window, deleted documents move to <strong class="text-white">Recently Deleted</strong> in Settings, where they stay for 30 days before permanently deleting. Pro users with cloud backup enabled keep items in Recently Deleted indefinitely until they tap Delete Forever.</p>
           </div>
         </div>
 
@@ -943,7 +1111,7 @@
     <!-- Platform & Compatibility -->
     <section class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
-        <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-blue-300">
+        <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
             <path stroke-linecap="round" stroke-linejoin="round" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z" />
           </svg>
@@ -961,7 +1129,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Yes — Travel Document Vault is available on Android.</strong> <a href="https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault" target="_blank" rel="noopener noreferrer" class="text-brand-gold hover:text-white underline">Download it free on Google Play.</a> Full feature parity with iOS: encrypted on-device storage, OCR scanning, expiry reminders, and all Pro features (unlimited profiles, batch export, custom reminder timing).</p>
+            <p><strong class="text-white">Yes. Travel Document Vault is available on Android.</strong> <a href="https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault" target="_blank" rel="noopener noreferrer" class="text-brand-gold hover:text-white underline">Download it free on Google Play.</a> Full feature parity with iOS: encrypted on-device storage, OCR scanning, expiry reminders, and all Pro features (unlimited profiles, batch export, custom reminder timing).</p>
           </div>
         </div>
 
@@ -974,7 +1142,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Yes, using encrypted vault export (Pro feature).</strong> Export an encrypted backup from your current device (Settings → Export Vault), transfer it to your new device (via email, cloud storage, or direct transfer), then use Settings → Import Vault to restore your documents.</p>
+            <p><strong class="text-white">Yes, using encrypted Vault Export.</strong> Export an encrypted backup from your current device (Settings, Export Vault), transfer it to your new device (via email, cloud storage, or direct transfer), then use Settings, Import Vault to restore your documents.</p>
             <p class="mt-3">This works across platforms because the encryption format is universal. You'll need the same password you used when exporting the vault. Your Pro purchase will also need to be restored on the new device (see "Can I restore my purchase on a new device?" below).</p>
           </div>
         </div>
@@ -1010,7 +1178,7 @@
     </section>
 
     <!-- Pricing & Purchases -->
-    <section class="scroll-fade-in">
+    <section id="pricing" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -1030,7 +1198,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Free</strong> includes 1 profile and up to 5 documents with full functionality, including OCR scanning, expiry reminders, document sharing, PIN Lock, and Biometric Lock (Face ID / Touch ID). <strong class="text-white">Pro</strong> ($9.99 one-time*) unlocks unlimited profiles, unlimited documents, combined PDF export, batch export (ZIP), custom reminder timing, and multi-page capture for Airline Tickets and Other Documents.</p>
+            <p><strong class="text-white">Free</strong> includes 1 profile and up to 5 documents with full functionality, including OCR scanning, expiry reminders, document sharing, PIN Lock, and Biometric Lock (Face ID / Touch ID). <strong class="text-white">Pro</strong> ($9.99 one-time*) unlocks unlimited profiles, unlimited documents, combined PDF export, encrypted cloud backup, custom reminder timing, and multi-page capture for Airline Tickets and Other Documents.</p>
             <p class="text-slate-400 text-xs mt-2">* See <a href="../pricing-policy/#version-policy" class="text-brand-gold hover:text-white underline">Pricing Policy</a> for versioning details.</p>
           </div>
         </div>
@@ -1086,8 +1254,8 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Your $9.99 purchase covers every update within the current major version — that means all bug fixes, security patches, and new features released as v1.1, v1.2, v1.3, and so on. Your app keeps working and improving at no extra cost.</p>
-            <p class="mt-3">If a future major version (v2.0) is ever released with a significantly rebuilt feature set, that may be offered as a separate purchase. You would never be forced to upgrade — your current version keeps working exactly as it does today. See our <a href="../pricing-policy/#version-policy" class="text-brand-gold hover:text-white underline">full version policy</a> for details.</p>
+            <p>Your $9.99 purchase covers every update within the current major version. That means all bug fixes, security patches, and new features released within the current version line. Your app keeps working and improving at no extra cost.</p>
+            <p class="mt-3">If a future major version (v2.0) is ever released with a significantly rebuilt feature set, that may be offered as a separate purchase. You would never be forced to upgrade. Your current version keeps working exactly as it does today. See our <a href="../pricing-policy/#version-policy" class="text-brand-gold hover:text-white underline">full version policy</a> for details.</p>
           </div>
         </div>
 
@@ -1107,9 +1275,9 @@
     </section>
 
     <!-- Troubleshooting -->
-    <section class="scroll-fade-in">
+    <section id="troubleshooting" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
-        <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-blue-300">
+        <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
             <path stroke-linecap="round" stroke-linejoin="round" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
             <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
@@ -1173,8 +1341,219 @@
       </div>
     </section>
 
-    <!-- Legal -->
+    <!-- Setup and recovery -->
     <section class="scroll-fade-in">
+      <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
+        <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
+          </svg>
+        </span>
+        Setup and recovery
+      </h2>
+
+      <div class="glass-panel rounded-2xl overflow-hidden">
+        <div class="faq-item p-6" id="cloud-backup-encryption">
+          <input type="checkbox" id="cloud-backup-encryption-toggle" class="faq-toggle hidden peer" />
+          <label for="cloud-backup-encryption-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">How is my cloud backup encrypted?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Your vault is encrypted end-to-end using AES-256-GCM on your device before it leaves your phone. The key is derived from your recovery code. Apple and Google can see the encrypted file on their servers, but they cannot decrypt it. Neither can we. Only your recovery code unlocks it.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="pin-faceid-recovery">
+          <input type="checkbox" id="pin-faceid-recovery-toggle" class="faq-toggle hidden peer" />
+          <label for="pin-faceid-recovery-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">How do PIN, Face ID, and recovery code work together?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Your PIN is the day-to-day lock. Face ID is a fast shortcut to unlock. The recovery code is the master key for when you forget your PIN entirely. If Face ID fails, try your PIN. If you forget your PIN, enter your recovery code. If you lose the recovery code, you must reinstall the app and restore from cloud backup.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="export-import">
+          <input type="checkbox" id="export-import-toggle" class="faq-toggle hidden peer" />
+          <label for="export-import-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">How do I export and import my vault?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>You can export your entire vault as an encrypted, password-protected backup file (.tdvault) from Settings, then import it on any device or fresh install. Round-trip export and import preserves everything exactly, so your data is portable and you are never locked in. For step-by-step instructions, see the export-import walkthrough. (Combined multi-document PDF export is a separate Pro feature.)</p>
+            <p><a href="/faq/export-import/" class="text-blue-200 hover:text-white">Read full guide →</a></p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="allowance-modes">
+          <input type="checkbox" id="allowance-modes-toggle" class="faq-toggle hidden peer" />
+          <label for="allowance-modes-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Visitor vs Home allowance modes: which should I pick?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Visitor mode tracks days IN a country. Home mode tracks days AWAY from your home country. Pick Visitor if you are following a rule like Schengen 90/180. Pick Home if you are tracking tax residency or a similar abroad-allowance rule. Unsure? Visitor is the safer default for most travellers.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="family-profiles">
+          <input type="checkbox" id="family-profiles-toggle" class="faq-toggle hidden peer" />
+          <label for="family-profiles-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">What are family profiles?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Each family member is a separate profile with their own documents, photos, and reminders. Your data is yours. Your partner's is theirs. Profiles are local-only and never sync between devices or people. This design respects privacy and ensures no accidental mixing of sensitive documents.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="delete-restore">
+          <input type="checkbox" id="delete-restore-toggle" class="faq-toggle hidden peer" />
+          <label for="delete-restore-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">What happens when I delete something?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Without cloud backup, deleted items go to the trash for 30 days and are then permanently removed from your device. You can restore them at any time during that 30-day window. With cloud backup enabled, items stay in Recently Deleted <strong class="text-white">indefinitely</strong> until you tap Delete Forever. See the Cloud Backup section below for details. Clearing the trash or factory-resetting your phone is irreversible.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Cloud Backup -->
+    <section id="backup" class="scroll-fade-in">
+      <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
+        <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M9 19l3 3m0 0l3-3m-3 3v-6" />
+          </svg>
+        </span>
+        Cloud Backup
+      </h2>
+
+      <div class="glass-panel rounded-2xl overflow-hidden">
+        <div class="faq-item p-6">
+          <input type="checkbox" id="cloud-backup-delete-document" class="faq-toggle hidden peer" />
+          <label for="cloud-backup-delete-document" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">What happens when I delete a document with cloud backup enabled?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Deleting moves it to <strong class="text-white">Recently Deleted</strong> (trash). It stays there indefinitely, there is no automatic purge when cloud backup is on. The trashed document is still backed up to your cloud. To permanently remove it, go to Recently Deleted and tap <strong class="text-white">Delete Forever</strong> on each item. You will see a warning that this also removes it from your cloud backup.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="cloud-backup-delete-all" class="faq-toggle hidden peer" />
+          <label for="cloud-backup-delete-all" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">What happens if I delete all my documents?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>The app will not sync an empty vault to the cloud. Your existing backup is preserved. You can restore from it using <strong class="text-white">Settings</strong>, <strong class="text-white">Cloud Backup</strong>, <strong class="text-white">Restore from Backup</strong>.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="cloud-backup-second-device" class="faq-toggle hidden peer" />
+          <label for="cloud-backup-second-device" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">How do I set up cloud backup on a second device?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>When you enable cloud backup on a new device signed into the same iCloud or Google account, the app detects your existing backup and asks whether to restore it or start fresh. Choose <strong class="text-white">Restore from backup</strong> and enter your recovery code. Both devices then share the same backup. Starting fresh replaces the existing backup, only choose this if you are certain.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="cloud-backup-multi-device" class="faq-toggle hidden peer" />
+          <label for="cloud-backup-multi-device" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Can I use cloud backup on multiple devices at the same time?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Cloud backup is designed as a <strong class="text-white">single-device backup with multi-device restore</strong>. One device is the primary backup source. To move to a new device, restore from your backup on the new device. Simultaneous editing on two devices syncing to the same backup is not supported, the last device to sync wins.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="cloud-backup-offline" class="faq-toggle hidden peer" />
+          <label for="cloud-backup-offline" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">What if I enable cloud backup while offline?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>You need an internet connection to enable cloud backup. The app checks for existing backups in your cloud account during setup, which requires connectivity. Once enabled, the app works fully offline and syncs when you are back online.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="cloud-backup-protected" class="faq-toggle hidden peer" />
+          <label for="cloud-backup-protected" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Is my backup protected if I accidentally delete something?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Yes, multiple layers protect you. Deleted documents stay in Recently Deleted indefinitely (no auto-purge with cloud backup on). Permanent deletion requires a separate confirmation that warns about cloud impact. Even after permanent deletion, the backup retains the document data for several more sync cycles as a safety net. And an empty vault is never synced to the cloud, so a bulk accident cannot wipe your backup.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="cloud-backup-keep-own" class="faq-toggle hidden peer" />
+          <label for="cloud-backup-keep-own" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Should I keep my own backup copies as well?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p><strong class="text-white">Yes.</strong> Cloud backup is one safety layer, but no system is perfect. Cloud accounts can be lost, recovery codes can be forgotten, and unexpected sync or storage issues can happen. We strongly recommend keeping an independent copy of critical documents, such as a printed copy in a safe place or an encrypted vault export saved to separate storage. Treat cloud backup as a convenience, not your only line of defense. <strong class="text-white">You are responsible for verifying your documents remain recoverable.</strong></p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="cloud-backup-lost-recovery-code" class="faq-toggle hidden peer" />
+          <label for="cloud-backup-lost-recovery-code" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">What happens if I lose my recovery code?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Your recovery code is the only key to decrypt your cloud backup. We have a <strong class="text-white">zero-knowledge design</strong>, which means we cannot reset, retrieve, or recover it for you. Neither can Apple or Google. If you lose your recovery code, your encrypted backup becomes <strong class="text-white">permanently unrecoverable</strong>. Save your recovery code somewhere safe before you depend on cloud backup. A password manager, a printed copy in a secure location, or both. Verify you can read it back before you store it as your only copy.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Legal -->
+    <section id="legal" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -1260,9 +1639,24 @@
 
   </div>
 
-  <!-- Scroll Animation Script -->
+  <!-- Accordion aria-expanded + Scroll Animation Script -->
   <script>
     document.addEventListener('DOMContentLoaded', function() {
+      // Sync aria-expanded with checkbox state for accessibility
+      document.querySelectorAll('.faq-toggle').forEach(toggle => {
+        const label = toggle.nextElementSibling;
+        if (label && label.classList.contains('faq-label')) {
+          // Set initial state
+          label.setAttribute('aria-expanded', toggle.checked ? 'true' : 'false');
+
+          // Listen for checkbox changes
+          toggle.addEventListener('change', function() {
+            label.setAttribute('aria-expanded', this.checked ? 'true' : 'false');
+          });
+        }
+      });
+
+      // Scroll-fade-in animation
       const observer = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
           if (entry.isIntersecting) {

@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#003A87">
   <title>Travel Document Vault | Eine Sorge weniger</title>
-  <meta name="description" content="Eine Sorge weniger. Lagern Sie die Pässe, Ausweise und Visa Ihrer Familie sicher auf Ihrem Telefon. Erhalten Sie Benachrichtigungen zum Ablauf Monate im Voraus. Datenschutz im Fokus, Speicherung auf dem Gerät.">
+  <meta name="description" content="Planen Sie Familienreisen mit der Bereitschaftsampel. Speichern Sie Pässe, Visa und Ausweise auf dem Gerät. Verfolgen Sie zollfreie Kontingente und Schengen-Tage. Ende-zu-Ende-verschlüsselte Sicherung in Ihrer eigenen iCloud oder Google Drive. Keine Konten, keine Server.">
   <link rel="canonical" href="https://traveldocumentvault.com/de/">
   <link rel="alternate" hreflang="x-default" href="https://traveldocumentvault.com/">
   <link rel="alternate" hreflang="en"      href="https://traveldocumentvault.com/">
@@ -91,6 +91,8 @@
       -webkit-backdrop-filter: blur(12px);
       border: 1px solid rgba(255, 255, 255, 0.08);
     }
+
+    .pro-badge { background: linear-gradient(135deg, #FFB000 0%, #e69f00 100%); }
 
     /* Active nav link */
     .nav-link-active {
@@ -342,7 +344,7 @@
         </h1>
 
         <p class="max-w-2xl text-blue-100/80 text-lg sm:text-xl leading-relaxed mb-6">
-          Die Pässe, Ausweise und Visa Ihrer Familie. Nachverfolgt, bereit und gültig, wenn Sie sie brauchen.
+          Die Pässe, Ausweise und Visa Ihrer Familie. Nachverfolgt, bereit und gültig, wenn Sie sie brauchen. Planen Sie Reisen gemeinsam. Verfolgen Sie Kontingente. Kennen Sie Ihre Visa-Limits.
         </p>
 
         <div class="flex flex-col items-center gap-4 pt-6">
@@ -369,8 +371,8 @@
     <!-- Authentic Trust Signals (Cross Platform) -->
     <section id="trust" class="scroll-fade-in max-w-5xl mx-auto px-4 sm:px-6 relative overflow-hidden">
       <div class="text-center mb-10">
-        <h2 class="text-2xl sm:text-3xl font-bold text-white mb-4">Keine Cloud. Kein Konto. Keine Kompromisse.</h2>
-        <p class="text-blue-200/70 text-lg max-w-2xl mx-auto">Gebaut von einem Elternteil, das es brauchte. Ihre Dokumente bleiben auf Ihrem Gerät - verschlüsselt, privat und niemals hochgeladen.</p>
+        <h2 class="text-2xl sm:text-3xl font-bold text-white mb-4">Keine Server. Kein Konto. Keine Kompromisse.</h2>
+        <p class="text-blue-200/70 text-lg max-w-2xl mx-auto">Gebaut von einem Elternteil, das es brauchte. Ihre Dokumente bleiben nur für Sie lesbar. Ein optionales verschlüsseltes Backup geht in Ihre eigene iCloud oder Google Drive, versiegelt mit einem Wiederherstellungscode, den nur Sie kennen.</p>
       </div>
 
       <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -382,7 +384,7 @@
             </svg>
           </div>
           <h3 class="text-lg font-bold text-white">Gebaut von einem Elternteil</h3>
-          <p class="text-sm text-slate-300 leading-relaxed">Ich habe diese App gebaut, weil ich sie für meine eigene Familie brauchte. Separate Profile für jedes Familienmitglied. Automatische Ablauf-Benachrichtigungen Monate bevor die Verlängerung dringend wird. Keine VC-Finanzierung, die uns dazu drängt, Ihre Daten zu verkaufen. Nur ein Werkzeug, das genau so funktioniert, wie es sollte.</p>
+          <p class="text-sm text-slate-300 leading-relaxed">Ich habe diese App gebaut, weil ich sie für meine eigene Familie brauchte. Separate Profile für jedes Familienmitglied. Automatische Ablauf-Benachrichtigungen Monate bevor die Verlängerung dringend wird. Keine VC-Finanzierung, die uns dazu drängt, Ihre Daten zu verkaufen. Keine Roadmap getrieben durch Wachstumsmetriken. Nur ein Werkzeug, das ein Problem richtig löst.</p>
         </div>
 
         <!-- Pillar 2 -->
@@ -392,8 +394,8 @@
                <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
              </svg>
           </div>
-          <h3 class="text-lg font-bold text-white">Offline konzipiert</h3>
-          <p class="text-sm text-slate-300 leading-relaxed">Eine Datenschutzverletzung kann nicht stattfinden, wenn die Daten Ihr Telefon nie verlassen. Anders als Apps, die zu einem Cloud-Dashboard synchronisieren, bleiben Ihre Dokumente stehen. Wir haben bewusst ohne Cloud-Synchronisierung gebaut, damit Ihre Pässe genau dort bleiben, wo sie hingehören.</p>
+          <h3 class="text-lg font-bold text-white">Von Grund auf offline</h3>
+          <p class="text-sm text-slate-300 leading-relaxed">Eine Datenschutzverletzung kann nicht auf Servern stattfinden, die nicht existieren. Wir betreiben keine. Die App funktioniert standardmäßig vollständig offline. Wenn Sie Backup aktivieren, geht Ihr verschlüsselter Tresor in Ihre eigene iCloud oder Google Drive, versiegelt mit einem Wiederherstellungscode, den nur Sie kennen.</p>
         </div>
 
         <!-- Pillar 3 -->
@@ -406,8 +408,41 @@
           <h3 class="text-lg font-bold text-white">Verschlüsselung auf dem Gerät</h3>
           <p class="text-sm text-slate-300 leading-relaxed">Wir verwenden AES-256-GCM-Verschlüsselung. Das ist der gleiche Standard, der von globalen Banken und Regierungen verwendet wird. Ihre Daten werden mit Schlüsseln verschlüsselt, die sicher in der Secure Enclave Ihres Geräts gespeichert sind.</p>
         </div>
+
+        <!-- Pillar 4 -->
+        <div class="glass-panel rounded-2xl p-6 sm:p-8 flex flex-col items-center text-center gap-4">
+          <div class="h-12 w-12 rounded-full bg-blue-500/10 flex items-center justify-center text-brand-gold border border-brand-gold/20 shadow-[0_0_15px_rgba(255,176,0,0.1)]">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M9 19l3 3m0 0l3-3m-3 3v-6" />
+            </svg>
+          </div>
+          <h3 class="text-lg font-bold text-white">Ihre Cloud. Ihr Schlüssel.</h3>
+          <p class="text-sm text-slate-300 leading-relaxed">Optionale verschlüsselte Sicherung in Ihrer eigenen iCloud oder Google Drive. Sie halten den Wiederherstellungscode. Wir sehen ihn nie. Synchronisieren Sie über Ihre Geräte hinweg, doch Sie bleiben in Kontrolle.</p>
+        </div>
+
+        <!-- Pillar 5 -->
+        <div class="glass-panel rounded-2xl p-6 sm:p-8 flex flex-col items-center text-center gap-4">
+          <div class="h-12 w-12 rounded-full bg-blue-500/10 flex items-center justify-center text-brand-gold border border-brand-gold/20 shadow-[0_0_15px_rgba(255,176,0,0.1)]">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9" />
+            </svg>
+          </div>
+          <h3 class="text-lg font-bold text-white">Intelligente Erinnerungen</h3>
+          <p class="text-sm text-slate-300 leading-relaxed">Wir planen die Erinnerung 8, 6, 3 und 1 Monat vor dem Ablauf jedes Dokuments. Sie stellen sie nie manuell ein. Sie erscheinen einfach, wenn sie wichtig sind.</p>
+        </div>
+
+        <!-- Pillar 6 -->
+        <div class="glass-panel rounded-2xl p-6 sm:p-8 flex flex-col items-center text-center gap-4">
+          <div class="h-12 w-12 rounded-full bg-blue-500/10 flex items-center justify-center text-brand-gold border border-brand-gold/20 shadow-[0_0_15px_rgba(255,176,0,0.1)]">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a3 3 0 00-5.856-1.487M15 10h.01M11 10h.01M7 10h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
+            </svg>
+          </div>
+          <h3 class="text-lg font-bold text-white">Familiengerechte Logik</h3>
+          <p class="text-sm text-slate-300 leading-relaxed">Wir verfolgen die Regeln für Sie. Unterschiedliche Länder, unterschiedliche Anforderungen, Kinderausweise werden schneller erneuert. Die App versteht das. Sie müssen das nicht tun.</p>
+        </div>
       </div>
-      
+
       <!-- Transparency Checklist -->
       <div class="mt-16 glass-panel rounded-2xl p-6 sm:p-8 max-w-3xl mx-auto">
         <h3 class="text-lg font-bold text-white mb-1 text-center">Hier ist die Wahrheit über das, was ich sehen kann</h3>
@@ -417,7 +452,7 @@
             <span class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-green-500/15 border border-green-400/30 flex items-center justify-center">
               <svg class="w-3 h-3 text-green-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="3"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>
             </span>
-            <div><dt class="text-sm font-medium text-white">Ihre Reisepass-Scans</dt><dd class="text-xs text-slate-300 mt-0.5">Nur auf Ihrem Gerät gespeichert. Ich kann sie nicht sehen.</dd></div>
+            <div><dt class="text-sm font-medium text-white">Ihre Reisepass-Scans</dt><dd class="text-xs text-slate-300 mt-0.5">Auf Ihrem Gerät. Bei aktiviertem optionalem Backup in Ihrer eigenen Cloud versiegelt, bevor Sie hochgeladen wird. Ich kann sie auf jeden Fall nicht sehen.</dd></div>
           </div>
           <div class="flex items-start gap-3" style="padding:12px;border-radius:12px;background:rgba(255,255,255,0.05)">
             <span class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-green-500/15 border border-green-400/30 flex items-center justify-center">
@@ -477,6 +512,72 @@
       </div>
     </section>
 
+    <!-- v1.2 Features Grid (Cross Platform) -->
+    <section class="scroll-fade-in max-w-5xl mx-auto px-4 sm:px-6">
+      <div class="text-center mb-10">
+        <h2 class="text-2xl sm:text-3xl font-bold text-white mb-4">Reisen planen, Kontingente nachverfolgung, mit Ihrer Cloud synchronisieren</h2>
+        <p class="text-blue-200/70 text-lg max-w-2xl mx-auto">Gebaut für Familien, die überall reisen.</p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
+        <!-- Trip Planner Card -->
+        <div class="glass-panel rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Alle Bereit, Auf Einen Blick</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-sm text-slate-300 leading-relaxed">Ampel der Familienbereitschaft. Sehen Sie, wer bereit zum Reisen ist und wessen Dokumente bald ablaufen.</p>
+        </div>
+
+        <!-- Your Own Cloud Card -->
+        <div class="glass-panel rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M9 19l3 3m0 0l3-3m-3 3v-6" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Ihre Cloud. Ihr Schlüssel.</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-sm text-slate-300 leading-relaxed">Verschlüsselte Sicherung in Ihrer iCloud oder Google Drive. Sie halten den Wiederherstellungscode. Wir sehen ihn nie.</p>
+        </div>
+
+        <!-- Days Abroad Card -->
+        <div class="glass-panel rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Tage im Ausland Nachverfolgung</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-sm text-slate-300 leading-relaxed">Erfassen Sie Tage, die Ihre Familie in jedem Land verbringt. Legen Sie benutzerdefinierte Tageslimits fest und wissen Sie genau, wo Sie stehen.</p>
+        </div>
+
+        <!-- Trip Allowances Card -->
+        <div class="glass-panel rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Unbegrenzte Familienprofile</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-sm text-slate-300 leading-relaxed">Fügen Sie für jedes Familienmitglied ein Profil hinzu. Die kostenlose Version enthält 1 Profil; Pro entsperrt unbegrenzte.</p>
+        </div>
+      </div>
+    </section>
+
     <!-- Features Section -->
     <section id="features">
       <div class="text-center scroll-fade-in mb-10">
@@ -531,7 +632,7 @@
             </div>
             <div>
               <h3 class="text-white font-semibold">Spricht Ihre Sprache</h3>
-              <p class="text-xs text-slate-50">In 22 Sprachen verfügbar</p>
+              <p class="text-xs text-slate-50">In 15 Sprachen verfügbar</p>
             </div>
           </div>
           <div style="display:flex;flex-wrap:wrap;gap:6px">
@@ -566,122 +667,122 @@
       <div class="hidden md:grid md:grid-cols-2 lg:grid-cols-3 gap-5 stagger-children">
 
         <!-- Feature 1 -->
-        <div class="glass-card rounded-2xl p-6 sm:p-8 flex flex-col gap-4">
-          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold">
+        <div class="glass-card rounded-2xl p-6 sm:p-8">
+          <div class="flex items-center gap-3 mb-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
             </svg>
           </div>
-          <div>
-            <h3 class="text-lg font-semibold text-white mb-2">Für die ganze Familie</h3>
-            <p class="text-sm text-slate-300 leading-relaxed">Sie sind derjenige, der alles merkt. Jetzt haben Sie Hilfe. Organisieren Sie Ehepartner, Kinder und Großeltern an einem sicheren Ort.</p>
+            <h3 class="text-base font-semibold text-white leading-tight">Für die ganze Familie</h3>
           </div>
+            <p class="text-sm text-slate-300 leading-relaxed">Sie sind derjenige, der alles merkt. Diese Last muss nicht ganz auf Ihren Schultern lasten. Organisieren Sie Ehepartner, Kinder und Großeltern an einem sicheren Ort.</p>
         </div>
 
         <!-- Feature 2 -->
-        <div class="glass-card rounded-2xl p-6 sm:p-8 flex flex-col gap-4">
-          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-blue-300">
+        <div class="glass-card rounded-2xl p-6 sm:p-8">
+          <div class="flex items-center gap-3 mb-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-blue-300 flex-shrink-0">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9" />
             </svg>
           </div>
-          <div>
-            <h3 class="text-lg font-semibold text-white mb-2">Seelenfrieden, automatisiert</h3>
-            <p class="text-sm text-slate-300 leading-relaxed">Wir beobachten die Daten, damit Sie das nicht tun müssen. Erhalten Sie sanfte Erinnerungen Monate im Voraus, damit die Erneuerung eine Checkliste ist, kein Notfall.</p>
+            <h3 class="text-base font-semibold text-white leading-tight">Seelenfrieden, automatisiert</h3>
           </div>
+            <p class="text-sm text-slate-300 leading-relaxed">Wir beobachten die Daten, damit Sie das nicht tun müssen. Erhalten Sie sanfte Erinnerungen Monate im Voraus, damit die Erneuerung eine Checkliste ist, kein Notfall.</p>
         </div>
 
         <!-- Feature 3 -->
-        <div class="glass-card rounded-2xl p-6 sm:p-8 flex flex-col gap-4">
-          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold">
+        <div class="glass-card rounded-2xl p-6 sm:p-8">
+          <div class="flex items-center gap-3 mb-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M3 9a2 2 0 012-2h.93a2 2 0 001.664-.89l.812-1.22A2 2 0 0110.07 4h3.86a2 2 0 011.664.89l.812 1.22A2 2 0 0118.07 7H19a2 2 0 012 2v9a2 2 0 01-2 2H5a2 2 0 01-2-2V9z" />
               <path stroke-linecap="round" stroke-linejoin="round" d="M15 13a3 3 0 11-6 0 3 3 0 016 0z" />
             </svg>
           </div>
-          <div>
-            <h3 class="text-lg font-semibold text-white mb-2">Mit Zuversicht erfassen</h3>
-            <p class="text-sm text-slate-300 leading-relaxed">Optimierte Erfassung. Unsere Anleitungen helfen Ihnen, in Sekunden eine klare, scharfe Aufnahme zu machen, damit jede Nummer und jedes Gesicht lesbar ist.</p>
+            <h3 class="text-base font-semibold text-white leading-tight">Mit Zuversicht erfassen</h3>
           </div>
+            <p class="text-sm text-slate-300 leading-relaxed">Optimierte Erfassung. Unsere Anleitungen helfen Ihnen, in Sekunden eine klare, scharfe Aufnahme zu machen, damit jede Nummer und jedes Gesicht lesbar ist.</p>
         </div>
 
         <!-- Feature 4 -->
-        <div class="glass-card rounded-2xl p-6 sm:p-8 flex flex-col gap-4">
-          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-blue-300">
+        <div class="glass-card rounded-2xl p-6 sm:p-8">
+          <div class="flex items-center gap-3 mb-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-blue-300 flex-shrink-0">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
             </svg>
           </div>
-          <div>
-            <h3 class="text-lg font-semibold text-white mb-2">Ihr Leben, sortiert</h3>
-            <p class="text-sm text-slate-300 leading-relaxed">Pässe, Führerscheine, Versicherungen. Sicher gespeichert, streng privat und auf Ablauf überprüft. Ein Ort für alles, das zählt.</p>
+            <h3 class="text-base font-semibold text-white leading-tight">Ihr Leben, sortiert</h3>
           </div>
+            <p class="text-sm text-slate-300 leading-relaxed">Pässe, Führerscheine, Versicherungen. Sicher gespeichert, streng privat und auf Ablauf überprüft. Ein Ort für alles, das zählt.</p>
         </div>
 
         <!-- Feature 5 -->
-        <div class="glass-card rounded-2xl p-6 sm:p-8 flex flex-col gap-4">
-          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold">
+        <div class="glass-card rounded-2xl p-6 sm:p-8">
+          <div class="flex items-center gap-3 mb-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M12 21a9.004 9.004 0 008.716-6.747M12 21a9.004 9.004 0 01-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 017.843 4.582M12 3a8.997 8.997 0 00-7.843 4.582m15.686 0A11.953 11.953 0 0112 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0121 12c0 .778-.099 1.533-.284 2.253M3.157 7.582A8.959 8.959 0 003 12c0 .778.099 1.533.284 2.253" />
             </svg>
           </div>
-          <div>
-            <h3 class="text-lg font-semibold text-white mb-2">Spricht Ihre Sprache</h3>
-            <p class="text-sm text-slate-300 leading-relaxed mb-3">In 22 Sprachen verfügbar. Die App fühlt sich überall native an.</p>
-            <p class="text-xs text-slate-400 leading-relaxed">English, Español, Français, Deutsch, Italiano, Português (BR), Português (PT), Русский, 中文 (简体), 中文 (繁體), 日本語, 한국어, Nederlands, Polski, Türkçe, Indonesia, Tiếng Việt, ไทย, Українська, Svenska, Norsk, Dansk, Suomi</p>
+            <h3 class="text-base font-semibold text-white leading-tight">Spricht Ihre Sprache</h3>
           </div>
+            <p class="text-sm text-slate-300 leading-relaxed mb-3">In 15 Sprachen verfügbar. Die App fühlt sich überall native an.</p>
+            <p class="text-xs text-slate-400 leading-relaxed">English, Español, Français, Deutsch, Italiano, Português (BR), Русский, 中文 (简体), 日本語, 한국어, Nederlands, ไทย, Українська, Svenska, Dansk, Indonesia</p>
         </div>
 
         <!-- Feature 6 -->
-        <div class="glass-card rounded-2xl p-6 sm:p-8 flex flex-col gap-4">
-          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-blue-300">
+        <div class="glass-card rounded-2xl p-6 sm:p-8">
+          <div class="flex items-center gap-3 mb-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-blue-300 flex-shrink-0">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z" />
             </svg>
           </div>
-          <div>
-            <h3 class="text-lg font-semibold text-white mb-2">Lassen Sie die App tippen</h3>
-            <p class="text-sm text-slate-300 leading-relaxed">Sofortige Datumerkennung spart Ihnen vor mühsamer Dateneingabe. Schnell, bequem und 100% privat auf Ihrem Telefon.</p>
+            <h3 class="text-base font-semibold text-white leading-tight">Lassen Sie die App tippen</h3>
           </div>
+            <p class="text-sm text-slate-300 leading-relaxed">Sofortige Datumerkennung spart Ihnen vor mühsamer Dateneingabe. Schnell, bequem und 100% privat auf Ihrem Telefon.</p>
         </div>
 
         <!-- Feature 7 -->
-        <div class="glass-card rounded-2xl p-6 sm:p-8 flex flex-col gap-4">
-          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold">
+        <div class="glass-card rounded-2xl p-6 sm:p-8">
+          <div class="flex items-center gap-3 mb-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
             </svg>
           </div>
-          <div>
-            <h3 class="text-lg font-semibold text-white mb-2">Ihr privater Tresor</h3>
-            <p class="text-sm text-slate-300 leading-relaxed">Was auf Ihrem Telefon passiert, bleibt auf Ihrem Telefon. Keine Cloud-Server. Keine neugierigen Blicke. Nur Sie.</p>
+            <h3 class="text-base font-semibold text-white leading-tight">Ihr privater Tresor</h3>
           </div>
+            <p class="text-sm text-slate-300 leading-relaxed">Was auf Ihrem Telefon passiert, bleibt auf Ihrem Telefon. Keine Cloud-Server. Keine neugierigen Blicke. Nur Sie.</p>
         </div>
 
         <!-- Feature 8 -->
-        <div class="glass-card rounded-2xl p-6 sm:p-8 flex flex-col gap-4">
-          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-blue-300">
+        <div class="glass-card rounded-2xl p-6 sm:p-8">
+          <div class="flex items-center gap-3 mb-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-blue-300 flex-shrink-0">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M18.364 5.636a9 9 0 010 12.728m0 0l-2.829-2.829m2.829 2.829L21 21M15.536 8.464a5 5 0 010 7.072m0 0l-2.829-2.829m-4.243 2.829a4.978 4.978 0 01-1.414-2.83m-1.414 5.658a9 9 0 01-2.167-9.238m7.824 2.167a1 1 0 111.414 1.414m-1.414-1.414L3 3m8.293 8.293l1.414 1.414" />
             </svg>
           </div>
-          <div>
-            <h3 class="text-lg font-semibold text-white mb-2">Immer da, wenn Sie es brauchen</h3>
-            <p class="text-sm text-slate-300 leading-relaxed">Schlechtes Flughafen-WLAN? Kein Problem. Ihre Dokumente sind sofort verfügbar, egal in welchem Land Sie sich befinden. Funktioniert nahtlos im Flugzeugmodus.</p>
+            <h3 class="text-base font-semibold text-white leading-tight">Immer da, wenn Sie es brauchen</h3>
           </div>
+            <p class="text-sm text-slate-300 leading-relaxed">Schlechtes Flughafen-WLAN? Kein Problem. Ihre Dokumente sind direkt auf Ihrem Bildschirm, egal in welchem Land Sie sich befinden. Funktioniert nahtlos im Flugzeugmodus.</p>
         </div>
 
         <!-- Feature 9 -->
-        <div class="glass-card rounded-2xl p-6 sm:p-8 flex flex-col gap-4">
-          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-blue-300">
+        <div class="glass-card rounded-2xl p-6 sm:p-8">
+          <div class="flex items-center gap-3 mb-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-blue-300 flex-shrink-0">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
             </svg>
           </div>
-          <div>
-            <h3 class="text-lg font-semibold text-white mb-2">Ihre Privatsphäre respektieren</h3>
-            <p class="text-sm text-slate-300 leading-relaxed">Wir wollen Ihre Daten nicht. Wir verkaufen keine Anzeigen. Wir wollen nur helfen, dass Sie besser reisen.</p>
+            <h3 class="text-base font-semibold text-white leading-tight">Ihre Privatsphäre respektieren</h3>
           </div>
+            <p class="text-sm text-slate-300 leading-relaxed">Wir wollen Ihre Daten nicht. Wir verkaufen keine Anzeigen. Wir wollen nur helfen, dass Sie besser reisen.</p>
         </div>
 
       </div>
@@ -744,6 +845,10 @@
               <svg class="h-4 w-4 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
               <span>Bis zu 5 Dokumente</span>
             </li>
+            <li class="flex items-center gap-3 text-slate-300">
+              <svg class="h-4 w-4 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+              <span>Kürzlich gelöscht - 30-Tage-Rückgängigfenster</span>
+            </li>
           </ul>
           <p class="text-xs text-slate-400 pb-2">Alle Daten bleiben auf Ihrem Gerät. Immer.</p>
         </div>
@@ -764,6 +869,22 @@
           <p class="text-[10px] text-slate-300 mb-4"><a href="/pricing-policy/#version-policy" class="text-brand-gold hover:text-white underline">Über unsere Versionierungsrichtlinie →</a></p>
 
           <ul class="space-y-3 mb-6 text-sm">
+            <li class="flex items-center gap-3 text-white">
+              <svg class="h-4 w-4 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+              <span>Reiseplaner mit Ampel der Familienbereitschaft</span>
+            </li>
+            <li class="flex items-center gap-3 text-white">
+              <svg class="h-4 w-4 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+              <span>Your Own Cloud-Sicherung (iCloud oder Google Drive, Ende-zu-Ende-verschlüsselt)</span>
+            </li>
+            <li class="flex items-center gap-3 text-white">
+              <svg class="h-4 w-4 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+              <span>Tracker für Tage im Ausland für Steuertage und Visa-Limits</span>
+            </li>
+            <li class="flex items-center gap-3 text-white">
+              <svg class="h-4 w-4 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+              <span>Reisezuschüsse - Zollfrei, Gepäck, Währung</span>
+            </li>
             <li class="flex items-center gap-3 text-white">
               <svg class="h-4 w-4 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
               <span>Jedes Familienmitglied, ein Tresor</span>
@@ -854,6 +975,12 @@
               </svg>
               <span>Bis zu 5 Dokumente</span>
             </li>
+            <li class="flex items-center gap-3 text-slate-300">
+              <svg class="h-5 w-5 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+              </svg>
+              <span>Gelöscht - 30-Tage-Rückgängigfenster</span>
+            </li>
           </ul>
           <p class="text-xs text-slate-400 mb-8">Alle Daten bleiben auf Ihrem Gerät. Immer.</p>
         </div>
@@ -886,6 +1013,30 @@
           <p class="text-slate-200 text-sm mb-4 font-medium">Alles in Free, Plus:</p>
 
           <ul class="space-y-3 mb-8 flex-1">
+            <li class="flex items-center gap-3 text-white">
+              <svg class="h-5 w-5 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+              </svg>
+              <span>Reiseplaner mit Ampel der Familienbereitschaft</span>
+            </li>
+            <li class="flex items-center gap-3 text-white">
+              <svg class="h-5 w-5 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+              </svg>
+              <span>Ihre Cloud-Sicherung (iCloud oder Google Drive, durchgehend verschlüsselt)</span>
+            </li>
+            <li class="flex items-center gap-3 text-white">
+              <svg class="h-5 w-5 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+              </svg>
+              <span>Tracker für Tage im Ausland für Steuertage und Visalimits</span>
+            </li>
+            <li class="flex items-center gap-3 text-white">
+              <svg class="h-5 w-5 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+              </svg>
+              <span>Reisezuschüsse - Zollfrei, Gepäck, Währung</span>
+            </li>
             <li class="flex items-center gap-3 text-slate-300">
               <svg class="h-5 w-5 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
@@ -962,6 +1113,30 @@
         </summary>
         <div class="text-slate-200 text-sm px-4 pb-4 leading-relaxed">
           Ihr Tresor wird auf Ihrem Gerät gespeichert. Wenn Sie Telefone wechseln, stellen Sie mithilfe Ihrer üblichen Telefonsicherung wieder her.
+        </div>
+      </details>
+
+      <details class="glass-panel rounded-xl group">
+        <summary class="flex items-center justify-between p-4 cursor-pointer list-none">
+          <span class="font-medium text-white">Kann ich zwischen Geräten synchronisieren?</span>
+          <span class="transition group-open:rotate-180">
+            <svg fill="none" class="h-5 w-5 text-brand-gold" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+          </span>
+        </summary>
+        <div class="text-slate-200 text-sm px-4 pb-4 leading-relaxed">
+          Ja. Mit Pro aktivieren Sie die Your Own Cloud-Sicherung, um Ihren verschlüsselten Tresor mit Ihrer iCloud oder Google Drive zu synchronisieren. Sie halten den Wiederherstellungscode. Wir greifen nie auf Ihre Daten zu.
+        </div>
+      </details>
+
+      <details class="glass-panel rounded-xl group">
+        <summary class="flex items-center justify-between p-4 cursor-pointer list-none">
+          <span class="font-medium text-white">Was ist der Reiseplaner?</span>
+          <span class="transition group-open:rotate-180">
+            <svg fill="none" class="h-5 w-5 text-brand-gold" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+          </span>
+        </summary>
+        <div class="text-slate-200 text-sm px-4 pb-4 leading-relaxed">
+          Der Reiseplaner gruppiert Familiendokumente nach Reise und zeigt eine Bereitschaftsampel - grün, wenn alle bereit sind, gelb, wenn der Pass von jemandem bald abläuft. Planen Sie Reisen gemeinsam mit Zuversicht.
         </div>
       </details>
 

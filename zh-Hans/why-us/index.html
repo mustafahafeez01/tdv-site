@@ -68,7 +68,7 @@
       {
         "@type": "Question",
         "name": "如果我丢失手机会怎样？",
-        "acceptedAnswer": { "@type": "Answer", "text": "您的文件存储在设备上，因此常规手机备份（iCloud 或 Google 备份）会包含它们。当您恢复到新手机时，您的保险库也会随之还原。Pro 用户还可以随时创建加密备份。" }
+        "acceptedAnswer": { "@type": "Answer", "text": "您的文件存储在设备上，加密密钥也保留在原设备内。系统备份（iCloud 或 Google 备份）会重新安装应用，但无法恢复您的文件 - 加密密钥无法跨设备传递。在切换手机前，从设置中导出您的保险库（.tdvault 文件，所有用户免费），然后在新手机上导入。Pro 用户还可以选择启用加密云备份，以便在多设备间同步。" }
       },
       {
         "@type": "Question",
@@ -78,7 +78,7 @@
       {
         "@type": "Question",
         "name": "我的数据真的安全吗？",
-        "acceptedAnswer": { "@type": "Answer", "text": "您的文件在设备上使用 AES-256-GCM 加密保护。没有云服务器，没有账户，任何人——包括开发者——都无法访问您的数据。" }
+        "acceptedAnswer": { "@type": "Answer", "text": "您的文件在设备上使用 AES-256-GCM 加密保护。没有云服务器，没有账户，任何人（包括开发者）都无法访问您的数据。" }
       },
       {
         "@type": "Question",
@@ -143,10 +143,10 @@
     /* Screenshot carousel - gold standard */
     .carousel-stage {
       position: relative;
-      height: calc(80vw * 2.17 + 70px);
+      height: calc(80vw * 2.17 + 130px);
     }
-    @media (min-width: 640px) { .carousel-stage { height: 770px; } }
-    @media (min-width: 1024px) { .carousel-stage { height: 870px; } }
+    @media (min-width: 640px) { .carousel-stage { height: 860px; } }
+    @media (min-width: 1024px) { .carousel-stage { height: 960px; } }
 
     .carousel-slide {
       position: absolute;
@@ -266,6 +266,7 @@
     /* Focus visible for keyboard nav */
     details summary:focus-visible { outline: 2px solid #FFB000; outline-offset: 2px; border-radius: 0.75rem; }
     a:focus-visible, button:focus-visible { outline: 2px solid #FFB000; outline-offset: 2px; border-radius: 4px; }
+    .pro-badge { background: linear-gradient(135deg, #FFB000 0%, #e69f00 100%); }
     /* Reduced motion */
     @media (prefers-reduced-motion: reduce) {
       .scroll-fade-in, .stagger-children > *, .screenshot-reveal,
@@ -364,14 +365,14 @@
         隐私优先。仅在设备上。无需账户。
       </div>
       <h1 id="hero-heading" class="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-[1.1] mb-8">
-        您浪费了多少时间<br class="hidden sm:block">
-        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">寻找证件？</span>
+        总是准备就绪，<br class="hidden sm:block">
+        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">当您需要时</span>
       </h1>
       <p class="text-blue-100/90 text-lg sm:text-xl leading-relaxed max-w-2xl mx-auto mb-6">
-        入境柜台。签证申请。保险表格。<strong class="text-white">每次翻找相册都会增加不必要的压力。</strong>
+        您家人的护照、签证和身份证。有条理、安全，在需要时随时可用。无需翻找相册或云盘。
       </p>
       <p class="text-blue-200/80 text-base sm:text-lg leading-relaxed max-w-xl mx-auto mb-8">
-        <strong class="text-white">如果它们随时都准备好了呢？</strong>
+        入境柜台、签证申请、保险表格 - 一切都整理好了。
       </p>
       <div class="flex flex-col items-center gap-4 pt-4">
         <p class="text-white text-lg font-semibold">免费下载。无需账户。无订阅。</p>
@@ -384,6 +385,33 @@
       </a>
         </div>
         <span class="text-slate-50 text-sm font-medium">一次性购买。包括所有 v1.x 更新，永远。</span>
+        <p class="text-blue-200/70 text-xs max-w-md mt-2">由一个为自己的家庭而需要此应用的人所创建。没有风投，没有股东，没有广告网络。我只对一个人负责：你。</p>
+      </div>
+    </section>
+
+    <!-- Founder Story - Section 2 -->
+    <section aria-labelledby="founder-heading" class="scroll-fade-in text-center max-w-3xl mx-auto pt-24 md:pt-32">
+      <div class="glass-panel rounded-2xl p-8 sm:p-10">
+        <div class="flex items-start gap-4 mb-6 justify-center">
+          <div class="h-16 w-16 rounded-full bg-gradient-to-br from-brand-gold to-brand-blue p-[2px] flex-shrink-0">
+            <div class="h-full w-full rounded-full bg-[#0A192F] flex items-center justify-center text-base font-bold text-white">
+              MH
+            </div>
+          </div>
+          <div class="text-left">
+            <p class="text-white font-semibold text-lg">Mustafa Hafeez</p>
+            <p class="text-slate-400 text-sm">为我的家人创建了 Travel Document Vault</p>
+          </div>
+        </div>
+        <blockquote class="text-slate-200 text-lg sm:text-xl leading-relaxed mb-6">
+          "每次家庭旅行都变成了在照片、邮件和云盘中的寻宝游戏。我建立了这个应用，这样下次旅行就不会了。"
+        </blockquote>
+        <p class="text-blue-200/70 text-base leading-relaxed mb-4">
+          没有风投支持。没有股东。没有广告网络。只是一位厌倦了每次旅行都重复同样焦虑的家长。
+        </p>
+        <a href="/zh-Hans/blog/why-i-built-travel-document-vault/" class="text-brand-gold hover:text-brand-gold-hover font-semibold transition-colors inline-flex items-center gap-2">
+          阅读完整故事
+        </a>
       </div>
     </section>
 
@@ -400,99 +428,71 @@
           <p class="text-brand-gold text-sm font-semibold uppercase tracking-wider mb-4">在登机口</p>
           <p class="text-slate-100 text-base leading-relaxed">入境柜台。官员要求查看您的签证。</p>
           <p class="text-slate-300 text-base leading-relaxed mt-3">如果您能打开一个应用立刻找到它呢？无需搜索，无需切换应用，即时访问。</p>
+          <p class="text-blue-200/70 text-xs mt-4 font-medium">如果这是您：商务旅行者、数字游民或频繁乘客。</p>
         </li>
         <li class="glass-panel rounded-2xl p-8 sm:p-10 border-l-4 border-brand-gold">
           <p class="text-brand-gold text-sm font-semibold uppercase tracking-wider mb-4">有效期陷阱</p>
           <p class="text-slate-100 text-base leading-relaxed">您的护照明年到期。时间还充裕，对吧？</p>
           <p class="text-slate-300 text-base leading-relaxed mt-3">不对。申根旅行的护照必须在过去 10 年内签发，许多国家强制执行 6 个月有效期规定。航空公司在登机口使用 IATA Timatic 等官方数据库来执行这些规定。仅检查到期日是不够的。</p>
+          <p class="text-blue-200/70 text-xs mt-4 font-medium">如果这是您：频繁旅行者、注重税收的人或多国居民。</p>
         </li>
         <li class="glass-panel rounded-2xl p-8 sm:p-10 border-l-4 border-brand-gold">
           <p class="text-brand-gold text-sm font-semibold uppercase tracking-wider mb-4">续签混乱</p>
           <p class="text-slate-100 text-base leading-relaxed">续签通知来了。您完全不知道上次续签是什么时候，需要哪些文件，或者孩子的护照是否同时到期。</p>
+          <p class="text-blue-200/70 text-xs mt-4 font-medium">如果这是您：家长、监护人或家庭旅行组织者。</p>
         </li>
         <li class="glass-panel rounded-2xl p-8 sm:p-10 border-l-4 border-brand-gold">
           <p class="text-brand-gold text-sm font-semibold uppercase tracking-wider mb-4">一切集中管理</p>
           <p class="text-slate-100 text-base leading-relaxed mb-3">护照。签证。驾驶证。保险。旅行预订。孩子的文件。</p>
           <p class="text-slate-300 text-base leading-relaxed">全部集中在一个地方。触手可及。随时为您准备好。</p>
+          <p class="text-blue-200/70 text-xs mt-4 font-medium">如果这是您：组织得很好的人，只需要一个应用来信任。</p>
         </li>
       </ul>
     </section>
 
     <!-- SECTION 3: Alternatives -->
-    <section aria-labelledby="alternatives-heading" class="scroll-fade-in">
-      <h2 id="alternatives-heading" class="text-2xl sm:text-3xl font-bold text-white text-center mb-4">您目前可能在用的方法</h2>
-      <p class="text-blue-200/80 text-center mb-10 max-w-xl mx-auto">这些都是合理的选择。每种方法都有效——到某种程度为止。</p>
+    <section aria-labelledby="alternatives-heading" class="scroll-fade-in pt-8">
+      <h2 id="alternatives-heading" class="text-2xl sm:text-3xl font-bold text-white text-center mb-4">您现在可能在使用什么</h2>
+      <p class="text-blue-200/80 text-center mb-10 max-w-xl mx-auto">这些都是合理的选择。每一个都有效，直到某个地方出问题。</p>
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 max-w-5xl mx-auto stagger-children">
         <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">通用保险库应用</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">优点：</strong>安全性高，支持离线访问。</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">不足：</strong>它们把护照当收据对待，缺乏旅行专属逻辑。我们专为旅行者开发，提供 5 份文件的免费版和一次性 $9.99 的专业版，无任何订阅费。</p>
+          <h3 class="text-white font-semibold mb-3">通用保险库</h3>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">有效：</strong> 安全性高，支持离线访问。</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">不足：</strong> 它们将护照视为杂项收据，缺乏旅行专属逻辑。我们专为旅行者打造，提供慷慨的 5 份文件免费套餐和直接的 $9.99 一次性价格，无需任何循环订阅。</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">相机胶卷 / 照片</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">优点：</strong>随时携带。</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">不足：</strong>淹没在数千张照片中，无有效期跟踪，无整理，除手机锁之外无任何安全保障。</p>
+          <h3 class="text-white font-semibold mb-3">相册/照片</h3>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">有效：</strong> 总是随身携带。</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">不足：</strong> 隐藏在成千上万张照片中，没有到期跟踪、组织或超过手机锁定的安全性。</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">云存储</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">优点：</strong>有离线模式，可跨设备同步。</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">不足：</strong>您存好护照，查看到期日，再切换到日历应用设置提醒，再记住哪个文件夹存着配偶的文件。三个应用做一个应用的事——没有一个知道这是一本会过期的护照。</p>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">有效：</strong> 拥有离线模式且可跨设备同步。</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">不足：</strong> 您存储护照、查看有效期、切换到日历应用设置提醒，然后记住哪个文件夹有配偶的文件。这是三个应用在做一个应用的工作，而它们都不知道这是一份护照。</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">密码管理器</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">优点：</strong>非常适合管理密码。</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">不足：</strong>不是为证件图像、有效期跟踪或家庭管理而设计的。把护照照片放在密码字段里是变通方法，不是解决方案。</p>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">有效：</strong> 非常适合密码。</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">不足：</strong> 不是为文件图像、到期跟踪或家庭组织而设计。在密码字段中放置护照照片是一种变通方案，而不是解决方案。</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">笔记应用</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">优点：</strong>灵活且熟悉。</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">不足：</strong>无有效期提醒，无引导式拍摄，护照照片和购物清单放在一起，完全没有加密。</p>
-        </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">纸质文件夹</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">优点：</strong>在家时可靠。</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">不足：</strong>在另一个国家的机场毫无用处。纸张不会在到期前六个月提醒您。</p>
-        </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">"我会记住的"</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">优点：</strong>有时有效。</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">不足：</strong>直到失效为止。而且通常在航班前一晚失效，那时已经太晚了。</p>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">有效：</strong> 灵活而熟悉。</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">不足：</strong> 无到期提醒、无引导拍摄，您的护照照片与您的杂货清单坐在一起，没有加密。</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">电子表格</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">优点：</strong>非常适合规划行程和记录细节。</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">不足：</strong>无安全图片附件，在机场手机屏幕上格式很糟糕，也没有旅行前的自动到期提醒。</p>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">有效：</strong> 非常适合制定行程和输入详细信息。</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">不足：</strong> 没有安全的图像附件、在机场手机屏幕上格式糟糕，没有自动化的到期提醒。</p>
         </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">航空公司应用</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">优点：</strong>对今天乘坐的特定航班很顺畅。</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">不足：</strong>每次旅行之间会遗忘您的信息，不追踪签证，在酒店需要出示身份证或租车时完全无用。</p>
-        </div>
-      </div>
-      <!-- Founder Quote with Attribution -->
-      <div class="glass-panel rounded-2xl p-6 sm:p-8 mt-8 max-w-3xl mx-auto scroll-fade-in">
-        <div class="flex items-start gap-4 mb-4">
-          <div class="h-12 w-12 rounded-full bg-gradient-to-br from-brand-gold to-brand-blue p-[2px] flex-shrink-0">
-            <div class="h-full w-full rounded-full bg-[#0A192F] flex items-center justify-center text-sm font-bold text-white">
-              MH
-            </div>
-          </div>
-          <div>
-            <p class="text-white font-semibold">Mustafa Hafeez</p>
-            <p class="text-slate-400 text-sm">创始人，Travel Document Vault</p>
-          </div>
-        </div>
-        <blockquote class="text-slate-200 text-base sm:text-lg leading-relaxed italic">
-          "我自己用过这些方法中的大多数。相机胶卷。共享云盘。'我会记住的'方式。这就是我一直希望存在的东西。"
-        </blockquote>
       </div>
     </section>
 
     <!-- Comparison Table -->
     <section aria-labelledby="comparison-heading" class="scroll-fade-in">
       <div class="text-center mb-10">
-        <h2 id="comparison-heading" class="text-3xl sm:text-4xl font-bold text-white mb-4">横向对比</h2>
-        <p class="text-blue-200/70 text-base max-w-xl mx-auto">每种替代方案都能做好一两件事。只有一个能做到所有。</p>
+        <h2 id="comparison-heading" class="text-3xl sm:text-4xl font-bold text-white mb-4">它如何比较</h2>
+        <p class="text-blue-200/70 text-base max-w-xl mx-auto">每个替代方案都有一两项做得很好。只有一个能做好全部。</p>
       </div>
 
       <div class="overflow-x-auto rounded-2xl">
@@ -592,7 +592,7 @@
         <div class="bg-brand-gold/20 border-l-4 border-brand-gold rounded-lg p-6">
           <p class="text-white text-lg font-bold mb-4">一切都保留在您的设备上。</p>
           <p class="text-slate-200 text-base leading-relaxed mb-4">
-            不支持云同步是一项刻意的安全设计。无云。无账户。您的文件从不触碰任何第三方服务器。
+            云同步默认关闭。如果您启用它 (Pro)，您的保险库在上传之前会在您的设备上加密，然后转到您自己的 iCloud 或 Google Drive，用只有您拥有的恢复代码密封。包括我们、Apple 或 Google 在内的任何人都无法读取它。此承诺由代码强制执行，而不是政策。
           </p>
           <p class="text-slate-300 text-sm">
             静态 AES-256-GCM 加密。加密备份使用 PBKDF2 密钥派生。<a href="/privacy-policy/" class="text-brand-gold hover:text-yellow-300 transition-colors underline">完整隐私政策</a>
@@ -609,7 +609,7 @@
           <h3 class="text-xl font-bold text-white mb-4">提前数月的到期提醒</h3>
 
           <p class="text-slate-300 text-base leading-relaxed mb-4">
-            护照续签需要 6 到 8 周。<strong class="text-white">提醒从 6 个月前开始</strong>，自动逐级提醒。
+            护照续签需要 6 到 8 周。<strong class="text-white">提醒从 8 个月前开始</strong>，自动逐级提醒。
           </p>
 
           <p class="text-slate-300 text-base leading-relaxed mb-4">
@@ -659,7 +659,7 @@
           <h3 class="text-xl font-bold text-white mb-4">一次性购买。无订阅费。</h3>
 
           <p class="text-slate-300 text-base leading-relaxed mb-4">
-            <strong class="text-white">免费开始。</strong>最多存储 5 份文件——远比行业标准的 2 份更慷慨。完整提醒和安全功能一应俱全。
+            <strong class="text-white">免费开始。</strong>最多存储 5 份文件，远比行业标准的 2 份更慷慨。完整提醒和安全功能一应俱全。
           </p>
 
           <p class="text-slate-300 text-base leading-relaxed mb-2">
@@ -702,6 +702,104 @@
       </div>
     </section>
 
+    <!-- v1.2 FEATURES -->
+    <section class="scroll-fade-in max-w-5xl mx-auto px-4 sm:px-6 pt-8">
+      <div class="text-center mb-10">
+        <h2 class="text-3xl sm:text-4xl font-bold text-white mb-4">v1.2 中的新功能 - 为家庭打造</h2>
+        <p class="text-blue-200/70 text-base max-w-xl mx-auto">适应现代旅行的新功能。</p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-5">
+        <!-- Trip Planner -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">一眼看清全家人的旅行准备</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">家庭准备指示灯。看谁已准备好出发。</p>
+        </div>
+
+        <!-- Your Own Cloud -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M9 19l3 3m0 0l3-3m-3 3v-6" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">您的云。您的密钥。</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">端到端加密备份到您的 iCloud 或 Google Drive。</p>
+        </div>
+
+        <!-- Days Abroad -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">追踪国外逗留天数</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">记录您在任何国家停留的天数。设置自定义的天数限制目标，掌握签证有效期规则。</p>
+        </div>
+
+        <!-- Trip Allowances -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">无需计算免税额度</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">追踪每位成员每趟旅行的免税额度。</p>
+        </div>
+
+        <!-- Recently Deleted -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col items-center text-center gap-3">
+          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
+            </svg>
+          </div>
+          <h3 class="text-base font-bold text-white">30 天撤销功能</h3>
+          <p class="text-xs text-slate-300 leading-relaxed">意外删除。随时恢复。</p>
+        </div>
+
+        <!-- Family Profiles -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">每位家庭成员</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">各自独立的档案。整理每个人的文件。</p>
+        </div>
+      </div>
+      <div class="text-center mt-12 scroll-fade-in">
+        <p class="text-white text-lg font-semibold mb-4">免费开始。随时升级。</p>
+        <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+          <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'ios', 'source_page': window.location.pathname, 'source_section': 'why_us_cta'});" class="group relative inline-flex items-center transition-transform active:scale-95"><img loading="lazy" src="/assets/images/app-store-badge-black.svg" alt="在 App Store 下载" class="relative h-[56px] w-auto" width="120" height="40" /></a>
+          <a href="https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'android', 'source_page': window.location.pathname, 'source_section': 'why_us_cta'});" class="group relative inline-flex items-center transition-transform active:scale-95"><img loading="lazy" src="/assets/images/google-play-badge.svg" alt="在 Google Play 上获取" class="relative h-[56px] w-auto" width="135" height="40" /></a>
+        </div>
+      </div>
+    </section>
+
     <!-- SCREENSHOT CAROUSEL SHOWCASE (hidden on very small screens) -->
     <section aria-label="App screenshots" class="scroll-fade-in hidden xs:block" style="display: none;">
     <style>@media (min-width: 390px) { section[aria-label="App screenshots"] { display: block !important; } }</style>
@@ -719,7 +817,7 @@
 
           <!-- Left arrow: absolute, centered on image (label ~60px tall) -->
           <button id="carousel-prev" class="carousel-arrow carousel-arrow-mobile" aria-label="上一张截图" aria-disabled="true"
-                  style="position: absolute; left: 0; top: calc(60px + (100% - 60px) / 2); transform: translateY(-50%) translateX(-50%); z-index: 10;">
+                  style="position: absolute; left: 0; top: calc(110px + (100% - 110px) / 2); transform: translateY(-50%) translateX(-50%); z-index: 10;">
             <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
             </svg>
@@ -736,64 +834,64 @@
 
           <!-- Screenshot 1 -->
           <div class="carousel-slide is-active" role="group" aria-label="第 1 张截图，共 6 张" aria-roledescription="slide">
-            <p class="carousel-label-title">您的专属保险库。</p>
-            <p class="carousel-label-sub">存放您所有的文件</p>
-            <img src="/assets/images/screenshots-appstore/01.png"
+            <p class="carousel-label-title">出发前了解谁已准备好</p>
+            <p class="carousel-label-sub">立即查看每位成员的证件状态</p>
+            <img src="../../assets/images/screenshots-appstore/01.webp"
                  decoding="async"
                  alt="Documents list showing family profiles with expiry dates"
                  class="loaded"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 2 -->
           <div class="carousel-slide" role="group" aria-label="第 2 张截图，共 6 张" aria-roledescription="slide">
-            <p class="carousel-label-title">您所有的文件。</p>
-            <p class="carousel-label-sub">护照、签证、身份证等</p>
-            <img src="/assets/images/screenshots-appstore/04.png"
+            <p class="carousel-label-title">为旅行做好准备</p>
+            <p class="carousel-label-sub">每个人、每份证件，均已确认</p>
+            <img src="../../assets/images/screenshots-appstore/04.webp"
                  decoding="async"
                  alt="Document types including passport, visa, ID, airline ticket"
                  class="loaded"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 3 -->
           <div class="carousel-slide" role="group" aria-label="第 3 张截图，共 6 张" aria-roledescription="slide">
-            <p class="carousel-label-title">永远不会错过续签。</p>
-            <p class="carousel-label-sub">提前数月的智能提醒</p>
-            <img data-src="/assets/images/screenshots-appstore/02.png"
+            <p class="carousel-label-title">每个人的出行档案</p>
+            <p class="carousel-label-sub">证件、行程、提醒，全部汇聚</p>
+            <img data-src="../../assets/images/screenshots-appstore/02.webp"
                  decoding="async"
                  alt="Smart reminders with 6 weeks notice notification"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 4 -->
           <div class="carousel-slide" role="group" aria-label="第 4 张截图，共 6 张" aria-roledescription="slide">
-            <p class="carousel-label-title">您的家人，受到妥善保护。</p>
-            <p class="carousel-label-sub">每位家庭成员专属一个档案</p>
-            <img data-src="/assets/images/screenshots-appstore/03.png"
+            <p class="carousel-label-title">在每个国家的剩余天数</p>
+            <p class="carousel-label-sub">追踪每个人在海外的时间</p>
+            <img data-src="../../assets/images/screenshots-appstore/03.webp"
                  decoding="async"
                  alt="Family profiles for Emma, Lucas, Oliver, and Sophie"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 5 -->
           <div class="carousel-slide" role="group" aria-label="第 5 张截图，共 6 张" aria-roledescription="slide">
-            <p class="carousel-label-title">每一个细节，完整记录。</p>
-            <p class="carousel-label-sub">照片、日期和笔记</p>
-            <img data-src="/assets/images/screenshots-appstore/05.png"
+            <p class="carousel-label-title">提前掌握到期日期</p>
+            <p class="carousel-label-sub">在需要之前收到提醒</p>
+            <img data-src="../../assets/images/screenshots-appstore/05.webp"
                  decoding="async"
                  alt="Document detail view with passport attachment and metadata"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 6 -->
           <div class="carousel-slide" role="group" aria-label="第 6 张截图，共 6 张" aria-roledescription="slide">
-            <p class="carousel-label-title">保留在您的设备上。</p>
-            <p class="carousel-label-sub">PIN 码锁定。无云端。无账户。</p>
-            <img data-src="/assets/images/screenshots-appstore/06.png"
+            <p class="carousel-label-title">护照、签证、身份证，全部整理好</p>
+            <p class="carousel-label-sub">准确查看什么将在何时到期</p>
+            <img data-src="../../assets/images/screenshots-appstore/06.webp"
                  decoding="async"
                  alt="PIN lock screen for privacy you can trust"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
             </div>
@@ -803,7 +901,7 @@
 
           <!-- Right arrow: absolute, centered on image -->
           <button id="carousel-next" class="carousel-arrow carousel-arrow-mobile" aria-label="下一张截图"
-                  style="position: absolute; right: 0; top: calc(60px + (100% - 60px) / 2); transform: translateY(-50%) translateX(50%); z-index: 10;">
+                  style="position: absolute; right: 0; top: calc(110px + (100% - 110px) / 2); transform: translateY(-50%) translateX(50%); z-index: 10;">
             <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
             </svg>
@@ -843,7 +941,7 @@
           <div class="pb-8 pt-1">
             <h3 class="text-2xl font-bold text-white mb-4">扫描或导入</h3>
             <p class="text-slate-100 text-base leading-relaxed mb-4">打开相机，使用辅助对齐框捕获您的文件。或者从您的照片库中导入现有的文件。</p>
-            <p class="text-slate-300 text-base leading-relaxed">应用会自动检测有效期——您只需确认即可。</p>
+            <p class="text-slate-300 text-base leading-relaxed">应用会自动检测有效期，您只需确认即可。</p>
           </div>
         </div>
 
@@ -918,7 +1016,7 @@
             <span class="font-semibold text-white text-base">如果我丢失了手机会发生什么？</span>
             <span class="transition group-open:rotate-180"><svg fill="none" class="h-5 w-5 text-brand-gold flex-shrink-0" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg></span>
           </summary>
-          <div class="text-slate-300 text-base px-6 pb-6 leading-relaxed">您的文件保存在您的设备上，因此常规的手机备份（iCloud 或 Google 备份）将其一并包括在内。当您将数据恢复到新手机时，您的保险库也会随之恢复。Pro 版用户还可以随时创建加密的备份文件。</div>
+          <div class="text-slate-300 text-base px-6 pb-6 leading-relaxed">您的文件存储在设备上，加密密钥也保留在原设备内。系统备份（iCloud 或 Google 备份）会重新安装应用，但无法恢复您的文件 - 加密密钥无法跨设备传递。在切换手机前，从设置中导出您的保险库（.tdvault 文件，所有用户免费），然后在新手机上导入。Pro 用户还可以选择启用加密云备份，以便在多设备间自动同步。</div>
         </details>
         <details class="glass-panel rounded-xl group">
           <summary class="flex items-center justify-between p-6 cursor-pointer list-none">
@@ -939,7 +1037,7 @@
             <span class="font-semibold text-white text-base">这真的是一次买断制的吗？</span>
             <span class="transition group-open:rotate-180"><svg fill="none" class="h-5 w-5 text-brand-gold flex-shrink-0" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg></span>
           </summary>
-          <div class="text-slate-300 text-base px-6 pb-6 leading-relaxed">是的。专业版一次性购买仅需 $9.99。*无订阅，无周期性费用，也没有"试用即将结束"的提醒邮件。免费版是真正免费的——1 个档案、5 份文件，包含 OCR 和提醒在内的全部功能。
+          <div class="text-slate-300 text-base px-6 pb-6 leading-relaxed">是的。专业版一次性购买仅需 $9.99。*无订阅，无周期性费用，也没有"试用即将结束"的提醒邮件。免费版是真正免费的，包含 1 个档案、5 份文件，以及 OCR 和提醒在内的全部功能。
             <p class="text-slate-400 text-xs mt-2">* 针对 v1.x 系列版本。参阅 <a href="/pricing-policy/#version-policy" class="text-brand-gold hover:text-white underline">定价政策</a>。</p>
           </div>
         </details>

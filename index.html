@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#003A87">
   <title>Travel Document Vault | One Less Thing to Worry About</title>
-  <meta name="description" content="Store your family's passports, visas, and IDs on-device with AES-256 encryption. No account, no subscription, no Travel Document Vault servers. Optional end-to-end encrypted backup to your own iCloud or Google Drive.">
+  <meta name="description" content="Plan family trips with readiness traffic light. Store passports, visas, IDs on-device. Track country day-limit allowances and Schengen days. End-to-end encrypted backup to your own iCloud or Google Drive. No accounts, no servers.">
   <link rel="canonical" href="https://traveldocumentvault.com/">
   <link rel="alternate" hreflang="x-default" href="https://traveldocumentvault.com/">
   <link rel="alternate" hreflang="en"      href="https://traveldocumentvault.com/">
@@ -147,6 +147,8 @@
       -webkit-backdrop-filter: blur(12px);
       border: 1px solid rgba(255, 255, 255, 0.08);
     }
+
+    .pro-badge { background: linear-gradient(135deg, #FFB000 0%, #e69f00 100%); }
 
     /* Active nav link */
     .nav-link-active {
@@ -318,7 +320,7 @@
       <h1 class="sr-only">Travel Document Vault: Store family travel documents with expiry reminders</h1>
       <div class="text-4xl font-bold tracking-tight text-white leading-tight mb-6" aria-hidden="true" role="presentation">
         One Less Thing
-        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">to Worry</span><br />
+        <span class="text-brand-gold">to Worry</span><br />
         <span class="text-blue-200">About</span>
       </div>
 
@@ -328,14 +330,14 @@
       </p>
 
       <div class="w-full max-w-xs space-y-3 pt-2">
-        <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'ios', 'source_page': window.location.pathname, 'source_section': 'hero'});" class="flex items-center justify-center gap-2 py-3 rounded-xl bg-gradient-to-r from-brand-gold to-yellow-500 text-brand-blue font-bold text-sm shadow-[0_4px_20px_rgba(255,176,0,0.3)] hover:shadow-[0_4px_25px_rgba(255,176,0,0.4)] transition-all active:scale-95 w-full">
+        <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'ios', 'source_page': window.location.pathname, 'source_section': 'hero'});" class="flex items-center justify-center gap-2 py-3 rounded-xl bg-brand-gold text-brand-blue font-bold text-sm shadow-[0_4px_20px_rgba(255,176,0,0.3)] hover:shadow-[0_4px_25px_rgba(255,176,0,0.4)] transition-all active:scale-95 w-full">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor">
             <path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/>
           </svg>
           App Store
         </a>
 
-        <a href="https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'android', 'source_page': window.location.pathname, 'source_section': 'hero'});" class="flex items-center justify-center gap-2 py-3 rounded-xl bg-gradient-to-r from-brand-gold to-yellow-500 text-brand-blue font-bold text-sm shadow-[0_4px_20px_rgba(255,176,0,0.3)] hover:shadow-[0_4px_25px_rgba(255,176,0,0.4)] transition-all active:scale-95 w-full">
+        <a href="https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'android', 'source_page': window.location.pathname, 'source_section': 'hero'});" class="flex items-center justify-center gap-2 py-3 rounded-xl bg-brand-gold text-brand-blue font-bold text-sm shadow-[0_4px_20px_rgba(255,176,0,0.3)] hover:shadow-[0_4px_25px_rgba(255,176,0,0.4)] transition-all active:scale-95 w-full">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 flex-shrink-0" viewBox="0 0 24 24" fill="currentColor">
             <path d="M3,20.5V3.5C3,2.91 3.34,2.39 3.84,2.15L13.69,12L3.84,21.85C3.34,21.6 3,21.09 3,20.5M16.81,15.12L6.05,21.34L14.54,12.85L16.81,15.12M20.16,10.81C20.5,11.08 20.75,11.5 20.75,12C20.75,12.5 20.53,12.9 20.18,13.18L17.89,14.5L15.39,12L17.89,9.5L20.16,10.81M6.05,2.66L16.81,8.88L14.54,11.15L6.05,2.66Z"/>
           </svg>
@@ -393,12 +395,12 @@
 
         <h1 class="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white drop-shadow-xl leading-[1.1] mb-6">
           One Less Thing <br />
-          <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">to Worry</span><br />
+          <span class="text-brand-gold">to Worry</span><br />
           <span class="text-blue-200">About</span>
         </h1>
 
         <p class="max-w-2xl text-blue-100/80 text-lg sm:text-xl leading-relaxed mb-6">
-          Your family's passports, IDs, and visas. Tracked, ready, and valid when you need them.
+          Your family's passports, IDs, and visas. Tracked, ready, and valid when you need them. Plan trips together. Track allowances. Know your visa limits. Built by a parent who needed it for his own family.
         </p>
 
         <div class="flex flex-col items-center gap-4 pt-6">
@@ -425,7 +427,7 @@
     <!-- Authentic Trust Signals (Cross Platform) -->
     <section id="trust" class="scroll-fade-in max-w-5xl mx-auto px-4 sm:px-6 relative overflow-hidden">
       <div class="text-center mb-10">
-        <h2 class="text-2xl sm:text-3xl font-bold text-white mb-4">No Servers. No Account. No Compromise.</h2>
+        <h2 class="text-3xl sm:text-4xl font-bold text-white mb-4">No Servers. No Account. No Compromise.</h2>
         <p class="text-blue-200/70 text-lg max-w-2xl mx-auto">Built by a parent who needed it. Your documents stay readable only by you. Optional backup goes to your own iCloud or Google Drive, sealed with a recovery code only you hold.</p>
       </div>
 
@@ -438,7 +440,7 @@
             </svg>
           </div>
           <h3 class="text-lg font-bold text-white">Built by a Parent</h3>
-          <p class="text-sm text-slate-300 leading-relaxed">I built this app because I needed it for my own family. Separate profiles for every family member. Automatic expiry reminders months before renewal is urgent. No VC funding pushing us to sell your data. Just a tool that works exactly as it should.</p>
+          <p class="text-sm text-slate-300 leading-relaxed">I built this app because I needed it for my own family. Separate profiles for every family member. Automatic expiry reminders months before renewal becomes urgent. No VC funding pushing us to sell your data. No roadmap driven by growth metrics. Just a tool that solves one problem, properly.</p>
         </div>
 
         <!-- Pillar 2 -->
@@ -449,7 +451,7 @@
              </svg>
           </div>
           <h3 class="text-lg font-bold text-white">Offline by Design</h3>
-          <p class="text-sm text-slate-300 leading-relaxed">A data breach cannot happen on servers that do not exist. We run none. The app works fully offline by default. If you turn on backup, your encrypted vault goes to your own iCloud or Google Drive, sealed with a recovery code only you hold. We never see it. Apple cannot read it. Google cannot read it.</p>
+          <p class="text-sm text-slate-300 leading-relaxed">A data breach cannot happen on servers that do not exist. We run none. The app works fully offline by default. If you turn on backup, your encrypted vault goes to your own iCloud or Google Drive, sealed with a recovery code only you hold.</p>
         </div>
 
         <!-- Pillar 3 -->
@@ -462,6 +464,39 @@
           <h3 class="text-lg font-bold text-white">On-Device Encryption</h3>
           <p class="text-sm text-slate-300 leading-relaxed">We use AES-256-GCM encryption. That is the exact same standard used by global banks and governments. Your data is encrypted using keys securely stored in your device's Secure Enclave.</p>
         </div>
+
+        <!-- Pillar 4 -->
+        <div class="glass-panel rounded-2xl p-6 sm:p-8 flex flex-col items-center text-center gap-4">
+          <div class="h-12 w-12 rounded-full bg-blue-500/10 flex items-center justify-center text-brand-gold border border-brand-gold/20 shadow-[0_0_15px_rgba(255,176,0,0.1)]">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M9 19l3 3m0 0l3-3m-3 3v-6" />
+            </svg>
+          </div>
+          <h3 class="text-lg font-bold text-white">Your Cloud. Your Key.</h3>
+          <p class="text-sm text-slate-300 leading-relaxed">Optional encrypted cloud backup (Pro) to your own iCloud or Google Drive, with one-tap restore on a new phone. You hold the recovery code. We never see it. Free Vault Export is always included.</p>
+        </div>
+
+        <!-- Pillar 5 -->
+        <div class="glass-panel rounded-2xl p-6 sm:p-8 flex flex-col items-center text-center gap-4">
+          <div class="h-12 w-12 rounded-full bg-blue-500/10 flex items-center justify-center text-brand-gold border border-brand-gold/20 shadow-[0_0_15px_rgba(255,176,0,0.1)]">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9" />
+            </svg>
+          </div>
+          <h3 class="text-lg font-bold text-white">Smart Reminders</h3>
+          <p class="text-sm text-slate-300 leading-relaxed">We schedule the reminder at 8, 6, 3, and 1 month before each document expires. You never set them. They just appear when they matter.</p>
+        </div>
+
+        <!-- Pillar 6 -->
+        <div class="glass-panel rounded-2xl p-6 sm:p-8 flex flex-col items-center text-center gap-4">
+          <div class="h-12 w-12 rounded-full bg-blue-500/10 flex items-center justify-center text-brand-gold border border-brand-gold/20 shadow-[0_0_15px_rgba(255,176,0,0.1)]">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a3 3 0 00-5.856-1.487M15 10h.01M11 10h.01M7 10h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
+            </svg>
+          </div>
+          <h3 class="text-lg font-bold text-white">Family-Aware Logic</h3>
+          <p class="text-sm text-slate-300 leading-relaxed">We track the rules for you. Different countries, different requirements, kids' passports renew faster. The app understands. You don't have to.</p>
+        </div>
       </div>
       
       <!-- Transparency Checklist -->
@@ -469,25 +504,25 @@
         <h3 class="text-lg font-bold text-white mb-1 text-center">Here's the truth about what I can see</h3>
         <p class="text-sm text-blue-200/70 text-center mb-6">Here's an honest accounting of every piece of data in this app.</p>
         <dl class="grid grid-cols-1 sm:grid-cols-2 gap-6">
-          <div class="flex items-start gap-3" style="padding:12px;border-radius:12px;background:rgba(255,255,255,0.05)">
+          <div class="flex items-start gap-3" style="padding:12px;border-radius:12px;background:rgba(255,255,255,0.08)">
             <span class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-green-500/15 border border-green-400/30 flex items-center justify-center">
               <svg class="w-3 h-3 text-green-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="3"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>
             </span>
             <div><dt class="text-sm font-medium text-white">Your passport scans</dt><dd class="text-xs text-slate-300 mt-0.5">On your device. With optional backup on, sealed in your own cloud before upload. I cannot see them either way.</dd></div>
           </div>
-          <div class="flex items-start gap-3" style="padding:12px;border-radius:12px;background:rgba(255,255,255,0.05)">
+          <div class="flex items-start gap-3" style="padding:12px;border-radius:12px;background:rgba(255,255,255,0.08)">
             <span class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-green-500/15 border border-green-400/30 flex items-center justify-center">
               <svg class="w-3 h-3 text-green-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="3"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>
             </span>
             <div><dt class="text-sm font-medium text-white">Your document details</dt><dd class="text-xs text-slate-300 mt-0.5">Names, numbers, expiry dates. On your device only.</dd></div>
           </div>
-          <div class="flex items-start gap-3" style="padding:12px;border-radius:12px;background:rgba(255,255,255,0.05)">
+          <div class="flex items-start gap-3" style="padding:12px;border-radius:12px;background:rgba(255,255,255,0.08)">
             <span class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-green-500/15 border border-green-400/30 flex items-center justify-center">
               <svg class="w-3 h-3 text-green-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="3"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>
             </span>
             <div><dt class="text-sm font-medium text-white">Your family profiles</dt><dd class="text-xs text-slate-300 mt-0.5">Never transmitted to us. No accounts. No Travel Document Vault servers, ever.</dd></div>
           </div>
-          <div class="flex items-start gap-3" style="padding:12px;border-radius:12px;background:rgba(255,255,255,0.05)">
+          <div class="flex items-start gap-3" style="padding:12px;border-radius:12px;background:rgba(255,255,255,0.08)">
             <span class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-green-500/15 border border-green-400/30 flex items-center justify-center">
               <svg class="w-3 h-3 text-green-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="3"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>
             </span>
@@ -502,6 +537,72 @@
           Read the founder's story: Why I built an app to carry one less thing in my head
           <span class="group-hover:translate-x-0.5 transition-transform">→</span>
         </a>
+      </div>
+    </section>
+
+    <!-- v1.2 Features Grid (Cross Platform) -->
+    <section class="max-w-5xl mx-auto px-4 sm:px-6">
+      <div class="text-center mb-10">
+        <h2 class="text-3xl sm:text-4xl font-bold text-white mb-4">Plan trips, track allowances, sync to your own cloud</h2>
+        <p class="text-blue-200/70 text-lg max-w-2xl mx-auto">Built for families who travel everywhere.</p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
+        <!-- Trip Planner Card -->
+        <div class="glass-panel rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Everyone Ready, At a Glance</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-sm text-slate-300 leading-relaxed">Family readiness traffic light. See who's ready to travel and whose documents are expiring soon.</p>
+        </div>
+
+        <!-- Your Own Cloud Card -->
+        <div class="glass-panel rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M9 19l3 3m0 0l3-3m-3 3v-6" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Your Cloud. Your Key.</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-sm text-slate-300 leading-relaxed">Encrypted backup to your iCloud or Google Drive. You hold the recovery code. We never see it.</p>
+        </div>
+
+        <!-- Days Abroad Card -->
+        <div class="glass-panel rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Track Days Out of Country</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-sm text-slate-300 leading-relaxed">Log days spent in any country per family member. Set custom day-limit targets and know exactly where you stand.</p>
+        </div>
+
+        <!-- Trip Allowances Card -->
+        <div class="glass-panel rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Unlimited Family Profiles</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-sm text-slate-300 leading-relaxed">Add a profile for every family member. Free tier includes 1 profile; Pro unlocks unlimited.</p>
+        </div>
       </div>
     </section>
 
@@ -534,14 +635,14 @@
 
     <!-- Features Section -->
     <section id="features">
-      <div class="text-center scroll-fade-in mb-10">
+      <div class="text-center mb-10">
         <h2 class="text-3xl sm:text-4xl font-bold text-white mb-4">For Travel. For Life. For Everything Important.</h2>
         <p class="text-blue-200/70 text-lg max-w-2xl mx-auto">Built for families who travel. Essential for keeping track of every vital document, from insurance policies to work badges.</p>
       </div>
 
       <!-- Mobile Condensed Features (Visible only on mobile) -->
       <div class="md:hidden space-y-4 px-4 mb-8">
-        <div class="glass-card p-4 rounded-xl flex items-center gap-4">
+        <div class="glass-card p-4 rounded-2xl flex items-center gap-4">
           <div class="text-brand-gold bg-blue-500/10 p-2 rounded-lg">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9" />
@@ -549,11 +650,10 @@
           </div>
           <div>
             <h3 class="text-white font-semibold">Smart Reminders</h3>
-            <p class="text-xs text-slate-50">Alerts 6 months before expiry</p>
-          </div>
+            <p class="text-xs text-slate-50">Alerts 8 months before expiry</p>
         </div>
 
-        <div class="glass-card p-4 rounded-xl flex items-center gap-4">
+        <div class="glass-card p-4 rounded-2xl flex items-center gap-4">
           <div class="text-brand-gold bg-blue-500/10 p-2 rounded-lg">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 9a2 2 0 012-2h.93a2 2 0 001.664-.89l.812-1.22A2 2 0 0110.07 4h3.86a2 2 0 011.664.89l.812 1.22A2 2 0 0018.07 7H19a2 2 0 012 2v9a2 2 0 01-2 2H5a2 2 0 01-2-2V9z" />
@@ -562,10 +662,9 @@
           <div>
             <h3 class="text-white font-semibold">Scan Guides</h3>
             <p class="text-xs text-slate-50">Guides to frame passports and IDs</p>
-          </div>
         </div>
 
-        <div class="glass-card p-4 rounded-xl flex items-center gap-4">
+        <div class="glass-card p-4 rounded-2xl flex items-center gap-4">
           <div class="text-brand-gold bg-blue-500/10 p-2 rounded-lg">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z" />
@@ -574,10 +673,9 @@
           <div>
             <h3 class="text-white font-semibold">Combined Exports</h3>
             <p class="text-xs text-slate-50">Combine documents into one PDF for printing</p>
-          </div>
         </div>
 
-        <div class="glass-card p-4 rounded-xl flex flex-col gap-3">
+        <div class="glass-card p-4 rounded-2xl flex flex-col gap-3">
           <div class="flex items-center gap-4">
             <div class="text-brand-gold bg-blue-500/10 p-2 rounded-lg flex-shrink-0">
               <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -586,13 +684,12 @@
             </div>
             <div>
               <h3 class="text-white font-semibold">Speaks Your Language</h3>
-              <p class="text-xs text-slate-50">Available in 21 languages</p>
+              <p class="text-xs text-slate-50">Available in 15 languages</p>
             </div>
           </div>
           <div style="display:flex;flex-wrap:wrap;gap:6px">
             <span style="font-size:1.25rem;line-height:1">🇬🇧</span>
             <span style="font-size:1.25rem;line-height:1">🇨🇳</span>
-            <span style="font-size:1.25rem;line-height:1">🇹🇼</span>
             <span style="font-size:1.25rem;line-height:1">🇪🇸</span>
             <span style="font-size:1.25rem;line-height:1">🇧🇷</span>
             <span style="font-size:1.25rem;line-height:1">🇵🇹</span>
@@ -603,16 +700,11 @@
             <span style="font-size:1.25rem;line-height:1">🇮🇹</span>
             <span style="font-size:1.25rem;line-height:1">🇷🇺</span>
             <span style="font-size:1.25rem;line-height:1">🇳🇱</span>
-            <span style="font-size:1.25rem;line-height:1">🇵🇱</span>
-            <span style="font-size:1.25rem;line-height:1">🇹🇷</span>
             <span style="font-size:1.25rem;line-height:1">🇮🇩</span>
-            <span style="font-size:1.25rem;line-height:1">🇻🇳</span>
             <span style="font-size:1.25rem;line-height:1">🇹🇭</span>
             <span style="font-size:1.25rem;line-height:1">🇺🇦</span>
             <span style="font-size:1.25rem;line-height:1">🇸🇪</span>
-            <span style="font-size:1.25rem;line-height:1">🇳🇴</span>
             <span style="font-size:1.25rem;line-height:1">🇩🇰</span>
-            <span style="font-size:1.25rem;line-height:1">🇫🇮</span>
           </div>
         </div>
       </div>
@@ -621,128 +713,128 @@
       <div class="hidden md:grid md:grid-cols-2 lg:grid-cols-3 gap-5 stagger-children">
 
         <!-- Feature 1 -->
-        <div class="glass-card rounded-2xl p-6 sm:p-8 flex flex-col gap-4">
-          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold">
+        <div class="glass-card rounded-2xl p-6 sm:p-8">
+          <div class="flex items-center gap-3 mb-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
             </svg>
           </div>
-          <div>
-            <h3 class="text-lg font-semibold text-white mb-2">For the Whole Family</h3>
-            <p class="text-sm text-slate-300 leading-relaxed">You're the one who remembers everything. Now you have help. Organise spouses, kids, and grandparents in one safe place.</p>
+            <h3 class="text-base font-semibold text-white leading-tight">For the Whole Family</h3>
           </div>
+            <p class="text-sm text-slate-300 leading-relaxed">You're the one who remembers everything. That burden doesn't have to sit entirely on you. Organise spouses, kids, and grandparents in one safe place.</p>
         </div>
 
         <!-- Feature 2 -->
-        <div class="glass-card rounded-2xl p-6 sm:p-8 flex flex-col gap-4">
-          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-blue-300">
+        <div class="glass-card rounded-2xl p-6 sm:p-8">
+          <div class="flex items-center gap-3 mb-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9" />
             </svg>
           </div>
-          <div>
-            <h3 class="text-lg font-semibold text-white mb-2">Peace of Mind, Automated</h3>
-            <p class="text-sm text-slate-300 leading-relaxed">We watch the dates so you don't have to. Get gentle nudges months in advance, so renewal is a checklist item, not an emergency.</p>
+            <h3 class="text-base font-semibold text-white leading-tight">Peace of Mind, Automated</h3>
           </div>
+            <p class="text-sm text-slate-300 leading-relaxed">We watch the dates so you don't have to. Get gentle nudges months in advance, so renewal is a checklist item, not an emergency.</p>
         </div>
 
         <!-- Feature 3 -->
-        <div class="glass-card rounded-2xl p-6 sm:p-8 flex flex-col gap-4">
-          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold">
+        <div class="glass-card rounded-2xl p-6 sm:p-8">
+          <div class="flex items-center gap-3 mb-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M3 9a2 2 0 012-2h.93a2 2 0 001.664-.89l.812-1.22A2 2 0 0110.07 4h3.86a2 2 0 011.664.89l.812 1.22A2 2 0 0018.07 7H19a2 2 0 012 2v9a2 2 0 01-2 2H5a2 2 0 01-2-2V9z" />
               <path stroke-linecap="round" stroke-linejoin="round" d="M15 13a3 3 0 11-6 0 3 3 0 016 0z" />
             </svg>
           </div>
-          <div>
-            <h3 class="text-lg font-semibold text-white mb-2">Capture with Confidence</h3>
-            <p class="text-sm text-slate-300 leading-relaxed">Streamlined capture. Our guides help you get a crisp, clear shot in seconds, so every number and face is readable.</p>
+            <h3 class="text-base font-semibold text-white leading-tight">Capture with Confidence</h3>
           </div>
+            <p class="text-sm text-slate-300 leading-relaxed">Streamlined capture. Our guides help you get a crisp, clear shot in seconds, so every number and face is readable.</p>
         </div>
 
         <!-- Feature 4 -->
-        <div class="glass-card rounded-2xl p-6 sm:p-8 flex flex-col gap-4">
-          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-blue-300">
+        <div class="glass-card rounded-2xl p-6 sm:p-8">
+          <div class="flex items-center gap-3 mb-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
             </svg>
           </div>
-          <div>
-            <h3 class="text-lg font-semibold text-white mb-2">Your Life, Sorted</h3>
-            <p class="text-sm text-slate-300 leading-relaxed">Passports, licenses, insurance. Securely stored, strictly private, and tracked for expiry. One place for everything that matters.</p>
+            <h3 class="text-base font-semibold text-white leading-tight">Your Life, Sorted</h3>
           </div>
+            <p class="text-sm text-slate-300 leading-relaxed">Passports, licenses, insurance. Securely stored, strictly private, and tracked for expiry. One place for everything that matters.</p>
         </div>
 
         <!-- Feature 5 -->
-        <div class="glass-card rounded-2xl p-6 sm:p-8 flex flex-col gap-4">
-          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold">
+        <div class="glass-card rounded-2xl p-6 sm:p-8">
+          <div class="flex items-center gap-3 mb-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M12 21a9.004 9.004 0 008.716-6.747M12 21a9.004 9.004 0 01-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 017.843 4.582M12 3a8.997 8.997 0 00-7.843 4.582m15.686 0A11.953 11.953 0 0112 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0121 12c0 .778-.099 1.533-.284 2.253M3.157 7.582A8.959 8.959 0 003 12c0 .778.099 1.533.284 2.253" />
             </svg>
           </div>
-          <div>
-            <h3 class="text-lg font-semibold text-white mb-2">Speaks Your Language</h3>
-            <p class="text-sm text-slate-300 leading-relaxed mb-3">Available in 21 languages. The app feels native wherever you are.</p>
-            <p class="text-xs text-slate-400 leading-relaxed">English, Español, Français, Deutsch, Italiano, Português (BR), Português (PT), Русский, 中文 (简体), 中文 (繁體), 日本語, 한국어, Nederlands, Polski, Türkçe, Indonesia, Tiếng Việt, ไทย, Українська, Svenska, Norsk, Dansk, Suomi</p>
+            <h3 class="text-base font-semibold text-white leading-tight">Speaks Your Language</h3>
           </div>
+            <p class="text-sm text-slate-300 leading-relaxed mb-3">Available in 15 languages. The app feels native wherever you are.</p>
+            <p class="text-xs text-slate-400 leading-relaxed">English, Español, Français, Deutsch, Italiano, Português (BR), Português (PT), Русский, 中文 (简体), 日本語, 한국어, Nederlands, Indonesia, ไทย, Українська, Svenska, Dansk</p>
         </div>
 
         <!-- Feature 6 -->
-        <div class="glass-card rounded-2xl p-6 sm:p-8 flex flex-col gap-4">
-          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-blue-300">
+        <div class="glass-card rounded-2xl p-6 sm:p-8">
+          <div class="flex items-center gap-3 mb-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z" />
             </svg>
           </div>
-          <div>
-            <h3 class="text-lg font-semibold text-white mb-2">Let the App Do the Typing</h3>
-            <p class="text-sm text-slate-300 leading-relaxed">Instant date detection saves you from tedious data entry. Fast, convenient, and kept 100% private on your phone.</p>
+            <h3 class="text-base font-semibold text-white leading-tight">Let the App Do the Typing</h3>
           </div>
+            <p class="text-sm text-slate-300 leading-relaxed">Instant date detection saves you from tedious data entry. Fast, convenient, and kept 100% private on your phone.</p>
         </div>
 
         <!-- Feature 7 -->
-        <div class="glass-card rounded-2xl p-6 sm:p-8 flex flex-col gap-4">
-          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold">
+        <div class="glass-card rounded-2xl p-6 sm:p-8">
+          <div class="flex items-center gap-3 mb-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
             </svg>
           </div>
-          <div>
-            <h3 class="text-lg font-semibold text-white mb-2">Your Private Vault</h3>
-            <p class="text-sm text-slate-300 leading-relaxed">What happens on your phone, stays on your phone. No cloud servers. No prying eyes. Just you.</p>
+            <h3 class="text-base font-semibold text-white leading-tight">Your Private Vault</h3>
           </div>
+            <p class="text-sm text-slate-300 leading-relaxed">What happens on your phone, stays on your phone. No cloud servers. No prying eyes. Just you.</p>
         </div>
 
         <!-- Feature 8 -->
-        <div class="glass-card rounded-2xl p-6 sm:p-8 flex flex-col gap-4">
-          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-blue-300">
+        <div class="glass-card rounded-2xl p-6 sm:p-8">
+          <div class="flex items-center gap-3 mb-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M18.364 5.636a9 9 0 010 12.728m0 0l-2.829-2.829m2.829 2.829L21 21M15.536 8.464a5 5 0 010 7.072m0 0l-2.829-2.829m-4.243 2.829a4.978 4.978 0 01-1.414-2.83m-1.414 5.658a9 9 0 01-2.167-9.238m7.824 2.167a1 1 0 111.414 1.414m-1.414-1.414L3 3m8.293 8.293l1.414 1.414" />
             </svg>
           </div>
-          <div>
-            <h3 class="text-lg font-semibold text-white mb-2">Always There When You Need It</h3>
-            <p class="text-sm text-slate-300 leading-relaxed">Spotty airport Wi-Fi? No problem. Your documents are available instantly, whichever country you're in. Works seamlessly in airplane mode.</p>
+            <h3 class="text-base font-semibold text-white leading-tight">Always There When You Need It</h3>
           </div>
+            <p class="text-sm text-slate-300 leading-relaxed">Spotty airport Wi-Fi? No problem. Your documents are right there on your screen, whichever country you're in. Works fully offline in airplane mode.</p>
         </div>
 
         <!-- Feature 9 -->
-        <div class="glass-card rounded-2xl p-6 sm:p-8 flex flex-col gap-4">
-          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-blue-300">
+        <div class="glass-card rounded-2xl p-6 sm:p-8">
+          <div class="flex items-center gap-3 mb-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
             </svg>
           </div>
-          <div>
-            <h3 class="text-lg font-semibold text-white mb-2">Respecting Your Privacy</h3>
-            <p class="text-sm text-slate-300 leading-relaxed">We don't want your data. We don't sell ads. We just want to help you travel better.</p>
+            <h3 class="text-base font-semibold text-white leading-tight">Respecting Your Privacy</h3>
           </div>
+            <p class="text-sm text-slate-300 leading-relaxed">We don't want your data. We don't sell ads. We just want to help you travel better.</p>
         </div>
 
       </div>
 
       <!-- More Features Link -->
-      <div class="text-center mt-3 space-y-2">
+      <div class="text-center mt-8 space-y-2">
         <a href="features/" class="inline-flex items-center gap-2 text-brand-gold hover:text-brand-goldHover font-medium transition-colors">
           See all features
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -798,6 +890,10 @@
               <svg class="h-4 w-4 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
               <span>Up to 5 documents</span>
             </li>
+            <li class="flex items-center gap-3 text-slate-300">
+              <svg class="h-4 w-4 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+              <span>Recently deleted - 30-day undo window</span>
+            </li>
           </ul>
           <p class="text-xs text-slate-400 pb-2">All data stays on your device. Always.</p>
         </div>
@@ -818,6 +914,22 @@
           <p class="text-[10px] text-slate-300 mb-4"><a href="pricing-policy/#version-policy" class="text-brand-gold hover:text-white underline">About our version policy →</a></p>
 
           <ul class="space-y-3 mb-6 text-sm">
+            <li class="flex items-center gap-3 text-white">
+              <svg class="h-4 w-4 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+              <span>Trip planner with family readiness traffic light</span>
+            </li>
+            <li class="flex items-center gap-3 text-white">
+              <svg class="h-4 w-4 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+              <span>Your Own Cloud backup (iCloud or Google Drive, end-to-end encrypted)</span>
+            </li>
+            <li class="flex items-center gap-3 text-white">
+              <svg class="h-4 w-4 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+              <span>Days-abroad tracker for tax days and visa limits</span>
+            </li>
+            <li class="flex items-center gap-3 text-white">
+              <svg class="h-4 w-4 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
+              <span>Country day-limit allowances per family member</span>
+            </li>
             <li class="flex items-center gap-3 text-white">
               <svg class="h-4 w-4 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" /></svg>
               <span>Every family member, one vault</span>
@@ -908,6 +1020,12 @@
               </svg>
               <span>Up to 5 documents</span>
             </li>
+            <li class="flex items-center gap-3 text-slate-300">
+              <svg class="h-5 w-5 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+              </svg>
+              <span>Recently deleted - 30-day undo window</span>
+            </li>
           </ul>
           <p class="text-xs text-slate-400 mb-8">All data stays on your device. Always.</p>
         </div>
@@ -940,6 +1058,30 @@
           <p class="text-slate-200 text-sm mb-4 font-medium">Everything in Free, plus:</p>
 
           <ul class="space-y-3 mb-8 flex-1">
+            <li class="flex items-center gap-3 text-slate-300">
+              <svg class="h-5 w-5 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+              </svg>
+              <span class="text-white font-medium">Trip planner with family readiness traffic light</span>
+            </li>
+            <li class="flex items-center gap-3 text-slate-300">
+              <svg class="h-5 w-5 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+              </svg>
+              <span class="text-white font-medium">Your Own Cloud backup (iCloud or Google Drive, end-to-end encrypted)</span>
+            </li>
+            <li class="flex items-center gap-3 text-slate-300">
+              <svg class="h-5 w-5 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+              </svg>
+              <span class="text-white font-medium">Days-abroad tracker for tax days and visa limits</span>
+            </li>
+            <li class="flex items-center gap-3 text-slate-300">
+              <svg class="h-5 w-5 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+              </svg>
+              <span class="text-white font-medium">Country day-limit allowances per family member</span>
+            </li>
             <li class="flex items-center gap-3 text-slate-300">
               <svg class="h-5 w-5 text-brand-gold flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
@@ -995,7 +1137,7 @@
     <section class="md:hidden px-4 space-y-6">
       <h2 class="text-2xl font-bold text-white text-center mb-6">Common Questions</h2>
 
-      <details class="glass-panel rounded-xl group" open>
+      <details class="glass-panel rounded-2xl group" open>
         <summary class="flex items-center justify-between p-4 cursor-pointer list-none">
           <span class="font-medium text-white">Is it really private?</span>
           <span class="transition group-open:rotate-180">
@@ -1007,7 +1149,7 @@
         </div>
       </details>
 
-      <details class="glass-panel rounded-xl group">
+      <details class="glass-panel rounded-2xl group">
         <summary class="flex items-center justify-between p-4 cursor-pointer list-none">
           <span class="font-medium text-white">What if I lose my phone?</span>
           <span class="transition group-open:rotate-180">
@@ -1015,7 +1157,31 @@
           </span>
         </summary>
         <div class="text-slate-200 text-sm px-4 pb-4 leading-relaxed">
-          Your vault is stored on your device. If you switch phones, restore using your usual phone backup.
+          Your vault stays on your device, encrypted with a key that never leaves it. A regular phone backup reinstalls the app but cannot restore your documents. To move to a new phone, turn on Your Own Cloud backup (Pro) for one-tap restore, or use the free Vault Export.
+        </div>
+      </details>
+
+      <details class="glass-panel rounded-2xl group">
+        <summary class="flex items-center justify-between p-4 cursor-pointer list-none">
+          <span class="font-medium text-white">Can I sync between devices?</span>
+          <span class="transition group-open:rotate-180">
+            <svg fill="none" class="h-5 w-5 text-brand-gold" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+          </span>
+        </summary>
+        <div class="text-slate-200 text-sm px-4 pb-4 leading-relaxed">
+          Yes. With Pro, turn on Your Own Cloud backup to sync your encrypted vault to your iCloud or Google Drive. You hold the recovery code. We never access your data.
+        </div>
+      </details>
+
+      <details class="glass-panel rounded-2xl group">
+        <summary class="flex items-center justify-between p-4 cursor-pointer list-none">
+          <span class="font-medium text-white">What is the trip planner?</span>
+          <span class="transition group-open:rotate-180">
+            <svg fill="none" class="h-5 w-5 text-brand-gold" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+          </span>
+        </summary>
+        <div class="text-slate-200 text-sm px-4 pb-4 leading-relaxed">
+          The trip planner groups family documents by trip and shows a readiness traffic light - green when everyone is ready, amber if someone's passport is expiring soon. Plan trips together with confidence.
         </div>
       </details>
 
@@ -1030,7 +1196,7 @@
     </section>
 
     <!-- Disclaimer -->
-    <section class="scroll-fade-in">
+    <section>
       <div class="glass-panel rounded-2xl p-6 sm:p-8 text-center max-w-3xl mx-auto">
         <p class="text-slate-50 text-sm leading-relaxed">
           <strong class="text-slate-200">Important:</strong> Travel Document Vault is a personal organization tool for storing digital copies of your documents. <strong class="text-slate-200">Digital copies stored in this app are NOT valid for travel.</strong> It does not verify document authenticity or provide legal or travel advice. Always carry original documents and verify all travel requirements with official government sources.

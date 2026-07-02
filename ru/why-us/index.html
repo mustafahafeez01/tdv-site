@@ -68,7 +68,7 @@
       {
         "@type": "Question",
         "name": "Что произойдёт, если я потеряю телефон?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Документы хранятся на вашем устройстве, поэтому стандартное резервное копирование (iCloud или Google Backup) включает их. При восстановлении на новый телефон хранилище переносится вместе с ним. Пользователи Pro могут также создавать зашифрованные резервные копии в любой момент." }
+        "acceptedAnswer": { "@type": "Answer", "text": "Документы хранятся на вашем устройстве. Системное резервное копирование (iCloud или Google Backup) переустановит приложение, но не восстановит ваши документы, потому что ключ шифрования никогда не покидает ваше устройство. Все пользователи могут экспортировать зашифрованный файл .tdvault. Пользователи Pro могут включить облачное резервное копирование для синхронизации с вашим собственным iCloud или Google Drive, защищённое кодом восстановления." }
       },
       {
         "@type": "Question",
@@ -93,6 +93,27 @@
     ]
   }
   </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "Travel Document Vault",
+    "description": "Офлайн-менеджер паспортов, виз и удостоверений. Шифрование AES-256, без учётных записей, без серверов.",
+    "url": "https://traveldocumentvault.com",
+    "applicationCategory": "Productivity",
+    "operatingSystem": "iOS, Android",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD",
+      "name": "Free tier"
+    },
+    "author": {
+      "@type": "Organization",
+      "name": "Mustafa Hafeez"
+    }
+  }
+  </script>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -113,6 +134,7 @@
     .nav-link:hover::after { width: 100%; }
     .pricing-highlight { background: linear-gradient(145deg, rgba(255,176,0,0.15) 0%, rgba(255,176,0,0.05) 100%); border: 2px solid rgba(255,176,0,0.3); }
     .pricing-highlight:hover { border-color: rgba(255,176,0,0.5); background: linear-gradient(145deg, rgba(255,176,0,0.2) 0%, rgba(255,176,0,0.08) 100%); }
+    .pro-badge { background: linear-gradient(135deg, #FFB000 0%, #e69f00 100%); }
     .scroll-fade-in { opacity: 0; transform: translateY(30px); transition: opacity 0.6s ease-out, transform 0.6s ease-out; }
     .scroll-fade-in.visible { opacity: 1; transform: translateY(0); }
     .stagger-children > * { opacity: 0; transform: translateY(20px); transition: opacity 0.5s ease-out, transform 0.5s ease-out; }
@@ -143,10 +165,10 @@
     /* Screenshot carousel - gold standard */
     .carousel-stage {
       position: relative;
-      height: calc(80vw * 2.17 + 70px);
+      height: calc(80vw * 2.17 + 130px);
     }
-    @media (min-width: 640px) { .carousel-stage { height: 770px; } }
-    @media (min-width: 1024px) { .carousel-stage { height: 870px; } }
+    @media (min-width: 640px) { .carousel-stage { height: 860px; } }
+    @media (min-width: 1024px) { .carousel-stage { height: 960px; } }
 
     .carousel-slide {
       position: absolute;
@@ -167,19 +189,16 @@
       opacity: 0;
     }
 
-    /* Phone image: width-driven sizing, crisp rendering */
+    /* Phone image: width-driven sizing */
     .carousel-slide img {
       display: block;
       width: 80vw;
       height: auto;
       max-width: 360px;
       flex-shrink: 0;
-      image-rendering: -webkit-optimize-contrast;
-      image-rendering: crisp-edges;
-      transform: translateZ(0);
-      -webkit-transform: translateZ(0);
-      backface-visibility: hidden;
-      -webkit-backface-visibility: hidden;
+      image-rendering: auto;
+      border-radius: 28px;
+      overflow: hidden;
     }
     @media (min-width: 640px) { .carousel-slide img { width: 340px; max-width: 340px; } }
     @media (min-width: 1024px) { .carousel-slide img { width: 400px; max-width: 400px; } }
@@ -188,15 +207,15 @@
     .carousel-label-title {
       margin-top: 0;
       margin-bottom: 2px;
-      font-size: 1.5rem;
+      font-size: 1.15rem;
       font-weight: 700;
       letter-spacing: -0.01em;
       line-height: 1.2;
       color: #FFB000;
       text-align: center;
     }
-    @media (min-width: 640px)  { .carousel-label-title { font-size: 1.75rem; } }
-    @media (min-width: 1024px) { .carousel-label-title { font-size: 2rem;    } }
+    @media (min-width: 640px)  { .carousel-label-title { font-size: 1.35rem; } }
+    @media (min-width: 1024px) { .carousel-label-title { font-size: 1.5rem;  } }
 
     .carousel-label-sub {
       margin-top: 0;
@@ -359,8 +378,8 @@
         Приватность прежде всего. Только на устройстве. Без аккаунтов.
       </div>
       <h1 id="hero-heading" class="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-[1.1] mb-8">
-        Сколько времени вы тратите<br class="hidden sm:block">
-        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">на поиск документов?</span>
+        Всегда готовы,<br class="hidden sm:block">
+        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">когда они вам нужны</span>
       </h1>
       <p class="text-blue-100/90 text-lg sm:text-xl leading-relaxed max-w-2xl mx-auto mb-6">
         Стойки иммиграционного контроля. Визовые заявки. Страховые анкеты. <strong class="text-white">Каждый поиск по фотоплёнке добавляет стресс, который вам не нужен.</strong>
@@ -379,6 +398,33 @@
           </a>
         </div>
         <span class="text-slate-50 text-sm font-medium">Платите один раз. Все обновления v1.x включены навсегда.</span>
+        <p class="text-blue-200/70 text-xs max-w-md mt-2">Создано человеком, которому это требовалось для своей семьи. Без венчурных инвесторов, без акционеров, без рекламных сетей. Я несу ответственность перед одним человеком: перед тобой.</p>
+      </div>
+    </section>
+
+    <!-- Founder Story - Section 2 -->
+    <section aria-labelledby="founder-heading" class="scroll-fade-in text-center max-w-3xl mx-auto pt-24 md:pt-32">
+      <div class="glass-panel rounded-2xl p-8 sm:p-10">
+        <div class="flex items-start gap-4 mb-6 justify-center">
+          <div class="h-16 w-16 rounded-full bg-gradient-to-br from-brand-gold to-brand-blue p-[2px] flex-shrink-0">
+            <div class="h-full w-full rounded-full bg-[#0A192F] flex items-center justify-center text-base font-bold text-white">
+              MH
+            </div>
+          </div>
+          <div class="text-left">
+            <p class="text-white font-semibold text-lg">Mustafa Hafeez</p>
+            <p class="text-slate-400 text-sm">Создал Travel Document Vault для своей семьи</p>
+          </div>
+        </div>
+        <blockquote class="text-slate-200 text-lg sm:text-xl leading-relaxed mb-6">
+          "Каждая семейная поездка превращалась в охоту за документами по фото, почте и Диску. Я создал это, чтобы следующая поездка не была такой."
+        </blockquote>
+        <p class="text-blue-200/70 text-base leading-relaxed mb-4">
+          Никакого венчурного капитала. Без акционеров. Без рекламных сетей. Просто родитель, который устал от одной и той же паники каждый раз перед поездкой.
+        </p>
+        <a href="/ru/blog/why-i-built-travel-document-vault/" class="text-brand-gold hover:text-brand-gold transition-colors font-semibold inline-flex items-center gap-2">
+          Прочитайте полную историю →
+        </a>
       </div>
     </section>
 
@@ -395,99 +441,71 @@
           <p class="text-brand-gold text-sm font-semibold uppercase tracking-wider mb-4">На стойке</p>
           <p class="text-slate-100 text-base leading-relaxed">Паспортный контроль. Офицер просит вашу визу.</p>
           <p class="text-slate-300 text-base leading-relaxed mt-3">А что если можно открыть одно приложение и сразу её показать? Без поиска. Без переключения приложений. Мгновенный доступ.</p>
+          <p class="text-blue-200/70 text-xs mt-4 font-medium">Если это про вас: командировочный, цифровой кочевник или часто летающий пассажир.</p>
         </li>
         <li class="glass-panel rounded-2xl p-8 sm:p-10 border-l-4 border-brand-gold">
           <p class="text-brand-gold text-sm font-semibold uppercase tracking-wider mb-4">Ловушка срока действия</p>
           <p class="text-slate-100 text-base leading-relaxed">Ваш паспорт истекает в следующем году. Времени навалом, верно?</p>
           <p class="text-slate-300 text-base leading-relaxed mt-3">Нет. Для въезда в Шенгенскую зону паспорт должен быть выдан не более 10 лет назад, а многие страны требуют 6-месячный запас действия. Авиакомпании проверяют это по базам IATA Timatic прямо у стойки. Простой проверки срока недостаточно.</p>
+          <p class="text-blue-200/70 text-xs mt-4 font-medium">Если это про вас: частый путешественник, налоговый резидент нескольких стран.</p>
         </li>
         <li class="glass-panel rounded-2xl p-8 sm:p-10 border-l-4 border-brand-gold">
           <p class="text-brand-gold text-sm font-semibold uppercase tracking-wider mb-4">Хаос продления</p>
           <p class="text-slate-100 text-base leading-relaxed">Приходит уведомление о продлении. Вы понятия не имеете, когда последний раз продлевали, какие документы нужны и не истекают ли паспорта детей одновременно.</p>
+          <p class="text-blue-200/70 text-xs mt-4 font-medium">Если это про вас: родитель, опекун или организатор семейных поездок.</p>
         </li>
         <li class="glass-panel rounded-2xl p-8 sm:p-10 border-l-4 border-brand-gold">
           <p class="text-brand-gold text-sm font-semibold uppercase tracking-wider mb-4">Всё вместе</p>
           <p class="text-slate-100 text-base leading-relaxed mb-3">Паспорт. Виза. Водительское удостоверение. Страховка. Авиабилеты. Документы детей.</p>
           <p class="text-slate-300 text-base leading-relaxed">Всё в одном месте. У вас под рукой. Готово когда нужно.</p>
+          <p class="text-blue-200/70 text-xs mt-4 font-medium">Если это про вас: организованный человек, которому просто нужно надёжное приложение.</p>
         </li>
       </ul>
     </section>
 
     <!-- SECTION 3: Alternatives -->
-    <section aria-labelledby="alternatives-heading" class="scroll-fade-in">
-      <h2 id="alternatives-heading" class="text-2xl sm:text-3xl font-bold text-white text-center mb-4">Что вы, скорее всего, используете сейчас</h2>
-      <p class="text-blue-200/80 text-center mb-10 max-w-xl mx-auto">Всё это разумные варианты. Каждый работает, до определённого момента.</p>
+    <section aria-labelledby="alternatives-heading" class="scroll-fade-in pt-8">
+      <h2 id="alternatives-heading" class="text-2xl sm:text-3xl font-bold text-white text-center mb-4">Что вы, вероятно, уже используете</h2>
+      <p class="text-blue-200/80 text-center mb-10 max-w-xl mx-auto">Это разумные варианты. Каждый работает, но только до определённого предела.</p>
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 max-w-5xl mx-auto stagger-children">
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Универсальные хранилища</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Что хорошо:</strong> Высокая безопасность и офлайн-доступ.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Недостатки:</strong> Они обращаются с паспортом как с товарным чеком и не имеют логики для путешествий. Мы создали приложение специально для путешественников: щедрый бесплатный уровень на 5 документов и простая разовая цена $9.99 без каких-либо подписок.</p>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Плюсы:</strong> Высокая безопасность и офлайн-доступ.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Минусы:</strong> Они рассматривают паспорт как обычный документ и не имеют специальной логики для путешествий. Мы создали приложение именно для путешественников: щедрый бесплатный уровень с 5 документами и простая разовая цена $9.99 без повторяющихся платежей.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">Фотоплёнка / Фото</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Что хорошо:</strong> Всегда с вами.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Недостатки:</strong> Теряется в тысячах фото, без отслеживания сроков, без организации и без защиты кроме блокировки экрана.</p>
+          <h3 class="text-white font-semibold mb-3">Фотоальбом / Фото</h3>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Плюсы:</strong> Всегда с вами.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Минусы:</strong> Затеряно среди тысяч фотографий без отслеживания сроков действия, без организации и без безопасности кроме блокировки телефона.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Облачное хранилище</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Что хорошо:</strong> Есть офлайн-режим и синхронизация между устройствами.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Недостатки:</strong> Вы храните паспорт, проверяете дату, переключаетесь в календарь для напоминания, потом вспоминаете, в какой папке документы супруга. Три приложения вместо одного, и ни одно из них не знает, что перед ним паспорт с датой истечения.</p>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Плюсы:</strong> Есть офлайн-режим и синхронизация между устройствами.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Минусы:</strong> Вы сохраняете паспорт, проверяете дату истечения, переключаетесь на приложение календаря для напоминания, потом вспоминаете, в какой папке документы супруга. Три приложения делают работу одного, и ни одно из них не знает, что это паспорт с датой истечения.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Менеджеры паролей</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Что хорошо:</strong> Отличны для паролей.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Недостатки:</strong> Не предназначены для хранения фотографий документов, отслеживания сроков или организации для семьи. Фото паспорта в поле пароля, это костыль, а не решение.</p>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Плюсы:</strong> Отлично подходят для паролей.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Минусы:</strong> Не предназначены для изображений документов, отслеживания сроков действия или организации семейных документов. Фото паспорта в поле пароля - это обходной путь, а не решение.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Приложения для заметок</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Что хорошо:</strong> Гибкие и привычные.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Недостатки:</strong> Нет напоминаний о сроках, нет наведённого захвата, и фото паспорта лежит рядом со списком покупок без шифрования.</p>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Плюсы:</strong> Гибкие и знакомые.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Минусы:</strong> Нет напоминаний о сроках действия, нет наведённого захвата, и фото паспорта лежит рядом со списком покупок без шифрования.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">Бумажные папки</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Что хорошо:</strong> Надёжны дома.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Недостатки:</strong> Бесполезны в аэропорту другой страны. А бумага не отправит напоминание за шесть месяцев до истечения срока.</p>
+          <h3 class="text-white font-semibold mb-3">Электронные таблицы</h3>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Плюсы:</strong> Отличны для планирования маршрутов и ввода деталей.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Минусы:</strong> Нет защищённых вложений, ужасное форматирование на мобильных экранах в аэропорту, и нет автоматических напоминаний о сроках действия перед поездкой.</p>
         </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">«Я запомню»</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Что хорошо:</strong> Иногда работает.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Недостатки:</strong> Пока не перестаёт. А обычно это происходит ночью перед рейсом, когда уже ничего не исправить.</p>
-        </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">Таблицы</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Что хорошо:</strong> Отлично для планирования маршрутов и ввода данных.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Недостатки:</strong> Нет защищённых вложений с изображениями, плохо читаются на экране телефона в аэропорту и нет автоматических напоминаний о сроках перед поездкой.</p>
-        </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">Приложения авиакомпаний</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Что хорошо:</strong> Удобны для конкретного рейса, которым вы летите сегодня.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Недостатки:</strong> Они забывают ваши данные между поездками, не отслеживают визы и совершенно бесполезны, когда нужно предъявить удостоверение в отеле или арендовать автомобиль.</p>
-        </div>
-      </div>
-      <!-- Founder Quote with Attribution -->
-      <div class="glass-panel rounded-2xl p-6 sm:p-8 mt-8 max-w-3xl mx-auto scroll-fade-in">
-        <div class="flex items-start gap-4 mb-4">
-          <div class="h-12 w-12 rounded-full bg-gradient-to-br from-brand-gold to-brand-blue p-[2px] flex-shrink-0">
-            <div class="h-full w-full rounded-full bg-[#0A192F] flex items-center justify-center text-sm font-bold text-white">
-              MH
-            </div>
-          </div>
-          <div>
-            <p class="text-white font-semibold">Mustafa Hafeez</p>
-            <p class="text-slate-400 text-sm">Основатель, Travel Document Vault</p>
-          </div>
-        </div>
-        <blockquote class="text-slate-200 text-base sm:text-lg leading-relaxed italic">
-          «Я сам использовал большинство из этих вариантов. Фотоплёнка. Общий диск. Подход «просто запомню». Вот чего мне постоянно не хватало.»
-        </blockquote>
       </div>
     </section>
 
     <!-- Comparison Table -->
     <section aria-labelledby="comparison-heading" class="scroll-fade-in">
       <div class="text-center mb-10">
-        <h2 id="comparison-heading" class="text-3xl sm:text-4xl font-bold text-white mb-4">Как мы выглядим в сравнении</h2>
-        <p class="text-blue-200/70 text-base max-w-xl mx-auto">Каждый альтернативный вариант хорошо справляется с одним-двумя пунктами. Только один охватывает их все.</p>
+        <h2 id="comparison-heading" class="text-3xl sm:text-4xl font-bold text-white mb-4">Как это выглядит в сравнении</h2>
+        <p class="text-blue-200/70 text-base max-w-xl mx-auto">Каждая альтернатива хороша в одном-двух аспектах. Только одна делает всё.</p>
       </div>
 
       <div class="overflow-x-auto rounded-2xl">
@@ -545,11 +563,32 @@
               <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
             </tr>
             <tr style="background:rgba(17,25,40,0.5)">
-              <td class="px-5 py-4 text-slate-200 font-medium">Без подписки</td>
-              <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span><span class="block text-[10px] text-slate-400 mt-0.5">$9.99 разово</span></td>
-              <td class="px-5 py-4 text-center"><span class="text-green-400 text-base">✓</span></td>
-              <td class="px-5 py-4 text-center"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">Бесплатно, но с рекламой</span></td>
-              <td class="px-5 py-4 text-center"><span class="text-red-400 text-base">✗</span><span class="block text-[10px] text-slate-400 mt-0.5">$36/год+</span></td>
+              <td class="px-5 py-4 text-slate-200 font-medium" style="border-bottom:1px solid rgba(255,255,255,0.05)">Без подписки</td>
+              <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-bottom:1px solid rgba(255,176,0,0.15);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span><span class="block text-[10px] text-slate-400 mt-0.5">$9.99 разово</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-green-400 text-base">✓</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">Бесплатно, но с рекламой</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span><span class="block text-[10px] text-slate-400 mt-0.5">$36/год+</span></td>
+            </tr>
+            <tr style="background:rgba(10,25,47,0.5)">
+              <td class="px-5 py-4 text-slate-200 font-medium" style="border-bottom:1px solid rgba(255,255,255,0.05)">Чек-лист планировщика поездок <span class="text-[10px] text-slate-500">(на поездку)</span></td>
+              <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-bottom:1px solid rgba(255,176,0,0.15);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span><span class="block text-[10px] text-slate-400 mt-0.5">Да</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
+            </tr>
+            <tr style="background:rgba(17,25,40,0.5)">
+              <td class="px-5 py-4 text-slate-200 font-medium" style="border-bottom:1px solid rgba(255,255,255,0.05)">Учёт Шенгена / налогового резидентства</td>
+              <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-bottom:1px solid rgba(255,176,0,0.15);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span><span class="block text-[10px] text-slate-400 mt-0.5">Дни за границей</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
+            </tr>
+            <tr style="background:rgba(10,25,47,0.5)">
+              <td class="px-5 py-4 text-slate-200 font-medium">Шифрованная синхронизация (ваше собственное облако)</td>
+              <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span><span class="block text-[10px] text-slate-400 mt-0.5">Ваш iCloud / Google Drive</span></td>
+              <td class="px-5 py-4 text-center"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">Только Apple ID</span></td>
+              <td class="px-5 py-4 text-center"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">Только Google Drive/Dropbox</span></td>
+              <td class="px-5 py-4 text-center"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">Их серверы</span></td>
             </tr>
           </tbody>
         </table>
@@ -584,7 +623,7 @@
         <div class="bg-brand-gold/20 border-l-4 border-brand-gold rounded-lg p-6">
           <p class="text-white text-lg font-bold mb-4">Всё остаётся на вашем устройстве. Точка.</p>
           <p class="text-slate-200 text-base leading-relaxed mb-4">
-            Отсутствие облачной синхронизации, это намеренная функция безопасности. Нет облака. Нет аккаунтов. Ваши документы никогда не касаются серверов третьих сторон.
+            Облачная синхронизация отключена по умолчанию. Если вы её включите (Pro), ваш сейф шифруется на вашем устройстве перед загрузкой и переходит на вашу собственную iCloud или Google Drive, запечатанную кодом восстановления, который есть только у вас. Никто – ни мы, ни Apple, ни Google – не может его прочитать. Это обещание обеспечено кодом, а не политикой.
           </p>
           <p class="text-slate-300 text-sm">
             Шифрование AES-256-GCM в состоянии покоя. Зашифрованные резервные копии используют деривацию ключа PBKDF2. <a href="/privacy-policy/" class="text-brand-gold hover:text-yellow-300 transition-colors underline">Полная политика конфиденциальности</a>
@@ -601,7 +640,7 @@
           <h3 class="text-xl font-bold text-white mb-4">Напоминания о сроках за месяцы вперёд</h3>
 
           <p class="text-slate-300 text-base leading-relaxed mb-4">
-            Продление паспорта занимает 6–8 недель. <strong class="text-white">Напоминания начинаются за 6 месяцев</strong> и автоматически каскадируются.
+            Продление паспорта занимает 6–8 недель. <strong class="text-white">Напоминания начинаются за 8 месяцев</strong> и автоматически каскадируются.
           </p>
 
           <p class="text-slate-300 text-base leading-relaxed mb-4">
@@ -694,6 +733,106 @@
       </div>
     </section>
 
+    <!-- v1.2 FEATURES -->
+    <section class="scroll-fade-in max-w-5xl mx-auto px-4 sm:px-6 pt-8">
+      <div class="text-center mb-10">
+        <h2 class="text-3xl sm:text-4xl font-bold text-white mb-4">Создано для семей. Все функции, в одном месте.</h2>
+        <p class="text-blue-200/70 text-base max-w-xl mx-auto">Современные функции для современных путешествий.</p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+        <!-- Trip Planner -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+            </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Все готовы, с одного взгляда</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Светофор готовности семьи. Видите, кто готов к поездке.</p>
+        </div>
+
+        <!-- Your Own Cloud -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M9 19l3 3m0 0l3-3m-3 3v-6" />
+            </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Ваше облако. Ваш ключ.</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Резервная копия со сквозным шифрованием в ваш iCloud или Google Drive.</p>
+        </div>
+
+        <!-- Days Abroad -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+            </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Отслеживайте дни за границей</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Учитывайте дни, проведенные в любой стране. Устанавливайте пользовательские лимиты дней и следите за правилами виз.</p>
+        </div>
+
+        <!-- Trip Allowances -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Custom Country Day-Limits</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Установка правил по лимитам дней для каждой страны по членам семьи.</p>
+        </div>
+
+        <!-- Recently Deleted -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
+            </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Отмена в течение 30 дней</h3>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Случайно удалили. Восстановите в любое время.</p>
+        </div>
+
+        <!-- Family Profiles -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
+            </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Every Family Member</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Отдельные профили. Документы каждого человека организованы на их личной странице.</p>
+        </div>
+      </div>
+      <div class="text-center mt-12 scroll-fade-in">
+        <p class="text-white text-lg font-semibold mb-4">Бесплатный старт. Обновление в любой момент.</p>
+        <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+          <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'ios', 'source_page': window.location.pathname, 'source_section': 'why_us_cta'});" class="group relative inline-flex items-center transition-transform active:scale-95"><img loading="lazy" src="/assets/images/app-store-badge-black.svg" alt="Загрузите в App Store" class="relative h-[56px] w-auto" width="120" height="40" /></a>
+          <a href="https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'android', 'source_page': window.location.pathname, 'source_section': 'why_us_cta'});" class="group relative inline-flex items-center transition-transform active:scale-95"><img loading="lazy" src="/assets/images/google-play-badge.svg" alt="Доступно в Google Play" class="relative h-[56px] w-auto" width="135" height="40" /></a>
+        </div>
+      </div>
+    </section>
+
     <!-- SCREENSHOT CAROUSEL SHOWCASE (hidden on very small screens) -->
     <section aria-label="App screenshots" class="scroll-fade-in hidden xs:block" style="display: none;">
     <style>@media (min-width: 390px) { section[aria-label="App screenshots"] { display: block !important; } }</style>
@@ -711,7 +850,7 @@
 
           <!-- Left arrow: absolute, centered on image (label ~60px tall) -->
           <button id="carousel-prev" class="carousel-arrow carousel-arrow-mobile" aria-label="Предыдущий скриншот" aria-disabled="true"
-                  style="position: absolute; left: 0; top: calc(60px + (100% - 60px) / 2); transform: translateY(-50%) translateX(-50%); z-index: 10;">
+                  style="position: absolute; left: 0; top: calc(110px + (100% - 110px) / 2); transform: translateY(-50%) translateX(-50%); z-index: 10;">
             <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
             </svg>
@@ -728,64 +867,68 @@
 
           <!-- Screenshot 1 -->
           <div class="carousel-slide is-active" role="group" aria-label="Скриншот 1 из 6" aria-roledescription="слайд">
-            <p class="carousel-label-title">Одно хранилище.</p>
-            <p class="carousel-label-sub">Для всех ваших документов</p>
-            <img src="/assets/images/screenshots-appstore/01.png"
+            <p class="carousel-label-title">Знайте, кто готов, перед отъездом</p>
+            <p class="carousel-label-sub">Мгновенно проверьте статус документов каждого</p>
+            <img src="../../assets/images/screenshots-appstore/01.webp"
                  decoding="async"
-                 alt="Список документов с семейными профилями и датами истечения"
+                 alt="App home screen showing all travel documents ready at a glance"
                  class="loaded"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 2 -->
           <div class="carousel-slide" role="group" aria-label="Скриншот 2 из 6" aria-roledescription="слайд">
-            <p class="carousel-label-title">Все документы.</p>
-            <p class="carousel-label-sub">Паспорта, визы, удостоверения и многое другое</p>
-            <img src="/assets/images/screenshots-appstore/04.png"
+            <p class="carousel-label-title">Готовы к поездке</p>
+            <p class="carousel-label-sub">Каждый человек, каждый документ проверен</p>
+            <img src="../../assets/images/screenshots-appstore/02.webp"
                  decoding="async"
-                 alt="Типы документов: паспорт, виза, удостоверение, авиабилет"
+                 alt="Trip readiness view confirming all documents are valid and up to date"
                  class="loaded"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 3 -->
           <div class="carousel-slide" role="group" aria-label="Скриншот 3 из 6" aria-roledescription="слайд">
-            <p class="carousel-label-title">Не пропустите продление.</p>
-            <p class="carousel-label-sub">Умные напоминания за месяцы вперёд</p>
-            <img data-src="/assets/images/screenshots-appstore/02.png"
+            <p class="carousel-label-title">Профиль путешественника для каждого</p>
+            <p class="carousel-label-sub">Документы, поездки, напоминания вместе</p>
+            <img src="../../assets/images/screenshots-appstore/03.webp"
                  decoding="async"
-                 alt="Умные напоминания, уведомление за 6 недель"
-                 width="1260" height="2736" />
+                 alt="Family profiles showing documents for every member in one place"
+                 class="loaded"
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 4 -->
           <div class="carousel-slide" role="group" aria-label="Скриншот 4 из 6" aria-roledescription="слайд">
-            <p class="carousel-label-title">Ваша семья. Под защитой.</p>
-            <p class="carousel-label-sub">Один профиль на каждого члена семьи</p>
-            <img data-src="/assets/images/screenshots-appstore/03.png"
+            <p class="carousel-label-title">Оставшиеся дни в каждой стране</p>
+            <p class="carousel-label-sub">Отслеживайте время каждого за рубежом</p>
+            <img src="../../assets/images/screenshots-appstore/04.webp"
                  decoding="async"
-                 alt="Семейные профили для Emma, Lucas, Oliver и Sophie"
-                 width="1260" height="2736" />
+                 alt="Visa tracker showing days remaining in each country for each traveller"
+                 class="loaded"
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 5 -->
           <div class="carousel-slide" role="group" aria-label="Скриншот 5 из 6" aria-roledescription="слайд">
-            <p class="carousel-label-title">Каждая деталь. Зафиксирована.</p>
-            <p class="carousel-label-sub">Фото, даты и заметки</p>
-            <img data-src="/assets/images/screenshots-appstore/05.png"
+            <p class="carousel-label-title">Всегда на шаг впереди</p>
+            <p class="carousel-label-sub">Напоминания до того, как они понадобятся</p>
+            <img src="../../assets/images/screenshots-appstore/05.webp"
                  decoding="async"
-                 alt="Детальный вид документа с вложением паспорта и метаданными"
-                 width="1260" height="2736" />
+                 alt="Expiry reminders showing upcoming renewal dates months in advance"
+                 class="loaded"
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 6 -->
           <div class="carousel-slide" role="group" aria-label="Скриншот 6 из 6" aria-roledescription="слайд">
-            <p class="carousel-label-title">Остаётся на вашем устройстве.</p>
-            <p class="carousel-label-sub">PIN-блокировка. Без облака. Без аккаунтов.</p>
-            <img data-src="/assets/images/screenshots-appstore/06.png"
+            <p class="carousel-label-title">Ваше хранилище, Ваш контроль</p>
+            <p class="carousel-label-sub">Зашифрованная резервная копия, восстановить может только вы</p>
+            <img src="../../assets/images/screenshots-appstore/06.webp"
                  decoding="async"
-                 alt="Экран PIN-блокировки для надёжной приватности"
-                 width="1260" height="2736" />
+                 alt="Document vault showing passports, visas, and IDs organised by profile"
+                 class="loaded"
+                 width="1320" height="2868" />
           </div>
 
             </div>
@@ -795,7 +938,7 @@
 
           <!-- Right arrow: absolute, centered on image -->
           <button id="carousel-next" class="carousel-arrow carousel-arrow-mobile" aria-label="Следующий скриншот"
-                  style="position: absolute; right: 0; top: calc(60px + (100% - 60px) / 2); transform: translateY(-50%) translateX(50%); z-index: 10;">
+                  style="position: absolute; right: 0; top: calc(110px + (100% - 110px) / 2); transform: translateY(-50%) translateX(50%); z-index: 10;">
             <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
             </svg>
@@ -959,7 +1102,7 @@
 
     <!-- SECTION 8: Final CTA -->
     <section id="final-cta" aria-labelledby="cta-heading" class="scroll-fade-in text-center space-y-6 pt-8 pb-24 md:pb-12">
-      <h2 id="cta-heading" class="text-3xl sm:text-4xl font-bold text-white">Перестаньте беспокоиться о сроках действия</h2>
+      <h2 id="cta-heading" class="text-3xl sm:text-4xl font-bold text-white">Ваша семья. Защищена. Всегда.</h2>
       <p class="text-blue-200/70 text-lg max-w-xl mx-auto">Всё в одном месте. Без аккаунтов, без подписок, без сюрпризов.</p>
       <div class="flex flex-col sm:flex-row items-center justify-center gap-8">
         <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" class="group relative inline-flex items-center transition-transform active:scale-95">
@@ -1001,13 +1144,12 @@
   </main>
 
   <!-- Sticky bottom CTA (mobile only) -->
-  <div id="sticky-cta" class="sticky-cta md:hidden px-4 py-3 flex items-center justify-between">
-    <div>
-      <p class="text-white text-sm font-semibold">Бесплатный старт</p>
-      <p class="text-slate-400 text-xs">Без регистрации</p>
-    </div>
-    <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" class="px-5 py-2.5 rounded-xl bg-brand-gold text-brand-blue font-bold text-sm hover:bg-brand-goldHover transition-colors">
-      Скачать
+  <div id="sticky-cta" class="sticky-cta md:hidden px-4 py-3 flex items-center justify-center gap-3">
+    <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" class="group relative inline-flex items-center transition-transform active:scale-95">
+      <img loading="lazy" src="/assets/images/app-store-badge-black.svg" alt="Скачайте в App Store" class="relative h-[40px] w-auto" width="120" height="40" />
+    </a>
+    <a href="https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault" target="_blank" rel="noopener noreferrer" class="group relative inline-flex items-center transition-transform active:scale-95">
+      <img loading="lazy" src="/assets/images/google-play-badge.svg" alt="Получите в Google Play" class="relative h-[40px] w-auto" width="135" height="40" />
     </a>
   </div>
 

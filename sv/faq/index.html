@@ -70,7 +70,7 @@
       "name": "Vad ingår i Pro-uppgraderingen för $9.99?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Pro är ett engångsköp som låser upp obegränsat antal profiler, obegränsat antal dokument, kombinerad PDF-export, krypterad säkerhetskopia och anpassad påminnelsetiming. Du betalar en gång. Det finns ingen prenumeration, ingen återkommande avgift och ingen testperiod som tyst börjar debitera dig."
+        "text": "Pro är ett engångsköp som låser upp obegränsat antal profiler, obegränsat antal dokument, kombinerad PDF-export, krypterad molnsäkerhetskopia och anpassad påminnelsetiming. Du betalar en gång. Det finns ingen prenumeration, ingen återkommande avgift och ingen testperiod som tyst börjar debitera dig."
       }
     }, {
       "@type": "Question",
@@ -113,6 +113,41 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Travel Document Vault byggdes av Mustafa Hafeez, en erfaren mjukvaruutvecklare med lång professionell erfarenhet av att bygga integritetsrespektande applikationer, och en förälder som behövde den här appen för sin egen familj. Integritet är inte en marknadsföringsfras. Appen designades och arkitekterades från dag ett så att dokument aldrig lämnar din enhet, inga konton behövs och inga servrar är inblandade."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Kan jag säkerhetskopiera min data gratis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja. Vault Export (krypterad .tdvault-säkerhetskopieringsfil) är gratis för alla. Appen skapar också automatiska lokala säkerhetskopior på din enhet med några minuters mellanrum, utan kostnad. Molnsäkerhetskopiering till ditt eget iCloud eller Google Drive är Pro-alternativet. Ingen säkerhetskopieringsfunktion låser in din data."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Vad betyder 'Senaste säkerhetskopia: för 2 timmar sedan, 12 dokument' i Inställningar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Den raden visar appens senaste automatiska lokala säkerhetskopia: hur länge sedan den sparades och hur många dokument den innehåller. Det ger dig trygghet att det finns en återställningsbar kopia på din enhet. Tryck på Återställ lokal säkerhetskopia för att rulla tillbaka till den."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Hur återställer jag mitt valv från en lokal säkerhetskopia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gå till Inställningar och tryck på Återställ lokal säkerhetskopia. Appen visar en lista med tillgängliga säkerhetskopior med tidsstämplar. Välj den du vill ha och bekräfta. För att återställa från en .tdvault-fil som du exporterat trycker du istället på Importera valv och väljer filen. Båda alternativen är gratis för alla. Återställning ersätter din aktuella data med innehållet i säkerhetskopian."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Appen visar en återställningsskärm eller meddelar att mina data inte kunde laddas. Vad gör jag?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appen raderar aldrig din data tyst. Om den inte kan läsa det lokala lagret visas en återställningsskärm istället för att ta bort något. Tryck på Återställ lokal säkerhetskopia för att återhämta dig från den senaste automatiska säkerhetskopian, eller tryck på Importera valv för att återställa från en .tdvault-fil som du tidigare exporterat. Säkerhetskopior skapade innan en nylig appuppdatering kan också återställas. Dina dokument är återställningsbara och ingenting har raderats."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Varför skapade appen en säkerhetskopia innan uppdateringen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inför en större uppgradering av dataformatet tar appen automatiskt en ögonblicksbild av ditt valv så att den kan rulla tillbaka om något går fel. Processen är automatisk och gratis för alla."
       }
     }]
   }
@@ -164,7 +199,7 @@
     }
 
     .faq-toggle:checked ~ .faq-content {
-      max-height: 500px;
+      max-height: 800px;
       padding-top: 1rem;
       padding-bottom: 0.5rem;
     }
@@ -299,8 +334,19 @@
       </div>
     </section>
 
+    <!-- Table of Contents -->
+    <div class="flex flex-wrap items-center justify-center gap-2 mb-12 px-4">
+      <span class="text-sm font-medium text-slate-300">Hoppa till:</span>
+      <a href="#privacy" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Integritet</a>
+      <a href="#features" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Funktioner</a>
+      <a href="#backup" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Säkerhetskopia</a>
+      <a href="#pricing" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Priser</a>
+      <a href="#troubleshooting" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Felsökning</a>
+      <a href="#legal" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Juridik</a>
+    </div>
+
     <!-- Trust & Transparency -->
-    <section class="scroll-fade-in">
+    <section id="privacy" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -346,7 +392,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Pro är ett <strong class="text-white">engångsköp</strong> som låser upp obegränsat antal profiler, obegränsat antal dokument, kombinerad PDF-export, krypterad säkerhetskopia och anpassad påminnelsetiming. Du betalar en gång. Det finns ingen prenumeration, ingen återkommande avgift och ingen testperiod som tyst börjar debitera dig.</p>
+            <p>Pro är ett <strong class="text-white">engångsköp</strong> som låser upp obegränsat antal profiler, obegränsat antal dokument, kombinerad PDF-export, krypterad molnsäkerhetskopia och anpassad påminnelsetiming. Du betalar en gång. Det finns ingen prenumeration, ingen återkommande avgift och ingen testperiod som tyst börjar debitera dig.</p>
           </div>
         </div>
 
@@ -465,7 +511,20 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Appen har ingen molndatabas. Vi ser inte din data. Om du använder <strong class="text-white">iCloud Backup</strong> (iOS) eller <strong class="text-white">Google Backup</strong> (Android) för hela din telefon ingår appens data i det paketet. <strong class="text-white">Din data förblir krypterad i dessa säkerhetskopior.</strong> Denna process hanteras av ditt operativsystem, inte av oss.</p>
+            <p>Appen har ingen molndatabas. Vi ser inte din data. Om du använder <strong class="text-white">iCloud Backup</strong> (iOS) eller <strong class="text-white">Google Backup</strong> (Android) för hela din telefon installeras appen om på en ny enhet, men dina dokument hämtas INTE automatiskt. Din krypteringsnyckel lämnade aldrig din ursprungliga enhet, så vi kan inte dekryptera dem på din nya telefon. <strong class="text-white">Gratis Vault Export är ditt verktyg för att spara en separat kopia.</strong> Pro-användare kan också skapa krypterad säkerhetskopia till sitt eget iCloud eller Google Drive med en återställningskod endast de har.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-backup-free">
+          <input type="checkbox" id="faq-backup-free-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-backup-free-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Kan jag säkerhetskopiera min data gratis?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Ja. Vault Export (krypterad .tdvault-säkerhetskopieringsfil) är gratis för alla. Appen skapar också automatiska lokala säkerhetskopior på din enhet med några minuters mellanrum, utan kostnad. Molnsäkerhetskopiering till ditt eget iCloud eller Google Drive är Pro-alternativet. Ingen säkerhetskopieringsfunktion låser in din data.</p>
           </div>
         </div>
 
@@ -478,8 +537,8 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Eftersom vi inte har din data kan vi inte återställa den åt dig. Om du återställer en ny telefon från en systemsäkerhetskopia (iCloud/Google) bör din data dyka upp igen. Om du inte använder systemsäkerhetskopior går din data förlorad.</p>
-            <p class="mt-2"><strong class="text-white">Rekommendation:</strong> Använd exportfunktionen för att spara en kopia av dina viktiga dokument någon annanstans.</p>
+            <p>Eftersom vi inte har din data kan vi inte återställa den åt dig. En systemsäkerhetskopia (iCloud/Google) installerar om appen men hämtar inte dina dokument - krypteringsnycklarna lämnade aldrig din ursprungliga enhet. <strong class="text-white">Din data försvinner om du inte exporterar den innan du byter telefon.</strong></p>
+            <p class="mt-2"><strong class="text-white">Innan du byter telefon:</strong> Exportera ditt valv med Vault Export (gratis) eller aktivera Pro-molnsäkerhetskopia för automatisk kryptering till ditt eget iCloud eller Google Drive. Båda tillåter enkel återställning på en ny enhet.</p>
           </div>
         </div>
 
@@ -523,7 +582,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>All din data <strong class="text-white">raderas permanent</strong> när du avinstallerar appen. Det går inte att återställa den efteråt eftersom vi inte lagrar något externt. <strong class="text-white">Innan du raderar:</strong> Exportera dina dokument eller skapa en säkerhetskopia som ZIP-fil (Pro-funktion) för att spara dem någon annanstans.</p>
+            <p>All din data <strong class="text-white">raderas permanent</strong> när du avinstallerar appen. Det går inte att återställa den efteråt eftersom vi inte lagrar något externt. <strong class="text-white">Innan du raderar:</strong> Exportera dina dokument eller skapa en .tdvault-säkerhetskopia för att spara dem någon annanstans.</p>
           </div>
         </div>
       </div>
@@ -578,7 +637,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Ja.</strong> Automatiska säkerhetskopior krypteras via enhetens inbyggda säkerhetskopieringssystem (iCloud/Google). Manuella valvexporter (Pro-funktion) är <strong class="text-white">lösenordsskyddade</strong> med stark kryptering. Du anger ett lösenord vid exporten och behöver det för att återställa.</p>
+            <p><strong class="text-white">Ja.</strong> Automatiska säkerhetskopior krypteras via enhetens inbyggda säkerhetskopieringssystem (iCloud/Google). Vault-exporter (.tdvault-filer) är <strong class="text-white">lösenordsskyddade</strong> med stark kryptering. Du anger ett lösenord vid exporten och behöver det för att återställa.</p>
             <p class="mt-3">Om du återställer från en säkerhetskopia fungerar dina dokument automatiskt på din nya enhet utan att du behöver göra något speciellt.</p>
           </div>
         </div>
@@ -629,7 +688,7 @@
     </section>
 
     <!-- Features -->
-    <section class="scroll-fade-in">
+    <section id="features" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-blue-300">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -688,14 +747,14 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Ja! Gratisanvändare kan dela enskilda dokument. Pro-användare får kraftfulla batchverktyg: välj specifika dokument (eller allas profiler) och generera en <strong class="text-white">enda kombinerad PDF</strong> optimerad för utskrift. Du kan till och med ange anpassade filnamn för dina exporter för att hålla dina digitala uppgifter organiserade.</p>
+            <p>Ja. Gratisanvändare kan dela enskilda dokument. Pro-användare får kraftfulla batchverktyg: välj specifika dokument (eller allas profiler) och generera en <strong class="text-white">enda kombinerad PDF</strong> optimerad för utskrift. Du kan till och med ange anpassade filnamn för dina exporter för att hålla dina digitala uppgifter organiserade.</p>
           </div>
         </div>
 
         <div class="faq-item p-6">
           <input type="checkbox" id="faq-11" class="faq-toggle hidden peer" />
           <label for="faq-11" class="faq-label flex items-center justify-between cursor-pointer">
-            <span class="font-semibold text-white">Vad gäller för säkerhetskopior?</span>
+            <span class="font-semibold text-white">Hur säkerhetskopieras min data?</span>
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
             </svg>
@@ -727,7 +786,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Ja!</strong> Appen fungerar helt offline. Du kan lägga till dokument, se dem och ta emot påminnelser utan internetanslutning. Perfekt för resor.</p>
+            <p><strong class="text-white">Ja.</strong> Appen fungerar helt offline. Du kan lägga till dokument, se dem och ta emot påminnelser utan internetanslutning. Perfekt för resor.</p>
           </div>
         </div>
 
@@ -765,14 +824,66 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Ja, appen skapar automatiska lokala säkerhetskopior var 5:e minut</strong> (när appen är öppen och ändringar görs). Dessa säkerhetskopior lagras på din enhet och ingår i din iCloud (iOS) eller Google (Android) enhetssäkerhetskopia om du har dessa tjänster aktiverade.</p>
+            <p><strong class="text-white">Ja, appen skapar automatiska lokala säkerhetskopior med några minuters mellanrum</strong> (när appen är öppen och ändringar görs). Dessa säkerhetskopior lagras på din enhet och ingår i din iCloud (iOS) eller Google (Android) enhetssäkerhetskopia om du har dessa tjänster aktiverade.</p>
             <p class="mt-3"><strong class="text-white">Så här fungerar det:</strong></p>
             <ul class="list-disc list-inside mt-3 space-y-2 ml-2">
               <li>Appen behåller <strong class="text-white">10 rullande säkerhetskopior</strong> på din enhet. När en 11:e säkerhetskopia skapas raderas den äldsta automatiskt.</li>
               <li>Säkerhetskopior är <strong class="text-white">krypterade</strong> med samma skydd som dina dokument.</li>
               <li>Om appen kraschar eller du råkar radera ett dokument kan du återställa från den senaste säkerhetskopian via <strong class="text-white">Inställningar → Importera valv</strong>.</li>
             </ul>
-            <p class="mt-3"><strong class="text-white">Manuella säkerhetskopior (Pro):</strong> Pro-användare kan också skapa manuella krypterade ZIP-säkerhetskopior och spara dem i Filer, iCloud Drive eller dela dem via AirDrop/e-post för lagring utanför enheten. Detta rekommenderas innan stora uppdateringar eller enhetsbyten.</p>
+            <p class="mt-3"><strong class="text-white">Vault Export:</strong> Du kan exportera en krypterad .tdvault-fil och spara den i Filer, iCloud Drive eller dela den via AirDrop/e-post för lagring utanför enheten. Detta rekommenderas innan stora uppdateringar eller enhetsbyten.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-backup-status-label">
+          <input type="checkbox" id="faq-backup-status-label-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-backup-status-label-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Vad betyder "Senaste säkerhetskopia: för 2 timmar sedan, 12 dokument" i Inställningar?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Den raden visar appens senaste automatiska lokala säkerhetskopia: hur länge sedan den sparades och hur många dokument den innehåller. Det ger dig trygghet att det finns en återställningsbar kopia på din enhet. Tryck på Återställ lokal säkerhetskopia för att rulla tillbaka till den.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-restore-local-backup">
+          <input type="checkbox" id="faq-restore-local-backup-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-restore-local-backup-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Hur återställer jag mitt valv från en lokal säkerhetskopia?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Gå till Inställningar och tryck på Återställ lokal säkerhetskopia. Appen visar en lista med tillgängliga säkerhetskopior med tidsstämplar. Välj den du vill ha och bekräfta. För att återställa från en .tdvault-fil som du exporterat trycker du istället på Importera valv och väljer filen. Båda alternativen är gratis för alla. Återställning ersätter din aktuella data med innehållet i säkerhetskopian.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-recovery-screen">
+          <input type="checkbox" id="faq-recovery-screen-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-recovery-screen-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Appen visar en återställningsskärm eller meddelar att mina data inte kunde laddas. Vad gör jag?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Appen raderar aldrig din data tyst. Om den inte kan läsa det lokala lagret visas en återställningsskärm istället för att ta bort något. Tryck på Återställ lokal säkerhetskopia för att återhämta dig från den senaste automatiska säkerhetskopian, eller tryck på Importera valv för att återställa från en .tdvault-fil som du tidigare exporterat. Säkerhetskopior skapade innan en nylig appuppdatering kan också återställas. Dina dokument är återställningsbara och ingenting har raderats.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-backup-before-update">
+          <input type="checkbox" id="faq-backup-before-update-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-backup-before-update-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Varför skapade appen en säkerhetskopia innan uppdateringen?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Inför en större uppgradering av dataformatet tar appen automatiskt en ögonblicksbild av ditt valv så att den kan rulla tillbaka om något går fel. Processen är automatisk och gratis för alla.</p>
           </div>
         </div>
 
@@ -813,7 +924,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Ja, en kort stund.</strong> Efter att ha raderat dokument (enstaka eller batch) visas ett kort ångrafönster längst ned på skärmen. Tryck på <strong class="text-white">"Ångra"</strong> för att omedelbart återställa dem. När ångrafönstret försvinner är raderingen <strong class="text-white">permanent</strong> och kan inte ångras. Vi rekommenderar att du exporterar en säkerhetskopia innan massborttagning av dokument.</p>
+            <p><strong class="text-white">Ja - du har två skyddslager.</strong> Efter att ha raderat dokument (enstaka eller batch) visas ett kort ångrafönster längst ned på skärmen. Tryck på <strong class="text-white">"Ångra"</strong> för att omedelbart återställa dem. Om du missar ångrafönstret flyttas raderade dokument till <strong class="text-white">Nyligen raderat</strong> i Inställningar, där de förblir i 30 dagar innan de raderas permanent. Pro-användare med molnsäkerhetskopiering aktiverad behåller objekt i Nyligen raderat på obestämd tid tills de trycker på Radera för alltid.</p>
           </div>
         </div>
 
@@ -920,7 +1031,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Ja, med krypterad valvexport (Pro-funktion).</strong> Exportera en krypterad säkerhetskopia från din nuvarande enhet (Inställningar → Exportera valv), överför den till din nya enhet (via e-post, molnlagring eller direkt överföring), använd sedan Inställningar → Importera valv för att återställa dina dokument.</p>
+            <p><strong class="text-white">Ja, med krypterad Vault Export.</strong> Exportera en krypterad .tdvault-fil från din nuvarande enhet (Inställningar → Exportera valv), överför den till din nya enhet (via e-post, molnlagring eller direkt överföring), använd sedan Inställningar → Importera valv för att återställa dina dokument.</p>
             <p class="mt-3">Detta fungerar plattformsoberoende eftersom krypteringsformatet är universellt. Du behöver samma lösenord som du använde när du exporterade valvet. Ditt Pro-köp behöver också återställas på den nya enheten (se "Kan jag återställa mitt köp på en ny enhet?" nedan).</p>
           </div>
         </div>
@@ -956,7 +1067,7 @@
     </section>
 
     <!-- Pricing & Purchases -->
-    <section class="scroll-fade-in">
+    <section id="pricing" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -976,7 +1087,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Gratis</strong> inkluderar 1 profil och upp till 5 dokument med full funktionalitet, inklusive OCR-skanning, påminnelser om utgångsdatum, dokumentdelning, PIN-lås och biometriskt lås (Face ID / Touch ID). <strong class="text-white">Pro</strong> ($9.99 engångspris*) låser upp obegränsat antal profiler, obegränsat antal dokument, kombinerad PDF-export, batchexport (ZIP), anpassad påminnelsetiming och flersidigt foto för Flygbiljetter och Övriga dokument.</p>
+            <p><strong class="text-white">Gratis</strong> inkluderar 1 profil och upp till 5 dokument med full funktionalitet, inklusive OCR-skanning, påminnelser om utgångsdatum, dokumentdelning, PIN-lås och biometriskt lås (Face ID / Touch ID). <strong class="text-white">Pro</strong> ($9.99 engångspris*) låser upp obegränsat antal profiler, obegränsat antal dokument, kombinerad PDF-export, batchexport (.tdvault), anpassad påminnelsetiming och flersidigt foto för Flygbiljetter och Övriga dokument.</p>
             <p class="text-slate-400 text-xs mt-2">* Se <a href="/pricing-policy/#version-policy" class="text-brand-gold hover:text-white underline">Prispolicy</a> för versionsinformation.</p>
           </div>
         </div>
@@ -1053,7 +1164,7 @@
     </section>
 
     <!-- Troubleshooting -->
-    <section class="scroll-fade-in">
+    <section id="troubleshooting" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-blue-300">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -1119,8 +1230,114 @@
       </div>
     </section>
 
+    <!-- Setup and recovery -->
+    <section id="backup" class="scroll-fade-in">
+      <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
+        <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
+          </svg>
+        </span>
+        Konfiguration och återställning
+      </h2>
+
+      <div class="glass-panel rounded-2xl overflow-hidden">
+        <div class="faq-item p-6" id="recovery-code">
+          <input type="checkbox" id="recovery-code-toggle" class="faq-toggle hidden peer" />
+          <label for="recovery-code-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Vad är min återställningskod och vad händer om jag förlorar den?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Din återställningskod är en 24-teckens lösenfras som krypterar din molnsäkerhetskopia.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="cloud-backup-encryption">
+          <input type="checkbox" id="cloud-backup-encryption-toggle" class="faq-toggle hidden peer" />
+          <label for="cloud-backup-encryption-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Hur krypteras min molnsäkerhetskopia?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Ditt valv är krypterat från slutet till slut med AES-256-GCM på din enhet.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="pin-faceid-recovery">
+          <input type="checkbox" id="pin-faceid-recovery-toggle" class="faq-toggle hidden peer" />
+          <label for="pin-faceid-recovery-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Hur fungerar PIN, Face ID och återställningskod tillsammans?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Din PIN är ett dagligt lås. Face ID är en snabb genväg för att låsa upp.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="export-import">
+          <input type="checkbox" id="export-import-toggle" class="faq-toggle hidden peer" />
+          <label for="export-import-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Hur exporterar och importerar jag mitt valv?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Alla användare kan exportera hela sitt valv som en krypterad, lösenordsskyddad säkerhetskopieringsfil (.tdvault) via Inställningar. Spara den i Filer, mejla den till dig själv eller förvara den på ett USB-minne. Importera den på valfri enhet via Inställningar → Importera valv. Hela round-trip bevarar allt exakt. (Kombinerad PDF-export av flera dokument samtidigt är en separat Pro-funktion.) Se exportera/importera-guiden för stegvisa instruktioner med skärmdumpar.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="allowance-modes">
+          <input type="checkbox" id="allowance-modes-toggle" class="faq-toggle hidden peer" />
+          <label for="allowance-modes-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Bidragslägen Besökande vs Hem: vilken ska jag välja?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Besöksläge spårar dagar I ett land. Hemläge spårar dagar BORT från ditt hemland.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="family-profiles">
+          <input type="checkbox" id="family-profiles-toggle" class="faq-toggle hidden peer" />
+          <label for="family-profiles-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Vad är familjeprofiler?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Varje familjemedlem har en separat profil med sina egna dokument, foton och påminnelser.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="delete-restore">
+          <input type="checkbox" id="delete-restore-toggle" class="faq-toggle hidden peer" />
+          <label for="delete-restore-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Vad händer när jag tar bort något?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Borttagna objekt går till papperskorgen i 30 dagar.</p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
     <!-- Legal -->
-    <section class="scroll-fade-in">
+    <section id="legal" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -1221,5 +1438,19 @@
   <script src="/assets/js/cookie-consent.js" defer></script>
   <script src="/assets/js/mobile-menu.js" defer></script>
   <script src="/assets/js/lang-picker.js" defer></script>
+  <!-- Accordion aria-expanded sync (a11y) -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      document.querySelectorAll('.faq-toggle').forEach(function (toggle) {
+        var label = toggle.nextElementSibling;
+        if (label && label.classList.contains('faq-label')) {
+          label.setAttribute('aria-expanded', toggle.checked ? 'true' : 'false');
+          toggle.addEventListener('change', function () {
+            label.setAttribute('aria-expanded', this.checked ? 'true' : 'false');
+          });
+        }
+      });
+    });
+  </script>
 </body>
 </html>

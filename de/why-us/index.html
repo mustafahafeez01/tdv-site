@@ -93,6 +93,27 @@
     ]
   }
   </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "Travel Document Vault",
+    "description": "Offline-Manager für Pässe, Visa und Ausweise. AES-256-verschlüsselt, keine Konten, keine Server.",
+    "url": "https://traveldocumentvault.com",
+    "applicationCategory": "Productivity",
+    "operatingSystem": "iOS, Android",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD",
+      "name": "Free tier"
+    },
+    "author": {
+      "@type": "Organization",
+      "name": "Mustafa Hafeez"
+    }
+  }
+  </script>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -113,6 +134,7 @@
     .nav-link:hover::after { width: 100%; }
     .pricing-highlight { background: linear-gradient(145deg, rgba(255,176,0,0.15) 0%, rgba(255,176,0,0.05) 100%); border: 2px solid rgba(255,176,0,0.3); }
     .pricing-highlight:hover { border-color: rgba(255,176,0,0.5); background: linear-gradient(145deg, rgba(255,176,0,0.2) 0%, rgba(255,176,0,0.08) 100%); }
+    .pro-badge { background: linear-gradient(135deg, #FFB000 0%, #e69f00 100%); }
     .scroll-fade-in { opacity: 0; transform: translateY(30px); transition: opacity 0.6s ease-out, transform 0.6s ease-out; }
     .scroll-fade-in.visible { opacity: 1; transform: translateY(0); }
     .stagger-children > * { opacity: 0; transform: translateY(20px); transition: opacity 0.5s ease-out, transform 0.5s ease-out; }
@@ -143,10 +165,10 @@
     /* Screenshot carousel - gold standard */
     .carousel-stage {
       position: relative;
-      height: calc(80vw * 2.17 + 70px);
+      height: calc(80vw * 2.17 + 130px);
     }
-    @media (min-width: 640px) { .carousel-stage { height: 770px; } }
-    @media (min-width: 1024px) { .carousel-stage { height: 870px; } }
+    @media (min-width: 640px) { .carousel-stage { height: 860px; } }
+    @media (min-width: 1024px) { .carousel-stage { height: 960px; } }
 
     .carousel-slide {
       position: absolute;
@@ -169,20 +191,16 @@
       opacity: 0;
     }
 
-    /* Phone image: width-driven sizing, crisp rendering */
+    /* Phone image: width-driven sizing */
     .carousel-slide img {
       display: block;
       width: 80vw;
       height: auto;
       max-width: 360px;
       flex-shrink: 0;
-      image-rendering: -webkit-optimize-contrast;
-      image-rendering: crisp-edges;
-      /* Force GPU compositing for sharper rendering */
-      transform: translateZ(0);
-      -webkit-transform: translateZ(0);
-      backface-visibility: hidden;
-      -webkit-backface-visibility: hidden;
+      image-rendering: auto;
+      border-radius: 28px;
+      overflow: hidden;
     }
     @media (min-width: 640px) { .carousel-slide img { width: 340px; max-width: 340px; } }
     @media (min-width: 1024px) { .carousel-slide img { width: 400px; max-width: 400px; } }
@@ -192,15 +210,15 @@
       /* Reset browser default <p> margin, then apply intentional spacing */
       margin-top: 0;
       margin-bottom: 2px;
-      font-size: 1.5rem;       /* 24px - premium weight, Apple-scale */
+      font-size: 1.15rem;
       font-weight: 700;
       letter-spacing: -0.01em;
       line-height: 1.2;
       color: #FFB000;
       text-align: center;
     }
-    @media (min-width: 640px)  { .carousel-label-title { font-size: 1.75rem; } }  /* 28px */
-    @media (min-width: 1024px) { .carousel-label-title { font-size: 2rem;    } }  /* 32px */
+    @media (min-width: 640px)  { .carousel-label-title { font-size: 1.35rem; } }
+    @media (min-width: 1024px) { .carousel-label-title { font-size: 1.5rem;  } }
 
     .carousel-label-sub {
       /* Reset browser default <p> margin, then 8px gap before the image */
@@ -364,14 +382,14 @@
         Datenschutz im Fokus. Nur auf dem Gerät. Keine Konten erforderlich.
       </div>
       <h1 id="hero-heading" class="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-[1.1] mb-8">
-        Wie viel Zeit verlieren Sie<br class="hidden sm:block">
-        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">beim Suchen von Dokumenten?</span>
+        Immer griffbereit.<br class="hidden sm:block">
+        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">Wenn Sie sie brauchen.</span>
       </h1>
       <p class="text-blue-100/90 text-lg sm:text-xl leading-relaxed max-w-2xl mx-auto mb-6">
-        Einwanderungsschalter. Visaanträge. Versicherungsformulare. <strong class="text-white">Jede Suche in Ihrer Kamerarolle erzeugt Stress, den Sie nicht brauchen.</strong>
+        Alle wichtigen Dokumente Ihrer Familie an einem Ort. Verschlüsselt auf Ihrem Gerät. Sofort verfügbar am Flughafen, bei Visaanträgen oder Formularen – ohne Sucherei, ohne Stress.
       </p>
       <p class="text-blue-200/80 text-base sm:text-lg leading-relaxed max-w-xl mx-auto mb-8">
-        <strong class="text-white">Was wäre, wenn sie immer griffbereit wären?</strong>
+        <strong class="text-white">Aufgebaut für Familien, die verreisen.</strong>
       </p>
       <div class="flex flex-col items-center gap-4 pt-4">
         <p class="text-white text-lg font-semibold">Kostenlos herunterladen. Kein Konto. Kein Abo.</p>
@@ -384,6 +402,33 @@
       </a>
         </div>
         <span class="text-slate-50 text-sm font-medium">Einmalkauf. Alle v1.x-Updates für immer enthalten.</span>
+        <p class="text-blue-200/70 text-xs max-w-md mt-2">Entwickelt von jemandem, der dies für seine eigene Familie brauchte. Keine VCs, keine Aktionäre, keine Werbenetzwerke. Ich antworte nur einer Person: dir.</p>
+      </div>
+    </section>
+
+    <!-- Founder Story - Section 2 -->
+    <section aria-labelledby="founder-heading" class="scroll-fade-in text-center max-w-3xl mx-auto pt-24 md:pt-32">
+      <div class="glass-panel rounded-2xl p-8 sm:p-10">
+        <div class="flex items-start gap-4 mb-6 justify-center">
+          <div class="h-16 w-16 rounded-full bg-gradient-to-br from-brand-gold to-brand-blue p-[2px] flex-shrink-0">
+            <div class="h-full w-full rounded-full bg-[#0A192F] flex items-center justify-center text-base font-bold text-white">
+              MH
+            </div>
+          </div>
+          <div class="text-left">
+            <p class="text-white font-semibold text-lg">Mustafa Hafeez</p>
+            <p class="text-slate-400 text-sm">Entwickelte Travel Document Vault für meine Familie</p>
+          </div>
+        </div>
+        <blockquote class="text-slate-200 text-lg sm:text-xl leading-relaxed mb-6">
+          "Jede Familienreise verwandelte sich in eine Schnitzeljagd durch Fotos, E-Mail und Drive. Ich habe das gebaut, damit die nächste Reise nicht so wäre."
+        </blockquote>
+        <p class="text-blue-200/70 text-base leading-relaxed mb-4">
+          Keine VC-Finanzierung. Keine Aktionäre. Keine Werbenetzwerke. Nur ein Elternteil, das es leid war, jede Reise die gleiche Panik zu haben.
+        </p>
+        <a href="/de/blog/why-i-built-travel-document-vault/" class="text-brand-gold hover:text-brand-gold-hover font-semibold transition-colors inline-flex items-center gap-2">
+          Die vollständige Geschichte lesen →
+        </a>
       </div>
     </section>
 
@@ -400,99 +445,71 @@
           <p class="text-brand-gold text-sm font-semibold uppercase tracking-wider mb-4">Am Gate</p>
           <p class="text-slate-100 text-base leading-relaxed">Einwanderungsschalter. Der Beamte fragt nach Ihrem Visum.</p>
           <p class="text-slate-300 text-base leading-relaxed mt-3">Was wäre, wenn Sie eine App öffnen und es sofort griffbereit hätten? Kein Suchen. Kein App-Wechsel. Einfach sofortiger Zugriff.</p>
+          <p class="text-blue-200/70 text-xs mt-4 font-medium">Wenn das auf Sie zutrifft: Geschäftsreisende, digitale Nomaden oder Vielflieger.</p>
         </li>
         <li class="glass-panel rounded-2xl p-8 sm:p-10 border-l-4 border-brand-gold">
           <p class="text-brand-gold text-sm font-semibold uppercase tracking-wider mb-4">Die Gültigkeitsfalle</p>
           <p class="text-slate-100 text-base leading-relaxed">Ihr Pass läuft nächstes Jahr ab. Noch genug Zeit, oder?</p>
           <p class="text-slate-300 text-base leading-relaxed mt-3">Falsch. Für Schengen-Reisen müssen Pässe innerhalb der letzten 10 Jahre ausgestellt worden sein, und viele Länder erzwingen die 6-Monats-Gültigkeitsregel. Airlines nutzen offizielle Datenbanken wie IATA Timatic am Gate zur Durchsetzung dieser Regeln. Ein einfaches Ablaufdatum-Check reicht nicht aus.</p>
+          <p class="text-blue-200/70 text-xs mt-4 font-medium">Wenn das auf Sie zutrifft: Vielreisende, steuerbewusst oder Wohnsitz in mehreren Ländern.</p>
         </li>
         <li class="glass-panel rounded-2xl p-8 sm:p-10 border-l-4 border-brand-gold">
           <p class="text-brand-gold text-sm font-semibold uppercase tracking-wider mb-4">Verlängerungschaos</p>
           <p class="text-slate-100 text-base leading-relaxed">Eine Verlängerungsbenachrichtigung kommt. Sie haben keine Ahnung, wann Sie zuletzt verlängert haben, welche Dokumente Sie brauchen oder ob die Pässe der Kinder gleichzeitig ablaufen.</p>
+          <p class="text-blue-200/70 text-xs mt-4 font-medium">Wenn das auf Sie zutrifft: Eltern, Erziehungsberechtigte oder Familienreise-Organisator.</p>
         </li>
         <li class="glass-panel rounded-2xl p-8 sm:p-10 border-l-4 border-brand-gold">
           <p class="text-brand-gold text-sm font-semibold uppercase tracking-wider mb-4">Alles zusammen</p>
           <p class="text-slate-100 text-base leading-relaxed mb-3">Reisepass. Visum. Führerschein. Versicherung. Reisebuchungen. Dokumente der Kinder.</p>
           <p class="text-slate-300 text-base leading-relaxed">Alles an einem Ort. Immer griffbereit. Parat, wenn Sie es brauchen.</p>
+          <p class="text-blue-200/70 text-xs mt-4 font-medium">Wenn das auf Sie zutrifft: Organisierte Person, die einfach eine vertrauenswürdige App braucht.</p>
         </li>
       </ul>
     </section>
 
     <!-- SECTION 3: Alternatives -->
-    <section aria-labelledby="alternatives-heading" class="scroll-fade-in">
-      <h2 id="alternatives-heading" class="text-2xl sm:text-3xl font-bold text-white text-center mb-4">Was Sie wahrscheinlich gerade nutzen</h2>
-      <p class="text-blue-200/80 text-center mb-10 max-w-xl mx-auto">Das sind alles vernünftige Entscheidungen. Jede funktioniert – bis zu einem gewissen Punkt.</p>
+    <section aria-labelledby="alternatives-heading" class="scroll-fade-in pt-8">
+      <h2 id="alternatives-heading" class="text-2xl sm:text-3xl font-bold text-white text-center mb-4">Was Sie wahrscheinlich jetzt nutzen</h2>
+      <p class="text-blue-200/80 text-center mb-10 max-w-xl mx-auto">Das sind alle vernünftige Wahlen. Jede funktioniert – bis zu einem Punkt.</p>
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 max-w-5xl mx-auto stagger-children">
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Allgemeine Tresore</h3>
           <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Funktioniert:</strong> Hohe Sicherheit und Offline-Zugriff.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Schwäche:</strong> Sie behandeln einen Reisepass wie einen Kassenbon und fehlen reisespezifische Logik. Wir haben das speziell für Reisende gebaut und bieten ein großzügiges kostenloses Kontingent von 5 Dokumenten und einen einfachen Einmalpreis von $9.99 ohne Abonnements.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Unzureichend:</strong> Sie behandeln einen Pass wie eine Lebensmittelrechnung und haben keine reisespezifische Logik. Wir haben das speziell für Reisende gebaut und bieten einen großzügigen kostenlosen Plan mit 5 Dokumenten und einen unkomplizierten Einmalkauf für $9.99 ohne wiederkehrende Abos.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Kamerarolle / Fotos</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Funktioniert:</strong> Immer dabei.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Schwäche:</strong> Vergraben in tausenden Fotos ohne Ablaufverfolgung, keine Organisation und keine Sicherheit über die Telefonsperre hinaus.</p>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Funktioniert:</strong> Immer bei dir.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Unzureichend:</strong> Verloren in tausenden Fotos – ohne Ablaufverfolgung, ohne Organisation und nur mit Telefonsperrensicherheit.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Cloud-Speicher</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Funktioniert:</strong> Hat Offline-Modus und synchronisiert über Geräte hinweg.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Schwäche:</strong> Sie speichern den Pass, prüfen das Ablaufdatum, wechseln zu einer Kalender-App für eine Erinnerung, und versuchen sich zu erinnern, in welchem Ordner die Dokumente Ihres Partners waren. Drei Apps für einen Job – und keine weiß, dass es ein ablaufender Reisepass ist.</p>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Funktioniert:</strong> Hat Offline-Modus und synchronisiert über Geräte.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Unzureichend:</strong> Du speicherst deinen Pass, prüfst das Ablaufdatum, wechselst zu einer Kalender-App für eine Erinnerung, dann erinnerst dich an den Ordner mit den Dokumenten deines Partners. Das sind drei Apps für eine Aufgabe, und keine weiß, dass es ein ablaufender Pass ist.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Passwort-Manager</h3>
           <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Funktioniert:</strong> Hervorragend für Passwörter.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Schwäche:</strong> Nicht für Dokumentbilder, Ablaufverfolgung oder Familienorganisation ausgelegt. Ein Passfoto in einem Passwortfeld ist ein Workaround, keine Lösung.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Unzureichend:</strong> Nicht für Dokumentbilder, Ablaufverfolgung oder Familienorganisation ausgelegt. Ein Passfoto in einem Passwortfeld ist ein Notbehelf, keine Lösung.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Notiz-Apps</h3>
           <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Funktioniert:</strong> Flexibel und vertraut.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Schwäche:</strong> Keine Ablauferinnerungen, keine geführte Aufnahme, und Ihr Passfoto liegt neben Ihrer Einkaufsliste ohne Verschlüsselung.</p>
-        </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">Papierordner</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Funktioniert:</strong> Zuverlässig zu Hause.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Schwäche:</strong> Nutzlos auf einem Flughafen in einem anderen Land. Und Papier schickt keine Erinnerung sechs Monate vor dem Ablauf.</p>
-        </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">„Ich erinnere mich schon"</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Funktioniert:</strong> Manchmal.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Schwäche:</strong> Bis es nicht klappt. Und es versagt meistens am Abend vor einem Flug, wenn es zu spät ist, etwas zu ändern.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Unzureichend:</strong> Keine Ablauferinnerungen, keine geführte Erfassung, und dein Passfoto sitzt neben deiner Einkaufsliste ohne Verschlüsselung.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Tabellenkalkulationen</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Funktioniert:</strong> Hervorragend für Reisepläne und Detailnotizen.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Schwäche:</strong> Keine sicheren Bildanhänge, schreckliche Formatierung auf mobilen Bildschirmen am Flughafen und keine automatischen Ablauferinnerungen vor Ihrer Reise.</p>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Funktioniert:</strong> Hervorragend zum Planen von Reiserouten und zum Tippen von Details.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Unzureichend:</strong> Keine sicheren Bildanhänge, schreckliche Formatierung auf mobilen Bildschirmen am Flughafen und keine automatisierten Ablauferinnerungen vor deiner Reise.</p>
         </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">Airline-Apps</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Funktioniert:</strong> Reibungslos für den konkreten Flug, den Sie heute nehmen.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Schwäche:</strong> Sie vergessen Ihre Daten zwischen Reisen, verfolgen keine Visa und sind völlig nutzlos, wenn Sie im Hotel einen Ausweis vorzeigen oder ein Auto mieten müssen.</p>
-        </div>
-      </div>
-      <!-- Founder Quote with Attribution -->
-      <div class="glass-panel rounded-2xl p-6 sm:p-8 mt-8 max-w-3xl mx-auto scroll-fade-in">
-        <div class="flex items-start gap-4 mb-4">
-          <div class="h-12 w-12 rounded-full bg-gradient-to-br from-brand-gold to-brand-blue p-[2px] flex-shrink-0">
-            <div class="h-full w-full rounded-full bg-[#0A192F] flex items-center justify-center text-sm font-bold text-white">
-              MH
-            </div>
-          </div>
-          <div>
-            <p class="text-white font-semibold">Mustafa Hafeez</p>
-            <p class="text-slate-400 text-sm">Gründer, Travel Document Vault</p>
-          </div>
-        </div>
-        <blockquote class="text-slate-200 text-base sm:text-lg leading-relaxed italic">
-          „Ich habe die meisten davon selbst genutzt. Die Kamerarolle. Das freigegebene Laufwerk. Den ‚Ich erinnere mich schon'-Ansatz. Das ist, was ich mir immer gewünscht habe."
-        </blockquote>
       </div>
     </section>
 
     <!-- Comparison Table -->
     <section aria-labelledby="comparison-heading" class="scroll-fade-in">
       <div class="text-center mb-10">
-        <h2 id="comparison-heading" class="text-3xl sm:text-4xl font-bold text-white mb-4">Der Vergleich</h2>
-        <p class="text-blue-200/70 text-base max-w-xl mx-auto">Jede Alternative macht ein oder zwei Dinge gut. Nur eine macht alles.</p>
+        <h2 id="comparison-heading" class="text-3xl sm:text-4xl font-bold text-white mb-4">Wie es sich schlägt</h2>
+        <p class="text-blue-200/70 text-base max-w-xl mx-auto">Jede Alternative macht eines oder zwei Dinge gut. Nur eine macht alle.</p>
       </div>
 
       <div class="overflow-x-auto rounded-2xl">
@@ -557,13 +574,32 @@
               <td class="px-5 py-4 text-center"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">Kostenlos, werbefinanziert</span></td>
               <td class="px-5 py-4 text-center"><span class="text-red-400 text-base">✗</span><span class="block text-[10px] text-slate-400 mt-0.5">36 $/Jahr+</span></td>
             </tr>
+            <tr style="background:rgba(10,25,47,0.5)">
+              <td class="px-5 py-4 text-slate-200 font-medium">Reiseplaner-Checkliste <span class="text-[10px] text-slate-500">(pro Reise)</span></td>
+              <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-bottom:1px solid rgba(255,176,0,0.15);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span><span class="block text-[10px] text-slate-400 mt-0.5">Ja</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
+            </tr>
+            <tr style="background:rgba(17,25,40,0.5)">
+              <td class="px-5 py-4 text-slate-200 font-medium">Anpassbare Tageslimits pro Land (Tage-im / Tage-außerhalb)</td>
+              <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-bottom:1px solid rgba(255,176,0,0.15);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
+              <td class="px-5 py-4 text-center" style="border-bottom:1px solid rgba(255,255,255,0.05)"><span class="text-red-400 text-base">✗</span></td>
+            </tr>
+            <tr style="background:rgba(10,25,47,0.5)">
+              <td class="px-5 py-4 text-slate-200 font-medium">Verschlüsselte Cloud-Sync (Ihre eigene Cloud)</td>
+              <td class="px-5 py-4 text-center" style="background:rgba(255,176,0,0.07);border-left:1px solid rgba(255,176,0,0.2)"><span class="text-green-400 text-base">✓</span><span class="block text-[10px] text-slate-400 mt-0.5">Ihre iCloud / Google Drive</span></td>
+              <td class="px-5 py-4 text-center"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">Nur Apple ID</span></td>
+              <td class="px-5 py-4 text-center"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">Nur Google Drive/Dropbox</span></td>
+              <td class="px-5 py-4 text-center"><span class="text-yellow-400 text-base">~</span><span class="block text-[10px] text-slate-400 mt-0.5">Deren Server</span></td>
+            </tr>
           </tbody>
         </table>
       </div>
       <p class="text-slate-400 text-xs text-center mt-4">✓ Unterstützt &nbsp; ~ Teilweise &nbsp; ✗ Nicht unterstützt</p>
     </section>
-
-
 
     <!-- What Makes TDV Different -->
     <section aria-labelledby="different-heading" class="scroll-fade-in space-y-8">
@@ -592,7 +628,7 @@
         <div class="bg-brand-gold/20 border-l-4 border-brand-gold rounded-lg p-6">
           <p class="text-white text-lg font-bold mb-4">Alles bleibt auf Ihrem Gerät. Punkt.</p>
           <p class="text-slate-200 text-base leading-relaxed mb-4">
-            Das Fehlen der Cloud-Synchronisierung ist ein bewusstes Sicherheitsmerkmal. Keine Cloud. Keine Konten. Ihre Dokumente berühren niemals einen Drittanbieter-Server.
+            Cloud-Synchronisierung ist standardmäßig deaktiviert. Wenn Sie sie aktivieren (Pro), wird Ihr Tresor auf Ihrem Gerät verschlüsselt, bevor etwas hochgeladen wird, und geht zu Ihrem eigenen iCloud oder Google Drive, versiegelt mit einem Wiederherstellungscode, den nur Sie haben. Niemand – auch nicht wir, Apple oder Google – kann es lesen. Das Versprechen wird durch Code durchgesetzt, nicht durch Richtlinien.
           </p>
           <p class="text-slate-300 text-sm">
             AES-256-GCM-Verschlüsselung im Ruhezustand. Verschlüsselte Backups verwenden PBKDF2-Schlüsselableitung. <a href="/privacy-policy/" class="text-brand-gold hover:text-yellow-300 transition-colors underline">Vollständige Datenschutzerklärung</a>
@@ -609,7 +645,7 @@
           <h3 class="text-xl font-bold text-white mb-4">Ablauferinnerungen, Monate im Voraus</h3>
 
           <p class="text-slate-300 text-base leading-relaxed mb-4">
-            Passverlängerungen dauern 6 bis 8 Wochen. <strong class="text-white">Erinnerungen beginnen 6 Monate früher</strong> und staffeln sich automatisch.
+            Passverlängerungen dauern 6 bis 8 Wochen. <strong class="text-white">Erinnerungen beginnen 8 Monate früher</strong> und staffeln sich automatisch.
           </p>
 
           <p class="text-slate-300 text-base leading-relaxed mb-4">
@@ -702,14 +738,109 @@
       </div>
     </section>
 
-    <!-- SCREENSHOT CAROUSEL SHOWCASE (hidden on very small screens) -->
-    <section aria-label="App screenshots" class="scroll-fade-in hidden xs:block" style="display: none;">
-    <style>@media (min-width: 390px) { section[aria-label="App screenshots"] { display: block !important; } }</style>
-      <!-- Section heading: tighter, more premium -->
+    <!-- v1.2 FEATURES -->
+    <section class="scroll-fade-in max-w-5xl mx-auto px-4 sm:px-6 pt-8">
       <div class="text-center mb-10">
-        <h2 class="text-3xl sm:text-4xl font-bold text-white tracking-tight mb-3">In Aktion sehen</h2>
-        <p class="text-blue-200/70 text-base sm:text-lg max-w-sm mx-auto leading-relaxed">Jeder Bildschirm, zielgerichtet für Klarheit entwickelt.</p>
+        <h2 class="text-3xl sm:text-4xl font-bold text-white mb-4">Neu in v1.2 - Für Familien gebaut</h2>
+        <p class="text-blue-200/70 text-base max-w-xl mx-auto">Moderne Funktionen für modernes Reisen.</p>
       </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+        <!-- Trip Planner -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Alle bereit, auf einen Blick</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Ampel der Familienbereitschaft. Sehen Sie, wer reisefertig ist.</p>
+        </div>
+
+        <!-- Your Own Cloud -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M9 19l3 3m0 0l3-3m-3 3v-6" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Ihre Cloud. Ihr Schlüssel.</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Ende-zu-Ende-verschlüsselte Sicherung in Ihrer iCloud oder Google Drive.</p>
+        </div>
+
+        <!-- Days Abroad -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Tage im Ausland verfolgen</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Erfassen Sie verbrachte Tage in jedem Land. Legen Sie benutzerdefinierte Tageslimitzielen fest und bleiben Sie über die Visumsgültigkeitsregeln auf dem Laufenden.</p>
+        </div>
+
+        <!-- Trip Allowances -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Zollfrei ohne Mathematik</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Kontingente pro Mitglied pro Reise verfolgen.</p>
+        </div>
+
+        <!-- Recently Deleted -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight">30-Tage-Rückgängig</h3>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Versehentlich gelöscht. Jederzeit wiederherstellen.</p>
+        </div>
+
+        <!-- Family Profiles -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Jedes Familienmitglied</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Separate Profile. Dokumente jeder Person ist separat organisiert.</p>
+        </div>
+      </div>
+      <div class="text-center mt-12 scroll-fade-in">
+        <p class="text-white text-lg font-semibold mb-4">Kostenlos starten. Jederzeit upgraden.</p>
+        <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+          <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'ios', 'source_page': window.location.pathname, 'source_section': 'why_us_cta'});" class="group relative inline-flex items-center transition-transform active:scale-95"><img loading="lazy" src="/assets/images/app-store-badge-black.svg" alt="Im App Store laden" class="relative h-[56px] w-auto" width="120" height="40" /></a>
+          <a href="https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'android', 'source_page': window.location.pathname, 'source_section': 'why_us_cta'});" class="group relative inline-flex items-center transition-transform active:scale-95"><img loading="lazy" src="/assets/images/google-play-badge.svg" alt="Bei Google Play erhältlich" class="relative h-[56px] w-auto" width="135" height="40" /></a>
+        </div>
+      </div>
+    </section>
+
+    <!-- SCREENSHOT CAROUSEL SHOWCASE (hidden on very small screens) -->
+    <section aria-label="App-Screenshots" class="scroll-fade-in hidden xs:block" style="display: none; padding-bottom: 40px;">
+    <style>@media (min-width: 390px) { section[aria-label="App-Screenshots"] { display: block !important; } }</style>
 
       <!-- Outer wrapper: slightly wider than image so arrows have breathing room -->
       <div class="mx-auto" style="max-width: 460px; width: 92vw;">
@@ -719,7 +850,7 @@
 
           <!-- Left arrow: absolute, centered on image (label ~60px tall) -->
           <button id="carousel-prev" class="carousel-arrow carousel-arrow-mobile" aria-label="Vorheriger Screenshot" aria-disabled="true"
-                  style="position: absolute; left: 0; top: calc(60px + (100% - 60px) / 2); transform: translateY(-50%) translateX(-50%); z-index: 10;">
+                  style="position: absolute; left: 0; top: calc(110px + (100% - 110px) / 2); transform: translateY(-50%) translateX(-50%); z-index: 10;">
             <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
             </svg>
@@ -736,61 +867,64 @@
 
           <!-- Screenshot 1 -->
           <div class="carousel-slide is-active" role="group" aria-label="Screenshot 1 von 6" aria-roledescription="Folie">
-            <p class="carousel-label-title">Ein Tresor.</p>
-            <p class="carousel-label-sub">Für alle Ihre Dokumente</p>
-            <img src="/assets/images/screenshots-appstore/01.png"
+            <p class="carousel-label-title">Wer ist bereit vor der Abreise</p>
+            <p class="carousel-label-sub">Dokumentenstatus aller Personen sofort prüfen</p>
+            <img src="../../assets/images/screenshots-appstore/01.webp"
                  decoding="async"
-                 alt="Dokumentenliste mit Familienprofilen und Ablaufdaten"
+                 alt="App home screen showing all travel documents ready at a glance"
                  class="loaded"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 2 -->
           <div class="carousel-slide" role="group" aria-label="Screenshot 2 von 6" aria-roledescription="Folie">
-            <p class="carousel-label-title">Alle Ihre Dokumente.</p>
-            <p class="carousel-label-sub">Reisepässe, Visa, Ausweise und mehr</p>
-            <img src="/assets/images/screenshots-appstore/04.png"
+            <p class="carousel-label-title">Bereit für deine Reise</p>
+            <p class="carousel-label-sub">Jede Person, jedes Dokument, geprüft</p>
+            <img src="../../assets/images/screenshots-appstore/02.webp"
                  decoding="async"
-                 alt="Dokumenttypen: Reisepass, Visum, Ausweis, Flugticket"
+                 alt="Trip readiness view confirming all documents are valid and up to date"
                  class="loaded"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 3 -->
           <div class="carousel-slide" role="group" aria-label="Screenshot 3 von 6" aria-roledescription="Folie">
-            <p class="carousel-label-title">Keine Verlängerung verpassen.</p>
-            <p class="carousel-label-sub">Intelligente Erinnerungen Monate im Voraus</p>
-            <img data-src="/assets/images/screenshots-appstore/02.png"
+            <p class="carousel-label-title">Das Reiseprofil jeder Person</p>
+            <p class="carousel-label-sub">Dokumente, Reisen, Erinnerungen zusammen</p>
+            <img src="../../assets/images/screenshots-appstore/03.webp"
                  decoding="async"
-                 alt="Intelligente Erinnerungen mit 6 Wochen Vorlaufzeit"
-                 width="1260" height="2736" />
+                 alt="Family profiles showing documents for every member in one place"
+                 class="loaded"
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 4 -->
           <div class="carousel-slide" role="group" aria-label="Screenshot 4 von 6" aria-roledescription="Folie">
-            <p class="carousel-label-title">Ihre Familie. Geschützt.</p>
-            <p class="carousel-label-sub">Ein Profil pro Familienmitglied</p>
-            <img data-src="/assets/images/screenshots-appstore/03.png"
+            <p class="carousel-label-title">Verbleibende Tage in jedem Land</p>
+            <p class="carousel-label-sub">Auslandsaufenthalt jeder Person verfolgen</p>
+            <img src="../../assets/images/screenshots-appstore/04.webp"
                  decoding="async"
-                 alt="Familienprofile für Emma, Lucas, Oliver und Sophie"
-                 width="1260" height="2736" />
+                 alt="Visa tracker showing days remaining in each country for each traveller"
+                 class="loaded"
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 5 -->
           <div class="carousel-slide" role="group" aria-label="Screenshot 5 von 6" aria-roledescription="Folie">
-            <p class="carousel-label-title">Jedes Detail. Erfasst.</p>
-            <p class="carousel-label-sub">Fotos, Daten und Notizen</p>
-            <img data-src="/assets/images/screenshots-appstore/05.png"
+            <p class="carousel-label-title">Immer einen Schritt voraus</p>
+            <p class="carousel-label-sub">Erinnerungen, bevor du sie brauchst</p>
+            <img src="../../assets/images/screenshots-appstore/05.webp"
                  decoding="async"
-                 alt="Dokumentdetailansicht mit Reisepass-Anhang und Metadaten"
-                 width="1260" height="2736" />
+                 alt="Expiry reminders showing upcoming renewal dates months in advance"
+                 class="loaded"
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 6 -->
           <div class="carousel-slide" role="group" aria-label="Screenshot 6 von 6" aria-roledescription="Folie">
-            <p class="carousel-label-title">Bleibt auf Ihrem Gerät.</p>
-            <p class="carousel-label-sub">PIN-Sperre. Keine Cloud. Keine Konten.</p>
-            <img data-src="/assets/images/screenshots-appstore/06.png"
+            <p class="carousel-label-title">Dein Tresor, Deine Kontrolle</p>
+            <p class="carousel-label-sub">Verschlüsselte Sicherung, nur du kannst wiederherstellen</p>
+            <img src="../../assets/images/screenshots-appstore/06.webp"
                  decoding="async"
                  alt="PIN-Sperrbildschirm für vertrauenswürdige Privatsphäre"
                  width="1260" height="2736" />
@@ -803,7 +937,7 @@
 
           <!-- Right arrow: absolute, centered on image -->
           <button id="carousel-next" class="carousel-arrow carousel-arrow-mobile" aria-label="Nächster Screenshot"
-                  style="position: absolute; right: 0; top: calc(60px + (100% - 60px) / 2); transform: translateY(-50%) translateX(50%); z-index: 10;">
+                  style="position: absolute; right: 0; top: calc(110px + (100% - 110px) / 2); transform: translateY(-50%) translateX(50%); z-index: 10;">
             <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
             </svg>
@@ -967,7 +1101,7 @@
 
     <!-- SECTION 8: Final CTA -->
     <section aria-labelledby="cta-heading" class="scroll-fade-in text-center space-y-6 pt-8 pb-24 md:pb-12">
-      <h2 id="cta-heading" class="text-3xl sm:text-4xl font-bold text-white">Schluss mit dem Stress wegen Ablaufdaten</h2>
+      <h2 id="cta-heading" class="text-3xl sm:text-4xl font-bold text-white">Ihre Familie. Geschützt. Immer.</h2>
       <p class="text-blue-200/70 text-lg max-w-xl mx-auto">Alles an einem Ort. Kein Konto, kein Abonnement, keine Überraschungen.</p>
       <div class="flex flex-col sm:flex-row items-center justify-center gap-8">
         <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'ios', 'source_page': window.location.pathname, 'source_section': 'why_us_cta'});" class="group relative inline-flex items-center transition-transform active:scale-95">
@@ -1009,13 +1143,12 @@
   </main>
 
   <!-- Sticky bottom CTA (mobile only) -->
-  <div id="sticky-cta" class="sticky-cta md:hidden px-4 py-3 flex items-center justify-between">
-    <div>
-      <p class="text-white text-sm font-semibold">Kostenlos starten</p>
-      <p class="text-slate-400 text-xs">Kein Konto erforderlich</p>
-    </div>
-    <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" class="px-5 py-2.5 rounded-xl bg-brand-gold text-brand-blue font-bold text-sm hover:bg-brand-goldHover transition-colors">
-      App laden
+  <div id="sticky-cta" class="sticky-cta md:hidden px-4 py-3 flex items-center justify-center gap-3">
+    <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" class="group relative inline-flex items-center transition-transform active:scale-95">
+      <img loading="lazy" src="/assets/images/app-store-badge-black.svg" alt="Im App Store laden" class="relative h-[40px] w-auto" width="120" height="40" />
+    </a>
+    <a href="https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault" target="_blank" rel="noopener noreferrer" class="group relative inline-flex items-center transition-transform active:scale-95">
+      <img loading="lazy" src="/assets/images/google-play-badge.svg" alt="Bei Google Play erhältlich" class="relative h-[40px] w-auto" width="135" height="40" />
     </a>
   </div>
 

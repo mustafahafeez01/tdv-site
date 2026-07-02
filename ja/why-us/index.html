@@ -68,7 +68,7 @@
       {
         "@type": "Question",
         "name": "スマートフォンを紛失した場合はどうなりますか？",
-        "acceptedAnswer": { "@type": "Answer", "text": "ドキュメントはデバイス上にあるため、通常のスマートフォンのバックアップ（iCloud または Google バックアップ）に含まれます。新しいスマートフォンに復元すると、保管庫もそのまま引き継がれます。Pro版のユーザーはいつでも暗号化されたバックアップも作成可能です。" }
+        "acceptedAnswer": { "@type": "Answer", "text": "ドキュメントはお客様のデバイスのみに保存されています。暗号化キーはお客様のデバイスを離れることはないため、通常のスマートフォンバックアップ（iCloud / Google Backup）では復元できません。新しいデバイスに切り替える前に、設定からVault Export（.tdvault ファイル）をエクスポートしてください。すべてのユーザーに無料です。または、Pro版のユーザーは、お客様ご自身の iCloud または Google Drive への暗号化クラウドバックアップを有効にして、リカバリーコードを保有することで、いつでも復元できます。" }
       },
       {
         "@type": "Question",
@@ -143,10 +143,10 @@
     /* Screenshot carousel - gold standard */
     .carousel-stage {
       position: relative;
-      height: calc(80vw * 2.17 + 70px);
+      height: calc(80vw * 2.17 + 130px);
     }
-    @media (min-width: 640px) { .carousel-stage { height: 770px; } }
-    @media (min-width: 1024px) { .carousel-stage { height: 870px; } }
+    @media (min-width: 640px) { .carousel-stage { height: 860px; } }
+    @media (min-width: 1024px) { .carousel-stage { height: 960px; } }
 
     .carousel-slide {
       position: absolute;
@@ -266,6 +266,7 @@
     /* Focus visible for keyboard nav */
     details summary:focus-visible { outline: 2px solid #FFB000; outline-offset: 2px; border-radius: 0.75rem; }
     a:focus-visible, button:focus-visible { outline: 2px solid #FFB000; outline-offset: 2px; border-radius: 4px; }
+    .pro-badge { background: linear-gradient(135deg, #FFB000 0%, #e69f00 100%); }
     /* Reduced motion */
     @media (prefers-reduced-motion: reduce) {
       .scroll-fade-in, .stagger-children > *, .screenshot-reveal,
@@ -363,14 +364,14 @@
         プライバシー第一。デバイス内のみ。アカウント不要。
       </div>
       <h1 id="hero-heading" class="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-[1.1] mb-8">
-        書類を探すのに<br class="hidden sm:block">
-        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">どれほどの時間を無駄にしていますか？</span>
+        必要な時に<br class="hidden sm:block">
+        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">いつも準備できている</span>
       </h1>
       <p class="text-blue-100/90 text-lg sm:text-xl leading-relaxed max-w-2xl mx-auto mb-6">
-        入国審査。ビザの申請。保険のフォーム。<strong class="text-white">カメラロールを探し回るたびに、不要なストレスが溜まります。</strong>
+        入国審査。ビザの申請。保険のフォーム。<strong class="text-white">1つのアプリで、1回タップするだけで、家族全員の重要書類にアクセスできます。</strong>
       </p>
       <p class="text-blue-200/80 text-base sm:text-lg leading-relaxed max-w-xl mx-auto mb-8">
-        <strong class="text-white">もし、いつでも準備ができていたらどうでしょう？</strong>
+        <strong class="text-white">書類を探すストレスはもう不要です。</strong>
       </p>
       <div class="flex flex-col items-center gap-4 pt-4">
         <p class="text-white text-lg font-semibold">無料でダウンロード。アカウント不要。サブスクリプションもありません。</p>
@@ -383,6 +384,33 @@
       </a>
         </div>
         <span class="text-slate-50 text-sm font-medium">一度のお支払いで、今後のv1.xアップデートがすべて含まれます。</span>
+        <p class="text-blue-200/70 text-xs max-w-md mt-2">自分の家族のために必要としていた一人によって構築されました。VC なし、株主なし、広告ネットワークなし。私が責任を負うのは 1 人だけです。あなたです。</p>
+      </div>
+    </section>
+
+    <!-- Founder Story - Section 2 -->
+    <section aria-labelledby="founder-heading" class="scroll-fade-in text-center max-w-3xl mx-auto pt-24 md:pt-32">
+      <div class="glass-panel rounded-2xl p-8 sm:p-10">
+        <div class="flex items-start gap-4 mb-6 justify-center">
+          <div class="h-16 w-16 rounded-full bg-gradient-to-br from-brand-gold to-brand-blue p-[2px] flex-shrink-0">
+            <div class="h-full w-full rounded-full bg-[#0A192F] flex items-center justify-center text-base font-bold text-white">
+              MH
+            </div>
+          </div>
+          <div class="text-left">
+            <p class="text-white font-semibold text-lg">Mustafa Hafeez</p>
+            <p class="text-slate-400 text-sm">Travel Document Vault を家族のために構築しました</p>
+          </div>
+        </div>
+        <blockquote class="text-slate-200 text-lg sm:text-xl leading-relaxed mb-6">
+          「家族旅行のたびに、写真、メール、Drive を宝探しのように探し回っていました。次の旅行ではそうならないように、これを作りました。」
+        </blockquote>
+        <p class="text-blue-200/70 text-base leading-relaxed mb-4">
+          ベンチャーキャピタルの支援もありません。株主もいません。広告ネットワークもありません。ただ、毎回同じパニックに疲れ果てた一人の親がいるだけです。
+        </p>
+        <a href="/ja/blog/why-i-built-travel-document-vault/" class="text-brand-gold hover:text-brand-gold-hover font-semibold transition-colors inline-flex items-center gap-2">
+          詳しい話を読む →
+        </a>
       </div>
     </section>
 
@@ -448,42 +476,10 @@
           <p class="text-slate-400 text-base"><strong class="text-slate-300">短所:</strong> 有効期限のリマインダーやガイド付きキャプチャはありません。また、強力な暗号化の対象外となり、パスポートの画像が買い物リストの隣に無防備に置かれることになります。</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">紙のファイル</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">長所:</strong> 自宅にいる時は確実です。</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">短所:</strong> 異国の空港では使い物になりません。また、紙のファイルは有効期限の6ヶ月前にリマインダーを送ってくれません。</p>
-        </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">「自分の記憶」</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">長所:</strong> 時には機能します。</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">短所:</strong> そうでない時が来るまでは。そして、それは通常、フライトの前夜に起こり、すべて手遅れになっています。</p>
-        </div>
-        <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">スプレッドシート</h3>
           <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">長所:</strong> 旅行日程の計画や詳細の入力には優れています。</p>
           <p class="text-slate-400 text-base"><strong class="text-slate-300">短所:</strong> 安全な画像の添付ができず、空港でスマートフォンの画面から見るにはフォーマットが最悪です。旅行前に自動で送信される有効期限リマインダーもありません。</p>
         </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">航空会社のアプリ</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">長所:</strong> その日乗る特定のフライトにはスムーズに機能します。</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">短所:</strong> 旅行と旅行の間の情報は忘れ去られ、ビザの追跡もできず、ホテルでの身分証明書の提示やレンタカーを借りる際にはまったく役立ちません。</p>
-        </div>
-      </div>
-      <!-- Founder Quote with Attribution -->
-      <div class="glass-panel rounded-2xl p-6 sm:p-8 mt-8 max-w-3xl mx-auto scroll-fade-in">
-        <div class="flex items-start gap-4 mb-4">
-          <div class="h-12 w-12 rounded-full bg-gradient-to-br from-brand-gold to-brand-blue p-[2px] flex-shrink-0">
-            <div class="h-full w-full rounded-full bg-[#0A192F] flex items-center justify-center text-sm font-bold text-white">
-              MH
-            </div>
-          </div>
-          <div>
-            <p class="text-white font-semibold">Mustafa Hafeez</p>
-            <p class="text-slate-400 text-sm">Travel Document Vault 開発者</p>
-          </div>
-        </div>
-        <blockquote class="text-slate-200 text-base sm:text-lg leading-relaxed italic">
-          「私自身、そのほとんどを試しました。カメラロール、共有ドライブ、『覚えていればいい』というアプローチも。だからこそ、こんなアプリがあればいいのにと思い続けてきたことを形にしたのです。」
-        </blockquote>
       </div>
     </section>
 
@@ -590,7 +586,7 @@
         <div class="bg-brand-gold/20 border-l-4 border-brand-gold rounded-lg p-6">
           <p class="text-white text-lg font-bold mb-4">すべてがデバイス内に留まります。それ以上でもそれ以下でもありません。</p>
           <p class="text-slate-200 text-base leading-relaxed mb-4">
-            クラウド同期機能がないのは、意図的なセキュリティ対策です。クラウドなし。アカウントなし。あなたのドキュメントはサードパーティのサーバーに触れることはありません。
+            クラウド同期は既定ではオフです。有効にした場合（Pro）、あなたのボルトはアップロード前にデバイス上で暗号化され、あなた自身のiCloudまたはGoogleドライブに送信され、あなただけが保有しているリカバリーコードで封印されます。我々、Apple、またはGoogleを含め誰も、それを読むことはできません。この約束はポリシーではなくコードで実装されています。
           </p>
           <p class="text-slate-300 text-sm">
             保存時にはAES-256-GCM暗号化を使用。暗号化バックアップにはPBKDF2鍵導出を使用。<a href="/privacy-policy/" class="text-brand-gold hover:text-yellow-300 transition-colors underline">完全なプライバシーポリシー</a>
@@ -607,7 +603,7 @@
           <h3 class="text-xl font-bold text-white mb-4">有効期限リマインダーを数カ月前に</h3>
 
           <p class="text-slate-300 text-base leading-relaxed mb-4">
-            パスポートの更新には6〜8週間かかります。リマインダーは<strong class="text-white">6ヶ月前に自動的に開始され、継続的にお知らせします</strong>。
+            パスポートの更新には6〜8週間かかります。リマインダーは<strong class="text-white">8ヶ月前に自動的に開始され、継続的にお知らせします</strong>。
           </p>
 
           <p class="text-slate-300 text-base leading-relaxed mb-4">
@@ -699,6 +695,104 @@
       </div>
     </section>
 
+    <!-- FEATURES: BUILT FOR FAMILIES -->
+    <section class="scroll-fade-in max-w-5xl mx-auto px-4 sm:px-6 pt-8">
+      <div class="text-center mb-10">
+        <h2 class="text-3xl sm:text-4xl font-bold text-white mb-4">ご家族のために設計</h2>
+        <p class="text-blue-200/70 text-base max-w-xl mx-auto">旅行を一緒に計画。制限を追跡。ビザ制限を把握。</p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-5">
+        <!-- Trip Planner -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">全員が準備完了、一目で確認</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">ご家族の準備状況を信号機で表示。誰が旅行準備完了かわかります。</p>
+        </div>
+
+        <!-- Your Own Cloud -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M9 19l3 3m0 0l3-3m-3 3v-6" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">あなたのクラウド。あなたの鍵。</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">iCloudまたはGoogle Driveへのエンドツーエンド暗号化バックアップ。</p>
+        </div>
+
+        <!-- Days Abroad -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">海外滞在日数を追跡</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">任意の国で費やした日数を記録します。カスタムの日数制限の目標を設定し、ビザの有効期間ルールを把握しましょう。</p>
+        </div>
+
+        <!-- Trip Allowances -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">関税は計算いらず</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">1人あたり、1回の旅行あたりの免税額を追跡。</p>
+        </div>
+
+        <!-- Recently Deleted -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col items-center text-center gap-3">
+          <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
+            </svg>
+          </div>
+          <h3 class="text-base font-bold text-white">30日間の復元</h3>
+          <p class="text-xs text-slate-300 leading-relaxed">うっかり削除。いつでも復元できます。</p>
+        </div>
+
+        <!-- Family Profiles -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">家族全員。別々に。</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">プロフィール別に分けられた書類管理。各自が自分の書類を整理できます。</p>
+        </div>
+      </div>
+      <div class="text-center mt-12 scroll-fade-in">
+        <p class="text-white text-lg font-semibold mb-4">無料でスタート。いつでもアップグレード。</p>
+        <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+          <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'ios', 'source_page': window.location.pathname, 'source_section': 'why_us_cta'});" class="group relative inline-flex items-center transition-transform active:scale-95"><img loading="lazy" src="/assets/images/app-store-badge-black.svg" alt="App Storeでダウンロード" class="relative h-[56px] w-auto" width="120" height="40" /></a>
+          <a href="https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'android', 'source_page': window.location.pathname, 'source_section': 'why_us_cta'});" class="group relative inline-flex items-center transition-transform active:scale-95"><img loading="lazy" src="/assets/images/google-play-badge.svg" alt="Google Playで手に入れよう" class="relative h-[56px] w-auto" width="135" height="40" /></a>
+        </div>
+      </div>
+    </section>
+
     <!-- SCREENSHOT CAROUSEL SHOWCASE (hidden on very small screens) -->
     <section aria-label="アプリのスクリーンショット" class="scroll-fade-in hidden xs:block" style="display: none;">
     <style>@media (min-width: 390px) { section[aria-label="アプリのスクリーンショット"] { display: block !important; } }</style>
@@ -716,7 +810,7 @@
 
           <!-- Left arrow: absolute, centered on image (label ~60px tall) -->
           <button id="carousel-prev" class="carousel-arrow carousel-arrow-mobile" aria-label="前のスクリーンショット" aria-disabled="true"
-                  style="position: absolute; left: 0; top: calc(60px + (100% - 60px) / 2); transform: translateY(-50%) translateX(-50%); z-index: 10;">
+                  style="position: absolute; left: 0; top: calc(110px + (100% - 110px) / 2); transform: translateY(-50%) translateX(-50%); z-index: 10;">
             <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
             </svg>
@@ -733,64 +827,64 @@
 
           <!-- Screenshot 1 -->
           <div class="carousel-slide is-active" role="group" aria-label="スクリーンショット 1 / 6" aria-roledescription="slide">
-            <p class="carousel-label-title">一つの保管庫。</p>
-            <p class="carousel-label-sub">すべての書類のために。</p>
-            <img src="/assets/images/screenshots-appstore/ja/01.png"
+            <p class="carousel-label-title">出発前に全員の準備状況を確認</p>
+            <p class="carousel-label-sub">全員の書類状況をすぐにチェック</p>
+            <img src="../../assets/images/screenshots-appstore/ja/01.webp"
                  decoding="async"
                  alt="家族のプロファイルと有効期限を示す書類リスト"
                  class="loaded"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 2 -->
           <div class="carousel-slide" role="group" aria-label="スクリーンショット 2 / 6" aria-roledescription="slide">
-            <p class="carousel-label-title">すべての書類。</p>
-            <p class="carousel-label-sub">パスポート、ビザ、IDなどに。</p>
-            <img src="/assets/images/screenshots-appstore/ja/04.png"
+            <p class="carousel-label-title">旅行の準備完了</p>
+            <p class="carousel-label-sub">全員の書類確認済み</p>
+            <img src="../../assets/images/screenshots-appstore/ja/04.webp"
                  decoding="async"
                  alt="パスポート、ビザ、ID、航空券などの書類タイプ"
                  class="loaded"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 3 -->
           <div class="carousel-slide" role="group" aria-label="スクリーンショット 3 / 6" aria-roledescription="slide">
-            <p class="carousel-label-title">更新を見逃さない。</p>
-            <p class="carousel-label-sub">数カ月前にスマートリマインダー。</p>
-            <img data-src="/assets/images/screenshots-appstore/ja/02.png"
+            <p class="carousel-label-title">全員の旅行プロフィール</p>
+            <p class="carousel-label-sub">書類、旅行、リマインダーを一か所に</p>
+            <img data-src="../../assets/images/screenshots-appstore/ja/02.webp"
                  decoding="async"
                  alt="6週間前の通知を示すスマートリマインダー"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 4 -->
           <div class="carousel-slide" role="group" aria-label="スクリーンショット 4 / 6" aria-roledescription="slide">
-            <p class="carousel-label-title">家族。守られています。</p>
-            <p class="carousel-label-sub">家族につき1プロファイル。</p>
-            <img data-src="/assets/images/screenshots-appstore/ja/03.png"
+            <p class="carousel-label-title">各国の残り日数</p>
+            <p class="carousel-label-sub">各メンバーの海外滞在日数を追跡</p>
+            <img data-src="../../assets/images/screenshots-appstore/ja/03.webp"
                  decoding="async"
                  alt="エマ、ルーカス、オリバー、ソフィーの家族プロファイル"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 5 -->
           <div class="carousel-slide" role="group" aria-label="スクリーンショット 5 / 6" aria-roledescription="slide">
-            <p class="carousel-label-title">すべての詳細。キャプチャ。</p>
-            <p class="carousel-label-sub">写真、日付、メモ。</p>
-            <img data-src="/assets/images/screenshots-appstore/ja/05.png"
+            <p class="carousel-label-title">期限が来る前に備える</p>
+            <p class="carousel-label-sub">必要になる前にリマインダーを受け取る</p>
+            <img data-src="../../assets/images/screenshots-appstore/ja/05.webp"
                  decoding="async"
                  alt="パスポートの添付とメタデータを含む書類の詳細表示"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 6 -->
           <div class="carousel-slide" role="group" aria-label="スクリーンショット 6 / 6" aria-roledescription="slide">
-            <p class="carousel-label-title">デバイス内に。</p>
-            <p class="carousel-label-sub">PINロック。クラウドなし。アカウント不要。</p>
-            <img data-src="/assets/images/screenshots-appstore/ja/06.png"
+            <p class="carousel-label-title">パスポート、ビザ、ID、全て整理済み</p>
+            <p class="carousel-label-sub">何がいつ期限切れかを正確に確認</p>
+            <img data-src="../../assets/images/screenshots-appstore/ja/06.webp"
                  decoding="async"
                  alt="信頼できるプライバシー保護のためのPINロック画面"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
             </div>
@@ -800,7 +894,7 @@
 
           <!-- Right arrow: absolute, centered on image -->
           <button id="carousel-next" class="carousel-arrow carousel-arrow-mobile" aria-label="次のスクリーンショット"
-                  style="position: absolute; right: 0; top: calc(60px + (100% - 60px) / 2); transform: translateY(-50%) translateX(50%); z-index: 10;">
+                  style="position: absolute; right: 0; top: calc(110px + (100% - 110px) / 2); transform: translateY(-50%) translateX(50%); z-index: 10;">
             <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
             </svg>

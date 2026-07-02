@@ -68,7 +68,7 @@
       {
         "@type": "Question",
         "name": "Que se passe-t-il si je perds mon téléphone ?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Vos documents se trouvent sur votre appareil, donc une sauvegarde téléphonique régulière (iCloud ou Google Backup) les inclut. Lorsque vous restaurez vers un nouveau téléphone, votre coffre-fort vient avec lui. Les utilisateurs Pro peuvent également créer des sauvegardes chiffrées à tout moment." }
+        "acceptedAnswer": { "@type": "Answer", "text": "Vos documents se trouvent sur votre appareil uniquement. Une sauvegarde téléphonique système (iCloud ou Google Backup) ne restaure pas les données du coffre-fort, car votre clé de chiffrement ne quitte jamais l'appareil. Pour protéger vos documents lors d'un changement de téléphone, activez la sauvegarde cloud Pro (chiffrée vers votre propre iCloud ou Google Drive avec code de récupération), ou exportez un fichier .tdvault depuis les Paramètres." }
       },
       {
         "@type": "Question",
@@ -113,6 +113,7 @@
     .nav-link:hover::after { width: 100%; }
     .pricing-highlight { background: linear-gradient(145deg, rgba(255,176,0,0.15) 0%, rgba(255,176,0,0.05) 100%); border: 2px solid rgba(255,176,0,0.3); }
     .pricing-highlight:hover { border-color: rgba(255,176,0,0.5); background: linear-gradient(145deg, rgba(255,176,0,0.2) 0%, rgba(255,176,0,0.08) 100%); }
+    .pro-badge { background: linear-gradient(135deg, #FFB000 0%, #e69f00 100%); }
     .scroll-fade-in { opacity: 0; transform: translateY(30px); transition: opacity 0.6s ease-out, transform 0.6s ease-out; }
     .scroll-fade-in.visible { opacity: 1; transform: translateY(0); }
     .stagger-children > * { opacity: 0; transform: translateY(20px); transition: opacity 0.5s ease-out, transform 0.5s ease-out; }
@@ -143,10 +144,10 @@
     /* Screenshot carousel - gold standard */
     .carousel-stage {
       position: relative;
-      height: calc(80vw * 2.17 + 70px);
+      height: calc(80vw * 2.17 + 130px);
     }
-    @media (min-width: 640px) { .carousel-stage { height: 770px; } }
-    @media (min-width: 1024px) { .carousel-stage { height: 870px; } }
+    @media (min-width: 640px) { .carousel-stage { height: 860px; } }
+    @media (min-width: 1024px) { .carousel-stage { height: 960px; } }
 
     .carousel-slide {
       position: absolute;
@@ -176,13 +177,9 @@
       height: auto;
       max-width: 360px;
       flex-shrink: 0;
-      image-rendering: -webkit-optimize-contrast;
-      image-rendering: crisp-edges;
-      /* Force GPU compositing for sharper rendering */
-      transform: translateZ(0);
-      -webkit-transform: translateZ(0);
-      backface-visibility: hidden;
-      -webkit-backface-visibility: hidden;
+      image-rendering: auto;
+      border-radius: 28px;
+      overflow: hidden;
     }
     @media (min-width: 640px) { .carousel-slide img { width: 340px; max-width: 340px; } }
     @media (min-width: 1024px) { .carousel-slide img { width: 400px; max-width: 400px; } }
@@ -192,15 +189,15 @@
       /* Reset browser default <p> margin, then apply intentional spacing */
       margin-top: 0;
       margin-bottom: 2px;
-      font-size: 1.5rem;       /* 24px - premium weight, Apple-scale */
+      font-size: 1.15rem;
       font-weight: 700;
       letter-spacing: -0.01em;
       line-height: 1.2;
       color: #FFB000;
       text-align: center;
     }
-    @media (min-width: 640px)  { .carousel-label-title { font-size: 1.75rem; } }  /* 28px */
-    @media (min-width: 1024px) { .carousel-label-title { font-size: 2rem;    } }  /* 32px */
+    @media (min-width: 640px)  { .carousel-label-title { font-size: 1.35rem; } }
+    @media (min-width: 1024px) { .carousel-label-title { font-size: 1.5rem;  } }
 
     .carousel-label-sub {
       /* Reset browser default <p> margin, then 8px gap before the image */
@@ -364,14 +361,14 @@
         Confidentialité d'abord. Sur l'appareil seulement. Aucun compte requis.
       </div>
       <h1 id="hero-heading" class="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-[1.1] mb-8">
-        Combien de temps<br class="hidden sm:block">
-        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">perdez-vous à chercher des documents ?</span>
+        Toujours prêt<br class="hidden sm:block">
+        <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-gold to-yellow-300">quand vous en avez besoin</span>
       </h1>
       <p class="text-blue-100/90 text-lg sm:text-xl leading-relaxed max-w-2xl mx-auto mb-6">
-        Comptoirs d'immigration. Demandes de visa. Formulaires d'assurance. <strong class="text-white">Chaque recherche dans votre galerie photo ajoute du stress inutile.</strong>
+        Comptoirs d'immigration. Demandes de visa. Formulaires d'assurance. <strong class="text-white">Ouvrez une application. Trouvez votre document en une seconde.</strong>
       </p>
       <p class="text-blue-200/80 text-base sm:text-lg leading-relaxed max-w-xl mx-auto mb-8">
-        <strong class="text-white">Et si tout était toujours prêt ?</strong>
+        Pas de recherche. Pas de stress. Juste ce que vous aviez besoin.
       </p>
       <div class="flex flex-col items-center gap-4 pt-4">
         <p class="text-white text-lg font-semibold">Télécharger gratuitement. Aucun compte. Pas d'abonnement.</p>
@@ -384,6 +381,33 @@
       </a>
         </div>
         <span class="text-slate-50 text-sm font-medium">Payer une fois. Toutes les mises à jour v1.x incluses, à jamais.</span>
+        <p class="text-blue-200/70 text-xs max-w-md mt-2">Construit par quelqu'un qui en avait besoin pour sa propre famille. Pas de VCs, pas d'actionnaires, pas de réseaux publicitaires. Je ne réponds qu'à une seule personne : vous.</p>
+      </div>
+    </section>
+
+    <!-- Founder Story - Section 2 -->
+    <section aria-labelledby="founder-heading" class="scroll-fade-in text-center max-w-3xl mx-auto pt-24 md:pt-32">
+      <div class="glass-panel rounded-2xl p-8 sm:p-10">
+        <div class="flex items-start gap-4 mb-6 justify-center">
+          <div class="h-16 w-16 rounded-full bg-gradient-to-br from-brand-gold to-brand-blue p-[2px] flex-shrink-0">
+            <div class="h-full w-full rounded-full bg-[#0A192F] flex items-center justify-center text-base font-bold text-white">
+              MH
+            </div>
+          </div>
+          <div class="text-left">
+            <p class="text-white font-semibold text-lg">Mustafa Hafeez</p>
+            <p class="text-slate-400 text-sm">Créé Travel Document Vault pour ma famille</p>
+          </div>
+        </div>
+        <blockquote class="text-slate-200 text-lg sm:text-xl leading-relaxed mb-6">
+          "Chaque voyage en famille se transformait en chasse au trésor à travers Photos, email et Drive. J'ai créé ceci pour que le prochain soit différent."
+        </blockquote>
+        <p class="text-blue-200/70 text-base leading-relaxed mb-4">
+          Pas de capital-risque. Pas d'actionnaires. Pas de réseaux publicitaires. Juste un parent qui avait assez de la même panique, à chaque voyage.
+        </p>
+        <a href="/fr/blog/why-i-built-travel-document-vault/" class="text-brand-gold hover:text-brand-gold-hover font-semibold transition-colors inline-flex items-center gap-2">
+          Lire l'histoire complète →
+        </a>
       </div>
     </section>
 
@@ -419,80 +443,48 @@
     </section>
 
     <!-- SECTION 3: Alternatives -->
-    <section aria-labelledby="alternatives-heading" class="scroll-fade-in">
-      <h2 id="alternatives-heading" class="text-2xl sm:text-3xl font-bold text-white text-center mb-4">Ce que vous utilisez probablement en ce moment</h2>
+    <section aria-labelledby="alternatives-heading" class="scroll-fade-in pt-8">
+      <h2 id="alternatives-heading" class="text-2xl sm:text-3xl font-bold text-white text-center mb-4">Que vous utilisez probablement en ce moment</h2>
       <p class="text-blue-200/80 text-center mb-10 max-w-xl mx-auto">Ce sont tous des choix raisonnables. Chacun fonctionne - jusqu'à un certain point.</p>
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 max-w-5xl mx-auto stagger-children">
         <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">Coffres-forts à usage général</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fonctionne :</strong> Sécurité élevée et accès hors ligne.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Insuffisant :</strong> Ils traitent un passeport comme un reçu d'épicerie et manquent de logique spécifique aux voyages. Nous avons construit ceci spécifiquement pour les voyageurs, offrant une offre gratuite généreuse de 5 documents et un prix unique et simple de $9.99 sans aucun abonnement récurrent.</p>
+          <h3 class="text-white font-semibold mb-3">Coffres-forts généraux</h3>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Avantages :</strong> Sécurité élevée et accès hors ligne.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Inconvénients :</strong> Ils traitent un passeport comme un reçu d'épicerie et manquent de logique spécifique aux voyages. Nous avons conçu ceci spécifiquement pour les voyageurs, offrant un généreux palier gratuit de 5 documents et un prix unique et direct de 9,99 $ sans aucun abonnement récurrent.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Galerie photos / Photos</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fonctionne :</strong> Toujours avec vous.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Insuffisant :</strong> Enterré parmi des milliers de photos sans suivi d'expiration, sans organisation et sans sécurité au-delà du verrouillage de votre téléphone.</p>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Avantages :</strong> Toujours avec vous.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Inconvénients :</strong> Noyés dans des milliers de photos sans suivi d'expiration, aucune organisation et aucune sécurité au-delà du verrouillage de votre téléphone.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">Stockage cloud</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fonctionne :</strong> Mode hors ligne et synchronisation sur plusieurs appareils.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Insuffisant :</strong> Vous stockez votre passeport, vérifiez la date d'expiration, basculez vers une application calendrier pour définir un rappel, puis souvenez-vous du dossier où se trouvent les documents de votre conjoint. C'est trois applications pour le travail d'une et aucune d'elles ne sait que c'est un passeport qui expire.</p>
+          <h3 class="text-white font-semibold mb-3">Stockage en nuage</h3>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Avantages :</strong> Mode hors ligne et synchronisation entre appareils.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Inconvénients :</strong> Vous stockez votre passeport, vérifiez la date d'expiration, basculez vers une application calendrier pour définir un rappel, puis vous souvenez du dossier contenant les documents de votre conjoint. C'est trois applications qui font le travail d'une seule, et aucune ne sait que c'est un passeport qui expire.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Gestionnaires de mots de passe</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fonctionne :</strong> Parfait pour les mots de passe.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Insuffisant :</strong> Non conçu pour les images de documents, le suivi d'expiration ou l'organisation familiale. Une photo de passeport dans un champ de mot de passe est un contournement, pas une solution.</p>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Avantages :</strong> Parfait pour les mots de passe.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Inconvénients :</strong> Non conçu pour les images de documents, le suivi d'expiration ou l'organisation familiale. Une photo de passeport dans un champ de mot de passe est une solution de contournement, pas une solution.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Applications de prise de notes</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fonctionne :</strong> Flexible et familière.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Insuffisant :</strong> Pas de rappels d'expiration, pas de capture guidée, et votre photo de passeport se trouve à côté de votre liste d'épicerie sans chiffrement.</p>
-        </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">Dossiers papier</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fonctionne :</strong> Fiable à la maison.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Insuffisant :</strong> Inutile à un aéroport dans un autre pays. Et le papier ne vous envoie pas de rappel six mois avant l'expiration.</p>
-        </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">« Je vais m'en souvenir »</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fonctionne :</strong> Parfois.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Insuffisant :</strong> Jusqu'à ce que ce ne soit pas le cas. Et cela échoue généralement la veille d'un vol, quand il est trop tard pour corriger quoi que ce soit.</p>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Avantages :</strong> Flexible et familier.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Inconvénients :</strong> Pas de rappels d'expiration, pas de capture guidée, et votre photo de passeport se trouve à côté de votre liste d'épicerie sans chiffrement.</p>
         </div>
         <div class="glass-card rounded-2xl p-8">
           <h3 class="text-white font-semibold mb-3">Feuilles de calcul</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fonctionne :</strong> Excellent pour planifier les itinéraires et taper les détails.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Insuffisant :</strong> Pas de pièces jointes d'image sécurisées, formatage horrible sur les écrans mobiles à l'aéroport, et pas de rappels d'expiration automatisés avant votre voyage.</p>
+          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Avantages :</strong> Excellent pour planifier les itinéraires et saisir les détails.</p>
+          <p class="text-slate-400 text-base"><strong class="text-slate-300">Inconvénients :</strong> Aucune pièce jointe d'image sécurisée, mise en forme terrible sur les écrans mobiles à l'aéroport, et aucun rappel d'expiration automatisé avant votre voyage.</p>
         </div>
-        <div class="glass-card rounded-2xl p-8">
-          <h3 class="text-white font-semibold mb-3">Applications de compagnies aériennes</h3>
-          <p class="text-slate-300 text-base mb-3"><strong class="text-slate-100">Fonctionne :</strong> Parfait pour le vol spécifique que vous prenez aujourd'hui.</p>
-          <p class="text-slate-400 text-base"><strong class="text-slate-300">Insuffisant :</strong> Ils oublient vos détails entre les voyages, ne suivent pas les visas et sont complètement inutiles quand vous devez montrer une pièce d'identité à un hôtel ou louer une voiture.</p>
-        </div>
-      </div>
-      <!-- Founder Quote with Attribution -->
-      <div class="glass-panel rounded-2xl p-6 sm:p-8 mt-8 max-w-3xl mx-auto scroll-fade-in">
-        <div class="flex items-start gap-4 mb-4">
-          <div class="h-12 w-12 rounded-full bg-gradient-to-br from-brand-gold to-brand-blue p-[2px] flex-shrink-0">
-            <div class="h-full w-full rounded-full bg-[#0A192F] flex items-center justify-center text-sm font-bold text-white">
-              MH
-            </div>
-          </div>
-          <div>
-            <p class="text-white font-semibold">Mustafa Hafeez</p>
-            <p class="text-slate-400 text-sm">Fondateur, Travel Document Vault</p>
-          </div>
-        </div>
-        <blockquote class="text-slate-200 text-base sm:text-lg leading-relaxed italic">
-          « J'ai utilisé la plupart de ceux-ci moi-même. La galerie photos. Le lecteur partagé. L'approche « je vais juste m'en souvenir ». Voici ce que j'ai continué à souhaiter qu'existe. »
-        </blockquote>
       </div>
     </section>
 
     <!-- Comparison Table -->
     <section aria-labelledby="comparison-heading" class="scroll-fade-in">
       <div class="text-center mb-10">
-        <h2 id="comparison-heading" class="text-3xl sm:text-4xl font-bold text-white mb-4">Comment cela se compare</h2>
-        <p class="text-blue-200/70 text-base max-w-xl mx-auto">Chaque alternative fait une ou deux choses bien. Seule une fait toutes les choses.</p>
+        <h2 id="comparison-heading" class="text-3xl sm:text-4xl font-bold text-white mb-4">Comment ça se compare</h2>
+        <p class="text-blue-200/70 text-base max-w-xl mx-auto">Chaque alternative fait une ou deux choses bien. Seule l'une fait tout.</p>
       </div>
 
       <div class="overflow-x-auto rounded-2xl">
@@ -592,7 +584,7 @@
         <div class="bg-brand-gold/20 border-l-4 border-brand-gold rounded-lg p-6">
           <p class="text-white text-lg font-bold mb-4">Tout reste sur votre appareil. Période.</p>
           <p class="text-slate-200 text-base leading-relaxed mb-4">
-            L'absence de synchronisation cloud est une caractéristique de sécurité délibérée. Pas de cloud. Pas de comptes. Vos documents ne touchent jamais un serveur tiers.
+            La synchronisation cloud est désactivée par défaut. Si vous l'activez (Pro), votre coffre-fort est chiffré sur votre appareil avant d'être téléchargé, et va à votre propre iCloud ou Google Drive, scellé avec un code de récupération que vous seul détenez. Personne, pas même nous, Apple ou Google, ne peut le lire. La promesse est appliquée par le code, pas par la politique.
           </p>
           <p class="text-slate-300 text-sm">
             Chiffrement AES-256-GCM au repos. Les sauvegardes chiffrées utilisent la dérivation de clé PBKDF2. <a href="/privacy-policy/" class="text-brand-gold hover:text-yellow-300 transition-colors underline">Politique de confidentialité complète</a>
@@ -609,7 +601,7 @@
           <h3 class="text-xl font-bold text-white mb-4">Rappels d'expiration, des mois à l'avance</h3>
 
           <p class="text-slate-300 text-base leading-relaxed mb-4">
-            Les renouvellements de passeport prennent 6 à 8 semaines. <strong class="text-white">Les rappels commencent 6 mois à l'avance</strong> et s'enchaînent automatiquement.
+            Les renouvellements de passeport prennent 6 à 8 semaines. <strong class="text-white">Les rappels commencent 8 mois à l'avance</strong> et s'enchaînent automatiquement.
           </p>
 
           <p class="text-slate-300 text-base leading-relaxed mb-4">
@@ -702,6 +694,99 @@
       </div>
     </section>
 
+    <!-- v1.2 FEATURES -->
+    <section class="scroll-fade-in max-w-5xl mx-auto px-4 sm:px-6 pt-8">
+      <div class="text-center mb-10">
+        <h2 class="text-3xl sm:text-4xl font-bold text-white mb-4">Planifiez les voyages, suivez les franchises, synchronisez vers votre propre cloud</h2>
+        <p class="text-blue-200/70 text-base max-w-xl mx-auto">Conçu pour les familles qui voyagent partout.</p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-5">
+        <!-- Trip Planner -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Tous prêts, en un coup d'oeil</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Feu tricolore de disponibilité familiale. Voyez qui est prêt à voyager.</p>
+        </div>
+
+        <!-- Your Own Cloud -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M9 19l3 3m0 0l3-3m-3 3v-6" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Votre Cloud. Votre Clé.</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Sauvegarde chiffrée de bout en bout dans votre iCloud ou Google Drive.</p>
+        </div>
+
+        <!-- Days Abroad -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Suivre les jours à l'étranger</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Enregistrez les jours passés dans n'importe quel pays. Définissez des limites de jours personnalisées et restez à jour avec les règles de durée de visa.</p>
+        </div>
+
+        <!-- Trip Allowances -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Franchises sans calcul</h3>
+            <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Suivre les franchises par membre et par voyage.</p>
+        </div>
+
+        <!-- Recently Deleted -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
+              </svg>
+            </div>
+            <h3 class="text-base font-bold text-white leading-tight">Récemment supprimé</h3>
+          </div>
+          <p class="text-xs text-slate-300 leading-relaxed">Fenêtre d'annulation de 30 jours. Récupérez les erreurs.</p>
+        </div>
+
+        <!-- Family Profiles -->
+        <div class="glass-card rounded-2xl p-6 flex flex-col gap-3">
+          <div class="flex items-center gap-3">
+            <div class="h-12 w-12 rounded-xl bg-blue-500/10 flex items-center justify-center border border-blue-400/20 text-brand-gold flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
+            </svg>
+              </div>
+              <h3 class="text-base font-bold text-white leading-tight flex-1 min-w-0">Chaque Membre de la Famille</h3>
+              <span class="flex-shrink-0 pro-badge px-2 py-0.5 rounded text-xs font-bold text-brand-blue">Pro</span>
+            </div>
+            <p class="text-xs text-slate-300 leading-relaxed">Profils distincts. Les documents de chaque personne organisés de leur propre côté.</p>
+          </div>
+      </div>
+    </section>
+
     <!-- SCREENSHOT CAROUSEL SHOWCASE (hidden on very small screens) -->
     <section aria-label="Captures d'écran de l'application" class="scroll-fade-in hidden xs:block" style="display: none;">
     <style>@media (min-width: 390px) { section[aria-label="Captures d'écran de l'application"] { display: block !important; } }</style>
@@ -718,8 +803,8 @@
         <div style="position: relative;">
 
           <!-- Left arrow: absolute, centered on image (label ~60px tall) -->
-          <button id="carousel-prev" class="carousel-arrow carousel-arrow-mobile" aria-label="Capture d'écran précédente" aria-disabled="true"
-                  style="position: absolute; left: 0; top: calc(60px + (100% - 60px) / 2); transform: translateY(-50%) translateX(-50%); z-index: 10;">
+          <button id="carousel-prev" class="carousel-arrow carousel-arrow-mobile" aria-label="Capture précédente" aria-disabled="true"
+                  style="position: absolute; left: 0; top: calc(110px + (100% - 110px) / 2); transform: translateY(-50%) translateX(-50%); z-index: 10;">
             <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
             </svg>
@@ -735,65 +820,69 @@
                  tabindex="0">
 
           <!-- Screenshot 1 -->
-          <div class="carousel-slide is-active" role="group" aria-label="Capture d'écran 1 sur 6" aria-roledescription="slide">
-            <p class="carousel-label-title">Un coffre-fort.</p>
-            <p class="carousel-label-sub">Pour tous vos documents</p>
-            <img src="/assets/images/screenshots-appstore/01.png"
+          <div class="carousel-slide is-active" role="group" aria-label="Capture 1 de 6" aria-roledescription="slide">
+            <p class="carousel-label-title">Sachez qui est prêt avant de partir</p>
+            <p class="carousel-label-sub">Vérifiez le statut de chaque document instantanément</p>
+            <img src="../../assets/images/screenshots-appstore/01.webp"
                  decoding="async"
-                 alt="Liste de documents montrant les profils familiaux avec les dates d'expiration"
+                 alt="App home screen showing all travel documents ready at a glance"
                  class="loaded"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 2 -->
-          <div class="carousel-slide" role="group" aria-label="Capture d'écran 2 sur 6" aria-roledescription="slide">
-            <p class="carousel-label-title">Tous vos docs.</p>
-            <p class="carousel-label-sub">Passeports, visas, pièces d'identité et plus</p>
-            <img src="/assets/images/screenshots-appstore/04.png"
+          <div class="carousel-slide" role="group" aria-label="Capture 2 de 6" aria-roledescription="slide">
+            <p class="carousel-label-title">Prêt pour votre voyage</p>
+            <p class="carousel-label-sub">Chaque personne, chaque document, vérifié</p>
+            <img src="../../assets/images/screenshots-appstore/02.webp"
                  decoding="async"
-                 alt="Types de documents incluant passeport, visa, ID, billet d'avion"
+                 alt="Trip readiness view confirming all documents are valid and up to date"
                  class="loaded"
-                 width="1260" height="2736" />
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 3 -->
-          <div class="carousel-slide" role="group" aria-label="Capture d'écran 3 sur 6" aria-roledescription="slide">
-            <p class="carousel-label-title">Ne manquez jamais un renouvellement.</p>
-            <p class="carousel-label-sub">Rappels intelligents des mois à l'avance</p>
-            <img data-src="/assets/images/screenshots-appstore/02.png"
+          <div class="carousel-slide" role="group" aria-label="Capture 3 de 6" aria-roledescription="slide">
+            <p class="carousel-label-title">Le profil voyage de chaque personne</p>
+            <p class="carousel-label-sub">Documents, voyages, rappels réunis</p>
+            <img src="../../assets/images/screenshots-appstore/03.webp"
                  decoding="async"
-                 alt="Rappels intelligents avec avis de 6 semaines"
-                 width="1260" height="2736" />
+                 alt="Family profiles showing documents for every member in one place"
+                 class="loaded"
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 4 -->
-          <div class="carousel-slide" role="group" aria-label="Capture d'écran 4 sur 6" aria-roledescription="slide">
-            <p class="carousel-label-title">Votre famille. Protégée.</p>
-            <p class="carousel-label-sub">Un profil par membre de la famille</p>
-            <img data-src="/assets/images/screenshots-appstore/03.png"
+          <div class="carousel-slide" role="group" aria-label="Capture 4 de 6" aria-roledescription="slide">
+            <p class="carousel-label-title">Jours restants dans chaque pays</p>
+            <p class="carousel-label-sub">Suivez le temps de chaque personne à l'étranger</p>
+            <img src="../../assets/images/screenshots-appstore/04.webp"
                  decoding="async"
-                 alt="Profils familiaux pour Emma, Lucas, Oliver et Sophie"
-                 width="1260" height="2736" />
+                 alt="Visa tracker showing days remaining in each country for each traveller"
+                 class="loaded"
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 5 -->
-          <div class="carousel-slide" role="group" aria-label="Capture d'écran 5 sur 6" aria-roledescription="slide">
-            <p class="carousel-label-title">Tous les détails. Capturés.</p>
-            <p class="carousel-label-sub">Photos, dates et notes</p>
-            <img data-src="/assets/images/screenshots-appstore/05.png"
+          <div class="carousel-slide" role="group" aria-label="Capture 5 de 6" aria-roledescription="slide">
+            <p class="carousel-label-title">Ne ratez plus aucune échéance</p>
+            <p class="carousel-label-sub">Rappels avant que vous en ayez besoin</p>
+            <img src="../../assets/images/screenshots-appstore/05.webp"
                  decoding="async"
-                 alt="Vue détaillée du document avec pièce jointe de passeport et métadonnées"
-                 width="1260" height="2736" />
+                 alt="Expiry reminders showing upcoming renewal dates months in advance"
+                 class="loaded"
+                 width="1320" height="2868" />
           </div>
 
           <!-- Screenshot 6 -->
-          <div class="carousel-slide" role="group" aria-label="Capture d'écran 6 sur 6" aria-roledescription="slide">
-            <p class="carousel-label-title">Reste sur votre appareil.</p>
-            <p class="carousel-label-sub">Verrouillage par code PIN. Pas de cloud. Pas de comptes.</p>
-            <img data-src="/assets/images/screenshots-appstore/06.png"
+          <div class="carousel-slide" role="group" aria-label="Capture 6 de 6" aria-roledescription="slide">
+            <p class="carousel-label-title">Votre Coffre-Fort, Votre Contrôle</p>
+            <p class="carousel-label-sub">Sauvegarde chiffrée que seul vous pouvez restaurer</p>
+            <img src="../../assets/images/screenshots-appstore/06.webp"
                  decoding="async"
-                 alt="Écran de verrouillage par code PIN pour la confidentialité que vous pouvez faire confiance"
-                 width="1260" height="2736" />
+                 alt="Document vault showing passports, visas, and IDs organised by profile"
+                 class="loaded"
+                 width="1320" height="2868" />
           </div>
 
             </div>
@@ -802,8 +891,8 @@
           <!-- /phone stage -->
 
           <!-- Right arrow: absolute, centered on image -->
-          <button id="carousel-next" class="carousel-arrow carousel-arrow-mobile" aria-label="Capture d'écran suivante"
-                  style="position: absolute; right: 0; top: calc(60px + (100% - 60px) / 2); transform: translateY(-50%) translateX(50%); z-index: 10;">
+          <button id="carousel-next" class="carousel-arrow carousel-arrow-mobile" aria-label="Capture suivante"
+                  style="position: absolute; right: 0; top: calc(110px + (100% - 110px) / 2); transform: translateY(-50%) translateX(50%); z-index: 10;">
             <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
               <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
             </svg>
@@ -815,12 +904,12 @@
         <!-- Dot indicators below -->
         <div class="carousel-controls" role="group" aria-label="Navigation du carrousel">
           <div id="carousel-dots" class="carousel-dots-row" role="tablist" aria-label="Navigation des captures d'écran">
-            <button class="carousel-dot active w-6 h-2 rounded-full bg-brand-gold" role="tab" aria-selected="true"  aria-label="Capture d'écran 1" style="min-width:8px;"></button>
-            <button class="carousel-dot w-2 h-2 rounded-full"                      role="tab" aria-selected="false" aria-label="Capture d'écran 2" style="min-width:8px; background:rgba(255,255,255,0.3);"></button>
-            <button class="carousel-dot w-2 h-2 rounded-full"                      role="tab" aria-selected="false" aria-label="Capture d'écran 3" style="min-width:8px; background:rgba(255,255,255,0.3);"></button>
-            <button class="carousel-dot w-2 h-2 rounded-full"                      role="tab" aria-selected="false" aria-label="Capture d'écran 4" style="min-width:8px; background:rgba(255,255,255,0.3);"></button>
-            <button class="carousel-dot w-2 h-2 rounded-full"                      role="tab" aria-selected="false" aria-label="Capture d'écran 5" style="min-width:8px; background:rgba(255,255,255,0.3);"></button>
-            <button class="carousel-dot w-2 h-2 rounded-full"                      role="tab" aria-selected="false" aria-label="Capture d'écran 6" style="min-width:8px; background:rgba(255,255,255,0.3);"></button>
+            <button class="carousel-dot active w-6 h-2 rounded-full bg-brand-gold" role="tab" aria-selected="true"  aria-label="Capture 1" style="min-width:8px;"></button>
+            <button class="carousel-dot w-2 h-2 rounded-full"                      role="tab" aria-selected="false" aria-label="Capture 2" style="min-width:8px; background:rgba(255,255,255,0.3);"></button>
+            <button class="carousel-dot w-2 h-2 rounded-full"                      role="tab" aria-selected="false" aria-label="Capture 3" style="min-width:8px; background:rgba(255,255,255,0.3);"></button>
+            <button class="carousel-dot w-2 h-2 rounded-full"                      role="tab" aria-selected="false" aria-label="Capture 4" style="min-width:8px; background:rgba(255,255,255,0.3);"></button>
+            <button class="carousel-dot w-2 h-2 rounded-full"                      role="tab" aria-selected="false" aria-label="Capture 5" style="min-width:8px; background:rgba(255,255,255,0.3);"></button>
+            <button class="carousel-dot w-2 h-2 rounded-full"                      role="tab" aria-selected="false" aria-label="Capture 6" style="min-width:8px; background:rgba(255,255,255,0.3);"></button>
           </div>
         </div>
 
@@ -919,7 +1008,7 @@
             <span class="font-semibold text-white text-base">Que se passe-t-il si je perds mon téléphone ?</span>
             <span class="transition group-open:rotate-180"><svg fill="none" class="h-5 w-5 text-brand-gold flex-shrink-0" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg></span>
           </summary>
-          <div class="text-slate-300 text-base px-6 pb-6 leading-relaxed">Vos documents se trouvent sur votre appareil, donc une sauvegarde téléphonique régulière (iCloud ou Google Backup) les inclut. Lorsque vous restaurez vers un nouveau téléphone, votre coffre-fort vient avec lui. Les utilisateurs Pro peuvent également créer des sauvegardes chiffrées à tout moment.</div>
+          <div class="text-slate-300 text-base px-6 pb-6 leading-relaxed">Vos documents vivent sur votre appareil avec une clé de chiffrement qui ne quitte jamais cet appareil. Une sauvegarde téléphonique système (iCloud ou Google Backup) ne peut pas les restaurer sur un nouveau téléphone. Activez la sauvegarde Votre Cloud (Pro) pour une synchronisation chiffrée, ou exportez un fichier .tdvault gratuitement depuis les Paramètres.</div>
         </details>
         <details class="glass-panel rounded-xl group">
           <summary class="flex items-center justify-between p-6 cursor-pointer list-none">
@@ -967,8 +1056,8 @@
     </section>
 
     <!-- SECTION 8: Final CTA -->
-    <section aria-labelledby="cta-heading" class="scroll-fade-in text-center space-y-6 pt-8 pb-24 md:pb-12">
-      <h2 id="cta-heading" class="text-3xl sm:text-4xl font-bold text-white">Arrêtez de vous soucier des dates d'expiration</h2>
+    <section id="final-cta" aria-labelledby="cta-heading" class="scroll-fade-in text-center space-y-6 pt-8 pb-24 md:pb-12">
+      <h2 id="cta-heading" class="text-3xl sm:text-4xl font-bold text-white">Votre Famille. Protégée. Toujours.</h2>
       <p class="text-blue-200/70 text-lg max-w-xl mx-auto">Tout au même endroit. Pas de comptes, pas d'abonnements, pas de surprises.</p>
       <div class="flex flex-col sm:flex-row items-center justify-center gap-8">
         <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_button_click', {'platform': 'ios', 'source_page': window.location.pathname, 'source_section': 'why_us_cta'});" class="group relative inline-flex items-center transition-transform active:scale-95">
@@ -984,6 +1073,50 @@
     <!-- Footer -->
     </div>
     <!-- End Content Sections -->
+
+  </main>
+
+  <!-- Sticky bottom CTA (mobile only) -->
+  <div id="sticky-cta" class="sticky-cta md:hidden px-4 py-3 flex items-center justify-center gap-3">
+    <a href="https://apps.apple.com/app/travel-document-vault/id6757014877" target="_blank" rel="noopener noreferrer" class="group relative inline-flex items-center transition-transform active:scale-95">
+      <img loading="lazy" src="/assets/images/app-store-badge-black.svg" alt="Télécharger sur l'App Store" class="relative h-[40px] w-auto" width="120" height="40" />
+    </a>
+    <a href="https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault" target="_blank" rel="noopener noreferrer" class="group relative inline-flex items-center transition-transform active:scale-95">
+      <img loading="lazy" src="/assets/images/google-play-badge.svg" alt="Disponible sur Google Play" class="relative h-[40px] w-auto" width="135" height="40" />
+    </a>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Sticky CTA: show after pain section, hide at final CTA
+      var stickyCta = document.getElementById('sticky-cta');
+      var painSection = document.getElementById('pain-section');
+      var finalCta = document.getElementById('final-cta');
+      if (stickyCta && painSection && finalCta) {
+        var stickyObserver = new IntersectionObserver(function(entries) {
+          entries.forEach(function(entry) {
+            if (entry.target === painSection && !entry.isIntersecting) {
+              var finalRect = finalCta.getBoundingClientRect();
+              if (finalRect.top > window.innerHeight) {
+                stickyCta.classList.add('visible');
+              }
+            }
+            if (entry.target === finalCta && entry.isIntersecting) {
+              stickyCta.classList.remove('visible');
+            }
+          });
+        }, { threshold: 0.3 });
+        stickyObserver.observe(painSection);
+        stickyObserver.observe(finalCta);
+
+        window.addEventListener('scroll', function() {
+          if (window.scrollY < 400) {
+            stickyCta.classList.remove('visible');
+          }
+        }, { passive: true });
+      }
+    });
+  </script>
 
     <footer class="text-center pt-20 pb-24 md:pb-10 space-y-4">
       <div class="flex flex-wrap items-center justify-center gap-x-6 gap-y-2 text-sm font-medium">

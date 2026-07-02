@@ -114,6 +114,90 @@
         "@type": "Answer",
         "text": "Travel Document Vault è stato costruito da Mustafa Hafeez, uno sviluppatore software senior con anni di esperienza professionale nella creazione di applicazioni che rispettano la privacy, e un genitore che aveva bisogno di questa app per la propria famiglia. La privacy non è una frase di marketing. L'app è stata progettata e architettata fin dal primo giorno in modo che i documenti non lascino mai il Suo dispositivo, non siano necessari account e non siano coinvolti server."
       }
+    }, {
+      "@type": "Question",
+      "name": "Qual è il mio codice di recupero e che cosa succede se lo perdo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il Suo codice di recupero è una passphrase di 24 caratteri che crittografa il Suo backup cloud. Se lo perde, questi backup diventano irrecuperabili. Non lo conserviamo e non possiamo reimpostarlo. Questo approccio privacy-by-design assicura che nemmeno noi possiamo accedere ai Suoi backup crittografati."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Come è crittografato il mio backup cloud?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il Suo caveau è crittografato end-to-end utilizzando AES-256-GCM sul Suo dispositivo prima che lasci il Suo telefono. La chiave è derivata dal Suo codice di recupero. Apple e Google possono vedere il file crittografato sui loro server, ma non possono decrittarlo. Neanche noi possiamo. Solo il Suo codice di recupero lo sblocca."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Come funzionano insieme PIN, Face ID e codice di recupero?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il Suo PIN è il blocco quotidiano. Face ID è un collegamento rapido per sbloccare. Il codice di recupero è la chiave principale per quando dimentica completamente il Suo PIN. Se Face ID non funziona, provi il Suo PIN. Se dimentica il PIN, inserisca il Suo codice di recupero. Se perde il codice di recupero, deve reinstallare l'app e ripristinare dal backup cloud."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Come esporto e importo il mio caveau?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Qualsiasi utente può esportare l'intero caveau come file .tdvault crittografato e protetto da password dalle Impostazioni, e importarlo su qualsiasi dispositivo o nuova installazione. L'esportazione e l'importazione round-trip preservano tutto esattamente: i Suoi dati sono portatili e non è mai vincolato. (L'esportazione PDF combinata di più documenti è una funzionalità Pro separata.)"
+      }
+    }, {
+      "@type": "Question",
+      "name": "Posso eseguire il backup dei miei dati gratuitamente?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sì. L'esportazione del caveau (.tdvault) è gratuita per tutti. L'app crea anche automaticamente backup locali sul Suo dispositivo ogni pochi minuti, senza costi. Il backup cloud sul proprio iCloud o Google Drive è l'opzione Pro. Nessuna funzione di backup trattiene i Suoi dati."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Cosa significa 'Ultimo backup: 2 ore fa, 12 documenti' nelle Impostazioni?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Questa riga indica quando è stato creato il Suo ultimo backup locale automatico e quanti documenti contiene. L'app salva automaticamente un backup locale sul Suo dispositivo ogni pochi minuti mentre la usa. Questi backup sono conservati sul Suo dispositivo e sono distinti dal backup cloud Pro. Se ha bisogno di ripristinare, vada nelle Impostazioni e scelga il backup desiderato."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Come ripristino il mio caveau da un backup locale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vada nelle Impostazioni e scorri fino alla sezione Backup e ripristino. Vedrà un elenco dei Suoi backup locali disponibili con data e numero di documenti. Tocchi quello desiderato, confermi, e l'app sostituirà i dati attuali con quelli del backup. Se ripristina da un file .tdvault esportato manualmente, usi invece Impostazioni poi Importa caveau e selezioni il file."
+      }
+    }, {
+      "@type": "Question",
+      "name": "L'app mostra una schermata di recupero o indica che i miei dati non possono essere caricati. Cosa devo fare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non elimini l'app. Questa schermata appare quando l'app non riesce a caricare il caveau principale, solitamente a seguito di un aggiornamento interrotto, un riavvio inatteso o un errore di archiviazione. L'app ha creato automaticamente un backup appena prima che si verificasse il problema. Tocchi Mostra backup, scelga il più recente e ripristini. Se ha un file .tdvault esportato manualmente, usi invece Importa caveau. In caso di dubbi, contatti support@traveldocumentvault.com prima di eliminare qualsiasi cosa."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Perché l'app ha creato un backup prima dell'aggiornamento?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prima di applicare qualsiasi aggiornamento che potrebbe modificare la struttura dei dati, l'app crea automaticamente una copia di backup locale di sicurezza. Se l'aggiornamento va a buon fine, non se ne accorgerà nemmeno. Se qualcosa va storto, può tornare a questo snapshot dalle Impostazioni. Si tratta di una misura di sicurezza silenziosa progettata per proteggere i Suoi dati."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Modalità di indennità Visitatore vs Casa: quale dovrei scegliere?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La modalità Visitatore tiene traccia dei giorni IN un paese. La modalità Casa tiene traccia dei giorni LONTANO dal Suo paese di origine. Scelga Visitatore se sta seguendo una regola come Schengen 90/180. Scelga Casa se sta tracciando la residenza fiscale o una regola di indennità simile all'estero. Non è sicuro? Visitatore è l'impostazione predefinita più sicura per la maggior parte dei viaggiatori."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Cosa sono i profili familiari?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ogni membro della famiglia è un profilo separato con i propri documenti, foto e promemoria. I Suoi dati sono Suoi. I dati del Suo partner sono Suoi. I profili sono solo locali e non si sincronizzano mai tra dispositivi o persone. Questo design rispetta la privacy e assicura che non ci sia una miscelazione accidentale di documenti sensibili."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Che cosa succede quando elimino qualcosa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gli elementi eliminati vanno nel cestino per 30 giorni. Li può ripristinare in qualsiasi momento durante quel periodo. Dopo 30 giorni, scompaiono permanentemente dal Suo dispositivo e dai backup cloud. Svuotare il cestino o eseguire un ripristino di fabbrica del telefono è irreversibile."
+      }
     }]
   }
   </script>
@@ -164,7 +248,7 @@
     }
 
     .faq-toggle:checked ~ .faq-content {
-      max-height: 500px;
+      max-height: 800px;
       padding-top: 1rem;
       padding-bottom: 0.5rem;
     }
@@ -299,8 +383,19 @@
       </div>
     </section>
 
+    <!-- Vai a: Indice dei Contenuti -->
+    <div class="flex flex-wrap items-center justify-center gap-2 mb-12 px-4">
+      <span class="text-sm font-medium text-slate-300">Vai a:</span>
+      <a href="#privacy" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Privacy</a>
+      <a href="#features" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Funzionalità</a>
+      <a href="#backup" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Backup</a>
+      <a href="#pricing" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Prezzi</a>
+      <a href="#troubleshooting" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Risoluzione dei Problemi</a>
+      <a href="#legal" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Legale</a>
+    </div>
+
     <!-- Fiducia e Trasparenza -->
-    <section class="scroll-fade-in">
+    <section id="privacy" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -372,7 +467,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Poiché non archiviamo i Suoi dati, non possiamo ripristinarli per Lei. Se ripristina il nuovo telefono da un backup iCloud o Google, i Suoi documenti dovrebbero essere trasferiti automaticamente. Consigliamo di utilizzare la funzione Esporta per conservare una copia separata dei Suoi documenti importanti, per ogni evenienza.</p>
+            <p>La chiave di crittografia non lascia mai il Suo telefono originale, quindi un backup del sistema (iCloud o Google Backup) non può ripristinare i Suoi documenti su un nuovo dispositivo. Invece, utilizzi la funzione Esporta (gratuita per tutti) per salvare una copia crittografata del Suo archivio come file .tdvault dalle Impostazioni, da importare su qualsiasi dispositivo. Gli utenti Pro possono anche abilitare il backup opzionale nel Loro iCloud o Google Drive personale per una sincronizzazione più comoda tra i dispositivi.</p>
           </div>
         </div>
 
@@ -470,6 +565,19 @@
         </div>
 
         <div class="faq-item p-6">
+          <input type="checkbox" id="faq-backup-free" class="faq-toggle hidden peer" />
+          <label for="faq-backup-free" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Posso eseguire il backup dei miei dati gratuitamente?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Sì. L'esportazione del caveau (file <strong class="text-white">.tdvault</strong>) è gratuita per tutti. Vada in <strong class="text-white">Impostazioni, Esporta Caveau</strong> e l'app crea un file protetto da password che può salvare in File, iCloud Drive o condividere fuori dal dispositivo. L'app crea anche automaticamente <strong class="text-white">backup locali ogni pochi minuti</strong> sul Suo dispositivo, senza costi. Il backup cloud sul proprio iCloud o Google Drive è l'opzione Pro. Nessuna funzione di backup trattiene i Suoi dati.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
           <input type="checkbox" id="faq-3" class="faq-toggle hidden peer" />
           <label for="faq-3" class="faq-label flex items-center justify-between cursor-pointer">
             <span class="font-semibold text-white">Cosa succede se perdo il mio telefono?</span>
@@ -497,7 +605,7 @@
               <li><strong class="text-white">Crittografia su disco:</strong> Ogni immagine di documento e PDF viene codificata prima di essere salvata.</li>
               <li><strong class="text-white">Blocco app:</strong> Aggiungere un secondo livello di difesa abilitando PIN, Face ID o Touch ID nelle impostazioni dell'app.</li>
             </ul>
-            <p class="mt-3"><strong class="text-white">Importante:</strong> La massima sicurezza richiede un passcode dispositivo robusto. Se il Suo dispositivo è sbloccato, le chiavi di crittografia potrebbero essere accessibili a chiunque tenga il telefono.</p>
+            <p class="mt-3"><strong class="text-white">Importante:</strong> La massima sicurezza richiede un passcode dispositivo affidabile. Se il Suo dispositivo è sbloccato, le chiavi di crittografia potrebbero essere accessibili a chiunque tenga il telefono.</p>
           </div>
         </div>
 
@@ -523,7 +631,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Tutti i Suoi dati vengono <strong class="text-white">eliminati definitivamente</strong> quando disinstalla l'app. Non c'è modo di recuperarli in seguito poiché non archiviamo nulla esternamente. <strong class="text-white">Prima di eliminare:</strong> Esporti i Suoi documenti o crei un file ZIP di backup (funzionalità Pro) per salvarli altrove.</p>
+            <p>Tutti i Suoi dati vengono <strong class="text-white">eliminati definitivamente</strong> quando disinstalla l'app. Non c'è modo di recuperarli in seguito poiché non archiviamo nulla esternamente. <strong class="text-white">Prima di eliminare:</strong> Esporti i Suoi documenti o crei un file .tdvault di backup dalle Impostazioni per salvarli altrove.</p>
           </div>
         </div>
       </div>
@@ -551,7 +659,7 @@
           </label>
           <div class="faq-content text-slate-300">
             <p><strong class="text-white">Sì.</strong> Tutte le immagini dei documenti e i PDF sono crittografati prima di essere salvati sul Suo dispositivo. Ciò significa che anche se qualcuno accede ai file del Suo telefono, non può visualizzare i Suoi documenti.</p>
-            <p class="mt-3"><strong class="text-white">Per la massima sicurezza:</strong> Consigliamo di abilitare il blocco app e di utilizzare un passcode dispositivo robusto. Consulti la nostra <a href="/privacy-policy/" class="text-blue-300 hover:text-white underline">Informativa sulla Privacy</a> per i dettagli completi.</p>
+            <p class="mt-3"><strong class="text-white">Per la massima sicurezza:</strong> Consigliamo di abilitare il blocco app e di utilizzare un passcode dispositivo affidabile. Consulti la nostra <a href="/privacy-policy/" class="text-blue-300 hover:text-white underline">Informativa sulla Privacy</a> per i dettagli completi.</p>
           </div>
         </div>
 
@@ -578,7 +686,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Sì.</strong> I backup automatici sono crittografati tramite il sistema di backup integrato del Suo dispositivo (iCloud/Google). Le esportazioni manuali del caveau (funzionalità Pro) sono <strong class="text-white">protette da password</strong> con crittografia forte. Dovrà impostare una password durante l'esportazione e ne avrà bisogno per il ripristino.</p>
+            <p><strong class="text-white">Sì.</strong> I backup automatici sono crittografati tramite il sistema di backup integrato del Suo dispositivo (iCloud/Google). Le esportazioni del caveau (file .tdvault) sono <strong class="text-white">protette da password</strong> con crittografia forte. Dovrà impostare una password durante l'esportazione e ne avrà bisogno per il ripristino.</p>
             <p class="mt-3">Se ripristina da un backup, i Suoi documenti funzioneranno automaticamente sul nuovo dispositivo senza dover fare nulla di speciale.</p>
           </div>
         </div>
@@ -629,7 +737,7 @@
     </section>
 
     <!-- Funzionalità -->
-    <section class="scroll-fade-in">
+    <section id="features" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-blue-300">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -765,14 +873,66 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Sì, l'app crea backup locali automatici ogni 5 minuti</strong> (quando l'app è aperta e vengono apportate modifiche). Questi backup sono archiviati sul Suo dispositivo e sono inclusi nel backup del dispositivo iCloud (iOS) o Google (Android) se ha questi servizi abilitati.</p>
+            <p><strong class="text-white">Sì, l'app crea backup locali automatici ogni pochi minuti</strong> (quando l'app è aperta e vengono apportate modifiche). Questi backup sono archiviati sul Suo dispositivo e sono inclusi nel backup del dispositivo iCloud (iOS) o Google (Android) se ha questi servizi abilitati.</p>
             <p class="mt-3"><strong class="text-white">Come funziona:</strong></p>
             <ul class="list-disc list-inside mt-3 space-y-2 ml-2">
               <li>L'app mantiene <strong class="text-white">10 backup progressivi</strong> sul Suo dispositivo. Quando viene creato un undicesimo backup, quello più vecchio viene eliminato automaticamente.</li>
               <li>I backup sono <strong class="text-white">crittografati</strong> usando la stessa protezione dei Suoi documenti.</li>
               <li>Se l'app si blocca o elimina accidentalmente un documento, può ripristinare dal backup più recente tramite <strong class="text-white">Impostazioni → Importa Caveau</strong>.</li>
             </ul>
-            <p class="mt-3"><strong class="text-white">Backup manuali (Pro):</strong> Gli utenti Pro possono anche creare backup ZIP crittografati manuali e salvarli in File, iCloud Drive o condividerli tramite AirDrop/email per l'archiviazione fuori dal dispositivo. Questo è consigliato prima di aggiornamenti importanti o cambi di dispositivo.</p>
+            <p class="mt-3"><strong class="text-white">Vault Export:</strong> Qualsiasi utente può anche creare backup .tdvault crittografati manuali e salvarli in File, iCloud Drive o condividerli tramite AirDrop/email per l'archiviazione fuori dal dispositivo. Questo è consigliato prima di aggiornamenti importanti o cambi di dispositivo. Pro aggiunge il backup cloud automatico su iCloud o Google Drive.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-backup-status-label" class="faq-toggle hidden peer" />
+          <label for="faq-backup-status-label" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Cosa significa 'Ultimo backup: 2 ore fa, 12 documenti' nelle Impostazioni?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Questa riga indica quando è stato creato il Suo ultimo backup locale automatico e quanti documenti contiene. L'app salva automaticamente un backup locale sul Suo dispositivo <strong class="text-white">ogni pochi minuti</strong> mentre la usa. Questi backup sono conservati sul Suo dispositivo e sono distinti dal backup cloud Pro. Se ha bisogno di ripristinare, vada nelle <strong class="text-white">Impostazioni</strong> e scelga il backup desiderato.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-restore-local-backup" class="faq-toggle hidden peer" />
+          <label for="faq-restore-local-backup" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Come ripristino il mio caveau da un backup locale?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Vada nelle <strong class="text-white">Impostazioni</strong> e scorra fino alla sezione Backup e ripristino. Vedrà un elenco dei Suoi backup locali disponibili con data e numero di documenti. Tocchi quello desiderato, confermi, e l'app sostituirà i dati attuali con quelli del backup. Se ripristina da un file .tdvault esportato manualmente, usi invece <strong class="text-white">Impostazioni poi Importa Caveau</strong> e selezioni il file.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-recovery-screen" class="faq-toggle hidden peer" />
+          <label for="faq-recovery-screen" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">L'app mostra una schermata di recupero o indica che i miei dati non possono essere caricati. Cosa devo fare?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p><strong class="text-white">Non elimini l'app.</strong> Questa schermata appare quando l'app non riesce a caricare il caveau principale, solitamente a seguito di un aggiornamento interrotto, un riavvio inatteso o un errore di archiviazione. L'app ha creato automaticamente un backup appena prima che si verificasse il problema. Tocchi <strong class="text-white">Mostra backup</strong>, scelga il più recente e ripristini. Se ha un file .tdvault esportato manualmente, usi invece <strong class="text-white">Importa Caveau</strong>. In caso di dubbi, contatti <a href="mailto:support@traveldocumentvault.com" class="text-blue-300 hover:text-white underline">support@traveldocumentvault.com</a> prima di eliminare qualsiasi cosa.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-backup-before-update" class="faq-toggle hidden peer" />
+          <label for="faq-backup-before-update" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Perché l'app ha creato un backup prima dell'aggiornamento?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Prima di applicare qualsiasi aggiornamento che potrebbe modificare la struttura dei dati, l'app crea automaticamente una copia di backup locale di sicurezza. Se l'aggiornamento va a buon fine, non se ne accorgerà nemmeno. Se qualcosa va storto, può tornare a questo snapshot dalle <strong class="text-white">Impostazioni</strong>. Si tratta di una misura di sicurezza silenziosa progettata per proteggere i Suoi dati.</p>
           </div>
         </div>
 
@@ -813,7 +973,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Brevemente, sì.</strong> Dopo aver eliminato i documenti (singoli o in blocco), vedrà una breve finestra di annullamento in fondo allo schermo. Tocchi <strong class="text-white">"Annulla"</strong> per ripristinarli immediatamente. Una volta scomparsa la finestra di annullamento, l'eliminazione è <strong class="text-white">definitiva</strong> e non può essere annullata. Consigliamo di esportare un backup prima di eliminare documenti in blocco.</p>
+            <p><strong class="text-white">Sì - hai due livelli di protezione.</strong> Dopo aver eliminato i documenti (singoli o in blocco), vedrà una breve finestra di annullamento in fondo allo schermo. Tocchi <strong class="text-white">"Annulla"</strong> per ripristinarli immediatamente. Se non vede la finestra di annullamento, i documenti eliminati vengono spostati in <strong class="text-white">Eliminati di recente</strong> in Impostazioni, dove rimangono per 30 giorni prima di essere eliminati definitivamente. Gli utenti Pro con backup cloud abilitato mantengono gli elementi in Eliminati di recente indefinitamente fino a quando non toccano Elimina per sempre.</p>
           </div>
         </div>
 
@@ -920,7 +1080,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Sì, usando l'esportazione del caveau crittografato (funzionalità Pro).</strong> Esporti un backup crittografato dal Suo dispositivo corrente (Impostazioni → Esporta Caveau), trasferiscilo al nuovo dispositivo (tramite email, archiviazione cloud o trasferimento diretto), poi usi Impostazioni → Importa Caveau per ripristinare i Suoi documenti.</p>
+            <p><strong class="text-white">Sì, usando il Vault Export crittografato.</strong> Esporti un backup crittografato dal Suo dispositivo corrente (Impostazioni → Esporta Caveau), trasferiscilo al nuovo dispositivo (tramite email, archiviazione cloud o trasferimento diretto), poi usi Impostazioni → Importa Caveau per ripristinare i Suoi documenti.</p>
             <p class="mt-3">Funziona su tutte le piattaforme perché il formato di crittografia è universale. Avrà bisogno della stessa password usata durante l'esportazione del caveau. L'acquisto Pro dovrà anche essere ripristinato sul nuovo dispositivo (vedere "Posso ripristinare il mio acquisto su un nuovo dispositivo?" di seguito).</p>
           </div>
         </div>
@@ -956,7 +1116,7 @@
     </section>
 
     <!-- Prezzi e Acquisti -->
-    <section class="scroll-fade-in">
+    <section id="pricing" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -976,7 +1136,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Gratuito</strong> include 1 profilo e fino a 5 documenti con funzionalità complete, inclusa la scansione OCR, i promemoria di scadenza, la condivisione di documenti, il blocco PIN e il blocco biometrico (Face ID / Touch ID). <strong class="text-white">Pro</strong> ($9.99 una tantum*) sblocca profili illimitati, documenti illimitati, esportazione PDF combinata, esportazione batch (ZIP), tempistica dei promemoria personalizzata e acquisizione multipagina per biglietti aerei e altri documenti.</p>
+            <p><strong class="text-white">Gratuito</strong> include 1 profilo e fino a 5 documenti con funzionalità complete, inclusa la scansione OCR, i promemoria di scadenza, la condivisione di documenti, il blocco PIN, il blocco biometrico (Face ID / Touch ID) e l'esportazione dell'intero caveau (.tdvault). <strong class="text-white">Pro</strong> ($9.99 una tantum*) sblocca profili illimitati, documenti illimitati, esportazione PDF combinata, backup cloud crittografato, tempistica dei promemoria personalizzata e acquisizione multipagina per biglietti aerei e altri documenti.</p>
             <p class="text-slate-400 text-xs mt-2">* Vedere la <a href="/pricing-policy/#version-policy" class="text-brand-gold hover:text-white underline">Politica dei Prezzi</a> per i dettagli sulla versione.</p>
           </div>
         </div>
@@ -1053,7 +1213,7 @@
     </section>
 
     <!-- Risoluzione dei problemi -->
-    <section class="scroll-fade-in">
+    <section id="troubleshooting" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-blue-300">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -1119,8 +1279,114 @@
       </div>
     </section>
 
+    <!-- Configurazione e recupero -->
+    <section id="backup" class="scroll-fade-in">
+      <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
+        <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
+          </svg>
+        </span>
+        Configurazione e recupero
+      </h2>
+
+      <div class="glass-panel rounded-2xl overflow-hidden">
+        <div class="faq-item p-6" id="recovery-code">
+          <input type="checkbox" id="recovery-code-toggle" class="faq-toggle hidden peer" />
+          <label for="recovery-code-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Qual è il mio codice di recupero e che cosa succede se lo perdo?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Il Suo codice di recupero è una passphrase di 24 caratteri che crittografa il Suo backup cloud. Se lo perde, questi backup diventano irrecuperabili. Non lo conserviamo e non possiamo reimpostarlo. Questo approccio privacy-by-design assicura che nemmeno noi possiamo accedere ai Suoi backup crittografati.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="cloud-backup-encryption">
+          <input type="checkbox" id="cloud-backup-encryption-toggle" class="faq-toggle hidden peer" />
+          <label for="cloud-backup-encryption-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Come è crittografato il mio backup cloud?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Il Suo caveau è crittografato end-to-end utilizzando AES-256-GCM sul Suo dispositivo prima che lasci il Suo telefono. La chiave è derivata dal Suo codice di recupero. Apple e Google possono vedere il file crittografato sui loro server, ma non possono decrittarlo. Neanche noi possiamo. Solo il Suo codice di recupero lo sblocca.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="pin-faceid-recovery">
+          <input type="checkbox" id="pin-faceid-recovery-toggle" class="faq-toggle hidden peer" />
+          <label for="pin-faceid-recovery-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Come funzionano insieme PIN, Face ID e codice di recupero?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Il Suo PIN è il blocco quotidiano. Face ID è un collegamento rapido per sbloccare. Il codice di recupero è la chiave principale per quando dimentica completamente il Suo PIN. Se Face ID non funziona, provi il Suo PIN. Se dimentica il PIN, inserisca il Suo codice di recupero. Se perde il codice di recupero, deve reinstallare l'app e ripristinare dal backup cloud.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="export-import">
+          <input type="checkbox" id="export-import-toggle" class="faq-toggle hidden peer" />
+          <label for="export-import-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Come esporto e importo il mio caveau?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Pro Le consente di esportare l'intero caveau come file .tdvault crittografato che controlla, quindi importarlo su qualsiasi dispositivo o installazione nuova. L'esportazione e l'importazione round-trip preservano tutto esattamente. Questo assicura che i Suoi dati siano portatili e che non sia mai bloccato nell'app.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="allowance-modes">
+          <input type="checkbox" id="allowance-modes-toggle" class="faq-toggle hidden peer" />
+          <label for="allowance-modes-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Modalità di indennità Visitatore vs Casa: quale dovrei scegliere?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>La modalità Visitatore tiene traccia dei giorni IN un paese. La modalità Casa tiene traccia dei giorni LONTANO dal Suo paese di origine. Scelga Visitatore se sta seguendo una regola come Schengen 90/180. Scelga Casa se sta tracciando la residenza fiscale o una regola di indennità simile all'estero. Non è sicuro? Visitatore è l'impostazione predefinita più sicura per la maggior parte dei viaggiatori.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="family-profiles">
+          <input type="checkbox" id="family-profiles-toggle" class="faq-toggle hidden peer" />
+          <label for="family-profiles-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Cosa sono i profili familiari?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Ogni membro della famiglia è un profilo separato con i propri documenti, foto e promemoria. I Suoi dati sono Suoi. I dati del Suo partner sono Suoi. I profili sono solo locali e non si sincronizzano mai tra dispositivi o persone. Questo design rispetta la privacy e assicura che non ci sia una miscelazione accidentale di documenti sensibili.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="delete-restore">
+          <input type="checkbox" id="delete-restore-toggle" class="faq-toggle hidden peer" />
+          <label for="delete-restore-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Che cosa succede quando elimino qualcosa?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Gli elementi eliminati vanno nel cestino per 30 giorni. Li può ripristinare in qualsiasi momento durante quel periodo. Dopo 30 giorni, scompaiono permanentemente dal Suo dispositivo e dai backup cloud. Svuotare il cestino o eseguire un ripristino di fabbrica del telefono è irreversibile.</p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
     <!-- Legale -->
-    <section class="scroll-fade-in">
+    <section id="legal" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -1223,5 +1489,19 @@
   <script src="/assets/js/cookie-consent.js" defer></script>
   <script src="/assets/js/mobile-menu.js" defer></script>
   <script src="/assets/js/lang-picker.js" defer></script>
+  <!-- Accordion aria-expanded sync (a11y) -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      document.querySelectorAll('.faq-toggle').forEach(function (toggle) {
+        var label = toggle.nextElementSibling;
+        if (label && label.classList.contains('faq-label')) {
+          label.setAttribute('aria-expanded', toggle.checked ? 'true' : 'false');
+          toggle.addEventListener('change', function () {
+            label.setAttribute('aria-expanded', this.checked ? 'true' : 'false');
+          });
+        }
+      });
+    });
+  </script>
 </body>
 </html>

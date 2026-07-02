@@ -84,7 +84,7 @@
       "name": "Что произойдёт, если я потеряю телефон или перейду на новый?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Поскольку мы не храним ваши данные, мы не можем восстановить их за вас. Если вы восстановите новый телефон из резервной копии iCloud или Google, ваши документы должны перенестись автоматически. Мы рекомендуем использовать функцию Экспорт для хранения отдельной копии ваших важных документов на всякий случай."
+        "text": "Документы хранятся на вашем устройстве. Системное резервное копирование (iCloud или Google Backup) переустановит приложение, но не восстановит ваши документы, потому что ключ шифрования никогда не покидает ваше устройство. Все пользователи могут экспортировать зашифрованный файл .tdvault. Пользователи Pro могут включить облачное резервное копирование для синхронизации с вашим собственным iCloud или Google Drive, защищённое кодом восстановления."
       }
     }, {
       "@type": "Question",
@@ -113,6 +113,41 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Travel Document Vault создал Мустафа Хафиз, старший разработчик программного обеспечения с многолетним профессиональным опытом создания приложений, уважающих конфиденциальность, и родитель, которому это приложение было нужно для его собственной семьи. Конфиденциальность, не маркетинговый лозунг. Приложение было спроектировано и построено с первого дня так, чтобы документы никогда не покидали ваше устройство, аккаунты не требовались, а серверы не использовались."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Могу ли я сделать резервную копию данных бесплатно?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Да. Vault Export (зашифрованный файл резервной копии .tdvault) бесплатен для всех пользователей. Приложение также автоматически сохраняет локальные резервные копии на вашем устройстве каждые несколько минут без какой-либо платы. Облачное резервное копирование в ваш iCloud или Google Drive: это функция Pro. Ни одна функция резервного копирования не блокирует ваши данные."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Что означает строка «Последняя резервная копия: 2 часа назад, 12 документов» в Настройках?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "В этой строке отображается самая последняя автоматическая локальная резервная копия приложения: когда она была сохранена и сколько документов содержит. Это подтверждает, что на вашем устройстве существует восстанавливаемая копия. Нажмите «Восстановить локальную резервную копию», чтобы откатиться к ней в случае необходимости."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Как восстановить хранилище из локальной резервной копии?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Перейдите в Настройки, затем нажмите «Восстановить локальную резервную копию». Приложение отображает список доступных резервных копий с метками времени. Выберите нужную и подтвердите. Чтобы восстановить из экспортированного .tdvault-файла, нажмите «Импорт хранилища» и выберите файл. Оба варианта бесплатны для всех. При восстановлении текущие данные заменяются содержимым резервной копии."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Приложение показывает экран восстановления или сообщает, что данные не удалось загрузить. Что делать?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Приложение никогда не удаляет ваши данные незаметно. Если оно не может прочитать локальное хранилище, вместо удаления данных отображается экран восстановления. Нажмите «Восстановить локальную резервную копию», чтобы восстановиться из последней автоматической резервной копии, или нажмите «Импорт хранилища» для восстановления из ранее экспортированного .tdvault-файла. Резервные копии, созданные до недавнего обновления приложения, также можно восстановить. Ваши документы в целости, ничего не было удалено."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Почему приложение создало резервную копию перед обновлением?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Перед крупным обновлением формата данных приложение автоматически создаёт снимок хранилища, чтобы в случае проблем можно было откатиться. Этот процесс автоматический и бесплатный для всех."
       }
     }]
   }
@@ -164,7 +199,7 @@
     }
 
     .faq-toggle:checked ~ .faq-content {
-      max-height: 500px;
+      max-height: 800px;
       padding-top: 1rem;
       padding-bottom: 0.5rem;
     }
@@ -300,8 +335,19 @@
       </div>
     </section>
 
+    <!-- Table of Contents -->
+    <div class="flex flex-wrap items-center justify-center gap-2 mb-12 px-4">
+      <span class="text-sm font-medium text-slate-300">Перейти к:</span>
+      <a href="#privacy" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Конфиденциальность</a>
+      <a href="#features" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Функции</a>
+      <a href="#backup" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Резервное копирование</a>
+      <a href="#pricing" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Цены</a>
+      <a href="#troubleshooting" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Решение проблем</a>
+      <a href="#legal" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Юридические</a>
+    </div>
+
     <!-- Trust & Transparency -->
-    <section class="scroll-fade-in">
+    <section id="privacy" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -373,7 +419,8 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Поскольку мы не храним ваши данные, мы не можем восстановить их за вас. Если вы восстановите новый телефон из резервной копии iCloud или Google, ваши документы должны перенестись автоматически. Мы рекомендуем использовать функцию Экспорт для хранения отдельной копии ваших важных документов на всякий случай.</p>
+            <p>Документы хранятся на вашем устройстве. Системное резервное копирование (iCloud или Google Backup) переустановит приложение, но не восстановит ваши документы, потому что ключ шифрования никогда не покидает ваше устройство.</p>
+            <p class="mt-2">Все пользователи могут использовать функцию Экспорт для сохранения зашифрованной копии своего Vault в виде файла .tdvault. Пользователи Pro могут включить облачное резервное копирование для синхронизации с вашим собственным iCloud или Google Drive, защищённое кодом восстановления, который знаете только вы.</p>
           </div>
         </div>
 
@@ -471,6 +518,19 @@
         </div>
 
         <div class="faq-item p-6">
+          <input type="checkbox" id="faq-backup-free" class="faq-toggle hidden peer" />
+          <label for="faq-backup-free" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Могу ли я сделать резервную копию данных бесплатно?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Да. Vault Export (зашифрованный файл резервной копии .tdvault) бесплатен для всех пользователей. Перейдите в Настройки, Экспорт хранилища: приложение создаст файл с паролем, который можно сохранить в Файлах, iCloud Drive или отправить с устройства. Приложение также автоматически сохраняет <strong class="text-white">локальные резервные копии</strong> на вашем устройстве каждые несколько минут без какой-либо платы. Облачное резервное копирование в ваш iCloud или Google Drive: это функция Pro. Ни одна функция резервного копирования не блокирует ваши данные.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
           <input type="checkbox" id="faq-3" class="faq-toggle hidden peer" />
           <label for="faq-3" class="faq-label flex items-center justify-between cursor-pointer">
             <span class="font-semibold text-white">Что произойдёт, если я потеряю телефон?</span>
@@ -479,8 +539,8 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Поскольку у нас нет ваших данных, мы не можем восстановить их за вас. Если вы восстановите новый телефон из системной резервной копии (iCloud/Google), ваши данные должны появиться снова. Если вы не используете системные резервные копии, ваши данные будут утеряны.</p>
-            <p class="mt-2"><strong class="text-white">Рекомендация:</strong> Используйте функцию Экспорт для сохранения копии ваших важных документов в другом месте.</p>
+            <p>Документы хранятся на вашем устройстве. Системное резервное копирование (iCloud или Google Backup) переустановит приложение, но не восстановит ваши документы, потому что ключ шифрования никогда не покидает ваше устройство.</p>
+            <p class="mt-2">Все пользователи могут использовать функцию Экспорт для сохранения зашифрованной копии своего Vault в виде файла .tdvault на другом устройстве или облаке. Пользователи Pro могут включить облачное резервное копирование для синхронизации с вашим собственным iCloud или Google Drive, защищённое кодом восстановления, который знаете только вы.</p>
           </div>
         </div>
 
@@ -524,7 +584,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Все ваши данные <strong class="text-white">безвозвратно удаляются</strong> при удалении приложения. Восстановить их после этого невозможно, поскольку мы ничего не храним внешне. <strong class="text-white">Перед удалением:</strong> Экспортируйте ваши документы или создайте резервный ZIP-файл (функция Pro), чтобы сохранить их в другом месте.</p>
+            <p>Все ваши данные <strong class="text-white">безвозвратно удаляются</strong> при удалении приложения. Восстановить их после этого невозможно, поскольку мы ничего не храним внешне. <strong class="text-white">Перед удалением:</strong> Экспортируйте ваши документы или создайте резервный .tdvault-файл через Настройки, чтобы сохранить их в другом месте.</p>
           </div>
         </div>
       </div>
@@ -579,7 +639,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Да.</strong> Автоматические резервные копии шифруются через встроенную систему резервного копирования вашего устройства (iCloud/Google). Ручной экспорт хранилища (функция Pro) <strong class="text-white">защищён паролем</strong> с надёжным шифрованием. Вы установите пароль при экспорте и введёте его при восстановлении.</p>
+            <p><strong class="text-white">Да.</strong> Автоматические резервные копии шифруются через встроенную систему резервного копирования вашего устройства (iCloud/Google). Vault Export (.tdvault-файлы) <strong class="text-white">защищён паролем</strong> с надёжным шифрованием. Вы установите пароль при экспорте и введёте его при восстановлении.</p>
             <p class="mt-3">При восстановлении из резервной копии ваши документы автоматически заработают на новом устройстве без каких-либо дополнительных действий с вашей стороны.</p>
           </div>
         </div>
@@ -630,7 +690,7 @@
     </section>
 
     <!-- Features -->
-    <section class="scroll-fade-in">
+    <section id="features" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-blue-300">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -689,14 +749,14 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Да! Бесплатные пользователи могут делиться отдельными документами. Пользователи Pro получают мощные инструменты пакетной обработки: выбирайте конкретные документы (или профили всех членов семьи) и создавайте <strong class="text-white">единый объединённый PDF</strong>, оптимизированный для печати. Вы даже можете задавать собственные имена файлов для экспорта, чтобы упорядочить свои цифровые записи.</p>
+            <p>Да. Бесплатные пользователи могут делиться отдельными документами. Пользователи Pro получают мощные инструменты пакетной обработки: выбирайте конкретные документы (или профили всех членов семьи) и создавайте <strong class="text-white">единый объединённый PDF</strong>, оптимизированный для печати. Вы даже можете задавать собственные имена файлов для экспорта, чтобы упорядочить свои цифровые записи.</p>
           </div>
         </div>
 
-        <div class="faq-item p-6">
+        <div class="faq-item p-6" id="backup">
           <input type="checkbox" id="faq-11" class="faq-toggle hidden peer" />
           <label for="faq-11" class="faq-label flex items-center justify-between cursor-pointer">
-            <span class="font-semibold text-white">А что насчёт резервного копирования?</span>
+            <span class="font-semibold text-white">Как приложение создаёт резервные копии моих данных?</span>
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
             </svg>
@@ -728,7 +788,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Да!</strong> Приложение работает полностью в офлайн-режиме. Вы можете добавлять документы, просматривать их и получать напоминания без подключения к интернету. Идеально для путешествий.</p>
+            <p><strong class="text-white">Да.</strong> Приложение работает полностью в офлайн-режиме. Вы можете добавлять документы, просматривать их и получать напоминания без подключения к интернету. Идеально для путешествий.</p>
           </div>
         </div>
 
@@ -752,7 +812,7 @@
               <li>Экспортируйте зашифрованную резервную копию <strong class="text-white">до</strong> включения блокировки приложения (Настройки → Экспорт хранилища)</li>
               <li>Храните PIN в надёжном месте (например, в менеджере паролей устройства)</li>
               <li>Включите <strong class="text-white">биометрическую разблокировку</strong> (бесплатно для всех пользователей), чтобы использовать Face ID, Touch ID или отпечаток пальца вместо ввода PIN</li>
-              <li>Если у вас включены резервные копии устройства (iCloud/Google), восстановление из резервной копии может восстановить ваши данные после переустановки</li>
+              <li>Если вы Pro пользователь с включённым облачным резервным копированием, вы сможете восстановить данные на новом устройстве с помощью вашего кода восстановления</li>
             </ul>
           </div>
         </div>
@@ -766,14 +826,66 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Да, приложение создаёт автоматические локальные резервные копии каждые 5 минут</strong> (когда приложение открыто и вносятся изменения). Эти резервные копии хранятся на вашем устройстве и включены в резервную копию iCloud (iOS) или Google (Android), если у вас включены эти службы.</p>
+            <p><strong class="text-white">Да, приложение создаёт автоматические локальные резервные копии каждые несколько минут</strong> (когда приложение открыто и вносятся изменения). Эти резервные копии хранятся на вашем устройстве и включены в резервную копию iCloud (iOS) или Google (Android), если у вас включены эти службы.</p>
             <p class="mt-3"><strong class="text-white">Как это работает:</strong></p>
             <ul class="list-disc list-inside mt-3 space-y-2 ml-2">
               <li>Приложение хранит <strong class="text-white">10 скользящих резервных копий</strong> на вашем устройстве. При создании 11-й резервной копии самая старая автоматически удаляется.</li>
               <li>Резервные копии <strong class="text-white">зашифрованы</strong> с той же защитой, что и ваши документы.</li>
               <li>Если приложение вылетит или вы случайно удалите документ, вы можете восстановиться из последней резервной копии через <strong class="text-white">Настройки → Импорт хранилища</strong>.</li>
             </ul>
-            <p class="mt-3"><strong class="text-white">Ручные резервные копии (Pro):</strong> Пользователи Pro могут также создавать ручные зашифрованные ZIP-резервные копии и сохранять их в Файлы, iCloud Drive, или делиться по AirDrop/электронной почте для хранения вне устройства. Это рекомендуется перед крупными обновлениями или сменой устройства.</p>
+            <p class="mt-3"><strong class="text-white">Vault Export:</strong> Любой пользователь может создать зашифрованный .tdvault-файл и сохранить его в Файлах, iCloud Drive или отправить по AirDrop/электронной почте для хранения вне устройства. Это рекомендуется перед крупными обновлениями или сменой устройства.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-backup-status-label" class="faq-toggle hidden peer" />
+          <label for="faq-backup-status-label" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Что означает строка «Последняя резервная копия: 2 часа назад, 12 документов» в Настройках?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>В этой строке отображается самая последняя автоматическая локальная резервная копия приложения: когда она была сохранена и сколько документов содержит. Это подтверждает, что на вашем устройстве существует восстанавливаемая копия. Нажмите <strong class="text-white">Восстановить локальную резервную копию</strong>, чтобы откатиться к ней в случае необходимости.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-restore-local-backup" class="faq-toggle hidden peer" />
+          <label for="faq-restore-local-backup" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Как восстановить хранилище из локальной резервной копии?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Перейдите в <strong class="text-white">Настройки</strong>, затем нажмите <strong class="text-white">Восстановить локальную резервную копию</strong>. Приложение отображает список доступных резервных копий с метками времени. Выберите нужную и подтвердите. Чтобы восстановить из экспортированного .tdvault-файла, нажмите <strong class="text-white">Импорт хранилища</strong> и выберите файл. Оба варианта бесплатны для всех. Учтите, что при восстановлении текущие данные заменяются содержимым резервной копии.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-recovery-screen" class="faq-toggle hidden peer" />
+          <label for="faq-recovery-screen" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Приложение показывает экран восстановления или сообщает, что данные не удалось загрузить. Что делать?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Не беспокойтесь. Приложение никогда не удаляет ваши данные незаметно. Если оно не может прочитать локальное хранилище, вместо удаления данных отображается экран восстановления. Нажмите <strong class="text-white">Восстановить локальную резервную копию</strong>, чтобы восстановиться из последней автоматической резервной копии, или нажмите <strong class="text-white">Импорт хранилища</strong> для восстановления из ранее экспортированного .tdvault-файла. Резервные копии, созданные до недавнего обновления приложения, также можно восстановить. Ваши документы в целости, ничего не было удалено.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-backup-before-update" class="faq-toggle hidden peer" />
+          <label for="faq-backup-before-update" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Почему приложение создало резервную копию перед обновлением?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Перед крупным обновлением формата данных приложение автоматически создаёт снимок хранилища, чтобы в случае проблем можно было откатиться. Этот процесс автоматический и бесплатный для всех.</p>
           </div>
         </div>
 
@@ -814,7 +926,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">На короткое время, да.</strong> После удаления документов внизу экрана появится краткое окно отмены. Нажмите <strong class="text-white">«Отменить»</strong>, чтобы немедленно восстановить их. Как только окно отмены исчезнет, удаление станет <strong class="text-white">необратимым</strong>. Мы рекомендуем экспортировать резервную копию перед массовым удалением документов.</p>
+            <p><strong class="text-white">Да - у вас есть два уровня защиты.</strong> После удаления документов внизу экрана появится краткое окно отмены. Нажмите <strong class="text-white">«Отменить»</strong>, чтобы немедленно восстановить их. Если вы пропустите окно отмены, удалённые документы переместятся в <strong class="text-white">Недавно удалённые</strong> в Параметры, где они будут оставаться 30 дней перед окончательным удалением. Пользователи Pro с включённой облачной резервной копией сохраняют элементы в Недавно удалённые бесконечно, пока не нажимают Удалить навсегда.</p>
           </div>
         </div>
 
@@ -921,7 +1033,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Да, с помощью зашифрованного экспорта хранилища (функция Pro).</strong> Экспортируйте зашифрованную резервную копию с текущего устройства (Настройки → Экспорт хранилища), перенесите её на новое устройство (по электронной почте, через облачное хранилище или прямую передачу), затем используйте Настройки → Импорт хранилища для восстановления документов.</p>
+            <p><strong class="text-white">Да, с помощью зашифрованного Vault Export.</strong> Экспортируйте зашифрованную резервную копию с текущего устройства (Настройки → Экспорт хранилища), перенесите её на новое устройство (по электронной почте, через облачное хранилище или прямую передачу), затем используйте Настройки → Импорт хранилища для восстановления документов.</p>
             <p class="mt-3">Это работает между платформами, потому что формат шифрования универсален. Вам понадобится тот же пароль, который вы использовали при экспорте хранилища. Вашу покупку Pro также нужно будет восстановить на новом устройстве (см. «Могу ли я восстановить покупку на новом устройстве?» ниже).</p>
           </div>
         </div>
@@ -957,7 +1069,7 @@
     </section>
 
     <!-- Pricing & Purchases -->
-    <section class="scroll-fade-in">
+    <section id="pricing" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -977,7 +1089,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Бесплатная версия</strong> включает 1 профиль и до 5 документов со всеми функциями, включая OCR-сканирование, напоминания об истечении срока, общий доступ к документам, PIN-блокировку и биометрическую блокировку (Face ID / Touch ID). <strong class="text-white">Pro</strong> ($9.99 разово*) открывает неограниченные профили, неограниченные документы, экспорт в объединённый PDF, пакетный экспорт (ZIP), настраиваемое время напоминаний и многостраничную съёмку для авиабилетов и других документов.</p>
+            <p><strong class="text-white">Бесплатная версия</strong> включает 1 профиль и до 5 документов со всеми функциями, включая OCR-сканирование, напоминания об истечении срока, общий доступ к документам, PIN-блокировку и биометрическую блокировку (Face ID / Touch ID). <strong class="text-white">Pro</strong> ($9.99 разово*) открывает неограниченные профили, неограниченные документы, экспорт в объединённый PDF, пакетный экспорт (.tdvault), настраиваемое время напоминаний и многостраничную съёмку для авиабилетов и других документов.</p>
             <p class="text-slate-400 text-xs mt-2">* Подробности см. в <a href="/pricing-policy/#version-policy" class="text-brand-gold hover:text-white underline">Политике ценообразования</a>.</p>
           </div>
         </div>
@@ -1054,7 +1166,7 @@
     </section>
 
     <!-- Troubleshooting -->
-    <section class="scroll-fade-in">
+    <section id="troubleshooting" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-blue-300">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -1120,8 +1232,125 @@
       </div>
     </section>
 
-    <!-- Legal -->
+    <!-- Setup and recovery -->
     <section class="scroll-fade-in">
+      <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
+        <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
+          </svg>
+        </span>
+        Настройка и восстановление
+      </h2>
+
+    <!-- Setup and recovery -->
+    <section class="scroll-fade-in">
+      <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
+        <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
+          </svg>
+        </span>
+        Установка и восстановление
+      </h2>
+
+      <div class="glass-panel rounded-2xl overflow-hidden">
+        <div class="faq-item p-6" id="recovery-code">
+          <input type="checkbox" id="recovery-code-toggle" class="faq-toggle hidden peer" />
+          <label for="recovery-code-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Что такое мой код восстановления и что если я его потеряю?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Ваш код восстановления - это парольная фраза из 24 символов, которая шифрует вашу облачную резервную копию. Если вы её потеряете, эти резервные копии станут невосстановимыми.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="cloud-backup-encryption">
+          <input type="checkbox" id="cloud-backup-encryption-toggle" class="faq-toggle hidden peer" />
+          <label for="cloud-backup-encryption-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Как моя облачная резервная копия зашифрована?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Ваше хранилище зашифровано сквозным шифрованием с использованием AES-256-GCM на вашем устройстве.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="pin-faceid-recovery">
+          <input type="checkbox" id="pin-faceid-recovery-toggle" class="faq-toggle hidden peer" />
+          <label for="pin-faceid-recovery-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Как PIN, Face ID и код восстановления работают вместе?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Ваш PIN - это ежедневный замок. Face ID - это быстрый ярлык для разблокировки.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="export-import">
+          <input type="checkbox" id="export-import-toggle" class="faq-toggle hidden peer" />
+          <label for="export-import-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Как экспортировать и импортировать мое хранилище?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Любой пользователь может экспортировать всё своё хранилище как зашифрованный файл резервной копии с паролем (.tdvault) через Настройки, а затем импортировать его на любом устройстве или после чистой установки. При полном цикле экспорта и импорта все данные сохраняются без изменений, поэтому ваши данные мобильны и вы не привязаны к платформе. (Экспорт объединённого PDF из нескольких документов является отдельной функцией Pro.)</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="allowance-modes">
+          <input type="checkbox" id="allowance-modes-toggle" class="faq-toggle hidden peer" />
+          <label for="allowance-modes-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Режимы лимита дней «Посетитель» и «Дом»: какой выбрать?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Режим «Посетитель» отслеживает дни В стране. Режим «Дом» отслеживает дни ВДАЛИ от вашей родной страны.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="family-profiles">
+          <input type="checkbox" id="family-profiles-toggle" class="faq-toggle hidden peer" />
+          <label for="family-profiles-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Что такое семейные профили?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Каждый член семьи имеет отдельный профиль со своими документами, фотографиями и напоминаниями.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="delete-restore">
+          <input type="checkbox" id="delete-restore-toggle" class="faq-toggle hidden peer" />
+          <label for="delete-restore-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Что происходит при удалении чего-либо?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Удалённые элементы переходят в корзину на 30 дней.</p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Legal -->
+    <section id="legal" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -1220,5 +1449,19 @@
   <script src="/assets/js/cookie-consent.js" defer></script>
   <script src="/assets/js/mobile-menu.js" defer></script>
   <script src="/assets/js/lang-picker.js" defer></script>
+  <!-- Accordion aria-expanded sync (a11y) -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      document.querySelectorAll('.faq-toggle').forEach(function (toggle) {
+        var label = toggle.nextElementSibling;
+        if (label && label.classList.contains('faq-label')) {
+          label.setAttribute('aria-expanded', toggle.checked ? 'true' : 'false');
+          toggle.addEventListener('change', function () {
+            label.setAttribute('aria-expanded', this.checked ? 'true' : 'false');
+          });
+        }
+      });
+    });
+  </script>
 </body>
 </html>

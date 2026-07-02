@@ -84,7 +84,7 @@
       "name": "Was passiert, wenn ich mein Telefon verliere oder zu einem neuen wechsle?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Da wir Ihre Daten nicht speichern, können wir sie nicht für Sie wiederherstellen. Wenn Sie Ihr neues Telefon von einem iCloud- oder Google-Backup wiederherstellen, sollten Ihre Dokumente automatisch übertragen werden. Wir empfehlen, die Export-Funktion zu nutzen, um eine separate Kopie Ihrer wichtigen Dokumente zu erstellen."
+        "text": "Da wir Ihre Daten nicht speichern, können wir sie nicht für Sie wiederherstellen. Ein System-Backup (iCloud oder Google Backup) reinstalliert die App, aber es KANN Ihre Dokumente nicht wiederherstellen, da der Verschlüsselungsschlüssel niemals Ihr Originalgerät verlässt. Wir empfehlen dringend, die Export-Funktion zu nutzen, um eine separate verschlüsselte Kopie Ihrer wichtigen Dokumente zu erstellen, bevor Sie Ihre Telefone wechseln."
       }
     }, {
       "@type": "Question",
@@ -113,6 +113,90 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Travel Document Vault wurde von Mustafa Hafeez entwickelt – einem Senior Software-Entwickler mit jahrelanger Berufserfahrung beim Aufbau datenschutzfreundlicher Anwendungen und einem Vater, der diese App für seine eigene Familie brauchte. Datenschutz ist kein Marketingslogan. Die App wurde von Anfang an so konzipiert, dass Dokumente das Gerät nie verlassen, keine Konten benötigt werden und keine Server beteiligt sind."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Was ist mein Wiederherstellungscode und was passiert, wenn ich ihn verliere?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ihr Wiederherstellungscode ist eine 24-stellige Passphrase, die Ihre Cloud-Sicherung verschlüsselt. Wenn Sie sie verlieren, werden diese Sicherungen nicht wiederherstellbar. Wir speichern oder setzen ihn nicht zurück. Vollständige Informationen über die Bedeutung, das Design-Konzept dahinter und was Sie tun können, wenn Sie ihn vergessen, erhalten Sie im Wiederherstellungscode-Handbuch."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Wie wird meine Cloud-Sicherung verschlüsselt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ihr Tresor wird mit AES-256-GCM end-to-end verschlüsselt, bevor er Ihr Gerät auf dem Gerät selbst verlässt. Der Schlüssel wird von Ihrem Wiederherstellungscode abgeleitet. Apple und Google können die verschlüsselte Datei auf ihren Servern sehen, können sie aber nicht entschlüsseln. Wir auch nicht. Nur Ihr Wiederherstellungscode entriegelt ihn."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Wie arbeiten PIN, Face ID und Wiederherstellungscode zusammen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ihr PIN ist das alltägliche Schloss. Face ID ist eine schnelle Verknüpfung zum Entsperren. Der Wiederherstellungscode ist der Hauptschlüssel für den Fall, dass Sie Ihre PIN vollständig vergessen. Wenn Face ID fehlschlägt, versuchen Sie Ihre PIN. Wenn Sie Ihre PIN vergessen, geben Sie Ihren Wiederherstellungscode ein. Wenn Sie den Wiederherstellungscode verlieren, müssen Sie die App neu installieren und aus der Cloud-Sicherung wiederherstellen."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Wie exportiere und importiere ich meinen Tresor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jeder Nutzer kann seinen gesamten Tresor als verschlüsselte, passwortgeschützte .tdvault-Datei aus den Einstellungen exportieren und auf jedem Gerät oder bei einer Neuinstallation importieren. Der Roundtrip Export-Import behält alles exakt wie es ist – Ihre Daten sind portabel und Sie sind nie eingesperrt. (Der kombinierte PDF-Export aus mehreren Dokumenten ist eine separate Pro-Funktion.)"
+      }
+    }, {
+      "@type": "Question",
+      "name": "Kann ich meine Daten kostenlos sichern?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja. Der Tresor-Export (.tdvault-Datei) ist für alle kostenlos. Die App erstellt außerdem automatisch alle paar Minuten lokale Sicherungen auf Ihrem Gerät, ohne Kosten. Die Cloud-Sicherung auf Ihrem eigenen iCloud oder Google Drive ist die Pro-Option. Keine Sicherungsfunktion sperrt Ihre Daten ein."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Was bedeutet 'Letzte Sicherung: vor 2 Stunden, 12 Dokumente' in den Einstellungen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Diese Zeile zeigt an, wann Ihre letzte automatische lokale Sicherung erstellt wurde und wie viele Dokumente sie enthält. Die App speichert alle paar Minuten eine lokale Sicherung auf Ihrem Gerät, während Sie die App verwenden. Diese Sicherungen werden auf Ihrem Gerät aufbewahrt und sind unabhängig von der Pro-Cloud-Sicherung. Wenn Sie eine Wiederherstellung benötigen, gehen Sie zu den Einstellungen und wählen Sie die gewünschte Sicherung."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Wie stelle ich meinen Tresor aus einer lokalen Sicherung wieder her?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gehen Sie zu den Einstellungen und scrollen Sie zum Abschnitt Sicherung und Wiederherstellung. Dort sehen Sie eine Liste Ihrer verfügbaren lokalen Sicherungen mit Datum und Dokumentenanzahl. Tippen Sie auf die gewünschte, bestätigen Sie, und die App ersetzt die aktuellen Daten durch die der Sicherung. Wenn Sie aus einer manuell exportierten .tdvault-Datei wiederherstellen, verwenden Sie stattdessen Einstellungen und dann Tresor importieren und wählen Sie die Datei aus."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Die App zeigt einen Wiederherstellungsbildschirm oder meldet, dass meine Daten nicht geladen werden konnten. Was soll ich tun?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Löschen Sie die App nicht. Dieser Bildschirm erscheint, wenn die App den Haupttresor nicht laden kann – in der Regel nach einem unterbrochenen Update, einem unerwarteten Neustart oder einem Speicherfehler. Die App hat kurz vor dem Problem automatisch eine Sicherung erstellt. Tippen Sie auf Sicherungen anzeigen, wählen Sie die neueste und stellen Sie wieder her. Wenn Sie eine manuell exportierte .tdvault-Datei haben, verwenden Sie stattdessen Tresor importieren. Im Zweifelsfall kontaktieren Sie support@traveldocumentvault.com, bevor Sie etwas löschen."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Warum hat die App vor dem Update eine Sicherung erstellt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bevor ein Update die Datenstruktur ändern könnte, erstellt die App automatisch eine lokale Sicherungskopie. Wenn das Update reibungslos verläuft, bemerken Sie es nicht einmal. Sollte etwas schiefgehen, können Sie über die Einstellungen zu diesem Snapshot zurückkehren. Es handelt sich um eine stille Sicherheitsmaßnahme zum Schutz Ihrer Daten."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Modi für Besucher vs Heimat-Zulage: welcher ist richtig für mich?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Der Besuchermodus verfolgt Tage IM Land. Der Heimat-Modus verfolgt Tage WEG von Ihrem Heimatland. Wählen Sie Besucher, wenn Sie eine Regel wie Schengen 90/180 befolgen. Wählen Sie Heimat, wenn Sie Steuerresidenz oder eine ähnliche Auslands-Zulagenregel nachverfolgen. Unsicher? Besucher ist der sicherere Standard für die meisten Reisenden."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Was sind Familienprofile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jedes Familienmitglied ist ein separates Profil mit seinen eigenen Dokumenten, Fotos und Erinnerungen. Ihre Daten gehören Ihnen. Die des Partners gehören ihnen. Profile sind nur lokal und synchronisieren sich nie zwischen Geräten oder Personen. Dieses Design wahrt die Privatsphäre und verhindert versehentliche Vermischung sensibler Dokumente."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Was passiert, wenn ich etwas lösche?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gelöschte Elemente gehen für 30 Tage in den Papierkorb. Sie können sie jederzeit während dieses Zeitfensters wiederherstellen. Nach 30 Tagen sind sie endgültig von Ihrem Gerät und den Cloud-Sicherungen gelöscht. Das Leeren des Papierkorbs oder das Zurücksetzen Ihres Telefons auf Werkseinstellungen ist nicht umkehrbar."
       }
     }]
   }
@@ -165,7 +249,7 @@
     }
 
     .faq-toggle:checked ~ .faq-content {
-      max-height: 500px;
+      max-height: 800px;
       padding-top: 1rem;
       padding-bottom: 0.5rem;
     }
@@ -302,8 +386,19 @@
       </div>
     </section>
 
+    <!-- Table of Contents -->
+    <div class="flex flex-wrap items-center justify-center gap-2 mb-12 px-4">
+      <span class="text-sm font-medium text-slate-300">Springe zu:</span>
+      <a href="#privacy" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Datenschutz</a>
+      <a href="#features" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Funktionen</a>
+      <a href="#backup" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Sicherung</a>
+      <a href="#pricing" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Preise</a>
+      <a href="#troubleshooting" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Fehlerbehebung</a>
+      <a href="#legal" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">Recht</a>
+    </div>
+
     <!-- Trust & Transparency -->
-    <section class="scroll-fade-in">
+    <section id="privacy" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -375,7 +470,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Da wir Ihre Daten nicht speichern, können wir sie nicht für Sie wiederherstellen. Wenn Sie Ihr neues Telefon von einem iCloud- oder Google-Backup wiederherstellen, sollten Ihre Dokumente automatisch übertragen werden. Wir empfehlen, die Export-Funktion zu nutzen, um zur Sicherheit eine separate Kopie Ihrer wichtigen Dokumente zu erstellen.</p>
+            <p>Da wir Ihre Daten nicht speichern, können wir sie nicht für Sie wiederherstellen. Ein System-Backup (iCloud oder Google Backup) reinstalliert die App, aber es KANN Ihre Dokumente nicht wiederherstellen, da der Verschlüsselungsschlüssel niemals Ihr Originalgerät verlässt. Wir empfehlen dringend, die Export-Funktion zu nutzen, um eine separate verschlüsselte Kopie Ihrer wichtigen Dokumente zu erstellen, bevor Sie Ihre Telefone wechseln.</p>
           </div>
         </div>
 
@@ -462,13 +557,26 @@
         <div class="faq-item p-6">
           <input type="checkbox" id="faq-2" class="faq-toggle hidden peer" />
           <label for="faq-2" class="faq-label flex items-center justify-between cursor-pointer">
-            <span class="font-semibold text-white">Werden meine Daten in der Cloud gesichert?</span>
+            <span class="font-semibold text-white">Wie sichert die App meine Daten?</span>
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
             </svg>
           </label>
           <div class="faq-content text-slate-300">
             <p>Die App hat keine Cloud-Datenbank. Wir sehen Ihre Daten nicht. Wenn Sie <strong class="text-white">iCloud-Backup</strong> (iOS) oder <strong class="text-white">Google-Backup</strong> (Android) für Ihr gesamtes Telefon verwenden, sind die Daten dieser App in diesem Paket enthalten. <strong class="text-white">Ihre Daten bleiben innerhalb dieser Backups verschlüsselt.</strong> Dieser Prozess wird von Ihrem Betriebssystem verwaltet, nicht von uns.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-backup-free" class="faq-toggle hidden peer" />
+          <label for="faq-backup-free" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Kann ich meine Daten kostenlos sichern?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Ja. Der Tresor-Export (<strong class="text-white">.tdvault</strong>-Datei) ist für alle kostenlos. Gehen Sie zu <strong class="text-white">Einstellungen, Tresor exportieren</strong> und die App erstellt eine passwortgeschützte Datei, die Sie in der Dateien-App, iCloud Drive speichern oder per AirDrop teilen können. Die App erstellt außerdem automatisch <strong class="text-white">lokale Sicherungen alle paar Minuten</strong> auf Ihrem Gerät, ohne Kosten. Die Cloud-Sicherung auf Ihrem eigenen iCloud oder Google Drive ist die Pro-Option. Keine Sicherungsfunktion sperrt Ihre Daten ein.</p>
           </div>
         </div>
 
@@ -526,7 +634,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>Alle Ihre Daten werden <strong class="text-white">dauerhaft gelöscht</strong>, wenn Sie die App deinstallieren. Es gibt danach keine Möglichkeit zur Wiederherstellung, da wir nichts extern speichern. <strong class="text-white">Vor dem Löschen:</strong> Exportieren Sie Ihre Dokumente oder erstellen Sie eine Backup-ZIP-Datei (Pro-Funktion), um sie anderweitig zu speichern.</p>
+            <p>Alle Ihre Daten werden <strong class="text-white">dauerhaft gelöscht</strong>, wenn Sie die App deinstallieren. Es gibt danach keine Möglichkeit zur Wiederherstellung, da wir nichts extern speichern. <strong class="text-white">Vor dem Löschen:</strong> Exportieren Sie Ihre Dokumente oder erstellen Sie eine .tdvault-Sicherungsdatei aus den Einstellungen, um sie anderweitig zu speichern.</p>
           </div>
         </div>
       </div>
@@ -581,8 +689,8 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Ja.</strong> Automatische Backups werden über das integrierte Backup-System Ihres Geräts (iCloud/Google) verschlüsselt. Manuelle Tresor-Exporte (Pro-Funktion) sind <strong class="text-white">passwortgeschützt</strong> mit starker Verschlüsselung. Sie legen beim Exportieren ein Passwort fest und benötigen es zur Wiederherstellung.</p>
-            <p class="mt-3">Wenn Sie von einem Backup wiederherstellen, funktionieren Ihre Dokumente automatisch auf Ihrem neuen Gerät, ohne dass Sie etwas Besonderes tun müssen.</p>
+            <p><strong class="text-white">Ja.</strong> Automatische Backups werden über das integrierte Backup-System Ihres Geräts (iCloud/Google) verschlüsselt. Tresor-Exporte (.tdvault-Dateien) sind <strong class="text-white">passwortgeschützt</strong> mit starker Verschlüsselung. Sie legen beim Exportieren ein Passwort fest und benötigen es zur Wiederherstellung.</p>
+            <p class="mt-3">Ein System-Backup reinstalliert die App, aber Ihre verschlüsselten Dokumente können nicht wiederhergestellt werden, da der Schlüssel auf Ihrem Originalgerät verbleibt. Pro-Nutzer können ein Backup mit ihrem Wiederherstellungscode exportieren und auf einem neuen Gerät mit diesem Code importieren. Alle anderen sollten die Export-Funktion verwenden, um .tdvault-Dateien mit Passwortschutz zu erstellen.</p>
           </div>
         </div>
 
@@ -632,7 +740,7 @@
     </section>
 
     <!-- Funktionen -->
-    <section class="scroll-fade-in">
+    <section id="features" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-blue-300">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -768,14 +876,66 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Ja, die App erstellt alle 5 Minuten automatische lokale Backups</strong> (wenn die App geöffnet ist und Änderungen vorgenommen werden). Diese Backups werden auf Ihrem Gerät gespeichert und in Ihrem iCloud- (iOS) oder Google- (Android) Gerätesicherung eingeschlossen, wenn Sie diese Dienste aktiviert haben.</p>
+            <p><strong class="text-white">Ja, die App erstellt alle paar Minuten automatische lokale Backups</strong> (wenn die App geöffnet ist und Änderungen vorgenommen werden). Diese Backups werden auf Ihrem Gerät gespeichert und in Ihrem iCloud- (iOS) oder Google- (Android) Gerätesicherung eingeschlossen, wenn Sie diese Dienste aktiviert haben.</p>
             <p class="mt-3"><strong class="text-white">So funktioniert es:</strong></p>
             <ul class="list-disc list-inside mt-3 space-y-2 ml-2">
               <li>Die App bewahrt <strong class="text-white">10 rotierende Backups</strong> auf Ihrem Gerät. Wenn ein 11. Backup erstellt wird, wird das älteste automatisch gelöscht.</li>
               <li>Backups sind <strong class="text-white">verschlüsselt</strong> mit demselben Schutz wie Ihre Dokumente.</li>
               <li>Wenn die App abstürzt oder Sie versehentlich ein Dokument löschen, können Sie über <strong class="text-white">Einstellungen → Tresor importieren</strong> das neueste Backup wiederherstellen.</li>
             </ul>
-            <p class="mt-3"><strong class="text-white">Manuelle Backups (Pro):</strong> Pro-Nutzer können auch manuelle verschlüsselte ZIP-Backups erstellen und in Dateien, iCloud Drive speichern oder per AirDrop/E-Mail für die externe Speicherung teilen. Dies wird vor wichtigen Updates oder Gerätewechseln empfohlen.</p>
+            <p class="mt-3"><strong class="text-white">Vault Export:</strong> Jeder Nutzer kann auch manuell verschlüsselte .tdvault-Sicherungen erstellen und in Dateien, iCloud Drive speichern oder per AirDrop/E-Mail für externe Aufbewahrung teilen. Dies wird vor wichtigen Updates oder Gerätewechseln empfohlen. Pro fügt die automatische Cloud-Sicherung auf iCloud oder Google Drive hinzu.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-backup-status-label" class="faq-toggle hidden peer" />
+          <label for="faq-backup-status-label" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Was bedeutet 'Letzte Sicherung: vor 2 Stunden, 12 Dokumente' in den Einstellungen?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Diese Zeile zeigt an, wann Ihre letzte automatische lokale Sicherung erstellt wurde und wie viele Dokumente sie enthält. Die App speichert <strong class="text-white">alle paar Minuten</strong> eine lokale Sicherung auf Ihrem Gerät, während Sie die App verwenden. Diese Sicherungen werden auf Ihrem Gerät aufbewahrt und sind unabhängig von der Pro-Cloud-Sicherung. Wenn Sie eine Wiederherstellung benötigen, gehen Sie zu den <strong class="text-white">Einstellungen</strong> und wählen Sie die gewünschte Sicherung.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-restore-local-backup" class="faq-toggle hidden peer" />
+          <label for="faq-restore-local-backup" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Wie stelle ich meinen Tresor aus einer lokalen Sicherung wieder her?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Gehen Sie zu den <strong class="text-white">Einstellungen</strong> und scrollen Sie zum Abschnitt Sicherung und Wiederherstellung. Dort sehen Sie eine Liste Ihrer verfügbaren lokalen Sicherungen mit Datum und Dokumentenanzahl. Tippen Sie auf die gewünschte, bestätigen Sie, und die App ersetzt die aktuellen Daten durch die der Sicherung. Wenn Sie aus einer manuell exportierten .tdvault-Datei wiederherstellen, verwenden Sie stattdessen <strong class="text-white">Einstellungen und dann Tresor importieren</strong> und wählen Sie die Datei aus.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-recovery-screen" class="faq-toggle hidden peer" />
+          <label for="faq-recovery-screen" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Die App zeigt einen Wiederherstellungsbildschirm oder meldet, dass meine Daten nicht geladen werden konnten. Was soll ich tun?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p><strong class="text-white">Löschen Sie die App nicht.</strong> Dieser Bildschirm erscheint, wenn die App den Haupttresor nicht laden kann – in der Regel nach einem unterbrochenen Update, einem unerwarteten Neustart oder einem Speicherfehler. Die App hat kurz vor dem Problem automatisch eine Sicherung erstellt. Tippen Sie auf <strong class="text-white">Sicherungen anzeigen</strong>, wählen Sie die neueste und stellen Sie wieder her. Wenn Sie eine manuell exportierte .tdvault-Datei haben, verwenden Sie stattdessen <strong class="text-white">Tresor importieren</strong>. Im Zweifelsfall kontaktieren Sie <a href="mailto:support@traveldocumentvault.com" class="text-blue-300 hover:text-white underline">support@traveldocumentvault.com</a>, bevor Sie etwas löschen.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6">
+          <input type="checkbox" id="faq-backup-before-update" class="faq-toggle hidden peer" />
+          <label for="faq-backup-before-update" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Warum hat die App vor dem Update eine Sicherung erstellt?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Bevor ein Update die Datenstruktur ändern könnte, erstellt die App automatisch eine lokale Sicherungskopie. Wenn das Update reibungslos verläuft, bemerken Sie es nicht einmal. Sollte etwas schiefgehen, können Sie über die <strong class="text-white">Einstellungen</strong> zu diesem Snapshot zurückkehren. Es handelt sich um eine stille Sicherheitsmaßnahme zum Schutz Ihrer Daten.</p>
           </div>
         </div>
 
@@ -816,7 +976,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Kurzzeitig, ja.</strong> Nach dem Löschen von Dokumenten (einzeln oder stapelweise) sehen Sie ein kurzes Rückgängig-Fenster unten auf dem Bildschirm. Tippen Sie auf <strong class="text-white">„Rückgängig"</strong>, um sie sofort wiederherzustellen. Sobald das Rückgängig-Fenster verschwindet, ist das Löschen <strong class="text-white">dauerhaft</strong> und kann nicht rückgängig gemacht werden. Wir empfehlen, vor der Massenlöschung ein Backup zu exportieren.</p>
+            <p><strong class="text-white">Ja - Sie haben zwei Schutzebenen.</strong> Nach dem Löschen von Dokumenten (einzeln oder stapelweise) sehen Sie ein kurzes Rückgängig-Fenster unten auf dem Bildschirm. Tippen Sie auf <strong class="text-white">„Rückgängig"</strong>, um sie sofort wiederherzustellen. Wenn Sie das Rückgängig-Fenster verpassen, werden gelöschte Dokumente in den <strong class="text-white">Kürzlich gelöschten</strong> Elementen in den Einstellungen verschoben, wo sie 30 Tage lang bleiben, bevor sie dauerhaft gelöscht werden. Pro-Benutzer mit aktivierter Cloud-Sicherung behalten Elemente in den Kürzlich gelöschten Elementen unbegrenzt, bis sie auf Endgültig löschen tippen.</p>
           </div>
         </div>
 
@@ -923,7 +1083,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Ja, mit verschlüsseltem Tresor-Export (Pro-Funktion).</strong> Exportieren Sie ein verschlüsseltes Backup von Ihrem aktuellen Gerät (Einstellungen → Tresor exportieren), übertragen Sie es auf Ihr neues Gerät (per E-Mail, Cloud-Speicher oder direkte Übertragung), dann verwenden Sie Einstellungen → Tresor importieren, um Ihre Dokumente wiederherzustellen.</p>
+            <p><strong class="text-white">Ja, mit verschlüsseltem Vault Export.</strong> Exportieren Sie ein verschlüsseltes Backup von Ihrem aktuellen Gerät (Einstellungen → Tresor exportieren), übertragen Sie es auf Ihr neues Gerät (per E-Mail, Cloud-Speicher oder direkte Übertragung), dann verwenden Sie Einstellungen → Tresor importieren, um Ihre Dokumente wiederherzustellen.</p>
             <p class="mt-3">Dies funktioniert plattformübergreifend, da das Verschlüsselungsformat universell ist. Sie benötigen dasselbe Passwort, das Sie beim Exportieren des Tresors verwendet haben. Ihr Pro-Kauf muss ebenfalls auf dem neuen Gerät wiederhergestellt werden (siehe „Kann ich meinen Kauf auf einem neuen Gerät wiederherstellen?" unten).</p>
           </div>
         </div>
@@ -959,7 +1119,7 @@
     </section>
 
     <!-- Preise & Purchases -->
-    <section class="scroll-fade-in">
+    <section id="pricing" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -979,7 +1139,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">Kostenlos</strong> umfasst 1 Profil und bis zu 5 Dokumente mit vollem Funktionsumfang, einschließlich OCR-Scanning, Ablauferinnerungen, Dokumententeilen, PIN-Sperre und Biometrischer Sperre (Face ID / Touch ID). <strong class="text-white">Pro</strong> ($9.99 einmalig*) schaltet unbegrenzte Profile, unbegrenzte Dokumente, kombinierten PDF-Export, Stapelexport (ZIP), benutzerdefinierte Erinnerungszeiten und mehrseitige Aufnahme für Flugtickets und Sonstige Dokumente frei.</p>
+            <p><strong class="text-white">Kostenlos</strong> umfasst 1 Profil und bis zu 5 Dokumente mit vollem Funktionsumfang, einschließlich OCR-Scanning, Ablauferinnerungen, Dokumententeilen, PIN-Sperre, Biometrischer Sperre (Face ID / Touch ID) und dem Export des gesamten Tresors (.tdvault). <strong class="text-white">Pro</strong> ($9.99 einmalig*) schaltet unbegrenzte Profile, unbegrenzte Dokumente, kombinierten PDF-Export, verschlüsselte Cloud-Sicherung, benutzerdefinierte Erinnerungszeiten und mehrseitige Aufnahme für Flugtickets und Sonstige Dokumente frei.</p>
             <p class="text-slate-400 text-xs mt-2">* Siehe <a href="/pricing-policy/#version-policy" class="text-brand-gold hover:text-white underline">Preisrichtlinie</a> für Versionierungsdetails.</p>
           </div>
         </div>
@@ -1056,7 +1216,7 @@
     </section>
 
     <!-- Troubleshooting -->
-    <section class="scroll-fade-in">
+    <section id="troubleshooting" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-blue-300">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -1122,8 +1282,115 @@
       </div>
     </section>
 
+    <!-- Einrichtung und Wiederherstellung -->
+    <section id="backup" class="scroll-fade-in">
+      <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
+        <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
+          </svg>
+        </span>
+        Einrichtung und Wiederherstellung
+      </h2>
+
+      <div class="glass-panel rounded-2xl overflow-hidden">
+        <div class="faq-item p-6" id="recovery-code">
+          <input type="checkbox" id="recovery-code-toggle" class="faq-toggle hidden peer" />
+          <label for="recovery-code-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Was ist mein Wiederherstellungscode und was passiert, wenn ich ihn verliere?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Ihr Wiederherstellungscode ist eine 24-stellige Passphrase, die Ihre Cloud-Sicherung verschlüsselt. Wenn Sie sie verlieren, werden diese Sicherungen nicht wiederherstellbar. Wir speichern oder setzen ihn nicht zurück. Vollständige Informationen über die Bedeutung, das Design-Konzept dahinter und was Sie tun können, wenn Sie ihn vergessen, erhalten Sie im Wiederherstellungscode-Handbuch.</p>
+            <p><a href="/de/faq/recovery-code/" class="text-blue-200 hover:text-white">Vollständiges Handbuch →</a></p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="cloud-backup-encryption">
+          <input type="checkbox" id="cloud-backup-encryption-toggle" class="faq-toggle hidden peer" />
+          <label for="cloud-backup-encryption-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Wie wird meine Cloud-Sicherung verschlüsselt?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Ihr Tresor wird mit AES-256-GCM end-to-end verschlüsselt, bevor er Ihr Gerät auf dem Gerät selbst verlässt. Der Schlüssel wird von Ihrem Wiederherstellungscode abgeleitet. Apple und Google können die verschlüsselte Datei auf ihren Servern sehen, können sie aber nicht entschlüsseln. Wir auch nicht. Nur Ihr Wiederherstellungscode entriegelt ihn.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="pin-faceid-recovery">
+          <input type="checkbox" id="pin-faceid-recovery-toggle" class="faq-toggle hidden peer" />
+          <label for="pin-faceid-recovery-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Wie arbeiten PIN, Face ID und Wiederherstellungscode zusammen?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Ihr PIN ist das alltägliche Schloss. Face ID ist eine schnelle Verknüpfung zum Entsperren. Der Wiederherstellungscode ist der Hauptschlüssel für den Fall, dass Sie Ihre PIN vollständig vergessen. Wenn Face ID fehlschlägt, versuchen Sie Ihre PIN. Wenn Sie Ihre PIN vergessen, geben Sie Ihren Wiederherstellungscode ein. Wenn Sie den Wiederherstellungscode verlieren, müssen Sie die App neu installieren und aus der Cloud-Sicherung wiederherstellen.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="export-import">
+          <input type="checkbox" id="export-import-toggle" class="faq-toggle hidden peer" />
+          <label for="export-import-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Wie exportiere und importiere ich meinen Tresor?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Pro ermöglicht es Ihnen, Ihren gesamten Tresor als verschlüsselte .tdvault-Datei zu exportieren, die Sie kontrollieren, und ihn dann auf jedem Gerät oder bei einer Neuinstallation zu importieren. Der Roundtrip Export-Import behält alles exakt wie es ist. Für Schritt-für-Schritt-Anweisungen mit Screenshots siehe die Export-Import-Anleitung.</p>
+            <p><a href="/de/faq/export-import/" class="text-blue-200 hover:text-white">Vollständiges Handbuch →</a></p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="allowance-modes">
+          <input type="checkbox" id="allowance-modes-toggle" class="faq-toggle hidden peer" />
+          <label for="allowance-modes-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Modi für Besucher vs Heimat-Zulage: welcher ist richtig für mich?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Der Besuchermodus verfolgt Tage IM Land. Der Heimat-Modus verfolgt Tage WEG von Ihrem Heimatland. Wählen Sie Besucher, wenn Sie eine Regel wie Schengen 90/180 befolgen. Wählen Sie Heimat, wenn Sie Steuerresidenz oder eine ähnliche Auslands-Zulagenregel nachverfolgen. Unsicher? Besucher ist der sicherere Standard für die meisten Reisenden.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="family-profiles">
+          <input type="checkbox" id="family-profiles-toggle" class="faq-toggle hidden peer" />
+          <label for="family-profiles-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Was sind Familienprofile?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Jedes Familienmitglied ist ein separates Profil mit seinen eigenen Dokumenten, Fotos und Erinnerungen. Ihre Daten gehören Ihnen. Die des Partners gehören ihnen. Profile sind nur lokal und synchronisieren sich nie zwischen Geräten oder Personen. Dieses Design wahrt die Privatsphäre und verhindert versehentliche Vermischung sensibler Dokumente.</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="delete-restore">
+          <input type="checkbox" id="delete-restore-toggle" class="faq-toggle hidden peer" />
+          <label for="delete-restore-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">Was passiert, wenn ich etwas lösche?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>Gelöschte Elemente gehen für 30 Tage in den Papierkorb. Sie können sie jederzeit während dieses Zeitfensters wiederherstellen. Nach 30 Tagen sind sie endgültig von Ihrem Gerät und den Cloud-Sicherungen gelöscht. Das Leeren des Papierkorbs oder das Zurücksetzen Ihres Telefons auf Werkseinstellungen ist nicht umkehrbar.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- Legal -->
-    <section class="scroll-fade-in">
+    <section id="legal" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -1227,5 +1494,19 @@
   <script src="/assets/js/cookie-consent.js" defer></script>
   <script src="/assets/js/mobile-menu.js" defer></script>
   <script src="/assets/js/lang-picker.js" defer></script>
+  <!-- Accordion aria-expanded sync (a11y) -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      document.querySelectorAll('.faq-toggle').forEach(function (toggle) {
+        var label = toggle.nextElementSibling;
+        if (label && label.classList.contains('faq-label')) {
+          label.setAttribute('aria-expanded', toggle.checked ? 'true' : 'false');
+          toggle.addEventListener('change', function () {
+            label.setAttribute('aria-expanded', this.checked ? 'true' : 'false');
+          });
+        }
+      });
+    });
+  </script>
 </body>
 </html>

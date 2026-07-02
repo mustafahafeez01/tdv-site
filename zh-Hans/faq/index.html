@@ -70,7 +70,7 @@
       "name": "$9.99 Pro 升级包含什么？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Pro 是一次性购买，解锁无限个人档案、无限证件、合并 PDF 导出、加密备份和自定义提醒时间。您只需支付一次。没有订阅，没有定期收费，也没有悄悄开始计费的试用。"
+        "text": "Pro 是一次性购买，解锁无限个人档案、无限证件、合并 PDF 导出、加密云备份和自定义提醒时间。您只需支付一次。没有订阅，没有定期收费，也没有悄悄开始计费的试用。"
       }
     }, {
       "@type": "Question",
@@ -84,7 +84,7 @@
       "name": "如果我丢失手机或换了新手机怎么办？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "由于我们不存储您的数据，我们无法为您恢复。如果您从 iCloud 或 Google 备份恢复新手机，您的证件应该会自动转移。我们建议使用导出功能保留重要证件的备份副本，以防万一。"
+        "text": "您的文件存储在设备上，加密密钥也保留在原设备内。系统备份（iCloud 或 Google 备份）会重新安装应用，但无法恢复您的文件 - 加密密钥无法跨设备传递。在切换手机前，从设置中导出您的保险库（.tdvault 文件，所有用户免费），然后在新手机上导入。Pro 用户还可以选择启用加密云备份。"
       }
     }, {
       "@type": "Question",
@@ -113,6 +113,48 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Travel Document Vault 由 Mustafa Hafeez 开发，他是一位拥有多年构建尊重隐私应用专业经验的高级软件开发者，也是一位需要为自己家人使用此应用的父母。隐私不是营销口号。该应用从第一天起就被设计和构建为证件永不离开您的设备，无需账户，且不涉及服务器。"
+      }
+    }, {
+      "@type": "Question",
+      "name": "如何导出和导入我的保险库？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "每位用户均可从设置中将整个保险库导出为加密且有密码保护的备份文件（.tdvault），然后在任意设备或重新安装后导入。往返导出和导入可完整保留所有内容，您的数据始终可携带，不会被锁定。（合并多文档 PDF 导出是单独的 Pro 功能。）"
+      }
+    }, {
+      "@type": "Question",
+      "name": "我可以免费备份数据吗？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "可以。Vault Export（.tdvault 加密备份文件）对所有人免费。应用还会每隔几分钟在设备上自动保存本地备份，无需任何费用。将备份存储到您自己的 iCloud 或 Google Drive 是 Pro 选项。没有任何备份功能会锁定您的数据。"
+      }
+    }, {
+      "@type": "Question",
+      "name": "设置中「上次备份：2 小时前，12 份证件」是什么意思？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "该行显示应用最近一次自动本地备份的时间及包含的证件数量，让您确认设备上存有可恢复的副本。点击「恢复本地备份」即可回滚到该版本。"
+      }
+    }, {
+      "@type": "Question",
+      "name": "如何从本地备份恢复保险库？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "前往设置，点击「恢复本地备份」。应用会显示带有时间戳的可用备份列表。选择所需版本并确认。若要从您导出的 .tdvault 文件恢复，请点击「导入保险库」并选择文件。两种方式对所有人均免费。恢复操作会以备份内容替换当前数据。"
+      }
+    }, {
+      "@type": "Question",
+      "name": "应用显示恢复界面或提示数据无法加载，该怎么办？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "应用绝不会悄悄清除您的数据。若无法读取本地存储，应用会显示恢复界面而非丢弃任何内容。点击「恢复本地备份」从最近一次自动备份中恢复，或点击「导入保险库」从您之前导出的 .tdvault 文件中恢复。应用更新前创建的备份也可以恢复。您的证件可以找回，没有任何内容被删除。"
+      }
+    }, {
+      "@type": "Question",
+      "name": "为什么应用在更新前会创建备份？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "在进行重大数据格式升级前，应用会自动为您的保险库创建快照，以便在出现问题时可以回滚。该过程自动完成，对所有人免费。"
       }
     }]
   }
@@ -165,7 +207,7 @@
     }
 
     .faq-toggle:checked ~ .faq-content {
-      max-height: 500px;
+      max-height: 800px;
       padding-top: 1rem;
       padding-bottom: 0.5rem;
     }
@@ -302,8 +344,19 @@
       </div>
     </section>
 
+    <!-- Table of Contents -->
+    <div class="flex flex-wrap items-center justify-center gap-2 mb-12 px-4">
+      <span class="text-sm font-medium text-slate-300">跳转到：</span>
+      <a href="#privacy" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">隐私</a>
+      <a href="#features" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">功能</a>
+      <a href="#backup" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">备份</a>
+      <a href="#pricing" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">定价</a>
+      <a href="#troubleshooting" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">故障排除</a>
+      <a href="#legal" class="inline-flex items-center px-3 py-1.5 rounded-full glass-panel border border-brand-gold/30 text-brand-gold text-sm font-medium hover:bg-brand-gold/10 transition-colors">法律</a>
+    </div>
+
     <!-- Trust & Transparency -->
-    <section class="scroll-fade-in">
+    <section id="privacy" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -375,7 +428,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>由于我们不存储您的数据，我们无法为您恢复它。如果您从 iCloud 或 Google 备份恢复新手机，您的文件应该会自动传输。我们建议使用导出功能来保存重要文件的单独副本，以防万一。</p>
+            <p>您的文件存储在设备上，加密密钥也保留在原设备内。系统备份（iCloud 或 Google 备份）会重新安装应用，但无法恢复您的文件 - 加密密钥无法跨设备传递。在切换手机前，从设置中导出您的保险库（.tdvault 文件，所有用户免费），然后在新手机上导入。Pro 用户还可以选择启用加密云备份。</p>
           </div>
         </div>
 
@@ -435,7 +488,7 @@
     </section>
 
     <!-- Privacy & Data -->
-    <section class="scroll-fade-in">
+    <section id="backup" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -481,8 +534,8 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>由于我们没有您的数据，我们无法为您恢复它。如果您从系统备份（iCloud/Google）恢复新手机，您的数据应该会重新出现。如果您不使用系统备份，您的数据将丢失。</p>
-            <p class="mt-2"><strong class="text-white">建议：</strong>使用导出功能将重要文件的副本保存到其他地方。</p>
+            <p>您的文件存储在设备上，加密密钥也保留在原设备内。系统备份（iCloud/Google）会重新安装应用，但无法恢复您的文件 - 加密密钥无法跨设备传递。</p>
+            <p class="mt-2"><strong class="text-white">保护您的数据：</strong>从设置中导出您的保险库（.tdvault 文件，所有用户免费），保存在安全位置。Pro 用户还可以启用加密云备份。</p>
           </div>
         </div>
 
@@ -526,7 +579,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>卸载应用时，所有数据均<strong class="text-white">永久删除</strong>。之后无法恢复它，因为我们不在外部存储任何内容。<strong class="text-white">删除前：</strong>导出您的文件或创建备份 ZIP 文件（Pro 功能）将其保存在其他地方。</p>
+            <p>卸载应用时，所有数据均<strong class="text-white">永久删除</strong>。之后无法恢复它，因为我们不在外部存储任何内容。<strong class="text-white">删除前：</strong>从设置中导出 .tdvault 文件，或先恢复本地备份，再导出保存。</p>
           </div>
         </div>
       </div>
@@ -581,7 +634,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">是的。</strong>自动备份通过您的设备内置备份系统（iCloud/Google）加密。手动保险库导出（Pro 功能）是<strong class="text-white">受密码保护</strong>的强加密。导出时您将设置密码，恢复时需要密码。</p>
+            <p><strong class="text-white">是的。</strong>自动备份通过您的设备内置备份系统（iCloud/Google）加密。Vault 导出（.tdvault 文件）是<strong class="text-white">受密码保护</strong>的强加密。导出时您将设置密码，恢复时需要密码。</p>
             <p class="mt-3">如果您从备份恢复，您的文件将自动在您的新设备上工作，而无需您执行任何特殊操作。</p>
           </div>
         </div>
@@ -632,7 +685,7 @@
     </section>
 
     <!-- Features -->
-    <section class="scroll-fade-in">
+    <section id="features" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-blue-300">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -652,7 +705,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>该应用支持<strong class="text-white">护照</strong>、<strong class="text-white">国家身份证</strong>（正反两面）、<strong class="text-white">签证/居留许可证</strong>、<strong class="text-white">航班票据</strong>、<strong class="text-white">代金券和入场券</strong>（礼品卡、促销代码、活动票——有有效期提醒，以便它们不会浪费）、<strong class="text-white">其他文件</strong>（旅行保险、健康保险、接种记录、会员资格、处方——任何有有效期的东西）和<strong class="text-white">笔记</strong>（仅用于期限和提醒的纯文本）。您可以使用相机捕获文件、从照片库导入或导入 PDF 文件。Pro 用户可以为航班票据、代金券和其他文件捕获多页文件。</p>
+            <p>该应用支持<strong class="text-white">护照</strong>、<strong class="text-white">国家身份证</strong>（正反两面）、<strong class="text-white">签证/居留许可证</strong>、<strong class="text-white">航班票据</strong>、<strong class="text-white">代金券和入场券</strong>（礼品卡、促销代码、活动票，附有有效期提醒，以便它们不会浪费）、<strong class="text-white">其他文件</strong>（旅行保险、健康保险、接种记录、会员资格、处方，以及任何有有效期的东西）和<strong class="text-white">笔记</strong>（仅用于期限和提醒的纯文本）。您可以使用相机捕获文件、从照片库导入或导入 PDF 文件。Pro 用户可以为航班票据、代金券和其他文件捕获多页文件。</p>
           </div>
         </div>
 
@@ -678,7 +731,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>OCR（光学字符识别）自动从您的文件中检测有效期。指向相机对准文件，应用将尝试读取有效期。所有处理都在您的手机上进行——没有上传任何内容。检测到的日期标记为"检测：请验证"，需要您的确认才能保存。</p>
+            <p>OCR（光学字符识别）自动从您的文件中检测有效期。指向相机对准文件，应用将尝试读取有效期。所有处理都在您的手机上进行，不会上传任何内容。检测到的日期标记为"检测：请验证"，需要您的确认才能保存。</p>
           </div>
         </div>
 
@@ -691,14 +744,14 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>是的！免费用户可以分享单个文件。Pro 用户获得强大的批量工具：选择特定文件（或每个人的资料）并生成为打印优化的<strong class="text-white">单个组合 PDF</strong>。您甚至可以为导出设置自定义文件名以保持您的数字记录井井有条。</p>
+            <p>是的。免费用户可以分享单个文件。Pro 用户获得强大的批量工具：选择特定文件（或每个人的资料）并生成为打印优化的<strong class="text-white">单个组合 PDF</strong>。您甚至可以为导出设置自定义文件名以保持您的数字记录井井有条。</p>
           </div>
         </div>
 
         <div class="faq-item p-6">
           <input type="checkbox" id="faq-11" class="faq-toggle hidden peer" />
           <label for="faq-11" class="faq-label flex items-center justify-between cursor-pointer">
-            <span class="font-semibold text-white">备份呢？</span>
+            <span class="font-semibold text-white">应用如何备份我的数据？</span>
             <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
             </svg>
@@ -730,7 +783,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">是的！</strong>该应用完全离线工作。您可以添加文件、查看它们并接收提醒，无需任何互联网连接。非常适合旅行。</p>
+            <p><strong class="text-white">是的。</strong>该应用完全离线工作。您可以添加文件、查看它们并接收提醒，无需任何互联网连接。非常适合旅行。</p>
           </div>
         </div>
 
@@ -746,7 +799,7 @@
             <p>要启用应用锁定，请在应用中转到<strong class="text-white">设置 → 应用锁定</strong>：</p>
             <ul class="list-disc list-inside mt-3 space-y-2 ml-2">
               <li><strong class="text-white">PIN 锁定（免费）：</strong>设置 4 位数 PIN 代码。每次打开应用时都需要这个 PIN。</li>
-              <li><strong class="text-white">生物识别锁：</strong>启用 Face ID（带 Face ID 的 iPhone）、Touch ID（带指纹的 iPhone）或指纹解锁（Android）。免费提供给所有用户——因为安全性不应该被付费。</li>
+              <li><strong class="text-white">生物识别锁：</strong>启用 Face ID（带 Face ID 的 iPhone）、Touch ID（带指纹的 iPhone）或指纹解锁（Android）。免费提供给所有用户，因为安全性不应该被付费。</li>
             </ul>
             <p class="mt-3"><strong class="text-white">最佳实践：</strong>启用应用锁定 + 将设备设置为 30 秒后自动锁定。这创建了多层保护：设备锁定、然后应用锁定、然后加密文件。</p>
             <p class="mt-3 text-sm text-slate-500"><strong class="text-white">重要：忘记 PIN：</strong>如果您忘记 PIN，唯一的访问权限是删除并重新安装该应用，这会<strong class="text-white">永久删除所有数据</strong>。为了保护自己：</p>
@@ -768,14 +821,14 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">是的，该应用每 5 分钟创建一次自动本地备份</strong>（当应用打开且进行更改时）。这些备份存储在您的设备上，如果您启用了 iCloud（iOS）或 Google（Android）服务，它们将包含在您的设备备份中。</p>
+            <p><strong class="text-white">是的，该应用每隔几分钟自动创建一次本地备份</strong>（当应用打开且进行更改时）。这些备份存储在您的设备上，如果您启用了 iCloud（iOS）或 Google（Android）服务，它们将包含在您的设备备份中。</p>
             <p class="mt-3"><strong class="text-white">工作原理：</strong></p>
             <ul class="list-disc list-inside mt-3 space-y-2 ml-2">
               <li>该应用在您的设备上保留<strong class="text-white">10 个滚动备份</strong>。创建第 11 个备份时，最旧的备份会自动删除。</li>
               <li>备份使用与文件相同的保护进行<strong class="text-white">加密</strong>。</li>
-              <li>如果应用崩溃或意外删除文件，您可以通过<strong class="text-white">设置 → 导入保险库</strong>从最近的备份恢复。</li>
+              <li>如果应用崩溃或意外删除文件，您可以通过<strong class="text-white">设置 → 恢复本地备份</strong>从最近的备份恢复。</li>
             </ul>
-            <p class="mt-3"><strong class="text-white">手动备份（Pro）：</strong>Pro 用户还可以创建手动加密 ZIP 备份并将其保存到文件、iCloud Drive 或通过 AirDrop/电子邮件分享，用于离设备存储。建议在重大更新或设备更改之前进行此操作。</p>
+            <p class="mt-3"><strong class="text-white">Vault Export：</strong>前往设置，随时导出加密的 .tdvault 文件。保存到"文件"、iCloud Drive，或通过 AirDrop/电子邮件分享，用于离设备存储。所有用户均可免费使用。</p>
           </div>
         </div>
 
@@ -816,7 +869,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">短暂地，是的。</strong>删除文件（单个或批量）后，您会在屏幕底部看到一个短撤销窗口。点击<strong class="text-white">"撤销"</strong>立即恢复它们。撤销窗口消失后，删除是<strong class="text-white">永久的</strong>无法撤销。我们建议在批量删除文件之前导出备份。</p>
+            <p><strong class="text-white">是的 - 您有两层保护。</strong>删除文件（单个或批量）后，您会在屏幕底部看到一个短撤销窗口。点击<strong class="text-white">"撤销"</strong>立即恢复它们。如果您错过了撤销窗口，已删除的文件将移至设置中的<strong class="text-white">最近删除</strong>，在永久删除前保留 30 天。启用云备份的 Pro 用户将在最近删除中无限期保留项目，直到他们点击永久删除。</p>
           </div>
         </div>
 
@@ -842,7 +895,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>是的。您可以存储健康保险卡、重复处方、接种记录和任何其他与健康相关的文件。使用<strong class="text-white">笔记</strong>或<strong class="text-white">文件</strong>类型，添加有效期，该应用将在续约到期前向您发送提醒——与对护照和签证所做的方式相同。所有内容都保留在您的设备上，加密，永远不会上传到任何地方。</p>
+            <p>是的。您可以存储健康保险卡、重复处方、接种记录和任何其他与健康相关的文件。使用<strong class="text-white">笔记</strong>或<strong class="text-white">文件</strong>类型，添加有效期，该应用将在续约到期前向您发送提醒，与对护照和签证所做的方式相同。所有内容都保留在您的设备上，加密，永远不会上传到任何地方。</p>
           </div>
         </div>
 
@@ -923,7 +976,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">是的，使用加密保险库导出（Pro 功能）。</strong>从您当前的设备导出加密备份（设置 → 导出保险库），将其转移到您的新设备（通过电子邮件、云存储或直接转移），然后使用设置 → 导入保险库恢复您的文件。</p>
+            <p><strong class="text-white">是的，使用加密 Vault Export 即可。</strong>从您当前的设备导出 .tdvault 文件（设置 → 导出保险库），将其转移到您的新设备（通过电子邮件、云存储或直接转移），然后使用设置 → 导入保险库恢复您的文件。</p>
             <p class="mt-3">这跨平台工作，因为加密格式是通用的。您需要导出保险库时使用的相同密码。您的 Pro 购买还需要在新设备上恢复（请参阅下面的"我可以在新设备上恢复我的购买吗？"）。</p>
           </div>
         </div>
@@ -959,7 +1012,7 @@
     </section>
 
     <!-- Pricing & Purchases -->
-    <section class="scroll-fade-in">
+    <section id="pricing" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -979,7 +1032,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p><strong class="text-white">免费</strong>包括 1 个资料和最多 5 份文件，具有全面功能，包括 OCR 扫描、有效期提醒、文件分享、PIN 锁定和生物识别锁定（Face ID/Touch ID）。<strong class="text-white">Pro</strong>（$9.99 一次性*）可解锁无限个资料、无限个文件、组合 PDF 导出、批量导出（ZIP）、自定义提醒时间和多页捕获航班票据和其他文件。</p>
+            <p><strong class="text-white">免费</strong>包括 1 个资料和最多 5 份文件，具有全面功能，包括 OCR 扫描、有效期提醒、文件分享、PIN 锁定和生物识别锁定（Face ID/Touch ID）。<strong class="text-white">Pro</strong>（$9.99 一次性*）可解锁无限个资料、无限个文件、组合 PDF 导出、批量导出（.tdvault）、自定义提醒时间和多页捕获航班票据和其他文件。</p>
             <p class="text-slate-400 text-xs mt-2">*参考<a href="/pricing-policy/#version-policy" class="text-brand-gold hover:text-white underline">定价政策</a>以了解版本详细信息。</p>
           </div>
         </div>
@@ -1035,8 +1088,8 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>您的 $9.99 购买涵盖当前主要版本内的每次更新——这意味着所有错误修复、安全补丁和发布为 v1.1、v1.2、v1.3 等的新功能。您的应用不断工作和改进，无需额外费用。</p>
-            <p class="mt-3">如果未来曾经发布具有显著重建功能集的 v2.0，可能会作为单独的购买提供。您将永远不会被迫升级——您当前的版本继续完全像现在一样工作。查看我们的<a href="/pricing-policy/#version-policy" class="text-brand-gold hover:text-white underline">完整版本政策</a>以了解详细信息。</p>
+            <p>您的 $9.99 购买涵盖当前主要版本内的每次更新，这意味着所有错误修复、安全补丁和发布为 v1.1、v1.2、v1.3 等的新功能。您的应用不断工作和改进，无需额外费用。</p>
+            <p class="mt-3">如果未来曾经发布具有显著重建功能集的 v2.0，可能会作为单独的购买提供。您将永远不会被迫升级，您当前的版本继续完全像现在一样工作。查看我们的<a href="/pricing-policy/#version-policy" class="text-brand-gold hover:text-white underline">完整版本政策</a>以了解详细信息。</p>
           </div>
         </div>
 
@@ -1056,7 +1109,7 @@
     </section>
 
     <!-- Troubleshooting -->
-    <section class="scroll-fade-in">
+    <section id="troubleshooting" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-blue-300">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -1103,7 +1156,7 @@
             </svg>
           </label>
           <div class="faq-content text-slate-300">
-            <p>文件质量完全取决于您的相机和拍摄环境。我们不会修改或增强图像——拍摄什么就存储什么。最佳拍摄建议：使用充足的光线（自然光效果最好）、拍摄时保持稳定、确保文件平整且完全在取景框内，并清洁镜头。导出的 PDF 打印质量同样反映原始拍摄质量。</p>
+            <p>文件质量完全取决于您的相机和拍摄环境。我们不会修改或增强图像，拍摄什么就存储什么。最佳拍摄建议：使用充足的光线（自然光效果最好）、拍摄时保持稳定、确保文件平整且完全在取景框内，并清洁镜头。导出的 PDF 打印质量同样反映原始拍摄质量。</p>
           </div>
         </div>
 
@@ -1122,8 +1175,169 @@
       </div>
     </section>
 
-    <!-- Legal -->
+    <!-- Setup and recovery -->
     <section class="scroll-fade-in">
+      <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
+        <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
+          </svg>
+        </span>
+        设置和恢复
+      </h2>
+
+      <div class="glass-panel rounded-2xl overflow-hidden">
+        <div class="faq-item p-6" id="recovery-code">
+          <input type="checkbox" id="recovery-code-toggle" class="faq-toggle hidden peer" />
+          <label for="recovery-code-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">我的恢复码是什么，如果我丢失它会发生什么?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>您的恢复码是一个 24 字符的密码，用于加密您的云备份。</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="cloud-backup-encryption">
+          <input type="checkbox" id="cloud-backup-encryption-toggle" class="faq-toggle hidden peer" />
+          <label for="cloud-backup-encryption-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">我的云备份是如何加密的?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>您的保险库使用您设备上的 AES-256-GCM 进行端到端加密。</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="pin-faceid-recovery">
+          <input type="checkbox" id="pin-faceid-recovery-toggle" class="faq-toggle hidden peer" />
+          <label for="pin-faceid-recovery-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">PIN、Face ID 和恢复码如何一起工作?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>您的 PIN 是日常锁。Face ID 是快速解锁快捷方式。</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="export-import">
+          <input type="checkbox" id="export-import-toggle" class="faq-toggle hidden peer" />
+          <label for="export-import-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">我如何导出和导入我的保险库?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>每位用户均可从设置中将整个保险库导出为加密且有密码保护的备份文件（.tdvault），然后在任意设备或重新安装后导入。往返导出和导入可完整保留所有内容，您的数据始终可携带，不会被锁定。（合并多文档 PDF 导出是单独的 Pro 功能。）</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-backup-free-new">
+          <input type="checkbox" id="faq-backup-free-new-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-backup-free-new-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">我可以免费备份数据吗？</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>可以。Vault Export（.tdvault 加密备份文件）对所有人免费。应用还会每隔几分钟在设备上自动保存本地备份，无需任何费用。将备份存储到您自己的 iCloud 或 Google Drive 是 Pro 选项。没有任何备份功能会锁定您的数据。</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-last-backup-status">
+          <input type="checkbox" id="faq-last-backup-status-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-last-backup-status-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">设置中「上次备份：2 小时前，12 份证件」是什么意思？</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>该行显示应用最近一次自动本地备份的时间及包含的证件数量，让您确认设备上存有可恢复的副本。点击「恢复本地备份」即可回滚到该版本。</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-restore-local-backup">
+          <input type="checkbox" id="faq-restore-local-backup-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-restore-local-backup-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">如何从本地备份恢复保险库？</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>前往设置，点击「恢复本地备份」。应用会显示带有时间戳的可用备份列表。选择所需版本并确认。若要从您导出的 .tdvault 文件恢复，请点击「导入保险库」并选择文件。两种方式对所有人均免费。恢复操作会以备份内容替换当前数据。</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-recovery-screen">
+          <input type="checkbox" id="faq-recovery-screen-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-recovery-screen-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">应用显示恢复界面或提示数据无法加载，该怎么办？</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>应用绝不会悄悄清除您的数据。若无法读取本地存储，应用会显示恢复界面而非丢弃任何内容。点击「恢复本地备份」从最近一次自动备份中恢复，或点击「导入保险库」从您之前导出的 .tdvault 文件中恢复。应用更新前创建的备份也可以恢复。您的证件可以找回，没有任何内容被删除。</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="faq-pre-update-backup">
+          <input type="checkbox" id="faq-pre-update-backup-toggle" class="faq-toggle hidden peer" />
+          <label for="faq-pre-update-backup-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">为什么应用在更新前会创建备份？</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" /></svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>在进行重大数据格式升级前，应用会自动为您的保险库创建快照，以便在出现问题时可以回滚。该过程自动完成，对所有人免费。</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="allowance-modes">
+          <input type="checkbox" id="allowance-modes-toggle" class="faq-toggle hidden peer" />
+          <label for="allowance-modes-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">访客与主页津贴模式：我应该选择哪个?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>访客模式跟踪在国家内的天数。主页模式跟踪远离您祖国的天数。</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="family-profiles">
+          <input type="checkbox" id="family-profiles-toggle" class="faq-toggle hidden peer" />
+          <label for="family-profiles-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">什么是家庭档案?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>每个家庭成员都有一个单独的配置文件，其中包含他们自己的文件、照片和提醒。</p>
+          </div>
+        </div>
+
+        <div class="faq-item p-6" id="delete-restore">
+          <input type="checkbox" id="delete-restore-toggle" class="faq-toggle hidden peer" />
+          <label for="delete-restore-toggle" class="faq-label flex items-center justify-between cursor-pointer">
+            <span class="font-semibold text-white">删除某些内容时会发生什么?</span>
+            <svg class="faq-arrow h-5 w-5 text-slate-50" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </label>
+          <div class="faq-content text-slate-300">
+            <p>已删除的项目进入垃圾箱 30 天。</p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Legal -->
+    <section id="legal" class="scroll-fade-in">
       <h2 class="text-xl font-bold text-white mb-4 flex items-center gap-3">
         <span class="h-8 w-8 rounded-lg bg-brand-gold/20 flex items-center justify-center text-brand-gold">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -1227,5 +1441,19 @@
   <script src="/assets/js/cookie-consent.js" defer></script>
   <script src="/assets/js/mobile-menu.js" defer></script>
   <script src="/assets/js/lang-picker.js" defer></script>
+  <!-- Accordion aria-expanded sync (a11y) -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      document.querySelectorAll('.faq-toggle').forEach(function (toggle) {
+        var label = toggle.nextElementSibling;
+        if (label && label.classList.contains('faq-label')) {
+          label.setAttribute('aria-expanded', toggle.checked ? 'true' : 'false');
+          toggle.addEventListener('change', function () {
+            label.setAttribute('aria-expanded', this.checked ? 'true' : 'false');
+          });
+        }
+      });
+    });
+  </script>
 </body>
 </html>
