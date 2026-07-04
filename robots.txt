@@ -15,27 +15,83 @@ Disallow: /zh-Hant/
 # LLM / AI crawlers — explicitly allowed
 User-agent: GPTBot
 Allow: /
+Disallow: /no/
+Disallow: /fi/
+Disallow: /tr/
+Disallow: /pl/
+Disallow: /vi/
+Disallow: /ar/
+Disallow: /zh-Hant/
 
 User-agent: ChatGPT-User
 Allow: /
+Disallow: /no/
+Disallow: /fi/
+Disallow: /tr/
+Disallow: /pl/
+Disallow: /vi/
+Disallow: /ar/
+Disallow: /zh-Hant/
 
 User-agent: ClaudeBot
 Allow: /
+Disallow: /no/
+Disallow: /fi/
+Disallow: /tr/
+Disallow: /pl/
+Disallow: /vi/
+Disallow: /ar/
+Disallow: /zh-Hant/
 
 User-agent: Claude-Web
 Allow: /
+Disallow: /no/
+Disallow: /fi/
+Disallow: /tr/
+Disallow: /pl/
+Disallow: /vi/
+Disallow: /ar/
+Disallow: /zh-Hant/
 
 User-agent: PerplexityBot
 Allow: /
+Disallow: /no/
+Disallow: /fi/
+Disallow: /tr/
+Disallow: /pl/
+Disallow: /vi/
+Disallow: /ar/
+Disallow: /zh-Hant/
 
 User-agent: Googlebot
 Allow: /
+Disallow: /no/
+Disallow: /fi/
+Disallow: /tr/
+Disallow: /pl/
+Disallow: /vi/
+Disallow: /ar/
+Disallow: /zh-Hant/
 
 User-agent: anthropic-ai
 Allow: /
+Disallow: /no/
+Disallow: /fi/
+Disallow: /tr/
+Disallow: /pl/
+Disallow: /vi/
+Disallow: /ar/
+Disallow: /zh-Hant/
 
 User-agent: cohere-ai
 Allow: /
+Disallow: /no/
+Disallow: /fi/
+Disallow: /tr/
+Disallow: /pl/
+Disallow: /vi/
+Disallow: /ar/
+Disallow: /zh-Hant/
 
 # LLM discovery
 LLMs: https://traveldocumentvault.com/llms.txt
