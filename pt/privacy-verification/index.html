@@ -212,8 +212,17 @@
               <span class="text-brand-gold">1.</span> Teste de tráfego de rede
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              Instale um monitor de rede como <strong class="text-white">mitmproxy</strong> (gratuito, código aberto), <strong class="text-white">Charles Proxy</strong>, ou <strong class="text-white">Wireshark</strong>. Abra Travel Document Vault, digitalize um documento, navegue pelo seu cofre e defina um lembrete. Você verá zero solicitações de saída durante o uso normal. As exceções são: relatórios de falha Sentry (opt-in, desabilitados por padrão, enviam dados apenas quando o aplicativo falha) e backup na nuvem Pro (se habilitado, sincroniza seu cofre criptografado com seu iCloud ou Google Drive pessoal - o tráfego vai para a infraestrutura Apple ou Google, não para nós).
+              Instale um monitor de rede como <strong class="text-white">mitmproxy</strong> (gratuito, código aberto), <strong class="text-white">Wireshark</strong> (gratuito, código aberto), ou <strong class="text-white">Charles Proxy</strong>. Abra Travel Document Vault, digitalize um documento, navegue pelo seu cofre e defina um lembrete. Você não deve ver seus documentos, digitalizações, datas de validade ou o conteúdo do cofre sendo enviados para a Travel Document Vault. O tráfego de rede deve se limitar a recursos específicos: relatórios opcionais de falha do Sentry, verificações de compra da App Store ou Google Play, backup opcional no seu próprio iCloud ou Google Drive, e as verificações de atualização ou conectividade explicadas abaixo.
             </p>
+            <div class="permission-card rounded-xl p-4 sm:p-5 space-y-2 border border-amber-500/20">
+              <h4 class="text-sm font-semibold text-white">Por que você pode ver expo.dev ou clients3.google.com</h4>
+              <p class="text-slate-300 text-sm leading-relaxed">
+                Algumas versões anteriores à 1.2.1 podem mostrar solicitações para <strong class="text-white">expo.dev</strong> e para um endpoint de conectividade do Google, normalmente <strong class="text-white">clients3.google.com</strong>. A solicitação para <strong class="text-white">expo.dev</strong> verificava se havia uma pequena atualização over-the-air disponível, geralmente para correções de bugs que não precisavam de um lançamento completo na App Store ou no Google Play. A solicitação de conectividade do Google ajudava o Android a confirmar que o dispositivo estava online antes que recursos de rede como o backup tentassem sincronizar.
+              </p>
+              <p class="text-slate-400 text-sm leading-relaxed">
+                Essas verificações existiam para atualizações e preparação do backup, não para coleta de documentos. Elas não enviavam para a Travel Document Vault o conteúdo dos documentos, fotos, nomes, datas de validade nem dados do cofre. O caminho de dependência por trás dessas verificações foi removido na versão 1.2.1 do app, então elas não devem mais aparecer durante o uso normal após a atualização para a 1.2.1.
+              </p>
+            </div>
           </div>
 
           <!-- iOS Privacy Report -->
@@ -222,7 +231,7 @@
               <span class="text-brand-gold">2.</span> Relatório de privacidade de aplicativo iOS
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              No iPhone, vá para <strong class="text-white">Configurações &gt; Privacidade e segurança &gt; Relatório de privacidade do aplicativo</strong>. Este recurso integrado do Apple mostra quais aplicativos contataram domínios de rede. Travel Document Vault não mostrará atividade de rede durante o uso normal. Se você tiver habilitado o backup na nuvem Pro, verá conexões com domínios iCloud do Apple - esse é seu backup sincronizando com sua própria conta iCloud.
+              No iPhone, vá para <strong class="text-white">Configurações &gt; Privacidade e segurança &gt; Relatório de privacidade do aplicativo</strong>. Este recurso integrado da Apple mostra quais aplicativos contataram domínios de rede. A Travel Document Vault não nos envia seus documentos, digitalizações, datas de validade nem o conteúdo do seu cofre. Se você tiver habilitado o backup na nuvem Pro, verá conexões com domínios iCloud da Apple - esse é o seu backup sincronizando com a sua própria conta iCloud.
             </p>
           </div>
 
@@ -328,10 +337,10 @@
             <span class="text-xs text-slate-500 font-medium ml-auto">Android</span>
           </div>
           <p class="text-slate-300 text-sm leading-relaxed">
-            <strong class="text-white">Por que estes aparecem:</strong> Estes são necessários para três recursos: <strong class="text-white">Relatórios de falha Sentry</strong> (opt-in, desabilitados por padrão), <strong class="text-white">Faturamento Google Play</strong> para compra de atualização Pro, e <strong class="text-white">Backup na nuvem Pro</strong> (opcional) que sincroniza seu cofre criptografado com seu Google Drive pessoal. ACCESS_NETWORK_STATE e ACCESS_WIFI_STATE permitem que esses recursos verifiquem se uma conexão está disponível antes de tentar enviar.
+            <strong class="text-white">Por que estes aparecem:</strong> Eles são necessários para recursos que usam rede: <strong class="text-white">relatórios de falha do Sentry</strong> (opt-in, desabilitados por padrão), <strong class="text-white">faturamento da App Store ou Google Play</strong> para a compra do upgrade Pro, e <strong class="text-white">backup na nuvem Pro</strong> (opcional), que sincroniza seu cofre criptografado com seu próprio iCloud ou Google Drive. ACCESS_NETWORK_STATE e ACCESS_WIFI_STATE permitem verificar se há conexão disponível antes de tentar enviar. Em versões anteriores à 1.2.1, o app também podia consultar <strong class="text-white">expo.dev</strong> para pequenas atualizações over-the-air de correção de bugs e um endpoint de conectividade do Google, normalmente <strong class="text-white">clients3.google.com</strong>, antes que o backup ou outros recursos de rede tentassem se conectar.
           </p>
           <p class="text-slate-400 text-sm leading-relaxed">
-            <strong class="text-slate-300">O que nunca fazemos:</strong> O aplicativo não faz chamadas de rede durante o uso normal. Funciona completamente offline. O único tráfego de saída ocorre quando o relatório de falha é acionado (se aceito), quando uma compra Pro é restaurada ou quando o backup na nuvem Pro se sincroniza com seu Google Drive ou iCloud pessoal - o tráfego nesse caso vai para a infraestrutura Google ou Apple, não para nós.
+            <strong class="text-slate-300">O que não fazemos:</strong> O aplicativo não envia seus documentos, digitalizações, datas de validade, fotos nem o conteúdo do seu cofre para a Travel Document Vault. Ele funciona completamente offline para armazenamento normal de documentos e lembretes. As verificações de atualização e conectividade anteriores à 1.2.1 não enviam seus dados documentais e foram removidas na versão 1.2.1.
           </p>
         </div>
 

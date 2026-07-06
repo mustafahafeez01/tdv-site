@@ -212,8 +212,17 @@
               <span class="text-brand-gold">1.</span> Netwerkverkeerstest
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              Installeer een netwerkmonitor zoals <strong class="text-white">mitmproxy</strong> (gratis, open source), <strong class="text-white">Charles Proxy</strong> of <strong class="text-white">Wireshark</strong>. Open Travel Document Vault, scan een document, blader door je kluis en stel een herinnering in. Je ziet nul uitgaande verzoeken tijdens normaal gebruik. Uitzonderingen zijn: Sentry crash reporting (opt-in, standaard uitgeschakeld, stuurt alleen gegevens wanneer de app crasht) en Pro cloud backup (indien ingeschakeld, synchroniseert je versleutelde kluis naar je eigen iCloud of Google Drive - verkeer gaat naar Apple of Google-infrastructuur, niet naar ons).
+              Installeer een netwerkmonitor zoals <strong class="text-white">mitmproxy</strong> (gratis, open source), <strong class="text-white">Wireshark</strong> (gratis, open source) of <strong class="text-white">Charles Proxy</strong>. Open Travel Document Vault, scan een document, blader door je kluis en stel een herinnering in. Je zou niet moeten zien dat je documenten, scans, vervaldata of kluisinhoud naar Travel Document Vault worden gestuurd. Het netwerkverkeer zou beperkt moeten blijven tot specifieke functies: optionele Sentry-crashrapportage, aankoopcontroles via App Store of Google Play, optionele cloudback-up naar je eigen iCloud of Google Drive en de update- of connectiviteitscontroles die hieronder worden uitgelegd.
             </p>
+            <div class="permission-card rounded-xl p-4 sm:p-5 space-y-2 border border-amber-500/20">
+              <h4 class="text-sm font-semibold text-white">Waarom je expo.dev of clients3.google.com kunt zien</h4>
+              <p class="text-slate-300 text-sm leading-relaxed">
+                Sommige builds van voor versie 1.2.1 kunnen verzoeken tonen naar <strong class="text-white">expo.dev</strong> en naar een Google-connectiviteitseindpunt, meestal <strong class="text-white">clients3.google.com</strong>. Het verzoek naar <strong class="text-white">expo.dev</strong> controleerde of er een kleine over-the-air-update beschikbaar was, meestal voor bugfixes die geen volledige release via App Store of Google Play nodig hadden. Het Google-connectiviteitsverzoek hielp Android bevestigen dat het apparaat online was voordat netwerkfuncties zoals back-up probeerden te synchroniseren.
+              </p>
+              <p class="text-slate-400 text-sm leading-relaxed">
+                Deze controles waren er voor updates en back-upgereedheid, niet voor documentverzameling. Ze stuurden geen documentinhoud, foto's, namen, vervaldata of kluisgegevens naar ons. Het afhankelijkheidspad achter deze controles is verwijderd in appversie 1.2.1, dus ze zouden na een update naar 1.2.1 niet meer moeten verschijnen bij normaal gebruik.
+              </p>
+            </div>
           </div>
 
           <!-- iOS Privacy Report -->
@@ -222,7 +231,7 @@
               <span class="text-brand-gold">2.</span> iOS App Privacy Report
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              Op iPhone, ga naar <strong class="text-white">Instellingen > Privacy en Beveiliging > App Privacy Report</strong>. Deze ingebouwde Apple-functie laat zien welke apps netmaindomeinen hebben benaderd. Travel Document Vault toont geen netwerkactiviteit tijdens normaal gebruik. Als je Pro cloud backup hebt ingeschakeld, zie je verbindingen met Apple's iCloud-domeinen - dat is je eigen backup die synchroniseert naar je eigen iCloud-account.
+              Ga op iPhone naar <strong class="text-white">Instellingen &gt; Privacy en beveiliging &gt; App Privacy Report</strong>. Deze ingebouwde Apple-functie laat zien welke apps netwerkdomeinen hebben benaderd. Travel Document Vault stuurt je documenten, scans, vervaldata of kluisinhoud niet naar ons. Als je Pro cloud backup hebt ingeschakeld, zie je verbindingen met Apple's iCloud-domeinen - dat is je eigen backup die synchroniseert naar je eigen iCloud-account.
             </p>
           </div>
 
@@ -328,10 +337,10 @@
             <span class="text-xs text-slate-500 font-medium ml-auto">Android</span>
           </div>
           <p class="text-slate-300 text-sm leading-relaxed">
-            <strong class="text-white">Waarom deze verschijnen:</strong> Deze zijn vereist voor drie functies: <strong class="text-white">Sentry crash reporting</strong> (opt-in, standaard uitgeschakeld), <strong class="text-white">Google Play billing</strong> voor de Pro-upgrade en <strong class="text-white">Pro cloud backup</strong> (optioneel) die je versleutelde kluis synchroniseert met je Google Drive. ACCESS_NETWORK_STATE en ACCESS_WIFI_STATE stellen deze functies in staat te controleren of een verbinding beschikbaar is voordat er een verzending wordt gedaan.
+            <strong class="text-white">Waarom deze verschijnen:</strong> Ze zijn nodig voor netwerkafhankelijke functies: <strong class="text-white">Sentry-crashrapportage</strong> (opt-in, standaard uitgeschakeld), <strong class="text-white">facturatie via App Store of Google Play</strong> voor de aankoop van de Pro-upgrade en <strong class="text-white">Pro cloud backup</strong> (optioneel), die je versleutelde kluis synchroniseert met je eigen iCloud of Google Drive. ACCESS_NETWORK_STATE en ACCESS_WIFI_STATE laten deze functies controleren of er een verbinding beschikbaar is voordat ze proberen te verzenden. In versies van voor 1.2.1 kon de app ook <strong class="text-white">expo.dev</strong> controleren op kleine over-the-air-bugfixupdates en een Google-connectiviteitseindpunt, meestal <strong class="text-white">clients3.google.com</strong>, voordat backup of andere netwerkfuncties probeerden verbinding te maken.
           </p>
           <p class="text-slate-400 text-sm leading-relaxed">
-            <strong class="text-slate-300">Wat we nooit doen:</strong> De app maakt geen netwerkoproepen tijdens normaal gebruik. Het werkt volledig offline. Het enige uitgaande verkeer vindt plaats wanneer crash reporting afgaat (indien ingeschakeld), bij terugzet van een Pro-aankoop of wanneer Pro cloud backup synchroniseert met je eigen Google Drive of iCloud - verkeer gaat in dat geval naar Google- of Apple-infrastructuur, niet naar ons.
+            <strong class="text-slate-300">Wat we niet doen:</strong> De app uploadt je documenten, scans, vervaldata, foto's of kluisinhoud niet naar Travel Document Vault. Voor normale documentopslag en herinneringen werkt de app volledig offline. De update- en connectiviteitscontroles van voor 1.2.1 sturen je documentgegevens niet en zijn verwijderd in appversie 1.2.1.
           </p>
         </div>
 

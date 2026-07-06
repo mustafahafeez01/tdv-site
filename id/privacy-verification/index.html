@@ -212,8 +212,17 @@
               <span class="text-brand-gold">1.</span> Uji lalu lintas jaringan
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              Instal monitor jaringan seperti <strong class="text-white">mitmproxy</strong> (gratis, sumber terbuka), <strong class="text-white">Charles Proxy</strong>, atau <strong class="text-white">Wireshark</strong>. Buka Travel Document Vault, pindai dokumen, telusuri brankas Anda, dan atur pengingat. Anda akan melihat nol permintaan keluar selama penggunaan normal. Pengecualiannya adalah: pelaporan kerusakan Sentry (opt-in, dinonaktifkan secara bawaan, mengirim data hanya saat aplikasi mogok) dan pencadangan cloud Pro (jika diaktifkan, menyinkronkan brankas terenkripsi Anda ke iCloud atau Google Drive Anda sendiri - lalu lintas menuju infrastruktur Apple atau Google, bukan kami).
+              Instal pemantau jaringan seperti <strong class="text-white">mitmproxy</strong> (gratis, sumber terbuka), <strong class="text-white">Wireshark</strong> (gratis, sumber terbuka), atau <strong class="text-white">Charles Proxy</strong>. Buka Travel Document Vault, pindai dokumen, telusuri brankas Anda, dan atur pengingat. Anda seharusnya tidak melihat dokumen, hasil pindai, tanggal kedaluwarsa, atau isi brankas Anda dikirim ke Travel Document Vault. Lalu lintas jaringan seharusnya terbatas pada fitur tertentu: pelaporan kerusakan Sentry opsional, pemeriksaan pembelian App Store atau Google Play, pencadangan cloud opsional ke iCloud atau Google Drive milik Anda sendiri, serta pemeriksaan pembaruan atau konektivitas yang dijelaskan di bawah ini.
             </p>
+            <div class="permission-card rounded-xl p-4 sm:p-5 space-y-2 border border-amber-500/20">
+              <h4 class="text-sm font-semibold text-white">Mengapa Anda mungkin melihat expo.dev atau clients3.google.com</h4>
+              <p class="text-slate-300 text-sm leading-relaxed">
+                Beberapa build sebelum versi 1.2.1 dapat menampilkan permintaan ke <strong class="text-white">expo.dev</strong> dan ke endpoint konektivitas Google, biasanya <strong class="text-white">clients3.google.com</strong>. Permintaan ke <strong class="text-white">expo.dev</strong> memeriksa apakah ada pembaruan kecil over-the-air yang tersedia, biasanya untuk perbaikan bug yang tidak memerlukan rilis penuh di App Store atau Google Play. Permintaan konektivitas Google membantu Android memastikan perangkat sedang online sebelum fitur jaringan seperti pencadangan mencoba menyinkronkan.
+              </p>
+              <p class="text-slate-400 text-sm leading-relaxed">
+                Pemeriksaan ini ada untuk pembaruan dan kesiapan pencadangan, bukan untuk pengumpulan dokumen. Pemeriksaan ini tidak mengirim isi dokumen, foto, nama, tanggal kedaluwarsa, atau data brankas kepada kami. Jalur dependensi di balik pemeriksaan ini telah dihapus pada versi aplikasi 1.2.1, jadi setelah Anda memperbarui ke 1.2.1, pemeriksaan ini seharusnya tidak lagi muncul dalam penggunaan normal.
+              </p>
+            </div>
           </div>
 
           <!-- iOS Privacy Report -->
@@ -222,7 +231,7 @@
               <span class="text-brand-gold">2.</span> Laporan Privasi Aplikasi iOS
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              Di iPhone, buka <strong class="text-white">Pengaturan > Privasi &amp; Keamanan > Laporan Privasi Aplikasi</strong>. Fitur bawaan Apple ini menunjukkan aplikasi mana yang telah menghubungi domain jaringan. Travel Document Vault tidak akan menampilkan aktivitas jaringan selama penggunaan normal. Jika Anda telah mengaktifkan pencadangan cloud Pro, Anda akan melihat koneksi ke domain iCloud Apple - itu adalah pencadangan Anda disinkronkan ke akun iCloud Anda sendiri.
+              Di iPhone, buka <strong class="text-white">Pengaturan &gt; Privasi &amp; Keamanan &gt; Laporan Privasi Aplikasi</strong>. Fitur bawaan Apple ini menunjukkan aplikasi mana yang telah menghubungi domain jaringan. Travel Document Vault tidak mengirim dokumen, hasil pindai, tanggal kedaluwarsa, atau isi brankas Anda kepada kami. Jika Anda telah mengaktifkan pencadangan cloud Pro, Anda akan melihat koneksi ke domain iCloud Apple - itu adalah cadangan Anda sendiri yang disinkronkan ke akun iCloud Anda sendiri.
             </p>
           </div>
 
@@ -328,10 +337,10 @@
             <span class="text-xs text-slate-500 font-medium ml-auto">Android</span>
           </div>
           <p class="text-slate-300 text-sm leading-relaxed">
-            <strong class="text-white">Alasan ini muncul:</strong> Diperlukan untuk tiga fitur: <strong class="text-white">Pelaporan kerusakan Sentry</strong> (opt-in, dinonaktifkan secara bawaan), <strong class="text-white">Penagihan Google Play</strong> untuk pembelian upgrade Pro, dan <strong class="text-white">Pencadangan cloud Pro</strong> (opsional) yang menyinkronkan brankas terenkripsi Anda ke Google Drive Anda sendiri. ACCESS_NETWORK_STATE dan ACCESS_WIFI_STATE membiarkan fitur-fitur ini memeriksa apakah koneksi tersedia sebelum mencoba mengirim.
+            <strong class="text-white">Mengapa ini muncul:</strong> Izin ini diperlukan untuk fitur yang menggunakan jaringan: <strong class="text-white">pelaporan kerusakan Sentry</strong> (opt-in, dinonaktifkan secara bawaan), <strong class="text-white">penagihan App Store atau Google Play</strong> untuk pembelian upgrade Pro, dan <strong class="text-white">pencadangan cloud Pro</strong> (opsional), yang menyinkronkan brankas terenkripsi Anda ke iCloud atau Google Drive milik Anda sendiri. ACCESS_NETWORK_STATE dan ACCESS_WIFI_STATE memungkinkan fitur-fitur ini memeriksa apakah koneksi tersedia sebelum mencoba mengirim. Pada versi sebelum 1.2.1, aplikasi juga dapat memeriksa <strong class="text-white">expo.dev</strong> untuk pembaruan kecil over-the-air berupa perbaikan bug, serta endpoint konektivitas Google, biasanya <strong class="text-white">clients3.google.com</strong>, sebelum pencadangan atau fitur jaringan lain mencoba terhubung.
           </p>
           <p class="text-slate-400 text-sm leading-relaxed">
-            <strong class="text-slate-300">Yang tidak pernah kami lakukan:</strong> Aplikasi membuat panggilan jaringan nol selama penggunaan normal. Bekerja sepenuhnya offline. Satu-satunya lalu lintas keluar terjadi ketika pelaporan kerusakan menyala (jika Anda memilih), saat mengembalikan pembelian Pro, atau saat pencadangan cloud Pro disinkronkan ke Google Drive atau iCloud Anda sendiri - lalu lintas dalam hal itu menuju infrastruktur Google atau Apple, bukan milik kami.
+            <strong class="text-slate-300">Yang tidak kami lakukan:</strong> Aplikasi tidak mengunggah dokumen, hasil pindai, tanggal kedaluwarsa, foto, atau isi brankas Anda ke Travel Document Vault. Aplikasi tetap berfungsi sepenuhnya offline untuk penyimpanan dokumen dan pengingat normal. Pemeriksaan pembaruan dan konektivitas sebelum versi 1.2.1 tidak mengirim data dokumen Anda dan telah dihapus pada versi aplikasi 1.2.1.
           </p>
         </div>
 

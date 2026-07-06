@@ -212,8 +212,17 @@
               <span class="text-brand-gold">1.</span> Netzwerk-Traffic-Test
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              Installieren Sie einen Netzwerk-Monitor wie <strong class="text-white">mitmproxy</strong> (kostenlos, Open Source), <strong class="text-white">Charles Proxy</strong>, oder <strong class="text-white">Wireshark</strong>. Öffnen Sie Travel Document Vault, scannen Sie ein Dokument, durchsuchen Sie Ihren Tresor und stellen Sie einen Reminder ein. Sie werden während normaler Nutzung null ausgehende Anfragen sehen. Die Ausnahmen sind: Sentry-Absturzberichte (Opt-in, standardmässig deaktiviert, senden Daten nur wenn die App abstürzt) und Pro Cloud-Sicherung (falls aktiviert, synchronisiert Ihren verschlüsselten Tresor mit Ihrem eigenen iCloud oder Google Drive - der Traffic geht zu Apple oder Google Infrastruktur, nicht zu uns).
+              Installieren Sie einen Netzwerk-Monitor wie <strong class="text-white">mitmproxy</strong> (kostenlos, Open Source), <strong class="text-white">Wireshark</strong> (kostenlos, Open Source), oder <strong class="text-white">Charles Proxy</strong>. Öffnen Sie Travel Document Vault, scannen Sie ein Dokument, durchsuchen Sie Ihren Tresor und stellen Sie einen Reminder ein. Sie sollten nicht sehen, dass Ihre Dokumente, Scans, Ablaufdaten oder Tresorinhalte an Travel Document Vault gesendet werden. Der Netzwerkverkehr sollte sich auf bestimmte Funktionen beschränken: optionale Sentry-Absturzberichte, Kaufprüfungen über App Store oder Google Play, optionale Cloud-Sicherung in Ihr eigenes iCloud oder Google Drive und die unten erklärten Update- oder Verbindungsprüfungen.
             </p>
+            <div class="permission-card rounded-xl p-4 sm:p-5 space-y-2 border border-amber-500/20">
+              <h4 class="text-sm font-semibold text-white">Warum Sie expo.dev oder clients3.google.com sehen können</h4>
+              <p class="text-slate-300 text-sm leading-relaxed">
+                Einige Builds vor Version 1.2.1 können Anfragen an <strong class="text-white">expo.dev</strong> und an einen Google-Konnektivitätsendpunkt anzeigen, meist <strong class="text-white">clients3.google.com</strong>. Die Anfrage an <strong class="text-white">expo.dev</strong> prüfte, ob ein kleines Over-the-Air-Update verfügbar war, meist für Fehlerkorrekturen, die keinen vollständigen App-Store- oder Google-Play-Release brauchten. Die Google-Konnektivitätsanfrage half Android zu bestätigen, dass das Gerät online war, bevor Netzwerkfunktionen wie die Sicherung mit der Synchronisierung begannen.
+              </p>
+              <p class="text-slate-400 text-sm leading-relaxed">
+                Diese Prüfungen dienten Updates und der Bereitschaft für Sicherungen, nicht der Sammlung von Dokumenten. Sie luden keine Dokumentinhalte, Fotos, Namen, Ablaufdaten oder Tresordaten zu Travel Document Vault hoch. Der Abhängigkeitspfad hinter diesen Prüfungen wurde für App-Version 1.2.1 entfernt, daher sollten sie nach dem Update auf 1.2.1 bei normaler Nutzung nicht mehr erscheinen.
+              </p>
+            </div>
           </div>
 
           <!-- iOS Privacy Report -->
@@ -222,7 +231,7 @@
               <span class="text-brand-gold">2.</span> iOS App Datenschutzbericht
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              Gehen Sie auf dem iPhone zu <strong class="text-white">Einstellungen &gt; Datenschutz &amp; Sicherheit &gt; App-Datenschutzbericht</strong>. Diese integrierte Apple-Funktion zeigt, welche Apps mit Netzwerk-Domänen Kontakt aufgenommen haben. Travel Document Vault zeigt während normaler Nutzung keine Netzwerkaktivität. Wenn Sie Pro Cloud-Sicherung aktiviert haben, sehen Sie Verbindungen zu Apples iCloud-Domains - das ist Ihre eigene Sicherung, die sich mit Ihrem eigenen iCloud-Konto synchronisiert.
+              Gehen Sie auf dem iPhone zu <strong class="text-white">Einstellungen &gt; Datenschutz &amp; Sicherheit &gt; App-Datenschutzbericht</strong>. Diese integrierte Apple-Funktion zeigt, welche Apps mit Netzwerk-Domänen Kontakt aufgenommen haben. Travel Document Vault sendet uns Ihre Dokumente, Scans, Ablaufdaten oder Tresorinhalte nicht. Wenn Sie Pro Cloud-Sicherung aktiviert haben, sehen Sie Verbindungen zu Apples iCloud-Domains - das ist Ihre eigene Sicherung, die sich mit Ihrem eigenen iCloud-Konto synchronisiert.
             </p>
           </div>
 
@@ -328,10 +337,10 @@
             <span class="text-xs text-slate-500 font-medium ml-auto">Android</span>
           </div>
           <p class="text-slate-300 text-sm leading-relaxed">
-            <strong class="text-white">Warum diese erscheinen:</strong> Diese sind für drei Funktionen erforderlich: <strong class="text-white">Sentry Absturzberichte</strong> (Opt-in, standardmässig deaktiviert), <strong class="text-white">Google Play-Abrechnung</strong> für den Pro Upgrade-Kauf und <strong class="text-white">Pro Cloud-Sicherung</strong> (optional), die Ihren verschlüsselten Tresor mit Ihrem eigenen Google Drive synchronisiert. ACCESS_NETWORK_STATE und ACCESS_WIFI_STATE ermöglichen es diesen Funktionen, zu überprüfen, ob eine Verbindung verfügbar ist, bevor versucht wird, zu senden.
+            <strong class="text-white">Warum diese erscheinen:</strong> Sie werden für netzwerkabhängige Funktionen benötigt: <strong class="text-white">Sentry-Absturzberichte</strong> (Opt-in, standardmässig deaktiviert), <strong class="text-white">App-Store- oder Google-Play-Abrechnung</strong> für den Kauf des Pro-Upgrades und <strong class="text-white">Pro Cloud-Sicherung</strong> (optional), die Ihren verschlüsselten Tresor mit Ihrem eigenen iCloud oder Google Drive synchronisiert. ACCESS_NETWORK_STATE und ACCESS_WIFI_STATE lassen diese Funktionen prüfen, ob eine Verbindung verfügbar ist, bevor etwas gesendet wird. In Versionen vor 1.2.1 konnte die App ausserdem <strong class="text-white">expo.dev</strong> für kleine Over-the-Air-Fehlerbehebungs-Updates sowie einen Google-Konnektivitätsendpunkt, meist <strong class="text-white">clients3.google.com</strong>, prüfen, bevor Sicherungen oder andere Netzwerkfunktionen eine Verbindung aufbauen wollten.
           </p>
           <p class="text-slate-400 text-sm leading-relaxed">
-            <strong class="text-slate-300">Was wir niemals tun:</strong> Die App tätigt während normaler Nutzung null Netzwerkaufrufe. Sie funktioniert vollständig offline. Der einzige ausgehende Traffic tritt auf, wenn die Absturzberichterstattung ausgelöst wird (falls akzeptiert), wenn ein Pro-Kauf wiederhergestellt wird oder wenn die Pro Cloud-Sicherung sich mit Ihrem eigenen Google Drive oder iCloud synchronisiert - der Traffic geht in diesem Fall zur Google oder Apple Infrastruktur, nicht zu uns.
+            <strong class="text-slate-300">Was wir nicht tun:</strong> Die App lädt Ihre Dokumente, Scans, Ablaufdaten, Fotos oder Tresorinhalte nicht zu Travel Document Vault hoch. Für normale Dokumentablage und Erinnerungen funktioniert sie vollständig offline. Die Update- und Konnektivitätsprüfungen vor Version 1.2.1 senden Ihre Dokumentdaten nicht und wurden in App-Version 1.2.1 entfernt.
           </p>
         </div>
 

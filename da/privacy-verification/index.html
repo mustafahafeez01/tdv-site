@@ -212,8 +212,17 @@
               <span class="text-brand-gold">1.</span> Netværkstrafik test
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              Installér en netværksovervågning som <strong class="text-white">mitmproxy</strong> (gratis, open source), <strong class="text-white">Charles Proxy</strong> eller <strong class="text-white">Wireshark</strong>. Åbn Travel Document Vault, scan et dokument, gennemse din boks og indstil en påmindelse. Du vil se nul udgående anmodninger under normal brug. Undtagelser er: Sentry-crashrapportering (opt-in, deaktiveret som standard, sender kun data, når appen går ned) og Pro cloud backup (hvis aktiveret, synkroniserer din krypterede boks til din egen iCloud eller Google Drive - trafik går til Apple eller Google-infrastruktur, ikke til os).
+              Installér en netværksovervågning som <strong class="text-white">mitmproxy</strong> (gratis, open source), <strong class="text-white">Wireshark</strong> (gratis, open source) eller <strong class="text-white">Charles Proxy</strong>. Åbn Travel Document Vault, scan et dokument, gennemse din boks og indstil en påmindelse. Du bør ikke se dine dokumenter, scanninger, udløbsdatoer eller indholdet af din boks blive sendt til Travel Document Vault. Netværkstrafikken bør være begrænset til bestemte funktioner: valgfri Sentry-crashrapportering, købskontrol via App Store eller Google Play, valgfri cloud backup til din egen iCloud eller Google Drive samt de opdaterings- eller forbindelsestjek, der er forklaret nedenfor.
             </p>
+            <div class="permission-card rounded-xl p-4 sm:p-5 space-y-2 border border-amber-500/20">
+              <h4 class="text-sm font-semibold text-white">Hvorfor du kan se expo.dev eller clients3.google.com</h4>
+              <p class="text-slate-300 text-sm leading-relaxed">
+                Nogle versioner før 1.2.1 kan vise forespørgsler til <strong class="text-white">expo.dev</strong> og til et Google-forbindelsesendpoint, oftest <strong class="text-white">clients3.google.com</strong>. Forespørgslen til <strong class="text-white">expo.dev</strong> tjekkede, om en lille over-the-air-opdatering var tilgængelig, typisk til fejlrettelser som ikke krævede en fuld App Store- eller Google Play-udgivelse. Google-forbindelsesforespørgslen hjalp Android med at bekræfte, at enheden var online, før netværksfunktioner som backup forsøgte at synkronisere.
+              </p>
+              <p class="text-slate-400 text-sm leading-relaxed">
+                Disse tjek var der for opdateringer og backupberedskab, ikke for dokumentindsamling. De sendte ikke dokumentindhold, fotos, navne, udløbsdatoer eller boksdata til os. Afhængighedsvejen bag disse tjek er fjernet i appversion 1.2.1, så de bør ikke længere vises ved normal brug efter opdatering til 1.2.1.
+              </p>
+            </div>
           </div>
 
           <!-- iOS Privacy Report -->
@@ -222,7 +231,7 @@
               <span class="text-brand-gold">2.</span> iOS App Privacy Report
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              På iPhone skal du gå til <strong class="text-white">Indstillinger > Privatliv og sikkerhed > App Privacy Report</strong>. Denne indbyggede Apple-funktion viser, hvilke apps der har kontaktet netværksdomæner. Travel Document Vault vil ikke vise nogen netværksaktivitet under normal brug. Hvis du har aktiveret Pro-cloudsikkerhedskopi, vil du se forbindelser til Apples iCloud-domæner - det er din egen sikkerhedskopi, der synkroniseres med din egen iCloud-konto.
+              På iPhone skal du gå til <strong class="text-white">Indstillinger &gt; Privatliv og sikkerhed &gt; App Privacy Report</strong>. Denne indbyggede Apple-funktion viser, hvilke apps der har kontaktet netværksdomæner. Travel Document Vault sender ikke dine dokumenter, scanninger, udløbsdatoer eller indholdet af din boks til os. Hvis du har aktiveret Pro-cloudsikkerhedskopi, vil du se forbindelser til Apples iCloud-domæner - det er din egen sikkerhedskopi, der synkroniseres med din egen iCloud-konto.
             </p>
           </div>
 
@@ -328,10 +337,10 @@
             <span class="text-xs text-slate-500 font-medium ml-auto">Android</span>
           </div>
           <p class="text-slate-300 text-sm leading-relaxed">
-            <strong class="text-white">Hvorfor disse fremgår:</strong> Disse kræves af tre funktioner: <strong class="text-white">Sentry-kraschrapportering</strong> (opt-in, deaktiveret som standard), <strong class="text-white">Google Play-fakturering</strong> til Pro-opgraderingen og <strong class="text-white">Pro cloud backup</strong> (valgfrit), der synkroniserer din krypterede boks til din Google Drive. ACCESS_NETWORK_STATE og ACCESS_WIFI_STATE lader disse funktioner kontrollere, om en forbindelse er tilgængelig, før forsendelse forsøges.
+            <strong class="text-white">Hvorfor disse vises:</strong> De er nødvendige for netværksafhængige funktioner: <strong class="text-white">Sentry-crashrapportering</strong> (opt-in, deaktiveret som standard), <strong class="text-white">fakturering via App Store eller Google Play</strong> til køb af Pro-opgraderingen og <strong class="text-white">Pro cloud backup</strong> (valgfrit), som synkroniserer din krypterede boks til din egen iCloud eller Google Drive. ACCESS_NETWORK_STATE og ACCESS_WIFI_STATE lader disse funktioner kontrollere, om en forbindelse er tilgængelig, før de forsøger at sende. I versioner før 1.2.1 kunne appen også tjekke <strong class="text-white">expo.dev</strong> for små over-the-air-fejlrettelsesopdateringer og et Google-forbindelsesendpoint, oftest <strong class="text-white">clients3.google.com</strong>, før backup eller andre netværksfunktioner forsøgte at oprette forbindelse.
           </p>
           <p class="text-slate-400 text-sm leading-relaxed">
-            <strong class="text-slate-300">Hvad vi aldrig gør:</strong> Appen foretager ingen netværksopkald under normal brug. Det fungerer helt offline. Den eneste udgående trafik opstår, når kraschrapportering udløses (hvis aktiveret), når en Pro-køb gendannes, eller når Pro cloud backup synkroniseres til din egen Google Drive eller iCloud - trafik i så fald går til Google eller Apple-infrastruktur, ikke til os.
+            <strong class="text-slate-300">Hvad vi ikke gør:</strong> Appen uploader ikke dine dokumenter, scanninger, udløbsdatoer, fotos eller indholdet af din boks til Travel Document Vault. Den fungerer helt offline til normal dokumentopbevaring og påmindelser. Opdaterings- og forbindelsestjek før 1.2.1 sender ikke dine dokumentdata og er fjernet i appversion 1.2.1.
           </p>
         </div>
 
