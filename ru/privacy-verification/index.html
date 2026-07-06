@@ -235,10 +235,23 @@
             </p>
           </div>
 
+          <!-- Android Data Safety + network check -->
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white flex items-center gap-2">
+              <span class="text-brand-gold">3.</span> Android - как проверить вашу конфиденциальность
+            </h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              У Android нет единого встроенного отчёта о конфиденциальности, как у iPhone. Есть два простых способа проверить это самостоятельно: посмотрите собственный раздел <strong class="text-white">Data Safety</strong> этого приложения на его странице в Google Play (там чётко указано, что собирается, чем делятся, что ваши данные шифруются при передаче и что их нельзя удалить) - либо используйте монитор сети, как описано в шаге 1 выше.
+            </p>
+            <p class="text-slate-400 text-sm leading-relaxed">
+              Если вы включили облачную резервную копию, вы можете заметить некоторую активность в сторону серверов Google (веб-адреса, оканчивающиеся на <strong class="text-white">googleapis.com</strong>). Это ожидаемо и безопасно: отправляется только ваш заблокированный, зашифрованный файл резервной копии и проверка входа, напрямую в <strong class="text-white">вашу собственную</strong> учётную запись Google Drive - ту же самую, которую вы уже используете для фото или Gmail. Мы никогда её не видим, не получаем и нигде не храним её копию. Только у вас есть ключ восстановления, который может её разблокировать.
+            </p>
+          </div>
+
           <!-- App Store labels -->
           <div class="space-y-2">
             <h3 class="text-lg font-semibold text-white flex items-center gap-2">
-              <span class="text-brand-gold">3.</span> Этикетки приватности App Store и Play Store
+              <span class="text-brand-gold">4.</span> Этикетки приватности App Store и Play Store
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
               Apple и Google требуют, чтобы разработчики объявляли, какие данные собирает их приложение. Проверьте список Travel Document Vault в App Store или Google Play. Наше объявление: <strong class="text-white">данные не собираются</strong>.
