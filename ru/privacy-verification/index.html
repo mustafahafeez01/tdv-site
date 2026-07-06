@@ -212,17 +212,8 @@
               <span class="text-brand-gold">1.</span> Тест сетевого трафика
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              Установите монитор сети, например <strong class="text-white">mitmproxy</strong> (бесплатно, open source), <strong class="text-white">Wireshark</strong> (бесплатно, open source) или <strong class="text-white">Charles Proxy</strong>. Откройте Travel Document Vault, отсканируйте документ, просмотрите хранилище и установите напоминание. Вы не должны видеть, чтобы ваши документы, сканы, даты истечения или содержимое хранилища отправлялись в Travel Document Vault. Сетевой трафик должен ограничиваться конкретными функциями: опциональной отправкой сбоев Sentry, проверками покупки через App Store или Google Play, опциональным облачным резервным копированием в ваш собственный iCloud или Google Drive и проверками обновлений или подключения, описанными ниже.
+              Установите монитор сети, например <strong class="text-white">mitmproxy</strong> (бесплатно, open source), <strong class="text-white">Wireshark</strong> (бесплатно, open source) или <strong class="text-white">Charles Proxy</strong>. Откройте Travel Document Vault, отсканируйте документ, просмотрите хранилище и установите напоминание. Вы не должны видеть, чтобы ваши документы, сканы, даты истечения или содержимое хранилища отправлялись в Travel Document Vault. Сетевой трафик должен ограничиваться конкретными функциями: опциональной отправкой сбоев Sentry, проверками покупки через App Store или Google Play, и опциональным облачным резервным копированием в вашу собственную учётную запись iCloud или Google Drive.
             </p>
-            <div class="permission-card rounded-xl p-4 sm:p-5 space-y-2 border border-amber-500/20">
-              <h4 class="text-sm font-semibold text-white">Почему вы можете видеть expo.dev или clients3.google.com</h4>
-              <p class="text-slate-300 text-sm leading-relaxed">
-                Некоторые сборки до версии 1.2.1 могут показывать запросы к <strong class="text-white">expo.dev</strong> и к Google-эндпоинту проверки подключения, обычно <strong class="text-white">clients3.google.com</strong>. Запрос к <strong class="text-white">expo.dev</strong> проверял, доступно ли небольшое over-the-air-обновление, обычно для исправлений ошибок, которым не требовался полноценный релиз в App Store или Google Play. Запрос проверки подключения Google помогал Android убедиться, что устройство в сети, прежде чем сетевые функции, такие как резервное копирование, пытались синхронизироваться.
-              </p>
-              <p class="text-slate-400 text-sm leading-relaxed">
-                Эти проверки существовали для обновлений и готовности резервного копирования, а не для сбора документов. Они не отправляли нам содержимое документов, фотографии, имена, даты истечения или данные хранилища. Путь зависимости, стоявший за этими проверками, был удалён в версии приложения 1.2.1, поэтому после обновления до 1.2.1 они больше не должны появляться при обычном использовании.
-              </p>
-            </div>
           </div>
 
           <!-- iOS Privacy Report -->
@@ -350,10 +341,10 @@
             <span class="text-xs text-slate-500 font-medium ml-auto">Android</span>
           </div>
           <p class="text-slate-300 text-sm leading-relaxed">
-            <strong class="text-white">Почему они появляются:</strong> Они нужны для функций, использующих сеть: <strong class="text-white">отправка отчётов о сбоях Sentry</strong> (опционально, отключена по умолчанию), <strong class="text-white">биллинг App Store или Google Play</strong> для покупки Pro-обновления и <strong class="text-white">облачная резервная копия Pro</strong> (опционально), которая синхронизирует ваше зашифрованное хранилище с вашим собственным iCloud или Google Drive. ACCESS_NETWORK_STATE и ACCESS_WIFI_STATE позволяют этим функциям проверять, доступно ли соединение, перед попыткой отправки. В версиях до 1.2.1 приложение также могло обращаться к <strong class="text-white">expo.dev</strong> для небольших over-the-air-обновлений с исправлениями ошибок и к Google-эндпоинту проверки подключения, обычно <strong class="text-white">clients3.google.com</strong>, прежде чем резервное копирование или другие сетевые функции пытались подключиться.
+            <strong class="text-white">Почему они появляются:</strong> Они нужны для функций, использующих сеть: <strong class="text-white">отправка отчётов о сбоях Sentry</strong> (опционально, отключена по умолчанию), <strong class="text-white">биллинг App Store или Google Play</strong> для покупки Pro-обновления и <strong class="text-white">облачная резервная копия Pro</strong> (опционально), которая синхронизирует ваше зашифрованное хранилище с вашим собственным iCloud или Google Drive. ACCESS_NETWORK_STATE и ACCESS_WIFI_STATE позволяют этим функциям проверять, доступно ли соединение, перед попыткой отправки.
           </p>
           <p class="text-slate-400 text-sm leading-relaxed">
-            <strong class="text-slate-300">Чего мы не делаем:</strong> Приложение не загружает ваши документы, сканы, даты истечения, фотографии или содержимое хранилища в Travel Document Vault. Для обычного хранения документов и напоминаний оно полностью работает офлайн. Проверки обновлений и подключения до версии 1.2.1 не отправляют ваши документные данные и были удалены в версии приложения 1.2.1.
+            <strong class="text-slate-300">Чего мы не делаем:</strong> Приложение не загружает ваши документы, сканы, даты истечения, фотографии или содержимое хранилища в Travel Document Vault. Для обычного хранения документов и напоминаний оно полностью работает офлайн.
           </p>
         </div>
 

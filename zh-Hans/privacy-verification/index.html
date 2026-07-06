@@ -212,17 +212,8 @@
               <span class="text-brand-gold">1.</span> 网络流量测试
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              安装网络监控工具，如 <strong class="text-white">mitmproxy</strong>（免费、开源）、<strong class="text-white">Wireshark</strong>（免费、开源）或 <strong class="text-white">Charles Proxy</strong>。打开 Travel Document Vault，扫描文档，浏览您的保险库，并设置提醒。您不应该看到您的文档、扫描件、到期日期或保险库内容被发送到 Travel Document Vault。网络流量应仅限于特定功能：可选的 Sentry 崩溃报告、App Store 或 Google Play 的购买检查、同步到您自己 iCloud 或 Google Drive 的可选云备份，以及下方说明的更新或连通性检查。
+              安装网络监控工具，如 <strong class="text-white">mitmproxy</strong>（免费、开源）、<strong class="text-white">Wireshark</strong>（免费、开源）或 <strong class="text-white">Charles Proxy</strong>。打开 Travel Document Vault，扫描文档，浏览您的保险库，并设置提醒。您不应该看到您的文档、扫描件、到期日期或保险库内容被发送到 Travel Document Vault。网络流量应仅限于特定功能：可选的 Sentry 崩溃报告、App Store 或 Google Play 的购买检查，以及同步到您自己 iCloud 或 Google Drive 账户的可选云备份。
             </p>
-            <div class="permission-card rounded-xl p-4 sm:p-5 space-y-2 border border-amber-500/20">
-              <h4 class="text-sm font-semibold text-white">为什么您可能会看到 expo.dev 或 clients3.google.com</h4>
-              <p class="text-slate-300 text-sm leading-relaxed">
-                某些 1.2.1 之前的版本可能会显示对 <strong class="text-white">expo.dev</strong> 和 Google 连通性端点的请求，通常是 <strong class="text-white">clients3.google.com</strong>。对 <strong class="text-white">expo.dev</strong> 的请求用于检查是否有可用的小型 over-the-air 更新，通常是那些不需要完整 App Store 或 Google Play 发布的错误修复。Google 连通性请求则帮助 Android 在云备份等网络功能尝试同步之前确认设备是否在线。
-              </p>
-              <p class="text-slate-400 text-sm leading-relaxed">
-                这些检查是为了更新和备份准备，而不是为了收集文档。它们不会把文档内容、照片、姓名、到期日期或保险库数据发送给我们。支持这些检查的依赖路径已在应用版本 1.2.1 中移除，因此升级到 1.2.1 后，它们在正常使用中不应再出现。
-              </p>
-            </div>
           </div>
 
           <!-- iOS Privacy Report -->
@@ -350,10 +341,10 @@
             <span class="text-xs text-slate-500 font-medium ml-auto">Android</span>
           </div>
           <p class="text-slate-300 text-sm leading-relaxed">
-            <strong class="text-white">为什么会出现这些：</strong> 它们是网络相关功能所必需的：<strong class="text-white">Sentry 崩溃报告</strong>（可选加入，默认禁用）、用于购买 Pro 升级的 <strong class="text-white">App Store 或 Google Play 计费</strong>，以及 <strong class="text-white">Pro 云备份</strong>（可选），它会把您的加密保险库同步到您自己的 iCloud 或 Google Drive。ACCESS_NETWORK_STATE 和 ACCESS_WIFI_STATE 让这些功能在尝试发送前检查连接是否可用。在 1.2.1 之前的版本中，应用还可能检查 <strong class="text-white">expo.dev</strong> 以获取小型 over-the-air 错误修复更新，并在备份或其他网络功能尝试连接前检查 Google 连通性端点，通常是 <strong class="text-white">clients3.google.com</strong>。
+            <strong class="text-white">为什么会出现这些：</strong> 它们是网络相关功能所必需的：<strong class="text-white">Sentry 崩溃报告</strong>（可选加入，默认禁用）、用于购买 Pro 升级的 <strong class="text-white">App Store 或 Google Play 计费</strong>，以及 <strong class="text-white">Pro 云备份</strong>（可选），它会把您的加密保险库同步到您自己的 iCloud 或 Google Drive。ACCESS_NETWORK_STATE 和 ACCESS_WIFI_STATE 让这些功能在尝试发送前检查连接是否可用。
           </p>
           <p class="text-slate-400 text-sm leading-relaxed">
-            <strong class="text-slate-300">我们不会做的事：</strong> 应用不会把您的文档、扫描件、到期日期、照片或保险库内容上传到 Travel Document Vault。对于正常的文档存储和提醒，它完全可以离线工作。1.2.1 之前的更新与连通性检查不会发送您的文档数据，并且已在应用版本 1.2.1 中移除。
+            <strong class="text-slate-300">我们不会做的事：</strong> 应用不会把您的文档、扫描件、到期日期、照片或保险库内容上传到 Travel Document Vault。对于正常的文档存储和提醒，它完全可以离线工作。
           </p>
         </div>
 

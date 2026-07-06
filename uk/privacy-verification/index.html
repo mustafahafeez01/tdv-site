@@ -212,16 +212,7 @@
               <span class="text-brand-gold">1.</span> Тест мережевого трафіку
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              Встановіть монітор мережі, такий як <strong class="text-white">mitmproxy</strong> (безплатно, відкритий код), <strong class="text-white">Wireshark</strong> (безплатно, відкритий код) або <strong class="text-white">Charles Proxy</strong>. Відкрийте Travel Document Vault, відскануйте документ, перегляньте своє сховище та встановіть нагадування. Ви не повинні бачити, щоб ваші документи, скани, дати завершення або вміст сховища надсилалися до Travel Document Vault. Мережевий трафік має обмежуватися конкретними функціями: опційним звітуванням про збої Sentry, перевірками покупок через App Store або Google Play, опційною хмарною резервною копією у ваш власний iCloud або Google Drive та перевірками оновлення або з'єднання, поясненими нижче.</p>
-            <div class="permission-card rounded-xl p-4 sm:p-5 space-y-2 border border-amber-500/20">
-              <h4 class="text-sm font-semibold text-white">Чому ви можете бачити expo.dev або clients3.google.com</h4>
-              <p class="text-slate-300 text-sm leading-relaxed">
-                Деякі збірки до версії 1.2.1 можуть показувати запити до <strong class="text-white">expo.dev</strong> і до endpoint перевірки з'єднання Google, зазвичай <strong class="text-white">clients3.google.com</strong>. Запит до <strong class="text-white">expo.dev</strong> перевіряв, чи доступне невелике over-the-air-оновлення, зазвичай для виправлень помилок, яким не потрібен повний реліз в App Store або Google Play. Запит перевірки з'єднання Google допомагав Android підтвердити, що пристрій онлайн, перш ніж мережеві функції, такі як резервне копіювання, намагалися синхронізуватися.
-              </p>
-              <p class="text-slate-400 text-sm leading-relaxed">
-                Ці перевірки існували для оновлень і готовності резервного копіювання, а не для збору документів. Вони не надсилали нам вміст документів, фото, імена, дати завершення чи дані сховища. Шлях залежності, що стояв за цими перевірками, був видалений у версії застосунку 1.2.1, тому після оновлення до 1.2.1 вони більше не повинні з'являтися під час звичайного використання.
-              </p>
-            </div>
+              Встановіть монітор мережі, такий як <strong class="text-white">mitmproxy</strong> (безплатно, відкритий код), <strong class="text-white">Wireshark</strong> (безплатно, відкритий код) або <strong class="text-white">Charles Proxy</strong>. Відкрийте Travel Document Vault, відскануйте документ, перегляньте своє сховище та встановіть нагадування. Ви не повинні бачити, щоб ваші документи, скани, дати завершення або вміст сховища надсилалися до Travel Document Vault. Мережевий трафік має обмежуватися конкретними функціями: опційним звітуванням про збої Sentry, перевірками покупок через App Store або Google Play, та опційною хмарною резервною копією у ваш власний обліковий запис iCloud або Google Drive.</p>
           </div>
 
           <!-- iOS Privacy Report -->
@@ -348,10 +339,10 @@
             <span class="text-xs text-slate-500 font-medium ml-auto">Android</span>
           </div>
           <p class="text-slate-300 text-sm leading-relaxed">
-            <strong class="text-white">Чому вони з'являються:</strong> Вони потрібні для функцій, що використовують мережу: <strong class="text-white">звітування про збої Sentry</strong> (опційно, вимкнено за замовчуванням), <strong class="text-white">біллінг App Store або Google Play</strong> для покупки Pro-оновлення та <strong class="text-white">хмарна резервна копія Pro</strong> (опційно), яка синхронізує ваше зашифроване сховище з вашим власним iCloud або Google Drive. ACCESS_NETWORK_STATE та ACCESS_WIFI_STATE дозволяють цим функціям перевірити, чи доступне з'єднання, перш ніж намагатися надсилати. У версіях до 1.2.1 застосунок також міг перевіряти <strong class="text-white">expo.dev</strong> для невеликих over-the-air-оновлень із виправленням помилок та endpoint перевірки з'єднання Google, зазвичай <strong class="text-white">clients3.google.com</strong>, перш ніж резервне копіювання або інші мережеві функції намагалися підключитися.
+            <strong class="text-white">Чому вони з'являються:</strong> Вони потрібні для функцій, що використовують мережу: <strong class="text-white">звітування про збої Sentry</strong> (опційно, вимкнено за замовчуванням), <strong class="text-white">біллінг App Store або Google Play</strong> для покупки Pro-оновлення та <strong class="text-white">хмарна резервна копія Pro</strong> (опційно), яка синхронізує ваше зашифроване сховище з вашим власним iCloud або Google Drive. ACCESS_NETWORK_STATE та ACCESS_WIFI_STATE дозволяють цим функціям перевірити, чи доступне з'єднання, перш ніж намагатися надсилати.
           </p>
           <p class="text-slate-400 text-sm leading-relaxed">
-            <strong class="text-slate-300">Чого ми не робимо:</strong> Застосунок не завантажує ваші документи, скани, дати завершення, фото чи вміст сховища до Travel Document Vault. Для звичайного зберігання документів і нагадувань він повністю працює офлайн. Перевірки оновлення та з'єднання до версії 1.2.1 не надсилають ваші документні дані й були видалені у версії застосунку 1.2.1.
+            <strong class="text-slate-300">Чого ми не робимо:</strong> Застосунок не завантажує ваші документи, скани, дати завершення, фото чи вміст сховища до Travel Document Vault. Для звичайного зберігання документів і нагадувань він повністю працює офлайн.
           </p>
         </div>
 

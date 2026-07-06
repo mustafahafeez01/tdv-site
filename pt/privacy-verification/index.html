@@ -212,17 +212,8 @@
               <span class="text-brand-gold">1.</span> Teste de tráfego de rede
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              Instale um monitor de rede como <strong class="text-white">mitmproxy</strong> (gratuito, código aberto), <strong class="text-white">Wireshark</strong> (gratuito, código aberto), ou <strong class="text-white">Charles Proxy</strong>. Abra Travel Document Vault, digitalize um documento, navegue pelo seu cofre e defina um lembrete. Você não deve ver seus documentos, digitalizações, datas de validade ou o conteúdo do cofre sendo enviados para a Travel Document Vault. O tráfego de rede deve se limitar a recursos específicos: relatórios opcionais de falha do Sentry, verificações de compra da App Store ou Google Play, backup opcional no seu próprio iCloud ou Google Drive, e as verificações de atualização ou conectividade explicadas abaixo.
+              Instale um monitor de rede como <strong class="text-white">mitmproxy</strong> (gratuito, código aberto), <strong class="text-white">Wireshark</strong> (gratuito, código aberto), ou <strong class="text-white">Charles Proxy</strong>. Abra Travel Document Vault, digitalize um documento, navegue pelo seu cofre e defina um lembrete. Você não deve ver seus documentos, digitalizações, datas de validade ou o conteúdo do cofre sendo enviados para a Travel Document Vault. O tráfego de rede deve se limitar a recursos específicos: relatórios opcionais de falha do Sentry, verificações de compra da App Store ou Google Play, e backup opcional na sua própria conta do iCloud ou Google Drive.
             </p>
-            <div class="permission-card rounded-xl p-4 sm:p-5 space-y-2 border border-amber-500/20">
-              <h4 class="text-sm font-semibold text-white">Por que você pode ver expo.dev ou clients3.google.com</h4>
-              <p class="text-slate-300 text-sm leading-relaxed">
-                Algumas versões anteriores à 1.2.1 podem mostrar solicitações para <strong class="text-white">expo.dev</strong> e para um endpoint de conectividade do Google, normalmente <strong class="text-white">clients3.google.com</strong>. A solicitação para <strong class="text-white">expo.dev</strong> verificava se havia uma pequena atualização over-the-air disponível, geralmente para correções de bugs que não precisavam de um lançamento completo na App Store ou no Google Play. A solicitação de conectividade do Google ajudava o Android a confirmar que o dispositivo estava online antes que recursos de rede como o backup tentassem sincronizar.
-              </p>
-              <p class="text-slate-400 text-sm leading-relaxed">
-                Essas verificações existiam para atualizações e preparação do backup, não para coleta de documentos. Elas não enviavam para a Travel Document Vault o conteúdo dos documentos, fotos, nomes, datas de validade nem dados do cofre. O caminho de dependência por trás dessas verificações foi removido na versão 1.2.1 do app, então elas não devem mais aparecer durante o uso normal após a atualização para a 1.2.1.
-              </p>
-            </div>
           </div>
 
           <!-- iOS Privacy Report -->
@@ -350,10 +341,10 @@
             <span class="text-xs text-slate-500 font-medium ml-auto">Android</span>
           </div>
           <p class="text-slate-300 text-sm leading-relaxed">
-            <strong class="text-white">Por que estes aparecem:</strong> Eles são necessários para recursos que usam rede: <strong class="text-white">relatórios de falha do Sentry</strong> (opt-in, desabilitados por padrão), <strong class="text-white">faturamento da App Store ou Google Play</strong> para a compra do upgrade Pro, e <strong class="text-white">backup na nuvem Pro</strong> (opcional), que sincroniza seu cofre criptografado com seu próprio iCloud ou Google Drive. ACCESS_NETWORK_STATE e ACCESS_WIFI_STATE permitem verificar se há conexão disponível antes de tentar enviar. Em versões anteriores à 1.2.1, o app também podia consultar <strong class="text-white">expo.dev</strong> para pequenas atualizações over-the-air de correção de bugs e um endpoint de conectividade do Google, normalmente <strong class="text-white">clients3.google.com</strong>, antes que o backup ou outros recursos de rede tentassem se conectar.
+            <strong class="text-white">Por que estes aparecem:</strong> Eles são necessários para recursos que usam rede: <strong class="text-white">relatórios de falha do Sentry</strong> (opt-in, desabilitados por padrão), <strong class="text-white">faturamento da App Store ou Google Play</strong> para a compra do upgrade Pro, e <strong class="text-white">backup na nuvem Pro</strong> (opcional), que sincroniza seu cofre criptografado com seu próprio iCloud ou Google Drive. ACCESS_NETWORK_STATE e ACCESS_WIFI_STATE permitem verificar se há conexão disponível antes de tentar enviar.
           </p>
           <p class="text-slate-400 text-sm leading-relaxed">
-            <strong class="text-slate-300">O que não fazemos:</strong> O aplicativo não envia seus documentos, digitalizações, datas de validade, fotos nem o conteúdo do seu cofre para a Travel Document Vault. Ele funciona completamente offline para armazenamento normal de documentos e lembretes. As verificações de atualização e conectividade anteriores à 1.2.1 não enviam seus dados documentais e foram removidas na versão 1.2.1.
+            <strong class="text-slate-300">O que não fazemos:</strong> O aplicativo não envia seus documentos, digitalizações, datas de validade, fotos nem o conteúdo do seu cofre para a Travel Document Vault. Ele funciona completamente offline para armazenamento normal de documentos e lembretes.
           </p>
         </div>
 

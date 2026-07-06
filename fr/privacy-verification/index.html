@@ -212,17 +212,8 @@
               <span class="text-brand-gold">1.</span> Test du trafic réseau
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              Installez un moniteur réseau tel que <strong class="text-white">mitmproxy</strong> (gratuit, open source), <strong class="text-white">Wireshark</strong> (gratuit, open source), ou <strong class="text-white">Charles Proxy</strong>. Ouvrez Travel Document Vault, analysez un document, parcourez votre coffre et définissez un rappel. Vous ne devriez pas voir vos documents, scans, dates d'expiration ou le contenu de votre coffre envoyés à Travel Document Vault. Le trafic réseau devrait se limiter à des fonctions précises : rapports de crash Sentry optionnels, vérifications d'achat App Store ou Google Play, sauvegarde cloud optionnelle vers votre propre iCloud ou Google Drive, et vérifications de mise à jour ou de connectivité expliquées ci-dessous.
+              Installez un moniteur réseau tel que <strong class="text-white">mitmproxy</strong> (gratuit, open source), <strong class="text-white">Wireshark</strong> (gratuit, open source), ou <strong class="text-white">Charles Proxy</strong>. Ouvrez Travel Document Vault, analysez un document, parcourez votre coffre et définissez un rappel. Vous ne devriez pas voir vos documents, scans, dates d'expiration ou le contenu de votre coffre envoyés à Travel Document Vault. Le trafic réseau devrait se limiter à des fonctions précises : rapports de crash Sentry optionnels, vérifications d'achat App Store ou Google Play, et sauvegarde cloud optionnelle vers votre propre compte iCloud ou Google Drive.
             </p>
-            <div class="permission-card rounded-xl p-4 sm:p-5 space-y-2 border border-amber-500/20">
-              <h4 class="text-sm font-semibold text-white">Pourquoi vous pouvez voir expo.dev ou clients3.google.com</h4>
-              <p class="text-slate-300 text-sm leading-relaxed">
-                Certaines versions antérieures à la 1.2.1 peuvent afficher des requêtes vers <strong class="text-white">expo.dev</strong> et vers un point de connectivité Google, généralement <strong class="text-white">clients3.google.com</strong>. La requête vers <strong class="text-white">expo.dev</strong> vérifiait si une petite mise à jour over-the-air était disponible, le plus souvent pour des correctifs qui ne nécessitaient pas une publication complète sur l'App Store ou Google Play. La requête de connectivité Google aidait Android à confirmer que l'appareil était en ligne avant que des fonctions réseau comme la sauvegarde n'essaient de se synchroniser.
-              </p>
-              <p class="text-slate-400 text-sm leading-relaxed">
-                Ces vérifications étaient là pour les mises à jour et la préparation de la sauvegarde, pas pour la collecte de documents. Elles n'envoyaient pas à Travel Document Vault le contenu des documents, les photos, les noms, les dates d'expiration ou les données du coffre. Le chemin de dépendance derrière ces vérifications a été supprimé pour la version 1.2.1, elles ne devraient donc plus apparaître en usage normal après mise à jour vers 1.2.1.
-              </p>
-            </div>
           </div>
 
           <!-- iOS Privacy Report -->
@@ -350,10 +341,10 @@
             <span class="text-xs text-slate-500 font-medium ml-auto">Android</span>
           </div>
           <p class="text-slate-300 text-sm leading-relaxed">
-            <strong class="text-white">Pourquoi ils apparaissent :</strong> Ils sont nécessaires pour des fonctions utilisant le réseau : <strong class="text-white">rapports de crash Sentry</strong> (opt-in, désactivés par défaut), <strong class="text-white">facturation App Store ou Google Play</strong> pour l'achat de la mise à niveau Pro, et <strong class="text-white">sauvegarde cloud Pro</strong> (optionnelle), qui synchronise votre coffre chiffré avec votre propre iCloud ou Google Drive. ACCESS_NETWORK_STATE et ACCESS_WIFI_STATE permettent de vérifier si une connexion est disponible avant d'essayer d'envoyer. Dans les versions antérieures à la 1.2.1, l'application pouvait aussi interroger <strong class="text-white">expo.dev</strong> pour de petites mises à jour correctives over-the-air, ainsi qu'un point de connectivité Google, généralement <strong class="text-white">clients3.google.com</strong>, avant que la sauvegarde ou d'autres fonctions réseau n'essaient de se connecter.
+            <strong class="text-white">Pourquoi ils apparaissent :</strong> Ils sont nécessaires pour des fonctions utilisant le réseau : <strong class="text-white">rapports de crash Sentry</strong> (opt-in, désactivés par défaut), <strong class="text-white">facturation App Store ou Google Play</strong> pour l'achat de la mise à niveau Pro, et <strong class="text-white">sauvegarde cloud Pro</strong> (optionnelle), qui synchronise votre coffre chiffré avec votre propre iCloud ou Google Drive. ACCESS_NETWORK_STATE et ACCESS_WIFI_STATE permettent de vérifier si une connexion est disponible avant d'essayer d'envoyer.
           </p>
           <p class="text-slate-400 text-sm leading-relaxed">
-            <strong class="text-slate-300">Ce que nous ne faisons pas :</strong> L'application n'envoie pas vos documents, scans, dates d'expiration, photos ou le contenu de votre coffre à Travel Document Vault. Elle fonctionne complètement hors ligne pour le stockage normal des documents et les rappels. Les vérifications de mise à jour et de connectivité présentes avant la 1.2.1 n'envoient pas vos données documentaires et ont été supprimées dans la version 1.2.1.
+            <strong class="text-slate-300">Ce que nous ne faisons pas :</strong> L'application n'envoie pas vos documents, scans, dates d'expiration, photos ou le contenu de votre coffre à Travel Document Vault. Elle fonctionne complètement hors ligne pour le stockage normal des documents et les rappels.
           </p>
         </div>
 

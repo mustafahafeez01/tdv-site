@@ -212,17 +212,8 @@
               <span class="text-brand-gold">1.</span> Prueba de tráfico de red
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              Instala un monitor de red como <strong class="text-white">mitmproxy</strong> (gratuito, código abierto), <strong class="text-white">Wireshark</strong> (gratuito, código abierto), o <strong class="text-white">Charles Proxy</strong>. Abre Travel Document Vault, escanea un documento, explora tu bóveda y establece un recordatorio. No deberías ver tus documentos, escaneos, fechas de vencimiento ni el contenido de tu bóveda enviados a Travel Document Vault. El tráfico de red debería limitarse a funciones concretas: reporte de fallos de Sentry opcional, comprobaciones de compra del App Store o Google Play, copia de seguridad opcional en tu propio iCloud o Google Drive, y las comprobaciones de actualización o conectividad explicadas abajo.
+              Instala un monitor de red como <strong class="text-white">mitmproxy</strong> (gratuito, código abierto), <strong class="text-white">Wireshark</strong> (gratuito, código abierto), o <strong class="text-white">Charles Proxy</strong>. Abre Travel Document Vault, escanea un documento, explora tu bóveda y establece un recordatorio. No deberías ver tus documentos, escaneos, fechas de vencimiento ni el contenido de tu bóveda enviados a Travel Document Vault. El tráfico de red debería limitarse a funciones concretas: reporte de fallos de Sentry opcional, comprobaciones de compra del App Store o Google Play, y copia de seguridad opcional en tu propia cuenta de iCloud o Google Drive.
             </p>
-            <div class="permission-card rounded-xl p-4 sm:p-5 space-y-2 border border-amber-500/20">
-              <h4 class="text-sm font-semibold text-white">Por qué puedes ver expo.dev o clients3.google.com</h4>
-              <p class="text-slate-300 text-sm leading-relaxed">
-                Algunas versiones anteriores a la 1.2.1 pueden mostrar solicitudes a <strong class="text-white">expo.dev</strong> y a un endpoint de conectividad de Google, normalmente <strong class="text-white">clients3.google.com</strong>. La solicitud a <strong class="text-white">expo.dev</strong> comprobaba si había una pequeña actualización por aire disponible, normalmente para correcciones de errores que no necesitaban una publicación completa en App Store o Google Play. La solicitud de conectividad de Google ayudaba a Android a confirmar que el dispositivo estaba en línea antes de que funciones de red como la copia de seguridad intentaran sincronizarse.
-              </p>
-              <p class="text-slate-400 text-sm leading-relaxed">
-                Estas comprobaciones estaban ahí por actualizaciones y preparación de la copia de seguridad, no por recopilación de documentos. No subían a Travel Document Vault el contenido de documentos, fotos, nombres, fechas de vencimiento ni datos de la bóveda. La ruta de dependencia detrás de estas comprobaciones se eliminó para la versión 1.2.1, así que ya no deberían aparecer durante el uso normal después de actualizar a 1.2.1.
-              </p>
-            </div>
           </div>
 
           <!-- iOS Privacy Report -->
@@ -350,10 +341,10 @@
             <span class="text-xs text-slate-500 font-medium ml-auto">Android</span>
           </div>
           <p class="text-slate-300 text-sm leading-relaxed">
-            <strong class="text-white">Por qué aparecen:</strong> Estos son necesarios para funciones con uso de red: <strong class="text-white">Reporte de fallos de Sentry</strong> (opt-in, deshabilitado por defecto), <strong class="text-white">facturación del App Store o Google Play</strong> para la compra de la mejora Pro, y <strong class="text-white">copia de seguridad Pro en la nube</strong> (opcional), que sincroniza tu bóveda cifrada con tu propio iCloud o Google Drive. ACCESS_NETWORK_STATE y ACCESS_WIFI_STATE permiten comprobar si hay conexión antes de intentar enviar. En versiones anteriores a la 1.2.1, la app también podía consultar <strong class="text-white">expo.dev</strong> para pequeñas actualizaciones por aire de corrección de errores, y un endpoint de conectividad de Google, normalmente <strong class="text-white">clients3.google.com</strong>, antes de que la copia de seguridad u otras funciones de red intentaran conectarse.
+            <strong class="text-white">Por qué aparecen:</strong> Estos son necesarios para funciones con uso de red: <strong class="text-white">Reporte de fallos de Sentry</strong> (opt-in, deshabilitado por defecto), <strong class="text-white">facturación del App Store o Google Play</strong> para la compra de la mejora Pro, y <strong class="text-white">copia de seguridad Pro en la nube</strong> (opcional), que sincroniza tu bóveda cifrada con tu propio iCloud o Google Drive. ACCESS_NETWORK_STATE y ACCESS_WIFI_STATE permiten comprobar si hay conexión antes de intentar enviar.
           </p>
           <p class="text-slate-400 text-sm leading-relaxed">
-            <strong class="text-slate-300">Lo que no hacemos:</strong> La aplicación no sube tus documentos, escaneos, fechas de vencimiento, fotos ni el contenido de tu bóveda a Travel Document Vault. Funciona completamente sin conexión para el almacenamiento normal de documentos y recordatorios. Las comprobaciones de actualización y conectividad anteriores a la 1.2.1 no envían tus datos documentales y se han eliminado en la versión 1.2.1.
+            <strong class="text-slate-300">Lo que no hacemos:</strong> La aplicación no sube tus documentos, escaneos, fechas de vencimiento, fotos ni el contenido de tu bóveda a Travel Document Vault. Funciona completamente sin conexión para el almacenamiento normal de documentos y recordatorios.
           </p>
         </div>
 

@@ -212,17 +212,8 @@
               <span class="text-brand-gold">1.</span> Test del traffico di rete
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              Installa un monitor di rete come <strong class="text-white">mitmproxy</strong> (gratuito, open source), <strong class="text-white">Wireshark</strong> (gratuito, open source), o <strong class="text-white">Charles Proxy</strong>. Apri Travel Document Vault, scansiona un documento, sfoglia il tuo vault e imposta un promemoria. Non dovresti vedere i tuoi documenti, scansioni, date di scadenza o contenuti del vault inviati a Travel Document Vault. Il traffico di rete dovrebbe limitarsi a funzioni specifiche: rapporti di arresto di Sentry opzionali, controlli di acquisto dell'App Store o di Google Play, backup cloud opzionale sul tuo iCloud o Google Drive personale, e i controlli di aggiornamento o connettività spiegati qui sotto.
+              Installa un monitor di rete come <strong class="text-white">mitmproxy</strong> (gratuito, open source), <strong class="text-white">Wireshark</strong> (gratuito, open source), o <strong class="text-white">Charles Proxy</strong>. Apri Travel Document Vault, scansiona un documento, sfoglia il tuo vault e imposta un promemoria. Non dovresti vedere i tuoi documenti, scansioni, date di scadenza o contenuti del vault inviati a Travel Document Vault. Il traffico di rete dovrebbe limitarsi a funzioni specifiche: rapporti di arresto di Sentry opzionali, controlli di acquisto dell'App Store o di Google Play, e backup cloud opzionale sul tuo account iCloud o Google Drive personale.
             </p>
-            <div class="permission-card rounded-xl p-4 sm:p-5 space-y-2 border border-amber-500/20">
-              <h4 class="text-sm font-semibold text-white">Perché potresti vedere expo.dev o clients3.google.com</h4>
-              <p class="text-slate-300 text-sm leading-relaxed">
-                Alcune versioni precedenti alla 1.2.1 possono mostrare richieste a <strong class="text-white">expo.dev</strong> e a un endpoint di connettività Google, di solito <strong class="text-white">clients3.google.com</strong>. La richiesta a <strong class="text-white">expo.dev</strong> controllava se fosse disponibile un piccolo aggiornamento over-the-air, di solito per correzioni di bug che non richiedevano una pubblicazione completa su App Store o Google Play. La richiesta di connettività Google aiutava Android a confermare che il dispositivo fosse online prima che funzioni di rete come il backup provassero a sincronizzarsi.
-              </p>
-              <p class="text-slate-400 text-sm leading-relaxed">
-                Questi controlli servivano per aggiornamenti e prontezza del backup, non per la raccolta di documenti. Non caricavano su Travel Document Vault il contenuto dei documenti, le foto, i nomi, le date di scadenza o i dati del vault. Il percorso di dipendenza dietro questi controlli è stato rimosso per la versione 1.2.1 dell'app, quindi non dovrebbero più comparire durante l'uso normale dopo l'aggiornamento alla 1.2.1.
-              </p>
-            </div>
           </div>
 
           <!-- iOS Privacy Report -->
@@ -350,10 +341,10 @@
             <span class="text-xs text-slate-500 font-medium ml-auto">Android</span>
           </div>
           <p class="text-slate-300 text-sm leading-relaxed">
-            <strong class="text-white">Perché compaiono:</strong> Sono necessari per funzioni che usano la rete: <strong class="text-white">rapporti di arresto di Sentry</strong> (opt-in, disabilitati per impostazione predefinita), <strong class="text-white">fatturazione App Store o Google Play</strong> per l'acquisto dell'upgrade Pro, e <strong class="text-white">backup cloud Pro</strong> (opzionale), che sincronizza il tuo vault crittografato con il tuo iCloud o Google Drive personale. ACCESS_NETWORK_STATE e ACCESS_WIFI_STATE permettono a queste funzioni di verificare se una connessione è disponibile prima di tentare l'invio. Nelle versioni precedenti alla 1.2.1, l'app poteva anche controllare <strong class="text-white">expo.dev</strong> per piccoli aggiornamenti over-the-air di correzione bug e un endpoint di connettività Google, di solito <strong class="text-white">clients3.google.com</strong>, prima che il backup o altre funzioni di rete provassero a collegarsi.
+            <strong class="text-white">Perché compaiono:</strong> Sono necessari per funzioni che usano la rete: <strong class="text-white">rapporti di arresto di Sentry</strong> (opt-in, disabilitati per impostazione predefinita), <strong class="text-white">fatturazione App Store o Google Play</strong> per l'acquisto dell'upgrade Pro, e <strong class="text-white">backup cloud Pro</strong> (opzionale), che sincronizza il tuo vault crittografato con il tuo iCloud o Google Drive personale. ACCESS_NETWORK_STATE e ACCESS_WIFI_STATE permettono a queste funzioni di verificare se una connessione è disponibile prima di tentare l'invio.
           </p>
           <p class="text-slate-400 text-sm leading-relaxed">
-            <strong class="text-slate-300">Cosa non facciamo:</strong> L'app non carica i tuoi documenti, scansioni, date di scadenza, foto o contenuti del vault su Travel Document Vault. Funziona completamente offline per il normale archivio documenti e i promemoria. I controlli di aggiornamento e connettività presenti prima della 1.2.1 non inviano i tuoi dati documentali e sono stati rimossi nella versione 1.2.1 dell'app.
+            <strong class="text-slate-300">Cosa non facciamo:</strong> L'app non carica i tuoi documenti, scansioni, date di scadenza, foto o contenuti del vault su Travel Document Vault. Funziona completamente offline per il normale archivio documenti e i promemoria.
           </p>
         </div>
 

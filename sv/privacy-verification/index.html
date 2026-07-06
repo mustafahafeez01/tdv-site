@@ -212,17 +212,8 @@
               <span class="text-brand-gold">1.</span> Nätverkstrafiktest
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              Installera en nätverksövervakare som <strong class="text-white">mitmproxy</strong> (gratis, öppen källkod), <strong class="text-white">Wireshark</strong> (gratis, öppen källkod) eller <strong class="text-white">Charles Proxy</strong>. Öppna Travel Document Vault, skanna ett dokument, bläddra i ditt valv och ställ in en påminnelse. Du ska inte se att dina dokument, skanningar, utgångsdatum eller valvinnehåll skickas till Travel Document Vault. Nätverkstrafiken bör vara begränsad till specifika funktioner: valfri kraschrapportering via Sentry, köpverifieringar via App Store eller Google Play, valfri molnsäkerhetskopiering till ditt eget iCloud eller Google Drive samt uppdaterings- eller anslutningskontrollerna som förklaras nedan.
+              Installera en nätverksövervakare som <strong class="text-white">mitmproxy</strong> (gratis, öppen källkod), <strong class="text-white">Wireshark</strong> (gratis, öppen källkod) eller <strong class="text-white">Charles Proxy</strong>. Öppna Travel Document Vault, skanna ett dokument, bläddra i ditt valv och ställ in en påminnelse. Du ska inte se att dina dokument, skanningar, utgångsdatum eller valvinnehåll skickas till Travel Document Vault. Nätverkstrafiken bör vara begränsad till specifika funktioner: valfri kraschrapportering via Sentry, köpverifieringar via App Store eller Google Play, och valfri molnsäkerhetskopiering till ditt eget iCloud- eller Google Drive-konto.
             </p>
-            <div class="permission-card rounded-xl p-4 sm:p-5 space-y-2 border border-amber-500/20">
-              <h4 class="text-sm font-semibold text-white">Varför du kan se expo.dev eller clients3.google.com</h4>
-              <p class="text-slate-300 text-sm leading-relaxed">
-                Vissa versioner före 1.2.1 kan visa förfrågningar till <strong class="text-white">expo.dev</strong> och till en Google-anslutningsendpoint, oftast <strong class="text-white">clients3.google.com</strong>. Förfrågan till <strong class="text-white">expo.dev</strong> kontrollerade om en liten over-the-air-uppdatering fanns tillgänglig, vanligtvis för buggfixar som inte krävde en fullständig App Store- eller Google Play-release. Googles anslutningsförfrågan hjälpte Android att bekräfta att enheten var online innan nätverksfunktioner som säkerhetskopiering försökte synkronisera.
-              </p>
-              <p class="text-slate-400 text-sm leading-relaxed">
-                Dessa kontroller fanns där för uppdateringar och backupberedskap, inte för dokumentinsamling. De skickade inte dokumentinnehåll, foton, namn, utgångsdatum eller valvdata till oss. Beroendevägen bakom dessa kontroller har tagits bort i appversion 1.2.1, så de ska inte längre synas vid normal användning efter att du har uppdaterat till 1.2.1.
-              </p>
-            </div>
           </div>
 
           <!-- iOS Privacy Report -->
@@ -350,10 +341,10 @@
             <span class="text-xs text-slate-500 font-medium ml-auto">Android</span>
           </div>
           <p class="text-slate-300 text-sm leading-relaxed">
-            <strong class="text-white">Varför dessa visas:</strong> De behövs för nätverksberoende funktioner: <strong class="text-white">Sentry-kraschrapportering</strong> (opt-in, inaktiverad som standard), <strong class="text-white">App Store- eller Google Play-fakturering</strong> för Pro-uppgraderingen och <strong class="text-white">Pro-molnsäkerhetskopiering</strong> (valfritt), som synkroniserar ditt krypterade valv till ditt eget iCloud eller Google Drive. ACCESS_NETWORK_STATE och ACCESS_WIFI_STATE låter dessa funktioner kontrollera om en anslutning är tillgänglig innan de försöker skicka. I versioner före 1.2.1 kunde appen också kontrollera <strong class="text-white">expo.dev</strong> för små over-the-air-buggfixuppdateringar och en Google-anslutningsendpoint, oftast <strong class="text-white">clients3.google.com</strong>, innan säkerhetskopiering eller andra nätverksfunktioner försökte ansluta.
+            <strong class="text-white">Varför dessa visas:</strong> De behövs för nätverksberoende funktioner: <strong class="text-white">Sentry-kraschrapportering</strong> (opt-in, inaktiverad som standard), <strong class="text-white">App Store- eller Google Play-fakturering</strong> för Pro-uppgraderingen och <strong class="text-white">Pro-molnsäkerhetskopiering</strong> (valfritt), som synkroniserar ditt krypterade valv till ditt eget iCloud eller Google Drive. ACCESS_NETWORK_STATE och ACCESS_WIFI_STATE låter dessa funktioner kontrollera om en anslutning är tillgänglig innan de försöker skicka.
           </p>
           <p class="text-slate-400 text-sm leading-relaxed">
-            <strong class="text-slate-300">Vad vi inte gör:</strong> Appen laddar inte upp dina dokument, skanningar, utgångsdatum, foton eller valvinnehåll till Travel Document Vault. Den fungerar helt offline för vanlig dokumentlagring och påminnelser. Uppdaterings- och anslutningskontrollerna före 1.2.1 skickar inte dina dokumentdata och har tagits bort i appversion 1.2.1.
+            <strong class="text-slate-300">Vad vi inte gör:</strong> Appen laddar inte upp dina dokument, skanningar, utgångsdatum, foton eller valvinnehåll till Travel Document Vault. Den fungerar helt offline för vanlig dokumentlagring och påminnelser.
           </p>
         </div>
 

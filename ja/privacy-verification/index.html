@@ -212,17 +212,8 @@
               <span class="text-brand-gold">1.</span> ネットワーク トラフィック テスト
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              <strong class="text-white">mitmproxy</strong>（無料、オープンソース）、<strong class="text-white">Wireshark</strong>（無料、オープンソース）、<strong class="text-white">Charles Proxy</strong> などのネットワーク モニターをインストールします。Travel Document Vault を開き、書類をスキャンし、ボルトを参照し、リマインダーを設定します。書類、スキャン、期限日、ボルトの内容が Travel Document Vault に送信されることはないはずです。ネットワーク通信は、任意の Sentry クラッシュ レポート、App Store または Google Play の購入確認、自分の iCloud または Google Drive への任意のクラウド バックアップ、そして下で説明する更新または接続確認に限られるはずです。
+              <strong class="text-white">mitmproxy</strong>（無料、オープンソース）、<strong class="text-white">Wireshark</strong>（無料、オープンソース）、<strong class="text-white">Charles Proxy</strong> などのネットワーク モニターをインストールします。Travel Document Vault を開き、書類をスキャンし、ボルトを参照し、リマインダーを設定します。書類、スキャン、期限日、ボルトの内容が Travel Document Vault に送信されることはないはずです。ネットワーク通信は、任意の Sentry クラッシュ レポート、App Store または Google Play の購入確認、自分の iCloud または Google Drive アカウントへの任意のクラウド バックアップに限られるはずです。
             </p>
-            <div class="permission-card rounded-xl p-4 sm:p-5 space-y-2 border border-amber-500/20">
-              <h4 class="text-sm font-semibold text-white">expo.dev や clients3.google.com が表示される理由</h4>
-              <p class="text-slate-300 text-sm leading-relaxed">
-                1.2.1 より前の一部のビルドでは、<strong class="text-white">expo.dev</strong> と、通常は <strong class="text-white">clients3.google.com</strong> である Google の接続確認エンドポイントへのリクエストが表示されることがあります。<strong class="text-white">expo.dev</strong> へのリクエストは、小さな over-the-air アップデートが利用可能かどうか、主に App Store や Google Play での完全なリリースを必要としないバグ修正があるかどうかを確認するためのものでした。Google の接続確認リクエストは、バックアップのようなネットワーク機能が同期を試みる前に、端末がオンラインかどうかを Android が確認するのに役立っていました。
-              </p>
-              <p class="text-slate-400 text-sm leading-relaxed">
-                これらの確認は、更新とバックアップ準備のためのものであり、書類の収集のためではありませんでした。書類の内容、写真、氏名、有効期限、ボルト データが私たちに送信されることはありませんでした。これらの確認の背後にある依存経路はアプリ バージョン 1.2.1 で削除されたため、1.2.1 に更新した後は通常利用中に表示されないはずです。
-              </p>
-            </div>
           </div>
 
           <!-- iOS Privacy Report -->
@@ -350,10 +341,10 @@
             <span class="text-xs text-slate-500 font-medium ml-auto">Android</span>
           </div>
           <p class="text-slate-300 text-sm leading-relaxed">
-            <strong class="text-white">これが表示される理由：</strong> これらはネットワークを使う機能に必要です。<strong class="text-white">Sentry クラッシュ レポート</strong>（オプトイン、初期設定では無効）、<strong class="text-white">App Store または Google Play の課金</strong>（Pro アップグレード購入用）、そして <strong class="text-white">Pro クラウド バックアップ</strong>（オプション）で、暗号化されたボルトを自分の iCloud または Google Drive に同期します。ACCESS_NETWORK_STATE と ACCESS_WIFI_STATE により、これらの機能は送信を試みる前に接続が利用可能かどうかを確認できます。1.2.1 より前のバージョンでは、アプリは小さな over-the-air バグ修正アップデートのために <strong class="text-white">expo.dev</strong> を確認し、またバックアップや他のネットワーク機能が接続を試みる前に、通常は <strong class="text-white">clients3.google.com</strong> である Google の接続確認エンドポイントを確認することもありました。
+            <strong class="text-white">これが表示される理由：</strong> これらはネットワークを使う機能に必要です。<strong class="text-white">Sentry クラッシュ レポート</strong>（オプトイン、初期設定では無効）、<strong class="text-white">App Store または Google Play の課金</strong>（Pro アップグレード購入用）、そして <strong class="text-white">Pro クラウド バックアップ</strong>（オプション）で、暗号化されたボルトを自分の iCloud または Google Drive に同期します。ACCESS_NETWORK_STATE と ACCESS_WIFI_STATE により、これらの機能は送信を試みる前に接続が利用可能かどうかを確認できます。
           </p>
           <p class="text-slate-400 text-sm leading-relaxed">
-            <strong class="text-slate-300">しないこと：</strong> アプリが、あなたの書類、スキャン、期限日、写真、ボルトの内容を Travel Document Vault にアップロードすることはありません。通常の書類保管とリマインダーでは完全にオフラインで動作します。1.2.1 より前の更新確認と接続確認は、あなたの書類データを送信せず、アプリ バージョン 1.2.1 で削除されました。
+            <strong class="text-slate-300">しないこと：</strong> アプリが、あなたの書類、スキャン、期限日、写真、ボルトの内容を Travel Document Vault にアップロードすることはありません。通常の書類保管とリマインダーでは完全にオフラインで動作します。
           </p>
         </div>
 

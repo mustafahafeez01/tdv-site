@@ -212,16 +212,7 @@
               <span class="text-brand-gold">1.</span> การทดสอบการจราจรบนเครือข่าย
             </h3>
             <p class="text-slate-300 text-sm leading-relaxed">
-              ติดตั้งเครื่องมือตรวจสอบเครือข่าย เช่น <strong class="text-white">mitmproxy</strong> (ฟรี โอเพนซอร์ส), <strong class="text-white">Wireshark</strong> (ฟรี โอเพนซอร์ส) หรือ <strong class="text-white">Charles Proxy</strong> เปิด Travel Document Vault สแกนเอกสาร เปิดดูคลังของคุณ และตั้งค่าการแจ้งเตือน คุณไม่ควรเห็นเอกสาร การสแกน วันที่หมดอายุ หรือเนื้อหาในคลังของคุณถูกส่งไปยัง Travel Document Vault ทราฟฟิกเครือข่ายควรจำกัดอยู่ที่ฟังก์ชันเฉพาะ เช่น การรายงานการขัดข้องของ Sentry แบบเลือกเปิด การตรวจสอบการซื้อผ่าน App Store หรือ Google Play การสำรองข้อมูลขึ้นคลาวด์แบบเลือกเปิดไปยัง iCloud หรือ Google Drive ของคุณเอง และการตรวจสอบการอัปเดตหรือการเชื่อมต่อที่อธิบายไว้ด้านล่าง</p>
-            <div class="permission-card rounded-xl p-4 sm:p-5 space-y-2 border border-amber-500/20">
-              <h4 class="text-sm font-semibold text-white">เหตุใดคุณจึงอาจเห็น expo.dev หรือ clients3.google.com</h4>
-              <p class="text-slate-300 text-sm leading-relaxed">
-                บิลด์บางรุ่นก่อนเวอร์ชัน 1.2.1 อาจแสดงคำขอไปยัง <strong class="text-white">expo.dev</strong> และปลายทางตรวจสอบการเชื่อมต่อของ Google ซึ่งมักเป็น <strong class="text-white">clients3.google.com</strong> คำขอไปยัง <strong class="text-white">expo.dev</strong> ใช้เพื่อตรวจสอบว่ามีการอัปเดต over-the-air ขนาดเล็กหรือไม่ โดยทั่วไปเป็นการแก้บั๊กที่ไม่ต้องออกเวอร์ชันเต็มผ่าน App Store หรือ Google Play ส่วนคำขอตรวจสอบการเชื่อมต่อของ Google ช่วยให้ Android ยืนยันว่าอุปกรณ์ออนไลน์อยู่ก่อนที่ฟังก์ชันเครือข่ายอย่างการสำรองข้อมูลจะพยายามซิงก์
-              </p>
-              <p class="text-slate-400 text-sm leading-relaxed">
-                การตรวจสอบเหล่านี้มีไว้สำหรับการอัปเดตและความพร้อมของการสำรองข้อมูล ไม่ใช่เพื่อเก็บรวบรวมเอกสาร และไม่ได้ส่งเนื้อหาเอกสาร รูปภาพ ชื่อ วันที่หมดอายุ หรือข้อมูลในคลังของคุณมาหาเรา เส้นทาง dependency ที่อยู่เบื้องหลังการตรวจสอบเหล่านี้ถูกนำออกแล้วในแอปเวอร์ชัน 1.2.1 ดังนั้นหลังอัปเดตเป็น 1.2.1 แล้ว จึงไม่ควรปรากฏอีกในการใช้งานปกติ
-              </p>
-            </div>
+              ติดตั้งเครื่องมือตรวจสอบเครือข่าย เช่น <strong class="text-white">mitmproxy</strong> (ฟรี โอเพนซอร์ส), <strong class="text-white">Wireshark</strong> (ฟรี โอเพนซอร์ส) หรือ <strong class="text-white">Charles Proxy</strong> เปิด Travel Document Vault สแกนเอกสาร เปิดดูคลังของคุณ และตั้งค่าการแจ้งเตือน คุณไม่ควรเห็นเอกสาร การสแกน วันที่หมดอายุ หรือเนื้อหาในคลังของคุณถูกส่งไปยัง Travel Document Vault ทราฟฟิกเครือข่ายควรจำกัดอยู่ที่ฟังก์ชันเฉพาะ เช่น การรายงานการขัดข้องของ Sentry แบบเลือกเปิด การตรวจสอบการซื้อผ่าน App Store หรือ Google Play และการสำรองข้อมูลขึ้นคลาวด์แบบเลือกเปิดไปยังบัญชี iCloud หรือ Google Drive ของคุณเอง</p>
           </div>
 
           <!-- iOS Privacy Report -->
@@ -348,10 +339,10 @@
             <span class="text-xs text-slate-500 font-medium ml-auto">Android</span>
           </div>
           <p class="text-slate-300 text-sm leading-relaxed">
-            <strong class="text-white">เหตุผลที่ปรากฏ:</strong> สิ่งเหล่านี้จำเป็นสำหรับฟังก์ชันที่ใช้เครือข่าย ได้แก่ <strong class="text-white">การรายงานการขัดข้องของ Sentry</strong> (เลือกเปิดได้ ปิดไว้ตามค่าเริ่มต้น), <strong class="text-white">การเรียกเก็บเงินผ่าน App Store หรือ Google Play</strong> สำหรับการซื้ออัปเกรด Pro และ <strong class="text-white">การสำรองข้อมูล Pro cloud</strong> (เป็นตัวเลือก) ซึ่งซิงก์คลังที่เข้ารหัสของคุณไปยัง iCloud หรือ Google Drive ของคุณเอง ACCESS_NETWORK_STATE และ ACCESS_WIFI_STATE ช่วยให้ฟังก์ชันเหล่านี้ตรวจสอบได้ว่ามีการเชื่อมต่อหรือไม่ก่อนพยายามส่งข้อมูล ในเวอร์ชันก่อน 1.2.1 แอปยังอาจตรวจสอบ <strong class="text-white">expo.dev</strong> สำหรับการอัปเดตแก้บั๊กแบบ over-the-air ขนาดเล็ก และตรวจสอบปลายทางการเชื่อมต่อของ Google ซึ่งมักเป็น <strong class="text-white">clients3.google.com</strong> ก่อนที่การสำรองข้อมูลหรือฟังก์ชันเครือข่ายอื่นจะพยายามเชื่อมต่อ
+            <strong class="text-white">เหตุผลที่ปรากฏ:</strong> สิ่งเหล่านี้จำเป็นสำหรับฟังก์ชันที่ใช้เครือข่าย ได้แก่ <strong class="text-white">การรายงานการขัดข้องของ Sentry</strong> (เลือกเปิดได้ ปิดไว้ตามค่าเริ่มต้น), <strong class="text-white">การเรียกเก็บเงินผ่าน App Store หรือ Google Play</strong> สำหรับการซื้ออัปเกรด Pro และ <strong class="text-white">การสำรองข้อมูล Pro cloud</strong> (เป็นตัวเลือก) ซึ่งซิงก์คลังที่เข้ารหัสของคุณไปยัง iCloud หรือ Google Drive ของคุณเอง ACCESS_NETWORK_STATE และ ACCESS_WIFI_STATE ช่วยให้ฟังก์ชันเหล่านี้ตรวจสอบได้ว่ามีการเชื่อมต่อหรือไม่ก่อนพยายามส่งข้อมูล
           </p>
           <p class="text-slate-400 text-sm leading-relaxed">
-            <strong class="text-slate-300">สิ่งที่เราไม่ทำ:</strong> แอปไม่ได้อัปโหลดเอกสาร การสแกน วันที่หมดอายุ รูปภาพ หรือเนื้อหาในคลังของคุณไปยัง Travel Document Vault สำหรับการเก็บเอกสารและการแจ้งเตือนตามปกติ แอปทำงานแบบออฟไลน์ได้เต็มรูปแบบ การตรวจสอบการอัปเดตและการเชื่อมต่อก่อนเวอร์ชัน 1.2.1 ไม่ได้ส่งข้อมูลเอกสารของคุณ และถูกนำออกแล้วในแอปเวอร์ชัน 1.2.1
+            <strong class="text-slate-300">สิ่งที่เราไม่ทำ:</strong> แอปไม่ได้อัปโหลดเอกสาร การสแกน วันที่หมดอายุ รูปภาพ หรือเนื้อหาในคลังของคุณไปยัง Travel Document Vault สำหรับการเก็บเอกสารและการแจ้งเตือนตามปกติ แอปทำงานแบบออฟไลน์ได้เต็มรูปแบบ
           </p>
         </div>
 
