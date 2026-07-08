@@ -200,7 +200,7 @@
 
       <!-- Verify It Yourself -->
       <section aria-labelledby="verify-heading" class="glass-panel rounded-2xl shadow-glass p-6 sm:p-10 space-y-6">
-        <h2 id="verify-heading" class="text-2xl font-bold text-white">Verifica tu stesso</h2>
+        <h2 id="verify-heading" class="text-2xl font-bold text-white">Verifica</h2>
         <p class="text-slate-300 text-sm leading-relaxed">
           Non devi fidarti di noi. Puoi confermare ogni affermazione qui sopra con strumenti gratuiti e open source disponibili pubblicamente.
         </p>
@@ -255,6 +255,44 @@
       </section>
 
       <!-- Permissions Justification -->
+      <!-- How we test the app's security -->
+      <section aria-labelledby="security-testing-heading" class="glass-panel rounded-2xl shadow-glass p-6 sm:p-10 space-y-6">
+        <h2 id="security-testing-heading" class="text-2xl font-bold text-white">Come testiamo la sicurezza dell'app</h2>
+        <p class="text-slate-300 text-sm leading-relaxed">
+          Non ci limitiamo a dire che l'app è sicura. Lo verifichiamo, usando gli stessi strumenti aperti e gli stessi standard pubblici adottati dal settore della sicurezza.
+        </p>
+
+        <div class="space-y-6">
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white">Sottoponiamo l'app a uno standard pubblico</h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              Valutiamo Travel Document Vault rispetto all'<a href="https://mas.owasp.org/MASVS/" rel="noopener" class="text-brand-gold underline hover:opacity-80">OWASP Mobile Application Security Verification Standard (MASVS)</a>, la checklist di riferimento del settore su come un'app mobile dovrebbe archiviare i dati, utilizzare la crittografia, bloccarsi dietro Face ID o un PIN, e gestire i link provenienti da altre app. Chiunque può leggere lo standard e confrontarlo con il comportamento reale dell'app.
+            </p>
+          </div>
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white">Analizziamo il nostro codice</h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              Prima di ogni rilascio eseguiamo un'analisi statica del nostro codice con <a href="https://semgrep.dev/" rel="noopener" class="text-brand-gold underline hover:opacity-80">Semgrep</a>, uno strumento open source che segnala schemi non sicuri, come crittografia debole o gestione impropria dei dati, così da correggerli per tempo.
+            </p>
+          </div>
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white">Analizziamo l'app compilata</h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              Esaminiamo anche le nostre build pubblicate con strumenti di scansione della sicurezza per app mobili, verificando come la build archivia i dati, a cosa può accedere e come è firmata.
+            </p>
+          </div>
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white">Hai trovato un problema? Segnalacelo</h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              Se noti un problema di sicurezza, scrivi a <a href="mailto:support@traveldocumentvault.com" rel="noopener" class="text-brand-gold underline hover:opacity-80">support@traveldocumentvault.com</a>. I dettagli della nostra procedura di divulgazione sono pubblicati su <a href="/.well-known/security.txt" rel="noopener" class="text-brand-gold underline hover:opacity-80">/.well-known/security.txt</a>.
+            </p>
+          </div>
+        </div>
+        <p class="text-slate-400 text-xs leading-relaxed pt-2 border-t border-white/10">
+          Questa è una nostra valutazione rispetto a uno standard pubblico, non un audit indipendente né una certificazione. Ultima revisione a luglio 2026.
+        </p>
+      </section>
+
       <section aria-labelledby="permissions-heading" class="space-y-6">
         <div class="text-center mb-2">
           <h2 id="permissions-heading" class="text-2xl font-bold text-white mb-3">Ogni autorizzazione spiegata</h2>

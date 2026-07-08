@@ -200,7 +200,7 @@
 
       <!-- Verify It Yourself -->
       <section aria-labelledby="verify-heading" class="glass-panel rounded-2xl shadow-glass p-6 sm:p-10 space-y-6">
-        <h2 id="verify-heading" class="text-2xl font-bold text-white">Verifieer het zelf</h2>
+        <h2 id="verify-heading" class="text-2xl font-bold text-white">Verificatie</h2>
         <p class="text-slate-300 text-sm leading-relaxed">
           Je hoeft ons niet te vertrouwen. Je kunt elke bewering hierboven bevestigen met gratis, openbare tools.
         </p>
@@ -255,6 +255,44 @@
       </section>
 
       <!-- Permissions Justification -->
+      <!-- How we test the app's security -->
+      <section aria-labelledby="security-testing-heading" class="glass-panel rounded-2xl shadow-glass p-6 sm:p-10 space-y-6">
+        <h2 id="security-testing-heading" class="text-2xl font-bold text-white">Hoe we de beveiliging van de app testen</h2>
+        <p class="text-slate-300 text-sm leading-relaxed">
+          We zeggen niet zomaar dat de app veilig is. We controleren het, met dezelfde open tools en publieke standaarden die de beveiligingsindustrie zelf gebruikt.
+        </p>
+
+        <div class="space-y-6">
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white">We toetsen de app aan een publieke standaard</h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              We beoordelen Travel Document Vault aan de hand van de <a href="https://mas.owasp.org/MASVS/" rel="noopener" class="text-brand-gold underline hover:opacity-80">OWASP Mobile Application Security Verification Standard (MASVS)</a>, de checklist die de branche hanteert voor hoe een mobiele app gegevens moet opslaan, versleuteling moet gebruiken, vergrendeld moet zijn achter Face ID of een pincode, en hoe deze moet omgaan met links vanuit andere apps. Iedereen kan de standaard lezen en vergelijken met het daadwerkelijke gedrag van de app.
+            </p>
+          </div>
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white">We scannen onze eigen code</h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              Voordat een build wordt uitgebracht, voeren we statische analyse uit op onze code met <a href="https://semgrep.dev/" rel="noopener" class="text-brand-gold underline hover:opacity-80">Semgrep</a>, een opensourcetool die onveilige patronen signaleert, zoals zwakke versleuteling of onveilige gegevensverwerking, zodat we ze vroegtijdig kunnen opsporen.
+            </p>
+          </div>
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white">We scannen de gebouwde app</h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              We beoordelen ook onze uitgebrachte builds met beveiligingsscantools voor mobiele apps, waarbij we controleren hoe de build gegevens opslaat, waar deze toegang toe heeft en hoe deze is ondertekend.
+            </p>
+          </div>
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white">Een probleem gevonden? Laat het ons weten</h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              Als u een beveiligingsprobleem ontdekt, mail dan naar <a href="mailto:support@traveldocumentvault.com" rel="noopener" class="text-brand-gold underline hover:opacity-80">support@traveldocumentvault.com</a>. De details van onze procedure voor het melden van kwetsbaarheden zijn gepubliceerd op <a href="/.well-known/security.txt" rel="noopener" class="text-brand-gold underline hover:opacity-80">/.well-known/security.txt</a>.
+            </p>
+          </div>
+        </div>
+        <p class="text-slate-400 text-xs leading-relaxed pt-2 border-t border-white/10">
+          Dit is onze eigen beoordeling aan de hand van een publieke standaard, geen onafhankelijke audit of certificering. Laatst beoordeeld in juli 2026.
+        </p>
+      </section>
+
       <section aria-labelledby="permissions-heading" class="space-y-6">
         <div class="text-center mb-2">
           <h2 id="permissions-heading" class="text-2xl font-bold text-white mb-3">Elke toestemming uitgelegd</h2>

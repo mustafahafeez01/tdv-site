@@ -200,7 +200,7 @@
 
       <!-- Verify It Yourself -->
       <section aria-labelledby="verify-heading" class="glass-panel rounded-2xl shadow-glass p-6 sm:p-10 space-y-6">
-        <h2 id="verify-heading" class="text-2xl font-bold text-white">ตรวจสอบด้วยตัวเอง</h2>
+        <h2 id="verify-heading" class="text-2xl font-bold text-white">การยืนยัน</h2>
         <p class="text-slate-300 text-sm leading-relaxed">
           คุณไม่จำเป็นต้องเชื่อเรา คุณสามารถยืนยันข้อเรียกร้องข้างต้นทั้งหมดด้วยเครื่องมือฟรีและเปิดเผย
         </p>
@@ -252,6 +252,44 @@
       </section>
 
       <!-- Permissions Justification -->
+      <!-- How we test the app's security -->
+      <section aria-labelledby="security-testing-heading" class="glass-panel rounded-2xl shadow-glass p-6 sm:p-10 space-y-6">
+        <h2 id="security-testing-heading" class="text-2xl font-bold text-white">เราทดสอบความปลอดภัยของแอปอย่างไร</h2>
+        <p class="text-slate-300 text-sm leading-relaxed">
+          เราไม่ได้เพียงแค่บอกว่าแอปนี้ปลอดภัย แต่เราตรวจสอบจริง โดยใช้เครื่องมือแบบเปิดและมาตรฐานสาธารณะแบบเดียวกับที่วงการความปลอดภัยใช้กัน
+        </p>
+
+        <div class="space-y-6">
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white">เรายึดมาตรฐานสาธารณะเป็นเกณฑ์ตรวจสอบแอป</h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              เราประเมิน Travel Document Vault ตามมาตรฐาน <a href="https://mas.owasp.org/MASVS/" rel="noopener" class="text-brand-gold underline hover:opacity-80">OWASP Mobile Application Security Verification Standard (MASVS)</a> ซึ่งเป็นรายการตรวจสอบมาตรฐานของวงการที่กำหนดว่าแอปมือถือควรจัดเก็บข้อมูล ใช้การเข้ารหัส ล็อกหน้าจอด้วย Face ID หรือ PIN และจัดการลิงก์จากแอปอื่นอย่างไร ใครก็สามารถอ่านมาตรฐานนี้และเทียบกับพฤติกรรมจริงของแอปได้
+            </p>
+          </div>
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white">เราสแกนโค้ดของเราเอง</h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              ก่อนเผยแพร่แต่ละบิลด์ เราจะรันการวิเคราะห์แบบสแตติกกับโค้ดของเราด้วย <a href="https://semgrep.dev/" rel="noopener" class="text-brand-gold underline hover:opacity-80">Semgrep</a> ซึ่งเป็นเครื่องมือโอเพนซอร์สที่คอยตรวจจับรูปแบบที่ไม่ปลอดภัย เช่น การเข้ารหัสที่อ่อนแอหรือการจัดการข้อมูลที่ไม่รัดกุม เพื่อให้เราแก้ไขได้ตั้งแต่เนิ่นๆ
+            </p>
+          </div>
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white">เราสแกนแอปที่สร้างเสร็จแล้ว</h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              เรายังตรวจสอบบิลด์ที่เผยแพร่ด้วยเครื่องมือสแกนความปลอดภัยสำหรับแอปมือถือ โดยดูว่าบิลด์นั้นจัดเก็บข้อมูลอย่างไร เข้าถึงอะไรได้บ้าง และมีการเซ็นรับรองอย่างไร
+            </p>
+          </div>
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white">พบปัญหาหรือไม่ แจ้งให้เราทราบ</h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              หากคุณพบปัญหาด้านความปลอดภัย กรุณาส่งอีเมลถึง <a href="mailto:support@traveldocumentvault.com" rel="noopener" class="text-brand-gold underline hover:opacity-80">support@traveldocumentvault.com</a> รายละเอียดขั้นตอนการเปิดเผยข้อมูลของเราเผยแพร่อยู่ที่ <a href="/.well-known/security.txt" rel="noopener" class="text-brand-gold underline hover:opacity-80">/.well-known/security.txt</a>
+            </p>
+          </div>
+        </div>
+        <p class="text-slate-400 text-xs leading-relaxed pt-2 border-t border-white/10">
+          นี่คือการประเมินของเราเองตามมาตรฐานสาธารณะ ไม่ใช่การตรวจสอบอิสระหรือการรับรองใดๆ ตรวจสอบล่าสุดเมื่อเดือนกรกฎาคม 2026
+        </p>
+      </section>
+
       <section aria-labelledby="permissions-heading" class="space-y-6">
         <div class="text-center mb-2">
           <h2 id="permissions-heading" class="text-2xl font-bold text-white mb-3">สิทธิ์ทั้งหมดอธิบาย</h2>

@@ -200,7 +200,7 @@
 
       <!-- Verify It Yourself -->
       <section aria-labelledby="verify-heading" class="glass-panel rounded-2xl shadow-glass p-6 sm:p-10 space-y-6">
-        <h2 id="verify-heading" class="text-2xl font-bold text-white">自己验证</h2>
+        <h2 id="verify-heading" class="text-2xl font-bold text-white">验证</h2>
         <p class="text-slate-300 text-sm leading-relaxed">
           您不需要相信我们。您可以使用免费的公开工具来确认上述所有声明。
         </p>
@@ -255,6 +255,44 @@
       </section>
 
       <!-- Permissions Justification -->
+      <!-- How we test the app's security -->
+      <section aria-labelledby="security-testing-heading" class="glass-panel rounded-2xl shadow-glass p-6 sm:p-10 space-y-6">
+        <h2 id="security-testing-heading" class="text-2xl font-bold text-white">我们如何测试应用的安全性</h2>
+        <p class="text-slate-300 text-sm leading-relaxed">
+          我们不会只是声称这款应用是安全的，而是会去实际核查，使用的正是安全行业本身所采用的开放工具和公开标准。
+        </p>
+
+        <div class="space-y-6">
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white">我们以公开标准来衡量应用</h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              我们依据<a href="https://mas.owasp.org/MASVS/" rel="noopener" class="text-brand-gold underline hover:opacity-80">OWASP Mobile Application Security Verification Standard (MASVS)</a>对Travel Document Vault进行评估，这是业界公认的检查清单，规定了移动应用应如何存储数据、使用加密、通过Face ID或PIN锁定，以及如何处理来自其他应用的链接。任何人都可以查阅该标准，并将其与应用的实际表现进行对比。
+            </p>
+          </div>
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white">我们扫描自己的代码</h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              在每次发布之前，我们都会使用开源工具<a href="https://semgrep.dev/" rel="noopener" class="text-brand-gold underline hover:opacity-80">Semgrep</a>对代码进行静态分析。Semgrep能够标记不安全的模式，例如弱加密或不安全的数据处理方式，帮助我们及早发现问题。
+            </p>
+          </div>
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white">我们扫描已构建完成的应用</h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              我们还会使用移动应用安全扫描工具对发布版本进行审查，检查该版本如何存储数据、可以访问哪些内容，以及签名方式。
+            </p>
+          </div>
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-white">发现问题？请告诉我们</h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              如果您发现安全问题，请发邮件至<a href="mailto:support@traveldocumentvault.com" rel="noopener" class="text-brand-gold underline hover:opacity-80">support@traveldocumentvault.com</a>。我们的披露流程详情已公布在<a href="/.well-known/security.txt" rel="noopener" class="text-brand-gold underline hover:opacity-80">/.well-known/security.txt</a>。
+            </p>
+          </div>
+        </div>
+        <p class="text-slate-400 text-xs leading-relaxed pt-2 border-t border-white/10">
+          这是我们依据公开标准所做的自我评估，并非第三方独立审计或认证。最后审查时间：2026年7月。
+        </p>
+      </section>
+
       <section aria-labelledby="permissions-heading" class="space-y-6">
         <div class="text-center mb-2">
           <h2 id="permissions-heading" class="text-2xl font-bold text-white mb-3">每项权限解释</h2>
