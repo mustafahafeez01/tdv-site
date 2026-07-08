@@ -25,6 +25,7 @@
 - Trip Planner: https://traveldocumentvault.com/trip-planner/
 - Cloud Backup: https://traveldocumentvault.com/cloud-backup/
 - Privacy Policy: https://traveldocumentvault.com/privacy-policy/
+- Privacy Verification: https://traveldocumentvault.com/privacy-verification/ (independent, checkable proof: no trackers, network-traffic tests, every permission explained, and how we test the app's security against OWASP MASVS)
 
 ## Blog posts (full text, LLM-friendly)
 
