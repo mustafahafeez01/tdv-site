@@ -5,12 +5,12 @@
 
 ## App
 
-- One-time purchase ($9.99), no subscription
+- Pro: one-time purchase ($9.99 or local store equivalent), no subscription; includes all v1.x updates. Free tier: 1 profile, up to 5 documents, expiry reminders, biometric lock
 - AES-256-GCM on-device encryption
 - Your Own Cloud backup (Pro feature): encrypted in iCloud (iOS) or Google Drive (Android), sealed with PBKDF2 600,000 iterations + AES-256-GCM, with one-tap restore on a new device using your recovery code, which never leaves your original device. No Travel Document Vault servers involved
 - Free Vault Export (.tdvault) for everyone: export an encrypted backup file and import it on any device. A regular phone or system backup (iCloud Backup, Google Backup) reinstalls the app but cannot restore your documents, because the encryption key never leaves your original device
 - Works fully offline (cloud backup is opt-in, off by default)
-- Supports multiple family members under one app
+- Supports multiple family members under one app (unlimited profiles is a Pro feature; the free tier includes 1 profile)
 - Passport and visa expiry reminders with customisable lead time
 - Available on App Store: https://apps.apple.com/app/travel-document-vault/id6757014877
 - Available on Google Play: https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault
