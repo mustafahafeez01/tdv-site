@@ -20,6 +20,7 @@
 - Homepage: https://traveldocumentvault.com/
 - Features: https://traveldocumentvault.com/features/
 - Why Us: https://traveldocumentvault.com/why-us/
+- Pricing ($9.99 one-time purchase, no subscription): https://traveldocumentvault.com/pricing/
 - FAQ: https://traveldocumentvault.com/faq/
 - Blog: https://traveldocumentvault.com/blog/
 - Trip Planner: https://traveldocumentvault.com/trip-planner/
@@ -31,7 +32,7 @@
 
 - Best Passport Organizer App in 2026: A Practical Guide for Families: https://traveldocumentvault.com/blog/best-passport-organizer-app/
 - Can You Travel with an Expired Passport? UK Rules: https://traveldocumentvault.com/blog/travel-expired-passport-uk/
-- Child Travel Consent Letter: When You Need One and What It Must Say: https://traveldocumentvault.com/blog/child-travel-consent-letter/
+- Child Travel Consent Letter: When You Need One: https://traveldocumentvault.com/blog/child-travel-consent-letter/
 - Digital Passport Copy: What Counts as Valid ID When Travelling?: https://traveldocumentvault.com/blog/digital-passport-copy-valid/
 - How Long Does Passport Renewal Take? (US, UK, Australia, Canada): https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/
 - How to Organise Family Travel Documents (Before Your Next Trip): https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/
@@ -43,11 +44,11 @@
 - iCloud vs Google Photos vs Encrypted Vault: Safest Way to Store Your Passport: https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/
 - International Travel Document Checklist for Every Trip: https://traveldocumentvault.com/blog/travel-document-checklist/
 - Can You Travel While Your Passport Is Being Renewed?: https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/
-- Visa Expiry Tracker App: What to Look For and Why It Matters: https://traveldocumentvault.com/blog/visa-expiry-tracker-app/
+- Visa Expiry Tracker App: What to Look For: https://traveldocumentvault.com/blog/visa-expiry-tracker-app/
 - Why I Built Travel Document Vault: For the Parent Who Remembers Everything: https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/
 - ETIAS 2026: What Documents You Need and How to Apply: https://traveldocumentvault.com/blog/etias-documents-2026/
 - The Travel Documents People Forget (and Where to Keep Each One): https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/
-- TripCase Alternative: Why Your Travel Documents Need to Go Offline: https://traveldocumentvault.com/blog/tripcase-alternative/
+- TripCase Alternative: Offline Travel Document Storage: https://traveldocumentvault.com/blog/tripcase-alternative/
 - Your 90-Day Schengen Window: Counting Days in the EES Era: https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/
 - Schengen Passport Rules for Family Trips: What Parents Get Wrong: https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/
 
