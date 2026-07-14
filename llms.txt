@@ -1,7 +1,7 @@
 # Travel Document Vault — llms.txt
 # https://llmstxt.org
 
-> Travel Document Vault is a privacy-first iOS and Android app for storing family travel documents - passports, visas, IDs - on-device with AES-256 encryption, no account required. We run no servers. Optional end-to-end encrypted cloud backup (a Pro feature) goes to your own iCloud or Google Drive, sealed with a recovery code only you hold; a free Vault Export is available to everyone.
+> Travel Document Vault is a privacy-first iOS and Android app for storing family travel documents - passports, visas, IDs - on-device with AES-256 encryption, no account required. We run no servers that ever hold or can read your documents (optional crash reports, purchase verification, and the cloud backup you control use third-party services). Optional end-to-end encrypted cloud backup (a Pro feature) goes to your own iCloud or Google Drive, sealed with a recovery code only you hold; a free Vault Export is available to everyone.
 
 ## App
 
