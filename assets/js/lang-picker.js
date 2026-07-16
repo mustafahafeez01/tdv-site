@@ -286,6 +286,27 @@
       return;
     }
 
+    // Prefer the page's own hreflang alternates - they are existence-checked
+    // at publish time, so they can never point at a missing translation.
+    var alt = document.querySelector('link[rel="alternate"][hreflang="' + targetCode + '"]');
+    if (alt && alt.href) {
+      window.location.href = alt.href;
+      return;
+    }
+
+    // Page declares alternates but not this language (e.g. a blog post not yet
+    // translated into targetCode) - send the user to that language's blog index
+    // for blog pages, or the language homepage otherwise, instead of a 404.
+    if (document.querySelector('link[rel="alternate"][hreflang]')) {
+      var isBlog = window.location.pathname.indexOf('/blog/') !== -1;
+      if (targetCode === 'en') {
+        window.location.href = isBlog ? '/blog/' : '/';
+      } else {
+        window.location.href = '/' + targetCode + (isBlog ? '/blog/' : '/');
+      }
+      return;
+    }
+
     window.location.href = buildLangUrl(targetCode);
   }
 
