@@ -59,6 +59,10 @@
 - How to Export and Import Your Vault: https://traveldocumentvault.com/faq/export-import/
 - Backup Explained: Local Backups, Vault Export, and Cloud Backup: https://traveldocumentvault.com/faq/backup-explained/
 
+## Languages
+
+All blog posts and FAQ articles above are also available in Spanish, French, German, Portuguese, Italian, Japanese, Korean, and Simplified Chinese at https://traveldocumentvault.com/{lang}/... (language codes: es, fr, de, pt, it, ja, ko, zh-Hans). Core site pages are additionally available in Russian, Ukrainian, Dutch, Swedish, Danish, Thai, and Indonesian.
+
 ## Contact
 
 support@traveldocumentvault.com
