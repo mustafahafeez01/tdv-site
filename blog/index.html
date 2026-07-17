@@ -8,6 +8,7 @@
   <!-- SEO metadata -->
   <title>Travel Document Blog - Passport, Visa &amp; ID Guides | Travel Document Vault</title>
   <meta name="description" content="Practical guides on passport rules, renewal timelines, and keeping documents secure. Brought to you by Travel Document Vault, the AES-256-GCM encrypted, offline organiser.">
+  <link rel="preload" as="image" imagesrcset="/blog/why-i-built-travel-document-vault/cover-480.webp 480w, /blog/why-i-built-travel-document-vault/cover-800.webp 800w, /blog/why-i-built-travel-document-vault/cover-1200.webp 1200w" imagesizes="(max-width: 640px) 100vw, 400px" fetchpriority="high">
   <link rel="canonical" href="https://traveldocumentvault.com/blog/">
   <link rel="alternate" hreflang="x-default" href="https://traveldocumentvault.com/blog/">
   <link rel="alternate" hreflang="en"      href="https://traveldocumentvault.com/blog/">
@@ -69,13 +70,8 @@
   </script>
 
   <!-- Preconnect and Preload for Performance -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preload" href="../dist/output.css" as="style">
   <link rel="stylesheet" href="../dist/output.css">
-
-  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Caveat:wght@400;500;600;700&display=optional" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Caveat:wght@400;500;600;700&display=optional"></noscript>
 
   <style>
     html { scroll-behavior: smooth; }
@@ -242,7 +238,7 @@
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex items-center justify-between h-16">
         <a href="../" class="flex items-center gap-3 group">
-          <img loading="lazy" src="../assets/images/app_icon.svg" alt="Travel Document Vault" class="w-8 h-8 group-hover:scale-110 transition-transform duration-300" width="32" height="32" />
+          <img src="../assets/images/app_icon.svg" alt="Travel Document Vault" class="w-8 h-8 group-hover:scale-110 transition-transform duration-300" width="32" height="32" />
           <span class="font-bold text-white hidden sm:block tracking-tight group-hover:text-blue-100 transition-colors">Travel Document Vault</span>
         </a>
 
@@ -334,7 +330,7 @@
       <!-- Featured Post - Founder Story -->
       <section class="mb-6 animate-fade-in-up opacity-0" aria-label="Featured article">
         <a href="why-i-built-travel-document-vault/" class="post-card post-card-featured">
-          <img class="post-card-thumb" src="why-i-built-travel-document-vault/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+          <picture><source type="image/webp" srcset="/blog/why-i-built-travel-document-vault/cover-480.webp 480w, /blog/why-i-built-travel-document-vault/cover-800.webp 800w, /blog/why-i-built-travel-document-vault/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="why-i-built-travel-document-vault/cover.jpg" alt="" loading="eager" fetchpriority="high" width="1536" height="1024"></picture>
           <div class="flex items-center gap-2 mb-4">
             <span class="tag-pill tag-story">Founder Story</span>
             <span class="text-blue-200/40 text-xs">Featured</span>
@@ -362,7 +358,7 @@
 
         <div class="flex flex-col gap-4">
 <a href="family-passport-management/" class="post-card">
-  <img class="post-card-thumb" src="family-passport-management/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+  <picture><source type="image/webp" srcset="/blog/family-passport-management/cover-480.webp 480w, /blog/family-passport-management/cover-800.webp 800w, /blog/family-passport-management/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="family-passport-management/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
   <div class="flex items-center gap-2 mb-3"><span class="tag-pill tag-organisation">Family Travel</span></div>
   <h2 class="text-xl font-bold text-white mb-2 leading-snug">Family Passport Management: Store Multiple Passports Safely</h2>
   <p class="text-blue-100/60 text-sm leading-relaxed">How to organise and securely store multiple family passports in one place. Track every family member&#x27;s expiry dates, with reminders before each renewal.</p>
@@ -374,7 +370,7 @@
 
           <!-- Schengen Passport Rules for Family Trips: What Parents Get Wrong - Jul 10, 2026 -->
           <a href="schengen-passport-rules-family-trips/" class="post-card">
-            <img class="post-card-thumb" src="schengen-passport-rules-family-trips/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/schengen-passport-rules-family-trips/cover-480.webp 480w, /blog/schengen-passport-rules-family-trips/cover-800.webp 800w, /blog/schengen-passport-rules-family-trips/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="schengen-passport-rules-family-trips/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-organisation">Family Travel</span>
             </div>
@@ -396,7 +392,7 @@
 
           <!-- Your 90-Day Schengen Window: Counting Days in the EES Era - Jul 7, 2026 -->
           <a href="schengen-90-days-auto-tracked-ees/" class="post-card">
-            <img class="post-card-thumb" src="schengen-90-days-auto-tracked-ees/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/schengen-90-days-auto-tracked-ees/cover-480.webp 480w, /blog/schengen-90-days-auto-tracked-ees/cover-800.webp 800w, /blog/schengen-90-days-auto-tracked-ees/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="schengen-90-days-auto-tracked-ees/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-renewal">Visas &amp; Entry</span>
             </div>
@@ -418,7 +414,7 @@
 
           <!-- TripCase Alternative: Why Your Travel Documents Need to Go Offline - Jul 4, 2026 -->
           <a href="tripcase-alternative/" class="post-card">
-            <img class="post-card-thumb" src="tripcase-alternative/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/tripcase-alternative/cover-480.webp 480w, /blog/tripcase-alternative/cover-800.webp 800w, /blog/tripcase-alternative/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="tripcase-alternative/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-organisation">Travel Tools</span>
             </div>
@@ -440,7 +436,7 @@
 
           <!-- The Travel Documents People Forget (and Where to Keep Each One) - Jul 4, 2026 -->
           <a href="what-documents-to-carry-when-travelling-internationally/" class="post-card">
-            <img class="post-card-thumb" src="what-documents-to-carry-when-travelling-internationally/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/what-documents-to-carry-when-travelling-internationally/cover-480.webp 480w, /blog/what-documents-to-carry-when-travelling-internationally/cover-800.webp 800w, /blog/what-documents-to-carry-when-travelling-internationally/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="what-documents-to-carry-when-travelling-internationally/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-organisation">Travel Prep</span>
             </div>
@@ -462,7 +458,7 @@
 
           <!-- Can You Travel with an Expired Passport? UK Rules - Jul 2, 2026 -->
           <a href="travel-expired-passport-uk/" class="post-card">
-            <img class="post-card-thumb" src="travel-expired-passport-uk/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/travel-expired-passport-uk/cover-480.webp 480w, /blog/travel-expired-passport-uk/cover-800.webp 800w, /blog/travel-expired-passport-uk/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="travel-expired-passport-uk/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-renewal">Passport Renewal</span>
             </div>
@@ -484,7 +480,7 @@
 
           <!-- ETIAS 2026: What Documents You Need - May 8, 2026 -->
           <a href="etias-documents-2026/" class="post-card">
-            <img class="post-card-thumb" src="etias-documents-2026/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/etias-documents-2026/cover-480.webp 480w, /blog/etias-documents-2026/cover-800.webp 800w, /blog/etias-documents-2026/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="etias-documents-2026/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-renewal">Visas &amp; Entry</span>
             </div>
@@ -506,7 +502,7 @@
 
           <!-- Child Travel Consent Letter — May 5, 2026 -->
           <a href="child-travel-consent-letter/" class="post-card">
-            <img class="post-card-thumb" src="child-travel-consent-letter/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/child-travel-consent-letter/cover-480.webp 480w, /blog/child-travel-consent-letter/cover-800.webp 800w, /blog/child-travel-consent-letter/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="child-travel-consent-letter/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-organisation">Family Travel</span>
             </div>
@@ -528,7 +524,7 @@
 
           <!-- How Long is a Passport Valid for Travel — Apr 30, 2026 -->
           <a href="how-long-is-passport-valid-for-travel/" class="post-card">
-            <img class="post-card-thumb" src="how-long-is-passport-valid-for-travel/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/how-long-is-passport-valid-for-travel/cover-480.webp 480w, /blog/how-long-is-passport-valid-for-travel/cover-800.webp 800w, /blog/how-long-is-passport-valid-for-travel/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="how-long-is-passport-valid-for-travel/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-passport">Passport Rules</span>
             </div>
@@ -550,7 +546,7 @@
 
           <!-- Safest Way to Store Passport Digitally — Apr 15, 2026 -->
           <a href="safest-way-to-store-passport-digitally/" class="post-card">
-            <img class="post-card-thumb" src="safest-way-to-store-passport-digitally/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/safest-way-to-store-passport-digitally/cover-480.webp 480w, /blog/safest-way-to-store-passport-digitally/cover-800.webp 800w, /blog/safest-way-to-store-passport-digitally/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="safest-way-to-store-passport-digitally/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-privacy">Privacy &amp; Security</span>
             </div>
@@ -572,7 +568,7 @@
 
           <!-- Digital Passport Copy — Apr 4, 2026 -->
           <a href="digital-passport-copy-valid/" class="post-card">
-            <img class="post-card-thumb" src="digital-passport-copy-valid/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/digital-passport-copy-valid/cover-480.webp 480w, /blog/digital-passport-copy-valid/cover-800.webp 800w, /blog/digital-passport-copy-valid/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="digital-passport-copy-valid/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-passport">Passport Rules</span>
             </div>
@@ -594,7 +590,7 @@
 
           <!-- Visa Expiry Tracker App - Mar 21, 2026 -->
           <a href="visa-expiry-tracker-app/" class="post-card">
-            <img class="post-card-thumb" src="visa-expiry-tracker-app/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/visa-expiry-tracker-app/cover-480.webp 480w, /blog/visa-expiry-tracker-app/cover-800.webp 800w, /blog/visa-expiry-tracker-app/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="visa-expiry-tracker-app/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-renewal">Visas &amp; Entry</span>
             </div>
@@ -616,7 +612,7 @@
 
           <!-- Can You Travel While Renewal Pending - Mar 14, 2026 -->
           <a href="travel-while-passport-renewal-pending/" class="post-card">
-            <img class="post-card-thumb" src="travel-while-passport-renewal-pending/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/travel-while-passport-renewal-pending/cover-480.webp 480w, /blog/travel-while-passport-renewal-pending/cover-800.webp 800w, /blog/travel-while-passport-renewal-pending/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="travel-while-passport-renewal-pending/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-renewal">Renewal</span>
             </div>
@@ -638,7 +634,7 @@
 
           <!-- Lost Passport Abroad - Mar 11, 2026 -->
           <a href="lost-passport-abroad/" class="post-card">
-            <img class="post-card-thumb" src="lost-passport-abroad/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/lost-passport-abroad/cover-480.webp 480w, /blog/lost-passport-abroad/cover-800.webp 800w, /blog/lost-passport-abroad/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="lost-passport-abroad/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-organisation">Travel Prep</span>
             </div>
@@ -660,7 +656,7 @@
 
           <!-- Article 1 - Mar 18 (most recent) -->
           <a href="passport-expired-what-to-do/" class="post-card">
-            <img class="post-card-thumb" src="passport-expired-what-to-do/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/passport-expired-what-to-do/cover-480.webp 480w, /blog/passport-expired-what-to-do/cover-800.webp 800w, /blog/passport-expired-what-to-do/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="passport-expired-what-to-do/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-renewal">Renewal</span>
             </div>
@@ -682,7 +678,7 @@
 
           <!-- Best Passport Organizer App - Mar 4, 2026 -->
           <a href="best-passport-organizer-app/" class="post-card">
-            <img class="post-card-thumb" src="best-passport-organizer-app/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/best-passport-organizer-app/cover-480.webp 480w, /blog/best-passport-organizer-app/cover-800.webp 800w, /blog/best-passport-organizer-app/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="best-passport-organizer-app/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-passport">Travel Tools</span>
             </div>
@@ -704,7 +700,7 @@
 
           <!-- Travel Document Checklist - Mar 4, 2026 -->
           <a href="travel-document-checklist/" class="post-card">
-            <img class="post-card-thumb" src="travel-document-checklist/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/travel-document-checklist/cover-480.webp 480w, /blog/travel-document-checklist/cover-800.webp 800w, /blog/travel-document-checklist/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="travel-document-checklist/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-passport">Passport Rules</span>
               <span class="tag-pill tag-organisation">Organisation</span>
@@ -727,7 +723,7 @@
 
           <!-- Article 2 - Feb 15 -->
           <a href="is-it-safe-to-store-passport-in-google-photos/" class="post-card">
-            <img class="post-card-thumb" src="is-it-safe-to-store-passport-in-google-photos/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/is-it-safe-to-store-passport-in-google-photos/cover-480.webp 480w, /blog/is-it-safe-to-store-passport-in-google-photos/cover-800.webp 800w, /blog/is-it-safe-to-store-passport-in-google-photos/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="is-it-safe-to-store-passport-in-google-photos/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-privacy">Privacy</span>
             </div>
@@ -749,7 +745,7 @@
 
           <!-- Article 3 - Feb 10 -->
           <a href="how-long-does-passport-renewal-take/" class="post-card">
-            <img class="post-card-thumb" src="how-long-does-passport-renewal-take/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/how-long-does-passport-renewal-take/cover-480.webp 480w, /blog/how-long-does-passport-renewal-take/cover-800.webp 800w, /blog/how-long-does-passport-renewal-take/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="how-long-does-passport-renewal-take/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-renewal">Renewal</span>
             </div>
@@ -771,7 +767,7 @@
 
           <!-- Article 4 - Feb 5 -->
           <a href="how-to-organise-family-travel-documents/" class="post-card">
-            <img class="post-card-thumb" src="how-to-organise-family-travel-documents/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/how-to-organise-family-travel-documents/cover-480.webp 480w, /blog/how-to-organise-family-travel-documents/cover-800.webp 800w, /blog/how-to-organise-family-travel-documents/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="how-to-organise-family-travel-documents/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-organisation">Organisation</span>
             </div>
@@ -793,7 +789,7 @@
 
           <!-- Article 5 - Feb 1 (oldest) -->
           <a href="passport-expiry-6-month-rule/" class="post-card">
-            <img class="post-card-thumb" src="passport-expiry-6-month-rule/cover.jpg" alt="" loading="lazy" width="1536" height="1024">
+            <picture><source type="image/webp" srcset="/blog/passport-expiry-6-month-rule/cover-480.webp 480w, /blog/passport-expiry-6-month-rule/cover-800.webp 800w, /blog/passport-expiry-6-month-rule/cover-1200.webp 1200w" sizes="(max-width: 640px) 100vw, 400px"><img decoding="async" class="post-card-thumb img-loading" src="passport-expiry-6-month-rule/cover.jpg" alt="" loading="lazy" width="1536" height="1024"></picture>
             <div class="flex items-center gap-2 mb-3">
               <span class="tag-pill tag-passport">Passport Rules</span>
             </div>

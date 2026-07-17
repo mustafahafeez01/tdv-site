@@ -8,6 +8,7 @@
   <!-- SEO metadata-->
   <title>Why I Built Travel Document Vault: For the Parent Who Remembers Everything</title>
   <meta name="description" content="I built Travel Document Vault to replace scattered apps. A specialized, offline vault with AES-256-GCM encryption, a 5-document free tier, and no subscription.">
+  <link rel="preload" as="image" imagesrcset="/blog/why-i-built-travel-document-vault/cover-480.webp 480w, /blog/why-i-built-travel-document-vault/cover-800.webp 800w, /blog/why-i-built-travel-document-vault/cover-1200.webp 1200w" imagesizes="(max-width: 768px) 100vw, 768px" fetchpriority="high">
   <link rel="canonical" href="https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/">
   <link rel="alternate" hreflang="x-default" href="https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/">
   <link rel="alternate" hreflang="en"      href="https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/">
@@ -57,7 +58,7 @@
   "inLanguage": "en",
     "headline": "Why I Built Travel Document Vault: For the Parent Who Remembers Everything",
     "description": "I built Travel Document Vault because I was tired of checking five different apps before every family trip. One app for everyone's documents. Offline. Encrypted. No subscription.",
-    "image": "https://traveldocumentvault.com/assets/images/social-preview.png",
+    "image": "https://traveldocumentvault.com/assets/images/social-preview.jpg",
     "author": {
       "@type": "Person",
       "name": "Mustafa Hafeez"
@@ -114,13 +115,8 @@
   </script>
 
   <!-- Preconnect and Preload for Performance -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preload" href="../../dist/output.css" as="style">
   <link rel="stylesheet" href="../../dist/output.css">
-  
-  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Caveat:wght@400;500;600;700&display=optional" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Caveat:wght@400;500;600;700&display=optional"></noscript>
 
   <style>
     html { scroll-behavior: smooth; }
@@ -264,7 +260,7 @@
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex items-center justify-between h-16">
         <a href="../../" class="flex items-center gap-3 group">
-          <img loading="lazy" src="../../assets/images/app_icon.svg" alt="Travel Document Vault" class="w-8 h-8 group-hover:scale-110 transition-transform duration-300" width="32" height="32" />
+          <img src="../../assets/images/app_icon.svg" alt="Travel Document Vault" class="w-8 h-8 group-hover:scale-110 transition-transform duration-300" width="32" height="32" />
           <span class="font-bold text-white hidden sm:block tracking-tight group-hover:text-blue-100 transition-colors">Travel Document Vault</span>
         </a>
 
@@ -371,7 +367,7 @@
       </header>
 
       <!-- Cover image -->
-      <img src="cover.jpg" alt="A neat stack of a family's passports with a boarding pass tucked in, resting on a deep navy background" width="1536" height="1024" loading="eager" decoding="async" class="w-full rounded-2xl shadow-glass mb-10 animate-fade-in-up">
+      <picture><source type="image/webp" srcset="/blog/why-i-built-travel-document-vault/cover-480.webp 480w, /blog/why-i-built-travel-document-vault/cover-800.webp 800w, /blog/why-i-built-travel-document-vault/cover-1200.webp 1200w" sizes="(max-width: 768px) 100vw, 768px"><img fetchpriority="high" src="cover.jpg" alt="A neat stack of a family's passports with a boarding pass tucked in, resting on a deep navy background" width="1536" height="1024" loading="eager" decoding="async" class="w-full rounded-2xl shadow-glass mb-10 animate-fade-in-up img-loading"></picture>
 
       <!-- Content Container -->
       <div class="glass-panel rounded-2xl shadow-glass p-6 sm:p-12 animate-fade-in-up opacity-0">
@@ -472,7 +468,7 @@
           </p>
 
           <figure class="my-10">
-            <img src="scattered-to-single-vault.jpg" alt="Hand-drawn diagram of five scattered apps - photos, cloud, notes, email, calendar - converging into one vault, which gives back expiry reminders, encryption and offline access: one app instead of five" width="1672" height="941" loading="lazy" decoding="async" class="w-full rounded-2xl">
+            <picture><source type="image/webp" srcset="/blog/why-i-built-travel-document-vault/scattered-to-single-vault-480.webp 480w, /blog/why-i-built-travel-document-vault/scattered-to-single-vault-800.webp 800w, /blog/why-i-built-travel-document-vault/scattered-to-single-vault-1200.webp 1200w" sizes="(max-width: 768px) 100vw, 672px"><img src="scattered-to-single-vault.jpg" alt="Hand-drawn diagram of five scattered apps - photos, cloud, notes, email, calendar - converging into one vault, which gives back expiry reminders, encryption and offline access: one app instead of five" width="1672" height="941" loading="lazy" decoding="async" class="w-full rounded-2xl img-loading"></picture>
             <figcaption class="text-center text-xs text-blue-200/50 mt-3">What the 11pm check used to involve - and what it involves now.</figcaption>
           </figure>
 
