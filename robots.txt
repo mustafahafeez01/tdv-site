@@ -93,7 +93,4 @@ Disallow: /vi/
 Disallow: /ar/
 Disallow: /zh-Hant/
 
-# LLM discovery
-LLMs: https://traveldocumentvault.com/llms.txt
-
 Sitemap: https://traveldocumentvault.com/sitemap.xml
