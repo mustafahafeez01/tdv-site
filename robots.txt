@@ -1,9 +1,21 @@
+# AI crawlers are intentionally allowed by the wildcard group below - both the
+# training crawlers (GPTBot, ClaudeBot, PerplexityBot, Google-Extended) and the
+# retrieval crawlers that surface us in chat answers (OAI-SearchBot,
+# Claude-SearchBot, Claude-User, ChatGPT-User). Do not add per-bot groups unless
+# a bot genuinely needs DIFFERENT rules: a crawler matching a named group
+# ignores the wildcard group entirely, so a named group that omits the
+# Disallow lines below would silently expose the non-live languages.
+#
+# Keep every line of the group contiguous - no blank lines between User-agent
+# and the last Disallow. Google ignores blank lines, but stricter parsers treat
+# one as the end of the record and drop every rule after it. Keep the Disallow
+# lines BEFORE "Allow: /" for the same reason: Google resolves conflicts by
+# longest path, but first-match parsers would let a leading "Allow: /" win.
+#
+# The Disallow lines block non-live language directories (pending full audit +
+# user approval). These pages exist on disk but are not in the lang-picker or
+# sitemap. Remove a language's Disallow line once it passes audit and goes live.
 User-agent: *
-Allow: /
-
-# Block non-live language directories (pending full audit + user approval)
-# These pages exist on disk but are not in the lang-picker or sitemap.
-# Remove the Disallow line for a language once it passes audit and goes live.
 Disallow: /no/
 Disallow: /fi/
 Disallow: /tr/
@@ -11,86 +23,6 @@ Disallow: /pl/
 Disallow: /vi/
 Disallow: /ar/
 Disallow: /zh-Hant/
-
-# LLM / AI crawlers — explicitly allowed
-User-agent: GPTBot
 Allow: /
-Disallow: /no/
-Disallow: /fi/
-Disallow: /tr/
-Disallow: /pl/
-Disallow: /vi/
-Disallow: /ar/
-Disallow: /zh-Hant/
-
-User-agent: ChatGPT-User
-Allow: /
-Disallow: /no/
-Disallow: /fi/
-Disallow: /tr/
-Disallow: /pl/
-Disallow: /vi/
-Disallow: /ar/
-Disallow: /zh-Hant/
-
-User-agent: ClaudeBot
-Allow: /
-Disallow: /no/
-Disallow: /fi/
-Disallow: /tr/
-Disallow: /pl/
-Disallow: /vi/
-Disallow: /ar/
-Disallow: /zh-Hant/
-
-User-agent: Claude-Web
-Allow: /
-Disallow: /no/
-Disallow: /fi/
-Disallow: /tr/
-Disallow: /pl/
-Disallow: /vi/
-Disallow: /ar/
-Disallow: /zh-Hant/
-
-User-agent: PerplexityBot
-Allow: /
-Disallow: /no/
-Disallow: /fi/
-Disallow: /tr/
-Disallow: /pl/
-Disallow: /vi/
-Disallow: /ar/
-Disallow: /zh-Hant/
-
-User-agent: Googlebot
-Allow: /
-Disallow: /no/
-Disallow: /fi/
-Disallow: /tr/
-Disallow: /pl/
-Disallow: /vi/
-Disallow: /ar/
-Disallow: /zh-Hant/
-
-User-agent: anthropic-ai
-Allow: /
-Disallow: /no/
-Disallow: /fi/
-Disallow: /tr/
-Disallow: /pl/
-Disallow: /vi/
-Disallow: /ar/
-Disallow: /zh-Hant/
-
-User-agent: cohere-ai
-Allow: /
-Disallow: /no/
-Disallow: /fi/
-Disallow: /tr/
-Disallow: /pl/
-Disallow: /vi/
-Disallow: /ar/
-Disallow: /zh-Hant/
 
 Sitemap: https://traveldocumentvault.com/sitemap.xml
