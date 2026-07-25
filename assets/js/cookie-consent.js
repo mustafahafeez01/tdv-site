@@ -226,4 +226,21 @@
             setTimeout(() => banner.remove(), 500);
         });
     }
+
+    // GDPR Article 7(3): withdrawing consent has to be as easy as giving it.
+    // Giving it is one click, so withdrawing is one click too - the footer
+    // link clears the stored choice and puts the banner back.
+    window.tdvCookieSettings = function () {
+        localStorage.removeItem(CONSENT_KEY);
+        var existing = document.getElementById('cookie-banner');
+        if (existing) { existing.remove(); }
+        showConsentBanner();
+    };
+
+    document.addEventListener('click', function (e) {
+        var trigger = e.target.closest ? e.target.closest('[data-cookie-settings]') : null;
+        if (!trigger) { return; }
+        e.preventDefault();
+        window.tdvCookieSettings();
+    });
 })();
