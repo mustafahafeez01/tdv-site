@@ -460,15 +460,23 @@
 
     updateDesktopButton(currentLang);
 
-    // Only show languages that have a translated homepage live
-    getLiveLanguages(function (liveLanguages) {
-      dropdown.innerHTML = '';
-      liveLanguages.forEach(function (lang) {
-        dropdown.appendChild(buildDropdownItem(lang, currentLang));
+    // Populated on first open, not on load. Probing every locale up front cost
+    // 15 HEAD requests per picker before the hero had finished painting.
+    var populated = false;
+    function populate() {
+      if (populated) { return; }
+      populated = true;
+      getLiveLanguages(function (liveLanguages) {
+        dropdown.innerHTML = '';
+        liveLanguages.forEach(function (lang) {
+          dropdown.appendChild(buildDropdownItem(lang, currentLang));
+        });
+        positionDropdown(btn, dropdown);
       });
-    });
+    }
 
     function openDropdown() {
+      populate();
       positionDropdown(btn, dropdown);
       dropdown.style.display = 'block';
       btn.setAttribute('aria-expanded', 'true');
@@ -521,13 +529,27 @@
   function initMobilePicker(currentLang) {
     var container = document.getElementById('lang-mobile-list');
     if (!container) { return; }
-    // Only show languages that have a translated homepage live
-    getLiveLanguages(function (liveLanguages) {
-      container.innerHTML = '';
-      liveLanguages.forEach(function (lang) {
-        container.appendChild(buildMobileItem(lang, currentLang));
+
+    // Same deferral as the desktop picker: the list is built the first time the
+    // mobile menu is opened, so page load costs no locale probes at all.
+    var populated = false;
+    function populate() {
+      if (populated) { return; }
+      populated = true;
+      getLiveLanguages(function (liveLanguages) {
+        container.innerHTML = '';
+        liveLanguages.forEach(function (lang) {
+          container.appendChild(buildMobileItem(lang, currentLang));
+        });
       });
-    });
+    }
+
+    var menuButton = document.getElementById('mobile-menu-button');
+    if (menuButton) {
+      menuButton.addEventListener('click', populate, { once: true });
+    } else {
+      populate();
+    }
   }
 
   /**
