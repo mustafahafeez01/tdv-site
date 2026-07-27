@@ -28,6 +28,7 @@
 
 ## Blog posts (full text, LLM-friendly)
 
+- [Can You Travel with a Damaged Passport?](https://traveldocumentvault.com/blog/damaged-passport-travel/)
 - [Family Passport Management: Store Multiple Passports Safely](https://traveldocumentvault.com/blog/family-passport-management/)
 - [Best Passport Organizer App: A Practical Guide](https://traveldocumentvault.com/blog/best-passport-organizer-app/)
 - [Can You Travel with an Expired Passport? UK Rules](https://traveldocumentvault.com/blog/travel-expired-passport-uk/)
