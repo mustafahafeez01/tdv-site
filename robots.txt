@@ -3,26 +3,30 @@
 # retrieval crawlers that surface us in chat answers (OAI-SearchBot,
 # Claude-SearchBot, Claude-User, ChatGPT-User). Do not add per-bot groups unless
 # a bot genuinely needs DIFFERENT rules: a crawler matching a named group
-# ignores the wildcard group entirely, so a named group that omits the
-# Disallow lines below would silently expose the non-live languages.
+# ignores the wildcard group entirely, so a named group that omits any future
+# rule would silently apply looser access than intended.
 #
-# Keep every line of the group contiguous - no blank lines between User-agent
-# and the last Disallow. Google ignores blank lines, but stricter parsers treat
-# one as the end of the record and drop every rule after it. Keep the Disallow
-# lines BEFORE "Allow: /" for the same reason: Google resolves conflicts by
+# Keep every line of a group contiguous - no blank lines between User-agent and
+# the last rule. Google ignores blank lines, but stricter parsers treat one as
+# the end of the record and drop every rule after it. Any Disallow added later
+# must sit BEFORE "Allow: /" for the same reason: Google resolves conflicts by
 # longest path, but first-match parsers would let a leading "Allow: /" win.
 #
-# The Disallow lines block non-live language directories (pending full audit +
-# user approval). These pages exist on disk but are not in the lang-picker or
-# sitemap. Remove a language's Disallow line once it passes audit and goes live.
+# This file used to Disallow the non-live language directories: no, fi, tr, pl,
+# vi, ar, zh-Hant. Removed 2026-07-28 because the block was achieving the
+# opposite of its purpose. None of those directories is deployed - LIVE_LANGS in
+# .github/workflows/deploy.yml is the gate, and every one of those paths already
+# returns 404. A Disallow stops Google fetching the URL at all, so it never sees
+# the 404 and cannot drop the page; Search Console was reporting 4 URLs as
+# "Indexed, though blocked by robots.txt", indexed as bare URLs with no content
+# and 404ing for anyone who clicked. Deindexing REQUIRES the crawl. Letting
+# Google fetch these paths, get a 404 and forget them is what the block was
+# meant to accomplish.
+#
+# So: do not re-add Disallow lines for undeployed directories. The deploy gate
+# already keeps them off the site. Disallow is for paths that exist and serve
+# content you want left alone - not for paths that are absent.
 User-agent: *
-Disallow: /no/
-Disallow: /fi/
-Disallow: /tr/
-Disallow: /pl/
-Disallow: /vi/
-Disallow: /ar/
-Disallow: /zh-Hant/
 Allow: /
 
 Sitemap: https://traveldocumentvault.com/sitemap.xml
