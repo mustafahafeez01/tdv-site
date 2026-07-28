@@ -60,20 +60,21 @@
       return;
     }
 
-    // All six start together, the first time the reader comes within 300px of
-    // the track. Fetching them one panel at a time is what made a fast scroll
-    // arrive on blank frames: measured at 390x844, a single 500px flick had
-    // requested one of six, and 200ms after landing on the story only two of
-    // six had decoded. Started together at the first sign of intent, all six
-    // are decoded on arrival, and they total 181KB, so there is nothing to
-    // stagger for.
+    // All six start together on the reader's very first scroll, wherever on the
+    // page that happens. Nothing loads while the page sits still, so a visitor
+    // who never scrolls pays nothing, but the moment they show any intention of
+    // going down the page the whole set is already on the wire.
     //
-    // 300px, not a viewport-relative margin. The track begins around 1327px
-    // down on a 390x844 handset, leaving roughly 480px below the fold: any
-    // margin wider than that fires while the page is still at rest, which is
-    // the initial-load cost this whole approach exists to avoid. 300px clears
-    // the fold but still needs a real scroll, and a scroll is the only thing
-    // that leads here.
+    // Proximity alone was not enough, and briefly made things worse. A 300px
+    // margin around the track only fires a few hundred pixels before the story,
+    // which is later than Chrome's own lazy heuristic would have started - it
+    // widens its threshold to as much as 2500px when the connection looks slow,
+    // exactly when the head start matters most. Trading that for a tighter
+    // trigger meant the handsets arrived later on a slow link than before any of
+    // this. First scroll fires far earlier than either, and still never at rest.
+    //
+    // The observer stays as a backstop for arriving already deep in the page,
+    // via an anchor or a restored scroll position, where no scroll event fires.
     if (phones.length) {
       var warm = new IntersectionObserver(function (entries) {
         if (!entries.some(function (e) { return e.isIntersecting; })) return;
@@ -81,6 +82,12 @@
         warm.disconnect();
       }, { rootMargin: '300px 0px 300px 0px', threshold: 0 });
       warm.observe(track);
+
+      window.addEventListener('scroll', function onFirstScroll() {
+        loadPhones();
+        warm.disconnect();
+        window.removeEventListener('scroll', onFirstScroll);
+      }, { passive: true });
     }
 
     // Reveal each stop as the aircraft draws level with it, once. The plane
