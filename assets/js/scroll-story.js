@@ -20,7 +20,32 @@
     var stops = Array.prototype.slice.call(track.querySelectorAll('.story-stop'));
     if (!stops.length) return;
 
+    // The six handsets carry their source in data-src, not src, and this is
+    // the only thing that puts it back. Nothing here loads on its own.
+    //
+    // loading="lazy" was not enough. Chrome widens its own lazy threshold when
+    // the connection looks slow, and under Lighthouse's throttling that pulled
+    // three of the six into the initial load: 97KiB of below-the-fold imagery
+    // competing with the stylesheet and the font, which held first paint at
+    // 2.3s and Speed Index at 3.8s. A threshold the browser picks cannot be
+    // argued with, so the src is simply withheld until we want it.
+    //
+    // Costs nothing that was not already lost: .story-stop starts at opacity 0
+    // and only this file ever clears it, so with scripting off the story was
+    // never visible and these images were never seen.
+    var phones = Array.prototype.slice.call(track.querySelectorAll('img.story-phone[data-src]'));
+    function loadPhones() {
+      phones.forEach(function (img) {
+        if (img.dataset.src) {
+          img.src = img.dataset.src;
+          delete img.dataset.src;
+        }
+      });
+    }
+
     if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      // This branch reveals every stop at once, so the handsets are wanted now.
+      loadPhones();
       track.classList.add('is-underway', 'is-landed');
       track.style.setProperty('--story-fill', '1');
       track.style.setProperty('--story-progress', '1');
@@ -35,27 +60,24 @@
       return;
     }
 
-    // The six handsets ship as loading="lazy", which keeps them off the
-    // critical path for readers who never scroll this far. The cost is that
-    // the browser only begins fetching once an image is nearly on screen, so
-    // a fast flick outruns the loader and the panels arrive blank. Warming
-    // them all at the first sign the reader is heading this way gives the
-    // fetch a long head start. Flipping loading to eager is spec'd to start
-    // the load.
+    // All six start together, the first time the reader comes within 300px of
+    // the track. Fetching them one panel at a time is what made a fast scroll
+    // arrive on blank frames: measured at 390x844, a single 500px flick had
+    // requested one of six, and 200ms after landing on the story only two of
+    // six had decoded. Started together at the first sign of intent, all six
+    // are decoded on arrival, and they total 181KB, so there is nothing to
+    // stagger for.
     //
     // 300px, not a viewport-relative margin. The track begins around 1327px
-    // down on a 390x844 handset, so the gap below the fold is roughly 480px:
-    // anything wider than that fires while the page is still at rest, which
-    // pulls all six into the initial load and shows up in Lighthouse as
-    // transfer the visitor never asked for. 300px clears the fold but needs a
-    // real scroll to trigger, and a scroll is the only thing that leads here.
-    var phones = Array.prototype.slice.call(track.querySelectorAll('img.story-phone'));
+    // down on a 390x844 handset, leaving roughly 480px below the fold: any
+    // margin wider than that fires while the page is still at rest, which is
+    // the initial-load cost this whole approach exists to avoid. 300px clears
+    // the fold but still needs a real scroll, and a scroll is the only thing
+    // that leads here.
     if (phones.length) {
       var warm = new IntersectionObserver(function (entries) {
         if (!entries.some(function (e) { return e.isIntersecting; })) return;
-        phones.forEach(function (img) {
-          if (img.loading === 'lazy') img.loading = 'eager';
-        });
+        loadPhones();
         warm.disconnect();
       }, { rootMargin: '300px 0px 300px 0px', threshold: 0 });
       warm.observe(track);
