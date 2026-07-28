@@ -20,32 +20,7 @@
     var stops = Array.prototype.slice.call(track.querySelectorAll('.story-stop'));
     if (!stops.length) return;
 
-    // The six handsets carry their source in data-src, not src, and this is
-    // the only thing that puts it back. Nothing here loads on its own.
-    //
-    // loading="lazy" was not enough. Chrome widens its own lazy threshold when
-    // the connection looks slow, and under Lighthouse's throttling that pulled
-    // three of the six into the initial load: 97KiB of below-the-fold imagery
-    // competing with the stylesheet and the font, which held first paint at
-    // 2.3s and Speed Index at 3.8s. A threshold the browser picks cannot be
-    // argued with, so the src is simply withheld until we want it.
-    //
-    // Costs nothing that was not already lost: .story-stop starts at opacity 0
-    // and only this file ever clears it, so with scripting off the story was
-    // never visible and these images were never seen.
-    var phones = Array.prototype.slice.call(track.querySelectorAll('img.story-phone[data-src]'));
-    function loadPhones() {
-      phones.forEach(function (img) {
-        if (img.dataset.src) {
-          img.src = img.dataset.src;
-          delete img.dataset.src;
-        }
-      });
-    }
-
     if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-      // This branch reveals every stop at once, so the handsets are wanted now.
-      loadPhones();
       track.classList.add('is-underway', 'is-landed');
       track.style.setProperty('--story-fill', '1');
       track.style.setProperty('--story-progress', '1');
@@ -58,36 +33,6 @@
         if (v) v.textContent = '10:00';
       }
       return;
-    }
-
-    // All six start together on the reader's very first scroll, wherever on the
-    // page that happens. Nothing loads while the page sits still, so a visitor
-    // who never scrolls pays nothing, but the moment they show any intention of
-    // going down the page the whole set is already on the wire.
-    //
-    // Proximity alone was not enough, and briefly made things worse. A 300px
-    // margin around the track only fires a few hundred pixels before the story,
-    // which is later than Chrome's own lazy heuristic would have started - it
-    // widens its threshold to as much as 2500px when the connection looks slow,
-    // exactly when the head start matters most. Trading that for a tighter
-    // trigger meant the handsets arrived later on a slow link than before any of
-    // this. First scroll fires far earlier than either, and still never at rest.
-    //
-    // The observer stays as a backstop for arriving already deep in the page,
-    // via an anchor or a restored scroll position, where no scroll event fires.
-    if (phones.length) {
-      var warm = new IntersectionObserver(function (entries) {
-        if (!entries.some(function (e) { return e.isIntersecting; })) return;
-        loadPhones();
-        warm.disconnect();
-      }, { rootMargin: '300px 0px 300px 0px', threshold: 0 });
-      warm.observe(track);
-
-      window.addEventListener('scroll', function onFirstScroll() {
-        loadPhones();
-        warm.disconnect();
-        window.removeEventListener('scroll', onFirstScroll);
-      }, { passive: true });
     }
 
     // Reveal each stop as the aircraft draws level with it, once. The plane
