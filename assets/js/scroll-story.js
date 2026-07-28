@@ -35,6 +35,32 @@
       return;
     }
 
+    // The six handsets ship as loading="lazy", which keeps them off the
+    // critical path for readers who never scroll this far. The cost is that
+    // the browser only begins fetching once an image is nearly on screen, so
+    // a fast flick outruns the loader and the panels arrive blank. Warming
+    // them all at the first sign the reader is heading this way gives the
+    // fetch a long head start. Flipping loading to eager is spec'd to start
+    // the load.
+    //
+    // 300px, not a viewport-relative margin. The track begins around 1327px
+    // down on a 390x844 handset, so the gap below the fold is roughly 480px:
+    // anything wider than that fires while the page is still at rest, which
+    // pulls all six into the initial load and shows up in Lighthouse as
+    // transfer the visitor never asked for. 300px clears the fold but needs a
+    // real scroll to trigger, and a scroll is the only thing that leads here.
+    var phones = Array.prototype.slice.call(track.querySelectorAll('img.story-phone'));
+    if (phones.length) {
+      var warm = new IntersectionObserver(function (entries) {
+        if (!entries.some(function (e) { return e.isIntersecting; })) return;
+        phones.forEach(function (img) {
+          if (img.loading === 'lazy') img.loading = 'eager';
+        });
+        warm.disconnect();
+      }, { rootMargin: '300px 0px 300px 0px', threshold: 0 });
+      warm.observe(track);
+    }
+
     // Reveal each stop as the aircraft draws level with it, once. The plane
     // is sticky at 38dvh (.story-plane in input.css), so the trigger line
     // sits 62% up from the bottom of the viewport: 62 = 100 - 38, and if the
