@@ -35,7 +35,15 @@
       return;
     }
 
-    // Reveal each stop as it enters, once.
+    // Reveal each stop as the aircraft draws level with it, once. The plane
+    // is sticky at 38dvh (.story-plane in input.css), so the trigger line
+    // sits 62% up from the bottom of the viewport: 62 = 100 - 38, and if the
+    // sticky offset ever moves this margin moves with it. The old -8% margin
+    // finished the reveal half a screen ahead of the aircraft, which made
+    // the plane read as trailing the reader rather than leading them.
+    // Still one-shot on purpose - a reveal scrubbed against scroll keeps
+    // readers rocking back and forth trying to line the copy up with the
+    // graphic; revealed once, a panel settles and stays.
     var reveal = new IntersectionObserver(function (entries) {
       entries.forEach(function (entry) {
         if (!entry.isIntersecting) return;
@@ -45,20 +53,29 @@
       // Threshold 0 on purpose. A stop is a tall element - a board panel plus a
       // handset - so any fraction-of-the-element threshold fires late on mobile,
       // leaving copy sitting half-faded in the middle of the screen.
-    }, { rootMargin: '0px 0px -8% 0px', threshold: 0 });
+    }, { rootMargin: '0px 0px -62% 0px', threshold: 0 });
 
     stops.forEach(function (stop) {
       var rect = stop.getBoundingClientRect();
-      if (rect.top < window.innerHeight && rect.bottom > 0) {
+      // Arriving mid-story - an anchor, a restored scroll position - anything
+      // already behind the aircraft's line shows at once. Everything below it
+      // waits for the plane.
+      if (rect.top < window.innerHeight * 0.38 && rect.bottom > 0) {
         stop.classList.add('is-visible');
       } else {
         reveal.observe(stop);
       }
     });
 
-    var lastY = window.scrollY;
-    var goingBack = false;
-    var turnRun = 0;
+    // Resolved once. These elements never change, and querying them from the
+    // frame handler cost a tree walk per stop on every frame.
+    var dots = stops.map(function (stop) {
+      return stop.querySelector('.story-dot') || stop;
+    });
+    var signs = stops.map(function (stop) {
+      return stop.querySelector('.story-sign');
+    });
+
     var timer = document.querySelector('.story-timer');
     var timerValue = timer && timer.querySelector('.story-timer-value');
     var shownSeconds = -1;
@@ -69,9 +86,10 @@
     function update() {
       ticking = false;
 
-      // Read everything first. Writing a style and then reading a rect in the
-      // same frame forces a synchronous layout, which is what makes a
-      // scroll handler feel heavy even when the frame budget looks fine.
+      // Read everything first, then write everything. Interleaving the two -
+      // toggling a class, then measuring the next rect - forces a synchronous
+      // layout per element, which is what makes a scroll handler feel heavy
+      // even when the frame budget looks fine.
       var rect = track.getBoundingClientRect();
       var laneRect = lane ? lane.getBoundingClientRect() : rect;
 
@@ -79,22 +97,24 @@
       // way. The glyph's wings span 0.333 to 0.625 of its box, so 0.62 puts the
       // edge tangent to the wing: the aircraft always sits on lit tarmac with
       // the dark starting at its leading edge, and the edge never cuts across
-      // the span. Flipping this value with direction left the tail stranded on
-      // dark tarmac going down.
+      // the span.
       var wingEdge = 0.62;
       var marker = window.innerHeight / 2;
       var planeH = 0;
+      var planeRect = null;
       if (plane) {
-        var pr = plane.getBoundingClientRect();
-        if (pr.height) {
-          planeH = pr.height;
-          marker = pr.top + planeH * wingEdge;
+        planeRect = plane.getBoundingClientRect();
+        if (planeRect.height) {
+          planeH = planeRect.height;
+          marker = planeRect.top + planeH * wingEdge;
         }
       }
 
-      var tops = stops.map(function (stop) {
-        var dot = stop.querySelector('.story-dot');
-        return (dot || stop).getBoundingClientRect().top;
+      var tops = dots.map(function (dot) {
+        return dot.getBoundingClientRect().top;
+      });
+      var signRects = signs.map(function (sign) {
+        return sign ? sign.getBoundingClientRect() : null;
       });
 
       // Two different quantities, and conflating them is what put the clock at
@@ -113,28 +133,14 @@
         : fill;
       progress = Math.max(0, Math.min(1, progress));
 
-      // Direction of travel. The aircraft turns to face the way the reader
-      // is going, so scrolling back up reads as flying back up the runway.
-      // Direction of travel, with hysteresis. The lit column swaps sides the
-      // instant this flips, so a 2px threshold turned every trackpad wobble
-      // into a full repaint on the wrong side of the wing.
-      var y = window.scrollY;
-      var delta = y - lastY;
-      if (Math.abs(delta) > 2) {
-        var wantBack = delta < 0;
-        if (wantBack !== goingBack) {
-          turnRun += Math.abs(delta);
-          if (turnRun > 32) {
-            goingBack = wantBack;
-            turnRun = 0;
-            if (plane) plane.classList.toggle('is-reverse', goingBack);
-            track.classList.toggle('is-reverse', goingBack);
-          }
-        } else {
-          turnRun = 0;
-        }
-        lastY = y;
-      }
+      // The aircraft no longer turns to face an upward scroll. Scrolling back
+      // a few lines to re-read is reading, not a change of journey, and
+      // answering it with a 180 flip plus the lit edge swapped to the far
+      // side of the wing punished the one behaviour a story should invite.
+      // No accumulation threshold saves it either: any threshold small enough
+      // to catch a real return trip still fires on a two-panel re-read.
+      // Rolling back now rewinds the scene the way footage rewinds - the same
+      // picture, run backwards, never mirrored.
 
       // Now write.
       track.style.setProperty('--story-fill', fill.toFixed(4));
@@ -199,15 +205,19 @@
         }
       }
 
-      var pr2 = plane ? plane.getBoundingClientRect() : null;
       stops.forEach(function (stop, i) {
-        stop.classList.toggle('is-passed', tops[i] <= marker);
-        if (!pr2) return;
-        var sign = stop.querySelector('.story-sign');
-        if (!sign) return;
-        var sr = sign.getBoundingClientRect();
+        var passed = tops[i] <= marker;
+        stop.classList.toggle('is-passed', passed);
+        // Backstop for the reveal. The observer is one-shot, and a
+        // same-document jump can carry a stop from below its line to above it
+        // without ever intersecting, which would leave a blank panel above
+        // the aircraft for good. Anything the aircraft has passed is by
+        // definition revealed.
+        if (passed) stop.classList.add('is-visible');
+        var sr = signRects[i];
+        if (!planeRect || !sr) return;
         stop.classList.toggle('is-under-plane',
-          sr.bottom > pr2.top && sr.top < pr2.bottom);
+          sr.bottom > planeRect.top && sr.top < planeRect.bottom);
       });
 
       var landed = progress >= 0.999;
