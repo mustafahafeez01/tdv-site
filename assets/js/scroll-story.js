@@ -141,11 +141,11 @@
       // trackpad noise into a spinning glyph: 2px is the noise floor, and the
       // heading only commits once 32px have accumulated against it.
       //
-      // Only the aircraft turns. This used to swap the lit edge to the far
-      // side of the wing at the same moment, and that pairing was what made
-      // scrolling back to re-read feel punished - the whole runway restaged
-      // itself for two lines of re-reading. The runway now holds its lighting
-      // whichever way the reader moves; just the nose comes round.
+      // The lit tarmac reverses with the aircraft: it marks what has already
+      // been covered, so on the way back up it belongs on the other side of
+      // the wing. This pairing was removed once for restaging the runway
+      // during a short re-read - the hysteresis above is what makes it
+      // tolerable, since nothing under 32px of sustained travel moves it.
       var y = window.scrollY;
       var delta = y - lastY;
       if (Math.abs(delta) > 2) {
@@ -167,6 +167,7 @@
       track.style.setProperty('--story-progress', progress.toFixed(4));
       track.classList.toggle('is-underway', fill > 0);
       if (plane) plane.classList.toggle('is-reverse', goingBack);
+      track.classList.toggle('is-reverse', goingBack);
 
       // Ten minutes, counted off across the length of the runway. Written only
       // when the displayed value actually changes, not on every frame.
