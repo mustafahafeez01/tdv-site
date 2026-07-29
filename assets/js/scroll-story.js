@@ -82,6 +82,9 @@
     var holdingFinish = false;
     var retireTimer = null;
     var ticking = false;
+    var lastY = window.scrollY;
+    var goingBack = false;
+    var turnRun = 0;
 
     function update() {
       ticking = false;
@@ -133,19 +136,37 @@
         : fill;
       progress = Math.max(0, Math.min(1, progress));
 
-      // The aircraft no longer turns to face an upward scroll. Scrolling back
-      // a few lines to re-read is reading, not a change of journey, and
-      // answering it with a 180 flip plus the lit edge swapped to the far
-      // side of the wing punished the one behaviour a story should invite.
-      // No accumulation threshold saves it either: any threshold small enough
-      // to catch a real return trip still fires on a two-panel re-read.
-      // Rolling back now rewinds the scene the way footage rewinds - the same
-      // picture, run backwards, never mirrored.
+      // Direction of travel, with hysteresis. The aircraft turns to face the
+      // way the reader is going, so a bare sign flip on every frame turned
+      // trackpad noise into a spinning glyph: 2px is the noise floor, and the
+      // heading only commits once 32px have accumulated against it.
+      //
+      // Only the aircraft turns. This used to swap the lit edge to the far
+      // side of the wing at the same moment, and that pairing was what made
+      // scrolling back to re-read feel punished - the whole runway restaged
+      // itself for two lines of re-reading. The runway now holds its lighting
+      // whichever way the reader moves; just the nose comes round.
+      var y = window.scrollY;
+      var delta = y - lastY;
+      if (Math.abs(delta) > 2) {
+        var wantBack = delta < 0;
+        if (wantBack !== goingBack) {
+          turnRun += Math.abs(delta);
+          if (turnRun > 32) {
+            goingBack = wantBack;
+            turnRun = 0;
+          }
+        } else {
+          turnRun = 0;
+        }
+        lastY = y;
+      }
 
       // Now write.
       track.style.setProperty('--story-fill', fill.toFixed(4));
       track.style.setProperty('--story-progress', progress.toFixed(4));
       track.classList.toggle('is-underway', fill > 0);
+      if (plane) plane.classList.toggle('is-reverse', goingBack);
 
       // Ten minutes, counted off across the length of the runway. Written only
       // when the displayed value actually changes, not on every frame.
@@ -225,7 +246,36 @@
       track.classList.toggle('is-landed', landed);
     }
 
+    // Warm every handset on the first scroll, so a panel never fades in around
+    // an image that has not arrived. A slow reader is the case that exposes it:
+    // the reveal is timed to the aircraft, and lazy loading starts a fetch only
+    // once the image is nearly in view, so the panel can finish its fade with
+    // the handset still blank.
+    //
+    // Deliberately a separate Image() rather than touching the markup. The six
+    // handsets keep their real src and loading="lazy", so the browser's own
+    // heuristic still runs and this can only ever start a fetch EARLIER, never
+    // later - which is exactly how the data-src version of this regressed, by
+    // withholding the URL until script ran and losing to Chrome's own timing on
+    // a slow connection. Warming into the HTTP cache has no such downside: if
+    // the fetch has not finished by the time the lazy image enters view, the
+    // browser simply carries on with the request already in flight.
+    var warmed = false;
+    function warmHandsets() {
+      if (warmed) return;
+      warmed = true;
+      var shots = track.querySelectorAll('img.story-phone');
+      for (var i = 0; i < shots.length; i++) {
+        var src = shots[i].currentSrc || shots[i].getAttribute('src');
+        if (!src) continue;
+        var pre = new Image();
+        pre.decoding = 'async';
+        pre.src = src;
+      }
+    }
+
     function onScroll() {
+      warmHandsets();
       if (ticking) return;
       ticking = true;
       window.requestAnimationFrame(update);
