@@ -20,7 +20,7 @@ Alles wat u moet weten over Travel Document Vault.
 
 Kan de ontwikkelaar mijn documenten zien?
 
-Nee. Uw documenten worden op uw apparaat opgeslagen en verlaten het nooit. Er is geen accountsysteem, geen clouddatabase en geen server die documentgegevens ontvangt. De architectuur is vanaf het begin op deze manier gebouwd, niet later als functie toegevoegd.
+Nee. Wij hebben geen servers en geen accounts. Uw documenten worden standaard op uw apparaat bewaard. Als u de optionele Pro-cloudback-up inschakelt, wordt uw kluis op het apparaat end-to-end versleuteld voordat hij naar uw eigen iCloud (iOS) of uw eigen Google Drive (Android) gaat, verzegeld met een herstelcode die alleen u heeft. Wij ontvangen uw gegevens nooit en kunnen de versleutelde back-up niet lezen. Apple en Google evenmin. De architectuur is vanaf het begin zo gebouwd.
 
 Wat verzamelt Sentry-crashrapportage en kan ik het uitschakelen?
 
@@ -28,7 +28,7 @@ Sentry is een crashrapportagetool die ons helpt bugs te vinden en te repareren. 
 
 Wat bevat de Pro-upgrade van $9.99?
 
-Pro is een **eenmalige aankoop** waarmee u onbeperkte profielen, onbeperkte documenten, gecombineerde PDF-export, versleutelde cloudback-up en aangepaste herinneringstiming kunt ontgrendelen. U betaalt eenmaal - geen abonnement, geen terugkerende kosten en geen proefperiode die stilletjes begint met factureren.
+Pro is een eenmalige aankoop die onbeperkte profielen, onbeperkte documenten, gecombineerde PDF-export, versleutelde cloudback-up naar iCloud of Google Drive en aangepaste herinneringstijden ontgrendelt. U betaalt één keer - geen abonnement, geen terugkerende kosten en geen proefperiode die stilletjes begint af te schrijven.
 
 Zijn toekomstige updates inbegrepen bij mijn aankoop?
 
@@ -40,7 +40,7 @@ Omdat we uw gegevens niet opslaan, kunnen we deze voor u niet herstellen. Systee
 
 Werkt de app zonder internetverbinding?
 
-Ja, volledig. De app heeft geen server en heeft geen internet nodig om te functioneren. Scannen, bekijken, exporteren en herinneringen werken allemaal offline. De enige functie waarvoor een verbinding nodig is, is het herstellen van uw Pro-aankoop op een nieuw apparaat via de App Store of Google Play.
+Ja, volledig. De app zelf heeft geen server en heeft geen internet nodig om te werken. Scannen, bekijken, exporteren en herinneringen werken allemaal offline. Slechts twee dingen hebben verbinding nodig: het herstellen van uw Pro-aankoop op een nieuw apparaat via de App Store of Google Play, en de optionele back-up naar uw eigen cloud, die uw eigen iCloud- of Google Drive-account gebruikt.
 
 Welke talen ondersteunt de app?
 
@@ -52,7 +52,7 @@ Uw documenten bevinden zich op uw apparaat, niet op onze servers, dus ze verdwij
 
 Wie heeft deze app gebouwd en waarom is het privacy-first?
 
-Travel Document Vault is gebouwd door [Mustafa Hafeez](https://traveldocumentvault.com/nl/blog/why-i-built-travel-document-vault/), een senior softwareontwikkelaar met jarenlange professionele ervaring met het bouwen van privacyrespecterende applicaties, en een ouder die deze app voor zijn eigen gezin nodig had. Privacy is geen marketingslogan. De app is vanaf dag één ontworpen en gearchitectureerd zodat documenten nooit uw apparaat verlaten, geen accounts nodig zijn en geen servers betrokken zijn. Dit is een bewuste technische beslissing, geen beleid dat met een schakelaar in instellingen gewijzigd kan worden.
+Travel Document Vault is gemaakt door Mustafa Hafeez, een senior softwareontwikkelaar met jarenlange professionele ervaring in het bouwen van privacyvriendelijke applicaties, en een ouder die deze app voor zijn eigen gezin nodig had. Privacy is geen marketingzin. De app is vanaf dag één zo ontworpen dat er geen accounts nodig zijn, dat er nooit servers van Travel Document Vault bij betrokken zijn en dat uw documenten alleen voor u leesbaar blijven. De optionele cloudback-up gebruikt uw eigen iCloud of Google Drive, end-to-end versleuteld met een herstelcode die alleen u heeft. Dat is een bewuste technische keuze, geen beleid dat met een schakelaar te veranderen is.
 
 Wilt u deze beweringen zelf verifiëren? Zie onze [Privacyverklaring](https://traveldocumentvault.com/privacy-policy/) voor volledige details over elk app-recht.
 

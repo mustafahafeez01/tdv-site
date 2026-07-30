@@ -20,7 +20,7 @@ Alt du behøver at vide om Travel Document Vault.
 
 Kan udvikleren se mine dokumenter?
 
-Nej. Dine dokumenter er gemt på din enhed og forlader den aldrig. Der er intet kontosystem, ingen cloud-database og ingen server, der modtager dokumentdata. Arkitekturen blev bygget sådan fra begyndelsen, ikke tilføjet som en funktion senere.
+Nej. Vi har ingen servere og ingen konti. Dine dokumenter gemmes som standard på din enhed. Hvis du vælger at slå den valgfri Pro-skysikkerhedskopi til, krypteres dit boks-indhold ende-til-ende på enheden, før det sendes til din egen iCloud (iOS) eller dit eget Google Drive (Android), forseglet med en gendannelseskode, som kun du har. Vi modtager aldrig dine data og kan ikke læse den krypterede sikkerhedskopi. Det kan Apple og Google heller ikke. Arkitekturen blev bygget sådan fra begyndelsen.
 
 Hvad indsamler Sentry-nedbrudsrapportering, og kan jeg slå det fra?
 
@@ -28,7 +28,7 @@ Sentry er et nedbrudsrapporteringsværktøj, der hjælper os med at finde og ret
 
 Hvad inkluderer Pro-opgraderingen til $9.99?
 
-Pro er et **engangskøb**, der låser op for ubegrænsede profiler, ubegrænsede dokumenter, kombineret PDF-eksport, krypteret sky-sikkerhedskopi og tilpasset påmindelsestidspunkt. Du betaler én gang. Der er intet abonnement, ingen tilbagevendende afgift og ingen prøveperiode, der stille og roligt begynder at opkræve dig.
+Pro er et engangskøb, der låser op for ubegrænsede profiler, ubegrænsede dokumenter, samlet PDF-eksport, krypteret skysikkerhedskopi til iCloud eller Google Drive og selvvalgte påmindelsestidspunkter. Du betaler én gang - intet abonnement, ingen løbende betaling og ingen prøveperiode, der stille begynder at opkræve dig.
 
 Er fremtidige opdateringer inkluderet i mit køb?
 
@@ -40,7 +40,7 @@ Da vi ikke gemmer dine data, kan vi ikke gendanne dem for dig. Almindelige telef
 
 Virker appen uden internetforbindelse?
 
-Ja, fuldstændig. Appen har ingen server og behøver ikke internet for at fungere. Scanning, visning, eksport og påmindelser fungerer alle offline. Den eneste funktion, der kræver en forbindelse, er gendannelse af dit Pro-køb på en ny enhed via App Store eller Google Play.
+Ja, fuldstændigt. Selve appen har ingen server og behøver ikke internet for at virke. Skanning, visning, eksport og påmindelser fungerer alle offline. Kun to ting kræver forbindelse: at gendanne dit Pro-køb på en ny enhed via App Store eller Google Play, og den valgfri sikkerhedskopi til din egen sky, som bruger din egen iCloud- eller Google Drive-konto.
 
 Hvilke sprog understøtter appen?
 
@@ -52,7 +52,7 @@ Dine dokumenter lever på din enhed, ikke på vores servere, så de forsvinder i
 
 Hvem byggede denne app, og hvorfor er den privatlivsfokuseret?
 
-Travel Document Vault blev bygget af [Mustafa Hafeez](https://traveldocumentvault.com/da/blog/why-i-built-travel-document-vault/), en senior softwareudvikler med mange års professionel erfaring med at bygge privatlivs-respekterende applikationer, og en forælder, der havde brug for denne app til sin egen familie. Privatlivspolitikken er ikke et marketingslogan. Appen blev designet og arkitekteret fra dag ét, så dokumenter aldrig forlader din enhed, ingen konti er nødvendige, og ingen servere er involveret. Det er en bevidst ingeniørmæssig beslutning, ikke en politik, der kunne ændres med en indstillingsskifter.
+Travel Document Vault er bygget af Mustafa Hafeez, en erfaren softwareudvikler med mange års professionel erfaring i at bygge programmer, der respekterer privatlivet, og en forælder, der havde brug for appen til sin egen familie. Privatliv er ikke en marketingsætning. Appen blev designet fra første dag, så der ikke kræves konti, så ingen servere fra Travel Document Vault nogensinde er involveret, og så dine dokumenter kun kan læses af dig. Den valgfri skysikkerhedskopi bruger din egen iCloud eller dit eget Google Drive, krypteret ende-til-ende med en gendannelseskode, som kun du har. Det er en bevidst teknisk beslutning, ikke en politik, der kunne ændres med en kontakt.
 
 Vil du verificere disse påstande selv? Se vores [Privatlivsverifikation](https://traveldocumentvault.com/da/privacy-verification/) side for uafhængigt bevis og en fuld gennemgang af alle app-tilladelser.
 

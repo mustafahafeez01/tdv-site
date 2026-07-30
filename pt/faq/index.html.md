@@ -20,7 +20,7 @@ Tudo o que precisa saber sobre o Travel Document Vault.
 
 O programador pode ver os meus documentos?
 
-Não. Os seus documentos são armazenados no seu dispositivo e nunca o abandonam. Não existe sistema de contas, base de dados em nuvem nem servidor que receba dados de documentos. A arquitetura foi construída assim desde o início, não adicionada como funcionalidade posteriormente.
+Não. Não temos servidores nem contas. Os seus documentos ficam guardados no seu dispositivo por predefinição. Se optar por ativar a cópia de segurança na nuvem do Pro, opcional, o seu cofre é cifrado ponta a ponta no dispositivo antes de ser enviado para a sua própria iCloud (iOS) ou o seu próprio Google Drive (Android), selado com um código de recuperação que só você tem. Nunca recebemos os seus dados e não conseguimos ler a cópia cifrada. A Apple e a Google também não. A arquitetura foi construída assim desde o início.
 
 O que recolhe o Sentry de relatórios de falhas e posso desativá-lo?
 
@@ -28,7 +28,7 @@ O Sentry é uma ferramenta de relatórios de falhas que nos ajuda a encontrar e 
 
 O que inclui a atualização Pro por $9.99?
 
-Pro é uma **compra única** que desbloqueia perfis ilimitados, documentos ilimitados, exportação combinada em PDF, cópia de segurança encriptada e tempo de lembretes personalizados. Paga uma vez - não há subscrição, cobranças recorrentes nem versão de avaliação que silenciosamente começa a cobrar.
+O Pro é uma compra única que desbloqueia perfis ilimitados, documentos ilimitados, exportação combinada em PDF, cópia de segurança cifrada na nuvem para a iCloud ou o Google Drive, e temporização personalizada dos lembretes. Paga uma vez - sem subscrição, sem cobrança recorrente e sem período de teste que comece a cobrar-lhe em silêncio.
 
 As atualizações futuras estão incluídas na minha compra?
 
@@ -40,7 +40,7 @@ Como não armazenamos os seus dados, não podemos restaurá-los. As cópias de s
 
 A aplicação funciona sem ligação à internet?
 
-Sim, totalmente. A aplicação não tem servidor e não precisa de internet para funcionar. Digitalizar, visualizar, exportar e lembretes funcionam todos offline. A única funcionalidade que requer ligação é restaurar a sua compra Pro num novo dispositivo através da App Store ou Google Play.
+Sim, totalmente. A aplicação em si não tem servidor e não precisa de internet para funcionar. Digitalizar, consultar, exportar e os lembretes funcionam todos offline. Só duas coisas precisam de ligação: restaurar a compra Pro num dispositivo novo através da App Store ou do Google Play, e a cópia de segurança opcional na sua própria nuvem, que usa a sua conta iCloud ou Google Drive.
 
 Que idiomas suporta a aplicação?
 
@@ -52,7 +52,7 @@ Os seus documentos residem no seu dispositivo, não nos nossos servidores, por i
 
 Quem criou esta aplicação e por que a privacidade é a prioridade?
 
-A Travel Document Vault foi criada por [Mustafa Hafeez](https://traveldocumentvault.com/pt/blog/why-i-built-travel-document-vault/), um programador sénior com anos de experiência profissional a criar aplicações que respeitam a privacidade, e pai que precisava desta aplicação para a sua própria família. A privacidade não é um slogan de marketing. A aplicação foi projetada e arquitetada desde o primeiro dia para que os documentos nunca saiam do seu dispositivo, não sejam necessárias contas e nenhum servidor esteja envolvido. Esta é uma decisão de engenharia deliberada, não uma política que pode ser alterada com um botão nas definições.
+O Travel Document Vault foi criado por Mustafa Hafeez, um programador de software sénior com anos de experiência profissional a construir aplicações que respeitam a privacidade, e pai que precisava desta aplicação para a sua própria família. A privacidade não é uma frase de marketing. A aplicação foi desenhada desde o primeiro dia para que não sejam precisas contas, para que nenhum servidor do Travel Document Vault esteja alguma vez envolvido e para que os seus documentos continuem legíveis apenas por si. A cópia de segurança opcional na nuvem usa a sua própria iCloud ou o seu Google Drive, cifrada ponta a ponta com um código de recuperação que só você tem. É uma decisão de engenharia deliberada, não uma política que se pudesse mudar com um interruptor.
 
 Quer verificar estas afirmações por si mesmo? Consulte a nossa página de [Verificação de Privacidade](https://traveldocumentvault.com/pt/privacy-verification/) para provas independentes e uma análise completa de cada permissão da aplicação.
 

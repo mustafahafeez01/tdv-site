@@ -20,7 +20,7 @@ Tout ce que vous devez savoir sur Travel Document Vault.
 
 Le développeur peut-il voir mes documents ?
 
-Non. Vos documents sont stockés sur votre appareil et ne le quittent jamais. Il n'y a pas de système de compte, pas de base de données cloud, et aucun serveur qui reçoit les données des documents. L'architecture a été conçue de cette façon dès le départ, ce n'est pas une fonctionnalité ajoutée ultérieurement.
+Non. Nous n'avons ni serveurs ni comptes. Vos documents sont enregistrés sur votre appareil par défaut. Si vous choisissez d'activer la sauvegarde cloud Pro, facultative, votre coffre est chiffré de bout en bout sur l'appareil avant d'être envoyé vers votre propre iCloud (iOS) ou votre propre Google Drive (Android), scellé par un code de récupération que vous seul détenez. Nous ne recevons jamais vos données et ne pouvons pas lire la sauvegarde chiffrée. Apple et Google non plus. L'architecture a été conçue ainsi dès le départ.
 
 Que collecte le rapport de panne Sentry et puis-je le désactiver ?
 
@@ -28,7 +28,7 @@ Sentry est un outil de rapport de panne qui nous aide à trouver et corriger les
 
 Qu'inclut la mise à niveau Pro à $9.99 ?
 
-Pro est un **achat unique** qui déverrouille des profils illimités, des documents illimités, l'export PDF combiné, la sauvegarde chiffrée et la programmation personnalisée des rappels. Vous payez une fois. Il n'y a pas d'abonnement, pas de frais récurrents, et pas d'essai qui commence silencieusement à vous facturer.
+Pro est un achat unique qui débloque les profils illimités, les documents illimités, l'export PDF groupé, la sauvegarde cloud chiffrée vers iCloud ou Google Drive, et le réglage personnalisé des rappels. Vous payez une fois - pas d'abonnement, pas de prélèvement récurrent, et pas d'essai qui se met discrètement à vous facturer.
 
 Les mises à jour futures sont-elles incluses avec mon achat ?
 
@@ -40,7 +40,7 @@ Puisque vos documents vivent sur votre appareil avec une clé de chiffrement qui
 
 L'application fonctionne-t-elle sans connexion Internet ?
 
-Oui, complètement. L'application n'a pas de serveur et n'a pas besoin d'Internet pour fonctionner. La numérisation, la visualisation, l'export et les rappels fonctionnent tous hors ligne. La seule fonctionnalité qui nécessite une connexion est la restauration de votre achat Pro sur un nouvel appareil via l'App Store ou Google Play.
+Oui, entièrement. L'application elle-même n'a pas de serveur et n'a pas besoin d'internet pour fonctionner. La numérisation, la consultation, l'export et les rappels fonctionnent tous hors ligne. Deux choses seulement demandent une connexion : restaurer votre achat Pro sur un nouvel appareil via l'App Store ou Google Play, et la sauvegarde facultative vers votre propre cloud, qui utilise votre propre compte iCloud ou Google Drive.
 
 Quelles langues l'application supporte-t-elle ?
 
@@ -52,7 +52,7 @@ Vos documents vivent sur votre appareil, pas sur nos serveurs, donc ils ne dispa
 
 Qui a construit cette application et pourquoi est-elle axée sur la confidentialité ?
 
-Travel Document Vault a été construit par [Mustafa Hafeez](https://traveldocumentvault.com/fr/blog/why-i-built-travel-document-vault/), un développeur logiciel senior avec des années d'expérience professionnelle dans la construction d'applications respectueuses de la vie privée, et un parent qui avait besoin de cette application pour sa propre famille. La vie privée n'est pas une ligne de marketing. L'application a été conçue et architecturée dès le départ de sorte que les documents ne quittent jamais votre appareil, aucun compte n'est nécessaire, et aucun serveur n'est impliqué. C'est une décision d'ingénierie délibérée, pas une politique qui pourrait être modifiée avec un bouton de paramètres.
+Travel Document Vault a été créé par Mustafa Hafeez, développeur logiciel expérimenté ayant passé des années à construire des applications respectueuses de la vie privée, et parent qui avait besoin de cette application pour sa propre famille. La confidentialité n'est pas un argument marketing. L'application a été conçue dès le premier jour pour qu'aucun compte ne soit nécessaire, qu'aucun serveur de Travel Document Vault n'intervienne jamais, et que vos documents restent lisibles par vous seul. La sauvegarde cloud facultative utilise votre propre iCloud ou Google Drive, chiffrée de bout en bout avec un code de récupération que vous seul détenez. C'est un choix d'ingénierie délibéré, pas une politique modifiable d'un simple réglage.
 
 Vous souhaitez vérifier ces affirmations par vous-même ? Consultez notre page de [Vérification de la confidentialité](https://traveldocumentvault.com/fr/privacy-verification/) pour des preuves indépendantes et une ventilation complète de chaque permission d'application.
 

@@ -20,7 +20,7 @@ Allt du behöver veta om Travel Document Vault.
 
 Kan utvecklaren se mina dokument?
 
-Nej. Dina dokument lagras på din enhet och lämnar den aldrig. Det finns inget kontosystem, ingen molndatabas och ingen server som tar emot dokumentdata. Arkitekturen byggdes på detta sätt från start, det lades inte till som en funktion i efterhand.
+Nej. Vi har inga servrar och inga konton. Dina dokument sparas som standard på din enhet. Om du väljer att slå på den valfria Pro-molnsäkerhetskopian krypteras ditt valv från början till slut på enheten innan det laddas upp till ditt eget iCloud (iOS) eller ditt eget Google Drive (Android), förseglat med en återställningskod som bara du har. Vi tar aldrig emot dina data och kan inte läsa den krypterade säkerhetskopian. Inte Apple eller Google heller. Arkitekturen byggdes så från början.
 
 Vad samlar Sentry-kraschrapportering in och kan jag stänga av det?
 
@@ -28,7 +28,7 @@ Sentry är ett kraschrapporteringsverktyg som hjälper oss hitta och åtgärda b
 
 Vad ingår i Pro-uppgraderingen för $9.99?
 
-Pro är ett **engångsköp** som låser upp obegränsat antal profiler, obegränsat antal dokument, kombinerad PDF-export, krypterad molnsäkerhetskopia och anpassad påminnelsetiming. Du betalar en gång - ingen prenumeration, ingen återkommande avgift och ingen testperiod som tyst börjar debitera dig.
+Pro är ett engångsköp som låser upp obegränsat antal profiler, obegränsat antal dokument, samlad PDF-export, krypterad molnsäkerhetskopiering till iCloud eller Google Drive och egna påminnelsetider. Du betalar en gång - ingen prenumeration, ingen återkommande avgift och ingen provperiod som tyst börjar debitera dig.
 
 Ingår framtida uppdateringar i mitt köp?
 
@@ -40,7 +40,7 @@ Eftersom vi inte lagrar din data kan vi inte återställa den åt dig. Om du åt
 
 Fungerar appen utan internetanslutning?
 
-Ja, helt och hållet. Appen har ingen server och behöver inte internet för att fungera. Skanning, visning, export och påminnelser fungerar alla offline. Den enda funktionen som kräver anslutning är att återställa ditt Pro-köp på en ny enhet via App Store eller Google Play.
+Ja, helt. Själva appen har ingen server och behöver inte internet för att fungera. Skanning, visning, export och påminnelser fungerar alla offline. Bara två saker kräver uppkoppling: att återställa ditt Pro-köp på en ny enhet via App Store eller Google Play, och den valfria säkerhetskopian till ditt eget moln, som använder ditt eget iCloud- eller Google Drive-konto.
 
 Vilka språk stöder appen?
 
@@ -52,7 +52,7 @@ Dina dokument finns på din enhet, inte på våra servrar, så de försvinner in
 
 Vem byggde den här appen och varför är den integritetsfokuserad?
 
-Travel Document Vault byggdes av [Mustafa Hafeez](https://traveldocumentvault.com/sv/blog/why-i-built-travel-document-vault/), en erfaren mjukvaruutvecklare med lång professionell erfarenhet av att bygga integritetsrespektande applikationer, och en förälder som behövde den här appen för sin egen familj. Integritet är inte en marknadsföringsfras. Appen designades och arkitekterades från dag ett så att dokument aldrig lämnar din enhet, inga konton behövs och inga servrar är inblandade. Det är ett avsiktligt tekniskt beslut, inte en policy som kan ändras med ett inställningsreglage.
+Travel Document Vault byggdes av Mustafa Hafeez, en senior mjukvaruutvecklare med många års yrkeserfarenhet av att bygga integritetsrespekterande applikationer, och en förälder som behövde appen till sin egen familj. Integritet är ingen marknadsföringsfras. Appen designades från första dagen så att inga konton behövs, så att inga servrar från Travel Document Vault någonsin är inblandade och så att dina dokument bara går att läsa av dig. Den valfria molnsäkerhetskopian använder ditt eget iCloud eller Google Drive, krypterad från början till slut med en återställningskod som bara du har. Det är ett medvetet tekniskt beslut, inte en policy som kan ändras med ett reglage.
 
 Vill du verifiera dessa påståenden själv? Se vår [sida för integritetsverifiering](https://traveldocumentvault.com/sv/privacy-verification/) för oberoende bevis och en fullständig genomgång av alla appbehörigheter.
 

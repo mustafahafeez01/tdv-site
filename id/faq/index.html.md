@@ -20,7 +20,7 @@ Semua yang perlu Anda ketahui tentang Travel Document Vault.
 
 Apakah pengembang dapat melihat dokumen saya?
 
-Tidak. Dokumen Anda disimpan di perangkat Anda dan tidak pernah meninggalkannya. Tidak ada sistem akun, tidak ada database cloud, dan tidak ada server yang menerima data dokumen. Arsitektur ini dibangun dari awal, bukan ditambahkan sebagai fitur belakangan.
+Tidak. Kami tidak punya server dan tidak punya sistem akun. Secara bawaan, dokumen Anda disimpan di perangkat Anda. Jika Anda memilih mengaktifkan cadangan cloud Pro yang bersifat opsional, brankas Anda dienkripsi ujung ke ujung di perangkat sebelum diunggah ke iCloud milik Anda sendiri (iOS) atau Google Drive milik Anda sendiri (Android), disegel dengan kode pemulihan yang hanya Anda miliki. Kami tidak pernah menerima data Anda dan tidak dapat membaca cadangan terenkripsi itu. Apple dan Google juga tidak bisa. Arsitekturnya dibangun seperti ini sejak awal.
 
 Apa yang dikumpulkan pelaporan kerusakan Sentry, dan bisakah saya menonaktifkannya?
 
@@ -28,7 +28,7 @@ Sentry adalah alat pelaporan kerusakan yang membantu kami menemukan dan memperba
 
 Apa yang termasuk dalam upgrade Pro $9.99?
 
-Pro adalah **pembelian satu kali** yang membuka profil tak terbatas, dokumen tak terbatas, ekspor PDF gabungan, cadangan terenkripsi, dan pengaturan waktu pengingat kustom. Anda membayar sekali - tidak ada langganan, tidak ada biaya berulang, dan tidak ada uji coba yang secara diam-diam mulai menagih Anda.
+Pro adalah pembelian sekali bayar yang membuka profil tanpa batas, dokumen tanpa batas, ekspor PDF gabungan, cadangan cloud terenkripsi ke iCloud atau Google Drive, dan pengaturan waktu pengingat sendiri. Anda membayar sekali - tanpa langganan, tanpa tagihan berulang, dan tanpa masa uji coba yang diam-diam mulai menagih Anda.
 
 Apakah pembaruan di masa mendatang termasuk dalam pembelian saya?
 
@@ -40,7 +40,7 @@ Karena kami tidak menyimpan data Anda, kami tidak dapat memulihkannya untuk Anda
 
 Apakah aplikasi bekerja tanpa koneksi internet?
 
-Ya, sepenuhnya. Aplikasi tidak memiliki server dan tidak memerlukan internet untuk berfungsi. Pemindaian, tampilan, ekspor, dan pengingat semuanya bekerja secara offline. Satu-satunya fitur yang memerlukan koneksi adalah memulihkan pembelian Pro Anda di perangkat baru melalui App Store atau Google Play.
+Ya, sepenuhnya. Aplikasinya sendiri tidak punya server dan tidak butuh internet untuk berjalan. Memindai, melihat, mengekspor, dan pengingat semuanya bekerja luring. Hanya dua hal yang perlu koneksi: memulihkan pembelian Pro Anda di perangkat baru melalui App Store atau Google Play, dan cadangan opsional ke cloud Anda sendiri, yang memakai akun iCloud atau Google Drive milik Anda.
 
 Bahasa apa yang didukung aplikasi?
 
@@ -52,7 +52,7 @@ Dokumen Anda ada di perangkat Anda, bukan di server kami, sehingga tidak akan hi
 
 Siapa yang membangun aplikasi ini, dan mengapa mengutamakan privasi?
 
-Travel Document Vault dibangun oleh [Mustafa Hafeez](https://traveldocumentvault.com/id/blog/why-i-built-travel-document-vault/), pengembang perangkat lunak senior dengan pengalaman profesional bertahun-tahun membangun aplikasi yang menghormati privasi, dan seorang orang tua yang membutuhkan aplikasi ini untuk keluarganya sendiri. Privasi bukan slogan pemasaran. Aplikasi ini dirancang dan diarsitektur dari hari pertama sehingga dokumen tidak pernah meninggalkan perangkat Anda, tidak diperlukan akun, dan tidak ada server yang terlibat. Itu adalah keputusan rekayasa yang disengaja, bukan kebijakan yang dapat diubah dengan pengaturan sakelar.
+Travel Document Vault dibuat oleh Mustafa Hafeez, seorang pengembang perangkat lunak senior dengan pengalaman bertahun-tahun membangun aplikasi yang menghormati privasi, sekaligus orang tua yang membutuhkan aplikasi ini untuk keluarganya sendiri. Privasi bukan kalimat pemasaran. Aplikasi ini dirancang sejak hari pertama agar tidak memerlukan akun, agar server Travel Document Vault tidak pernah terlibat, dan agar dokumen Anda tetap hanya bisa dibaca oleh Anda. Cadangan cloud opsional memakai iCloud atau Google Drive milik Anda sendiri, dienkripsi ujung ke ujung dengan kode pemulihan yang hanya Anda miliki. Itu keputusan teknik yang disengaja, bukan kebijakan yang bisa diubah lewat sebuah sakelar.
 
 Ingin memverifikasi klaim ini sendiri? Lihat halaman [Kebijakan Privasi](https://traveldocumentvault.com/privacy-policy/) kami untuk detail lengkap.
 
