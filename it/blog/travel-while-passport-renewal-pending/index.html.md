@@ -1,0 +1,107 @@
+# Potete viaggiare mentre il vostro passaporto viene rinnovato?
+
+> Scoprite se potete viaggiare mentre il rinnovo del vostro passaporto è in corso. Le norme variano a seconda del paese e del metodo di richiesta. Ecco cosa dovete sapere.
+
+Source: https://traveldocumentvault.com/it/blog/travel-while-passport-renewal-pending/
+
+---
+
+![Due passaporti uno accanto all'altro su uno sfondo blu navy collegati da una morbida linea dorata, uno più vecchio e uno nuovo, che suggerisce che i viaggi sono coperti durante il rinnovo](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/cover.jpg)
+
+## Punti chiave
+
+- La risposta dipende da un fatto: avete ancora il vostro passaporto in vostro possesso, oppure l'avete già consegnato. Questo singolo dettaglio determina quali viaggi sono possibili.
+- **Stati Uniti:** Il rinnovo per posta vi permette di conservare il vostro vecchio passaporto. I viaggi nazionali vanno bene. I viaggi internazionali richiedono l'arrivo del vostro passaporto rinnovato.
+- **Regno Unito (rinnovo postale):** Il vostro passaporto è in possesso di HM Passport Office. Non potete viaggiare internazionalmente fino a quando non viene restituito. **Regno Unito (rinnovo digitale):** Conservate il vostro passaporto durante tutto il processo e potete viaggiare con esso mentre il nuovo viene elaborato.
+- **Australia e Canada:** Entrambi richiedono di consegnare il vostro passaporto al momento della richiesta. I viaggi internazionali non sono possibili fino a quando il nuovo passaporto non viene rilasciato.
+- Esistono opzioni di rinnovo accelerato e urgente in ogni paese coperto qui, ma la regola di base vale: non potete viaggiare internazionalmente senza un passaporto valido in mano.
+
+Avete inviato il vostro passaporto per il rinnovo e avete un viaggio in programma. La domanda è se potete ancora viaggiare. La risposta dipende da un singolo fatto: avete ancora il vostro passaporto in vostro possesso, oppure l'avete già consegnato alle autorità. Questo singolo fatto determina quali viaggi sono possibili. La risposta varia anche significativamente a seconda del paese e, nel caso del Regno Unito, dal metodo di rinnovo utilizzato.
+
+## La regola fondamentale
+
+Non potete viaggiare internazionalmente senza un passaporto valido fisicamente in vostro possesso. Una richiesta di rinnovo in corso non conta, così come una lettera di ricevuta dal vostro ufficio passaporti. L'unico documento che vi permette di superare il check-in e il controllo delle frontiere è un passaporto valido che potete consegnare quando vi viene richiesto.
+
+Se avete ancora quel passaporto dipende interamente dal vostro paese e dal vostro metodo di rinnovo.
+
+## Stati Uniti: Rinnovo per posta
+
+Il rinnovo standard del passaporto americano per posta non richiede di consegnare il vostro passaporto attuale prima dell'arrivo di quello nuovo. Completate il modulo DS-82, allegato il vostro passaporto esistente, e spedite tutto al National Passport Processing Center. Il vostro vecchio passaporto viene restituito insieme a quello nuovo, tipicamente annullato con un foro di punzone.
+
+Ciò significa che i viaggi nazionali all'interno degli Stati Uniti non sono influenzati durante il processo di rinnovo - non avete bisogno di un passaporto per i voli nazionali. I viaggi internazionali sono una storia diversa: non potete viaggiare internazionalmente fino a quando il vostro nuovo passaporto non arriva, e non potete usare il vecchio passaporto annullato anche se lo avete in mano.
+
+Attualmente occorrono 4-6 settimane per l'elaborazione standard, senza contare il tempo di spedizione in entrambi i sensi. Se avete un viaggio internazionale programmato prima di allora, il Dipartimento di Stato offre elaborazione accelerata dietro compenso aggiuntivo, riducendo la tempistica a circa 2-3 settimane. Per i viaggi veramente urgenti entro 14 giorni di calendario, gli appuntamenti in persona sono disponibili presso agenzie passaporti regionali - controllate la disponibilità su [travel.state.gov](https://travel.state.gov).
+
+## Regno Unito: Due processi con esiti opposti
+
+Il Regno Unito ha due percorsi di rinnovo con implicazioni completamente diverse per i viaggi. Il processo che avete utilizzato determina cosa è possibile.
+
+**Rinnovo postale:** Spedite il vostro passaporto attuale a HM Passport Office insieme alla vostra domanda. Il vostro passaporto è nelle loro mani per tutta la durata, quindi non potete viaggiare internazionalmente. HM Passport Office attualmente afferma che di solito riceverete il vostro nuovo passaporto entro 3 settimane, anche se consiglia di non prenotare il viaggio fino a quando non arriva, ed è disponibile un servizio di fast-track premium dietro compenso aggiuntivo.
+
+**Rinnovo digitale** è attualmente disponibile per gli adulti idonei che chiedono dal Regno Unito. Conservate il vostro passaporto attuale durante tutto il processo, e il governo rilascia il vostro nuovo passaporto separatamente e ve lo spedisce. Poiché il vostro passaporto esistente non lascia mai il vostro possesso, potete generalmente continuare a utilizzarlo per i viaggi mentre il nuovo viene elaborato. L'idoneità varia in base alle circostanze individuali, quindi controllate il sito Web di HM Passport Office per i criteri completi e gli orari attuali prima di fare domanda.
+
+**Pianificate in anticipo prima di fare domanda.** Tenete traccia della scadenza del vostro passaporto con [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877) in modo da sapere esattamente quanto tempo avete prima di dover rinnovare, e potete scegliere il metodo giusto senza pressione.
+
+## Australia: Consegnare e aspettare
+
+Il rinnovo del passaporto australiano richiede di consegnare il vostro passaporto attuale al momento della domanda. Da quel momento, non avete alcun documento di viaggio valido fino a quando il nuovo passaporto non viene rilasciato e consegnato.
+
+Non potete viaggiare internazionalmente durante questo periodo. I viaggi aerei nazionali all'interno dell'Australia possono anche essere influenzati se non avete altri documenti d'identità fotografici validi, poiché le compagnie aeree richiedono verifica dell'identità al check-in.
+
+L'Australian Passport Office attualmente consiglia di consentire almeno 6 settimane dalla presentazione della vostra domanda. Se avete un viaggio generico e imminente, è disponibile un'elaborazione più veloce per commissioni aggiuntive - un servizio fast-track elaborato entro 5 giorni lavorativi e un servizio prioritario entro 2 giorni lavorativi. Esistono opzioni di emergenza per i viaggi veramente imminenti. Controllate gli orari attuali e fate domanda su [passports.gov.au](https://www.passports.gov.au).
+
+## Canada: Consegnato al momento della domanda
+
+Il Canada richiede di consegnare il vostro passaporto esistente quando fate domanda per il rinnovo. Il vostro vecchio passaporto viene conservato fino a quando il nuovo non è pronto, quindi non potete viaggiare internazionalmente durante questo periodo - anche se i viaggi nazionali all'interno del Canada non richiedono un passaporto.
+
+Gli standard di servizio sono attualmente 10 giorni lavorativi quando fate domanda in persona presso un ufficio passaporti, o 20 giorni lavorativi per posta o presso un Service Canada Centre regolare - più il tempo di spedizione. Per i viaggi urgenti potete scegliere il servizio espresso (da 2 a 9 giorni lavorativi) o il ritiro urgente (veloce come il giorno successivo) dietro compenso aggiuntivo. Controllate gli orari di elaborazione attuali e fate domanda su [canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports.html).
+
+## Confronto tra paesi
+
+| Paese / Metodo | Conservare il passaporto? | Viaggi internazionali durante il rinnovo? | Tempo standard |
+|---|---|---|---|
+| USA (per posta) | Sì (restituito annullato) | No | 6-12 settimane |
+| UK (postale) | No (conservato da HMPO) | No | Circa 10 settimane |
+| UK (digitale) | Sì (lo conservate) | Sì (sul vecchio passaporto) | 2-3 settimane |
+| Australia | No (deve essere consegnato) | No | 4-10 settimane |
+| Canada | No (deve essere consegnato) | No | 5-10 settimane |
+
+## Se il vostro viaggio è prima della vostra tempistica di rinnovo
+
+Non aspettate a contattare il servizio passaporti del vostro paese per telefono - chiedete specificamente informazioni su opzioni di rinnovo accelerato, urgente o appuntamento di emergenza. Questi esistono in ogni paese elencato qui, ma la disponibilità cambia di settimana in settimana e gli slot di appuntamento scompaiono rapidamente.
+
+Contemporaneamente, contattate la vostra compagnia aerea in merito alla riprogrammazione. Alcuni vettori rinunceranno alle spese di modifica quando un problema genuino di documento è il motivo. Ottenete qualsiasi accordo per iscritto. Se avete un'assicurazione di viaggio, controllate la vostra polizza per la copertura dei costi derivanti da ritardi del passaporto o problemi di documenti.
+
+## Come evitare questa situazione
+
+La risposta semplice è rinnovare il vostro passaporto ben prima di averne bisogno per i viaggi. Fare domanda 6-9 mesi prima di qualsiasi viaggio internazionale programmato elimina completamente la pressione dei tempi e lascia spazio per l'elaborazione standard senza commissioni accelerate.
+
+Il motivo per cui le persone finiscono in questa situazione non è l'ignoranza delle norme. I passaporti scadono silenziosamente senza ricordatorio automatico, quindi le persone tendono a ricordare solo che il loro passaporto è valido, non quando scade. Impostare un ricordatorio 12 mesi prima della vostra data di scadenza vi dà il tempo di rinnovare al vostro ritmo, su elaborazione standard, senza pressione.
+
+## Domande frequenti
+
+### Posso viaggiare in territorio nazionale mentre il rinnovo del mio passaporto è in corso?
+
+Nella maggior parte dei casi, sì. I viaggi nazionali all'interno del vostro paese non richiedono un passaporto valido. Avrete generalmente bisogno di un documento d'identità rilasciato dal governo, come una patente di guida. Per i voli nazionali negli Stati Uniti, un passaporto non è affatto richiesto.
+
+### Posso viaggiare internazionalmente mentre il mio passaporto viene rinnovato?
+
+Generalmente no. L'eccezione è il rinnovo digitale del Regno Unito: poiché conservate il vostro vecchio passaporto durante tale processo, potete continuare a utilizzarlo per i viaggi internazionali mentre aspettate quello nuovo. In tutti gli altri casi coperti qui, i viaggi internazionali richiedono che il vostro nuovo passaporto sia in mano.
+
+### Cosa succede se il mio volo è prenotato ma il mio passaporto non arriverà in tempo?
+
+Contattate il vostro servizio passaporti immediatamente e chiedete informazioni su elaborazione accelerata o urgente. La maggior parte dei paesi offre opzioni più veloci dietro compenso. Se questi tempi non funzionano, potrebbe essere necessario riprogrammare il vostro volo o richiedere un documento di viaggio d'emergenza se le vostre circostanze lo permettono.
+
+### Conservo il mio passaporto durante il processo di rinnovo?
+
+Dipende. Il rinnovo per posta degli USA restituisce il vostro vecchio passaporto (annullato) insieme a quello nuovo. Il rinnovo digitale del Regno Unito vi permette di conservarlo durante tutto il processo. Il rinnovo postale del Regno Unito, l'Australia e il Canada richiedono tutti di consegnare il vostro passaporto al momento della domanda.
+
+### Cos'è un documento di viaggio d'emergenza?
+
+Un documento di viaggio d'emergenza è un documento temporaneo rilasciato dal vostro governo per emergenze genuine come una crisi medica o un decesso in famiglia che richiede un viaggio immediato all'estero. È valido per un solo viaggio. Richiede prova di una vera emergenza e non è un'alternativa al rinnovo standard per i viaggi pianificati. L'elaborazione è generalmente dello stesso giorno o entro 24 ore.
+
+## Articoli correlati
+
+[Rinnovo8 min di lettura · 10 feb 2026Quanto tempo ci vuole per rinnovare un passaporto? (USA, UK, Australia, Canada)](https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-take/)
+
+[Passaporto9 min di lettura · 9 mar 2026Passaporto scaduto? Ecco esattamente cosa fare (passo dopo passo)](https://traveldocumentvault.com/it/blog/passport-expired-what-to-do/)

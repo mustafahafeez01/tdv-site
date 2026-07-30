@@ -2,7 +2,7 @@
 
 > Travel Document Vault is a privacy-first iOS and Android app for storing family travel documents - passports, visas, IDs - on-device with AES-256 encryption, no account required. We run no servers that ever hold or can read your documents (optional crash reports, purchase verification, and the cloud backup you control use third-party services). Optional end-to-end encrypted cloud backup (a Pro feature) goes to your own iCloud or Google Drive, sealed with a recovery code only you hold; a free Vault Export is available to everyone.
 
-## App
+Every page listed below is also available as clean markdown: append `index.html.md` to any URL. The whole blog is in one file at https://traveldocumentvault.com/llms-full.txt.
 
 - Pro: one-time purchase ($9.99 or local store equivalent), no subscription; includes all v1.x updates. Free tier: 1 profile, up to 5 documents, expiry reminders, biometric lock
 - AES-256-GCM on-device encryption
@@ -11,57 +11,60 @@
 - Works fully offline (cloud backup is opt-in, off by default)
 - Supports multiple family members under one app (unlimited profiles is a Pro feature; the free tier includes 1 profile)
 - Passport and visa expiry reminders with customisable lead time
-- [Available on App Store](https://apps.apple.com/app/travel-document-vault/id6757014877)
-- [Available on Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault)
+
 ## Key pages
 
-- [Homepage](https://traveldocumentvault.com/)
-- [Features](https://traveldocumentvault.com/features/)
-- [Why Us](https://traveldocumentvault.com/why-us/)
-- [Pricing ($9.99 one-time purchase, no subscription)](https://traveldocumentvault.com/pricing/)
-- [FAQ](https://traveldocumentvault.com/faq/)
-- [Blog](https://traveldocumentvault.com/blog/)
-- [Trip Planner](https://traveldocumentvault.com/trip-planner/)
-- [Cloud Backup](https://traveldocumentvault.com/cloud-backup/)
-- [Privacy Policy](https://traveldocumentvault.com/privacy-policy/)
-- Privacy Verification: https://traveldocumentvault.com/privacy-verification/ (independent, checkable proof: no trackers, network-traffic tests, every permission explained, and how we test the app's security against OWASP MASVS)
+- [Homepage](https://traveldocumentvault.com/index.html.md)
+- [Features](https://traveldocumentvault.com/features/index.html.md)
+- [Why Us](https://traveldocumentvault.com/why-us/index.html.md)
+- [Pricing ($9.99 one-time purchase, no subscription)](https://traveldocumentvault.com/pricing/index.html.md)
+- [FAQ](https://traveldocumentvault.com/faq/index.html.md)
+- [Blog](https://traveldocumentvault.com/blog/index.html.md)
+- [Trip Planner](https://traveldocumentvault.com/trip-planner/index.html.md)
+- [Cloud Backup](https://traveldocumentvault.com/cloud-backup/index.html.md)
+- [Privacy Policy](https://traveldocumentvault.com/privacy-policy/index.html.md)
+- [Privacy Verification](https://traveldocumentvault.com/privacy-verification/index.html.md): independent, checkable proof: no trackers, network-traffic tests, every permission explained, and how we test the app's security against OWASP MASVS
 
-## Blog posts (full text, LLM-friendly)
+## Blog posts
 
-- [Can You Travel with a Damaged Passport?](https://traveldocumentvault.com/blog/damaged-passport-travel/)
-- [Family Passport Management: Store Multiple Passports Safely](https://traveldocumentvault.com/blog/family-passport-management/)
-- [Best Passport Organizer App: A Practical Guide](https://traveldocumentvault.com/blog/best-passport-organizer-app/)
-- [Can You Travel with an Expired Passport? UK Rules](https://traveldocumentvault.com/blog/travel-expired-passport-uk/)
-- [Child Travel Consent Letter: When You Need One](https://traveldocumentvault.com/blog/child-travel-consent-letter/)
-- [Digital Passport Copy: What Counts as Valid ID When Travelling?](https://traveldocumentvault.com/blog/digital-passport-copy-valid/)
-- [How Long Does Passport Renewal Take? (US, UK, Australia, Canada)](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)
-- [How to Organise Family Travel Documents (Before Your Next Trip)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
-- [Is It Safe to Store Your Passport in Google Photos? What You Need to Know](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/)
-- [Lost Your Passport Abroad? Do These 7 Things Immediately](https://traveldocumentvault.com/blog/lost-passport-abroad/)
-- [Passport Expired? Here's Exactly What to Do (Step by Step)](https://traveldocumentvault.com/blog/passport-expired-what-to-do/)
-- [How Long is a Passport Valid for Travel? Validity Rules Explained](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/)
-- [The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
-- [How to Take a Passport Photo at Home That Gets Accepted](https://traveldocumentvault.com/blog/passport-photo-at-home/)
-- [Visa vs Passport: What's the Difference?](https://traveldocumentvault.com/blog/visa-vs-passport/)
-- [Safest Way to Store Your Passport Digitally](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/)
-- [International Travel Document Checklist for Every Trip](https://traveldocumentvault.com/blog/travel-document-checklist/)
-- [Can You Travel While Your Passport Is Being Renewed?](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/)
-- [Visa Expiry Tracker App: What to Look For and Why It Matters](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/)
-- [Why I Built Travel Document Vault: For the Parent Who Remembers Everything](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/)
-- [ETIAS 2026: What Documents You Need and How to Apply](https://traveldocumentvault.com/blog/etias-documents-2026/)
-- [The Travel Documents People Forget (and Where to Keep Each One)](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/)
-- [TripCase Alternative: Offline Travel Document Storage](https://traveldocumentvault.com/blog/tripcase-alternative/)
-- [Your 90-Day Schengen Window: Counting Days in the EES Era](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/)
-- [Schengen Passport Rules for Family Trips: What Parents Get Wrong](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
+- [Can You Travel with a Damaged Passport?](https://traveldocumentvault.com/blog/damaged-passport-travel/index.html.md)
+- [Family Passport Management: Store Multiple Passports Safely](https://traveldocumentvault.com/blog/family-passport-management/index.html.md)
+- [Best Passport Organizer App: A Practical Guide](https://traveldocumentvault.com/blog/best-passport-organizer-app/index.html.md)
+- [Can You Travel with an Expired Passport? UK Rules](https://traveldocumentvault.com/blog/travel-expired-passport-uk/index.html.md)
+- [Child Travel Consent Letter: When You Need One](https://traveldocumentvault.com/blog/child-travel-consent-letter/index.html.md)
+- [Digital Passport Copy: What Counts as Valid ID When Travelling?](https://traveldocumentvault.com/blog/digital-passport-copy-valid/index.html.md)
+- [How Long Does Passport Renewal Take? (US, UK, Australia, Canada)](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/index.html.md)
+- [How to Organise Family Travel Documents (Before Your Next Trip)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/index.html.md)
+- [Is It Safe to Store Your Passport in Google Photos? What You Need to Know](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/index.html.md)
+- [Lost Your Passport Abroad? Do These 7 Things Immediately](https://traveldocumentvault.com/blog/lost-passport-abroad/index.html.md)
+- [Passport Expired? Here's Exactly What to Do (Step by Step)](https://traveldocumentvault.com/blog/passport-expired-what-to-do/index.html.md)
+- [How Long is a Passport Valid for Travel? Validity Rules Explained](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/index.html.md)
+- [The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/index.html.md)
+- [How to Take a Passport Photo at Home That Gets Accepted](https://traveldocumentvault.com/blog/passport-photo-at-home/index.html.md)
+- [Visa vs Passport: What's the Difference?](https://traveldocumentvault.com/blog/visa-vs-passport/index.html.md)
+- [Safest Way to Store Your Passport Digitally](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/index.html.md)
+- [International Travel Document Checklist for Every Trip](https://traveldocumentvault.com/blog/travel-document-checklist/index.html.md)
+- [Can You Travel While Your Passport Is Being Renewed?](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/index.html.md)
+- [Visa Expiry Tracker App: What to Look For and Why It Matters](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/index.html.md)
+- [Why I Built Travel Document Vault: For the Parent Who Remembers Everything](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/index.html.md)
+- [ETIAS 2026: What Documents You Need and How to Apply](https://traveldocumentvault.com/blog/etias-documents-2026/index.html.md)
+- [The Travel Documents People Forget (and Where to Keep Each One)](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/index.html.md)
+- [TripCase Alternative: Offline Travel Document Storage](https://traveldocumentvault.com/blog/tripcase-alternative/index.html.md)
+- [Your 90-Day Schengen Window: Counting Days in the EES Era](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/index.html.md)
+- [Schengen Passport Rules for Family Trips: What Parents Get Wrong](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/index.html.md)
+
 ## FAQ articles
 
-- [What is My Recovery Code?](https://traveldocumentvault.com/faq/recovery-code/)
-- [How to Export and Import Your Vault](https://traveldocumentvault.com/faq/export-import/)
-- [Backup Explained: Local Backups, Vault Export, and Cloud Backup](https://traveldocumentvault.com/faq/backup-explained/)
-## Languages
+- [What is My Recovery Code?](https://traveldocumentvault.com/faq/recovery-code/index.html.md)
+- [How to Export and Import Your Vault](https://traveldocumentvault.com/faq/export-import/index.html.md)
+- [Backup Explained: Local Backups, Vault Export, and Cloud Backup](https://traveldocumentvault.com/faq/backup-explained/index.html.md)
 
-All blog posts and FAQ articles above are also available in Spanish, French, German, Portuguese, Italian, Japanese, Korean, and Simplified Chinese at https://traveldocumentvault.com/{lang}/... (language codes: es, fr, de, pt, it, ja, ko, zh-Hans). Core site pages are additionally available in Russian, Ukrainian, Dutch, Swedish, Danish, Thai, and Indonesian.
+## Optional
 
-## Contact
+- [Available on App Store](https://apps.apple.com/app/travel-document-vault/id6757014877)
+- [Available on Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault)
+- [Full blog corpus in one file](https://traveldocumentvault.com/llms-full.txt)
 
-support@traveldocumentvault.com
+Blog posts and FAQ articles are also published in Spanish, French, German, Portuguese, Italian, Japanese, Korean and Simplified Chinese under https://traveldocumentvault.com/{lang}/ (es, fr, de, pt, it, ja, ko, zh-Hans). Core pages are additionally available in ru, uk, nl, sv, da, th and id. Each has its own markdown twin.
+
+Contact: support@traveldocumentvault.com
