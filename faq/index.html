@@ -1,245 +1,280 @@
 <!doctype html> <html lang="en"> <head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width,initial-scale=1"> <meta name="theme-color" content="#003A87"> <title>Passport &amp; Travel Document FAQ | Travel Document Vault</title> <meta name="description" content="Answers about Travel Document Vault: on-device passport storage, AES-256-GCM encryption, offline access, expiry reminders, optional end-to-end encrypted backup to your own iCloud or Google Drive. No accounts, no subscription, no Travel Document Vault servers."> <link rel="canonical" href="https://traveldocumentvault.com/faq/"> <link rel="alternate" hreflang="x-default" href="https://traveldocumentvault.com/faq/"> <link rel="alternate" hreflang="en" href="https://traveldocumentvault.com/faq/"> <link rel="alternate" hreflang="es" href="https://traveldocumentvault.com/es/faq/"> <link rel="alternate" hreflang="fr" href="https://traveldocumentvault.com/fr/faq/"> <link rel="alternate" hreflang="de" href="https://traveldocumentvault.com/de/faq/"> <link rel="alternate" hreflang="pt" href="https://traveldocumentvault.com/pt/faq/"> <link rel="alternate" hreflang="sv" href="https://traveldocumentvault.com/sv/faq/"> <link rel="alternate" hreflang="da" href="https://traveldocumentvault.com/da/faq/"> <link rel="alternate" hreflang="it" href="https://traveldocumentvault.com/it/faq/"> <link rel="alternate" hreflang="ja" href="https://traveldocumentvault.com/ja/faq/"> <link rel="alternate" hreflang="zh-Hans" href="https://traveldocumentvault.com/zh-Hans/faq/"> <link rel="alternate" hreflang="id" href="https://traveldocumentvault.com/id/faq/"> <link rel="alternate" hreflang="ru" href="https://traveldocumentvault.com/ru/faq/"> <link rel="alternate" hreflang="uk" href="https://traveldocumentvault.com/uk/faq/"> <link rel="alternate" hreflang="nl" href="https://traveldocumentvault.com/nl/faq/"> <link rel="alternate" hreflang="ko" href="https://traveldocumentvault.com/ko/faq/"> <link rel="alternate" hreflang="th" href="https://traveldocumentvault.com/th/faq/"> <meta property="og:title" content="Passport &amp; Travel Document FAQ | Travel Document Vault"> <meta property="og:description" content="One less thing to worry about. Answers about Travel Document Vault, your offline family passport organizer with smart expiry reminders. No accounts. No cloud. No subscription."> <meta property="og:image" content="https://traveldocumentvault.com/assets/images/social-preview.jpg"> <meta property="og:url" content="https://traveldocumentvault.com/faq/"> <meta property="og:locale" content="en_GB"> <meta property="og:type" content="website"> <meta property="og:image:width" content="1200"> <meta property="og:image:height" content="630"> <meta name="twitter:card" content="summary_large_image"> <meta name="twitter:title" content="Passport &amp; Travel Document FAQ | Travel Document Vault"> <meta name="twitter:description" content="One less thing to worry about. Answers about Travel Document Vault, your offline family passport organizer with smart expiry reminders. No accounts. No cloud. No subscription."> <meta name="twitter:image" content="https://traveldocumentvault.com/assets/images/social-preview.jpg"> <link rel="icon" type="image/svg+xml" href="/assets/images/app_icon.svg"> <link rel="apple-touch-icon" href="/assets/images/app_icon.svg"> <meta name="robots" content="index, follow"> <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml"> <script type="application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    "mainEntity": [{
-      "@type": "Question",
-      "name": "Can the developer see my documents?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. We have no servers and no accounts. Your documents are stored on your device by default. If you choose to enable optional Pro cloud backup, your vault is end-to-end encrypted on-device before upload to your own iCloud or Google Drive, sealed with a recovery code only you hold. We never receive your data and cannot read the encrypted backup. Neither can Apple or Google. The architecture was built this way from the start."
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Can the developer see my documents?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. We have no servers and no accounts. Your documents are stored on your device by default. If you choose to enable optional Pro cloud backup, your vault is end-to-end encrypted on-device before upload to your own iCloud (iOS) or your own Google Drive (Android), sealed with a recovery code only you hold. We never receive your data and cannot read the encrypted backup. Neither can Apple or Google. The architecture was built this way from the start."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What does Sentry crash reporting collect, and can I turn it off?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sentry is a crash reporting tool that helps us find and fix bugs. It is disabled by default and sends absolutely nothing when turned off. If you choose to enable it in Settings, it only sends technical crash diagnostics like your device type and what the app was doing when it crashed. It never sends your documents, names, passport numbers, or anything from your vault."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What does the $9.99 Pro upgrade include?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Pro is a one-time purchase that unlocks unlimited profiles, unlimited documents, combined PDF export, encrypted cloud backup to iCloud or Google Drive, and custom reminder timing. You pay once - no subscription, no recurring charge, and no trial that quietly starts billing you."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Are future updates included with my purchase?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Your purchase covers every update within the current major version (v1.x), including bug fixes, security patches, and new features. Improvements driven by user feedback, like usability changes and new document types, are part of those normal updates. If we ever release a v2.0 with a substantially rebuilt feature set, that may be a separate purchase, but we would give early adopters advance notice and preferential pricing. People who trust the app early are the reason it gets better, and that is not something we take for granted."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What happens if I lose my phone or switch to a new one?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Pro subscribers: Enable encrypted cloud backup in Settings - Cloud Backup. Your vault is encrypted on-device with your recovery code before it reaches iCloud (iOS) or Google Drive (Android). On a fresh install, the app detects the backup automatically and offers one-tap restore. Apple and Google see only ciphertext. We see nothing. Everyone: Use the free Vault Export (.tdvault) in Settings and import it on any device. System backups (iCloud or Google) reinstall the app but cannot restore your documents - the encryption key never leaves your old device by design, so export before you switch phones."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does the app work without an internet connection?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, completely. The core app has no server and does not need the internet to function. Scanning, viewing, exporting, and reminders all work offline. The features that need a connection are restoring your Pro purchase on a new device through the App Store or Google Play, and the optional Your Own Cloud backup, which uses your own iCloud or Google Drive account."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What languages does the app support?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The app is available in over 40 languages, including full right-to-left support for Arabic, Urdu, and Farsi. Your phone's language is detected automatically, and you can change it any time in Settings. If something reads oddly in your language, we genuinely want to know. Drop us a line at support@traveldocumentvault.com and it will directly influence the roadmap."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What happens if you stop developing the app?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Your documents live on your device, not on our servers, so they do not disappear if we stop releasing updates. The app will continue to work as it does today. You can also export everything at any time using the built-in export tools, so you are never locked in."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Who built this app, and why is it privacy-first?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Travel Document Vault was built by Mustafa Hafeez, a senior software developer with years of professional experience building privacy-respecting applications, and a parent who needed this app for his own family. Privacy is not a marketing line. The app was designed and architected from day one so that no accounts are needed, no Travel Document Vault servers are ever involved, and your documents stay readable only by you. Optional cloud backup uses your own iCloud or Google Drive, end-to-end encrypted with a recovery code only you hold. That is a deliberate engineering decision, not a policy that could be changed with a settings toggle."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I snooze a reminder?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. When a reminder fires, tap Snooze directly from the notification. Choose 1 hour, later today, tomorrow, or next week. The app reschedules it automatically. You can also snooze from inside the app on the document detail screen. The reminder comes back at exactly the time you chose. No need to remember to check manually."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I colour-code my documents?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Every document card is colour-coded automatically. Green means valid, amber means expiry is approaching, and red means expired or expiring imminently. You can see the status of your entire vault at a glance without opening a single document. Pro users can go further: override the colour on a per-document-type basis from the profile settings tab. Assign a distinct colour to passports, visas, or any category you want to stand out. This stacks on top of the status colours, so you always see both the category and the urgency at once."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I attach photos to my notes?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Notes and Vouchers support multiple image attachments. Free users can attach one image per note. Pro users can attach up to 10. Attach a photo of a confirmation email, a QR code, a booking reference, or anything else that adds context. Every image is encrypted on-device, exactly like the rest of your vault."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is \"Show to Another Person\"?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Show to Another Person is a protected display mode for moments when a border officer, hotel receptionist, or airline agent needs to see a document on your screen. Tap the icon and the app enters a clean, full-screen view that blocks screenshots and screen recordings. When they hand your phone back, a single tap returns you to your vault. Your documents never leave your device. This mode just gives you a safe, controlled way to present them to someone else without handing over access to your entire vault."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is a recovery code, and why do I need one?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "When you set up App Lock, the app generates a unique recovery code that's your safety net if you ever forget your PIN. Save it somewhere safe - your password manager, a printed note, anywhere you trust. If you forget your PIN, enter your recovery code on the PIN screen. App Lock is disabled and you regain full access without losing a single document. Without a recovery code, the only option is to delete and reinstall the app, which permanently erases your vault. Save your code when prompted. You will not get a second chance."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is Auto-Erase?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Auto-Erase permanently wipes your vault if too many incorrect PIN attempts are made. It is off by default. Enable it in Settings → App Lock if you want maximum protection against a stolen phone. Once too many wrong attempts are made, every document is erased and cannot be recovered. Important: Enable Auto-Erase only after creating a vault export backup. That way, if it ever triggers accidentally, you can restore from your backup. Using it alongside a recovery code gives you both maximum security and a clear path back in."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How is my cloud backup encrypted?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Your vault is encrypted end-to-end using AES-256-GCM on your device before it leaves your phone. The key is derived from your recovery code. Apple and Google can see the encrypted file on their servers, but they cannot decrypt it. Neither can we. Only your recovery code unlocks it. Read full guide →"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do PIN, Face ID, and recovery code work together?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Your PIN is the day-to-day lock. Face ID is a fast shortcut to unlock. The recovery code is the master key for when you forget your PIN entirely. If Face ID fails, try your PIN. If you forget your PIN, enter your recovery code. If you lose the recovery code, you must reinstall the app and restore from cloud backup. Read full guide →"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I export and import my vault?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "You can export your entire vault as an encrypted, password-protected backup file (.tdvault) from Settings, then import it on any device or fresh install. Round-trip export and import preserves everything exactly, so your data is portable and you are never locked in. For step-by-step instructions, see the export-import walkthrough. (Combined multi-document PDF export is a separate Pro feature.) Read full guide →"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Days inside or days outside a country: which should I pick?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Ask yourself one question: are you a guest in this country, or is it your home? Guests count the days they are there, so pick Days inside - that is the one for a visitor limit such as 90 days. Residents count the days they are away, so pick Days outside - that is the one for a residence permit that allows a certain time abroad. Most people need only one of the two, and if you are unsure, Days inside is the more common choice."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are family profiles?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Each family member is a separate profile with their own documents, photos, and reminders - your data is yours, your partner's is theirs, and profiles are local-only so they never sync between devices or people. This design respects privacy and ensures no accidental mixing of sensitive documents."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What happens when I delete something?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Without cloud backup, deleted items go to the trash for 30 days and are then permanently removed from your device. You can restore them at any time during that 30-day window. With cloud backup enabled, items stay in Recently Deleted indefinitely until you tap Delete Forever. See the Cloud Backup section below for details. Clearing the trash or factory-resetting your phone is irreversible."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What happens when I delete a document with cloud backup enabled?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Deleting moves it to Recently Deleted (trash). It stays there indefinitely, there is no automatic purge when cloud backup is on. The trashed document is still backed up to your cloud. To permanently remove it, go to Recently Deleted and tap Delete Forever on each item. You will see a warning that this also removes it from your cloud backup."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What happens if I delete all my documents?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The app will not sync an empty vault to the cloud. Your existing backup is preserved. You can restore from it using Settings, Cloud Backup, Restore from Backup."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I set up cloud backup on a second device?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "When you enable cloud backup on a new device signed into the same iCloud or Google account, the app detects your existing backup and asks whether to restore it or start fresh. Choose Restore from backup and enter your recovery code. Both devices then share the same backup. Starting fresh replaces the existing backup, only choose this if you are certain."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use cloud backup on multiple devices at the same time?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Cloud backup is designed as a single-device backup with multi-device restore. One device is the primary backup source. To move to a new device, restore from your backup on the new device. Simultaneous editing on two devices syncing to the same backup is not supported, the last device to sync wins."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What if I enable cloud backup while offline?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "You need an internet connection to enable cloud backup. The app checks for existing backups in your cloud account during setup, which requires connectivity. Once enabled, the app works fully offline and syncs when you are back online."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is my backup protected if I accidentally delete something?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, multiple layers protect you. Deleted documents stay in Recently Deleted indefinitely (no auto-purge with cloud backup on). Permanent deletion requires a separate confirmation that warns about cloud impact. Even after permanent deletion, the backup retains the document data for several more sync cycles as a safety net. And an empty vault is never synced to the cloud, so a bulk accident cannot wipe your backup."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should I keep my own backup copies as well?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Cloud backup is one safety layer, but no system is perfect. Cloud accounts can be lost, recovery codes can be forgotten, and unexpected sync or storage issues can happen. We strongly recommend keeping an independent copy of critical documents, such as a printed copy in a safe place or an encrypted vault export saved to separate storage. Treat cloud backup as a convenience, not your only line of defense. You are responsible for verifying your documents remain recoverable."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What happens if I lose my recovery code?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Your recovery code is the only key to decrypt your cloud backup. We have a zero-knowledge design, which means we cannot reset, retrieve, or recover it for you. Neither can Apple or Google. If you lose your recovery code, your encrypted backup becomes permanently unrecoverable. Save your recovery code somewhere safe before you depend on cloud backup. A password manager, a printed copy in a secure location, or both. Verify you can read it back before you store it as your only copy."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I back up my data for free?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Vault Export (.tdvault encrypted backup file) is free for everyone. Go to Settings, Export Vault, and the app creates a password-protected file you can save to Files, iCloud Drive, or share off-device. The app also keeps automatic local backups on your device every few minutes, at no cost. Cloud backup to your own iCloud or Google Drive is the Pro option. No backup feature traps your data."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What does \"Last backup: 2 hours ago, 12 documents\" mean in Settings?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "That line shows the app's most recent automatic local backup, how long ago it was saved, and how many documents it contains. It's there to reassure you that a recoverable copy exists on your device. Tap Restore Local Backup to roll back to it if you ever need to."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I restore my vault from a local backup?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Go to Settings, then tap Restore Local Backup. The app shows a list of available backups with timestamps. Pick the one you want, then confirm. To restore from a .tdvault file you exported, tap Import Vault instead and select the file. Both options are free for everyone. Be aware that restoring replaces your current data with the contents of the backup."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "The app is showing a recovery screen or says my data could not be loaded. What do I do?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Don't worry. The app never silently wipes your data. If it can't read the local store it surfaces a recovery screen instead of discarding anything. Tap Restore Local Backup to recover from the most recent automatic backup, or tap Import Vault to restore from a .tdvault file you previously exported. Backups created before a recent app update can also be restored. Your documents are recoverable, and nothing has been deleted."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why did the app create a backup before updating?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Before a major data-format upgrade the app automatically snapshots your vault. If anything goes wrong during the upgrade, you can roll back to that snapshot. The process is automatic and free for everyone."
+        }
       }
-    }, {
-      "@type": "Question",
-      "name": "What does Sentry crash reporting collect, and can I turn it off?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sentry is a crash reporting tool that helps us find and fix bugs. It is disabled by default and sends absolutely nothing when turned off. If you choose to enable it in Settings, it only sends technical crash diagnostics like your device type and what the app was doing when it crashed. It never sends your documents, names, passport numbers, or anything from your vault."
-      }
-    }, {
-      "@type": "Question",
-      "name": "What does the $9.99 Pro upgrade include?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pro is a one-time purchase that unlocks unlimited profiles, unlimited documents, combined PDF export, encrypted cloud backup to iCloud or Google Drive, and custom reminder timing. You pay once - no subscription, no recurring charge, and no trial that quietly starts billing you."
-      }
-    }, {
-      "@type": "Question",
-      "name": "Are future updates included with my purchase?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Your purchase covers every update within the current major version (v1.x), including bug fixes, security patches, and new features. Improvements driven by user feedback, like usability changes and new document types, are part of those normal updates. If we ever release a v2.0 with a substantially rebuilt feature set, that may be a separate purchase, but we would give early adopters advance notice and preferential pricing. People who trust the app early are the reason it gets better, and that is not something we take for granted."
-      }
-    }, {
-      "@type": "Question",
-      "name": "What happens if I lose my phone or switch to a new one?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pro subscribers can enable encrypted cloud backup in the app (Settings - Cloud Backup). Your vault is encrypted on-device with your recovery code before upload, so Apple, Google, and we only ever see ciphertext, and a fresh install offers one-tap restore. If you are not a Pro subscriber, use the free Vault Export in Settings and import it on any device. Note that system backups (iCloud Backup, Google Backup) reinstall the app but cannot restore your documents, because the encryption key never leaves your old device, so export before you switch phones."
-      }
-    }, {
-      "@type": "Question",
-      "name": "Does the app work without an internet connection?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, completely. The core app has no server and does not need the internet to function. Scanning, viewing, exporting, and reminders all work offline. The features that need a connection are restoring your Pro purchase on a new device through the App Store or Google Play, and the optional Your Own Cloud backup, which uses your own iCloud or Google Drive account."
-      }
-    }, {
-      "@type": "Question",
-      "name": "What languages does the app support?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The app is available in over 40 languages, including full right-to-left support for Arabic, Urdu, and Farsi. Your phone's language is detected automatically, and you can change it any time in Settings. If something reads oddly in your language, we genuinely want to know."
-      }
-    }, {
-      "@type": "Question",
-      "name": "What happens if you stop developing the app?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Your documents live on your device, not on our servers, so they do not disappear if we stop releasing updates. The app will continue to work as it does today. You can also export everything at any time using the built-in export tools, so you are never locked in."
-      }
-    }, {
-      "@type": "Question",
-      "name": "Who built this app, and why is it privacy-first?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Travel Document Vault was built by Mustafa Hafeez, a senior software developer with years of professional experience building privacy-respecting applications, and a parent who needed this app for his own family. Privacy is not a marketing line. The app was designed and architected from day one so that no accounts are needed, no Travel Document Vault servers are ever involved, and your documents stay readable only by you. Optional cloud backup uses your own iCloud or Google Drive, end-to-end encrypted with a recovery code only you hold."
-      }
-    }, {
-      "@type": "Question",
-      "name": "Can I snooze a reminder?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. When a reminder fires, tap Snooze directly from the notification. Choose 1 hour, later today, tomorrow, or next week. The app reschedules it automatically. You can also snooze from inside the app on the document detail screen."
-      }
-    }, {
-      "@type": "Question",
-      "name": "Can I colour-code my documents?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Every document card is colour-coded automatically. Green means valid, amber means expiry is approaching, and red means expired or expiring imminently. Pro users can also override the colour on a per-document-type basis from profile settings, assigning a distinct colour to passports, visas, or any category."
-      }
-    }, {
-      "@type": "Question",
-      "name": "Can I attach photos to my notes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Notes and Vouchers support multiple image attachments. Free users can attach one image per note. Pro users can attach up to 10. Every image is encrypted on-device, exactly like the rest of your vault."
-      }
-    }, {
-      "@type": "Question",
-      "name": "What is Show to Another Person?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Show to Another Person is a protected display mode for moments when a border officer, hotel receptionist, or airline agent needs to see a document on your screen. It blocks screenshots and screen recordings. When they hand your phone back, a single tap returns you to your vault. Your documents never leave your device."
-      }
-    }, {
-      "@type": "Question",
-      "name": "What is a recovery code, and why do I need one?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When you set up App Lock, the app generates a unique recovery code that's your safety net if you ever forget your PIN. Save it somewhere safe. If you forget your PIN, enter your recovery code on the PIN screen to disable App Lock and regain full access without losing any documents."
-      }
-    }, {
-      "@type": "Question",
-      "name": "What is Auto-Erase?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Auto-Erase permanently wipes your vault if too many incorrect PIN attempts are made. It is off by default. Enable it in Settings if you want maximum protection against a stolen phone. Use it alongside a vault export backup so you can restore if it ever triggers accidentally."
-      }
-    }, {
-      "@type": "Question",
-      "name": "How is my cloud backup encrypted?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Your vault is encrypted end-to-end using AES-256-GCM on your device before it leaves your phone. The key is derived from your recovery code. Apple and Google can see the encrypted file on their servers, but they cannot decrypt it. Neither can we. Only your recovery code unlocks it."
-      }
-    }, {
-      "@type": "Question",
-      "name": "How do PIN, Face ID, and recovery code work together?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Your PIN is the day-to-day lock. Face ID is a fast shortcut to unlock. The recovery code is the master key for when you forget your PIN entirely. If Face ID fails, try your PIN. If you forget your PIN, enter your recovery code. If you lose the recovery code, you must reinstall the app and restore from cloud backup."
-      }
-    }, {
-      "@type": "Question",
-      "name": "How do I export and import my vault?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Every user can export their entire vault as an encrypted, password-protected backup file (.tdvault) from Settings, then import it on any device or fresh install. Round-trip export and import preserves everything exactly, so your data is portable and you are never locked in. (Combined multi-document PDF export is a separate Pro feature.)"
-      }
-    }, {
-      "@type": "Question",
-      "name": "Days inside or days outside a country: which should I pick?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ask yourself one question: are you a guest in this country, or is it your home? Guests count the days they are there, so pick Days inside, which is the setting for a visitor limit such as 90 days. Residents count the days they are away, so pick Days outside, which is the setting for a residence permit that allows a certain time abroad. Most people need only one of the two, and if you are unsure, Days inside is the more common choice."
-      }
-    }, {
-      "@type": "Question",
-      "name": "What are family profiles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Each family member is a separate profile with their own documents, photos, and reminders - your data is yours, your partner's is theirs, and profiles are local-only so they never sync between devices or people. This design respects privacy and ensures no accidental mixing of sensitive documents."
-      }
-    }, {
-      "@type": "Question",
-      "name": "What happens when I delete something?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Without cloud backup, deleted items go to the trash for 30 days and are then permanently removed from your device. You can restore them at any time during that 30-day window. With cloud backup enabled, items stay in Recently Deleted indefinitely until you tap Delete Forever. See the Cloud Backup section below for details. Clearing the trash or factory-resetting your phone is irreversible."
-      }
-    }, {
-      "@type": "Question",
-      "name": "What happens when I delete a document with cloud backup enabled?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Deleting moves it to Recently Deleted (trash). It stays there indefinitely, there is no automatic purge when cloud backup is on. The trashed document is still backed up to your cloud. To permanently remove it, go to Recently Deleted and tap Delete Forever on each item. You will see a warning that this also removes it from your cloud backup."
-      }
-    }, {
-      "@type": "Question",
-      "name": "What happens if I delete all my documents?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The app will not sync an empty vault to the cloud. Your existing backup is preserved. You can restore from it using Settings, Cloud Backup, Restore from Backup."
-      }
-    }, {
-      "@type": "Question",
-      "name": "How do I set up cloud backup on a second device?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When you enable cloud backup on a new device signed into the same iCloud or Google account, the app detects your existing backup and asks whether to restore it or start fresh. Choose Restore from backup and enter your recovery code. Both devices then share the same backup. Starting fresh replaces the existing backup, only choose this if you are certain."
-      }
-    }, {
-      "@type": "Question",
-      "name": "Can I use cloud backup on multiple devices at the same time?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cloud backup is designed as a single-device backup with multi-device restore. One device is the primary backup source. To move to a new device, restore from your backup on the new device. Simultaneous editing on two devices syncing to the same backup is not supported, the last device to sync wins."
-      }
-    }, {
-      "@type": "Question",
-      "name": "What if I enable cloud backup while offline?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You need an internet connection to enable cloud backup. The app checks for existing backups in your cloud account during setup, which requires connectivity. Once enabled, the app works fully offline and syncs when you are back online."
-      }
-    }, {
-      "@type": "Question",
-      "name": "Is my backup protected if I accidentally delete something?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, multiple layers protect you. Deleted documents stay in Recently Deleted indefinitely (no auto-purge with cloud backup on). Permanent deletion requires a separate confirmation that warns about cloud impact. Even after permanent deletion, the backup retains the document data for several more sync cycles as a safety net. And an empty vault is never synced to the cloud, so a bulk accident cannot wipe your backup."
-      }
-    }, {
-      "@type": "Question",
-      "name": "Should I keep my own backup copies as well?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Cloud backup is one safety layer, but no system is perfect. Cloud accounts can be lost, recovery codes can be forgotten, and unexpected sync or storage issues can happen. We strongly recommend keeping an independent copy of critical documents, such as a printed copy in a safe place or an encrypted vault export saved to separate storage. Treat cloud backup as a convenience, not your only line of defense. You are responsible for verifying your documents remain recoverable."
-      }
-    }, {
-      "@type": "Question",
-      "name": "What happens if I lose my recovery code?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Your recovery code is the only key to decrypt your cloud backup. We have a zero-knowledge design, which means we cannot reset, retrieve, or recover it for you. Neither can Apple or Google. If you lose your recovery code, your encrypted backup becomes permanently unrecoverable. Save your recovery code somewhere safe before you depend on cloud backup. A password manager, a printed copy in a secure location, or both. Verify you can read it back before you store it as your only copy."
-      }
-    }, {
-      "@type": "Question",
-      "name": "Can I back up my data for free?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Vault Export (.tdvault encrypted backup file) is free for everyone. The app also keeps automatic local backups on your device every few minutes, at no cost. Cloud backup to your own iCloud or Google Drive is the Pro option. No backup feature traps your data."
-      }
-    }, {
-      "@type": "Question",
-      "name": "What does 'Last backup: 2 hours ago, 12 documents' mean in Settings?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "That line shows the app's most recent automatic local backup, how long ago it was saved, and how many documents it contains. It reassures you that a recoverable copy exists on your device. Tap Restore Local Backup to roll back to it."
-      }
-    }, {
-      "@type": "Question",
-      "name": "How do I restore my vault from a local backup?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Go to Settings, then tap Restore Local Backup. The app shows a list of available backups with timestamps. Pick the one you want, then confirm. To restore from a .tdvault file you exported, tap Import Vault instead and select the file. Both options are free for everyone. Restoring replaces your current data with the contents of the backup."
-      }
-    }, {
-      "@type": "Question",
-      "name": "The app is showing a recovery screen or says my data could not be loaded. What do I do?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The app never silently wipes your data. If it cannot read the local store, it surfaces a recovery screen instead of discarding anything. Tap Restore Local Backup to recover from the most recent automatic backup, or tap Import Vault to restore from a .tdvault file you previously exported. Backups created before a recent app update can also be restored. Your documents are recoverable and nothing has been deleted."
-      }
-    }, {
-      "@type": "Question",
-      "name": "Why did the app create a backup before updating?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Before a major data-format upgrade the app automatically snapshots your vault so it can roll back if anything goes wrong. The process is automatic and free for everyone."
-      }
-    }]
+    ]
   } </script> <link rel="preload" href="../dist/output.css?v=18ea3e6a" as="style"> <link rel="stylesheet" href="../dist/output.css?v=18ea3e6a"> <style>html{scroll-behavior:smooth}.glass-panel{background:rgba(17,25,40,.6);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border:1px solid rgba(255,255,255,.08)}.nav-link-active{color:#fff!important;border-bottom:2px solid #ffb000;padding-bottom:2px}.faq-item{border-bottom:1px solid rgba(255,255,255,.08);border-left:3px solid transparent;transition:border-color .3s ease,background-color .3s ease}.faq-item:last-child{border-bottom:none}.faq-item:has(.faq-toggle:checked){border-left-color:#ffb000;background-color:rgba(255,176,0,.05)}.faq-content{max-height:0;overflow:hidden;transition:max-height .3s ease,padding .3s ease}.faq-toggle:checked~.faq-content{max-height:800px;padding-top:1rem;padding-bottom:.5rem}.faq-arrow{transition:transform .3s ease}.faq-toggle:checked~.faq-label .faq-arrow{transform:rotate(180deg)}.scroll-fade-in{opacity:0;transform:translateY(30px);transition:opacity .6s ease-out,transform .6s ease-out}.scroll-fade-in.visible{opacity:1;transform:translateY(0)}</style> <script type="application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "WebPage",
