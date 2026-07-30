@@ -1,6 +1,6 @@
 # Combien de temps prend le renouvellement de passeport ? (États-Unis, Royaume-Uni, Australie, Canada)
 
-> Combien de temps prend le renouvellement de passeport ? Délais de traitement aux États-Unis, au Royaume-Uni, en Australie et au Canada. Restez organisé avec des rappels d
+> Combien de temps prend le renouvellement de passeport ? Délais de traitement aux États-Unis, au Royaume-Uni, en Australie et au Canada. Restez organisé avec des rappels d'expiration intelligents dans notre coffre hors ligne, chiffré en AES-256-GCM.
 
 Source: https://traveldocumentvault.com/fr/blog/how-long-does-passport-renewal-take/
 

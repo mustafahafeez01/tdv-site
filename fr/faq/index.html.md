@@ -1,6 +1,6 @@
 # FAQ | Travel Document Vault
 
-> Une chose de moins à laquelle penser. Questions et réponses sur Travel Document Vault, votre organiseur de passeport familial hors ligne avec rappels d
+> Une chose de moins à laquelle penser. Questions et réponses sur Travel Document Vault, votre organiseur de passeport familial hors ligne avec rappels d'expiration intelligents. Pas de comptes. Pas de cloud. Pas d'abonnement.
 
 Source: https://traveldocumentvault.com/fr/faq/
 

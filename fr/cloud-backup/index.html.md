@@ -1,6 +1,6 @@
 # Sauvegarde cloud chiffrée | Votre cloud. Votre clé. | Travel Document Vault
 
-> Sauvegarde chiffrée de bout en bout vers votre propre iCloud ou Google Drive. Vous détenez le code de récupération. AES-256-GCM + PBKDF2 600k. Nous ne l
+> Sauvegarde chiffrée de bout en bout vers votre propre iCloud ou Google Drive. Vous détenez le code de récupération. AES-256-GCM + PBKDF2 600k. Nous ne l'accédons jamais. Accès sur n'importe quel appareil. Hors ligne en premier.
 
 Source: https://traveldocumentvault.com/fr/cloud-backup/
 

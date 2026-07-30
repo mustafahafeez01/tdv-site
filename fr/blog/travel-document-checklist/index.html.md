@@ -1,6 +1,6 @@
 # Liste de contrôle complète des documents de voyage international
 
-> La liste de contrôle complète 2026 des documents de voyage international. Organisez tout hors ligne en un seul endroit avec l
+> La liste de contrôle complète 2026 des documents de voyage international. Organisez tout hors ligne en un seul endroit avec l'application Travel Document Vault chiffrée en AES-256-GCM.
 
 Source: https://traveldocumentvault.com/fr/blog/travel-document-checklist/
 

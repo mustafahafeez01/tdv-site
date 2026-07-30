@@ -1,6 +1,6 @@
 # Qu'est-ce que mon code de récupération ? | Travel Document Vault
 
-> Votre code de récupération est la clé maître de vos sauvegardes cloud chiffrées. Découvrez ce qu
+> Votre code de récupération est la clé maître de vos sauvegardes cloud chiffrées. Découvrez ce qu'il est, pourquoi vous en avez besoin, ce qui se passe si vous le perdez, et comment le stocker en toute sécurité.
 
 Source: https://traveldocumentvault.com/fr/faq/recovery-code/
 

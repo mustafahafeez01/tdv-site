@@ -1,6 +1,6 @@
 # Come Scattare una Foto Passaporto a Casa Che Viene Accettata
 
-> Come ottenere l
+> Come ottenere l'approvazione della foto passaporto al primo tentativo: sfondo, illuminazione, espressione e i motivi di rifiuto che colpiscono la maggior parte delle persone.
 
 Source: https://traveldocumentvault.com/it/blog/passport-photo-at-home/
 

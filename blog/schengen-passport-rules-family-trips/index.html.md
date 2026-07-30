@@ -1,6 +1,6 @@
 # Schengen Passport Rules for Family Trips: What Parents Get Wrong
 
-> Schengen needs 3 months
+> Schengen needs 3 months' validity beyond departure, not 6 - and kids' passports expire in 5 years. What families should check the day they book.
 
 Source: https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/
 

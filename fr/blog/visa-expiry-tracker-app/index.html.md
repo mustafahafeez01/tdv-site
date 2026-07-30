@@ -1,6 +1,6 @@
 # Application de suivi des visas: Ce qu'il faut rechercher
 
-> Suivi des visas prévient dépassements et pénalités. Fonctionnalités à chercher et comment bien choisir l
+> Suivi des visas prévient dépassements et pénalités. Fonctionnalités à chercher et comment bien choisir l'application.
 
 Source: https://traveldocumentvault.com/fr/blog/visa-expiry-tracker-app/
 

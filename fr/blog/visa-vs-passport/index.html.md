@@ -1,6 +1,6 @@
 # Visa vs Passeport : Quelle est la différence ?
 
-> Un passeport prouve qui vous êtes. Un visa accorde l
+> Un passeport prouve qui vous êtes. Un visa accorde l'autorisation d'entrer. Voici ce que chacun fait, pourquoi la plupart des voyages exigent les deux, et comment vérifier votre destination.
 
 Source: https://traveldocumentvault.com/fr/blog/visa-vs-passport/
 

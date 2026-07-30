@@ -1,6 +1,6 @@
 # La règle des 6 mois de validité du passeport : quels pays l'appliquent et comment l'éviter
 
-> La règle des 6 mois de validité du passeport prend au dépourvu des milliers de voyageurs. Découvrez les pays qui l
+> La règle des 6 mois de validité du passeport prend au dépourvu des milliers de voyageurs. Découvrez les pays qui l'appliquent et utilisez Travel Document Vault pour suivre automatiquement vos dates d'expiration. Essai gratuit pour 5 documents.
 
 Source: https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/
 

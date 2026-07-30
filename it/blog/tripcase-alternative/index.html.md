@@ -1,6 +1,6 @@
 # Alternativa a TripCase: archiviazione dei documenti di viaggio offline
 
-> TripCase ha chiuso nel 2025. Cosa usare invece per itinerari e documenti di viaggio e perché l
+> TripCase ha chiuso nel 2025. Cosa usare invece per itinerari e documenti di viaggio e perché l'archiviazione offline è più sicura.
 
 Source: https://traveldocumentvault.com/it/blog/tripcase-alternative/
 

@@ -1,6 +1,6 @@
 # Meilleure application d'organisation des passeports
 
-> Trouver la meilleure appli d
+> Trouver la meilleure appli d'organisation des passeports. Pourquoi stockage hors ligne et AES-256-GCM importent pour sécurité.
 
 Source: https://traveldocumentvault.com/fr/blog/best-passport-organizer-app/
 

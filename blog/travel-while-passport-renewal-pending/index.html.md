@@ -1,6 +1,6 @@
 # Can You Travel While Your Passport Is Being Renewed?
 
-> Find out whether you can travel while your passport renewal is pending. Rules differ by country and by how you applied. Here
+> Find out whether you can travel while your passport renewal is pending. Rules differ by country and by how you applied. Here's what you need to know.
 
 Source: https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/
 

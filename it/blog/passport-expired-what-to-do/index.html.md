@@ -1,6 +1,6 @@
 # Passaporto scaduto? Ecco esattamente cosa fare (Guida passo dopo passo)
 
-> Ha scoperto che il Suo passaporto è scaduto? Ecco esattamente cosa fare. La prossima volta eviti questa situazione con avvisi intelligenti di scadenza dall
+> Ha scoperto che il Suo passaporto è scaduto? Ecco esattamente cosa fare. La prossima volta eviti questa situazione con avvisi intelligenti di scadenza dall'archivio crittografato offline AES-256-GCM.
 
 Source: https://traveldocumentvault.com/it/blog/passport-expired-what-to-do/
 

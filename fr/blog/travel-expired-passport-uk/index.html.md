@@ -1,6 +1,6 @@
 # Pouvez-vous voyager avec un passeport expiré ? Les règles au Royaume-Uni
 
-> Vous ne pouvez pas voyager à l
+> Vous ne pouvez pas voyager à l'international avec un passeport expiré. Règles absolues, exceptions nationales, renouvellement d'urgence et vérifications des compagnies aériennes.
 
 Source: https://traveldocumentvault.com/fr/blog/travel-expired-passport-uk/
 

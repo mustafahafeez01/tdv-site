@@ -1,6 +1,6 @@
 # Votre fenêtre Schengen de 90 jours - Compter les jours à l'ère du EES
 
-> Le système frontalier EES de l
+> Le système frontalier EES de l'Europe enregistre désormais automatiquement vos jours Schengen. Comment fonctionne la règle 90/180, ce que le EES ne vous dit pas, et comment garder l'avance.
 
 Source: https://traveldocumentvault.com/fr/blog/schengen-90-days-auto-tracked-ees/
 

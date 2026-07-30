@@ -1,6 +1,6 @@
 # Vérification de la confidentialité | Travel Document Vault
 
-> Déclarations de confidentialité vérifiables pour Travel Document Vault. Zéro suivi, zéro collecte de données. Sur l
+> Déclarations de confidentialité vérifiables pour Travel Document Vault. Zéro suivi, zéro collecte de données. Sur l'appareil par défaut - pas de cloud TDV, pas de compte requis. Consultez chaque autorisation que nous demandons et pourquoi.
 
 Source: https://traveldocumentvault.com/fr/privacy-verification/
 

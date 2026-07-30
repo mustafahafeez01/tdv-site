@@ -1,6 +1,6 @@
 # Your 90-Day Schengen Window: Counting Days in the EES Era
 
-> Europe
+> Europe's EES border system now records your Schengen days automatically. How the 90/180 rule works, what EES does not tell you, and how to stay ahead.
 
 Source: https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/
 

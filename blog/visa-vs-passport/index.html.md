@@ -1,6 +1,6 @@
 # Visa vs Passport: What's the Difference?
 
-> A passport proves who you are. A visa grants permission to enter. Here
+> A passport proves who you are. A visa grants permission to enter. Here's what each does, why most trips need both, and how to check your destination.
 
 Source: https://traveldocumentvault.com/blog/visa-vs-passport/
 

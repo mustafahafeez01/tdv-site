@@ -1,6 +1,6 @@
 # Gestion des passeports familiaux : stocker plusieurs passeports en toute sécurité
 
-> Comment organiser et stocker en toute sécurité les passeports familiaux dans un seul endroit. Suivez les dates d
+> Comment organiser et stocker en toute sécurité les passeports familiaux dans un seul endroit. Suivez les dates d'expiration de chaque membre de la famille, avec des rappels avant chaque renouvellement.
 
 Source: https://traveldocumentvault.com/fr/blog/family-passport-management/
 

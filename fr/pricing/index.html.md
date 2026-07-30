@@ -1,6 +1,6 @@
 # Prix Travel Document Vault - Achat Unique, Sans Abonnement
 
-> Travel Document Vault coûte $9.99. Pas d
+> Travel Document Vault coûte $9.99. Pas d'abonnement, pas de frais cachés. Un achat couvre toute votre famille. Tier gratuit disponible.
 
 Source: https://traveldocumentvault.com/fr/pricing/
 

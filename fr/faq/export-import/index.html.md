@@ -1,6 +1,6 @@
 # Comment exporter et importer votre coffre-fort | Travel Document Vault
 
-> Guide pas à pas pour exporter votre coffre-fort complet sous forme de fichier chiffré et l
+> Guide pas à pas pour exporter votre coffre-fort complet sous forme de fichier chiffré et l'importer sur un nouveau appareil. Préservez vos données et garantissez leur portabilité.
 
 Source: https://traveldocumentvault.com/fr/faq/export-import/
 

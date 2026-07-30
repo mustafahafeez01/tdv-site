@@ -1,6 +1,6 @@
 # ETIAS 2026 : Quels documents vous devez avoir et comment demander
 
-> Les visiteurs du Royaume-Uni, des États-Unis et du Canada ont besoin d
+> Les visiteurs du Royaume-Uni, des États-Unis et du Canada ont besoin d'une ETIAS pour 2026. Passeport (valide 3+ mois), e-mail, justificatif de revenus optionnel. Coût : 20 euros. Demandez 2 mois à l'avance.
 
 Source: https://traveldocumentvault.com/fr/blog/etias-documents-2026/
 

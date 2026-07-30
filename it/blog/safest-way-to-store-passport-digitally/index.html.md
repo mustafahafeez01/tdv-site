@@ -1,6 +1,6 @@
 # Il Modo Più Sicuro di Archiviare il Passaporto
 
-> Confronto tra iCloud, Google Photos e vault crittografati. Scopri i compromessi di sicurezza dell
+> Confronto tra iCloud, Google Photos e vault crittografati. Scopri i compromessi di sicurezza dell'archiviazione digitale del passaporto.
 
 Source: https://traveldocumentvault.com/it/blog/safest-way-to-store-passport-digitally/
 

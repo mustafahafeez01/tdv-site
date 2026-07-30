@@ -1,6 +1,6 @@
 # Può viaggiare con un passaporto scaduto? Regole del Regno Unito
 
-> Non può volare internazionalmente con un passaporto scaduto. Regole assolute, eccezioni nazionali, rinnovo d
+> Non può volare internazionalmente con un passaporto scaduto. Regole assolute, eccezioni nazionali, rinnovo d'emergenza e cosa controllano le compagnie aeree.
 
 Source: https://traveldocumentvault.com/it/blog/travel-expired-passport-uk/
 

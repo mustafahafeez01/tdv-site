@@ -1,6 +1,6 @@
 # Family Passport Management: Store Multiple Passports Safely
 
-> How to organise and securely store multiple family passports in one place. Track every family member
+> How to organise and securely store multiple family passports in one place. Track every family member's expiry dates, with reminders before each renewal.
 
 Source: https://traveldocumentvault.com/blog/family-passport-management/
 

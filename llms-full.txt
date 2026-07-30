@@ -407,7 +407,7 @@ It depends where you are and how close your trip is, and published processing ti
 
 # Digital Passport Copy: What Counts as Valid ID When Travelling?
 
-> Airlines, hotels, embassies, and border officers all treat digital passport copies differently. Here
+> Airlines, hotels, embassies, and border officers all treat digital passport copies differently. Here's exactly where a digital copy helps, and where you need the physical document.
 
 Source: https://traveldocumentvault.com/blog/digital-passport-copy-valid/
 
@@ -658,7 +658,7 @@ Yes. ETIAS is not yet mandatory. Until late 2026, visa-exempt citizens can trave
 
 # Family Passport Management: Store Multiple Passports Safely
 
-> How to organise and securely store multiple family passports in one place. Track every family member
+> How to organise and securely store multiple family passports in one place. Track every family member's expiry dates, with reminders before each renewal.
 
 Source: https://traveldocumentvault.com/blog/family-passport-management/
 
@@ -1467,7 +1467,7 @@ Having a secure digital copy of your passport stored before you travel is the si
 
 # Passport Expired? Here's Exactly What to Do (Step by Step)
 
-> Discovered your passport is expired? Here
+> Discovered your passport is expired? Here's exactly what to do. Avoid this next time with intelligent expiry reminders from our offline, AES-256-GCM encrypted vault.
 
 Source: https://traveldocumentvault.com/blog/passport-expired-what-to-do/
 
@@ -2040,7 +2040,7 @@ For families, a dedicated encrypted app that stores documents for multiple peopl
 
 # Your 90-Day Schengen Window: Counting Days in the EES Era
 
-> Europe
+> Europe's EES border system now records your Schengen days automatically. How the 90/180 rule works, what EES does not tell you, and how to stay ahead.
 
 Source: https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/
 
@@ -2134,7 +2134,7 @@ The app counts days per person, per country, across all your trips, and projects
 
 # Schengen Passport Rules for Family Trips: What Parents Get Wrong
 
-> Schengen needs 3 months
+> Schengen needs 3 months' validity beyond departure, not 6 - and kids' passports expire in 5 years. What families should check the day they book.
 
 Source: https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/
 
@@ -2233,7 +2233,7 @@ Airlines check every passport against IATA's Timatic database, which applies the
 
 # International Travel Document Checklist for Every Trip
 
-> The complete 2026 international travel document checklist. Organise everything offline in one place with Travel Document Vault
+> The complete 2026 international travel document checklist. Organise everything offline in one place with Travel Document Vault's AES-256-GCM encrypted app.
 
 Source: https://traveldocumentvault.com/blog/travel-document-checklist/
 
@@ -2492,7 +2492,7 @@ No, but you still cannot travel with it. A damaged passport may be rejected by a
 
 # Can You Travel While Your Passport Is Being Renewed?
 
-> Find out whether you can travel while your passport renewal is pending. Rules differ by country and by how you applied. Here
+> Find out whether you can travel while your passport renewal is pending. Rules differ by country and by how you applied. Here's what you need to know.
 
 Source: https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/
 
@@ -2834,7 +2834,7 @@ It depends on the visa type. For long-stay visas requiring renewal, 90 days is a
 
 # Visa vs Passport: What's the Difference?
 
-> A passport proves who you are. A visa grants permission to enter. Here
+> A passport proves who you are. A visa grants permission to enter. Here's what each does, why most trips need both, and how to check your destination.
 
 Source: https://traveldocumentvault.com/blog/visa-vs-passport/
 

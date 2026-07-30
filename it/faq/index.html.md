@@ -1,6 +1,6 @@
 # Domande Frequenti | Travel Document Vault
 
-> Una cosa in meno di cui preoccuparsi. Risposte su Travel Document Vault, l
+> Una cosa in meno di cui preoccuparsi. Risposte su Travel Document Vault, l'organizzatore offline di passaporti di famiglia con promemoria di scadenza intelligenti. Nessun account. Nessun cloud. Nessun abbonamento.
 
 Source: https://traveldocumentvault.com/it/faq/
 

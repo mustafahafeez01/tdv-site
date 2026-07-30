@@ -1,6 +1,6 @@
 # International Travel Document Checklist for Every Trip
 
-> The complete 2026 international travel document checklist. Organise everything offline in one place with Travel Document Vault
+> The complete 2026 international travel document checklist. Organise everything offline in one place with Travel Document Vault's AES-256-GCM encrypted app.
 
 Source: https://traveldocumentvault.com/blog/travel-document-checklist/
 
