@@ -349,9 +349,9 @@ Pro permite-lhe exportar todo o seu cofre como um ficheiro .tdvault encriptado q
 
 [Ler guia completo →](https://traveldocumentvault.com/pt/faq/export-import/)
 
-Modos de permissão Visitante vs Casa: qual devo escolher?
+Dias dentro ou dias fora de um país: qual devo escolher?
 
-O modo Visitante regista dias NUM país. O modo Casa regista dias LONGE do seu país de origem. Escolha Visitante se está a seguir uma regra como Schengen 90/180. Escolha Casa se está a rastrear residência fiscal ou uma regra similar de permissão no estrangeiro. Não tem a certeza? Visitante é a opção por defeito mais segura para a maioria dos viajantes.
+Faça a si mesmo uma pergunta: é um visitante neste país, ou é a sua casa? Os visitantes contam os dias em que lá estão, por isso escolha **Dias dentro do país** - é a opção para um limite de visitante como 90 dias. Os residentes contam os dias em que estão fora, por isso escolha **Dias fora do país** - é a opção para uma autorização de residência que permite certo tempo no estrangeiro. A maioria das pessoas precisa apenas de uma das duas e, em caso de dúvida, Dias dentro do país é a escolha mais comum.
 
 O que são perfis de família?
 

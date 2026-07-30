@@ -349,9 +349,9 @@ Pro Le consente di esportare l'intero caveau come file .tdvault crittografato ch
 
 [Leggi la guida completa →](https://traveldocumentvault.com/it/faq/export-import/)
 
-Modalità di indennità Visitatore vs Casa: quale dovrei scegliere?
+Giorni all'interno o giorni al di fuori di un paese: quale devo scegliere?
 
-La modalità Visitatore tiene traccia dei giorni IN un paese. La modalità Casa tiene traccia dei giorni LONTANO dal Suo paese di origine. Scelga Visitatore se sta seguendo una regola come Schengen 90/180. Scelga Casa se sta tracciando la residenza fiscale o una regola di indennità simile all'estero. Non è sicuro? Visitatore è l'impostazione predefinita più sicura per la maggior parte dei viaggiatori.
+Poniti una domanda: sei un ospite in questo paese, o è casa tua? Gli ospiti contano i giorni in cui sono lì, quindi scegli **Giorni all'interno del paese** - è quella per un limite da visitatore come 90 giorni. I residenti contano i giorni in cui sono via, quindi scegli **Giorni al di fuori del paese** - è quella per un permesso di soggiorno che consente un certo tempo all'estero. Alla maggior parte delle persone ne serve solo una delle due, e se hai dubbi, Giorni all'interno del paese è la scelta più comune.
 
 Cosa sono i profili familiari?
 

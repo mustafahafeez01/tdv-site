@@ -342,9 +342,9 @@ Mengapa aplikasi membuat cadangan sebelum memperbarui?
 
 Sebelum pembaruan format data besar, aplikasi secara otomatis membuat snapshot vault Anda sehingga dapat melakukan rollback jika terjadi masalah. Prosesnya otomatis dan gratis untuk semua orang.
 
-Mode tunjangan Pengunjung vs Rumah: mana yang harus saya pilih?
+Hari di dalam atau hari di luar negara: mana yang harus saya pilih?
 
-Mode Pengunjung melacak hari DI negara. Mode Rumah melacak hari JAUH dari negara asal Anda.
+Tanyakan satu hal pada diri Anda: apakah Anda tamu di negara ini, atau ini rumah Anda? Tamu menghitung hari saat mereka berada di sana, jadi pilih **Hari di dalam negara** - itu untuk batas kunjungan seperti 90 hari. Penduduk menghitung hari saat mereka pergi, jadi pilih **Hari di luar negara** - itu untuk izin tinggal yang mengizinkan waktu tertentu di luar negeri. Kebanyakan orang hanya memerlukan salah satu dari keduanya, dan jika ragu, Hari di dalam negara adalah pilihan yang lebih umum.
 
 Apa itu profil keluarga?
 

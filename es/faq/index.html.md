@@ -349,9 +349,9 @@ Pro te permite exportar toda tu bóveda como un archivo .tdvault cifrado que con
 
 [Leer guía completa →](https://traveldocumentvault.com/es/faq/export-import/)
 
-Modos de permiso Visitor frente a Home: ¿cuál debo elegir?
+Días dentro o días fuera de un país: ¿cuál debo elegir?
 
-El modo Visitor rastrea días EN un país. El modo Home rastrea días FUERA de tu país de origen. Elige Visitor si estás siguiendo una regla como Schengen 90/180. Elige Home si estás rastreando residencia fiscal o una regla de permiso similar en el extranjero. ¿No estás seguro? Visitor es la opción predeterminada más segura para la mayoría de viajeros.
+Hazte una pregunta: ¿eres un huésped en este país o es tu hogar? Los huéspedes cuentan los días que están allí, así que elige **Días dentro del país** - esa es la opción para un límite de visitante como 90 días. Los residentes cuentan los días que están fuera, así que elige **Días fuera del país** - esa es la opción para un permiso de residencia que permite cierto tiempo en el extranjero. La mayoría solo necesita una de las dos, y si tienes dudas, Días dentro del país es la opción más habitual.
 
 ¿Qué son los perfiles familiares?
 

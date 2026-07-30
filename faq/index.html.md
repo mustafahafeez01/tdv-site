@@ -330,9 +330,9 @@ You can export your entire vault as an encrypted, password-protected backup file
 
 [Read full guide →](https://traveldocumentvault.com/faq/export-import/)
 
-Visitor vs Home allowance modes: which should I pick?
+Days inside or days outside a country: which should I pick?
 
-Visitor mode tracks days IN a country. Home mode tracks days AWAY from your home country. Pick Visitor if you are following a rule like Schengen 90/180. Pick Home if you are tracking tax residency or a similar abroad-allowance rule. Unsure? Visitor is the safer default for most travellers.
+Ask yourself one question: are you a guest in this country, or is it your home? Guests count the days they are there, so pick **Days inside** - that is the one for a visitor limit such as 90 days. Residents count the days they are away, so pick **Days outside** - that is the one for a residence permit that allows a certain time abroad. Most people need only one of the two, and if you are unsure, Days inside is the more common choice.
 
 What are family profiles?
 

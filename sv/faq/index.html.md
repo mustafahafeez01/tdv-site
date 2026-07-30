@@ -349,9 +349,9 @@ Alla användare kan exportera hela sitt valv som en krypterad, lösenordsskyddad
 
 [Läs hela guiden →](https://traveldocumentvault.com/sv/faq/export-import/)
 
-Bidragslägen Besökande vs Hem: vilken ska jag välja?
+Dagar inne i eller dagar utanför ett land: vad ska jag välja?
 
-Besöksläge spårar dagar I ett land. Hemläge spårar dagar BORT från ditt hemland.
+Ställ dig en fråga: är du gäst i det här landet, eller är det ditt hem? Gäster räknar dagarna de är där, så välj **Dagar inne i landet** - det är den för en besöksgräns som 90 dagar. Bosatta räknar dagarna de är borta, så välj **Dagar utanför landet** - det är den för ett uppehållstillstånd som tillåter en viss tid utomlands. De flesta behöver bara en av de två, och är du osäker är Dagar inne i landet det vanligare valet.
 
 Vad är familjeprofiler?
 

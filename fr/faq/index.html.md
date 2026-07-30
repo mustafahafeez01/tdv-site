@@ -147,9 +147,9 @@ Pro vous permet d'exporter votre coffre entier sous la forme d'un fichier .tdvau
 
 [Lire le guide complet →](https://traveldocumentvault.com/fr/faq/export-import/)
 
-Modes d'allocation Visiteur vs Maison : lequel dois-je choisir ?
+Jours à l'intérieur ou jours à l'extérieur d'un pays : lequel choisir ?
 
-Le mode Visiteur suit les jours DANS un pays. Le mode Maison suit les jours LOIN de votre pays d'origine. Choisissez Visiteur si vous suivez une règle comme Schengen 90/180. Choisissez Maison si vous suivez la résidence fiscale ou une règle d'allocation similaire à l'étranger. Vous n'êtes pas certain ? Visiteur est le défaut plus sûr pour la plupart des voyageurs.
+Posez-vous une seule question : êtes-vous un invité dans ce pays, ou est-ce chez vous ? Les invités comptent les jours passés sur place, choisissez donc **Jours à l'intérieur du pays** - c'est le réglage pour une limite de visiteur comme 90 jours. Les résidents comptent les jours passés au loin, choisissez donc **Jours à l'extérieur du pays** - c'est le réglage pour un titre de séjour qui autorise un certain temps à l'étranger. La plupart des gens n'ont besoin que de l'un des deux, et en cas de doute, Jours à l'intérieur du pays est le choix le plus courant.
 
 Qu'est-ce que les profils familiaux ?
 

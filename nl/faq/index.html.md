@@ -348,9 +348,9 @@ Elke gebruiker kan zijn volledige kluis exporteren als een versleuteld, met een 
 
 [Lees volledige gids →](https://traveldocumentvault.com/nl/faq/export-import/)
 
-Bezoeker versus thuismodi: welke moet ik kiezen?
+Dagen in of dagen buiten een land: wat moet ik kiezen?
 
-Bezoekermodus houdt dagen IN een land bij. Thuismodus houdt dagen WEG van uw thuisland bij. Kies Bezoeker als u een regel volgt zoals Schengen 90/180. Kies Thuis als u belastingwoonplaats of een soortgelijke regel voor het buitenland bijhoudt. Onzeker? Bezoeker is de veiliger standaardinstelling voor de meeste reizigers.
+Stel uzelf één vraag: bent u te gast in dit land, of is het uw thuis? Gasten tellen de dagen dat ze er zijn, kies dus **Dagen in het land** - dat is de instelling voor een bezoekerslimiet zoals 90 dagen. Bewoners tellen de dagen dat ze weg zijn, kies dus **Dagen buiten het land** - dat is de instelling voor een verblijfsvergunning die een bepaalde tijd in het buitenland toestaat. De meeste mensen hebben er maar één van de twee nodig, en als u twijfelt, is Dagen in het land de gebruikelijkere keuze.
 
 Wat zijn gezinsprofielen?
 

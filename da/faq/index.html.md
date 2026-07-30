@@ -345,9 +345,9 @@ Alle brugere kan eksportere hele deres vault som en krypteret, adgangskodebeskyt
 
 [Læs hele guiden →](https://traveldocumentvault.com/da/faq/export-import/)
 
-Godtgørelsestilstande Besøgende vs Hjem: hvilken skal jeg vælge?
+Dage inden i eller dage uden for et land: hvad skal jeg vælge?
 
-Besøgende-tilstand sporer dage I et land. Hjem-tilstand sporer dage VÆORK fra dit hjemland.
+Stil dig selv ét spørgsmål: er du gæst i dette land, eller er det dit hjem? Gæster tæller de dage, de er der, så vælg **Dage inden i landet** - det er den til en besøgsgrænse som 90 dage. Fastboende tæller de dage, de er væk, så vælg **Dage uden for landet** - det er den til en opholdstilladelse, der tillader en vis tid i udlandet. De fleste har kun brug for den ene af de to, og er du i tvivl, er Dage inden i landet det mest almindelige valg.
 
 Hvad er familieprofiler?
 

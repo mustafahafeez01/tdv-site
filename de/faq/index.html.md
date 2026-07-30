@@ -349,9 +349,9 @@ Pro ermöglicht es Ihnen, Ihren gesamten Tresor als verschlüsselte .tdvault-Dat
 
 [Vollständiges Handbuch →](https://traveldocumentvault.com/de/faq/export-import/)
 
-Modi für Besucher vs Heimat-Zulage: welcher ist richtig für mich?
+Tage innen oder Tage außen: was soll ich wählen?
 
-Der Besuchermodus verfolgt Tage IM Land. Der Heimat-Modus verfolgt Tage WEG von Ihrem Heimatland. Wählen Sie Besucher, wenn Sie eine Regel wie Schengen 90/180 befolgen. Wählen Sie Heimat, wenn Sie Steuerresidenz oder eine ähnliche Auslands-Zulagenregel nachverfolgen. Unsicher? Besucher ist der sicherere Standard für die meisten Reisenden.
+Stellen Sie sich eine Frage: Sind Sie Gast in diesem Land, oder ist es Ihr Zuhause? Gäste zählen die Tage, die sie dort sind, wählen Sie also **Tage innen** - das ist die Einstellung für eine Besuchsgrenze wie 90 Tage. Ansässige zählen die Tage, die sie weg sind, wählen Sie also **Tage außen** - das ist die Einstellung für einen Aufenthaltstitel, der eine gewisse Zeit im Ausland erlaubt. Die meisten brauchen nur eine von beiden, und wenn Sie unsicher sind, ist Tage innen die häufigere Wahl.
 
 Was sind Familienprofile?
 
