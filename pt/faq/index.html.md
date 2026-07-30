@@ -371,6 +371,40 @@ E se perder um prazo devido a uma falha de lembrete?
 
 Os lembretes são uma funcionalidade de conveniência e não devem ser o seu único sistema de alertas. Não somos responsáveis por prazos perdidos, documentos expirados ou quaisquer consequências resultantes de falhas nos lembretes. Consulte os nossos [Termos de Serviço](https://traveldocumentvault.com/terms/) para mais detalhes.
 
+## Cópia de segurança na nuvem
+
+O que acontece se eliminar um documento com a cópia na nuvem ativada?
+
+Eliminar move-o para Eliminados recentemente (reciclagem). Fica lá por tempo indeterminado: com a cópia na nuvem ativada nada é removido automaticamente. O documento na reciclagem continua incluído na sua cópia na nuvem. Para o remover de vez, abra Eliminados recentemente e toque em Eliminar definitivamente em cada item. Verá um aviso de que isso também o remove da sua cópia na nuvem.
+
+O que acontece se eliminar todos os meus documentos?
+
+A aplicação não sincroniza um cofre vazio para a nuvem. A sua cópia existente é preservada. Pode restaurá-la em Definições, Cópia na nuvem, Restaurar a partir da cópia.
+
+Como configuro a cópia na nuvem num segundo dispositivo?
+
+Quando ativa a cópia na nuvem num dispositivo novo com a mesma conta iCloud ou Google, a aplicação deteta a cópia existente e pergunta se quer restaurá-la ou começar do zero. Escolha Restaurar a partir da cópia e introduza o seu código de recuperação. A partir daí os dois dispositivos partilham a mesma cópia. Começar do zero substitui a cópia existente: escolha isso apenas se tiver a certeza.
+
+Posso usar a cópia na nuvem em vários dispositivos ao mesmo tempo?
+
+A cópia na nuvem foi pensada como cópia de um só dispositivo com restauro em vários. Um dispositivo é a fonte principal. Para passar para um novo, restaure aí a partir da sua cópia. Editar em simultâneo em dois dispositivos que sincronizam para a mesma cópia não é suportado: ganha o último a sincronizar.
+
+E se ativar a cópia na nuvem sem ligação?
+
+Precisa de ligação à internet para ativar a cópia na nuvem. Durante a configuração a aplicação verifica se já existem cópias na sua conta, e isso exige ligação. Depois de ativada, a aplicação funciona totalmente offline e sincroniza quando voltar a estar online.
+
+A minha cópia está protegida se eliminar algo sem querer?
+
+Sim, várias camadas protegem-no. Os documentos eliminados ficam em Eliminados recentemente por tempo indeterminado (sem remoção automática com a cópia na nuvem ativada). A eliminação definitiva exige uma confirmação à parte que avisa do efeito na nuvem. Mesmo após a eliminação definitiva, a cópia guarda os dados do documento durante mais alguns ciclos de sincronização, como rede de segurança. E um cofre vazio nunca é sincronizado para a nuvem, por isso uma eliminação em massa acidental não pode apagar a sua cópia.
+
+Devo guardar também as minhas próprias cópias?
+
+Sim. A cópia na nuvem é uma camada de segurança, mas nenhum sistema é perfeito. Contas na nuvem podem perder-se, códigos de recuperação podem ser esquecidos e podem surgir problemas inesperados de sincronização ou de armazenamento. Recomendamos vivamente guardar uma cópia independente dos documentos essenciais, como uma cópia impressa em local seguro ou uma exportação cifrada do cofre guardada noutro suporte. Trate a cópia na nuvem como uma comodidade, não como a sua única defesa. É da sua responsabilidade verificar que os seus documentos continuam recuperáveis.
+
+O que acontece se perder o meu código de recuperação?
+
+O seu código de recuperação é a única chave para decifrar a sua cópia na nuvem. O nosso desenho é de conhecimento zero, o que significa que não o podemos repor, obter nem recuperar por si. A Apple e a Google também não. Se perder o código de recuperação, a sua cópia cifrada torna-se permanentemente irrecuperável. Guarde o código em lugar seguro antes de depender da cópia na nuvem: um gestor de palavras-passe, uma cópia impressa num local seguro, ou ambos. Confirme que consegue lê-lo antes de o guardar como cópia única.
+
 [Para uma comparação completa, veja por que as famílias escolhem o Travel Document Vault →](https://traveldocumentvault.com/pt/why-us/)
 
 ## Ainda tem dúvidas?

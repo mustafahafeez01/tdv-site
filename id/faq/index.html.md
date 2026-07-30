@@ -364,6 +364,40 @@ Bagaimana jika saya melewatkan tenggat waktu karena kegagalan pengingat?
 
 Pengingat adalah fitur kemudahan dan tidak boleh menjadi satu-satunya sistem pengingat Anda. Kami tidak bertanggung jawab atas tenggat waktu yang terlewat, dokumen yang kedaluwarsa, atau konsekuensi apa pun akibat kegagalan pengingat. Silakan lihat [Ketentuan Layanan](https://traveldocumentvault.com/terms/) kami untuk detail lengkap.
 
+## Cadangan cloud
+
+Apa yang terjadi jika saya menghapus dokumen saat cadangan cloud aktif?
+
+Menghapus akan memindahkannya ke Baru Dihapus (tempat sampah). Dokumen itu tetap di sana tanpa batas waktu: saat cadangan cloud aktif, tidak ada yang dibersihkan otomatis. Dokumen di tempat sampah masih ikut tercadang ke cloud Anda. Untuk menghapusnya sepenuhnya, buka Baru Dihapus lalu ketuk Hapus Permanen pada setiap item. Anda akan melihat peringatan bahwa tindakan itu juga menghapusnya dari cadangan cloud Anda.
+
+Apa yang terjadi jika saya menghapus semua dokumen saya?
+
+Aplikasi tidak menyinkronkan brankas kosong ke cloud. Cadangan Anda yang sudah ada tetap terjaga. Anda bisa memulihkannya lewat Pengaturan, Cadangan Cloud, Pulihkan dari Cadangan.
+
+Bagaimana menyiapkan cadangan cloud di perangkat kedua?
+
+Saat Anda mengaktifkan cadangan cloud di perangkat baru yang masuk dengan akun iCloud atau Google yang sama, aplikasi mendeteksi cadangan Anda yang sudah ada dan menanyakan apakah akan memulihkannya atau memulai dari awal. Pilih Pulihkan dari cadangan lalu masukkan kode pemulihan Anda. Setelah itu kedua perangkat berbagi cadangan yang sama. Memulai dari awal akan menggantikan cadangan yang ada, pilih ini hanya jika Anda yakin.
+
+Bisakah saya memakai cadangan cloud di beberapa perangkat sekaligus?
+
+Cadangan cloud dirancang sebagai cadangan satu perangkat dengan pemulihan di banyak perangkat. Satu perangkat menjadi sumber utama. Untuk pindah ke perangkat baru, pulihkan dari cadangan Anda di perangkat itu. Menyunting bersamaan di dua perangkat yang menyinkron ke cadangan yang sama tidak didukung: perangkat yang menyinkron terakhir yang menang.
+
+Bagaimana jika saya mengaktifkan cadangan cloud saat luring?
+
+Anda perlu koneksi internet untuk mengaktifkan cadangan cloud. Saat penyiapan, aplikasi memeriksa apakah sudah ada cadangan di akun Anda, dan itu memerlukan koneksi. Setelah aktif, aplikasi bekerja sepenuhnya luring dan menyinkron ketika Anda kembali daring.
+
+Apakah cadangan saya terlindungi jika saya tidak sengaja menghapus sesuatu?
+
+Ya, ada beberapa lapis perlindungan. Dokumen yang dihapus tetap berada di Baru Dihapus tanpa batas waktu (tidak ada pembersihan otomatis saat cadangan cloud aktif). Penghapusan permanen memerlukan konfirmasi tersendiri yang memperingatkan dampaknya pada cloud. Bahkan setelah penghapusan permanen, cadangan masih menyimpan data dokumen selama beberapa siklus sinkronisasi berikutnya sebagai jaring pengaman. Dan brankas kosong tidak pernah disinkronkan ke cloud, sehingga penghapusan massal yang tidak disengaja tidak bisa menghapus cadangan Anda.
+
+Apakah saya perlu menyimpan salinan sendiri juga?
+
+Ya. Cadangan cloud adalah satu lapis pengaman, tetapi tidak ada sistem yang sempurna. Akun cloud bisa hilang, kode pemulihan bisa terlupa, dan masalah sinkronisasi atau penyimpanan bisa terjadi tanpa diduga. Kami sangat menyarankan menyimpan salinan mandiri untuk dokumen penting, misalnya salinan cetak di tempat aman atau ekspor brankas terenkripsi yang disimpan di penyimpanan terpisah. Anggap cadangan cloud sebagai kemudahan, bukan satu-satunya pertahanan Anda. Memastikan dokumen Anda tetap bisa dipulihkan adalah tanggung jawab Anda sendiri.
+
+Apa yang terjadi jika saya kehilangan kode pemulihan?
+
+Kode pemulihan Anda adalah satu-satunya kunci untuk mendekripsi cadangan cloud Anda. Rancangan kami bersifat tanpa pengetahuan, artinya kami tidak bisa menyetel ulang, mengambil, atau memulihkannya untuk Anda. Apple dan Google juga tidak bisa. Jika Anda kehilangan kode pemulihan, cadangan terenkripsi Anda menjadi tidak dapat dipulihkan selamanya. Simpan kode pemulihan Anda di tempat aman sebelum Anda bergantung pada cadangan cloud: pengelola kata sandi, salinan cetak di tempat terlindungi, atau keduanya. Pastikan Anda benar-benar bisa membacanya sebelum menyimpannya sebagai satu-satunya salinan.
+
 [Untuk perbandingan lengkap, lihat mengapa keluarga memilih Travel Document Vault →](https://traveldocumentvault.com/id/why-us/)
 
 ## Masih punya pertanyaan?

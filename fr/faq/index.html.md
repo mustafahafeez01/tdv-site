@@ -365,6 +365,40 @@ Que se passe-t-il si je manque une date limite à cause d'une défaillance du ra
 
 Les rappels sont une fonction de commodité et ne doivent pas être votre seul système de rappel. Nous ne sommes pas responsables des dates limites manquées, des documents expirés ou de toute conséquence résultant des défaillances de rappel. Veuillez consulter nos [Conditions d'utilisation](https://traveldocumentvault.com/terms/) pour les détails complets.
 
+## Sauvegarde cloud
+
+Que se passe-t-il si je supprime un document avec la sauvegarde cloud activée ?
+
+La suppression le déplace vers Supprimés récemment (corbeille). Il y reste indéfiniment : rien n'est purgé automatiquement quand la sauvegarde cloud est active. Le document en corbeille figure toujours dans votre sauvegarde cloud. Pour le retirer définitivement, ouvrez Supprimés récemment et touchez Supprimer définitivement sur chaque élément. Un avertissement vous indiquera que cela le retire aussi de votre sauvegarde cloud.
+
+Que se passe-t-il si je supprime tous mes documents ?
+
+L'application ne synchronise pas un coffre vide vers le cloud. Votre sauvegarde existante est conservée. Vous pouvez la restaurer depuis Réglages, Sauvegarde cloud, Restaurer depuis la sauvegarde.
+
+Comment configurer la sauvegarde cloud sur un deuxième appareil ?
+
+Quand vous activez la sauvegarde cloud sur un nouvel appareil connecté au même compte iCloud ou Google, l'application détecte votre sauvegarde existante et demande s'il faut la restaurer ou repartir de zéro. Choisissez Restaurer depuis la sauvegarde et saisissez votre code de récupération. Les deux appareils partagent ensuite la même sauvegarde. Repartir de zéro remplace la sauvegarde existante : ne choisissez cette option que si vous en êtes certain.
+
+Puis-je utiliser la sauvegarde cloud sur plusieurs appareils à la fois ?
+
+La sauvegarde cloud est conçue comme une sauvegarde d'un seul appareil avec restauration sur plusieurs. Un appareil est la source principale. Pour passer à un nouvel appareil, restaurez-y votre sauvegarde. La modification simultanée sur deux appareils synchronisant vers la même sauvegarde n'est pas prise en charge : le dernier appareil à se synchroniser l'emporte.
+
+Et si j'active la sauvegarde cloud hors ligne ?
+
+Il faut une connexion internet pour activer la sauvegarde cloud. Lors de la configuration, l'application vérifie s'il existe déjà des sauvegardes dans votre compte, ce qui nécessite une connexion. Une fois activée, l'application fonctionne entièrement hors ligne et se synchronise dès que vous êtes de nouveau en ligne.
+
+Ma sauvegarde est-elle protégée si je supprime quelque chose par erreur ?
+
+Oui, plusieurs niveaux vous protègent. Les documents supprimés restent indéfiniment dans Supprimés récemment (aucune purge automatique quand la sauvegarde cloud est active). La suppression définitive demande une confirmation distincte qui avertit de l'effet sur le cloud. Même après une suppression définitive, la sauvegarde conserve les données du document pendant plusieurs cycles de synchronisation supplémentaires, en filet de sécurité. Et un coffre vide n'est jamais synchronisé vers le cloud, donc une suppression massive accidentelle ne peut pas effacer votre sauvegarde.
+
+Dois-je conserver aussi mes propres copies ?
+
+Oui. La sauvegarde cloud est une couche de sécurité, mais aucun système n'est parfait. Un compte cloud peut être perdu, un code de récupération peut être oublié, et des problèmes inattendus de synchronisation ou de stockage arrivent. Nous recommandons vivement de conserver une copie indépendante des documents essentiels, par exemple une copie imprimée en lieu sûr ou un export chiffré du coffre enregistré sur un autre support. Considérez la sauvegarde cloud comme un confort, pas comme votre seule protection. Il vous revient de vérifier que vos documents restent récupérables.
+
+Que se passe-t-il si je perds mon code de récupération ?
+
+Votre code de récupération est la seule clé permettant de déchiffrer votre sauvegarde cloud. Notre conception est à connaissance nulle, ce qui signifie que nous ne pouvons ni le réinitialiser, ni le retrouver, ni le récupérer pour vous. Apple et Google non plus. Si vous perdez votre code de récupération, votre sauvegarde chiffrée devient définitivement irrécupérable. Mettez votre code en lieu sûr avant de dépendre de la sauvegarde cloud : un gestionnaire de mots de passe, une copie imprimée dans un endroit sécurisé, ou les deux. Vérifiez que vous arrivez à le relire avant d'en faire votre seule copie.
+
 [Pour une comparaison complète, voir pourquoi les familles choisissent Travel Document Vault →](https://traveldocumentvault.com/fr/why-us/)
 
 ## Vous avez encore des questions ?

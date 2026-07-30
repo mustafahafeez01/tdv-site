@@ -371,6 +371,40 @@ Was, wenn ich eine Frist wegen eines Erinnerungsfehlers verpasse?
 
 Erinnerungen sind eine Komfortfunktion und sollten nicht Ihr einziges Erinnerungssystem sein. Wir haften nicht für verpasste Fristen, abgelaufene Dokumente oder Konsequenzen durch Erinnerungsfehler. Vollständige Details finden Sie in unseren [Nutzungsbedingungen](https://traveldocumentvault.com/terms/).
 
+## Cloud-Backup
+
+Was passiert, wenn ich ein Dokument bei aktivem Cloud-Backup lösche?
+
+Löschen verschiebt es in Zuletzt gelöscht (Papierkorb). Es bleibt dort unbegrenzt, bei aktivem Cloud-Backup wird nichts automatisch entfernt. Das gelöschte Dokument ist weiterhin in Ihrem Cloud-Backup enthalten. Um es endgültig zu entfernen, öffnen Sie Zuletzt gelöscht und tippen Sie bei jedem Eintrag auf Endgültig löschen. Sie sehen dann einen Hinweis, dass es damit auch aus Ihrem Cloud-Backup verschwindet.
+
+Was passiert, wenn ich alle meine Dokumente lösche?
+
+Die App synchronisiert keinen leeren Tresor in die Cloud. Ihr vorhandenes Backup bleibt erhalten. Sie können es über Einstellungen, Cloud-Backup, Aus Backup wiederherstellen zurückholen.
+
+Wie richte ich das Cloud-Backup auf einem zweiten Gerät ein?
+
+Wenn Sie das Cloud-Backup auf einem neuen Gerät aktivieren, das mit demselben iCloud- oder Google-Konto angemeldet ist, erkennt die App Ihr vorhandenes Backup und fragt, ob sie es wiederherstellen oder neu beginnen soll. Wählen Sie Aus Backup wiederherstellen und geben Sie Ihren Wiederherstellungscode ein. Beide Geräte teilen sich danach dasselbe Backup. Neu beginnen ersetzt das vorhandene Backup - wählen Sie das nur, wenn Sie sicher sind.
+
+Kann ich das Cloud-Backup auf mehreren Geräten gleichzeitig nutzen?
+
+Das Cloud-Backup ist als Backup für ein Gerät mit Wiederherstellung auf mehreren Geräten ausgelegt. Ein Gerät ist die primäre Backup-Quelle. Um auf ein neues Gerät zu wechseln, stellen Sie dort aus Ihrem Backup wieder her. Gleichzeitiges Bearbeiten auf zwei Geräten, die in dasselbe Backup synchronisieren, wird nicht unterstützt - das zuletzt synchronisierte Gerät gewinnt.
+
+Was, wenn ich das Cloud-Backup ohne Internetverbindung aktiviere?
+
+Zum Aktivieren des Cloud-Backups brauchen Sie eine Internetverbindung. Die App prüft bei der Einrichtung, ob in Ihrem Cloud-Konto bereits ein Backup liegt, und dafür ist eine Verbindung nötig. Einmal aktiviert, arbeitet die App vollständig offline und synchronisiert, sobald Sie wieder online sind.
+
+Ist mein Backup geschützt, wenn ich versehentlich etwas lösche?
+
+Ja, mehrere Ebenen schützen Sie. Gelöschte Dokumente bleiben unbegrenzt in Zuletzt gelöscht (bei aktivem Cloud-Backup wird nichts automatisch entfernt). Endgültiges Löschen erfordert eine eigene Bestätigung, die auf die Auswirkung auf die Cloud hinweist. Selbst nach dem endgültigen Löschen behält das Backup die Dokumentdaten noch mehrere Synchronisierungszyklen lang als Sicherheitsnetz. Und ein leerer Tresor wird nie in die Cloud synchronisiert, sodass ein versehentliches Massenlöschen Ihr Backup nicht auslöschen kann.
+
+Sollte ich zusätzlich eigene Sicherungskopien behalten?
+
+Ja. Das Cloud-Backup ist eine Sicherheitsebene, aber kein System ist perfekt. Cloud-Konten können verloren gehen, Wiederherstellungscodes können vergessen werden, und unerwartete Synchronisierungs- oder Speicherprobleme kommen vor. Wir empfehlen dringend, eine unabhängige Kopie wichtiger Dokumente zu behalten, etwa einen Ausdruck an einem sicheren Ort oder einen verschlüsselten Tresor-Export auf einem separaten Speicher. Behandeln Sie das Cloud-Backup als Bequemlichkeit, nicht als einzige Absicherung. Sie sind selbst dafür verantwortlich, zu prüfen, dass Ihre Dokumente wiederherstellbar bleiben.
+
+Was passiert, wenn ich meinen Wiederherstellungscode verliere?
+
+Ihr Wiederherstellungscode ist der einzige Schlüssel, um Ihr Cloud-Backup zu entschlüsseln. Wir arbeiten nach dem Zero-Knowledge-Prinzip, das heißt, wir können ihn nicht zurücksetzen, nicht auslesen und nicht für Sie wiederherstellen. Apple und Google können das ebenso wenig. Wenn Sie Ihren Wiederherstellungscode verlieren, wird Ihr verschlüsseltes Backup dauerhaft unwiederbringlich. Sichern Sie Ihren Wiederherstellungscode an einem sicheren Ort, bevor Sie sich auf das Cloud-Backup verlassen. Ein Passwort-Manager, ein Ausdruck an einem sicheren Ort, oder beides. Prüfen Sie, dass Sie ihn wirklich lesen können, bevor Sie ihn als einzige Kopie aufbewahren.
+
 [Für einen vollständigen Vergleich: Warum Familien Travel Document Vault wählen →](https://traveldocumentvault.com/de/why-us/)
 
 ## Noch Fragen?

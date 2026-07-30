@@ -371,6 +371,40 @@ Vad händer om jag missar en deadline på grund av en påminnelsefel?
 
 Påminnelser är en bekvämlighetsfunktion och bör inte vara ditt enda påminnelsesystem. Vi är inte ansvariga för missade deadlines, utgångna dokument eller konsekvenser som uppstår till följd av påminnelsefel. Se våra [Användarvillkor](https://traveldocumentvault.com/terms/) för fullständiga uppgifter.
 
+## Molnsäkerhetskopiering
+
+Vad händer om jag raderar ett dokument med molnsäkerhetskopiering på?
+
+Radering flyttar det till Nyligen raderade (papperskorgen). Det ligger kvar där på obestämd tid: med molnsäkerhetskopiering på rensas ingenting automatiskt. Dokumentet i papperskorgen finns fortfarande med i din molnsäkerhetskopia. För att ta bort det helt går du till Nyligen raderade och trycker Radera permanent på varje post. Du får en varning om att det då även försvinner från din molnsäkerhetskopia.
+
+Vad händer om jag raderar alla mina dokument?
+
+Appen synkroniserar inte ett tomt valv till molnet. Din befintliga säkerhetskopia bevaras. Du kan återställa från den via Inställningar, Molnsäkerhetskopiering, Återställ från säkerhetskopia.
+
+Hur ställer jag in molnsäkerhetskopiering på en andra enhet?
+
+När du slår på molnsäkerhetskopiering på en ny enhet som är inloggad på samma iCloud- eller Google-konto upptäcker appen din befintliga säkerhetskopia och frågar om den ska återställas eller om du vill börja om. Välj Återställ från säkerhetskopia och ange din återställningskod. Båda enheterna delar sedan samma säkerhetskopia. Att börja om ersätter den befintliga säkerhetskopian - välj bara det om du är säker.
+
+Kan jag använda molnsäkerhetskopiering på flera enheter samtidigt?
+
+Molnsäkerhetskopiering är tänkt som säkerhetskopiering från en enhet med återställning på flera. En enhet är den primära källan. För att byta till en ny enhet återställer du från din säkerhetskopia där. Att redigera samtidigt på två enheter som synkroniserar mot samma säkerhetskopia stöds inte - den enhet som synkroniserar sist vinner.
+
+Vad händer om jag slår på molnsäkerhetskopiering utan uppkoppling?
+
+Du behöver en internetanslutning för att slå på molnsäkerhetskopiering. Under inställningen kontrollerar appen om det redan finns säkerhetskopior i ditt konto, och det kräver uppkoppling. När den väl är påslagen fungerar appen helt offline och synkroniserar när du är online igen.
+
+Är min säkerhetskopia skyddad om jag råkar radera något?
+
+Ja, flera lager skyddar dig. Raderade dokument ligger kvar i Nyligen raderade på obestämd tid (ingen automatisk rensning med molnsäkerhetskopiering på). Permanent radering kräver en egen bekräftelse som varnar för effekten i molnet. Även efter permanent radering behåller säkerhetskopian dokumentets data i ytterligare några synkroniseringscykler som skyddsnät. Och ett tomt valv synkroniseras aldrig till molnet, så en massradering av misstag kan inte tömma din säkerhetskopia.
+
+Bör jag behålla egna kopior också?
+
+Ja. Molnsäkerhetskopiering är ett skyddslager, men inget system är perfekt. Molnkonton kan gå förlorade, återställningskoder kan glömmas bort och oväntade synkroniserings- eller lagringsproblem kan uppstå. Vi rekommenderar starkt att du behåller en oberoende kopia av viktiga dokument, till exempel en utskrift på ett säkert ställe eller en krypterad valvexport sparad på separat lagring. Se molnsäkerhetskopiering som en bekvämlighet, inte som ditt enda skydd. Det är ditt ansvar att kontrollera att dina dokument går att återställa.
+
+Vad händer om jag förlorar min återställningskod?
+
+Din återställningskod är den enda nyckeln som kan dekryptera din molnsäkerhetskopia. Vi har en nollkunskapsdesign, vilket innebär att vi inte kan återställa, hämta eller återskapa den åt dig. Det kan inte Apple eller Google heller. Om du förlorar din återställningskod blir din krypterade säkerhetskopia permanent oåterkallelig. Lägg undan din återställningskod på ett säkert ställe innan du börjar förlita dig på molnsäkerhetskopiering: en lösenordshanterare, en utskrift på en säker plats, eller båda. Kontrollera att du verkligen kan läsa den innan du sparar den som enda kopia.
+
 [För en fullständig jämförelse, se varför familjer väljer Travel Document Vault →](https://traveldocumentvault.com/sv/why-us/)
 
 ## Har du fortfarande frågor?

@@ -371,6 +371,40 @@ Los elementos eliminados van a la papelera durante 30 días. Puedes restaurarlos
 
 Los recordatorios son una característica de conveniencia y no deben ser tu único sistema de recordatorio. No somos responsables de plazos perdidos, documentos vencidos, o ninguna consecuencia resultante de fallas de recordatorio. Por favor ver nuestros [Términos de Servicio](https://traveldocumentvault.com/terms/) para detalles completos.
 
+## Copia de seguridad en la nube
+
+¿Qué pasa si borro un documento con la copia en la nube activada?
+
+Al borrarlo pasa a Eliminados recientemente (papelera). Se queda ahí indefinidamente: con la copia en la nube activada no se purga nada automáticamente. El documento en la papelera sigue estando en tu copia en la nube. Para quitarlo del todo, entra en Eliminados recientemente y pulsa Eliminar definitivamente en cada elemento. Verás un aviso de que eso también lo quita de tu copia en la nube.
+
+¿Qué pasa si borro todos mis documentos?
+
+La app no sincroniza una bóveda vacía con la nube. Tu copia existente se conserva. Puedes restaurarla desde Ajustes, Copia en la nube, Restaurar desde copia.
+
+¿Cómo configuro la copia en la nube en un segundo dispositivo?
+
+Cuando activas la copia en la nube en un dispositivo nuevo con la misma cuenta de iCloud o Google, la app detecta tu copia existente y pregunta si quieres restaurarla o empezar de cero. Elige Restaurar desde copia e introduce tu código de recuperación. A partir de ahí ambos dispositivos comparten la misma copia. Empezar de cero reemplaza la copia existente: elígelo solo si estás seguro.
+
+¿Puedo usar la copia en la nube en varios dispositivos a la vez?
+
+La copia en la nube está pensada como copia de un solo dispositivo con restauración en varios. Un dispositivo es la fuente principal. Para pasar a uno nuevo, restaura desde tu copia en ese dispositivo. Editar a la vez en dos dispositivos que sincronizan con la misma copia no está admitido: gana el último que sincroniza.
+
+¿Y si activo la copia en la nube sin conexión?
+
+Necesitas conexión a internet para activar la copia en la nube. Durante la configuración la app comprueba si ya hay copias en tu cuenta, y eso requiere conexión. Una vez activada, la app funciona completamente sin conexión y sincroniza cuando vuelves a estar en línea.
+
+¿Está protegida mi copia si borro algo sin querer?
+
+Sí, te protegen varias capas. Los documentos borrados se quedan en Eliminados recientemente indefinidamente (sin purga automática con la copia en la nube activada). El borrado definitivo pide una confirmación aparte que avisa del efecto en la nube. Incluso después del borrado definitivo, la copia conserva los datos del documento durante varios ciclos de sincronización más, como red de seguridad. Y una bóveda vacía nunca se sincroniza con la nube, así que un borrado masivo accidental no puede vaciar tu copia.
+
+¿Debo guardar también mis propias copias?
+
+Sí. La copia en la nube es una capa de seguridad, pero ningún sistema es perfecto. Se pueden perder cuentas en la nube, se pueden olvidar códigos de recuperación y pueden surgir problemas inesperados de sincronización o almacenamiento. Recomendamos encarecidamente guardar una copia independiente de los documentos críticos, como una copia impresa en un lugar seguro o una exportación cifrada de la bóveda guardada en otro soporte. Trata la copia en la nube como una comodidad, no como tu única defensa. Eres responsable de comprobar que tus documentos siguen siendo recuperables.
+
+¿Qué pasa si pierdo mi código de recuperación?
+
+Tu código de recuperación es la única llave para descifrar tu copia en la nube. Nuestro diseño es de conocimiento cero, lo que significa que no podemos restablecerlo, recuperarlo ni obtenerlo por ti. Apple y Google tampoco. Si pierdes tu código de recuperación, tu copia cifrada queda permanentemente irrecuperable. Guarda tu código en un lugar seguro antes de depender de la copia en la nube: un gestor de contraseñas, una copia impresa en un sitio seguro, o ambas cosas. Comprueba que puedes leerlo antes de dejarlo como tu única copia.
+
 [Para una comparación completa, ver por qué familias eligen Travel Document Vault →](https://traveldocumentvault.com/es/why-us/)
 
 ## ¿Aún tienes preguntas?

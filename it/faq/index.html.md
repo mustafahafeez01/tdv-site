@@ -371,6 +371,40 @@ E se manco una scadenza a causa di un mancato promemoria?
 
 I promemoria sono una funzionalità di convenienza e non dovrebbero essere l'unico sistema di promemoria. Non siamo responsabili per scadenze mancate, documenti scaduti o eventuali conseguenze derivanti da mancati promemoria. Si prega di consultare i nostri [Termini di servizio](https://traveldocumentvault.com/terms/) per i dettagli completi.
 
+## Backup cloud
+
+Cosa succede se elimino un documento con il backup cloud attivo?
+
+L'eliminazione lo sposta in Eliminati di recente (cestino). Resta lì a tempo indeterminato: con il backup cloud attivo non viene rimosso nulla automaticamente. Il documento nel cestino è ancora incluso nel backup cloud. Per rimuoverlo del tutto, apri Eliminati di recente e tocca Elimina definitivamente su ogni elemento. Vedrai un avviso che così viene tolto anche dal backup cloud.
+
+Cosa succede se elimino tutti i miei documenti?
+
+L'app non sincronizza una cassaforte vuota sul cloud. Il backup esistente viene conservato. Puoi ripristinarlo da Impostazioni, Backup cloud, Ripristina da backup.
+
+Come configuro il backup cloud su un secondo dispositivo?
+
+Quando attivi il backup cloud su un nuovo dispositivo collegato allo stesso account iCloud o Google, l'app rileva il backup esistente e chiede se ripristinarlo o ricominciare da zero. Scegli Ripristina da backup e inserisci il codice di recupero. Da quel momento i due dispositivi condividono lo stesso backup. Ricominciare da zero sostituisce il backup esistente: scegli questa opzione solo se ne sei certo.
+
+Posso usare il backup cloud su più dispositivi contemporaneamente?
+
+Il backup cloud è pensato come backup di un singolo dispositivo con ripristino su più dispositivi. Un dispositivo è la fonte principale. Per passare a un dispositivo nuovo, ripristina lì dal tuo backup. La modifica simultanea su due dispositivi che sincronizzano sullo stesso backup non è supportata: vince l'ultimo che sincronizza.
+
+Cosa succede se attivo il backup cloud mentre sono offline?
+
+Per attivare il backup cloud serve una connessione a internet. Durante la configurazione l'app verifica se nel tuo account esistono già backup, e questo richiede connessione. Una volta attivato, l'app funziona completamente offline e sincronizza quando torni online.
+
+Il mio backup è protetto se elimino qualcosa per sbaglio?
+
+Sì, ti proteggono più livelli. I documenti eliminati restano in Eliminati di recente a tempo indeterminato (nessuna rimozione automatica con il backup cloud attivo). L'eliminazione definitiva richiede una conferma separata che avvisa dell'effetto sul cloud. Anche dopo l'eliminazione definitiva, il backup conserva i dati del documento per diversi cicli di sincronizzazione, come rete di sicurezza. E una cassaforte vuota non viene mai sincronizzata sul cloud, quindi un'eliminazione di massa accidentale non può cancellare il backup.
+
+Dovrei tenere anche copie di sicurezza mie?
+
+Sì. Il backup cloud è un livello di sicurezza, ma nessun sistema è perfetto. Gli account cloud si possono perdere, i codici di recupero si possono dimenticare e possono capitare problemi imprevisti di sincronizzazione o di spazio. Consigliamo vivamente di tenere una copia indipendente dei documenti essenziali, per esempio una copia stampata in un luogo sicuro o un export cifrato della cassaforte salvato su un supporto separato. Considera il backup cloud una comodità, non la tua unica difesa. Sta a te verificare che i tuoi documenti restino recuperabili.
+
+Cosa succede se perdo il codice di recupero?
+
+Il codice di recupero è l'unica chiave per decifrare il backup cloud. Il nostro design è a conoscenza zero: non possiamo reimpostarlo, recuperarlo né ottenerlo per te. Nemmeno Apple o Google. Se perdi il codice di recupero, il backup cifrato diventa definitivamente irrecuperabile. Metti al sicuro il codice prima di affidarti al backup cloud: un gestore di password, una copia stampata in un luogo sicuro, o entrambi. Verifica di riuscire a rileggerlo prima di conservarlo come unica copia.
+
 [Per un confronto completo, scopra perché le famiglie scelgono Travel Document Vault →](https://traveldocumentvault.com/it/why-us/)
 
 ## Ha ancora domande?

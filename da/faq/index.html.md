@@ -367,6 +367,40 @@ Hvad sker der, hvis jeg overser en deadline på grund af en påmindelsesfejl?
 
 Påmindelser er en bekvemmelighedsfunktion og bør ikke være dit eneste påmindelsessystem. Vi er ikke ansvarlige for oversete deadlines, udløbne dokumenter eller eventuelle konsekvenser som følge af påmindelsesfejl. Se venligst vores [Vilkår for brug](https://traveldocumentvault.com/terms/) for fulde detaljer.
 
+## Skysikkerhedskopiering
+
+Hvad sker der, hvis jeg sletter et dokument med skysikkerhedskopiering slået til?
+
+Sletning flytter det til Slettet for nylig (papirkurven). Det bliver liggende der på ubestemt tid: med skysikkerhedskopiering slået til fjernes intet automatisk. Dokumentet i papirkurven indgår stadig i din skysikkerhedskopi. For at fjerne det helt skal du gå til Slettet for nylig og trykke Slet permanent på hvert element. Du får en advarsel om, at det dermed også forsvinder fra din skysikkerhedskopi.
+
+Hvad sker der, hvis jeg sletter alle mine dokumenter?
+
+Appen synkroniserer ikke et tomt boks-indhold til skyen. Din eksisterende sikkerhedskopi bevares. Du kan gendanne fra den via Indstillinger, Skysikkerhedskopiering, Gendan fra sikkerhedskopi.
+
+Hvordan sætter jeg skysikkerhedskopiering op på en enhed nummer to?
+
+Når du slår skysikkerhedskopiering til på en ny enhed, der er logget ind på den samme iCloud- eller Google-konto, opdager appen din eksisterende sikkerhedskopi og spørger, om den skal gendannes, eller om du vil starte forfra. Vælg Gendan fra sikkerhedskopi, og indtast din gendannelseskode. Begge enheder deler derefter den samme sikkerhedskopi. At starte forfra erstatter den eksisterende sikkerhedskopi - vælg kun det, hvis du er sikker.
+
+Kan jeg bruge skysikkerhedskopiering på flere enheder samtidig?
+
+Skysikkerhedskopiering er tænkt som sikkerhedskopiering fra én enhed med gendannelse på flere. Én enhed er den primære kilde. For at skifte til en ny enhed gendanner du fra din sikkerhedskopi der. Samtidig redigering på to enheder, der synkroniserer til den samme sikkerhedskopi, understøttes ikke - den enhed, der synkroniserer sidst, vinder.
+
+Hvad hvis jeg slår skysikkerhedskopiering til uden forbindelse?
+
+Du skal bruge en internetforbindelse for at slå skysikkerhedskopiering til. Under opsætningen tjekker appen, om der allerede ligger sikkerhedskopier på din konto, og det kræver forbindelse. Når den først er slået til, virker appen helt offline og synkroniserer, når du er online igen.
+
+Er min sikkerhedskopi beskyttet, hvis jeg kommer til at slette noget?
+
+Ja, flere lag beskytter dig. Slettede dokumenter bliver liggende i Slettet for nylig på ubestemt tid (ingen automatisk oprydning med skysikkerhedskopiering slået til). Permanent sletning kræver en selvstændig bekræftelse, der advarer om virkningen i skyen. Selv efter permanent sletning beholder sikkerhedskopien dokumentets data i flere synkroniseringsrunder mere som sikkerhedsnet. Og et tomt boks-indhold synkroniseres aldrig til skyen, så en masseslettning ved et uheld kan ikke tømme din sikkerhedskopi.
+
+Bør jeg også beholde mine egne kopier?
+
+Ja. Skysikkerhedskopiering er ét beskyttelseslag, men intet system er perfekt. Skykonti kan gå tabt, gendannelseskoder kan blive glemt, og der kan opstå uventede synkroniserings- eller lagringsproblemer. Vi anbefaler kraftigt at beholde en uafhængig kopi af vigtige dokumenter, for eksempel et udskrift et sikkert sted eller en krypteret boks-eksport gemt på separat lager. Betragt skysikkerhedskopiering som en bekvemmelighed, ikke som dit eneste værn. Det er dit eget ansvar at kontrollere, at dine dokumenter fortsat kan gendannes.
+
+Hvad sker der, hvis jeg mister min gendannelseskode?
+
+Din gendannelseskode er den eneste nøgle, der kan dekryptere din skysikkerhedskopi. Vores design er zero-knowledge, hvilket betyder, at vi hverken kan nulstille, hente eller gendanne den for dig. Det kan Apple og Google heller ikke. Mister du din gendannelseskode, bliver din krypterede sikkerhedskopi permanent uoprettelig. Læg din gendannelseskode et sikkert sted, før du begynder at stole på skysikkerhedskopiering: en adgangskodemanager, et udskrift et sikkert sted, eller begge dele. Kontrollér, at du faktisk kan læse den, før du gemmer den som eneste kopi.
+
 [For en fuld sammenligning, se hvorfor familier vælger Travel Document Vault →](https://traveldocumentvault.com/da/why-us/)
 
 ## Har du stadig spørgsmål?

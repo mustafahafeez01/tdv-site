@@ -370,6 +370,40 @@ Wat als ik een deadline mis vanwege een herinnering die niet werkte?
 
 Herinneringen zijn een gemaksfunctie en mogen niet uw enige herinneringssysteem zijn. Wij zijn niet aansprakelijk voor gemiste deadlines, verlopen documenten of gevolgen als gevolg van mislukte herinneringen. Zie onze [Gebruiksvoorwaarden](https://traveldocumentvault.com/terms/) voor volledige details.
 
+## Cloudback-up
+
+Wat gebeurt er als ik een document verwijder met cloudback-up aan?
+
+Verwijderen verplaatst het naar Onlangs verwijderd (prullenbak). Het blijft daar onbeperkt staan: met cloudback-up aan wordt er niets automatisch opgeruimd. Het document in de prullenbak zit nog steeds in uw cloudback-up. Om het definitief te verwijderen, gaat u naar Onlangs verwijderd en tikt u bij elk item op Definitief verwijderen. U krijgt een waarschuwing dat het daarmee ook uit uw cloudback-up verdwijnt.
+
+Wat gebeurt er als ik al mijn documenten verwijder?
+
+De app synchroniseert een lege kluis niet naar de cloud. Uw bestaande back-up blijft bewaard. U kunt hem terugzetten via Instellingen, Cloudback-up, Herstellen vanaf back-up.
+
+Hoe stel ik cloudback-up in op een tweede apparaat?
+
+Als u cloudback-up inschakelt op een nieuw apparaat dat is aangemeld bij hetzelfde iCloud- of Google-account, herkent de app uw bestaande back-up en vraagt of die hersteld moet worden of dat u opnieuw wilt beginnen. Kies Herstellen vanaf back-up en voer uw herstelcode in. Beide apparaten delen daarna dezelfde back-up. Opnieuw beginnen vervangt de bestaande back-up: kies dat alleen als u het zeker weet.
+
+Kan ik cloudback-up op meerdere apparaten tegelijk gebruiken?
+
+Cloudback-up is bedoeld als back-up van één apparaat met herstel op meerdere. Eén apparaat is de primaire bron. Om over te stappen op een nieuw apparaat, herstelt u daar vanaf uw back-up. Tegelijk bewerken op twee apparaten die naar dezelfde back-up synchroniseren wordt niet ondersteund: het laatst gesynchroniseerde apparaat wint.
+
+Wat als ik cloudback-up inschakel terwijl ik offline ben?
+
+U hebt een internetverbinding nodig om cloudback-up in te schakelen. Tijdens het instellen controleert de app of er al back-ups in uw account staan, en daarvoor is verbinding nodig. Eenmaal ingeschakeld werkt de app volledig offline en synchroniseert zodra u weer online bent.
+
+Is mijn back-up beschermd als ik per ongeluk iets verwijder?
+
+Ja, meerdere lagen beschermen u. Verwijderde documenten blijven onbeperkt in Onlangs verwijderd staan (geen automatische opruiming met cloudback-up aan). Definitief verwijderen vraagt om een aparte bevestiging die waarschuwt voor het effect op de cloud. Zelfs na definitief verwijderen bewaart de back-up de documentgegevens nog enkele synchronisatierondes als vangnet. En een lege kluis wordt nooit naar de cloud gesynchroniseerd, dus een massale vergissing kan uw back-up niet wissen.
+
+Moet ik ook eigen kopieën bewaren?
+
+Ja. Cloudback-up is één beveiligingslaag, maar geen enkel systeem is perfect. Cloudaccounts kunnen verloren gaan, herstelcodes kunnen worden vergeten en er kunnen onverwachte synchronisatie- of opslagproblemen optreden. Wij raden sterk aan een onafhankelijke kopie van belangrijke documenten te bewaren, zoals een afdruk op een veilige plek of een versleutelde kluisexport op een aparte opslag. Beschouw cloudback-up als gemak, niet als uw enige verdediging. U bent er zelf verantwoordelijk voor te controleren dat uw documenten herstelbaar blijven.
+
+Wat gebeurt er als ik mijn herstelcode kwijtraak?
+
+Uw herstelcode is de enige sleutel om uw cloudback-up te ontsleutelen. Ons ontwerp is zero-knowledge, wat betekent dat wij hem niet kunnen resetten, opvragen of voor u herstellen. Apple en Google evenmin. Raakt u uw herstelcode kwijt, dan wordt uw versleutelde back-up definitief onherstelbaar. Bewaar uw herstelcode op een veilige plek voordat u op cloudback-up gaat vertrouwen: een wachtwoordmanager, een afdruk op een beveiligde plaats, of allebei. Controleer of u hem echt kunt teruglezen voordat u hem als enige kopie bewaart.
+
 [Voor een volledige vergelijking, zie waarom gezinnen kiezen voor Travel Document Vault →](https://traveldocumentvault.com/nl/why-us/)
 
 ## Heeft u nog vragen?
