@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
+[RejseforberedelseRejseforsikringsdokumenter: Hvad skal du gemme før du tager af stedLær, hvilke rejseforsikringsdokumenter du skal gemme før du flyver, hvor du opbevarer dem offline, og hvordan du undgår almindelige fejl ved skadesanmeldelser, der koster tusinder af kroner.3. august 20269 min læsning](https://traveldocumentvault.com/da/blog/travel-insurance-documents/)
+
+##
+
 [RejsenødsituationerKan du rejse med et beskadiget pas?Regler for beskadigede pas varierer efter land og luftfartsselskab. Lær hvad der tæller som skade, hvad du skal gøre, hvis det opdages før eller i lufthavnen, og tidsrammer for nødudstedelse af nyt pas.27. juli 20267 min læsning](https://traveldocumentvault.com/da/blog/damaged-passport-travel/)
 
 ##

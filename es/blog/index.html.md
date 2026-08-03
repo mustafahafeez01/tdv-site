@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
+[Preparación de ViajeDocumentos de Seguros de Viaje: Qué Guardar Antes de PartirAprende qué documentos de seguros de viaje debes guardar antes de viajar, dónde almacenarlos sin conexión y cómo evitar errores de reclamación comunes que cuestan miles.3 de agosto de 20269 min de lectura](https://traveldocumentvault.com/es/blog/travel-insurance-documents/)
+
+##
+
 [Emergencias de Viaje¿Puedes Viajar con un Pasaporte Dañado?Las normas sobre daños en el pasaporte varían según el país y la aerolínea. Descubre qué se considera daño, qué hacer si lo detectas antes de viajar o en el aeropuerto, y los plazos de sustitución de emergencia.27 de julio de 20267 min de lectura](https://traveldocumentvault.com/es/blog/damaged-passport-travel/)
 
 ##

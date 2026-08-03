@@ -27,6 +27,7 @@ Every page listed below is also available as clean markdown: append `index.html.
 
 ## Blog posts
 
+- [Travel Insurance Documents: What to Save Before You Go](https://traveldocumentvault.com/blog/travel-insurance-documents/index.html.md)
 - [Can You Travel with a Damaged Passport?](https://traveldocumentvault.com/blog/damaged-passport-travel/index.html.md)
 - [Family Passport Management: Store Multiple Passports Safely](https://traveldocumentvault.com/blog/family-passport-management/index.html.md)
 - [Best Passport Organizer App: A Practical Guide](https://traveldocumentvault.com/blog/best-passport-organizer-app/index.html.md)

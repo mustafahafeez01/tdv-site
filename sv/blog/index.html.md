@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
+[ReseförberedelserFörsäkringsdokument för resor: Vad du ska spara före avresaLäs om vilka försäkringsdokument du ska spara före avresa, var du lagrar dem offline och hur du undviker vanliga skaderegleringsmisstag som kostar tusentals kronor.3 augusti 20269 min läsning](https://traveldocumentvault.com/sv/blog/travel-insurance-documents/)
+
+##
+
 [Nödsituationer på resaKan du resa med ett skadat pass?Reglerna för skadade pass varierar mellan länder och flygbolag. Läs om vad som räknas som skada, vad du ska göra om du upptäcker det före eller på flygplatsen, och hur snabbt du kan få ett nytt pass i en nödsituation.27 juli 20267 min läsning](https://traveldocumentvault.com/sv/blog/damaged-passport-travel/)
 
 ##

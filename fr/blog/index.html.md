@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 ##
 
+[Préparation de voyageDocuments d'assurance voyage : ce qu'il faut sauvegarder avant de partirDécouvrez quels documents d'assurance voyage préparer avant votre vol, où les stocker hors ligne, et comment éviter les erreurs de réclamation qui coûtent des milliers.3 août 20269 min de lecture](https://traveldocumentvault.com/fr/blog/travel-insurance-documents/)
+
+##
+
 [Urgences de voyagePeut-on voyager avec un passeport endommagé ?Les règles relatives aux dommages sur un passeport varient selon le pays et la compagnie aérienne. Découvrez ce qui est considéré comme un dommage, la marche à suivre avant ou à l'aéroport, et les délais de remplacement d'urgence.27 juillet 20267 min de lecture](https://traveldocumentvault.com/fr/blog/damaged-passport-travel/)
 
 ##

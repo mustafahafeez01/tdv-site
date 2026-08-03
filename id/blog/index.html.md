@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
+[Persiapan PerjalananDokumen Asuransi Perjalanan: Apa yang Harus Disimpan Sebelum Anda PergiPelajari dokumen asuransi apa yang harus disimpan sebelum bepergian, di mana menyimpannya offline, dan cara menghindari kesalahan klaim umum yang merugikan ribuan dolar.3 Agustus 20269 menit baca](https://traveldocumentvault.com/id/blog/travel-insurance-documents/)
+
+##
+
 [Darurat PerjalananBisakah Anda Bepergian dengan Paspor yang Rusak?Aturan tentang paspor rusak berbeda-beda menurut negara dan maskapai. Pelajari apa saja yang dianggap kerusakan, langkah yang harus diambil jika ditemukan sebelum atau saat di bandara, dan perkiraan waktu penggantian darurat.27 Juli 20267 menit baca](https://traveldocumentvault.com/id/blog/damaged-passport-travel/)
 
 ##

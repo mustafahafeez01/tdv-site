@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
+[旅行准备旅行保险文件：出发前该保存什么了解出发前应该保存哪些旅行保险文件、如何离线存储它们，以及如何避免可能导致索赔被拒的常见错误。2026年8月3日9 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/travel-insurance-documents/)
+
+##
+
 [旅行紧急情况护照损坏还能出行吗？护照损坏的规定因国家和航空公司而异。了解哪些情况算损坏、在出发前或机场发现损坏该怎么办，以及紧急换发护照所需的时间。2026年7月27日7 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/damaged-passport-travel/)
 
 ##

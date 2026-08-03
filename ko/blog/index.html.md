@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
+[여행 준비여행 보험 서류: 떠나기 전에 준비할 사항여행 보험 서류를 미리 준비하고 보관하는 방법을 알아보세요. 오프라인에서 접근하는 법과 청구 실패를 초래하는 흔한 실수를 피하는 법을 배웁니다.2026년 8월 3일9분 읽기](https://traveldocumentvault.com/ko/blog/travel-insurance-documents/)
+
+##
+
 [여행 비상 상황손상된 여권으로 여행할 수 있을까요?여권 손상 규정은 국가와 항공사마다 다릅니다. 무엇이 손상으로 간주되는지, 출발 전이나 공항에서 발견했을 때 대처법, 긴급 재발급 소요 기간을 알아보세요.2026년 7월 27일7분 읽기](https://traveldocumentvault.com/ko/blog/damaged-passport-travel/)
 
 ##

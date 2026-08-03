@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
+[旅行準備旅行保険の書類: 出発前に保管すべきもの旅行保険の書類で何を保管すべきか、インターネットなしでアクセスできるように保存する場所、そして何千ドルもの損失につながる請求の誤りを避ける方法を学びましょう。2026年8月3日読了時間 9分](https://traveldocumentvault.com/ja/blog/travel-insurance-documents/)
+
+##
+
 [緊急旅行破損したパスポートで搭乗できる？ルールと対処法パスポートの破損に関するルールは、国や航空会社によって異なります。何が破損とみなされるか、出発前や空港で見つかった場合の対処法、緊急再発給にかかる期間を解説します。2026年7月27日読了時間 7分](https://traveldocumentvault.com/ja/blog/damaged-passport-travel/)
 
 ##

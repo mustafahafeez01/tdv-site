@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
+[Travel PrepTravel Insurance Documents: What to Save Before You GoMost people buy travel insurance, then cannot find their policy number when it matters. Which documents to save, where to keep them so they work offline, and the claims mistakes that cost thousands.August 3, 20269 min read](https://traveldocumentvault.com/blog/travel-insurance-documents/)
+
+##
+
 [Travel EmergenciesCan You Travel with a Damaged Passport?Passport damage rules vary by country and airline. What counts as damage, what to do if you spot it before or at the airport, and how emergency replacement works.July 27, 20267 min read](https://traveldocumentvault.com/blog/damaged-passport-travel/)
 
 ##

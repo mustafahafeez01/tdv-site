@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
+[Preparação de ViagemDocumentos de Seguro de Viagem: O que Guardar Antes de PartirSaiba quais os documentos de seguro de viagem a guardar antes de partir, onde armazená-los offline e como evitar os erros em reclamações que custam milhares.3 de agosto de 20269 min de leitura](https://traveldocumentvault.com/pt/blog/travel-insurance-documents/)
+
+##
+
 [Emergências de ViagemPode Viajar com um Passaporte Danificado?As regras sobre danos em passaportes variam consoante o país e a companhia aérea. Saiba o que conta como dano, o que fazer se o detetar antes ou já no aeroporto, e os prazos de substituição de emergência.27 de julho de 20267 min de leitura](https://traveldocumentvault.com/pt/blog/damaged-passport-travel/)
 
 ##

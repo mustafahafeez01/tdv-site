@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
+[ReisevorbereitungReiseversicherungsdokumente: Was du vor der Abreise speichern solltestErfahre, welche Versicherungsdokumente du vor dem Flug speichern solltest, wo du sie offline speicherst und wie du häufige Fehler beim Einreichen von Ansprüchen vermeidest, die tausende kosten.3. August 20269 Min. Lesedauer](https://traveldocumentvault.com/de/blog/travel-insurance-documents/)
+
+##
+
 [Reisenotfälle Kann man mit einem beschädigten Reisepass reisen? Regeln für beschädigte Reisepässe unterscheiden sich je nach Land und Fluggesellschaft. Was als Schaden gilt, was Sie vor oder am Flughafen tun sollten, und wie eine Notfallerneuerung abläuft. 27. Juli 20267 Min. Lesedauer](https://traveldocumentvault.com/de/blog/damaged-passport-travel/)
 
 ##
