@@ -30,7 +30,7 @@ A renovação de passaporte dos EUA por correio padrão não requer que entregue
 
 Isto significa que as viagens domésticas nos Estados Unidos não são afectadas durante todo o processo de renovação - não precisa de um passaporte para voos domésticos. As viagens internacionais são uma história diferente: não pode viajar internacionalmente até que o seu novo passaporte chegue, e não pode usar o antigo passaporte cancelado mesmo que o tenha na mão.
 
-Atualmente demora 4 a 6 semanas para processamento padrão, não contando o tempo de correio de cada lado. Se tem viagens internacionais marcadas mais cedo do que isso, o Departamento de Estado oferece processamento expedido por uma taxa adicional, reduzindo a cronologia para aproximadamente 2 a 3 semanas. Para viagens genuinamente urgentes dentro de 14 dias de calendário, estão disponíveis consultas presenciais nas agências regionais de passaportes - verifique a disponibilidade em [travel.state.gov](https://travel.state.gov).
+Atualmente demora 4 a 6 semanas para processamento padrão, não contando o tempo de correio de cada lado. Se tem viagens internacionais marcadas mais cedo do que isso, o Departamento de Estado oferece processamento expedido por uma taxa adicional, reduzindo a cronologia para aproximadamente 2 a 3 semanas. Para viagens genuinamente urgentes dentro de 14 dias de calendário, estão disponíveis consultas presenciais nas agências regionais de passaportes - verifique a disponibilidade em travel.state.gov.
 
 ## Reino Unido: Dois Processos com Resultados Opostos
 
@@ -48,13 +48,13 @@ A renovação de passaporte australiano requer que entregue o seu passaporte atu
 
 Não pode viajar internacionalmente durante este período. As viagens aéreas domésticas dentro da Austrália também podem ser afectadas se não tiver outro documento de identificação com foto válido, pois as companhias aéreas exigem verificação de identidade no check-in.
 
-O Serviço de Passaportes Australiano atualmente aconselha permitir pelo menos 6 semanas a partir da apresentação da sua candidatura. Se tem viagens genuínas e iminentes, o processamento mais rápido está disponível por taxas adicionais - um serviço de via rápida processado dentro de 5 dias úteis e um serviço prioritário dentro de 2 dias úteis. Opções de emergência existem para viagens verdadeiramente iminentes. Verifique os tempos actuais e candidature-se em [passports.gov.au](https://www.passports.gov.au).
+O Serviço de Passaportes Australiano atualmente aconselha permitir pelo menos 6 semanas a partir da apresentação da sua candidatura. Se tem viagens genuínas e iminentes, o processamento mais rápido está disponível por taxas adicionais - um serviço de via rápida processado dentro de 5 dias úteis e um serviço prioritário dentro de 2 dias úteis. Opções de emergência existem para viagens verdadeiramente iminentes. Verifique os tempos actuais e candidature-se em passports.gov.au.
 
 ## Canadá: Entregue Aquando da Candidatura
 
 O Canadá requer que entregue o seu passaporte existente quando se candidata à renovação. O seu antigo passaporte é mantido até que o novo esteja pronto, portanto não pode viajar internacionalmente durante este período - embora as viagens domésticas dentro do Canadá não requeiram passaporte.
 
-Os padrões de serviço estão atualmente com 10 dias úteis quando se candidata presencialmente num escritório de passaportes, ou 20 dias úteis por correio ou num Centro de Serviços Canada regular - mais tempo de correio. Para viagens urgentes pode escolher serviço expresso (2 a 9 dias úteis) ou levantamento urgente (tão rápido como o dia útil seguinte) por taxas adicionais. Verifique os tempos de processamento actuais e candidature-se em [canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports.html).
+Os padrões de serviço estão atualmente com 10 dias úteis quando se candidata presencialmente num escritório de passaportes, ou 20 dias úteis por correio ou num Centro de Serviços Canada regular - mais tempo de correio. Para viagens urgentes pode escolher serviço expresso (2 a 9 dias úteis) ou levantamento urgente (tão rápido como o dia útil seguinte) por taxas adicionais. Verifique os tempos de processamento actuais e candidature-se em canada.ca.
 
 ## Comparação entre Países
 
@@ -77,6 +77,8 @@ Ao mesmo tempo, contacte a sua companhia aérea sobre remarcação. Algumas tran
 A resposta simples é renovar o seu passaporte bem antes de o precisar para viagens. Candidatar-se 6 a 9 meses antes de qualquer viagem internacional planeada remove inteiramente a pressão de tempo e deixa margem para processamento padrão sem taxas expedidas.
 
 A razão pela qual as pessoas acabam nesta situação não é ignorância das regras. Os passaportes expiram silenciosamente sem lembrança automática, portanto as pessoas tendem a lembrar apenas que o seu passaporte é válido, não quando expira. Definir um lembrete 12 meses antes da sua data de expiração dá-lhe tempo para renovar ao seu próprio ritmo, no processamento padrão, sem pressão.
+
+**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
 
 ## Perguntas Frequentes
 

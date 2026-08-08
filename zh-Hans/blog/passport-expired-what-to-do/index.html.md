@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do
 
 - 有两种不同的场景：在家中旅行前发现护照过期，以及在机场发现护照过期。每种情况的步骤都不同。
 - 你不能用过期护照进行国际飞行。没有例外。
-- 在英国，皇家护照办公室为真正的紧急情况提供当日特急护照服务——可通过[gov.uk](https://www.gov.uk/apply-renew-passport)预约。在美国，国务院为72小时内出行的人提供紧急预约。
+- 在英国，皇家护照办公室为真正的紧急情况提供当日特急护照服务——可通过gov.uk预约。在美国，国务院为72小时内出行的人提供紧急预约。
 - 在机场，先联系你的航空公司——一些航空公司在真正的证件紧急情况下会免除改期费用。
 - 根本的解决方案是12个月的过期提醒，而不是6个月。这给了你足够的时间以标准处理方式更新护照。
 - 过期不是让旅行者被拒绝的唯一护照问题。损坏、名字不匹配、缺少签名和目的地的剩余有效期不足都会导致相同的结果。
@@ -80,13 +80,15 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do
 
 签证和电子旅行授权（ETA）要求变化频繁，并因国籍、目的地和旅行目的而异。抵达而没有正确的入境许可——假设无签证进入而实际上需要——导致被拒登机或在边境被遣返。你上次旅行时无签证的路线可能不再如此。
 
-在每次出行前，使用你国家的旅行建议服务检查你目的地的官方入境要求：英国护照持有人使用[gov.uk/foreign-travel-advice](https://www.gov.uk/foreign-travel-advice)，美国护照持有人使用[travel.state.gov](https://travel.state.gov)，或澳大利亚护照持有人使用[smartraveller.gov.au](https://www.smartraveller.gov.au)。不要依赖上次为真的。
+在每次出行前，使用你国家的旅行建议服务检查你目的地的官方入境要求：英国护照持有人使用gov.uk/foreign-travel-advice，美国护照持有人使用travel.state.gov，或澳大利亚护照持有人使用smartraveller.gov.au。不要依赖上次为真的。
 
 ## 如何确保这种情况再也不会发生
 
 根本原因通常是相同的：没有提醒。在过期日期前至少**12个月**设置过期提醒——而不是6个月。这给了你时间以标准处理方式更新而无需支付加急服务，并且没有紧张时间表的压力。
 
 为你家中的每本护照分别做这一点。儿童护照过期更快——大多数国家为5年对比成人10年——而且是最容易被遗漏的。
+
+**在依据本文行动之前：**本文说明的是一般规则，而一般规则也是任何博客所能提供的全部。要求会变化，并且因国籍、目的地和出行日期而异。预订前请向签发机构或本国的出行提示服务核实你的具体情况。我们会核对所发布的内容，但仍可能出错或过时。
 
 ## 常见问题
 
@@ -104,7 +106,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do
 
 ### 如果护照过期，我能多快获得紧急护照？
 
-在英国，王家护照办公室为1周内出行的人提供当日特急服务——预约所需，可通过[gov.uk](https://www.gov.uk/apply-renew-passport)预约。在美国，国务院在地区护照机构为72小时内出行的人提供紧急面对面预约——加急费用为$60加上标准更新费。检查[travel.state.gov](https://travel.state.gov/content/travel/en/passports/need-passport/passport-agencies.html)了解可用情况。在澳大利亚，检查[passports.gov.au](https://www.passports.gov.au)以获取紧急处理选项。
+在英国，王家护照办公室为1周内出行的人提供当日特急服务——预约所需，可通过gov.uk预约。在美国，国务院在地区护照机构为72小时内出行的人提供紧急面对面预约——加急费用为$60加上标准更新费。检查travel.state.gov了解可用情况。在澳大利亚，检查passports.gov.au以获取紧急处理选项。
 
 ### 我如何避免护照意外过期？
 

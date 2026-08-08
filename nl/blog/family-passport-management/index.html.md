@@ -22,7 +22,7 @@ Als je met kinderen reist en je moet vijf paspoorten bijhouden in twee verschill
 
 Het probleem begint klein. Je hebt je eigen paspoort, je partner het zijne. Dan krijg je kinderen en ineens heb je vier aparte documenten met vier aparte vervaldatums. Het menselijk brein is niet gebouwd om vier verschillende vernieuwingstijdlijnen bij te houden, vooral niet als het leven druk is. Eén persoon gaat dit alles afhandelen - meestal degene die al alle andere reislogistiek beheert - en dat enkele aanraakpunt wordt een risico.
 
-Het tweede probleem is dat kinderpasspoorten veel sneller verlopen dan volwassenenpasspoorten. [In de Verenigde Staten zijn paspoorten voor kinderen onder de 16 jaar 5 jaar geldig](https://travel.state.gov/content/travel/en/passports.html), terwijl volwassenenpasspoorten 10 jaar geldig zijn. [Hetzelfde geldt in het Verenigd Koninkrijk](https://www.gov.uk/apply-renew-passport) - kinderdocumenten verlopen na 5 jaar, niet 10. Dit betekent dat het paspoort van je jongste kind vaak de beperkende factor voor gezinsreizen wordt. Je kunt een ouder hebben met nog 8 jaar geldigheid, maar als het paspoort van je jongste over 18 maanden verloopt, dat is je planningshorizon.
+Het tweede probleem is dat kinderpasspoorten veel sneller verlopen dan volwassenenpasspoorten. In de Verenigde Staten zijn paspoorten voor kinderen onder de 16 jaar 5 jaar geldig, terwijl volwassenenpasspoorten 10 jaar geldig zijn. Hetzelfde geldt in het Verenigd Koninkrijk - kinderdocumenten verlopen na 5 jaar, niet 10. Dit betekent dat het paspoort van je jongste kind vaak de beperkende factor voor gezinsreizen wordt. Je kunt een ouder hebben met nog 8 jaar geldigheid, maar als het paspoort van je jongste over 18 maanden verloopt, dat is je planningshorizon.
 
 De meeste gezinnen beseffen dit pas als ze al een reis hebben geboekt. Een ouder vindt de paspoorten een week voor vertrek, scant ze haastig terwijl hij inpakt, en ontdekt dat het document van één kind niet voldoet aan de regel van zes maanden geldigheid voor hun bestemming. De reis loopt nu risico, of het vergt een gehaaste en dure paspoortvernieuwing.
 
@@ -77,6 +77,8 @@ Buiten het paspoort zelf verdienen verschillende andere documenten een plaats in
 - **Rijbewijzen.** Als je een auto huurt, heb je rijbewijzen nodig van alle bestuurders in je groep. Deze hebben ook vervaldatums die gezinnen kunnen overrompelen.
 
 Bewaar al dit op één toegankelijke plaats. Het paniek van rommelen in je telefoon of tas bij de balie op het vliegveld, tuuren naar wazig foto's van visumpagina's - dat is precies wat dit systeem voorkomt.
+
+**Voordat je hierop vertrouwt:** dit artikel legt algemene regels uit, en algemene regels zijn alles wat een blog kan bieden. Eisen veranderen en verschillen per nationaliteit, bestemming en reisdatum. Controleer je eigen situatie bij de instantie die het document afgeeft of bij de reisadviesdienst van je overheid voordat je boekt. We controleren wat we publiceren en kunnen er alsnog naast zitten of verouderd zijn.
 
 ## Veelgestelde vragen
 

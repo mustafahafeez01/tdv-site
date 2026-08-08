@@ -32,7 +32,7 @@ If you hold a visa such as a Schengen long-stay visa, UK family visa, or other r
 
 Unlike traditional visas, ETIAS requires no physical document submission - you apply entirely online instead. However, you'll need to have specific information ready before you start the application form.
 
-**Your passport** must be valid for at least three months beyond your intended date of departure from Europe - and many applicants make the mistake of assuming a passport expiring on 30 December will work for a trip departing 1 December, when in fact most countries require the full three-month buffer to be safe. Beyond that validity window, it also needs to be a standard [adult passport from a recognised country](https://www.gov.uk/apply-renew-passport), not a travel document or emergency passport.
+**Your passport** must be valid for at least three months beyond your intended date of departure from Europe - and many applicants make the mistake of assuming a passport expiring on 30 December will work for a trip departing 1 December, when in fact most countries require the full three-month buffer to be safe. Beyond that validity window, it also needs to be a standard adult passport from a recognised country, not a travel document or emergency passport.
 
 You'll also need to provide **an email address**, which doubles as your login for tracking your application throughout the process - ETIAS will send all status updates, approvals, and rejections to this inbox, so use one you check regularly. If your family shares email accounts, it's worth setting up individual addresses for each traveller to avoid missing critical notifications.
 
@@ -46,7 +46,7 @@ Many applicants mistakenly assume they need vaccination records, hotel bookings,
 
 ## The ETIAS Application Process: Step by Step
 
-Once you've gathered your information, the online application itself is straightforward - visit the official [ETIAS application portal](https://travel-europe.europa.eu) (expected to launch in early 2026) and start a new application without needing to create a full account, just using an email address and temporary password.
+Once you've gathered your information, the online application itself is straightforward - visit the official ETIAS application portal (expected to launch in early 2026) and start a new application without needing to create a full account, just using an email address and temporary password.
 
 The form asks for your personal details (name, date of birth, nationality), passport information (number and validity date), and your travel plans (intended destination and stay duration). Be precise: if you plan to visit three countries, list all three. If you're unsure about exact dates, use approximate month ranges - inconsistency is what triggers rejections, not approximate dates.
 
@@ -58,7 +58,7 @@ At the end, you review your information, pay the €20 fee (free if under 18 or 
 
 ## Processing Time and Outcome Types
 
-Whilst standard processing time is **up to 4 weeks**, the [European Commission](https://ec.europa.eu/home-affairs/eeas-eu-travel-authorisation-system_en) recommends applying at least 2 months before your trip to account for initial system overload following launch, potential delays in background checks, and time to address any rejections if needed.
+Whilst standard processing time is **up to 4 weeks**, the European Commission recommends applying at least 2 months before your trip to account for initial system overload following launch, potential delays in background checks, and time to address any rejections if needed.
 
 There are three possible outcomes: approved, rejected, or refusal to authorise.
 
@@ -88,13 +88,13 @@ Children under 18 don't pay the ETIAS fee but should still apply for authorisati
 
 Family groups must submit each application separately rather than as a single "family" unit, though you can note that you're travelling as a family in the travel details section - this notation may help if one member's application is flagged for review.
 
-If you're refused and still need to travel, your fallback is applying for a traditional long-stay visa through the relevant embassy or consulate, which typically allows multiple entries and longer stays than visa-exempt travel. Since requirements vary significantly by destination and your nationality, contact the [embassy directly](https://www.gov.uk/foreign-travel-advice) to understand what you'll need.
+If you're refused and still need to travel, your fallback is applying for a traditional long-stay visa through the relevant embassy or consulate, which typically allows multiple entries and longer stays than visa-exempt travel. Since requirements vary significantly by destination and your nationality, contact the embassy directly to understand what you'll need.
 
 ![Hand-drawn comparison: EES happens at the border with fingerprints and photo, no application, and is already running; ETIAS happens before you fly, applied for online with a small fee, starting later with no date set. You will eventually need both, and neither one is a visa](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure.jpg) Two different gates: EES registers you on arrival; ETIAS clears you before departure.
 
 ## ETIAS Alongside Other Travel Documents
 
-ETIAS approval does not replace your passport, [travel insurance](https://www.gov.uk/foreign-travel-advice), or [passport validity requirements](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). You still need:
+ETIAS approval does not replace your passport, travel insurance, or [passport validity requirements](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). You still need:
 
 - A valid passport (3+ months validity)
 - Travel insurance covering medical emergencies and repatriation
@@ -103,6 +103,8 @@ ETIAS approval does not replace your passport, [travel insurance](https://www.go
 - Sufficient funds for your stay
 
 Border officers may still request any of these documents upon arrival, even with a valid ETIAS, since ETIAS merely speeds up the authorisation process rather than exempting you from standard border inspection and documentation requirements.
+
+**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
 
 ## Frequently Asked Questions
 

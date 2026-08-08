@@ -22,7 +22,7 @@ Quando viaja com crianças, acompanhar cinco passaportes através de dois paíse
 
 O problema começa pequeno. Você tem o seu próprio passaporte, o seu cônjuge tem o dele. Depois tem filhos, e de repente tem quatro documentos separados com quatro datas de expiração diferentes. O cérebro humano não é construído para acompanhar quatro linhas de tempo de renovação diferentes, especialmente quando a vida fica ocupada. Uma pessoa fica responsável por tratar de tudo - geralmente a pessoa que já está a gerir toda a outra logística de viagem - e esse único ponto de falha torna-se um risco.
 
-O segundo problema é que os passaportes de crianças expiram muito mais rápido que os de adultos. [Nos Estados Unidos, os passaportes de crianças menores de 16 anos duram 5 anos](https://travel.state.gov/content/travel/en/passports.html), enquanto os passaportes de adultos duram 10 anos. [O mesmo aplica-se no Reino Unido](https://www.gov.uk/apply-renew-passport) - os documentos infantis expiram após 5 anos, não 10. Isto significa que o passaporte do seu filho mais jovem geralmente torna-se o fator limitante para viagens familiares. Pode ter um progenitor com 8 anos de validade restante, mas se o passaporte do seu filho mais jovem expira em 18 meses, esse é o seu horizonte de planeamento.
+O segundo problema é que os passaportes de crianças expiram muito mais rápido que os de adultos. Nos Estados Unidos, os passaportes de crianças menores de 16 anos duram 5 anos, enquanto os passaportes de adultos duram 10 anos. O mesmo aplica-se no Reino Unido - os documentos infantis expiram após 5 anos, não 10. Isto significa que o passaporte do seu filho mais jovem geralmente torna-se o fator limitante para viagens familiares. Pode ter um progenitor com 8 anos de validade restante, mas se o passaporte do seu filho mais jovem expira em 18 meses, esse é o seu horizonte de planeamento.
 
 A maioria das famílias não se apercebe disto até já ter uma viagem reservada. Um progenitor encontra os passaportes uma semana antes da partida, digitalizando-os apressadamente enquanto arruma, e descobre que um documento infantil não passa na regra de validade de 6 meses para o destino. A viagem está agora em risco, ou precisa de uma renovação de passaporte apressada e dispendiosa.
 
@@ -77,6 +77,8 @@ Para além do passaporte em si, vários outros documentos merecem um lugar no se
 - **Cartas de condução.** Se está a alugar um carro, precisará cartas de condução para todos os condutores no seu grupo. Estas também têm datas de expiração que podem apanhar famílias desprevenidas.
 
 Guarde todos estes num local acessível. O pânico de revolver no seu telemóvel ou mala no balcão do aeroporto, espiando para fotos desfocadas de páginas de visto - é exatamente isto que este sistema evita.
+
+**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
 
 ## Perguntas Frequentes
 

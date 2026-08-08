@@ -30,7 +30,7 @@ Le renouvellement standard du passeport américain par courrier n'exige pas que 
 
 Cela signifie que les voyages intérieurs aux États-Unis ne sont pas affectés pendant tout le processus de renouvellement - vous n'avez pas besoin de passeport pour les vols intérieurs. Les voyages internationaux, c'est différent : vous ne pouvez pas voyager à l'étranger jusqu'à l'arrivée de votre nouveau passeport, et vous ne pouvez pas utiliser l'ancien passeport annulé même si vous l'avez en main.
 
-Il faut actuellement 4 à 6 semaines pour le traitement standard, sans compter le temps d'envoi dans chaque direction. Si vous avez des voyages internationaux prévus avant cela, le Département d'État propose un traitement accéléré moyennant des frais supplémentaires, réduisant le délai à environ 2 à 3 semaines. Pour les voyages véritablement urgents dans les 14 jours calendaires, des rendez-vous en personne sont disponibles aux agences régionales des passeports - vérifiez la disponibilité sur [travel.state.gov](https://travel.state.gov).
+Il faut actuellement 4 à 6 semaines pour le traitement standard, sans compter le temps d'envoi dans chaque direction. Si vous avez des voyages internationaux prévus avant cela, le Département d'État propose un traitement accéléré moyennant des frais supplémentaires, réduisant le délai à environ 2 à 3 semaines. Pour les voyages véritablement urgents dans les 14 jours calendaires, des rendez-vous en personne sont disponibles aux agences régionales des passeports - vérifiez la disponibilité sur travel.state.gov.
 
 ## Royaume-Uni : Deux processus avec des résultats opposés
 
@@ -48,13 +48,13 @@ Le renouvellement du passeport australien vous oblige à remettre votre passepor
 
 Vous ne pouvez pas voyager à l'étranger pendant cette période. Les voyages aériens intérieurs en Australie peuvent également être affectés si vous n'avez pas d'autre pièce d'identité avec photo valide, car les compagnies aériennes exigent une vérification d'identité à l'enregistrement.
 
-Le Bureau australien des passeports conseille actuellement de prévoir au moins 6 semaines à partir du dépôt de votre demande. Si vous avez un voyage véritablement urgent et immédiat, un traitement plus rapide est disponible moyennant des frais supplémentaires - un service de fast-track traité dans les 5 jours ouvrables et un service prioritaire dans les 2 jours ouvrables. Des options d'urgence existent pour les voyages véritablement imminents. Vérifiez les délais actuels et postulez sur [passports.gov.au](https://www.passports.gov.au).
+Le Bureau australien des passeports conseille actuellement de prévoir au moins 6 semaines à partir du dépôt de votre demande. Si vous avez un voyage véritablement urgent et immédiat, un traitement plus rapide est disponible moyennant des frais supplémentaires - un service de fast-track traité dans les 5 jours ouvrables et un service prioritaire dans les 2 jours ouvrables. Des options d'urgence existent pour les voyages véritablement imminents. Vérifiez les délais actuels et postulez sur passports.gov.au.
 
 ## Canada : Remis lors de la demande
 
 Le Canada vous oblige à remettre votre passeport existant lorsque vous demandez un renouvellement. Votre ancien passeport est conservé jusqu'à ce que le nouveau soit prêt, donc vous ne pouvez pas voyager à l'étranger pendant cette période - bien que les voyages intérieurs au Canada ne nécessitent pas de passeport.
 
-Les normes de service sont actuellement de 10 jours ouvrables si vous postulez en personne à un bureau des passeports, ou de 20 jours ouvrables par courrier ou à un Centre de services régulier - plus le temps d'envoi. Pour les voyages urgents, vous pouvez choisir un service express (2 à 9 jours ouvrables) ou un retrait urgent (aussi rapide que le jour suivant) moyennant des frais supplémentaires. Vérifiez les délais de traitement actuels et postulez sur [canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports.html).
+Les normes de service sont actuellement de 10 jours ouvrables si vous postulez en personne à un bureau des passeports, ou de 20 jours ouvrables par courrier ou à un Centre de services régulier - plus le temps d'envoi. Pour les voyages urgents, vous pouvez choisir un service express (2 à 9 jours ouvrables) ou un retrait urgent (aussi rapide que le jour suivant) moyennant des frais supplémentaires. Vérifiez les délais de traitement actuels et postulez sur canada.ca.
 
 ## Comparaison des pays
 
@@ -77,6 +77,8 @@ En même temps, contactez votre compagnie aérienne pour reporter votre vol. Cer
 La réponse simple est de renouveler votre passeport bien avant d'en avoir besoin pour voyager. Postuler 6 à 9 mois avant un voyage international prévu élimine complètement la pression des délais et laisse de la place pour un traitement standard sans frais accélérés.
 
 La raison pour laquelle les gens se retrouvent dans cette situation n'est pas l'ignorance des règles. Les passeports expirent silencieusement sans rappel automatique, donc les gens ont tendance à se souvenir seulement que leur passeport est valide, pas quand il expire. Fixer un rappel 12 mois avant votre date d'expiration vous donne le temps de renouveler à votre rythme, avec un traitement standard, sans pression.
+
+**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
 
 ## Foire aux questions
 

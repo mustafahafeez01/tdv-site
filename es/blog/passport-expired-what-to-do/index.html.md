@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/es/blog/passport-expired-what-to-do/
 
 - Hay dos escenarios distintos: descubrir que tu pasaporte está caducado **en casa antes de un viaje**, y descubrirlo **en el aeropuerto**. Los pasos son diferentes para cada uno.
 - No puedes viajar internacionalmente con un pasaporte caducado. Sin excepciones.
-- En el Reino Unido, existe un servicio de pasaporte Premium de mismo día para emergencias genuinas - reservable en [gov.uk](https://www.gov.uk/apply-renew-passport). En Estados Unidos, hay citas de emergencia disponibles a través del Departamento de Estado para viajar dentro de 72 horas.
+- En el Reino Unido, existe un servicio de pasaporte Premium de mismo día para emergencias genuinas - reservable en gov.uk. En Estados Unidos, hay citas de emergencia disponibles a través del Departamento de Estado para viajar dentro de 72 horas.
 - En el aeropuerto, contacta primero a tu aerolínea - algunas reprograman sin tarifas para emergencias genuinas de documentos.
 - La solución para el futuro es un recordatorio de caducidad a 12 meses, no a 6 meses. Eso te da suficiente tiempo para renovar con procesamiento estándar.
 - La caducidad no es el único problema de pasaporte que hace que los viajeros sean rechazados. El daño, falta de concordancia de nombres, firmas faltantes, y validez insuficiente restante en tu destino causan el mismo resultado.
@@ -80,13 +80,15 @@ Esta regla no se aplica consistentemente en todos los destinos, lo que la hace f
 
 Los requisitos de visa y autorización de viaje electrónica (ETA) cambian a menudo y varían según la nacionalidad, el destino y el propósito del viaje. Llegar sin el permiso de entrada correcto - asumiendo acceso sin visa cuando en realidad se requiere uno - resulta en embarque rechazado o ser devuelto en la frontera. Una ruta que era sin visa cuando la viajaste por última vez puede ya no serlo.
 
-Antes de cada viaje, verifica los requisitos de entrada oficiales para tu destino usando el servicio de asesoramiento de viaje de tu país: [gov.uk/foreign-travel-advice](https://www.gov.uk/foreign-travel-advice) para titulares de pasaporte del Reino Unido, [travel.state.gov](https://travel.state.gov) para titulares de pasaporte de Estados Unidos, o [smartraveller.gov.au](https://www.smartraveller.gov.au) para titulares de pasaporte australianos. No confíes en lo que era verdad la última vez.
+Antes de cada viaje, verifica los requisitos de entrada oficiales para tu destino usando el servicio de asesoramiento de viaje de tu país: gov.uk/foreign-travel-advice para titulares de pasaporte del Reino Unido, travel.state.gov para titulares de pasaporte de Estados Unidos, o smartraveller.gov.au para titulares de pasaporte australianos. No confíes en lo que era verdad la última vez.
 
 ## Cómo Hacer Que Esto Nunca Vuelva a Suceder
 
 La causa raíz es generalmente la misma: sin recordatorio establecido. Establece un recordatorio de caducidad al menos **12 meses antes de la fecha de caducidad** - no 6 meses. Esto te da tiempo para renovar con procesamiento estándar sin pagar por servicio expedito, y sin el estrés de un cronograma ajustado.
 
 Haz esto para cada pasaporte en tu hogar por separado. Los pasaportes de niños caducan más rápido - 5 años en la mayoría de países versus 10 para adultos - y son los que más a menudo se pierden.
+
+**Antes de fiarte de esto:** este artículo explica reglas generales, y las reglas generales son todo lo que puede ofrecer un blog. Los requisitos cambian y varían según la nacionalidad, el destino y la fecha del viaje. Consulta tu caso con la autoridad que emite el documento o con el servicio de información al viajero de tu gobierno antes de reservar. Revisamos lo que publicamos y aun así podemos equivocarnos o quedarnos desactualizados.
 
 ## Preguntas Frecuentes
 
@@ -104,7 +106,7 @@ No podrás abordar. Ve al mostrador de la aerolínea inmediatamente para discuti
 
 ### ¿Qué tan rápido puedo obtener un pasaporte de emergencia si el mío ha caducado?
 
-En el Reino Unido, un servicio Premium de mismo día está disponible en oficinas de pasaportes designadas para viajes dentro de 1 semana - cita requerida, reservable en [gov.uk](https://www.gov.uk/apply-renew-passport). En Estados Unidos, citas de emergencia en persona están disponibles en agencias de pasaportes regionales para viajes dentro de 72 horas - la tarifa expedita es de $60 más la tarifa de renovación estándar. Consulta [travel.state.gov](https://travel.state.gov/content/travel/en/passports/need-passport/passport-agencies.html) para disponibilidad. En Australia, consulta [passports.gov.au](https://www.passports.gov.au) para opciones de procesamiento urgente.
+En el Reino Unido, un servicio Premium de mismo día está disponible en oficinas de pasaportes designadas para viajes dentro de 1 semana - cita requerida, reservable en gov.uk. En Estados Unidos, citas de emergencia en persona están disponibles en agencias de pasaportes regionales para viajes dentro de 72 horas - la tarifa expedita es de $60 más la tarifa de renovación estándar. Consulta travel.state.gov para disponibilidad. En Australia, consulta passports.gov.au para opciones de procesamiento urgente.
 
 ### ¿Cómo evito que mi pasaporte caduque inesperadamente?
 

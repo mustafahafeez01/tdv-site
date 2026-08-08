@@ -1,6 +1,6 @@
-# Visto vs Passaporto: Qual è la Differenza?
+# Qual è la differenza tra visto e passaporto?
 
-> Un passaporto prova chi sei. Un visto ti concede il permesso di entrare. Ecco cosa fa ciascuno, perché la maggior parte dei viaggi richiede entrambi, e come controllare la tua destinazione.
+> Il passaporto dimostra chi sei. Il visto è il permesso di ingresso concesso da un Paese. Ecco cosa li distingue e con chi conviene verificare.
 
 Source: https://traveldocumentvault.com/it/blog/visa-vs-passport/
 
@@ -24,7 +24,7 @@ Il tuo passaporto contiene il tuo nome, data di nascita, foto e numero di passap
 
 Pensa al tuo passaporto come la tua carta d'identità ufficiale per i viaggi internazionali. Senza di esso, non puoi legalmente lasciare il tuo paese o entrare nella maggior parte delle destinazioni straniere. Gli ufficiali di immigrazione lo esaminano ai confini, le compagnie aeree lo richiedono per i voli internazionali, e gli ufficiali doganali lo controllano quando arrivi.
 
-I passaporti sono tipicamente validi per diversi anni (spesso 10 anni per gli adulti, 5 anni per i bambini), sebbene i periodi di validità varino a seconda del paese. Quando il tuo passaporto scade, non puoi viaggiare internazionalmente e devi richiedere un rinnovo. Tenere traccia della data di scadenza del tuo passaporto è critico poiché [molti paesi richiedono almeno 6 mesi di validità rimanente](https://www.iatatravelcentre.com) prima di permetterti di entrare.
+I passaporti sono tipicamente validi per diversi anni (spesso 10 anni per gli adulti, 5 anni per i bambini), sebbene i periodi di validità varino a seconda del paese. Quando il tuo passaporto scade, non puoi viaggiare internazionalmente e devi richiedere un rinnovo. Tenere traccia della data di scadenza del tuo passaporto è critico poiché molti paesi richiedono almeno 6 mesi di validità rimanente prima di permetterti di entrare.
 
 ## Che Cos'è un Visto
 
@@ -75,9 +75,9 @@ Uno scenario comune: ottieni un nuovo passaporto prima che il tuo visto scada. N
 
 La chiave è la tua nazionalità e la tua destinazione. Un viaggiatore potrebbe aver bisogno di un visto per un percorso che un altro può fare senza visto, a seconda interamente del loro passaporto. Verifica sempre i tuoi requisiti specifici con fonti ufficiali prima di prenotare - non fare affidamento su ciò che ha funzionato per un amico con un diverso passaporto.
 
-- **[IATA Travel Centre:](https://www.iatatravelcentre.com)** Cerca per il tuo paese di passaporto e il paese di destinazione per vedere i requisiti esatti, i tempi di elaborazione e i periodi di validità. Questo è il punto di partenza più veloce per la maggior parte dei percorsi.
+- **IATA Travel Centre:** Cerca per il tuo paese di passaporto e il paese di destinazione per vedere i requisiti esatti, i tempi di elaborazione e i periodi di validità. Questo è il punto di partenza più veloce per la maggior parte dei percorsi.
 - **L'ambasciata ufficiale o il consolato del tuo paese di destinazione:** Visita il sito dell'ambasciata per il tuo paese di residenza. Elencano i requisiti dei visti, i processi di richiesta, le tasse e i tempi di elaborazione specifici per la tua nazionalità. Ad esempio, cerca "ambasciata francese in Canada" o "consolato tedesco in Australia" per trovare il sito corretto.
-- **L'avviso di viaggio del tuo governo:** Governi come il [Regno Unito](https://www.gov.uk/foreign-travel-advice), gli [USA](https://travel.state.gov), l'[Australia](https://www.smartraveller.gov.au) e il [Canada](https://travel.gc.ca) pubblicano i requisiti dei visti per i loro cittadini. Queste pagine evidenziano anche i cambiamenti recenti e le circostanze speciali.
+- **L'avviso di viaggio del tuo governo:** Governi come il Regno Unito, gli USA, l'Australia e il Canada pubblicano i requisiti dei visti per i loro cittadini. Queste pagine evidenziano anche i cambiamenti recenti e le circostanze speciali.
 
 Non fare mai affidamento esclusivamente su blog di viaggio, siti web di servizi visti commerciali o informazioni da viaggi precedenti. I requisiti cambiano frequentemente. Un percorso senza visto potrebbe ora richiedere visti; i tempi di elaborazione cambiano; i criteri di idoneità si evolvono. Verifica direttamente con le fonti ufficiali 2-3 mesi prima del viaggio per consentire tempo per le domande se necessario.
 
@@ -95,33 +95,47 @@ La confusione sorge perché il visto appare nel tuo vecchio passaporto, che è s
 
 ## Viaggi Senza Visto: Un Panorama Complesso
 
-Molte nazioni hanno accordi di esenzione dai visti o di viaggio senza visto tra loro, permettendo ai loro cittadini di attraversare i confini senza ottenere un visto in anticipo. L'Area Schengen in Europa è l'esempio più noto - i titolari di passaporti dai paesi membri possono muoversi liberamente nei suoi [29 stati membri](https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/schengen-area_en) senza controlli visto. Il Sud-Est asiatico, i Caraibi e parti dell'Africa hanno schemi simili.
+Molte nazioni hanno accordi di esenzione dai visti o di viaggio senza visto tra loro, permettendo ai loro cittadini di attraversare i confini senza ottenere un visto in anticipo. L'Area Schengen in Europa è l'esempio più noto - i titolari di passaporti dai paesi membri possono muoversi liberamente nei suoi 29 stati membri senza controlli visto. Il Sud-Est asiatico, i Caraibi e parti dell'Africa hanno schemi simili.
 
 Tuttavia, i viaggi senza visto hanno limiti. Si applicano tipicamente solo al turismo o a visite a breve termine, non al lavoro o agli studi. I periodi di viaggio senza visto sono anche limitati, spesso da 30 a 90 giorni a seconda del paese. Se superi il tempo consentito, diventi un residente illegale e affronti sanzioni incluse multe, deportazione o divieti di ingresso futuri.
 
 L'accesso senza visto dipende interamente dalla tua nazionalità. Due persone che viaggiano insieme potrebbero avere requisiti di visto diversi in base ai loro passaporti. Uno potrebbe visitare senza visto mentre l'altro deve fare richiesta per un visto. Ecco perché controllare la tua nazionalità specifica è essenziale quando ricerchi i requisiti.
 
+**Prima di farci affidamento:** questo articolo spiega regole generali, e le regole generali sono tutto ciò che un blog può offrire. I requisiti cambiano e variano in base a cittadinanza, destinazione e data del viaggio. Verifica il tuo caso con l'autorità che rilascia il documento o con il servizio informazioni viaggi del tuo governo prima di prenotare. Controlliamo quello che pubblichiamo e possiamo comunque sbagliare o essere superati.
+
 ## Domande Frequenti
 
-### A cosa serve un passaporto
+### Qual è la differenza tra visto e passaporto
 
-Un passaporto è un documento di viaggio ufficiale rilasciato dal tuo governo che prova la tua cittadinanza e identità. È richiesto per entrare nella maggior parte dei paesi stranieri e funge da tua identificazione primaria quando viaggi internazionalmente. Gli ufficiali di immigrazione esaminano il tuo passaporto ai confini, le compagnie aeree lo richiedono per i voli internazionali, e gli ufficiali doganali lo controllano al tuo arrivo.
+Il passaporto lo rilascia il tuo Paese e dimostra chi sei e a quale Paese appartieni. Il visto lo rilascia il Paese che vuoi visitare e ti concede il permesso di entrarvi. Uno ti identifica, l'altro ti ammette, e la maggior parte dei viaggi internazionali richiede entrambi.
 
-### Puoi usare un visto da un passaporto scaduto
+### Il visto è la stessa cosa del passaporto
 
-Nella maggior parte dei paesi, sì. La validità del tuo visto è separata dalla validità del tuo passaporto. Se il tuo passaporto è scaduto ma il tuo visto è ancora valido, puoi viaggiare portando entrambi i documenti - il tuo passaporto scaduto contenente il visto, e il tuo nuovo passaporto valido. Tuttavia, alcuni paesi richiedono di trasferire il visto al tuo nuovo passaporto prima di viaggiare. Verifica sempre con l'ambasciata o il consolato ufficiale del paese di destinazione.
+No. Vengono da governi diversi e svolgono compiti diversi. Il passaporto viene dal tuo Paese e ti accompagna ovunque. Il visto viene da un singolo Paese di destinazione e vale solo per quel Paese, per uno scopo e un periodo stabiliti.
 
-### Ho bisogno di un visto per ogni paese
+### Perché mi serve un visto se ho il passaporto
 
-No. I requisiti dei visti dipendono dalla tua nazionalità e dal paese di destinazione. Molti paesi hanno accordi di viaggio senza visto o programmi di esenzione dai visti con determinate nazioni. Tuttavia, i requisiti dei visti variano notevolmente in base alla nazionalità del tuo passaporto. Devi controllare i requisiti per la tua situazione specifica tramite l'IATA Travel Centre o i siti web ufficiali delle ambasciate.
+Il passaporto dimostra la tua identità e la tua cittadinanza, ma non obbliga nessun Paese a farti entrare. Ogni destinazione decide da sé chi può entrare, e il visto è il modo in cui registra quella decisione. Un passaporto valido è ciò che ti permette di partire, non ciò che ti fa passare la frontiera all'arrivo.
 
-### Quali sono i diversi tipi di visti
+### Il passaporto vale come visto
 
-I tipi di visto comuni includono visti turistici (per viaggi per piacere), visti di lavoro (per l'occupazione), visti per studenti (per l'educazione), visti di transito (per passare attraverso un paese), e-visti (visti elettronici richiesti online), e visti all'arrivo (rilasciati all'aeroporto di destinazione o al confine). Ogni tipo ha restrizioni specifiche e periodi di validità che variano a seconda del paese di destinazione.
+No, e i due non sono mai intercambiabili. Se la tua destinazione richiede il visto per la tua cittadinanza, il passaporto da solo non ti farà entrare, e una compagnia aerea può negarti l'imbarco prima ancora che tu raggiunga la frontiera. Dove non serve il visto, il passaporto basta da solo.
 
-### Quanto tempo occorre per ottenere un visto
+### Che cos'è il visto sul passaporto
 
-I tempi di elaborazione dei visti variano notevolmente a seconda del paese e del tipo di visto. Come linea guida generale, presenta la domanda 2-3 mesi prima della data di viaggio prevista. Alcuni visti vengono elaborati in giorni, mentre altri richiedono diversi mesi. Controlla sempre i siti web ufficiali delle ambasciate per i tempi di elaborazione specifici della tua destinazione. È meglio presentare una domanda prima del necessario piuttosto che rischiare di perdere le date del tuo viaggio.
+Tradizionalmente il visto è un'etichetta o un timbro applicato su una pagina del passaporto, con il tipo di visto, le date coperte e quanti ingressi consente. I visti elettronici fanno lo stesso senza alcun segno sul passaporto, collegati al numero di passaporto nel sistema del Paese di destinazione.
+
+### Qual è la forma estesa di passaporto e visto
+
+Nessuna delle due parole è una sigla, quindi non c'è nulla da sciogliere. Sono parole comuni di origine antica: passaporto viene dal francese passeport, e visto dal latino per un documento che è stato visto.
+
+### Una carta Visa è la stessa cosa di un visto di viaggio
+
+No, e il nome in comune è una coincidenza, non un legame. Visa, il circuito di pagamento, non ha nulla a che vedere con l'immigrazione o il controllo di frontiera, e una carta Visa non ti dà il diritto di entrare in alcun Paese.
+
+### Si può usare un visto su un passaporto scaduto
+
+Nella maggior parte dei Paesi sì. La validità del visto è separata da quella del passaporto, quindi un visto ancora valido su un passaporto scaduto resta di norma utilizzabile se porti con te entrambi i libretti. Alcuni Paesi però richiedono di trasferire il visto sul nuovo passaporto, quindi conferma la regola della tua destinazione con la sua ambasciata prima di partire.
 
 ## Articoli Correlati
 

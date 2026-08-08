@@ -34,11 +34,11 @@ Alguns países pedem para ver prova da sua reserva da primeira noite, seja uma c
 
 ### Certificados de vacinação
 
-Certos destinos exigem comprovante de vacinação contra febre amarela ou outras doenças, e os requisitos mudam periodicamente por destino. Consulte as [páginas de conselhos de viagem da OMS](https://www.who.int/travel-advice) 6-8 semanas antes de viajar - não na noite anterior - pois alguns países apenas aceitam certificados amarelos de febre amarela oficiais da OMS, não fotocópias ou fotos digitais.
+Certos destinos exigem comprovante de vacinação contra febre amarela ou outras doenças, e os requisitos mudam periodicamente por destino. Consulte as páginas de conselhos de viagem da OMS 6-8 semanas antes de viajar - não na noite anterior - pois alguns países apenas aceitam certificados amarelos de febre amarela oficiais da OMS, não fotocópias ou fotos digitais.
 
 ### Detalhes de seguro de viagem
 
-Precisará de acesso imediato ao número da sua apólice, detalhes de contacto do emitente e à sua linha de emergência 24 horas. Alguns tipos de visto exigem explicitamente comprovante de seguro de viagem - [as candidaturas de visto Schengen](https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy/applying-schengen-visa_en), por exemplo, exigem seguro médico cobrindo cuidados de emergência e hospitalização. Mas mais importantemente, se algo correr mal no estrangeiro, precisa destes detalhes sem depender de acesso a email ou internet.
+Precisará de acesso imediato ao número da sua apólice, detalhes de contacto do emitente e à sua linha de emergência 24 horas. Alguns tipos de visto exigem explicitamente comprovante de seguro de viagem - as candidaturas de visto Schengen, por exemplo, exigem seguro médico cobrindo cuidados de emergência e hospitalização. Mas mais importantemente, se algo correr mal no estrangeiro, precisa destes detalhes sem depender de acesso a email ou internet.
 
 ### Cartas de consentimento para viagem de menores
 
@@ -89,7 +89,7 @@ Cada criança precisa do seu próprio passaporte para viagens internacionais, po
 
 **Carta de consentimento de viagem de menor:** Se uma criança está a viajar internacionalmente com apenas um progenitor, muitos funcionários de fronteira pedirão consentimento escrito do progenitor ausente, preferencialmente autenticado por notário. Se viajar sem ambos os progenitores (com avós, por exemplo), o consentimento de ambos os progenitores é tipicamente exigido. Os requisitos mudam e variam por nacionalidade, portanto verifique com a autoridade de imigração oficial do seu destino.
 
-Uma carta de consentimento deve tipicamente incluir o nome completo da criança e data de nascimento, detalhes de passaporte, datas de viagem e destinos, e detalhes de contacto do(s) progenitor(es) ausente(s). Alguns destinos têm modelos específicos; o governo canadiano, por exemplo, [fornece um formato de exemplo de carta de consentimento](https://travel.gc.ca/travelling/children/consent-letter).
+Uma carta de consentimento deve tipicamente incluir o nome completo da criança e data de nascimento, detalhes de passaporte, datas de viagem e destinos, e detalhes de contacto do(s) progenitor(es) ausente(s). Alguns destinos têm modelos específicos; o governo canadiano, por exemplo, fornece um formato de exemplo de carta de consentimento.
 
 O que isto significa na prática
 
@@ -100,6 +100,8 @@ Está a embarcar num voo para o Canadá com a sua criança de 8 anos e o seu par
 Documentos físicos ajudam até um ladrão levar a sua mala - e geralmente leva as cópias juntamente com os originais. Uma cópia de segurança separada encriptada no seu telemóvel - guardada desligada - é o seu verdadeiro seguro se os originais desaparecerem.
 
 Quando a sua embaixada precisa emitir um documento de viagem de emergência, uma cópia de segurança segura dá-lhe o seu número de passaporte, data de emissão, local de emissão e data de expiração instantaneamente, sem acesso a internet. Para mais informações sobre as opções disponíveis, veja a nossa visão geral de [como guardar cópias de passaporte com segurança](https://traveldocumentvault.com/pt/blog/is-it-safe-to-store-passport-in-google-photos/) e as desvantagens entre diferentes abordagens.
+
+**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
 
 ## Perguntas Frequentes
 

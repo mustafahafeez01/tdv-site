@@ -30,7 +30,7 @@ Bei der Standard-Passerneuerung per Post in den USA ist es nicht erforderlich, I
 
 Das bedeutet, dass Reisen im Inland innerhalb der Vereinigten Staaten während des gesamten Erneuerungsprozesses nicht beeinträchtigt werden - Sie benötigen keinen Pass für Inlandsflüge. Internationale Reisen sind eine andere Sache: Sie können nicht ins Ausland reisen, bis Ihr neuer Pass ankommt, und Sie können auch den alten ungültig gemachten Pass nicht verwenden, selbst wenn Sie ihn in Händen halten.
 
-Die Standardbearbeitung dauert derzeit 4 bis 6 Wochen, ohne Versandzeit in beiden Richtungen. Wenn Sie internationales Reisen früher geplant haben, bietet das State Department beschleunigte Bearbeitung gegen eine zusätzliche Gebühr an, was die Zeitlinie auf etwa 2 bis 3 Wochen reduziert. Für wirklich dringende Reisen innerhalb von 14 Kalendertagen sind persönliche Termine bei regionalen Passämtern verfügbar - überprüfen Sie die Verfügbarkeit auf [travel.state.gov](https://travel.state.gov).
+Die Standardbearbeitung dauert derzeit 4 bis 6 Wochen, ohne Versandzeit in beiden Richtungen. Wenn Sie internationales Reisen früher geplant haben, bietet das State Department beschleunigte Bearbeitung gegen eine zusätzliche Gebühr an, was die Zeitlinie auf etwa 2 bis 3 Wochen reduziert. Für wirklich dringende Reisen innerhalb von 14 Kalendertagen sind persönliche Termine bei regionalen Passämtern verfügbar - überprüfen Sie die Verfügbarkeit auf travel.state.gov.
 
 ## Vereinigtes Königreich: Zwei Verfahren mit gegensätzlichen Ergebnissen
 
@@ -48,13 +48,13 @@ Die australische Passerneuerung erfordert, dass Sie Ihren aktuellen Pass zum Zei
 
 Sie können in diesem Zeitraum nicht ins Ausland reisen. Inlandsflüge innerhalb Australiens können auch beeinträchtigt werden, wenn Sie keinen anderen gültigen Lichtbildausweis haben, da Fluggesellschaften bei der Gepäckabfertigung einen Identitätsnachweis verlangen.
 
-Das Australian Passport Office empfiehlt derzeit, mindestens 6 Wochen nach Einreichen Ihres Antrags einzurechnen. Wenn Sie echte und unmittelbare Reisen haben, ist eine schnellere Bearbeitung gegen zusätzliche Gebühren verfügbar - ein Fast-Track-Service wird innerhalb von 5 Werktagen bearbeitet und ein Priority-Service innerhalb von 2 Werktagen. Notfalllösungen existieren für wirklich unmittelbare Reisen. Überprüfen Sie die aktuellen Zeiten und beantragen Sie auf [passports.gov.au](https://www.passports.gov.au).
+Das Australian Passport Office empfiehlt derzeit, mindestens 6 Wochen nach Einreichen Ihres Antrags einzurechnen. Wenn Sie echte und unmittelbare Reisen haben, ist eine schnellere Bearbeitung gegen zusätzliche Gebühren verfügbar - ein Fast-Track-Service wird innerhalb von 5 Werktagen bearbeitet und ein Priority-Service innerhalb von 2 Werktagen. Notfalllösungen existieren für wirklich unmittelbare Reisen. Überprüfen Sie die aktuellen Zeiten und beantragen Sie auf passports.gov.au.
 
 ## Kanada: Bei Antragstellung Abgabe erforderlich
 
 Kanada verlangt, dass Sie Ihren bestehenden Pass abgeben, wenn Sie eine Erneuerung beantragen. Ihr alter Pass wird behalten, bis Ihr neuer fertig ist, daher können Sie in diesem Zeitraum nicht ins Ausland reisen - obwohl Inlandsreisen innerhalb Kanadas keinen Pass erfordern.
 
-Die Servicestandards liegen derzeit bei 10 Werktagen, wenn Sie persönlich in einem Passamt beantragen, oder 20 Werktagen per Post oder in einem regulären Service Canada Centre - plus Versandzeit. Für dringende Reisen können Sie den Express-Service (2 bis 9 Werktage) oder die dringende Abholung (so schnell wie am nächsten Tag) gegen zusätzliche Gebühren wählen. Überprüfen Sie die aktuellen Bearbeitungszeiten und beantragen Sie auf [canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports.html).
+Die Servicestandards liegen derzeit bei 10 Werktagen, wenn Sie persönlich in einem Passamt beantragen, oder 20 Werktagen per Post oder in einem regulären Service Canada Centre - plus Versandzeit. Für dringende Reisen können Sie den Express-Service (2 bis 9 Werktage) oder die dringende Abholung (so schnell wie am nächsten Tag) gegen zusätzliche Gebühren wählen. Überprüfen Sie die aktuellen Bearbeitungszeiten und beantragen Sie auf canada.ca.
 
 ## Ländervergleich
 
@@ -77,6 +77,8 @@ Kontaktieren Sie gleichzeitig Ihre Fluggesellschaft bezüglich der Umplanung. Ei
 Die einfache Antwort ist, Ihren Pass lange vor dem Reisen zu erneuern. Einen Antrag 6 bis 9 Monate vor geplanten internationalen Reisen zu stellen, beseitigt die zeitliche Belastung vollständig und lässt Raum für Standardbearbeitung ohne beschleunigte Gebühren.
 
 Der Grund, warum Menschen in diese Situation geraten, ist nicht Unkenntnis der Regeln. Pässe laufen geräuschlos aus, ohne automatische Erinnerung, daher erinnern sich Menschen normalerweise nur daran, dass ihr Pass gültig ist, nicht wann er abläuft. Das Setzen einer Erinnerung 12 Monate vor dem Ablaufdatum gibt Ihnen Zeit, in Ihrem eigenen Tempo zu erneuern, mit Standardbearbeitung, ohne Druck.
+
+**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
 
 ## Häufig gestellte Fragen
 

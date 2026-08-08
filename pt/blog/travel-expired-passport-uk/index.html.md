@@ -24,7 +24,7 @@ O que se segue é como isto acontece na prática: as suas opções limitadas, po
 
 ## A Regra Absoluta: Nenhuma Viagem Internacional com um Passaporte Expirado
 
-[O Escritório de Passaportes de Sua Majestade é claro sobre isto](https://www.gov.uk/apply-renew-passport): o seu passaporte deve ser válido no dia em que viaja - não apenas na chegada, não apenas por parte da viagem, mas no dia em que embarca no avião.
+O Escritório de Passaportes de Sua Majestade é claro sobre isto: o seu passaporte deve ser válido no dia em que viaja - não apenas na chegada, não apenas por parte da viagem, mas no dia em que embarca no avião.
 
 Quando chega ao check-in, o agente executa o número do seu passaporte no sistema e vê a data de expiração. Se estiver no passado, não emitiram um cartão de embarque - não importa se está a chegar a casa no dia depois de expirar. A mesma coisa acontece no controlo de fronteiras no seu destino: veem a expiração, negam a entrada. A proximidade da sua data de chegada real não faz diferença.
 
@@ -42,9 +42,9 @@ Se está a considerar viagem doméstica com um passaporte expirado, contacte a s
 
 ## Renovação de Emergência: A Via do Serviço Premium
 
-Se a sua viagem é iminente e o seu passaporte está expirado, [o Escritório de Passaportes de Sua Majestade oferece um serviço Premium concebido exatamente para este cenário](https://www.gov.uk/apply-renew-passport), garantindo uma marcação no mesmo dia ou no dia de trabalho seguinte dependendo da disponibilidade. A taxa é £239.50 no total - cobre tudo, em vez de ser um complemento à taxa padrão - e o seu passaporte renovado chega dentro de dias em vez das semanas que uma renovação padrão pode levar. Note que o serviço Online Premium é apenas para renovações, não para primeiros passaportes de adulto.
+Se a sua viagem é iminente e o seu passaporte está expirado, o Escritório de Passaportes de Sua Majestade oferece um serviço Premium concebido exatamente para este cenário, garantindo uma marcação no mesmo dia ou no dia de trabalho seguinte dependendo da disponibilidade. A taxa é £239.50 no total - cobre tudo, em vez de ser um complemento à taxa padrão - e o seu passaporte renovado chega dentro de dias em vez das semanas que uma renovação padrão pode levar. Note que o serviço Online Premium é apenas para renovações, não para primeiros passaportes de adulto.
 
-Esta é a via de emergência oficial para constrangimentos de viagem genuína, não uma forma de contorno - o serviço Premium existe porque por vezes a viagem não pode esperar. A orientação oficial é atualmente [permitir cerca de 3 semanas para uma renovação padrão](https://www.gov.uk/renew-adult-passport), e quase todas as aplicações são processadas dentro dessa janela - mas para viagens que genuinamente não podem esperar, a opção Premium remove a incerteza.
+Esta é a via de emergência oficial para constrangimentos de viagem genuína, não uma forma de contorno - o serviço Premium existe porque por vezes a viagem não pode esperar. A orientação oficial é atualmente permitir cerca de 3 semanas para uma renovação padrão, e quase todas as aplicações são processadas dentro dessa janela - mas para viagens que genuinamente não podem esperar, a opção Premium remove a incerteza.
 
 O problema é que deve ter uma localização de marcação disponível, que se preenchem rapidamente durante férias de verão e pausas escolares. Se descobre que o seu passaporte está expirado numa sexta-feira antes de uma viagem de segunda-feira pode encontrar-se sem localização Premium disponível, pois a marcação ocorre online em gov.uk com disponibilidade em direto. Quando a sua data preferida não mostra localização genuinamente não tem outra opção nesse dia.
 
@@ -52,7 +52,7 @@ Precisará também do seu passaporte antigo para candidatar-se independentemente
 
 ## O Que Companhias Aéreas e Controlo de Fronteiras Realmente Verificam
 
-As companhias aéreas usam Timatic, um [sistema IATA](https://www.iatatravelcentre.com) que referencia cruzadamente o número do seu passaporte, nacionalidade e destino com requisitos de entrada, dizendo ao agente de check-in instantaneamente se é permitido viajar quando digitaliza o seu passaporte. Se o seu passaporte está expirado, Timatic marca-o a vermelho e o agente não pode contornar esta decisão mesmo que implore ou mostre um cartão de embarque de semanas atrás.
+As companhias aéreas usam Timatic, um sistema IATA que referencia cruzadamente o número do seu passaporte, nacionalidade e destino com requisitos de entrada, dizendo ao agente de check-in instantaneamente se é permitido viajar quando digitaliza o seu passaporte. Se o seu passaporte está expirado, Timatic marca-o a vermelho e o agente não pode contornar esta decisão mesmo que implore ou mostre um cartão de embarque de semanas atrás.
 
 O controlo de fronteiras faz a mesma verificação quando chega - por vezes até verificando duas vezes, uma vez quando sai do Reino Unido e novamente quando entra no seu destino. Um passaporte expirado será apanhado não importa o quanto tenha cuidado.
 
@@ -83,6 +83,8 @@ Os viajantes frequentemente confundem a data de validade do seu próprio passapo
 [Muitos países aplicam uma regra de seis meses exigindo que o seu passaporte permaneça válido por pelo menos seis meses além da sua data de partida planeada](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/), enquanto alguns aplicam três meses e outros aplicam um mês. Nenhuma destas regras permite viagem com um passaporte expirado porque estabelecem um padrão mais rigoroso onde a renovação deve acontecer ainda mais cedo do que a própria data de expiração do passaporte.
 
 Não assuma que pode viajar "porque volta antes de expirar" - o seu passaporte deve ser válido no dia em que embarca no seu voo de partida e se expira o dia depois de voltar ainda assim não pode viajar. As companhias aéreas não permitem viagem se o seu passaporte está expirado no dia da partida.
+
+**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
 
 ## Perguntas Frequentes
 

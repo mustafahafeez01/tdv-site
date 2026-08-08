@@ -30,7 +30,7 @@ La renovación estándar de pasaporte estadounidense por correo no requiere que 
 
 Esto significa que los viajes nacionales dentro de Estados Unidos no se ven afectados durante todo el proceso de renovación - no necesitas un pasaporte para vuelos nacionales. Los viajes internacionales son otra historia: no puedes viajar internacionalmente hasta que llegue tu nuevo pasaporte, y no puedes usar el pasaporte antiguo cancelado aunque lo tengas en la mano.
 
-Actualmente toma de 4 a 6 semanas para el procesamiento estándar, sin contar el tiempo de envío en cada dirección. Si tienes viajes internacionales reservados antes de eso, el Departamento de Estado ofrece procesamiento expedido por una tarifa adicional, reduciendo el plazo a aproximadamente 2 a 3 semanas. Para viajes genuinamente urgentes dentro de 14 días calendario, hay citas presenciales disponibles en agencias de pasaportes regionales - verifica la disponibilidad en [travel.state.gov](https://travel.state.gov).
+Actualmente toma de 4 a 6 semanas para el procesamiento estándar, sin contar el tiempo de envío en cada dirección. Si tienes viajes internacionales reservados antes de eso, el Departamento de Estado ofrece procesamiento expedido por una tarifa adicional, reduciendo el plazo a aproximadamente 2 a 3 semanas. Para viajes genuinamente urgentes dentro de 14 días calendario, hay citas presenciales disponibles en agencias de pasaportes regionales - verifica la disponibilidad en travel.state.gov.
 
 ## Reino Unido: Dos procesos con resultados opuestos
 
@@ -48,13 +48,13 @@ La renovación de pasaporte australiano requiere que entregues tu pasaporte actu
 
 No puedes viajar internacionalmente durante este período. Los viajes aéreos nacionales dentro de Australia también pueden verse afectados si no tienes otro documento de identidad fotográfico válido, ya que las aerolíneas requieren verificación de identidad en el mostrador de facturación.
 
-La Oficina de Pasaportes Australiana actualmente aconseja permitir al menos 6 semanas desde presentar tu solicitud. Si tienes viajes genuinos e inminentes, hay procesamiento más rápido disponible por tarifas adicionales - un servicio rápido procesado dentro de 5 días hábiles y un servicio prioritario dentro de 2 días hábiles. Existen opciones de emergencia para viajes verdaderamente inminentes. Consulta los tiempos actuales y solicita en [passports.gov.au](https://www.passports.gov.au).
+La Oficina de Pasaportes Australiana actualmente aconseja permitir al menos 6 semanas desde presentar tu solicitud. Si tienes viajes genuinos e inminentes, hay procesamiento más rápido disponible por tarifas adicionales - un servicio rápido procesado dentro de 5 días hábiles y un servicio prioritario dentro de 2 días hábiles. Existen opciones de emergencia para viajes verdaderamente inminentes. Consulta los tiempos actuales y solicita en passports.gov.au.
 
 ## Canadá: Entregado en la solicitud
 
 Canadá requiere que entregues tu pasaporte existente cuando solicites la renovación. Tu pasaporte antiguo se mantiene hasta que esté listo el nuevo, así que no puedes viajar internacionalmente durante este período - aunque los viajes nacionales dentro de Canadá no requieren pasaporte.
 
-Los estándares de servicio actualmente son 10 días hábiles cuando solicitas en persona en una oficina de pasaportes, o 20 días hábiles por correo o en un Service Canada Centre regular - más tiempo de envío. Para viajes urgentes puedes elegir servicio rápido (2 a 9 días hábiles) o retiro urgente (tan rápido como el próximo día hábil) por tarifas adicionales. Consulta los tiempos de procesamiento actuales y solicita en [canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports.html).
+Los estándares de servicio actualmente son 10 días hábiles cuando solicitas en persona en una oficina de pasaportes, o 20 días hábiles por correo o en un Service Canada Centre regular - más tiempo de envío. Para viajes urgentes puedes elegir servicio rápido (2 a 9 días hábiles) o retiro urgente (tan rápido como el próximo día hábil) por tarifas adicionales. Consulta los tiempos de procesamiento actuales y solicita en canada.ca.
 
 ## Comparación de países
 
@@ -77,6 +77,8 @@ Al mismo tiempo, contacta a tu aerolínea sobre reprogramación. Algunos transpo
 La respuesta sencilla es renovar tu pasaporte bien antes de necesitarlo para viajar. Solicitar de 6 a 9 meses antes de cualquier viaje internacional planificado elimina completamente la presión de tiempo y deja espacio para procesamiento estándar sin tarifas expedidas.
 
 La razón por la que las personas terminan en esta situación no es ignorancia de las reglas. Los pasaportes expiran silenciosamente sin recordatorio automático, así que la gente tiende a recordar solo que su pasaporte es válido, no cuándo expira. Establecer un recordatorio 12 meses antes de tu fecha de expiración te da tiempo para renovar a tu propio ritmo, con procesamiento estándar, sin presión.
+
+**Antes de fiarte de esto:** este artículo explica reglas generales, y las reglas generales son todo lo que puede ofrecer un blog. Los requisitos cambian y varían según la nacionalidad, el destino y la fecha del viaje. Consulta tu caso con la autoridad que emite el documento o con el servicio de información al viajero de tu gobierno antes de reservar. Revisamos lo que publicamos y aun así podemos equivocarnos o quedarnos desactualizados.
 
 ## Preguntas frecuentes
 

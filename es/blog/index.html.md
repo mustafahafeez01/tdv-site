@@ -60,7 +60,7 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
-[Visados y entrada Visa vs Pasaporte: ¿Cuál es la diferencia? Un pasaporte prueba quién eres. Una visa te concede permiso para entrar. Aquí te explicamos qué hace cada uno, por qué la mayoría de viajes necesitan ambos, y cómo comprobar tu destino. 22 de abril de 20266 min de lectura](https://traveldocumentvault.com/es/blog/visa-vs-passport/)
+[Visados y entrada ¿Cuál es la diferencia entre una visa y un pasaporte? El pasaporte prueba quién eres. La visa es el permiso de entrada que concede un país. Esto es lo que los diferencia y con quién conviene verificarlo. 22 de abril de 20266 min de lectura](https://traveldocumentvault.com/es/blog/visa-vs-passport/)
 
 ##
 

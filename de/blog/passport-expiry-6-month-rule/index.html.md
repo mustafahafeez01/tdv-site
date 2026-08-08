@@ -54,7 +54,7 @@ Dies ist keine umfassende Liste, und die Anforderungen variieren je nach Ihrer N
 
 Anforderungen zur Reisepass-Gültigkeit nach Land ändern sich ohne Vorankündigung - ein bilaterales Abkommen kann die Regeln für Ihren spezifischen Pass stillschweigend ändern. Deshalb ist es nicht Paranoia, vor jeder internationalen Reise eine aktuelle offizielle Quelle zu überprüfen, es ist einfach gute Praxis.
 
-Überprüfen Sie Ihre spezifischen Anforderungen immer mit dem [IATA Travel Centre](https://www.iatatravelcentre.com), dem System, das Airlines verwenden, um Passagierdokumente in Echtzeit zu überprüfen.
+Überprüfen Sie Ihre spezifischen Anforderungen immer mit dem IATA Travel Centre, dem System, das Airlines verwenden, um Passagierdokumente in Echtzeit zu überprüfen.
 
 **Travel Document Vault** sendet Ihnen eine Benachrichtigung, wenn Ihr Reisepass unter den Gültigkeitsschwellenwert für Ihr Ziel fällt - für jedes Familienmitglied automatisch. [Jetzt kostenlos im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
@@ -98,6 +98,8 @@ Zuverlässige Quellen zum Überprüfen vor jeder internationalen Reise:
 
 Diese Quellen zeigen Ihnen die offizielle Anforderung und ob sie für Inhaber Ihres spezifischen Reisepasses gilt. Verlassen Sie sich nicht auf Reiseforen oder Blogbeiträge von letztem Jahr - gehen Sie zur Quelle.
 
+**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
+
 ## Häufig gestellte Fragen
 
 ### Was genau ist die Sechsmonats-Reisepass-Regel und warum existiert sie?
@@ -106,7 +108,7 @@ Die Sechsmonats-Reisepass-Regel erfordert, dass Ihr Reisepass für mindestens se
 
 ### Welche Länder setzen die Sechsmonats-Reisepass-Gültigkeitsregel 2026 durch?
 
-Länder, die üblicherweise eine Gültigkeit von 6 Monaten für den Reisepass erfordern, sind Thailand, Indonesien, Vietnam, die Philippinen und Indien, sowie viele andere in Asien und Afrika. Die Anforderungen ändern sich, daher sollten Sie immer vor einer Reise offizielle Quellen überprüfen. Die genauesten aktuellen Anforderungen finden Sie im [IATA Travel Centre](https://www.iatatravelcentre.com), dem Tool, das Airlines verwenden, um Passagierdokumente in Echtzeit zu überprüfen.
+Länder, die üblicherweise eine Gültigkeit von 6 Monaten für den Reisepass erfordern, sind Thailand, Indonesien, Vietnam, die Philippinen und Indien, sowie viele andere in Asien und Afrika. Die Anforderungen ändern sich, daher sollten Sie immer vor einer Reise offizielle Quellen überprüfen. Die genauesten aktuellen Anforderungen finden Sie im IATA Travel Centre, dem Tool, das Airlines verwenden, um Passagierdokumente in Echtzeit zu überprüfen.
 
 ### Setzt die USA die Sechsmonats-Reisepass-Regel durch?
 

@@ -41,7 +41,7 @@ Ein Reisepass kann technisch gültig sein - nicht abgelaufen - und Sie trotzdem 
 
 **Die 6-Monats-Regel.** Viele beliebte Ziele verlangen, dass Ihr Reisepass am Tag Ihrer Einreise ins Land mindestens 6 Monate gültig ist, und nur wenige zählen vom geplanten Abreisedatum ab. Also wenn Ihr Reisepass im Oktober abläuft und Sie im April in Istanbul landen, ist alles in Ordnung. Wenn Sie im Juni landen, ist das möglicherweise nicht der Fall - und die Fluggesellschaft wird sich weigern, Sie zu buchen, bevor Sie überhaupt die Passkontrolle erreichen.
 
-Die 6-Monats-Regel wird je nach Nationalität uneinheitlich durchgesetzt. Dasselbe Land kann sie für einige Passinhaberinnen und Passinhaber durchsetzen und für andere im Rahmen bilateraler Vereinbarungen verzeihen. Die zuverlässigste Methode, dies zu überprüfen, ist die Suche nach der spezifischen Anforderung für Ihren Reisepass und Ihr Ziel im [IATA Travel Centre](https://www.iatatravelcentre.com) - derselben Datenbank, die Fluggesellschaften am Schalter verwenden.
+Die 6-Monats-Regel wird je nach Nationalität uneinheitlich durchgesetzt. Dasselbe Land kann sie für einige Passinhaberinnen und Passinhaber durchsetzen und für andere im Rahmen bilateraler Vereinbarungen verzeihen. Die zuverlässigste Methode, dies zu überprüfen, ist die Suche nach der spezifischen Anforderung für Ihren Reisepass und Ihr Ziel im IATA Travel Centre - derselben Datenbank, die Fluggesellschaften am Schalter verwenden.
 
 Wir behandeln [welche Länder die 6-Monats-Regel durchsetzen,](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) im Detail, einschließlich einer Ländertabelle. Kurz gesagt: gehen Sie davon aus, dass sie für jedes Ziel außerhalb Europas, Nordamerikas oder Australiens gilt, es sei denn, Sie haben sie überprüft.
 
@@ -55,7 +55,7 @@ Für Ziele, die die 6-Monats-Regel nicht durchsetzen - für EU- und britische B�
 
 Für Ziele mit einer 6-Monats-Anforderung, zählen Sie 6 Monate ab dem Tag Ihrer Ankunft. Wenn Sie am 20. Juli in Thailand landen, muss Ihr Reisepass mindestens bis zum 20. Januar des folgenden Jahres gültig sein - und das Zählen vom Rückreisedatum stellt eine zusätzliche Sicherheitsmarge dar für Länder, die anders messen.
 
-Für alles andere, überprüfen Sie vor der Buchung. Das [IATA Travel Centre](https://www.iatatravelcentre.com) gibt die genaue Anforderung für Ihre Nationalität und Ihr Ziel in Sekunden an.
+Für alles andere, überprüfen Sie vor der Buchung. Das IATA Travel Centre gibt die genaue Anforderung für Ihre Nationalität und Ihr Ziel in Sekunden an.
 
 ## Kinderreisepässe - Die Familien-Reisefalle
 
@@ -72,12 +72,14 @@ Die praktische Antwort: wenn Sie unter 12 Monaten verbleibender Gültigkeit fall
 Hier ist, warum 12 Monate die richtige Schwelle ist und nicht das Verfallsdatum selbst:
 
 - Es gibt Ihnen einen vollständigen 6-Monatspuffer für jedes Ziel, das die Regel durchsetzt.
-- Reisepassverlängerung braucht Zeit: [Britische Reisepassverlängerungen dauern normalerweise etwa 3 Wochen](https://www.gov.uk/apply-renew-passport) (und die HM Passport Office sagt, nicht bis zum Eintreffen des neuen Reisepasses zu buchen) und [US-Standard-Bearbeitung dauert 4-6 Wochen,](https://travel.state.gov/content/travel/en/passports.html) daher bleibt bei 6 Monaten verbleibender Zeit wenig Spielraum.
+- Reisepassverlängerung braucht Zeit: Britische Reisepassverlängerungen dauern normalerweise etwa 3 Wochen (und die HM Passport Office sagt, nicht bis zum Eintreffen des neuen Reisepasses zu buchen) und US-Standard-Bearbeitung dauert 4-6 Wochen, daher bleibt bei 6 Monaten verbleibender Zeit wenig Spielraum.
 - Spontane Pläne passieren. Ein Reisepass mit 14 Monaten verbleibend hält alle Ziele offen. Ein Reisepass mit 5 Monaten verbleibend schließt einen großen Teil der Welt aus.
 
 Der häufigste Fehler ist, eine Erinnerung auf das Verfallsdatum selbst zu setzen. Zu diesem Zeitpunkt können Sie zu den meisten Zielen mit der 6-Monats-Regel nicht reisen. **Stellen Sie Ihre Verlängerungserinnerung auf die 12-Monats-Marke.**
 
 Wenn Sie auch unseren Leitfaden zu [wie lange Reisepassverlängerung dauert,](https://traveldocumentvault.com/de/blog/how-long-does-passport-renewal-take/) lesen, sehen Sie genau, wie eng die Zeitpläne während Stoßzeiten werden können - ein weiterer Grund, früh anzufangen.
+
+**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
 
 ## Häufig gestellte Fragen
 

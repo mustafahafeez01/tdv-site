@@ -38,10 +38,10 @@ Source: https://traveldocumentvault.com/ko/blog/lost-passport-abroad/
 
 대사관이나 영사관은 당신의 귀국 경로입니다. 경찰 신고를 받은 후 가능한 한 빨리 연락하세요. 공식 긴급 연락처:
 
-- **영국 시민:** [GOV.UK 긴급 영사 지원](https://www.gov.uk/contact-consulate-if-british-national-needs-help)
-- **미국 시민:** [travel.state.gov - 분실 또는 도난 여권](https://travel.state.gov/content/travel/en/international-travel/emergencies/lost-stolen-passports.html)
-- **호주 시민:** [Smartraveller - 분실 또는 도난 여권](https://www.smartraveller.gov.au/while-youre-away/passport-problems/lost-or-stolen-passport)
-- **캐나다 시민:** [Canada.ca - 해외에서 분실 또는 도난 여권](https://travel.gc.ca/assistance/emergency-info/lost-stolen-passport)
+- **영국 시민:** GOV.UK 긴급 영사 지원
+- **미국 시민:** travel.state.gov - 분실 또는 도난 여권
+- **호주 시민:** Smartraveller - 분실 또는 도난 여권
+- **캐나다 시민:** Canada.ca - 해외에서 분실 또는 도난 여권
 
 방문하기 전에 전화하세요. 많은 대사관이 긴급 여권 서비스를 위해 사전 예약을 요구하며, 정확히 무엇을 가져와야 하는지 알려줄 수 있습니다. 예약 없이 나타나면 반나절을 낭비할 수 있습니다.
 
@@ -75,6 +75,8 @@ Source: https://traveldocumentvault.com/ko/blog/lost-passport-abroad/
 ## 7단계: 집으로 돌아가서 여권 교체하기
 
 긴급 여행 증명서를 받으면, 필요할 경우 현지 이민국에 출국 요건을 확인하고, 귀국 여행을 재예약하거나 확인하세요. 집에 돌아온 후 공식 여권 기관을 통해 완전한 교체 여권을 신청하고, 다음 여행하기 전에 모든 여행 증명서의 암호화된 디지털 백업을 설정하세요.
+
+**이 글에 의존하기 전에:** 이 글은 일반적인 규칙을 설명하며, 블로그가 전할 수 있는 것은 일반론까지입니다. 요건은 바뀌고 국적, 목적지, 여행 날짜에 따라 달라집니다. 예약 전에 발급 기관이나 자국의 여행 정보 서비스에서 본인의 경우를 확인하세요. 저희는 게시하는 내용을 확인하지만 그래도 틀리거나 오래된 정보일 수 있습니다.
 
 ## 자주 묻는 질문
 

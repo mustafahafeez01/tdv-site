@@ -22,7 +22,7 @@ When you're travelling with kids, keeping track of five passports across two cou
 
 The problem starts small. You have your own passport, your spouse has theirs. Then you have children, and suddenly you have four separate documents with four separate expiry dates. The human brain isn't built to track four different renewal timelines, especially when life gets busy. One person defaults to handling it all - usually the person who's already managing all the other trip logistics - and that single point of failure becomes a risk.
 
-The second problem is that child passports expire much faster than adult ones. [In the United States, child passports for under-16s last 5 years](https://travel.state.gov/content/travel/en/passports.html), while adult passports last 10 years. [The same applies in the United Kingdom](https://www.gov.uk/apply-renew-passport) - children's documents expire after 5 years, not 10. This means your youngest child's passport often becomes the limiting factor for family trips. You could have a parent with 8 years of validity remaining, but if your youngest's passport expires in 18 months, that's your planning horizon.
+The second problem is that child passports expire much faster than adult ones. In the United States, child passports for under-16s last 5 years, while adult passports last 10 years. The same applies in the United Kingdom - children's documents expire after 5 years, not 10. This means your youngest child's passport often becomes the limiting factor for family trips. You could have a parent with 8 years of validity remaining, but if your youngest's passport expires in 18 months, that's your planning horizon.
 
 Most families don't realise this until they're already booked a trip. A parent finds the passports a week before departure, scanning them hastily while packing, and discovers that one child's document won't clear the 6-month validity rule for their destination. The trip is now at risk, or needs a rushed and expensive passport renewal.
 
@@ -79,6 +79,8 @@ Beyond the passport itself, several other documents deserve a place in your fami
 - **Driving licences.** If you're hiring a car, you'll need driving licences for all drivers in your group. These also have expiry dates that can catch families out.
 
 Keep all of these in one accessible location. The panic of rummaging through your phone or bag at the airport desk, squinting at blurry photos of visa pages - that's exactly what this system prevents.
+
+**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
 
 ## Frequently Asked Questions
 

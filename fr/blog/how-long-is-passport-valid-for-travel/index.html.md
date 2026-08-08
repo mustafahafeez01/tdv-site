@@ -41,7 +41,7 @@ Un passeport peut être techniquement valide - pas expiré - et vous faire refus
 
 **La règle des 6 mois.** De nombreuses destinations populaires exigent que votre passeport soit valable au moins 6 mois le jour où vous entrez dans le pays, et quelques-unes font le décompte à partir de votre départ prévu à la place. Donc, si votre passeport expire en octobre et vous atterrissez à Istanbul en avril, vous allez bien. Si vous arrivez en juin, peut-être pas - et la compagnie aérienne vous refusera l'embarquement avant même que vous n'atteigniez l'immigration.
 
-La règle des 6 mois s'applique de manière incohérente selon la nationalité. Le même pays peut l'appliquer pour certains détenteurs de passeport et la supprimer pour d'autres en vertu d'accords bilatéraux. Le seul moyen fiable de vérifier est de consulter l'exigence spécifique pour votre passeport et votre destination en utilisant le [centre de voyages de l'IATA](https://www.iatatravelcentre.com) - la même base de données que les compagnies aériennes utilisent au guichet.
+La règle des 6 mois s'applique de manière incohérente selon la nationalité. Le même pays peut l'appliquer pour certains détenteurs de passeport et la supprimer pour d'autres en vertu d'accords bilatéraux. Le seul moyen fiable de vérifier est de consulter l'exigence spécifique pour votre passeport et votre destination en utilisant le centre de voyages de l'IATA - la même base de données que les compagnies aériennes utilisent au guichet.
 
 Nous couvrons [les pays qui appliquent la règle des 6 mois](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/) en détail, y compris un tableau pays par pays. En bref - supposez que cela s'applique à toute destination en dehors de l'Europe, de l'Amérique du Nord ou de l'Australie sauf si vous l'avez vérifié.
 
@@ -55,7 +55,7 @@ Pour les destinations qui n'appliquent pas la règle des 6 mois - la plupart de 
 
 Pour les destinations ayant une exigence de 6 mois, comptez 6 mois à partir du jour de votre arrivée. Si vous atterrissez en Thaïlande le 20 juillet, votre passeport doit être valable jusqu'à au moins le 20 janvier de l'année suivante - et le décompte à partir de votre date de retour à la place vous donne une marge de sécurité supplémentaire pour les pays qui mesurent différemment.
 
-Pour tout le reste, vérifiez avant de réserver. Le [centre de voyages de l'IATA](https://www.iatatravelcentre.com) donne l'exigence exacte pour votre nationalité et destination en quelques secondes.
+Pour tout le reste, vérifiez avant de réserver. Le centre de voyages de l'IATA donne l'exigence exacte pour votre nationalité et destination en quelques secondes.
 
 ## Passeports d'enfants - le piège du voyage en famille
 
@@ -72,12 +72,14 @@ La réponse pratique est: lorsque vous passez sous 12 mois de validité restante
 Voici pourquoi 12 mois est le bon seuil et pas la date d'expiration elle-même:
 
 - Cela vous donne un délai tampon complet de 6 mois pour toute destination qui applique la règle.
-- Le renouvellement du passeport prend du temps - les [renouvellements de passeport au Royaume-Uni prennent généralement environ 3 semaines](https://www.gov.uk/apply-renew-passport) (et le bureau des passeports HM dit de ne pas réserver de voyage jusqu'à l'arrivée du nouveau passeport) et le [traitement standard aux États-Unis s'étend de 4 à 6 semaines](https://travel.state.gov/content/travel/en/passports.html), donc commencer avec 6 mois restants ne laisse que peu de marge.
+- Le renouvellement du passeport prend du temps - les renouvellements de passeport au Royaume-Uni prennent généralement environ 3 semaines (et le bureau des passeports HM dit de ne pas réserver de voyage jusqu'à l'arrivée du nouveau passeport) et le traitement standard aux États-Unis s'étend de 4 à 6 semaines, donc commencer avec 6 mois restants ne laisse que peu de marge.
 - Les plans de dernière minute arrivent. Un passeport avec 14 mois restants garde toutes les destinations ouvertes. Un passeport avec 5 mois restants ferme une grande partie du monde.
 
 L'erreur la plus courante est de définir un rappel sur la date d'expiration elle-même. À ce moment-là, vous ne pouvez pas voyager vers la plupart des destinations qui appliquent la règle des 6 mois. **Définissez votre rappel de renouvellement à la marque de 12 mois.**
 
 Si vous lisez aussi notre guide sur la [durée du renouvellement du passeport](https://traveldocumentvault.com/fr/blog/how-long-does-passport-renewal-take/), vous verrez exactement comment les délais peuvent être serrés pendant les périodes chargées - ce qui est une autre raison de commencer tôt.
+
+**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
 
 ## Questions fréquemment posées
 

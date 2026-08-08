@@ -30,7 +30,7 @@ Bevor Sie eine Buchung bestätigen, überprüfen Sie jeden Pass gegen drei Krite
 
 **Überprüfen Sie Ihre Visaanforderungen**
 
-Finden Sie heraus, ob Ihre Passnationalität ein Visum für Einreise, Transit oder beides benötigt. Verwenden Sie die offizielle Reiseempfehlung Ihrer Regierung oder das [IATA Travel Centre](https://www.iatatravelcentre.com) - die gleiche Datenbank, die Fluggesellschaften zur Überprüfung von Passagierdokumenten verwenden. Sie müssen wissen, ob ein Visum erforderlich ist oder ob Sie Anspruch auf Visum bei Ankunft oder eVisa-Zugang haben, wie weit voraus die Antragstellung erfolgen muss, und ob das Visum mehrfache Einreisen abdeckt.
+Finden Sie heraus, ob Ihre Passnationalität ein Visum für Einreise, Transit oder beides benötigt. Verwenden Sie die offizielle Reiseempfehlung Ihrer Regierung oder das IATA Travel Centre - die gleiche Datenbank, die Fluggesellschaften zur Überprüfung von Passagierdokumenten verwenden. Sie müssen wissen, ob ein Visum erforderlich ist oder ob Sie Anspruch auf Visum bei Ankunft oder eVisa-Zugang haben, wie weit voraus die Antragstellung erfolgen muss, und ob das Visum mehrfache Einreisen abdeckt.
 
 **Buchen Sie Ihre Reiseversicherung frühzeitig**
 
@@ -38,9 +38,9 @@ Buchen Sie Reiseversicherung, wenn Sie Flüge buchen, nicht eine Woche vor der A
 
 ## Drei Monate vorher: Erneuerung und Visafenster
 
-Zu diesem Zeitpunkt haben Sie noch Zeit, Dinge zu beheben. Die standardmäßige Passerneuerung dauert derzeit 4-6 Wochen in den USA (via [travel.state.gov](https://travel.state.gov/content/travel/en/passports.html)), normalerweise etwa 3 Wochen im Vereinigten Königreich (via [GOV.UK](https://www.gov.uk/apply-renew-passport)), und mindestens 6 Wochen in Australien (via das [Australian Passport Office](https://www.passports.gov.au)). Überprüfen Sie immer die offizielle Website auf aktuelle Zeiten, bevor Sie antragen.
+Zu diesem Zeitpunkt haben Sie noch Zeit, Dinge zu beheben. Die standardmäßige Passerneuerung dauert derzeit 4-6 Wochen in den USA (via travel.state.gov), normalerweise etwa 3 Wochen im Vereinigten Königreich (via GOV.UK), und mindestens 6 Wochen in Australien (via das Australian Passport Office). Überprüfen Sie immer die offizielle Website auf aktuelle Zeiten, bevor Sie antragen.
 
-Ein Pass, der innerhalb von 12 Monaten abläuft: starten Sie den Erneuerungsprozess jetzt. Pässe von Kindern laufen schneller ab - 5 Jahre in den meisten Ländern versus 10 für Erwachsene - und Eltern verpassen das Fenster häufig. Für neuseeländische Antragsteller überprüfen Sie bitte das [New Zealand Passport Office](https://www.passports.govt.nz) für aktuelle Fristen; die Nachfrage steigt in der Vorbereitungsphase zu Sommer.
+Ein Pass, der innerhalb von 12 Monaten abläuft: starten Sie den Erneuerungsprozess jetzt. Pässe von Kindern laufen schneller ab - 5 Jahre in den meisten Ländern versus 10 für Erwachsene - und Eltern verpassen das Fenster häufig. Für neuseeländische Antragsteller überprüfen Sie bitte das New Zealand Passport Office für aktuelle Fristen; die Nachfrage steigt in der Vorbereitungsphase zu Sommer.
 
 Reichen Sie jeden Visumantrag mit einer Bearbeitungsfrist von vier oder mehr Wochen ein. Bereiten Sie Unterlagen vor: Kontoauszüge, Unterkunftsbestätigungen, Beweis für Weiterreise. Buchen Sie einen Biometrie-Termin im Voraus, falls das Visum dies erfordert.
 
@@ -106,6 +106,8 @@ Verschiedene Reisen benötigen verschiedene Dokumentensätze.
 | Kindereinverständniserklärung | N/A | ✅ falls zutreffend | N/A | In vielen Ländern erforderlich, wenn ein Elternteil abwesend |
 | Geburtsurkunden | N/A | ✅ falls erforderlich | N/A | Einige Länder verlangen für Kinder unter 18 Jahren |
 | Arbeitserlaubnisschreiben | N/A | N/A | ✅ falls erforderlich | Einige Länder benötigen Arbeitgeberschreiben für Geschäftsreisende |
+
+**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
 
 ## Häufig gestellte Fragen
 

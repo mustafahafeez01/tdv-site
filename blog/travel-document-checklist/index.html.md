@@ -30,7 +30,7 @@ Before you confirm any booking, check every traveller's passport against three c
 
 **Check your visa requirements**
 
-Find out whether your passport nationality requires a visa for entry, transit, or both. Use your government's official travel advisory or the [IATA Travel Centre](https://www.iatatravelcentre.com) - the same database airlines use to verify passenger documents. You'll need to know if a visa is required, or whether you're eligible for visa-on-arrival or e-visa access, how far in advance application needs to happen, and whether the visa covers multiple entries.
+Find out whether your passport nationality requires a visa for entry, transit, or both. Your government's official travel advice service and the IATA Travel Centre both answer this, the latter being the same database airlines use to verify passenger documents. You'll need to know if a visa is required, or whether you're eligible for visa-on-arrival or e-visa access, how far in advance application needs to happen, and whether the visa covers multiple entries. If the two documents still blur together, [the difference between a visa and a passport](https://traveldocumentvault.com/blog/visa-vs-passport/) is worth five minutes before you start.
 
 **Book your travel insurance early**
 
@@ -40,9 +40,9 @@ Book travel insurance when you book flights, not a week before departure. Insura
 
 ## Three Months Before: Renewal and Visa Windows
 
-At this point you still have time to fix things. Standard passport renewal currently takes 4-6 weeks in the US (via [travel.state.gov](https://travel.state.gov/content/travel/en/passports.html)), usually around 3 weeks in the UK (via [GOV.UK](https://www.gov.uk/apply-renew-passport)), and at least 6 weeks in Australia (via the [Australian Passport Office](https://www.passports.gov.au)). Always check the official site for current times before you apply.
+At this point you still have time to fix things. Standard passport renewal currently takes 4-6 weeks in the US (via travel.state.gov), usually around 3 weeks in the UK (via GOV.UK), and at least 6 weeks in Australia (via the Australian Passport Office). Always check the official site for current times before you apply.
 
-Any passport expiring within 12 months: start the renewal process now. Children's passports expire faster - 5 years in most countries versus 10 for adults - and parents frequently miss the window. For New Zealand applicants, check the [New Zealand Passport Office](https://www.passports.govt.nz) for current timelines; demand spikes in the lead-up to summer.
+Any passport expiring within 12 months: start the renewal process now. Children's passports expire faster - 5 years in most countries versus 10 for adults - and parents frequently miss the window. For New Zealand applicants, check the New Zealand Passport Office for current timelines; demand spikes in the lead-up to summer.
 
 Submit any visa applications with a processing window of four or more weeks. Prepare supporting documents: bank statements, accommodation confirmations, onward travel proof. Book a biometrics appointment in advance if the visa requires it.
 
@@ -108,6 +108,8 @@ Different trips need different document sets.
 | Child consent letter | N/A | ✅ if applicable | N/A | Required in many countries if one parent absent |
 | Birth certificates | N/A | ✅ if required | N/A | Some countries require for children under 18 |
 | Work authorisation letter | N/A | N/A | ✅ if required | Some destinations require employer letters for business travellers |
+
+**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
 
 ## Frequently Asked Questions
 

@@ -43,7 +43,7 @@ A passport can be technically valid - not expired - and still get you denied boa
 
 **The 6-month rule.** Many popular destinations require your passport to be valid for at least 6 months on the day you enter the country, and a few count from your planned departure instead. So if your passport expires in October and you land in Istanbul in April, you are fine. If you arrive in June, you may not be - and the airline will refuse to board you before you even reach immigration.
 
-The 6-month rule applies inconsistently by nationality. The same country may enforce it for some passport holders and waive it for others under bilateral agreements. The only reliable way to check is to look up the specific requirement for your passport and destination using the [IATA Travel Centre](https://www.iatatravelcentre.com) - the same database airlines use at the desk.
+The 6-month rule applies inconsistently by nationality. The same country may enforce it for some passport holders and waive it for others under bilateral agreements. The only reliable way to check is to look up the specific requirement for your passport and destination using the IATA Travel Centre - the same database airlines use at the desk.
 
 We cover [which countries enforce the 6-month rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) in detail, including a country-by-country table. The short version: assume it applies to any destination outside Europe, North America, or Australia unless you have checked.
 
@@ -57,7 +57,7 @@ For destinations that do not enforce the 6-month rule - most of Europe for EU an
 
 For destinations with a 6-month requirement, count 6 months from the day you arrive. If you land in Thailand on 20 July, your passport must be valid until at least 20 January the following year - and counting from your return date instead gives you an extra safety margin for countries that measure differently.
 
-For everything else, check before you book. The [IATA Travel Centre](https://www.iatatravelcentre.com) gives the exact requirement for your nationality and destination in seconds.
+For everything else, check before you book. The IATA Travel Centre gives the exact requirement for your nationality and destination in seconds.
 
 ## Child Passports - The Family Travel Trap
 
@@ -74,12 +74,14 @@ The practical answer: when you drop below 12 months of validity remaining.
 Here is why 12 months is the right threshold and not the expiry date itself:
 
 - It gives you a full 6-month buffer for any destination that enforces the rule.
-- Passport renewal takes time: [UK passport renewals usually take around 3 weeks](https://www.gov.uk/apply-renew-passport) (and HM Passport Office says not to book travel until the new passport arrives) and [US standard processing runs 4-6 weeks](https://travel.state.gov/content/travel/en/passports.html), so starting at 6 months remaining leaves little margin.
+- Passport renewal takes time: UK passport renewals usually take around 3 weeks (and HM Passport Office says not to book travel until the new passport arrives) and US standard processing runs 4-6 weeks, so starting at 6 months remaining leaves little margin.
 - Last-minute plans happen. A passport with 14 months remaining keeps all destinations open. A passport with 5 months remaining closes off a large part of the world.
 
 The most common mistake is setting a reminder on the expiry date itself. By that point you cannot travel to most of the destinations that enforce the 6-month rule. **Set your renewal reminder at the 12-month mark.**
 
 If you also read our guide on [how long passport renewal takes](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/), you will see exactly how tight the timelines can get during busy periods - which is another reason to start early.
+
+**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
 
 ## Frequently Asked Questions
 

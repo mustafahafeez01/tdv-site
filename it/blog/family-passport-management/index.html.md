@@ -22,7 +22,7 @@ Quando viaggi con i bambini, tenere traccia di cinque passaporti tra i requisiti
 
 Il problema inizia in piccolo. Tu hai il tuo passaporto, il tuo coniuge ha il suo. Poi hai figli, e improvvisamente hai quattro documenti separati con quattro date di scadenza diverse. Il cervello umano non è costruito per tracciare quattro diversi calendari di rinnovo, specialmente quando la vita diventa frenetica. Una persona finisce per gestire tutto - di solito la persona che sta già gestendo tutti gli altri dettagli logistici del viaggio - e quel singolo punto di fallimento diventa un rischio.
 
-Il secondo problema è che i passaporti dei bambini scadono molto più velocemente di quelli degli adulti. [Negli Stati Uniti, i passaporti dei bambini per gli under-16 durano 5 anni](https://travel.state.gov/content/travel/en/passports.html), mentre i passaporti degli adulti durano 10 anni. [Lo stesso vale nel Regno Unito](https://www.gov.uk/apply-renew-passport) - i documenti dei bambini scadono dopo 5 anni, non 10. Questo significa che il passaporto del tuo bambino più giovane spesso diventa il fattore limitante per i viaggi familiari. Potresti avere un genitore con 8 anni di validità rimanenti, ma se il passaporto del tuo bambino più giovane scade tra 18 mesi, quello è il tuo orizzonte di pianificazione.
+Il secondo problema è che i passaporti dei bambini scadono molto più velocemente di quelli degli adulti. Negli Stati Uniti, i passaporti dei bambini per gli under-16 durano 5 anni, mentre i passaporti degli adulti durano 10 anni. Lo stesso vale nel Regno Unito - i documenti dei bambini scadono dopo 5 anni, non 10. Questo significa che il passaporto del tuo bambino più giovane spesso diventa il fattore limitante per i viaggi familiari. Potresti avere un genitore con 8 anni di validità rimanenti, ma se il passaporto del tuo bambino più giovane scade tra 18 mesi, quello è il tuo orizzonte di pianificazione.
 
 La maggior parte delle famiglie non si rende conto di questo finché non ha già prenotato un viaggio. Un genitore trova i passaporti una settimana prima della partenza, scansionandoli frettolosamente mentre fa i bagagli, e scopre che il documento di un bambino non supera la regola di validità di 6 mesi per la sua destinazione. Il viaggio è ora a rischio, o necessita di un rinnovo del passaporto urgente e costoso.
 
@@ -77,6 +77,8 @@ Oltre al passaporto stesso, molti altri documenti meritano un posto nel tuo sist
 - **Patenti di guida.** Se stai noleggiando un'auto, avrai bisogno di patenti di guida per tutti i conducenti nel tuo gruppo. Anche questi hanno date di scadenza che possono sorprendere le famiglie.
 
 Conserva tutti questi in un'unica posizione accessibile. Il panico di frugare nel tuo telefono o nella tua borsa al banco dell'aeroporto, guardando foto sfocate delle pagine dei visti - è esattamente quello che questo sistema previene.
+
+**Prima di farci affidamento:** questo articolo spiega regole generali, e le regole generali sono tutto ciò che un blog può offrire. I requisiti cambiano e variano in base a cittadinanza, destinazione e data del viaggio. Verifica il tuo caso con l'autorità che rilascia il documento o con il servizio informazioni viaggi del tuo governo prima di prenotare. Controlliamo quello che pubblichiamo e possiamo comunque sbagliare o essere superati.
 
 ## Domande Frequenti
 

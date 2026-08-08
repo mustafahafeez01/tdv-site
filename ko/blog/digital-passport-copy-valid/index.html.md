@@ -73,6 +73,8 @@ Source: https://traveldocumentvault.com/ko/blog/digital-passport-copy-valid/
 
 클라우드 스토리지가 여권 사본에 안전한지 궁금하다면, [Google Photos에 여권 저장에 대한 가이드](https://traveldocumentvault.com/ko/blog/is-it-safe-to-store-passport-in-google-photos/)를 참조하세요. 이는 전용 암호화 앱이 더 강력한 보호를 제공하는 이유를 설명합니다.
 
+**이 글에 의존하기 전에:** 이 글은 일반적인 규칙을 설명하며, 블로그가 전할 수 있는 것은 일반론까지입니다. 요건은 바뀌고 국적, 목적지, 여행 날짜에 따라 달라집니다. 예약 전에 발급 기관이나 자국의 여행 정보 서비스에서 본인의 경우를 확인하세요. 저희는 게시하는 내용을 확인하지만 그래도 틀리거나 오래된 정보일 수 있습니다.
+
 ## 자주 묻는 질문
 
 ### 호텔 체크인 시 여권의 디지털 사본을 수용합니까?

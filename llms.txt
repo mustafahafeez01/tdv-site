@@ -42,7 +42,7 @@ Every page listed below is also available as clean markdown: append `index.html.
 - [How Long is a Passport Valid for Travel? Validity Rules Explained](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/index.html.md)
 - [The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/index.html.md)
 - [How to Take a Passport Photo at Home That Gets Accepted](https://traveldocumentvault.com/blog/passport-photo-at-home/index.html.md)
-- [Visa vs Passport: What's the Difference?](https://traveldocumentvault.com/blog/visa-vs-passport/index.html.md)
+- [What Is the Difference Between a Visa and a Passport?](https://traveldocumentvault.com/blog/visa-vs-passport/index.html.md)
 - [Safest Way to Store Your Passport Digitally](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/index.html.md)
 - [International Travel Document Checklist for Every Trip](https://traveldocumentvault.com/blog/travel-document-checklist/index.html.md)
 - [Can You Travel While Your Passport Is Being Renewed?](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/index.html.md)

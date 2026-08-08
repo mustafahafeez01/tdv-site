@@ -60,7 +60,7 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[Visa og indrejse Visum versus Pas: Hvad er Forskellen? Et pas beviser hvem du er. Et visum giver tilladelse til at rejse ind. Her er hvad hver enkelt gør, hvorfor de fleste rejser har brug for begge, og hvordan du tjekker din destination. 22. apr. 20266 min](https://traveldocumentvault.com/blog/visa-vs-passport/)
+[Visa og indrejse Hvad er forskellen på et visum og et pas? Et pas beviser, hvem du er. Et visum er et lands tilladelse til at rejse ind. Her er forskellen på de to, hvorfor de fleste rejser kræver begge dele, og hvem du skal spørge. 22. apr. 20266 min](https://traveldocumentvault.com/da/blog/visa-vs-passport/)
 
 ##
 

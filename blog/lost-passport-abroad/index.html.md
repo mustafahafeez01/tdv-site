@@ -40,10 +40,10 @@ Ask for a written copy with a case number. Request an English version or transla
 
 Your embassy or consulate is your route home. Contact them as soon as you have the police report. Official emergency contacts:
 
-- **UK citizens:** [GOV.UK emergency consular assistance](https://www.gov.uk/contact-consulate-if-british-national-needs-help)
-- **US citizens:** [travel.state.gov - lost or stolen passports](https://travel.state.gov/content/travel/en/international-travel/emergencies/lost-stolen-passports.html)
-- **Australian citizens:** [Smartraveller - lost or stolen passport](https://www.smartraveller.gov.au/while-youre-away/passport-problems/lost-or-stolen-passport)
-- **Canadian citizens:** [Canada.ca - lost or stolen passport abroad](https://travel.gc.ca/assistance/emergency-info/lost-stolen-passport)
+- **UK citizens:** GOV.UK emergency consular assistance
+- **US citizens:** travel.state.gov - lost or stolen passports
+- **Australian citizens:** Smartraveller - lost or stolen passport
+- **Canadian citizens:** Canada.ca - lost or stolen passport abroad
 
 Call before you visit. Many embassies require an appointment for emergency passport services and can tell you exactly what to bring - turning up without one can cost you half a day.
 
@@ -77,6 +77,8 @@ If you lose a passport in Thailand that contains a valid multi-entry visa for an
 ## Step 7: Get Home and Replace Your Passport
 
 Once you have your emergency travel document, confirm exit requirements with local immigration if needed, then rebook or confirm your journey home. When you are back: apply for a full replacement passport through your official passport authority and set up an encrypted digital backup of all your travel documents before your next trip.
+
+**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
 
 ## Frequently Asked Questions
 

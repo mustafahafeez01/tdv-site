@@ -42,10 +42,10 @@ Die Anforderungen unterscheiden sich von Land zu Land, und einige werden in Zoll
 
 | Land | Wo Sie die aktuellen Anforderungen überprüfen |
 |---|---|
-| Vereinigte Staaten | [travel.state.gov Passfoto-Anforderungen](https://travel.state.gov/content/travel/en/passports/how-apply/photos.html) |
-| Vereinigtes Königreich | [gov.uk Fotos für Pässe](https://www.gov.uk/photos-for-passports/photo-requirements) |
-| Australien | [Australisches Passamtsleitfaden für Fotos](https://www.passports.gov.au/help/passport-photos) |
-| Kanada | [Regierung von Kanada Passfoto](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) |
+| Vereinigte Staaten | travel.state.gov Passfoto-Anforderungen |
+| Vereinigtes Königreich | gov.uk Fotos für Pässe |
+| Australien | Australisches Passamtsleitfaden für Fotos |
+| Kanada | Regierung von Kanada Passfoto |
 
 Diese Spezifikationen sind genau - selbst wenige Millimeter bedeuten Ablehnung. Ihr Smartphone-Rohfoto wird normalerweise viel größer als das sein, was Sie einreichen müssen, weshalb es Zuschneidungs-Apps gibt. Kostenlose oder kostengünstige Tools wie die auf iOS und Android verfügbaren ermöglichen es Ihnen, Ihr Land auszuwählen und automatisch auf die genaue Spezifikation zu ändern.
 
@@ -56,8 +56,8 @@ Sie haben mehrere Optionen, um Ihr Passfoto in die Hände der Passbehörde zu be
 | Methode | Kosten | Akzeptanzrisiko | Bequemlichkeit | Offizielle Anleitung |
 |---|---|---|---|---|
 | Zu Hause DIY (Smartphone + Zuschneidungs-App) | Kostenlos oder nahezu kostenlos | Höher, wenn Sie Beleuchtungs- oder Größenangaben übersehen | Sehr hoch - sofort | In den meisten Ländern zulässig - überprüfen Sie die Website Ihrer Behörde |
-| Lokale Apotheke oder Drogerie | Bescheidene Gebühr | Niedrig - ausgebildete Fachleute überprüfen | Mittel - normalerweise Same-Day-Service | Weit verbreitet und generell zuverlässig - überprüfen Sie Ihrer eigenen Behörde [Fotovoraussetzungen](https://www.gov.uk/photos-for-passports/photo-requirements) trotzdem |
-| Post (Vereinigtes Königreich und andere) | Bescheidene Gebühr | Niedrig - in-house genommen, überprüft | Mittel - erfordert Besuch und Termin | [Offizieller Postdienst](https://www.postoffice.co.uk/passport-services) |
+| Lokale Apotheke oder Drogerie | Bescheidene Gebühr | Niedrig - ausgebildete Fachleute überprüfen | Mittel - normalerweise Same-Day-Service | Weit verbreitet und generell zuverlässig - überprüfen Sie Ihrer eigenen Behörde Fotovoraussetzungen trotzdem |
+| Post (Vereinigtes Königreich und andere) | Bescheidene Gebühr | Niedrig - in-house genommen, überprüft | Mittel - erfordert Besuch und Termin | Offizieller Postdienst |
 | Online-Services (z.B. Passport Photo Online) | Bescheidene Gebühr | Mittel - digitale Einreichung, Feedback bereitgestellt | Hoch - von zu Hause, digitale Lieferung | Nicht offiziell, aber weit verbreitet - überprüfen Sie, ob Ihr Land vorab zugeschnittene Uploads akzeptiert |
 | Professionelles Fotostudio | Die teuerste Option | Niedrig - professionelle Beleuchtung und Komposition | Niedrig - erfordert Termin | Überall akzeptiert - immer eine sichere Wahl |
 
@@ -112,6 +112,8 @@ Bevor Sie Ihr Foto machen, stellen Sie sicher, dass Sie Folgendes zur Hand haben
 - Plan zum Drucken oder digitalen Einreichen basierend auf den Anforderungen Ihres Landes
 
 Ein paar Minuten richtig zu richten spart Sie vor einem späteren erneuten Einreichen - was bedeutet, dass Ihr Antrag nicht verzögert wird.
+
+**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
 
 ## Häufig gestellte Fragen
 

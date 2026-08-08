@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/es/blog/visa-expiry-tracker-app/
 - Los visitantes del Área de Schengen deben rastrear una ventana móvil de 90/180 días, no solo una única fecha de vencimiento - la mayoría de aplicaciones de viaje genéricas no lo manejan correctamente.
 - Rastrear visados y pasaportes juntos en un mismo lugar reduce el riesgo de un desajuste: entrar con un visado válido pero con un pasaporte que vence antes de que termine tu estancia planeada.
 
-Excederse en el tiempo permitido de un visado es uno de los errores de viaje más significativos que una persona puede cometer. A diferencia de un vuelo perdido - estresante pero en última instancia soluciona - un exceso crea un registro formal de inmigración que puede seguirte durante años. En Estados Unidos, un exceso de solo 180 días desencadena una prohibición automática de 3 años en la reentrada bajo la sección INA 212(a)(9)(B)(i), y un exceso de un año desencadena una prohibición de 10 años. Estas consecuencias no son ampliamente conocidas, pero están [documentadas por el Servicio de Ciudadanía e Inmigración de Estados Unidos](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/unlawful-presence-and-bars-to-admissibility).
+Excederse en el tiempo permitido de un visado es uno de los errores de viaje más significativos que una persona puede cometer. A diferencia de un vuelo perdido - estresante pero en última instancia soluciona - un exceso crea un registro formal de inmigración que puede seguirte durante años. En Estados Unidos, un exceso de solo 180 días desencadena una prohibición automática de 3 años en la reentrada bajo la sección INA 212(a)(9)(B)(i), y un exceso de un año desencadena una prohibición de 10 años. Estas consecuencias no son ampliamente conocidas, pero están documentadas por el Servicio de Ciudadanía e Inmigración de Estados Unidos.
 
 Una aplicación rastreadora de visados previene esto. Supervisa múltiples fechas a la vez - validez de entrada, estancia máxima, y número de entradas - de una manera que las aplicaciones genéricas de pasaportes no pueden.
 
@@ -41,7 +41,7 @@ Un rastreador que solo supervisa la fecha de validez de entrada se pierde la cau
 
 Para viajeros que visitan múltiples países europeos, la regla de 90/180 días del Área de Schengen es la condición de entrada más ampliamente incomprendida en viajes internacionales. Ciudadanos de países con acceso libre de visado a Schengen (incluyendo el Reino Unido, Estados Unidos, Canadá, y Australia, entre muchos otros) pueden pasar un máximo de 90 días en el Área de Schengen dentro de cualquier ventana móvil de 180 días.
 
-La Comisión Europea proporciona una [calculadora oficial de estancia en Schengen](https://ec.europa.eu/home-affairs/pages/border-travel/schengen-visa_en) para ayudar a viajeros a calcular sus días permitidos. El punto crítico es que esta es una *ventana móvil*, no un reinicio de año calendario. Los días pasados en Schengen hace seis meses aún cuentan contra tu asignación actual.
+La Comisión Europea proporciona una calculadora oficial de estancia en Schengen para ayudar a viajeros a calcular sus días permitidos. El punto crítico es que esta es una *ventana móvil*, no un reinicio de año calendario. Los días pasados en Schengen hace seis meses aún cuentan contra tu asignación actual.
 
 La mayoría de aplicaciones genéricas de pasaportes o documentos no lo manejan correctamente. Una aplicación que simplemente muestre una fecha de vencimiento de visado no puede gestionar el cumplimiento de Schengen - requiere calcular días a través de una ventana móvil basada en fechas reales de entrada y salida.
 
@@ -79,6 +79,8 @@ Dada la complejidad anterior, una buena aplicación rastreadora de visados neces
 5. **Establece un recordatorio al menos 2 semanas antes de tu fecha límite de estancia máxima.** Esto te da tiempo para organizar una partida sin prisa, especialmente si las opciones de transporte en tu destino son limitadas.
 
 Reglas relacionadas que interactúan con el seguimiento de visados: ve nuestra guía a la [regla de pasaporte de 6 meses](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/), que puede prevenirte de entrar incluso con un visado válido si tu pasaporte vence demasiado pronto después de tu salida planeada.
+
+**Antes de fiarte de esto:** este artículo explica reglas generales, y las reglas generales son todo lo que puede ofrecer un blog. Los requisitos cambian y varían según la nacionalidad, el destino y la fecha del viaje. Consulta tu caso con la autoridad que emite el documento o con el servicio de información al viajero de tu gobierno antes de reservar. Revisamos lo que publicamos y aun así podemos equivocarnos o quedarnos desactualizados.
 
 ## Preguntas Frecuentes
 

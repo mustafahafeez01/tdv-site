@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/tripcase-alternative/
 - The real lesson: a free cloud service keeps **your data on borrowed time**. It can vanish with about 60 days' notice.
 - Travel documents belong **offline, on your device** - somewhere no company decision, outage, or shutdown can reach them.
 
-TripCase spent twelve years as the quiet workhorse of travel apps. Forward a confirmation email and your trip built itself; the app pinged you about gate changes before some airlines did; and its Document Vault kept passports, visas and boarding passes in one place. Then, on 1 April 2025, Sabre [shut it down](https://www.flyertalk.com/forum/travel-tools/2187377-replacement-recommendations-soon-discontinued-tripcase-april-1-2025-a.html), and once the export window closed on 30 June, every user's remaining trip history and documents were purged from its servers.
+TripCase spent twelve years as the quiet workhorse of travel apps. Forward a confirmation email and your trip built itself; the app pinged you about gate changes before some airlines did; and its Document Vault kept passports, visas and boarding passes in one place. Then, on 1 April 2025, Sabre shut it down, and once the export window closed on 30 June, every user's remaining trip history and documents were purged from its servers.
 
 Fifteen months on, ex-users are still hunting for a replacement. The honest answer is that no single app replaces it entirely. But the real story isn't about which app to pick - it's about where your documents should live.
 
@@ -24,7 +24,7 @@ Fifteen months on, ex-users are still hunting for a replacement. The honest answ
 
 TripCase had been around since 2013, a free travel companion from Sabre Corporation - the company that runs much of the world's airline and travel-agency booking systems. Because of that connection, trips often appeared in the app automatically. For over a decade, business travellers and families relied on it to pull flights, hotels, and car rentals into one chronological view. It wasn't fancy, but it worked.
 
-When the shutdown came, users had until 30 June 2025 to export their history. Multiple users [reported the export process as confusing and incomplete](https://www.flyertalk.com/forum/travel-tools/2187377-replacement-recommendations-soon-discontinued-tripcase-april-1-2025-a.html), and some discovered too late that years of trip records hadn't made it out. After the export window closed on 30 June 2025, Sabre deleted all remaining trip and traveller data, and there's no retrieving it.
+When the shutdown came, users had until 30 June 2025 to export their history. Multiple users reported the export process as confusing and incomplete, and some discovered too late that years of trip records hadn't made it out. After the export window closed on 30 June 2025, Sabre deleted all remaining trip and traveller data, and there's no retrieving it.
 
 ## What TripCase Users Actually Lost
 
@@ -32,7 +32,7 @@ TripCase didn't invent much, but it perfected a handful of workflows, and its di
 
 Its core was **email-to-itinerary parsing** - forward any airline, hotel or car rental confirmation and the app assembled it into a chronological trip with dates and booking references. Zero manual entry meant a full itinerary in seconds, which is exactly why people stayed for a decade.
 
-**Real-time flight alerts** arrived alongside: delays, gate changes, and cancellations often before the airline's own notification. TripIt now charges [around $49 a year](https://apurplelife.com/2025/03/18/best-travel-organization-app-2025/) for the equivalent in its Pro tier, whilst TripCase offered the feature to everyone free.
+**Real-time flight alerts** arrived alongside: delays, gate changes, and cancellations often before the airline's own notification. TripIt now charges around $49 a year for the equivalent in its Pro tier, whilst TripCase offered the feature to everyone free.
 
 Those flights, hotels, and ground transport all lived in **the trip timeline** - one scrollable stack per trip. Simple, but if you've juggled a multi-city week from a dozen confirmation emails, you understand why it mattered. In forum threads on FlyerTalk and elsewhere, ex-users consistently bring up the **Document Vault** as the most-missed piece - that single secure home for boarding passes, visas, passports, and confirmations. Finally, **trip sharing** let family members or colleagues follow along without forwarded emails.
 
@@ -75,6 +75,8 @@ The sensible response to TripCase's collapse isn't abandoning cloud tools altoge
 Start with a simple audit: where does each scan of your passport, each visa PDF, each child's ID currently live, and what happens to it if that service disappears with 60 days' notice? Our [travel document checklist](https://traveldocumentvault.com/blog/travel-document-checklist/) is a practical place to begin.
 
 TripCase is gone, and its features are scattered across other apps now. But there's one lesson worth taking from it: your travel documents shouldn't die with someone else's server.
+
+**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
 
 ## Frequently Asked Questions
 

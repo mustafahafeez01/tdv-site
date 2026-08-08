@@ -22,15 +22,15 @@ Duas regras e uma particularidade dos passaportes de crianças explicam quase to
 
 ## A Verdadeira Regra de Schengen: 3 Meses Além da Saída
 
-O requisito da UE é preciso: o seu passaporte deve ser [válido por pelo menos 3 meses após a data em que pretende sair do espaço Schengen](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm), e deve ter sido emitido nos últimos 10 anos.
+O requisito da UE é preciso: o seu passaporte deve ser válido por pelo menos 3 meses após a data em que pretende sair do espaço Schengen, e deve ter sido emitido nos últimos 10 anos.
 
 Imagine que a sua família regressa de Itália em 20 de agosto. Cada passaporte precisa de validade até aproximadamente 20 de novembro - são três meses além da sua data de saída, não a data de chegada, e não a data de reserva. Um passaporte que expira em 10 de novembro falha esse teste, mesmo que as férias terminem semanas antes.
 
-A condição de emissão há menos de 10 anos apanha famílias britânicas de forma específica. Os passaportes britânicos mais antigos poderiam ter meses extras não utilizados adicionados de um passaporte anterior, portanto alguns livretos mostram mais de 10 anos entre a emissão e a expiração. Para entrada em Schengen, [esses meses extra não contam](https://www.gov.uk/government/publications/restricted-validity-passports/restricted-validity-passports-accessible): o passaporte deve ter menos de 10 anos de idade no dia em que entra, seja qual for a data de expiração impressa dentro.
+A condição de emissão há menos de 10 anos apanha famílias britânicas de forma específica. Os passaportes britânicos mais antigos poderiam ter meses extras não utilizados adicionados de um passaporte anterior, portanto alguns livretos mostram mais de 10 anos entre a emissão e a expiração. Para entrada em Schengen, esses meses extra não contam: o passaporte deve ter menos de 10 anos de idade no dia em que entra, seja qual for a data de expiração impressa dentro.
 
 ## Por Que Isto Não é a Regra dos 6 Meses
 
-A maioria dos viajantes absorve a ideia de que os passaportes precisam de seis meses de validade para irem a qualquer parte. Essa regra é real - [a Tailândia pede seis meses de validade](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), e muitos outros países aplicam uma versão dela. Mas Schengen não. A Europa pede três meses além da saída, o que é mais suave, mas os dois misturam-se numa vaga "seis meses a partir de algum lado" que produz falso alarme e falsa confiança.
+A maioria dos viajantes absorve a ideia de que os passaportes precisam de seis meses de validade para irem a qualquer parte. Essa regra é real - a Tailândia pede seis meses de validade, e muitos outros países aplicam uma versão dela. Mas Schengen não. A Europa pede três meses além da saída, o que é mais suave, mas os dois misturam-se numa vaga "seis meses a partir de algum lado" que produz falso alarme e falsa confiança.
 
 O nosso guia sobre [a regra dos 6 meses](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/) cobre quais países a aplicam na realidade. A nossa [explicação sobre validade de passaporte](https://traveldocumentvault.com/pt/blog/how-long-is-passport-valid-for-travel/) trata o caso geral. Estamos a ficar com Schengen aqui porque é lá que as famílias mais frequentemente ficam com as contas subtilmente erradas.
 
@@ -45,15 +45,15 @@ Os passaportes de adultos normalmente duram 10 anos; os de crianças duram apena
 | Canadá | Menores de 16 anos | 5 anos |
 | Austrália | Todas as crianças | 5 anos |
 
-Fontes: [US Department of State](https://travel.state.gov/content/travel/en/passports/need-passport/under-16.html), [GOV.UK](https://www.gov.uk/get-a-child-passport), [Canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/child-passport.html), [Escritório de Passaportes Australiano](https://www.passports.gov.au/child-passport).
+Fontes: US Department of State, GOV.UK, Canada.ca, Escritório de Passaportes Australiano.
 
 Uma família de quatro pessoas, portanto, opera em quatro cronogramas de expiração diferentes. A data mais próxima define se a viagem acontece ou não. Dois adultos renovados juntos afastar-se-ão dos documentos de crianças dentro de um par de anos - que é exatamente porque verificar o seu próprio passaporte diz quase nada sobre a prontidão da família.
 
-Para as famílias americanas existe um detalhe extra: um passaporte de criança [não pode ser renovado por correio](https://travel.state.gov/content/travel/en/passports/need-passport/under-16.html). Cada renovação requer uma candidatura nova presencial e [o processamento de rotina demora atualmente várias semanas](https://travel.state.gov/content/travel/en/passports/how-apply/processing-times.html), mais tempo de envio nos dois sentidos - o que é manejável em março, mas fica um problema real duas semanas antes da partida. As famílias britânicas têm um pouco mais fácil: apenas [verifique os tempos de processamento atuais](https://www.gov.uk/get-a-child-passport) antes de marcar e permita tempo extra se forem necessárias informações adicionais.
+Para as famílias americanas existe um detalhe extra: um passaporte de criança não pode ser renovado por correio. Cada renovação requer uma candidatura nova presencial e o processamento de rotina demora atualmente várias semanas, mais tempo de envio nos dois sentidos - o que é manejável em março, mas fica um problema real duas semanas antes da partida. As famílias britânicas têm um pouco mais fácil: apenas verifique os tempos de processamento atuais antes de marcar e permita tempo extra se forem necessárias informações adicionais.
 
 ## Realidade do Check-in: Timatic Não Arredonda
 
-Qualquer que seja a fronteira que tolere, encontrará as regras mais cedo do que isso - no check-in. As companhias aéreas validam cada passaporte contra [a base de dados Timatic do IATA](https://www.iata.org/en/services/compliance/timatic/travel-documentation/), que aplica as exigências de entrada de cada destino exatamente. Se a sua data de regresso precisa de validade até 20 de novembro e um passaporte expira em 15 de novembro, o sistema diz não. Não há "bastante próximo" e sem substituição - as companhias aéreas que embarcam um passageiro inadmissível devem levá-lo de volta para casa por sua conta.
+Qualquer que seja a fronteira que tolere, encontrará as regras mais cedo do que isso - no check-in. As companhias aéreas validam cada passaporte contra a base de dados Timatic do IATA, que aplica as exigências de entrada de cada destino exatamente. Se a sua data de regresso precisa de validade até 20 de novembro e um passaporte expira em 15 de novembro, o sistema diz não. Não há "bastante próximo" e sem substituição - as companhias aéreas que embarcam um passageiro inadmissível devem levá-lo de volta para casa por sua conta.
 
 Um passaporte falhado raramente deixa uma pessoa presa; deixa a família no chão. Poucos pais enviarão três membros adiante e deixarão um no balcão, portanto na prática toda a reserva é remarcar ou perdida.
 
@@ -61,9 +61,11 @@ Um passaporte falhado raramente deixa uma pessoa presa; deixa a família no chã
 
 A correção é simples e leva apenas minutos. No dia em que marca, reúna cada passaporte da casa e note cada data de expiração e data de emissão. Depois faça duas perguntas para cada um: ainda terá validade três meses depois do seu regresso, e foi emitido há menos de dez anos. Tudo o que falhar qualquer teste vai para a fila de renovação essa semana - nesse ponto, pode ainda renovar, rerrotear a viagem ou deslocar as suas datas sem penalidade.
 
-As crianças precisam do mesmo espaço de manobra do que os adultos. Há [nenhuma exceção infantil](https://europa.eu/youreurope/citizens/travel/entry-exit/travel-documents-minors/index_en.htm) às regras de validade - um passaporte de cinco anos fica com o mesmo tratamento Timatic do que o seu. Uma nota de lado para viagens britânicas e irlandesas: a Irlanda não está em Schengen. As viagens Reino Unido-Irlanda funcionam sob a [Área de Viagem Comum](https://www.gov.ie/en/department-of-foreign-affairs/publications/the-common-travel-area/) separada, portanto não generalize a partir de uma viagem a Dublin para uma a Paris.
+As crianças precisam do mesmo espaço de manobra do que os adultos. Há nenhuma exceção infantil às regras de validade - um passaporte de cinco anos fica com o mesmo tratamento Timatic do que o seu. Uma nota de lado para viagens britânicas e irlandesas: a Irlanda não está em Schengen. As viagens Reino Unido-Irlanda funcionam sob a Área de Viagem Comum separada, portanto não generalize a partir de uma viagem a Dublin para uma a Paris.
 
 Nada disto precisa de uma app. Uma folha de cálculo ajuda muitas famílias, e um lembrete de calendário duas vezes por ano trata a maior parte do trabalho. O único inegociável: faça o audit no momento da reserva, quando um passaporte curto é ainda um recado, não uma emergência.
+
+**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
 
 ## Perguntas Frequentes
 
@@ -77,7 +79,7 @@ Não. As crianças precisam dos mesmos 3 meses de validade além da saída e da 
 
 ### Quando devemos renovar o passaporte de uma criança antes de uma viagem?
 
-Assim que marcar, verifique se o passaporte terá ainda 3 meses de validade além da data do seu regresso. Se não tiver, comece de imediato. Verifique os [tempos de processamento atuais do Reino Unido](https://www.gov.uk/get-a-child-passport) e permita tempo extra se a candidatura precisar de mais informações. O processamento de rotina dos EUA demora várias semanas mais tempo de envio. Um passaporte de criança dos EUA também requer uma candidatura nova presencial em vez de renovação.
+Assim que marcar, verifique se o passaporte terá ainda 3 meses de validade além da data do seu regresso. Se não tiver, comece de imediato. Verifique os tempos de processamento atuais do Reino Unido e permita tempo extra se a candidatura precisar de mais informações. O processamento de rotina dos EUA demora várias semanas mais tempo de envio. Um passaporte de criança dos EUA também requer uma candidatura nova presencial em vez de renovação.
 
 ### Podemos voar enquanto a renovação do passaporte de uma criança está em curso?
 

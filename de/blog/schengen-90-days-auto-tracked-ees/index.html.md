@@ -16,27 +16,27 @@ Source: https://traveldocumentvault.com/de/blog/schengen-90-days-auto-tracked-ee
 - Der offizielle **Kurzaufenthaltsrechner der EU** funktioniert, aber er ist manuell - eine Person, ein Fenster, eine Berechnung nach der anderen.
 - Familien verwalten **ein separates Fenster pro Person.** Hier kommt eine Tracking-App zur Hilfe.
 
-Bei Ihrer letzten Europareise bekamen Sie wahrscheinlich einen Stempel an der Grenze. Dieser Stempel ist weg. Seit 10. April 2026 ist das Einreise-/Ausreisesystem (EES) der EU [vollständig im gesamten Schengen-Raum in Betrieb](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en), und die verwaschene Tinte, die einst Ihre Reisen erfasste, wurde durch eine digitale Aufzeichnung ersetzt, die im Moment Ihrer Einreise beginnt.
+Bei Ihrer letzten Europareise bekamen Sie wahrscheinlich einen Stempel an der Grenze. Dieser Stempel ist weg. Seit 10. April 2026 ist das Einreise-/Ausreisesystem (EES) der EU vollständig im gesamten Schengen-Raum in Betrieb, und die verwaschene Tinte, die einst Ihre Reisen erfasste, wurde durch eine digitale Aufzeichnung ersetzt, die im Moment Ihrer Einreise beginnt.
 
 Für alle, die Schengen-Tage zählen - und jeder Nicht-EU-Besucher sollte das tun - ändert sich dadurch einiges. Hier erfahren Sie, was das neue System wirklich tut, was es bewusst nicht tut, und wie Sie Ihren eigenen Überblick behalten, damit Sie an der Grenze nie überrascht werden.
 
 ## Was sich an Europas Grenzen geändert hat
 
-Das EES erfasst Fingerabdrücke, Gesichtsbild, Reisedokument sowie genaue Ein- und Ausreisedaten jedes Nicht-EU-Reisenden. Das System verzeichnete zwischen seinem gestaffelten Start im Oktober 2025 und dem vollständigen Betrieb im Frühjahr dieses Jahres [über 52 Millionen Grenzübertritte](https://home-affairs.ec.europa.eu/policies/schengen/smart-borders/entry-exit-system_en), und mehr als 27.000 Personen wurde in dieser Zeit die Einreise verweigert. Die Erstregistrierung dauert an den Schaltern einige Minuten, und an Flughäfen [wurden mehrstündige Warteschlangen](https://www.euronews.com/travel/2026/07/01/ees-at-a-critical-point-europes-aviation-sector-urges-eu-to-show-more-flexibility) während der Spitzenzeiten dieses Sommers berichtet, während sich alle ans System gewöhnen.
+Das EES erfasst Fingerabdrücke, Gesichtsbild, Reisedokument sowie genaue Ein- und Ausreisedaten jedes Nicht-EU-Reisenden. Das System verzeichnete zwischen seinem gestaffelten Start im Oktober 2025 und dem vollständigen Betrieb im Frühjahr dieses Jahres über 52 Millionen Grenzübertritte, und mehr als 27.000 Personen wurde in dieser Zeit die Einreise verweigert. Die Erstregistrierung dauert an den Schaltern einige Minuten, und an Flughäfen wurden mehrstündige Warteschlangen während der Spitzenzeiten dieses Sommers berichtet, während sich alle ans System gewöhnen.
 
-Nicht alle sind registriert. EU-Bürger, Bewohner von Schengen-Ländern und Inhaber von Langaufenthaltsvisas sind [befreit](https://travel-europe.europa.eu/ees/ltr/to-whom-does-ees-not-apply). Wenn Sie im Rahmen der visumfreien Kurzaufenthaltsberechtigung reisen - dies trifft beispielsweise auf die meisten britischen, amerikanischen, kanadischen und australischen Reisenden zu - gilt das EES für Sie.
+Nicht alle sind registriert. EU-Bürger, Bewohner von Schengen-Ländern und Inhaber von Langaufenthaltsvisas sind befreit. Wenn Sie im Rahmen der visumfreien Kurzaufenthaltsberechtigung reisen - dies trifft beispielsweise auf die meisten britischen, amerikanischen, kanadischen und australischen Reisenden zu - gilt das EES für Sie.
 
 ## Die 90/180-Regel unter einem System, das nicht blinzelt
 
 Die Regel selbst hat sich nicht geändert: Sie dürfen sich maximal 90 Tage innerhalb des Schengen-Raums während eines beliebigen rollierenden 180-Tage-Fensters aufhalten. Das sind nicht 90 Tage pro Kalenderjahr, und das Fenster setzt sich nicht zurück, wenn Sie abreisen. Für jeden Tag, an dem Sie anwesend sind, dürfen die vorherigen 180 Tage nicht mehr als 90 Tage Aufenthalt enthalten.
 
-Was sich geändert hat, ist die Kontrolle. Unter Reisepassstempeln bedeutete der Nachweis einer Überschreitung, verwischte Tinte zu entziffern, und Grenzbeamte hatten einen gewissen Spielraum. Jetzt sind die Daten exakt, und das System flaggt eine Überschreitung in dem Moment, in dem sie passiert. Erwarten Sie [Verweigerung bei Ihrer nächsten Einreise](https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en), und in vielen Fällen ein Einreiseverbot von ein bis fünf Jahren, das Beamte ins Schengen-Informationssystem eintragen. Der Spielraum für Fehler ist von unklar zu null gesunken.
+Was sich geändert hat, ist die Kontrolle. Unter Reisepassstempeln bedeutete der Nachweis einer Überschreitung, verwischte Tinte zu entziffern, und Grenzbeamte hatten einen gewissen Spielraum. Jetzt sind die Daten exakt, und das System flaggt eine Überschreitung in dem Moment, in dem sie passiert. Erwarten Sie Verweigerung bei Ihrer nächsten Einreise, und in vielen Fällen ein Einreiseverbot von ein bis fünf Jahren, das Beamte ins Schengen-Informationssystem eintragen. Der Spielraum für Fehler ist von unklar zu null gesunken.
 
 ## Der Haken: Das EES erzwingt, es plant nicht
 
-Das EES zählt Ihre Tage zur Kontrolle, aber es sagt Ihnen nicht die Zahl. Es gibt kein öffentliches Portal, in das Sie sich einloggen und "47 Tage verbleibend" sehen können; die [Travel to Europe App](https://travel-europe.europa.eu/ees/Travel-to-Europe-mobile-app) verwaltet die Vorregistrierung vor dem Flug, nicht die Tagezählung nach der Ankunft. Das System erfasst, was Sie getan haben; die Vorhersage, was Sie noch tun können, liegt vollständig in Ihrer Verantwortung.
+Das EES zählt Ihre Tage zur Kontrolle, aber es sagt Ihnen nicht die Zahl. Es gibt kein öffentliches Portal, in das Sie sich einloggen und "47 Tage verbleibend" sehen können; die Travel to Europe App verwaltet die Vorregistrierung vor dem Flug, nicht die Tagezählung nach der Ankunft. Das System erfasst, was Sie getan haben; die Vorhersage, was Sie noch tun können, liegt vollständig in Ihrer Verantwortung.
 
-Die EU veröffentlicht einen offiziellen [Kurzaufenthaltsrechner](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en), den Sie sich gerne merken können. Sie geben Ihre bisherigen Ein- und Ausreisedaten ein, und das Tool sagt Ihnen, ob ein geplanter Aufenthalt in Ihr Fenster passt. Es funktioniert gut für einen Reisenden, der gute Aufzeichnungen führt. Die Hürde kommt, wenn die Daten in Ihrer Erinnerung leben oder wenn Sie die Übung für vier Personen gleichzeitig durchführen.
+Die EU veröffentlicht einen offiziellen Kurzaufenthaltsrechner, den Sie sich gerne merken können. Sie geben Ihre bisherigen Ein- und Ausreisedaten ein, und das Tool sagt Ihnen, ob ein geplanter Aufenthalt in Ihr Fenster passt. Es funktioniert gut für einen Reisenden, der gute Aufzeichnungen führt. Die Hürde kommt, wenn die Daten in Ihrer Erinnerung leben oder wenn Sie die Übung für vier Personen gleichzeitig durchführen.
 
 ## Ihr Fenster in der Praxis nachverfolgen
 
@@ -57,6 +57,8 @@ Eine ehrliche Anmerkung: Keine App kann Ihren EES-Datensatz lesen, unsere einges
 ## Einen Schritt voraus der Grenze
 
 Die digitale Grenze ist gründlich, automatisch und gefühllos, aber die Einhaltung der 90/180-Regel war nie von der Grenze abhängig - es geht darum, Ihre eigenen Daten zu kennen, bevor Sie buchen. Führen Sie Ihre Reisegeschichte irgendwo zuverlässig auf, rechnen Sie die Zahlen durch, bevor Sie sich festlegen, und behandeln Sie das Zählen als Teil der Planung statt als etwas, das Sie am Gate rekonstruieren. Das EES wird die Kontrolle durchführen. Die Planung liegt immer noch bei Ihnen, und das ist die günstigere Hälfte, um es richtig hinzubekommen.
+
+**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
 
 ## Häufig gestellte Fragen
 

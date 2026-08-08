@@ -34,11 +34,11 @@ Some countries ask to see proof of your first night's booking, whether that's a 
 
 ### Vaccination certificates
 
-Certain destinations require proof of vaccination for yellow fever or other diseases, and requirements change periodically by destination. Check the [WHO travel advice pages](https://www.who.int/travel-advice) 6-8 weeks before travel - not the night before - as some countries only accept official WHO yellow fever certificates, not photocopies or digital photos.
+Certain destinations require proof of vaccination for yellow fever or other diseases, and requirements change periodically by destination. Check the WHO travel advice pages 6-8 weeks before travel - not the night before - as some countries only accept official WHO yellow fever certificates, not photocopies or digital photos.
 
 ### Travel insurance details
 
-You'll need immediate access to your policy number, issuer contact details, and your 24-hour emergency hotline. Some visa types explicitly require proof of travel insurance - [Schengen visa applications](https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy/applying-schengen-visa_en), for example, require medical insurance covering emergency care and hospitalisation. But more importantly, if something goes wrong abroad, you need these details without relying on email or internet access.
+You'll need immediate access to your policy number, issuer contact details, and your 24-hour emergency hotline. Some visa types explicitly require proof of travel insurance - Schengen visa applications, for example, require medical insurance covering emergency care and hospitalisation. But more importantly, if something goes wrong abroad, you need these details without relying on email or internet access.
 
 ### Child travel consent letters
 
@@ -91,7 +91,7 @@ Every child needs their own passport for international travel, however young the
 
 **Child travel consent letter:** If a child is travelling internationally with only one parent, many border officers will ask for written consent from the absent parent, preferably notarised. If travelling with neither parent (with grandparents, for example), both parents' consent is typically required. Requirements change and vary by nationality, so verify with the official immigration authority of your destination.
 
-A consent letter should typically include the child's full name and date of birth, passport details, travel dates and destinations, and contact details for the absent parent(s). Some destinations have specific templates; the Canadian government, for example, [provides a sample consent letter format](https://travel.gc.ca/travelling/children/consent-letter).
+A consent letter should typically include the child's full name and date of birth, passport details, travel dates and destinations, and contact details for the absent parent(s). Some destinations have specific templates; the Canadian government, for example, provides a sample consent letter format.
 
 What this means in practice
 
@@ -102,6 +102,8 @@ You're boarding a flight to Canada with your 8-year-old child and your partner i
 Physical documents help until a thief takes your bag - and usually takes the copies along with the originals. A separate encrypted backup on your phone - kept offline - is your real insurance if the originals disappear.
 
 When your embassy needs to issue an emergency travel document, a secure backup gives them your passport number, date of issue, place of issue, and expiry date instantly, without internet access. For more on the options available, see our overview of [how to store passport copies safely](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/) and the trade-offs between different approaches.
+
+**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
 
 ## Frequently Asked Questions
 

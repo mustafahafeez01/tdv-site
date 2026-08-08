@@ -16,27 +16,27 @@ Source: https://traveldocumentvault.com/pt/blog/schengen-90-days-auto-tracked-ee
 - A UE publica uma **calculadora oficial de estadas curtas** que funciona bem, mas é manual - uma pessoa, uma janela, um cálculo de cada vez.
 - As famílias têm de lidar com **uma janela separada por pessoa**. É aí que o acompanhamento de limites de dias numa aplicação se torna importante.
 
-Na sua última viagem para a Europa provavelmente recebeu um carimbo na fronteira. Esse carimbo desapareceu. Desde 10 de abril de 2026, o Sistema de Entrada/Saída da UE (EES) está [totalmente operacional em todo o Espaço Schengen](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en), e a tinta desbotada que outrora registava as suas viagens foi substituída por um registo digital que começa no momento em que atravessa.
+Na sua última viagem para a Europa provavelmente recebeu um carimbo na fronteira. Esse carimbo desapareceu. Desde 10 de abril de 2026, o Sistema de Entrada/Saída da UE (EES) está totalmente operacional em todo o Espaço Schengen, e a tinta desbotada que outrora registava as suas viagens foi substituída por um registo digital que começa no momento em que atravessa.
 
 Para qualquer um que conte dias do Schengen - e cada visitante não-UE deveria fazê-lo - isto muda consideravelmente as apostas. Eis o que o novo sistema realmente faz, o que deliberadamente não faz, e como manter a sua própria contagem para que uma fronteira nunca o surpreenda.
 
 ## O Que Mudou nas Fronteiras Europeias
 
-O EES regista as impressões digitais de cada viajante não-UE, imagem facial, documento de viagem e datas exatas de entrada e saída. O sistema tinha registado [mais de 52 milhões de passagens de fronteira](https://home-affairs.ec.europa.eu/policies/schengen/smart-borders/entry-exit-system_en) entre o seu lançamento faseado em outubro de 2025 e funcionamento completo esta primavera, e mais de 27 000 pessoas foram recusadas durante esse período. O registo pela primeira vez demora alguns minutos no quiosque, e os aeroportos tiveram [filas de várias horas](https://www.euronews.com/travel/2026/07/01/ees-at-a-critical-point-europes-aviation-sector-urges-eu-to-show-more-flexibility) em horários de ponta este verão enquanto toda a gente se habitua.
+O EES regista as impressões digitais de cada viajante não-UE, imagem facial, documento de viagem e datas exatas de entrada e saída. O sistema tinha registado mais de 52 milhões de passagens de fronteira entre o seu lançamento faseado em outubro de 2025 e funcionamento completo esta primavera, e mais de 27 000 pessoas foram recusadas durante esse período. O registo pela primeira vez demora alguns minutos no quiosque, e os aeroportos tiveram filas de várias horas em horários de ponta este verão enquanto toda a gente se habitua.
 
-Nem toda a gente está registada. Cidadãos da UE, residentes de países Schengen e titulares de vistos de longa duração estão [isentos](https://travel-europe.europa.eu/ees/ltr/to-whom-does-ees-not-apply). Se está em visita com a autorização de estada curta isenta de visto - por exemplo, a maioria dos viajantes britânicos, americanos, canadianos e australianos - o EES aplica-se a si.
+Nem toda a gente está registada. Cidadãos da UE, residentes de países Schengen e titulares de vistos de longa duração estão isentos. Se está em visita com a autorização de estada curta isenta de visto - por exemplo, a maioria dos viajantes britânicos, americanos, canadianos e australianos - o EES aplica-se a si.
 
 ## A Regra 90/180 Sob um Sistema Que Nunca Pisca
 
 A regra em si não mudou: pode passar no máximo 90 dias dentro do Espaço Schengen em qualquer janela móvel de 180 dias. Isto não é 90 dias por ano de calendário, e a janela não reseta quando sai. Para cada dia que está presente, os 180 dias anteriores não devem conter mais de 90 dias de estada.
 
-O que mudou é a aplicação. Com carimbos no passaporte, provar uma ultrapassagem significava descodificar tinta desbotada, e os oficiais de fronteira tinham discrição. Agora as datas são exatas, e o sistema sinaliza uma ultrapassagem no momento em que acontece. Espere [recusa na sua próxima entrada](https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en), e em muitos casos uma proibição de entrada de um a cinco anos, que os oficiais registam no Sistema de Informações Schengen. A margem para erro passou de confusa para zero.
+O que mudou é a aplicação. Com carimbos no passaporte, provar uma ultrapassagem significava descodificar tinta desbotada, e os oficiais de fronteira tinham discrição. Agora as datas são exatas, e o sistema sinaliza uma ultrapassagem no momento em que acontece. Espere recusa na sua próxima entrada, e em muitos casos uma proibição de entrada de um a cinco anos, que os oficiais registam no Sistema de Informações Schengen. A margem para erro passou de confusa para zero.
 
 ## A Pegadinha: O EES Faz Cumprir, Não Planeia
 
-O EES conta os seus dias para aplicação, mas não lhe diz o número. Não existe um portal público onde possa iniciar sessão e ver "47 dias restantes"; a [aplicação Travel to Europe](https://travel-europe.europa.eu/ees/Travel-to-Europe-mobile-app) trata do pré-registo antes de voar, não da contagem de dias após chegar. O sistema regista o que fez; prever o que ainda pode fazer continua inteiramente seu problema.
+O EES conta os seus dias para aplicação, mas não lhe diz o número. Não existe um portal público onde possa iniciar sessão e ver "47 dias restantes"; a aplicação Travel to Europe trata do pré-registo antes de voar, não da contagem de dias após chegar. O sistema regista o que fez; prever o que ainda pode fazer continua inteiramente seu problema.
 
-A UE publica uma [calculadora oficial de estadas curtas](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) que vale a pena marcar como favorita. Introduz as suas datas anteriores de entrada e saída, e ela diz-lhe se uma estada planeada se encaixa dentro da sua janela. Funciona bem para um viajante que mantém bons registos. O atrito aparece quando os registos vivem na sua memória, ou quando está a fazer o exercício para quatro pessoas ao mesmo tempo.
+A UE publica uma calculadora oficial de estadas curtas que vale a pena marcar como favorita. Introduz as suas datas anteriores de entrada e saída, e ela diz-lhe se uma estada planeada se encaixa dentro da sua janela. Funciona bem para um viajante que mantém bons registos. O atrito aparece quando os registos vivem na sua memória, ou quando está a fazer o exercício para quatro pessoas ao mesmo tempo.
 
 ## Como Acompanhar a Sua Janela na Prática
 
@@ -57,6 +57,8 @@ Uma nota de honestidade: nenhuma aplicação pode ler o seu registo EES, a nossa
 ## Um Passo à Frente da Fronteira
 
 A fronteira digital é completa, automática e sem sentimentalismos, mas manter-se dentro da regra 90/180 nunca foi sobre a fronteira - é sobre conhecer as suas próprias datas antes de reservar. Mantenha o histórico da sua viagem num lugar fiável, faça as contas antes de se comprometer a viajar, e trate a contagem como parte do planeamento em vez de algo a reconstruir no balcão. O EES vai fazer a aplicação. O planeamento continua seu, e é a metade mais barata a acertar.
+
+**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
 
 ## Perguntas Frequentes
 

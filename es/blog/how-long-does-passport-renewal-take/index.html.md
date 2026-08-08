@@ -36,7 +36,7 @@ Las citas urgentes en agencia están disponibles si tienes viaje documentado den
 
 EE.UU. ofrece un programa de renovación en línea para adultos elegibles. Para calificar, debes estar renovando un libro de pasaporte estadounidense que fue emitido cuando tenías 16 años o más. Verifica travel.state.gov para ver si eres elegible y si el programa está aceptando actualmente solicitudes.
 
-**Una salvedad importante: los tiempos publicados son promedios, no garantías.** Consulta [travel.state.gov](https://travel.state.gov/content/travel/en/passports/how-apply/processing-times.html) para tiempos actuales antes de aplicar porque, durante demanda pico (enero hasta marzo y junio hasta agosto), el procesamiento rutinario regularmente se extiende bien más allá de las estimaciones publicadas. Si tu viaje cae dentro de tres meses, considera pagar los $60 extras por procesamiento acelerado - el costo modesto es ampliamente superado por la certeza y flexibilidad de programación que proporciona.
+**Una salvedad importante: los tiempos publicados son promedios, no garantías.** Consulta travel.state.gov para tiempos actuales antes de aplicar porque, durante demanda pico (enero hasta marzo y junio hasta agosto), el procesamiento rutinario regularmente se extiende bien más allá de las estimaciones publicadas. Si tu viaje cae dentro de tres meses, considera pagar los $60 extras por procesamiento acelerado - el costo modesto es ampliamente superado por la certeza y flexibilidad de programación que proporciona.
 
 Qué significa esto en la práctica
 
@@ -53,9 +53,9 @@ HM Passport Office procesa renovaciones del Reino Unido. Estos son los cronogram
 | Renovación digital en línea | Varía | Solo adultos elegibles; típicamente más rápido |
 | Premium (mismo día) | Mismo día | Disponibilidad limitada; cita requerida en oficinas específicas |
 
-El Reino Unido ofrece un servicio de renovación digital para adultos elegibles solicitando desde **dentro del Reino Unido**. Si calificas, no necesitas enviar tu pasaporte anterior. La aplicación se completa en línea y es generalmente más rápida que la ruta postal. **Si eres ciudadano británico viviendo en el extranjero** (un expatriado), el servicio digital no está disponible para ti. Debes usar el servicio de pasaporte de ultramar en GOV.UK, que sí requiere enviar tu pasaporte actual a HMPO. Los tiempos de procesamiento para aplicaciones en el extranjero pueden ser más largos que la estimación estándar de 10 semanas del Reino Unido. Consulta [GOV.UK](https://www.gov.uk/apply-renew-passport) para el servicio correcto para tu situación, que pregunta tu ubicación al inicio de la aplicación.
+El Reino Unido ofrece un servicio de renovación digital para adultos elegibles solicitando desde **dentro del Reino Unido**. Si calificas, no necesitas enviar tu pasaporte anterior. La aplicación se completa en línea y es generalmente más rápida que la ruta postal. **Si eres ciudadano británico viviendo en el extranjero** (un expatriado), el servicio digital no está disponible para ti. Debes usar el servicio de pasaporte de ultramar en GOV.UK, que sí requiere enviar tu pasaporte actual a HMPO. Los tiempos de procesamiento para aplicaciones en el extranjero pueden ser más largos que la estimación estándar de 10 semanas del Reino Unido. Consulta GOV.UK para el servicio correcto para tu situación, que pregunta tu ubicación al inicio de la aplicación.
 
-Esa cifra de 10 semanas asume que todo va sin problemas. Un cambio de nombre, un primer pasaporte de adulto, o cualquier aplicación que requiera verificaciones extras tomará más tiempo. Los pasaportes de niños no pueden usar el servicio digital en absoluto - van a través del proceso estándar únicamente. Antes de aplicar, consulta [GOV.UK](https://www.gov.uk/apply-renew-passport) para tiempos actuales relevantes a tu situación.
+Esa cifra de 10 semanas asume que todo va sin problemas. Un cambio de nombre, un primer pasaporte de adulto, o cualquier aplicación que requiera verificaciones extras tomará más tiempo. Los pasaportes de niños no pueden usar el servicio digital en absoluto - van a través del proceso estándar únicamente. Antes de aplicar, consulta GOV.UK para tiempos actuales relevantes a tu situación.
 
 ## ¿Cuánto tiempo tarda la renovación de pasaporte en Australia?
 
@@ -67,7 +67,7 @@ La Oficina de Pasaportes Australiana publica estos cronogramas para adultos soli
 | Seguimiento rápido | Procesado dentro de 5 días hábiles | Tarifa adicional |
 | Prioritario | Procesado dentro de 2 días hábiles | Tarifa adicional; condiciones de elegibilidad aplican |
 
-Los tiempos de procesamiento estándar de Australia son generalmente mejores que EE.UU. y Reino Unido, pero pueden estirarse durante períodos pico. La Oficina de Pasaportes Australiana recomienda aplicar al menos seis semanas antes del viaje si vas estándar - consulta [passports.gov.au](https://www.passports.gov.au) para tiempos actuales.
+Los tiempos de procesamiento estándar de Australia son generalmente mejores que EE.UU. y Reino Unido, pero pueden estirarse durante períodos pico. La Oficina de Pasaportes Australiana recomienda aplicar al menos seis semanas antes del viaje si vas estándar - consulta passports.gov.au para tiempos actuales.
 
 Las aplicaciones de pasaporte infantil son una historia diferente. Son más complejas y toman más tiempo que renovaciones de adultos, especialmente cuando requisitos de consentimiento de padres están involucrados.
 
@@ -82,7 +82,7 @@ Immigration, Refugees and Citizenship Canada (IRCC) procesa renovaciones de pasa
 | Urgente (viaje dentro de 5 días hábiles) | Mismo día o día siguiente | Prueba de viaje requerida; solo en persona |
 | Express (viaje dentro de 45 días) | 2-9 días hábiles | En persona en oficina de pasaportes |
 
-Canadá no ofrece renovación de pasaporte en línea. Cada aplicación va por correo o camina a través de una puerta de oficina Passport Canada. Eso hace el proceso más demandante logísticamente - especialmente si vives en algún lugar rural y la oficina de pasaportes más cercana está a horas de distancia. Consulta [la página de IRCC](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports.html) para tiempos de procesamiento actuales.
+Canadá no ofrece renovación de pasaporte en línea. Cada aplicación va por correo o camina a través de una puerta de oficina Passport Canada. Eso hace el proceso más demandante logísticamente - especialmente si vives en algún lugar rural y la oficina de pasaportes más cercana está a horas de distancia. Consulta la página de IRCC para tiempos de procesamiento actuales.
 
 **Establece un recordatorio de renovación ahora** - Travel Document Vault te notifica 6, 3 y 1 mes antes de que tu pasaporte venza, así que siempre estás renovando con tiempo de sobra. [Descarga desde App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
@@ -123,15 +123,17 @@ Tienes viaje reservado en las próximas pocas semanas y tu pasaporte está a pun
 
 Una cosa más vale la pena leer: la [regla de pasaporte de 6 meses](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/). Un pasaporte recién renovado aún necesita cumplir requisitos de validez de tu país de destino - y muchos viajeros se ven atrapados por esto.
 
+**Antes de fiarte de esto:** este artículo explica reglas generales, y las reglas generales son todo lo que puede ofrecer un blog. Los requisitos cambian y varían según la nacionalidad, el destino y la fecha del viaje. Consulta tu caso con la autoridad que emite el documento o con el servicio de información al viajero de tu gobierno antes de reservar. Revisamos lo que publicamos y aun así podemos equivocarnos o quedarnos desactualizados.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto tiempo tarda la renovación de pasaporte en EE.UU.?
 
-La renovación rutinaria de pasaporte estadounidense actualmente tarda 4-6 semanas. El procesamiento acelerado reduce eso a alrededor de 2-3 semanas por $60 adicionales. Si tu viaje es dentro de 14 días, puedes reservar una cita urgente en una agencia de pasaportes regional - pero necesitarás prueba de viaje inminente. Consulta [travel.state.gov](https://travel.state.gov/content/travel/en/passports/how-apply/processing-times.html) para tiempos actuales antes de aplicar.
+La renovación rutinaria de pasaporte estadounidense actualmente tarda 4-6 semanas. El procesamiento acelerado reduce eso a alrededor de 2-3 semanas por $60 adicionales. Si tu viaje es dentro de 14 días, puedes reservar una cita urgente en una agencia de pasaportes regional - pero necesitarás prueba de viaje inminente. Consulta travel.state.gov para tiempos actuales antes de aplicar.
 
 ### ¿Cuánto tiempo tarda la renovación de pasaporte en el Reino Unido?
 
-HM Passport Office actualmente dice que normalmente obtendrás tu pasaporte dentro de 3 semanas, y aconseja no reservar viajes hasta que llegue. Los adultos elegibles solicitando desde dentro del Reino Unido pueden usar el servicio de renovación digital, que no requiere enviar tu pasaporte. Si estás fuera del Reino Unido, debes usar el servicio de ultramar que requiere enviar tu pasaporte actual. Para casos urgentes, hay disponibles opciones de seguimiento rápido de 1 semana y cita premium de mismo día. Consulta [GOV.UK](https://www.gov.uk/apply-renew-passport) para tiempos actuales.
+HM Passport Office actualmente dice que normalmente obtendrás tu pasaporte dentro de 3 semanas, y aconseja no reservar viajes hasta que llegue. Los adultos elegibles solicitando desde dentro del Reino Unido pueden usar el servicio de renovación digital, que no requiere enviar tu pasaporte. Si estás fuera del Reino Unido, debes usar el servicio de ultramar que requiere enviar tu pasaporte actual. Para casos urgentes, hay disponibles opciones de seguimiento rápido de 1 semana y cita premium de mismo día. Consulta GOV.UK para tiempos actuales.
 
 ### ¿Cuánto tiempo tarda la renovación de pasaporte en Australia?
 
@@ -139,7 +141,7 @@ La Oficina de Pasaportes Australiana actualmente aconseja permitir al menos 6 se
 
 ### ¿Puedo renovar mi pasaporte en línea?
 
-EE.UU. ofrece un programa de renovación en línea para adultos elegibles que obtuvieron su pasaporte a los 16 años o más - consulta [travel.state.gov](https://travel.state.gov) para elegibilidad actual. El Reino Unido ofrece una opción de renovación digital para adultos elegibles solicitando desde dentro del Reino Unido - los solicitantes en el extranjero deben usar un servicio separado. Australia y Canadá ambos requieren presentación en persona para la mayoría de renovaciones. Siempre consulta el sitio web oficial de tu país para reglas de elegibilidad actuales.
+EE.UU. ofrece un programa de renovación en línea para adultos elegibles que obtuvieron su pasaporte a los 16 años o más - consulta travel.state.gov para elegibilidad actual. El Reino Unido ofrece una opción de renovación digital para adultos elegibles solicitando desde dentro del Reino Unido - los solicitantes en el extranjero deben usar un servicio separado. Australia y Canadá ambos requieren presentación en persona para la mayoría de renovaciones. Siempre consulta el sitio web oficial de tu país para reglas de elegibilidad actuales.
 
 ### ¿Qué debo hacer si mi pasaporte está venciendo y tengo viaje reservado?
 

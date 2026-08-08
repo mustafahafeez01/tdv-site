@@ -22,15 +22,15 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/schengen-passport-rules-fam
 
 ## 真正的申根规则：离开时需要3个月有效期
 
-欧盟的要求非常明确：你的护照必须[在你打算离开申根区的日期之后至少还有3个月的有效期](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm)，而且必须在过去10年内签发。
+欧盟的要求非常明确：你的护照必须在你打算离开申根区的日期之后至少还有3个月的有效期，而且必须在过去10年内签发。
 
 假设你的家庭于8月20日从意大利返回。每本护照需要至少到11月20日都有效，也就是说，离开日期之后的三个月，而不是到达日期，也不是预订日期。一本在11月10日失效的护照无法通过这个测试，即使假期本身在数周前就结束了。
 
-10年内签发条件对英国家庭有特定的影响。较早的英国护照可以从之前的护照增加未使用的月份，所以有些护照显示的有效期超过10年。对于申根入境，[这些额外的月份不算数](https://www.gov.uk/government/publications/restricted-validity-passports/restricted-validity-passports-accessible)：护照必须在你入境当天不超过10年，无论护照内页上打印的失效日期是什么。
+10年内签发条件对英国家庭有特定的影响。较早的英国护照可以从之前的护照增加未使用的月份，所以有些护照显示的有效期超过10年。对于申根入境，这些额外的月份不算数：护照必须在你入境当天不超过10年，无论护照内页上打印的失效日期是什么。
 
 ## 为什么这不是6个月规则
 
-大多数旅行者会认为护照需要六个月的有效期才能去任何地方。这个规则是真实的，[泰国要求6个月的有效期](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements)，许多其他国家也使用类似的规则。但申根不要求。欧洲要求离开后的三个月，这更宽松，但这两个规则却被混在了一起，变成了一个模糊的"从某处开始的6个月"，既产生了错误的警报，也产生了错误的信心。
+大多数旅行者会认为护照需要六个月的有效期才能去任何地方。这个规则是真实的，泰国要求6个月的有效期，许多其他国家也使用类似的规则。但申根不要求。欧洲要求离开后的三个月，这更宽松，但这两个规则却被混在了一起，变成了一个模糊的"从某处开始的6个月"，既产生了错误的警报，也产生了错误的信心。
 
 我们的[6个月规则指南](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)涵盖了哪些国家实际执行它。我们的[护照有效期解释器](https://traveldocumentvault.com/zh-Hans/blog/how-long-is-passport-valid-for-travel/)处理一般情况。我们在这里坚持申根，因为这是家庭最容易在数学上出错的地方。
 
@@ -45,15 +45,15 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/schengen-passport-rules-fam
 | 加拿大 | 16岁以下 | 5年 |
 | 澳大利亚 | 所有儿童 | 5年 |
 
-来源：[美国国务院](https://travel.state.gov/content/travel/en/passports/need-passport/under-16.html)，[GOV.UK](https://www.gov.uk/get-a-child-passport)，[Canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/child-passport.html)，[澳大利亚护照办公室](https://www.passports.gov.au/child-passport)。
+来源：美国国务院，GOV.UK，Canada.ca，澳大利亚护照办公室。
 
 因此，一个四口之家在四个不同的失效时间表上运作。最早的日期决定了这个行程是否进行。两位一起续签的成年人会在几年内与他们孩子的文件分开，这正是为什么检查自己的护照几乎无法告诉你家庭是否准备好了。
 
-对于美国家庭来说，还有一个额外的问题：儿童护照[无法通过邮件续签](https://travel.state.gov/content/travel/en/passports/need-passport/under-16.html)。每次续签都需要新的亲自申请和[常规处理目前需要几周](https://travel.state.gov/content/travel/en/passports/how-apply/processing-times.html)加上往返邮寄时间，三月份还是可以处理的，但在出发前两周就变成了一个真正的问题。英国家庭稍微容易一些：只需[查阅当前的处理时间](https://www.gov.uk/get-a-child-passport)，并在需要更多信息时预留额外时间。
+对于美国家庭来说，还有一个额外的问题：儿童护照无法通过邮件续签。每次续签都需要新的亲自申请和常规处理目前需要几周加上往返邮寄时间，三月份还是可以处理的，但在出发前两周就变成了一个真正的问题。英国家庭稍微容易一些：只需查阅当前的处理时间，并在需要更多信息时预留额外时间。
 
 ## 登机现实：Timatic不会四舍五入
 
-无论边境可能容忍什么，你会更早遇到规则，这就是登机柜台。航空公司根据[IATA的Timatic数据库](https://www.iata.org/en/services/compliance/timatic/travel-documentation/)验证每本护照，它准确应用每个目的地的入境要求。如果你的返回日期需要有效期到11月20日，而护照在11月15日失效，系统说不行。没有"足够接近"，也没有例外，航空公司如果让一个不符合条件的乘客登机，必须自费将他们送回家。
+无论边境可能容忍什么，你会更早遇到规则，这就是登机柜台。航空公司根据IATA的Timatic数据库验证每本护照，它准确应用每个目的地的入境要求。如果你的返回日期需要有效期到11月20日，而护照在11月15日失效，系统说不行。没有"足够接近"，也没有例外，航空公司如果让一个不符合条件的乘客登机，必须自费将他们送回家。
 
 一本不符合要求的护照很少只让一个人被困，它会影响整个家庭。很少有父母会让三个成员继续前行而在柜台留下一个人，所以实际上整个预订都需要重新安排或取消。
 
@@ -61,9 +61,11 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/schengen-passport-rules-fam
 
 解决方法很简单，只需几分钟。在预订当天，收集家庭中的每本护照，记下每本护照的失效日期和签发日期。然后为每一本护照提出两个问题：它在你返回后三个月还能有效吗，它是在不超过10年前签发的吗？任何不符合任一条件的护照都应该在那一周进入续签队列。此时，你仍然可以续签、改变行程或在不受处罚的情况下改变日期。
 
-儿童需要与成人相同的缓冲。儿童[对有效期规则没有例外](https://europa.eu/youreurope/citizens/travel/entry-exit/travel-documents-minors/index_en.htm)，五岁儿童的护照会得到与你相同的Timatic处理。英国和爱尔兰之旅有一个特殊情况：爱尔兰根本不在申根区。英国-爱尔兰旅行在单独的[共同旅行区](https://www.gov.ie/en/department-of-foreign-affairs/publications/the-common-travel-area/)下运作，所以不要从都柏林旅行推断到巴黎旅行。
+儿童需要与成人相同的缓冲。儿童对有效期规则没有例外，五岁儿童的护照会得到与你相同的Timatic处理。英国和爱尔兰之旅有一个特殊情况：爱尔兰根本不在申根区。英国-爱尔兰旅行在单独的共同旅行区下运作，所以不要从都柏林旅行推断到巴黎旅行。
 
 这一切都不需要应用程序。电子表格对很多家庭很有帮助，每半年的日历提醒处理大部分工作。唯一不可协商的：在预订时进行审计，当短护照仍然是一个小差事时，而不是紧急情况。
+
+**在依据本文行动之前：**本文说明的是一般规则，而一般规则也是任何博客所能提供的全部。要求会变化，并且因国籍、目的地和出行日期而异。预订前请向签发机构或本国的出行提示服务核实你的具体情况。我们会核对所发布的内容，但仍可能出错或过时。
 
 ## 常见问题
 
@@ -77,7 +79,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/schengen-passport-rules-fam
 
 ### 在旅行前应该何时为儿童续签护照？
 
-在预订时立即检查护照在你的返回日期之后是否还有3个月的有效期。如果没有，立即开始申请。查阅[当前英国的处理时间](https://www.gov.uk/get-a-child-passport)，如果申请需要更多信息，需要预留更多时间。美国的常规处理需要几周加上邮寄时间。美国儿童护照也需要新的亲自申请，而不是续签。
+在预订时立即检查护照在你的返回日期之后是否还有3个月的有效期。如果没有，立即开始申请。查阅当前英国的处理时间，如果申请需要更多信息，需要预留更多时间。美国的常规处理需要几周加上邮寄时间。美国儿童护照也需要新的亲自申请，而不是续签。
 
 ### 儿童护照正在续签时能否飞行？
 

@@ -38,10 +38,10 @@ Source: https://traveldocumentvault.com/ja/blog/lost-passport-abroad/
 
 大使館または領事館があなたの帰国への道です。警察届を取得したら、直ちに彼らに連絡してください。公式な緊急連絡先：
 
-- **イギリス国民：** [GOV.UK緊急領事支援](https://www.gov.uk/contact-consulate-if-british-national-needs-help)
-- **アメリカ国民：** [travel.state.gov - 紛失または盗まれたパスポート](https://travel.state.gov/content/travel/en/international-travel/emergencies/lost-stolen-passports.html)
-- **オーストラリア国民：** [Smartraveller - 紛失または盗まれたパスポート](https://www.smartraveller.gov.au/while-youre-away/passport-problems/lost-or-stolen-passport)
-- **カナダ国民：** [Canada.ca - 海外での紛失または盗まれたパスポート](https://travel.gc.ca/assistance/emergency-info/lost-stolen-passport)
+- **イギリス国民：** GOV.UK緊急領事支援
+- **アメリカ国民：** travel.state.gov - 紛失または盗まれたパスポート
+- **オーストラリア国民：** Smartraveller - 紛失または盗まれたパスポート
+- **カナダ国民：** Canada.ca - 海外での紛失または盗まれたパスポート
 
 訪問する前に電話してください。多くの大使館は緊急パスポート サービスの予約を要求しており、正確に何を持参するかを教えてくれます。予約なしに現れると、半日を失う可能性があります。
 
@@ -75,6 +75,8 @@ Source: https://traveldocumentvault.com/ja/blog/lost-passport-abroad/
 ## ステップ7：帰国し、パスポートを交換する
 
 緊急旅行書類を取得したら、必要に応じて現地入国管理局に出国要件を確認し、旅行をリブックまたは確認してください。帰国後、公式なパスポート当局を通じて完全な交換パスポートを申請し、次の旅行の前にすべての旅行書類のセキュアなデジタルバックアップを設定してください。
+
+**この記事に頼る前に:** 本記事は一般的なルールを説明したものであり、ブログに書けるのは一般論までです。要件は変わりますし、国籍・渡航先・渡航日によって異なります。予約の前に、発行機関またはお住まいの国の渡航情報サービスでご自身のケースをご確認ください。掲載内容は確認していますが、それでも誤りや古い情報が含まれる可能性があります。
 
 ## よくある質問
 

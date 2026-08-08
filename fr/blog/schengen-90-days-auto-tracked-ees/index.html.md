@@ -16,27 +16,27 @@ Source: https://traveldocumentvault.com/fr/blog/schengen-90-days-auto-tracked-ee
 - La **calculatrice officielle de court séjour** de l'UE fonctionne, mais elle est manuelle - une personne, une fenêtre, un calcul à la fois.
 - Les familles jonglent avec **une fenêtre séparée par personne**. C'est là que le suivi des limites de jours dans une application trouve sa place.
 
-Lors de votre dernier voyage en Europe, vous avez probablement reçu un tampon à la frontière. Ce tampon a disparu. Depuis le 10 avril 2026, le système d'entrée/sortie (EES) de l'UE est [entièrement opérationnel dans toute la zone Schengen](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en), et l'encre barbouillée qui enregistrait autrefois vos voyages a été remplacée par un enregistrement numérique qui commence dès que vous franchissez la frontière.
+Lors de votre dernier voyage en Europe, vous avez probablement reçu un tampon à la frontière. Ce tampon a disparu. Depuis le 10 avril 2026, le système d'entrée/sortie (EES) de l'UE est entièrement opérationnel dans toute la zone Schengen, et l'encre barbouillée qui enregistrait autrefois vos voyages a été remplacée par un enregistrement numérique qui commence dès que vous franchissez la frontière.
 
 Pour ceux qui comptent les jours Schengen - et tout visiteur non-UE devrait le faire - cela change considérablement les enjeux. Voici ce que le nouveau système fait réellement, ce qu'il fait délibérément pas, et comment tenir votre propre comptage pour qu'une frontière ne vous surprenne jamais.
 
 ## Ce qui a changé aux frontières de l'Europe
 
-Le EES enregistre les empreintes digitales, l'image faciale, le document de voyage et les dates d'entrée et de sortie exactes de chaque voyageur non-UE. Le système avait enregistré [plus de 52 millions de passages frontaliers](https://home-affairs.ec.europa.eu/policies/schengen/smart-borders/entry-exit-system_en) entre son lancement progressif en octobre 2025 et son fonctionnement complet ce printemps, et plus de 27 000 personnes ont été refusées à l'entrée pendant cette période. L'enregistrement pour la première fois prend quelques minutes au guichet, et les aéroports ont [signalé des files d'attente de plusieurs heures](https://www.euronews.com/travel/2026/07/01/ees-at-a-critical-point-europes-aviation-sector-urges-eu-to-show-more-flexibility) aux heures de pointe cet été pendant que tout le monde s'y adapte.
+Le EES enregistre les empreintes digitales, l'image faciale, le document de voyage et les dates d'entrée et de sortie exactes de chaque voyageur non-UE. Le système avait enregistré plus de 52 millions de passages frontaliers entre son lancement progressif en octobre 2025 et son fonctionnement complet ce printemps, et plus de 27 000 personnes ont été refusées à l'entrée pendant cette période. L'enregistrement pour la première fois prend quelques minutes au guichet, et les aéroports ont signalé des files d'attente de plusieurs heures aux heures de pointe cet été pendant que tout le monde s'y adapte.
 
-Pas tout le monde est enregistré. Les citoyens de l'UE, les résidents des pays Schengen et les titulaires de visas de long séjour sont [exemptés](https://travel-europe.europa.eu/ees/ltr/to-whom-does-ees-not-apply). Si vous visitez en vertu de l'autorisation de court séjour sans visa - la plupart des voyageurs britanniques, américains, canadiens et australiens, par exemple - le EES s'applique à vous.
+Pas tout le monde est enregistré. Les citoyens de l'UE, les résidents des pays Schengen et les titulaires de visas de long séjour sont exemptés. Si vous visitez en vertu de l'autorisation de court séjour sans visa - la plupart des voyageurs britanniques, américains, canadiens et australiens, par exemple - le EES s'applique à vous.
 
 ## La règle 90/180 sous un système qui ne cligne jamais
 
 La règle elle-même n'a pas changé: vous pouvez passer au maximum 90 jours à l'intérieur de la zone Schengen dans toute fenêtre glissante de 180 jours. Ce n'est pas 90 jours par année civile, et la fenêtre ne se réinitialise pas lorsque vous partez. Pour chaque jour où vous êtes présent, les 180 jours précédents ne doivent pas contenir plus de 90 jours de séjour.
 
-Ce qui a changé, c'est l'application. Avec les tampons de passeport, prouver un dépassement signifiait déchiffrer de l'encre fanée, et les agents frontaliers avaient une certaine discrétion. Maintenant, les dates sont exactes, et le système signale un dépassement au moment où il se produit. Attendez-vous à un [refus à votre prochaine entrée](https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en), et dans de nombreux cas, une interdiction d'entrée de un à cinq ans, que les autorités enregistrent dans le Système d'information Schengen. La marge d'erreur est passée de floue à zéro.
+Ce qui a changé, c'est l'application. Avec les tampons de passeport, prouver un dépassement signifiait déchiffrer de l'encre fanée, et les agents frontaliers avaient une certaine discrétion. Maintenant, les dates sont exactes, et le système signale un dépassement au moment où il se produit. Attendez-vous à un refus à votre prochaine entrée, et dans de nombreux cas, une interdiction d'entrée de un à cinq ans, que les autorités enregistrent dans le Système d'information Schengen. La marge d'erreur est passée de floue à zéro.
 
 ## Le hic: le EES applique, il ne planifie pas
 
-Le EES compte vos jours pour l'application, mais il ne vous dit pas le nombre. Il n'existe aucun portail public où vous pouvez vous connecter et voir "47 jours restants"; l'[application Travel to Europe](https://travel-europe.europa.eu/ees/Travel-to-Europe-mobile-app) gère la pré-enregistrement avant votre vol, pas les comptages de jours après votre arrivée. Le système enregistre ce que vous avez fait; prévoir ce que vous pouvez encore faire reste entièrement votre problème.
+Le EES compte vos jours pour l'application, mais il ne vous dit pas le nombre. Il n'existe aucun portail public où vous pouvez vous connecter et voir "47 jours restants"; l'application Travel to Europe gère la pré-enregistrement avant votre vol, pas les comptages de jours après votre arrivée. Le système enregistre ce que vous avez fait; prévoir ce que vous pouvez encore faire reste entièrement votre problème.
 
-L'UE publie une [calculatrice officielle de court séjour](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) qui vaut vraiment la peine d'être mise en signet. Vous entrez vos dates d'entrée et de sortie passées, et elle vous indique si un séjour prévu s'inscrit dans votre fenêtre. Elle fonctionne bien pour une personne qui tient de bons dossiers. Les frictions apparaissent quand les dossiers vivent dans votre mémoire, ou quand vous faites l'exercice pour quatre personnes à la fois.
+L'UE publie une calculatrice officielle de court séjour qui vaut vraiment la peine d'être mise en signet. Vous entrez vos dates d'entrée et de sortie passées, et elle vous indique si un séjour prévu s'inscrit dans votre fenêtre. Elle fonctionne bien pour une personne qui tient de bons dossiers. Les frictions apparaissent quand les dossiers vivent dans votre mémoire, ou quand vous faites l'exercice pour quatre personnes à la fois.
 
 ## Comment suivre votre fenêtre en pratique
 
@@ -57,6 +57,8 @@ Une note d'honnêteté: aucune application ne peut lire votre dossier EES, y com
 ## Une longueur d'avance sur la frontière
 
 La frontière numérique est minutieuse, automatique et implacable, mais rester dans la règle 90/180 n'a jamais été question de frontière - c'est une question de connaître vos propres dates avant de réserver. Gardez votre historique de voyage quelque part de fiable, exécutez les chiffres avant de vous engager à voyager, et traitez le comptage comme faisant partie de la planification plutôt que quelque chose à reconstituer à la porte. Le EES fera l'application. La planification est toujours la vôtre, et c'est la partie moins chère à bien faire.
+
+**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
 
 ## Questions fréquemment posées
 

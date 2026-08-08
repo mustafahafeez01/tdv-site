@@ -22,7 +22,7 @@ Wenn Sie mit Kindern verreisen, ist das Verfolgung von fünf Pässen über die A
 
 Das Problem fängt klein an. Sie haben Ihren Pass, Ihr Ehepartner hat seinen/ihren. Dann bekommen Sie Kinder, und plötzlich haben Sie vier separate Dokumente mit vier separaten Ablaufdaten. Das menschliche Gehirn ist nicht dafür gebaut, vier verschiedene Erneuerungszeitpläne zu verfolgen, besonders wenn das Leben hektisch wird. Eine Person übernimmt standardmäßig alles - normalerweise die Person, die bereits alle anderen Reisevorbereitungen verwaltet - und dieser einzelne Ausfallpunkt wird zum Risiko.
 
-Das zweite Problem ist, dass Kinderreisepässe viel schneller verfallen als Erwachsenenpässe. [In den Vereinigten Staaten haben Gesundheitspässe für Kinder unter 16 Jahren eine Gültigkeit von 5 Jahren](https://travel.state.gov/content/travel/en/passports.html), während Erwachsenenpässe 10 Jahre gültig sind. [Das gleiche gilt im Vereinigten Königreich](https://www.gov.uk/apply-renew-passport) - Kinderausweis verfallen nach 5 Jahren, nicht 10. Dies bedeutet, dass der Pass Ihres jüngsten Kindes oft zum limitierenden Faktor für Familienreisen wird. Sie könnten einen Elternteil mit noch 8 Jahren Gültigkeit haben, aber wenn der Pass Ihres Jüngsten in 18 Monaten abläuft, das ist Ihr Planungshorizont.
+Das zweite Problem ist, dass Kinderreisepässe viel schneller verfallen als Erwachsenenpässe. In den Vereinigten Staaten haben Gesundheitspässe für Kinder unter 16 Jahren eine Gültigkeit von 5 Jahren, während Erwachsenenpässe 10 Jahre gültig sind. Das gleiche gilt im Vereinigten Königreich - Kinderausweis verfallen nach 5 Jahren, nicht 10. Dies bedeutet, dass der Pass Ihres jüngsten Kindes oft zum limitierenden Faktor für Familienreisen wird. Sie könnten einen Elternteil mit noch 8 Jahren Gültigkeit haben, aber wenn der Pass Ihres Jüngsten in 18 Monaten abläuft, das ist Ihr Planungshorizont.
 
 Die meisten Familien bemerken dies erst, wenn sie bereits eine Reise gebucht haben. Ein Elternteil findet die Pässe eine Woche vor der Abreise, scannt sie hastig beim Packen ein, und entdeckt, dass der Ausweis eines Kindes die 6-Monats-Gültigkeitsregel für sein Ziel nicht erfüllt. Die Reise ist nun gefährdet, oder benötigt eine eilige und teure Passerneuerung.
 
@@ -77,6 +77,8 @@ Die Lösung ist unkompliziert: Bewahren Sie Kopien aller Pässe in Ihrem System 
 - **Führerscheine.** Wenn Sie ein Auto mieten, benötigen Sie Führerscheine für alle Fahrer in Ihrer Gruppe. Diese haben auch Ablaufdaten, die Familien überraschen können.
 
 Behalten Sie alle diese an einem zugänglichen Ort auf. Die Panik, in Ihrem Telefon oder Ihrer Tasche am Flughafenschalter zu wühlen, flüchtige Fotos von Visumseiten zu erblicken - genau das verhindert dieses System.
+
+**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
 
 ## Häufig gestellte Fragen
 

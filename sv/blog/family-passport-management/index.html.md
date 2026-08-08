@@ -22,7 +22,7 @@ När du reser med barn blir det att hålla ordning på fem pass över två länd
 
 Problemet börjar litet. Du har ditt eget pass, din make eller maka har sitt. Sedan får du barn, och plötsligt har du fyra separata handlingar med fyra separata utgångsdatum. Människans hjärna är inte byggd för att spåra fyra olika förnyelsetidslinjer, särskilt när livet blir intensivt. En person blir standardperson för att hantera det hela - vanligtvis personen som redan hanterar all annan reselogistik - och den enkla felkällan blir en risk.
 
-Det andra problemet är att barnpass upphör att gälla mycket snabbare än vuxenpass. [I USA håller barnpass för under 16-åringar i 5 år](https://travel.state.gov/content/travel/en/passports.html), medan vuxenpass håller i 10 år. [Det samma gäller i Storbritannien](https://www.gov.uk/apply-renew-passport) - barns handlingar upphör att gälla efter 5 år, inte 10. Det betyder att ditt yngsta barns pass ofta blir begränsande faktorn för familjeresorna. Du kan ha en förälder med 8 år giltighet kvar, men om ditt yngstas pass upphör att gälla om 18 månader, är det din planeringshorizon.
+Det andra problemet är att barnpass upphör att gälla mycket snabbare än vuxenpass. I USA håller barnpass för under 16-åringar i 5 år, medan vuxenpass håller i 10 år. Det samma gäller i Storbritannien - barns handlingar upphör att gälla efter 5 år, inte 10. Det betyder att ditt yngsta barns pass ofta blir begränsande faktorn för familjeresorna. Du kan ha en förälder med 8 år giltighet kvar, men om ditt yngstas pass upphör att gälla om 18 månader, är det din planeringshorizon.
 
 De flesta familjer inser det här inte förrän de redan har bokat en resa. En förälder hittar passen en vecka före avresa, skannar dem hastigt medan packar, och upptäcker att ett barns handlingar inte klarar 6-månaders giltighetsregeln för deras destination. Resan är nu i fara, eller behöver en brådskande och dyr passförnyelse.
 
@@ -77,6 +77,8 @@ Utöver passet själv förtjänar flera andra handlingar en plats i ditt familje
 - **Körkortsbok.** Om du hyr en bil behöver du körkortsbok för alla förare i din grupp. Dessa har också utgångsdatum som kan fånga familjer.
 
 Behåll alla dessa på ett tillgängligt ställe. Panikken av att rota genom din telefon eller väska på flygplatsens skranken, sneda på suddig foton av visumsidor - det här är exakt vad det här systemet förhindrar.
+
+**Innan du förlitar dig på det här:** den här artikeln förklarar allmänna regler, och allmänna regler är allt en blogg kan erbjuda. Kraven ändras och varierar med medborgarskap, resmål och resdatum. Kontrollera ditt eget fall med den utfärdande myndigheten eller din regerings reseinformation innan du bokar. Vi kontrollerar det vi publicerar och kan ändå ha fel eller vara inaktuella.
 
 ## Vanliga frågor
 

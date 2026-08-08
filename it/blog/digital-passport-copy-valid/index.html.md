@@ -22,7 +22,7 @@ Quando pianifica un viaggio, molti viaggiatori si chiedono se possono conservare
 
 ### Check-in dell'Hotel
 
-La maggior parte degli hotel in tutto il mondo accetta copie digitali del passaporto al check-in - un PDF sul Suo telefono, inviato in anticipo via email, o stampato. Questo è particolarmente utile se sta facendo il check-in tardi o si muove tra diverse proprietà e non vuole portare con sé il Suo passaporto fisico per tutto il viaggio. Alcuni hotel più piccoli, in particolare nelle regioni con meno infrastrutture digitali, preferiscono ancora l'originale. In parti dell'Europa - Spagna, Francia e Italia tra loro - gli hotel devono registrare i Suoi dati per le autorità e generalmente vorranno vedere il passaporto fisico per farlo, anche se [le linee guida sulla protezione dei dati dicono che generalmente non dovrebbero conservare una copia](https://blogturismo.garrigues.com/en/information-technology/traveler-registration-is-it-legal-to-ask-for-a-photocopy-of-a-guests-id-card-or-passport-at-the-chek-in-desk-of-a-hotel). Contatti la Sua struttura in anticipo per confermare.
+La maggior parte degli hotel in tutto il mondo accetta copie digitali del passaporto al check-in - un PDF sul Suo telefono, inviato in anticipo via email, o stampato. Questo è particolarmente utile se sta facendo il check-in tardi o si muove tra diverse proprietà e non vuole portare con sé il Suo passaporto fisico per tutto il viaggio. Alcuni hotel più piccoli, in particolare nelle regioni con meno infrastrutture digitali, preferiscono ancora l'originale. In parti dell'Europa - Spagna, Francia e Italia tra loro - gli hotel devono registrare i Suoi dati per le autorità e generalmente vorranno vedere il passaporto fisico per farlo, anche se le linee guida sulla protezione dei dati dicono che generalmente non dovrebbero conservare una copia. Contatti la Sua struttura in anticipo per confermare.
 
 ### Prenotazioni di Voli e Check-in Online
 
@@ -72,6 +72,8 @@ Le copie del passaporto contengono informazioni di identità sensibili: nome com
 **Travel Document Vault** conserva copie crittografate di tutti i Suoi documenti di viaggio sul dispositivo. AES-256 crittografato sul Suo telefono, nessun account richiesto. Backup crittografato facoltativo sul Suo iCloud o Google Drive personale (Pro) sigillato con un codice di recupero solo Lei possiede. [Disponibile sull'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 Se si sta chiedendo se l'archiviazione cloud è sicura per le copie del passaporto, consulti la Nostra guida su [l'archiviazione dei passaporti in Google Foto](https://traveldocumentvault.com/it/blog/is-it-safe-to-store-passport-in-google-photos/). Spiega perché un'app crittografata dedicata offre una protezione più forte.
+
+**Prima di farci affidamento:** questo articolo spiega regole generali, e le regole generali sono tutto ciò che un blog può offrire. I requisiti cambiano e variano in base a cittadinanza, destinazione e data del viaggio. Verifica il tuo caso con l'autorità che rilascia il documento o con il servizio informazioni viaggi del tuo governo prima di prenotare. Controlliamo quello che pubblichiamo e possiamo comunque sbagliare o essere superati.
 
 ## Domande Frequenti
 

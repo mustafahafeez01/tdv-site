@@ -38,7 +38,7 @@ Urgent agency appointments are available if you have documented travel within 14
 
 The US offers an online renewal program for eligible adults. To qualify, you must be renewing a US passport book that was issued when you were 16 or older. Check travel.state.gov to see if you're eligible and whether the program is currently accepting applications.
 
-**One important caveat: published times are averages, not guarantees.** Check [travel.state.gov](https://travel.state.gov/content/travel/en/passports/how-apply/processing-times.html) for current times before applying because, during peak demand (January through March and June through August), routine processing regularly stretches well beyond the published estimates. If your trip falls within three months, consider paying the extra $60 for expedited processing - the modest cost is far outweighed by the certainty and scheduling flexibility it provides.
+**One important caveat: published times are averages, not guarantees.** Check travel.state.gov for current times before applying because, during peak demand (January through March and June through August), routine processing regularly stretches well beyond the published estimates. If your trip falls within three months, consider paying the extra $60 for expedited processing - the modest cost is far outweighed by the certainty and scheduling flexibility it provides.
 
 What this means in practice
 
@@ -55,9 +55,9 @@ HM Passport Office processes UK renewals. These are the typical timelines:
 | Online Digital Renewal | Varies | Eligible adults only; typically faster |
 | Premium (same-day) | Same day | Limited availability; appointment required at specific offices |
 
-The UK offers a digital renewal service for eligible adults applying from **within the UK**. If you qualify, you don't need to post your old passport. The application is completed online and is generally faster than the postal route. **If you are a UK citizen living abroad** (an expat), the digital service is not available to you. You must use the overseas passport service at GOV.UK, which does require posting your current passport to HMPO. Processing times for overseas applications can be longer than the standard 10-week UK estimate. Check [GOV.UK](https://www.gov.uk/apply-renew-passport) for the correct service for your situation, which asks for your location at the start of the application.
+The UK offers a digital renewal service for eligible adults applying from **within the UK**. If you qualify, you don't need to post your old passport. The application is completed online and is generally faster than the postal route. **If you are a UK citizen living abroad** (an expat), the digital service is not available to you. You must use the overseas passport service at GOV.UK, which does require posting your current passport to HMPO. Processing times for overseas applications can be longer than the standard 10-week UK estimate. Check GOV.UK for the correct service for your situation, which asks for your location at the start of the application.
 
-That 10-week figure assumes everything goes smoothly. A name change, a first adult passport, or any application requiring extra checks will take longer. Children's passports can't use the digital service at all - they go through the standard process only. Before applying, check [GOV.UK](https://www.gov.uk/apply-renew-passport) for current times relevant to your situation.
+That 10-week figure assumes everything goes smoothly. A name change, a first adult passport, or any application requiring extra checks will take longer. Children's passports can't use the digital service at all - they go through the standard process only. Before applying, check GOV.UK for current times relevant to your situation.
 
 ## How Long Does Passport Renewal Take in Australia?
 
@@ -69,7 +69,7 @@ The Australian Passport Office publishes these timelines for adults applying in-
 | Fast track | Processed within 5 business days | Additional fee |
 | Priority | Processed within 2 business days | Additional fee; eligibility conditions apply |
 
-Australia's standard processing times are generally better than the US and UK, but they can still stretch during peak periods. The Australian Passport Office recommends applying at least six weeks before travel if you're going standard - check [passports.gov.au](https://www.passports.gov.au) for current times.
+Australia's standard processing times are generally better than the US and UK, but they can still stretch during peak periods. The Australian Passport Office recommends applying at least six weeks before travel if you're going standard - check passports.gov.au for current times.
 
 Child passport applications are a different story. They're more complex and take longer than adult renewals, especially when parental consent requirements are involved.
 
@@ -84,7 +84,7 @@ Immigration, Refugees and Citizenship Canada (IRCC) processes passport renewals.
 | Urgent (travel within 5 business days) | Same day or next day | Proof of travel required; in-person only |
 | Express (travel within 45 days) | 2–9 business days | In-person at a passport office |
 
-Canada doesn't offer online passport renewal. Every application either goes in the mail or walks through a Passport Canada office door. That makes the process more logistically demanding - especially if you live somewhere rural and the nearest passport office is hours away. Check [IRCC's page](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports.html) for current processing times.
+Canada doesn't offer online passport renewal. Every application either goes in the mail or walks through a Passport Canada office door. That makes the process more logistically demanding - especially if you live somewhere rural and the nearest passport office is hours away. Check IRCC's page for current processing times.
 
 **Set a renewal reminder now** - Travel Document Vault notifies you 6, 3, and 1 month before your passport expires, so you're always renewing with time to spare. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
@@ -125,15 +125,17 @@ You've got travel booked in the next few weeks and your passport is about to exp
 
 One more thing worth reading: the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). A freshly renewed passport still needs to meet your destination country's validity requirements - and plenty of travellers get caught out by this.
 
+**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+
 ## Frequently Asked Questions
 
 ### How long does passport renewal take in the US?
 
-Routine US passport renewal currently takes 4–6 weeks. Expedited processing cuts that to around 2–3 weeks for an extra $60. If your travel is within 14 days, you can book an urgent appointment at a regional passport agency - but you'll need proof of imminent travel. Check [travel.state.gov](https://travel.state.gov/content/travel/en/passports/how-apply/processing-times.html) for current times before applying.
+Routine US passport renewal currently takes 4–6 weeks. Expedited processing cuts that to around 2–3 weeks for an extra $60. If your travel is within 14 days, you can book an urgent appointment at a regional passport agency - but you'll need proof of imminent travel. Check travel.state.gov for current times before applying.
 
 ### How long does passport renewal take in the UK?
 
-HM Passport Office currently says you'll usually get your passport within 3 weeks, and advises not booking travel until it arrives. Eligible adults applying from within the UK can use the digital renewal service, which doesn't require posting your passport, though you'll still need [a photo that meets the official requirements](https://traveldocumentvault.com/blog/passport-photo-at-home/). If you're outside the UK, you must use the overseas service which requires posting your current passport. For urgent cases, the 1-week fast track and same-day premium appointment options are available. Check [GOV.UK](https://www.gov.uk/apply-renew-passport) for current times.
+HM Passport Office currently says you'll usually get your passport within 3 weeks, and advises not booking travel until it arrives. Eligible adults applying from within the UK can use the digital renewal service, which doesn't require posting your passport, though you'll still need [a photo that meets the official requirements](https://traveldocumentvault.com/blog/passport-photo-at-home/). If you're outside the UK, you must use the overseas service which requires posting your current passport. For urgent cases, the 1-week fast track and same-day premium appointment options are available. Check GOV.UK for current times.
 
 ### How long does passport renewal take in Australia?
 
@@ -141,7 +143,7 @@ The Australian Passport Office currently advises allowing at least 6 weeks from 
 
 ### Can I renew my passport online?
 
-The US offers an online renewal program for eligible adults who got their passport at age 16 or older - check [travel.state.gov](https://travel.state.gov) for current eligibility. The UK offers a digital renewal option for eligible adults applying from within the UK - overseas applicants must use a separate service. Australia and Canada both require in-person lodgement for most renewals. Always check your country's official website for current eligibility rules.
+The US offers an online renewal program for eligible adults who got their passport at age 16 or older - check travel.state.gov for current eligibility. The UK offers a digital renewal option for eligible adults applying from within the UK - overseas applicants must use a separate service. Australia and Canada both require in-person lodgement for most renewals. Always check your country's official website for current eligibility rules.
 
 ### What should I do if my passport is expiring and I have travel booked?
 

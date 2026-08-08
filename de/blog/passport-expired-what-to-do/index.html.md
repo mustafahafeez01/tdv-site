@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/de/blog/passport-expired-what-to-do/
 
 - Es gibt zwei unterschiedliche Szenarien: Sie stellen fest, dass Ihr Reisepass zu Hause abgelaufen ist, oder Sie stellen es am Flughafen fest. Die Schritte unterscheiden sich für beide.
 - Sie können nicht international mit einem abgelaufenen Reisepass fliegen. Keine Ausnahmen.
-- Im Vereinigten Königreich gibt es einen Premium-Reisepass-Service am selben Tag für echte Notfälle – buchbar auf [gov.uk](https://www.gov.uk/apply-renew-passport). In den USA sind Notfalltermine durch das State Department für Reisen innerhalb von 72 Stunden verfügbar.
+- Im Vereinigten Königreich gibt es einen Premium-Reisepass-Service am selben Tag für echte Notfälle – buchbar auf gov.uk. In den USA sind Notfalltermine durch das State Department für Reisen innerhalb von 72 Stunden verfügbar.
 - Am Flughafen wenden Sie sich zunächst an Ihre Airline – einige buchen ohne Gebühren für echte Dokumentationsnotfälle um.
 - Die langfristige Lösung ist eine 12-Monats-Ablauferinnerung, nicht eine 6-Monats-Erinnerung. Das gibt Ihnen genug Zeit, um mit standardmäßiger Bearbeitung zu erneuern.
 - Ablauf ist nicht das einzige Reisepassproblem, das Reisende am Flughafen abweist. Beschädigungen, Namensfehler, fehlende Unterschriften und unzureichende Restgültigkeit an Ihrem Zielort führen zum gleichen Ergebnis.
@@ -80,13 +80,15 @@ Diese Regel wird nicht konsistent über alle Ziele angewendet, was sie leicht zu
 
 Visum- und Anforderungen für elektronische Reisegenehmigungen (ETA) ändern sich häufig und variieren je nach Nationalität, Ziel und Reisezweck. Ohne die richtige Einreisegenehmigung anzukommen – visumfrei annehmend, wenn tatsächlich eines erforderlich ist – führt zu abgelehntem Einsteigen oder zur Zurückweisung an der Grenze. Eine Route, die visumfrei war, als Sie sie zuletzt reisten, könnte jetzt nicht mehr sein.
 
-Überprüfen Sie vor jeder Reise die offiziellen Einreisebestimmungen für Ihr Ziel mit dem Reiseratsdienst Ihres Landes: [gov.uk/foreign-travel-advice](https://www.gov.uk/foreign-travel-advice) für Reisepass-Inhaber aus dem Vereinigten Königreich, [travel.state.gov](https://travel.state.gov) für Reisepass-Inhaber aus den USA oder [smartraveller.gov.au](https://www.smartraveller.gov.au) für australische Reisepass-Inhaber. Verlassen Sie sich nicht darauf, was beim letzten Mal wahr war.
+Überprüfen Sie vor jeder Reise die offiziellen Einreisebestimmungen für Ihr Ziel mit dem Reiseratsdienst Ihres Landes: gov.uk/foreign-travel-advice für Reisepass-Inhaber aus dem Vereinigten Königreich, travel.state.gov für Reisepass-Inhaber aus den USA oder smartraveller.gov.au für australische Reisepass-Inhaber. Verlassen Sie sich nicht darauf, was beim letzten Mal wahr war.
 
 ## So stellen Sie sicher, dass das nie wieder passiert
 
 Die Grundursache ist normalerweise die gleiche: keine Erinnerung eingerichtet. Stellen Sie eine Ablauferinnerung mindestens **12 Monate vor dem Ablaufdatum** ein – nicht 6 Monate. Das gibt Ihnen Zeit, mit standardmäßiger Bearbeitung zu erneuern, ohne für beschleunigte Bearbeitung zu bezahlen, und ohne den Stress einer knappen Frist.
 
 Tun Sie das für jeden Reisepass in Ihrem Haushalt separat. Kinderreisepässe verfallen schneller – 5 Jahre in den meisten Ländern versus 10 für Erwachsene – und sind die, die am häufigsten verpasst werden.
+
+**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
 
 ## Häufig gestellte Fragen
 
@@ -104,7 +106,7 @@ Sie können nicht an Bord gehen. Gehen Sie sofort zum Schalter der Airline, um U
 
 ### Wie schnell kann ich einen Notreisepass bekommen, wenn meiner abgelaufen ist?
 
-Im Vereinigten Königreich ist ein Premium-Service am selben Tag an ausgewählten Reisepass-Büros für Reisen innerhalb von 1 Woche verfügbar – Termin erforderlich, buchbar auf [gov.uk](https://www.gov.uk/apply-renew-passport). In den USA sind persönliche Notfalltermine bei regionalen Reisepassbehörden für Reisen innerhalb von 72 Stunden verfügbar – die beschleunigte Gebühr beträgt $60 plus die standardmäßige Verlängerungsgebühr. Überprüfen Sie [travel.state.gov](https://travel.state.gov/content/travel/en/passports/need-passport/passport-agencies.html) auf Verfügbarkeit. In Australien überprüfen Sie [passports.gov.au](https://www.passports.gov.au) auf Optionen für schnelle Bearbeitung.
+Im Vereinigten Königreich ist ein Premium-Service am selben Tag an ausgewählten Reisepass-Büros für Reisen innerhalb von 1 Woche verfügbar – Termin erforderlich, buchbar auf gov.uk. In den USA sind persönliche Notfalltermine bei regionalen Reisepassbehörden für Reisen innerhalb von 72 Stunden verfügbar – die beschleunigte Gebühr beträgt $60 plus die standardmäßige Verlängerungsgebühr. Überprüfen Sie travel.state.gov auf Verfügbarkeit. In Australien überprüfen Sie passports.gov.au auf Optionen für schnelle Bearbeitung.
 
 ### Wie vermeide ich, dass mein Reisepass unerwartet abläuft?
 

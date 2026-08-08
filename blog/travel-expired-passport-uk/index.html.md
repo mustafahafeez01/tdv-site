@@ -24,7 +24,7 @@ What follows is how this plays out in practice: your limited options, why time m
 
 ## The Absolute Rule: No International Travel with an Expired Passport
 
-[His Majesty's Passport Office is clear on this](https://www.gov.uk/apply-renew-passport): your passport must be valid on the day you travel - not just on arrival, not just for part of the trip, but on the day you board the aircraft.
+His Majesty's Passport Office is clear on this: your passport must be valid on the day you travel - not just on arrival, not just for part of the trip, but on the day you board the aircraft.
 
 When you get to check-in, the agent runs your passport number through their system and sees the expiry date. If it's in the past, they won't issue a boarding pass - it doesn't matter if you're arriving home the day after it expires. The same thing happens at border control in your destination: they see the expiry, they deny entry. Proximity to your actual arrival date makes no difference.
 
@@ -44,9 +44,9 @@ If you are considering domestic travel with an expired passport, contact your ai
 
 ## Emergency Renewal: The Premium Service Pathway
 
-If your trip is imminent and your passport is expired, [His Majesty's Passport Office offers a Premium service designed for exactly this scenario](https://www.gov.uk/apply-renew-passport), guaranteeing either a same-day appointment or one the next working day depending on availability. The fee is £239.50 in total - it covers everything, rather than being an add-on to the standard fee - and your renewed passport arrives within days rather than the weeks a standard renewal can take. Note the Online Premium service is for renewals only, not first adult passports.
+If your trip is imminent and your passport is expired, His Majesty's Passport Office offers a Premium service designed for exactly this scenario, guaranteeing either a same-day appointment or one the next working day depending on availability. The fee is £239.50 in total - it covers everything, rather than being an add-on to the standard fee - and your renewed passport arrives within days rather than the weeks a standard renewal can take. Note the Online Premium service is for renewals only, not first adult passports.
 
-This is the official emergency route for genuine travel constraints, not a workaround - the Premium service exists because sometimes travel cannot wait. Official guidance is currently to [allow around 3 weeks for a standard renewal](https://www.gov.uk/renew-adult-passport), and almost all applications are processed within that window - but for travel that genuinely cannot wait, the Premium option removes the uncertainty.
+This is the official emergency route for genuine travel constraints, not a workaround - the Premium service exists because sometimes travel cannot wait. Official guidance is currently to allow around 3 weeks for a standard renewal, and almost all applications are processed within that window - but for travel that genuinely cannot wait, the Premium option removes the uncertainty.
 
 The catch is that you must have an available appointment slot, which fill up quickly during summer holidays and school breaks. If you discover your passport is expired on a Friday before a Monday trip you may find no Premium slots available, as booking happens online at gov.uk with live availability. When your preferred date shows no slots you genuinely have no other option that day.
 
@@ -54,7 +54,7 @@ You'll also need your old passport to apply regardless of its expiry date, and i
 
 ## What Airlines and Border Control Actually Check
 
-Airlines use Timatic, an [IATA system](https://www.iatatravelcentre.com) that cross-references your passport number, nationality, and destination with entry requirements, telling the check-in agent instantly whether you are permitted to travel when they scan your passport. If your passport is expired, Timatic flags it red and the agent cannot override this decision even if you plead or show a boarding pass from weeks ago.
+Airlines use Timatic, an IATA system that cross-references your passport number, nationality, and destination with entry requirements, telling the check-in agent instantly whether you are permitted to travel when they scan your passport. If your passport is expired, Timatic flags it red and the agent cannot override this decision even if you plead or show a boarding pass from weeks ago.
 
 Border control does the same check when you arrive - sometimes even checking twice, once as you leave the UK and again as you enter your destination. An expired passport will be caught no matter how careful you are.
 
@@ -85,6 +85,8 @@ Travellers often confuse their passport's own validity date with destination-spe
 [Many countries enforce a six-month rule requiring your passport to remain valid for at least six months beyond your planned departure date](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/), while some enforce three months and others enforce one month. None of these rules permit travel with an expired passport because they set a stricter standard where renewal must happen even earlier than the passport's own expiry date.
 
 Do not assume you can travel "because you're coming back before it expires" - your passport must be valid on the date you board your outbound flight and if it expires the day after you return you still cannot travel. Airlines do not permit travel if your passport is expired on departure day.
+
+**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
 
 ## Frequently Asked Questions
 

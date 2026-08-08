@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/pt/blog/tripcase-alternative/
 - A lição verdadeira: um serviço de nuvem gratuito mantém **os seus dados em tempo emprestado**. Pode desaparecer com cerca de 60 dias de aviso.
 - Os documentos de viagem devem estar **offline, no seu dispositivo** - num local onde nenhuma decisão da empresa, falha ou encerramento consegue chegar.
 
-O TripCase passou doze anos como o cavalo de trabalho silencioso das apps de viagem. Encaminhe um email de confirmação e a sua viagem construía-se a si própria; a app avisava-o sobre mudanças de porta de embarque antes de algumas companhias aéreas; e o seu Document Vault guardava passaportes, vistos e cartões de embarque num só lugar. Depois, em 1 de abril de 2025, a Sabre [encerrou](https://www.flyertalk.com/forum/travel-tools/2187377-replacement-recommendations-soon-discontinued-tripcase-april-1-2025-a.html), e quando a janela de exportação fechou em 30 de junho, todo o histórico de viagens e documentos restantes de cada utilizador foram eliminados dos seus servidores.
+O TripCase passou doze anos como o cavalo de trabalho silencioso das apps de viagem. Encaminhe um email de confirmação e a sua viagem construía-se a si própria; a app avisava-o sobre mudanças de porta de embarque antes de algumas companhias aéreas; e o seu Document Vault guardava passaportes, vistos e cartões de embarque num só lugar. Depois, em 1 de abril de 2025, a Sabre encerrou, e quando a janela de exportação fechou em 30 de junho, todo o histórico de viagens e documentos restantes de cada utilizador foram eliminados dos seus servidores.
 
 Quinze meses depois, os ex-utilizadores ainda estão à procura de um substituto. A resposta honesta é que nenhuma app única a substitui completamente. Mas a história verdadeira não é sobre qual app escolher - é sobre onde os seus documentos devem viver.
 
@@ -24,7 +24,7 @@ Quinze meses depois, os ex-utilizadores ainda estão à procura de um substituto
 
 O TripCase existia desde 2013, um companheiro de viagem gratuito da Sabre Corporation - a empresa que administra grande parte dos sistemas de reservas de companhias aéreas e agências de viagem do mundo. Devido a essa conexão, as viagens apareciam muitas vezes na app automaticamente. Durante mais de uma década, viajantes de negócios e famílias dependiam disso para trazer voos, hotéis e aluguéis de carro para uma única vista cronológica. Não era sofisticado, mas funcionava.
 
-Quando o encerramento chegou, os utilizadores tiveram até 30 de junho de 2025 para exportar o seu histórico. Vários utilizadores [relataram o processo de exportação como confuso e incompleto](https://www.flyertalk.com/forum/travel-tools/2187377-replacement-recommendations-soon-discontinued-tripcase-april-1-2025-a.html), e alguns descobriram tarde demais que anos de registos de viagens não tinham saído. Depois da janela de exportação fechar em 30 de junho de 2025, a Sabre eliminou todos os dados restantes de viagens e viajantes, e não há forma de os recuperar.
+Quando o encerramento chegou, os utilizadores tiveram até 30 de junho de 2025 para exportar o seu histórico. Vários utilizadores relataram o processo de exportação como confuso e incompleto, e alguns descobriram tarde demais que anos de registos de viagens não tinham saído. Depois da janela de exportação fechar em 30 de junho de 2025, a Sabre eliminou todos os dados restantes de viagens e viajantes, e não há forma de os recuperar.
 
 ## O Que Os Utilizadores do TripCase Realmente Perderam
 
@@ -32,7 +32,7 @@ O TripCase não inventou muito, mas aperfeiçoou um punhado de fluxos de trabalh
 
 O seu núcleo era a **análise de email-para-itinerário** - encaminhe qualquer confirmação de companhia aérea, hotel ou aluguel de carro e a app montava-a numa viagem cronológica com datas e referências de reserva. Nenhuma entrada manual significava um itinerário completo em segundos, o que é exatamente o porquê de as pessoas ficarem uma década.
 
-**Alertas de voos em tempo real** vieram juntamente: atrasos, mudanças de porta de embarque e cancelamentos muitas vezes antes da própria notificação da companhia aérea. O TripIt agora cobra [cerca de $49 por ano](https://apurplelife.com/2025/03/18/best-travel-organization-app-2025/) pelo equivalente no seu nível Pro, enquanto o TripCase oferecia a funcionalidade para todos gratuitamente.
+**Alertas de voos em tempo real** vieram juntamente: atrasos, mudanças de porta de embarque e cancelamentos muitas vezes antes da própria notificação da companhia aérea. O TripIt agora cobra cerca de $49 por ano pelo equivalente no seu nível Pro, enquanto o TripCase oferecia a funcionalidade para todos gratuitamente.
 
 Esses voos, hotéis e transportes terrestres todos viviam na **cronologia de viagem** - uma pilha rolável por viagem. Simples, mas se já coordenou uma semana multi-cidade a partir de uma dúzia de emails de confirmação, compreende o porquê. Nos tópicos do fórum no FlyerTalk e noutros locais, os ex-utilizadores consistentemente trazem o **Document Vault** como a peça mais desejada - esse único lar seguro para cartões de embarque, vistos, passaportes e confirmações. Por fim, a **partilha de viagens** deixava membros da família ou colegas acompanharem sem emails encaminhados.
 
@@ -73,6 +73,8 @@ A resposta sensata ao colapso do TripCase não é abandonar completamente as fer
 Comece com uma auditoria simples: onde está cada digitalização do seu passaporte, cada PDF de visto, cada cartão de identidade do seu filho atualmente, e o que lhe acontece se esse serviço desaparece com 60 dias de aviso. O nosso [lista de verificação de documentos de viagem](https://traveldocumentvault.com/pt/blog/travel-document-checklist/) é um lugar prático para começar.
 
 O TripCase desapareceu, e as suas funcionalidades estão espalhadas por outras apps agora. Mas há uma lição que vale a pena tirar: os seus documentos de viagem não devem morrer com o servidor de outra pessoa.
+
+**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
 
 ## Perguntas Frequentes
 

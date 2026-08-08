@@ -24,7 +24,7 @@ Lo que sigue es cómo funciona esto en la práctica: tus opciones limitadas, por
 
 ## La norma absoluta: No viajar internacionalmente con un pasaporte expirado
 
-[La Oficina de Pasaportes de Su Majestad es clara en esto](https://www.gov.uk/apply-renew-passport): tu pasaporte debe ser válido el día que viajes - no solo a la llegada, no solo para parte del viaje, sino el día que subes al avión.
+La Oficina de Pasaportes de Su Majestad es clara en esto: tu pasaporte debe ser válido el día que viajes - no solo a la llegada, no solo para parte del viaje, sino el día que subes al avión.
 
 Cuando llegas al mostrador de facturación, el agente ejecuta tu número de pasaporte en el sistema y ve la fecha de expiración. Si está en el pasado, no emitirá una tarjeta de embarque - no importa si llegas a casa el día después de que expire. Lo mismo sucede en el control de fronteras en tu destino: ven la expiración, niegan la entrada. La proximidad a tu fecha de llegada real no hace diferencia.
 
@@ -42,7 +42,7 @@ Si estás considerando viajar dentro del país con un pasaporte expirado, contac
 
 ## Renovación de emergencia: La ruta del servicio Premium
 
-Si tu viaje es inminente y tu pasaporte está expirado, [la Oficina de Pasaportes de Su Majestad ofrece un servicio Premium diseñado exactamente para este escenario](https://www.gov.uk/apply-renew-passport), garantizando una cita el mismo día o al día siguiente dependiendo de la disponibilidad. La tarifa es £239.50 en total - cubre todo, en lugar de ser un complemento a la tarifa estándar - y tu pasaporte renovado llega dentro de días en lugar de las semanas que una renovación estándar puede tomar. Ten en cuenta que el servicio Premium en línea es solo para renovaciones, no para primeros pasaportes de adultos.
+Si tu viaje es inminente y tu pasaporte está expirado, la Oficina de Pasaportes de Su Majestad ofrece un servicio Premium diseñado exactamente para este escenario, garantizando una cita el mismo día o al día siguiente dependiendo de la disponibilidad. La tarifa es £239.50 en total - cubre todo, en lugar de ser un complemento a la tarifa estándar - y tu pasaporte renovado llega dentro de días en lugar de las semanas que una renovación estándar puede tomar. Ten en cuenta que el servicio Premium en línea es solo para renovaciones, no para primeros pasaportes de adultos.
 
 Esta es la ruta de emergencia oficial para limitaciones de viajes genuinas, no un atajo - el servicio Premium existe porque a veces el viaje no puede esperar. La guía oficial es permitir aproximadamente 3 semanas para una renovación estándar, y casi todas las solicitudes se procesan dentro de esa ventana - pero para un viaje que genuinamente no puede esperar, la opción Premium elimina la incertidumbre.
 
@@ -83,6 +83,8 @@ Los viajeros a menudo confunden la fecha de validez propia del pasaporte con reg
 [Muchos países aplican una norma de seis meses que requiere que tu pasaporte permanezca válido por al menos seis meses más allá de tu fecha de salida planeada](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/), mientras que algunos aplican tres meses y otros aplican un mes. Ninguna de estas normas permite viajar con un pasaporte expirado porque establece un estándar más estricto donde la renovación debe ocurrir aún más temprano que la fecha de expiración del pasaporte mismo.
 
 No asumas que puedes viajar "porque estás regresando antes de que expire" - tu pasaporte debe ser válido el día que subes a tu vuelo de salida y si expira el día después de regresar aún no puedes viajar. Las aerolíneas no permiten viajar si tu pasaporte está expirado el día de salida.
+
+**Antes de fiarte de esto:** este artículo explica reglas generales, y las reglas generales son todo lo que puede ofrecer un blog. Los requisitos cambian y varían según la nacionalidad, el destino y la fecha del viaje. Consulta tu caso con la autoridad que emite el documento o con el servicio de información al viajero de tu gobierno antes de reservar. Revisamos lo que publicamos y aun así podemos equivocarnos o quedarnos desactualizados.
 
 ## Preguntas frecuentes
 

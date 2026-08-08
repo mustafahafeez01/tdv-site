@@ -22,7 +22,7 @@ Cuando viajas con niños, realizar un seguimiento de cinco pasaportes entre los 
 
 El problema comienza de forma pequeña. Tienes tu propio pasaporte, tu pareja tiene el suyo. Entonces tienes hijos, y de repente tienes cuatro documentos separados con cuatro fechas de vencimiento diferentes. El cerebro humano no está construido para realizar un seguimiento de cuatro cronogramas de renovación diferentes, especialmente cuando la vida se pone ocupada. Una persona acaba asumiendo todo - generalmente la persona que ya está gestionando toda la otra logística del viaje - y ese único punto de fallo se convierte en un riesgo.
 
-El segundo problema es que los pasaportes de los niños vencen mucho más rápido que los de los adultos. [En Estados Unidos, los pasaportes de niños menores de 16 años duran 5 años](https://travel.state.gov/content/travel/en/passports.html), mientras que los pasaportes de adultos duran 10 años. [Lo mismo se aplica en el Reino Unido](https://www.gov.uk/apply-renew-passport) - los documentos de los niños vencen después de 5 años, no 10. Esto significa que el pasaporte de tu hijo más joven a menudo se convierte en el factor limitante para los viajes familiares. Podrías tener un progenitor con 8 años de validez restante, pero si el pasaporte de tu hijo más joven vence en 18 meses, ese es tu horizonte de planificación.
+El segundo problema es que los pasaportes de los niños vencen mucho más rápido que los de los adultos. En Estados Unidos, los pasaportes de niños menores de 16 años duran 5 años, mientras que los pasaportes de adultos duran 10 años. Lo mismo se aplica en el Reino Unido - los documentos de los niños vencen después de 5 años, no 10. Esto significa que el pasaporte de tu hijo más joven a menudo se convierte en el factor limitante para los viajes familiares. Podrías tener un progenitor con 8 años de validez restante, pero si el pasaporte de tu hijo más joven vence en 18 meses, ese es tu horizonte de planificación.
 
 La mayoría de las familias no se dan cuenta de esto hasta que ya han reservado un viaje. Un progenitor encuentra los pasaportes una semana antes de la salida, escanéandolos apresuradamente mientras empacan, y descubre que el documento de un niño no cumplirá con la regla de validez de 6 meses para su destino. El viaje está ahora en riesgo, o requiere una renovación de pasaporte apresurada y costosa.
 
@@ -77,6 +77,8 @@ Más allá del pasaporte mismo, varios otros documentos merecen un lugar en tu s
 - **Licencias de conducir.** Si estás alquilando un auto, necesitarás licencias de conducir para todos los conductores en tu grupo. Estas también tienen fechas de vencimiento que pueden engañar a las familias.
 
 Mantén todos estos en un lugar accesible. El pánico de hurgar en tu teléfono o bolsa en el mostrador del aeropuerto, entreccerrando los ojos en fotos borrosas de páginas de visa - eso es exactamente lo que este sistema previene.
+
+**Antes de fiarte de esto:** este artículo explica reglas generales, y las reglas generales son todo lo que puede ofrecer un blog. Los requisitos cambian y varían según la nacionalidad, el destino y la fecha del viaje. Consulta tu caso con la autoridad que emite el documento o con el servicio de información al viajero de tu gobierno antes de reservar. Revisamos lo que publicamos y aun así podemos equivocarnos o quedarnos desactualizados.
 
 ## Preguntas Frecuentes
 

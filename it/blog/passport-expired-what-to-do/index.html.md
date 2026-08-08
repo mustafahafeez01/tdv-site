@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/it/blog/passport-expired-what-to-do/
 
 - Ci sono due scenari distinti: scoprire che il Suo passaporto è scaduto **da casa prima di un viaggio**, e scoprirlo **all'aeroporto**. I passaggi sono diversi per ciascuno.
 - Non può volare internazionalmente con un passaporto scaduto. Nessuna eccezione.
-- Nel Regno Unito, esiste un servizio passaporto Premium lo stesso giorno per emergenze genuine - prenotabile su [gov.uk](https://www.gov.uk/apply-renew-passport). Negli USA, gli appuntamenti di emergenza sono disponibili tramite il Dipartimento di Stato per i viaggi entro 72 ore.
+- Nel Regno Unito, esiste un servizio passaporto Premium lo stesso giorno per emergenze genuine - prenotabile su gov.uk. Negli USA, gli appuntamenti di emergenza sono disponibili tramite il Dipartimento di Stato per i viaggi entro 72 ore.
 - All'aeroporto, contatti prima la Sua compagnia aerea - alcune riprogrammano senza costi per emergenze documentali genuine.
 - La soluzione futura è un avviso di scadenza a 12 mesi, non a 6 mesi. Questo dà abbastanza tempo per rinnovare con l'elaborazione standard.
 - La scadenza non è l'unico problema del passaporto che respinge i viaggiatori. Danni, mancata corrispondenza del nome, firma mancante e validità insufficiente rimasta alla destinazione causano tutti lo stesso risultato.
@@ -80,13 +80,15 @@ Questa regola non viene applicata coerentemente in tutte le destinazioni, il che
 
 I requisiti di visto e di autorizzazione di viaggio elettronica (ETA) cambiano spesso e variano in base alla nazionalità, alla destinazione e allo scopo del viaggio. L'arrivo senza il permesso di ingresso corretto - assumendo l'accesso senza visto quando in realtà ne è richiesto uno - comporta il rifiuto dell'imbarco o il rimpatrio alla frontiera. Un percorso che era senza visto quando l'ha viaggiato l'ultima volta potrebbe non esserlo più.
 
-Prima di ogni viaggio, verifichi i requisiti di ingresso ufficiali per la Sua destinazione utilizzando il servizio di consulenza di viaggio del Suo Paese: [gov.uk/foreign-travel-advice](https://www.gov.uk/foreign-travel-advice) per i titolari di passaporti britannici, [travel.state.gov](https://travel.state.gov) per i titolari di passaporti USA, o [smartraveller.gov.au](https://www.smartraveller.gov.au) per i titolari di passaporti australiani. Non si affidi a quello che era vero l'ultima volta.
+Prima di ogni viaggio, verifichi i requisiti di ingresso ufficiali per la Sua destinazione utilizzando il servizio di consulenza di viaggio del Suo Paese: gov.uk/foreign-travel-advice per i titolari di passaporti britannici, travel.state.gov per i titolari di passaporti USA, o smartraveller.gov.au per i titolari di passaporti australiani. Non si affidi a quello che era vero l'ultima volta.
 
 ## Come assicurarsi che questo non accada mai più
 
 La causa principale è solitamente la stessa: nessun avviso in atto. Imposti un avviso di scadenza almeno **12 mesi prima della data di scadenza** - non 6 mesi. Questo le dà il tempo di rinnovare con l'elaborazione standard senza pagare per il servizio accelerato, e senza lo stress di un arco temporale stretto.
 
 Lo faccia per ogni passaporto in Suo possesso separatamente. I passaporti dei bambini scadono più velocemente - 5 anni nella maggior parte dei Paesi rispetto a 10 per gli adulti - e sono quelli più spesso persi.
+
+**Prima di farci affidamento:** questo articolo spiega regole generali, e le regole generali sono tutto ciò che un blog può offrire. I requisiti cambiano e variano in base a cittadinanza, destinazione e data del viaggio. Verifica il tuo caso con l'autorità che rilascia il documento o con il servizio informazioni viaggi del tuo governo prima di prenotare. Controlliamo quello che pubblichiamo e possiamo comunque sbagliare o essere superati.
 
 ## Domande frequenti
 
@@ -104,7 +106,7 @@ Non sarà in grado di imbarcarsi. Vada al bancone della compagnia aerea immediat
 
 ### Quanto velocemente posso ottenere un passaporto di emergenza se il mio è scaduto?
 
-Nel Regno Unito, un servizio Premium lo stesso giorno è disponibile negli uffici passaporti designati per i viaggi entro 1 settimana - appuntamento richiesto, prenotabile su [gov.uk](https://www.gov.uk/apply-renew-passport). Negli USA, gli appuntamenti di emergenza in persona sono disponibili presso le agenzie passaporti regionali per i viaggi entro 72 ore - la tariffa accelerata è $60 più la tariffa di rinnovo standard. Verifichi su [travel.state.gov](https://travel.state.gov/content/travel/en/passports/need-passport/passport-agencies.html) la disponibilità. In Australia, verifichi su [passports.gov.au](https://www.passports.gov.au) le opzioni di elaborazione urgente.
+Nel Regno Unito, un servizio Premium lo stesso giorno è disponibile negli uffici passaporti designati per i viaggi entro 1 settimana - appuntamento richiesto, prenotabile su gov.uk. Negli USA, gli appuntamenti di emergenza in persona sono disponibili presso le agenzie passaporti regionali per i viaggi entro 72 ore - la tariffa accelerata è $60 più la tariffa di rinnovo standard. Verifichi su travel.state.gov la disponibilità. In Australia, verifichi su passports.gov.au le opzioni di elaborazione urgente.
 
 ### Come evito che il mio passaporto scada inaspettatamente?
 

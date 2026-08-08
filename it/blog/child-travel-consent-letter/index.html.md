@@ -31,9 +31,9 @@ Una lettera è comunemente richiesta in queste situazioni:
 - **Un minore viaggia con un genitore il cui cognome è diverso da quello del minore.** Questo solleva dubbi in alcuni confini, in particolare per i minori più piccoli.
 - **Un minore è adottato o in affidamento.** I documenti di tutela legale e il consenso potrebbero essere richiesti insieme alla lettera.
 
-**Avvertenza critica:** le regole variano notevolmente. I Paesi Bassi non obbligano una lettera di consenso nemmeno se un minore viaggia con un solo genitore. [Il Canada non richiede legalmente una lettera di consenso](https://travel.gc.ca/travelling/children/consent-letter), ma il Governo canadese la consiglia fortemente e nota che "il mancato prodotto di una lettera su richiesta può causare ritardi o un rifiuto di entrare o uscire da un paese". Il Sudafrica applica rigorose regole documentali ai suoi confini. Alcuni paesi applicano i requisiti solo ai minori sotto una certa età. Non esiste uno standard globale.
+**Avvertenza critica:** le regole variano notevolmente. I Paesi Bassi non obbligano una lettera di consenso nemmeno se un minore viaggia con un solo genitore. Il Canada non richiede legalmente una lettera di consenso, ma il Governo canadese la consiglia fortemente e nota che "il mancato prodotto di una lettera su richiesta può causare ritardi o un rifiuto di entrare o uscire da un paese". Il Sudafrica applica rigorose regole documentali ai suoi confini. Alcuni paesi applicano i requisiti solo ai minori sotto una certa età. Non esiste uno standard globale.
 
-Verifica sempre i requisiti direttamente con l'autorità immigrazione del tuo paese di destinazione prima di viaggiare. Utilizza l'[IATA Travel Centre](https://www.iatatravelcentre.com) per controllare i requisiti di ingresso, oppure contatta l'ambasciata del tuo paese di destinazione. Se sei incerto, avere la lettera è meglio dell'alternativa: essere fermato al check-in o al confine.
+Verifica sempre i requisiti direttamente con l'autorità immigrazione del tuo paese di destinazione prima di viaggiare. Utilizza l'IATA Travel Centre per controllare i requisiti di ingresso, oppure contatta l'ambasciata del tuo paese di destinazione. Se sei incerto, avere la lettera è meglio dell'alternativa: essere fermato al check-in o al confine.
 
 ## Cosa Deve Contenere la Lettera
 
@@ -84,13 +84,13 @@ Anche le famiglie ben preparate commettono errori che portano a rifiuti al confi
 
 | Paese | Requisito | Autenticazione | Fonte ufficiale |
 |---|---|---|---|
-| **Canada** | Fortemente consigliato (non legalmente richiesto) | Consigliato (notaio pubblico) | [travel.gc.ca](https://travel.gc.ca/travelling/children/consent-letter) |
-| **Sudafrica** | Generalmente richiesto | Sì (certificato da notaio o avvocato) | [Department of Home Affairs](https://www.dha.gov.za) |
-| **Australia** | Consigliato; le compagnie aeree possono richiedere | Sì (certificato da avvocato) | [Smart Traveller](https://www.smartraveller.gov.au) |
-| **Regno Unito** | Non legalmente richiesto; i confini e le compagnie aeree di destinazione possono richiedere | Consigliato (avvocato) | [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration) |
-| **Stati Uniti** | Non richiesto a livello federale; varia da stato a stato | Varia da stato a stato | [travel.state.gov](https://travel.state.gov) |
-| **Unione Europea** | Varia da paese a paese | Varia da paese a paese | [IATA Travel Centre](https://www.iatatravelcentre.com) |
-| **Nuova Zelanda** | Consigliato | Controlla con l'immigrazione | [Immigration NZ](https://www.immigration.govt.nz) |
+| **Canada** | Fortemente consigliato (non legalmente richiesto) | Consigliato (notaio pubblico) | travel.gc.ca |
+| **Sudafrica** | Generalmente richiesto | Sì (certificato da notaio o avvocato) | Department of Home Affairs |
+| **Australia** | Consigliato; le compagnie aeree possono richiedere | Sì (certificato da avvocato) | Smart Traveller |
+| **Regno Unito** | Non legalmente richiesto; i confini e le compagnie aeree di destinazione possono richiedere | Consigliato (avvocato) | UKVI |
+| **Stati Uniti** | Non richiesto a livello federale; varia da stato a stato | Varia da stato a stato | travel.state.gov |
+| **Unione Europea** | Varia da paese a paese | Varia da paese a paese | IATA Travel Centre |
+| **Nuova Zelanda** | Consigliato | Controlla con l'immigrazione | Immigration NZ |
 
 **Verifica sempre i requisiti attuali direttamente con l'autorità immigrazione ufficiale del tuo paese di destinazione.** Le regole cambiano frequentemente, e i siti web dei governi ufficiali sono la tua fonte più affidabile. I blog di viaggio e le pagine delle compagnie aeree sono utili per il contesto, ma possono essere indietro rispetto ai requisiti più recenti.
 
@@ -121,6 +121,8 @@ Nei giorni prima della partenza, passa attraverso questa lista di controllo:
 - Non laminare una lettera autenticata. La laminazione può invalidare la certificazione.
 
 Una lettera di consenso ben preparata è la salvaguardia della tua famiglia contro l'interruzione del viaggio. Il tempo speso adesso ripaga con attraversamenti dei confini fluidi e tranquillità mentale.
+
+**Prima di farci affidamento:** questo articolo spiega regole generali, e le regole generali sono tutto ciò che un blog può offrire. I requisiti cambiano e variano in base a cittadinanza, destinazione e data del viaggio. Verifica il tuo caso con l'autorità che rilascia il documento o con il servizio informazioni viaggi del tuo governo prima di prenotare. Controlliamo quello che pubblichiamo e possiamo comunque sbagliare o essere superati.
 
 ## Domande Frequenti
 

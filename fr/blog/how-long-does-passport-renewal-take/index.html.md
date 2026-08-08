@@ -36,7 +36,7 @@ Les rendez-vous urgents à l'agence sont disponibles si vous avez un voyage docu
 
 Les États-Unis proposent un programme de renouvellement en ligne pour les adultes admissibles. Pour être admissible, vous devez renouveler un livret de passeport américain qui a été délivré quand vous aviez 16 ans ou plus. Consultez travel.state.gov pour voir si vous êtes admissible et si le programme accepte actuellement des demandes.
 
-**Une importante mise en garde : les délais publiés sont des moyennes, pas des garanties.** Consultez [travel.state.gov](https://travel.state.gov/content/travel/en/passports/how-apply/processing-times.html) pour connaître les délais actuels avant de présenter votre demande, car pendant la période de forte demande (janvier à mars et juin à août), le traitement standard s'étire régulièrement bien au-delà des estimations publiées. Si votre voyage se situe dans les trois mois, envisagez de payer les 60 dollars supplémentaires pour le traitement accéléré - le coût modeste est largement compensé par la certitude et la flexibilité de planification qu'il procure.
+**Une importante mise en garde : les délais publiés sont des moyennes, pas des garanties.** Consultez travel.state.gov pour connaître les délais actuels avant de présenter votre demande, car pendant la période de forte demande (janvier à mars et juin à août), le traitement standard s'étire régulièrement bien au-delà des estimations publiées. Si votre voyage se situe dans les trois mois, envisagez de payer les 60 dollars supplémentaires pour le traitement accéléré - le coût modeste est largement compensé par la certitude et la flexibilité de planification qu'il procure.
 
 Ce que cela signifie en pratique
 
@@ -53,9 +53,9 @@ HM Passport Office traite les renouvellements britanniques. Voici les délais ty
 | Renouvellement numérique en ligne | Variable | Adultes admissibles seulement ; généralement plus rapide |
 | Premium (le même jour) | Le même jour | Disponibilité limitée ; rendez-vous requis dans des bureaux spécifiques |
 
-Le Royaume-Uni offre un service de renouvellement numérique pour les adultes admissibles qui demandent depuis le **Royaume-Uni**. Si vous êtes admissible, vous n'avez pas besoin d'envoyer votre ancien passeport. La demande est complétée en ligne et est généralement plus rapide que l'itinéraire postal. **Si vous êtes un citoyen britannique vivant à l'étranger** (un expatrié), le service numérique ne vous est pas disponible. Vous devez utiliser le service de passeport à l'étranger sur GOV.UK, qui nécessite d'envoyer votre passeport actuel à HMPO. Les délais de traitement pour les demandes à l'étranger peuvent être plus longs que l'estimation britannique standard de 10 semaines. Consultez [GOV.UK](https://www.gov.uk/apply-renew-passport) pour le service approprié à votre situation, qui demande votre localisation au début de la demande.
+Le Royaume-Uni offre un service de renouvellement numérique pour les adultes admissibles qui demandent depuis le **Royaume-Uni**. Si vous êtes admissible, vous n'avez pas besoin d'envoyer votre ancien passeport. La demande est complétée en ligne et est généralement plus rapide que l'itinéraire postal. **Si vous êtes un citoyen britannique vivant à l'étranger** (un expatrié), le service numérique ne vous est pas disponible. Vous devez utiliser le service de passeport à l'étranger sur GOV.UK, qui nécessite d'envoyer votre passeport actuel à HMPO. Les délais de traitement pour les demandes à l'étranger peuvent être plus longs que l'estimation britannique standard de 10 semaines. Consultez GOV.UK pour le service approprié à votre situation, qui demande votre localisation au début de la demande.
 
-Ce chiffre de 10 semaines suppose que tout se passe bien. Un changement de nom, un premier passeport adulte, ou toute demande nécessitant des vérifications supplémentaires prendra plus de temps. Les passeports d'enfants ne peuvent pas utiliser le service numérique du tout - ils suivent le processus standard uniquement. Avant de présenter votre demande, consultez [GOV.UK](https://www.gov.uk/apply-renew-passport) pour les délais actuels pertinents à votre situation.
+Ce chiffre de 10 semaines suppose que tout se passe bien. Un changement de nom, un premier passeport adulte, ou toute demande nécessitant des vérifications supplémentaires prendra plus de temps. Les passeports d'enfants ne peuvent pas utiliser le service numérique du tout - ils suivent le processus standard uniquement. Avant de présenter votre demande, consultez GOV.UK pour les délais actuels pertinents à votre situation.
 
 ## Combien de temps prend le renouvellement de passeport en Australie ?
 
@@ -67,7 +67,7 @@ Le Bureau des passeports australien publie ces délais pour les adultes qui dema
 | Accéléré | Traité dans les 5 jours ouvrables | Frais supplémentaires |
 | Prioritaire | Traité dans les 2 jours ouvrables | Frais supplémentaires ; conditions d'admissibilité applicables |
 
-Les délais de traitement standard en Australie sont généralement meilleurs qu'aux États-Unis et au Royaume-Uni, mais ils peuvent encore s'allonger pendant les pics saisonniers. Le Bureau des passeports australien recommande de demander au moins six semaines avant votre voyage si vous prenez la route standard - consultez [passports.gov.au](https://www.passports.gov.au) pour les délais actuels.
+Les délais de traitement standard en Australie sont généralement meilleurs qu'aux États-Unis et au Royaume-Uni, mais ils peuvent encore s'allonger pendant les pics saisonniers. Le Bureau des passeports australien recommande de demander au moins six semaines avant votre voyage si vous prenez la route standard - consultez passports.gov.au pour les délais actuels.
 
 Les demandes de passeport pour enfants sont une autre histoire. Elles sont plus complexes et prennent plus de temps que les renouvellements d'adultes, surtout quand les exigences de consentement parental sont en jeu.
 
@@ -82,7 +82,7 @@ Immigration, Réfugiés et Citoyenneté Canada (IRCC) traite les renouvellements
 | Urgent (voyage dans les 5 jours ouvrables) | Le jour même ou le lendemain | Preuve de voyage requise ; en personne seulement |
 | Express (voyage dans les 45 jours) | 2 à 9 jours ouvrables | En personne à un bureau des passeports |
 
-Le Canada n'offre pas de renouvellement de passeport en ligne. Chaque demande soit va par la poste, soit franchit la porte d'un bureau de Passeport Canada. Cela rend le processus plus exigeant logistiquement - surtout si vous vivez quelque part de rural et que le bureau de passeport le plus proche se trouve à des heures de distance. Consultez [la page d'IRCC](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports.html) pour les délais de traitement actuels.
+Le Canada n'offre pas de renouvellement de passeport en ligne. Chaque demande soit va par la poste, soit franchit la porte d'un bureau de Passeport Canada. Cela rend le processus plus exigeant logistiquement - surtout si vous vivez quelque part de rural et que le bureau de passeport le plus proche se trouve à des heures de distance. Consultez la page d'IRCC pour les délais de traitement actuels.
 
 **Configurez un rappel de renouvellement dès maintenant** - Travel Document Vault vous avertit 6, 3 et 1 mois avant l'expiration de votre passeport, pour que vous renouveliez toujours avec beaucoup de temps d'avance, pas à la dernière minute. [Téléchargez sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
@@ -123,15 +123,17 @@ Vous avez un voyage prévu dans les prochaines semaines et votre passeport est s
 
 Une autre chose qui vaut la peine de lire : la [règle de validité de 6 mois du passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/). Un passeport fraîchement renouvelé doit toujours répondre aux exigences de validité de votre pays de destination - et beaucoup de voyageurs se font piéger par cela.
 
+**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
+
 ## Questions fréquemment posées
 
 ### Combien de temps prend le renouvellement de passeport aux États-Unis ?
 
-Le renouvellement de passeport aux États-Unis prend actuellement 4 à 6 semaines. Le traitement accéléré réduit cela à environ 2 à 3 semaines moyennant 60 dollars supplémentaires. Si votre voyage doit avoir lieu dans 14 jours, vous pouvez réserver un rendez-vous d'urgence auprès d'une agence régionale de passeport - mais vous devez avoir une preuve du voyage imminent. Consultez [travel.state.gov](https://travel.state.gov/content/travel/en/passports/how-apply/processing-times.html) pour connaître les délais actuels avant de présenter votre demande.
+Le renouvellement de passeport aux États-Unis prend actuellement 4 à 6 semaines. Le traitement accéléré réduit cela à environ 2 à 3 semaines moyennant 60 dollars supplémentaires. Si votre voyage doit avoir lieu dans 14 jours, vous pouvez réserver un rendez-vous d'urgence auprès d'une agence régionale de passeport - mais vous devez avoir une preuve du voyage imminent. Consultez travel.state.gov pour connaître les délais actuels avant de présenter votre demande.
 
 ### Combien de temps prend le renouvellement de passeport au Royaume-Uni ?
 
-HM Passport Office indique généralement que vous recevrez votre passeport dans 3 semaines, et recommande de ne pas réserver de voyage avant son arrivée. Les adultes admissibles qui demandent depuis le Royaume-Uni peuvent utiliser le service de renouvellement numérique, qui ne nécessite pas d'envoyer votre passeport. Si vous êtes en dehors du Royaume-Uni, vous devez utiliser le service à l'étranger qui nécessite d'envoyer votre passeport actuel. Pour les cas urgents, les options d'accélération d'une semaine et de rendez-vous premium le même jour sont disponibles. Consultez [GOV.UK](https://www.gov.uk/apply-renew-passport) pour les délais actuels.
+HM Passport Office indique généralement que vous recevrez votre passeport dans 3 semaines, et recommande de ne pas réserver de voyage avant son arrivée. Les adultes admissibles qui demandent depuis le Royaume-Uni peuvent utiliser le service de renouvellement numérique, qui ne nécessite pas d'envoyer votre passeport. Si vous êtes en dehors du Royaume-Uni, vous devez utiliser le service à l'étranger qui nécessite d'envoyer votre passeport actuel. Pour les cas urgents, les options d'accélération d'une semaine et de rendez-vous premium le même jour sont disponibles. Consultez GOV.UK pour les délais actuels.
 
 ### Combien de temps prend le renouvellement de passeport en Australie ?
 
@@ -139,7 +141,7 @@ Le Bureau des passeports australien recommande actuellement de prévoir au moins
 
 ### Puis-je renouveler mon passeport en ligne ?
 
-Les États-Unis proposent un programme de renouvellement en ligne pour les adultes admissibles qui ont obtenu leur passeport à l'âge de 16 ans ou plus - consultez [travel.state.gov](https://travel.state.gov) pour l'admissibilité actuelle. Le Royaume-Uni offre une option de renouvellement numérique pour les adultes admissibles qui demandent depuis le Royaume-Uni - les demandeurs à l'étranger doivent utiliser un service séparé. L'Australie et le Canada nécessitent tous deux une présentation en personne pour la plupart des renouvellements. Consultez toujours le site web officiel de votre pays pour connaître les règles d'admissibilité actuels.
+Les États-Unis proposent un programme de renouvellement en ligne pour les adultes admissibles qui ont obtenu leur passeport à l'âge de 16 ans ou plus - consultez travel.state.gov pour l'admissibilité actuelle. Le Royaume-Uni offre une option de renouvellement numérique pour les adultes admissibles qui demandent depuis le Royaume-Uni - les demandeurs à l'étranger doivent utiliser un service séparé. L'Australie et le Canada nécessitent tous deux une présentation en personne pour la plupart des renouvellements. Consultez toujours le site web officiel de votre pays pour connaître les règles d'admissibilité actuels.
 
 ### Que dois-je faire si mon passeport expire et que j'ai un voyage prévu ?
 

@@ -22,7 +22,7 @@ Når du rejser med børn, og skal holde styr på fem pas på tværs af to landes
 
 Problemet starter småt. Du har dit pas, din partner har sit. Så får du børn, og pludselig har du fire separate dokumenter med fire separate udløbsdatoer. Den menneskelige hjerne er ikke bygget til at spore fire forskellige fornyelsestidslinjer, især når livet bliver travlt. Én person ender med at håndtere det hele - normalt den person, der allerede styrer alle de andre rejselogistik - og det enkelte fejlpunkt bliver en risiko.
 
-Det andet problem er, at børnepas udløber meget hurtigere end voksenpas. [I USA varer børnepas for under-16-årige 5 år](https://travel.state.gov/content/travel/en/passports.html), mens voksenpas varer 10 år. [Det samme gælder i Storbritannien](https://www.gov.uk/apply-renew-passport) - børns dokumenter udløber efter 5 år, ikke 10. Det betyder, at dit yngste barns pas ofte bliver den begrænsende faktor for familierejser. Du kunne have en forælder med 8 år gyldighed tilbage, men hvis dit yngste barns pas udløber om 18 måneder, det er din planhorisonts længde.
+Det andet problem er, at børnepas udløber meget hurtigere end voksenpas. I USA varer børnepas for under-16-årige 5 år, mens voksenpas varer 10 år. Det samme gælder i Storbritannien - børns dokumenter udløber efter 5 år, ikke 10. Det betyder, at dit yngste barns pas ofte bliver den begrænsende faktor for familierejser. Du kunne have en forælder med 8 år gyldighed tilbage, men hvis dit yngste barns pas udløber om 18 måneder, det er din planhorisonts længde.
 
 De fleste familier indser ikke dette, før de allerede har booket en rejse. En forælder finder passene en uge før afgang, scanner dem hastigt mens pakker, og opdager, at ét barns dokument ikke holder den 6-måneder-gyldighed-regel for deres destination. Rejsen er nu i fare, eller kræver en overilende og dyr pasfornyelse.
 
@@ -77,6 +77,8 @@ Ud over selve paset fortjener flere andre dokumenter en plads i dit familierejse
 - **Kørekort.** Hvis du lejer en bil, skal du bruge kørekort for alle chauffører i din gruppe. Disse har også udløbsdatoer, der kan snige sig op på familier.
 
 Opbevar alt dette ét tilgængeligt sted. Panikken ved at rode gennem din telefon eller taske ved lufthavns-skranken, stirrer på uskarpe fotos af visa-sider - det er præcis, hvad dette system forhindrer.
+
+**Før du stoler på det her:** denne artikel forklarer generelle regler, og generelle regler er alt, hvad en blog kan tilbyde. Kravene ændrer sig og varierer efter statsborgerskab, destination og rejsedato. Tjek din egen situation hos den udstedende myndighed eller din regerings rejsevejledning, før du booker. Vi kontrollerer det, vi udgiver, og kan stadig tage fejl eller være forældede.
 
 ## Ofte stillede spørgsmål
 

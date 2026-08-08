@@ -24,7 +24,7 @@ Das Folgende zeigt, wie dies in der Praxis abläuft: Ihre begrenzten Optionen, w
 
 ## Die Absolute Regel: Keine Internationale Reise mit Abgelaufenem Pass
 
-[His Majesty's Passport Office macht klar](https://www.gov.uk/apply-renew-passport): Ihr Pass muss am Reisetag gültig sein - nicht nur bei Ankunft, nicht nur für einen Teil der Reise, sondern am Tag, an dem Sie das Flugzeug besteigen.
+His Majesty's Passport Office macht klar: Ihr Pass muss am Reisetag gültig sein - nicht nur bei Ankunft, nicht nur für einen Teil der Reise, sondern am Tag, an dem Sie das Flugzeug besteigen.
 
 Wenn Sie zur Anmeldung kommen, führt der Agent Ihre Passnummer in ihr System ein und sieht das Ablaufdatum. Wenn es in der Vergangenheit liegt, stellen sie keine Bordkarte aus - es spielt keine Rolle, wenn Sie am Tag nach Ablauf nach Hause kommen. Das gleiche passiert bei der Grenzkontrolle in Ihrem Zielland: Sie sehen das Ablaufdatum, sie lehnen die Einreise ab. Die Nähe zu Ihrem tatsächlichen Ankunftsdatum macht keinen Unterschied.
 
@@ -42,9 +42,9 @@ Wenn Sie eine Inlandsreise mit abgelaufenem Pass in Betracht ziehen, kontaktiere
 
 ## Noterneuerung: Der Premium-Service-Weg
 
-Wenn Ihre Reise unmittelbar bevorsteht und Ihr Pass abgelaufen ist, [bietet His Majesty's Passport Office einen Premium-Service an, der genau für dieses Szenario konzipiert ist](https://www.gov.uk/apply-renew-passport) und garantiert entweder einen Termin am selben Tag oder am nächsten Arbeitstag je nach Verfügbarkeit. Die Gebühr beträgt £239.50 insgesamt - sie deckt alles ab, anstatt eine Ergänzung zur Standardgebühr zu sein - und Ihr erneuerter Pass kommt innerhalb von Tagen statt den Wochen an, die eine Standarderneuerung dauern kann. Beachten Sie, dass der Online-Premium-Service nur für Erneuerungen gilt, nicht für erste erwachsene Pässe.
+Wenn Ihre Reise unmittelbar bevorsteht und Ihr Pass abgelaufen ist, bietet His Majesty's Passport Office einen Premium-Service an, der genau für dieses Szenario konzipiert ist und garantiert entweder einen Termin am selben Tag oder am nächsten Arbeitstag je nach Verfügbarkeit. Die Gebühr beträgt £239.50 insgesamt - sie deckt alles ab, anstatt eine Ergänzung zur Standardgebühr zu sein - und Ihr erneuerter Pass kommt innerhalb von Tagen statt den Wochen an, die eine Standarderneuerung dauern kann. Beachten Sie, dass der Online-Premium-Service nur für Erneuerungen gilt, nicht für erste erwachsene Pässe.
 
-Dies ist die offizielle Notfalllösung für echte Reisebedingungen, nicht ein Workaround - der Premium-Service existiert, weil manchmal Reisen nicht warten können. Offizielle Anleitungen empfehlen derzeit, [etwa 3 Wochen für eine Standarderneuerung zu planen](https://www.gov.uk/renew-adult-passport), und fast alle Anträge werden in diesem Fenster bearbeitet - aber für Reisen, die wirklich nicht warten können, beseitigt die Premium-Option die Unsicherheit.
+Dies ist die offizielle Notfalllösung für echte Reisebedingungen, nicht ein Workaround - der Premium-Service existiert, weil manchmal Reisen nicht warten können. Offizielle Anleitungen empfehlen derzeit, etwa 3 Wochen für eine Standarderneuerung zu planen, und fast alle Anträge werden in diesem Fenster bearbeitet - aber für Reisen, die wirklich nicht warten können, beseitigt die Premium-Option die Unsicherheit.
 
 Der Haken ist, dass Sie einen verfügbaren Termin haben müssen, die sich in den Sommerferien und Schulferien schnell füllen. Wenn Sie am Freitag vor einem Montagsflug feststellen, dass Ihr Pass abgelaufen ist, finden Sie möglicherweise keine Premium-Slots an diesem Tag, da die Buchung online auf gov.uk mit Live-Verfügbarkeit stattfindet. Wenn Ihre bevorzugte Zeit keine Slots anzeigt, haben Sie wirklich keine andere Option an diesem Tag.
 
@@ -52,7 +52,7 @@ Sie benötigen auch Ihren alten Pass, um ihn unabhängig von seinem Ablaufdatum 
 
 ## Was Fluggesellschaften und Grenzkontrolle tatsächlich überprüfen
 
-Fluggesellschaften nutzen Timatic, ein [IATA-System](https://www.iatatravelcentre.com), das Ihre Passnummer, Nationalität und Ziel mit den Einreisebestimmungen abgleicht und dem Anmeldeagent sofort mitteilt, ob Sie reisen dürfen, wenn er Ihren Pass scannt. Wenn Ihr Pass abgelaufen ist, kennzeichnet Timatic ihn rot und der Agent kann diese Entscheidung nicht überschreiben, selbst wenn Sie bitten oder eine Bordkarte von vor Wochen zeigen.
+Fluggesellschaften nutzen Timatic, ein IATA-System, das Ihre Passnummer, Nationalität und Ziel mit den Einreisebestimmungen abgleicht und dem Anmeldeagent sofort mitteilt, ob Sie reisen dürfen, wenn er Ihren Pass scannt. Wenn Ihr Pass abgelaufen ist, kennzeichnet Timatic ihn rot und der Agent kann diese Entscheidung nicht überschreiben, selbst wenn Sie bitten oder eine Bordkarte von vor Wochen zeigen.
 
 Die Grenzkontrolle führt die gleiche Überprüfung bei Ihrer Ankunft durch - manchmal überprüft sogar zwei Mal, einmal wenn Sie die UK verlassen und erneut wenn Sie in Ihr Zielland einreisen. Ein abgelaufener Pass wird egal wie vorsichtig Sie sind, gefunden.
 
@@ -83,6 +83,8 @@ Reisende verwechseln oft das Gültigkeitsdatum ihres Passes mit den Regeln eines
 [Viele Länder erzwingen eine Sechsmonatsregel, die verlangen, dass Ihr Pass mindestens sechs Monate über Ihrem geplanten Abreisedatum hinaus gültig bleibt](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/), während einige drei Monate und andere einen Monat erzwingen. Keine dieser Regeln erlauben Reisen mit einem abgelaufenen Pass, da sie einen strafferen Standard setzen, bei dem die Erneuerung noch früher als das Ablaufdatum des Passes selbst erfolgen muss.
 
 Nehmen Sie nicht an, dass Sie reisen können, "weil Sie zurückommen, bevor es abläuft" - Ihr Pass muss am Tag gültig sein, an dem Sie Ihren Ausgangsflug besteigen, und wenn er am Tag nach Ihrer Rückkehr abläuft, können Sie trotzdem nicht reisen. Fluggesellschaften erlauben keine Reisen, wenn Ihr Pass am Abreist abgelaufen ist.
+
+**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
 
 ## Häufig Gestellte Fragen
 

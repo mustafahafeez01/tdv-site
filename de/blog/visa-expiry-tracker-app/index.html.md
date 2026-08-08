@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/de/blog/visa-expiry-tracker-app/
 - Schengen-Besucher müssen ein rollierendes 90/180-Tage-Fenster verfolgen, nicht nur ein einzelnes Ablaufdatum - die meisten generischen Reise-Apps handhaben dies nicht korrekt.
 - Die gemeinsame Nachverfolgung von Visummen und Pässen an einem Ort reduziert das Risiko eines Mismatchs: Einreise mit gültigem Visum, aber mit einem Passstatus, der vor Ende Ihres geplanten Aufenthalts abläuft.
 
-Eine Visumsüberschreitung ist einer der folgenreichsten Reisefehler, den eine Person machen kann. Im Gegensatz zu einem verpassten Flug - stressig, aber letztendlich behebbar - erzeugt eine Überschreitung einen offiziellen Einwanderungsdatensatz, der Sie jahrelang verfolgen kann. In den Vereinigten Staaten löst eine Überschreitung von nur 180 Tagen automatisch eine 3-jährige Wiedereinreisesperre gemäß INA Abschnitt 212(a)(9)(B)(i) aus, und eine Überschreitung von einem Jahr löst eine 10-jährige Sperre aus. Diese Konsequenzen sind nicht weit verbreitet, aber sie sind [von der US Citizenship and Immigration Services dokumentiert](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/unlawful-presence-and-bars-to-admissibility).
+Eine Visumsüberschreitung ist einer der folgenreichsten Reisefehler, den eine Person machen kann. Im Gegensatz zu einem verpassten Flug - stressig, aber letztendlich behebbar - erzeugt eine Überschreitung einen offiziellen Einwanderungsdatensatz, der Sie jahrelang verfolgen kann. In den Vereinigten Staaten löst eine Überschreitung von nur 180 Tagen automatisch eine 3-jährige Wiedereinreisesperre gemäß INA Abschnitt 212(a)(9)(B)(i) aus, und eine Überschreitung von einem Jahr löst eine 10-jährige Sperre aus. Diese Konsequenzen sind nicht weit verbreitet, aber sie sind von der US Citizenship and Immigration Services dokumentiert.
 
 Eine Visa-Ablauf-Tracker-App verhindert dies. Sie überwacht mehrere Daten gleichzeitig - Einreisegültigkeit, maximale Aufenthaltsdauer und Einreisezahl - auf eine Weise, die generische Passport-Apps nicht können.
 
@@ -41,7 +41,7 @@ Ein Tracker, der nur das Einreisegültigkeitsdatum überwacht, verpasst die häu
 
 Für Reisende, die mehrere europäische Länder besuchen, ist die Schengen-90/180-Tage-Regel die am häufigsten missverstandene Einreisebedingung in der internationalen Reise. Bürger von Ländern mit visumfreiem Zugang zu Schengen (einschließlich Vereinigtes Königreich, USA, Kanada und Australien, unter vielen anderen) dürfen maximal 90 Tage im Schengen-Raum innerhalb eines beliebigen rollierenden 180-Tage-Fensters verbringen.
 
-Die Europäische Kommission bietet einen [offiziellen Schengen-Aufenthaltsrechner](https://ec.europa.eu/home-affairs/pages/border-travel/schengen-visa_en) an, um Reisenden dabei zu helfen, ihre zulässigen Tage zu berechnen. Der kritische Punkt ist, dass dies ein *rollirendes Fenster* ist, kein Kalenderjahres-Reset. Tage, die vor sechs Monaten in Schengen verbracht wurden, zählen immer noch gegen Ihre aktuelle Zulage.
+Die Europäische Kommission bietet einen offiziellen Schengen-Aufenthaltsrechner an, um Reisenden dabei zu helfen, ihre zulässigen Tage zu berechnen. Der kritische Punkt ist, dass dies ein *rollirendes Fenster* ist, kein Kalenderjahres-Reset. Tage, die vor sechs Monaten in Schengen verbracht wurden, zählen immer noch gegen Ihre aktuelle Zulage.
 
 Die meisten generischen Passport- oder Dokumenten-Apps handhaben dies nicht korrekt. Eine App, die einfach nur ein Visumablaufdatum anzeigt, kann Schengen-Compliance nicht verwalten - es erfordert die Berechnung von Tagen über ein rollirendes Fenster basierend auf tatsächlichen Ein- und Ausreisedaten.
 
@@ -79,6 +79,8 @@ Angesichts der oben genannten Komplexität braucht eine gute Visa-Ablauf-Tracker
 5. **Stellen Sie mindestens 2 Wochen vor Ihrem Höchstaufenthaltsstichtag eine Erinnerung ein.** Dies gibt Ihnen Zeit, eine Abreise zu arrangieren, ohne zu hetzen, besonders wenn Transportoptionen an Ihrem Zielort begrenzt sind.
 
 Verwandte Regeln, die mit Visumverfolgung interagieren: siehe unseren Leitfaden zur [6-Monats-Passtregel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/), die verhindern kann, dass Sie einreisen, auch mit gültigem Visum, wenn Ihr Passstatus zu bald nach Ihrer geplanten Abreise abläuft.
+
+**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
 
 ## Häufig gestellte Fragen
 

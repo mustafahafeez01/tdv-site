@@ -34,11 +34,11 @@ Certains pays demandent à voir la preuve de votre première nuit de réservatio
 
 ### Certificats de vaccination
 
-Certaines destinations exigent la preuve d'une vaccination contre la fièvre jaune ou d'autres maladies, et les exigences changent périodiquement selon la destination. Consultez les [pages de conseils aux voyageurs de l'OMS](https://www.who.int/travel-advice) 6 à 8 semaines avant le voyage - pas la veille - car certains pays n'acceptent que les certificats officiels de fièvre jaune de l'OMS, pas les photocopies ou les photos numériques.
+Certaines destinations exigent la preuve d'une vaccination contre la fièvre jaune ou d'autres maladies, et les exigences changent périodiquement selon la destination. Consultez les pages de conseils aux voyageurs de l'OMS 6 à 8 semaines avant le voyage - pas la veille - car certains pays n'acceptent que les certificats officiels de fièvre jaune de l'OMS, pas les photocopies ou les photos numériques.
 
 ### Détails de l'assurance voyage
 
-Vous aurez besoin d'un accès immédiat à votre numéro de police, aux coordonnées de l'assureur et à votre ligne d'assistance d'urgence 24 heures. Certains types de visas exigent explicitement une preuve d'assurance voyage - [les demandes de visa Schengen](https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy/applying-schengen-visa_en), par exemple, exigent une assurance médicale couvrant les soins d'urgence et l'hospitalisation. Mais plus important encore, s'il se passe quelque chose à l'étranger, vous avez besoin de ces détails sans compter sur l'accès à l'e-mail ou à Internet.
+Vous aurez besoin d'un accès immédiat à votre numéro de police, aux coordonnées de l'assureur et à votre ligne d'assistance d'urgence 24 heures. Certains types de visas exigent explicitement une preuve d'assurance voyage - les demandes de visa Schengen, par exemple, exigent une assurance médicale couvrant les soins d'urgence et l'hospitalisation. Mais plus important encore, s'il se passe quelque chose à l'étranger, vous avez besoin de ces détails sans compter sur l'accès à l'e-mail ou à Internet.
 
 ### Lettres de consentement pour enfants
 
@@ -89,7 +89,7 @@ Chaque enfant a besoin de son propre passeport pour les voyages internationaux, 
 
 **Lettre de consentement pour enfant :** Si un enfant voyage à l'international avec un seul parent, de nombreux agents des frontières demanderont un consentement écrit du parent absent, de préférence notarié. Si vous voyagez sans aucun parent (avec les grands-parents, par exemple), le consentement des deux parents est généralement requis. Les exigences changent et varient selon la nationalité, donc vérifiez auprès de l'autorité officielle d'immigration de votre destination.
 
-Une lettre de consentement doit généralement inclure le nom complet de l'enfant et sa date de naissance, les détails du passeport, les dates et destinations du voyage, ainsi que les coordonnées du ou des parents absents. Certaines destinations ont des modèles spécifiques ; le gouvernement canadien, par exemple, [fournit un modèle de format de lettre de consentement](https://travel.gc.ca/travelling/children/consent-letter).
+Une lettre de consentement doit généralement inclure le nom complet de l'enfant et sa date de naissance, les détails du passeport, les dates et destinations du voyage, ainsi que les coordonnées du ou des parents absents. Certaines destinations ont des modèles spécifiques ; le gouvernement canadien, par exemple, fournit un modèle de format de lettre de consentement.
 
 Ce que cela signifie en pratique
 
@@ -100,6 +100,8 @@ Vous embarquez sur un vol vers le Canada avec votre enfant de 8 ans et votre par
 Les documents physiques aident jusqu'à ce qu'un voleur prenne votre sac - et prend généralement les copies avec les originaux. Une sauvegarde chiffrée séparée sur votre téléphone - conservée hors ligne - est votre véritable assurance si les originaux disparaissent.
 
 Lorsque votre ambassade doit émettre un document de voyage d'urgence, une sauvegarde sécurisée lui donne instantanément votre numéro de passeport, date d'émission, lieu d'émission et date d'expiration, sans accès à Internet. Pour plus d'informations sur les options disponibles, voir notre aperçu de [comment stocker les copies de passeport en toute sécurité](https://traveldocumentvault.com/fr/blog/is-it-safe-to-store-passport-in-google-photos/) et les compromis entre les différentes approches.
+
+**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
 
 ## Questions Fréquemment Posées
 

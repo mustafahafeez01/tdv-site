@@ -16,27 +16,27 @@ Source: https://traveldocumentvault.com/es/blog/schengen-90-days-auto-tracked-ee
 - La **calculadora oficial de estancia breve** de la UE funciona, pero es manual - una persona, una ventana, un cálculo a la vez.
 - Las familias manejan **una ventana separada por persona**. Ahí es donde el rastreo de límite de días en una aplicación gana su lugar.
 
-En tu último viaje a Europa probablemente recibiste un sello en la frontera. Ese sello ha desaparecido. Desde el 10 de abril de 2026, el Sistema de Entrada/Salida de la UE (EES) ha estado [plenamente operativo en toda el área de Schengen](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en), y la tinta manchada que una vez registró tus viajes ha sido reemplazada por un registro digital que comienza en el momento que cruzas.
+En tu último viaje a Europa probablemente recibiste un sello en la frontera. Ese sello ha desaparecido. Desde el 10 de abril de 2026, el Sistema de Entrada/Salida de la UE (EES) ha estado plenamente operativo en toda el área de Schengen, y la tinta manchada que una vez registró tus viajes ha sido reemplazada por un registro digital que comienza en el momento que cruzas.
 
 Para cualquiera que cuente días de Schengen - y cada visitante no comunitario debería - esto cambia las apuestas considerablemente. Aquí está lo que el nuevo sistema realmente hace, lo que deliberadamente no hace, y cómo mantener tu propio conteo para que una frontera nunca te sorprenda.
 
 ## Qué Cambió en las Fronteras de Europa
 
-EES registra las huellas dactilares, imagen facial, documento de viaje y fechas exactas de entrada y salida de cada viajero no comunitario. El sistema había registrado [más de 52 millones de cruces fronterizos](https://home-affairs.ec.europa.eu/policies/schengen/smart-borders/entry-exit-system_en) entre su lanzamiento por fases en octubre de 2025 y operación completa esta primavera, y más de 27.000 personas fueron rechazadas en ese tiempo. El primer registro toma algunos minutos en el quiosco, y los aeropuertos han [reportado colas de varias horas en horas punta este verano](https://www.euronews.com/travel/2026/07/01/ees-at-a-critical-point-europes-aviation-sector-urges-eu-to-show-more-flexibility) mientras todos se acostumbran.
+EES registra las huellas dactilares, imagen facial, documento de viaje y fechas exactas de entrada y salida de cada viajero no comunitario. El sistema había registrado más de 52 millones de cruces fronterizos entre su lanzamiento por fases en octubre de 2025 y operación completa esta primavera, y más de 27.000 personas fueron rechazadas en ese tiempo. El primer registro toma algunos minutos en el quiosco, y los aeropuertos han reportado colas de varias horas en horas punta este verano mientras todos se acostumbran.
 
-No todos están registrados. Los [ciudadanos de la UE, residentes de países de Schengen y titulares de visas de larga duración están exentos](https://travel-europe.europa.eu/ees/ltr/to-whom-does-ees-not-apply). Si estás visitando con la asignación de estancia breve sin visa - la mayoría de viajeros británicos, estadounidenses, canadienses y australianos, por ejemplo - EES se aplica a ti.
+No todos están registrados. Los ciudadanos de la UE, residentes de países de Schengen y titulares de visas de larga duración están exentos. Si estás visitando con la asignación de estancia breve sin visa - la mayoría de viajeros británicos, estadounidenses, canadienses y australianos, por ejemplo - EES se aplica a ti.
 
 ## La Regla 90/180 Bajo un Sistema Que Nunca Parpadea
 
 La regla en sí no ha cambiado: puedes pasar como máximo 90 días dentro del área de Schengen dentro de cualquier ventana móvil de 180 días. Eso no son 90 días por año calendario, y la ventana no se reinicia cuando te vas. Por cada día que estés presente, los 180 días anteriores no deben contener más de 90 días de estancia.
 
-Lo que ha cambiado es la aplicación. Con sellos de pasaporte, probar un exceso significaba descifrar tinta desvanecida, y los oficiales fronterizos tenían discreción. Ahora las fechas son exactas, y el sistema marca un exceso en el momento que sucede. Espera un rechazo en tu próxima entrada, y en muchos casos una prohibición de entrada de uno a cinco años, que los funcionarios [registran en el Sistema de Información de Schengen](https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en). El margen de error ha pasado de borroso a cero.
+Lo que ha cambiado es la aplicación. Con sellos de pasaporte, probar un exceso significaba descifrar tinta desvanecida, y los oficiales fronterizos tenían discreción. Ahora las fechas son exactas, y el sistema marca un exceso en el momento que sucede. Espera un rechazo en tu próxima entrada, y en muchos casos una prohibición de entrada de uno a cinco años, que los funcionarios registran en el Sistema de Información de Schengen. El margen de error ha pasado de borroso a cero.
 
 ## El Problema: EES Hace Cumplir, No Planifica
 
-EES cuenta tus días para aplicación, pero no te dice el número. No hay un portal público donde puedas iniciar sesión y ver "47 días restantes"; la [aplicación Viaja a Europa](https://travel-europe.europa.eu/ees/Travel-to-Europe-mobile-app) maneja la preregistración antes de volar, no conteos de días después de llegar. El sistema registra lo que hiciste; pronosticar lo que aún puedes hacer sigue siendo completamente tu problema.
+EES cuenta tus días para aplicación, pero no te dice el número. No hay un portal público donde puedas iniciar sesión y ver "47 días restantes"; la aplicación Viaja a Europa maneja la preregistración antes de volar, no conteos de días después de llegar. El sistema registra lo que hiciste; pronosticar lo que aún puedes hacer sigue siendo completamente tu problema.
 
-La UE publica una [calculadora oficial de estancia breve](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) que bien vale la pena marcar. Ingresas tus fechas pasadas de entrada y salida, y te dice si una estancia planeada cabe dentro de tu ventana. Funciona bien para un viajero que mantiene buenos registros. La fricción aparece cuando los registros viven en tu memoria, o cuando estás haciendo el ejercicio para cuatro personas a la vez.
+La UE publica una calculadora oficial de estancia breve que bien vale la pena marcar. Ingresas tus fechas pasadas de entrada y salida, y te dice si una estancia planeada cabe dentro de tu ventana. Funciona bien para un viajero que mantiene buenos registros. La fricción aparece cuando los registros viven en tu memoria, o cuando estás haciendo el ejercicio para cuatro personas a la vez.
 
 ## Cómo Rastrear Tu Ventana en la Práctica
 
@@ -57,6 +57,8 @@ Una nota de honestidad: ninguna aplicación puede leer tu registro EES, la nuest
 ## Un Paso Adelante de la Frontera
 
 La frontera digital es exhaustiva, automática e insentimental, pero mantenerse dentro de la regla 90/180 nunca fue sobre la frontera - se trata de conocer tus propias fechas antes de reservar. Mantén tu historial de viajes en algún lugar confiable, ejecuta los números antes de comprometerte a viajar, y trata el conteo como parte de la planificación en lugar de algo para reconstruir en la puerta. EES hará la aplicación. La planificación sigue siendo tuya, y es la mitad más barata para acertar.
+
+**Antes de fiarte de esto:** este artículo explica reglas generales, y las reglas generales son todo lo que puede ofrecer un blog. Los requisitos cambian y varían según la nacionalidad, el destino y la fecha del viaje. Consulta tu caso con la autoridad que emite el documento o con el servicio de información al viajero de tu gobierno antes de reservar. Revisamos lo que publicamos y aun así podemos equivocarnos o quedarnos desactualizados.
 
 ## Preguntas Frecuentes
 

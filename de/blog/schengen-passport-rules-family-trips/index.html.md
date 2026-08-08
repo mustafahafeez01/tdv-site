@@ -22,15 +22,15 @@ Zwei Regeln und eine Besonderheit von Kinderreisepässen erklären fast jedes Sc
 
 ## Die echte Schengen-Regel: 3 Monate über das Abflugsdatum hinaus
 
-Die EU-Anforderung ist präzise: Ihr Reisepass muss [mindestens 3 Monate gültig sein über das Datum hinaus, an dem Sie den Schengen-Raum verlassen möchten](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm), und er muss in den letzten 10 Jahren ausgestellt worden sein.
+Die EU-Anforderung ist präzise: Ihr Reisepass muss mindestens 3 Monate gültig sein über das Datum hinaus, an dem Sie den Schengen-Raum verlassen möchten, und er muss in den letzten 10 Jahren ausgestellt worden sein.
 
 Stellen Sie sich vor, Ihre Familie kehrt am 20. August aus Italien zurück. Jeder Reisepass benötigt Gültigkeit bis etwa 20. November - das sind drei Monate über Ihr Abflugsdatum, nicht Ihre Rückkehr und nicht Ihr Buchungsdatum. Ein Reisepass, der am 10. November abläuft, besteht diesen Test nicht, obwohl der Urlaub selbst Wochen früher endet.
 
-Die Bedingung der letzten 10 Jahre betrifft britische Familien auf spezifische Weise. Ältere britische Reisepässe konnten zusätzliche ungenutzte Monate aus einem vorherigen Reisepass enthalten, daher zeigen einige Bücher mehr als 10 Jahre zwischen Ausstellung und Ablaufdatum. Für die Schengen-Einreise, [zählen diese zusätzlichen Monate nicht](https://www.gov.uk/government/publications/restricted-validity-passports/restricted-validity-passports-accessible): Der Reisepass muss am Tag Ihrer Einreise jünger als 10 Jahre sein, unabhängig vom Verfallsdatum im Inneren.
+Die Bedingung der letzten 10 Jahre betrifft britische Familien auf spezifische Weise. Ältere britische Reisepässe konnten zusätzliche ungenutzte Monate aus einem vorherigen Reisepass enthalten, daher zeigen einige Bücher mehr als 10 Jahre zwischen Ausstellung und Ablaufdatum. Für die Schengen-Einreise, zählen diese zusätzlichen Monate nicht: Der Reisepass muss am Tag Ihrer Einreise jünger als 10 Jahre sein, unabhängig vom Verfallsdatum im Inneren.
 
 ## Warum dies nicht die 6-Monats-Regel ist
 
-Die meisten Reisenden nehmen die Idee auf, dass Reisepässe überall 6 Monate Gültigkeit benötigen. Diese Regel ist real - [Thailand verlangt 6 Monate Gültigkeit](https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements), und viele andere Länder wenden eine Version davon an. Schengen jedoch nicht. Europa verlangt drei Monate über die Abreise hinaus, was milder ist, und doch werden die beiden in ein vages "sechs Monate von irgendwo" vermischt, das sowohl falsche Alarme als auch falsches Vertrauen erzeugt.
+Die meisten Reisenden nehmen die Idee auf, dass Reisepässe überall 6 Monate Gültigkeit benötigen. Diese Regel ist real - Thailand verlangt 6 Monate Gültigkeit, und viele andere Länder wenden eine Version davon an. Schengen jedoch nicht. Europa verlangt drei Monate über die Abreise hinaus, was milder ist, und doch werden die beiden in ein vages "sechs Monate von irgendwo" vermischt, das sowohl falsche Alarme als auch falsches Vertrauen erzeugt.
 
 Unser Leitfaden zu [der 6-Monats-Regel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) behandelt, welche Länder sie tatsächlich durchsetzen. Unser [Erklärung zur Reisepassgültigkeit](https://traveldocumentvault.com/de/blog/how-long-is-passport-valid-for-travel/) behandelt den allgemeinen Fall. Wir bleiben hier bei Schengen, weil das dort ist, wo Familien die Mathematik am häufigsten subtil falsch machen.
 
@@ -45,15 +45,15 @@ Erwachsenenreisepässe haben normalerweise eine Gültigkeit von 10 Jahren, Kinde
 | Kanada | Unter 16 Jahren | 5 Jahre |
 | Australien | Alle Kinder | 5 Jahre |
 
-Quellen: [US Department of State](https://travel.state.gov/content/travel/en/passports/need-passport/under-16.html), [GOV.UK](https://www.gov.uk/get-a-child-passport), [Canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/child-passport.html), [Australian Passport Office](https://www.passports.gov.au/child-passport).
+Quellen: US Department of State, GOV.UK, Canada.ca, Australian Passport Office.
 
 Eine Familie von vier Menschen arbeitet daher auf vier verschiedenen Verfallsplänen. Das früheste Datum entscheidet, ob die Reise überhaupt stattfindet. Zwei zusammen erneuerte Erwachsene werden sich in den Reisepässen ihrer Kinder innerhalb weniger Jahre auseinander entwickeln - genau das ist der Grund, warum die Überprüfung Ihres eigenen Reisepasses fast nichts über die Bereitschaft der Familie aussagt.
 
-Für amerikanische Familien gibt es einen zusätzlichen Haken: Ein Kinderreisepass [kann nicht per Post erneuert werden](https://travel.state.gov/content/travel/en/passports/need-passport/under-16.html). Jede Erneuerung erfordert einen neuen persönlichen Antrag und [die Routinebearbeitung dauert derzeit mehrere Wochen](https://travel.state.gov/content/travel/en/passports/how-apply/processing-times.html), plus Porto in beide Richtungen - das ist im März überschaubar, wird aber zwei Wochen vor der Abreise zu einem echten Problem. Britische Familien haben es etwas leichter: Prüfen Sie einfach [die aktuellen Bearbeitungszeiten](https://www.gov.uk/get-a-child-passport) vor der Buchung und planen Sie zusätzliche Zeit ein, falls Informationen benötigt werden.
+Für amerikanische Familien gibt es einen zusätzlichen Haken: Ein Kinderreisepass kann nicht per Post erneuert werden. Jede Erneuerung erfordert einen neuen persönlichen Antrag und die Routinebearbeitung dauert derzeit mehrere Wochen, plus Porto in beide Richtungen - das ist im März überschaubar, wird aber zwei Wochen vor der Abreise zu einem echten Problem. Britische Familien haben es etwas leichter: Prüfen Sie einfach die aktuellen Bearbeitungszeiten vor der Buchung und planen Sie zusätzliche Zeit ein, falls Informationen benötigt werden.
 
 ## Check-in-Realität: Timatic rundet nicht auf
 
-Was auch immer der Grenzbeamte tolerieren könnte, Sie treffen die Regeln früher - beim Check-in. Airlines validieren jeden Reisepass gegen die [IATA-Timatic-Datenbank](https://www.iata.org/en/services/compliance/timatic/travel-documentation/), die die Einreisebestimmungen jedes Ziels genau anwendet. Wenn Ihr Rückflugdatum Gültigkeit bis 20. November erfordert und ein Reisepass am 15. November abläuft, sagt das System nein. Es gibt kein "nahe genug" und keinen Override - Airlines, die einen unzulässigen Passagier an Bord nehmen, müssen ihn auf ihre eigenen Kosten zurückfliegen.
+Was auch immer der Grenzbeamte tolerieren könnte, Sie treffen die Regeln früher - beim Check-in. Airlines validieren jeden Reisepass gegen die IATA-Timatic-Datenbank, die die Einreisebestimmungen jedes Ziels genau anwendet. Wenn Ihr Rückflugdatum Gültigkeit bis 20. November erfordert und ein Reisepass am 15. November abläuft, sagt das System nein. Es gibt kein "nahe genug" und keinen Override - Airlines, die einen unzulässigen Passagier an Bord nehmen, müssen ihn auf ihre eigenen Kosten zurückfliegen.
 
 Ein fehlgeschlagener Reisepass strandet selten eine Person; er sperrt die Familie. Wenige Eltern werden drei Mitglieder weiterfliegen und einen an der Theke lassen, daher wird in der Praxis normalerweise die gesamte Buchung umgebucht oder storniert.
 
@@ -61,9 +61,11 @@ Ein fehlgeschlagener Reisepass strandet selten eine Person; er sperrt die Famili
 
 Die Lösung ist einfach und dauert nur Minuten. Sammeln Sie am Tag der Buchung jeden Reisepass im Haushalt und notieren Sie jeweils das Verfallsdatum und das Ausstellungsdatum. Beantworten Sie dann zwei Fragen für jeden: Wird er noch drei Monate nach Ihrer Rückkehr gültig sein und wurde er vor weniger als zehn Jahren ausgestellt? Alles, das einen dieser Tests nicht besteht, geht in dieser Woche in die Erneuerungswarteschlange - an dem Punkt können Sie noch erneuern, die Reise umleiten oder Ihre Daten ohne Strafe verschieben.
 
-Kinder benötigen denselben Puffer wie Erwachsene. Es gibt [keine Kindervergünstigung](https://europa.eu/youreurope/citizens/travel/entry-exit/travel-documents-minors/index_en.htm) für die Gültigkeitsregeln - ein fünfjähriger Reisepass erhält die gleiche Timatic-Behandlung wie Ihrer. Ein Nebenaspekt für britische und irische Reisen: Irland ist überhaupt nicht im Schengen-Raum. UK-Irland-Reisen laufen unter dem separaten [Common Travel Area](https://www.gov.ie/en/department-of-foreign-affairs/publications/the-common-travel-area/), also verallgemeinern Sie nicht von einer Dublin-Reise zu einer Paris-Reise.
+Kinder benötigen denselben Puffer wie Erwachsene. Es gibt keine Kindervergünstigung für die Gültigkeitsregeln - ein fünfjähriger Reisepass erhält die gleiche Timatic-Behandlung wie Ihrer. Ein Nebenaspekt für britische und irische Reisen: Irland ist überhaupt nicht im Schengen-Raum. UK-Irland-Reisen laufen unter dem separaten Common Travel Area, also verallgemeinern Sie nicht von einer Dublin-Reise zu einer Paris-Reise.
 
 Dies alles benötigt keine App. Ein Tabellenkalkulationsprogramm hilft vielen Familien, und eine zweimal jährliche Kalendererinnerung erledigt den meisten Aufwand. Das einzig Unverhandelbares: Führen Sie die Prüfung zum Buchungszeitpunkt durch, wenn ein kurzfristiger Reisepass noch ein Besorgnis ist, nicht ein Notfall.
+
+**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
 
 ## Häufig gestellte Fragen
 
@@ -77,7 +79,7 @@ Nein. Kinder benötigen dieselbe 3-Monats-Gültigkeit über die Ausreise hinaus 
 
 ### Wann sollten wir einen Kinderreisepass vor einer Reise erneuern?
 
-Prüfen Sie sofort nach der Buchung, ob der Reisepass noch 3 Monate Gültigkeit über Ihr Rückflugsdatum hat. Falls nicht, beginnen Sie sofort. Prüfen Sie [die aktuellen Bearbeitungszeiten im Vereinigten Königreich](https://www.gov.uk/get-a-child-passport) und planen Sie zusätzliche Zeit ein, falls die Anwendung weitere Informationen benötigt. Die Routinebearbeitung in den USA dauert mehrere Wochen plus Porto in beide Richtungen. Ein Kinderreisepass aus den USA benötigt auch einen neuen persönlichen Antrag statt einer Verlängerung.
+Prüfen Sie sofort nach der Buchung, ob der Reisepass noch 3 Monate Gültigkeit über Ihr Rückflugsdatum hat. Falls nicht, beginnen Sie sofort. Prüfen Sie die aktuellen Bearbeitungszeiten im Vereinigten Königreich und planen Sie zusätzliche Zeit ein, falls die Anwendung weitere Informationen benötigt. Die Routinebearbeitung in den USA dauert mehrere Wochen plus Porto in beide Richtungen. Ein Kinderreisepass aus den USA benötigt auch einen neuen persönlichen Antrag statt einer Verlängerung.
 
 ### Können wir fliegen, während die Erneuerung des Kinderreisepasses läuft?
 

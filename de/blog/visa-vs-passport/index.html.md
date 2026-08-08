@@ -1,6 +1,6 @@
-# Visum vs. Reisepass: Wo ist der Unterschied?
+# Was ist der Unterschied zwischen Visum und Reisepass?
 
-> Ein Reisepass beweist, wer du bist. Ein Visum gibt dir die Erlaubnis einzureisen. Hier erfährst du, was jedes tut, warum die meisten Reisen beide brauchen, und wie du überprüfst, was dein Ziel erfordert.
+> Der Reisepass weist aus, wer Sie sind. Das Visum ist die Einreiseerlaubnis eines Landes. Was die beiden unterscheidet und wo Sie es prüfen lassen.
 
 Source: https://traveldocumentvault.com/de/blog/visa-vs-passport/
 
@@ -24,7 +24,7 @@ Dein Reisepass enthält deinen Namen, dein Geburtsdatum, ein Foto und eine einde
 
 Denke deinen Reisepass als dein offizielles Ausweisdokument für internationale Reisen an. Ohne ihn kannst du dein Land nicht legal verlassen oder die meisten ausländischen Ziele betreten. Beamte an der Grenze überprüfen ihn, Fluggesellschaften verlangen ihn für internationale Flüge, und Zollbeamte kontrollieren ihn bei der Ankunft.
 
-Reisepässe sind normalerweise mehrere Jahre gültig (oft 10 Jahre für Erwachsene, 5 Jahre für Kinder), obwohl die Gültigkeitszeiträume je nach Land unterschiedlich sind. Wenn dein Reisepass abläuft, kannst du nicht international reisen und musst eine Verlängerung beantragen. Das Verfallsdatum deines Reisepasses zu verfolgen ist kritisch, da [viele Länder mindestens 6 Monate Gültigkeit verlangen](https://www.iatatravelcentre.com), bevor sie dir einreisen erlauben.
+Reisepässe sind normalerweise mehrere Jahre gültig (oft 10 Jahre für Erwachsene, 5 Jahre für Kinder), obwohl die Gültigkeitszeiträume je nach Land unterschiedlich sind. Wenn dein Reisepass abläuft, kannst du nicht international reisen und musst eine Verlängerung beantragen. Das Verfallsdatum deines Reisepasses zu verfolgen ist kritisch, da viele Länder mindestens 6 Monate Gültigkeit verlangen, bevor sie dir einreisen erlauben.
 
 ## Was ist ein Visum
 
@@ -75,9 +75,9 @@ Ein häufiges Szenario: Du bekommst einen neuen Reisepass, bevor dein Visum abl�
 
 Der Schlüssel liegt deine Nationalität und dein Bestimmungsort. Ein Reisender könnte ein Visum für eine Route brauchen, die ein anderer visafrei machen kann, je nach deren Reisepass. Überprüfe immer deine spezifischen Anforderungen mit offiziellen Quellen, bevor du buchst - verlasse dich nicht darauf, was für einen Freund mit einem anderen Reisepass funktioniert hat.
 
-- **[IATA Travel Centre:](https://www.iatatravelcentre.com)** Suche nach deinem Reisepass-Land und Bestimmungsland, um genaue Anforderungen, Bearbeitungszeiten und Gültigkeitszeiträume zu sehen. Dies ist der schnellste Ausgangspunkt für die meisten Routen.
+- **IATA Travel Centre:** Suche nach deinem Reisepass-Land und Bestimmungsland, um genaue Anforderungen, Bearbeitungszeiten und Gültigkeitszeiträume zu sehen. Dies ist der schnellste Ausgangspunkt für die meisten Routen.
 - **Die Botschaft oder das Konsulat deines Bestimmungslandes:** Besuche die Botschafts-Website für dein Wohnland. Sie listen Visabestimmungen, Antragsverfahren, Gebühren und Bearbeitungszeiten auf, die für deine Nationalität spezifisch sind. Zum Beispiel: "Französische Botschaft in Kanada" oder "Deutsches Konsulat in Australien" eingeben, um die korrekte Seite zu finden.
-- **Deine eigenen Reiseempfehlungen der Regierung:** Regierungen wie die [UK](https://www.gov.uk/foreign-travel-advice), [USA](https://travel.state.gov), [Australien](https://www.smartraveller.gov.au) und [Kanada](https://travel.gc.ca) veröffentlichen Visabestimmungen für ihre Bürger. Diese Seiten machen auch auf jüngste Änderungen und besondere Umstände aufmerksam.
+- **Deine eigenen Reiseempfehlungen der Regierung:** Regierungen wie die UK, USA, Australien und Kanada veröffentlichen Visabestimmungen für ihre Bürger. Diese Seiten machen auch auf jüngste Änderungen und besondere Umstände aufmerksam.
 
 Verlasse dich nie allein auf Reise-Blogs, kommerzielle Visaservice-Websites oder Informationen aus früheren Reisen. Die Anforderungen ändern sich häufig. Eine visafreie Route könnte jetzt Visa erfordern; Bearbeitungszeiten verschieben sich; Berechtigungskriterien entwickeln sich. Überprüfe direkt mit offiziellen Quellen 2-3 Monate vor der Reise, um Zeit für Anträge einzuplanen, falls nötig.
 
@@ -95,33 +95,47 @@ Die Verwirrung ergibt sich daraus, dass das Visum in deinem alten Reisepass ersc
 
 ## Visafreies Reisen: Eine komplexe Landschaft
 
-Viele Nationen haben Visum-Verzichts- oder Visafreiheitsabkommen miteinander, die es ihren Bürgern erlauben, Grenzen ohne vorheriges Visum zu überqueren. Der Schengen-Raum in Europa ist das bekannteste Beispiel - Reisepass-Inhaber von Mitgliedsländern können frei in seine [29 Mitgliedsstaaten](https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/schengen-area_en) reisen ohne Visum-Kontrollen. Südostasien, die Karibik und Teile Afrikas haben ähnliche Regelungen.
+Viele Nationen haben Visum-Verzichts- oder Visafreiheitsabkommen miteinander, die es ihren Bürgern erlauben, Grenzen ohne vorheriges Visum zu überqueren. Der Schengen-Raum in Europa ist das bekannteste Beispiel - Reisepass-Inhaber von Mitgliedsländern können frei in seine 29 Mitgliedsstaaten reisen ohne Visum-Kontrollen. Südostasien, die Karibik und Teile Afrikas haben ähnliche Regelungen.
 
 Allerdings gibt es Grenzen für visafreies Reisen. Es gilt normalerweise nur für Tourismus oder Kurzzeitbesuche, nicht für Arbeit oder Studium. Visafreie Zeiträume sind auch begrenzt, oft 30 bis 90 Tage je nach Land. Wenn du die erlaubte Zeit überschreitest, wirst du zu einem illegalen Einwohner und gesichts Strafen einschließlich Geldstrafen, Abschiebung oder zukünftige Einreisesperrungen.
 
 Visafreier Zugang hängt auch völlig von deiner Nationalität ab. Zwei zusammen reisende Personen könnten unterschiedliche Visabestimmungen haben, je nach ihren Reisepässen. Eine könnte visafrei reisen, während die andere ein Visum beantragen muss. Dies ist der Grund, warum es essentiell ist, deine spezifische Nationalität zu überprüfen, wenn du Anforderungen recherchierst.
 
+**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
+
 ## Häufig gestellte Fragen
 
-### Wofür wird ein Reisepass verwendet
+### Was ist der Unterschied zwischen Visum und Reisepass
 
-Ein Reisepass ist ein offizielles Reisedokument, das deine Regierung ausstellt und deine Staatsangehörigkeit sowie deine Identität nachweist. Es ist erforderlich, um die meisten Länder im Ausland zu betreten, und dient als dein primärer Ausweis bei internationalen Reisen. Beamte an der Grenze überprüfen deinen Reisepass, Fluggesellschaften verlangen ihn für internationale Flüge, und Zollbeamte kontrollieren ihn bei der Ankunft.
+Ihren Reisepass stellt Ihr eigenes Land aus, und er belegt, wer Sie sind und welchem Land Sie angehören. Das Visum stellt das Land aus, das Sie besuchen wollen, und es erlaubt Ihnen die Einreise. Das eine weist Sie aus, das andere lässt Sie herein, und die meisten Auslandsreisen brauchen beides.
 
-### Kann ich ein Visum aus einem abgelaufenen Reisepass verwenden
+### Ist ein Visum dasselbe wie ein Reisepass
 
-In den meisten Ländern ja. Die Gültigkeit deines Visums ist unabhängig von der Gültigkeit deines Reisepasses. Wenn dein Reisepass abgelaufen ist, aber dein Visum noch gültig ist, kannst du reisen, indem du beide Dokumente mitführst - deinen abgelaufenen Reisepass mit dem Visum und deinen neuen gültigen Reisepass. Allerdings verlangen einige Länder, dass du das Visum auf deinen neuen Reisepass übertragen lässt, bevor du reist. Überprüfe immer mit der offiziellen Botschaft oder Konsulat des Bestimmungslandes.
+Nein. Sie kommen von verschiedenen Regierungen und erfüllen verschiedene Aufgaben. Ihr Reisepass kommt aus Ihrem eigenen Land und begleitet Sie überallhin. Ein Visum kommt von einem einzigen Zielland und gilt nur für dieses Land, für einen bestimmten Zweck und einen bestimmten Zeitraum.
 
-### Brauche ich ein Visum für jedes Land
+### Warum brauche ich ein Visum, wenn ich einen Reisepass habe
 
-Nein. Die Visabestimmungen hängen von deiner Nationalität und dem Bestimmungsland ab. Viele Länder haben Visafreiheitsabkommen oder Visum-Verzichtsprogramme mit bestimmten Nationen. Die Visabestimmungen unterscheiden sich jedoch erheblich je nach Nationalität deines Reisepasses. Du musst die Anforderungen für deine spezifische Situation über das IATA Travel Centre oder die offiziellen Websites der Botschaften überprüfen.
+Der Reisepass belegt Ihre Identität und Staatsangehörigkeit, verpflichtet aber kein Land, Sie einreisen zu lassen. Jedes Zielland entscheidet selbst, wer einreisen darf, und das Visum ist die Form, in der es diese Entscheidung festhält. Ein gültiger Reisepass lässt Sie ausreisen, bringt Sie aber nicht durch die Grenzkontrolle am Ziel.
 
-### Welche verschiedenen Arten von Visa gibt es
+### Gilt ein Reisepass als Visum
 
-Häufige Visatypen sind Touristenvisa (für Freizeitreisen), Arbeitsvisa (für Beschäftigung), Studentenvisa (für Bildung), Transitivisa (zum Durchreisen eines Landes), e-Visa (elektronische Visa, die online beantragt werden), und Visen bei Ankunft (die am Zielflughafen oder an der Grenze ausgestellt werden). Jeder Visumstyp hat spezifische Einschränkungen und Gültigkeitszeiträume, die je nach Bestimmungsland variieren.
+Nein, und die beiden sind nie austauschbar. Verlangt Ihr Zielland für Ihre Staatsangehörigkeit ein Visum, kommen Sie mit dem Reisepass allein nicht hinein, und eine Fluggesellschaft kann Ihnen die Beförderung verweigern, bevor Sie die Grenze überhaupt erreichen. Wo kein Visum verlangt wird, genügt der Reisepass für sich.
 
-### Wie lange dauert es, ein Visum zu erhalten
+### Was ist ein Visum im Reisepass
 
-Die Bearbeitungszeiten für Visa variieren erheblich je nach Land und Visumstyp. Als allgemeine Faustregel sollte ich 2-3 Monate vor deinem geplanten Reisedatum beantragen. Einige Visa werden in Tagen bearbeitet, andere dauern mehrere Monate. Überprüfe immer die offiziellen Websites der Botschaften für spezifische Bearbeitungszeiten für dein Bestimmungsland. Es ist besser, früher als nötig zu beantragen, als das Risiko einzugehen, deine Reisedaten zu verpassen.
+Herkömmlich ist das Visum ein Aufkleber oder Stempel auf einer Seite Ihres Reisepasses, der die Visumart, die abgedeckten Daten und die Zahl der Einreisen angibt. E-Visa leisten dasselbe elektronisch, ganz ohne Eintrag im Pass, verknüpft mit Ihrer Passnummer im System des Ziellandes.
+
+### Wofür stehen die Abkürzungen Reisepass und Visum
+
+Keines der beiden Wörter ist eine Abkürzung, es gibt also nichts auszuschreiben. Beides sind gewöhnliche Wörter mit alter Herkunft: Reisepass geht auf das französische passeport zurück, Visum auf das Lateinische für ein Papier, das gesehen worden ist.
+
+### Ist eine Visa-Karte dasselbe wie ein Reisevisum
+
+Nein, und der gemeinsame Name ist Zufall, keine Verbindung. Visa, das Zahlungsnetzwerk, hat mit Einwanderung oder Grenzkontrolle nichts zu tun, und eine Visa-Karte gibt Ihnen kein Recht, in ein Land einzureisen.
+
+### Kann man ein Visum aus einem abgelaufenen Reisepass nutzen
+
+In den meisten Ländern ja. Die Gültigkeit des Visums ist von der des Passes getrennt, ein noch gültiges Visum in einem abgelaufenen Pass bleibt also in der Regel nutzbar, wenn Sie beide Hefte zusammen mitführen. Manche Länder verlangen allerdings, das Visum in den neuen Pass zu übertragen, klären Sie die Regel Ihres Ziellandes daher vor der Reise mit dessen Botschaft.
 
 ## Verwandte Artikel
 

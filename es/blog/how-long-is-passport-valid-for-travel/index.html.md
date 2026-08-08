@@ -41,7 +41,7 @@ Un pasaporte puede ser técnicamente válido - no vencido - y aun así te pueden
 
 **La regla de 6 meses.** Muchos destinos populares requieren que tu pasaporte sea válido durante al menos 6 meses en el día que entres al país, y algunos cuentan desde tu fecha de salida prevista en lugar. Entonces si tu pasaporte vence en octubre y llegas a Estambul en abril, estás bien. Si llegas en junio, puede que no - y la aerolínea se negará a embarcarte incluso antes de que llegues a inmigración.
 
-La regla de 6 meses se aplica de manera inconsistente según la nacionalidad. El mismo país puede aplicarla para algunos titulares de pasaportes y renunciarla para otros bajo acuerdos bilaterales. La única forma confiable de verificar es buscar el requisito específico para tu pasaporte y destino usando el [IATA Travel Centre](https://www.iatatravelcentre.com) - la misma base de datos que usan las aerolíneas en el mostrador.
+La regla de 6 meses se aplica de manera inconsistente según la nacionalidad. El mismo país puede aplicarla para algunos titulares de pasaportes y renunciarla para otros bajo acuerdos bilaterales. La única forma confiable de verificar es buscar el requisito específico para tu pasaporte y destino usando el IATA Travel Centre - la misma base de datos que usan las aerolíneas en el mostrador.
 
 Cubrimos [qué países aplican la regla de 6 meses](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/) en detalle, incluyendo una tabla país por país. La versión corta: asume que se aplica a cualquier destino fuera de Europa, América del Norte o Australia a menos que hayas verificado.
 
@@ -55,7 +55,7 @@ Para destinos que no aplican la regla de 6 meses - la mayoría de Europa para ci
 
 Para destinos con un requisito de 6 meses, cuenta 6 meses desde el día que llegas. Si aterrizas en Tailandia el 20 de julio, tu pasaporte debe ser válido hasta al menos el 20 de enero del año siguiente - y contar desde tu fecha de regreso en lugar da un margen de seguridad adicional para países que miden diferente.
 
-Para todo lo demás, verifica antes de reservar. El [IATA Travel Centre](https://www.iatatravelcentre.com) da el requisito exacto para tu nacionalidad y destino en cuestión de segundos.
+Para todo lo demás, verifica antes de reservar. El IATA Travel Centre da el requisito exacto para tu nacionalidad y destino en cuestión de segundos.
 
 ## Pasaportes de Niños - La Trampa del Viaje en Familia
 
@@ -72,12 +72,14 @@ La respuesta práctica: cuando queden menos de 12 meses de validez restante.
 Aquí está por qué 12 meses es el umbral correcto y no la fecha de vencimiento en sí:
 
 - Te proporciona un amortiguador completo de 6 meses para cualquier destino que aplique la regla.
-- La renovación del pasaporte toma tiempo: [las renovaciones de pasaportes del Reino Unido generalmente toman alrededor de 3 semanas](https://www.gov.uk/apply-renew-passport) (y la Oficina de Pasaportes de Su Majestad dice no reservar viajes hasta que llegue el nuevo pasaporte) y [el procesamiento estándar de EE.UU. es 4-6 semanas](https://travel.state.gov/content/travel/en/passports.html), así que comenzar con 6 meses restantes deja poco margen.
+- La renovación del pasaporte toma tiempo: las renovaciones de pasaportes del Reino Unido generalmente toman alrededor de 3 semanas (y la Oficina de Pasaportes de Su Majestad dice no reservar viajes hasta que llegue el nuevo pasaporte) y el procesamiento estándar de EE.UU. es 4-6 semanas, así que comenzar con 6 meses restantes deja poco margen.
 - Los planes de último minuto suceden. Un pasaporte con 14 meses restantes mantiene todos los destinos abiertos. Un pasaporte con 5 meses restantes cierra una gran parte del mundo.
 
 El error más común es establecer un recordatorio en la fecha de vencimiento en sí. En ese punto no puedes viajar a la mayoría de destinos que aplican la regla de 6 meses. **Establece tu recordatorio de renovación en la marca de 12 meses.**
 
 Si también lees nuestra guía sobre [cuánto tiempo toma la renovación del pasaporte](https://traveldocumentvault.com/es/blog/how-long-does-passport-renewal-take/), verás exactamente cuán ajustados pueden ser los plazos durante épocas ajetreadas - que es otra razón para empezar temprano.
+
+**Antes de fiarte de esto:** este artículo explica reglas generales, y las reglas generales son todo lo que puede ofrecer un blog. Los requisitos cambian y varían según la nacionalidad, el destino y la fecha del viaje. Consulta tu caso con la autoridad que emite el documento o con el servicio de información al viajero de tu gobierno antes de reservar. Revisamos lo que publicamos y aun así podemos equivocarnos o quedarnos desactualizados.
 
 ## Preguntas Frecuentes
 

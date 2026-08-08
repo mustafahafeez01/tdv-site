@@ -54,7 +54,7 @@ Isto não é uma lista exaustiva, e os requisitos variam conforme a sua nacional
 
 Os requisitos de validade do passaporte por país mudam sem aviso prévio - um acordo bilateral pode silenciosamente alterar as regras para o seu passaporte específico. É exactamente por isso que verificar uma fonte oficial actualizada antes de cada viagem internacional não é paranóia, é apenas boa prática.
 
-Sempre verifique os seus requisitos específicos utilizando o [Centro de Viagens IATA](https://www.iatatravelcentre.com), o sistema que as companhias aéreas utilizam para verificar documentos de passageiros em tempo real.
+Sempre verifique os seus requisitos específicos utilizando o Centro de Viagens IATA, o sistema que as companhias aéreas utilizam para verificar documentos de passageiros em tempo real.
 
 **Travel Document Vault** envia-lhe um lembrete quando o seu passaporte fica abaixo do limiar de validade para o seu destino - para cada membro da família, automaticamente. [Descarregue gratuitamente na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
@@ -98,6 +98,8 @@ Fontes fiáveis para verificar antes de qualquer viagem internacional:
 
 Estas fontes dizem-lhe o requisito oficial e se se aplica aos titulares do seu passaporte específico. Não confie em fóruns de viagem ou numa publicação de blogue de ano passado - vá à fonte.
 
+**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
+
 ## Perguntas Frequentes
 
 ### O que exactamente é a regra dos 6 meses de validade do passaporte e por que existe?
@@ -106,7 +108,7 @@ A regra dos 6 meses de validade do passaporte exige que o seu passaporte seja v�
 
 ### Quais países aplicam a regra dos 6 meses de validade do passaporte em 2026?
 
-Os países que comummente exigem 6 meses de validade do passaporte incluem Tailândia, Indonésia, Vietname, Filipinas e Índia, juntamente com muitos outros em toda a Ásia e África. Os requisitos mudam, portanto sempre verifique com fontes oficiais antes de viajar. Para os requisitos mais precisos e actualizados, consulte o [Centro de Viagens IATA](https://www.iatatravelcentre.com), a ferramenta que as companhias aéreas usam para verificar documentos de passageiros em tempo real.
+Os países que comummente exigem 6 meses de validade do passaporte incluem Tailândia, Indonésia, Vietname, Filipinas e Índia, juntamente com muitos outros em toda a Ásia e África. Os requisitos mudam, portanto sempre verifique com fontes oficiais antes de viajar. Para os requisitos mais precisos e actualizados, consulte o Centro de Viagens IATA, a ferramenta que as companhias aéreas usam para verificar documentos de passageiros em tempo real.
 
 ### Os EUA aplicam a regra dos 6 meses de validade do passaporte?
 

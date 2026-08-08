@@ -38,10 +38,10 @@ Fragen Sie nach einer schriftlichen Kopie mit einem Aktenzeichen. Fragen Sie nac
 
 Ihre Botschaft oder Ihr Konsulat ist Ihr Weg nach Hause. Kontaktieren Sie sie, sobald Sie den Polizeibericht haben. Offizielle Notfallkontakte:
 
-- **Britische Staatsbürger:** [GOV.UK - Notfall-Konsularhilfe](https://www.gov.uk/contact-consulate-if-british-national-needs-help)
-- **US-Bürger:** [travel.state.gov - verlorene oder gestohlene Pässe](https://travel.state.gov/content/travel/en/international-travel/emergencies/lost-stolen-passports.html)
-- **Australische Staatsbürger:** [Smartraveller - verlorener oder gestohlener Pass](https://www.smartraveller.gov.au/while-youre-away/passport-problems/lost-or-stolen-passport)
-- **Kanadische Staatsbürger:** [Canada.ca - verlorener oder gestohlener Pass im Ausland](https://travel.gc.ca/assistance/emergency-info/lost-stolen-passport)
+- **Britische Staatsbürger:** GOV.UK - Notfall-Konsularhilfe
+- **US-Bürger:** travel.state.gov - verlorene oder gestohlene Pässe
+- **Australische Staatsbürger:** Smartraveller - verlorener oder gestohlener Pass
+- **Kanadische Staatsbürger:** Canada.ca - verlorener oder gestohlener Pass im Ausland
 
 Rufen Sie an, bevor Sie besuchen. Viele Botschaften verlangen einen Termin für Notfallpass-Services und können Ihnen genau sagen, was Sie mitbringen sollten - ohne Termin zu erscheinen, kann Ihnen einen halben Tag kosten.
 
@@ -75,6 +75,8 @@ Wenn Sie einen Pass in Thailand verlieren, der ein gültiges Mehrfach-Einreise-V
 ## Schritt 7: Gehen Sie nach Hause und ersetzen Sie Ihren Pass
 
 Sobald Sie Ihr Notfallreisedokument haben, bestätigen Sie die Ausreiseanforderungen mit der örtlichen Einwanderung falls nötig, buchen Sie dann um oder bestätigen Sie Ihre Heimreise. Wenn Sie zurück sind: Beantragen Sie einen vollständigen Passersatz durch Ihre offizielle Passbehörde und richten Sie vor Ihrer nächsten Reise ein verschlüsseltes digitales Backup aller Ihrer Reisedokumente ein.
+
+**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
 
 ## Häufig gestellte Fragen
 

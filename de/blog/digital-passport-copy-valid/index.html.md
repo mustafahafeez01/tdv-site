@@ -22,7 +22,7 @@ Bei der Planung einer Reise fragen sich viele Reisende, ob sie eine digitale Kop
 
 ### Hotel-Check-in
 
-Die meisten Hotels weltweit akzeptieren digitale Reisepasskopien beim Check-in - als PDF auf Ihrem Telefon, per E-Mail im Voraus gesendet oder ausgedruckt. Dies ist besonders hilfreich, wenn Sie spät einchecken oder zwischen verschiedenen Unterkünften wechseln und Ihren physischen Reisepass nicht die ganze Reise über mitführen möchten. Einige kleinere Hotels, besonders in Regionen mit weniger digitaler Infrastruktur, bevorzugen immer noch das Original. In Teilen Europas - Spanien, Frankreich und Italien gehören dazu - müssen Hotels Ihre Daten für die Behörden aufzeichnen und werden in der Regel den physischen Reisepass einsehen wollen, um dies zu tun, obwohl [Datenschutzrichtlinien vorsehen, dass sie normalerweise keine Kopie behalten sollten](https://blogturismo.garrigues.com/en/information-technology/traveler-registration-is-it-legal-to-ask-for-a-photocopy-of-a-guests-id-card-or-passport-at-the-chek-in-desk-of-a-hotel). Wenden Sie sich im Voraus an Ihre Unterkunft, um dies zu bestätigen.
+Die meisten Hotels weltweit akzeptieren digitale Reisepasskopien beim Check-in - als PDF auf Ihrem Telefon, per E-Mail im Voraus gesendet oder ausgedruckt. Dies ist besonders hilfreich, wenn Sie spät einchecken oder zwischen verschiedenen Unterkünften wechseln und Ihren physischen Reisepass nicht die ganze Reise über mitführen möchten. Einige kleinere Hotels, besonders in Regionen mit weniger digitaler Infrastruktur, bevorzugen immer noch das Original. In Teilen Europas - Spanien, Frankreich und Italien gehören dazu - müssen Hotels Ihre Daten für die Behörden aufzeichnen und werden in der Regel den physischen Reisepass einsehen wollen, um dies zu tun, obwohl Datenschutzrichtlinien vorsehen, dass sie normalerweise keine Kopie behalten sollten. Wenden Sie sich im Voraus an Ihre Unterkunft, um dies zu bestätigen.
 
 ### Flugbuchungen und Online-Check-in
 
@@ -72,6 +72,8 @@ Reisepasskopien enthalten sensible Identitätsinformationen: Ihren vollständige
 **Travel Document Vault** speichert verschlüsselte Kopien aller Ihrer Reisedokumente auf Ihrem Gerät. AES-256-Verschlüsselung auf Ihrem Telefon, kein Konto erforderlich. Optionales verschlüsseltes Backup auf Ihrem eigenen iCloud oder Google Drive (Pro) versiegelt mit einem Wiederherstellungscode, den nur Sie haben. [Im App Store verfügbar.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 Wenn Sie sich fragen, ob Cloud-Speicher sicher für Reisepasskopien ist, lesen Sie unseren Leitfaden zum [Speichern von Reisepässen in Google Fotos](https://traveldocumentvault.com/de/blog/is-it-safe-to-store-passport-in-google-photos/). Er erläutert, warum eine dedizierte verschlüsselte App einen stärkeren Schutz bietet.
+
+**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
 
 ## Häufig gestellte Fragen
 

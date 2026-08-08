@@ -60,7 +60,7 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
-[Visa's & Binnenkomst Visum versus Paspoort: Wat is het Verschil? Een paspoort bewijst wie je bent. Een visum geeft toestemming om in te reizen. Dit is wat elk doet, waarom de meeste reizen beide nodig hebben, en hoe je je bestemming controleert. 22 apr. 20266 min](https://traveldocumentvault.com/blog/visa-vs-passport/)
+[Visa's & Binnenkomst Wat is het verschil tussen een visum en een paspoort? Een paspoort bewijst wie je bent. Een visum is toestemming van een land om binnen te komen. Zo verschillen de twee, waarom de meeste reizen beide vereisen, en bij wie je dat controleert. 22 apr. 20266 min](https://traveldocumentvault.com/nl/blog/visa-vs-passport/)
 
 ##
 

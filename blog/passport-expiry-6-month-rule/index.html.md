@@ -56,7 +56,7 @@ This isn't an exhaustive list, and requirements vary by your nationality - not j
 
 Passport validity requirements by country change without notice - a bilateral agreement can quietly shift the rules for your specific passport. That's exactly why checking an up-to-date official source before every international trip isn't paranoia, it's just good practice.
 
-Always verify your specific requirements using the [IATA Travel Centre](https://www.iatatravelcentre.com), the system airlines use to check passenger documents in real time.
+Always verify your specific requirements using the IATA Travel Centre, the system airlines use to check passenger documents in real time.
 
 **Travel Document Vault** sends you a reminder when your passport drops below the validity threshold for your destination - for every family member, automatically. [Download free on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
@@ -100,6 +100,8 @@ Reliable sources to check before any international trip:
 
 These sources tell you the official requirement and whether it applies to holders of your specific passport. Don't rely on travel forums or last year's blog post - go to the source.
 
+**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+
 ## Frequently Asked Questions
 
 ### What exactly is the 6-month passport rule and why does it exist?
@@ -108,7 +110,7 @@ The 6-month passport rule requires your passport to be valid for at least six mo
 
 ### Which countries enforce the 6-month passport validity rule in 2026?
 
-Countries that commonly require 6 months passport validity include Thailand, Indonesia, Vietnam, the Philippines, and India, along with many others across Asia and Africa. Requirements change, so always verify with official sources before you travel. For the most accurate up-to-date requirements, check the [IATA Travel Centre](https://www.iatatravelcentre.com), the tool airlines use to verify passenger documents in real time.
+Countries that commonly require 6 months passport validity include Thailand, Indonesia, Vietnam, the Philippines, and India, along with many others across Asia and Africa. Requirements change, so always verify with official sources before you travel. For the most accurate up-to-date requirements, check the IATA Travel Centre, the tool airlines use to verify passenger documents in real time.
 
 ### Does the US enforce the 6-month passport rule?
 

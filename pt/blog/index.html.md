@@ -60,7 +60,7 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
-[Vistos e Entrada Visto vs Passaporte: Qual é a Diferença? Um passaporte prova quem é. Um visto concede permissão para entrar. Eis o que cada um faz, por que a maioria das viagens precisa de ambos, e como verificar o seu destino. 22 de abril de 20266 min de leitura](https://traveldocumentvault.com/pt/blog/visa-vs-passport/)
+[Vistos e Entrada Qual é a diferença entre visto e passaporte? O passaporte prova quem você é. O visto é a permissão de entrada concedida por um país. Veja o que os distingue e com quem confirmar. 22 de abril de 20266 min de leitura](https://traveldocumentvault.com/pt/blog/visa-vs-passport/)
 
 ##
 

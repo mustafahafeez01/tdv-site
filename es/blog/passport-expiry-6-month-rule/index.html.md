@@ -54,7 +54,7 @@ Esta no es una lista exhaustiva, y los requisitos varían según tu nacionalidad
 
 Los requisitos de validez del pasaporte por país cambian sin previo aviso - un acuerdo bilateral puede cambiar silenciosamente las reglas para tu pasaporte específico. Por eso verificar una fuente oficial actualizada antes de cada viaje internacional no es paranoia, es simplemente buena práctica.
 
-Siempre verifica tus requisitos específicos usando el [IATA Travel Centre](https://www.iatatravelcentre.com), el sistema que las aerolíneas usan para verificar documentos de pasajeros en tiempo real.
+Siempre verifica tus requisitos específicos usando el IATA Travel Centre, el sistema que las aerolíneas usan para verificar documentos de pasajeros en tiempo real.
 
 **Travel Document Vault** te envía un recordatorio cuando tu pasaporte cae por debajo del umbral de validez para tu destino - para cada miembro de la familia, automáticamente. [Descárgalo gratis en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
@@ -98,6 +98,8 @@ Fuentes confiables para verificar antes de cualquier viaje internacional:
 
 Estas fuentes te dicen el requisito oficial y si se aplica a los titulares de tu pasaporte específico. No confíes en foros de viaje o publicaciones de blog del año pasado - ve a la fuente.
 
+**Antes de fiarte de esto:** este artículo explica reglas generales, y las reglas generales son todo lo que puede ofrecer un blog. Los requisitos cambian y varían según la nacionalidad, el destino y la fecha del viaje. Consulta tu caso con la autoridad que emite el documento o con el servicio de información al viajero de tu gobierno antes de reservar. Revisamos lo que publicamos y aun así podemos equivocarnos o quedarnos desactualizados.
+
 ## Preguntas Frecuentes
 
 ### ¿Qué es exactamente la regla de los 6 meses del pasaporte y por qué existe?
@@ -106,7 +108,7 @@ La regla de los 6 meses del pasaporte requiere que tu pasaporte sea válido por 
 
 ### ¿Qué países aplican la regla de validez de 6 meses del pasaporte en 2026?
 
-Los países que comúnmente requieren 6 meses de validez del pasaporte incluyen Tailandia, Indonesia, Vietnam, Filipinas e India, junto con muchos otros en Asia y África. Los requisitos cambian, así que siempre verifica con fuentes oficiales antes de viajar. Para los requisitos más precisos y actualizados, consulta el [IATA Travel Centre](https://www.iatatravelcentre.com), la herramienta que usan las aerolíneas para verificar documentos de pasajeros en tiempo real.
+Los países que comúnmente requieren 6 meses de validez del pasaporte incluyen Tailandia, Indonesia, Vietnam, Filipinas e India, junto con muchos otros en Asia y África. Los requisitos cambian, así que siempre verifica con fuentes oficiales antes de viajar. Para los requisitos más precisos y actualizados, consulta el IATA Travel Centre, la herramienta que usan las aerolíneas para verificar documentos de pasajeros en tiempo real.
 
 ### ¿Aplican los EE.UU. la regla de los 6 meses del pasaporte?
 

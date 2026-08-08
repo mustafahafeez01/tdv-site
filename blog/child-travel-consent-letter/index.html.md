@@ -31,9 +31,9 @@ A letter is commonly required in these situations:
 - **A child travels with one parent whose surname differs from the child's.** This raises flags at some borders, particularly for younger children.
 - **A child is adopted or in foster care.** Legal guardianship documents and consent may be required alongside the letter.
 
-**Critical caveat:** rules vary widely. The Netherlands does not mandate a consent letter even if a child travels with one parent. [Canada does not legally require a consent letter](https://travel.gc.ca/travelling/children/consent-letter), but the Government of Canada strongly recommends one and notes that "failure to produce a letter upon request may result in delays or a refusal to enter or exit a country." South Africa enforces strict documentation rules at its borders. Some countries apply requirements only to children under a certain age. There is no global standard.
+**Critical caveat:** rules vary widely. The Netherlands does not mandate a consent letter even if a child travels with one parent. Canada does not legally require a consent letter, but the Government of Canada strongly recommends one and notes that "failure to produce a letter upon request may result in delays or a refusal to enter or exit a country." South Africa enforces strict documentation rules at its borders. Some countries apply requirements only to children under a certain age. There is no global standard.
 
-Always verify requirements directly with the immigration authority for your specific destination country before travelling. Use the [IATA Travel Centre](https://www.iatatravelcentre.com) to check entry requirements, or contact your destination country's embassy. If you are unsure, having the letter is better than the alternative: being stopped at check-in or the border.
+Always verify requirements directly with the immigration authority for your specific destination country before travelling. Use the IATA Travel Centre to check entry requirements, or contact your destination country's embassy. If you are unsure, having the letter is better than the alternative: being stopped at check-in or the border.
 
 ## What the Letter Must Include
 
@@ -86,13 +86,13 @@ Even well-prepared families make errors that lead to rejection at the border. Th
 
 | Country | Requirement | Notarisation | Official source |
 |---|---|---|---|
-| **Canada** | Strongly recommended (not legally required) | Recommended (notary public) | [travel.gc.ca](https://travel.gc.ca/travelling/children/consent-letter) |
-| **South Africa** | Generally required | Yes (certified by notary or attorney) | [Department of Home Affairs](https://www.dha.gov.za) |
-| **Australia** | Recommended; airlines may require | Yes (solicitor certified) | [Smart Traveller](https://www.smartraveller.gov.au) |
-| **United Kingdom** | Not legally required; airlines and destination borders may request | Recommended (solicitor) | [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration) |
-| **United States** | Not federally required; varies by state | Varies by state | [travel.state.gov](https://travel.state.gov) |
-| **European Union** | Varies by country | Varies by country | [IATA Travel Centre](https://www.iatatravelcentre.com) |
-| **New Zealand** | Recommended | Check with immigration | [Immigration NZ](https://www.immigration.govt.nz) |
+| **Canada** | Strongly recommended (not legally required) | Recommended (notary public) | travel.gc.ca |
+| **South Africa** | Generally required | Yes (certified by notary or attorney) | Department of Home Affairs |
+| **Australia** | Recommended; airlines may require | Yes (solicitor certified) | Smart Traveller |
+| **United Kingdom** | Not legally required; airlines and destination borders may request | Recommended (solicitor) | UKVI |
+| **United States** | Not federally required; varies by state | Varies by state | travel.state.gov |
+| **European Union** | Varies by country | Varies by country | IATA Travel Centre |
+| **New Zealand** | Recommended | Check with immigration | Immigration NZ |
 
 **Always verify current requirements directly with the official immigration authority for your destination country.** Rules change frequently, and official government websites are your most reliable source. Travel blogs and airline pages are useful for context, but they can lag behind the latest requirements.
 
@@ -123,6 +123,8 @@ In the days before departure, run through this checklist:
 - Do not laminate a notarised letter. Lamination can invalidate certification.
 
 A well-prepared consent letter is your family's safeguard against travel disruption. The time spent now pays back in smooth border crossings and peace of mind.
+
+**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
 
 ## Frequently Asked Questions
 

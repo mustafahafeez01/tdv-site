@@ -41,7 +41,7 @@ Um passaporte pode ser tecnicamente válido - não expirado - e mesmo assim ser-
 
 **A regra dos 6 meses.** Muitos destinos populares requerem que o seu passaporte seja válido durante pelo menos 6 meses no dia em que entra no país, e alguns contam a partir da data planeada de partida. Por isso, se o seu passaporte expirar em outubro e chegar em Istambul em abril, está bem. Se chegar em junho, pode estar em apuros - e a companhia aérea recusar-se-á a fazer-lhe embarcar antes de sequer chegar à imigração.
 
-A regra dos 6 meses aplica-se de forma inconsistente por nacionalidade. O mesmo país pode aplicá-la a alguns detentores de passaporte e dispensá-la para outros sob acordos bilaterais. A única forma confiável de verificar é consultar o requisito específico para o seu passaporte e destino usando o [IATA Travel Centre](https://www.iatatravelcentre.com) - a mesma base de dados que as companhias aéreas usam no balcão.
+A regra dos 6 meses aplica-se de forma inconsistente por nacionalidade. O mesmo país pode aplicá-la a alguns detentores de passaporte e dispensá-la para outros sob acordos bilaterais. A única forma confiável de verificar é consultar o requisito específico para o seu passaporte e destino usando o IATA Travel Centre - a mesma base de dados que as companhias aéreas usam no balcão.
 
 Coberto em [quais países aplicam a regra dos 6 meses](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/) em detalhe, incluindo uma tabela país por país. A versão resumida: assuma que se aplica a qualquer destino fora da Europa, América do Norte ou Austrália a menos que tenha verificado.
 
@@ -55,7 +55,7 @@ Para destinos que não aplicam a regra dos 6 meses - a maioria da Europa para ci
 
 Para destinos com um requisito de 6 meses, conte 6 meses a partir do dia em que chega. Se chegar à Tailândia a 20 de julho, o seu passaporte deve ser válido até pelo menos 20 de janeiro do ano seguinte - e contar a partir da data de regresso dá-lhe uma margem de segurança adicional para países que medem de forma diferente.
 
-Para tudo o resto, verifique antes de marcar. O [IATA Travel Centre](https://www.iatatravelcentre.com) dá o requisito exato para a sua nacionalidade e destino em segundos.
+Para tudo o resto, verifique antes de marcar. O IATA Travel Centre dá o requisito exato para a sua nacionalidade e destino em segundos.
 
 ## Passaportes de Crianças - A Armadilha de Viagens em Família
 
@@ -72,12 +72,14 @@ A resposta prática: quando ficar com menos de 12 meses de validade restante.
 Eis por que 12 meses é o limiar certo e não a data de expiração em si:
 
 - Dá-lhe uma margem de segurança completa de 6 meses para qualquer destino que aplique a regra.
-- A renovação de passaporte demora tempo: [a renovação de passaporte do Reino Unido normalmente demora cerca de 3 semanas](https://www.gov.uk/apply-renew-passport) (e o HM Passport Office aconselha a não marcar viagens até o novo passaporte chegar) e [o processamento padrão dos EUA demora 4-6 semanas](https://travel.state.gov/content/travel/en/passports.html), por isso começar com 6 meses de validade deixa pouca margem.
+- A renovação de passaporte demora tempo: a renovação de passaporte do Reino Unido normalmente demora cerca de 3 semanas (e o HM Passport Office aconselha a não marcar viagens até o novo passaporte chegar) e o processamento padrão dos EUA demora 4-6 semanas, por isso começar com 6 meses de validade deixa pouca margem.
 - Planos de última hora acontecem. Um passaporte com 14 meses de validade mantém todos os destinos abertos. Um passaporte com 5 meses de validade fecha uma grande parte do mundo.
 
 O erro mais comum é definir um lembrete na data de expiração em si. Nesse momento, não pode viajar para a maioria dos destinos que aplicam a regra dos 6 meses. **Defina o seu lembrete de renovação na marca dos 12 meses.**
 
 Se também ler o nosso guia sobre [quanto tempo demora a renovação de passaporte](https://traveldocumentvault.com/pt/blog/how-long-does-passport-renewal-take/), verá exactamente como as prazos podem ficar apertados durante períodos movimentados - que é outra razão para começar cedo.
+
+**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
 
 ## Perguntas Frequentes
 

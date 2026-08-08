@@ -22,7 +22,7 @@ Lorsque vous planifiez un voyage, de nombreux voyageurs se demandent s'ils peuve
 
 ### Enregistrement à l'hôtel
 
-La plupart des hôtels du monde acceptent les copies numériques de passeport pour l'enregistrement - un PDF sur votre téléphone, envoyé par email à l'avance, ou imprimé. C'est particulièrement utile si vous vous enregistrez tard ou si vous vous déplacez entre plusieurs propriétés et que vous ne voulez pas porter votre passeport physique pendant tout le voyage. Certains petits hôtels, notamment dans les régions disposant d'une infrastructure numérique moins développée, préfèrent toujours l'original. Dans certaines parties de l'Europe - l'Espagne, la France et l'Italie notamment - les hôtels doivent enregistrer vos informations auprès des autorités et voudront généralement consulter le passeport physique pour le faire, même si [les conseils de protection des données disent qu'ils ne devraient généralement pas conserver une copie](https://blogturismo.garrigues.com/en/information-technology/traveler-registration-is-it-legal-to-ask-for-a-photocopy-of-a-guests-id-card-or-passport-at-the-chek-in-desk-of-a-hotel). Contactez votre hébergement à l'avance pour confirmer.
+La plupart des hôtels du monde acceptent les copies numériques de passeport pour l'enregistrement - un PDF sur votre téléphone, envoyé par email à l'avance, ou imprimé. C'est particulièrement utile si vous vous enregistrez tard ou si vous vous déplacez entre plusieurs propriétés et que vous ne voulez pas porter votre passeport physique pendant tout le voyage. Certains petits hôtels, notamment dans les régions disposant d'une infrastructure numérique moins développée, préfèrent toujours l'original. Dans certaines parties de l'Europe - l'Espagne, la France et l'Italie notamment - les hôtels doivent enregistrer vos informations auprès des autorités et voudront généralement consulter le passeport physique pour le faire, même si les conseils de protection des données disent qu'ils ne devraient généralement pas conserver une copie. Contactez votre hébergement à l'avance pour confirmer.
 
 ### Réservations de vols et enregistrement en ligne
 
@@ -72,6 +72,8 @@ Les copies de passeport contiennent des informations d'identité sensibles : vot
 **Travel Document Vault** stocke les copies chiffrées de tous vos documents de voyage sur l'appareil. Chiffrées en AES-256 sur votre téléphone, aucun compte requis. Sauvegarde chiffrée optionnelle sur votre propre iCloud ou Google Drive (Pro) scellée avec un code de récupération que seul vous détenez. [Disponible sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 Si vous vous demandez si le stockage en nuage est sûr pour les copies de passeport, consultez notre guide pour [stocker les passeports dans Google Photos](https://traveldocumentvault.com/fr/blog/is-it-safe-to-store-passport-in-google-photos/). Il explique pourquoi une application chiffrée dédiée offre une protection plus forte.
+
+**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
 
 ## Questions fréquemment posées
 

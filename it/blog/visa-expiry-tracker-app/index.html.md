@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/it/blog/visa-expiry-tracker-app/
 - I visitatori dell'Area Schengen devono tracciare una finestra mobile di 90/180 giorni, non solo una singola data di scadenza - la maggior parte delle app di viaggio generiche non gestisce questo correttamente.
 - Tracciare i visti e i passaporti insieme in un unico luogo riduce il rischio di una mancata corrispondenza: entrare con un visto valido ma con un passaporto che scade prima della fine del Suo soggiorno pianificato.
 
-Un superamento della durata di soggiorno di un visto è uno degli errori di viaggio più consequenziali che una persona possa commettere. A differenza di un volo perso - stressante ma in ultima analisi risolvibile - un superamento crea un record immigrazione formale che può seguirLa per anni. Negli Stati Uniti, un superamento di soli 180 giorni attiva automaticamente un divieto di rientro di 3 anni secondo la sezione INA 212(a)(9)(B)(i), e un superamento di un anno attiva un divieto di 10 anni. Queste conseguenze non sono ampiamente conosciute, ma sono [documentate dall'Ufficio Cittadinanza e Servizi Immigrazione degli Stati Uniti](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/unlawful-presence-and-bars-to-admissibility).
+Un superamento della durata di soggiorno di un visto è uno degli errori di viaggio più consequenziali che una persona possa commettere. A differenza di un volo perso - stressante ma in ultima analisi risolvibile - un superamento crea un record immigrazione formale che può seguirLa per anni. Negli Stati Uniti, un superamento di soli 180 giorni attiva automaticamente un divieto di rientro di 3 anni secondo la sezione INA 212(a)(9)(B)(i), e un superamento di un anno attiva un divieto di 10 anni. Queste conseguenze non sono ampiamente conosciute, ma sono documentate dall'Ufficio Cittadinanza e Servizi Immigrazione degli Stati Uniti.
 
 Un'app di tracciamento della scadenza dei visti previene questo. Monitora molteplici date contemporaneamente - validità dell'ingresso, durata massima di soggiorno e conteggio dell'ingresso - in un modo che le app generiche di passaporti non possono.
 
@@ -41,7 +41,7 @@ Un tracciatore che monitora solo la data di validità dell'ingresso perde la cau
 
 Per i viaggiatori che visitano molteplici paesi europei, la regola dei 90/180 giorni dell'Area Schengen è la condizione di ingresso più fraintesa nei viaggi internazionali. I cittadini di paesi con accesso senza visto a Schengen (inclusi il Regno Unito, gli Stati Uniti, il Canada e l'Australia, tra molti altri) possono trascorrere un massimo di 90 giorni nell'Area Schengen entro qualsiasi finestra mobile di 180 giorni.
 
-La Commissione Europea fornisce un [calcolatore ufficiale di soggiorno Schengen](https://ec.europa.eu/home-affairs/pages/border-travel/schengen-visa_en) per aiutare i viaggiatori a determinare i giorni consentiti. Il punto critico è che si tratta di una *finestra mobile*, non di un reset dell'anno civile. I giorni trascorsi a Schengen sei mesi fa contano ancora contro il Suo margine attuale.
+La Commissione Europea fornisce un calcolatore ufficiale di soggiorno Schengen per aiutare i viaggiatori a determinare i giorni consentiti. Il punto critico è che si tratta di una *finestra mobile*, non di un reset dell'anno civile. I giorni trascorsi a Schengen sei mesi fa contano ancora contro il Suo margine attuale.
 
 La maggior parte delle app generiche di passaporto o documento non gestisce questo correttamente. Un'app che visualizza semplicemente una data di scadenza del visto non può gestire la conformità a Schengen - richiede il calcolo dei giorni su una finestra mobile in base alle date effettive di ingresso e uscita.
 
@@ -79,6 +79,8 @@ Data la complessità di cui sopra, una buona app di tracciamento della scadenza 
 5. **Imposti un promemoria almeno 2 settimane prima della Sua data limite di durata massima di soggiorno.** Questo Le dà tempo per organizzare una partenza senza fretta, soprattutto se le opzioni di trasporto nel Suo destino sono limitate.
 
 Regole correlate che interagiscono con il tracciamento dei visti: consulti la Sua guida alla [regola del passaporto di 6 mesi](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/), che può impedirLe di entrare anche con un visto valido se il Suo passaporto scade troppo presto dopo la Sua partenza pianificata.
+
+**Prima di farci affidamento:** questo articolo spiega regole generali, e le regole generali sono tutto ciò che un blog può offrire. I requisiti cambiano e variano in base a cittadinanza, destinazione e data del viaggio. Verifica il tuo caso con l'autorità che rilascia il documento o con il servizio informazioni viaggi del tuo governo prima di prenotare. Controlliamo quello che pubblichiamo e possiamo comunque sbagliare o essere superati.
 
 ## Domande Frequenti
 

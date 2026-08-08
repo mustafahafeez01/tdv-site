@@ -30,7 +30,7 @@ Il rinnovo standard del passaporto americano per posta non richiede di consegnar
 
 Ciò significa che i viaggi nazionali all'interno degli Stati Uniti non sono influenzati durante il processo di rinnovo - non avete bisogno di un passaporto per i voli nazionali. I viaggi internazionali sono una storia diversa: non potete viaggiare internazionalmente fino a quando il vostro nuovo passaporto non arriva, e non potete usare il vecchio passaporto annullato anche se lo avete in mano.
 
-Attualmente occorrono 4-6 settimane per l'elaborazione standard, senza contare il tempo di spedizione in entrambi i sensi. Se avete un viaggio internazionale programmato prima di allora, il Dipartimento di Stato offre elaborazione accelerata dietro compenso aggiuntivo, riducendo la tempistica a circa 2-3 settimane. Per i viaggi veramente urgenti entro 14 giorni di calendario, gli appuntamenti in persona sono disponibili presso agenzie passaporti regionali - controllate la disponibilità su [travel.state.gov](https://travel.state.gov).
+Attualmente occorrono 4-6 settimane per l'elaborazione standard, senza contare il tempo di spedizione in entrambi i sensi. Se avete un viaggio internazionale programmato prima di allora, il Dipartimento di Stato offre elaborazione accelerata dietro compenso aggiuntivo, riducendo la tempistica a circa 2-3 settimane. Per i viaggi veramente urgenti entro 14 giorni di calendario, gli appuntamenti in persona sono disponibili presso agenzie passaporti regionali - controllate la disponibilità su travel.state.gov.
 
 ## Regno Unito: Due processi con esiti opposti
 
@@ -48,13 +48,13 @@ Il rinnovo del passaporto australiano richiede di consegnare il vostro passaport
 
 Non potete viaggiare internazionalmente durante questo periodo. I viaggi aerei nazionali all'interno dell'Australia possono anche essere influenzati se non avete altri documenti d'identità fotografici validi, poiché le compagnie aeree richiedono verifica dell'identità al check-in.
 
-L'Australian Passport Office attualmente consiglia di consentire almeno 6 settimane dalla presentazione della vostra domanda. Se avete un viaggio generico e imminente, è disponibile un'elaborazione più veloce per commissioni aggiuntive - un servizio fast-track elaborato entro 5 giorni lavorativi e un servizio prioritario entro 2 giorni lavorativi. Esistono opzioni di emergenza per i viaggi veramente imminenti. Controllate gli orari attuali e fate domanda su [passports.gov.au](https://www.passports.gov.au).
+L'Australian Passport Office attualmente consiglia di consentire almeno 6 settimane dalla presentazione della vostra domanda. Se avete un viaggio generico e imminente, è disponibile un'elaborazione più veloce per commissioni aggiuntive - un servizio fast-track elaborato entro 5 giorni lavorativi e un servizio prioritario entro 2 giorni lavorativi. Esistono opzioni di emergenza per i viaggi veramente imminenti. Controllate gli orari attuali e fate domanda su passports.gov.au.
 
 ## Canada: Consegnato al momento della domanda
 
 Il Canada richiede di consegnare il vostro passaporto esistente quando fate domanda per il rinnovo. Il vostro vecchio passaporto viene conservato fino a quando il nuovo non è pronto, quindi non potete viaggiare internazionalmente durante questo periodo - anche se i viaggi nazionali all'interno del Canada non richiedono un passaporto.
 
-Gli standard di servizio sono attualmente 10 giorni lavorativi quando fate domanda in persona presso un ufficio passaporti, o 20 giorni lavorativi per posta o presso un Service Canada Centre regolare - più il tempo di spedizione. Per i viaggi urgenti potete scegliere il servizio espresso (da 2 a 9 giorni lavorativi) o il ritiro urgente (veloce come il giorno successivo) dietro compenso aggiuntivo. Controllate gli orari di elaborazione attuali e fate domanda su [canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports.html).
+Gli standard di servizio sono attualmente 10 giorni lavorativi quando fate domanda in persona presso un ufficio passaporti, o 20 giorni lavorativi per posta o presso un Service Canada Centre regolare - più il tempo di spedizione. Per i viaggi urgenti potete scegliere il servizio espresso (da 2 a 9 giorni lavorativi) o il ritiro urgente (veloce come il giorno successivo) dietro compenso aggiuntivo. Controllate gli orari di elaborazione attuali e fate domanda su canada.ca.
 
 ## Confronto tra paesi
 
@@ -77,6 +77,8 @@ Contemporaneamente, contattate la vostra compagnia aerea in merito alla riprogra
 La risposta semplice è rinnovare il vostro passaporto ben prima di averne bisogno per i viaggi. Fare domanda 6-9 mesi prima di qualsiasi viaggio internazionale programmato elimina completamente la pressione dei tempi e lascia spazio per l'elaborazione standard senza commissioni accelerate.
 
 Il motivo per cui le persone finiscono in questa situazione non è l'ignoranza delle norme. I passaporti scadono silenziosamente senza ricordatorio automatico, quindi le persone tendono a ricordare solo che il loro passaporto è valido, non quando scade. Impostare un ricordatorio 12 mesi prima della vostra data di scadenza vi dà il tempo di rinnovare al vostro ritmo, su elaborazione standard, senza pressione.
+
+**Prima di farci affidamento:** questo articolo spiega regole generali, e le regole generali sono tutto ciò che un blog può offrire. I requisiti cambiano e variano in base a cittadinanza, destinazione e data del viaggio. Verifica il tuo caso con l'autorità che rilascia il documento o con il servizio informazioni viaggi del tuo governo prima di prenotare. Controlliamo quello che pubblichiamo e possiamo comunque sbagliare o essere superati.
 
 ## Domande frequenti
 

@@ -60,7 +60,7 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
-[Visum & Inresa Visum vs Pass: Vad är Skillnaden? Ett pass bevisar vem du är. Ett visum ger tillåtelse att resa in. Här är vad var och en gör, varför de flesta resor behöver båda, och hur du kontrollerar din destination. 22 apr. 20266 min](https://traveldocumentvault.com/blog/visa-vs-passport/)
+[Visum & Inresa Vad är skillnaden mellan visum och pass? Ett pass bevisar vem du är. Ett visum är ett lands tillstånd att resa in. Så skiljer de sig åt, varför de flesta resor kräver båda, och vem du bör kontakta. 22 apr. 20266 min](https://traveldocumentvault.com/sv/blog/visa-vs-passport/)
 
 ##
 

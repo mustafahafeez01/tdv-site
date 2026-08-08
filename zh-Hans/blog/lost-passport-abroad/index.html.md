@@ -38,10 +38,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/lost-passport-abroad/
 
 您的大使馆或领事馆是您回家的途径。一旦您获得警方报告，请尽快与他们联系。官方紧急联系方式：
 
-- **英国公民：** [GOV.UK紧急领事协助](https://www.gov.uk/contact-consulate-if-british-national-needs-help)
-- **美国公民：** [travel.state.gov——丢失或被盗护照](https://travel.state.gov/content/travel/en/international-travel/emergencies/lost-stolen-passports.html)
-- **澳大利亚公民：** [Smartraveller——丢失或被盗护照](https://www.smartraveller.gov.au/while-youre-away/passport-problems/lost-or-stolen-passport)
-- **加拿大公民：** [Canada.ca——在国外丢失或被盗的护照](https://travel.gc.ca/assistance/emergency-info/lost-stolen-passport)
+- **英国公民：** GOV.UK紧急领事协助
+- **美国公民：** travel.state.gov——丢失或被盗护照
+- **澳大利亚公民：** Smartraveller——丢失或被盗护照
+- **加拿大公民：** Canada.ca——在国外丢失或被盗的护照
 
 访问前先致电。许多大使馆对紧急护照服务要求预约，可以告诉您确切要携带的东西——不经预约直接上门可能会花费您半天时间。
 
@@ -75,6 +75,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/lost-passport-abroad/
 ## 步骤7：回家并更换护照
 
 一旦您获得紧急旅行证件，如果需要，请向当地移民部门确认出境要求，然后重新预订或确认您的回程。当您回来时：通过您的官方护照颁发机构申请完整更换护照，并在下次旅行前设置所有旅行文件的加密数字备份。
+
+**在依据本文行动之前：**本文说明的是一般规则，而一般规则也是任何博客所能提供的全部。要求会变化，并且因国籍、目的地和出行日期而异。预订前请向签发机构或本国的出行提示服务核实你的具体情况。我们会核对所发布的内容，但仍可能出错或过时。
 
 ## 常见问题
 

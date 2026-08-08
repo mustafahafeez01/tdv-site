@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/fr/blog/passport-expired-what-to-do/
 
 - Il y a deux scénarios distincts : découvrir que votre passeport est expiré **à la maison avant un voyage**, et le découvrir **à l'aéroport**. Les étapes sont différentes pour chaque cas.
 - Vous ne pouvez pas voler internationalement avec un passeport expiré. Aucune exception.
-- Au Royaume-Uni, un service de passeport Premium le même jour existe pour les urgences authentiques - réservable sur [gov.uk](https://www.gov.uk/apply-renew-passport). Aux États-Unis, les rendez-vous d'urgence sont disponibles auprès du Département d'État pour les voyages dans 72 heures.
+- Au Royaume-Uni, un service de passeport Premium le même jour existe pour les urgences authentiques - réservable sur gov.uk. Aux États-Unis, les rendez-vous d'urgence sont disponibles auprès du Département d'État pour les voyages dans 72 heures.
 - À l'aéroport, contactez d'abord votre compagnie aérienne - certaines reprogrammeront gratuitement en cas d'urgence documentaire authentique.
 - La solution à long terme est un rappel d'expiration 12 mois avant, pas 6 mois. Cela vous donne suffisamment de temps pour renouveler avec un traitement standard.
 - L'expiration n'est pas le seul problème de passeport qui fait refuser l'accès aux voyageurs. Les dommages, les décalages de nom, les signatures manquantes et la validité insuffisante à votre destination causent tous le même résultat.
@@ -80,13 +80,15 @@ Cette règle n'est pas appliquée de manière cohérente dans toutes les destina
 
 Les exigences de visa et d'autorisation de voyage électronique (ETA) changent fréquemment et varient selon la nationalité, la destination et le but du voyage. Arriver sans la permission d'entrée correcte - en supposant l'accès sans visa alors qu'il en existe un vraiment requis - entraîne le refus d'embarquement ou le renvoi à la frontière. Un itinéraire qui était sans visa la dernière fois que vous l'avez parcouru ne l'est peut-être plus.
 
-Avant chaque voyage, vérifiez les exigences d'entrée officielles pour votre destination en utilisant le service de conseil aux voyageurs de votre pays : [gov.uk/foreign-travel-advice](https://www.gov.uk/foreign-travel-advice) pour les titulaires de passeport britannique, [travel.state.gov](https://travel.state.gov) pour les titulaires de passeport américain, ou [smartraveller.gov.au](https://www.smartraveller.gov.au) pour les titulaires de passeport australien. Ne vous fiez pas à ce qui était vrai la dernière fois.
+Avant chaque voyage, vérifiez les exigences d'entrée officielles pour votre destination en utilisant le service de conseil aux voyageurs de votre pays : gov.uk/foreign-travel-advice pour les titulaires de passeport britannique, travel.state.gov pour les titulaires de passeport américain, ou smartraveller.gov.au pour les titulaires de passeport australien. Ne vous fiez pas à ce qui était vrai la dernière fois.
 
 ## Comment S'assurer Que Cela Ne Se Reproduise Plus Jamais
 
 La cause première est généralement la même : aucun rappel en place. Réglez un rappel d'expiration au moins **12 mois avant la date d'expiration** - pas 6 mois. Cela vous donne du temps pour renouveler avec un traitement standard sans payer pour un service accéléré, et sans le stress d'un calendrier serré.
 
 Faites cela pour chaque passeport de votre ménage séparément. Les passeports des enfants expirent plus rapidement - 5 ans dans la plupart des pays contre 10 pour les adultes - et ce sont ceux qui sont le plus souvent oubliés.
+
+**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
 
 ## Questions Fréquemment Posées
 
@@ -104,7 +106,7 @@ Vous ne pourrez pas embarquer. Allez au comptoir de la compagnie aérienne immé
 
 ### À quelle vitesse puis-je obtenir un passeport d'urgence si le mien a expiré ?
 
-Au Royaume-Uni, un service Premium le même jour est disponible aux bureaux de passeport désignés pour les voyages dans 1 semaine - rendez-vous requis, réservable sur [gov.uk](https://www.gov.uk/apply-renew-passport). Aux États-Unis, les rendez-vous d'urgence en personne sont disponibles aux agences régionales de passeport pour les voyages dans les 72 heures - les frais accélérés sont de 60 $ plus les frais de renouvellement standard. Consultez [travel.state.gov](https://travel.state.gov/content/travel/en/passports/need-passport/passport-agencies.html) pour la disponibilité. En Australie, consultez [passports.gov.au](https://www.passports.gov.au) pour les options de traitement urgent.
+Au Royaume-Uni, un service Premium le même jour est disponible aux bureaux de passeport désignés pour les voyages dans 1 semaine - rendez-vous requis, réservable sur gov.uk. Aux États-Unis, les rendez-vous d'urgence en personne sont disponibles aux agences régionales de passeport pour les voyages dans les 72 heures - les frais accélérés sont de 60 $ plus les frais de renouvellement standard. Consultez travel.state.gov pour la disponibilité. En Australie, consultez passports.gov.au pour les options de traitement urgent.
 
 ### Comment puis-je éviter que mon passeport n'expire inopinément ?
 

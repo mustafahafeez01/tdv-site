@@ -32,7 +32,7 @@ Standard US passport renewal by mail does not require you to surrender your curr
 
 This means domestic travel within the United States is unaffected throughout the renewal process - you don't need a passport for domestic flights. International travel is a different story: you can't travel internationally until your new passport arrives, and you can't use the old cancelled passport even if you have it in hand.
 
-It currently takes 4 to 6 weeks for standard processing, not counting mailing time each way. If you have international travel booked sooner than that, the State Department offers expedited processing for an additional fee, reducing the timeline to roughly 2 to 3 weeks. For genuinely urgent travel within 14 calendar days, in-person appointments are available at regional passport agencies - check availability at [travel.state.gov](https://travel.state.gov).
+It currently takes 4 to 6 weeks for standard processing, not counting mailing time each way. If you have international travel booked sooner than that, the State Department offers expedited processing for an additional fee, reducing the timeline to roughly 2 to 3 weeks. For genuinely urgent travel within 14 calendar days, in-person appointments are available at regional passport agencies - check availability at travel.state.gov.
 
 ## United Kingdom: Two Processes with Opposite Outcomes
 
@@ -50,13 +50,13 @@ Australian passport renewal requires you to surrender your current passport at t
 
 You can't travel internationally during this period. Domestic air travel within Australia may also be affected if you have no other valid photo ID, as airlines require identity verification at check-in.
 
-The Australian Passport Office currently advises allowing at least 6 weeks from lodging your application. If you have genuine and imminent travel, faster processing is available for additional fees - a fast-track service processed within 5 business days and a priority service within 2 business days. Emergency options exist for truly imminent travel. Check current times and apply at [passports.gov.au](https://www.passports.gov.au).
+The Australian Passport Office currently advises allowing at least 6 weeks from lodging your application. If you have genuine and imminent travel, faster processing is available for additional fees - a fast-track service processed within 5 business days and a priority service within 2 business days. Emergency options exist for truly imminent travel. Check current times and apply at passports.gov.au.
 
 ## Canada: Surrendered on Application
 
 Canada requires you to surrender your existing passport when you apply for renewal. Your old passport is held until your new one is ready, so you can't travel internationally during this period - though domestic travel within Canada doesn't require a passport.
 
-Service standards are currently 10 business days when you apply in person at a passport office, or 20 business days by mail or at a regular Service Canada Centre - plus mailing time. For urgent travel you can choose express service (2 to 9 business days) or urgent pickup (as fast as the next business day) for additional fees. Check current processing times and apply at [canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports.html).
+Service standards are currently 10 business days when you apply in person at a passport office, or 20 business days by mail or at a regular Service Canada Centre - plus mailing time. For urgent travel you can choose express service (2 to 9 business days) or urgent pickup (as fast as the next business day) for additional fees. Check current processing times and apply at canada.ca.
 
 ## Country Comparison
 
@@ -79,6 +79,8 @@ At the same time, contact your airline about rescheduling. Some carriers will wa
 The straightforward answer is to renew your passport well before you need it for travel. Applying 6 to 9 months before any planned international travel removes the timing pressure entirely and leaves room for standard processing without expedited fees.
 
 The reason people end up in this situation is not ignorance of the rules. Passports expire quietly with no automatic reminder, so people tend to remember only that their passport is valid, not when it expires. Setting a reminder 12 months before your expiry date gives you time to renew at your own pace, on standard processing, without pressure.
+
+**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
 
 ## Frequently Asked Questions
 

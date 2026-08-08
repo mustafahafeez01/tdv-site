@@ -31,9 +31,9 @@ Une lettre est généralement requise dans ces situations :
 - **Un enfant voyage avec un parent dont le nom de famille diffère de celui de l'enfant.** Cela lève des drapeaux rouges à certaines frontières, particulièrement pour les enfants plus jeunes.
 - **Un enfant est adopté ou en placement familial.** Des documents de garde légale et un consentement peuvent être requis aux côtés de la lettre.
 
-**Mise en garde critique :** les règles varient considérablement. Les Pays-Bas n'exigent pas une lettre de consentement même si un enfant voyage avec un seul parent. Le [Canada n'exige pas légalement une lettre de consentement](https://travel.gc.ca/travelling/children/consent-letter), mais le gouvernement du Canada la recommande fortement et note que « l'incapacité à produire une lettre sur demande peut entraîner des retards ou un refus d'entrée ou de sortie d'un pays ». L'Afrique du Sud applique des règles de documentation strictes à ses frontières. Certains pays ne s'appliquent que pour les enfants au-dessous d'un certain âge. Il n'existe pas de norme mondiale.
+**Mise en garde critique :** les règles varient considérablement. Les Pays-Bas n'exigent pas une lettre de consentement même si un enfant voyage avec un seul parent. Le Canada n'exige pas légalement une lettre de consentement, mais le gouvernement du Canada la recommande fortement et note que « l'incapacité à produire une lettre sur demande peut entraîner des retards ou un refus d'entrée ou de sortie d'un pays ». L'Afrique du Sud applique des règles de documentation strictes à ses frontières. Certains pays ne s'appliquent que pour les enfants au-dessous d'un certain âge. Il n'existe pas de norme mondiale.
 
-Vérifiez toujours les exigences directement auprès de l'autorité d'immigration de votre pays de destination spécifique avant de voyager. Utilisez le [Centre de voyage IATA](https://www.iatatravelcentre.com) pour vérifier les exigences d'entrée ou contactez l'ambassade de votre pays de destination. Si vous avez des doutes, avoir la lettre est mieux que l'alternative : être arrêté à l'enregistrement ou à la frontière.
+Vérifiez toujours les exigences directement auprès de l'autorité d'immigration de votre pays de destination spécifique avant de voyager. Utilisez le Centre de voyage IATA pour vérifier les exigences d'entrée ou contactez l'ambassade de votre pays de destination. Si vous avez des doutes, avoir la lettre est mieux que l'alternative : être arrêté à l'enregistrement ou à la frontière.
 
 ## Ce que la lettre doit inclure
 
@@ -84,13 +84,13 @@ Même les familles bien préparées commettent des erreurs qui conduisent au rej
 
 | Pays | Exigence | Notarisation | Source officielle |
 |---|---|---|---|
-| **Canada** | Fortement recommandée (non légalement requise) | Recommandée (notaire public) | [travel.gc.ca](https://travel.gc.ca/travelling/children/consent-letter) |
-| **Afrique du Sud** | Généralement requise | Oui (certifiée par notaire ou avocat) | [Département des Affaires intérieures](https://www.dha.gov.za) |
-| **Australie** | Recommandée ; les compagnies aériennes peuvent exiger | Oui (certifiée par avocat) | [Smart Traveller](https://www.smartraveller.gov.au) |
-| **Royaume-Uni** | Non légalement requise ; les compagnies aériennes et les frontières de destination peuvent demander | Recommandée (avocat) | [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration) |
-| **États-Unis** | Non requise au niveau fédéral ; varie selon l'État | Varie selon l'État | [travel.state.gov](https://travel.state.gov) |
-| **Union européenne** | Varie selon le pays | Varie selon le pays | [Centre de voyage IATA](https://www.iatatravelcentre.com) |
-| **Nouvelle-Zélande** | Recommandée | À vérifier avec l'immigration | [Immigration NZ](https://www.immigration.govt.nz) |
+| **Canada** | Fortement recommandée (non légalement requise) | Recommandée (notaire public) | travel.gc.ca |
+| **Afrique du Sud** | Généralement requise | Oui (certifiée par notaire ou avocat) | Département des Affaires intérieures |
+| **Australie** | Recommandée ; les compagnies aériennes peuvent exiger | Oui (certifiée par avocat) | Smart Traveller |
+| **Royaume-Uni** | Non légalement requise ; les compagnies aériennes et les frontières de destination peuvent demander | Recommandée (avocat) | UKVI |
+| **États-Unis** | Non requise au niveau fédéral ; varie selon l'État | Varie selon l'État | travel.state.gov |
+| **Union européenne** | Varie selon le pays | Varie selon le pays | Centre de voyage IATA |
+| **Nouvelle-Zélande** | Recommandée | À vérifier avec l'immigration | Immigration NZ |
 
 **Vérifiez toujours les exigences actuelles directement auprès de l'autorité d'immigration officielle pour votre pays de destination.** Les règles changent fréquemment et les sites Web des gouvernements officiels sont votre source la plus fiable. Les blogs de voyage et les pages des compagnies aériennes sont utiles pour le contexte, mais ils peuvent avoir du retard par rapport aux dernières exigences.
 
@@ -121,6 +121,8 @@ Dans les jours avant le départ, passez en revue cette liste de vérification :
 - Ne laminez pas une lettre notariée. La lamination peut invalider la certification.
 
 Une lettre de consentement bien préparée est la protection de votre famille contre les perturbations de voyage. Le temps passé maintenant se rembourse par des passages aux frontières sans problème et la tranquillité d'esprit.
+
+**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
 
 ## Questions fréquemment posées
 

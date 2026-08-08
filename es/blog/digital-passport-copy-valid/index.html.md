@@ -22,7 +22,7 @@ Cuando planificas un viaje, muchos viajeros se preguntan si pueden guardar una c
 
 ### Check-in en el Hotel
 
-La mayoría de los hoteles en el mundo aceptan copias digitales del pasaporte para el check-in - un PDF en tu teléfono, enviado por correo electrónico con anticipación, o impreso. Esto es particularmente útil si te registras tarde o te mueves entre propiedades y no deseas llevar tu pasaporte físico durante todo el viaje. Algunos hoteles más pequeños, particularmente en regiones con menos infraestructura digital, aún prefieren el original. En partes de Europa - España, Francia e Italia entre ellas - los hoteles deben registrar tus datos para las autoridades y generalmente desearán ver el pasaporte físico para hacerlo, aunque la [guía de protección de datos dice que típicamente no deberían guardar una copia](https://blogturismo.garrigues.com/en/information-technology/traveler-registration-is-it-legal-to-ask-for-a-photocopy-of-a-guests-id-card-or-passport-at-the-chek-in-desk-of-a-hotel). Contacta a tu alojamiento con anticipación para confirmar.
+La mayoría de los hoteles en el mundo aceptan copias digitales del pasaporte para el check-in - un PDF en tu teléfono, enviado por correo electrónico con anticipación, o impreso. Esto es particularmente útil si te registras tarde o te mueves entre propiedades y no deseas llevar tu pasaporte físico durante todo el viaje. Algunos hoteles más pequeños, particularmente en regiones con menos infraestructura digital, aún prefieren el original. En partes de Europa - España, Francia e Italia entre ellas - los hoteles deben registrar tus datos para las autoridades y generalmente desearán ver el pasaporte físico para hacerlo, aunque la guía de protección de datos dice que típicamente no deberían guardar una copia. Contacta a tu alojamiento con anticipación para confirmar.
 
 ### Reservas de Vuelo y Check-in en Línea
 
@@ -72,6 +72,8 @@ Las copias del pasaporte contienen información de identidad sensible: tu nombre
 **Travel Document Vault** almacena copias cifradas de todos tus documentos de viaje en el dispositivo. Cifrado AES-256 en tu teléfono, sin cuenta requerida. Copia de seguridad cifrada opcional a tu propio iCloud o Google Drive (Pro) sellada con un código de recuperación solo que tú tienes. [Disponible en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 Si te preguntas si el almacenamiento en nube es seguro para copias del pasaporte, consulta nuestra guía sobre [almacenar pasaportes en Google Photos](https://traveldocumentvault.com/es/blog/is-it-safe-to-store-passport-in-google-photos/). Explica por qué una aplicación cifrada dedicada ofrece una protección más fuerte.
+
+**Antes de fiarte de esto:** este artículo explica reglas generales, y las reglas generales son todo lo que puede ofrecer un blog. Los requisitos cambian y varían según la nacionalidad, el destino y la fecha del viaje. Consulta tu caso con la autoridad que emite el documento o con el servicio de información al viajero de tu gobierno antes de reservar. Revisamos lo que publicamos y aun así podemos equivocarnos o quedarnos desactualizados.
 
 ## Preguntas Frecuentes
 

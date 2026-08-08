@@ -32,7 +32,7 @@ Si vous détenez un visa tel qu'un visa Schengen de longue durée, un visa famil
 
 Contrairement aux visas traditionnels, l'ETIAS ne nécessite pas la soumission de documents physiques - vous demandez entièrement en ligne à la place. Cependant, vous devez avoir des informations spécifiques prêtes avant de commencer le formulaire de demande.
 
-**Votre passeport** doit être valable pour au moins trois mois au-delà de votre date de départ prévue d'Europe - et de nombreux demandeurs font l'erreur de supposer qu'un passeport expirant le 30 décembre fonctionnera pour un voyage partant le 1er décembre, alors qu'en réalité la plupart des pays exigent le buffer complet de trois mois pour être sûr. Au-delà de cette fenêtre de validité, il doit également s'agir d'un [passeport d'adulte standard d'un pays reconnu](https://www.gov.uk/apply-renew-passport), et non d'un document de voyage ou d'un passeport d'urgence.
+**Votre passeport** doit être valable pour au moins trois mois au-delà de votre date de départ prévue d'Europe - et de nombreux demandeurs font l'erreur de supposer qu'un passeport expirant le 30 décembre fonctionnera pour un voyage partant le 1er décembre, alors qu'en réalité la plupart des pays exigent le buffer complet de trois mois pour être sûr. Au-delà de cette fenêtre de validité, il doit également s'agir d'un passeport d'adulte standard d'un pays reconnu, et non d'un document de voyage ou d'un passeport d'urgence.
 
 Vous devez également fournir **une adresse e-mail**, qui sert également de login pour le suivi de votre demande tout au long du processus - ETIAS enverra toutes les mises à jour de statut, les approbations et les rejets à cette boîte de réception, donc utilisez-en une que vous consultez régulièrement. Si votre famille partage des comptes e-mail, il vaut la peine de configurer des adresses individuelles pour chaque voyageur afin d'éviter de manquer les notifications critiques.
 
@@ -46,7 +46,7 @@ De nombreux demandeurs supposent à tort qu'ils ont besoin de certificats de vac
 
 ## Le processus de demande ETIAS : Étape par étape
 
-Une fois que vous avez rassemblé vos informations, la demande en ligne elle-même est simple - visitez le [portail de demande officiel d'ETIAS](https://travel-europe.europa.eu) (qui devrait être lancé au début de 2026) et démarrez une nouvelle demande sans avoir besoin de créer un compte complet, en utilisant simplement une adresse e-mail et un mot de passe temporaire.
+Une fois que vous avez rassemblé vos informations, la demande en ligne elle-même est simple - visitez le portail de demande officiel d'ETIAS (qui devrait être lancé au début de 2026) et démarrez une nouvelle demande sans avoir besoin de créer un compte complet, en utilisant simplement une adresse e-mail et un mot de passe temporaire.
 
 Le formulaire vous demande vos détails personnels (nom, date de naissance, nationalité), informations de passeport (numéro et date de validité) et vos plans de voyage (destination prévue et durée du séjour). Soyez précis : si vous prévoyez de visiter trois pays, énumérez les trois. Si vous n'êtes pas sûr des dates exactes, utilisez des plages de mois approximatives - l'incohérence est ce qui déclenche les rejets, pas les dates approximatives.
 
@@ -58,7 +58,7 @@ Les déclarations de santé sont simples - on vous demandera si vous avez des ma
 
 ## Délai de traitement et types de résultats
 
-Bien que le délai de traitement standard soit **jusqu'à 4 semaines**, la [Commission européenne](https://ec.europa.eu/home-affairs/eeas-eu-travel-authorisation-system_en) recommande de demander au moins 2 mois avant votre voyage pour tenir compte de la surcharge initiale du système suite au lancement, des retards potentiels dans les contrôles de sécurité, et du temps pour résoudre tout rejet si nécessaire.
+Bien que le délai de traitement standard soit **jusqu'à 4 semaines**, la Commission européenne recommande de demander au moins 2 mois avant votre voyage pour tenir compte de la surcharge initiale du système suite au lancement, des retards potentiels dans les contrôles de sécurité, et du temps pour résoudre tout rejet si nécessaire.
 
 Il y a trois résultats possibles : approuvé, rejeté ou refus d'autorisation.
 
@@ -88,11 +88,11 @@ Les enfants de moins de 18 ans ne paient pas les frais d'ETIAS mais doivent touj
 
 Les groupes familiaux doivent soumettre chaque demande séparément plutôt que sous la forme d'une seule unité « familiale », bien que vous puissiez noter que vous voyagez en famille dans la section des détails de voyage - cette notation peut aider si la demande d'un membre est signalée pour révision.
 
-Si vous êtes refusé et que vous avez toujours besoin de voyager, votre solution de repli est de demander un visa traditionnel de longue durée par le biais de l'ambassade ou du consulat concerné, qui permet généralement les entrées multiples et les séjours plus longs que les voyages sans visa. Étant donné que les exigences varient considérablement selon la destination et votre nationalité, contactez [l'ambassade directement](https://www.gov.uk/foreign-travel-advice) pour comprendre ce dont vous aurez besoin.
+Si vous êtes refusé et que vous avez toujours besoin de voyager, votre solution de repli est de demander un visa traditionnel de longue durée par le biais de l'ambassade ou du consulat concerné, qui permet généralement les entrées multiples et les séjours plus longs que les voyages sans visa. Étant donné que les exigences varient considérablement selon la destination et votre nationalité, contactez l'ambassade directement pour comprendre ce dont vous aurez besoin.
 
 ## ETIAS avec d'autres documents de voyage
 
-L'approbation ETIAS ne remplace pas votre passeport, [l'assurance voyage](https://www.gov.uk/foreign-travel-advice), ou [les exigences de validité du passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/). Vous avez toujours besoin de :
+L'approbation ETIAS ne remplace pas votre passeport, l'assurance voyage, ou [les exigences de validité du passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/). Vous avez toujours besoin de :
 
 - Un passeport valide (validité 3+ mois)
 - Assurance voyage couvrant les urgences médicales et le rapatriement
@@ -101,6 +101,8 @@ L'approbation ETIAS ne remplace pas votre passeport, [l'assurance voyage](https:
 - Fonds suffisants pour votre séjour
 
 Les agents frontaliers peuvent toujours demander l'un de ces documents à l'arrivée, même avec une ETIAS valide, puisque l'ETIAS accélère simplement le processus d'autorisation plutôt que de vous exempter des contrôles frontaliers standards et des exigences de documentation.
+
+**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
 
 ## Questions fréquemment posées
 

@@ -1,6 +1,6 @@
-# Visa vs Passeport : Quelle est la différence ?
+# Quelle est la différence entre un visa et un passeport ?
 
-> Un passeport prouve qui vous êtes. Un visa accorde l'autorisation d'entrer. Voici ce que chacun fait, pourquoi la plupart des voyages exigent les deux, et comment vérifier votre destination.
+> Un passeport prouve qui vous êtes. Un visa est l'autorisation d'entrer accordée par un pays. Voici ce qui les distingue et auprès de qui vérifier.
 
 Source: https://traveldocumentvault.com/fr/blog/visa-vs-passport/
 
@@ -24,7 +24,7 @@ Votre passeport contient votre nom, votre date de naissance, votre photo et un n
 
 Pensez à votre passeport comme à votre carte d'identité officielle pour les voyages internationaux. Sans lui, vous ne pouvez pas légalement quitter votre pays ou entrer dans la plupart des destinations étrangères. Les agents d'immigration l'examinent aux frontières, les compagnies aériennes l'exigent pour les vols internationaux, et les douaniers le vérifient à votre arrivée.
 
-Les passeports sont généralement valides pendant plusieurs années (souvent 10 ans pour les adultes, 5 ans pour les enfants), bien que les périodes de validité varient selon le pays. Lorsque votre passeport expire, vous ne pouvez pas voyager à l'international et devez demander un renouvellement. Garder une trace de la date d'expiration de votre passeport est essentiel car [de nombreux pays exigent au moins 6 mois de validité restante](https://www.iatatravelcentre.com) avant de vous permettre d'entrer.
+Les passeports sont généralement valides pendant plusieurs années (souvent 10 ans pour les adultes, 5 ans pour les enfants), bien que les périodes de validité varient selon le pays. Lorsque votre passeport expire, vous ne pouvez pas voyager à l'international et devez demander un renouvellement. Garder une trace de la date d'expiration de votre passeport est essentiel car de nombreux pays exigent au moins 6 mois de validité restante avant de vous permettre d'entrer.
 
 ## Qu'est-ce qu'un visa
 
@@ -75,9 +75,9 @@ Un scénario courant : vous obtenez un nouveau passeport avant l'expiration de v
 
 La clé est votre nationalité et votre destination. Un voyageur peut avoir besoin d'un visa pour un itinéraire qu'un autre peut emprunter sans visa, selon leur passeport. Vérifiez toujours vos exigences spécifiques auprès de sources officielles avant de réserver - ne vous fiez pas à ce qui a fonctionné pour un ami ayant un passeport différent.
 
-- **[Centre de voyage IATA :](https://www.iatatravelcentre.com)** Recherchez par votre pays de passeport et pays de destination pour voir les exigences exactes, les délais de traitement et les périodes de validité. C'est le point de départ le plus rapide pour la plupart des itinéraires.
+- **Centre de voyage IATA :** Recherchez par votre pays de passeport et pays de destination pour voir les exigences exactes, les délais de traitement et les périodes de validité. C'est le point de départ le plus rapide pour la plupart des itinéraires.
 - **L'ambassade officielle ou le consulat de votre pays de destination :** Visitez le site Web de l'ambassade pour votre pays de résidence. Ils énumèrent les exigences de visa, les processus de demande, les frais et les délais de traitement spécifiques à votre nationalité. Par exemple, recherchez « ambassade française au Canada » ou « consulat allemand en Australie » pour trouver le site approprié.
-- **L'avis de voyage officiel de votre gouvernement :** Les gouvernements comme [le Royaume-Uni](https://www.gov.uk/foreign-travel-advice), les [États-Unis](https://travel.state.gov), [l'Australie](https://www.smartraveller.gov.au) et [le Canada](https://travel.gc.ca) publient les exigences de visa pour leurs citoyens. Ces pages signalent également les changements récents et les circonstances spéciales.
+- **L'avis de voyage officiel de votre gouvernement :** Les gouvernements comme le Royaume-Uni, les États-Unis, l'Australie et le Canada publient les exigences de visa pour leurs citoyens. Ces pages signalent également les changements récents et les circonstances spéciales.
 
 Ne vous fiez jamais uniquement aux blogs de voyage, aux sites Web de services de visa commerciaux ou aux informations provenant de voyages antérieurs. Les exigences changent fréquemment. Un itinéraire sans visa peut maintenant exiger des visas ; les délais de traitement changent ; les critères d'admissibilité évoluent. Vérifiez directement auprès de sources officielles 2-3 mois avant le voyage pour permettre un délai pour les demandes si nécessaire.
 
@@ -95,33 +95,47 @@ La confusion survient parce que le visa apparaît dans votre ancien passeport, q
 
 ## Voyages sans visa : un paysage complexe
 
-De nombreuses nations ont des accords d'exemption de visa ou des accords sans visa les unes avec les autres, permettant à leurs citoyens de franchir les frontières sans obtenir un visa au préalable. L'espace Schengen en Europe est l'exemple le plus connu - les titulaires de passeports des pays membres peuvent se déplacer librement dans ses [29 états membres](https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/schengen-area_en) sans contrôles de visa. L'Asie du Sud-Est, les Caraïbes et certaines parties de l'Afrique ont des schémas similaires.
+De nombreuses nations ont des accords d'exemption de visa ou des accords sans visa les unes avec les autres, permettant à leurs citoyens de franchir les frontières sans obtenir un visa au préalable. L'espace Schengen en Europe est l'exemple le plus connu - les titulaires de passeports des pays membres peuvent se déplacer librement dans ses 29 états membres sans contrôles de visa. L'Asie du Sud-Est, les Caraïbes et certaines parties de l'Afrique ont des schémas similaires.
 
 Cependant, les voyages sans visa ont des limites. Ils s'appliquent généralement uniquement au tourisme ou aux visites de courte durée, pas au travail ou aux études. Les périodes sans visa ont également des limites, souvent 30 à 90 jours selon le pays. Si vous dépassez le temps autorisé, vous devenez un résident illégal et risquez des pénalités incluant des amendes, l'expulsion ou les interdictions d'entrée futures.
 
 L'accès sans visa dépend également entièrement de votre nationalité. Deux personnes voyageant ensemble peuvent avoir des exigences de visa différentes selon leurs passeports. L'une peut visiter sans visa tandis que l'autre doit demander un visa. C'est pourquoi vérifier votre nationalité spécifique est essentiel lors de la recherche des exigences.
 
+**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
+
 ## Questions fréquemment posées
 
-### À quoi sert un passeport
+### Quelle est la différence entre un visa et un passeport
 
-Un passeport est un document de voyage officiel délivré par votre gouvernement qui prouve votre citoyenneté et votre identité. Il est requis pour entrer dans la plupart des pays étrangers et sert comme votre identification principale lors de voyages internationaux. Les agents d'immigration examinent votre passeport aux frontières, les compagnies aériennes l'exigent pour les vols internationaux, et les douaniers le vérifient à votre arrivée.
+Votre passeport est délivré par votre propre pays et prouve qui vous êtes et à quel pays vous appartenez. Le visa est délivré par le pays que vous voulez visiter et vous autorise à y entrer. L'un vous identifie, l'autre vous admet, et la plupart des voyages internationaux exigent les deux.
 
-### Pouvez-vous utiliser un visa d'un passeport expiré
+### Un visa est-il la même chose qu'un passeport
 
-Dans la plupart des pays, oui. La validité de votre visa est indépendante de la validité de votre passeport. Si votre passeport a expiré mais que votre visa est toujours valide, vous pouvez voyager en transportant les deux documents - votre ancien passeport expiré contenant le visa et votre nouveau passeport valide. Cependant, certains pays exigent que vous transfériez le visa à votre nouveau passeport avant de voyager. Vérifiez toujours auprès de l'ambassade ou du consulat officiel du pays de destination.
+Non. Ils viennent de gouvernements différents et remplissent des fonctions différentes. Votre passeport vient de votre pays et vous suit partout. Un visa vient d'un seul pays de destination et ne vaut que pour ce pays, pour un motif et une durée déterminés.
 
-### Avez-vous besoin d'un visa pour chaque pays
+### Pourquoi ai-je besoin d'un visa si j'ai un passeport
 
-Non. Les exigences de visa dépendent de votre nationalité et du pays de destination. Beaucoup de pays ont des accords sans visa ou des programmes d'exemption de visa avec certaines nations. Cependant, les exigences de visa varient considérablement selon votre nationalité de passeport. Vous devez vérifier les exigences pour votre situation spécifique via le Centre de voyage IATA ou les sites officiels des ambassades.
+Le passeport prouve votre identité et votre nationalité, mais il n'oblige aucun pays à vous laisser entrer. Chaque destination décide elle-même qui peut entrer, et le visa est la façon dont elle consigne cette décision. Un passeport valide vous permet de quitter votre pays, pas de franchir la frontière à l'arrivée.
 
-### Quels sont les différents types de visas
+### Un passeport compte-t-il comme un visa
 
-Les types de visas courants incluent les visas touristiques (pour les loisirs), les visas de travail (pour l'emploi), les visas d'études (pour l'éducation), les visas de transit (pour passer par un pays), les visas électroniques (demandés en ligne) et les visas à l'arrivée (délivrés à l'aéroport ou à la frontière de destination). Chaque type a des restrictions spécifiques et des périodes de validité qui varient selon le pays de destination.
+Non, et les deux ne sont jamais interchangeables. Si votre destination exige un visa pour votre nationalité, le passeport seul ne suffira pas, et une compagnie aérienne peut refuser de vous embarquer avant même que vous n'atteigniez la frontière. Là où aucun visa n'est exigé, le passeport suffit.
 
-### Combien de temps faut-il pour obtenir un visa
+### Qu'est-ce qu'un visa sur un passeport
 
-Les délais de traitement des visas varient considérablement selon le pays et le type de visa. En règle générale, postulez 2-3 mois avant votre date de voyage prévue. Certains visas sont traités en quelques jours, tandis que d'autres prennent plusieurs mois. Vérifiez toujours les sites officiels des ambassades pour connaître les délais de traitement spécifiques à votre destination. Il est préférable de postuler plus tôt que nécessaire plutôt que de risquer de manquer vos dates de voyage.
+Traditionnellement, le visa est une vignette ou un tampon apposé sur une page de votre passeport, indiquant le type de visa, les dates couvertes et le nombre d'entrées autorisées. Les visas électroniques font la même chose sans aucune marque sur le passeport, rattachés à votre numéro de passeport dans le système du pays de destination.
+
+### Quelle est la forme complète de passeport et de visa
+
+Aucun des deux mots n'est un sigle, il n'y a donc rien à développer. Ce sont des mots ordinaires aux origines anciennes : passeport vient du français passer et port, et visa du latin désignant un papier qui a été vu.
+
+### Une carte Visa est-elle la même chose qu'un visa de voyage
+
+Non, et ce nom partagé est une coïncidence plutôt qu'un lien. Visa, le réseau de paiement, n'a rien à voir avec l'immigration ou le contrôle des frontières, et une carte Visa ne vous donne le droit d'entrer dans aucun pays.
+
+### Peut-on utiliser un visa figurant dans un passeport périmé
+
+Dans la plupart des pays, oui. La validité du visa est distincte de celle du passeport : un visa encore valide dans un passeport périmé reste généralement utilisable si vous présentez les deux livrets ensemble. Certains pays exigent toutefois le transfert du visa sur le nouveau passeport, alors confirmez la règle de votre destination auprès de son ambassade avant de partir.
 
 ## Articles connexes
 

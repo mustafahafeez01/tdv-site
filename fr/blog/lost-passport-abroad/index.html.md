@@ -38,10 +38,10 @@ Demandez une copie écrite avec un numéro de dossier. Demandez une version angl
 
 Votre ambassade ou consulat est votre route vers la maison. Contactez-les dès que vous avez le rapport de police. Coordonnées d'urgence officielles:
 
-- **Citoyens britanniques:** [GOV.UK assistance consulaire d'urgence](https://www.gov.uk/contact-consulate-if-british-national-needs-help)
-- **Citoyens américains:** [travel.state.gov - passeports perdus ou volés](https://travel.state.gov/content/travel/en/international-travel/emergencies/lost-stolen-passports.html)
-- **Citoyens australiens:** [Smartraveller - passeport perdu ou volé](https://www.smartraveller.gov.au/while-youre-away/passport-problems/lost-or-stolen-passport)
-- **Citoyens canadiens:** [Canada.ca - passeport perdu ou volé à l'étranger](https://travel.gc.ca/assistance/emergency-info/lost-stolen-passport)
+- **Citoyens britanniques:** GOV.UK assistance consulaire d'urgence
+- **Citoyens américains:** travel.state.gov - passeports perdus ou volés
+- **Citoyens australiens:** Smartraveller - passeport perdu ou volé
+- **Citoyens canadiens:** Canada.ca - passeport perdu ou volé à l'étranger
 
 Appelez avant de visiter. De nombreuses ambassades exigent un rendez-vous pour les services de passeport d'urgence et peuvent vous dire exactement ce qu'il faut apporter - vous présenter sans rendez-vous pourrait vous coûter une demi-journée.
 
@@ -75,6 +75,8 @@ Si vous perdez un passeport en Thaïlande qui contient un visa valide à entrée
 ## Étape 7 - Rentrez à la maison et remplacez votre passeport
 
 Une fois que vous avez votre document de voyage d'urgence, confirmez les exigences de sortie auprès de l'immigration locale si nécessaire, puis réservez ou confirmez votre voyage vers la maison. Une fois de retour - demandez un passeport de remplacement complet par l'intermédiaire de votre autorité de passeport officielle et établissez une sauvegarde numérique chiffrée de tous vos documents de voyage avant votre prochain voyage.
+
+**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
 
 ## Questions fréquemment posées
 

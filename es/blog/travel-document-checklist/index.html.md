@@ -30,7 +30,7 @@ Antes de confirmar cualquier reserva, verifica el pasaporte de cada viajero cont
 
 **Verifica tus requisitos de visado**
 
-Averigua si tu nacionalidad de pasaporte requiere visado para entrada, tránsito o ambos. Utiliza el aviso de viaje oficial de tu gobierno o el [IATA Travel Centre](https://www.iatatravelcentre.com) - la misma base de datos que las aerolíneas usan para verificar documentos de pasajeros. Necesitarás saber si se requiere visado, o si eres elegible para acceso de visado al llegar o visado electrónico, con cuánta anticipación necesita ocurrir la solicitud, y si el visado cubre múltiples entradas.
+Averigua si tu nacionalidad de pasaporte requiere visado para entrada, tránsito o ambos. Utiliza el aviso de viaje oficial de tu gobierno o el IATA Travel Centre - la misma base de datos que las aerolíneas usan para verificar documentos de pasajeros. Necesitarás saber si se requiere visado, o si eres elegible para acceso de visado al llegar o visado electrónico, con cuánta anticipación necesita ocurrir la solicitud, y si el visado cubre múltiples entradas.
 
 **Reserva tu seguro de viaje pronto**
 
@@ -38,9 +38,9 @@ Reserva el seguro de viaje cuando reservas vuelos, no una semana antes de la sal
 
 ## Tres meses antes: Renovación y ventanas de visado
 
-En este punto todavía tienes tiempo para arreglarlo. La renovación de pasaporte estándar actualmente toma 4-6 semanas en EE.UU. (a través de [travel.state.gov](https://travel.state.gov/content/travel/en/passports.html)), usualmente alrededor de 3 semanas en el Reino Unido (a través de [GOV.UK](https://www.gov.uk/apply-renew-passport)), y al menos 6 semanas en Australia (a través de la [Oficina de Pasaportes Australiana](https://www.passports.gov.au)). Siempre verifica el sitio oficial para los tiempos actuales antes de solicitar.
+En este punto todavía tienes tiempo para arreglarlo. La renovación de pasaporte estándar actualmente toma 4-6 semanas en EE.UU. (a través de travel.state.gov), usualmente alrededor de 3 semanas en el Reino Unido (a través de GOV.UK), y al menos 6 semanas en Australia (a través de la Oficina de Pasaportes Australiana). Siempre verifica el sitio oficial para los tiempos actuales antes de solicitar.
 
-Cualquier pasaporte que caduca dentro de 12 meses: comienza el proceso de renovación ahora. Los pasaportes de niños caducan más rápido - 5 años en la mayoría de países versus 10 para adultos - y los padres frecuentemente pierden la ventana. Para solicitantes de Nueva Zelanda, verifica la [Oficina de Pasaportes de Nueva Zelanda](https://www.passports.govt.nz) para plazos actuales; la demanda se dispara en el período previo al verano.
+Cualquier pasaporte que caduca dentro de 12 meses: comienza el proceso de renovación ahora. Los pasaportes de niños caducan más rápido - 5 años en la mayoría de países versus 10 para adultos - y los padres frecuentemente pierden la ventana. Para solicitantes de Nueva Zelanda, verifica la Oficina de Pasaportes de Nueva Zelanda para plazos actuales; la demanda se dispara en el período previo al verano.
 
 Presenta cualquier solicitud de visado con una ventana de procesamiento de cuatro semanas o más. Prepara documentos de apoyo: extractos bancarios, confirmaciones de alojamiento, prueba de viaje futuro. Reserva una cita de biometría con anticipación si el visado lo requiere.
 
@@ -106,6 +106,8 @@ Los diferentes viajes necesitan diferentes conjuntos de documentos.
 | Carta de consentimiento de menores | N/A | ✅ si corresponde | N/A | Requerida en muchos países si uno de los progenitores está ausente |
 | Certificados de nacimiento | N/A | ✅ si se requiere | N/A | Algunos países requieren para menores menores de 18 años |
 | Carta de autorización de trabajo | N/A | N/A | ✅ si se requiere | Algunos destinos requieren cartas del empleador para viajeros de negocio |
+
+**Antes de fiarte de esto:** este artículo explica reglas generales, y las reglas generales son todo lo que puede ofrecer un blog. Los requisitos cambian y varían según la nacionalidad, el destino y la fecha del viaje. Consulta tu caso con la autoridad que emite el documento o con el servicio de información al viajero de tu gobierno antes de reservar. Revisamos lo que publicamos y aun así podemos equivocarnos o quedarnos desactualizados.
 
 ## Preguntas frecuentes
 

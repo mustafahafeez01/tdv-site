@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/pt/blog/visa-expiry-tracker-app/
 - Os visitantes da Área de Schengen devem rastrear uma janela móvel de 90/180 dias, não apenas uma única data de validade - a maioria das aplicações de viagem genéricas não lidam com isto corretamente.
 - O rastreamento de vistos e passaportes juntos num só local reduz o risco de uma discrepância: entrar com um visto válido mas com um passaporte que expira antes do final da sua permanência planeada.
 
-Uma ultrapassagem de visto é um dos erros de viagem mais consequentes que uma pessoa pode cometer. Ao contrário de um voo perdido - stressante mas fundamentalmente reparável - uma ultrapassagem cria um registo formal de imigração que pode segui-lo durante anos. Nos Estados Unidos, uma ultrapassagem de apenas 180 dias desencadeia uma barra automática de 3 anos de reentrada sob a secção INA 212(a)(9)(B)(i), e uma ultrapassagem de um ano desencadeia uma barra de 10 anos. Estas consequências não são amplamente conhecidas, mas estão [documentadas pelo US Citizenship and Immigration Services](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/unlawful-presence-and-bars-to-admissibility).
+Uma ultrapassagem de visto é um dos erros de viagem mais consequentes que uma pessoa pode cometer. Ao contrário de um voo perdido - stressante mas fundamentalmente reparável - uma ultrapassagem cria um registo formal de imigração que pode segui-lo durante anos. Nos Estados Unidos, uma ultrapassagem de apenas 180 dias desencadeia uma barra automática de 3 anos de reentrada sob a secção INA 212(a)(9)(B)(i), e uma ultrapassagem de um ano desencadeia uma barra de 10 anos. Estas consequências não são amplamente conhecidas, mas estão documentadas pelo US Citizenship and Immigration Services.
 
 Uma aplicação de rastreamento de visto previne isto. Monitoriza múltiplas datas em simultâneo - validade de entrada, permanência máxima, e contagem de entrada - de uma forma que as aplicações de passaporte genéricas não conseguem.
 
@@ -41,7 +41,7 @@ Um rastreador que apenas monitoriza a data de validade de entrada perde a causa 
 
 Para viajantes que visitam múltiplos países europeus, a regra de 90/180 dias da Área de Schengen é a condição de entrada mais amplamente mal compreendida em viagens internacionais. Os cidadãos de países com acesso isento de visto a Schengen (incluindo o Reino Unido, EUA, Canadá e Austrália, entre muitos outros) podem passar um máximo de 90 dias na Área de Schengen dentro de qualquer janela móvel de 180 dias.
 
-A Comissão Europeia fornece uma [calculadora oficial de permanência em Schengen](https://ec.europa.eu/home-affairs/pages/border-travel/schengen-visa_en) para ajudar os viajantes a calcular os seus dias permitidos. O ponto crítico é que isto é uma *janela móvel*, não um reset de ano de calendário. Os dias passados em Schengen há seis meses ainda contam contra a sua autorização atual.
+A Comissão Europeia fornece uma calculadora oficial de permanência em Schengen para ajudar os viajantes a calcular os seus dias permitidos. O ponto crítico é que isto é uma *janela móvel*, não um reset de ano de calendário. Os dias passados em Schengen há seis meses ainda contam contra a sua autorização atual.
 
 A maioria das aplicações de passaporte ou documentos genéricos não lidam com isto corretamente. Uma aplicação que simplesmente exibe uma data de validade de visto não consegue gerir conformidade Schengen - necessita de calcular dias através de uma janela móvel com base em datas reais de entrada e saída.
 
@@ -79,6 +79,8 @@ Dada a complexidade acima, uma boa aplicação de rastreamento de visto precisa 
 5. **Defina um lembrete pelo menos 2 semanas antes do seu prazo de permanência máxima.** Isto dá-lhe tempo para arranjar uma partida sem pressa, especialmente se as opções de transporte no seu destino são limitadas.
 
 Regras relacionadas que interagem com rastreamento de visto: veja o nosso guia para a [regra do passaporte de 6 meses](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/), que pode impedi-lo de entrar mesmo com um visto válido se o seu passaporte expirar demasiado cedo após a sua partida planeada.
+
+**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
 
 ## Perguntas Frequentes
 

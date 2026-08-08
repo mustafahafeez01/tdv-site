@@ -24,7 +24,7 @@ Quello che segue è come funziona nella pratica: le sue opzioni limitate, perch�
 
 ## La regola assoluta: Nessun viaggio internazionale con un passaporto scaduto
 
-[L'Ufficio passaporti di Sua Maestà è chiaro su questo](https://www.gov.uk/apply-renew-passport): il suo passaporto deve essere valido nel giorno in cui viaggia - non solo all'arrivo, non solo per parte del viaggio, ma nel giorno in cui sale sull'aereo.
+L'Ufficio passaporti di Sua Maestà è chiaro su questo: il suo passaporto deve essere valido nel giorno in cui viaggia - non solo all'arrivo, non solo per parte del viaggio, ma nel giorno in cui sale sull'aereo.
 
 Quando arriva al check-in, l'agente utilizza il sistema per verificare il numero del suo passaporto e vede la data di scadenza. Se è nel passato, non emetterà una carta d'imbarco - non importa se sta tornando a casa il giorno dopo che scade. La stessa cosa succede al controllo alle frontiere nella sua destinazione: vedono la data di scadenza, negano l'ingresso. La vicinanza alla Sua data di arrivo effettiva non fa differenza.
 
@@ -42,9 +42,9 @@ Se sta considerando un viaggio nazionale con un passaporto scaduto, contatti la 
 
 ## Rinnovo d'emergenza: Percorso del servizio Premium
 
-Se il suo viaggio è imminente e il suo passaporto è scaduto, [l'Ufficio passaporti di Sua Maestà offre un servizio Premium progettato proprio per questo scenario](https://www.gov.uk/apply-renew-passport), garantendo un appuntamento lo stesso giorno o il giorno lavorativo successivo a seconda della disponibilità. La tariffa è £239.50 in totale - copre tutto, piuttosto che essere un supplemento alla tariffa standard - e il suo passaporto rinnovato arriva entro giorni piuttosto che le settimane che un rinnovo standard può richiedere. Si noti che il servizio Premium online è solo per rinnovi, non per i primi passaporti per adulti.
+Se il suo viaggio è imminente e il suo passaporto è scaduto, l'Ufficio passaporti di Sua Maestà offre un servizio Premium progettato proprio per questo scenario, garantendo un appuntamento lo stesso giorno o il giorno lavorativo successivo a seconda della disponibilità. La tariffa è £239.50 in totale - copre tutto, piuttosto che essere un supplemento alla tariffa standard - e il suo passaporto rinnovato arriva entro giorni piuttosto che le settimane che un rinnovo standard può richiedere. Si noti che il servizio Premium online è solo per rinnovi, non per i primi passaporti per adulti.
 
-Questo è il percorso ufficiale di emergenza per i vincoli di viaggio genuini, non una scorciatoia - il servizio Premium esiste perché a volte il viaggio non può attendere. La guida ufficiale attualmente consiglia di [prevedere circa 3 settimane per un rinnovo standard](https://www.gov.uk/renew-adult-passport), e quasi tutte le domande sono elaborate entro quel periodo - ma per i viaggi che genuinamente non possono attendere, l'opzione Premium rimuove l'incertezza.
+Questo è il percorso ufficiale di emergenza per i vincoli di viaggio genuini, non una scorciatoia - il servizio Premium esiste perché a volte il viaggio non può attendere. La guida ufficiale attualmente consiglia di prevedere circa 3 settimane per un rinnovo standard, e quasi tutte le domande sono elaborate entro quel periodo - ma per i viaggi che genuinamente non possono attendere, l'opzione Premium rimuove l'incertezza.
 
 Il difetto è che deve disporre di uno slot di appuntamento disponibile, che si riempiono rapidamente durante le vacanze estive e le pause scolastiche. Se scopre che il suo passaporto è scaduto venerdì prima di un viaggio lunedì potrebbe non trovare slot Premium disponibili, poiché la prenotazione avviene online su gov.uk con disponibilità dal vivo. Quando la Sua data preferita non mostra slot ha genuinamente nessun'altra opzione quel giorno.
 
@@ -52,7 +52,7 @@ Avrà anche bisogno del suo vecchio passaporto per fare domanda indipendentement
 
 ## Cosa controllano effettivamente le compagnie aeree e il controllo alle frontiere
 
-Le compagnie aeree utilizzano Timatic, un [sistema IATA](https://www.iatatravelcentre.com) che incrocia il numero del suo passaporto, la nazionalità e la destinazione con i requisiti di ingresso, dicendo istantaneamente all'agente di check-in se è autorizzato a viaggiare quando scansiona il suo passaporto. Se il suo passaporto è scaduto, Timatic lo contrassegna in rosso e l'agente non può ignorare questa decisione anche se supplica o mostra una carta d'imbarco da settimane fa.
+Le compagnie aeree utilizzano Timatic, un sistema IATA che incrocia il numero del suo passaporto, la nazionalità e la destinazione con i requisiti di ingresso, dicendo istantaneamente all'agente di check-in se è autorizzato a viaggiare quando scansiona il suo passaporto. Se il suo passaporto è scaduto, Timatic lo contrassegna in rosso e l'agente non può ignorare questa decisione anche se supplica o mostra una carta d'imbarco da settimane fa.
 
 Il controllo alle frontiere fa lo stesso controllo quando arriva - a volte anche controllando due volte, una volta quando esce dal Regno Unito e di nuovo quando entra nella sua destinazione. Un passaporto scaduto sarà scoperto non importa quanto sia attento.
 
@@ -83,6 +83,8 @@ I viaggiatori spesso confondono la data di validità del loro passaporto con le 
 [Molti paesi applicano una regola di sei mesi che richiede che il suo passaporto rimanga valido per almeno sei mesi oltre la data di partenza pianificata](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/), mentre alcuni applicano tre mesi e altri applicano un mese. Nessuna di queste regole consente di viaggiare con un passaporto scaduto perché stabiliscono uno standard più severo dove il rinnovo deve avvenire ancora prima della data di scadenza del passaporto stesso.
 
 Non presuma di poter viaggiare "perché starà tornando prima che scada" - il suo passaporto deve essere valido nel giorno in cui sale sul suo volo in partenza e se scade il giorno dopo il suo ritorno comunque non può viaggiare. Le compagnie aeree non consentono viaggi se il suo passaporto è scaduto nel giorno della partenza.
+
+**Prima di farci affidamento:** questo articolo spiega regole generali, e le regole generali sono tutto ciò che un blog può offrire. I requisiti cambiano e variano in base a cittadinanza, destinazione e data del viaggio. Verifica il tuo caso con l'autorità che rilascia il documento o con il servizio informazioni viaggi del tuo governo prima di prenotare. Controlliamo quello che pubblichiamo e possiamo comunque sbagliare o essere superati.
 
 ## Domande frequenti
 

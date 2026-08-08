@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/blog/passport-expired-what-to-do/
 
 - There are two distinct scenarios: discovering your passport is expired **at home before a trip**, and discovering it **at the airport**. The steps are different for each.
 - You cannot fly internationally on an expired passport. No exceptions.
-- In the UK, a same-day Premium passport service exists for genuine emergencies - bookable at [gov.uk](https://www.gov.uk/apply-renew-passport). In the US, emergency appointments are available through the State Department for travel within 72 hours.
+- In the UK, a same-day Premium passport service exists for genuine emergencies - bookable at gov.uk. In the US, emergency appointments are available through the State Department for travel within 72 hours.
 - At the airport, contact your airline first - some will reschedule without fees for genuine document emergencies.
 - The fix going forward is a 12-month expiry reminder, not a 6-month one. That gives you enough time to renew on standard processing.
 - Expiry is not the only passport problem that gets travellers turned away. Damage, name mismatches, missing signatures, and insufficient remaining validity at your destination all cause the same result.
@@ -82,13 +82,15 @@ This rule is not applied consistently across all destinations, which makes it ea
 
 Visa and electronic travel authorisation (ETA) requirements change often and vary by nationality, destination, and purpose of travel. Arriving without the correct entry permission - assuming visa-free access when one is actually required - results in denied boarding or being turned back at the border. A route that was visa-free when you last travelled it may no longer be.
 
-Before every trip, check the official entry requirements for your destination using your country's travel advice service: [gov.uk/foreign-travel-advice](https://www.gov.uk/foreign-travel-advice) for UK passport holders, [travel.state.gov](https://travel.state.gov) for US passport holders, or [smartraveller.gov.au](https://www.smartraveller.gov.au) for Australian passport holders. Do not rely on what was true last time.
+Before every trip, check the official entry requirements for your destination using your country's travel advice service: gov.uk/foreign-travel-advice for UK passport holders, travel.state.gov for US passport holders, or smartraveller.gov.au for Australian passport holders. Do not rely on what was true last time.
 
 ## How to Make Sure This Never Happens Again
 
 The root cause is usually the same: no reminder in place. Set an expiry reminder at least **12 months before the expiry date** - not 6 months. This gives you time to renew on standard processing without paying for expedited service, and without the stress of a tight timeline.
 
 Do this for every passport in your household separately. Children's passports expire faster - 5 years in most countries versus 10 for adults - and are the ones most often missed.
+
+**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
 
 ## Frequently Asked Questions
 
@@ -106,7 +108,7 @@ You will not be able to board. Go to the airline desk immediately to discuss res
 
 ### How fast can I get an emergency passport if mine has expired?
 
-In the UK, a same-day Premium service is available at designated passport offices for travel within 1 week - appointment required, bookable at [gov.uk](https://www.gov.uk/apply-renew-passport). In the US, emergency in-person appointments are available at regional passport agencies for travel within 72 hours - the expedited fee is $60 plus the standard renewal fee. Check [travel.state.gov](https://travel.state.gov/content/travel/en/passports/need-passport/passport-agencies.html) for availability. In Australia, check [passports.gov.au](https://www.passports.gov.au) for urgent processing options.
+In the UK, a same-day Premium service is available at designated passport offices for travel within 1 week - appointment required, bookable at gov.uk. In the US, emergency in-person appointments are available at regional passport agencies for travel within 72 hours - the expedited fee is $60 plus the standard renewal fee. Check travel.state.gov for availability. In Australia, check passports.gov.au for urgent processing options.
 
 ### How do I avoid my passport expiring unexpectedly?
 

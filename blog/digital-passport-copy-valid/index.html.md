@@ -22,7 +22,7 @@ When planning a trip, many travellers wonder whether they can store a digital co
 
 ### Hotel Check-in
 
-Most hotels worldwide accept digital passport copies for check-in - a PDF on your phone, emailed in advance, or printed. This is particularly useful if you're checking in late or moving between properties and don't want to carry your physical passport the whole trip. Some smaller hotels, particularly in regions with less digital infrastructure, still prefer the original. In parts of Europe - Spain, France and Italy among them - hotels must record your details for the authorities and will generally want to sight the physical passport to do it, even though [data-protection guidance says they typically should not keep a copy](https://blogturismo.garrigues.com/en/information-technology/traveler-registration-is-it-legal-to-ask-for-a-photocopy-of-a-guests-id-card-or-passport-at-the-chek-in-desk-of-a-hotel). Contact your accommodation in advance to confirm.
+Most hotels worldwide accept digital passport copies for check-in - a PDF on your phone, emailed in advance, or printed. This is particularly useful if you're checking in late or moving between properties and don't want to carry your physical passport the whole trip. Some smaller hotels, particularly in regions with less digital infrastructure, still prefer the original. In parts of Europe - Spain, France and Italy among them - hotels must record your details for the authorities and will generally want to sight the physical passport to do it, even though data-protection guidance says they typically should not keep a copy. Contact your accommodation in advance to confirm.
 
 ### Flight Bookings and Online Check-in
 
@@ -74,6 +74,8 @@ Passport copies contain sensitive identity information: your full name, date of 
 **Travel Document Vault** stores encrypted copies of all your travel documents on-device. AES-256 encrypted on your phone, no account required. Optional encrypted backup to your own iCloud or Google Drive (Pro) sealed with a recovery code only you hold. [Available on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 If you're wondering whether cloud storage is safe for passport copies, see our guide to [storing passports in Google Photos](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/). It explains why a dedicated encrypted app offers stronger protection. For a side-by-side comparison of iCloud, Google Photos and encrypted apps, read [the safest way to store a passport digitally](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/).
+
+**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
 
 ## Frequently Asked Questions
 

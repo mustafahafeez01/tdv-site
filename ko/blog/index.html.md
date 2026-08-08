@@ -60,7 +60,7 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[비자 & 입국 비자와 여권: 차이점이 무엇입니까? 여권은 당신이 누구인지 증명합니다. 비자는 입국 허가를 부여합니다. 각각의 역할, 대부분의 여행에 둘 다 필요한 이유, 목적지 확인 방법을 설명합니다. 2026년 4월 22일6분 읽기](https://traveldocumentvault.com/ko/blog/visa-vs-passport/)
+[비자 & 입국 비자와 여권의 차이는 무엇인가요? 여권은 본인이 누구인지 증명하고, 비자는 상대국이 주는 입국 허가입니다. 두 문서의 차이와 어디에 확인해야 하는지 정리했습니다. 2026년 4월 22일6분 읽기](https://traveldocumentvault.com/ko/blog/visa-vs-passport/)
 
 ##
 

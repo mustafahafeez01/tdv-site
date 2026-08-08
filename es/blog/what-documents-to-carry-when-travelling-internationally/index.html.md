@@ -34,11 +34,11 @@ Algunos países piden ver prueba de tu primera noche de reserva, ya sea una conf
 
 ### Certificados de vacunación
 
-Ciertos destinos requieren prueba de vacunación para fiebre amarilla u otras enfermedades, y los requisitos cambian periódicamente por destino. Verifica las [páginas de consejos de viaje de la OMS](https://www.who.int/travel-advice) 6-8 semanas antes de viajar - no la noche anterior - ya que algunos países solo aceptan certificados amarillos de la OMS oficiales, no fotocopias o fotos digitales.
+Ciertos destinos requieren prueba de vacunación para fiebre amarilla u otras enfermedades, y los requisitos cambian periódicamente por destino. Verifica las páginas de consejos de viaje de la OMS 6-8 semanas antes de viajar - no la noche anterior - ya que algunos países solo aceptan certificados amarillos de la OMS oficiales, no fotocopias o fotos digitales.
 
 ### Detalles del seguro de viaje
 
-Necesitarás acceso inmediato a tu número de póliza, detalles de contacto del emisor y tu línea directa de emergencia 24 horas. Algunos tipos de visa explícitamente requieren prueba de seguro de viaje - [las solicitudes de visa Schengen](https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy/applying-schengen-visa_en), por ejemplo, requieren seguro médico cubriendo cuidado de emergencia y hospitalización. Pero más importante, si algo sale mal en el extranjero, necesitas estos detalles sin confiar en acceso a email o internet.
+Necesitarás acceso inmediato a tu número de póliza, detalles de contacto del emisor y tu línea directa de emergencia 24 horas. Algunos tipos de visa explícitamente requieren prueba de seguro de viaje - las solicitudes de visa Schengen, por ejemplo, requieren seguro médico cubriendo cuidado de emergencia y hospitalización. Pero más importante, si algo sale mal en el extranjero, necesitas estos detalles sin confiar en acceso a email o internet.
 
 ### Cartas de consentimiento de viaje infantil
 
@@ -89,7 +89,7 @@ Cada niño necesita su propio pasaporte para viajes internacionales, sin importa
 
 **Carta de consentimiento de viaje infantil:** Si un niño está viajando internacionalmente con solo un padre, muchos oficiales fronterizos pedirán consentimiento por escrito del padre ausente, preferiblemente notarizado. Si viaja con ninguno de los padres (con abuelos, por ejemplo), típicamente se requiere consentimiento de ambos padres. Los requisitos cambian y varían por nacionalidad, así que verifica con la autoridad de inmigración oficial de tu destino.
 
-Una carta de consentimiento típicamente debe incluir el nombre completo del niño y fecha de nacimiento, detalles del pasaporte, fechas y destinos de viaje, y detalles de contacto del padre(s) ausente(s). Algunos destinos tienen plantillas específicas; el gobierno canadiense, por ejemplo, [proporciona un formato de muestra de carta de consentimiento](https://travel.gc.ca/travelling/children/consent-letter).
+Una carta de consentimiento típicamente debe incluir el nombre completo del niño y fecha de nacimiento, detalles del pasaporte, fechas y destinos de viaje, y detalles de contacto del padre(s) ausente(s). Algunos destinos tienen plantillas específicas; el gobierno canadiense, por ejemplo, proporciona un formato de muestra de carta de consentimiento.
 
 Qué significa esto en la práctica
 
@@ -100,6 +100,8 @@ Estás abordando un vuelo a Canadá con tu hijo de 8 años y tu pareja no está 
 Los documentos físicos ayudan hasta que un ladrón se lleva tu bolsa - y generalmente se lleva las copias junto con los originales. Una copia de seguridad cifrada separada en tu teléfono - guardada sin conexión - es tu verdadero seguro si los originales desaparecen.
 
 Cuando tu embajada necesita emitir un documento de viaje de emergencia, una copia de seguridad segura les da tu número de pasaporte, fecha de emisión, lugar de emisión y fecha de expiración instantáneamente, sin acceso a internet. Para más información sobre las opciones disponibles, ve nuestra descripción general de [cómo guardar copias de pasaporte de forma segura](https://traveldocumentvault.com/es/blog/is-it-safe-to-store-passport-in-google-photos/) y los compromisos entre diferentes enfoques.
+
+**Antes de fiarte de esto:** este artículo explica reglas generales, y las reglas generales son todo lo que puede ofrecer un blog. Los requisitos cambian y varían según la nacionalidad, el destino y la fecha del viaje. Consulta tu caso con la autoridad que emite el documento o con el servicio de información al viajero de tu gobierno antes de reservar. Revisamos lo que publicamos y aun así podemos equivocarnos o quedarnos desactualizados.
 
 ## Preguntas Frecuentes
 

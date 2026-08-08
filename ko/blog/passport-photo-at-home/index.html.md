@@ -42,10 +42,10 @@ Source: https://traveldocumentvault.com/ko/blog/passport-photo-at-home/
 
 | 국가 | 현재 요구 사항을 확인할 위치 |
 |---|---|
-| 미국 | [travel.state.gov 여권 사진 요구 사항](https://travel.state.gov/content/travel/en/passports/how-apply/photos.html) |
-| 영국 | [gov.uk 여권용 사진](https://www.gov.uk/photos-for-passports/photo-requirements) |
-| 호주 | [호주 여권청 사진 지침](https://www.passports.gov.au/help/passport-photos) |
-| 캐나다 | [캐나다 정부 여권 사진](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) |
+| 미국 | travel.state.gov 여권 사진 요구 사항 |
+| 영국 | gov.uk 여권용 사진 |
+| 호주 | 호주 여권청 사진 지침 |
+| 캐나다 | 캐나다 정부 여권 사진 |
 
 이러한 규격은 정확합니다. 몇 밀리미터만 벗어나도 거부됩니다. 스마트폰의 원본 사진은 일반적으로 제출해야 할 것보다 훨씬 크기 때문에 자르기 앱이 존재합니다. iOS 및 Android에서 사용 가능한 무료 또는 저비용 도구를 사용하면 자국을 입력하고 정확한 규격으로 자동 크기 조정할 수 있습니다.
 
@@ -56,8 +56,8 @@ Source: https://traveldocumentvault.com/ko/blog/passport-photo-at-home/
 | 방법 | 비용 | 수락 위험 | 편의성 | 공식 지침 |
 |---|---|---|---|---|
 | 집에서 DIY (스마트폰 + 자르기 앱) | 무료 또는 거의 무료 | 조명이나 크기 규격을 놓치면 높음 | 매우 높음 - 즉시 | 대부분의 국가에서 허용 - 당국의 사이트 확인 |
-| 지역 약국 | 적당한 수수료 | 낮음 - 훈련된 전문가가 확인 | 중간 - 일반적으로 당일 서비스 | 널리 사용되고 일반적으로 신뢰할 수 있음 - 어쨌든 [사진 요구 사항](https://www.gov.uk/photos-for-passports/photo-requirements) 확인 |
-| 우체국 (영국 및 기타) | 적당한 수수료 | 낮음 - 사내에서 촬영 및 확인 | 중간 - 방문 및 예약 필요 | [우체국 공식 서비스](https://www.postoffice.co.uk/passport-services) |
+| 지역 약국 | 적당한 수수료 | 낮음 - 훈련된 전문가가 확인 | 중간 - 일반적으로 당일 서비스 | 널리 사용되고 일반적으로 신뢰할 수 있음 - 어쨌든 사진 요구 사항 확인 |
+| 우체국 (영국 및 기타) | 적당한 수수료 | 낮음 - 사내에서 촬영 및 확인 | 중간 - 방문 및 예약 필요 | 우체국 공식 서비스 |
 | 온라인 서비스 (예: Passport Photo Online) | 적당한 수수료 | 중간 - 디지털 제출, 피드백 제공 | 높음 - 집에서, 디지털 배송 | 공식이 아니지만 널리 사용됨 - 국가에서 사전 잘린 업로드를 수락하는지 확인 |
 | 전문 사진 스튜디오 | 가장 비싼 옵션 | 낮음 - 전문적인 조명 및 구성 | 낮음 - 예약 필요 | 어디서나 수락됨 - 항상 안전한 선택 |
 
@@ -112,6 +112,8 @@ Source: https://traveldocumentvault.com/ko/blog/passport-photo-at-home/
 - 자국의 요구 사항에 따른 인쇄 또는 디지털 제출 계획
 
 지금 올바르게 설정하는 데 몇 분을 사용하면 나중에 다시 제출하는 것을 피합니다. 즉, 신청이 지연되지 않습니다.
+
+**이 글에 의존하기 전에:** 이 글은 일반적인 규칙을 설명하며, 블로그가 전할 수 있는 것은 일반론까지입니다. 요건은 바뀌고 국적, 목적지, 여행 날짜에 따라 달라집니다. 예약 전에 발급 기관이나 자국의 여행 정보 서비스에서 본인의 경우를 확인하세요. 저희는 게시하는 내용을 확인하지만 그래도 틀리거나 오래된 정보일 수 있습니다.
 
 ## 자주 묻는 질문
 

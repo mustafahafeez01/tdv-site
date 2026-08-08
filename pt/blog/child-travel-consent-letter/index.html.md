@@ -31,9 +31,9 @@ Uma carta é comummente necessária nessas situações:
 - **Uma criança viaja com um progenitor cujo apelido é diferente do da criança.** Isto levanta bandeiras em algumas fronteiras, particularmente para crianças mais pequenas.
 - **Uma criança é adoptada ou está em acolhimento familiar.** Documentos de tutela legal e consentimento podem ser necessários juntamente com a carta.
 
-**Aviso crítico:** as regras variam muito. Os Países Baixos não obrigam uma carta de consentimento mesmo que uma criança viaje com um progenitor. [O Canadá não exige legalmente uma carta de consentimento](https://travel.gc.ca/travelling/children/consent-letter), mas o Governo do Canadá recomenda vivamente uma e nota que "a falha em produzir uma carta mediante solicitação pode resultar em atrasos ou recusa de entrada ou saída de um país." A África do Sul aplica regras de documentação rigorosas nas suas fronteiras. Alguns países aplicam requisitos apenas para crianças abaixo de uma certa idade. Não há padrão global.
+**Aviso crítico:** as regras variam muito. Os Países Baixos não obrigam uma carta de consentimento mesmo que uma criança viaje com um progenitor. O Canadá não exige legalmente uma carta de consentimento, mas o Governo do Canadá recomenda vivamente uma e nota que "a falha em produzir uma carta mediante solicitação pode resultar em atrasos ou recusa de entrada ou saída de um país." A África do Sul aplica regras de documentação rigorosas nas suas fronteiras. Alguns países aplicam requisitos apenas para crianças abaixo de uma certa idade. Não há padrão global.
 
-Verifique sempre os requisitos directamente com a autoridade de imigração do seu país de destino específico antes de viajar. Use o [IATA Travel Centre](https://www.iatatravelcentre.com) para verificar requisitos de entrada, ou contacte a embaixada do seu país de destino. Se estiver incerto, ter a carta é melhor do que a alternativa: ser parado no check-in ou na fronteira.
+Verifique sempre os requisitos directamente com a autoridade de imigração do seu país de destino específico antes de viajar. Use o IATA Travel Centre para verificar requisitos de entrada, ou contacte a embaixada do seu país de destino. Se estiver incerto, ter a carta é melhor do que a alternativa: ser parado no check-in ou na fronteira.
 
 ## O Que a Carta Deve Incluir
 
@@ -84,13 +84,13 @@ Mesmo as famílias bem preparadas cometem erros que levam à rejeição na front
 
 | País | Requisito | Autenticação | Fonte oficial |
 |---|---|---|---|
-| **Canadá** | Fortemente recomendada (não legalmente necessária) | Recomendada (notário público) | [travel.gc.ca](https://travel.gc.ca/travelling/children/consent-letter) |
-| **África do Sul** | Geralmente necessária | Sim (certificada por notário ou advogado) | [Departamento de Assuntos Domésticos](https://www.dha.gov.za) |
-| **Austrália** | Recomendada; companhias aéreas podem exigir | Sim (certificada por solicitor) | [Smart Traveller](https://www.smartraveller.gov.au) |
-| **Reino Unido** | Não legalmente necessária; companhias aéreas e fronteiras de destino podem solicitar | Recomendada (solicitor) | [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration) |
-| **Estados Unidos** | Não necessária a nível federal; varia por estado | Varia por estado | [travel.state.gov](https://travel.state.gov) |
-| **União Europeia** | Varia por país | Varia por país | [IATA Travel Centre](https://www.iatatravelcentre.com) |
-| **Nova Zelândia** | Recomendada | Verifique com imigração | [Immigration NZ](https://www.immigration.govt.nz) |
+| **Canadá** | Fortemente recomendada (não legalmente necessária) | Recomendada (notário público) | travel.gc.ca |
+| **África do Sul** | Geralmente necessária | Sim (certificada por notário ou advogado) | Departamento de Assuntos Domésticos |
+| **Austrália** | Recomendada; companhias aéreas podem exigir | Sim (certificada por solicitor) | Smart Traveller |
+| **Reino Unido** | Não legalmente necessária; companhias aéreas e fronteiras de destino podem solicitar | Recomendada (solicitor) | UKVI |
+| **Estados Unidos** | Não necessária a nível federal; varia por estado | Varia por estado | travel.state.gov |
+| **União Europeia** | Varia por país | Varia por país | IATA Travel Centre |
+| **Nova Zelândia** | Recomendada | Verifique com imigração | Immigration NZ |
 
 **Verifique sempre os requisitos actuais directamente com a autoridade de imigração oficial do seu país de destino.** As regras mudam frequentemente, e websites de governo oficiais são a sua fonte mais fiável. Blogues de viagem e páginas de companhias aéreas são úteis para contexto, mas podem ficar atrás dos requisitos mais recentes.
 
@@ -121,6 +121,8 @@ Nos dias antes da partida, passe por esta lista de verificação:
 - Não lamine uma carta autenticada. A laminação pode invalidar a certificação.
 
 Uma carta de consentimento bem preparada é o salvaguarda da sua família contra perturbações de viagem. O tempo gasto agora compensa-se em passagens fronteiriças suaves e paz de espírito.
+
+**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
 
 ## Perguntas Frequentes
 

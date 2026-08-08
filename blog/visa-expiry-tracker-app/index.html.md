@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/visa-expiry-tracker-app/
 - Schengen Area visitors must track a rolling 90/180-day window, not just a single expiry date - most generic travel apps do not handle this correctly.
 - Tracking visas and passports together in one place reduces the risk of a mismatch: entering on a valid visa but with a passport that expires before your planned stay ends.
 
-A visa overstay is one of the most consequential travel mistakes a person can make. Unlike a missed flight - stressful but ultimately fixable - an overstay creates a formal immigration record that can follow you for years. In the United States, an overstay of just 180 days triggers an automatic 3-year bar on re-entry under INA section 212(a)(9)(B)(i), and an overstay of a year triggers a 10-year bar. These consequences are not widely known, but they are [documented by the US Citizenship and Immigration Services](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/unlawful-presence-and-bars-to-admissibility).
+A visa overstay is one of the most consequential travel mistakes a person can make. Unlike a missed flight - stressful but ultimately fixable - an overstay creates a formal immigration record that can follow you for years. In the United States, an overstay of just 180 days triggers an automatic 3-year bar on re-entry under INA section 212(a)(9)(B)(i), and an overstay of a year triggers a 10-year bar. These consequences are not widely known, but they are documented by the US Citizenship and Immigration Services.
 
 A visa expiry tracker app prevents this. It monitors multiple dates at once - entry validity, maximum stay, and entry count - in a way that generic passport apps cannot.
 
@@ -43,7 +43,7 @@ A tracker that only monitors the entry validity date misses the most common caus
 
 For travellers who visit multiple European countries, the Schengen Area's 90/180-day rule is the most widely misunderstood entry condition in international travel. Citizens of countries with visa-free access to Schengen (including the UK, US, Canada, and Australia, among many others) may spend a maximum of 90 days in the Schengen Area within any 180-day rolling window.
 
-The European Commission provides an [official Schengen stay calculator](https://ec.europa.eu/home-affairs/pages/border-travel/schengen-visa_en) to help travellers work out their allowed days. The critical point is that this is a *rolling window*, not a calendar-year reset. Days spent in Schengen six months ago still count against your current allowance.
+The European Commission provides an official Schengen stay calculator to help travellers work out their allowed days. The critical point is that this is a *rolling window*, not a calendar-year reset. Days spent in Schengen six months ago still count against your current allowance.
 
 Most generic passport or document apps do not handle this correctly. An app that simply displays a visa expiry date cannot manage Schengen compliance - it requires calculating days across a rolling window based on actual entry and exit dates.
 
@@ -81,6 +81,8 @@ Given the complexity above, a good visa expiry tracker app needs to handle more 
 5. **Set a reminder at least 2 weeks before your maximum stay deadline.** This gives you time to arrange a departure without rushing, especially if transport options in your destination are limited.
 
 Related rules that interact with visa tracking: see our guide to the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/), which can prevent you from entering even with a valid visa if your passport expires too soon after your planned departure.
+
+**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
 
 ## Frequently Asked Questions
 

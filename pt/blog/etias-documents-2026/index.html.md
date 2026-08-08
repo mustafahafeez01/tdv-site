@@ -46,7 +46,7 @@ Muitos candidatos erroneamente assumem que precisam de registos de vacinação, 
 
 ## O Processo de Candidatura ETIAS: Passo a Passo
 
-Assim que tiver reunido a sua informação, o próprio formulário online é direto - visite o portal oficial de candidatura [ETIAS](https://travel-europe.europa.eu) (esperado lançar em início de 2026) e inicie uma nova candidatura sem precisar de criar uma conta completa, apenas usando um endereço de email e palavra-passe temporária.
+Assim que tiver reunido a sua informação, o próprio formulário online é direto - visite o portal oficial de candidatura ETIAS (esperado lançar em início de 2026) e inicie uma nova candidatura sem precisar de criar uma conta completa, apenas usando um endereço de email e palavra-passe temporária.
 
 O formulário pede os seus detalhes pessoais (nome, data de nascimento, nacionalidade), informação de passaporte (número e data de validade) e planos de viagem (destino pretendido e duração da estadia). Seja preciso: se planeia visitar três países, liste os três. Se não tem a certeza sobre datas exatas, use intervalos de meses aproximados - a inconsistência é o que desencadeia rejeições, não datas aproximadas.
 
@@ -58,7 +58,7 @@ No final, revê a sua informação, paga a taxa €20 (gratuita se menores de 18
 
 ## Tempo de Processamento e Tipos de Resultado
 
-Enquanto o tempo de processamento padrão é **até 4 semanas**, a [Comissão Europeia](https://ec.europa.eu/home-affairs/eeas-eu-travel-authorisation-system_en) recomenda candidatar-se com pelo menos 2 meses antes da sua viagem para contabilizar sobrecarga inicial do sistema após lançamento, potenciais atrasos em verificações de antecedentes e tempo para resolver quaisquer rejeições se necessário.
+Enquanto o tempo de processamento padrão é **até 4 semanas**, a Comissão Europeia recomenda candidatar-se com pelo menos 2 meses antes da sua viagem para contabilizar sobrecarga inicial do sistema após lançamento, potenciais atrasos em verificações de antecedentes e tempo para resolver quaisquer rejeições se necessário.
 
 Existem três resultados possíveis: aprovado, rejeitado ou recusa de autorização.
 
@@ -88,11 +88,11 @@ Crianças menores de 18 não pagam a taxa ETIAS mas devem ainda assim candidatar
 
 Grupos familiares devem submeter cada candidatura separadamente em vez de como uma única unidade "familiar", embora possa notar que está a viajar como uma família na secção de detalhes de viagem - esta notação pode ajudar se a candidatura de um membro for sinalizada para revisão.
 
-Se for recusado e ainda precisar de viajar, o seu alternativa é candidatar-se a um visto de longa duração tradicional através da embaixada ou consulado relevante, que tipicamente permite múltiplas entradas e estadias mais longas do que viagem sem visto. Como os requisitos variam significativamente por destino e a sua nacionalidade, contacte a [embaixada diretamente](https://www.gov.uk/foreign-travel-advice) para compreender o que vai precisar.
+Se for recusado e ainda precisar de viajar, o seu alternativa é candidatar-se a um visto de longa duração tradicional através da embaixada ou consulado relevante, que tipicamente permite múltiplas entradas e estadias mais longas do que viagem sem visto. Como os requisitos variam significativamente por destino e a sua nacionalidade, contacte a embaixada diretamente para compreender o que vai precisar.
 
 ## ETIAS Juntamente com Outros Documentos de Viagem
 
-Aprovação de ETIAS não substitui o seu passaporte, [seguro de viagem](https://www.gov.uk/foreign-travel-advice) ou [requisitos de validade de passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/). Ainda vai precisar de:
+Aprovação de ETIAS não substitui o seu passaporte, seguro de viagem ou [requisitos de validade de passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/). Ainda vai precisar de:
 
 - Um passaporte válido (3+ meses de validade)
 - Seguro de viagem cobrindo emergências médicas e repatriação
@@ -101,6 +101,8 @@ Aprovação de ETIAS não substitui o seu passaporte, [seguro de viagem](https:/
 - Fundos suficientes para a sua estadia
 
 Os oficiais de fronteira podem ainda solicitar qualquer um destes documentos após chegada, mesmo com um ETIAS válido, já que ETIAS apenas acelera o processo de autorização em vez de o isentar de inspeção padrão de fronteira e requisitos de documentação.
+
+**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
 
 ## Perguntas Frequentes
 

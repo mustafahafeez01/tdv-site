@@ -30,7 +30,7 @@ Prima di confermare una prenotazione, controllare il passaporto di ogni viaggiat
 
 **Controllare i requisiti di visto**
 
-Scopra se la nazionalità del suo passaporto richiede un visto per l'ingresso, il transito o entrambi. Usi l'avviso di viaggio ufficiale del suo governo o l'[IATA Travel Centre](https://www.iatatravelcentre.com) - lo stesso database che le compagnie aeree usano per verificare i documenti dei passeggeri. Avrà bisogno di sapere se è richiesto un visto, o se è idoneo per il visto al momento dell'arrivo o l'accesso al visto elettronico, quanto tempo prima della domanda di applicazione deve accadere, e se il visto copre più ingressi.
+Scopra se la nazionalità del suo passaporto richiede un visto per l'ingresso, il transito o entrambi. Usi l'avviso di viaggio ufficiale del suo governo o l'IATA Travel Centre - lo stesso database che le compagnie aeree usano per verificare i documenti dei passeggeri. Avrà bisogno di sapere se è richiesto un visto, o se è idoneo per il visto al momento dell'arrivo o l'accesso al visto elettronico, quanto tempo prima della domanda di applicazione deve accadere, e se il visto copre più ingressi.
 
 **Prenota l'assicurazione di viaggio presto**
 
@@ -38,9 +38,9 @@ Prenota l'assicurazione di viaggio quando prenota i voli, non una settimana prim
 
 ## Tre Mesi Prima: Rinnovo e Finestre di Visto
 
-A questo punto ha ancora tempo per risolvere le cose. Il rinnovo standard del passaporto attualmente richiede 4-6 settimane negli Stati Uniti (tramite [travel.state.gov](https://travel.state.gov/content/travel/en/passports.html)), di solito circa 3 settimane nel Regno Unito (tramite [GOV.UK](https://www.gov.uk/apply-renew-passport)), e almeno 6 settimane in Australia (tramite l'[Ufficio Passaporti Australiano](https://www.passports.gov.au)). Controlli sempre il sito ufficiale per i tempi attuali prima di presentare la domanda.
+A questo punto ha ancora tempo per risolvere le cose. Il rinnovo standard del passaporto attualmente richiede 4-6 settimane negli Stati Uniti (tramite travel.state.gov), di solito circa 3 settimane nel Regno Unito (tramite GOV.UK), e almeno 6 settimane in Australia (tramite l'Ufficio Passaporti Australiano). Controlli sempre il sito ufficiale per i tempi attuali prima di presentare la domanda.
 
-Qualsiasi passaporto che scada entro 12 mesi: avvii il processo di rinnovo adesso. I passaporti dei bambini scadono più velocemente - 5 anni nella maggior parte dei paesi rispetto ai 10 per gli adulti - e i genitori frequentemente perdono la finestra. Per i richiedenti della Nuova Zelanda, controllare l'[Ufficio Passaporti della Nuova Zelanda](https://www.passports.govt.nz) per le scadenze attuali; la domanda aumenta nel periodo precedente all'estate.
+Qualsiasi passaporto che scada entro 12 mesi: avvii il processo di rinnovo adesso. I passaporti dei bambini scadono più velocemente - 5 anni nella maggior parte dei paesi rispetto ai 10 per gli adulti - e i genitori frequentemente perdono la finestra. Per i richiedenti della Nuova Zelanda, controllare l'Ufficio Passaporti della Nuova Zelanda per le scadenze attuali; la domanda aumenta nel periodo precedente all'estate.
 
 Invia qualsiasi domanda di visto con una finestra di elaborazione di quattro o più settimane. Prepara i documenti di supporto: estratti conto, conferme di alloggio, prova di viaggio successivo. Prenota un appuntamento per i dati biometrici in anticipo se il visto lo richiede.
 
@@ -106,6 +106,8 @@ Diversi viaggi hanno bisogno di diversi set di documenti.
 | Lettera di consenso del minore | N/D | ✅ se applicabile | N/D | Richiesto in molti paesi se un genitore è assente |
 | Certificati di nascita | N/D | ✅ se richiesto | N/D | Alcuni paesi lo richiedono per i minori sotto i 18 anni |
 | Lettera di autorizzazione al lavoro | N/D | N/D | ✅ se richiesto | Alcune destinazioni richiedono lettere del datore di lavoro per i viaggiatori d'affari |
+
+**Prima di farci affidamento:** questo articolo spiega regole generali, e le regole generali sono tutto ciò che un blog può offrire. I requisiti cambiano e variano in base a cittadinanza, destinazione e data del viaggio. Verifica il tuo caso con l'autorità che rilascia il documento o con il servizio informazioni viaggi del tuo governo prima di prenotare. Controlliamo quello che pubblichiamo e possiamo comunque sbagliare o essere superati.
 
 ## Domande Frequenti
 

@@ -42,10 +42,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-photo-at-home/
 
 | 国家/地区 | 在哪里检查当前要求 |
 |---|---|
-| 美国 | [travel.state.gov 护照照片要求](https://travel.state.gov/content/travel/en/passports/how-apply/photos.html) |
-| 英国 | [gov.uk 护照照片](https://www.gov.uk/photos-for-passports/photo-requirements) |
-| 澳大利亚 | [澳大利亚护照办公室照片指南](https://www.passports.gov.au/help/passport-photos) |
-| 加拿大 | [加拿大政府护照照片](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) |
+| 美国 | travel.state.gov 护照照片要求 |
+| 英国 | gov.uk 护照照片 |
+| 澳大利亚 | 澳大利亚护照办公室照片指南 |
+| 加拿大 | 加拿大政府护照照片 |
 
 这些规范是精确的 - 即使相差几毫米也意味着拒绝。您智能手机拍摄的原始照片通常会远大于您需要提交的内容，这就是为什么存在裁剪应用。iOS 和 Android 上提供的免费或低成本工具允许您输入您的国家并自动调整到精确的规范。
 
@@ -56,8 +56,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-photo-at-home/
 | 方法 | 成本 | 接受风险 | 便利性 | 官方指导 |
 |---|---|---|---|---|
 | 自助在家（智能手机 + 裁剪应用） | 免费或接近免费 | 更高（如果您遗漏光线或尺寸规范） | 非常高 - 立即可用 | 在大多数国家被允许 - 检查您机构的网站 |
-| 当地药房或药店 | 适度费用 | 低 - 训练有素的专业人员验证 | 中等 - 通常当天服务 | 广泛使用且通常可靠 - 无论如何检查您的机构[照片要求](https://www.gov.uk/photos-for-passports/photo-requirements) |
-| 邮局（英国及其他） | 适度费用 | 低 - 内部拍摄、检查 | 中等 - 需要访问和预约 | [邮局官方服务](https://www.postoffice.co.uk/passport-services) |
+| 当地药房或药店 | 适度费用 | 低 - 训练有素的专业人员验证 | 中等 - 通常当天服务 | 广泛使用且通常可靠 - 无论如何检查您的机构照片要求 |
+| 邮局（英国及其他） | 适度费用 | 低 - 内部拍摄、检查 | 中等 - 需要访问和预约 | 邮局官方服务 |
 | 在线服务（例如 Passport Photo Online） | 适度费用 | 中等 - 数字提交、提供反馈 | 高 - 从家中、数字交付 | 不是官方的但使用广泛 - 检查您的国家是否接受预裁剪上传 |
 | 专业摄影工作室 | 最昂贵的选择 | 低 - 专家光线和构图 | 低 - 需要预约 | 随处接受 - 始终是安全的选择 |
 
@@ -112,6 +112,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-photo-at-home/
 - 基于您国家要求的打印或数字提交计划
 
 现在花费几分钟正确设置会让您以后不必重新提交 - 这意味着您的申请不会被延迟。
+
+**在依据本文行动之前：**本文说明的是一般规则，而一般规则也是任何博客所能提供的全部。要求会变化，并且因国籍、目的地和出行日期而异。预订前请向签发机构或本国的出行提示服务核实你的具体情况。我们会核对所发布的内容，但仍可能出错或过时。
 
 ## 常见问题
 

@@ -30,7 +30,7 @@ Avant de confirmer une réservation, vérifiez le passeport de chaque voyageur s
 
 **Vérifiez vos exigences de visa**
 
-Découvrez si votre nationalité de passeport nécessite un visa pour l'entrée, le transit ou les deux. Utilisez l'avis officiel de votre gouvernement ou le [IATA Travel Centre](https://www.iatatravelcentre.com) - la même base de données que les compagnies aériennes utilisent pour vérifier les documents des passagers. Vous devrez savoir si un visa est requis, ou si vous êtes admissible à un visa à l'arrivée ou un accès par e-visa, combien de temps à l'avance la demande doit se faire, et si le visa couvre plusieurs entrées.
+Découvrez si votre nationalité de passeport nécessite un visa pour l'entrée, le transit ou les deux. Utilisez l'avis officiel de votre gouvernement ou le IATA Travel Centre - la même base de données que les compagnies aériennes utilisent pour vérifier les documents des passagers. Vous devrez savoir si un visa est requis, ou si vous êtes admissible à un visa à l'arrivée ou un accès par e-visa, combien de temps à l'avance la demande doit se faire, et si le visa couvre plusieurs entrées.
 
 **Réservez votre assurance voyage dès le départ**
 
@@ -38,9 +38,9 @@ Réservez une assurance voyage quand vous réservez les vols, pas une semaine av
 
 ## Trois mois avant : renouvellement et fenêtres de visa
 
-À ce stade, vous avez toujours le temps de corriger les choses. Le renouvellement standard du passeport prend actuellement 4 à 6 semaines aux États-Unis (via [travel.state.gov](https://travel.state.gov/content/travel/en/passports.html)), généralement environ 3 semaines au Royaume-Uni (via [GOV.UK](https://www.gov.uk/apply-renew-passport)), et au moins 6 semaines en Australie (via l'[Office australien des passeports](https://www.passports.gov.au)). Consultez toujours le site officiel pour les délais actuels avant de demander.
+À ce stade, vous avez toujours le temps de corriger les choses. Le renouvellement standard du passeport prend actuellement 4 à 6 semaines aux États-Unis (via travel.state.gov), généralement environ 3 semaines au Royaume-Uni (via GOV.UK), et au moins 6 semaines en Australie (via l'Office australien des passeports). Consultez toujours le site officiel pour les délais actuels avant de demander.
 
-Tout passeport expirant dans 12 mois : commencez le processus de renouvellement maintenant. Les passeports des enfants expirent plus vite - 5 ans dans la plupart des pays contre 10 pour les adultes - et les parents manquent fréquemment la fenêtre. Pour les demandeurs de Nouvelle-Zélande, vérifiez l'[Office des passeports de Nouvelle-Zélande](https://www.passports.govt.nz) pour les délais actuels ; la demande augmente à l'approche de l'été.
+Tout passeport expirant dans 12 mois : commencez le processus de renouvellement maintenant. Les passeports des enfants expirent plus vite - 5 ans dans la plupart des pays contre 10 pour les adultes - et les parents manquent fréquemment la fenêtre. Pour les demandeurs de Nouvelle-Zélande, vérifiez l'Office des passeports de Nouvelle-Zélande pour les délais actuels ; la demande augmente à l'approche de l'été.
 
 Soumettez toute demande de visa avec une fenêtre de traitement de quatre semaines ou plus. Préparez les documents justificatifs : relevés bancaires, confirmations d'hébergement, preuve de voyage ultérieur. Réservez une rendez-vous de biométrie à l'avance si le visa l'exige.
 
@@ -106,6 +106,8 @@ Les différents voyages nécessitent des ensembles de documents différents.
 | Lettre de consentement enfant | N/A | ✅ si applicable | N/A | Requise dans de nombreux pays si un parent absent |
 | Actes de naissance | N/A | ✅ si requis | N/A | Certains pays les exigent pour les enfants de moins de 18 ans |
 | Lettre d'autorisation de travail | N/A | N/A | ✅ si requis | Certaines destinations exigent des lettres d'employeur pour les voyageurs d'affaires |
+
+**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
 
 ## Questions fréquemment posées
 

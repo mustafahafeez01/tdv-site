@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/fr/blog/visa-expiry-tracker-app/
 - Les visiteurs de l'espace Schengen doivent suivre une fenêtre glissante de 90/180 jours, pas seulement une seule date d'expiration - la plupart des applications de voyage génériques ne le gèrent pas correctement.
 - Suivre les visas et les passeports ensemble au même endroit réduit le risque d'une incohérence: entrer avec un visa valide mais avec un passeport qui expire avant la fin de votre séjour prévu.
 
-Un dépassement de visa est l'une des erreurs de voyage les plus graves qu'une personne puisse commettre. Contrairement à un vol manqué - stressant mais finalement réparable - un dépassement crée un dossier formel d'immigration qui peut vous suivre pendant des années. Aux États-Unis, un dépassement de seulement 180 jours déclenche une interdiction automatique de 3 ans de réentrée en vertu de la section INA 212(a)(9)(B)(i), et un dépassement d'un an déclenche une interdiction de 10 ans. Ces conséquences ne sont pas largement connues, mais elles sont [documentées par le Service de la citoyenneté et de l'immigration des États-Unis](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/unlawful-presence-and-bars-to-admissibility).
+Un dépassement de visa est l'une des erreurs de voyage les plus graves qu'une personne puisse commettre. Contrairement à un vol manqué - stressant mais finalement réparable - un dépassement crée un dossier formel d'immigration qui peut vous suivre pendant des années. Aux États-Unis, un dépassement de seulement 180 jours déclenche une interdiction automatique de 3 ans de réentrée en vertu de la section INA 212(a)(9)(B)(i), et un dépassement d'un an déclenche une interdiction de 10 ans. Ces conséquences ne sont pas largement connues, mais elles sont documentées par le Service de la citoyenneté et de l'immigration des États-Unis.
 
 Une application de suivi des visas empêche cela. Elle surveille plusieurs dates à la fois - validité d'entrée, séjour maximal et nombre d'entrées - d'une manière que les applications de passeport génériques ne peuvent pas.
 
@@ -41,7 +41,7 @@ Un suivi qui ne surveille que la date de validité d'entrée manque la cause la 
 
 Pour les voyageurs qui visitent plusieurs pays européens, la règle Schengen 90/180 jours est la condition d'entrée la plus largement incomprise dans les voyages internationaux. Les citoyens de pays ayant un accès sans visa à Schengen (y compris le Royaume-Uni, les États-Unis, le Canada et l'Australie, entre autres) peuvent passer un maximum de 90 jours dans l'espace Schengen au cours de toute fenêtre glissante de 180 jours.
 
-La Commission européenne fournit un [calculateur officiel de séjour Schengen](https://ec.europa.eu/home-affairs/pages/border-travel/schengen-visa_en) pour aider les voyageurs à déterminer leurs jours autorisés. Le point essentiel est que c'est une *fenêtre glissante*, pas une réinitialisation d'année civile. Les jours passés à Schengen il y a six mois comptent toujours contre votre allocation actuelle.
+La Commission européenne fournit un calculateur officiel de séjour Schengen pour aider les voyageurs à déterminer leurs jours autorisés. Le point essentiel est que c'est une *fenêtre glissante*, pas une réinitialisation d'année civile. Les jours passés à Schengen il y a six mois comptent toujours contre votre allocation actuelle.
 
 La plupart des applications de passeport ou de document génériques ne gèrent pas cela correctement. Une application qui affiche simplement une date d'expiration du visa ne peut pas gérer la conformité Schengen - elle nécessite de calculer les jours sur une fenêtre glissante basée sur les dates d'entrée et de sortie réelles.
 
@@ -79,6 +79,8 @@ Compte tenu de la complexité ci-dessus, une bonne application de suivi des visa
 5. **Définissez un rappel au moins 2 semaines avant votre date limite de séjour maximal.** Cela vous donne le temps d'organiser votre départ sans vous précipiter, surtout si les options de transport dans votre destination sont limitées.
 
 Règles connexes qui interagissent avec le suivi des visas: consultez notre guide sur la [règle des 6 mois du passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/), qui peut vous empêcher d'entrer même avec un visa valide si votre passeport expire trop tôt après votre départ prévu.
+
+**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
 
 ## Questions fréquemment posées
 

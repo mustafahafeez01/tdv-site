@@ -34,11 +34,11 @@ Einige Länder möchten einen Nachweis Ihrer ersten Nacht Unterkunft sehen, ob e
 
 ### Impfzertifikate
 
-Einige Ziele erfordern einen Impfnachweis gegen Gelbfieber oder andere Krankheiten, und die Anforderungen ändern sich regelmäßig je nach Ziel. Überprüfen Sie die [WHO-Reiseratschläge](https://www.who.int/travel-advice) 6-8 Wochen vor der Reise - nicht am Vorabend -, da einige Länder nur offizielle WHO-Gelbfieberzertifikate akzeptieren, keine Fotokopien oder digitalen Fotos.
+Einige Ziele erfordern einen Impfnachweis gegen Gelbfieber oder andere Krankheiten, und die Anforderungen ändern sich regelmäßig je nach Ziel. Überprüfen Sie die WHO-Reiseratschläge 6-8 Wochen vor der Reise - nicht am Vorabend -, da einige Länder nur offizielle WHO-Gelbfieberzertifikate akzeptieren, keine Fotokopien oder digitalen Fotos.
 
 ### Reiseversicherungsdetails
 
-Sie benötigen sofortigen Zugriff auf Ihre Policennummer, Kontaktdaten des Versicherers und Ihre 24-Stunden-Notfallhotline. Einige Visatypen erfordern explizit einen Nachweis der Reiseversicherung - [Schengen-Visumantrag](https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy/applying-schengen-visa_en) zum Beispiel erfordern eine Versicherung, die medizinische Notfallversorgung und Krankenhaus abdeckt. Aber noch wichtiger: Falls etwas im Ausland schiefgeht, benötigen Sie diese Details ohne E-Mail oder Internet.
+Sie benötigen sofortigen Zugriff auf Ihre Policennummer, Kontaktdaten des Versicherers und Ihre 24-Stunden-Notfallhotline. Einige Visatypen erfordern explizit einen Nachweis der Reiseversicherung - Schengen-Visumantrag zum Beispiel erfordern eine Versicherung, die medizinische Notfallversorgung und Krankenhaus abdeckt. Aber noch wichtiger: Falls etwas im Ausland schiefgeht, benötigen Sie diese Details ohne E-Mail oder Internet.
 
 ### Zustimmungsschreiben für Kinder
 
@@ -89,7 +89,7 @@ Jedes Kind benötigt seinen eigenen Reisepass für internationale Reisen, egal w
 
 **Zustimmungsschreiben für Kinder:** Wenn ein Kind international mit nur einem Elternteil reist, werden viele Grenzbeamte eine schriftliche Zustimmung vom abwesenden Elternteil anfordern, vorzugsweise notariell beglaubigt. Bei Reisen ohne einen Elternteil (zum Beispiel mit Großeltern) ist normalerweise die Zustimmung beider Eltern erforderlich. Die Anforderungen ändern sich und variieren je nach Nationalität. Überprüfen Sie also die Anforderungen mit der offiziellen Einwanderungsbehörde Ihres Ziels.
 
-Ein Zustimmungsschreiben sollte normalerweise den vollständigen Namen des Kindes und sein Geburtsdatum, Reisepassdaten, Reisedaten und -ziele sowie Kontaktdaten der abwesenden Eltern enthalten. Einige Ziele haben spezifische Vorlagen. Die kanadische Regierung zum Beispiel [bietet ein Beispiel-Zustimmungsschreiben-Format](https://travel.gc.ca/travelling/children/consent-letter).
+Ein Zustimmungsschreiben sollte normalerweise den vollständigen Namen des Kindes und sein Geburtsdatum, Reisepassdaten, Reisedaten und -ziele sowie Kontaktdaten der abwesenden Eltern enthalten. Einige Ziele haben spezifische Vorlagen. Die kanadische Regierung zum Beispiel bietet ein Beispiel-Zustimmungsschreiben-Format.
 
 Was das in der Praxis bedeutet
 
@@ -100,6 +100,8 @@ Sie steigen mit Ihrem 8-jährigen Kind in einen Flug nach Kanada, und Ihr Partne
 Physische Dokumente helfen, bis ein Dieb Ihre Tasche nimmt - und nimmt normalerweise die Kopien zusammen mit den Originalen. Eine separate verschlüsselte Sicherung auf Ihrem Telefon - offline gehalten - ist Ihre echte Versicherung, falls die Originale verschwinden.
 
 Wenn Ihre Botschaft ein Notfall-Reisedokument ausstellen muss, gibt Ihnen eine sichere Sicherung sofort Ihre Reisepassnummer, Ausstellungsdatum, Ausstellungsort und Ablaufdatum ohne Internetzugang. Weitere Informationen zu den verfügbaren Optionen finden Sie in unserem Überblick über [sichere Speicherung von Reisepass-Kopien](https://traveldocumentvault.com/de/blog/is-it-safe-to-store-passport-in-google-photos/) und die Kompromisse zwischen verschiedenen Ansätzen.
+
+**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
 
 ## Häufig gestellte Fragen
 

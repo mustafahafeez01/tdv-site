@@ -42,10 +42,10 @@ Los requisitos difieren de país a país, y algunos se especifican en pulgadas e
 
 | País | Dónde verificar los requisitos actuales |
 |---|---|
-| Estados Unidos | [requisitos de fotos de pasaporte de travel.state.gov](https://travel.state.gov/content/travel/en/passports/how-apply/photos.html) |
-| Reino Unido | [fotos para pasaportes de gov.uk](https://www.gov.uk/photos-for-passports/photo-requirements) |
-| Australia | [orientación de fotos de la Oficina de Pasaportes Australiana](https://www.passports.gov.au/help/passport-photos) |
-| Canadá | [fotos de pasaportes del Gobierno de Canadá](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) |
+| Estados Unidos | requisitos de fotos de pasaporte de travel.state.gov |
+| Reino Unido | fotos para pasaportes de gov.uk |
+| Australia | orientación de fotos de la Oficina de Pasaportes Australiana |
+| Canadá | fotos de pasaportes del Gobierno de Canadá |
 
 Estas especificaciones son exactas, incluso unos pocos milímetros de diferencia significa rechazo. Tu foto bruta del teléfono inteligente típicamente será mucho más grande de lo que necesitas presentar, es por eso que existen apps de recorte. Las herramientas gratuitas o de bajo costo disponibles en iOS y Android te permiten ingresar tu país y redimensionar automáticamente a la especificación exacta.
 
@@ -56,8 +56,8 @@ Tienes varias opciones para que tu foto de pasaporte llegue a manos de la autori
 | Método | Costo | Riesgo de Aceptación | Conveniencia | Orientación Oficial |
 |---|---|---|---|---|
 | DIY en casa (teléfono inteligente + app de recorte) | Gratuito o casi | Mayor si pierdes iluminación o especificaciones de tamaño | Muy alta, inmediata | Permitido en la mayoría de países, verifica el sitio de tu autoridad |
-| Farmacia local | Una tarifa modesta | Baja, profesionales capacitados verifican | Media, servicio del mismo día típico | Ampliamente utilizado y generalmente confiable, verifica de todas formas los [requisitos de foto](https://www.gov.uk/photos-for-passports/photo-requirements) de tu autoridad |
-| Correo (Reino Unido y otros) | Una tarifa modesta | Baja, tomada internamente, verificada | Media, requiere visita y cita | [servicio oficial de Correo](https://www.postoffice.co.uk/passport-services) |
+| Farmacia local | Una tarifa modesta | Baja, profesionales capacitados verifican | Media, servicio del mismo día típico | Ampliamente utilizado y generalmente confiable, verifica de todas formas los requisitos de foto de tu autoridad |
+| Correo (Reino Unido y otros) | Una tarifa modesta | Baja, tomada internamente, verificada | Media, requiere visita y cita | servicio oficial de Correo |
 | Servicios en línea (por ejemplo, Passport Photo Online) | Una tarifa modesta | Media, presentación digital, retroalimentación proporcionada | Alta, desde casa, entrega digital | No oficial pero ampliamente utilizado, verifica si tu país acepta cargas previas recortadas |
 | Estudio de fotografía profesional | La opción más cara | Baja, iluminación y composición de experto | Baja, requiere cita | Aceptado en todas partes, siempre una opción segura |
 
@@ -112,6 +112,8 @@ Antes de tomar tu foto, asegúrate de tener lo siguiente en su lugar:
 - Plan para imprimir o presentación digital basado en los requisitos de tu país
 
 Unos pocos minutos configurando correctamente ahora te ahorran de volver a presentar después, lo que significa que tu solicitud no sufre retrasos.
+
+**Antes de fiarte de esto:** este artículo explica reglas generales, y las reglas generales son todo lo que puede ofrecer un blog. Los requisitos cambian y varían según la nacionalidad, el destino y la fecha del viaje. Consulta tu caso con la autoridad que emite el documento o con el servicio de información al viajero de tu gobierno antes de reservar. Revisamos lo que publicamos y aun así podemos equivocarnos o quedarnos desactualizados.
 
 ## Preguntas Frecuentes
 

@@ -22,7 +22,7 @@ Quand vous voyagez avec des enfants, suivre cinq passeports à travers les exige
 
 Le problème commence petit. Vous avez votre passeport, votre conjoint a le sien. Ensuite, vous avez des enfants, et soudainement, vous avez quatre documents distincts avec quatre dates d'expiration différentes. Le cerveau humain n'est pas programmé pour suivre quatre calendriers de renouvellement différents, surtout quand la vie devient chargée. Une personne finit par tout gérer - généralement celle qui gère déjà toute la logistique d'autres voyages - et ce point de défaillance unique devient un risque.
 
-Le deuxième problème est que les passeports des enfants expirent beaucoup plus vite que ceux des adultes. [Aux États-Unis, les passeports des enfants de moins de 16 ans durent 5 ans](https://travel.state.gov/content/travel/en/passports.html), tandis que les passeports pour adultes durent 10 ans. [Il en va de même au Royaume-Uni](https://www.gov.uk/apply-renew-passport) - les documents des enfants expirent après 5 ans, pas 10. Cela signifie que le passeport de votre plus jeune enfant devient souvent le facteur limitant pour les voyages familiaux. Vous pourriez avoir un parent ayant 8 ans de validité restante, mais si le passeport de votre plus jeune enfant expire dans 18 mois, c'est votre horizon de planification.
+Le deuxième problème est que les passeports des enfants expirent beaucoup plus vite que ceux des adultes. Aux États-Unis, les passeports des enfants de moins de 16 ans durent 5 ans, tandis que les passeports pour adultes durent 10 ans. Il en va de même au Royaume-Uni - les documents des enfants expirent après 5 ans, pas 10. Cela signifie que le passeport de votre plus jeune enfant devient souvent le facteur limitant pour les voyages familiaux. Vous pourriez avoir un parent ayant 8 ans de validité restante, mais si le passeport de votre plus jeune enfant expire dans 18 mois, c'est votre horizon de planification.
 
 La plupart des familles ne s'en rendent compte que quand elles ont déjà réservé un voyage. Un parent trouve les passeports une semaine avant le départ, les scanne rapidement en faisant ses valises, et découvre que le document d'un enfant ne respectera pas la règle de 6 mois de validité pour sa destination. Le voyage est maintenant en danger, ou nécessite un renouvellement précipité et coûteux.
 
@@ -77,6 +77,8 @@ Au-delà du passeport lui-même, plusieurs autres documents méritent une place 
 - **Permis de conduire.** Si vous louez une voiture, vous aurez besoin de permis de conduire pour tous les conducteurs de votre groupe. Ceux-ci ont aussi des dates d'expiration qui peuvent surprendre les familles.
 
 Gardez tous ces éléments dans un seul endroit accessible. La panique de fouiller dans votre téléphone ou votre sac au comptoir de l'aéroport, en plissant les yeux sur des photos floues de pages de visa - c'est exactement ce que ce système prévient.
+
+**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
 
 ## Questions fréquemment posées
 

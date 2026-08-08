@@ -41,7 +41,7 @@ Un passaporto può essere tecnicamente valido - non scaduto - e comunque farti n
 
 **La regola dei 6 mesi.** Molte destinazioni popolari richiedono che il tuo passaporto sia valido per almeno 6 mesi nel giorno dell'ingresso nel paese, e alcuni contano dalla tua data di partenza pianificata invece. Quindi se il tuo passaporto scade in ottobre e atterra a Istanbul in aprile, stai bene. Se arrivi a giugno, potresti non stare bene - e la compagnia aerea ti rifiuterà di imbarcare prima ancora di arrivare all'immigrazione.
 
-La regola dei 6 mesi si applica in modo incoerente per nazionalità. Lo stesso paese può applicarla per alcuni titolari di passaporti e rinunciarvi per altri secondo accordi bilaterali. L'unico modo affidabile per verificare è cercare il requisito specifico per il tuo passaporto e la destinazione usando l'[IATA Travel Centre](https://www.iatatravelcentre.com) - lo stesso database che le compagnie aeree usano al banco.
+La regola dei 6 mesi si applica in modo incoerente per nazionalità. Lo stesso paese può applicarla per alcuni titolari di passaporti e rinunciarvi per altri secondo accordi bilaterali. L'unico modo affidabile per verificare è cercare il requisito specifico per il tuo passaporto e la destinazione usando l'IATA Travel Centre - lo stesso database che le compagnie aeree usano al banco.
 
 Copriamo [quali paesi applicano la regola dei 6 mesi](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/) in dettaglio, inclusa una tabella paese per paese. La versione breve: assumi che si applica a qualsiasi destinazione al di fuori dell'Europa, del Nord America o dell'Australia a meno che tu non abbia verificato.
 
@@ -55,7 +55,7 @@ Per destinazioni che non applicano la regola dei 6 mesi - la maggior parte dell'
 
 Per destinazioni con un requisito di 6 mesi, conta 6 mesi dal giorno dell'arrivo. Se atterra in Tailandia il 20 luglio, il tuo passaporto deve essere valido fino ad almeno il 20 gennaio dell'anno successivo - e contare dalla data di ritorno invece ti dà un margine di sicurezza aggiuntivo per i paesi che misurano diversamente.
 
-Per tutto il resto, controlla prima di prenotare. L'[IATA Travel Centre](https://www.iatatravelcentre.com) fornisce il requisito esatto per la tua nazionalità e destinazione in secondi.
+Per tutto il resto, controlla prima di prenotare. L'IATA Travel Centre fornisce il requisito esatto per la tua nazionalità e destinazione in secondi.
 
 ## Passaporti dei bambini - La trappola del viaggio in famiglia
 
@@ -72,12 +72,14 @@ La risposta pratica: quando scendi al di sotto di 12 mesi di validità rimanente
 Ecco perché 12 mesi è la soglia giusta e non la data di scadenza stessa:
 
 - Ti dà un buffer completo di 6 mesi per qualsiasi destinazione che applica la regola.
-- Il rinnovo del passaporto richiede tempo: [i rinnovi del passaporto britannico solitamente richiedono circa 3 settimane](https://www.gov.uk/apply-renew-passport) (e l'Ufficio dei Passaporti di HM dice di non prenotare i viaggi fino all'arrivo del nuovo passaporto) e [l'elaborazione standard USA funziona 4-6 settimane](https://travel.state.gov/content/travel/en/passports.html), quindi iniziare con 6 mesi rimanenti lascia poco margine.
+- Il rinnovo del passaporto richiede tempo: i rinnovi del passaporto britannico solitamente richiedono circa 3 settimane (e l'Ufficio dei Passaporti di HM dice di non prenotare i viaggi fino all'arrivo del nuovo passaporto) e l'elaborazione standard USA funziona 4-6 settimane, quindi iniziare con 6 mesi rimanenti lascia poco margine.
 - I piani dell'ultimo minuto accadono. Un passaporto con 14 mesi rimanenti mantiene tutte le destinazioni aperte. Un passaporto con 5 mesi rimanenti chiude una gran parte del mondo.
 
 L'errore più comune è impostare un promemoria sulla data di scadenza stessa. A quel punto non puoi viaggiare verso la maggior parte delle destinazioni che applicano la regola dei 6 mesi. **Imposta il tuo promemoria di rinnovo al marchio di 12 mesi.**
 
 Se leggi anche la nostra guida su [quanto tempo richiede il rinnovo del passaporto](https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-take/), vedrai esattamente quanto stretti possono essere i tempi durante i periodi di punta - che è un'altra ragione per iniziare in anticipo.
+
+**Prima di farci affidamento:** questo articolo spiega regole generali, e le regole generali sono tutto ciò che un blog può offrire. I requisiti cambiano e variano in base a cittadinanza, destinazione e data del viaggio. Verifica il tuo caso con l'autorità che rilascia il documento o con il servizio informazioni viaggi del tuo governo prima di prenotare. Controlliamo quello che pubblichiamo e possiamo comunque sbagliare o essere superati.
 
 ## Domande frequenti
 

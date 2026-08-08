@@ -30,7 +30,7 @@ Antes de confirmar qualquer reserva, verifique o passaporte de cada viajante con
 
 **Verifique os seus requisitos de visto**
 
-Descubra se a nacionalidade do seu passaporte requer um visto para entrada, trânsito ou ambos. Use o aviso de viagem oficial do seu governo ou o [IATA Travel Centre](https://www.iatatravelcentre.com) - a mesma base de dados que as companhias aéreas usam para verificar documentos de passageiros. Precisará saber se um visto é necessário, ou se é elegível para acesso de visto na chegada ou e-visto, com que antecedência a candidatura precisa acontecer e se o visto cobre entradas múltiplas.
+Descubra se a nacionalidade do seu passaporte requer um visto para entrada, trânsito ou ambos. Use o aviso de viagem oficial do seu governo ou o IATA Travel Centre - a mesma base de dados que as companhias aéreas usam para verificar documentos de passageiros. Precisará saber se um visto é necessário, ou se é elegível para acesso de visto na chegada ou e-visto, com que antecedência a candidatura precisa acontecer e se o visto cobre entradas múltiplas.
 
 **Reserve o seu seguro de viagem cedo**
 
@@ -38,9 +38,9 @@ Reserve o seguro de viagem quando reserva voos, não uma semana antes da partida
 
 ## Três Meses Antes: Windows de Renovação e Visto
 
-Neste ponto ainda tem tempo para corrigir as coisas. A renovação de passaporte padrão actualmente leva 4-6 semanas nos EUA (via [travel.state.gov](https://travel.state.gov/content/travel/en/passports.html)), geralmente cerca de 3 semanas no Reino Unido (via [GOV.UK](https://www.gov.uk/apply-renew-passport)) e pelo menos 6 semanas na Austrália (via o [Australian Passport Office](https://www.passports.gov.au)). Sempre verifique o site oficial para os tempos actuais antes de candidatar-se.
+Neste ponto ainda tem tempo para corrigir as coisas. A renovação de passaporte padrão actualmente leva 4-6 semanas nos EUA (via travel.state.gov), geralmente cerca de 3 semanas no Reino Unido (via GOV.UK) e pelo menos 6 semanas na Austrália (via o Australian Passport Office). Sempre verifique o site oficial para os tempos actuais antes de candidatar-se.
 
-Qualquer passaporte que expire nos próximos 12 meses: inicie o processo de renovação agora. Os passaportes de crianças expiram mais rapidamente - 5 anos na maioria dos países versus 10 para adultos - e os progenitores frequentemente perdem a janela. Para candidatos da Nova Zelândia, verifique o [New Zealand Passport Office](https://www.passports.govt.nz) para cronogramas actuais; a procura aumenta na fase de aproximação ao verão.
+Qualquer passaporte que expire nos próximos 12 meses: inicie o processo de renovação agora. Os passaportes de crianças expiram mais rapidamente - 5 anos na maioria dos países versus 10 para adultos - e os progenitores frequentemente perdem a janela. Para candidatos da Nova Zelândia, verifique o New Zealand Passport Office para cronogramas actuais; a procura aumenta na fase de aproximação ao verão.
 
 Submeta qualquer candidatura de visto com uma janela de processamento de quatro ou mais semanas. Prepare documentos de apoio: extractos bancários, confirmações de alojamento, prova de viagem contínua. Reserve uma consulta de biometria com antecedência se o visto o exigir.
 
@@ -106,6 +106,8 @@ Diferentes viagens precisam de diferentes conjuntos de documentos.
 | Carta de consentimento de criança | N/A | ✅ se aplicável | N/A | Necessária em muitos países se um progenitor está ausente |
 | Certidões de nascimento | N/A | ✅ se necessário | N/A | Alguns países exigem para crianças menores de 18 |
 | Carta de autorização de trabalho | N/A | N/A | ✅ se necessário | Alguns destinos exigem cartas de empregador para viajantes de negócios |
+
+**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
 
 ## Perguntas Frequentes
 

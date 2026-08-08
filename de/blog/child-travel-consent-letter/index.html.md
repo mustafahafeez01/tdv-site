@@ -31,9 +31,9 @@ Ein Brief ist üblicherweise in diesen Situationen erforderlich:
 - **Ein Kind reist mit einem Elternteil, dessen Familienname sich vom Namen des Kindes unterscheidet.** Dies löst an einigen Grenzen Flaggen aus, besonders bei jüngeren Kindern.
 - **Ein Kind ist adoptiert oder in Pflegefamilien.** Dokumente über die rechtliche Vormundschaft und Zustimmung können zusammen mit dem Brief erforderlich sein.
 
-**Kritische Einschränkung:** Die Regeln unterscheiden sich erheblich. Die Niederlande verlangen keinen Zustimmungsbrief, auch wenn ein Kind nur mit einem Elternteil reist. [Kanada verlangt rechtlich keinen Zustimmungsbrief](https://travel.gc.ca/travelling/children/consent-letter), aber die Regierung Kanadas empfiehlt nachdrücklich einen und bemerkt, dass "das Versäumnis, einen Brief auf Anfrage bereitzustellen, zu Verzögerungen oder einer Verweigerung der Ein- oder Ausreise führen kann". Südafrika setzt strenge Dokumentationsvorkehrungen an seinen Grenzen durch. Einige Länder wenden Anforderungen nur auf Kinder unter einem bestimmten Alter an. Es gibt keinen globalen Standard.
+**Kritische Einschränkung:** Die Regeln unterscheiden sich erheblich. Die Niederlande verlangen keinen Zustimmungsbrief, auch wenn ein Kind nur mit einem Elternteil reist. Kanada verlangt rechtlich keinen Zustimmungsbrief, aber die Regierung Kanadas empfiehlt nachdrücklich einen und bemerkt, dass "das Versäumnis, einen Brief auf Anfrage bereitzustellen, zu Verzögerungen oder einer Verweigerung der Ein- oder Ausreise führen kann". Südafrika setzt strenge Dokumentationsvorkehrungen an seinen Grenzen durch. Einige Länder wenden Anforderungen nur auf Kinder unter einem bestimmten Alter an. Es gibt keinen globalen Standard.
 
-Überprüfen Sie immer die Anforderungen direkt bei der Einwanderungsbehörde Ihres Ziellands, bevor Sie reisen. Verwenden Sie das [IATA Travel Centre](https://www.iatatravelcentre.com), um die Einreisebestimmungen zu überprüfen, oder wenden Sie sich an die Botschaft Ihres Ziellands. Falls Sie unsicher sind, ist das Mitführen des Briefes besser als die Alternative: An der Abfertigung oder an der Grenze gestoppt zu werden.
+Überprüfen Sie immer die Anforderungen direkt bei der Einwanderungsbehörde Ihres Ziellands, bevor Sie reisen. Verwenden Sie das IATA Travel Centre, um die Einreisebestimmungen zu überprüfen, oder wenden Sie sich an die Botschaft Ihres Ziellands. Falls Sie unsicher sind, ist das Mitführen des Briefes besser als die Alternative: An der Abfertigung oder an der Grenze gestoppt zu werden.
 
 ## Was der Brief enthalten muss
 
@@ -84,13 +84,13 @@ Selbst gut vorbereitete Familien machen Fehler, die zu Ablehnungen an der Grenze
 
 | Land | Anforderung | Notarielle Beglaubigung | Amtliche Quelle |
 |---|---|---|---|
-| **Kanada** | Nachdrücklich empfohlen (nicht rechtlich erforderlich) | Empfohlen (Notar) | [travel.gc.ca](https://travel.gc.ca/travelling/children/consent-letter) |
-| **Südafrika** | Üblicherweise erforderlich | Ja (durch Notar oder Anwalt beglaubigt) | [Department of Home Affairs](https://www.dha.gov.za) |
-| **Australien** | Empfohlen; Fluggesellschaften können verlangen | Ja (von Rechtsanwalt beglaubigt) | [Smart Traveller](https://www.smartraveller.gov.au) |
-| **Vereinigtes Königreich** | Nicht rechtlich erforderlich; Fluggesellschaften und Grenzbeamten können anfordern | Empfohlen (Rechtsanwalt) | [UKVI](https://www.gov.uk/government/organisations/uk-visas-and-immigration) |
-| **Vereinigte Staaten** | Nicht bundesweit erforderlich; unterscheidet sich nach Bundesstaat | Unterscheidet sich nach Bundesstaat | [travel.state.gov](https://travel.state.gov) |
-| **Europäische Union** | Unterscheidet sich je nach Land | Unterscheidet sich je nach Land | [IATA Travel Centre](https://www.iatatravelcentre.com) |
-| **Neuseeland** | Empfohlen | Mit Einwanderung überprüfen | [Immigration NZ](https://www.immigration.govt.nz) |
+| **Kanada** | Nachdrücklich empfohlen (nicht rechtlich erforderlich) | Empfohlen (Notar) | travel.gc.ca |
+| **Südafrika** | Üblicherweise erforderlich | Ja (durch Notar oder Anwalt beglaubigt) | Department of Home Affairs |
+| **Australien** | Empfohlen; Fluggesellschaften können verlangen | Ja (von Rechtsanwalt beglaubigt) | Smart Traveller |
+| **Vereinigtes Königreich** | Nicht rechtlich erforderlich; Fluggesellschaften und Grenzbeamten können anfordern | Empfohlen (Rechtsanwalt) | UKVI |
+| **Vereinigte Staaten** | Nicht bundesweit erforderlich; unterscheidet sich nach Bundesstaat | Unterscheidet sich nach Bundesstaat | travel.state.gov |
+| **Europäische Union** | Unterscheidet sich je nach Land | Unterscheidet sich je nach Land | IATA Travel Centre |
+| **Neuseeland** | Empfohlen | Mit Einwanderung überprüfen | Immigration NZ |
 
 **Überprüfen Sie immer die aktuellen Anforderungen direkt bei der offiziellen Einwanderungsbehörde Ihres Ziellands.** Die Regeln ändern sich häufig, und offizielle Regierungswebsites sind Ihre zuverlässigste Quelle. Reiseblogs und Fluggesellschaftenseiten sind nützlich für den Kontext, können aber hinter den neuesten Anforderungen zurückbleiben.
 
@@ -121,6 +121,8 @@ Gehen Sie in den Tagen vor der Abreise diese Checkliste durch:
 - Laminieren Sie keinen notariell beglaubigten Brief. Laminierung kann die Beglaubigung ungültig machen.
 
 Ein gut vorbereiteter Zustimmungsbrief ist der Schutz Ihrer Familie vor Reisestörungen. Die Zeit, die jetzt verbracht wird, zahlt sich durch reibungslose Grenzübergänge und Seelenfrieden aus.
+
+**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
 
 ## Häufig gestellte Fragen
 

@@ -16,15 +16,15 @@ Source: https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/
 - The EU's **official short-stay calculator** works, but it's manual - one person, one window, one calculation at a time.
 - Families juggle **a separate window per person**. That's where day-limit tracking in an app earns its place.
 
-On your last trip to Europe you probably collected a stamp at the border. That stamp is gone. Since 10 April 2026, the EU's Entry/Exit System (EES) has been [fully operational across the Schengen area](https://home-affairs.ec.europa.eu/news/entryexit-system-ees-fully-operational-2026-04-10_en), and the smudged ink that once recorded your travels has been replaced by a digital record that starts the moment you cross.
+On your last trip to Europe you probably collected a stamp at the border. That stamp is gone. Since 10 April 2026, the EU's Entry/Exit System (EES) has been fully operational across the Schengen area, and the smudged ink that once recorded your travels has been replaced by a digital record that starts the moment you cross.
 
 For anyone who counts Schengen days - and every non-EU visitor should - this changes the stakes considerably. Here's what the new system actually does, what it deliberately doesn't do, and how to keep your own count so a border never surprises you.
 
 ## What Changed at Europe's Borders
 
-EES registers each non-EU traveller's fingerprints, facial image, travel document and exact entry and exit dates. The system had recorded [over 52 million border crossings](https://home-affairs.ec.europa.eu/policies/schengen/smart-borders/entry-exit-system_en) between its phased launch in October 2025 and full operation this spring, and more than 27,000 people were refused entry in that time. First-time registration takes a few minutes at the kiosk, and airports have [reported multi-hour queues](https://www.euronews.com/travel/2026/07/01/ees-at-a-critical-point-europes-aviation-sector-urges-eu-to-show-more-flexibility) at peak times this summer while everyone gets used to it.
+EES registers each non-EU traveller's fingerprints, facial image, travel document and exact entry and exit dates. The system had recorded over 52 million border crossings between its phased launch in October 2025 and full operation this spring, and more than 27,000 people were refused entry in that time. First-time registration takes a few minutes at the kiosk, and airports have reported multi-hour queues at peak times this summer while everyone gets used to it.
 
-Not everyone is registered. EU citizens, residents of Schengen countries and long-stay visa holders are [exempt](https://travel-europe.europa.eu/ees/ltr/to-whom-does-ees-not-apply). If you're visiting on the visa-free short-stay allowance - most British, American, Canadian and Australian travellers, for instance - EES applies to you.
+Not everyone is registered. EU citizens, residents of Schengen countries and long-stay visa holders are exempt. If you're visiting on the visa-free short-stay allowance - most British, American, Canadian and Australian travellers, for instance - EES applies to you.
 
 ## The 90/180 Rule Under a System That Never Blinks
 
@@ -32,13 +32,13 @@ The rule itself hasn't changed: you may spend at most 90 days inside the Schenge
 
 ![Hand-drawn diagram of the Schengen 90/180 rolling window: a timeline from 180 days ago to today holding two trips of 30 and 45 days, totalling 75 of 90 days used, with a note that the window slides every day and that arrival and departure days both count](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window.jpg) The window never resets: for every single day, the previous 180 days may hold at most 90 days of stay.
 
-What has changed is enforcement. Under passport stamps, proving an overstay meant deciphering faded ink, and border officers had discretion. Now the dates are exact, and the system flags an overstay the moment it happens. Expect [refusal at your next entry](https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en), and in many cases an entry ban of one to five years, which officials record in the Schengen Information System. The margin for error has gone from fuzzy to zero.
+What has changed is enforcement. Under passport stamps, proving an overstay meant deciphering faded ink, and border officers had discretion. Now the dates are exact, and the system flags an overstay the moment it happens. Expect refusal at your next entry, and in many cases an entry ban of one to five years, which officials record in the Schengen Information System. The margin for error has gone from fuzzy to zero.
 
 ## The Catch: EES Enforces, It Doesn't Plan
 
-EES counts your days for enforcement, but it doesn't tell you the number. There's no public portal where you can log in and see "47 days remaining"; the [Travel to Europe app](https://travel-europe.europa.eu/ees/Travel-to-Europe-mobile-app) handles pre-registration before you fly, not day counts after you arrive. The system records what you did; forecasting what you can still do remains entirely your problem.
+EES counts your days for enforcement, but it doesn't tell you the number. There's no public portal where you can log in and see "47 days remaining"; the Travel to Europe app handles pre-registration before you fly, not day counts after you arrive. The system records what you did; forecasting what you can still do remains entirely your problem.
 
-The EU publishes an official [short-stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) that's well worth bookmarking. You enter your past entry and exit dates, and it tells you whether a planned stay fits inside your window. It works well for one traveller who keeps good records. The friction appears when the records live in your memory, or when you're doing the exercise for four people at once.
+The EU publishes an official short-stay calculator that's well worth bookmarking. You enter your past entry and exit dates, and it tells you whether a planned stay fits inside your window. It works well for one traveller who keeps good records. The friction appears when the records live in your memory, or when you're doing the exercise for four people at once.
 
 ## How to Track Your Window in Practice
 
@@ -59,6 +59,8 @@ One honesty note: no app can read your EES record, ours included. What a tracker
 ## One Step Ahead of the Border
 
 The digital border is thorough, automatic and unsentimental, but staying inside the 90/180 rule was never about the border - it's about knowing your own dates before you book. Keep your trip history somewhere reliable, run the numbers before committing to travel, and treat the counting as part of planning rather than something to reconstruct at the gate. EES will do the enforcing. The planning is still yours, and it's the cheaper half to get right.
+
+**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
 
 ## Frequently Asked Questions
 

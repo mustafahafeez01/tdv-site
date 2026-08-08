@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/de/blog/tripcase-alternative/
 - Die eigentliche Lektion: Ein kostenloser Cloud-Dienst speichert **Ihre Daten auf ausgeliehene Zeit**. Er kann mit etwa 60 Tagen Vorankündigung verschwinden.
 - Reisedokumente gehören **offline, auf Ihr Gerät** - an einen Ort, den keine Unternehmensentscheidung, kein Ausfall oder keine Einstellung erreichen kann.
 
-TripCase war zwölf Jahre lang das stille Arbeitstier unter den Reiseapps. Leiten Sie eine Bestätigungsemail weiter und Ihre Reise baute sich selbst auf. Die App benachrichtigte Sie über Torwechsel früher als manche Fluggesellschaften. Und das Document Vault behielt Reisepässe, Visa und Bordkarten an einem Ort. Dann, am 1. April 2025, [stellte Sabre es ein](https://www.flyertalk.com/forum/travel-tools/2187377-replacement-recommendations-soon-discontinued-tripcase-april-1-2025-a.html), und nach dem Ablauf des Exportfensters am 30. Juni wurden alle verbleibenden Reisedaten und Dokumente von den Servern gelöscht.
+TripCase war zwölf Jahre lang das stille Arbeitstier unter den Reiseapps. Leiten Sie eine Bestätigungsemail weiter und Ihre Reise baute sich selbst auf. Die App benachrichtigte Sie über Torwechsel früher als manche Fluggesellschaften. Und das Document Vault behielt Reisepässe, Visa und Bordkarten an einem Ort. Dann, am 1. April 2025, stellte Sabre es ein, und nach dem Ablauf des Exportfensters am 30. Juni wurden alle verbleibenden Reisedaten und Dokumente von den Servern gelöscht.
 
 Fünfzehn Monate später suchen Ex-Nutzer immer noch nach einem Ersatz. Die ehrliche Antwort lautet, dass es keine einzelne App gibt, die TripCase vollständig ersetzt. Aber die wahre Geschichte dreht sich nicht darum, welche App man wählen sollte - es geht darum, wo Ihre Dokumente leben sollten.
 
@@ -24,7 +24,7 @@ Fünfzehn Monate später suchen Ex-Nutzer immer noch nach einem Ersatz. Die ehrl
 
 TripCase gab es seit 2013, ein kostenloses Reise-Begleiter von Sabre Corporation - dem Unternehmen, das einen großen Teil der weltweiten Flug- und Reisebüro-Buchungssysteme betreibt. Aufgrund dieser Verbindung erschienen Reisen oft automatisch in der App. Über ein Jahrzehnt lang verließen sich Geschäftsreisende und Familien darauf, Flüge, Hotels und Mietwagen in einer chronologischen Übersicht zusammenzustellen. Es war nicht fancy, aber es funktionierte.
 
-Bei der Einstellung hatten Nutzer bis zum 30. Juni 2025 Zeit, ihre Verlauf zu exportieren. Mehrere Nutzer [berichteten, dass der Exportprozess verwirrend und unvollständig war](https://www.flyertalk.com/forum/travel-tools/2187377-replacement-recommendations-soon-discontinued-tripcase-april-1-2025-a.html), und einige stellten zu spät fest, dass Jahre von Reisedatensätzen nicht exportiert worden waren. Nach Ablauf des Exportfensters am 30. Juni 2025 löschte Sabre alle verbleibenden Reise- und Nutzerdaten, und es gibt keine Möglichkeit, sie zurückzuholen.
+Bei der Einstellung hatten Nutzer bis zum 30. Juni 2025 Zeit, ihre Verlauf zu exportieren. Mehrere Nutzer berichteten, dass der Exportprozess verwirrend und unvollständig war, und einige stellten zu spät fest, dass Jahre von Reisedatensätzen nicht exportiert worden waren. Nach Ablauf des Exportfensters am 30. Juni 2025 löschte Sabre alle verbleibenden Reise- und Nutzerdaten, und es gibt keine Möglichkeit, sie zurückzuholen.
 
 ## Was TripCase-Nutzer wirklich verloren haben
 
@@ -32,7 +32,7 @@ TripCase hat nicht viel erfunden, aber es hat eine Handvoll Arbeitsabläufe perf
 
 Sein Kern war **E-Mail-zu-Reiseplan-Analyse** - leiten Sie eine beliebige Flug-, Hotel- oder Mietwagenbestätigung weiter und die App stellte sie in einer chronologischen Reise mit Daten und Buchungsreferenzen zusammen. Keine manuelle Eingabe bedeutete einen vollständigen Reiseplan in Sekunden, genau der Grund, warum Nutzer ein Jahrzehnt lang dabei blieben.
 
-**Echtzeit-Flugwarnungen** kamen dazu: Verspätungen, Torwechsel und Stornierungen oft bevor die eigene Fluggesellschaft benachrichtigte. TripIt verlangt jetzt [etwa 49 USD pro Jahr](https://apurplelife.com/2025/03/18/best-travel-organization-app-2025/) für das Äquivalent in seinem Pro-Plan, während TripCase die Funktion kostenlos für alle anbot.
+**Echtzeit-Flugwarnungen** kamen dazu: Verspätungen, Torwechsel und Stornierungen oft bevor die eigene Fluggesellschaft benachrichtigte. TripIt verlangt jetzt etwa 49 USD pro Jahr für das Äquivalent in seinem Pro-Plan, während TripCase die Funktion kostenlos für alle anbot.
 
 Diese Flüge, Hotels und Bodentransporte lebten in **der Reisezeitachse** - ein scrollbarer Stapel pro Reise. Einfach, aber wenn Sie eine mehrstädtige Woche aus einem Dutzend Bestätigungsmails jongliert haben, verstehen Sie, warum das wichtig war. In Forum-Threads auf FlyerTalk und anderswo bringen Ex-Nutzer durchgehend das **Document Vault** als das am meisten fehlende Teil auf - diesen einzigen sicheren Ort für Bordkarten, Visa, Reisepässe und Bestätigungen. Schließlich ließ **Reise-Sharing** Familienmitglieder oder Kollegen mitverfolgen, ohne dass Emails weitergeleitet werden mussten.
 
@@ -73,6 +73,8 @@ Die vernünftige Reaktion auf TripCases Zusammenbruch ist nicht, Cloud-Tools ins
 Beginnen Sie mit einer einfachen Überprüfung: Wo leben derzeit alle Scans Ihres Reisepasses, jedes Visum-PDF, jeder Ausweis Ihres Kindes, und was passiert damit, wenn dieser Dienst mit 60 Tagen Vorankündigung verschwindet? Unsere [Checkliste für Reisedokumente](https://traveldocumentvault.com/de/blog/travel-document-checklist/) ist ein praktischer Anfangspunkt.
 
 TripCase ist weg und seine Funktionen sind jetzt über andere Apps verteilt. Aber es gibt eine Lektion, die es wert ist, daraus zu ziehen: Ihre Reisedokumente sollten nicht mit jemandem anderen Server sterben.
+
+**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
 
 ## Häufig gestellte Fragen
 

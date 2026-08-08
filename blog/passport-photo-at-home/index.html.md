@@ -42,10 +42,10 @@ We deliberately don't reprint those numbers here. A figure copied into a blog po
 
 | Country | Where to check the current requirements |
 |---|---|
-| United States | [travel.state.gov passport photo requirements](https://travel.state.gov/content/travel/en/passports/how-apply/photos.html) |
-| United Kingdom | [gov.uk photos for passports](https://www.gov.uk/photos-for-passports/photo-requirements) |
-| Australia | [Australian Passport Office photo guidance](https://www.passports.gov.au/help/passport-photos) |
-| Canada | [Government of Canada passport photos](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) |
+| United States | travel.state.gov passport photo requirements |
+| United Kingdom | gov.uk photos for passports |
+| Australia | Australian Passport Office photo guidance |
+| Canada | Government of Canada passport photos |
 
 Whatever your country specifies, it is exact - even a few millimetres off means rejection. Your smartphone's raw photo will typically be much larger than what you need to submit, which is why cropping apps exist. Free or low-cost tools like those available on iOS and Android let you input your country and automatically resize to the exact spec.
 
@@ -56,8 +56,8 @@ You have several options for getting your passport photo into the hands of the p
 | Method | Cost | Acceptance Risk | Convenience | Official Guidance |
 |---|---|---|---|---|
 | At-home DIY (smartphone + crop app) | Free or close to it | Higher if you miss lighting or size specs | Very high - immediate | Permitted in most countries - check your authority's site |
-| Local chemist or pharmacy | A modest fee | Low - trained professionals verify | Medium - same-day service typical | Widely used and generally reliable - check your own authority's [photo requirements](https://www.gov.uk/photos-for-passports/photo-requirements) either way |
-| Post Office (UK and others) | A modest fee | Low - taken in-house, checked | Medium - requires visit and appointment | [Post Office official service](https://www.postoffice.co.uk/passport-services) |
+| Local chemist or pharmacy | A modest fee | Low - trained professionals verify | Medium - same-day service typical | Widely used and generally reliable - check your own authority's photo requirements either way |
+| Post Office (UK and others) | A modest fee | Low - taken in-house, checked | Medium - requires visit and appointment | Post Office official service |
 | Online services (e.g. Passport Photo Online) | A modest fee | Medium - digital submission, feedback provided | High - from home, digital delivery | Not official but widely used - check if your country accepts pre-cropped uploads |
 | Professional photography studio | The most expensive option | Low - expert lighting and composition | Low - requires appointment | Accepted everywhere - always a safe choice |
 
@@ -112,6 +112,8 @@ Before you take your photo, ensure you have the following in place:
 - Plan for printing or digital submission based on your country's requirements
 
 A few minutes spent setting up properly now saves you from resubmitting later - which means your application doesn't get delayed.
+
+**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
 
 ## Frequently Asked Questions
 

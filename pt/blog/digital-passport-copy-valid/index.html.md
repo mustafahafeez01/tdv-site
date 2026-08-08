@@ -22,7 +22,7 @@ Ao planear uma viagem, muitos viajantes questionam-se se podem armazenar uma có
 
 ### Check-in do Hotel
 
-A maioria dos hotéis em todo o mundo aceita cópias digitais de passaporte no check-in - um PDF no seu telemóvel, enviado com antecedência, ou impresso. Isto é particularmente útil se estiver a fazer check-in tarde ou a deslocar-se entre propriedades e não quer levar o seu passaporte físico durante toda a viagem. Alguns hotéis mais pequenos, particularmente em regiões com menos infraestrutura digital, ainda preferem o original. Em partes da Europa - Espanha, França e Itália entre elas - os hotéis devem registar os seus dados para as autoridades e geralmente vão querer ver o passaporte físico para o fazer, mesmo que [a orientação de proteção de dados diga que tipicamente não devem guardar uma cópia](https://blogturismo.garrigues.com/en/information-technology/traveler-registration-is-it-legal-to-ask-for-a-photocopy-of-a-guests-id-card-or-passport-at-the-chek-in-desk-of-a-hotel). Contacte o seu alojamento com antecedência para confirmar.
+A maioria dos hotéis em todo o mundo aceita cópias digitais de passaporte no check-in - um PDF no seu telemóvel, enviado com antecedência, ou impresso. Isto é particularmente útil se estiver a fazer check-in tarde ou a deslocar-se entre propriedades e não quer levar o seu passaporte físico durante toda a viagem. Alguns hotéis mais pequenos, particularmente em regiões com menos infraestrutura digital, ainda preferem o original. Em partes da Europa - Espanha, França e Itália entre elas - os hotéis devem registar os seus dados para as autoridades e geralmente vão querer ver o passaporte físico para o fazer, mesmo que a orientação de proteção de dados diga que tipicamente não devem guardar uma cópia. Contacte o seu alojamento com antecedência para confirmar.
 
 ### Reservas de Voos e Check-in Online
 
@@ -72,6 +72,8 @@ As cópias de passaporte contêm informações sensíveis de identidade: o seu n
 **Travel Document Vault** armazena cópias encriptadas de todos os seus documentos de viagem no dispositivo. Encriptado com AES-256 no seu telemóvel, sem conta obrigatória. Cópia de segurança encriptada opcional para o seu próprio iCloud ou Google Drive (Pro) selada com um código de recuperação apenas você possui. [Disponível na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 Se está a questionar se o armazenamento em nuvem é seguro para cópias de passaporte, consulte o nosso guia sobre [armazenar passaportes no Google Photos](https://traveldocumentvault.com/pt/blog/is-it-safe-to-store-passport-in-google-photos/). Explica por que uma aplicação encriptada dedicada oferece proteção mais forte.
+
+**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
 
 ## Perguntas Frequentes
 

@@ -42,10 +42,10 @@ Les exigences diffèrent d'un pays à l'autre, et certaines se spécifient en po
 
 | Pays | Où vérifier les exigences actuelles |
 |---|---|
-| États-Unis | [exigences en matière de photos de passeport sur travel.state.gov](https://travel.state.gov/content/travel/en/passports/how-apply/photos.html) |
-| Royaume-Uni | [photos pour passeports sur gov.uk](https://www.gov.uk/photos-for-passports/photo-requirements) |
-| Australie | [guide des photos du Bureau australien des passeports](https://www.passports.gov.au/help/passport-photos) |
-| Canada | [photos de passeport du Gouvernement du Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) |
+| États-Unis | exigences en matière de photos de passeport sur travel.state.gov |
+| Royaume-Uni | photos pour passeports sur gov.uk |
+| Australie | guide des photos du Bureau australien des passeports |
+| Canada | photos de passeport du Gouvernement du Canada |
 
 Ces spécifications sont exactes - même quelques millimètres de décalage signifie un rejet. La photo brute de votre smartphone sera généralement beaucoup plus grande que ce que vous devez soumettre. C'est pourquoi les applications de recadrage existent. Les outils gratuits ou peu coûteux disponibles sur iOS et Android vous permettent d'entrer votre pays et de redimensionner automatiquement selon la spécification exacte.
 
@@ -56,8 +56,8 @@ Vous avez plusieurs options pour obtenir votre photo de passeport aux mains de l
 | Méthode | Coût | Risque d'acceptation | Commodité | Orientation officielle |
 |---|---|---|---|---|
 | DIY à domicile (smartphone + application de recadrage) | Gratuit ou presque | Plus élevé si vous manquez l'éclairage ou les spécifications de taille | Très élevée - immédiate | Autorisé dans la plupart des pays - vérifiez le site de votre autorité |
-| Pharmacie locale ou commerce | Des frais modestes | Faible - les professionnels formés vérifient | Moyen - service généralement le même jour | Largement utilisé et généralement fiable - vérifiez quand même les [exigences en matière de photos](https://www.gov.uk/photos-for-passports/photo-requirements) de votre autorité |
-| Bureau de poste (Royaume-Uni et autres) | Des frais modestes | Faible - pris en interne, vérifié | Moyen - nécessite une visite et un rendez-vous | [Service officiel du bureau de poste](https://www.postoffice.co.uk/passport-services) |
+| Pharmacie locale ou commerce | Des frais modestes | Faible - les professionnels formés vérifient | Moyen - service généralement le même jour | Largement utilisé et généralement fiable - vérifiez quand même les exigences en matière de photos de votre autorité |
+| Bureau de poste (Royaume-Uni et autres) | Des frais modestes | Faible - pris en interne, vérifié | Moyen - nécessite une visite et un rendez-vous | Service officiel du bureau de poste |
 | Services en ligne (par exemple Passport Photo Online) | Des frais modestes | Moyen - soumission numérique, retour fourni | Élevée - de chez soi, livraison numérique | Pas officiel mais largement utilisé - vérifiez si votre pays accepte les téléchargements pré-recadrés |
 | Studio de photographie professionnel | L'option la plus chère | Faible - éclairage et composition expert | Faible - nécessite un rendez-vous | Accepté partout - toujours un choix sûr |
 
@@ -112,6 +112,8 @@ Avant de prendre votre photo, assurez-vous que vous avez ce qui suit en place :
 - Un plan pour l'impression ou la soumission numérique en fonction des exigences de votre pays
 
 Quelques minutes passées à bien configurer maintenant vous évite d'avoir à soumettre à nouveau plus tard - ce qui signifie que votre demande ne sera pas retardée.
+
+**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
 
 ## Questions fréquemment posées
 

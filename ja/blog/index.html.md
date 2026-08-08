@@ -60,7 +60,7 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
-[ビザ・入国 ビザ対パスポート：違いは何か パスポートはあなたの身分を証明します。ビザは入国許可を与えます。それぞれが何をするか、ほとんどの旅行で両方が必要な理由、および目的地を確認する方法を説明します。 2026年4月22日読了時間 6分](https://traveldocumentvault.com/ja/blog/visa-vs-passport/)
+[ビザ・入国 ビザとパスポートの違いは何ですか？ パスポートは本人であることを証明し、ビザは相手国が与える入国の許可です。両者の違いと、どこに確認すればよいかを解説します。 2026年4月22日読了時間 6分](https://traveldocumentvault.com/ja/blog/visa-vs-passport/)
 
 ##
 

@@ -24,7 +24,7 @@ Ce qui suit explique comment cela se déroule en pratique : vos options limitée
 
 ## La règle absolue : pas de voyages internationaux avec un passeport expiré
 
-[Le Bureau des passeports de Sa Majesté est clair là-dessus](https://www.gov.uk/apply-renew-passport) : votre passeport doit être valide le jour de votre voyage, pas seulement à l'arrivée, pas seulement pour une partie du voyage, mais le jour où vous montez à bord de l'avion.
+Le Bureau des passeports de Sa Majesté est clair là-dessus : votre passeport doit être valide le jour de votre voyage, pas seulement à l'arrivée, pas seulement pour une partie du voyage, mais le jour où vous montez à bord de l'avion.
 
 Quand vous arrivez à l'enregistrement, l'agent exécute votre numéro de passeport dans son système et voit la date d'expiration. Si elle est dans le passé, il n'émettra pas de carte d'embarquement. Peu importe si vous rentirez chez vous le jour après son expiration. La même chose se produit au contrôle aux frontières dans votre destination : il voit l'expiration, il refuse l'entrée. La proximité de votre date d'arrivée actuelle n'a aucune importance.
 
@@ -42,9 +42,9 @@ Si vous envisagez un voyage domestique avec un passeport expiré, contactez votr
 
 ## Renouvellement d'urgence : la voie du service Premium
 
-Si votre voyage est imminent et votre passeport expiré, [le Bureau des passeports de Sa Majesté propose un service Premium conçu pour exactement cette situation](https://www.gov.uk/apply-renew-passport), garantissant un rendez-vous le même jour ou le lendemain selon la disponibilité. Les frais s'élèvent à £239,50 au total - cela couvre tout, plutôt que d'être un supplément des frais standard - et votre passeport renouvelé arrive en quelques jours plutôt que les semaines qu'un renouvellement standard peut prendre. Notez que le service Premium en ligne est uniquement pour les renouvellements, pas les premiers passeports d'adulte.
+Si votre voyage est imminent et votre passeport expiré, le Bureau des passeports de Sa Majesté propose un service Premium conçu pour exactement cette situation, garantissant un rendez-vous le même jour ou le lendemain selon la disponibilité. Les frais s'élèvent à £239,50 au total - cela couvre tout, plutôt que d'être un supplément des frais standard - et votre passeport renouvelé arrive en quelques jours plutôt que les semaines qu'un renouvellement standard peut prendre. Notez que le service Premium en ligne est uniquement pour les renouvellements, pas les premiers passeports d'adulte.
 
-C'est la voie officielle d'urgence pour les contraintes de voyage véritables, pas un contournement. Le service Premium existe parce que parfois les voyages ne peuvent pas attendre. Les conseils officiels sont actuellement [d'accorder environ 3 semaines pour un renouvellement standard](https://www.gov.uk/renew-adult-passport), et presque toutes les demandes sont traitées dans ce délai - mais pour les voyages qui ne peuvent vraiment pas attendre, l'option Premium élimine l'incertitude.
+C'est la voie officielle d'urgence pour les contraintes de voyage véritables, pas un contournement. Le service Premium existe parce que parfois les voyages ne peuvent pas attendre. Les conseils officiels sont actuellement d'accorder environ 3 semaines pour un renouvellement standard, et presque toutes les demandes sont traitées dans ce délai - mais pour les voyages qui ne peuvent vraiment pas attendre, l'option Premium élimine l'incertitude.
 
 Le problème est que vous devez disposer d'un créneau de rendez-vous disponible, qui se remplissent rapidement pendant les vacances d'été et les congés scolaires. Si vous découvrez que votre passeport est expiré un vendredi avant un voyage lundi, vous pouvez trouver aucun créneau Premium disponible, car la réservation se fait en ligne sur gov.uk avec disponibilité en direct. Quand votre date préférée ne montre aucun créneau, vous n'avez véritablement aucune autre option ce jour-là.
 
@@ -52,7 +52,7 @@ Vous aurez également besoin de votre ancien passeport pour postuler, indépenda
 
 ## Ce que les compagnies aériennes et le contrôle aux frontières vérifient réellement
 
-Les compagnies aériennes utilisent Timatic, un [système de l'IATA](https://www.iatatravelcentre.com) qui croise-référence votre numéro de passeport, nationalité et destination avec les exigences d'entrée, indiquant à l'agent de l'enregistrement instantanément si vous êtes autorisé à voyager quand il scanne votre passeport. Si votre passeport est expiré, Timatic le signale en rouge et l'agent ne peut pas ignorer cette décision, même si vous suppliez ou montriez une carte d'embarquement d'il y a des semaines.
+Les compagnies aériennes utilisent Timatic, un système de l'IATA qui croise-référence votre numéro de passeport, nationalité et destination avec les exigences d'entrée, indiquant à l'agent de l'enregistrement instantanément si vous êtes autorisé à voyager quand il scanne votre passeport. Si votre passeport est expiré, Timatic le signale en rouge et l'agent ne peut pas ignorer cette décision, même si vous suppliez ou montriez une carte d'embarquement d'il y a des semaines.
 
 Le contrôle aux frontières fait la même vérification à votre arrivée - parfois même en vérifiant deux fois, une fois en quittant le Royaume-Uni et à nouveau en entrant dans votre destination. Un passeport expiré sera détecté peu importe votre prudence.
 
@@ -83,6 +83,8 @@ Les voyageurs confondent souvent la date de validité propre de leur passeport a
 [De nombreux pays appliquent une règle des six mois exigeant que votre passeport reste valide pendant au moins six mois au-delà de votre date de départ prévue](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/), tandis que certains appliquent trois mois et d'autres un mois. Aucune de ces règles ne permet les voyages avec un passeport expiré, car elles fixent une norme plus stricte où le renouvellement doit se produire encore plus tôt que la date d'expiration propre du passeport.
 
 Ne supposez pas que vous pouvez voyager « parce que vous revenez avant son expiration ». Votre passeport doit être valide le jour où vous montez à bord de votre vol de départ, et s'il expire le jour après votre retour, vous ne pouvez toujours pas voyager. Les compagnies aériennes n'autorisent pas les voyages si votre passeport est expiré le jour du départ.
+
+**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
 
 ## Questions fréquemment posées
 

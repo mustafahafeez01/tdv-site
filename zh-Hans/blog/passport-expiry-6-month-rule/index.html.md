@@ -54,7 +54,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rul
 
 按国家列出的护照有效期要求会不通知地改变。双边协议可能会悄悄改变您特定护照的规则。这正是为什么在每次国际旅行前检查最新的官方来源不是偏执，而是好的做法。
 
-在任何国际旅行前，请始终使用[IATA Travel Centre](https://www.iatatravelcentre.com)验证您的具体要求，这是航空公司实时检查乘客文件所使用的系统。
+在任何国际旅行前，请始终使用IATA Travel Centre验证您的具体要求，这是航空公司实时检查乘客文件所使用的系统。
 
 **Travel Document Vault**会在您的护照有效期低于目的地要求的阈值时向您发送提醒，自动为每个家庭成员提供此服务。[在App Store上免费下载。](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
@@ -98,6 +98,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rul
 
 这些来源会告诉您官方要求以及是否适用于您的特定护照持有人。不要依赖旅行论坛或去年的博客文章，请查阅官方来源。
 
+**在依据本文行动之前：**本文说明的是一般规则，而一般规则也是任何博客所能提供的全部。要求会变化，并且因国籍、目的地和出行日期而异。预订前请向签发机构或本国的出行提示服务核实你的具体情况。我们会核对所发布的内容，但仍可能出错或过时。
+
 ## 常见问题
 
 ### 护照6个月规则到底是什么，为什么存在
@@ -106,7 +108,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rul
 
 ### 2026年哪些国家执行6个月护照有效期规则
 
-通常要求护照有效期为6个月的国家包括泰国、印度尼西亚、越南、菲律宾和印度，以及亚洲和非洲的许多其他国家。要求会改变，因此在出行前请始终通过官方来源进行核实。要获得最准确的最新要求，请检查[IATA Travel Centre](https://www.iatatravelcentre.com)，这是航空公司用于实时验证乘客文件的工具。
+通常要求护照有效期为6个月的国家包括泰国、印度尼西亚、越南、菲律宾和印度，以及亚洲和非洲的许多其他国家。要求会改变，因此在出行前请始终通过官方来源进行核实。要获得最准确的最新要求，请检查IATA Travel Centre，这是航空公司用于实时验证乘客文件的工具。
 
 ### 美国是否执行6个月护照有效期规则
 

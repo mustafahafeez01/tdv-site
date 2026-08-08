@@ -22,7 +22,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/digital-passport-copy-valid
 
 ### 酒店入住
 
-全球大多数酒店在入住时接受数字护照副本 - 手机上的 PDF、事先电子邮件发送或打印版本。如果您很晚办理入住或在酒店之间移动，不想整个旅程中携带实体护照，这特别有用。一些较小的酒店，特别是在数字基础设施欠发达的地区，仍然更喜欢原始护照。在欧洲的一些地方 - 西班牙、法国和意大利等 - 酒店必须向当局记录您的详细信息，通常会想看到实体护照才能进行此操作，尽管[数据保护指南说他们通常不应该保留副本](https://blogturismo.garrigues.com/en/information-technology/traveler-registration-is-it-legal-to-ask-for-a-photocopy-of-a-guests-id-card-or-passport-at-the-chek-in-desk-of-a-hotel)。请提前与您的住宿确认。
+全球大多数酒店在入住时接受数字护照副本 - 手机上的 PDF、事先电子邮件发送或打印版本。如果您很晚办理入住或在酒店之间移动，不想整个旅程中携带实体护照，这特别有用。一些较小的酒店，特别是在数字基础设施欠发达的地区，仍然更喜欢原始护照。在欧洲的一些地方 - 西班牙、法国和意大利等 - 酒店必须向当局记录您的详细信息，通常会想看到实体护照才能进行此操作，尽管数据保护指南说他们通常不应该保留副本。请提前与您的住宿确认。
 
 ### 机票预订和在线办理登机手续
 
@@ -72,6 +72,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/digital-passport-copy-valid
 **Travel Document Vault** 在设备上存储所有旅行证件的加密副本。在您的手机上进行 AES-256 加密，不需要帐户。可选的加密备份到您自己的 iCloud 或 Google Drive（专业版），使用仅您持有的恢复代码密封。[在 App Store 上可用。](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 如果您想知道云存储对护照副本是否安全，请查看我们关于[在 Google Photos 中存储护照](https://traveldocumentvault.com/zh-Hans/blog/is-it-safe-to-store-passport-in-google-photos/)的指南。它解释了为什么专用加密应用程序提供更强的保护。
+
+**在依据本文行动之前：**本文说明的是一般规则，而一般规则也是任何博客所能提供的全部。要求会变化，并且因国籍、目的地和出行日期而异。预订前请向签发机构或本国的出行提示服务核实你的具体情况。我们会核对所发布的内容，但仍可能出错或过时。
 
 ## 常见问题
 

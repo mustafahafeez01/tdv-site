@@ -38,10 +38,10 @@ Solicita una copia escrita con un número de caso. Pide una versión en inglés 
 
 Tu embajada o consulado es tu camino a casa. Contacta con ellos tan pronto como tengas la denuncia policial. Contactos de emergencia oficiales:
 
-- **Ciudadanos del Reino Unido:** [Asistencia consular de emergencia GOV.UK](https://www.gov.uk/contact-consulate-if-british-national-needs-help)
-- **Ciudadanos de Estados Unidos:** [travel.state.gov - pasaportes perdidos o robados](https://travel.state.gov/content/travel/en/international-travel/emergencies/lost-stolen-passports.html)
-- **Ciudadanos australianos:** [Smartraveller - pasaporte perdido o robado](https://www.smartraveller.gov.au/while-youre-away/passport-problems/lost-or-stolen-passport)
-- **Ciudadanos canadienses:** [Canada.ca - pasaporte perdido o robado en el extranjero](https://travel.gc.ca/assistance/emergency-info/lost-stolen-passport)
+- **Ciudadanos del Reino Unido:** Asistencia consular de emergencia GOV.UK
+- **Ciudadanos de Estados Unidos:** travel.state.gov - pasaportes perdidos o robados
+- **Ciudadanos australianos:** Smartraveller - pasaporte perdido o robado
+- **Ciudadanos canadienses:** Canada.ca - pasaporte perdido o robado en el extranjero
 
 Llama antes de visitar. Muchas embajadas requieren cita previa para servicios de pasaporte de emergencia y pueden decirte exactamente qué llevar - presentarse sin uno puede costarte medio día.
 
@@ -75,6 +75,8 @@ Si pierdes un pasaporte en Tailandia que contiene una visa válida de entrada m�
 ## Paso 7: Regresa a Casa y Reemplaza tu Pasaporte
 
 Una vez que tengas tu documento de viaje de emergencia, confirma los requisitos de salida con la inmigración local si es necesario, luego reserva de nuevo o confirma tu viaje a casa. Cuando regreses: solicita un pasaporte de reemplazo completo a través de tu autoridad de pasaportes oficial y configura una copia digital cifrada de todos tus documentos de viaje antes de tu próximo viaje.
+
+**Antes de fiarte de esto:** este artículo explica reglas generales, y las reglas generales son todo lo que puede ofrecer un blog. Los requisitos cambian y varían según la nacionalidad, el destino y la fecha del viaje. Consulta tu caso con la autoridad que emite el documento o con el servicio de información al viajero de tu gobierno antes de reservar. Revisamos lo que publicamos y aun así podemos equivocarnos o quedarnos desactualizados.
 
 ## Preguntas Frecuentes
 
