@@ -84,7 +84,7 @@ Les voyageurs confondent souvent la date de validité propre de leur passeport a
 
 Ne supposez pas que vous pouvez voyager « parce que vous revenez avant son expiration ». Votre passeport doit être valide le jour où vous montez à bord de votre vol de départ, et s'il expire le jour après votre retour, vous ne pouvez toujours pas voyager. Les compagnies aériennes n'autorisent pas les voyages si votre passeport est expiré le jour du départ.
 
-**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
+**Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
 ## Questions fréquemment posées
 

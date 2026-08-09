@@ -73,7 +73,7 @@ Reisepasskopien enthalten sensible Identitätsinformationen: Ihren vollständige
 
 Wenn Sie sich fragen, ob Cloud-Speicher sicher für Reisepasskopien ist, lesen Sie unseren Leitfaden zum [Speichern von Reisepässen in Google Fotos](https://traveldocumentvault.com/de/blog/is-it-safe-to-store-passport-in-google-photos/). Er erläutert, warum eine dedizierte verschlüsselte App einen stärkeren Schutz bietet.
 
-**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
+**Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
 ## Häufig gestellte Fragen
 

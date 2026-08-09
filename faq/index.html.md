@@ -26,7 +26,7 @@ What does Sentry crash reporting collect, and can I turn it off?
 
 Sentry is a crash reporting tool that helps us find and fix bugs. It is **disabled by default** and sends absolutely nothing when turned off. If you choose to enable it in Settings, it only sends technical crash diagnostics like your device type and what the app was doing when it crashed. It never sends your documents, names, passport numbers, or anything from your vault.
 
-What does the $9.99 Pro upgrade include?
+What does the Pro upgrade include?
 
 Pro is a **one-time purchase** that unlocks unlimited profiles, unlimited documents, combined PDF export, encrypted cloud backup to iCloud or Google Drive, and custom reminder timing. You pay once - no subscription, no recurring charge, and no trial that quietly starts billing you.
 
@@ -260,13 +260,13 @@ We **never upload** your photos to our servers. We do not have any. All processi
 
 What's the difference between Free and Pro?
 
-**Free** includes 1 profile and up to 5 documents with full functionality, including OCR scanning, expiry reminders, document sharing, PIN Lock, and Biometric Lock (Face ID / Touch ID). **Pro** ($9.99 one-time*) unlocks unlimited profiles, unlimited documents, combined PDF export, encrypted cloud backup, custom reminder timing, and multi-page capture for Airline Tickets and Other Documents.
+**Free** includes 1 profile and up to 5 documents with full functionality, including OCR scanning, expiry reminders, document sharing, PIN Lock, and Biometric Lock (Face ID / Touch ID). **Pro** (one-time purchase*) unlocks unlimited profiles, unlimited documents, combined PDF export, encrypted cloud backup, custom reminder timing, and multi-page capture for Airline Tickets and Other Documents.
 
 * See [Pricing Policy](https://traveldocumentvault.com/pricing-policy/#version-policy) for versioning details.
 
 Is Pro a subscription?
 
-**No.** Pro is a one-time purchase of $9.99. Pay once, all v1.x updates included, forever. No recurring charges, no subscription.
+**No.** Pro is a one-time purchase. Pay once, all v1.x updates included, forever. No recurring charges, no subscription.
 
 [About our version policy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -284,7 +284,7 @@ Learn more in our [Pricing Policy](https://traveldocumentvault.com/pricing-polic
 
 What does "all v1.x updates included" mean?
 
-Your $9.99 purchase covers every update within the current major version. That means all bug fixes, security patches, and new features released within the current version line. Your app keeps working and improving at no extra cost.
+Your purchase covers every update within the current major version. That means all bug fixes, security patches, and new features released within the current version line. Your app keeps working and improving at no extra cost.
 
 If a future major version (v2.0) is ever released with a significantly rebuilt feature set, that may be offered as a separate purchase. You would never be forced to upgrade. Your current version keeps working exactly as it does today. See our [full version policy](https://traveldocumentvault.com/pricing-policy/#version-policy) for details.
 

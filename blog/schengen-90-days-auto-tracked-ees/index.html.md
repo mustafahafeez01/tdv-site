@@ -1,6 +1,6 @@
-# Your 90-Day Schengen Window: Counting Days in the EES Era
+# EES Tracks Your Schengen 90 Days but Won't Show the Count
 
-> Europe's EES border system now records your Schengen days automatically. How the 90/180 rule works, what EES does not tell you, and how to stay ahead.
+> EES logs every Schengen entry and exit and flags overstays automatically, but no portal shows your remaining days. How to count your 90/180 window yourself.
 
 Source: https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/
 
@@ -60,7 +60,7 @@ One honesty note: no app can read your EES record, ours included. What a tracker
 
 The digital border is thorough, automatic and unsentimental, but staying inside the 90/180 rule was never about the border - it's about knowing your own dates before you book. Keep your trip history somewhere reliable, run the numbers before committing to travel, and treat the counting as part of planning rather than something to reconstruct at the gate. EES will do the enforcing. The planning is still yours, and it's the cheaper half to get right.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 

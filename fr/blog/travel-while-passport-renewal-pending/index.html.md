@@ -78,7 +78,7 @@ La réponse simple est de renouveler votre passeport bien avant d'en avoir besoi
 
 La raison pour laquelle les gens se retrouvent dans cette situation n'est pas l'ignorance des règles. Les passeports expirent silencieusement sans rappel automatique, donc les gens ont tendance à se souvenir seulement que leur passeport est valide, pas quand il expire. Fixer un rappel 12 mois avant votre date d'expiration vous donne le temps de renouveler à votre rythme, avec un traitement standard, sans pression.
 
-**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
+**Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
 ## Foire aux questions
 

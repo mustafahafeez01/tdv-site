@@ -53,7 +53,7 @@ TripCase bundled several different jobs into one free app. No current app does a
 | Flight alerts | Real-time delays, gate changes, cancellations | Flighty | Free tier; paid subscription (pricing varies) |
 | Email-to-itinerary parsing | Forward a confirmation, the trip builds itself | TripIt or Tripsy | TripIt has a free tier; Pro is about $49/yr |
 | Trip timeline | One chronological view per trip | TripIt or Tripsy | Included with the above |
-| Travel document storage | The Document Vault: passports, visas, boarding passes | Travel Document Vault | Free to start; $9.99 one-time |
+| Travel document storage | The Document Vault: passports, visas, boarding passes | Travel Document Vault | One-time purchase, no subscription |
 | Trip sharing | Followers saw your live itinerary | TripIt sharing, or a shared folder | Free |
 
 ![Hand-drawn map of TripCase's four jobs after its 1 April 2025 shutdown: flight alerts to Flighty, itinerary to TripIt, documents to Travel Document Vault, trip sharing to a shared folder](https://traveldocumentvault.com/blog/tripcase-alternative/tripcase-timeline-alternatives.jpg) The replacement map at a glance - four jobs, four tools, each doing one thing well.
@@ -76,7 +76,7 @@ Start with a simple audit: where does each scan of your passport, each visa PDF,
 
 TripCase is gone, and its features are scattered across other apps now. But there's one lesson worth taking from it: your travel documents shouldn't die with someone else's server.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 

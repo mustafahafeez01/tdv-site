@@ -193,7 +193,7 @@ Bester Wert
 
 ### Pro
 
-$9.99
+Einmalkauf
 
 Für Ihre ganze Familie. Bezahlen Sie einmal. Alle v1.x-Updates für immer enthalten.
 
@@ -234,7 +234,7 @@ Für Familien
 
 Entsperren Sie den vollen Tresor für Ihre Familie
 
-$9.99 einmalig Für Ihre ganze Familie. Bezahlen Sie einmal. Alle v1.x-Updates für immer enthalten.
+Einmalkauf einmalig Für Ihre ganze Familie. Bezahlen Sie einmal. Alle v1.x-Updates für immer enthalten.
 
 [Über unsere Versionierungsrichtlinie →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

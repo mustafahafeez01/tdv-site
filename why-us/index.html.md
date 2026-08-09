@@ -77,7 +77,7 @@ These are all reasonable choices. Each one works - up to a point.
 
 **Works:** High security and offline access.
 
-**Falls short:** They treat a passport like a grocery receipt and lack travel-specific logic. We built this specifically for travellers, offering a generous 5-document free tier and a straightforward $9.99 one-time price without any recurring subscriptions.
+**Falls short:** They treat a passport like a grocery receipt and lack travel-specific logic. We built this specifically for travellers, offering a generous 5-document free tier and a straightforward one-time price without any recurring subscriptions.
 
 ### Camera Roll / Photos
 
@@ -121,7 +121,7 @@ Every alternative does one or two things well. Only one does all of them.
 | Travel-specific doc types | ✓Passport, visa, ID... | ~Boarding passes only | ✗ | ✗ |
 | Works offline | ✓ | ✓ | ~Needs prior cache | ✓ |
 | No account required | ✓ | ~Apple ID needed | ✗ | ✗ |
-| No subscription | ✓$9.99 one-time | ✓ | ~Free but ad-funded | ✗$36/yr+ |
+| No subscription | ✓one-time | ✓ | ~Free but ad-funded | ✗$36/yr+ |
 | Readiness checklist (per trip) | ✓Yes | ✗ | ✗ | ✗ |
 | Custom country day-limits (days-in / days-away) | ✓ | ✗ | ✗ | ✗ |
 | Encrypted cloud sync (your own cloud) | ✓Your iCloud / GDrive | ~Apple ID only | ~Google Drive/Dropbox only | ~Their servers |
@@ -168,7 +168,7 @@ Your documents are always on your device, always accessible. No internet require
 
 **Start free.** Store up to 5 documents with full reminders and encryption - far more than most free tiers. Upgrade anytime for unlimited storage.
 
-While competitors charge $14.99 per year or $39.99 for a lifetime license, Travel Document Vault is a **$9.99 one-time purchase.** Unlimited everything. No recurring charges.
+While competitors charge $14.99 per year or $39.99 for a lifetime license, Travel Document Vault is a **one-time purchase.** Unlimited everything. No recurring charges.
 
 [About our version policy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -303,7 +303,7 @@ This app is designed for practical realities, not generic file storage.
 
 The questions we hear most often.
 
-What happens if I lose my phone? Your documents live on your device, encrypted with a key that never leaves it. A regular phone backup reinstalls the app but cannot restore your documents. To move to a new phone, turn on Your Own Cloud backup (Pro) for one-tap restore, or use the free Vault Export. Does it work without internet? Completely. The app stores everything on your device and never needs an internet connection. OCR processing, reminders, and document viewing all work offline. Is my data really safe? Your documents are strongly encrypted on your device and protected by your phone's built-in security chip. We have no servers and no accounts. If you turn on optional Pro cloud backup, your encrypted vault goes to your own iCloud or Google Drive, sealed with a recovery code only you hold. The design means I cannot read your data, and neither can Apple or Google - you can check the privacy model yourself on the [Privacy Verification page](https://traveldocumentvault.com/privacy-verification/). PIN lock and biometric lock (Face ID/Touch ID) are both free. Is it really a one-time purchase? Yes. Pro is $9.99 once.* No subscription, no recurring charges, no "your trial is ending" emails. The free tier is genuinely free - 1 profile, 5 documents, all features including OCR and reminders.
+What happens if I lose my phone? Your documents live on your device, encrypted with a key that never leaves it. A regular phone backup reinstalls the app but cannot restore your documents. To move to a new phone, turn on Your Own Cloud backup (Pro) for one-tap restore, or use the free Vault Export. Does it work without internet? Completely. The app stores everything on your device and never needs an internet connection. OCR processing, reminders, and document viewing all work offline. Is my data really safe? Your documents are strongly encrypted on your device and protected by your phone's built-in security chip. We have no servers and no accounts. If you turn on optional Pro cloud backup, your encrypted vault goes to your own iCloud or Google Drive, sealed with a recovery code only you hold. The design means I cannot read your data, and neither can Apple or Google - you can check the privacy model yourself on the [Privacy Verification page](https://traveldocumentvault.com/privacy-verification/). PIN lock and biometric lock (Face ID/Touch ID) are both free. Is it really a one-time purchase? Yes. Pro is a one-time purchase.* No subscription, no recurring charges, no "your trial is ending" emails. The free tier is genuinely free - 1 profile, 5 documents, all features including OCR and reminders.
 
 * For v1.x. See [Pricing Policy](https://traveldocumentvault.com/pricing-policy/#version-policy).
 

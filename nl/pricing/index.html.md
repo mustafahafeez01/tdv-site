@@ -1,6 +1,6 @@
 # Travel Document Vault Prijzen - Eenmalig, Geen Abonnement
 
-> Travel Document Vault kost eenmalig $9.99. Geen abonnement, geen verborgen kosten. Eénmalige aankoop voor uw hele gezin. Gratis laag beschikbaar.
+> Travel Document Vault kost eenmalig a one-time purchase. Geen abonnement, geen verborgen kosten. Eénmalige aankoop voor uw hele gezin. Gratis laag beschikbaar.
 
 Source: https://traveldocumentvault.com/nl/pricing/
 
@@ -31,7 +31,7 @@ Beste waarde
 
 ### Pro
 
-$9.99
+One-time
 
 Voor uw hele gezin. Eenmalig betalen. Alle v1.x-updates inbegrepen, voor altijd.
 
@@ -72,7 +72,7 @@ Voor gezinnen
 
 Ontgrendel de volledige kluis voor uw gezin
 
-$9.99 eenmalig Voor uw hele gezin. Eenmalig betalen. Alle v1.x-updates inbegrepen, voor altijd.
+One-time eenmalig Voor uw hele gezin. Eenmalig betalen. Alle v1.x-updates inbegrepen, voor altijd.
 
 [Over ons versiebeleid →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -114,13 +114,13 @@ Eénmalige aankoop op uw account. Eén gezin. Werkt op al uw apparaten.
 
 ## Eénmalige aankoop, heel gezin
 
-Wanneer u Pro koopt, betaalt u niet per persoon of per apparaat. U maakt één kluis met onbeperkte profielen - één voor u, één voor uw partner, één voor elk kind. Alle documenten van iedereen. Eénmalige $9.99-belasting.
+Wanneer u Pro koopt, betaalt u niet per persoon of per apparaat. U maakt één kluis met onbeperkte profielen - één voor u, één voor uw partner, één voor elk kind. Alle documenten van iedereen. Eénmalige a one-time purchase-belasting.
 
 Geen abonnementen. Geen seat-gebaseerde prijzen. Geen kosten per gezinslid.
 
 ## Vragen over prijzen
 
-Hoeveel kost Travel Document Vault? Travel Document Vault biedt een gratis laag voor altijd - 1 profiel met maximaal 5 documenten, inclusief alle kernfuncties zoals verloopherinneringen, documentdeling en codering. Pro kost eenmalig $9.99 en ontgrendelt onbeperkte profielen, onbeperkte documenten, versleutelde cloudback-up, reisplanner en aantal-dagen-buiten-tracker. Is Travel Document Vault een abonnement? Nee. Travel Document Vault is een eenmalige aankoop. U betaalt eenmalig $9.99 voor Pro en u bent er voor altijd eigenaar van. Geen terugkerende kosten, geen abonnement opzeggen nodig en geen proefperiodes die stilletjes beginnen te factureren. De gratis laag is ook voor altijd gratis. Wat krijg ik in gratis versus Pro? Gratis: 1 profiel, maximaal 5 documenten, verloopherinneringen, documentdeling, PIN- en biometrische vergrendeling, apparaatversleuteling, offline toegang. Pro voegt toe: onbeperkte profielen voor uw gezin, onbeperkte documenten, reisplanner met verkeerslicht voor gezinsgereedheid, versleutelde cloudback-up naar uw eigen iCloud of Google Drive, aantal-dagen-buiten-tracker voor visa- en belastinglimieten en aangepaste herinneringstiming. Betaal ik per gezinslid of per apparaat? Nee. Pro is een eenmalige aankoop voor uw account. Eenmaal gekocht, kunt u onbeperkte gezinsleden (profielen) toevoegen en de app op meerdere apparaten gebruiken onder dezelfde App Store- of Google Play-account. Eénmalige aankoop. Heel gezin. Wat betekent 'alle v1.x-updates inbegrepen'? Uw aankoop van $9.99 dekt alle updates binnen de huidige grote versie (v1.x), inclusief bugfixes, beveiligingspatches en nieuwe functies. Dit geldt zolang u de app gebruikt. Als we ooit v2.0 uitbrengen met aanzienlijke architectuurveranderingen, krijgen early adopters preferentiële upgradeprijzen en de mogelijkheid om voor altijd op v1.x Pro te blijven. Zie ons volledige [versiebeleid](https://traveldocumentvault.com/pricing-policy/#version-policy) voor meer informatie.
+Hoeveel kost Travel Document Vault? Travel Document Vault biedt een gratis laag voor altijd - 1 profiel met maximaal 5 documenten, inclusief alle kernfuncties zoals verloopherinneringen, documentdeling en codering. Pro kost eenmalig a one-time purchaseen ontgrendelt onbeperkte profielen, onbeperkte documenten, versleutelde cloudback-up, reisplanner en aantal-dagen-buiten-tracker. Is Travel Document Vault een abonnement? Nee. Travel Document Vault is een eenmalige aankoop. U betaalt eenmalig a one-time purchasevoor Pro en u bent er voor altijd eigenaar van. Geen terugkerende kosten, geen abonnement opzeggen nodig en geen proefperiodes die stilletjes beginnen te factureren. De gratis laag is ook voor altijd gratis. Wat krijg ik in gratis versus Pro? Gratis: 1 profiel, maximaal 5 documenten, verloopherinneringen, documentdeling, PIN- en biometrische vergrendeling, apparaatversleuteling, offline toegang. Pro voegt toe: onbeperkte profielen voor uw gezin, onbeperkte documenten, reisplanner met verkeerslicht voor gezinsgereedheid, versleutelde cloudback-up naar uw eigen iCloud of Google Drive, aantal-dagen-buiten-tracker voor visa- en belastinglimieten en aangepaste herinneringstiming. Betaal ik per gezinslid of per apparaat? Nee. Pro is een eenmalige aankoop voor uw account. Eenmaal gekocht, kunt u onbeperkte gezinsleden (profielen) toevoegen en de app op meerdere apparaten gebruiken onder dezelfde App Store- of Google Play-account. Eénmalige aankoop. Heel gezin. Wat betekent 'alle v1.x-updates inbegrepen'? Uw aankoop van a one-time purchasedekt alle updates binnen de huidige grote versie (v1.x), inclusief bugfixes, beveiligingspatches en nieuwe functies. Dit geldt zolang u de app gebruikt. Als we ooit v2.0 uitbrengen met aanzienlijke architectuurveranderingen, krijgen early adopters preferentiële upgradeprijzen en de mogelijkheid om voor altijd op v1.x Pro te blijven. Zie ons volledige [versiebeleid](https://traveldocumentvault.com/pricing-policy/#version-policy) voor meer informatie.
 
 ## Klaar om niet meer te tobben?
 

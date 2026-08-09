@@ -84,7 +84,7 @@ Os viajantes frequentemente confundem a data de validade do seu próprio passapo
 
 Não assuma que pode viajar "porque volta antes de expirar" - o seu passaporte deve ser válido no dia em que embarca no seu voo de partida e se expira o dia depois de voltar ainda assim não pode viajar. As companhias aéreas não permitem viagem se o seu passaporte está expirado no dia da partida.
 
-**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
+**Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
 ## Perguntas Frequentes
 

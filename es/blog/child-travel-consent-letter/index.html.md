@@ -118,11 +118,11 @@ En los días antes de la salida, repasa esta lista de verificación:
 - Lleva una copia impresa protegida en tu carpeta de documentos de viaje.
 - Guarda una copia digital cifrada como respaldo.
 - Si renuevan el pasaporte antes de viajar, obtén una carta nueva con el número nuevo.
-- No lamines la carta legalizada — la laminación puede arruinar la certificación.
+- No lamines la carta legalizada - la laminación puede arruinar la certificación.
 
 Una carta de consentimiento bien preparada es la salvaguarda de tu familia contra la disrupción del viaje. El tiempo dedicado ahora se recupera en cruces fronterizos suaves y tranquilidad mental.
 
-**Antes de fiarte de esto:** este artículo explica reglas generales, y las reglas generales son todo lo que puede ofrecer un blog. Los requisitos cambian y varían según la nacionalidad, el destino y la fecha del viaje. Consulta tu caso con la autoridad que emite el documento o con el servicio de información al viajero de tu gobierno antes de reservar. Revisamos lo que publicamos y aun así podemos equivocarnos o quedarnos desactualizados.
+**Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
 ## Preguntas Frecuentes
 

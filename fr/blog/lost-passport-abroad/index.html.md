@@ -76,7 +76,7 @@ Si vous perdez un passeport en Thaïlande qui contient un visa valide à entrée
 
 Une fois que vous avez votre document de voyage d'urgence, confirmez les exigences de sortie auprès de l'immigration locale si nécessaire, puis réservez ou confirmez votre voyage vers la maison. Une fois de retour - demandez un passeport de remplacement complet par l'intermédiaire de votre autorité de passeport officielle et établissez une sauvegarde numérique chiffrée de tous vos documents de voyage avant votre prochain voyage.
 
-**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
+**Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
 ## Questions fréquemment posées
 

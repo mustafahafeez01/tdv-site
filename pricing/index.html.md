@@ -1,6 +1,6 @@
 # Travel Document Vault Pricing - One-Time, No Subscription
 
-> Travel Document Vault costs $9.99 once. No subscription, no hidden fees. One purchase covers your whole family. Free tier available.
+> Travel Document Vault is a one-time purchase. No subscription, no hidden fees. One purchase covers your whole family. Free tier available.
 
 Source: https://traveldocumentvault.com/pricing/
 
@@ -31,7 +31,7 @@ Best Value
 
 ### Pro
 
-$9.99
+One-time
 
 For your whole family. Pay once. All v1.x updates included, forever.
 
@@ -72,7 +72,7 @@ For families
 
 Unlock the full vault for your family
 
-$9.99 one-time For your whole family. Pay once. All v1.x updates included, forever.
+One-time purchase one-time For your whole family. Pay once. All v1.x updates included, forever.
 
 [About our version policy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -114,13 +114,13 @@ One purchase on your account. One family. Works on all your devices.
 
 ## One Purchase, Whole Family
 
-When you buy Pro, you're not paying per person or per device. You create one vault with unlimited profiles - one for you, one for your partner, one for each child. Everyone's documents. One $9.99 charge.
+When you buy Pro, you're not paying per person or per device. You create one vault with unlimited profiles - one for you, one for your partner, one for each child. Everyone's documents. One charge.
 
 No subscriptions. No seat-based pricing. No per-family-member charges.
 
 ## Pricing Questions
 
-How much does Travel Document Vault cost? Travel Document Vault offers a free tier forever - 1 profile with up to 5 documents, including all core features like expiry reminders, document sharing, and encryption. Pro is $9.99 one-time and unlocks unlimited profiles, unlimited documents, encrypted cloud backup, trip planner, and days-abroad tracker. Is Travel Document Vault a subscription? No. Travel Document Vault is a one-time purchase. You pay $9.99 once for Pro and own it forever. No recurring charges, no subscription cancellation needed, and no trials that quietly start billing you. The free tier is also free forever. What do I get in free versus Pro? Free: 1 profile, up to 5 documents, expiry reminders, document sharing, PIN and biometric lock, on-device encryption, offline access. Pro adds: unlimited profiles for your family, unlimited documents, trip planner with family readiness traffic light, encrypted cloud backup to your own iCloud or Google Drive, days-abroad tracker for visa and tax limits, and custom reminder timing. Do I pay per family member or per device? No. Pro is a one-time purchase for your account. Once purchased, you can add unlimited family members (profiles) and use the app on multiple devices under the same App Store or Google Play account. One purchase. Whole family. What does 'all v1.x updates included' mean? Your $9.99 purchase covers every update within the current major version (v1.x), including bug fixes, security patches, and new features. This applies for as long as you use the app. If we ever release v2.0 with substantial architectural changes, early adopters get preferential upgrade pricing and the option to stay on v1.x Pro forever. See our full [version policy](https://traveldocumentvault.com/pricing-policy/#version-policy) for details.
+How much does Travel Document Vault cost? Travel Document Vault offers a free tier forever - 1 profile with up to 5 documents, including all core features like expiry reminders, document sharing, and encryption. Pro is a one-time purchase and unlocks unlimited profiles, unlimited documents, encrypted cloud backup, trip planner, and days-abroad tracker. Is Travel Document Vault a subscription? No. Travel Document Vault is a one-time purchase. You pay once for Pro and own it forever. No recurring charges, no subscription cancellation needed, and no trials that quietly start billing you. The free tier is also free forever. What do I get in free versus Pro? Free: 1 profile, up to 5 documents, expiry reminders, document sharing, PIN and biometric lock, on-device encryption, offline access. Pro adds: unlimited profiles for your family, unlimited documents, trip planner with family readiness traffic light, encrypted cloud backup to your own iCloud or Google Drive, days-abroad tracker for visa and tax limits, and custom reminder timing. Do I pay per family member or per device? No. Pro is a one-time purchase for your account. Once purchased, you can add unlimited family members (profiles) and use the app on multiple devices under the same App Store or Google Play account. One purchase. Whole family. What does 'all v1.x updates included' mean? Your purchase covers every update within the current major version (v1.x), including bug fixes, security patches, and new features. This applies for as long as you use the app. If we ever release v2.0 with substantial architectural changes, early adopters get preferential upgrade pricing and the option to stay on v1.x Pro forever. See our full [version policy](https://traveldocumentvault.com/pricing-policy/#version-policy) for details.
 
 ## Ready to Stop Worrying?
 

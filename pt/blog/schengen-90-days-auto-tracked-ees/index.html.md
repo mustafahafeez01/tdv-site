@@ -58,7 +58,7 @@ Uma nota de honestidade: nenhuma aplicação pode ler o seu registo EES, a nossa
 
 A fronteira digital é completa, automática e sem sentimentalismos, mas manter-se dentro da regra 90/180 nunca foi sobre a fronteira - é sobre conhecer as suas próprias datas antes de reservar. Mantenha o histórico da sua viagem num lugar fiável, faça as contas antes de se comprometer a viajar, e trate a contagem como parte do planeamento em vez de algo a reconstruir no balcão. O EES vai fazer a aplicação. O planeamento continua seu, e é a metade mais barata a acertar.
 
-**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
+**Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
 ## Perguntas Frequentes
 

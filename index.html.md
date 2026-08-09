@@ -1,6 +1,6 @@
-# Travel Document Vault | One Less Thing to Worry About
+# Travel Document Vault - Passport & Visa Expiry Reminders
 
-> Store your family's passports, visas, and IDs on your phone. Get expiry reminders months ahead. Offline access, encrypted backup, no accounts, no servers.
+> Keep the whole family's passports, visas and IDs on your phone, encrypted and offline. Expiry reminders months ahead. One-time purchase, no subscription.
 
 Source: https://traveldocumentvault.com/
 
@@ -193,7 +193,7 @@ Best Value
 
 ### Pro
 
-$9.99
+One-time
 
 For your whole family. Pay once. All v1.x updates included, forever.
 
@@ -234,7 +234,7 @@ For families
 
 Unlock the full vault for your family
 
-$9.99 one-time For your whole family. Pay once. All v1.x updates included, forever.
+One-time purchase no subscription For your whole family. Pay once. All v1.x updates included, forever.
 
 [About our version policy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

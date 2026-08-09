@@ -101,7 +101,7 @@ Documentos físicos ajudam até um ladrão levar a sua mala - e geralmente leva 
 
 Quando a sua embaixada precisa emitir um documento de viagem de emergência, uma cópia de segurança segura dá-lhe o seu número de passaporte, data de emissão, local de emissão e data de expiração instantaneamente, sem acesso a internet. Para mais informações sobre as opções disponíveis, veja a nossa visão geral de [como guardar cópias de passaporte com segurança](https://traveldocumentvault.com/pt/blog/is-it-safe-to-store-passport-in-google-photos/) e as desvantagens entre diferentes abordagens.
 
-**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
+**Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
 ## Perguntas Frequentes
 

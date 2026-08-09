@@ -192,7 +192,7 @@ Melhor Valor
 
 ### Pro
 
-$9.99
+Compra única
 
 Para toda a sua família. Pague uma vez. Todas as atualizações v1.x incluídas, para sempre.
 
@@ -228,7 +228,7 @@ Para famílias
 
 Desbloqueie o cofre completo para a sua família
 
-$9.99 uma vez Para toda a sua família. Pague uma vez. Todas as atualizações v1.x incluídas, para sempre.
+Compra única uma vez Para toda a sua família. Pague uma vez. Todas as atualizações v1.x incluídas, para sempre.
 
 [Sobre a nossa política de versão →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

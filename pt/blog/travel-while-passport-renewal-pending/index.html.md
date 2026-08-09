@@ -78,7 +78,7 @@ A resposta simples é renovar o seu passaporte bem antes de o precisar para viag
 
 A razão pela qual as pessoas acabam nesta situação não é ignorância das regras. Os passaportes expiram silenciosamente sem lembrança automática, portanto as pessoas tendem a lembrar apenas que o seu passaporte é válido, não quando expira. Definir um lembrete 12 meses antes da sua data de expiração dá-lhe tempo para renovar ao seu próprio ritmo, no processamento padrão, sem pressão.
 
-**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
+**Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
 ## Perguntas Frequentes
 

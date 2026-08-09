@@ -113,7 +113,7 @@ Antes de tirar a sua foto, certifique-se de que tem o seguinte em lugar:
 
 Alguns minutos gastos a configurar adequadamente agora poupa-o de reenviar mais tarde - o que significa que a sua candidatura não fica atrasada.
 
-**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
+**Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
 ## Perguntas Frequentes
 

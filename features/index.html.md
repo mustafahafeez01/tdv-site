@@ -1,6 +1,6 @@
-# Features - Scan, Track and Protect Your Documents
+# Travel Document Vault Features: Reminders, OCR, Offline
 
-> OCR scanning, expiry reminders, trip planner, family profiles, country day-limit tracker, encrypted backup. No accounts, no servers.
+> Scan a passport with OCR, get expiry reminders months ahead, add a profile for each family member, track visa day limits. Works offline, no account needed.
 
 Source: https://traveldocumentvault.com/features/
 

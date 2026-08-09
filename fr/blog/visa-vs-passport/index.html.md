@@ -101,7 +101,7 @@ Cependant, les voyages sans visa ont des limites. Ils s'appliquent généralemen
 
 L'accès sans visa dépend également entièrement de votre nationalité. Deux personnes voyageant ensemble peuvent avoir des exigences de visa différentes selon leurs passeports. L'une peut visiter sans visa tandis que l'autre doit demander un visa. C'est pourquoi vérifier votre nationalité spécifique est essentiel lors de la recherche des exigences.
 
-**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
+**Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
 ## Questions fréquemment posées
 

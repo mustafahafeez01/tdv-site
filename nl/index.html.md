@@ -193,7 +193,7 @@ Beste Waarde
 
 ### Pro
 
-$9.99
+Eenmalig
 
 Voor uw hele gezin. Eenmalig betalen. Alle v1.x-updates inbegrepen, voor altijd.
 
@@ -234,7 +234,7 @@ Voor gezinnen
 
 Ontgrendel de volledige kluis voor uw gezin
 
-$9.99 eenmalig Voor uw hele gezin. Eenmalig betalen. Alle v1.x-updates inbegrepen, voor altijd.
+Eenmalig eenmalig Voor uw hele gezin. Eenmalig betalen. Alle v1.x-updates inbegrepen, voor altijd.
 
 [Over ons versiebeleid →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

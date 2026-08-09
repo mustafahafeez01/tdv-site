@@ -102,7 +102,7 @@ L'approvazione di ETIAS non sostituisce il tuo passaporto, l'assicurazione di vi
 
 Gli ufficiali di frontiera possono comunque richiedere uno qualsiasi di questi documenti all'arrivo, anche con un'ETIAS valida, poiché ETIAS accelera semplicemente il processo di autorizzazione piuttosto che esentarti dall'ispezione di frontiera standard e dai requisiti di documentazione.
 
-**Prima di farci affidamento:** questo articolo spiega regole generali, e le regole generali sono tutto ciò che un blog può offrire. I requisiti cambiano e variano in base a cittadinanza, destinazione e data del viaggio. Verifica il tuo caso con l'autorità che rilascia il documento o con il servizio informazioni viaggi del tuo governo prima di prenotare. Controlliamo quello che pubblichiamo e possiamo comunque sbagliare o essere superati.
+**Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
 ## Domande frequenti
 

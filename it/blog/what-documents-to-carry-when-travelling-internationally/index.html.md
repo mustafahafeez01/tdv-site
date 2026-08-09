@@ -101,7 +101,7 @@ I documenti fisici aiutano fino a quando un ladro non prende la borsa - e di sol
 
 Quando l'ambasciata ha bisogno di emettere un documento di viaggio di emergenza, un backup sicuro fornisce il numero del passaporto, la data di emissione, il luogo di emissione e la data di scadenza istantaneamente, senza accesso a internet. Per ulteriori informazioni sulle opzioni disponibili, vedere la nostra panoramica su [come archiviare le copie del passaporto in modo sicuro](https://traveldocumentvault.com/it/blog/is-it-safe-to-store-passport-in-google-photos/) e i compromessi tra diversi approcci.
 
-**Prima di farci affidamento:** questo articolo spiega regole generali, e le regole generali sono tutto ciò che un blog può offrire. I requisiti cambiano e variano in base a cittadinanza, destinazione e data del viaggio. Verifica il tuo caso con l'autorità che rilascia il documento o con il servizio informazioni viaggi del tuo governo prima di prenotare. Controlliamo quello che pubblichiamo e possiamo comunque sbagliare o essere superati.
+**Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
 ## Domande Frequenti
 

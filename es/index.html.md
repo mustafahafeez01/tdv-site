@@ -193,7 +193,7 @@ Mejor Valor
 
 ### Pro
 
-$9.99
+Pago único
 
 Para toda tu familia. Paga una sola vez. Todas las actualizaciones v1.x incluidas, para siempre.
 
@@ -233,7 +233,7 @@ Para familias
 
 Desbloquea la bóveda completa para tu familia
 
-$9.99 pago único Para toda tu familia. Paga una sola vez. Todas las actualizaciones v1.x incluidas, para siempre.
+Pago único pago único Para toda tu familia. Paga una sola vez. Todas las actualizaciones v1.x incluidas, para siempre.
 
 [Sobre nuestra política de versiones →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

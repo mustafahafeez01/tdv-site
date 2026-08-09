@@ -105,7 +105,7 @@ Namun, perjalanan bebas visa memiliki batasan. Biasanya hanya berlaku untuk wisa
 
 Akses bebas visa juga sepenuhnya bergantung pada kewarganegaraan Anda. Dua orang yang bepergian bersama bisa memiliki persyaratan visa yang berbeda berdasarkan paspor masing-masing. Salah satu mungkin bisa berkunjung tanpa visa, sementara yang lain harus mengajukan visa. Inilah sebabnya memeriksa kewarganegaraan spesifik Anda sangat penting saat meneliti persyaratan.
 
-**Sebelum Anda mengandalkan ini:** artikel ini menjelaskan aturan umum, dan itulah batas yang bisa ditawarkan blog mana pun. Persyaratan bisa berubah, dan berbeda-beda menurut kewarganegaraan, negara tujuan, dan tanggal perjalanan. Periksa kasus Anda sendiri dengan otoritas penerbit atau layanan nasihat perjalanan pemerintah Anda sebelum memesan. Kami memeriksa apa yang kami terbitkan, dan kami tetap bisa saja keliru atau ketinggalan informasi.
+**Sebelum Anda mengandalkan ini:** ini blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
 ## Pertanyaan yang Sering Diajukan
 

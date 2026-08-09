@@ -193,7 +193,7 @@ Bäst värde
 
 ### Pro
 
-$9.99
+Engångsköp
 
 För hela din familj. Betala en gång. Alla v1.x-uppdateringar ingår för alltid.
 
@@ -230,7 +230,7 @@ För familjer
 
 Lås upp hela valvet för din familj
 
-$9.99 engångs För hela din familj. Betala en gång. Alla v1.x-uppdateringar ingår för alltid.
+Engångsköp engångs För hela din familj. Betala en gång. Alla v1.x-uppdateringar ingår för alltid.
 
 [Om vår versionspolicy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

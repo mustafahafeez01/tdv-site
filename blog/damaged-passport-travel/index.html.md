@@ -83,6 +83,8 @@ This is especially valuable if you are abroad when your passport is damaged and 
 
 Store your digital copies somewhere encrypted and offline - not Google Photos or iCloud shared with others. Travel Document Vault is built for exactly this use case: passport photos encrypted on your device only, accessible instantly if something goes wrong.
 
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
 ## Frequently Asked Questions
 
 ### What counts as a damaged passport?

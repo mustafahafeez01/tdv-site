@@ -73,7 +73,7 @@ As cópias de passaporte contêm informações sensíveis de identidade: o seu n
 
 Se está a questionar se o armazenamento em nuvem é seguro para cópias de passaporte, consulte o nosso guia sobre [armazenar passaportes no Google Photos](https://traveldocumentvault.com/pt/blog/is-it-safe-to-store-passport-in-google-photos/). Explica por que uma aplicação encriptada dedicada oferece proteção mais forte.
 
-**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
+**Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
 ## Perguntas Frequentes
 

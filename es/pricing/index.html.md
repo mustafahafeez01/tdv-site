@@ -1,6 +1,6 @@
 # Precios Travel Document Vault - Pago Único, Sin Suscripción
 
-> Travel Document Vault cuesta $9.99 una sola vez. Sin suscripción, sin cargos ocultos. Una compra para toda la familia. Nivel gratuito disponible.
+> Travel Document Vault cuesta a one-time purchaseuna sola vez. Sin suscripción, sin cargos ocultos. Una compra para toda la familia. Nivel gratuito disponible.
 
 Source: https://traveldocumentvault.com/es/pricing/
 
@@ -31,7 +31,7 @@ Mejor Valor
 
 ### Pro
 
-$9.99
+One-time
 
 Para toda tu familia. Paga una sola vez. Todas las actualizaciones v1.x incluidas, para siempre.
 
@@ -72,7 +72,7 @@ Para familias
 
 Desbloquea la bóveda completa para tu familia
 
-$9.99 una sola vez Para toda tu familia. Paga una sola vez. Todas las actualizaciones v1.x incluidas, para siempre.
+One-time una sola vez Para toda tu familia. Paga una sola vez. Todas las actualizaciones v1.x incluidas, para siempre.
 
 [Sobre nuestra política de versiones →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -114,13 +114,13 @@ Una compra en tu cuenta. Una familia. Funciona en todos tus dispositivos.
 
 ## Una Compra, Familia Completa
 
-Cuando compras Pro, no estás pagando por persona o por dispositivo. Creas una bóveda con perfiles ilimitados: uno para ti, uno para tu pareja, uno para cada hijo. Documentos de todos. Un cargo de $9.99.
+Cuando compras Pro, no estás pagando por persona o por dispositivo. Creas una bóveda con perfiles ilimitados: uno para ti, uno para tu pareja, uno para cada hijo. Documentos de todos. Un cargo de a one-time purchase.
 
 Sin suscripciones. Sin precios basados en asientos. Sin cargos por miembro de familia.
 
 ## Preguntas sobre Precios
 
-¿Cuánto cuesta Travel Document Vault? Travel Document Vault ofrece un nivel gratuito para siempre: 1 perfil con hasta 5 documentos, incluyendo todas las características principales como recordatorios de vencimiento, compartir documentos y cifrado. Pro es $9.99 una sola vez y desbloquea perfiles ilimitados, documentos ilimitados, copia de seguridad encriptada en la nube, planificador de viajes y rastreador de días en el extranjero. ¿Es Travel Document Vault una suscripción? No. Travel Document Vault es una compra única. Pagas $9.99 una sola vez por Pro y lo posees para siempre. Sin cargos recurrentes, sin necesidad de cancelar suscripción, y sin pruebas que empiecen a facturarte silenciosamente. El nivel gratuito también es gratuito para siempre. ¿Qué obtengo en gratuito versus Pro? Gratuito: 1 perfil, hasta 5 documentos, recordatorios de vencimiento, compartir documentos, bloqueo PIN y biométrico, cifrado en el dispositivo, acceso sin conexión. Pro añade: perfiles ilimitados para tu familia, documentos ilimitados, planificador de viajes con semáforo de preparación familiar, copia de seguridad encriptada en la nube en tu propio iCloud o Google Drive, rastreador de días en el extranjero para límites de visas e impuestos, y configuración de recordatorios personalizada. ¿Tengo que pagar por miembro de familia o por dispositivo? No. Pro es una compra única para tu cuenta. Una vez comprado, puedes agregar miembros de familia ilimitados (perfiles) y usar la aplicación en múltiples dispositivos bajo la misma cuenta de App Store o Google Play. Una compra. Familia completa. ¿Qué significa 'todas las actualizaciones v1.x incluidas'? Tu compra de $9.99 cubre cada actualización dentro de la versión principal actual (v1.x), incluyendo correcciones de bugs, parches de seguridad y nuevas características. Esto aplica mientras uses la aplicación. Si alguna vez lanzamos v2.0 con cambios arquitectónicos sustanciales, los primeros adoptantes obtienen precios de actualización preferenciales y la opción de mantener Pro v1.x para siempre. Consulta nuestra [política de versiones](https://traveldocumentvault.com/pricing-policy/#version-policy) completa para más detalles.
+¿Cuánto cuesta Travel Document Vault? Travel Document Vault ofrece un nivel gratuito para siempre: 1 perfil con hasta 5 documentos, incluyendo todas las características principales como recordatorios de vencimiento, compartir documentos y cifrado. Pro es a one-time purchaseuna sola vez y desbloquea perfiles ilimitados, documentos ilimitados, copia de seguridad encriptada en la nube, planificador de viajes y rastreador de días en el extranjero. ¿Es Travel Document Vault una suscripción? No. Travel Document Vault es una compra única. Pagas a one-time purchaseuna sola vez por Pro y lo posees para siempre. Sin cargos recurrentes, sin necesidad de cancelar suscripción, y sin pruebas que empiecen a facturarte silenciosamente. El nivel gratuito también es gratuito para siempre. ¿Qué obtengo en gratuito versus Pro? Gratuito: 1 perfil, hasta 5 documentos, recordatorios de vencimiento, compartir documentos, bloqueo PIN y biométrico, cifrado en el dispositivo, acceso sin conexión. Pro añade: perfiles ilimitados para tu familia, documentos ilimitados, planificador de viajes con semáforo de preparación familiar, copia de seguridad encriptada en la nube en tu propio iCloud o Google Drive, rastreador de días en el extranjero para límites de visas e impuestos, y configuración de recordatorios personalizada. ¿Tengo que pagar por miembro de familia o por dispositivo? No. Pro es una compra única para tu cuenta. Una vez comprado, puedes agregar miembros de familia ilimitados (perfiles) y usar la aplicación en múltiples dispositivos bajo la misma cuenta de App Store o Google Play. Una compra. Familia completa. ¿Qué significa 'todas las actualizaciones v1.x incluidas'? Tu compra de a one-time purchasecubre cada actualización dentro de la versión principal actual (v1.x), incluyendo correcciones de bugs, parches de seguridad y nuevas características. Esto aplica mientras uses la aplicación. Si alguna vez lanzamos v2.0 con cambios arquitectónicos sustanciales, los primeros adoptantes obtienen precios de actualización preferenciales y la opción de mantener Pro v1.x para siempre. Consulta nuestra [política de versiones](https://traveldocumentvault.com/pricing-policy/#version-policy) completa para más detalles.
 
 ## ¿Listo para Dejar de Preocuparte?
 

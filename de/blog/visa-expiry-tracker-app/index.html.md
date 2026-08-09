@@ -80,7 +80,7 @@ Angesichts der oben genannten Komplexität braucht eine gute Visa-Ablauf-Tracker
 
 Verwandte Regeln, die mit Visumverfolgung interagieren: siehe unseren Leitfaden zur [6-Monats-Passtregel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/), die verhindern kann, dass Sie einreisen, auch mit gültigem Visum, wenn Ihr Passstatus zu bald nach Ihrer geplanten Abreise abläuft.
 
-**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
+**Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
 ## Häufig gestellte Fragen
 

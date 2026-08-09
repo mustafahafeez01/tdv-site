@@ -78,7 +78,7 @@ Buiten het paspoort zelf verdienen verschillende andere documenten een plaats in
 
 Bewaar al dit op één toegankelijke plaats. Het paniek van rommelen in je telefoon of tas bij de balie op het vliegveld, tuuren naar wazig foto's van visumpagina's - dat is precies wat dit systeem voorkomt.
 
-**Voordat je hierop vertrouwt:** dit artikel legt algemene regels uit, en algemene regels zijn alles wat een blog kan bieden. Eisen veranderen en verschillen per nationaliteit, bestemming en reisdatum. Controleer je eigen situatie bij de instantie die het document afgeeft of bij de reisadviesdienst van je overheid voordat je boekt. We controleren wat we publiceren en kunnen er alsnog naast zitten of verouderd zijn.
+**Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
 ## Veelgestelde vragen
 

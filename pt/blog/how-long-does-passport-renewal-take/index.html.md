@@ -123,7 +123,7 @@ Tem viagem marcada nas próximas semanas e o seu passaporte está prestes a expi
 
 Uma coisa mais que vale a pena ler: a [regra de 6 meses de validade de passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/). Um passaporte recém-renovado ainda precisa cumprir os requisitos de validade do país de destino - e muitos viajantes ficam apanhados por isto.
 
-**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
+**Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
 ## Perguntas Frequentes
 

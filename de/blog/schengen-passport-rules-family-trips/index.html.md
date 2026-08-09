@@ -65,7 +65,7 @@ Kinder benötigen denselben Puffer wie Erwachsene. Es gibt keine Kindervergünst
 
 Dies alles benötigt keine App. Ein Tabellenkalkulationsprogramm hilft vielen Familien, und eine zweimal jährliche Kalendererinnerung erledigt den meisten Aufwand. Das einzig Unverhandelbares: Führen Sie die Prüfung zum Buchungszeitpunkt durch, wenn ein kurzfristiger Reisepass noch ein Besorgnis ist, nicht ein Notfall.
 
-**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
+**Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
 ## Häufig gestellte Fragen
 

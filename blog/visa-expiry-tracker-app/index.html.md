@@ -70,7 +70,7 @@ Given the complexity above, a good visa expiry tracker app needs to handle more 
 - **Privacy model:** Visa details are identity-linked sensitive data. As with passport storage, on-device encryption with no cloud upload is the safest architecture.
 - **Passport + visa tracking together:** A common but overlooked mistake is having a valid visa but a passport that expires during your planned stay. Having both tracked in the same place prevents this mismatch.
 
-**Travel Document Vault** tracks both passport and visa expiry dates in one place, with separate per-document reminders and support for multiple travellers. Your data stays on-device and AES-256 encrypted, no account required, with optional encrypted backup to your own iCloud or Google Drive (Pro). [It's available on the App Store for $9.99, one-time.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** tracks both passport and visa expiry dates in one place, with separate per-document reminders and support for multiple travellers. Your data stays on-device and AES-256 encrypted, no account required, with optional encrypted backup to your own iCloud or Google Drive (Pro). [It's available on the App Store and Google Play as a one-time purchase, no subscription.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Practical Steps to Track Your Visa Properly
 
@@ -82,7 +82,7 @@ Given the complexity above, a good visa expiry tracker app needs to handle more 
 
 Related rules that interact with visa tracking: see our guide to the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/), which can prevent you from entering even with a valid visa if your passport expires too soon after your planned departure.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 

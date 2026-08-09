@@ -73,7 +73,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/digital-passport-copy-valid
 
 如果您想知道云存储对护照副本是否安全，请查看我们关于[在 Google Photos 中存储护照](https://traveldocumentvault.com/zh-Hans/blog/is-it-safe-to-store-passport-in-google-photos/)的指南。它解释了为什么专用加密应用程序提供更强的保护。
 
-**在依据本文行动之前：**本文说明的是一般规则，而一般规则也是任何博客所能提供的全部。要求会变化，并且因国籍、目的地和出行日期而异。预订前请向签发机构或本国的出行提示服务核实你的具体情况。我们会核对所发布的内容，但仍可能出错或过时。
+**在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 
 ## 常见问题
 

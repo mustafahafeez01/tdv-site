@@ -84,7 +84,7 @@ I viaggiatori spesso confondono la data di validità del loro passaporto con le 
 
 Non presuma di poter viaggiare "perché starà tornando prima che scada" - il suo passaporto deve essere valido nel giorno in cui sale sul suo volo in partenza e se scade il giorno dopo il suo ritorno comunque non può viaggiare. Le compagnie aeree non consentono viaggi se il suo passaporto è scaduto nel giorno della partenza.
 
-**Prima di farci affidamento:** questo articolo spiega regole generali, e le regole generali sono tutto ciò che un blog può offrire. I requisiti cambiano e variano in base a cittadinanza, destinazione e data del viaggio. Verifica il tuo caso con l'autorità che rilascia il documento o con il servizio informazioni viaggi del tuo governo prima di prenotare. Controlliamo quello che pubblichiamo e possiamo comunque sbagliare o essere superati.
+**Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
 ## Domande frequenti
 

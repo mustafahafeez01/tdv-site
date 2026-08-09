@@ -65,7 +65,7 @@ Los niños necesitan el mismo amortiguador que los adultos. No hay excepción in
 
 Nada de esto necesita una aplicación. Una hoja de cálculo ayuda a muchas familias, y un recordatorio de calendario dos veces al año maneja la mayor parte del trabajo. Lo único innegociable: haz la auditoría en el momento de la reserva, cuando un pasaporte corto es un recado, no una emergencia.
 
-**Antes de fiarte de esto:** este artículo explica reglas generales, y las reglas generales son todo lo que puede ofrecer un blog. Los requisitos cambian y varían según la nacionalidad, el destino y la fecha del viaje. Consulta tu caso con la autoridad que emite el documento o con el servicio de información al viajero de tu gobierno antes de reservar. Revisamos lo que publicamos y aun así podemos equivocarnos o quedarnos desactualizados.
+**Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
 ## Preguntas Frecuentes
 

@@ -105,7 +105,7 @@ Visumfri rejse har dog sine grænser. Det gælder som regel kun turisme eller ko
 
 Visumfri adgang afhænger også udelukkende af dit statsborgerskab. To personer, der rejser sammen, kan have forskellige visumkrav afhængigt af deres pas. Den ene kan måske besøge landet visumfrit, mens den anden skal søge om visum. Derfor er det vigtigt at tjekke netop dit statsborgerskab, når du undersøger kravene.
 
-**Før du stoler på det her:** denne artikel forklarer generelle regler, og generelle regler er alt, hvad en blog kan tilbyde. Kravene ændrer sig og varierer efter statsborgerskab, destination og rejsedato. Tjek din egen situation hos den udstedende myndighed eller din regerings rejsevejledning, før du booker. Vi kontrollerer det, vi udgiver, og kan stadig tage fejl eller være forældede.
+**Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
 ## Ofte stillede spørgsmål
 

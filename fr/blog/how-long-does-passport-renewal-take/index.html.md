@@ -123,7 +123,7 @@ Vous avez un voyage prévu dans les prochaines semaines et votre passeport est s
 
 Une autre chose qui vaut la peine de lire : la [règle de validité de 6 mois du passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/). Un passeport fraîchement renouvelé doit toujours répondre aux exigences de validité de votre pays de destination - et beaucoup de voyageurs se font piéger par cela.
 
-**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
+**Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
 ## Questions fréquemment posées
 

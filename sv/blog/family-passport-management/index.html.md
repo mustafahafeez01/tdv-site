@@ -78,7 +78,7 @@ Utöver passet själv förtjänar flera andra handlingar en plats i ditt familje
 
 Behåll alla dessa på ett tillgängligt ställe. Panikken av att rota genom din telefon eller väska på flygplatsens skranken, sneda på suddig foton av visumsidor - det här är exakt vad det här systemet förhindrar.
 
-**Innan du förlitar dig på det här:** den här artikeln förklarar allmänna regler, och allmänna regler är allt en blogg kan erbjuda. Kraven ändras och varierar med medborgarskap, resmål och resdatum. Kontrollera ditt eget fall med den utfärdande myndigheten eller din regerings reseinformation innan du bokar. Vi kontrollerar det vi publicerar och kan ändå ha fel eller vara inaktuella.
+**Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
 ## Vanliga frågor
 

@@ -58,7 +58,7 @@ Une note d'honnêteté: aucune application ne peut lire votre dossier EES, y com
 
 La frontière numérique est minutieuse, automatique et implacable, mais rester dans la règle 90/180 n'a jamais été question de frontière - c'est une question de connaître vos propres dates avant de réserver. Gardez votre historique de voyage quelque part de fiable, exécutez les chiffres avant de vous engager à voyager, et traitez le comptage comme faisant partie de la planification plutôt que quelque chose à reconstituer à la porte. Le EES fera l'application. La planification est toujours la vôtre, et c'est la partie moins chère à bien faire.
 
-**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
+**Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
 ## Questions fréquemment posées
 

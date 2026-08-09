@@ -107,7 +107,7 @@ Les différents voyages nécessitent des ensembles de documents différents.
 | Actes de naissance | N/A | ✅ si requis | N/A | Certains pays les exigent pour les enfants de moins de 18 ans |
 | Lettre d'autorisation de travail | N/A | N/A | ✅ si requis | Certaines destinations exigent des lettres d'employeur pour les voyageurs d'affaires |
 
-**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
+**Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
 ## Questions fréquemment posées
 

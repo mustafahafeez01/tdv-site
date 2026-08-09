@@ -107,7 +107,7 @@ Los diferentes viajes necesitan diferentes conjuntos de documentos.
 | Certificados de nacimiento | N/A | ✅ si se requiere | N/A | Algunos países requieren para menores menores de 18 años |
 | Carta de autorización de trabajo | N/A | N/A | ✅ si se requiere | Algunos destinos requieren cartas del empleador para viajeros de negocio |
 
-**Antes de fiarte de esto:** este artículo explica reglas generales, y las reglas generales son todo lo que puede ofrecer un blog. Los requisitos cambian y varían según la nacionalidad, el destino y la fecha del viaje. Consulta tu caso con la autoridad que emite el documento o con el servicio de información al viajero de tu gobierno antes de reservar. Revisamos lo que publicamos y aun así podemos equivocarnos o quedarnos desactualizados.
+**Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
 ## Preguntas frecuentes
 

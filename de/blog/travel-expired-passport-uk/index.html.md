@@ -84,7 +84,7 @@ Reisende verwechseln oft das Gültigkeitsdatum ihres Passes mit den Regeln eines
 
 Nehmen Sie nicht an, dass Sie reisen können, "weil Sie zurückommen, bevor es abläuft" - Ihr Pass muss am Tag gültig sein, an dem Sie Ihren Ausgangsflug besteigen, und wenn er am Tag nach Ihrer Rückkehr abläuft, können Sie trotzdem nicht reisen. Fluggesellschaften erlauben keine Reisen, wenn Ihr Pass am Abreist abgelaufen ist.
 
-**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
+**Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
 ## Häufig Gestellte Fragen
 

@@ -124,7 +124,7 @@ In the days before departure, run through this checklist:
 
 A well-prepared consent letter is your family's safeguard against travel disruption. The time spent now pays back in smooth border crossings and peace of mind.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 

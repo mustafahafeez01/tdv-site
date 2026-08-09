@@ -192,7 +192,7 @@ Bedste værdi
 
 ### Pro
 
-$9.99
+Engangskøb
 
 Til hele din familie. Betal én gang. Alle v1.x-opdateringer inkluderet for evigt.
 
@@ -233,7 +233,7 @@ Til familier
 
 Lås det fulde pengeskab op til din familie
 
-$9.99 engangsbetaling Til hele din familie. Betal én gang. Alle v1.x-opdateringer inkluderet for evigt.
+Engangskøb engangsbetaling Til hele din familie. Betal én gang. Alle v1.x-opdateringer inkluderet for evigt.
 
 [Om vores versionspolitik →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

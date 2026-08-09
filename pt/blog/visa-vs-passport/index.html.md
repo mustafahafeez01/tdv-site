@@ -101,7 +101,7 @@ No entanto, as viagens sem visto têm limites. Geralmente aplica-se apenas ao tu
 
 O acesso isento de visto também depende inteiramente da sua nacionalidade. Duas pessoas viajando juntas podem ter requisitos de visto diferentes baseados nos seus passaportes. Um pode ser capaz de visitar sem visto enquanto o outro deve solicitar um visto. É por isso que verificar a sua nacionalidade específica é essencial ao pesquisar requisitos.
 
-**Antes de confiar nisto:** este artigo explica regras gerais, e regras gerais são tudo o que um blogue pode oferecer. Os requisitos mudam e variam consoante a nacionalidade, o destino e a data da viagem. Confirme o seu caso junto da autoridade emissora ou do serviço de informação ao viajante do seu governo antes de reservar. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados.
+**Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
 ## Perguntas Frequentes
 

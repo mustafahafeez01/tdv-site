@@ -187,7 +187,7 @@ Nilai Terbaik
 
 ### Pro
 
-$9.99
+Sekali bayar
 
 Untuk seluruh keluarga Anda. Bayar sekali. Semua pembaruan v1.x disertakan, selamanya.
 
@@ -224,7 +224,7 @@ Untuk keluarga
 
 Buka lemari penuh untuk keluarga Anda
 
-$9.99 sekali Untuk seluruh keluarga Anda. Bayar sekali. Semua pembaruan v1.x disertakan, selamanya.
+Sekali bayar sekali Untuk seluruh keluarga Anda. Bayar sekali. Semua pembaruan v1.x disertakan, selamanya.
 
 [Tentang kebijakan versi kami →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

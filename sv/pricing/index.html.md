@@ -1,6 +1,6 @@
 # Travel Document Vault Pris - Engångsköp, ingen prenumeration
 
-> Travel Document Vault kostar $9.99 en gång. Ingen prenumeration, inga dolda avgifter. Ett köp täcker din hela familj. Gratis version tillgänglig.
+> Travel Document Vault kostar a one-time purchaseen gång. Ingen prenumeration, inga dolda avgifter. Ett köp täcker din hela familj. Gratis version tillgänglig.
 
 Source: https://traveldocumentvault.com/sv/pricing/
 
@@ -31,7 +31,7 @@ Bäst värde
 
 ### Pro
 
-$9.99
+One-time
 
 För din hela familj. Betala en gång. Alla v1.x-uppdateringar ingår, för alltid.
 
@@ -72,7 +72,7 @@ För familjer
 
 Låsa upp det fullständiga valvet för din familj
 
-$9.99 engångsköp För din hela familj. Betala en gång. Alla v1.x-uppdateringar ingår, för alltid.
+One-time engångsköp För din hela familj. Betala en gång. Alla v1.x-uppdateringar ingår, för alltid.
 
 [Om vår versionspolicy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -116,13 +116,13 @@ Ett köp på ditt konto. En familj. Fungerar på alla dina enheter.
 
 ## Ett köp, en hel familj
 
-När du köper Pro, betalar du inte per person eller per enhet. Du skapar ett valv med obegränsade profiler - en för dig, en för din partner, en för varje barn. Allas dokument. En avgift på $9.99.
+När du köper Pro, betalar du inte per person eller per enhet. Du skapar ett valv med obegränsade profiler - en för dig, en för din partner, en för varje barn. Allas dokument. En avgift på a one-time purchase.
 
 Inga prenumerationer. Ingen platsbaserad prissättning. Inga avgifter per familjemedlem.
 
 ## Prissättningsfrågor
 
-Hur mycket kostar Travel Document Vault? Travel Document Vault erbjuder en gratis nivå för alltid - 1 profil med upp till 5 dokument, inklusive alla kärnfunktioner som utgångspåminnelser, dokumentdelning och kryptering. Pro är $9.99 en gång och låser upp obegränsade profiler, obegränsade dokument, krypterad molnsäkerhetskopia, reseplaneringsprogram och dagar-utomlands-spårare. Är Travel Document Vault en prenumeration? Nej. Travel Document Vault är ett engångsköp. Du betalar $9.99 en gång för Pro och äger det för alltid. Inga återkommande avgifter, ingen prenumerationsuppsägning behövs och inga försök som tyst börjar debitera dig. Den gratis nivån är också gratis för alltid. Vad får jag i gratis kontra Pro? Gratis: 1 profil, upp till 5 dokument, utgångspåminnelser, dokumentdelning, PIN och biometrisk lås, kryptering på enheten, offline-åtkomst. Pro lägger till: obegränsade profiler för din familj, obegränsade dokument, reseplaneringsprogram med familjer färdighetstrafikljus, krypterad molnsäkerhetskopia till ditt eget iCloud eller Google Drive, dagar-utomlands-spårare för visum och skattemässiga gränser och anpassad påminnelsetiming. Betalar jag per familjemedlem eller per enhet? Nej. Pro är ett engångsköp för ditt konto. När du väl har köpt det kan du lägga till obegränsade familjemedlemmar (profiler) och använd appen på flera enheter under samma App Store eller Google Play-konto. Ett köp. En hel familj. Vad betyder 'alla v1.x-uppdateringar ingår'? Ditt köp på $9.99 täcker varje uppdatering inom den aktuella huvudversionen (v1.x), inklusive buggfixar, säkerhetspatcher och nya funktioner. Detta gäller så länge du använder appen. Om vi någonsin släpper v2.0 med större arkitektoniska ändringar får tidiga användare förmånlig uppgraderingsprissättning och möjligheten att stanna på v1.x Pro för alltid. Se vår fullständiga [versionspolicy](https://traveldocumentvault.com/pricing-policy/#version-policy) för detaljer.
+Hur mycket kostar Travel Document Vault? Travel Document Vault erbjuder en gratis nivå för alltid - 1 profil med upp till 5 dokument, inklusive alla kärnfunktioner som utgångspåminnelser, dokumentdelning och kryptering. Pro är a one-time purchaseen gång och låser upp obegränsade profiler, obegränsade dokument, krypterad molnsäkerhetskopia, reseplaneringsprogram och dagar-utomlands-spårare. Är Travel Document Vault en prenumeration? Nej. Travel Document Vault är ett engångsköp. Du betalar a one-time purchaseen gång för Pro och äger det för alltid. Inga återkommande avgifter, ingen prenumerationsuppsägning behövs och inga försök som tyst börjar debitera dig. Den gratis nivån är också gratis för alltid. Vad får jag i gratis kontra Pro? Gratis: 1 profil, upp till 5 dokument, utgångspåminnelser, dokumentdelning, PIN och biometrisk lås, kryptering på enheten, offline-åtkomst. Pro lägger till: obegränsade profiler för din familj, obegränsade dokument, reseplaneringsprogram med familjer färdighetstrafikljus, krypterad molnsäkerhetskopia till ditt eget iCloud eller Google Drive, dagar-utomlands-spårare för visum och skattemässiga gränser och anpassad påminnelsetiming. Betalar jag per familjemedlem eller per enhet? Nej. Pro är ett engångsköp för ditt konto. När du väl har köpt det kan du lägga till obegränsade familjemedlemmar (profiler) och använd appen på flera enheter under samma App Store eller Google Play-konto. Ett köp. En hel familj. Vad betyder 'alla v1.x-uppdateringar ingår'? Ditt köp på a one-time purchasetäcker varje uppdatering inom den aktuella huvudversionen (v1.x), inklusive buggfixar, säkerhetspatcher och nya funktioner. Detta gäller så länge du använder appen. Om vi någonsin släpper v2.0 med större arkitektoniska ändringar får tidiga användare förmånlig uppgraderingsprissättning och möjligheten att stanna på v1.x Pro för alltid. Se vår fullständiga [versionspolicy](https://traveldocumentvault.com/pricing-policy/#version-policy) för detaljer.
 
 ## Redo att sluta oroa dig?
 

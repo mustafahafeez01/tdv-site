@@ -58,7 +58,7 @@ Una nota di onestà: nessuna app può leggere il Suo record EES, neppure la nost
 
 La frontiera digitale è accurata, automatica e priva di sentimento, ma stare dentro la regola 90/180 non è mai stato questione di frontiera - è questione di conoscere le Sue date prima di prenotare. Tenga la Sua storia di viaggio da qualche parte affidabile, esegua i calcoli prima di impegnarsi a viaggiare, e tratti il conteggio come parte della pianificazione piuttosto che qualcosa da ricostituire al cancello. EES farà l'applicazione. La pianificazione rimane Sua, ed è la metà più economica per essere corretta.
 
-**Prima di farci affidamento:** questo articolo spiega regole generali, e le regole generali sono tutto ciò che un blog può offrire. I requisiti cambiano e variano in base a cittadinanza, destinazione e data del viaggio. Verifica il tuo caso con l'autorità che rilascia il documento o con il servizio informazioni viaggi del tuo governo prima di prenotare. Controlliamo quello che pubblichiamo e possiamo comunque sbagliare o essere superati.
+**Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
 ## Domande Frequenti
 

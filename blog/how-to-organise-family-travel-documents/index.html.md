@@ -126,6 +126,8 @@ Run this checklist when you book - not the night before you leave. That's what g
 
 For more on specific topics, check out the [travel document tips](https://traveldocumentvault.com/blog/) on the blog - there are detailed articles on passport renewal timelines and what you need to know about digital storage.
 
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
 ## Frequently Asked Questions
 
 ### What documents do I need to organise for family travel?

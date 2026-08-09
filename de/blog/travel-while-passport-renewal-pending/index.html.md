@@ -78,7 +78,7 @@ Die einfache Antwort ist, Ihren Pass lange vor dem Reisen zu erneuern. Einen Ant
 
 Der Grund, warum Menschen in diese Situation geraten, ist nicht Unkenntnis der Regeln. Pässe laufen geräuschlos aus, ohne automatische Erinnerung, daher erinnern sich Menschen normalerweise nur daran, dass ihr Pass gültig ist, nicht wann er abläuft. Das Setzen einer Erinnerung 12 Monate vor dem Ablaufdatum gibt Ihnen Zeit, in Ihrem eigenen Tempo zu erneuern, mit Standardbearbeitung, ohne Druck.
 
-**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
+**Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
 ## Häufig gestellte Fragen
 

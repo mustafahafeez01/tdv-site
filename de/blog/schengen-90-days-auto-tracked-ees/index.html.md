@@ -58,7 +58,7 @@ Eine ehrliche Anmerkung: Keine App kann Ihren EES-Datensatz lesen, unsere einges
 
 Die digitale Grenze ist gründlich, automatisch und gefühllos, aber die Einhaltung der 90/180-Regel war nie von der Grenze abhängig - es geht darum, Ihre eigenen Daten zu kennen, bevor Sie buchen. Führen Sie Ihre Reisegeschichte irgendwo zuverlässig auf, rechnen Sie die Zahlen durch, bevor Sie sich festlegen, und behandeln Sie das Zählen als Teil der Planung statt als etwas, das Sie am Gate rekonstruieren. Das EES wird die Kontrolle durchführen. Die Planung liegt immer noch bei Ihnen, und das ist die günstigere Hälfte, um es richtig hinzubekommen.
 
-**Bevor Sie sich darauf verlassen:** Dieser Artikel erklärt allgemeine Regeln, und mehr als allgemeine Regeln kann kein Blog bieten. Anforderungen ändern sich und hängen von Staatsangehörigkeit, Reiseziel und Reisedatum ab. Klären Sie Ihren Fall vor der Buchung mit der ausstellenden Behörde oder dem Reisehinweisdienst Ihrer Regierung. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein.
+**Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
 ## Häufig gestellte Fragen
 

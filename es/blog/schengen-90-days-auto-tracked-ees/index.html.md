@@ -58,7 +58,7 @@ Una nota de honestidad: ninguna aplicación puede leer tu registro EES, la nuest
 
 La frontera digital es exhaustiva, automática e insentimental, pero mantenerse dentro de la regla 90/180 nunca fue sobre la frontera - se trata de conocer tus propias fechas antes de reservar. Mantén tu historial de viajes en algún lugar confiable, ejecuta los números antes de comprometerte a viajar, y trata el conteo como parte de la planificación en lugar de algo para reconstruir en la puerta. EES hará la aplicación. La planificación sigue siendo tuya, y es la mitad más barata para acertar.
 
-**Antes de fiarte de esto:** este artículo explica reglas generales, y las reglas generales son todo lo que puede ofrecer un blog. Los requisitos cambian y varían según la nacionalidad, el destino y la fecha del viaje. Consulta tu caso con la autoridad que emite el documento o con el servicio de información al viajero de tu gobierno antes de reservar. Revisamos lo que publicamos y aun así podemos equivocarnos o quedarnos desactualizados.
+**Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
 ## Preguntas Frecuentes
 

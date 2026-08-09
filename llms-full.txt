@@ -2,9 +2,9 @@
 
 > Every English article in full. Individual pages are also available as markdown by appending .md to any URL.
 
-# Best Passport Organizer App: A Practical Guide
+# Best Passport Organizer App: Choose On-Device, Not Cloud
 
-> Find the best passport organiser app for your family. Learn why offline storage and encryption matter for travel document safety.
+> Most passport apps upload your scans to a company server. What to check instead: on-device storage, real encryption, and expiry reminders per traveller.
 
 Source: https://traveldocumentvault.com/blog/best-passport-organizer-app/
 
@@ -82,7 +82,7 @@ A one-time purchase app, by contrast, remains fully functional indefinitely. You
 
 ## How Travel Document Vault Approaches This
 
-**Travel Document Vault** embodies the privacy-first, offline-first approach described above. Data stays on your device, encrypted with AES-256 - no account required. You can optionally back up encrypted data to your own iCloud or Google Drive (Pro feature). It supports multiple travellers, passport and visa expiry tracking, and works fully offline. Available on the App Store as a [one-time $9.99 purchase](https://apps.apple.com/app/travel-document-vault/id6757014877).
+**Travel Document Vault** embodies the privacy-first, offline-first approach described above. Data stays on your device, encrypted with AES-256 - no account required. You can optionally back up encrypted data to your own iCloud or Google Drive (Pro feature). It supports multiple travellers, passport and visa expiry tracking, and works fully offline. Available on the App Store as a [one-time purchase, no subscription](https://apps.apple.com/app/travel-document-vault/id6757014877).
 
 ## A Practical Checklist Before You Download
 
@@ -99,6 +99,8 @@ When evaluating any passport organizer app, ask yourself these nine questions:
 - Is the data encrypted at rest on the device?
 
 If nine of these answers are "yes", you've got a genuinely trustworthy app. For each "no", weigh whether that trade-off matters to you. For more on document organisation, see our [blog](https://traveldocumentvault.com/) for tips on what to store and when.
+
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -258,7 +260,7 @@ In the days before departure, run through this checklist:
 
 A well-prepared consent letter is your family's safeguard against travel disruption. The time spent now pays back in smooth border crossings and peace of mind.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -377,6 +379,8 @@ This is especially valuable if you are abroad when your passport is damaged and 
 
 Store your digital copies somewhere encrypted and offline - not Google Photos or iCloud shared with others. Travel Document Vault is built for exactly this use case: passport photos encrypted on your device only, accessible instantly if something goes wrong.
 
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
 ## Frequently Asked Questions
 
 ### What counts as a damaged passport?
@@ -484,7 +488,7 @@ Passport copies contain sensitive identity information: your full name, date of 
 
 If you're wondering whether cloud storage is safe for passport copies, see our guide to [storing passports in Google Photos](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/). It explains why a dedicated encrypted app offers stronger protection. For a side-by-side comparison of iCloud, Google Photos and encrypted apps, read [the safest way to store a passport digitally](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/).
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -622,7 +626,7 @@ ETIAS approval does not replace your passport, travel insurance, or [passport va
 
 Border officers may still request any of these documents upon arrival, even with a valid ETIAS, since ETIAS merely speeds up the authorisation process rather than exempting you from standard border inspection and documentation requirements.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -744,7 +748,7 @@ Beyond the passport itself, several other documents deserve a place in your fami
 
 Keep all of these in one accessible location. The panic of rummaging through your phone or bag at the airport desk, squinting at blurry photos of visa pages - that's exactly what this system prevents.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -905,7 +909,7 @@ You've got travel booked in the next few weeks and your passport is about to exp
 
 One more thing worth reading: the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). A freshly renewed passport still needs to meet your destination country's validity requirements - and plenty of travellers get caught out by this.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -1024,7 +1028,7 @@ The most common mistake is setting a reminder on the expiry date itself. By that
 
 If you also read our guide on [how long passport renewal takes](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/), you will see exactly how tight the timelines can get during busy periods - which is another reason to start early.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -1186,6 +1190,8 @@ Run this checklist when you book - not the night before you leave. That's what g
 
 For more on specific topics, check out the [travel document tips](https://traveldocumentvault.com/blog/) on the blog - there are detailed articles on passport renewal timelines and what you need to know about digital storage.
 
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
 ## Frequently Asked Questions
 
 ### What documents do I need to organise for family travel?
@@ -1218,9 +1224,9 @@ You may not be legally required to have one, but it's strongly recommended. Immi
 
 ---
 
-# Is It Safe to Store Your Passport in Google Photos? What You Need to Know
+# Is Your Passport Safe in Google Photos? Not Really
 
-> Storing your passport in Google Photos carries real privacy risks. Learn why an offline, zero-cloud app with AES-256-GCM encryption is a safer alternative.
+> One phished Google account exposes every photo in it, passport included, and Google's terms allow automated scanning. The risks, and where a scan is safer.
 
 Source: https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/
 
@@ -1335,6 +1341,8 @@ Plenty of people will keep using Google Photos for this - the convenience is rea
 
 For a broader look at keeping your travel documents organised and safe, check out our [travel document tips](https://traveldocumentvault.com/blog/) on the blog - including a practical guide on [how to organise family travel documents](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/) before your next trip.
 
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
 ## Frequently Asked Questions
 
 ### Is it safe to store a passport photo in Google Photos?
@@ -1445,7 +1453,7 @@ If you lose a passport in Thailand that contains a valid multi-entry visa for an
 
 Once you have your emergency travel document, confirm exit requirements with local immigration if needed, then rebook or confirm your journey home. When you are back: apply for a full replacement passport through your official passport authority and set up an encrypted digital backup of all your travel documents before your next trip.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -1571,7 +1579,7 @@ The root cause is usually the same: no reminder in place. Set an expiry reminder
 
 Do this for every passport in your household separately. Children's passports expire faster - 5 years in most countries versus 10 for adults - and are the ones most often missed.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -1715,7 +1723,7 @@ Reliable sources to check before any international trip:
 
 These sources tell you the official requirement and whether it applies to holders of your specific passport. Don't rely on travel forums or last year's blog post - go to the source.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -1874,7 +1882,7 @@ Before you take your photo, ensure you have the following in place:
 
 A few minutes spent setting up properly now saves you from resubmitting later - which means your application doesn't get delayed.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -1906,9 +1914,9 @@ Most countries now prohibit glasses in passport photos unless medically necessar
 
 ---
 
-# Safest Way to Store Your Passport Digitally
+# Safest Way to Store Your Passport Digitally: Offline Wins
 
-> Compare iCloud, Google Photos, and encrypted vaults. Learn the security trade-offs of storing digital passport copies safely.
+> iCloud, Google Photos and encrypted vault apps compared. Why an offline, on-device copy is generally the safest, and the trade-off each cloud option carries.
 
 Source: https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/
 
@@ -2005,7 +2013,7 @@ However, this design comes with reduced convenience since you cannot automatical
 | Works fully offline | No (needs sync) | No (needs sync) | Yes |
 | Remote breach risk | Medium (Apple's servers) | Medium-High (Google's servers + content scanning) | None (no remote storage) |
 | Cross-device access | Automatic | Automatic | Manual backup only |
-| Cost | Free (200GB), then paid | Free (15GB), then paid | Typically one-time purchase ($9.99) |
+| Cost | Free (200GB), then paid | Free (15GB), then paid | Typically a one-time purchase, no subscription |
 | Designed for identity docs | No | No | Yes |
 
 ![Hand-drawn comparison chart asking where should your passport live: iCloud Photos offers optional end-to-end encryption but needs an account and sync, Google Photos misses all four criteria, an encrypted vault ticks end-to-end, no account, works offline and AES-256](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/storage-comparison.jpg) The comparison table above, redrawn at a glance.
@@ -2025,6 +2033,8 @@ The answer depends on your personal risk tolerance and use case.
 Many people use a hybrid approach: keeping a copy in iCloud or Google Photos for everyday access across devices, and a second copy in a dedicated encrypted app as a secure backup. This provides both convenience and redundancy. The key is understanding the trade-offs of each method and choosing consciously.
 
 Whatever method you choose, remember that a digital copy of your passport is as sensitive as the physical document itself - protect it with the same care and attention.
+
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -2058,9 +2068,9 @@ For families, a dedicated encrypted app that stores documents for multiple peopl
 
 ---
 
-# Your 90-Day Schengen Window: Counting Days in the EES Era
+# EES Tracks Your Schengen 90 Days but Won't Show the Count
 
-> Europe's EES border system now records your Schengen days automatically. How the 90/180 rule works, what EES does not tell you, and how to stay ahead.
+> EES logs every Schengen entry and exit and flags overstays automatically, but no portal shows your remaining days. How to count your 90/180 window yourself.
 
 Source: https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/
 
@@ -2120,7 +2130,7 @@ One honesty note: no app can read your EES record, ours included. What a tracker
 
 The digital border is thorough, automatic and unsentimental, but staying inside the 90/180 rule was never about the border - it's about knowing your own dates before you book. Keep your trip history somewhere reliable, run the numbers before committing to travel, and treat the counting as part of planning rather than something to reconstruct at the gate. EES will do the enforcing. The planning is still yours, and it's the cheaper half to get right.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -2223,7 +2233,7 @@ Children need the same buffer as adults. There's no child exception to the valid
 
 None of this needs an app. A spreadsheet helps plenty of families, and a twice-yearly calendar reminder handles most of the work. The only non-negotiable: do the audit at booking time, when a short passport is still an errand, not an emergency.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -2366,7 +2376,7 @@ Different trips need different document sets.
 | Birth certificates | N/A | ✅ if required | N/A | Some countries require for children under 18 |
 | Work authorisation letter | N/A | N/A | ✅ if required | Some destinations require employer letters for business travellers |
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -2402,7 +2412,7 @@ Keep these with you at all times: passports, boarding passes, travel insurance c
 
 # Can You Travel with an Expired Passport? UK Rules
 
-> You cannot fly internationally with an expired passport. Absolute rules, domestic exceptions, emergency renewal, and what airlines check.
+> You cannot fly internationally on an expired passport. The narrow domestic exceptions, the fastest UK renewal route, and what to do if you're already abroad.
 
 Source: https://traveldocumentvault.com/blog/travel-expired-passport-uk/
 
@@ -2488,7 +2498,7 @@ Travellers often confuse their passport's own validity date with destination-spe
 
 Do not assume you can travel "because you're coming back before it expires" - your passport must be valid on the date you board your outbound flight and if it expires the day after you return you still cannot travel. Airlines do not permit travel if your passport is expired on departure day.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -2652,6 +2662,8 @@ Here is what to do before your flight:
 
 Twenty minutes now, and you won't be searching for any of it in a crisis.
 
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
 ## Frequently Asked Questions
 
 ### Do I need to carry my physical insurance policy when I travel?
@@ -2764,7 +2776,7 @@ The straightforward answer is to renew your passport well before you need it for
 
 The reason people end up in this situation is not ignorance of the rules. Passports expire quietly with no automatic reminder, so people tend to remember only that their passport is valid, not when it expires. Setting a reminder 12 months before your expiry date gives you time to renew at your own pace, on standard processing, without pressure.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -2853,7 +2865,7 @@ TripCase bundled several different jobs into one free app. No current app does a
 | Flight alerts | Real-time delays, gate changes, cancellations | Flighty | Free tier; paid subscription (pricing varies) |
 | Email-to-itinerary parsing | Forward a confirmation, the trip builds itself | TripIt or Tripsy | TripIt has a free tier; Pro is about $49/yr |
 | Trip timeline | One chronological view per trip | TripIt or Tripsy | Included with the above |
-| Travel document storage | The Document Vault: passports, visas, boarding passes | Travel Document Vault | Free to start; $9.99 one-time |
+| Travel document storage | The Document Vault: passports, visas, boarding passes | Travel Document Vault | One-time purchase, no subscription |
 | Trip sharing | Followers saw your live itinerary | TripIt sharing, or a shared folder | Free |
 
 ![Hand-drawn map of TripCase's four jobs after its 1 April 2025 shutdown: flight alerts to Flighty, itinerary to TripIt, documents to Travel Document Vault, trip sharing to a shared folder](https://traveldocumentvault.com/blog/tripcase-alternative/tripcase-timeline-alternatives.jpg) The replacement map at a glance - four jobs, four tools, each doing one thing well.
@@ -2876,7 +2888,7 @@ Start with a simple audit: where does each scan of your passport, each visa PDF,
 
 TripCase is gone, and its features are scattered across other apps now. But there's one lesson worth taking from it: your travel documents shouldn't die with someone else's server.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -2980,7 +2992,7 @@ Given the complexity above, a good visa expiry tracker app needs to handle more 
 - **Privacy model:** Visa details are identity-linked sensitive data. As with passport storage, on-device encryption with no cloud upload is the safest architecture.
 - **Passport + visa tracking together:** A common but overlooked mistake is having a valid visa but a passport that expires during your planned stay. Having both tracked in the same place prevents this mismatch.
 
-**Travel Document Vault** tracks both passport and visa expiry dates in one place, with separate per-document reminders and support for multiple travellers. Your data stays on-device and AES-256 encrypted, no account required, with optional encrypted backup to your own iCloud or Google Drive (Pro). [It's available on the App Store for $9.99, one-time.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** tracks both passport and visa expiry dates in one place, with separate per-document reminders and support for multiple travellers. Your data stays on-device and AES-256 encrypted, no account required, with optional encrypted backup to your own iCloud or Google Drive (Pro). [It's available on the App Store and Google Play as a one-time purchase, no subscription.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Practical Steps to Track Your Visa Properly
 
@@ -2992,7 +3004,7 @@ Given the complexity above, a good visa expiry tracker app needs to handle more 
 
 Related rules that interact with visa tracking: see our guide to the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/), which can prevent you from entering even with a valid visa if your passport expires too soon after your planned departure.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -3137,7 +3149,7 @@ However, visa-free travel has limits. It typically applies only to tourism or sh
 
 Visa-free access also depends entirely on your nationality. Two people travelling together might have different visa requirements based on their passports. One might be able to visit visa-free whilst the other must apply for a visa. This is why checking your specific nationality is essential when researching requirements.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 
@@ -3286,7 +3298,7 @@ Physical documents help until a thief takes your bag - and usually takes the cop
 
 When your embassy needs to issue an emergency travel document, a secure backup gives them your passport number, date of issue, place of issue, and expiry date instantly, without internet access. For more on the options available, see our overview of [how to store passport copies safely](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/) and the trade-offs between different approaches.
 
-**Before you rely on this:** this article explains general rules, and general rules are all any blog can offer. Requirements change, and they vary by nationality, destination and travel date. Check your own case with the issuing authority or your government's travel advice service before you book. We check what we publish and we can still be wrong or out of date.
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 

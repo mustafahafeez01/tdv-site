@@ -65,7 +65,7 @@ Les enfants ont besoin du même délai que les adultes. Il n'y a pas d'exception
 
 Rien de tout cela n'a besoin d'une application. Un tableur aide de nombreuses familles, et un rappel calendrier deux fois par an gère la plupart du travail. La seule condition non négociable : faire l'audit au moment de la réservation, quand un passeport court est toujours une course, pas une urgence.
 
-**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
+**Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
 ## Foire aux questions
 

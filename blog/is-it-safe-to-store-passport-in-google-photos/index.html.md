@@ -1,6 +1,6 @@
-# Is It Safe to Store Your Passport in Google Photos? What You Need to Know
+# Is Your Passport Safe in Google Photos? Not Really
 
-> Storing your passport in Google Photos carries real privacy risks. Learn why an offline, zero-cloud app with AES-256-GCM encryption is a safer alternative.
+> One phished Google account exposes every photo in it, passport included, and Google's terms allow automated scanning. The risks, and where a scan is safer.
 
 Source: https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/
 
@@ -114,6 +114,8 @@ Plenty of people will keep using Google Photos for this - the convenience is rea
 - **Create a private album for sensitive documents** rather than leaving them loose in your main photo stream. It won't stop a breach, but it reduces accidental exposure when someone's looking over your shoulder.
 
 For a broader look at keeping your travel documents organised and safe, check out our [travel document tips](https://traveldocumentvault.com/blog/) on the blog - including a practical guide on [how to organise family travel documents](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/) before your next trip.
+
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 

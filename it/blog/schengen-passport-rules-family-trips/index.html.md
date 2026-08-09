@@ -65,7 +65,7 @@ I bambini hanno bisogno dello stesso buffer degli adulti. Non c'è eccezione per
 
 Nulla di questo ha bisogno di un'app. Un foglio di calcolo aiuta molte famiglie, e un promemoria del calendario due volte all'anno gestisce la maggior parte del lavoro. L'unico non negoziabile: fate l'audit al momento della prenotazione, quando un passaporto breve è ancora un'incombenza, non un'emergenza.
 
-**Prima di farci affidamento:** questo articolo spiega regole generali, e le regole generali sono tutto ciò che un blog può offrire. I requisiti cambiano e variano in base a cittadinanza, destinazione e data del viaggio. Verifica il tuo caso con l'autorità che rilascia il documento o con il servizio informazioni viaggi del tuo governo prima di prenotare. Controlliamo quello che pubblichiamo e possiamo comunque sbagliare o essere superati.
+**Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
 ## Domande frequenti
 

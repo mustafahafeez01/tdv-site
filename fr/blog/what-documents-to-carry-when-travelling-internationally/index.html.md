@@ -101,7 +101,7 @@ Les documents physiques aident jusqu'à ce qu'un voleur prenne votre sac - et pr
 
 Lorsque votre ambassade doit émettre un document de voyage d'urgence, une sauvegarde sécurisée lui donne instantanément votre numéro de passeport, date d'émission, lieu d'émission et date d'expiration, sans accès à Internet. Pour plus d'informations sur les options disponibles, voir notre aperçu de [comment stocker les copies de passeport en toute sécurité](https://traveldocumentvault.com/fr/blog/is-it-safe-to-store-passport-in-google-photos/) et les compromis entre les différentes approches.
 
-**Avant de vous y fier :** cet article explique des règles générales, et des règles générales sont tout ce qu'un blog peut offrir. Les exigences changent et varient selon la nationalité, la destination et la date du voyage. Vérifiez votre situation auprès de l'autorité qui délivre le document ou du service d'information aux voyageurs de votre gouvernement avant de réserver. Nous vérifions ce que nous publions et nous pouvons malgré tout nous tromper ou être dépassés.
+**Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
 ## Questions Fréquemment Posées
 

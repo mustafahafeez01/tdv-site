@@ -1,6 +1,6 @@
-# Safest Way to Store Your Passport Digitally
+# Safest Way to Store Your Passport Digitally: Offline Wins
 
-> Compare iCloud, Google Photos, and encrypted vaults. Learn the security trade-offs of storing digital passport copies safely.
+> iCloud, Google Photos and encrypted vault apps compared. Why an offline, on-device copy is generally the safest, and the trade-off each cloud option carries.
 
 Source: https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/
 
@@ -97,7 +97,7 @@ However, this design comes with reduced convenience since you cannot automatical
 | Works fully offline | No (needs sync) | No (needs sync) | Yes |
 | Remote breach risk | Medium (Apple's servers) | Medium-High (Google's servers + content scanning) | None (no remote storage) |
 | Cross-device access | Automatic | Automatic | Manual backup only |
-| Cost | Free (200GB), then paid | Free (15GB), then paid | Typically one-time purchase ($9.99) |
+| Cost | Free (200GB), then paid | Free (15GB), then paid | Typically a one-time purchase, no subscription |
 | Designed for identity docs | No | No | Yes |
 
 ![Hand-drawn comparison chart asking where should your passport live: iCloud Photos offers optional end-to-end encryption but needs an account and sync, Google Photos misses all four criteria, an encrypted vault ticks end-to-end, no account, works offline and AES-256](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/storage-comparison.jpg) The comparison table above, redrawn at a glance.
@@ -117,6 +117,8 @@ The answer depends on your personal risk tolerance and use case.
 Many people use a hybrid approach: keeping a copy in iCloud or Google Photos for everyday access across devices, and a second copy in a dedicated encrypted app as a secure backup. This provides both convenience and redundancy. The key is understanding the trade-offs of each method and choosing consciously.
 
 Whatever method you choose, remember that a digital copy of your passport is as sensitive as the physical document itself - protect it with the same care and attention.
+
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
 

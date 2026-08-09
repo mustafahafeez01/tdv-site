@@ -105,7 +105,7 @@ Visumfria resor har dock sina begränsningar. De gäller vanligtvis bara turism 
 
 Visumfritt tillträde beror också helt på ditt medborgarskap. Två personer som reser tillsammans kan ha olika visumkrav beroende på sina pass. Den ena kan resa visumfritt medan den andra måste ansöka om visum. Det är därför det är avgörande att kontrollera just ditt medborgarskap när du undersöker kraven.
 
-**Innan du förlitar dig på det här:** den här artikeln förklarar allmänna regler, och allmänna regler är allt en blogg kan erbjuda. Kraven ändras och varierar med medborgarskap, resmål och resdatum. Kontrollera ditt eget fall med den utfärdande myndigheten eller din regerings reseinformation innan du bokar. Vi kontrollerar det vi publicerar och kan ändå ha fel eller vara inaktuella.
+**Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
 ## Vanliga frågor
 

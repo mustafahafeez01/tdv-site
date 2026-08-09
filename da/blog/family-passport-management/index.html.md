@@ -78,7 +78,7 @@ Ud over selve paset fortjener flere andre dokumenter en plads i dit familierejse
 
 Opbevar alt dette ét tilgængeligt sted. Panikken ved at rode gennem din telefon eller taske ved lufthavns-skranken, stirrer på uskarpe fotos af visa-sider - det er præcis, hvad dette system forhindrer.
 
-**Før du stoler på det her:** denne artikel forklarer generelle regler, og generelle regler er alt, hvad en blog kan tilbyde. Kravene ændrer sig og varierer efter statsborgerskab, destination og rejsedato. Tjek din egen situation hos den udstedende myndighed eller din regerings rejsevejledning, før du booker. Vi kontrollerer det, vi udgiver, og kan stadig tage fejl eller være forældede.
+**Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
 ## Ofte stillede spørgsmål
 

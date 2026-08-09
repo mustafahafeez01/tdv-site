@@ -73,7 +73,7 @@ Las copias del pasaporte contienen información de identidad sensible: tu nombre
 
 Si te preguntas si el almacenamiento en nube es seguro para copias del pasaporte, consulta nuestra guía sobre [almacenar pasaportes en Google Photos](https://traveldocumentvault.com/es/blog/is-it-safe-to-store-passport-in-google-photos/). Explica por qué una aplicación cifrada dedicada ofrece una protección más fuerte.
 
-**Antes de fiarte de esto:** este artículo explica reglas generales, y las reglas generales son todo lo que puede ofrecer un blog. Los requisitos cambian y varían según la nacionalidad, el destino y la fecha del viaje. Consulta tu caso con la autoridad que emite el documento o con el servicio de información al viajero de tu gobierno antes de reservar. Revisamos lo que publicamos y aun así podemos equivocarnos o quedarnos desactualizados.
+**Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
 ## Preguntas Frecuentes
 

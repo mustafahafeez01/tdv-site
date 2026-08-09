@@ -105,7 +105,7 @@ Visumvrij reizen kent echter grenzen. Het geldt doorgaans alleen voor toerisme o
 
 Visumvrije toegang hangt ook volledig af van je nationaliteit. Twee mensen die samen reizen, kunnen op basis van hun paspoort verschillende visumvereisten hebben. De een mag misschien visumvrij binnen, terwijl de ander een visum moet aanvragen. Daarom is het essentieel om je eigen nationaliteit te checken bij het onderzoeken van de vereisten.
 
-**Voordat je hierop vertrouwt:** dit artikel legt algemene regels uit, en algemene regels zijn alles wat een blog kan bieden. Eisen veranderen en verschillen per nationaliteit, bestemming en reisdatum. Controleer je eigen situatie bij de instantie die het document afgeeft of bij de reisadviesdienst van je overheid voordat je boekt. We controleren wat we publiceren en kunnen er alsnog naast zitten of verouderd zijn.
+**Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
 ## Veelgestelde vragen
 

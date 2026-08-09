@@ -193,7 +193,7 @@ Meilleure Valeur
 
 ### Pro
 
-$9.99
+Achat unique
 
 Pour toute votre famille. Payez une fois. Toutes les mises à jour v1.x incluses, à jamais.
 
@@ -234,7 +234,7 @@ Pour les familles
 
 Déverrouillez le coffre-fort complet pour votre famille
 
-$9.99 paiement unique Pour toute votre famille. Payez une fois. Toutes les mises à jour v1.x incluses, à jamais.
+Achat unique paiement unique Pour toute votre famille. Payez une fois. Toutes les mises à jour v1.x incluses, à jamais.
 
 [À propos de notre politique de version →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

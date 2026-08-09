@@ -193,7 +193,7 @@ Miglior Valore
 
 ### Pro
 
-$9.99
+Acquisto unico
 
 Per tutta la Sua famiglia. Pagamento unico. Tutti gli aggiornamenti v1.x inclusi, per sempre.
 
@@ -234,7 +234,7 @@ Per le famiglie
 
 Sblocca il caveau completo per la Sua famiglia
 
-$9.99 una volta Per tutta la Sua famiglia. Pagamento unico. Tutti gli aggiornamenti v1.x inclusi, per sempre.
+Acquisto unico una volta Per tutta la Sua famiglia. Pagamento unico. Tutti gli aggiornamenti v1.x inclusi, per sempre.
 
 [Informazioni sulla nostra politica di versione →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

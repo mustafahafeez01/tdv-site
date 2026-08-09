@@ -4,7 +4,7 @@
   "inLanguage": "zh-Hans",
     "headline": "在 Google Photos 中存储护照是否安全？您需要了解的信息",
     "description": "在 Google Photos 中存储护照很方便，但存在真实隐私风险。以下是您需要了解的信息以及更安全的替代方案的样子。",
-    "image": "https://traveldocumentvault.com/assets/images/social-preview.jpg",
+    "image": "https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/cover.jpg",
     "author": {
       "@type": "Organization",
       "name": "Travel Document Vault",
@@ -39,7 +39,7 @@
         "name": "在 Google Photos 中存储护照照片是否安全",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Google Photos 提供便利和基本的账户级安全，但它不是为敏感身份证件设计的。您的护照扫描件存储在 Google 的云基础设施中，由 Google 的系统扫描以获得图像识别等功能，仅受您的 Google 账户密码和启用的任何 2FA 保护。Google 账户被盗意味着您的护照扫描件暴露。对于风险较高的文件，专用加密存储是更合适的选择。"
+          "text": "方便，但 Google Photos 不是为敏感身份证件构建的。您的扫描件存储在 Google 的服务器上，由其自动化系统处理，受您的 Google 账户有无保护。如果您的账户被盗（通过网络钓鱼、重复使用的密码或其他地方的数据泄露），您的护照扫描件也被盗。对于这么敏感的文件，专用加密存储选项是更聪明的选择。如果您确实使用 Google Photos，请启用双因素认证并在 Google 账户上使用独特密码。"
         }
       },
       {
@@ -47,7 +47,7 @@
         "name": "Google 是否扫描存储在 Google Photos 中的照片内容",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "是的。Google 使用自动化系统扫描存储在 Google Photos 中的照片，用于物体识别、搜索索引和人脸分组等功能。Google 的隐私政策也允许使用内容改进其服务。这与人类阅读您的护照不同，但这意味着您的文件数据由 Google 的系统处理。"
+          "text": "是的。自动化系统处理您的照片以进行面部识别、物体检测和搜索索引等操作。Google 的隐私政策也允许内容用于改进其服务。没有人类在阅读您的护照 - 但您的文件数据由 Google 的基础设施处理，而不是惰性存储在服务器上。"
         }
       },
       {
@@ -55,7 +55,7 @@
         "name": "存储护照数字副本的最安全方式是什么",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "最安全的方法是设备端加密存储 - 应用程序使您的文件扫描件存储在手机本地，采用强加密，无云上传。这意味着没有第三方服务器会持有您的护照数据。示例包括具有强设备端加密的专用旅行文件应用程序。"
+          "text": "设备端加密存储是您最安全的选择 - 应用程序将您的扫描件保存在手机上，采用强加密和零云上传。没有第三方服务器会接触您的护照数据。如果您也想要云访问，像 1Password 或 Bitwarden 这样的零知识加密密码管理器是一个很好的折衷。"
         }
       },
       {
@@ -63,23 +63,15 @@
         "name": "有人能从护照扫描件中窃取我的身份吗",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "护照扫描件包含您的全名、出生日期、国籍、护照号和有效期。这足以尝试身份欺诈、以您的名义申请信用或使用您的真实个人信息进行网络钓鱼攻击。风险是真实的，尤其是结合其他暴露的数据时。"
+          "text": "是的，现实地说。您的名字、出生日期、国籍、护照号和有效期合在一起足以尝试身份欺诈、以您的名义申请信用或运行非常令人信服的网络钓鱼攻击。风险在该数据与来自单独泄露的其他个人详情结合时增加 - 这比大多数人预期的更常见。"
         }
       },
       {
         "@type": "Question",
-        "name": "iCloud Photos 是否比 Google Photos 存储护照更安全",
+        "name": "iCloud 是否比 Google Photos 更安全地存储护照扫描件",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "在结构层面，iCloud Photos 和 Google Photos 为护照存储提供类似的安全性 - 两者都使用由提供商管理的云服务器和他们自己的加密密钥。Apple 的 Advanced Data Protection（iOS 16.2+）可以在启用时将端到端加密扩展到 iCloud Photos，使其在结构上更强。但是，两者都不是专门为敏感身份证件设计的。无论在哪个平台上，具有零云上传的专用设备端加密应用都是最安全的选择。"
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "以数字方式存储护照照片的最安全方式是什么",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "以数字方式存储护照照片的最安全方式是使用设备端加密存储 - 应用程序将您的文件扫描件保存在手机本地，采用强加密且无云上传。这意味着没有第三方服务器会访问您的护照数据。如果您也想要云访问，像 1Password 或 Bitwarden 这样的零知识加密密码管理器是一个很好的替代方案。Google Photos 和 iCloud Photos 等通用云照片库在有强账户安全的情况下是可以接受的，但不是为敏感身份证件专门设计的。"
+          "text": "在结构层面上，它们非常相似。两者都将照片存储在由提供商管理的云服务器上，两者都通过自动化系统处理图像。Apple 的 Advanced Data Protection（iOS 16.2+）将端到端加密扩展到 iCloud Photos 时，这确实提高了门槛 - 但默认关闭，大多数用户未打开。两个平台更大的因素是您的账户密码以及双因素认证是否活跃。对于护照存储具体而言，无论在哪个平台上，专用设备端加密应用都是更强的选择。"
         }
       }
     ]
