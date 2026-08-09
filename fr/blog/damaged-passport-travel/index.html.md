@@ -81,6 +81,8 @@ Cela s'avère particulièrement précieux si vous êtes à l'étranger quand vot
 
 Stockez vos copies numériques quelque part de chiffré et hors ligne - pas dans Google Photos ou un iCloud partagé avec d'autres personnes. Travel Document Vault est conçu exactement pour cet usage : des photos de passeport chiffrées uniquement sur votre appareil, accessibles instantanément si quelque chose tourne mal.
 
+**Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
+
 ## Questions fréquemment posées
 
 ### Qu'est-ce qui est considéré comme un passeport endommagé ?

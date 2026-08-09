@@ -94,6 +94,8 @@ Bei der Bewertung einer Reisepass-Organizer-App stellen Sie sich selbst diese ne
 
 Wenn neun dieser Antworten "Ja" sind, haben Sie eine wirklich vertrauenswürdige App. Für jeden "Nein" abwägen, ob dieser Kompromiss für Sie wichtig ist. Für mehr zu Dokumentenorganisation lesen Sie unseren [Blog](https://traveldocumentvault.com/de/blog/) für Tipps, was Sie speichern und wann speichern sollten.
 
+**Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
+
 ## Häufig gestellte Fragen
 
 ### Was ist eine Reisepass-Organizer-App?

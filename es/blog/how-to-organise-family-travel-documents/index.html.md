@@ -124,6 +124,8 @@ Ejecuta esta lista cuando reserves - no la noche anterior a que te vayas. Eso es
 
 Para más información sobre temas específicos, consulta los [consejos de documentos de viaje](https://traveldocumentvault.com/es/) en el blog - hay artículos detallados sobre cronogramas de renovación de pasaportes y lo que necesitas saber sobre almacenamiento digital.
 
+**Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
+
 ## Preguntas frecuentes
 
 ### ¿Qué documentos necesito organizar para un viaje en familia?

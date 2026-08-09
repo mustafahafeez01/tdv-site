@@ -28,8 +28,8 @@ This situation is recoverable - but how recoverable depends on how much time you
 | Time until travel | What to do | UK option | US option |
 |---|---|---|---|
 | 10+ weeks | Apply standard renewal online immediately | Online via GOV.UK | Online via travel.state.gov |
-| 6–10 weeks | Apply immediately, pay for expedited | 1-week Fast Track (online) | Expedited (+$60, ~5–7 wks) |
-| Under 6 weeks | Call your passport authority (don't just use the website) | 0300 222 0000 | 1-877-487-2778 |
+| 6-10 weeks | Apply immediately, pay for expedited | 1-week Fast Track (online) | Expedited (+$60, ~5-7 wks) |
+| Under 6 weeks | Call your passport authority (don't just use the website) | the HM Passport Office adviceline | the US National Passport Information Center |
 | Under 2 weeks | Emergency appointment (bring proof of imminent travel) | Same-day Premium service | Regional passport agency |
 
 All major passport authorities hold back emergency appointment slots that are not visible online. If your timeline is tight, call rather than relying only on the website.
@@ -46,7 +46,7 @@ This scenario happens more often than people expect, and the steps are not obvio
 
 **Step 3: Check whether domestic travel is possible.** An expired passport may still be accepted as ID for domestic flights in some countries, though this is not guaranteed. If your final destination is reachable domestically from a closer city, this might be an option while you sort the passport. British travellers should read [what an expired passport means for UK travel](https://traveldocumentvault.com/blog/travel-expired-passport-uk/), since the rules differ by route.
 
-**Step 4: Contact your passport authority by phone.** Explain your situation. In the UK, call 0300 222 0000 and ask for the earliest available appointment at the nearest passport office. In the US, call 1-877-487-2778 and ask about emergency appointments at the nearest regional passport agency. Same-day and next-day options exist for genuine emergencies.
+**Step 4: Contact your passport authority by phone.** Explain your situation. In the UK, call the HM Passport Office adviceline and ask for the earliest available appointment at the nearest passport office. In the US, call the US National Passport Information Center and ask about emergency appointments at the nearest regional passport agency. Same-day and next-day options exist for genuine emergencies.
 
 **Step 5: Book accommodation near the passport office.** If you get an appointment for the following day, you need somewhere to stay. Keep receipts - if you have travel insurance, some of these costs may be claimable.
 

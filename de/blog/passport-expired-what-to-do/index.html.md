@@ -27,7 +27,7 @@ Diese Situation ist lösbar – aber wie gut sie gelöst werden kann, hängt dav
 |---|---|---|---|
 | 10+ Wochen | Stellen Sie sofort einen standardmäßigen Verlängerungsantrag online | Online über GOV.UK | Online über travel.state.gov |
 | 6–10 Wochen | Beantragen Sie sofort und zahlen Sie für beschleunigte Bearbeitung | 1-Wochen-Fast-Track (online) | Beschleunigt (+$60, ca. 5–7 Wochen) |
-| Weniger als 6 Wochen | Rufen Sie Ihre Reisepassbehörde an (nicht nur die Website verwenden) | 0300 222 0000 | 1-877-487-2778 |
+| Weniger als 6 Wochen | Rufen Sie Ihre Reisepassbehörde an (nicht nur die Website verwenden) | die Beratungsstelle von HM Passport Office | das US-amerikanische National Passport Information Center |
 | Weniger als 2 Wochen | Notfalltermin (bringen Sie den Nachweis der unmittelbar bevorstehenden Reise mit) | Premium-Service am selben Tag | Regionale Reisepassbehörde |
 
 Alle großen Reisepassbehörden halten Notfalltermine zurück, die online nicht sichtbar sind. Wenn Ihre Frist knapp ist, rufen Sie an, anstatt sich nur auf die Website zu verlassen.
@@ -44,7 +44,7 @@ Dieses Szenario passiert häufiger als erwartet, und die Schritte sind nicht kla
 
 **Schritt 3: Überprüfen Sie, ob Inlandsflüge möglich sind.** Ein abgelaufener Reisepass kann in einigen Ländern möglicherweise immer noch als Ausweisdokument für Inlandsflüge akzeptiert werden, wobei dies nicht garantiert ist. Wenn Ihr Endziel vom Inland aus von einer näher gelegenen Stadt erreichbar ist, könnte dies eine Option sein, während Sie den Reisepass sortieren.
 
-**Schritt 4: Kontaktieren Sie Ihre Reisepassbehörde telefonisch.** Erklären Sie Ihre Situation. Im Vereinigten Königreich rufen Sie 0300 222 0000 an und fragen Sie nach dem nächsten verfügbaren Termin beim nächstgelegenen Reisepass-Büro. In den USA rufen Sie 1-877-487-2778 an und fragen Sie nach Notfallterminen bei der nächstgelegenen regionalen Reisepassbehörde. Optionen am selben Tag und am nächsten Tag sind für echte Notfälle verfügbar.
+**Schritt 4: Kontaktieren Sie Ihre Reisepassbehörde telefonisch.** Erklären Sie Ihre Situation. Im Vereinigten Königreich rufen Sie die Beratungsstelle von HM Passport Office an und fragen Sie nach dem nächsten verfügbaren Termin beim nächstgelegenen Reisepass-Büro. In den USA rufen Sie das US-amerikanische National Passport Information Center an und fragen Sie nach Notfallterminen bei der nächstgelegenen regionalen Reisepassbehörde. Optionen am selben Tag und am nächsten Tag sind für echte Notfälle verfügbar.
 
 **Schritt 5: Buchen Sie Unterkunft in der Nähe des Reisepass-Büros.** Wenn Sie einen Termin am nächsten Tag bekommen, brauchen Sie eine Unterkunft. Bewahren Sie Belege auf – wenn Sie Reiseversicherung haben, könnten einige dieser Kosten entschädigt werden.
 

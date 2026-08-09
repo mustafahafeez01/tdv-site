@@ -113,6 +113,8 @@ Muchas personas seguirán usando Google Photos por esto - la conveniencia es rea
 
 Para una mirada más amplia a mantener tus documentos de viaje organizados y seguros, consulta nuestros [consejos de documentos de viaje](https://traveldocumentvault.com/es/) en el blog - incluyendo una guía práctica sobre [cómo organizar documentos de viaje familiar](https://traveldocumentvault.com/es/blog/how-to-organise-family-travel-documents/) antes de tu próximo viaje.
 
+**Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
+
 ## Preguntas frecuentes
 
 ### ¿Es seguro almacenar una foto de pasaporte en Google Photos?

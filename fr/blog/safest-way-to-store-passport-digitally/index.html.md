@@ -116,6 +116,8 @@ De nombreuses personnes utilisent une approche hybride : en conservant une copie
 
 Quelle que soit la méthode que vous choisissez, rappelez-vous qu'une copie numérique de votre passeport est aussi sensible que le document physique lui-même - protégez-le avec le même soin et la même attention.
 
+**Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
+
 ## Questions fréquemment posées
 
 ### iCloud Photos est-il sûr pour stocker des copies de passeport ?

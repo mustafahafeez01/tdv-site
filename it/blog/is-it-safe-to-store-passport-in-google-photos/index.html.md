@@ -113,6 +113,8 @@ Molte persone continueranno a utilizzare Google Photos per questo - la comodità
 
 Per una panoramica più ampia sulla conservazione dei documenti di viaggio organizzati e sicuri, consulta i nostri [consigli sui documenti di viaggio](https://traveldocumentvault.com/it/blog/) sul blog - inclusa una guida pratica su [come organizzare i documenti di viaggio in famiglia](https://traveldocumentvault.com/it/blog/how-to-organise-family-travel-documents/) prima del prossimo viaggio.
 
+**Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
+
 ## Domande Frequenti
 
 ### È sicuro archiviare una foto del passaporto in Google Photos?

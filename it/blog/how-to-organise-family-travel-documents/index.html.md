@@ -124,6 +124,8 @@ Esegui questo elenco quando prenoti, non la notte prima di partire. È quello ch
 
 Per ulteriori informazioni su argomenti specifici, consulta i [suggerimenti sui documenti di viaggio](https://traveldocumentvault.com/it/blog/) sul blog - ci sono articoli dettagliati sui tempi di rinnovo del passaporto e su ciò che devi sapere sull'archiviazione digitale.
 
+**Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
+
 ## Domande frequenti
 
 ### Di quali documenti ho bisogno per organizzare un viaggio in famiglia?

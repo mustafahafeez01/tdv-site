@@ -16,9 +16,9 @@ Source: https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-trav
 - Children's passports expire faster than parents' - **check every passport in your group individually** before booking, not just your own.
 - The practical renewal threshold is **12 months of validity remaining**, not the expiry date itself.
 
-Seven months left on your passport sounds like plenty. You book the flights, check the baggage allowance, start looking at hotels. Then you get to the check-in desk for your flight to Bangkok and the agent pauses. Thailand requires your passport to be valid for at least 6 months on the day you arrive. You are two weeks short. You are not boarding.
+Seven months left on your passport sounds like plenty. You book the flights, check the baggage allowance, start looking at hotels. Then you get to the check-in desk for your flight to Bangkok and the agent pauses: Thailand requires your passport to be valid for at least 6 months on the day you arrive, and you are two weeks short. You are not boarding.
 
-It is one of the most commonly misunderstood rules in travel. A passport that has not expired can still fail the entry requirements for dozens of popular destinations. Understanding how passport validity months are actually counted can save you a very expensive mistake.
+It is one of the most commonly misunderstood rules in travel, because a passport that has not expired can still fail the entry requirements for dozens of popular destinations. Understanding how passport validity months are actually counted can save you a very expensive mistake.
 
 ## How Long Is a Passport Valid?
 
@@ -43,7 +43,7 @@ A passport can be technically valid - not expired - and still get you denied boa
 
 **The 6-month rule.** Many popular destinations require your passport to be valid for at least 6 months on the day you enter the country, and a few count from your planned departure instead. So if your passport expires in October and you land in Istanbul in April, you are fine. If you arrive in June, you may not be - and the airline will refuse to board you before you even reach immigration.
 
-The 6-month rule applies inconsistently by nationality. The same country may enforce it for some passport holders and waive it for others under bilateral agreements. The only reliable way to check is to look up the specific requirement for your passport and destination using the IATA Travel Centre - the same database airlines use at the desk.
+Enforcement of the 6-month rule also varies by nationality. A single country might apply it to some passport holders and waive it for others under bilateral agreements. The only reliable way to check is to look up the specific requirement for your passport and destination using the IATA Travel Centre - the same database airlines use at the desk.
 
 We cover [which countries enforce the 6-month rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) in detail, including a country-by-country table. The short version: assume it applies to any destination outside Europe, North America, or Australia unless you have checked.
 
@@ -61,11 +61,11 @@ For everything else, check before you book. The IATA Travel Centre gives the exa
 
 ## Child Passports - The Family Travel Trap
 
-This is where families get caught out every summer. Adult passports are valid for 10 years. Child passports expire after 5. That gap creates a specific problem.
+This is where families get caught out every summer: adult passports run for 10 years, child passports for only 5, and that gap creates a specific problem.
 
 A 3-year-old who got their first passport in 2023 has a document that expires in 2028. By the time they are 7 and the family books a trip to Turkey, that passport may have only a few months of validity left - well short of the 6-month requirement. Both parents could be sitting on 4 years of validity each and never think to check the child's document.
 
-**Before booking any international trip, check every passport in the group individually.** One short passport can block a whole family from boarding.
+**Before booking any international trip, check every passport in the group individually** - one short passport can block a whole family from boarding.
 
 ## When Should You Renew Your Passport?
 

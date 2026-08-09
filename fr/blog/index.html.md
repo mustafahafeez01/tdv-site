@@ -40,7 +40,7 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 ##
 
-[Renouvellement de passeport Pouvez-vous voyager avec un passeport expiré ? Règles du Royaume-Uni Non. Un passeport britannique expiré bloque les voyages internationaux. La règle absolue, les exceptions nationales, les options de renouvellement d'urgence et ce que les compagnies aériennes vérifient réellement. 2 juillet 20267 min de lecture](https://traveldocumentvault.com/fr/blog/travel-expired-passport-uk/)
+[Renouvellement de passeport Pouvez-vous voyager avec un passeport expiré ? Les règles au Royaume-Uni Non. Un passeport britannique expiré bloque les voyages internationaux. La règle absolue, les exceptions nationales, les options de renouvellement d'urgence et ce que les compagnies aériennes vérifient réellement. 2 juillet 20267 min de lecture](https://traveldocumentvault.com/fr/blog/travel-expired-passport-uk/)
 
 ##
 
@@ -88,7 +88,7 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 ##
 
-[Outils de voyage Meilleure application d'organisation des passeports en 2026 : Un guide pratique pour les familles Trouver la meilleure appli d'organisation des passeports. Pourquoi stockage hors ligne et AES-256-GCM importent pour sécurité. 4 mars 20268 min de lecture](https://traveldocumentvault.com/fr/blog/best-passport-organizer-app/)
+[Outils de voyage Application d'organisation des passeports : sur l'appareil, pas dans le cloud Trouver la meilleure appli d'organisation des passeports. Pourquoi stockage hors ligne et AES-256-GCM importent pour sécurité. 4 mars 20268 min de lecture](https://traveldocumentvault.com/fr/blog/best-passport-organizer-app/)
 
 ##
 

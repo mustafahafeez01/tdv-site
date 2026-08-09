@@ -78,7 +78,7 @@ A one-time purchase app, by contrast, remains fully functional indefinitely. You
 
 ## How Travel Document Vault Approaches This
 
-**Travel Document Vault** embodies the privacy-first, offline-first approach described above. Data stays on your device, encrypted with AES-256 - no account required. You can optionally back up encrypted data to your own iCloud or Google Drive (Pro feature). It supports multiple travellers, passport and visa expiry tracking, and works fully offline. Available on the App Store as a [one-time purchase, no subscription](https://apps.apple.com/app/travel-document-vault/id6757014877).
+**Travel Document Vault** takes the privacy-first, offline-first approach described above. Data stays on your device, encrypted with AES-256, and no account is required, though you can optionally back up encrypted data to your own iCloud or Google Drive (Pro feature). It supports multiple travellers and passport and visa expiry tracking, works fully offline, and is available on the App Store as a [one-time purchase, no subscription](https://apps.apple.com/app/travel-document-vault/id6757014877).
 
 ## A Practical Checklist Before You Download
 
@@ -94,7 +94,7 @@ When evaluating any passport organizer app, ask yourself these nine questions:
 - Is the pricing model one-time or subscription?
 - Is the data encrypted at rest on the device?
 
-If nine of these answers are "yes", you've got a genuinely trustworthy app. For each "no", weigh whether that trade-off matters to you. For more on document organisation, see our [blog](https://traveldocumentvault.com/) for tips on what to store and when.
+If nine of these answers are "yes", you've got a genuinely trustworthy app - for each "no", weigh whether that trade-off matters to you. For more on document organisation, see our [blog](https://traveldocumentvault.com/) for tips on what to store and when.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 

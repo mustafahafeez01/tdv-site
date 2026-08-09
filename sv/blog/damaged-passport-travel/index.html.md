@@ -81,6 +81,8 @@ Det är särskilt värdefullt om du är utomlands när passet skadas och behöve
 
 Förvara dina digitala kopior någonstans krypterat och offline - inte i Google Foto eller ett iCloud-konto som delas med andra. Travel Document Vault är byggt exakt för det här ändamålet: passfoton krypterade enbart på din enhet, tillgängliga direkt om något går fel.
 
+**Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
+
 ## Vanliga frågor
 
 ### Vad räknas som ett skadat pass?

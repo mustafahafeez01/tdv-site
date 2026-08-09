@@ -53,7 +53,7 @@ TripCase raggruppava diversi lavori diversi in un'app gratuita. Nessun'app attua
 | Avvisi di volo | Ritardi in tempo reale, cambiamenti di gate, cancellazioni | Flighty | Livello gratuito; abbonamento a pagamento (i prezzi variano) |
 | Analisi da posta elettronica a itinerario | Inoltri una conferma, il viaggio si costruisce da solo | TripIt o Tripsy | TripIt ha un livello gratuito; Pro è circa 49 dollari/anno |
 | Cronologia del viaggio | Un'unica visualizzazione cronologica per viaggio | TripIt o Tripsy | Incluso nei precedenti |
-| Archiviazione dei documenti di viaggio | Il Document Vault: passaporti, visti, carte d'imbarco | Travel Document Vault | Gratuito per iniziare; $9.99 una tantum |
+| Archiviazione dei documenti di viaggio | Il Document Vault: passaporti, visti, carte d'imbarco | Travel Document Vault | Acquisto una tantum |
 | Condivisione del viaggio | I seguaci vedevano il suo itinerario live | Condivisione TripIt o una cartella condivisa | Gratuito |
 
 Gli avvisi di volo e l'analisi dell'itinerario sono comodità - genuinamente utili - e dovrebbero essere nel cloud perché contano solo mentre un viaggio è attivo. L'archiviazione dei documenti, tuttavia, è diversa: è l'unico compito in cui perdere l'accesso le costa effettivamente qualcosa che non può riprogrammare.

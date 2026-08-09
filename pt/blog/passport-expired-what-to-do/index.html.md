@@ -27,7 +27,7 @@ Esta situação é recuperável - mas o quão recuperável depende de quanto tem
 |---|---|---|---|
 | 10+ semanas | Peça renovação padrão online imediatamente | Online via GOV.UK | Online via travel.state.gov |
 | 6-10 semanas | Peça imediatamente, pague expedição | Fast Track 1 semana (online) | Expedito (+$60, ~5-7 sem.) |
-| Menos de 6 semanas | Ligue para a sua autoridade de passaportes (não use apenas o site) | 0300 222 0000 | 1-877-487-2778 |
+| Menos de 6 semanas | Ligue para a sua autoridade de passaportes (não use apenas o site) | a linha de apoio do HM Passport Office | o National Passport Information Center dos EUA |
 | Menos de 2 semanas | Consulta de emergência (traga prova de viagem iminente) | Serviço Premium do mesmo dia | Agência regional de passaportes |
 
 Todas as autoridades de passaportes principais retêm consultas de emergência que não são visíveis online. Se o seu cronograma é apertado, ligue em vez de confiar apenas no site.
@@ -44,7 +44,7 @@ Este cenário acontece mais vezes do que as pessoas esperam, e os passos não s�
 
 **Passo 3: Verifique se as viagens domésticas são possíveis.** Um passaporte expirado pode ainda ser aceite como ID para voos domésticos em alguns países, embora isto não seja garantido. Se o seu destino final é alcançável domesticamente de uma cidade mais próxima, isto pode ser uma opção enquanto resolve o passaporte.
 
-**Passo 4: Contacte a sua autoridade de passaportes por telefone.** Explique a sua situação. No Reino Unido, ligue para 0300 222 0000 e peça a consulta mais antiga disponível no escritório de passaportes mais próximo. Nos EUA, ligue para 1-877-487-2778 e pergunte sobre consultas de emergência na agência regional de passaportes mais próxima. Opções do mesmo dia e do dia seguinte existem para emergências genuínas.
+**Passo 4: Contacte a sua autoridade de passaportes por telefone.** Explique a sua situação. No Reino Unido, ligue para a linha de apoio do HM Passport Office e peça a consulta mais antiga disponível no escritório de passaportes mais próximo. Nos EUA, ligue para o National Passport Information Center dos EUA e pergunte sobre consultas de emergência na agência regional de passaportes mais próxima. Opções do mesmo dia e do dia seguinte existem para emergências genuínas.
 
 **Passo 5: Reserve alojamento perto do escritório de passaportes.** Se conseguir uma consulta para o dia seguinte, precisa de um local para ficar. Guarde os recibos - se tem seguro de viagem, alguns destes custos podem ser reclamáveis.
 

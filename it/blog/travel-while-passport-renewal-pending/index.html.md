@@ -61,10 +61,10 @@ Gli standard di servizio sono attualmente 10 giorni lavorativi quando fate doman
 | Paese / Metodo | Conservare il passaporto? | Viaggi internazionali durante il rinnovo? | Tempo standard |
 |---|---|---|---|
 | USA (per posta) | Sì (restituito annullato) | No | 6-12 settimane |
-| UK (postale) | No (conservato da HMPO) | No | Circa 10 settimane |
+| UK (postale) | No (conservato da HMPO) | No | Circa 3 settimane |
 | UK (digitale) | Sì (lo conservate) | Sì (sul vecchio passaporto) | 2-3 settimane |
-| Australia | No (deve essere consegnato) | No | 4-10 settimane |
-| Canada | No (deve essere consegnato) | No | 5-10 settimane |
+| Australia | No (deve essere consegnato) | No | 4-3 settimane |
+| Canada | No (deve essere consegnato) | No | 5-3 settimane |
 
 ## Se il vostro viaggio è prima della vostra tempistica di rinnovo
 

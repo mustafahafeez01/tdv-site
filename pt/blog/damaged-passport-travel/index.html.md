@@ -81,6 +81,8 @@ Isto é especialmente valioso se estiver no estrangeiro quando o passaporte se d
 
 Guarde as suas cópias digitais num local encriptado e offline - não no Google Photos ou no iCloud partilhado com outras pessoas. O Travel Document Vault foi criado exatamente para este caso: fotos do passaporte encriptadas apenas no seu dispositivo, acessíveis num instante se algo correr mal.
 
+**Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
+
 ## Perguntas Frequentes
 
 ### O que conta como passaporte danificado?

@@ -94,6 +94,8 @@ Cuando evalúes cualquier aplicación organizadora de pasaportes, hazte estas nu
 
 Si nueve de estas respuestas son "sí", tienes una aplicación genuinamente confiable. Para cada "no", sopesa si ese compromiso te importa. Para más sobre organización de documentos, consulta nuestro [blog](https://traveldocumentvault.com/es/) para consejos sobre qué almacenar y cuándo.
 
+**Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
+
 ## Preguntas frecuentes
 
 ### ¿Qué es una aplicación organizadora de pasaportes?

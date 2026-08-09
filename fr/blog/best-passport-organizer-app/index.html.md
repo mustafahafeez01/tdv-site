@@ -94,6 +94,8 @@ Lors de l'évaluation de toute application d'organisation des passeports, posez-
 
 Si neuf de ces réponses sont "oui", vous avez une application véritablement fiable. Pour chaque "non", évaluez si ce compromis vous importe. Pour plus sur l'organisation des documents, consultez notre [blog](https://traveldocumentvault.com/fr/blog/) pour des conseils sur ce qu'il faut stocker et quand.
 
+**Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
+
 ## Questions fréquemment posées
 
 ### Qu'est-ce qu'une application d'organisation des passeports ?

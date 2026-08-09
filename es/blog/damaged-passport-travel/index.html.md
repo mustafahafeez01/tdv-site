@@ -81,6 +81,8 @@ Esto es especialmente valioso si estás en el extranjero cuando tu pasaporte se 
 
 Guarda tus copias digitales en un lugar encriptado y sin conexión - no en Google Photos ni en un iCloud compartido con otras personas. Travel Document Vault está pensado exactamente para este caso de uso: fotos de pasaporte encriptadas solo en tu dispositivo, accesibles al instante si algo sale mal.
 
+**Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
+
 ## Preguntas Frecuentes
 
 ### ¿Qué se considera un pasaporte dañado?

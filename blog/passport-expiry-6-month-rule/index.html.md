@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/
 
 The immigration officer looked at my daughter's passport, paused, and then looked up. "You know this expires in seven months, right? Some countries won't let you in with less than six months validity." We were fine - barely. But that moment stuck with me, because I'd checked the passport before booking and seven months had felt like plenty. I'd forgotten entirely about the passport expiry 6 month rule.
 
-It's one of the most misunderstood requirements in international travel, and it catches out experienced travellers, not just first-timers. If you're planning your first international trip, this is the rule nobody tells you about at booking. Your passport can be technically valid - not expired - and still get you turned away at the gate.
+It's one of the most misunderstood requirements in international travel: it catches out experienced travellers as often as first-timers, and if this is your first big trip abroad, it's the rule nobody warns you about at booking. Your passport can be technically valid - not expired - and still get you turned away at the gate.
 
 ## What Is the Passport Expiry 6 Month Rule?
 
@@ -52,11 +52,9 @@ The following table covers the most common destinations. Policies change, so alw
 | USA | Duration of stay only | US citizens abroad subject to destination country rules |
 | Japan / Australia / NZ | Duration of stay only | No 6-month extension rule for visitors |
 
-This isn't an exhaustive list, and requirements vary by your nationality - not just the destination. Always check your government's official travel advisory before booking.
+This table is a snapshot, not the full picture: requirements vary by your nationality too, not just the destination, so always check your government's official travel advisory before booking.
 
-Passport validity requirements by country change without notice - a bilateral agreement can quietly shift the rules for your specific passport. That's exactly why checking an up-to-date official source before every international trip isn't paranoia, it's just good practice.
-
-Always verify your specific requirements using the IATA Travel Centre, the system airlines use to check passenger documents in real time.
+Passport validity requirements by country change without notice, and a bilateral agreement can quietly shift the rules for your specific passport, which is why checking an up-to-date official source before every international trip isn't paranoia, it's just good practice: use the IATA Travel Centre, the same system airlines use to check passenger documents in real time.
 
 **Travel Document Vault** sends you a reminder when your passport drops below the validity threshold for your destination - for every family member, automatically. [Download free on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
@@ -66,27 +64,27 @@ Here's something most people don't know: airlines are responsible for making sur
 
 To protect themselves, airlines run your documents through an industry-wide database of entry requirements before you board. A check-in agent who sees a passport falling short of the six-month requirement will typically deny boarding, even if the destination country would've waved you through in practice.
 
-So you can get turned away at your home airport for a rule you'd never have hit at the other end. The lesson: don't rely on whether a country "usually" enforces it. Meet the requirement on paper.
+So you can get turned away at your home airport for a rule you'd never have hit at the other end. The lesson: don't rely on whether a country "usually" enforces it, and meet the requirement on paper regardless.
 
 What this means in practice
 
-If your passport expires on 30 November and your return flight home is 1 August, you fail the 6-month test by exactly two months, even though your passport is technically valid. The airline's document system will flag this and the check-in agent will not let you board. No exceptions, no supervisor override.
+If your passport expires on 30 November and your return flight home is 1 August, you fail the 6-month test by exactly two months, even though your passport is technically valid. The airline's document system flags this automatically, and the check-in agent has no discretion to override it.
 
 ## What Happens if You Are Caught Out?
 
-Get denied boarding at the departure airport and your options are bleak: reschedule at your own expense and renew your passport before you can rebook.
+If you're denied boarding at the departure airport, your options are bleak: reschedule at your own expense and renew your passport before you can rebook.
 
-Make it to the destination and get denied by immigration? That's considerably worse. You'll likely sit in an immigration holding facility until the next flight home - again, at your cost.
+Getting past departure but denied entry by immigration on the other end is worse still. You'll likely be held in an immigration facility until the next flight home, again at your own cost.
 
-**Travel insurance usually won't cover this.** Passport validity is treated as a preventable circumstance. The financial hit and the ruined trip are entirely yours to absorb.
+**Travel insurance usually won't cover this,** because insurers treat passport validity as a preventable circumstance, so the financial hit and the ruined trip are entirely yours to absorb.
 
 ## How to Make Sure You're Always Covered
 
-Treat your passport like a car tyre - don't wait until it's flat. Renew when you drop below 12 months of validity. That gives you a six-month buffer on top of the rule, with room to spare.
+Treat your passport like a car tyre and don't wait until it's flat: renew as soon as you drop below 12 months of validity, which gives you a six-month buffer on top of the rule, with room to spare.
 
 Before any trip, count six months forward from your planned departure date out of the destination. Check your passport expiry against that date - not just your travel dates.
 
-Managing multiple passports across a family with different expiry dates is where it gets messy. [Travel Document Vault](https://traveldocumentvault.com) tracks this automatically - storing each family member's passport expiry and sending reminders at six months, three months, and closer. No mental arithmetic before every booking. You can also find more practical [travel document tips](https://traveldocumentvault.com/blog/) on the blog.
+Managing multiple passports across a family with different expiry dates is where it gets messy. [Travel Document Vault](https://traveldocumentvault.com) tracks this automatically - storing each family member's passport expiry and sending reminders at six months, three months, and closer, so there's no mental arithmetic before every booking. You can also find more practical [travel document tips](https://traveldocumentvault.com/blog/) on the blog.
 
 ## A Note on Checking Requirements Before You Travel
 
@@ -122,7 +120,7 @@ Yes. Airlines check passport validity using an industry-wide database of entry r
 
 ### How do I check if my passport meets the 6-month rule?
 
-Count six months forward from your planned return date, then check whether your passport expires after that date. If you return on 1 August, your passport needs to be valid until at least 1 February the following year. Apps like Travel Document Vault track this automatically for every family member, so you don't have to do the maths before every trip.
+Count six months forward from your planned departure date out of the destination country, then check whether your passport expires after that date. If you're due to leave on 1 August, your passport needs to be valid until at least 1 February the following year. Apps like Travel Document Vault track this automatically for every family member, so you don't have to do the maths before every trip.
 
 ### Does the 6-month rule apply to EU citizens travelling within Europe?
 

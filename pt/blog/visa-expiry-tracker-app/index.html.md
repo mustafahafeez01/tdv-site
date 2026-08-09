@@ -68,7 +68,7 @@ Dada a complexidade acima, uma boa aplicação de rastreamento de visto precisa 
 - **Modelo de privacidade:** Os detalhes de visto são dados sensíveis ligados à identidade. Tal como com armazenamento de passaporte, encriptação no dispositivo sem envio para a cloud é a arquitetura mais segura.
 - **Rastreamento de passaporte + visto em conjunto:** Um erro comum mas negligenciado é ter um visto válido mas um passaporte que expira durante a sua permanência planeada. Ter ambos rastreados no mesmo local previne esta discrepância.
 
-**Travel Document Vault** rastreia datas de validade de passaporte e visto num só lugar, com lembretes separados por documento e suporte para múltiplos viajantes. Os seus dados permanecem no dispositivo e encriptados em AES-256, sem conta necessária, com cópia de segurança encriptada opcional no seu próprio iCloud ou Google Drive (Pro). [Está disponível no App Store por $9.99, uma única vez.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** rastreia datas de validade de passaporte e visto num só lugar, com lembretes separados por documento e suporte para múltiplos viajantes. Os seus dados permanecem no dispositivo e encriptados em AES-256, sem conta necessária, com cópia de segurança encriptada opcional no seu próprio iCloud ou Google Drive (Pro). [Está disponível no App Store numa compra única.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Passos Práticos para Rastrear o Seu Visto Corretamente
 

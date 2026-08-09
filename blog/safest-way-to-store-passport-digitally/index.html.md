@@ -59,7 +59,7 @@ Photos upload to Google's servers and are encrypted in transit. Google processes
 
 ### Trade-offs
 
-Google Photos offers deep integration with Android, free storage options, and powerful search capabilities, which is appealing for convenience. However, the security disadvantages for sensitive documents are more significant: Google Photos does not use end-to-end encryption by default, meaning Google can technically access your photos, and your passport scans are processed by Google's content analysis systems. Given that Google has experienced security incidents in the past, and considering that identity documents require especially careful protection, Google Photos becomes a lower-security choice than alternatives when you prioritise safeguarding sensitive data.
+Google Photos offers deep integration with Android, free storage options, and powerful search capabilities, which is appealing for convenience. But the security disadvantages for sensitive documents are more significant: Google Photos does not use end-to-end encryption by default, meaning Google can technically access your photos, and your passport scans are processed by Google's content analysis systems. Google has also experienced security incidents in the past, and identity documents need especially careful protection, so Google Photos ends up a lower-security choice than alternatives when safeguarding sensitive data is your priority.
 
 What this means in practice
 
@@ -85,7 +85,7 @@ When you add your passport scan to the app, it's encrypted using AES-256 and sto
 
 The security advantages are substantial: your passport data is never transmitted or stored on a remote server, so it's never accessible to anyone else, and there's no remote server to compromise if someone gains unauthorised access to the app company's systems. This means you maintain complete control and ownership of your documents at all times.
 
-However, this design comes with reduced convenience since you cannot automatically access your passport copy across multiple devices. If you lose your phone, the app won't automatically restore your documents - you'd need to manually restore from a backup. For most families travelling together, storing documents on one parent's phone is sufficient, and many apps support manual syncing via backup, which adds a layer of flexibility without requiring automatic cloud upload.
+The catch is reduced convenience: you can't automatically access your passport copy across multiple devices, and if you lose your phone, the app won't restore your documents on its own - you'd need to manually restore from a backup. For most families travelling together, storing documents on one parent's phone is sufficient anyway, and many apps support manual syncing via backup, which adds a layer of flexibility without requiring automatic cloud upload.
 
 ## Direct Comparison Table
 

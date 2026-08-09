@@ -40,7 +40,7 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
-[パスポート更新 期限切れのパスポートで旅行できますか？ 英国ルール いいえ。期限切れの英国パスポートは国際旅行をブロックします。絶対的なルール、国内の例外、緊急更新オプション、および航空会社が実際にチェックする内容。 2026年7月2日7 分](https://traveldocumentvault.com/ja/blog/travel-expired-passport-uk/)
+[パスポート更新 期限切れのパスポートで旅行できますか。UK規則2026 いいえ。期限切れの英国パスポートは国際旅行をブロックします。絶対的なルール、国内の例外、緊急更新オプション、および航空会社が実際にチェックする内容。 2026年7月2日7 分](https://traveldocumentvault.com/ja/blog/travel-expired-passport-uk/)
 
 ##
 

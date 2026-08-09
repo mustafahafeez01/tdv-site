@@ -130,6 +130,8 @@ Ecco cosa fare prima del tuo volo:
 
 Venti minuti ora, e non starai cercando niente di tutto questo in una crisi.
 
+**Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
+
 ## Domande Frequenti
 
 ### Ho bisogno di portare con me la polizza assicurativa fisica quando viaggio?

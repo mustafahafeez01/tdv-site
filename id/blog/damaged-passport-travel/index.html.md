@@ -81,6 +81,8 @@ Ini sangat berguna jika paspor Anda rusak saat berada di luar negeri dan Anda me
 
 Simpan salinan digital Anda di tempat yang terenkripsi dan offline - bukan di Google Photos atau iCloud yang dibagikan dengan orang lain. Travel Document Vault dibuat khusus untuk kebutuhan ini: foto paspor terenkripsi hanya di perangkat Anda, dan bisa diakses seketika jika terjadi sesuatu.
 
+**Sebelum Anda mengandalkan ini:** ini blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
+
 ## Pertanyaan yang Sering Diajukan
 
 ### Apa yang dianggap sebagai paspor rusak?

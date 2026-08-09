@@ -113,6 +113,8 @@ Tresorit 和 Proton Drive 为云存储提供客户端加密。与密码管理器
 
 要更广泛地了解保持您的旅行文件有组织和安全，请查看我们博客上的[旅行文件提示](https://traveldocumentvault.com/zh-Hans/blog/) - 包括实用指南[如何在下一次旅行前组织家庭旅行文件](https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-travel-documents/)。
 
+**在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
+
 ## 常见问题
 
 ### 在 Google Photos 中存储护照照片是否安全

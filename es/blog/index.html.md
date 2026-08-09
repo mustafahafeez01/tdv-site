@@ -40,7 +40,7 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
-[Renovación de pasaporte ¿Puedes viajar con un pasaporte caducado? Normas del Reino Unido No. Un pasaporte británico caducado bloquea los viajes internacionales. La regla absoluta, las excepciones domésticas, opciones de renovación de emergencia y qué comprueba realmente las aerolíneas. 2 de julio de 20267 min de lectura](https://traveldocumentvault.com/es/blog/travel-expired-passport-uk/)
+[Renovación de pasaporte ¿Puedes viajar con un pasaporte expirado? Normas del Reino Unido No. Un pasaporte británico caducado bloquea los viajes internacionales. La regla absoluta, las excepciones domésticas, opciones de renovación de emergencia y qué comprueba realmente las aerolíneas. 2 de julio de 20267 min de lectura](https://traveldocumentvault.com/es/blog/travel-expired-passport-uk/)
 
 ##
 
@@ -88,7 +88,7 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
-[Herramientas de viaje La mejor aplicación organizadora de pasaportes en 2026: Guía práctica para familias La mejor aplicación organizadora de pasaportes. Descubre qué funciones importan y por qué el almacenamiento sin conexión y cifrado son imprescindibles. 4 mar. 20268 min de lectura](https://traveldocumentvault.com/es/blog/best-passport-organizer-app/)
+[Herramientas de viaje Aplicación organizadora de pasaportes: en el dispositivo, no en la nube La mejor aplicación organizadora de pasaportes. Descubre qué funciones importan y por qué el almacenamiento sin conexión y cifrado son imprescindibles. 4 mar. 20268 min de lectura](https://traveldocumentvault.com/es/blog/best-passport-organizer-app/)
 
 ##
 

@@ -61,10 +61,10 @@ Los estándares de servicio actualmente son 10 días hábiles cuando solicitas e
 | País / Método | ¿Conservar pasaporte? | ¿Viaje internacional durante la renovación? | Tiempo estándar |
 |---|---|---|---|
 | EE.UU. (correo) | Sí (devuelto cancelado) | No | 6-12 semanas |
-| Reino Unido (postal) | No (en manos de HMPO) | No | Alrededor de 10 semanas |
+| Reino Unido (postal) | No (en manos de HMPO) | No | Alrededor de 3 semanas |
 | Reino Unido (digital) | Sí (lo conservas) | Sí (en pasaporte antiguo) | 2-3 semanas |
-| Australia | No (debe entregarse) | No | 4-10 semanas |
-| Canadá | No (debe entregarse) | No | 5-10 semanas |
+| Australia | No (debe entregarse) | No | 4-3 semanas |
+| Canadá | No (debe entregarse) | No | 5-3 semanas |
 
 ## Si tu viaje es más pronto que tu plazo de renovación
 

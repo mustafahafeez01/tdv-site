@@ -40,7 +40,7 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
-[Passförnyelse Kan du resa med ett utgånget pass? Brittiska regler Nej. Ett utgånget brittiskt pass blockerar internationella resor. Den absoluta regeln, inhemska undantag, nödförnyelsealternativ och vad flygbolag faktiskt kontrollerar. 2 juli 20267 min](https://traveldocumentvault.com/blog/travel-expired-passport-uk/)
+[Passförnyelse Kan du resa med ett utgånget pass? Brittiska regler Du kan inte flyga internationellt med ett utgånget pass. De begränsade inhemska undantagen, den snabbaste vägen till förnyat brittiskt pass, och vad du gör om du redan är utomlands. 2 juli 20267 min](https://traveldocumentvault.com/sv/blog/travel-expired-passport-uk/)
 
 ##
 
@@ -88,7 +88,7 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
-[Reseverktyg Bästa appen för att organisera pass 2026: en praktisk guide för familjer De flesta passappar laddar upp dina skanningar till en företagsserver. Så här väljer du i stället: lagring på enheten, verklig kryptering och individuella påminnelser om utgångsdatum. 4 mar 20268 min läsning](https://traveldocumentvault.com/sv/blog/best-passport-organizer-app/)
+[Reseverktyg App för att organisera pass: på enheten, inte i molnet De flesta passappar laddar upp dina skanningar till en företagsserver. Så här väljer du i stället: lagring på enheten, verklig kryptering och individuella påminnelser om utgångsdatum. 4 mar 20268 min läsning](https://traveldocumentvault.com/sv/blog/best-passport-organizer-app/)
 
 ##
 

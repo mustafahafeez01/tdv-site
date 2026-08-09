@@ -130,6 +130,8 @@ Inilah yang harus dilakukan sebelum penerbangan Anda:
 
 Dua puluh menit sekarang, dan Anda tidak akan mencari apa pun saat krisis terjadi.
 
+**Sebelum Anda mengandalkan ini:** ini blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
+
 ## Pertanyaan yang Sering Diajukan
 
 ### Apakah saya perlu membawa polis asuransi fisik saat bepergian?

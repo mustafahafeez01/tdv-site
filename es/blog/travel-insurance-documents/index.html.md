@@ -130,6 +130,8 @@ Aquí está lo que debes hacer antes de tu vuelo:
 
 Veinte minutos ahora, y no estarás buscando nada de esto en una crisis.
 
+**Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
+
 ## Preguntas Frecuentes
 
 ### ¿Necesito llevar mi póliza de seguros física cuando viajo?

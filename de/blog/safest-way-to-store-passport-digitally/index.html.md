@@ -97,7 +97,7 @@ Dieser Entwurf bringt jedoch reduzierte Bequemlichkeit mit sich, da Sie nicht au
 | Funktioniert vollständig offline | Nein (benötigt Synchronisierung) | Nein (benötigt Synchronisierung) | Ja |
 | Risiko einer Remote-Datenpanne | Mittel (Apples Server) | Mittel bis hoch (Googles Server und Inhaltsanalyse) | Keine (kein Remote-Speicher) |
 | Geräteübergreifender Zugriff | Automatisch | Automatisch | Nur manuelle Sicherung |
-| Kosten | Kostenlos (200 GB), dann bezahlt | Kostenlos (15 GB), dann bezahlt | Normalerweise einmaliger Kauf ($9,99) |
+| Kosten | Kostenlos (200 GB), dann bezahlt | Kostenlos (15 GB), dann bezahlt | Normalerweise einmaliger Kauf |
 | Für Identitätsdokumente konzipiert | Nein | Nein | Ja |
 
 ## Welches sollten Sie wählen?
@@ -115,6 +115,8 @@ Die Antwort hängt von Ihrer persönlichen Risikotoleranz und Ihrem Anwendungsfa
 Viele Menschen verwenden einen hybriden Ansatz: Halten Sie eine Kopie in iCloud oder Google Fotos für täglichen Zugriff auf mehrere Geräte und eine zweite Kopie in einer dedizierten verschlüsselten App als sichere Sicherung. Dies bietet sowohl Bequemlichkeit als auch Redundanz. Der Schlüssel besteht darin, die Kompromisse der einzelnen Methoden zu verstehen und bewusst zu wählen.
 
 Unabhängig davon, welche Methode Sie wählen, denken Sie daran, dass eine digitale Kopie Ihres Reisepasses genauso sensibel ist wie das physische Dokument selbst - schützen Sie es mit der gleichen Sorgfalt und Aufmerksamkeit.
+
+**Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 
 ## Häufig gestellte Fragen
 

@@ -81,6 +81,8 @@ Das ist besonders wertvoll, wenn Ihr Pass im Ausland beschädigt wird und Sie ei
 
 Bewahren Sie Ihre digitalen Kopien verschlüsselt und offline auf - nicht in Google Fotos oder in einem mit anderen geteilten iCloud-Ordner. Travel Document Vault ist genau für diesen Fall gebaut: Passfotos, die ausschließlich auf Ihrem Gerät verschlüsselt sind und sofort verfügbar, wenn etwas schiefgeht.
 
+**Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
+
 ## Häufig gestellte Fragen
 
 ### Was gilt als beschädigter Reisepass?

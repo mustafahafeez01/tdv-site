@@ -113,6 +113,8 @@ Viele Menschen werden Google Photos weiterhin dafür nutzen - die Bequemlichkeit
 
 Für einen umfassenderen Blick auf die Verwaltung und Sicherung Ihrer Reisedokumente besuchen Sie unseren [Blog](https://traveldocumentvault.com/de/) mit [praktischen Tipps zum Organisieren von Familienreisedokumenten](https://traveldocumentvault.com/de/blog/how-to-organise-family-travel-documents/) vor Ihrer nächsten Reise.
 
+**Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
+
 ## Häufig gestellte Fragen
 
 ### Ist es sicher, ein Reisepassfoto in Google Photos zu speichern?

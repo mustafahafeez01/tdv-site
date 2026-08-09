@@ -61,10 +61,10 @@ Os padrões de serviço estão atualmente com 10 dias úteis quando se candidata
 | País / Método | Mantém passaporte? | Viagens internacionais durante renovação? | Tempo padrão |
 |---|---|---|---|
 | EUA (correio) | Sim (devolvido cancelado) | Não | 6–12 semanas |
-| Reino Unido (postal) | Não (mantido pelo Serviço de Passaportes) | Não | Cerca de 10 semanas |
+| Reino Unido (postal) | Não (mantido pelo Serviço de Passaportes) | Não | Cerca de 3 semanas |
 | Reino Unido (digital) | Sim (mantém-o) | Sim (no antigo passaporte) | 2–3 semanas |
-| Austrália | Não (deve entregar) | Não | 4–10 semanas |
-| Canadá | Não (deve entregar) | Não | 5–10 semanas |
+| Austrália | Não (deve entregar) | Não | 4–3 semanas |
+| Canadá | Não (deve entregar) | Não | 5–3 semanas |
 
 ## Se a Sua Viagem For Mais Cedo do Que a Sua Cronologia de Renovação
 

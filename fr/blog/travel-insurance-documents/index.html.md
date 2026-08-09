@@ -130,6 +130,8 @@ Voici ce qu'il faut faire avant votre vol :
 
 Vingt minutes maintenant, et vous ne chercherez rien en cas de crise.
 
+**Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
+
 ## Questions fréquemment posées
 
 ### Dois-je apporter ma police d'assurance physique en voyage ?

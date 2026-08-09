@@ -76,7 +76,7 @@ Uma aplicação de compra única, em contraste, permanece totalmente funcional i
 
 ## Como Travel Document Vault Aborda Isto
 
-**Travel Document Vault** incorpora a abordagem orientada para privacidade e offline descrita acima. Os dados ficam no seu dispositivo, encriptados com AES-256 - nenhuma conta necessária. Pode opcionalmente fazer cópia de segurança de dados encriptados para o seu próprio iCloud ou Google Drive (funcionalidade Pro). Suporta múltiplos viajantes, rastreamento de expiração de passaporte e visto, e funciona totalmente offline. Disponível na App Store como uma [compra única de $9.99](https://apps.apple.com/app/travel-document-vault/id6757014877).
+**Travel Document Vault** incorpora a abordagem orientada para privacidade e offline descrita acima. Os dados ficam no seu dispositivo, encriptados com AES-256 - nenhuma conta necessária. Pode opcionalmente fazer cópia de segurança de dados encriptados para o seu próprio iCloud ou Google Drive (funcionalidade Pro). Suporta múltiplos viajantes, rastreamento de expiração de passaporte e visto, e funciona totalmente offline. Disponível na App Store como uma [compra única](https://apps.apple.com/app/travel-document-vault/id6757014877).
 
 ## Uma Lista de Verificação Prática Antes de Fazer o Download
 
@@ -93,6 +93,8 @@ Ao avaliar qualquer aplicação para organizar passaportes, coloque-se estas nov
 - Os dados estão encriptados em repouso no dispositivo?
 
 Se as nove respostas são "sim", tem uma aplicação genuinamente confiável. Por cada "não", pese se esse compromisso importa para si. Para mais sobre organização de documentos, veja o nosso [blog](https://traveldocumentvault.com/pt/blog/) para dicas sobre o que armazenar e quando.
+
+**Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
 ## Perguntas Frequentes
 

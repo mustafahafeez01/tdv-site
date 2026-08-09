@@ -97,7 +97,7 @@ Sin embargo, este diseño viene con comodidad reducida ya que no puedes acceder 
 | Funciona completamente sin conexión | No (necesita sincronización) | No (necesita sincronización) | Sí |
 | Riesgo de incumplimiento remoto | Medio (servidores de Apple) | Medio-Alto (servidores de Google + escaneo de contenido) | Ninguno (sin almacenamiento remoto) |
 | Acceso entre dispositivos | Automático | Automático | Solo copia de seguridad manual |
-| Costo | Gratis (200GB), luego pago | Gratis (15GB), luego pago | Generalmente compra única ($9.99) |
+| Costo | Gratis (200GB), luego pago | Gratis (15GB), luego pago | Generalmente compra única |
 | Diseñado para documentos de identidad | No | No | Sí |
 
 ## ¿Cuál Deberías Elegir?
@@ -115,6 +115,8 @@ La respuesta depende de tu tolerancia personal al riesgo y caso de uso.
 Muchas personas usan un enfoque híbrido: mantienen una copia en iCloud o Google Photos para acceso diario entre dispositivos, y una segunda copia en una aplicación encriptada dedicada como respaldo seguro. Esto proporciona tanto comodidad como redundancia. La clave es entender los compromisos de cada método y elegir conscientemente.
 
 Sea cual sea el método que elijas, recuerda que una copia digital de tu pasaporte es tan sensible como el documento físico - protégelo con el mismo cuidado y atención.
+
+**Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
 ## Preguntas Frecuentes
 

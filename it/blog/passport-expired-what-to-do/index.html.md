@@ -27,7 +27,7 @@ Questa situazione è recuperabile, ma quanto è recuperabile dipende da quanto t
 |---|---|---|---|
 | 10+ settimane | Chieda il rinnovo standard online immediatamente | Online tramite GOV.UK | Online tramite travel.state.gov |
 | 6-10 settimane | Chieda immediatamente, paghi per l'accelerato | Fast Track 1 settimana (online) | Accelerato (+$60, circa 5-7 settimane) |
-| Meno di 6 settimane | Chiami l'autorità preposta ai passaporti (non solo il sito web) | 0300 222 0000 | 1-877-487-2778 |
+| Meno di 6 settimane | Chiami l'autorità preposta ai passaporti (non solo il sito web) | la linea di assistenza di HM Passport Office | il National Passport Information Center degli Stati Uniti |
 | Meno di 2 settimane | Appuntamento di emergenza (porti una prova di viaggio imminente) | Servizio Premium lo stesso giorno | Agenzia passaporti regionale |
 
 Tutte le autorità maggiori tengono i posti per appuntamenti di emergenza che non sono visibili online. Se il Suo arco temporale è stretto, chiami piuttosto che affidarsi solo al sito web.
@@ -44,7 +44,7 @@ Questo scenario accade più spesso di quanto la gente si aspetti, e i passaggi n
 
 **Passo 3: Verifichi se il viaggio nazionale è possibile.** Un passaporto scaduto potrebbe comunque essere accettato come ID per i voli nazionali in alcuni Paesi, anche se questo non è garantito. Se la Sua destinazione finale è raggiungibile a livello nazionale da una città più vicina, potrebbe essere un'opzione mentre ordina il passaporto.
 
-**Passo 4: Contatti l'autorità preposta ai passaporti per telefono.** Spieghi la Sua situazione. Nel Regno Unito, chiami il 0300 222 0000 e chieda l'appuntamento più disponibile dell'ufficio passaporti più vicino. Negli USA, chiami il 1-877-487-2778 e chieda gli appuntamenti di emergenza presso l'agenzia passaporti regionale più vicina. Le opzioni lo stesso giorno e il giorno successivo esistono per emergenze genuine.
+**Passo 4: Contatti l'autorità preposta ai passaporti per telefono.** Spieghi la Sua situazione. Nel Regno Unito, chiami il la linea di assistenza di HM Passport Office e chieda l'appuntamento più disponibile dell'ufficio passaporti più vicino. Negli USA, chiami il il National Passport Information Center degli Stati Uniti e chieda gli appuntamenti di emergenza presso l'agenzia passaporti regionale più vicina. Le opzioni lo stesso giorno e il giorno successivo esistono per emergenze genuine.
 
 **Passo 5: Prenoti l'alloggio vicino all'ufficio passaporti.** Se riceve un appuntamento per il giorno successivo, ha bisogno di un posto dove stare. Conservi gli scontrini - se ha un'assicurazione di viaggio, alcuni di questi costi potrebbero essere reclamabili.
 

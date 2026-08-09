@@ -40,7 +40,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
-[护照更新 已过期的护照可以旅行吗？英国规则 不能。过期的英国护照会阻止国际旅行。绝对规则、国内例外、紧急更新选项以及航空公司实际检查的内容。 2026年7月2日7 分钟](https://traveldocumentvault.com/zh-Hans/blog/travel-expired-passport-uk/)
+[护照更新 过期护照可以出国旅行吗？英国规则 不能。过期的英国护照会阻止国际旅行。绝对规则、国内例外、紧急更新选项以及航空公司实际检查的内容。 2026年7月2日7 分钟](https://traveldocumentvault.com/zh-Hans/blog/travel-expired-passport-uk/)
 
 ##
 

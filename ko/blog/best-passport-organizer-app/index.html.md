@@ -76,7 +76,7 @@ Source: https://traveldocumentvault.com/ko/blog/best-passport-organizer-app/
 
 ## Travel Document Vault가 이것에 접근하는 방법
 
-**Travel Document Vault**는 위에서 설명한 개인정보보호 우선, 오프라인 우선 접근을 구현합니다. 데이터는 기기에 AES-256으로 암호화되어 저장됩니다. 계정이 필요하지 않습니다. 선택적으로 암호화된 데이터를 자신의 iCloud 또는 Google Drive로 백업할 수 있습니다 (Pro 기능). 여러 여행자, 여권 및 비자 만료 추적을 지원하고 완전히 오프라인으로 작동합니다. App Store에서 [일회성 $9.99 구매](https://apps.apple.com/app/travel-document-vault/id6757014877)로 사용 가능합니다.
+**Travel Document Vault**는 위에서 설명한 개인정보보호 우선, 오프라인 우선 접근을 구현합니다. 데이터는 기기에 AES-256으로 암호화되어 저장됩니다. 계정이 필요하지 않습니다. 선택적으로 암호화된 데이터를 자신의 iCloud 또는 Google Drive로 백업할 수 있습니다 (Pro 기능). 여러 여행자, 여권 및 비자 만료 추적을 지원하고 완전히 오프라인으로 작동합니다. App Store에서 [일회성 구매](https://apps.apple.com/app/travel-document-vault/id6757014877)로 사용 가능합니다.
 
 ## 다운로드하기 전에 실용적인 체크리스트
 
@@ -93,6 +93,8 @@ Source: https://traveldocumentvault.com/ko/blog/best-passport-organizer-app/
 - 데이터가 기기에 저장된 상태에서 암호화되나요?
 
 이 9가지 답변이 모두 "예"이면, 진정으로 신뢰할 수 있는 앱이 있습니다. 각 "아니오"에 대해, 해당 트레이드오프가 사용자에게 중요한지 고려합니다. 문서 조직에 대한 자세한 내용은 [우리 블로그](https://traveldocumentvault.com/ko/blog/)에서 무엇을 저장할지와 언제를 저장할지에 대한 팁을 참조합니다.
+
+**이 글에 의존하기 전에:** 이 글은 블로그이며 공식 자료가 아닙니다. 규정과 세부 사항은 바뀌고, 여러분의 상황은 다를 수 있습니다. 저희는 게시하는 내용을 확인하지만 그래도 틀리거나 오래된 정보일 수 있습니다. 여기 적힌 내용이 계획에 중요하다면, 움직이기 전에 담당 기관에 확인하시기 바랍니다.
 
 ## 자주 묻는 질문
 

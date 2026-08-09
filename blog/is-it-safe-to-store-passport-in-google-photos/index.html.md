@@ -11,12 +11,12 @@ Source: https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-goo
 ## Key Takeaways
 
 - Storing a passport scan in Google Photos means your identity document lives on Google's servers, processed by their systems, and guarded only by your account security.
-- A compromised Google account - through phishing, password reuse, or a third-party breach - hands over every document in Google Photos. Including your passport.
-- Google's terms permit automated scanning of your photos for features and service improvements. That includes images containing passport data.
+- A compromised Google account - through phishing, password reuse, or a third-party breach - hands over every document in Google Photos, your passport included.
+- Google's terms permit automated scanning of your photos for features and service improvements, and that includes images containing passport data.
 - Better options exist: encrypted password managers, on-device encrypted apps, or client-side encrypted cloud storage - none of which dump your passport into a general photo library.
-- For most people, the real risk isn't Google - it's weak account security and who else can get into that account.
+- For most people, the real risk is weak account security, not Google itself: a reused password, a shared login, or someone else who already knows how to get in.
 
-Millions of people store passport scans in Google Photos without thinking twice. You need a copy, you take a photo, it backs up automatically. Done. The question of whether that's actually a smart move for your most sensitive identity document rarely comes up - until something goes wrong.
+Millions of people store passport scans in Google Photos without thinking twice: you need a copy, you take one, and it backs up automatically. The question of whether that's actually a smart move for your most sensitive identity document rarely comes up until something goes wrong.
 
 Google Photos isn't some shady operation. The risks of keeping identity documents in a general cloud photo library are real and worth understanding, so you can decide what trade-off you're comfortable with.
 
@@ -37,7 +37,7 @@ That's a lot of personal data in one image. Your name, date of birth, and passpo
 
 ## What Are the Actual Risks of Google Photos Storage?
 
-The risks aren't really about Google doing something sinister. They're more mundane than that - and more likely.
+The risks aren't really about Google doing something sinister; they're more mundane than that, which is exactly what makes them more likely.
 
 **Account compromise**
 
@@ -49,11 +49,11 @@ Google accounts get shared more than you'd think - between partners, on family d
 
 **Third-party app access**
 
-How many apps have you connected to your Google account? Probably more than you remember. Some of those permissions extend to Google Photos. An app with Photos access can, in principle, read your digital passport copy - and you'd never know.
+You've probably connected more apps to your Google account than you'd guess, and some of those permissions extend to Google Photos. An app with Photos access can, in principle, read your digital passport copy, and you'd never know.
 
 **Automated content scanning**
 
-Google's privacy policy confirms that photos get processed by automated systems - face recognition, object detection, search indexing. Your passport scan goes through those same systems for search and feature detection. It's not a human reading your passport, and Google isn't doing anything nefarious, but your document data does leave your device and get analysed by third-party infrastructure.
+Google's privacy policy confirms that photos get processed by automated systems - face recognition, object detection, search indexing. Your passport scan goes through those same systems for search and feature detection. No human reads your passport, and Google isn't doing anything underhand here, but your document data still leaves your device to be analysed by third-party infrastructure.
 
 **Data breach at Google**
 
@@ -101,7 +101,7 @@ Apps built specifically for this - like [Travel Document Vault](https://traveldo
 
 **Encrypted cloud storage with client-side keys**
 
-Tresorit and Proton Drive offer client-side encryption for cloud storage. Like password managers, the provider can't read your files. You get cloud convenience with substantially stronger passport photo security than Google Photos.
+Tresorit and Proton Drive offer client-side encryption for cloud storage, so the provider can't read your files any more than a password manager can. You get cloud convenience with substantially stronger passport photo security than Google Photos.
 
 ## Best Practices If You Continue Using Google Photos
 

@@ -130,6 +130,8 @@ Eis o que fazer antes do seu voo:
 
 Vinte minutos agora e não estará à procura de nada numa crise.
 
+**Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
+
 ## Perguntas Frequentes
 
 ### Preciso de transportar a minha apólice de seguro física quando viajo?

@@ -40,7 +40,7 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
-[Renovação de Passaporte Você pode viajar com um passaporte expirado? Regras do Reino Unido Não. Um passaporte britânico expirado bloqueia viagens internacionais. A regra absoluta, as exceções domésticas, opções de renovação de emergência e o que as companhias aéreas realmente verificam. 2 de julho de 20267 min de leitura](https://traveldocumentvault.com/pt/blog/travel-expired-passport-uk/)
+[Renovação de Passaporte Pode Viajar com um Passaporte Expirado? Regras do Reino Unido Não. Um passaporte britânico expirado bloqueia viagens internacionais. A regra absoluta, as exceções domésticas, opções de renovação de emergência e o que as companhias aéreas realmente verificam. 2 de julho de 20267 min de leitura](https://traveldocumentvault.com/pt/blog/travel-expired-passport-uk/)
 
 ##
 
@@ -88,7 +88,7 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
-[Ferramentas de Viagem Melhor Aplicação para Organizar Passaportes em 2026: Um Guia Prático para Famílias Comparar aplicações para organizar passaportes. Saiba por que o armazenamento offline e a encriptação AES-256-GCM importam para documentos de viagem. 4 mar 20268 min de leitura](https://traveldocumentvault.com/pt/blog/best-passport-organizer-app/)
+[Ferramentas de Viagem Aplicação para organizar passaportes: no dispositivo, não na nuvem Comparar aplicações para organizar passaportes. Saiba por que o armazenamento offline e a encriptação AES-256-GCM importam para documentos de viagem. 4 mar 20268 min de leitura](https://traveldocumentvault.com/pt/blog/best-passport-organizer-app/)
 
 ##
 

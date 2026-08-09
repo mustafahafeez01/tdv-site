@@ -81,6 +81,8 @@ Det er særligt værdifuldt, hvis du er i udlandet, når dit pas bliver beskadig
 
 Opbevar dine digitale kopier et krypteret og offline sted - ikke i Google Photos eller iCloud delt med andre. Travel Document Vault er bygget netop til dette formål: pasfotos krypteret udelukkende på din enhed, tilgængelige med det samme, hvis noget går galt.
 
+**Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
+
 ## Ofte stillede spørgsmål
 
 ### Hvad tæller som et beskadiget pas?

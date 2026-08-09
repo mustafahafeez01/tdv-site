@@ -81,6 +81,8 @@ Una foto digitale nitida del tuo passaporto aiuta proprio in questo. Conserva la
 
 Conserva le tue copie digitali in un posto crittografato e offline - non su Google Photos o su iCloud condiviso con altri. Travel Document Vault è pensato esattamente per questo: foto del passaporto crittografate solo sul tuo dispositivo, accessibili all'istante se qualcosa va storto.
 
+**Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
+
 ## Domande Frequenti
 
 ### Cosa si intende per passaporto danneggiato?

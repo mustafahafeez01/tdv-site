@@ -122,7 +122,7 @@ In the days before departure, run through this checklist:
 - If your child's passport is renewed before travel, obtain a fresh letter showing the new passport number.
 - Do not laminate a notarised letter. Lamination can invalidate certification.
 
-A well-prepared consent letter is your family's safeguard against travel disruption. The time spent now pays back in smooth border crossings and peace of mind.
+Ten minutes against this checklist is a lot cheaper than finding out at the desk that your letter no longer matches the passport in your hand.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 

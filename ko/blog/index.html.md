@@ -40,7 +40,7 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[여권 갱신 만료된 여권으로 여행할 수 있나요? 영국 규칙 아니오. 만료된 영국 여권은 국제 여행을 차단합니다. 절대적인 규칙, 국내 예외, 긴급 갱신 옵션 및 항공사가 실제로 확인하는 사항. 2026년 7월 2일7 분](https://traveldocumentvault.com/ko/blog/travel-expired-passport-uk/)
+[여권 갱신 만료된 여권으로 여행할 수 있을까요? 영국 규정 아니오. 만료된 영국 여권은 국제 여행을 차단합니다. 절대적인 규칙, 국내 예외, 긴급 갱신 옵션 및 항공사가 실제로 확인하는 사항. 2026년 7월 2일7 분](https://traveldocumentvault.com/ko/blog/travel-expired-passport-uk/)
 
 ##
 

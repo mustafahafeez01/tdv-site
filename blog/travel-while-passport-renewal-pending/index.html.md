@@ -10,13 +10,13 @@ Source: https://traveldocumentvault.com/blog/travel-while-passport-renewal-pendi
 
 ## Key Takeaways
 
-- The answer depends on one fact: do you still have your passport in your possession, or have you already surrendered it. That single detail determines what travel is possible.
+- Everything below comes down to one fact: whether you still have your passport in hand, or already surrendered it for renewal.
 - **United States:** Mail-in renewal lets you keep your old passport. Domestic travel is fine. International travel requires your renewed passport to arrive first.
 - **United Kingdom (postal renewal):** Your passport is held by HM Passport Office. You cannot travel internationally until it is returned. **United Kingdom (digital renewal):** You keep your passport throughout and can travel on it while the new one is processed.
 - **Australia and Canada:** Both require you to surrender your passport on application. International travel is not possible until the new passport is issued.
 - Expedited and urgent renewal options exist in every country covered here, but the basic rule holds: you cannot travel internationally without a valid passport in your hand.
 
-You have sent your passport off for renewal and you have a trip coming up. The question is whether you can still travel. The answer hinges on a single fact: do you still have your passport in your possession, or have you already surrendered it to the authorities. That single fact determines what travel is possible. The answer also varies significantly by country, and in the UK's case, by which renewal method you used.
+You have sent your passport off for renewal and you have a trip coming up. The question is whether you can still travel, and the answer hinges on a single fact: do you still have your passport in your possession, or have you already surrendered it to the authorities. It also varies by country, and in the UK's case, by which renewal method you used.
 
 ## The Core Rule
 
@@ -62,11 +62,11 @@ Service standards are currently 10 business days when you apply in person at a p
 
 | Country / Method | Keep passport? | International travel during renewal? | Standard time |
 |---|---|---|---|
-| US (mail-in) | Yes (returned cancelled) | No | 6–12 weeks |
-| UK (postal) | No (held by HMPO) | No | Around 10 weeks |
-| UK (digital) | Yes (you keep it) | Yes (on old passport) | 2–3 weeks |
-| Australia | No (must surrender) | No | 4–10 weeks |
-| Canada | No (must surrender) | No | 5–10 weeks |
+| US (mail-in) | Yes (returned cancelled) | No | 6-12 weeks |
+| UK (postal) | No (held by HMPO) | No | Around 3 weeks |
+| UK (digital) | Yes (you keep it) | Yes (on old passport) | 2-3 weeks |
+| Australia | No (must surrender) | No | 4-10 weeks |
+| Canada | No (must surrender) | No | 5-10 weeks |
 
 ## If Your Trip Is Sooner Than Your Renewal Timeline
 

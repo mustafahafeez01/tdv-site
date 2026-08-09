@@ -97,7 +97,7 @@ Cropping apps take the guesswork out of resizing. Look for tools like Passport P
 
 ### Printing vs. Digital Submission
 
-Some countries accept digital uploads of the biometric passport photo submitted online. Others require printed physical photos. Check your passport authority's current submission process before you take your photo. If printing, use a professional photo printer or take your digital file to a pharmacy or print shop. Home inkjet printers typically produce acceptable results, but colour accuracy and paper quality matter. Photo paper is inexpensive and ensures better colour fidelity than standard printer paper.
+Some countries accept digital uploads of the biometric passport photo submitted online, while others still want a printed physical photo, so check your passport authority's current submission process before you take yours. If printing, use a professional photo printer or take your digital file to a pharmacy or print shop. Home inkjet printers typically produce acceptable results, but colour accuracy and paper quality matter. Photo paper is inexpensive and ensures better colour fidelity than standard printer paper.
 
 ## Preparation Checklist
 
@@ -111,7 +111,7 @@ Before you take your photo, ensure you have the following in place:
 - A cropping app downloaded and ready to use
 - Plan for printing or digital submission based on your country's requirements
 
-A few minutes spent setting up properly now saves you from resubmitting later - which means your application doesn't get delayed.
+A few minutes spent setting up properly now saves you from resubmitting later.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 

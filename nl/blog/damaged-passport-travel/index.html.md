@@ -81,6 +81,8 @@ Dit is vooral waardevol als je in het buitenland bent wanneer je paspoort bescha
 
 Bewaar je digitale kopieën ergens versleuteld en offline - niet in Google Foto's of een gedeelde iCloud. Travel Document Vault is precies hiervoor gebouwd: paspoortfoto's versleuteld op alleen jouw apparaat, direct beschikbaar als er iets misgaat.
 
+**Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
+
 ## Veelgestelde vragen
 
 ### Wat telt als een beschadigd paspoort?

@@ -34,11 +34,11 @@ Check everywhere before assuming the worst - jacket pockets, every bag compartme
 
 Go to the nearest police station and report the passport lost or stolen. You need this report for both your embassy application and your insurance claim.
 
-Ask for a written copy with a case number. Request an English version or translation if possible. Take a photo of it and keep multiple copies safe.
+Ask for a written copy with a case number, and request an English translation if one's available. Take a photo of it and keep multiple copies safe.
 
 ## Step 3: Contact Your Embassy or Consulate
 
-Your embassy or consulate is your route home. Contact them as soon as you have the police report. Official emergency contacts:
+Your embassy or consulate is your route home, so contact them as soon as you have the police report. Official emergency contacts:
 
 - **UK citizens:** GOV.UK emergency consular assistance
 - **US citizens:** travel.state.gov - lost or stolen passports

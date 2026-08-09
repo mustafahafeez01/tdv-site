@@ -81,6 +81,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/damaged-passport-travel/
 
 把数字副本存放在加密且离线的地方 - 不要用与他人共享的 Google Photos 或 iCloud。Travel Document Vault 正是为这种情况而生：护照照片只加密保存在您自己的设备上，一旦出事可以立即调用。
 
+**在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
+
 ## 常见问题
 
 ### 什么算是护照损坏？

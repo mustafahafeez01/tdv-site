@@ -40,7 +40,7 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
-[Passerneuerung Kann man mit einem abgelaufenen Pass reisen? UK-Regeln Nein. Ein abgelaufener britischer Pass blockiert Auslandsreisen. Die absolute Regel, die inländischen Ausnahmen, Notfallverlängerungsoptionen und was Fluggesellschaften wirklich überprüfen. 2. Juli 20267 min](https://traveldocumentvault.com/de/blog/travel-expired-passport-uk/)
+[Passerneuerung Können Sie mit einem abgelaufenen Pass reisen? UK-Regeln Nein. Ein abgelaufener britischer Pass blockiert Auslandsreisen. Die absolute Regel, die inländischen Ausnahmen, Notfallverlängerungsoptionen und was Fluggesellschaften wirklich überprüfen. 2. Juli 20267 min](https://traveldocumentvault.com/de/blog/travel-expired-passport-uk/)
 
 ##
 
@@ -88,7 +88,7 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
-[Reisewerkzeuge Beste Reisepass-Organizer-App 2026: Ein praktischer Leitfaden für Familien Die beste Reisepass-Organizer-App? Erfahren Sie, worauf Sie achten sollten und warum Offline-Speicher sowie starke Verschlüsselung wichtig sind. 4. März 20268 Min. Lesezeit](https://traveldocumentvault.com/de/blog/best-passport-organizer-app/)
+[Reisewerkzeuge Reisepass-Organizer-App: auf dem Gerät statt in der Cloud Die beste Reisepass-Organizer-App? Erfahren Sie, worauf Sie achten sollten und warum Offline-Speicher sowie starke Verschlüsselung wichtig sind. 4. März 20268 Min. Lesezeit](https://traveldocumentvault.com/de/blog/best-passport-organizer-app/)
 
 ##
 

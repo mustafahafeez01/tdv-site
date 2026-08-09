@@ -124,6 +124,8 @@ Execute esta lista de verificação quando reserva - não a noite anterior ao em
 
 Para mais sobre tópicos específicos, consulte os [conselhos de documentos de viagem](https://traveldocumentvault.com/pt/blog/) no blogue - há artigos detalhados sobre cronogramas de renovação de passaporte e o que precisa saber sobre armazenamento digital.
 
+**Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
+
 ## Perguntas Frequentemente Colocadas
 
 ### Que documentos preciso organizar para viagem em família?

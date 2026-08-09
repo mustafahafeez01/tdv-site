@@ -124,6 +124,8 @@ Führen Sie diese Checkliste durch, wenn Sie buchen - nicht die Nacht, bevor Sie
 
 Weitere Informationen zu spezifischen Themen finden Sie auf der [Reisedokument-Tipps](https://traveldocumentvault.com/de/) im Blog - es gibt ausführliche Artikel zu Reisepassverlängerungszeitplänen und was Sie über digitale Speicherung wissen müssen.
 
+**Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
+
 ## Häufig gestellte Fragen
 
 ### Welche Dokumente muss ich für Familienreisen organisieren?

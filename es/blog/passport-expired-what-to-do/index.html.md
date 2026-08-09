@@ -27,7 +27,7 @@ Esta situación es recuperable - pero qué tan recuperable depende de cuánto ti
 |---|---|---|---|
 | 10+ semanas | Solicita renovación estándar en línea inmediatamente | En línea a través de GOV.UK | En línea a través de travel.state.gov |
 | 6-10 semanas | Solicita inmediatamente, paga por procesamiento expedito | Fast Track 1 semana (en línea) | Expedito (+$60, ~5-7 semanas) |
-| Menos de 6 semanas | Llama a tu autoridad de pasaportes (no solo uses el sitio web) | 0300 222 0000 | 1-877-487-2778 |
+| Menos de 6 semanas | Llama a tu autoridad de pasaportes (no solo uses el sitio web) | la línea de atención de HM Passport Office | el National Passport Information Center de EE. UU. |
 | Menos de 2 semanas | Cita de emergencia (lleva prueba de viaje inminente) | Servicio Premium de mismo día | Agencia de pasaportes regional |
 
 Todas las principales autoridades de pasaportes retienen ranuras de cita de emergencia que no son visibles en línea. Si tu cronograma es ajustado, llama en lugar de confiar solo en el sitio web.
@@ -44,7 +44,7 @@ Este escenario sucede más a menudo de lo que la gente espera, y los pasos no so
 
 **Paso 3: Verifica si el viaje doméstico es posible.** Un pasaporte caducado aún puede ser aceptado como identificación para vuelos domésticos en algunos países, aunque esto no es garantizado. Si tu destino final es alcanzable por vía doméstica desde una ciudad más cercana, esto podría ser una opción mientras resuelves el pasaporte.
 
-**Paso 4: Contacta a tu autoridad de pasaportes por teléfono.** Explica tu situación. En el Reino Unido, llama al 0300 222 0000 y pregunta por la cita más temprana disponible en la oficina de pasaportes más cercana. En Estados Unidos, llama al 1-877-487-2778 y pregunta sobre citas de emergencia en la agencia regional de pasaportes más cercana. Existen opciones de mismo día y día siguiente para emergencias genuinas.
+**Paso 4: Contacta a tu autoridad de pasaportes por teléfono.** Explica tu situación. En el Reino Unido, llama al la línea de atención de HM Passport Office y pregunta por la cita más temprana disponible en la oficina de pasaportes más cercana. En Estados Unidos, llama al el National Passport Information Center de EE. UU. y pregunta sobre citas de emergencia en la agencia regional de pasaportes más cercana. Existen opciones de mismo día y día siguiente para emergencias genuinas.
 
 **Paso 5: Reserva alojamiento cerca de la oficina de pasaportes.** Si consigues una cita para el día siguiente, necesitas un lugar donde quedarte. Guarda los recibos - si tienes seguro de viaje, algunos de estos costos pueden ser reclamables.
 

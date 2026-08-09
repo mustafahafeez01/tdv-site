@@ -130,6 +130,8 @@ Her er hvad du skal gøre før din flyvning:
 
 Tyve minutter nu, og du leder ikke efter noget af det i en krise.
 
+**Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
+
 ## Ofte stillede spørgsmål
 
 ### Skal jeg tage min fysiske forsikringspolice med på rejse?

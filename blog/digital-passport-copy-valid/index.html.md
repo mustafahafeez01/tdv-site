@@ -58,13 +58,13 @@ The rules for visa applications are more flexible than borders, but still specif
 
 What this means in practice
 
-You're applying for a French visa. The official website says "certified copy". This means a certified photocopy from a notary public or government office. Not a casual phone photo. Submitting the wrong format leads to rejection and re-application delays. Contact the embassy to confirm acceptable formats before spending time on the application.
+You're applying for a French visa, and the official website says "certified copy". That means a certified photocopy from a notary public or government office, not a casual phone photo, and submitting the wrong format leads to rejection and re-application delays. Contact the embassy to confirm acceptable formats before you spend time on the application.
 
 Some embassies accept notarised digital scans submitted electronically, whilst others require physical certified copies or the original passport in person. Requirements vary so dramatically that you really need to check the official government website for the country you're applying to.
 
 ## How to Store Digital Copies Securely
 
-Passport copies contain sensitive identity information: your full name, date of birth, passport number, nationality, and photograph. A poorly stored digital copy creates the same identity theft risk as losing the physical document.
+Passport copies contain sensitive identity information, including your full name, date of birth, passport number, nationality, and photograph, so a poorly stored digital copy creates the same identity theft risk as losing the physical document itself.
 
 - **Use an encrypted app** designed for document storage, not regular cloud storage or email where files can be accessed if your account is compromised.
 - **Store multiple copies in different locations**: on your phone, with a trusted family member at home, and in a secure backup.
@@ -89,7 +89,7 @@ No. Airlines require the original, physical passport for boarding. A digital cop
 
 ### Are digital passport copies valid for visa applications?
 
-Most visa applications require certified photocopies or notarised scans. Not casual phone photos. Requirements vary by country and embassy. Check the official government website for the country where you are applying before submitting anything.
+Most visa applications require certified photocopies or notarised scans rather than casual phone photos. Requirements vary by country and embassy, so check the official government website for the country where you are applying before submitting anything.
 
 ### Can a digital passport copy help if my passport is lost or stolen abroad?
 

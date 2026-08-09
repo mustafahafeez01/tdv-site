@@ -124,6 +124,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-trav
 
 欲了解更多关于特定主题的信息，请查看博客上的[旅行文件提示](https://traveldocumentvault.com/zh-Hans/blog/) - 有关于护照续期时间表和数字存储知识的详细文章。
 
+**在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
+
 ## 常见问题解答
 
 ### 我需要为家庭旅行组织哪些文件？

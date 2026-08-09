@@ -130,6 +130,8 @@ Dit is wat je doet voordat je vlucht:
 
 Twintig minuten nu, en je bent nergens naar op zoek in een noodsituatie.
 
+**Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
+
 ## Veelgestelde vragen
 
 ### Moet ik mijn fysieke verzekeringspolisje meenemen op reis?

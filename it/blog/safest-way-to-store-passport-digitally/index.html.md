@@ -97,7 +97,7 @@ Tuttavia, questo design comporta una praticità ridotta poiché non puoi acceder
 | Funziona completamente offline | No (necessita sincronizzazione) | No (necessita sincronizzazione) | Sì |
 | Rischio di violazione remota | Medio (server di Apple) | Medio-Alto (server di Google + scansione dei contenuti) | Nessuno (nessuna archiviazione remota) |
 | Accesso multi-dispositivo | Automatico | Automatico | Solo backup manuale |
-| Costo | Gratuito (200GB), poi a pagamento | Gratuito (15GB), poi a pagamento | In genere acquisto una tantum ($9.99) |
+| Costo | Gratuito (200GB), poi a pagamento | Gratuito (15GB), poi a pagamento | In genere acquisto una tantum |
 | Progettato per documenti di identità | No | No | Sì |
 
 ## Quale Dovresti Scegliere?
@@ -115,6 +115,8 @@ La risposta dipende dalla tua tolleranza personale al rischio e dal tuo caso d'u
 Molte persone utilizzano un approccio ibrido: mantenendo una copia in iCloud o Google Photos per l'accesso quotidiano su più dispositivi, e una seconda copia in un'app crittografata dedicata come backup sicuro. Questo fornisce sia praticità che ridondanza. La chiave è comprendere i compromessi di ogni metodo e scegliere consapevolmente.
 
 Qualunque metodo scegli, ricorda che una copia digitale del tuo passaporto è sensibile come il documento fisico stesso - proteggila con la stessa cura e attenzione.
+
+**Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 
 ## Domande Frequenti
 

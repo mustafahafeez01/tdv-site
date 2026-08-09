@@ -61,10 +61,10 @@ Die Servicestandards liegen derzeit bei 10 Werktagen, wenn Sie persönlich in ei
 | Land / Methode | Pass behalten? | Internationale Reisen während Erneuerung? | Standardzeit |
 |---|---|---|---|
 | USA (per Post) | Ja (ungültig zurückgegeben) | Nein | 6-12 Wochen |
-| UK (postalisch) | Nein (vom HMPO gehalten) | Nein | Etwa 10 Wochen |
+| UK (postalisch) | Nein (vom HMPO gehalten) | Nein | Etwa 3 Wochen |
 | UK (digital) | Ja (Sie behalten ihn) | Ja (auf altem Pass) | 2-3 Wochen |
-| Australien | Nein (muss abgegeben werden) | Nein | 4-10 Wochen |
-| Kanada | Nein (muss abgegeben werden) | Nein | 5-10 Wochen |
+| Australien | Nein (muss abgegeben werden) | Nein | 4-3 Wochen |
+| Kanada | Nein (muss abgegeben werden) | Nein | 5-3 Wochen |
 
 ## Wenn Ihre Reise früher als der Erneuerungszeitraum stattfindet
 

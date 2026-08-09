@@ -27,7 +27,7 @@ Cette situation est récupérable - mais le degré de récupération dépend du 
 |---|---|---|---|
 | 10 semaines ou plus | Demandez un renouvellement standard en ligne immédiatement | En ligne via GOV.UK | En ligne via travel.state.gov |
 | 6 à 10 semaines | Demandez immédiatement, payez pour un traitement accéléré | 1-semaine Fast Track (en ligne) | Accéléré (+60 $, ~5 à 7 sem.) |
-| Moins de 6 semaines | Appelez votre autorité de délivrance de passeports (ne vous fiez pas seulement au site Web) | 0300 222 0000 | 1-877-487-2778 |
+| Moins de 6 semaines | Appelez votre autorité de délivrance de passeports (ne vous fiez pas seulement au site Web) | le service d'assistance de HM Passport Office | le National Passport Information Center des États-Unis |
 | Moins de 2 semaines | Rendez-vous d'urgence (apportez la preuve du voyage imminent) | Service Premium le même jour | Agence de passeport régionale |
 
 Toutes les grandes autorités de délivrance de passeports conservent des créneaux de rendez-vous d'urgence qui ne sont pas visibles en ligne. Si votre calendrier est serré, appelez plutôt que de ne vous fier qu'au site Web.
@@ -44,7 +44,7 @@ Ce scénario se produit plus souvent que les gens ne le pensent, et les étapes 
 
 **Étape 3 : Vérifiez si les voyages intérieurs sont possibles.** Un passeport expiré peut toujours être accepté comme pièce d'identité pour les vols intérieurs dans certains pays, bien que ce ne soit pas garanti. Si votre destination finale est accessible par voie aérienne intérieure depuis une ville plus proche, cela pourrait être une option pendant que vous réglez la question du passeport.
 
-**Étape 4 : Contactez votre autorité de délivrance de passeports par téléphone.** Expliquez votre situation. Au Royaume-Uni, appelez le 0300 222 0000 et demandez le rendez-vous disponible le plus proche au bureau de passeport le plus proche. Aux États-Unis, appelez le 1-877-487-2778 et renseignez-vous sur les rendez-vous d'urgence à l'agence régionale de passeport la plus proche. Les options le même jour et le lendemain existent pour les urgences authentiques.
+**Étape 4 : Contactez votre autorité de délivrance de passeports par téléphone.** Expliquez votre situation. Au Royaume-Uni, appelez le le service d'assistance de HM Passport Office et demandez le rendez-vous disponible le plus proche au bureau de passeport le plus proche. Aux États-Unis, appelez le le National Passport Information Center des États-Unis et renseignez-vous sur les rendez-vous d'urgence à l'agence régionale de passeport la plus proche. Les options le même jour et le lendemain existent pour les urgences authentiques.
 
 **Étape 5 : Réservez un hébergement près du bureau de passeport.** Si vous obtenez un rendez-vous pour le lendemain, vous avez besoin d'un endroit où rester. Conservez les reçus - si vous avez une assurance voyage, certains de ces coûts peuvent être remboursables.
 

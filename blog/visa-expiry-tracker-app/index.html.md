@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/blog/visa-expiry-tracker-app/
 
 A visa overstay is one of the most consequential travel mistakes a person can make. Unlike a missed flight - stressful but ultimately fixable - an overstay creates a formal immigration record that can follow you for years. In the United States, an overstay of just 180 days triggers an automatic 3-year bar on re-entry under INA section 212(a)(9)(B)(i), and an overstay of a year triggers a 10-year bar. These consequences are not widely known, but they are documented by the US Citizenship and Immigration Services.
 
-A visa expiry tracker app prevents this. It monitors multiple dates at once - entry validity, maximum stay, and entry count - in a way that generic passport apps cannot.
+A visa expiry tracker app is built to prevent this, because it monitors multiple dates at once - entry validity, maximum stay, and entry count - in a way that generic passport apps cannot.
 
 ## Why Visa Tracking Is More Complex Than Passport Tracking
 
@@ -35,15 +35,15 @@ A traveller enters Vietnam on a visa stamped "valid until 30 June" with "30-day 
 | **Number of entries** | Single, double, or multiple entries allowed | A single-entry visa is voided the moment you exit, even if the entry validity date hasn't passed |
 | **Rolling window rules** | Some visa regimes (notably Schengen) calculate permitted days within a rolling window | Schengen: maximum 90 days in any 180-day rolling window, not per calendar year |
 
-A tracker that only monitors the entry validity date misses the most common cause of accidental overstays: exceeding the maximum stay duration after a perfectly legal entry. This is the field most travellers fail to track, because the date is not stamped in the passport - you have to calculate it from the date of entry.
+A tracker that only monitors the entry validity date misses this exact trap: exceeding the maximum stay duration after a perfectly legal entry. It's the field most travellers fail to track, because the date is not stamped anywhere in the passport - you have to work it out from your own date of entry.
 
 ![Hand-drawn diagram of the three clocks on one visa: entry validity (enter before this date), maximum stay (how long you may remain), and entry count (single or multiple entries) - with a note that Schengen adds a fourth, the rolling 90/180 window, and that overstays can mean fines and re-entry bans](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/visa-three-clocks-figure.jpg) A visa is not one date. It is three separate clocks, and sometimes a fourth.
 
 ## The Schengen 90/180-Day Rule
 
-For travellers who visit multiple European countries, the Schengen Area's 90/180-day rule is the most widely misunderstood entry condition in international travel. Citizens of countries with visa-free access to Schengen (including the UK, US, Canada, and Australia, among many others) may spend a maximum of 90 days in the Schengen Area within any 180-day rolling window.
+For travellers who visit multiple European countries, the Schengen Area's 90/180-day rule is one of the most widely misunderstood entry conditions in international travel. Citizens of countries with visa-free access to Schengen (including the UK, US, Canada, and Australia, among many others) may spend a maximum of 90 days in the Schengen Area within any 180-day rolling window.
 
-The European Commission provides an official Schengen stay calculator to help travellers work out their allowed days. The critical point is that this is a *rolling window*, not a calendar-year reset. Days spent in Schengen six months ago still count against your current allowance.
+The European Commission provides an official Schengen stay calculator to help travellers work out their allowed days, which matters because this is a *rolling window*, not a calendar-year reset. Days spent in Schengen six months ago still count against your current allowance.
 
 Most generic passport or document apps do not handle this correctly. An app that simply displays a visa expiry date cannot manage Schengen compliance - it requires calculating days across a rolling window based on actual entry and exit dates.
 
@@ -60,7 +60,7 @@ In all cases, the overstay record typically follows you: it appears in immigrati
 
 ## What to Look for in a Visa Expiry Tracker App
 
-Given the complexity above, a good visa expiry tracker app needs to handle more than a simple date reminder. Evaluate apps on these criteria:
+With all that complexity in mind, a good visa expiry tracker app needs to handle more than a simple date reminder. When you compare apps, look for:
 
 - **Separate fields for entry validity and maximum stay:** These are different dates and need separate reminders.
 - **Entry count tracking:** Single vs. double vs. multiple-entry matters for whether the visa survives an exit and re-entry.

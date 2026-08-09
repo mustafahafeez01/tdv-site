@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take
 
 - How long passport renewal takes depends on where you live: Australia advises allowing at least 6 weeks, standard US processing runs 4-6 weeks (expedited 2-3 weeks), and the UK usually takes around 3 weeks.
 - Every country has an expedited option - but it costs extra, and "fast" still means days or weeks, not hours.
-- Peak travel seasons (Jan–March and June–August) regularly push real-world times well beyond the official estimates.
+- Peak travel seasons (Jan - March and June - August) regularly push real-world times well beyond the official estimates.
 - The safest rule: start the renewal process the moment your passport drops below 12 months of validity.
 - If you've got a trip booked and your passport is about to expire, call your passport authority directly - don't just browse the website.
 
@@ -30,8 +30,8 @@ The current processing times from the US State Department are as follows. Verify
 
 | Service Type | Processing Time | Additional Fee |
 |---|---|---|
-| Routine | 4–6 weeks | None |
-| Expedited | 2–3 weeks | $60 additional |
+| Routine | 4-6 weeks | None |
+| Expedited | 2-3 weeks | $60 additional |
 | Urgent (in-person agency appointment) | Days to 1 week | $60 additional + appointment required |
 
 Urgent agency appointments are available if you have documented travel within 14 calendar days, or need a foreign visa within 28 days. For genuine life-or-death emergencies, same-day appointments exist. Book at travel.state.gov and bring proof of travel - they won't see you without it.
@@ -55,9 +55,9 @@ HM Passport Office processes UK renewals. These are the typical timelines:
 | Online Digital Renewal | Varies | Eligible adults only; typically faster |
 | Premium (same-day) | Same day | Limited availability; appointment required at specific offices |
 
-The UK offers a digital renewal service for eligible adults applying from **within the UK**. If you qualify, you don't need to post your old passport. The application is completed online and is generally faster than the postal route. **If you are a UK citizen living abroad** (an expat), the digital service is not available to you. You must use the overseas passport service at GOV.UK, which does require posting your current passport to HMPO. Processing times for overseas applications can be longer than the standard 10-week UK estimate. Check GOV.UK for the correct service for your situation, which asks for your location at the start of the application.
+The UK offers a digital renewal service for eligible adults applying from **within the UK**. If you qualify, you don't need to post your old passport. The application is completed online and is generally faster than the postal route. **If you are a UK citizen living abroad** (an expat), the digital service is not available to you. You must use the overseas passport service at GOV.UK, which does require posting your current passport to HMPO. Processing times for overseas applications generally run longer than the three weeks HM Passport Office quotes for applications made in the UK. Check GOV.UK for the correct service for your situation, which asks for your location at the start of the application.
 
-That 10-week figure assumes everything goes smoothly. A name change, a first adult passport, or any application requiring extra checks will take longer. Children's passports can't use the digital service at all - they go through the standard process only. Before applying, check GOV.UK for current times relevant to your situation.
+That three-week guideline assumes everything goes smoothly. A name change, a first adult passport, or any application requiring extra checks will take longer. Children's passports can't use the digital service at all - they go through the standard process only. Before applying, check GOV.UK for current times relevant to your situation.
 
 ## How Long Does Passport Renewal Take in Australia?
 
@@ -82,7 +82,7 @@ Immigration, Refugees and Citizenship Canada (IRCC) processes passport renewals.
 | Mail-in (Service Canada) | 20 business days | Plus mailing time each way; recommended for non-urgent renewals |
 | In-person (Passport Canada office) | 10 business days | Appointment required at select offices |
 | Urgent (travel within 5 business days) | Same day or next day | Proof of travel required; in-person only |
-| Express (travel within 45 days) | 2–9 business days | In-person at a passport office |
+| Express (travel within 45 days) | 2-9 business days | In-person at a passport office |
 
 Canada doesn't offer online passport renewal. Every application either goes in the mail or walks through a Passport Canada office door. That makes the process more logistically demanding - especially if you live somewhere rural and the nearest passport office is hours away. Check IRCC's page for current processing times.
 
@@ -131,7 +131,7 @@ One more thing worth reading: the [6-month passport rule](https://traveldocument
 
 ### How long does passport renewal take in the US?
 
-Routine US passport renewal currently takes 4–6 weeks. Expedited processing cuts that to around 2–3 weeks for an extra $60. If your travel is within 14 days, you can book an urgent appointment at a regional passport agency - but you'll need proof of imminent travel. Check travel.state.gov for current times before applying.
+Routine US passport renewal currently takes 4-6 weeks. Expedited processing cuts that to around 2-3 weeks for an extra $60. If your travel is within 14 days, you can book an urgent appointment at a regional passport agency - but you'll need proof of imminent travel. Check travel.state.gov for current times before applying.
 
 ### How long does passport renewal take in the UK?
 

@@ -61,10 +61,10 @@ Les normes de service sont actuellement de 10 jours ouvrables si vous postulez e
 | Pays / Méthode | Conserver passeport ? | Voyages internationaux pendant le renouvellement ? | Délai standard |
 |---|---|---|---|
 | États-Unis (par courrier) | Oui (retourné annulé) | Non | 6 à 12 semaines |
-| Royaume-Uni (postal) | Non (en attente au HMPO) | Non | Environ 10 semaines |
+| Royaume-Uni (postal) | Non (en attente au HMPO) | Non | Environ 3 semaines |
 | Royaume-Uni (numérique) | Oui (vous le conservez) | Oui (sur ancien passeport) | 2 à 3 semaines |
-| Australie | Non (doit être remis) | Non | 4 à 10 semaines |
-| Canada | Non (doit être remis) | Non | 5 à 10 semaines |
+| Australie | Non (doit être remis) | Non | 4 à 3 semaines |
+| Canada | Non (doit être remis) | Non | 5 à 3 semaines |
 
 ## Si votre voyage est plus proche que votre délai de renouvellement
 
