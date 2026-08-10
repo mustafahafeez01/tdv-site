@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
+[Privatliv & sikkerhedKrypteret skybackup til rejsedokumenter: Hvem har nøglen?Hvad "krypteret backup" egentlig betyder for pas-scanninger, hvorfor en gendannelseskode ikke kan nulstilles af nogen, og hvordan du opbevarer en kopi, du rent faktisk kan gendanne.10. august 20268 min læsning](https://traveldocumentvault.com/da/blog/encrypted-cloud-backup-travel-documents/)
+
+##
+
 [RejseforberedelseRejseforsikringsdokumenter: Hvad skal du gemme før du tager af stedLær, hvilke rejseforsikringsdokumenter du skal gemme før du flyver, hvor du opbevarer dem offline, og hvordan du undgår almindelige fejl ved skadesanmeldelser, der koster tusinder af kroner.3. august 20269 min læsning](https://traveldocumentvault.com/da/blog/travel-insurance-documents/)
 
 ##

@@ -27,6 +27,7 @@ Every page listed below is also available as clean markdown: append `index.html.
 
 ## Blog posts
 
+- [Encrypted Cloud Backup for Travel Documents: Who Holds the Key](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/index.html.md)
 - [Travel Insurance Documents: What to Save Before You Go](https://traveldocumentvault.com/blog/travel-insurance-documents/index.html.md)
 - [Can You Travel with a Damaged Passport?](https://traveldocumentvault.com/blog/damaged-passport-travel/index.html.md)
 - [Family Passport Management: Store Multiple Passports Safely](https://traveldocumentvault.com/blog/family-passport-management/index.html.md)

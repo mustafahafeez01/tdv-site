@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 ##
 
+[Confidentialité et sécuritéSauvegarde cloud chiffrée pour vos documents de voyage : qui détient la cléCe que signifie vraiment une sauvegarde chiffrée pour vos scans de passeport, pourquoi un code de récupération ne peut être réinitialisé par personne, et comment garder une copie que vous pourrez réellement restaurer.10 août 20268 min de lecture](https://traveldocumentvault.com/fr/blog/encrypted-cloud-backup-travel-documents/)
+
+##
+
 [Préparation de voyageDocuments d'assurance voyage : ce qu'il faut sauvegarder avant de partirDécouvrez quels documents d'assurance voyage préparer avant votre vol, où les stocker hors ligne, et comment éviter les erreurs de réclamation qui coûtent des milliers.3 août 20269 min de lecture](https://traveldocumentvault.com/fr/blog/travel-insurance-documents/)
 
 ##

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
+[Privacy & beveiligingVersleutelde back-up in de cloud voor reisdocumenten: wie heeft de sleutelWat een versleutelde back-up echt betekent voor paspoortscans, waarom niemand een herstelcode kan resetten, en hoe je een kopie bewaart die je ook echt kunt terugzetten.10 augustus 20268 min leestijd](https://traveldocumentvault.com/nl/blog/encrypted-cloud-backup-travel-documents/)
+
+##
+
 [ReisvoorbereidingVerzekeringsdocumenten voor reizen: Wat je moet opslaan voordat je vertrektLeer welke verzekeringsdocumenten je moet bewaren voordat je vliegt, waar je ze offline kunt opslaan en hoe je veelvoorkomende fouten kunt vermijden die duizenden kosten.3 augustus 20269 min leestijd](https://traveldocumentvault.com/nl/blog/travel-insurance-documents/)
 
 ##

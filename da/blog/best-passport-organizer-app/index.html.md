@@ -1,6 +1,6 @@
-# Bedste app til opbevaring af pas: vælg lokal lagring, ikke cloud
+# Bedste app til pas og rejsedokumenter for hele familien
 
-> De fleste pas-apps uploader dine scanninger til en virksomheds server. Tjek i stedet: lokal lagring på enheden, reel kryptering og udløbspåmindelser for hver rejsende.
+> Fire pas, fire udløbsdatoer, én app. Det bør du tjekke, før du betror den din families scanninger, og hvorfor lagring på enheden betyder noget.
 
 Source: https://traveldocumentvault.com/da/blog/best-passport-organizer-app/
 
@@ -37,9 +37,11 @@ Ingen af tilgangene er forkert i sig selv, men for identitetsdokumenter så føl
 
 Dette er den enkeltstående mest værdifulde funktion. En påmindelse ved 6 måneder er minimum - mange lande kræver, at dit pas er gyldigt i mindst 6 måneder efter dine rejsedatoer, som forklaret i vores artikel om [6-måneders-reglen for pas](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/). For familier med børn, hvis pas udløber efter 5 år i stedet for 10, giver en tidligere påmindelse - for eksempel 9 måneder i forvejen - mere behagelig tid til planlægning.
 
-### Flere rejsende i én app
+### Sikker opbevaring af flere familiemedlemmers pas i én app
 
 En familie på fire ønsker ikke fire separate apps. De bedste apps til opbevaring af pas behandler hver person som sin egen profil med egne dokumenter, udløbsdatoer og påmindelser. Det lyder indlysende, men overraskende mange apps er bygget op omkring én enkelt persons dokumenter.
+
+Det er kun sandt, hvis appen holder alt på enheden og bag en lås. Hver rejsende har brug for sin egen profil frem for én fælles bunke af scanninger, og intet bør ligge i en cloud-mappe, som andre kan åbne. En enhedslås foran hele boksen - hvad enten det er Face ID, Touch ID eller en PIN-kode - betyder, at én telefon kan rumme hele familiens dokumenter, uden at nogen af dem nogensinde forlader den.
 
 ### Offline-adgang
 
@@ -97,6 +99,10 @@ Er svaret "ja" til alle ni, har du fat i en reelt troværdig app. For hvert "nej
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
 ## Ofte stillede spørgsmål
+
+### Kan én app sikkert opbevare pas for flere familiemedlemmer?
+
+Ja, så længe hver person får sin egen profil, og alt forbliver på enheden i stedet for på en fælles server. Det hjælper også, hvis hver rejsende får sine egne udløbspåmindelser, og at en lås - Face ID, Touch ID eller en PIN-kode - står mellem enhver, der samler telefonen op, og dokumenterne indeni. Det er det, der gør, at én telefon kan bære hele familiens pas uden at uploade nogen af dem nogen steder.
 
 ### Hvad er en app til opbevaring af pas?
 

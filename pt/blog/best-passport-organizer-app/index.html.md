@@ -1,6 +1,6 @@
-# Aplicação para Organizar Passaportes - Guia Prático
+# Melhor aplicação para passaportes e documentos de viagem da família
 
-> Comparar aplicações para organizar passaportes. Saiba por que o armazenamento offline e a encriptação AES-256-GCM importam para documentos de viagem.
+> Quatro passaportes, quatro datas de validade, uma só aplicação. O que verificar antes de lhe confiar as digitalizações da família e porque o armazenamento no dispositivo importa.
 
 Source: https://traveldocumentvault.com/pt/blog/best-passport-organizer-app/
 
@@ -37,9 +37,11 @@ Nenhuma abordagem é universalmente "errada," mas para documentos de identidade 
 
 Esta é a funcionalidade mais valiosa. Um aviso com 6 meses é o mínimo - muitos países exigem validade do passaporte de pelo menos 6 meses além das suas datas de viagem, como explicado no nosso artigo sobre a [regra dos 6 meses do passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/). Para famílias com filhos, cujos passaportes expiram após 5 anos em vez de 10, um aviso mais cedo - digamos 9 meses - dá mais tempo confortável de planeamento.
 
-### Múltiplos viajantes numa única aplicação
+### Armazenar em segurança os passaportes de vários membros da família numa única aplicação
 
 Uma família de quatro não quer quatro aplicações separadas. As melhores aplicações para organizar passaportes tratam cada pessoa como um perfil separado, com os seus próprios documentos, datas de validade e avisos. Isto parece óbvio mas um número surpreendente de aplicações é construído em torno de documentos de uma única pessoa.
+
+Isto só é verdade se a aplicação mantiver tudo no dispositivo e protegido por um bloqueio. Cada viajante precisa do seu próprio perfil, em vez de uma pilha partilhada de digitalizações, e nada deve ficar guardado numa pasta na nuvem que outra pessoa possa abrir. Um bloqueio de dispositivo à frente de todo o cofre, seja Face ID, Touch ID ou um PIN, significa que um único telefone pode conter os documentos de toda a família sem que nenhum deles alguma vez saia dele.
 
 ### Acesso offline
 
@@ -97,6 +99,10 @@ Se as nove respostas são "sim", tem uma aplicação genuinamente confiável. Po
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
 ## Perguntas Frequentes
+
+### Uma única aplicação pode guardar em segurança os passaportes de vários membros da família?
+
+Sim, desde que cada pessoa tenha o seu próprio perfil e tudo permaneça no dispositivo em vez de num servidor partilhado. Também ajuda se cada viajante tiver os seus próprios avisos de expiração, com um bloqueio, Face ID, Touch ID ou um PIN, entre qualquer pessoa que pegue no telefone e os documentos guardados nele. É isso que permite que um único telefone contenha os passaportes de toda a família sem carregar nenhum deles para lado nenhum.
 
 ### O que é uma aplicação para organizar passaportes?
 

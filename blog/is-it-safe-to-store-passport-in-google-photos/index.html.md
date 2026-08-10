@@ -141,6 +141,8 @@ At a structural level, they're very similar. Both store photos on cloud servers 
 
 ## Related Articles
 
+[Privacy & Security8 min readEncrypted Cloud Backup for Travel Documents: Who Holds the Key](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/)
+
 [Organisation7 min read · Feb 5, 2026How to Organise Family Travel Documents (Before Your Next Trip)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
 
 [Founder Story7 min read · Jan 3, 2026Why I Built Travel Document Vault: For the Parent Who Remembers Everything](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/)

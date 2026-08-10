@@ -1,6 +1,6 @@
-# Beste paspoortorganizer-app: kies voor opslag op je toestel, niet de cloud
+# Beste app voor paspoorten en reisdocumenten van het hele gezin
 
-> De meeste paspoort-apps uploaden je scans naar een bedrijfsserver. Waar je op moet letten: opslag op je toestel, echte versleuteling en vervalherinneringen per reiziger.
+> Vier paspoorten, vier vervaldatums, één app. Wat je controleert voordat je hem de scans van je gezin toevertrouwt, en waarom opslag op je toestel uitmaakt.
 
 Source: https://traveldocumentvault.com/nl/blog/best-passport-organizer-app/
 
@@ -37,9 +37,11 @@ Geen van beide benaderingen is per definitie "fout", maar voor identiteitsdocume
 
 Dit is verreweg de waardevolste functie. Een herinnering op 6 maanden is het minimum - veel landen eisen dat je paspoort nog minstens 6 maanden geldig is na je reisdata, zoals we uitleggen in ons artikel over de [6 maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/). Voor gezinnen met kinderen, van wie paspoorten na 5 jaar verlopen in plaats van 10, geeft een eerdere herinnering - bijvoorbeeld 9 maanden van tevoren - meer comfortabele planningstijd.
 
-### Meerdere reizigers in één app
+### De paspoorten van meerdere gezinsleden veilig bewaren in één app
 
 Een gezin van vier zit niet te wachten op vier losse apps. De beste paspoortorganizer-apps behandelen elke persoon als een apart profiel, met eigen documenten, vervaldatums en herinneringen. Dat klinkt vanzelfsprekend, maar verrassend veel apps zijn gebouwd rond de documenten van één enkele persoon.
+
+Dat klopt alleen als de app alles op het toestel bewaart en achter een vergrendeling houdt. Elke reiziger heeft een eigen profiel nodig in plaats van één gedeelde stapel scans, en niets zou in een cloudmap moeten staan die iemand anders kan openen. Een vergrendeling voor de hele kluis - of dat nu Face ID, Touch ID of een PIN is - zorgt ervoor dat één telefoon de documenten van het hele gezin kan bevatten zonder dat er ook maar iets van naar buiten gaat.
 
 ### Offline toegang
 
@@ -97,6 +99,10 @@ Zijn negen van deze antwoorden "ja", dan heb je een werkelijk betrouwbare app te
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
 ## Veelgestelde vragen
+
+### Kan één app veilig de paspoorten van meerdere gezinsleden bewaren?
+
+Ja, zolang iedereen een eigen profiel heeft en alles op het toestel blijft in plaats van op een gedeelde server. Het helpt ook als elke reiziger zijn eigen vervalherinneringen krijgt, met een vergrendeling - Face ID, Touch ID of een PIN - die tussen de documenten en iedereen staat die de telefoon oppakt. Dat is wat het mogelijk maakt dat één telefoon de paspoorten van het hele gezin bevat, zonder dat er ook maar één ergens wordt geüpload.
 
 ### Wat is een paspoortorganizer-app?
 

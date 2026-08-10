@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
+[隐私与安全旅行证件加密云备份：密钥掌握在谁手中了解加密备份对护照扫描件到底意味着什么、为什么恢复码任何人都无法重置，以及如何保留一份真正能还原的备份。2026年8月10日8 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/encrypted-cloud-backup-travel-documents/)
+
+##
+
 [旅行准备旅行保险文件：出发前该保存什么了解出发前应该保存哪些旅行保险文件、如何离线存储它们，以及如何避免可能导致索赔被拒的常见错误。2026年8月3日9 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/travel-insurance-documents/)
 
 ##

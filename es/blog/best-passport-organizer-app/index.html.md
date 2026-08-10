@@ -1,6 +1,6 @@
-# La mejor app organizadora de pasaportes: Guía práctica
+# La mejor app de pasaportes y documentos de viaje para la familia
 
-> La mejor aplicación organizadora de pasaportes. Descubre qué funciones importan y por qué el almacenamiento sin conexión y cifrado son imprescindibles.
+> Cuatro pasaportes, cuatro fechas de caducidad, una sola app. Qué comprobar antes de confiarle los escaneos de tu familia y por qué importa que se guarden en el dispositivo.
 
 Source: https://traveldocumentvault.com/es/blog/best-passport-organizer-app/
 
@@ -37,9 +37,11 @@ Ninguno de estos enfoques es universalmente "incorrecto", pero para documentos d
 
 Esta es la función individual más valiosa. Un recordatorio a los 6 meses es el mínimo - muchos países requieren que tu pasaporte sea válido durante al menos 6 meses más allá de tus fechas de viaje, como se explica en nuestro artículo sobre la [regla de 6 meses del pasaporte](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/). Para familias con niños, cuyos pasaportes vencen después de 5 años en lugar de 10, un recordatorio anterior - digamos 9 meses antes - da más tiempo de planificación cómodo.
 
-### Múltiples viajeros bajo una aplicación
+### Guardar los pasaportes de varios miembros de la familia de forma segura en una sola aplicación
 
 Una familia de cuatro no quiere cuatro aplicaciones separadas. Las mejores aplicaciones organizadoras de pasaportes tratan a cada persona como un perfil separado, con sus propios documentos, fechas de vencimiento, y recordatorios. Esto suena obvio pero un número sorprendente de aplicaciones están construidas alrededor de los documentos de una sola persona.
+
+Eso solo es cierto si la aplicación guarda todo en el dispositivo y detrás de un bloqueo. Cada viajero necesita su propio perfil, en lugar de un único montón de escaneos compartido, y nada debería quedar guardado en una carpeta en la nube que cualquier otra persona pudiera abrir. Un bloqueo del dispositivo delante de todo el almacén de documentos, ya sea Face ID, Touch ID o un PIN, permite que un solo teléfono guarde los documentos de toda la familia sin que ninguno de ellos salga de él.
 
 ### Acceso sin conexión
 
@@ -97,6 +99,10 @@ Si nueve de estas respuestas son "sí", tienes una aplicación genuinamente conf
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
 ## Preguntas frecuentes
+
+### ¿Puede una sola aplicación guardar de forma segura los pasaportes de varios miembros de la familia?
+
+Sí, siempre que cada persona tenga su propio perfil y todo se quede en el dispositivo en lugar de en un servidor compartido. También ayuda que cada viajero tenga sus propios recordatorios de vencimiento, con un bloqueo, Face ID, Touch ID o un PIN, entre cualquiera que coja el teléfono y los documentos que contiene. Eso es lo que permite que un solo teléfono lleve los pasaportes de toda la familia sin subir ninguno de ellos a ningún sitio.
 
 ### ¿Qué es una aplicación organizadora de pasaportes?
 

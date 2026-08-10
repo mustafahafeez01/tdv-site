@@ -144,6 +144,8 @@ For families, a dedicated encrypted app that stores documents for multiple peopl
 
 ## Related Articles
 
+[Privacy & Security8 min readEncrypted Cloud Backup for Travel Documents: Who Holds the Key](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/)
+
 [Privacy & Security5 min readIs It Safe to Store Your Passport in Google Photos?](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/)
 
 [Passport Rules6 min readIs a Digital Passport Copy Valid for Travel? What Officials Actually Accept](https://traveldocumentvault.com/blog/digital-passport-copy-valid/)

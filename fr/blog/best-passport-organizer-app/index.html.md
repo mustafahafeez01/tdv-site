@@ -1,6 +1,6 @@
-# Meilleure application d'organisation des passeports
+# Meilleure application passeports et documents de voyage en famille
 
-> Trouver la meilleure appli d'organisation des passeports. Pourquoi stockage hors ligne et AES-256-GCM importent pour sécurité.
+> Quatre passeports, quatre dates d'expiration, une seule appli. Ce qu'il faut vérifier avant de lui confier les scans de votre famille, et pourquoi le stockage local compte.
 
 Source: https://traveldocumentvault.com/fr/blog/best-passport-organizer-app/
 
@@ -37,9 +37,11 @@ Aucune des deux approches n'est universellement "incorrecte", mais pour les docu
 
 C'est la seule fonctionnalité la plus précieuse. Un rappel à 6 mois est le minimum - de nombreux pays exigent la validité du passeport pendant au moins 6 mois au-delà de vos dates de voyage, comme expliqué dans notre article sur la [règle des 6 mois du passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/). Pour les familles avec des enfants dont les passeports expirent après 5 ans plutôt que 10, un rappel antérieur - disons 9 mois - offre un temps de planification plus confortable.
 
-### Plusieurs voyageurs dans une application
+### Stocker en toute sécurité les passeports de plusieurs membres de la famille dans une seule application
 
 Une famille de quatre ne veut pas quatre applications distinctes. Les meilleures applications d'organisation des passeports traitent chaque personne comme un profil séparé, avec ses propres documents, dates d'expiration et rappels. Cela semble évident mais un nombre surprenant d'applications sont construites autour des documents d'une seule personne.
+
+Cela n'est vrai que si l'application garde tout sur l'appareil et derrière un verrou. Chaque voyageur a besoin de son propre profil plutôt que d'un tas de scans partagé, et rien ne doit se trouver dans un dossier cloud qu'une autre personne pourrait ouvrir. Un verrou protégeant l'ensemble de l'application, qu'il s'agisse de Face ID, Touch ID ou d'un code PIN, permet à un seul téléphone de contenir les documents de toute la famille sans qu'aucun d'eux n'en sorte.
 
 ### Accès hors ligne
 
@@ -97,6 +99,10 @@ Si neuf de ces réponses sont "oui", vous avez une application véritablement fi
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
 ## Questions fréquemment posées
+
+### Une seule application peut-elle stocker en toute sécurité les passeports de plusieurs membres d'une famille ?
+
+Oui, à condition que chaque personne dispose de son propre profil et que tout reste sur l'appareil plutôt que sur un serveur partagé. Il est également utile que chaque voyageur ait ses propres rappels d'expiration, avec un verrou - Face ID, Touch ID ou un code PIN - entre quiconque prend le téléphone en main et les documents qu'il contient. C'est ce qui permet à un seul téléphone de transporter les passeports de toute la famille sans en télécharger aucun nulle part.
 
 ### Qu'est-ce qu'une application d'organisation des passeports ?
 

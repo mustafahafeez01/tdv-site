@@ -1,6 +1,6 @@
-# Best Passport Organizer App: Choose On-Device, Not Cloud
+# Best Passport and Travel Document App for Families
 
-> Most passport apps upload your scans to a company server. What to check instead: on-device storage, real encryption, and expiry reminders per traveller.
+> Four passports, four expiry dates, one app. What to check before trusting a travel document organizer with your family's scans, and why on-device storage matters.
 
 Source: https://traveldocumentvault.com/blog/best-passport-organizer-app/
 
@@ -39,9 +39,11 @@ Neither approach is universally "wrong," but for identity documents as sensitive
 
 This is the single most valuable feature. A reminder at 6 months is the minimum - many countries require passport validity for at least 6 months beyond your travel dates, as explained in our article on the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). For families with children, whose passports expire after 5 years rather than 10, an earlier reminder - say 9 months out - gives more comfortable planning time.
 
-### Multiple travellers under one app
+### Storing multiple family members' passports safely in one app
 
 A family of four does not want four separate apps. The best passport organizer apps treat each person as a separate profile, with their own documents, expiry dates, and reminders. This sounds obvious but a surprising number of apps are built around a single person's documents.
+
+That's only true if the app keeps everything on the device and behind a lock. Each traveller needs a profile of their own rather than one shared pile of scans, and nothing should be sitting in a cloud folder that anyone else could open. A device lock in front of the whole vault, whether that's Face ID, Touch ID or a PIN, means one phone can hold the whole family's documents without any of them leaving it.
 
 ### Offline access
 
@@ -99,6 +101,10 @@ If nine of these answers are "yes", you've got a genuinely trustworthy app - for
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
 ## Frequently Asked Questions
+
+### Can one app safely hold passports for several family members?
+
+Yes, as long as each person gets their own profile and everything stays on the device instead of a shared server. It also helps if each traveller gets their own expiry reminders, with a lock, Face ID, Touch ID or a PIN, standing between anyone who picks up the phone and the documents inside. That's what lets one phone carry the whole family's passports without uploading any of them anywhere.
 
 ### What is a passport organizer app?
 

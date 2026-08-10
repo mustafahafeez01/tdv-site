@@ -1,6 +1,6 @@
-# Bästa appen för att organisera pass: välj lagring på enheten, inte molnet
+# Bästa appen för pass och resehandlingar för hela familjen
 
-> De flesta passappar laddar upp dina skanningar till en företagsserver. Så här väljer du i stället: lagring på enheten, verklig kryptering och individuella påminnelser om utgångsdatum.
+> Fyra pass, fyra utgångsdatum, en app. Det här bör du kontrollera innan du anförtror den dina familjeskanningar, och varför lagring på enheten spelar roll.
 
 Source: https://traveldocumentvault.com/sv/blog/best-passport-organizer-app/
 
@@ -37,9 +37,11 @@ Inget av alternativen är fel rakt av, men för identitetshandlingar så känsli
 
 Det här är den enskilt mest värdefulla funktionen. En påminnelse vid 6 månader är minimum - många länder kräver att passet är giltigt minst 6 månader efter dina resdatum, vilket vi förklarar i vår artikel om [6-månadersregeln för pass](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/). För familjer med barn, vars pass går ut efter 5 år i stället för 10, ger en tidigare påminnelse - säg 9 månader i förväg - mer bekväm tid för planering.
 
-### Flera resenärer i en och samma app
+### Säker lagring av hela familjens pass i en och samma app
 
 En familj på fyra vill inte ha fyra separata appar. De bästa apparna för att organisera pass behandlar varje person som en egen profil, med egna handlingar, utgångsdatum och påminnelser. Det låter självklart, men förvånansvärt många appar är byggda kring en enda persons handlingar.
+
+Det stämmer bara om appen håller allt på enheten och bakom ett lås. Varje resenär behöver en egen profil i stället för en gemensam hög med skanningar, och inget bör ligga i en molnmapp som någon annan kan öppna. Ett lås framför hela valvet - vare sig det är Face ID, Touch ID eller en PIN-kod - gör att en enda telefon kan hålla hela familjens handlingar utan att någon av dem någonsin lämnar den.
 
 ### Offlineåtkomst
 
@@ -97,6 +99,10 @@ Svarar du ja på alla nio är det ett genuint pålitligt val. För varje nej, fu
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
 ## Vanliga frågor
+
+### Kan en app säkert lagra pass för flera familjemedlemmar?
+
+Ja, så länge varje person får en egen profil och allt stannar på enheten i stället för på en delad server. Det hjälper också om varje resenär får egna påminnelser om utgångsdatum, med ett lås - Face ID, Touch ID eller en PIN-kod - mellan den som plockar upp telefonen och handlingarna inuti. Det är det som gör att en enda telefon kan bära hela familjens pass utan att någon av dem laddas upp någonstans.
 
 ### Vad är en app för att organisera pass?
 

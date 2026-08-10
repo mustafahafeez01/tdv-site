@@ -1,6 +1,6 @@
-# Aplikasi Pengatur Paspor Terbaik: Pilih Penyimpanan di Perangkat, Bukan Cloud
+# Aplikasi Paspor dan Dokumen Perjalanan Terbaik untuk Keluarga
 
-> Kebanyakan aplikasi paspor mengunggah hasil pindaian Anda ke server perusahaan. Yang perlu diperiksa: penyimpanan di perangkat, enkripsi sungguhan, dan pengingat kedaluwarsa per pelancong.
+> Empat paspor, empat tanggal kedaluwarsa, satu aplikasi. Yang perlu Anda periksa sebelum memercayakan hasil pindaian keluarga, dan mengapa penyimpanan di perangkat penting.
 
 Source: https://traveldocumentvault.com/id/blog/best-passport-organizer-app/
 
@@ -37,9 +37,11 @@ Tidak ada satu pun pendekatan yang selalu "salah", tetapi untuk dokumen identita
 
 Ini adalah fitur paling berharga. Pengingat 6 bulan sebelumnya adalah standar minimum - banyak negara mensyaratkan paspor tetap berlaku setidaknya 6 bulan setelah tanggal perjalanan Anda, seperti dijelaskan dalam artikel kami tentang [aturan paspor 6 bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/). Untuk keluarga dengan anak-anak, yang paspornya kedaluwarsa setelah 5 tahun alih-alih 10 tahun, pengingat lebih awal - misalnya 9 bulan sebelumnya - memberi waktu perencanaan yang lebih nyaman.
 
-### Beberapa pelancong dalam satu aplikasi
+### Menyimpan paspor beberapa anggota keluarga dengan aman dalam satu aplikasi
 
 Keluarga beranggotakan empat orang tidak ingin menggunakan empat aplikasi terpisah. Aplikasi pengatur paspor terbaik memperlakukan setiap orang sebagai profil terpisah, dengan dokumen, tanggal kedaluwarsa, dan pengingatnya masing-masing. Kedengarannya sudah jelas, tetapi cukup banyak aplikasi yang justru dirancang hanya untuk dokumen satu orang.
+
+Namun hal itu hanya benar jika aplikasi menyimpan semuanya di perangkat dan di balik sebuah kunci. Setiap pelancong membutuhkan profilnya sendiri, bukan satu tumpukan hasil pindaian yang dibagi bersama, dan tidak ada yang boleh tersimpan di folder cloud yang bisa dibuka orang lain. Kunci perangkat di depan seluruh vault, baik itu Face ID, Touch ID, atau PIN, berarti satu ponsel bisa menyimpan dokumen seluruh keluarga tanpa satu pun di antaranya pernah meninggalkan ponsel itu.
 
 ### Akses luring
 
@@ -97,6 +99,10 @@ Jika sembilan jawaban ini semuanya "ya", Anda sudah mendapat aplikasi yang benar
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
 ## Pertanyaan yang Sering Diajukan
+
+### Bisakah satu aplikasi menyimpan paspor beberapa anggota keluarga dengan aman?
+
+Ya, selama setiap orang mendapat profilnya sendiri dan semuanya tetap tersimpan di perangkat, bukan di server bersama. Akan lebih baik lagi jika setiap pelancong mendapat pengingat kedaluwarsanya sendiri, dengan sebuah kunci, Face ID, Touch ID, atau PIN, yang berdiri di antara siapa pun yang mengambil ponsel itu dan dokumen di dalamnya. Itulah yang memungkinkan satu ponsel membawa paspor seluruh keluarga tanpa mengunggah satu pun ke mana pun.
 
 ### Apa itu aplikasi pengatur paspor?
 
