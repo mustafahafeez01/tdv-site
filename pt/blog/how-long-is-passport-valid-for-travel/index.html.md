@@ -72,7 +72,7 @@ A resposta prática: quando ficar com menos de 12 meses de validade restante.
 Eis por que 12 meses é o limiar certo e não a data de expiração em si:
 
 - Dá-lhe uma margem de segurança completa de 6 meses para qualquer destino que aplique a regra.
-- A renovação de passaporte demora tempo: a renovação de passaporte do Reino Unido normalmente demora cerca de 3 semanas (e o HM Passport Office aconselha a não marcar viagens até o novo passaporte chegar) e o processamento padrão dos EUA demora 4-6 semanas, por isso começar com 6 meses de validade deixa pouca margem.
+- A renovação de passaporte demora tempo, e os tempos de processamento mudam - o HM Passport Office aconselha a não marcar viagens até o novo passaporte chegar, e tanto este como o Departamento de Estado dos EUA publicam os seus tempos de processamento atuais. Por isso começar com 6 meses de validade deixa pouca margem.
 - Planos de última hora acontecem. Um passaporte com 14 meses de validade mantém todos os destinos abertos. Um passaporte com 5 meses de validade fecha uma grande parte do mundo.
 
 O erro mais comum é definir um lembrete na data de expiração em si. Nesse momento, não pode viajar para a maioria dos destinos que aplicam a regra dos 6 meses. **Defina o seu lembrete de renovação na marca dos 12 meses.**
@@ -93,7 +93,7 @@ Para a maioria dos destinos europeus, sim - o seu passaporte apenas precisa de s
 
 ### Quando devo renovar o meu passaporte?
 
-Renove quando ficar com menos de 12 meses de validade restante. Isto dá-lhe uma margem para a regra dos 6 meses e tem em conta o tempo que a renovação demora - normalmente cerca de 3 semanas no Reino Unido e 4-6 semanas nos EUA, mais em períodos movimentados.
+Renove quando ficar com menos de 12 meses de validade restante. Isto dá-lhe uma margem para a regra dos 6 meses e tem em conta o tempo que a renovação demora - varia consoante o país e a época do ano; o HM Passport Office e o Departamento de Estado dos EUA publicam ambos os seus tempos de processamento atuais.
 
 ### Os passaportes de crianças expiram mais rápido do que os de adultos?
 

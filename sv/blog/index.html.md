@@ -24,19 +24,19 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
-[Familjeresor Schengen-reglerna för familjeresor: Det föräldrar ofta får fel Schengen kräver 3 månaders giltighet efter avresa, inte 6 - och barnpass löper ut efter 5 år. Vad familjer måste kontrollera dagen de bokar. 10 juli 20266 min](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
+[Familjeresor Schengens passregler för familjeresor: det här missar föräldrar Schengen kräver 3 månaders giltighet efter avresa, inte 6 - och barns pass går ut efter 5 år. Det här bör familjer kolla samma dag de bokar. 10 juli 20266 min](https://traveldocumentvault.com/sv/blog/schengen-passport-rules-family-trips/)
 
 ##
 
-[Visum & Inresa Ditt 90-dagars Schengen-fönster: Räkna dagar i EES-eran Europas EES-gränssystem registrerar dina Schengen-dagar automatiskt - men det tillämpar, det planerar inte. Hur du spårar ditt rullande 90/180-fönster. 7 juli 20266 min](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/)
+[Visum & Inresa Ditt 90-dagarsfönster i Schengen: att räkna dagar i EES-eran EES loggar varje Schengen-inresa och utresa och flaggar överstigningar automatiskt, men ingen portal visar dina kvarvarande dagar. Så räknar du ditt eget 90/180-fönster. 7 juli 20266 min](https://traveldocumentvault.com/sv/blog/schengen-90-days-auto-tracked-ees/)
 
 ##
 
-[Reseverktyg TripCase Alternativ: Varför Dina Resedokument Måste Vara Offline TripCase stängde och raderade användardata. En ärlig karta över alternativ för flygaviseringar, routning och dokument - och varför offline-lagring vinner. 4 juli 20267 min](https://traveldocumentvault.com/blog/tripcase-alternative/)
+[Reseverktyg TripCase-alternativ: varför dina resehandlingar behöver fungera offline TripCase stängde ner 2025. Vad du kan använda i stället för resplaner och resehandlingar, och varför förvaring offline är säkrare. 4 juli 20267 min](https://traveldocumentvault.com/sv/blog/tripcase-alternative/)
 
 ##
 
-[Resförberedelse Resedokument Du Glömmer (och Var Du Ska Förvara Dem) Medgivandebrev, vaccinationsbevis, returresebewijs - dokument som familjer glömmer vid incheckning. En praktisk strategi: vad du tar med dig, vad du sparar som reservkopior. 4 juli 20267 min](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/)
+[Resförberedelse Resehandlingarna folk glömmer (och var ni ska förvara varje en) Resehandlingarna de flesta glömmer bort, och var ni bör bära dem med er kontra förvara dem. Bortglömda samtyckesbrev, vaccinationsbevis och säkerhetskopior. 4 juli 20267 min](https://traveldocumentvault.com/sv/blog/what-documents-to-carry-when-travelling-internationally/)
 
 ##
 
@@ -44,19 +44,19 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
-[Visum & Inresa ETIAS 2026: Vilka Dokument Du Behöver och Hur Du Ansöker ETIAS lanseras för visumfria resenärer som reser till Europa. Här är vem som behöver det, vilka dokument du måste skicka in, vanliga avslags orsaker och hur du hanterar ett avslagsbeslut. 8 maj 20268 min läsning](https://traveldocumentvault.com/blog/etias-documents-2026/)
+[Visum & Inresa ETIAS 2026: vilka handlingar du behöver och hur du ansöker Besökare från Storbritannien, USA och Kanada behöver ETIAS från 2026. Pass giltigt i minst 3 månader, e-postadress, valfritt inkomstbevis. Kontrollera EU:s officiella webbplats för aktuell avgift och tidplan. 8 maj 20268 min läsning](https://traveldocumentvault.com/sv/blog/etias-documents-2026/)
 
 ##
 
-[Familjeresor Ressamtycke för barn: När du behöver det och vad det måste innehålla Reser med ett barn utan båda föräldrarna? Vissa gränser stoppar dig utan ett samtyckesbrev. Här är när du behöver det, vad det måste innehålla och vanliga misstag. 5 maj 20268 min läsning](https://traveldocumentvault.com/blog/child-travel-consent-letter/)
+[Familjeresor Samtyckesbrev för barns resor: när du behöver ett och vad det måste innehålla Behöver du ett samtyckesbrev för barns resor? När det krävs, vad det måste innehålla, och misstagen som skapar problem vid gränsen. 5 maj 20268 min läsning](https://traveldocumentvault.com/sv/blog/child-travel-consent-letter/)
 
 ##
 
-[Passregler Hur länge är ett pass giltigt för resor? De flesta vuxenpasport är giltiga i 10 år, men det effektiva resefönstret är ofta kortare. Så här beräknas giltighetsmånader. 30 apr. 20266 min](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/)
+[Passregler Hur länge är ett pass giltigt för resor? De flesta vuxenpass gäller i 10 år, men ditt resefönster är ofta kortare. Lär dig hur passets giltighetstid räknas och när du bör förnya det. 30 apr. 20266 min](https://traveldocumentvault.com/sv/blog/how-long-is-passport-valid-for-travel/)
 
 ##
 
-[Passregler Passfoto hemma: hur du får det godkänt direkt Så får du ditt passfoto godkänt första gången: bakgrund, belysning, ansiktsuttryck och avvisningsorsaker som fångar många. 29 apr. 20267 min](https://traveldocumentvault.com/blog/passport-photo-at-home/)
+[Passregler Så tar du ett passfoto hemma som blir godkänt Så får du ditt passfoto godkänt direkt: bakgrund, belysning, uttryck och de vanligaste orsakerna till avslag. 29 apr. 20267 min](https://traveldocumentvault.com/sv/blog/passport-photo-at-home/)
 
 ##
 
@@ -64,27 +64,27 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
-[Integritet & Säkerhet iCloud vs Google Photos vs Krypterat Valv: Säkraste Sättet att Lagra Ditt Pass En ärlig jämförelse av de tre vanligaste sätten att lagra digitala passkopior och vad vart och ett innebär för din säkerhet. 15 april 20267 min](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/)
+[Integritet & Säkerhet iCloud vs Google Photos vs krypterad app: säkraste sättet att spara ditt pass iCloud, Google Photos och krypterade appar jämförda. Varför en offline-kopia på enheten oftast är säkrast, och vilken avvägning varje molnalternativ innebär. 15 april 20267 min](https://traveldocumentvault.com/sv/blog/safest-way-to-store-passport-digitally/)
 
 ##
 
-[Passregler Digital passkopia: vad räknas som giltigt ID när du reser? Flygbolag, hotell, ambassader och gränstjänstemän behandlar digitala passkopior på olika sätt. Här förklarar vi exakt var en digital kopia hjälper och var du absolut behöver det ursprungliga dokumentet. Apr 4, 20267 min read](https://traveldocumentvault.com/blog/digital-passport-copy-valid/)
+[Passregler Digital passkopia: vad räknas som giltig legitimation på resan? Flygbolag, hotell, ambassader och gränspoliser hanterar digitala passkopior olika. Här är exakt var en digital kopia hjälper - och var du behöver originalhandlingen. Apr 4, 20267 min read](https://traveldocumentvault.com/sv/blog/digital-passport-copy-valid/)
 
 ##
 
-[Visum & Inresa App för att spåra visumutgång: Vad du ska leta efter och varför det spelar roll Visumspårning är mer komplext än passspårning – inresegiltighetstid, maximal vistelse och Schengenfönster behöver alla separat övervakning. Här är varför det spelar roll och vad du ska leta efter i en app. 21 mar 20268 min läsning](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/)
+[Visum & Inresa App för visumbevakning: vad du ska leta efter och varför det spelar roll En app som bevakar visums utgångsdatum kan förhindra böter för overstay. Vilka funktioner som spelar roll, hur visumbevakning skiljer sig från passbevakning, och vad du bör kontrollera först. 21 mar 20268 min läsning](https://traveldocumentvault.com/sv/blog/visa-expiry-tracker-app/)
 
 ##
 
-[Förnyelse Kan du resa medan ditt pass förnyas? Din förnyelse är inskickad och resan är bokad – men kan du ändå resa? Svaret beror på om du fortfarande har ditt pass. Här är en genomgång per land. 14 mar 20267 min läsning](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/)
+[Förnyelse Kan du resa medan ditt pass förnyas? Ta reda på om du kan resa medan din passförnyelse pågår. Reglerna skiljer sig mellan länder och beroende på hur du ansökte. Här är vad du behöver veta. 14 mar 20267 min läsning](https://traveldocumentvault.com/sv/blog/travel-while-passport-renewal-pending/)
 
 ##
 
-[Reseforbereder Forrlorat ditt Pass Utomlands? Gor dessa 7 Saker Omedelbar Att förlora ditt pass utomlands är mer stressande än vad de flesta resenärer förväntar sig. Här är de 7 steg du bör ta omedelbar - från att rapportera till din närmaste ambassad till att få ett nödreisedokument. 11 mar 20267 min läsning](https://traveldocumentvault.com/blog/lost-passport-abroad/)
+[Reseforbereder Tappade du passet utomlands? Gör de här sju sakerna direkt Tappade du passet utomlands? Här är sju saker att göra direkt - polisanmälan, kontakta ambassaden, nödpass och hur du tar dig hem. 11 mar 20267 min läsning](https://traveldocumentvault.com/sv/blog/lost-passport-abroad/)
 
 ##
 
-[Förnyelse Passet utgånget? Här är exakt vad du ska göra (steg för steg) Märkte du att ditt pass har gått ut? Här är exakt vad du ska göra för att komma tillbaka på spåret snabbt och undvika vanliga förnyelsemisstag. 9 mar 20269 min läsning](https://traveldocumentvault.com/blog/passport-expired-what-to-do/)
+[Förnyelse Har passet gått ut? Så gör du, steg för steg Har du upptäckt att passet har gått ut? Så här gör du, steg för steg. Undvik detta nästa gång med smarta påminnelser om utgångsdatum från vårt offline, AES-256-GCM-krypterade valv. 9 mar 20269 min läsning](https://traveldocumentvault.com/sv/blog/passport-expired-what-to-do/)
 
 ##
 
@@ -92,23 +92,23 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
-[PassreglerOrganisation International Resedokument Checklista for Varje Resa Allt du behöver ta med, kontrollera och förbereda före en internationell resa. En praktisk checklista som täcker pass, visum, körkorta och reseförsäkring - fungerar för familjer och ensamma resenärer. 4 mar 20269 min läsning](https://traveldocumentvault.com/blog/travel-document-checklist/)
+[PassreglerOrganisation Internationell checklista för resehandlingar: allt du behöver innan du flyger Den kompletta checklistan för resehandlingar 2026. Organisera allt offline på ett ställe med Travel Document Vaults AES-256-GCM-krypterade app. 4 mar 20269 min läsning](https://traveldocumentvault.com/sv/blog/travel-document-checklist/)
 
 ##
 
-[Integritet Är det säkert att lagra ditt pass i Google Photos? Vad du behöver veta Miljontals människor lagrar passskanningar i Google Photos utan att tänka på det. Här är en ärlig genomgång av riskerna, hur de jämförs med alternativ och vad du kan göra istället om du vill ha starkare skydd. 15 feb 20267 min läsning](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/)
+[Integritet Är det säkert att spara passet i Google Foto? Det här behöver du veta Ett nätfiskat Google-konto exponerar alla foton i det, passet inkluderat, och Googles villkor tillåter automatiserad skanning. Riskerna, och var en skanning är säkrare. 15 feb 20267 min läsning](https://traveldocumentvault.com/sv/blog/is-it-safe-to-store-passport-in-google-photos/)
 
 ##
 
-[Förnyelse Hur lång tid tar passförnyelse? (USA, UK, Australien, Kanada) Aktuella handläggningstider för alla fyra länder, inklusive snabbade och brådskande alternativ – plus vad du gör om resan är bokad och passet håller på att löpa ut. 10 feb 20267 min läsning](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)
+[Förnyelse Hur lång tid tar en passförnyelse? (USA, Storbritannien, Australien, Kanada) Hur lång tid tar en passförnyelse? Det beror mer på din situation än på ditt land. Här är vad som faktiskt bromsar processen, och var du kollar aktuella tider. 10 feb 20267 min läsning](https://traveldocumentvault.com/sv/blog/how-long-does-passport-renewal-take/)
 
 ##
 
-[Organisation Hur du organiserar familjens resedokument (inför nästa resa) Vilka dokument en familj faktiskt behöver, hur du håller originalen säkra, när du ska kontrollera digitala säkerhetskopior och en checklista inför resan som du kan använda från bokning till avfärd. 5 feb 20267 min läsning](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+[Organisation Så organiserar du familjens resehandlingar (inför nästa resa) Lär dig hur du organiserar resehandlingar för hela familjen - vad ni bör spara, hur ni förvarar det, och hur ni ser till att inget går ut utan förvarning. 5 feb 20267 min läsning](https://traveldocumentvault.com/sv/blog/how-to-organise-family-travel-documents/)
 
 ##
 
-[Passregler 6-månaders passregeln: Vilka länder tillämpar den och hur du aldrig råkar ut för det Ditt pass kan vara giltigt – men ändå nekas. Lär dig vilka länder som tillämpar 6-månaders-regeln, hur flygbolag kontrollerar det och hur du ser till att hela familjen är täckt innan du bokar. 1 feb 20267 min läsning](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Passregler 6-månadersregeln för pass: vilka länder tillämpar den och hur du aldrig blir tagen på sängen 6-månadersregeln för pass tar tusentals resenärer på sängen. Låt vårt AES-256-GCM-krypterade, offlinebaserade valv hålla koll på utgångsdatum automatiskt. Prova gratis för 5 dokument. 1 feb 20267 min läsning](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/)
 
 ## Sista gången du stressar inför en resa
 

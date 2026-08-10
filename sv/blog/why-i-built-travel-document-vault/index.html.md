@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/sv/blog/why-i-built-travel-document-vaul
 
 ---
 
+![En prydlig hög med en familjs pass och ett instucket boardingkort mot en djupt marinblå bakgrund](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/cover.jpg)
+
 Jag stod vid gränskontrollen när tjänstemannen tittade på min dotters pass, pausade, och sedan såg upp på mig.
 
 "Vet du att det löper ut om sju månader?" sa han. "Bara så du vet – en del länder släpper inte in dig med mindre än sex månaders giltighetstid kvar."
@@ -116,6 +118,6 @@ Grundare, Travel Document Vault
 
 ## Relaterade artiklar
 
-[Passregler7 min läsning · 1 feb 2026Sexmånadersregeln för pass: Vilka länder tillämpar den](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Passregler7 min läsning · 1 feb 2026Sexmånadersregeln för pass: Vilka länder tillämpar den](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/)
 
-[Organisation7 min läsning · 5 feb 2026Hur du organiserar familjens resedokument (innan nästa resa)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+[Organisation7 min läsning · 5 feb 2026Hur du organiserar familjens resedokument (innan nästa resa)](https://traveldocumentvault.com/sv/blog/how-to-organise-family-travel-documents/)

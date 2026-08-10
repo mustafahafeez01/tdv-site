@@ -32,7 +32,7 @@ TripCase didn't invent much, but it perfected a handful of workflows, and its di
 
 Its core was **email-to-itinerary parsing** - forward any airline, hotel or car rental confirmation and the app assembled it into a chronological trip with dates and booking references. Zero manual entry meant a full itinerary in seconds, which is exactly why people stayed for a decade.
 
-**Real-time flight alerts** arrived alongside: delays, gate changes, and cancellations often before the airline's own notification. TripIt now charges around $49 a year for the equivalent in its Pro tier, whilst TripCase offered the feature to everyone free.
+**Real-time flight alerts** arrived alongside: delays, gate changes, and cancellations often before the airline's own notification. TripIt now charges for its Pro tier to get the equivalent, whilst TripCase offered the feature to everyone free.
 
 Those flights, hotels, and ground transport all lived in **the trip timeline** - one scrollable stack per trip. Simple, but if you've juggled a multi-city week from a dozen confirmation emails, you understand why it mattered. In forum threads on FlyerTalk and elsewhere, ex-users consistently bring up the **Document Vault** as the most-missed piece - that single secure home for boarding passes, visas, passports, and confirmations. Finally, **trip sharing** let family members or colleagues follow along without forwarded emails.
 
@@ -50,8 +50,8 @@ TripCase bundled several different jobs into one free app. No current app does a
 
 | The job | What TripCase did | Best replacement now | Cost |
 |---|---|---|---|
-| Flight alerts | Real-time delays, gate changes, cancellations | Flighty | Free tier; paid subscription (pricing varies) |
-| Email-to-itinerary parsing | Forward a confirmation, the trip builds itself | TripIt or Tripsy | TripIt has a free tier; Pro is about $49/yr |
+| Flight alerts | Real-time delays, gate changes, cancellations | Flighty | Free tier; paid subscription available |
+| Email-to-itinerary parsing | Forward a confirmation, the trip builds itself | TripIt or Tripsy | TripIt has a free tier; check its site for current Pro pricing |
 | Trip timeline | One chronological view per trip | TripIt or Tripsy | Included with the above |
 | Travel document storage | The Document Vault: passports, visas, boarding passes | Travel Document Vault | One-time purchase, no subscription |
 | Trip sharing | Followers saw your live itinerary | TripIt sharing, or a shared folder | Free |

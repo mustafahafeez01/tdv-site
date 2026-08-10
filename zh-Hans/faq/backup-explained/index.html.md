@@ -80,4 +80,4 @@ Vault 在上传前使用 AES-256-GCM 在您的设备上进行端到端加密。�
 
 [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
-![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+![在 Google Play 上获取](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

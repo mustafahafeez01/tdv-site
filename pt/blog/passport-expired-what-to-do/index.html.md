@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/pt/blog/passport-expired-what-to-do/
 
 - Existem dois cenários distintos: descobrir que o seu passaporte expirou **em casa antes de uma viagem** e descobrir no **aeroporto**. Os passos são diferentes para cada um.
 - Não pode viajar internacionalmente com um passaporte expirado. Sem exceções.
-- No Reino Unido, existe um serviço de passaporte Premium do mesmo dia para emergências genuínas - marcável em gov.uk. Nos EUA, consultas de emergência estão disponíveis através do Departamento de Estado para viagens nos próximos 72 horas.
+- No Reino Unido, existe um serviço de passaporte Premium expedito para emergências genuínas - marcável em gov.uk. Nos EUA, consultas de emergência estão disponíveis através do Departamento de Estado para viagens urgentes.
 - No aeroporto, contacte primeiro a sua companhia aérea - algumas reagendarão sem taxas por emergências genuínas de documentos.
 - A solução daqui em diante é um lembrete de expiração de 12 meses, não 6 meses. Isto dá-lhe tempo suficiente para renovar no processamento padrão.
 - A expiração não é o único problema de passaporte que afasta os viajantes. Danos, incompatibilidades de nomes, assinaturas em falta e validade insuficiente no seu destino causam o mesmo resultado.
@@ -23,12 +23,12 @@ Descobrir que o seu passaporte expirou é um daqueles momentos em que o tempo de
 
 Esta situação é recuperável - mas o quão recuperável depende de quanto tempo tem antes de viajar.
 
-| Tempo até à viagem | O que fazer | Opção Reino Unido | Opção EUA |
-|---|---|---|---|
-| 10+ semanas | Peça renovação padrão online imediatamente | Online via GOV.UK | Online via travel.state.gov |
-| 6-10 semanas | Peça imediatamente, pague expedição | Fast Track 1 semana (online) | Expedito (+$60, ~5-7 sem.) |
-| Menos de 6 semanas | Ligue para a sua autoridade de passaportes (não use apenas o site) | a linha de apoio do HM Passport Office | o National Passport Information Center dos EUA |
-| Menos de 2 semanas | Consulta de emergência (traga prova de viagem iminente) | Serviço Premium do mesmo dia | Agência regional de passaportes |
+A urgência com que precisa de agir determina o que fazer:
+
+- **Muito tempo antes da viagem:** peça a renovação padrão online através do site da sua autoridade de passaportes - GOV.UK no Reino Unido, travel.state.gov nos EUA.
+- **A viagem aproxima-se:** peça imediatamente e pague pelo processamento expedito. Tanto o Reino Unido como os EUA oferecem online um serviço pago mais rápido, e ambos publicam o seu tempo de processamento atual.
+- **A viagem está próxima:** ligue diretamente para a sua autoridade de passaportes em vez de confiar apenas no site - a linha de apoio do HM Passport Office no Reino Unido, ou o National Passport Information Center nos EUA.
+- **A viagem é iminente:** pergunte sobre uma consulta de emergência e traga prova das suas datas de viagem. O Reino Unido oferece um serviço Premium expedito em escritórios de passaportes designados, e os EUA oferecem consultas em agências de passaportes regionais.
 
 Todas as autoridades de passaportes principais retêm consultas de emergência que não são visíveis online. Se o seu cronograma é apertado, ligue em vez de confiar apenas no site.
 
@@ -98,7 +98,7 @@ Não. Um passaporte expirado não é válido para viagens internacionais. As com
 
 ### O que devo fazer se me aperceber que o meu passaporte expirou antes da minha viagem?
 
-Peça a renovação imediatamente e pague pelo processamento expedito. Se a sua viagem é nos próximos 6 semanas, ligue directamente para a sua autoridade de passaportes em vez de usar apenas o site. Consultas de emergência e prioridade existem para viagens iminentes mas precisa pedir.
+Peça a renovação imediatamente e pague pelo processamento expedito se a sua viagem se aproxima. Se a sua viagem está próxima, ligue directamente para a sua autoridade de passaportes em vez de usar apenas o site. Consultas de emergência e prioridade existem para viagens iminentes mas precisa pedir.
 
 ### O que devo fazer se descobrir que o meu passaporte expirou no aeroporto?
 
@@ -106,7 +106,7 @@ Não conseguirá embarcar. Vá ao balcão da companhia aérea imediatamente para
 
 ### Quão rápido consigo um passaporte de emergência se o meu expirou?
 
-No Reino Unido, um serviço Premium do mesmo dia está disponível em escritórios de passaportes designados para viagens nos próximos 7 dias - consulta necessária, marcável em gov.uk. Nos EUA, consultas de emergência presenciais estão disponíveis em agências de passaportes regionais para viagens nos próximos 72 horas - a taxa expedita é $60 mais a taxa de renovação padrão. Verifique travel.state.gov para disponibilidade. Na Austrália, verifique passports.gov.au para opções de processamento urgente.
+No Reino Unido, um serviço Premium expedito está disponível em escritórios de passaportes designados para emergências genuínas - consulta necessária, verifique o tempo de processamento atual e a marcação em gov.uk. Nos EUA, consultas de emergência presenciais estão disponíveis em agências de passaportes regionais para viagens urgentes - verifique taxas e disponibilidade atuais em travel.state.gov. Na Austrália, verifique passports.gov.au para opções de processamento urgente.
 
 ### Como posso evitar que o meu passaporte expire inesperadamente?
 

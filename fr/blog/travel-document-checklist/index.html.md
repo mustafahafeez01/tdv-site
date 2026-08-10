@@ -38,11 +38,11 @@ Réservez une assurance voyage quand vous réservez les vols, pas une semaine av
 
 ## Trois mois avant : renouvellement et fenêtres de visa
 
-À ce stade, vous avez toujours le temps de corriger les choses. Le renouvellement standard du passeport prend actuellement 4 à 6 semaines aux États-Unis (via travel.state.gov), généralement environ 3 semaines au Royaume-Uni (via GOV.UK), et au moins 6 semaines en Australie (via l'Office australien des passeports). Consultez toujours le site officiel pour les délais actuels avant de demander.
+À ce stade, vous avez toujours le temps de corriger les choses. Les délais de renouvellement changent, et chaque autorité publie son propre chiffre actuel : le Département d'État américain, HM Passport Office et l'Office australien des passeports. Consultez toujours le site officiel pour les délais actuels avant de demander.
 
 Tout passeport expirant dans 12 mois : commencez le processus de renouvellement maintenant. Les passeports des enfants expirent plus vite - 5 ans dans la plupart des pays contre 10 pour les adultes - et les parents manquent fréquemment la fenêtre. Pour les demandeurs de Nouvelle-Zélande, vérifiez l'Office des passeports de Nouvelle-Zélande pour les délais actuels ; la demande augmente à l'approche de l'été.
 
-Soumettez toute demande de visa avec une fenêtre de traitement de quatre semaines ou plus. Préparez les documents justificatifs : relevés bancaires, confirmations d'hébergement, preuve de voyage ultérieur. Réservez une rendez-vous de biométrie à l'avance si le visa l'exige.
+Soumettez toute demande de visa qui demande du délai, et vérifiez auprès de l'autorité qui la délivre le temps actuellement nécessaire. Préparez les documents justificatifs : relevés bancaires, confirmations d'hébergement, preuve de voyage ultérieur. Réservez une rendez-vous de biométrie à l'avance si le visa l'exige.
 
 Pour les familles : si un enfant voyage avec un seul parent ou un autre adulte, préparez une lettre de consentement de voyage pour enfant maintenant. Incluez le nom complet et la date de naissance de l'enfant, les coordonnées des deux parents, les dates et destinations du voyage, et la signature du parent absent. Une copie notariée est plus convaincante à l'immigration et vaut l'étape supplémentaire.
 

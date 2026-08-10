@@ -32,13 +32,13 @@ Standard US passport renewal by mail does not require you to surrender your curr
 
 This means domestic travel within the United States is unaffected throughout the renewal process - you don't need a passport for domestic flights. International travel is a different story: you can't travel internationally until your new passport arrives, and you can't use the old cancelled passport even if you have it in hand.
 
-It currently takes 4 to 6 weeks for standard processing, not counting mailing time each way. If you have international travel booked sooner than that, the State Department offers expedited processing for an additional fee, reducing the timeline to roughly 2 to 3 weeks. For genuinely urgent travel within 14 calendar days, in-person appointments are available at regional passport agencies - check availability at travel.state.gov.
+Standard processing times change, and the State Department publishes the current figure at travel.state.gov, so check there before you plan around it. If your travel is booked before you expect the new passport to arrive, expedited processing is available for an additional fee and cuts the wait meaningfully. For genuinely urgent travel, in-person appointments are available at regional passport agencies - check current eligibility at travel.state.gov.
 
 ## United Kingdom: Two Processes with Opposite Outcomes
 
 The UK has two renewal paths, and they have completely different implications for travel. The process you used determines what is possible.
 
-**Postal renewal:** You post your current passport to HM Passport Office along with your application. Your passport is in their hands for the duration, so you can't travel internationally. HM Passport Office currently says you'll usually get your new passport within 3 weeks, though it advises not booking travel until it arrives, and a premium fast-track service is available for an additional fee.
+**Postal renewal:** You post your current passport to HM Passport Office along with your application. Your passport is in their hands for the duration, so you can't travel internationally. HM Passport Office publishes its current processing time on its website and advises against booking travel until your new passport arrives. A premium fast-track service is available for an additional fee if your trip is close.
 
 **Digital renewal** is currently available to eligible adults applying from within the UK. You keep your current passport throughout the process, and the government issues your new passport separately and posts it to you. Because your existing passport never leaves your possession, you can generally continue to use it for travel while the new one is processed. Eligibility varies by individual circumstance, so check the HM Passport Office website for the full criteria and current times before applying.
 
@@ -50,23 +50,23 @@ Australian passport renewal requires you to surrender your current passport at t
 
 You can't travel internationally during this period. Domestic air travel within Australia may also be affected if you have no other valid photo ID, as airlines require identity verification at check-in.
 
-The Australian Passport Office currently advises allowing at least 6 weeks from lodging your application. If you have genuine and imminent travel, faster processing is available for additional fees - a fast-track service processed within 5 business days and a priority service within 2 business days. Emergency options exist for truly imminent travel. Check current times and apply at passports.gov.au.
+The Australian Passport Office publishes its current processing times and recommends applying well ahead of any travel date. If you have genuine and imminent travel, faster processing options are available for additional fees, including fast-track and priority services. Emergency options exist for truly imminent travel. Check current times and apply at passports.gov.au.
 
 ## Canada: Surrendered on Application
 
 Canada requires you to surrender your existing passport when you apply for renewal. Your old passport is held until your new one is ready, so you can't travel internationally during this period - though domestic travel within Canada doesn't require a passport.
 
-Service standards are currently 10 business days when you apply in person at a passport office, or 20 business days by mail or at a regular Service Canada Centre - plus mailing time. For urgent travel you can choose express service (2 to 9 business days) or urgent pickup (as fast as the next business day) for additional fees. Check current processing times and apply at canada.ca.
+Service Canada publishes its current processing standards, which differ depending on whether you apply in person, by mail, or at a Service Canada Centre, plus mailing time either way. For urgent travel, express service and urgent pickup options exist for additional fees. Check current processing times and apply at canada.ca.
 
 ## Country Comparison
 
-| Country / Method | Keep passport? | International travel during renewal? | Standard time |
-|---|---|---|---|
-| US (mail-in) | Yes (returned cancelled) | No | 6-12 weeks |
-| UK (postal) | No (held by HMPO) | No | Around 3 weeks |
-| UK (digital) | Yes (you keep it) | Yes (on old passport) | 2-3 weeks |
-| Australia | No (must surrender) | No | 4-10 weeks |
-| Canada | No (must surrender) | No | 5-10 weeks |
+| Country / Method | Keep passport? | International travel during renewal? |
+|---|---|---|
+| US (mail-in) | Yes (returned cancelled) | No |
+| UK (postal) | No (held by HMPO) | No |
+| UK (digital) | Yes (you keep it) | Yes (on old passport) |
+| Australia | No (must surrender) | No |
+| Canada | No (must surrender) | No |
 
 ## If Your Trip Is Sooner Than Your Renewal Timeline
 
@@ -102,7 +102,7 @@ It depends. US mail-in renewal returns your old passport to you (cancelled) alon
 
 ### What is an emergency travel document?
 
-An emergency travel document is a temporary document issued by your government for genuine emergencies such as a medical crisis or a death in the family requiring immediate travel abroad. It is valid for a single trip. It requires proof of genuine emergency and is not an alternative to standard renewal for planned travel. Processing is typically same-day or within 24 hours.
+An emergency travel document is a temporary document issued by your government for genuine emergencies such as a medical crisis or a death in the family requiring immediate travel abroad. It is valid for a single trip. It requires proof of genuine emergency and is not an alternative to standard renewal for planned travel. Processing is fast because these documents are designed for urgent situations, but confirm the current turnaround with your passport authority when you apply.
 
 ## Related Articles
 

@@ -49,7 +49,7 @@ Fonti: US Department of State, GOV.UK, Canada.ca, Australian Passport Office.
 
 Una famiglia di quattro persone quindi funziona su quattro diversi programmi di scadenza. La data più precoce decide se il viaggio accade affatto. Due adulti rinnovati insieme si separeranno dai documenti dei loro bambini nel giro di un paio d'anni - che è esattamente il motivo per cui controllare il vostro passaporto vi dice quasi nulla sulla preparazione della famiglia.
 
-Per le famiglie americane c'è una piega in più: un passaporto di un bambino non può essere rinnovato per posta. Ogni rinnovo richiede un'applicazione nuova di zecca in persona e l'elaborazione ordinaria attualmente richiede diverse settimane, più il tempo di spedizione in entrambi i sensi - il che è gestibile a marzo ma diventa un vero problema due settimane prima della partenza. Le famiglie britanniche ce la fanno un po' meglio: semplicemente controllate i tempi di elaborazione attuali prima di prenotare e concedete tempo extra se le informazioni sono necessarie.
+Per le famiglie americane c'è una piega in più: un passaporto di un bambino non può essere rinnovato per posta. Ogni rinnovo richiede un'applicazione nuova di zecca in persona, e il tempo di elaborazione cambia - il Dipartimento di Stato USA pubblica la cifra attuale, quindi verificatela prima di pianificare, oltre al tempo di spedizione in entrambi i sensi. Ciò che è gestibile a marzo diventa rapidamente un vero problema poco prima della partenza. Le famiglie britanniche ce la fanno un po' meglio: semplicemente controllate i tempi di elaborazione attuali prima di prenotare e concedete tempo extra se le informazioni sono necessarie.
 
 ## La realtà al check-in: Timatic non arrotonda
 
@@ -79,7 +79,7 @@ No. I bambini hanno bisogno degli stessi 3 mesi di validità oltre la partenza e
 
 ### Quando dovremmo rinnovare il passaporto di un bambino prima di un viaggio?
 
-Non appena prenotate, verificate se il passaporto avrà ancora 3 mesi di validità oltre la data di ritorno. Se non sarà così, iniziate subito. Controllate i tempi di elaborazione correnti nel Regno Unito e concedete tempo extra se l'applicazione ha bisogno di ulteriori informazioni. L'elaborazione ordinaria negli Stati Uniti richiede diverse settimane più il tempo di spedizione. Il passaporto di un bambino negli Stati Uniti ha anche bisogno di un'applicazione nuova di zecca in persona anziché un rinnovo.
+Non appena prenotate, verificate se il passaporto avrà ancora 3 mesi di validità oltre la data di ritorno. Se non sarà così, iniziate subito. Controllate i tempi di elaborazione correnti nel Regno Unito e concedete tempo extra se l'applicazione ha bisogno di ulteriori informazioni. Il tempo di elaborazione negli Stati Uniti cambia; verificate la cifra attuale presso il Dipartimento di Stato USA, oltre al tempo di spedizione. Il passaporto di un bambino negli Stati Uniti ha anche bisogno di un'applicazione nuova di zecca in persona anziché un rinnovo.
 
 ### Possiamo volare mentre il rinnovo del passaporto di un bambino è in corso?
 

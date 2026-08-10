@@ -38,7 +38,7 @@ Reserve o seguro de viagem quando reserva voos, não uma semana antes da partida
 
 ## Três Meses Antes: Windows de Renovação e Visto
 
-Neste ponto ainda tem tempo para corrigir as coisas. A renovação de passaporte padrão actualmente leva 4-6 semanas nos EUA (via travel.state.gov), geralmente cerca de 3 semanas no Reino Unido (via GOV.UK) e pelo menos 6 semanas na Austrália (via o Australian Passport Office). Sempre verifique o site oficial para os tempos actuais antes de candidatar-se.
+Neste ponto ainda tem tempo para corrigir as coisas. Os tempos de renovação mudam, e cada autoridade publica a sua própria cifra atual: o Departamento de Estado dos EUA, o HM Passport Office e o Australian Passport Office. Sempre verifique o site oficial para os tempos actuais antes de candidatar-se.
 
 Qualquer passaporte que expire nos próximos 12 meses: inicie o processo de renovação agora. Os passaportes de crianças expiram mais rapidamente - 5 anos na maioria dos países versus 10 para adultos - e os progenitores frequentemente perdem a janela. Para candidatos da Nova Zelândia, verifique o New Zealand Passport Office para cronogramas actuais; a procura aumenta na fase de aproximação ao verão.
 

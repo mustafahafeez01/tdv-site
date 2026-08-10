@@ -107,6 +107,6 @@ Source: https://traveldocumentvault.com/th/blog/damaged-passport-travel/
 
 ## บทความที่เกี่ยวข้อง
 
-[เหตุฉุกเฉินระหว่างเดินทางอ่าน 6 นาที · เมษายน 2026ควรทำอย่างไรหากพาสปอร์ตหายหรือถูกขโมยระหว่างอยู่ต่างประเทศ](https://traveldocumentvault.com/blog/lost-passport-abroad/)
+[เหตุฉุกเฉินระหว่างเดินทางอ่าน 6 นาที · เมษายน 2026ควรทำอย่างไรหากพาสปอร์ตหายหรือถูกขโมยระหว่างอยู่ต่างประเทศ](https://traveldocumentvault.com/th/blog/lost-passport-abroad/)
 
-[พาสปอร์ตหมดอายุอ่าน 7 นาที · พฤษภาคม 2026พาสปอร์ตหมดอายุก่อนเดินทาง ควรทำอย่างไร](https://traveldocumentvault.com/blog/passport-expired-what-to-do/)
+[พาสปอร์ตหมดอายุอ่าน 7 นาที · พฤษภาคม 2026พาสปอร์ตหมดอายุก่อนเดินทาง ควรทำอย่างไร](https://traveldocumentvault.com/th/blog/passport-expired-what-to-do/)

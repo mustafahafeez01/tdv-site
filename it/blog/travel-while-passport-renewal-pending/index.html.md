@@ -30,13 +30,13 @@ Il rinnovo standard del passaporto americano per posta non richiede di consegnar
 
 Ciò significa che i viaggi nazionali all'interno degli Stati Uniti non sono influenzati durante il processo di rinnovo - non avete bisogno di un passaporto per i voli nazionali. I viaggi internazionali sono una storia diversa: non potete viaggiare internazionalmente fino a quando il vostro nuovo passaporto non arriva, e non potete usare il vecchio passaporto annullato anche se lo avete in mano.
 
-Attualmente occorrono 4-6 settimane per l'elaborazione standard, senza contare il tempo di spedizione in entrambi i sensi. Se avete un viaggio internazionale programmato prima di allora, il Dipartimento di Stato offre elaborazione accelerata dietro compenso aggiuntivo, riducendo la tempistica a circa 2-3 settimane. Per i viaggi veramente urgenti entro 14 giorni di calendario, gli appuntamenti in persona sono disponibili presso agenzie passaporti regionali - controllate la disponibilità su travel.state.gov.
+Il tempo di elaborazione standard cambia, e il Dipartimento di Stato pubblica la cifra attuale su travel.state.gov, quindi controllatela prima di pianificare. Se il vostro viaggio è prenotato prima della data in cui vi aspettate il nuovo passaporto, l'elaborazione accelerata è disponibile dietro compenso aggiuntivo e riduce sensibilmente l'attesa. Per i viaggi veramente urgenti, gli appuntamenti in persona sono disponibili presso agenzie passaporti regionali - controllate l'idoneità attuale su travel.state.gov.
 
 ## Regno Unito: Due processi con esiti opposti
 
 Il Regno Unito ha due percorsi di rinnovo con implicazioni completamente diverse per i viaggi. Il processo che avete utilizzato determina cosa è possibile.
 
-**Rinnovo postale:** Spedite il vostro passaporto attuale a HM Passport Office insieme alla vostra domanda. Il vostro passaporto è nelle loro mani per tutta la durata, quindi non potete viaggiare internazionalmente. HM Passport Office attualmente afferma che di solito riceverete il vostro nuovo passaporto entro 3 settimane, anche se consiglia di non prenotare il viaggio fino a quando non arriva, ed è disponibile un servizio di fast-track premium dietro compenso aggiuntivo.
+**Rinnovo postale:** Spedite il vostro passaporto attuale a HM Passport Office insieme alla vostra domanda. Il vostro passaporto è nelle loro mani per tutta la durata, quindi non potete viaggiare internazionalmente. HM Passport Office pubblica il proprio tempo di elaborazione attuale sul proprio sito Web e sconsiglia di prenotare il viaggio fino all'arrivo del nuovo passaporto. È disponibile un servizio di fast-track premium dietro compenso aggiuntivo se il vostro viaggio è vicino.
 
 **Rinnovo digitale** è attualmente disponibile per gli adulti idonei che chiedono dal Regno Unito. Conservate il vostro passaporto attuale durante tutto il processo, e il governo rilascia il vostro nuovo passaporto separatamente e ve lo spedisce. Poiché il vostro passaporto esistente non lascia mai il vostro possesso, potete generalmente continuare a utilizzarlo per i viaggi mentre il nuovo viene elaborato. L'idoneità varia in base alle circostanze individuali, quindi controllate il sito Web di HM Passport Office per i criteri completi e gli orari attuali prima di fare domanda.
 
@@ -48,23 +48,23 @@ Il rinnovo del passaporto australiano richiede di consegnare il vostro passaport
 
 Non potete viaggiare internazionalmente durante questo periodo. I viaggi aerei nazionali all'interno dell'Australia possono anche essere influenzati se non avete altri documenti d'identità fotografici validi, poiché le compagnie aeree richiedono verifica dell'identità al check-in.
 
-L'Australian Passport Office attualmente consiglia di consentire almeno 6 settimane dalla presentazione della vostra domanda. Se avete un viaggio generico e imminente, è disponibile un'elaborazione più veloce per commissioni aggiuntive - un servizio fast-track elaborato entro 5 giorni lavorativi e un servizio prioritario entro 2 giorni lavorativi. Esistono opzioni di emergenza per i viaggi veramente imminenti. Controllate gli orari attuali e fate domanda su passports.gov.au.
+L'Australian Passport Office pubblica i propri tempi di elaborazione attuali e raccomanda di fare domanda con largo anticipo rispetto a qualsiasi data di viaggio. Se avete un viaggio genuino e imminente, sono disponibili opzioni di elaborazione più veloce dietro commissioni aggiuntive, inclusi fast-track e prioritario. Esistono opzioni di emergenza per i viaggi veramente imminenti. Controllate gli orari attuali e fate domanda su passports.gov.au.
 
 ## Canada: Consegnato al momento della domanda
 
 Il Canada richiede di consegnare il vostro passaporto esistente quando fate domanda per il rinnovo. Il vostro vecchio passaporto viene conservato fino a quando il nuovo non è pronto, quindi non potete viaggiare internazionalmente durante questo periodo - anche se i viaggi nazionali all'interno del Canada non richiedono un passaporto.
 
-Gli standard di servizio sono attualmente 10 giorni lavorativi quando fate domanda in persona presso un ufficio passaporti, o 20 giorni lavorativi per posta o presso un Service Canada Centre regolare - più il tempo di spedizione. Per i viaggi urgenti potete scegliere il servizio espresso (da 2 a 9 giorni lavorativi) o il ritiro urgente (veloce come il giorno successivo) dietro compenso aggiuntivo. Controllate gli orari di elaborazione attuali e fate domanda su canada.ca.
+Service Canada pubblica i propri standard di elaborazione attuali, che variano a seconda che facciate domanda di persona, per posta o presso un Service Canada Centre, più il tempo di spedizione. Per i viaggi urgenti esistono opzioni di servizio espresso e ritiro urgente dietro compenso aggiuntivo. Controllate gli orari di elaborazione attuali e fate domanda su canada.ca.
 
 ## Confronto tra paesi
 
-| Paese / Metodo | Conservare il passaporto? | Viaggi internazionali durante il rinnovo? | Tempo standard |
-|---|---|---|---|
-| USA (per posta) | Sì (restituito annullato) | No | 6-12 settimane |
-| UK (postale) | No (conservato da HMPO) | No | Circa 3 settimane |
-| UK (digitale) | Sì (lo conservate) | Sì (sul vecchio passaporto) | 2-3 settimane |
-| Australia | No (deve essere consegnato) | No | 4-3 settimane |
-| Canada | No (deve essere consegnato) | No | 5-3 settimane |
+| Paese / Metodo | Conservare il passaporto? | Viaggi internazionali durante il rinnovo? |
+|---|---|---|
+| USA (per posta) | Sì (restituito annullato) | No |
+| UK (postale) | No (conservato da HMPO) | No |
+| UK (digitale) | Sì (lo conservate) | Sì (sul vecchio passaporto) |
+| Australia | No (deve essere consegnato) | No |
+| Canada | No (deve essere consegnato) | No |
 
 ## Se il vostro viaggio è prima della vostra tempistica di rinnovo
 
@@ -100,7 +100,7 @@ Dipende. Il rinnovo per posta degli USA restituisce il vostro vecchio passaporto
 
 ### Cos'è un documento di viaggio d'emergenza?
 
-Un documento di viaggio d'emergenza è un documento temporaneo rilasciato dal vostro governo per emergenze genuine come una crisi medica o un decesso in famiglia che richiede un viaggio immediato all'estero. È valido per un solo viaggio. Richiede prova di una vera emergenza e non è un'alternativa al rinnovo standard per i viaggi pianificati. L'elaborazione è generalmente dello stesso giorno o entro 24 ore.
+Un documento di viaggio d'emergenza è un documento temporaneo rilasciato dal vostro governo per emergenze genuine come una crisi medica o un decesso in famiglia che richiede un viaggio immediato all'estero. È valido per un solo viaggio. Richiede prova di una vera emergenza e non è un'alternativa al rinnovo standard per i viaggi pianificati. L'elaborazione è rapida perché questi documenti sono pensati per situazioni urgenti, ma confermate il tempo attuale con la vostra autorità passaporti al momento della domanda.
 
 ## Articoli correlati
 

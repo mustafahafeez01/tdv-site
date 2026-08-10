@@ -65,7 +65,7 @@ Estos países típicamente exigen que un notario o abogado la certifique:
 - **Reino Unido.** No es obligatoria para viajes de salida, pero las aerolíneas y destinos pueden pedirla cuando un menor viaja con un solo progenitor o con un adulto que no es padre/madre. Lo habitual es certificación de abogado.
 - **Estados Unidos.** No es obligatorio federalmente pero recomendado. Algunos estados aceptan legalización notarial.
 
-La legalización por notario cuesta típicamente entre 20 y 100 dólares, según dónde vivas. Permite una o dos semanas para conseguir cita, especialmente en vacaciones escolares. Lo importante: confirma siempre los requisitos de tu destino primero. Es el país donde llegas quien decide si la necesitas, no el tuyo.
+Las tarifas notariales varían según el país y el notario, y según la rapidez con la que necesites cita, así que pregunta cuánto costará y con cuánta antelación debes reservar, especialmente en vacaciones escolares. Confirma siempre los requisitos de tu destino primero. Es el país donde llegas quien decide si la necesitas, no el tuyo.
 
 ## Errores Comunes Que Causan Rechazos
 

@@ -52,7 +52,7 @@ As consequências de uma ultrapassagem de visto variam consoante o país mas sã
 - **Reino Unido:** As ultrapassagens são registadas e afetarão futuras candidaturas de visto. O Gabinete do Ministério do Interior do Reino Unido considera as ultrapassagens ao avaliar credibilidade e pode recusar candidaturas subsequentes.
 - **Austrália:** Ultrapassar o seu visto pode resultar em restrições às futuras candidaturas de visto e remoção do país. Sob a Migration Act 1958, os registos de ultrapassagem são rastreados e afetarão futuras candidaturas de visto e elegibilidade de reentrada.
 - **Área de Schengen:** As ultrapassagens são rastreadas no Sistema de Informações Schengen (SIS). Uma proibição emitida por um país Schengen aplica-se em todos os 27 estados-membros.
-- **Tailândia:** As ultrapassagens incorrem numa multa de 500 Baht tailandês por dia (aproximadamente $14 USD), até 20.000 Baht, e podem resultar em prisão e deportação para ultrapassagens prolongadas.
+- **Tailândia:** As ultrapassagens incorrem numa multa diária fixada pela imigração tailandesa, até um limite máximo, e podem resultar em prisão e deportação para ultrapassagens prolongadas.
 
 Em todos os casos, o registo de ultrapassagem tipicamente segue-o: aparece nas bases de dados de imigração verificadas nas futuras travessias de fronteira e candidaturas de visto.
 
@@ -63,7 +63,7 @@ Dada a complexidade acima, uma boa aplicação de rastreamento de visto precisa 
 - **Campos separados para validade de entrada e permanência máxima:** Estas são datas diferentes e precisam de lembretes separados.
 - **Rastreamento de contagem de entrada:** Entrada simples vs. dupla vs. múltipla importa se o visto sobrevive a uma saída e reentrada.
 - **Acesso sem ligação à internet:** Precisa dos detalhes do seu visto em fronteiras onde a internet pode ser pouco fiável.
-- **Lembretes personalizados:** Um visto de trabalho de permanência longa pode justificar um lembrete de 90 dias; um visto de turista pode justificar 2 semanas. Lembretes de tamanho único não são apropriados.
+- **Lembretes personalizados:** Um visto de trabalho de permanência longa pode justificar um lembrete de 90 dias; um visto de turista precisa de antecedência suficiente para arranjar partida sem pressa. Lembretes de tamanho único não são apropriados.
 - **Múltiplos tipos de documentos e viajantes:** Se viajar como família, o visto de todos os membros da família precisa de rastreamento independente.
 - **Modelo de privacidade:** Os detalhes de visto são dados sensíveis ligados à identidade. Tal como com armazenamento de passaporte, encriptação no dispositivo sem envio para a cloud é a arquitetura mais segura.
 - **Rastreamento de passaporte + visto em conjunto:** Um erro comum mas negligenciado é ter um visto válido mas um passaporte que expira durante a sua permanência planeada. Ter ambos rastreados no mesmo local previne esta discrepância.
@@ -102,7 +102,7 @@ As melhores conseguem. O acesso sem ligação à internet importa nas fronteiras
 
 ### Quanto tempo antes devo receber um lembrete antes do meu visto expirar?
 
-Depende do tipo de visto. Para vistos de permanência longa que requerem renovação, 90 dias é um mínimo razoável. Para vistos de turismo com durações máximas de permanência fixas, 2 semanas antes da sua data de saída permitida mais recente dá tempo para arranjar partida sem pressa. Procure aplicações que permitam definir tempos personalizados por documento.
+Depende do tipo de visto. Para vistos de permanência longa que requerem renovação, 90 dias é um mínimo razoável. Para vistos de turismo com durações máximas de permanência fixas, um lembrete com antecedência suficiente à sua data de saída permitida mais recente dá tempo para arranjar partida sem pressa. Procure aplicações que permitam definir tempos personalizados por documento.
 
 ## Artigos Relacionados
 

@@ -35,7 +35,7 @@ Ingen af tilgangene er forkert i sig selv, men for identitetsdokumenter så føl
 
 ### Udløbspåmindelser med justerbar varsling
 
-Dette er den enkeltstående mest værdifulde funktion. En påmindelse ved 6 måneder er minimum - mange lande kræver, at dit pas er gyldigt i mindst 6 måneder efter dine rejsedatoer, som forklaret i vores artikel om [6-måneders-reglen for pas](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). For familier med børn, hvis pas udløber efter 5 år i stedet for 10, giver en tidligere påmindelse - for eksempel 9 måneder i forvejen - mere behagelig tid til planlægning.
+Dette er den enkeltstående mest værdifulde funktion. En påmindelse ved 6 måneder er minimum - mange lande kræver, at dit pas er gyldigt i mindst 6 måneder efter dine rejsedatoer, som forklaret i vores artikel om [6-måneders-reglen for pas](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/). For familier med børn, hvis pas udløber efter 5 år i stedet for 10, giver en tidligere påmindelse - for eksempel 9 måneder i forvejen - mere behagelig tid til planlægning.
 
 ### Flere rejsende i én app
 
@@ -120,8 +120,8 @@ Som minimum: pas, visa og nationale ID-kort. Bedre apps understøtter også rejs
 
 ## Relaterede artikler
 
-[Pasregler8 min læsning · 1. feb. 20266-måneders-reglen for pas: hvilke lande håndhæver den, og sådan undgår du at blive taget på sengen](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Pasregler8 min læsning · 1. feb. 20266-måneders-reglen for pas: hvilke lande håndhæver den, og sådan undgår du at blive taget på sengen](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)
 
-[Familierejser9 min læsning · 8. feb. 2026Sådan organiserer du familiens rejsedokumenter (uden at gå fra forstanden)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+[Familierejser9 min læsning · 8. feb. 2026Sådan organiserer du familiens rejsedokumenter (uden at gå fra forstanden)](https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-documents/)
 
-[Rejseværktøjer7 min læsning · 4. jul. 2026Rejseapp-alternativ: hvorfor dine rejsedokumenter skal kunne bruges offline](https://traveldocumentvault.com/blog/tripcase-alternative/)
+[Rejseværktøjer7 min læsning · 4. jul. 2026TripCase-alternativ: hvorfor dine rejsedokumenter skal kunne bruges offline](https://traveldocumentvault.com/da/blog/tripcase-alternative/)

@@ -40,6 +40,8 @@ Your passport answers one question: "Who are you, and which country issued this 
 
 Most international trips require both a valid passport and an appropriate visa (or confirmation that a visa isn't needed for your destination). Without a passport, you can't legally leave your country. Without a required visa, you can't enter your destination, regardless of how valid your passport is. Many travel disruptions happen because travellers have valid passports but forget to check visa requirements before they book.
 
+![Hand-drawn comparison of a passport and a visa: your own country issues the passport, it proves who you are and lets you leave home, while the destination issues the visa, which grants permission to enter and covers only that one country, with a note that most trips need both](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure.jpg) Two documents, two jobs - and a valid passport on its own is not permission to enter.
+
 ## Types of Visas
 
 Most countries issue visas in these categories:

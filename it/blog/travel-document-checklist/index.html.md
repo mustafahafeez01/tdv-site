@@ -38,7 +38,7 @@ Prenota l'assicurazione di viaggio quando prenota i voli, non una settimana prim
 
 ## Tre Mesi Prima: Rinnovo e Finestre di Visto
 
-A questo punto ha ancora tempo per risolvere le cose. Il rinnovo standard del passaporto attualmente richiede 4-6 settimane negli Stati Uniti (tramite travel.state.gov), di solito circa 3 settimane nel Regno Unito (tramite GOV.UK), e almeno 6 settimane in Australia (tramite l'Ufficio Passaporti Australiano). Controlli sempre il sito ufficiale per i tempi attuali prima di presentare la domanda.
+A questo punto ha ancora tempo per risolvere le cose. I tempi di rinnovo cambiano, e ogni autorità pubblica la propria cifra attuale: il Dipartimento di Stato americano, l'HM Passport Office e l'Ufficio Passaporti Australiano. Controlli sempre il sito ufficiale per i tempi attuali prima di presentare la domanda.
 
 Qualsiasi passaporto che scada entro 12 mesi: avvii il processo di rinnovo adesso. I passaporti dei bambini scadono più velocemente - 5 anni nella maggior parte dei paesi rispetto ai 10 per gli adulti - e i genitori frequentemente perdono la finestra. Per i richiedenti della Nuova Zelanda, controllare l'Ufficio Passaporti della Nuova Zelanda per le scadenze attuali; la domanda aumenta nel periodo precedente all'estate.
 

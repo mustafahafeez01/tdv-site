@@ -72,7 +72,7 @@ La risposta pratica: quando scendi al di sotto di 12 mesi di validità rimanente
 Ecco perché 12 mesi è la soglia giusta e non la data di scadenza stessa:
 
 - Ti dà un buffer completo di 6 mesi per qualsiasi destinazione che applica la regola.
-- Il rinnovo del passaporto richiede tempo: i rinnovi del passaporto britannico solitamente richiedono circa 3 settimane (e l'Ufficio dei Passaporti di HM dice di non prenotare i viaggi fino all'arrivo del nuovo passaporto) e l'elaborazione standard USA funziona 4-6 settimane, quindi iniziare con 6 mesi rimanenti lascia poco margine.
+- Il rinnovo del passaporto richiede tempo, e i tempi di elaborazione cambiano - l'Ufficio dei Passaporti di HM sconsiglia di prenotare viaggi fino all'arrivo del nuovo passaporto, ed entrambi, insieme al Dipartimento di Stato USA, pubblicano i loro tempi di elaborazione attuali. Per questo iniziare con 6 mesi rimanenti lascia poco margine.
 - I piani dell'ultimo minuto accadono. Un passaporto con 14 mesi rimanenti mantiene tutte le destinazioni aperte. Un passaporto con 5 mesi rimanenti chiude una gran parte del mondo.
 
 L'errore più comune è impostare un promemoria sulla data di scadenza stessa. A quel punto non puoi viaggiare verso la maggior parte delle destinazioni che applicano la regola dei 6 mesi. **Imposta il tuo promemoria di rinnovo al marchio di 12 mesi.**
@@ -93,7 +93,7 @@ Verso la maggior parte delle destinazioni europee, sì - il tuo passaporto deve 
 
 ### Quando devo rinnovare il mio passaporto?
 
-Rinnova quando scendi al di sotto di 12 mesi di validità rimanente. Questo ti dà un buffer per la regola dei 6 mesi e tiene conto del tempo necessario per il rinnovo - solitamente circa 3 settimane nel Regno Unito e 4-6 settimane negli USA, più a lungo durante i periodi di punta.
+Rinnova quando scendi al di sotto di 12 mesi di validità rimanente. Questo ti dà un buffer per la regola dei 6 mesi e tiene conto del tempo necessario per il rinnovo - varia in base al paese e al periodo dell'anno; l'HM Passport Office e il Dipartimento di Stato USA pubblicano entrambi i loro tempi di elaborazione attuali.
 
 ### I passaporti dei bambini scadono più velocemente dei passaporti degli adulti?
 

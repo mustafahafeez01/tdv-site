@@ -12,11 +12,11 @@ Source: https://traveldocumentvault.com/blog/travel-expired-passport-uk/
 
 - **Absolute rule:** No international travel with an expired passport. Airlines and border control will refuse you.
 - **Domestic exceptions:** UK to Ireland and Isle of Man may accept alternative photo ID; contact your airline first.
-- **Emergency renewal:** Online Premium service available for £239.50 all-in (same-day or next-day appointment, renewals only).
+- **Emergency renewal:** HM Passport Office runs an Online Premium service for renewals only, with a same-day or next-day appointment when slots are available. Check the current fee on gov.uk before you book.
 - **Travel insurance:** Most policies void claims if your passport was expired during travel.
 - **If abroad:** Contact the nearest British embassy or consulate for an emergency travel document.
 
-When you book a flight to Barcelona 10 days away and check your passport, you find it expires in 8. Can you still travel?
+You book a flight to Barcelona and check your passport. It's due to expire before your return date. Can you still travel?
 
 No - an expired passport won't work for international travel. Airlines check validity before issuing boarding passes, and if your passport is expired they'll deny you access to the plane. Border control does the same check at your destination, so there's no way round it: you'll need to renew before you travel internationally.
 
@@ -32,7 +32,7 @@ This rule applies to all international travel, flights to Europe and ferry cross
 
 The only exception is a British emergency travel document, issued by the Foreign Office when you are already abroad in a genuine emergency, and even then it exists only to get you home - not to permit further travel.
 
-![Hand-drawn decision tree for an expired passport: international travel is not allowed and points to emergency renewal at £239.50, domestic travel means check with your airline and contact them 48 hours before, with a note to always verify before departure](https://traveldocumentvault.com/blog/travel-expired-passport-uk/passport-expiry-decision-tree.jpg) The two paths from an expired passport - and neither of them is the departure gate.
+![Hand-drawn decision tree for an expired passport: international travel is marked not allowed and points to applying for an urgent renewal, domestic travel points to checking with your airline and calling before you travel, with a note to always verify before departure](https://traveldocumentvault.com/blog/travel-expired-passport-uk/passport-expiry-decision-tree.jpg) The two paths from an expired passport - and neither of them is the departure gate.
 
 ## Domestic Travel: Limited Flexibility with Alternative ID
 
@@ -40,13 +40,13 @@ Domestic travel within the UK and Ireland works a little differently: airlines m
 
 **That doesn't mean you can skip renewing your passport.** Airlines vary in their policies on domestic routes: some require a passport for all travel to Ireland even though the Common Travel Area technically permits ID-card travel, whilst others accept a driving licence. Airlines update their rules too, and your carrier may have changed theirs since you last flew, so you cannot assume what worked before will work again.
 
-If you are considering domestic travel with an expired passport, contact your airline at least 48 hours before your flight and ask explicitly: "My UK passport is expired. Will you accept my UK driving licence instead?" Get confirmation in writing if you can, as arriving at check-in with an alternative ID and no prior confirmation is how people miss flights.
+If you are considering domestic travel with an expired passport, contact your airline well before your flight and ask explicitly: "My UK passport is expired. Will you accept my UK driving licence instead?" Get confirmation in writing if you can, as arriving at check-in with an alternative ID and no prior confirmation is how people miss flights.
 
 ## Emergency Renewal: The Premium Service Pathway
 
-If your trip is imminent and your passport is expired, His Majesty's Passport Office offers a Premium service designed for exactly this scenario, guaranteeing either a same-day appointment or one the next working day depending on availability. The fee is £239.50 in total - it covers everything, rather than being an add-on to the standard fee - and your renewed passport arrives within days rather than the weeks a standard renewal can take. Note the Online Premium service is for renewals only, not first adult passports.
+If your trip is imminent and your passport is expired, His Majesty's Passport Office offers a Premium service designed for exactly this scenario, with a same-day appointment or one the next working day depending on availability. HM Passport Office publishes the current fee on gov.uk, and it covers the appointment and renewal together rather than being charged on top of the standard fee. It gets you a passport far faster than the standard route, though how much faster depends on the appointment you can get. Note the Online Premium service is for renewals only, not first adult passports.
 
-This is the official emergency route for genuine travel constraints. Official guidance is currently to allow around 3 weeks for a standard renewal, and almost all applications are processed within that window, but when a trip genuinely can't wait, the Premium option removes the uncertainty.
+This is the official emergency route for genuine travel constraints. HM Passport Office publishes its current standard processing guidance on gov.uk, and it's worth checking that before you assume you have time to wait. When a trip genuinely can't wait, the Premium option removes the uncertainty.
 
 The catch is that you must have an available appointment slot, which fill up quickly during summer holidays and school breaks. If you discover your passport is expired on a Friday before a Monday trip you may find no Premium slots available, as booking happens online at gov.uk with live availability. When your preferred date shows no slots you genuinely have no other option that day.
 
@@ -74,7 +74,7 @@ This applies whether your passport expired before you left the UK or while you w
 
 Your passport expiring while you're still abroad is the hardest scenario to plan for. If it expires before you return, you cannot board a flight or ferry home, and you'll need to contact the nearest British embassy or consulate for an emergency travel document, sometimes called an ETD or emergency passport, which is valid only for getting home.
 
-The process is slow and bureaucratic. You'll need to provide proof of identity and pay the fee, currently £125, and most embassies take several days to issue the document, though some can turn it around in 24-48 hours if you're genuinely stuck and others take a week. The emergency document only covers the specific journey back to the UK; it isn't a tourist passport, and it won't permit onward travel.
+The process is slow and bureaucratic. You'll need to provide proof of identity and pay a fee, the current amount published by the Foreign, Commonwealth and Development Office. Processing time varies by embassy and by how urgent your situation is, so ask the consulate what to expect as soon as you contact them. The emergency document only covers the specific journey back to the UK; it isn't a tourist passport, and it won't permit onward travel.
 
 Setting reminders months ahead, rather than scrambling the week before you fly, is what keeps this from happening in the first place. If your passport expires within 6 months of your trip, start the renewal process now before you commit to travel dates.
 

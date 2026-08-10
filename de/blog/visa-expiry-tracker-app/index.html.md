@@ -52,7 +52,7 @@ Die Folgen einer Visumsüberschreitung sind je nach Land unterschiedlich, aber d
 - **Vereinigtes Königreich:** Überschreitungen werden aufgezeichnet und beeinflussen zukünftige Visamanträge. Das UK Home Office berücksichtigt Überschreitungen bei der Beurteilung der Glaubwürdigkeit und kann nachfolgende Anträge ablehnen.
 - **Australien:** Visumsüberschreitung kann zu Einschränkungen bei zukünftigen Visaanträgen und Entfernung aus dem Land führen. Gemäß Migration Act 1958 werden Überschreitungsaufzeichnungen nachverfolgt und beeinflussen zukünftige Visaanträge und die Wiedereinreiseberechtigung.
 - **Schengen-Raum:** Überschreitungen werden im Schengen-Informationssystem (SIS) nachverfolgt. Ein Verbot, das von einem Schengen-Land erlassen wird, gilt für alle 27 Mitgliedstaaten.
-- **Thailand:** Überschreitungen kosten 500 Baht pro Tag (ungefähr USD 14), bis zu 20.000 Baht, und können zu Verhaftung und Abschiebung bei längeren Überschreitungen führen.
+- **Thailand:** Überschreitungen ziehen eine von der thailändischen Einwanderungsbehörde festgelegte Tagesstrafe bis zu einer gedeckelten Obergrenze nach sich und können bei längeren Überschreitungen zu Verhaftung und Abschiebung führen.
 
 In allen Fällen folgt der Überschreitungsdatensatz Ihnen typischerweise: Er taucht in Einwanderungsdatenbanken auf, die bei zukünftigen Grenzübergängen und Visaanträgen überprüft werden.
 
@@ -63,12 +63,12 @@ Angesichts der oben genannten Komplexität braucht eine gute Visa-Ablauf-Tracker
 - **Separate Felder für Einreisegültigkeit und maximale Aufenthaltsdauer:** Dies sind unterschiedliche Daten und benötigen separate Erinnerungen.
 - **Nachverfolgung der Einreisezahl:** Einfach vs. doppelt vs. mehrfach ist wichtig dafür, ob das Visum einen Ausstieg und eine Wiedereinreise überlebt.
 - **Offline-Zugang:** Sie benötigen Ihre Visumdetails an Grenzen, wo das Internet möglicherweise unzuverlässig ist.
-- **Benutzerdefinierte Erinnerungszeiten:** Ein langfristiges Arbeitsvisum könnte eine 90-Tage-Erinnerung rechtfertigen; ein Touristenvisum könnte 2 Wochen rechtfertigen. Einheitsgrößen-Erinnerungen sind nicht angemessen.
+- **Benutzerdefinierte Erinnerungszeiten:** Ein langfristiges Arbeitsvisum könnte eine 90-Tage-Erinnerung rechtfertigen; ein Touristenvisum benötigt genug Vorlaufzeit, um die Abreise ohne Hetze zu arrangieren. Einheitsgrößen-Erinnerungen sind nicht angemessen.
 - **Mehrere Dokumenttypen und Reisende:** Wenn Sie als Familie reisen, muss jedes Familienmitgliedsvisa unabhängig nachverfolgt werden.
 - **Datenschutzmodell:** Visumdetails sind identitätsgebundene vertrauliche Daten. Wie bei der Passpeicherung ist Verschlüsselung auf dem Gerät ohne Cloud-Upload die sicherste Architektur.
 - **Pass- + Visa-Tracking zusammen:** Ein häufig übersehener Fehler ist ein gültiges Visum, aber ein Passstatus, der während Ihres geplanten Aufenthalts abläuft. Wenn beide an einem Ort verfolgt werden, verhindert dies diesen Mismatch.
 
-**Travel Document Vault** verfolgt Passstatus- und Visumablaufdaten an einem Ort, mit separaten pro-Dokumenteninnerungen und Unterstützung für mehrere Reisende. Ihre Daten bleiben auf dem Gerät und sind AES-256 verschlüsselt, kein Konto erforderlich, mit optionaler verschlüsselter Sicherung zu Ihrem eigenen iCloud oder Google Drive (Pro). [Es ist im App Store für 9,99 USD einmalig verfügbar.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** verfolgt Passstatus- und Visumablaufdaten an einem Ort, mit separaten pro-Dokumenteninnerungen und Unterstützung für mehrere Reisende. Ihre Daten bleiben auf dem Gerät und sind AES-256 verschlüsselt, kein Konto erforderlich, mit optionaler verschlüsselter Sicherung zu Ihrem eigenen iCloud oder Google Drive (Pro). [Es ist im App Store als einmaliger Kauf ohne Abonnement verfügbar.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Praktische Schritte zur korrekten Visumverfolgung
 
@@ -102,7 +102,7 @@ Die besten machen das. Offline-Zugang ist an Grenzen und in Gebieten mit unzuver
 
 ### Wie weit im Voraus sollte ich eine Erinnerung vor Ablauf meines Visums erhalten?
 
-Das hängt von der Visumsorte ab. Für Langzeitvisas, die eine Verlängerung benötigen, sind 90 Tage ein angemessenes Minimum. Für Touristenvisa mit festen maximalen Aufenthaltsfristen gibt eine Erinnerung 2 Wochen vor Ihrem letzten zulässigen Abreisedatum Zeit, die Abreise ohne Hetze zu arrangieren. Suchen Sie nach Apps, mit denen Sie benutzerdefinierte Zeitpunkte pro Dokument festlegen können.
+Das hängt von der Visumsorte ab. Für Langzeitvisas, die eine Verlängerung benötigen, sind 90 Tage ein angemessenes Minimum. Für Touristenvisa mit festen maximalen Aufenthaltsfristen gibt eine Erinnerung mit genug Vorlaufzeit vor Ihrem letzten zulässigen Abreisedatum Zeit, die Abreise ohne Hetze zu arrangieren. Suchen Sie nach Apps, mit denen Sie benutzerdefinierte Zeitpunkte pro Dokument festlegen können.
 
 ## Verwandte Artikel
 

@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/ja/blog/why-i-built-travel-document-vaul
 
 ---
 
+![搭乗券を挟んだ家族のパスポートの整った重なり、濃紺の背景の上に](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/cover.jpg)
+
 入国審査で、担当官が娘のパスポートを見て、少し間を置いてから私を見上げました。
 
 「7か月後に失効するのはご存知ですか？」と彼は言いました。「一応お伝えしておきますが、多くの国では有効残存期間が6か月未満だと入国を拒否されます。」

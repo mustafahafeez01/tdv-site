@@ -65,7 +65,7 @@ Países que tipicamente exigem autenticação ou certificação:
 - **Reino Unido.** Não legalmente necessária para viagens de saída, mas agentes de companhias aéreas e agentes fronteiriços de destino podem solicitar uma quando uma criança viaja com um progenitor ou com um adulto não-progenitor. Uma assinatura certificada por solicitor é típica.
 - **Estados Unidos.** Não mandatório a nível federal mas recomendado. Alguns estados reconhecem a autenticação explicitamente.
 
-A autenticação tipicamente custa entre $20 e $100 por assinatura, dependendo da localização, e deve permitir uma a duas semanas para agendar um encontro com um notário, especialmente durante as férias escolares. Confirme sempre os requisitos do seu destino em primeiro lugar. As regras do país de destino determinam se a autenticação é necessária ou não, não as do seu país de origem.
+As taxas notariais variam consoante o país e o notário, e a rapidez com que precisa de uma marcação, por isso pergunte quanto vai custar e com que antecedência precisa de marcar, especialmente durante as férias escolares. Confirme sempre os requisitos do seu destino em primeiro lugar. As regras do país de destino determinam se a autenticação é necessária ou não, não as do seu país de origem.
 
 ## Erros Comuns que Levam à Rejeição de Cartas
 

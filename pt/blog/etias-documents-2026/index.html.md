@@ -1,6 +1,6 @@
 # ETIAS 2026: Que Documentos Precisa e Como Candidatar-se
 
-> Visitantes do Reino Unido, EUA e Canadá precisam de ETIAS em 2026. Passaporte (válido por 3+ meses), email, comprovativo de rendimento opcional. Custa €20. Candidate-se com 2 meses de antecedência.
+> Visitantes do Reino Unido, EUA e Canadá precisam de ETIAS em 2026. Passaporte (válido por 3+ meses), email, comprovativo de rendimento opcional. Consulte a taxa e os prazos atuais no site oficial da UE.
 
 Source: https://traveldocumentvault.com/pt/blog/etias-documents-2026/
 
@@ -12,19 +12,19 @@ Source: https://traveldocumentvault.com/pt/blog/etias-documents-2026/
 
 - **ETIAS lança em 2026** para viajantes do Reino Unido, EUA e Canadá - uma autorização de viagem digital para entrada sem visto na Europa
 - **Precisa de um passaporte válido por 3+ meses** além da sua data de saída e um endereço de email para se candidatar
-- **O processamento demora até 4 semanas;** candidate-se com pelo menos 2 meses antes da sua viagem para evitar atrasos
-- **O custo é €20 por adulto;** gratuito para menores de 18 e maiores de 70
+- **O tempo de processamento varia,** especialmente logo após o lançamento; candidate-se com boa antecedência à sua viagem e consulte o site oficial da UE para orientações atuais
+- **Consulte a taxa atual no site oficial da UE;** menores de 18 e maiores de 70 não pagam mas ainda precisam de autorização
 - **As rejeições comuns ocorrem por registos criminais não divulgados ou overstays anteriores - planeie em conformidade**
 
 Reservou a sua viagem de verão em família para Itália, mas depois ouve que ETIAS lança em meados de 2026 e está a pensar se precisa dele, que documentos preparar e quanto tempo todo o processo demora. Este guia responde a cada pergunta antes de chegar ao formulário de candidatura.
 
-O Sistema Europeu de Informação e Autorização de Viagens (ETIAS) não é um visto - é uma autorização de pré-viagem digital para visitantes de países isentos de visto. Cidadãos do Reino Unido, EUA e Canadá atualmente chegam à Europa, digitalizam o seu passaporte, respondem a algumas perguntas de fronteira e passam. A partir de 2026, esse processo muda-se para online, várias semanas antes da sua partida.
+O Sistema Europeu de Informação e Autorização de Viagens (ETIAS) não é um visto - é uma autorização de pré-viagem digital para visitantes de países isentos de visto. Cidadãos do Reino Unido, EUA e Canadá atualmente chegam à Europa, digitalizam o seu passaporte, respondem a algumas perguntas de fronteira e passam. A partir de 2026, esse processo muda-se para online, e candidata-se antes de voar.
 
 ## O que É ETIAS e Quem Precisa?
 
 ETIAS é um sistema de autorização digital concebido para reforçar a segurança de fronteiras e gestão de viagens em toda a área de Schengen. Aplica-se a cidadãos de países isentos de visto - significando países cujos nacionais podem atualmente entrar na Europa sem visto para estadias curtas. Isto inclui Reino Unido, EUA, Canadá, Austrália, Nova Zelândia e dezenas de outros.
 
-Se tem um visto como um visto de longa duração Schengen, visto de família Reino Unido ou outro documento de residência, não vai precisar de ETIAS - nem cidadãos da UE, noruegueses, islandeses e liechtensteinenses. Crianças menores de 18 anos e adultos maiores de 70 são isentos da taxa €20 mas ainda necessitam de autorização sem custo.
+Se tem um visto como um visto de longa duração Schengen, visto de família Reino Unido ou outro documento de residência, não vai precisar de ETIAS - nem cidadãos da UE, noruegueses, islandeses e liechtensteinenses. Crianças menores de 18 anos e adultos maiores de 70 são isentos da taxa mas ainda necessitam de autorização sem custo.
 
 **ETIAS afeta** viajantes individuais, famílias com múltiplos membros candidatando-se separadamente, nómadas digitais planeando estadias curtas repetidas, e qualquer pessoa reservando viagens europeias para finais de 2026 em diante - e lembre-se que cada pessoa entre 18 e 70 na sua família precisa da sua própria candidatura individual ao ETIAS.
 
@@ -54,11 +54,11 @@ Depois, vai responder a perguntas de segurança cobrindo histórico criminal, de
 
 Declarações de saúde são diretas - vai ser perguntado se tem doenças infecciosas ou condições graves que apresentem risco de saúde pública, o que difere dos requisitos de seguro de viagem médica já que ETIAS é focado especificamente em controlo de doença em vez de estado de saúde individual.
 
-No final, revê a sua informação, paga a taxa €20 (gratuita se menores de 18 ou maiores de 70) e submete - e nesse ponto um número de confirmação é gerado imediatamente e a sua candidatura entra na fila de processamento.
+No final, revê a sua informação, paga a taxa apresentada no pagamento (gratuita se menores de 18 ou maiores de 70) e submete - e nesse ponto um número de confirmação é gerado imediatamente e a sua candidatura entra na fila de processamento.
 
 ## Tempo de Processamento e Tipos de Resultado
 
-Enquanto o tempo de processamento padrão é **até 4 semanas**, a Comissão Europeia recomenda candidatar-se com pelo menos 2 meses antes da sua viagem para contabilizar sobrecarga inicial do sistema após lançamento, potenciais atrasos em verificações de antecedentes e tempo para resolver quaisquer rejeições se necessário.
+A Comissão Europeia publica orientações atualizadas sobre o tempo de processamento no seu site oficial, e vale a pena consultá-las antes de assumir que tem tempo suficiente. A elevada procura após o lançamento, possíveis atrasos nas verificações de antecedentes e o tempo para resolver uma rejeição podem prolongar a espera, por isso candidate-se com a maior antecedência razoável antes da sua viagem.
 
 Existem três resultados possíveis: aprovado, rejeitado ou recusa de autorização.
 
@@ -120,7 +120,7 @@ Deve ter um passaporte válido com pelo menos três meses de validade além da s
 
 ### Quanto custa o ETIAS e quanto tempo demora?
 
-O ETIAS custa €20 para adultos. Crianças menores de 18 anos são gratuitas, assim como candidatos com mais de 70 anos. A taxa é não reembolsável mesmo que a sua candidatura seja rejeitada. O tempo de processamento padrão é normalmente 4 semanas, mas a Comissão Europeia recomenda candidatar-se com pelo menos 2 meses antes da sua viagem para contabilizar possíveis atrasos durante a fase de lançamento inicial.
+A Comissão Europeia publica a taxa atual do ETIAS no seu site oficial. Crianças menores de 18 anos e candidatos com mais de 70 anos não pagam, mas ainda precisam de autorização. A taxa é não reembolsável mesmo que a sua candidatura seja rejeitada. O tempo de processamento varia, especialmente durante a fase de lançamento inicial, por isso consulte as orientações oficiais e candidate-se com boa antecedência à sua viagem, em vez de perto da data de partida.
 
 ### O que acontece se a minha candidatura a ETIAS for rejeitada?
 

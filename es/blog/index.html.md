@@ -114,6 +114,6 @@ Source: https://traveldocumentvault.com/es/blog/
 
 Escanea los pasaportes de tu familia esta noche. Los recordatorios de caducidad se configuran solos. Cifrado y almacenado solo en tu dispositivo.
 
-![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+![Descargar en el App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
-![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+![Disponible en Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/pt/blog/why-i-built-travel-document-vaul
 
 ---
 
+![Uma pilha organizada dos passaportes de uma família com um cartão de embarque entre eles, sobre um fundo azul-marinho profundo](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/cover.jpg)
+
 Estava na imigração quando o funcionário olhou para o passaporte da minha filha, fez uma pausa, e depois olhou para mim.
 
 "Sabe que este expira em sete meses, pois não?" disse ele. "Só para ter em conta, alguns países não o deixam entrar com menos de seis meses de validade."

@@ -1,6 +1,6 @@
 # ETIAS 2026 : Quels documents vous devez avoir et comment demander
 
-> Les visiteurs du Royaume-Uni, des États-Unis et du Canada ont besoin d'une ETIAS pour 2026. Passeport (valide 3+ mois), e-mail, justificatif de revenus optionnel. Coût : 20 euros. Demandez 2 mois à l'avance.
+> Les visiteurs du Royaume-Uni, des États-Unis et du Canada ont besoin d'une ETIAS pour 2026. Passeport (valide 3+ mois), e-mail, justificatif de revenus optionnel. Consultez les frais et délais actuels sur le site officiel de l'UE.
 
 Source: https://traveldocumentvault.com/fr/blog/etias-documents-2026/
 
@@ -12,19 +12,19 @@ Source: https://traveldocumentvault.com/fr/blog/etias-documents-2026/
 
 - **L'ETIAS est lancée en 2026** pour les voyageurs du Royaume-Uni, des États-Unis et du Canada - une autorisation numérique de voyage pour une entrée sans visa en Europe
 - **Vous avez besoin d'un passeport valable 3+ mois** au-delà de votre date de départ et d'une adresse e-mail pour demander
-- **Le traitement prend jusqu'à 4 semaines ;** demandez au moins 2 mois avant votre voyage pour éviter les retards
-- **Le coût est de 20 euros par adulte ;** gratuit pour les moins de 18 ans et les plus de 70 ans
+- **Le délai de traitement varie,** particulièrement peu après le lancement ; demandez bien avant votre voyage et consultez le site officiel de l'UE pour les indications actuelles
+- **Consultez les frais actuels sur le site officiel de l'UE ;** gratuit pour les moins de 18 ans et les plus de 70 ans, qui ont tout de même besoin d'une autorisation
 - **Les rejets courants se produisent pour les antécédents criminels non divulgués ou les dépassements antérieurs - planifiez en conséquence**
 
 Vous avez réservé votre voyage familial d'été en Italie, mais vous avez entendu dire qu'ETIAS est lancée mi-2026 et vous vous demandez si vous en avez besoin, quels documents préparer et combien de temps prendra le processus. Ce guide répond à toutes les questions avant que vous n'atteigniez le formulaire de demande.
 
-Le système européen d'information et d'autorisation de voyage (ETIAS) n'est pas un visa - c'est une autorisation numérique de pré-voyage pour les visiteurs en provenance de pays exemptés de visa. Les citoyens britanniques, américains et canadiens arrivent actuellement en Europe, scannent votre passeport, répondent à quelques questions frontalières et passent. À partir de 2026, ce processus se déplace en ligne, plusieurs semaines avant votre départ.
+Le système européen d'information et d'autorisation de voyage (ETIAS) n'est pas un visa - c'est une autorisation numérique de pré-voyage pour les visiteurs en provenance de pays exemptés de visa. Les citoyens britanniques, américains et canadiens arrivent actuellement en Europe, scannent votre passeport, répondent à quelques questions frontalières et passent. À partir de 2026, ce processus se déplace en ligne, et vous devez demander avant de partir.
 
 ## Qu'est-ce qu'ETIAS et qui en a besoin ?
 
 ETIAS est un système d'autorisation numérique conçu pour renforcer la sécurité frontalière et la gestion des voyages dans l'espace Schengen. Elle s'applique aux citoyens de pays exemptés de visa - ce qui signifie que les ressortissants de ces pays peuvent actuellement entrer en Europe sans visa pour des séjours de courte durée. Cela inclut le Royaume-Uni, les États-Unis, le Canada, l'Australie, la Nouvelle-Zélande et des dizaines d'autres.
 
-Si vous détenez un visa tel qu'un visa Schengen de longue durée, un visa familial britannique ou un autre titre de séjour, vous n'aurez pas besoin d'ETIAS - pas plus que les citoyens de l'UE, les ressortissants norvégiens, islandais et liechtensteinois. Les enfants de moins de 18 ans et les adultes de plus de 70 ans sont exemptés des frais de 20 euros mais nécessitent toujours une autorisation sans frais.
+Si vous détenez un visa tel qu'un visa Schengen de longue durée, un visa familial britannique ou un autre titre de séjour, vous n'aurez pas besoin d'ETIAS - pas plus que les citoyens de l'UE, les ressortissants norvégiens, islandais et liechtensteinois. Les enfants de moins de 18 ans et les adultes de plus de 70 ans sont exemptés des frais mais nécessitent toujours une autorisation sans frais.
 
 **L'ETIAS affecte** les voyageurs individuels, les familles avec plusieurs membres demandant séparément, les nomades numériques planifiant des séjours courts répétés et toute personne réservant des voyages en Europe pour fin 2026 et au-delà - et n'oubliez pas que chaque personne entre 18 et 70 ans dans votre famille doit demander sa propre demande d'ETIAS individuelle.
 
@@ -54,11 +54,11 @@ Ensuite, vous répondrez à des questions de sécurité couvrant l'historique cr
 
 Les déclarations de santé sont simples - on vous demandera si vous avez des maladies infectieuses ou des conditions graves qui posent un risque pour la santé publique, ce qui diffère des exigences médicales des assurances voyage puisque l'ETIAS est focalisée spécifiquement sur le contrôle des maladies plutôt que sur l'état de santé individuel.
 
-À la fin, vous examinez vos informations, payez les frais de 20 euros (gratuit si moins de 18 ans ou plus de 70 ans), et soumettez - à quel moment un numéro de confirmation est généré immédiatement et votre demande entre dans la file d'attente de traitement.
+À la fin, vous examinez vos informations, payez les frais affichés au moment du paiement (gratuit si moins de 18 ans ou plus de 70 ans), et soumettez - à quel moment un numéro de confirmation est généré immédiatement et votre demande entre dans la file d'attente de traitement.
 
 ## Délai de traitement et types de résultats
 
-Bien que le délai de traitement standard soit **jusqu'à 4 semaines**, la Commission européenne recommande de demander au moins 2 mois avant votre voyage pour tenir compte de la surcharge initiale du système suite au lancement, des retards potentiels dans les contrôles de sécurité, et du temps pour résoudre tout rejet si nécessaire.
+La Commission européenne publie des indications actualisées sur le délai de traitement sur son site officiel, et cela vaut la peine de les consulter avant de supposer que vous avez le temps. La forte demande après le lancement, les retards potentiels dans les contrôles de sécurité et le temps nécessaire pour résoudre un rejet peuvent tous allonger l'attente, alors demandez le plus tôt possible avant votre voyage.
 
 Il y a trois résultats possibles : approuvé, rejeté ou refus d'autorisation.
 
@@ -120,7 +120,7 @@ Vous devez avoir un passeport valide avec au moins trois mois de validité au-de
 
 ### Combien coûte l'ETIAS et combien de temps faut-il ?
 
-L'ETIAS coûte 20 euros pour les adultes. Les enfants de moins de 18 ans sont gratuits, tout comme les candidats de plus de 70 ans. Les frais ne sont pas remboursables même si votre demande est rejetée. Le délai de traitement standard est généralement de 4 semaines, mais la Commission européenne recommande de demander au moins 2 mois avant votre voyage pour tenir compte des retards potentiels lors de la phase de lancement initial.
+La Commission européenne publie les frais actuels de l'ETIAS sur son site officiel. Les enfants de moins de 18 ans et les candidats de plus de 70 ans ne paient pas, mais ont tout de même besoin d'une autorisation. Les frais ne sont pas remboursables même si votre demande est rejetée. Le délai de traitement varie, particulièrement pendant la phase initiale de lancement, alors consultez les indications officielles et demandez bien avant votre voyage plutôt qu'à l'approche de votre date de départ.
 
 ### Que se passe-t-il si ma demande d'ETIAS est rejetée ?
 

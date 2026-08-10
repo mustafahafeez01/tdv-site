@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/blog/lost-passport-abroad/
 ## Key Takeaways
 
 - File a police report first - you need it for both your embassy application and your insurance claim.
-- Your embassy or consulate can issue an emergency travel document, often within 24-48 hours. **Call ahead** - most require an appointment.
+- Your embassy or consulate can issue an emergency travel document, usually far faster than a replacement passport. **Call ahead** - most require an appointment.
 - Travellers with a secure digital copy of their passport get replacement documents faster - you hand over the details your embassy needs in seconds.
 - Travel insurance covers passport replacement costs in most comprehensive policies. You need the police report to claim.
 - The time to prepare is now, before anything goes wrong. A five-minute scan today could save days of stress abroad.
@@ -49,7 +49,7 @@ Call before you visit. Many embassies require an appointment for emergency passp
 
 ## Step 4: Apply for an Emergency Travel Document
 
-Your embassy issues an emergency travel document (ETD) or emergency passport, typically valid for a single journey home. Most embassies issue them within 24-48 hours for genuine emergencies, though yours may be different - ask when you call.
+Your embassy issues an emergency travel document (ETD) or emergency passport, typically valid for a single journey home. Turnaround depends on the post and on how urgent your case is, so ask when you call.
 
 What you will typically need (confirm with your embassy before visiting):
 
@@ -88,7 +88,7 @@ File a police report immediately, then contact your nearest embassy or consulate
 
 ### Can I get an emergency passport abroad?
 
-Yes. Most countries issue emergency travel documents through their embassies and consulates, typically valid for a single journey home and often issued within 24-48 hours. Call your nearest embassy or consulate as soon as possible - many require an appointment.
+Yes. Most countries issue emergency travel documents through their embassies and consulates, typically valid for a single journey home. Turnaround varies by post and by how urgent your case is, so ask when you call. Contact your nearest embassy or consulate as soon as possible - many require an appointment.
 
 ### Do I need a police report if my passport is stolen abroad?
 

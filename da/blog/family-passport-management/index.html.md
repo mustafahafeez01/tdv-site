@@ -104,8 +104,8 @@ Du skal fornye det familiemedlems pas før rejsen. Hvis du er inden for 12 måne
 
 ## Relaterede artikler
 
-[Familierejser6 min læsning · juli 2026Samtykkebrev for børnerejse: Hvad forældre skal vide](https://traveldocumentvault.com/blog/child-travel-consent-letter/)
+[Familierejser6 min læsning · juli 2026Samtykkebrev for børnerejse: Hvad forældre skal vide](https://traveldocumentvault.com/da/blog/child-travel-consent-letter/)
 
-[Organisering8 min læsning · juni 2026Sådan organiserer du familierejsedokumenter før hver rejse](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+[Organisering8 min læsning · juni 2026Sådan organiserer du familierejsedokumenter før hver rejse](https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-documents/)
 
-[Privatliv og sikkerhed7 min læsning · maj 2026Sikreste måde at opbevare dit pas digitalt: Krypteret vs offentlig cloud](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/)
+[Privatliv og sikkerhed7 min læsning · maj 2026Sikreste måde at opbevare dit pas digitalt: Krypteret vs offentlig cloud](https://traveldocumentvault.com/da/blog/safest-way-to-store-passport-digitally/)

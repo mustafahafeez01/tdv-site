@@ -30,13 +30,13 @@ Bei der Standard-Passerneuerung per Post in den USA ist es nicht erforderlich, I
 
 Das bedeutet, dass Reisen im Inland innerhalb der Vereinigten Staaten während des gesamten Erneuerungsprozesses nicht beeinträchtigt werden - Sie benötigen keinen Pass für Inlandsflüge. Internationale Reisen sind eine andere Sache: Sie können nicht ins Ausland reisen, bis Ihr neuer Pass ankommt, und Sie können auch den alten ungültig gemachten Pass nicht verwenden, selbst wenn Sie ihn in Händen halten.
 
-Die Standardbearbeitung dauert derzeit 4 bis 6 Wochen, ohne Versandzeit in beiden Richtungen. Wenn Sie internationales Reisen früher geplant haben, bietet das State Department beschleunigte Bearbeitung gegen eine zusätzliche Gebühr an, was die Zeitlinie auf etwa 2 bis 3 Wochen reduziert. Für wirklich dringende Reisen innerhalb von 14 Kalendertagen sind persönliche Termine bei regionalen Passämtern verfügbar - überprüfen Sie die Verfügbarkeit auf travel.state.gov.
+Die Standardbearbeitungszeit ändert sich, und das State Department veröffentlicht die aktuelle Angabe auf travel.state.gov, prüfen Sie diese also, bevor Sie danach planen. Wenn Ihre Reise gebucht ist, bevor Sie mit der Ankunft des neuen Passes rechnen, ist beschleunigte Bearbeitung gegen eine zusätzliche Gebühr verfügbar und verkürzt die Wartezeit spürbar. Für wirklich dringende Reisen sind persönliche Termine bei regionalen Passämtern verfügbar - aktuelle Berechtigung auf travel.state.gov prüfen.
 
 ## Vereinigtes Königreich: Zwei Verfahren mit gegensätzlichen Ergebnissen
 
 Das Vereinigte Königreich hat zwei Erneuerungswege, und sie haben völlig unterschiedliche Auswirkungen auf Reisen. Der verwendete Prozess bestimmt, was möglich ist.
 
-**Postalische Erneuerung:** Sie schicken Ihren aktuellen Pass zusammen mit Ihrem Antrag an das HM Passport Office. Ihr Pass ist in deren Händen während der gesamten Dauer, daher können Sie nicht ins Ausland reisen. Das HM Passport Office sagt derzeit, dass Sie Ihren neuen Pass normalerweise innerhalb von 3 Wochen erhalten, warnt aber davor, keine Reisen zu buchen, bis er ankommt, und ein Premium-Schnellservice ist gegen eine zusätzliche Gebühr verfügbar.
+**Postalische Erneuerung:** Sie schicken Ihren aktuellen Pass zusammen mit Ihrem Antrag an das HM Passport Office. Ihr Pass ist während der gesamten Dauer in deren Händen, daher können Sie nicht ins Ausland reisen. Das HM Passport Office veröffentlicht seine aktuelle Bearbeitungszeit auf seiner Website und rät davon ab, Reisen zu buchen, bevor der neue Pass ankommt. Ein Premium-Schnellservice ist gegen eine zusätzliche Gebühr verfügbar, wenn Ihre Reise nah bevorsteht.
 
 **Digitale Erneuerung** ist derzeit für berechtigte Erwachsene verfügbar, die vom Vereinigten Königreich aus beantragen. Sie behalten Ihren aktuellen Pass während des gesamten Prozesses, und die Regierung stellt Ihren neuen Pass separat aus und schickt ihn per Post zu Ihnen. Da Ihr bestehender Pass niemals Ihren Besitz verlässt, können Sie ihn normalerweise während der Verarbeitung des neuen weiterhin für Reisen verwenden. Die Berechtigung variiert je nach individuellen Umständen. Überprüfen Sie daher die Website des HM Passport Office auf die vollständigen Kriterien und aktuelle Wartezeiten, bevor Sie einen Antrag einreichen.
 
@@ -48,23 +48,23 @@ Die australische Passerneuerung erfordert, dass Sie Ihren aktuellen Pass zum Zei
 
 Sie können in diesem Zeitraum nicht ins Ausland reisen. Inlandsflüge innerhalb Australiens können auch beeinträchtigt werden, wenn Sie keinen anderen gültigen Lichtbildausweis haben, da Fluggesellschaften bei der Gepäckabfertigung einen Identitätsnachweis verlangen.
 
-Das Australian Passport Office empfiehlt derzeit, mindestens 6 Wochen nach Einreichen Ihres Antrags einzurechnen. Wenn Sie echte und unmittelbare Reisen haben, ist eine schnellere Bearbeitung gegen zusätzliche Gebühren verfügbar - ein Fast-Track-Service wird innerhalb von 5 Werktagen bearbeitet und ein Priority-Service innerhalb von 2 Werktagen. Notfalllösungen existieren für wirklich unmittelbare Reisen. Überprüfen Sie die aktuellen Zeiten und beantragen Sie auf passports.gov.au.
+Das Australian Passport Office veröffentlicht seine aktuellen Bearbeitungszeiten und empfiehlt, weit im Voraus vor jedem Reisedatum einen Antrag zu stellen. Wenn Sie eine echte und unmittelbar bevorstehende Reise haben, sind schnellere Bearbeitungsoptionen gegen zusätzliche Gebühren verfügbar, einschließlich Fast-Track- und Priority-Services. Notfalloptionen existieren für wirklich unmittelbar bevorstehende Reisen. Überprüfen Sie die aktuellen Zeiten und beantragen Sie auf passports.gov.au.
 
 ## Kanada: Bei Antragstellung Abgabe erforderlich
 
 Kanada verlangt, dass Sie Ihren bestehenden Pass abgeben, wenn Sie eine Erneuerung beantragen. Ihr alter Pass wird behalten, bis Ihr neuer fertig ist, daher können Sie in diesem Zeitraum nicht ins Ausland reisen - obwohl Inlandsreisen innerhalb Kanadas keinen Pass erfordern.
 
-Die Servicestandards liegen derzeit bei 10 Werktagen, wenn Sie persönlich in einem Passamt beantragen, oder 20 Werktagen per Post oder in einem regulären Service Canada Centre - plus Versandzeit. Für dringende Reisen können Sie den Express-Service (2 bis 9 Werktage) oder die dringende Abholung (so schnell wie am nächsten Tag) gegen zusätzliche Gebühren wählen. Überprüfen Sie die aktuellen Bearbeitungszeiten und beantragen Sie auf canada.ca.
+Service Canada veröffentlicht seine aktuellen Bearbeitungsstandards, die je nachdem variieren, ob Sie persönlich, per Post oder in einem Service Canada Centre beantragen, zuzüglich Versandzeit. Für dringende Reisen gibt es Express-Service und dringende Abholoptionen gegen zusätzliche Gebühren. Überprüfen Sie die aktuellen Bearbeitungszeiten und beantragen Sie auf canada.ca.
 
 ## Ländervergleich
 
-| Land / Methode | Pass behalten? | Internationale Reisen während Erneuerung? | Standardzeit |
-|---|---|---|---|
-| USA (per Post) | Ja (ungültig zurückgegeben) | Nein | 6-12 Wochen |
-| UK (postalisch) | Nein (vom HMPO gehalten) | Nein | Etwa 3 Wochen |
-| UK (digital) | Ja (Sie behalten ihn) | Ja (auf altem Pass) | 2-3 Wochen |
-| Australien | Nein (muss abgegeben werden) | Nein | 4-3 Wochen |
-| Kanada | Nein (muss abgegeben werden) | Nein | 5-3 Wochen |
+| Land / Methode | Pass behalten? | Internationale Reisen während Erneuerung? |
+|---|---|---|
+| USA (per Post) | Ja (ungültig zurückgegeben) | Nein |
+| UK (postalisch) | Nein (vom HMPO gehalten) | Nein |
+| UK (digital) | Ja (Sie behalten ihn) | Ja (auf altem Pass) |
+| Australien | Nein (muss abgegeben werden) | Nein |
+| Kanada | Nein (muss abgegeben werden) | Nein |
 
 ## Wenn Ihre Reise früher als der Erneuerungszeitraum stattfindet
 
@@ -100,7 +100,7 @@ Das hängt davon ab. Bei US-Erneuerung per Post wird Ihr alter Pass Ihnen (ungü
 
 ### Was ist ein Notreisedokument?
 
-Ein Notreisedokument ist ein temporäres Dokument, das von Ihrer Regierung für echte Notfälle wie ernsthafte Erkrankung im Ausland oder Todesfall in der Familie, der sofortige Reisen ins Ausland erfordert, ausgestellt wird. Es ist für eine Reise gültig. Es erfordert den Nachweis eines echten Notfalls und ist kein Ersatz für Standarderneuerung bei geplanten Reisen. Die Bearbeitung dauert normalerweise am selben Tag oder innerhalb von 24 Stunden.
+Ein Notreisedokument ist ein temporäres Dokument, das von Ihrer Regierung für echte Notfälle wie eine medizinische Krise oder einen Todesfall in der Familie ausgestellt wird, der sofortige Reisen ins Ausland erfordert. Es ist für eine einzelne Reise gültig. Es erfordert den Nachweis eines echten Notfalls und ist kein Ersatz für Standarderneuerung bei geplanten Reisen. Die Bearbeitung ist schnell, da diese Dokumente für dringende Situationen konzipiert sind, aber bestätigen Sie die aktuelle Bearbeitungszeit bei Ihrer Passbehörde, wenn Sie den Antrag stellen.
 
 ## Verwandte Artikel
 

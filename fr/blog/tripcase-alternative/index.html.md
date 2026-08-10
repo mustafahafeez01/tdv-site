@@ -32,7 +32,7 @@ TripCase n'a pas inventé grand-chose, mais il a perfectionné une poignée de f
 
 Son cœur était **l'analyse d'email en itinéraire** - transférez n'importe quelle confirmation de compagnie aérienne, d'hôtel ou de location de voiture et l'application l'a assemblée dans un voyage chronologique avec des dates et des références de réservation. Zéro saisie manuelle signifiait un itinéraire complet en secondes, ce qui est exactement pourquoi les gens y restaient pendant une décennie.
 
-**Les alertes de vol en temps réel** ont suivi : les retards, les changements de portes et les annulations souvent avant la notification de la compagnie aérienne elle-même. TripIt facture maintenant environ 49 dollars par an pour l'équivalent de sa version Pro, tandis que TripCase proposait la fonctionnalité à tout le monde gratuitement.
+**Les alertes de vol en temps réel** ont suivi : les retards, les changements de portes et les annulations souvent avant la notification de la compagnie aérienne elle-même. TripIt facture maintenant sa version Pro pour obtenir l'équivalent, tandis que TripCase proposait la fonctionnalité à tout le monde gratuitement.
 
 Ces vols, hôtels et transports au sol vivaient dans **la chronologie du voyage** - une pile parcourable unique par voyage. Simple, mais si vous avez jonglé avec une semaine multi-villes à partir d'une douzaine d'emails de confirmation, vous comprenez pourquoi cela importait. Dans les fils de discussion sur FlyerTalk et ailleurs, les anciens utilisateurs mentionnent régulièrement le **coffre-fort de documents** comme la pièce la plus regrettée - ce lieu unique et sécurisé pour les cartes d'embarquement, les visas, les passeports et les confirmations. Enfin, **le partage de voyage** permettait aux membres de la famille ou aux collègues de suivre sans emails transférés.
 
@@ -50,10 +50,10 @@ TripCase a regroupé plusieurs tâches différentes dans une application gratuit
 
 | La tâche | Ce que TripCase faisait | Meilleur remplacement maintenant | Coût |
 |---|---|---|---|
-| Alertes de vol | Retards en temps réel, changements de portes, annulations | Flighty | Niveau gratuit ; abonnement payant (tarifs variables) |
-| Analyse d'email en itinéraire | Transférez une confirmation, le voyage se construit tout seul | TripIt ou Tripsy | TripIt a un niveau gratuit ; Pro est environ 49 dollars/an |
+| Alertes de vol | Retards en temps réel, changements de portes, annulations | Flighty | Niveau gratuit ; abonnement payant disponible |
+| Analyse d'email en itinéraire | Transférez une confirmation, le voyage se construit tout seul | TripIt ou Tripsy | TripIt a un niveau gratuit ; consultez son site pour les tarifs Pro actuels |
 | Chronologie du voyage | Une vue chronologique unique par voyage | TripIt ou Tripsy | Inclus avec ce qui précède |
-| Stockage des documents de voyage | Le coffre-fort de documents : passeports, visas, cartes d'embarquement | Travel Document Vault | Gratuit pour commencer ; 9,99 dollars en une seule fois |
+| Stockage des documents de voyage | Le coffre-fort de documents : passeports, visas, cartes d'embarquement | Travel Document Vault | Achat unique, sans abonnement |
 | Partage de voyage | Les followers voyaient votre itinéraire en direct | Partage TripIt ou dossier partagé | Gratuit |
 
 Les alertes de vol et l'analyse des itinéraires sont des commodités - vraiment utiles - et elles appartiennent au cloud car elles ne sont pertinentes que pendant un voyage. Le stockage des documents, cependant, est différent : c'est la seule tâche où perdre l'accès vous coûte réellement quelque chose que vous ne pouvez pas reprogrammer.

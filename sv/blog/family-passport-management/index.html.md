@@ -104,8 +104,8 @@ Du måste förnya den personens pass före resor. Om du är inom 12 månader fr�
 
 ## Relaterade artiklar
 
-[Familjeresa6 min läsning - juli 2026Barnresetillstånd: Vad föräldrar behöver veta](https://traveldocumentvault.com/blog/child-travel-consent-letter/)
+[Familjeresa6 min läsning - juli 2026Barnresetillstånd: Vad föräldrar behöver veta](https://traveldocumentvault.com/sv/blog/child-travel-consent-letter/)
 
-[Organisation8 min läsning - juni 2026Hur du organiserar familjereshandlingar före varje resa](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+[Organisation8 min läsning - juni 2026Hur du organiserar familjereshandlingar före varje resa](https://traveldocumentvault.com/sv/blog/how-to-organise-family-travel-documents/)
 
-[Integritet och säkerhet7 min läsning - maj 2026Säkraste sättet att förvara ditt pass digitalt: Krypterad kontra offentlig moln](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/)
+[Integritet och säkerhet7 min läsning - maj 2026Säkraste sättet att förvara ditt pass digitalt: Krypterad kontra offentlig moln](https://traveldocumentvault.com/sv/blog/safest-way-to-store-passport-digitally/)

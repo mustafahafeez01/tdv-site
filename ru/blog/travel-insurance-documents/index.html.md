@@ -156,6 +156,6 @@ Source: https://traveldocumentvault.com/ru/blog/travel-insurance-documents/
 
 ## Похожие статьи
 
-[Подготовка к поездке8 мин чтенияКакие документы брать в международное путешествие](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/)
+[Подготовка к поездке8 мин чтенияКакие документы брать в международное путешествие](https://traveldocumentvault.com/ru/blog/what-documents-to-carry-when-travelling-internationally/)
 
-[Подготовка к поездке7 мин чтенияПотерял паспорт за границей: срочные шаги](https://traveldocumentvault.com/blog/lost-passport-abroad/)
+[Подготовка к поездке7 мин чтенияПотерял паспорт за границей: срочные шаги](https://traveldocumentvault.com/ru/blog/lost-passport-abroad/)

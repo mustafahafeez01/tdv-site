@@ -156,6 +156,6 @@ Source: https://traveldocumentvault.com/th/blog/travel-insurance-documents/
 
 ## บทความที่เกี่ยวข้อง
 
-[การเตรียมตัวเดินทางอ่าน 8 นาทีเอกสารใดที่ควรพกเมื่อเดินทางต่างประเทศ](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/)
+[การเตรียมตัวเดินทางอ่าน 8 นาทีเอกสารใดที่ควรพกเมื่อเดินทางต่างประเทศ](https://traveldocumentvault.com/th/blog/what-documents-to-carry-when-travelling-internationally/)
 
-[การเตรียมตัวเดินทางอ่าน 7 นาทีหนังสือเดินทางหายระหว่างต่างประเทศ ขั้นตอนฉุกเฉินที่ต้องทำทันที](https://traveldocumentvault.com/blog/lost-passport-abroad/)
+[การเตรียมตัวเดินทางอ่าน 7 นาทีหนังสือเดินทางหายระหว่างต่างประเทศ ขั้นตอนฉุกเฉินที่ต้องทำทันที](https://traveldocumentvault.com/th/blog/lost-passport-abroad/)

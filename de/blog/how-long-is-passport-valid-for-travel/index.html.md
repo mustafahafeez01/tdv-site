@@ -72,7 +72,7 @@ Die praktische Antwort: wenn Sie unter 12 Monaten verbleibender Gültigkeit fall
 Hier ist, warum 12 Monate die richtige Schwelle ist und nicht das Verfallsdatum selbst:
 
 - Es gibt Ihnen einen vollständigen 6-Monatspuffer für jedes Ziel, das die Regel durchsetzt.
-- Reisepassverlängerung braucht Zeit: Britische Reisepassverlängerungen dauern normalerweise etwa 3 Wochen (und die HM Passport Office sagt, nicht bis zum Eintreffen des neuen Reisepasses zu buchen) und US-Standard-Bearbeitung dauert 4-6 Wochen, daher bleibt bei 6 Monaten verbleibender Zeit wenig Spielraum.
+- Reisepassverlängerung braucht Zeit, und Bearbeitungszeiten ändern sich - das HM Passport Office rät davon ab, Reisen zu buchen, bis der neue Reisepass eintrifft, und sowohl das HM Passport Office als auch das US State Department veröffentlichen ihre aktuellen Bearbeitungszeiten. Bei 6 Monaten verbleibender Zeit bleibt daher wenig Spielraum.
 - Spontane Pläne passieren. Ein Reisepass mit 14 Monaten verbleibend hält alle Ziele offen. Ein Reisepass mit 5 Monaten verbleibend schließt einen großen Teil der Welt aus.
 
 Der häufigste Fehler ist, eine Erinnerung auf das Verfallsdatum selbst zu setzen. Zu diesem Zeitpunkt können Sie zu den meisten Zielen mit der 6-Monats-Regel nicht reisen. **Stellen Sie Ihre Verlängerungserinnerung auf die 12-Monats-Marke.**
@@ -93,7 +93,7 @@ Zu den meisten europäischen Zielen, ja - Ihr Reisepass muss lediglich während 
 
 ### Wann sollte ich meinen Reisepass verlängern?
 
-Verlängern Sie, wenn Sie unter 12 Monate Gültigkeit verbleibend fallen. Dies gibt Ihnen einen Puffer für die 6-Monats-Regel und berücksichtigt die Zeit, die Verlängerung braucht - normalerweise etwa 3 Wochen im Vereinigten Königreich und 4-6 Wochen in den USA, länger in vollen Zeiten.
+Verlängern Sie, wenn Sie unter 12 Monate Gültigkeit verbleibend fallen. Dies gibt Ihnen einen Puffer für die 6-Monats-Regel und berücksichtigt die Zeit, die Verlängerung braucht - diese variiert je nach Land und Jahreszeit; das HM Passport Office und das US State Department veröffentlichen beide ihre aktuellen Bearbeitungszeiten.
 
 ### Verfallen Kinderreisepässe schneller als Reisepässe für Erwachsene?
 

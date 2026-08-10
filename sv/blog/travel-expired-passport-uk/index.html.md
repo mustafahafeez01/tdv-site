@@ -44,7 +44,7 @@ Om du överväger en inhemsk resa med ett utgånget pass, kontakta ditt flygbola
 
 Om din resa är nära förestående och passet har gått ut erbjuder His Majesty's Passport Office en Premiumtjänst utformad exakt för det här scenariot, som garanterar antingen en tid samma dag eller nästa vardag beroende på tillgänglighet. Avgiften är totalt 239,50 pund - den täcker allt, snarare än att vara ett tillägg till standardavgiften - och det förnyade passet anländer inom några dagar i stället för de veckor en standardförnyelse kan ta. Observera att onlinetjänsten Premium enbart gäller förnyelser, inte första passet för vuxna.
 
-Det här är den officiella nödvägen för verkliga resebegränsningar, inte en genväg - Premiumtjänsten finns eftersom resor ibland inte kan vänta. Den officiella vägledningen är för närvarande att räkna med omkring 3 veckor för en standardförnyelse, och nästan alla ansökningar handläggs inom den tidsramen - men för resor som verkligen inte kan vänta tar Premiumalternativet bort osäkerheten.
+Det här är den officiella nödvägen för verkliga resebegränsningar, inte en genväg - Premiumtjänsten finns eftersom resor ibland inte kan vänta. HM Passport Office publicerar den aktuella handläggningstiden för en standardförnyelse, och nästan alla ansökningar handläggs inom den tidsramen - men för resor som verkligen inte kan vänta tar Premiumalternativet bort osäkerheten.
 
 Haken är att du måste ha en ledig tid, och de tar snabbt slut under sommarlov och skollov. Upptäcker du att ditt pass har gått ut en fredag inför en resa på måndagen kan det hända att inga Premiumtider finns kvar, eftersom bokningen sker online på gov.uk med tillgänglighet i realtid. Visar det önskade datumet inga lediga tider har du helt enkelt inget annat alternativ den dagen.
 
@@ -64,9 +64,9 @@ De flesta reseförsäkringar innehåller en klausul som ogiltigförklarar förs�
 
 Det gäller oavsett om passet gick ut innan du lämnade Storbritannien eller medan du var utomlands, och oavsett om resan var en enda helg eller en tre månader lång jordenruntresa. En enda dags överskridande av passets utgångsdatum kan fälla ett i övrigt giltigt ersättningsanspråk värt tusentals pund.
 
-[Om ditt pass redan har gått ut och du letar efter vad du ska göra härnäst går vår kompletterande artikel igenom det steg för steg](https://traveldocumentvault.com/blog/passport-expired-what-to-do/). Har du en resa på gång och ditt pass närmar sig utgångsdatumet är det här läget att förnya i stället för att vänta tills det går ut, vilket innebär att du betalar för Premiumtjänsten i stället för standardavgiften. Kontrollera familjens pass nu innan ni bokar någon resa.
+[Om ditt pass redan har gått ut och du letar efter vad du ska göra härnäst går vår kompletterande artikel igenom det steg för steg](https://traveldocumentvault.com/sv/blog/passport-expired-what-to-do/). Har du en resa på gång och ditt pass närmar sig utgångsdatumet är det här läget att förnya i stället för att vänta tills det går ut, vilket innebär att du betalar för Premiumtjänsten i stället för standardavgiften. Kontrollera familjens pass nu innan ni bokar någon resa.
 
-**Ställ in påminnelser om utgångsdatum flera månader i förväg, inte veckor.** [Travel Document Vault håller koll på utgångsdatum för varje pass i hushållet och skickar påminnelser 6, 3 och 1 månad innan utgångsdatumet](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/), så att du kan förnya via standardhandläggning och slippa nödavgifter.
+**Ställ in påminnelser om utgångsdatum flera månader i förväg, inte veckor.** [Travel Document Vault håller koll på utgångsdatum för varje pass i hushållet och skickar påminnelser 6, 3 och 1 månad innan utgångsdatumet](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/), så att du kan förnya via standardhandläggning och slippa nödavgifter.
 
 ## Om du redan är utomlands och passet går ut
 
@@ -80,7 +80,7 @@ Ställ in påminnelser flera månader i förväg i stället för dagen innan avr
 
 Resenärer blandar ofta ihop passets eget giltighetsdatum med destinationsspecifika regler. Ditt pass är giltigt fram till det datum som står tryckt i det - det är grunden. Men vissa länder kräver att det förblir giltigt en viss period efter ditt ankomstdatum, och det är ett separat krav från själva utgångsdatumet.
 
-[Många länder tillämpar en sexmånadersregel som kräver att ditt pass förblir giltigt minst sex månader efter ditt planerade avresedatum](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/), medan vissa tillämpar tre månader och andra en månad. Ingen av de här reglerna tillåter resa med ett utgånget pass, eftersom de sätter en strängare standard där förnyelsen måste ske ännu tidigare än passets eget utgångsdatum.
+[Många länder tillämpar en sexmånadersregel som kräver att ditt pass förblir giltigt minst sex månader efter ditt planerade avresedatum](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/), medan vissa tillämpar tre månader och andra en månad. Ingen av de här reglerna tillåter resa med ett utgånget pass, eftersom de sätter en strängare standard där förnyelsen måste ske ännu tidigare än passets eget utgångsdatum.
 
 Anta inte att du kan resa "eftersom du kommer hem innan det går ut" - ditt pass måste vara giltigt den dag du går ombord på din utresa, och om det går ut dagen efter att du kommit hem kan du ändå inte resa. Flygbolag tillåter inte resa om ditt pass har gått ut på avresedagen.
 
@@ -106,8 +106,8 @@ Nej, men du kan ändå inte resa med det. Ett skadat pass kan nekas av flygbolag
 
 ## Relaterade artiklar
 
-[Passförnyelse5 min läsning · 9 mar 2026Passet har gått ut? Så här gör du, steg för steg](https://traveldocumentvault.com/blog/passport-expired-what-to-do/)
+[Passförnyelse5 min läsning · 9 mar 2026Passet har gått ut? Så här gör du, steg för steg](https://traveldocumentvault.com/sv/blog/passport-expired-what-to-do/)
 
-[Passregler6 min läsning · 22 apr 20266-månadersregeln för pass: vilka länder som tillämpar den](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Passregler6 min läsning · 22 apr 20266-månadersregeln för pass: vilka länder som tillämpar den](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/)
 
-[Nödsituation7 min läsning · 5 maj 2026ETIAS 2026: vilka handlingar du behöver och hur du ansöker](https://traveldocumentvault.com/blog/etias-documents-2026/)
+[Nödsituation7 min läsning · 5 maj 2026ETIAS 2026: vilka handlingar du behöver och hur du ansöker](https://traveldocumentvault.com/sv/blog/etias-documents-2026/)

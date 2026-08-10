@@ -104,8 +104,8 @@ Je moet dat paspoort van die persoon voor de reis vernieuwen. Als je binnen 12 m
 
 ## Gerelateerde artikelen
 
-[Gezinsreizen6 min leestijd · juli 2026Reistoestemmingsbrief voor kinderen: wat ouders moeten weten](https://traveldocumentvault.com/blog/child-travel-consent-letter/)
+[Gezinsreizen6 min leestijd · juli 2026Reistoestemmingsbrief voor kinderen: wat ouders moeten weten](https://traveldocumentvault.com/nl/blog/child-travel-consent-letter/)
 
-[Organisatie8 min leestijd · juni 2026Hoe je familiereisgidsen vooraf organiseert](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+[Organisatie8 min leestijd · juni 2026Hoe je familiereisgidsen vooraf organiseert](https://traveldocumentvault.com/nl/blog/how-to-organise-family-travel-documents/)
 
-[Privacy en beveiliging7 min leestijd · mei 2026Veiligste manier om je paspoort digitaal op te slaan: versleuteld vs openbare cloud](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/)
+[Privacy en beveiliging7 min leestijd · mei 2026Veiligste manier om je paspoort digitaal op te slaan: versleuteld vs openbare cloud](https://traveldocumentvault.com/nl/blog/safest-way-to-store-passport-digitally/)

@@ -104,8 +104,8 @@ Anda perlu memperpanjang paspor orang tersebut sebelum berangkat. Jika masa berl
 
 ## Artikel Terkait
 
-[Perjalanan Keluarga6 menit baca · Juli 2026Surat Izin Perjalanan Anak: Yang Perlu Diketahui Orang Tua](https://traveldocumentvault.com/blog/child-travel-consent-letter/)
+[Perjalanan Keluarga6 menit baca · Juli 2026Surat Izin Perjalanan Anak: Yang Perlu Diketahui Orang Tua](https://traveldocumentvault.com/id/blog/child-travel-consent-letter/)
 
-[Organisasi8 menit baca · Juni 2026Cara Mengatur Dokumen Perjalanan Keluarga Sebelum Setiap Perjalanan](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+[Organisasi8 menit baca · Juni 2026Cara Mengatur Dokumen Perjalanan Keluarga Sebelum Setiap Perjalanan](https://traveldocumentvault.com/id/blog/how-to-organise-family-travel-documents/)
 
-[Privasi & Keamanan7 menit baca · Mei 2026Cara Teraman Menyimpan Paspor Secara Digital: Terenkripsi vs Cloud Publik](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/)
+[Privasi & Keamanan7 menit baca · Mei 2026Cara Teraman Menyimpan Paspor Secara Digital: Terenkripsi vs Cloud Publik](https://traveldocumentvault.com/id/blog/safest-way-to-store-passport-digitally/)

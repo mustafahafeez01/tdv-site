@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/pt/blog/travel-expired-passport-uk/
 
 - **Regra absoluta:** Nenhuma viagem internacional com um passaporte expirado. Companhias aéreas e controlo de fronteiras recusarão.
 - **Exceções domésticas:** Reino Unido para Irlanda e Ilha de Man podem aceitar documentos de identidade alternativos; contacte primeiro a sua companhia aérea.
-- **Renovação de emergência:** Serviço Online Premium disponível por £239.50 tudo incluído (marcação no mesmo dia ou dia seguinte, apenas renovações).
+- **Renovação de emergência:** O HM Passport Office oferece um serviço Online Premium apenas para renovações, com marcação no mesmo dia ou no dia seguinte quando há disponibilidade. Consulte a taxa atual em gov.uk antes de reservar.
 - **Seguro de viagem:** A maioria das apólices invalida reclamações se o seu passaporte estava expirado durante a viagem.
 - **Se estiver no estrangeiro:** Contacte a embaixada ou consulado britânico mais próximo para obter um documento de viagem de emergência.
 
@@ -38,13 +38,13 @@ As viagens domésticas dentro do Reino Unido e Irlanda diferem das viagens inter
 
 **Isto não é permissão para ignorar a renovação do passaporte.** Diferentes companhias aéreas têm políticas diferentes em rotas domésticas - algumas exigem um passaporte para todas as viagens para a Irlanda apesar da Área de Viagem Comum tecnicamente permitir viagens com cartão de identidade, enquanto outras aceitam uma carteira de condutor. As companhias aéreas atualizam as suas regras, e a sua transportadora pode ter alterado as suas desde a última vez que voou, portanto não pode assumir o que funcionou antes.
 
-Se está a considerar viagem doméstica com um passaporte expirado, contacte a sua companhia aérea pelo menos 48 horas antes do seu voo e pergunte explicitamente: "O meu passaporte do Reino Unido está expirado. Aceitará a minha carteira de condutor do Reino Unido em vez disso?" Obtenha confirmação por escrito se conseguir, pois chegar ao check-in com um documento de identidade alternativo e sem confirmação prévia é como as pessoas perdem voos.
+Se está a considerar viagem doméstica com um passaporte expirado, contacte a sua companhia aérea com antecedência suficiente antes do seu voo e pergunte explicitamente: "O meu passaporte do Reino Unido está expirado. Aceitará a minha carteira de condutor do Reino Unido em vez disso?" Obtenha confirmação por escrito se conseguir, pois chegar ao check-in com um documento de identidade alternativo e sem confirmação prévia é como as pessoas perdem voos.
 
 ## Renovação de Emergência: A Via do Serviço Premium
 
-Se a sua viagem é iminente e o seu passaporte está expirado, o Escritório de Passaportes de Sua Majestade oferece um serviço Premium concebido exatamente para este cenário, garantindo uma marcação no mesmo dia ou no dia de trabalho seguinte dependendo da disponibilidade. A taxa é £239.50 no total - cobre tudo, em vez de ser um complemento à taxa padrão - e o seu passaporte renovado chega dentro de dias em vez das semanas que uma renovação padrão pode levar. Note que o serviço Online Premium é apenas para renovações, não para primeiros passaportes de adulto.
+Se a sua viagem é iminente e o seu passaporte está expirado, o Escritório de Passaportes de Sua Majestade oferece um serviço Premium concebido exatamente para este cenário, com marcação no mesmo dia ou no dia de trabalho seguinte, dependendo da disponibilidade. O HM Passport Office publica a taxa atual em gov.uk, que cobre a marcação e a renovação em conjunto, em vez de se somar à taxa padrão. Obtém o seu passaporte muito mais rápido do que pela via padrão, embora a rapidez exata dependa da marcação disponível. Note que o serviço Online Premium é apenas para renovações, não para primeiros passaportes de adulto.
 
-Esta é a via de emergência oficial para constrangimentos de viagem genuína, não uma forma de contorno - o serviço Premium existe porque por vezes a viagem não pode esperar. A orientação oficial é atualmente permitir cerca de 3 semanas para uma renovação padrão, e quase todas as aplicações são processadas dentro dessa janela - mas para viagens que genuinamente não podem esperar, a opção Premium remove a incerteza.
+Esta é a via de emergência oficial para constrangimentos de viagem genuína. O HM Passport Office publica o seu tempo de processamento padrão atual em gov.uk, e vale a pena consultá-lo antes de assumir que tem tempo para esperar. Quando uma viagem genuinamente não pode esperar, a opção Premium remove a incerteza.
 
 O problema é que deve ter uma localização de marcação disponível, que se preenchem rapidamente durante férias de verão e pausas escolares. Se descobre que o seu passaporte está expirado numa sexta-feira antes de uma viagem de segunda-feira pode encontrar-se sem localização Premium disponível, pois a marcação ocorre online em gov.uk com disponibilidade em direto. Quando a sua data preferida não mostra localização genuinamente não tem outra opção nesse dia.
 
@@ -72,7 +72,7 @@ Isto aplica-se quer o seu passaporte tenha expirado antes de sair do Reino Unido
 
 Este é o cenário genuinamente difícil. Se está a viajar e o seu passaporte expira antes de regressar, não pode embarcar num voo ou ferry para casa. Precisará contactar a embaixada ou consulado britânico mais próximo para um documento de viagem de emergência - por vezes chamado ETD ou passaporte de emergência - que é válido apenas para ir para casa.
 
-O processo é lento e burocrático. Precisará fornecer prova de identidade e pagar a taxa, atualmente £125. A maioria das embaixadas leva vários dias para emitir o documento, apesar de alguns conseguirem resolver em 24-48 horas se genuinamente está preso. Outros levam uma semana. O documento de emergência não é um passaporte turístico - é válido apenas para a viagem específica para o Reino Unido sem permitir viagem adicional.
+O processo é lento e burocrático. Precisará fornecer prova de identidade e pagar a taxa, cujo valor atual é publicado pelo Foreign, Commonwealth and Development Office. O tempo de processamento varia consoante a embaixada e a urgência da sua situação, portanto pergunte o que esperar assim que os contactar. O documento de emergência não é um passaporte turístico - é válido apenas para a viagem específica para o Reino Unido sem permitir viagem adicional.
 
 Coloque lembretes meses em avanço em vez do dia antes de viajar, pois lembretes 6, 3 e 1 mês antes da expiração dão-lhe tempo para renovar no processamento padrão em vez de pagar por marcações de emergência. Se o seu passaporte expira dentro de 6 meses da sua viagem, comece o processo de renovação agora antes de se comprometer com datas de viagem.
 

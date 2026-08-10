@@ -107,6 +107,6 @@ Det afhænger af, hvor du befinder dig, og hvor tæt på din rejse du er, og de 
 
 ## Relaterede artikler
 
-[Rejsenødsituation6 min læsning · april 2026Hvad du skal gøre, hvis dit pas bliver væk eller stjålet i udlandet](https://traveldocumentvault.com/blog/lost-passport-abroad/)
+[Rejsenødsituation6 min læsning · april 2026Hvad du skal gøre, hvis dit pas bliver væk eller stjålet i udlandet](https://traveldocumentvault.com/da/blog/lost-passport-abroad/)
 
-[Pasudløb7 min læsning · maj 2026Pas udløbet lige før en rejse - hvad du skal gøre nu](https://traveldocumentvault.com/blog/passport-expired-what-to-do/)
+[Pasudløb7 min læsning · maj 2026Pas udløbet lige før en rejse - hvad du skal gøre nu](https://traveldocumentvault.com/da/blog/passport-expired-what-to-do/)

@@ -30,13 +30,13 @@ A renovação de passaporte dos EUA por correio padrão não requer que entregue
 
 Isto significa que as viagens domésticas nos Estados Unidos não são afectadas durante todo o processo de renovação - não precisa de um passaporte para voos domésticos. As viagens internacionais são uma história diferente: não pode viajar internacionalmente até que o seu novo passaporte chegue, e não pode usar o antigo passaporte cancelado mesmo que o tenha na mão.
 
-Atualmente demora 4 a 6 semanas para processamento padrão, não contando o tempo de correio de cada lado. Se tem viagens internacionais marcadas mais cedo do que isso, o Departamento de Estado oferece processamento expedido por uma taxa adicional, reduzindo a cronologia para aproximadamente 2 a 3 semanas. Para viagens genuinamente urgentes dentro de 14 dias de calendário, estão disponíveis consultas presenciais nas agências regionais de passaportes - verifique a disponibilidade em travel.state.gov.
+O tempo de processamento padrão muda, e o Departamento de Estado publica a cifra atual em travel.state.gov, por isso verifique-a antes de planear. Se a sua viagem estiver marcada antes da data em que espera receber o novo passaporte, o processamento expedido está disponível por uma taxa adicional e reduz a espera de forma notável. Para viagens genuinamente urgentes, estão disponíveis consultas presenciais nas agências regionais de passaportes - verifique a elegibilidade atual em travel.state.gov.
 
 ## Reino Unido: Dois Processos com Resultados Opostos
 
 O Reino Unido tem dois caminhos de renovação, e têm implicações completamente diferentes para as viagens. O processo que utilizou determina o que é possível.
 
-**Renovação postal:** Envia o seu passaporte atual para o Serviço de Passaportes do Reino Unido juntamente com a sua candidatura. O seu passaporte está em poder do Serviço durante todo esse período, portanto não pode viajar internacionalmente. O Serviço de Passaportes do Reino Unido diz atualmente que normalmente receberá o seu novo passaporte dentro de 3 semanas, embora aconselhe não marcar viagens até que chegue, e um serviço de via rápida premium está disponível por uma taxa adicional.
+**Renovação postal:** Envia o seu passaporte atual para o Serviço de Passaportes do Reino Unido juntamente com a sua candidatura. O seu passaporte está em poder do Serviço durante todo esse período, portanto não pode viajar internacionalmente. O Serviço de Passaportes do Reino Unido publica o seu tempo de processamento atual no seu site e aconselha a não marcar viagens até o novo passaporte chegar. Um serviço de via rápida premium está disponível por uma taxa adicional se a sua viagem estiver próxima.
 
 **Renovação digital** está atualmente disponível para adultos elegíveis que se candidatam de dentro do Reino Unido. Mantém o seu passaporte atual durante todo o processo, e o governo emite o seu novo passaporte separadamente e o envia para si por correio. Como o seu passaporte existente nunca sai da sua posse, pode geralmente continuar a usá-lo para viagens enquanto o novo está a ser processado. A elegibilidade varia de acordo com as circunstâncias individuais, portanto verifique o site do Serviço de Passaportes do Reino Unido para os critérios completos e tempos actuais antes de se candidatar.
 
@@ -48,23 +48,23 @@ A renovação de passaporte australiano requer que entregue o seu passaporte atu
 
 Não pode viajar internacionalmente durante este período. As viagens aéreas domésticas dentro da Austrália também podem ser afectadas se não tiver outro documento de identificação com foto válido, pois as companhias aéreas exigem verificação de identidade no check-in.
 
-O Serviço de Passaportes Australiano atualmente aconselha permitir pelo menos 6 semanas a partir da apresentação da sua candidatura. Se tem viagens genuínas e iminentes, o processamento mais rápido está disponível por taxas adicionais - um serviço de via rápida processado dentro de 5 dias úteis e um serviço prioritário dentro de 2 dias úteis. Opções de emergência existem para viagens verdadeiramente iminentes. Verifique os tempos actuais e candidature-se em passports.gov.au.
+O Serviço de Passaportes Australiano publica os seus tempos de processamento atuais e recomenda candidatar-se com boa antecedência a qualquer data de viagem. Se tem viagens genuínas e iminentes, estão disponíveis opções de processamento mais rápido por taxas adicionais, incluindo via rápida e prioritário. Opções de emergência existem para viagens verdadeiramente iminentes. Verifique os tempos actuais e candidature-se em passports.gov.au.
 
 ## Canadá: Entregue Aquando da Candidatura
 
 O Canadá requer que entregue o seu passaporte existente quando se candidata à renovação. O seu antigo passaporte é mantido até que o novo esteja pronto, portanto não pode viajar internacionalmente durante este período - embora as viagens domésticas dentro do Canadá não requeiram passaporte.
 
-Os padrões de serviço estão atualmente com 10 dias úteis quando se candidata presencialmente num escritório de passaportes, ou 20 dias úteis por correio ou num Centro de Serviços Canada regular - mais tempo de correio. Para viagens urgentes pode escolher serviço expresso (2 a 9 dias úteis) ou levantamento urgente (tão rápido como o dia útil seguinte) por taxas adicionais. Verifique os tempos de processamento actuais e candidature-se em canada.ca.
+O Service Canada publica os seus padrões de processamento atuais, que variam consoante se candidata presencialmente, por correio ou num Centro de Serviços Canada, mais o tempo de correio. Para viagens urgentes existem opções de serviço expresso e levantamento urgente por taxas adicionais. Verifique os tempos de processamento actuais e candidature-se em canada.ca.
 
 ## Comparação entre Países
 
-| País / Método | Mantém passaporte? | Viagens internacionais durante renovação? | Tempo padrão |
-|---|---|---|---|
-| EUA (correio) | Sim (devolvido cancelado) | Não | 6–12 semanas |
-| Reino Unido (postal) | Não (mantido pelo Serviço de Passaportes) | Não | Cerca de 3 semanas |
-| Reino Unido (digital) | Sim (mantém-o) | Sim (no antigo passaporte) | 2–3 semanas |
-| Austrália | Não (deve entregar) | Não | 4–3 semanas |
-| Canadá | Não (deve entregar) | Não | 5–3 semanas |
+| País / Método | Mantém passaporte? | Viagens internacionais durante renovação? |
+|---|---|---|
+| EUA (correio) | Sim (devolvido cancelado) | Não |
+| Reino Unido (postal) | Não (mantido pelo Serviço de Passaportes) | Não |
+| Reino Unido (digital) | Sim (mantém-o) | Sim (no antigo passaporte) |
+| Austrália | Não (deve entregar) | Não |
+| Canadá | Não (deve entregar) | Não |
 
 ## Se a Sua Viagem For Mais Cedo do Que a Sua Cronologia de Renovação
 
@@ -100,7 +100,7 @@ Depende. A renovação por correio dos EUA devolve o seu antigo passaporte a si 
 
 ### O que é um documento de viagem de emergência?
 
-Um documento de viagem de emergência é um documento temporário emitido pelo seu governo para emergências genuínas, como uma crise médica ou uma morte na família que exija viagem imediata ao estrangeiro. É válido para uma única viagem. Requer prova de emergência genuína e não é uma alternativa à renovação padrão para viagens planeadas. O processamento é normalmente no mesmo dia ou dentro de 24 horas.
+Um documento de viagem de emergência é um documento temporário emitido pelo seu governo para emergências genuínas, como uma crise médica ou uma morte na família que exija viagem imediata ao estrangeiro. É válido para uma única viagem. Requer prova de emergência genuína e não é uma alternativa à renovação padrão para viagens planeadas. O processamento é rápido porque estes documentos são pensados para situações urgentes, mas confirme o tempo atual com a sua autoridade de passaportes ao candidatar-se.
 
 ## Artigos Relacionados
 

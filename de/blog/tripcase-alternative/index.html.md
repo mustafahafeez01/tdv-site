@@ -32,7 +32,7 @@ TripCase hat nicht viel erfunden, aber es hat eine Handvoll Arbeitsabläufe perf
 
 Sein Kern war **E-Mail-zu-Reiseplan-Analyse** - leiten Sie eine beliebige Flug-, Hotel- oder Mietwagenbestätigung weiter und die App stellte sie in einer chronologischen Reise mit Daten und Buchungsreferenzen zusammen. Keine manuelle Eingabe bedeutete einen vollständigen Reiseplan in Sekunden, genau der Grund, warum Nutzer ein Jahrzehnt lang dabei blieben.
 
-**Echtzeit-Flugwarnungen** kamen dazu: Verspätungen, Torwechsel und Stornierungen oft bevor die eigene Fluggesellschaft benachrichtigte. TripIt verlangt jetzt etwa 49 USD pro Jahr für das Äquivalent in seinem Pro-Plan, während TripCase die Funktion kostenlos für alle anbot.
+**Echtzeit-Flugwarnungen** kamen dazu: Verspätungen, Torwechsel und Stornierungen oft bevor die eigene Fluggesellschaft benachrichtigte. TripIt verlangt jetzt für seinen Pro-Plan, um das Äquivalent zu bekommen, während TripCase die Funktion kostenlos für alle anbot.
 
 Diese Flüge, Hotels und Bodentransporte lebten in **der Reisezeitachse** - ein scrollbarer Stapel pro Reise. Einfach, aber wenn Sie eine mehrstädtige Woche aus einem Dutzend Bestätigungsmails jongliert haben, verstehen Sie, warum das wichtig war. In Forum-Threads auf FlyerTalk und anderswo bringen Ex-Nutzer durchgehend das **Document Vault** als das am meisten fehlende Teil auf - diesen einzigen sicheren Ort für Bordkarten, Visa, Reisepässe und Bestätigungen. Schließlich ließ **Reise-Sharing** Familienmitglieder oder Kollegen mitverfolgen, ohne dass Emails weitergeleitet werden mussten.
 
@@ -50,10 +50,10 @@ TripCase bündelte mehrere verschiedene Aufgaben in einer kostenlosen App. Keine
 
 | Die Aufgabe | Was TripCase tat | Bester Ersatz jetzt | Kosten |
 |---|---|---|---|
-| Flugwarnungen | Echtzeit-Verspätungen, Torwechsel, Stornierungen | Flighty | Kostenloser Plan; kostenpflichtiges Abonnement (Preise variieren) |
-| E-Mail-zu-Reiseplan-Analyse | Bestätigung weiterleiten, der Reiseplan baut sich selbst | TripIt oder Tripsy | TripIt hat einen kostenlosen Plan; Pro ist etwa 49 USD/Jahr |
+| Flugwarnungen | Echtzeit-Verspätungen, Torwechsel, Stornierungen | Flighty | Kostenloser Plan; kostenpflichtiges Abonnement verfügbar |
+| E-Mail-zu-Reiseplan-Analyse | Bestätigung weiterleiten, der Reiseplan baut sich selbst | TripIt oder Tripsy | TripIt hat einen kostenlosen Plan; aktuelle Pro-Preise auf der Website prüfen |
 | Reisezeitachse | Eine chronologische Ansicht pro Reise | TripIt oder Tripsy | Im obigen enthalten |
-| Speicherung von Reisedokumenten | Das Document Vault: Reisepässe, Visa, Bordkarten | Travel Document Vault | Kostenlos zum Starten; 9,99 USD einmalig |
+| Speicherung von Reisedokumenten | Das Document Vault: Reisepässe, Visa, Bordkarten | Travel Document Vault | Einmaliger Kauf, kein Abonnement |
 | Reise-Sharing | Verfolger sahen Ihren Live-Reiseplan | TripIt-Sharing oder ein gemeinsamer Ordner | Kostenlos |
 
 Flugwarnungen und Reiseplan-Analyse sind Annehmlichkeiten - wirklich nützliche - und sie gehören in die Cloud, weil sie nur dann wichtig sind, während eine Reise aktiv ist. Dokumentspeicherung ist aber anders: Es ist die eine Aufgabe, bei der der Zugriffsverlust tatsächlich etwas kostet, das Sie nicht verschieben können.

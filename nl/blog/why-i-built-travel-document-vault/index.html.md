@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/nl/blog/why-i-built-travel-document-vaul
 
 ---
 
+![Een nette stapel paspoorten van een gezin met een instapkaart ertussen, op een diepblauwe achtergrond](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/cover.jpg)
+
 Ik stond bij de immigratiecontrole toen de ambtenaar naar het paspoort van mijn dochter keek, even pauzeerde en vervolgens naar mij opkeek.
 
 "Wist u dat dit over zeven maanden verloopt?" zei hij. "Alleen ter informatie, sommige landen laten u niet binnen met minder dan zes maanden geldigheid."
@@ -116,6 +118,6 @@ Oprichter, Travel Document Vault
 
 ## Gerelateerde artikelen
 
-[Paspoortregels7 min lezen · 1 feb. 2026De 6-maandenregel voor paspoorten: welke landen hanteren hem](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Paspoortregels7 min lezen · 1 feb. 2026De 6-maandenregel voor paspoorten: welke landen hanteren hem](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/)
 
-[Organisatie7 min lezen · 5 feb. 2026Hoe u reisdocumenten voor het gezin organiseert (voor uw volgende reis)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+[Organisatie7 min lezen · 5 feb. 2026Hoe u reisdocumenten voor het gezin organiseert (voor uw volgende reis)](https://traveldocumentvault.com/nl/blog/how-to-organise-family-travel-documents/)

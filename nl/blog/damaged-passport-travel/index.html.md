@@ -107,6 +107,6 @@ Dat hangt af van waar je bent en hoe dicht je vertrekdatum nadert, en gepublicee
 
 ## Gerelateerde artikelen
 
-[Reisnoodgeval6 min leestijd · april 2026Wat te doen als je paspoort in het buitenland kwijt is of gestolen wordt](https://traveldocumentvault.com/blog/lost-passport-abroad/)
+[Reisnoodgeval6 min leestijd · april 2026Wat te doen als je paspoort in het buitenland kwijt is of gestolen wordt](https://traveldocumentvault.com/nl/blog/lost-passport-abroad/)
 
-[Verlopen paspoort7 min leestijd · mei 2026Paspoort net verlopen vlak voor een reis - wat je nu moet doen](https://traveldocumentvault.com/blog/passport-expired-what-to-do/)
+[Verlopen paspoort7 min leestijd · mei 2026Paspoort net verlopen vlak voor een reis - wat je nu moet doen](https://traveldocumentvault.com/nl/blog/passport-expired-what-to-do/)

@@ -107,6 +107,6 @@ Det beror på var du befinner dig och hur nära din resa är, och publicerade ha
 
 ## Relaterade artiklar
 
-[Nödsituation6 min läsning - april 2026Vad du ska göra om passet blir förlorat eller stulet utomlands](https://traveldocumentvault.com/blog/lost-passport-abroad/)
+[Nödsituation6 min läsning - april 2026Vad du ska göra om passet blir förlorat eller stulet utomlands](https://traveldocumentvault.com/sv/blog/lost-passport-abroad/)
 
-[Passutgång7 min läsning - maj 2026Passet har gått ut precis före en resa - vad du ska göra nu](https://traveldocumentvault.com/blog/passport-expired-what-to-do/)
+[Passutgång7 min läsning - maj 2026Passet har gått ut precis före en resa - vad du ska göra nu](https://traveldocumentvault.com/sv/blog/passport-expired-what-to-do/)

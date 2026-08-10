@@ -156,6 +156,6 @@ Asuransi perjalanan melindungi Anda di sebagian besar negara di seluruh dunia se
 
 ## Artikel Terkait
 
-[Persiapan Perjalanan8 menit bacaDokumen Apa yang Harus Dibawa Saat Bepergian Internasional](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/)
+[Persiapan Perjalanan8 menit bacaDokumen Apa yang Harus Dibawa Saat Bepergian Internasional](https://traveldocumentvault.com/id/blog/what-documents-to-carry-when-travelling-internationally/)
 
-[Persiapan Perjalanan7 menit bacaPaspor Hilang di Luar Negeri: Langkah Darurat yang Harus Diambil Sekarang](https://traveldocumentvault.com/blog/lost-passport-abroad/)
+[Persiapan Perjalanan7 menit bacaPaspor Hilang di Luar Negeri: Langkah Darurat yang Harus Diambil Sekarang](https://traveldocumentvault.com/id/blog/lost-passport-abroad/)

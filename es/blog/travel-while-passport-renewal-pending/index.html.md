@@ -30,13 +30,13 @@ La renovación estándar de pasaporte estadounidense por correo no requiere que 
 
 Esto significa que los viajes nacionales dentro de Estados Unidos no se ven afectados durante todo el proceso de renovación - no necesitas un pasaporte para vuelos nacionales. Los viajes internacionales son otra historia: no puedes viajar internacionalmente hasta que llegue tu nuevo pasaporte, y no puedes usar el pasaporte antiguo cancelado aunque lo tengas en la mano.
 
-Actualmente toma de 4 a 6 semanas para el procesamiento estándar, sin contar el tiempo de envío en cada dirección. Si tienes viajes internacionales reservados antes de eso, el Departamento de Estado ofrece procesamiento expedido por una tarifa adicional, reduciendo el plazo a aproximadamente 2 a 3 semanas. Para viajes genuinamente urgentes dentro de 14 días calendario, hay citas presenciales disponibles en agencias de pasaportes regionales - verifica la disponibilidad en travel.state.gov.
+El tiempo de procesamiento estándar cambia, y el Departamento de Estado publica la cifra actual en travel.state.gov, así que consúltala antes de hacer planes. Si tu viaje está reservado antes de la fecha en que esperas recibir el nuevo pasaporte, el procesamiento acelerado está disponible por una tarifa adicional y reduce la espera de forma notable. Para viajes genuinamente urgentes, hay citas presenciales disponibles en agencias de pasaportes regionales - consulta la elegibilidad actual en travel.state.gov.
 
 ## Reino Unido: Dos procesos con resultados opuestos
 
 Reino Unido tiene dos caminos de renovación, y tienen implicaciones completamente diferentes para viajar. El proceso que hayas utilizado determina qué es posible.
 
-**Renovación postal:** Envías tu pasaporte actual a HM Passport Office junto con tu solicitud. Tu pasaporte está en sus manos durante todo el proceso, así que no puedes viajar internacionalmente. HM Passport Office actualmente dice que normalmente recibirás tu nuevo pasaporte dentro de 3 semanas, aunque aconseja no reservar viajes hasta que llegue, y hay un servicio premium de vía rápida disponible por una tarifa adicional.
+**Renovación postal:** Envías tu pasaporte actual a HM Passport Office junto con tu solicitud. Tu pasaporte está en sus manos durante todo el proceso, así que no puedes viajar internacionalmente. HM Passport Office publica su tiempo de procesamiento actual en su sitio web y desaconseja reservar viajes hasta que llegue el nuevo pasaporte. Hay un servicio premium de vía rápida disponible por una tarifa adicional si tu viaje está cerca.
 
 **Renovación digital** está actualmente disponible para adultos elegibles que solicitan desde dentro de Reino Unido. Conservas tu pasaporte actual durante todo el proceso, y el gobierno emite tu nuevo pasaporte por separado y te lo envía por correo. Debido a que tu pasaporte existente nunca deja tu posesión, generalmente puedes seguir usándolo para viajar mientras se procesa el nuevo. La elegibilidad varía según las circunstancias individuales, así que consulta el sitio web de HM Passport Office para los criterios completos y los tiempos actuales antes de solicitar.
 
@@ -48,23 +48,23 @@ La renovación de pasaporte australiano requiere que entregues tu pasaporte actu
 
 No puedes viajar internacionalmente durante este período. Los viajes aéreos nacionales dentro de Australia también pueden verse afectados si no tienes otro documento de identidad fotográfico válido, ya que las aerolíneas requieren verificación de identidad en el mostrador de facturación.
 
-La Oficina de Pasaportes Australiana actualmente aconseja permitir al menos 6 semanas desde presentar tu solicitud. Si tienes viajes genuinos e inminentes, hay procesamiento más rápido disponible por tarifas adicionales - un servicio rápido procesado dentro de 5 días hábiles y un servicio prioritario dentro de 2 días hábiles. Existen opciones de emergencia para viajes verdaderamente inminentes. Consulta los tiempos actuales y solicita en passports.gov.au.
+La Oficina de Pasaportes Australiana publica sus tiempos de procesamiento actuales y recomienda solicitar con amplia antelación a cualquier fecha de viaje. Si tienes viajes genuinos e inminentes, hay opciones de procesamiento más rápido disponibles por tarifas adicionales, incluyendo servicio rápido y prioritario. Existen opciones de emergencia para viajes verdaderamente inminentes. Consulta los tiempos actuales y solicita en passports.gov.au.
 
 ## Canadá: Entregado en la solicitud
 
 Canadá requiere que entregues tu pasaporte existente cuando solicites la renovación. Tu pasaporte antiguo se mantiene hasta que esté listo el nuevo, así que no puedes viajar internacionalmente durante este período - aunque los viajes nacionales dentro de Canadá no requieren pasaporte.
 
-Los estándares de servicio actualmente son 10 días hábiles cuando solicitas en persona en una oficina de pasaportes, o 20 días hábiles por correo o en un Service Canada Centre regular - más tiempo de envío. Para viajes urgentes puedes elegir servicio rápido (2 a 9 días hábiles) o retiro urgente (tan rápido como el próximo día hábil) por tarifas adicionales. Consulta los tiempos de procesamiento actuales y solicita en canada.ca.
+Service Canada publica sus estándares de procesamiento actuales, que varían según si solicitas en persona, por correo o en un Service Canada Centre, más el tiempo de envío. Para viajes urgentes existen opciones de servicio express y retiro urgente por tarifas adicionales. Consulta los tiempos de procesamiento actuales y solicita en canada.ca.
 
 ## Comparación de países
 
-| País / Método | ¿Conservar pasaporte? | ¿Viaje internacional durante la renovación? | Tiempo estándar |
-|---|---|---|---|
-| EE.UU. (correo) | Sí (devuelto cancelado) | No | 6-12 semanas |
-| Reino Unido (postal) | No (en manos de HMPO) | No | Alrededor de 3 semanas |
-| Reino Unido (digital) | Sí (lo conservas) | Sí (en pasaporte antiguo) | 2-3 semanas |
-| Australia | No (debe entregarse) | No | 4-3 semanas |
-| Canadá | No (debe entregarse) | No | 5-3 semanas |
+| País / Método | ¿Conservar pasaporte? | ¿Viaje internacional durante la renovación? |
+|---|---|---|
+| EE.UU. (correo) | Sí (devuelto cancelado) | No |
+| Reino Unido (postal) | No (en manos de HMPO) | No |
+| Reino Unido (digital) | Sí (lo conservas) | Sí (en pasaporte antiguo) |
+| Australia | No (debe entregarse) | No |
+| Canadá | No (debe entregarse) | No |
 
 ## Si tu viaje es más pronto que tu plazo de renovación
 
@@ -100,7 +100,7 @@ Depende. La renovación por correo de EE.UU. te devuelve tu pasaporte antiguo (c
 
 ### ¿Qué es un documento de viaje de emergencia?
 
-Un documento de viaje de emergencia es un documento temporal emitido por tu gobierno para emergencias genuinas como una crisis médica o una muerte en la familia que requiere viaje inmediato al extranjero. Es válido para un único viaje. Requiere prueba de una emergencia genuina y no es una alternativa a la renovación estándar para viajes planificados. El procesamiento es típicamente el mismo día o dentro de 24 horas.
+Un documento de viaje de emergencia es un documento temporal emitido por tu gobierno para emergencias genuinas como una crisis médica o una muerte en la familia que requiere viaje inmediato al extranjero. Es válido para un único viaje. Requiere prueba de una emergencia genuina y no es una alternativa a la renovación estándar para viajes planificados. El procesamiento es rápido porque estos documentos están pensados para situaciones urgentes, pero confirma el tiempo actual con tu autoridad de pasaportes al solicitarlo.
 
 ## Artículos relacionados
 

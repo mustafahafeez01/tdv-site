@@ -49,7 +49,7 @@ Sources : Département d'État américain, GOV.UK, Canada.ca, Bureau des passepo
 
 Une famille de quatre personnes fonctionne donc selon quatre calendriers d'expiration différents. La date la plus proche décide si le voyage se fera. Deux adultes renouvelés ensemble s'éloigneront des documents de leurs enfants en quelques années - ce qui est exactement pourquoi vérifier votre propre passeport vous dit presque rien sur la disponibilité de la famille.
 
-Pour les familles américaines, il y a un problème supplémentaire : le passeport d'un enfant ne peut pas être renouvelé par courrier. Chaque renouvellement nécessite une nouvelle demande en personne et le traitement de routine prend actuellement plusieurs semaines, plus les délais d'expédition dans les deux sens - ce qui est gérable en mars mais devient un vrai problème deux semaines avant le départ. Les familles britanniques l'ont un peu plus facile : consultez simplement les délais actuels de traitement avant de réserver et prévoyez du temps supplémentaire si des informations sont nécessaires.
+Pour les familles américaines, il y a un problème supplémentaire : le passeport d'un enfant ne peut pas être renouvelé par courrier. Chaque renouvellement nécessite une nouvelle demande en personne, et le délai de traitement change - le Département d'État américain publie le chiffre actuel, consultez-le donc avant de planifier, en plus des délais d'expédition dans les deux sens. Ce qui est gérable en mars devient rapidement un vrai problème juste avant le départ. Les familles britanniques l'ont un peu plus facile : consultez simplement les délais actuels de traitement avant de réserver et prévoyez du temps supplémentaire si des informations sont nécessaires.
 
 ## Réalité de l'enregistrement : Timatic n'arrondit pas
 
@@ -79,7 +79,7 @@ Non. Les enfants ont besoin des mêmes 3 mois de validité au-delà du départ e
 
 ### Quand faut-il renouveler le passeport d'un enfant avant un voyage?
 
-Dès la réservation, vérifiez que le passeport aura encore 3 mois de validité au-delà de la date de votre retour. Si ce n'est pas le cas, commencez immédiatement. Vérifiez les délais actuels de traitement au Royaume-Uni et prévoyez du temps supplémentaire si la demande nécessite plus d'informations. Le traitement de routine aux États-Unis prend plusieurs semaines plus les délais d'expédition. Les familles britanniques ont un peu plus de chance : consultez simplement les délais actuels de traitement avant de réserver et laissez du temps supplémentaire si des informations sont nécessaires.
+Dès la réservation, vérifiez que le passeport aura encore 3 mois de validité au-delà de la date de votre retour. Si ce n'est pas le cas, commencez immédiatement. Vérifiez les délais actuels de traitement au Royaume-Uni et prévoyez du temps supplémentaire si la demande nécessite plus d'informations. Le délai de traitement aux États-Unis change ; consultez le chiffre actuel auprès du Département d'État américain, en plus des délais d'expédition. Les familles britanniques ont un peu plus de chance : consultez simplement les délais actuels de traitement avant de réserver et laissez du temps supplémentaire si des informations sont nécessaires.
 
 ### Pouvons-nous voler pendant que le renouvellement du passeport d'un enfant est en cours?
 

@@ -128,4 +128,4 @@ Download gratis. Geen account nodig. Betaal eenmalig als u Pro wilt. Klaar.
 
 ![Download in de App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
-![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+![Ontdek het op Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

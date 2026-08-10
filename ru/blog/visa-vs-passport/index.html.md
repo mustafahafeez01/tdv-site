@@ -143,6 +143,6 @@ Source: https://traveldocumentvault.com/ru/blog/visa-vs-passport/
 
 ## Похожие статьи
 
-[Правила паспорта6 мин чтенияПаспорт просрочен: что делать и как продлить](https://traveldocumentvault.com/blog/passport-expired-what-to-do/)
+[Правила паспорта6 мин чтенияПаспорт просрочен: что делать и как продлить](https://traveldocumentvault.com/ru/blog/passport-expired-what-to-do/)
 
-[Срок действия6 мин чтенияКакой срок действия паспорта для поездок](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/)
+[Срок действия6 мин чтенияКакой срок действия паспорта для поездок](https://traveldocumentvault.com/ru/blog/how-long-is-passport-valid-for-travel/)

@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/ru/blog/why-i-built-travel-document-vaul
 
 ---
 
+![Аккуратная стопка семейных паспортов с вложенным посадочным талоном на тёмно-синем фоне](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/cover.jpg)
+
 Я был на паспортном контроле, когда офицер посмотрел на паспорт моей дочери, остановился, а затем взглянул на меня.
 
 «Вы знаете, что он истекает через семь месяцев?», сказал он., «Просто к вашему сведению: некоторые страны не пустят вас въезд, если до конца срока действия осталось меньше шести месяцев».
@@ -116,6 +118,6 @@ Mustafa
 
 ## Связанные статьи
 
-[Правила паспорта7 мин чтения · 1 февр. 2026Правило 6 месяцев действия паспорта: в каких странах оно применяется](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Правила паспорта7 мин чтения · 1 февр. 2026Правило 6 месяцев действия паспорта: в каких странах оно применяется](https://traveldocumentvault.com/ru/blog/passport-expiry-6-month-rule/)
 
-[Организация7 мин чтения · 5 февр. 2026Как организовать семейные документы для поездок (до следующего путешествия)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+[Организация7 мин чтения · 5 февр. 2026Как организовать семейные документы для поездок (до следующего путешествия)](https://traveldocumentvault.com/ru/blog/how-to-organise-family-travel-documents/)

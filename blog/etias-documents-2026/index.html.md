@@ -1,6 +1,6 @@
 # ETIAS 2026: What Documents You Need & How to Apply
 
-> UK, US, and Canadian visitors need ETIAS for 2026. Passport (3+ months valid), email, optional income proof. Costs €20. Apply 2 months ahead.
+> UK, US, and Canadian visitors need ETIAS for 2026. Passport valid 3+ months, email, optional income proof. Check the official EU site for the current fee and timing.
 
 Source: https://traveldocumentvault.com/blog/etias-documents-2026/
 
@@ -12,19 +12,19 @@ Source: https://traveldocumentvault.com/blog/etias-documents-2026/
 
 - **ETIAS launches in 2026** for UK, US, and Canadian travellers - a digital travel authorisation for visa-exempt entry to Europe
 - **You need a passport valid for 3+ months** beyond your departure date and an email address to apply
-- **Processing takes up to 4 weeks;** apply at least 2 months before your trip to avoid delays
-- **Cost is €20 per adult;** free for under-18s and over-70s
+- **Processing time varies,** especially soon after launch; apply well ahead of your trip and check the official EU site for current guidance
+- **Check the official EU site for the current fee;** under-18s and over-70s don't pay but still need authorisation
 - **Common rejections happen for undisclosed criminal records or previous overstays - plan accordingly**
 
-You've booked your summer family trip to Italy, but then you hear ETIAS launches mid-2026 and you're wondering whether you need it, what documents to prepare, and how long the whole process takes. This guide answers every question before you reach the application form.
+You've booked your summer family trip to Italy, but then you hear ETIAS launches mid-2026 and you're wondering whether you need it, what documents to prepare, and how the whole process works. This guide answers every question before you reach the application form.
 
-The European Travel Information and Authorisation System (ETIAS) is not a [visa](https://traveldocumentvault.com/blog/visa-vs-passport/) - it's a digital pre-travel clearance for visitors from visa-exempt countries. If you're a UK, US, or Canadian citizen, you currently arrive in Europe, scan your passport, answer a few border questions, and pass through. Starting 2026, that process moves online, several weeks before your departure.
+The European Travel Information and Authorisation System (ETIAS) is not a [visa](https://traveldocumentvault.com/blog/visa-vs-passport/) - it's a digital pre-travel clearance for visitors from visa-exempt countries. If you're a UK, US, or Canadian citizen, you currently arrive in Europe, scan your passport, answer a few border questions, and pass through. Starting 2026, that process moves online, and you apply before you fly.
 
 ## What Is ETIAS and Who Needs It?
 
 ETIAS is a digital authorisation system designed to strengthen border security and travel management across the Schengen area. It applies to citizens of visa-exempt countries - meaning countries whose nationals can currently enter Europe without a visa for short stays. This includes the UK, USA, Canada, Australia, New Zealand, and dozens of others.
 
-If you hold a visa such as a Schengen long-stay visa, UK family visa, or other residence permit, you won't need ETIAS - nor will EU citizens, Norwegian, Icelandic, and Liechtenstein nationals. Children under 18 and adults over 70 are exempt from the €20 fee but still require authorisation at no cost.
+If you hold a visa such as a Schengen long-stay visa, UK family visa, or other residence permit, you won't need ETIAS - nor will EU citizens, Norwegian, Icelandic, and Liechtenstein nationals. Children under 18 and adults over 70 are exempt from the fee but still require authorisation at no cost.
 
 **ETIAS affects** a wide range of travellers: individual holidaymakers, families applying separately for each member, digital nomads planning repeated short stays, and anyone booking European trips for late 2026 onwards. Remember that every person between 18 and 70 in your family needs their own ETIAS application.
 
@@ -54,11 +54,11 @@ Next, you'll answer security questions covering criminal history, previous depor
 
 What about health? You'll be asked whether you have an infectious disease or another condition that poses a public health risk. That's different from travel insurance's medical requirements - ETIAS is focused on disease control, not your individual health status.
 
-At the end, you review your information, pay the €20 fee (free if under 18 or over 70), and submit. A confirmation number is generated immediately, and your application enters the processing queue.
+At the end, you review your information, pay the fee shown at checkout (free if under 18 or over 70), and submit. A confirmation number is generated immediately, and your application enters the processing queue.
 
 ## Processing Time and Outcome Types
 
-Standard processing time is **up to 4 weeks**. Even so, the European Commission recommends applying at least 2 months before your trip, to allow for initial system overload after launch, possible delays in background checks, and time to fix any rejection.
+The European Commission publishes current processing time guidance on its official site, and it's worth checking that before you assume you have time. Early demand after launch, background check delays, and any need to fix a rejection can all add to the wait, so apply as early as you reasonably can before your trip.
 
 There are three possible outcomes: approved, rejected, or refusal to authorise.
 
@@ -76,11 +76,11 @@ The most frequent ETIAS rejections come down to inconsistencies in travel histor
 
 **Previous overstays:** if you've overstayed a visa in Europe or elsewhere, ETIAS will flag it. Come prepared with a brief explanation in the optional notes field - something like "Emergency family matter delayed departure; resolved with authorities" can help your case, though some overstays trigger refusal regardless of justification.
 
-**Conflicting travel history:** ETIAS will detect inconsistencies, like claiming a 10-day trip to France when your entry and exit dates suggest a 20-day stay. If you don't remember exact dates, it's better to estimate conservatively, or say plainly that you're approximating, rather than risk a contradiction.
+**Conflicting travel history:** ETIAS will detect inconsistencies, like claiming a short trip to France when your entry and exit dates suggest a much longer stay. If you don't remember exact dates, it's better to estimate conservatively, or say plainly that you're approximating, rather than risk a contradiction.
 
 **Unclear employment or income:** flag any gaps or inconsistencies, such as travel dates that suggest you were working abroad without saying so, or unexplained gaps in your employment history. Use the optional notes section to clarify. ETIAS won't reject you for being unemployed, but unexplained inconsistencies will raise suspicion.
 
-To avoid rejection, review your information carefully three times before submitting. If anything is uncertain, use the optional notes field to explain - a brief, honest explanation prevents far more rejections than trying to hide information.
+To avoid rejection, review your information carefully before submitting. If anything is uncertain, use the optional notes field to explain - a brief, honest explanation prevents far more rejections than trying to hide information.
 
 ## Special Cases: Children, Family Groups, and Re-entry After Refusal
 
@@ -122,7 +122,7 @@ You must have a valid passport with at least three months validity beyond your i
 
 ### How much does ETIAS cost and how long does it take?
 
-ETIAS costs €20 for adults. Children under 18 are free, as are applicants over 70. The fee is non-refundable even if your application is rejected. Standard processing time is typically 4 weeks, but the European Commission recommends applying at least 2 months before your trip to account for potential delays during the initial launch phase.
+The European Commission publishes the current ETIAS fee on its official site. Children under 18 and applicants over 70 do not pay, though they still need authorisation. The fee is non-refundable even if your application is rejected. Processing time varies, especially during the initial launch phase, so check the official guidance and apply well ahead of your trip rather than close to your departure date.
 
 ### What happens if my ETIAS application is rejected?
 

@@ -72,7 +72,7 @@ La respuesta práctica: cuando queden menos de 12 meses de validez restante.
 Aquí está por qué 12 meses es el umbral correcto y no la fecha de vencimiento en sí:
 
 - Te proporciona un amortiguador completo de 6 meses para cualquier destino que aplique la regla.
-- La renovación del pasaporte toma tiempo: las renovaciones de pasaportes del Reino Unido generalmente toman alrededor de 3 semanas (y la Oficina de Pasaportes de Su Majestad dice no reservar viajes hasta que llegue el nuevo pasaporte) y el procesamiento estándar de EE.UU. es 4-6 semanas, así que comenzar con 6 meses restantes deja poco margen.
+- La renovación del pasaporte toma tiempo, y los tiempos de procesamiento cambian - la Oficina de Pasaportes de Su Majestad aconseja no reservar viajes hasta que llegue el nuevo pasaporte, y tanto ella como el Departamento de Estado de EE.UU. publican sus tiempos de procesamiento actuales. Por eso comenzar con 6 meses restantes deja poco margen.
 - Los planes de último minuto suceden. Un pasaporte con 14 meses restantes mantiene todos los destinos abiertos. Un pasaporte con 5 meses restantes cierra una gran parte del mundo.
 
 El error más común es establecer un recordatorio en la fecha de vencimiento en sí. En ese punto no puedes viajar a la mayoría de destinos que aplican la regla de 6 meses. **Establece tu recordatorio de renovación en la marca de 12 meses.**
@@ -93,7 +93,7 @@ A la mayoría de destinos europeos, sí - tu pasaporte solo necesita ser válido
 
 ### ¿Cuándo debo renovar mi pasaporte?
 
-Renueva cuando queden menos de 12 meses de validez restante. Esto te proporciona un amortiguador para la regla de 6 meses y tiene en cuenta el tiempo que toma la renovación - generalmente alrededor de 3 semanas en el Reino Unido y 4-6 semanas en los Estados Unidos, más en épocas ajetreadas.
+Renueva cuando queden menos de 12 meses de validez restante. Esto te proporciona un amortiguador para la regla de 6 meses y tiene en cuenta el tiempo que toma la renovación - varía según el país y la época del año; el HM Passport Office y el Departamento de Estado de EE.UU. publican ambos sus tiempos de procesamiento actuales.
 
 ### ¿Expiran los pasaportes de niños más rápido que los de adultos?
 

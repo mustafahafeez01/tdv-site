@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/es/blog/lost-passport-abroad/
 ## Puntos Clave
 
 - Presenta una denuncia policial primero - la necesitas tanto para tu solicitud de embajada como para tu reclamación de seguros.
-- Tu embajada o consulado puede emitir un documento de viaje de emergencia, frecuentemente dentro de 24-48 horas. **Llama antes** - la mayoría requieren cita previa.
+- Tu embajada o consulado puede emitir un documento de viaje de emergencia, normalmente mucho más rápido que un pasaporte de reemplazo. **Llama antes** - la mayoría requieren cita previa.
 - Los viajeros con una copia digital segura de su pasaporte obtienen documentos de reemplazo más rápido - entregas los detalles que tu embajada necesita en segundos.
 - El seguro de viaje cubre los costos de reemplazo de pasaporte en la mayoría de las pólizas integrales. Necesitas la denuncia policial para reclamar.
 - El momento para prepararse es ahora, antes de que algo salga mal. Un escaneo de cinco minutos hoy podría ahorrar días de estrés en el extranjero.
@@ -47,7 +47,7 @@ Llama antes de visitar. Muchas embajadas requieren cita previa para servicios de
 
 ## Paso 4: Solicita un Documento de Viaje de Emergencia
 
-Tu embajada emite un documento de viaje de emergencia (DTU) o pasaporte de emergencia, típicamente válido para un viaje único a casa. La mayoría de las embajadas los emiten dentro de 24-48 horas para emergencias genuinas, aunque la tuya puede ser diferente - pregunta cuando llames.
+Tu embajada emite un documento de viaje de emergencia (DTU) o pasaporte de emergencia, típicamente válido para un viaje único a casa. El tiempo de emisión depende de la sede y de la urgencia de tu caso, así que pregunta cuando llames.
 
 Qué típicamente necesitarás (confirma con tu embajada antes de visitar):
 
@@ -86,7 +86,7 @@ Presenta una denuncia policial inmediatamente, luego contacta a tu embajada o co
 
 ### ¿Puedo obtener un pasaporte de emergencia en el extranjero?
 
-Sí. La mayoría de los países emiten documentos de viaje de emergencia a través de sus embajadas y consulados, típicamente válidos para un viaje único a casa y frecuentemente emitidos dentro de 24-48 horas. Llama a tu embajada o consulado más cercana lo antes posible - muchas requieren cita previa.
+Sí. La mayoría de los países emiten documentos de viaje de emergencia a través de sus embajadas y consulados, típicamente válidos para un viaje único a casa. El tiempo de emisión depende de la sede y de la urgencia de tu caso, así que pregunta al llamar. Llama a tu embajada o consulado más cercana lo antes posible - muchas requieren cita previa.
 
 ### ¿Necesito una denuncia policial si mi pasaporte es robado en el extranjero?
 

@@ -49,7 +49,7 @@ Fontes: US Department of State, GOV.UK, Canada.ca, Escritório de Passaportes Au
 
 Uma família de quatro pessoas, portanto, opera em quatro cronogramas de expiração diferentes. A data mais próxima define se a viagem acontece ou não. Dois adultos renovados juntos afastar-se-ão dos documentos de crianças dentro de um par de anos - que é exatamente porque verificar o seu próprio passaporte diz quase nada sobre a prontidão da família.
 
-Para as famílias americanas existe um detalhe extra: um passaporte de criança não pode ser renovado por correio. Cada renovação requer uma candidatura nova presencial e o processamento de rotina demora atualmente várias semanas, mais tempo de envio nos dois sentidos - o que é manejável em março, mas fica um problema real duas semanas antes da partida. As famílias britânicas têm um pouco mais fácil: apenas verifique os tempos de processamento atuais antes de marcar e permita tempo extra se forem necessárias informações adicionais.
+Para as famílias americanas existe um detalhe extra: um passaporte de criança não pode ser renovado por correio. Cada renovação requer uma candidatura nova presencial, e o tempo de processamento muda - o Departamento de Estado dos EUA publica a cifra atual, por isso verifique-a antes de planear, além do tempo de envio nos dois sentidos. O que é manejável em março torna-se rapidamente um problema real pouco antes da partida. As famílias britânicas têm um pouco mais fácil: apenas verifique os tempos de processamento atuais antes de marcar e permita tempo extra se forem necessárias informações adicionais.
 
 ## Realidade do Check-in: Timatic Não Arredonda
 
@@ -79,7 +79,7 @@ Não. As crianças precisam dos mesmos 3 meses de validade além da saída e da 
 
 ### Quando devemos renovar o passaporte de uma criança antes de uma viagem?
 
-Assim que marcar, verifique se o passaporte terá ainda 3 meses de validade além da data do seu regresso. Se não tiver, comece de imediato. Verifique os tempos de processamento atuais do Reino Unido e permita tempo extra se a candidatura precisar de mais informações. O processamento de rotina dos EUA demora várias semanas mais tempo de envio. Um passaporte de criança dos EUA também requer uma candidatura nova presencial em vez de renovação.
+Assim que marcar, verifique se o passaporte terá ainda 3 meses de validade além da data do seu regresso. Se não tiver, comece de imediato. Verifique os tempos de processamento atuais do Reino Unido e permita tempo extra se a candidatura precisar de mais informações. O tempo de processamento nos EUA muda; verifique a cifra atual junto do Departamento de Estado dos EUA, além do tempo de envio. Um passaporte de criança dos EUA também requer uma candidatura nova presencial em vez de renovação.
 
 ### Podemos voar enquanto a renovação do passaporte de uma criança está em curso?
 

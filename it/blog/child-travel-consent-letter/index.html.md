@@ -65,7 +65,7 @@ Paesi che tipicamente richiedono l'autenticazione o la certificazione:
 - **Regno Unito.** Non legalmente richiesta per i viaggi in uscita, ma le compagnie aeree e gli ufficiali di confine di destinazione possono richiederla quando un minore viaggia con un genitore o con un adulto non genitore. Una firma certificata da un avvocato è tipica.
 - **Stati Uniti.** Non obbligatorio a livello federale ma consigliato. Alcuni stati riconoscono esplicitamente l'autenticazione.
 
-L'autenticazione notarile di solito costa tra i 20 e i 100 dollari per firma, a seconda della località, e dovresti concedere da una a due settimane per programmare un appuntamento notarile, specialmente durante le vacanze scolastiche. Verifica sempre i requisiti della tua destinazione prima. Le regole del paese di destinazione determinano se l'autenticazione è necessaria affatto, non quelle del tuo paese di origine.
+Le tariffe notarili variano in base al paese e al notaio, e a quanto rapidamente hai bisogno di un appuntamento, quindi chiedi quanto costerà e con quanto anticipo devi prenotare, specialmente durante le vacanze scolastiche. Verifica sempre i requisiti della tua destinazione prima. Le regole del paese di destinazione determinano se l'autenticazione è necessaria affatto, non quelle del tuo paese di origine.
 
 ## Errori Comuni Che Causano Rifiuti delle Lettere
 

@@ -156,6 +156,6 @@ Reisverzeking beschermt je in de meeste landen ter wereld tijdens je reis, maar 
 
 ## Gerelateerde artikelen
 
-[Reisvoorbereiding8 min leestijdWelke documenten je moet meenemen op internationale reis](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/)
+[Reisvoorbereiding8 min leestijdWelke documenten je moet meenemen op internationale reis](https://traveldocumentvault.com/nl/blog/what-documents-to-carry-when-travelling-internationally/)
 
-[Reisvoorbereiding7 min leestijdWat te doen als je paspoort in het buitenland kwijt is of gestolen wordt](https://traveldocumentvault.com/blog/lost-passport-abroad/)
+[Reisvoorbereiding7 min leestijdWat te doen als je paspoort in het buitenland kwijt is of gestolen wordt](https://traveldocumentvault.com/nl/blog/lost-passport-abroad/)

@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/es/blog/travel-expired-passport-uk/
 
 - **Norma absoluta:** No se permite viajar internacionalmente con un pasaporte expirado. Las aerolíneas y el control de fronteras te rechazarán.
 - **Excepciones nacionales:** De Reino Unido a Irlanda e Isla de Man pueden aceptar documentos de identidad con foto alternativos; consulta con tu aerolínea primero.
-- **Renovación de emergencia:** Servicio Premium en línea disponible por £239.50 en total (cita el mismo día o al día siguiente, solo renovaciones).
+- **Renovación de emergencia:** HM Passport Office ofrece un servicio Premium en línea solo para renovaciones, con cita el mismo día o al día siguiente cuando hay disponibilidad. Consulta la tarifa actual en gov.uk antes de reservar.
 - **Seguro de viaje:** La mayoría de las pólizas anulan los reclamos si tu pasaporte estaba expirado durante el viaje.
 - **Si estás en el extranjero:** Contacta a la embajada o consulado británico más cercano para obtener un documento de viaje de emergencia.
 
@@ -38,13 +38,13 @@ Los viajes nacionales dentro del Reino Unido e Irlanda difieren de los viajes in
 
 **Esto no es permiso para omitir la renovación del pasaporte.** Diferentes aerolíneas tienen diferentes políticas en rutas nacionales - algunas requieren un pasaporte para todos los viajes a Irlanda aunque el Área de Viajes Común técnicamente permite viajes con tarjeta de identidad, mientras que otras aceptan una licencia de conducir. Las aerolíneas actualizan sus normas y tu compañía puede haber cambiado las suyas desde que volaste por última vez, así que no puedes asumir lo que funcionó antes.
 
-Si estás considerando viajar dentro del país con un pasaporte expirado, contacta a tu aerolínea al menos 48 horas antes de tu vuelo y pregunta explícitamente: "Mi pasaporte del Reino Unido está expirado. ¿Aceptarás mi licencia de conducir del Reino Unido en su lugar?" Obtén confirmación por escrito si puedes, ya que llegar al mostrador de facturación con una identificación alternativa sin confirmación previa es cómo la gente pierde vuelos.
+Si estás considerando viajar dentro del país con un pasaporte expirado, contacta a tu aerolínea con suficiente antelación a tu vuelo y pregunta explícitamente: "Mi pasaporte del Reino Unido está expirado. ¿Aceptarás mi licencia de conducir del Reino Unido en su lugar?" Obtén confirmación por escrito si puedes, ya que llegar al mostrador de facturación con una identificación alternativa sin confirmación previa es cómo la gente pierde vuelos.
 
 ## Renovación de emergencia: La ruta del servicio Premium
 
-Si tu viaje es inminente y tu pasaporte está expirado, la Oficina de Pasaportes de Su Majestad ofrece un servicio Premium diseñado exactamente para este escenario, garantizando una cita el mismo día o al día siguiente dependiendo de la disponibilidad. La tarifa es £239.50 en total - cubre todo, en lugar de ser un complemento a la tarifa estándar - y tu pasaporte renovado llega dentro de días en lugar de las semanas que una renovación estándar puede tomar. Ten en cuenta que el servicio Premium en línea es solo para renovaciones, no para primeros pasaportes de adultos.
+Si tu viaje es inminente y tu pasaporte está expirado, la Oficina de Pasaportes de Su Majestad ofrece un servicio Premium diseñado exactamente para este escenario, con una cita el mismo día o al día siguiente, dependiendo de la disponibilidad. HM Passport Office publica la tarifa actual en gov.uk, que cubre la cita y la renovación juntas en lugar de sumarse a la tarifa estándar. Obtienes tu pasaporte mucho más rápido que por la vía estándar, aunque la rapidez exacta depende de la cita disponible. Ten en cuenta que el servicio Premium en línea es solo para renovaciones, no para primeros pasaportes de adultos.
 
-Esta es la ruta de emergencia oficial para limitaciones de viajes genuinas, no un atajo - el servicio Premium existe porque a veces el viaje no puede esperar. La guía oficial es permitir aproximadamente 3 semanas para una renovación estándar, y casi todas las solicitudes se procesan dentro de esa ventana - pero para un viaje que genuinamente no puede esperar, la opción Premium elimina la incertidumbre.
+Esta es la ruta de emergencia oficial para limitaciones de viajes genuinas. HM Passport Office publica su tiempo de procesamiento estándar actual en gov.uk, y merece la pena consultarlo antes de asumir que tienes tiempo de esperar. Cuando un viaje realmente no puede esperar, la opción Premium elimina la incertidumbre.
 
 El problema es que debes tener una ranura de cita disponible, que se llenan rápidamente durante las vacaciones de verano y descansos escolares. Si descubres que tu pasaporte está expirado un viernes antes de un viaje el lunes, puedes encontrar que no hay ranuras Premium disponibles, ya que la reserva ocurre en línea en gov.uk con disponibilidad en vivo. Cuando tu fecha preferida no muestra ranuras, genuinamente no tienes otra opción ese día.
 
@@ -72,7 +72,7 @@ Esto se aplica sin importar si tu pasaporte expiró antes de que salieras del Re
 
 Este es el escenario genuinamente difícil. Si estás viajando y tu pasaporte expira antes de que regreses, no puedes subir a un vuelo o ferry a casa. Necesitarás contactar a la embajada o consulado británico más cercano para un documento de viaje de emergencia - a veces llamado ETD o pasaporte de emergencia - que es válido solo para llegar a casa.
 
-El proceso es lento y burocrático. Necesitarás proporcionar prueba de identidad y pagar la tarifa, actualmente £125. La mayoría de embajadas tardan varios días en emitir el documento, aunque algunas pueden hacerlo en 24-48 horas si realmente estás atrapado. Otras tardan una semana. El documento de emergencia no es un pasaporte turístico - es válido solo para el viaje específico de regreso al Reino Unido sin permitir viajes posteriores.
+El proceso es lento y burocrático. Necesitarás proporcionar prueba de identidad y pagar la tarifa, cuyo importe actual publica el Foreign, Commonwealth and Development Office. El tiempo de tramitación varía según la embajada y la urgencia de tu situación, así que pregunta qué esperar en cuanto contactes con ellos. El documento de emergencia no es un pasaporte turístico - es válido solo para el viaje específico de regreso al Reino Unido sin permitir viajes posteriores.
 
 Establece recordatorios meses con anticipación en lugar del día antes de viajar, ya que recordatorios a los 6, 3 y 1 mes antes de la expiración te dan tiempo para renovar en procesamiento estándar en lugar de pagar por citas de emergencia. Si tu pasaporte expira dentro de 6 meses de tu viaje, comienza el proceso de renovación ahora antes de que te comprometas a fechas de viaje.
 

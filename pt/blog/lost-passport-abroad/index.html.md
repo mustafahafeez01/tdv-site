@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/pt/blog/lost-passport-abroad/
 ## Pontos-Chave
 
 - Apresente um relatório de polícia primeiro - precisa dele tanto para a sua candidatura à embaixada como para a sua reclamação de seguro.
-- A sua embaixada ou consulado pode emitir um documento de viagem de emergência, frequentemente num prazo de 24-48 horas. **Contacte antes** - a maioria requer uma marcação.
+- A sua embaixada ou consulado pode emitir um documento de viagem de emergência, normalmente muito mais rápido do que um passaporte de substituição. **Contacte antes** - a maioria requer uma marcação.
 - Os viajantes com uma cópia digital segura do seu passaporte obtêm documentos de substituição mais rapidamente - entregar os detalhes que a sua embaixada necessita em segundos.
 - O seguro de viagem cobre custos de substituição de passaporte na maioria das apólices abrangentes. Precisa do relatório de polícia para reclamar.
 - O momento para preparar é agora, antes de algo correr mal. Uma digitalização de cinco minutos hoje poderia economizar dias de stress no estrangeiro.
@@ -47,7 +47,7 @@ Contacte antes de visitar. Muitas embaixadas requerem uma marcação para servi�
 
 ## Passo 4: Solicite um Documento de Viagem de Emergência
 
-A sua embaixada emite um documento de viagem de emergência (DVE) ou passaporte de emergência, normalmente válido para uma única viagem para casa. A maioria das embaixadas emite-os num prazo de 24-48 horas para emergências genuínas, embora a sua possa ser diferente - pergunte quando ligar.
+A sua embaixada emite um documento de viagem de emergência (DVE) ou passaporte de emergência, normalmente válido para uma única viagem para casa. O tempo de emissão depende da sede e da urgência do seu caso, por isso pergunte quando ligar.
 
 O que normalmente vai precisar (confirme com a sua embaixada antes de visitar):
 
@@ -86,7 +86,7 @@ Apresente um relatório de polícia imediatamente, depois contacte a sua embaixa
 
 ### Posso obter um passaporte de emergência no estrangeiro?
 
-Sim. A maioria dos países emite documentos de viagem de emergência através das suas embaixadas e consulados, normalmente válidos para uma única viagem para casa e frequentemente emitidos no prazo de 24-48 horas. Contacte a sua embaixada ou consulado mais próximo o mais rapidamente possível - muitas requerem uma marcação.
+Sim. A maioria dos países emite documentos de viagem de emergência através das suas embaixadas e consulados, normalmente válidos para uma única viagem para casa. O tempo de emissão depende da sede e da urgência do seu caso, por isso pergunte quando ligar. Contacte a sua embaixada ou consulado mais próximo o mais rapidamente possível - muitas requerem uma marcação.
 
 ### Preciso de um relatório de polícia se o meu passaporte for roubado no estrangeiro?
 

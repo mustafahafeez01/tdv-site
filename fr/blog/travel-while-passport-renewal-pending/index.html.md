@@ -30,13 +30,13 @@ Le renouvellement standard du passeport américain par courrier n'exige pas que 
 
 Cela signifie que les voyages intérieurs aux États-Unis ne sont pas affectés pendant tout le processus de renouvellement - vous n'avez pas besoin de passeport pour les vols intérieurs. Les voyages internationaux, c'est différent : vous ne pouvez pas voyager à l'étranger jusqu'à l'arrivée de votre nouveau passeport, et vous ne pouvez pas utiliser l'ancien passeport annulé même si vous l'avez en main.
 
-Il faut actuellement 4 à 6 semaines pour le traitement standard, sans compter le temps d'envoi dans chaque direction. Si vous avez des voyages internationaux prévus avant cela, le Département d'État propose un traitement accéléré moyennant des frais supplémentaires, réduisant le délai à environ 2 à 3 semaines. Pour les voyages véritablement urgents dans les 14 jours calendaires, des rendez-vous en personne sont disponibles aux agences régionales des passeports - vérifiez la disponibilité sur travel.state.gov.
+Le délai de traitement standard change, et le Département d'État publie le chiffre actuel sur travel.state.gov, consultez-le donc avant de planifier. Si votre voyage est réservé avant la date où vous attendez le nouveau passeport, un traitement accéléré est disponible moyennant des frais supplémentaires et réduit sensiblement l'attente. Pour les voyages véritablement urgents, des rendez-vous en personne sont disponibles aux agences régionales des passeports - consultez l'admissibilité actuelle sur travel.state.gov.
 
 ## Royaume-Uni : Deux processus avec des résultats opposés
 
 Le Royaume-Uni propose deux voies de renouvellement avec des implications complètement différentes pour les voyages. Le processus utilisé détermine ce qui est possible.
 
-**Renouvellement postal :** Vous envoyez votre passeport actuel au Bureau des passeports de Sa Majesté avec votre demande. Votre passeport est en leur possession pendant toute la durée, donc vous ne pouvez pas voyager à l'étranger. Le Bureau des passeports de Sa Majesté indique actuellement que vous recevrez généralement votre nouveau passeport dans les 3 semaines, bien qu'il vous conseille de ne pas réserver de voyage avant son arrivée, et un service de fast-track premium est disponible moyennant des frais supplémentaires.
+**Renouvellement postal :** Vous envoyez votre passeport actuel au Bureau des passeports de Sa Majesté avec votre demande. Votre passeport est en leur possession pendant toute la durée, donc vous ne pouvez pas voyager à l'étranger. Le Bureau des passeports de Sa Majesté publie son délai de traitement actuel sur son site web et déconseille de réserver un voyage avant l'arrivée du nouveau passeport. Un service de fast-track premium est disponible moyennant des frais supplémentaires si votre voyage est proche.
 
 **Le renouvellement numérique** est actuellement disponible pour les adultes admissibles postulant du Royaume-Uni. Vous conservez votre passeport actuel tout au long du processus, et le gouvernement émet votre nouveau passeport séparément et l'envoie par la poste. Comme votre passeport existant ne quitte jamais votre possession, vous pouvez généralement continuer à l'utiliser pour les voyages en attendant le nouveau. L'admissibilité varie selon la situation individuelle, donc vérifiez le site Web du Bureau des passeports de Sa Majesté pour connaître les critères complets et les délais actuels avant de postuler.
 
@@ -48,23 +48,23 @@ Le renouvellement du passeport australien vous oblige à remettre votre passepor
 
 Vous ne pouvez pas voyager à l'étranger pendant cette période. Les voyages aériens intérieurs en Australie peuvent également être affectés si vous n'avez pas d'autre pièce d'identité avec photo valide, car les compagnies aériennes exigent une vérification d'identité à l'enregistrement.
 
-Le Bureau australien des passeports conseille actuellement de prévoir au moins 6 semaines à partir du dépôt de votre demande. Si vous avez un voyage véritablement urgent et immédiat, un traitement plus rapide est disponible moyennant des frais supplémentaires - un service de fast-track traité dans les 5 jours ouvrables et un service prioritaire dans les 2 jours ouvrables. Des options d'urgence existent pour les voyages véritablement imminents. Vérifiez les délais actuels et postulez sur passports.gov.au.
+Le Bureau australien des passeports publie ses délais de traitement actuels et recommande de présenter la demande bien avant toute date de voyage. Si vous avez un voyage véritablement urgent et immédiat, des options de traitement plus rapide sont disponibles moyennant des frais supplémentaires, notamment fast-track et prioritaire. Des options d'urgence existent pour les voyages véritablement imminents. Vérifiez les délais actuels et postulez sur passports.gov.au.
 
 ## Canada : Remis lors de la demande
 
 Le Canada vous oblige à remettre votre passeport existant lorsque vous demandez un renouvellement. Votre ancien passeport est conservé jusqu'à ce que le nouveau soit prêt, donc vous ne pouvez pas voyager à l'étranger pendant cette période - bien que les voyages intérieurs au Canada ne nécessitent pas de passeport.
 
-Les normes de service sont actuellement de 10 jours ouvrables si vous postulez en personne à un bureau des passeports, ou de 20 jours ouvrables par courrier ou à un Centre de services régulier - plus le temps d'envoi. Pour les voyages urgents, vous pouvez choisir un service express (2 à 9 jours ouvrables) ou un retrait urgent (aussi rapide que le jour suivant) moyennant des frais supplémentaires. Vérifiez les délais de traitement actuels et postulez sur canada.ca.
+Service Canada publie ses normes de traitement actuelles, qui varient selon que vous postulez en personne, par courrier ou à un Centre de services Canada, plus le temps d'envoi. Pour les voyages urgents, des options de service express et de retrait urgent existent moyennant des frais supplémentaires. Vérifiez les délais de traitement actuels et postulez sur canada.ca.
 
 ## Comparaison des pays
 
-| Pays / Méthode | Conserver passeport ? | Voyages internationaux pendant le renouvellement ? | Délai standard |
-|---|---|---|---|
-| États-Unis (par courrier) | Oui (retourné annulé) | Non | 6 à 12 semaines |
-| Royaume-Uni (postal) | Non (en attente au HMPO) | Non | Environ 3 semaines |
-| Royaume-Uni (numérique) | Oui (vous le conservez) | Oui (sur ancien passeport) | 2 à 3 semaines |
-| Australie | Non (doit être remis) | Non | 4 à 3 semaines |
-| Canada | Non (doit être remis) | Non | 5 à 3 semaines |
+| Pays / Méthode | Conserver passeport ? | Voyages internationaux pendant le renouvellement ? |
+|---|---|---|
+| États-Unis (par courrier) | Oui (retourné annulé) | Non |
+| Royaume-Uni (postal) | Non (en attente au HMPO) | Non |
+| Royaume-Uni (numérique) | Oui (vous le conservez) | Oui (sur ancien passeport) |
+| Australie | Non (doit être remis) | Non |
+| Canada | Non (doit être remis) | Non |
 
 ## Si votre voyage est plus proche que votre délai de renouvellement
 
@@ -100,7 +100,7 @@ Cela dépend. Le renouvellement par courrier aux États-Unis vous retourne votre
 
 ### Qu'est-ce qu'un document de voyage d'urgence ?
 
-Un document de voyage d'urgence est un document temporaire délivré par votre gouvernement pour les urgences véritables, comme une crise médicale ou un décès dans la famille nécessitant un voyage immédiat à l'étranger. Il est valide pour un seul voyage. Il nécessite une preuve d'urgence véritable et n'est pas une alternative au renouvellement standard pour les voyages planifiés. Le traitement est généralement le jour même ou dans les 24 heures.
+Un document de voyage d'urgence est un document temporaire délivré par votre gouvernement pour les urgences véritables, comme une crise médicale ou un décès dans la famille nécessitant un voyage immédiat à l'étranger. Il est valide pour un seul voyage. Il nécessite une preuve d'urgence véritable et n'est pas une alternative au renouvellement standard pour les voyages planifiés. Le traitement est rapide car ces documents sont conçus pour les situations urgentes, mais confirmez le délai actuel auprès de votre autorité de passeport au moment de la demande.
 
 ## Articles connexes
 

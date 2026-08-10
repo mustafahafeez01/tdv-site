@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/de/blog/passport-expired-what-to-do/
 
 - Es gibt zwei unterschiedliche Szenarien: Sie stellen fest, dass Ihr Reisepass zu Hause abgelaufen ist, oder Sie stellen es am Flughafen fest. Die Schritte unterscheiden sich für beide.
 - Sie können nicht international mit einem abgelaufenen Reisepass fliegen. Keine Ausnahmen.
-- Im Vereinigten Königreich gibt es einen Premium-Reisepass-Service am selben Tag für echte Notfälle – buchbar auf gov.uk. In den USA sind Notfalltermine durch das State Department für Reisen innerhalb von 72 Stunden verfügbar.
+- Im Vereinigten Königreich gibt es einen beschleunigten Premium-Reisepass-Service für echte Notfälle - buchbar auf gov.uk. In den USA sind Notfalltermine durch das State Department für dringende Reisen verfügbar.
 - Am Flughafen wenden Sie sich zunächst an Ihre Airline – einige buchen ohne Gebühren für echte Dokumentationsnotfälle um.
 - Die langfristige Lösung ist eine 12-Monats-Ablauferinnerung, nicht eine 6-Monats-Erinnerung. Das gibt Ihnen genug Zeit, um mit standardmäßiger Bearbeitung zu erneuern.
 - Ablauf ist nicht das einzige Reisepassproblem, das Reisende am Flughafen abweist. Beschädigungen, Namensfehler, fehlende Unterschriften und unzureichende Restgültigkeit an Ihrem Zielort führen zum gleichen Ergebnis.
@@ -23,12 +23,12 @@ Wenn Sie feststellen, dass Ihr Reisepass abgelaufen ist, ist das einer dieser Mo
 
 Diese Situation ist lösbar – aber wie gut sie gelöst werden kann, hängt davon ab, wie viel Zeit Sie vor der Reise noch haben.
 
-| Zeit bis zur Reise | Was zu tun ist | UK-Option | US-Option |
-|---|---|---|---|
-| 10+ Wochen | Stellen Sie sofort einen standardmäßigen Verlängerungsantrag online | Online über GOV.UK | Online über travel.state.gov |
-| 6–10 Wochen | Beantragen Sie sofort und zahlen Sie für beschleunigte Bearbeitung | 1-Wochen-Fast-Track (online) | Beschleunigt (+$60, ca. 5–7 Wochen) |
-| Weniger als 6 Wochen | Rufen Sie Ihre Reisepassbehörde an (nicht nur die Website verwenden) | die Beratungsstelle von HM Passport Office | das US-amerikanische National Passport Information Center |
-| Weniger als 2 Wochen | Notfalltermin (bringen Sie den Nachweis der unmittelbar bevorstehenden Reise mit) | Premium-Service am selben Tag | Regionale Reisepassbehörde |
+Wie dringend Sie handeln müssen, bestimmt, was zu tun ist:
+
+- **Reichlich Zeit vor der Reise:** Stellen Sie online über die Website Ihrer Reisepassbehörde einen Antrag auf Standarderneuerung - GOV.UK für das Vereinigte Königreich, travel.state.gov für die USA.
+- **Reise rückt näher:** Beantragen Sie sofort und zahlen Sie für beschleunigte Bearbeitung. Sowohl das Vereinigte Königreich als auch die USA bieten online einen schnelleren kostenpflichtigen Service an, und beide veröffentlichen ihre aktuelle Bearbeitungszeit.
+- **Reise steht kurz bevor:** Rufen Sie Ihre Reisepassbehörde direkt an, statt sich nur auf die Website zu verlassen - die Beratungsstelle des HM Passport Office im Vereinigten Königreich oder das US National Passport Information Center in den USA.
+- **Reise ist unmittelbar bevorstehend:** Fragen Sie nach einem Notfalltermin und bringen Sie einen Nachweis Ihrer Reisedaten mit. Das Vereinigte Königreich bietet einen beschleunigten Premium-Service an ausgewählten Reisepass-Büros an, und die USA bieten Termine bei regionalen Reisepassbehörden an.
 
 Alle großen Reisepassbehörden halten Notfalltermine zurück, die online nicht sichtbar sind. Wenn Ihre Frist knapp ist, rufen Sie an, anstatt sich nur auf die Website zu verlassen.
 
@@ -98,7 +98,7 @@ Nein. Ein abgelaufener Reisepass ist nicht gültig für internationale Reisen. A
 
 ### Was sollte ich tun, wenn ich vor meiner Reise feststelle, dass mein Reisepass abgelaufen ist?
 
-Beantragen Sie sofort eine Verlängerung und bezahlen Sie für beschleunigte Bearbeitung. Wenn Ihre Reise innerhalb von 6 Wochen ansteht, rufen Sie Ihre Reisepassbehörde direkt an, anstatt sich nur auf die Website zu verlassen. Notfall- und Prioritätstermine existieren für unmittelbar bevorstehende Reisen, aber Sie müssen danach fragen.
+Beantragen Sie sofort eine Verlängerung und bezahlen Sie für beschleunigte Bearbeitung, wenn Ihre Reise bald bevorsteht. Steht Ihre Reise kurz bevor, rufen Sie Ihre Reisepassbehörde direkt an, anstatt sich nur auf die Website zu verlassen. Notfall- und Prioritätstermine existieren für unmittelbar bevorstehende Reisen, aber Sie müssen danach fragen.
 
 ### Was sollte ich tun, wenn ich am Flughafen feststelle, dass mein Reisepass abgelaufen ist?
 
@@ -106,7 +106,7 @@ Sie können nicht an Bord gehen. Gehen Sie sofort zum Schalter der Airline, um U
 
 ### Wie schnell kann ich einen Notreisepass bekommen, wenn meiner abgelaufen ist?
 
-Im Vereinigten Königreich ist ein Premium-Service am selben Tag an ausgewählten Reisepass-Büros für Reisen innerhalb von 1 Woche verfügbar – Termin erforderlich, buchbar auf gov.uk. In den USA sind persönliche Notfalltermine bei regionalen Reisepassbehörden für Reisen innerhalb von 72 Stunden verfügbar – die beschleunigte Gebühr beträgt $60 plus die standardmäßige Verlängerungsgebühr. Überprüfen Sie travel.state.gov auf Verfügbarkeit. In Australien überprüfen Sie passports.gov.au auf Optionen für schnelle Bearbeitung.
+Im Vereinigten Königreich ist ein beschleunigter Premium-Service an ausgewählten Reisepass-Büros für echte Notfälle verfügbar - Termin erforderlich, aktuelle Bearbeitungszeit und Buchung auf gov.uk prüfen. In den USA sind persönliche Notfalltermine bei regionalen Reisepassbehörden für dringende Reisen verfügbar - aktuelle Gebühren und Verfügbarkeit auf travel.state.gov prüfen. In Australien überprüfen Sie passports.gov.au auf Optionen für dringende Bearbeitung.
 
 ### Wie vermeide ich, dass mein Reisepass unerwartet abläuft?
 

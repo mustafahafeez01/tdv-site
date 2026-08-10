@@ -52,7 +52,7 @@ Le conseguenze di un superamento della durata di soggiorno variano da paese a pa
 - **Regno Unito:** I superamenti sono registrati e influenzeranno le domande di visto future. L'Ufficio per l'Immigrazione del Regno Unito considera i superamenti nella valutazione della credibilità e può rifiutare le applicazioni successive.
 - **Australia:** Il superamento della durata di soggiorno del Suo visto può risultare in restrizioni sulle domande di visto future e nell'allontanamento dal paese. Secondo il Migration Act 1958, i record di superamento sono tracciati e influenzeranno le domande di visto future e l'idoneità al rientro.
 - **Area Schengen:** I superamenti sono tracciati nel Sistema Informativo Schengen (SIS). Un divieto emesso da un paese Schengen si applica a tutti i 27 stati membri.
-- **Tailandia:** I superamenti incorrono una multa di 500 Baht tailandesi per giorno (approssimativamente USD 14), fino a 20.000 Baht, e possono risultare in arresto e espulsione per superamenti prolungati.
+- **Tailandia:** I superamenti comportano una multa giornaliera stabilita dall'immigrazione thailandese, fino a un tetto massimo, e possono risultare in arresto ed espulsione per superamenti prolungati.
 
 In tutti i casi, il record di superamento típicamente La segue: appare nei database immigrazione controllati ai futuri valichi di confine e nelle domande di visto.
 
@@ -63,12 +63,12 @@ Data la complessità di cui sopra, una buona app di tracciamento della scadenza 
 - **Campi separati per validità dell'ingresso e durata massima di soggiorno:** Queste sono date diverse e necessitano promemoria separati.
 - **Tracciamento del conteggio dell'ingresso:** L'ingresso singolo rispetto al doppio rispetto al multiplo è importante per sapere se il visto sopravvive a un'uscita e un rientro.
 - **Accesso offline:** Ha bisogno dei dettagli del Suo visto alle frontiere dove Internet potrebbe non essere affidabile.
-- **Tempi di promemoria personalizzati:** Un visto di soggiorno lungo per lavoro potrebbe giustificare un promemoria di 90 giorni; un visto turistico potrebbe giustificare 2 settimane. I promemoria uguali per tutti non sono appropriati.
+- **Tempi di promemoria personalizzati:** Un visto di soggiorno lungo per lavoro potrebbe giustificare un promemoria di 90 giorni; un visto turistico ha bisogno di sufficiente anticipo per organizzare la partenza senza fretta. I promemoria uguali per tutti non sono appropriati.
 - **Molteplici tipi di documento e viaggiatori:** Se viaggia come una famiglia, ogni visto di ogni membro della famiglia ha bisogno di un tracciamento indipendente.
 - **Modello di privacy:** I dettagli del visto sono dati sensibili collegati all'identità. Come con l'archiviazione del passaporto, la crittografia on-device senza caricamento cloud è l'architettura più sicura.
 - **Tracciamento di passaporto + visto insieme:** Un errore comune ma trascurato è avere un visto valido ma un passaporto che scade durante il Suo soggiorno pianificato. Avere entrambi tracciati nello stesso luogo previene questa mancata corrispondenza.
 
-**Travel Document Vault** traccia sia le date di scadenza del passaporto che del visto in un unico luogo, con promemoria separati per documento e supporto per molteplici viaggiatori. I Suoi dati rimangono on-device e crittografati con AES-256, nessun account richiesto, con backup crittografato facoltativo sul Suo iCloud o Google Drive personale (Pro). [È disponibile su App Store per 9,99 USD, una tantum.](https://apps.apple.com/it/app/travel-document-vault/id6757014877)
+**Travel Document Vault** traccia sia le date di scadenza del passaporto che del visto in un unico luogo, con promemoria separati per documento e supporto per molteplici viaggiatori. I Suoi dati rimangono on-device e crittografati con AES-256, nessun account richiesto, con backup crittografato facoltativo sul Suo iCloud o Google Drive personale (Pro). [È disponibile su App Store come acquisto una tantum, senza abbonamento.](https://apps.apple.com/it/app/travel-document-vault/id6757014877)
 
 ## Passi Pratici per Tracciare Correttamente il Suo Visto
 
@@ -76,7 +76,7 @@ Data la complessità di cui sopra, una buona app di tracciamento della scadenza 
 2. **Calcoli e noti la Sua data di uscita più recente consentita.** Aggiunga la Sua durata massima di soggiorno alla Sua data di ingresso. Questa è la data entro la quale deve partire - prima se ha bisogno di tempo per raggiungere un punto di partenza.
 3. **Traccia lo stato di ingresso singolo rispetto a multiplo.** Se il Suo visto è a ingresso singolo, una gita di un giorno a un paese vicino lo annulla - pianifichi di conseguenza.
 4. **Per il viaggio a Schengen, mantieni un registro delle date di ingresso e uscita.** Usi il calcolatore ufficiale della Commissione Europea per verificare i Suoi giorni rimanenti prima di qualsiasi viaggio che segue un recente viaggio a Schengen.
-5. **Imposti un promemoria almeno 2 settimane prima della Sua data limite di durata massima di soggiorno.** Questo Le dà tempo per organizzare una partenza senza fretta, soprattutto se le opzioni di trasporto nel Suo destino sono limitate.
+5. **Imposti un promemoria con ampio anticipo rispetto alla Sua data limite di durata massima di soggiorno.** Questo Le dà tempo per organizzare una partenza senza fretta, soprattutto se le opzioni di trasporto nel Suo destino sono limitate.
 
 Regole correlate che interagiscono con il tracciamento dei visti: consulti la Sua guida alla [regola del passaporto di 6 mesi](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/), che può impedirLe di entrare anche con un visto valido se il Suo passaporto scade troppo presto dopo la Sua partenza pianificata.
 
@@ -102,7 +102,7 @@ Le migliori possono. L'accesso offline è importante alle frontiere e nelle aree
 
 ### Con quale anticipo dovrei ricevere un promemoria prima della scadenza del Suo visto?
 
-Dipende dal tipo di visto. Per i visti di soggiorno lungo che richiedono il rinnovo, 90 giorni è un minimo ragionevole. Per i visti turistici con durate massime di soggiorno fisse, 2 settimane prima della Sua data di uscita consentita più recente Le dà tempo per organizzare la partenza senza fretta. Cerchi app che Le permettano di impostare tempi personalizzati per documento.
+Dipende dal tipo di visto. Per i visti di soggiorno lungo che richiedono il rinnovo, 90 giorni è un minimo ragionevole. Per i visti turistici con durate massime di soggiorno fisse, un promemoria con sufficiente anticipo rispetto alla Sua data di uscita consentita più recente Le dà tempo per organizzare la partenza senza fretta. Cerchi app che Le permettano di impostare tempi personalizzati per documento.
 
 ## Articoli Correlati
 

@@ -49,7 +49,7 @@ Fuentes: Departamento de Estado de EE.UU., GOV.UK, Canada.ca, Oficina de Pasapor
 
 Una familia de cuatro por lo tanto opera en cuatro calendarios de caducidad diferentes. La fecha más temprana decide si el viaje sucede en absoluto. Dos adultos renovados juntos se desfasarán de los documentos de sus hijos en un par de años - que es exactamente por qué verificar tu propio pasaporte te dice casi nada sobre la disponibilidad de la familia.
 
-Para las familias estadounidenses hay una complicación adicional: el pasaporte de un niño no puede renovarse por correo. Cada renovación requiere una solicitud nueva en persona y el procesamiento rutinario actualmente toma varias semanas, más tiempo de envío en ambos sentidos - lo que es manejable en marzo pero se convierte en un problema real dos semanas antes de la salida. Las familias británicas lo tienen un poco más fácil: solo verifica los tiempos de procesamiento actuales antes de reservar y permite tiempo extra si se necesita información.
+Para las familias estadounidenses hay una complicación adicional: el pasaporte de un niño no puede renovarse por correo. Cada renovación requiere una solicitud nueva en persona, y el tiempo de procesamiento cambia - el Departamento de Estado de EE.UU. publica la cifra actual, así que consúltala antes de planificar, además del tiempo de envío en ambos sentidos. Lo que es manejable en marzo se convierte rápidamente en un problema real justo antes de la salida. Las familias británicas lo tienen un poco más fácil: solo verifica los tiempos de procesamiento actuales antes de reservar y permite tiempo extra si se necesita información.
 
 ## Realidad del Check-in: Timatic No Redondea Hacia Arriba
 
@@ -79,7 +79,7 @@ No. Los niños necesitan los mismos 3 meses de validez después de la salida y l
 
 ### ¿Cuándo debemos renovar el pasaporte de un niño antes de un viaje?
 
-Tan pronto como reserves, verifica si el pasaporte aún tendrá 3 meses de validez después de tu fecha de regreso. Si no es así, comienza de inmediato. Consulta los tiempos de procesamiento actuales del Reino Unido y permite tiempo extra si la solicitud necesita más información. El procesamiento rutinario estadounidense toma varias semanas más tiempo de envío. El pasaporte infantil estadounidense también requiere una solicitud nueva en persona en lugar de una renovación.
+Tan pronto como reserves, verifica si el pasaporte aún tendrá 3 meses de validez después de tu fecha de regreso. Si no es así, comienza de inmediato. Consulta los tiempos de procesamiento actuales del Reino Unido y permite tiempo extra si la solicitud necesita más información. El tiempo de procesamiento en EE.UU. cambia; consulta la cifra actual en el Departamento de Estado de EE.UU., además del tiempo de envío. El pasaporte infantil estadounidense también requiere una solicitud nueva en persona en lugar de una renovación.
 
 ### ¿Podemos volar mientras se está renovando el pasaporte de un niño?
 

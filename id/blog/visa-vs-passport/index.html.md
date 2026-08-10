@@ -143,6 +143,6 @@ Di sebagian besar negara, bisa. Masa berlaku visa terpisah dari masa berlaku pas
 
 ## Artikel Terkait
 
-[Aturan Paspor6 menit bacaPaspor Kedaluwarsa: Apa yang Harus Dilakukan dan Cara Memperpanjangnya](https://traveldocumentvault.com/blog/passport-expired-what-to-do/)
+[Aturan Paspor6 menit bacaPaspor Kedaluwarsa: Apa yang Harus Dilakukan dan Cara Memperpanjangnya](https://traveldocumentvault.com/id/blog/passport-expired-what-to-do/)
 
-[Aturan Masa Berlaku6 menit bacaBerapa Lama Masa Berlaku Paspor untuk Bepergian](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/)
+[Aturan Masa Berlaku6 menit bacaBerapa Lama Masa Berlaku Paspor untuk Bepergian](https://traveldocumentvault.com/id/blog/how-long-is-passport-valid-for-travel/)

@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/why-i-built-travel-document
 
 ---
 
+![整齐叠放的一家人的护照，中间夹着一张登机牌，置于深藏青色背景上](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/cover.jpg)
+
 那天我在入境审查处，移民官看了看我女儿的护照，停顿了一下，然后抬头看着我。
 
 "您知道这本护照七个月后就到期了吧？"他说，"提醒您一下——有些国家要求入境时护照有效期不得少于六个月。"

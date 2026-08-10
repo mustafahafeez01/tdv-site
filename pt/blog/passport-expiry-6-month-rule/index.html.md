@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/
 
 ## Pontos-chave
 
-- A **regra dos 6 meses de validade do passaporte** significa que o seu passaporte deve manter-se válido por pelo menos seis meses para além da data planeada de partida de um país - não apenas a data de chegada.
+- A **regra dos 6 meses de validade do passaporte** significa que o seu passaporte precisa de seis meses de validade quando viaja. A maioria dos países conta isto a partir do dia em que chega, e alguns a partir do dia em que parte, por isso contar a partir da sua data de partida é o hábito mais seguro: satisfaz ambos.
 - Muitos países na Ásia e em África aplicam esta regra - incluindo destinos populares como Tailândia, Indonésia, Vietname e Índia. Europa e a maioria dos países de língua inglesa geralmente não o fazem.
 - As companhias aéreas podem e recusam o embarque se o seu passaporte ficar aquém - mesmo que o país de destino o tivesse deixado entrar.
 - A regra é aplicada de forma inconsistente: o mesmo país pode dispensá-la para alguns titulares de passaporte e aplicá-la a outros com base em acordos bilaterais.
@@ -22,7 +22,7 @@ O funcionário de imigração olhou para o passaporte da minha filha, fez uma pa
 
 ## O Que É a Regra dos 6 Meses de Validade do Passaporte?
 
-A regra exige que o seu passaporte seja válido por pelo menos seis meses para além da data prevista de partida do país de destino. Na prática, isto significa:
+A regra exige seis meses de validade do passaporte para a sua viagem. A maioria dos países conta isto a partir do dia em que chega, e alguns a partir do dia em que parte, por isso contar a partir da sua data de partida cobre ambos os casos. Na prática, isto significa:
 
 - Se está a visitar a Tailândia e planeia partir a 1 de agosto, o seu passaporte deve manter-se válido até pelo menos 1 de fevereiro do ano seguinte.
 - Um passaporte que expira em 30 de novembro é tecnicamente "válido" para a sua viagem em agosto - mas falha este requisito por dois meses.
@@ -82,7 +82,7 @@ Chegar ao destino e ser negado pela imigração? Isso é consideravelmente pior.
 
 Trate o seu passaporte como um pneu de carro - não espere até estar furado. Renove quando descer abaixo de 12 meses de validade. Isto dá-lhe uma margem de seis meses em cima da regra, com espaço de sobra.
 
-Antes de qualquer viagem, conte seis meses para a frente a partir da data planeada de partida do destino. Verifique a expiração do seu passaporte contra essa data - não apenas as suas datas de viagem.
+Antes de qualquer viagem, conte seis meses para a frente a partir do dia em que sai do destino, que é a data mais tardia e por isso satisfaz qualquer versão da regra. Verifique a expiração do seu passaporte contra essa data - não apenas as suas datas de viagem.
 
 Gerir múltiplos passaportes em toda uma família com diferentes datas de expiração é onde fica complicado. [Travel Document Vault](https://traveldocumentvault.com) rastreia isto automaticamente - armazenando a expiração do passaporte de cada membro da família e enviando lembretes com 6 meses, 3 meses e mais perto. Nenhuma aritmética mental antes de cada reserva. Também pode encontrar mais dicas práticas [de documentos de viagem](https://traveldocumentvault.com/pt/blog/) no blogue.
 
@@ -104,7 +104,7 @@ Estas fontes dizem-lhe o requisito oficial e se se aplica aos titulares do seu p
 
 ### O que exactamente é a regra dos 6 meses de validade do passaporte e por que existe?
 
-A regra dos 6 meses de validade do passaporte exige que o seu passaporte seja válido por pelo menos seis meses para além da data planeada de partida do destino. Se expira dentro dessa janela, pode ser negado o embarque ou entrada - mesmo que o passaporte em si ainda não tenha tecnicamente expirado.
+A regra dos 6 meses de validade do passaporte exige seis meses de validade do passaporte para a sua viagem. A maioria dos países mede isto a partir do dia em que chega, e alguns a partir do dia em que parte. Se expira dentro dessa janela, pode ser negado o embarque ou entrada - mesmo que o passaporte em si ainda não tenha tecnicamente expirado.
 
 ### Quais países aplicam a regra dos 6 meses de validade do passaporte em 2026?
 
@@ -120,7 +120,7 @@ Sim. As companhias aéreas verificam a validade do passaporte utilizando uma bas
 
 ### Como verifíco se o meu passaporte cumpre a regra dos 6 meses?
 
-Conte seis meses para a frente a partir da data planeada de regresso, depois verifique se o seu passaporte expira depois dessa data. Se regressar a 1 de agosto, o seu passaporte precisa estar válido até pelo menos 1 de fevereiro do ano seguinte. Aplicações como Travel Document Vault rastreiam isto automaticamente para cada membro da família, para que não tenha de fazer as contas antes de cada viagem.
+Conte seis meses para a frente a partir do dia em que sai do destino, depois verifique se o seu passaporte expira depois dessa data. Essa é a mais tardia das duas datas usadas pelos países, por isso cobre ambos os casos. Se partir a 1 de agosto, o seu passaporte precisa estar válido até pelo menos 1 de fevereiro do ano seguinte. Aplicações como Travel Document Vault rastreiam isto automaticamente para cada membro da família, para que não tenha de fazer as contas antes de cada viagem.
 
 ### A regra dos 6 meses aplica-se aos cidadãos da UE que viajam dentro da Europa?
 

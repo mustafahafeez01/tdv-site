@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/th/blog/why-i-built-travel-document-vaul
 
 ---
 
+![กองหนังสือเดินทางของครอบครัวที่จัดวางเรียบร้อย มีบัตรขึ้นเครื่องสอดอยู่ บนพื้นหลังสีน้ำเงินเข้ม](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/cover.jpg)
+
 ผมอยู่ที่ด่านตรวจคนเข้าเมือง ตอนที่เจ้าหน้าที่หยิบพาสปอร์ตลูกสาวขึ้นมาดู หยุดนิด แล้วมองขึ้นมาที่ผม
 
 "รู้ไหมครับว่าพาสปอร์ตใบนี้จะหมดอายุอีกเจ็ดเดือน?" เขาพูด "แจ้งให้ทราบไว้ว่า บางประเทศไม่อนุญาตให้เข้าถ้ามีอายุเหลือน้อยกว่าหกเดือนครับ"
@@ -116,6 +118,6 @@ Mustafa
 
 ## บทความที่เกี่ยวข้อง
 
-[กฎพาสปอร์ตอ่าน 7 นาที · 1 ก.พ. 2026กฎพาสปอร์ต 6 เดือน: ประเทศไหนบังคับใช้บ้าง](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[กฎพาสปอร์ตอ่าน 7 นาที · 1 ก.พ. 2026กฎพาสปอร์ต 6 เดือน: ประเทศไหนบังคับใช้บ้าง](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)
 
-[การจัดระเบียบอ่าน 7 นาที · 5 ก.พ. 2026วิธีจัดระเบียบเอกสารการเดินทางของครอบครัว (ก่อนทริปครั้งต่อไป)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+[การจัดระเบียบอ่าน 7 นาที · 5 ก.พ. 2026วิธีจัดระเบียบเอกสารการเดินทางของครอบครัว (ก่อนทริปครั้งต่อไป)](https://traveldocumentvault.com/th/blog/how-to-organise-family-travel-documents/)

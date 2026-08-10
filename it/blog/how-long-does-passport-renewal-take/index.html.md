@@ -10,79 +10,57 @@ Source: https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-t
 
 ## Punti Chiave
 
-- Quanto tempo richiede il rinnovo del passaporto dipende da dove vivete: l'Australia consiglia di consentire almeno 6 settimane, l'elaborazione standard negli USA richiede 4-6 settimane (accelerata 2-3 settimane) e il Regno Unito di solito richiede circa 3 settimane.
-- Ogni paese ha un'opzione accelerata - ma costa extra, e "veloce" significa comunque giorni o settimane, non ore.
-- Nei periodi di punta dei viaggi (gennaio-marzo e giugno-agosto), i tempi reali superano regolarmente le stime ufficiali.
-- La regola più sicura: iniziate il processo di rinnovo nel momento in cui il vostro passaporto scende sotto 12 mesi di validità.
-- Se avete un viaggio prenotato e il vostro passaporto sta per scadere, chiamate direttamente la vostra autorità passaporti - non limitate a sfogliare il sito web.
+- Quanto tempo richiede il rinnovo del passaporto dipende dal vostro paese, dalla vostra situazione e dalla stagione in cui fate domanda - non esiste una cifra unica che resti esatta a lungo, quindi in questa guida ne omettiamo deliberatamente una.
+- Ogni paese gestisce una coda standard più una o più vie a pagamento più veloci. Le vie più veloci vi comprano una posizione anteriore o un appuntamento prenotabile - non saltano alcun controllo.
+- Una manciata di situazioni rallenta in modo affidabile l'elaborazione: un cambio di nome, un primo passaporto da adulto, una domanda per un bambino, un passaporto perso o danneggiato, controlli di sicurezza extra, la stagione di punta e una domanda dall'estero.
+- L'approccio più sicuro è fare domanda non appena la validità residua del vostro passaporto inizia a farsi stretta, calcolando all'indietro dalla vostra data di viaggio reale invece di indovinare.
+- Per la cifra che conta ora, rivolgetevi alla vostra autorità passaporti - HM Passport Office, il Dipartimento di Stato USA, l'Ufficio Passaporti Australiano o l'equivalente nazionale - non a un articolo di blog.
 
 Avete prenotato voli per un viaggio tra cinque mesi. Tirate fuori i passaporti di tutti per controllare di nuovo, e eccolo: uno scade tra cinque mesi e tre settimane. Ora avete bisogno di sapere esattamente quanto tempo richiede il rinnovo del passaporto - perché la matematica improvvisamente conta.
 
-La risposta dipende da dove vivete, da quando fate domanda e da quanto siete disposti a pagare. Questa guida percorre i tempi di elaborazione del passaporto nel mondo reale per USA, UK, Australia e Canada nel 2026 - più cosa fare quando il vostro orario è già stretto.
+Non esiste una cifra unica, e qualsiasi articolo che ve ne dà una scommette silenziosamente sul fatto che non noterete mai quando diventa obsoleta. I tempi di elaborazione si muovono con il personale, il volume di domande e la stagione, quindi una cifra corretta oggi potrebbe facilmente essere sbagliata entro pochi mesi. Ciò che cambia molto meno spesso è la forma della decisione stessa: ogni autorità passaporti gestisce una coda standard e almeno una via a pagamento per andare più veloce, e un insieme specifico di situazioni rallenta in modo affidabile una domanda indipendentemente dal paese che la emette. È questo che copre questa guida, insieme a dove esattamente cercare la cifra che si applica a voi in questo momento.
 
-**Avvertenza:** I tempi di elaborazione cambiano costantemente. Le cifre qui sotto riflettono le timeline pubblicate tipiche. Controllate sempre l'autorità passaporti ufficiale del vostro paese prima di fare domanda poiché i tempi cambiano frequentemente.
+**Avvertenza:** Qui non citiamo tempi di elaborazione, di proposito. Si spostano con la stagione e con il personale, e una cifra corretta oggi può essere sbagliata entro pochi mesi. La vostra autorità passaporti pubblica la cifra attuale - HM Passport Office, il Dipartimento di Stato USA, l'Ufficio Passaporti Australiano o l'equivalente nazionale - ed è l'unica fonte che vale la pena consultare.
 
 ## Quanto tempo richiede il rinnovo del passaporto negli Stati Uniti?
 
-I tempi di elaborazione attuali del Dipartimento di Stato degli USA sono i seguenti. Verificate questi tempi prima di fare domanda, poiché cambiano regolarmente:
+Il Dipartimento di Stato USA pubblica i suoi tempi di elaborazione attuali su travel.state.gov, e cambiano durante tutto l'anno con la domanda e il personale. Esistono tre vie:
 
-| Tipo di Servizio | Tempo di Elaborazione | Commissione Aggiuntiva |
-|---|---|---|
-| Ordinario | 4-6 settimane | Nessuna |
-| Accelerato | 2-3 settimane | 60 dollari aggiuntivi |
-| Urgente (appuntamento agenzia di persona) | Giorni a 1 settimana | 60 dollari aggiuntivi più appuntamento richiesto |
+- **Ordinaria:** la coda predefinita, senza priorità.
+- **Accelerata:** vi fa avanzare nella coda dietro pagamento di una commissione aggiuntiva, senza saltare alcun controllo.
+- **Appuntamento urgente (di persona):** per viaggi genuinamente imminenti, con prova della data di viaggio - prenotabile presso un'agenzia passaporti regionale.
 
-Gli appuntamenti urgenti presso l'agenzia sono disponibili se avete un viaggio documentato entro 14 giorni di calendario, o necessitate un visto estero entro 28 giorni. Per emergenze genuine, esistono appuntamenti stesso giorno. Prenotate su travel.state.gov e portate prova di viaggio - non vi vedranno senza di essa.
+Gli appuntamenti urgenti sono disponibili per viaggi documentati e imminenti. Prenotate su travel.state.gov e portate prova di viaggio - non vi vedranno senza di essa.
 
 Gli USA offrono un programma di rinnovo online per gli adulti idonei. Per qualificarvi, dovete rinnovare un libretto passaporto degli USA che è stato rilasciato quando avevate 16 anni o più. Controllate travel.state.gov per vedere se siete idonei e se il programma sta attualmente accettando domande.
 
-**Un'importante avvertenza: i tempi pubblicati sono medie, non garanzie.** Controllate travel.state.gov per i tempi attuali prima di fare domanda perché, durante la domanda di picco (gennaio-marzo e giugno-agosto), l'elaborazione ordinaria supera regolarmente le stime pubblicate. Se il vostro viaggio cade entro tre mesi, considerate di pagare i 60 dollari extra per l'elaborazione accelerata - il modesto costo è ampiamente compensato dalla certezza e dalla flessibilità di pianificazione che fornisce.
+**Un'importante avvertenza: i tempi pubblicati sono medie, non garanzie.** Controllate travel.state.gov per la cifra attuale prima di fare domanda perché, durante la stagione di punta, l'elaborazione ordinaria supera regolarmente le stime pubblicate. Se il vostro viaggio è vicino, la commissione aggiuntiva per l'elaborazione accelerata è di solito ampiamente compensata dalla certezza e dalla tranquillità di pianificazione che fornisce.
 
 Cosa significa in pratica
 
-Se state viaggiando a luglio e fate domanda a metà aprile (12 settimane di distanza), state tagliando stretto nell'elaborazione standard USA durante la stagione di picco. Pagate i 60 dollari per l'elaborazione accelerata, e siete comodi - avete comprato certezza. Fate domanda ad aprile con tariffe standard, tuttavia, e scoprite che l'elaborazione sta funzionando a 8 settimane? State facendo chiamate frenetiche, negoziando con le compagnie aeree, sperando in uno slot d'emergenza dell'ultimo minuto.
+Se viaggiate durante la stagione di punta di un paese e il vostro passaporto si fa stretto, pagare per la via più veloce vi compra certezza: una posizione anteriore nella coda, indipendentemente da quanto si sia allungato l'arretrato standard quel mese. Se invece restate sull'elaborazione standard durante un periodo di forte domanda, state scommettendo che la stima pubblicata rifletta ancora la realtà - esattamente l'ipotesi che coglie le persone di sorpresa.
 
 ## Quanto tempo richiede il rinnovo del passaporto nel Regno Unito?
 
-HM Passport Office elabora i rinnovi del Regno Unito. Queste sono le timeline tipiche:
+HM Passport Office pubblica il proprio tempo di elaborazione attuale su GOV.UK, e cambia abbastanza spesso che una cifra citata qui sarebbe probabilmente già obsoleta quando la leggete.
 
-| Tipo di Servizio | Tempo di Elaborazione | Note |
-|---|---|---|
-| Standard (online) | circa 3 settimane | Di solito entro 3 settimane; più lungo se servono più informazioni o un'intervista - controllate GOV.UK |
-| Fast Track di 1 Settimana | circa 1 settimana | Commissione aggiuntiva; appuntamento di persona presso l'ufficio passaporti |
-| Rinnovo Digitale Online | Varia | Solo adulti idonei; tipicamente più veloce |
-| Premium (stesso giorno) | Stesso giorno | Disponibilità limitata; appuntamento richiesto presso uffici specifici |
+Il Regno Unito offre un servizio di rinnovo digitale per gli adulti idonei che presentano domanda da **entro il Regno Unito**. Se siete idonei, non è necessario spedire il vostro vecchio passaporto, ma serve comunque una foto conforme ai requisiti ufficiali. L'applicazione è completata online. **Se siete un cittadino britannico che vive all'estero** (un espatriato), il servizio digitale non è disponibile per voi. Dovete utilizzare il servizio passaporti estero presso GOV.UK, che richiede di spedire il vostro passaporto attuale. Fast track e appuntamenti premium stesso giorno esistono per i casi urgenti presso uffici specifici. Controllate GOV.UK per il servizio corretto e la cifra attuale per la vostra situazione, che chiede la vostra posizione all'inizio della domanda.
 
-Il Regno Unito offre un servizio di rinnovo digitale per gli adulti idonei che presentano domanda da **entro il Regno Unito**. Se siete idonei, non è necessario spedire il vostro vecchio passaporto. L'applicazione è completata online ed è generalmente più veloce dell'instradamento postale. **Se siete un cittadino britannico che vive all'estero** (un espatriato), il servizio digitale non è disponibile per voi. Dovete utilizzare il servizio passaporti estero presso GOV.UK, che richiede di spedire il vostro passaporto attuale a HMPO. I tempi di elaborazione per le domande estere possono essere più lunghi della stima UK di 3 settimane. Controllate GOV.UK per il servizio corretto per la vostra situazione, che chiede la vostra posizione all'inizio della domanda.
-
-Quella cifra di 3 settimane presuppone che tutto proceda senza intoppi. Un cambio di nome, un primo passaporto da adulto, o qualsiasi domanda che richiede controlli extra impiegherà più tempo. I passaporti dei bambini non possono utilizzare affatto il servizio digitale - vanno attraverso il processo standard solo. Prima di fare domanda, controllate GOV.UK per i tempi attuali rilevanti per la vostra situazione.
+Un cambio di nome, un primo passaporto da adulto, o qualsiasi domanda che richiede controlli extra impiegherà più tempo. I passaporti dei bambini non possono utilizzare affatto il servizio digitale - vanno attraverso il processo standard solo. Prima di fare domanda, controllate GOV.UK per la cifra attuale rilevante per la vostra situazione.
 
 ## Quanto tempo richiede il rinnovo del passaporto in Australia?
 
-L'Ufficio Passaporti Australiano pubblica queste timeline per gli adulti che presentano domanda di persona o tramite Australia Post:
+L'Ufficio Passaporti Australiano è l'unica fonte affidabile per i tempi attuali, perché si muovono con il volume di domande e il periodo dell'anno. L'elaborazione fast track e prioritaria sono disponibili per chi deve andare più veloce della coda standard, entrambe prenotabili dietro pagamento di una commissione aggiuntiva.
 
-| Tipo di Servizio | Tempo di Elaborazione | Note |
-|---|---|---|
-| Standard | Consentire almeno 6 settimane | Fare domanda presso Australia Post o un ufficio passaporti |
-| Fast track | Elaborato entro 5 giorni lavorativi | Commissione aggiuntiva |
-| Prioritario | Elaborato entro 2 giorni lavorativi | Commissione aggiuntiva; si applicano condizioni di idoneità |
-
-I tempi di elaborazione standard dell'Australia sono generalmente migliori di USA e UK, ma possono comunque estendersi nei periodi di picco. L'Ufficio Passaporti Australiano raccomanda di fare domanda almeno sei settimane prima del viaggio se state utilizzando lo standard - controllate passports.gov.au per i tempi attuali.
+I tempi di elaborazione standard dell'Australia sono generalmente migliori di USA e UK, ma possono comunque estendersi nei periodi di picco. Fate domanda il prima ragionevolmente possibile prima del vostro viaggio, e controllate passports.gov.au per il tempo attuale prima di presentarla.
 
 Le domande di passaporto dei bambini sono una storia diversa. Sono più complesse e richiedono più tempo dei rinnovi da adulti, specialmente quando sono coinvolti i requisiti del consenso dei genitori.
 
 ## Quanto tempo richiede il rinnovo del passaporto in Canada?
 
-Immigration, Refugees and Citizenship Canada (IRCC) elabora i rinnovi dei passaporti. Queste sono le timeline pubblicate attualmente, anche se vale la pena controllare la pagina ufficiale dell'IRCC prima di fare domanda:
+Immigration, Refugees and Citizenship Canada (IRCC) elabora i rinnovi dei passaporti, sia per posta tramite Service Canada sia di persona presso un ufficio Passaporti Canada - il Canada non offre il rinnovo dei passaporti online. Per i viaggi urgenti esistono opzioni di appuntamento urgente ed express di persona dietro pagamento di una commissione aggiuntiva.
 
-| Tipo di Servizio | Tempo di Elaborazione | Note |
-|---|---|---|
-| Posta (Service Canada) | 20 giorni lavorativi | Più tempo di spedizione in ogni direzione; consigliato per rinnovi non urgenti |
-| Di persona (Ufficio Passaporti Canada) | 10 giorni lavorativi | Appuntamento richiesto presso uffici selezionati |
-| Urgente (viaggio entro 5 giorni lavorativi) | Stesso giorno o giorno successivo | Prova di viaggio richiesta; di persona solo |
-| Express (viaggio entro 45 giorni) | 2-9 giorni lavorativi | Di persona presso un ufficio passaporti |
-
-Il Canada non offre il rinnovo dei passaporti online. Ogni domanda va per posta o cammina verso la porta di un ufficio Passaporti Canada. Questo rende il processo più impegnativo dal punto di vista logistico - specialmente se vivete da qualche parte in zona rurale e l'ufficio passaporti più vicino è a ore di distanza. Controllate la pagina dell'IRCC per i tempi di elaborazione attuali.
+Questo rende il processo più impegnativo dal punto di vista logistico, specialmente se vivete da qualche parte in zona rurale e l'ufficio passaporti più vicino è lontano. Controllate la pagina dell'IRCC per i tempi di elaborazione attuali prima di fare domanda, e aggiungete il tempo di spedizione in entrambe le direzioni se fate domanda per posta.
 
 **Impostate un promemoria di rinnovo ora** - Travel Document Vault vi notifica 6, 3 e 1 mese prima che il vostro passaporto scada, così state rinnovando con abbondanza di tempo, non disperatamente all'ultimo minuto. [Scaricate su App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
@@ -129,15 +107,15 @@ Un'altra cosa vale la pena leggere: la [regola del passaporto di 6 mesi](https:/
 
 ### Quanto tempo richiede il rinnovo del passaporto negli USA?
 
-Il rinnovo ordinario del passaporto negli USA attualmente richiede 4-6 settimane. L'elaborazione accelerata riduce quella a circa 2-3 settimane per ulteriori 60 dollari. Se il vostro viaggio è entro 14 giorni, potete prenotare un appuntamento urgente presso un'agenzia passaporti regionale - ma avrete bisogno di prova di viaggio imminente. Controllate travel.state.gov per i tempi attuali prima di fare domanda.
+Non possiamo darvi qui una cifra fissa, perché i tempi di elaborazione del Dipartimento di Stato USA cambiano con la domanda e il personale durante tutto l'anno. L'elaborazione ordinaria è la coda predefinita; pagare per il servizio accelerato vi fa avanzare in quella coda senza saltare alcun controllo. Se il vostro viaggio è genuinamente imminente, potreste qualificarvi per un appuntamento di persona presso un'agenzia passaporti regionale, ma dovrete portare prova di viaggio. Controllate travel.state.gov per la cifra attuale prima di fare domanda.
 
 ### Quanto tempo richiede il rinnovo del passaporto nel Regno Unito?
 
-HM Passport Office attualmente afferma che riceverete solitamente il vostro passaporto entro 3 settimane e consiglia di non prenotare il viaggio fino a quando non arriva. Gli adulti idonei che presentano domanda da entro il Regno Unito possono utilizzare il servizio di rinnovo digitale, che non richiede di spedire il vostro passaporto. Se siete all'estero del Regno Unito, dovete utilizzare il servizio estero che richiede di spedire il vostro passaporto attuale. Per i casi urgenti, sono disponibili opzioni fast track di 1 settimana e appuntamenti premium stesso giorno. Controllate GOV.UK per i tempi attuali.
+HM Passport Office pubblica il proprio tempo di elaborazione attuale, e cambia abbastanza spesso che una cifra citata qui sarebbe probabilmente già obsoleta quando la leggete. Gli adulti idonei che presentano domanda da entro il Regno Unito possono utilizzare il servizio di rinnovo digitale, che evita di spedire il passaporto ma richiede comunque una foto conforme ai requisiti ufficiali. Se presentate domanda da fuori del Regno Unito, userete invece il servizio estero, che richiede di spedire il vostro passaporto attuale. Fast track e appuntamenti premium stesso giorno esistono per i casi urgenti presso uffici specifici. Controllate GOV.UK per la cifra che si applica alla vostra situazione.
 
 ### Quanto tempo richiede il rinnovo del passaporto in Australia?
 
-L'Ufficio Passaporti Australiano attualmente consiglia di consentire almeno 6 settimane dal deposito della vostra domanda, sia di persona che tramite Australia Post. È disponibile l'elaborazione fast track (5 giorni lavorativi) e prioritaria (2 giorni lavorativi) per commissioni aggiuntive. Durante i periodi di punta dei viaggi, i tempi possono estendersi - fate domanda ben prima del vostro viaggio per stare al sicuro.
+L'Ufficio Passaporti Australiano è l'unica fonte affidabile per i tempi attuali, perché si muovono con il volume di domande e il periodo dell'anno. L'elaborazione fast track e prioritaria sono disponibili per chi deve andare più veloce della coda standard, entrambe prenotabili dietro pagamento di una commissione. Fate domanda il prima ragionevolmente possibile, qualunque via usiate - i periodi di punta allungano la coda standard spesso più di quanto riflettano le indicazioni pubblicate. Controllate passports.gov.au prima di fare domanda.
 
 ### Posso rinnovare il mio passaporto online?
 
@@ -145,7 +123,7 @@ Gli USA offrono un programma di rinnovo online per gli adulti idonei che hanno o
 
 ### Cosa devo fare se il mio passaporto sta scadendo e ho un viaggio prenotato?
 
-Fate domanda immediatamente e pagate per l'elaborazione accelerata. Se il viaggio è entro 2 settimane, chiamate la vostra autorità passaporti direttamente - non limitatevi a guardare il sito web. Tutti i quattro paesi coperti qui hanno opzioni di appuntamenti d'emergenza, ma dovete chiederle. Non aspettate per vedere se le cose si risolvono da sole.
+Fate domanda non appena sapete che c'è un problema, e pagate per la via più veloce offerta dalla vostra autorità. Se il vostro viaggio è abbastanza vicino da preoccuparvi che i tempi standard non bastino, chiamate direttamente la vostra autorità passaporti invece di affidarvi al sito web - tutti i paesi coperti qui hanno opzioni di appuntamento d'emergenza, ma di solito bisogna chiederle per telefono. Non aspettate per vedere se il processo standard recupera da solo.
 
 ### Posso viaggiare mentre il rinnovo del mio passaporto è in sospeso?
 

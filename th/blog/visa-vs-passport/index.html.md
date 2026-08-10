@@ -143,6 +143,6 @@ Source: https://traveldocumentvault.com/th/blog/visa-vs-passport/
 
 ## บทความที่เกี่ยวข้อง
 
-[พาสปอร์ตหมดอายุอ่าน 6 นาทีพาสปอร์ตหมดอายุก่อนเดินทาง ควรทำอย่างไร](https://traveldocumentvault.com/blog/passport-expired-what-to-do/)
+[พาสปอร์ตหมดอายุอ่าน 6 นาทีพาสปอร์ตหมดอายุก่อนเดินทาง ควรทำอย่างไร](https://traveldocumentvault.com/th/blog/passport-expired-what-to-do/)
 
-[กฎเรื่องอายุพาสปอร์ตอ่าน 6 นาทีพาสปอร์ตมีอายุใช้งานนานแค่ไหนสำหรับการเดินทาง](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/)
+[กฎเรื่องอายุพาสปอร์ตอ่าน 6 นาทีพาสปอร์ตมีอายุใช้งานนานแค่ไหนสำหรับการเดินทาง](https://traveldocumentvault.com/th/blog/how-long-is-passport-valid-for-travel/)

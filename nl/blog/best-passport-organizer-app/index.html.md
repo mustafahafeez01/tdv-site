@@ -35,7 +35,7 @@ Geen van beide benaderingen is per definitie "fout", maar voor identiteitsdocume
 
 ### Vervalherinneringen met instelbare voorlooptijd
 
-Dit is verreweg de waardevolste functie. Een herinnering op 6 maanden is het minimum - veel landen eisen dat je paspoort nog minstens 6 maanden geldig is na je reisdata, zoals we uitleggen in ons artikel over de [6 maanden-paspoortregel](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). Voor gezinnen met kinderen, van wie paspoorten na 5 jaar verlopen in plaats van 10, geeft een eerdere herinnering - bijvoorbeeld 9 maanden van tevoren - meer comfortabele planningstijd.
+Dit is verreweg de waardevolste functie. Een herinnering op 6 maanden is het minimum - veel landen eisen dat je paspoort nog minstens 6 maanden geldig is na je reisdata, zoals we uitleggen in ons artikel over de [6 maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/). Voor gezinnen met kinderen, van wie paspoorten na 5 jaar verlopen in plaats van 10, geeft een eerdere herinnering - bijvoorbeeld 9 maanden van tevoren - meer comfortabele planningstijd.
 
 ### Meerdere reizigers in één app
 
@@ -120,8 +120,8 @@ Op zijn minst: paspoorten, visa en nationale identiteitskaarten. Betere apps ond
 
 ## Gerelateerde artikelen
 
-[Paspoortregels8 min leestijd · feb 2026De 6 maanden-paspoortregel: welke landen die hanteren en hoe je nooit voor verrassingen komt te staan](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Paspoortregels8 min leestijd · feb 2026De 6 maanden-paspoortregel: welke landen die hanteren en hoe je nooit voor verrassingen komt te staan](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/)
 
-[Gezinsreizen9 min leestijd · feb 2026Reisdocumenten van je gezin organiseren (zonder gek te worden)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+[Gezinsreizen9 min leestijd · feb 2026Reisdocumenten van je gezin organiseren (zonder gek te worden)](https://traveldocumentvault.com/nl/blog/how-to-organise-family-travel-documents/)
 
-[Reistools7 min leestijd · jul 2026Reisplannings-apps zonder offline toegang: waarom je reisdocumenten dat wel nodig hebben](https://traveldocumentvault.com/blog/tripcase-alternative/)
+[Reistools7 min leestijd · jul 2026TripCase-alternatief: waarom je reisdocumenten offline moeten werken](https://traveldocumentvault.com/nl/blog/tripcase-alternative/)

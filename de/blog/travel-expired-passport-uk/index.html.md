@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/de/blog/travel-expired-passport-uk/
 
 - **Absolute Regel:** Keine internationale Reise mit abgelaufenem Pass. Fluggesellschaften und Grenzkontrolle werden Sie ablehnen.
 - **Inlandsausnahmen:** UK zu Irland und Isle of Man können alternative Ausweisdokumente akzeptieren; kontaktieren Sie Ihre Fluggesellschaft zuerst.
-- **Noterneuerung:** Online-Premium-Service verfügbar für £239.50 all-in (gleicher Tag oder nächster Arbeitstag Termin, nur Erneuerungen).
+- **Noterneuerung:** HM Passport Office bietet einen Online-Premium-Service nur für Erneuerungen an, mit einem Termin am selben Tag oder am nächsten Arbeitstag, wenn Plätze verfügbar sind. Prüfen Sie die aktuelle Gebühr auf gov.uk, bevor Sie buchen.
 - **Reiseversicherung:** Die meisten Policen machen Ansprüche ungültig, wenn Ihr Pass während der Reise abgelaufen war.
 - **Im Ausland:** Wenden Sie sich an die nächste britische Botschaft oder Konsulat für ein Notfall-Reisedokument.
 
@@ -38,13 +38,13 @@ Inlandverkehr im UK und Irland unterscheidet sich von internationalem Verkehr in
 
 **Dies ist keine Genehmigung, die Passerneuerung zu überspringen.** Verschiedene Fluggesellschaften haben unterschiedliche Richtlinien für Inlandsflüge - einige verlangen einen Pass für alle Reisen nach Irland, obwohl das Common Travel Area technisch ID-Karten-Reisen erlaubt, während andere einen Führerschein akzeptieren. Fluggesellschaften aktualisieren ihre Regeln, und Ihre Fluggesellschaft kann ihre Regeln seit Ihrem letzten Flug geändert haben, daher können Sie nicht davon ausgehen, was zuvor funktioniert hat.
 
-Wenn Sie eine Inlandsreise mit abgelaufenem Pass in Betracht ziehen, kontaktieren Sie Ihre Fluggesellschaft mindestens 48 Stunden vor Ihrem Flug und fragen Sie explizit: "Mein britischer Pass ist abgelaufen. Akzeptieren Sie meinen britischen Führerschein stattdessen?" Erhalten Sie wenn möglich eine schriftliche Bestätigung, da das Ankommen bei der Anmeldung mit einem Alternativausweis und ohne vorherige Bestätigung dazu führt, dass Personen Flüge verpassen.
+Wenn Sie eine Inlandsreise mit abgelaufenem Pass in Betracht ziehen, kontaktieren Sie Ihre Fluggesellschaft rechtzeitig vor Ihrem Flug und fragen Sie explizit: "Mein britischer Pass ist abgelaufen. Akzeptieren Sie meinen britischen Führerschein stattdessen?" Erhalten Sie wenn möglich eine schriftliche Bestätigung, da das Ankommen bei der Anmeldung mit einem Alternativausweis und ohne vorherige Bestätigung dazu führt, dass Personen Flüge verpassen.
 
 ## Noterneuerung: Der Premium-Service-Weg
 
-Wenn Ihre Reise unmittelbar bevorsteht und Ihr Pass abgelaufen ist, bietet His Majesty's Passport Office einen Premium-Service an, der genau für dieses Szenario konzipiert ist und garantiert entweder einen Termin am selben Tag oder am nächsten Arbeitstag je nach Verfügbarkeit. Die Gebühr beträgt £239.50 insgesamt - sie deckt alles ab, anstatt eine Ergänzung zur Standardgebühr zu sein - und Ihr erneuerter Pass kommt innerhalb von Tagen statt den Wochen an, die eine Standarderneuerung dauern kann. Beachten Sie, dass der Online-Premium-Service nur für Erneuerungen gilt, nicht für erste erwachsene Pässe.
+Wenn Ihre Reise unmittelbar bevorsteht und Ihr Pass abgelaufen ist, bietet His Majesty's Passport Office einen Premium-Service an, der genau für dieses Szenario konzipiert ist, mit einem Termin am selben Tag oder am nächsten Arbeitstag, je nach Verfügbarkeit. Das HM Passport Office veröffentlicht die aktuelle Gebühr auf gov.uk, die den Termin und die Erneuerung zusammen abdeckt, statt zusätzlich zur Standardgebühr berechnet zu werden. Sie bekommen Ihren Pass weit schneller als über den Standardweg, wobei das genaue Tempo vom verfügbaren Termin abhängt. Beachten Sie, dass der Online-Premium-Service nur für Erneuerungen gilt, nicht für erste erwachsene Pässe.
 
-Dies ist die offizielle Notfalllösung für echte Reisebedingungen, nicht ein Workaround - der Premium-Service existiert, weil manchmal Reisen nicht warten können. Offizielle Anleitungen empfehlen derzeit, etwa 3 Wochen für eine Standarderneuerung zu planen, und fast alle Anträge werden in diesem Fenster bearbeitet - aber für Reisen, die wirklich nicht warten können, beseitigt die Premium-Option die Unsicherheit.
+Dies ist die offizielle Notfalllösung für echte Reisebedingungen. Das HM Passport Office veröffentlicht seine aktuelle Standardbearbeitungszeit auf gov.uk, und es lohnt sich, diese zu prüfen, bevor Sie annehmen, noch Zeit zum Warten zu haben. Wenn eine Reise wirklich nicht warten kann, beseitigt die Premium-Option die Unsicherheit.
 
 Der Haken ist, dass Sie einen verfügbaren Termin haben müssen, die sich in den Sommerferien und Schulferien schnell füllen. Wenn Sie am Freitag vor einem Montagsflug feststellen, dass Ihr Pass abgelaufen ist, finden Sie möglicherweise keine Premium-Slots an diesem Tag, da die Buchung online auf gov.uk mit Live-Verfügbarkeit stattfindet. Wenn Ihre bevorzugte Zeit keine Slots anzeigt, haben Sie wirklich keine andere Option an diesem Tag.
 
@@ -72,7 +72,7 @@ Dies gilt, unabhängig davon, ob Ihr Pass vor Ihrer Abreise aus der UK oder wäh
 
 Dies ist das wirklich schwierige Szenario. Wenn Sie reisen und Ihr Pass vor Ihrer Rückkehr abläuft, können Sie keinen Flug oder eine Fähre nach Hause besteigen. Sie müssen die nächste britische Botschaft oder Konsulat für ein Notfalltravelsdokument kontaktieren - manchmal ein ETD oder Notfallpass genannt - das nur zum Heimkommen gültig ist.
 
-Der Prozess ist langsam und bürokratisch. Sie müssen einen Identitätsnachweis vorlegen und die Gebühr bezahlen, derzeit £125. Die meisten Botschaften benötigen mehrere Tage, um das Dokument auszustellen, obwohl einige es in 24-48 Stunden drehen können, wenn Sie wirklich feststecken. Andere brauchen eine Woche. Das Notfalldokument ist kein touristischer Pass - es ist nur gültig für die spezifische Reise zurück zur UK, ohne dass weitere Reisen erlaubt sind.
+Der Prozess ist langsam und bürokratisch. Sie müssen einen Identitätsnachweis vorlegen und die Gebühr bezahlen, deren aktuelle Höhe vom Foreign, Commonwealth and Development Office veröffentlicht wird. Die Bearbeitungszeit variiert je nach Botschaft und danach, wie dringend Ihre Situation ist, also fragen Sie, was Sie erwarten können, sobald Sie Kontakt aufnehmen. Das Notfalldokument ist kein touristischer Pass - es ist nur gültig für die spezifische Reise zurück ins UK, ohne dass weitere Reisen erlaubt sind.
 
 Stellen Sie Erinnerungen Monate im Voraus ein, anstatt am Tag vor der Reise, da Erinnerungen 6, 3 und 1 Monat vor Ablauf Ihnen Zeit geben, mit Standardverarbeitung statt bezahlten Notfallterminen zu erneuern. Wenn Ihr Pass innerhalb von 6 Monaten vor Ihrer Reise abläuft, starten Sie den Erneuerungsprozess jetzt, bevor Sie sich auf Reisedaten festlegen.
 

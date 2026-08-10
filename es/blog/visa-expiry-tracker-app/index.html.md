@@ -52,7 +52,7 @@ Las consecuencias de un exceso de visado varían según el país pero son consis
 - **Reino Unido:** Los excesos se registran y afectarán futuras solicitudes de visado. La Oficina de Interior del Reino Unido considera los excesos al evaluar credibilidad y puede rechazar futuras solicitudes.
 - **Australia:** Excederse en tu visado puede resultar en restricciones en futuras solicitudes de visado y expulsión del país. Bajo la Ley de Migración de 1958, los registros de exceso se rastrean y afectarán futuras solicitudes de visado y elegibilidad de reentrada.
 - **Área de Schengen:** Los excesos se rastrean en el Sistema de Información de Schengen (SIS). Una prohibición emitida por un país de Schengen se aplica en los 27 estados miembros.
-- **Tailandia:** Los excesos incurren una multa de 500 Baht tailandeses por día (aproximadamente USD 14), hasta 20.000 Baht, y pueden resultar en arresto y deportación por excesos extendidos.
+- **Tailandia:** Los excesos incurren una multa diaria fijada por inmigración tailandesa, hasta un máximo establecido, y pueden resultar en arresto y deportación por excesos prolongados.
 
 En todos los casos, el registro de exceso típicamente te sigue: aparece en bases de datos de inmigración revisadas en futuras cruces fronterizos y solicitudes de visado.
 
@@ -63,12 +63,12 @@ Dada la complejidad anterior, una buena aplicación rastreadora de visados neces
 - **Campos separados para validez de entrada y estancia máxima:** Estas son fechas diferentes y necesitan recordatorios separados.
 - **Seguimiento del número de entradas:** Entrada simple vs. doble vs. múltiple importa para si el visado sobrevive a una salida y reentrada.
 - **Acceso sin conexión:** Necesitas los detalles de tu visado en fronteras donde el internet puede ser poco confiable.
-- **Tiempos de recordatorio personalizados:** Un visado de trabajo de larga estancia podría justificar un recordatorio de 90 días; un visado de turista podría justificar 2 semanas. Los recordatorios de talla única no son apropiados.
+- **Tiempos de recordatorio personalizados:** Un visado de trabajo de larga estancia podría justificar un recordatorio de 90 días; un visado de turista necesita suficiente antelación para organizar la partida sin prisa. Los recordatorios de talla única no son apropiados.
 - **Múltiples tipos de documentos y viajeros:** Si viajas como familia, el visado de cada miembro de la familia necesita seguimiento independiente.
 - **Modelo de privacidad:** Los detalles del visado son datos sensibles vinculados a la identidad. Como con almacenamiento de pasaportes, encriptación en dispositivo sin carga en la nube es la arquitectura más segura.
 - **Seguimiento de pasaporte y visado juntos:** Un error común pero pasado por alto es tener un visado válido pero un pasaporte que vence durante tu estancia planeada. Tener ambos rastreados en el mismo lugar previene este desajuste.
 
-**Travel Document Vault** rastrea fechas de vencimiento de pasaportes y visados en un mismo lugar, con recordatorios separados por documento y soporte para múltiples viajeros. Tus datos permanecen en dispositivo y encriptados con AES-256, sin cuenta requerida, con copia de seguridad encriptada opcional a tu propio iCloud o Google Drive (Pro). [Está disponible en App Store por 9,99 dólares, una sola vez.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** rastrea fechas de vencimiento de pasaportes y visados en un mismo lugar, con recordatorios separados por documento y soporte para múltiples viajeros. Tus datos permanecen en dispositivo y encriptados con AES-256, sin cuenta requerida, con copia de seguridad encriptada opcional a tu propio iCloud o Google Drive (Pro). [Está disponible en App Store como compra única, sin suscripción.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Pasos Prácticos para Rastrear Tu Visado Correctamente
 
@@ -102,7 +102,7 @@ Las mejores sí. El acceso sin conexión importa en fronteras y en áreas con in
 
 ### ¿Con cuánta anticipación debo recibir un recordatorio antes de que mi visado venza?
 
-Depende del tipo de visado. Para visados de larga estancia que requieren renovación, 90 días es un mínimo razonable. Para visados de turista con duraciones de estancia máxima fijas, 2 semanas antes de tu última fecha de salida permitida da tiempo para organizar la partida sin prisa. Busca aplicaciones que te dejen establecer tiempos personalizados por documento.
+Depende del tipo de visado. Para visados de larga estancia que requieren renovación, 90 días es un mínimo razonable. Para visados de turista con duraciones de estancia máxima fijas, un recordatorio con suficiente antelación a tu última fecha de salida permitida da tiempo para organizar la partida sin prisa. Busca aplicaciones que te dejen establecer tiempos personalizados por documento.
 
 ## Artículos Relacionados
 

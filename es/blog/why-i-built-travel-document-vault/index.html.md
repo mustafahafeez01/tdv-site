@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/es/blog/why-i-built-travel-document-vaul
 
 ---
 
+![Una pila ordenada de los pasaportes de una familia con una tarjeta de embarque dentro, sobre un fondo azul marino profundo](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/cover.jpg)
+
 Estaba en inmigración cuando el oficial miró el pasaporte de mi hija, hizo una pausa, y luego me miró.
 
 "¿Sabes que vence en siete meses, verdad?" dijo. "Solo para que lo sepas, algunos países no te dejarán entrar con menos de seis meses de validez."

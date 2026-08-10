@@ -104,8 +104,8 @@ Source: https://traveldocumentvault.com/uk/blog/family-passport-management/
 
 ## Пов'язані статті
 
-[Сімейні подорожі6 хв читання · липень 2026Лист про згоду батьків на подорож дитини: що потрібно знати батькам](https://traveldocumentvault.com/blog/child-travel-consent-letter/)
+[Сімейні подорожі6 хв читання · липень 2026Лист про згоду батьків на подорож дитини: що потрібно знати батькам](https://traveldocumentvault.com/uk/blog/child-travel-consent-letter/)
 
-[Організація8 хв читання · червень 2026Як організувати документи для сімейної подорожі перед кожною поїздкою](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+[Організація8 хв читання · червень 2026Як організувати документи для сімейної подорожі перед кожною поїздкою](https://traveldocumentvault.com/uk/blog/how-to-organise-family-travel-documents/)
 
-[Конфіденційність та безпека7 хв читання · травень 2026Найбезпечніший спосіб зберігання паспорта у цифровому форматі: зашифровано проти громадської хмари](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/)
+[Конфіденційність та безпека7 хв читання · травень 2026Найбезпечніший спосіб зберігання паспорта у цифровому форматі: зашифровано проти громадської хмари](https://traveldocumentvault.com/uk/blog/safest-way-to-store-passport-digitally/)

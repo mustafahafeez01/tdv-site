@@ -32,7 +32,7 @@ O TripCase não inventou muito, mas aperfeiçoou um punhado de fluxos de trabalh
 
 O seu núcleo era a **análise de email-para-itinerário** - encaminhe qualquer confirmação de companhia aérea, hotel ou aluguel de carro e a app montava-a numa viagem cronológica com datas e referências de reserva. Nenhuma entrada manual significava um itinerário completo em segundos, o que é exatamente o porquê de as pessoas ficarem uma década.
 
-**Alertas de voos em tempo real** vieram juntamente: atrasos, mudanças de porta de embarque e cancelamentos muitas vezes antes da própria notificação da companhia aérea. O TripIt agora cobra cerca de $49 por ano pelo equivalente no seu nível Pro, enquanto o TripCase oferecia a funcionalidade para todos gratuitamente.
+**Alertas de voos em tempo real** vieram juntamente: atrasos, mudanças de porta de embarque e cancelamentos muitas vezes antes da própria notificação da companhia aérea. O TripIt agora cobra pelo seu nível Pro para obter o equivalente, enquanto o TripCase oferecia a funcionalidade para todos gratuitamente.
 
 Esses voos, hotéis e transportes terrestres todos viviam na **cronologia de viagem** - uma pilha rolável por viagem. Simples, mas se já coordenou uma semana multi-cidade a partir de uma dúzia de emails de confirmação, compreende o porquê. Nos tópicos do fórum no FlyerTalk e noutros locais, os ex-utilizadores consistentemente trazem o **Document Vault** como a peça mais desejada - esse único lar seguro para cartões de embarque, vistos, passaportes e confirmações. Por fim, a **partilha de viagens** deixava membros da família ou colegas acompanharem sem emails encaminhados.
 
@@ -50,8 +50,8 @@ O TripCase agrupou vários trabalhos diferentes numa única app gratuita. Nenhum
 
 | O trabalho | O que o TripCase fazia | Melhor substituição agora | Custo |
 |---|---|---|---|
-| Alertas de voos | Atrasos em tempo real, mudanças de porta de embarque, cancelamentos | Flighty | Nível gratuito; subscrição paga (preços variam) |
-| Análise de email-para-itinerário | Encaminhe uma confirmação, a viagem constrói-se a si própria | TripIt ou Tripsy | TripIt tem um nível gratuito; Pro é cerca de $49/ano |
+| Alertas de voos | Atrasos em tempo real, mudanças de porta de embarque, cancelamentos | Flighty | Nível gratuito; subscrição paga disponível |
+| Análise de email-para-itinerário | Encaminhe uma confirmação, a viagem constrói-se a si própria | TripIt ou Tripsy | TripIt tem um nível gratuito; consulte o site para os preços Pro atuais |
 | Cronologia de viagem | Uma vista cronológica por viagem | TripIt ou Tripsy | Incluído no acima |
 | Armazenamento de documentos de viagem | O Document Vault: passaportes, vistos, cartões de embarque | Travel Document Vault | Compra única |
 | Partilha de viagem | Seguidores viam o seu itinerário em direto | Partilha TripIt, ou uma pasta partilhada | Gratuito |

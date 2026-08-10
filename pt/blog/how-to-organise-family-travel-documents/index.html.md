@@ -142,7 +142,7 @@ Mantenha todos os passaportes juntos numa carteira de viagem dedicada ou pasta d
 
 ### Quanto tempo antes devo verificar documentos de viagem?
 
-Verifique antes de reservar voos - e no mínimo três meses antes de viajar. As renovações de passaporte normalmente demoram várias semanas - atualmente 4-6 semanas de forma rotineira nos EUA e normalmente cerca de 3 semanas no Reino Unido - portanto deixar para perto da sua data de viagem é um risco que não quer correr. Verifique a sua autoridade oficial de passaportes para prazos atuais. Verificar no momento da reserva é o melhor hábito a construir.
+Verifique antes de reservar voos - e no mínimo três meses antes de viajar. Os tempos de renovação de passaporte variam e mudam com frequência, tanto nos EUA como no Reino Unido, portanto deixar para perto da sua data de viagem é um risco que não quer correr. Verifique a sua autoridade oficial de passaportes para prazos atuais. Verificar no momento da reserva é o melhor hábito a construir.
 
 ### Preciso de uma carta de consentimento quando viajo sozinho com meu filho?
 

@@ -24,39 +24,39 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[Familierejser Schengen-regler for familierejser: Hvad Forældre Misforstår Schengen kræver 3 måneders gyldighed efter afrejse, ikke 6 - og børnepas udløber på 5 år. Hvad familier skal tjekke dagen, de booker. 10. juli 20266 min](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
+[Familierejser Schengens pasregler for familierejser: det, forældre tager fejl af Schengen kræver 3 måneders gyldighed efter afrejse, ikke 6 - og børns pas udløber efter 5 år. Det bør familier tjekke, den dag de booker. 10. juli 20266 min](https://traveldocumentvault.com/da/blog/schengen-passport-rules-family-trips/)
 
 ##
 
-[Visa og indrejse Dit 90-dages Schengen-vindue: Tæl dage i EES-æraen Europas EES-grænsesystem registrerer dine Schengen-dage automatisk - men det håndhæver, det planlægger ikke. Sådan sporer du dit rullende 90/180-vindue. 7. juli 20266 min](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/)
+[Visa og indrejse Dit 90-dages Schengen-vindue: at tælle dage i EES-æraen EES registrerer hver Schengen-ind- og udrejse og markerer automatisk overskridelser, men ingen portal viser dine resterende dage. Sådan tæller du selv dit 90/180-vindue. 7. juli 20266 min](https://traveldocumentvault.com/da/blog/schengen-90-days-auto-tracked-ees/)
 
 ##
 
-[Rejseværktøjer TripCase Alternativ: Hvorfor Dine Rejsedokumenter Skal Være Offline TripCase lukkede og slettede brugerdata. Et ærligt kort over alternativer for flymeddelelser, routning og dokumenter - og hvorfor offline-lagring vinder. 4. juli 20267 min](https://traveldocumentvault.com/blog/tripcase-alternative/)
+[Rejseværktøjer TripCase-alternativ: hvorfor dine rejsedokumenter skal kunne bruges offline TripCase lukkede i 2025. Hvad du kan bruge i stedet til rejseplaner og rejsedokumenter, og hvorfor offline-opbevaring er sikrere. 4. juli 20267 min](https://traveldocumentvault.com/da/blog/tripcase-alternative/)
 
 ##
 
-[Rejseforberedelse Rejsedokumenter Du Glemmer (og Hvor Du Skal Opbevare Dem) Samtykkebrev, vaccinationsbevis, retur-rejsebevis - dokumenter som familier glemmer ved check-in. En praktisk strategi: hvad du tager med dig, hvad du gemmer som backups. 4. juli 20267 min](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/)
+[Rejseforberedelse Rejsedokumenterne folk glemmer (og hvor I skal opbevare hvert et) Rejsedokumenterne de fleste glemmer, og hvad I bør have på jer kontra opbevare. Glemte samtykkebreve, vaccinationsbeviser og backup-strategier. 4. juli 20267 min](https://traveldocumentvault.com/da/blog/what-documents-to-carry-when-travelling-internationally/)
 
 ##
 
-[Pasfornyelse Kan du rejse med et udløbet pas? UK-regler Nej. Et udløbet britisk pas blokerer internationale rejser. Den absolutte regel, indenlandske undtagelser, nødfornyelsesmuligheder og hvad flyselskaber faktisk kontrollerer. 2. juli 20267 min](https://traveldocumentvault.com/blog/travel-expired-passport-uk/)
+[Pasfornyelse Kan du rejse med et udløbet pas? Britiske regler Du kan ikke flyve internationalt med et udløbet pas. De snævre indenrigske undtagelser, den hurtigste britiske fornyelsesvej, og hvad du skal gøre, hvis du allerede er i udlandet. 2. juli 20267 min](https://traveldocumentvault.com/da/blog/travel-expired-passport-uk/)
 
 ##
 
-[Visa og indrejse ETIAS 2026: Hvilke Dokumenter Du Har Brug For og Hvordan Du Ansøger ETIAS lanceres for visumfri rejsende, der rejser til Europa. Her er hvem der har brug for det, hvilke dokumenter du skal indsende, almindelige afvisningsårsager og hvordan du håndterer en afvisning. 8. maj 20268 min læsning](https://traveldocumentvault.com/blog/etias-documents-2026/)
+[Visa og indrejse ETIAS 2026: hvilke dokumenter du skal bruge, og hvordan du ansøger Besøgende fra Storbritannien, USA og Canada skal bruge ETIAS fra 2026. Pas gyldigt i mindst 3 måneder, e-mailadresse, valgfrit indkomstbevis. Tjek EU's officielle hjemmeside for det aktuelle gebyr og tidsplanen. 8. maj 20268 min læsning](https://traveldocumentvault.com/da/blog/etias-documents-2026/)
 
 ##
 
-[Familierejser Rejsetilladelse for børn: Hvornår du har brug for det, og hvad det skal indeholde Rejser med et barn uden begge forældre? Nogle grænser stopper dig uden et samtykkebrev. Her er hvornår du har brug for det, hvad det skal indeholde og almindelige fejl. 5. maj 20268 min læsning](https://traveldocumentvault.com/blog/child-travel-consent-letter/)
+[Familierejser Samtykkebrev til børns rejser: hvornår du skal bruge et, og hvad det skal indeholde Skal du bruge et samtykkebrev til dit barns rejse? Hvornår det kræves, hvad det skal indeholde, og de fejl der skaber problemer ved grænsen. 5. maj 20268 min læsning](https://traveldocumentvault.com/da/blog/child-travel-consent-letter/)
 
 ##
 
-[Pasregler Hvor længe er et pas gyldigt til rejse? De fleste voksne pas er gyldige i 10 år, men det effektive rejsevindue er ofte kortere. Sådan beregnes gyldighedsmåneder. 30. apr. 20266 min](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/)
+[Pasregler Hvor længe er et pas gyldigt til rejser? De fleste voksenpas er gyldige i 10 år, men dit rejsevindue er ofte kortere. Lær hvordan pasgyldighed i måneder beregnes, og hvornår du bør forny. 30. apr. 20266 min](https://traveldocumentvault.com/da/blog/how-long-is-passport-valid-for-travel/)
 
 ##
 
-[Pasregler Pas-foto hjemmefra: sådan sikrer du godkendelse første gang Sådan får du dit pas-foto godkendt første gang: baggrund, belysning, ansigtsudtryk og afvisningsårsager, som fanger de fleste. 29. apr. 20267 min](https://traveldocumentvault.com/blog/passport-photo-at-home/)
+[Pasregler Sådan tager du et pasfoto derhjemme, der bliver godkendt Sådan får du dit pasfoto godkendt første gang: baggrund, lys, udtryk og de afvisningsgrunde, der rammer flest. 29. apr. 20267 min](https://traveldocumentvault.com/da/blog/passport-photo-at-home/)
 
 ##
 
@@ -64,27 +64,27 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[Privatliv & Sikkerhed iCloud vs Google Photos vs Krypteret Boks: Sikreste Måde at Gemme Dit Pas En ærlig sammenligning af de tre mest almindelige måder at gemme digitale paskopier og hvad det betyder for din sikkerhed. 15. april 20267 min](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/)
+[Privatliv & Sikkerhed iCloud vs Google Photos vs krypteret app: sikreste måde at gemme dit pas iCloud, Google Photos og krypterede apps sammenlignet. Hvorfor en offline kopi på enheden generelt er sikrest, og hvilken afvejning hver cloud-løsning indebærer. 15. april 20267 min](https://traveldocumentvault.com/da/blog/safest-way-to-store-passport-digitally/)
 
 ##
 
-[Pasregler Digital paskopi: hvad tæller som gyldigt ID under rejser? Flyselskaber, hoteller, ambassader og grænsebetjente behandler digitale paskopier på forskellige måder. Her forklarer vi præcis, hvor en digital kopi hjælper, og hvor du absolut har brug for det fysiske dokument. Apr 4, 20267 min read](https://traveldocumentvault.com/blog/digital-passport-copy-valid/)
+[Pasregler Digital paskopi: hvad gælder som gyldig legitimation på rejsen? Flyselskaber, hoteller, ambassader og grænsevagter behandler digitale paskopier forskelligt. Her er præcis, hvor en digital kopi hjælper - og hvor du skal have originaldokumentet. Apr 4, 20267 min read](https://traveldocumentvault.com/da/blog/digital-passport-copy-valid/)
 
 ##
 
-[Visa og indrejse Visa-udløbssporer-app: Hvad du skal kigge efter, og hvorfor det er vigtigt Visumsporing er mere kompleks end passporing – indrejsegyldighed, maksimal ophold og Schengens rullende vinduer skal alle overvåges separat. Her er hvorfor det er vigtigt, og hvad du skal kigge efter i en app. 21. mar. 20268 min. læsning](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/)
+[Visa og indrejse App til visumovervågning: hvad du skal kigge efter, og hvorfor det betyder noget En app til visumovervågning kan forhindre bøder for overstay. Hvilke funktioner der betyder noget, hvordan visumovervågning adskiller sig fra pasovervågning, og hvad du bør tjekke først. 21. mar. 20268 min. læsning](https://traveldocumentvault.com/da/blog/visa-expiry-tracker-app/)
 
 ##
 
-[Fornyelse Kan du rejse, mens dit pas fornyes? Din fornyelse er indsendt, din rejse er booket – men kan du stadig rejse? Svaret afhænger af, om du stadig har dit pas. Her er en landeopdeling. 14. mar. 20267 min. læsning](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/)
+[Fornyelse Kan du rejse, mens dit pas bliver fornyet? Find ud af, om du kan rejse, mens din pasfornyelse er i gang. Reglerne varierer fra land til land og afhænger af, hvordan du ansøgte. Her er, hvad du skal vide. 14. mar. 20267 min. læsning](https://traveldocumentvault.com/da/blog/travel-while-passport-renewal-pending/)
 
 ##
 
-[Rejseforbereder Mistede du dit Pas i Udlandet? Gør Disse 7 Ting Med det Samme At miste dit pas i udlandet er mere stressende, end de fleste rejsende forventer. Her er de 7 trin, du skal tage med det samme - fra at rapportere til din nærmeste ambassade til at få et nødreisedokument. 11. mar. 20267 min. læsning](https://traveldocumentvault.com/blog/lost-passport-abroad/)
+[Rejseforbereder Har du mistet dit pas i udlandet? Gør disse syv ting med det samme Har du mistet dit pas i udlandet? Her er syv ting, du skal gøre med det samme - politianmeldelse, kontakt til ambassaden, nødpas og hvordan du kommer hjem. 11. mar. 20267 min. læsning](https://traveldocumentvault.com/da/blog/lost-passport-abroad/)
 
 ##
 
-[Fornyelse Pas udløbet? Her er præcis, hvad du skal gøre (trin for trin) Opdaget at dit pas er udløbet? Her er præcis, hvad du skal gøre for hurtigt at komme på rette spor og undgå almindelige fornyelsesfejl. 9. mar. 20269 min. læsning](https://traveldocumentvault.com/blog/passport-expired-what-to-do/)
+[Fornyelse Er dit pas udløbet? Sådan gør du, trin for trin Har du opdaget, at dit pas er udløbet? Sådan gør du, trin for trin. Undgå det næste gang med smarte udløbspåmindelser fra vores offline, AES-256-GCM-krypterede boks. 9. mar. 20269 min. læsning](https://traveldocumentvault.com/da/blog/passport-expired-what-to-do/)
 
 ##
 
@@ -92,23 +92,23 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[PasreglerOrganisation Internationale Rejsedokumenter Checklist til Hver Rejse Alt hvad du skal have med, kontrollere og forberede før enhver internationalt rejse. En praktisk checklist, der dækker pas, visa, kørekort og rejseforsikring - fungerer for familier og solo rejsende. 4. mar. 20269 min. læsning](https://traveldocumentvault.com/blog/travel-document-checklist/)
+[PasreglerOrganisation International tjekliste til rejsedokumenter: alt du skal bruge, før du flyver Den komplette tjekliste til rejsedokumenter 2026. Organiser alt offline ét sted med Travel Document Vaults AES-256-GCM-krypterede app. 4. mar. 20269 min. læsning](https://traveldocumentvault.com/da/blog/travel-document-checklist/)
 
 ##
 
-[Privatliv Er det sikkert at gemme dit pas i Google Fotos? Det skal du vide Millioner af mennesker gemmer pas-scanninger i Google Fotos uden at tænke over det. Her er et ærligt kig på risiciene, hvordan de sammenlignes med alternativer, og hvad du kan gøre i stedet for bedre beskyttelse. 15. feb. 20267 min. læsning](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/)
+[Privatliv Er det sikkert at gemme dit pas i Google Fotos? Det skal du vide Én Google-konto udsat for phishing eksponerer alle billeder i den, dit pas inklusive, og Googles vilkår tillader automatiseret scanning. Risiciene - og hvor en scanning er sikrere. 15. feb. 20267 min. læsning](https://traveldocumentvault.com/da/blog/is-it-safe-to-store-passport-in-google-photos/)
 
 ##
 
-[Fornyelse Hvor lang tid tager pasfornyelse? (USA, UK, Australien, Canada) Aktuelle behandlingstider for alle fire lande, inklusive ekspres- og hasteindstillinger – plus hvad du skal gøre, hvis din rejse er booket og dit pas er ved at løbe ud af tid. 10. feb. 20267 min. læsning](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)
+[Fornyelse Hvor lang tid tager en pasfornyelse? (USA, Storbritannien, Australien, Canada) Hvor lang tid tager en pasfornyelse? Det afhænger mere af din situation end af dit land. Her er, hvad der reelt bremser processen, og hvor du tjekker aktuelle tider. 10. feb. 20267 min. læsning](https://traveldocumentvault.com/da/blog/how-long-does-passport-renewal-take/)
 
 ##
 
-[Organisering Sådan organiserer du familiens rejsedokumenter (før din næste rejse) Hvilke dokumenter en familie faktisk har brug for, hvordan du holder originalerne sikre, hvornår du tjekker for digitale sikkerhedskopier, og en tjekliste til brug fra booking til afrejse. 5. feb. 20267 min. læsning](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+[Organisering Sådan organiserer du familiens rejsedokumenter (før næste tur) Lær hvordan du organiserer rejsedokumenter for hele familien - hvad I skal gemme, hvordan I opbevarer det, og hvordan I sikrer, at intet udløber uden varsel. 5. feb. 20267 min. læsning](https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-documents/)
 
 ##
 
-[Pasregler 6-månedersreglen for pas: Hvilke lande håndhæver den, og hvordan du aldrig bliver overrasket Dit pas er måske gyldigt – men kan stadig afvises ved indrejse. Lær hvilke lande der håndhæver 6-månedersreglen, hvordan flyselskaber tjekker den, og hvordan du sikrer, at hele din familie er dækket inden booking. 1. feb. 20267 min. læsning](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Pasregler 6-måneders-reglen for pas: hvilke lande håndhæver den, og sådan undgår du at blive taget på sengen 6-måneders-reglen for pas tager tusindvis af rejsende på sengen. Lad vores AES-256-GCM-krypterede, offlinebaserede boks holde styr på udløbsdatoer automatisk. Prøv gratis til 5 dokumenter. 1. feb. 20267 min. læsning](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)
 
 ## Sidste gang du stresser inden en rejse
 

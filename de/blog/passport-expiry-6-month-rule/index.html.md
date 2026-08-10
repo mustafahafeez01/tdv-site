@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/
 
 ## Wichtigste Erkenntnisse
 
-- Die **Sechsmonats-Reisepass-Regel** bedeutet, dass Ihr Reisepass mindestens sechs Monate über Ihr geplantes Abreisedatum gültig bleiben muss - nicht nur über das Ankunftsdatum.
+- Die **Sechsmonats-Reisepass-Regel** bedeutet, dass Ihr Reisepass bei Reiseantritt noch sechs Monate Gültigkeit haben muss. Die meisten Länder rechnen das ab dem Tag Ihrer Ankunft, einige ab dem Tag Ihrer Abreise, weshalb es die sicherste Gewohnheit ist, ab Ihrem Abreisedatum zu rechnen: Das erfüllt beides.
 - Viele Länder in Asien und Afrika setzen diese Regel durch - einschließlich beliebter Ziele wie Thailand, Indonesien, Vietnam und Indien. Europa und die meisten englischsprachigen Länder tun dies im Allgemeinen nicht.
 - Airlines können und lehnen das Boarding ab, wenn Ihr Reisepass nicht ausreicht - selbst wenn das Zielland Sie durchgelassen hätte.
 - Die Regel wird inkonsistent angewendet: Ein Land kann sie für einige Passinhaberinnen oder -inhaber verzeihen und für andere aufgrund von bilateralen Vereinbarungen durchsetzen.
@@ -22,7 +22,7 @@ Es ist eine der am meisten missverstandenen Anforderungen im internationalen Rei
 
 ## Was ist die Sechsmonats-Reisepass-Regel?
 
-Die Regel erfordert, dass Ihr Reisepass für mindestens sechs Monate über Ihr geplantes Abreisedatum vom Zielland hinaus gültig ist. In der Praxis bedeutet dies:
+Die Regel verlangt sechs Monate Reisepass-Gültigkeit für Ihre Reise. Die meisten Länder rechnen das ab dem Tag Ihrer Ankunft, einige ab dem Tag Ihrer Abreise, weshalb das Rechnen ab Ihrem Abreisedatum beide Fälle abdeckt. In der Praxis bedeutet dies:
 
 - Wenn Sie Thailand besuchen und am 1. August abreisen möchten, muss Ihr Reisepass mindestens bis zum 1. Februar des folgenden Jahres gültig sein.
 - Ein Reisepass, der am 30. November abläuft, ist technisch "gültig" für Ihre Reise im August - aber er verfehlt diese Anforderung um zwei Monate.
@@ -82,7 +82,7 @@ Kommen Sie zum Ziel und werden abgelehnt von der Einwanderung? Das ist wesentlic
 
 Behandeln Sie Ihren Reisepass wie einen Autorreifen - warten Sie nicht, bis er platt ist. Erneuern Sie, wenn Sie unter 12 Monaten Gültigkeit fallen. Dies gibt Ihnen einen zusätzlichen sechsmonatigen Puffer oben auf der Regel, mit Platz zum Verschenken.
 
-Zählen Sie vor jeder Reise sechs Monate voraus vom geplanten Abreisedatum vom Ziel. Überprüfen Sie das Ablaufdatum Ihres Reisepasses gegen dieses Datum - nicht nur gegen Ihre Reisedaten.
+Zählen Sie vor jeder Reise sechs Monate voraus ab dem Tag, an dem Sie das Ziel verlassen - das ist das spätere Datum und erfüllt damit beide Versionen der Regel. Überprüfen Sie das Ablaufdatum Ihres Reisepasses gegen dieses Datum - nicht nur gegen Ihre Reisedaten.
 
 Die Verwaltung mehrerer Reisepässe über eine Familie mit unterschiedlichen Ablaufdaten ist der Ort, an dem es unübersichtlich wird. [Travel Document Vault](https://traveldocumentvault.com) verfolgt dies automatisch - speichert das Ablaufdatum des Reisepasses jedes Familienmitglieds und sendet Erinnerungen in sechs Monaten, drei Monaten und darüber hinaus. Kein mentales Rechnen vor jeder Buchung. Sie können auch weitere praktische [Reisedokumenttipps](https://traveldocumentvault.com/de/blog/) im Blog finden.
 
@@ -104,7 +104,7 @@ Diese Quellen zeigen Ihnen die offizielle Anforderung und ob sie für Inhaber Ih
 
 ### Was genau ist die Sechsmonats-Reisepass-Regel und warum existiert sie?
 
-Die Sechsmonats-Reisepass-Regel erfordert, dass Ihr Reisepass für mindestens sechs Monate über Ihr geplantes Abreisedatum vom Ziel gültig ist. Falls er in diesem Fenster abläuft, können Sie Boarding oder Einreise verweigert bekommen - selbst wenn der Reisepass selbst noch nicht technisch abgelaufen ist.
+Die Sechsmonats-Reisepass-Regel verlangt sechs Monate Reisepass-Gültigkeit für Ihre Reise. Die meisten Länder rechnen das ab dem Tag Ihrer Ankunft, einige ab dem Tag Ihrer Abreise. Falls er in diesem Fenster abläuft, können Sie Boarding oder Einreise verweigert bekommen - selbst wenn der Reisepass selbst noch nicht technisch abgelaufen ist.
 
 ### Welche Länder setzen die Sechsmonats-Reisepass-Gültigkeitsregel 2026 durch?
 
@@ -120,7 +120,7 @@ Ja. Airlines überprüfen die Reisepass-Gültigkeit mit einer branchenweit verbr
 
 ### Wie überprüfe ich, ob mein Reisepass die Sechsmonats-Regel erfüllt?
 
-Zählen Sie sechs Monate ab Ihrem geplanten Rückgabedatum, und überprüfen Sie, ob Ihr Reisepass nach diesem Datum abläuft. Wenn Sie beispielsweise am 1. August zurückkehren, muss Ihr Reisepass mindestens bis zum 1. Februar des folgenden Jahres gültig sein. Apps wie Travel Document Vault verfolgen dies automatisch für jedes Familienmitglied, sodass Sie nicht vor jeder Reise rechnen müssen.
+Zählen Sie sechs Monate ab dem Tag, an dem Sie das Ziel verlassen, und überprüfen Sie, ob Ihr Reisepass nach diesem Datum abläuft. Das ist das spätere der beiden Daten, die Länder verwenden, daher deckt es beide Fälle ab. Wenn Sie beispielsweise am 1. August abreisen, muss Ihr Reisepass mindestens bis zum 1. Februar des folgenden Jahres gültig sein. Apps wie Travel Document Vault verfolgen dies automatisch für jedes Familienmitglied, sodass Sie nicht vor jeder Reise rechnen müssen.
 
 ### Gilt die Sechsmonats-Regel für EU-Bürger, die innerhalb Europas reisen?
 

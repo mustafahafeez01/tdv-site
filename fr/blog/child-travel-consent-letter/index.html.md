@@ -65,7 +65,7 @@ Les pays qui exigent généralement la notarisation ou la certification :
 - **Royaume-Uni.** N'est pas légalement requise pour les voyages sortants, mais les compagnies aériennes et les agents des frontières de destination peuvent la demander quand un enfant voyage avec un seul parent ou avec un adulte autre que le parent. Une signature d'avocat certifiée est typique.
 - **États-Unis.** Non mandatée au niveau fédéral mais recommandée. Certains États reconnaissent explicitement la notarisation.
 
-La notarisation coûte généralement entre 20 et 100 dollars par signature, selon le lieu, et vous devez prévoir une à deux semaines pour planifier une rendez-vous avec un notaire, particulièrement pendant les vacances scolaires. Vérifiez toujours les exigences de votre destination d'abord. Les règles du pays de destination déterminent si la notarisation est nécessaire ou non, et non le pays de résidence.
+Les frais de notarisation varient selon le pays et le notaire, ainsi que selon la rapidité avec laquelle vous avez besoin d'un rendez-vous, alors demandez le coût et le délai de réservation nécessaire, particulièrement pendant les vacances scolaires. Vérifiez toujours les exigences de votre destination d'abord. Les règles du pays de destination déterminent si la notarisation est nécessaire ou non, et non le pays de résidence.
 
 ## Erreurs courantes qui entraînent le rejet des lettres
 

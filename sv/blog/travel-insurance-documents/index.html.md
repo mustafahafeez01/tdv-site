@@ -156,6 +156,6 @@ Reseförsäkring skyddar dig i de flesta länder i världen under din resa, men 
 
 ## Relaterade artiklar
 
-[Reseförberedelser8 min läsningVilka handlingar du ska bära när du reser internationellt](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/)
+[Reseförberedelser8 min läsningVilka handlingar du ska bära när du reser internationellt](https://traveldocumentvault.com/sv/blog/what-documents-to-carry-when-travelling-internationally/)
 
-[Reseförberedelser7 min läsningVad du ska göra om passet blir förlorat eller stulet utomlands](https://traveldocumentvault.com/blog/lost-passport-abroad/)
+[Reseförberedelser7 min läsningVad du ska göra om passet blir förlorat eller stulet utomlands](https://traveldocumentvault.com/sv/blog/lost-passport-abroad/)

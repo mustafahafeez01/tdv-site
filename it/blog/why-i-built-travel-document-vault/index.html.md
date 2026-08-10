@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/it/blog/why-i-built-travel-document-vaul
 
 ---
 
+![Una pila ordinata dei passaporti di una famiglia con una carta d'imbarco infilata dentro, su uno sfondo blu notte](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/cover.jpg)
+
 Ero all'immigrazione quando l'agente ha guardato il passaporto di mia figlia, si è fermato, poi ha alzato gli occhi verso di me.
 
 "Sa che scade tra sette mesi, vero?" ha detto. "Le faccio presente che alcuni Paesi non la lasciano entrare con meno di sei mesi di validità residua."

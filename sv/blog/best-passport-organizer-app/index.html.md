@@ -35,7 +35,7 @@ Inget av alternativen är fel rakt av, men för identitetshandlingar så känsli
 
 ### Påminnelser om utgångsdatum med anpassningsbar förvarningstid
 
-Det här är den enskilt mest värdefulla funktionen. En påminnelse vid 6 månader är minimum - många länder kräver att passet är giltigt minst 6 månader efter dina resdatum, vilket vi förklarar i vår artikel om [6-månadersregeln för pass](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). För familjer med barn, vars pass går ut efter 5 år i stället för 10, ger en tidigare påminnelse - säg 9 månader i förväg - mer bekväm tid för planering.
+Det här är den enskilt mest värdefulla funktionen. En påminnelse vid 6 månader är minimum - många länder kräver att passet är giltigt minst 6 månader efter dina resdatum, vilket vi förklarar i vår artikel om [6-månadersregeln för pass](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/). För familjer med barn, vars pass går ut efter 5 år i stället för 10, ger en tidigare påminnelse - säg 9 månader i förväg - mer bekväm tid för planering.
 
 ### Flera resenärer i en och samma app
 
@@ -120,8 +120,8 @@ Som minimum: pass, visum och nationella ID-kort. Bättre appar stödjer även re
 
 ## Relaterade artiklar
 
-[Passregler8 min läsning · 1 feb 20266-månadersregeln för pass: vilka länder tillämpar den och hur du aldrig blir tagen på sängen](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Passregler8 min läsning · 1 feb 20266-månadersregeln för pass: vilka länder tillämpar den och hur du aldrig blir tagen på sängen](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/)
 
-[Familjeresor9 min läsning · 8 feb 2026Så organiserar du familjens resehandlingar (utan att bli galen)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+[Familjeresor9 min läsning · 8 feb 2026Så organiserar du familjens resehandlingar (utan att bli galen)](https://traveldocumentvault.com/sv/blog/how-to-organise-family-travel-documents/)
 
-[Reseverktyg7 min läsning · 4 jul 2026Reseapp-alternativ: varför dina resehandlingar behöver fungera offline](https://traveldocumentvault.com/blog/tripcase-alternative/)
+[Reseverktyg7 min läsning · 4 jul 2026TripCase-alternativ: varför dina resehandlingar behöver fungera offline](https://traveldocumentvault.com/sv/blog/tripcase-alternative/)

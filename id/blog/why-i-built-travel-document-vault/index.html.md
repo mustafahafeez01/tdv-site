@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/id/blog/why-i-built-travel-document-vaul
 
 ---
 
+![Tumpukan rapi paspor satu keluarga dengan boarding pass terselip di dalamnya, di atas latar biru laut pekat](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/cover.jpg)
+
 Saya sedang berada di antrian imigrasi ketika petugas melihat paspor putri saya, berhenti sejenak, lalu menatap saya.
 
 "Anda tahu ini kedaluwarsa dalam tujuh bulan, kan?" katanya. "Sekadar memberi tahu, beberapa negara tidak akan mengizinkan Anda masuk dengan masa berlaku kurang dari enam bulan."
@@ -116,6 +118,6 @@ Pendiri, Travel Document Vault
 
 ## Artikel Terkait
 
-[Aturan Paspor7 mnt baca · 1 Feb 2026Aturan Paspor 6 Bulan: Negara Mana Saja yang Menerapkannya](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Aturan Paspor7 mnt baca · 1 Feb 2026Aturan Paspor 6 Bulan: Negara Mana Saja yang Menerapkannya](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
 
-[Organisasi7 mnt baca · 5 Feb 2026Cara Mengatur Dokumen Perjalanan Keluarga (Sebelum Perjalanan Berikutnya)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+[Organisasi7 mnt baca · 5 Feb 2026Cara Mengatur Dokumen Perjalanan Keluarga (Sebelum Perjalanan Berikutnya)](https://traveldocumentvault.com/id/blog/how-to-organise-family-travel-documents/)

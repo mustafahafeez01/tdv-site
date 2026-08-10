@@ -32,7 +32,7 @@ TripCase non ha inventato molto, ma ha perfezionato una manciata di flussi di la
 
 Il suo nucleo era **l'analisi da posta elettronica a itinerario** - inoltri una conferma di compagnia aerea, hotel o autonoleggio e l'app l'ha assemblato in un viaggio cronologico con date e riferimenti di prenotazione. Zero inserimento manuale significava un itinerario completo in secondi, ed è esattamente il motivo per cui le persone sono rimaste per un decennio.
 
-**Gli avvisi di volo in tempo reale** arrivavano insieme: ritardi, cambiamenti di gate e cancellazioni spesso prima della notifica della stessa compagnia aerea. TripIt ora fa pagare circa 49 dollari all'anno per l'equivalente nel suo livello Pro, mentre TripCase offriva la funzione a tutti gratuitamente.
+**Gli avvisi di volo in tempo reale** arrivavano insieme: ritardi, cambiamenti di gate e cancellazioni spesso prima della notifica della stessa compagnia aerea. TripIt ora fa pagare per il suo livello Pro per ottenere l'equivalente, mentre TripCase offriva la funzione a tutti gratuitamente.
 
 Quei voli, hotel e trasporto terrestre vivevano tutti nella **cronologia del viaggio** - uno stack scorrevole per viaggio. Semplice, ma se hai gestito una settimana con più città da una dozzina di mail di conferma, capisci perché era importante. Nei thread del forum su FlyerTalk e altrove, gli ex utenti portano costantemente il **Document Vault** come il pezzo più mancato - quell'unico luogo sicuro per carte d'imbarco, visti, passaporti e conferme. Infine, **la condivisione del viaggio** permetteva ai membri della famiglia o ai colleghi di seguire senza mail inoltrate.
 
@@ -50,8 +50,8 @@ TripCase raggruppava diversi lavori diversi in un'app gratuita. Nessun'app attua
 
 | Il lavoro | Cosa faceva TripCase | Miglior sostituto ora | Costo |
 |---|---|---|---|
-| Avvisi di volo | Ritardi in tempo reale, cambiamenti di gate, cancellazioni | Flighty | Livello gratuito; abbonamento a pagamento (i prezzi variano) |
-| Analisi da posta elettronica a itinerario | Inoltri una conferma, il viaggio si costruisce da solo | TripIt o Tripsy | TripIt ha un livello gratuito; Pro è circa 49 dollari/anno |
+| Avvisi di volo | Ritardi in tempo reale, cambiamenti di gate, cancellazioni | Flighty | Livello gratuito; abbonamento a pagamento disponibile |
+| Analisi da posta elettronica a itinerario | Inoltri una conferma, il viaggio si costruisce da solo | TripIt o Tripsy | TripIt ha un livello gratuito; verifica i prezzi Pro attuali sul suo sito |
 | Cronologia del viaggio | Un'unica visualizzazione cronologica per viaggio | TripIt o Tripsy | Incluso nei precedenti |
 | Archiviazione dei documenti di viaggio | Il Document Vault: passaporti, visti, carte d'imbarco | Travel Document Vault | Acquisto una tantum |
 | Condivisione del viaggio | I seguaci vedevano il suo itinerario live | Condivisione TripIt o una cartella condivisa | Gratuito |

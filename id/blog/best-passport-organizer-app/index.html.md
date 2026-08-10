@@ -35,7 +35,7 @@ Tidak ada satu pun pendekatan yang selalu "salah", tetapi untuk dokumen identita
 
 ### Pengingat kedaluwarsa dengan waktu yang bisa disesuaikan
 
-Ini adalah fitur paling berharga. Pengingat 6 bulan sebelumnya adalah standar minimum - banyak negara mensyaratkan paspor tetap berlaku setidaknya 6 bulan setelah tanggal perjalanan Anda, seperti dijelaskan dalam artikel kami tentang [aturan paspor 6 bulan](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). Untuk keluarga dengan anak-anak, yang paspornya kedaluwarsa setelah 5 tahun alih-alih 10 tahun, pengingat lebih awal - misalnya 9 bulan sebelumnya - memberi waktu perencanaan yang lebih nyaman.
+Ini adalah fitur paling berharga. Pengingat 6 bulan sebelumnya adalah standar minimum - banyak negara mensyaratkan paspor tetap berlaku setidaknya 6 bulan setelah tanggal perjalanan Anda, seperti dijelaskan dalam artikel kami tentang [aturan paspor 6 bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/). Untuk keluarga dengan anak-anak, yang paspornya kedaluwarsa setelah 5 tahun alih-alih 10 tahun, pengingat lebih awal - misalnya 9 bulan sebelumnya - memberi waktu perencanaan yang lebih nyaman.
 
 ### Beberapa pelancong dalam satu aplikasi
 
@@ -120,8 +120,8 @@ Minimal: paspor, visa, dan kartu identitas nasional. Aplikasi yang lebih baik ju
 
 ## Artikel Terkait
 
-[Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Negara Mana yang Menerapkannya dan Cara Menghindari Masalah](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Negara Mana yang Menerapkannya dan Cara Menghindari Masalah](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
 
-[Perjalanan Keluarga9 menit bacaCara Mengatur Dokumen Perjalanan Keluarga (Tanpa Bikin Pusing)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+[Perjalanan Keluarga9 menit bacaCara Mengatur Dokumen Perjalanan Keluarga (Tanpa Bikin Pusing)](https://traveldocumentvault.com/id/blog/how-to-organise-family-travel-documents/)
 
-[Alat Perjalanan7 menit bacaAplikasi Perencana Perjalanan Tanpa Akses Luring: Mengapa Dokumen Perjalanan Anda Perlu Bisa Diakses Luring](https://traveldocumentvault.com/blog/tripcase-alternative/)
+[Alat Perjalanan7 menit bacaAlternatif TripCase: Mengapa Dokumen Perjalanan Anda Perlu Bisa Diakses Luring](https://traveldocumentvault.com/id/blog/tripcase-alternative/)

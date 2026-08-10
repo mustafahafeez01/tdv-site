@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/da/blog/why-i-built-travel-document-vaul
 
 ---
 
+![En pæn stak af en families pas med et boardingkort stukket ind, på en dyb marineblå baggrund](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/cover.jpg)
+
 Jeg stod ved paskontrollen, da betjenten kiggede på min datters pas, holdt en pause og så op på mig.
 
 "Du ved, at det udløber om syv måneder, ikke?" sagde han. "Bare så du er klar over det – nogle lande lukker dig ikke ind, hvis der er mindre end seks måneders gyldighed tilbage."
@@ -116,6 +118,6 @@ Grundlægger, Travel Document Vault
 
 ## Relaterede artikler
 
-[Pasregler7 min læsning · 1. feb 20266-måneders pasreglen: Hvilke lande håndhæver den](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Pasregler7 min læsning · 1. feb 20266-måneders pasreglen: Hvilke lande håndhæver den](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)
 
-[Organisation7 min læsning · 5. feb 2026Sådan organiserer du familiens rejsedokumenter (inden din næste tur)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+[Organisation7 min læsning · 5. feb 2026Sådan organiserer du familiens rejsedokumenter (inden din næste tur)](https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-documents/)

@@ -24,39 +24,39 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
-[Familiereizen Schengen-paspoortregels voor familietrips: Wat ouders fout doen Schengen vereist 3 maanden geldigheid na vertrek, niet 6 - en kinderenpaspoorten verlopen in 5 jaar. Wat gezinnen moeten controleren op de dag dat ze boeken. 10 juli 20266 min](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
+[Familiereizen Schengen paspoortregels voor gezinsreizen: wat ouders verkeerd doen Schengen vereist 3 maanden geldigheid na vertrek, niet 6 - en paspoorten van kinderen verlopen na 5 jaar. Dit moeten gezinnen checken op de dag dat ze boeken. 10 juli 20266 min](https://traveldocumentvault.com/nl/blog/schengen-passport-rules-family-trips/)
 
 ##
 
-[Visa's & Binnenkomst Je 90-dagen Schengen-venster: dagen tellen in het EES-tijdperk Europa's EES-grenzensysteem registreert je Schengendagen automatisch - maar het handhaaft, het plant niet. Hoe je je rollende 90/180-venster kunt volgen. 7 juli 20266 min](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/)
+[Visa's & Binnenkomst Jouw 90-dagen Schengenvenster: dagen tellen in het EES-tijdperk EES registreert elke Schengen-in- en uitreis en signaleert overschrijdingen automatisch, maar geen enkel portaal toont je resterende dagen. Zo tel je je eigen 90/180-venster. 7 juli 20266 min](https://traveldocumentvault.com/nl/blog/schengen-90-days-auto-tracked-ees/)
 
 ##
 
-[Reisinstrumenten TripCase Alternatief: Waarom Je Reisdocumenten Offline Moeten Zijn TripCase sloot en verwijderde gebruikersgegevens. Een eerlijk overzicht van alternatieven voor vluchtmeldingen, routering en documenten - en waarom offline-opslag wint. 4 juli 20267 min](https://traveldocumentvault.com/blog/tripcase-alternative/)
+[Reisinstrumenten TripCase-alternatief: waarom je reisdocumenten offline moeten werken TripCase ging in 2025 offline. Wat je in plaats daarvan kunt gebruiken voor reisplannen en reisdocumenten, en waarom offline opslag veiliger is. 4 juli 20267 min](https://traveldocumentvault.com/nl/blog/tripcase-alternative/)
 
 ##
 
-[Reisvoorbereiding Reisdocumenten Die Je Vergeet (en Waar Je Ze Moet Bewaren) Toestemmingsbrieven, vaccinatiebewijs, bewijs van retourtrip - documenten die gezinnen vergeten bij check-in. Een praktische strategie: wat je meeneemt, wat je als kopie thuis opslaat. 4 juli 20267 min](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/)
+[Reisvoorbereiding De reisdocumenten die mensen vergeten (en waar je elk ervan moet bewaren) De reisdocumenten die de meeste mensen over het hoofd zien, en wat je moet meenemen versus bewaren. Vergeten toestemmingsverklaringen, vaccinatiebewijzen en back-upstrategieën. 4 juli 20267 min](https://traveldocumentvault.com/nl/blog/what-documents-to-carry-when-travelling-internationally/)
 
 ##
 
-[Paspoortvernieuwing Kun je reizen met een verlopen paspoort? VK-regels Nee. Een verlopen Brits paspoort blokkeert internationale reizen. De absolute regel, de binnenlandse uitzonderingen, noodvernieuwingsopties en wat luchtvaartmaatschappijen werkelijk controleren. 2 juli 20267 min](https://traveldocumentvault.com/blog/travel-expired-passport-uk/)
+[Paspoortvernieuwing Kun je reizen met een verlopen paspoort? Britse regels Je kunt niet internationaal vliegen met een verlopen paspoort. De beperkte binnenlandse uitzonderingen, de snelste Britse verlengingsroute, en wat je moet doen als je al in het buitenland bent. 2 juli 20267 min](https://traveldocumentvault.com/nl/blog/travel-expired-passport-uk/)
 
 ##
 
-[Visa's & Binnenkomst ETIAS 2026: Welke Documenten Je Nodig Hebt en Hoe Je Aanvraagt ETIAS wordt gelanceerd voor visumvrije reizigers naar Europa. Hier staat wie het nodig heeft, welke documenten je moet indienen, veelvoorkomende afwijzingsredenen en hoe je met een afwijzing omgaat. 8 mei 20268 min lezen](https://traveldocumentvault.com/blog/etias-documents-2026/)
+[Visa's & Binnenkomst ETIAS 2026: welke documenten je nodig hebt en hoe je aanvraagt Bezoekers uit het VK, de VS en Canada hebben vanaf 2026 ETIAS nodig. Paspoort geldig voor minstens 3 maanden, e-mailadres, optioneel inkomensbewijs. Check de officiële EU-website voor de actuele kosten en planning. 8 mei 20268 min lezen](https://traveldocumentvault.com/nl/blog/etias-documents-2026/)
 
 ##
 
-[Familiereizen Toestemmingsbrief Kind: Wanneer Je Die Nodig Hebt en Wat Die Moet Bevatten Met een kind zonder beide ouders reizen? Sommige grenzen zullen je tegenhouden zonder een toestemmingsbrief. Hier is wanneer je die nodig hebt, wat die moet bevatten en veelgemaakte fouten. 5 mei 20268 min lezen](https://traveldocumentvault.com/blog/child-travel-consent-letter/)
+[Familiereizen Toestemmingsbrief voor kinderreizen: wanneer je er een nodig hebt en wat erin moet staan Heb je een toestemmingsbrief nodig voor de reis van je kind? Wanneer het vereist is, wat erin moet staan, en de fouten die problemen veroorzaken aan de grens. 5 mei 20268 min lezen](https://traveldocumentvault.com/nl/blog/child-travel-consent-letter/)
 
 ##
 
-[Paspoortregels Hoe lang is een paspoort geldig voor reizen? De meeste volwassenenpaspoorten zijn 10 jaar geldig, maar het effectieve reisvenster is vaak korter. Zo worden geldigheidmaanden berekend. 30 apr. 20266 min](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/)
+[Paspoortregels Hoe lang is een paspoort geldig voor reizen? De meeste paspoorten van volwassenen zijn 10 jaar geldig, maar je reisvenster is vaak korter. Ontdek hoe de geldigheidsmaanden van een paspoort werken en wanneer je moet verlengen. 30 apr. 20266 min](https://traveldocumentvault.com/nl/blog/how-long-is-passport-valid-for-travel/)
 
 ##
 
-[Paspoortregels Pasfoto thuis - hoe je het goed doet Hoe je je pasfoto meteen geaccepteerd krijgt: achtergrond, verlichting, gezichtsuitdrukking en de afwijzingsredenen die veel mensen missen. 29 apr. 20267 min](https://traveldocumentvault.com/blog/passport-photo-at-home/)
+[Paspoortregels Zo maak je thuis een paspoortfoto die wordt geaccepteerd Zo krijg je je paspoortfoto in één keer goedgekeurd: achtergrond, belichting, gezichtsuitdrukking en de afwijzingsredenen die de meeste mensen missen. 29 apr. 20267 min](https://traveldocumentvault.com/nl/blog/passport-photo-at-home/)
 
 ##
 
@@ -64,27 +64,27 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
-[Privacy & Beveiliging iCloud vs Google Photos vs Versleutelde Kluis: Veiligste Manier om je Paspoort op te Slaan Een eerlijke vergelijking van de drie meest gebruikte manieren om digitale paspoortkopieën op te slaan en wat elk voor jouw veiligheid betekent. 15 april 20267 min](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/)
+[Privacy & Beveiliging iCloud vs Google Photos vs versleutelde app: veiligste manier om je paspoort op te slaan iCloud, Google Photos en versleutelde apps vergeleken. Waarom een offline kopie op je toestel over het algemeen het veiligst is, en welke afweging elke cloudoptie met zich meebrengt. 15 april 20267 min](https://traveldocumentvault.com/nl/blog/safest-way-to-store-passport-digitally/)
 
 ##
 
-[Paspoortregels Digitale paspoortkopie: wat telt als geldig ID bij het reizen? Luchtvaartmaatschappijen, hotels, ambassades en grensfunctionarissen behandelen digitale paspoortkopieën op verschillende manieren. Hier leggen we precies uit waar een digitale kopie helpt en waar je absoluut het fysieke document nodig hebt. Apr 4, 20267 min read](https://traveldocumentvault.com/blog/digital-passport-copy-valid/)
+[Paspoortregels Digitale paspoortkopie: wat geldt als geldig identiteitsbewijs op reis? Luchtvaartmaatschappijen, hotels, ambassades en grenswachten behandelen digitale paspoortkopieën allemaal anders. Hier lees je precies waar een digitale kopie helpt, en waar je het originele document nodig hebt. Apr 4, 20267 min read](https://traveldocumentvault.com/nl/blog/digital-passport-copy-valid/)
 
 ##
 
-[Visa's & Binnenkomst Visa verlooptracker app: Waar op letten en waarom het belangrijk is Visa-tracking is complexer dan paspoort-tracking - invoergeldigheid, maximaal verblijf en rollende Schengen-vensters moeten allemaal afzonderlijk worden gecontroleerd. Dit is waarom het belangrijk is en wat u in een app moet zoeken. 21 mrt. 20268 min lezing](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/)
+[Visa's & Binnenkomst App voor visumvervaldatums: waar je op moet letten en waarom het belangrijk is Een app voor visumvervaldatums kan boetes voor overstay voorkomen. Welke functies ertoe doen, hoe visumbeheer verschilt van paspoortbeheer, en wat je eerst moet controleren. 21 mrt. 20268 min lezing](https://traveldocumentvault.com/nl/blog/visa-expiry-tracker-app/)
 
 ##
 
-[Verlenging Kunt u reizen terwijl uw paspoort wordt verlengd? Uw verlenging is ingediend, uw reis is geboekt - maar kunt u nog steeds reizen? Het antwoord hangt ervan af of u uw paspoort nog in handen hebt. Hier is de opsplitsing per land. 14 mrt. 20267 min lezing](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/)
+[Verlenging Kun je reizen terwijl je paspoort wordt verlengd? Kom te weten of je kunt reizen terwijl je paspoortverlenging loopt. De regels verschillen per land en per aanvraagmethode. Dit is wat je moet weten. 14 mrt. 20267 min lezing](https://traveldocumentvault.com/nl/blog/travel-while-passport-renewal-pending/)
 
 ##
 
-[Reisvoorbereiding Je Paspoort Kwijtraakt in het Buitenland? Doe Deze 7 Dingen Onmiddellijk Je paspoort in het buitenland verliezen is stressvoller dan de meeste reizigers verwachten. Hier zijn de 7 stappen die je onmiddellijk moet nemen - van rapportage aan je dichtstbijzijnde ambassade tot het verkrijgen van een noodreisdocument. 11 mrt. 20267 min lezing](https://traveldocumentvault.com/blog/lost-passport-abroad/)
+[Reisvoorbereiding Paspoort verloren in het buitenland? Doe deze zeven dingen meteen Paspoort verloren in het buitenland? Hier zijn zeven dingen die je meteen moet doen - aangifte bij de politie, contact met de ambassade, een noodpaspoort en hoe je thuiskomt. 11 mrt. 20267 min lezing](https://traveldocumentvault.com/nl/blog/lost-passport-abroad/)
 
 ##
 
-[Verlenging Paspoort verlopen? Dit is precies wat u moet doen (stap voor stap) Ontdekt dat uw paspoort is verlopen? Dit is precies wat u moet doen om snel weer op het spoor te komen en veelvoorkomende verlengingsfouten te vermijden. 9 mrt. 20269 min lezing](https://traveldocumentvault.com/blog/passport-expired-what-to-do/)
+[Verlenging Paspoort verlopen? Dit moet je precies doen, stap voor stap Ontdekt dat je paspoort is verlopen? Dit moet je precies doen, stap voor stap. Voorkom dit de volgende keer met slimme vervalherinneringen uit onze offline, met AES-256-GCM versleutelde kluis. 9 mrt. 20269 min lezing](https://traveldocumentvault.com/nl/blog/passport-expired-what-to-do/)
 
 ##
 
@@ -92,23 +92,23 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
-[PaspoortregelsOrganisatie Internationale Reisdocumenten Checklist voor Elke Reis Alles wat je moet meenemen, controleren en voorbereiden vóór een internationale reis. Een praktische checklist met paspoorten, visa's, rijbewijzen en reisverzekering - geschikt voor gezinnen en alleenreizende. 4 mrt. 20269 min lezing](https://traveldocumentvault.com/blog/travel-document-checklist/)
+[PaspoortregelsOrganisatie Internationale checklist reisdocumenten: alles wat je nodig hebt voordat je vliegt De complete checklist voor reisdocumenten 2026. Organiseer alles offline op één plek met de AES-256-GCM-versleutelde app van Travel Document Vault. 4 mrt. 20269 min lezing](https://traveldocumentvault.com/nl/blog/travel-document-checklist/)
 
 ##
 
-[Privacybescherming Is het veilig om uw paspoort in Google Foto's op te slaan? Wat u moet weten Miljoenen mensen slaan paspoortscans op in Google Foto's zonder erover na te denken. Dit is een eerlijke blik op de risico's, hoe ze zich verhouden tot alternatieven, en wat u in plaats daarvan moet doen als u betere bescherming wilt. 15 feb. 20267 min lezing](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/)
+[Privacybescherming Is het veilig om je paspoort in Google Foto's te bewaren? Dit moet je weten Eén gephishte Google-account maakt alle foto's erin zichtbaar, je paspoort inbegrepen, en Google's voorwaarden staan geautomatiseerd scannen toe. De risico's, en waar een scan veiliger is. 15 feb. 20267 min lezing](https://traveldocumentvault.com/nl/blog/is-it-safe-to-store-passport-in-google-photos/)
 
 ##
 
-[Verlenging Hoe lang duurt paspoortverlenging? (VS, VK, Australië, Canada) Huidige verwerkingstijden voor alle vier landen, inclusief versnelde en urgente opties - plus wat u moet doen als uw reis geboekt is en uw paspoort op het randje is. 10 feb. 20267 min lezing](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)
+[Verlenging Hoe lang duurt een paspoortverlenging? (VS, VK, Australië, Canada) Hoe lang duurt een paspoortverlenging? Dat hangt meer af van je situatie dan van je land. Dit is wat het echt vertraagt, en waar je actuele tijden checkt. 10 feb. 20267 min lezing](https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-take/)
 
 ##
 
-[Organisatie Hoe u gezins-reisdocumenten organiseert (vóór uw volgende reis) Welke documenten een gezin eigenlijk nodig heeft, hoe u de originelen veilig houdt, wanneer u digitale backups moet controleren, en een pre-reis checklist die u van boeking tot vertrek kunt gebruiken. 5 feb. 20267 min lezing](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+[Organisatie Zo organiseer je de reisdocumenten van je gezin (voor je volgende reis) Leer hoe je reisdocumenten voor het hele gezin organiseert - wat je moet bewaren, hoe je het opbergt, en hoe je zorgt dat niets ongemerkt verloopt. 5 feb. 20267 min lezing](https://traveldocumentvault.com/nl/blog/how-to-organise-family-travel-documents/)
 
 ##
 
-[Paspoortregels De 6-maands paspoortregels: Welke landen stellen het in en hoe u nooit betrapt wordt Uw paspoort is misschien geldig - maar kan u toch afwijzen. Leer welke landen de 6-maands regel handhaven, hoe luchtvaartmaatschappijen dit controleren, en zorg ervoor dat uw hele gezin gedekt is vóór het boeken. 1 feb. 20267 min lezing](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Paspoortregels De 6 maanden-paspoortregel: welke landen die hanteren en hoe je nooit voor verrassingen komt te staan De 6 maanden-paspoortregel overvalt duizenden reizigers. Laat onze AES-256-GCM-versleutelde, volledig offline kluis je vervaldatums automatisch bijhouden. Probeer gratis voor 5 documenten. 1 feb. 20267 min lezing](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/)
 
 ## De laatste keer dat u panikkeert vóór een reis
 

@@ -1,10 +1,12 @@
-# Pourquoi J'ai Créé Travel Document Vault : Pour le Parent qui se Souvient de Tout
+# Pourquoi j'ai créé Travel Document Vault : pour le parent qui se souvient de tout
 
 > J'ai créé Travel Document Vault pour remplacer les applications éparses. Un coffre spécialisé, hors ligne avec chiffrement AES-256-GCM, un palier gratuit de 5 documents, et sans abonnement.
 
 Source: https://traveldocumentvault.com/fr/blog/why-i-built-travel-document-vault/
 
 ---
+
+![Une pile bien rangée des passeports d'une famille, une carte d'embarquement glissée dedans, posée sur un fond bleu marine profond](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/cover.jpg)
 
 J'étais à l'immigration quand l'agent a regardé le passeport de ma fille, s'est arrêté, puis m'a regardé.
 

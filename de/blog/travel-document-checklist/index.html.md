@@ -38,7 +38,7 @@ Buchen Sie Reiseversicherung, wenn Sie Flüge buchen, nicht eine Woche vor der A
 
 ## Drei Monate vorher: Erneuerung und Visafenster
 
-Zu diesem Zeitpunkt haben Sie noch Zeit, Dinge zu beheben. Die standardmäßige Passerneuerung dauert derzeit 4-6 Wochen in den USA (via travel.state.gov), normalerweise etwa 3 Wochen im Vereinigten Königreich (via GOV.UK), und mindestens 6 Wochen in Australien (via das Australian Passport Office). Überprüfen Sie immer die offizielle Website auf aktuelle Zeiten, bevor Sie antragen.
+Zu diesem Zeitpunkt haben Sie noch Zeit, Dinge zu beheben. Bearbeitungszeiten für Erneuerungen ändern sich, und jede Behörde veröffentlicht ihre eigene aktuelle Angabe: das US State Department, das HM Passport Office und das Australian Passport Office. Überprüfen Sie immer die offizielle Website auf aktuelle Zeiten, bevor Sie einen Antrag stellen.
 
 Ein Pass, der innerhalb von 12 Monaten abläuft: starten Sie den Erneuerungsprozess jetzt. Pässe von Kindern laufen schneller ab - 5 Jahre in den meisten Ländern versus 10 für Erwachsene - und Eltern verpassen das Fenster häufig. Für neuseeländische Antragsteller überprüfen Sie bitte das New Zealand Passport Office für aktuelle Fristen; die Nachfrage steigt in der Vorbereitungsphase zu Sommer.
 

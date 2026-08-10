@@ -47,7 +47,7 @@ Enforcement of the 6-month rule also varies by nationality. A single country mig
 
 We cover [which countries enforce the 6-month rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) in detail, including a country-by-country table. The short version: assume it applies to any destination outside Europe, North America, or Australia unless you have checked.
 
-**Blank pages.** Some countries require 2 to 4 blank visa pages. If you travel frequently and your passport is 6 or 7 years old, it may run out of usable pages before the expiry date. Check page count as well as validity when travelling to destinations that issue visa stamps.
+**Blank pages.** Some countries require several blank visa pages. If you travel frequently and your passport is several years old, it may run out of usable pages before the expiry date. Check page count as well as validity when travelling to destinations that issue visa stamps.
 
 ## How Many Months of Validity Do You Need?
 
@@ -74,7 +74,7 @@ The practical answer: when you drop below 12 months of validity remaining.
 Here is why 12 months is the right threshold and not the expiry date itself:
 
 - It gives you a full 6-month buffer for any destination that enforces the rule.
-- Passport renewal takes time: UK passport renewals usually take around 3 weeks (and HM Passport Office says not to book travel until the new passport arrives) and US standard processing runs 4-6 weeks, so starting at 6 months remaining leaves little margin.
+- Passport renewal takes time, and processing times change - HM Passport Office advises against booking travel until your new passport arrives, and both HM Passport Office and the US State Department publish their current processing times. Starting at 6 months remaining leaves little margin.
 - Last-minute plans happen. A passport with 14 months remaining keeps all destinations open. A passport with 5 months remaining closes off a large part of the world.
 
 The most common mistake is setting a reminder on the expiry date itself. By that point you cannot travel to most of the destinations that enforce the 6-month rule. **Set your renewal reminder at the 12-month mark.**
@@ -95,7 +95,7 @@ To most European destinations, yes - your passport just needs to be valid for th
 
 ### When should I renew my passport?
 
-Renew when you drop below 12 months of validity remaining. This gives you a buffer for the 6-month rule and accounts for the time renewal takes - usually around 3 weeks in the UK and 4-6 weeks in the US, longer in busy periods.
+Renew when you drop below 12 months of validity remaining. This gives you a buffer for the 6-month rule and accounts for the time renewal takes, which varies by country and time of year - HM Passport Office and the US State Department both publish their current processing times.
 
 ### Do child passports expire faster than adult passports?
 

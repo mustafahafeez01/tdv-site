@@ -38,11 +38,11 @@ Reserva el seguro de viaje cuando reservas vuelos, no una semana antes de la sal
 
 ## Tres meses antes: Renovación y ventanas de visado
 
-En este punto todavía tienes tiempo para arreglarlo. La renovación de pasaporte estándar actualmente toma 4-6 semanas en EE.UU. (a través de travel.state.gov), usualmente alrededor de 3 semanas en el Reino Unido (a través de GOV.UK), y al menos 6 semanas en Australia (a través de la Oficina de Pasaportes Australiana). Siempre verifica el sitio oficial para los tiempos actuales antes de solicitar.
+En este punto todavía tienes tiempo para arreglarlo. Los tiempos de renovación cambian, y cada autoridad publica su propia cifra actualizada: el Departamento de Estado de EE.UU., el HM Passport Office y la Oficina de Pasaportes Australiana. Siempre verifica el sitio oficial para los tiempos actuales antes de solicitar.
 
 Cualquier pasaporte que caduca dentro de 12 meses: comienza el proceso de renovación ahora. Los pasaportes de niños caducan más rápido - 5 años en la mayoría de países versus 10 para adultos - y los padres frecuentemente pierden la ventana. Para solicitantes de Nueva Zelanda, verifica la Oficina de Pasaportes de Nueva Zelanda para plazos actuales; la demanda se dispara en el período previo al verano.
 
-Presenta cualquier solicitud de visado con una ventana de procesamiento de cuatro semanas o más. Prepara documentos de apoyo: extractos bancarios, confirmaciones de alojamiento, prueba de viaje futuro. Reserva una cita de biometría con anticipación si el visado lo requiere.
+Presenta cualquier solicitud de visado que necesite tiempo de tramitación, y consulta con la autoridad emisora cuánto tarda actualmente. Prepara documentos de apoyo: extractos bancarios, confirmaciones de alojamiento, prueba de viaje futuro. Reserva una cita de biometría con anticipación si el visado lo requiere.
 
 Para familias: si un niño viaja con solo un progenitor u otro adulto, prepara una carta de consentimiento de viaje para menores ahora. Incluye el nombre completo y fecha de nacimiento del niño, detalles de contacto de ambos progenitores, fechas de viaje, destinos y la firma del progenitor ausente. Una copia notariada es más convincente en inmigración y vale el paso extra.
 

@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/de/blog/lost-passport-abroad/
 ## Wichtigste Erkenntnisse
 
 - Erstatten Sie zuerst eine Polizeianzeige - Sie benötigen diese sowohl für Ihren Botschaftsantrag als auch für Ihren Versicherungsanspruch.
-- Ihre Botschaft oder Ihr Konsulat kann ein Notfallreisedokument ausstellen, oft innerhalb von 24-48 Stunden. **Rufen Sie vorher an** - die meisten benötigen einen Termin.
+- Ihre Botschaft oder Ihr Konsulat kann ein Notfallreisedokument ausstellen, normalerweise weit schneller als einen Passersatz. **Rufen Sie vorher an** - die meisten benötigen einen Termin.
 - Reisende mit einer sicheren digitalen Kopie ihres Passes erhalten Ersatzdokumente schneller - Sie übergeben die Details, die Ihre Botschaft benötigt, in Sekunden.
 - Die Reiseversicherung deckt die Kosten für Passersatz in den meisten umfassenden Policen. Sie benötigen den Polizeibericht, um einen Anspruch geltend zu machen.
 - Der richtige Zeitpunkt zur Vorbereitung ist jetzt, bevor etwas schief läuft. Ein fünfminütiger Scan heute könnte Tage Stress im Ausland ersparen.
@@ -47,7 +47,7 @@ Rufen Sie an, bevor Sie besuchen. Viele Botschaften verlangen einen Termin für 
 
 ## Schritt 4: Beantragen Sie ein Notfallreisedokument
 
-Ihre Botschaft stellt ein Notfallreisedokument (ETD) oder einen Notfallpass aus, normalerweise gültig für eine einfache Heimreise. Die meisten Botschaften stellen diese in 24-48 Stunden für echte Notfälle aus, aber Ihrer kann anders sein - fragen Sie an, wenn Sie anrufen.
+Ihre Botschaft stellt ein Notfallreisedokument (ETD) oder einen Notfallpass aus, normalerweise gültig für eine einfache Heimreise. Die Bearbeitungszeit hängt von der Vertretung und der Dringlichkeit Ihres Falls ab, fragen Sie danach, wenn Sie anrufen.
 
 Was Sie normalerweise brauchen (bestätigen Sie dies mit Ihrer Botschaft, bevor Sie besuchen):
 
@@ -86,7 +86,7 @@ Erstatten Sie sofort eine Polizeianzeige, kontaktieren Sie dann Ihre nächstgele
 
 ### Kann ich im Ausland einen Notfallpass bekommen?
 
-Ja. Die meisten Länder stellen Notfallreisedokumente über ihre Botschaften und Konsulate aus, normalerweise gültig nur für eine einfache Heimreise und werden oft innerhalb von 24-48 Stunden ausgestellt. Rufen Sie Ihre nächstgelegene Botschaft oder Ihr Konsulat so bald wie möglich an - viele verlangen einen Termin.
+Ja. Die meisten Länder stellen Notfallreisedokumente über ihre Botschaften und Konsulate aus, normalerweise gültig nur für eine einfache Heimreise. Die Bearbeitungszeit hängt von der Vertretung und der Dringlichkeit Ihres Falls ab, fragen Sie danach, wenn Sie anrufen. Rufen Sie Ihre nächstgelegene Botschaft oder Ihr Konsulat so bald wie möglich an - viele verlangen einen Termin.
 
 ### Brauche ich einen Polizeibericht, wenn mein Pass im Ausland gestohlen wird?
 

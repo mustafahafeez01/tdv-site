@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/it/blog/travel-expired-passport-uk/
 
 - **Regola assoluta:** Nessun viaggio internazionale con un passaporto scaduto. Le compagnie aeree e il controllo alle frontiere la rifiuteranno.
 - **Eccezioni nazionali:** Regno Unito verso l'Irlanda e l'Isola di Man possono accettare un documento di identità fotografica alternativo; contatti la sua compagnia aerea prima.
-- **Rinnovo d'emergenza:** Servizio Premium online disponibile per £239.50 tutto compreso (appuntamento lo stesso giorno o il giorno successivo, solo rinnovi).
+- **Rinnovo d'emergenza:** HM Passport Office offre un servizio Premium online riservato ai rinnovi, con appuntamento lo stesso giorno o il giorno successivo se disponibile. Consulti la tariffa attuale su gov.uk prima di prenotare.
 - **Assicurazione di viaggio:** La maggior parte delle polizze annulla i sinistri se il passaporto era scaduto durante il viaggio.
 - **Se all'estero:** Contatti l'ambasciata o il consolato britannico più vicino per un documento di viaggio d'emergenza.
 
@@ -38,13 +38,13 @@ I viaggi nazionali all'interno del Regno Unito e dell'Irlanda differiscono dai v
 
 **Questo non è un permesso per saltare il rinnovo del passaporto.** Diverse compagnie aeree hanno diverse politiche sulle rotte nazionali - alcune richiedono un passaporto per tutti i viaggi verso l'Irlanda anche se l'Area di circolazione comune tecnicamente consente viaggi con documento d'identità, mentre altre accettano una patente di guida. Le compagnie aeree aggiornano le loro regole, e la sua compagnia potrebbe aver cambiato le sue dal suo ultimo volo, quindi non può presumere che ciò che ha funzionato prima.
 
-Se sta considerando un viaggio nazionale con un passaporto scaduto, contatti la sua compagnia aerea almeno 48 ore prima del suo volo e chieda esplicitamente: "Il mio passaporto del Regno Unito è scaduto. Accetterà la mia patente di guida del Regno Unito invece?". Ottenga una conferma scritta se possibile, poiché arrivare al check-in con un documento d'identità alternativo senza conferma precedente è come perdere il volo.
+Se sta considerando un viaggio nazionale con un passaporto scaduto, contatti la sua compagnia aerea con sufficiente anticipo rispetto al suo volo e chieda esplicitamente: "Il mio passaporto del Regno Unito è scaduto. Accetterà la mia patente di guida del Regno Unito invece?". Ottenga una conferma scritta se possibile, poiché arrivare al check-in con un documento d'identità alternativo senza conferma precedente è come perdere il volo.
 
 ## Rinnovo d'emergenza: Percorso del servizio Premium
 
-Se il suo viaggio è imminente e il suo passaporto è scaduto, l'Ufficio passaporti di Sua Maestà offre un servizio Premium progettato proprio per questo scenario, garantendo un appuntamento lo stesso giorno o il giorno lavorativo successivo a seconda della disponibilità. La tariffa è £239.50 in totale - copre tutto, piuttosto che essere un supplemento alla tariffa standard - e il suo passaporto rinnovato arriva entro giorni piuttosto che le settimane che un rinnovo standard può richiedere. Si noti che il servizio Premium online è solo per rinnovi, non per i primi passaporti per adulti.
+Se il suo viaggio è imminente e il suo passaporto è scaduto, l'Ufficio passaporti di Sua Maestà offre un servizio Premium progettato proprio per questo scenario, con un appuntamento lo stesso giorno o il giorno lavorativo successivo a seconda della disponibilità. HM Passport Office pubblica la tariffa attuale su gov.uk, che copre insieme appuntamento e rinnovo invece di sommarsi alla tariffa standard. Ottiene il passaporto molto più velocemente rispetto al percorso standard, anche se la rapidità esatta dipende dall'appuntamento disponibile. Si noti che il servizio Premium online è solo per rinnovi, non per i primi passaporti per adulti.
 
-Questo è il percorso ufficiale di emergenza per i vincoli di viaggio genuini, non una scorciatoia - il servizio Premium esiste perché a volte il viaggio non può attendere. La guida ufficiale attualmente consiglia di prevedere circa 3 settimane per un rinnovo standard, e quasi tutte le domande sono elaborate entro quel periodo - ma per i viaggi che genuinamente non possono attendere, l'opzione Premium rimuove l'incertezza.
+Questo è il percorso ufficiale di emergenza per i vincoli di viaggio genuini. HM Passport Office pubblica il suo tempo di elaborazione standard attuale su gov.uk, ed è utile controllarlo prima di supporre di avere tempo di attesa. Quando un viaggio genuinamente non può attendere, l'opzione Premium rimuove l'incertezza.
 
 Il difetto è che deve disporre di uno slot di appuntamento disponibile, che si riempiono rapidamente durante le vacanze estive e le pause scolastiche. Se scopre che il suo passaporto è scaduto venerdì prima di un viaggio lunedì potrebbe non trovare slot Premium disponibili, poiché la prenotazione avviene online su gov.uk con disponibilità dal vivo. Quando la Sua data preferita non mostra slot ha genuinamente nessun'altra opzione quel giorno.
 
@@ -72,7 +72,7 @@ Questo si applica indipendentemente dal fatto che il suo passaporto sia scaduto 
 
 Questo è lo scenario genuinamente difficile. Se sta viaggiando e il suo passaporto scade prima del suo ritorno, non può imbarcarsi su un volo o un traghetto per tornare a casa. Avrà bisogno di contattare l'ambasciata o il consolato britannico più vicino per un documento di viaggio d'emergenza - a volte chiamato ETD o passaporto d'emergenza - che è valido solo per tornare a casa.
 
-Il processo è lento e burocratico. Avrà bisogno di fornire una prova di identità e pagare la tariffa, attualmente £125. La maggior parte delle ambasciate impiega diversi giorni per emettere il documento, anche se alcune possono elaborarlo in 24-48 ore se è genuinamente bloccato. Altre impiegano una settimana. Il documento d'emergenza non è un passaporto turistico - è valido solo per il viaggio specifico di ritorno nel Regno Unito senza permettere viaggi ulteriori.
+Il processo è lento e burocratico. Avrà bisogno di fornire una prova di identità e pagare la tariffa, il cui importo attuale è pubblicato dal Foreign, Commonwealth and Development Office. Il tempo di elaborazione varia in base all'ambasciata e all'urgenza della sua situazione, quindi chieda cosa aspettarsi non appena li contatta. Il documento d'emergenza non è un passaporto turistico - è valido solo per il viaggio specifico di ritorno nel Regno Unito senza permettere viaggi ulteriori.
 
 Imposti promemoria mesi in anticipo piuttosto che il giorno prima del viaggio, poiché i promemoria a 6, 3 e 1 mese prima della scadenza Le danno tempo di rinnovare con elaborazione standard invece di pagare per appuntamenti di emergenza. Se il suo passaporto scade entro 6 mesi dal suo viaggio, inizi il processo di rinnovo ora prima di impegnarsi nelle date di viaggio.
 

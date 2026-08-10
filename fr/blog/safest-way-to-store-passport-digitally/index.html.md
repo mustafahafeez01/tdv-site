@@ -97,7 +97,7 @@ Cependant, cette conception s'accompagne d'une commodité réduite puisque vous 
 | Fonctionne complètement hors ligne | Non (synchronisation nécessaire) | Non (synchronisation nécessaire) | Oui |
 | Risque de violation distante | Moyen (serveurs d'Apple) | Moyen-Élevé (serveurs de Google + analyse de contenu) | Aucun (pas de stockage distant) |
 | Accès multi-appareils | Automatique | Automatique | Sauvegarde manuelle uniquement |
-| Coût | Gratuit (200 Go), puis payant | Gratuit (15 Go), puis payant | Généralement un achat unique (9,99 dollars) |
+| Coût | Gratuit (200 Go), puis payant | Gratuit (15 Go), puis payant | Généralement un achat unique, sans abonnement |
 | Conçu pour les documents d'identité | Non | Non | Oui |
 
 ## Lequel devriez-vous choisir ?

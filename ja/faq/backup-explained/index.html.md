@@ -80,4 +80,4 @@ Vault Exportは、デバイス変更、主要なアプリアップデート、�
 
 [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
-![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+![Google Play で手に入れよう](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

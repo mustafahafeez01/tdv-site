@@ -52,7 +52,7 @@ Les conséquences d'un dépassement de visa varient selon le pays mais sont cons
 - **Royaume-Uni:** Les dépassements sont enregistrés et affecteront les futures demandes de visa. Le Bureau de l'immigration du Royaume-Uni considère les dépassements lors de l'évaluation de la crédibilité et peut refuser les demandes ultérieures.
 - **Australie:** Le dépassement de votre visa peut entraîner des restrictions sur les futures demandes de visa et votre expulsion du pays. En vertu de la loi sur la migration de 1958, les dossiers de dépassement sont suivis et affecteront les futures demandes de visa et l'admissibilité à la réentrée.
 - **Espace Schengen:** Les dépassements sont suivis dans le Système d'information Schengen (SIS). Une interdiction émise par un pays Schengen s'applique à tous les 27 États membres.
-- **Thaïlande:** Les dépassements entraînent une amende de 500 bahts thaïlandais par jour (environ 14 USD), jusqu'à 20 000 bahts, et peuvent entraîner une arrestation et une expulsion pour les dépassements prolongés.
+- **Thaïlande:** Les dépassements entraînent une amende journalière fixée par les autorités d'immigration thaïlandaises, jusqu'à un plafond, et peuvent entraîner une arrestation et une expulsion pour les dépassements prolongés.
 
 Dans tous les cas, l'enregistrement du dépassement vous suit généralement: il apparaît dans les bases de données d'immigration consultées aux futurs passages frontaliers et demandes de visa.
 
@@ -63,12 +63,12 @@ Compte tenu de la complexité ci-dessus, une bonne application de suivi des visa
 - **Champs séparés pour la validité d'entrée et le séjour maximal:** Ce sont des dates différentes et elles ont besoin de rappels séparés.
 - **Suivi du nombre d'entrées:** L'entrée simple vs. double vs. multiple est importante pour déterminer si le visa survit à une sortie et une réentrée.
 - **Accès hors ligne:** Vous avez besoin de vos détails de visa aux frontières où Internet peut être peu fiable.
-- **Rappels personnalisés:** Un visa de travail de long terme pourrait justifier un rappel de 90 jours; un visa touristique pourrait justifier 2 semaines. Les rappels génériques ne conviennent pas.
+- **Rappels personnalisés:** Un visa de travail de long terme pourrait justifier un rappel de 90 jours; un visa touristique a besoin de suffisamment d'avance pour organiser le départ sans se précipiter. Les rappels génériques ne conviennent pas.
 - **Plusieurs types de documents et voyageurs:** Si vous voyagez en famille, le visa de chaque membre de la famille a besoin d'un suivi indépendant.
 - **Modèle de confidentialité:** Les détails de visa sont des données sensibles liées à l'identité. Comme pour le stockage de passeport, le chiffrement sur l'appareil sans téléchargement cloud est l'architecture la plus sûre.
 - **Suivi du passeport et du visa ensemble:** Une erreur courante mais souvent négligée est d'avoir un visa valide mais un passeport qui expire pendant votre séjour prévu. Avoir les deux suivis au même endroit empêche cette incohérence.
 
-**Travel Document Vault** suit les dates d'expiration des passeports et des visas au même endroit, avec des rappels séparés par document et un support pour plusieurs voyageurs. Vos données restent sur votre appareil, chiffrées en AES-256-GCM, aucun compte requis, avec sauvegarde chiffrée optionnelle sur iCloud ou Google Drive (Pro). [Il est disponible sur l'App Store pour 9,99 USD, une seule fois.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** suit les dates d'expiration des passeports et des visas au même endroit, avec des rappels séparés par document et un support pour plusieurs voyageurs. Vos données restent sur votre appareil, chiffrées en AES-256-GCM, aucun compte requis, avec sauvegarde chiffrée optionnelle sur iCloud ou Google Drive (Pro). [Il est disponible sur l'App Store en achat unique, sans abonnement.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Étapes pratiques pour suivre correctement votre visa
 
@@ -102,7 +102,7 @@ Les meilleures le font. L'accès hors ligne est important aux frontières et dan
 
 ### Combien de temps avant l'expiration de mon visa dois-je recevoir un rappel?
 
-Cela dépend du type de visa. Pour les visas de long terme nécessitant un renouvellement, 90 jours est un minimum raisonnable. Pour les visas touristiques avec des durées de séjour maximal fixes, 2 semaines avant votre dernière date de sortie autorisée donne le temps d'organiser le départ sans se précipiter. Recherchez les applications qui vous permettent de définir des délais personnalisés par document.
+Cela dépend du type de visa. Pour les visas de long terme nécessitant un renouvellement, 90 jours est un minimum raisonnable. Pour les visas touristiques avec des durées de séjour maximal fixes, un rappel avec suffisamment d'avance sur votre dernière date de sortie autorisée donne le temps d'organiser le départ sans se précipiter. Recherchez les applications qui vous permettent de définir des délais personnalisés par document.
 
 ## Articles connexes
 

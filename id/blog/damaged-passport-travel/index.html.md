@@ -107,6 +107,6 @@ Tergantung di mana Anda berada dan seberapa dekat perjalanan Anda, dan waktu pem
 
 ## Artikel Terkait
 
-[Darurat Perjalanan6 menit baca · April 2026Apa yang Harus Dilakukan Jika Paspor Anda Hilang atau Dicuri di Luar Negeri](https://traveldocumentvault.com/blog/lost-passport-abroad/)
+[Darurat Perjalanan6 menit baca · April 2026Apa yang Harus Dilakukan Jika Paspor Anda Hilang atau Dicuri di Luar Negeri](https://traveldocumentvault.com/id/blog/lost-passport-abroad/)
 
-[Kedaluwarsa Paspor7 menit baca · Mei 2026Paspor Kedaluwarsa Tepat Sebelum Perjalanan - Apa yang Harus Dilakukan](https://traveldocumentvault.com/blog/passport-expired-what-to-do/)
+[Kedaluwarsa Paspor7 menit baca · Mei 2026Paspor Kedaluwarsa Tepat Sebelum Perjalanan - Apa yang Harus Dilakukan](https://traveldocumentvault.com/id/blog/passport-expired-what-to-do/)

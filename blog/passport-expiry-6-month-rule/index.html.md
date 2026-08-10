@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/
 
 ## Key Takeaways
 
-- The **passport expiry 6 month rule** means your passport must stay valid for at least six months beyond your planned departure date from a country - not just your arrival date.
+- The **passport expiry 6 month rule** means your passport needs six months of validity left when you travel. Most countries measure that from the day you arrive, and some measure it from the day you leave, so counting from your departure date is the safer habit: it satisfies both.
 - Many countries in Asia and Africa enforce this rule - including popular destinations like Thailand, Indonesia, Vietnam, and India. Europe and most English-speaking countries generally don't.
 - Airlines can and do deny boarding if your passport falls short - even if the destination country itself would've let you in.
 - The rule gets applied inconsistently: the same country may waive it for some passport holders and enforce it for others based on bilateral agreements.
@@ -22,7 +22,7 @@ It's one of the most misunderstood requirements in international travel: it catc
 
 ## What Is the Passport Expiry 6 Month Rule?
 
-The rule requires your passport to be valid for at least six months beyond your planned departure date from the destination country. In practice, this means:
+The rule requires six months of passport validity for your trip. Most countries count that from the day you arrive, and some from the day you leave, so counting from your departure date covers both. In practice, this means:
 
 - If you're visiting Thailand and plan to leave on 1 August, your passport must stay valid until at least 1 February the following year.
 - A passport expiring on 30 November is technically "valid" for your August trip - but it fails this requirement by two months.
@@ -31,7 +31,7 @@ The logic is straightforward: countries want assurance you won't overstay your v
 
 **The rule isn't universal.** Each country sets its own terms, and requirements can differ based on your nationality. A bilateral agreement between two countries may waive the rule for citizens of one but not the other. That's what makes it so easy to get wrong without checking before each trip.
 
-![Hand-drawn diagram of the 6-month passport rule: a timeline showing your trip, the day you fly home, and six further months through which the passport must stay valid, counted from the departure date, with Thailand, Indonesia, Vietnam and India listed as enforcers and a note to renew once under 12 months remain](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/six-month-rule-figure.jpg) The six months are measured from the day you leave, not the day you land - and the airline applies the test before you ever reach a border.
+![Hand-drawn timeline of the 6-month passport rule: your trip runs from the day you arrive to the day you fly home, then a dashed six-month stretch through which the passport must stay valid, with a note that most countries count from the day you arrive and some from the day you leave, so counting from the later one covers both](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/six-month-rule-figure.jpg) Most countries count the six months from the day you arrive - counting from the later date covers you either way.
 
 ## Passport Validity Requirements by Country: Who Enforces the 6-Month Rule?
 
@@ -82,7 +82,7 @@ Getting past departure but denied entry by immigration on the other end is worse
 
 Treat your passport like a car tyre and don't wait until it's flat: renew as soon as you drop below 12 months of validity, which gives you a six-month buffer on top of the rule, with room to spare.
 
-Before any trip, count six months forward from your planned departure date out of the destination. Check your passport expiry against that date - not just your travel dates.
+Before any trip, count six months forward from the day you leave the destination, which is the later date and so satisfies either version of the rule. Check your passport expiry against that date - not just your travel dates.
 
 Managing multiple passports across a family with different expiry dates is where it gets messy. [Travel Document Vault](https://traveldocumentvault.com) tracks this automatically - storing each family member's passport expiry and sending reminders at six months, three months, and closer, so there's no mental arithmetic before every booking. You can also find more practical [travel document tips](https://traveldocumentvault.com/blog/) on the blog.
 
@@ -104,7 +104,7 @@ These sources tell you the official requirement and whether it applies to holder
 
 ### What exactly is the 6-month passport rule and why does it exist?
 
-The 6-month passport rule requires your passport to be valid for at least six months beyond your planned departure date from the destination. If it expires within that window, you can be denied boarding or entry - even if the passport itself hasn't technically expired yet.
+The 6-month passport rule requires six months of passport validity for your trip. Most countries measure it from the day you arrive, and some from the day you leave. If it expires within that window, you can be denied boarding or entry - even if the passport itself hasn't technically expired yet.
 
 ### Which countries enforce the 6-month passport validity rule in 2026?
 
@@ -120,7 +120,7 @@ Yes. Airlines check passport validity using an industry-wide database of entry r
 
 ### How do I check if my passport meets the 6-month rule?
 
-Count six months forward from your planned departure date out of the destination country, then check whether your passport expires after that date. If you're due to leave on 1 August, your passport needs to be valid until at least 1 February the following year. Apps like Travel Document Vault track this automatically for every family member, so you don't have to do the maths before every trip.
+Count six months forward from the day you leave the destination, then check whether your passport expires after that date. That is the later of the two dates countries use, so it covers both. If you're due to leave on 1 August, your passport needs to be valid until at least 1 February the following year. Apps like Travel Document Vault track this automatically for every family member, so you don't have to do the maths before every trip.
 
 ### Does the 6-month rule apply to EU citizens travelling within Europe?
 

@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/de/blog/why-i-built-travel-document-vaul
 
 ---
 
+![Ein ordentlicher Stapel Familienpässe mit einer eingesteckten Bordkarte auf tiefblauem Hintergrund](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/cover.jpg)
+
 Ich stand an der Einreisekontrolle, als der Beamte den Reisepass meiner Tochter betrachtete, kurz innehielt und dann zu mir aufschaute.
 
 „Sie wissen, dass dieser in sieben Monaten abläuft, oder?", sagte er. „Nur zur Information – manche Länder lassen Sie mit weniger als sechs Monaten Restgültigkeit nicht einreisen."

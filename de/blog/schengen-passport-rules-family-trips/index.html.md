@@ -49,7 +49,7 @@ Quellen: US Department of State, GOV.UK, Canada.ca, Australian Passport Office.
 
 Eine Familie von vier Menschen arbeitet daher auf vier verschiedenen Verfallsplänen. Das früheste Datum entscheidet, ob die Reise überhaupt stattfindet. Zwei zusammen erneuerte Erwachsene werden sich in den Reisepässen ihrer Kinder innerhalb weniger Jahre auseinander entwickeln - genau das ist der Grund, warum die Überprüfung Ihres eigenen Reisepasses fast nichts über die Bereitschaft der Familie aussagt.
 
-Für amerikanische Familien gibt es einen zusätzlichen Haken: Ein Kinderreisepass kann nicht per Post erneuert werden. Jede Erneuerung erfordert einen neuen persönlichen Antrag und die Routinebearbeitung dauert derzeit mehrere Wochen, plus Porto in beide Richtungen - das ist im März überschaubar, wird aber zwei Wochen vor der Abreise zu einem echten Problem. Britische Familien haben es etwas leichter: Prüfen Sie einfach die aktuellen Bearbeitungszeiten vor der Buchung und planen Sie zusätzliche Zeit ein, falls Informationen benötigt werden.
+Für amerikanische Familien gibt es einen zusätzlichen Haken: Ein Kinderreisepass kann nicht per Post erneuert werden. Jede Erneuerung erfordert einen neuen persönlichen Antrag, und die Bearbeitungszeit ändert sich - das US-Außenministerium veröffentlicht die aktuelle Angabe, prüfen Sie diese also, bevor Sie planen, zuzüglich Porto in beide Richtungen. Was im März überschaubar ist, wird kurz vor der Abreise schnell zu einem echten Problem. Britische Familien haben es etwas leichter: Prüfen Sie einfach die aktuellen Bearbeitungszeiten vor der Buchung und planen Sie zusätzliche Zeit ein, falls Informationen benötigt werden.
 
 ## Check-in-Realität: Timatic rundet nicht auf
 
@@ -79,7 +79,7 @@ Nein. Kinder benötigen dieselbe 3-Monats-Gültigkeit über die Ausreise hinaus 
 
 ### Wann sollten wir einen Kinderreisepass vor einer Reise erneuern?
 
-Prüfen Sie sofort nach der Buchung, ob der Reisepass noch 3 Monate Gültigkeit über Ihr Rückflugsdatum hat. Falls nicht, beginnen Sie sofort. Prüfen Sie die aktuellen Bearbeitungszeiten im Vereinigten Königreich und planen Sie zusätzliche Zeit ein, falls die Anwendung weitere Informationen benötigt. Die Routinebearbeitung in den USA dauert mehrere Wochen plus Porto in beide Richtungen. Ein Kinderreisepass aus den USA benötigt auch einen neuen persönlichen Antrag statt einer Verlängerung.
+Prüfen Sie sofort nach der Buchung, ob der Reisepass noch 3 Monate Gültigkeit über Ihr Rückflugsdatum hat. Falls nicht, beginnen Sie sofort. Prüfen Sie die aktuellen Bearbeitungszeiten im Vereinigten Königreich und planen Sie zusätzliche Zeit ein, falls die Anwendung weitere Informationen benötigt. Die Bearbeitungszeit in den USA ändert sich; prüfen Sie die aktuelle Angabe beim US-Außenministerium, zuzüglich Porto in beide Richtungen. Ein Kinderreisepass aus den USA benötigt auch einen neuen persönlichen Antrag statt einer Verlängerung.
 
 ### Können wir fliegen, während die Erneuerung des Kinderreisepasses läuft?
 

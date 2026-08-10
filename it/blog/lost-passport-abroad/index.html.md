@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/it/blog/lost-passport-abroad/
 ## Punti chiave
 
 - Presenti una denuncia alla polizia per primo - ne avrà bisogno sia per la domanda presso l'ambasciata che per il reclamo assicurativo.
-- La sua ambasciata o il consolato può rilasciare un documento di viaggio d'emergenza, spesso entro 24-48 ore. **Chiami in anticipo** - la maggior parte richiede un appuntamento.
+- La sua ambasciata o il consolato può rilasciare un documento di viaggio d'emergenza, generalmente molto più velocemente di un passaporto sostitutivo. **Chiami in anticipo** - la maggior parte richiede un appuntamento.
 - I viaggiatori con una copia digitale sicura del passaporto ottengono documenti di sostituzione più velocemente - fornisce i dettagli di cui ha bisogno l'ambasciata in pochi secondi.
 - L'assicurazione di viaggio copre i costi di sostituzione del passaporto nella maggior parte delle polizze complete. Avrà bisogno della denuncia alla polizia per reclamare.
 - Il momento per prepararsi è adesso, prima che qualcosa vada storto. Una scansione di cinque minuti oggi potrebbe risparmiarle giorni di stress all'estero.
@@ -47,7 +47,7 @@ Chiami prima di visitare. Molte ambasciate richiedono un appuntamento per i serv
 
 ## Passo 4: Richieda un documento di viaggio d'emergenza
 
-La sua ambasciata rilascia un documento di viaggio d'emergenza (ETD) o passaporto di emergenza, generalmente valido per un singolo viaggio di ritorno a casa. La maggior parte delle ambasciate li rilascia entro 24-48 ore in caso di vere emergenze, anche se la sua potrebbe essere diversa - chieda quando chiama.
+La sua ambasciata rilascia un documento di viaggio d'emergenza (ETD) o passaporto di emergenza, generalmente valido per un singolo viaggio di ritorno a casa. Il tempo di rilascio dipende dalla sede e dall'urgenza del Suo caso, quindi chieda quando telefona.
 
 Quello che probabilmente avrà bisogno (confermi con l'ambasciata prima di visitarla):
 
@@ -86,7 +86,7 @@ Presenti una denuncia alla polizia immediatamente, quindi contatti l'ambasciata 
 
 ### Posso ottenere un passaporto d'emergenza all'estero?
 
-Sì. La maggior parte dei paesi rilascia documenti di viaggio d'emergenza attraverso le loro ambasciate e consolati, generalmente validi per un singolo viaggio di ritorno a casa e spesso rilasciati entro 24-48 ore. Chiami il consolato o l'ambasciata più vicina il prima possibile - molti richiedono un appuntamento.
+Sì. La maggior parte dei paesi rilascia documenti di viaggio d'emergenza attraverso le loro ambasciate e consolati, generalmente validi per un singolo viaggio di ritorno a casa. Il tempo di rilascio dipende dalla sede e dall'urgenza del Suo caso, quindi chieda quando telefona. Chiami il consolato o l'ambasciata più vicina il prima possibile - molti richiedono un appuntamento.
 
 ### Ho bisogno di una denuncia alla polizia se il mio passaporto è rubato all'estero?
 

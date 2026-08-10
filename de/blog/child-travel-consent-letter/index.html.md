@@ -65,7 +65,7 @@ Länder, die normalerweise notarielle Beglaubigung oder Beglaubigung verlangen:
 - **Vereinigtes Königreich.** Nicht rechtlich erforderlich für ausgehende Reisen, aber Fluggesellschaften und Grenzbeamte des Ziellands können einen anfordern, wenn ein Kind nur mit einem Elternteil oder mit einem nicht-Elternteil-Erwachsenen reist. Eine beglaubigte Unterschrift eines Rechtsanwalts ist typisch.
 - **Vereinigte Staaten.** Nicht bundesweit vorgeschrieben, aber empfohlen. Einige Bundesstaaten erkennen notarielle Beglaubigung ausdrücklich an.
 
-Die notarielle Beglaubigung kostet normalerweise zwischen 20 und 100 US-Dollar pro Unterschrift, je nach Standort, und Sie sollten ein bis zwei Wochen einplanen, um einen Notartermin zu vereinbaren, besonders während der Schulferien. Überprüfen Sie immer zunächst die Anforderungen Ihres Ziellandes. Die Regeln des Ziellands bestimmen, ob notarielle Beglaubigung überhaupt erforderlich ist, nicht die Ihres Heimatlandes.
+Notargebühren variieren je nach Land und Notar sowie danach, wie schnell Sie einen Termin benötigen. Fragen Sie daher, was es kosten wird und wie weit im Voraus Sie buchen müssen, besonders während der Schulferien. Überprüfen Sie immer zunächst die Anforderungen Ihres Ziellandes. Die Regeln des Ziellands bestimmen, ob notarielle Beglaubigung überhaupt erforderlich ist, nicht die Ihres Heimatlandes.
 
 ## Häufige Fehler, die zur Ablehnung führen
 

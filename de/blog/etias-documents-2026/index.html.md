@@ -1,6 +1,6 @@
 # ETIAS 2026: Welche Dokumente Sie benötigen & Wie Sie sich anmelden
 
-> Besucher aus UK, USA und Kanada benötigen 2026 ETIAS. Reisepass (3+ Monate gültig), E-Mail, optionaler Einkommensnachweis. Kostet 20 Euro. Melden Sie sich 2 Monate im Voraus an.
+> Besucher aus UK, USA und Kanada benötigen 2026 ETIAS. Reisepass (3+ Monate gültig), E-Mail, optionaler Einkommensnachweis. Aktuelle Gebühr und Fristen auf der offiziellen EU-Website prüfen.
 
 Source: https://traveldocumentvault.com/de/blog/etias-documents-2026/
 
@@ -12,19 +12,19 @@ Source: https://traveldocumentvault.com/de/blog/etias-documents-2026/
 
 - **ETIAS startet 2026** für britische, US-amerikanische und kanadische Reisende - eine digitale Reisegenehmigung für visumfreie Einreise nach Europa
 - **Sie benötigen einen Reisepass, der 3+ Monate** über Ihr Abreisedatum hinaus gültig ist, und eine E-Mail-Adresse zum Beantragen
-- **Die Verarbeitung dauert bis zu 4 Wochen;** beantragen Sie mindestens 2 Monate vor Ihrer Reise, um Verzögerungen zu vermeiden
-- **Die Gebühr beträgt 20 Euro pro Erwachsenem;** kostenlos für unter 18 Jahren und über 70 Jahren
+- **Die Bearbeitungszeit variiert,** besonders kurz nach dem Start; beantragen Sie rechtzeitig vor Ihrer Reise und prüfen Sie die offizielle EU-Website für aktuelle Hinweise
+- **Prüfen Sie die aktuelle Gebühr auf der offiziellen EU-Website;** unter 18-Jährige und über 70-Jährige zahlen nicht, benötigen aber dennoch eine Genehmigung
 - **Häufige Ablehnungen erfolgen aufgrund nicht offengelegter Strafverurteilungen oder früherer Überziehungen - planen Sie entsprechend**
 
 Sie haben Ihre Sommerreise mit der Familie nach Italien gebucht, aber dann erfahren Sie, dass ETIAS Mitte 2026 startet, und Sie fragen sich, ob Sie es benötigen, welche Dokumente Sie vorbereiten müssen und wie lange der ganze Prozess dauert. Dieser Leitfaden beantwortet jede Frage, bevor Sie das Anmeldeformular erreichen.
 
-Das European Travel Information and Authorisation System (ETIAS) ist kein Visum - es ist eine digitale Vorabprüfung für Besucher aus visumfreien Ländern. Britische, US-amerikanische und kanadische Bürger kommen derzeit nach Europa, scannen Ihren Reisepass, beantworten einige Grenzfragen und passieren die Grenze. Ab 2026 verlagert sich dieser Prozess ins Internet, mehrere Wochen vor Ihrer Abreise.
+Das European Travel Information and Authorisation System (ETIAS) ist kein Visum - es ist eine digitale Vorabprüfung für Besucher aus visumfreien Ländern. Britische, US-amerikanische und kanadische Bürger kommen derzeit nach Europa, scannen Ihren Reisepass, beantworten einige Grenzfragen und passieren die Grenze. Ab 2026 verlagert sich dieser Prozess ins Internet, und Sie beantragen es, bevor Sie fliegen.
 
 ## Was ist ETIAS und wer benötigt es?
 
 ETIAS ist ein digitales Autorisierungssystem zur Stärkung der Grenzsicherheit und des Reisemanagements im Schengen-Raum. Es gilt für Bürger visumfreier Länder - also Länder, deren Bürger derzeit ohne Visum zu Kurzaufenthalten nach Europa einreisen können. Dies umfasst das Vereinigte Königreich, die USA, Kanada, Australien, Neuseeland und Dutzende weitere.
 
-Wenn Sie ein Visum wie ein Schengen-Langzeitvisum, ein britisches Familienvisum oder einen anderen Aufenthaltstitel haben, benötigen Sie kein ETIAS - genauso wenig wie EU-Bürger, norwegische, isländische und liechtensteinische Bürger. Kinder unter 18 Jahren und Erwachsene über 70 Jahren sind von der 20-Euro-Gebühr befreit, benötigen aber dennoch eine kostenlose Genehmigung.
+Wenn Sie ein Visum wie ein Schengen-Langzeitvisum, ein britisches Familienvisum oder einen anderen Aufenthaltstitel haben, benötigen Sie kein ETIAS - genauso wenig wie EU-Bürger, norwegische, isländische und liechtensteinische Bürger. Kinder unter 18 Jahren und Erwachsene über 70 Jahren sind von der Gebühr befreit, benötigen aber dennoch eine kostenlose Genehmigung.
 
 **ETIAS betrifft** Einzelreisende, Familien mit mehreren Mitgliedern, die separat einen Antrag stellen, digitale Nomaden, die wiederholte Kurzaufenthalte planen, und alle, die Reisen nach Europa für Ende 2026 und später buchen - denken Sie daran, dass jede Person zwischen 18 und 70 Jahren in Ihrer Familie einen eigenen ETIAS-Antrag benötigt.
 
@@ -54,11 +54,11 @@ Als Nächstes beantworten Sie Sicherheitsfragen, die Strafgeschichte, frühere D
 
 Gesundheitserklärungen sind unkompliziert - Sie werden gefragt, ob Sie Infektionskrankheiten oder schwerwiegende Zustände haben, die ein öffentliches Gesundheitsrisiko darstellen, was sich von den medizinischen Anforderungen der Reiseversicherung unterscheidet, da ETIAS sich speziell auf die Seuchenkontrolle konzentriert statt auf den persönlichen Gesundheitsstatus.
 
-Am Ende überprüfen Sie Ihre Informationen, zahlen die 20-Euro-Gebühr (kostenlos wenn unter 18 oder über 70) und reichen ein - woraufhin sofort eine Bestätigungsnummer generiert wird und Ihr Antrag die Verarbeitungswarteschlange betritt.
+Am Ende überprüfen Sie Ihre Informationen, zahlen die an der Kasse angezeigte Gebühr (kostenlos wenn unter 18 oder über 70) und reichen ein - woraufhin sofort eine Bestätigungsnummer generiert wird und Ihr Antrag die Verarbeitungswarteschlange betritt.
 
 ## Verarbeitungszeit und Ergebnistypen
 
-Während die Standard-Bearbeitungszeit **bis zu 4 Wochen** beträgt, empfiehlt die Europäische Kommission, mindestens 2 Monate vor Ihrer Reise einen Antrag zu stellen, um anfängliche Systemüberlastung nach dem Start, mögliche Verzögerungen bei Hintergrundprüfungen und Zeit zum Beheben von Ablehnungen bei Bedarf einzuplanen.
+Die Europäische Kommission veröffentlicht aktuelle Hinweise zur Bearbeitungszeit auf ihrer offiziellen Website, und es lohnt sich, diese zu prüfen, bevor Sie annehmen, genug Zeit zu haben. Hohe Nachfrage nach dem Start, Verzögerungen bei Hintergrundprüfungen und die Zeit zum Beheben einer Ablehnung können die Wartezeit alle verlängern, also stellen Sie Ihren Antrag so früh wie vernünftigerweise möglich vor Ihrer Reise.
 
 Es gibt drei mögliche Ergebnisse: genehmigt, abgelehnt oder Autorisierungsverweigerung.
 
@@ -120,7 +120,7 @@ Sie müssen einen gültigen Reisepass haben, der mindestens drei Monate über Ih
 
 ### Wie viel kostet ETIAS und wie lange dauert es?
 
-ETIAS kostet 20 Euro für Erwachsene. Kinder unter 18 Jahren sind kostenlos, ebenso Antragsteller über 70 Jahre. Die Gebühr ist nicht erstattbar, auch wenn Ihr Antrag abgelehnt wird. Die Standard-Bearbeitungszeit beträgt normalerweise 4 Wochen, aber die Europäische Kommission empfiehlt, mindestens 2 Monate vor Ihrer Reise einen Antrag zu stellen, um mögliche Verzögerungen während der anfänglichen Startphase einzuplanen.
+Die Europäische Kommission veröffentlicht die aktuelle ETIAS-Gebühr auf ihrer offiziellen Website. Kinder unter 18 Jahren und Antragsteller über 70 Jahre zahlen nicht, benötigen aber dennoch eine Genehmigung. Die Gebühr ist nicht erstattbar, auch wenn Ihr Antrag abgelehnt wird. Die Bearbeitungszeit variiert, besonders während der anfänglichen Startphase, also prüfen Sie die offizielle Anleitung und stellen Sie Ihren Antrag rechtzeitig vor Ihrer Reise statt kurz vor dem Abreisedatum.
 
 ### Was passiert, wenn mein ETIAS-Antrag abgelehnt wird?
 

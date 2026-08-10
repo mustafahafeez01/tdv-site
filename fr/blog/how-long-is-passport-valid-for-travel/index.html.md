@@ -72,7 +72,7 @@ La réponse pratique est: lorsque vous passez sous 12 mois de validité restante
 Voici pourquoi 12 mois est le bon seuil et pas la date d'expiration elle-même:
 
 - Cela vous donne un délai tampon complet de 6 mois pour toute destination qui applique la règle.
-- Le renouvellement du passeport prend du temps - les renouvellements de passeport au Royaume-Uni prennent généralement environ 3 semaines (et le bureau des passeports HM dit de ne pas réserver de voyage jusqu'à l'arrivée du nouveau passeport) et le traitement standard aux États-Unis s'étend de 4 à 6 semaines, donc commencer avec 6 mois restants ne laisse que peu de marge.
+- Le renouvellement du passeport prend du temps, et les délais de traitement changent - le bureau des passeports HM déconseille de réserver un voyage avant l'arrivée du nouveau passeport, et lui comme le Département d'État américain publient leurs délais de traitement actuels. C'est pourquoi commencer avec 6 mois restants ne laisse que peu de marge.
 - Les plans de dernière minute arrivent. Un passeport avec 14 mois restants garde toutes les destinations ouvertes. Un passeport avec 5 mois restants ferme une grande partie du monde.
 
 L'erreur la plus courante est de définir un rappel sur la date d'expiration elle-même. À ce moment-là, vous ne pouvez pas voyager vers la plupart des destinations qui appliquent la règle des 6 mois. **Définissez votre rappel de renouvellement à la marque de 12 mois.**
@@ -93,7 +93,7 @@ Vers la plupart des destinations européennes, oui - votre passeport doit simple
 
 ### Quand devrais-je renouveler mon passeport?
 
-Renouvelez-le lorsque vous passez sous 12 mois de validité restante. Cela vous donne un délai tampon pour la règle des 6 mois et tient compte du temps que le renouvellement prend - généralement environ 3 semaines au Royaume-Uni et 4 à 6 semaines aux États-Unis, plus longtemps pendant les périodes chargées.
+Renouvelez-le lorsque vous passez sous 12 mois de validité restante. Cela vous donne un délai tampon pour la règle des 6 mois et tient compte du temps que le renouvellement prend - cela varie selon le pays et la période de l'année ; le HM Passport Office et le Département d'État américain publient tous deux leurs délais de traitement actuels.
 
 ### Les passeports d'enfants expirent-ils plus vite que les passeports pour adultes?
 

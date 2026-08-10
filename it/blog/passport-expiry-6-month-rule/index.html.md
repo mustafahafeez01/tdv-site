@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/
 
 ## Punti Chiave
 
-- La **regola dei 6 mesi di validità del passaporto** significa che il vostro passaporto deve restare valido per almeno sei mesi oltre la data in cui intendete partire da un paese - non solo la data di arrivo.
+- La **regola dei 6 mesi di validità del passaporto** significa che il vostro passaporto deve avere sei mesi di validità residua quando viaggiate. La maggior parte dei paesi la calcola dal giorno del vostro arrivo, e alcuni dal giorno della vostra partenza, quindi calcolarla dalla data di partenza è l'abitudine più sicura: soddisfa entrambi i casi.
 - Molti paesi in Asia e Africa applicano questa regola - incluse destinazioni popolari come Thailandia, Indonesia, Vietnam e India. Europa e la maggior parte dei paesi di lingua inglese generalmente non la applicano.
 - Le compagnie aeree possono e negano l'imbarco se il vostro passaporto non rispetta il requisito - anche se il paese di destinazione stessa vi avrebbe fatto entrare.
 - La regola viene applicata in modo incoerente: lo stesso paese può rinunciarvi per alcuni possessori di passaporti e applicarla per altri sulla base di accordi bilaterali.
@@ -22,7 +22,7 @@ L'ufficiale dell'immigrazione ha guardato il passaporto di mia figlia, ha fatto 
 
 ## Qual è la Regola di Validità dei 6 Mesi del Passaporto?
 
-La regola richiede che il vostro passaporto sia valido per almeno sei mesi oltre la data in cui intendete partire dal paese di destinazione. In pratica, questo significa:
+La regola richiede sei mesi di validità del passaporto per il vostro viaggio. La maggior parte dei paesi la calcola dal giorno del vostro arrivo, e alcuni dal giorno della vostra partenza, quindi calcolarla dalla data di partenza copre entrambi i casi. In pratica, questo significa:
 
 - Se visitate la Thailandia e intendete partire il 1 agosto, il vostro passaporto deve restare valido almeno fino al 1 febbraio dell'anno successivo.
 - Un passaporto che scade il 30 novembre è tecnicamente "valido" per il vostro viaggio di agosto - ma non soddisfa questo requisito di due mesi.
@@ -82,7 +82,7 @@ Se raggiungete la destinazione e vi vengono negati dall'immigrazione? Questo è 
 
 Trattate il vostro passaporto come uno pneumatico di un'auto - non aspettate che sia sgonfio. Rinnovate quando scendete sotto 12 mesi di validità. Questo vi dà un margine di sei mesi oltre la regola, con spazio di riserva.
 
-Prima di qualsiasi viaggio, contate sei mesi a partire dalla data di partenza prevista dal paese di destinazione. Controllate la scadenza del vostro passaporto rispetto a quella data - non solo le date di viaggio.
+Prima di qualsiasi viaggio, contate sei mesi a partire dal giorno in cui lasciate la destinazione, che è la data più tardiva e quindi soddisfa entrambe le versioni della regola. Controllate la scadenza del vostro passaporto rispetto a quella data - non solo le date di viaggio.
 
 Gestire più passaporti su una famiglia con date di scadenza diverse è dove diventa complicato. [Travel Document Vault](https://traveldocumentvault.com/it/) traccia questo automaticamente - memorizzando la scadenza del passaporto di ogni membro della famiglia e inviando promemoria a sei mesi, tre mesi e oltre. Nessun calcolo mentale prima di ogni prenotazione. Potete anche trovare ulteriori consigli pratici [su come gestire i documenti di viaggio](https://traveldocumentvault.com/it/) sul blog.
 
@@ -104,7 +104,7 @@ Queste fonti vi dicono il requisito ufficiale e se si applica ai possessori del 
 
 ### Cos'è esattamente la regola dei 6 mesi del passaporto e perché esiste?
 
-La regola dei 6 mesi del passaporto richiede che il vostro passaporto sia valido per almeno sei mesi oltre la data in cui intendete partire dalla destinazione. Se scade in quella finestra, potete essere negati l'imbarco o l'ingresso - anche se il passaporto stesso non è tecnicamente scaduto ancora.
+La regola dei 6 mesi del passaporto richiede sei mesi di validità del passaporto per il vostro viaggio. La maggior parte dei paesi la misura dal giorno del vostro arrivo, e alcuni dal giorno della vostra partenza. Se scade in quella finestra, potete essere negati l'imbarco o l'ingresso - anche se il passaporto stesso non è tecnicamente scaduto ancora.
 
 ### Quali paesi applicano la regola di validità del passaporto di 6 mesi nel 2026?
 
@@ -120,7 +120,7 @@ Sì. Le compagnie aeree controllano la validità del passaporto utilizzando un d
 
 ### Come controllo se il mio passaporto soddisfa la regola dei 6 mesi?
 
-Contate sei mesi a partire dalla data di ritorno prevista, quindi controllate se il vostro passaporto scade dopo quella data. Se rientrate il 1 agosto, il vostro passaporto deve restare valido almeno fino al 1 febbraio dell'anno seguente. App come Travel Document Vault tracciano questo automaticamente per ogni membro della famiglia, quindi non dovete fare i calcoli prima di ogni viaggio.
+Contate sei mesi a partire dal giorno in cui lasciate la destinazione, quindi controllate se il vostro passaporto scade dopo quella data. Questa è la più tardiva delle due date usate dai paesi, quindi copre entrambi i casi. Se partite il 1 agosto, il vostro passaporto deve restare valido almeno fino al 1 febbraio dell'anno seguente. App come Travel Document Vault tracciano questo automaticamente per ogni membro della famiglia, quindi non dovete fare i calcoli prima di ogni viaggio.
 
 ### La regola dei 6 mesi si applica ai cittadini dell'UE che viaggiano in Europa?
 

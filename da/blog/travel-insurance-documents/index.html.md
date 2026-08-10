@@ -156,6 +156,6 @@ Rejseforsikring beskytter dig i de fleste lande verden over under din rejse, men
 
 ## Relaterede artikler
 
-[Rejseforberedelse8 min læsningHvilke dokumenter skal du medhave på international rejse](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/)
+[Rejseforberedelse8 min læsningHvilke dokumenter skal du medhave på international rejse](https://traveldocumentvault.com/da/blog/what-documents-to-carry-when-travelling-internationally/)
 
-[Rejseforberedelse7 min læsningHvad du skal gøre nu hvis dit pas bliver væk i udlandet](https://traveldocumentvault.com/blog/lost-passport-abroad/)
+[Rejseforberedelse7 min læsningHvad du skal gøre nu hvis dit pas bliver væk i udlandet](https://traveldocumentvault.com/da/blog/lost-passport-abroad/)

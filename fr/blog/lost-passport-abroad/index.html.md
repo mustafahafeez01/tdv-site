@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/fr/blog/lost-passport-abroad/
 ## Points clés
 
 - Déposez un rapport de police d'abord - vous en avez besoin pour votre demande à l'ambassade et votre réclamation d'assurance.
-- Votre ambassade ou consulat peut délivrer un document de voyage d'urgence, souvent dans les 24 à 48 heures. **Appelez à l'avance** - la plupart exigent un rendez-vous.
+- Votre ambassade ou consulat peut délivrer un document de voyage d'urgence, généralement bien plus vite qu'un passeport de remplacement. **Appelez à l'avance** - la plupart exigent un rendez-vous.
 - Les voyageurs qui disposent d'une copie numérique sécurisée de leur passeport obtiennent les documents de remplacement plus rapidement - vous fournissez les détails dont votre ambassade a besoin en quelques secondes.
 - L'assurance voyage couvre les frais de remplacement du passeport dans la plupart des polices complètes. Vous avez besoin du rapport de police pour la réclamation.
 - Le moment de vous préparer, c'est maintenant, avant que quelque chose n'aille mal. Une numérisation de cinq minutes aujourd'hui pourrait vous économiser des jours de stress à l'étranger.
@@ -47,7 +47,7 @@ Appelez avant de visiter. De nombreuses ambassades exigent un rendez-vous pour l
 
 ## Étape 4 - Demandez un document de voyage d'urgence
 
-Votre ambassade délivre un document de voyage d'urgence (DTU) ou un passeport d'urgence, généralement valable pour un seul voyage vers la maison. La plupart des ambassades les délivrent dans les 24 à 48 heures pour les véritables urgences, bien que la vôtre puisse être différente - demandez-le lorsque vous appelez.
+Votre ambassade délivre un document de voyage d'urgence (DTU) ou un passeport d'urgence, généralement valable pour un seul voyage vers la maison. Le délai de délivrance dépend du poste consulaire et de l'urgence de votre situation, alors renseignez-vous lorsque vous appelez.
 
 Ce dont vous aurez généralement besoin (confirmez avec votre ambassade avant de visiter):
 
@@ -86,7 +86,7 @@ Déposez un rapport de police immédiatement, puis contactez votre ambassade ou 
 
 ### Puis-je obtenir un passeport d'urgence à l'étranger?
 
-Oui. La plupart des pays délivrent des documents de voyage d'urgence par l'intermédiaire de leurs ambassades et consulats, généralement valables pour un seul voyage vers la maison et souvent délivrés dans les 24 à 48 heures. Appelez votre ambassade ou consulat le plus proche dès que possible - beaucoup exigent un rendez-vous.
+Oui. La plupart des pays délivrent des documents de voyage d'urgence par l'intermédiaire de leurs ambassades et consulats, généralement valables pour un seul voyage vers la maison. Le délai de délivrance dépend du poste consulaire et de l'urgence de votre situation, alors renseignez-vous en appelant. Appelez votre ambassade ou consulat le plus proche dès que possible - beaucoup exigent un rendez-vous.
 
 ### Ai-je besoin d'un rapport de police si mon passeport est volé à l'étranger?
 

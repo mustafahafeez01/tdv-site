@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/ko/blog/why-i-built-travel-document-vaul
 
 ---
 
+![탑승권이 끼워진 가족 여권 묶음이 짙은 남색 배경 위에 놓여 있다](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/cover.jpg)
+
 입국심사대에서 담당 직원이 딸아이의 여권을 확인하더니 잠시 멈추고 저를 바라봤습니다.
 
 "7개월 후에 만료된다는 거 알고 계시죠?" 그가 말했습니다. "참고로 말씀드리면, 유효기간이 6개월 미만이면 입국을 거부하는 나라들이 있습니다."

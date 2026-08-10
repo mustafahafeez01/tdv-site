@@ -87,6 +87,8 @@ Modern smartphones shoot at 12 megapixels or higher, which is plenty for passpor
 - **Wrong background:** Coloured background, pattern, or uneven white background. Plain white or off-white poster board or bedsheet works best - ensure no visible texture or shadows.
 - **Excessive head room or cropping:** Face too small or positioned incorrectly in frame. Your country's rules will state exactly how much of the frame your face should fill, usually as a chin-to-crown measurement rather than a percentage - work to that figure, not to what looks right.
 
+![Hand-drawn sketchnote of six rejected passport photos - shadow behind the head, smiling, glasses glare, hair across the eyes, patterned background and photo taken too close - beside one accepted photo on a plain background with a neutral face and even light](https://traveldocumentvault.com/blog/passport-photo-at-home/passport-photo-figure.jpg) Six ways a photo gets sent back, and the one setup that passes.
+
 ## From Smartphone to Official Photo: The Process
 
 Your smartphone photo is rarely the right size straight away. After shooting, you'll need to crop it to your country's exact specifications, then decide whether to print it or upload it digitally.

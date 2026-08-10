@@ -104,8 +104,8 @@ Source: https://traveldocumentvault.com/ru/blog/family-passport-management/
 
 ## Связанные статьи
 
-[Путешествия с семьей6 мин чтения · июль 2026Письмо о согласии на путешествие ребенка: что нужно знать родителям](https://traveldocumentvault.com/blog/child-travel-consent-letter/)
+[Путешествия с семьей6 мин чтения · июль 2026Письмо о согласии на путешествие ребенка: что нужно знать родителям](https://traveldocumentvault.com/ru/blog/child-travel-consent-letter/)
 
-[Организация8 мин чтения · июнь 2026Как организовать документы путешествия семьи перед каждой поездкой](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+[Организация8 мин чтения · июнь 2026Как организовать документы путешествия семьи перед каждой поездкой](https://traveldocumentvault.com/ru/blog/how-to-organise-family-travel-documents/)
 
-[Конфиденциальность и безопасность7 мин чтения · май 2026Самый безопасный способ хранить паспорт в цифровом виде: зашифрованный облако или публичное облако](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/)
+[Конфиденциальность и безопасность7 мин чтения · май 2026Самый безопасный способ хранить паспорт в цифровом виде: зашифрованный облако или публичное облако](https://traveldocumentvault.com/ru/blog/safest-way-to-store-passport-digitally/)

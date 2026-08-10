@@ -40,11 +40,11 @@ Book travel insurance when you book flights, not a week before departure. Insura
 
 ## Three Months Before: Renewal and Visa Windows
 
-At this point you still have time to fix things. Standard passport renewal currently takes 4-6 weeks in the US (via travel.state.gov), usually around 3 weeks in the UK (via GOV.UK), and at least 6 weeks in Australia (via the Australian Passport Office). Always check the official site for current times before you apply.
+At this point you still have time to fix things. Renewal times change, and each authority publishes its own current figure: the US State Department, HM Passport Office, and the Australian Passport Office. Always check the official site for current times before you apply.
 
 Any passport expiring within 12 months: start the renewal process now. Children's passports expire faster - 5 years in most countries versus 10 for adults - and parents frequently miss the window. For New Zealand applicants, check the New Zealand Passport Office for current timelines; demand spikes in the lead-up to summer.
 
-Submit any visa applications with a processing window of four or more weeks. Prepare supporting documents: bank statements, accommodation confirmations, onward travel proof. Book a biometrics appointment in advance if the visa requires it.
+Submit any visa applications that need lead time, and check the issuing authority for how long it currently takes. Prepare supporting documents: bank statements, accommodation confirmations, onward travel proof. Book a biometrics appointment in advance if the visa requires it.
 
 For families: if a child is travelling with only one parent or another adult, prepare a child travel consent letter now. Include the child's full name and date of birth, both parents' contact details, travel dates, destinations, and the absent parent's signature. A notarised copy is more convincing at immigration and worth the extra step.
 

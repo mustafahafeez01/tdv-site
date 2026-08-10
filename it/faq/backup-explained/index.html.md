@@ -80,4 +80,4 @@ Download gratuito. Vault Export e backup locali sono inclusi per tutti. Pro aggi
 
 [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
-![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
+![Disponibile su Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

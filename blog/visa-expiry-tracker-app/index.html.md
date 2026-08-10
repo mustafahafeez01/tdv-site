@@ -54,7 +54,7 @@ The consequences of a visa overstay vary by country but are consistently serious
 - **UK:** Overstays are recorded and will affect future visa applications. The UK Home Office considers overstays when assessing credibility and may refuse subsequent applications.
 - **Australia:** Overstaying your visa may result in restrictions on future visa applications and removal from the country. Under the Migration Act 1958, overstay records are tracked and will affect future visa applications and re-entry eligibility.
 - **Schengen Area:** Overstays are tracked in the Schengen Information System (SIS). A ban issued by one Schengen country applies across all 27 member states.
-- **Thailand:** Overstays incur a fine of 500 Thai Baht per day (approximately USD $14), up to 20,000 Baht, and may result in arrest and deportation for extended overstays.
+- **Thailand:** Overstays incur a daily fine set by Thai immigration, up to a capped maximum, and may result in arrest and deportation for extended overstays.
 
 In all cases, the overstay record typically follows you: it appears in immigration databases checked at future border crossings and visa applications.
 
@@ -65,7 +65,7 @@ With all that complexity in mind, a good visa expiry tracker app needs to handle
 - **Separate fields for entry validity and maximum stay:** These are different dates and need separate reminders.
 - **Entry count tracking:** Single vs. double vs. multiple-entry matters for whether the visa survives an exit and re-entry.
 - **Offline access:** You need your visa details at borders where internet may be unreliable.
-- **Custom reminder timings:** A long-stay work visa might warrant a 90-day reminder; a tourist visa might warrant 2 weeks. One-size-fits-all reminders are not appropriate.
+- **Custom reminder timings:** A long-stay work visa might warrant a 90-day reminder; a tourist visa needs enough notice to arrange departure without rushing. One-size-fits-all reminders are not appropriate.
 - **Multiple document types and travellers:** If you travel as a family, every family member's visa needs tracking independently.
 - **Privacy model:** Visa details are identity-linked sensitive data. As with passport storage, on-device encryption with no cloud upload is the safest architecture.
 - **Passport + visa tracking together:** A common but overlooked mistake is having a valid visa but a passport that expires during your planned stay. Having both tracked in the same place prevents this mismatch.
@@ -78,7 +78,7 @@ With all that complexity in mind, a good visa expiry tracker app needs to handle
 2. **Calculate and note your latest permitted exit date.** Add your maximum stay duration to your entry date. This is the date you must leave by - earlier if you need time to reach a departure point.
 3. **Track single vs. multiple entry status.** If your visa is single-entry, a day trip to a neighbouring country voids it - plan accordingly.
 4. **For Schengen travel, keep a log of entry and exit dates.** Use the European Commission's official calculator to verify your remaining days before any trip that follows recent Schengen travel.
-5. **Set a reminder at least 2 weeks before your maximum stay deadline.** This gives you time to arrange a departure without rushing, especially if transport options in your destination are limited.
+5. **Set a reminder well before your maximum stay deadline.** This gives you time to arrange a departure without rushing, especially if transport options in your destination are limited.
 
 Related rules that interact with visa tracking: see our guide to the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/), which can prevent you from entering even with a valid visa if your passport expires too soon after your planned departure.
 
@@ -104,7 +104,7 @@ The best ones do. Offline access matters at borders and in areas with unreliable
 
 ### How far in advance should I get a reminder before my visa expires?
 
-It depends on the visa type. For long-stay visas requiring renewal, 90 days is a reasonable minimum. For tourist visas with fixed maximum stay durations, 2 weeks before your latest permitted exit date gives time to arrange departure without rushing. Look for apps that let you set custom timings per document.
+It depends on the visa type. For long-stay visas requiring renewal, 90 days is a reasonable minimum. For tourist visas with fixed maximum stay durations, give yourself enough notice before your latest permitted exit date to arrange departure without rushing. Look for apps that let you set custom timings per document.
 
 ## Related Articles
 

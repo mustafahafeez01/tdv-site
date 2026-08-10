@@ -32,7 +32,7 @@ TripCase no inventó mucho, pero perfeccionó un puñado de flujos de trabajo, y
 
 Su núcleo era **el análisis de correo electrónico a itinerario** - reenvía cualquier confirmación de aerolínea, hotel o alquiler de auto y la aplicación la reunía en un viaje cronológico con fechas y referencias de reserva. Sin entrada manual significaba un itinerario completo en segundos, que es exactamente por qué la gente se quedó durante una década.
 
-**Las alertas de vuelos en tiempo real** llegaron junto a eso: retrasos, cambios de puerta y cancelaciones a menudo antes de la notificación de la propia aerolínea. TripIt ahora cobra alrededor de 49 dólares al año por lo equivalente en su nivel Pro, mientras TripCase ofrecía la característica a todos gratis.
+**Las alertas de vuelos en tiempo real** llegaron junto a eso: retrasos, cambios de puerta y cancelaciones a menudo antes de la notificación de la propia aerolínea. TripIt ahora cobra por su nivel Pro para obtener el equivalente, mientras TripCase ofrecía la característica a todos gratis.
 
 Esos vuelos, hoteles y transporte terrestre vivían en **la cronología de viajes** - una pila desplazable por viaje. Simple, pero si alguna vez has manejado una semana de varias ciudades desde una docena de correos de confirmación, entiendes por qué importaba. En hilos de foros en FlyerTalk y en otros lugares, los ex usuarios consistentemente mencionan el **Document Vault** como la pieza más perdida - ese único hogar seguro para tarjetas de embarque, visas, pasaportes y confirmaciones. Finalmente, **el intercambio de viajes** permitía que miembros de la familia o colegas siguieran sin correos reenviados.
 
@@ -50,10 +50,10 @@ TripCase empaquetaba varios trabajos diferentes en una sola aplicación gratuita
 
 | El trabajo | Lo que TripCase hacía | Mejor reemplazo ahora | Costo |
 |---|---|---|---|
-| Alertas de vuelos | Retrasos en tiempo real, cambios de puerta, cancelaciones | Flighty | Nivel gratuito; suscripción de pago (los precios varían) |
-| Análisis de correo a itinerario | Reenvía una confirmación, el viaje se construye a sí mismo | TripIt o Tripsy | TripIt tiene un nivel gratuito; Pro es aproximadamente 49 dólares al año |
+| Alertas de vuelos | Retrasos en tiempo real, cambios de puerta, cancelaciones | Flighty | Nivel gratuito; suscripción de pago disponible |
+| Análisis de correo a itinerario | Reenvía una confirmación, el viaje se construye a sí mismo | TripIt o Tripsy | TripIt tiene un nivel gratuito; consulta su sitio para los precios Pro actuales |
 | Cronología de viajes | Una vista cronológica por viaje | TripIt o Tripsy | Incluido con lo anterior |
-| Almacenamiento de documentos de viaje | El Document Vault: pasaportes, visas, tarjetas de embarque | Travel Document Vault | Gratuito para comenzar; 9,99 dólares de una sola vez |
+| Almacenamiento de documentos de viaje | El Document Vault: pasaportes, visas, tarjetas de embarque | Travel Document Vault | Compra única, sin suscripción |
 | Intercambio de viajes | Los seguidores veían tu itinerario en vivo | Intercambio de TripIt, o una carpeta compartida | Gratuito |
 
 Las alertas de vuelos y el análisis de itinerarios son comodidades - genuinamente útiles - y pertenecen a la nube porque solo importan mientras un viaje está en vivo. El almacenamiento de documentos, sin embargo, es diferente: es el único trabajo donde perder acceso realmente te cuesta algo que no puedes reprogramar.

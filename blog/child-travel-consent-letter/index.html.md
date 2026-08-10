@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/child-travel-consent-letter/
 - Common rejections come from missing information, lack of notarisation, outdated signatures, or unverifiable contact numbers.
 - Carry a printed copy as the primary document, and keep an encrypted digital backup for emergencies.
 
-You arrive at the airline desk with your daughter, ready for a long-awaited trip to see your sister in Toronto. The agent asks for your consent letter. You have one, and it is signed, but it was signed eighteen months ago, before her last passport renewal, and the passport number on the letter no longer matches the passport in your hand. The agent shakes their head. You are not boarding.
+You arrive at the airline desk with your daughter, ready for a long-awaited trip to see your sister in Toronto. The agent asks for your consent letter. You have one, and it is signed, but it was signed a while ago, before her last passport renewal, and the passport number on the letter no longer matches the passport in your hand. The agent shakes their head. You are not boarding.
 
 That scenario - and thousands like it - happens because child travel consent letters are one of the most commonly misunderstood travel documents. Rules vary widely by country, and a letter that works fine on one trip can fail at the border on the next. Knowing exactly when one is required, what it must contain, and how to keep it valid prevents the most common reasons families get stopped at the border.
 
@@ -67,7 +67,7 @@ Countries that typically require notarisation or certification:
 - **United Kingdom.** Not legally required for outbound travel, but airlines and destination border officers may request one when a child travels with one parent or with a non-parent adult. A solicitor's certified signature is typical.
 - **United States.** Not federally mandated but recommended. Some states recognise notarisation explicitly.
 
-Notarisation typically costs between $20 and $100 per signature, depending on location, and you should allow one to two weeks to schedule a notary appointment, especially during school holidays. Always confirm your destination's requirements first. The destination country's rules determine whether notarisation is needed at all, not your home country's.
+Notary fees vary by country and by notary, and by how quickly you need an appointment, so ask what it will cost and how far ahead you need to book, especially during school holidays. Always confirm your destination's requirements first. The destination country's rules determine whether notarisation is needed at all, not your home country's.
 
 ## Common Mistakes That Get Letters Rejected
 
@@ -122,7 +122,7 @@ In the days before departure, run through this checklist:
 - If your child's passport is renewed before travel, obtain a fresh letter showing the new passport number.
 - Do not laminate a notarised letter. Lamination can invalidate certification.
 
-Ten minutes against this checklist is a lot cheaper than finding out at the desk that your letter no longer matches the passport in your hand.
+Running through this checklist is a lot cheaper than finding out at the desk that your letter no longer matches the passport in your hand.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
