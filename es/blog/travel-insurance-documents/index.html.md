@@ -70,7 +70,7 @@ Una tarjeta escrita a mano funciona tan bien como una impresión: número de pó
 | **Almacenamiento en nube con acceso sin conexión** | Sí, si se descargó previamente | Depende del caché local; funciona si el teléfono tiene el archivo en caché | Recuperable en un teléfono de reemplazo con inicio de sesión |
 | **Correo Electrónico** | Requiere conexión a internet | Poco confiable - podrías no tener señal o datos | Aún accesible pero tiempo y problemático de buscar |
 | **Copia física (tarjeta laminada o impresión)** | Sí, siempre accesible | La más rápida si tu teléfono está muerto o perdido | Se pierde si el pasaporte se pierde; guarda en bolsillo separado |
-| **Aplicación encriptada (ej. Travel Document Vault)** | Sí, almacenado localmente en teléfono | Acceso al instante, diseñado para este escenario | Encriptado y privado; respaldo en nube opcional |
+| **Aplicación cifrada (ej. Travel Document Vault)** | Sí, almacenado localmente en teléfono | Acceso al instante, diseñado para este escenario | Cifrado y privado; respaldo en nube opcional |
 
 ## Errores Comunes de Reclamación Que Cuestan Miles
 

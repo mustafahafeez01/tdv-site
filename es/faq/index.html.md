@@ -36,7 +36,7 @@ Sí. Tu compra cubre todas las actualizaciones dentro de la versión principal a
 
 ¿Qué pasa si pierdo mi teléfono o cambio a uno nuevo?
 
-Como no almacenamos tus datos en servidores, no podemos restaurarlos para ti. Las copias de seguridad del sistema (iCloud o Google) no restauran tus documentos porque la clave de cifrado nunca sale de tu dispositivo original. Usa la función Exportar (gratuita) para crear una copia de seguridad de tu bóveda encriptada antes de cambiar de teléfono, o activa la copia de seguridad encriptada en tu propio iCloud o Google Drive (Pro) para restauración con un toque.
+Como no almacenamos tus datos en servidores, no podemos restaurarlos para ti. Las copias de seguridad del sistema (iCloud o Google) no restauran tus documentos porque la clave de cifrado nunca sale de tu dispositivo original. Usa la función Exportar (gratuita) para crear una copia de seguridad de tu bóveda cifrada antes de cambiar de teléfono, o activa la copia de seguridad cifrada en tu propio iCloud o Google Drive (Pro) para restauración con un toque.
 
 ¿Funciona la aplicación sin conexión a internet?
 

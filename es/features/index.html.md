@@ -1,6 +1,6 @@
 # Características: Escanea, rastrea y protege tus documentos
 
-> Escaneo OCR, recordatorios inteligentes, perfiles familiares, rastreador de límites de días por país. Encriptación AES-256-GCM, sin servidores.
+> Escaneo OCR, recordatorios inteligentes, perfiles familiares, rastreador de límites de días por país. Cifrado AES-256-GCM, sin servidores.
 
 Source: https://traveldocumentvault.com/es/features/
 
@@ -34,7 +34,7 @@ Pro
 
 ### Tu Nube. Tu Clave.
 
-Copia de seguridad encriptada opcional a tu iCloud o Google Drive personal. Mantienes el código de recuperación. Nunca accedemos a él. Sincronización entre dispositivos sin requerimiento de confianza cero. Consulta los [principios de protección de datos del ICO del Reino Unido](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/) para mejores prácticas de copia de seguridad.
+Copia de seguridad cifrada opcional a tu iCloud o Google Drive personal. Mantienes el código de recuperación. Nunca accedemos a él. Sincronización entre dispositivos sin requerimiento de confianza cero. Consulta los [principios de protección de datos del ICO del Reino Unido](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/) para mejores prácticas de copia de seguridad.
 
 Pro
 
@@ -74,9 +74,9 @@ Desbloquea planificación de viajes, copia de seguridad en la nube y perfiles il
 
 Captura tanto la página de foto como la página de datos. El escaneo MRZ lee la zona legible por máquina para rellenar automáticamente el nombre, número y fecha de vencimiento al instante.
 
-### Almacenamiento Encriptado
+### Almacenamiento Cifrado
 
-Los documentos se encriptan en el disco con AES-256-GCM. Los archivos son ilegibles sin tus claves de desencriptación, incluso si alguien obtiene acceso físico a tu dispositivo.
+Los documentos se encriptan en el disco con AES-256-GCM. Los archivos son ilegibles sin tus claves de descifrado, incluso si alguien obtiene acceso físico a tu dispositivo.
 
 ### Identificaciones y Licencias de Conducir
 
@@ -270,9 +270,9 @@ Desbloquea con Face ID o Touch ID en lugar de PIN. Gratis para todos los usuario
 
 Las pantallas de documentos se protegen automáticamente de capturas de pantalla y grabaciones de pantalla. Tu información sensible permanece en la pantalla, no en la galería de fotos de alguien.
 
-### Almacenamiento Encriptado
+### Almacenamiento Cifrado
 
-Los documentos se encriptan en tu dispositivo usando encriptación estándar de la industria. Tus datos están protegidos incluso si tu dispositivo se ve comprometido.
+Los documentos se encriptan en tu dispositivo usando cifrado estándar de la industria. Tus datos están protegidos incluso si tu dispositivo se ve comprometido.
 
 Operaciones por Lote
 

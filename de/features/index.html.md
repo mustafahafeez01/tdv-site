@@ -204,7 +204,7 @@ Entsperren Sie Reiseplanung, Cloud-Backup und unbegrenzte Profile. Pro-Benutzer 
 
 ![Im Google Play laden](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Natives Erlebnis
 
-## Für dein Gerät gebaut
+## Für Ihr Gerät gebaut
 
 ### Dunkel- & Hellmodus
 

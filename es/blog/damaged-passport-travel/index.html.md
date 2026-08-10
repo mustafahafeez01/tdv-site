@@ -79,7 +79,7 @@ Aquí ayuda tener una foto digital nítida de tu pasaporte. Guarda la página de
 
 Esto es especialmente valioso si estás en el extranjero cuando tu pasaporte se daña y necesitas un documento de viaje de emergencia de tu embajada. Los funcionarios consulares trabajan más rápido cuando tienen delante un escaneo de tu pasaporte original.
 
-Guarda tus copias digitales en un lugar encriptado y sin conexión - no en Google Photos ni en un iCloud compartido con otras personas. Travel Document Vault está pensado exactamente para este caso de uso: fotos de pasaporte encriptadas solo en tu dispositivo, accesibles al instante si algo sale mal.
+Guarda tus copias digitales en un lugar cifrado y sin conexión - no en Google Photos ni en un iCloud compartido con otras personas. Travel Document Vault está pensado exactamente para este caso de uso: fotos de pasaporte cifradas solo en tu dispositivo, accesibles al instante si algo sale mal.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

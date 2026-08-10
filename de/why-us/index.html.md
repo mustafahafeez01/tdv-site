@@ -21,7 +21,7 @@ Kostenlos herunterladen. Kein Konto. Kein Abo.
 
 ![Bei Google Play erhältlich](https://traveldocumentvault.com/assets/images/google-play-badge.svg) Einmalkauf. Alle v1.x-Updates für immer enthalten.
 
-Entwickelt von jemandem, der dies für seine eigene Familie brauchte. Keine VCs, keine Aktionäre, keine Werbenetzwerke. Ich antworte nur einer Person: dir.
+Entwickelt von jemandem, der dies für seine eigene Familie brauchte. Keine VCs, keine Aktionäre, keine Werbenetzwerke. Ich antworte nur einer Person: Ihnen.
 
 MH
 
@@ -81,7 +81,7 @@ Das sind alle vernünftige Wahlen. Jede funktioniert – bis zu einem Punkt.
 
 ### Kamerarolle / Fotos
 
-**Funktioniert:** Immer bei dir.
+**Funktioniert:** Immer bei Ihnen.
 
 **Unzureichend:** Verloren in tausenden Fotos – ohne Ablaufverfolgung, ohne Organisation und nur mit Telefonsperrensicherheit.
 
@@ -89,7 +89,7 @@ Das sind alle vernünftige Wahlen. Jede funktioniert – bis zu einem Punkt.
 
 **Funktioniert:** Hat Offline-Modus und synchronisiert über Geräte.
 
-**Unzureichend:** Du speicherst deinen Pass, prüfst das Ablaufdatum, wechselst zu einer Kalender-App für eine Erinnerung, dann erinnerst dich an den Ordner mit den Dokumenten deines Partners. Das sind drei Apps für eine Aufgabe, und keine weiß, dass es ein ablaufender Pass ist.
+**Unzureichend:** Sie speichern Ihren Pass, prüfen das Ablaufdatum, wechseln zu einer Kalender-App für eine Erinnerung, dann erinnern Sie sich an den Ordner mit den Dokumenten Ihres Partners. Das sind drei Apps für eine Aufgabe, und keine weiß, dass es ein ablaufender Pass ist.
 
 ### Passwort-Manager
 
@@ -101,13 +101,13 @@ Das sind alle vernünftige Wahlen. Jede funktioniert – bis zu einem Punkt.
 
 **Funktioniert:** Flexibel und vertraut.
 
-**Unzureichend:** Keine Ablauferinnerungen, keine geführte Erfassung, und dein Passfoto sitzt neben deiner Einkaufsliste ohne Verschlüsselung.
+**Unzureichend:** Keine Ablauferinnerungen, keine geführte Erfassung, und Ihr Passfoto sitzt neben Ihrer Einkaufsliste ohne Verschlüsselung.
 
 ### Tabellenkalkulationen
 
 **Funktioniert:** Hervorragend zum Planen von Reiserouten und zum Tippen von Details.
 
-**Unzureichend:** Keine sicheren Bildanhänge, schreckliche Formatierung auf mobilen Bildschirmen am Flughafen und keine automatisierten Ablauferinnerungen vor deiner Reise.
+**Unzureichend:** Keine sicheren Bildanhänge, schreckliche Formatierung auf mobilen Bildschirmen am Flughafen und keine automatisierten Ablauferinnerungen vor Ihrer Reise.
 
 ## Wie es sich schlägt
 
@@ -232,7 +232,7 @@ Dokumentenstatus aller Personen sofort prüfen
 
 ![App home screen showing all travel documents ready at a glance](https://traveldocumentvault.com/assets/images/screenshots-appstore/01.webp)
 
-Bereit für deine Reise
+Bereit für Ihre Reise
 
 Jede Person, jedes Dokument, geprüft
 
@@ -252,13 +252,13 @@ Auslandsaufenthalt jeder Person verfolgen
 
 Immer einen Schritt voraus
 
-Erinnerungen, bevor du sie brauchst
+Erinnerungen, bevor Sie sie brauchen
 
 ![Expiry reminders showing upcoming renewal dates months in advance](https://traveldocumentvault.com/assets/images/screenshots-appstore/05.webp)
 
-Dein Tresor, Deine Kontrolle
+Ihr Tresor, Ihre Kontrolle
 
-Verschlüsselte Sicherung, nur du kannst wiederherstellen
+Verschlüsselte Sicherung, nur Sie können wiederherstellen
 
 ![PIN-Sperrbildschirm für vertrauenswürdige Privatsphäre](https://traveldocumentvault.com/assets/images/screenshots-appstore/06.webp)
 

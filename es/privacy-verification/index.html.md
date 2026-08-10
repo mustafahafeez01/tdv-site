@@ -20,7 +20,7 @@ La aplicación no realiza conexiones salientes por defecto. Funciona completamen
 
 Todos los documentos, escaneos y datos permanecen en tu dispositivo. No hay nube TDV, no hay servidor TDV, no hay backend TDV. Los usuarios Pro pueden opcionalmente hacer una copia de seguridad de su bóveda cifrada en su propia cuenta de iCloud o Google Drive - solo ellos tienen la clave de recuperación.
 
-### Encriptación AES-256-GCM
+### Cifrado AES-256-GCM
 
 Cada documento se encripta antes de tocar el almacenamiento de tu dispositivo.
 

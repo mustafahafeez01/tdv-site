@@ -132,6 +132,6 @@ La copia de seguridad guarda una copia cifrada de tu bóveda: cada perfil, escan
 
 ## Artículos Relacionados
 
-[Privacidad y Seguridad7 min de lecturaiCloud vs Google Photos vs Bóveda Encriptada: La Forma Más Segura de Almacenar tu Pasaporte](https://traveldocumentvault.com/es/blog/safest-way-to-store-passport-digitally/)
+[Privacidad y Seguridad7 min de lecturaiCloud vs Google Photos vs Bóveda Cifrada: La Forma Más Segura de Almacenar tu Pasaporte](https://traveldocumentvault.com/es/blog/safest-way-to-store-passport-digitally/)
 
 [Privacidad7 min de lectura¿Es seguro almacenar tu pasaporte en Google Photos? Lo que necesitas saber](https://traveldocumentvault.com/es/blog/is-it-safe-to-store-passport-in-google-photos/)

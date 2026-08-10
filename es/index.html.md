@@ -34,13 +34,13 @@ No hay inversión de capital presionándome para vender tus datos y sin una hoja
 
 El servidor más seguro para escaneos de pasaporte es ningún servidor. Por eso la aplicación mantiene documentos en tu dispositivo y funciona completamente sin conexión de forma predeterminada. Si activas copia de seguridad, tu bóveda cifrada va a tu propio iCloud o Google Drive, sellada con un código de recuperación que solo tú tienes.
 
-### Encriptación en el Dispositivo
+### Cifrado en el Dispositivo
 
 Los documentos se cifran en tu dispositivo con AES-256-GCM, usando claves guardadas en tu Secure Enclave. Es cifrado sólido y moderno - y aún deberías proteger tu teléfono con una contraseña fuerte y App Lock.
 
 ### Tu Nube. Tu Clave.
 
-Copia de seguridad encriptada opcional en tu iCloud o Google Drive. Tú tienes el código de recuperación. Nunca lo vemos. Apple y Google no pueden leerlo. Sincroniza entre dispositivos, pero tú tienes el control.
+Copia de seguridad cifrada opcional en tu iCloud o Google Drive. Tú tienes el código de recuperación. Nunca lo vemos. Apple y Google no pueden leerlo. Sincroniza entre dispositivos, pero tú tienes el control.
 
 ### Recordatorios Inteligentes
 
@@ -88,7 +88,7 @@ Semáforo de preparación familiar. Mira quién está listo para viajar y cuyos 
 
 Pro
 
-Copia de seguridad encriptada en tu iCloud o Google Drive. Tú tienes el código de recuperación. Nunca lo vemos.
+Copia de seguridad cifrada en tu iCloud o Google Drive. Tú tienes el código de recuperación. Nunca lo vemos.
 
 ### Seguimiento de Días Fuera del País
 
@@ -257,7 +257,7 @@ Restaura las compras en cualquier momento con la cuenta de App Store o Google Pl
 
 ## Preguntas Frecuentes
 
-¿Es realmente privado? Sí. Todo se almacena 100% en tu dispositivo. No tenemos acceso a tus documentos y no hay una base de datos en la nube. No te fíes solo de nuestra palabra - [compruébalo tú mismo](https://traveldocumentvault.com/es/privacy-verification/). ¿Qué pasa si pierdo mi teléfono? Tu bóveda se almacena en tu dispositivo. Las copias de seguridad del sistema del teléfono reinstalan la aplicación, pero no restauran tus documentos porque la clave de cifrado nunca sale de tu dispositivo original. Exporta tu bóveda en Ajustes antes de cambiar de teléfono, o usa copia de seguridad encriptada en la nube (Pro) para restauración con un toque. ¿Puedo sincronizar entre dispositivos? Sí. Con Pro, activa la copia de seguridad Your Own Cloud para sincronizar tu bóveda encriptada en tu iCloud o Google Drive. Tú tienes el código de recuperación. Nunca accedemos a tus datos. ¿Qué es el planificador de viajes? El planificador de viajes agrupa documentos familiares por viaje y muestra un semáforo de preparación - verde cuando todos están listos, ámbar si el pasaporte de alguien vence pronto. Planifica viajes en familia con confianza. [Ver todas las respuestas sobre privacidad y datos](https://traveldocumentvault.com/es/faq/)
+¿Es realmente privado? Sí. Todo se almacena 100% en tu dispositivo. No tenemos acceso a tus documentos y no hay una base de datos en la nube. No te fíes solo de nuestra palabra - [compruébalo tú mismo](https://traveldocumentvault.com/es/privacy-verification/). ¿Qué pasa si pierdo mi teléfono? Tu bóveda se almacena en tu dispositivo. Las copias de seguridad del sistema del teléfono reinstalan la aplicación, pero no restauran tus documentos porque la clave de cifrado nunca sale de tu dispositivo original. Exporta tu bóveda en Ajustes antes de cambiar de teléfono, o usa copia de seguridad cifrada en la nube (Pro) para restauración con un toque. ¿Puedo sincronizar entre dispositivos? Sí. Con Pro, activa la copia de seguridad Your Own Cloud para sincronizar tu bóveda cifrada en tu iCloud o Google Drive. Tú tienes el código de recuperación. Nunca accedemos a tus datos. ¿Qué es el planificador de viajes? El planificador de viajes agrupa documentos familiares por viaje y muestra un semáforo de preparación - verde cuando todos están listos, ámbar si el pasaporte de alguien vence pronto. Planifica viajes en familia con confianza. [Ver todas las respuestas sobre privacidad y datos](https://traveldocumentvault.com/es/faq/)
 
 **Importante:** Travel Document Vault es una herramienta de organización personal para almacenar copias digitales de tus documentos. **Las copias digitales almacenadas en esta aplicación NO son válidas para viajar.** No verifica la autenticidad de documentos ni proporciona asesoramiento legal o de viaje. Siempre lleva documentos originales y verifica todos los requisitos de viaje con fuentes oficiales del gobierno.
 

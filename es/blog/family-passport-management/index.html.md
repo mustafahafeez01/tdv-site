@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/es/blog/family-passport-management/
 
 - **Los pasaportes de los niños vencen dos veces más rápido que los de los adultos.** Los documentos de los niños son válidos por solo 5 años, así que la fecha de vencimiento del miembro más joven de la familia a menudo marca el límite para tu próximo viaje.
 - Nunca lleves todos los pasaportes familiares juntos cuando viajes. **Cada persona lleva el suyo**, y deja copias con un contacto de confianza en casa.
-- **Guarda copias digitales en un único lugar encriptado,** con una copia de seguridad física en un lugar seguro al que puedas acceder rápidamente si es necesario.
+- **Guarda copias digitales en un único lugar cifrado,** con una copia de seguridad física en un lugar seguro al que puedas acceder rápidamente si es necesario.
 - Crea un sistema compartido para realizar un seguimiento de las fechas de vencimiento de todos los miembros de la familia. **Una persona gestionando esto previene renovaciones perdidas.**
 - Para familias con nacionalidad dual, **guarda copias de todos los pasaportes** y entiende cuál usar para cada destino.
 
@@ -28,13 +28,13 @@ La mayoría de las familias no se dan cuenta de esto hasta que ya han reservado 
 
 ## La Base: Un Lugar Seguro Para Todos Los Pasaportes Familiares
 
-El primer paso es centralizar dónde viven los pasaportes familiares. Esto significa un único lugar digital encriptado donde guardas los documentos de cada miembro de la familia - no dispersos en tres servicios en la nube diferentes y un cajón en la cocina.
+El primer paso es centralizar dónde viven los pasaportes familiares. Esto significa un único lugar digital cifrado donde guardas los documentos de cada miembro de la familia - no dispersos en tres servicios en la nube diferentes y un cajón en la cocina.
 
-El almacenamiento encriptado es importante porque los pasaportes contienen tu nombre legal completo, fecha de nacimiento y número de pasaporte - información suficiente para robo de identidad. Las apps generales de almacenamiento de fotos como Google Photos o iCloud tratan tus documentos como instantáneas en lugar de datos de identidad sensibles. Una carpeta PDF protegida por contraseña en tu dispositivo, o una app construida específicamente para manejar documentos de viaje, te da la capa de encriptación que necesitas.
+El almacenamiento cifrado es importante porque los pasaportes contienen tu nombre legal completo, fecha de nacimiento y número de pasaporte - información suficiente para robo de identidad. Las apps generales de almacenamiento de fotos como Google Photos o iCloud tratan tus documentos como instantáneas en lugar de datos de identidad sensibles. Una carpeta PDF protegida por contraseña en tu dispositivo, o una app construida específicamente para manejar documentos de viaje, te da la capa de cifrado que necesitas.
 
 **Solo copias digitales.** Escanea la página de identificación con foto de cada pasaporte de los miembros de la familia. Una imagen clara de la página que muestre la foto, nombre, fecha de nacimiento, número de pasaporte y fecha de vencimiento es suficiente. Esto debería tomar 30 segundos por persona.
 
-Una vez escaneadas, estas copias viven en tu bóveda encriptada - accesible en cualquier momento que necesites verificar una fecha de validez, demostrar que tienes documentos al reservar viajes, o proporcionar información de emergencia a un consulado si algo sale mal en el extranjero.
+Una vez escaneadas, estas copias viven en tu bóveda cifrada - accesible en cualquier momento que necesites verificar una fecha de validez, demostrar que tienes documentos al reservar viajes, o proporcionar información de emergencia a un consulado si algo sale mal en el extranjero.
 
 ## Configurar Perfiles Para Cada Miembro de la Familia
 
@@ -53,7 +53,7 @@ Cuando estás reservando un viaje, el primer paso se vuelve automático: inicia 
 
 El almacenamiento digital es conveniente, pero los dispositivos fallan y las apps pueden tener problemas. Cada familia debe mantener también una copia de seguridad física de las páginas de pasaporte esenciales - guarda una en una ubicación diferente de los originales.
 
-La mayoría de las familias hacen esto guardando originales en una caja fuerte en casa o gaveta segura, copias digitales en su app encriptada, y una copia impresa de cada página de identificación en una ubicación separada - en la casa de un miembro de la familia de confianza, en una caja de seguridad bancaria, o en una habitación diferente en una caja fuerte a prueba de fuego.
+La mayoría de las familias hacen esto guardando originales en una caja fuerte en casa o gaveta segura, copias digitales en su app cifrada, y una copia impresa de cada página de identificación en una ubicación separada - en la casa de un miembro de la familia de confianza, en una caja de seguridad bancaria, o en una habitación diferente en una caja fuerte a prueba de fuego.
 
 Si quedas atrapado en el extranjero y necesitas reemplazar un pasaporte perdido o robado, esa copia de seguridad es lo que una embajada o consulado necesita para acelerar un reemplazo de emergencia. Una copia física guardada de forma segura en casa puede ser enviada a ti mientras estás viajando si es necesario, brindándote una salida si tus dispositivos fallan.
 
@@ -84,7 +84,7 @@ Mantén todos estos en un lugar accesible. El pánico de hurgar en tu teléfono 
 
 ### ¿Cuál es la mejor forma de guardar múltiples pasaportes familiares?
 
-Guarda copias digitales encriptadas en un único lugar centralizado (una app o carpeta protegida por contraseña), mantén los originales en una caja fuerte o gaveta en casa, y conserva una copia de seguridad física en una ubicación diferente y segura. Nunca lleves todos los pasaportes familiares juntos cuando viajes - cada persona debe llevar su propio documento.
+Guarda copias digitales cifradas en un único lugar centralizado (una app o carpeta protegida por contraseña), mantén los originales en una caja fuerte o gaveta en casa, y conserva una copia de seguridad física en una ubicación diferente y segura. Nunca lleves todos los pasaportes familiares juntos cuando viajes - cada persona debe llevar su propio documento.
 
 ### ¿Cómo puedo realizar un seguimiento de las fechas de vencimiento de los pasaportes de cada miembro de la familia?
 
@@ -108,4 +108,4 @@ Necesitarás renovar el pasaporte de esa persona antes de viajar. Si estás dent
 
 [Organización8 min de lectura · Junio 2026Cómo Organizar Documentos de Viaje Familiares Antes de Cada Viaje](https://traveldocumentvault.com/es/blog/how-to-organise-family-travel-documents/)
 
-[Privacidad y Seguridad7 min de lectura · Mayo 2026La Forma Más Segura de Guardar tu Pasaporte Digitalmente: Encriptado vs Nube Pública](https://traveldocumentvault.com/es/blog/safest-way-to-store-passport-digitally/)
+[Privacidad y Seguridad7 min de lectura · Mayo 2026La Forma Más Segura de Guardar tu Pasaporte Digitalmente: Cifrado vs Nube Pública](https://traveldocumentvault.com/es/blog/safest-way-to-store-passport-digitally/)

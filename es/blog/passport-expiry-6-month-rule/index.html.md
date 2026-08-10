@@ -1,6 +1,6 @@
 # La Regla de los 6 Meses del Pasaporte: Qué Países la Aplican y Cómo Nunca Quedarte Atrapado
 
-> La regla de los 6 meses del pasaporte atrapa a miles de personas sin prepararse. Usa nuestro almacén encriptado con AES-256-GCM, sin conexión, que rastrée las fechas de vencimiento automáticamente. Pruébalo gratis para 5 documentos.
+> La regla de los 6 meses del pasaporte atrapa a miles de personas sin prepararse. Usa nuestro almacén cifrado con AES-256-GCM, sin conexión, que rastrée las fechas de vencimiento automáticamente. Pruébalo gratis para 5 documentos.
 
 Source: https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/
 

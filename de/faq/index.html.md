@@ -115,9 +115,9 @@ Ein System-Backup reinstalliert die App, aber Ihre verschlüsselten Dokumente k�
 
 Was ist "Anderen zeigen"?
 
-"Anderen zeigen" ist ein geschützter Anzeigemodus für Momente, in denen ein Grenzbeamter, Hotelrezeptionist oder Flugbegleiter ein Dokument auf deinem Bildschirm sehen muss. Tippe auf das Symbol und die App wechselt zu einer sauberen Vollbildansicht, die **Screenshots und Bildschirmaufzeichnungen blockiert.** Wenn sie dir dein Telefon zurückgeben, bringt dich ein Tipp zurück in deinen Tresor.
+"Anderen zeigen" ist ein geschützter Anzeigemodus für Momente, in denen ein Grenzbeamter, Hotelrezeptionist oder Flugbegleiter ein Dokument auf Ihrem Bildschirm sehen muss. Tippen Sie auf das Symbol und die App wechselt zu einer sauberen Vollbildansicht, die **Screenshots und Bildschirmaufzeichnungen blockiert.** Wenn sie Ihnen Ihr Telefon zurückgeben, bringt Sie ein Tipp zurück in Ihren Tresor.
 
-Deine Dokumente verlassen dein Gerät nie. Dieser Modus gibt dir einfach eine sichere, kontrollierte Möglichkeit, sie jemandem zu präsentieren, ohne ihm Zugriff auf deinen gesamten Tresor zu geben.
+Ihre Dokumente verlassen Ihr Gerät nie. Dieser Modus gibt Ihnen einfach eine sichere, kontrollierte Möglichkeit, sie jemandem zu präsentieren, ohne ihm Zugriff auf Ihren gesamten Tresor zu geben.
 
 Was ist ein Wiederherstellungscode und warum brauche ich ihn?
 
@@ -125,13 +125,13 @@ Wenn Sie App-Sperre einrichten, generiert die App einen eindeutigen Wiederherste
 
 Wenn Sie Ihren PIN vergessen, geben Sie Ihren Wiederherstellungscode auf dem PIN-Bildschirm ein. Die App-Sperre wird deaktiviert und Sie haben wieder **vollen Zugriff, ohne ein einziges Dokument zu verlieren.**
 
-Ohne Wiederherstellungscode ist die einzige Option, die App zu löschen und neu zu installieren, was deinen Tresor dauerhaft löscht. Speichere deinen Code, wenn du dazu aufgefordert wirst. Du bekommst keine zweite Chance.
+Ohne Wiederherstellungscode ist die einzige Option, die App zu löschen und neu zu installieren, was Ihren Tresor dauerhaft löscht. Speichern Sie Ihren Code, wenn Sie dazu aufgefordert werden. Sie bekommen keine zweite Chance.
 
 Was ist automatisches Löschen?
 
-Automatisches Löschen löscht deinen Tresor dauerhaft, wenn zu viele falsche PIN-Versuche unternommen werden. Es ist **standardmäßig deaktiviert.** Aktiviere es unter Einstellungen → App-Sperre, wenn du maximalen Schutz vor einem gestohlenen Telefon möchtest. Sobald zu viele falsche Versuche unternommen werden, wird jedes Dokument gelöscht und kann nicht wiederhergestellt werden.
+Automatisches Löschen löscht Ihren Tresor dauerhaft, wenn zu viele falsche PIN-Versuche unternommen werden. Es ist **standardmäßig deaktiviert.** Aktivieren Sie es unter Einstellungen → App-Sperre, wenn Sie maximalen Schutz vor einem gestohlenen Telefon möchten. Sobald zu viele falsche Versuche unternommen werden, wird jedes Dokument gelöscht und kann nicht wiederhergestellt werden.
 
-**Wichtig:** Aktiviere automatisches Löschen nur nach der Erstellung einer Tresor-Export-Sicherung. Auf diese Weise kannst du, wenn es versehentlich ausgelöst wird, aus deiner Sicherung wiederherstellen. Die Verwendung zusammen mit einem Wiederherstellungscode gibt dir maximale Sicherheit und einen klaren Weg zurück.
+**Wichtig:** Aktivieren Sie automatisches Löschen nur nach der Erstellung einer Tresor-Export-Sicherung. Auf diese Weise können Sie, wenn es versehentlich ausgelöst wird, aus Ihrer Sicherung wiederherstellen. Die Verwendung zusammen mit einem Wiederherstellungscode gibt Ihnen maximale Sicherheit und einen klaren Weg zurück.
 
 ## Funktionen
 
@@ -233,17 +233,17 @@ Ja. Sie können Krankenversicherungskarten, Dauerrezepte, Impfnachweise und ande
 
 Kann ich eine Erinnerung verschieben?
 
-Ja. Wenn eine Erinnerung ausgelöst wird, tippe direkt von der Benachrichtigung auf **Verschieben**. Wähle 1 Stunde, später heute, morgen oder nächste Woche. Die App plant es automatisch neu. Du kannst es auch innerhalb der App auf dem Dokumentdetail-Bildschirm verschieben. Die Erinnerung kommt genau zu der Uhrzeit zurück, die du gewählt hast. Es ist nicht nötig, manuell zu überprüfen.
+Ja. Wenn eine Erinnerung ausgelöst wird, tippen Sie direkt von der Benachrichtigung auf **Verschieben**. Wählen Sie 1 Stunde, später heute, morgen oder nächste Woche. Die App plant es automatisch neu. Sie können es auch innerhalb der App auf dem Dokumentdetail-Bildschirm verschieben. Die Erinnerung kommt genau zu der Uhrzeit zurück, die Sie gewählt haben. Es ist nicht nötig, manuell zu überprüfen.
 
 Kann ich meine Dokumente farblich kodieren?
 
-Jede Dokumentkarte ist automatisch farblich kodiert. **Grün** bedeutet gültig, **orange** bedeutet, dass das Ablaufdatum naht, und **rot** bedeutet abgelaufen oder unmittelbar bevorstehend. Du kannst den Status deines gesamten Tresors auf einen Blick sehen, ohne ein einziges Dokument zu öffnen.
+Jede Dokumentkarte ist automatisch farblich kodiert. **Grün** bedeutet gültig, **orange** bedeutet, dass das Ablaufdatum naht, und **rot** bedeutet abgelaufen oder unmittelbar bevorstehend. Sie können den Status Ihres gesamten Tresors auf einen Blick sehen, ohne ein einziges Dokument zu öffnen.
 
-**Pro-Benutzer** können weiter gehen: Die Farbe auf Pro-Dokument-Typ-Basis aus der Registerkarte Profileinstellungen überschreiben. Weise Reisepässen, Visa oder jeder Kategorie eine distinct Farbe zu, die du hervorgehoben haben möchtest. Dies stellt sich auf die Statusfarben, sodass du immer sowohl die Kategorie als auch die Dringlichkeit auf einmal siehst.
+**Pro-Benutzer** können weiter gehen: Die Farbe auf Pro-Dokument-Typ-Basis aus der Registerkarte Profileinstellungen überschreiben. Weisen Sie Reisepässen, Visa oder jeder Kategorie eine eigene Farbe zu, die Sie hervorgehoben haben möchten. Dies stellt sich auf die Statusfarben, sodass Sie immer sowohl die Kategorie als auch die Dringlichkeit auf einmal sehen.
 
 Kann ich Fotos an meine Notizen anhängen?
 
-Ja. Notizen und Gutscheine unterstützen mehrere Bildanhänge. Kostenlose Benutzer können ein Bild pro Notiz anhängen. **Pro-Benutzer können bis zu 10 anhängen.** Hänge ein Foto einer Bestätigungs-E-Mail, einen QR-Code, eine Reservierungsreferenz oder alles andere an, das Kontext bietet. Jedes Bild wird auf dem Gerät verschlüsselt, genau wie der Rest deines Tresors.
+Ja. Notizen und Gutscheine unterstützen mehrere Bildanhänge. Kostenlose Benutzer können ein Bild pro Notiz anhängen. **Pro-Benutzer können bis zu 10 anhängen.** Hängen Sie ein Foto einer Bestätigungs-E-Mail, einen QR-Code, eine Reservierungsreferenz oder alles andere an, das Kontext bietet. Jedes Bild wird auf dem Gerät verschlüsselt, genau wie der Rest Ihres Tresors.
 
 ## Plattform & Kompatibilität
 

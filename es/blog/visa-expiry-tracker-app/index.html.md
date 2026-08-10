@@ -65,10 +65,10 @@ Dada la complejidad anterior, una buena aplicación rastreadora de visados neces
 - **Acceso sin conexión:** Necesitas los detalles de tu visado en fronteras donde el internet puede ser poco confiable.
 - **Tiempos de recordatorio personalizados:** Un visado de trabajo de larga estancia podría justificar un recordatorio de 90 días; un visado de turista necesita suficiente antelación para organizar la partida sin prisa. Los recordatorios de talla única no son apropiados.
 - **Múltiples tipos de documentos y viajeros:** Si viajas como familia, el visado de cada miembro de la familia necesita seguimiento independiente.
-- **Modelo de privacidad:** Los detalles del visado son datos sensibles vinculados a la identidad. Como con almacenamiento de pasaportes, encriptación en dispositivo sin carga en la nube es la arquitectura más segura.
+- **Modelo de privacidad:** Los detalles del visado son datos sensibles vinculados a la identidad. Como con almacenamiento de pasaportes, cifrado en dispositivo sin carga en la nube es la arquitectura más segura.
 - **Seguimiento de pasaporte y visado juntos:** Un error común pero pasado por alto es tener un visado válido pero un pasaporte que vence durante tu estancia planeada. Tener ambos rastreados en el mismo lugar previene este desajuste.
 
-**Travel Document Vault** rastrea fechas de vencimiento de pasaportes y visados en un mismo lugar, con recordatorios separados por documento y soporte para múltiples viajeros. Tus datos permanecen en dispositivo y encriptados con AES-256, sin cuenta requerida, con copia de seguridad encriptada opcional a tu propio iCloud o Google Drive (Pro). [Está disponible en App Store como compra única, sin suscripción.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** rastrea fechas de vencimiento de pasaportes y visados en un mismo lugar, con recordatorios separados por documento y soporte para múltiples viajeros. Tus datos permanecen en dispositivo y cifrados con AES-256, sin cuenta requerida, con copia de seguridad cifrada opcional a tu propio iCloud o Google Drive (Pro). [Está disponible en App Store como compra única, sin suscripción.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Pasos Prácticos para Rastrear Tu Visado Correctamente
 

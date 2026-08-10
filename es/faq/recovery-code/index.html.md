@@ -1,6 +1,6 @@
 # ¿Cuál es mi código de recuperación? | Travel Document Vault
 
-> Tu código de recuperación es la clave maestra de tus copias de seguridad encriptadas en la nube. Aprende qué es, por qué lo necesitas, qué ocurre si lo pierdes y cómo guardarlo de forma segura.
+> Tu código de recuperación es la clave maestra de tus copias de seguridad cifradas en la nube. Aprende qué es, por qué lo necesitas, qué ocurre si lo pierdes y cómo guardarlo de forma segura.
 
 Source: https://traveldocumentvault.com/es/faq/recovery-code/
 
@@ -16,13 +16,13 @@ Tu código de recuperación es una frase de 24 caracteres generada cuando activa
 
 XXXX-XXXX-XXXX-XXXX-XXXX-XXXX
 
-Este código está derivado matemáticamente de tus configuraciones de copia de seguridad y es la única clave que puede desencriptar tu bóveda encriptada en la nube. Lo generamos una sola vez y te lo mostramos una sola vez. Después, la responsabilidad de mantenerlo seguro es tuya.
+Este código está derivado matemáticamente de tus configuraciones de copia de seguridad y es la única clave que puede descifrar tu bóveda cifrada en la nube. Lo generamos una sola vez y te lo mostramos una sola vez. Después, la responsabilidad de mantenerlo seguro es tuya.
 
 ### Por qué lo necesitas
 
-Cuando activas la copia de seguridad en la nube, toda tu bóveda se encripta en tu dispositivo usando AES-256-GCM antes de que salga de tu teléfono. La clave de encriptación se deriva de tu código de recuperación. Sin el código de recuperación, la copia de seguridad es criptográficamente inaccesible, incluso para nosotros.
+Cuando activas la copia de seguridad en la nube, toda tu bóveda se encripta en tu dispositivo usando AES-256-GCM antes de que salga de tu teléfono. La clave de cifrado se deriva de tu código de recuperación. Sin el código de recuperación, la copia de seguridad es criptográficamente inaccesible, incluso para nosotros.
 
-Esta es una garantía de privacidad. Literalmente no podemos leer tus copias de seguridad, desencriptarlas bajo demanda, o reiniciarlas por ti. Si se pierde tu código de recuperación, esa copia de seguridad se ha ido para siempre. Suena duro, pero es exactamente lo que quieres: tu privacidad no es solo una promesa que hacemos, es un hecho técnico que no podemos violar.
+Esta es una garantía de privacidad. Literalmente no podemos leer tus copias de seguridad, descifrarlas bajo demanda, o reiniciarlas por ti. Si se pierde tu código de recuperación, esa copia de seguridad se ha ido para siempre. Suena duro, pero es exactamente lo que quieres: tu privacidad no es solo una promesa que hacemos, es un hecho técnico que no podemos violar.
 
 ### Si lo pierdes
 
@@ -37,12 +37,12 @@ Tu código de recuperación es tan sensible como tu contraseña maestra. Guárda
 
 - **Gestor de contraseñas:** Bitwarden, 1Password, Apple Keychain, o similar. Esta es la opción más conveniente.
 - **Copia de seguridad física:** Escríbelo en papel y guárdalo en una caja fuerte, caja de seguridad, o lugar seguro en casa.
-- **Documento sin conexión:** Guarda en una unidad externa encriptada o USB (nunca sincronizado en la nube).
-- **Evitar:** Correo electrónico, aplicación Notas, servicios en la nube sin encriptar, o capturas de pantalla.
+- **Documento sin conexión:** Guarda en una unidad externa cifrada o USB (nunca sincronizado en la nube).
+- **Evitar:** Correo electrónico, aplicación Notas, servicios en la nube sin cifrar, o capturas de pantalla.
 
 ### Regenerar tu código
 
-Si crees que tu código de recuperación está comprometido, desactiva la copia de seguridad en la nube y reactivala. La aplicación genera un nuevo código de recuperación. Tu copia de seguridad encriptada antigua se descarta. Esto es intencional: la rotación del código de recuperación es deliberadamente rara y con pérdida de datos, así que no la haces sin pensar bien.
+Si crees que tu código de recuperación está comprometido, desactiva la copia de seguridad en la nube y reactivala. La aplicación genera un nuevo código de recuperación. Tu copia de seguridad cifrada antigua se descarta. Esto es intencional: la rotación del código de recuperación es deliberadamente rara y con pérdida de datos, así que no la haces sin pensar bien.
 
 **Descargo de responsabilidad:** Tu código de recuperación es tu única responsabilidad. Travel Document Vault no puede recuperarlo, reiniciarlo ni regenerarlo si se pierde. Guárdalo de forma segura. No confíes en esta aplicación como tu único sistema de copia de seguridad para documentos críticos.
 

@@ -1,6 +1,6 @@
 # Cómo organizar los documentos de viaje en familia (Antes de tu próximo viaje)
 
-> Aprende cómo organizar los documentos de viaje de tu familia. Almacena hasta 5 documentos de forma gratuita en nuestra bóveda privada, encriptada con AES-256-GCM, sin conexión, con recordatorios inteligentes de vencimiento.
+> Aprende cómo organizar los documentos de viaje de tu familia. Almacena hasta 5 documentos de forma gratuita en nuestra bóveda privada, cifrada con AES-256-GCM, sin conexión, con recordatorios inteligentes de vencimiento.
 
 Source: https://traveldocumentvault.com/es/blog/how-to-organise-family-travel-documents/
 
@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/es/blog/how-to-organise-family-travel-do
 
 - Tu lista de verificación de documentos de viaje en familia necesita pasaportes, visados, seguro de viaje, y registros de vacunación - y eso es solo el comienzo si viajas con niños.
 - Guarda todos los pasaportes en un único lugar dedicado en casa. No en el cajón de cosas varias. No en el bolsillo de una chaqueta. Un lugar, siempre.
-- Los respaldos digitales no te permitirán pasar inmigración, pero te ahorrarán horas en una embajada si algo se pierde. Almacénalos encriptados, no en tu galería de fotos.
+- Los respaldos digitales no te permitirán pasar inmigración, pero te ahorrarán horas en una embajada si algo se pierde. Almacénalos cifrados, no en tu galería de fotos.
 - Realizar un seguimiento de las fechas de vencimiento antes de reservar - no la semana antes de volar - es el único hábito que previene la mayoría de desastres con documentos de viaje.
 - Una lista de verificación previa al viaje que ejecutas en el momento de la reserva te da suficiente tiempo para solucionar cualquier problema antes de que se conviertan en costosos.
 
@@ -73,13 +73,13 @@ Las copias digitales no te permitirán pasar inmigración. Un agente en la front
 
 Cuando algo se pierde, tener el número del documento, la fecha de vencimiento, y un escaneo claro listo reduce horas al proceso de presentar un informe de policía u obtener un documento de viaje de emergencia de una embajada. Una copia de seguridad no es paranoia - es simplemente sensato.
 
-Dónde almacenas los escaneos es más importante de lo que la mayoría de personas se dan cuenta. Una galería de fotos general - Google Photos, iCloud, tu rollo de cámara - es conveniente pero no está diseñada para documentos sensibles. Si alguien llega a tu galería de fotos, también llega a tus escaneos de pasaporte. Una solución dedicada y encriptada vale la pena.
+Dónde almacenas los escaneos es más importante de lo que la mayoría de personas se dan cuenta. Una galería de fotos general - Google Photos, iCloud, tu rollo de cámara - es conveniente pero no está diseñada para documentos sensibles. Si alguien llega a tu galería de fotos, también llega a tus escaneos de pasaporte. Una solución dedicada y cifrada vale la pena.
 
 Qué significa esto en la práctica
 
-Si tu teléfono es robado y el ladrón accede a tu galería de fotos, tiene un escaneo claro de tu página de datos del pasaporte: tu nombre, fecha de nacimiento, número de pasaporte, y tu foto. Eso es suficiente para fraude de identidad. Almacenar escaneos de pasaporte en una aplicación encriptada que requiere un PIN separado o biometría es significativamente más seguro que una galería de fotos, incluso si ambas están en el mismo dispositivo.
+Si tu teléfono es robado y el ladrón accede a tu galería de fotos, tiene un escaneo claro de tu página de datos del pasaporte: tu nombre, fecha de nacimiento, número de pasaporte, y tu foto. Eso es suficiente para fraude de identidad. Almacenar escaneos de pasaporte en una aplicación cifrada que requiere un PIN separado o biometría es significativamente más seguro que una galería de fotos, incluso si ambas están en el mismo dispositivo.
 
-[Travel Document Vault](https://traveldocumentvault.com) almacena todo en el dispositivo con encriptación fuerte (copia de seguridad encriptada opcional en tu propio iCloud o Google Drive con Pro). Cada miembro de la familia obtiene su propio perfil, y las fechas de vencimiento se rastrean automáticamente. Si prefieres hacerlo tú mismo, una carpeta encriptada en un gestor de contraseñas confiable también funciona - simplemente no te recordará cuando algo está a punto de vencer.
+[Travel Document Vault](https://traveldocumentvault.com) almacena todo en el dispositivo con cifrado fuerte (copia de seguridad cifrada opcional en tu propio iCloud o Google Drive con Pro). Cada miembro de la familia obtiene su propio perfil, y las fechas de vencimiento se rastrean automáticamente. Si prefieres hacerlo tú mismo, una carpeta cifrada en un gestor de contraseñas confiable también funciona - simplemente no te recordará cuando algo está a punto de vencer.
 
 ## Seguimiento de fechas de vencimiento. La parte más pasada por alto
 
@@ -134,7 +134,7 @@ Los documentos básicos para viajar internacionalmente en familia son pasaportes
 
 ### ¿Es seguro guardar copias digitales de documentos de viaje?
 
-Las copias digitales son respaldos útiles pero no sustituirán a los originales en inmigración. Lo seguros que sean depende completamente de dónde los almacenes - las aplicaciones encriptadas y almacenadas en el dispositivo son mucho más seguras que una galería de fotos general o almacenamiento en la nube sin encriptar.
+Las copias digitales son respaldos útiles pero no sustituirán a los originales en inmigración. Lo seguros que sean depende completamente de dónde los almacenes - las aplicaciones cifradas y almacenadas en el dispositivo son mucho más seguras que una galería de fotos general o almacenamiento en la nube sin cifrar.
 
 ### ¿Cuál es la mejor forma de organizar pasaportes para una familia?
 
