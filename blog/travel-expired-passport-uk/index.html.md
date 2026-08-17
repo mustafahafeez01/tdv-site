@@ -1,6 +1,6 @@
 # Can You Travel with an Expired Passport? UK Rules
 
-> You cannot fly internationally on an expired passport. The narrow domestic exceptions, the fastest UK renewal route, and what to do if you're already abroad.
+> You cannot fly internationally on an expired passport. The narrow domestic exceptions, the fastest UK renewal route, and what to do if you are abroad.
 
 Source: https://traveldocumentvault.com/blog/travel-expired-passport-uk/
 

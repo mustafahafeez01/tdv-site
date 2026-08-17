@@ -1,6 +1,6 @@
 # Can You Travel with a Damaged Passport? Rules and What to Do
 
-> Passport damage rules vary by country and airline. Learn what counts as damage, what to do if found before or at the airport, and emergency replacement timelines.
+> What counts as damage, who decides at the airport, and what to do if you are turned away. Rules vary by country and airline, so check before you fly.
 
 Source: https://traveldocumentvault.com/blog/damaged-passport-travel/
 

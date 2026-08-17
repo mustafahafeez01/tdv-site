@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
+[ReisevorbereitungInternationaler Führerschein: Wie lange er wirklich giltEin Internationaler Führerschein läuft nach seiner eigenen Uhr und kann Jahre vor dem Führerschein ablaufen, zu dem er gehört. So unterscheiden sich die beiden Abkommensarten, und welche Termine Sie im Blick behalten sollten.17. August 20266 Min. Lesedauer](https://traveldocumentvault.com/de/blog/international-driving-permit-validity/)
+
+##
+
 [Datenschutz und SicherheitVerschlüsseltes Cloud-Backup für Reisedokumente: Wer hält den SchlüsselWas verschlüsseltes Backup für Passscans wirklich bedeutet, warum ein Wiederherstellungscode von niemandem zurückgesetzt werden kann und wie Sie eine Kopie aufbewahren, die Sie tatsächlich wiederherstellen können.10. August 20268 Min. Lesedauer](https://traveldocumentvault.com/de/blog/encrypted-cloud-backup-travel-documents/)
 
 ##

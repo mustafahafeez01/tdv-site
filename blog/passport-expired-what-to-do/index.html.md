@@ -129,3 +129,5 @@ Many countries require your passport to remain valid for at least six months bey
 [Emergency7 min read · Mar 11, 2026Lost Your Passport Abroad? Do These 7 Things Immediately](https://traveldocumentvault.com/blog/lost-passport-abroad/)
 
 [Travel Emergencies7 min read · Jul 27, 2026Can You Travel with a Damaged Passport?](https://traveldocumentvault.com/blog/damaged-passport-travel/)
+
+[Renewal8 min read · Feb 10, 2026Can You Travel While Your Passport Is Being Renewed?](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/)

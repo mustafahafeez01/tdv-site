@@ -66,6 +66,20 @@ O Service Canada publica os seus padrões de processamento atuais, que variam co
 | Austrália | Não (deve entregar) | Não |
 | Canadá | Não (deve entregar) | Não |
 
+## Pode viajar com o seu passaporte antigo durante a renovação?
+
+Esta é a pergunta que a maioria das pessoas está mesmo a fazer, e a resposta é mais restrita do que parece. Ter o passaporte antigo na mão não é o mesmo que poder voar com ele.
+
+Duas condições têm de ser verdadeiras ao mesmo tempo. O passaporte tem de continuar na sua posse e tem de continuar válido. Na maioria dos países, a renovação quebra uma delas, por vezes as duas.
+
+A renovação digital do Reino Unido é o caso mais claro em que a resposta é sim. O passaporte nunca sai das suas mãos, mantém-se válido até à sua própria data de validade e, regra geral, pode continuar a viajar com ele enquanto o novo é produzido.
+
+A renovação norte-americana por correio é o caso que mais gente interpreta mal. Envia o passaporte atual com o pedido, por isso não o tem durante o processamento. Volta cancelado, normalmente perfurado, ao mesmo tempo que o novo. Um passaporte cancelado não o deixa passar no check-in, mesmo sendo seu e estando na sua mão.
+
+A renovação postal do Reino Unido, a Austrália e o Canadá ficam todos com o passaporte no momento do pedido. Não sobra nada com que viajar até chegar o substituto.
+
+O teste prático é simples. Se o passaporte está cancelado, caducado ou num serviço do Estado, não é um documento de viagem. Os voos domésticos que aceitam outra identificação com fotografia são a única exceção, e nada disto os afeta.
+
 ## Se a Sua Viagem For Mais Cedo do Que a Sua Cronologia de Renovação
 
 Não espere para contactar o serviço de passaportes do seu país por telefone - pergunte especificamente sobre opções de processamento expedido, urgente ou consultas de emergência. Estes existem em todos os países aqui listados, mas a disponibilidade muda semana a semana e os slots de consulta desaparecem rapidamente.
@@ -89,6 +103,10 @@ Na maioria dos casos, sim. As viagens domésticas dentro do seu próprio país n
 ### Posso viajar internacionalmente enquanto o meu passaporte está sendo renovado?
 
 Geralmente não. A exceção é a renovação digital do Reino Unido: como mantém o seu antigo passaporte durante esse processo, pode continuar a usá-lo para viagens internacionais enquanto aguarda o novo. Em todos os outros casos aqui abordados, as viagens internacionais requerem que o seu novo passaporte esteja na sua mão.
+
+### Posso viajar com o meu passaporte antigo durante a renovação?
+
+Apenas se continuar na sua posse e continuar válido. A renovação digital do Reino Unido permite manter o passaporte e continuar a viajar com ele. A renovação norte-americana por correio devolve-o cancelado, e um passaporte cancelado não é válido para viajar mesmo que o tenha na mão. A renovação postal do Reino Unido, a Austrália e o Canadá ficam com ele até o novo ser emitido.
 
 ### O que devo fazer se o meu voo está marcado mas o passaporte não chegará a tempo?
 

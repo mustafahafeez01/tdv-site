@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
+[护照规则国际驾驶许可证：你的那张到底还能用多久国际驾驶许可证按自己的时钟走，到期时间可能比与之搭配的驾照早了好几年。两类条约签发的许可证有何不同，又该关注哪些日期。2026年8月17日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/international-driving-permit-validity/)
+
+##
+
 [隐私与安全旅行证件加密云备份：密钥掌握在谁手中了解加密备份对护照扫描件到底意味着什么、为什么恢复码任何人都无法重置，以及如何保留一份真正能还原的备份。2026年8月10日8 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/encrypted-cloud-backup-travel-documents/)
 
 ##

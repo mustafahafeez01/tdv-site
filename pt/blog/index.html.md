@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
+[Regras de PassaporteCarta de Condução Internacional: Quanto Tempo Dura RealmenteUma Carta de Condução Internacional tem o seu próprio prazo de validade e pode caducar anos antes da carta que a acompanha. Como os dois tipos de convenção diferem e que datas deve controlar.17 de agosto de 20266 min de leitura](https://traveldocumentvault.com/pt/blog/international-driving-permit-validity/)
+
+##
+
 [Privacidade e SegurançaCópia de Segurança Encriptada na Cloud para Documentos de Viagem: Quem Guarda a ChaveO que significa realmente uma cópia de segurança encriptada para digitalizações do passaporte, porque é que um código de recuperação não pode ser reposto por ninguém, e como manter uma cópia que consegue mesmo restaurar.10 de agosto de 20268 min de leitura](https://traveldocumentvault.com/pt/blog/encrypted-cloud-backup-travel-documents/)
 
 ##

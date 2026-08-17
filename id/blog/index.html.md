@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
+[Aturan PasporIzin Mengemudi Internasional: Berapa Lama Sebenarnya Masa BerlakunyaIDP berjalan dengan jamnya sendiri, dan bisa kedaluwarsa bertahun-tahun sebelum SIM yang menyertainya. Perbedaan dua jenis perjanjian dan tanggal mana yang perlu diperhatikan.17 Agustus 20266 menit baca](https://traveldocumentvault.com/id/blog/international-driving-permit-validity/)
+
+##
+
 [Privasi & KeamananCadangan Cloud Terenkripsi untuk Dokumen Perjalanan: Siapa yang Memegang KuncinyaApa arti sebenarnya dari cadangan terenkripsi untuk pindaian paspor, mengapa kode pemulihan tidak bisa direset oleh siapa pun, dan cara menyimpan salinan yang benar-benar bisa Anda pulihkan.10 Agustus 20268 menit baca](https://traveldocumentvault.com/id/blog/encrypted-cloud-backup-travel-documents/)
 
 ##

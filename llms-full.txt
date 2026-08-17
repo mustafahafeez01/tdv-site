@@ -4,7 +4,7 @@
 
 # Best Passport and Travel Document App for Families
 
-> Four passports, four expiry dates, one app. What to check before trusting a travel document organizer with your family's scans, and why on-device storage matters.
+> Four passports, four expiry dates, one app. What to check before trusting a passport organizer with your family's scans, and why on-device storage wins.
 
 Source: https://traveldocumentvault.com/blog/best-passport-organizer-app/
 
@@ -302,7 +302,7 @@ Many countries now accept digital copies on mobile devices or printed from digit
 
 # Can You Travel with a Damaged Passport? Rules and What to Do
 
-> Passport damage rules vary by country and airline. Learn what counts as damage, what to do if found before or at the airport, and emergency replacement timelines.
+> What counts as damage, who decides at the airport, and what to do if you are turned away. Rules vary by country and airline, so check before you fly.
 
 Source: https://traveldocumentvault.com/blog/damaged-passport-travel/
 
@@ -1044,6 +1044,8 @@ In most cases, yes - provided your current passport is still valid and you haven
 
 [Organisation7 min read · Feb 5, 2026How to Organise Family Travel Documents (Before Your Next Trip)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
 
+[Renewal8 min read · Feb 10, 2026Can You Travel While Your Passport Is Being Renewed?](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/)
+
 ---
 
 # How Long is a Passport Valid for Travel? Validity Rules Explained
@@ -1322,6 +1324,142 @@ You may not be legally required to have one, but it's strongly recommended. Immi
 [Privacy7 min read · Feb 15, 2026Is It Safe to Store Your Passport in Google Photos?](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/)
 
 [Travel Prep7 min read · Jul 4, 2026The Travel Documents People Forget (and Where to Keep Each One)](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/)
+
+[Family Travel7 min read · Jul 16, 2026Family Passport Management: Store Multiple Passports Safely](https://traveldocumentvault.com/blog/family-passport-management/)
+
+---
+
+# International Driving Permit: How Long Yours Actually Lasts
+
+> An IDP runs on its own clock, and it can expire years before the licence it sits beside. How the two treaty types differ and which dates to watch.
+
+Source: https://traveldocumentvault.com/blog/international-driving-permit-validity/
+
+---
+
+![A family loading a hire car at the start of a road trip, a driving licence and International Driving Permit resting on the open map beside them](https://traveldocumentvault.com/blog/international-driving-permit-validity/cover.jpg)
+
+## Key Takeaways
+
+- An IDP is **a translation of the licence you already hold**, so you carry both. Handing over the permit on its own proves nothing.
+- There are three kinds, from three treaties, though two cover nearly everywhere. A **1949 Geneva permit lasts one year**. A **1968 Vienna permit runs up to three**.
+- The Vienna permit is **capped by your driving licence**. If the licence expires first, the permit stops being useful on that date, whatever is printed on it.
+- Countries ratified different conventions, so **a permit accepted in one country can be refused in the next**.
+- Passport, licence and permit run on **three separate clocks** that almost never line up.
+
+You booked the hire car in Seville, printed the confirmation, and packed your licence. At the desk the agent asks for your International Driving Permit. There's one at home somewhere, bought for a trip three summers ago, and you're fairly sure it still counts. It doesn't.
+
+An IDP carries its own expiry date, and that date behaves differently depending on which international treaty your permit was issued under. Most drivers never discover there is more than one kind until theirs is turned down.
+
+## What an IDP Actually Is
+
+An International Driving Permit is an official translation of the licence you already hold. It sets out your details in several languages so an officer who can't read your national licence can still work out what you're entitled to drive.
+
+So it functions as a pair. You carry the domestic licence and the permit together and present both. Alone, the permit establishes nothing, because there's no licence behind it for the permit to translate.
+
+This catches people out more often than the expiry dates do. The permit looks like the serious document, all stamps and languages, so it feels like the one that matters.
+
+## Three Treaties, and the Two That Matter
+
+Three international agreements sit behind IDPs, and countries signed up to one of them or to several. Two do nearly all the work: the 1949 Geneva Convention and the 1968 Vienna Convention. An older 1926 Paris Convention permit is still issued for a small number of destinations, and like the Geneva permit it runs for a year.
+
+A permit issued under the 1949 Geneva Convention is valid for one year. A permit issued under the 1968 Vienna Convention can run for up to three.
+
+The split matters twice over. It sets how long your permit lasts, and it decides where the permit is honoured. A country that ratified only one convention isn't obliged to recognise a permit issued under the other, which is how a permit that worked on last year's trip gets waved away on this one.
+
+| Permit type | How long it lasts | What limits it |
+|---|---|---|
+| **1926 Paris Convention** | One year | The issue date. Rarely needed now |
+| **1949 Geneva Convention** | One year | The issue date |
+| **1968 Vienna Convention** | Up to three years | Your domestic licence, if it expires sooner |
+
+![Three horizontal bars comparing document validity: passport usually 10 years, driving licence varies by country, and international driving permit 1 year or up to 3, with a dashed marker showing where the licence expiry cuts the permit short. Caption reads the shortest one decides](https://traveldocumentvault.com/blog/international-driving-permit-validity/idp-clocks-figure.jpg) Three documents, three clocks. The permit is capped by whichever runs out first.
+
+## The Three-Year Permit That Often Isn't
+
+Those three years carry a condition that's easy to skim past. A Vienna permit expires when your domestic driving licence expires, if that date comes first.
+
+Say your licence has 14 months left and you're issued a three-year permit. The permit is useful for 14 months. The date printed on the front doesn't outrank the licence sitting behind it.
+
+Renewing the licence afterwards doesn't rescue the permit either. It stays tied to the licence it was issued against, so a fresh licence generally means a fresh permit.
+
+## Three Documents, Three Clocks
+
+A passport, a driving licence, and often a permit: anyone driving abroad ends up carrying all three, each issued by a different office on its own timetable, so their expiry dates rarely line up.
+
+Adult passports commonly run 10 years, while licence validity varies widely by country and many require renewal on a fixed cycle or once you pass a certain age. Add a Geneva permit at 12 months, or a Vienna permit at up to three years and sometimes considerably less, and you're juggling three separate calendars, not one.
+
+Nothing tells you when the shortest of those runs out. Your licensing authority writes to you about the licence, and the passport reminder, if you set one, sits in your calendar, but the permit usually has nobody watching it at all, because it was bought for one holiday and then filed in a drawer.
+
+The passport is usually the date people do track, and there's a reason for that: the rules attached to it are stricter and better known. If you want the detail on that clock specifically, our guide to [how long a passport stays valid for travel](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/) covers the months-of-validity requirements that catch people out at check-in. The licence and the permit rarely get the same attention, which is why they're the ones that lapse.
+
+That's the practical argument for keeping all three dates in one place. Travel Document Vault, on the [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) and [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault), stores the documents on your device and tracks each expiry on its own, so the permit doesn't lapse quietly while you're keeping an eye on the passport.
+
+## What to Check Before You Book
+
+A few things are worth checking, roughly in this order.
+
+**Whether you need a permit at all.** Some countries accept a domestic licence on its own, and the country you're driving in sets the requirement, not the one that issued your licence.
+
+**Which convention your destination recognises**, then which one your permit was issued under. It's printed on the document.
+
+**Your licence expiry, before your permit expiry.** On a Vienna permit the licence is the binding date, so checking the permit first tells you less than you think.
+
+**The hire company's own policy.** Companies can ask for more than the law requires, and the person at the counter enforces the policy in front of them rather than the treaty.
+
+Sorting this out takes an afternoon before you book. Sorting it out at a rental desk in another country, with a queue behind you, generally isn't possible at all.
+
+## You Generally Can't Sort It Out After You've Left
+
+An IDP is issued by the country that issued your licence. That's the part which turns a small oversight into a cancelled booking, because it means the permit is something you arrange before departure rather than something you pick up on arrival.
+
+Once you've landed, your options narrow to whatever the hire company will accept, and they're under no obligation to accept anything. Some will hand over the keys on a domestic licence alone, while others won't, and a booking paid for in advance doesn't change that.
+
+The application itself is usually undemanding. Expect to supply your licence details and a passport-style photograph, and expect the permit to be issued fairly quickly, though who handles it varies: in some countries it's a motoring organisation, in others a post office or the licensing authority itself. Check what applies where your licence was issued, and allow for post if the permit is mailed rather than handed over.
+
+Where this bites hardest is a trip booked at short notice. The permit is rarely the problem on its own. It becomes the problem when it's the last item on a list that's already tight.
+
+## Be Careful What You're Buying Online
+
+Search for an International Driving Permit and you'll find sites selling something called an international driving licence, often for considerably more than the official permit costs, sometimes promising instant delivery or a decade of validity.
+
+No such licence exists. The only documents with standing are the permits issued under the 1926, 1949 and 1968 conventions, through the channel your own country designates. Three years on a Vienna permit is the longest any of them runs, so anything advertising 10 or 20 years is describing a document no border official is obliged to accept.
+
+Find out which body issues permits in the country that issued your licence, and go to that body. If a site won't tell you which convention its document is issued under, that answers the question.
+
+If you're building a wider pre-trip list rather than sorting the driving side alone, our [international travel document checklist](https://traveldocumentvault.com/blog/travel-document-checklist/) runs through what to gather before you fly, and [the documents people forget](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/) covers where each one is best kept once you're moving.
+
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
+## Frequently Asked Questions
+
+### Do I need an International Driving Permit?
+
+It depends where you're driving and which licence you hold. Some countries accept your domestic licence on its own, others want an IDP alongside it. The country you're driving in sets the requirement, not the one that issued your licence, so check for your specific destination and nationality before you travel.
+
+### How long is an International Driving Permit valid for?
+
+The treaty it was issued under decides that. A permit issued under the 1949 Geneva Convention is valid for one year. A permit issued under the 1968 Vienna Convention can run for up to three years, though it expires sooner if your domestic driving licence expires first.
+
+### Does an International Driving Permit replace my driving licence?
+
+No. An IDP is an official translation of your existing licence rather than a licence in its own right. You carry both and present both, and handing over the permit on its own is much the same as handing over nothing.
+
+### Can my IDP stop being valid before the date printed on it?
+
+Yes, if it's a 1968 Vienna permit. That type is capped by your domestic licence, so if your licence expires in eight months, the permit stops being useful then, whatever three-year date appears on the document.
+
+### Why is there more than one type of International Driving Permit?
+
+They come from separate international treaties. Most travel is covered by the 1949 Geneva Convention and the 1968 Vienna Convention, and an older 1926 Paris Convention permit is still issued for a small number of destinations. Countries ratified different ones, which is why a permit accepted in one country can be refused in another.
+
+## Related Articles
+
+[Passport Rules7 min read · Jul 4, 2026The Travel Documents People Forget: Where to Keep Each One](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/)
+
+[Passport Rules9 min read · Mar 4, 2026International Travel Document Checklist: Everything You Need Before You Fly](https://traveldocumentvault.com/blog/travel-document-checklist/)
+
+[Family Travel6 min read · Apr 30, 2026How Long is a Passport Valid for Travel? Validity Rules Explained](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/)
 
 ---
 
@@ -1721,6 +1859,8 @@ Many countries require your passport to remain valid for at least six months bey
 [Emergency7 min read · Mar 11, 2026Lost Your Passport Abroad? Do These 7 Things Immediately](https://traveldocumentvault.com/blog/lost-passport-abroad/)
 
 [Travel Emergencies7 min read · Jul 27, 2026Can You Travel with a Damaged Passport?](https://traveldocumentvault.com/blog/damaged-passport-travel/)
+
+[Renewal8 min read · Feb 10, 2026Can You Travel While Your Passport Is Being Renewed?](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/)
 
 ---
 
@@ -2513,11 +2653,15 @@ Keep these with you at all times: passports, boarding passes, travel insurance c
 
 [Travel Prep7 min read · Jul 4, 2026The Travel Documents People Forget (and Where to Keep Each One)](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/)
 
+[Travel Essentials9 min read · Aug 3, 2026Travel Insurance Documents: What to Save Before You Go](https://traveldocumentvault.com/blog/travel-insurance-documents/)
+
+[Driving Abroad6 min read · Aug 17, 2026International Driving Permit: How Long Yours Actually Lasts](https://traveldocumentvault.com/blog/international-driving-permit-validity/)
+
 ---
 
 # Can You Travel with an Expired Passport? UK Rules
 
-> You cannot fly internationally on an expired passport. The narrow domestic exceptions, the fastest UK renewal route, and what to do if you're already abroad.
+> You cannot fly internationally on an expired passport. The narrow domestic exceptions, the fastest UK renewal route, and what to do if you are abroad.
 
 Source: https://traveldocumentvault.com/blog/travel-expired-passport-uk/
 
@@ -2801,7 +2945,7 @@ Travel insurance protects you in most countries worldwide during your trip, but 
 
 # Can You Travel While Your Passport Is Being Renewed?
 
-> Find out whether you can travel while your passport renewal is pending. Rules differ by country and by how you applied. Here's what you need to know.
+> It turns on one thing: whether you still hold your passport or surrendered it. US, UK, Australian and Canadian rules, and what each means for booked trips.
 
 Source: https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/
 
@@ -2869,6 +3013,20 @@ Service Canada publishes its current processing standards, which differ dependin
 | Australia | No (must surrender) | No |
 | Canada | No (must surrender) | No |
 
+## Can You Travel on Your Old Passport While Renewing?
+
+This is the question most people are really asking, and the answer is narrower than it looks. Holding your old passport isn't the same as being able to fly on it.
+
+Two things have to be true at once. The passport has to still be in your possession, and it has to still be valid. Renewal breaks one or both of those in most countries.
+
+UK digital renewal is the clearest case where the answer is yes. Your passport never leaves you, it stays valid until its own expiry date, and you can generally keep travelling on it while the new one is produced.
+
+US mail-in renewal is the case people most often get wrong. You post your existing passport in with the application, so you don't hold it during processing. It comes back cancelled, usually hole-punched, at the same time as the new one. A cancelled passport won't get you through check-in, even though it's yours and it's in your hand.
+
+UK postal renewal, Australia and Canada all take the passport off you at the point of application. There is nothing to travel on until the replacement arrives.
+
+The practical test is simple. If your passport is cancelled, expired, or sitting in a government office, it isn't a travel document. Domestic flights that accept other photo ID are the one exception, and nothing here affects them.
+
 ## If Your Trip Is Sooner Than Your Renewal Timeline
 
 Don't wait to contact your country's passport service by phone - ask specifically about expedited, urgent, or emergency appointment options. These exist in every country listed here, but availability changes week to week and appointment slots disappear quickly.
@@ -2892,6 +3050,10 @@ In most cases, yes. Domestic travel within your own country does not require a v
 ### Can I travel internationally while my passport is being renewed?
 
 Generally no. The exception is UK digital renewal: because you keep your old passport throughout that process, you can continue to use it for international travel while waiting for the new one. In all other cases covered here, international travel requires your new passport to be in hand.
+
+### Can I travel on my old passport while renewing?
+
+Only if it is still in your possession and still valid. UK digital renewal lets you keep your passport and carry on travelling on it. US mail-in renewal returns it cancelled, and a cancelled passport is not valid for travel even though you hold it. UK postal renewal, Australia and Canada all keep it until the new one is issued.
 
 ### What happens if my flight is booked but my passport won't arrive in time?
 
@@ -3434,6 +3596,8 @@ Forgetting your passport means you cannot board. For missing supporting document
 [Passport Rules8 min read · Feb 1, 2026The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
 [Family Travel9 min read · Feb 8, 2026How to Organise Family Travel Documents (Without Losing Your Mind)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+
+[Driving Abroad6 min read · Aug 17, 2026International Driving Permit: How Long Yours Actually Lasts](https://traveldocumentvault.com/blog/international-driving-permit-validity/)
 
 ---
 

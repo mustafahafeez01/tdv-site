@@ -66,6 +66,20 @@ Service Canada veröffentlicht seine aktuellen Bearbeitungsstandards, die je nac
 | Australien | Nein (muss abgegeben werden) | Nein |
 | Kanada | Nein (muss abgegeben werden) | Nein |
 
+## Können Sie während der Erneuerung mit Ihrem alten Reisepass reisen?
+
+Das ist die Frage, die die meisten wirklich stellen, und die Antwort fällt enger aus, als sie wirkt. Den alten Reisepass in der Hand zu halten bedeutet nicht, dass Sie damit fliegen dürfen.
+
+Zwei Dinge müssen gleichzeitig zutreffen. Der Reisepass muss sich noch in Ihrem Besitz befinden, und er muss noch gültig sein. In den meisten Ländern bricht die Erneuerung eine dieser Bedingungen, manchmal beide.
+
+Die digitale Erneuerung im Vereinigten Königreich ist der klarste Fall, in dem die Antwort Ja lautet. Ihr Reisepass verlässt Sie nie, er bleibt bis zu seinem eigenen Ablaufdatum gültig, und Sie können damit in der Regel weiterreisen, während der neue hergestellt wird.
+
+Die US-Erneuerung per Post wird am häufigsten missverstanden. Sie senden Ihren aktuellen Reisepass mit dem Antrag ein und haben ihn während der Bearbeitung deshalb nicht. Er kommt entwertet zurück, meist gelocht, zusammen mit dem neuen. Ein entwerteter Reisepass bringt Sie nicht durch den Check-in, auch wenn er Ihnen gehört und Sie ihn in der Hand halten.
+
+Die postalische Erneuerung im Vereinigten Königreich, Australien und Kanada nehmen Ihnen den Reisepass bei der Antragstellung ab. Bis der Ersatz eintrifft, bleibt nichts übrig, womit Sie reisen könnten.
+
+Der praktische Test ist einfach. Wenn Ihr Reisepass entwertet oder abgelaufen ist oder in einer Behörde liegt, ist er kein Reisedokument. Inlandsflüge, die einen anderen Lichtbildausweis akzeptieren, sind die einzige Ausnahme, und davon bleibt hier alles unberührt.
+
 ## Wenn Ihre Reise früher als der Erneuerungszeitraum stattfindet
 
 Warten Sie nicht, sondern kontaktieren Sie die Passbehörde Ihres Landes telefonisch - fragen Sie speziell nach beschleunigten, dringenden oder Notfall-Terminoptionen. Diese existieren in jedem hier aufgelisteten Land, aber die Verfügbarkeit ändert sich wöchentlich und Terminplätze verschwinden schnell.
@@ -89,6 +103,10 @@ In den meisten Fällen ja. Inlandsreisen im eigenen Land erfordern keinen gülti
 ### Kann ich während der Passerneuerung ins Ausland reisen?
 
 Grundsätzlich nein. Die Ausnahme ist die digitale UK-Erneuerung: Da Sie Ihren alten Pass während dieses Verfahrens behalten, können Sie mit ihm ins Ausland reisen, während Sie auf den neuen warten. In allen anderen hier behandelten Fällen erfordert internationale Reisen, dass Ihr neuer Pass in Ihren Händen ist.
+
+### Kann ich während der Erneuerung mit meinem alten Reisepass reisen?
+
+Nur wenn er sich noch in Ihrem Besitz befindet und noch gültig ist. Bei der digitalen Erneuerung im Vereinigten Königreich behalten Sie Ihren Reisepass und können damit weiterreisen. Die US-Erneuerung per Post gibt ihn entwertet zurück, und ein entwerteter Reisepass ist nicht gültig für Reisen, auch wenn Sie ihn in der Hand halten. Die postalische Erneuerung im Vereinigten Königreich, Australien und Kanada behalten ihn, bis der neue ausgestellt ist.
 
 ### Was ist, wenn mein Flug gebucht ist, aber mein Pass nicht rechtzeitig ankommt?
 

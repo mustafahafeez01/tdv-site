@@ -66,6 +66,20 @@ Service Canada publiceert de actuele verwerkingsnormen, die verschillen afhankel
 | Australië | Nee (moet worden ingeleverd) | Nee |
 | Canada | Nee (moet worden ingeleverd) | Nee |
 
+## Kun je op je oude paspoort reizen tijdens de verlenging?
+
+Dit is de vraag die de meeste mensen eigenlijk stellen, en het antwoord is smaller dan het lijkt. Je oude paspoort in handen hebben is niet hetzelfde als ermee mogen vliegen.
+
+Er moeten twee dingen tegelijk kloppen. Het paspoort moet nog in jouw bezit zijn, en het moet nog geldig zijn. In de meeste landen breekt de verlenging een van beide, soms allebei.
+
+De digitale verlenging in het Verenigd Koninkrijk is het duidelijkste geval waarin het antwoord ja is. Je paspoort verlaat je nooit, het blijft geldig tot de eigen vervaldatum, en je kunt er meestal mee blijven reizen terwijl het nieuwe wordt gemaakt.
+
+De Amerikaanse verlenging per post wordt het vaakst verkeerd begrepen. Je stuurt je huidige paspoort mee met de aanvraag, dus tijdens de behandeling heb je het niet. Het komt geannuleerd terug, meestal met een gaatje, tegelijk met het nieuwe. Een geannuleerd paspoort krijgt je niet door de incheck, ook al is het van jou en heb je het in handen.
+
+De postale verlenging in het Verenigd Koninkrijk, Australië en Canada nemen het paspoort allemaal in op het moment van de aanvraag. Er blijft niets over om mee te reizen tot de vervanging binnen is.
+
+De praktische toets is simpel. Als je paspoort geannuleerd of verlopen is, of bij een overheidsinstantie ligt, is het geen reisdocument. Binnenlandse vluchten die een ander identiteitsbewijs met foto accepteren zijn de enige uitzondering, en daar verandert dit niets aan.
+
 ## Als je reis eerder is dan je verlengingstermijn
 
 Wacht niet met telefonisch contact opnemen met de paspoortinstantie van je land - vraag specifiek naar versnelde, spoed- of noodafspraken. Die bestaan in elk land dat hier wordt genoemd, maar de beschikbaarheid verandert wekelijks en tijdsloten verdwijnen snel.
@@ -89,6 +103,10 @@ In de meeste gevallen wel. Voor binnenlandse reizen binnen je eigen land is geen
 ### Kan ik internationaal reizen terwijl mijn paspoort wordt verlengd?
 
 Over het algemeen niet. De uitzondering is de Britse digitale verlenging: omdat je je oude paspoort gedurende het hele proces behoudt, kun je het blijven gebruiken voor internationale reizen terwijl je op het nieuwe wacht. In alle andere hier besproken gevallen moet je nieuwe paspoort in handen zijn voor internationale reizen.
+
+### Kan ik op mijn oude paspoort reizen tijdens de verlenging?
+
+Alleen als het nog in jouw bezit is en nog geldig. Bij de digitale verlenging in het Verenigd Koninkrijk houd je je paspoort en kun je ermee blijven reizen. De Amerikaanse verlenging per post stuurt het geannuleerd terug, en een geannuleerd paspoort is niet geldig om mee te reizen, ook al heb je het in handen. De postale verlenging in het Verenigd Koninkrijk, Australië en Canada houden het tot het nieuwe is afgegeven.
 
 ### Wat gebeurt er als mijn vlucht geboekt is, maar mijn paspoort niet op tijd aankomt?
 

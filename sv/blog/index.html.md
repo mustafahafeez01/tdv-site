@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
+[PassreglerInternationellt körkort: Hur länge det egentligen gällerEtt internationellt körkort har sin egen giltighetstid och kan gå ut år innan körkortet det hör ihop med. Så skiljer sig konventionstyperna åt, och vilka datum du bör hålla koll på.17 augusti 20266 min läsning](https://traveldocumentvault.com/sv/blog/international-driving-permit-validity/)
+
+##
+
 [Integritet & säkerhetKrypterad molnsäkerhetskopiering för resehandlingar: Vem som har nyckelnVad krypterad säkerhetskopiering egentligen innebär för skannade pass, varför en återställningskod aldrig kan återställas av någon och hur du sparar en kopia du faktiskt kan återställa.10 augusti 20268 min läsning](https://traveldocumentvault.com/sv/blog/encrypted-cloud-backup-travel-documents/)
 
 ##

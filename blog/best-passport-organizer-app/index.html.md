@@ -1,6 +1,6 @@
 # Best Passport and Travel Document App for Families
 
-> Four passports, four expiry dates, one app. What to check before trusting a travel document organizer with your family's scans, and why on-device storage matters.
+> Four passports, four expiry dates, one app. What to check before trusting a passport organizer with your family's scans, and why on-device storage wins.
 
 Source: https://traveldocumentvault.com/blog/best-passport-organizer-app/
 

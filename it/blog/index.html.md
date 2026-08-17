@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/it/blog/
 
 ##
 
+[Regole PassaportoPatente di guida internazionale: quanto dura davveroUn IDP ha una scadenza propria, che può arrivare anni prima di quella della patente a cui è abbinato. Come cambiano i due tipi di trattato e quali date tenere d'occhio.17 agosto 20266 min di lettura](https://traveldocumentvault.com/it/blog/international-driving-permit-validity/)
+
+##
+
 [Privacy e SicurezzaBackup Cloud Crittografato per i Documenti di Viaggio: Chi Ha la ChiaveCosa significa davvero un backup crittografato per le scansioni del passaporto, perché un codice di recupero non può essere reimpostato da nessuno, e come conservare una copia che puoi davvero ripristinare.10 agosto 20268 min di lettura](https://traveldocumentvault.com/it/blog/encrypted-cloud-backup-travel-documents/)
 
 ##

@@ -66,6 +66,20 @@ Service Canada pubblica i propri standard di elaborazione attuali, che variano a
 | Australia | No (deve essere consegnato) | No |
 | Canada | No (deve essere consegnato) | No |
 
+## Potete viaggiare con il vostro vecchio passaporto durante il rinnovo?
+
+È la domanda che la maggior parte delle persone si pone davvero, e la risposta è più stretta di quanto sembri. Avere in mano il vecchio passaporto non equivale a poterci volare.
+
+Devono valere due condizioni contemporaneamente. Il passaporto deve essere ancora in vostro possesso e deve essere ancora valido. Nella maggior parte dei paesi il rinnovo ne rompe una, a volte entrambe.
+
+Il rinnovo digitale britannico è il caso più chiaro in cui la risposta è sì. Il passaporto non vi lascia mai, resta valido fino alla propria data di scadenza e in genere potete continuare a viaggiarci mentre viene prodotto il nuovo.
+
+Il rinnovo statunitense per posta è il caso che più spesso viene frainteso. Spedite il passaporto attuale insieme alla domanda, quindi non lo avete durante la lavorazione. Torna annullato, di solito perforato, insieme al nuovo. Un passaporto annullato non vi fa passare il check-in, anche se è vostro e ce l'avete in mano.
+
+Il rinnovo postale britannico, l'Australia e il Canada prendono tutti il passaporto al momento della domanda. Non resta nulla con cui viaggiare finché non arriva il sostituto.
+
+La prova pratica è semplice. Se il passaporto è annullato, scaduto o si trova in un ufficio pubblico, non è un documento di viaggio. I voli nazionali che accettano un altro documento con fotografia sono l'unica eccezione, e nulla di tutto questo li riguarda.
+
 ## Se il vostro viaggio è prima della vostra tempistica di rinnovo
 
 Non aspettate a contattare il servizio passaporti del vostro paese per telefono - chiedete specificamente informazioni su opzioni di rinnovo accelerato, urgente o appuntamento di emergenza. Questi esistono in ogni paese elencato qui, ma la disponibilità cambia di settimana in settimana e gli slot di appuntamento scompaiono rapidamente.
@@ -89,6 +103,10 @@ Nella maggior parte dei casi, sì. I viaggi nazionali all'interno del vostro pae
 ### Posso viaggiare internazionalmente mentre il mio passaporto viene rinnovato?
 
 Generalmente no. L'eccezione è il rinnovo digitale del Regno Unito: poiché conservate il vostro vecchio passaporto durante tale processo, potete continuare a utilizzarlo per i viaggi internazionali mentre aspettate quello nuovo. In tutti gli altri casi coperti qui, i viaggi internazionali richiedono che il vostro nuovo passaporto sia in mano.
+
+### Posso viaggiare con il mio vecchio passaporto durante il rinnovo?
+
+Solo se è ancora in vostro possesso e ancora valido. Il rinnovo digitale britannico vi permette di tenere il passaporto e continuare a viaggiarci. Il rinnovo statunitense per posta ve lo restituisce annullato, e un passaporto annullato non è valido per viaggiare anche se ce l'avete in mano. Il rinnovo postale britannico, l'Australia e il Canada lo trattengono finché non viene rilasciato il nuovo.
 
 ### Cosa succede se il mio volo è prenotato ma il mio passaporto non arriverà in tempo?
 

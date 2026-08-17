@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
+[PaspoortregelsInternationaal rijbewijs: hoe lang blijft het echt geldig?Een internationaal rijbewijs heeft zijn eigen vervaldatum, die jaren eerder kan verlopen dan het rijbewijs waar het naast hoort. Hoe de verdragstypes verschillen en welke data je in de gaten moet houden.17 augustus 20266 min leestijd](https://traveldocumentvault.com/nl/blog/international-driving-permit-validity/)
+
+##
+
 [Privacy & beveiligingVersleutelde back-up in de cloud voor reisdocumenten: wie heeft de sleutelWat een versleutelde back-up echt betekent voor paspoortscans, waarom niemand een herstelcode kan resetten, en hoe je een kopie bewaart die je ook echt kunt terugzetten.10 augustus 20268 min leestijd](https://traveldocumentvault.com/nl/blog/encrypted-cloud-backup-travel-documents/)
 
 ##

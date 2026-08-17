@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
+[Driving AbroadInternational Driving Permit: How Long Yours Actually LastsAn IDP runs on its own clock, and it can expire years before the licence it sits beside. How the two treaty types differ and which dates to watch.Aug 17, 20266 min read](https://traveldocumentvault.com/blog/international-driving-permit-validity/)
+
+##
+
 [Privacy & SecurityEncrypted Cloud Backup for Travel Documents: Who Holds the KeyEvery app calls its backup encrypted. What the word actually describes, why nobody can reset a recovery code you lose, and how to keep a copy you can still restore.August 10, 20268 min read](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/)
 
 ##

@@ -66,6 +66,20 @@ Service Canada publica sus estándares de procesamiento actuales, que varían se
 | Australia | No (debe entregarse) | No |
 | Canadá | No (debe entregarse) | No |
 
+## ¿Puedes viajar con tu pasaporte antiguo mientras lo renuevas?
+
+Esta es la pregunta que en realidad se hace la mayoría, y la respuesta es más estrecha de lo que parece. Tener tu pasaporte antiguo en la mano no es lo mismo que poder volar con él.
+
+Deben cumplirse dos condiciones a la vez. El pasaporte tiene que seguir en tu poder, y tiene que seguir siendo válido. En la mayoría de los países la renovación rompe una de las dos, y a veces las dos.
+
+La renovación digital británica es el caso más claro en el que la respuesta es sí. Tu pasaporte nunca sale de tus manos, sigue siendo válido hasta su propia fecha de caducidad y por lo general puedes seguir viajando con él mientras se produce el nuevo.
+
+La renovación estadounidense por correo es el caso que más gente entiende mal. Envías tu pasaporte actual junto con la solicitud, así que no lo tienes durante la tramitación. Te vuelve anulado, normalmente perforado, al mismo tiempo que el nuevo. Un pasaporte anulado no te deja pasar la facturación, aunque sea tuyo y lo tengas en la mano.
+
+La renovación postal británica, Australia y Canadá se quedan con tu pasaporte en el momento de la solicitud. No queda nada con lo que viajar hasta que llega el sustituto.
+
+La prueba práctica es sencilla. Si tu pasaporte está anulado, caducado o en una oficina del gobierno, no es un documento de viaje. Los vuelos nacionales que aceptan otra identificación con fotografía son la única excepción, y nada de esto les afecta.
+
 ## Si tu viaje es más pronto que tu plazo de renovación
 
 No esperes a contactar por teléfono al servicio de pasaportes de tu país - pregunta específicamente sobre opciones de expedición, urgencia o cita de emergencia. Estas existen en cada país listado aquí, pero la disponibilidad cambia semana a semana y las citas desaparecen rápidamente.
@@ -89,6 +103,10 @@ En la mayoría de los casos, sí. Viajar dentro de tu país no requiere un pasap
 ### ¿Puedo viajar al extranjero mientras se renueva mi pasaporte?
 
 Generalmente, no. La excepción es la renovación digital de Reino Unido: como conservas tu pasaporte antiguo durante todo ese proceso, puedes seguir usándolo para viajes internacionales mientras esperas el nuevo. En todos los otros casos cubiertos aquí, los viajes internacionales requieren que tu nuevo pasaporte esté en tu mano.
+
+### ¿Puedo viajar con mi pasaporte antiguo mientras lo renuevo?
+
+Solo si sigue en tu poder y sigue siendo válido. La renovación digital británica te permite conservar el pasaporte y seguir viajando con él. La renovación estadounidense por correo te lo devuelve anulado, y un pasaporte anulado no sirve para viajar aunque lo tengas en la mano. La renovación postal británica, Australia y Canadá lo conservan hasta que se expide el nuevo.
 
 ### ¿Qué hago si mi vuelo está reservado pero mi pasaporte no llegará a tiempo?
 

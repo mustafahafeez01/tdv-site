@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
+[여권 규칙국제운전면허증(IDP), 실제 유효기간은 얼마나 될까요국제운전면허증은 독자적인 만료일을 가지며, 함께 소지한 운전면허증보다 몇 년 먼저 만료될 수 있습니다. 두 협약 유형이 어떻게 다른지, 어떤 날짜를 확인해야 하는지 알아보세요.2026년 8월 17일6분 읽기](https://traveldocumentvault.com/ko/blog/international-driving-permit-validity/)
+
+##
+
 [개인정보 보호 및 보안여행 서류 암호화 클라우드 백업: 열쇠는 누가 쥐고 있을까여권 스캔본의 암호화 백업이 실제로 무엇을 의미하는지, 복구 코드는 왜 아무도 재설정할 수 없는지, 그리고 실제로 복원 가능한 사본을 유지하는 방법을 알아보세요.2026년 8월 10일8분 읽기](https://traveldocumentvault.com/ko/blog/encrypted-cloud-backup-travel-documents/)
 
 ##

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
+[パスポート規則国際運転免許証の有効期限:実際はいつまで使えるか国際運転免許証(IDP)は独自の期限で動き、隣にある運転免許証より何年も早く失効することがあります。二つの条約の違いと、確認すべき日付を解説します。2026年8月17日読了時間 6分](https://traveldocumentvault.com/ja/blog/international-driving-permit-validity/)
+
+##
+
 [プライバシーとセキュリティ旅行書類の暗号化クラウドバックアップ: 鍵を握るのは誰かパスポートのスキャンにおける「暗号化バックアップ」が実際に何を意味するのか、回復コードを誰にもリセットできない理由、そして本当に復元できるコピーを保つ方法を解説します。2026年8月10日読了時間 8分](https://traveldocumentvault.com/ja/blog/encrypted-cloud-backup-travel-documents/)
 
 ##

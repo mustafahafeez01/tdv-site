@@ -157,3 +157,5 @@ You may not be legally required to have one, but it's strongly recommended. Immi
 [Privacy7 min read · Feb 15, 2026Is It Safe to Store Your Passport in Google Photos?](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/)
 
 [Travel Prep7 min read · Jul 4, 2026The Travel Documents People Forget (and Where to Keep Each One)](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/)
+
+[Family Travel7 min read · Jul 16, 2026Family Passport Management: Store Multiple Passports Safely](https://traveldocumentvault.com/blog/family-passport-management/)

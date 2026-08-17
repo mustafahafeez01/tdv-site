@@ -111,3 +111,5 @@ In most cases, yes - provided your current passport is still valid and you haven
 [Passport Rules7 min read · Feb 1, 2026The 6-Month Passport Rule: Which Countries Enforce It](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
 [Organisation7 min read · Feb 5, 2026How to Organise Family Travel Documents (Before Your Next Trip)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
+
+[Renewal8 min read · Feb 10, 2026Can You Travel While Your Passport Is Being Renewed?](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/)

@@ -66,6 +66,20 @@ Service Canada menerbitkan standar pemrosesan terkininya, yang berbeda-beda terg
 | Australia | Tidak (harus diserahkan) | Tidak |
 | Kanada | Tidak (harus diserahkan) | Tidak |
 
+## Bisakah Anda bepergian dengan paspor lama saat perpanjangan berlangsung?
+
+Inilah pertanyaan yang sebenarnya ada di benak kebanyakan orang, dan jawabannya lebih sempit daripada yang terlihat. Memegang paspor lama tidak sama dengan boleh terbang menggunakannya.
+
+Dua hal harus benar sekaligus. Paspor harus masih ada pada Anda, dan paspor itu harus masih berlaku. Di sebagian besar negara, proses perpanjangan mematahkan salah satunya, kadang keduanya.
+
+Perpanjangan digital Inggris adalah kasus paling jelas ketika jawabannya ya. Paspor tidak pernah lepas dari Anda, tetap berlaku sampai tanggal kedaluwarsanya sendiri, dan umumnya Anda bisa terus bepergian dengannya selama paspor baru dibuat.
+
+Perpanjangan lewat pos di Amerika Serikat adalah kasus yang paling sering disalahpahami. Anda mengirimkan paspor yang ada bersama permohonan, jadi paspor itu tidak ada pada Anda selama proses berlangsung. Paspor kembali dalam keadaan dibatalkan, biasanya dilubangi, bersamaan dengan paspor baru. Paspor yang dibatalkan tidak akan meloloskan Anda di check-in, meskipun itu milik Anda dan ada di tangan Anda.
+
+Perpanjangan lewat pos di Inggris, Australia dan Kanada sama-sama mengambil paspor Anda saat permohonan diajukan. Tidak ada yang tersisa untuk dipakai bepergian sampai penggantinya datang.
+
+Ujian praktisnya sederhana. Jika paspor Anda dibatalkan, kedaluwarsa, atau berada di kantor pemerintah, itu bukan dokumen perjalanan. Penerbangan domestik yang menerima identitas berfoto lain adalah satu-satunya pengecualian, dan tidak ada di sini yang memengaruhinya.
+
 ## Jika Perjalanan Anda Lebih Cepat dari Jadwal Perpanjangan
 
 Jangan menunda menghubungi kantor paspor negara Anda lewat telepon - tanyakan secara khusus soal opsi janji temu cepat, mendesak, atau darurat. Opsi ini ada di setiap negara yang tercantum di sini, tapi ketersediaannya berubah tiap minggu dan slot janji temu cepat habis.
@@ -89,6 +103,10 @@ Dalam kebanyakan kasus, bisa. Perjalanan domestik di dalam negara Anda sendiri t
 ### Bisakah saya bepergian internasional selama paspor saya sedang diperpanjang?
 
 Umumnya tidak bisa. Pengecualiannya adalah perpanjangan digital Inggris: karena Anda tetap memegang paspor lama sepanjang proses, Anda bisa terus memakainya untuk bepergian internasional sambil menunggu paspor baru. Untuk semua kasus lain yang dibahas di sini, perjalanan internasional mengharuskan paspor baru Anda sudah di tangan.
+
+### Bisakah saya bepergian dengan paspor lama saat perpanjangan berlangsung?
+
+Hanya jika paspor masih ada pada Anda dan masih berlaku. Perpanjangan digital Inggris membuat Anda tetap memegang paspor dan bisa terus bepergian dengannya. Perpanjangan lewat pos di Amerika Serikat mengembalikannya dalam keadaan dibatalkan, dan paspor yang dibatalkan tidak berlaku untuk bepergian meskipun ada di tangan Anda. Perpanjangan lewat pos di Inggris, Australia dan Kanada menahannya sampai paspor baru diterbitkan.
 
 ### Apa yang terjadi jika penerbangan saya sudah dipesan tapi paspor saya tidak akan tiba tepat waktu?
 

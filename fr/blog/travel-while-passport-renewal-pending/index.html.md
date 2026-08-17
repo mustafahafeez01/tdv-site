@@ -66,6 +66,20 @@ Service Canada publie ses normes de traitement actuelles, qui varient selon que 
 | Australie | Non (doit être remis) | Non |
 | Canada | Non (doit être remis) | Non |
 
+## Pouvez-vous voyager avec votre ancien passeport pendant le renouvellement ?
+
+C'est la vraie question que se posent la plupart des gens, et la réponse est plus étroite qu'il n'y paraît. Avoir votre ancien passeport en main ne signifie pas que vous pouvez voler avec.
+
+Deux conditions doivent être réunies en même temps. Le passeport doit toujours être en votre possession, et il doit toujours être valide. Dans la plupart des pays, le renouvellement rompt l'une de ces conditions, parfois les deux.
+
+Le renouvellement numérique britannique est le cas le plus clair où la réponse est oui. Votre passeport ne vous quitte jamais, il reste valide jusqu'à sa propre date d'expiration, et vous pouvez généralement continuer à voyager avec pendant la production du nouveau.
+
+Le renouvellement américain par courrier est le cas que les gens comprennent le plus souvent de travers. Vous envoyez votre passeport actuel avec votre demande, vous ne l'avez donc pas pendant le traitement. Il vous revient annulé, généralement perforé, en même temps que le nouveau. Un passeport annulé ne vous fera pas passer l'enregistrement, même s'il est à vous et entre vos mains.
+
+Le renouvellement postal britannique, l'Australie et le Canada prennent tous votre passeport au moment de la demande. Il ne reste rien avec quoi voyager jusqu'à l'arrivée du remplacement.
+
+Le test pratique est simple. Si votre passeport est annulé, expiré ou dans un bureau gouvernemental, ce n'est pas un document de voyage. Les vols intérieurs qui acceptent une autre pièce d'identité avec photo sont la seule exception, et rien de tout cela ne les concerne.
+
 ## Si votre voyage est plus proche que votre délai de renouvellement
 
 Ne perdez pas de temps en contactant par téléphone le service des passeports de votre pays - demandez spécifiquement les options de traitement accéléré, urgent ou d'urgence. Ceux-ci existent dans tous les pays énumérés ici, mais la disponibilité change d'une semaine à l'autre et les créneaux de rendez-vous disparaissent rapidement.
@@ -89,6 +103,10 @@ Dans la plupart des cas, oui. Les voyages intérieurs dans votre propre pays ne 
 ### Puis-je voyager à l'étranger pendant que mon passeport est renouvelé ?
 
 Généralement non. L'exception est le renouvellement numérique au Royaume-Uni : puisque vous conservez votre ancien passeport tout au long de ce processus, vous pouvez continuer à l'utiliser pour les voyages internationaux en attendant le nouveau. Dans tous les autres cas couverts ici, les voyages internationaux nécessitent que votre nouveau passeport soit en main.
+
+### Puis-je voyager avec mon ancien passeport pendant le renouvellement ?
+
+Uniquement s'il est toujours en votre possession et toujours valide. Le renouvellement numérique britannique vous permet de garder votre passeport et de continuer à voyager avec. Le renouvellement américain par courrier vous le renvoie annulé, et un passeport annulé n'est pas valide pour voyager même si vous l'avez en main. Le renouvellement postal britannique, l'Australie et le Canada le conservent jusqu'à la délivrance du nouveau.
 
 ### Que se passe-t-il si mon vol est réservé mais mon passeport n'arrivera pas à temps ?
 

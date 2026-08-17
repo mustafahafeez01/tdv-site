@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 ##
 
+[Règles de passeportPermis de conduire international : sa durée de validité réelleUn permis de conduire international suit son propre calendrier et peut expirer des années avant le permis qu'il accompagne. Comment les deux conventions diffèrent, et quelles dates surveiller.17 août 20266 min de lecture](https://traveldocumentvault.com/fr/blog/international-driving-permit-validity/)
+
+##
+
 [Confidentialité et sécuritéSauvegarde cloud chiffrée pour vos documents de voyage : qui détient la cléCe que signifie vraiment une sauvegarde chiffrée pour vos scans de passeport, pourquoi un code de récupération ne peut être réinitialisé par personne, et comment garder une copie que vous pourrez réellement restaurer.10 août 20268 min de lecture](https://traveldocumentvault.com/fr/blog/encrypted-cloud-backup-travel-documents/)
 
 ##

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
+[PasreglerInternationalt kørekort: Hvor længe det egentlig gælderEt internationalt kørekort har sin egen udløbsdato og kan udløbe år før det kørekort, det følger. Sådan adskiller de to traktattyper sig, og hvilke datoer du skal holde øje med.17. august 20266 min læsning](https://traveldocumentvault.com/da/blog/international-driving-permit-validity/)
+
+##
+
 [Privatliv & sikkerhedKrypteret skybackup til rejsedokumenter: Hvem har nøglen?Hvad "krypteret backup" egentlig betyder for pas-scanninger, hvorfor en gendannelseskode ikke kan nulstilles af nogen, og hvordan du opbevarer en kopi, du rent faktisk kan gendanne.10. august 20268 min læsning](https://traveldocumentvault.com/da/blog/encrypted-cloud-backup-travel-documents/)
 
 ##

@@ -66,6 +66,20 @@ Service Canada offentliggør sine aktuelle behandlingsstandarder, som varierer a
 | Australien | Nej (skal afleveres) | Nej |
 | Canada | Nej (skal afleveres) | Nej |
 
+## Kan du rejse på dit gamle pas under fornyelsen?
+
+Det er spørgsmålet, de fleste i virkeligheden stiller, og svaret er snævrere, end det ser ud. At have sit gamle pas i hånden er ikke det samme som at måtte flyve på det.
+
+To ting skal være opfyldt på én gang. Passet skal stadig være i din besiddelse, og det skal stadig være gyldigt. I de fleste lande bryder fornyelsen det ene eller begge.
+
+Storbritanniens digitale fornyelse er det klareste tilfælde, hvor svaret er ja. Passet forlader dig aldrig, det forbliver gyldigt indtil sin egen udløbsdato, og du kan som regel fortsætte med at rejse på det, mens det nye bliver fremstillet.
+
+Den amerikanske fornyelse med post er det tilfælde, flest misforstår. Du sender dit nuværende pas ind sammen med ansøgningen og har det derfor ikke under sagsbehandlingen. Det kommer retur annulleret, som regel hullet, samtidig med det nye. Et annulleret pas får dig ikke gennem check-in, selv om det er dit og ligger i din hånd.
+
+Storbritanniens postfornyelse, Australien og Canada tager alle passet fra dig, når ansøgningen indgives. Der er ikke noget tilbage at rejse på, før erstatningen kommer.
+
+Den praktiske test er enkel. Hvis dit pas er annulleret, udløbet eller ligger hos en myndighed, er det ikke et rejsedokument. Indenrigsfly, der accepterer anden billedlegitimation, er den eneste undtagelse, og intet af dette påvirker dem.
+
 ## Hvis din rejse er tættere på end din fornyelsestidslinje
 
 Vent ikke med at kontakte dit lands pasmyndighed telefonisk - spørg specifikt om ekspederet, hastende eller nødbehandlingstider. De findes i alle lande nævnt her, men tilgængeligheden ændrer sig fra uge til uge, og tider forsvinder hurtigt.
@@ -89,6 +103,10 @@ I de fleste tilfælde ja. Indenrigsrejser i dit eget land kræver ikke et gyldig
 ### Kan jeg rejse internationalt, mens mit pas bliver fornyet?
 
 Generelt nej. Undtagelsen er britisk digital fornyelse: fordi du beholder dit gamle pas gennem hele processen, kan du fortsætte med at bruge det til udenrigsrejser, mens du venter på det nye. I alle andre tilfælde, der er nævnt her, kræver udenrigsrejser, at dit nye pas er i hånden.
+
+### Kan jeg rejse på mit gamle pas under fornyelsen?
+
+Kun hvis det stadig er i din besiddelse og stadig gyldigt. Storbritanniens digitale fornyelse lader dig beholde passet og fortsætte med at rejse på det. Den amerikanske fornyelse med post sender det retur annulleret, og et annulleret pas er ikke gyldigt til rejse, selv om du har det i hånden. Storbritanniens postfornyelse, Australien og Canada beholder det, indtil det nye er udstedt.
 
 ### Hvad sker der, hvis min flyafgang er booket, men mit pas ikke når frem i tide?
 

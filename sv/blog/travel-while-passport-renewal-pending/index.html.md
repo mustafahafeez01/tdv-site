@@ -66,6 +66,20 @@ Service Canada publicerar sina aktuella handläggningsstandarder, som skiljer si
 | Australien | Nej (måste lämnas in) | Nej |
 | Kanada | Nej (måste lämnas in) | Nej |
 
+## Kan du resa på ditt gamla pass under förnyelsen?
+
+Det här är frågan de flesta egentligen ställer, och svaret är snävare än det ser ut. Att ha sitt gamla pass i handen är inte samma sak som att få flyga på det.
+
+Två saker måste stämma samtidigt. Passet måste fortfarande vara i din ägo, och det måste fortfarande vara giltigt. I de flesta länder bryter förnyelsen det ena eller båda.
+
+Storbritanniens digitala förnyelse är det tydligaste fallet där svaret är ja. Passet lämnar dig aldrig, det förblir giltigt fram till sitt eget utgångsdatum och du kan i regel fortsätta resa på det medan det nya tillverkas.
+
+Den amerikanska förnyelsen per post är det fall som flest missförstår. Du skickar in ditt nuvarande pass med ansökan och har det därför inte under handläggningen. Det kommer tillbaka makulerat, oftast hålslaget, samtidigt som det nya. Ett makulerat pass tar dig inte genom incheckningen, även om det är ditt och ligger i din hand.
+
+Storbritanniens postförnyelse, Australien och Kanada tar alla passet av dig när ansökan lämnas in. Det finns ingenting kvar att resa på förrän ersättningen kommer.
+
+Det praktiska testet är enkelt. Om passet är makulerat, utgånget eller ligger hos en myndighet är det inte en resehandling. Inrikesflyg som godtar annan fotolegitimation är det enda undantaget, och inget av detta påverkar dem.
+
 ## Om din resa ligger tidigare än din förnyelsetidslinje
 
 Vänta inte med att kontakta ditt lands passmyndighet per telefon - fråga specifikt om expedierade, brådskande eller akuta besökstider. De finns i alla länder som listas här, men tillgängligheten ändras vecka för vecka och besökstider försvinner snabbt.
@@ -89,6 +103,10 @@ I de flesta fall, ja. Inrikesresor inom ditt eget land kräver inte ett giltigt 
 ### Kan jag resa utomlands medan mitt pass förnyas?
 
 I allmänhet nej. Undantaget är Storbritanniens digitala förnyelse: eftersom du behåller ditt gamla pass under hela processen kan du fortsätta använda det för utrikesresor medan du väntar på det nya. I alla andra fall som tas upp här krävs att ditt nya pass finns i din hand för utrikesresor.
+
+### Kan jag resa på mitt gamla pass under förnyelsen?
+
+Bara om det fortfarande är i din ägo och fortfarande giltigt. Storbritanniens digitala förnyelse låter dig behålla passet och fortsätta resa på det. Den amerikanska förnyelsen per post lämnar tillbaka det makulerat, och ett makulerat pass är inte giltigt för resa även om du har det i handen. Storbritanniens postförnyelse, Australien och Kanada behåller det tills det nya är utfärdat.
 
 ### Vad händer om min flygning är bokad men mitt pass inte hinner komma i tid?
 

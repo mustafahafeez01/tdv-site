@@ -1,6 +1,6 @@
 # Can You Travel While Your Passport Is Being Renewed?
 
-> Find out whether you can travel while your passport renewal is pending. Rules differ by country and by how you applied. Here's what you need to know.
+> It turns on one thing: whether you still hold your passport or surrendered it. US, UK, Australian and Canadian rules, and what each means for booked trips.
 
 Source: https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/
 
@@ -68,6 +68,20 @@ Service Canada publishes its current processing standards, which differ dependin
 | Australia | No (must surrender) | No |
 | Canada | No (must surrender) | No |
 
+## Can You Travel on Your Old Passport While Renewing?
+
+This is the question most people are really asking, and the answer is narrower than it looks. Holding your old passport isn't the same as being able to fly on it.
+
+Two things have to be true at once. The passport has to still be in your possession, and it has to still be valid. Renewal breaks one or both of those in most countries.
+
+UK digital renewal is the clearest case where the answer is yes. Your passport never leaves you, it stays valid until its own expiry date, and you can generally keep travelling on it while the new one is produced.
+
+US mail-in renewal is the case people most often get wrong. You post your existing passport in with the application, so you don't hold it during processing. It comes back cancelled, usually hole-punched, at the same time as the new one. A cancelled passport won't get you through check-in, even though it's yours and it's in your hand.
+
+UK postal renewal, Australia and Canada all take the passport off you at the point of application. There is nothing to travel on until the replacement arrives.
+
+The practical test is simple. If your passport is cancelled, expired, or sitting in a government office, it isn't a travel document. Domestic flights that accept other photo ID are the one exception, and nothing here affects them.
+
 ## If Your Trip Is Sooner Than Your Renewal Timeline
 
 Don't wait to contact your country's passport service by phone - ask specifically about expedited, urgent, or emergency appointment options. These exist in every country listed here, but availability changes week to week and appointment slots disappear quickly.
@@ -91,6 +105,10 @@ In most cases, yes. Domestic travel within your own country does not require a v
 ### Can I travel internationally while my passport is being renewed?
 
 Generally no. The exception is UK digital renewal: because you keep your old passport throughout that process, you can continue to use it for international travel while waiting for the new one. In all other cases covered here, international travel requires your new passport to be in hand.
+
+### Can I travel on my old passport while renewing?
+
+Only if it is still in your possession and still valid. UK digital renewal lets you keep your passport and carry on travelling on it. US mail-in renewal returns it cancelled, and a cancelled passport is not valid for travel even though you hold it. UK postal renewal, Australia and Canada all keep it until the new one is issued.
 
 ### What happens if my flight is booked but my passport won't arrive in time?
 
