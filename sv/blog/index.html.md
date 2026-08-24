@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
+[PassreglerSå läser du ditt pass: vilket datum som faktiskt gällerPassets datasida har två datum, och de flesta anger fel ett av dem. Vad utfärdandedatum, sista giltighetsdag och utfärdandeland var för sig faktiskt styr.24 augusti 20266 min läsning](https://traveldocumentvault.com/sv/blog/how-to-read-your-passport-dates/)
+
+##
+
 [PassreglerInternationellt körkort: Hur länge det egentligen gällerEtt internationellt körkort har sin egen giltighetstid och kan gå ut år innan körkortet det hör ihop med. Så skiljer sig konventionstyperna åt, och vilka datum du bör hålla koll på.17 augusti 20266 min läsning](https://traveldocumentvault.com/sv/blog/international-driving-permit-validity/)
 
 ##

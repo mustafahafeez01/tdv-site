@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 ##
 
+[Règles de passeportComment lire son passeport : quelle date compte vraimentLa page d'identité de votre passeport comporte deux dates, et la plupart des gens citent la mauvaise. Ce que la date de délivrance, la date d'expiration et le pays émetteur contrôlent réellement.24 août 20266 min de lecture](https://traveldocumentvault.com/fr/blog/how-to-read-your-passport-dates/)
+
+##
+
 [Règles de passeportPermis de conduire international : sa durée de validité réelleUn permis de conduire international suit son propre calendrier et peut expirer des années avant le permis qu'il accompagne. Comment les deux conventions diffèrent, et quelles dates surveiller.17 août 20266 min de lecture](https://traveldocumentvault.com/fr/blog/international-driving-permit-validity/)
 
 ##

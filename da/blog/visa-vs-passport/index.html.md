@@ -1,6 +1,6 @@
-# Hvad er forskellen på et visum og et pas?
+# Er et visum det samme som et pas? Forskellen forklaret
 
-> Et pas beviser, hvem du er. Et visum er et lands tilladelse til at rejse ind. Her er forskellen på de to, hvorfor de fleste rejser kræver begge dele, og hvem du skal spørge.
+> Nej, og det ene tæller aldrig som det andet. Et pas beviser, hvem du er – et visum er et lands tilladelse til at rejse ind. Hvorfor de fleste rejser kræver begge dele, og hvordan du tjekker.
 
 Source: https://traveldocumentvault.com/da/blog/visa-vs-passport/
 
@@ -39,6 +39,16 @@ Visumkrav afhænger af dit statsborgerskab. En statsborger i ét land skal måsk
 Dit pas besvarer ét spørgsmål: "Hvem er du, og hvilket land har udstedt dette dokument?" Dit visum besvarer et andet: "Tillader destinationslandet dig at besøge det?" Tilsammen fungerer de som en nøgle i to dele - dit pas lader dig forlade hjemlandet, og dit visum giver dig adgang ved din destination.
 
 De fleste internationale rejser kræver både et gyldigt pas og et relevant visum (eller bekræftelse på, at der ikke kræves visum til din destination). Uden pas kan du ikke lovligt forlade dit land. Uden et påkrævet visum kan du ikke rejse ind i din destination, uanset hvor gyldigt dit pas er. Mange rejseforstyrrelser opstår, fordi rejsende har et gyldigt pas, men glemmer at tjekke visumkravene, før de booker.
+
+## Er et pas det samme som et visum?
+
+Nej, og et pas tæller aldrig som visum. De kommer fra forskellige myndigheder og besvarer forskellige spørgsmål, så det ene kan aldrig træde i stedet for det andet, uanset hvor gyldigt det er.
+
+To ting holder forvirringen i live. Den første er fysisk: et visum er ofte en mærkat eller et stempel placeret inde i paset, så det, du sidder med, ligner ét dokument med nogle ekstra udfyldte sider. I virkeligheden er det to separate tilladelser i samme hæfte, udstedt af to forskellige lande.
+
+Den anden er visumfri rejse. Når en destination lader dit statsborgerskab komme ind uden visum, føles det, som om paset klarede opgaven helt alene. Det, der faktisk skete, er, at landet frafaldt kravet for indehavere af netop det pas. Visummet blev ikke erstattet af paset – det blev bare ikke krævet, og det samme land kan sagtens kræve ét af en nabo, der rejser på et andet pas.
+
+Paset er altså dit og følger dig overalt. Tilladelsen gives separat af hver destination og kan nægtes, selv når dit pas er i perfekt stand.
 
 ## Typer af visum
 

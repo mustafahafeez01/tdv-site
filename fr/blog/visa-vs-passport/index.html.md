@@ -1,6 +1,6 @@
-# Quelle est la différence entre un visa et un passeport ?
+# Un visa est-il la même chose qu'un passeport ? La différence expliquée
 
-> Un passeport prouve qui vous êtes. Un visa est l'autorisation d'entrer accordée par un pays. Voici ce qui les distingue et auprès de qui vérifier.
+> Non, et l'un ne remplace jamais l'autre. Le passeport prouve qui vous êtes ; le visa est l'autorisation d'entrée accordée par un pays. Pourquoi la plupart des voyages nécessitent les deux, et comment le vérifier.
 
 Source: https://traveldocumentvault.com/fr/blog/visa-vs-passport/
 
@@ -39,6 +39,16 @@ Les exigences de visa dépendent de votre nationalité. Un citoyen d'un pays peu
 Votre passeport répond à une question : « Qui êtes-vous et quel pays a délivré ce document ? » Votre visa répond à une autre : « Le pays de destination vous permet-il de visiter ? » Ensemble, ils fonctionnent comme une clé à deux parties - votre passeport vous permet de quitter la maison, et votre visa vous accorde l'accès à votre destination.
 
 La plupart des voyages internationaux exigent un passeport valide et un visa approprié (ou la confirmation qu'un visa n'est pas nécessaire pour votre destination). Sans passeport, vous ne pouvez pas légalement quitter votre pays. Sans un visa requis, vous ne pouvez pas entrer dans votre destination, quel que soit le statut de votre passeport. De nombreuses perturbations de voyage se produisent parce que les voyageurs ont des passeports valides mais oublient de vérifier les exigences de visa avant de réserver.
+
+## Un passeport est-il la même chose qu'un visa ?
+
+Non, et un passeport ne compte jamais comme un visa. Ils proviennent de gouvernements différents et répondent à des questions différentes, si bien que l'un ne peut jamais remplacer l'autre, aussi valide soit-il.
+
+Deux choses entretiennent cette confusion. La première est physique : un visa est souvent une vignette ou un tampon apposé à l'intérieur du passeport, si bien que ce que vous tenez en main ressemble à un seul document avec quelques pages supplémentaires remplies. Ce sont en réalité deux autorisations réunies dans un même carnet, délivrées par deux pays différents.
+
+La seconde est le voyage sans visa. Quand une destination laisse entrer votre nationalité sans visa, on a l'impression que le passeport a tout fait tout seul. En réalité, le pays a simplement renoncé à cette exigence pour les détenteurs de ce passeport. Le visa n'a pas été remplacé par le passeport ; il n'a tout simplement pas été demandé, et ce même pays peut l'exiger d'un de vos voisins voyageant avec un passeport différent.
+
+Le passeport est donc le vôtre et vous accompagne partout. L'autorisation, elle, est accordée séparément par chaque destination, et elle peut être refusée même si votre passeport est en parfaite règle.
 
 ## Types de visas
 

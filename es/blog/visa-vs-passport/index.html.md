@@ -1,6 +1,6 @@
-# ¿Cuál es la diferencia entre una visa y un pasaporte?
+# ¿Es lo mismo una visa que un pasaporte? La diferencia explicada
 
-> El pasaporte prueba quién eres. La visa es el permiso de entrada que concede un país. Esto es lo que los diferencia y con quién conviene verificarlo.
+> No, y tener uno nunca cuenta como el otro. El pasaporte prueba quién eres; la visa es el permiso de un país para entrar. Por qué la mayoría de los viajes necesitan ambos, y cómo comprobarlo.
 
 Source: https://traveldocumentvault.com/es/blog/visa-vs-passport/
 
@@ -39,6 +39,16 @@ Los requisitos de visa dependen de tu nacionalidad. Un ciudadano de un país pod
 Tu pasaporte responde una pregunta: "Quién eres tú, y qué país emitió este documento?" Tu visa responde otra: "¿Te permite el país de destino visitarlo?" Juntos, funcionan como una llave de dos partes - tu pasaporte te permite salir de casa, y tu visa te concede entrada en tu destino.
 
 La mayoría de los viajes internacionales requieren un pasaporte válido y una visa apropiada (o confirmación de que una visa no es necesaria para tu destino). Sin un pasaporte, no puedes dejar legalmente tu país. Sin una visa requerida, no puedes entrar en tu destino, sin importar cuán válido sea tu pasaporte. Muchas interrupciones en viajes suceden porque los viajeros tienen pasaportes válidos pero olvidan comprobar los requisitos de visa antes de reservar.
+
+## ¿Es lo mismo un pasaporte que una visa?
+
+No, y un pasaporte nunca cuenta como visa. Vienen de gobiernos distintos y responden preguntas distintas, así que uno no puede sustituir al otro por muy válido que sea.
+
+Dos cosas mantienen viva esta confusión. La primera es física: la visa suele ser una etiqueta o un sello colocado dentro del pasaporte, así que lo que tienes en la mano parece un solo documento con algunas páginas extra rellenadas. En realidad son dos permisos en un mismo cuadernillo, expedidos por dos países distintos.
+
+La segunda es la exención de visado. Cuando un destino deja entrar a tu nacionalidad sin visa, da la sensación de que el pasaporte hizo todo el trabajo por sí solo. Lo que ocurrió en realidad es que el país eliminó ese requisito para quienes tienen ese pasaporte. La visa no fue sustituida por el pasaporte; simplemente no se pidió, y ese mismo país puede exigírsela a un vecino tuyo que viaje con un pasaporte distinto.
+
+Así que el pasaporte es tuyo y te acompaña a todas partes. El permiso lo concede cada destino por separado, y puede denegarse aunque tu pasaporte esté en perfecto estado.
 
 ## Tipos de Visas
 

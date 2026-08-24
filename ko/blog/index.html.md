@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
+[여권 규칙여권 읽는 법: 실제로 중요한 날짜는 어느 쪽일까요여권 사진 면에는 날짜가 두 개 나와 있는데, 대부분 그중 잘못된 쪽을 말합니다. 발급일, 만료일, 발급국이 각각 무엇을 좌우하는지 알아보세요.2026년 8월 24일6분 읽기](https://traveldocumentvault.com/ko/blog/how-to-read-your-passport-dates/)
+
+##
+
 [여권 규칙국제운전면허증(IDP), 실제 유효기간은 얼마나 될까요국제운전면허증은 독자적인 만료일을 가지며, 함께 소지한 운전면허증보다 몇 년 먼저 만료될 수 있습니다. 두 협약 유형이 어떻게 다른지, 어떤 날짜를 확인해야 하는지 알아보세요.2026년 8월 17일6분 읽기](https://traveldocumentvault.com/ko/blog/international-driving-permit-validity/)
 
 ##

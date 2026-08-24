@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
+[PaspoortregelsJe paspoort lezen: welke datum echt teltDe datapagina van je paspoort heeft twee data, en de meeste mensen noemen de verkeerde. Wat de afgiftedatum, de vervaldatum en het land van afgifte precies bepalen.24 augustus 20266 min leestijd](https://traveldocumentvault.com/nl/blog/how-to-read-your-passport-dates/)
+
+##
+
 [PaspoortregelsInternationaal rijbewijs: hoe lang blijft het echt geldig?Een internationaal rijbewijs heeft zijn eigen vervaldatum, die jaren eerder kan verlopen dan het rijbewijs waar het naast hoort. Hoe de verdragstypes verschillen en welke data je in de gaten moet houden.17 augustus 20266 min leestijd](https://traveldocumentvault.com/nl/blog/international-driving-permit-validity/)
 
 ##

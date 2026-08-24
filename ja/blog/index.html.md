@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
+[パスポート規則パスポートの読み方:本当に重要なのはどちらの日付かパスポートの写真ページには二つの日付が並んでいますが、多くの人はそのうち間違った方を答えてしまいます。発行日、有効期限、発行国がそれぞれ何を左右するのかを解説します。2026年8月24日読了時間 6分](https://traveldocumentvault.com/ja/blog/how-to-read-your-passport-dates/)
+
+##
+
 [パスポート規則国際運転免許証の有効期限:実際はいつまで使えるか国際運転免許証(IDP)は独自の期限で動き、隣にある運転免許証より何年も早く失効することがあります。二つの条約の違いと、確認すべき日付を解説します。2026年8月17日読了時間 6分](https://traveldocumentvault.com/ja/blog/international-driving-permit-validity/)
 
 ##

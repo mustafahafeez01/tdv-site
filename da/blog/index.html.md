@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
+[PasreglerSådan læser du dit pas: hvilken dato der egentlig betyder nogetPas-siden med dine oplysninger har to datoer, og de fleste oplyser den forkerte. Hvad udstedelsesdato, udløbsdato og udstedelsesland hver især faktisk styrer.24. august 20266 min læsning](https://traveldocumentvault.com/da/blog/how-to-read-your-passport-dates/)
+
+##
+
 [PasreglerInternationalt kørekort: Hvor længe det egentlig gælderEt internationalt kørekort har sin egen udløbsdato og kan udløbe år før det kørekort, det følger. Sådan adskiller de to traktattyper sig, og hvilke datoer du skal holde øje med.17. august 20266 min læsning](https://traveldocumentvault.com/da/blog/international-driving-permit-validity/)
 
 ##

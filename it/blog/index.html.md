@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/it/blog/
 
 ##
 
+[Regole PassaportoCome Leggere il Tuo Passaporto: Quale Data Conta DavveroLa pagina dei dati del tuo passaporto ha due date, e quasi tutti indicano quella sbagliata. Cosa controllano davvero la data di rilascio, la data di scadenza e il paese di rilascio.24 agosto 20266 min di lettura](https://traveldocumentvault.com/it/blog/how-to-read-your-passport-dates/)
+
+##
+
 [Regole PassaportoPatente di guida internazionale: quanto dura davveroUn IDP ha una scadenza propria, che può arrivare anni prima di quella della patente a cui è abbinato. Come cambiano i due tipi di trattato e quali date tenere d'occhio.17 agosto 20266 min di lettura](https://traveldocumentvault.com/it/blog/international-driving-permit-validity/)
 
 ##

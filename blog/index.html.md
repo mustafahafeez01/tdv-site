@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
+[Passport RulesHow to Read Your Passport: Which Date Actually MattersYour data page carries two dates and most people quote the wrong one. What the issue date, the expiry date and the issuing country each actually control.Aug 24, 20266 min read](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/)
+
+##
+
 [Driving AbroadInternational Driving Permit: How Long Yours Actually LastsAn IDP runs on its own clock, and it can expire years before the licence it sits beside. How the two treaty types differ and which dates to watch.Aug 17, 20266 min read](https://traveldocumentvault.com/blog/international-driving-permit-validity/)
 
 ##

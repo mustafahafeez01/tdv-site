@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
+[Aturan PasporCara Membaca Paspor Anda: Tanggal Mana yang Sebenarnya PentingHalaman data paspor Anda memuat dua tanggal, dan kebanyakan orang menyebut yang salah. Apa yang sebenarnya ditentukan oleh tanggal penerbitan, tanggal kedaluwarsa, dan negara penerbit.24 Agustus 20266 menit baca](https://traveldocumentvault.com/id/blog/how-to-read-your-passport-dates/)
+
+##
+
 [Aturan PasporIzin Mengemudi Internasional: Berapa Lama Sebenarnya Masa BerlakunyaIDP berjalan dengan jamnya sendiri, dan bisa kedaluwarsa bertahun-tahun sebelum SIM yang menyertainya. Perbedaan dua jenis perjanjian dan tanggal mana yang perlu diperhatikan.17 Agustus 20266 menit baca](https://traveldocumentvault.com/id/blog/international-driving-permit-validity/)
 
 ##

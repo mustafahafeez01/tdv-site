@@ -1,6 +1,6 @@
-# Was ist der Unterschied zwischen Visum und Reisepass?
+# Ist ein Visum dasselbe wie ein Reisepass? Der Unterschied erklärt
 
-> Der Reisepass weist aus, wer Sie sind. Das Visum ist die Einreiseerlaubnis eines Landes. Was die beiden unterscheidet und wo Sie es prüfen lassen.
+> Nein, und keines der beiden ersetzt je das andere. Der Reisepass weist aus, wer Sie sind; das Visum ist die Einreiseerlaubnis eines Landes. Warum die meisten Reisen beides brauchen und wie Sie es prüfen.
 
 Source: https://traveldocumentvault.com/de/blog/visa-vs-passport/
 
@@ -39,6 +39,16 @@ Die Visabestimmungen hängen von Ihrer Nationalität ab. Ein Bürger eines Lande
 Ihr Reisepass beantwortet eine Frage: "Wer sind Sie und welches Land hat dieses Dokument ausgestellt?" Ihr Visum beantwortet eine andere: "Erlaubt das Bestimmungsland Ihnen zu besuchen?" Zusammen funktionieren sie wie einen Schlüssel aus zwei Teilen - Ihr Reisepass lässt Sie nach Hause gehen, und Ihr Visum gewährt Eintritt an Ihrem Bestimmungsort.
 
 Die meisten internationalen Reisen erfordern einen gültigen Reisepass und ein passendes Visum (oder eine Bestätigung, dass ein Visum für Ihr Bestimmungsland nicht erforderlich ist). Ohne einen Reisepass können Sie Ihr Land nicht legal verlassen. Ohne ein erforderliches Visum können Sie Ihr Bestimmungsland nicht betreten, egal wie gültig Ihr Reisepass ist. Viele Reiseunterbrechungen passieren, weil Reisende gültige Reisepässe haben, aber vergessen haben, die Visabestimmungen vor der Buchung zu überprüfen.
+
+## Ist ein Reisepass dasselbe wie ein Visum?
+
+Nein, und ein Reisepass gilt nie als Visum. Beide stammen von unterschiedlichen Regierungen und beantworten unterschiedliche Fragen, sodass der eine den anderen nie ersetzen kann, so gültig er auch ist.
+
+Zwei Dinge halten diese Verwechslung am Leben. Das erste ist rein äußerlich: Ein Visum ist oft ein Aufkleber oder Stempel im Reisepass, sodass das, was Sie in der Hand halten, wie ein einziges Dokument mit ein paar zusätzlich ausgefüllten Seiten aussieht. Tatsächlich sind es zwei Genehmigungen in einem Heft, ausgestellt von zwei verschiedenen Ländern.
+
+Das zweite ist visumfreies Reisen. Wenn ein Zielland Ihre Staatsangehörigkeit ohne Visum einreisen lässt, wirkt es, als hätte der Reisepass das allein geschafft. Tatsächlich hat das Land lediglich auf diese Voraussetzung für Inhaber dieses Reisepasses verzichtet. Das Visum wurde nicht durch den Reisepass ersetzt, es wurde schlicht nicht verlangt, und dasselbe Land kann es von einem Nachbarn verlangen, der mit einem anderen Reisepass reist.
+
+Der Reisepass gehört also Ihnen und begleitet Sie überallhin. Die Erlaubnis wird von jedem Zielland gesondert erteilt, und sie kann verweigert werden, selbst wenn Ihr Reisepass völlig in Ordnung ist.
 
 ## Arten von Visa
 

@@ -27,6 +27,7 @@ Every page listed below is also available as clean markdown: append `index.html.
 
 ## Blog posts
 
+- [How to Read Your Passport: Which Date Actually Matters](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/index.html.md)
 - [International Driving Permit: How Long Yours Actually Lasts](https://traveldocumentvault.com/blog/international-driving-permit-validity/index.html.md)
 - [Encrypted Cloud Backup for Travel Documents: Who Holds the Key](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/index.html.md)
 - [Travel Insurance Documents: What to Save Before You Go](https://traveldocumentvault.com/blog/travel-insurance-documents/index.html.md)

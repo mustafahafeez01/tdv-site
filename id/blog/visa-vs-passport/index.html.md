@@ -1,6 +1,6 @@
-# Apa Perbedaan Antara Visa dan Paspor?
+# Apakah Visa Sama dengan Paspor? Ini Bedanya
 
-> Paspor membuktikan siapa Anda. Visa adalah izin masuk dari suatu negara. Berikut perbedaan keduanya, mengapa sebagian besar perjalanan membutuhkan keduanya, dan kepada siapa Anda harus memastikannya.
+> Tidak, dan memiliki salah satunya tidak pernah bisa dianggap sebagai yang lain. Paspor membuktikan siapa Anda; visa adalah izin masuk dari suatu negara. Mengapa sebagian besar perjalanan membutuhkan keduanya, dan cara memastikannya.
 
 Source: https://traveldocumentvault.com/id/blog/visa-vs-passport/
 
@@ -39,6 +39,16 @@ Persyaratan visa bergantung pada kewarganegaraan Anda. Warga negara tertentu mun
 Paspor Anda menjawab satu pertanyaan: "Siapa Anda, dan negara mana yang menerbitkan dokumen ini?" Visa Anda menjawab pertanyaan lain: "Apakah negara tujuan mengizinkan Anda berkunjung?" Bersama-sama, keduanya bekerja seperti kunci dua bagian - paspor memungkinkan Anda meninggalkan negara asal, dan visa memberi izin masuk di negara tujuan.
 
 Sebagian besar perjalanan internasional memerlukan paspor yang berlaku sekaligus visa yang sesuai (atau kepastian bahwa visa tidak diperlukan untuk negara tujuan Anda). Tanpa paspor, Anda tidak bisa secara sah meninggalkan negara Anda. Tanpa visa yang disyaratkan, Anda tidak bisa masuk ke negara tujuan, betapapun berlakunya paspor Anda. Banyak gangguan perjalanan terjadi karena pelancong memiliki paspor yang berlaku tetapi lupa memeriksa persyaratan visa sebelum memesan.
+
+## Apakah Paspor Sama dengan Visa?
+
+Tidak, dan paspor tidak pernah bisa dianggap sebagai visa. Keduanya berasal dari pemerintah yang berbeda dan menjawab pertanyaan yang berbeda pula, sehingga satu tidak bisa menggantikan yang lain, betapapun berlakunya paspor tersebut.
+
+Ada dua hal yang membuat kebingungan ini terus berlanjut. Pertama adalah soal fisik: visa sering kali berupa stiker atau stempel yang ditempelkan di dalam paspor, sehingga yang Anda pegang tampak seperti satu dokumen dengan beberapa halaman tambahan yang terisi. Padahal, itu adalah dua izin dalam satu buku, yang diterbitkan oleh dua negara yang berbeda.
+
+Kedua adalah perjalanan bebas visa. Ketika negara tujuan mengizinkan kewarganegaraan Anda masuk tanpa visa, rasanya seolah-olah paspor sudah menyelesaikan semuanya sendiri. Yang sebenarnya terjadi adalah negara tersebut membebaskan persyaratan visa bagi pemegang paspor itu. Visa tidak digantikan oleh paspor; visa hanya tidak diminta, dan negara yang sama bisa saja mensyaratkan visa dari kerabat Anda yang bepergian dengan paspor berbeda.
+
+Jadi, paspor adalah milik Anda dan menyertai Anda ke mana pun. Izin masuk diberikan oleh masing-masing negara tujuan secara terpisah, dan bisa ditolak meskipun paspor Anda dalam kondisi sepenuhnya berlaku.
 
 ## Jenis-Jenis Visa
 

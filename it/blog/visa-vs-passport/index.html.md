@@ -1,6 +1,6 @@
-# Qual è la differenza tra visto e passaporto?
+# Visto e Passaporto Sono la Stessa Cosa? La Differenza Spiegata
 
-> Il passaporto dimostra chi sei. Il visto è il permesso di ingresso concesso da un Paese. Ecco cosa li distingue e con chi conviene verificare.
+> No, e possedere l'uno non equivale mai a possedere l'altro. Il passaporto dimostra chi sei; il visto è il permesso di un Paese per entrare. Perché la maggior parte dei viaggi richiede entrambi, e come verificarlo.
 
 Source: https://traveldocumentvault.com/it/blog/visa-vs-passport/
 
@@ -39,6 +39,16 @@ I requisiti dei visti dipendono dalla tua nazionalità. Un cittadino di un paese
 Il tuo passaporto risponde a una domanda: "Chi sei e quale paese ha emesso questo documento?" Il tuo visto ne risponde un'altra: "Il paese di destinazione ti permette di visitare?" Insieme, funzionano come una chiave a due parti - il tuo passaporto ti permette di partire da casa, e il tuo visto concede l'ingresso alla tua destinazione.
 
 La maggior parte dei viaggi internazionali richiede sia un passaporto valido che un visto appropriato (o conferma che non è necessario un visto per la tua destinazione). Senza un passaporto, non puoi legalmente lasciare il tuo paese. Senza un visto richiesto, non puoi entrare nella tua destinazione, indipendentemente da quanto valido sia il tuo passaporto. Molte interruzioni di viaggio accadono perché i viaggiatori hanno passaporti validi ma dimenticano di controllare i requisiti dei visti prima di prenotare.
+
+## Il Passaporto È la Stessa Cosa di un Visto?
+
+No, e il passaporto non vale mai come visto. Vengono da governi diversi e rispondono a domande diverse, quindi l'uno non può sostituire l'altro per quanto sia valido.
+
+Due cose alimentano questa confusione. La prima è fisica: il visto è spesso un adesivo o un timbro applicato dentro il passaporto, quindi quello che hai in mano sembra un unico documento con alcune pagine extra compilate. In realtà sono due autorizzazioni in un solo libretto, rilasciate da due Paesi diversi.
+
+La seconda è il viaggio senza visto. Quando una destinazione lascia entrare la tua nazionalità senza visto, sembra che il passaporto abbia fatto tutto da solo. In realtà il Paese ha rinunciato al requisito per i titolari di quel passaporto. Il visto non è stato sostituito dal passaporto; semplicemente non è stato richiesto, e lo stesso Paese può pretenderlo da un tuo vicino che viaggia con un passaporto diverso.
+
+Quindi il passaporto è tuo e viaggia con te ovunque. Il permesso viene concesso da ogni destinazione separatamente, e può essere rifiutato anche quando il tuo passaporto è perfettamente in regola.
 
 ## Tipi di Visti
 

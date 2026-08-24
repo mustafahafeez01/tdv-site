@@ -1,6 +1,6 @@
-# What Is the Difference Between a Visa and a Passport?
+# Is a Visa the Same as a Passport? The Difference Explained
 
-> A passport proves who you are. A visa is a country's permission to enter. Here's how the two differ, why most trips need both, and who to check with.
+> No, and holding one never counts as the other. A passport proves who you are; a visa is a country's permission to enter. Why most trips need both, and how to check.
 
 Source: https://traveldocumentvault.com/blog/visa-vs-passport/
 
@@ -39,6 +39,16 @@ Visa requirements depend on your nationality. A citizen of one country might nee
 Your passport answers one question: "Who are you, and which country issued this document?" Your visa answers another: "Does the destination country allow you to visit?" Together, they work like a two-part key - your passport lets you leave home, and your visa grants entry at your destination.
 
 Most international trips require both a valid passport and an appropriate visa (or confirmation that a visa isn't needed for your destination). Without a passport, you can't legally leave your country. Without a required visa, you can't enter your destination, regardless of how valid your passport is. Many travel disruptions happen because travellers have valid passports but forget to check visa requirements before they book.
+
+## Is a Passport the Same as a Visa?
+
+No, and a passport never counts as a visa. They come from different governments and they answer different questions, so one cannot stand in for the other however valid it is.
+
+Two things keep this confusion alive. The first is physical: a visa is often a sticker or a stamp placed inside the passport, so what you are holding looks like a single document with some extra pages filled in. It is two permissions in one booklet, issued by two different countries.
+
+The second is visa-free travel. When a destination lets your nationality in without a visa, it feels as though the passport did the work on its own. What actually happened is that the country waived the requirement for holders of that passport. The visa was not replaced by the passport; it simply was not asked for, and the same country can require one from a neighbour of yours travelling on a different passport.
+
+So the passport is yours and travels with you everywhere. The permission is granted by each destination separately, and it can be refused even when your passport is in perfect order.
 
 ![Hand-drawn comparison of a passport and a visa: your own country issues the passport, it proves who you are and lets you leave home, while the destination issues the visa, which grants permission to enter and covers only that one country, with a note that most trips need both](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure.jpg) Two documents, two jobs - and a valid passport on its own is not permission to enter.
 

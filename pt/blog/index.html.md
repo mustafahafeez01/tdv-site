@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
+[Regras de PassaporteComo Ler o Seu Passaporte: Qual a Data Que Realmente ImportaA página de dados do seu passaporte tem duas datas, e a maioria das pessoas indica a errada. O que a data de emissão, a data de validade e o país emissor realmente controlam.24 de agosto de 20266 min de leitura](https://traveldocumentvault.com/pt/blog/how-to-read-your-passport-dates/)
+
+##
+
 [Regras de PassaporteCarta de Condução Internacional: Quanto Tempo Dura RealmenteUma Carta de Condução Internacional tem o seu próprio prazo de validade e pode caducar anos antes da carta que a acompanha. Como os dois tipos de convenção diferem e que datas deve controlar.17 de agosto de 20266 min de leitura](https://traveldocumentvault.com/pt/blog/international-driving-permit-validity/)
 
 ##

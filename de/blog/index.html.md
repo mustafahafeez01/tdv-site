@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
+[PassregelnSo lesen Sie Ihren Reisepass: Welches Datum wirklich zähltDie Datenseite Ihres Reisepasses trägt zwei Daten, und die meisten Menschen nennen das falsche. Was Ausstellungsdatum, Ablaufdatum und ausstellendes Land tatsächlich bestimmen.24. August 20266 Min. Lesedauer](https://traveldocumentvault.com/de/blog/how-to-read-your-passport-dates/)
+
+##
+
 [ReisevorbereitungInternationaler Führerschein: Wie lange er wirklich giltEin Internationaler Führerschein läuft nach seiner eigenen Uhr und kann Jahre vor dem Führerschein ablaufen, zu dem er gehört. So unterscheiden sich die beiden Abkommensarten, und welche Termine Sie im Blick behalten sollten.17. August 20266 Min. Lesedauer](https://traveldocumentvault.com/de/blog/international-driving-permit-validity/)
 
 ##

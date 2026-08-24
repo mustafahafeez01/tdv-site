@@ -1,6 +1,6 @@
-# Vad är skillnaden mellan visum och pass?
+# Är ett visum samma sak som ett pass? Skillnaden förklarad
 
-> Ett pass bevisar vem du är. Ett visum är ett lands tillstånd att resa in. Så skiljer de sig åt, varför de flesta resor kräver båda, och vem du bör kontakta.
+> Nej, och det ena räknas aldrig som det andra. Ett pass bevisar vem du är, ett visum är ett lands tillstånd att resa in. Varför de flesta resor kräver båda, och hur du kontrollerar.
 
 Source: https://traveldocumentvault.com/sv/blog/visa-vs-passport/
 
@@ -39,6 +39,16 @@ Visumkraven beror på ditt medborgarskap. En medborgare i ett land kan behöva v
 Ditt pass svarar på en fråga: "Vem är du, och vilket land har utfärdat handlingen?" Visumet svarar på en annan: "Tillåter resmålslandet att du besöker det?" Tillsammans fungerar de som en tvådelad nyckel - passet låter dig lämna hemlandet, och visumet ger dig inresa vid resmålet.
 
 De flesta internationella resor kräver både ett giltigt pass och ett lämpligt visum (eller bekräftelse på att inget visum krävs för ditt resmål). Utan pass kan du inte lagligt lämna ditt land. Saknar du ett visum som krävs, kan du inte resa in i ditt resmål, oavsett hur giltigt ditt pass är. Många resestörningar uppstår för att resenärer har giltiga pass men glömmer att kontrollera visumkraven innan de bokar.
+
+## Är ett pass samma sak som ett visum?
+
+Nej, och ett pass räknas aldrig som visum. De utfärdas av olika myndigheter och svarar på olika frågor, så det ena kan aldrig ersätta det andra, hur giltigt det än är.
+
+Två saker håller förvirringen vid liv. Den första är fysisk: ett visum är ofta ett klistermärke eller en stämpel inuti passet, så det du håller i handen ser ut som en enda handling med några extra sidor ifyllda. I själva verket är det två separata tillstånd i samma häfte, utfärdade av två olika länder.
+
+Den andra är visumfria resor. När ett resmål släpper in ditt medborgarskap utan visum känns det som om passet klarade jobbet helt på egen hand. Det som egentligen hände är att landet avstod från kravet för innehavare av just det passet. Visumet ersattes aldrig av passet – det efterfrågades bara inte, och samma land kan mycket väl kräva ett av en granne som reser på ett annat pass.
+
+Passet är alltså ditt och följer med dig överallt. Tillståndet ges separat av varje resmål, och det kan nekas även när passet är i perfekt skick.
 
 ## Typer av visum
 

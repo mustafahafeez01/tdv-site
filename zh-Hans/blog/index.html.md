@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
+[护照规则如何读懂护照：到底该看哪个日期护照资料页上印着两个日期，很多人说的却是错的那一个。签发日期、有效期和签发国分别决定什么，本文一次讲清楚。2026年8月24日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/how-to-read-your-passport-dates/)
+
+##
+
 [护照规则国际驾驶许可证：你的那张到底还能用多久国际驾驶许可证按自己的时钟走，到期时间可能比与之搭配的驾照早了好几年。两类条约签发的许可证有何不同，又该关注哪些日期。2026年8月17日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/international-driving-permit-validity/)
 
 ##

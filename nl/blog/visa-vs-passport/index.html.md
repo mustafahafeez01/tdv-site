@@ -1,6 +1,6 @@
-# Wat is het verschil tussen een visum en een paspoort?
+# Is een visum hetzelfde als een paspoort? Het verschil uitgelegd
 
-> Een paspoort bewijst wie je bent. Een visum is toestemming van een land om binnen te komen. Zo verschillen de twee, waarom de meeste reizen beide vereisen, en bij wie je dat controleert.
+> Nee, en het hebben van de een telt nooit als de ander. Een paspoort bewijst wie je bent; een visum is toestemming van een land om binnen te komen. Waarom de meeste reizen beide vereisen, en hoe je dat controleert.
 
 Source: https://traveldocumentvault.com/nl/blog/visa-vs-passport/
 
@@ -39,6 +39,16 @@ Visumvereisten hangen af van je nationaliteit. Een burger van het ene land heeft
 Je paspoort beantwoordt één vraag: "Wie ben je, en welk land heeft dit document uitgegeven?" Je visum beantwoordt een andere: "Mag je van het bestemmingsland op bezoek komen?" Samen werken ze als een tweedelige sleutel - je paspoort laat je thuis vertrekken, en je visum geeft je toegang op je bestemming.
 
 De meeste internationale reizen vereisen zowel een geldig paspoort als een passend visum (of de bevestiging dat voor die bestemming geen visum nodig is). Zonder paspoort kun je je land niet legaal verlaten. Zonder een vereist visum kun je je bestemming niet binnenkomen, hoe geldig je paspoort ook is. Veel reisonderbrekingen ontstaan doordat reizigers wel een geldig paspoort hebben, maar vergeten de visumvereisten te checken voordat ze boeken.
+
+## Is een paspoort hetzelfde als een visum?
+
+Nee, en een paspoort telt nooit als visum. Ze komen van verschillende overheden en beantwoorden verschillende vragen, dus het ene kan het andere niet vervangen, hoe geldig het ook is.
+
+Twee dingen houden deze verwarring in stand. Het eerste is fysiek: een visum is vaak een sticker of stempel die in het paspoort wordt geplaatst, waardoor wat je in handen hebt eruitziet als één document met een paar extra ingevulde pagina's. Het zijn in werkelijkheid twee toestemmingen in één boekje, uitgegeven door twee verschillende landen.
+
+Het tweede is visumvrij reizen. Wanneer een bestemming jouw nationaliteit zonder visum toelaat, lijkt het alsof het paspoort dat werk alleen heeft gedaan. Wat er eigenlijk gebeurde, is dat het land de eis liet vallen voor houders van dat paspoort. Het visum werd niet vervangen door het paspoort; het werd simpelweg niet gevraagd, en datzelfde land kan het wel eisen van een buurman die met een ander paspoort reist.
+
+Het paspoort is dus van jou en reist overal met je mee. De toestemming wordt door elke bestemming apart verleend, en kan worden geweigerd zelfs als je paspoort volledig in orde is.
 
 ## Soorten visa
 

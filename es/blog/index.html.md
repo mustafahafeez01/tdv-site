@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
+[Reglas de PasaporteCómo Leer tu Pasaporte: Qué Fecha Importa RealmenteLa página de datos de tu pasaporte lleva dos fechas, y casi todo el mundo cita la que no es. Qué controla realmente la fecha de expedición, la fecha de caducidad y el país emisor.24 de agosto de 20266 min de lectura](https://traveldocumentvault.com/es/blog/how-to-read-your-passport-dates/)
+
+##
+
 [Reglas de PasaportePermiso Internacional de Conducir: Cuánto Dura RealmenteEl permiso internacional de conducir tiene su propio calendario y puede caducar años antes que el carné al que acompaña. Cómo difieren los dos tipos de tratado y qué fechas vigilar.17 de agosto de 20266 min de lectura](https://traveldocumentvault.com/es/blog/international-driving-permit-validity/)
 
 ##

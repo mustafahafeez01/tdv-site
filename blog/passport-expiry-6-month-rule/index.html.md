@@ -132,6 +132,8 @@ Each family member's passport is assessed individually - there's no group rule. 
 
 ## Related Articles
 
+[Passport Rules6 min read · Aug 24, 2026How to Read Your Passport: Which Date Actually Matters](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/)
+
 [Family Travel6 min read · July 2026Schengen Passport Rules for Family Trips: What Parents Get Wrong](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
 
 [Renewal7 min read · Feb 10, 2026How Long Does Passport Renewal Take? (US, UK, Australia, Canada)](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)
