@@ -82,7 +82,7 @@ Nulla di tutto questo è drammatico di per sé. Diventa un problema quando una c
 
 La pagina dati è quella rigida e plastificata con la tua fotografia, e la sua struttura è standardizzata a livello internazionale, non inventata da ogni singolo paese. Per questo un passaporto di qualunque provenienza è leggibile da un agente di frontiera ovunque, ed è per questo che, una volta imparato a leggerne uno, sai leggerli tutti.
 
-Le due righe di caratteri e freccette in fondo sono la zona a lettura ottica. Ripetono le stesse informazioni in un formato che uno scanner può acquisire in un solo passaggio, ed è per questo che un danno in quella zona viene preso molto più sul serio di un graffio sulla copertina. Spieghiamo dove si trova quella riga in [viaggiare con un passaporto danneggiato](https://traveldocumentvault.com/it/blog/damaged-passport-travel/).
+Le due righe di caratteri e freccette in fondo sono la zona a lettura ottica. Ripete parte delle informazioni della pagina sopra in un formato che uno scanner può acquisire in un solo passaggio, ma non tutte: la data di scadenza c'è, la data di rilascio no. Un danno in quella zona viene preso molto più sul serio di un graffio sulla copertina. Spieghiamo dove si trova quella riga in [viaggiare con un passaporto danneggiato](https://traveldocumentvault.com/it/blog/damaged-passport-travel/).
 
 Se le etichette sulla tua pagina dati non sono in italiano, la disposizione aiuta comunque: le due date sono stampate insieme, nello stesso formato, e la data di scadenza è la più recente delle due.
 

@@ -82,7 +82,7 @@ Semua ini tidak dramatis dengan sendirinya. Menjadi dramatis ketika boarding pas
 
 Halaman data adalah halaman berlapis kaku yang memuat foto Anda, dan tata letaknya distandarkan secara internasional, bukan diciptakan oleh masing-masing negara. Itulah sebabnya paspor dari mana pun dapat dibaca oleh petugas imigrasi di mana pun, dan begitu Anda bisa membaca satu paspor, Anda bisa membaca semuanya.
 
-Dua baris karakter dan tanda panah di bagian bawah adalah zona yang dapat dibaca mesin. Bagian ini mengulang informasi yang sama dalam format yang dapat dibaca pemindai sekali jalan, itulah sebabnya kerusakan di bagian itu diperlakukan jauh lebih serius daripada goresan di sampul. Kami membahas letak batas itu dalam [bepergian dengan paspor yang rusak](https://traveldocumentvault.com/id/blog/damaged-passport-travel/).
+Dua baris karakter dan tanda panah di bagian bawah adalah zona yang dapat dibaca mesin. Bagian ini mengulang sebagian informasi dari halaman data di atasnya, dalam format yang dapat dibaca pemindai sekali jalan, tapi tidak semuanya: tanggal kedaluwarsa ada di sana, tanggal penerbitan tidak. Itulah sebabnya kerusakan di bagian itu diperlakukan jauh lebih serius daripada goresan di sampul. Kami membahas letak batas itu dalam [bepergian dengan paspor yang rusak](https://traveldocumentvault.com/id/blog/damaged-passport-travel/).
 
 Jika label pada halaman data Anda sendiri tidak dalam bahasa Inggris, tata letaknya tetap membantu: kedua tanggal tercetak bersama, dengan format yang sama, dan tanggal kedaluwarsa adalah yang lebih akhir dari keduanya.
 

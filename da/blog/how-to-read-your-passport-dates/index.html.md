@@ -82,7 +82,7 @@ Intet af det er dramatisk i sig selv. Det bliver dramatisk, når et boardingkort
 
 Pas-siden er den stive laminerede side med dit fotografi, og dens layout er internationalt standardiseret snarere end opfundet af hvert land for sig. Det er derfor, et pas fra hvor som helst kan læses af en grænsevagt hvor som helst, og hvorfor du kan læse alle pas, så snart du kan læse ét.
 
-De to linjer med tegn og vinkelstreger nederst er den maskinlæsbare zone. De gentager de samme oplysninger i et format, en scanner kan læse i ét hug, hvilket er hvorfor skader dernede bliver taget langt mere alvorligt end en ridse på omslaget. Vi gennemgår, hvor den linje sidder, i [at rejse med et beskadiget pas](https://traveldocumentvault.com/da/blog/damaged-passport-travel/).
+De to linjer med tegn og vinkelstreger nederst er den maskinlæsbare zone. De gentager en del af siden ovenover i et format, en scanner kan læse i ét hug, men ikke det hele: udløbsdatoen er med, udstedelsesdatoen er det ikke. Skader dernede bliver taget langt mere alvorligt end en ridse på omslaget. Vi gennemgår, hvor den linje sidder, i [at rejse med et beskadiget pas](https://traveldocumentvault.com/da/blog/damaged-passport-travel/).
 
 Hvis mærkaterne på din egen pas-side ikke er på dansk, hjælper geometrien alligevel: de to datoer er trykt sammen, i samme format, og udløbsdatoen er den seneste af de to.
 

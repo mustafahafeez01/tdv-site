@@ -82,7 +82,7 @@ Rien de tout cela n'est dramatique en soi. Cela le devient quand une carte d'emb
 
 La page d'identité est la page rigide et plastifiée qui porte votre photo, et sa mise en page est normalisée à l'échelle internationale plutôt qu'inventée par chaque pays. C'est pourquoi un passeport, quel qu'il soit, est lisible par un agent frontalier où qu'il se trouve, et pourquoi, une fois qu'on sait en lire un, on sait tous les lire.
 
-Les deux lignes de caractères et de chevrons en bas de page constituent la zone de lecture optique. Elles répètent les mêmes informations dans un format qu'un scanner peut lire en une seule fois, ce qui explique pourquoi un dommage à cet endroit est traité beaucoup plus sérieusement qu'une éraflure sur la couverture. Nous détaillons où se situe cette limite dans [voyager avec un passeport endommagé](https://traveldocumentvault.com/fr/blog/damaged-passport-travel/).
+Les deux lignes de caractères et de chevrons en bas de page constituent la zone de lecture optique. Elle reprend une partie des informations de la page au-dessus dans un format qu'un scanner peut lire en une seule fois, mais pas tout : la date d'expiration s'y trouve, la date de délivrance non. Un dommage à cet endroit est traité beaucoup plus sérieusement qu'une éraflure sur la couverture. Nous détaillons où se situe cette limite dans [voyager avec un passeport endommagé](https://traveldocumentvault.com/fr/blog/damaged-passport-travel/).
 
 Si les mentions de votre propre page d'identité ne sont pas en français, la disposition reste utile : les deux dates sont imprimées ensemble, dans le même format, et la date d'expiration est toujours la plus tardive des deux.
 

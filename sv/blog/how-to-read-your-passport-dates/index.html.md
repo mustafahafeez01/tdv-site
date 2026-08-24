@@ -82,7 +82,7 @@ Inget av det är dramatiskt i sig. Det blir dramatiskt när ett boardingkort och
 
 Datasidan är den styva laminerade sidan med ditt fotografi, och dess layout är internationellt standardiserad snarare än uppfunnen av varje land för sig. Det är därför ett pass från vilket land som helst går att läsa för en gränskontrollant var som helst, och varför du kan läsa alla pass så fort du kan läsa ett.
 
-De två raderna med tecken och vinklade streck längst ner är den maskinläsbara zonen. De upprepar samma information i ett format en skanner kan läsa i ett svep, vilket är varför skador där tas på mycket större allvar än ett skrapmärke på omslaget. Vi går igenom var den raden sitter i [att resa med ett skadat pass](https://traveldocumentvault.com/sv/blog/damaged-passport-travel/).
+De två raderna med tecken och vinklade streck längst ner är den maskinläsbara zonen. De upprepar en del av sidan ovanför i ett format en skanner kan läsa i ett svep, men inte allt: sista giltighetsdag finns med, utfärdandedatumet gör det inte. Skador där tas på mycket större allvar än ett skrapmärke på omslaget. Vi går igenom var den raden sitter i [att resa med ett skadat pass](https://traveldocumentvault.com/sv/blog/damaged-passport-travel/).
 
 Om etiketterna på din egen datasida inte är på svenska hjälper geometrin ändå: de två datumen är tryckta tillsammans, i samma format, och sista giltighetsdag är det senare av de två.
 

@@ -82,7 +82,7 @@ Für sich genommen ist das alles nicht dramatisch. Dramatisch wird es, wenn eine
 
 Die Datenseite ist die steife, laminierte Seite mit Ihrem Foto, und ihr Layout ist international standardisiert statt von jedem Land selbst erfunden. Deshalb ist ein Reisepass von überall für einen Grenzbeamten überall lesbar, und deshalb können Sie, sobald Sie einen lesen können, sie alle lesen.
 
-Die beiden Zeilen aus Zeichen und Chevrons am unteren Rand bilden die maschinenlesbare Zone. Sie wiederholen dieselben Informationen in einem Format, das ein Scanner in einem Durchgang erfassen kann, weshalb Schäden dort deutlich ernster genommen werden als ein Kratzer auf dem Einband. Wo genau diese Grenze verläuft, behandeln wir in [Reisen mit einem beschädigten Reisepass](https://traveldocumentvault.com/de/blog/damaged-passport-travel/).
+Die beiden Zeilen aus Zeichen und Chevrons am unteren Rand bilden die maschinenlesbare Zone. Sie wiederholt einen Teil der Angaben von der Seite darüber in einem Format, das ein Scanner in einem Durchgang erfassen kann, allerdings nicht alle: Das Ablaufdatum steht darin, das Ausstellungsdatum nicht. Schäden dort werden deutlich ernster genommen als ein Kratzer auf dem Einband. Wo genau diese Grenze verläuft, behandeln wir in [Reisen mit einem beschädigten Reisepass](https://traveldocumentvault.com/de/blog/damaged-passport-travel/).
 
 Sind die Beschriftungen auf Ihrer eigenen Datenseite nicht auf Deutsch, hilft die Anordnung trotzdem: Die beiden Daten stehen zusammen, im selben Format, und das Ablaufdatum ist das spätere der beiden.
 

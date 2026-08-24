@@ -84,7 +84,7 @@ None of that is dramatic on its own. It becomes dramatic when a boarding pass an
 
 The data page is the stiff laminated one carrying your photograph, and its layout is standardised internationally rather than invented by each country. That is why a passport from anywhere is legible to a border officer anywhere, and why once you can read one you can read all of them.
 
-The two lines of characters and chevrons across the bottom are the machine-readable zone. They repeat the same information in a format a scanner can take in one pass, which is why damage down there is treated far more seriously than a scuff on the cover. We cover where that line falls in [travelling with a damaged passport](https://traveldocumentvault.com/blog/damaged-passport-travel/).
+The two lines of characters and chevrons across the bottom are the machine-readable zone. It restates some of the page above it in a form a scanner can take in one pass, though not all of it: the expiry date is in there, the issue date is not. Damage down there is treated far more seriously than a scuff on the cover. We cover where that line falls in [travelling with a damaged passport](https://traveldocumentvault.com/blog/damaged-passport-travel/).
 
 If the labels on your own data page are not in English, the geometry still helps: the two dates are printed together, in the same format, and the expiry date is the later of the two.
 

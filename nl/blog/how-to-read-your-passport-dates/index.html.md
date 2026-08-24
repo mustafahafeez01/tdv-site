@@ -82,7 +82,7 @@ Op zichzelf is dat allemaal niet dramatisch. Het wordt vervelend wanneer een ins
 
 De datapagina is de stevige, gelamineerde pagina met je foto, en de opmaak ervan is internationaal gestandaardiseerd, niet bedacht door elk land apart. Daarom is een paspoort van waar dan ook leesbaar voor een grensbeambte waar dan ook, en daarom kun je, zodra je er één kunt lezen, ze allemaal lezen.
 
-De twee regels met tekens en pijltjes onderaan zijn de machineleesbare zone. Ze herhalen dezelfde gegevens in een formaat dat een scanner in één keer kan uitlezen, en daarom wordt schade daar veel serieuzer genomen dan een kras op de kaft. We beschrijven waar die regel precies zit in [reizen met een beschadigd paspoort](https://traveldocumentvault.com/nl/blog/damaged-passport-travel/).
+De twee regels met tekens en pijltjes onderaan zijn de machineleesbare zone. Ze herhalen een deel van de pagina erboven in een formaat dat een scanner in één keer kan uitlezen, maar niet alles: de vervaldatum staat erin, de afgiftedatum niet. Schade daar wordt veel serieuzer genomen dan een kras op de kaft. We beschrijven waar die regel precies zit in [reizen met een beschadigd paspoort](https://traveldocumentvault.com/nl/blog/damaged-passport-travel/).
 
 Als de labels op je eigen datapagina niet in het Nederlands staan, helpt de indeling nog steeds: de twee data staan samen afgedrukt, in dezelfde opmaak, en de vervaldatum is de latere van de twee.
 

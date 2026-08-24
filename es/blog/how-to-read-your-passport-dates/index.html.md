@@ -82,7 +82,7 @@ Nada de esto es grave por sí solo. Se vuelve grave cuando una tarjeta de embarq
 
 La página de datos es la página rígida y plastificada que lleva tu foto, y su diseño está estandarizado internacionalmente en lugar de inventado por cada país. Por eso un pasaporte de cualquier lugar es legible para un agente de fronteras en cualquier lugar, y por eso, en cuanto sabes leer uno, sabes leerlos todos.
 
-Las dos líneas de caracteres y chevrones en la parte inferior son la zona de lectura mecánica. Repiten la misma información en un formato que un escáner puede leer de una sola pasada, por eso un daño en esa zona se trata con mucha más seriedad que un roce en la tapa. Explicamos dónde está ese límite en [viajar con un pasaporte dañado](https://traveldocumentvault.com/es/blog/damaged-passport-travel/).
+Las dos líneas de caracteres y chevrones en la parte inferior son la zona de lectura mecánica. Repite parte de la información de la página de arriba en un formato que un escáner puede leer de una sola pasada, aunque no toda: la fecha de caducidad está ahí, la de expedición no. Un daño en esa zona se trata con mucha más seriedad que un roce en la tapa. Explicamos dónde está ese límite en [viajar con un pasaporte dañado](https://traveldocumentvault.com/es/blog/damaged-passport-travel/).
 
 Si las indicaciones de tu propia página de datos no están en español, la disposición sigue ayudando: las dos fechas se imprimen juntas, en el mismo formato, y la fecha de caducidad es la más tardía de las dos.
 

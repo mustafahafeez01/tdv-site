@@ -82,7 +82,7 @@ Nada disto é dramático por si só. Torna-se dramático quando um cartão de em
 
 A página de dados é a página rígida e laminada que tem a sua fotografia, e a sua disposição é normalizada internacionalmente, e não inventada por cada país. É por isso que um passaporte de qualquer parte do mundo é legível para um agente de fronteira em qualquer parte do mundo, e por isso que, depois de saber ler um, sabe ler todos.
 
-As duas linhas de carateres e setas na parte inferior são a zona de leitura ótica. Repetem a mesma informação num formato que um scanner consegue captar de uma só vez, e é por isso que um dano nessa zona é levado muito mais a sério do que um risco na capa. Explicamos onde essa linha fica em [viajar com um passaporte danificado](https://traveldocumentvault.com/pt/blog/damaged-passport-travel/).
+As duas linhas de carateres e setas na parte inferior são a zona de leitura ótica. Repete parte da informação da página acima num formato que um scanner consegue captar de uma só vez, mas não toda: a data de validade está lá, a data de emissão não. Um dano nessa zona é levado muito mais a sério do que um risco na capa. Explicamos onde essa linha fica em [viajar com um passaporte danificado](https://traveldocumentvault.com/pt/blog/damaged-passport-travel/).
 
 Se os campos da sua própria página de dados não estiverem em português, a disposição continua a ajudar: as duas datas estão impressas juntas, no mesmo formato, e a data de validade é a mais tardia das duas.
 
