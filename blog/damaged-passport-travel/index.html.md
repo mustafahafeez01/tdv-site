@@ -16,9 +16,9 @@ Source: https://traveldocumentvault.com/blog/damaged-passport-travel/
 - If you are turned away at the gate, **ask your embassy about an emergency travel document** - same-day issuance is possible.
 - A digital copy is **worth most when you are abroad** - a consular officer can establish who you are from a scan far faster than from your account of it. Scan your passport before you travel.
 
-You're standing in the airport queue with your passport in hand when you notice the back cover has warped and the pages inside feel damp - and your flight leaves in two hours. You tell the gate agent, who pauses, then picks up the phone. You are not boarding today.
+Most passport damage is cosmetic. A scuffed cover, a softened corner, a frayed edge along the spine - none of that stops anyone boarding. What border staff and airline agents actually check is narrower than most travellers expect: the photo page, the two printed lines beneath it, and whether the booklet still holds together as one document.
 
-It is one of the most preventable travel disasters, because passport damage - from water, wear, or accidents - can ground you at the gate even though your document is technically valid. Understanding what counts as damage, what officials will accept, and what to do if it happens is the difference between a cancelled trip and a crisis averted hours before departure.
+Where that line falls is worth knowing before you travel, because a passport can be technically valid and still be refused. This covers what counts as damage, what officials generally accept, and what to do if yours is already in poor shape.
 
 ## What Actually Counts as Passport Damage
 
@@ -69,7 +69,7 @@ Published processing times move around through the year, and they climb in summe
 - **Confirm the fast-track tier covers damage.** Paying for the quickest option doesn't automatically mean it applies to a damaged document, so check first.
 - **Plan to attend in person.** A damaged passport almost always needs someone to inspect it and take it out of circulation, which a postal application can't do.
 - **Ask which office handles urgent cases.** In many countries it isn't the same counter that takes routine applications, so find out before you cross town for nothing.
-- **Bring proof of travel.** Booking confirmations are what unlock the faster routes, so have them with you rather than promising to email them later.
+- **Bring proof of travel.** Booking confirmations are what open the faster routes, so have them with you rather than promising to email them later.
 
 The pattern holds everywhere though. The closer you are to departure, the fewer routes stay open, and the ones that remain need you to turn up in person with your damaged passport and proof of travel. Discovering damage three weeks out is an inconvenience. Discovering it three days out is a different problem entirely.
 

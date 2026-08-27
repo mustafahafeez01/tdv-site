@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/fr/blog/lost-passport-abroad/
 - L'assurance voyage couvre les frais de remplacement du passeport dans la plupart des polices complètes. Vous avez besoin du rapport de police pour la réclamation.
 - Le moment de vous préparer, c'est maintenant, avant que quelque chose n'aille mal. Une numérisation de cinq minutes aujourd'hui pourrait vous économiser des jours de stress à l'étranger.
 
-Perdre votre passeport à l'étranger figure parmi les situations d'urgence voyage les plus stressantes. Vous êtes loin de chez vous, potentiellement dans un pays dont vous ne parlez pas la langue, et le document qui prouve votre identité a disparu. C'est un problème qui se résout, et des gens le surmontent chaque jour. Voici ce que vous devez faire, dans l'ordre.
+Chaque jour, des voyageurs font remplacer leur passeport perdu à l'étranger, et les ambassades traitent cela comme une démarche courante plutôt que comme une urgence. La procédure suit un ordre précis, et le respecter est ce qui transforme un mauvais après-midi en simple retard plutôt qu'en voyage annulé. Voici la marche à suivre, étape par étape.
 
 ## Avant que quelque chose n'aille mal - Photographiez votre passeport maintenant
 

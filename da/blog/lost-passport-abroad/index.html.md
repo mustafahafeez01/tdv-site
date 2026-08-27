@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/da/blog/lost-passport-abroad/
 - Rejseforsikringen dækker udgifterne til et nyt pas i de fleste fuldt dækkende policer. Du skal bruge politianmeldelsen for at anmelde skaden.
 - Det rette tidspunkt at forberede sig på er nu, før noget går galt. En scanning, der tager fem minutter i dag, kan spare dig for dage med stress i udlandet.
 
-At miste sit pas i udlandet er en af de mest stressende rejsekriser, man kan opleve. Du er langt hjemmefra, måske i et land, hvor du ikke taler sproget, og det dokument, der beviser, hvem du er, er væk. Det er et problem, der kan løses, og folk kommer igennem det hver dag. Sådan gør du, i den rigtige rækkefølge.
+Folk får erstattet mistede pas i udlandet hver eneste dag, og ambassader behandler det som en rutinesag frem for en nødsituation. Processen har en bestemt rækkefølge, og at følge den er det, der gør en dårlig eftermiddag til en forsinkelse i stedet for en aflyst rejse. Sådan gør du, trin for trin.
 
 ## Før noget går galt: fotografér dit pas nu
 

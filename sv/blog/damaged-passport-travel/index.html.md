@@ -16,9 +16,9 @@ Source: https://traveldocumentvault.com/sv/blog/damaged-passport-travel/
 - Blir du nekad vid gaten, **fråga din ambassad om ett nödresedokument** - det kan ibland utfärdas samma dag.
 - En digital kopia är **som mest värdefull när du är utomlands** - en konsulär tjänsteman kan fastställa vem du är utifrån en skanning mycket snabbare än utifrån din egen berättelse. Skanna passet innan du reser.
 
-Du står i kön på flygplatsen med passet i handen när du märker att baksidan har buktat sig och sidorna inuti känns fuktiga - och flyget går om två timmar. Du berättar det för personalen vid gaten, som tvekar och sedan lyfter luren. Du kommer inte ombord i dag.
+De flesta passskador är kosmetiska. Ett nött omslag, ett mjuknat hörn, en fransig kant längs ryggen - inget av det hindrar någon från att gå ombord. Det gränspersonal och flygbolagens personal faktiskt kontrollerar är snävare än de flesta resenärer tror: datasidan, de två tryckta raderna under den, och om häftet fortfarande håller ihop som en sammanhängande handling.
 
-Det är en av de mest förebyggbara resekatastroferna, eftersom en passskada - orsakad av vatten, slitage eller en olyckshändelse - kan stoppa dig vid gaten även om handlingen tekniskt sett fortfarande är giltig. Att förstå vad som räknas som skada, vad tjänstemän accepterar och vad du ska göra om det händer är skillnaden mellan en inställd resa och en kris som avvärjs timmar före avgång.
+Var den gränsen går är värt att känna till innan du reser, för ett pass kan vara tekniskt giltigt och ändå nekas. Det här går igenom vad som räknas som skada, vad tjänstemän i allmänhet accepterar, och vad du ska göra om ditt redan är i dåligt skick.
 
 ## Vad som faktiskt räknas som passskada
 

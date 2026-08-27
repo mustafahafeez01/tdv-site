@@ -16,9 +16,9 @@ Source: https://traveldocumentvault.com/it/blog/damaged-passport-travel/
 - Se ti respingono al gate, **chiedi alla tua ambasciata un documento di viaggio d'emergenza** - il rilascio in giornata è possibile.
 - Una copia digitale **vale di più quando sei all'estero** - un funzionario consolare può stabilire chi sei da una scansione molto più in fretta che dal tuo racconto. Scansiona il passaporto prima di partire.
 
-Sei in coda in aeroporto con il passaporto in mano quando ti accorgi che la copertina posteriore si è deformata e le pagine all'interno sono umide - e il tuo volo parte tra due ore. Lo dici all'agente del gate, che si ferma un attimo e poi solleva il telefono. Oggi non salirai a bordo.
+La maggior parte dei danni a un passaporto è solo estetica. Una copertina graffiata, un angolo ammorbidito, un bordo consumato lungo il dorso - niente di tutto questo impedisce l'imbarco a nessuno. Ciò che il personale di frontiera e gli agenti delle compagnie aeree controllano davvero è più limitato di quanto la maggior parte dei viaggiatori pensi: la pagina con la foto, le due righe stampate sotto di essa, e se il libretto tiene ancora insieme come un unico documento.
 
-È uno dei disastri di viaggio più facili da evitare, perché un danno al passaporto - da acqua, usura o incidenti - può bloccarti al gate anche se il tuo documento è tecnicamente ancora valido. Capire cosa conta come danno, cosa accettano le autorità e cosa fare se succede fa la differenza tra un viaggio annullato e una crisi scongiurata poche ore prima della partenza.
+Vale la pena sapere dove passa questo confine prima di partire, perché un passaporto può essere tecnicamente valido ed essere comunque rifiutato. Qui trovi cosa conta come danno, cosa accettano generalmente le autorità e cosa fare se il tuo è già in cattivo stato.
 
 ## Cosa Conta Davvero Come Danno al Passaporto
 
@@ -67,7 +67,7 @@ I tempi di elaborazione pubblicati cambiano nel corso dell'anno e si allungano i
 - **Verifica che il servizio prioritario copra i danni.** Pagare per l'opzione più rapida non significa automaticamente che si applichi a un documento danneggiato, quindi controlla prima.
 - **Preparati a presentarti di persona.** Un passaporto danneggiato quasi sempre richiede che qualcuno lo ispezioni e lo ritiri dalla circolazione, cosa che una domanda per posta non può fare.
 - **Chiedi quale ufficio gestisce i casi urgenti.** In molti paesi non è lo stesso sportello che riceve le domande di routine, quindi informati prima di attraversare la città per niente.
-- **Porta con te la prova del viaggio.** Le conferme di prenotazione sono ciò che sblocca i percorsi più rapidi, quindi tienile con te invece di promettere di inviarle per email in seguito.
+- **Porta con te la prova del viaggio.** Le conferme di prenotazione sono ciò che apre i percorsi più rapidi, quindi tienile con te invece di promettere di inviarle per email in seguito.
 
 Lo schema, però, vale ovunque. Più ti avvicini alla partenza, meno percorsi restano aperti, e quelli rimasti richiedono di presentarti di persona con il passaporto danneggiato e la prova del viaggio. Scoprire il danno tre settimane prima è un fastidio. Scoprirlo tre giorni prima è un problema completamente diverso.
 

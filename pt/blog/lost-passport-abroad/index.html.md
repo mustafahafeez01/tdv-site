@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/pt/blog/lost-passport-abroad/
 - O seguro de viagem cobre custos de substituição de passaporte na maioria das apólices abrangentes. Precisa do relatório de polícia para reclamar.
 - O momento para preparar é agora, antes de algo correr mal. Uma digitalização de cinco minutos hoje poderia economizar dias de stress no estrangeiro.
 
-Perder o seu passaporte no estrangeiro está entre as emergências de viagem mais stressantes. Está longe de casa, potencialmente num país onde não fala a língua, e o documento que prova quem é está desaparecido. É um problema resolúvel, e as pessoas conseguem ultrapassá-lo todos os dias. Aqui está o que fazer, por ordem.
+Todos os dias há pessoas a substituir passaportes perdidos no estrangeiro, e as embaixadas tratam isso como trabalho de rotina, não como uma emergência. O processo tem uma ordem própria, e é seguir essa ordem que transforma uma tarde má num atraso, em vez de uma viagem cancelada. Eis o que fazer, passo a passo.
 
 ## Antes de Algo Correr Mal: Fotografe o Seu Passaporte Agora
 

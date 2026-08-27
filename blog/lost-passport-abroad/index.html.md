@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/lost-passport-abroad/
 - Travel insurance covers passport replacement costs in most comprehensive policies. You need the police report to claim.
 - The time to prepare is now, before anything goes wrong. A five-minute scan today could save days of stress abroad.
 
-Losing your passport abroad ranks among the most stressful travel emergencies. You are far from home, potentially in a country where you don't speak the language, and the document that proves who you are is gone. It is a solvable problem, and people get through it every day. Here's what to do, in order.
+People replace lost passports abroad every day, and embassies treat it as routine work rather than an emergency. The process has an order to it, and following that order is what turns a bad afternoon into a delay rather than a cancelled trip. Here is what to do, step by step.
 
 ## Before Anything Goes Wrong: Photograph Your Passport Now
 

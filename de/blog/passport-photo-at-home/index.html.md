@@ -1,6 +1,6 @@
-# Passfoto zu Hause machen, das akzeptiert wird
+# Passfoto-Regeln: Größe, Brille und wie Sie es zu Hause machen
 
-> Passfoto beim ersten Mal akzeptiert bekommen: Hintergrund, Beleuchtung, Ausdruck und Ablehnungsgründe, die die meisten übersehen.
+> Die Passfoto-Regeln, an denen Fotos scheitern: Größe, Brille, Hintergrund und Beleuchtung, und wie Sie zu Hause mit dem Smartphone ein vorschriftsmäßiges Foto machen.
 
 Source: https://traveldocumentvault.com/de/blog/passport-photo-at-home/
 
@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/de/blog/passport-photo-at-home/
 - Die meisten Länder verbieten jetzt Brillen, es sei denn, medizinisch notwendig - überprüfen Sie aktuelle Anforderungen
 - Häufige Ablehnungsgründe sind Schatten, falsche Größe, Lächeln, unscharfe Fotos und ungeeigneter Hintergrund
 
-Ihr Passfoto wurde wegen "Schatten im Gesicht" abgelehnt - obwohl Sie es in Ihrem Schlafzimmer mit natürlichem Licht aufgenommen haben und dachten, es sieht perfekt aus. Passanforderungen sind streng, spezifisch und unterscheiden sich je nach Land: Bekommen Sie den Hintergrund, die Beleuchtung oder die Größe auch nur um wenige Millimeter falsch, und Ihr Antrag wird zurückgewiesen. Dieser Leitfaden führt Sie genau durch, wie Sie zu Hause eins machen, das beim ersten Versuch akzeptiert wird.
+Ein zu Hause aufgenommenes Foto wird genauso zuverlässig akzeptiert wie eines aus dem Fotoautomaten, solange es dieselbe kurze Liste von Regeln erfüllt. Die meisten Ablehnungen laufen auf drei Dinge hinaus: Schatten im Gesicht oder im Hintergrund, ein falsch proportionierter Kopf im Bild, und die Brille. Stimmen diese drei, ist der Rest einfach.
 
 ## Universelle Anforderungen länderübergreifend
 
@@ -30,11 +30,19 @@ Sie benötigen einen einfarbigen weißen oder cremefarbenen Hintergrund - sonst 
 
 Ihr Gesicht muss das Bild im von Ihrer Passbehörde angegebenen Verhältnis ausfüllen, mit offenen und deutlich sichtbaren Augen - die meisten Länder verbieten Lächeln, und Blinzeln wird das Foto disqualifizieren. Schauen Sie geradeaus in die Kamera mit neutralem Ausdruck, neigen Sie den Kopf leicht, wenn das natürlicher wirkt, halten Sie Ihren Kopf aber allgemein quadratisch zur Linse. Ihre Ohren sollten idealerweise auf beiden Seiten Ihres Gesichts sichtbar sein.
 
-### Brille und Kopfbedeckung
+## Darf man auf dem Passfoto eine Brille tragen?
 
 Die meisten Länder haben sich von der Erlaubnis normaler Brillen auf Passfotos abgewandt, es sei denn, Sie tragen sie permanent aus medizinischen Gründen. Selbst dann müssen Sie möglicherweise eine Dokumentation bereitstellen oder ein separates Foto ohne Brille machen. Einige Länder erlauben noch Lesebrille, wenn sie verschrieben sind, aber die Linsen dürfen keinen Glanz erzeugen und Ihre Augen müssen deutlich sichtbar sein. Religiöse Kopfbedeckung ist normalerweise zulässig, solange sie die für die Identifikation erforderlichen Gesichtsmerkmale nicht verdeckt.
 
-## Offizielle Größenangaben pro Land
+Sonnenbrillen und getönte Gläser werden überall abgelehnt, ohne medizinische Ausnahme. Wenn Sie die Brille tragen dürfen, neigen Sie den Kopf leicht von der Lichtquelle weg, damit die Gläser nicht spiegeln, und achten Sie darauf, dass die Fassung keinen Teil Ihrer Augen verdeckt.
+
+## Passfoto-Größe: die zwei Standards, die die meisten Länder verwenden
+
+Die meisten Passbehörden verwenden eines von zwei gedruckten Formaten. Das Format 35 x 45 mm gilt im Vereinigten Königreich, in EU-Ländern einschließlich der Niederlande und in weiten Teilen der übrigen Welt. Die USA verlangen ein 2 x 2 Zoll großes Quadrat, dem eine Handvoll weiterer Länder folgen.
+
+Bei digitalen Einreichungen treten Pixel an die Stelle von Millimetern, und jede Behörde veröffentlicht ihre eigenen Mindestwerte. Diese beiden Formate sind das, was die meisten Behörden derzeit für den Ausdruck verlangen, aber die Vorgaben werden überarbeitet, prüfen Sie also Ihre eigene, bevor Sie drucken oder hochladen.
+
+### Wo Sie die Größenanforderungen Ihres Landes finden
 
 Die Größe ist das, woran die meisten Menschen scheitern - wenn Ihr Foto nicht den Vorgaben Ihres Landes entspricht, ist eine Ablehnung fast sicher. Jedes Land legt seine eigenen Abmessungen fest, und diese Regeln werden von Zeit zu Zeit überarbeitet, daher sind die einzigen Zahlen, denen zu vertrauen ist, die auf der Website Ihrer eigenen Passbehörde am Tag der Einreichung.
 
@@ -123,7 +131,7 @@ Ja, Sie können ein Passfoto mit einem Smartphone machen. Positionieren Sie sich
 
 ### Wie groß sollte ein Passfoto sein
 
-Die Größenanforderungen unterscheiden sich je nach Land und werden streng durchgesetzt. Einige Behörden geben Millimeter an, andere Zoll, und die Regeln werden regelmäßig überarbeitet. Entnehmen Sie die genauen Messwerte der offiziellen Seite Ihrer eigenen Passbehörde anstelle einer Zusammenfassung eines Drittanbieters, einschließlich dieser.
+Die meisten Länder verwenden eines von zwei gedruckten Formaten: 35 x 45 mm, das im Vereinigten Königreich, in der EU und in weiten Teilen der Welt gilt, oder das 2 x 2 Zoll große Quadrat der USA. Digitale Einreichungen haben eigene Mindestpixelwerte. Die Anforderungen werden streng durchgesetzt und überarbeitet, prüfen Sie die genaue Vorgabe daher bei Ihrer eigenen Passbehörde, bevor Sie drucken oder hochladen.
 
 ### Warum wurde mein Passfoto abgelehnt
 
@@ -136,6 +144,10 @@ Natürliches Licht von einem Fenster ist ideal für Passfotos. Vermeiden Sie har
 ### Kann ich mit Brille auf einem Passfoto abgebildet sein
 
 Die meisten Länder verbieten jetzt Brillen auf Passfotos, es sei denn, Sie tragen sie aus medizinischen Gründen ständig. Selbst dann müssen Sie möglicherweise eine Dokumentation vorlegen. Überprüfen Sie die aktuellen Anforderungen Ihres Landes, bevor Sie Ihr Foto machen, da sich die Regeln in den letzten Jahren geändert haben. Im Zweifelsfall machen Sie sowohl ein Foto mit als auch ohne Brille, um Optionen zu haben.
+
+### Welche Regeln gelten für ein Passfoto?
+
+Die Grundregeln sind in den meisten Ländern ähnlich: ein einfarbiger, heller Hintergrund, ein neutraler Ausdruck mit geschlossenem Mund, beide Augen offen und gut sichtbar, keine Brille außer bei medizinischer Notwendigkeit, gleichmäßige Beleuchtung ohne Schatten, und ein aktuelles Foto in der von Ihrem Land verlangten Größe. Jede Behörde veröffentlicht ihre eigene vollständige Liste, und die Details unterscheiden sich, prüfen Sie also Ihre eigene, bevor Sie fotografieren.
 
 ## Verwandte Artikel
 

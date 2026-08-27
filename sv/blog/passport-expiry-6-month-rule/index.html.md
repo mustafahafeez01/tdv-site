@@ -1,6 +1,6 @@
-# 6-månadersregeln för pass: vilka länder tillämpar den och hur du aldrig blir tagen på sängen
+# 6-månadersregeln för pass: kan du resa med mindre än 6 månader kvar?
 
-> 6-månadersregeln för pass tar tusentals resenärer på sängen. Låt vårt AES-256-GCM-krypterade, offlinebaserade valv hålla koll på utgångsdatum automatiskt. Prova gratis för 5 dokument.
+> Många länder nekar inresa om passet har mindre än 6 månader kvar. Se vilka länder som tillämpar 6-månadersregeln och hur du kontrollerar ditt pass innan du bokar.
 
 Source: https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/
 
@@ -30,6 +30,14 @@ Regeln kräver sex månaders passgiltighet för resan. De flesta länder räknar
 Logiken är enkel: länder vill vara säkra på att du inte stannar kvar efter visumets giltighet och sedan står med ett odugligt dokument utan möjlighet att ta dig hem. Sex månader är en bekväm administrativ marginal.
 
 **Regeln är inte universell.** Varje land sätter sina egna villkor, och kraven kan skilja sig åt beroende på din nationalitet. Ett bilateralt avtal mellan två länder kan göra undantag för medborgare i det ena landet men inte det andra. Det är precis det som gör det så lätt att missa om du inte kontrollerar det inför varje resa.
+
+## Kan du resa med ett pass som går ut om 6 månader?
+
+Ibland, ja. Om ditt resmål bara kräver att passet är giltigt under vistelsen räcker fem månaders giltighet vanligtvis för att du ska släppas in. Storbritannien fungerar så för de flesta besökare, och Schengenländer kräver i allmänhet tre månader utöver din planerade avresa i stället för sex.
+
+Tillämpar ditt resmål 6-månadersregeln, nej. Thailand, Indonesien, Vietnam och många andra nekar i regel inresa, och flygbolaget nekar oftast ombordstigning långt innan du når gränsen.
+
+Svaret beror alltså på vart du ska, inte på passet i sig. Kontrollera resmålets krav samma dag du bokar, och igen veckan innan du flyger.
 
 ## Passkrav per land: vilka tillämpar 6-månadersregeln?
 
@@ -76,7 +84,7 @@ Att komma igenom avresan men nekas inresa av gränspolisen på andra sidan är �
 
 **Reseförsäkringen täcker vanligtvis inte detta,** eftersom försäkringsbolag betraktar passets giltighet som något som gick att förutse och undvika, så den ekonomiska smällen och den förstörda resan blir helt ditt eget ansvar.
 
-## Så ser du till att alltid vara skyddad
+## Vad du ska göra om passet har mindre än 6 månader kvar
 
 Behandla passet som ett bildäck och vänta inte tills det är platt: förnya så snart giltigheten sjunker under 12 månader, vilket ger dig en marginal på sex månader utöver kravet, med gott om utrymme kvar.
 
@@ -100,11 +108,15 @@ Dessa källor talar om det officiella kravet och om det gäller innehavare av ju
 
 ## Vanliga frågor
 
+### Kan jag resa om passet går ut om mindre än 6 månader?
+
+Det beror på resmålet. Länder som tillämpar 6-månadersregeln, bland annat Thailand, Indonesien och Vietnam, nekar i regel inresa, och flygbolagen nekar oftast ombordstigning först. Resmål som bara kräver giltighet under vistelsen, som Storbritannien för de flesta besökare, accepterar det vanligtvis. Kontrollera resmålets officiella inresekrav innan du bokar, inte efteråt.
+
 ### Vad är egentligen 6-månadersregeln för pass, och varför finns den?
 
 6-månadersregeln för pass innebär att passet behöver sex månaders giltighet för resan. De flesta länder mäter det från ankomstdagen, och en del från avresedagen. Går det ut inom den perioden kan du nekas ombordstigning eller inresa - även om passet i praktiken inte har gått ut än.
 
-### Vilka länder tillämpar 6-månadersregeln för pass 2026?
+### Vilka länder tillämpar 6-månadersregeln för pass?
 
 Länder som vanligtvis kräver 6 månaders giltighet på passet är bland andra Thailand, Indonesien, Vietnam, Filippinerna och Indien, tillsammans med många andra länder i Asien och Afrika. Kraven ändras, så kontrollera alltid med officiella källor innan du reser. För de mest aktuella kraven, kontrollera IATA Travel Centre, verktyget flygbolagen använder för att verifiera resehandlingar i realtid.
 

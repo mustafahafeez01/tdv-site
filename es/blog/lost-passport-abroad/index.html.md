@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/es/blog/lost-passport-abroad/
 - El seguro de viaje cubre los costos de reemplazo de pasaporte en la mayoría de las pólizas integrales. Necesitas la denuncia policial para reclamar.
 - El momento para prepararse es ahora, antes de que algo salga mal. Un escaneo de cinco minutos hoy podría ahorrar días de estrés en el extranjero.
 
-Perder tu pasaporte en el extranjero se encuentra entre las emergencias de viaje más estresantes. Estás lejos de casa, potencialmente en un país donde no hablas el idioma, y el documento que prueba quién eres ha desaparecido. Es un problema solucionable, y la gente lo resuelve todos los días. Aquí está qué hacer, en orden.
+Cada día, viajeros de todo el mundo sustituyen su pasaporte perdido en el extranjero, y las embajadas lo tratan como un trámite habitual, no como una emergencia. El proceso sigue un orden concreto, y seguirlo es lo que convierte una mala tarde en un simple retraso en lugar de un viaje cancelado. Esto es lo que hay que hacer, paso a paso.
 
 ## Antes de que Algo Salga Mal: Fotografía tu Pasaporte Ahora
 

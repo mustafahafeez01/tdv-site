@@ -1,6 +1,6 @@
-# La règle des 6 mois de validité du passeport : quels pays l'appliquent et comment l'éviter
+# La règle des 6 mois du passeport : peut-on voyager avec moins de 6 mois de validité ?
 
-> La règle des 6 mois de validité du passeport prend au dépourvu des milliers de voyageurs. Découvrez les pays qui l'appliquent et utilisez Travel Document Vault pour suivre automatiquement vos dates d'expiration. Essai gratuit pour 5 documents.
+> De nombreux pays refusent l'entrée si votre passeport a moins de 6 mois de validité restants. Découvrez qui applique la règle des 6 mois et comment vérifier le vôtre avant de réserver.
 
 Source: https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/
 
@@ -30,6 +30,14 @@ Cette règle exige six mois de validité du passeport pour votre voyage. La plup
 La logique est simple : les pays veulent l'assurance que vous ne resterez pas au-delà de votre visa et que vous ne vous retrouverez pas avec un document invalide sans moyen de rentrer chez vous. Six mois est un tampon administratif pratique.
 
 **La règle n'est pas universelle.** Chaque pays définit ses propres conditions, et les exigences peuvent différer selon votre nationalité. Un accord bilatéral entre deux pays peut y renoncer pour les citoyens de l'un mais pas de l'autre. C'est ce qui la rend facile à mal comprendre sans la vérifier avant chaque voyage.
+
+## Peut-on voyager avec un passeport qui expire dans 6 mois ?
+
+Parfois, oui. Si votre destination exige seulement que le passeport reste valide pendant votre séjour, cinq mois restants suffisent généralement pour entrer. C'est le cas du Royaume-Uni pour la plupart des visiteurs, et les pays de l'espace Schengen demandent généralement trois mois au-delà de votre départ prévu plutôt que six.
+
+Si votre destination applique la règle des 6 mois, non. La Thaïlande, l'Indonésie, le Vietnam et bien d'autres refusent généralement l'entrée, et la compagnie aérienne refuse en général l'embarquement bien avant que vous n'atteigniez la frontière.
+
+La réponse dépend donc de votre destination plutôt que du passeport en lui-même. Vérifiez l'exigence de la destination le jour où vous réservez, puis à nouveau la semaine de votre départ.
 
 ## Exigences de validité du passeport par pays : qui applique la règle des 6 mois ?
 
@@ -78,7 +86,7 @@ Arrivez à la destination et êtes refusé par l'immigration ? C'est bien pire. 
 
 **L'assurance voyage ne couvre généralement pas cela.** La validité du passeport est considérée comme une circonstance qui aurait pu être évitée. Le coup financier et le voyage gâché vous reviennent entièrement à absorber.
 
-## Comment vous assurer d'être toujours couvert
+## Que faire si votre passeport a moins de 6 mois de validité
 
 Traitez votre passeport comme un pneu de voiture - ne pas attendre jusqu'à ce qu'il soit plat. Renouvelez quand vous descendez en dessous de 12 mois de validité. Cela vous donne un tampon de six mois en plus de la règle, avec une marge supplémentaire.
 
@@ -102,11 +110,15 @@ Ces sources vous indiquent l'exigence officielle et si elle s'applique aux titul
 
 ## Questions fréquemment posées
 
+### Puis-je voyager si mon passeport expire dans moins de 6 mois ?
+
+Cela dépend de la destination. Les pays qui appliquent la règle des 6 mois, dont la Thaïlande, l'Indonésie et le Vietnam, refusent généralement l'entrée, et les compagnies aériennes refusent en général l'embarquement en premier. Les destinations qui exigent seulement une validité couvrant votre séjour, comme le Royaume-Uni pour la plupart des visiteurs, l'acceptent généralement. Vérifiez les exigences d'entrée officielles de votre destination avant de réserver, pas après.
+
 ### Qu'est-ce exactement que la règle des 6 mois de validité du passeport et pourquoi existe-t-elle ?
 
 La règle des 6 mois de validité du passeport exige six mois de validité du passeport pour votre voyage. La plupart des pays la mesurent à partir du jour de votre arrivée, et certains à partir du jour de votre départ. Si elle expire dans cette fenêtre, vous pouvez être refusé à l'embarquement ou à l'entrée - même si le passeport lui-même n'a techniquement pas expiré.
 
-### Quels pays appliquent la règle des 6 mois de validité du passeport en 2026 ?
+### Quels pays appliquent la règle des 6 mois de validité du passeport ?
 
 Les pays qui exigent généralement une validité du passeport de 6 mois incluent la Thaïlande, l'Indonésie, le Vietnam, les Philippines et l'Inde, ainsi que beaucoup d'autres en Asie et en Afrique. Les exigences changent, alors vérifiez toujours auprès des sources officielles avant de voyager. Pour les exigences les plus précises et à jour, consultez le IATA Travel Centre, l'outil que les compagnies aériennes utilisent pour vérifier les documents des passagers en temps réel.
 

@@ -16,9 +16,9 @@ Source: https://traveldocumentvault.com/id/blog/damaged-passport-travel/
 - Jika Anda ditolak di gerbang keberangkatan, **tanyakan kepada kedutaan Anda tentang dokumen perjalanan darurat** - penerbitan di hari yang sama kadang dimungkinkan.
 - Salinan digital **paling berharga saat Anda berada di luar negeri** - petugas konsuler bisa memastikan identitas Anda dari hasil scan jauh lebih cepat daripada dari penjelasan lisan Anda. Scan paspor Anda sebelum bepergian.
 
-Anda sedang mengantre di bandara dengan paspor di tangan ketika menyadari sampul belakangnya melengkung dan halaman di dalamnya terasa lembap - sementara pesawat Anda berangkat dua jam lagi. Anda memberi tahu petugas gerbang, yang terdiam sejenak, lalu mengangkat telepon. Anda tidak akan berangkat hari ini.
+Sebagian besar kerusakan paspor hanya bersifat kosmetik. Sampul yang tergores, sudut yang melembek, atau tepi yang sedikit terkelupas di bagian punggung buku - semua itu tidak akan menghalangi siapa pun untuk naik pesawat. Yang benar-benar diperiksa oleh petugas imigrasi dan maskapai jauh lebih sempit dari yang dibayangkan kebanyakan wisatawan: halaman foto, dua baris cetak di bawahnya, dan apakah buku paspor masih utuh sebagai satu dokumen.
 
-Ini adalah salah satu bencana perjalanan yang paling mudah dicegah, karena kerusakan paspor - akibat air, keausan, atau kecelakaan - bisa menahan Anda di gerbang keberangkatan meskipun dokumen Anda secara teknis masih berlaku. Memahami apa yang dianggap kerusakan, apa yang akan diterima petugas, dan apa yang harus dilakukan jika hal ini terjadi adalah perbedaan antara perjalanan yang batal dan krisis yang berhasil dihindari beberapa jam sebelum keberangkatan.
+Mengetahui di mana batas itu berada sangat berguna sebelum Anda bepergian, karena paspor bisa saja secara teknis masih berlaku namun tetap ditolak. Artikel ini membahas apa yang dianggap kerusakan, apa yang umumnya diterima petugas, dan apa yang harus dilakukan jika paspor Anda sudah dalam kondisi buruk.
 
 ## Apa yang Sebenarnya Dianggap Kerusakan Paspor
 
@@ -67,7 +67,7 @@ Waktu pemrosesan yang dipublikasikan berubah-ubah sepanjang tahun, dan biasanya 
 - **Pastikan layanan tercepat mencakup kasus kerusakan.** Membayar untuk opsi tercepat tidak otomatis berarti berlaku untuk dokumen yang rusak, jadi periksa dulu.
 - **Rencanakan untuk datang langsung.** Paspor yang rusak hampir selalu memerlukan seseorang untuk memeriksanya dan menariknya dari peredaran, sesuatu yang tidak bisa dilakukan lewat permohonan via pos.
 - **Tanyakan kantor mana yang menangani kasus mendesak.** Di banyak negara, ini bukan loket yang sama dengan yang menerima permohonan rutin, jadi cari tahu dulu sebelum Anda menempuh perjalanan jauh dengan sia-sia.
-- **Bawa bukti perjalanan.** Konfirmasi pemesanan adalah kunci untuk membuka jalur yang lebih cepat, jadi bawa serta dokumen tersebut alih-alih berjanji akan mengirimkannya lewat email nanti.
+- **Bawa bukti perjalanan.** Konfirmasi pemesanan membantu Anda melalui jalur yang lebih cepat, jadi bawa serta dokumen tersebut alih-alih berjanji akan mengirimkannya lewat email nanti.
 
 Pola ini berlaku di mana pun. Semakin dekat dengan tanggal keberangkatan, semakin sedikit jalur yang masih terbuka, dan yang tersisa mengharuskan Anda datang langsung dengan membawa paspor rusak dan bukti perjalanan. Menemukan kerusakan tiga minggu sebelumnya hanyalah ketidaknyamanan. Menemukannya tiga hari sebelumnya adalah masalah yang sama sekali berbeda.
 

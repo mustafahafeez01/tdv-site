@@ -16,9 +16,9 @@ Source: https://traveldocumentvault.com/da/blog/damaged-passport-travel/
 - Bliver du afvist ved gaten, **så spørg din ambassade om et nødrejsedokument** - det kan i mange tilfælde udstedes samme dag.
 - En digital kopi er **mest værd, når du er i udlandet** - en konsulær medarbejder kan bekræfte din identitet ud fra en scanning langt hurtigere end ud fra din egen forklaring. Scan dit pas, før du rejser.
 
-Du står i køen i lufthavnen med dit pas i hånden, da du bemærker, at bagsiden har slået sig, og siderne indeni føles fugtige - og dit fly letter om to timer. Du fortæller det til gateopvarteren, som stopper op og griber telefonen. Du kommer ikke med flyet i dag.
+De fleste pasbeskadigelser er kosmetiske. Et slidt omslag, et blødt hjørne, en flosset kant langs ryggen - intet af det forhindrer nogen i at boarde. Det, grænsepersonale og luftfartsselskabernes medarbejdere reelt tjekker, er mere snævert, end de fleste rejsende regner med: datasiden, de to trykte linjer nedenunder, og om hæftet stadig hænger sammen som ét dokument.
 
-Det er en af de rejsekatastrofer, der lettest kunne være undgået, for pasbeskadigelse - fra vand, slitage eller uheld - kan stoppe dig ved gaten, selvom dokumentet teknisk set stadig er gyldigt. At forstå, hvad der tæller som skade, hvad myndighederne accepterer, og hvad du skal gøre, hvis det sker, er forskellen på en aflyst rejse og en krise afværget timer før afgang.
+Hvor den grænse går, er værd at kende, før du rejser, for et pas kan være teknisk gyldigt og alligevel blive afvist. Det her gennemgår, hvad der tæller som skade, hvad myndighederne generelt accepterer, og hvad du skal gøre, hvis dit allerede er i dårlig stand.
 
 ## Hvad der egentlig tæller som pasbeskadigelse
 

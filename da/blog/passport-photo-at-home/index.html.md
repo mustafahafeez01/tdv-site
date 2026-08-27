@@ -1,6 +1,6 @@
-# Sådan tager du et pasfoto derhjemme, der bliver godkendt
+# Pasfoto regler: størrelse, briller og sådan tager du det derhjemme
 
-> Sådan får du dit pasfoto godkendt første gang: baggrund, lys, udtryk og de afvisningsgrunde, der rammer flest.
+> Reglerne for pasfoto, der får billeder afvist: størrelse, briller, baggrund og lys - plus sådan tager du et godkendt pasfoto derhjemme med din telefon.
 
 Source: https://traveldocumentvault.com/da/blog/passport-photo-at-home/
 
@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/da/blog/passport-photo-at-home/
 - De fleste lande tillader nu ikke briller, medmindre det er lægeligt nødvendigt - tjek de aktuelle krav
 - Almindelige afvisningsgrunde er skygger, forkert størrelse, smil, sløret billede og forkert baggrund
 
-Dit pasfoto blev afvist på grund af "skygger i ansigtet" - selvom du tog det på dit værelse i naturligt lys og syntes, det så helt fint ud. Paskrav er strenge, specifikke og varierer fra land til land: rammer du forkert på baggrund, lys eller størrelse med bare få millimeter, bliver ansøgningen sendt tilbage. Denne guide gennemgår præcis, hvordan du tager et pasfoto derhjemme, der bliver godkendt første gang.
+Et billede taget derhjemme bliver godkendt lige så let som et fra en fotoboks, forudsat at det opfylder den samme korte liste af regler. De fleste afvisninger skyldes tre ting: skygge i ansigtet eller på baggrunden, forkert størrelse på hovedet i billedet, og briller. Får du styr på dem, er resten ligetil.
 
 ## Fælles krav på tværs af lande
 
@@ -30,11 +30,19 @@ Du skal bruge en ensfarvet hvid eller råhvid baggrund - intet andet fungerer. I
 
 Dit ansigt skal fylde billedet i den andel, din pasmyndighed angiver, med øjnene åbne og tydeligt synlige - de fleste lande forbyder smil, og at knibe øjnene sammen diskvalificerer billedet. Se lige ind i kameraet med et neutralt udtryk, vip evt. hovedet en anelse, hvis det føles mere naturligt, men hold generelt hovedet lige mod linsen. Ørerne bør helst være synlige på begge sider af ansigtet.
 
-### Briller og hovedbeklædning
+## Må jeg have briller på i et pasfoto?
 
 De fleste lande tillader nu ikke almindelige briller på pasfoto, medmindre du bærer dem permanent af medicinske årsager. Selv da kan du blive bedt om at fremvise dokumentation eller tage et separat billede uden briller. Nogle lande tillader stadig læsebriller, hvis de er ordineret, men glasset må ikke give reflekser, og øjnene skal være tydeligt synlige. Religiøs hovedbeklædning er som regel tilladt, så længe den ikke skjuler de ansigtstræk, der er nødvendige for identifikation.
 
-## Hvor du tjekker dit lands størrelseskrav
+Solbriller og tonede glas afvises overalt, uden lægelig dispensation. Kvalificerer du dig til at beholde brillerne på, så vinkl hovedet lidt væk fra lyskilden, så glassene ikke reflekterer, og tjek at stellet ikke dækker nogen del af øjnene.
+
+## Størrelse på pasfoto: de to standarder de fleste lande bruger
+
+De fleste pasmyndigheder bruger en af to trykte størrelser. Formatet 35 x 45 mm dækker Storbritannien, EU-lande og store dele af resten af verden. USA kræver et kvadrat på 2 x 2 tommer, og enkelte lande følger den standard i stedet.
+
+Digitale indsendelser bytter millimeter ud med pixels, og hver myndighed offentliggør sine egne minimumskrav. De to størrelser er, hvad de fleste myndigheder aktuelt beder om i trykt format, men specifikationerne bliver revideret, så bekræft dine, før du printer eller uploader.
+
+### Hvor du tjekker dit lands størrelseskrav
 
 Størrelse er der, hvor de fleste går galt - matcher billedet ikke dit lands krav, er afvisning næsten sikker. Hvert land fastsætter sine egne mål, nogle i tommer og nogle i millimeter, og de bliver revideret fra tid til anden.
 
@@ -123,7 +131,7 @@ Ja, du kan tage et pasfoto med din smartphone. Stil dig foran en ensfarvet hvid 
 
 ### Hvilken størrelse skal et pasfoto have?
 
-Størrelseskravene varierer fra land til land og håndhæves strengt. Nogle myndigheder angiver millimeter, andre tommer, og reglerne bliver revideret med jævne mellemrum. Tag de præcise mål fra din egen pasmyndigheds officielle side i stedet for fra en tredjeparts opsummering, denne inklusive.
+De fleste lande bruger en af to trykte størrelser: 35 x 45 mm, som dækker Storbritannien, EU og store dele af verden, eller det kvadrat på 2 x 2 tommer, som USA bruger. Digitale indsendelser har separate minimumskrav i pixels. Kravene håndhæves strengt og bliver revideret, så bekræft den præcise spec med din egen pasmyndighed, før du printer eller uploader.
 
 ### Hvorfor blev mit pasfoto afvist?
 
@@ -136,6 +144,10 @@ Naturligt lys fra et vindue er ideelt til pasfoto. Undgå hårde skygger i ansig
 ### Må jeg have briller på i et pasfoto?
 
 De fleste lande tillader nu ikke briller på pasfoto, medmindre det er lægeligt nødvendigt. Selv da kan du blive bedt om at fremvise dokumentation. Tjek dit lands aktuelle krav, før du tager billedet, da reglerne er blevet ændret de seneste år. Er du i tvivl, så tag et billede både med og uden briller for at have begge muligheder.
+
+### Hvad er reglerne for et pasfoto?
+
+Grundreglerne er stort set ens i de fleste lande: en ensfarvet lys baggrund, et neutralt udtryk med lukket mund, begge øjne åbne og tydeligt synlige, ingen briller medmindre det er lægeligt nødvendigt, jævn belysning uden skygger, og et nyligt billede, der opfylder dit lands størrelseskrav. Hver myndighed offentliggør sin egen fulde liste, og detaljerne varierer, så tjek din, før du tager billedet.
 
 ## Relaterede artikler
 

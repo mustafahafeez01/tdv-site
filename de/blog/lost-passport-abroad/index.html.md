@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/de/blog/lost-passport-abroad/
 - Die Reiseversicherung deckt die Kosten für Passersatz in den meisten umfassenden Policen. Sie benötigen den Polizeibericht, um einen Anspruch geltend zu machen.
 - Der richtige Zeitpunkt zur Vorbereitung ist jetzt, bevor etwas schief läuft. Ein fünfminütiger Scan heute könnte Tage Stress im Ausland ersparen.
 
-Ihren Pass im Ausland zu verlieren, gehört zu den stressigsten Reisenotfällen. Sie sind weit weg von zu Hause, möglicherweise in einem Land, dessen Sprache Sie nicht sprechen, und das Dokument, das beweist, wer Sie sind, ist weg. Es ist ein lösbares Problem, und Menschen bewältigen es jeden Tag. Hier ist, was Sie tun sollten, in dieser Reihenfolge.
+Jeden Tag lassen sich verloren gegangene Pässe im Ausland ersetzen, und Botschaften behandeln das als Routinevorgang, nicht als Notfall. Der Ablauf folgt einer festen Reihenfolge, und genau die einzuhalten macht aus einem schlechten Nachmittag eine Verzögerung statt einer abgesagten Reise. So gehen Sie Schritt für Schritt vor.
 
 ## Bevor etwas schief läuft: Fotografieren Sie Ihren Pass jetzt
 

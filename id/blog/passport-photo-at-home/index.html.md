@@ -1,6 +1,6 @@
-# Cara Membuat Foto Paspor di Rumah yang Pasti Diterima
+# Aturan Foto Paspor: Ukuran, Kacamata, dan Cara Memotret di Rumah
 
-> Cara membuat foto paspor diterima sejak percobaan pertama: latar belakang, pencahayaan, ekspresi, dan alasan penolakan yang paling sering menjebak orang.
+> Aturan foto paspor yang sering membuat foto ditolak: ukuran, kacamata, latar belakang, dan pencahayaan, plus cara memotret foto yang sesuai ketentuan di rumah dengan ponsel Anda.
 
 Source: https://traveldocumentvault.com/id/blog/passport-photo-at-home/
 
@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/id/blog/passport-photo-at-home/
 - Sebagian besar negara kini melarang kacamata kecuali secara medis diperlukan - periksa persyaratan terbaru
 - Alasan penolakan yang umum termasuk bayangan, ukuran salah, tersenyum, foto buram, dan latar belakang yang tidak sesuai
 
-Foto paspor Anda ditolak karena "bayangan di wajah" - padahal Anda mengambilnya di kamar tidur dengan cahaya alami dan menurut Anda sudah terlihat cukup baik. Persyaratan paspor bersifat ketat, spesifik, dan berbeda tiap negara: salah beberapa milimeter saja pada latar belakang, pencahayaan, atau ukuran, dan pengajuan Anda akan dikembalikan. Panduan ini menjelaskan langkah demi langkah cara mengambil foto di rumah yang lolos pada percobaan pertama.
+Foto yang diambil di rumah bisa lolos semudah foto dari studio, asalkan memenuhi daftar aturan singkat yang sama. Sebagian besar penolakan disebabkan oleh tiga hal: bayangan di wajah atau latar belakang, ukuran kepala yang tidak sesuai proporsi dalam bingkai, dan kacamata. Perbaiki tiga hal ini, dan sisanya jadi mudah.
 
 ## Persyaratan Umum di Berbagai Negara
 
@@ -30,11 +30,19 @@ Anda membutuhkan latar belakang putih polos atau putih gading - tidak ada yang l
 
 Wajah Anda harus mengisi bingkai sesuai proporsi yang ditetapkan otoritas paspor Anda, dengan mata terbuka dan terlihat jelas - sebagian besar negara melarang senyum, dan mata menyipit akan mendiskualifikasi foto. Menatap lurus ke kamera dengan ekspresi netral, memiringkan kepala sedikit jika terasa lebih alami, tetapi umumnya jagalah kepala tegak menghadap lensa. Telinga sebaiknya terlihat di kedua sisi wajah.
 
-### Kacamata dan Penutup Kepala
+## Bolehkah Memakai Kacamata dalam Foto Paspor?
 
 Sebagian besar negara kini tidak lagi mengizinkan kacamata biasa dalam foto paspor kecuali Anda memakainya secara permanen karena alasan medis. Bahkan begitu, Anda mungkin perlu menyertakan dokumentasi atau mengambil foto terpisah tanpa kacamata. Beberapa negara masih mengizinkan kacamata baca jika diresepkan, tetapi lensanya tidak boleh menimbulkan kilau dan mata harus terlihat jelas. Penutup kepala keagamaan umumnya diizinkan selama tidak menutupi fitur wajah yang diperlukan untuk identifikasi.
 
-## Di Mana Memeriksa Persyaratan Ukuran Negara Anda
+Kacamata hitam dan lensa berwarna ditolak di mana pun, tanpa pengecualian medis. Jika Anda memenuhi syarat untuk tetap memakai kacamata, miringkan kepala sedikit menjauhi sumber cahaya agar lensa tidak memantulkan cahaya, dan pastikan bingkai kacamata tidak menutupi bagian mata mana pun.
+
+## Ukuran Foto Paspor: Dua Standar yang Digunakan Sebagian Besar Negara
+
+Sebagian besar otoritas paspor menggunakan salah satu dari dua ukuran cetak. Format 35mm x 45mm berlaku di Inggris, negara-negara Uni Eropa termasuk Belanda, dan sebagian besar negara lain di dunia. Amerika Serikat meminta ukuran persegi 2 x 2 inci, dan beberapa negara lain mengikuti standar tersebut.
+
+Pengajuan digital menggunakan piksel, bukan milimeter, dan setiap otoritas menerbitkan ketentuan minimumnya sendiri. Kedua ukuran tersebut adalah yang saat ini paling banyak diminta untuk foto cetak, tetapi spesifikasi bisa direvisi, jadi pastikan ketentuannya sebelum Anda mencetak atau mengunggah.
+
+### Di Mana Memeriksa Persyaratan Ukuran Negara Anda
 
 Ukuran adalah titik yang paling sering membuat orang tersandung - jika foto Anda tidak sesuai persyaratan negara Anda, penolakan hampir pasti terjadi. Setiap negara menetapkan ukurannya sendiri, sebagian dalam inci dan sebagian dalam milimeter, dan direvisi dari waktu ke waktu.
 
@@ -123,7 +131,7 @@ Ya, Anda bisa mengambil foto paspor menggunakan ponsel pintar. Berdirilah di dep
 
 ### Berapa ukuran foto paspor yang seharusnya?
 
-Persyaratan ukuran berbeda-beda tiap negara dan diterapkan secara ketat. Sebagian otoritas menetapkan dalam milimeter, sebagian lagi dalam inci, dan aturannya direvisi dari waktu ke waktu. Ambil ukuran pasti dari halaman resmi otoritas paspor negara Anda sendiri, bukan dari ringkasan pihak ketiga mana pun, termasuk artikel ini.
+Sebagian besar negara menggunakan salah satu dari dua ukuran cetak: 35mm x 45mm, yang berlaku di Inggris, Uni Eropa, dan sebagian besar negara di dunia, atau ukuran persegi 2 x 2 inci yang digunakan Amerika Serikat. Pengajuan digital memiliki ketentuan minimum piksel tersendiri. Persyaratan ini diterapkan secara ketat dan bisa direvisi, jadi pastikan spesifikasi pastinya dengan otoritas paspor negara Anda sendiri sebelum mencetak atau mengunggah.
 
 ### Mengapa foto paspor saya ditolak?
 
@@ -136,6 +144,10 @@ Cahaya alami dari jendela adalah pilihan ideal untuk foto paspor. Hindari bayang
 ### Bolehkah saya memakai kacamata dalam foto paspor?
 
 Sebagian besar negara kini melarang kacamata dalam foto paspor kecuali secara medis diperlukan. Bahkan begitu, Anda mungkin perlu menyertakan dokumentasi pendukung. Periksa persyaratan terbaru negara Anda sebelum mengambil foto, karena aturannya telah berubah dalam beberapa tahun terakhir. Jika ragu, ambil foto baik dengan maupun tanpa kacamata agar punya pilihan.
+
+### Apa saja aturan untuk foto paspor?
+
+Aturan intinya konsisten di sebagian besar negara: latar belakang polos berwarna terang, ekspresi netral dengan mulut tertutup, kedua mata terbuka dan terlihat jelas, tanpa kacamata kecuali secara medis diperlukan, pencahayaan merata tanpa bayangan, dan foto terbaru yang memenuhi spesifikasi ukuran negara Anda. Setiap otoritas menerbitkan daftar lengkapnya sendiri dan detailnya bisa berbeda, jadi periksa aturan negara Anda sebelum memotret.
 
 ## Artikel Terkait
 

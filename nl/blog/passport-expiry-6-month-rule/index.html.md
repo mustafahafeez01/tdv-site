@@ -1,6 +1,6 @@
-# De 6 maanden-paspoortregel: welke landen die hanteren en hoe je nooit voor verrassingen komt te staan
+# 6 maanden-paspoortregel: kun je reizen met minder dan 6 maanden geldigheid?
 
-> De 6 maanden-paspoortregel overvalt duizenden reizigers. Laat onze AES-256-GCM-versleutelde, volledig offline kluis je vervaldatums automatisch bijhouden. Probeer gratis voor 5 documenten.
+> Veel landen weigeren toegang als je paspoort minder dan 6 maanden geldig is. Bekijk wie de 6 maanden-paspoortregel hanteert en hoe je je paspoort controleert voordat je boekt.
 
 Source: https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/
 
@@ -30,6 +30,14 @@ De regel vereist zes maanden paspoortgeldigheid voor je reis. De meeste landen r
 De logica is simpel: landen willen zekerheid dat je je visum niet overschrijdt en vervolgens vastzit met een verlopen document zonder manier om terug te keren. Zes maanden is een handige administratieve marge.
 
 **De regel is niet universeel.** Elk land stelt zijn eigen voorwaarden, en de vereisten kunnen verschillen op basis van je nationaliteit. Een bilaterale overeenkomst tussen twee landen kan de regel laten vervallen voor burgers van het ene land, maar niet van het andere. Dat maakt het zo makkelijk om het mis te hebben zonder het voor elke reis te controleren.
+
+## Kun je reizen met een paspoort dat over 6 maanden verloopt?
+
+Soms wel. Als je bestemming alleen vereist dat je paspoort geldig is voor de duur van je verblijf, is vijf maanden geldigheid meestal genoeg om binnen te komen. Het Verenigd Koninkrijk werkt zo voor de meeste bezoekers, en Schengenlanden vragen doorgaans drie maanden na je geplande vertrek in plaats van zes.
+
+Hanteert je bestemming de 6 maanden-regel, dan niet. Thailand, Indonesië, Vietnam en veel andere landen weigeren doorgaans toegang, en de luchtvaartmaatschappij weigert meestal al instappen ruim voordat je de grens bereikt.
+
+Het antwoord hangt dus af van waar je heen gaat, niet van het paspoort zelf. Controleer de vereiste van je bestemming op de dag dat je boekt, en nogmaals de week voordat je vliegt.
 
 ## Vereiste paspoortgeldigheid per land: wie hanteert de 6 maanden-regel?
 
@@ -76,7 +84,7 @@ Door de vertrekcontrole komen maar bij immigratie aan de andere kant geweigerd w
 
 **Reisverzekeringen dekken dit meestal niet,** omdat verzekeraars paspoortgeldigheid als een te voorkomen omstandigheid beschouwen, waardoor de financiële schade en de verpeste reis volledig voor jouw rekening komen.
 
-## Zo zorg je dat je altijd gedekt bent
+## Wat te doen als je paspoort minder dan 6 maanden geldig is
 
 Behandel je paspoort als een autoband en wacht niet tot hij leeg is: vernieuw het zodra de geldigheid onder de 12 maanden komt, wat je een marge van zes maanden bovenop de regel geeft, met nog wat ruimte over.
 
@@ -100,11 +108,15 @@ Deze bronnen geven de officiële vereiste aan, en of die geldt voor houders van 
 
 ## Veelgestelde vragen
 
+### Kan ik reizen als mijn paspoort over minder dan 6 maanden verloopt?
+
+Dat hangt af van de bestemming. Landen die de 6 maanden-regel hanteren, waaronder Thailand, Indonesië en Vietnam, weigeren doorgaans toegang, en luchtvaartmaatschappijen weigeren meestal al eerder instappen. Bestemmingen die alleen geldigheid voor de duur van je verblijf vereisen, zoals het Verenigd Koninkrijk voor de meeste bezoekers, accepteren het meestal wel. Controleer de officiële inreisvereisten van je bestemming voordat je boekt, niet erna.
+
 ### Wat is de 6 maanden-paspoortregel precies, en waarom bestaat die?
 
 De 6 maanden-paspoortregel houdt in dat je paspoort zes maanden geldigheid nodig heeft voor je reis. De meeste landen meten dit vanaf je aankomstdag, en sommige vanaf je vertrekdag. Verloopt het binnen die periode, dan kun je worden geweigerd bij het instappen of bij de grens - ook al is het paspoort technisch nog niet verlopen.
 
-### Welke landen hanteren de 6 maanden-paspoortregel in 2026?
+### Welke landen hanteren de 6 maanden-paspoortregel?
 
 Landen die gewoonlijk 6 maanden paspoortgeldigheid vereisen zijn onder meer Thailand, Indonesië, Vietnam, de Filipijnen en India, samen met veel andere landen in Azië en Afrika. Vereisten veranderen, dus controleer altijd officiële bronnen voordat je vertrekt. Voor de meest actuele vereisten, raadpleeg het IATA Travel Centre, het systeem dat luchtvaartmaatschappijen gebruiken om reisdocumenten in realtime te controleren.
 

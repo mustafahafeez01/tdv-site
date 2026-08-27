@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/sv/blog/lost-passport-abroad/
 - Reseförsäkringen täcker kostnaden för ett nytt pass i de flesta fullständiga försäkringar. Du behöver polisanmälan för att göra anspråket.
 - Rätt tid att förbereda sig är nu, innan något går fel. En fem minuter lång skanning i dag kan spara dig dagar av stress utomlands.
 
-Att tappa passet utomlands hör till de mest stressande resekriserna. Du är långt hemifrån, kanske i ett land där du inte talar språket, och dokumentet som bevisar vem du är är borta. Det går att lösa, och människor tar sig igenom det varje dag. Så här gör du, i rätt ordning.
+Människor ersätter förlorade pass utomlands varje dag, och ambassader behandlar det som ett rutinärende snarare än en nödsituation. Processen har en given ordning, och att följa den är det som gör en dålig eftermiddag till en försening i stället för en inställd resa. Så här gör du, steg för steg.
 
 ## Innan något går fel: fotografera passet nu
 

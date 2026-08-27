@@ -16,9 +16,9 @@ Source: https://traveldocumentvault.com/pt/blog/damaged-passport-travel/
 - Se for impedido de embarcar no portão, **pergunte à sua embaixada sobre um documento de viagem de emergência** - a emissão no mesmo dia é possível.
 - Uma cópia digital **vale mais quando está no estrangeiro** - um funcionário consular consegue confirmar a sua identidade a partir de uma digitalização muito mais depressa do que a partir do seu relato. Digitalize o seu passaporte antes de viajar.
 
-Está na fila do aeroporto com o passaporte na mão quando repara que a contracapa empenou e as páginas por dentro estão húmidas - e o seu voo parte daqui a duas horas. Diz isso ao agente de portão, que hesita, depois pega no telefone. Hoje não vai embarcar.
+A maioria dos danos num passaporte é apenas estética. Uma capa riscada, um canto amolecido, uma aresta puída ao longo da lombada - nada disto impede alguém de embarcar. O que o pessoal de fronteira e os agentes das companhias aéreas verificam de facto é mais restrito do que a maioria dos viajantes imagina: a página de identificação, as duas linhas impressas por baixo dela, e se o livrete ainda se mantém como um único documento.
 
-É um dos desastres de viagem mais fáceis de evitar, porque danos no passaporte - causados pela água, pelo desgaste ou por acidentes - podem impedi-lo de embarcar mesmo que o documento seja tecnicamente válido. Compreender o que conta como dano, o que as autoridades aceitam e o que fazer se isso acontecer é a diferença entre uma viagem cancelada e uma crise evitada horas antes da partida.
+Vale a pena saber onde está esse limite antes de viajar, porque um passaporte pode ser tecnicamente válido e, ainda assim, ser recusado. Este artigo explica o que conta como dano, o que as autoridades geralmente aceitam e o que fazer se o seu já estiver em mau estado.
 
 ## O Que Realmente Conta Como Dano no Passaporte
 
@@ -67,7 +67,7 @@ Os prazos de processamento publicados variam ao longo do ano e aumentam no verã
 - **Confirme se o nível prioritário cobre danos.** Pagar pela opção mais rápida não significa automaticamente que se aplica a um documento danificado, por isso confirme primeiro.
 - **Planeie comparecer presencialmente.** Um passaporte danificado quase sempre exige que alguém o inspecione e o retire de circulação, o que uma candidatura por correio não permite fazer.
 - **Pergunte qual o serviço que trata dos casos urgentes.** Em muitos países não é o mesmo balcão que recebe candidaturas de rotina, por isso informe-se antes de atravessar a cidade para nada.
-- **Leve prova da viagem.** São as confirmações de reserva que dão acesso às vias mais rápidas, por isso leve-as consigo em vez de prometer enviá-las por e-mail mais tarde.
+- **Leve prova da viagem.** São as confirmações de reserva que abrem as vias mais rápidas, por isso leve-as consigo em vez de prometer enviá-las por e-mail mais tarde.
 
 O padrão mantém-se em todo o lado, no entanto. Quanto mais perto estiver da partida, menos vias permanecem abertas, e as que restam exigem que compareça presencialmente com o passaporte danificado e prova da viagem. Descobrir o dano três semanas antes é um incómodo. Descobri-lo três dias antes é um problema completamente diferente.
 

@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/nl/blog/lost-passport-abroad/
 - Reisverzekeringen dekken de kosten voor een nieuw paspoort in de meeste uitgebreide polissen. Je hebt het proces-verbaal nodig om een claim in te dienen.
 - Het juiste moment om je voor te bereiden is nu, voordat er iets misgaat. Een scan van vijf minuten vandaag kan je dagen stress in het buitenland besparen.
 
-Je paspoort verliezen in het buitenland behoort tot de meest stressvolle reiscrises die er zijn. Je bent ver van huis, misschien in een land waar je de taal niet spreekt, en het document dat bewijst wie je bent, is weg. Het is op te lossen, en mensen komen er elke dag doorheen. Dit is wat je moet doen, in de juiste volgorde.
+Mensen laten elke dag hun verloren paspoort in het buitenland vervangen, en ambassades behandelen het als routinewerk in plaats van een noodgeval. Het proces heeft een vaste volgorde, en die aanhouden is wat een rotmiddag verandert in een vertraging in plaats van een geannuleerde reis. Dit is wat je moet doen, stap voor stap.
 
 ## Voordat er iets misgaat: fotografeer je paspoort nu
 

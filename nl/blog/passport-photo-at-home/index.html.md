@@ -1,6 +1,6 @@
-# Zo maak je thuis een paspoortfoto die wordt geaccepteerd
+# Regels voor een paspoortfoto: afmetingen, bril en hem thuis maken
 
-> Zo krijg je je paspoortfoto in één keer goedgekeurd: achtergrond, belichting, gezichtsuitdrukking en de afwijzingsredenen die de meeste mensen missen.
+> De regels voor een paspoortfoto (pasfoto) die vaak over het hoofd worden gezien: afmetingen, bril, achtergrond en belichting - plus hoe je thuis met je telefoon een geldige foto maakt.
 
 Source: https://traveldocumentvault.com/nl/blog/passport-photo-at-home/
 
@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/nl/blog/passport-photo-at-home/
 - De meeste landen staan tegenwoordig geen bril toe, tenzij medisch noodzakelijk - controleer de actuele eisen
 - Veelvoorkomende afwijzingsredenen zijn schaduwen, onjuiste afmetingen, glimlachen, wazige foto's en een verkeerde achtergrond
 
-Je paspoortfoto werd afgewezen wegens "schaduwen op het gezicht" - ook al had je hem in je slaapkamer in natuurlijk licht genomen en dacht je dat hij er prima uitzag. Paspoorteisen zijn streng, specifiek en verschillen per land: zit je met achtergrond, belichting of afmeting er zelfs maar een paar millimeter naast, dan wordt je aanvraag teruggestuurd. Deze gids laat je precies zien hoe je thuis een foto maakt die de eerste keer wordt goedgekeurd.
+Een foto die je thuis maakt wordt net zo makkelijk geaccepteerd als een uit een fotohokje, mits hij aan dezelfde korte lijst met regels voldoet. De meeste afwijzingen komen neer op drie dingen: schaduw op het gezicht of de achtergrond, een verkeerde grootte van het hoofd in het kader, en een bril. Krijg je die goed, dan is de rest eenvoudig.
 
 ## Universele eisen tussen landen
 
@@ -30,11 +30,19 @@ Je hebt een effen witte of gebroken witte achtergrond nodig - niets anders werkt
 
 Je gezicht moet het kader vullen tot de verhouding die je paspoortinstantie voorschrijft, met open en duidelijk zichtbare ogen - de meeste landen verbieden glimlachen, en samengeknepen ogen diskwalificeren de foto. Kijk recht in de camera met een neutrale gezichtsuitdrukking, kantel je hoofd licht als dat natuurlijker voelt, maar houd je hoofd over het algemeen recht ten opzichte van de lens. Je oren zijn idealiter aan beide kanten van je gezicht zichtbaar.
 
-### Bril en hoofdbedekking
+## Mag je een bril dragen op een paspoortfoto?
 
 De meeste landen staan tegenwoordig geen gewone bril meer toe op paspoortfoto's, tenzij je die permanent draagt om medische redenen. Zelfs dan moet je mogelijk documentatie overleggen of een aparte foto zonder bril nemen. Sommige landen staan nog leesbrillen toe als deze op recept zijn, maar het glas mag geen glans veroorzaken en je ogen moeten duidelijk zichtbaar zijn. Religieuze hoofdbedekking is doorgaans toegestaan zolang deze de gezichtskenmerken die nodig zijn voor identificatie niet verbergt.
 
-## Waar je de afmetingseisen van je land controleert
+Een zonnebril en getinte glazen worden overal geweigerd, zonder medische uitzondering. Kom je wel in aanmerking om je bril op te houden, kantel je hoofd dan iets weg van het licht zodat de glazen niet reflecteren, en controleer dat het montuur geen enkel deel van je ogen bedekt.
+
+## Afmetingen pasfoto: de twee standaardmaten die de meeste landen gebruiken
+
+De meeste paspoortinstanties gebruiken een van twee gedrukte formaten. Het formaat 35 x 45 mm geldt voor het Verenigd Koninkrijk, EU-landen waaronder Nederland, en een groot deel van de rest van de wereld. De Verenigde Staten vragen een vierkant van 2 x 2 inch, en een handjevol landen volgt die standaard in plaats daarvan.
+
+Digitale indieningen wisselen millimeters in voor pixels, en elke instantie publiceert haar eigen minimumeisen. Deze twee formaten zijn wat de meeste instanties momenteel voor gedrukte foto's vragen, maar specificaties worden herzien, dus bevestig die van jou voordat je print of uploadt.
+
+### Waar je de afmetingseisen van je land controleert
 
 Afmeting is waar de meeste mensen struikelen - komt je foto niet overeen met de eisen van je land, dan is afwijzing vrijwel zeker. Elk land stelt zijn eigen maten vast, sommige in inches en sommige in millimeters, en deze worden van tijd tot tijd herzien.
 
@@ -123,7 +131,7 @@ Ja, je kunt een paspoortfoto met je smartphone maken. Ga voor een effen witte of
 
 ### Welke afmetingen moet een paspoortfoto hebben?
 
-De afmetingen verschillen per land en worden strikt gehandhaafd. Sommige instanties geven millimeters op, andere inches, en de regels worden regelmatig herzien. Neem de exacte maten over van de officiële pagina van je eigen paspoortinstantie, niet van een samenvatting van derden, deze inbegrepen.
+De meeste landen gebruiken een van twee gedrukte formaten: 35 x 45 mm, dat geldt voor het Verenigd Koninkrijk, de EU en een groot deel van de wereld, of het vierkant van 2 x 2 inch dat de Verenigde Staten gebruiken. Digitale indieningen hebben aparte minimumeisen in pixels. De eisen worden strikt gehandhaafd en herzien, dus bevestig de exacte specificatie bij je eigen paspoortinstantie voordat je print of uploadt.
 
 ### Waarom werd mijn paspoortfoto afgewezen?
 
@@ -136,6 +144,10 @@ Natuurlijk licht uit een raam is ideaal voor een paspoortfoto. Vermijd harde sch
 ### Mag ik een bril dragen op een paspoortfoto?
 
 De meeste landen staan tegenwoordig geen bril toe op paspoortfoto's, tenzij dit medisch noodzakelijk is. Zelfs dan moet je mogelijk documentatie overleggen. Controleer de actuele eisen van je land voordat je de foto neemt, want de regels zijn de afgelopen jaren veranderd. Twijfel je, maak dan zowel een foto met als zonder bril om beide opties te hebben.
+
+### Wat zijn de regels voor een paspoortfoto?
+
+De kernregels zijn in de meeste landen vergelijkbaar: een effen lichte achtergrond, een neutrale gezichtsuitdrukking met gesloten mond, beide ogen open en duidelijk zichtbaar, geen bril tenzij medisch noodzakelijk, gelijkmatige belichting zonder schaduwen, en een recente foto die voldoet aan de afmetingseisen van je land. Elke instantie publiceert haar eigen volledige lijst en de details verschillen, dus controleer die van jou voordat je de foto neemt.
 
 ## Gerelateerde artikelen
 

@@ -16,9 +16,9 @@ Source: https://traveldocumentvault.com/es/blog/damaged-passport-travel/
 - Si te rechazan en la puerta, **pregunta a tu embajada por un documento de viaje de emergencia** - la emisión el mismo día es posible.
 - Una copia digital **vale más cuando estás en el extranjero** - un funcionario consular puede confirmar tu identidad a partir de un escaneo mucho más rápido que a partir de tu relato. Escanea tu pasaporte antes de viajar.
 
-Estás en la fila del aeropuerto con el pasaporte en la mano cuando notas que la contraportada se ha deformado y las páginas de dentro están húmedas - y tu vuelo sale en dos horas. Se lo dices al agente de la puerta de embarque, que se detiene y coge el teléfono. Hoy no embarcas.
+La mayoría de los daños en un pasaporte son puramente estéticos. Una portada rayada, una esquina reblandecida, un borde deshilachado a lo largo del lomo - nada de eso te impide embarcar. Lo que el personal de fronteras y los agentes de la aerolínea comprueban en realidad es más concreto de lo que la mayoría de los viajeros cree: la página de identidad, las dos líneas impresas debajo de ella, y si el cuadernillo se mantiene entero como un solo documento.
 
-Es uno de los desastres de viaje más evitables, porque el daño en el pasaporte - por agua, desgaste o accidentes - puede dejarte en tierra en la puerta de embarque aunque tu documento sea técnicamente válido. Entender qué cuenta como daño, qué aceptarán las autoridades y qué hacer si sucede marca la diferencia entre un viaje cancelado y una crisis evitada horas antes de la salida.
+Merece la pena saber dónde está ese límite antes de viajar, porque un pasaporte puede ser técnicamente válido y aun así ser rechazado. Aquí repasamos qué cuenta como daño, qué suelen aceptar las autoridades y qué hacer si el tuyo ya está en mal estado.
 
 ## Qué Cuenta Realmente Como Daño en el Pasaporte
 
@@ -67,7 +67,7 @@ Los plazos de tramitación publicados varían a lo largo del año, y aumentan en
 - **Confirma que el nivel de vía rápida cubre daños.** Pagar por la opción más rápida no significa automáticamente que se aplique a un documento dañado, así que compruébalo primero.
 - **Prevé acudir en persona.** Un pasaporte dañado casi siempre necesita que alguien lo inspeccione y lo retire de circulación, algo que una solicitud por correo no puede hacer.
 - **Pregunta qué oficina gestiona los casos urgentes.** En muchos países no es el mismo mostrador que atiende las solicitudes rutinarias, así que infórmate antes de cruzar la ciudad para nada.
-- **Lleva justificante de viaje.** Las confirmaciones de reserva son lo que desbloquea las vías más rápidas, así que llévalas contigo en lugar de prometer enviarlas por correo más tarde.
+- **Lleva justificante de viaje.** Las confirmaciones de reserva son lo que abre las vías más rápidas, así que llévalas contigo en lugar de prometer enviarlas por correo más tarde.
 
 Aun así, el patrón se repite en todas partes. Cuanto más cerca estás de la salida, menos vías siguen abiertas, y las que quedan requieren que te presentes en persona con tu pasaporte dañado y el justificante de viaje. Descubrir el daño tres semanas antes es una molestia. Descubrirlo tres días antes es un problema completamente distinto.
 

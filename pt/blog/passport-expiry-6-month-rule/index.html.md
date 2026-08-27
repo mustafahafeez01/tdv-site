@@ -1,6 +1,6 @@
-# A Regra dos 6 Meses de Validade do Passaporte: Quais Países a Aplicam e Como Nunca Ficar Apanhado
+# Regra dos 6 Meses do Passaporte: Pode Viajar com Menos de 6 Meses de Validade?
 
-> A regra dos 6 meses de validade do passaporte apanha milhares de pessoas desprevenidas. Use o nosso cofre criptografado AES-256-GCM, totalmente offline, para rastrear as datas de validade automaticamente. Teste gratuitamente com 5 documentos.
+> Muitos países recusam a entrada se o seu passaporte tiver menos de 6 meses de validade. Veja quem aplica a regra dos 6 meses e como verificar o seu antes de reservar.
 
 Source: https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/
 
@@ -30,6 +30,14 @@ A regra exige seis meses de validade do passaporte para a sua viagem. A maioria 
 A lógica é simples: os países querem garantia de que não se ficará além do seu visto e depois se encontrará a segurando um documento morto sem forma de regressar a casa. Seis meses é uma margem administrativa conveniente.
 
 **A regra não é universal.** Cada país define os seus próprios termos, e os requisitos podem diferir com base na sua nacionalidade. Um acordo bilateral entre dois países pode dispensar a regra para cidadãos de um mas não do outro. É isto que torna tão fácil enganar-se sem verificar antes de cada viagem.
+
+## Pode Viajar com um Passaporte Que Expira Dentro de 6 Meses?
+
+Às vezes, sim. Se o seu destino apenas exigir que o passaporte se mantenha válido durante a sua estadia, cinco meses de validade normalmente são suficientes para entrar. O Reino Unido funciona assim para a maioria dos visitantes, e os países Schengen geralmente pedem três meses além da partida planeada, em vez de seis.
+
+Se o seu destino aplica a regra dos 6 meses, não. Tailândia, Indonésia, Vietname e muitos outros geralmente recusam a entrada, e a companhia aérea normalmente recusa o embarque muito antes de chegar à fronteira.
+
+Portanto, a resposta depende de para onde vai, não do passaporte em si. Verifique o requisito do destino no dia em que reserva, e de novo na semana em que voa.
 
 ## Requisitos de Validade do Passaporte por País: Quem Aplica a Regra dos 6 Meses?
 
@@ -78,7 +86,7 @@ Chegar ao destino e ser negado pela imigração? Isso é consideravelmente pior.
 
 **O seguro de viagem geralmente não cobre isto.** A validade do passaporte é tratada como uma circunstância evitável. O golpe financeiro e a viagem arruinada são inteiramente seus para absorver.
 
-## Como Garantir Que Está Sempre Coberto
+## O Que Fazer Se o Seu Passaporte Tiver Menos de 6 Meses de Validade
 
 Trate o seu passaporte como um pneu de carro - não espere até estar furado. Renove quando descer abaixo de 12 meses de validade. Isto dá-lhe uma margem de seis meses em cima da regra, com espaço de sobra.
 
@@ -102,11 +110,15 @@ Estas fontes dizem-lhe o requisito oficial e se se aplica aos titulares do seu p
 
 ## Perguntas Frequentes
 
+### Posso viajar se o meu passaporte expira em menos de 6 meses?
+
+Depende do destino. Os países que aplicam a regra dos 6 meses, incluindo Tailândia, Indonésia e Vietname, geralmente recusam a entrada, e as companhias aéreas normalmente recusam o embarque primeiro. Os destinos que apenas exigem validade durante a sua estadia, como o Reino Unido para a maioria dos visitantes, normalmente aceitam-no. Verifique os requisitos oficiais de entrada do seu destino antes de reservar, não depois.
+
 ### O que exactamente é a regra dos 6 meses de validade do passaporte e por que existe?
 
 A regra dos 6 meses de validade do passaporte exige seis meses de validade do passaporte para a sua viagem. A maioria dos países mede isto a partir do dia em que chega, e alguns a partir do dia em que parte. Se expira dentro dessa janela, pode ser negado o embarque ou entrada - mesmo que o passaporte em si ainda não tenha tecnicamente expirado.
 
-### Quais países aplicam a regra dos 6 meses de validade do passaporte em 2026?
+### Quais países aplicam a regra dos 6 meses de validade do passaporte?
 
 Os países que comummente exigem 6 meses de validade do passaporte incluem Tailândia, Indonésia, Vietname, Filipinas e Índia, juntamente com muitos outros em toda a Ásia e África. Os requisitos mudam, portanto sempre verifique com fontes oficiais antes de viajar. Para os requisitos mais precisos e actualizados, consulte o Centro de Viagens IATA, a ferramenta que as companhias aéreas usam para verificar documentos de passageiros em tempo real.
 

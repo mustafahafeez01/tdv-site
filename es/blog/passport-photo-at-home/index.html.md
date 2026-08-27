@@ -1,6 +1,6 @@
-# Cómo Tomar una Foto de Pasaporte en Casa que Sea Aceptada
+# Reglas de la Foto de Pasaporte: Tamaño, Gafas y Cómo Tomarla en Casa
 
-> Cómo conseguir que tu foto de pasaporte sea aceptada a la primera: fondo, iluminación, expresión y los motivos de rechazo que atrapan a la mayoría.
+> Las reglas de la foto de pasaporte que hacen que la rechacen: tamaño, gafas, fondo e iluminación, y cómo tomar una foto conforme en casa con tu teléfono.
 
 Source: https://traveldocumentvault.com/es/blog/passport-photo-at-home/
 
@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/es/blog/passport-photo-at-home/
 - La mayoría de los países ahora prohíben gafas a menos que sea médicamente necesario, verifica los requisitos actuales
 - Los motivos comunes de rechazo incluyen sombras, tamaño incorrecto, sonrisa, fotos borrosas y fondos inadecuados
 
-Tu foto de pasaporte fue rechazada por "sombras en la cara", aunque la hubieras tomado en tu dormitorio con luz natural y pensaras que se veía perfectamente aceptable. Los requisitos de pasaporte son estrictos, específicos y varían según el país: comete un error en el fondo, la iluminación o el tamaño incluso por unos pocos milímetros, y tu solicitud se devuelve. Esta guía te lleva a través de exactamente cómo tomar una en casa que pase a la primera.
+Una foto tomada en casa se acepta con la misma facilidad que una de cabina, siempre que cumpla la misma lista breve de reglas. La mayoría de los rechazos se reducen a tres cosas: sombra en la cara o en el fondo, la cabeza con un tamaño incorrecto en el encuadre, y las gafas. Si resuelves esos tres puntos, el resto es sencillo.
 
 ## Requisitos Universales Entre Países
 
@@ -30,11 +30,19 @@ Necesitas un fondo blanco o beige plano, nada más funciona. Sin patrones, sombr
 
 Tu cara necesita llenar el marco en la proporción que tu autoridad de pasaportes especifique, con los ojos abiertos y claramente visibles, la mayoría de los países prohíben sonreír, y entrecerrar los ojos descalificará la toma. Mira directamente a la cámara con una expresión neutral, inclinando la cabeza ligeramente si te sientes más natural, pero generalmente manteniendo tu cabeza cuadrada al lente. Idealmente tus orejas deberían ser visibles en ambos lados de tu cara.
 
-### Gafas y Tocados
+## ¿Puedes Llevar Gafas en tu Foto de Pasaporte?
 
 La mayoría de los países se han alejado de permitir gafas normales en fotos de pasaporte a menos que las uses permanentemente por una razón médica. Incluso entonces, es posible que necesites proporcionar documentación o tomar una foto separada sin gafas. Algunos países aún permiten gafas de lectura si están prescritas, pero la lente no debe crear brillo y tus ojos deben ser claramente visibles. Los tocados religiosos generalmente se permiten siempre que no obscurezcan las características faciales necesarias para la identificación.
 
-## Especificaciones Oficiales de Tamaño por País
+Las gafas de sol y los cristales tintados se rechazan en todas partes, sin excepción médica. Si cumples los requisitos para mantener las gafas puestas, inclina ligeramente la cabeza en dirección contraria a la luz para que los cristales no reflejen, y comprueba que la montura no cruce ninguna parte de tus ojos.
+
+## Tamaño de la Foto de Pasaporte: los Dos Estándares que Usa la Mayoría de Países
+
+La mayoría de las autoridades de pasaportes usan uno de estos dos tamaños impresos. El formato 35 x 45 mm cubre el Reino Unido, los países de la UE, incluidos los Países Bajos, y buena parte del resto del mundo. Estados Unidos pide un cuadrado de 2 x 2 pulgadas, y un puñado de países siguen ese estándar en su lugar.
+
+Las solicitudes digitales cambian los milímetros por píxeles, y cada autoridad publica sus propios mínimos. Esos dos tamaños son los que la mayoría de las autoridades piden actualmente para impresión, pero las especificaciones se revisan, así que confirma la tuya antes de imprimir o subir la foto.
+
+### Dónde Verificar los Requisitos de Tamaño de tu País
 
 El tamaño es donde la mayoría de las personas se tambalean, si tu foto no coincide con las especificaciones de tu país, el rechazo es casi seguro. Cada país establece sus propias dimensiones, y esas reglas se revisan de vez en cuando, así que las únicas cifras que vale la pena confiar son las de la página de tu autoridad de pasaportes el día que presentas.
 
@@ -123,7 +131,7 @@ Sí, puedes tomar una foto de pasaporte usando un teléfono inteligente. Posici�
 
 ### ¿Qué tamaño debe tener una foto de pasaporte?
 
-Los requisitos de tamaño varían según el país y se aplican estrictamente. Algunos organismos especifican milímetros, otros pulgadas, y las reglas se revisan periódicamente. Toma las medidas exactas de la página oficial de tu autoridad de pasaportes en lugar de un resumen de terceros, incluido este.
+La mayoría de los países usan uno de estos dos tamaños impresos: 35 x 45 mm, que cubre el Reino Unido, la UE y buena parte del mundo, o el cuadrado de 2 x 2 pulgadas que usa Estados Unidos. Las solicitudes digitales tienen mínimos de píxeles independientes. Los requisitos se aplican con rigor y se revisan, así que confirma la especificación exacta con tu propia autoridad de pasaportes antes de imprimir o subir la foto.
 
 ### ¿Por qué fue rechazada mi foto de pasaporte?
 
@@ -136,6 +144,10 @@ La luz natural de una ventana es ideal para fotos de pasaporte. Evita sombras du
 ### ¿Puedo usar gafas en una foto de pasaporte?
 
 La mayoría de los países ahora prohíben gafas en fotos de pasaporte a menos que sea médicamente necesario. Incluso entonces, es posible que necesites proporcionar documentación. Verifica los requisitos actuales de tu país antes de tomar tu foto, ya que las reglas han evolucionado en los últimos años. En caso de duda, toma una foto con y sin gafas para tener opciones.
+
+### ¿Cuáles son las reglas para una foto de pasaporte?
+
+Las reglas básicas son prácticamente las mismas en la mayoría de los países: un fondo claro y uniforme, una expresión neutral con la boca cerrada, ambos ojos abiertos y bien visibles, sin gafas salvo necesidad médica, iluminación uniforme sin sombras, y una foto reciente que cumpla el tamaño exigido por tu país. Cada autoridad publica su propia lista completa y los detalles varían, así que consulta la tuya antes de tomarla.
 
 ## Artículos Relacionados
 

@@ -16,9 +16,9 @@ Source: https://traveldocumentvault.com/de/blog/damaged-passport-travel/
 - Werden Sie am Gate abgewiesen, **fragen Sie Ihre Botschaft nach einem Notreisedokument** - eine Ausstellung noch am selben Tag ist möglich.
 - Eine digitale Kopie ist **im Ausland am wertvollsten** - ein Konsularbeamter kann Ihre Identität anhand eines Scans weit schneller feststellen als anhand Ihrer Schilderung. Scannen Sie Ihren Pass, bevor Sie reisen.
 
-Sie stehen in der Warteschlange am Flughafen, Pass in der Hand, als Ihnen auffällt, dass sich der hintere Einband verzogen hat und die Seiten innen feucht wirken - Ihr Flug geht in zwei Stunden. Sie sagen es dem Mitarbeiter am Gate, der innehält und zum Telefon greift. Sie fliegen heute nicht mit.
+Die meisten Passschäden sind rein kosmetisch. Ein zerkratzter Einband, eine weich gewordene Ecke, eine ausgefranste Kante am Buchrücken - nichts davon hindert Sie am Einsteigen. Was Grenzbeamte und Fluggesellschaften tatsächlich prüfen, ist enger gefasst, als die meisten Reisenden erwarten: die Datenseite, die beiden gedruckten Zeilen darunter, und ob das Heft noch als ein zusammenhängendes Dokument zusammenhält.
 
-Es ist eine der am leichtesten vermeidbaren Reisepannen, denn ein beschädigter Pass - durch Wasser, Abnutzung oder einen Unfall - kann Sie schon am Gate stoppen, selbst wenn das Dokument formal noch gültig ist. Zu wissen, was als Schaden zählt, was Behörden akzeptieren und was im Ernstfall zu tun ist, entscheidet darüber, ob aus einer stornierten Reise oder einer noch Stunden vor dem Abflug abgewendeten Krise wird.
+Es lohnt sich, diese Grenze vor der Reise zu kennen, denn ein Pass kann formal noch gültig sein und trotzdem abgelehnt werden. Dieser Beitrag zeigt, was als Schaden zählt, was Behörden in der Regel akzeptieren, und was zu tun ist, wenn Ihrer bereits in schlechtem Zustand ist.
 
 ## Was als Passschaden gilt
 

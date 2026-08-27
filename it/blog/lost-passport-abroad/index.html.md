@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/it/blog/lost-passport-abroad/
 - L'assicurazione di viaggio copre i costi di sostituzione del passaporto nella maggior parte delle polizze complete. Avrà bisogno della denuncia alla polizia per reclamare.
 - Il momento per prepararsi è adesso, prima che qualcosa vada storto. Una scansione di cinque minuti oggi potrebbe risparmiarle giorni di stress all'estero.
 
-Perdere il passaporto all'estero è tra le emergenze di viaggio più stressanti. Si trova lontano da casa, potenzialmente in un paese dove non parla la lingua, e il documento che prova chi è è scomparso. È un problema risolvibile, e le persone lo superano ogni giorno. Ecco cosa fare, nell'ordine giusto.
+Ogni giorno c'è chi sostituisce un passaporto perso all'estero, e le ambasciate lo trattano come una pratica di routine, non come un'emergenza. Il processo ha un suo ordine, e seguirlo è ciò che trasforma un pomeriggio complicato in un ritardo anziché in un viaggio annullato. Ecco cosa fare, passo dopo passo.
 
 ## Prima che qualcosa vada storto: Fotografi il passaporto adesso
 

@@ -16,9 +16,9 @@ Source: https://traveldocumentvault.com/nl/blog/damaged-passport-travel/
 - Word je bij de gate geweigerd, **vraag je ambassade dan naar een nooddocument** - afgifte dezelfde dag is vaak mogelijk.
 - Een digitale kopie is **het meest waard als je in het buitenland bent** - een consulaire medewerker kan sneller vaststellen wie je bent aan de hand van een scan dan aan de hand van jouw verhaal. Scan je paspoort dus voordat je vertrekt.
 
-Je staat in de rij op het vliegveld met je paspoort in de hand wanneer je merkt dat de achterkant is kromgetrokken en de pagina's vochtig aanvoelen - en je vlucht vertrekt over twee uur. Je vertelt het de gate agent, die even stilstaat en dan de telefoon pakt. Je stapt vandaag niet in.
+De meeste paspoortschade is cosmetisch. Een versleten kaft, een verzachte hoek, een rafelige rand langs de rug - niets daarvan houdt iemand tegen bij het instappen. Wat grenspersoneel en gate agents daadwerkelijk controleren is beperkter dan de meeste reizigers denken: de gegevenspagina, de twee gedrukte regels daaronder, en of het boekje nog als één geheel document aan elkaar hangt.
 
-Het is een van de meest te voorkomen reisrampen, want paspoortschade - door water, slijtage of een ongeluk - kan je bij de gate tegenhouden, ook al is je document technisch gezien nog geldig. Weten wat als schade telt, wat functionarissen accepteren en wat je moet doen als het gebeurt, maakt het verschil tussen een geannuleerde reis en een crisis die uren voor vertrek nog wordt afgewend.
+Waar die grens ligt, is goed om te weten voordat je vertrekt, want een paspoort kan technisch geldig zijn en toch geweigerd worden. Dit artikel behandelt wat als schade telt, wat functionarissen doorgaans accepteren, en wat je moet doen als het jouwe al in slechte staat is.
 
 ## Wat telt eigenlijk als paspoortschade
 

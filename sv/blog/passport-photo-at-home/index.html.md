@@ -1,6 +1,6 @@
-# Så tar du ett passfoto hemma som blir godkänt
+# Regler för passfoto: storlek, glasögon och hur du tar bilden hemma
 
-> Så får du ditt passfoto godkänt direkt: bakgrund, belysning, uttryck och de vanligaste orsakerna till avslag.
+> Reglerna för passfoto som gör att foton nekas: storlek, glasögon, bakgrund och belysning - plus hur du tar ett godkänt passfoto hemma med mobilen.
 
 Source: https://traveldocumentvault.com/sv/blog/passport-photo-at-home/
 
@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/sv/blog/passport-photo-at-home/
 - De flesta länder tillåter numera inte glasögon om det inte är medicinskt nödvändigt - kontrollera aktuella krav
 - Vanliga avslagsorsaker är skuggor, fel storlek, leende, suddiga foton och olämplig bakgrund
 
-Ditt passfoto blev nekat på grund av "skuggor i ansiktet" - trots att du tog det i sovrummet i naturligt ljus och tyckte att det såg helt godkänt ut. Passkraven är strikta, specifika och skiljer sig mellan länder: får du bakgrunden, belysningen eller storleken fel med bara några millimeter skickas ansökan tillbaka. Den här guiden går igenom exakt hur du tar ett foto hemma som godkänns på första försöket.
+Ett foto taget hemma godkänns lika lätt som ett från en fotoautomat, förutsatt att det uppfyller samma korta lista med regler. De flesta avslag beror på tre saker: skugga i ansiktet eller på bakgrunden, fel storlek på huvudet i bilden, och glasögon. Får du de rätt är resten okomplicerat.
 
 ## Gemensamma krav mellan länder
 
@@ -30,11 +30,19 @@ Du behöver en enfärgad vit eller benvit bakgrund - inget annat fungerar. Inga 
 
 Ditt ansikte ska fylla bildrutan i den andel din passmyndighet anger, med ögonen öppna och tydligt synliga - de flesta länder förbjuder leende, och kisande ögon diskvalificerar bilden. Titta rakt in i kameran med ett neutralt uttryck, luta huvudet lätt om det känns mer naturligt, men håll i regel huvudet rakt mot linsen. Öronen bör helst synas på båda sidor av ansiktet.
 
-### Glasögon och huvudbonad
+## Får man ha glasögon på passfoto?
 
 De flesta länder tillåter numera inte vanliga glasögon på passfoto om du inte bär dem permanent av medicinska skäl. Även då kan du behöva visa dokumentation eller ta ett separat foto utan glasögon. Vissa länder tillåter fortfarande läsglasögon om de är receptbelagda, men glaset får inte reflektera ljus och ögonen måste synas tydligt. Religiös huvudbonad är i regel tillåten så länge den inte döljer de ansiktsdrag som behövs för identifiering.
 
-## Var du kontrollerar ditt lands storlekskrav
+Solglasögon och tonade glas nekas överallt, utan medicinskt undantag. Kvalificerar du dig för att behålla glasögonen på, vinkla huvudet lite bort från ljuskällan så att glasen inte reflekterar, och kontrollera att bågarna inte skymmer någon del av ögonen.
+
+## Storlek på passfoto: de två standarder de flesta länder använder
+
+De flesta passmyndigheter använder en av två tryckta storlekar. Formatet 35 x 45 mm gäller Storbritannien, EU-länder inklusive Nederländerna, och stora delar av övriga världen. USA kräver en kvadrat på 2 x 2 tum, och ett fåtal länder följer den standarden i stället.
+
+Digitala inlämningar byter millimeter mot pixlar, och varje myndighet publicerar sina egna minimikrav. De här två storlekarna är vad de flesta myndigheter för närvarande begär i tryckt format, men specifikationerna revideras, så bekräfta din innan du skriver ut eller laddar upp.
+
+### Var du kontrollerar ditt lands storlekskrav
 
 Storlek är där de flesta går fel - matchar inte fotot ditt lands krav är ett avslag nästan garanterat. Varje land sätter sina egna mått, vissa i tum och vissa i millimeter, och de revideras då och då.
 
@@ -123,7 +131,7 @@ Ja, du kan ta ett passfoto med mobilen. Ställ dig framför en enfärgad vit ell
 
 ### Vilken storlek ska ett passfoto ha?
 
-Kraven på storlek varierar mellan länder och tillämpas strikt. Vissa myndigheter anger millimeter, andra tum, och reglerna revideras då och då. Ta de exakta måtten från din egen passmyndighets officiella sida i stället för från en sammanfattning från tredje part, den här inkluderad.
+De flesta länder använder en av två tryckta storlekar: 35 x 45 mm, som gäller Storbritannien, EU och stora delar av världen, eller den kvadrat på 2 x 2 tum som USA använder. Digitala inlämningar har egna minimikrav i pixlar. Kraven tillämpas strikt och revideras, så bekräfta den exakta specen med din egen passmyndighet innan du skriver ut eller laddar upp.
 
 ### Varför blev mitt passfoto nekat?
 
@@ -136,6 +144,10 @@ Naturligt ljus från ett fönster är idealiskt för passfoto. Undvik hårda sku
 ### Kan jag ha glasögon på passfotot?
 
 De flesta länder tillåter numera inte glasögon på passfoto om det inte är medicinskt nödvändigt. Även då kan du behöva visa upp dokumentation. Kontrollera ditt lands aktuella krav innan du tar fotot, eftersom reglerna har ändrats de senaste åren. Är du osäker, ta både en bild med och en utan glasögon för att ha alternativ.
+
+### Vilka regler gäller för ett passfoto?
+
+Grundreglerna är i stort sett desamma i de flesta länder: en enfärgad ljus bakgrund, ett neutralt uttryck med munnen stängd, båda ögonen öppna och tydligt synliga, inga glasögon om det inte är medicinskt nödvändigt, jämn belysning utan skuggor, och ett nytaget foto som uppfyller ditt lands storlekskrav. Varje myndighet publicerar sin egen fullständiga lista och detaljerna skiljer sig åt, så kontrollera din innan du fotograferar.
 
 ## Relaterade artiklar
 

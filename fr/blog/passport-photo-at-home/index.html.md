@@ -1,6 +1,6 @@
-# Comment prendre une photo de passeport à domicile qui soit acceptée
+# Photo de passeport : taille, lunettes et comment la prendre chez vous
 
-> Comment faire accepter une photo de passeport du premier coup : arrière-plan, éclairage, expression et les raisons de rejet qui piègent la plupart des gens.
+> Les règles de la photo de passeport qui font rejeter les photos : taille, lunettes, arrière-plan et éclairage, et comment en prendre une conforme chez vous avec votre téléphone.
 
 Source: https://traveldocumentvault.com/fr/blog/passport-photo-at-home/
 
@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/fr/blog/passport-photo-at-home/
 - La plupart des pays interdisent désormais les lunettes sauf si elles sont médicalement nécessaires - vérifiez les exigences actuelles
 - Les raisons courantes de rejet incluent les ombres, une mauvaise taille, le sourire, les photos floues et des arrière-plans inappropriés
 
-Votre photo de passeport a été rejetée pour « ombres sur le visage » - alors que vous l'aviez prise dans votre chambre avec la lumière naturelle et pensiez qu'elle était tout à fait acceptable. Les exigences en matière de passeport sont strictes, spécifiques et varient selon le pays : si vous vous trompez sur l'arrière-plan, l'éclairage ou la taille, même de quelques millimètres, votre demande est retournée. Ce guide vous explique exactement comment en prendre une à domicile qui réussira du premier coup.
+Une photo prise chez vous est acceptée aussi facilement qu'une photo de cabine, à condition de respecter la même courte liste de règles. La plupart des rejets tiennent à trois choses : une ombre sur le visage ou l'arrière-plan, une tête mal proportionnée dans le cadre, et les lunettes. Une fois ces trois points réglés, le reste est simple.
 
 ## Exigences universelles dans tous les pays
 
@@ -30,11 +30,19 @@ Vous avez besoin d'un arrière-plan blanc ou blanc cassé uni - rien d'autre ne 
 
 Votre visage doit remplir le cadre selon la proportion que votre autorité de passeport spécifie, avec les yeux ouverts et clairement visibles. La plupart des pays interdisent le sourire, et le plissement des yeux disqualifiera la photo. Regardez droit devant la caméra avec une expression neutre, en penchant légèrement la tête si cela vous semble plus naturel, mais en gardant généralement la tête carrée par rapport à l'objectif. Vos oreilles doivent idéalement être visibles de chaque côté de votre visage.
 
-### Lunettes et couvre-chef
+## Peut-on porter des lunettes sur une photo de passeport ?
 
 La plupart des pays se sont détournés de l'autorisation des lunettes ordinaires sur les photos de passeport, sauf si vous les portez de façon permanente pour une raison médicale. Même dans ce cas, vous devrez peut-être fournir une documentation ou prendre une photo séparée sans lunettes. Certains pays autorisent toujours les lunettes de lecture si elles sont prescrites, mais la lentille ne doit pas créer de reflet et vos yeux doivent être clairement visibles. Le couvre-chef religieux est généralement autorisé tant qu'il ne masque pas les caractéristiques faciales nécessaires à l'identification.
 
-## Spécifications officielles de taille par pays
+Les lunettes de soleil et verres teintés sont refusés partout, sans exemption médicale. Si vous êtes autorisé à garder vos lunettes, inclinez légèrement la tête à l'écart de la lumière pour éviter tout reflet sur les verres, et vérifiez que la monture ne recouvre aucune partie de vos yeux.
+
+## Taille de la photo de passeport : les deux formats utilisés par la plupart des pays
+
+La plupart des autorités de passeport utilisent l'un de ces deux formats imprimés. Le format 35 x 45 mm couvre le Royaume-Uni, les pays de l'UE dont les Pays-Bas, et une grande partie du reste du monde. Les États-Unis demandent un carré de 2 x 2 pouces, une poignée de pays suivant ce standard à la place.
+
+Les soumissions numériques remplacent les millimètres par des pixels, et chaque autorité publie ses propres minimums. Ces deux formats sont ceux que la plupart des autorités demandent actuellement pour l'impression, mais les spécifications sont révisées, alors confirmez la vôtre avant d'imprimer ou de télécharger.
+
+### Où vérifier les exigences de taille de votre pays
 
 La taille est là où la plupart des gens se trompent - si votre photo ne correspond pas aux spécifications de votre pays, le rejet est presque certain. Chaque pays fixe ses propres dimensions, et ces règles sont révisées de temps en temps. Les seules figures qui valent la peine d'être fiables sont celles du site officiel de votre propre autorité de passeport le jour où vous soumettez.
 
@@ -123,7 +131,7 @@ Oui, vous pouvez prendre une photo de passeport avec un smartphone. Positionnez-
 
 ### Quelle taille doit avoir une photo de passeport
 
-Les exigences de taille varient selon le pays et elles sont appliquées strictement. Certaines autorités spécifient les millimètres, d'autres les pouces, et les règles sont révisées périodiquement. Prenez les mesures exactes sur la page officielle de votre propre autorité de passeport plutôt que d'un résumé tiers, y compris celui-ci.
+La plupart des pays utilisent l'un de ces deux formats imprimés : 35 x 45 mm, qui couvre le Royaume-Uni, l'UE et une grande partie du monde, ou le carré de 2 x 2 pouces utilisé aux États-Unis. Les soumissions numériques ont des minimums en pixels distincts. Les exigences sont appliquées strictement et révisées régulièrement, alors confirmez la spécification exacte auprès de votre propre autorité de passeport avant d'imprimer ou de télécharger.
 
 ### Pourquoi ma photo de passeport a-t-elle été rejetée
 
@@ -136,6 +144,10 @@ La lumière naturelle d'une fenêtre est idéale pour les photos de passeport. �
 ### Puis-je porter des lunettes sur une photo de passeport
 
 La plupart des pays interdisent désormais les lunettes sur les photos de passeport sauf si elles sont médicalement nécessaires. Même dans ce cas, vous devrez peut-être fournir une documentation. Vérifiez les exigences actuelles de votre pays avant de prendre votre photo, car les règles ont évolué ces dernières années. En cas de doute, prenez une photo avec et sans lunettes pour avoir des options.
+
+### Quelles sont les règles pour une photo de passeport ?
+
+Les règles de base sont globalement les mêmes d'un pays à l'autre : un arrière-plan clair et uni, une expression neutre bouche fermée, les deux yeux ouverts et bien visibles, pas de lunettes sauf nécessité médicale, un éclairage homogène sans ombres, et une photo récente conforme au format exigé par votre pays. Chaque autorité publie sa propre liste complète et les détails varient, alors vérifiez la vôtre avant de la prendre.
 
 ## Articles connexes
 

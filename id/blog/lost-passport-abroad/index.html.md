@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/id/blog/lost-passport-abroad/
 - Asuransi perjalanan menanggung biaya penggantian paspor pada sebagian besar polis komprehensif. Anda memerlukan laporan polisi untuk mengajukan klaim.
 - Waktu terbaik untuk bersiap adalah sekarang, sebelum sesuatu terjadi. Pindaian lima menit hari ini bisa menghemat berhari-hari stres di luar negeri.
 
-Kehilangan paspor di luar negeri termasuk salah satu keadaan darurat perjalanan yang paling membuat stres. Anda jauh dari rumah, mungkin di negara yang bahasanya tidak Anda kuasai, dan dokumen yang membuktikan identitas Anda hilang. Ini masalah yang bisa diselesaikan, dan banyak orang berhasil melewatinya setiap hari. Berikut yang harus dilakukan, sesuai urutannya.
+Setiap hari, banyak orang mengurus penggantian paspor yang hilang di luar negeri, dan kedutaan menanganinya sebagai pekerjaan rutin, bukan keadaan darurat. Prosesnya memiliki urutan tertentu, dan mengikuti urutan itulah yang membuat sore hari yang buruk berubah menjadi sekadar penundaan, bukan pembatalan perjalanan. Berikut yang harus dilakukan, langkah demi langkah.
 
 ## Sebelum Semuanya Terjadi: Foto Paspor Anda Sekarang
 

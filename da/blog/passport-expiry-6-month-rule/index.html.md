@@ -1,6 +1,6 @@
-# 6-måneders-reglen for pas: hvilke lande håndhæver den, og sådan undgår du at blive taget på sengen
+# 6-måneders-reglen for pas: kan du rejse med mindre end 6 måneder tilbage?
 
-> 6-måneders-reglen for pas tager tusindvis af rejsende på sengen. Lad vores AES-256-GCM-krypterede, offlinebaserede boks holde styr på udløbsdatoer automatisk. Prøv gratis til 5 dokumenter.
+> Mange lande nægter indrejse, hvis dit pas har mindre end 6 måneder tilbage. Se hvem der håndhæver 6-måneders-reglen, og hvordan du tjekker dit pas, før du booker.
 
 Source: https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/
 
@@ -30,6 +30,14 @@ Reglen kræver seks måneders pasgyldighed til din rejse. De fleste lande regner
 Logikken er enkel: lande vil have sikkerhed for, at du ikke overskrider dit visum og derefter står med et udløbet dokument uden mulighed for at komme hjem. Seks måneder er en bekvem administrativ margin.
 
 **Reglen er ikke universel.** Hvert land sætter sine egne betingelser, og kravene kan variere afhængigt af din nationalitet. En bilateral aftale mellem to lande kan give dispensation for statsborgere i det ene land, men ikke det andet. Det er præcis, hvad der gør det så let at tage fejl uden at tjekke det før hver rejse.
+
+## Kan du rejse med et pas, der udløber om 6 måneder?
+
+Nogle gange, ja. Hvis dit rejsemål kun kræver, at passet er gyldigt i opholdets varighed, er fem måneders gyldighed som regel nok til at komme ind. Storbritannien fungerer sådan for de fleste besøgende, og Schengenlande kræver generelt tre måneder ud over din planlagte afrejse i stedet for seks.
+
+Håndhæver dit rejsemål 6-måneders-reglen, nej. Thailand, Indonesien, Vietnam og mange andre nægter som regel indrejse, og flyselskabet nægter som regel ombordstigning længe før du når grænsen.
+
+Så svaret afhænger af, hvor du skal hen, ikke af passet i sig selv. Tjek rejsemålets krav samme dag, du booker, og igen ugen inden du flyver.
 
 ## Paskrav efter land: hvem håndhæver 6-måneders-reglen?
 
@@ -76,7 +84,7 @@ At komme forbi afrejsen, men blive nægtet indrejse af immigrationsmyndighederne
 
 **Rejseforsikringen dækker som regel ikke dette,** fordi forsikringsselskaber betragter pasgyldighed som en undgåelig omstændighed, så det økonomiske tab og den ødelagte rejse er helt dit eget ansvar.
 
-## Sådan sikrer du, at du altid er dækket
+## Hvad du skal gøre, hvis dit pas har mindre end 6 måneder tilbage
 
 Behandl dit pas som et bildæk, og vent ikke, til det er fladt: forny det, så snart gyldigheden kommer under 12 måneder, hvilket giver dig en margin på seks måneder oveni reglen, med god plads til overs.
 
@@ -100,11 +108,15 @@ Disse kilder fortæller dig det officielle krav, og om det gælder for indehaver
 
 ## Ofte stillede spørgsmål
 
+### Kan jeg rejse, hvis mit pas udløber om mindre end 6 måneder?
+
+Det afhænger af rejsemålet. Lande, der håndhæver 6-måneders-reglen, herunder Thailand, Indonesien og Vietnam, nægter som regel indrejse, og flyselskaberne nægter typisk ombordstigning først. Rejsemål, der kun kræver gyldighed i opholdets varighed, som Storbritannien for de fleste besøgende, accepterer det som regel. Tjek rejsemålets officielle indrejsekrav, før du booker, ikke bagefter.
+
 ### Hvad er 6-måneders-reglen for pas helt konkret, og hvorfor findes den?
 
 6-måneders-reglen for pas kræver seks måneders pasgyldighed til din rejse. De fleste lande måler det fra den dag, du ankommer, og nogle fra den dag, du rejser hjem. Udløber det inden for det tidsrum, kan du blive nægtet ombordstigning eller indrejse - selvom passet i praksis ikke er udløbet endnu.
 
-### Hvilke lande håndhæver 6-måneders-reglen for pas i 2026?
+### Hvilke lande håndhæver 6-måneders-reglen for pas?
 
 Lande, der almindeligvis kræver 6 måneders pasgyldighed, omfatter blandt andet Thailand, Indonesien, Vietnam, Filippinerne og Indien, sammen med mange andre lande i Asien og Afrika. Kravene ændrer sig, så bekræft altid med officielle kilder, før du rejser. For de mest opdaterede krav, tjek IATA Travel Centre, det værktøj flyselskaberne bruger til at verificere passagerdokumenter i realtid.
 

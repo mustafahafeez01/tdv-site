@@ -1,6 +1,6 @@
-# Como Tirar uma Foto de Passaporte em Casa Que Seja Aceite
+# Regras para Fotos de Passaporte: Tamanho, Óculos e Como Tirar a Sua em Casa
 
-> Como conseguir que uma foto de passaporte seja aceite na primeira vez: fundo, iluminação, expressão e os motivos de rejeição que apanham a maioria das pessoas.
+> As regras que fazem uma foto de passaporte ser rejeitada: tamanho, óculos, fundo e iluminação, além de como tirar uma foto em conformidade em casa, com o seu smartphone.
 
 Source: https://traveldocumentvault.com/pt/blog/passport-photo-at-home/
 
@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/pt/blog/passport-photo-at-home/
 - A maioria dos países agora proíbe óculos a menos que seja medicamente necessário - verifique os requisitos atuais
 - Os motivos de rejeição comuns incluem sombras, tamanho errado, sorrisos, fotos desfocadas, e fundos impróprios
 
-A sua foto de passaporte foi rejeitada por "sombras no rosto" - apesar de a ter tirado no seu quarto com luz natural e ter achado que ficou perfeitamente aceitável. Os requisitos de passaporte são rigorosos, específicos, e variam por país: erre o fundo, a iluminação, ou o tamanho mesmo por alguns milímetros, e a sua candidatura é devolvida. Este guia leva-o através de exatamente como tirar uma em casa que passe na primeira tentativa.
+Uma foto tirada em casa é aceite tão facilmente como uma de fotógrafo, desde que cumpra a mesma lista curta de regras. A maioria das rejeições resume-se a três coisas: sombra no rosto ou no fundo, a cabeça com o tamanho errado no enquadramento, e óculos. Acerte nisso e o resto é simples.
 
 ## Requisitos Universais em Todos os Países
 
@@ -30,11 +30,19 @@ Precisa de um fundo branco ou branco pérola simples - nada mais funciona. Sem p
 
 O seu rosto precisa de preencher o quadro na proporção que a sua autoridade de passaportes especifica, com os olhos abertos e claramente visíveis - a maioria dos países proíbe sorrisos, e apertar os olhos desqualificará a foto. Olhe em frente para a câmara com uma expressão neutra, inclinando ligeiramente a cabeça se isso parecer mais natural, mas geralmente mantendo a cabeça quadrada em relação à lente. As suas orelhas devem ser idealmente visíveis em ambos os lados do seu rosto.
 
-### Óculos e Vestuário de Cabeça
+## Posso Usar Óculos na Foto do Passaporte?
 
 A maioria dos países afastou-se de permitir óculos comuns em fotos de passaporte a menos que use permanentemente por razão médica. Mesmo assim, pode ter que fornecer documentação ou tirar uma foto separada sem óculos. Algumas nações ainda permitem óculos de leitura se forem prescritos, mas a lente não deve criar brilho e os seus olhos devem ser claramente visíveis. Vestuário de cabeça religioso é tipicamente permitido desde que não obscureça as características faciais necessárias para identificação.
 
-## Especificações Oficiais de Tamanho por País
+Óculos de sol e lentes fumadas são recusados em todo o lado, sem exceção médica. Se puder manter os seus óculos, incline ligeiramente a cabeça para longe da luz para que as lentes não reflitam, e verifique que a armação não cobre nenhuma parte dos olhos.
+
+## Tamanho da Foto de Passaporte: os Dois Padrões Mais Usados
+
+A maioria das autoridades de passaportes usa um de dois tamanhos impressos. O formato 35 mm x 45 mm é usado no Reino Unido, em países da UE, incluindo os Países Baixos, e na maior parte do resto do mundo. Os Estados Unidos pedem um quadrado de 2 x 2 polegadas, e um punhado de países segue esse padrão.
+
+As submissões digitais trocam milímetros por píxeis, e cada autoridade publica os seus próprios mínimos. Estes dois tamanhos são os que a maioria das autoridades pede atualmente em papel, mas as especificações são revistas, por isso confirme a sua antes de imprimir ou carregar.
+
+### Especificações Oficiais de Tamanho por País
 
 O tamanho é onde a maioria das pessoas tropeça - se a sua foto não se adequar aos specs do seu país, a rejeição é quase certa. Cada país define as suas próprias dimensões, e essas regras são revistas de tempos em tempos, portanto as únicas figuras que vale a pena confiar são as da página da sua própria autoridade de passaportes no dia que submete.
 
@@ -123,7 +131,7 @@ Sim, pode tirar uma foto de passaporte usando um smartphone. Posicione-se em fre
 
 ### Qual deveria ser o tamanho de uma foto de passaporte
 
-Os requisitos de tamanho variam por país e são aplicados com rigor. Algumas autoridades especificam milímetros, outras polegadas, e as regras são revistas periodicamente. Tire as medições exatas da página oficial da sua autoridade de passaportes em vez de um resumo de terceiros, incluindo este.
+A maioria dos países usa um de dois tamanhos impressos: 35 mm x 45 mm, que cobre o Reino Unido, a UE e grande parte do mundo, ou o quadrado de 2 x 2 polegadas usado nos Estados Unidos. As submissões digitais têm mínimos de píxeis próprios. Os requisitos são aplicados com rigor e são revistos, por isso confirme a especificação exata junto da sua própria autoridade de passaportes antes de imprimir ou carregar.
 
 ### Por que foi a minha foto de passaporte rejeitada
 
@@ -136,6 +144,10 @@ A luz natural de uma janela é ideal para fotos de passaporte. Evite sombras for
 ### Posso usar óculos numa foto de passaporte
 
 A maioria dos países agora proíbe óculos em fotos de passaporte a menos que seja medicamente necessário. Mesmo assim, pode ter que fornecer documentação. Verifique os requisitos atuais do seu país antes de tirar a sua foto, pois as regras evoluíram nos últimos anos. Se tiver dúvidas, tire uma foto com e sem óculos para ter opções.
+
+### Quais são as regras para uma foto de passaporte?
+
+As regras principais são consistentes na maioria dos países: fundo claro e uniforme, expressão neutra com a boca fechada, ambos os olhos abertos e claramente visíveis, sem óculos a menos que seja medicamente necessário, iluminação uniforme sem sombras, e uma foto recente que cumpra a especificação de tamanho do seu país. Cada autoridade publica a sua própria lista completa e os detalhes diferem, por isso verifique a sua antes de fotografar.
 
 ## Artigos Relacionados
 

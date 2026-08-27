@@ -1,6 +1,6 @@
-# The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out
+# Passport 6-Month Rule: Can You Travel With Less Than 6 Months Left?
 
-> The passport 6-month rule catches thousands off guard. Let our AES-256-GCM encrypted, offline vault track your expiry dates automatically. Try it free for 5 documents.
+> Many countries refuse entry if your passport has less than 6 months left. See who enforces the 6 month passport rule and how to check yours before you book.
 
 Source: https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/
 
@@ -32,6 +32,14 @@ The logic is straightforward: countries want assurance you won't overstay your v
 **The rule isn't universal.** Each country sets its own terms, and requirements can differ based on your nationality. A bilateral agreement between two countries may waive the rule for citizens of one but not the other. That's what makes it so easy to get wrong without checking before each trip.
 
 ![Hand-drawn timeline of the 6-month passport rule: your trip runs from the day you arrive to the day you fly home, then a dashed six-month stretch through which the passport must stay valid, with a note that most countries count from the day you arrive and some from the day you leave, so counting from the later one covers both](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/six-month-rule-figure.jpg) Most countries count the six months from the day you arrive - counting from the later date covers you either way.
+
+## Can You Travel With a Passport That Expires in 6 Months?
+
+Sometimes, yes. If your destination only asks for a passport that stays valid for your stay, five months left will typically get you in. The UK works that way for most visitors, and Schengen countries generally ask for three months beyond your planned departure rather than six.
+
+If your destination applies the 6-month rule, no. Thailand, Indonesia, Vietnam and many others generally refuse entry, and the airline usually refuses boarding long before you reach the border.
+
+So the answer turns on where you are going rather than on the passport itself. Check the destination requirement the day you book, and again the week you fly.
 
 ## Passport Validity Requirements by Country: Who Enforces the 6-Month Rule?
 
@@ -78,7 +86,7 @@ Getting past departure but denied entry by immigration on the other end is worse
 
 **Travel insurance usually won't cover this,** because insurers treat passport validity as a preventable circumstance, so the financial hit and the ruined trip are entirely yours to absorb.
 
-## How to Make Sure You're Always Covered
+## What to Do if Your Passport Has Less Than 6 Months Left
 
 Treat your passport like a car tyre and don't wait until it's flat: renew as soon as you drop below 12 months of validity, which gives you a six-month buffer on top of the rule, with room to spare.
 
@@ -102,11 +110,15 @@ These sources tell you the official requirement and whether it applies to holder
 
 ## Frequently Asked Questions
 
+### Can I travel if my passport expires in less than 6 months?
+
+It depends on the destination. Countries that apply the 6-month rule, including Thailand, Indonesia and Vietnam, will generally refuse entry, and airlines usually refuse boarding first. Destinations that only require validity for your stay, such as the UK for most visitors, will typically accept it. Check your destination's official entry requirements before you book, not after.
+
 ### What exactly is the 6-month passport rule and why does it exist?
 
 The 6-month passport rule requires six months of passport validity for your trip. Most countries measure it from the day you arrive, and some from the day you leave. If it expires within that window, you can be denied boarding or entry - even if the passport itself hasn't technically expired yet.
 
-### Which countries enforce the 6-month passport validity rule in 2026?
+### Which countries enforce the 6-month passport validity rule?
 
 Countries that commonly require 6 months passport validity include Thailand, Indonesia, Vietnam, the Philippines, and India, along with many others across Asia and Africa. Requirements change, so always verify with official sources before you travel. For the most accurate up-to-date requirements, check the IATA Travel Centre, the tool airlines use to verify passenger documents in real time.
 

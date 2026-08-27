@@ -16,9 +16,9 @@ Source: https://traveldocumentvault.com/fr/blog/damaged-passport-travel/
 - Si l'on vous refuse l'embarquement, **renseignez-vous auprès de votre ambassade sur un document de voyage d'urgence** - une délivrance le jour même est possible.
 - Une copie numérique **vaut le plus quand vous êtes à l'étranger** - un agent consulaire peut établir votre identité à partir d'un scan bien plus vite qu'à partir de votre récit. Scannez votre passeport avant de voyager.
 
-Vous faites la queue à l'aéroport, passeport en main, quand vous remarquez que la couverture arrière s'est gondolée et que les pages à l'intérieur sont humides - et votre vol décolle dans deux heures. Vous prévenez l'agent d'embarquement, qui marque une pause, puis décroche le téléphone. Vous n'embarquerez pas aujourd'hui.
+La plupart des dommages sur un passeport sont purement esthétiques. Une couverture éraflée, un coin ramolli, une tranche élimée le long de la reliure - rien de tout cela n'empêche d'embarquer. Ce que le personnel frontalier et les agents des compagnies aériennes vérifient réellement est plus restreint qu'on ne l'imagine : la page d'identité, les deux lignes imprimées en bas de cette page, et si le livret tient encore en un seul document.
 
-C'est l'un des désastres de voyage les plus faciles à éviter, car un passeport endommagé - par l'eau, l'usure ou un accident - peut vous bloquer à la porte d'embarquement même si votre document reste techniquement valide. Comprendre ce qui constitue un dommage, ce que les autorités acceptent, et la marche à suivre le cas échéant, fait toute la différence entre un voyage annulé et une crise évitée quelques heures avant le départ.
+Savoir où se situe cette limite avant de partir vaut la peine, car un passeport peut être techniquement valide et pourtant être refusé. Cet article détaille ce qui constitue un dommage, ce que les autorités acceptent généralement, et la marche à suivre si le vôtre est déjà en mauvais état.
 
 ## Qu'est-ce qui constitue vraiment un dommage sur un passeport
 
@@ -67,7 +67,7 @@ Les délais de traitement publiés varient au fil de l'année, et ils augmentent
 - **Vérifiez que le service accéléré couvre les dommages.** Payer pour l'option la plus rapide ne signifie pas automatiquement qu'elle s'applique à un document endommagé, vérifiez donc d'abord.
 - **Prévoyez de vous présenter en personne.** Un passeport endommagé nécessite presque toujours qu'une personne l'inspecte et le retire de la circulation, ce qu'une demande par courrier ne peut pas faire.
 - **Demandez quel bureau traite les cas urgents.** Dans de nombreux pays, ce n'est pas le même guichet qui reçoit les demandes courantes, renseignez-vous donc avant de traverser la ville pour rien.
-- **Apportez une preuve de voyage.** Ce sont les confirmations de réservation qui débloquent les options les plus rapides, gardez-les donc sur vous plutôt que de promettre de les envoyer par e-mail plus tard.
+- **Apportez une preuve de voyage.** Ce sont les confirmations de réservation qui ouvrent les options les plus rapides, gardez-les donc sur vous plutôt que de promettre de les envoyer par e-mail plus tard.
 
 Le schéma reste toutefois le même partout. Plus vous vous rapprochez du départ, moins il reste d'options ouvertes, et celles qui restent exigent de vous présenter en personne avec votre passeport endommagé et une preuve de voyage. Découvrir un dommage trois semaines avant est un désagrément. Le découvrir trois jours avant est un tout autre problème.
 

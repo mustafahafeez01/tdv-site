@@ -1,6 +1,6 @@
-# Come Scattare una Foto Passaporto a Casa Che Viene Accettata
+# Regole per la Foto Passaporto: Dimensioni, Occhiali e Come Scattarla a Casa
 
-> Come ottenere l'approvazione della foto passaporto al primo tentativo: sfondo, illuminazione, espressione e i motivi di rifiuto che colpiscono la maggior parte delle persone.
+> Le regole della foto passaporto che portano al rifiuto: dimensioni, occhiali, sfondo e illuminazione, più come scattare una foto conforme a casa con il telefono.
 
 Source: https://traveldocumentvault.com/it/blog/passport-photo-at-home/
 
@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/it/blog/passport-photo-at-home/
 - La maggior parte dei paesi vieta ora gli occhiali se non medicamente necessari - controlla i requisiti attuali
 - I motivi di rifiuto comuni includono ombre, dimensioni sbagliate, sorriso, foto sfocate e sfondi impropri
 
-La tua foto passaporto è stata rifiutata per "ombre sul viso" - anche se l'avevi scattata in camera tua con luce naturale e pensavi che sembrasse perfettamente accettabile. I requisiti del passaporto sono rigorosi, specifici e variano a seconda del paese: sbagliare lo sfondo, l'illuminazione o le dimensioni anche di pochi millimetri, e la tua domanda viene rimossa. Questa guida ti guida attraverso esattamente come scattarne una a casa che passa al primo tentativo.
+Una foto scattata a casa viene accettata con la stessa facilità di una scattata in cabina, purché rispetti la stessa breve lista di regole. La maggior parte dei rifiuti si riduce a tre cose: ombra sul viso o sullo sfondo, la testa con la dimensione sbagliata nell'inquadratura, e gli occhiali. Sistema questi punti e il resto è semplice.
 
 ## Requisiti Universali in Tutti i Paesi
 
@@ -30,11 +30,19 @@ Hai bisogno di uno sfondo bianco o bianco sporco - nient'altro funziona. Nessun 
 
 Il tuo viso deve riempire il fotogramma nella proporzione specificata dalla tua autorità passaporti, con occhi aperti e chiaramente visibili - la maggior parte dei paesi vieta il sorriso, e socchiudere gli occhi disqualificherà il colpo. Guarda dritto davanti alla fotocamera con un'espressione neutra, inclinando leggermente la testa se questo ti sembra più naturale, ma generalmente mantenendo la testa quadrata rispetto all'obiettivo. Le tue orecchie dovrebbero idealmente essere visibili su entrambi i lati del tuo viso.
 
-### Occhiali e Copricapi
+## Puoi Indossare gli Occhiali nella Foto del Passaporto?
 
 La maggior parte dei paesi si è allontanata dal permettere gli occhiali normali nelle foto passaporto a meno che tu non li indossi permanentemente per una ragione medica. Anche in questo caso, potrebbe essere necessario fornire documentazione o scattare una foto separata senza occhiali. Alcune nazioni permettono ancora gli occhiali da lettura se sono prescritti, ma la lente non deve creare bagliori e i tuoi occhi devono essere chiaramente visibili. L'abbigliamento religioso è generalmente consentito purché non nasconda le caratteristiche facciali necessarie per l'identificazione.
 
-## Specifiche Ufficiali di Dimensione per Paese
+Gli occhiali da sole e le lenti colorate vengono rifiutati ovunque, senza eccezioni mediche. Se hai il diritto di tenere gli occhiali, inclina leggermente la testa lontano dalla luce in modo che le lenti non riflettano, e controlla che la montatura non copra nessuna parte degli occhi.
+
+## Dimensioni della Foto Passaporto: i Due Standard Più Usati
+
+La maggior parte delle autorità passaporti usa una di due dimensioni stampate. Il formato 35 mm x 45 mm copre il Regno Unito, i paesi dell'UE, inclusi i Paesi Bassi, e gran parte del resto del mondo. Gli Stati Uniti richiedono un quadrato di 2 x 2 pollici, e alcuni paesi seguono invece questo standard.
+
+Le presentazioni digitali sostituiscono i millimetri con i pixel, e ogni autorità pubblica i propri requisiti minimi. Questi due formati sono quelli richiesti attualmente dalla maggior parte delle autorità per la stampa, ma le specifiche vengono riviste, quindi conferma la tua prima di stampare o caricare.
+
+### Specifiche Ufficiali di Dimensione per Paese
 
 La dimensione è dove la maggior parte delle persone inciampa - se la tua foto non corrisponde alle specifiche del tuo paese, il rifiuto è quasi certo. Ogni paese stabilisce le proprie dimensioni, e quelle regole vengono riviste di tanto in tanto, quindi le uniche figure che valgono la pena di fidarsi sono quelle sul sito della tua autorità passaporti nel giorno in cui presenti.
 
@@ -123,7 +131,7 @@ Sì, puoi scattare una foto passaporto usando uno smartphone. Posizionati di fro
 
 ### Quale dovrebbe essere la dimensione di una foto passaporto
 
-I requisiti di dimensione variano in base al paese e vengono applicati rigorosamente. Alcune autorità specificano millimetri, altre pollici, e le regole vengono riviste periodicamente. Prendi le misure esatte dal sito ufficiale della tua autorità passaporti piuttosto che da un riassunto di terze parti, incluso questo.
+La maggior parte dei paesi usa una di due dimensioni stampate: 35 mm x 45 mm, che copre il Regno Unito, l'UE e gran parte del mondo, oppure il quadrato di 2 x 2 pollici usato negli Stati Uniti. Le presentazioni digitali hanno requisiti minimi in pixel separati. I requisiti vengono applicati rigorosamente e vengono rivisti, quindi conferma la specifica esatta con la tua autorità passaporti prima di stampare o caricare.
 
 ### Perché la mia foto passaporto è stata rifiutata
 
@@ -136,6 +144,10 @@ La luce naturale da una finestra è ideale per le foto passaporto. Evita le ombr
 ### Posso indossare occhiali in una foto passaporto
 
 La maggior parte dei paesi ora vieta gli occhiali nelle foto passaporto a meno che non siano medicamente necessari. Anche in questo caso, potresti dover fornire documentazione. Controlla i requisiti attuali del tuo paese prima di scattare la foto, poiché le regole si sono evolute negli ultimi anni. Se hai dubbi, scatta sia una foto con che senza occhiali per avere opzioni.
+
+### Quali sono le regole per una foto passaporto?
+
+Le regole principali sono coerenti nella maggior parte dei paesi: uno sfondo chiaro e uniforme, un'espressione neutra con la bocca chiusa, entrambi gli occhi aperti e chiaramente visibili, niente occhiali a meno che non siano medicamente necessari, un'illuminazione uniforme senza ombre e una foto recente che rispetti la specifica di dimensione del tuo paese. Ogni autorità pubblica il proprio elenco completo e i dettagli differiscono, quindi controlla il tuo prima di scattare.
 
 ## Articoli Correlati
 
