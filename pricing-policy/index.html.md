@@ -1,6 +1,6 @@
 # Pricing Policy
 
-> Clear pricing policy. $9.99 one-time purchase or a generous 5-document free tier. No subscription. Everything stays encrypted on your own device, offline and private.
+> Simple, honest pricing: $9.99 one-time in US dollars, with each country's price set locally. A free tier, no subscription, and no hidden fees.
 
 Source: https://traveldocumentvault.com/pricing-policy/
 

@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/pricing/
 
 ---
 
-One-time purchase. No subscriptions. No hidden fees. No data harvesting.
+$9.99 once. Not $9.99 a year. No subscriptions, no hidden fees, no data harvesting.
+
+Priced in US dollars. We set each country’s price locally rather than converting from dollars, and the App Store or Google Play shows yours before you pay.
 
 We run no servers that ever hold or can read your documents. Everything stays on your device. That's why we can offer a one-time price instead of endless subscriptions.
 
@@ -31,9 +33,11 @@ Best Value
 
 ### Pro
 
-One-time
+$9.99 one-time
 
 For your whole family. Pay once. All v1.x updates included, forever.
+
+USD. Your country’s price is set locally rather than converted from dollars, and the store shows it before you pay.
 
 [About our version policy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -72,7 +76,11 @@ For families
 
 Unlock the full vault for your family
 
-One-time purchase one-time For your whole family. Pay once. All v1.x updates included, forever.
+$9.99 one-time
+
+USD. Your country’s price is set locally rather than converted from dollars, and the App Store or Google Play shows it before you pay.
+
+For your whole family. Pay once. All v1.x updates included, forever.
 
 [About our version policy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
