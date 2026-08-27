@@ -69,7 +69,7 @@ Ce sont tous des choix raisonnables. Chacun fonctionne - jusqu'à un certain poi
 
 **Avantages :** Sécurité élevée et accès hors ligne.
 
-**Inconvénients :** Ils traitent un passeport comme un reçu d'épicerie et manquent de logique spécifique aux voyages. Nous avons conçu ceci spécifiquement pour les voyageurs, offrant un généreux palier gratuit de 5 documents et un prix unique et direct de 9,99 $ sans aucun abonnement récurrent.
+**Inconvénients :** Ils traitent un passeport comme un reçu d'épicerie et manquent de logique spécifique aux voyages. Nous avons conçu ceci spécifiquement pour les voyageurs, offrant un généreux palier gratuit de 5 documents et un prix unique et direct sans aucun abonnement récurrent.
 
 ### Galerie photos / Photos
 
@@ -105,15 +105,15 @@ Ce sont tous des choix raisonnables. Chacun fonctionne - jusqu'à un certain poi
 
 Chaque alternative fait une ou deux choses bien. Seule l'une fait tout.
 
-| Fonctionnalité | Travel Document Vault | Apple Wallet | Photos / Drive | 1Password |
+| Fonctionnalité | Travel Document Vault | Application Wallet | Photothèque / stockage cloud | Gestionnaire de mots de passe |
 |---|---|---|---|---|
 | Rappels d'expiration | ✓6 mois avant | ✗ | ✗ | ✗ |
 | Profils familiaux | ✓Illimité (Pro) | ✗ | ✗ | ~Seulement coffres partagés |
-| Pas de synchronisation cloud | ✓Sur l'appareil seulement | ✗Synchronisation iCloud | ✗Cloud d'abord | ✗Cloud d'abord |
+| Pas de synchronisation cloud | ✓Sur l'appareil seulement | ✗Synchronisation cloud | ✗Cloud d'abord | ✗Cloud d'abord |
 | Types de documents spécifiques aux voyages | ✓Passeport, visa, ID... | ~Billets d'embarquement uniquement | ✗ | ✗ |
 | Fonctionne hors ligne | ✓ | ✓ | ~Nécessite cache préalable | ✓ |
-| Aucun compte requis | ✓ | ~Apple ID requis | ✗ | ✗ |
-| Pas d'abonnement | ✓$9.99 une fois | ✓ | ~Gratuit mais financé par la publicité | ✗36 $/an+ |
+| Aucun compte requis | ✓ | ~Compte de la plateforme requis | ✗ | ✗ |
+| Pas d'abonnement | ✓une fois | ✓ | ~Gratuit, formules avec publicité variables | ✗généralement 30-40 $/an |
 
 ✓ Supporté ~ Partiel ✗ Non supporté
 
@@ -155,9 +155,11 @@ Vos documents sont toujours sur votre appareil, toujours accessibles. Aucune con
 
 ### Payer une fois. Pas d'abonnement.
 
-**Commencez gratuitement.** Stockez jusqu'à 5 documents - beaucoup plus généreux que la norme de l'industrie de 2. Rappels complets et sécurité inclus.
+**Commencez gratuitement.** Stockez jusqu'à 5 documents avec rappels complets et chiffrement. Mettez à niveau à tout moment pour un stockage illimité.
 
-Tandis que les concurrents facturent $14.99 par an ou $39.99 pour une licence à vie, Travel Document Vault est un **achat unique de $9.99.** Tout illimité. Aucune charge récurrente.
+Travel Document Vault est un **achat unique** de 9,99 $. Profils et documents illimités, aucune charge récurrente, et aucune date de renouvellement à retenir.
+
+Prix en dollars américains. Nous fixons le prix de chaque pays localement plutôt que de le convertir depuis le dollar, et l'App Store ou Google Play affiche le vôtre avant l'achat.
 
 [À propos de notre politique de version →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -290,9 +292,9 @@ Cette application est conçue pour les réalités pratiques, pas le stockage de 
 
 Les questions que nous entendons le plus souvent.
 
-Que se passe-t-il si je perds mon téléphone ? Vos documents vivent sur votre appareil avec une clé de chiffrement qui ne quitte jamais cet appareil. Une sauvegarde téléphonique système (iCloud ou Google Backup) ne peut pas les restaurer sur un nouveau téléphone. Activez la sauvegarde Votre Cloud (Pro) pour une synchronisation chiffrée, ou exportez un fichier .tdvault gratuitement depuis les Paramètres. Fonctionne-t-il sans internet ? Complètement. L'application stocke tout sur votre appareil et ne nécessite jamais de connexion internet. L'OCR, les rappels et la visualisation des documents fonctionnent tous hors ligne. Mes données sont-elles vraiment sûres ? Vos documents sont protégés à l'aide du chiffrement AES-256-GCM sur votre appareil. Il n'y a pas de serveurs et pas de comptes. Si vous activez la sauvegarde cloud optionnelle Pro, votre coffre est chiffré de bout en bout sur votre appareil avant le téléchargement vers votre propre iCloud ou Google Drive, scellé avec un code de récupération que vous seul avez. La conception signifie que je ne peux pas lire vos données, et ni Apple ni Google non plus - vous pouvez vérifier le modèle de confidentialité vous-même sur la [page de Vérification de la Confidentialité](https://traveldocumentvault.com/fr/privacy-verification/). Est-ce vraiment un achat unique ? Oui. Pro coûte $9.99 une fois.* Pas d'abonnement, pas de frais récurrents, pas d'e-mails « votre essai se termine ». L'offre gratuite est vraiment gratuite - 1 profil, 5 documents, toutes les fonctionnalités y compris l'OCR et les rappels.
+Que se passe-t-il si je perds mon téléphone ? Vos documents vivent sur votre appareil avec une clé de chiffrement qui ne quitte jamais cet appareil. Une sauvegarde téléphonique système (iCloud ou Google Backup) ne peut pas les restaurer sur un nouveau téléphone. Activez la sauvegarde Votre Cloud (Pro) pour une synchronisation chiffrée, ou exportez un fichier .tdvault gratuitement depuis les Paramètres. Fonctionne-t-il sans internet ? Complètement. L'application stocke tout sur votre appareil et ne nécessite jamais de connexion internet. L'OCR, les rappels et la visualisation des documents fonctionnent tous hors ligne. Mes données sont-elles vraiment sûres ? Vos documents sont protégés à l'aide du chiffrement AES-256-GCM sur votre appareil. Il n'y a pas de serveurs et pas de comptes. Si vous activez la sauvegarde cloud optionnelle Pro, votre coffre est chiffré de bout en bout sur votre appareil avant le téléchargement vers votre propre iCloud ou Google Drive, scellé avec un code de récupération que vous seul avez. La conception signifie que je ne peux pas lire vos données, et ni Apple ni Google non plus - vous pouvez vérifier le modèle de confidentialité vous-même sur la [page de Vérification de la Confidentialité](https://traveldocumentvault.com/fr/privacy-verification/). Est-ce vraiment un achat unique ? Oui. Pro coûte 9,99 $ US, une seule fois, et chaque pays a son propre prix local affiché dans la boutique avant l'achat. Pas d'abonnement récurrent, pas de frais récurrents, pas d'e-mails « votre essai se termine ». L'offre gratuite est vraiment gratuite - 1 profil, 5 documents, toutes les fonctionnalités y compris l'OCR et les rappels.
 
-* Pour v1.x. Voir [Politique de tarification](https://traveldocumentvault.com/pricing-policy/#version-policy).
+Concerne la version v1.x. Voir [Politique de tarification](https://traveldocumentvault.com/pricing-policy/#version-policy).
 
 Puis-je l'utiliser pour plus que des passeports ? Oui. Il prend en charge les passeports, visas, pièces d'identité, permis de conduire, cartes d'assurance, billets d'avion et tout type de document dont vous avez besoin. Chaque type a sa propre superposition de capture guidée. [Voir toutes les FAQ →](https://traveldocumentvault.com/fr/faq/)
 

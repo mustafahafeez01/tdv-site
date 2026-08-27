@@ -77,7 +77,7 @@ Das sind alle vernünftige Wahlen. Jede funktioniert – bis zu einem Punkt.
 
 **Funktioniert:** Hohe Sicherheit und Offline-Zugriff.
 
-**Unzureichend:** Sie behandeln einen Pass wie eine Lebensmittelrechnung und haben keine reisespezifische Logik. Wir haben das speziell für Reisende gebaut und bieten einen großzügigen kostenlosen Plan mit 5 Dokumenten und einen unkomplizierten Einmalkauf für $9.99 ohne wiederkehrende Abos.
+**Unzureichend:** Sie behandeln einen Pass wie eine Lebensmittelrechnung und haben keine reisespezifische Logik. Wir haben das speziell für Reisende gebaut und bieten einen großzügigen kostenlosen Plan mit 5 Dokumenten und einen unkomplizierten Einmalkauf ohne wiederkehrende Abos.
 
 ### Kamerarolle / Fotos
 
@@ -113,18 +113,18 @@ Das sind alle vernünftige Wahlen. Jede funktioniert – bis zu einem Punkt.
 
 Jede Alternative macht eines oder zwei Dinge gut. Nur eine macht alle.
 
-| Funktion | Travel Document Vault | Apple Wallet | Photos / Drive | 1Password |
+| Funktion | Travel Document Vault | Wallet-App | Fotobibliothek / Cloud-Speicher | Passwort-Manager |
 |---|---|---|---|---|
 | Ablauferinnerungen | ✓6 Mo. im Voraus | ✗ | ✗ | ✗ |
 | Familienprofile | ✓Unbegrenzt (Pro) | ✗ | ✗ | ~Nur gemeinsame Tresore |
-| Keine Cloud-Synchronisierung | ✓Nur auf dem Gerät | ✗iCloud-Sync | ✗Cloud-zuerst | ✗Cloud-zuerst |
+| Keine Cloud-Synchronisierung | ✓Nur auf dem Gerät | ✗Cloud-Sync | ✗Cloud-zuerst | ✗Cloud-zuerst |
 | Reisespezifische Dokumenttypen | ✓Pass, Visum, Ausweis... | ~Nur Bordkarten | ✗ | ✗ |
 | Funktioniert offline | ✓ | ✓ | ~Erfordert Vorab-Cache | ✓ |
-| Kein Konto erforderlich | ✓ | ~Apple-ID erforderlich | ✗ | ✗ |
-| Kein Abonnement | ✓$9.99 einmalig | ✓ | ~Kostenlos, werbefinanziert | ✗36 $/Jahr+ |
+| Kein Konto erforderlich | ✓ | ~Plattform-Konto erforderlich | ✗ | ✗ |
+| Kein Abonnement | ✓einmalig | ✓ | ~Kostenlos, werbefinanzierte Stufen variieren | ✗meist 30-40 $/Jahr |
 | Reiseplaner-Checkliste (pro Reise) | ✓Ja | ✗ | ✗ | ✗ |
 | Anpassbare Tageslimits pro Land (Tage-im / Tage-außerhalb) | ✓ | ✗ | ✗ | ✗ |
-| Verschlüsselte Cloud-Sync (Ihre eigene Cloud) | ✓Ihre iCloud / Google Drive | ~Nur Apple ID | ~Nur Google Drive/Dropbox | ~Deren Server |
+| Verschlüsselte Cloud-Sync (Ihre eigene Cloud) | ✓Ihre eigene Cloud | ~Nur Plattform-Konto | ~Nur Cloud-Anbieter | ~Server des Anbieters |
 
 ✓ Unterstützt ~ Teilweise ✗ Nicht unterstützt
 
@@ -166,9 +166,11 @@ Ihre Dokumente sind immer auf Ihrem Gerät, immer zugänglich. Kein Internet je 
 
 ### Einmalkauf. Kein Abo.
 
-**Kostenlos starten.** Bis zu 5 Dokumente speichern – deutlich großzügiger als der Branchenstandard von 2. Volle Erinnerungen und Sicherheit inklusive.
+**Kostenlos starten.** Bis zu 5 Dokumente mit vollen Erinnerungen und Verschlüsselung speichern. Jederzeit auf unbegrenzten Speicher upgraden.
 
-Während Wettbewerber $14.99 pro Jahr oder $39.99 für eine Lebenslizenz verlangen, ist Travel Document Vault ein **Einmalkauf für $9.99.** Alles unbegrenzt. Keine wiederkehrenden Kosten.
+Travel Document Vault ist ein **Einmalkauf** für $9.99. Unbegrenzt viele Profile und Dokumente, keine wiederkehrenden Kosten, und kein Verlängerungsdatum zum Merken.
+
+Preis in US-Dollar. Wir legen den Preis für jedes Land lokal fest, statt ihn vom Dollar umzurechnen, und der App Store oder Google Play zeigt Ihnen Ihren Preis vor dem Kauf an.
 
 [Über unsere Versionsrichtlinie →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -303,9 +305,9 @@ Diese App ist für praktische Realitäten ausgelegt, nicht für allgemeine Datei
 
 Die Fragen, die wir am häufigsten hören.
 
-Was passiert, wenn ich mein Telefon verliere? Ihre Dokumente befinden sich auf Ihrem Gerät, sodass ein reguläres Telefonbackup (iCloud oder Google Backup) sie enthält. Wenn Sie zu einem neuen Telefon wiederherstellen, kommt Ihr Tresor mit. Pro-Nutzer können auch jederzeit verschlüsselte Backups erstellen. Funktioniert es ohne Internet? Vollständig. Die App speichert alles auf Ihrem Gerät und benötigt nie eine Internetverbindung. OCR-Verarbeitung, Erinnerungen und Dokumentanzeige funktionieren alle offline. Sind meine Daten wirklich sicher? Das Design bedeutet, dass ich Ihre Daten nicht lesen kann, und weder kann Apple oder Google. Sie können das Datenschutzmodell selbst auf der [Datenschutzverifizierungsseite](https://traveldocumentvault.com/de/privacy-verification/) überprüfen. Ist es wirklich ein Einmalkauf? Ja. Pro ist ein Einmalkauf für $9.99.* Kein Abo, keine wiederkehrenden Kosten, keine „Ihre Testphase endet"-E-Mails. Die kostenlose Version ist wirklich kostenlos – 1 Profil, 5 Dokumente, alle Funktionen inklusive OCR und Erinnerungen.
+Was passiert, wenn ich mein Telefon verliere? Ihre Dokumente befinden sich auf Ihrem Gerät, sodass ein reguläres Telefonbackup (iCloud oder Google Backup) sie enthält. Wenn Sie zu einem neuen Telefon wiederherstellen, kommt Ihr Tresor mit. Pro-Nutzer können auch jederzeit verschlüsselte Backups erstellen. Funktioniert es ohne Internet? Vollständig. Die App speichert alles auf Ihrem Gerät und benötigt nie eine Internetverbindung. OCR-Verarbeitung, Erinnerungen und Dokumentanzeige funktionieren alle offline. Sind meine Daten wirklich sicher? Das Design bedeutet, dass ich Ihre Daten nicht lesen kann, und weder kann Apple oder Google. Sie können das Datenschutzmodell selbst auf der [Datenschutzverifizierungsseite](https://traveldocumentvault.com/de/privacy-verification/) überprüfen. Ist es wirklich ein Einmalkauf? Ja. Pro kostet einmalig $9.99 in US-Dollar, und jedes Land hat seinen eigenen lokalen Preis, der im Store vor dem Kauf angezeigt wird. Kein Abo, keine wiederkehrenden Kosten, keine „Ihre Testphase endet"-E-Mails. Die kostenlose Version ist wirklich kostenlos – 1 Profil, 5 Dokumente, alle Funktionen inklusive OCR und Erinnerungen.
 
-* Für v1.x. Siehe [Versionsrichtlinie](https://traveldocumentvault.com/pricing-policy/#version-policy).
+Gilt für v1.x. Siehe [Versionsrichtlinie](https://traveldocumentvault.com/pricing-policy/#version-policy).
 
 Kann ich es auch für andere Dokumente als Reisepässe nutzen? Ja. Die App unterstützt Reisepässe, Visa, Personalausweise, Führerscheine, Versicherungskarten, Flugtickets und alle weiteren Dokumenttypen, die Sie benötigen. Jeder Typ hat seine eigene geführte Aufnahme-Maske. [Alle FAQs ansehen →](https://traveldocumentvault.com/de/faq/)
 

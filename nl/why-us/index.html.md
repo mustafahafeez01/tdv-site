@@ -77,7 +77,7 @@ Dit zijn allemaal redelijke keuzes. Elk werkt, tot op zekere hoogte.
 
 **Werkt:** Hoge beveiliging en offline toegang.
 
-**Tekortkoming:** Ze behandelen een paspoort als een boodschappenlijstje en missen reisspecifieke logica. We hebben dit speciaal voor reizigers gebouwd, met een royale gratis laag van 5 documenten en een eenvoudige eenmalige prijs van $9.99 zonder abonnementen.
+**Tekortkoming:** Ze behandelen een paspoort als een boodschappenlijstje en missen reisspecifieke logica. We hebben dit speciaal voor reizigers gebouwd, met een gratis laag van 5 documenten en een eenvoudige eenmalige prijs zonder abonnementen.
 
 ### Fotocamera / Foto's
 
@@ -113,18 +113,18 @@ Dit zijn allemaal redelijke keuzes. Elk werkt, tot op zekere hoogte.
 
 Elk alternatief doet één of twee dingen goed. Slechts één doet ze allemaal.
 
-| Functie | Travel Document Vault | Apple Wallet | Foto's / Drive | 1Password |
+| Functie | Travel Document Vault | Wallet-app | Fotobibliotheek / cloudopslag | Wachtwoordmanager |
 |---|---|---|---|---|
 | Vervalherinneringen | ✓6 mnd vooruit | ✗ | ✗ | ✗ |
 | Gezinsprofielen | ✓Onbeperkt (Pro) | ✗ | ✗ | ~Alleen gedeelde kluizen |
-| Geen cloudsynchronisatie | ✓Alleen op apparaat | ✗iCloud-sync | ✗Cloud eerst | ✗Cloud eerst |
+| Geen cloudsynchronisatie | ✓Alleen op apparaat | ✗Cloudsync | ✗Cloud eerst | ✗Cloud eerst |
 | Reisspecifieke documenttypen | ✓Paspoort, visum, ID... | ~Alleen instapkaarten | ✗ | ✗ |
 | Werkt offline | ✓ | ✓ | ~Vereist eerdere cache | ✓ |
-| Geen account vereist | ✓ | ~Apple ID vereist | ✗ | ✗ |
-| Geen abonnement | ✓$9.99 eenmalig | ✓ | ~Gratis maar advertentiefinanciering | ✗$36/jaar+ |
+| Geen account vereist | ✓ | ~Platformaccount vereist | ✗ | ✗ |
+| Geen abonnement | ✓eenmalig | ✓ | ~Gratis, niveaus met advertenties variëren | ✗doorgaans $30-40/jaar |
 | Reisplanner-checklist (per reis) | ✓Ja | ✗ | ✗ | ✗ |
 | Aangepaste daglimieten per land (dagen-in / dagen-uit) | ✓ | ✗ | ✗ | ✗ |
-| Versleutelde cloudsync (uw eigen cloud) | ✓Uw iCloud / Google Drive | ~Alleen Apple ID | ~Alleen Google Drive/Dropbox | ~Hun servers |
+| Versleutelde cloudsync (uw eigen cloud) | ✓Uw eigen cloud | ~Alleen platformaccount | ~Alleen cloudprovider | ~Servers van de provider |
 
 ✓ Ondersteund ~ Gedeeltelijk ✗ Niet ondersteund
 
@@ -166,9 +166,11 @@ Uw documenten staan altijd op uw apparaat, altijd toegankelijk. Nooit internet n
 
 ### Eenmalig betalen. Geen abonnement.
 
-**Begin gratis.** Sla tot 5 documenten op, veel royaler dan de industriestandaard van 2. Volledige herinneringen en beveiliging inbegrepen.
+**Begin gratis.** Sla tot 5 documenten op met volledige herinneringen en encryptie. Upgrade op elk moment voor onbeperkte opslag.
 
-Terwijl concurrenten $14.99 per jaar of $39.99 voor een levenslange licentie vragen, is Travel Document Vault een **eenmalige aankoop van $9.99.** Onbeperkt alles. Geen terugkerende kosten.
+Travel Document Vault is een **eenmalige aankoop** van $9.99. Onbeperkt profielen en documenten, geen terugkerende kosten en geen verlengdatum om te onthouden.
+
+Geprijsd in Amerikaanse dollar. We stellen de prijs per land lokaal vast in plaats van te converteren vanuit dollars, en de App Store of Google Play toont uw prijs voordat u betaalt.
 
 [Over ons versiebeleid →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -307,7 +309,7 @@ Deze app is ontworpen voor praktische realiteiten, niet voor generieke bestandso
 
 De vragen die we het vaakst horen.
 
-Wat gebeurt er als ik mijn telefoon verlies? Uw documenten staan op uw apparaat. Een systeemback-up (iCloud of Google Backup) zal de app opnieuw installeren, maar kan uw versleutelde documenten niet herstellen omdat de versleutelingssleutel nooit uw apparaat verlaat. Gebruik de gratis Vault Export-functie om een versleuteld .tdvault-bestand te maken en dit op uw nieuw apparaat te importeren. Pro-gebruikers kunnen ook versleutelde back-ups naar hun persoonlijke iCloud of Google Drive aanmaken. Werkt de app zonder internet? Volledig. De app slaat alles op uw apparaat op en heeft nooit een internetverbinding nodig. OCR-verwerking, herinneringen en het bekijken van documenten werken allemaal offline. Zijn mijn gegevens echt veilig? Het ontwerp betekent dat ik uw gegevens niet kan lezen, en Apple of Google evenmin. U kunt het privacymodel zelf controleren op de [Privacyverificatiepagina](https://traveldocumentvault.com/nl/privacy-verification/). Is het echt een eenmalige aankoop? Ja. Pro kost eenmalig $9.99.* Geen abonnement, geen terugkerende kosten, geen "uw proefperiode loopt af"-e-mails. De gratis versie is echt gratis, 1 profiel, 5 documenten, alle functies inclusief OCR en herinneringen.
+Wat gebeurt er als ik mijn telefoon verlies? Uw documenten staan op uw apparaat. Een systeemback-up (iCloud of Google Backup) zal de app opnieuw installeren, maar kan uw versleutelde documenten niet herstellen omdat de versleutelingssleutel nooit uw apparaat verlaat. Gebruik de gratis Vault Export-functie om een versleuteld .tdvault-bestand te maken en dit op uw nieuw apparaat te importeren. Pro-gebruikers kunnen ook versleutelde back-ups naar hun persoonlijke iCloud of Google Drive aanmaken. Werkt de app zonder internet? Volledig. De app slaat alles op uw apparaat op en heeft nooit een internetverbinding nodig. OCR-verwerking, herinneringen en het bekijken van documenten werken allemaal offline. Zijn mijn gegevens echt veilig? Het ontwerp betekent dat ik uw gegevens niet kan lezen, en Apple of Google evenmin. U kunt het privacymodel zelf controleren op de [Privacyverificatiepagina](https://traveldocumentvault.com/nl/privacy-verification/). Is het echt een eenmalige aankoop? Ja. Pro kost eenmalig $9.99, in Amerikaanse dollar. Elk land toont zijn eigen lokale prijs in de winkel voordat u betaalt.* Geen abonnement, geen terugkerende kosten, geen "uw proefperiode loopt af"-e-mails. De gratis versie is echt gratis, 1 profiel, 5 documenten, alle functies inclusief OCR en herinneringen.
 
 * Voor v1.x. Zie [Prijsbeleid](https://traveldocumentvault.com/pricing-policy/#version-policy).
 

@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/pricing/
 
 ---
 
-$9.99 once. Not $9.99 a year. No subscriptions, no hidden fees, no data harvesting.
+$9.99, once. No subscription, no hidden fees, no data harvesting.
 
 Priced in US dollars. We set each country’s price locally rather than converting from dollars, and the App Store or Google Play shows yours before you pay.
 

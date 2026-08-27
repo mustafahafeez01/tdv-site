@@ -26,7 +26,7 @@ Que collecte le rapport de panne Sentry et puis-je le désactiver ?
 
 Sentry est un outil de rapport de panne qui nous aide à trouver et corriger les bugs. Il est **désactivé par défaut** et n'envoie absolument rien lorsqu'il est désactivé. Si vous choisissez de l'activer dans les paramètres, il n'envoie que des diagnostics techniques de panne comme le type de votre appareil et ce que l'application faisait au moment du crash. Il n'envoie jamais vos documents, noms, numéros de passeport ou quoi que ce soit de votre coffre.
 
-Qu'inclut la mise à niveau Pro à $9.99 ?
+Qu'inclut la mise à niveau Pro ?
 
 Pro est un achat unique qui débloque les profils illimités, les documents illimités, l'export PDF groupé, la sauvegarde cloud chiffrée vers iCloud ou Google Drive, et le réglage personnalisé des rappels. Vous payez une fois - pas d'abonnement, pas de prélèvement récurrent, et pas d'essai qui se met discrètement à vous facturer.
 
@@ -305,13 +305,13 @@ Nous ne téléchargeons **jamais** vos photos nulle part. Tout le traitement (y 
 
 Quelle est la différence entre Gratuit et Pro ?
 
-**Gratuit** inclut 1 profil et jusqu'à 5 documents avec fonctionnalités complètes, y compris l'analyse OCR, les rappels d'expiration, le partage de documents, le verrou PIN, le verrou biométrique (Face ID / Touch ID) et l'export du coffre entier (.tdvault). **Pro** ($9.99 une seule fois*) déverrouille les profils illimités, les documents illimités, l'export PDF combiné, la sauvegarde cloud chiffrée, la programmation personnalisée des rappels et la capture multi-page pour les billets d'avion et les autres documents.
+**Gratuit** inclut 1 profil et jusqu'à 5 documents avec fonctionnalités complètes, y compris l'analyse OCR, les rappels d'expiration, le partage de documents, le verrou PIN, le verrou biométrique (Face ID / Touch ID) et l'export du coffre entier (.tdvault). **Pro** (achat unique*) déverrouille les profils illimités, les documents illimités, l'export PDF combiné, la sauvegarde cloud chiffrée, la programmation personnalisée des rappels et la capture multi-page pour les billets d'avion et les autres documents.
 
 * Consultez la [Politique de tarification](https://traveldocumentvault.com/pricing-policy/#version-policy) pour les détails de versioning.
 
 Pro est-il un abonnement ?
 
-**Non.** Pro est un achat unique de $9.99. Payez une fois, toutes les mises à jour v1.x incluses, pour toujours. Aucun frais récurrent, aucun abonnement.
+**Non.** Pro est un achat unique. Payez une fois, toutes les mises à jour v1.x incluses, pour toujours. Aucun frais récurrent, aucun abonnement.
 
 [À propos de notre politique de version →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -329,7 +329,7 @@ En savoir plus dans notre [Politique de tarification](https://traveldocumentvaul
 
 Qu'est-ce que « toutes les mises à jour v1.x incluses » signifient ?
 
-Votre achat de $9.99 couvre chaque mise à jour dans la version majeure actuelle, cela signifie tous les correctifs de bugs, les correctifs de sécurité et les nouvelles fonctionnalités publiées comme v1.1, v1.2, v1.3, et ainsi de suite. Votre application continue de fonctionner et de s'améliorer sans frais supplémentaires.
+Votre achat couvre chaque mise à jour dans la version majeure actuelle, cela signifie tous les correctifs de bugs, les correctifs de sécurité et les nouvelles fonctionnalités publiées comme v1.1, v1.2, v1.3, et ainsi de suite. Votre application continue de fonctionner et de s'améliorer sans frais supplémentaires.
 
 Si une version majeure future (v2.0) est jamais publiée avec un ensemble de fonctionnalités considérablement reconstruit, cela pourrait être offert comme achat séparé. Vous ne seriez jamais forcé de mettre à niveau, votre version actuelle continue de fonctionner exactement comme elle le fait aujourd'hui. Consultez notre [politique de version complète](https://traveldocumentvault.com/pricing-policy/#version-policy) pour les détails.
 

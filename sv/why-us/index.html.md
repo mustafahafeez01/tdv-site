@@ -77,7 +77,7 @@ Det här är alla rimliga val. De fungerar alla upp till en viss gräns.
 
 **Fungerar:** Hög säkerhet och offline-åtkomst.
 
-**Begränsningar:** De behandlar ett pass som ett kvitto och saknar resespecifik logik. Vi byggde detta specifikt för resenärer och erbjuder en generös gratis version med 5 dokument och ett enkelt engångspris på 99 kr utan återkommande prenumerationer.
+**Begränsningar:** De behandlar ett pass som ett kvitto och saknar resespecifik logik. Vi byggde detta specifikt för resenärer och erbjuder en gratis version med 5 dokument och ett enkelt engångspris utan återkommande prenumerationer.
 
 ### Fotobibliotek / Foton
 
@@ -113,18 +113,18 @@ Det här är alla rimliga val. De fungerar alla upp till en viss gräns.
 
 Varje alternativ kan en eller två saker bra. Bara en gör allt.
 
-| Funktion | Travel Document Vault | Apple Wallet | Foton / Drive | 1Password |
+| Funktion | Travel Document Vault | Wallet-app | Fotobibliotek / molnlagring | Lösenordshanterare |
 |---|---|---|---|---|
 | Utgångspåminnelser | ✓6 mån i förväg | ✗ | ✗ | ✗ |
 | Familjeprofiler | ✓Obegränsat (Pro) | ✗ | ✗ | ~Delade valv endast |
-| Ingen molnsynk | ✓Endast på enheten | ✗iCloud-synk | ✗Moln-baserat | ✗Moln-baserat |
+| Ingen molnsynk | ✓Endast på enheten | ✗Molnsynk | ✗Moln-baserat | ✗Moln-baserat |
 | Resespecifika dokumenttyper | ✓Pass, visum, ID... | ~Boardingkort endast | ✗ | ✗ |
 | Fungerar offline | ✓ | ✓ | ~Kräver cachning | ✓ |
-| Inget konto krävs | ✓ | ~Apple-ID krävs | ✗ | ✗ |
-| Ingen prenumeration | ✓99 kr engångspris | ✓ | ~Gratis men annonsfinansierat | ✗~350 kr/år+ |
+| Inget konto krävs | ✓ | ~Plattformskonto krävs | ✗ | ✗ |
+| Ingen prenumeration | ✓engångspris | ✓ | ~Gratis, annonsfinansierade nivåer varierar | ✗vanligtvis 30-40 $/år |
 | Reseplaneringschecklista (per resa) | ✓Ja | ✗ | ✗ | ✗ |
 | Anpassade dagsgränser per land (dagar-i / dagar-borta) | ✓ | ✗ | ✗ | ✗ |
-| Krypterad molnsynk (ditt eget moln) | ✓Din iCloud / Google Drive | ~Endast Apple ID | ~Endast Google Drive/Dropbox | ~Deras servrar |
+| Krypterad molnsynk (ditt eget moln) | ✓Ditt eget moln | ~Endast plattformskonto | ~Endast molnleverantör | ~Leverantörens servrar |
 
 ✓ Stöds ~ Delvis ✗ Stöds ej
 
@@ -166,9 +166,11 @@ Dina dokument är alltid på din enhet, alltid tillgängliga. Inget internet kr�
 
 ### Betala en gång. Ingen prenumeration.
 
-**Börja gratis.** Lagra upp till 5 dokument, mycket mer generöst än branschstandarden på 2. Full påminnelse- och säkerhetsfunktionalitet ingår.
+**Börja gratis.** Lagra upp till 5 dokument med full påminnelse- och säkerhetsfunktionalitet. Uppgradera när som helst för obegränsad lagring.
 
-Medan konkurrenter tar ut 149 kr per år eller 399 kr för livstidslicens är Travel Document Vault ett **engångsköp på 99 kr.** Obegränsat av allt. Inga återkommande avgifter.
+Travel Document Vault är ett **engångsköp** på $9.99. Obegränsat med profiler och dokument, inga återkommande avgifter och inget förnyelsedatum att hålla koll på.
+
+Prissatt i amerikanska dollar. Vi sätter varje lands pris lokalt i stället för att räkna om från dollar, och App Store eller Google Play visar ditt pris innan du betalar.
 
 [Om vår versionspolicy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -263,7 +265,7 @@ Den här appen är utformad för praktiska verkligheter, inte generisk fillagrin
 
 Frågorna vi hör mest.
 
-Vad händer om jag tappar bort min telefon? Vi lagrar inte din data, så vi kan inte återställa den åt dig. En systemsäkerhetskopia (iCloud/Google) installerar om appen men hämtar inte dokumenten - krypteringsnycklarna lämnade aldrig din ursprungliga enhet. Exportera en kopia med Vault Export (gratis). Pro-användare kan också skapa krypterad molnsäkerhetskopia till sitt eget iCloud eller Google Drive med en återställningskod endast de har. Fungerar det utan internet? Helt och hållet. Appen lagrar allt på din enhet och behöver aldrig en internetanslutning. OCR-bearbetning, påminnelser och dokumentvisning fungerar alla offline. Är mina data verkligen säkra? Dina dokument är starkt krypterade på din enhet och skyddas av telefonens inbyggda säkerhetschip. Vi har inga servrar och inga konton. Om du aktiverar valfri Pro-molnsäkerhetskopia går ditt krypterade valv till ditt eget iCloud eller Google Drive, förseglat med en återställningskod som endast du har. Designen innebär att jag inte kan läsa dina data, och inte heller Apple eller Google - du kan kontrollera integritetskonstruktionen själv på [sidan Privacy Verification](https://traveldocumentvault.com/sv/privacy-verification/). PIN-lås och biometriskt lås (Face ID/Touch ID) är båda gratis. Är det verkligen ett engångsköp? Ja. Pro kostar 99 kr en gång.* Ingen prenumeration, inga återkommande avgifter, inga "din provperiod slutar"-mejl. Gratisversionen är genuint gratis, 1 profil, 5 dokument, alla funktioner inklusive OCR och påminnelser.
+Vad händer om jag tappar bort min telefon? Vi lagrar inte din data, så vi kan inte återställa den åt dig. En systemsäkerhetskopia (iCloud/Google) installerar om appen men hämtar inte dokumenten - krypteringsnycklarna lämnade aldrig din ursprungliga enhet. Exportera en kopia med Vault Export (gratis). Pro-användare kan också skapa krypterad molnsäkerhetskopia till sitt eget iCloud eller Google Drive med en återställningskod endast de har. Fungerar det utan internet? Helt och hållet. Appen lagrar allt på din enhet och behöver aldrig en internetanslutning. OCR-bearbetning, påminnelser och dokumentvisning fungerar alla offline. Är mina data verkligen säkra? Dina dokument är starkt krypterade på din enhet och skyddas av telefonens inbyggda säkerhetschip. Vi har inga servrar och inga konton. Om du aktiverar valfri Pro-molnsäkerhetskopia går ditt krypterade valv till ditt eget iCloud eller Google Drive, förseglat med en återställningskod som endast du har. Designen innebär att jag inte kan läsa dina data, och inte heller Apple eller Google - du kan kontrollera integritetskonstruktionen själv på [sidan Privacy Verification](https://traveldocumentvault.com/sv/privacy-verification/). PIN-lås och biometriskt lås (Face ID/Touch ID) är båda gratis. Är det verkligen ett engångsköp? Ja. Pro kostar $9.99 en gång, i amerikanska dollar. Varje land visar sitt eget lokala pris i butiken innan du betalar.* Ingen prenumeration, inga återkommande avgifter, inga "din provperiod slutar"-mejl. Gratisversionen är genuint gratis, 1 profil, 5 dokument, alla funktioner inklusive OCR och påminnelser.
 
 * För v1.x. Se [prispolicyn](https://traveldocumentvault.com/pricing-policy/#version-policy).
 

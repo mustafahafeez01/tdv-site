@@ -113,18 +113,18 @@ These are all reasonable choices. Each one works - up to a point.
 
 Every alternative does one or two things well. Only one does all of them.
 
-| Feature | Travel Document Vault | Apple Wallet | Photos / Drive | 1Password |
+| Feature | Travel Document Vault | Wallet app | Photo library / cloud drive | Password manager |
 |---|---|---|---|---|
 | Expiry reminders (per gov rules) | ✓6 mo ahead | ✗ | ✗ | ✗ |
 | Family profiles | ✓Unlimited (Pro) | ✗ | ✗ | ~Shared vaults only |
-| No cloud sync | ✓On-device only | ✗iCloud sync | ✗Cloud-first | ✗Cloud-first |
+| No cloud sync | ✓On-device only | ✗Cloud sync | ✗Cloud-first | ✗Cloud-first |
 | Travel-specific doc types | ✓Passport, visa, ID... | ~Boarding passes only | ✗ | ✗ |
 | Works offline | ✓ | ✓ | ~Needs prior cache | ✓ |
-| No account required | ✓ | ~Apple ID needed | ✗ | ✗ |
-| No subscription | ✓one-time | ✓ | ~Free but ad-funded | ✗$36/yr+ |
+| No account required | ✓ | ~Platform account needed | ✗ | ✗ |
+| No subscription | ✓one-time | ✓ | ~Free, ad-supported tiers vary | ✗typically $30-40/yr |
 | Readiness checklist (per trip) | ✓Yes | ✗ | ✗ | ✗ |
 | Custom country day-limits (days-in / days-away) | ✓ | ✗ | ✗ | ✗ |
-| Encrypted cloud sync (your own cloud) | ✓Your iCloud / GDrive | ~Apple ID only | ~Google Drive/Dropbox only | ~Their servers |
+| Encrypted cloud sync (your own cloud) | ✓Your own cloud | ~Platform account only | ~Cloud provider only | ~Provider servers |
 
 ✓ Supported ~ Partial ✗ Not supported
 
@@ -166,9 +166,11 @@ Your documents are always on your device, always accessible. No internet require
 
 ### Pay Once. No Subscription.
 
-**Start free.** Store up to 5 documents with full reminders and encryption - far more than most free tiers. Upgrade anytime for unlimited storage.
+**Start free.** Store up to 5 documents with full reminders and encryption. Upgrade anytime for unlimited storage.
 
-While competitors charge $14.99 per year or $39.99 for a lifetime license, Travel Document Vault is a **one-time purchase.** Unlimited everything. No recurring charges.
+Travel Document Vault is a **one-time purchase** of $9.99. Unlimited profiles and documents, no recurring charges, and no renewal date to forget.
+
+Priced in US dollars. We set each country’s price locally rather than converting from dollars, and the App Store or Google Play shows yours before you pay.
 
 [About our version policy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

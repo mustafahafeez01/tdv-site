@@ -26,7 +26,7 @@ Hvad indsamler Sentry-nedbrudsrapportering, og kan jeg slå det fra?
 
 Sentry er et nedbrudsrapporteringsværktøj, der hjælper os med at finde og rette fejl. Det er **deaktiveret som standard** og sender absolut ingenting, når det er slået fra. Hvis du vælger at aktivere det i Indstillinger, sender det kun teknisk nedbrudsdiagnostik som din enhedstype og hvad appen lavede, da den gik ned. Det sender aldrig dine dokumenter, navne, pasnumre eller noget fra din vault.
 
-Hvad inkluderer Pro-opgraderingen til $9.99?
+Hvad inkluderer Pro-opgraderingen?
 
 Pro er et engangskøb, der låser op for ubegrænsede profiler, ubegrænsede dokumenter, samlet PDF-eksport, krypteret skysikkerhedskopi til iCloud eller Google Drive og selvvalgte påmindelsestidspunkter. Du betaler én gang - intet abonnement, ingen løbende betaling og ingen prøveperiode, der stille begynder at opkræve dig.
 
@@ -271,13 +271,13 @@ Vi **uploader aldrig** dine fotos nogen steder. Al behandling (inklusive OCR-sca
 
 Hvad er forskellen mellem Gratis og Pro?
 
-**Gratis** inkluderer 1 profil og op til 5 dokumenter med fuld funktionalitet, inklusive OCR-scanning, udløbspåmindelser, dokumentdeling, PIN-lås og biometrisk lås (Face ID / Touch ID). **Pro** (engangsbetaling på $9.99*) låser op for ubegrænsede profiler, ubegrænsede dokumenter, kombineret PDF-eksport, batcheksport (.tdvault), brugerdefinerede påmindelsestider og flersides optagelse for flybilletter og andre dokumenter.
+**Gratis** inkluderer 1 profil og op til 5 dokumenter med fuld funktionalitet, inklusive OCR-scanning, udløbspåmindelser, dokumentdeling, PIN-lås og biometrisk lås (Face ID / Touch ID). **Pro** (engangskøb*) låser op for ubegrænsede profiler, ubegrænsede dokumenter, kombineret PDF-eksport, batcheksport (.tdvault), brugerdefinerede påmindelsestider og flersides optagelse for flybilletter og andre dokumenter.
 
 * Se [Prispolitik](https://traveldocumentvault.com/pricing-policy/#version-policy) for versionsdetaljer.
 
 Er Pro et abonnement?
 
-**Nej.** Pro er et engangskøb på $9.99. Betal én gang, alle v1.x-opdateringer inkluderet, for altid. Ingen løbende gebyrer, ingen abonnement.
+**Nej.** Pro er et engangskøb. Betal én gang, alle v1.x-opdateringer inkluderet, for altid. Ingen løbende gebyrer, ingen abonnement.
 
 [Om vores versionspolitik →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -295,7 +295,7 @@ Læs mere i vores [Prispolitik](https://traveldocumentvault.com/pricing-policy/)
 
 Hvad betyder "alle v1.x-opdateringer inkluderet"?
 
-Dit $9.99-køb dækker alle opdateringer inden for den aktuelle større version – det betyder alle fejlrettelser, sikkerhedspatches og nye funktioner udgivet som v1.1, v1.2, v1.3 og så videre. Din app fortsætter med at fungere og forbedres uden ekstra omkostninger.
+Dit køb dækker alle opdateringer inden for den aktuelle større version – det betyder alle fejlrettelser, sikkerhedspatches og nye funktioner udgivet som v1.1, v1.2, v1.3 og så videre. Din app fortsætter med at fungere og forbedres uden ekstra omkostninger.
 
 Hvis en fremtidig større version (v2.0) nogensinde udgives med et markant ombygget funktionssæt, kan den tilbydes som et separat køb. Du vil aldrig blive tvunget til at opgradere – din nuværende version fortsætter med at fungere præcis som den gør i dag. Se vores [fulde versionspolitik](https://traveldocumentvault.com/pricing-policy/#version-policy) for detaljer.
 

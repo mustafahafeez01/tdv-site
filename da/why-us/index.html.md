@@ -77,7 +77,7 @@ Det er alle fornuftige valg. Hvert enkelt virker – til en vis grad.
 
 **Virker:** Høj sikkerhed og offline-adgang.
 
-**Mangler:** De behandler et pas som en kassebon og mangler rejsespecifik logik. Vi har bygget dette specifikt til rejsende med et generøst gratisniveau på 5 dokumenter og en enkel $9.99 engangspris uden tilbagevendende abonnementer.
+**Mangler:** De behandler et pas som en kassebon og mangler rejsespecifik logik. Vi har bygget dette specifikt til rejsende med et gratisniveau på 5 dokumenter og en enkel engangspris uden tilbagevendende abonnementer.
 
 ### Kamerarulle / Fotos
 
@@ -113,18 +113,18 @@ Det er alle fornuftige valg. Hvert enkelt virker – til en vis grad.
 
 Hvert alternativ gør én eller to ting godt. Kun én gør dem alle.
 
-| Funktion | Travel Document Vault | Apple Wallet | Photos / Drive | 1Password |
+| Funktion | Travel Document Vault | Wallet-app | Fotobibliotek / cloud-lagring | Adgangskodeadministrator |
 |---|---|---|---|---|
 | Udløbspåmindelser | ✓6 mdr. i forvejen | ✗ | ✗ | ✗ |
 | Familieprofiler | ✓Ubegrænset (Pro) | ✗ | ✗ | ~Kun delte pengeskabe |
-| Ingen cloud-synkronisering | ✓Kun på enheden | ✗iCloud-synk | ✗Cloud-først | ✗Cloud-først |
+| Ingen cloud-synkronisering | ✓Kun på enheden | ✗Cloud-synk | ✗Cloud-først | ✗Cloud-først |
 | Rejsespecifikke dokumenttyper | ✓Pas, visum, ID... | ~Kun boardingkort | ✗ | ✗ |
 | Virker offline | ✓ | ✓ | ~Kræver forudgående cache | ✓ |
-| Ingen konto krævet | ✓ | ~Apple ID nødvendigt | ✗ | ✗ |
-| Intet abonnement | ✓$9.99 éngangs | ✓ | ~Gratis men reklamefinansieret | ✗$36/år+ |
+| Ingen konto krævet | ✓ | ~Platformskonto nødvendig | ✗ | ✗ |
+| Intet abonnement | ✓engangs | ✓ | ~Gratis, reklamefinansierede niveauer varierer | ✗typisk 30-40 $/år |
 | Beredskabstjekliste (pr. rejse) | ✓Ja | ✗ | ✗ | ✗ |
 | Tilpassede dagsgrænser per land (dage-i / dage-væk) | ✓ | ✗ | ✗ | ✗ |
-| Krypteret cloud-synkronisering (dit eget cloud) | ✓Dit iCloud / GDrive | ~Kun Apple ID | ~Google Drive/Dropbox kun | ~Deres servere |
+| Krypteret cloud-synkronisering (dit eget cloud) | ✓Din egen cloud | ~Kun platformskonto | ~Kun cloud-udbyder | ~Udbyderens servere |
 
 ✓ Understøttet ~ Delvist ✗ Ikke understøttet
 
@@ -166,9 +166,11 @@ Dine dokumenter er altid på din enhed, altid tilgængelige. Intet internet kræ
 
 ### Betal én gang. Intet abonnement.
 
-**Start gratis.** Gem op til 5 dokumenter – langt mere generøst end branchens standard på 2. Fulde påmindelser og sikkerhed inkluderet.
+**Start gratis.** Gem op til 5 dokumenter med fulde påmindelser og sikkerhed. Opgrader når som helst til ubegrænset lagerplads.
 
-Mens konkurrenter opkræver $14.99 om året eller $39.99 for en livstidslicens, er Travel Document Vault et **$9.99 engangskøb.** Ubegrænset alt. Ingen tilbagevendende gebyrer.
+Travel Document Vault er et **engangskøb** på $9.99. Ubegrænsede profiler og dokumenter, ingen tilbagevendende gebyrer og ingen fornyelsesdato at huske.
+
+Prissat i amerikanske dollar. Vi fastsætter hvert lands pris lokalt i stedet for at omregne fra dollar, og App Store eller Google Play viser din pris, før du betaler.
 
 [Om vores versionspolitik →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -307,7 +309,7 @@ Denne app er designet til praktiske virkeligheder, ikke generisk fillagring.
 
 De spørgsmål vi oftest hører.
 
-Hvad sker der, hvis jeg mister min telefon? Dit vault er gemt på din enhed og ikke inkluderet i almindelige telefonsikkerhedskopier (iCloud eller Google Backup), fordi krypteringsnøglen aldrig forlader din enhed. I stedet kan du bruge gratis Vault Export (en krypteret .tdvault-fil) til at importere på en anden enhed, eller aktivere Pro-Cloud Backup til krypteret sikkerhedskopi til dit eget iCloud eller Google Drive med en gendannelseskode som kun du har. Fungerer det uden internet? Fuldstændigt. Appen gemmer alt på din enhed og behøver aldrig en internetforbindelse. OCR-behandling, påmindelser og dokumentvisning fungerer alle offline. Er mine data virkelig sikre? Dine dokumenter er stærkt krypteret på din enhed og beskyttet af din telefons indbyggede sikkerhedschip. Designet betyder, at jeg ikke kan læse dine data, og heller ikke Apple eller Google. Du kan selv kontrollere privatlivsmodellen på siden [Privatlivsverifikation](https://traveldocumentvault.com/da/privacy-verification/). PIN-lås og biometrisk lås (Face ID/Touch ID) er begge gratis. Er det virkelig et engangskøb? Ja. Pro er $9.99 én gang.* Intet abonnement, ingen tilbagevendende gebyrer, ingen "din prøveperiode slutter"-e-mails. Gratisniveauet er ægte gratis – 1 profil, 5 dokumenter, alle funktioner inkl. OCR og påmindelser.
+Hvad sker der, hvis jeg mister min telefon? Dit vault er gemt på din enhed og ikke inkluderet i almindelige telefonsikkerhedskopier (iCloud eller Google Backup), fordi krypteringsnøglen aldrig forlader din enhed. I stedet kan du bruge gratis Vault Export (en krypteret .tdvault-fil) til at importere på en anden enhed, eller aktivere Pro-Cloud Backup til krypteret sikkerhedskopi til dit eget iCloud eller Google Drive med en gendannelseskode som kun du har. Fungerer det uden internet? Fuldstændigt. Appen gemmer alt på din enhed og behøver aldrig en internetforbindelse. OCR-behandling, påmindelser og dokumentvisning fungerer alle offline. Er mine data virkelig sikre? Dine dokumenter er stærkt krypteret på din enhed og beskyttet af din telefons indbyggede sikkerhedschip. Designet betyder, at jeg ikke kan læse dine data, og heller ikke Apple eller Google. Du kan selv kontrollere privatlivsmodellen på siden [Privatlivsverifikation](https://traveldocumentvault.com/da/privacy-verification/). PIN-lås og biometrisk lås (Face ID/Touch ID) er begge gratis. Er det virkelig et engangskøb? Ja. Pro er $9.99 én gang, i amerikanske dollar. Hvert land viser sin egen lokale pris i butikken, før du betaler.* Intet abonnement, ingen tilbagevendende gebyrer, ingen "din prøveperiode slutter"-e-mails. Gratisniveauet er ægte gratis – 1 profil, 5 dokumenter, alle funktioner inkl. OCR og påmindelser.
 
 * For v1.x. Se [Prispolitik](https://traveldocumentvault.com/pricing-policy/#version-policy).
 

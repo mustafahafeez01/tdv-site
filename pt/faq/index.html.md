@@ -26,7 +26,7 @@ O que recolhe o Sentry de relatórios de falhas e posso desativá-lo?
 
 O Sentry é uma ferramenta de relatórios de falhas que nos ajuda a encontrar e corrigir erros. Está **desativado por predefinição** e não envia absolutamente nada quando desligado. Se optar por ativá-lo nas Definições, apenas envia diagnósticos técnicos de falhas, como o tipo de dispositivo e o que a aplicação estava a fazer quando falhou. Nunca envia os seus documentos, nomes, números de passaporte ou qualquer coisa do seu cofre.
 
-O que inclui a atualização Pro por $9.99?
+O que inclui a atualização Pro?
 
 O Pro é uma compra única que desbloqueia perfis ilimitados, documentos ilimitados, exportação combinada em PDF, cópia de segurança cifrada na nuvem para a iCloud ou o Google Drive, e temporização personalizada dos lembretes. Paga uma vez - sem subscrição, sem cobrança recorrente e sem período de teste que comece a cobrar-lhe em silêncio.
 
@@ -275,13 +275,13 @@ We **never upload** your photos anywhere. All processing (including OCR scanning
 
 Qual é a diferença entre o plano Gratuito e o Pro?
 
-**Gratuito** inclui 1 perfil e até 5 documentos com funcionalidade completa, incluindo digitalização OCR, lembretes de expiração, partilha de documentos, Bloqueio por PIN, Bloqueio Biométrico (Face ID / Touch ID) e exportação do cofre completo (.tdvault). **Pro** ($9.99 pagamento único*) desbloqueia perfis ilimitados, documentos ilimitados, exportação combinada em PDF, cópia de segurança na nuvem encriptada, personalização de lembretes e captura de várias páginas para Bilhetes de Avião e Outros Documentos.
+**Gratuito** inclui 1 perfil e até 5 documentos com funcionalidade completa, incluindo digitalização OCR, lembretes de expiração, partilha de documentos, Bloqueio por PIN, Bloqueio Biométrico (Face ID / Touch ID) e exportação do cofre completo (.tdvault). **Pro** (pagamento único*) desbloqueia perfis ilimitados, documentos ilimitados, exportação combinada em PDF, cópia de segurança na nuvem encriptada, personalização de lembretes e captura de várias páginas para Bilhetes de Avião e Outros Documentos.
 
 * Ver [Política de Preços](https://traveldocumentvault.com/pricing-policy/#version-policy) para detalhes sobre versões.
 
 O Pro é uma subscrição?
 
-**Não.** O Pro é uma compra única de $9.99. Pague uma vez, todas as atualizações v1.x incluídas, para sempre. Sem cobranças recorrentes, sem subscrição.
+**Não.** O Pro é uma compra única. Pague uma vez, todas as atualizações v1.x incluídas, para sempre. Sem cobranças recorrentes, sem subscrição.
 
 [Sobre a nossa política de versões →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -299,7 +299,7 @@ Saiba mais na nossa [Política de Preços](https://traveldocumentvault.com/prici
 
 O que significa "todas as atualizações v1.x incluídas"?
 
-A sua compra de $9.99 cobre todas as atualizações dentro da versão principal atual, ou seja, todas as correções de erros, patches de segurança e novas funcionalidades lançadas como v1.1, v1.2, v1.3, e assim por diante. A sua aplicação continua a funcionar e a melhorar sem custos adicionais.
+A sua compra cobre todas as atualizações dentro da versão principal atual, ou seja, todas as correções de erros, patches de segurança e novas funcionalidades lançadas como v1.1, v1.2, v1.3, e assim por diante. A sua aplicação continua a funcionar e a melhorar sem custos adicionais.
 
 Se uma versão principal futura (v2.0) for lançada com um conjunto de funcionalidades significativamente reconstruído, poderá ser oferecida como uma compra separada. Nunca será forçado a atualizar, a sua versão atual continua a funcionar exatamente como hoje. Consulte a nossa [política de versões completa](https://traveldocumentvault.com/pricing-policy/#version-policy) para mais detalhes.
 

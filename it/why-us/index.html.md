@@ -77,7 +77,7 @@ Queste sono tutte scelte ragionevoli. Ognuna funziona, fino a un certo punto.
 
 **Funziona:** Alta sicurezza e accesso offline.
 
-**Limite:** Trattano un passaporto come uno scontrino della spesa e mancano della logica specifica per i viaggi. Abbiamo costruito questo specificamente per i viaggiatori, offrendo un generoso piano gratuito con 5 documenti e un prezzo diretto di $9.99 una tantum senza abbonamenti ricorrenti.
+**Limite:** Trattano un passaporto come uno scontrino della spesa e mancano della logica specifica per i viaggi. Abbiamo costruito questo specificamente per i viaggiatori, offrendo un generoso piano gratuito con 5 documenti e un prezzo diretto una tantum senza abbonamenti ricorrenti.
 
 ### Rullino / Foto
 
@@ -113,18 +113,18 @@ Queste sono tutte scelte ragionevoli. Ognuna funziona, fino a un certo punto.
 
 Ogni alternativa fa bene una o due cose. Solo una le fa tutte.
 
-| Funzionalità | Travel Document Vault | Apple Wallet | Foto / Drive | 1Password |
+| Funzionalità | Travel Document Vault | App wallet | Libreria foto / cloud | Gestore password |
 |---|---|---|---|---|
 | Promemoria scadenza | ✓6 mesi prima | ✗ | ✗ | ✗ |
 | Profili famiglia | ✓Illimitati (Pro) | ✗ | ✗ | ~Solo archivi condivisi |
-| Nessun sync cloud | ✓Solo sul dispositivo | ✗Sync iCloud | ✗Cloud-first | ✗Cloud-first |
+| Nessun sync cloud | ✓Solo sul dispositivo | ✗Sync cloud | ✗Cloud-first | ✗Cloud-first |
 | Tipi documenti specifici | ✓Passaporto, visto, ID... | ~Solo carte imbarco | ✗ | ✗ |
 | Funziona offline | ✓ | ✓ | ~Serve cache precedente | ✓ |
-| Nessun account richiesto | ✓ | ~Richiede Apple ID | ✗ | ✗ |
-| Nessun abbonamento | ✓$9.99 una tantum | ✓ | ~Gratuito ma con pubblicità | ✗$36/anno+ |
+| Nessun account richiesto | ✓ | ~Richiede account della piattaforma | ✗ | ✗ |
+| Nessun abbonamento | ✓una tantum | ✓ | ~Gratuito, livelli con pubblicità variabili | ✗generalmente $30-40/anno |
 | Checklist preparazione (per viaggio) | ✓Sì | ✗ | ✗ | ✗ |
 | Limiti giornalieri personalizzati per paese (giorni-in / giorni-fuori) | ✓ | ✗ | ✗ | ✗ |
-| Sync cloud crittografato (vostro cloud) | ✓Vostro iCloud / GDrive | ~Solo Apple ID | ~Solo Google Drive/Dropbox | ~Loro server |
+| Sync cloud crittografato (vostro cloud) | ✓Il vostro cloud | ~Solo account della piattaforma | ~Solo fornitore cloud | ~Server del fornitore |
 
 ✓ Supportato ~ Parziale ✗ Non supportato
 
@@ -166,9 +166,11 @@ I Suoi documenti sono sempre sul Suo dispositivo, sempre accessibili. Nessuna co
 
 ### Paghi Una Volta. Nessun Abbonamento.
 
-**Inizi gratuitamente.** Archivi fino a 5 documenti, molto più generoso dello standard del settore di 2. Promemoria completi e sicurezza inclusi.
+**Inizi gratuitamente.** Archivi fino a 5 documenti con promemoria completi e crittografia. Esegua l'upgrade in qualsiasi momento per uno spazio illimitato.
 
-Mentre i concorrenti fanno pagare $14.99 all'anno o $39.99 per una licenza a vita, Travel Document Vault è un **acquisto una tantum di $9.99.** Tutto illimitato. Nessun addebito ricorrente.
+Travel Document Vault è un **acquisto una tantum** di $9.99. Profili e documenti illimitati, nessun addebito ricorrente, e nessuna data di rinnovo da ricordare.
+
+Prezzo in dollari statunitensi. Fissiamo il prezzo di ogni Paese a livello locale invece di convertirlo dal dollaro, e l'App Store o Google Play Le mostra il Suo prima dell'acquisto.
 
 [Sulla nostra politica versioni →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -303,9 +305,9 @@ Questa app è progettata per le realtà pratiche, non per l'archiviazione generi
 
 Le domande che riceviamo più spesso.
 
-Cosa succede se perdo il telefono? I Suoi documenti vivono sul Suo dispositivo, quindi un normale backup del telefono (iCloud o Backup Google) li include. Quando ripristina su un nuovo telefono, il Suo archivio viene con esso. Gli utenti Pro possono anche creare backup crittografati in qualsiasi momento. Funziona senza internet? Completamente. L'app archivia tutto sul Suo dispositivo e non ha mai bisogno di una connessione internet. L'elaborazione OCR, i promemoria e la visualizzazione dei documenti funzionano tutti offline. I miei dati sono davvero al sicuro? La progettazione significa che io non posso leggere i Suoi dati, e nemmeno Apple o Google. Può verificare il modello di privacy da solo sulla [pagina Verifica Privacy](https://traveldocumentvault.com/it/privacy-verification/). È davvero un acquisto una tantum? Sì. Pro è $9.99 una volta sola.* Nessun abbonamento, nessun addebito ricorrente, nessuna email "la prova sta per scadere". Il piano gratuito è genuinamente gratuito, 1 profilo, 5 documenti, tutte le funzionalità incluse OCR e promemoria.
+Cosa succede se perdo il telefono? I Suoi documenti vivono sul Suo dispositivo, quindi un normale backup del telefono (iCloud o Backup Google) li include. Quando ripristina su un nuovo telefono, il Suo archivio viene con esso. Gli utenti Pro possono anche creare backup crittografati in qualsiasi momento. Funziona senza internet? Completamente. L'app archivia tutto sul Suo dispositivo e non ha mai bisogno di una connessione internet. L'elaborazione OCR, i promemoria e la visualizzazione dei documenti funzionano tutti offline. I miei dati sono davvero al sicuro? La progettazione significa che io non posso leggere i Suoi dati, e nemmeno Apple o Google. Può verificare il modello di privacy da solo sulla [pagina Verifica Privacy](https://traveldocumentvault.com/it/privacy-verification/). È davvero un acquisto una tantum? Sì. Pro costa $9.99 (dollari statunitensi), una volta sola, e ogni Paese ha il proprio prezzo locale mostrato nello store prima dell'acquisto. Nessun abbonamento, nessun addebito ricorrente, nessuna email "la prova sta per scadere". Il piano gratuito è genuinamente gratuito, 1 profilo, 5 documenti, tutte le funzionalità incluse OCR e promemoria.
 
-* Per v1.x. Consulti la [Politica dei Prezzi](https://traveldocumentvault.com/pricing-policy/#version-policy).
+Vale per la v1.x. Consulti la [Politica dei Prezzi](https://traveldocumentvault.com/pricing-policy/#version-policy).
 
 Posso usarla per più dei soli passaporti? Sì. Supporta passaporti, visti, documenti d'identità, patenti, tessere assicurative, biglietti aerei e qualsiasi tipo di documento di cui ha bisogno. Ogni tipo ha la propria sovrapposizione di acquisizione guidata. [Vedi tutte le Domande Frequenti →](https://traveldocumentvault.com/it/faq/)
 

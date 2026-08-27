@@ -26,7 +26,7 @@ Apa yang dikumpulkan pelaporan kerusakan Sentry, dan bisakah saya menonaktifkann
 
 Sentry adalah alat pelaporan kerusakan yang membantu kami menemukan dan memperbaiki bug. Alat ini **dinonaktifkan secara default** dan tidak mengirimkan apa pun ketika dimatikan. Jika Anda memilih untuk mengaktifkannya di Pengaturan, alat ini hanya mengirimkan diagnostik kerusakan teknis seperti jenis perangkat Anda dan apa yang dilakukan aplikasi saat terjadi kerusakan. Alat ini tidak pernah mengirimkan dokumen, nama, nomor paspor, atau apa pun dari vault Anda.
 
-Apa yang termasuk dalam upgrade Pro $9.99?
+Apa yang termasuk dalam upgrade Pro?
 
 Pro adalah pembelian sekali bayar yang membuka profil tanpa batas, dokumen tanpa batas, ekspor PDF gabungan, cadangan cloud terenkripsi ke iCloud atau Google Drive, dan pengaturan waktu pengingat sendiri. Anda membayar sekali - tanpa langganan, tanpa tagihan berulang, dan tanpa masa uji coba yang diam-diam mulai menagih Anda.
 
@@ -248,13 +248,13 @@ Kami **tidak pernah mengunggah** foto Anda ke mana pun. Semua pemrosesan (termas
 
 Apa perbedaan antara Gratis dan Pro?
 
-**Gratis** mencakup 1 profil dan hingga 5 dokumen dengan fungsionalitas penuh, termasuk pemindaian OCR, pengingat kedaluwarsa, berbagi dokumen, Kunci PIN, dan Kunci Biometrik (Face ID / Touch ID). **Pro** ($9.99 satu kali*) membuka profil tak terbatas, dokumen tak terbatas, ekspor PDF gabungan, ekspor batch (.tdvault), pengaturan waktu pengingat kustom, dan pengambilan multi-halaman untuk Tiket Pesawat dan Dokumen Lainnya.
+**Gratis** mencakup 1 profil dan hingga 5 dokumen dengan fungsionalitas penuh, termasuk pemindaian OCR, pengingat kedaluwarsa, berbagi dokumen, Kunci PIN, dan Kunci Biometrik (Face ID / Touch ID). **Pro** (sekali bayar*) membuka profil tak terbatas, dokumen tak terbatas, ekspor PDF gabungan, ekspor batch (.tdvault), pengaturan waktu pengingat kustom, dan pengambilan multi-halaman untuk Tiket Pesawat dan Dokumen Lainnya.
 
 * Lihat [Kebijakan Harga](https://traveldocumentvault.com/pricing-policy/#version-policy) untuk detail versi.
 
 Apakah Pro berupa langganan?
 
-**Tidak.** Pro adalah pembelian satu kali sebesar $9.99. Bayar sekali, semua pembaruan v1.x disertakan, selamanya. Tidak ada biaya berulang, tidak ada langganan.
+**Tidak.** Pro adalah pembelian satu kali. Bayar sekali, semua pembaruan v1.x disertakan, selamanya. Tidak ada biaya berulang, tidak ada langganan.
 
 [Tentang kebijakan versi kami →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -272,7 +272,7 @@ Pelajari selengkapnya di [Kebijakan Harga](https://traveldocumentvault.com/prici
 
 Apa maksud "semua pembaruan v1.x disertakan"?
 
-Pembelian $9.99 Anda mencakup setiap pembaruan dalam versi mayor saat ini, itu berarti semua perbaikan bug, patch keamanan, dan fitur baru yang dirilis sebagai v1.1, v1.2, v1.3, dan seterusnya. Aplikasi Anda terus bekerja dan meningkat tanpa biaya tambahan.
+Pembelian Pro Anda mencakup setiap pembaruan dalam versi mayor saat ini, itu berarti semua perbaikan bug, patch keamanan, dan fitur baru yang dirilis sebagai v1.1, v1.2, v1.3, dan seterusnya. Aplikasi Anda terus bekerja dan meningkat tanpa biaya tambahan.
 
 Jika versi mayor di masa mendatang (v2.0) pernah dirilis dengan set fitur yang dibangun ulang secara signifikan, itu mungkin ditawarkan sebagai pembelian terpisah. Anda tidak akan pernah dipaksa untuk meningkatkan, versi Anda saat ini terus bekerja persis seperti sekarang. Lihat [kebijakan versi lengkap](https://traveldocumentvault.com/pricing-policy/#version-policy) kami untuk detail.
 

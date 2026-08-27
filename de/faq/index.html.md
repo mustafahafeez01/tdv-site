@@ -26,7 +26,7 @@ Was erfasst die Sentry-Absturzberichterstattung, und kann ich sie deaktivieren?
 
 Sentry ist ein Absturzbericht-Tool, das uns hilft, Fehler zu finden und zu beheben. Es ist **standardmäßig deaktiviert** und sendet bei Deaktivierung absolut nichts. Wenn Sie es in den Einstellungen aktivieren, sendet es nur technische Absturzdiagnosen wie Ihren Gerätetyp und was die App beim Absturz tat. Es sendet niemals Ihre Dokumente, Namen, Passnummern oder irgendetwas aus Ihrem Tresor.
 
-Was beinhaltet das Pro-Upgrade für $9.99?
+Was beinhaltet das Pro-Upgrade?
 
 Pro ist ein einmaliger Kauf, der unbegrenzte Profile, unbegrenzte Dokumente, kombinierten PDF-Export, verschlüsseltes Cloud-Backup in iCloud oder Google Drive und individuelle Erinnerungszeiten freischaltet. Sie zahlen einmal - kein Abonnement, keine wiederkehrende Gebühr und keine Testphase, die still mit der Abrechnung beginnt.
 
@@ -275,13 +275,13 @@ Wir **laden Ihre Fotos niemals** irgendwo hoch. Die gesamte Verarbeitung (einsch
 
 Was ist der Unterschied zwischen Kostenlos und Pro?
 
-**Kostenlos** umfasst 1 Profil und bis zu 5 Dokumente mit vollem Funktionsumfang, einschließlich OCR-Scanning, Ablauferinnerungen, Dokumententeilen, PIN-Sperre, Biometrischer Sperre (Face ID / Touch ID) und dem Export des gesamten Tresors (.tdvault). **Pro** ($9.99 einmalig*) schaltet unbegrenzte Profile, unbegrenzte Dokumente, kombinierten PDF-Export, verschlüsselte Cloud-Sicherung, benutzerdefinierte Erinnerungszeiten und mehrseitige Aufnahme für Flugtickets und Sonstige Dokumente frei.
+**Kostenlos** umfasst 1 Profil und bis zu 5 Dokumente mit vollem Funktionsumfang, einschließlich OCR-Scanning, Ablauferinnerungen, Dokumententeilen, PIN-Sperre, Biometrischer Sperre (Face ID / Touch ID) und dem Export des gesamten Tresors (.tdvault). **Pro** (einmaliger Kauf*) schaltet unbegrenzte Profile, unbegrenzte Dokumente, kombinierten PDF-Export, verschlüsselte Cloud-Sicherung, benutzerdefinierte Erinnerungszeiten und mehrseitige Aufnahme für Flugtickets und Sonstige Dokumente frei.
 
 * Siehe [Preisrichtlinie](https://traveldocumentvault.com/pricing-policy/#version-policy) für Versionierungsdetails.
 
 Ist Pro ein Abonnement?
 
-**Nein.** Pro ist ein Einmalkauf für $9.99. Einmal zahlen, alle v1.x-Updates für immer inbegriffen. Keine wiederkehrenden Kosten, kein Abo.
+**Nein.** Pro ist ein Einmalkauf. Einmal zahlen, alle v1.x-Updates für immer inbegriffen. Keine wiederkehrenden Kosten, kein Abo.
 
 [Über unsere Versionsrichtlinie →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -299,7 +299,7 @@ Erfahren Sie mehr in unserer [Preisrichtlinie](https://traveldocumentvault.com/p
 
 Was bedeutet „alle v1.x-Updates inbegriffen"?
 
-Ihr Kauf für $9.99 umfasst alle Updates innerhalb der aktuellen Hauptversion – das bedeutet alle Fehlerbehebungen, Sicherheitspatches und neuen Funktionen, die als v1.1, v1.2, v1.3 usw. veröffentlicht werden. Ihre App bleibt funktionsfähig und verbessert sich ohne zusätzliche Kosten.
+Ihr Kauf umfasst alle Updates innerhalb der aktuellen Hauptversion – das bedeutet alle Fehlerbehebungen, Sicherheitspatches und neuen Funktionen, die als v1.1, v1.2, v1.3 usw. veröffentlicht werden. Ihre App bleibt funktionsfähig und verbessert sich ohne zusätzliche Kosten.
 
 Sollte eine zukünftige Hauptversion (v2.0) mit erheblich überarbeitetem Funktionsumfang veröffentlicht werden, kann diese als separater Kauf angeboten werden. Sie wären niemals gezwungen, ein Upgrade durchzuführen – Ihre aktuelle Version funktioniert weiterhin genau so wie heute. Weitere Details in unserer [vollständigen Versionsrichtlinie](https://traveldocumentvault.com/pricing-policy/#version-policy).
 

@@ -85,7 +85,7 @@ Todas são escolhas razoáveis. Cada uma funciona, até certo ponto.
 
 **Funciona:** Alta segurança e acesso offline.
 
-**Falha:** Tratam um passaporte como um talão de compras e carecem de lógica específica para viagens. Construímos isto especificamente para viajantes, oferecendo um generoso plano gratuito de 5 documentos e um preço único de $9.99 sem subscrições recorrentes.
+**Falha:** Tratam um passaporte como um talão de compras e carecem de lógica específica para viagens. Construímos isto especificamente para viajantes, oferecendo um generoso plano gratuito de 5 documentos e um preço único e direto sem subscrições recorrentes.
 
 ### Rolo de Câmara / Fotos
 
@@ -121,18 +121,18 @@ Todas são escolhas razoáveis. Cada uma funciona, até certo ponto.
 
 Cada alternativa faz uma ou duas coisas bem. Só uma faz todas.
 
-| Funcionalidade | Travel Document Vault | Apple Wallet | Photos / Drive | 1Password |
+| Funcionalidade | Travel Document Vault | App de wallet | Fototeca / nuvem | Gestor de palavras-passe |
 |---|---|---|---|---|
 | Lembretes de expiração | ✓6 meses antes | ✗ | ✗ | ✗ |
 | Perfis de família | ✓Ilimitados (Pro) | ✗ | ✗ | ~Apenas cofres partilhados |
-| Sem sincronização na nuvem | ✓Apenas no dispositivo | ✗Sincroniza com iCloud | ✗Nuvem em primeiro | ✗Nuvem em primeiro |
+| Sem sincronização na nuvem | ✓Apenas no dispositivo | ✗Sincroniza com a nuvem | ✗Nuvem em primeiro | ✗Nuvem em primeiro |
 | Tipos de doc. específicos de viagem | ✓Passaporte, visto, BI... | ~Só cartões de embarque | ✗ | ✗ |
 | Funciona offline | ✓ | ✓ | ~Requer cache prévia | ✓ |
-| Sem conta necessária | ✓ | ~Requer Apple ID | ✗ | ✗ |
-| Sem subscrição | ✓$9.99 pagamento único | ✓ | ~Gratuito mas com anúncios | ✗36 €/ano+ |
+| Sem conta necessária | ✓ | ~Requer conta da plataforma | ✗ | ✗ |
+| Sem subscrição | ✓pagamento único | ✓ | ~Gratuito, com níveis com anúncios variáveis | ✗normalmente $30-40/ano |
 | Lista de verificação de preparação (por viagem) | ✓Sim | ✗ | ✗ | ✗ |
 | Limites de dias personalizados por país (dias-dentro / dias-fora) | ✓ | ✗ | ✗ | ✗ |
-| Sincronização na nuvem encriptada (a sua própria nuvem) | ✓O seu iCloud / GDrive | ~Apenas ID Apple | ~Google Drive/Dropbox apenas | ~Os seus servidores |
+| Sincronização na nuvem encriptada (a sua própria nuvem) | ✓A sua própria nuvem | ~Apenas conta da plataforma | ~Apenas fornecedor de nuvem | ~Servidores do fornecedor |
 
 ✓ Suportado ~ Parcial ✗ Não suportado
 
@@ -180,9 +180,11 @@ Os seus documentos estão sempre no dispositivo, sempre acessíveis. Sem interne
 
 ### Pague Uma Vez. Sem Subscrição.
 
-**Comece gratuitamente.** Guarde até 5 documentos, muito mais generoso do que o padrão da indústria de 2. Lembretes completos e segurança incluídos.
+**Comece gratuitamente.** Guarde até 5 documentos com lembretes completos e encriptação. Faça upgrade a qualquer momento para armazenamento ilimitado.
 
-Enquanto os concorrentes cobram $14.99 por ano ou $39.99 por licença vitalícia, o Travel Document Vault é uma **compra única de $9.99.** Tudo ilimitado. Sem cobranças recorrentes.
+O Travel Document Vault é uma **compra única** de $9.99. Perfis e documentos ilimitados, sem cobranças recorrentes, e sem data de renovação a lembrar.
+
+Preço em dólares americanos. Definimos o preço de cada país localmente em vez de o converter a partir do dólar, e a App Store ou a Google Play mostra o seu antes da compra.
 
 [Sobre a nossa política de versões →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -321,9 +323,9 @@ Esta app foi concebida para realidades práticas, não para armazenamento genér
 
 As perguntas que ouvimos com mais frequência.
 
-O que acontece se perder o meu telemóvel? Os seus documentos residem no seu dispositivo. As cópias de segurança do sistema (iCloud ou Google Backup) reinstalam a aplicação mas NÃO restauram os documentos - a chave de encriptação nunca sai do seu dispositivo original. Para transferir documentos para um novo telefone, exporte o seu cofre (gratuito). Se tiver Pro, pode usar a cópia de segurança encriptada na nuvem com o seu código de recuperação para restaurar num toque. Funciona sem internet? Completamente. A app armazena tudo no seu dispositivo e nunca precisa de uma ligação à internet. O processamento OCR, os lembretes e a visualização de documentos funcionam todos offline. Os meus dados estão realmente seguros? Os seus documentos são fortemente encriptados no dispositivo e protegidos pelo chip de segurança integrado do telemóvel. Não há servidores na nuvem nem contas. O design significa que eu não consigo ler os seus dados, e nem a Apple nem a Google conseguem - pode verificar o modelo de privacidade na [página de Verificação de Privacidade](https://traveldocumentvault.com/pt/privacy-verification/). O bloqueio por PIN e o bloqueio biométrico (Face ID/Touch ID) são ambos gratuitos. É realmente uma compra única? Sim. O Pro custa $9.99 uma vez.* Sem subscrição, sem cobranças recorrentes, sem e-mails de "o seu período de avaliação está a terminar". O plano gratuito é genuinamente gratuito, 1 perfil, 5 documentos, todas as funcionalidades incluindo OCR e lembretes.
+O que acontece se perder o meu telemóvel? Os seus documentos residem no seu dispositivo. As cópias de segurança do sistema (iCloud ou Google Backup) reinstalam a aplicação mas NÃO restauram os documentos - a chave de encriptação nunca sai do seu dispositivo original. Para transferir documentos para um novo telefone, exporte o seu cofre (gratuito). Se tiver Pro, pode usar a cópia de segurança encriptada na nuvem com o seu código de recuperação para restaurar num toque. Funciona sem internet? Completamente. A app armazena tudo no seu dispositivo e nunca precisa de uma ligação à internet. O processamento OCR, os lembretes e a visualização de documentos funcionam todos offline. Os meus dados estão realmente seguros? Os seus documentos são fortemente encriptados no dispositivo e protegidos pelo chip de segurança integrado do telemóvel. Não há servidores na nuvem nem contas. O design significa que eu não consigo ler os seus dados, e nem a Apple nem a Google conseguem - pode verificar o modelo de privacidade na [página de Verificação de Privacidade](https://traveldocumentvault.com/pt/privacy-verification/). O bloqueio por PIN e o bloqueio biométrico (Face ID/Touch ID) são ambos gratuitos. É realmente uma compra única? Sim. O Pro custa $9.99 (dólares americanos), uma única vez, e cada país tem o seu próprio preço local mostrado na loja antes da compra. Sem subscrição, sem cobranças recorrentes, sem e-mails de "o seu período de avaliação está a terminar". O plano gratuito é genuinamente gratuito, 1 perfil, 5 documentos, todas as funcionalidades incluindo OCR e lembretes.
 
-* Para v1.x. Ver [Política de Preços](https://traveldocumentvault.com/pricing-policy/#version-policy).
+Aplica-se à v1.x. Ver [Política de Preços](https://traveldocumentvault.com/pricing-policy/#version-policy).
 
 Posso usá-la para mais do que passaportes? Sim. Suporta passaportes, vistos, BI, cartas de condução, cartões de seguro, bilhetes de avião e qualquer tipo de documento que precise. Cada tipo tem a sua própria sobreposição de captura guiada. [Ver todas as perguntas frequentes →](https://traveldocumentvault.com/pt/faq/)
 

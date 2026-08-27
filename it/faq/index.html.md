@@ -26,7 +26,7 @@ Cosa raccoglie il report degli arresti anomali di Sentry e posso disattivarlo?
 
 Sentry è uno strumento di segnalazione degli arresti anomali che ci aiuta a trovare e correggere i bug. È **disabilitato per impostazione predefinita** e non invia assolutamente nulla quando è disattivato. Se sceglie di abilitarlo nelle Impostazioni, invia solo diagnostica tecnica degli arresti come il tipo di dispositivo e cosa stava facendo l'app quando si è bloccata. Non invia mai i Suoi documenti, nomi, numeri di passaporto o qualsiasi cosa dal Suo caveau.
 
-Cosa include l'upgrade Pro a $9.99?
+Cosa include l'upgrade Pro?
 
 Pro è un acquisto una tantum che sblocca profili illimitati, documenti illimitati, esportazione PDF combinata, backup cloud cifrato su iCloud o Google Drive e tempi di promemoria personalizzati. Paghi una volta - nessun abbonamento, nessun addebito ricorrente e nessuna prova che inizi silenziosamente a fatturarti.
 
@@ -275,13 +275,13 @@ Non **carichiamo mai** le Sue foto da nessuna parte. Tutta l'elaborazione (inclu
 
 Qual è la differenza tra Gratuito e Pro?
 
-**Gratuito** include 1 profilo e fino a 5 documenti con funzionalità complete, inclusa la scansione OCR, i promemoria di scadenza, la condivisione di documenti, il blocco PIN, il blocco biometrico (Face ID / Touch ID) e l'esportazione dell'intero caveau (.tdvault). **Pro** ($9.99 una tantum*) sblocca profili illimitati, documenti illimitati, esportazione PDF combinata, backup cloud crittografato, tempistica dei promemoria personalizzata e acquisizione multipagina per biglietti aerei e altri documenti.
+**Gratuito** include 1 profilo e fino a 5 documenti con funzionalità complete, inclusa la scansione OCR, i promemoria di scadenza, la condivisione di documenti, il blocco PIN, il blocco biometrico (Face ID / Touch ID) e l'esportazione dell'intero caveau (.tdvault). **Pro** (acquisto una tantum*) sblocca profili illimitati, documenti illimitati, esportazione PDF combinata, backup cloud crittografato, tempistica dei promemoria personalizzata e acquisizione multipagina per biglietti aerei e altri documenti.
 
 * Vedere la [Politica dei Prezzi](https://traveldocumentvault.com/pricing-policy/#version-policy) per i dettagli sulla versione.
 
 Pro è un abbonamento?
 
-**No.** Pro è un acquisto una tantum di $9.99. Si paga una volta, tutti gli aggiornamenti v1.x inclusi, per sempre. Nessun addebito ricorrente, nessun abbonamento.
+**No.** Pro è un acquisto una tantum. Si paga una volta, tutti gli aggiornamenti v1.x inclusi, per sempre. Nessun addebito ricorrente, nessun abbonamento.
 
 [Informazioni sulla nostra politica sulle versioni →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -299,7 +299,7 @@ Maggiori informazioni nella nostra [Politica dei Prezzi](https://traveldocumentv
 
 Cosa significa "tutti gli aggiornamenti v1.x inclusi"?
 
-Il Suo acquisto di $9.99 copre ogni aggiornamento all'interno della versione principale corrente, ovvero tutte le correzioni di bug, le patch di sicurezza e le nuove funzionalità rilasciate come v1.1, v1.2, v1.3 e così via. La Sua app continua a funzionare e a migliorare senza costi aggiuntivi.
+Il Suo acquisto copre ogni aggiornamento all'interno della versione principale corrente, ovvero tutte le correzioni di bug, le patch di sicurezza e le nuove funzionalità rilasciate come v1.1, v1.2, v1.3 e così via. La Sua app continua a funzionare e a migliorare senza costi aggiuntivi.
 
 Se dovesse mai essere rilasciata una versione principale futura (v2.0) con un set di funzionalità significativamente ricostruito, potrebbe essere offerta come acquisto separato. Non sarebbe mai costretto ad aggiornare, la Sua versione corrente continua a funzionare esattamente come fa oggi. Consulti la nostra [politica di versione completa](https://traveldocumentvault.com/pricing-policy/#version-policy) per i dettagli.
 

@@ -26,7 +26,7 @@ Wat verzamelt Sentry-crashrapportage en kan ik het uitschakelen?
 
 Sentry is een crashrapportagetool die ons helpt bugs te vinden en te repareren. Het is **standaard uitgeschakeld** en verzendt helemaal niets wanneer het is uitgeschakeld. Als u ervoor kiest het in Instellingen in te schakelen, verzendt het alleen technische crashdiagnostiek zoals uw apparaattype en wat de app deed toen het crashte. Het verzendt nooit uw documenten, namen, paspoortnummers of iets uit uw kluis.
 
-Wat bevat de Pro-upgrade van $9.99?
+Wat bevat de Pro-upgrade?
 
 Pro is een eenmalige aankoop die onbeperkte profielen, onbeperkte documenten, gecombineerde PDF-export, versleutelde cloudback-up naar iCloud of Google Drive en aangepaste herinneringstijden ontgrendelt. U betaalt één keer - geen abonnement, geen terugkerende kosten en geen proefperiode die stilletjes begint af te schrijven.
 
@@ -274,13 +274,13 @@ We **uploaden nooit** uw foto's ergens naartoe. Alle verwerking (inclusief OCR-s
 
 Wat is het verschil tussen Gratis en Pro?
 
-**Gratis** bevat 1 profiel en maximaal 5 documenten met volledige functionaliteit, inclusief OCR-scanning, vervalherinneringen, documenten delen, PIN-vergrendeling en biometrische vergrendeling (Face ID / Touch ID). **Pro** ($9.99 eenmalig*) ontgrendelt onbeperkte profielen, onbeperkte documenten, gecombineerde PDF-export, batchexport (.tdvault), aangepaste herinneringstiming en meerpagina vastlegging voor Vliegkaartjes en Overige Documenten.
+**Gratis** bevat 1 profiel en maximaal 5 documenten met volledige functionaliteit, inclusief OCR-scanning, vervalherinneringen, documenten delen, PIN-vergrendeling en biometrische vergrendeling (Face ID / Touch ID). **Pro** (eenmalige aankoop*) ontgrendelt onbeperkte profielen, onbeperkte documenten, gecombineerde PDF-export, batchexport (.tdvault), aangepaste herinneringstiming en meerpagina vastlegging voor Vliegkaartjes en Overige Documenten.
 
 * Zie [Prijsbeleid](https://traveldocumentvault.com/pricing-policy/#version-policy) voor versioneringdetails.
 
 Is Pro een abonnement?
 
-**Nee.** Pro is een eenmalige aankoop van $9.99. Eenmalig betalen, alle v1.x-updates inbegrepen, voor altijd. Geen terugkerende kosten, geen abonnement.
+**Nee.** Pro is een eenmalige aankoop. Eenmalig betalen, alle v1.x-updates inbegrepen, voor altijd. Geen terugkerende kosten, geen abonnement.
 
 [Over ons versiebeleid →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -298,7 +298,7 @@ Lees meer in ons [Prijsbeleid](https://traveldocumentvault.com/pricing-policy/).
 
 Wat betekent "alle v1.x-updates inbegrepen"?
 
-Uw aankoop van $9.99 dekt elke update binnen de huidige hoofdversie, dat betekent alle bugfixes, beveiligingspatches en nieuwe functies uitgebracht als v1.1, v1.2, v1.3, enzovoort. Uw app blijft werken en verbeteren zonder extra kosten.
+Uw aankoop dekt elke update binnen de huidige hoofdversie, dat betekent alle bugfixes, beveiligingspatches en nieuwe functies uitgebracht als v1.1, v1.2, v1.3, enzovoort. Uw app blijft werken en verbeteren zonder extra kosten.
 
 Als een toekomstige hoofdversie (v2.0) ooit wordt uitgebracht met een aanzienlijk herbouwde functieset, kan dat als een afzonderlijke aankoop worden aangeboden. U wordt nooit gedwongen te upgraden, uw huidige versie blijft precies werken zoals vandaag. Zie ons [volledig versiebeleid](https://traveldocumentvault.com/pricing-policy/#version-policy) voor details.
 

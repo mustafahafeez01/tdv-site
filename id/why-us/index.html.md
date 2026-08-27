@@ -69,7 +69,7 @@ Ini semua pilihan yang wajar. Masing-masing bekerja - hingga batas tertentu.
 
 **Keunggulan:** Keamanan tinggi dan akses offline.
 
-**Kekurangan:** Mereka memperlakukan paspor seperti kuitansi belanja dan tidak memiliki logika khusus perjalanan. Kami membangun ini khusus untuk pelancong, menawarkan tingkat gratis yang dermawan dengan 5 dokumen dan harga sekali bayar $9.99 tanpa langganan berulang.
+**Kekurangan:** Mereka memperlakukan paspor seperti kuitansi belanja dan tidak memiliki logika khusus perjalanan. Kami membangun ini khusus untuk pelancong, menawarkan tingkat gratis yang dermawan dengan 5 dokumen dan harga sekali bayar yang jelas tanpa langganan berulang.
 
 ### Galeri / Foto
 
@@ -105,15 +105,15 @@ Ini semua pilihan yang wajar. Masing-masing bekerja - hingga batas tertentu.
 
 Setiap alternatif melakukan satu atau dua hal dengan baik. Hanya satu yang melakukan semuanya.
 
-| Fitur | Travel Document Vault | Apple Wallet | Foto / Drive | 1Password |
+| Fitur | Travel Document Vault | Aplikasi wallet | Galeri foto / penyimpanan cloud | Pengelola kata sandi |
 |---|---|---|---|---|
 | Pengingat kedaluwarsa | ✓6 bln lebih awal | ✗ | ✗ | ✗ |
 | Profil keluarga | ✓Tak terbatas (Pro) | ✗ | ✗ | ~Vault bersama saja |
-| Tanpa sinkronisasi cloud | ✓Hanya di perangkat | ✗Sinkronisasi iCloud | ✗Berbasis cloud | ✗Berbasis cloud |
+| Tanpa sinkronisasi cloud | ✓Hanya di perangkat | ✗Sinkronisasi cloud | ✗Berbasis cloud | ✗Berbasis cloud |
 | Jenis dokumen perjalanan | ✓Paspor, visa, KTP... | ~Hanya boarding pass | ✗ | ✗ |
 | Bekerja offline | ✓ | ✓ | ~Perlu cache dulu | ✓ |
-| Tanpa akun | ✓ | ~Butuh Apple ID | ✗ | ✗ |
-| Tanpa langganan | ✓$9.99 sekali bayar | ✓ | ~Gratis tapi didukung iklan | ✗$36/th+ |
+| Tanpa akun | ✓ | ~Butuh akun platform | ✗ | ✗ |
+| Tanpa langganan | ✓sekali bayar | ✓ | ~Gratis, tingkatan berlanjut iklan bervariasi | ✗umumnya $30-40/thn |
 
 ✓ Didukung ~ Sebagian ✗ Tidak didukung
 
@@ -155,9 +155,11 @@ Dokumen Anda selalu ada di perangkat, selalu dapat diakses. Tidak perlu internet
 
 ### Bayar Sekali. Tanpa Langganan.
 
-**Mulai gratis.** Simpan hingga 5 dokumen - jauh lebih dermawan dari standar industri yang hanya 2. Semua pengingat dan keamanan sudah termasuk.
+**Mulai gratis.** Simpan hingga 5 dokumen dengan pengingat dan keamanan penuh. Tingkatkan kapan saja untuk penyimpanan tak terbatas.
 
-Sementara pesaing mengenakan $14.99 per tahun atau $39.99 untuk lisensi seumur hidup, Travel Document Vault adalah **pembelian sekali bayar $9.99.** Semua fitur tak terbatas. Tanpa biaya berulang.
+Travel Document Vault adalah **pembelian sekali bayar** seharga $9.99. Semua fitur tak terbatas, tanpa biaya berulang, dan tanpa tanggal perpanjangan yang perlu diingat.
+
+Harga dalam dolar AS. Kami menetapkan harga tiap negara secara lokal, bukan hasil konversi dari dolar, dan jumlah sebenarnya ditampilkan di App Store atau Google Play sebelum Anda membayar.
 
 [Tentang kebijakan versi kami →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -296,7 +298,7 @@ Aplikasi ini dirancang untuk realitas praktis, bukan penyimpanan file generik.
 
 Pertanyaan yang paling sering kami dengar.
 
-Apa yang terjadi jika saya kehilangan ponsel? Dokumen Anda tersimpan di perangkat, dan kunci enkripsi tidak pernah meninggalkannya. Cadangan ponsel sistem (iCloud atau Google Backup) menginstal ulang aplikasi tetapi tidak dapat memulihkan dokumen Anda. Semua orang dapat mengekspor vault mereka sebagai file terenkripsi .tdvault gratis dari Pengaturan. Pengguna Pro dapat membuat cadangan cloud terenkripsi ke iCloud atau Google Drive pribadi mereka dengan pemulihan satu ketukan di perangkat baru menggunakan kode pemulihan mereka. Apakah berfungsi tanpa internet? Sepenuhnya. Aplikasi menyimpan segalanya di perangkat Anda dan tidak pernah membutuhkan koneksi internet. Pemrosesan OCR, pengingat, dan melihat dokumen semuanya bekerja secara offline. Apakah data saya benar-benar aman? Desain ini berarti saya tidak dapat membaca data Anda, demikian pula Apple atau Google. Anda dapat memeriksa model privasi sendiri di halaman [Verifikasi Privasi](https://traveldocumentvault.com/id/privacy-verification/). Apakah benar-benar pembelian sekali bayar? Ya. Pro seharga $9.99 sekali bayar.* Tanpa langganan, tanpa biaya berulang, tanpa email "masa uji coba Anda hampir berakhir". Tingkat gratis benar-benar gratis - 1 profil, 5 dokumen, semua fitur termasuk OCR dan pengingat.
+Apa yang terjadi jika saya kehilangan ponsel? Dokumen Anda tersimpan di perangkat, dan kunci enkripsi tidak pernah meninggalkannya. Cadangan ponsel sistem (iCloud atau Google Backup) menginstal ulang aplikasi tetapi tidak dapat memulihkan dokumen Anda. Semua orang dapat mengekspor vault mereka sebagai file terenkripsi .tdvault gratis dari Pengaturan. Pengguna Pro dapat membuat cadangan cloud terenkripsi ke iCloud atau Google Drive pribadi mereka dengan pemulihan satu ketukan di perangkat baru menggunakan kode pemulihan mereka. Apakah berfungsi tanpa internet? Sepenuhnya. Aplikasi menyimpan segalanya di perangkat Anda dan tidak pernah membutuhkan koneksi internet. Pemrosesan OCR, pengingat, dan melihat dokumen semuanya bekerja secara offline. Apakah data saya benar-benar aman? Desain ini berarti saya tidak dapat membaca data Anda, demikian pula Apple atau Google. Anda dapat memeriksa model privasi sendiri di halaman [Verifikasi Privasi](https://traveldocumentvault.com/id/privacy-verification/). Apakah benar-benar pembelian sekali bayar? Ya. Pro adalah pembelian sekali bayar.* Tanpa langganan, tanpa biaya berulang, tanpa email "masa uji coba Anda hampir berakhir". Tingkat gratis benar-benar gratis - 1 profil, 5 dokumen, semua fitur termasuk OCR dan pengingat.
 
 * Untuk v1.x. Lihat [Kebijakan Harga](https://traveldocumentvault.com/pricing-policy/#version-policy).
 

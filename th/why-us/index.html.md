@@ -65,109 +65,111 @@ Mustafa Hafeez
 
 ตัวเลือกเหล่านี้ดูเหมือนจะสมควร ซึ่งแต่ละอย่างทำงานได้ - จนถึงจุดหนึ่ง
 
-### General-Purpose Vaults
+### แอปเก็บข้อมูลทั่วไป
 
-**Works:** High security and offline access.
+**ข้อดี:** ความปลอดภัยสูงและเข้าถึงได้แบบออฟไลน์
 
-**Falls short:** They treat a passport like a grocery receipt and lack travel-specific logic. We built this specifically for travellers, offering a generous 5-document free tier and a straightforward $9.99 one-time price without any recurring subscriptions.
+**จุดอ่อน:** ระบบเหล่านี้มองหนังสือเดินทางเหมือนใบเสร็จซื้อของ ไม่มีตรรกะที่ออกแบบมาสำหรับการเดินทางโดยเฉพาะ เราสร้างแอปนี้ขึ้นมาเพื่อนักเดินทางโดยตรง ให้ระดับฟรีจัดเก็บได้ถึง 5 เอกสาร และราคาซื้อครั้งเดียวที่ชัดเจน ไม่มีการสมัครสมาชิกใด ๆ
 
-### Camera Roll / Photos
+### ม้วนกล้อง / รูปภาพ
 
-**Works:** Always with you.
+**ข้อดี:** ติดตัวคุณตลอดเวลา
 
-**Falls short:** Buried in thousands of photos with no expiry tracking, no organisation, and no security beyond your phone lock.
+**จุดอ่อน:** จมอยู่ในรูปภาพนับพัน ไม่มีการติดตามวันหมดอายุ ไม่มีการจัดระเบียบ และไม่มีความปลอดภัยใด ๆ นอกเหนือจากรหัสล็อกหน้าจอโทรศัพท์
 
-### Cloud Storage
+### พื้นที่เก็บข้อมูลบนคลาวด์
 
-**Works:** Has offline mode and syncs across devices.
+**ข้อดี:** มีโหมดออฟไลน์และซิงค์ข้ามอุปกรณ์ได้
 
-**Falls short:** You store your passport, check the expiry date, switch to a calendar app to set a reminder, then remember which folder had your spouse's documents. It's three apps doing the job of one-and none of them know it's a passport that expires.
+**จุดอ่อน:** คุณเก็บรูปหนังสือเดินทาง ตรวจวันหมดอายุ สลับไปแอปปฏิทินเพื่อตั้งเตือน แล้วต้องจำให้ได้ว่าโฟลเดอร์ไหนเก็บเอกสารของคู่สมรส นี่คือสามแอปที่ทำงานของแอปเดียว และไม่มีแอปไหนรู้เลยว่านี่คือหนังสือเดินทางที่มีวันหมดอายุ
 
-### Password Managers
+### แอปจัดการรหัสผ่าน
 
-**Works:** Great for passwords.
+**ข้อดี:** ยอดเยี่ยมสำหรับเก็บรหัสผ่าน
 
-**Falls short:** Not designed for document images, expiry tracking, or family organisation. A passport photo in a password field is a workaround, not a solution.
+**จุดอ่อน:** ไม่ได้ออกแบบมาสำหรับรูปเอกสาร การติดตามวันหมดอายุ หรือการจัดระเบียบของครอบครัว การแปะรูปหนังสือเดินทางไว้ในช่องรหัสผ่านเป็นแค่ทางลัด ไม่ใช่ทางแก้ปัญหา
 
-### Note-Taking Apps
+### แอปจดบันทึก
 
-**Works:** Flexible and familiar.
+**ข้อดี:** ยืดหยุ่นและใช้งานคุ้นเคย
 
-**Falls short:** No expiry reminders, no guided capture, and your passport photo sits next to your grocery list with no encryption.
+**จุดอ่อน:** ไม่มีการแจ้งเตือนวันหมดอายุ ไม่มีระบบถ่ายภาพแนะนำ และรูปหนังสือเดินทางของคุณอยู่ปะปนกับรายการซื้อของโดยไม่มีการเข้ารหัสใด ๆ
 
-### Spreadsheets
+### สเปรดชีต
 
-**Works:** Excellent for planning itineraries and typing out details.
+**ข้อดี:** เหมาะมากสำหรับวางแผนการเดินทางและพิมพ์รายละเอียด
 
-**Falls short:** No secure image attachments, terrible formatting on mobile screens at the airport, and no automated expiry reminders before your trip.
+**จุดอ่อน:** ไม่มีการแนบรูปภาพอย่างปลอดภัย จัดรูปแบบได้แย่มากบนหน้าจอมือถือตอนอยู่ที่สนามบิน และไม่มีการแจ้งเตือนวันหมดอายุอัตโนมัติก่อนออกเดินทาง
 
 ## วิธีที่มันเทียบเคียง
 
 ทางเลือกอื่น ๆ ทำได้ดีในสิ่งเดียวหรือสองสิ่ง มีเพียงอันเดียวที่ทำได้ทั้งหมด
 
-| คุณลักษณะ | Travel Document Vault | Apple Wallet | Photos / Drive | 1Password |
+| คุณลักษณะ | Travel Document Vault | แอปกระเป๋าเงิน | คลังรูปภาพ / พื้นที่เก็บข้อมูลคลาวด์ | โปรแกรมจัดการรหัสผ่าน |
 |---|---|---|---|---|
 | การแจ้งเตือนเมื่อหมดอายุ | ✓8 เดือนก่อน | ✗ | ✗ | ✗ |
 | โปรไฟล์ครอบครัว | ✓ไม่จำกัด (Pro) | ✗ | ✗ | ~ร่วมกำแพงเท่านั้น |
-| ไม่มีการซิงค์บนคลาวด์ | ✓อุปกรณ์เท่านั้น | ✗iCloud sync | ✗Cloud-first | ✗Cloud-first |
-| ประเภทเอกสารเฉพาะการเดินทาง | ✓Passport, visa, ID... | ~เพียงบัตรโดยสารเท่านั้น | ✗ | ✗ |
+| ไม่มีการซิงค์บนคลาวด์ | ✓อุปกรณ์เท่านั้น | ✗การซิงค์คลาวด์ | ✗อิงคลาวด์เป็นหลัก | ✗อิงคลาวด์เป็นหลัก |
+| ประเภทเอกสารเฉพาะการเดินทาง | ✓หนังสือเดินทาง วีซ่า บัตรประจำตัว... | ~เพียงบัตรโดยสารเท่านั้น | ✗ | ✗ |
 | ทำงานออฟไลน์ | ✓ | ✓ | ~ต้องแคชก่อน | ✓ |
-| ไม่จำเป็นต้องมีบัญชี | ✓ | ~ต้องมี Apple ID | ✗ | ✗ |
-| ไม่มีการสมัครสมาชิก | ✓$9.99 ครั้งเดียว | ✓ | ~ฟรี แต่มีโฆษณา | ✗$36/yr+ |
+| ไม่จำเป็นต้องมีบัญชี | ✓ | ~ต้องมีบัญชีแพลตฟอร์ม | ✗ | ✗ |
+| ไม่มีการสมัครสมาชิก | ✓ครั้งเดียว | ✓ | ~ฟรี แต่ระดับที่มีโฆษณาแตกต่างกันไป | ✗โดยทั่วไป $30-40/ปี |
 
-✓ Supported ~ Partial ✗ Not supported
+✓ รองรับ ~ รองรับบางส่วน ✗ ไม่รองรับ
 
-## One App. Everything Organised.
+## แอปเดียว จัดระเบียบครบทุกอย่าง
 
-Built by a parent who needed relief, not another list to manage.
+สร้างขึ้นโดยพ่อแม่คนหนึ่งที่ต้องการความสบายใจ ไม่ใช่รายการที่ต้องจัดการเพิ่มอีกรายการ
 
-### Your Device. Your Documents. Nobody Else.
+### อุปกรณ์ของคุณ เอกสารของคุณ ไม่มีใครอื่น
 
-I could have built cloud sync. Every other app does.
+ฉันสามารถสร้างระบบซิงค์คลาวด์ได้ แอปอื่น ๆ ก็ทำแบบนั้นกันหมด
 
-But would I trust a stranger's server with photos of my kids' passports? **Never.**
+แต่ฉันจะไว้ใจให้เซิร์ฟเวอร์ของคนแปลกหน้าเก็บรูปหนังสือเดินทางของลูก ๆ ได้จริงหรือ? **ไม่มีทาง**
 
-Everything stays on your device. Period.
+ทุกอย่างอยู่บนอุปกรณ์ของคุณเท่านั้น จบ
 
 การซิงค์บนคลาวด์ปิดใช้งานโดยค่าเริ่มต้น หากคุณเปิดใช้งาน (Pro) ห้องเก็บของของคุณจะเข้ารหัสบนอุปกรณ์ของคุณก่อนอัปโหลด และไปยัง iCloud หรือ Google Drive ของคุณเอง ปิดผนึกด้วยรหัสการกู้คืนเพียงคนเดียว ไม่มีใครรวมถึงเรา Apple หรือ Google สามารถอ่านได้ สัญญานี้บังคับใช้โดยโค้ด ไม่ใช่นโยบาย
 
-AES-256-GCM encryption at rest. Encrypted backups use PBKDF2 key derivation. [Full privacy policy](https://traveldocumentvault.com/privacy-policy/)
+เข้ารหัสข้อมูลที่จัดเก็บด้วย AES-256-GCM การสำรองข้อมูลที่เข้ารหัสใช้การอนุมานคีย์แบบ PBKDF2 [อ่านนโยบายความเป็นส่วนตัวฉบับเต็ม](https://traveldocumentvault.com/privacy-policy/)
 
-### Expiry Reminders, Months Ahead
+### แจ้งเตือนวันหมดอายุล่วงหน้าหลายเดือน
 
-Passport renewals take 6 to 8 weeks. **Reminders start 8 months early** and cascade down automatically.
+การต่ออายุหนังสือเดินทางใช้เวลา 6 ถึง 8 สัปดาห์ **การแจ้งเตือนเริ่มต้นล่วงหน้า 8 เดือน** และทยอยแจ้งเตือนต่อเนื่องโดยอัตโนมัติ
 
-Six months. Three months. Six weeks. Expiry day. Helping you stay ahead of renewal deadlines.
+หกเดือน สามเดือน หกสัปดาห์ วันหมดอายุ ช่วยให้คุณไม่พลาดกำหนดการต่ออายุ
 
-Works for passports, visas, licenses, insurance, anything with an expiry date.
+ใช้ได้กับหนังสือเดินทาง วีซ่า ใบอนุญาต ประกันภัย และเอกสารใด ๆ ที่มีวันหมดอายุ
 
-### Family Passport Organiser, One Tap Away
+### จัดระเบียบเอกสารครอบครัว แค่แตะเดียวก็เห็นครบ
 
-You're the one who remembers which kid's passport expires first. Whether the insurance covers everyone. When the visas need renewing.
+คุณคือคนที่ต้องจำให้ได้ว่าหนังสือเดินทางของลูกคนไหนหมดอายุก่อน ประกันครอบคลุมทุกคนหรือไม่ วีซ่าต้องต่ออายุเมื่อไร
 
-**One profile per family member.** One tap to see everything. Built for the person who carries it all.
+**หนึ่งโปรไฟล์ต่อสมาชิกครอบครัวหนึ่งคน** แตะเดียวเห็นทุกอย่าง สร้างมาเพื่อคนที่แบกรับทุกเรื่องไว้คนเดียว
 
-### Works Offline. Everywhere.
+### ทำงานออฟไลน์ ได้ทุกที่
 
-Spotty airport Wi-Fi? Foreign embassy with no signal? Airplane mode?
+Wi-Fi สนามบินสัญญาณห่วย? สถานทูตต่างประเทศไม่มีสัญญาณ? โหมดเครื่องบิน?
 
-Your documents are always on your device, always accessible. No internet required, ever.
+เอกสารของคุณอยู่บนอุปกรณ์เสมอ เข้าถึงได้ตลอดเวลา ไม่ต้องพึ่งอินเทอร์เน็ตเลย
 
-### Pay Once. No Subscription.
+### จ่ายครั้งเดียว ไม่มีการสมัครสมาชิก
 
-**Start free.** Store up to 5 documents - much more generous than the industry standard of 2. Full reminders and security included.
+**เริ่มต้นฟรี** จัดเก็บเอกสารได้สูงสุด 5 รายการ พร้อมการแจ้งเตือนและความปลอดภัยครบถ้วน อัปเกรดได้ทุกเมื่อเพื่อพื้นที่จัดเก็บไม่จำกัด
 
-While competitors charge $14.99 per year or $39.99 for a lifetime license, Travel Document Vault is a **$9.99 one-time purchase.** Unlimited everything. No recurring charges.
+Travel Document Vault คือ**การซื้อครั้งเดียว**ในราคา $9.99 ใช้งานทุกอย่างได้ไม่จำกัด ไม่มีค่าใช้จ่ายที่เกิดขึ้นซ้ำ และไม่มีวันครบกำหนดต่ออายุให้ต้องจำ
 
-[About our version policy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
+ราคานี้คิดเป็นสกุลเงินดอลลาร์สหรัฐ เรากำหนดราคาของแต่ละประเทศแยกกันในท้องถิ่น ไม่ได้แปลงจากดอลลาร์ และยอดที่ต้องชำระจริงจะแสดงใน App Store หรือ Google Play ก่อนที่คุณจะชำระเงิน
 
-### Multi-page Support
+[เกี่ยวกับนโยบายเวอร์ชันของเรา →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
-Support for up to 10 pages per document. Essential for travel insurance policies and multi-page visas that general vaults often cut off.
+### รองรับเอกสารหลายหน้า
 
-### Professional PDF Export
+รองรับได้สูงสุด 10 หน้าต่อเอกสาร จำเป็นมากสำหรับกรมธรรม์ประกันการเดินทางและวีซ่าหลายหน้าที่แอปเก็บข้อมูลทั่วไปมักตัดทิ้งไป
 
-Combine multiple documents into a single PDF file for sharing with embassies, airlines, or for physical printing.
+### ส่งออกเป็น PDF แบบมืออาชีพ
+
+รวมหลายเอกสารเป็นไฟล์ PDF เดียว สำหรับส่งให้สถานทูต สายการบิน หรือพิมพ์เป็นเอกสารกระดาษ
 
 สร้างเพราะครอบครัวของตัวเองต้องการมัน
 
@@ -187,7 +189,7 @@ Pro
 
 ### คลาวด์ของคุณ คีย์ของคุณ
 
-การสำรองข้อมูลที่เข้ารหัส end-to-end ไปยัง iCloud หรือ Google Drive ของคุณ
+การสำรองข้อมูลที่เข้ารหัสแบบต้นทางถึงปลายทาง ไปยัง iCloud หรือ Google Drive ของคุณ
 
 Pro
 
@@ -217,98 +219,98 @@ Pro
 
 ![ดาวน์โหลดได้ที่ Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
 
-## See It in Action
+## ดูการใช้งานจริง
 
-Every screen, purpose-built for clarity.
+ทุกหน้าจอออกแบบมาเพื่อความชัดเจน
 
 รู้ว่าใครพร้อมก่อนออกเดินทาง
 
 ตรวจสถานะเอกสารทุกคนได้ทันที
 
-![Documents list showing family profiles with expiry dates](https://traveldocumentvault.com/assets/images/screenshots-appstore/01.webp)
+![รายการเอกสารแสดงโปรไฟล์ครอบครัวพร้อมวันหมดอายุ](https://traveldocumentvault.com/assets/images/screenshots-appstore/01.webp)
 
 พร้อมสำหรับการเดินทาง
 
 ทุกคน ทุกเอกสาร ตรวจสอบแล้ว
 
-![Document types including passport, visa, ID, airline ticket](https://traveldocumentvault.com/assets/images/screenshots-appstore/04.webp)
+![ประเภทเอกสารรวมถึงหนังสือเดินทาง วีซ่า บัตรประจำตัว ตั๋วเครื่องบิน](https://traveldocumentvault.com/assets/images/screenshots-appstore/04.webp)
 
 โปรไฟล์การเดินทางของทุกคน
 
 เอกสาร ทริป การแจ้งเตือน ครบในที่เดียว
 
-Smart reminders with 6 weeks notice notification
+การแจ้งเตือนอัจฉริยะพร้อมแจ้งล่วงหน้า 6 สัปดาห์
 
 วันที่เหลือในแต่ละประเทศ
 
 ติดตามเวลาของทุกคนในต่างประเทศ
 
-Family profiles for Emma, Lucas, Oliver, and Sophie
+โปรไฟล์ครอบครัวสำหรับ Emma, Lucas, Oliver และ Sophie
 
 รู้ก่อนวันหมดอายุจะมาถึง
 
 การแจ้งเตือนก่อนที่คุณจะต้องการ
 
-Document detail view with passport attachment and metadata
+หน้ารายละเอียดเอกสารพร้อมไฟล์แนบหนังสือเดินทางและข้อมูลเมตา
 
 พาสปอร์ต วีซ่า บัตรประชาชน จัดระเบียบแล้ว
 
 เห็นชัดว่าอะไรหมดอายุเมื่อไร
 
-PIN lock screen for privacy you can trust
+หน้าจอล็อกด้วย PIN เพื่อความเป็นส่วนตัวที่คุณวางใจได้
 
-## Three Steps. That's It.
+## แค่สามขั้นตอน จบ
 
-Scan. Set. Forget.
+สแกน ตั้งค่า แล้วลืมมันไปได้เลย
 
 1
 
-### Scan or Import
+### สแกนหรือนำเข้า
 
-Open the camera, use the guided overlay, and capture your document. Or import an existing one from your photo library.
+เปิดกล้อง ใช้กรอบแนะนำการถ่ายภาพ แล้วถ่ายเอกสารของคุณ หรือจะนำเข้าจากคลังภาพที่มีอยู่แล้วก็ได้
 
-The app detects the expiry date - you just confirm.
+แอปตรวจจับวันหมดอายุให้อัตโนมัติ คุณแค่ยืนยันเท่านั้น
 
 2
 
-### Set the Expiry and Forget
+### ตั้งวันหมดอายุแล้วลืมมันไปได้เลย
 
-The app schedules cascading reminders automatically.
+แอปจะจัดตารางแจ้งเตือนต่อเนื่องให้โดยอัตโนมัติ
 
-Six months, three months, six weeks... all the way to expiry day and beyond.
+หกเดือน สามเดือน หกสัปดาห์... ไปจนถึงวันหมดอายุและหลังจากนั้น
 
 3
 
-### Always Ready When You Need It
+### พร้อมเสมอเมื่อคุณต้องการ
 
-At immigration, filling forms, applying for visas. Your documents are organised, searchable, and always on your phone.
+ที่ด่านตรวจคนเข้าเมือง ตอนกรอกแบบฟอร์ม ตอนยื่นขอวีซ่า เอกสารของคุณถูกจัดระเบียบ ค้นหาได้ และอยู่ในโทรศัพท์เสมอ
 
-## Built for Travellers
+## สร้างมาเพื่อนักเดินทาง
 
-This app is designed for practical realities, not generic file storage.
+แอปนี้ออกแบบมาเพื่อรองรับสถานการณ์จริงของการเดินทาง ไม่ใช่แค่ที่เก็บไฟล์ทั่วไป
 
-- **Families:** Manage multiple profiles for children and spouses in one place. Carry the mental load for the whole household without switching between folders.
-- **Digital Nomads & Expats:** Track residency permits, local IDs, and work visas alongside passports as you move between countries.
-- **The 6-Month Rule:** Our reminders account for strict international entry requirements that generalist apps ignore, warning you before your passport becomes invalid for travel.
-- **Future-Ready:** Stay organised amidst upcoming EU administrative changes like EES and ETIAS. Ensure your documents are prepared before the rules shift.
-- **ความเป็นส่วนตัว-conscious individuals:** Store documents without trusting cloud servers. Everything stays on your device.
-- **Budget-aware purchasers:** Avoid subscriptions. Pay a simple, one-time fee rather than renting your own data.
+- **ครอบครัว:** จัดการหลายโปรไฟล์สำหรับลูกและคู่สมรสได้ในที่เดียว แบกรับภาระความจำของทั้งบ้านโดยไม่ต้องสลับไปมาระหว่างโฟลเดอร์
+- **ดิจิทัลโนแมดและชาวต่างชาติที่พำนักในต่างแดน:** ติดตามใบอนุญาตพำนัก บัตรประจำตัวท้องถิ่น และวีซ่าทำงาน ควบคู่ไปกับหนังสือเดินทาง ขณะที่คุณย้ายไปมาระหว่างประเทศ
+- **กฎ 6 เดือน:** การแจ้งเตือนของเราคำนึงถึงข้อกำหนดการเข้าเมืองที่เข้มงวดซึ่งแอปทั่วไปมักมองข้าม เตือนคุณก่อนที่หนังสือเดินทางจะใช้เดินทางไม่ได้
+- **พร้อมรับมืออนาคต:** จัดระเบียบให้พร้อมรับการเปลี่ยนแปลงด้านการบริหารของสหภาพยุโรปที่กำลังจะมาถึง เช่น EES และ ETIAS มั่นใจได้ว่าเอกสารของคุณพร้อมก่อนที่กฎจะเปลี่ยน
+- **คนที่ให้ความสำคัญกับความเป็นส่วนตัว:** จัดเก็บเอกสารโดยไม่ต้องฝากความไว้วางใจไว้กับเซิร์ฟเวอร์คลาวด์ ทุกอย่างอยู่บนอุปกรณ์ของคุณ
+- **คนที่ใส่ใจเรื่องงบประมาณ:** หลีกเลี่ยงการสมัครสมาชิก จ่ายค่าธรรมเนียมครั้งเดียวง่าย ๆ แทนที่จะต้อง "เช่า" ข้อมูลของตัวเองไปเรื่อย ๆ
 
-## Quick Answers
+## คำตอบด่วน
 
-The questions we hear most often.
+คำถามที่เราได้ยินบ่อยที่สุด
 
-What happens if I lose my phone? Your documents live on your device, encrypted with a key that never leaves it. A regular phone backup reinstalls the app but cannot restore your documents. To move to a new phone, turn on Your Own Cloud backup (Pro) for one-tap restore, or use the free Vault Export. Does it work without internet? Completely. The app stores everything on your device and never needs an internet connection. OCR processing, reminders, and document viewing all work offline. Is my data really safe? The design means I cannot read your data, and neither can Apple or Google. You can check the privacy model yourself on the [Privacy Verification page](https://traveldocumentvault.com/th/privacy-verification/). Is it really a one-time purchase? Yes. Pro is $9.99 once.* No subscription, no recurring charges, no "your trial is ending" emails. The free tier is genuinely free - 1 profile, 5 documents, all features including OCR and reminders.
+จะเกิดอะไรขึ้นถ้าฉันทำโทรศัพท์หาย? เอกสารของคุณอยู่บนอุปกรณ์ของคุณโดยมีรหัสเข้ารหัสที่ไม่ออกจากอุปกรณ์นั้น ดังนั้นการสำรองข้อมูลโทรศัพท์ปกติ (iCloud หรือ Google Backup) จะติดตั้งแอปใหม่ แต่ไม่สามารถกู้คืนเอกสารของคุณได้ แทน: ผู้ใช้ Pro สามารถเปิดใช้งานการสำรองข้อมูลคลาวด์เข้ารหัสไปยัง iCloud หรือ Google Drive ของตนเอง หรือส่งออก .tdvault file ที่ป้องกันด้วยรหัสผ่านและนำเข้าบนอุปกรณ์ใหม่ ทำงานได้โดยไม่ต้องมีอินเทอร์เน็ตหรือไม่? อย่างสมบูรณ์ แอปเก็บทุกอย่างบนอุปกรณ์ของคุณและไม่เคยต้องการการเชื่อมต่ออินเทอร์เน็ต การประมวลผล OCR การแจ้งเตือน และการดูเอกสารล้วนทำงานออฟไลน์ ข้อมูลของฉันปลอดภัยจริงๆ หรือไม่? การออกแบบหมายความว่าฉันไม่สามารถอ่านข้อมูลของคุณได้ และ Apple หรือ Google ก็ไม่ได้เช่นกัน คุณสามารถตรวจสอบแบบจำลองความเป็นส่วนตัวได้ด้วยตนเองบนหน้า [Privacy Verification](https://traveldocumentvault.com/th/privacy-verification/) เป็นการซื้อครั้งเดียวจริงๆ หรือไม่? ใช่ Pro เป็นการซื้อครั้งเดียว* ไม่มีการสมัครสมาชิก ไม่มีค่าใช้จ่ายที่เกิดขึ้นซ้ำ และไม่มีอีเมล "ช่วงทดลองใช้ของคุณกำลังจะสิ้นสุด" ระดับฟรีนั้นฟรีจริง ๆ - 1 โปรไฟล์ 5 เอกสาร พร้อมฟีเจอร์ทั้งหมดรวมถึง OCR และการแจ้งเตือน
 
-* For v1.x. See [ราคา Policy](https://traveldocumentvault.com/pricing-policy/#version-policy).
+* สำหรับ v1.x ดู[นโยบายราคา](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
-Can I use it for more than passports? Yes. It supports passports, visas, IDs, driver's licenses, insurance cards, airline tickets, and any document type you need. Each type has its own guided capture overlay. [ดูคำถามที่พบบ่อยทั้งหมด →](https://traveldocumentvault.com/th/faq/)
+ฉันสามารถใช้มันสำหรับมากกว่าหนังสือเดินทางได้หรือไม่? ใช่ รองรับหนังสือเดินทาง วีซ่า บัตรประจำตัว ใบขับขี่ บัตรประกัน ตั๋วเครื่องบิน และประเภทเอกสารใดก็ตามที่คุณต้องการ แต่ละประเภทมีเฟรมการถ่ายภาพแบบมีคำแนะนำของตัวเอง [ดูคำถามที่พบบ่อยทั้งหมด →](https://traveldocumentvault.com/th/faq/)
 
-**Important:** Travel Document Vault is a personal organisation tool for storing digital copies of your documents. **Digital copies stored in this app are NOT valid for travel.** It does not verify document authenticity or provide legal or travel advice. Always carry original documents and verify all travel requirements with official government sources.
+**ข้อควรทราบ:** Travel Document Vault เป็นเครื่องมือจัดระเบียบส่วนบุคคลสำหรับจัดเก็บสำเนาดิจิทัลของเอกสารของคุณ **สำเนาดิจิทัลที่จัดเก็บในแอปนี้ไม่สามารถใช้เดินทางแทนเอกสารจริงได้** แอปไม่ได้ตรวจสอบความถูกต้องแท้จริงของเอกสาร และไม่ได้ให้คำแนะนำด้านกฎหมายหรือการเดินทาง พกเอกสารตัวจริงติดตัวเสมอ และตรวจสอบข้อกำหนดการเดินทางทั้งหมดกับหน่วยงานราชการที่เกี่ยวข้อง
 
-## Stop Worrying About Expiry Dates
+## เลิกกังวลเรื่องวันหมดอายุได้แล้ว
 
-Everything in one place. No accounts, no subscriptions, no surprises.
+ทุกอย่างอยู่ในที่เดียว ไม่ต้องสร้างบัญชี ไม่มีค่าสมัครสมาชิก ไม่มีเรื่องเซอร์ไพรส์
 
 ![ดาวน์โหลดบน App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
