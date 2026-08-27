@@ -1,6 +1,6 @@
 # Quanto tempo richiede il rinnovo del passaporto (USA, UK, Australia, Canada)
 
-> Quanto tempo richiede il rinnovo del passaporto? Tempi di elaborazione per USA, UK, AU e CA. Rimanete organizzati con promemoria intelligenti sulla scadenza nel nostro caveau crittografato AES-256-GCM offline.
+> Quanto tempo richiede il rinnovo del passaporto? Tempi di elaborazione per USA, UK, AU e CA. Rimanete organizzati con promemoria intelligenti sulla scadenza nel nostro caveau crittografato sul dispositivo, offline.
 
 Source: https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-take/
 

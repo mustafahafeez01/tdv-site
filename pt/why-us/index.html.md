@@ -1,6 +1,6 @@
 # Porquê o Travel Document Vault? App de Passaportes Privada e Offline
 
-> Uma preocupação a menos. Os passaportes, vistos e bilhetes de identidade da sua família numa só app em vez de dispersos pelo Fotos, Drive e e-mail. Encriptado com AES-256-GCM, offline e privado sem subscrição.
+> Os passaportes, vistos e cartões de identidade da sua família numa única aplicação que funciona offline, não precisa de conta e não guarda nada nos nossos servidores. Cópia de segurança cifrada de ponta a ponta opcional para o seu iCloud ou Google Drive.
 
 Source: https://traveldocumentvault.com/pt/why-us/
 

@@ -1,6 +1,6 @@
 # ¿Por qué Travel Document Vault? Aplicación de pasaporte privada sin conexión
 
-> Una cosa menos de qué preocuparse. Los pasaportes, visas e identificaciones de tu familia en una aplicación en lugar de dispersos en Fotos, Drive y correo electrónico. Cifrado AES-256-GCM, sin conexión y privado sin suscripción.
+> Los pasaportes, visas e identificaciones de tu familia en una sola aplicación que funciona sin conexión, no necesita cuenta y no guarda nada en nuestros servidores. Copia de seguridad cifrada de extremo a extremo opcional en tu propio iCloud o Google Drive.
 
 Source: https://traveldocumentvault.com/es/why-us/
 

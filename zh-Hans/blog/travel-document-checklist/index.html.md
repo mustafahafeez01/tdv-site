@@ -1,6 +1,6 @@
 # 国际旅行文件检查清单：出发前的完整准备
 
-> 完整的2026年国际旅行文件检查清单。在Travel Document Vault的AES-256-GCM加密应用中离线整理所有文件。
+> 出国旅行前需要携带、检查和准备的一切。这份实用清单涵盖护照、签证、驾照和旅行保险。
 
 Source: https://traveldocumentvault.com/zh-Hans/blog/travel-document-checklist/
 

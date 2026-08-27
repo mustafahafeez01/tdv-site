@@ -1,6 +1,6 @@
 # Har passet gått ut? Så gör du, steg för steg
 
-> Har du upptäckt att passet har gått ut? Så här gör du, steg för steg. Undvik detta nästa gång med smarta påminnelser om utgångsdatum från vårt offline, AES-256-GCM-krypterade valv.
+> Har du upptäckt att passet gått ut? Så här gör du för att snabbt komma på rätt spår igen, och så undviker du de vanligaste misstagen vid förnyelse.
 
 Source: https://traveldocumentvault.com/sv/blog/passport-expired-what-to-do/
 

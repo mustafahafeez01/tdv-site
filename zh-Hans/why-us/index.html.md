@@ -1,6 +1,6 @@
 # 为什么选择 Travel Document Vault？隐私离线护照应用
 
-> 少一件担心的事。您家人的护照、签证和 ID 放在一个应用中，而不是分散在照片、云盘和电子邮件中。AES-256-GCM 加密，离线，隐私，无订阅。
+> 把家人的护照、签证和身份证件放在一个应用里。离线运行，无需账户，我们的服务器不会保留任何内容。还可选择将端到端加密备份保存到您自己的 iCloud 或 Google Drive。
 
 Source: https://traveldocumentvault.com/zh-Hans/why-us/
 

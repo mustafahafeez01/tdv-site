@@ -1,6 +1,6 @@
 # Mengapa Travel Document Vault? Aplikasi Paspor Offline & Privat
 
-> Satu hal yang tidak perlu dikhawatirkan. Paspor, visa, dan KTP keluarga Anda dalam satu aplikasi, bukan tersebar di Foto, Drive, dan email. Enkripsi AES-256-GCM, offline, dan privat tanpa langganan.
+> Satu hal yang tidak perlu dikhawatirkan. Paspor, visa, dan KTP keluarga Anda dalam satu aplikasi, bukan tersebar di Foto, Drive, dan email. Bekerja offline, tidak menyimpan apa pun di server kami, dan tanpa langganan.
 
 Source: https://traveldocumentvault.com/id/why-us/
 

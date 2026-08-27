@@ -1,6 +1,6 @@
 # Encrypted Cloud Backup | Your Cloud. Your Key. | Travel Document Vault
 
-> End-to-end encrypted backup to your own iCloud or Google Drive. You hold the recovery code. AES-256-GCM + PBKDF2 600k. We never access it. Access on any device. Offline-first.
+> End-to-end encrypted backup to your own iCloud or Google Drive. You hold the recovery code and nobody else can open it, including us. Works offline first.
 
 Source: https://traveldocumentvault.com/cloud-backup/
 

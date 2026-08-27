@@ -1,6 +1,6 @@
 # Terms of Service | Travel Document Vault
 
-> Terms for using Travel Document Vault, the AES-256-GCM encrypted, offline family passport organizer. Review limitations and user responsibilities.
+> Terms for using Travel Document Vault, the offline family passport and travel document organiser. Review limitations and user responsibilities.
 
 Source: https://traveldocumentvault.com/terms/
 

@@ -1,6 +1,6 @@
 # 护照过期了？这是你要做的（分步指南）
 
-> 发现护照已过期？这里是你要做的确切步骤。通过我们离线、AES-256-GCM加密的保险库中的智能过期提醒，下次避免这种情况。
+> 发现护照过期了？以下是让你尽快回到正轨的确切做法，以及如何避免续签时常见的失误。
 
 Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do/
 

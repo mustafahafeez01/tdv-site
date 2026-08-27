@@ -1,6 +1,6 @@
 # Daftar Periksa Dokumen Perjalanan: Semua yang Anda Butuhkan untuk Setiap Perjalanan Internasional
 
-> Daftar periksa lengkap dokumen perjalanan internasional 2026. Atur semuanya secara luring dalam satu tempat dengan aplikasi Travel Document Vault yang terenkripsi AES-256-GCM.
+> Daftar periksa lengkap dokumen perjalanan internasional 2026. Atur semuanya secara luring dalam satu tempat dengan aplikasi Travel Document Vault yang menyimpan dokumen Anda di perangkat Anda sendiri.
 
 Source: https://traveldocumentvault.com/id/blog/travel-document-checklist/
 

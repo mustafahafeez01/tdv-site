@@ -1,6 +1,6 @@
 # Travel Document Vault를 만든 이유: 모든 것을 기억하는 부모를 위해
 
-> Travel Document Vault는 흩어진 앱들을 대체하기 위해 만들었습니다. AES-256-GCM 암호화, 무료 5개 문서 플랜, 구독 없는 전문 오프라인 보관함입니다.
+> 가족 여행을 앞둔 새벽 3시, 여권을 확인하다 Travel Document Vault를 만들게 된 이야기. 그리고 서버가 아닌 사용자 기기에 모든 것을 저장하도록 만든 이유를 소개합니다.
 
 Source: https://traveldocumentvault.com/ko/blog/why-i-built-travel-document-vault/
 

@@ -1,6 +1,6 @@
 # Backup Cloud Crittografato | Suo Cloud. Sua Chiave. | Travel Document Vault
 
-> Backup end-to-end crittografato nel Suo iCloud o Google Drive personale. Lei detiene il codice di ripristino. AES-256-GCM + PBKDF2 600k. Non vi accediamo mai. Accesso da qualsiasi dispositivo. Offline-First.
+> Backup end-to-end crittografato nel Suo iCloud o Google Drive personale. Solo Lei possiede il codice di ripristino, e nessun altro può aprirlo, nemmeno noi. Funziona offline per prima cosa.
 
 Source: https://traveldocumentvault.com/it/cloud-backup/
 

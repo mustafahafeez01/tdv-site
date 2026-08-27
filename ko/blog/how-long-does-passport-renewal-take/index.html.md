@@ -1,6 +1,6 @@
 # 패스포트 갱신에 걸리는 시간은 얼마나 될까요? (미국, 영국, 호주, 캐나다)
 
-> 패스포트 갱신에 걸리는 시간을 알아봅시다. 미국, 영국, 호주, 캐나다의 처리 시간을 비교합니다. Travel Document Vault의 오프라인 AES-256-GCM 암호화 금고로 정리를 유지하세요.
+> 패스포트 갱신에 걸리는 시간을 알아봅시다. 미국, 영국, 호주, 캐나다의 처리 시간을 비교합니다. Travel Document Vault의 오프라인, 기기 암호화 금고로 정리를 유지하세요.
 
 Source: https://traveldocumentvault.com/ko/blog/how-long-does-passport-renewal-take/
 

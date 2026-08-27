@@ -1,6 +1,6 @@
 # Travel Document Blog - Passport, Visa & ID Guides | Travel Document Vault
 
-> Practical guides on passport rules, renewal timelines, and keeping documents secure. Brought to you by Travel Document Vault, the AES-256-GCM encrypted, offline organiser.
+> Practical guides on passport rules, renewal timelines and keeping travel documents in order, from the team behind Travel Document Vault.
 
 Source: https://traveldocumentvault.com/blog/
 

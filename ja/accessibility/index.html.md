@@ -1,6 +1,6 @@
 # アクセシビリティ機能 | Travel Document Vault
 
-> Travel Document Vault はすべての人のために作られています。VoiceOver、Dynamic Type、ダークモード、Reduce Motion 機能について詳しくご覧ください。AES-256-GCM 暗号化、オフライン、サブスクリプションなし。
+> Travel Document Vault はすべての人のために作られています。VoiceOver、Dynamic Type、ダークモード、Reduce Motion に対応し、オフラインで動作し、書類はお使いのデバイスに保存されます。
 
 Source: https://traveldocumentvault.com/ja/accessibility/
 

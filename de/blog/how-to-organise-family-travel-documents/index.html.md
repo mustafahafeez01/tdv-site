@@ -1,6 +1,6 @@
 # Familienreisedokumente organisieren (Vor Ihrer nächsten Reise)
 
-> Erfahren Sie, wie Sie Reisedokumente für Ihre Familie organisieren. Speichern Sie bis zu 5 Dokumente kostenlos in unserem privaten, mit AES-256-GCM verschlüsselten Offline-Tresor mit intelligenten Ablauferinnerungen.
+> So organisieren Sie die Reisedokumente der ganzen Familie: was Sie aufbewahren sollten, wo, und wie eine vergessene Ablauffrist nicht die ganze Reise durcheinanderbringt.
 
 Source: https://traveldocumentvault.com/de/blog/how-to-organise-family-travel-documents/
 

@@ -1,6 +1,6 @@
 # 여권이 만료되었나요? 정확히 어떻게 해야 하는지 단계별로 알아보기
 
-> 여권이 만료되었나요? 정확히 어떻게 해야 하는지 알아보세요. Travel Document Vault의 오프라인 AES-256-GCM 암호화된 금고로 다음에는 지능형 만료 알림을 설정해 피하세요.
+> 여권이 만료된 걸 발견하셨나요? 빠르게 정상 궤도로 돌아가는 정확한 방법과, 갱신 시 흔히 저지르는 실수를 피하는 법을 안내합니다.
 
 Source: https://traveldocumentvault.com/ko/blog/passport-expired-what-to-do/
 

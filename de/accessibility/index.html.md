@@ -1,6 +1,6 @@
 # Barrierefreiheitsfunktionen | Travel Document Vault
 
-> Travel Document Vault ist für alle konzipiert. Erfahren Sie mehr über VoiceOver-, Dynamic Type-, Dark Mode- und Reduce Motion-Funktionen. AES-256-GCM-verschlüsselt, offline und privat ohne Abonnement.
+> Travel Document Vault ist für alle konzipiert. Unterstützung für VoiceOver, Dynamic Type, Dark Mode und Bewegung reduzieren, in einer App, die offline funktioniert und Ihre Dokumente auf Ihrem eigenen Gerät behält.
 
 Source: https://traveldocumentvault.com/de/accessibility/
 

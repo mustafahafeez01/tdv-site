@@ -1,6 +1,6 @@
 # Perché ho creato Travel Document Vault: Per il genitore che ricorda tutto
 
-> Ho creato Travel Document Vault per sostituire le app sparse. Un archivio specializzato, offline, con crittografia AES-256-GCM, un livello gratuito di 5 documenti e nessun abbonamento.
+> Perché ho creato Travel Document Vault dopo aver controllato un passaporto alle 3 del mattino prima di un viaggio in famiglia, e perché conserva tutto sul dispositivo invece che su un server.
 
 Source: https://traveldocumentvault.com/it/blog/why-i-built-travel-document-vault/
 

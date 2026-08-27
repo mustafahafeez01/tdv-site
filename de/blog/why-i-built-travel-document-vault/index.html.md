@@ -1,6 +1,6 @@
 # Warum ich Travel Document Vault entwickelt habe: Für Eltern, die an alles denken
 
-> Ich habe Travel Document Vault entwickelt, um verstreute Apps zu ersetzen. Ein spezialisierter, offline Tresor mit AES-256-GCM-Verschlüsselung, kostenlos für 5 Dokumente, ohne Abonnement.
+> Warum ich Travel Document Vault entwickelt habe, nachdem ich um 3 Uhr morgens vor einer Familienreise einen Reisepass kontrolliert hatte, und warum alles auf Ihrem eigenen Gerät gespeichert wird statt auf einem Server.
 
 Source: https://traveldocumentvault.com/de/blog/why-i-built-travel-document-vault/
 

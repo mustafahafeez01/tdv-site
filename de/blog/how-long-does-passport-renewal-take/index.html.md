@@ -1,6 +1,6 @@
 # Wie lange dauert eine Reisepasserneuerung? (USA, UK, Australien, Kanada)
 
-> Wie lange dauert eine Reisepasserneuerung? Bearbeitungszeiten für USA, UK, Australien und Kanada. Mit intelligenten Ablauf-Erinnerungen in Ihrem offline Tresor, verschlüsselt mit AES-256-GCM.
+> Wie lange dauert eine Reisepasserneuerung? Bearbeitungszeiten für USA, UK, Australien und Kanada. Mit intelligenten Ablauf-Erinnerungen in Ihrem offline Tresor, verschlüsselt auf Ihrem Gerät.
 
 Source: https://traveldocumentvault.com/de/blog/how-long-does-passport-renewal-take/
 

@@ -1,6 +1,6 @@
 # Waarom Travel Document Vault? Privé Offline Paspoort App
 
-> Een zorg minder. De paspoorten, visa en identiteitsbewijzen van uw gezin in één app in plaats van verspreid over Foto's, Drive en e-mail. AES-256-GCM versleuteld, offline en privé zonder abonnement.
+> De paspoorten, visa en identiteitsbewijzen van uw gezin in één app die offline werkt, geen account nodig heeft en niets op onze servers bewaart. Optionele end-to-end versleutelde back-up naar uw eigen iCloud of Google Drive.
 
 Source: https://traveldocumentvault.com/nl/why-us/
 

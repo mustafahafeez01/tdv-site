@@ -1,6 +1,6 @@
 # Como Organizar Documentos de Viagem da Família (Antes da Próxima Viagem)
 
-> Aprenda como organizar documentos de viagem para a sua família. Armazene até 5 documentos gratuitamente no nosso cofre privado, encriptado com AES-256-GCM e offline com lembretes de validade inteligentes.
+> Como organizar os documentos de viagem de toda a família: o que guardar, onde guardar, e como evitar que uma data de validade esquecida estrague uma viagem.
 
 Source: https://traveldocumentvault.com/pt/blog/how-to-organise-family-travel-documents/
 

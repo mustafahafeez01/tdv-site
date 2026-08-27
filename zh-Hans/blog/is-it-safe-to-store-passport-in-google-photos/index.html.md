@@ -1,6 +1,6 @@
 # 在 Google Photos 中存储护照是否安全？您需要了解的信息
 
-> 在 Google Photos 中存储护照存在真实隐私风险。了解为什么具有 AES-256-GCM 加密的离线、零云应用是更安全的替代方案。
+> 在 Google Photos 中存储护照存在真实隐私风险。了解为什么离线、零云、且在设备上加密的应用是更安全的替代方案。
 
 Source: https://traveldocumentvault.com/zh-Hans/blog/is-it-safe-to-store-passport-in-google-photos/
 

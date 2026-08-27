@@ -1,6 +1,6 @@
 # なぜ Travel Document Vault を作ったか：すべてを覚えている親のために
 
-> 散らばったアプリを置き換えるために Travel Document Vault を作りました。AES-256-GCM 暗号化、5書類の無料枠、サブスクなしのオフライン専用アプリです。
+> 家族旅行の前、午前3時にパスポートを確認したことをきっかけに、なぜ Travel Document Vault を作ったのか。そして、なぜサーバーではなくお客様ご自身のデバイスにすべてを保存する仕組みにしたのかをご紹介します。
 
 Source: https://traveldocumentvault.com/ja/blog/why-i-built-travel-document-vault/
 

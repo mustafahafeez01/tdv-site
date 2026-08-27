@@ -1,6 +1,6 @@
 # 无障碍功能 | Travel Document Vault
 
-> Travel Document Vault 为所有人而构建。了解我们的 VoiceOver、Dynamic Type、深色模式和减少动画功能。采用 AES-256-GCM 加密、离线使用且隐私保护，无订阅。
+> Travel Document Vault 为所有人而构建。支持 VoiceOver、Dynamic Type、深色模式和减少动态效果，应用完全离线运行，文件只保存在您自己的设备上。
 
 Source: https://traveldocumentvault.com/zh-Hans/accessibility/
 

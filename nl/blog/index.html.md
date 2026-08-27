@@ -1,6 +1,6 @@
 # Blog | Travel Document Vault
 
-> Praktische gidsen over paspoortregels, verlengingstijdlijnen en het beveiligen van documenten. Gebracht aan u door Travel Document Vault, de AES-256-GCM versleutelde offline organisator.
+> Praktische gidsen over paspoortregels, verlengingstijdlijnen en het op orde houden van reisdocumenten, van het team achter Travel Document Vault.
 
 Source: https://traveldocumentvault.com/nl/blog/
 

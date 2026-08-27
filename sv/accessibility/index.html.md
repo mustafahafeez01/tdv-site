@@ -1,6 +1,6 @@
 # Tillgänglighetsfunktioner | Travel Document Vault
 
-> Travel Document Vault är byggd för alla. Läs om våra VoiceOver-, dynamisk text-, mörkt läge- och minskad rörelse-funktioner. AES-256-GCM-krypterad, offline och privat utan prenumeration.
+> Travel Document Vault är byggd för alla. Med stöd för VoiceOver, dynamisk text, mörkt läge och minskad rörelse, i en app som fungerar offline och bara sparar dina dokument på din egen enhet.
 
 Source: https://traveldocumentvault.com/sv/accessibility/
 

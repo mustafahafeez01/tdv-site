@@ -1,6 +1,6 @@
 # 왜 Travel Document Vault? 비공개 오프라인 여권 앱
 
-> 사진, Drive, 이메일에 흩어져 있는 것 대신 한 앱에 가족의 여권, 비자, ID를 모두 저장하세요. AES-256-GCM 암호화, 오프라인, 구독 없이 비공개입니다.
+> 가족의 여권, 비자, ID를 한 앱에 모아두세요. 오프라인으로 작동하고 계정이 필요 없으며 우리 서버에는 아무것도 남기지 않습니다. 자신의 iCloud 또는 Google Drive로의 선택적 엔드-투-엔드 암호화 백업도 지원합니다.
 
 Source: https://traveldocumentvault.com/ko/why-us/
 

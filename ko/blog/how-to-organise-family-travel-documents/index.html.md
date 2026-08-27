@@ -1,6 +1,6 @@
 # 가족 여행 서류 정리하기 (다음 여행 전에)
 
-> 가족의 여행 서류를 정리하는 방법을 배워보세요. Travel Document Vault의 비공개, AES-256-GCM 암호화된 오프라인 보관소에 최대 5개 문서를 무료로 저장하고 스마트한 만료 알림을 받으세요.
+> 가족 전체의 여행 서류를 정리하는 방법. 무엇을 보관해야 하는지, 어디에 보관해야 하는지, 그리고 깜빡 잊은 만료일 하나가 여행을 망치지 않게 하는 방법을 알려드립니다.
 
 Source: https://traveldocumentvault.com/ko/blog/how-to-organise-family-travel-documents/
 

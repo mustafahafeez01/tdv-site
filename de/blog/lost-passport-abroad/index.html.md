@@ -1,6 +1,6 @@
 # Pass verloren im Ausland? Tun Sie diese 7 Dinge sofort
 
-> Pass verloren im Ausland? Hier sind 7 sofortige Schritte. Verhindern Sie künftige Panik, indem Sie sichere, verschlüsselte Sicherungen in unserem AES-256-GCM verschlüsselten Tresor speichern.
+> Reisepass im Ausland verloren? Sieben Schritte, die Sie sofort unternehmen sollten, in der Reihenfolge, die Ihnen am schnellsten zu einem Ersatz verhilft.
 
 Source: https://traveldocumentvault.com/de/blog/lost-passport-abroad/
 

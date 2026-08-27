@@ -1,6 +1,6 @@
 # パスポート更新にかかる期間は。(米国、英国、オーストラリア、カナダ)
 
-> パスポート更新にかかる期間。米国、英国、オーストラリア、カナダの処理時間をご紹介します。Travel Document Vaultでスマートな有効期限リマインダーを設定し、オフライン・AES-256-GCM暗号化されたボルトで整理整頓しましょう。
+> パスポート更新にかかる期間。米国、英国、オーストラリア、カナダの処理時間をご紹介します。Travel Document Vaultでスマートな有効期限リマインダーを設定し、オフラインでお使いのデバイス上に暗号化して保管しましょう。
 
 Source: https://traveldocumentvault.com/ja/blog/how-long-does-passport-renewal-take/
 

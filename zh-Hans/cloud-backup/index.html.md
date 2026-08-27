@@ -1,6 +1,6 @@
 # 加密云备份 | 您的云。您的密钥。| Travel Document Vault
 
-> 端到端加密备份到您自己的 iCloud 或 Google Drive。您持有恢复码。AES-256-GCM + PBKDF2 600k。我们永远无法访问。任意设备均可访问。离线优先。
+> 端到端加密备份到您自己的 iCloud 或 Google Drive。恢复码只有您持有，包括我们在内没有任何人能够打开。离线优先设计。
 
 Source: https://traveldocumentvault.com/zh-Hans/cloud-backup/
 

@@ -1,6 +1,6 @@
 # Tjekliste til rejsedokumenter: alt du behøver til internationale rejser
 
-> Den komplette tjekliste til rejsedokumenter 2026. Organiser alt offline ét sted med Travel Document Vaults AES-256-GCM-krypterede app.
+> Den komplette tjekliste til rejsedokumenter 2026. Organiser alt offline ét sted med Travel Document Vaults app, der holder dine dokumenter på din egen enhed.
 
 Source: https://traveldocumentvault.com/da/blog/travel-document-checklist/
 

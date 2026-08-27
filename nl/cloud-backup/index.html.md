@@ -1,6 +1,6 @@
 # Versleutelde cloud-back-up | Uw cloud. Uw sleutel. | Travel Document Vault
 
-> End-to-end versleutelde back-up naar uw eigen iCloud of Google Drive. U houdt de herstelcode. AES-256-GCM + PBKDF2 600k. We grijpen er nooit naar. Toegang op elk apparaat. Offline-first.
+> End-to-end versleutelde back-up naar uw eigen iCloud of Google Drive. Alleen u bezit de herstelcode, dus niemand anders kan hem openen, ook wij niet. Werkt offline-first.
 
 Source: https://traveldocumentvault.com/nl/cloud-backup/
 

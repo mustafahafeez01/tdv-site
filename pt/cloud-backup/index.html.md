@@ -1,6 +1,6 @@
 # Cópia de Segurança Encriptada | A Sua Nuvem. A Sua Chave. | Travel Document Vault
 
-> Cópia de segurança encriptada de ponta a ponta no seu próprio iCloud ou Google Drive. Você guarda o código de recuperação. AES-256-GCM + PBKDF2 600k. Nunca acedemos. Acesso em qualquer dispositivo. Offline-first.
+> Cópia de segurança encriptada de ponta a ponta para o seu próprio iCloud ou Google Drive. Só você tem o código de recuperação, e mais ninguém consegue abri-la, nem nós. Funciona offline em primeiro lugar.
 
 Source: https://traveldocumentvault.com/pt/cloud-backup/
 

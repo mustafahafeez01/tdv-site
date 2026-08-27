@@ -1,6 +1,6 @@
 # Toegankelijkheidsfuncties | Travel Document Vault
 
-> Travel Document Vault is gebouwd voor iedereen. Lees meer over onze VoiceOver, Dynamic Type, Dark Mode en Reduce Motion-functies. AES-256-GCM versleuteld, offline en privé zonder abonnement.
+> Travel Document Vault is gebouwd voor iedereen. Met ondersteuning voor VoiceOver, Dynamic Type, Dark Mode en Verminder Beweging, in een app die offline werkt en uw documenten alleen op uw eigen apparaat bewaart.
 
 Source: https://traveldocumentvault.com/nl/accessibility/
 

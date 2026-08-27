@@ -1,6 +1,6 @@
 # Reisepass abgelaufen? So gehen Sie vor (Schritt für Schritt)
 
-> Ihr Reisepass ist abgelaufen? So gehen Sie jetzt vor. Verhindern Sie das nächste Mal mit intelligenten Ablauferinnerungen aus unserem Offline-Tresor mit AES-256-GCM-Verschlüsselung.
+> Ihr Reisepass ist abgelaufen? So kommen Sie schnell wieder auf Kurs, und so vermeiden Sie die häufigsten Fehler bei der Verlängerung.
 
 Source: https://traveldocumentvault.com/de/blog/passport-expired-what-to-do/
 

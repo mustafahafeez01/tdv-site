@@ -1,6 +1,6 @@
 # ¿Perdiste tu Pasaporte en el Extranjero? Haz Estas 7 Cosas Inmediatamente
 
-> ¿Perdiste tu pasaporte en el extranjero? Aquí hay 7 pasos inmediatos. Previene el pánico futuro almacenando copias de seguridad seguras y cifradas offline en nuestra bóveda AES-256-GCM.
+> ¿Perdiste tu pasaporte en el extranjero? Siete pasos a seguir de inmediato, en el orden que te consigue un reemplazo más rápido.
 
 Source: https://traveldocumentvault.com/es/blog/lost-passport-abroad/
 

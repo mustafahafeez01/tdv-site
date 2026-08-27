@@ -1,6 +1,6 @@
 # Hvorfor jeg byggede Travel Document Vault: For den forælder, der husker alt
 
-> Jeg byggede Travel Document Vault for at erstatte spredte apps. En specialiseret, offline vault med AES-256-GCM-kryptering, et gratisniveau på 5 dokumenter og intet abonnement.
+> Jeg byggede Travel Document Vault for at erstatte spredte apps. En specialiseret, offline vault, der holder alle dine dokumenter på din egen enhed i stedet for en server.
 
 Source: https://traveldocumentvault.com/da/blog/why-i-built-travel-document-vault/
 

@@ -1,6 +1,6 @@
 # 国際旅行書類チェックリスト: すべての旅に必要なもの
 
-> 2026年版の完全な国際旅行書類チェックリスト。Travel Document VaultのAES-256-GCM暗号化アプリで、すべてをオフラインで1か所に整理します。
+> 国際旅行の前に持参し、確認し、準備しておくべきすべて。パスポート、ビザ、運転免許証、海外旅行保険をカバーする実践的なチェックリストです。
 
 Source: https://traveldocumentvault.com/ja/blog/travel-document-checklist/
 

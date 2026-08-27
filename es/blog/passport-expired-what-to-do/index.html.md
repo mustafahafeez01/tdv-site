@@ -1,6 +1,6 @@
 # ¿Pasaporte Caducado? Aquí está Exactamente Qué Hacer (Paso a Paso)
 
-> ¿Has descubierto que tu pasaporte está caducado? Aquí está exactamente qué hacer. Evita esto la próxima vez con recordatorios inteligentes de caducidad desde nuestro almacén cifrado con AES-256-GCM sin conexión.
+> ¿Has descubierto que tu pasaporte está caducado? Aquí tienes exactamente qué hacer para resolverlo rápido, y cómo evitar los errores más comunes al renovarlo.
 
 Source: https://traveldocumentvault.com/es/blog/passport-expired-what-to-do/
 

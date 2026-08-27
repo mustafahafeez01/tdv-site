@@ -1,6 +1,6 @@
 # Passaporte Expirado? Eis Exatamente O Que Fazer (Passo a Passo)
 
-> Descobriu que o seu passaporte expirou? Eis exatamente o que fazer. Evite isto na próxima vez com lembretes inteligentes de expiração do nosso cofre encriptado AES-256-GCM, offline.
+> Descobriu que o seu passaporte está caducado? Eis exatamente o que fazer para resolver isto depressa, e como evitar os erros mais comuns na renovação.
 
 Source: https://traveldocumentvault.com/pt/blog/passport-expired-what-to-do/
 

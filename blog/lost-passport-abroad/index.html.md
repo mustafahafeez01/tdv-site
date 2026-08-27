@@ -1,6 +1,6 @@
 # Lost Your Passport Abroad? Do These 7 Things Immediately
 
-> Lost your passport abroad? Here are 7 immediate steps. Prevent future panic by storing secure, offline backups in our AES-256-GCM encrypted vault.
+> Lost your passport abroad? Seven steps to take straight away, in the order that gets you a replacement fastest.
 
 Source: https://traveldocumentvault.com/blog/lost-passport-abroad/
 

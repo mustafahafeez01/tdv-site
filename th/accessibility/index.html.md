@@ -1,6 +1,6 @@
 # ฟีเจอร์การเข้าถึง | Travel Document Vault
 
-> Travel Document Vault สร้างสำหรับทุกคน เรียนรู้เกี่ยวกับฟีเจอร์ VoiceOver Dynamic Type โหมดมืด และ Reduce Motion ของเรา AES-256-GCM เข้ารหัส ออฟไลน์ และเป็นส่วนตัวโดยไม่มีการสมัครสมาชิก
+> Travel Document Vault สร้างสำหรับทุกคน เรียนรู้เกี่ยวกับฟีเจอร์ VoiceOver Dynamic Type โหมดมืด และ Reduce Motion ของเรา ในแอปที่ทำงานแบบออฟไลน์และเก็บเอกสารของคุณไว้ในอุปกรณ์ของคุณเอง
 
 Source: https://traveldocumentvault.com/th/accessibility/
 

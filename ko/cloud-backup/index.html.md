@@ -1,6 +1,6 @@
 # 암호화된 클라우드 백업 | Your Cloud. Your Key. | Travel Document Vault
 
-> 자신의 iCloud 또는 Google Drive에 엔드-투-엔드 암호화된 백업. 복구 코드를 당신이 보유합니다. AES-256-GCM + PBKDF2 600k. 우리는 절대 접근할 수 없습니다. 모든 기기에서 접근 가능. 오프라인 우선.
+> 자신의 iCloud 또는 Google Drive에 엔드-투-엔드 암호화된 백업. 복구 코드는 오직 당신만 보유하며, 우리를 포함해 누구도 열어볼 수 없습니다. 오프라인을 최우선으로 설계했습니다.
 
 Source: https://traveldocumentvault.com/ko/cloud-backup/
 

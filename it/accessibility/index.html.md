@@ -1,6 +1,6 @@
 # Funzionalità di accessibilità | Travel Document Vault
 
-> Travel Document Vault è progettato per tutti. Scopri le funzionalità VoiceOver, Testo grande, Modalità scura e Riduci movimento. Crittografia AES-256-GCM, offline e privato, senza abbonamento.
+> Travel Document Vault è pensato per tutti. Supporto per VoiceOver, Testo grande, Modalità scura e Riduci movimento, in un'app che funziona offline e conserva i tuoi documenti sul tuo dispositivo.
 
 Source: https://traveldocumentvault.com/it/accessibility/
 

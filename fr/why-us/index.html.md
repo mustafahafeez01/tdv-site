@@ -1,6 +1,6 @@
 # Pourquoi Travel Document Vault ? Application de passeport sécurisée hors ligne
 
-> Un souci de moins. Les passeports, visas et pièces d'identité de votre famille dans une application au lieu de dispersés entre Photos, Drive et email. Chiffré AES-256-GCM, hors ligne et privé sans abonnement.
+> Les passeports, visas et pièces d'identité de votre famille dans une seule application qui fonctionne hors ligne, sans compte et sans rien sur nos serveurs. Sauvegarde chiffrée de bout en bout en option vers votre propre iCloud ou Google Drive.
 
 Source: https://traveldocumentvault.com/fr/why-us/
 

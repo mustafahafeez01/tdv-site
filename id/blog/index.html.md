@@ -1,6 +1,6 @@
 # Blog | Travel Document Vault
 
-> Panduan praktis tentang aturan paspor, jadwal pembaruan, dan menjaga dokumen tetap aman. Dibawa kepada Anda oleh Travel Document Vault, pengorganisir terenkripsi AES-256-GCM yang offline.
+> Panduan praktis tentang aturan paspor, jadwal pembaruan, dan menjaga dokumen tetap aman. Dibawa kepada Anda oleh tim Travel Document Vault, pengorganisir dokumen offline.
 
 Source: https://traveldocumentvault.com/id/blog/
 

@@ -1,6 +1,6 @@
 # 护照更新需要多长时间？（美国、英国、澳大利亚、加拿大）
 
-> 护照更新需要多长时间？美国、英国、澳大利亚和加拿大的处理时间。使用我们离线、AES-256-GCM加密的金库来保持组织和智能过期提醒。
+> 护照更新需要多长时间？美国、英国、澳大利亚和加拿大的处理时间。使用我们离线、设备端加密的金库来保持整理有序并获得智能过期提醒。
 
 Source: https://traveldocumentvault.com/zh-Hans/blog/how-long-does-passport-renewal-take/
 

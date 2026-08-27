@@ -1,6 +1,6 @@
 # 暗号化クラウドバックアップ | ご自身のクラウド。ご自身の鍵。| Travel Document Vault
 
-> ご自身の iCloud または Google Drive へのエンドツーエンド暗号化バックアップ。ご自身がリカバリコードを保有します。AES-256-GCM + PBKDF2 600k。当社はアクセスしません。どのデバイスからでもアクセス可能。オフライン優先。
+> ご自身の iCloud または Google Drive へのエンドツーエンド暗号化バックアップ。リカバリコードはお客様ご自身が保有し、当社を含め誰も開くことはできません。オフラインを最優先に設計されています。
 
 Source: https://traveldocumentvault.com/ja/cloud-backup/
 

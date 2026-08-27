@@ -1,6 +1,6 @@
 # Porque Criei o Travel Document Vault: Para o Pai que se Lembra de Tudo
 
-> Criei o Travel Document Vault para substituir aplicações dispersas. Um cofre especializado e offline com encriptação AES-256-GCM, uma camada gratuita de 5 documentos, sem subscrição.
+> Porque criei o Travel Document Vault depois de verificar um passaporte às 3 da manhã antes de uma viagem em família, e porque guarda tudo no seu próprio dispositivo em vez de num servidor.
 
 Source: https://traveldocumentvault.com/pt/blog/why-i-built-travel-document-vault/
 

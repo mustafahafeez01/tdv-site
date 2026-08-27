@@ -1,6 +1,6 @@
 # Liste de contrôle complète des documents de voyage international
 
-> La liste de contrôle complète 2026 des documents de voyage international. Organisez tout hors ligne en un seul endroit avec l'application Travel Document Vault chiffrée en AES-256-GCM.
+> Tout ce qu'il faut emporter, vérifier et préparer avant un voyage international. Une liste pratique couvrant passeports, visas, permis de conduire et assurance voyage.
 
 Source: https://traveldocumentvault.com/fr/blog/travel-document-checklist/
 

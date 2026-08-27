@@ -1,6 +1,6 @@
 # Passeport Expiré ? Voici Exactement Quoi Faire (Étape par Étape)
 
-> Vous avez découvert que votre passeport est expiré ? Voici exactement quoi faire. Évitez cela la prochaine fois avec des rappels d'expiration intelligents de notre coffre-fort chiffré AES-256-GCM hors ligne.
+> Vous avez découvert que votre passeport est expiré ? Voici exactement quoi faire pour vous remettre sur les rails rapidement, et comment éviter les erreurs courantes de renouvellement.
 
 Source: https://traveldocumentvault.com/fr/blog/passport-expired-what-to-do/
 

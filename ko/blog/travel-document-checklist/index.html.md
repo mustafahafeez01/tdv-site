@@ -1,6 +1,6 @@
 # 모든 여행을 위한 국제 여행 문서 체크리스트
 
-> 완전한 2026년 국제 여행 문서 체크리스트입니다. Travel Document Vault의 AES-256-GCM 암호화 앱으로 모든 것을 한 곳에 오프라인으로 정리합니다.
+> 해외여행 전에 챙기고 확인하고 준비해야 할 모든 것. 여권, 비자, 운전면허증, 여행자 보험을 아우르는 실용적인 체크리스트입니다.
 
 Source: https://traveldocumentvault.com/ko/blog/travel-document-checklist/
 

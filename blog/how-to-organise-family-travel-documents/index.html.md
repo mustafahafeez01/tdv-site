@@ -1,6 +1,6 @@
 # How to Organise Family Travel Documents (Before Your Next Trip)
 
-> Learn how to organise travel documents for your family. Store up to 5 documents free in our private, AES-256-GCM encrypted, offline vault with smart expiry reminders.
+> How to organise travel documents for the whole family: what to keep, where to keep it, and how to stop one forgotten expiry date derailing a trip.
 
 Source: https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/
 

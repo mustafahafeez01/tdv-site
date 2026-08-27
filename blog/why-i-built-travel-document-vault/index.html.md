@@ -1,6 +1,6 @@
 # Why I Built Travel Document Vault: For the Parent Who Remembers Everything
 
-> I built Travel Document Vault to replace scattered apps. A specialized, offline vault with AES-256-GCM encryption, a 5-document free tier, and no subscription.
+> Why I built Travel Document Vault after a 3am passport check before a family trip, and why it stores everything on your own device instead of a server.
 
 Source: https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/
 

@@ -1,6 +1,6 @@
 # Accessibility Features | Travel Document Vault
 
-> Travel Document Vault is built for everyone. Learn about our VoiceOver, Dynamic Type, Dark Mode, and Reduce Motion features. AES-256-GCM encrypted, offline, and private with no subscription.
+> Travel Document Vault is built for everyone. VoiceOver, Dynamic Type, Dark Mode and Reduce Motion support, in an app that works offline and keeps your documents on your own device.
 
 Source: https://traveldocumentvault.com/accessibility/
 

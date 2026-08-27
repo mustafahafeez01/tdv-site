@@ -1,6 +1,6 @@
 # Pricing Policy
 
-> Clear pricing policy. $9.99 one-time purchase or a generous 5-document free tier. No subscription. AES-256-GCM encrypted, offline, and private.
+> Clear pricing policy. $9.99 one-time purchase or a generous 5-document free tier. No subscription. Everything stays encrypted on your own device, offline and private.
 
 Source: https://traveldocumentvault.com/pricing-policy/
 

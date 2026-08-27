@@ -1,6 +1,6 @@
 # Checklist reisdocumenten: alles wat je nodig hebt voor elke internationale reis
 
-> De complete checklist voor reisdocumenten 2026. Organiseer alles offline op één plek met de AES-256-GCM-versleutelde app van Travel Document Vault.
+> Alles wat u moet meenemen, controleren en voorbereiden vóór een internationale reis. Een praktische checklist voor paspoorten, visa, rijbewijzen en reisverzekering.
 
 Source: https://traveldocumentvault.com/nl/blog/travel-document-checklist/
 

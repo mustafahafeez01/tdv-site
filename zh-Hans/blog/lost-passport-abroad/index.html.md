@@ -1,6 +1,6 @@
 # 护照在国外丢失？立即采取这7个步骤
 
-> 护照在国外丢失？以下是需要立即采取的7个步骤。通过在我们的AES-256-GCM加密保险库中存储安全的离线备份来防止未来的恐慌。
+> 护照在国外丢失了？以下是应立即采取的七个步骤，按能最快拿到补发证件的顺序排列。
 
 Source: https://traveldocumentvault.com/zh-Hans/blog/lost-passport-abroad/
 

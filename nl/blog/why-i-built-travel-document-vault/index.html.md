@@ -1,6 +1,6 @@
 # Waarom ik Travel Document Vault heb gebouwd: Voor de ouder die alles onthoudt
 
-> Ik bouwde Travel Document Vault om verspreide apps te vervangen. Een gespecialiseerde, offline kluis met AES-256-GCM-versleuteling, een gratis laag van 5 documenten en geen abonnement.
+> Waarom ik Travel Document Vault bouwde na een paspoortcontrole om 3 uur 's nachts voor een gezinsreis, en waarom alles op uw eigen apparaat wordt bewaard in plaats van op een server.
 
 Source: https://traveldocumentvault.com/nl/blog/why-i-built-travel-document-vault/
 

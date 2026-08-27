@@ -1,6 +1,6 @@
 # Por qué creé Travel Document Vault: Para el padre que lo recuerda todo
 
-> Creé Travel Document Vault para reemplazar aplicaciones dispersas. Una bóveda especializada y fuera de línea con cifrado AES-256-GCM, una capa gratuita de 5 documentos, sin suscripción.
+> Por qué creé Travel Document Vault después de comprobar un pasaporte a las 3 de la madrugada antes de un viaje familiar, y por qué guarda todo en tu propio dispositivo en lugar de en un servidor.
 
 Source: https://traveldocumentvault.com/es/blog/why-i-built-travel-document-vault/
 

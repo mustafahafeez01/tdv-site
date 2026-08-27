@@ -1,6 +1,6 @@
 # Funciones de Accesibilidad | Travel Document Vault
 
-> Travel Document Vault está diseñado para todos. Descubra nuestras funciones de VoiceOver, Texto Dinámico, Modo Oscuro y Reducir Movimiento. Cifrado AES-256-GCM, sin conexión y privado, sin suscripción.
+> Travel Document Vault está diseñado para todos. Compatible con VoiceOver, Texto Dinámico, Modo Oscuro y Reducir Movimiento, en una aplicación que funciona sin conexión y guarda sus documentos en su propio dispositivo.
 
 Source: https://traveldocumentvault.com/es/accessibility/
 

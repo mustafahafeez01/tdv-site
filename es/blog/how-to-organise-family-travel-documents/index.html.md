@@ -1,6 +1,6 @@
 # Cómo organizar los documentos de viaje en familia (Antes de tu próximo viaje)
 
-> Aprende cómo organizar los documentos de viaje de tu familia. Almacena hasta 5 documentos de forma gratuita en nuestra bóveda privada, cifrada con AES-256-GCM, sin conexión, con recordatorios inteligentes de vencimiento.
+> Cómo organizar los documentos de viaje de toda la familia: qué guardar, dónde guardarlo y cómo evitar que una fecha de caducidad olvidada arruine un viaje.
 
 Source: https://traveldocumentvault.com/es/blog/how-to-organise-family-travel-documents/
 

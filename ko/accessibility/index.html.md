@@ -1,6 +1,6 @@
 # 접근성 기능 | Travel Document Vault
 
-> Travel Document Vault는 모든 사람을 위해 만들어졌습니다. VoiceOver, 동적 텍스트, 다크 모드 및 움직임 감소 기능에 대해 알아보세요. AES-256-GCM 암호화, 오프라인 및 구독 없이 비공개로 제공됩니다.
+> Travel Document Vault는 모든 사람을 위해 만들어졌습니다. VoiceOver, 동적 텍스트, 다크 모드 및 움직임 감소 기능을 지원하며, 오프라인으로 작동하고 문서는 기기에만 보관됩니다.
 
 Source: https://traveldocumentvault.com/ko/accessibility/
 

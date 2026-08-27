@@ -1,6 +1,6 @@
 # Copia de Seguridad Cifrada en la Nube | Tu Nube. Tu Clave. | Travel Document Vault
 
-> Copia de seguridad cifrada de extremo a extremo en tu iCloud o Google Drive. Tienes el código de recuperación. AES-256-GCM + PBKDF2 600k. Nunca la accedemos. Acceso en cualquier dispositivo. Siempre sin conexión.
+> Copia de seguridad cifrada de extremo a extremo en tu propio iCloud o Google Drive. Tú tienes el código de recuperación y nadie más puede abrirla, ni siquiera nosotros. Funciona sin conexión desde el principio.
 
 Source: https://traveldocumentvault.com/es/cloud-backup/
 

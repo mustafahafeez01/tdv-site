@@ -1,6 +1,6 @@
 # Warum Travel Document Vault? Private Offline Reisepass-App
 
-> Eine Sorge weniger. Reisepässe, Visa und Ausweise Ihrer Familie in einer App statt verstreut in Fotos, Drive und E-Mail. AES-256-GCM-verschlüsselt, offline und privat – ohne Abo.
+> Die Reisepässe, Visa und Ausweise Ihrer Familie in einer App, die offline funktioniert, kein Konto benötigt und nichts auf unseren Servern speichert. Optionale Ende-zu-Ende-verschlüsselte Sicherung auf Ihrer eigenen iCloud oder Google Drive.
 
 Source: https://traveldocumentvault.com/de/why-us/
 

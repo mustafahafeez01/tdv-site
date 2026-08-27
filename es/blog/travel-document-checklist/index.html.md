@@ -1,6 +1,6 @@
 # Lista de verificación de documentos de viaje internacional para cada viaje
 
-> La lista completa de verificación de documentos de viaje internacional para 2026. Organiza todo sin conexión en un solo lugar con la aplicación Travel Document Vault cifrada con AES-256-GCM.
+> Todo lo que hay que llevar, comprobar y preparar antes de un viaje internacional. Una lista práctica que cubre pasaportes, visados, carnés de conducir y seguro de viaje.
 
 Source: https://traveldocumentvault.com/es/blog/travel-document-checklist/
 

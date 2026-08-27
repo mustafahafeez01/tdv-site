@@ -1,6 +1,6 @@
 # Google Photos에 여권을 저장해도 안전할까요 알아야 할 사항
 
-> Google Photos에 여권을 저장하면 실제 개인정보 보호 위험이 발생합니다. 오프라인 제로 클라우드 앱과 AES-256-GCM 암호화를 사용하는 더 안전한 대안을 알아보세요.
+> Google Photos에 여권을 저장하면 실제 개인정보 보호 위험이 발생합니다. 오프라인으로 작동하며 기기에서 암호화하는 제로 클라우드 앱이 왜 더 안전한 대안인지 알아보세요.
 
 Source: https://traveldocumentvault.com/ko/blog/is-it-safe-to-store-passport-in-google-photos/
 

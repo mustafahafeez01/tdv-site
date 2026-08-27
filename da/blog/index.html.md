@@ -1,6 +1,6 @@
 # Blog | Travel Document Vault
 
-> Praktiske guider om pasregler, fornyelsestider og sikring af dokumenter. Fra Travel Document Vault, den AES-256-GCM krypterede, offline organisator.
+> Praktiske guider om pasregler, fornyelsestider og sikring af dokumenter. Fra teamet bag Travel Document Vault, den offline organisator, der holder styr på dine dokumenter.
 
 Source: https://traveldocumentvault.com/da/blog/
 
@@ -72,7 +72,7 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[Visa og indrejse Hvad er forskellen på et visum og et pas? Et pas beviser, hvem du er. Et visum er et lands tilladelse til at rejse ind. Her er forskellen på de to, hvorfor de fleste rejser kræver begge dele, og hvem du skal spørge. 22. apr. 20266 min](https://traveldocumentvault.com/da/blog/visa-vs-passport/)
+[Visa og indrejseEr et visum det samme som et pas? Forskellen forklaret Et pas beviser, hvem du er. Et visum er et lands tilladelse til at rejse ind. Her er forskellen på de to, hvorfor de fleste rejser kræver begge dele, og hvem du skal spørge. 22. apr. 20266 min](https://traveldocumentvault.com/da/blog/visa-vs-passport/)
 
 ##
 

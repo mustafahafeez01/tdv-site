@@ -1171,7 +1171,7 @@ You would need to contact your country's nearest embassy or consulate to obtain 
 
 # How to Organise Family Travel Documents (Before Your Next Trip)
 
-> Learn how to organise travel documents for your family. Store up to 5 documents free in our private, AES-256-GCM encrypted, offline vault with smart expiry reminders.
+> How to organise travel documents for the whole family: what to keep, where to keep it, and how to stop one forgotten expiry date derailing a trip.
 
 Source: https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/
 
@@ -1744,7 +1744,7 @@ At a structural level, they're very similar. Both store photos on cloud servers 
 
 # Lost Your Passport Abroad? Do These 7 Things Immediately
 
-> Lost your passport abroad? Here are 7 immediate steps. Prevent future panic by storing secure, offline backups in our AES-256-GCM encrypted vault.
+> Lost your passport abroad? Seven steps to take straight away, in the order that gets you a replacement fastest.
 
 Source: https://traveldocumentvault.com/blog/lost-passport-abroad/
 
@@ -1858,7 +1858,7 @@ Having a secure digital copy of your passport stored before you travel is the si
 
 # Passport Expired? Here's Exactly What to Do (Step by Step)
 
-> Discovered your passport is expired? Here's exactly what to do. Avoid this next time with intelligent expiry reminders from our offline, AES-256-GCM encrypted vault.
+> Discovered your passport is expired? Here's exactly what to do to get back on track fast, and how to avoid the common renewal mistakes.
 
 Source: https://traveldocumentvault.com/blog/passport-expired-what-to-do/
 
@@ -2666,7 +2666,7 @@ Airlines check every passport against IATA's Timatic database, which applies the
 
 # International Travel Document Checklist for Every Trip
 
-> The complete 2026 international travel document checklist. Organise everything offline in one place with Travel Document Vault's AES-256-GCM encrypted app.
+> Everything to carry, check and prepare before an international trip. A practical checklist covering passports, visas, driving licences and travel insurance.
 
 Source: https://traveldocumentvault.com/blog/travel-document-checklist/
 
@@ -3767,7 +3767,7 @@ Forgetting your passport means you cannot board. For missing supporting document
 
 # Why I Built Travel Document Vault: For the Parent Who Remembers Everything
 
-> I built Travel Document Vault to replace scattered apps. A specialized, offline vault with AES-256-GCM encryption, a 5-document free tier, and no subscription.
+> Why I built Travel Document Vault after a 3am passport check before a family trip, and why it stores everything on your own device instead of a server.
 
 Source: https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/
 

@@ -1,6 +1,6 @@
 # Comment organiser les documents de voyage en famille (Avant votre prochain voyage)
 
-> Apprenez à organiser les documents de voyage de votre famille. Stockez jusqu'à 5 documents gratuitement dans votre coffre-fort privé, chiffré en AES-256-GCM et hors ligne avec des rappels d'expiration intelligents.
+> Comment organiser les documents de voyage de toute la famille : quoi garder, où le garder, et comment éviter qu'une date d'expiration oubliée ne fasse dérailler un voyage.
 
 Source: https://traveldocumentvault.com/fr/blog/how-to-organise-family-travel-documents/
 

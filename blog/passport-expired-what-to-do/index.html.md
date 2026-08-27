@@ -1,6 +1,6 @@
 # Passport Expired? Here's Exactly What to Do (Step by Step)
 
-> Discovered your passport is expired? Here's exactly what to do. Avoid this next time with intelligent expiry reminders from our offline, AES-256-GCM encrypted vault.
+> Discovered your passport is expired? Here's exactly what to do to get back on track fast, and how to avoid the common renewal mistakes.
 
 Source: https://traveldocumentvault.com/blog/passport-expired-what-to-do/
 

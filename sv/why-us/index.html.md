@@ -1,6 +1,6 @@
 # Varför Travel Document Vault? Privat offline pass-app
 
-> En sak mindre att oroa sig för. Din familjs pass, visum och ID i en app istället för utspritt i Foton, Drive och e-post. AES-256-GCM krypterad, offline och privat utan prenumeration.
+> Din familjs pass, visum och ID i en enda app som fungerar offline, inte kräver något konto och inte sparar något på våra servrar. Valfri end-to-end-krypterad säkerhetskopia till ditt eget iCloud eller Google Drive.
 
 Source: https://traveldocumentvault.com/sv/why-us/
 

@@ -1,6 +1,6 @@
 # Hvorfor Travel Document Vault? Privat offline pas-app
 
-> Én ting mindre at bekymre sig om. Din families pas, visa og id-kort i én app i stedet for spredt i Fotos, Drive og e-mail. AES-256-GCM krypteret, offline og privat uden abonnement.
+> Én ting mindre at bekymre sig om. Din families pas, visa og id-kort i én app i stedet for spredt i Fotos, Drive og e-mail. Virker offline, gemmer intet på vores servere og kræver intet abonnement.
 
 Source: https://traveldocumentvault.com/da/why-us/
 

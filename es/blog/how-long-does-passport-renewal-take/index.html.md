@@ -1,6 +1,6 @@
 # ¿Cuánto tiempo tarda la renovación de pasaporte? (EE.UU., Reino Unido, Australia, Canadá)
 
-> ¿Cuánto tiempo tarda la renovación de pasaporte? Tiempos de procesamiento para EE.UU., Reino Unido, Australia y Canadá. Mantente organizado con recordatorios de vencimiento inteligentes en tu bóveda cifrada con AES-256-GCM, sin conexión.
+> ¿Cuánto tiempo tarda la renovación de pasaporte? Tiempos de procesamiento para EE.UU., Reino Unido, Australia y Canadá. Mantente organizado con recordatorios de vencimiento inteligentes en tu bóveda cifrada en el dispositivo, sin conexión.
 
 Source: https://traveldocumentvault.com/es/blog/how-long-does-passport-renewal-take/
 

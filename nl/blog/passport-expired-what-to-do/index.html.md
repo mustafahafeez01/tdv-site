@@ -1,6 +1,6 @@
 # Paspoort verlopen? Dit moet je precies doen, stap voor stap
 
-> Ontdekt dat je paspoort is verlopen? Dit moet je precies doen, stap voor stap. Voorkom dit de volgende keer met slimme vervalherinneringen uit onze offline, met AES-256-GCM versleutelde kluis.
+> Ontdekt dat uw paspoort is verlopen? Dit is precies wat u moet doen om snel weer op koers te komen, en hoe u de meest voorkomende fouten bij verlenging vermijdt.
 
 Source: https://traveldocumentvault.com/nl/blog/passport-expired-what-to-do/
 

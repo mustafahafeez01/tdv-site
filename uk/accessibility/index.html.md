@@ -1,6 +1,6 @@
 # Функції доступності | Travel Document Vault
 
-> Travel Document Vault розроблено для всіх. Дізнайтеся про підтримку VoiceOver, Dynamic Type, темного режиму та зменшення руху. Шифрування AES-256-GCM, офлайн і приватно без підписки.
+> Travel Document Vault розроблено для всіх. Дізнайтеся про підтримку VoiceOver, Dynamic Type, темного режиму та зменшення руху в застосунку, що працює офлайн і зберігає документи на вашому пристрої.
 
 Source: https://traveldocumentvault.com/uk/accessibility/
 

@@ -1,6 +1,6 @@
 # Elenco di Controllo dei Documenti di Viaggio Internazionali per Ogni Viaggio
 
-> L'elenco di controllo completo dei documenti di viaggio internazionali per il 2026. Organizzate tutto offline in un unico posto con l'app crittografata AES-256-GCM di Travel Document Vault.
+> Tutto quello che serve portare, controllare e preparare prima di un viaggio internazionale. Una checklist pratica su passaporti, visti, patenti di guida e assicurazione di viaggio.
 
 Source: https://traveldocumentvault.com/it/blog/travel-document-checklist/
 

@@ -1,6 +1,6 @@
 # Varför jag byggde Travel Document Vault: För föräldern som håller koll på allt
 
-> Jag byggde Travel Document Vault för att ersätta spridda appar. Ett specialiserat, offline-valv med AES-256-GCM-kryptering, en gratisnivå med 5 dokument och ingen prenumeration.
+> Varför jag byggde Travel Document Vault efter en passkontroll klockan 3 på natten inför en familjeresa, och varför allt sparas på din egen enhet istället för en server.
 
 Source: https://traveldocumentvault.com/sv/blog/why-i-built-travel-document-vault/
 

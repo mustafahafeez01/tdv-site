@@ -1,6 +1,6 @@
 # Функции доступности | Travel Document Vault
 
-> Travel Document Vault создано для каждого. Узнайте о наших функциях VoiceOver, Dynamic Type, Dark Mode и Reduce Motion. Зашифровано AES-256-GCM, офлайн и приватно без подписки.
+> Travel Document Vault создано для каждого. Узнайте о наших функциях VoiceOver, Dynamic Type, Dark Mode и Reduce Motion в приложении, которое работает офлайн и хранит документы на вашем устройстве.
 
 Source: https://traveldocumentvault.com/ru/accessibility/
 

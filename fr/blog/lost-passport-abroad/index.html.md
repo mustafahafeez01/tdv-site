@@ -1,6 +1,6 @@
 # Vous avez perdu votre passeport à l'étranger. Voici 7 étapes immédiates
 
-> Vous avez perdu votre passeport à l'étranger. Voici 7 étapes immédiates à suivre. Évitez la panique à l'avenir en conservant des copies de sauvegarde sécurisées et chiffrées hors ligne dans notre coffre-fort chiffré AES-256-GCM.
+> Passeport perdu à l'étranger ? Sept étapes à suivre immédiatement, dans l'ordre qui vous permet d'obtenir un remplacement le plus rapidement possible.
 
 Source: https://traveldocumentvault.com/fr/blog/lost-passport-abroad/
 

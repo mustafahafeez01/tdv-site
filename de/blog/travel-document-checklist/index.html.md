@@ -1,6 +1,6 @@
 # Internationale Reisedokument-Checkliste für jede Reise
 
-> Die vollständige internationale Reisedokument-Checkliste für 2026. Organisieren Sie alles offline an einem Ort mit Travel Document Vault's AES-256-GCM verschlüsselter App.
+> Alles, was Sie vor einer internationalen Reise mitnehmen, prüfen und vorbereiten sollten. Eine praktische Checkliste zu Reisepässen, Visa, Führerscheinen und Reiseversicherung.
 
 Source: https://traveldocumentvault.com/de/blog/travel-document-checklist/
 

@@ -1,6 +1,6 @@
 # Krypterad molnsäkerhetskopia | Din molnlagring. Din nyckel. | Travel Document Vault
 
-> Ände-till-ände-krypterad säkerhetskopia i ditt eget iCloud eller Google Drive. Du håller återställningskoden. AES-256-GCM + PBKDF2 600k. Vi kommer aldrig åt den. Åtkomst från alla enheter. Offline-först.
+> Ände-till-ände-krypterad säkerhetskopia till ditt eget iCloud eller Google Drive. Bara du har återställningskoden, så ingen annan kan öppna den, inte ens vi. Byggd offline-först.
 
 Source: https://traveldocumentvault.com/sv/cloud-backup/
 

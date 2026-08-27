@@ -1,6 +1,6 @@
 # Come organizzare i documenti di viaggio in famiglia (prima del prossimo viaggio)
 
-> Scopri come organizzare i documenti di viaggio per la tua famiglia. Conserva fino a 5 documenti gratuitamente nel nostro archivio privato crittografato con AES-256-GCM e offline, con promemoria intelligenti di scadenza.
+> Come organizzare i documenti di viaggio per tutta la famiglia: cosa conservare, dove conservarlo e come evitare che una data di scadenza dimenticata rovini un viaggio.
 
 Source: https://traveldocumentvault.com/it/blog/how-to-organise-family-travel-documents/
 

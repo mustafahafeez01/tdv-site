@@ -1,6 +1,6 @@
 # 如何组织家庭旅行文件（在下次旅行前）
 
-> 了解如何为家庭组织旅行文件。在我们的私密、AES-256-GCM加密、离线保险库中免费存储最多5份文件，并享受智能过期提醒。
+> 如何为全家整理旅行文件：应该保留什么、放在哪里，以及如何避免一个被忽略的到期日毁掉整趟旅行。
 
 Source: https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-travel-documents/
 

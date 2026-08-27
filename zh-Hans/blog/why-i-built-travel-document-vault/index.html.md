@@ -1,6 +1,6 @@
 # 为什么我开发了 Travel Document Vault：献给记住一切的父母
 
-> 我开发了 Travel Document Vault 以取代分散的应用程序。一款专业的离线保险库，采用 AES-256-GCM 加密，提供 5 份文件的免费方案，无需订阅。
+> 为什么我在一次家庭旅行前凌晨三点检查护照之后，开发了 Travel Document Vault，以及为什么它把一切都存储在您自己的设备上而不是服务器上。
 
 Source: https://traveldocumentvault.com/zh-Hans/blog/why-i-built-travel-document-vault/
 

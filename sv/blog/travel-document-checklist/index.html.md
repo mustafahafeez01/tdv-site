@@ -1,6 +1,6 @@
 # Checklista för resehandlingar: allt du behöver inför internationella resor
 
-> Den kompletta checklistan för resehandlingar 2026. Organisera allt offline på ett ställe med Travel Document Vaults AES-256-GCM-krypterade app.
+> Allt du behöver ta med, kontrollera och förbereda inför en utlandsresa. En praktisk checklista som täcker pass, visum, körkort och reseförsäkring.
 
 Source: https://traveldocumentvault.com/sv/blog/travel-document-checklist/
 

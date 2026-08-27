@@ -1,6 +1,6 @@
 # Ha perso il passaporto all'estero? Ecco i 7 gesti da fare subito
 
-> Ha perso il passaporto all'estero? Ecco i 7 gesti da fare subito. Eviti il panico futuro conservando copie offline sicure nel nostro caveau con crittografia AES-256-GCM.
+> Ha perso il passaporto all'estero? Sette passi da seguire subito, nell'ordine che Le garantisce un sostituto nel minor tempo possibile.
 
 Source: https://traveldocumentvault.com/it/blog/lost-passport-abroad/
 
