@@ -91,7 +91,7 @@ Hav disse i håndbagagen hele tiden, læg dem aldrig i den indchekkede bagage: p
 
 Før du forlader hjemmet, så tag et billede af hvert dokument, og gem det i en krypteret app, ikke kamerarullen. Hvis din taske bliver væk eller stjålet, vil du gerne have dit pasnummer, forsikringens policenummer, og bookingreferencer et sted, du stadig kan tilgå på en ambassade eller politistation. En sikker digital sikkerhedskopi sparer timer, når du forsøger at få hjælp.
 
-**Travel Document Vault** gemmer krypterede kopier af hvert dokument på denne liste, organiseret pr. familiemedlem, med automatiske påmindelser om udløb. Scan én gang, og undgå panik i sidste øjeblik igen. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** gemmer krypterede kopier af hvert dokument på denne liste, organiseret pr. familiemedlem, med automatiske påmindelser om udløb. Scan én gang, og undgå panik i sidste øjeblik igen. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Tjekliste efter rejsetype
 

@@ -69,7 +69,7 @@ Las copias del pasaporte contienen información de identidad sensible: tu nombre
 - **Nunca compartas innecesariamente**. Solo proporciona tu copia del pasaporte a empresas legítimas con las que estés transaccionando activamente.
 - **Mantén las copias separadas de tu pasaporte físico**. Si tu bolsa es robada, deseas que la copia de seguridad esté en otro lugar.
 
-**Travel Document Vault** almacena copias cifradas de todos tus documentos de viaje en el dispositivo. Cifrado AES-256 en tu teléfono, sin cuenta requerida. Copia de seguridad cifrada opcional a tu propio iCloud o Google Drive (Pro) sellada con un código de recuperación solo que tú tienes. [Disponible en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** almacena copias cifradas de todos tus documentos de viaje en el dispositivo. Cifrado AES-256 en tu teléfono, sin cuenta requerida. Copia de seguridad cifrada opcional a tu propio iCloud o Google Drive (Pro) sellada con un código de recuperación solo que tú tienes. [Disponible en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 Si te preguntas si el almacenamiento en nube es seguro para copias del pasaporte, consulta nuestra guía sobre [almacenar pasaportes en Google Photos](https://traveldocumentvault.com/es/blog/is-it-safe-to-store-passport-in-google-photos/). Explica por qué una aplicación cifrada dedicada ofrece una protección más fuerte.
 

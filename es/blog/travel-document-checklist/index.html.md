@@ -91,7 +91,7 @@ Mantén esto en tu equipaje de mano en todo momento - no lo pongas en equipaje f
 
 Antes de salir de casa, toma una foto de cada documento y guárdala en una aplicación cifrada - no en tu carrete de cámara. Si tu bolsa se pierde o te la roban, querrás tu número de pasaporte, número de póliza de seguros y referencias de reserva en algún lugar que aún puedas acceder en una embajada o estación de policía. Una copia de seguridad digital segura te ahorra horas cuando intentas obtener ayuda.
 
-**Travel Document Vault** almacena copias cifradas de cada documento en esta lista - organizado por miembro de la familia, con recordatorios de caducidad automáticos. Escanea una vez, nunca te apures de nuevo. [Descargar en App Store.](https://apps.apple.com/es/app/travel-document-vault/id6757014877)
+**Travel Document Vault** almacena copias cifradas de cada documento en esta lista - organizado por miembro de la familia, con recordatorios de caducidad automáticos. Escanea una vez, nunca te apures de nuevo. [Descargar en App Store.](https://apps.apple.com/es/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Lista de verificación por tipo de viaje
 

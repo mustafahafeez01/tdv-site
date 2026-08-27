@@ -69,7 +69,7 @@ Source: https://traveldocumentvault.com/ja/blog/digital-passport-copy-valid/
 - **不必要に共有しないでください**。活動的に取引している正当なビジネスにのみパスポートコピーを提供してください。
 - **コピーを物理パスポートとは別に保管してください**。バッグが盗まれた場合、バックアップが別の場所にあるようにします。
 
-**Travel Document Vault**はすべてのデバイス上の旅行書類のすべての暗号化されたコピーを保存します。お使いのスマートフォンでAES-256で暗号化され、アカウントは不要です。オプションで、あなただけが保有する回復コードで保護された自分のiCloudまたはGoogle Drive（Pro）に暗号化されたバックアップがあります。[App Storeで利用可能です。](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault**はすべてのデバイス上の旅行書類のすべての暗号化されたコピーを保存します。お使いのスマートフォンでAES-256で暗号化され、アカウントは不要です。オプションで、あなただけが保有する回復コードで保護された自分のiCloudまたはGoogle Drive（Pro）に暗号化されたバックアップがあります。[App Storeで利用可能です。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 クラウドストレージがパスポートコピーに対して安全であるかどうか疑問に思っている場合は、[Google Photosにパスポートを保存する方法](https://traveldocumentvault.com/ja/blog/is-it-safe-to-store-passport-in-google-photos/)に関するガイドを参照してください。専用の暗号化アプリがより強力な保護を提供する理由について説明しています。
 

@@ -91,7 +91,7 @@ Bawa ini di tas jinjing Anda setiap saat, jangan pernah simpan di bagasi tercata
 
 Sebelum meninggalkan rumah, foto setiap dokumen dan simpan di aplikasi terenkripsi, bukan galeri foto Anda. Jika tas Anda hilang atau dicuri, Anda akan membutuhkan nomor paspor, nomor polis asuransi, dan referensi pemesanan di suatu tempat yang masih bisa Anda akses di kedutaan atau kantor polisi. Cadangan digital yang aman menghemat waktu berjam-jam saat Anda berusaha mendapatkan bantuan.
 
-**Travel Document Vault** menyimpan salinan terenkripsi setiap dokumen dalam daftar ini, diatur per anggota keluarga, dengan pengingat kedaluwarsa otomatis. Pindai sekali, tak perlu panik mencari lagi. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** menyimpan salinan terenkripsi setiap dokumen dalam daftar ini, diatur per anggota keluarga, dengan pengingat kedaluwarsa otomatis. Pindai sekali, tak perlu panik mencari lagi. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Daftar Periksa Berdasarkan Jenis Perjalanan
 

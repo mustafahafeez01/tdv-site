@@ -64,7 +64,7 @@ I requisiti di validità del passaporto per paese cambiano senza preavviso - un 
 
 Verificate sempre i vostri requisiti specifici utilizzando il Centro Viaggi IATA, il sistema che le compagnie aeree utilizzano per controllare i documenti dei passeggeri in tempo reale.
 
-**Travel Document Vault** segnala qualsiasi passaporto che, alla fine del vostro viaggio, non avrà più sei mesi di validità residua - per ogni membro della famiglia, automaticamente. [Scaricate gratuitamente su App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** segnala qualsiasi passaporto che, alla fine del vostro viaggio, non avrà più sei mesi di validità residua - per ogni membro della famiglia, automaticamente. [Scaricate gratuitamente su App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Come le Compagnie Aeree Applicano la Regola - Anche Quando i Paesi Non lo Fanno
 

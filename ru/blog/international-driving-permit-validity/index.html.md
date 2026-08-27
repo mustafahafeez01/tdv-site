@@ -60,7 +60,7 @@ Source: https://traveldocumentvault.com/ru/blog/international-driving-permit-val
 
 Паспорт — это обычно тот срок, за которым люди действительно следят, и на то есть причина: правила вокруг него строже и известны лучше. Если вам нужны подробности именно об этом сроке, наш материал о том, [сколько паспорт остаётся действительным для поездок](https://traveldocumentvault.com/ru/blog/how-long-is-passport-valid-for-travel/), разбирает требования к «запасу месяцев», из-за которых люди спотыкаются уже на регистрации. Правам и удостоверению обычно уделяют куда меньше внимания — именно поэтому они и просрочиваются.
 
-Это и есть практический довод в пользу того, чтобы держать все три даты в одном месте. Travel Document Vault, доступный в [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) и [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault), хранит документы на вашем устройстве и отслеживает срок действия каждого из них отдельно, поэтому удостоверение не истечёт незаметно, пока вы следите за паспортом.
+Это и есть практический довод в пользу того, чтобы держать все три даты в одном месте. Travel Document Vault, доступный в [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) и [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), хранит документы на вашем устройстве и отслеживает срок действия каждого из них отдельно, поэтому удостоверение не истечёт незаметно, пока вы следите за паспортом.
 
 ## Что проверить перед бронированием
 

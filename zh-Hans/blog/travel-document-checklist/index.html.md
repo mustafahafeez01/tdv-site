@@ -91,7 +91,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-document-checklist/
 
 在您回家前，拍摄每个文件的照片并将其存储在加密应用中 - 不是您的相机库。如果您的包被丢失或被盗，您会想在大使馆或警察局仍然可以访问的地方拥有您的护照号、保险单号和预订参考。安全的数字备份在尝试寻求帮助时可以节省数小时。
 
-**Travel Document Vault** 存储这份清单中每个文件的加密副本 - 按家庭成员组织，具有自动过期提醒。扫描一次，永不再争事。[在 App Store 下载。](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** 存储这份清单中每个文件的加密副本 - 按家庭成员组织，具有自动过期提醒。扫描一次，永不再争事。[在 App Store 下载。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 按旅行类型分类的检查清单
 

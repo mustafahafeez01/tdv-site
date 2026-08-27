@@ -58,7 +58,7 @@ Qué típicamente necesitarás (confirma con tu embajada antes de visitar):
 - Prueba de viaje de continuación - reserva de vuelo, confirmación de hotel
 - Tarifa de documento de emergencia - ten disponibles tanto efectivo como tarjeta
 
-**Travel Document Vault** almacena una copia cifrada de tu pasaporte en tu teléfono - accesible sin internet, sin inicio de sesión. Es exactamente lo que tu embajada te pedirá. [Descargar en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** almacena una copia cifrada de tu pasaporte en tu teléfono - accesible sin internet, sin inicio de sesión. Es exactamente lo que tu embajada te pedirá. [Descargar en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Paso 5: Notifica a tu Asegurador de Viaje
 

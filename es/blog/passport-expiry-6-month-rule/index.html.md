@@ -64,7 +64,7 @@ Los requisitos de validez del pasaporte por país cambian sin previo aviso - un 
 
 Siempre verifica tus requisitos específicos usando el IATA Travel Centre, el sistema que las aerolíneas usan para verificar documentos de pasajeros en tiempo real.
 
-**Travel Document Vault** señala cualquier pasaporte que se quede sin seis meses de validez para cuando termine tu viaje - para cada miembro de la familia, automáticamente. [Descárgalo gratis en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** señala cualquier pasaporte que se quede sin seis meses de validez para cuando termine tu viaje - para cada miembro de la familia, automáticamente. [Descárgalo gratis en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Cómo las Aerolíneas Aplican la Regla - Incluso Cuando los Países No
 

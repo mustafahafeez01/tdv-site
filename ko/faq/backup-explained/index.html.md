@@ -78,6 +78,6 @@ Vault Export는 기기를 변경하기 전, 주요 앱 업데이트 전, 또는 
 
 무료 다운로드. Vault Export와 로컬 백업은 모두에게 포함됩니다. Pro는 클라우드 백업, 무제한 프로필, 결합 PDF 내보내기 등을 추가합니다. 일회성 구매, 구독 없음.
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877)
+[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8)
 
 ![Google Play에서 받기](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

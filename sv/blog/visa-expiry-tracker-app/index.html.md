@@ -68,7 +68,7 @@ Med all denna komplexitet i åtanke behöver en bra app för visumbevakning hant
 - **Integritetsmodell:** Visumuppgifter är känslig, identitetskopplad data. Precis som med passförvaring är kryptering på enheten utan molnuppladdning den säkraste arkitekturen.
 - **Bevakning av pass och visum tillsammans:** Ett vanligt men lätt förbisett misstag är att ha ett giltigt visum men ett pass som går ut under den planerade vistelsen. Att bevaka båda på samma ställe förhindrar den här krocken.
 
-**Travel Document Vault** bevakar både pass och visums utgångsdatum på samma ställe, med separata påminnelser per dokument och stöd för flera resenärer. Din data stannar på enheten och är AES-256-krypterad, inget konto krävs, med valfri krypterad backup till ditt eget iCloud eller Google Drive (Pro). [Den finns på App Store och Google Play som ett engångsköp, ingen prenumeration.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** bevakar både pass och visums utgångsdatum på samma ställe, med separata påminnelser per dokument och stöd för flera resenärer. Din data stannar på enheten och är AES-256-krypterad, inget konto krävs, med valfri krypterad backup till ditt eget iCloud eller Google Drive (Pro). [Den finns på App Store och Google Play som ett engångsköp, ingen prenumeration.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Praktiska steg för att bevaka ditt visum ordentligt
 

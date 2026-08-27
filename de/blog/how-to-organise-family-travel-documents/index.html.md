@@ -95,7 +95,7 @@ Hier ist das Fehlermuster, das Familien überrascht: Sie erneuern Ihren eigenen 
 
 Jeder dieser drei Ansätze funktioniert - was zählt, ist, einen auszuwählen, der zu Ihrer bereits bestehenden Arbeitsweise passt, und ihn tatsächlich durchzuhalten.
 
-**Travel Document Vault** verwaltet das Ablaufdatum-Tracking für jedes Familienmitglied automatisch - scannen Sie jeden Reisepass einmal und erhalten Sie Erinnerungen ab acht Monaten vorher. Keine Tabellenkalkulation, keine vergessenen Erneuerungen. [Im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** verwaltet das Ablaufdatum-Tracking für jedes Familienmitglied automatisch - scannen Sie jeden Reisepass einmal und erhalten Sie Erinnerungen ab acht Monaten vorher. Keine Tabellenkalkulation, keine vergessenen Erneuerungen. [Im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Checkliste vor der Reise für Familien
 

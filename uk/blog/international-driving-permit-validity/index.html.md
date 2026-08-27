@@ -60,7 +60,7 @@ Source: https://traveldocumentvault.com/uk/blog/international-driving-permit-val
 
 Дату паспорта люди зазвичай і справді відстежують, і на це є причина: правила щодо нього суворіші й краще відомі. Якщо вас цікавлять деталі саме про цей відлік, наш посібник про те, [скільки діє паспорт для подорожей](https://traveldocumentvault.com/uk/blog/how-long-is-passport-valid-for-travel/), розповідає про вимоги щодо місяців чинності, які підводять людей на реєстрації. Посвідченню водія та МВП рідко приділяють стільки ж уваги, тому саме вони найчастіше й закінчуються непомітно.
 
-Це і є практичний аргумент на користь того, щоб зберігати всі три дати в одному місці. Travel Document Vault, доступний в [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) та [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault), зберігає документи на вашому пристрої і відстежує кожен термін дії окремо, тож МВП не закінчиться непомітно, поки ви стежите за паспортом.
+Це і є практичний аргумент на користь того, щоб зберігати всі три дати в одному місці. Travel Document Vault, доступний в [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) та [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), зберігає документи на вашому пристрої і відстежує кожен термін дії окремо, тож МВП не закінчиться непомітно, поки ви стежите за паспортом.
 
 ## Що перевірити перед бронюванням
 

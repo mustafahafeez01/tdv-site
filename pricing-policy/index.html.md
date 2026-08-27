@@ -116,7 +116,7 @@ The free tier will always remain **genuinely useful**, not a crippled trial. It'
 All purchases are processed through:
 
 - **Apple App Store** (iOS, iPadOS, macOS)
-- **Google Play Store** (Android). [available now](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault)
+- **Google Play Store** (Android). [available now](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dpricing)
 
 We do not:
 

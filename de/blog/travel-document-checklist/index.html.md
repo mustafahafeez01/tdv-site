@@ -91,7 +91,7 @@ Halten Sie diese in Ihrem Handgepäck jederzeit bei sich - legen Sie sie nicht i
 
 Bevor Sie das Haus verlassen, machen Sie ein Foto von jedem Dokument und speichern Sie es in einer verschlüsselten App - nicht Ihrer Kamerarolle. Falls Ihre Tasche verloren geht oder gestohlen wird, Sie möchten Ihre Passnummer, Versicherungspolice-Nummer und Buchungsreferenzen irgendwo, wo Sie sie noch auf einer Botschaft oder Polizeistation erreichen können. Ein sicherer digitaler Sicherung spart Stunden, wenn Sie versuchen, Hilfe zu bekommen.
 
-**Travel Document Vault** speichert verschlüsselte Kopien jedes Dokuments in dieser Liste - organisiert nach Familienmitglied, mit automatischen Ablauferinnerungen. Scannen Sie einmal, niemals mehr Durcheinander. [Im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** speichert verschlüsselte Kopien jedes Dokuments in dieser Liste - organisiert nach Familienmitglied, mit automatischen Ablauferinnerungen. Scannen Sie einmal, niemals mehr Durcheinander. [Im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Checkliste nach Reisetyp
 

@@ -95,7 +95,7 @@ Dit is het patroon dat gezinnen te pakken krijgt: je vernieuwt je eigen paspoort
 
 Alle drie de methoden werken - waar het op aankomt is er een kiezen die past bij hoe je al werkt en er ook echt aan vasthouden.
 
-**Travel Document Vault** houdt de vervaldatums voor elk gezinslid automatisch bij - scan elk paspoort één keer en krijg herinneringen vanaf acht maanden voor de vervaldatum. Geen spreadsheet, geen vergeten verlengingen. [Download in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** houdt de vervaldatums voor elk gezinslid automatisch bij - scan elk paspoort één keer en krijg herinneringen vanaf acht maanden voor de vervaldatum. Geen spreadsheet, geen vergeten verlengingen. [Download in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Checklist voor gezinnen voor vertrek
 

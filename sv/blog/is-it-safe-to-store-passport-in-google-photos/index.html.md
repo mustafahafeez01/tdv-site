@@ -83,7 +83,7 @@ Samma risk för kontokompromettering gäller båda plattformarna. Ett svagt Appl
 
 Är du iPhone-användare är det värt att aktivera **Avancerat dataskydd i iCloud**. En specialbyggd krypterad app utan molnuppladdning förblir det starkaste alternativet för passlagring oavsett vilken plattform du använder.
 
-**Travel Document Vault** sparar dina passkopior på enheten med stark kryptering. Inget konto krävs. Valfri krypterad säkerhetskopiering till ditt eget iCloud eller Google Drive (Pro), skyddad med en återställningskod som bara du har. [Ladda ner på App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** sparar dina passkopior på enheten med stark kryptering. Inget konto krävs. Valfri krypterad säkerhetskopiering till ditt eget iCloud eller Google Drive (Pro), skyddad med en återställningskod som bara du har. [Ladda ner på App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Vilka är de säkrare alternativen?
 

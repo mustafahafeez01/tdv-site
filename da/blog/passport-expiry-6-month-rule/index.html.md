@@ -62,7 +62,7 @@ Tabellen er et øjebliksbillede, ikke det fulde overblik: kravene varierer også
 
 Paskrav efter land ændrer sig uden varsel, og en bilateral aftale kan stille og roligt ændre reglerne for netop dit pas, hvilket er grunden til, at det ikke er paranoia at tjekke en opdateret officiel kilde før hver international rejse - det er bare god praksis: brug IATA Travel Centre, det samme system flyselskaberne bruger til at tjekke passagerdokumenter i realtid.
 
-**Travel Document Vault** markerer ethvert pas, der ikke længere har seks måneders gyldighed tilbage, når din rejse slutter - for hvert familiemedlem, automatisk. [Hent gratis fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** markerer ethvert pas, der ikke længere har seks måneders gyldighed tilbage, når din rejse slutter - for hvert familiemedlem, automatisk. [Hent gratis fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Sådan håndhæver flyselskaberne reglen - selv når landene ikke gør det
 

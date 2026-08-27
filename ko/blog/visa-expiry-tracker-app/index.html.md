@@ -68,7 +68,7 @@ Source: https://traveldocumentvault.com/ko/blog/visa-expiry-tracker-app/
 - **개인정보 모델:** 비자 세부정보는 신분증 관련 민감 데이터입니다. 여권 저장과 마찬가지로 클라우드 업로드 없이 기기 내 암호화가 가장 안전한 아키텍처입니다.
 - **여권과 비자 추적 함께:** 흔하지만 간과되는 실수는 유효한 비자를 가지고 있지만 계획된 체류 중 여권이 만료되는 경우입니다. 같은 장소에서 둘 다 추적하면 이러한 불일치를 방지합니다.
 
-**Travel Document Vault**는 여권과 비자 만료 기한을 한 곳에서 추적하고 문서별 별도 알림 및 여러 여행자 지원이 있습니다. 데이터는 기기 내 AES-256 암호화로 유지되며 계정 불필요, 자신의 iCloud 또는 Google Drive에 선택 암호화 백업이 가능합니다(Pro). [App Store에서 일회 구매로 사용 가능합니다.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault**는 여권과 비자 만료 기한을 한 곳에서 추적하고 문서별 별도 알림 및 여러 여행자 지원이 있습니다. 데이터는 기기 내 AES-256 암호화로 유지되며 계정 불필요, 자신의 iCloud 또는 Google Drive에 선택 암호화 백업이 가능합니다(Pro). [App Store에서 일회 구매로 사용 가능합니다.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 비자를 올바르게 추적하기 위한 실질적 단계
 

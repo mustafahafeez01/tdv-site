@@ -64,7 +64,7 @@ Os requisitos de validade do passaporte por país mudam sem aviso prévio - um a
 
 Sempre verifique os seus requisitos específicos utilizando o Centro de Viagens IATA, o sistema que as companhias aéreas utilizam para verificar documentos de passageiros em tempo real.
 
-**Travel Document Vault** assinala qualquer passaporte que já não tenha seis meses de validade no final da sua viagem - para cada membro da família, automaticamente. [Descarregue gratuitamente na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** assinala qualquer passaporte que já não tenha seis meses de validade no final da sua viagem - para cada membro da família, automaticamente. [Descarregue gratuitamente na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Como as Companhias Aéreas Aplicam a Regra - Mesmo Quando os Países Não o Fazem
 

@@ -95,7 +95,7 @@ Aquí está el patrón de fallo que atrapa a las familias: renuevas tu propio pa
 
 Cualquiera de estos tres enfoques funcionará - lo importante es elegir uno que se ajuste a cómo ya operas y realmente adherirse a él.
 
-**Travel Document Vault** maneja el seguimiento de vencimiento para cada miembro de la familia automáticamente - escanea cada pasaporte una vez y obtén recordatorios desde ocho meses antes. Sin hoja de cálculo, sin renovaciones olvidadas. [Descargar en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** maneja el seguimiento de vencimiento para cada miembro de la familia automáticamente - escanea cada pasaporte una vez y obtén recordatorios desde ocho meses antes. Sin hoja de cálculo, sin renovaciones olvidadas. [Descargar en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Lista de verificación de documentos previo al viaje para familias
 

@@ -62,7 +62,7 @@ Tabel ini hanyalah gambaran sekilas, bukan gambaran lengkap: persyaratan juga be
 
 Persyaratan masa berlaku paspor per negara bisa berubah tanpa pemberitahuan, dan perjanjian bilateral bisa diam-diam mengubah aturan untuk paspor Anda secara spesifik. Itulah sebabnya memeriksa sumber resmi terbaru sebelum setiap perjalanan internasional bukanlah sikap berlebihan, melainkan sekadar kebiasaan baik: gunakan IATA Travel Centre, sistem yang sama yang digunakan maskapai untuk memeriksa dokumen penumpang secara real-time.
 
-**Travel Document Vault** akan menandai paspor mana pun yang masa berlakunya kurang dari enam bulan saat perjalanan Anda berakhir - untuk setiap anggota keluarga, secara otomatis. [Unduh gratis di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** akan menandai paspor mana pun yang masa berlakunya kurang dari enam bulan saat perjalanan Anda berakhir - untuk setiap anggota keluarga, secara otomatis. [Unduh gratis di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Bagaimana Maskapai Menerapkan Aturan Ini - Bahkan Saat Negara Tidak
 

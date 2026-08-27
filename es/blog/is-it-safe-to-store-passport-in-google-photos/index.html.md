@@ -83,7 +83,7 @@ El mismo riesgo de compromiso de cuenta se aplica a ambas plataformas. Una contr
 
 Si eres un usuario de iPhone, habilitar **Advanced Data Protection en iCloud** vale la pena hacer. Una aplicación cifrada construida a propósito sin carga a la nube sigue siendo la opción más fuerte para almacenamiento de pasaportes independientemente de la plataforma en la que estés.
 
-**Travel Document Vault** almacena tus fotos del pasaporte en el dispositivo con cifrado fuerte. No se requiere cuenta. Copia de seguridad cifrada opcional a tu propio iCloud o Google Drive (Pro), sellada con un código de recuperación que solo tú posees. [Descargar en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** almacena tus fotos del pasaporte en el dispositivo con cifrado fuerte. No se requiere cuenta. Copia de seguridad cifrada opcional a tu propio iCloud o Google Drive (Pro), sellada con un código de recuperación que solo tú posees. [Descargar en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## ¿Cuáles son las alternativas más seguras?
 

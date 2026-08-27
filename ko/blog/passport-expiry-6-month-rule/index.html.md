@@ -64,7 +64,7 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/
 
 항상 IATA Travel Centre를 사용하여 특정 요구사항을 확인하십시오. 이것은 항공사가 실시간으로 승객 서류를 확인하는 데 사용하는 시스템입니다.
 
-**Travel Document Vault**는 여행이 끝나는 시점에 유효기간이 6개월 미만으로 남는 여권이 있으면 가족 구성원 전원에 대해 자동으로 표시해 드립니다. [App Store에서 무료로 다운로드하세요.](https://apps.apple.com/kr/app/travel-document-vault/id6757014877)
+**Travel Document Vault**는 여행이 끝나는 시점에 유효기간이 6개월 미만으로 남는 여권이 있으면 가족 구성원 전원에 대해 자동으로 표시해 드립니다. [App Store에서 무료로 다운로드하세요.](https://apps.apple.com/kr/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 항공사가 규칙을 시행하는 방법 - 국가가 시행하지 않아도
 

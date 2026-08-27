@@ -77,4 +77,4 @@ Após a importação, verifique o separador Perfis para confirmar que todos os p
 
 A Exportação e Importação do Cofre são gratuitas para todos. Pro adiciona cópia de segurança na nuvem, perfis ilimitados, exportação PDF combinada e muito mais. Compra única, sem subscrição.
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault)
+[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8) [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dfaq)

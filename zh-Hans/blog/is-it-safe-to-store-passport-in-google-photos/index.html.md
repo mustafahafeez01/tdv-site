@@ -83,7 +83,7 @@ Apple 的 Advanced Data Protection（iOS 16.2+ 中提供）确实提高了门槛
 
 如果您是 iPhone 用户，在 iCloud 中启用**Advanced Data Protection** 是值得做的事情。无论您在哪个平台上，具有零云上传的专用加密应用都是护照存储的最强选择。
 
-**Travel Document Vault** 使用强加密在设备端存储您的护照扫描件。无需账户。可选的加密备份到您自己的 iCloud 或 Google Drive（Pro），仅由您持有的恢复码封闭。[在 App Store 上下载。](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** 使用强加密在设备端存储您的护照扫描件。无需账户。可选的加密备份到您自己的 iCloud 或 Google Drive（Pro），仅由您持有的恢复码封闭。[在 App Store 上下载。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 更安全的替代方案是什么
 

@@ -91,7 +91,7 @@ Ha dessa i handbagaget hela tiden, lägg dem aldrig i det incheckade bagaget: pa
 
 Innan du lämnar hemmet, fotografera varje handling och spara den i en krypterad app, inte kamerarullen. Om din väska kommer bort eller blir stulen vill du ha ditt passnummer, försäkringens försäkringsnummer, och bokningsreferenser någonstans du fortfarande kan komma åt på en ambassad eller polisstation. En säker digital säkerhetskopia sparar timmar när du försöker få hjälp.
 
-**Travel Document Vault** lagrar krypterade kopior av varje handling på den här listan, organiserade per familjemedlem, med automatiska påminnelser om utgångsdatum. Skanna en gång, leta aldrig i sista sekunden igen. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** lagrar krypterade kopior av varje handling på den här listan, organiserade per familjemedlem, med automatiska påminnelser om utgångsdatum. Skanna en gång, leta aldrig i sista sekunden igen. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Checklista per resetyp
 

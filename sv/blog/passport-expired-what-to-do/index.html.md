@@ -32,7 +32,7 @@ Hur brådskande du behöver agera avgör vad du ska göra:
 
 Alla större passmyndigheter håller tillbaka akuttider som inte syns online. Om din tidsram är snäv, ring i stället för att bara förlita dig på webbplatsen.
 
-**Ställ in påminnelsen nu** så att det aldrig händer igen - Travel Document Vault meddelar dig redan från åtta månader innan varje pass i ditt hushåll går ut, och sedan igen allteftersom datumet närmar sig. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Ställ in påminnelsen nu** så att det aldrig händer igen - Travel Document Vault meddelar dig redan från åtta månader innan varje pass i ditt hushåll går ut, och sedan igen allteftersom datumet närmar sig. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Scenario B: Du upptäckte det på flygplatsen
 

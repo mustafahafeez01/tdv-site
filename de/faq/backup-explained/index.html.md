@@ -78,6 +78,6 @@ Keine einzelne Ebene ist ein Grund, die anderen zu überspringen. Cloud-Konten k
 
 Kostenloser Download. Vault-Export und lokale Sicherungen sind für alle enthalten. Pro fügt Cloud-Sicherung, unbegrenzte Profile, kombinierter PDF-Export und mehr hinzu. Einmaliger Kauf, kein Abonnement.
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877)
+[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8)
 
 ![Bei Google Play herunterladen](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

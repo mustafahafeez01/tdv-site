@@ -62,7 +62,7 @@ Immigration, Refugees and Citizenship Canada (IRCC) processa renovações de pas
 
 Isto torna o processo mais exigente logisticamente, especialmente se vive algures rural e o escritório de passaportes mais próximo fica longe. Consulte a página do IRCC para tempos de processamento atuais antes de se candidatar, e some o tempo de envio em cada sentido se se candidatar por correio.
 
-**Defina um lembrete de renovação agora** - Travel Document Vault notifica-o 6, 3 e 1 mês antes do seu passaporte expirar, para que esteja sempre a renovar com tempo de sobra. [Transferir na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Defina um lembrete de renovação agora** - Travel Document Vault notifica-o 6, 3 e 1 mês antes do seu passaporte expirar, para que esteja sempre a renovar com tempo de sobra. [Transferir na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Dicas de Renovação de Passaporte Acelerada: Como Acelerar as Coisas
 
@@ -97,7 +97,7 @@ Tem viagem marcada nas próximas semanas e o seu passaporte está prestes a expi
 3. **Verifique a sua política de seguro de viagem.** Algumas políticas cobrem custos extras de renovação urgente de passaporte. A maioria exclui situações em que a renovação era previsível - mas vale a pena verificar antes de gastar o dinheiro.
 4. **Pergunte sobre reagendar a sua viagem.** Companhias aéreas e hotéis variam, mas muitos dispensarão taxas de alteração para emergências documentadas de passaporte. Não é garantido, mas não custa nada perguntar.
 
-**A melhor solução é evitar a situação completamente.** Se está a gerir passaportes para vários membros da família, uma aplicação como [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877) envia-lhe lembretes de validade 6 meses, 3 meses e 1 mês - para que esteja a renovar com bastante tempo, não em pânico no último minuto. Consulte mais [dicas de documentos de viagem](https://traveldocumentvault.com/pt/blog/) neste blogue para estratégias que mantêm tudo em ordem.
+**A melhor solução é evitar a situação completamente.** Se está a gerir passaportes para vários membros da família, uma aplicação como [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) envia-lhe lembretes de validade 6 meses, 3 meses e 1 mês - para que esteja a renovar com bastante tempo, não em pânico no último minuto. Consulte mais [dicas de documentos de viagem](https://traveldocumentvault.com/pt/blog/) neste blogue para estratégias que mantêm tudo em ordem.
 
 Uma coisa mais que vale a pena ler: a [regra de 6 meses de validade de passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/). Um passaporte recém-renovado ainda precisa cumprir os requisitos de validade do país de destino - e muitos viajantes ficam apanhados por isto.
 

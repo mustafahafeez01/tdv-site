@@ -32,7 +32,7 @@ Lo urgente que necesites actuar determina qué hacer:
 
 Todas las principales autoridades de pasaportes retienen ranuras de cita de emergencia que no son visibles en línea. Si tu cronograma es ajustado, llama en lugar de confiar solo en el sitio web.
 
-**Establece el recordatorio ahora** para que esto nunca vuelva a suceder - Travel Document Vault empieza a notificarte desde ocho meses antes de que caduque cada pasaporte en tu hogar, y de nuevo a medida que se acerca la fecha. [Descarga en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Establece el recordatorio ahora** para que esto nunca vuelva a suceder - Travel Document Vault empieza a notificarte desde ocho meses antes de que caduque cada pasaporte en tu hogar, y de nuevo a medida que se acerca la fecha. [Descarga en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Escenario B: Lo Descubriste en el Aeropuerto
 

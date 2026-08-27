@@ -60,7 +60,7 @@ Rien ne vous prévient quand le plus court de ces délais arrive à échéance. 
 
 Le passeport est généralement la date que l'on surveille, et ce n'est pas un hasard : les règles qui l'entourent sont plus strictes et mieux connues. Si vous voulez le détail sur cette horloge en particulier, notre guide sur la [durée de validité d'un passeport pour voyager](https://traveldocumentvault.com/fr/blog/how-long-is-passport-valid-for-travel/) couvre les exigences de mois de validité qui piègent les voyageurs à l'enregistrement. Le permis national et le PCI reçoivent rarement la même attention, ce qui explique qu'ils soient ceux qui expirent sans qu'on s'en aperçoive.
 
-C'est l'argument pratique pour garder ces trois dates au même endroit. Travel Document Vault, disponible sur l'[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) et [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault), conserve les documents sur votre appareil et suit chaque date d'expiration indépendamment, afin que le PCI n'expire pas discrètement pendant que vous surveillez le passeport.
+C'est l'argument pratique pour garder ces trois dates au même endroit. Travel Document Vault, disponible sur l'[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) et [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), conserve les documents sur votre appareil et suit chaque date d'expiration indépendamment, afin que le PCI n'expire pas discrètement pendant que vous surveillez le passeport.
 
 ## Ce qu'il faut vérifier avant de réserver
 

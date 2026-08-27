@@ -80,7 +80,7 @@ A one-time purchase app, by contrast, remains fully functional indefinitely. You
 
 ## How Travel Document Vault Approaches This
 
-**Travel Document Vault** takes the privacy-first, offline-first approach described above. Data stays on your device, encrypted with AES-256, and no account is required, though you can optionally back up encrypted data to your own iCloud or Google Drive (Pro feature). It supports multiple travellers and passport and visa expiry tracking, works fully offline, and is available on the App Store as a [one-time purchase, no subscription](https://apps.apple.com/app/travel-document-vault/id6757014877).
+**Travel Document Vault** takes the privacy-first, offline-first approach described above. Data stays on your device, encrypted with AES-256, and no account is required, though you can optionally back up encrypted data to your own iCloud or Google Drive (Pro feature). It supports multiple travellers and passport and visa expiry tracking, works fully offline, and is available on the App Store as a [one-time purchase, no subscription](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8).
 
 ## A Practical Checklist Before You Download
 

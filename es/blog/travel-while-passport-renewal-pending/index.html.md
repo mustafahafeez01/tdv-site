@@ -40,7 +40,7 @@ Reino Unido tiene dos caminos de renovación, y tienen implicaciones completamen
 
 **Renovación digital** está actualmente disponible para adultos elegibles que solicitan desde dentro de Reino Unido. Conservas tu pasaporte actual durante todo el proceso, y el gobierno emite tu nuevo pasaporte por separado y te lo envía por correo. Debido a que tu pasaporte existente nunca deja tu posesión, generalmente puedes seguir usándolo para viajar mientras se procesa el nuevo. La elegibilidad varía según las circunstancias individuales, así que consulta el sitio web de HM Passport Office para los criterios completos y los tiempos actuales antes de solicitar.
 
-**Planifica con antelación antes de solicitar.** Rastrea la expiración de tu pasaporte con [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877) para que sepas exactamente cuánto tiempo tienes antes de necesitar renovar, y puedas elegir el método correcto sin presión.
+**Planifica con antelación antes de solicitar.** Rastrea la expiración de tu pasaporte con [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) para que sepas exactamente cuánto tiempo tienes antes de necesitar renovar, y puedas elegir el método correcto sin presión.
 
 ## Australia: Entregar y esperar
 

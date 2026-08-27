@@ -62,7 +62,7 @@ Immigration, Refugees and Citizenship Canada (IRCC) tramita las renovaciones de 
 
 Eso hace el proceso más exigente logísticamente, especialmente si vives en algún lugar rural y la oficina de pasaportes más cercana está lejos. Consulta la página de IRCC para los tiempos de procesamiento actuales antes de solicitar, y suma el tiempo de envío en ambas direcciones si aplicas por correo.
 
-**Establece un recordatorio de renovación ahora** - Travel Document Vault te notifica 6, 3 y 1 mes antes de que tu pasaporte venza, así que siempre estás renovando con tiempo de sobra. [Descarga desde App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Establece un recordatorio de renovación ahora** - Travel Document Vault te notifica 6, 3 y 1 mes antes de que tu pasaporte venza, así que siempre estás renovando con tiempo de sobra. [Descarga desde App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Consejos de renovación de pasaporte acelerada: Cómo acelerar las cosas
 
@@ -97,7 +97,7 @@ Tienes viaje reservado en las próximas pocas semanas y tu pasaporte está a pun
 3. **Verifica tu póliza de seguro de viaje.** Algunas pólizas cubren costos extras de renovación de pasaporte urgente. La mayoría excluye situaciones donde la renovación era previsible - pero vale la pena mirar antes de gastar el dinero.
 4. **Pregunta sobre reprogramar tu viaje.** Aerolíneas y hoteles varían, pero muchos waivearán tarifas de cambio para emergencias de pasaporte documentadas. No está garantizado, pero no cuesta nada preguntar.
 
-**La mejor solución es evitar la situación completamente.** Si estás manejando pasaportes para múltiples miembros de la familia, una aplicación como [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877) te envía recordatorios de vencimiento a los 6 meses, 3 meses, y 1 mes - así que estás renovando con montones de tiempo, no luchando en el último minuto. Consulta más [consejos de documentos de viaje](https://traveldocumentvault.com/es/) en este blog para estrategias que mantengan todo en orden.
+**La mejor solución es evitar la situación completamente.** Si estás manejando pasaportes para múltiples miembros de la familia, una aplicación como [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) te envía recordatorios de vencimiento a los 6 meses, 3 meses, y 1 mes - así que estás renovando con montones de tiempo, no luchando en el último minuto. Consulta más [consejos de documentos de viaje](https://traveldocumentvault.com/es/) en este blog para estrategias que mantengan todo en orden.
 
 Una cosa más vale la pena leer: la [regla de pasaporte de 6 meses](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/). Un pasaporte recién renovado aún necesita cumplir requisitos de validez de tu país de destino - y muchos viajeros se ven atrapados por esto.
 

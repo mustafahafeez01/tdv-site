@@ -68,7 +68,7 @@ Dengan semua kompleksitas ini, aplikasi pelacak kedaluwarsa visa yang baik perlu
 - **Model privasi:** Detail visa adalah data sensitif yang terkait dengan identitas. Seperti halnya penyimpanan paspor, enkripsi di perangkat tanpa unggahan ke cloud adalah arsitektur yang paling aman.
 - **Pelacakan paspor dan visa bersamaan:** Kesalahan umum namun sering terlewat adalah memiliki visa yang masih berlaku tetapi paspor yang kedaluwarsa selama masa tinggal yang direncanakan. Melacak keduanya di tempat yang sama mencegah ketidaksesuaian ini.
 
-**Travel Document Vault** melacak tanggal kedaluwarsa paspor dan visa di satu tempat, dengan pengingat terpisah per dokumen dan dukungan untuk beberapa pelancong. Data Anda tetap di perangkat dan terenkripsi AES-256, tanpa perlu akun, dengan opsi cadangan terenkripsi ke iCloud atau Google Drive Anda sendiri (Pro). [Tersedia di App Store dan Google Play sebagai pembelian sekali bayar, tanpa langganan.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** melacak tanggal kedaluwarsa paspor dan visa di satu tempat, dengan pengingat terpisah per dokumen dan dukungan untuk beberapa pelancong. Data Anda tetap di perangkat dan terenkripsi AES-256, tanpa perlu akun, dengan opsi cadangan terenkripsi ke iCloud atau Google Drive Anda sendiri (Pro). [Tersedia di App Store dan Google Play sebagai pembelian sekali bayar, tanpa langganan.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Langkah Praktis untuk Melacak Visa Anda dengan Benar
 

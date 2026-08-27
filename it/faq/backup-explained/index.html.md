@@ -78,6 +78,6 @@ Nessun singolo livello è un motivo per saltare gli altri. Gli account cloud pos
 
 Download gratuito. Vault Export e backup locali sono inclusi per tutti. Pro aggiunge cloud backup, profili illimitati, esportazione PDF combinata, e altro ancora. Acquisto una tantum, nessun abbonamento.
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877)
+[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8)
 
 ![Disponibile su Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

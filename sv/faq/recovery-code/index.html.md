@@ -50,4 +50,4 @@ Om du tror att din återställningskod har komprometterats, stäng av molnsäker
 
 Ladda ner Travel Document Vault och aktivera molnsäkerhetskopia för att hålla dina dokument säkra.
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault)
+[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8) [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dfaq)

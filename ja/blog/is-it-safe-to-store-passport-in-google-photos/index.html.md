@@ -83,7 +83,7 @@ Appleの Advanced Data Protection (iOS 16.2+で利用可能) はセキュリテ�
 
 iPhoneユーザーの場合は、**iCloudの Advanced Data Protection**を有効にすることは価値があります。ただし、クラウドアップロードのないオンデバイス暗号化アプリは、どちらのプラットフォームでもパスポート保存の最強のオプションのままです。
 
-**Travel Document Vault**はパスポートスキャンを強力な暗号化を使用してデバイスに保存します。アカウントは不要です。オプションでiCloudまたはGoogle Driveに暗号化バックアップを保存できます (Pro) - あなただけが持つ回復コードで保護されています。[App Storeからダウンロード。](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault**はパスポートスキャンを強力な暗号化を使用してデバイスに保存します。アカウントは不要です。オプションでiCloudまたはGoogle Driveに暗号化バックアップを保存できます (Pro) - あなただけが持つ回復コードで保護されています。[App Storeからダウンロード。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## より安全な選択肢は何ですか
 

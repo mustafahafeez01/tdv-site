@@ -40,7 +40,7 @@ Het Verenigd Koninkrijk kent twee verlengingsroutes, en die hebben totaal versch
 
 **Digitale verlenging** is momenteel beschikbaar voor in aanmerking komende volwassenen die vanuit het Verenigd Koninkrijk aanvragen. Je houdt je huidige paspoort gedurende het hele proces bij je, en de overheid geeft je nieuwe paspoort apart uit en stuurt het naar je op. Omdat je bestaande paspoort nooit uit je bezit gaat, kun je het in de regel gewoon blijven gebruiken om te reizen terwijl het nieuwe wordt verwerkt. De voorwaarden verschillen per individuele situatie, dus controleer de website van HM Passport Office voor de volledige criteria en actuele tijden voordat je een aanvraag indient.
 
-**Plan vooruit voordat je een aanvraag indient.** Houd de vervaldatum van je paspoort bij met [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877), zodat je precies weet hoeveel tijd je hebt voordat je moet verlengen, en zonder druk de juiste methode kunt kiezen.
+**Plan vooruit voordat je een aanvraag indient.** Houd de vervaldatum van je paspoort bij met [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8), zodat je precies weet hoeveel tijd je hebt voordat je moet verlengen, en zonder druk de juiste methode kunt kiezen.
 
 ## Australië: inleveren en wachten
 

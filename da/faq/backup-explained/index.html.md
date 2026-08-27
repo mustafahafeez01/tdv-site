@@ -78,6 +78,6 @@ Intet enkelt lag er en grund til at springe de andre over. Cloud-konti kan miste
 
 Gratis download. Vault Export og lokale sikkerhedskopier er inkluderet for alle. Pro tilføjer cloud-sikkerhedskopiering, ubegrænsede profiler, kombineret PDF-eksport og mere. Engangskøb, intet abonnement.
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877)
+[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8)
 
 ![Hent det på Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

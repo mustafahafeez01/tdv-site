@@ -95,7 +95,7 @@ Voici le modèle d'échec qui attrape les familles: vous renouvelez votre propre
 
 N'importe lequel de ces trois approches fonctionne - ce qui compte est de choisir une qui correspond à votre fonctionnement et de vous y tenir réellement.
 
-**Travel Document Vault** gère le suivi de l'expiration pour tous les membres de la famille automatiquement - numérisez chaque passeport une fois et recevez des rappels dès huit mois avant l'échéance. Pas de feuille de calcul, pas de renouvellements oubliés. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** gère le suivi de l'expiration pour tous les membres de la famille automatiquement - numérisez chaque passeport une fois et recevez des rappels dès huit mois avant l'échéance. Pas de feuille de calcul, pas de renouvellements oubliés. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Liste de contrôle pré-voyage pour les familles
 

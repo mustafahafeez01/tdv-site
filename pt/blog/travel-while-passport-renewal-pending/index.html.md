@@ -40,7 +40,7 @@ O Reino Unido tem dois caminhos de renovação, e têm implicações completamen
 
 **Renovação digital** está atualmente disponível para adultos elegíveis que se candidatam de dentro do Reino Unido. Mantém o seu passaporte atual durante todo o processo, e o governo emite o seu novo passaporte separadamente e o envia para si por correio. Como o seu passaporte existente nunca sai da sua posse, pode geralmente continuar a usá-lo para viagens enquanto o novo está a ser processado. A elegibilidade varia de acordo com as circunstâncias individuais, portanto verifique o site do Serviço de Passaportes do Reino Unido para os critérios completos e tempos actuais antes de se candidatar.
 
-**Planeie com antecedência antes de se candidatar.** Monitore a expiração do seu passaporte com [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877) para saber exatamente quanto tempo tem antes de precisar de renovar, e poder escolher o método certo sem pressão.
+**Planeie com antecedência antes de se candidatar.** Monitore a expiração do seu passaporte com [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) para saber exatamente quanto tempo tem antes de precisar de renovar, e poder escolher o método certo sem pressão.
 
 ## Austrália: Entrega e Espera
 

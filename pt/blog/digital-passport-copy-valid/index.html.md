@@ -69,7 +69,7 @@ As cópias de passaporte contêm informações sensíveis de identidade: o seu n
 - **Nunca partilhe desnecessariamente**. Apenas forneça a cópia do seu passaporte a negócios legítimos com os quais está ativamente a transacionar.
 - **Mantenha as cópias separadas do seu passaporte físico**. Se a sua mala for roubada, quer que a cópia de segurança esteja noutro lugar.
 
-**Travel Document Vault** armazena cópias encriptadas de todos os seus documentos de viagem no dispositivo. Encriptado com AES-256 no seu telemóvel, sem conta obrigatória. Cópia de segurança encriptada opcional para o seu próprio iCloud ou Google Drive (Pro) selada com um código de recuperação apenas você possui. [Disponível na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** armazena cópias encriptadas de todos os seus documentos de viagem no dispositivo. Encriptado com AES-256 no seu telemóvel, sem conta obrigatória. Cópia de segurança encriptada opcional para o seu próprio iCloud ou Google Drive (Pro) selada com um código de recuperação apenas você possui. [Disponível na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 Se está a questionar se o armazenamento em nuvem é seguro para cópias de passaporte, consulte o nosso guia sobre [armazenar passaportes no Google Photos](https://traveldocumentvault.com/pt/blog/is-it-safe-to-store-passport-in-google-photos/). Explica por que uma aplicação encriptada dedicada oferece proteção mais forte.
 

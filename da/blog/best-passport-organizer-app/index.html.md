@@ -78,7 +78,7 @@ En app med engangskøb forbliver derimod fuldt funktionsdygtig på ubestemt tid.
 
 ## Sådan griber Travel Document Vault det an
 
-**Travel Document Vault** bygger netop på den privatlivsorienterede, offline-first tilgang, der er beskrevet ovenfor. Dine data bliver på din enhed, krypteret med AES-256 - ingen konto krævet. Du kan valgfrit tage backup af krypterede data til din egen iCloud eller Google Drive (Pro-funktion). Appen understøtter flere rejsende, sporer udløb af pas og visa, og virker fuldt ud offline. Fås i [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) og [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault) som et engangskøb, intet abonnement.
+**Travel Document Vault** bygger netop på den privatlivsorienterede, offline-first tilgang, der er beskrevet ovenfor. Dine data bliver på din enhed, krypteret med AES-256 - ingen konto krævet. Du kan valgfrit tage backup af krypterede data til din egen iCloud eller Google Drive (Pro-funktion). Appen understøtter flere rejsende, sporer udløb af pas og visa, og virker fuldt ud offline. Fås i [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) og [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog) som et engangskøb, intet abonnement.
 
 ## En praktisk tjekliste, før du downloader
 

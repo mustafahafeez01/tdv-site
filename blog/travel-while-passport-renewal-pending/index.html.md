@@ -42,7 +42,7 @@ The UK has two renewal paths, and they have completely different implications fo
 
 **Digital renewal** is currently available to eligible adults applying from within the UK. You keep your current passport throughout the process, and the government issues your new passport separately and posts it to you. Because your existing passport never leaves your possession, you can generally continue to use it for travel while the new one is processed. Eligibility varies by individual circumstance, so check the HM Passport Office website for the full criteria and current times before applying.
 
-**Plan ahead before you apply.** Track your passport expiry with [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877) so you know exactly how much time you have before you need to renew, and can choose the right method without pressure.
+**Plan ahead before you apply.** Track your passport expiry with [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) so you know exactly how much time you have before you need to renew, and can choose the right method without pressure.
 
 ## Australia: Surrender and Wait
 

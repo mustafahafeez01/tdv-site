@@ -78,6 +78,6 @@ Vault Exportは、デバイス変更、主要なアプリアップデート、�
 
 無料ダウンロード。Vault Exportとローカルバックアップはすべてのユーザーに含まれています。Proはクラウドバックアップ、無制限のプロファイル、結合PDF エクスポート、および詳細を追加します。一度の購入、サブスクリプションなし。
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877)
+[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8)
 
 ![Google Play で手に入れよう](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

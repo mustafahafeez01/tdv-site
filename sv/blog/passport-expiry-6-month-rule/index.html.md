@@ -62,7 +62,7 @@ Tabellen är en ögonblicksbild, inte den fullständiga bilden: kraven varierar 
 
 Passkrav per land ändras utan förvarning, och ett bilateralt avtal kan i tysthet ändra reglerna för just ditt pass, vilket är varför det inte är överdrivet försiktigt att kontrollera en aktuell officiell källa inför varje internationell resa - det är bara god vana: använd IATA Travel Centre, samma system flygbolagen använder för att kontrollera resenärers handlingar i realtid.
 
-**Travel Document Vault** flaggar varje pass som inte har sex månaders giltighet kvar när resan tar slut - för varje familjemedlem, automatiskt. [Ladda ner gratis på App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** flaggar varje pass som inte har sex månaders giltighet kvar när resan tar slut - för varje familjemedlem, automatiskt. [Ladda ner gratis på App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Så tillämpar flygbolagen regeln - även när länderna inte gör det
 

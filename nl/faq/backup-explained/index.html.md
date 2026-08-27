@@ -78,6 +78,6 @@ Geen enkele laag is een reden om de andere over te slaan. Cloud-accounts kunnen 
 
 Gratis download. Vault Export en lokale back-ups zijn voor iedereen inbegrepen. Pro voegt Cloudback-up, onbeperkte profielen, gecombineerde PDF-export en meer toe. Eenmalige aankoop, geen abonnement.
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877)
+[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8)
 
 ![Download van Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

@@ -78,6 +78,6 @@ No single layer is a reason to skip the others. Cloud accounts can be lost, reco
 
 Free download. Vault Export and local backups are included for everyone. Pro adds cloud backup, unlimited profiles, combined PDF export, and more. One-time purchase, no subscription.
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877)
+[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8)
 
 ![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

@@ -60,7 +60,7 @@ IDPの背景には三つの国際協定があり、各国はそのうちの一�
 
 多くの人が実際に把握しているのはパスポートの期限です。それには理由があります。パスポートに関するルールはより厳格で、よく知られているからです。この期限について詳しく知りたい方は、[パスポートの有効期限は旅行でどのくらい必要か](https://traveldocumentvault.com/ja/blog/how-long-is-passport-valid-for-travel/)で、チェックインの際に問題になりがちな「残存有効期間」の要件を解説しています。運転免許証と許可証は同じようには注目されないため、結局失効するのはこの二つになりがちです。
 
-だからこそ、三つの期限を一箇所にまとめて管理する実利的な意味があります。Travel Document Vaultは、[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877)と[Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault)で入手でき、書類をお使いの端末上に保管し、それぞれの有効期限を個別に管理します。パスポートに気を取られている間に、許可証だけが静かに失効してしまうことを防げます。
+だからこそ、三つの期限を一箇所にまとめて管理する実利的な意味があります。Travel Document Vaultは、[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)と[Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog)で入手でき、書類をお使いの端末上に保管し、それぞれの有効期限を個別に管理します。パスポートに気を取られている間に、許可証だけが静かに失効してしまうことを防げます。
 
 ## 予約前に確認しておくべきこと
 

@@ -62,7 +62,7 @@ Nothing tells you when the shortest of those runs out. Your licensing authority 
 
 The passport is usually the date people do track, and there's a reason for that: the rules attached to it are stricter and better known. If you want the detail on that clock specifically, our guide to [how long a passport stays valid for travel](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/) covers the months-of-validity requirements that catch people out at check-in. The licence and the permit rarely get the same attention, which is why they're the ones that lapse.
 
-That's the practical argument for keeping all three dates in one place. Travel Document Vault, on the [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) and [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault), stores the documents on your device and tracks each expiry on its own, so the permit doesn't lapse quietly while you're keeping an eye on the passport.
+That's the practical argument for keeping all three dates in one place. Travel Document Vault, on the [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) and [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), stores the documents on your device and tracks each expiry on its own, so the permit doesn't lapse quietly while you're keeping an eye on the passport.
 
 ## What to Check Before You Book
 

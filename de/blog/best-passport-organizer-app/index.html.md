@@ -78,7 +78,7 @@ Eine App mit einmaligem Kauf bleibt dagegen auf unbestimmte Zeit vollständig fu
 
 ## Wie Travel Document Vault sich diesem Ansatz nähert
 
-**Travel Document Vault** verkörpert den datenschutzorientierten, offline-first-Ansatz, der oben beschrieben wird. Die Daten bleiben auf Ihrem Gerät, verschlüsselt mit AES-256 - kein Konto erforderlich. Sie können optional verschlüsselte Daten in Ihrem eigenen iCloud oder Google Drive sichern (Pro-Funktion). Es unterstützt mehrere Reisende, Reisepass- und Visumablaufverfolgung und funktioniert vollständig offline. Erhältlich im App Store als [einmaliger Kauf, ohne Abonnement](https://apps.apple.com/app/travel-document-vault/id6757014877).
+**Travel Document Vault** verkörpert den datenschutzorientierten, offline-first-Ansatz, der oben beschrieben wird. Die Daten bleiben auf Ihrem Gerät, verschlüsselt mit AES-256 - kein Konto erforderlich. Sie können optional verschlüsselte Daten in Ihrem eigenen iCloud oder Google Drive sichern (Pro-Funktion). Es unterstützt mehrere Reisende, Reisepass- und Visumablaufverfolgung und funktioniert vollständig offline. Erhältlich im App Store als [einmaliger Kauf, ohne Abonnement](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8).
 
 ## Eine praktische Checkliste vor dem Herunterladen
 

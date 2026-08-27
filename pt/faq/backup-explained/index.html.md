@@ -78,6 +78,6 @@ Nenhuma camada única é razão para saltar as outras. As contas na nuvem podem 
 
 Transferência gratuita. Exportação do Cofre e cópias de segurança locais estão incluídas para todos. Pro adiciona cópia de segurança na nuvem, perfis ilimitados, exportação PDF combinada e muito mais. Compra única, sem subscrição.
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877)
+[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8)
 
 ![Obter no Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

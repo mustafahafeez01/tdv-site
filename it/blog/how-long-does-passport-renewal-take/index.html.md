@@ -62,7 +62,7 @@ Immigration, Refugees and Citizenship Canada (IRCC) elabora i rinnovi dei passap
 
 Questo rende il processo più impegnativo dal punto di vista logistico, specialmente se vivete da qualche parte in zona rurale e l'ufficio passaporti più vicino è lontano. Controllate la pagina dell'IRCC per i tempi di elaborazione attuali prima di fare domanda, e aggiungete il tempo di spedizione in entrambe le direzioni se fate domanda per posta.
 
-**Impostate un promemoria di rinnovo ora** - Travel Document Vault vi notifica 6, 3 e 1 mese prima che il vostro passaporto scada, così state rinnovando con abbondanza di tempo, non disperatamente all'ultimo minuto. [Scaricate su App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Impostate un promemoria di rinnovo ora** - Travel Document Vault vi notifica 6, 3 e 1 mese prima che il vostro passaporto scada, così state rinnovando con abbondanza di tempo, non disperatamente all'ultimo minuto. [Scaricate su App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Consigli per il Rinnovo Accelerato del Passaporto: Come Accelerare le Cose
 
@@ -97,7 +97,7 @@ Avete un viaggio prenotato nelle prossime settimane e il vostro passaporto sta p
 3. **Controllate la vostra polizza di assicurazione di viaggio.** Alcune polizze coprono i costi extra dal rinnovo urgente del passaporto. La maggior parte esclude situazioni in cui il rinnovo era prevedibile - ma vale la pena guardare prima di spendere i soldi.
 4. **Chiedetevi di riprogrammare il vostro viaggio.** Le compagnie aeree e gli hotel variano, ma molti rinunceranno alle commissioni di cambio per emergenze di passaporto documentate. Non è garantito, ma non costa nulla chiedere.
 
-**La migliore soluzione è evitare completamente la situazione.** Se state gestendo i passaporti per più membri della famiglia, un'app come [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877) vi invia promemoria di scadenza a 6 mesi, 3 mesi e 1 mese - così state rinnovando con abbondanza di tempo, non disperatamente all'ultimo minuto. Controllate più [suggerimenti sui documenti di viaggio](https://traveldocumentvault.com/it/blog/) su questo blog per strategie che mantengono tutto in ordine.
+**La migliore soluzione è evitare completamente la situazione.** Se state gestendo i passaporti per più membri della famiglia, un'app come [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) vi invia promemoria di scadenza a 6 mesi, 3 mesi e 1 mese - così state rinnovando con abbondanza di tempo, non disperatamente all'ultimo minuto. Controllate più [suggerimenti sui documenti di viaggio](https://traveldocumentvault.com/it/blog/) su questo blog per strategie che mantengono tutto in ordine.
 
 Un'altra cosa vale la pena leggere: la [regola del passaporto di 6 mesi](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/). Un passaporto appena rinnovato ha ancora bisogno di soddisfare i requisiti di validità del vostro paese di destinazione - e molti viaggiatori vengono colti di sorpresa da questo.
 

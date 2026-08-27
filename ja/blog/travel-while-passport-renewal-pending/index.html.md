@@ -40,7 +40,7 @@ Source: https://traveldocumentvault.com/ja/blog/travel-while-passport-renewal-pe
 
 **デジタル更新**は、現在、イギリス国内から申請する対象者に利用可能です。更新プロセス全体を通じて現在のパスポートを保持し、政府は新しいパスポートを別途発行して郵送します。既存のパスポートが所有者の手を離れないため、通常、新しいパスポートの処理中も旅行に使用を続けることができます。適格性は個人の状況によって異なるため、申請前にHM Passport Officeウェブサイトで完全な条件と現在の処理時間を確認してください。
 
-**申請前に先を見据えた計画を立てましょう。** [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877)を使用してパスポートの有効期限を追跡し、更新に必要な時間を正確に把握して、プレッシャーなしに適切な方法を選択できます。
+**申請前に先を見据えた計画を立てましょう。** [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)を使用してパスポートの有効期限を追跡し、更新に必要な時間を正確に把握して、プレッシャーなしに適切な方法を選択できます。
 
 ## オーストラリア：提出と待機
 

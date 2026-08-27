@@ -50,6 +50,6 @@ XXXX-XXXX-XXXX-XXXX-XXXX-XXXX
 
 ดาวน์โหลด Travel Document Vault และเปิดใช้งานสำรองข้อมูลคลาวด์เพื่อให้เอกสารของคุณปลอดภัย
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877)
+[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8)
 
 ![ดาวน์โหลดจาก Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

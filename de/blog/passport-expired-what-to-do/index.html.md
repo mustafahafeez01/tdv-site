@@ -32,7 +32,7 @@ Wie dringend Sie handeln müssen, bestimmt, was zu tun ist:
 
 Alle großen Reisepassbehörden halten Notfalltermine zurück, die online nicht sichtbar sind. Wenn Ihre Frist knapp ist, rufen Sie an, anstatt sich nur auf die Website zu verlassen.
 
-**Stellen Sie die Erinnerung jetzt ein**, damit das nie wieder passiert – Travel Document Vault beginnt Sie ab acht Monaten vor dem Ablauf jedes Reisepasses in Ihrem Haushalt zu erinnern, dann erneut, je näher der Termin rückt. [Im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Stellen Sie die Erinnerung jetzt ein**, damit das nie wieder passiert – Travel Document Vault beginnt Sie ab acht Monaten vor dem Ablauf jedes Reisepasses in Ihrem Haushalt zu erinnern, dann erneut, je näher der Termin rückt. [Im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Szenario B: Sie haben es am Flughafen entdeckt
 

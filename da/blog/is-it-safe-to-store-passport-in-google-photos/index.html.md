@@ -83,7 +83,7 @@ Den samme risiko for kontokompromittering gælder begge platforme. Et svagt Appl
 
 Er du iPhone-bruger, er det værd at slå **Avanceret databeskyttelse i iCloud** til. En app bygget specifikt til formålet uden cloud-upload forbliver den stærkeste løsning til pasopbevaring, uanset hvilken platform du bruger.
 
-**Travel Document Vault** gemmer dine passcanninger på enheden med stærk kryptering. Ingen konto påkrævet. Valgfri krypteret backup til din egen iCloud eller Google Drev (Pro), forseglet med en gendannelseskode, kun du har. [Hent den i App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** gemmer dine passcanninger på enheden med stærk kryptering. Ingen konto påkrævet. Valgfri krypteret backup til din egen iCloud eller Google Drev (Pro), forseglet med en gendannelseskode, kun du har. [Hent den i App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Hvad er de sikrere alternativer?
 

@@ -83,7 +83,7 @@ Apple의 고급 데이터 보호(iOS 16.2+에서 사용 가능)는 표준을 높
 
 iPhone 사용자라면 **iCloud의 고급 데이터 보호 활성화**는 가치가 있습니다. 클라우드 업로드가 없는 목적별 암호화 앱은 플랫폼에 관계없이 여권 저장을 위한 가장 강력한 선택지입니다.
 
-**Travel Document Vault**는 강력한 암호화로 온디바이스에 여권 스캔본을 저장합니다. 계정 필요 없음. 선택적 암호화 백업을 자체 iCloud 또는 Google Drive(Pro)로 전송하며 복구 코드로만 봉인됩니다. [App Store에서 다운로드](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault**는 강력한 암호화로 온디바이스에 여권 스캔본을 저장합니다. 계정 필요 없음. 선택적 암호화 백업을 자체 iCloud 또는 Google Drive(Pro)로 전송하며 복구 코드로만 봉인됩니다. [App Store에서 다운로드](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 더 안전한 대안은 무엇입니까
 

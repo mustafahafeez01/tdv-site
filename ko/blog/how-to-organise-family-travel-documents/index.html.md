@@ -95,7 +95,7 @@ Source: https://traveldocumentvault.com/ko/blog/how-to-organise-family-travel-do
 
 이 세 가지 접근법 중 어느 것이든 작동합니다. 중요한 것은 이미 사용하는 방식에 맞는 것을 선택하고 실제로 고수하는 것입니다.
 
-**Travel Document Vault**는 모든 가족 구성원의 만료 날짜를 자동으로 추적합니다. 각 여권을 한 번만 스캔하면 8개월 전부터 알림을 받습니다. 스프레드시트도, 잊혀진 갱신도 없습니다. [App Store에서 다운로드하세요.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault**는 모든 가족 구성원의 만료 날짜를 자동으로 추적합니다. 각 여권을 한 번만 스캔하면 8개월 전부터 알림을 받습니다. 스프레드시트도, 잊혀진 갱신도 없습니다. [App Store에서 다운로드하세요.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 가족 출발 전 서류 체크리스트
 

@@ -64,7 +64,7 @@ Les exigences de validité du passeport changent sans préavis - un accord bilat
 
 Vérifiez toujours vos exigences spécifiques auprès du IATA Travel Centre, le système que les compagnies aériennes utilisent pour vérifier les documents des passagers en temps réel.
 
-**Travel Document Vault** signale tout passeport qui n'aura plus six mois de validité à la fin de votre voyage - pour chaque membre de la famille, automatiquement. [Téléchargez gratuitement sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** signale tout passeport qui n'aura plus six mois de validité à la fin de votre voyage - pour chaque membre de la famille, automatiquement. [Téléchargez gratuitement sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Comment les compagnies aériennes appliquent la règle - même quand les pays ne le font pas
 

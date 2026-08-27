@@ -95,7 +95,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-trav
 
 这三种方法中的任何一种都将有效 - 重要的是选择一种符合你已经如何操作的方式，并实际坚持它。
 
-**Travel Document Vault** 自动为每位家庭成员处理过期跟踪 - 扫描每本护照一次，从提前八个月开始获得提醒。没有电子表格，没有被遗忘的续期。[从 App Store 下载。](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** 自动为每位家庭成员处理过期跟踪 - 扫描每本护照一次，从提前八个月开始获得提醒。没有电子表格，没有被遗忘的续期。[从 App Store 下载。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 行前文件检查表
 

@@ -60,7 +60,7 @@ Source: https://traveldocumentvault.com/ko/blog/international-driving-permit-val
 
 사람들이 보통 챙기는 날짜는 여권 만료일이고, 여기에는 이유가 있습니다. 여권에 적용되는 규정이 더 엄격하고 더 잘 알려져 있기 때문입니다. 이 시계에 관한 자세한 내용이 궁금하다면, [여권이 여행에 얼마나 오래 유효한지](https://traveldocumentvault.com/ko/blog/how-long-is-passport-valid-for-travel/) 다루는 가이드에서 체크인 때 발목을 잡는 잔여 유효기간 요건을 확인할 수 있습니다. 운전면허증과 국제운전면허증은 상대적으로 관심을 덜 받다 보니, 결국 만료되는 쪽도 이 둘입니다.
 
-그래서 세 가지 날짜를 한곳에서 관리하는 것이 실질적으로 도움이 됩니다. [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877)와 [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault)에서 받을 수 있는 Travel Document Vault는 서류를 기기에 저장하고 각 만료일을 개별적으로 추적하므로, 여권만 신경 쓰는 사이 국제운전면허증이 조용히 만료되는 일을 막아줍니다.
+그래서 세 가지 날짜를 한곳에서 관리하는 것이 실질적으로 도움이 됩니다. [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)와 [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog)에서 받을 수 있는 Travel Document Vault는 서류를 기기에 저장하고 각 만료일을 개별적으로 추적하므로, 여권만 신경 쓰는 사이 국제운전면허증이 조용히 만료되는 일을 막아줍니다.
 
 ## 예약 전에 확인해야 할 것들
 

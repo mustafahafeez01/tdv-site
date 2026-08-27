@@ -236,7 +236,7 @@ Yes. Notes and Vouchers support multiple image attachments. Free users can attac
 
 Is Travel Document Vault available on Android?
 
-**Yes. Travel Document Vault is available on Android.** [Download it free on Google Play.](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault) Full feature parity with iOS: encrypted on-device storage, OCR scanning, expiry reminders, and all Pro features (unlimited profiles, batch export, custom reminder timing).
+**Yes. Travel Document Vault is available on Android.** [Download it free on Google Play.](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dfaq) Full feature parity with iOS: encrypted on-device storage, OCR scanning, expiry reminders, and all Pro features (unlimited profiles, batch export, custom reminder timing).
 
 Can I transfer my data from iPhone to Android (or vice versa)?
 

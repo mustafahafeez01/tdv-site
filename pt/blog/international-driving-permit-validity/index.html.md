@@ -60,7 +60,7 @@ Nada o avisa quando o mais curto desses prazos termina. A entidade que emitiu a 
 
 O passaporte é normalmente a data que as pessoas seguem, e há uma razão para isso: as regras que lhe estão associadas são mais rígidas e mais conhecidas. Se quiser o detalhe sobre esse prazo em particular, o nosso guia sobre [quanto tempo um passaporte é válido para viajar](https://traveldocumentvault.com/pt/blog/how-long-is-passport-valid-for-travel/) aborda os requisitos de meses de validade que apanham as pessoas desprevenidas no check-in. A carta de condução e a carta internacional raramente recebem a mesma atenção, e é por isso que são as que caducam sem se dar por isso.
 
-Esse é o argumento prático para manter as três datas num único sítio. O Travel Document Vault, disponível na [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) e no [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault), guarda os documentos no seu dispositivo e acompanha cada validade de forma independente, para que a carta internacional não caduque em silêncio enquanto está de olho no passaporte.
+Esse é o argumento prático para manter as três datas num único sítio. O Travel Document Vault, disponível na [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) e no [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), guarda os documentos no seu dispositivo e acompanha cada validade de forma independente, para que a carta internacional não caduque em silêncio enquanto está de olho no passaporte.
 
 ## O Que Verificar Antes de Reservar
 

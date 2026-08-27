@@ -91,7 +91,7 @@ Gardez ceux-ci en bagage à main à tout moment - ne les mettez pas dans vos bag
 
 Avant de partir de chez vous, prenez une photo de chaque document et stockez-la dans une application chiffrée - pas dans votre galerie appareil photo. Si votre sac est perdu ou volé, vous voudrez votre numéro de passeport, votre numéro de police d'assurance et vos références de réservation quelque part auquel vous pouvez toujours accéder à une ambassade ou un commissariat. Une sauvegarde numérique sécurisée vous fait gagner des heures quand vous cherchez de l'aide.
 
-**Travel Document Vault** stocke des copies chiffrées de chaque document de cette liste - organisé par membre de la famille, avec rappels d'expiration automatiques. Scannez une fois, ne vous débattez plus jamais. [Télécharger sur App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** stocke des copies chiffrées de chaque document de cette liste - organisé par membre de la famille, avec rappels d'expiration automatiques. Scannez une fois, ne vous débattez plus jamais. [Télécharger sur App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Liste de contrôle par type de voyage
 

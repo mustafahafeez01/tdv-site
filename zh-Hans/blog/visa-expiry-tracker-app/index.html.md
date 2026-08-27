@@ -68,7 +68,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/visa-expiry-tracker-app/
 - **隐私模式：**签证详情是身份相关的敏感数据。与护照存储一样，设备上加密且无云上传是最安全的架构。
 - **护照 + 签证在一起追踪：**一个常被忽视的错误是有有效签证但护照在计划停留期间过期。在同一个地方追踪两者可以防止这种不匹配。
 
-**Travel Document Vault** 在同一个地方追踪护照和签证过期日期，支持每份文件单独提醒和多个旅行者。你的数据保留在设备上并使用 AES-256 加密，无需账户，可选择加密备份到你自己的 iCloud 或 Google Drive（Pro）。[在 App Store 上提供，一次性购买，无需订阅。](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** 在同一个地方追踪护照和签证过期日期，支持每份文件单独提醒和多个旅行者。你的数据保留在设备上并使用 AES-256 加密，无需账户，可选择加密备份到你自己的 iCloud 或 Google Drive（Pro）。[在 App Store 上提供，一次性购买，无需订阅。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 正确追踪签证的实际步骤
 

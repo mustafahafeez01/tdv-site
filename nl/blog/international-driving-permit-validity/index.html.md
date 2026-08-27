@@ -60,7 +60,7 @@ Niets waarschuwt je wanneer de kortste van die drie afloopt. Je rijbewijsinstant
 
 Het paspoort is meestal de datum die mensen wél bijhouden, en daar is een reden voor: de regels eromheen zijn strenger en beter bekend. Wil je specifiek weten hoe die klok werkt, dan gaat onze gids over [hoe lang een paspoort geldig blijft voor reizen](https://traveldocumentvault.com/nl/blog/how-long-is-passport-valid-for-travel/) in op de eis van resterende geldigheidsmaanden waar mensen bij het inchecken tegenaan lopen. Het rijbewijs en het internationale rijbewijs krijgen zelden dezelfde aandacht, en dat is precies waarom die vaak verlopen.
 
-Dat is het praktische argument om alle drie de data op één plek bij te houden. Travel Document Vault, te vinden in de [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) en op [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault), bewaart de documenten op je eigen apparaat en houdt elke vervaldatum apart bij, zodat het internationale rijbewijs niet stilletjes verloopt terwijl jij je paspoort in de gaten houdt.
+Dat is het praktische argument om alle drie de data op één plek bij te houden. Travel Document Vault, te vinden in de [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) en op [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), bewaart de documenten op je eigen apparaat en houdt elke vervaldatum apart bij, zodat het internationale rijbewijs niet stilletjes verloopt terwijl jij je paspoort in de gaten houdt.
 
 ## Wat je moet checken voordat je boekt
 

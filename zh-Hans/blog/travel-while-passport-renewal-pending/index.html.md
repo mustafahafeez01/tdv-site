@@ -40,7 +40,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-while-passport-renew
 
 **数字更新**目前可供符合条件的在英国境内申请的成年人使用。你在整个过程中保留你现有的护照，政府单独颁发新护照并寄给你。因为你现有的护照从不离开你的手中，你通常可以在处理新护照期间继续用它旅行。资格因个人情况而异，所以在申请前检查英国护照办公室网站以了解完整标准和当前时间。
 
-**提前规划再申请。**用 [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877) 跟踪你的护照有效期，这样你就知道在更新前还有多少时间，可以选择合适的方法而不感到压力。
+**提前规划再申请。**用 [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) 跟踪你的护照有效期，这样你就知道在更新前还有多少时间，可以选择合适的方法而不感到压力。
 
 ## 澳大利亚：上交并等待
 

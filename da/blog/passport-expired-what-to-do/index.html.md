@@ -32,7 +32,7 @@ Hvor akut du skal handle, afgør, hvad du skal gøre:
 
 Alle større pasmyndigheder holder nødtider tilbage, som ikke er synlige online. Hvis din tidsramme er stram, så ring i stedet for kun at stole på hjemmesiden.
 
-**Sæt påmindelsen nu**, så det aldrig sker igen - Travel Document Vault giver dig besked allerede fra otte måneder, før hvert pas i din husstand udløber, og igen efterhånden som datoen nærmer sig. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Sæt påmindelsen nu**, så det aldrig sker igen - Travel Document Vault giver dig besked allerede fra otte måneder, før hvert pas i din husstand udløber, og igen efterhånden som datoen nærmer sig. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Scenarie B: Du opdagede det i lufthavnen
 

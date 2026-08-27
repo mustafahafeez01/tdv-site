@@ -62,7 +62,7 @@ Immigration, Refugees and Citizenship Canada (IRCC) bearbeitet Reisepass-Erneuer
 
 Das macht den Prozess logistisch anspruchsvoller - besonders wenn Sie irgendwo ländlich leben und die nächste Behörde weit entfernt ist. Überprüfen Sie die IRCC-Seite auf die aktuellen Bearbeitungszeiten, bevor Sie einen Antrag stellen, und rechnen Sie bei postalischen Anträgen die Versandzeit in beide Richtungen mit ein.
 
-**Legen Sie jetzt eine Erinnerung fest** - Travel Document Vault benachrichtigt Sie 6, 3 und 1 Monat vor Ablauf Ihres Reisepasss, damit Sie mit viel Zeit zur Verfügung erneuern können, nicht in letzter Minute. [Laden Sie es im App Store herunter.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Legen Sie jetzt eine Erinnerung fest** - Travel Document Vault benachrichtigt Sie 6, 3 und 1 Monat vor Ablauf Ihres Reisepasss, damit Sie mit viel Zeit zur Verfügung erneuern können, nicht in letzter Minute. [Laden Sie es im App Store herunter.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Tipps zur beschleunigten Reisepasserneuerung: Wie Sie Dinge schneller abwickeln
 
@@ -97,7 +97,7 @@ Sie haben Reisen für die nächsten paar Wochen gebucht und Ihr Reisepass läuft
 3. **Überprüfen Sie Ihre Reiseversicherungspolice.** Einige Policen decken zusätzliche Kosten durch eine Notfall-Reisepass-Erneuerung ab. Die meisten schließen Situationen aus, bei denen die Erneuerung vorhersehbar war - aber es lohnt sich, einen Blick darauf zu werfen, bevor Sie das Geld ausgeben.
 4. **Fragen Sie nach einer Reise-Umplanung.** Fluggesellschaften und Hotels variieren, aber viele verzichten auf Gebühren für dokumentierte Reisepass-Notfälle. Es ist nicht garantiert, aber es kostet nichts, zu fragen.
 
-**Der beste Fix ist die Vermeidung der Situation von Anfang an.** Wenn Sie Reisepässe für mehrere Familienmitglieder verwalten, sendet eine App wie [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877) Ihnen Ablauf-Erinnerungen 6 Monate, 3 Monate und 1 Monat vor - damit Sie mit viel Zeit zur Verfügung erneuern, nicht in letzter Minute. Sehen Sie sich weitere [Reisedokument-Tipps](https://traveldocumentvault.com/de/) auf diesem Blog an für Strategien, die alles in Ordnung hält.
+**Der beste Fix ist die Vermeidung der Situation von Anfang an.** Wenn Sie Reisepässe für mehrere Familienmitglieder verwalten, sendet eine App wie [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) Ihnen Ablauf-Erinnerungen 6 Monate, 3 Monate und 1 Monat vor - damit Sie mit viel Zeit zur Verfügung erneuern, nicht in letzter Minute. Sehen Sie sich weitere [Reisedokument-Tipps](https://traveldocumentvault.com/de/) auf diesem Blog an für Strategien, die alles in Ordnung hält.
 
 Noch eine Sache, die es wert ist zu lesen: die [6-Monats-Reisepass-Regel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/). Ein gerade erneuerter Reisepass muss immer noch die Gültigkeitsanforderungen Ihres Ziellandes erfüllen - und viele Reisende werden davon überrumpelt.
 

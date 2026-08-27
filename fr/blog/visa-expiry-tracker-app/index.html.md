@@ -68,7 +68,7 @@ Compte tenu de la complexité ci-dessus, une bonne application de suivi des visa
 - **Modèle de confidentialité:** Les détails de visa sont des données sensibles liées à l'identité. Comme pour le stockage de passeport, le chiffrement sur l'appareil sans téléchargement cloud est l'architecture la plus sûre.
 - **Suivi du passeport et du visa ensemble:** Une erreur courante mais souvent négligée est d'avoir un visa valide mais un passeport qui expire pendant votre séjour prévu. Avoir les deux suivis au même endroit empêche cette incohérence.
 
-**Travel Document Vault** suit les dates d'expiration des passeports et des visas au même endroit, avec des rappels séparés par document et un support pour plusieurs voyageurs. Vos données restent sur votre appareil, chiffrées en AES-256-GCM, aucun compte requis, avec sauvegarde chiffrée optionnelle sur iCloud ou Google Drive (Pro). [Il est disponible sur l'App Store en achat unique, sans abonnement.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** suit les dates d'expiration des passeports et des visas au même endroit, avec des rappels séparés par document et un support pour plusieurs voyageurs. Vos données restent sur votre appareil, chiffrées en AES-256-GCM, aucun compte requis, avec sauvegarde chiffrée optionnelle sur iCloud ou Google Drive (Pro). [Il est disponible sur l'App Store en achat unique, sans abonnement.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Étapes pratiques pour suivre correctement votre visa
 

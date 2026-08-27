@@ -77,4 +77,4 @@ Travel Document Vaultを起動し、画面下部の設定アイコン (ギアシ
 
 ボルトエクスポートとインポートは誰でも無料です。Proはクラウドバックアップ、無制限プロフィール、組み合わせPDFエクスポートなど、さらに多くを追加します。1回限りの購入で、サブスクリプションなし。
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault)
+[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8) [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dfaq)

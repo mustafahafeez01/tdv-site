@@ -58,7 +58,7 @@ Hvad du normalt skal bruge (bekræft med din ambassade, før du møder op):
 - Bevis for videre rejse - flybooking, hotelbekræftelse
 - Gebyr for nøddokumentet - hav både kontanter og kort klar
 
-**Travel Document Vault** opbevarer en krypteret kopi af dit pas på din telefon - tilgængelig uden internet, uden login. Det er præcis det, din ambassade vil bede om. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** opbevarer en krypteret kopi af dit pas på din telefon - tilgængelig uden internet, uden login. Det er præcis det, din ambassade vil bede om. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Trin 5: Giv besked til dit rejseforsikringsselskab
 

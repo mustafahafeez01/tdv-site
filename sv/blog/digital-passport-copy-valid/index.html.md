@@ -69,7 +69,7 @@ Passkopior innehåller känslig identitetsinformation, inklusive fullständigt n
 - **Dela aldrig i onödan**. Lämna bara ut din passkopia till legitima verksamheter du faktiskt gör affärer med.
 - **Håll kopior separata från ditt fysiska pass**. Blir väskan stulen vill du att backupen finns någon annanstans.
 
-**Travel Document Vault** lagrar krypterade kopior av alla dina resehandlingar på enheten. AES-256-krypterat på din telefon, inget konto krävs. Valfri krypterad säkerhetskopiering till ditt eget iCloud eller Google Drive (Pro-funktion), skyddad med en återställningskod som bara du har. [Finns på App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** lagrar krypterade kopior av alla dina resehandlingar på enheten. AES-256-krypterat på din telefon, inget konto krävs. Valfri krypterad säkerhetskopiering till ditt eget iCloud eller Google Drive (Pro-funktion), skyddad med en återställningskod som bara du har. [Finns på App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 Undrar du om molnlagring är säkert för passkopior, se vår guide om [att spara pass i Google Foto](https://traveldocumentvault.com/sv/blog/is-it-safe-to-store-passport-in-google-photos/). Den förklarar varför en dedikerad krypterad app ger starkare skydd. För en jämförelse sida vid sida av iCloud, Google Foto och krypterade appar, läs [det säkraste sättet att spara ett pass digitalt](https://traveldocumentvault.com/sv/blog/safest-way-to-store-passport-digitally/).
 

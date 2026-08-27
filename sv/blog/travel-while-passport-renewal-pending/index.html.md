@@ -40,7 +40,7 @@ Storbritannien har två förnyelsevägar, och de har helt olika konsekvenser fö
 
 **Digital förnyelse** är för närvarande tillgänglig för behöriga vuxna som ansöker inifrån Storbritannien. Du behåller ditt nuvarande pass under hela processen, och myndigheten utfärdar ditt nya pass separat och skickar det till dig. Eftersom ditt befintliga pass aldrig lämnar din besittning kan du i regel fortsätta använda det för resor medan det nya behandlas. Behörigheten varierar beroende på individuella omständigheter, så kontrollera HM Passport Offices webbplats för fullständiga kriterier och aktuella tider innan du ansöker.
 
-**Planera i förväg innan du ansöker.** Håll koll på ditt pass utgångsdatum med [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877) så att du vet exakt hur mycket tid du har innan du behöver förnya, och kan välja rätt metod utan press.
+**Planera i förväg innan du ansöker.** Håll koll på ditt pass utgångsdatum med [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) så att du vet exakt hur mycket tid du har innan du behöver förnya, och kan välja rätt metod utan press.
 
 ## Australien: Lämna in och vänta
 

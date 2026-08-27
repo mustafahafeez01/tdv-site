@@ -69,7 +69,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/digital-passport-copy-valid
 - **不要不必要地共享**。仅将您的护照副本提供给您正在积极进行交易的合法企业。
 - **将副本与您的实体护照分开保管**。如果您的包被盗，您希望备份在其他地方。
 
-**Travel Document Vault** 在设备上存储所有旅行证件的加密副本。在您的手机上进行 AES-256 加密，不需要帐户。可选的加密备份到您自己的 iCloud 或 Google Drive（专业版），使用仅您持有的恢复代码密封。[在 App Store 上可用。](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** 在设备上存储所有旅行证件的加密副本。在您的手机上进行 AES-256 加密，不需要帐户。可选的加密备份到您自己的 iCloud 或 Google Drive（专业版），使用仅您持有的恢复代码密封。[在 App Store 上可用。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 如果您想知道云存储对护照副本是否安全，请查看我们关于[在 Google Photos 中存储护照](https://traveldocumentvault.com/zh-Hans/blog/is-it-safe-to-store-passport-in-google-photos/)的指南。它解释了为什么专用加密应用程序提供更强的保护。
 

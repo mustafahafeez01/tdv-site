@@ -62,7 +62,7 @@ Deze tabel is een momentopname, niet het volledige beeld: vereisten verschillen 
 
 Vereisten voor paspoortgeldigheid per land veranderen zonder aankondiging, en een bilaterale overeenkomst kan stilletjes de regels voor jouw specifieke paspoort wijzigen. Daarom is het controleren van een actuele officiële bron voor elke internationale reis geen overdreven voorzichtigheid, maar gewoon goede gewoonte: gebruik het IATA Travel Centre, hetzelfde systeem dat luchtvaartmaatschappijen gebruiken om reisdocumenten in realtime te controleren.
 
-**Travel Document Vault** markeert elk paspoort dat aan het einde van je reis geen zes maanden geldigheid meer over heeft - voor elk gezinslid, automatisch. [Download gratis in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** markeert elk paspoort dat aan het einde van je reis geen zes maanden geldigheid meer over heeft - voor elk gezinslid, automatisch. [Download gratis in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Hoe luchtvaartmaatschappijen de regel handhaven - ook als landen dat niet doen
 

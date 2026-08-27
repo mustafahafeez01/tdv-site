@@ -71,7 +71,7 @@ Passport copies contain sensitive identity information, including your full name
 - **Never share unnecessarily**. Only provide your passport copy to legitimate businesses with whom you are actively transacting.
 - **Keep copies separate from your physical passport**. If your bag is stolen, you want the backup somewhere else.
 
-**Travel Document Vault** stores encrypted copies of all your travel documents on-device. AES-256 encrypted on your phone, no account required. Optional encrypted backup to your own iCloud or Google Drive (Pro) sealed with a recovery code only you hold. [Available on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** stores encrypted copies of all your travel documents on-device. AES-256 encrypted on your phone, no account required. Optional encrypted backup to your own iCloud or Google Drive (Pro) sealed with a recovery code only you hold. [Available on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 If you're wondering whether cloud storage is safe for passport copies, see our guide to [storing passports in Google Photos](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/). It explains why a dedicated encrypted app offers stronger protection. For a side-by-side comparison of iCloud, Google Photos and encrypted apps, read [the safest way to store a passport digitally](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/).
 

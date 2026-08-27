@@ -78,6 +78,6 @@ Vault 在上传前使用 AES-256-GCM 在您的设备上进行端到端加密。�
 
 免费下载。Vault Export 和本地备份对所有人都包括在内。Pro 添加了云备份、无限配置文件、组合 PDF 导出等。一次性购买，无订阅。
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877)
+[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8)
 
 ![在 Google Play 上获取](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

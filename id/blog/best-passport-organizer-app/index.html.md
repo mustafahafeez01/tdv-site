@@ -78,7 +78,7 @@ Sebaliknya, aplikasi dengan pembelian sekali bayar tetap berfungsi penuh tanpa b
 
 ## Bagaimana Travel Document Vault Menerapkan Pendekatan Ini
 
-**Travel Document Vault** menerapkan pendekatan mengutamakan privasi dan luring seperti dijelaskan di atas. Data tetap di perangkat Anda, terenkripsi dengan AES-256 - tanpa perlu akun. Anda bisa secara opsional mencadangkan data terenkripsi ke iCloud atau Google Drive Anda sendiri (fitur Pro). Aplikasi ini mendukung beberapa pelancong, pelacakan kedaluwarsa paspor dan visa, serta bekerja sepenuhnya luring. Tersedia di [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) dan [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault) sebagai pembelian sekali bayar, tanpa langganan.
+**Travel Document Vault** menerapkan pendekatan mengutamakan privasi dan luring seperti dijelaskan di atas. Data tetap di perangkat Anda, terenkripsi dengan AES-256 - tanpa perlu akun. Anda bisa secara opsional mencadangkan data terenkripsi ke iCloud atau Google Drive Anda sendiri (fitur Pro). Aplikasi ini mendukung beberapa pelancong, pelacakan kedaluwarsa paspor dan visa, serta bekerja sepenuhnya luring. Tersedia di [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) dan [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog) sebagai pembelian sekali bayar, tanpa langganan.
 
 ## Daftar Periksa Praktis Sebelum Anda Mengunduh
 

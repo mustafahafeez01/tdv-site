@@ -77,4 +77,4 @@ Travel Document Vault를 시작하고 화면 하단의 설정 아이콘(톱니 �
 
 보관소 내보내기 및 가져오기는 모든 사람을 위해 무료입니다. Pro는 클라우드 백업, 무제한 프로필, 결합된 PDF 내보내기 등을 추가합니다. 일회성 구매, 구독 없음.
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault)
+[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8) [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dfaq)

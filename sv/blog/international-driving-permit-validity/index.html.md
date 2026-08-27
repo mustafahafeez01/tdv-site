@@ -60,7 +60,7 @@ Ingenting talar om för dig när det kortaste av dem går ut. Din körkortsmyndi
 
 Passet är oftast det datum folk faktiskt håller koll på, och det finns en anledning till det: reglerna kring det är strängare och mer kända. Vill du ha detaljerna om just den klockan går vår guide till [hur länge ett pass gäller för resor](https://traveldocumentvault.com/sv/blog/how-long-is-passport-valid-for-travel/) igenom kraven på återstående giltighetstid som ställer till det vid incheckningen. Körkortet och tillståndet får sällan samma uppmärksamhet, vilket är varför det är de som hinner löpa ut.
 
-Det är det praktiska argumentet för att hålla alla tre datum på ett och samma ställe. Travel Document Vault, på [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) och [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault), sparar handlingarna på din egen enhet och håller koll på varje utgångsdatum för sig, så att tillståndet inte tyst löper ut medan du håller ögonen på passet.
+Det är det praktiska argumentet för att hålla alla tre datum på ett och samma ställe. Travel Document Vault, på [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) och [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), sparar handlingarna på din egen enhet och håller koll på varje utgångsdatum för sig, så att tillståndet inte tyst löper ut medan du håller ögonen på passet.
 
 ## Vad du bör kontrollera innan du bokar
 

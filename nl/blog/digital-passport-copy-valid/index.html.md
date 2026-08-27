@@ -69,7 +69,7 @@ Paspoortkopieën bevatten gevoelige identiteitsinformatie, waaronder je volledig
 - **Deel nooit onnodig**. Verstrek je paspoortkopie alleen aan legitieme bedrijven waarmee je daadwerkelijk zaken doet.
 - **Bewaar kopieën gescheiden van je fysieke paspoort**. Wordt je tas gestolen, dan wil je dat de back-up ergens anders is.
 
-**Travel Document Vault** bewaart versleutelde kopieën van al je reisdocumenten op het toestel. AES-256-versleuteld op je telefoon, geen account vereist. Optioneel een versleutelde back-up naar je eigen iCloud of Google Drive (Pro-functie), verzegeld met een herstelcode die alleen jij hebt. [Beschikbaar in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** bewaart versleutelde kopieën van al je reisdocumenten op het toestel. AES-256-versleuteld op je telefoon, geen account vereist. Optioneel een versleutelde back-up naar je eigen iCloud of Google Drive (Pro-functie), verzegeld met een herstelcode die alleen jij hebt. [Beschikbaar in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 Vraag je je af of cloudopslag veilig is voor paspoortkopieën, bekijk dan onze gids over [het bewaren van paspoorten in Google Foto's](https://traveldocumentvault.com/nl/blog/is-it-safe-to-store-passport-in-google-photos/). Die legt uit waarom een speciale versleutelde app sterkere bescherming biedt. Voor een vergelijking naast elkaar van iCloud, Google Foto's en versleutelde apps, lees [de veiligste manier om een paspoort digitaal te bewaren](https://traveldocumentvault.com/nl/blog/safest-way-to-store-passport-digitally/).
 

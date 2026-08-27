@@ -64,7 +64,7 @@ This table is a snapshot, not the full picture: requirements vary by your nation
 
 Passport validity requirements by country change without notice, and a bilateral agreement can quietly shift the rules for your specific passport, which is why checking an up-to-date official source before every international trip isn't paranoia, it's just good practice: use the IATA Travel Centre, the same system airlines use to check passenger documents in real time.
 
-**Travel Document Vault** flags any passport that will not still have six months left when your trip ends - for every family member, automatically. [Download free on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** flags any passport that will not still have six months left when your trip ends - for every family member, automatically. [Download free on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## How Airlines Enforce the Rule - Even When Countries Don't
 

@@ -32,7 +32,7 @@ L'urgence de la situation détermine la marche à suivre :
 
 Toutes les grandes autorités de délivrance de passeports conservent des créneaux de rendez-vous d'urgence qui ne sont pas visibles en ligne. Si votre calendrier est serré, appelez plutôt que de ne vous fier qu'au site Web.
 
-**Réglez le rappel maintenant** pour que cela ne se reproduise plus - Travel Document Vault commence à vous prévenir dès huit mois avant l'expiration de chaque passeport de votre ménage, puis à nouveau à l'approche de la date. [Téléchargez sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Réglez le rappel maintenant** pour que cela ne se reproduise plus - Travel Document Vault commence à vous prévenir dès huit mois avant l'expiration de chaque passeport de votre ménage, puis à nouveau à l'approche de la date. [Téléchargez sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Scénario B : Vous l'Avez Découvert à l'Aéroport
 

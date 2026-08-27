@@ -95,7 +95,7 @@ Ini pola kegagalan yang menjebak keluarga: Anda memperpanjang paspor sendiri, me
 
 Ketiga pendekatan ini akan berhasil - yang penting adalah memilih salah satu yang sesuai dengan cara Anda sudah beroperasi dan benar-benar mempertahankannya.
 
-**Travel Document Vault** menangani pelacakan kedaluwarsa untuk setiap anggota keluarga secara otomatis - pindai setiap paspor sekali dan dapatkan pengingat mulai dari delapan bulan sebelumnya. Tanpa spreadsheet, tanpa perpanjangan yang terlupakan. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** menangani pelacakan kedaluwarsa untuk setiap anggota keluarga secara otomatis - pindai setiap paspor sekali dan dapatkan pengingat mulai dari delapan bulan sebelumnya. Tanpa spreadsheet, tanpa perpanjangan yang terlupakan. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Daftar Periksa Dokumen Sebelum Perjalanan untuk Keluarga
 

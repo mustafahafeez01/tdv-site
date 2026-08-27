@@ -32,7 +32,7 @@ Source: https://traveldocumentvault.com/ja/blog/passport-expired-what-to-do/
 
 すべての主要なパスポート当局は、オンラインでは表示されていない緊急予約スロットを保持しています。タイムラインが厳しい場合は、ウェブサイトだけに頼らず、電話で連絡してください。
 
-**今すぐリマインダーを設定**してください。これが二度と起こらないようにするために。Travel Document Vault は、世帯内のすべてのパスポートについて、失効8か月前から通知を送り始め、期限が近づくとさらに知らせます。[App Store でダウンロードしてください。](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**今すぐリマインダーを設定**してください。これが二度と起こらないようにするために。Travel Document Vault は、世帯内のすべてのパスポートについて、失効8か月前から通知を送り始め、期限が近づくとさらに知らせます。[App Store でダウンロードしてください。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## シナリオB：空港で気づいた場合
 

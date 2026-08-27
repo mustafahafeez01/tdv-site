@@ -78,7 +78,7 @@ Une application à achat unique, en revanche, reste entièrement fonctionnelle i
 
 ## Comment Travel Document Vault aborde cela
 
-**Travel Document Vault** incarne l'approche centrée sur la confidentialité et la priorité hors ligne décrite ci-dessus. Les données restent sur votre appareil, chiffrées avec AES-256 - aucun compte requis. Vous pouvez éventuellement sauvegarder les données chiffrées sur votre propre iCloud ou Google Drive (fonctionnalité Pro). Il supporte plusieurs voyageurs, le suivi de l'expiration des passeports et des visas, et fonctionne entièrement hors ligne. Disponible sur l'App Store en tant qu'[achat unique, sans abonnement](https://apps.apple.com/app/travel-document-vault/id6757014877).
+**Travel Document Vault** incarne l'approche centrée sur la confidentialité et la priorité hors ligne décrite ci-dessus. Les données restent sur votre appareil, chiffrées avec AES-256 - aucun compte requis. Vous pouvez éventuellement sauvegarder les données chiffrées sur votre propre iCloud ou Google Drive (fonctionnalité Pro). Il supporte plusieurs voyageurs, le suivi de l'expiration des passeports et des visas, et fonctionne entièrement hors ligne. Disponible sur l'App Store en tant qu'[achat unique, sans abonnement](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8).
 
 ## Une liste de contrôle pratique avant de télécharger
 

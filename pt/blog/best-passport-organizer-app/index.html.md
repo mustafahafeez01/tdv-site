@@ -78,7 +78,7 @@ Uma aplicação de compra única, em contraste, permanece totalmente funcional i
 
 ## Como Travel Document Vault Aborda Isto
 
-**Travel Document Vault** incorpora a abordagem orientada para privacidade e offline descrita acima. Os dados ficam no seu dispositivo, encriptados com AES-256 - nenhuma conta necessária. Pode opcionalmente fazer cópia de segurança de dados encriptados para o seu próprio iCloud ou Google Drive (funcionalidade Pro). Suporta múltiplos viajantes, rastreamento de expiração de passaporte e visto, e funciona totalmente offline. Disponível na App Store como uma [compra única](https://apps.apple.com/app/travel-document-vault/id6757014877).
+**Travel Document Vault** incorpora a abordagem orientada para privacidade e offline descrita acima. Os dados ficam no seu dispositivo, encriptados com AES-256 - nenhuma conta necessária. Pode opcionalmente fazer cópia de segurança de dados encriptados para o seu próprio iCloud ou Google Drive (funcionalidade Pro). Suporta múltiplos viajantes, rastreamento de expiração de passaporte e visto, e funciona totalmente offline. Disponível na App Store como uma [compra única](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8).
 
 ## Uma Lista de Verificação Prática Antes de Fazer o Download
 

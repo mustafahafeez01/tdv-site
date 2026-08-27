@@ -78,7 +78,7 @@ Source: https://traveldocumentvault.com/uk/blog/best-passport-organizer-app/
 
 ## Як до цього підходить Travel Document Vault
 
-**Travel Document Vault** втілює описаний вище підхід «спершу конфіденційність, спершу офлайн». Дані залишаються на вашому пристрої, зашифровані за стандартом AES-256 — без облікового запису. За бажанням можна зробити резервну копію зашифрованих даних у власний iCloud чи Google Drive (функція Pro). Застосунок підтримує кількох мандрівників, відстеження термінів дії паспортів і віз і повністю працює офлайн. Доступний в [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) і [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault) як разова покупка, без підписки.
+**Travel Document Vault** втілює описаний вище підхід «спершу конфіденційність, спершу офлайн». Дані залишаються на вашому пристрої, зашифровані за стандартом AES-256 — без облікового запису. За бажанням можна зробити резервну копію зашифрованих даних у власний iCloud чи Google Drive (функція Pro). Застосунок підтримує кількох мандрівників, відстеження термінів дії паспортів і віз і повністю працює офлайн. Доступний в [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) і [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog) як разова покупка, без підписки.
 
 ## Практичний чекліст перед завантаженням
 

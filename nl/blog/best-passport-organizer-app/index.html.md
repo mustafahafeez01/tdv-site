@@ -78,7 +78,7 @@ Een app met een eenmalige aankoop blijft daarentegen voor onbepaalde tijd volled
 
 ## Hoe Travel Document Vault dit aanpakt
 
-**Travel Document Vault** belichaamt precies de privacyvriendelijke, offline-first aanpak die hierboven beschreven staat. Gegevens blijven op je toestel, versleuteld met AES-256 - geen account nodig. Optioneel maak je een versleutelde back-up naar je eigen iCloud of Google Drive (Pro-functie). De app ondersteunt meerdere reizigers, houdt de vervaldatum van paspoort en visum bij, en werkt volledig offline. Beschikbaar als eenmalige aankoop, zonder abonnement, in de [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) en op [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault).
+**Travel Document Vault** belichaamt precies de privacyvriendelijke, offline-first aanpak die hierboven beschreven staat. Gegevens blijven op je toestel, versleuteld met AES-256 - geen account nodig. Optioneel maak je een versleutelde back-up naar je eigen iCloud of Google Drive (Pro-functie). De app ondersteunt meerdere reizigers, houdt de vervaldatum van paspoort en visum bij, en werkt volledig offline. Beschikbaar als eenmalige aankoop, zonder abonnement, in de [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) en op [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
 
 ## Een praktische checklist voordat je downloadt
 

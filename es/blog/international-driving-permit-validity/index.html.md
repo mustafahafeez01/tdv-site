@@ -60,7 +60,7 @@ Nada te avisa de cuándo se agota el más corto de esos plazos. La autoridad que
 
 El pasaporte suele ser la fecha que la gente sí vigila, y hay un motivo: las normas que lo rodean son más estrictas y más conocidas. Si quieres el detalle de ese calendario en concreto, nuestra guía sobre [cuánto tiempo es válido un pasaporte para viajar](https://traveldocumentvault.com/es/blog/how-long-is-passport-valid-for-travel/) repasa los requisitos de meses de validez que pillan a la gente por sorpresa en el mostrador de facturación. El carné y el permiso rara vez reciben la misma atención, y por eso son los que acaban caducando.
 
-Ese es el argumento práctico para llevar las tres fechas en un solo sitio. Travel Document Vault, disponible en [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) y [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault), guarda los documentos en tu dispositivo y controla cada caducidad por separado, así que el permiso no caduca en silencio mientras tienes la vista puesta en el pasaporte.
+Ese es el argumento práctico para llevar las tres fechas en un solo sitio. Travel Document Vault, disponible en [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) y [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), guarda los documentos en tu dispositivo y controla cada caducidad por separado, así que el permiso no caduca en silencio mientras tienes la vista puesta en el pasaporte.
 
 ## Qué Comprobar Antes de Reservar
 

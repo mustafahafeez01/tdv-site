@@ -78,7 +78,7 @@ Una aplicación de compra única, por el contrario, sigue siendo completamente f
 
 ## Cómo Travel Document Vault aborda esto
 
-**Travel Document Vault** encarna el enfoque de privacidad primero, sin conexión primero descrito anteriormente. Los datos se quedan en tu dispositivo, cifrados con AES-256 - sin cuenta requerida. Puedes opcionalmente hacer una copia de seguridad de datos cifrados en tu propio iCloud o Google Drive (función Pro). Soporta múltiples viajeros, seguimiento de vencimiento de pasaporte y visado, y funciona completamente sin conexión. Disponible en el App Store como una [compra única, sin suscripción](https://apps.apple.com/app/travel-document-vault/id6757014877).
+**Travel Document Vault** encarna el enfoque de privacidad primero, sin conexión primero descrito anteriormente. Los datos se quedan en tu dispositivo, cifrados con AES-256 - sin cuenta requerida. Puedes opcionalmente hacer una copia de seguridad de datos cifrados en tu propio iCloud o Google Drive (función Pro). Soporta múltiples viajeros, seguimiento de vencimiento de pasaporte y visado, y funciona completamente sin conexión. Disponible en el App Store como una [compra única, sin suscripción](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8).
 
 ## Una lista de verificación práctica antes de descargar
 

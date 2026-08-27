@@ -50,4 +50,4 @@ XXXX-XXXX-XXXX-XXXX-XXXX-XXXX
 
 Travel Document Vault를 다운로드하고 클라우드 백업을 활성화하여 문서를 안전하게 보관합시다.
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault)
+[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8) [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dfaq)

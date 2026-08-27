@@ -95,7 +95,7 @@ Ecco il modello di fallimento che cattura le famiglie: rinnovi il tuo passaporto
 
 Qualsiasi questi tre approcci funzionerà - ciò che importa è sceglierne uno che si adatti al tuo modo di operare e che tu aderisca effettivamente.
 
-**Travel Document Vault** gestisce il monitoraggio delle scadenze per ogni membro della famiglia automaticamente - scansiona ogni passaporto una volta e ricevi promemoria a partire da otto mesi prima della scadenza. Nessun foglio di calcolo, nessun rinnovo dimenticato. [Scarica dall'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** gestisce il monitoraggio delle scadenze per ogni membro della famiglia automaticamente - scansiona ogni passaporto una volta e ricevi promemoria a partire da otto mesi prima della scadenza. Nessun foglio di calcolo, nessun rinnovo dimenticato. [Scarica dall'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Elenco di controllo dei documenti pre-viaggio per le famiglie
 

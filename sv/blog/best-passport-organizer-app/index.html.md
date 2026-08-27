@@ -78,7 +78,7 @@ En app med engångsköp fortsätter däremot att fungera fullt ut på obestämd 
 
 ## Så löser Travel Document Vault det här
 
-**Travel Document Vault** bygger på precis den princip - integritet först, fungerar offline - som beskrivs ovan. Data stannar på din enhet, krypterad med AES-256, och inget konto krävs. Du kan valfritt säkerhetskopiera krypterad data till ditt eget iCloud eller Google Drive (Pro-funktion). Appen stödjer flera resenärer, håller koll på utgångsdatum för pass och visum, och fungerar helt offline. Den finns som ett engångsköp, ingen prenumeration, på [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) och [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault).
+**Travel Document Vault** bygger på precis den princip - integritet först, fungerar offline - som beskrivs ovan. Data stannar på din enhet, krypterad med AES-256, och inget konto krävs. Du kan valfritt säkerhetskopiera krypterad data till ditt eget iCloud eller Google Drive (Pro-funktion). Appen stödjer flera resenärer, håller koll på utgångsdatum för pass och visum, och fungerar helt offline. Den finns som ett engångsköp, ingen prenumeration, på [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) och [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
 
 ## En praktisk checklista innan du laddar ner
 

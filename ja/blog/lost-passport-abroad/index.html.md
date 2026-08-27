@@ -58,7 +58,7 @@ Source: https://traveldocumentvault.com/ja/blog/lost-passport-abroad/
 - 帰路の証明 - フライトの予約、ホテル確認
 - 緊急書類手数料 - 現金とカードの両方を用意してください
 
-**Travel Document Vault** は、インターネットなしでアクセス可能で、ログインなしでお使いのスマートフォンにパスポートの暗号化コピーを保存します。これは大使館が尋ねることと全く同じです。[App Storeでダウンロードしてください。](https://apps.apple.com/jp/app/travel-document-vault/id6757014877)
+**Travel Document Vault** は、インターネットなしでアクセス可能で、ログインなしでお使いのスマートフォンにパスポートの暗号化コピーを保存します。これは大使館が尋ねることと全く同じです。[App Storeでダウンロードしてください。](https://apps.apple.com/jp/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## ステップ5：旅行保険会社に通知する
 

@@ -84,7 +84,7 @@ A one-time purchase app, by contrast, remains fully functional indefinitely. You
 
 ## How Travel Document Vault Approaches This
 
-**Travel Document Vault** takes the privacy-first, offline-first approach described above. Data stays on your device, encrypted with AES-256, and no account is required, though you can optionally back up encrypted data to your own iCloud or Google Drive (Pro feature). It supports multiple travellers and passport and visa expiry tracking, works fully offline, and is available on the App Store as a [one-time purchase, no subscription](https://apps.apple.com/app/travel-document-vault/id6757014877).
+**Travel Document Vault** takes the privacy-first, offline-first approach described above. Data stays on your device, encrypted with AES-256, and no account is required, though you can optionally back up encrypted data to your own iCloud or Google Drive (Pro feature). It supports multiple travellers and passport and visa expiry tracking, works fully offline, and is available on the App Store as a [one-time purchase, no subscription](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8).
 
 ## A Practical Checklist Before You Download
 
@@ -492,7 +492,7 @@ Passport copies contain sensitive identity information, including your full name
 - **Never share unnecessarily**. Only provide your passport copy to legitimate businesses with whom you are actively transacting.
 - **Keep copies separate from your physical passport**. If your bag is stolen, you want the backup somewhere else.
 
-**Travel Document Vault** stores encrypted copies of all your travel documents on-device. AES-256 encrypted on your phone, no account required. Optional encrypted backup to your own iCloud or Google Drive (Pro) sealed with a recovery code only you hold. [Available on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** stores encrypted copies of all your travel documents on-device. AES-256 encrypted on your phone, no account required. Optional encrypted backup to your own iCloud or Google Drive (Pro) sealed with a recovery code only you hold. [Available on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 If you're wondering whether cloud storage is safe for passport copies, see our guide to [storing passports in Google Photos](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/). It explains why a dedicated encrypted app offers stronger protection. For a side-by-side comparison of iCloud, Google Photos and encrypted apps, read [the safest way to store a passport digitally](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/).
 
@@ -1008,7 +1008,7 @@ In most countries, yes - provided your current passport is still valid and you h
 
 You've got travel booked soon and your passport is about to expire. Don't panic, but do move fast: call your passport authority directly instead of just browsing the website, since all four countries covered here have urgent and emergency appointment routes that a real person can walk you through. Pull your documents together first - proof of imminent travel, your current passport, photos, and completed forms - because urgent appointments move quickly once they're booked. Check your travel insurance policy too; some cover extra costs from urgent renewal, though most exclude situations where the renewal was foreseeable. And it costs nothing to ask your airline or hotel about rescheduling, even if there's no guarantee they'll waive the fee.
 
-**The best fix is avoiding the situation entirely.** If you're managing passports for multiple family members, an app like [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877) sends you expiry reminders well ahead of time, so you're renewing with plenty of room to spare instead of scrambling at the last minute. Check out more [travel document tips](https://traveldocumentvault.com/blog/) on this blog for strategies that keep everything in order.
+**The best fix is avoiding the situation entirely.** If you're managing passports for multiple family members, an app like [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) sends you expiry reminders well ahead of time, so you're renewing with plenty of room to spare instead of scrambling at the last minute. Check out more [travel document tips](https://traveldocumentvault.com/blog/) on this blog for strategies that keep everything in order.
 
 One more thing worth reading: the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). A freshly renewed passport still needs to meet your destination country's validity requirements, and plenty of travellers get caught out by this.
 
@@ -1268,7 +1268,7 @@ Here's the failure pattern that catches families out: you renew your own passpor
 
 Any of these three approaches will work - what matters is picking one that fits how you already operate and actually sticking with it.
 
-**Travel Document Vault** handles expiry tracking for every family member automatically - scan each passport once and get reminders starting eight months out. No spreadsheet, no forgotten renewals. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** handles expiry tracking for every family member automatically - scan each passport once and get reminders starting eight months out. No spreadsheet, no forgotten renewals. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Pre-Trip Document Checklist for Families
 
@@ -1521,7 +1521,7 @@ Nothing tells you when the shortest of those runs out. Your licensing authority 
 
 The passport is usually the date people do track, and there's a reason for that: the rules attached to it are stricter and better known. If you want the detail on that clock specifically, our guide to [how long a passport stays valid for travel](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/) covers the months-of-validity requirements that catch people out at check-in. The licence and the permit rarely get the same attention, which is why they're the ones that lapse.
 
-That's the practical argument for keeping all three dates in one place. Travel Document Vault, on the [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) and [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault), stores the documents on your device and tracks each expiry on its own, so the permit doesn't lapse quietly while you're keeping an eye on the passport.
+That's the practical argument for keeping all three dates in one place. Travel Document Vault, on the [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) and [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), stores the documents on your device and tracks each expiry on its own, so the permit doesn't lapse quietly while you're keeping an eye on the passport.
 
 ## What to Check Before You Book
 
@@ -1676,7 +1676,7 @@ The same account-compromise risk applies to both platforms. A weak Apple ID pass
 
 If you're an iPhone user, enabling **Advanced Data Protection in iCloud** is worth doing. A purpose-built encrypted app with no cloud upload remains the strongest option for passport storage regardless of which platform you're on.
 
-**Travel Document Vault** stores your passport scans on-device with strong encryption. No account required. Optional encrypted backup to your own iCloud or Google Drive (Pro), sealed with a recovery code only you hold. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** stores your passport scans on-device with strong encryption. No account required. Optional encrypted backup to your own iCloud or Google Drive (Pro), sealed with a recovery code only you hold. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ![Hand-drawn diagram of what a passport photo gives away - name, date of birth, passport number and photo - flowing into three risks: account breach, third-party access and data indexing, with three safer options below: iCloud with ADP, an encrypted app, or an offline copy](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/passport-data-risks.jpg) One photo, four data points - and three calmer places to keep them.
 
@@ -1804,7 +1804,7 @@ What you will typically need (confirm with your embassy before visiting):
 - Proof of onward travel - flight booking, hotel confirmation
 - Emergency document fee - have both cash and card available
 
-**Travel Document Vault** stores an encrypted copy of your passport on your phone - accessible without internet, without a login. It's exactly what your embassy will ask for. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** stores an encrypted copy of your passport on your phone - accessible without internet, without a login. It's exactly what your embassy will ask for. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Step 5: Notify Your Travel Insurer
 
@@ -1892,7 +1892,7 @@ How urgently you need to act determines what to do:
 
 All major passport authorities hold back emergency appointment slots that are not visible online. If your timeline is tight, call rather than relying only on the website.
 
-**Set the reminder now** so this never happens again - Travel Document Vault starts reminding you eight months before every passport in your household expires, then again as the date closes in. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Set the reminder now** so this never happens again - Travel Document Vault starts reminding you eight months before every passport in your household expires, then again as the date closes in. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Scenario B: You Discovered It at the Airport
 
@@ -2058,7 +2058,7 @@ This table is a snapshot, not the full picture: requirements vary by your nation
 
 Passport validity requirements by country change without notice, and a bilateral agreement can quietly shift the rules for your specific passport, which is why checking an up-to-date official source before every international trip isn't paranoia, it's just good practice: use the IATA Travel Centre, the same system airlines use to check passenger documents in real time.
 
-**Travel Document Vault** flags any passport that will not still have six months left when your trip ends - for every family member, automatically. [Download free on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** flags any passport that will not still have six months left when your trip ends - for every family member, automatically. [Download free on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## How Airlines Enforce the Rule - Even When Countries Don't
 
@@ -2759,7 +2759,7 @@ Keep these in your carry-on at all times - don't put them in checked luggage: pa
 
 Before you leave home, take a photo of every document and store it in an encrypted app - not your camera roll. If your bag is lost or stolen, you'll want your passport number, insurance policy number, and booking references somewhere you can still access them at an embassy or police station. A secure digital backup saves hours when you're trying to get help.
 
-**Travel Document Vault** stores encrypted copies of every document on this list - organised by family member, with automatic expiry reminders. Scan once, never scramble again. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** stores encrypted copies of every document on this list - organised by family member, with automatic expiry reminders. Scan once, never scramble again. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Checklist by Trip Type
 
@@ -3141,7 +3141,7 @@ The UK has two renewal paths, and they have completely different implications fo
 
 **Digital renewal** is currently available to eligible adults applying from within the UK. You keep your current passport throughout the process, and the government issues your new passport separately and posts it to you. Because your existing passport never leaves your possession, you can generally continue to use it for travel while the new one is processed. Eligibility varies by individual circumstance, so check the HM Passport Office website for the full criteria and current times before applying.
 
-**Plan ahead before you apply.** Track your passport expiry with [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877) so you know exactly how much time you have before you need to renew, and can choose the right method without pressure.
+**Plan ahead before you apply.** Track your passport expiry with [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) so you know exactly how much time you have before you need to renew, and can choose the right method without pressure.
 
 ## Australia: Surrender and Wait
 
@@ -3413,7 +3413,7 @@ With all that complexity in mind, a good visa expiry tracker app needs to handle
 - **Privacy model:** Visa details are identity-linked sensitive data. As with passport storage, on-device encryption with no cloud upload is the safest architecture.
 - **Passport + visa tracking together:** A common but overlooked mistake is having a valid visa but a passport that expires during your planned stay. Having both tracked in the same place prevents this mismatch.
 
-**Travel Document Vault** tracks both passport and visa expiry dates in one place, with separate per-document reminders and support for multiple travellers. Your data stays on-device and AES-256 encrypted, no account required, with optional encrypted backup to your own iCloud or Google Drive (Pro). [It's available on the App Store and Google Play as a one-time purchase, no subscription.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** tracks both passport and visa expiry dates in one place, with separate per-document reminders and support for multiple travellers. Your data stays on-device and AES-256 encrypted, no account required, with optional encrypted backup to your own iCloud or Google Drive (Pro). [It's available on the App Store and Google Play as a one-time purchase, no subscription.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Practical Steps to Track Your Visa Properly
 

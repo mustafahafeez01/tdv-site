@@ -95,7 +95,7 @@ Source: https://traveldocumentvault.com/ja/blog/how-to-organise-family-travel-do
 
 これら3つのアプローチのいずれかが機能します。重要なのは、すでに操作しているものに適合するものを選択し、実際に適切に対応することです。
 
-**Travel Document Vault**はすべての家族成員の有効期限追跡を自動的に処理します。各パスポートを1回スキャンするだけで、8か月前からリマインダーが届きます。スプレッドシート不要、更新忘れもありません。[App Storeでダウンロード。](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault**はすべての家族成員の有効期限追跡を自動的に処理します。各パスポートを1回スキャンするだけで、8か月前からリマインダーが届きます。スプレッドシート不要、更新忘れもありません。[App Storeでダウンロード。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 旅行前の家族向け書類チェックリスト
 

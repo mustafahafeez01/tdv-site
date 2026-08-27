@@ -78,7 +78,7 @@ Source: https://traveldocumentvault.com/ja/blog/best-passport-organizer-app/
 
 ## Travel Document Vaultはこれにどのようにアプローチするか
 
-**Travel Document Vault**は、上記で説明されているプライバシー優先、オフライン優先のアプローチを具現化しています。データはデバイスに留まり、AES-256で暗号化されます。アカウントは不要です。オプションでは、独自のiCloudまたはGoogle Driveに暗号化されたデータをバックアップできます(Pro機能)。複数の旅行者、パスポートとビザの有効期限追跡、および完全にオフラインで機能をサポートします。App Storeで[1回限りの購入](https://apps.apple.com/app/travel-document-vault/id6757014877)として利用可能です。
+**Travel Document Vault**は、上記で説明されているプライバシー優先、オフライン優先のアプローチを具現化しています。データはデバイスに留まり、AES-256で暗号化されます。アカウントは不要です。オプションでは、独自のiCloudまたはGoogle Driveに暗号化されたデータをバックアップできます(Pro機能)。複数の旅行者、パスポートとビザの有効期限追跡、および完全にオフラインで機能をサポートします。App Storeで[1回限りの購入](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)として利用可能です。
 
 ## ダウンロード前の実践的なチェックリスト
 

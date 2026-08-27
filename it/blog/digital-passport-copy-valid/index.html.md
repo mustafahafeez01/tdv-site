@@ -69,7 +69,7 @@ Le copie del passaporto contengono informazioni di identità sensibili: nome com
 - **Non condivida mai inutilmente**. Fornisca la Sua copia del passaporto solo alle aziende legittime con cui sta effettivamente transando.
 - **Conservi le copie separate dal Suo passaporto fisico**. Se la Sua borsa viene rubata, vuole il backup da qualche altra parte.
 
-**Travel Document Vault** conserva copie crittografate di tutti i Suoi documenti di viaggio sul dispositivo. AES-256 crittografato sul Suo telefono, nessun account richiesto. Backup crittografato facoltativo sul Suo iCloud o Google Drive personale (Pro) sigillato con un codice di recupero solo Lei possiede. [Disponibile sull'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** conserva copie crittografate di tutti i Suoi documenti di viaggio sul dispositivo. AES-256 crittografato sul Suo telefono, nessun account richiesto. Backup crittografato facoltativo sul Suo iCloud o Google Drive personale (Pro) sigillato con un codice di recupero solo Lei possiede. [Disponibile sull'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 Se si sta chiedendo se l'archiviazione cloud è sicura per le copie del passaporto, consulti la Nostra guida su [l'archiviazione dei passaporti in Google Foto](https://traveldocumentvault.com/it/blog/is-it-safe-to-store-passport-in-google-photos/). Spiega perché un'app crittografata dedicata offre una protezione più forte.
 

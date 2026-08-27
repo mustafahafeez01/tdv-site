@@ -32,7 +32,7 @@ A urgência com que precisa de agir determina o que fazer:
 
 Todas as autoridades de passaportes principais retêm consultas de emergência que não são visíveis online. Se o seu cronograma é apertado, ligue em vez de confiar apenas no site.
 
-**Defina o lembrete agora** para que isto nunca mais aconteça - Travel Document Vault começa a notificá-lo a partir de oito meses antes de cada passaporte no seu agregado expirar, e novamente à medida que a data se aproxima. [Descarregue na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Defina o lembrete agora** para que isto nunca mais aconteça - Travel Document Vault começa a notificá-lo a partir de oito meses antes de cada passaporte no seu agregado expirar, e novamente à medida que a data se aproxima. [Descarregue na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Cenário B: Descobriu no Aeroporto
 

@@ -32,7 +32,7 @@ L'urgenza con cui deve agire determina cosa fare:
 
 Tutte le autorità maggiori tengono i posti per appuntamenti di emergenza che non sono visibili online. Se il Suo arco temporale è stretto, chiami piuttosto che affidarsi solo al sito web.
 
-**Imposti l'avviso adesso** così questo non accade più - Travel Document Vault la avvisa a partire da otto mesi prima della scadenza di ogni passaporto in Suo possesso, e di nuovo mentre la data si avvicina. [Scarica dall'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Imposti l'avviso adesso** così questo non accade più - Travel Document Vault la avvisa a partire da otto mesi prima della scadenza di ogni passaporto in Suo possesso, e di nuovo mentre la data si avvicina. [Scarica dall'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Scenario B: Ha scoperto all'aeroporto
 

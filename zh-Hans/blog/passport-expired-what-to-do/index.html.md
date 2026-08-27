@@ -32,7 +32,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do
 
 所有主要护照部门都保留了在线上看不到的紧急预约位置。如果你的时间很紧，打电话而不是仅仅依赖网站。
 
-**立即设置提醒**，这样就不会再发生——Travel Document Vault会为你家中每本护照从提前八个月开始通知你，并在临近到期时再次提醒。[在App Store上下载。](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**立即设置提醒**，这样就不会再发生——Travel Document Vault会为你家中每本护照从提前八个月开始通知你，并在临近到期时再次提醒。[在App Store上下载。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 情景B：你在机场发现护照已过期
 

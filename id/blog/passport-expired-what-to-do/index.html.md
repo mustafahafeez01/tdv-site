@@ -32,7 +32,7 @@ Seberapa mendesak Anda harus bertindak menentukan apa yang harus dilakukan:
 
 Semua kantor imigrasi besar menyimpan slot janji temu darurat yang tidak terlihat secara daring. Jika waktu Anda mepet, telepon langsung alih-alih hanya mengandalkan situs web.
 
-**Atur pengingatnya sekarang** agar hal ini tidak pernah terjadi lagi - Travel Document Vault mulai memberi tahu Anda delapan bulan sebelum setiap paspor di rumah tangga Anda kedaluwarsa, lalu mengingatkan lagi saat tanggalnya semakin dekat. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Atur pengingatnya sekarang** agar hal ini tidak pernah terjadi lagi - Travel Document Vault mulai memberi tahu Anda delapan bulan sebelum setiap paspor di rumah tangga Anda kedaluwarsa, lalu mengingatkan lagi saat tanggalnya semakin dekat. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Skenario B: Anda Menemukannya di Bandara
 

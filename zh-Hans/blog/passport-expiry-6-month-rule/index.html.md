@@ -64,7 +64,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rul
 
 在任何国际旅行前，请始终使用IATA Travel Centre验证您的具体要求，这是航空公司实时检查乘客文件所使用的系统。
 
-**Travel Document Vault**会在您的护照在行程结束时有效期不足六个月时自动标记提醒，为每位家庭成员自动完成。[在App Store上免费下载。](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault**会在您的护照在行程结束时有效期不足六个月时自动标记提醒，为每位家庭成员自动完成。[在App Store上免费下载。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 航空公司如何执行规则，即使国家不执行
 

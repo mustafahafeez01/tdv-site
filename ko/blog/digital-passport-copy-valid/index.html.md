@@ -69,7 +69,7 @@ Source: https://traveldocumentvault.com/ko/blog/digital-passport-copy-valid/
 - **불필요하게 공유하지 마십시오**. 실제로 거래 중인 정당한 업체에만 여권 사본을 제공하십시오.
 - **사본을 물리 여권과 분리하여 보관하십시오**. 가방을 도난당한 경우, 백업이 다른 곳에 있기를 원합니다.
 
-**Travel Document Vault**는 모든 여행 서류의 암호화된 사본을 기기에 저장합니다. 휴대폰에 AES-256으로 암호화되고, 계정이 필요 없습니다. 선택적인 암호화된 백업을 당신 소유의 iCloud 또는 Google Drive (Pro)에 저장할 수 있으며, 오직 당신만 보유하는 복구 코드로 보호됩니다. [App Store에서 사용 가능합니다.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault**는 모든 여행 서류의 암호화된 사본을 기기에 저장합니다. 휴대폰에 AES-256으로 암호화되고, 계정이 필요 없습니다. 선택적인 암호화된 백업을 당신 소유의 iCloud 또는 Google Drive (Pro)에 저장할 수 있으며, 오직 당신만 보유하는 복구 코드로 보호됩니다. [App Store에서 사용 가능합니다.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 클라우드 스토리지가 여권 사본에 안전한지 궁금하다면, [Google Photos에 여권 저장에 대한 가이드](https://traveldocumentvault.com/ko/blog/is-it-safe-to-store-passport-in-google-photos/)를 참조하세요. 이는 전용 암호화 앱이 더 강력한 보호를 제공하는 이유를 설명합니다.
 

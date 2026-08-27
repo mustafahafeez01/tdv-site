@@ -78,6 +78,6 @@ Inget enskilt lager är ett skäl att hoppa över de andra. Molnkonton kan gå f
 
 Gratis nedladdning. Vault Export och lokala säkerhetskopior ingår för alla. Pro lägger till molnsäkerhetskopia, obegränsat antal profiler, kombinerad PDF-export och mer. Engångsköp, ingen prenumeration.
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877)
+[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8)
 
 ![Hämta på Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

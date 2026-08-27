@@ -91,7 +91,7 @@ Source: https://traveldocumentvault.com/ko/blog/travel-document-checklist/
 
 집을 떠나기 전에 모든 문서의 사진을 찍어 암호화된 앱에 보관하십시오. 카메라 롤이 아닙니다. 가방을 잃어버리거나 도난당한 경우 여권 번호, 보험 정책 번호, 예약 참조번호가 대사관이나 경찰서에서 여전히 접근할 수 있는 곳에 있기를 원합니다. 안전한 디지털 백업은 해외에서 도움을 받으려고 할 때 시간을 절약합니다.
 
-**Travel Document Vault**는 이 목록의 모든 문서의 암호화된 사본을 저장합니다 - 가족 구성원별로 정리되고 자동 만료 미리 알림이 있습니다. 한 번 스캔하면 다시는 스크램블하지 않습니다. [App Store에서 다운로드합니다.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault**는 이 목록의 모든 문서의 암호화된 사본을 저장합니다 - 가족 구성원별로 정리되고 자동 만료 미리 알림이 있습니다. 한 번 스캔하면 다시는 스크램블하지 않습니다. [App Store에서 다운로드합니다.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 여행 유형별 체크리스트
 

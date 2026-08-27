@@ -60,7 +60,7 @@ Nichts sagt Ihnen, wann das kürzeste dieser Daten abläuft. Ihre Führerscheins
 
 Das Reisepassdatum ist meist dasjenige, das Menschen im Blick behalten, und das hat einen Grund: Die damit verbundenen Regeln sind strenger und bekannter. Wenn Sie die Details zu genau dieser Uhr interessieren, behandelt unser Leitfaden [Wie lange ist ein Reisepass für das Reisen gültig?](https://traveldocumentvault.com/de/blog/how-long-is-passport-valid-for-travel/) die Mindestgültigkeits-Anforderungen, die Reisende beim Check-in überraschen. Führerschein und Internationaler Führerschein bekommen selten dieselbe Aufmerksamkeit – deshalb sind sie es, die ablaufen.
 
-Das ist das praktische Argument dafür, alle drei Termine an einem Ort zu verwalten. Travel Document Vault, im [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) und bei [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault), speichert die Dokumente auf Ihrem Gerät und verfolgt jedes Ablaufdatum einzeln, sodass der Internationale Führerschein nicht still und leise abläuft, während Sie den Reisepass im Blick behalten.
+Das ist das praktische Argument dafür, alle drei Termine an einem Ort zu verwalten. Travel Document Vault, im [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) und bei [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), speichert die Dokumente auf Ihrem Gerät und verfolgt jedes Ablaufdatum einzeln, sodass der Internationale Führerschein nicht still und leise abläuft, während Sie den Reisepass im Blick behalten.
 
 ## Was Sie vor der Buchung prüfen sollten
 

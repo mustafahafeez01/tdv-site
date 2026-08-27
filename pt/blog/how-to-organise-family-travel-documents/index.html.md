@@ -95,7 +95,7 @@ Aqui está o padrão de falha que apanha famílias: renova o seu próprio passap
 
 Qualquer uma destas três abordagens funcionará - o que importa é escolher uma que se adeque à forma como já opera e realmente cumprir com ela.
 
-**Travel Document Vault** lida com rastreamento de validade para cada membro da família automaticamente - digitalize cada passaporte uma vez e receba lembretes a partir de oito meses antes. Sem folha de cálculo, sem renovações esquecidas. [Transfira na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** lida com rastreamento de validade para cada membro da família automaticamente - digitalize cada passaporte uma vez e receba lembretes a partir de oito meses antes. Sem folha de cálculo, sem renovações esquecidas. [Transfira na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Lista de Verificação de Documentos Pré-Viagem para Famílias
 

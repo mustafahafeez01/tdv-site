@@ -58,7 +58,7 @@ Quello che probabilmente avrà bisogno (confermi con l'ambasciata prima di visit
 - Prova di viaggio in avanti - prenotazione di volo, conferma alberghiera
 - Tassa per il documento d'emergenza - abbia a disposizione sia denaro contante che carta
 
-**Travel Document Vault** conserva una copia crittografata del passaporto sul telefono - accessibile senza internet, senza accesso. È esattamente quello che l'ambasciata le chiederà. [Scarica da App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** conserva una copia crittografata del passaporto sul telefono - accessibile senza internet, senza accesso. È esattamente quello che l'ambasciata le chiederà. [Scarica da App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Passo 5: Notifichi l'assicuratore di viaggio
 

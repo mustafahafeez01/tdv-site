@@ -40,7 +40,7 @@ Source: https://traveldocumentvault.com/ko/blog/travel-while-passport-renewal-pe
 
 **디지털 갱신**은 현재 영국 내에서 신청하는 적격 성인이 이용할 수 있습니다. 프로세스 전체에서 기존 여권을 보유하며, 정부는 새 여권을 별도로 발급하고 우편으로 보냅니다. 기존 여권이 절대 당신의 소유에서 벗어나지 않으므로, 새 여권이 처리되는 동안 일반적으로 여행을 계속할 수 있습니다. 적격 여부는 개별 상황에 따라 달라지므로, 신청하기 전에 완전한 기준과 현재 처리 시간에 대해 HM Passport Office 웹사이트를 확인하세요.
 
-**미리 계획하세요.** [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877)로 여권 만료일을 추적하면, 정확히 얼마나 많은 시간이 있는지 알 수 있고, 압박감 없이 올바른 방법을 선택할 수 있습니다.
+**미리 계획하세요.** [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)로 여권 만료일을 추적하면, 정확히 얼마나 많은 시간이 있는지 알 수 있고, 압박감 없이 올바른 방법을 선택할 수 있습니다.
 
 ## 호주: 제출 후 대기
 

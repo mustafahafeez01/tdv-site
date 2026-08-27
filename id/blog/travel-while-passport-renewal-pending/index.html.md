@@ -40,7 +40,7 @@ Inggris punya dua jalur perpanjangan, dan keduanya berimplikasi sangat berbeda t
 
 **Perpanjangan digital** saat ini tersedia untuk orang dewasa yang memenuhi syarat dan mengajukan dari dalam Inggris. Anda tetap memegang paspor Anda saat ini sepanjang proses, dan pemerintah menerbitkan paspor baru Anda secara terpisah lalu mengirimkannya kepada Anda. Karena paspor Anda yang ada tidak pernah lepas dari tangan Anda, Anda umumnya bisa tetap memakainya untuk bepergian selama paspor baru diproses. Kelayakan berbeda-beda tergantung kondisi masing-masing, jadi periksa situs web HM Passport Office untuk kriteria lengkap dan waktu terkini sebelum mengajukan.
 
-**Rencanakan lebih awal sebelum Anda mengajukan.** Lacak tanggal kedaluwarsa paspor Anda dengan [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877) agar Anda tahu persis berapa banyak waktu yang Anda miliki sebelum harus memperpanjang, dan bisa memilih metode yang tepat tanpa tekanan.
+**Rencanakan lebih awal sebelum Anda mengajukan.** Lacak tanggal kedaluwarsa paspor Anda dengan [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) agar Anda tahu persis berapa banyak waktu yang Anda miliki sebelum harus memperpanjang, dan bisa memilih metode yang tepat tanpa tekanan.
 
 ## Australia: Serahkan dan Tunggu
 

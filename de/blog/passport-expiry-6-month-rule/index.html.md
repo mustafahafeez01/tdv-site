@@ -64,7 +64,7 @@ Anforderungen zur Reisepass-Gültigkeit nach Land ändern sich ohne Vorankündig
 
 Überprüfen Sie Ihre spezifischen Anforderungen immer mit dem IATA Travel Centre, dem System, das Airlines verwenden, um Passagierdokumente in Echtzeit zu überprüfen.
 
-**Travel Document Vault** markiert jeden Reisepass, der zum Ende Ihrer Reise keine sechs Monate Gültigkeit mehr hat - für jedes Familienmitglied automatisch. [Jetzt kostenlos im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** markiert jeden Reisepass, der zum Ende Ihrer Reise keine sechs Monate Gültigkeit mehr hat - für jedes Familienmitglied automatisch. [Jetzt kostenlos im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Wie Airlines die Regel durchsetzen - auch wenn Länder das nicht tun
 

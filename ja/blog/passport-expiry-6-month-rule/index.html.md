@@ -64,7 +64,7 @@ Source: https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/
 
 常に IATA Travel Centre を使用して確認してください。これは航空会社が乗客ドキュメントをリアルタイムでチェックするシステムです。
 
-**Travel Document Vault** は、旅行終了時点でパスポートの有効期間が6か月を切っている場合に、家族全員分を自動的に警告表示します。[App Store で無料ダウンロード](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** は、旅行終了時点でパスポートの有効期間が6か月を切っている場合に、家族全員分を自動的に警告表示します。[App Store で無料ダウンロード](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 航空会社がルールを適用する方法 - 国が適用しない場合でも
 

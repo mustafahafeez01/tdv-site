@@ -40,7 +40,7 @@ Das Vereinigte Königreich hat zwei Erneuerungswege, und sie haben völlig unter
 
 **Digitale Erneuerung** ist derzeit für berechtigte Erwachsene verfügbar, die vom Vereinigten Königreich aus beantragen. Sie behalten Ihren aktuellen Pass während des gesamten Prozesses, und die Regierung stellt Ihren neuen Pass separat aus und schickt ihn per Post zu Ihnen. Da Ihr bestehender Pass niemals Ihren Besitz verlässt, können Sie ihn normalerweise während der Verarbeitung des neuen weiterhin für Reisen verwenden. Die Berechtigung variiert je nach individuellen Umständen. Überprüfen Sie daher die Website des HM Passport Office auf die vollständigen Kriterien und aktuelle Wartezeiten, bevor Sie einen Antrag einreichen.
 
-**Planen Sie voraus, bevor Sie einen Antrag stellen.** Verfolgen Sie das Ablaufdatum Ihres Passes mit [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877), damit Sie genau wissen, wie viel Zeit Sie haben, bevor Sie erneuern müssen, und können die richtige Methode ohne Druck wählen.
+**Planen Sie voraus, bevor Sie einen Antrag stellen.** Verfolgen Sie das Ablaufdatum Ihres Passes mit [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8), damit Sie genau wissen, wie viel Zeit Sie haben, bevor Sie erneuern müssen, und können die richtige Methode ohne Druck wählen.
 
 ## Australien: Abgeben und Warten
 

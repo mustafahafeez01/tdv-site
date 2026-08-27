@@ -62,7 +62,7 @@ Immigration, Réfugiés et Citoyenneté Canada (IRCC) traite les renouvellements
 
 Cela rend le processus plus exigeant logistiquement, surtout si vous vivez quelque part de rural et que le bureau de passeport le plus proche est éloigné. Consultez la page d'IRCC pour les délais de traitement actuels avant de présenter votre demande, et ajoutez le temps d'acheminement dans chaque sens si vous demandez par courrier.
 
-**Configurez un rappel de renouvellement dès maintenant** - Travel Document Vault vous avertit 6, 3 et 1 mois avant l'expiration de votre passeport, pour que vous renouveliez toujours avec beaucoup de temps d'avance, pas à la dernière minute. [Téléchargez sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Configurez un rappel de renouvellement dès maintenant** - Travel Document Vault vous avertit 6, 3 et 1 mois avant l'expiration de votre passeport, pour que vous renouveliez toujours avec beaucoup de temps d'avance, pas à la dernière minute. [Téléchargez sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Conseils pour le renouvellement accéléré du passeport : comment accélérer les choses
 
@@ -97,7 +97,7 @@ Vous avez un voyage prévu dans les prochaines semaines et votre passeport est s
 3. **Vérifiez votre police d'assurance voyage.** Certaines polices couvrent les frais supplémentaires du renouvellement urgent du passeport. La plupart excluent les situations où le renouvellement était prévisible - mais ça vaut le coup de regarder avant de dépenser l'argent.
 4. **Demandez si vous pouvez reporter votre voyage.** Les compagnies aériennes et les hôtels varient, mais beaucoup renonceront aux frais de changement pour les urgences de passeport documentées. Ce n'est pas garanti, mais cela ne coûte rien de demander.
 
-**Le meilleur correctif est d'éviter la situation complètement.** Si vous gérez les passeports de plusieurs membres de la famille, une application comme [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877) vous envoie des rappels d'expiration 6 mois, 3 mois et 1 mois avant - pour que vous renouveliez avec beaucoup de temps d'avance, pas à la dernière minute. Consultez plus de [conseils sur les documents de voyage](https://traveldocumentvault.com/fr/blog/) sur ce blog pour des stratégies qui gardent tout en ordre.
+**Le meilleur correctif est d'éviter la situation complètement.** Si vous gérez les passeports de plusieurs membres de la famille, une application comme [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) vous envoie des rappels d'expiration 6 mois, 3 mois et 1 mois avant - pour que vous renouveliez avec beaucoup de temps d'avance, pas à la dernière minute. Consultez plus de [conseils sur les documents de voyage](https://traveldocumentvault.com/fr/blog/) sur ce blog pour des stratégies qui gardent tout en ordre.
 
 Une autre chose qui vaut la peine de lire : la [règle de validité de 6 mois du passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/). Un passeport fraîchement renouvelé doit toujours répondre aux exigences de validité de votre pays de destination - et beaucoup de voyageurs se font piéger par cela.
 

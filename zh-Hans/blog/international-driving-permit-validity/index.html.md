@@ -60,7 +60,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/international-driving-permi
 
 大家通常会留意的是护照的到期日，这是有原因的：护照相关的规则更严格，也更为人熟知。如果您想具体了解这方面的细节，可以参考我们关于[护照有效期多久才能旅行](https://traveldocumentvault.com/zh-Hans/blog/how-long-is-passport-valid-for-travel/)的指南，里面讲了值机时常让人措手不及的"有效期月数"要求。驾照和许可证很少受到同等重视，这也正是它们更容易被忽略而过期的原因。
 
-这就是把三份证件的到期日集中管理的现实意义。Travel Document Vault 在 [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) 和 [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault) 均可下载，它把证件保存在您自己的设备上，并分别追踪每一份的到期日，这样当您盯着护照的时候，许可证就不会悄悄过期。
+这就是把三份证件的到期日集中管理的现实意义。Travel Document Vault 在 [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) 和 [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog) 均可下载，它把证件保存在您自己的设备上，并分别追踪每一份的到期日，这样当您盯着护照的时候，许可证就不会悄悄过期。
 
 ## 订票前该核实的几件事
 

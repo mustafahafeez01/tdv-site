@@ -60,7 +60,7 @@ Ingenting fortæller dig, hvornår det korteste af dem udløber. Din kørekortmy
 
 Passet er som regel den dato, folk holder styr på, og der er en grund til det: reglerne omkring det er strengere og bedre kendt. Vil du have detaljerne om netop det ur, gennemgår vores guide til [hvor længe et pas er gyldigt til rejser](https://traveldocumentvault.com/da/blog/how-long-is-passport-valid-for-travel/) kravene om gyldighedsmåneder, der fanger folk ved indtjekningen. Kørekortet og det internationale kort får sjældent samme opmærksomhed, og det er derfor, det er dem, der udløber.
 
-Det er det praktiske argument for at holde alle tre datoer samlet ét sted. Travel Document Vault, i [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) og [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault), gemmer dokumenterne på din enhed og holder styr på hver udløbsdato for sig, så det internationale kørekort ikke stille og roligt udløber, mens du holder øje med passet.
+Det er det praktiske argument for at holde alle tre datoer samlet ét sted. Travel Document Vault, i [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) og [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), gemmer dokumenterne på din enhed og holder styr på hver udløbsdato for sig, så det internationale kørekort ikke stille og roligt udløber, mens du holder øje med passet.
 
 ## Hvad du skal tjekke, før du booker
 

@@ -84,7 +84,7 @@ HM Passport Office负责处理英国的护照更新，并在其网站上公布�
 
 加拿大不提供在线护照更新。每份申请要么通过邮件进行，要么亲自通过护照加拿大办公室。这使该过程在后勤上更加要求——尤其是如果您住在某个偏远地区，最近的护照办公室距离很远。查看IRCC的页面了解最新处理时间。
 
-**现在设置更新提醒**——Travel Document Vault在您的护照过期前6个月、3个月和1个月时通知您，所以您总是有充足的时间进行更新，而不是最后一刻匆忙。[在App Store上下载。](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**现在设置更新提醒**——Travel Document Vault在您的护照过期前6个月、3个月和1个月时通知您，所以您总是有充足的时间进行更新，而不是最后一刻匆忙。[在App Store上下载。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 加急护照更新提示：如何加快速度
 
@@ -119,7 +119,7 @@ HM Passport Office负责处理英国的护照更新，并在其网站上公布�
 3. **检查您的旅行保险政策。**某些政策涵盖加急护照更新的额外费用。大多数排除更新可预见的情况——但在花钱前值得看一下。
 4. **询问重新安排您的旅行。**航空公司和酒店各不相同，但许多人将免除已记录护照紧急情况的改签费。不能保证，但询问不需要任何费用。
 
-**最好的修复是完全避免这种情况。**如果您管理多个家庭成员的护照，像[Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877)这样的应用会在护照过期前6个月、3个月和1个月向您发送过期提醒——所以您会有充足的时间进行更新，而不是在最后一刻匆忙。查看本博客上的更多[旅行文件提示](https://traveldocumentvault.com/zh-Hans/blog/)了解保持一切井然有序的策略。
+**最好的修复是完全避免这种情况。**如果您管理多个家庭成员的护照，像[Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)这样的应用会在护照过期前6个月、3个月和1个月向您发送过期提醒——所以您会有充足的时间进行更新，而不是在最后一刻匆忙。查看本博客上的更多[旅行文件提示](https://traveldocumentvault.com/zh-Hans/blog/)了解保持一切井然有序的策略。
 
 还有一件事值得阅读：[6个月护照规则](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)。一本新更新的护照仍然需要满足您目的地国家的有效期要求——许多旅客会因此被抓住。
 

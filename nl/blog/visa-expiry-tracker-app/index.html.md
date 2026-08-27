@@ -68,7 +68,7 @@ Met al deze complexiteit in gedachten moet een goede app voor visumvervaldatums 
 - **Privacymodel:** Visumgegevens zijn gevoelige, aan identiteit gekoppelde data. Net als bij paspoortopslag is versleuteling op het toestel zonder cloud-upload de veiligste architectuur.
 - **Paspoort- en visumbeheer samen:** Een veelvoorkomende maar over het hoofd geziene fout is een geldig visum hebben maar een paspoort dat verloopt tijdens het geplande verblijf. Beide op dezelfde plek bijhouden voorkomt deze mismatch.
 
-**Travel Document Vault** houdt zowel paspoort- als visumvervaldatums op één plek bij, met aparte herinneringen per document en ondersteuning voor meerdere reizigers. Je gegevens blijven op het toestel en zijn versleuteld met AES-256, geen account nodig, met optionele versleutelde back-up naar je eigen iCloud of Google Drive (Pro). [Beschikbaar in de App Store en op Google Play als eenmalige aankoop, zonder abonnement.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** houdt zowel paspoort- als visumvervaldatums op één plek bij, met aparte herinneringen per document en ondersteuning voor meerdere reizigers. Je gegevens blijven op het toestel en zijn versleuteld met AES-256, geen account nodig, met optionele versleutelde back-up naar je eigen iCloud of Google Drive (Pro). [Beschikbaar in de App Store en op Google Play als eenmalige aankoop, zonder abonnement.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Praktische stappen om je visum goed bij te houden
 

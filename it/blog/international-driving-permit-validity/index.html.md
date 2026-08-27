@@ -60,7 +60,7 @@ Niente ti avverte quando scade il più breve dei tre. L'ente che rilascia la pat
 
 Il passaporto è di solito la data che le persone tengono davvero d'occhio, e c'è un motivo: le regole che lo riguardano sono più severe e più conosciute. Se vuoi il dettaglio su quell'orologio in particolare, la nostra guida su [per quanto tempo è valido un passaporto per viaggiare](https://traveldocumentvault.com/it/blog/how-long-is-passport-valid-for-travel/) copre i requisiti sui mesi di validità che colgono di sorpresa le persone al check-in. La patente e il permesso ricevono raramente la stessa attenzione, ed è per questo che sono loro a scadere inosservati.
 
-Questo è l'argomento pratico per tenere tutte e tre le date in un unico posto. Travel Document Vault, disponibile su [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) e [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault), conserva i documenti sul tuo dispositivo e tiene traccia di ogni scadenza singolarmente, così il permesso non scade in silenzio mentre tieni d'occhio il passaporto.
+Questo è l'argomento pratico per tenere tutte e tre le date in un unico posto. Travel Document Vault, disponibile su [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) e [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), conserva i documenti sul tuo dispositivo e tiene traccia di ogni scadenza singolarmente, così il permesso non scade in silenzio mentre tieni d'occhio il passaporto.
 
 ## Cosa controllare prima di prenotare
 

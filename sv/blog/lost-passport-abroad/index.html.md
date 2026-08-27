@@ -58,7 +58,7 @@ Vad du vanligtvis behöver (bekräfta med din ambassad innan du besöker den):
 - Bevis på fortsatt resa - flygbokning, hotellbekräftelse
 - Avgift för nödhandlingen - ha både kontanter och kort tillgängligt
 
-**Travel Document Vault** sparar en krypterad kopia av passet på telefonen - tillgänglig utan internet, utan inloggning. Det är precis det din ambassad kommer att be om. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** sparar en krypterad kopia av passet på telefonen - tillgänglig utan internet, utan inloggning. Det är precis det din ambassad kommer att be om. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Steg 5: Meddela ditt reseförsäkringsbolag
 

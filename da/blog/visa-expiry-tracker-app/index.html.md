@@ -68,7 +68,7 @@ Med al denne kompleksitet in mente skal en god app til visumovervågning kunne m
 - **Privatlivsmodel:** Visumoplysninger er følsomme, identitetsknyttede data. Ligesom ved pasopbevaring er kryptering på enheden uden cloud-upload den sikreste arkitektur.
 - **Overvågning af pas og visum sammen:** En almindelig, men let overset fejl er at have et gyldigt visum, men et pas, der udløber under det planlagte ophold. At overvåge begge samme sted forhindrer denne fejlmatch.
 
-**Travel Document Vault** overvåger både pas- og visumudløb ét sted, med separate påmindelser pr. dokument og understøttelse af flere rejsende. Dine data bliver på enheden og er AES-256-krypterede, intet konto krævet, med valgfri krypteret backup til din egen iCloud eller Google Drive (Pro). [Findes i App Store og på Google Play som et engangskøb, intet abonnement.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** overvåger både pas- og visumudløb ét sted, med separate påmindelser pr. dokument og understøttelse af flere rejsende. Dine data bliver på enheden og er AES-256-krypterede, intet konto krævet, med valgfri krypteret backup til din egen iCloud eller Google Drive (Pro). [Findes i App Store og på Google Play som et engangskøb, intet abonnement.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Praktiske skridt til at overvåge dit visum ordentligt
 

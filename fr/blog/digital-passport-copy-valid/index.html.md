@@ -69,7 +69,7 @@ Les copies de passeport contiennent des informations d'identité sensibles : vot
 - **Ne partagez jamais inutilement**. Fournissez votre copie de passeport uniquement aux entreprises légitimes avec lesquelles vous effectuez activement des transactions.
 - **Gardez les copies séparées de votre passeport physique**. Si votre sac est volé, vous voulez que la sauvegarde soit ailleurs.
 
-**Travel Document Vault** stocke les copies chiffrées de tous vos documents de voyage sur l'appareil. Chiffrées en AES-256 sur votre téléphone, aucun compte requis. Sauvegarde chiffrée optionnelle sur votre propre iCloud ou Google Drive (Pro) scellée avec un code de récupération que seul vous détenez. [Disponible sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** stocke les copies chiffrées de tous vos documents de voyage sur l'appareil. Chiffrées en AES-256 sur votre téléphone, aucun compte requis. Sauvegarde chiffrée optionnelle sur votre propre iCloud ou Google Drive (Pro) scellée avec un code de récupération que seul vous détenez. [Disponible sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 Si vous vous demandez si le stockage en nuage est sûr pour les copies de passeport, consultez notre guide pour [stocker les passeports dans Google Photos](https://traveldocumentvault.com/fr/blog/is-it-safe-to-store-passport-in-google-photos/). Il explique pourquoi une application chiffrée dédiée offre une protection plus forte.
 

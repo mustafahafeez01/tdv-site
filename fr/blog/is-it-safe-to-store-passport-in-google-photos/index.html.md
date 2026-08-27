@@ -83,7 +83,7 @@ Le même risque de compromission de compte s'applique aux deux plateformes. Un m
 
 Si vous êtes un utilisateur iPhone, activer **Advanced Data Protection dans iCloud** vaut le coup. Une application chiffrée construite à cet effet sans téléchargement vers le cloud reste l'option la plus forte pour le stockage de passeport indépendamment de la plateforme sur laquelle vous vous trouvez.
 
-**Travel Document Vault** stocke vos scans de passeport sur l'appareil avec un chiffrement fort. Aucun compte requis. Sauvegarde chiffrée optionnelle vers votre propre iCloud ou Google Drive (Pro), scellée avec un code de récupération que seul vous connaissez. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** stocke vos scans de passeport sur l'appareil avec un chiffrement fort. Aucun compte requis. Sauvegarde chiffrée optionnelle vers votre propre iCloud ou Google Drive (Pro), scellée avec un code de récupération que seul vous connaissez. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Quelles sont les alternatives plus sûres
 

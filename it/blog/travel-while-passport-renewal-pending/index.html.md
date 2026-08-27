@@ -40,7 +40,7 @@ Il Regno Unito ha due percorsi di rinnovo con implicazioni completamente diverse
 
 **Rinnovo digitale** è attualmente disponibile per gli adulti idonei che chiedono dal Regno Unito. Conservate il vostro passaporto attuale durante tutto il processo, e il governo rilascia il vostro nuovo passaporto separatamente e ve lo spedisce. Poiché il vostro passaporto esistente non lascia mai il vostro possesso, potete generalmente continuare a utilizzarlo per i viaggi mentre il nuovo viene elaborato. L'idoneità varia in base alle circostanze individuali, quindi controllate il sito Web di HM Passport Office per i criteri completi e gli orari attuali prima di fare domanda.
 
-**Pianificate in anticipo prima di fare domanda.** Tenete traccia della scadenza del vostro passaporto con [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877) in modo da sapere esattamente quanto tempo avete prima di dover rinnovare, e potete scegliere il metodo giusto senza pressione.
+**Pianificate in anticipo prima di fare domanda.** Tenete traccia della scadenza del vostro passaporto con [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) in modo da sapere esattamente quanto tempo avete prima di dover rinnovare, e potete scegliere il metodo giusto senza pressione.
 
 ## Australia: Consegnare e aspettare
 
