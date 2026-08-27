@@ -66,7 +66,7 @@ Esto se aplica sin importar si tu pasaporte expiró antes de que salieras del Re
 
 [Si tu pasaporte ya ha expirado y estás buscando qué hacer a continuación, nuestro artículo complementario cubre eso paso a paso](https://traveldocumentvault.com/es/blog/passport-expired-what-to-do/). Si tienes un viaje próximo y tu pasaporte se está acercando a la expiración, este es el momento para renovar en lugar de esperar a que expire, lo que significa pagar por el servicio Premium en lugar de la tarifa estándar. Verifica los pasaportes de tu familia ahora antes de reservar cualquier viaje.
 
-**Establece recordatorios de expiración meses con anticipación, no semanas.** [Travel Document Vault rastrea fechas de expiración para cada pasaporte en tu hogar y envía recordatorios a los 6, 3 y 1 mes antes de la expiración](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/), para que renueves en procesamiento estándar y evites tarifas de emergencia.
+**Establece recordatorios de expiración meses con anticipación, no semanas.** [Travel Document Vault rastrea fechas de expiración para cada pasaporte en tu hogar y envía recordatorios desde ocho meses antes, y de nuevo a medida que se acerca la expiración](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/), para que renueves en procesamiento estándar y evites tarifas de emergencia.
 
 ## Si ya estás en el extranjero y tu pasaporte expira
 
@@ -74,7 +74,7 @@ Este es el escenario genuinamente difícil. Si estás viajando y tu pasaporte ex
 
 El proceso es lento y burocrático. Necesitarás proporcionar prueba de identidad y pagar la tarifa, cuyo importe actual publica el Foreign, Commonwealth and Development Office. El tiempo de tramitación varía según la embajada y la urgencia de tu situación, así que pregunta qué esperar en cuanto contactes con ellos. El documento de emergencia no es un pasaporte turístico - es válido solo para el viaje específico de regreso al Reino Unido sin permitir viajes posteriores.
 
-Establece recordatorios meses con anticipación en lugar del día antes de viajar, ya que recordatorios a los 6, 3 y 1 mes antes de la expiración te dan tiempo para renovar en procesamiento estándar en lugar de pagar por citas de emergencia. Si tu pasaporte expira dentro de 6 meses de tu viaje, comienza el proceso de renovación ahora antes de que te comprometas a fechas de viaje.
+Establece recordatorios meses con anticipación en lugar del día antes de viajar, ya que recordatorios desde ocho meses antes, y de nuevo a medida que se acerca la fecha, te dan tiempo para renovar con procesamiento estándar en lugar de pagar por citas de emergencia. Si tu pasaporte expira dentro de 6 meses de tu viaje, comienza el proceso de renovación ahora antes de que te comprometas a fechas de viaje.
 
 ## Malentendidos comunes sobre la validez del pasaporte
 

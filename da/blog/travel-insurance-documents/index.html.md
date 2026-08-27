@@ -1,6 +1,6 @@
 # Rejseforsikringsdokumenter: Hvad skal du gemme før du tager af sted
 
-> Lær, hvilke rejseforsikringsdokumenter du skal gemme før du flyver, hvor du opbevarer dem offline, og hvordan du undgår almindelige fejl ved skadesanmeldelser, der koster tusinder af kroner.
+> Lær, hvilke rejseforsikringsdokumenter du skal gemme før du flyver, hvor du opbevarer dem offline, og hvordan du undgår almindelige fejl ved skadesanmeldelser, der får kravet afvist.
 
 Source: https://traveldocumentvault.com/da/blog/travel-insurance-documents/
 

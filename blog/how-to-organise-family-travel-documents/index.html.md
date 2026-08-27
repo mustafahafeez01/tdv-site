@@ -93,11 +93,11 @@ Here's the failure pattern that catches families out: you renew your own passpor
 
 - **Calendar reminders:** Set one 12 months before each document expires and another at 6 months. You'll need to remember to update these when documents get renewed, and you need the expiry dates accessible in the first place.
 - **Spreadsheet:** Works well if you'll actually maintain it. One row per document per person, the expiry date, and a formula that highlights anything expiring within 12 months.
-- **Dedicated app:** Tools like Travel Document Vault handle the reminders automatically - scan the document, confirm the expiry date, and it schedules alerts at six months, three months, and closer intervals without you having to think about it.
+- **Dedicated app:** Tools like Travel Document Vault handle the reminders automatically - scan the document, confirm the expiry date, and it schedules alerts from eight months out and again at closer intervals, without you having to think about it.
 
 Any of these three approaches will work - what matters is picking one that fits how you already operate and actually sticking with it.
 
-**Travel Document Vault** handles expiry tracking for every family member automatically - scan each passport once and get reminders at 6, 3, and 1 month. No spreadsheet, no forgotten renewals. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** handles expiry tracking for every family member automatically - scan each passport once and get reminders starting eight months out. No spreadsheet, no forgotten renewals. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Pre-Trip Document Checklist for Families
 

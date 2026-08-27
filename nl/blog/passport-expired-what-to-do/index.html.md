@@ -32,7 +32,7 @@ Hoe dringend je moet handelen, bepaalt wat je moet doen:
 
 Alle grote paspoortinstanties houden spoedafspraken achter de hand die niet online zichtbaar zijn. Als je tijdlijn krap is, bel dan in plaats van alleen op de website te vertrouwen.
 
-**Stel de herinnering nu in** zodat dit nooit meer gebeurt - Travel Document Vault waarschuwt je 6, 3 en 1 maand voor elk paspoort in je huishouden verloopt. [Download in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Stel de herinnering nu in** zodat dit nooit meer gebeurt - Travel Document Vault waarschuwt je al vanaf acht maanden voordat elk paspoort in je huishouden verloopt, en opnieuw naarmate de datum dichterbij komt. [Download in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Scenario B: je ontdekte het op het vliegveld
 
@@ -110,7 +110,7 @@ In het Verenigd Koninkrijk is er een versnelde Premium-service beschikbaar bij a
 
 ### Hoe voorkom ik dat mijn paspoort onverwacht verloopt?
 
-Stel een vervalherinnering in op 12 maanden voor de vervaldatum, niet 6 maanden. Dat geeft je ruim de tijd om te vernieuwen met standaardbehandeling. Doe dit voor elk paspoort in je huishouden apart. Travel Document Vault stuurt automatisch herinneringen op 6, 3 en 1 maand voor de vervaldatum van elk paspoort dat je toevoegt.
+Stel een vervalherinnering in op 12 maanden voor de vervaldatum, niet 6 maanden. Dat geeft je ruim de tijd om te vernieuwen met standaardbehandeling. Doe dit voor elk paspoort in je huishouden apart. Travel Document Vault stuurt automatisch herinneringen vanaf acht maanden voor de vervaldatum, en opnieuw naarmate de datum dichterbij komt, voor elk paspoort dat je toevoegt.
 
 ### Kan een geldig paspoort op het vliegveld geweigerd worden?
 

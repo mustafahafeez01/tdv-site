@@ -62,7 +62,7 @@ Tabel ini hanyalah gambaran sekilas, bukan gambaran lengkap: persyaratan juga be
 
 Persyaratan masa berlaku paspor per negara bisa berubah tanpa pemberitahuan, dan perjanjian bilateral bisa diam-diam mengubah aturan untuk paspor Anda secara spesifik. Itulah sebabnya memeriksa sumber resmi terbaru sebelum setiap perjalanan internasional bukanlah sikap berlebihan, melainkan sekadar kebiasaan baik: gunakan IATA Travel Centre, sistem yang sama yang digunakan maskapai untuk memeriksa dokumen penumpang secara real-time.
 
-**Travel Document Vault** mengirimkan pengingat saat paspor Anda mendekati ambang batas masa berlaku untuk negara tujuan Anda - untuk setiap anggota keluarga, secara otomatis. [Unduh gratis di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** akan menandai paspor mana pun yang masa berlakunya kurang dari enam bulan saat perjalanan Anda berakhir - untuk setiap anggota keluarga, secara otomatis. [Unduh gratis di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Bagaimana Maskapai Menerapkan Aturan Ini - Bahkan Saat Negara Tidak
 
@@ -90,7 +90,7 @@ Perlakukan paspor Anda seperti ban mobil dan jangan menunggu sampai kempes: perb
 
 Sebelum perjalanan apa pun, hitung enam bulan ke depan dari hari Anda meninggalkan negara tujuan, yang merupakan tanggal lebih akhir sehingga memenuhi versi mana pun dari aturan ini. Periksa tanggal kedaluwarsa paspor Anda terhadap tanggal itu - bukan hanya tanggal perjalanan Anda.
 
-Mengelola beberapa paspor dalam satu keluarga dengan tanggal kedaluwarsa yang berbeda-beda adalah saat semuanya jadi rumit. Travel Document Vault melacak ini secara otomatis - menyimpan tanggal kedaluwarsa paspor setiap anggota keluarga dan mengirimkan pengingat pada enam bulan, tiga bulan, dan mendekati tanggal, sehingga tidak perlu hitung-hitungan manual sebelum setiap pemesanan. Anda juga bisa menemukan lebih banyak tips praktis tentang dokumen perjalanan di [blog](https://traveldocumentvault.com/id/blog/) kami.
+Mengelola beberapa paspor dalam satu keluarga dengan tanggal kedaluwarsa yang berbeda-beda adalah saat semuanya jadi rumit. Travel Document Vault melacak ini secara otomatis - menyimpan tanggal kedaluwarsa paspor setiap anggota keluarga dan mengirimkan pengingat mulai dari delapan bulan sebelumnya, lalu kembali mengingatkan saat tanggalnya semakin dekat, sehingga tidak perlu hitung-hitungan manual sebelum setiap pemesanan. Anda juga bisa menemukan lebih banyak tips praktis tentang dokumen perjalanan di [blog](https://traveldocumentvault.com/id/blog/) kami.
 
 ## Catatan tentang Memeriksa Persyaratan Sebelum Anda Bepergian
 

@@ -66,7 +66,7 @@ Cela s'applique, que votre passeport ait expiré avant que vous quittiez le Roya
 
 [Si votre passeport a déjà expiré et vous recherchez quoi faire ensuite, notre article complémentaire le couvre étape par étape](https://traveldocumentvault.com/fr/blog/passport-expired-what-to-do/). Si vous avez un voyage à venir et votre passeport approche l'expiration, c'est le moment de renouveler plutôt que d'attendre jusqu'à ce qu'il expire, ce qui signifie payer le service Premium au lieu de la taxe standard. Vérifiez les passeports de votre famille maintenant avant de réserver un voyage.
 
-**Définissez des rappels d'expiration des mois à l'avance, pas des semaines.** [Travel Document Vault suit les dates d'expiration de chaque passeport de votre ménage et envoie des rappels 6, 3 et 1 mois avant l'expiration](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/), afin que vous renouveliez le traitement standard et évitiez les frais d'urgence.
+**Définissez des rappels d'expiration des mois à l'avance, pas des semaines.** [Travel Document Vault suit les dates d'expiration de chaque passeport de votre ménage et envoie des rappels dès huit mois avant l'échéance, puis à nouveau à l'approche de l'expiration](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/), afin que vous renouveliez le traitement standard et évitiez les frais d'urgence.
 
 ## Si vous êtes déjà à l'étranger et votre passeport expire
 
@@ -74,7 +74,7 @@ C'est le scénario véritablement difficile. Si vous voyagez et votre passeport 
 
 Le processus est lent et bureaucratique. Vous devrez fournir une preuve d'identité et payer les frais, dont le montant actuel est publié par le Foreign, Commonwealth and Development Office. Le délai de traitement varie selon l'ambassade et l'urgence de votre situation, alors demandez à quoi vous attendre dès que vous les contactez. Le document d'urgence n'est pas un passeport touristique - il n'est valide que pour le voyage spécifique de retour au Royaume-Uni sans autoriser de voyages ultérieurs.
 
-Définissez des rappels des mois à l'avance plutôt que la veille du voyage, car les rappels à 6, 3 et 1 mois avant l'expiration vous donnent le temps de renouveler le traitement standard au lieu de payer des rendez-vous d'urgence. Si votre passeport expire dans les 6 mois de votre voyage, commencez le processus de renouvellement maintenant avant de vous engager sur les dates de voyage.
+Définissez des rappels des mois à l'avance plutôt que la veille du voyage, car des rappels dès huit mois avant l'échéance, puis à nouveau à l'approche de la date, vous donnent le temps de renouveler avec un traitement standard au lieu de payer des rendez-vous d'urgence. Si votre passeport expire dans les 6 mois de votre voyage, commencez le processus de renouvellement maintenant avant de vous engager sur les dates de voyage.
 
 ## Malentendu commun sur la validité du passeport
 

@@ -1,6 +1,6 @@
 # Travel Insurance Documents: What to Save Before You Go
 
-> Learn what travel insurance documents to save before you fly, where to store them offline, and how to avoid common claims mistakes that cost thousands.
+> Learn what travel insurance documents to save before you fly, where to store them offline, and how to avoid common the claims mistakes that get policies refused.
 
 Source: https://traveldocumentvault.com/blog/travel-insurance-documents/
 
@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/travel-insurance-documents/
 - Claims rejected most often due to missing documentation: police report for theft, original receipts, signed claim forms.
 - Read your policy's key sections quickly by focusing on coverage limits, exclusions, and conditions.
 
-You have paid for travel insurance. Then comes the medical emergency abroad, the bag stolen at the airport, the flight cancelled mid-trip. Can you actually find your policy number, your insurer's 24-hour emergency line, or proof of what is covered? Most travellers cannot. This article covers what to save before you leave, where to store it so it is accessible without internet, and how to avoid the claims mistakes that cost thousands.
+You have paid for travel insurance. Then comes the medical emergency abroad, the bag stolen at the airport, the flight cancelled mid-trip. Can you actually find your policy number, your insurer's 24-hour emergency line, or proof of what is covered? Most travellers cannot. This article covers what to save before you leave, where to store it so it is accessible without internet, and how to avoid the the claims mistakes that get policies refused.
 
 ## What Actually Happens When You Need Your Insurance
 

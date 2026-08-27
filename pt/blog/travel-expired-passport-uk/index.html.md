@@ -66,7 +66,7 @@ Isto aplica-se quer o seu passaporte tenha expirado antes de sair do Reino Unido
 
 [Se o seu passaporte já expirou e está à procura do que fazer a seguir, o nosso artigo complementar cobre isso passo a passo](https://traveldocumentvault.com/pt/blog/passport-expired-what-to-do/). Se tem uma viagem em breve e o seu passaporte está a aproximar-se da expiração, este é o momento para renovar em vez de esperar até expirar, o que significa pagar pelo serviço Premium em vez da taxa padrão. Verifique os passaportes da sua família agora antes de marcar qualquer viagem.
 
-**Coloque lembretes de expiração meses em avanço, não semanas.** [Travel Document Vault rastreia datas de expiração para cada passaporte na sua casa e envia lembretes 6, 3 e 1 mês antes da expiração](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/), portanto renova no processamento padrão e evita taxas de emergência.
+**Coloque lembretes de expiração meses em avanço, não semanas.** [Travel Document Vault rastreia datas de expiração para cada passaporte na sua casa e envia lembretes a partir de oito meses antes, e novamente à medida que a expiração se aproxima](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/), portanto renova no processamento padrão e evita taxas de emergência.
 
 ## Se Já Está no Estrangeiro e o Seu Passaporte Expira
 
@@ -74,7 +74,7 @@ Este é o cenário genuinamente difícil. Se está a viajar e o seu passaporte e
 
 O processo é lento e burocrático. Precisará fornecer prova de identidade e pagar a taxa, cujo valor atual é publicado pelo Foreign, Commonwealth and Development Office. O tempo de processamento varia consoante a embaixada e a urgência da sua situação, portanto pergunte o que esperar assim que os contactar. O documento de emergência não é um passaporte turístico - é válido apenas para a viagem específica para o Reino Unido sem permitir viagem adicional.
 
-Coloque lembretes meses em avanço em vez do dia antes de viajar, pois lembretes 6, 3 e 1 mês antes da expiração dão-lhe tempo para renovar no processamento padrão em vez de pagar por marcações de emergência. Se o seu passaporte expira dentro de 6 meses da sua viagem, comece o processo de renovação agora antes de se comprometer com datas de viagem.
+Coloque lembretes meses em avanço em vez do dia antes de viajar, pois lembretes a partir de oito meses antes, e novamente à medida que a data se aproxima, dão-lhe tempo para renovar no processamento padrão em vez de pagar por marcações de emergência. Se o seu passaporte expira dentro de 6 meses da sua viagem, comece o processo de renovação agora antes de se comprometer com datas de viagem.
 
 ## Mal-Entendidos Comuns Sobre Validade de Passaporte
 

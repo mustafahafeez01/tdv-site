@@ -1,6 +1,6 @@
 # Documentos de Seguro de Viagem: O que Guardar Antes de Partir
 
-> Saiba quais os documentos de seguro de viagem a guardar antes de partir, onde armazená-los offline e como evitar os erros em reclamações que custam milhares.
+> Saiba quais os documentos de seguro de viagem a guardar antes de partir, onde armazená-los offline e como evitar os erros em reclamações que levam à sua recusa.
 
 Source: https://traveldocumentvault.com/pt/blog/travel-insurance-documents/
 
@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/pt/blog/travel-insurance-documents/
 - As reclamações são rejeitadas mais frequentemente por falta de documentação: relatório policial para roubo, recibos originais, formulários de reclamação assinados.
 - Leia as secções-chave da sua apólice concentrando-se nos limites de cobertura, exclusões e condições.
 
-Pagou pelo seguro de viagem. Depois vem a emergência médica no estrangeiro, a mala roubada no aeroporto, o voo cancelado a meio da viagem. Consegue realmente encontrar o número da sua apólice, a linha de emergência 24 horas da sua seguradora, ou prova do que está coberto? A maioria dos viajantes não consegue. Este artigo cobre o que guardar antes de partir, onde armazenar para acessar sem internet e como evitar os erros em reclamações que custam milhares.
+Pagou pelo seguro de viagem. Depois vem a emergência médica no estrangeiro, a mala roubada no aeroporto, o voo cancelado a meio da viagem. Consegue realmente encontrar o número da sua apólice, a linha de emergência 24 horas da sua seguradora, ou prova do que está coberto? A maioria dos viajantes não consegue. Este artigo cobre o que guardar antes de partir, onde armazenar para acessar sem internet e como evitar os erros em reclamações que levam à sua recusa.
 
 ## O Que Realmente Acontece Quando Precisa do Seu Seguro
 

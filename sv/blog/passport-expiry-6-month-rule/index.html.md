@@ -62,7 +62,7 @@ Tabellen är en ögonblicksbild, inte den fullständiga bilden: kraven varierar 
 
 Passkrav per land ändras utan förvarning, och ett bilateralt avtal kan i tysthet ändra reglerna för just ditt pass, vilket är varför det inte är överdrivet försiktigt att kontrollera en aktuell officiell källa inför varje internationell resa - det är bara god vana: använd IATA Travel Centre, samma system flygbolagen använder för att kontrollera resenärers handlingar i realtid.
 
-**Travel Document Vault** skickar en påminnelse när passet sjunker under giltighetsgränsen för ditt resmål - för varje familjemedlem, automatiskt. [Ladda ner gratis på App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** flaggar varje pass som inte har sex månaders giltighet kvar när resan tar slut - för varje familjemedlem, automatiskt. [Ladda ner gratis på App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Så tillämpar flygbolagen regeln - även när länderna inte gör det
 
@@ -90,7 +90,7 @@ Behandla passet som ett bildäck och vänta inte tills det är platt: förnya s�
 
 Räkna sex månader framåt från den dag du lämnar destinationen inför varje resa - det är det senare datumet och uppfyller därmed båda versionerna av regeln. Kontrollera passets utgångsdatum mot det datumet - inte bara mot resedatumen.
 
-Att hålla koll på flera pass i en familj med olika utgångsdatum är där det blir rörigt. Travel Document Vault håller reda på detta automatiskt - lagrar varje familjemedlems passutgång och skickar påminnelser vid sex månader, tre månader, och närmare inpå, så du slipper huvudräkning inför varje bokning. Du hittar även fler praktiska tips om resedokument på [bloggen](https://traveldocumentvault.com/sv/blog/).
+Att hålla koll på flera pass i en familj med olika utgångsdatum är där det blir rörigt. Travel Document Vault håller reda på detta automatiskt - lagrar varje familjemedlems passutgång och skickar påminnelser från åtta månader innan, och sedan igen allteftersom datumet närmar sig, så du slipper huvudräkning inför varje bokning. Du hittar även fler praktiska tips om resedokument på [bloggen](https://traveldocumentvault.com/sv/blog/).
 
 ## En anmärkning om att kontrollera kraven innan du reser
 

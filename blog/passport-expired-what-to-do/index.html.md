@@ -34,7 +34,7 @@ How urgently you need to act determines what to do:
 
 All major passport authorities hold back emergency appointment slots that are not visible online. If your timeline is tight, call rather than relying only on the website.
 
-**Set the reminder now** so this never happens again - Travel Document Vault notifies you 6, 3, and 1 month before every passport in your household expires. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Set the reminder now** so this never happens again - Travel Document Vault starts reminding you eight months before every passport in your household expires, then again as the date closes in. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Scenario B: You Discovered It at the Airport
 
@@ -112,7 +112,7 @@ In the UK, an expedited premium service is available at designated passport offi
 
 ### How do I avoid my passport expiring unexpectedly?
 
-Set an expiry reminder at 12 months before expiry - not 6 months. This gives you comfortable time to renew on standard processing. Do this for every passport in your household separately. Travel Document Vault sends automatic reminders at 6, 3, and 1 month before expiry for every passport you add.
+Set an expiry reminder at 12 months before expiry - not 6 months. This gives you comfortable time to renew on standard processing. Do this for every passport in your household separately. Travel Document Vault sends automatic reminders from eight months out, then again as the date gets closer, for every passport you add.
 
 ### Can a valid passport be refused at the airport?
 

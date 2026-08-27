@@ -64,7 +64,7 @@ Os requisitos de validade do passaporte por país mudam sem aviso prévio - um a
 
 Sempre verifique os seus requisitos específicos utilizando o Centro de Viagens IATA, o sistema que as companhias aéreas utilizam para verificar documentos de passageiros em tempo real.
 
-**Travel Document Vault** envia-lhe um lembrete quando o seu passaporte fica abaixo do limiar de validade para o seu destino - para cada membro da família, automaticamente. [Descarregue gratuitamente na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** assinala qualquer passaporte que já não tenha seis meses de validade no final da sua viagem - para cada membro da família, automaticamente. [Descarregue gratuitamente na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Como as Companhias Aéreas Aplicam a Regra - Mesmo Quando os Países Não o Fazem
 
@@ -92,7 +92,7 @@ Trate o seu passaporte como um pneu de carro - não espere até estar furado. Re
 
 Antes de qualquer viagem, conte seis meses para a frente a partir do dia em que sai do destino, que é a data mais tardia e por isso satisfaz qualquer versão da regra. Verifique a expiração do seu passaporte contra essa data - não apenas as suas datas de viagem.
 
-Gerir múltiplos passaportes em toda uma família com diferentes datas de expiração é onde fica complicado. [Travel Document Vault](https://traveldocumentvault.com) rastreia isto automaticamente - armazenando a expiração do passaporte de cada membro da família e enviando lembretes com 6 meses, 3 meses e mais perto. Nenhuma aritmética mental antes de cada reserva. Também pode encontrar mais dicas práticas [de documentos de viagem](https://traveldocumentvault.com/pt/blog/) no blogue.
+Gerir múltiplos passaportes em toda uma família com diferentes datas de expiração é onde fica complicado. [Travel Document Vault](https://traveldocumentvault.com) rastreia isto automaticamente - armazenando a expiração do passaporte de cada membro da família e enviando lembretes a partir de oito meses antes, e novamente à medida que a data se aproxima. Nenhuma aritmética mental antes de cada reserva. Também pode encontrar mais dicas práticas [de documentos de viagem](https://traveldocumentvault.com/pt/blog/) no blogue.
 
 ## Uma Nota Sobre Verificar Requisitos Antes de Viajar
 

@@ -91,11 +91,11 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-trav
 
 - **日历提醒：** 在每个文件过期前12个月设置一个，在6个月时再设置一个。你需要记得在文件更新时更新这些，你需要首先可以访问过期日期。
 - **电子表格：** 如果你实际维护它，效果很好。每个文件每个人一行、过期日期以及突出显示任何在12个月内过期的任何东西的公式。
-- **专用应用：** Travel Document Vault 等工具自动处理提醒 - 扫描文件、确认过期日期，它会在6个月、3个月和更接近的间隔安排警报，而无需你思考。
+- **专用应用：** Travel Document Vault 等工具自动处理提醒 - 扫描文件、确认过期日期，它会从提前八个月开始安排提醒，并在临近到期时再次提醒，完全不用你操心。
 
 这三种方法中的任何一种都将有效 - 重要的是选择一种符合你已经如何操作的方式，并实际坚持它。
 
-**Travel Document Vault** 自动为每位家庭成员处理过期跟踪 - 扫描每本护照一次，在6个月、3个月和1个月时获得提醒。没有电子表格，没有被遗忘的续期。[从 App Store 下载。](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** 自动为每位家庭成员处理过期跟踪 - 扫描每本护照一次，从提前八个月开始获得提醒。没有电子表格，没有被遗忘的续期。[从 App Store 下载。](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## 行前文件检查表
 

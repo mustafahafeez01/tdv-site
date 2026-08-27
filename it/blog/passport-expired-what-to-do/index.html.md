@@ -32,7 +32,7 @@ L'urgenza con cui deve agire determina cosa fare:
 
 Tutte le autorità maggiori tengono i posti per appuntamenti di emergenza che non sono visibili online. Se il Suo arco temporale è stretto, chiami piuttosto che affidarsi solo al sito web.
 
-**Imposti l'avviso adesso** così questo non accade più - Travel Document Vault vi notifica 6, 3 e 1 mese prima della scadenza di ogni passaporto in Suo possesso. [Scarica dall'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Imposti l'avviso adesso** così questo non accade più - Travel Document Vault la avvisa a partire da otto mesi prima della scadenza di ogni passaporto in Suo possesso, e di nuovo mentre la data si avvicina. [Scarica dall'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Scenario B: Ha scoperto all'aeroporto
 
@@ -110,7 +110,7 @@ Nel Regno Unito, un servizio Premium accelerato è disponibile negli uffici pass
 
 ### Come evito che il mio passaporto scada inaspettatamente?
 
-Imposti un avviso di scadenza a 12 mesi prima della scadenza - non 6 mesi. Questo le dà il tempo comodo di rinnovare con l'elaborazione standard. Lo faccia per ogni passaporto in Suo possesso separatamente. Travel Document Vault invia avvisi automatici a 6, 3 e 1 mese prima della scadenza per ogni passaporto che aggiunge.
+Imposti un avviso di scadenza a 12 mesi prima della scadenza - non 6 mesi. Questo le dà il tempo comodo di rinnovare con l'elaborazione standard. Lo faccia per ogni passaporto in Suo possesso separatamente. Travel Document Vault invia avvisi automatici a partire da otto mesi prima della scadenza, e di nuovo mano a mano che si avvicina, per ogni passaporto che aggiunge.
 
 ### Un passaporto valido può essere rifiutato all'aeroporto?
 

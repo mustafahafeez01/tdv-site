@@ -64,7 +64,7 @@ Les exigences de validité du passeport changent sans préavis - un accord bilat
 
 Vérifiez toujours vos exigences spécifiques auprès du IATA Travel Centre, le système que les compagnies aériennes utilisent pour vérifier les documents des passagers en temps réel.
 
-**Travel Document Vault** vous envoie un rappel lorsque votre passeport tombe en dessous du seuil de validité pour votre destination - pour chaque membre de la famille, automatiquement. [Téléchargez gratuitement sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** signale tout passeport qui n'aura plus six mois de validité à la fin de votre voyage - pour chaque membre de la famille, automatiquement. [Téléchargez gratuitement sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Comment les compagnies aériennes appliquent la règle - même quand les pays ne le font pas
 
@@ -92,7 +92,7 @@ Traitez votre passeport comme un pneu de voiture - ne pas attendre jusqu'à ce q
 
 Avant n'importe quel voyage, comptez six mois à partir du jour où vous quittez la destination, qui est la date la plus tardive et satisfait donc les deux versions de la règle. Vérifiez votre date d'expiration du passeport par rapport à cette date - pas seulement vos dates de voyage.
 
-Gérer plusieurs passeports au sein d'une famille avec des dates d'expiration différentes est là que cela devient compliqué. [Travel Document Vault](https://traveldocumentvault.com) suit cela automatiquement - enregistrant la date d'expiration du passeport de chaque membre de la famille et envoyant des rappels à 6 mois, 3 mois et au-delà. Pas de calcul mental avant chaque réservation. Vous pouvez également trouver plus de conseils pratiques [sur le blog](https://traveldocumentvault.com/fr/) concernant les documents de voyage.
+Gérer plusieurs passeports au sein d'une famille avec des dates d'expiration différentes est là que cela devient compliqué. [Travel Document Vault](https://traveldocumentvault.com) suit cela automatiquement - enregistrant la date d'expiration du passeport de chaque membre de la famille et envoyant des rappels dès huit mois avant l'échéance, puis à nouveau à l'approche de la date. Pas de calcul mental avant chaque réservation. Vous pouvez également trouver plus de conseils pratiques [sur le blog](https://traveldocumentvault.com/fr/) concernant les documents de voyage.
 
 ## Un mot sur la vérification des exigences avant de voyager
 

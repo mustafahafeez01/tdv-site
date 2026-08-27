@@ -66,7 +66,7 @@ Questo si applica indipendentemente dal fatto che il suo passaporto sia scaduto 
 
 [Se il suo passaporto è già scaduto e sta cercando cosa fare dopo, il nostro articolo correlato copre questo passo dopo passo](https://traveldocumentvault.com/it/blog/passport-expired-what-to-do/). Se ha un viaggio in arrivo e il suo passaporto si avvicina alla scadenza, questo è il momento di rinnovare piuttosto che attendere fino a quando non scade, il che significa pagare il servizio Premium invece della tariffa standard. Controlli i passaporti della sua famiglia ora prima di prenotare qualsiasi viaggio.
 
-**Imposti promemoria di scadenza mesi in anticipo, non settimane.** [Travel Document Vault traccia le date di scadenza per ogni passaporto nella sua famiglia e invia promemoria a 6, 3 e 1 mese prima della scadenza](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/), così rinnova con elaborazione standard ed evita le spese di emergenza.
+**Imposti promemoria di scadenza mesi in anticipo, non settimane.** [Travel Document Vault traccia le date di scadenza per ogni passaporto nella sua famiglia e invia promemoria a partire da otto mesi prima della scadenza, e di nuovo mano a mano che si avvicina](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/), così rinnova con elaborazione standard ed evita le spese di emergenza.
 
 ## Se è già all'estero e il suo passaporto scade
 
@@ -74,7 +74,7 @@ Questo è lo scenario genuinamente difficile. Se sta viaggiando e il suo passapo
 
 Il processo è lento e burocratico. Avrà bisogno di fornire una prova di identità e pagare la tariffa, il cui importo attuale è pubblicato dal Foreign, Commonwealth and Development Office. Il tempo di elaborazione varia in base all'ambasciata e all'urgenza della sua situazione, quindi chieda cosa aspettarsi non appena li contatta. Il documento d'emergenza non è un passaporto turistico - è valido solo per il viaggio specifico di ritorno nel Regno Unito senza permettere viaggi ulteriori.
 
-Imposti promemoria mesi in anticipo piuttosto che il giorno prima del viaggio, poiché i promemoria a 6, 3 e 1 mese prima della scadenza Le danno tempo di rinnovare con elaborazione standard invece di pagare per appuntamenti di emergenza. Se il suo passaporto scade entro 6 mesi dal suo viaggio, inizi il processo di rinnovo ora prima di impegnarsi nelle date di viaggio.
+Imposti promemoria mesi in anticipo piuttosto che il giorno prima del viaggio, poiché i promemoria a partire da otto mesi prima della scadenza, e di nuovo mano a mano che si avvicina, Le danno tempo di rinnovare con elaborazione standard invece di pagare per appuntamenti di emergenza. Se il suo passaporto scade entro 6 mesi dal suo viaggio, inizi il processo di rinnovo ora prima di impegnarsi nelle date di viaggio.
 
 ## Malintesi comuni sulla validità del passaporto
 

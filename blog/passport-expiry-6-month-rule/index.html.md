@@ -64,7 +64,7 @@ This table is a snapshot, not the full picture: requirements vary by your nation
 
 Passport validity requirements by country change without notice, and a bilateral agreement can quietly shift the rules for your specific passport, which is why checking an up-to-date official source before every international trip isn't paranoia, it's just good practice: use the IATA Travel Centre, the same system airlines use to check passenger documents in real time.
 
-**Travel Document Vault** sends you a reminder when your passport drops below the validity threshold for your destination - for every family member, automatically. [Download free on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** flags any passport that will not still have six months left when your trip ends - for every family member, automatically. [Download free on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## How Airlines Enforce the Rule - Even When Countries Don't
 
@@ -92,7 +92,7 @@ Treat your passport like a car tyre and don't wait until it's flat: renew as soo
 
 Before any trip, count six months forward from the day you leave the destination, which is the later date and so satisfies either version of the rule. Check your passport expiry against that date - not just your travel dates.
 
-Managing multiple passports across a family with different expiry dates is where it gets messy. [Travel Document Vault](https://traveldocumentvault.com) tracks this automatically - storing each family member's passport expiry and sending reminders at six months, three months, and closer, so there's no mental arithmetic before every booking. You can also find more practical [travel document tips](https://traveldocumentvault.com/blog/) on the blog.
+Managing multiple passports across a family with different expiry dates is where it gets messy. [Travel Document Vault](https://traveldocumentvault.com) tracks this automatically - storing each family member's passport expiry and sending reminders from eight months out and again as the date closes in, so there's no mental arithmetic before every booking. You can also find more practical [travel document tips](https://traveldocumentvault.com/blog/) on the blog.
 
 ## A Note on Checking Requirements Before You Travel
 

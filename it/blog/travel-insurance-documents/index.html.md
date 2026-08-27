@@ -1,6 +1,6 @@
 # Documenti di Assicurazione di Viaggio: Cosa Salvare Prima di Partire
 
-> Scopri quali documenti di assicurazione di viaggio salvare prima di partire, dove archiviarli offline e come evitare gli errori comuni nei reclami che costano migliaia.
+> Scopri quali documenti di assicurazione di viaggio salvare prima di partire, dove archiviarli offline e come evitare gli errori comuni nei reclami che ne causano il rifiuto.
 
 Source: https://traveldocumentvault.com/it/blog/travel-insurance-documents/
 

@@ -1,6 +1,6 @@
 # Documents d'assurance voyage : ce qu'il faut sauvegarder avant de partir
 
-> Découvrez quels documents d'assurance voyage préparer avant votre vol, où les stocker hors ligne, et comment éviter les erreurs de réclamation qui coûtent des milliers.
+> Découvrez quels documents d'assurance voyage préparer avant votre vol, où les stocker hors ligne, et comment éviter les erreurs de réclamation qui entraînent son rejet.
 
 Source: https://traveldocumentvault.com/fr/blog/travel-insurance-documents/
 
@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/fr/blog/travel-insurance-documents/
 - Les réclamations refusées le plus souvent en raison de documents manquants : rapport de police pour vol, reçus originaux, formulaires de réclamation signés.
 - Lisez rapidement les sections clés de votre police en vous concentrant sur les limites de couverture, les exclusions et les conditions.
 
-Vous avez payé une assurance voyage. Puis vient l'urgence médicale à l'étranger, le sac volé à l'aéroport, le vol annulé en cours de route. Pouvez-vous vraiment trouver votre numéro de police, la ligne d'urgence 24 h/24 de votre assureur, ou la preuve de ce qui est couvert ? La plupart des voyageurs ne le peuvent pas. Cet article explique ce qu'il faut conserver avant de partir, où le stocker pour y accéder sans internet, et comment éviter les erreurs de réclamation qui coûtent des milliers.
+Vous avez payé une assurance voyage. Puis vient l'urgence médicale à l'étranger, le sac volé à l'aéroport, le vol annulé en cours de route. Pouvez-vous vraiment trouver votre numéro de police, la ligne d'urgence 24 h/24 de votre assureur, ou la preuve de ce qui est couvert ? La plupart des voyageurs ne le peuvent pas. Cet article explique ce qu'il faut conserver avant de partir, où le stocker pour y accéder sans internet, et comment éviter les erreurs de réclamation qui entraînent son rejet.
 
 ## Ce qui se passe réellement quand vous avez besoin de votre assurance
 

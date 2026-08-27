@@ -32,7 +32,7 @@ Seberapa mendesak Anda harus bertindak menentukan apa yang harus dilakukan:
 
 Semua kantor imigrasi besar menyimpan slot janji temu darurat yang tidak terlihat secara daring. Jika waktu Anda mepet, telepon langsung alih-alih hanya mengandalkan situs web.
 
-**Atur pengingatnya sekarang** agar hal ini tidak pernah terjadi lagi - Travel Document Vault memberi tahu Anda 6, 3, dan 1 bulan sebelum setiap paspor di rumah tangga Anda kedaluwarsa. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Atur pengingatnya sekarang** agar hal ini tidak pernah terjadi lagi - Travel Document Vault mulai memberi tahu Anda delapan bulan sebelum setiap paspor di rumah tangga Anda kedaluwarsa, lalu mengingatkan lagi saat tanggalnya semakin dekat. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Skenario B: Anda Menemukannya di Bandara
 
@@ -110,7 +110,7 @@ Di Inggris, layanan premium yang dipercepat tersedia di kantor paspor tertentu u
 
 ### Bagaimana cara menghindari paspor saya kedaluwarsa tanpa disadari?
 
-Atur pengingat kedaluwarsa 12 bulan sebelum tanggal habis berlaku, bukan 6 bulan. Ini memberi Anda waktu yang cukup untuk memperpanjang dengan proses standar. Lakukan ini untuk setiap paspor di rumah tangga Anda secara terpisah. Travel Document Vault mengirim pengingat otomatis pada 6, 3, dan 1 bulan sebelum kedaluwarsa untuk setiap paspor yang Anda tambahkan.
+Atur pengingat kedaluwarsa 12 bulan sebelum tanggal habis berlaku, bukan 6 bulan. Ini memberi Anda waktu yang cukup untuk memperpanjang dengan proses standar. Lakukan ini untuk setiap paspor di rumah tangga Anda secara terpisah. Travel Document Vault mengirim pengingat otomatis mulai dari delapan bulan sebelumnya untuk setiap paspor yang Anda tambahkan, lalu mengingatkan Anda lagi saat tanggalnya semakin dekat.
 
 ### Bisakah paspor yang masih berlaku ditolak di bandara?
 

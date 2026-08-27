@@ -91,11 +91,11 @@ Her er mønstret, der fanger familier: I fornyer jeres eget pas, opdaterer kalen
 
 - **Kalenderpåmindelser:** Indstil én 12 måneder før hvert dokument udløber og en til ved 6 måneder. I skal huske at opdatere dem, når dokumenter fornyes, og I skal have udløbsdatoerne tilgængelige i første omgang.
 - **Regneark:** Virker godt, hvis I rent faktisk vedligeholder det. Én række pr. dokument pr. person, udløbsdatoen, og en formel, der markerer alt, der udløber inden for 12 måneder.
-- **Dedikeret app:** Værktøjer som Travel Document Vault klarer påmindelserne automatisk - scan dokumentet, bekræft udløbsdatoen, og appen planlægger advarsler ved seks måneder, tre måneder og tættere intervaller, uden at I skal tænke på det.
+- **Dedikeret app:** Værktøjer som Travel Document Vault klarer påmindelserne automatisk - scan dokumentet, bekræft udløbsdatoen, og appen planlægger advarsler fra otte måneder før, og igen med tættere intervaller, uden at I skal tænke på det.
 
 Alle tre metoder virker - det vigtige er at vælge den, der passer til, hvordan I allerede gør tingene, og rent faktisk holde fast i den.
 
-**Travel Document Vault** klarer overblikket over udløbsdatoer for hvert familiemedlem automatisk - scan hvert pas én gang, og få påmindelser ved 6, 3 og 1 måned. Intet regneark, ingen glemte fornyelser. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** klarer overblikket over udløbsdatoer for hvert familiemedlem automatisk - scan hvert pas én gang, og få påmindelser fra otte måneder før udløb. Intet regneark, ingen glemte fornyelser. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Tjekliste før afrejse for familier
 

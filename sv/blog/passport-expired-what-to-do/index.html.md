@@ -32,7 +32,7 @@ Hur brådskande du behöver agera avgör vad du ska göra:
 
 Alla större passmyndigheter håller tillbaka akuttider som inte syns online. Om din tidsram är snäv, ring i stället för att bara förlita dig på webbplatsen.
 
-**Ställ in påminnelsen nu** så att det aldrig händer igen - Travel Document Vault meddelar dig 6, 3 och 1 månad innan varje pass i ditt hushåll går ut. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Ställ in påminnelsen nu** så att det aldrig händer igen - Travel Document Vault meddelar dig redan från åtta månader innan varje pass i ditt hushåll går ut, och sedan igen allteftersom datumet närmar sig. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Scenario B: Du upptäckte det på flygplatsen
 
@@ -110,7 +110,7 @@ I Storbritannien finns en påskyndad Premium-tjänst på utvalda passkontor för
 
 ### Hur undviker jag att passet går ut oväntat?
 
-Ställ in en påminnelse om utgångsdatum 12 månader innan - inte 6 månader. Det ger dig gott om tid att förnya med standardhandläggning. Gör det här för varje pass i ditt hushåll separat. Travel Document Vault skickar automatiska påminnelser 6, 3 och 1 månad innan varje pass du lägger till går ut.
+Ställ in en påminnelse om utgångsdatum 12 månader innan - inte 6 månader. Det ger dig gott om tid att förnya med standardhandläggning. Gör det här för varje pass i ditt hushåll separat. Travel Document Vault skickar automatiska påminnelser från åtta månader innan, och sedan igen allteftersom datumet närmar sig, för varje pass du lägger till.
 
 ### Kan ett giltigt pass nekas på flygplatsen?
 

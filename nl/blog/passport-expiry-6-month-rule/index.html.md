@@ -62,7 +62,7 @@ Deze tabel is een momentopname, niet het volledige beeld: vereisten verschillen 
 
 Vereisten voor paspoortgeldigheid per land veranderen zonder aankondiging, en een bilaterale overeenkomst kan stilletjes de regels voor jouw specifieke paspoort wijzigen. Daarom is het controleren van een actuele officiële bron voor elke internationale reis geen overdreven voorzichtigheid, maar gewoon goede gewoonte: gebruik het IATA Travel Centre, hetzelfde systeem dat luchtvaartmaatschappijen gebruiken om reisdocumenten in realtime te controleren.
 
-**Travel Document Vault** stuurt je een herinnering zodra je paspoort onder de geldigheidsdrempel voor je bestemming komt - voor elk gezinslid, automatisch. [Download gratis in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** markeert elk paspoort dat aan het einde van je reis geen zes maanden geldigheid meer over heeft - voor elk gezinslid, automatisch. [Download gratis in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Hoe luchtvaartmaatschappijen de regel handhaven - ook als landen dat niet doen
 
@@ -90,7 +90,7 @@ Behandel je paspoort als een autoband en wacht niet tot hij leeg is: vernieuw he
 
 Tel voor elke reis zes maanden vooruit vanaf de dag dat je de bestemming verlaat - dat is de latere datum en voldoet daarmee aan beide versies van de regel. Controleer de vervaldatum van je paspoort aan de hand van die datum - niet alleen je reisdata.
 
-Het beheren van meerdere paspoorten binnen een gezin met verschillende vervaldatums is waar het rommelig wordt. Travel Document Vault houdt dit automatisch bij - het bewaart de vervaldatum van elk gezinslid en stuurt herinneringen op zes maanden, drie maanden en daarna, zodat je nooit meer zelf hoeft te rekenen voor een boeking. Meer praktische tips over reisdocumenten vind je op onze [blog](https://traveldocumentvault.com/nl/blog/).
+Het beheren van meerdere paspoorten binnen een gezin met verschillende vervaldatums is waar het rommelig wordt. Travel Document Vault houdt dit automatisch bij - het bewaart de vervaldatum van elk gezinslid en stuurt herinneringen vanaf acht maanden van tevoren, en opnieuw naarmate de datum dichterbij komt, zodat je nooit meer zelf hoeft te rekenen voor een boeking. Meer praktische tips over reisdocumenten vind je op onze [blog](https://traveldocumentvault.com/nl/blog/).
 
 ## Een opmerking over het controleren van vereisten voor je vertrekt
 

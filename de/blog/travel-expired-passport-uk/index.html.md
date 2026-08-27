@@ -66,7 +66,7 @@ Dies gilt, unabhängig davon, ob Ihr Pass vor Ihrer Abreise aus der UK oder wäh
 
 [Wenn Ihr Pass bereits abgelaufen ist und Sie suchen, was Sie als Nächstes tun können, behandelt unser Begleitartikel das Schritt für Schritt](https://traveldocumentvault.com/de/blog/passport-expired-what-to-do/). Wenn Sie eine Reise planen und Ihr Pass dem Ablaufdatum näher kommt, ist jetzt der Moment zu erneuern, anstatt zu warten, bis es abläuft, was bedeutet, für den Premium-Service zu bezahlen, anstatt für die Standardgebühr. Überprüfen Sie die Pässe Ihrer Familie jetzt, bevor Sie eine Reise buchen.
 
-**Stellen Sie Ablauferinnerungen Monate im Voraus ein, nicht Wochen.** [Travel Document Vault verfolgt Ablaufdaten für jeden Pass in Ihrem Haushalt und sendet Erinnerungen 6, 3 und 1 Monat vor Ablauf](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/), damit Sie mit Standardverarbeitung erneuern und Notfallgebühren vermeiden.
+**Stellen Sie Ablauferinnerungen Monate im Voraus ein, nicht Wochen.** [Travel Document Vault verfolgt Ablaufdaten für jeden Pass in Ihrem Haushalt und sendet Erinnerungen ab acht Monaten vorher, dann erneut, je näher der Ablauf rückt](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/), damit Sie mit Standardverarbeitung erneuern und Notfallgebühren vermeiden.
 
 ## Wenn Sie bereits im Ausland sind und Ihr Pass abläuft
 
@@ -74,7 +74,7 @@ Dies ist das wirklich schwierige Szenario. Wenn Sie reisen und Ihr Pass vor Ihre
 
 Der Prozess ist langsam und bürokratisch. Sie müssen einen Identitätsnachweis vorlegen und die Gebühr bezahlen, deren aktuelle Höhe vom Foreign, Commonwealth and Development Office veröffentlicht wird. Die Bearbeitungszeit variiert je nach Botschaft und danach, wie dringend Ihre Situation ist, also fragen Sie, was Sie erwarten können, sobald Sie Kontakt aufnehmen. Das Notfalldokument ist kein touristischer Pass - es ist nur gültig für die spezifische Reise zurück ins UK, ohne dass weitere Reisen erlaubt sind.
 
-Stellen Sie Erinnerungen Monate im Voraus ein, anstatt am Tag vor der Reise, da Erinnerungen 6, 3 und 1 Monat vor Ablauf Ihnen Zeit geben, mit Standardverarbeitung statt bezahlten Notfallterminen zu erneuern. Wenn Ihr Pass innerhalb von 6 Monaten vor Ihrer Reise abläuft, starten Sie den Erneuerungsprozess jetzt, bevor Sie sich auf Reisedaten festlegen.
+Stellen Sie Erinnerungen Monate im Voraus ein, anstatt am Tag vor der Reise, da Erinnerungen ab acht Monaten vorher, und erneut, je näher der Termin rückt, Ihnen Zeit geben, mit Standardverarbeitung statt bezahlten Notfallterminen zu erneuern. Wenn Ihr Pass innerhalb von 6 Monaten vor Ihrer Reise abläuft, starten Sie den Erneuerungsprozess jetzt, bevor Sie sich auf Reisedaten festlegen.
 
 ## Häufige Missverständnisse über Passgültigkeit
 

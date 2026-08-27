@@ -32,7 +32,7 @@ A urgência com que precisa de agir determina o que fazer:
 
 Todas as autoridades de passaportes principais retêm consultas de emergência que não são visíveis online. Se o seu cronograma é apertado, ligue em vez de confiar apenas no site.
 
-**Defina o lembrete agora** para que isto nunca mais aconteça - Travel Document Vault notifica-o aos 6, 3 e 1 mês antes de cada passaporte no seu agregado expirar. [Descarregue na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Defina o lembrete agora** para que isto nunca mais aconteça - Travel Document Vault começa a notificá-lo a partir de oito meses antes de cada passaporte no seu agregado expirar, e novamente à medida que a data se aproxima. [Descarregue na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Cenário B: Descobriu no Aeroporto
 
@@ -110,7 +110,7 @@ No Reino Unido, um serviço Premium expedito está disponível em escritórios d
 
 ### Como posso evitar que o meu passaporte expire inesperadamente?
 
-Defina um lembrete de expiração 12 meses antes da expiração - não 6 meses. Isto dá-lhe tempo confortável para renovar no processamento padrão. Faça isto para cada passaporte no seu agregado separadamente. Travel Document Vault envia lembretes automáticos aos 6, 3 e 1 mês antes da expiração para cada passaporte que adicionar.
+Defina um lembrete de expiração 12 meses antes da expiração - não 6 meses. Isto dá-lhe tempo confortável para renovar no processamento padrão. Faça isto para cada passaporte no seu agregado separadamente. Travel Document Vault envia lembretes automáticos a partir de oito meses antes, e novamente à medida que a data se aproxima, para cada passaporte que adicionar.
 
 ### Pode um passaporte válido ser recusado no aeroporto?
 

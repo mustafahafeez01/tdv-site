@@ -32,7 +32,7 @@ Hvor akut du skal handle, afgør, hvad du skal gøre:
 
 Alle større pasmyndigheder holder nødtider tilbage, som ikke er synlige online. Hvis din tidsramme er stram, så ring i stedet for kun at stole på hjemmesiden.
 
-**Sæt påmindelsen nu**, så det aldrig sker igen - Travel Document Vault giver dig besked 6, 3 og 1 måned, før hvert pas i din husstand udløber. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Sæt påmindelsen nu**, så det aldrig sker igen - Travel Document Vault giver dig besked allerede fra otte måneder, før hvert pas i din husstand udløber, og igen efterhånden som datoen nærmer sig. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Scenarie B: Du opdagede det i lufthavnen
 
@@ -110,7 +110,7 @@ I Storbritannien findes en hurtig Premium-service på udvalgte paskontorer ved r
 
 ### Hvordan undgår jeg, at mit pas udløber uventet?
 
-Sæt en udløbspåmindelse 12 måneder før udløb - ikke 6 måneder. Det giver dig god tid til at forny med standardbehandling. Gør dette for hvert pas i din husstand hver for sig. Travel Document Vault sender automatiske påmindelser 6, 3 og 1 måned før udløb for hvert pas, du tilføjer.
+Sæt en udløbspåmindelse 12 måneder før udløb - ikke 6 måneder. Det giver dig god tid til at forny med standardbehandling. Gør dette for hvert pas i din husstand hver for sig. Travel Document Vault sender automatiske påmindelser fra otte måneder før udløb, og igen efterhånden som datoen nærmer sig, for hvert pas, du tilføjer.
 
 ### Kan et gyldigt pas blive afvist i lufthavnen?
 

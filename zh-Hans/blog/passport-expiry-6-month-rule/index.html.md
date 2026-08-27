@@ -64,7 +64,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rul
 
 在任何国际旅行前，请始终使用IATA Travel Centre验证您的具体要求，这是航空公司实时检查乘客文件所使用的系统。
 
-**Travel Document Vault**会在您的护照有效期低于目的地要求的阈值时向您发送提醒，自动为每个家庭成员提供此服务。[在App Store上免费下载。](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault**会在您的护照在行程结束时有效期不足六个月时自动标记提醒，为每位家庭成员自动完成。[在App Store上免费下载。](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## 航空公司如何执行规则，即使国家不执行
 
@@ -92,7 +92,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rul
 
 在任何旅行前，从您离开该目的地的当天起向前数6个月，这是较晚的日期，因此能满足该规则的两种版本。检查您的护照过期日期与该日期的关系，而不仅仅是您的旅行日期。
 
-管理一个家庭中多本护照且过期日期不同的情况变得很复杂。[Travel Document Vault](https://traveldocumentvault.com)自动跟踪这一点，为每个家庭成员存储护照有效期并在6个月、3个月和更接近的时间发送提醒。在每次预订前无需进行心算。您也可以在博客上找到更多实用的[旅行文件提示](https://traveldocumentvault.com/zh-Hans/blog/)。
+管理一个家庭中多本护照且过期日期不同的情况变得很复杂。[Travel Document Vault](https://traveldocumentvault.com)自动跟踪这一点，为每个家庭成员存储护照有效期，从提前八个月开始发送提醒，并在临近到期时再次提醒。在每次预订前无需进行心算。您也可以在博客上找到更多实用的[旅行文件提示](https://traveldocumentvault.com/zh-Hans/blog/)。
 
 ## 关于在出行前检查要求的说明
 

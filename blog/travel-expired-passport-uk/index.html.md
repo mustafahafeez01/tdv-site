@@ -68,7 +68,7 @@ This applies whether your passport expired before you left the UK or while you w
 
 [If your passport has already expired and you are searching for what to do next, our companion article covers that step-by-step](https://traveldocumentvault.com/blog/passport-expired-what-to-do/). If you have a trip coming up and your passport is approaching expiry, this is the moment to renew rather than wait until it expires, which means paying for the Premium service instead of the standard fee. Check your family's passports now before booking any trip.
 
-**Set expiry reminders months in advance, not weeks.** [Travel Document Vault tracks expiry dates for every passport in your household and sends reminders at 6, 3, and 1 month before expiry](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/), so you renew on standard processing and avoid emergency fees.
+**Set expiry reminders months in advance, not weeks.** [Travel Document Vault tracks expiry dates for every passport in your household and sends reminders from eight months out, then again as expiry approaches](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/), so you renew on standard processing and avoid emergency fees.
 
 ## If You're Already Abroad and Your Passport Expires
 

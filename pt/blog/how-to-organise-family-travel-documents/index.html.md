@@ -91,11 +91,11 @@ Aqui está o padrão de falha que apanha famílias: renova o seu próprio passap
 
 - **Lembretes no calendário:** Defina um 12 meses antes de cada documento expirar e outro aos 6 meses. Precisará lembrar-se de atualizar estes quando documentos forem renovados, e precisa ter as datas de validade acessíveis em primeiro lugar.
 - **Folha de cálculo:** Funciona bem se realmente vai mantê-la. Uma linha por documento por pessoa, a data de validade, e uma fórmula que realça qualquer coisa expirando nos próximos 12 meses.
-- **Aplicação dedicada:** Ferramentas como Travel Document Vault lidam com os lembretes automaticamente - digitalize o documento, confirme a data de validade e agenda alertas aos seis meses, três meses e intervalos mais próximos sem que tenha que pensar nisso.
+- **Aplicação dedicada:** Ferramentas como Travel Document Vault lidam com os lembretes automaticamente - digitalize o documento, confirme a data de validade e agenda alertas a partir de oito meses antes e novamente em intervalos mais próximos, sem que tenha de pensar nisso.
 
 Qualquer uma destas três abordagens funcionará - o que importa é escolher uma que se adeque à forma como já opera e realmente cumprir com ela.
 
-**Travel Document Vault** lida com rastreamento de validade para cada membro da família automaticamente - digitalize cada passaporte uma vez e receba lembretes aos 6, 3 e 1 mês. Sem folha de cálculo, sem renovações esquecidas. [Transfira na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** lida com rastreamento de validade para cada membro da família automaticamente - digitalize cada passaporte uma vez e receba lembretes a partir de oito meses antes. Sem folha de cálculo, sem renovações esquecidas. [Transfira na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Lista de Verificação de Documentos Pré-Viagem para Famílias
 

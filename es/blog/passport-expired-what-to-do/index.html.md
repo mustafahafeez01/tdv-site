@@ -32,7 +32,7 @@ Lo urgente que necesites actuar determina qué hacer:
 
 Todas las principales autoridades de pasaportes retienen ranuras de cita de emergencia que no son visibles en línea. Si tu cronograma es ajustado, llama en lugar de confiar solo en el sitio web.
 
-**Establece el recordatorio ahora** para que esto nunca vuelva a suceder - Travel Document Vault te notifica 6, 3 y 1 mes antes de que cada pasaporte en tu hogar caduque. [Descarga en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Establece el recordatorio ahora** para que esto nunca vuelva a suceder - Travel Document Vault empieza a notificarte desde ocho meses antes de que caduque cada pasaporte en tu hogar, y de nuevo a medida que se acerca la fecha. [Descarga en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Escenario B: Lo Descubriste en el Aeropuerto
 
@@ -110,7 +110,7 @@ En el Reino Unido, un servicio Premium acelerado está disponible en oficinas de
 
 ### ¿Cómo evito que mi pasaporte caduque inesperadamente?
 
-Establece un recordatorio de caducidad 12 meses antes de la caducidad - no 6 meses. Esto te da tiempo cómodo para renovar con procesamiento estándar. Haz esto para cada pasaporte en tu hogar por separado. Travel Document Vault envía recordatorios automáticos 6, 3 y 1 mes antes de la caducidad para cada pasaporte que agregues.
+Establece un recordatorio de caducidad 12 meses antes de la caducidad - no 6 meses. Esto te da tiempo cómodo para renovar con procesamiento estándar. Haz esto para cada pasaporte en tu hogar por separado. Travel Document Vault envía recordatorios automáticos desde ocho meses antes, y de nuevo a medida que se acerca la fecha, para cada pasaporte que agregues.
 
 ### ¿Puede un pasaporte válido ser rechazado en el aeropuerto?
 

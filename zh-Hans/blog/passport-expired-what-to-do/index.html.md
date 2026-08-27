@@ -32,7 +32,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do
 
 所有主要护照部门都保留了在线上看不到的紧急预约位置。如果你的时间很紧，打电话而不是仅仅依赖网站。
 
-**立即设置提醒**，这样就不会再发生——Travel Document Vault会在你家中每本护照过期前的6、3和1个月通知你。[在App Store上下载。](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**立即设置提醒**，这样就不会再发生——Travel Document Vault会为你家中每本护照从提前八个月开始通知你，并在临近到期时再次提醒。[在App Store上下载。](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## 情景B：你在机场发现护照已过期
 
@@ -110,7 +110,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do
 
 ### 我如何避免护照意外过期？
 
-在过期前12个月设置过期提醒——不是6个月。这给了你舒适的时间以标准处理方式进行更新。为你家中的每本护照分别做这一点。Travel Document Vault在你添加的每本护照过期前的6、3和1个月发送自动提醒。
+在过期前12个月设置过期提醒——而不是6个月。这给了你充裕的时间以标准处理方式进行更新。为你家中的每本护照分别做这一点。Travel Document Vault会为你添加的每本护照从提前八个月开始自动发送提醒，并在临近到期时再次提醒。
 
 ### 有效护照可能在机场被拒绝吗？
 

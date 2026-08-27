@@ -64,7 +64,7 @@ Los requisitos de validez del pasaporte por país cambian sin previo aviso - un 
 
 Siempre verifica tus requisitos específicos usando el IATA Travel Centre, el sistema que las aerolíneas usan para verificar documentos de pasajeros en tiempo real.
 
-**Travel Document Vault** te envía un recordatorio cuando tu pasaporte cae por debajo del umbral de validez para tu destino - para cada miembro de la familia, automáticamente. [Descárgalo gratis en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** señala cualquier pasaporte que se quede sin seis meses de validez para cuando termine tu viaje - para cada miembro de la familia, automáticamente. [Descárgalo gratis en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Cómo las Aerolíneas Aplican la Regla - Incluso Cuando los Países No
 
@@ -92,7 +92,7 @@ Trata tu pasaporte como un neumático de coche - no esperes hasta que esté desi
 
 Antes de cualquier viaje, cuenta seis meses hacia adelante desde el día que sales del destino, que es la fecha más tardía y por tanto satisface cualquier versión de la regla. Comprueba el vencimiento de tu pasaporte contra esa fecha - no solo tus fechas de viaje.
 
-Administrar múltiples pasaportes en toda una familia con diferentes fechas de vencimiento es donde se pone desordenado. [Travel Document Vault](https://traveldocumentvault.com) rastrea esto automáticamente - almacenando el vencimiento del pasaporte de cada miembro de la familia y enviando recordatorios a los seis meses, tres meses y más cercano. Sin aritmética mental antes de cada reserva. También puedes encontrar más [consejos prácticos sobre documentos de viaje](https://traveldocumentvault.com/es/blog/) en el blog.
+Administrar múltiples pasaportes en toda una familia con diferentes fechas de vencimiento es donde se pone desordenado. [Travel Document Vault](https://traveldocumentvault.com) rastrea esto automáticamente - almacenando el vencimiento del pasaporte de cada miembro de la familia y enviando recordatorios desde ocho meses antes, y de nuevo a medida que se acerca la fecha. Sin aritmética mental antes de cada reserva. También puedes encontrar más [consejos prácticos sobre documentos de viaje](https://traveldocumentvault.com/es/blog/) en el blog.
 
 ## Una Nota Sobre la Verificación de Requisitos Antes de Viajar
 

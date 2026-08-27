@@ -32,7 +32,7 @@ L'urgence de la situation détermine la marche à suivre :
 
 Toutes les grandes autorités de délivrance de passeports conservent des créneaux de rendez-vous d'urgence qui ne sont pas visibles en ligne. Si votre calendrier est serré, appelez plutôt que de ne vous fier qu'au site Web.
 
-**Réglez le rappel maintenant** pour que cela ne se reproduise plus - Travel Document Vault vous informe 6, 3 et 1 mois avant l'expiration de chaque passeport de votre ménage. [Téléchargez sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Réglez le rappel maintenant** pour que cela ne se reproduise plus - Travel Document Vault commence à vous prévenir dès huit mois avant l'expiration de chaque passeport de votre ménage, puis à nouveau à l'approche de la date. [Téléchargez sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Scénario B : Vous l'Avez Découvert à l'Aéroport
 
@@ -110,7 +110,7 @@ Au Royaume-Uni, un service Premium accéléré est disponible aux bureaux de pas
 
 ### Comment puis-je éviter que mon passeport n'expire inopinément ?
 
-Réglez un rappel d'expiration 12 mois avant l'expiration - pas 6 mois. Cela vous donne du temps confortable pour renouveler avec un traitement standard. Faites cela pour chaque passeport de votre ménage séparément. Travel Document Vault envoie des rappels automatiques à 6, 3 et 1 mois avant l'expiration pour chaque passeport que vous ajoutez.
+Réglez un rappel d'expiration 12 mois avant l'expiration - pas 6 mois. Cela vous donne du temps confortable pour renouveler avec un traitement standard. Faites cela pour chaque passeport de votre ménage séparément. Travel Document Vault envoie des rappels automatiques dès huit mois avant l'échéance, puis à nouveau à l'approche de la date, pour chaque passeport que vous ajoutez.
 
 ### Un passeport valide peut-il être refusé à l'aéroport ?
 

@@ -66,7 +66,7 @@ Det gælder, uanset om dit pas udløb, før du forlod Storbritannien, eller mens
 
 Er dit pas allerede udløbet, og du søger efter, hvad du skal gøre nu, gennemgår [vores tilhørende artikel det trin for trin](https://traveldocumentvault.com/da/blog/passport-expired-what-to-do/). Har du en rejse på vej, og dit pas nærmer sig udløb, er dette øjeblikket til at forny det i stedet for at vente, til det udløber, hvilket betyder, at du betaler for Premiumtjenesten i stedet for standardgebyret. Tjek familiens pas nu, før I booker nogen rejse.
 
-**Indstil påmindelser om udløb måneder i forvejen, ikke uger.** [Travel Document Vault holder styr på udløbsdatoer for hvert pas i din husstand og sender påmindelser 6, 3 og 1 måned før udløb](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/), så du kan forny via standardbehandling og undgå nødgebyrer.
+**Indstil påmindelser om udløb måneder i forvejen, ikke uger.** [Travel Document Vault holder styr på udløbsdatoer for hvert pas i din husstand og sender påmindelser fra otte måneder før, og igen efterhånden som udløb nærmer sig](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/), så du kan forny via standardbehandling og undgå nødgebyrer.
 
 ## Hvis du allerede er i udlandet, og dit pas udløber
 

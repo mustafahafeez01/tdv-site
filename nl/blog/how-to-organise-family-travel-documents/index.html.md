@@ -91,11 +91,11 @@ Dit is het patroon dat gezinnen te pakken krijgt: je vernieuwt je eigen paspoort
 
 - **Agendaherinneringen:** Stel er één in 12 maanden voor elk document verloopt en nog één bij 6 maanden. Je moet ze zelf bijwerken zodra documenten worden vernieuwd, en je moet de vervaldatums om te beginnen al bij de hand hebben.
 - **Spreadsheet:** Werkt prima als je het daadwerkelijk bijhoudt. Eén rij per document per persoon, de vervaldatum, en een formule die alles markeert wat binnen 12 maanden verloopt.
-- **Speciale app:** Tools zoals Travel Document Vault regelen de herinneringen automatisch - scan het document, bevestig de vervaldatum, en het plant waarschuwingen bij zes maanden, drie maanden en kortere intervallen zonder dat je erover na hoeft te denken.
+- **Speciale app:** Tools zoals Travel Document Vault regelen de herinneringen automatisch - scan het document, bevestig de vervaldatum, en het plant waarschuwingen vanaf acht maanden van tevoren en opnieuw bij kortere intervallen zonder dat je erover na hoeft te denken.
 
 Alle drie de methoden werken - waar het op aankomt is er een kiezen die past bij hoe je al werkt en er ook echt aan vasthouden.
 
-**Travel Document Vault** houdt de vervaldatums voor elk gezinslid automatisch bij - scan elk paspoort één keer en krijg herinneringen bij 6, 3 en 1 maand. Geen spreadsheet, geen vergeten verlengingen. [Download in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** houdt de vervaldatums voor elk gezinslid automatisch bij - scan elk paspoort één keer en krijg herinneringen vanaf acht maanden voor de vervaldatum. Geen spreadsheet, geen vergeten verlengingen. [Download in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Checklist voor gezinnen voor vertrek
 

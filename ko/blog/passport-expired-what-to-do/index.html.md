@@ -32,7 +32,7 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expired-what-to-do/
 
 모든 주요 여권 관청은 온라인에서 볼 수 없는 긴급 약속 슬롯을 보유하고 있습니다. 시간이 촉박하면 웹사이트에만 의존하지 말고 전화하세요.
 
-**지금 알림을 설정하세요** - 다시는 이런 일이 발생하지 않도록 Travel Document Vault는 가구의 모든 여권이 만료되기 6개월, 3개월, 1개월 전에 알림을 보냅니다. [App Store에서 다운로드하세요.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**지금 알림을 설정하세요** - 다시는 이런 일이 발생하지 않도록 Travel Document Vault는 가구의 모든 여권에 대해 만료 8개월 전부터 알림을 보내기 시작하고, 만료일이 가까워지면 다시 알려줍니다. [App Store에서 다운로드하세요.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## 상황 B: 공항에서 발견했습니다
 
@@ -110,7 +110,7 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expired-what-to-do/
 
 ### 여권이 예기치 않게 만료되는 것을 어떻게 피할 수 있나요?
 
-만료 12개월 전에 만료 알림을 설정하세요 - 6개월이 아니라. 이것이 표준 처리로 갱신할 편안한 시간을 제공합니다. 가구의 모든 여권에 대해 이를 별도로 하세요. Travel Document Vault는 추가한 모든 여권이 만료되기 6개월, 3개월, 1개월 전에 자동 알림을 보냅니다.
+만료 12개월 전에 만료 알림을 설정하세요 - 6개월 전이 아니라. 이것이 표준 처리로 갱신할 편안한 시간을 제공합니다. 가구의 모든 여권에 대해 이를 별도로 하세요. Travel Document Vault는 추가한 모든 여권에 대해 만료 8개월 전부터 자동 알림을 보내고, 만료일이 가까워지면 다시 알려줍니다.
 
 ### 유효한 여권이 공항에서 거부될 수 있나요?
 

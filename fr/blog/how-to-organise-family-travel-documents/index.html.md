@@ -91,11 +91,11 @@ Voici le modèle d'échec qui attrape les familles: vous renouvelez votre propre
 
 - **Rappels de calendrier:** Définissez-en un 12 mois avant chaque expiration de document et un autre à 6 mois. Vous devrez vous souvenir de mettre à jour ces derniers lorsque les documents sont renouvelés, et vous devez avoir accès aux dates d'expiration en premier lieu.
 - **Feuille de calcul:** Fonctionne bien si vous la maintenez réellement. Une ligne par document par personne, la date d'expiration, et une formule qui met en évidence tout ce qui expire dans les 12 mois.
-- **Application dédiée:** Des outils comme Travel Document Vault gèrent les rappels automatiquement - numérisez le document, confirmez la date d'expiration, et il planifie des alertes à six mois, trois mois, et à intervalles plus proches sans que vous ayez à y penser.
+- **Application dédiée:** Des outils comme Travel Document Vault gèrent les rappels automatiquement - numérisez le document, confirmez la date d'expiration, et il planifie des alertes dès huit mois avant l'échéance, puis à intervalles plus rapprochés, sans que vous ayez à y penser.
 
 N'importe lequel de ces trois approches fonctionne - ce qui compte est de choisir une qui correspond à votre fonctionnement et de vous y tenir réellement.
 
-**Travel Document Vault** gère le suivi de l'expiration pour tous les membres de la famille automatiquement - numérisez chaque passeport une fois et recevez des rappels à 6, 3 et 1 mois. Pas de feuille de calcul, pas de renouvellements oubliés. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** gère le suivi de l'expiration pour tous les membres de la famille automatiquement - numérisez chaque passeport une fois et recevez des rappels dès huit mois avant l'échéance. Pas de feuille de calcul, pas de renouvellements oubliés. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Liste de contrôle pré-voyage pour les familles
 

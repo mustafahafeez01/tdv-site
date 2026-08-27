@@ -91,11 +91,11 @@ Ini pola kegagalan yang menjebak keluarga: Anda memperpanjang paspor sendiri, me
 
 - **Pengingat kalender:** Atur satu 12 bulan sebelum setiap dokumen kedaluwarsa dan satu lagi pada 6 bulan. Anda perlu ingat memperbarui ini saat dokumen diperpanjang, dan Anda perlu tanggal kedaluwarsa tersedia sejak awal.
 - **Spreadsheet:** Berfungsi baik jika Anda benar-benar memeliharanya. Satu baris per dokumen per orang, tanggal kedaluwarsa, dan rumus yang menyorot apa pun yang kedaluwarsa dalam 12 bulan.
-- **Aplikasi khusus:** Alat seperti Travel Document Vault menangani pengingat secara otomatis - pindai dokumen, konfirmasi tanggal kedaluwarsa, dan aplikasi menjadwalkan peringatan pada enam bulan, tiga bulan, dan interval yang lebih dekat tanpa Anda perlu memikirkannya.
+- **Aplikasi khusus:** Alat seperti Travel Document Vault menangani pengingat secara otomatis - pindai dokumen, konfirmasi tanggal kedaluwarsa, dan aplikasi menjadwalkan peringatan mulai dari delapan bulan sebelumnya, lalu kembali mengingatkan Anda saat tanggalnya semakin dekat, tanpa Anda perlu memikirkannya.
 
 Ketiga pendekatan ini akan berhasil - yang penting adalah memilih salah satu yang sesuai dengan cara Anda sudah beroperasi dan benar-benar mempertahankannya.
 
-**Travel Document Vault** menangani pelacakan kedaluwarsa untuk setiap anggota keluarga secara otomatis - pindai setiap paspor sekali dan dapatkan pengingat pada 6, 3, dan 1 bulan. Tanpa spreadsheet, tanpa perpanjangan yang terlupakan. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** menangani pelacakan kedaluwarsa untuk setiap anggota keluarga secara otomatis - pindai setiap paspor sekali dan dapatkan pengingat mulai dari delapan bulan sebelumnya. Tanpa spreadsheet, tanpa perpanjangan yang terlupakan. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Daftar Periksa Dokumen Sebelum Perjalanan untuk Keluarga
 

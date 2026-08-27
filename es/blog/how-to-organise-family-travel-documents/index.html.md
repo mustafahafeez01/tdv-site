@@ -91,11 +91,11 @@ Aquí está el patrón de fallo que atrapa a las familias: renuevas tu propio pa
 
 - **Recordatorios de calendario:** Establece uno 12 meses antes de que cada documento venza y otro a los 6 meses. Necesitarás recordar actualizar estos cuando los documentos se renueven, y necesitas que las fechas de vencimiento sean accesibles en primer lugar.
 - **Hoja de cálculo:** Funciona bien si realmente la mantienes. Una fila por documento por persona, la fecha de vencimiento, y una fórmula que destaque cualquier cosa que venza dentro de 12 meses.
-- **Aplicación dedicada:** Herramientas como Travel Document Vault manejan los recordatorios automáticamente - escanea el documento, confirma la fecha de vencimiento, y programa alertas a los seis meses, tres meses, e intervalos más cercanos sin que tengas que pensar en ello.
+- **Aplicación dedicada:** Herramientas como Travel Document Vault manejan los recordatorios automáticamente - escanea el documento, confirma la fecha de vencimiento, y programa alertas desde ocho meses antes, y de nuevo a intervalos más cercanos, sin que tengas que pensar en ello.
 
 Cualquiera de estos tres enfoques funcionará - lo importante es elegir uno que se ajuste a cómo ya operas y realmente adherirse a él.
 
-**Travel Document Vault** maneja el seguimiento de vencimiento para cada miembro de la familia automáticamente - escanea cada pasaporte una vez y obtén recordatorios a los 6, 3, y 1 mes. Sin hoja de cálculo, sin renovaciones olvidadas. [Descargar en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** maneja el seguimiento de vencimiento para cada miembro de la familia automáticamente - escanea cada pasaporte una vez y obtén recordatorios desde ocho meses antes. Sin hoja de cálculo, sin renovaciones olvidadas. [Descargar en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Lista de verificación de documentos previo al viaje para familias
 

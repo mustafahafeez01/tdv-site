@@ -64,7 +64,7 @@ Anforderungen zur Reisepass-Gültigkeit nach Land ändern sich ohne Vorankündig
 
 Überprüfen Sie Ihre spezifischen Anforderungen immer mit dem IATA Travel Centre, dem System, das Airlines verwenden, um Passagierdokumente in Echtzeit zu überprüfen.
 
-**Travel Document Vault** sendet Ihnen eine Benachrichtigung, wenn Ihr Reisepass unter den Gültigkeitsschwellenwert für Ihr Ziel fällt - für jedes Familienmitglied automatisch. [Jetzt kostenlos im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** markiert jeden Reisepass, der zum Ende Ihrer Reise keine sechs Monate Gültigkeit mehr hat - für jedes Familienmitglied automatisch. [Jetzt kostenlos im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Wie Airlines die Regel durchsetzen - auch wenn Länder das nicht tun
 
@@ -92,7 +92,7 @@ Behandeln Sie Ihren Reisepass wie einen Autorreifen - warten Sie nicht, bis er p
 
 Zählen Sie vor jeder Reise sechs Monate voraus ab dem Tag, an dem Sie das Ziel verlassen - das ist das spätere Datum und erfüllt damit beide Versionen der Regel. Überprüfen Sie das Ablaufdatum Ihres Reisepasses gegen dieses Datum - nicht nur gegen Ihre Reisedaten.
 
-Die Verwaltung mehrerer Reisepässe über eine Familie mit unterschiedlichen Ablaufdaten ist der Ort, an dem es unübersichtlich wird. [Travel Document Vault](https://traveldocumentvault.com) verfolgt dies automatisch - speichert das Ablaufdatum des Reisepasses jedes Familienmitglieds und sendet Erinnerungen in sechs Monaten, drei Monaten und darüber hinaus. Kein mentales Rechnen vor jeder Buchung. Sie können auch weitere praktische [Reisedokumenttipps](https://traveldocumentvault.com/de/blog/) im Blog finden.
+Die Verwaltung mehrerer Reisepässe über eine Familie mit unterschiedlichen Ablaufdaten ist der Ort, an dem es unübersichtlich wird. [Travel Document Vault](https://traveldocumentvault.com) verfolgt dies automatisch - speichert das Ablaufdatum des Reisepasses jedes Familienmitglieds und sendet Erinnerungen ab acht Monaten vorher, dann erneut, je näher der Termin rückt. Kein mentales Rechnen vor jeder Buchung. Sie können auch weitere praktische [Reisedokumenttipps](https://traveldocumentvault.com/de/blog/) im Blog finden.
 
 ## Ein Hinweis zum Überprüfen von Anforderungen vor Ihrer Reise
 

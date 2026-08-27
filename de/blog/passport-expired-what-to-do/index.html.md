@@ -32,7 +32,7 @@ Wie dringend Sie handeln müssen, bestimmt, was zu tun ist:
 
 Alle großen Reisepassbehörden halten Notfalltermine zurück, die online nicht sichtbar sind. Wenn Ihre Frist knapp ist, rufen Sie an, anstatt sich nur auf die Website zu verlassen.
 
-**Stellen Sie die Erinnerung jetzt ein**, damit das nie wieder passiert – Travel Document Vault benachrichtigt Sie 6, 3 und 1 Monat vor dem Ablauf jeden Reisepasses in Ihrem Haushalt. [Im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Stellen Sie die Erinnerung jetzt ein**, damit das nie wieder passiert – Travel Document Vault beginnt Sie ab acht Monaten vor dem Ablauf jedes Reisepasses in Ihrem Haushalt zu erinnern, dann erneut, je näher der Termin rückt. [Im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Szenario B: Sie haben es am Flughafen entdeckt
 
@@ -110,7 +110,7 @@ Im Vereinigten Königreich ist ein beschleunigter Premium-Service an ausgewählt
 
 ### Wie vermeide ich, dass mein Reisepass unerwartet abläuft?
 
-Stellen Sie eine Ablauferinnerung 12 Monate vor Ablauf ein – nicht 6 Monate. Das gibt Ihnen angenehm viel Zeit, um mit standardmäßiger Bearbeitung zu erneuern. Tun Sie das für jeden Reisepass in Ihrem Haushalt separat. Travel Document Vault sendet automatische Erinnerungen 6, 3 und 1 Monat vor Ablauf für jeden Reisepass, den Sie hinzufügen.
+Stellen Sie eine Ablauferinnerung 12 Monate vor Ablauf ein – nicht 6 Monate. Das gibt Ihnen angenehm viel Zeit, um mit standardmäßiger Bearbeitung zu erneuern. Tun Sie das für jeden Reisepass in Ihrem Haushalt separat. Travel Document Vault sendet automatische Erinnerungen ab acht Monaten vorher, dann erneut, je näher der Termin rückt, für jeden Reisepass, den Sie hinzufügen.
 
 ### Kann ein gültiger Reisepass am Flughafen abgelehnt werden?
 

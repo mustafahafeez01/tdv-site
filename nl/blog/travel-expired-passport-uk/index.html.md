@@ -66,7 +66,7 @@ Dit geldt of je paspoort nu verliep voordat je het VK verliet of terwijl je in h
 
 Is je paspoort al verlopen en zoek je uit wat je nu moet doen, dan behandelt [ons vervolgartikel dat stap voor stap](https://traveldocumentvault.com/nl/blog/passport-expired-what-to-do/). Heb je een reis gepland en nadert de vervaldatum van je paspoort, dan is dit het moment om te verlengen in plaats van te wachten tot het verloopt, wat betekent dat je voor de Premium-service betaalt in plaats van het standaardtarief. Controleer nu de paspoorten van je gezin voordat je een reis boekt.
 
-**Stel vervalherinneringen maanden van tevoren in, niet weken.** [Travel Document Vault houdt de vervaldatums bij van elk paspoort in je huishouden en stuurt herinneringen 6, 3 en 1 maand voor het verlopen](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/), zodat je verlengt via de standaardprocedure en noodkosten vermijdt.
+**Stel vervalherinneringen maanden van tevoren in, niet weken.** [Travel Document Vault houdt de vervaldatums bij van elk paspoort in je huishouden en stuurt herinneringen vanaf acht maanden van tevoren, en opnieuw naarmate het verlopen dichterbij komt](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/), zodat je verlengt via de standaardprocedure en noodkosten vermijdt.
 
 ## Als je al in het buitenland bent en je paspoort verloopt
 

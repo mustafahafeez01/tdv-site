@@ -66,7 +66,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-expired-passport-uk/
 
 [如果您的护照已经过期且您正在寻找接下来该做什么，我们的相关文章逐步说明](https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do/)。如果您有即将到来的旅行且护照即将过期，现在是更新而不是等待它过期的时候，这意味着支付高级服务费而不是标准费。现在检查您家人的护照，然后再预订任何旅行。
 
-**提前数月设置过期提醒，而不是数周。** [Travel Document Vault 追踪您家庭中每本护照的过期日期，并在过期前6个月、3个月和1个月时发送提醒](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)，所以您可以进行标准处理更新并避免应急费用。
+**提前数月设置过期提醒，而不是数周。** [Travel Document Vault 追踪您家庭中每本护照的过期日期，从提前八个月开始发送提醒，并在临近到期时再次提醒](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)，所以您可以进行标准处理更新并避免应急费用。
 
 ## 如果您已在国外且护照过期
 
@@ -74,7 +74,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-expired-passport-uk/
 
 该过程缓慢且官僚。您需要提供身份证明并支付费用，当前金额由Foreign, Commonwealth and Development Office公布。所需时间因使馆和您情况的紧急程度而异，请在联系使馆时立即询问预期时长。应急证件不是旅游护照 - 仅对返回英国的特定旅程有效，不允许进一步旅行。
 
-提前数月设置提醒，而不是旅行前的那天，因为过期前6个月、3个月和1个月的提醒让您有时间进行标准处理更新，而不是支付应急预约费用。如果您的护照在旅行前6个月内过期，现在开始更新流程，然后再确定旅行日期。
+提前数月设置提醒，而不是等到出发前一周才手忙脚乱，这样才能从根本上避免这种情况。如果您的护照会在出行前6个月内过期，请现在就开始续签流程，再确定出行日期。
 
 ## 关于护照有效性的常见误解
 

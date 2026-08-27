@@ -64,7 +64,7 @@ I requisiti di validità del passaporto per paese cambiano senza preavviso - un 
 
 Verificate sempre i vostri requisiti specifici utilizzando il Centro Viaggi IATA, il sistema che le compagnie aeree utilizzano per controllare i documenti dei passeggeri in tempo reale.
 
-**Travel Document Vault** vi invia un promemoria quando il vostro passaporto scende al di sotto della soglia di validità per la vostra destinazione - per ogni membro della famiglia, automaticamente. [Scaricate gratuitamente su App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** segnala qualsiasi passaporto che, alla fine del vostro viaggio, non avrà più sei mesi di validità residua - per ogni membro della famiglia, automaticamente. [Scaricate gratuitamente su App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Come le Compagnie Aeree Applicano la Regola - Anche Quando i Paesi Non lo Fanno
 
@@ -92,7 +92,7 @@ Trattate il vostro passaporto come uno pneumatico di un'auto - non aspettate che
 
 Prima di qualsiasi viaggio, contate sei mesi a partire dal giorno in cui lasciate la destinazione, che è la data più tardiva e quindi soddisfa entrambe le versioni della regola. Controllate la scadenza del vostro passaporto rispetto a quella data - non solo le date di viaggio.
 
-Gestire più passaporti su una famiglia con date di scadenza diverse è dove diventa complicato. [Travel Document Vault](https://traveldocumentvault.com/it/) traccia questo automaticamente - memorizzando la scadenza del passaporto di ogni membro della famiglia e inviando promemoria a sei mesi, tre mesi e oltre. Nessun calcolo mentale prima di ogni prenotazione. Potete anche trovare ulteriori consigli pratici [su come gestire i documenti di viaggio](https://traveldocumentvault.com/it/) sul blog.
+Gestire più passaporti su una famiglia con date di scadenza diverse è dove diventa complicato. [Travel Document Vault](https://traveldocumentvault.com/it/) traccia questo automaticamente - memorizzando la scadenza del passaporto di ogni membro della famiglia e inviando promemoria a partire da otto mesi prima, e di nuovo man mano che la scadenza si avvicina. Nessun calcolo mentale prima di ogni prenotazione. Potete anche trovare ulteriori consigli pratici [su come gestire i documenti di viaggio](https://traveldocumentvault.com/it/) sul blog.
 
 ## Una Nota sul Controllo dei Requisiti Prima di Viaggiare
 

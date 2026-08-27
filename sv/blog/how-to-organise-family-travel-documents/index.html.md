@@ -91,11 +91,11 @@ Här är mönstret som fångar familjer på sängen: ni förnyar ert eget pass, 
 
 - **Kalenderpåminnelser:** Ställ in en 12 månader innan varje handling går ut och en till vid 6 månader. Ni behöver komma ihåg att uppdatera dessa när handlingar förnyas, och ni behöver ha utgångsdatumen tillgängliga från början.
 - **Kalkylblad:** Fungerar bra om ni faktiskt underhåller det. En rad per handling per person, utgångsdatumet, och en formel som markerar allt som går ut inom 12 månader.
-- **Dedikerad app:** Verktyg som Travel Document Vault sköter påminnelserna automatiskt - skanna handlingen, bekräfta utgångsdatumet, så schemaläggs varningar vid sex månader, tre månader och tätare intervall utan att ni behöver tänka på det.
+- **Dedikerad app:** Verktyg som Travel Document Vault sköter påminnelserna automatiskt - skanna handlingen, bekräfta utgångsdatumet, så schemaläggs varningar från åtta månader innan, och sedan igen med tätare intervall, utan att ni behöver tänka på det.
 
 Alla tre metoderna fungerar - det viktiga är att välja en som passar hur ni redan gör saker och faktiskt hålla fast vid den.
 
-**Travel Document Vault** sköter bevakningen av utgångsdatum för varje familjemedlem automatiskt - skanna varje pass en gång och få påminnelser vid 6, 3 och 1 månad. Inget kalkylblad, inga missade förnyelser. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** sköter bevakningen av utgångsdatum för varje familjemedlem automatiskt - skanna varje pass en gång och få påminnelser från åtta månader innan utgångsdatumet. Inget kalkylblad, inga missade förnyelser. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Checklista inför resan för familjer
 

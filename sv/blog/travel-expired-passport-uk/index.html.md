@@ -66,7 +66,7 @@ Det gäller oavsett om passet gick ut innan du lämnade Storbritannien eller med
 
 [Om ditt pass redan har gått ut och du letar efter vad du ska göra härnäst går vår kompletterande artikel igenom det steg för steg](https://traveldocumentvault.com/sv/blog/passport-expired-what-to-do/). Har du en resa på gång och ditt pass närmar sig utgångsdatumet är det här läget att förnya i stället för att vänta tills det går ut, vilket innebär att du betalar för Premiumtjänsten i stället för standardavgiften. Kontrollera familjens pass nu innan ni bokar någon resa.
 
-**Ställ in påminnelser om utgångsdatum flera månader i förväg, inte veckor.** [Travel Document Vault håller koll på utgångsdatum för varje pass i hushållet och skickar påminnelser 6, 3 och 1 månad innan utgångsdatumet](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/), så att du kan förnya via standardhandläggning och slippa nödavgifter.
+**Ställ in påminnelser om utgångsdatum flera månader i förväg, inte veckor.** [Travel Document Vault håller koll på utgångsdatum för varje pass i hushållet och skickar påminnelser från åtta månader innan, och sedan igen allteftersom utgångsdatumet närmar sig](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/), så att du kan förnya via standardhandläggning och slippa nödavgifter.
 
 ## Om du redan är utomlands och passet går ut
 
@@ -74,7 +74,7 @@ Det här är det genuint svåra scenariot. Om du är på resa och passet går ut
 
 Processen är långsam och byråkratisk. Du måste visa legitimation och betala avgiften, för närvarande 125 pund. De flesta ambassader tar flera dagar på sig att utfärda dokumentet, även om vissa kan klara det på 24-48 timmar om du verkligen sitter fast. Andra tar en vecka. Nödresedokumentet är inget turistpass - det gäller bara den specifika resan tillbaka till Storbritannien och tillåter ingen fortsatt resa.
 
-Ställ in påminnelser flera månader i förväg i stället för dagen innan avresa, eftersom påminnelser 6, 3 och 1 månad innan utgångsdatumet ger dig tid att förnya via standardhandläggning i stället för att betala för nödtider. Om passet går ut inom 6 månader från din resa, påbörja förnyelseprocessen nu innan du bokar resdatum.
+Ställ in påminnelser flera månader i förväg i stället för dagen innan avresa, eftersom påminnelser från åtta månader innan, och igen allteftersom utgångsdatumet närmar sig, ger dig tid att förnya via standardhandläggning i stället för att betala för nödtider. Om passet går ut inom 6 månader från din resa, påbörja förnyelseprocessen nu innan du bokar resdatum.
 
 ## Vanliga missförstånd om passets giltighet
 

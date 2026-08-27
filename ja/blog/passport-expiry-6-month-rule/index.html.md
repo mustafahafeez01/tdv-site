@@ -64,7 +64,7 @@ Source: https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/
 
 常に IATA Travel Centre を使用して確認してください。これは航空会社が乗客ドキュメントをリアルタイムでチェックするシステムです。
 
-**Travel Document Vault** は、パスポートが目的地の有効期限基準を下回ったときに、家族全員のため自動的に通知を送信します。[App Store で無料ダウンロード](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** は、旅行終了時点でパスポートの有効期間が6か月を切っている場合に、家族全員分を自動的に警告表示します。[App Store で無料ダウンロード](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## 航空会社がルールを適用する方法 - 国が適用しない場合でも
 
@@ -92,7 +92,7 @@ Source: https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/
 
 どの旅行の前でも、目的地を出国する日から6ヶ月先を数えてください。これは基準となる2つの日付のうち遅い方なので、ルールのどちらのバージョンも満たせます。旅行日そのものではなく、その日付を基準にパスポートの失効日を確認してください。
 
-異なる失効日を持つ家族全体で複数のパスポートを管理することは、混乱になりやすいです。[Travel Document Vault](https://traveldocumentvault.com/ja/) は自動追跡します - 各家族成員のパスポート失効期限を記録し、6ヶ月、3ヶ月、およびそれ以降に通知を送信します。毎回の予約前に計算の必要はありません。また、[ブログ](https://traveldocumentvault.com/ja/)で実践的な旅行ドキュメントのヒントを見つけることもできます。
+異なる失効日を持つ家族全体で複数のパスポートを管理することは、混乱になりやすいです。[Travel Document Vault](https://traveldocumentvault.com/ja/) は自動追跡します - 各家族成員のパスポート失効期限を記録し、失効8か月前から通知を送信し、期限が近づくと再度お知らせします。毎回の予約前に計算の必要はありません。また、[ブログ](https://traveldocumentvault.com/ja/)で実践的な旅行ドキュメントのヒントを見つけることもできます。
 
 ## 旅行前にご要件をご確認ください
 

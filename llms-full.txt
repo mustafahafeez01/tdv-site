@@ -1264,11 +1264,11 @@ Here's the failure pattern that catches families out: you renew your own passpor
 
 - **Calendar reminders:** Set one 12 months before each document expires and another at 6 months. You'll need to remember to update these when documents get renewed, and you need the expiry dates accessible in the first place.
 - **Spreadsheet:** Works well if you'll actually maintain it. One row per document per person, the expiry date, and a formula that highlights anything expiring within 12 months.
-- **Dedicated app:** Tools like Travel Document Vault handle the reminders automatically - scan the document, confirm the expiry date, and it schedules alerts at six months, three months, and closer intervals without you having to think about it.
+- **Dedicated app:** Tools like Travel Document Vault handle the reminders automatically - scan the document, confirm the expiry date, and it schedules alerts from eight months out and again at closer intervals, without you having to think about it.
 
 Any of these three approaches will work - what matters is picking one that fits how you already operate and actually sticking with it.
 
-**Travel Document Vault** handles expiry tracking for every family member automatically - scan each passport once and get reminders at 6, 3, and 1 month. No spreadsheet, no forgotten renewals. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** handles expiry tracking for every family member automatically - scan each passport once and get reminders starting eight months out. No spreadsheet, no forgotten renewals. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Pre-Trip Document Checklist for Families
 
@@ -1892,7 +1892,7 @@ How urgently you need to act determines what to do:
 
 All major passport authorities hold back emergency appointment slots that are not visible online. If your timeline is tight, call rather than relying only on the website.
 
-**Set the reminder now** so this never happens again - Travel Document Vault notifies you 6, 3, and 1 month before every passport in your household expires. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Set the reminder now** so this never happens again - Travel Document Vault starts reminding you eight months before every passport in your household expires, then again as the date closes in. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Scenario B: You Discovered It at the Airport
 
@@ -1970,7 +1970,7 @@ In the UK, an expedited premium service is available at designated passport offi
 
 ### How do I avoid my passport expiring unexpectedly?
 
-Set an expiry reminder at 12 months before expiry - not 6 months. This gives you comfortable time to renew on standard processing. Do this for every passport in your household separately. Travel Document Vault sends automatic reminders at 6, 3, and 1 month before expiry for every passport you add.
+Set an expiry reminder at 12 months before expiry - not 6 months. This gives you comfortable time to renew on standard processing. Do this for every passport in your household separately. Travel Document Vault sends automatic reminders from eight months out, then again as the date gets closer, for every passport you add.
 
 ### Can a valid passport be refused at the airport?
 
@@ -2058,7 +2058,7 @@ This table is a snapshot, not the full picture: requirements vary by your nation
 
 Passport validity requirements by country change without notice, and a bilateral agreement can quietly shift the rules for your specific passport, which is why checking an up-to-date official source before every international trip isn't paranoia, it's just good practice: use the IATA Travel Centre, the same system airlines use to check passenger documents in real time.
 
-**Travel Document Vault** sends you a reminder when your passport drops below the validity threshold for your destination - for every family member, automatically. [Download free on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** flags any passport that will not still have six months left when your trip ends - for every family member, automatically. [Download free on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## How Airlines Enforce the Rule - Even When Countries Don't
 
@@ -2086,7 +2086,7 @@ Treat your passport like a car tyre and don't wait until it's flat: renew as soo
 
 Before any trip, count six months forward from the day you leave the destination, which is the later date and so satisfies either version of the rule. Check your passport expiry against that date - not just your travel dates.
 
-Managing multiple passports across a family with different expiry dates is where it gets messy. [Travel Document Vault](https://traveldocumentvault.com) tracks this automatically - storing each family member's passport expiry and sending reminders at six months, three months, and closer, so there's no mental arithmetic before every booking. You can also find more practical [travel document tips](https://traveldocumentvault.com/blog/) on the blog.
+Managing multiple passports across a family with different expiry dates is where it gets messy. [Travel Document Vault](https://traveldocumentvault.com) tracks this automatically - storing each family member's passport expiry and sending reminders from eight months out and again as the date closes in, so there's no mental arithmetic before every booking. You can also find more practical [travel document tips](https://traveldocumentvault.com/blog/) on the blog.
 
 ## A Note on Checking Requirements Before You Travel
 
@@ -2883,7 +2883,7 @@ This applies whether your passport expired before you left the UK or while you w
 
 [If your passport has already expired and you are searching for what to do next, our companion article covers that step-by-step](https://traveldocumentvault.com/blog/passport-expired-what-to-do/). If you have a trip coming up and your passport is approaching expiry, this is the moment to renew rather than wait until it expires, which means paying for the Premium service instead of the standard fee. Check your family's passports now before booking any trip.
 
-**Set expiry reminders months in advance, not weeks.** [Travel Document Vault tracks expiry dates for every passport in your household and sends reminders at 6, 3, and 1 month before expiry](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/), so you renew on standard processing and avoid emergency fees.
+**Set expiry reminders months in advance, not weeks.** [Travel Document Vault tracks expiry dates for every passport in your household and sends reminders from eight months out, then again as expiry approaches](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/), so you renew on standard processing and avoid emergency fees.
 
 ## If You're Already Abroad and Your Passport Expires
 
@@ -2933,7 +2933,7 @@ No, but you still cannot travel with it. A damaged passport may be rejected by a
 
 # Travel Insurance Documents: What to Save Before You Go
 
-> Learn what travel insurance documents to save before you fly, where to store them offline, and how to avoid common claims mistakes that cost thousands.
+> Learn what travel insurance documents to save before you fly, where to store them offline, and how to avoid common the claims mistakes that get policies refused.
 
 Source: https://traveldocumentvault.com/blog/travel-insurance-documents/
 
@@ -2949,7 +2949,7 @@ Source: https://traveldocumentvault.com/blog/travel-insurance-documents/
 - Claims rejected most often due to missing documentation: police report for theft, original receipts, signed claim forms.
 - Read your policy's key sections quickly by focusing on coverage limits, exclusions, and conditions.
 
-You have paid for travel insurance. Then comes the medical emergency abroad, the bag stolen at the airport, the flight cancelled mid-trip. Can you actually find your policy number, your insurer's 24-hour emergency line, or proof of what is covered? Most travellers cannot. This article covers what to save before you leave, where to store it so it is accessible without internet, and how to avoid the claims mistakes that cost thousands.
+You have paid for travel insurance. Then comes the medical emergency abroad, the bag stolen at the airport, the flight cancelled mid-trip. Can you actually find your policy number, your insurer's 24-hour emergency line, or proof of what is covered? Most travellers cannot. This article covers what to save before you leave, where to store it so it is accessible without internet, and how to avoid the the claims mistakes that get policies refused.
 
 ## What Actually Happens When You Need Your Insurance
 

@@ -1,6 +1,6 @@
 # Verzekeringsdocumenten voor reizen: Wat je moet opslaan voordat je vertrekt
 
-> Leer welke verzekeringsdocumenten je moet bewaren voordat je vliegt, waar je ze offline kunt opslaan en hoe je veelvoorkomende fouten kunt vermijden die duizenden kosten.
+> Leer welke verzekeringsdocumenten je moet bewaren voordat je vliegt, waar je ze offline kunt opslaan en hoe je veelvoorkomende fouten kunt vermijden die tot een afgewezen claim leiden.
 
 Source: https://traveldocumentvault.com/nl/blog/travel-insurance-documents/
 

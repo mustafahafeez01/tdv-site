@@ -91,11 +91,11 @@ Hier ist das Fehlermuster, das Familien überrascht: Sie erneuern Ihren eigenen 
 
 - **Kalendereinstellungen:** Setzen Sie eine 12 Monate vor Ablauf jedes Dokuments und eine weitere 6 Monate davor. Sie müssen sich daran erinnern, diese zu aktualisieren, wenn Dokumente erneuert werden, und Sie müssen die Ablaufdaten überhaupt zugänglich haben.
 - **Tabellenkalkulation:** Funktioniert gut, wenn Sie sie tatsächlich aktualisieren werden. Eine Zeile pro Dokument pro Person, das Ablaufdatum und eine Formel, die alles hervorhebt, das in 12 Monaten abläuft.
-- **Spezielle App:** Werkzeuge wie Travel Document Vault verwalten Erinnerungen automatisch - scannen Sie das Dokument, bestätigen Sie das Ablaufdatum, und es plant Benachrichtigungen in 6, 3 und engeren Intervallen ohne dass Sie es durchdenken müssen.
+- **Spezielle App:** Werkzeuge wie Travel Document Vault verwalten Erinnerungen automatisch - scannen Sie das Dokument, bestätigen Sie das Ablaufdatum, und es plant Benachrichtigungen ab acht Monaten vorher und erneut in kürzeren Abständen, ohne dass Sie daran denken müssen.
 
 Jeder dieser drei Ansätze funktioniert - was zählt, ist, einen auszuwählen, der zu Ihrer bereits bestehenden Arbeitsweise passt, und ihn tatsächlich durchzuhalten.
 
-**Travel Document Vault** verwaltet das Ablaufdatum-Tracking für jedes Familienmitglied automatisch - scannen Sie jeden Reisepass einmal und erhalten Sie Erinnerungen bei 6, 3 und 1 Monat. Keine Tabellenkalkulation, keine vergessenen Erneuerungen. [Im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877)
+**Travel Document Vault** verwaltet das Ablaufdatum-Tracking für jedes Familienmitglied automatisch - scannen Sie jeden Reisepass einmal und erhalten Sie Erinnerungen ab acht Monaten vorher. Keine Tabellenkalkulation, keine vergessenen Erneuerungen. [Im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877)
 
 ## Checkliste vor der Reise für Familien
 

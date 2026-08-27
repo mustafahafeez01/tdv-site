@@ -64,7 +64,7 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/
 
 항상 IATA Travel Centre를 사용하여 특정 요구사항을 확인하십시오. 이것은 항공사가 실시간으로 승객 서류를 확인하는 데 사용하는 시스템입니다.
 
-**Travel Document Vault**는 모든 가족 구성원을 위해 자동으로 여권이 목적지의 유효기간 기준 아래로 떨어질 때 알림을 보냅니다. [App Store에서 무료로 다운로드하세요.](https://apps.apple.com/kr/app/travel-document-vault/id6757014877)
+**Travel Document Vault**는 여행이 끝나는 시점에 유효기간이 6개월 미만으로 남는 여권이 있으면 가족 구성원 전원에 대해 자동으로 표시해 드립니다. [App Store에서 무료로 다운로드하세요.](https://apps.apple.com/kr/app/travel-document-vault/id6757014877)
 
 ## 항공사가 규칙을 시행하는 방법 - 국가가 시행하지 않아도
 
@@ -92,7 +92,7 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/
 
 어떤 여행이든 목적지를 떠나는 날로부터 6개월을 앞으로 계산하십시오. 이는 더 늦은 날짜이므로 규칙의 어느 버전도 만족시킵니다. 단순히 여행 날짜가 아니라 그 날짜를 기준으로 여권 만료를 확인하십시오.
 
-서로 다른 만료 날짜를 가진 가족 전체에 걸쳐 여러 여권을 관리하는 것은 복잡합니다. [Travel Document Vault](https://traveldocumentvault.com/ko)는 이것을 자동으로 추적합니다. 각 가족 구성원의 여권 만료를 저장하고 6개월, 3개월 및 더 가깝게 할 때 알림을 보냅니다. 모든 예약 전에 정신 산술이 없습니다. 또한 블로그에서 더 많은 실용적인 [여행 서류 팁](https://traveldocumentvault.com/ko/)을 찾을 수 있습니다.
+서로 다른 만료 날짜를 가진 가족 전체에 걸쳐 여러 여권을 관리하는 것은 복잡합니다. [Travel Document Vault](https://traveldocumentvault.com/ko)는 이것을 자동으로 추적합니다. 각 가족 구성원의 여권 만료를 저장하고 만료 8개월 전부터 알림을 보내며 만료일이 가까워지면 다시 알려줍니다. 모든 예약 전에 직접 계산할 필요가 없습니다. 또한 블로그에서 더 많은 실용적인 [여행 서류 팁](https://traveldocumentvault.com/ko/)을 찾을 수 있습니다.
 
 ## 여행 전 요구사항 확인에 대한 참고
 
