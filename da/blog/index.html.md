@@ -24,7 +24,7 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[RejseforberedelseRejseforsikringsdokumenter: Hvad skal du gemme før du tager af stedLær, hvilke rejseforsikringsdokumenter du skal gemme før du flyver, hvor du opbevarer dem offline, og hvordan du undgår almindelige fejl ved skadesanmeldelser, der koster tusinder af kroner.3. august 20269 min læsning](https://traveldocumentvault.com/da/blog/travel-insurance-documents/)
+[RejseforberedelseRejseforsikringsdokumenter: Hvad skal du gemme før du tager af stedLær, hvilke rejseforsikringsdokumenter du skal gemme før du flyver, hvor du opbevarer dem offline, og hvordan du undgår almindelige fejl ved skadesanmeldelser, der får kravet afvist.3. august 20269 min læsning](https://traveldocumentvault.com/da/blog/travel-insurance-documents/)
 
 ##
 
@@ -96,7 +96,7 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[Fornyelse Er dit pas udløbet? Sådan gør du, trin for trin Har du opdaget, at dit pas er udløbet? Sådan gør du, trin for trin. Undgå det næste gang med smarte udløbspåmindelser fra vores offline, AES-256-GCM-krypterede boks. 9. mar. 20269 min. læsning](https://traveldocumentvault.com/da/blog/passport-expired-what-to-do/)
+[Fornyelse Er dit pas udløbet? Sådan gør du, trin for trin Har du opdaget, at dit pas er udløbet? Her er præcis, hvad du skal gøre for at komme videre hurtigt – og undgå de mest almindelige fejl ved fornyelse. 9. mar. 20269 min. læsning](https://traveldocumentvault.com/da/blog/passport-expired-what-to-do/)
 
 ##
 
@@ -104,7 +104,7 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[PasreglerOrganisation International tjekliste til rejsedokumenter: alt du skal bruge, før du flyver Den komplette tjekliste til rejsedokumenter 2026. Organiser alt offline ét sted med Travel Document Vaults AES-256-GCM-krypterede app. 4. mar. 20269 min. læsning](https://traveldocumentvault.com/da/blog/travel-document-checklist/)
+[PasreglerOrganisation International tjekliste til rejsedokumenter: alt du skal bruge, før du flyver Alt du skal medbringe, tjekke og forberede før enhver international rejse. En praktisk tjekliste, der dækker pas, visum, kørekort og rejseforsikring – til både familier og solorejsende. 4. mar. 20269 min. læsning](https://traveldocumentvault.com/da/blog/travel-document-checklist/)
 
 ##
 
@@ -120,7 +120,7 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[Pasregler 6-måneders-reglen for pas: hvilke lande håndhæver den, og sådan undgår du at blive taget på sengen 6-måneders-reglen for pas tager tusindvis af rejsende på sengen. Lad vores AES-256-GCM-krypterede, offlinebaserede boks holde styr på udløbsdatoer automatisk. Prøv gratis til 5 dokumenter. 1. feb. 20267 min. læsning](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)
+[Pasregler 6-måneders-reglen for pas: hvilke lande håndhæver den, og sådan undgår du at blive taget på sengen Dit pas kan være gyldigt – og stadig blive afvist ved gaten. Se hvilke lande håndhæver 6-måneders-reglen, hvordan flyselskaberne tjekker den, og hvordan du sikrer, at hele familien er dækket, inden I booker. 1. feb. 20267 min. læsning](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)
 
 ## Sidste gang du stresser inden en rejse
 

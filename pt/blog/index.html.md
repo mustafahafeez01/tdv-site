@@ -24,7 +24,7 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
-[Preparação de ViagemDocumentos de Seguro de Viagem: O que Guardar Antes de PartirSaiba quais os documentos de seguro de viagem a guardar antes de partir, onde armazená-los offline e como evitar os erros em reclamações que custam milhares.3 de agosto de 20269 min de leitura](https://traveldocumentvault.com/pt/blog/travel-insurance-documents/)
+[Preparação de ViagemDocumentos de Seguro de Viagem: O que Guardar Antes de PartirSaiba quais os documentos de seguro de viagem a guardar antes de partir, onde armazená-los offline e como evitar os erros em reclamações que levam à sua recusa.3 de agosto de 20269 min de leitura](https://traveldocumentvault.com/pt/blog/travel-insurance-documents/)
 
 ##
 
@@ -100,7 +100,7 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
-[Ferramentas de Viagem Aplicação para organizar passaportes: no dispositivo, não na nuvem Comparar aplicações para organizar passaportes. Saiba por que o armazenamento offline e a encriptação AES-256-GCM importam para documentos de viagem. 4 mar 20268 min de leitura](https://traveldocumentvault.com/pt/blog/best-passport-organizer-app/)
+[Ferramentas de Viagem Aplicação para organizar passaportes: no dispositivo, não na nuvem Nem todas as aplicações para organizar passaportes são iguais. Aqui fica o que deve procurar, e o que deve evitar, ao escolher uma para os documentos de viagem da sua família. 4 mar 20268 min de leitura](https://traveldocumentvault.com/pt/blog/best-passport-organizer-app/)
 
 ##
 

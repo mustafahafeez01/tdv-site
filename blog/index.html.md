@@ -24,7 +24,7 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
-[Travel PrepTravel Insurance Documents: What to Save Before You GoMost people buy travel insurance, then cannot find their policy number when it matters. Which documents to save, where to keep them so they work offline, and the claims mistakes that cost thousands.August 3, 20269 min read](https://traveldocumentvault.com/blog/travel-insurance-documents/)
+[Travel PrepTravel Insurance Documents: What to Save Before You GoLearn what travel insurance documents to save before you fly, where to store them offline, and how to avoid the common claims mistakes that get policies refused.August 3, 20269 min read](https://traveldocumentvault.com/blog/travel-insurance-documents/)
 
 ##
 

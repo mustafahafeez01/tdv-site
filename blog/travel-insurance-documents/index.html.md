@@ -1,6 +1,6 @@
 # Travel Insurance Documents: What to Save Before You Go
 
-> Learn what travel insurance documents to save before you fly, where to store them offline, and how to avoid common the claims mistakes that get policies refused.
+> Learn what travel insurance documents to save before you fly, where to store them offline, and how to avoid the common claims mistakes that get policies refused.
 
 Source: https://traveldocumentvault.com/blog/travel-insurance-documents/
 
