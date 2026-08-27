@@ -146,6 +146,6 @@ Source: https://traveldocumentvault.com/ru/blog/passport-expiry-6-month-rule/
 
 [Продление7 мин чтения · февраль 2026Сколько времени занимает продление паспорта? (США, Великобритания, Австралия, Канада)](https://traveldocumentvault.com/ru/blog/how-long-does-passport-renewal-take/)
 
-[Организация7 мин чтения · февраль 2026Как организовать семейные дорожные документы (до следующей поездки)](https://traveldocumentvault.com/ru/blog/how-to-organise-family-travel-documents/)
+[Организация7 мин чтения · февраль 2026Как организовать документы для путешествий всей семьи (перед следующей поездкой)](https://traveldocumentvault.com/ru/blog/how-to-organise-family-travel-documents/)
 
 [Визы и въезд8 мин чтения · май 2026ETIAS 2026: Какие документы вам нужны и как подать заявку](https://traveldocumentvault.com/ru/blog/etias-documents-2026/)
