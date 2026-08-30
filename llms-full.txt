@@ -672,7 +672,7 @@ The backup holds an encrypted copy of your vault: every profile, document scan, 
 
 # ETIAS 2026: What Documents You Need & How to Apply
 
-> UK, US, and Canadian visitors need ETIAS for 2026. Passport valid 3+ months, email, optional income proof. Check the official EU site for the current fee and timing.
+> UK, US, and Canadian visitors will need ETIAS for European travel. Passport valid 3+ months, email, optional income proof. Check the official EU site for the current fee and timing.
 
 Source: https://traveldocumentvault.com/blog/etias-documents-2026/
 
@@ -682,15 +682,15 @@ Source: https://traveldocumentvault.com/blog/etias-documents-2026/
 
 ## Key Takeaways
 
-- **ETIAS launches in 2026** for UK, US, and Canadian travellers - a digital travel authorisation for visa-exempt entry to Europe
+- **ETIAS is a digital travel authorisation** for UK, US, and Canadian travellers - required for visa-exempt entry to the Schengen area once it becomes mandatory
 - **You need a passport valid for 3+ months** beyond your departure date and an email address to apply
 - **Processing time varies,** especially soon after launch; apply well ahead of your trip and check the official EU site for current guidance
 - **Check the official EU site for the current fee;** under-18s and over-70s don't pay but still need authorisation
 - **Common rejections happen for undisclosed criminal records or previous overstays - plan accordingly**
 
-You've booked your summer family trip to Italy, but then you hear ETIAS launches mid-2026 and you're wondering whether you need it, what documents to prepare, and how the whole process works. This guide answers every question before you reach the application form.
+You've booked a family trip to Italy and you've heard that ETIAS is on its way - a new digital authorisation requirement for visa-exempt visitors to Europe. This guide covers what ETIAS is, what documents you need, and how the application works, so you're prepared before you reach the form.
 
-The European Travel Information and Authorisation System (ETIAS) is not a [visa](https://traveldocumentvault.com/blog/visa-vs-passport/) - it's a digital pre-travel clearance for visitors from visa-exempt countries. If you're a UK, US, or Canadian citizen, you currently arrive in Europe, scan your passport, answer a few border questions, and pass through. Starting 2026, that process moves online, and you apply before you fly.
+The European Travel Information and Authorisation System (ETIAS) is not a [visa](https://traveldocumentvault.com/blog/visa-vs-passport/) - it's a digital pre-travel clearance for visitors from visa-exempt countries. If you're a UK, US, or Canadian citizen, you currently arrive in Europe, scan your passport, answer a few border questions, and pass through. Once ETIAS becomes mandatory, that process moves online - you apply before you fly.
 
 ## What Is ETIAS and Who Needs It?
 
@@ -698,7 +698,7 @@ ETIAS is a digital authorisation system designed to strengthen border security a
 
 If you hold a visa such as a Schengen long-stay visa, UK family visa, or other residence permit, you won't need ETIAS - nor will EU citizens, Norwegian, Icelandic, and Liechtenstein nationals. Children under 18 and adults over 70 are exempt from the fee but still require authorisation at no cost.
 
-**ETIAS affects** a wide range of travellers: individual holidaymakers, families applying separately for each member, digital nomads planning repeated short stays, and anyone booking European trips for late 2026 onwards. Remember that every person between 18 and 70 in your family needs their own ETIAS application.
+**ETIAS affects** a wide range of travellers: individual holidaymakers, families applying separately for each member, and digital nomads planning repeated short stays. Remember that every person in your family needs their own ETIAS application - including children and older adults, who require authorisation even though they are exempt from the fee.
 
 ## Required Documents and Information for Your Application
 
@@ -718,7 +718,7 @@ Many applicants mistakenly assume they need vaccination records, hotel bookings,
 
 ## The ETIAS Application Process: Step by Step
 
-Once you've gathered your information, the application itself is straightforward. Visit the official ETIAS portal (expected to launch in early 2026) and start a new application - no full account needed, just an email address and a temporary password.
+Once you've gathered your information, the application itself is straightforward. Visit the official ETIAS portal and start a new application - no full account needed, just an email address and a temporary password.
 
 The form asks for your personal details (name, date of birth, nationality), passport information (number and validity date), and your travel plans (intended destination and stay duration). Be precise: if you plan to visit three countries, list all three. If you're unsure about exact dates, use approximate month ranges - inconsistency is what triggers rejections, not approximate dates.
 
@@ -762,7 +762,7 @@ Family groups must submit each application separately rather than as a single "f
 
 If you're refused and still need to travel, your fallback is applying for a traditional long-stay visa through the relevant embassy or consulate, which typically allows multiple entries and longer stays than visa-exempt travel. Since requirements vary by destination and nationality, contact the embassy directly to find out what you'll need.
 
-![Hand-drawn comparison: EES happens at the border with fingerprints and photo, no application, and is already running; ETIAS happens before you fly, applied for online with a small fee, starting later with no date set. You will eventually need both, and neither one is a visa](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure.jpg) Two different gates: EES registers you on arrival; ETIAS clears you before departure.
+![Hand-drawn comparison: EES happens at the border with fingerprints and photo, no application, and is rolling out across entry points; ETIAS happens before you fly, applied for online with a small fee, with no mandatory date confirmed yet. You will eventually need both, and neither one is a visa](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure.jpg) Two different gates: EES registers you on arrival; ETIAS clears you before departure.
 
 ## ETIAS Alongside Other Travel Documents
 
@@ -782,7 +782,7 @@ Border officers may still request any of these documents upon arrival, even with
 
 ### When does ETIAS become mandatory for European travel?
 
-ETIAS is expected to become mandatory in the last quarter of 2026 (October to December), following the launch of the Entry-Exit System (EES) in April 2026. There may be a transitional period where the system operates in parallel with passport stamps. Apply several months before your planned travel to account for processing and initial rollout delays.
+ETIAS has not yet been made mandatory, and the timetable has shifted several times. The Entry-Exit System (EES) is rolling out first, with ETIAS expected to follow once EES is established. There may be a transitional period where ETIAS operates in parallel with passport stamps. Check the official EU site for the current position, and apply several months before your planned travel to account for processing and rollout delays.
 
 ### Who needs to apply for ETIAS?
 
@@ -802,7 +802,7 @@ If rejected due to incomplete or inconsistent information, you can reapply immed
 
 ### Can I travel to Europe before ETIAS launches?
 
-Yes. ETIAS is not yet mandatory. Until late 2026, visa-exempt citizens can travel to Europe using current border procedures (passport scan, verbal declaration, and inspection). However, once ETIAS becomes mandatory in Q4 2026, all future trips will require prior authorisation.
+Yes. ETIAS is not yet mandatory. While ETIAS is not yet required, visa-exempt travellers can continue to use current border procedures - passport scan, verbal declaration, and inspection. Once ETIAS becomes mandatory, all future trips will require prior authorisation. Check the official EU site before booking to confirm the current position.
 
 ## Related Articles
 
@@ -1609,7 +1609,7 @@ Source: https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-goo
 - Better options exist: encrypted password managers, on-device encrypted apps, or client-side encrypted cloud storage - none of which dump your passport into a general photo library.
 - For most people, the real risk is weak account security, not Google itself: a reused password, a shared login, or someone else who already knows how to get in.
 
-Millions of people store passport scans in Google Photos without thinking twice: you need a copy, you take one, and it backs up automatically. The question of whether that's actually a smart move for your most sensitive identity document rarely comes up until something goes wrong.
+Plenty of people store passport scans in Google Photos without thinking twice: you need a copy, you take one, and it backs up automatically. The question of whether that's actually a smart move for your most sensitive identity document rarely comes up until something goes wrong.
 
 Google Photos isn't some shady operation. The risks of keeping identity documents in a general cloud photo library are real and worth understanding, so you can decide what trade-off you're comfortable with.
 
@@ -2813,9 +2813,9 @@ Keep these with you at all times: passports, boarding passes, travel insurance c
 
 ---
 
-# Can You Travel with an Expired Passport? UK Rules
+# Expired Passport UK: Can You Travel or Book a Holiday?
 
-> You cannot fly internationally on an expired passport. The narrow domestic exceptions, the fastest UK renewal route, and what to do if you are abroad.
+> Booking a trip is not the same as boarding one. What the airline checks, when a renewal still leaves you time, and the narrow domestic exceptions in the UK.
 
 Source: https://traveldocumentvault.com/blog/travel-expired-passport-uk/
 
@@ -2849,6 +2849,14 @@ The only exception is a British emergency travel document, issued by the Foreign
 
 ![Hand-drawn decision tree for an expired passport: international travel is marked not allowed and points to applying for an urgent renewal, domestic travel points to checking with your airline and calling before you travel, with a note to always verify before departure](https://traveldocumentvault.com/blog/travel-expired-passport-uk/passport-expiry-decision-tree.jpg) The two paths from an expired passport - and neither of them is the departure gate.
 
+## Can You Book a Holiday with an Expired Passport?
+
+Booking is not the same as boarding. Nothing stops you paying for flights and a hotel while your passport is out of date, because no one checks the document at the point of sale. The check happens at the airport, and by then the passport has to be valid.
+
+So the question worth asking is not whether you can book, but whether the renewal will land before you fly. Passport offices publish their current processing times, and those move with demand, so check the figure on the day rather than relying on what it was last year.
+
+If the timings look tight, the safer order is to renew first and book once the new passport is in your hand. Airlines are generally under no obligation to refund a ticket you cannot use, and travel insurance rarely covers a document you knew had expired. Our guide to [how long passport renewal takes](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/) sets out what the timelines usually look like.
+
 ## Domestic Travel: Limited Flexibility with Alternative ID
 
 Domestic travel within the UK and Ireland works a little differently: airlines may accept alternative photo identification like a UK driving licence or national ID card in place of a passport. What's acceptable varies significantly by airline and destination, though, so you can't assume any particular ID will work.
@@ -2879,7 +2887,7 @@ The only grey area is how airlines and border control handle passports that are 
 
 Most travel insurance policies include a void clause for expired or invalid travel documents. Insurers can reject your entire claim if you travelled with an expired passport - the language typically reads something like: "This policy is void if the policyholder travelled with an invalid or expired travel document."
 
-This applies whether your passport expired before you left the UK or while you were abroad, and whether the trip was a one-day weekend or a three-month round-the-world journey. A single-day overstay on your passport expiry date can tank an otherwise valid claim worth thousands of pounds.
+This applies whether your passport expired before you left the UK or while you were abroad, and whether the trip was a one-day weekend or a three-month round-the-world journey. A single-day overstay on your passport expiry date can sink an otherwise valid claim.
 
 [If your passport has already expired and you are searching for what to do next, our companion article covers that step-by-step](https://traveldocumentvault.com/blog/passport-expired-what-to-do/). If you have a trip coming up and your passport is approaching expiry, this is the moment to renew rather than wait until it expires, which means paying for the Premium service instead of the standard fee. Check your family's passports now before booking any trip.
 
@@ -2909,9 +2917,9 @@ Do not assume you can travel "because you're coming back before it expires": you
 
 No. Your visa is attached to your passport and only valid if the passport itself is valid. If your passport is expired, the visa becomes invalid regardless of its own expiry date. You cannot use an expired passport even with a valid visa.
 
-### What about EU travel after ETIAS launches in 2026?
+### What about EU travel once ETIAS launches?
 
-[The Entry/Exit System (EES), which began rolling out in late 2025, and ETIAS, currently expected in the last quarter of 2026, will digitalise entry records](https://traveldocumentvault.com/blog/etias-documents-2026/). However, they do not change the passport validity requirement. You will still need a valid passport to enter the Schengen area or any EU country. An expired passport will be rejected regardless of your ETIAS status.
+[The Entry/Exit System (EES), now rolling out, and ETIAS, expected to follow it, will digitalise entry records](https://traveldocumentvault.com/blog/etias-documents-2026/). However, they do not change the passport validity requirement. You will still need a valid passport to enter the Schengen area or any EU country. An expired passport will be rejected regardless of your ETIAS status.
 
 ### Can I apply for emergency renewal while abroad?
 
@@ -3007,7 +3015,7 @@ A handwritten card does the job as well as a printout: policy number, insurer na
 | **Physical copy (laminated card or printout)** | Yes, always accessible | Fastest if your phone is dead or lost | Lost if passport is lost; keep in separate pocket |
 | **Encrypted app (e.g. Travel Document Vault)** | Yes, stored locally on phone | Instant access, designed for this scenario | Encrypted and private; cloud backup optional |
 
-## Common Claims Mistakes That Cost Thousands
+## Common Claims Mistakes and How to Avoid Them
 
 Even if you have your documents accessible, you can still lose your claim if you mishandle the process. The most common rejection reasons are:
 
@@ -3839,7 +3847,7 @@ The app handles all of them. Anything with an expiry date - passports, visas, wo
 
 ## When things go wrong abroad
 
-Hundreds of thousands of passports are lost or stolen every year across the US, UK, and Canada combined. If it happens to you overseas, you're not starting from nothing.
+Passports get lost and stolen abroad every day, and replacing one from another country is slow work. If it happens to you overseas, you're not starting from nothing.
 
 Document numbers, expiry dates, clear scans - all ready when you need to file a report or reach an embassy. It doesn't replace your originals, but it gives you what you need to move forward fast. No Wi-Fi, no panic.
 

@@ -72,7 +72,7 @@ Um cartão escrito à mão funciona tão bem como uma impressão: número da ap�
 | **Cópia física (cartão laminado ou impressão)** | Sim, sempre acessível | Mais rápido se o telemóvel está morto ou perdido | Perdido se o passaporte se perder; guarde num bolso separado |
 | **Aplicação encriptada (p.ex. Travel Document Vault)** | Sim, armazenado localmente no telemóvel | Acesso instantâneo, criada para este cenário | Encriptada e privada; cópia de segurança na cloud opcional |
 
-## Erros Comuns em Reclamações Que Custam Milhares
+## Erros Comuns em Reclamações e Como Evitá-los
 
 Mesmo que tenha os seus documentos acessíveis, ainda pode perder a reclamação se lidar mal com o processo. As razões de rejeição mais comuns são:
 

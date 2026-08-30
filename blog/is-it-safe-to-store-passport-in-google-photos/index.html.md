@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-goo
 - Better options exist: encrypted password managers, on-device encrypted apps, or client-side encrypted cloud storage - none of which dump your passport into a general photo library.
 - For most people, the real risk is weak account security, not Google itself: a reused password, a shared login, or someone else who already knows how to get in.
 
-Millions of people store passport scans in Google Photos without thinking twice: you need a copy, you take one, and it backs up automatically. The question of whether that's actually a smart move for your most sensitive identity document rarely comes up until something goes wrong.
+Plenty of people store passport scans in Google Photos without thinking twice: you need a copy, you take one, and it backs up automatically. The question of whether that's actually a smart move for your most sensitive identity document rarely comes up until something goes wrong.
 
 Google Photos isn't some shady operation. The risks of keeping identity documents in a general cloud photo library are real and worth understanding, so you can decide what trade-off you're comfortable with.
 

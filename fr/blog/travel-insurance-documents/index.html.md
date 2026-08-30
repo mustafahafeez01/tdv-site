@@ -72,7 +72,7 @@ Une carte manuscrite fait le même travail qu'une impression : numéro de police
 | **Copie physique (carte laminée ou impression)** | Oui, toujours accessible | Le plus rapide si votre téléphone est mort ou perdu | Perdu si le passeport est perdu ; conserver dans poche distincte |
 | **Application chiffrée (p. ex. Travel Document Vault)** | Oui, stocké localement sur téléphone | Accès instantané, conçu pour ce scénario | Chiffré et privé ; sauvegarde cloud facultative |
 
-## Erreurs courantes de réclamation qui coûtent des milliers
+## Erreurs de réclamation courantes et comment les éviter
 
 Même si vous avez vos documents accessibles, vous pouvez toujours perdre votre réclamation si vous gérez mal le processus. Les raisons de refus les plus courantes sont :
 

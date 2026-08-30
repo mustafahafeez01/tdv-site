@@ -70,7 +70,7 @@ L'application gère tout. N'importe quel document avec une date d'expiration - p
 
 ## Quand les choses tournent mal à l'étranger
 
-Des centaines de milliers de passeports sont perdus ou volés chaque année aux États-Unis, au Royaume-Uni et au Canada combinés. Si cela vous arrive à l'étranger, vous ne commencez pas de zéro.
+Des passeports se perdent ou se font voler à l'étranger tous les jours, et en remplacer un depuis un autre pays est une démarche longue. Si cela vous arrive à l'étranger, vous ne commencez pas de zéro.
 
 Les numéros de documents, les dates d'expiration, les numérisations claires - tout prêt quand vous devez déposer un rapport ou contacter une ambassade. Cela ne remplace pas vos originaux, mais cela vous donne ce dont vous avez besoin pour avancer rapidement. Pas de Wi-Fi, pas de panique.
 

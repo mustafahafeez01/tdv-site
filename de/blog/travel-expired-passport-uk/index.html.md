@@ -1,6 +1,6 @@
-# Können Sie mit einem abgelaufenen Pass reisen? UK-Regeln
+# Abgelaufener Pass UK: Können Sie reisen oder einen Urlaub buchen?
 
-> Sie können nicht mit einem abgelaufenen Pass international fliegen. Absolute Regeln, Inlandsausnahmen, Noterneuerung und was Fluggesellschaften prüfen.
+> Eine Reise zu buchen ist nicht dasselbe wie zu boarden. Was die Fluggesellschaft prüft, wann eine Erneuerung noch rechtzeitig kommt, und die engen Inlandsausnahmen im UK.
 
 Source: https://traveldocumentvault.com/de/blog/travel-expired-passport-uk/
 
@@ -32,6 +32,14 @@ Diese Regel gilt für alle internationalen Reisen - Flüge nach Europa oder Fäh
 
 Die einzige Ausnahme ist ein britisches Notfalltravelsdokument, ausgestellt vom Foreign Office, wenn Sie bereits im Ausland in einem echten Notfall sind, und selbst dann existiert es nur, um Sie nach Hause zu bringen - nicht um weitere Reisen zu ermöglichen.
 
+## Können Sie mit einem abgelaufenen Pass einen Urlaub buchen?
+
+Buchen ist nicht dasselbe wie Boarding. Nichts hindert Sie daran, Flüge und ein Hotel zu bezahlen, während Ihr Pass abgelaufen ist, denn niemand prüft das Dokument beim Kauf. Die Prüfung findet am Flughafen statt, und dann muss der Pass gültig sein.
+
+Die eigentliche Frage ist also nicht, ob Sie buchen können, sondern ob die Erneuerung vor Ihrem Abflug fertig sein wird. Passämter veröffentlichen ihre aktuellen Bearbeitungszeiten, die sich je nach Nachfrage ändern, also prüfen Sie den Wert am selben Tag, statt sich auf die Zahl vom letzten Jahr zu verlassen.
+
+Wenn die Zeit knapp wird, ist die sicherere Reihenfolge, zuerst zu erneuern und erst zu buchen, sobald der neue Pass vorliegt. Fluggesellschaften sind in der Regel nicht verpflichtet, ein Ticket zu erstatten, das Sie nicht nutzen können, und die Reiseversicherung deckt selten ein Dokument ab, von dem Sie wussten, dass es abgelaufen war. Unser Leitfaden zur [Dauer der Passerneuerung](https://traveldocumentvault.com/de/blog/how-long-does-passport-renewal-take/) zeigt, wie die Fristen üblicherweise aussehen.
+
 ## Inlandverkehr: Begrenzte Flexibilität mit Alternativausweisen
 
 Inlandverkehr im UK und Irland unterscheidet sich von internationalem Verkehr in dieser wichtigen Hinsicht: Fluggesellschaften können alternative Ausweisdokumente wie einen UK-Führerschein oder Personalausweis statt eines Passes akzeptieren. Allerdings ist das, was akzeptabel ist, sehr unterschiedlich je nach Fluggesellschaft und Ziel, daher können Sie nicht davon ausgehen, dass ein bestimmter Ausweis funktioniert.
@@ -62,7 +70,7 @@ Der einzige Graubereich, der existiert, ist wie Fluggesellschaften und Grenzkont
 
 Die meisten Reiseversicherungspolicen enthalten eine Ausschlussklausel für abgelaufene oder ungültige Reisedokumente. Versicherer können Ihren gesamten Schadensersatzanspruch ablehnen, wenn Sie mit einem abgelaufenen Pass reisten - die Sprache liest typischerweise etwa wie: "Diese Police ist ungültig, wenn der Versicherte mit einem ungültigen oder abgelaufenem Reisedokument reiste."
 
-Dies gilt, unabhängig davon, ob Ihr Pass vor Ihrer Abreise aus der UK oder während Sie im Ausland waren abgelaufen ist, und unabhängig davon, ob die Reise ein eintägiges Wochenende oder eine dreimonatige Weltreise war. Ein einzelner Tag Überziehung bei Ihrem Passablaufdatum kann einen ansonsten gültigen Schadensersatzanspruch im Wert von Tausenden von Pfund zum Scheitern bringen.
+Dies gilt, unabhängig davon, ob Ihr Pass vor Ihrer Abreise aus der UK oder während Sie im Ausland waren abgelaufen ist, und unabhängig davon, ob die Reise ein eintägiges Wochenende oder eine dreimonatige Weltreise war. Ein einzelner Tag Überziehung bei Ihrem Passablaufdatum kann einen ansonsten gültigen Schadensersatzanspruch zum Scheitern bringen.
 
 [Wenn Ihr Pass bereits abgelaufen ist und Sie suchen, was Sie als Nächstes tun können, behandelt unser Begleitartikel das Schritt für Schritt](https://traveldocumentvault.com/de/blog/passport-expired-what-to-do/). Wenn Sie eine Reise planen und Ihr Pass dem Ablaufdatum näher kommt, ist jetzt der Moment zu erneuern, anstatt zu warten, bis es abläuft, was bedeutet, für den Premium-Service zu bezahlen, anstatt für die Standardgebühr. Überprüfen Sie die Pässe Ihrer Familie jetzt, bevor Sie eine Reise buchen.
 
@@ -92,9 +100,9 @@ Nehmen Sie nicht an, dass Sie reisen können, "weil Sie zurückommen, bevor es a
 
 Nein. Ihr Visum ist an Ihren Pass angebracht und nur gültig, wenn der Pass selbst gültig ist. Wenn Ihr Pass abgelaufen ist, wird das Visum ungültig, unabhängig von seinem eigenen Ablaufdatum. Sie können einen abgelaufenen Pass auch nicht mit einem gültigen Visum nutzen.
 
-### Was ist mit EU-Reisen, nachdem ETIAS 2026 startet?
+### Was ist mit EU-Reisen, sobald ETIAS startet?
 
-[Das Entry/Exit System (EES), das Ende 2025 mit dem Rollout begann, und ETIAS, derzeit für das letzte Quartal 2026 erwartet, werden Einreiseunterlagen digitalisieren](https://traveldocumentvault.com/de/blog/etias-documents-2026/). Sie ändern jedoch nicht die Passgültigkeitsanforderung. Sie benötigen trotzdem einen gültigen Pass, um den Schengen-Raum oder ein EU-Land zu betreten. Ein abgelaufenem Pass wird unabhängig von Ihrem ETIAS-Status abgelehnt.
+[Das Entry/Exit System (EES), das bereits eingeführt wird, und ETIAS, das voraussichtlich folgen wird, werden Einreiseunterlagen digitalisieren](https://traveldocumentvault.com/de/blog/etias-documents-2026/). Sie ändern jedoch nicht die Passgültigkeitsanforderung. Sie benötigen trotzdem einen gültigen Pass, um den Schengen-Raum oder ein EU-Land zu betreten. Ein abgelaufener Pass wird unabhängig von Ihrem ETIAS-Status abgelehnt.
 
 ### Kann ich die Noterneuerung beantragen, während ich im Ausland bin?
 

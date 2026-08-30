@@ -70,7 +70,7 @@ L'app le gestisce tutte. Qualsiasi documento con una data di scadenza, passaport
 
 ## Quando le cose vanno storte all'estero
 
-Ogni anno vengono persi o rubati centinaia di migliaia di passaporti solo tra Stati Uniti, Regno Unito e Canada. Se dovesse succedere all'estero, non si parte da zero.
+Ogni giorno vengono persi o rubati passaporti all'estero, e sostituirne uno da un altro paese è una procedura lenta. Se dovesse succedere all'estero, non si parte da zero.
 
 Numeri di documento, date di scadenza, scansioni nitide, tutto pronto quando è necessario sporgere denuncia o contattare un'ambasciata. Non sostituisce gli originali, ma Le dà tutto ciò che serve per andare avanti rapidamente. Senza Wi-Fi, senza panico.
 

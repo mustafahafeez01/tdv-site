@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/id/blog/travel-insurance-documents/
 - Klaim ditolak paling sering karena dokumentasi yang hilang: laporan polisi untuk pencurian, kwitansi asli, formulir klaim yang ditandatangani.
 - Baca bagian utama polis Anda dengan cepat dengan fokus pada batas cakupan, pengecualian, dan kondisi.
 
-Anda telah membayar untuk asuransi perjalanan. Kemudian datang keadaan darurat medis di luar negeri, tas dicuri di bandara, penerbangan dibatalkan di tengah perjalanan. Dapatkah Anda benar-benar menemukan nomor polis Anda, lini darurat 24 jam perusahaan asuransi Anda, atau bukti apa yang ditanggung? Sebagian besar pelancong tidak bisa. Artikel ini membahas apa yang harus disimpan sebelum Anda pergi, di mana menyimpannya agar dapat diakses tanpa internet, dan cara menghindari kesalahan klaim yang merugikan ribuan dolar.
+Anda telah membayar untuk asuransi perjalanan. Kemudian datang keadaan darurat medis di luar negeri, tas dicuri di bandara, penerbangan dibatalkan di tengah perjalanan. Dapatkah Anda benar-benar menemukan nomor polis Anda, lini darurat 24 jam perusahaan asuransi Anda, atau bukti apa yang ditanggung? Sebagian besar pelancong tidak bisa. Artikel ini membahas apa yang harus disimpan sebelum Anda pergi, di mana menyimpannya agar dapat diakses tanpa internet, dan cara menghindari kesalahan klaim yang menyebabkan klaim ditolak.
 
 ## Apa yang Sebenarnya Terjadi Saat Anda Membutuhkan Asuransi Anda
 
@@ -72,7 +72,7 @@ Kartu tertulis tangan berhasil sama baiknya dengan cetakan: nomor polis, nama pe
 | **Salinan fisik (kartu terlaminasi atau cetakan)** | Ya, selalu dapat diakses | Tercepat jika ponsel Anda mati atau hilang | Hilang jika paspor hilang; simpan di saku terpisah |
 | **Aplikasi terenkripsi (misal Travel Document Vault)** | Ya, disimpan secara lokal di ponsel | Akses instan, dirancang untuk skenario ini | Terenkripsi dan pribadi; cadangan cloud opsional |
 
-## Kesalahan Klaim Umum yang Merugikan Ribuan Dolar
+## Kesalahan Klaim Umum dan Cara Menghindarinya
 
 Bahkan jika Anda memiliki dokumen yang dapat diakses, Anda masih bisa kehilangan klaim jika Anda menangani proses dengan tidak benar. Alasan penolakan yang paling umum adalah:
 

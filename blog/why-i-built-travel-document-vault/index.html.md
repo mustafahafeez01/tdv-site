@@ -72,7 +72,7 @@ The app handles all of them. Anything with an expiry date - passports, visas, wo
 
 ## When things go wrong abroad
 
-Hundreds of thousands of passports are lost or stolen every year across the US, UK, and Canada combined. If it happens to you overseas, you're not starting from nothing.
+Passports get lost and stolen abroad every day, and replacing one from another country is slow work. If it happens to you overseas, you're not starting from nothing.
 
 Document numbers, expiry dates, clear scans - all ready when you need to file a report or reach an embassy. It doesn't replace your originals, but it gives you what you need to move forward fast. No Wi-Fi, no panic.
 

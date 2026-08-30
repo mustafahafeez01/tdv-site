@@ -70,7 +70,7 @@ Appen hanterar dem alla. Allt med ett utgångsdatum – pass, visum, arbetstills
 
 ## När det går fel utomlands
 
-Hundratusentals pass tappas bort eller stjäls varje år i USA, Storbritannien och Kanada sammantaget. Om det händer dig utomlands börjar du inte från noll.
+Pass tappas bort och blir stulna utomlands varje dag, och att ersätta ett från ett annat land är en långsam process. Om det händer dig utomlands börjar du inte från noll.
 
 Dokumentnummer, utgångsdatum, tydliga kopior – allt klart när du behöver göra en anmälan eller kontakta en ambassad. Det ersätter inte originalen, men det ger dig det du behöver för att komma vidare snabbt. Ingen Wi-Fi, ingen panik.
 

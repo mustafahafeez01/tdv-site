@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/nl/blog/travel-insurance-documents/
 - Vorderingen worden het vaakst afgewezen vanwege ontbrekende documentatie: politierapport voor diefstal, originele bonnen, ondertekende claimformulieren.
 - Lees de belangrijkste secties van je polis snel door je op dekkingslimieten, uitsluitingen en voorwaarden te richten.
 
-Je hebt geld betaald voor reisverzeking. Dan komt de medische noodsituatie in het buitenland, je rugzak wordt gestolen op het vliegveld, je vlucht wordt halverwege geannuleerd. Kun je daadwerkelijk je polisnummer vinden, de 24-uurse noodlijn van je verzekeraar, of een bewijs van wat wel gedekt is? De meeste reizigers kunnen dat niet. Dit artikel behandelt wat je voordat je vertrekt moet bewaren, waar je het opslaat zodat je het zonder internet kunt benaderen, en hoe je fouten vermijdt die duizenden kosten.
+Je hebt geld betaald voor reisverzeking. Dan komt de medische noodsituatie in het buitenland, je rugzak wordt gestolen op het vliegveld, je vlucht wordt halverwege geannuleerd. Kun je daadwerkelijk je polisnummer vinden, de 24-uurse noodlijn van je verzekeraar, of een bewijs van wat wel gedekt is? De meeste reizigers kunnen dat niet. Dit artikel behandelt wat je voordat je vertrekt moet bewaren, waar je het opslaat zodat je het zonder internet kunt benaderen, en hoe je fouten vermijdt die tot afwijzing van je claim leiden.
 
 ## Wat gebeurt er als je je verzekering nodig hebt
 
@@ -72,7 +72,7 @@ Een handgeschreven kaartje doet net zo goed dienst als een afdruk: polisnummer, 
 | **Fysieke kopie (gelamineerde kaart of afdruk)** | Ja, altijd toegankelijk | Snelste als je telefoon leeg of verloren is | Verloren als paspoort verloren; bewaar in ander vakje |
 | **Versleutelde app (bijv. Travel Document Vault)** | Ja, lokaal opgeslagen op telefoon | Direct toegankelijk, ontworpen voor dit scenario | Versleuteld en privé; cloud-back-up optioneel |
 
-## Veelvoorkomende fouten bij vorderingen die duizenden kosten
+## Veelvoorkomende fouten bij vorderingen en hoe je ze vermijdt
 
 Zelfs als je je documenten bereikbaar hebt, kun je je vordering nog verliezen als je het proces verkeerd aanpakt. De meest voorkomende afwijzingsredenen zijn:
 

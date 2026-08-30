@@ -1,6 +1,6 @@
-# Can You Travel with an Expired Passport? UK Rules
+# Expired Passport UK: Can You Travel or Book a Holiday?
 
-> You cannot fly internationally on an expired passport. The narrow domestic exceptions, the fastest UK renewal route, and what to do if you are abroad.
+> Booking a trip is not the same as boarding one. What the airline checks, when a renewal still leaves you time, and the narrow domestic exceptions in the UK.
 
 Source: https://traveldocumentvault.com/blog/travel-expired-passport-uk/
 
@@ -34,6 +34,14 @@ The only exception is a British emergency travel document, issued by the Foreign
 
 ![Hand-drawn decision tree for an expired passport: international travel is marked not allowed and points to applying for an urgent renewal, domestic travel points to checking with your airline and calling before you travel, with a note to always verify before departure](https://traveldocumentvault.com/blog/travel-expired-passport-uk/passport-expiry-decision-tree.jpg) The two paths from an expired passport - and neither of them is the departure gate.
 
+## Can You Book a Holiday with an Expired Passport?
+
+Booking is not the same as boarding. Nothing stops you paying for flights and a hotel while your passport is out of date, because no one checks the document at the point of sale. The check happens at the airport, and by then the passport has to be valid.
+
+So the question worth asking is not whether you can book, but whether the renewal will land before you fly. Passport offices publish their current processing times, and those move with demand, so check the figure on the day rather than relying on what it was last year.
+
+If the timings look tight, the safer order is to renew first and book once the new passport is in your hand. Airlines are generally under no obligation to refund a ticket you cannot use, and travel insurance rarely covers a document you knew had expired. Our guide to [how long passport renewal takes](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/) sets out what the timelines usually look like.
+
 ## Domestic Travel: Limited Flexibility with Alternative ID
 
 Domestic travel within the UK and Ireland works a little differently: airlines may accept alternative photo identification like a UK driving licence or national ID card in place of a passport. What's acceptable varies significantly by airline and destination, though, so you can't assume any particular ID will work.
@@ -64,7 +72,7 @@ The only grey area is how airlines and border control handle passports that are 
 
 Most travel insurance policies include a void clause for expired or invalid travel documents. Insurers can reject your entire claim if you travelled with an expired passport - the language typically reads something like: "This policy is void if the policyholder travelled with an invalid or expired travel document."
 
-This applies whether your passport expired before you left the UK or while you were abroad, and whether the trip was a one-day weekend or a three-month round-the-world journey. A single-day overstay on your passport expiry date can tank an otherwise valid claim worth thousands of pounds.
+This applies whether your passport expired before you left the UK or while you were abroad, and whether the trip was a one-day weekend or a three-month round-the-world journey. A single-day overstay on your passport expiry date can sink an otherwise valid claim.
 
 [If your passport has already expired and you are searching for what to do next, our companion article covers that step-by-step](https://traveldocumentvault.com/blog/passport-expired-what-to-do/). If you have a trip coming up and your passport is approaching expiry, this is the moment to renew rather than wait until it expires, which means paying for the Premium service instead of the standard fee. Check your family's passports now before booking any trip.
 
@@ -94,9 +102,9 @@ Do not assume you can travel "because you're coming back before it expires": you
 
 No. Your visa is attached to your passport and only valid if the passport itself is valid. If your passport is expired, the visa becomes invalid regardless of its own expiry date. You cannot use an expired passport even with a valid visa.
 
-### What about EU travel after ETIAS launches in 2026?
+### What about EU travel once ETIAS launches?
 
-[The Entry/Exit System (EES), which began rolling out in late 2025, and ETIAS, currently expected in the last quarter of 2026, will digitalise entry records](https://traveldocumentvault.com/blog/etias-documents-2026/). However, they do not change the passport validity requirement. You will still need a valid passport to enter the Schengen area or any EU country. An expired passport will be rejected regardless of your ETIAS status.
+[The Entry/Exit System (EES), now rolling out, and ETIAS, expected to follow it, will digitalise entry records](https://traveldocumentvault.com/blog/etias-documents-2026/). However, they do not change the passport validity requirement. You will still need a valid passport to enter the Schengen area or any EU country. An expired passport will be rejected regardless of your ETIAS status.
 
 ### Can I apply for emergency renewal while abroad?
 

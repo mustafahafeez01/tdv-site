@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/it/blog/is-it-safe-to-store-passport-in-
 - Esistono opzioni migliori: gestori di password crittografati, app crittografate sul dispositivo o archiviazione cloud crittografata lato client - nessuna delle quali archivia il passaporto in una libreria foto generica.
 - Per la maggior parte delle persone, il rischio reale non è Google - è una sicurezza dell'account debole e chi altro può accedere all'account.
 
-Milioni di persone archiviano scansioni di passaporti in Google Photos senza pensarci due volte. È necessaria una copia, si scatta una foto, viene eseguito il backup automaticamente. Fatto. La domanda se questa sia effettivamente una scelta intelligente per il documento di identità più sensibile raramente emerge - fino a quando qualcosa non va storto.
+Molte persone archiviano scansioni di passaporti in Google Photos senza pensarci due volte. È necessaria una copia, si scatta una foto, viene eseguito il backup automaticamente. Fatto. La domanda se questa sia effettivamente una scelta intelligente per il documento di identità più sensibile raramente emerge - fino a quando qualcosa non va storto.
 
 Google Photos non è un'operazione losca. I rischi di mantenere documenti di identità in una libreria foto cloud generica sono reali e vale la pena comprenderli, in modo da poter decidere quale compromesso si è disposti ad accettare.
 

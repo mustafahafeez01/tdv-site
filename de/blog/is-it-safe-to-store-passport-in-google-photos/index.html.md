@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/de/blog/is-it-safe-to-store-passport-in-
 - Bessere Optionen gibt es: verschlüsselte Passwort-Manager, lokal verschlüsselte Apps oder clientseitig verschlüsselter Cloud-Speicher - keiner davon speichert Ihren Reisepass in einer allgemeinen Fotobibliothek.
 - Für die meisten Menschen ist das echte Risiko nicht Google - es ist schwache Kontosicherheit und wer sonst noch auf das Konto zugreifen kann.
 
-Millionen von Menschen speichern Reisepass-Scans in Google Photos, ohne zweimal zu überlegen. Sie brauchen eine Kopie, machen ein Foto, es wird automatisch gesichert. Fertig. Die Frage, ob das tatsächlich eine intelligente Entscheidung für Ihr sensibelstes Identitätsdokument ist, kommt selten auf - bis etwas schiefgeht.
+Viele Menschen speichern Reisepass-Scans in Google Photos, ohne zweimal zu überlegen. Sie brauchen eine Kopie, machen ein Foto, es wird automatisch gesichert. Fertig. Die Frage, ob das tatsächlich eine intelligente Entscheidung für Ihr sensibelstes Identitätsdokument ist, kommt selten auf - bis etwas schiefgeht.
 
 Google Photos ist keine fragwürdige Operation. Die Risiken der Aufbewahrung von Identitätsdokumenten in einer allgemeinen Cloud-Fotobibliothek sind real und lohnen sich zu verstehen, damit Sie entscheiden können, welchen Kompromiss Sie eingehen können.
 

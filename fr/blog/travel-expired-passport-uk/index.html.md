@@ -1,6 +1,6 @@
-# Pouvez-vous voyager avec un passeport expiré ? Les règles au Royaume-Uni
+# Passeport expiré au Royaume-Uni : pouvez-vous voyager ou réserver des vacances ?
 
-> Vous ne pouvez pas voyager à l'international avec un passeport expiré. Règles absolues, exceptions nationales, renouvellement d'urgence et vérifications des compagnies aériennes.
+> Réserver un voyage n'est pas la même chose qu'embarquer. Ce que vérifie la compagnie aérienne, quand un renouvellement vous laisse encore le temps, et les rares exceptions nationales au Royaume-Uni.
 
 Source: https://traveldocumentvault.com/fr/blog/travel-expired-passport-uk/
 
@@ -32,6 +32,14 @@ Cette règle s'applique à tous les voyages internationaux, qu'il s'agisse de vo
 
 La seule exception est un document de voyage d'urgence britannique, émis par le Ministère des Affaires étrangères quand vous êtes déjà à l'étranger dans une situation véritablement urgente, et même dans ce cas, il n'existe que pour vous permettre de rentrer - pas de voyager ailleurs.
 
+## Peut-on réserver des vacances avec un passeport expiré ?
+
+Réserver n'est pas la même chose qu'embarquer. Rien ne vous empêche de payer un vol et un hôtel alors que votre passeport est périmé, car personne ne vérifie le document au moment de l'achat. La vérification a lieu à l'aéroport, et à ce moment-là, le passeport doit être valide.
+
+La bonne question n'est donc pas de savoir si vous pouvez réserver, mais si le renouvellement arrivera avant votre départ. Les bureaux des passeports publient leurs délais de traitement actuels, qui évoluent selon la demande. Vérifiez donc le chiffre le jour même plutôt que de vous fier à celui de l'année dernière.
+
+Si les délais semblent serrés, l'ordre le plus sûr consiste à renouveler d'abord, puis à réserver une fois le nouveau passeport en main. Les compagnies aériennes ne sont généralement pas tenues de rembourser un billet que vous ne pouvez pas utiliser, et l'assurance voyage couvre rarement un document dont vous saviez qu'il était expiré. Notre guide sur [la durée du renouvellement de passeport](https://traveldocumentvault.com/fr/blog/how-long-does-passport-renewal-take/) détaille les délais habituels.
+
 ## Voyages domestiques : flexibilité limitée avec pièce d'identité alternative
 
 Les voyages domestiques au sein du Royaume-Uni et en Irlande diffèrent des voyages internationaux sur ce point clé : les compagnies aériennes peuvent accepter une pièce d'identité avec photo alternative comme un permis de conduire britannique ou une carte d'identité nationale à la place d'un passeport. Cependant, ce qui est acceptable varie considérablement selon la compagnie aérienne et la destination, donc vous ne pouvez pas supposer qu'une pièce d'identité particulière fonctionnera.
@@ -62,7 +70,7 @@ La seule zone grise qui existe est comment les compagnies aériennes et le contr
 
 La plupart des polices d'assurance voyage incluent une clause d'annulation pour les documents de voyage expirés ou invalides. Les assureurs peuvent rejeter l'intégralité de votre réclamation si vous avez voyagé avec un passeport expiré. Le libellé se lit généralement quelque chose comme : « Cette police est annulée si l'assuré a voyagé avec un document de voyage invalide ou expiré. »
 
-Cela s'applique, que votre passeport ait expiré avant que vous quittiez le Royaume-Uni ou pendant que vous étiez à l'étranger, et que le voyage était un week-end d'un jour ou un voyage autour du monde de trois mois. Un seul jour de dépassement sur votre date d'expiration de passeport peut anéantir une réclamation par ailleurs valide valant des milliers de livres.
+Cela s'applique, que votre passeport ait expiré avant que vous quittiez le Royaume-Uni ou pendant que vous étiez à l'étranger, et que le voyage était un week-end d'un jour ou un voyage autour du monde de trois mois. Un seul jour de dépassement sur votre date d'expiration de passeport peut anéantir une réclamation par ailleurs valide.
 
 [Si votre passeport a déjà expiré et vous recherchez quoi faire ensuite, notre article complémentaire le couvre étape par étape](https://traveldocumentvault.com/fr/blog/passport-expired-what-to-do/). Si vous avez un voyage à venir et votre passeport approche l'expiration, c'est le moment de renouveler plutôt que d'attendre jusqu'à ce qu'il expire, ce qui signifie payer le service Premium au lieu de la taxe standard. Vérifiez les passeports de votre famille maintenant avant de réserver un voyage.
 
@@ -92,9 +100,9 @@ Ne supposez pas que vous pouvez voyager « parce que vous revenez avant son expi
 
 Non. Votre visa est attaché à votre passeport et n'est valide que si le passeport lui-même est valide. Si votre passeport est expiré, le visa devient invalide, indépendamment de sa propre date d'expiration. Vous ne pouvez pas utiliser un passeport expiré même avec un visa valide.
 
-### Qu'en est-il des voyages en UE après le lancement d'ETIAS en 2026 ?
+### Qu'en est-il des voyages dans l'UE une fois qu'ETIAS sera lancé ?
 
-[Le système d'entrée/sortie (EES), qui a commencé à être déployé à la fin de 2025, et ETIAS, actuellement prévu pour le dernier trimestre de 2026, numériseront les dossiers d'entrée](https://traveldocumentvault.com/fr/blog/etias-documents-2026/). Cependant, ils ne changent pas l'exigence de validité du passeport. Vous aurez toujours besoin d'un passeport valide pour entrer dans la zone Schengen ou tout pays de l'UE. Un passeport expiré sera rejeté, indépendamment de votre statut ETIAS.
+[Le système d'entrée/sortie (EES), actuellement en cours de déploiement, et ETIAS, qui devrait suivre, numériseront les dossiers d'entrée](https://traveldocumentvault.com/fr/blog/etias-documents-2026/). Cependant, ils ne changent pas l'exigence de validité du passeport. Vous aurez toujours besoin d'un passeport valide pour entrer dans la zone Schengen ou tout pays de l'UE. Un passeport expiré sera rejeté, indépendamment de votre statut ETIAS.
 
 ### Puis-je demander un renouvellement d'urgence pendant que je suis à l'étranger ?
 

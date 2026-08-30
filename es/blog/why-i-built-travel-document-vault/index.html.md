@@ -70,7 +70,7 @@ La aplicación los maneja todos. Cualquier cosa con una fecha de vencimiento, pa
 
 ## Cuando las cosas salen mal en el extranjero
 
-Cientos de miles de pasaportes se pierden o roban cada año en Estados Unidos, Reino Unido y Canadá combinados. Si te sucede en el extranjero, no estás empezando desde cero.
+Los pasaportes se pierden y se roban en el extranjero todos los días, y sustituir uno desde otro país es un trámite lento. Si te sucede en el extranjero, no estás empezando desde cero.
 
 Números de documentos, fechas de vencimiento, escaneos claros, todo listo cuando necesites presentar un informe o comunicarte con una embajada. No reemplaza los originales, pero te da lo que necesitas para avanzar rápido. Sin Wi-Fi, sin pánico.
 

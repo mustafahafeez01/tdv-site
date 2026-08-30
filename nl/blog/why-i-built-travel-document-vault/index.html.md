@@ -70,7 +70,7 @@ De app verwerkt ze allemaal. Alles met een verloopdatum, paspoorten, visa, werkv
 
 ## Wanneer er iets misgaat in het buitenland
 
-Jaarlijks worden honderdduizenden paspoorten verloren of gestolen in de VS, het VK en Canada samen. Als het u in het buitenland overkomt, begint u niet van nul.
+Paspoorten raken elke dag kwijt of worden gestolen in het buitenland, en een nieuw exemplaar vanuit een ander land aanvragen is een traag proces. Als het u in het buitenland overkomt, begint u niet van nul.
 
 Documentnummers, verloopdatums, duidelijke scans, alles klaar wanneer u aangifte moet doen of contact moet opnemen met een ambassade. Het vervangt uw originelen niet, maar het geeft u wat u nodig heeft om snel verder te gaan. Geen wifi, geen paniek.
 

@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/da/blog/travel-insurance-documents/
 - Skadesanmeldelser afvises oftest på grund af manglende dokumentation: politirapport for tyveri, originalkvitteringer, underskrevne skadeskemaer.
 - Læs nøgledele af din police hurtigt ved at fokusere på dækningsgrænser, udelukkelser og vilkår.
 
-Du har betalt for rejseforsikring. Så kommer den medicinske nødsituation i udlandet, tasken der bliver stjålet i lufthavnen, eller flyvningen der bliver aflyst midt på rejsen. Kan du egentlig finde dit policenummer, dit forsikringsselskabs 24-timers nødtelefonnummer, eller bevis for hvad der er dækket? De fleste rejsende kan ikke. Denne artikel dækker, hvad du skal gemme før du rejser, hvor du opbevarer det, så du kan få adgang til det uden internet, og hvordan du undgår de skadesanmeldelser, der koster tusinder.
+Du har betalt for rejseforsikring. Så kommer den medicinske nødsituation i udlandet, tasken der bliver stjålet i lufthavnen, eller flyvningen der bliver aflyst midt på rejsen. Kan du egentlig finde dit policenummer, dit forsikringsselskabs 24-timers nødtelefonnummer, eller bevis for hvad der er dækket? De fleste rejsende kan ikke. Denne artikel dækker, hvad du skal gemme før du rejser, hvor du opbevarer det, så du kan få adgang til det uden internet, og hvordan du undgår de skadesanmeldelser, der får kravet afvist.
 
 ## Hvad der reelt sker, når du har brug for din forsikring
 
@@ -72,7 +72,7 @@ Et håndskrevet kort gør samme nytte som et udprint: policenummer, forsikringss
 | **Fysisk kopi (lamineret kort eller udprint)** | Ja, altid tilgængeligt | Hurtigste hvis din telefon er død eller tabt | Tabt hvis pas går tabt; bevar i anden lomme |
 | **Krypteret app (f.eks. Travel Document Vault)** | Ja, opbevaret lokalt på telefonen | Øjeblikkeligt adgang, designet til dette scenarie | Krypteret og privat; skylagring valgfrit |
 
-## Almindelige skadesanmeldelser, der koster tusinder
+## Almindelige fejl ved skadesanmeldelser, og hvordan du undgår dem
 
 Selv hvis du har dine dokumenter tilgængelig, kan du stadig miste dit krav, hvis du mishandler processen. De mest almindelige afvisningsårsager er:
 

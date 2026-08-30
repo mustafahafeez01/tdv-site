@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/de/blog/travel-insurance-documents/
 - Ansprüche werden am häufigsten abgelehnt, weil Dokumente fehlen: Polizeibericht für Diebstahl, Originalquittungen, unterzeichnete Anspruchsformulare.
 - Lesen Sie die wichtigsten Abschnitte Ihrer Versicherung schnell durch, indem Sie sich auf Deckungsgrenzen, Ausschlüsse und Bedingungen konzentrieren.
 
-Sie haben Ihre Reiseversicherung abgeschlossen. Dann kommt der medizinische Notfall im Ausland, der Koffer wird am Flughafen gestohlen, der Flug wird abgesagt. Können Sie tatsächlich Ihre Versicherungsnummer finden, die 24-Stunden-Notfallhotline oder einen Nachweis, was abgedeckt ist? Die meisten Reisenden können das nicht. Dieser Artikel behandelt, was Sie vor der Abreise speichern sollten, wo Sie es offline speichern, damit es erreichbar ist, und wie Sie die Fehler bei Anspruchsmitteilungen vermeiden, die tausende kosten.
+Sie haben Ihre Reiseversicherung abgeschlossen. Dann kommt der medizinische Notfall im Ausland, der Koffer wird am Flughafen gestohlen, der Flug wird abgesagt. Können Sie tatsächlich Ihre Versicherungsnummer finden, die 24-Stunden-Notfallhotline oder einen Nachweis, was abgedeckt ist? Die meisten Reisenden können das nicht. Dieser Artikel behandelt, was Sie vor der Abreise speichern sollten, wo Sie es offline speichern, damit es erreichbar ist, und wie Sie die Fehler bei Anspruchsmitteilungen vermeiden, die zur Ablehnung führen.
 
 ## Was tatsächlich passiert, wenn Sie Ihre Versicherung brauchen
 
@@ -72,7 +72,7 @@ Eine handgeschriebene Karte funktioniert genauso gut wie ein Ausdruck: Versicher
 | **Physische Kopie (laminierte Karte oder Ausdruck)** | Ja, immer erreichbar | Am schnellsten, wenn Ihr Telefon leer oder weg ist | Geht verloren, wenn Pass verloren geht; in separater Tasche aufbewahren |
 | **Verschlüsselte App (z.B. Travel Document Vault)** | Ja, lokal auf Telefon gespeichert | Sofort erreichbar, dafür entwickelt | Verschlüsselt und privat; Cloud-Sicherung optional |
 
-## Häufige Fehler bei Ansprüchen, die tausende kosten
+## Häufige Fehler bei Ansprüchen und wie Sie sie vermeiden
 
 Selbst wenn Sie Ihre Dokumente erreichbar haben, können Sie Ihren Anspruch verlieren, wenn Sie den Prozess falsch handhaben. Die häufigsten Ablehnungsgründe sind:
 

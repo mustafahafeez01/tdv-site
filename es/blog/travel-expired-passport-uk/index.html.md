@@ -1,6 +1,6 @@
-# ¿Puedes viajar con un pasaporte expirado? Normas del Reino Unido
+# Pasaporte expirado en el Reino Unido: ¿puedes viajar o reservar unas vacaciones?
 
-> No puedes viajar internacionalmente con un pasaporte expirado. Normas absolutas, excepciones nacionales, renovación de emergencia y lo que comprueban las aerolíneas.
+> Reservar un viaje no es lo mismo que embarcar en él. Lo que comprueba la aerolínea, cuándo una renovación todavía te deja tiempo, y las estrechas excepciones nacionales en el Reino Unido.
 
 Source: https://traveldocumentvault.com/es/blog/travel-expired-passport-uk/
 
@@ -32,6 +32,14 @@ Esta norma se aplica a todos los viajes internacionales - vuelos a Europa o trav
 
 La única excepción es un documento de viaje de emergencia británico, emitido por la Oficina de Asuntos Exteriores cuando ya estás en el extranjero en una emergencia genuina, y aun así solo existe para llevarte a casa - no para permitir viajes posteriores.
 
+## ¿Puedes reservar unas vacaciones con un pasaporte expirado?
+
+Reservar no es lo mismo que embarcar. Nada te impide pagar vuelos y un hotel mientras tu pasaporte está caducado, porque nadie comprueba el documento en el momento de la compra. La verificación ocurre en el aeropuerto, y para entonces el pasaporte debe ser válido.
+
+Así que la pregunta que vale la pena hacerse no es si puedes reservar, sino si la renovación llegará antes de que viajes. Las oficinas de pasaportes publican sus tiempos de tramitación actuales, que varían según la demanda, así que comprueba la cifra el mismo día en lugar de fiarte de la del año pasado.
+
+Si los plazos parecen ajustados, el orden más seguro es renovar primero y reservar una vez que tengas el nuevo pasaporte en mano. Las aerolíneas generalmente no están obligadas a reembolsar un billete que no puedes usar, y el seguro de viaje rara vez cubre un documento que sabías que había expirado. Nuestra guía sobre [cuánto tarda la renovación del pasaporte](https://traveldocumentvault.com/es/blog/how-long-does-passport-renewal-take/) explica cómo suelen ser los plazos.
+
 ## Viajes nacionales: Flexibilidad limitada con identidad alternativa
 
 Los viajes nacionales dentro del Reino Unido e Irlanda difieren de los viajes internacionales en este aspecto clave: las aerolíneas pueden aceptar identificación fotográfica alternativa como una licencia de conducir del Reino Unido o tarjeta de identidad nacional en lugar de un pasaporte. Sin embargo, lo que es aceptable varía significativamente según la aerolínea y el destino, así que no puedes asumir que cualquier identificación funcionará.
@@ -62,7 +70,7 @@ La única área gris que existe es cómo las aerolíneas y el control de fronter
 
 La mayoría de las pólizas de seguro de viaje incluyen una cláusula de anulación para documentos de viaje expirados o inválidos. Los asegurados pueden rechazar tu reclamo completo si viajaste con un pasaporte expirado - el lenguaje típicamente dice algo como: "Esta póliza se anula si el asegurado viajó con un documento de viaje inválido o expirado."
 
-Esto se aplica sin importar si tu pasaporte expiró antes de que salieras del Reino Unido o mientras estabas en el extranjero, y sin importar si el viaje fue un fin de semana de un día o un viaje alrededor del mundo de tres meses. Una sola expiración de un día en tu fecha de expiración del pasaporte puede anular un reclamo válido que de otro modo tendría un valor de miles de libras.
+Esto se aplica sin importar si tu pasaporte expiró antes de que salieras del Reino Unido o mientras estabas en el extranjero, y sin importar si el viaje fue un fin de semana de un día o un viaje alrededor del mundo de tres meses. Una sola expiración de un día en tu fecha de expiración del pasaporte puede anular un reclamo que de otro modo sería válido.
 
 [Si tu pasaporte ya ha expirado y estás buscando qué hacer a continuación, nuestro artículo complementario cubre eso paso a paso](https://traveldocumentvault.com/es/blog/passport-expired-what-to-do/). Si tienes un viaje próximo y tu pasaporte se está acercando a la expiración, este es el momento para renovar en lugar de esperar a que expire, lo que significa pagar por el servicio Premium en lugar de la tarifa estándar. Verifica los pasaportes de tu familia ahora antes de reservar cualquier viaje.
 
@@ -92,9 +100,9 @@ No asumas que puedes viajar "porque estás regresando antes de que expire" - tu 
 
 No. Tu visa está adjunta a tu pasaporte y solo es válida si el pasaporte mismo es válido. Si tu pasaporte está expirado, la visa se vuelve inválida sin importar su propia fecha de expiración. No puedes usar un pasaporte expirado incluso con una visa válida.
 
-### ¿Qué hay sobre viajes a la UE después del lanzamiento de ETIAS en 2026?
+### ¿Qué pasa con los viajes a la UE una vez que se lance ETIAS?
 
-[El Sistema de Entrada/Salida (EES), que comenzó su lanzamiento a fines de 2025, y ETIAS, actualmente esperado en el último trimestre de 2026, digitalizarán los registros de entrada](https://traveldocumentvault.com/es/blog/etias-documents-2026/). Sin embargo, no cambian el requisito de validez del pasaporte. Seguirás necesitando un pasaporte válido para entrar al área Schengen o a cualquier país de la UE. Un pasaporte expirado será rechazado sin importar tu estado de ETIAS.
+[El Sistema de Entrada/Salida (EES), que ya se está implementando, y ETIAS, que se espera que lo siga, digitalizarán los registros de entrada](https://traveldocumentvault.com/es/blog/etias-documents-2026/). Sin embargo, no cambian el requisito de validez del pasaporte. Seguirás necesitando un pasaporte válido para entrar al área Schengen o a cualquier país de la UE. Un pasaporte expirado será rechazado sin importar tu estado de ETIAS.
 
 ### ¿Puedo solicitar renovación de emergencia mientras estoy en el extranjero?
 

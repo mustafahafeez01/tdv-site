@@ -1,6 +1,6 @@
-# Pode Viajar com um Passaporte Expirado? Regras do Reino Unido
+# Passaporte Expirado no Reino Unido: Pode Viajar ou Reservar Férias?
 
-> Não pode viajar internacionalmente com um passaporte expirado. Regras absolutas, exceções domésticas, renovação de emergência e o que as companhias aéreas verificam.
+> Reservar uma viagem não é o mesmo que embarcar nela. O que a companhia aérea verifica, quando uma renovação ainda lhe deixa tempo, e as reduzidas exceções domésticas no Reino Unido.
 
 Source: https://traveldocumentvault.com/pt/blog/travel-expired-passport-uk/
 
@@ -32,6 +32,14 @@ Esta regra aplica-se a todas as viagens internacionais - voos para a Europa ou t
 
 A única exceção é um documento de viagem de emergência britânico, emitido pelo Ministério dos Negócios Estrangeiros quando já está no estrangeiro numa emergência genuína, e mesmo assim existe apenas para o levar a casa - não para permitir viagens adicionais.
 
+## Pode Reservar Férias com um Passaporte Expirado?
+
+Reservar não é o mesmo que embarcar. Nada o impede de pagar voos e um hotel enquanto o seu passaporte está expirado, porque ninguém verifica o documento no momento da compra. A verificação acontece no aeroporto, e nessa altura o passaporte tem de ser válido.
+
+Por isso, a pergunta que vale a pena fazer não é se pode reservar, mas se a renovação chegará antes de viajar. Os escritórios de passaportes publicam os seus tempos de processamento atuais, que variam consoante a procura, portanto verifique o valor no próprio dia em vez de confiar no do ano passado.
+
+Se os prazos parecerem apertados, a ordem mais segura é renovar primeiro e reservar apenas depois de ter o novo passaporte em mãos. As companhias aéreas geralmente não são obrigadas a reembolsar um bilhete que não pode usar, e o seguro de viagem raramente cobre um documento que sabia estar expirado. O nosso guia sobre [quanto tempo demora a renovação de passaporte](https://traveldocumentvault.com/pt/blog/how-long-does-passport-renewal-take/) explica como costumam ser os prazos.
+
 ## Viagem Doméstica: Flexibilidade Limitada com Documentos de Identidade Alternativos
 
 As viagens domésticas dentro do Reino Unido e Irlanda diferem das viagens internacionais neste aspecto chave: as companhias aéreas podem aceitar documentos de identidade alternativos com fotografia como uma carteira de condutor do Reino Unido ou cartão de identidade nacional em vez de um passaporte. No entanto, o que é aceitável varia significativamente por companhia aérea e destino, portanto não pode assumir que qualquer documento de identidade funcionará.
@@ -62,7 +70,7 @@ A única área cinzenta que existe é como as companhias aéreas e o controlo de
 
 A maioria das apólices de seguro de viagem incluem uma cláusula de invalidação para documentos de viagem expirados ou inválidos. As seguradoras podem rejeitar a sua reclamação inteira se viajou com um passaporte expirado - a linguagem tipicamente lê algo como: "Esta apólice é nula se o segurado viajou com um documento de viagem inválido ou expirado."
 
-Isto aplica-se quer o seu passaporte tenha expirado antes de sair do Reino Unido ou enquanto estava no estrangeiro, e quer a viagem tenha sido um fim de semana de um dia ou uma viagem de três meses à volta do mundo. Uma ultrapassagem de um único dia na sua data de expiração do passaporte pode arruinar uma reclamação válida que vale milhares de libras.
+Isto aplica-se quer o seu passaporte tenha expirado antes de sair do Reino Unido ou enquanto estava no estrangeiro, e quer a viagem tenha sido um fim de semana de um dia ou uma viagem de três meses à volta do mundo. Uma ultrapassagem de um único dia na sua data de expiração do passaporte pode arruinar uma reclamação que de outra forma seria válida.
 
 [Se o seu passaporte já expirou e está à procura do que fazer a seguir, o nosso artigo complementar cobre isso passo a passo](https://traveldocumentvault.com/pt/blog/passport-expired-what-to-do/). Se tem uma viagem em breve e o seu passaporte está a aproximar-se da expiração, este é o momento para renovar em vez de esperar até expirar, o que significa pagar pelo serviço Premium em vez da taxa padrão. Verifique os passaportes da sua família agora antes de marcar qualquer viagem.
 
@@ -92,9 +100,9 @@ Não assuma que pode viajar "porque volta antes de expirar" - o seu passaporte d
 
 Não. O seu visto está anexado ao seu passaporte e apenas válido se o próprio passaporte for válido. Se o seu passaporte está expirado, o visto torna-se inválido independentemente da sua própria data de expiração. Não pode usar um passaporte expirado mesmo com um visto válido.
 
-### E quanto à viagem na UE após o lançamento do ETIAS em 2026?
+### E quanto às viagens na UE assim que o ETIAS for lançado?
 
-[O Sistema de Entrada/Saída (EES), que começou a ser implementado no final de 2025, e o ETIAS, atualmente esperado no último trimestre de 2026, digitalizarão registos de entrada](https://traveldocumentvault.com/pt/blog/etias-documents-2026/). No entanto, não alteram o requisito de validade do passaporte. Ainda precisará de um passaporte válido para entrar na área de Schengen ou qualquer país da UE. Um passaporte expirado será rejeitado independentemente do seu estado do ETIAS.
+[O Sistema de Entrada/Saída (EES), que já está a ser implementado, e o ETIAS, que se espera que o siga, digitalizarão registos de entrada](https://traveldocumentvault.com/pt/blog/etias-documents-2026/). No entanto, não alteram o requisito de validade do passaporte. Ainda precisará de um passaporte válido para entrar na área de Schengen ou qualquer país da UE. Um passaporte expirado será rejeitado independentemente do seu estado do ETIAS.
 
 ### Posso candidatar-me a renovação de emergência enquanto estou no estrangeiro?
 

@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/nl/blog/is-it-safe-to-store-passport-in-
 - Er zijn betere opties: versleutelde wachtwoordmanagers, versleutelde apps op je toestel, of cloudopslag met encryptie aan de clientzijde - geen daarvan dumpt je paspoort in een algemene fotobibliotheek.
 - Voor de meeste mensen is het echte risico een zwakke accountbeveiliging, niet Google zelf: een hergebruikt wachtwoord, een gedeelde login, of iemand die al weet hoe binnen te komen.
 
-Miljoenen mensen bewaren paspoortscans in Google Foto's zonder erbij na te denken: je hebt een kopie nodig, je maakt een foto, en die wordt automatisch geback-upt. De vraag of dat eigenlijk wel een slimme keuze is voor je gevoeligste identiteitsdocument komt zelden ter sprake totdat er iets misgaat.
+Veel mensen bewaren paspoortscans in Google Foto's zonder erbij na te denken: je hebt een kopie nodig, je maakt een foto, en die wordt automatisch geback-upt. De vraag of dat eigenlijk wel een slimme keuze is voor je gevoeligste identiteitsdocument komt zelden ter sprake totdat er iets misgaat.
 
 Google Foto's is geen dubieuze dienst. De risico's van het bewaren van identiteitsdocumenten in een algemene cloud-fotobibliotheek zijn reëel en de moeite waard om te begrijpen, zodat je zelf kunt bepalen welke afweging voor jou acceptabel is.
 

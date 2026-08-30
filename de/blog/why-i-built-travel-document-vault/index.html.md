@@ -70,7 +70,7 @@ Die App verwaltet sie alle. Alles mit einem Ablaufdatum – Reisepässe, Visa, A
 
 ## Wenn im Ausland etwas schiefgeht
 
-Hunderttausende Reisepässe gehen jedes Jahr allein in den USA, Großbritannien und Kanada zusammen verloren oder werden gestohlen. Wenn Ihnen das im Ausland passiert, fangen Sie nicht bei null an.
+Reisepässe gehen im Ausland jeden Tag verloren oder werden gestohlen, und ihn aus einem anderen Land heraus zu ersetzen, ist ein langwieriger Prozess. Wenn Ihnen das im Ausland passiert, fangen Sie nicht bei null an.
 
 Dokumentnummern, Ablaufdaten, klare Scans – alles bereit, wenn Sie eine Verlustanzeige erstatten oder eine Botschaft kontaktieren müssen. Es ersetzt keine Originaldokumente, gibt Ihnen aber alles, was Sie brauchen, um schnell handeln zu können. Kein WLAN, keine Panik.
 

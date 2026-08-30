@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/it/blog/travel-insurance-documents/
 - I reclami vengono rifiutati più spesso per documentazione mancante: rapporto di polizia per furto, ricevute originali, moduli di reclamo firmati.
 - Leggi rapidamente le sezioni chiave della tua polizza concentrandoti sui limiti di copertura, esclusioni e condizioni.
 
-Hai pagato per l'assicurazione di viaggio. Poi arriva l'emergenza medica all'estero, il bagaglio rubato in aeroporto, il volo cancellato a metà del viaggio. Riusciresti davvero a trovare il tuo numero di polizza, la linea di emergenza 24 ore della tua compagnia di assicurazioni, o la prova di cosa è coperto? La maggior parte dei viaggiatori no. Questo articolo copre cosa salvare prima di partire, dove archiviarla così sia accessibile senza internet, e come evitare gli errori nei reclami che costano migliaia.
+Hai pagato per l'assicurazione di viaggio. Poi arriva l'emergenza medica all'estero, il bagaglio rubato in aeroporto, il volo cancellato a metà del viaggio. Riusciresti davvero a trovare il tuo numero di polizza, la linea di emergenza 24 ore della tua compagnia di assicurazioni, o la prova di cosa è coperto? La maggior parte dei viaggiatori no. Questo articolo copre cosa salvare prima di partire, dove archiviarla così sia accessibile senza internet, e come evitare gli errori nei reclami che portano al rifiuto della richiesta.
 
 ## Cosa Succede Davvero Quando Hai Bisogno della Tua Assicurazione
 
@@ -72,7 +72,7 @@ Una carta scritta a mano fa lo stesso lavoro di una stampa: numero di polizza, n
 | **Copia fisica (carta laminata o stampa)** | Sì, sempre accessibile | Più veloce se il tuo telefono è morto o perso | Perso se il passaporto è perso; conserva in tasca separata |
 | **App crittografata (es. Travel Document Vault)** | Sì, archiviata localmente sul telefono | Accesso istantaneo, progettata per questo scenario | Crittografata e privata; backup cloud facoltativo |
 
-## Errori Comuni nei Reclami Che Costano Migliaia
+## Errori Comuni nei Reclami e Come Evitarli
 
 Anche se hai i tuoi documenti accessibili, puoi comunque perdere il tuo reclamo se non gestisci bene il processo. Le ragioni di rifiuto più comuni sono:
 

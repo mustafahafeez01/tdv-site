@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/sv/blog/travel-insurance-documents/
 - Skador avslås oftast på grund av saknade handlingar: polisrapport för stöld, originalkvitton, signerade skadeformulär.
 - Läs din försäkrings nyckeldelar snabbt genom att fokusera på försäkringsgränser, undantag och villkor.
 
-Du har betalat för en reseförsäkring. Sen blir det en medicinsk nödsituation utomlands, väskan stöld på flygplatsen eller ett inställt flyg mitt under resan. Kan du faktiskt hitta ditt försäkringsnummer, försäkringsbolagets 24-timmarslinje eller bevis för vad som täcks. De flesta resenärer kan det inte. Den här artikeln handlar om vad du ska spara före avfärd, var du förvarar det så det är tillgängligt utan internet, och hur du undviker de skaderegleringsmisstag som kostar tusentals.
+Du har betalat för en reseförsäkring. Sen blir det en medicinsk nödsituation utomlands, väskan stöld på flygplatsen eller ett inställt flyg mitt under resan. Kan du faktiskt hitta ditt försäkringsnummer, försäkringsbolagets 24-timmarslinje eller bevis för vad som täcks. De flesta resenärer kan det inte. Den här artikeln handlar om vad du ska spara före avfärd, var du förvarar det så det är tillgängligt utan internet, och hur du undviker de skaderegleringsmisstag som gör att ersättningen nekas.
 
 ## Vad som faktiskt händer när du behöver din försäkring
 
@@ -72,7 +72,7 @@ Ett handskrivet kort fungerar lika bra som en utskrift: försäkringsnummer, fö
 | **Fysisk kopia (laminerat kort eller utskrift)** | Ja, alltid tillgängligt | Snabbast om din telefon är tom eller förlorad | Förlorad om passet försvinner; förvara i separat ficka |
 | **Krypterad app (t.ex. Travel Document Vault)** | Ja, lagrat lokalt på telefon | Direkt åtkomst, utformad för det här scenariot | Krypterad och privat; molnsäkerhetskopia valfri |
 
-## Vanliga skaderegleringsmisstag som kostar tusentals
+## Vanliga skaderegleringsmisstag och hur du undviker dem
 
 Även om du har dina handlingar tillgängliga kan du fortfarande förlora ditt anspråk om du hanterar processen felaktigt. De vanligaste avslagsorsakerna är:
 

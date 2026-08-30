@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/da/blog/is-it-safe-to-store-passport-in-
 - Der findes bedre alternativer: krypterede kodeordshåndteringer, krypterede apps på enheden eller cloud-lagring med klientsidig kryptering - ingen af dem smider dit pas ind i et almindeligt fotobibliotek.
 - For de fleste er den reelle risiko svag kontosikkerhed, ikke Google i sig selv: et genbrugt kodeord, et delt login, eller nogen der allerede ved, hvordan man kommer ind.
 
-Millioner af mennesker gemmer passcanninger i Google Fotos uden at tænke sig om: du skal bruge en kopi, du tager et billede, og det bliver sikkerhedskopieret automatisk. Spørgsmålet om, hvorvidt det faktisk er et klogt valg for dit mest følsomme identitetsdokument, dukker sjældent op, før noget går galt.
+Mange mennesker gemmer passcanninger i Google Fotos uden at tænke sig om: du skal bruge en kopi, du tager et billede, og det bliver sikkerhedskopieret automatisk. Spørgsmålet om, hvorvidt det faktisk er et klogt valg for dit mest følsomme identitetsdokument, dukker sjældent op, før noget går galt.
 
 Google Fotos er ikke en tvivlsom tjeneste. Risiciene ved at opbevare identitetsdokumenter i et almindeligt cloud-fotobibliotek er reelle og værd at forstå, så du selv kan afgøre, hvilken afvejning du er tryg ved.
 

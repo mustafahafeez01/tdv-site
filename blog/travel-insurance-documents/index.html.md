@@ -74,7 +74,7 @@ A handwritten card does the job as well as a printout: policy number, insurer na
 | **Physical copy (laminated card or printout)** | Yes, always accessible | Fastest if your phone is dead or lost | Lost if passport is lost; keep in separate pocket |
 | **Encrypted app (e.g. Travel Document Vault)** | Yes, stored locally on phone | Instant access, designed for this scenario | Encrypted and private; cloud backup optional |
 
-## Common Claims Mistakes That Cost Thousands
+## Common Claims Mistakes and How to Avoid Them
 
 Even if you have your documents accessible, you can still lose your claim if you mishandle the process. The most common rejection reasons are:
 

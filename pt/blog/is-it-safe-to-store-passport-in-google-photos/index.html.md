@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/pt/blog/is-it-safe-to-store-passport-in-
 - Existem melhores opções: gestores de palavras-passe encriptados, aplicações encriptadas no dispositivo, ou armazenamento na nuvem encriptado do lado do cliente - nenhum dos quais coloca o seu passaporte numa biblioteca de fotos geral.
 - Para a maioria das pessoas, o risco real não é o Google - é a segurança fraca da conta e quem mais consegue aceder a essa conta.
 
-Milhões de pessoas guardam fotografias de passaporte no Google Photos sem pensar duas vezes. Precisa de uma cópia, tira uma foto, faz cópia de segurança automaticamente. Pronto. A questão de se isso é realmente uma decisão inteligente para o seu documento de identidade mais sensível raramente surge - até que algo corre mal.
+Muitas pessoas guardam fotografias de passaporte no Google Photos sem pensar duas vezes. Precisa de uma cópia, tira uma foto, faz cópia de segurança automaticamente. Pronto. A questão de se isso é realmente uma decisão inteligente para o seu documento de identidade mais sensível raramente surge - até que algo corre mal.
 
 O Google Photos não é uma operação duvidosa. Os riscos de manter documentos de identidade numa biblioteca geral de fotos na nuvem são reais e vale a pena compreender, para que possa decidir que troca está disposto a aceitar.
 

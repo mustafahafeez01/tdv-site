@@ -70,7 +70,7 @@ Appen håndterer dem alle. Alt med en udløbsdato – pas, visa, arbejdstilladel
 
 ## Når det går galt i udlandet
 
-Hundredtusindvis af pas mistes eller stjæles hvert år tilsammen i USA, Storbritannien og Canada. Sker det for dig i udlandet, starter du ikke fra bunden.
+Pas mistes og stjæles i udlandet hver dag, og at få udstedt et nyt fra et andet land er en langsommelig proces. Sker det for dig i udlandet, starter du ikke fra bunden.
 
 Dokumentnumre, udløbsdatoer, tydelige scanninger – alt klar, når du skal anmelde det eller kontakte en ambassade. Det erstatter ikke dine originaler, men det giver dig det, du har brug for til at komme videre hurtigt. Intet Wi-Fi, ingen panik.
 

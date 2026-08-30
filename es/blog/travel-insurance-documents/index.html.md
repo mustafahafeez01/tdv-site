@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/es/blog/travel-insurance-documents/
 - Las reclamaciones se rechazan más a menudo por documentación faltante: informe policial por robo, recibos originales, formularios de reclamación firmados.
 - Lee rápidamente las secciones clave de tu póliza enfocándote en límites de cobertura, exclusiones y condiciones.
 
-Has pagado por un seguro de viaje. Luego llega la emergencia médica en el extranjero, la bolsa robada en el aeropuerto, el vuelo cancelado a mitad del viaje. ¿Puedes realmente encontrar tu número de póliza, la línea de emergencia 24 horas de tu asegurador, o prueba de lo que está cubierto? La mayoría de viajeros no pueden. Este artículo cubre qué guardar antes de partir, dónde almacenarlo para que sea accesible sin internet, y cómo evitar los errores de reclamación que cuestan miles.
+Has pagado por un seguro de viaje. Luego llega la emergencia médica en el extranjero, la bolsa robada en el aeropuerto, el vuelo cancelado a mitad del viaje. ¿Puedes realmente encontrar tu número de póliza, la línea de emergencia 24 horas de tu asegurador, o prueba de lo que está cubierto? La mayoría de viajeros no pueden. Este artículo cubre qué guardar antes de partir, dónde almacenarlo para que sea accesible sin internet, y cómo evitar los errores de reclamación que provocan su rechazo.
 
 ## Qué Sucede Realmente Cuando Necesitas Tu Seguro
 
@@ -72,7 +72,7 @@ Una tarjeta escrita a mano funciona tan bien como una impresión: número de pó
 | **Copia física (tarjeta laminada o impresión)** | Sí, siempre accesible | La más rápida si tu teléfono está muerto o perdido | Se pierde si el pasaporte se pierde; guarda en bolsillo separado |
 | **Aplicación cifrada (ej. Travel Document Vault)** | Sí, almacenado localmente en teléfono | Acceso al instante, diseñado para este escenario | Cifrado y privado; respaldo en nube opcional |
 
-## Errores Comunes de Reclamación Que Cuestan Miles
+## Errores Comunes de Reclamación y Cómo Evitarlos
 
 Incluso si tienes tus documentos accesibles, aún puedes perder tu reclamación si manejas el proceso incorrectamente. Las razones de rechazo más comunes son:
 

@@ -1,6 +1,6 @@
-# Può viaggiare con un passaporto scaduto? Regole del Regno Unito
+# Passaporto scaduto nel Regno Unito: può viaggiare o prenotare una vacanza?
 
-> Non può volare internazionalmente con un passaporto scaduto. Regole assolute, eccezioni nazionali, rinnovo d'emergenza e cosa controllano le compagnie aeree.
+> Prenotare un viaggio non è la stessa cosa che imbarcarsi. Cosa controlla la compagnia aerea, quando un rinnovo le lascia ancora tempo, e le ristrette eccezioni nazionali nel Regno Unito.
 
 Source: https://traveldocumentvault.com/it/blog/travel-expired-passport-uk/
 
@@ -32,6 +32,14 @@ Questa regola si applica a tutti i viaggi internazionali - voli verso l'Europa o
 
 L'unica eccezione è un documento di viaggio d'emergenza britannico, emesso dall'Ufficio estero quando Lei è già all'estero in una vera emergenza, e anche allora esiste solo per farla tornare a casa - non per permettere ulteriori viaggi.
 
+## Può prenotare una vacanza con un passaporto scaduto?
+
+Prenotare non è la stessa cosa che imbarcarsi. Niente le impedisce di pagare voli e un hotel mentre il suo passaporto è scaduto, perché nessuno controlla il documento al momento dell'acquisto. Il controllo avviene in aeroporto, e a quel punto il passaporto deve essere valido.
+
+Quindi la domanda giusta da porsi non è se può prenotare, ma se il rinnovo arriverà prima della partenza. Gli uffici passaporti pubblicano i loro tempi di elaborazione attuali, che variano in base alla domanda, quindi controlli la cifra il giorno stesso invece di affidarsi a quella dell'anno scorso.
+
+Se i tempi sembrano stretti, l'ordine più sicuro è rinnovare prima e prenotare solo dopo aver ricevuto il nuovo passaporto. Le compagnie aeree generalmente non sono obbligate a rimborsare un biglietto che non può usare, e l'assicurazione di viaggio raramente copre un documento che sapeva essere scaduto. La nostra guida su [quanto tempo richiede il rinnovo del passaporto](https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-take/) spiega come sono di solito i tempi.
+
 ## Viaggi nazionali: Flessibilità limitata con documenti di identità alternativi
 
 I viaggi nazionali all'interno del Regno Unito e dell'Irlanda differiscono dai viaggi internazionali in questo aspetto fondamentale: le compagnie aeree possono accettare documenti di identità fotografica alternativi come una patente di guida britannica o una carta d'identità nazionale al posto del passaporto. Tuttavia, ciò che è accettabile varia significativamente da compagnia a compagnia e destinazione, quindi non può presumere che un particolare documento di identità funzionerà.
@@ -62,7 +70,7 @@ L'unica zona grigia che esiste è come le compagnie aeree e il controllo alle fr
 
 La maggior parte delle polizze di assicurazione di viaggio include una clausola di nullità per documenti di viaggio scaduti o non validi. Gli assicuratori possono rifiutare l'intero Suo sinistro se ha viaggiato con un passaporto scaduto - il linguaggio in genere recita qualcosa come: "Questa polizza è nulla se l'assicurato ha viaggiato con un documento di viaggio non valido o scaduto."
 
-Questo si applica indipendentemente dal fatto che il suo passaporto sia scaduto prima di partire dal Regno Unito o mentre era all'estero, e indipendentemente dal fatto che il viaggio fosse un weekend di un giorno o un viaggio intorno al mondo di tre mesi. Un singolo giorno di scadenza del passaporto può rovinare un sinistro altrimenti valido del valore di migliaia di sterline.
+Questo si applica indipendentemente dal fatto che il suo passaporto sia scaduto prima di partire dal Regno Unito o mentre era all'estero, e indipendentemente dal fatto che il viaggio fosse un weekend di un giorno o un viaggio intorno al mondo di tre mesi. Un singolo giorno di scadenza del passaporto può rovinare un sinistro altrimenti valido.
 
 [Se il suo passaporto è già scaduto e sta cercando cosa fare dopo, il nostro articolo correlato copre questo passo dopo passo](https://traveldocumentvault.com/it/blog/passport-expired-what-to-do/). Se ha un viaggio in arrivo e il suo passaporto si avvicina alla scadenza, questo è il momento di rinnovare piuttosto che attendere fino a quando non scade, il che significa pagare il servizio Premium invece della tariffa standard. Controlli i passaporti della sua famiglia ora prima di prenotare qualsiasi viaggio.
 
@@ -92,9 +100,9 @@ Non presuma di poter viaggiare "perché starà tornando prima che scada" - il su
 
 No. Il suo visto è allegato al suo passaporto ed è valido solo se il passaporto stesso è valido. Se il suo passaporto è scaduto, il visto diventa non valido indipendentemente dalla sua stessa data di scadenza. Non può utilizzare un passaporto scaduto anche con un visto valido.
 
-### Che dire dei viaggi nell'UE dopo il lancio di ETIAS nel 2026?
+### Che dire dei viaggi nell'UE una volta lanciato ETIAS?
 
-[Il sistema di ingresso/uscita (EES), che ha iniziato a essere lanciato nel tardo 2025, e ETIAS, attualmente previsto nell'ultimo trimestre del 2026, digitalizzeranno i record di ingresso](https://traveldocumentvault.com/it/blog/etias-documents-2026/). Tuttavia, non cambiano il requisito di validità del passaporto. Avrà ancora bisogno di un passaporto valido per entrare nell'area Schengen o in qualsiasi paese dell'UE. Un passaporto scaduto sarà rifiutato indipendentemente dal suo stato ETIAS.
+[Il sistema di ingresso/uscita (EES), già in fase di introduzione, ed ETIAS, che dovrebbe seguirlo, digitalizzeranno i record di ingresso](https://traveldocumentvault.com/it/blog/etias-documents-2026/). Tuttavia, non cambiano il requisito di validità del passaporto. Avrà ancora bisogno di un passaporto valido per entrare nell'area Schengen o in qualsiasi paese dell'UE. Un passaporto scaduto sarà rifiutato indipendentemente dal suo stato ETIAS.
 
 ### Posso richiedere il rinnovo d'emergenza mentre sono all'estero?
 

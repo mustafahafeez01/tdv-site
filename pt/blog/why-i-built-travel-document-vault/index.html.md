@@ -70,7 +70,7 @@ A aplicação trata de todos eles. Tudo o que tenha uma data de validade, passap
 
 ## Quando as coisas correm mal no estrangeiro
 
-Centenas de milhares de passaportes são perdidos ou roubados todos os anos nos EUA, Reino Unido e Canadá combinados. Se isso lhe acontecer no estrangeiro, não está a começar do zero.
+Todos os dias há passaportes perdidos ou roubados no estrangeiro, e substituir um a partir de outro país é um processo moroso. Se isso lhe acontecer no estrangeiro, não está a começar do zero.
 
 Números de documentos, datas de validade, digitalizações nítidas, tudo pronto quando precisar de apresentar uma queixa ou contactar uma embaixada. Não substitui os originais, mas dá-lhe o que precisa para avançar rapidamente. Sem Wi-Fi, sem pânico.
 

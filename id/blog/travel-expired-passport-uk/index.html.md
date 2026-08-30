@@ -1,6 +1,6 @@
-# Bisakah Anda Bepergian dengan Paspor yang Kedaluwarsa? Aturan Inggris
+# Paspor Kedaluwarsa di Inggris: Bisakah Anda Bepergian atau Memesan Liburan?
 
-> Anda tidak dapat terbang secara internasional dengan paspor yang sudah kedaluwarsa. Pengecualian domestik yang terbatas, jalur perpanjangan tercepat di Inggris, dan yang harus dilakukan jika Anda sudah berada di luar negeri.
+> Memesan perjalanan tidak sama dengan naik pesawat. Apa yang diperiksa maskapai, kapan perpanjangan paspor masih sempat selesai, dan pengecualian domestik terbatas di Inggris.
 
 Source: https://traveldocumentvault.com/id/blog/travel-expired-passport-uk/
 
@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/id/blog/travel-expired-passport-uk/
 
 - **Aturan mutlak:** Tidak ada perjalanan internasional dengan paspor yang sudah kedaluwarsa. Maskapai dan petugas imigrasi akan menolak Anda.
 - **Pengecualian domestik:** Inggris ke Irlandia dan Isle of Man mungkin menerima identitas berfoto alternatif; hubungi maskapai Anda terlebih dahulu.
-- **Perpanjangan darurat:** Layanan Premium daring tersedia dengan total biaya 239,50 pound (janji temu hari yang sama atau keesokan harinya, hanya untuk perpanjangan).
+- **Perpanjangan darurat:** His Majesty's Passport Office menjalankan layanan Premium daring khusus untuk perpanjangan, dengan janji temu hari yang sama atau keesokan harinya jika slot tersedia. Periksa biaya terkini di gov.uk sebelum memesan.
 - **Asuransi perjalanan:** Sebagian besar polis membatalkan klaim jika paspor Anda sudah kedaluwarsa selama perjalanan.
 - **Jika berada di luar negeri:** Hubungi kedutaan besar atau konsulat Inggris terdekat untuk mendapatkan dokumen perjalanan darurat.
 
@@ -32,6 +32,14 @@ Aturan ini berlaku untuk semua perjalanan internasional, baik penerbangan ke Ero
 
 Satu-satunya pengecualian adalah dokumen perjalanan darurat Inggris, yang diterbitkan oleh Kementerian Luar Negeri saat Anda sudah berada di luar negeri dalam keadaan darurat yang sebenarnya, dan bahkan pada saat itu dokumen tersebut hanya berfungsi untuk memulangkan Anda - bukan untuk mengizinkan perjalanan lebih lanjut.
 
+## Bisakah Anda Memesan Liburan dengan Paspor yang Kedaluwarsa?
+
+Memesan tidak sama dengan naik pesawat. Tidak ada yang menghalangi Anda membayar tiket pesawat dan hotel meskipun paspor Anda sudah kedaluwarsa, karena tidak ada yang memeriksa dokumen saat pembelian. Pemeriksaan terjadi di bandara, dan pada saat itu paspor harus berlaku.
+
+Jadi pertanyaan yang perlu diajukan bukan apakah Anda bisa memesan, melainkan apakah perpanjangan akan selesai sebelum Anda berangkat. Kantor paspor mempublikasikan waktu pemrosesan terkini mereka, yang berubah sesuai permintaan, jadi periksa angka tersebut pada hari itu juga, bukan mengandalkan angka tahun lalu.
+
+Jika waktunya tampak mepet, urutan yang lebih aman adalah memperpanjang dulu, baru memesan setelah paspor baru Anda di tangan. Maskapai umumnya tidak berkewajiban mengembalikan uang tiket yang tidak bisa Anda gunakan, dan asuransi perjalanan jarang menanggung dokumen yang Anda tahu sudah kedaluwarsa. Panduan kami tentang [berapa lama perpanjangan paspor berlangsung](https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-take/) menjelaskan perkiraan waktunya.
+
 ## Perjalanan Domestik: Fleksibilitas Terbatas dengan Identitas Alternatif
 
 Perjalanan domestik di dalam Inggris dan Irlandia berlaku sedikit berbeda: maskapai mungkin menerima identitas berfoto alternatif seperti SIM Inggris atau kartu identitas nasional sebagai pengganti paspor. Namun, apa yang diterima sangat bervariasi tergantung maskapai dan tujuan, jadi Anda tidak bisa berasumsi identitas tertentu pasti akan diterima.
@@ -42,7 +50,7 @@ Jika Anda mempertimbangkan perjalanan domestik dengan paspor yang sudah kedaluwa
 
 ## Perpanjangan Darurat: Jalur Layanan Premium
 
-Jika perjalanan Anda sudah dekat dan paspor Anda kedaluwarsa, His Majesty's Passport Office menawarkan layanan Premium yang dirancang khusus untuk situasi seperti ini, dengan jaminan janji temu di hari yang sama atau hari kerja berikutnya tergantung ketersediaan. Biayanya total 239,50 pound - mencakup semuanya, bukan tambahan di atas biaya standar - dan paspor Anda yang diperbarui akan tiba dalam hitungan hari, bukan berminggu-minggu seperti perpanjangan standar. Perlu diketahui, layanan Premium daring ini hanya untuk perpanjangan, bukan untuk paspor pertama bagi orang dewasa.
+Jika perjalanan Anda sudah dekat dan paspor Anda kedaluwarsa, His Majesty's Passport Office menawarkan layanan Premium yang dirancang khusus untuk situasi seperti ini, dengan jaminan janji temu di hari yang sama atau hari kerja berikutnya tergantung ketersediaan. His Majesty's Passport Office mempublikasikan biaya terkini di gov.uk, dan biaya itu mencakup janji temu serta perpanjangan sekaligus, bukan tambahan di atas biaya standar. Paspor Anda yang diperbarui akan tiba jauh lebih cepat dibanding jalur standar, meski seberapa cepat tergantung janji temu yang bisa Anda dapatkan. Perlu diketahui, layanan Premium daring ini hanya untuk perpanjangan, bukan untuk paspor pertama bagi orang dewasa.
 
 Ini adalah jalur darurat resmi untuk kendala perjalanan yang sesungguhnya. Panduan resmi saat ini menyarankan sekitar 3 minggu untuk perpanjangan standar, dan hampir semua permohonan diproses dalam jangka waktu tersebut, tetapi ketika sebuah perjalanan benar-benar tidak bisa ditunda, opsi Premium menghilangkan ketidakpastian tersebut.
 
@@ -62,7 +70,7 @@ Satu-satunya area abu-abu adalah bagaimana maskapai dan petugas imigrasi menanga
 
 Sebagian besar polis asuransi perjalanan memuat klausul pembatalan untuk dokumen perjalanan yang kedaluwarsa atau tidak sah. Perusahaan asuransi dapat menolak seluruh klaim Anda jika Anda bepergian dengan paspor yang kedaluwarsa - bunyi klausulnya biasanya seperti: "Polis ini batal jika pemegang polis bepergian dengan dokumen perjalanan yang tidak sah atau kedaluwarsa."
 
-Ini berlaku baik paspor Anda kedaluwarsa sebelum Anda meninggalkan Inggris maupun saat Anda berada di luar negeri, dan baik perjalanan itu hanya akhir pekan satu hari maupun perjalanan keliling dunia selama tiga bulan. Kelebihan satu hari saja dari tanggal kedaluwarsa paspor Anda dapat menggagalkan klaim yang sebenarnya sah senilai ribuan pound.
+Ini berlaku baik paspor Anda kedaluwarsa sebelum Anda meninggalkan Inggris maupun saat Anda berada di luar negeri, dan baik perjalanan itu hanya akhir pekan satu hari maupun perjalanan keliling dunia selama tiga bulan. Kelebihan satu hari saja dari tanggal kedaluwarsa paspor Anda dapat menggagalkan klaim yang sebenarnya sah.
 
 Jika paspor Anda sudah kedaluwarsa dan Anda mencari tahu langkah selanjutnya, [artikel pendamping kami membahasnya langkah demi langkah](https://traveldocumentvault.com/id/blog/passport-expired-what-to-do/). Jika Anda punya perjalanan yang akan datang dan paspor Anda mendekati masa kedaluwarsa, inilah saatnya untuk memperpanjang alih-alih menunggu sampai kedaluwarsa, yang berarti Anda harus membayar layanan Premium alih-alih biaya standar. Periksa paspor keluarga Anda sekarang sebelum memesan perjalanan apa pun.
 
@@ -72,7 +80,7 @@ Jika paspor Anda sudah kedaluwarsa dan Anda mencari tahu langkah selanjutnya, [a
 
 Paspor Anda kedaluwarsa saat Anda masih di luar negeri adalah skenario paling sulit untuk direncanakan. Jika paspor kedaluwarsa sebelum Anda kembali, Anda tidak bisa naik penerbangan atau feri pulang, dan Anda perlu menghubungi kedutaan besar atau konsulat Inggris terdekat untuk mendapatkan dokumen perjalanan darurat, kadang disebut ETD atau paspor darurat, yang hanya berlaku untuk memulangkan Anda.
 
-Prosesnya lambat dan birokratis. Anda perlu memberikan bukti identitas dan membayar biaya, saat ini sebesar 125 pound, dan sebagian besar kedutaan membutuhkan beberapa hari untuk menerbitkan dokumen tersebut, meskipun sebagian bisa menyelesaikannya dalam 24-48 jam jika Anda benar-benar terjebak, sementara yang lain membutuhkan waktu seminggu. Dokumen darurat ini hanya mencakup perjalanan khusus kembali ke Inggris; ini bukan paspor turis, dan tidak mengizinkan perjalanan lanjutan.
+Prosesnya lambat dan birokratis. Anda perlu memberikan bukti identitas dan membayar biaya yang ditetapkan oleh Foreign, Commonwealth and Development Office. Waktu pemrosesan bervariasi tergantung kedutaan dan seberapa mendesak situasi Anda, jadi tanyakan kepada konsulat apa yang bisa diharapkan segera setelah Anda menghubungi mereka. Dokumen darurat ini hanya mencakup perjalanan khusus kembali ke Inggris; ini bukan paspor turis, dan tidak mengizinkan perjalanan lanjutan.
 
 Mengatur pengingat berbulan-bulan sebelumnya, alih-alih panik seminggu sebelum terbang, adalah cara mencegah hal ini terjadi sejak awal. Jika paspor Anda kedaluwarsa dalam 6 bulan dari rencana perjalanan Anda, mulailah proses perpanjangan sekarang sebelum Anda memastikan tanggal perjalanan.
 
@@ -92,9 +100,9 @@ Jangan berasumsi Anda bisa bepergian "karena Anda akan kembali sebelum paspor it
 
 Tidak. Visa Anda melekat pada paspor Anda dan hanya berlaku jika paspor itu sendiri masih berlaku. Jika paspor Anda kedaluwarsa, visa itu menjadi tidak berlaku terlepas dari tanggal kedaluwarsanya sendiri. Anda tidak dapat menggunakan paspor yang kedaluwarsa meskipun memiliki visa yang masih berlaku.
 
-### Bagaimana dengan perjalanan ke UE setelah ETIAS diluncurkan pada 2026?
+### Bagaimana dengan perjalanan ke UE setelah ETIAS diluncurkan?
 
-Sistem Masuk/Keluar (EES), yang mulai diberlakukan bertahap sejak akhir 2025, dan ETIAS, yang saat ini diperkirakan diluncurkan pada kuartal terakhir 2026, akan mendigitalkan catatan masuk. Namun, keduanya tidak mengubah persyaratan masa berlaku paspor. Anda tetap memerlukan paspor yang berlaku untuk memasuki kawasan Schengen atau negara UE mana pun. Paspor yang kedaluwarsa akan ditolak terlepas dari status ETIAS Anda.
+Sistem Masuk/Keluar (EES), yang sudah mulai diberlakukan, dan ETIAS, yang diperkirakan akan menyusul, akan mendigitalkan catatan masuk. Namun, keduanya tidak mengubah persyaratan masa berlaku paspor. Anda tetap memerlukan paspor yang berlaku untuk memasuki kawasan Schengen atau negara UE mana pun. Paspor yang kedaluwarsa akan ditolak terlepas dari status ETIAS Anda.
 
 ### Bisakah saya mengajukan perpanjangan darurat saat berada di luar negeri?
 

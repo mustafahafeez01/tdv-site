@@ -70,7 +70,7 @@ Aplikasi ini menangani semuanya. Apa pun yang memiliki tanggal kedaluwarsa, pasp
 
 ## Ketika sesuatu berjalan salah di luar negeri
 
-Ratusan ribu paspor hilang atau dicuri setiap tahun di Amerika Serikat, Inggris, dan Kanada secara gabungan. Jika itu terjadi pada Anda di luar negeri, Anda tidak memulai dari nol.
+Paspor hilang dan dicuri di luar negeri setiap hari, dan mengurus penggantinya dari negara lain adalah proses yang lambat. Jika itu terjadi pada Anda di luar negeri, Anda tidak memulai dari nol.
 
 Nomor dokumen, tanggal kedaluwarsa, scan yang jelas, semuanya siap ketika Anda perlu membuat laporan atau menghubungi kedutaan. Ini tidak menggantikan dokumen asli Anda, namun memberi Anda apa yang Anda butuhkan untuk melangkah maju dengan cepat. Tanpa Wi-Fi, tanpa kepanikan.
 

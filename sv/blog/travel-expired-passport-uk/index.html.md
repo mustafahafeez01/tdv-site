@@ -1,6 +1,6 @@
-# Kan du resa med ett utgånget pass? Brittiska regler
+# Utgånget pass i Storbritannien: kan du resa eller boka en semester?
 
-> Du kan inte flyga internationellt med ett utgånget pass. De begränsade inhemska undantagen, den snabbaste vägen till förnyat brittiskt pass, och vad du gör om du redan är utomlands.
+> Att boka en resa är inte samma sak som att gå ombord. Vad flygbolaget kontrollerar, när en förnyelse fortfarande hinner bli klar, och de begränsade inhemska undantagen i Storbritannien.
 
 Source: https://traveldocumentvault.com/sv/blog/travel-expired-passport-uk/
 
@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/sv/blog/travel-expired-passport-uk/
 
 - **Absolut regel:** Ingen internationell resa med ett utgånget pass. Flygbolag och gränskontroll nekar dig.
 - **Inhemska undantag:** Storbritannien till Irland och Isle of Man kan acceptera alternativ foto-legitimation; kontakta ditt flygbolag först.
-- **Nödförnyelse:** Onlinetjänsten Premium finns tillgänglig för totalt 239,50 pund (samma dag eller nästa dag, endast förnyelser).
+- **Nödförnyelse:** Onlinetjänsten Premium finns tillgänglig (samma dag eller nästa dag, endast förnyelser).
 - **Reseförsäkring:** De flesta försäkringar ogiltigförklarar ersättningsanspråk om ditt pass var utgånget under resan.
 - **Om du är utomlands:** Kontakta närmaste brittiska ambassad eller konsulat för ett nödresedokument.
 
@@ -32,6 +32,14 @@ Regeln gäller alla internationella resor - flygningar till Europa eller färje�
 
 Det enda undantaget är ett brittiskt nödresedokument, utfärdat av utrikesdepartementet när du redan befinner dig utomlands i en verklig nödsituation, och även då finns det bara för att ta dig hem - inte för att tillåta fortsatt resa.
 
+## Kan du boka en semester med ett utgånget pass?
+
+Att boka är inte samma sak som att gå ombord. Inget hindrar dig från att betala för flyg och hotell medan passet är utgånget, eftersom ingen kontrollerar handlingen vid själva köpet. Kontrollen sker på flygplatsen, och då måste passet vara giltigt.
+
+Den egentliga frågan är alltså inte om du kan boka, utan om förnyelsen hinner bli klar innan du reser. Passmyndigheter publicerar sina aktuella handläggningstider, och de förändras med efterfrågan, så kontrollera siffran samma dag i stället för att lita på fjolårets.
+
+Ser tidsramen knapp ut är den säkrare ordningen att förnya först och boka när det nya passet är i din hand. Flygbolag är i regel inte skyldiga att återbetala en biljett du inte kan använda, och reseförsäkringar täcker sällan en handling du visste var utgången. Vår guide om [hur lång tid en passförnyelse tar](https://traveldocumentvault.com/sv/blog/how-long-does-passport-renewal-take/) beskriver hur tidsramarna brukar se ut.
+
 ## Inhemska resor: begränsad flexibilitet med alternativ legitimation
 
 Inhemska resor inom Storbritannien och Irland skiljer sig från internationella resor på en avgörande punkt: flygbolag kan acceptera alternativ foto-legitimation, som brittiskt körkort eller nationellt ID-kort, i stället för pass. Vad som godtas varierar dock kraftigt mellan flygbolag och destination, så du kan inte utgå från att en viss legitimation fungerar.
@@ -42,7 +50,7 @@ Om du överväger en inhemsk resa med ett utgånget pass, kontakta ditt flygbola
 
 ## Nödförnyelse: vägen via Premiumtjänsten
 
-Om din resa är nära förestående och passet har gått ut erbjuder His Majesty's Passport Office en Premiumtjänst utformad exakt för det här scenariot, som garanterar antingen en tid samma dag eller nästa vardag beroende på tillgänglighet. Avgiften är totalt 239,50 pund - den täcker allt, snarare än att vara ett tillägg till standardavgiften - och det förnyade passet anländer inom några dagar i stället för de veckor en standardförnyelse kan ta. Observera att onlinetjänsten Premium enbart gäller förnyelser, inte första passet för vuxna.
+Om din resa är nära förestående och passet har gått ut erbjuder His Majesty's Passport Office en Premiumtjänst utformad exakt för det här scenariot, som garanterar antingen en tid samma dag eller nästa vardag beroende på tillgänglighet. HM Passport Office publicerar den aktuella avgiften på gov.uk, och den täcker tiden och förnyelsen tillsammans i stället för att läggas ovanpå standardavgiften. Det förnyade passet anländer betydligt snabbare än standardvägen, även om exakt hur mycket snabbare beror på vilken tid du kan få. Observera att onlinetjänsten Premium enbart gäller förnyelser, inte första passet för vuxna.
 
 Det här är den officiella nödvägen för verkliga resebegränsningar, inte en genväg - Premiumtjänsten finns eftersom resor ibland inte kan vänta. HM Passport Office publicerar den aktuella handläggningstiden för en standardförnyelse, och nästan alla ansökningar handläggs inom den tidsramen - men för resor som verkligen inte kan vänta tar Premiumalternativet bort osäkerheten.
 
@@ -62,7 +70,7 @@ Den enda gråzonen som finns handlar om hur flygbolag och gränskontroll hantera
 
 De flesta reseförsäkringar innehåller en klausul som ogiltigförklarar försäkringen vid utgångna eller ogiltiga resehandlingar. Försäkringsbolag kan avslå hela ditt ersättningsanspråk om du reste med ett utgånget pass - formuleringen brukar likna: "Denna försäkring gäller inte om försäkringstagaren reste med en ogiltig eller utgången resehandling."
 
-Det gäller oavsett om passet gick ut innan du lämnade Storbritannien eller medan du var utomlands, och oavsett om resan var en enda helg eller en tre månader lång jordenruntresa. En enda dags överskridande av passets utgångsdatum kan fälla ett i övrigt giltigt ersättningsanspråk värt tusentals pund.
+Det gäller oavsett om passet gick ut innan du lämnade Storbritannien eller medan du var utomlands, och oavsett om resan var en enda helg eller en tre månader lång jordenruntresa. En enda dags överskridande av passets utgångsdatum kan fälla ett i övrigt giltigt ersättningsanspråk.
 
 [Om ditt pass redan har gått ut och du letar efter vad du ska göra härnäst går vår kompletterande artikel igenom det steg för steg](https://traveldocumentvault.com/sv/blog/passport-expired-what-to-do/). Har du en resa på gång och ditt pass närmar sig utgångsdatumet är det här läget att förnya i stället för att vänta tills det går ut, vilket innebär att du betalar för Premiumtjänsten i stället för standardavgiften. Kontrollera familjens pass nu innan ni bokar någon resa.
 
@@ -72,7 +80,7 @@ Det gäller oavsett om passet gick ut innan du lämnade Storbritannien eller med
 
 Det här är det genuint svåra scenariot. Om du är på resa och passet går ut innan du reser hem kan du inte gå ombord på ett flyg eller en färja hem. Du måste kontakta närmaste brittiska ambassad eller konsulat för ett nödresedokument - ibland kallat ETD eller nödpass - som bara är giltigt för att ta dig hem.
 
-Processen är långsam och byråkratisk. Du måste visa legitimation och betala avgiften, för närvarande 125 pund. De flesta ambassader tar flera dagar på sig att utfärda dokumentet, även om vissa kan klara det på 24-48 timmar om du verkligen sitter fast. Andra tar en vecka. Nödresedokumentet är inget turistpass - det gäller bara den specifika resan tillbaka till Storbritannien och tillåter ingen fortsatt resa.
+Processen är långsam och byråkratisk. Du måste visa legitimation och betala avgiften. De flesta ambassader tar flera dagar på sig att utfärda dokumentet, även om vissa kan klara det på 24-48 timmar om du verkligen sitter fast. Andra tar en vecka. Nödresedokumentet är inget turistpass - det gäller bara den specifika resan tillbaka till Storbritannien och tillåter ingen fortsatt resa.
 
 Ställ in påminnelser flera månader i förväg i stället för dagen innan avresa, eftersom påminnelser från åtta månader innan, och igen allteftersom utgångsdatumet närmar sig, ger dig tid att förnya via standardhandläggning i stället för att betala för nödtider. Om passet går ut inom 6 månader från din resa, påbörja förnyelseprocessen nu innan du bokar resdatum.
 
@@ -92,9 +100,9 @@ Anta inte att du kan resa "eftersom du kommer hem innan det går ut" - ditt pass
 
 Nej. Ditt visum sitter fast i passet och är bara giltigt om själva passet är giltigt. Om passet har gått ut blir visumet ogiltigt oavsett dess eget utgångsdatum. Du kan inte använda ett utgånget pass även med ett giltigt visum.
 
-### Vad gäller för EU-resor efter att ETIAS lanseras 2026?
+### Vad gäller för EU-resor när ETIAS väl lanseras?
 
-In- och utresesystemet (EES), som började införas i slutet av 2025, och ETIAS, som för närvarande väntas under sista kvartalet 2026, kommer att digitalisera inresejournaler. Det ändrar dock inte kravet på giltigt pass. Du behöver fortfarande ett giltigt pass för att resa in i Schengenområdet eller något EU-land. Ett utgånget pass avvisas oavsett din ETIAS-status.
+In- och utresesystemet (EES), som redan håller på att införas, och ETIAS, som väntas följa efter, kommer att digitalisera inresejournaler. Det ändrar dock inte kravet på giltigt pass. Du behöver fortfarande ett giltigt pass för att resa in i Schengenområdet eller något EU-land. Ett utgånget pass avvisas oavsett din ETIAS-status.
 
 ### Kan jag ansöka om nödförnyelse när jag är utomlands?
 

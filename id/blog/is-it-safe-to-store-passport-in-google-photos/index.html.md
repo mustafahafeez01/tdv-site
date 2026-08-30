@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/id/blog/is-it-safe-to-store-passport-in-
 - Ada opsi yang lebih baik: pengelola kata sandi terenkripsi, aplikasi terenkripsi di perangkat, atau penyimpanan cloud dengan enkripsi sisi klien - tak satu pun dari opsi ini membuang paspor Anda ke perpustakaan foto umum.
 - Bagi kebanyakan orang, risiko sebenarnya adalah keamanan akun yang lemah, bukan Google itu sendiri: kata sandi yang dipakai ulang, login yang dibagikan, atau seseorang yang sudah tahu caranya masuk.
 
-Jutaan orang menyimpan pindaian paspor di Google Foto tanpa berpikir dua kali: Anda butuh salinan, Anda memotretnya, dan itu tercadangkan secara otomatis. Pertanyaan apakah itu benar-benar langkah yang bijak untuk dokumen identitas Anda yang paling sensitif jarang muncul sampai terjadi sesuatu yang tidak diinginkan.
+Banyak orang menyimpan pindaian paspor di Google Foto tanpa berpikir dua kali: Anda butuh salinan, Anda memotretnya, dan itu tercadangkan secara otomatis. Pertanyaan apakah itu benar-benar langkah yang bijak untuk dokumen identitas Anda yang paling sensitif jarang muncul sampai terjadi sesuatu yang tidak diinginkan.
 
 Google Foto bukan layanan yang mencurigakan. Risiko menyimpan dokumen identitas di perpustakaan foto cloud umum itu nyata dan layak dipahami, supaya Anda bisa menentukan sendiri kompromi mana yang Anda rasa nyaman.
 

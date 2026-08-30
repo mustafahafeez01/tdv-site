@@ -1,6 +1,6 @@
-# Kun je reizen met een verlopen paspoort? Britse regels
+# Verlopen paspoort VK: kun je reizen of een vakantie boeken?
 
-> Je kunt niet internationaal vliegen met een verlopen paspoort. De beperkte binnenlandse uitzonderingen, de snelste Britse verlengingsroute, en wat je moet doen als je al in het buitenland bent.
+> Een reis boeken is niet hetzelfde als aan boord gaan. Wat de luchtvaartmaatschappij controleert, wanneer een verlenging nog op tijd is, en de beperkte binnenlandse uitzonderingen in het VK.
 
 Source: https://traveldocumentvault.com/nl/blog/travel-expired-passport-uk/
 
@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/nl/blog/travel-expired-passport-uk/
 
 - **Absolute regel:** geen internationale reizen met een verlopen paspoort. Luchtvaartmaatschappijen en grensbewaking wijzen je af.
 - **Binnenlandse uitzonderingen:** van het VK naar Ierland en het Isle of Man kan alternatieve foto-ID worden geaccepteerd; neem eerst contact op met je luchtvaartmaatschappij.
-- **Noodverlenging:** de online Premium-service is beschikbaar voor in totaal 239,50 pond (afspraak dezelfde dag of de volgende dag, alleen verlengingen).
+- **Noodverlenging:** His Majesty's Passport Office biedt een online Premium-service uitsluitend voor verlengingen, met een afspraak dezelfde dag of de volgende dag als er plek is. Controleer de actuele kosten op gov.uk voordat je boekt.
 - **Reisverzekering:** de meeste polissen maken claims ongeldig als je paspoort tijdens de reis verlopen was.
 - **Als je in het buitenland bent:** neem contact op met de dichtstbijzijnde Britse ambassade of het consulaat voor een noodreisdocument.
 
@@ -32,6 +32,14 @@ Deze regel geldt voor alle internationale reizen, zowel vluchten naar Europa als
 
 De enige uitzondering is een Brits noodreisdocument, uitgegeven door het ministerie van Buitenlandse Zaken wanneer je al in het buitenland bent in een echte noodsituatie, en zelfs dan bestaat het alleen om je thuis te krijgen - niet om verdere reizen mogelijk te maken.
 
+## Kun je een vakantie boeken met een verlopen paspoort?
+
+Boeken is niet hetzelfde als aan boord gaan. Niets houdt je tegen om vluchten en een hotel te betalen terwijl je paspoort verlopen is, want niemand controleert het document op het moment van aankoop. De controle vindt plaats op de luchthaven, en dan moet het paspoort geldig zijn.
+
+De vraag die er dus toe doet, is niet of je kunt boeken, maar of de verlenging op tijd klaar is voor je vertrek. Paspoortkantoren publiceren hun actuele verwerkingstijden, en die veranderen met de vraag, dus controleer het cijfer op de dag zelf in plaats van te vertrouwen op dat van vorig jaar.
+
+Lijkt de tijd krap, dan is de veiligere volgorde om eerst te verlengen en pas te boeken zodra je het nieuwe paspoort in handen hebt. Luchtvaartmaatschappijen zijn doorgaans niet verplicht een ticket terug te betalen dat je niet kunt gebruiken, en reisverzekeringen dekken zelden een document waarvan je wist dat het verlopen was. Onze gids over [hoe lang een paspoortverlenging duurt](https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-take/) laat zien hoe de tijdlijnen er meestal uitzien.
+
 ## Binnenlandse reizen: beperkte flexibiliteit met alternatieve ID
 
 Binnenlandse reizen binnen het VK en Ierland werken iets anders: luchtvaartmaatschappijen accepteren mogelijk alternatieve foto-identificatie, zoals een Brits rijbewijs of nationale identiteitskaart, in plaats van een paspoort. Wat wordt geaccepteerd, verschilt echter aanzienlijk per luchtvaartmaatschappij en bestemming, dus je kunt er niet zomaar van uitgaan dat een bepaald identiteitsbewijs zal werken.
@@ -42,7 +50,7 @@ Overweeg je een binnenlandse reis met een verlopen paspoort, neem dan minstens 4
 
 ## Noodverlenging: de Premium-service
 
-Als je reis op korte termijn is en je paspoort is verlopen, biedt His Majesty's Passport Office een Premium-service die precies voor dit scenario is ontworpen, met een garantie op een afspraak dezelfde dag of de eerstvolgende werkdag, afhankelijk van beschikbaarheid. De kosten bedragen in totaal 239,50 pond - dat dekt alles, in plaats van een toeslag bovenop het standaardtarief - en je verlengde paspoort komt binnen enkele dagen aan, in plaats van de weken die een standaardverlenging kan duren. Let op: de online Premium-service is alleen voor verlengingen, niet voor eerste paspoorten voor volwassenen.
+Als je reis op korte termijn is en je paspoort is verlopen, biedt His Majesty's Passport Office een Premium-service die precies voor dit scenario is ontworpen, met een garantie op een afspraak dezelfde dag of de eerstvolgende werkdag, afhankelijk van beschikbaarheid. His Majesty's Passport Office publiceert de actuele kosten op gov.uk, en die dekken de afspraak en de verlenging samen, in plaats van een toeslag bovenop het standaardtarief. Je verlengde paspoort komt aanzienlijk sneller aan dan via de standaardroute, al hangt hoeveel sneller af van de afspraak die je kunt krijgen. Let op: de online Premium-service is alleen voor verlengingen, niet voor eerste paspoorten voor volwassenen.
 
 Dit is de officiële noodroute voor echte reisbeperkingen. De officiële richtlijn is momenteel om rekening te houden met ongeveer 3 weken voor een standaardverlenging, en bijna alle aanvragen worden binnen die termijn verwerkt, maar wanneer een reis echt niet kan wachten, neemt de Premium-optie de onzekerheid weg.
 
@@ -62,7 +70,7 @@ Het enige grijze gebied is hoe luchtvaartmaatschappijen en grensbewaking omgaan 
 
 De meeste reisverzekeringen bevatten een clausule die de dekking ongeldig maakt bij verlopen of ongeldige reisdocumenten. Verzekeraars kunnen je hele claim afwijzen als je met een verlopen paspoort reisde - de formulering luidt doorgaans iets als: "Deze polis is ongeldig als de verzekerde reisde met een ongeldig of verlopen reisdocument."
 
-Dit geldt of je paspoort nu verliep voordat je het VK verliet of terwijl je in het buitenland was, en of de reis nu een weekendje weg was of een reis van drie maanden de wereld rond. Al één dag over de vervaldatum van je paspoort kan een verder geldige claim ter waarde van duizenden ponden onderuithalen.
+Dit geldt of je paspoort nu verliep voordat je het VK verliet of terwijl je in het buitenland was, en of de reis nu een weekendje weg was of een reis van drie maanden de wereld rond. Al één dag over de vervaldatum van je paspoort kan een verder geldige claim onderuithalen.
 
 Is je paspoort al verlopen en zoek je uit wat je nu moet doen, dan behandelt [ons vervolgartikel dat stap voor stap](https://traveldocumentvault.com/nl/blog/passport-expired-what-to-do/). Heb je een reis gepland en nadert de vervaldatum van je paspoort, dan is dit het moment om te verlengen in plaats van te wachten tot het verloopt, wat betekent dat je voor de Premium-service betaalt in plaats van het standaardtarief. Controleer nu de paspoorten van je gezin voordat je een reis boekt.
 
@@ -72,7 +80,7 @@ Is je paspoort al verlopen en zoek je uit wat je nu moet doen, dan behandelt [on
 
 Het lastigste scenario om je op voor te bereiden is dat je paspoort verloopt terwijl je nog in het buitenland bent. Verloopt het voordat je terugkeert, dan kun je niet aan boord gaan van een vlucht of veerboot naar huis, en moet je contact opnemen met de dichtstbijzijnde Britse ambassade of het consulaat voor een noodreisdocument, ook wel een ETD of noodpaspoort genoemd, dat alleen geldig is om thuis te komen.
 
-Het proces is traag en bureaucratisch. Je moet identiteitsbewijs overleggen en de kosten betalen, momenteel 125 pond, en de meeste ambassades hebben meerdere dagen nodig om het document uit te geven, al kunnen sommige het binnen 24-48 uur regelen als je echt vastzit, terwijl andere er een week over doen. Het nooddocument dekt alleen de specifieke reis terug naar het VK; het is geen toeristenpaspoort en staat geen verdere reizen toe.
+Het proces is traag en bureaucratisch. Je moet identiteitsbewijs overleggen en de kosten betalen die worden vastgesteld door de Foreign, Commonwealth and Development Office. De verwerkingstijd verschilt per ambassade en hangt af van hoe urgent je situatie is, dus vraag bij het consulaat na wat je kunt verwachten zodra je contact opneemt. Het nooddocument dekt alleen de specifieke reis terug naar het VK; het is geen toeristenpaspoort en staat geen verdere reizen toe.
 
 Herinneringen maanden van tevoren instellen, in plaats van de week voor je vlucht in paniek te raken, is wat dit in eerste instantie voorkomt. Verloopt je paspoort binnen 6 maanden na je reis, begin dan nu met het verlengingsproces voordat je je vastlegt op reisdata.
 
@@ -92,9 +100,9 @@ Ga er niet van uit dat je kunt reizen "omdat je terugkomt voordat het verloopt":
 
 Nee. Je visum zit vast aan je paspoort en is alleen geldig als het paspoort zelf geldig is. Is je paspoort verlopen, dan wordt het visum ongeldig, ongeacht de eigen vervaldatum ervan. Je kunt geen verlopen paspoort gebruiken, zelfs niet met een geldig visum.
 
-### Wat gebeurt er met reizen naar de EU nadat ETIAS in 2026 wordt gelanceerd?
+### Wat gebeurt er met reizen naar de EU zodra ETIAS wordt gelanceerd?
 
-Het inreis-uitreissysteem (EES), dat eind 2025 begon te worden ingevoerd, en ETIAS, dat momenteel in het laatste kwartaal van 2026 wordt verwacht, zullen de inreisregistratie digitaliseren. Dit verandert echter niets aan de vereiste geldigheid van je paspoort. Je hebt nog steeds een geldig paspoort nodig om het Schengengebied of een EU-land binnen te komen. Een verlopen paspoort wordt afgewezen, ongeacht je ETIAS-status.
+Het inreis-uitreissysteem (EES), dat al wordt ingevoerd, en ETIAS, dat naar verwachting zal volgen, zullen de inreisregistratie digitaliseren. Dit verandert echter niets aan de vereiste geldigheid van je paspoort. Je hebt nog steeds een geldig paspoort nodig om het Schengengebied of een EU-land binnen te komen. Een verlopen paspoort wordt afgewezen, ongeacht je ETIAS-status.
 
 ### Kan ik een noodverlenging aanvragen terwijl ik in het buitenland ben?
 
