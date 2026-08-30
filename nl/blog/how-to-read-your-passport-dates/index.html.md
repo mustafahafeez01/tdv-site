@@ -1,6 +1,6 @@
-# Je paspoort lezen: welke datum echt telt
+# Paspoortdata uitgelegd: afgiftedatum, vervaldatum en expedition date
 
-> De datapagina van je paspoort heeft twee data, en de meeste mensen noemen de verkeerde. Wat de afgiftedatum, de vervaldatum en het land van afgifte precies bepalen.
+> De expedition date in een paspoort is de afgiftedatum, niet de vervaldatum. Wat beide data bepalen en welke inreisformulieren daadwerkelijk vragen.
 
 Source: https://traveldocumentvault.com/nl/blog/how-to-read-your-passport-dates/
 

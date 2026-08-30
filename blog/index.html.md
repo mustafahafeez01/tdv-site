@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
-[Passport RulesHow to Read Your Passport: Which Date Actually MattersYour data page carries two dates and most people quote the wrong one. What the issue date, the expiry date and the issuing country each actually control.Aug 24, 20266 min read](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/)
+[Passport RulesPassport Dates Explained: Issue, Expiry and Date of ExpeditionDate of expedition on a passport means the date of issue, not the expiry. What each of the two dates controls, and which one entry forms actually want.Aug 24, 20266 min read](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/)
 
 ##
 

@@ -1,6 +1,6 @@
-# How to Read Your Passport: Which Date Actually Matters
+# Passport Dates Explained: Issue, Expiry and Date of Expedition
 
-> Your passport's data page carries two dates and most people quote the wrong one. What date of issue, date of expiry and issuing country each actually control.
+> Date of expedition on a passport means the date of issue, not the expiry. What each of the two dates controls, and which one entry forms actually want.
 
 Source: https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/
 

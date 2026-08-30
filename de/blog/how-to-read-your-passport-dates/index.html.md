@@ -1,6 +1,6 @@
-# So lesen Sie Ihren Reisepass: Welches Datum wirklich zählt
+# Reisepass-Daten erklärt: Ausstellungsdatum, Ablaufdatum und expedition date
 
-> Die Datenseite Ihres Reisepasses trägt zwei Daten, und die meisten Menschen nennen das falsche. Was Ausstellungsdatum, Ablaufdatum und ausstellendes Land tatsächlich bestimmen.
+> Das expedition date im Reisepass ist das Ausstellungsdatum, nicht das Ablaufdatum. Was die beiden Daten jeweils bestimmen und welches Einreiseformulare verlangen.
 
 Source: https://traveldocumentvault.com/de/blog/how-to-read-your-passport-dates/
 
