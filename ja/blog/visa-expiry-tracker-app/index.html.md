@@ -110,7 +110,7 @@ Source: https://traveldocumentvault.com/ja/blog/visa-expiry-tracker-app/
 
 [更新8分の読了時間 · 2026年2月22日パスポート更新にはどのくらい時間がかかりますか? 米国、英国、オーストラリア、カナダなど現在の時間](https://traveldocumentvault.com/ja/blog/how-long-does-passport-renewal-take/)
 
-[ビザと入国8分の読了時間 · 2026年5月8日ETIAS 2026: 必要なドキュメントと申請方法](https://traveldocumentvault.com/ja/blog/etias-documents-2026/)
+[ビザと入国8分の読了時間 · 2026年5月8日ETIAS: 必要なドキュメントと申請方法](https://traveldocumentvault.com/ja/blog/etias-documents-2026/)
 
 [トラベルツール7分の読了時間 · 2026年7月4日TripCase代替案: なぜあなたの旅行ドキュメントはオフラインで行く必要があるのか](https://traveldocumentvault.com/ja/blog/tripcase-alternative/)
 

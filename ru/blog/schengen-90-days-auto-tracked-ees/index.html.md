@@ -86,6 +86,6 @@ EES фиксирует каждый въезд и выезд в цифровом
 
 [Путешествия с семьёй6 мин чтения · июль 2026Правила Шенгена для паспортов в семейных поездках: в чём ошибаются родители](https://traveldocumentvault.com/ru/blog/schengen-passport-rules-family-trips/)
 
-[Визы и въезд7 мин чтения · май 2026ETIAS 2026: какие документы нужны и как подать заявку](https://traveldocumentvault.com/ru/blog/etias-documents-2026/)
+[Визы и въезд7 мин чтения · май 2026ETIAS: какие документы нужны и как подать заявку](https://traveldocumentvault.com/ru/blog/etias-documents-2026/)
 
 [Визы и въезд8 мин чтения · март 2026Приложение для отслеживания срока действия визы: на что обратить внимание и почему это важно](https://traveldocumentvault.com/ru/blog/visa-expiry-tracker-app/)

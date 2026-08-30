@@ -91,6 +91,8 @@ Airlines überprüfen jeden Reisepass gegen die IATA-Timatic-Datenbank, die die 
 
 ## Verwandte Artikel
 
+[Familienreisen8 Min. Lesezeit · August 2026Reisen mit einem Kind ohne beide Elternteile: Was Sie mitnehmen sollten](https://traveldocumentvault.com/de/blog/travelling-child-without-both-parents/)
+
 [Reisepassregeln8 Minuten Lesedauer · Februar 2026Die 6-Monats-Reisepassregel: Welche Länder sie durchsetzen und wie man es nie falsch macht](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/)
 
 [Reisepassregeln6 Minuten Lesedauer · April 2026Wie lange ist ein Reisepass gültig für Reisen? Erklärte Gültigkeitsregeln](https://traveldocumentvault.com/de/blog/how-long-is-passport-valid-for-travel/)

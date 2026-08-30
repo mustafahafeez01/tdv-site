@@ -86,6 +86,6 @@ EESは全ての出入国を電子的に記録するため、わずかな超過�
 
 [家族旅行6分読む・2026年7月シェンゲン圏のパスポートルール、親が誤解していること](https://traveldocumentvault.com/ja/blog/schengen-passport-rules-family-trips/)
 
-[ビザとエントリー7分読む・2026年5月ETIAS 2026: 必要な書類と申請方法](https://traveldocumentvault.com/ja/blog/etias-documents-2026/)
+[ビザとエントリー7分読む・2026年5月ETIAS: 必要な書類と申請方法](https://traveldocumentvault.com/ja/blog/etias-documents-2026/)
 
 [ビザとエントリー8分読む・2026年3月ビザ有効期限トラッカーアプリ: 何を探すべきか、なぜそれが重要か](https://traveldocumentvault.com/ja/blog/visa-expiry-tracker-app/)

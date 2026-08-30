@@ -110,7 +110,7 @@ Det beror på visumtypen. För långtidsvisum som kräver förnyelse är 90 daga
 
 [Förnyelse8 min läsning · 22 feb 2026How Long Does Passport Renewal Take? Current Times for US, UK, Australia, Canada & More](https://traveldocumentvault.com/sv/blog/how-long-does-passport-renewal-take/)
 
-[Visum och inresa8 min läsning · 8 maj 2026ETIAS 2026: What Documents You Need and How to Apply](https://traveldocumentvault.com/sv/blog/etias-documents-2026/)
+[Visum och inresa8 min läsning · 8 maj 2026ETIAS: What Documents You Need and How to Apply](https://traveldocumentvault.com/sv/blog/etias-documents-2026/)
 
 [Reseverktyg7 min läsning · 4 jul 2026TripCase-alternativ: varför dina resehandlingar behöver fungera offline](https://traveldocumentvault.com/sv/blog/tripcase-alternative/)
 

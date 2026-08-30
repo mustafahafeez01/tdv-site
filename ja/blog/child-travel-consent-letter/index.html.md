@@ -148,6 +148,8 @@ Source: https://traveldocumentvault.com/ja/blog/child-travel-consent-letter/
 
 ## 関連記事
 
+[ファミリー旅行8分で読める · 2026年8月片親だけで子どもが渡航するとき、持っていくべき書類](https://traveldocumentvault.com/ja/blog/travelling-child-without-both-parents/)
+
 [ファミリー旅行8分で読める · 2026年2月次の旅行前にファミリーの旅行書類を整理する方法](https://traveldocumentvault.com/ja/blog/how-to-organise-family-travel-documents/)
 
 [旅行準備9分で読める · 2026年3月すべての旅行のための国際旅行書類チェックリスト](https://traveldocumentvault.com/ja/blog/travel-document-checklist/)

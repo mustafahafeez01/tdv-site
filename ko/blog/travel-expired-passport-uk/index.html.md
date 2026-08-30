@@ -118,4 +118,4 @@ His Majesty's Passport Office는 명확합니다. 여권은 여행하는 날짜�
 
 [여권 규정6분 읽기 · 2026년 4월 22일6개월 여권 유효성 규칙: 어느 국가가 적용합니까](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)
 
-[긴급7분 읽기 · 2026년 5월 5일ETIAS 2026: 필요한 서류 및 신청 방법](https://traveldocumentvault.com/ko/blog/etias-documents-2026/)
+[긴급7분 읽기 · 2026년 5월 5일ETIAS: 필요한 서류 및 신청 방법](https://traveldocumentvault.com/ko/blog/etias-documents-2026/)

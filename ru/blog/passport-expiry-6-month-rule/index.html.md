@@ -148,4 +148,4 @@ Source: https://traveldocumentvault.com/ru/blog/passport-expiry-6-month-rule/
 
 [Организация7 мин чтения · февраль 2026Как организовать документы для путешествий всей семьи (перед следующей поездкой)](https://traveldocumentvault.com/ru/blog/how-to-organise-family-travel-documents/)
 
-[Визы и въезд8 мин чтения · май 2026ETIAS 2026: Какие документы вам нужны и как подать заявку](https://traveldocumentvault.com/ru/blog/etias-documents-2026/)
+[Визы и въезд8 мин чтения · май 2026ETIAS: Какие документы вам нужны и как подать заявку](https://traveldocumentvault.com/ru/blog/etias-documents-2026/)

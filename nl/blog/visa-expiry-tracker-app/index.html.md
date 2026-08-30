@@ -110,7 +110,7 @@ Dat hangt af van het type visum. Voor langetermijnvisa die verlenging vereisen, 
 
 [Verlenging8 min leestijd · feb 2026How Long Does Passport Renewal Take? Current Times for US, UK, Australia, Canada & More](https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-take/)
 
-[Visa en inreizen8 min leestijd · mei 2026ETIAS 2026: What Documents You Need and How to Apply](https://traveldocumentvault.com/nl/blog/etias-documents-2026/)
+[Visa en inreizen8 min leestijd · mei 2026ETIAS: What Documents You Need and How to Apply](https://traveldocumentvault.com/nl/blog/etias-documents-2026/)
 
 [Reistools7 min leestijd · jul 2026TripCase-alternatief: waarom je reisdocumenten offline moeten werken](https://traveldocumentvault.com/nl/blog/tripcase-alternative/)
 

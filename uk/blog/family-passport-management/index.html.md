@@ -104,6 +104,8 @@ Source: https://traveldocumentvault.com/uk/blog/family-passport-management/
 
 ## Пов'язані статті
 
+[Сімейні подорожі8 хв читання · серпень 2026Дитина летить без обох батьків: які документи брати з собою](https://traveldocumentvault.com/uk/blog/travelling-child-without-both-parents/)
+
 [Сімейні подорожі6 хв читання · липень 2026Лист про згоду батьків на подорож дитини: що потрібно знати батькам](https://traveldocumentvault.com/uk/blog/child-travel-consent-letter/)
 
 [Організація8 хв читання · червень 2026Як організувати документи для сімейної подорожі перед кожною поїздкою](https://traveldocumentvault.com/uk/blog/how-to-organise-family-travel-documents/)

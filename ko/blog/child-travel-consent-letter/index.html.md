@@ -148,6 +148,8 @@ Source: https://traveldocumentvault.com/ko/blog/child-travel-consent-letter/
 
 ## 관련 기사
 
+[가족 여행8분 읽기 · 2026년 8월부모 중 한 명 없이 아이가 여행할 때 챙겨야 할 서류](https://traveldocumentvault.com/ko/blog/travelling-child-without-both-parents/)
+
 [가족 여행8분 읽기 · 2026년 2월다음 여행 전에 가족 여행 서류를 조직하는 방법](https://traveldocumentvault.com/ko/blog/how-to-organise-family-travel-documents/)
 
 [여행 준비9분 읽기 · 2026년 3월모든 여행을 위한 국제 여행 서류 체크리스트](https://traveldocumentvault.com/ko/blog/travel-document-checklist/)

@@ -1,6 +1,6 @@
-# ETIAS 2026: Que Documentos Precisa e Como Candidatar-se
+# ETIAS: Que Documentos Precisa e Como Candidatar-se
 
-> Visitantes do Reino Unido, EUA e Canadá precisam de ETIAS em 2026. Passaporte (válido por 3+ meses), email, comprovativo de rendimento opcional. Consulte a taxa e os prazos atuais no site oficial da UE.
+> Visitantes do Reino Unido, EUA e Canadá vão precisar de ETIAS para viajar para a Europa. Passaporte válido por 3+ meses, email, comprovativo de rendimento opcional. Consulte o site oficial da UE para a taxa e os prazos atuais.
 
 Source: https://traveldocumentvault.com/pt/blog/etias-documents-2026/
 
@@ -10,15 +10,15 @@ Source: https://traveldocumentvault.com/pt/blog/etias-documents-2026/
 
 ## Pontos-Chave
 
-- **ETIAS lança em 2026** para viajantes do Reino Unido, EUA e Canadá - uma autorização de viagem digital para entrada sem visto na Europa
+- **ETIAS é uma autorização de viagem digital** para viajantes do Reino Unido, EUA e Canadá - necessária para a entrada sem visto no espaço Schengen assim que se tornar obrigatória
 - **Precisa de um passaporte válido por 3+ meses** além da sua data de saída e um endereço de email para se candidatar
 - **O tempo de processamento varia,** especialmente logo após o lançamento; candidate-se com boa antecedência à sua viagem e consulte o site oficial da UE para orientações atuais
 - **Consulte a taxa atual no site oficial da UE;** menores de 18 e maiores de 70 não pagam mas ainda precisam de autorização
 - **As rejeições comuns ocorrem por registos criminais não divulgados ou overstays anteriores - planeie em conformidade**
 
-Reservou a sua viagem de verão em família para Itália, mas depois ouve que ETIAS lança em meados de 2026 e está a pensar se precisa dele, que documentos preparar e quanto tempo todo o processo demora. Este guia responde a cada pergunta antes de chegar ao formulário de candidatura.
+Reservou uma viagem em família para Itália e ouviu dizer que o ETIAS está a caminho - um novo requisito de autorização digital para visitantes isentos de visto que se dirigem à Europa. Este guia explica o que é o ETIAS, que documentos precisa e como funciona a candidatura, para que esteja preparado antes de chegar ao formulário.
 
-O Sistema Europeu de Informação e Autorização de Viagens (ETIAS) não é um visto - é uma autorização de pré-viagem digital para visitantes de países isentos de visto. Cidadãos do Reino Unido, EUA e Canadá atualmente chegam à Europa, digitalizam o seu passaporte, respondem a algumas perguntas de fronteira e passam. A partir de 2026, esse processo muda-se para online, e candidata-se antes de voar.
+O Sistema Europeu de Informação e Autorização de Viagens (ETIAS) não é um visto - é uma autorização de pré-viagem digital para visitantes de países isentos de visto. Cidadãos do Reino Unido, EUA e Canadá atualmente chegam à Europa, digitalizam o seu passaporte, respondem a algumas perguntas de fronteira e passam. Assim que o ETIAS se tornar obrigatório, esse processo muda-se para online - candidata-se antes de voar.
 
 ## O que É ETIAS e Quem Precisa?
 
@@ -26,7 +26,7 @@ ETIAS é um sistema de autorização digital concebido para reforçar a seguran�
 
 Se tem um visto como um visto de longa duração Schengen, visto de família Reino Unido ou outro documento de residência, não vai precisar de ETIAS - nem cidadãos da UE, noruegueses, islandeses e liechtensteinenses. Crianças menores de 18 anos e adultos maiores de 70 são isentos da taxa mas ainda necessitam de autorização sem custo.
 
-**ETIAS afeta** viajantes individuais, famílias com múltiplos membros candidatando-se separadamente, nómadas digitais planeando estadias curtas repetidas, e qualquer pessoa reservando viagens europeias para finais de 2026 em diante - e lembre-se que cada pessoa entre 18 e 70 na sua família precisa da sua própria candidatura individual ao ETIAS.
+**ETIAS afeta** uma vasta gama de viajantes: turistas individuais, famílias que se candidatam separadamente para cada membro, e nómadas digitais que planeiam estadias curtas repetidas. Lembre-se de que cada pessoa da sua família precisa da sua própria candidatura ao ETIAS - incluindo crianças e pessoas mais velhas, que precisam de autorização mesmo estando isentas da taxa.
 
 ## Documentos e Informação Necessários para a Sua Candidatura
 
@@ -46,7 +46,7 @@ Muitos candidatos erroneamente assumem que precisam de registos de vacinação, 
 
 ## O Processo de Candidatura ETIAS: Passo a Passo
 
-Assim que tiver reunido a sua informação, o próprio formulário online é direto - visite o portal oficial de candidatura ETIAS (esperado lançar em início de 2026) e inicie uma nova candidatura sem precisar de criar uma conta completa, apenas usando um endereço de email e palavra-passe temporária.
+Assim que tiver reunido a sua informação, o próprio formulário online é direto - visite o portal oficial do ETIAS e inicie uma nova candidatura - não precisa de uma conta completa, apenas de um endereço de email e uma palavra-passe temporária.
 
 O formulário pede os seus detalhes pessoais (nome, data de nascimento, nacionalidade), informação de passaporte (número e data de validade) e planos de viagem (destino pretendido e duração da estadia). Seja preciso: se planeia visitar três países, liste os três. Se não tem a certeza sobre datas exatas, use intervalos de meses aproximados - a inconsistência é o que desencadeia rejeições, não datas aproximadas.
 
@@ -108,7 +108,7 @@ Os oficiais de fronteira podem ainda solicitar qualquer um destes documentos ap�
 
 ### Quando é que o ETIAS se torna obrigatório para viajar na Europa?
 
-O ETIAS deverá tornar-se obrigatório no último trimestre de 2026 (outubro a dezembro), após o lançamento do Sistema de Entrada e Saída (EES) em abril de 2026. Poderá haver um período de transição onde o sistema funciona em paralelo com os selos de passaporte. Candidate-se com vários meses de antecedência antes da sua viagem planeada para contabilizar o processamento e atrasos do lançamento inicial.
+O ETIAS ainda não se tornou obrigatório, e o calendário já foi alterado várias vezes. O Sistema de Entrada e Saída (EES) está a ser implementado primeiro, devendo o ETIAS seguir-se assim que o EES estiver estabelecido. Poderá haver um período de transição em que o ETIAS funcione em paralelo com os selos de passaporte. Consulte o site oficial da UE para conhecer a situação atual e candidate-se vários meses antes da sua viagem planeada para contabilizar o processamento e possíveis atrasos na implementação.
 
 ### Quem precisa de se candidatar a ETIAS?
 
@@ -128,7 +128,7 @@ Se for rejeitado devido a informações incompletas ou inconsistentes, pode cand
 
 ### Posso viajar para Europa antes de ETIAS lançar?
 
-Sim. ETIAS ainda não é obrigatório. Até finais de 2026, cidadãos isentos de visto podem viajar para Europa usando procedimentos de fronteira atuais (digitalização de passaporte, declaração verbal e inspeção). No entanto, assim que ETIAS se torna obrigatório em Q4 2026, todas as futuras viagens necessitarão de autorização prévia.
+Sim. O ETIAS ainda não é obrigatório. Enquanto não for, os viajantes isentos de visto podem continuar a usar os procedimentos de fronteira atuais - digitalização de passaporte, declaração verbal e inspeção. Assim que o ETIAS se tornar obrigatório, todas as futuras viagens vão exigir autorização prévia. Consulte o site oficial da UE antes de reservar para confirmar a situação atual.
 
 ## Artigos Relacionados
 

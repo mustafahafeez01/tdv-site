@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
+[FamilienreisenReisen mit einem Kind ohne beide Elternteile: Was Sie mitnehmen solltenAlleiniges Sorgerecht, Reisen mit Großeltern, unterschiedliche Nachnamen - jede Situation verändert die Unterlagen, die Ihr Kind braucht. Worauf der Check-in-Schalter und der Grenzbeamte jeweils achten.30. August 20268 Min. Lesezeit](https://traveldocumentvault.com/de/blog/travelling-child-without-both-parents/)
+
+##
+
 [PassregelnSo lesen Sie Ihren Reisepass: Welches Datum wirklich zähltDie Datenseite Ihres Reisepasses trägt zwei Daten, und die meisten Menschen nennen das falsche. Was Ausstellungsdatum, Ablaufdatum und ausstellendes Land tatsächlich bestimmen.24. August 20266 Min. Lesedauer](https://traveldocumentvault.com/de/blog/how-to-read-your-passport-dates/)
 
 ##
@@ -56,7 +60,7 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
-[Visa & EinreiseETIAS 2026: Welche Dokumente Sie benötigen & Wie Sie sich anmelden ETIAS wird für visumfreie Reisende gelauncht, die nach Europa reisen. Hier erfahren Sie, wer es benötigt, welche Dokumente Sie einreichen müssen, die häufigsten Ablehnungsgründe und wie Sie mit einer Ablehnung umgehen. 8. Mai 20268 Min. Lesezeit](https://traveldocumentvault.com/de/blog/etias-documents-2026/)
+[Visa & EinreiseETIAS: Welche Dokumente Sie benötigen und wie Sie sich anmelden ETIAS wird für visumfreie Reisende gelauncht, die nach Europa reisen. Hier erfahren Sie, wer es benötigt, welche Dokumente Sie einreichen müssen, die häufigsten Ablehnungsgründe und wie Sie mit einer Ablehnung umgehen. 8. Mai 20268 Min. Lesezeit](https://traveldocumentvault.com/de/blog/etias-documents-2026/)
 
 ##
 

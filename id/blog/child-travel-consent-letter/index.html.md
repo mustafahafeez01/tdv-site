@@ -148,6 +148,8 @@ Banyak negara kini menerima salinan digital di perangkat seluler atau dicetak da
 
 ## Artikel Terkait
 
+[Perjalanan Keluarga8 menit baca - Agustus 2026Bepergian dengan Anak Tanpa Kedua Orang Tua: Dokumen yang Harus Dibawa](https://traveldocumentvault.com/id/blog/travelling-child-without-both-parents/)
+
 [Perjalanan Keluarga9 menit bacaCara Mengatur Dokumen Perjalanan Keluarga (Tanpa Bikin Pusing)](https://traveldocumentvault.com/id/blog/how-to-organise-family-travel-documents/)
 
 [Persiapan Perjalanan9 menit bacaDaftar Periksa Dokumen Perjalanan Internasional untuk Setiap Perjalanan](https://traveldocumentvault.com/id/blog/travel-document-checklist/)

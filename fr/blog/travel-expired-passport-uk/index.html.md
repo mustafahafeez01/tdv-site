@@ -118,4 +118,4 @@ Non, mais vous ne pouvez toujours pas voyager avec. Un passeport endommagé peut
 
 [Règles de passeport6 min de lecture · 22 avril 2026La règle de validité de passeport de 6 mois : quels pays l'appliquent](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)
 
-[Urgence7 min de lecture · 5 mai 2026ETIAS 2026 : documents nécessaires et comment postuler](https://traveldocumentvault.com/fr/blog/etias-documents-2026/)
+[Urgence7 min de lecture · 5 mai 2026ETIAS : documents nécessaires et comment postuler](https://traveldocumentvault.com/fr/blog/etias-documents-2026/)

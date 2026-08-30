@@ -91,6 +91,8 @@ Maskapai memeriksa setiap paspor terhadap basis data Timatic milik IATA, yang me
 
 ## Artikel Terkait
 
+[Perjalanan Keluarga8 menit baca - Agustus 2026Bepergian dengan Anak Tanpa Kedua Orang Tua: Dokumen yang Harus Dibawa](https://traveldocumentvault.com/id/blog/travelling-child-without-both-parents/)
+
 [Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Negara Mana yang Menerapkannya dan Cara Menghindari Masalah](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
 
 [Aturan Paspor6 menit bacaBerapa Lama Paspor Berlaku untuk Perjalanan?](https://traveldocumentvault.com/id/blog/how-long-is-passport-valid-for-travel/)

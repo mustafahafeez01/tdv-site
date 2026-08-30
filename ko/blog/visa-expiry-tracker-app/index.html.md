@@ -110,7 +110,7 @@ Source: https://traveldocumentvault.com/ko/blog/visa-expiry-tracker-app/
 
 [갱신8분 읽기 · 2026년 2월 22일여권 갱신에 얼마나 걸리나요? 미국, 영국, 호주, 캐나다 및 기타 현재 시간](https://traveldocumentvault.com/ko/blog/how-long-does-passport-renewal-take/)
 
-[비자 및 입국8분 읽기 · 2026년 5월 8일ETIAS 2026: 필요한 서류 및 신청 방법](https://traveldocumentvault.com/ko/blog/etias-documents-2026/)
+[비자 및 입국8분 읽기 · 2026년 5월 8일ETIAS: 필요한 서류 및 신청 방법](https://traveldocumentvault.com/ko/blog/etias-documents-2026/)
 
 [여행 도구7분 읽기 · 2026년 7월 4일TripCase 대안: 여행 서류가 오프라인으로 이동해야 하는 이유](https://traveldocumentvault.com/ko/blog/tripcase-alternative/)
 

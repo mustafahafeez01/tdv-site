@@ -91,6 +91,8 @@ EU の要件は明確です。パスポートは出国予定日から3ヶ月以�
 
 ## 関連記事
 
+[ファミリー旅行8分で読める · 2026年8月片親だけで子どもが渡航するとき、持っていくべき書類](https://traveldocumentvault.com/ja/blog/travelling-child-without-both-parents/)
+
 [パスポートルール8分で読める · 2026年2月6ヶ月パスポートルール：どの国が実施しており、どのようにして問題を回避するか](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)
 
 [パスポートルール6分で読める · 2026年4月パスポートはどのくらい有効ですか。旅行のための有効期限ルール説明](https://traveldocumentvault.com/ja/blog/how-long-is-passport-valid-for-travel/)

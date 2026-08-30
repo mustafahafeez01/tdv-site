@@ -110,7 +110,7 @@ Depende del tipo de visado. Para visados de larga estancia que requieren renovac
 
 [Renovación8 min de lectura · 22 de febrero de 2026¿Cuánto Tiempo Tarda la Renovación del Pasaporte? Tiempos Actuales para EE.UU., Reino Unido, Australia, Canadá y Más](https://traveldocumentvault.com/es/blog/how-long-does-passport-renewal-take/)
 
-[Visados y Entrada8 min de lectura · 8 de mayo de 2026ETIAS 2026: Qué Documentos Necesitas y Cómo Solicitar](https://traveldocumentvault.com/es/blog/etias-documents-2026/)
+[Visados y Entrada8 min de lectura · 8 de mayo de 2026ETIAS: Qué Documentos Necesitas y Cómo Solicitar](https://traveldocumentvault.com/es/blog/etias-documents-2026/)
 
 [Herramientas de Viaje7 min de lectura · 4 de julio de 2026Alternativa a TripCase: Por Qué Tus Documentos de Viaje Necesitan Funcionar Sin Conexión](https://traveldocumentvault.com/es/blog/tripcase-alternative/)
 

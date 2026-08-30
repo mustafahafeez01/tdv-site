@@ -150,4 +150,4 @@ Ogni passaporto di un membro della famiglia viene valutato individualmente - non
 
 [Organizzazione7 minuti di lettura · 5 febbraio 2026Come Organizzare i Documenti di Viaggio della Famiglia (Prima del Vostro Prossimo Viaggio)](https://traveldocumentvault.com/it/blog/how-to-organise-family-travel-documents/)
 
-[Visti & Ingresso8 minuti di lettura · 8 maggio 2026ETIAS 2026: Quali Documenti Avete Bisogno e Come Candidarsi](https://traveldocumentvault.com/it/blog/etias-documents-2026/)
+[Visti & Ingresso8 minuti di lettura · 8 maggio 2026ETIAS: Quali Documenti Avete Bisogno e Come Candidarsi](https://traveldocumentvault.com/it/blog/etias-documents-2026/)

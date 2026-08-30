@@ -86,6 +86,6 @@ De app telt dagen per persoon, per land, over al je reizen heen, en projecteert 
 
 [Gezinsreizen6 min leestijd · jul 2026Schengen-paspoortregels voor gezinsreizen: wat ouders vaak verkeerd doen](https://traveldocumentvault.com/nl/blog/schengen-passport-rules-family-trips/)
 
-[Visa's & Binnenkomst7 min leestijd · mei 2026ETIAS 2026: welke documenten je nodig hebt en hoe je aanvraagt](https://traveldocumentvault.com/nl/blog/etias-documents-2026/)
+[Visa's & Binnenkomst7 min leestijd · mei 2026ETIAS: welke documenten je nodig hebt en hoe je aanvraagt](https://traveldocumentvault.com/nl/blog/etias-documents-2026/)
 
 [Visa's & Binnenkomst8 min leestijd · mrt 2026App voor het bijhouden van visumvervaldatums: waar je op moet letten en waarom het ertoe doet](https://traveldocumentvault.com/nl/blog/visa-expiry-tracker-app/)

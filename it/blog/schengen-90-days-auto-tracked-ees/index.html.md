@@ -86,6 +86,6 @@ L'app conta i giorni Schengen per persona, per paese, in tutti i Suoi viaggi, e 
 
 [Viaggi in Famiglia6 min di lettura - luglio 2026Regole Passaporto Schengen per Viaggi in Famiglia: Ciò che i Genitori Comprendono Male](https://traveldocumentvault.com/it/blog/schengen-passport-rules-family-trips/)
 
-[Visti & Ingresso7 min di lettura - maggio 2026ETIAS 2026: Quali Documenti Servono e Come Fare Domanda](https://traveldocumentvault.com/it/blog/etias-documents-2026/)
+[Visti & Ingresso7 min di lettura - maggio 2026ETIAS: Quali Documenti Servono e Come Fare Domanda](https://traveldocumentvault.com/it/blog/etias-documents-2026/)
 
 [Visti & Ingresso8 min di lettura - marzo 2026App Tracker Scadenza Visto: Cosa Cercare e Perché Importa](https://traveldocumentvault.com/it/blog/visa-expiry-tracker-app/)

@@ -110,7 +110,7 @@ Tergantung jenis visanya. Untuk visa jangka panjang yang memerlukan perpanjangan
 
 [Perpanjangan8 menit bacaHow Long Does Passport Renewal Take? Current Times for US, UK, Australia, Canada & More](https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-take/)
 
-[Visa & Imigrasi8 menit bacaETIAS 2026: What Documents You Need and How to Apply](https://traveldocumentvault.com/id/blog/etias-documents-2026/)
+[Visa & Imigrasi8 menit bacaETIAS: What Documents You Need and How to Apply](https://traveldocumentvault.com/id/blog/etias-documents-2026/)
 
 [Alat Perjalanan7 menit bacaAlternatif TripCase: Mengapa Dokumen Perjalanan Anda Perlu Bisa Diakses Luring](https://traveldocumentvault.com/id/blog/tripcase-alternative/)
 

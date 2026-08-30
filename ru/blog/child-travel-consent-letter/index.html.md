@@ -148,6 +148,8 @@ Source: https://traveldocumentvault.com/ru/blog/child-travel-consent-letter/
 
 ## Похожие статьи
 
+[Путешествия с семьёй8 мин чтения · август 2026Ребёнок летит без обоих родителей: какие документы брать с собой](https://traveldocumentvault.com/ru/blog/travelling-child-without-both-parents/)
+
 [Путешествия с семьёй9 мин чтения · февраль 2026Как организовать документы для путешествий всей семьи (и не сойти с ума)](https://traveldocumentvault.com/ru/blog/how-to-organise-family-travel-documents/)
 
 [Подготовка к поездке9 мин чтения · март 2026Чек-лист документов для международных поездок на любой случай](https://traveldocumentvault.com/ru/blog/travel-document-checklist/)

@@ -118,4 +118,4 @@ His Majesty's Passport Officeは明確に述べています。パスポートは
 
 [パスポートルール6分で読めます · 2026年4月22日6か月のパスポート有効性ルール：それを強制する国](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)
 
-[緊急7分で読めます · 2026年5月5日ETIAS 2026：必要なドキュメントと適用方法](https://traveldocumentvault.com/ja/blog/etias-documents-2026/)
+[緊急7分で読めます · 2026年5月5日ETIAS：必要なドキュメントと適用方法](https://traveldocumentvault.com/ja/blog/etias-documents-2026/)

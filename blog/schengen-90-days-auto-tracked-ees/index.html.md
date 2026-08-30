@@ -88,6 +88,6 @@ The app counts days per person, per country, across all your trips, and projects
 
 [Family Travel6 min read · July 2026Schengen Passport Rules for Family Trips: What Parents Get Wrong](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
 
-[Visas & Entry7 min read · May 2026ETIAS 2026: What Documents You Need and How to Apply](https://traveldocumentvault.com/blog/etias-documents-2026/)
+[Visas & Entry7 min read · May 2026ETIAS: What Documents You Need and How to Apply](https://traveldocumentvault.com/blog/etias-documents-2026/)
 
 [Visas & Entry8 min read · March 2026Visa Expiry Tracker App: What to Look For and Why It Matters](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/)

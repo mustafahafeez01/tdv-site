@@ -112,7 +112,7 @@ It depends on the visa type. For long-stay visas requiring renewal, 90 days is a
 
 [Renewal8 min read · Feb 22, 2026How Long Does Passport Renewal Take? Current Times for US, UK, Australia, Canada & More](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)
 
-[Visas & Entry8 min read · May 8, 2026ETIAS 2026: What Documents You Need and How to Apply](https://traveldocumentvault.com/blog/etias-documents-2026/)
+[Visas & Entry8 min read · May 8, 2026ETIAS: What Documents You Need and How to Apply](https://traveldocumentvault.com/blog/etias-documents-2026/)
 
 [Travel Tools7 min read · Jul 4, 2026TripCase Alternative: Why Your Travel Documents Need to Go Offline](https://traveldocumentvault.com/blog/tripcase-alternative/)
 

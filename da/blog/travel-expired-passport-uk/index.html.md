@@ -118,4 +118,4 @@ Nej, men du kan stadig ikke rejse med det. Et beskadiget pas kan blive afvist af
 
 [Pasregler6 min læsning · 22. apr. 20266-månedersreglen for pasgyldighed: hvilke lande håndhæver den](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)
 
-[Nødsituation7 min læsning · 5. maj 2026ETIAS 2026: hvilke dokumenter du skal bruge, og sådan ansøger du](https://traveldocumentvault.com/da/blog/etias-documents-2026/)
+[Nødsituation7 min læsning · 5. maj 2026ETIAS: hvilke dokumenter du skal bruge, og sådan ansøger du](https://traveldocumentvault.com/da/blog/etias-documents-2026/)

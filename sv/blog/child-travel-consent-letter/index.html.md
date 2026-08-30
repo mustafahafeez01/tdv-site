@@ -148,6 +148,8 @@ Många länder accepterar numera digitala kopior på mobila enheter eller utskri
 
 ## Relaterade artiklar
 
+[Familjeresor8 min läsning · augusti 2026Att Resa med Barn Utan Båda Föräldrarna: Vad Du Ska Ta Med](https://traveldocumentvault.com/sv/blog/travelling-child-without-both-parents/)
+
 [Familjeresor9 min läsning · 8 feb 2026Så organiserar du familjens resehandlingar (utan att bli galen)](https://traveldocumentvault.com/sv/blog/how-to-organise-family-travel-documents/)
 
 [Reseförberedelser9 min läsning · mars 2026Checklista för internationella resehandlingar - för varje resa](https://traveldocumentvault.com/sv/blog/travel-document-checklist/)

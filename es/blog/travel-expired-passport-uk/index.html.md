@@ -118,4 +118,4 @@ No, pero aún no puedes viajar con él. Un pasaporte dañado puede ser rechazado
 
 [Normas de pasaporte6 min de lectura · 22 de abr, 2026La norma de validez de pasaporte de 6 meses: Qué países la aplican](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/)
 
-[Emergencia7 min de lectura · 5 de may, 2026ETIAS 2026: Qué documentos necesitas y cómo solicitar](https://traveldocumentvault.com/es/blog/etias-documents-2026/)
+[Emergencia7 min de lectura · 5 de may, 2026ETIAS: Qué documentos necesitas y cómo solicitar](https://traveldocumentvault.com/es/blog/etias-documents-2026/)

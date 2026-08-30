@@ -104,6 +104,8 @@ Vous devrez renouveler le passeport de cette personne avant le voyage. Si vous √
 
 ## Articles connexes
 
+[Voyage en famille8 min de lecture - ao√ªt 2026Voyager avec un enfant sans ses deux parents : quels documents emporter](https://traveldocumentvault.com/fr/blog/travelling-child-without-both-parents/)
+
 [Voyages en famille6 min de lecture - juillet 2026Lettre de consentement de voyage pour enfants : ce que les parents doivent savoir](https://traveldocumentvault.com/fr/blog/child-travel-consent-letter/)
 
 [Organisation8 min de lecture - juin 2026Comment organiser les documents de voyage familiaux avant chaque voyage](https://traveldocumentvault.com/fr/blog/how-to-organise-family-travel-documents/)

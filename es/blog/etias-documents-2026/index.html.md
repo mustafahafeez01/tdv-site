@@ -1,6 +1,6 @@
-# ETIAS 2026: Qué Documentos Necesitas y Cómo Solicitar
+# ETIAS: Qué Documentos Necesitas y Cómo Solicitar
 
-> Los visitantes del Reino Unido, EE.UU. y Canadá necesitan ETIAS en 2026. Pasaporte (válido 3+ meses), correo electrónico, comprobante de ingresos opcional. Consulta la tarifa y los plazos actuales en el sitio oficial de la UE.
+> Los visitantes del Reino Unido, EE.UU. y Canadá necesitarán ETIAS para viajar a Europa. Pasaporte válido 3+ meses, correo electrónico, comprobante de ingresos opcional. Consulta el sitio oficial de la UE para conocer la tarifa y los plazos actuales.
 
 Source: https://traveldocumentvault.com/es/blog/etias-documents-2026/
 
@@ -10,15 +10,15 @@ Source: https://traveldocumentvault.com/es/blog/etias-documents-2026/
 
 ## Puntos Clave
 
-- **ETIAS se lanza en 2026** para viajeros del Reino Unido, EE.UU. y Canadá - una autorización de viaje digital para entrada sin visado a Europa
+- **ETIAS es una autorización de viaje digital** para viajeros del Reino Unido, EE.UU. y Canadá - necesaria para la entrada sin visado al espacio Schengen una vez que sea obligatoria
 - **Necesitas un pasaporte válido durante 3+ meses** después de tu fecha de salida y una dirección de correo electrónico para solicitar
 - **El tiempo de procesamiento varía,** especialmente poco después del lanzamiento; solicita con suficiente antelación a tu viaje y consulta el sitio oficial de la UE para la orientación actual
 - **Consulta la tarifa actual en el sitio oficial de la UE;** los menores de 18 y mayores de 70 no pagan pero igualmente necesitan autorización
 - **Los rechazos comunes ocurren por antecedentes penales no divulgados o estadías excesivas anteriores - planifica en consecuencia**
 
-Has reservado tu viaje familiar de verano a Italia, pero luego escuchas que ETIAS se lanza a mediados de 2026 y te estás preguntando si lo necesitas, qué documentos preparar y cuánto tiempo toma todo el proceso. Esta guía responde cada pregunta antes de que llegues al formulario de solicitud.
+Has reservado un viaje familiar a Italia y has escuchado que ETIAS está en camino - un nuevo requisito de autorización digital para visitantes exentos de visado que se dirigen a Europa. Esta guía explica qué es ETIAS, qué documentos necesitas y cómo funciona la solicitud, para que estés preparado antes de llegar al formulario.
 
-El Sistema Europeo de Información y Autorización de Viajes (ETIAS) no es un visado - es una autorización de pre-viaje digital para visitantes de países exentos de visado. Los ciudadanos del Reino Unido, EE.UU. y Canadá actualmente llegan a Europa, escanean tu pasaporte, responden algunas preguntas fronterizas y pasan. A partir de 2026, ese proceso se traslada en línea, y solicitas antes de volar.
+El Sistema Europeo de Información y Autorización de Viajes (ETIAS) no es un visado - es una autorización de pre-viaje digital para visitantes de países exentos de visado. Los ciudadanos del Reino Unido, EE.UU. y Canadá actualmente llegan a Europa, escanean tu pasaporte, responden algunas preguntas fronterizas y pasan. Una vez que ETIAS sea obligatorio, ese proceso se traslada en línea - solicitas antes de volar.
 
 ## ¿Qué es ETIAS y Quién lo Necesita?
 
@@ -26,7 +26,7 @@ ETIAS es un sistema de autorización digital diseñado para fortalecer la seguri
 
 Si posees un visado como un visado de larga duración Schengen, visado de familia del Reino Unido u otro permiso de residencia, no necesitarás ETIAS - tampoco lo harán los ciudadanos de la UE, nacionales noruegos, islandeses y de Liechtenstein. Los menores de 18 años y los mayores de 70 están exentos de la tarifa pero aún requieren autorización sin costo.
 
-**ETIAS afecta** a viajeros individuales, familias con múltiples miembros solicitando por separado, nómadas digitales planeando estancias cortas repetidas, y cualquiera que reserve viajes europeos para finales de 2026 en adelante - y recuerda que cada persona entre 18 y 70 años en tu familia necesita su propia solicitud individual de ETIAS.
+**ETIAS afecta** a una amplia variedad de viajeros: turistas individuales, familias que solicitan por separado para cada miembro, y nómadas digitales que planean estancias cortas repetidas. Recuerda que cada persona de tu familia necesita su propia solicitud de ETIAS - incluidos los niños y las personas mayores, que necesitan autorización aunque estén exentos de la tarifa.
 
 ## Documentos e Información Requeridos para Tu Solicitud
 
@@ -46,7 +46,7 @@ Muchos solicitantes erróneamente asumen que necesitan registros de vacunación,
 
 ## El Proceso de Solicitud de ETIAS: Paso a Paso
 
-Una vez que hayas recopilado tu información, la solicitud en línea es sencilla - visita el portal oficial de solicitud de ETIAS (se espera que se lance a principios de 2026) e inicia una nueva solicitud sin necesidad de crear una cuenta completa, solo usando una dirección de correo electrónico y contraseña temporal.
+Una vez que hayas recopilado tu información, la solicitud en línea es sencilla - visita el portal oficial de ETIAS e inicia una nueva solicitud - no necesitas una cuenta completa, solo una dirección de correo electrónico y una contraseña temporal.
 
 El formulario solicita tus datos personales (nombre, fecha de nacimiento, nacionalidad), información del pasaporte (número y fecha de validez) y tus planes de viaje (destino previsto y duración de la estancia). Sé preciso: si planeas visitar tres países, enumera los tres. Si no estás seguro de fechas exactas, usa rangos de meses aproximados - la inconsistencia es lo que desencadena rechazos, no las fechas aproximadas.
 
@@ -108,7 +108,7 @@ Los oficiales de frontera aún pueden solicitar cualquiera de estos documentos a
 
 ### ¿Cuándo se vuelve obligatorio ETIAS para viajar a Europa?
 
-Se espera que ETIAS se vuelva obligatorio en el último trimestre de 2026 (octubre-diciembre), tras el lanzamiento del Sistema de Entrada y Salida (EES) en abril de 2026. Puede haber un período de transición donde el sistema funcione en paralelo con los sellos de pasaporte. Solicita varios meses antes de tu viaje previsto para tener en cuenta el procesamiento y retrasos del lanzamiento inicial.
+ETIAS todavía no es obligatorio, y el calendario se ha modificado varias veces. El Sistema de Entrada y Salida (EES) se implementa primero, y se espera que ETIAS lo siga una vez que el EES esté establecido. Puede haber un período de transición en el que ETIAS funcione en paralelo con los sellos de pasaporte. Consulta el sitio oficial de la UE para conocer la situación actual, y solicita varios meses antes de tu viaje previsto para tener en cuenta el procesamiento y posibles retrasos en la implementación.
 
 ### ¿Quién necesita solicitar ETIAS?
 
@@ -128,7 +128,7 @@ Si se rechaza debido a información incompleta o inconsistente, puedes volver a 
 
 ### ¿Puedo viajar a Europa antes de que se lance ETIAS?
 
-Sí. ETIAS aún no es obligatorio. Hasta finales de 2026, los ciudadanos exentos de visado pueden viajar a Europa usando procedimientos fronterizos actuales (escaneo de pasaporte, declaración verbal e inspección). Sin embargo, una vez que ETIAS se vuelve obligatorio en Q4 2026, todos los viajes futuros requerirán autorización previa.
+Sí. ETIAS aún no es obligatorio. Mientras no lo sea, los viajeros exentos de visado pueden seguir usando los procedimientos fronterizos actuales - escaneo de pasaporte, declaración verbal e inspección. Una vez que ETIAS sea obligatorio, todos los viajes futuros requerirán autorización previa. Consulta el sitio oficial de la UE antes de reservar para confirmar la situación actual.
 
 ## Artículos Relacionados
 

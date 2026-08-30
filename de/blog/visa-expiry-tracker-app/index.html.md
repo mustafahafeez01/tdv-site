@@ -110,7 +110,7 @@ Das hängt von der Visumsorte ab. Für Langzeitvisas, die eine Verlängerung ben
 
 [Erneuerung8 Min Lesedauer · 22. Feb. 2026Wie lange dauert eine Passerneuerung? Aktuelle Zeiten für USA, Vereinigtes Königreich, Australien, Kanada und mehr](https://traveldocumentvault.com/de/blog/how-long-does-passport-renewal-take/)
 
-[Visa & Einreise8 Min Lesedauer · 8. Mai 2026ETIAS 2026: Welche Dokumente Sie benötigen und wie Sie einen Antrag stellen](https://traveldocumentvault.com/de/blog/etias-documents-2026/)
+[Visa & Einreise8 Min Lesedauer · 8. Mai 2026ETIAS: Welche Dokumente Sie benötigen und wie Sie einen Antrag stellen](https://traveldocumentvault.com/de/blog/etias-documents-2026/)
 
 [Reisetools7 Min Lesedauer · 4. Juli 2026TripCase-Alternative: Warum Ihre Reisedokumente offline gehen müssen](https://traveldocumentvault.com/de/blog/tripcase-alternative/)
 

@@ -118,4 +118,4 @@ Nej, men du kan ändå inte resa med det. Ett skadat pass kan nekas av flygbolag
 
 [Passregler6 min läsning · 22 apr 20266-månadersregeln för pass: vilka länder som tillämpar den](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/)
 
-[Nödsituation7 min läsning · 5 maj 2026ETIAS 2026: vilka handlingar du behöver och hur du ansöker](https://traveldocumentvault.com/sv/blog/etias-documents-2026/)
+[Nödsituation7 min läsning · 5 maj 2026ETIAS: vilka handlingar du behöver och hur du ansöker](https://traveldocumentvault.com/sv/blog/etias-documents-2026/)

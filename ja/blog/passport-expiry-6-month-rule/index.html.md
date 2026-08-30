@@ -150,4 +150,4 @@ Source: https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/
 
 [整理7 分で読める · 2026年2月5日家族旅行ドキュメント整理。次の旅行前に](https://traveldocumentvault.com/ja/blog/how-to-organise-family-travel-documents/)
 
-[ビザ&入国8 分で読める · 2026年5月8日ETIAS 2026：必要なドキュメントと申請方法](https://traveldocumentvault.com/ja/blog/etias-documents-2026/)
+[ビザ&入国8 分で読める · 2026年5月8日ETIAS：必要なドキュメントと申請方法](https://traveldocumentvault.com/ja/blog/etias-documents-2026/)

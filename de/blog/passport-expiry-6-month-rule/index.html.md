@@ -150,4 +150,4 @@ Der Reisepass jedes Familienmitglieds wird einzeln bewertet - es gibt keine Grup
 
 [Organisation7 Min Lesezeit · 5. Februar 2026Wie Sie Reisedokumente der Familie organisieren (vor Ihrer nächsten Reise)](https://traveldocumentvault.com/de/blog/how-to-organise-family-travel-documents/)
 
-[Visa und Einreise8 Min Lesezeit · 8. Mai 2026ETIAS 2026: Welche Dokumente Sie benötigen und wie Sie beantragen](https://traveldocumentvault.com/de/blog/etias-documents-2026/)
+[Visa und Einreise8 Min Lesezeit · 8. Mai 2026ETIAS: Welche Dokumente Sie benötigen und wie Sie beantragen](https://traveldocumentvault.com/de/blog/etias-documents-2026/)

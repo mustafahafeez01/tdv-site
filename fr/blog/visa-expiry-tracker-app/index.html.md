@@ -110,7 +110,7 @@ Cela dépend du type de visa. Pour les visas de long terme nécessitant un renou
 
 [Renouvellement8 min de lecture · 22 février 2026Combien de temps prend le renouvellement du passeport? Délais actuels pour les États-Unis, le Royaume-Uni, l'Australie, le Canada et bien d'autres](https://traveldocumentvault.com/fr/blog/how-long-does-passport-renewal-take/)
 
-[Visas et entrée8 min de lecture · 8 mai 2026ETIAS 2026: Documents dont vous avez besoin et comment postuler](https://traveldocumentvault.com/fr/blog/etias-documents-2026/)
+[Visas et entrée8 min de lecture · 8 mai 2026ETIAS: Documents dont vous avez besoin et comment postuler](https://traveldocumentvault.com/fr/blog/etias-documents-2026/)
 
 [Outils de voyage7 min de lecture · 4 juillet 2026Alternative à TripCase: Pourquoi vos documents de voyage doivent rester hors ligne](https://traveldocumentvault.com/fr/blog/tripcase-alternative/)
 

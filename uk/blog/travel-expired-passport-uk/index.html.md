@@ -118,4 +118,4 @@ Source: https://traveldocumentvault.com/uk/blog/travel-expired-passport-uk/
 
 [Правила паспорта6 хв читання · 22 кві 2026Правило шести місяців для паспорта: які країни його вимагають](https://traveldocumentvault.com/uk/blog/passport-expiry-6-month-rule/)
 
-[Термінові випадки7 хв читання · 5 тра 2026ETIAS 2026: які документи потрібні та як подати заявку](https://traveldocumentvault.com/uk/blog/etias-documents-2026/)
+[Термінові випадки7 хв читання · 5 тра 2026ETIAS: які документи потрібні та як подати заявку](https://traveldocumentvault.com/uk/blog/etias-documents-2026/)

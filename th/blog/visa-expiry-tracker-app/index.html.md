@@ -110,7 +110,7 @@ Source: https://traveldocumentvault.com/th/blog/visa-expiry-tracker-app/
 
 [การต่ออายุอ่าน 8 นาทีHow Long Does Passport Renewal Take? Current Times for US, UK, Australia, Canada & More](https://traveldocumentvault.com/th/blog/how-long-does-passport-renewal-take/)
 
-[วีซ่าและการเข้าเมืองอ่าน 8 นาทีETIAS 2026: What Documents You Need and How to Apply](https://traveldocumentvault.com/th/blog/etias-documents-2026/)
+[วีซ่าและการเข้าเมืองอ่าน 8 นาทีETIAS: What Documents You Need and How to Apply](https://traveldocumentvault.com/th/blog/etias-documents-2026/)
 
 [เครื่องมือการเดินทางอ่าน 7 นาทีทางเลือกแทน TripCase: ทำไมเอกสารการเดินทางของคุณต้องออฟไลน์ได้](https://traveldocumentvault.com/th/blog/tripcase-alternative/)
 

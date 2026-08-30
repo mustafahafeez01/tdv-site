@@ -152,4 +152,4 @@ Each family member's passport is assessed individually - there's no group rule. 
 
 [Organisation7 min read · Feb 5, 2026How to Organise Family Travel Documents (Before Your Next Trip)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
 
-[Visas & Entry8 min read · May 8, 2026ETIAS 2026: What Documents You Need and How to Apply](https://traveldocumentvault.com/blog/etias-documents-2026/)
+[Visas & Entry8 min read · May 8, 2026ETIAS: What Documents You Need and How to Apply](https://traveldocumentvault.com/blog/etias-documents-2026/)

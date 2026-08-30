@@ -1,6 +1,6 @@
-# ETIAS 2026: welke documenten je nodig hebt en hoe je aanvraagt
+# ETIAS: welke documenten je nodig hebt en hoe je aanvraagt
 
-> Bezoekers uit het VK, de VS en Canada hebben vanaf 2026 ETIAS nodig. Paspoort geldig voor minstens 3 maanden, e-mailadres, optioneel inkomensbewijs. Check de officiële EU-website voor de actuele kosten en planning.
+> Bezoekers uit het VK, de VS en Canada hebben ETIAS nodig om naar Europa te reizen. Paspoort geldig voor minstens 3 maanden, e-mailadres, optioneel inkomensbewijs. Check de officiële EU-website voor de actuele kosten en planning.
 
 Source: https://traveldocumentvault.com/nl/blog/etias-documents-2026/
 
@@ -10,15 +10,15 @@ Source: https://traveldocumentvault.com/nl/blog/etias-documents-2026/
 
 ## Belangrijkste punten
 
-- **ETIAS gaat in 2026 van start** voor reizigers uit het VK, de VS en Canada - een digitale reistoestemming voor visumvrije toegang tot Europa
+- **ETIAS is een digitale reistoestemming** voor reizigers uit het VK, de VS en Canada - nodig voor visumvrije toegang tot het Schengengebied zodra het verplicht wordt
 - **Je hebt een paspoort nodig dat nog minstens 3 maanden geldig is** na je vertrekdatum, plus een e-mailadres om aan te vragen
 - **De verwerkingstijd varieert,** zeker vlak na de lancering; vraag ruim op tijd aan en raadpleeg de officiële EU-website voor actuele informatie
 - **Check de officiële EU-website voor de actuele kosten;** onder de 18 en boven de 70 betaal je niets, maar je hebt nog steeds een goedkeuring nodig
 - **Veelvoorkomende afwijzingen ontstaan door een niet-vermeld strafblad of eerdere overschrijding van de verblijfsduur - houd daar rekening mee**
 
-Je hebt de zomerreis van het gezin naar Italië geboekt, maar dan hoor je dat ETIAS medio 2026 van start gaat en vraag je je af of je het nodig hebt, welke documenten je moet voorbereiden en hoe het hele proces in zijn werk gaat. Deze gids beantwoordt elke vraag voordat je bij het aanvraagformulier komt.
+Je hebt een gezinsreis naar Italië geboekt en hoort dat ETIAS eraan komt - een nieuwe digitale toestemmingsplicht voor visumvrije bezoekers die naar Europa reizen. Deze gids legt uit wat ETIAS is, welke documenten je nodig hebt en hoe de aanvraag werkt, zodat je voorbereid bent voordat je bij het formulier komt.
 
-Het European Travel Information and Authorisation System (ETIAS) is geen [visum](https://traveldocumentvault.com/nl/blog/visa-vs-passport/) - het is een digitale voorafgaande toestemming voor bezoekers uit visumvrije landen. Ben je burger van het VK, de VS of Canada, dan kom je nu in Europa aan, scan je je paspoort, beantwoord je een paar grensvragen en loop je door. Vanaf 2026 gaat dat proces online, en vraag je vooraf toestemming aan.
+Het European Travel Information and Authorisation System (ETIAS) is geen [visum](https://traveldocumentvault.com/nl/blog/visa-vs-passport/) - het is een digitale voorafgaande toestemming voor bezoekers uit visumvrije landen. Ben je burger van het VK, de VS of Canada, dan kom je nu in Europa aan, scan je je paspoort, beantwoord je een paar grensvragen en loop je door. Zodra ETIAS verplicht wordt, gaat dat proces online - je vraagt vooraf toestemming aan.
 
 ## Wat is ETIAS en wie heeft het nodig?
 
@@ -26,7 +26,7 @@ ETIAS is een digitaal toestemmingssysteem dat de grensveiligheid en het reisbehe
 
 Heb je al een visum, zoals een Schengen-langverblijfvisum, een Brits gezinsvisum of een andere verblijfsvergunning, dan heb je geen ETIAS nodig - dat geldt ook voor EU-burgers en onderdanen van Noorwegen, IJsland en Liechtenstein. Kinderen onder de 18 en volwassenen boven de 70 zijn vrijgesteld van de kosten, maar hebben nog steeds kosteloos een goedkeuring nodig.
 
-**ETIAS raakt** een breed scala aan reizigers: individuele vakantiegangers, gezinnen die apart aanvragen voor elk lid, digital nomads die herhaalde korte verblijven plannen, en iedereen die vanaf eind 2026 een Europese reis boekt. Vergeet niet dat elke persoon tussen de 18 en 70 in je gezin een eigen ETIAS-aanvraag nodig heeft.
+**ETIAS raakt** een breed scala aan reizigers: individuele vakantiegangers, gezinnen die apart aanvragen voor elk lid, en digital nomads die herhaalde korte verblijven plannen. Vergeet niet dat iedereen in je gezin een eigen ETIAS-aanvraag nodig heeft - ook kinderen en ouderen, die een goedkeuring nodig hebben, ook al zijn ze vrijgesteld van de kosten.
 
 ## Vereiste documenten en informatie voor je aanvraag
 
@@ -46,7 +46,7 @@ Veel aanvragers denken ten onrechte dat ze vaccinatiebewijzen, hotelboekingen of
 
 ## De ETIAS-aanvraag stap voor stap
 
-Zodra je je gegevens hebt verzameld, is de aanvraag zelf eenvoudig. Bezoek het officiële ETIAS-portaal (verwacht begin 2026 te lanceren) en start een nieuwe aanvraag - je hebt geen volledig account nodig, alleen een e-mailadres en een tijdelijk wachtwoord.
+Zodra je je gegevens hebt verzameld, is de aanvraag zelf eenvoudig. Bezoek het officiële ETIAS-portaal en start een nieuwe aanvraag - je hebt geen volledig account nodig, alleen een e-mailadres en een tijdelijk wachtwoord.
 
 Het formulier vraagt naar je persoonsgegevens (naam, geboortedatum, nationaliteit), paspoortgegevens (nummer en geldigheidsdatum) en je reisplannen (beoogde bestemming en verblijfsduur). Wees precies: ga je drie landen bezoeken, vermeld dan alle drie. Weet je de exacte data niet, gebruik dan een geschatte maandperiode - het is inconsistentie die tot afwijzing leidt, niet een schatting.
 
@@ -108,7 +108,7 @@ Grenswachten kunnen bij aankomst nog steeds om een van deze documenten vragen, z
 
 ### Wanneer wordt ETIAS verplicht voor reizen naar Europa?
 
-ETIAS wordt naar verwachting verplicht in het laatste kwartaal van 2026 (oktober tot december), na de lancering van het inreis-uitreissysteem EES in april 2026. Er kan een overgangsperiode zijn waarin het systeem parallel loopt met paspoortstempels. Vraag enkele maanden voor je geplande reis aan om rekening te houden met verwerkingstijd en eventuele vertragingen bij de eerste lancering.
+ETIAS is nog niet verplicht geworden, en de planning is al meerdere keren uitgesteld. Het inreis-uitreissysteem (EES) wordt eerst ingevoerd, en ETIAS volgt naar verwachting zodra EES is ingeburgerd. Er kan een overgangsperiode zijn waarin ETIAS parallel loopt met paspoortstempels. Raadpleeg de officiële EU-website voor de actuele stand van zaken en vraag enkele maanden voor je geplande reis aan om rekening te houden met verwerkingstijd en eventuele vertragingen bij de invoering.
 
 ### Wie moet ETIAS aanvragen?
 
@@ -128,7 +128,7 @@ Bij afwijzing wegens onvolledige of tegenstrijdige informatie kun je meteen opni
 
 ### Kan ik naar Europa reizen voordat ETIAS wordt gelanceerd?
 
-Ja. ETIAS is nog niet verplicht. Tot eind 2026 kunnen visumvrije burgers naar Europa reizen volgens de huidige grensprocedures (paspoortscan, mondelinge verklaring en controle). Zodra ETIAS verplicht wordt in het vierde kwartaal van 2026, is voor alle toekomstige reizen echter voorafgaande toestemming vereist.
+Ja. ETIAS is nog niet verplicht. Zolang dat niet zo is, kunnen visumvrije reizigers de huidige grensprocedures blijven gebruiken - paspoortscan, mondelinge verklaring en controle. Zodra ETIAS verplicht wordt, is voor alle toekomstige reizen voorafgaande toestemming vereist. Raadpleeg de officiële EU-website voordat je boekt om de actuele stand van zaken te bevestigen.
 
 ## Gerelateerde artikelen
 

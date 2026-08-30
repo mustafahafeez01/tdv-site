@@ -91,6 +91,8 @@ Source: https://traveldocumentvault.com/ru/blog/schengen-passport-rules-family-t
 
 ## Похожие статьи
 
+[Путешествия с семьёй8 мин чтения · август 2026Ребёнок летит без обоих родителей: какие документы брать с собой](https://traveldocumentvault.com/ru/blog/travelling-child-without-both-parents/)
+
 [Правила паспорта8 мин чтения · февраль 2026Правило шести месяцев для паспорта: какие страны его требуют и как не столкнуться с отказом на границе](https://traveldocumentvault.com/ru/blog/passport-expiry-6-month-rule/)
 
 [Правила паспорта6 мин чтения · апрель 2026Сколько действует паспорт для поездок?](https://traveldocumentvault.com/ru/blog/how-long-is-passport-valid-for-travel/)

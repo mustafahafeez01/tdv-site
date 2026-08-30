@@ -91,6 +91,8 @@ EU의 요구 사항은 정확합니다. 여권은 솅겐 지역을 떠날 날짜
 
 ## 관련 기사
 
+[가족 여행8분 읽기 · 2026년 8월부모 중 한 명 없이 아이가 여행할 때 챙겨야 할 서류](https://traveldocumentvault.com/ko/blog/travelling-child-without-both-parents/)
+
 [여권 규정8분 읽기 · 2026년 2월6개월 여권 규정: 어느 국가에서 적용되며 걸려들지 않는 방법](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)
 
 [여권 규정6분 읽기 · 2026년 4월여행을 위해 여권이 얼마나 오래 유효합니까? 유효성 규정 설명](https://traveldocumentvault.com/ko/blog/how-long-is-passport-valid-for-travel/)

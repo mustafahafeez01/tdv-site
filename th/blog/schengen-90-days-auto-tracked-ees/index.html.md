@@ -86,6 +86,6 @@ EES บันทึกการเข้าออกทุกครั้งแ�
 
 [เดินทางกับครอบครัวอ่าน 6 นาทีกฎพาสปอร์ตเชงเก้นสำหรับทริปครอบครัว: สิ่งที่พ่อแม่มักเข้าใจผิด](https://traveldocumentvault.com/th/blog/schengen-passport-rules-family-trips/)
 
-[วีซ่า & การเข้าประเทศอ่าน 7 นาทีETIAS 2026: เอกสารที่ต้องใช้และวิธีสมัคร](https://traveldocumentvault.com/th/blog/etias-documents-2026/)
+[วีซ่า & การเข้าประเทศอ่าน 7 นาทีETIAS: เอกสารที่ต้องใช้และวิธีสมัคร](https://traveldocumentvault.com/th/blog/etias-documents-2026/)
 
 [วีซ่า & การเข้าประเทศอ่าน 8 นาทีแอปติดตามวันหมดอายุวีซ่า: สิ่งที่ควรมองหาและทำไมจึงสำคัญ](https://traveldocumentvault.com/th/blog/visa-expiry-tracker-app/)

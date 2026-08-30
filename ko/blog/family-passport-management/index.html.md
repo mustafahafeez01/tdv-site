@@ -104,6 +104,8 @@ Source: https://traveldocumentvault.com/ko/blog/family-passport-management/
 
 ## 관련 기사
 
+[가족 여행8분 읽기 · 2026년 8월부모 중 한 명 없이 아이가 여행할 때 챙겨야 할 서류](https://traveldocumentvault.com/ko/blog/travelling-child-without-both-parents/)
+
 [가족 여행6분 읽기 · 2026년 7월어린이 여행 동의서: 부모가 알아야 할 사항](https://traveldocumentvault.com/ko/blog/child-travel-consent-letter/)
 
 [정리8분 읽기 · 2026년 6월모든 여행 전에 가족 여행 서류를 정리하는 방법](https://traveldocumentvault.com/ko/blog/how-to-organise-family-travel-documents/)

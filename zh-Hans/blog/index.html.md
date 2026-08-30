@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
+[家庭旅行带孩子出行却没有父母双方同行：该带哪些证件单独监护权、祖父母带娃出行、姓氏不同——每种情况所需的证件都不一样。值机柜台和边检官员各自关注的是什么。2026年8月30日8分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/travelling-child-without-both-parents/)
+
+##
+
 [护照规则如何读懂护照：到底该看哪个日期护照资料页上印着两个日期，很多人说的却是错的那一个。签发日期、有效期和签发国分别决定什么，本文一次讲清楚。2026年8月24日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/how-to-read-your-passport-dates/)
 
 ##
@@ -56,7 +60,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
-[签证和入境ETIAS 2026：您需要的文件和申请方式 ETIAS 为前往欧洲的免签旅客推出。以下是谁需要它、需要提交哪些文件、最常见的拒绝原因及如何处理拒绝。 2026年5月8日8分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/etias-documents-2026/)
+[签证和入境ETIAS：您需要的文件和申请方式 ETIAS 为前往欧洲的免签旅客推出。以下是谁需要它、需要提交哪些文件、最常见的拒绝原因及如何处理拒绝。 2026年5月8日8分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/etias-documents-2026/)
 
 ##
 

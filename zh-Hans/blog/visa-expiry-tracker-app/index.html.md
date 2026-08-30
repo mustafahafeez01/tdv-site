@@ -110,7 +110,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/visa-expiry-tracker-app/
 
 [更新8 分钟阅读 · 2026 年 2 月 22 日护照更新需要多长时间？美国、英国、澳大利亚、加拿大等最新时间](https://traveldocumentvault.com/zh-Hans/blog/how-long-does-passport-renewal-take/)
 
-[签证与入境8 分钟阅读 · 2026 年 5 月 8 日ETIAS 2026：你需要的文件以及如何申请](https://traveldocumentvault.com/zh-Hans/blog/etias-documents-2026/)
+[签证与入境8 分钟阅读 · 2026 年 5 月 8 日ETIAS：你需要的文件以及如何申请](https://traveldocumentvault.com/zh-Hans/blog/etias-documents-2026/)
 
 [旅游工具7 分钟阅读 · 2026 年 7 月 4 日TripCase 替代方案：为什么你的旅行文件需要离线](https://traveldocumentvault.com/zh-Hans/blog/tripcase-alternative/)
 

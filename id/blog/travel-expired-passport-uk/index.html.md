@@ -118,4 +118,4 @@ Tidak, tetapi Anda tetap tidak dapat bepergian dengannya. Paspor yang rusak dapa
 
 [Aturan Paspor6 menit baca · 22 Apr 2026Aturan Masa Berlaku Paspor 6 Bulan: Negara Mana yang Menerapkannya](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
 
-[Darurat7 menit baca · 5 Mei 2026ETIAS 2026: Dokumen yang Anda Perlukan dan Cara Mengajukannya](https://traveldocumentvault.com/id/blog/etias-documents-2026/)
+[Darurat7 menit baca · 5 Mei 2026ETIAS: Dokumen yang Anda Perlukan dan Cara Mengajukannya](https://traveldocumentvault.com/id/blog/etias-documents-2026/)

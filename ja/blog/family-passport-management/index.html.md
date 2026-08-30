@@ -104,6 +104,8 @@ Source: https://traveldocumentvault.com/ja/blog/family-passport-management/
 
 ## 関連記事
 
+[ファミリー旅行8分で読める - 2026年8月片親だけで子どもが渡航するとき、持っていくべき書類](https://traveldocumentvault.com/ja/blog/travelling-child-without-both-parents/)
+
 [ファミリー旅行読了時間 6分・2026年7月子どもの旅行同意書：親が知っておくべきこと](https://traveldocumentvault.com/ja/blog/child-travel-consent-letter/)
 
 [整理読了時間 8分・2026年6月毎回の旅行の前にファミリー旅行書類を整理する方法](https://traveldocumentvault.com/ja/blog/how-to-organise-family-travel-documents/)

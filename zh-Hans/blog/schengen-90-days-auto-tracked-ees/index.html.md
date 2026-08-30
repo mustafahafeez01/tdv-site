@@ -86,6 +86,6 @@ EES以数字方式记录每次入境和出境，因此即使是短暂的超期�
 
 [家庭旅行6分钟阅读·2026年7月申根护照规则家庭旅行：父母们搞错的事](https://traveldocumentvault.com/zh-Hans/blog/schengen-passport-rules-family-trips/)
 
-[签证和入境7分钟阅读·2026年5月ETIAS 2026：你需要的文件和如何申请](https://traveldocumentvault.com/zh-Hans/blog/etias-documents-2026/)
+[签证和入境7分钟阅读·2026年5月ETIAS：你需要的文件和如何申请](https://traveldocumentvault.com/zh-Hans/blog/etias-documents-2026/)
 
 [签证和入境8分钟阅读·2026年3月签证过期跟踪应用：要寻找什么以及为什么重要](https://traveldocumentvault.com/zh-Hans/blog/visa-expiry-tracker-app/)

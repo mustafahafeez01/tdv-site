@@ -148,6 +148,8 @@ Source: https://traveldocumentvault.com/th/blog/child-travel-consent-letter/
 
 ## บทความที่เกี่ยวข้อง
 
+[เดินทางกับครอบครัวอ่าน 8 นาที - สิงหาคม 2026พาลูกเดินทางโดยไม่มีพ่อแม่ทั้งคู่ ต้องพกเอกสารอะไรบ้าง](https://traveldocumentvault.com/th/blog/travelling-child-without-both-parents/)
+
 [เดินทางกับครอบครัวอ่าน 9 นาทีวิธีจัดระเบียบเอกสารการเดินทางของครอบครัว (แบบไม่ปวดหัว)](https://traveldocumentvault.com/th/blog/how-to-organise-family-travel-documents/)
 
 [เตรียมตัวเดินทางอ่าน 9 นาทีเช็กลิสต์เอกสารเดินทางระหว่างประเทศสำหรับทุกทริป](https://traveldocumentvault.com/th/blog/travel-document-checklist/)

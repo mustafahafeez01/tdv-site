@@ -86,6 +86,6 @@ Appen tæller dage pr. person, pr. land, på tværs af alle dine rejser, og frem
 
 [Familierejser6 min læsning · juli 2026Schengen-regler for pas ved familierejser: det forældre ofte misforstår](https://traveldocumentvault.com/da/blog/schengen-passport-rules-family-trips/)
 
-[Visa og indrejse7 min læsning · maj 2026ETIAS 2026: hvilke dokumenter du skal bruge, og hvordan du ansøger](https://traveldocumentvault.com/da/blog/etias-documents-2026/)
+[Visa og indrejse7 min læsning · maj 2026ETIAS: hvilke dokumenter du skal bruge, og hvordan du ansøger](https://traveldocumentvault.com/da/blog/etias-documents-2026/)
 
 [Visa og indrejse8 min læsning · marts 2026App til at holde styr på visums udløb: hvad du skal kigge efter, og hvorfor det betyder noget](https://traveldocumentvault.com/da/blog/visa-expiry-tracker-app/)

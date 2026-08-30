@@ -150,4 +150,4 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/
 
 [조직읽기 시간 7분 · 2026년 2월 5일가족 여행 서류를 조직하는 방법 (다음 여행 전)](https://traveldocumentvault.com/ko/blog/how-to-organise-family-travel-documents/)
 
-[비자 및 입국읽기 시간 8분 · 2026년 5월 8일ETIAS 2026: 필요한 서류 및 신청 방법](https://traveldocumentvault.com/ko/blog/etias-documents-2026/)
+[비자 및 입국읽기 시간 8분 · 2026년 5월 8일ETIAS: 필요한 서류 및 신청 방법](https://traveldocumentvault.com/ko/blog/etias-documents-2026/)

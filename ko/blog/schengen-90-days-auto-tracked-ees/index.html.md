@@ -86,6 +86,6 @@ EES는 모든 입국과 출국을 디지털로 기록하므로 짧은 초과 체
 
 [가족 여행약 6분 · 2026년 7월가족 여행을 위한 Schengen 여권 규칙: 부모가 잘못 이해하는 것](https://traveldocumentvault.com/ko/blog/schengen-passport-rules-family-trips/)
 
-[비자 및 입국약 7분 · 2026년 5월ETIAS 2026: 필요한 서류 및 신청 방법](https://traveldocumentvault.com/ko/blog/etias-documents-2026/)
+[비자 및 입국약 7분 · 2026년 5월ETIAS: 필요한 서류 및 신청 방법](https://traveldocumentvault.com/ko/blog/etias-documents-2026/)
 
 [비자 및 입국약 8분 · 2026년 3월비자 만료 추적 앱: 찾아야 할 것과 중요한 이유](https://traveldocumentvault.com/ko/blog/visa-expiry-tracker-app/)

@@ -110,7 +110,7 @@ Dipende dal tipo di visto. Per i visti di soggiorno lungo che richiedono il rinn
 
 [Rinnovo8 min di lettura · 22 febbraio 2026Quanto Tempo Richiede il Rinnovo del Passaporto? Tempi Attuali per USA, Regno Unito, Australia, Canada & Altro](https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-take/)
 
-[Visti & Ingresso8 min di lettura · 8 maggio 2026ETIAS 2026: Quali Documenti Ha Bisogno e Come Fare Richiesta](https://traveldocumentvault.com/it/blog/etias-documents-2026/)
+[Visti & Ingresso8 min di lettura · 8 maggio 2026ETIAS: Quali Documenti Ha Bisogno e Come Fare Richiesta](https://traveldocumentvault.com/it/blog/etias-documents-2026/)
 
 [Strumenti di Viaggio7 min di lettura · 4 luglio 2026Alternativa a TripCase: Perché I Suoi Documenti di Viaggio Hanno Bisogno di Andare Offline](https://traveldocumentvault.com/it/blog/tripcase-alternative/)
 

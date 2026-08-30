@@ -118,4 +118,4 @@ Nein, aber Sie können trotzdem nicht damit reisen. Ein beschädigter Pass kann 
 
 [Passregeln6 Minuten Lesezeit · 22. April 2026Die 6-Monats-Passgültigkeitsregel: Welche Länder erzwingen dies](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/)
 
-[Notfall7 Minuten Lesezeit · 5. Mai 2026ETIAS 2026: Welche Dokumente Sie benötigen und wie Sie sich bewerben](https://traveldocumentvault.com/de/blog/etias-documents-2026/)
+[Notfall7 Minuten Lesezeit · 5. Mai 2026ETIAS: Welche Dokumente Sie benötigen und wie Sie sich bewerben](https://traveldocumentvault.com/de/blog/etias-documents-2026/)

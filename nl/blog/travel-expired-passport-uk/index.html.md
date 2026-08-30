@@ -118,4 +118,4 @@ Nee, maar je kunt er nog steeds niet mee reizen. Een beschadigd paspoort kan doo
 
 [Paspoortregels6 min leestijd · 22 apr 2026De 6-maandenregel voor paspoortgeldigheid: welke landen die hanteren](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/)
 
-[Noodgeval7 min leestijd · 5 mei 2026ETIAS 2026: welke documenten je nodig hebt en hoe je een aanvraag indient](https://traveldocumentvault.com/nl/blog/etias-documents-2026/)
+[Noodgeval7 min leestijd · 5 mei 2026ETIAS: welke documenten je nodig hebt en hoe je een aanvraag indient](https://traveldocumentvault.com/nl/blog/etias-documents-2026/)

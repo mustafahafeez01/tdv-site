@@ -118,4 +118,4 @@ Não, mas ainda assim não pode viajar com ele. Um passaporte danificado pode se
 
 [Regras de Passaporte6 min de leitura · 22 abr 2026A Regra de Validade de Passaporte de Seis Meses: Quais Países a Aplicam](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/)
 
-[Emergência7 min de leitura · 5 mai 2026ETIAS 2026: Que Documentos Precisa e Como Candidatar-se](https://traveldocumentvault.com/pt/blog/etias-documents-2026/)
+[Emergência7 min de leitura · 5 mai 2026ETIAS: Que Documentos Precisa e Como Candidatar-se](https://traveldocumentvault.com/pt/blog/etias-documents-2026/)

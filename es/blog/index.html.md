@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
+[Viajes en FamiliaViajar con un Hijo Sin Ambos Padres: Qué Documentos LlevarCustodia exclusiva, viajes con los abuelos, apellido diferente: cada situación cambia los documentos que necesita tu hijo. Qué comprueban el mostrador de facturación y el agente de fronteras.30 de agosto de 20268 min de lectura](https://traveldocumentvault.com/es/blog/travelling-child-without-both-parents/)
+
+##
+
 [Reglas de PasaporteCómo Leer tu Pasaporte: Qué Fecha Importa RealmenteLa página de datos de tu pasaporte lleva dos fechas, y casi todo el mundo cita la que no es. Qué controla realmente la fecha de expedición, la fecha de caducidad y el país emisor.24 de agosto de 20266 min de lectura](https://traveldocumentvault.com/es/blog/how-to-read-your-passport-dates/)
 
 ##
@@ -56,7 +60,7 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
-[Visados y entradaETIAS 2026: Qué Documentos Necesitas y Cómo Solicitar ETIAS se lanza para viajeros exentos de visa que se dirigen a Europa. Aquí te explicamos quién lo necesita, qué documentos enviar, los motivos de rechazo más comunes y cómo manejar una solicitud rechazada. 8 mayo 20268 min de lectura](https://traveldocumentvault.com/es/blog/etias-documents-2026/)
+[Visados y entradaETIAS: Qué Documentos Necesitas y Cómo Solicitar ETIAS se lanza para viajeros exentos de visa que se dirigen a Europa. Aquí te explicamos quién lo necesita, qué documentos enviar, los motivos de rechazo más comunes y cómo manejar una solicitud rechazada. 8 mayo 20268 min de lectura](https://traveldocumentvault.com/es/blog/etias-documents-2026/)
 
 ##
 

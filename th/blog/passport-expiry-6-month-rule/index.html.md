@@ -148,4 +148,4 @@ Source: https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/
 
 [การจัดระเบียบอ่าน 7 นาทีวิธีจัดระเบียบเอกสารการเดินทางของครอบครัว (ก่อนทริปถัดไปของคุณ)](https://traveldocumentvault.com/th/blog/how-to-organise-family-travel-documents/)
 
-[วีซ่า & การเข้าประเทศอ่าน 8 นาทีETIAS 2026: เอกสารที่คุณต้องการและวิธีสมัคร](https://traveldocumentvault.com/th/blog/etias-documents-2026/)
+[วีซ่า & การเข้าประเทศอ่าน 8 นาทีETIAS: เอกสารที่คุณต้องการและวิธีสมัคร](https://traveldocumentvault.com/th/blog/etias-documents-2026/)

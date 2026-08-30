@@ -148,6 +148,8 @@ De nombreux pays acceptent désormais des copies numériques sur des appareils m
 
 ## Articles associés
 
+[Voyage en famille8 min de lecture - août 2026Voyager avec un enfant sans ses deux parents : quels documents emporter](https://traveldocumentvault.com/fr/blog/travelling-child-without-both-parents/)
+
 [Voyage en famille8 min de lecture - février 2026Comment organiser les documents de voyage de votre famille avant votre prochain voyage](https://traveldocumentvault.com/fr/blog/how-to-organise-family-travel-documents/)
 
 [Préparation au voyage9 min de lecture - mars 2026Liste de vérification des documents de voyage internationaux pour chaque voyage](https://traveldocumentvault.com/fr/blog/travel-document-checklist/)

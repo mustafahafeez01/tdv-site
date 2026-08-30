@@ -118,4 +118,4 @@ Source: https://traveldocumentvault.com/th/blog/travel-expired-passport-uk/
 
 [กฎเรื่องพาสปอร์ตอ่าน 6 นาทีกฎ 6 เดือนของพาสปอร์ต ประเทศไหนบังคับใช้บ้าง](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)
 
-[กรณีฉุกเฉินอ่าน 7 นาทีETIAS 2026 ต้องใช้เอกสารอะไรบ้าง และสมัครอย่างไร](https://traveldocumentvault.com/th/blog/etias-documents-2026/)
+[กรณีฉุกเฉินอ่าน 7 นาทีETIAS ต้องใช้เอกสารอะไรบ้าง และสมัครอย่างไร](https://traveldocumentvault.com/th/blog/etias-documents-2026/)

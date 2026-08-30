@@ -148,6 +148,8 @@ Viele Länder akzeptieren jetzt digitale Kopien auf Mobilgeräten oder gedruckte
 
 ## Ähnliche Artikel
 
+[Familienreisen8 Min. Lesezeit · August 2026Reisen mit einem Kind ohne beide Elternteile: Was Sie mitnehmen sollten](https://traveldocumentvault.com/de/blog/travelling-child-without-both-parents/)
+
 [Familienreisen8 Min. Lesedauer · Februar 2026Organisieren Sie Ihre Familienreisedokumente vor Ihrer nächsten Reise](https://traveldocumentvault.com/de/blog/how-to-organise-family-travel-documents/)
 
 [Reisevorbereitung9 Min. Lesedauer · März 2026Checkliste für internationale Reisedokumente für jede Reise](https://traveldocumentvault.com/de/blog/travel-document-checklist/)

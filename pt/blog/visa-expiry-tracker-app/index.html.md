@@ -110,7 +110,7 @@ Depende do tipo de visto. Para vistos de permanência longa que requerem renova�
 
 [Renovação8 minutos de leitura · 22 de fevereiro de 2026Quanto Tempo Demora a Renovação do Passaporte? Tempos Atuais para EUA, Reino Unido, Austrália, Canadá e Mais](https://traveldocumentvault.com/pt/blog/how-long-does-passport-renewal-take/)
 
-[Vistos e Entrada8 minutos de leitura · 8 de maio de 2026ETIAS 2026: Que Documentos Precisa e Como Candidatar-se](https://traveldocumentvault.com/pt/blog/etias-documents-2026/)
+[Vistos e Entrada8 minutos de leitura · 8 de maio de 2026ETIAS: Que Documentos Precisa e Como Candidatar-se](https://traveldocumentvault.com/pt/blog/etias-documents-2026/)
 
 [Ferramentas de Viagem7 minutos de leitura · 4 de julho de 2026Alternativa TripCase: Por Que Os Seus Documentos de Viagem Precisam de Funcionar Sem Ligação à Internet](https://traveldocumentvault.com/pt/blog/tripcase-alternative/)
 

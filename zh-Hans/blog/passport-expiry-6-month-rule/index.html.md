@@ -150,4 +150,4 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rul
 
 [组织7分钟阅读 · 2026年2月5日如何组织家庭旅行文件（在下次旅行前）](https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-travel-documents/)
 
-[签证与入境8分钟阅读 · 2026年5月8日ETIAS 2026：您需要的文件以及如何申请](https://traveldocumentvault.com/zh-Hans/blog/etias-documents-2026/)
+[签证与入境8分钟阅读 · 2026年5月8日ETIAS：您需要的文件以及如何申请](https://traveldocumentvault.com/zh-Hans/blog/etias-documents-2026/)

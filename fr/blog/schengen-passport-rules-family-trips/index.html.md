@@ -91,6 +91,8 @@ Les compagnies aériennes vérifient chaque passeport par rapport à la base de 
 
 ## Articles connexes
 
+[Voyage en famille8 min de lecture · août 2026Voyager avec un enfant sans ses deux parents : quels documents emporter](https://traveldocumentvault.com/fr/blog/travelling-child-without-both-parents/)
+
 [Règles de passeport8 min de lecture · février 2026La règle des 6 mois de passeport : quels pays l'appliquent et comment ne jamais vous faire prendre au dépourvu](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)
 
 [Règles de passeport6 min de lecture · avril 2026Combien de temps un passeport est-il valable pour voyager - Explication des règles de validité](https://traveldocumentvault.com/fr/blog/how-long-is-passport-valid-for-travel/)

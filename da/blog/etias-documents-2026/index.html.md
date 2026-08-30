@@ -1,6 +1,6 @@
-# ETIAS 2026: hvilke dokumenter du skal bruge, og hvordan du ansøger
+# ETIAS: hvilke dokumenter du skal bruge, og hvordan du ansøger
 
-> Besøgende fra Storbritannien, USA og Canada skal bruge ETIAS fra 2026. Pas gyldigt i mindst 3 måneder, e-mailadresse, valgfrit indkomstbevis. Tjek EU's officielle hjemmeside for det aktuelle gebyr og tidsplanen.
+> Besøgende fra Storbritannien, USA og Canada kommer til at skulle bruge ETIAS for at rejse i Europa. Pas gyldigt mindst 3 måneder, e-mailadresse, valgfrit indkomstbevis. Tjek EU's officielle hjemmeside for det aktuelle gebyr og tidsplanen.
 
 Source: https://traveldocumentvault.com/da/blog/etias-documents-2026/
 
@@ -10,15 +10,15 @@ Source: https://traveldocumentvault.com/da/blog/etias-documents-2026/
 
 ## Vigtigste punkter
 
-- **ETIAS lanceres i 2026** for rejsende fra Storbritannien, USA og Canada - en digital rejsetilladelse til visumfri indrejse i Europa
+- **ETIAS er en digital rejsetilladelse** for rejsende fra Storbritannien, USA og Canada - nødvendig for visumfri indrejse i Schengenområdet, når den bliver obligatorisk
 - **Du skal have et pas, der er gyldigt i mindst 3 måneder** efter din afrejsedato, samt en e-mailadresse for at ansøge
 - **Sagsbehandlingstiden varierer,** især kort efter lanceringen; ansøg i god tid før din rejse, og tjek EU's officielle hjemmeside for aktuel vejledning
 - **Tjek EU's officielle hjemmeside for det aktuelle gebyr;** personer under 18 og over 70 år betaler ikke, men skal stadig have tilladelse
 - **Almindelige afvisninger skyldes udeholdte strafferetlige domme eller tidligere overskridelser af opholdstiden - planlæg derefter**
 
-Du har booket familiens sommerferie til Italien, men så hører du, at ETIAS lanceres midt i 2026, og du er i tvivl om, hvorvidt du skal bruge det, hvilke dokumenter du skal have klar, og hvordan hele processen fungerer. Denne guide besvarer alle spørgsmål, før du når ansøgningsformularen.
+Du har booket en familierejse til Italien og har hørt, at ETIAS er på vej - et nyt krav om digital tilladelse for visumfrie besøgende, der rejser til Europa. Denne guide forklarer, hvad ETIAS er, hvilke dokumenter du skal bruge, og hvordan ansøgningen fungerer, så du er forberedt, før du når formularen.
 
-European Travel Information and Authorisation System (ETIAS) er ikke et [visum](https://traveldocumentvault.com/da/blog/visa-vs-passport/) - det er en digital forhåndsgodkendelse til besøgende fra visumfrie lande. Er du statsborger i Storbritannien, USA eller Canada, ankommer du i dag til Europa, scanner dit pas, svarer på nogle få spørgsmål ved grænsen og går videre. Fra 2026 flytter den proces online, og du ansøger, før du flyver.
+European Travel Information and Authorisation System (ETIAS) er ikke et [visum](https://traveldocumentvault.com/da/blog/visa-vs-passport/) - det er en digital forhåndsgodkendelse til besøgende fra visumfrie lande. Er du statsborger i Storbritannien, USA eller Canada, ankommer du i dag til Europa, scanner dit pas, svarer på nogle få spørgsmål ved grænsen og går videre. Når ETIAS bliver obligatorisk, flytter den proces online - du ansøger, før du flyver.
 
 ## Hvad er ETIAS, og hvem skal bruge det?
 
@@ -26,7 +26,7 @@ ETIAS er et digitalt tilladelsessystem, der skal styrke grænsesikkerheden og re
 
 Har du allerede et visum, fx et Schengen-langtidsvisum, et britisk familievisum eller en anden opholdstilladelse, skal du ikke bruge ETIAS - det gælder heller ikke EU-borgere eller statsborgere fra Norge, Island og Liechtenstein. Børn under 18 år og voksne over 70 år er fritaget for gebyret, men skal stadig have tilladelse uden beregning.
 
-**ETIAS berører** mange forskellige rejsende: individuelle feriegæster, familier, der søger separat for hvert medlem, digitale nomader, der planlægger gentagne korte ophold, og alle, der booker Europarejser fra sidst i 2026 og frem. Husk, at hver person mellem 18 og 70 år i familien skal have sin egen ETIAS-ansøgning.
+**ETIAS berører** mange forskellige rejsende: individuelle feriegæster, familier, der søger separat for hvert medlem, og digitale nomader, der planlægger gentagne korte ophold. Husk, at hver person i familien skal have sin egen ETIAS-ansøgning - også børn og ældre, som skal have tilladelse, selvom de er fritaget for gebyret.
 
 ## Krævede dokumenter og oplysninger til din ansøgning
 
@@ -46,7 +46,7 @@ Mange ansøgere antager fejlagtigt, at de skal bruge vaccinationsattester, hotel
 
 ## ETIAS-ansøgningen trin for trin
 
-Når du har samlet dine oplysninger, er selve ansøgningen ligetil. Besøg den officielle ETIAS-portal (forventes at lancere først i 2026), og start en ny ansøgning - der kræves ikke en fuld konto, kun en e-mailadresse og en midlertidig adgangskode.
+Når du har samlet dine oplysninger, er selve ansøgningen ligetil. Besøg den officielle ETIAS-portal, og start en ny ansøgning - der kræves ikke en fuld konto, kun en e-mailadresse og en midlertidig adgangskode.
 
 Formularen beder om dine personlige oplysninger (navn, fødselsdato, nationalitet), pasoplysninger (nummer og udløbsdato) og dine rejseplaner (påtænkt destination og opholdets varighed). Vær præcis: planlægger du at besøge tre lande, skal du liste alle tre. Er du i tvivl om præcise datoer, brug omtrentlige månedsintervaller - det er inkonsekvens, der udløser afvisninger, ikke omtrentlige datoer.
 
@@ -108,7 +108,7 @@ Grænsevagter kan stadig bede om at se alle disse dokumenter ved ankomsten, selv
 
 ### Hvornår bliver ETIAS obligatorisk for rejser i Europa?
 
-ETIAS forventes at blive obligatorisk i sidste kvartal af 2026 (oktober til december), efter at ind- og udrejsesystemet EES blev lanceret i april 2026. Der kan komme en overgangsperiode, hvor systemet kører parallelt med paskontrol. Ansøg flere måneder før din planlagte rejse for at have plads til sagsbehandlingstid og eventuelle forsinkelser i den indledende lancering.
+ETIAS er endnu ikke blevet obligatorisk, og tidsplanen er blevet udskudt flere gange. Ind- og udrejsesystemet EES indføres først, og ETIAS forventes at følge, når EES er etableret. Der kan komme en overgangsperiode, hvor ETIAS kører parallelt med paskontrol. Tjek EU's officielle hjemmeside for den aktuelle status, og ansøg flere måneder før din planlagte rejse for at have plads til sagsbehandlingstid og eventuelle forsinkelser i udrulningen.
 
 ### Hvem skal ansøge om ETIAS?
 
@@ -128,7 +128,7 @@ Bliver ansøgningen afvist på grund af ufuldstændige eller inkonsekvente oplys
 
 ### Kan jeg rejse til Europa, før ETIAS lanceres?
 
-Ja. ETIAS er endnu ikke obligatorisk. Frem til slutningen af 2026 kan visumfrie borgere rejse til Europa efter de nuværende grænseprocedurer (paskontrol, mundtlig erklæring og inspektion). Når ETIAS bliver obligatorisk i fjerde kvartal af 2026, vil alle fremtidige rejser dog kræve forhåndstilladelse.
+Ja. ETIAS er endnu ikke obligatorisk. Så længe det ikke er det, kan visumfrie rejsende fortsat bruge de nuværende grænseprocedurer - paskontrol, mundtlig erklæring og inspektion. Når ETIAS bliver obligatorisk, vil alle fremtidige rejser kræve forhåndstilladelse. Tjek EU's officielle hjemmeside, før du booker, for at bekræfte den aktuelle status.
 
 ## Relaterede artikler
 

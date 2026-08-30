@@ -120,4 +120,4 @@ No, but you still cannot travel with it. A damaged passport may be rejected by a
 
 [Passport Rules6 min read · Apr 22, 2026The 6-Month Passport Validity Rule: Which Countries Enforce It](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
-[Emergency7 min read · May 5, 2026ETIAS 2026: What Documents You Need & How to Apply](https://traveldocumentvault.com/blog/etias-documents-2026/)
+[Emergency7 min read · May 5, 2026ETIAS: What Documents You Need and How to Apply & How to Apply](https://traveldocumentvault.com/blog/etias-documents-2026/)

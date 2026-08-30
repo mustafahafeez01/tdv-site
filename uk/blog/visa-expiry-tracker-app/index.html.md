@@ -110,7 +110,7 @@ Overstay за візою — одна з найбільш відчутних з�
 
 [Поновлення8 хв читання · 22 лют 2026How Long Does Passport Renewal Take? Current Times for US, UK, Australia, Canada & More](https://traveldocumentvault.com/uk/blog/how-long-does-passport-renewal-take/)
 
-[Візи та в'їзд8 хв читання · 8 трав 2026ETIAS 2026: What Documents You Need and How to Apply](https://traveldocumentvault.com/uk/blog/etias-documents-2026/)
+[Візи та в'їзд8 хв читання · 8 трав 2026ETIAS: What Documents You Need and How to Apply](https://traveldocumentvault.com/uk/blog/etias-documents-2026/)
 
 [Інструменти для подорожей7 хв читання · 4 лип 2026Альтернатива TripCase: чому вашим подорожнім документам потрібен офлайн-режим](https://traveldocumentvault.com/uk/blog/tripcase-alternative/)
 

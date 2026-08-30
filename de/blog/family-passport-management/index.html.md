@@ -104,6 +104,8 @@ Sie müssen den Pass dieser Person vor der Reise erneuern. Wenn Sie innerhalb vo
 
 ## Verwandte Artikel
 
+[Familienreisen8 Min. Lesezeit · August 2026Reisen mit einem Kind ohne beide Elternteile: Was Sie mitnehmen sollten](https://traveldocumentvault.com/de/blog/travelling-child-without-both-parents/)
+
 [Familienreisen6 Min. Lesedauer · Juli 2026Einverständniserklärung für Kinderreisen: Was Eltern wissen müssen](https://traveldocumentvault.com/de/blog/child-travel-consent-letter/)
 
 [Organisation8 Min. Lesedauer · Juni 2026Wie Sie Familien-Reisedokumente vor jeder Reise organisieren](https://traveldocumentvault.com/de/blog/how-to-organise-family-travel-documents/)

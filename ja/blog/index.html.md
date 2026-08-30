@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
+[ファミリー旅行片親だけで子どもが渡航するとき、持っていくべき書類単独親権、祖父母との旅行、姓の違い - 状況によって子どもに必要な書類は変わります。搭乗手続きのカウンターと入国審査でそれぞれ何を確認されるのかを解説します。2026年8月30日8分で読める](https://traveldocumentvault.com/ja/blog/travelling-child-without-both-parents/)
+
+##
+
 [パスポート規則パスポートの読み方:本当に重要なのはどちらの日付かパスポートの写真ページには二つの日付が並んでいますが、多くの人はそのうち間違った方を答えてしまいます。発行日、有効期限、発行国がそれぞれ何を左右するのかを解説します。2026年8月24日読了時間 6分](https://traveldocumentvault.com/ja/blog/how-to-read-your-passport-dates/)
 
 ##
@@ -56,7 +60,7 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
-[ビザ・入国 ETIAS 2026: 必要な書類と申請方法 ETIAS はヨーロッパへ向かうビザ免除旅行者向けにリリースされます。誰が必要か、どの書類を提出する必要があるか、最も一般的な拒否理由、そして拒否に対処する方法です。 2026年5月8日8分で読める](https://traveldocumentvault.com/ja/blog/etias-documents-2026/)
+[ビザ・入国 ETIAS: 必要な書類と申請方法 ETIAS はヨーロッパへ向かうビザ免除旅行者向けにリリースされます。誰が必要か、どの書類を提出する必要があるか、最も一般的な拒否理由、そして拒否に対処する方法です。 2026年5月8日8分で読める](https://traveldocumentvault.com/ja/blog/etias-documents-2026/)
 
 ##
 

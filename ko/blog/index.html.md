@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
+[가족 여행부모 중 한 명 없이 아이가 여행할 때 챙겨야 할 서류단독 양육권, 조부모와의 여행, 다른 성 - 상황마다 아이에게 필요한 서류가 다릅니다. 체크인 카운터와 출입국 심사에서 각각 무엇을 확인하는지 알아보세요.2026년 8월 30일8분 읽기](https://traveldocumentvault.com/ko/blog/travelling-child-without-both-parents/)
+
+##
+
 [여권 규칙여권 읽는 법: 실제로 중요한 날짜는 어느 쪽일까요여권 사진 면에는 날짜가 두 개 나와 있는데, 대부분 그중 잘못된 쪽을 말합니다. 발급일, 만료일, 발급국이 각각 무엇을 좌우하는지 알아보세요.2026년 8월 24일6분 읽기](https://traveldocumentvault.com/ko/blog/how-to-read-your-passport-dates/)
 
 ##
@@ -56,7 +60,7 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[비자 & 입국ETIAS 2026: 필요한 문서와 신청 방법 ETIAS는 유럽으로 향하는 비자 면제 여행자를 위해 출시됩니다. 누가 필요한지, 제출해야 할 서류, 가장 흔한 거부 이유, 거부에 대처하는 방법을 설명합니다. 2026년 5월 8일8분 읽기](https://traveldocumentvault.com/ko/blog/etias-documents-2026/)
+[비자 & 입국ETIAS: 필요한 문서와 신청 방법 ETIAS는 유럽으로 향하는 비자 면제 여행자를 위해 출시됩니다. 누가 필요한지, 제출해야 할 서류, 가장 흔한 거부 이유, 거부에 대처하는 방법을 설명합니다. 2026년 5월 8일8분 읽기](https://traveldocumentvault.com/ko/blog/etias-documents-2026/)
 
 ##
 

@@ -86,6 +86,6 @@ Appen räknar dagar per person, per land, över alla dina resor, och projicerar 
 
 [Familjeresor6 min läsning · juli 2026Schengenregler för pass vid familjeresor: vad föräldrar gör fel](https://traveldocumentvault.com/sv/blog/schengen-passport-rules-family-trips/)
 
-[Visum & Inresa7 min läsning · maj 2026ETIAS 2026: vilka handlingar du behöver och hur du ansöker](https://traveldocumentvault.com/sv/blog/etias-documents-2026/)
+[Visum & Inresa7 min läsning · maj 2026ETIAS: vilka handlingar du behöver och hur du ansöker](https://traveldocumentvault.com/sv/blog/etias-documents-2026/)
 
 [Visum & Inresa8 min läsning · mars 2026App för att bevaka visums utgångsdatum: vad du bör leta efter och varför det spelar roll](https://traveldocumentvault.com/sv/blog/visa-expiry-tracker-app/)

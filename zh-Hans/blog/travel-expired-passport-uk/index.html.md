@@ -118,4 +118,4 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-expired-passport-uk/
 
 [护照规则6 分钟阅读 · 2026年4月22日六个月护照有效期规则：哪些国家执行它](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)
 
-[应急7 分钟阅读 · 2026年5月5日ETIAS 2026：您需要的文件以及如何申请](https://traveldocumentvault.com/zh-Hans/blog/etias-documents-2026/)
+[应急7 分钟阅读 · 2026年5月5日ETIAS：您需要的文件以及如何申请](https://traveldocumentvault.com/zh-Hans/blog/etias-documents-2026/)
