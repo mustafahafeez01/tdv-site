@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/it/blog/how-to-read-your-passport-dates/
 - **Il paese di rilascio decide a quale ambasciata rivolgerti** se il passaporto va perso, e non è sempre il paese in cui vivi.
 - Rinnovare ti dà un **nuovo numero di passaporto**. Visti, prenotazioni e profili delle compagnie aeree legati al vecchio numero non si aggiornano da soli.
 
-Sei a metà di una domanda di ingresso online, alle undici di sera. Chiede il numero del passaporto, la data di rilascio, l'autorità di rilascio e la data di scadenza, per quattro persone. Apri il primo passaporto e trovi due date stampate una sopra l'altra, con la stessa formattazione, senza che nessuna delle due sia chiaramente indicata nella lingua del modulo.
+Due date compaiono una sopra l'altra sulla pagina dei dati di un passaporto, stampate con la stessa formattazione, e nessuna è chiaramente etichettata. Le domande di ingresso, i moduli delle compagnie aeree e i portali per i visti chiedono ciascuno una in particolare. Quale dipende da che cosa si sta compilando.
 
 La maggior parte di noi non ha mai imparato a leggere davvero un passaporto. Sappiamo più o meno dove si trova la data di scadenza e ci fidiamo del resto. Funziona fino a quando un modulo, un agente di frontiera o una compagnia aerea non chiedono qualcosa di specifico, e allora la differenza tra due date molto simili inizia a contare parecchio.
 

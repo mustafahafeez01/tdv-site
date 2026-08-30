@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/it/blog/travel-while-passport-renewal-pe
 - **Australia e Canada:** Entrambi richiedono di consegnare il vostro passaporto al momento della richiesta. I viaggi internazionali non sono possibili fino a quando il nuovo passaporto non viene rilasciato.
 - Esistono opzioni di rinnovo accelerato e urgente in ogni paese coperto qui, ma la regola di base vale: non potete viaggiare internazionalmente senza un passaporto valido in mano.
 
-Avete inviato il vostro passaporto per il rinnovo e avete un viaggio in programma. La domanda è se potete ancora viaggiare. La risposta dipende da un singolo fatto: avete ancora il vostro passaporto in vostro possesso, oppure l'avete già consegnato alle autorità. Questo singolo fatto determina quali viaggi sono possibili. La risposta varia anche significativamente a seconda del paese e, nel caso del Regno Unito, dal metodo di rinnovo utilizzato.
+Viaggiare mentre un rinnovo è in corso dipende da un solo fatto: se il vecchio passaporto è ancora in mano oppure è già stato consegnato alle autorità. Questa sola differenza decide se il viaggio possa procedere. Varia inoltre da paese a paese e, nel caso del Regno Unito, in base al metodo di rinnovo utilizzato.
 
 ## La regola fondamentale
 

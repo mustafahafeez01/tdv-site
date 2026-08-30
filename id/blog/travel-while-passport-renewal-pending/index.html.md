@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/id/blog/travel-while-passport-renewal-pe
 - **Australia dan Kanada:** Keduanya mengharuskan Anda menyerahkan paspor saat mengajukan permohonan. Perjalanan internasional tidak memungkinkan sampai paspor baru diterbitkan.
 - Opsi perpanjangan cepat dan mendesak tersedia di setiap negara yang dibahas di sini, tapi aturan dasarnya tetap sama: Anda tidak bisa bepergian internasional tanpa paspor yang sah di tangan.
 
-Anda sudah mengirim paspor untuk diperpanjang dan ada perjalanan yang akan datang. Pertanyaannya adalah apakah Anda masih bisa bepergian, dan jawabannya bergantung pada satu hal: apakah paspor masih ada di tangan Anda, atau sudah Anda serahkan ke pihak berwenang. Ini juga berbeda-beda tergantung negara, dan untuk Inggris, tergantung metode perpanjangan yang Anda pakai.
+Bepergian saat perpanjangan sedang berjalan bergantung pada satu hal: apakah paspor lama masih dipegang atau sudah diserahkan kepada pihak berwenang. Perbedaan tunggal itulah yang menentukan apakah perjalanan bisa tetap dilakukan. Ketentuannya juga berbeda antarnegara dan, khusus Inggris, tergantung metode perpanjangan yang dipakai.
 
 ## Aturan Dasarnya
 

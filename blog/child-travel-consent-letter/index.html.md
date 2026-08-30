@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/child-travel-consent-letter/
 - Common rejections come from missing information, lack of notarisation, outdated signatures, or unverifiable contact numbers.
 - Carry a printed copy as the primary document, and keep an encrypted digital backup for emergencies.
 
-You arrive at the airline desk with your daughter, ready for a long-awaited trip to see your sister in Toronto. The agent asks for your consent letter. You have one, and it is signed, but it was signed a while ago, before her last passport renewal, and the passport number on the letter no longer matches the passport in your hand. The agent shakes their head. You are not boarding.
+A consent letter does one job at the airline desk: it shows that the adult travelling with a child has the absent parent's agreement. Most are accepted without comment. The ones that cause a delay usually come apart on a small detail rather than the substance, and the most common is a passport number that changed at the child's last renewal.
 
 That scenario - and thousands like it - happens because child travel consent letters are one of the most commonly misunderstood travel documents. Rules vary widely by country, and a letter that works fine on one trip can fail at the border on the next. Knowing exactly when one is required, what it must contain, and how to keep it valid prevents the most common reasons families get stopped at the border.
 

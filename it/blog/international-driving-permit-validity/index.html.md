@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/it/blog/international-driving-permit-val
 - Ogni paese ha ratificato convenzioni diverse, quindi **un permesso accettato in un paese può essere rifiutato in quello successivo**.
 - Passaporto, patente e permesso corrono su **tre orologi separati** che quasi mai coincidono.
 
-Hai prenotato l'auto a noleggio a Siviglia, stampato la conferma e messo in valigia la patente. Al banco l'addetto ti chiede la patente di guida internazionale. Ne hai una da qualche parte a casa, comprata per un viaggio di tre estati fa, e sei abbastanza sicuro che valga ancora. Non è così.
+Un permesso di guida internazionale è una traduzione della patente, non una patente a sé stante, e segue un proprio calendario. La maggior parte vale dodici mesi dalla data di rilascio, quindi quello comprato per un viaggio tre estati fa è quasi certamente scaduto. I banchi di noleggio di diversi paesi lo chiedono prima di consegnare l'auto.
 
 Un IDP ha una propria data di scadenza, e quella data si comporta in modo diverso a seconda di quale dei trattati internazionali sta dietro al tuo permesso. Molti automobilisti scoprono che esistono due tipi solo quando uno dei due viene rifiutato.
 

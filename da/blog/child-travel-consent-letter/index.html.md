@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/da/blog/child-travel-consent-letter/
 - Almindelige afvisninger skyldes manglende oplysninger, manglende notarbekræftelse, forældede underskrifter eller kontaktnumre, der ikke kan verificeres.
 - Medbring en printet kopi som hoveddokument, og opbevar en krypteret digital sikkerhedskopi til nødstilfælde.
 
-Du står ved skranken med din datter, klar til en længe ventet rejse for at besøge din søster i Toronto. Medarbejderen beder om dit samtykkebrev. Du har et, og det er underskrevet, men det blev underskrevet for et stykke tid siden, før hendes seneste pasfornyelse, og pasnummeret på brevet stemmer ikke længere overens med passet, du holder i hånden. Medarbejderen ryster på hovedet. I kommer ikke ombord.
+Et samtykkebrev har én opgave ved check-in-skranken: det viser, at den voksne, der rejser med barnet, har den fraværende forælders accept. De fleste bliver accepteret uden kommentarer. De, der giver forsinkelser, falder som regel på en detalje frem for på indholdet – oftest et pasnummer, der blev ændret ved barnets seneste fornyelse.
 
 Det scenarie - og tusindvis ligesom det - sker, fordi samtykkebreve til børns rejser er et af de mest misforståede rejsedokumenter. Reglerne varierer meget fra land til land, og et brev, der fungerer fint på én rejse, kan mislykkes ved grænsen på den næste. At vide præcis, hvornår et brev kræves, hvad det skal indeholde, og hvordan du holder det gyldigt, forhindrer de mest almindelige grunde til, at familier bliver stoppet ved grænsen.
 

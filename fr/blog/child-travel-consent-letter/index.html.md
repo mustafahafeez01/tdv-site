@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/fr/blog/child-travel-consent-letter/
 - Les rejets courants proviennent d'informations manquantes, du manque de notarisation, de signatures dépassées ou de numéros de contact non vérifiables.
 - Portez une copie imprimée comme document principal et conservez une sauvegarde numérique chiffrée pour les urgences.
 
-Vous arrivez au comptoir de la compagnie aérienne avec votre fille, prête pour un voyage tant attendu pour voir votre sœur à Toronto. L'agent vous demande votre lettre de consentement. Vous en avez une, et elle est signée, mais elle a été signée il y a dix-huit mois, avant le renouvellement du dernier passeport de votre fille, et le numéro de passeport indiqué sur la lettre ne correspond plus au passeport que vous tenez à la main. L'agent secoue la tête. Vous n'embarquez pas.
+Une lettre de consentement remplit une seule fonction au comptoir d'enregistrement : elle montre que l'adulte qui voyage avec un enfant a l'accord du parent absent. La plupart sont acceptées sans commentaire. Celles qui provoquent un retard achoppent en général sur un détail plutôt que sur le fond, et le plus courant reste un numéro de passeport modifié lors du dernier renouvellement de l'enfant.
 
 Ce scénario - et des milliers de situations similaires - se produit parce que les lettres de consentement pour voyage d'enfant sont l'un des documents de voyage les plus mal compris. Les règles varient considérablement selon le pays, et une lettre qui fonctionne bien sur un voyage peut échouer à la frontière sur le suivant. Savoir exactement quand une lettre est requise, ce qu'elle doit contenir et comment la maintenir valide évite les raisons les plus courantes pour lesquelles les familles sont arrêtées à la frontière.
 

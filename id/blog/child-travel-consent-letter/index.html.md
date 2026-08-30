@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/id/blog/child-travel-consent-letter/
 - Penolakan yang umum terjadi karena informasi yang hilang, tidak adanya notarisasi, tanda tangan usang, atau nomor kontak yang tidak dapat diverifikasi.
 - Bawa salinan cetak sebagai dokumen utama, dan simpan cadangan digital terenkripsi untuk keadaan darurat.
 
-Anda tiba di meja maskapai bersama putri Anda, siap untuk perjalanan yang telah lama dinanti untuk mengunjungi kakak Anda di Toronto. Petugas meminta surat izin Anda. Anda punya satu, dan sudah ditandatangani, tetapi ditandatangani beberapa waktu lalu, sebelum perpanjangan paspor terakhir putri Anda, dan nomor paspor pada surat itu tidak lagi cocok dengan paspor di tangan Anda. Petugas menggelengkan kepala. Anda tidak bisa naik pesawat.
+Surat persetujuan hanya punya satu tugas di konter maskapai: menunjukkan bahwa orang dewasa yang menemani anak telah mendapat persetujuan orang tua yang tidak ikut. Sebagian besar diterima tanpa pertanyaan. Yang menyebabkan keterlambatan biasanya tersandung pada detail kecil, bukan pada isinya, dan yang paling sering adalah nomor paspor yang berubah saat perpanjangan terakhir anak.
 
 Skenario itu - dan ribuan lainnya yang serupa - terjadi karena surat izin perjalanan anak adalah salah satu dokumen perjalanan yang paling sering disalahpahami. Aturan sangat berbeda tiap negara, dan surat yang berfungsi baik pada satu perjalanan bisa gagal di perbatasan pada perjalanan berikutnya. Mengetahui persis kapan surat diperlukan, apa isinya, dan bagaimana menjaganya tetap berlaku mencegah alasan paling umum keluarga tertahan di perbatasan.
 

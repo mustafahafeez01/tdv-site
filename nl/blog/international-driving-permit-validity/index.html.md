@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/nl/blog/international-driving-permit-val
 - Landen hebben verschillende verdragen geratificeerd, dus **een rijbewijs dat in het ene land wordt geaccepteerd, kan in het volgende worden geweigerd**.
 - Paspoort, rijbewijs en internationaal rijbewijs lopen op **drie aparte klokken** die vrijwel nooit gelijk lopen.
 
-Je hebt de huurauto in Sevilla geboekt, de bevestiging uitgeprint en je rijbewijs ingepakt. Aan de balie vraagt de medewerker om je internationale rijbewijs. Ergens thuis ligt er nog een, gekocht voor een reis van drie zomers geleden, en je bent er vrij zeker van dat die nog geldig is. Dat is niet zo.
+Een internationaal rijbewijs is een vertaling van het rijbewijs, geen rijbewijs op zichzelf, en het loopt volgens zijn eigen termijn. De meeste zijn twaalf maanden geldig vanaf de afgiftedatum, dus het exemplaar dat drie zomers geleden voor een reis werd gekocht, is vrijwel zeker verlopen. Verhuurbalies in verschillende landen vragen erom voordat ze een auto meegeven.
 
 Een internationaal rijbewijs heeft zijn eigen vervaldatum, en die datum werkt anders afhankelijk van onder welk internationaal verdrag jouw rijbewijs is afgegeven. De meeste bestuurders ontdekken pas dat er twee soorten zijn wanneer er eentje wordt geweigerd.
 

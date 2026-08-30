@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/pt/blog/international-driving-permit-val
 - Os países ratificaram convenções diferentes, por isso **uma carta aceite num país pode ser recusada no seguinte**.
 - Passaporte, carta de condução e carta internacional seguem **três calendários distintos** que quase nunca coincidem.
 
-Reservou o carro de aluguer em Sevilha, imprimiu a confirmação e fez as malas com a sua carta de condução. No balcão, o funcionário pede-lhe a Carta de Condução Internacional. Tem uma algures em casa, comprada para uma viagem há três verões, e tem quase a certeza de que ainda é válida. Não é.
+Uma carta de condução internacional é uma tradução da carta, não uma carta por direito próprio, e corre segundo o seu próprio calendário. A maioria é válida por doze meses a contar da data de emissão, pelo que a comprada para uma viagem há três verões está quase de certeza caducada. Os balcões de aluguer de vários países pedem-na antes de entregar o carro.
 
 Uma Carta de Condução Internacional tem a sua própria data de validade, e essa data comporta-se de forma diferente consoante a convenção internacional ao abrigo da qual a carta foi emitida. A maioria dos condutores só descobre que existe mais do que um tipo quando um deles é recusado.
 

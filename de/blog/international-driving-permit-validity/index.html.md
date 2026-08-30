@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/de/blog/international-driving-permit-val
 - Länder haben unterschiedliche Abkommen ratifiziert, daher kann **ein in einem Land akzeptierter Führerschein im nächsten abgelehnt werden**.
 - Reisepass, Führerschein und Internationaler Führerschein laufen nach **drei getrennten Uhren**, die fast nie übereinstimmen.
 
-Sie haben den Mietwagen in Sevilla gebucht, die Bestätigung ausgedruckt und Ihren Führerschein eingepackt. Am Schalter fragt der Mitarbeiter nach Ihrem Internationalen Führerschein. Irgendwo zu Hause liegt einer, gekauft für eine Reise vor drei Sommern, und Sie sind sich ziemlich sicher, dass er noch gilt. Das tut er nicht.
+Ein Internationaler Führerschein ist eine Übersetzung des Führerscheins und kein eigenständiger Führerschein, und er läuft nach seinem eigenen Zeitplan. Die meisten gelten zwölf Monate ab Ausstellungsdatum, sodass der vor drei Sommern für eine Reise gekaufte mit ziemlicher Sicherheit abgelaufen ist. Mietwagenschalter in mehreren Ländern verlangen ihn, bevor sie ein Fahrzeug herausgeben.
 
 Ein Internationaler Führerschein trägt sein eigenes Ablaufdatum, und dieses Datum verhält sich unterschiedlich, je nachdem, nach welchem internationalen Abkommen Ihr Führerschein ausgestellt wurde. Die meisten Fahrer erfahren erst, dass es zwei Arten gibt, wenn eine davon abgelehnt wird.
 

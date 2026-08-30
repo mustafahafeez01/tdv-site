@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/es/blog/how-to-read-your-passport-dates/
 - **El país emisor decide qué embajada puede ayudarte** si el pasaporte se pierde, y no siempre es el país en el que vives.
 - Renovar te da un pasaporte con un **número nuevo**. Los visados, reservas y perfiles de aerolínea vinculados al anterior no se actualizan solos.
 
-Son las once de la noche y estás a mitad de una solicitud de entrada online. Te pide el número de pasaporte, la fecha de expedición, la autoridad emisora y la fecha de caducidad, para cuatro personas. Abres el primer pasaporte y encuentras dos fechas impresas una encima de la otra, con el mismo formato, sin que ninguna esté claramente etiquetada en español.
+Dos fechas aparecen una encima de la otra en la página de datos de un pasaporte, impresas con el mismo formato, y ninguna está claramente etiquetada en español. Las solicitudes de entrada, los formularios de las aerolíneas y los portales de visado piden cada uno una en concreto. Cuál de ellas depende de lo que se esté rellenando.
 
 La mayoría de nosotros nunca hemos tenido que aprender a leer un pasaporte como es debido. Sabemos más o menos dónde está la fecha de caducidad y confiamos en el resto. Eso funciona hasta que un formulario, un agente de fronteras o una aerolínea pide algo concreto, y entonces la diferencia entre dos fechas que se parecen mucho empieza a importar bastante.
 

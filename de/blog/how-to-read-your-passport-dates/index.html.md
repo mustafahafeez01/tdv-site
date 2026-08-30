@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/de/blog/how-to-read-your-passport-dates/
 - **Das ausstellende Land entscheidet, welche Botschaft Ihnen hilft**, falls der Reisepass verloren geht, und das ist nicht immer das Land, in dem Sie leben.
 - Bei einer Verlängerung erhalten Sie eine **neue Passnummer**. Visa, Buchungen und Profile bei Fluggesellschaften, die an die alte Nummer gebunden sind, aktualisieren sich nicht von selbst.
 
-Es ist elf Uhr abends, und Sie sind mitten in einem Online-Einreiseantrag. Verlangt werden Passnummer, Ausstellungsdatum, ausstellende Behörde und Ablaufdatum, für vier Personen. Sie schlagen den ersten Pass auf und finden zwei Daten, übereinander gedruckt, im selben Format, von denen keines eindeutig auf Deutsch beschriftet ist.
+Zwei Daten stehen auf der Datenseite eines Passes untereinander, in identischer Formatierung gedruckt, und keines ist eindeutig beschriftet. Einreiseanträge, Formulare von Fluggesellschaften und Visumportale verlangen jeweils ein ganz bestimmtes davon. Welches, hängt davon ab, was gerade ausgefüllt wird.
 
 Die wenigsten von uns mussten je richtig lernen, einen Reisepass zu lesen. Wir wissen ungefähr, wo das Ablaufdatum steht, und verlassen uns beim Rest auf ihr Bauchgefühl. Das funktioniert so lange, bis ein Formular, ein Grenzbeamter oder eine Fluggesellschaft nach etwas Konkretem fragt - dann beginnt der Unterschied zwischen zwei sehr ähnlich aussehenden Daten plötzlich, ziemlich viel auszumachen.
 

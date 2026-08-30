@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/travel-insurance-documents/
 - Claims rejected most often due to missing documentation: police report for theft, original receipts, signed claim forms.
 - Read your policy's key sections quickly by focusing on coverage limits, exclusions, and conditions.
 
-You have paid for travel insurance. Then comes the medical emergency abroad, the bag stolen at the airport, the flight cancelled mid-trip. Can you actually find your policy number, your insurer's 24-hour emergency line, or proof of what is covered? Most travellers cannot. This article covers what to save before you leave, where to store it so it is accessible without internet, and how to avoid the the claims mistakes that get policies refused.
+Travel insurance matters most at the moment it is hardest to reach: a hospital desk abroad, a police station, an airline counter after a cancellation. What counts then is not the policy itself but whether the number, the insurer's 24-hour line and the proof of cover are within reach. This article covers what to save before departure, where to keep it so it opens without internet, and the claims errors that most often sink a payout.
 
 ## What Actually Happens When You Need Your Insurance
 

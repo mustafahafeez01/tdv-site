@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/sv/blog/travel-expired-passport-uk/
 - **Reseförsäkring:** De flesta försäkringar ogiltigförklarar ersättningsanspråk om ditt pass var utgånget under resan.
 - **Om du är utomlands:** Kontakta närmaste brittiska ambassad eller konsulat för ett nödresedokument.
 
-Du bokar en flygresa till Barcelona om 10 dagar och kontrollerar passet - det visar sig gå ut om 8 dagar. Kan du ändå resa?
+Om ett pass som går ut före hemresedatumet blir ett problem beror helt på vart resan går. Vissa länder kräver bara att det är giltigt på inresedagen. Många kräver tre eller sex månader därutöver.
 
 Nej - ett utgånget pass fungerar inte för internationella resor. Flygbolag kontrollerar giltigheten innan de utfärdar boardingkort, och om ditt pass är utgånget nekas du tillträde till planet. Gränskontrollen gör samma kontroll vid din destination. Du måste förnya passet innan du reser internationellt.
 

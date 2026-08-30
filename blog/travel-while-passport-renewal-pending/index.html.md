@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/travel-while-passport-renewal-pendi
 - **Australia and Canada:** Both require you to surrender your passport on application. International travel is not possible until the new passport is issued.
 - Expedited and urgent renewal options exist in every country covered here, but the basic rule holds: you cannot travel internationally without a valid passport in your hand.
 
-You have sent your passport off for renewal and you have a trip coming up. The question is whether you can still travel, and the answer hinges on a single fact: do you still have your passport in your possession, or have you already surrendered it to the authorities. It also varies by country, and in the UK's case, by which renewal method you used.
+Travelling while a renewal is in progress turns on one fact: whether the old passport is still in hand or has already gone to the authorities. That single difference decides whether the trip can go ahead. It also varies by country, and in the UK's case by which renewal method was used.
 
 ## The Core Rule
 

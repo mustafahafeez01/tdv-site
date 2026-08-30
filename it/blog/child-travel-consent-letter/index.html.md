@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/it/blog/child-travel-consent-letter/
 - I rifiuti comuni derivano da informazioni mancanti, mancanza di autenticazione, firme scadute, o numeri di telefono non verificabili.
 - Porta una copia stampata come documento principale e conserva un backup digitale crittografato per emergenze.
 
-Arrivi al banco della compagnia aerea con tua figlia, pronto per il tanto atteso viaggio a Toronto per visitare tua sorella. L'agente ti chiede la lettera di consenso. La hai, ed è firmata, ma è stata firmata diciotto mesi fa, prima del rinnovo del passaporto, e il numero di passaporto sulla lettera non corrisponde più al passaporto che hai in mano. L'agente scuote la testa. Non stai salendo a bordo.
+Una lettera di consenso svolge un solo compito al banco della compagnia aerea: dimostra che l'adulto che viaggia con un minore ha l'accordo del genitore assente. La maggior parte viene accettata senza commenti. Quelle che causano un ritardo cedono di solito su un dettaglio più che sulla sostanza, e il più frequente è un numero di passaporto cambiato all'ultimo rinnovo del minore.
 
 Questo scenario - e migliaia di scenari simili - accade perché le lettere di consenso per i viaggi di minori sono uno dei documenti di viaggio più fraintesi. Le regole variano notevolmente da un paese all'altro, e una lettera che funziona bene in un viaggio può fallire al confine nel prossimo. Sapere esattamente quando una è richiesta, cosa deve contenere e come mantenerla valida previene i motivi più comuni per cui le famiglie vengono fermate al confine.
 

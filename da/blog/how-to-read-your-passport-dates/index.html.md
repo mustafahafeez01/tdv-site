@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/da/blog/how-to-read-your-passport-dates/
 - **Udstedelseslandet afgør, hvilken ambassade der hjælper dig**, hvis passet forsvinder, og det er ikke altid landet, du bor i.
 - En fornyelse giver dig et **nyt pasnummer**. Visa, bookinger og flyselskabsprofiler knyttet til det gamle nummer opdaterer ikke sig selv.
 
-Klokken er elleve om aftenen, og du er halvvejs igennem en digital indrejseblanket. Den vil have pasnummeret, udstedelsesdatoen, den udstedende myndighed og udløbsdatoen - for fire personer. Du åbner det første pas og finder to datoer trykt oven på hinanden i identisk format, og ingen af dem er tydeligt mærket på dansk.
+To datoer står over hinanden på passets datasider, trykt i samme format, og ingen af dem er tydeligt mærket. Indrejseansøgninger, flyselskabernes formularer og visumportaler beder hver især om et bestemt af dem. Hvilket afhænger af, hvad der udfyldes.
 
 De fleste af os har aldrig skullet læse et pas ordentligt. Vi ved nogenlunde, hvor udløbsdatoen sidder, og stoler på resten. Det fungerer lige indtil en blanket, en grænsevagt eller et flyselskab spørger om noget specifikt, og så begynder forskellen mellem to meget ens datoer pludselig at betyde en hel del.
 

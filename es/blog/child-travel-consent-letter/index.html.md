@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/es/blog/child-travel-consent-letter/
 - Los rechazos frecuentes provienen de información faltante, falta de autenticación notarial, firmas desactualizadas o números de contacto no verificables.
 - Lleva una copia impresa como documento principal y mantén una copia de seguridad digital cifrada para emergencias.
 
-Llegas al mostrador de la aerolínea con tu hija, listo para un viaje esperado a ver a tu hermana en Toronto. El agente te pide la carta de consentimiento. Tienes una, está firmada, pero fue firmada hace dieciocho meses, antes de la renovación de su pasaporte, y el número de pasaporte en la carta ya no coincide con el pasaporte en tu mano. El agente niega con la cabeza. No estás abordando.
+Una carta de consentimiento cumple una sola función en el mostrador de la aerolínea: demuestra que el adulto que viaja con un menor cuenta con el acuerdo del progenitor ausente. La mayoría se aceptan sin comentarios. Las que provocan un retraso suelen fallar en un detalle y no en el fondo, y el más habitual es un número de pasaporte que cambió en la última renovación del menor.
 
 Ese escenario ocurre una y otra vez, porque las cartas de consentimiento de viaje de menores son uno de los documentos de viaje más incomprendidos. Las normas varían mucho según el país, y una carta que funciona en un viaje puede no servir en la siguiente frontera. Saber exactamente cuándo se requiere una, qué debe contener y cómo mantenerla válida previene las razones más comunes por las que las familias se detienen en la frontera.
 

@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/international-driving-permit-validi
 - Countries ratified different conventions, so **a permit accepted in one country can be refused in the next**.
 - Passport, licence and permit run on **three separate clocks** that almost never line up.
 
-You booked the hire car in Seville, printed the confirmation, and packed your licence. At the desk the agent asks for your International Driving Permit. There's one at home somewhere, bought for a trip three summers ago, and you're fairly sure it still counts. It doesn't.
+An International Driving Permit is a translation of a licence, not a licence in its own right, and it runs on its own clock. Most are valid for twelve months from the date of issue, so the one bought for a trip three summers ago has almost certainly run out. Hire desks in several countries ask for it before releasing a car.
 
 An IDP carries its own expiry date, and that date behaves differently depending on which international treaty your permit was issued under. Most drivers never discover there is more than one kind until theirs is turned down.
 

@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/sv/blog/travel-while-passport-renewal-pe
 - **Australien och Kanada:** Båda kräver att du lämnar in ditt pass vid ansökan. Utrikesresor är inte möjliga förrän det nya passet har utfärdats.
 - Expedierade och brådskande förnyelsealternativ finns i alla länder som tas upp här, men grundregeln gäller ändå: du kan inte resa utomlands utan ett giltigt pass i handen.
 
-Du har skickat iväg ditt pass för förnyelse och du har en resa på gång. Frågan är om du fortfarande kan resa, och svaret hänger på en enda sak: har du fortfarande ditt pass i din besittning, eller har du redan lämnat in det till myndigheterna. Det varierar också mellan länder, och i Storbritanniens fall beroende på vilken förnyelsemetod du använde.
+Att resa medan en förnyelse pågår hänger på ett enda faktum: finns det gamla passet kvar i handen eller har det redan lämnats in till myndigheterna. Den enda skillnaden avgör om resan kan bli av. Det varierar dessutom mellan länder och, i Storbritanniens fall, med vilken förnyelsemetod som användes.
 
 ## Grundregeln
 

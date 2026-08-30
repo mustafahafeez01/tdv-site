@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/pt/blog/how-to-read-your-passport-dates/
 - **O país emissor decide a que embaixada pode recorrer** se o passaporte desaparecer, e nem sempre é o país onde vive.
 - Renovar dá-lhe um **número de passaporte novo**. Vistos, reservas e perfis de companhias aéreas associados ao antigo não se atualizam sozinhos.
 
-Está a meio de uma candidatura de entrada online, às onze da noite. Pede o número do passaporte, a data de emissão, a autoridade emissora e a data de validade, para quatro pessoas. Abre o primeiro passaporte e encontra duas datas impressas uma por cima da outra, com a mesma formatação, sem que nenhuma esteja claramente identificada na língua do formulário.
+Duas datas surgem uma por cima da outra na página de dados de um passaporte, impressas com formatação idêntica, e nenhuma está claramente identificada. Os pedidos de entrada, os formulários das companhias aéreas e os portais de vistos pedem cada um uma delas em concreto. Qual delas depende do que está a ser preenchido.
 
 A maioria de nós nunca aprendeu a ler um passaporte como deve ser. Sabemos mais ou menos onde fica a data de validade e confiamos no resto. Isso funciona até um formulário, um agente de fronteira ou uma companhia aérea perguntar algo específico, e aí a diferença entre duas datas muito parecidas passa a importar bastante.
 

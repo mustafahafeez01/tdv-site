@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/it/blog/travel-insurance-documents/
 - I reclami vengono rifiutati più spesso per documentazione mancante: rapporto di polizia per furto, ricevute originali, moduli di reclamo firmati.
 - Leggi rapidamente le sezioni chiave della tua polizza concentrandoti sui limiti di copertura, esclusioni e condizioni.
 
-Hai pagato per l'assicurazione di viaggio. Poi arriva l'emergenza medica all'estero, il bagaglio rubato in aeroporto, il volo cancellato a metà del viaggio. Riusciresti davvero a trovare il tuo numero di polizza, la linea di emergenza 24 ore della tua compagnia di assicurazioni, o la prova di cosa è coperto? La maggior parte dei viaggiatori no. Questo articolo copre cosa salvare prima di partire, dove archiviarla così sia accessibile senza internet, e come evitare gli errori nei reclami che portano al rifiuto della richiesta.
+L'assicurazione di viaggio conta di più nel momento in cui è più difficile da raggiungere: l'accettazione di un ospedale all'estero, un commissariato, il banco della compagnia aerea dopo una cancellazione. Ciò che conta allora non è la polizza in sé, ma se il numero, la linea 24 ore dell'assicuratore e la prova delle garanzie sono a portata di mano. Questo articolo spiega cosa salvare prima della partenza, dove conservarlo perché si apra senza internet e quali errori di denuncia affondano più spesso un rimborso.
 
 ## Cosa Succede Davvero Quando Hai Bisogno della Tua Assicurazione
 

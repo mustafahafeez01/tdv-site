@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/pt/blog/child-travel-consent-letter/
 - As rejeições comuns resultam de informações em falta, falta de autenticação, assinaturas desatualizadas, ou números não verificáveis.
 - Transporte uma cópia impressa como documento principal, e guarde uma cópia de segurança digital encriptada para emergências.
 
-Chega ao balcão da companhia aérea com a sua filha, pronto para uma viagem muito esperada para visitar a sua irmã em Toronto. O agente pede a sua carta de consentimento. Tem uma, e está assinada, mas foi assinada há dezoito meses, antes da última renovação do passaporte, e o número de passaporte na carta já não corresponde ao passaporte na sua mão. O agente abana a cabeça. Não embarca.
+Uma carta de consentimento cumpre uma única função no balcão da companhia aérea: mostra que o adulto que viaja com a criança tem o acordo do progenitor ausente. A maioria é aceite sem comentários. As que causam atrasos falham normalmente num pormenor e não no essencial, sendo o mais comum um número de passaporte alterado na última renovação da criança.
 
 Esse cenário - e milhares como ele - acontece porque as cartas de consentimento de viagem para crianças são um dos documentos de viagem mais mal compreendidos. As regras variam muito por país, e uma carta que funciona bem numa viagem pode falhar na fronteira na próxima. Saber exactamente quando é necessária, o que deve conter, e como mantê-la válida previne as razões mais comuns pelas quais as famílias são paradas na fronteira.
 

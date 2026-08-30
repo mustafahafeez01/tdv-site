@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/id/blog/travel-insurance-documents/
 - Klaim ditolak paling sering karena dokumentasi yang hilang: laporan polisi untuk pencurian, kwitansi asli, formulir klaim yang ditandatangani.
 - Baca bagian utama polis Anda dengan cepat dengan fokus pada batas cakupan, pengecualian, dan kondisi.
 
-Anda telah membayar untuk asuransi perjalanan. Kemudian datang keadaan darurat medis di luar negeri, tas dicuri di bandara, penerbangan dibatalkan di tengah perjalanan. Dapatkah Anda benar-benar menemukan nomor polis Anda, lini darurat 24 jam perusahaan asuransi Anda, atau bukti apa yang ditanggung? Sebagian besar pelancong tidak bisa. Artikel ini membahas apa yang harus disimpan sebelum Anda pergi, di mana menyimpannya agar dapat diakses tanpa internet, dan cara menghindari kesalahan klaim yang menyebabkan klaim ditolak.
+Asuransi perjalanan paling berarti justru pada saat paling sulit dijangkau: meja pendaftaran rumah sakit di luar negeri, kantor polisi, konter maskapai setelah penerbangan dibatalkan. Yang menentukan saat itu bukan polisnya, melainkan apakah nomor polis, saluran 24 jam penanggung, dan bukti cakupan pertanggungan ada dalam jangkauan. Artikel ini membahas apa yang perlu disimpan sebelum berangkat, di mana menyimpannya agar bisa dibuka tanpa internet, dan kesalahan pengajuan yang paling sering menggagalkan pembayaran.
 
 ## Apa yang Sebenarnya Terjadi Saat Anda Membutuhkan Asuransi Anda
 

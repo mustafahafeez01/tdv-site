@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/sv/blog/child-travel-consent-letter/
 - Vanliga avslag beror på saknad information, avsaknad av bestyrkning, föråldrade underskrifter eller kontaktnummer som inte går att verifiera.
 - Ha med en utskriven kopia som huvuddokument, och behåll en krypterad digital säkerhetskopia för nödsituationer.
 
-Du står vid incheckningsdisken med din dotter, redo för en efterlängtad resa för att hälsa på din syster i Toronto. Personalen ber om ditt samtyckesbrev. Du har ett, och det är undertecknat, men det skrevs under för ett tag sedan, innan hennes senaste passförnyelse, och passnumret på brevet stämmer inte längre med passet du håller i handen. Personalen skakar på huvudet. Ni får inte gå ombord.
+Ett medgivandebrev fyller en enda funktion vid incheckningsdisken: det visar att den vuxna som reser med barnet har den frånvarande förälderns samtycke. De flesta godtas utan kommentar. De som orsakar dröjsmål faller oftast på en detalj snarare än på innehållet – vanligast är ett passnummer som ändrades vid barnets senaste förnyelse.
 
 Det scenariot - och tusentals liknande - inträffar för att samtyckesbrev för barns resor är ett av de mest missförstådda resedokumenten. Reglerna varierar kraftigt mellan länder, och ett brev som fungerar utmärkt på en resa kan fallera vid gränsen på nästa. Att veta exakt när ett brev krävs, vad det måste innehålla och hur du håller det giltigt förhindrar de vanligaste orsakerna till att familjer stoppas vid gränsen.
 

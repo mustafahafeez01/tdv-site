@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/id/blog/travel-expired-passport-uk/
 - **Asuransi perjalanan:** Sebagian besar polis membatalkan klaim jika paspor Anda sudah kedaluwarsa selama perjalanan.
 - **Jika berada di luar negeri:** Hubungi kedutaan besar atau konsulat Inggris terdekat untuk mendapatkan dokumen perjalanan darurat.
 
-Anda memesan penerbangan ke Barcelona 10 hari lagi dan memeriksa paspor Anda, ternyata paspor itu kedaluwarsa dalam 8 hari. Bisakah Anda tetap bepergian?
+Apakah paspor yang habis masa berlakunya sebelum tanggal kepulangan menjadi masalah sepenuhnya bergantung pada tujuan perjalanan. Sebagian negara hanya meminta paspor masih berlaku pada hari masuk. Banyak negara lain meminta tambahan tiga atau enam bulan.
 
 Tidak - paspor yang sudah kedaluwarsa tidak bisa digunakan untuk perjalanan internasional. Maskapai memeriksa masa berlaku sebelum menerbitkan boarding pass, dan jika paspor Anda kedaluwarsa, mereka akan menolak Anda naik pesawat. Petugas imigrasi melakukan pemeriksaan yang sama di tujuan Anda, jadi tidak ada cara untuk menghindarinya: Anda harus memperpanjang paspor sebelum bepergian ke luar negeri.
 

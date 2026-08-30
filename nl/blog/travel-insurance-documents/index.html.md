@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/nl/blog/travel-insurance-documents/
 - Vorderingen worden het vaakst afgewezen vanwege ontbrekende documentatie: politierapport voor diefstal, originele bonnen, ondertekende claimformulieren.
 - Lees de belangrijkste secties van je polis snel door je op dekkingslimieten, uitsluitingen en voorwaarden te richten.
 
-Je hebt geld betaald voor reisverzeking. Dan komt de medische noodsituatie in het buitenland, je rugzak wordt gestolen op het vliegveld, je vlucht wordt halverwege geannuleerd. Kun je daadwerkelijk je polisnummer vinden, de 24-uurse noodlijn van je verzekeraar, of een bewijs van wat wel gedekt is? De meeste reizigers kunnen dat niet. Dit artikel behandelt wat je voordat je vertrekt moet bewaren, waar je het opslaat zodat je het zonder internet kunt benaderen, en hoe je fouten vermijdt die tot afwijzing van je claim leiden.
+Een reisverzekering telt het zwaarst op het moment dat ze het lastigst te raadplegen is: een ziekenhuisbalie in het buitenland, een politiebureau, een balie van de luchtvaartmaatschappij na een annulering. Wat dan telt is niet de polis zelf, maar of het nummer, de 24-uurslijn van de verzekeraar en het bewijs van dekking binnen handbereik zijn. Dit artikel behandelt wat vóór vertrek bewaard moet worden, waar het hoort te staan zodat het zonder internet opent, en welke meldingsfouten een uitkering het vaakst laten stranden.
 
 ## Wat gebeurt er als je je verzekering nodig hebt
 

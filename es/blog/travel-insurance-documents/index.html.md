@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/es/blog/travel-insurance-documents/
 - Las reclamaciones se rechazan más a menudo por documentación faltante: informe policial por robo, recibos originales, formularios de reclamación firmados.
 - Lee rápidamente las secciones clave de tu póliza enfocándote en límites de cobertura, exclusiones y condiciones.
 
-Has pagado por un seguro de viaje. Luego llega la emergencia médica en el extranjero, la bolsa robada en el aeropuerto, el vuelo cancelado a mitad del viaje. ¿Puedes realmente encontrar tu número de póliza, la línea de emergencia 24 horas de tu asegurador, o prueba de lo que está cubierto? La mayoría de viajeros no pueden. Este artículo cubre qué guardar antes de partir, dónde almacenarlo para que sea accesible sin internet, y cómo evitar los errores de reclamación que provocan su rechazo.
+El seguro de viaje importa más justo cuando resulta más difícil de consultar: el mostrador de un hospital en el extranjero, una comisaría, el mostrador de la aerolínea tras una cancelación. Lo que cuenta entonces no es la póliza en sí, sino si el número, la línea 24 horas de la aseguradora y el justificante de cobertura están a mano. Este artículo explica qué guardar antes de salir, dónde conservarlo para que se abra sin conexión y los errores de tramitación que más a menudo hunden un reembolso.
 
 ## Qué Sucede Realmente Cuando Necesitas Tu Seguro
 

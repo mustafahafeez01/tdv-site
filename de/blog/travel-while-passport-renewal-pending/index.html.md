@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/de/blog/travel-while-passport-renewal-pe
 - **Australien und Kanada:** Beide verlangen, dass Sie Ihren Pass bei der Antragstellung abgeben. Internationale Reisen sind nicht möglich, bis der neue Pass ausgestellt wird.
 - In jedem hier behandelten Land gibt es beschleunigte und eilige Erneuerungsoptionen, aber die Grundregel gilt: Sie können international nicht ohne gültigen Pass reisen.
 
-Sie haben Ihren Pass zur Erneuerung eingereicht und haben eine Reise vor sich. Die Frage ist, ob Sie trotzdem reisen können. Die Antwort hängt von einer einzelnen Tatsache ab: Haben Sie Ihren Pass noch in Ihrem Besitz, oder haben Sie ihn bereits den Behörden abgegeben. Diese einzelne Tatsache bestimmt, welche Reisen möglich sind. Die Antwort variiert auch erheblich je nach Land und im Fall des Vereinigten Königreichs je nach der verwendeten Erneuerungsmethode.
+Ob eine Reise während einer laufenden Verlängerung möglich ist, hängt an einer einzigen Tatsache: Ist der alte Pass noch vorhanden oder bereits bei den Behörden abgegeben. Dieser eine Unterschied entscheidet, ob die Reise stattfinden kann. Es variiert außerdem je nach Land und im Fall des Vereinigten Königreichs je nach gewähltem Verlängerungsweg.
 
 ## Die Grundregel
 

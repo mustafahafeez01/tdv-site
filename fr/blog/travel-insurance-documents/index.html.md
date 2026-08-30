@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/fr/blog/travel-insurance-documents/
 - Les réclamations refusées le plus souvent en raison de documents manquants : rapport de police pour vol, reçus originaux, formulaires de réclamation signés.
 - Lisez rapidement les sections clés de votre police en vous concentrant sur les limites de couverture, les exclusions et les conditions.
 
-Vous avez payé une assurance voyage. Puis vient l'urgence médicale à l'étranger, le sac volé à l'aéroport, le vol annulé en cours de route. Pouvez-vous vraiment trouver votre numéro de police, la ligne d'urgence 24 h/24 de votre assureur, ou la preuve de ce qui est couvert ? La plupart des voyageurs ne le peuvent pas. Cet article explique ce qu'il faut conserver avant de partir, où le stocker pour y accéder sans internet, et comment éviter les erreurs de réclamation qui entraînent son rejet.
+L'assurance voyage compte le plus au moment où elle est la plus difficile à joindre : un guichet d'hôpital à l'étranger, un commissariat, un comptoir de compagnie aérienne après une annulation. Ce qui importe alors n'est pas le contrat lui-même, mais de savoir si le numéro, la ligne 24 heures de l'assureur et le justificatif de garanties sont à portée de main. Cet article détaille ce qu'il faut enregistrer avant le départ, où le conserver pour qu'il s'ouvre sans connexion, et les erreurs de déclaration qui font le plus souvent capoter un remboursement.
 
 ## Ce qui se passe réellement quand vous avez besoin de votre assurance
 

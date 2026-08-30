@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/da/blog/travel-while-passport-renewal-pe
 - **Australien og Canada:** Begge kræver, at du afleverer dit pas ved ansøgning. Udenrigsrejser er ikke mulige, før det nye pas er udstedt.
 - Ekspederet og hastebehandlet fornyelse findes i alle lande, der er nævnt her, men grundreglen gælder stadig: du kan ikke rejse internationalt uden et gyldigt pas i hånden.
 
-Du har sendt dit pas til fornyelse, og du har en rejse på vej. Spørgsmålet er, om du stadig kan rejse, og svaret afhænger af én ting: har du stadig dit pas i din besiddelse, eller har du allerede afleveret det til myndighederne. Det varierer også fra land til land, og i Storbritanniens tilfælde afhænger det af, hvilken fornyelsesmetode du brugte.
+At rejse, mens en fornyelse er i gang, afhænger af én ting: om det gamle pas stadig er i hånden, eller om det allerede er afleveret til myndighederne. Netop den forskel afgør, om rejsen kan gennemføres. Det varierer desuden fra land til land og i Storbritanniens tilfælde med, hvilken fornyelsesmetode der blev brugt.
 
 ## Grundreglen
 

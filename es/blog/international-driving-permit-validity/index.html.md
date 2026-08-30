@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/es/blog/international-driving-permit-val
 - Cada país ratificó tratados distintos, así que **un permiso aceptado en un país puede ser rechazado en el siguiente**.
 - Pasaporte, carné y permiso funcionan con **tres calendarios distintos** que casi nunca coinciden.
 
-Reservaste el coche de alquiler en Sevilla, imprimiste la confirmación y guardaste tu carné en la maleta. En el mostrador, el agente te pide el permiso internacional de conducir. Tienes uno en casa, en algún cajón, comprado para un viaje de hace tres veranos, y estás bastante seguro de que todavía sirve. No es así.
+Un permiso de conducir internacional es una traducción del carné, no un carné por derecho propio, y corre según su propio calendario. La mayoría son válidos doce meses desde la fecha de expedición, así que el que se compró para un viaje hace tres veranos casi con certeza ha caducado. Los mostradores de alquiler de varios países lo piden antes de entregar el coche.
 
 El permiso internacional de conducir tiene su propia fecha de caducidad, y esa fecha se comporta de forma distinta según cuál de los tratados internacionales lo haya emitido. La mayoría de los conductores no descubre que existen dos tipos hasta que uno de ellos es rechazado.
 

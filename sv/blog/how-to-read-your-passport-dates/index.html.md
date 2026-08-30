@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/sv/blog/how-to-read-your-passport-dates/
 - **Utfärdandelandet avgör vilken ambassad som hjälper dig** om passet försvinner, och det är inte alltid landet du bor i.
 - En förnyelse ger dig ett **nytt passnummer**. Visum, bokningar och flygbolagsprofiler kopplade till det gamla numret uppdateras inte av sig själva.
 
-Klockan är elva på kvällen och du är halvvägs igenom en digital inreseblankett. Den vill ha passnumret, utfärdandedatumet, utfärdande myndighet och sista giltighetsdag - för fyra personer. Du öppnar det första passet och hittar två datum tryckta ovanpå varandra i identiskt format, och inget av dem är tydligt märkt på svenska.
+Två datum står ovanför varandra på passets datasida, tryckta i identiskt format, och inget av dem är tydligt märkt. Inreseansökningar, flygbolagens formulär och visumportaler vill vart och ett ha ett bestämt av dem. Vilket beror på vad som fylls i.
 
 De flesta av oss har aldrig behövt läsa ett pass ordentligt. Vi vet ungefär var sista giltighetsdagen sitter och litar på resten. Det fungerar ända tills en blankett, en gränskontrollant eller ett flygbolag frågar efter något specifikt, och då börjar skillnaden mellan två väldigt lika datum plötsligt spela stor roll.
 

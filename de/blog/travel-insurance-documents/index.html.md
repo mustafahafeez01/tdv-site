@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/de/blog/travel-insurance-documents/
 - Ansprüche werden am häufigsten abgelehnt, weil Dokumente fehlen: Polizeibericht für Diebstahl, Originalquittungen, unterzeichnete Anspruchsformulare.
 - Lesen Sie die wichtigsten Abschnitte Ihrer Versicherung schnell durch, indem Sie sich auf Deckungsgrenzen, Ausschlüsse und Bedingungen konzentrieren.
 
-Sie haben Ihre Reiseversicherung abgeschlossen. Dann kommt der medizinische Notfall im Ausland, der Koffer wird am Flughafen gestohlen, der Flug wird abgesagt. Können Sie tatsächlich Ihre Versicherungsnummer finden, die 24-Stunden-Notfallhotline oder einen Nachweis, was abgedeckt ist? Die meisten Reisenden können das nicht. Dieser Artikel behandelt, was Sie vor der Abreise speichern sollten, wo Sie es offline speichern, damit es erreichbar ist, und wie Sie die Fehler bei Anspruchsmitteilungen vermeiden, die zur Ablehnung führen.
+Eine Reiseversicherung zählt am meisten in dem Moment, in dem sie am schwersten zu erreichen ist: an der Aufnahme eines Krankenhauses im Ausland, auf einer Polizeiwache, am Schalter der Fluggesellschaft nach einer Annullierung. Entscheidend ist dann nicht die Police selbst, sondern ob die Nummer, die 24-Stunden-Leitung des Versicherers und der Nachweis des Versicherungsumfangs griffbereit sind. Dieser Artikel zeigt, was vor der Abreise zu sichern ist, wo es ohne Internet zugänglich bleibt und welche Fehler bei der Meldung eine Erstattung am häufigsten scheitern lassen.
 
 ## Was tatsächlich passiert, wenn Sie Ihre Versicherung brauchen
 

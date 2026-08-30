@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/nl/blog/how-to-read-your-passport-dates/
 - **Het land van afgifte bepaalt bij welke ambassade je terechtkunt** als je paspoort kwijtraakt, en dat is niet altijd het land waar je woont.
 - Bij verlenging krijg je een **nieuw paspoortnummer**. Visa, boekingen en luchtvaartprofielen die aan het oude nummer hangen, werken zichzelf niet bij.
 
-Je bent halverwege een online inreisaanvraag, elf uur 's avonds. Er wordt om het paspoortnummer gevraagd, de afgiftedatum, de afgevende instantie en de vervaldatum, voor vier personen. Je opent het eerste paspoort en vindt twee data boven elkaar gedrukt, in dezelfde opmaak, zonder dat een van beide duidelijk in de taal van het formulier staat aangegeven.
+Twee data staan onder elkaar op de gegevenspagina van een paspoort, in identieke opmaak gedrukt, en geen van beide is duidelijk aangeduid. Inreisaanvragen, formulieren van luchtvaartmaatschappijen en visumportalen vragen elk om één specifieke daarvan. Welke, hangt af van wat er wordt ingevuld.
 
 De meesten van ons hebben nooit echt geleerd een paspoort te lezen. We weten ongeveer waar de vervaldatum staat en vertrouwen op de rest. Dat werkt prima tot een formulier, een grensbeambte of een luchtvaartmaatschappij iets specifieks vraagt, en dan begint het verschil tussen twee erg vergelijkbare data ineens flink uit te maken.
 

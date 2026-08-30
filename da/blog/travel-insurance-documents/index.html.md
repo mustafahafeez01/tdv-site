@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/da/blog/travel-insurance-documents/
 - Skadesanmeldelser afvises oftest på grund af manglende dokumentation: politirapport for tyveri, originalkvitteringer, underskrevne skadeskemaer.
 - Læs nøgledele af din police hurtigt ved at fokusere på dækningsgrænser, udelukkelser og vilkår.
 
-Du har betalt for rejseforsikring. Så kommer den medicinske nødsituation i udlandet, tasken der bliver stjålet i lufthavnen, eller flyvningen der bliver aflyst midt på rejsen. Kan du egentlig finde dit policenummer, dit forsikringsselskabs 24-timers nødtelefonnummer, eller bevis for hvad der er dækket? De fleste rejsende kan ikke. Denne artikel dækker, hvad du skal gemme før du rejser, hvor du opbevarer det, så du kan få adgang til det uden internet, og hvordan du undgår de skadesanmeldelser, der får kravet afvist.
+Rejseforsikringen betyder mest i det øjeblik, den er sværest at nå: en hospitalsskranke i udlandet, en politistation, en skranke i lufthavnen efter en aflysning. Det, der tæller da, er ikke policen i sig selv, men om nummeret, selskabets døgnlinje og dokumentationen for dækningen er inden for rækkevidde. Denne artikel gennemgår, hvad der bør gemmes før afrejsen, hvor det skal ligge for at kunne åbnes uden internet, og hvilke anmeldelsesfejl der oftest sænker en udbetaling.
 
 ## Hvad der reelt sker, når du har brug for din forsikring
 

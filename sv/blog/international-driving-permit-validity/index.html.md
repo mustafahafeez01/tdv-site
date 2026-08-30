@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/sv/blog/international-driving-permit-val
 - Länder har ratificerat olika konventioner, så **ett tillstånd som godtas i ett land kan nekas i nästa**.
 - Pass, körkort och tillstånd går efter **tre separata klockor** som nästan aldrig stämmer överens.
 
-Du bokade hyrbilen i Sevilla, skrev ut bekräftelsen och packade körkortet. Vid disken ber medarbetaren om ditt internationella körkort. Du har ett hemma någonstans, köpt inför en resa för tre somrar sedan, och du är ganska säker på att det fortfarande gäller. Det gör det inte.
+Ett internationellt körkort är en översättning av körkortet, inte ett körkort i egen rätt, och det löper efter sin egen tidtabell. De flesta gäller tolv månader från utfärdandedatumet, så det som köptes inför en resa för tre somrar sedan har nästan säkert gått ut. Hyrbilsdiskar i flera länder begär det innan de lämnar ut en bil.
 
 Ett internationellt körkort har sitt eget utgångsdatum, och det datumet beter sig olika beroende på vilken av de internationella konventionerna ditt tillstånd är utfärdat under. De flesta förare upptäcker aldrig att det finns olika typer förrän ett av dem blir nekat.
 

@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/it/blog/travel-expired-passport-uk/
 - **Assicurazione di viaggio:** La maggior parte delle polizze annulla i sinistri se il passaporto era scaduto durante il viaggio.
 - **Se all'estero:** Contatti l'ambasciata o il consolato britannico più vicino per un documento di viaggio d'emergenza.
 
-Quando prenota un volo a Barcellona tra 10 giorni e controlla il suo passaporto, scopre che scade tra 8 giorni. Può ancora viaggiare?
+Se un passaporto che scade prima della data di rientro crei un problema dipende interamente da dove è diretto il viaggio. Alcuni paesi chiedono soltanto che sia valido il giorno dell'ingresso. Molti ne esigono tre o sei mesi oltre.
 
 No, un passaporto scaduto non funziona per i viaggi internazionali. Le compagnie aeree verificano la validità prima di emettere le carte d'imbarco, e se il suo passaporto è scaduto le negheranno l'accesso all'aereo. Il controllo alle frontiere fa lo stesso controllo al suo arrivo. Deve rinnovare il suo passaporto prima di viaggiare internazionalmente.
 

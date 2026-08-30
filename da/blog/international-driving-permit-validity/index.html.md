@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/da/blog/international-driving-permit-val
 - Landene har ratificeret forskellige konventioner, så **et kort, der accepteres i ét land, kan blive afvist i det næste**.
 - Pas, kørekort og internationalt kørekort kører efter **tre forskellige ure**, der næsten aldrig stemmer overens.
 
-Du bookede lejebilen i Sevilla, printede bekræftelsen og pakkede dit kørekort. Ved skranken beder medarbejderen om dit internationale kørekort. Der ligger et derhjemme et sted, købt til en rejse for tre somre siden, og du er ret sikker på, at det stadig gælder. Det gør det ikke.
+Et internationalt kørekort er en oversættelse af kørekortet, ikke et kørekort i sig selv, og det løber efter sin egen kalender. De fleste gælder tolv måneder fra udstedelsesdatoen, så det, der blev købt til en rejse for tre somre siden, er næsten med sikkerhed udløbet. Udlejningsskranker i flere lande beder om det, før de udleverer en bil.
 
 Et internationalt kørekort har sin egen udløbsdato, og den dato opfører sig forskelligt afhængigt af, hvilken af de internationale traktater dit kort er udstedt under. De fleste bilister opdager først, at der findes flere typer, når et af dem bliver afvist.
 

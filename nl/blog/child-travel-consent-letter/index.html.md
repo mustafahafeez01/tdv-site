@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/nl/blog/child-travel-consent-letter/
 - Veelvoorkomende afwijzingen komen door ontbrekende informatie, geen notarisatie, verouderde handtekeningen of onverifieerbare contactnummers.
 - Neem een geprinte kopie mee als hoofddocument, en bewaar een versleutelde digitale back-up voor noodgevallen.
 
-Je staat bij de incheckbalie met je dochter, klaar voor een langverwachte reis om je zus in Toronto te bezoeken. De medewerker vraagt om je toestemmingsbrief. Je hebt er een, en die is ondertekend, maar hij is een tijd geleden ondertekend, vóór de laatste paspoortvernieuwing van je dochter, en het paspoortnummer op de brief komt niet meer overeen met het paspoort dat je in je hand hebt. De medewerker schudt het hoofd. Jullie mogen niet aan boord.
+Een toestemmingsbrief heeft aan de incheckbalie één taak: laten zien dat de volwassene die met het kind reist de instemming heeft van de afwezige ouder. De meeste worden zonder opmerking geaccepteerd. Wat vertraging oplevert, struikelt meestal over een detail en niet over de inhoud, en het vaakst is dat een paspoortnummer dat bij de laatste verlenging van het kind is veranderd.
 
 Dat scenario - en duizenden vergelijkbare gevallen - gebeurt omdat toestemmingsbrieven voor kinderreizen een van de meest verkeerd begrepen reisdocumenten zijn. De regels verschillen sterk per land, en een brief die op de ene reis prima werkt, kan bij de grens op de volgende reis mislukken. Precies weten wanneer een brief nodig is, wat erin moet staan en hoe je hem geldig houdt, voorkomt de meest voorkomende redenen waarom gezinnen bij de grens worden tegengehouden.
 

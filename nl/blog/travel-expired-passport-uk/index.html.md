@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/nl/blog/travel-expired-passport-uk/
 - **Reisverzekering:** de meeste polissen maken claims ongeldig als je paspoort tijdens de reis verlopen was.
 - **Als je in het buitenland bent:** neem contact op met de dichtstbijzijnde Britse ambassade of het consulaat voor een noodreisdocument.
 
-Je boekt een vlucht naar Barcelona over 10 dagen en controleert je paspoort - het blijkt over 8 dagen te verlopen. Kun je nog steeds reizen?
+Of een paspoort dat vóór de terugreisdatum verloopt een probleem wordt, hangt volledig af van waar de reis heen gaat. Sommige landen vragen alleen dat het geldig is op de dag van binnenkomst. Veel landen eisen daarbovenop drie of zes maanden.
 
 Nee - een verlopen paspoort werkt niet voor internationale reizen. Luchtvaartmaatschappijen controleren de geldigheid voordat ze instapkaarten uitgeven, en als je paspoort verlopen is, wordt je de toegang tot het vliegtuig geweigerd. De grensbewaking voert dezelfde controle uit op je bestemming, dus er is geen ontkomen aan: je moet je paspoort verlengen voordat je internationaal reist.
 

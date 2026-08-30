@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/id/blog/international-driving-permit-val
 - Setiap negara meratifikasi konvensi yang berbeda-beda, sehingga **izin yang diterima di satu negara bisa ditolak di negara berikutnya**.
 - Paspor, SIM, dan izin mengemudi internasional berjalan pada **tiga jam yang terpisah** dan hampir tidak pernah sejalan.
 
-Anda memesan mobil sewaan di Seville, mencetak konfirmasinya, dan mengemas SIM Anda. Di meja penyewaan, petugas meminta Izin Mengemudi Internasional Anda. Ada satu di rumah, dibeli untuk perjalanan tiga musim panas lalu, dan Anda cukup yakin itu masih berlaku. Ternyata tidak.
+Surat Izin Mengemudi Internasional adalah terjemahan dari SIM, bukan SIM tersendiri, dan masa berlakunya berjalan menurut hitungannya sendiri. Sebagian besar berlaku dua belas bulan sejak tanggal terbit, sehingga yang dibuat untuk perjalanan tiga musim panas lalu hampir pasti sudah habis masa berlakunya. Konter penyewaan di sejumlah negara memintanya sebelum menyerahkan mobil.
 
 IDP memiliki tanggal kedaluwarsanya sendiri, dan tanggal itu berlaku berbeda tergantung di bawah perjanjian internasional mana izin Anda diterbitkan. Kebanyakan pengemudi baru tahu ada dua jenis izin setelah salah satunya ditolak.
 

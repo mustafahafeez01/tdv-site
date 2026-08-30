@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/fr/blog/international-driving-permit-val
 - Les pays ont ratifié des conventions différentes, donc **un permis accepté dans un pays peut être refusé dans le suivant**.
 - Passeport, permis et PCI suivent **trois horloges distinctes** qui coïncident presque jamais.
 
-Vous avez réservé la voiture de location à Séville, imprimé la confirmation, et emporté votre permis de conduire. Au comptoir, l'agent vous demande votre permis de conduire international. Il y en a un chez vous, quelque part, acheté pour un voyage trois étés plus tôt, et vous êtes presque sûr qu'il est encore valable. Ce n'est pas le cas.
+Un permis de conduire international est une traduction du permis, et non un permis à part entière, et il court sur son propre calendrier. La plupart sont valables douze mois à compter de la date de délivrance, si bien que celui acheté pour un voyage il y a trois étés est presque certainement périmé. Les comptoirs de location de plusieurs pays le réclament avant de remettre les clés.
 
 Un PCI porte sa propre date d'expiration, et cette date se comporte différemment selon la convention internationale dont relève votre permis. La plupart des conducteurs ne découvrent qu'il en existe deux types que le jour où l'un des deux est refusé.
 

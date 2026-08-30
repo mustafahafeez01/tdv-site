@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/es/blog/travel-while-passport-renewal-pe
 - **Australia y Canadá:** Ambos requieren que entregues tu pasaporte en la solicitud. Los viajes internacionales no son posibles hasta que se emita el nuevo pasaporte.
 - Existen opciones de renovación expedida y urgente en cada país cubierto aquí, pero la regla básica se mantiene: no puedes viajar internacionalmente sin un pasaporte válido en tu mano.
 
-Has enviado tu pasaporte para renovarlo y tienes un viaje próximo. La pregunta es si aún puedes viajar. La respuesta depende de un hecho: aún tienes tu pasaporte en tu posesión, o ya lo has entregado a las autoridades. Este único hecho determina qué viajes son posibles. La respuesta también varía significativamente según el país, y en el caso de Reino Unido, según qué método de renovación hayas utilizado.
+Viajar mientras una renovación está en curso depende de un solo hecho: si el pasaporte antiguo sigue en mano o ya se ha entregado a las autoridades. Esa única diferencia decide si el viaje puede seguir adelante. También varía según el país y, en el caso del Reino Unido, según el método de renovación empleado.
 
 ## La regla principal
 

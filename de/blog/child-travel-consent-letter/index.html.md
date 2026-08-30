@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/de/blog/child-travel-consent-letter/
 - Häufige Ablehnungen resultieren aus fehlenden Informationen, mangelnder notarieller Beglaubigung, veralteten Unterschriften oder nicht überprüfbaren Kontaktnummern.
 - Führen Sie eine gedruckte Kopie als Hauptdokument mit und bewahren Sie eine verschlüsselte digitale Sicherung für Notfälle auf.
 
-Sie stehen am Schalter der Fluggesellschaft mit Ihrer Tochter, bereit für eine lang ersehnte Reise, um Ihre Schwester in Toronto zu besuchen. Der Agent fragt nach Ihrer Zustimmungserklärung. Sie haben eine und sie ist unterzeichnet, aber sie wurde vor achtzehn Monaten unterzeichnet, vor der letzten Reisepasserneuerung, und die Passnummer in dem Brief stimmt nicht mehr mit dem Reisepass in Ihrer Hand überein. Der Agent schüttelt den Kopf. Sie dürfen nicht an Bord.
+Eine Einverständniserklärung erfüllt am Abfertigungsschalter genau eine Aufgabe: Sie belegt, dass die mitreisende erwachsene Person das Einverständnis des abwesenden Elternteils hat. Die meisten werden kommentarlos akzeptiert. Wo es zu Verzögerungen kommt, scheitert es meist an einer Kleinigkeit statt am Inhalt – am häufigsten an einer Passnummer, die sich bei der letzten Verlängerung des Kindes geändert hat.
 
 Dieses Szenario - und Tausende wie es - passiert, weil Zustimmungsschreiben für Kinderreisen eines der am häufigsten missverstandenen Reisedokumente sind. Die Regeln unterscheiden sich je nach Land erheblich, und ein Brief, der bei einer Reise einwandfrei funktioniert, kann an der Grenze bei der nächsten fehlschlagen. Wenn Sie genau wissen, wann einer erforderlich ist, was er enthalten muss und wie Sie ihn gültig halten, vermeiden Sie die häufigsten Gründe, warum Familien an der Grenze gestoppt werden.
 

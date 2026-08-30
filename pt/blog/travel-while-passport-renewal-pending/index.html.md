@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/pt/blog/travel-while-passport-renewal-pe
 - **Austrália e Canadá:** Ambos exigem que entregue o seu passaporte aquando da candidatura. As viagens internacionais não são possíveis até que o novo passaporte seja emitido.
 - Opções de renovação expedida e urgente existem em todos os países aqui abordados, mas a regra básica mantém-se: não pode viajar internacionalmente sem um passaporte válido na sua mão.
 
-Enviou o seu passaporte para renovação e tem uma viagem próxima. A questão é se pode continuar a viajar. A resposta depende de um facto: ainda tem o seu passaporte em sua posse, ou já o entregou às autoridades. Este facto único determina o que viagens são possíveis. A resposta também varia significativamente de acordo com o país, e no caso do Reino Unido, de acordo com qual método de renovação utilizou.
+Viajar enquanto uma renovação está a decorrer depende de um único facto: se o passaporte antigo continua em mão ou já foi entregue às autoridades. Essa única diferença decide se a viagem pode avançar. Varia também consoante o país e, no caso do Reino Unido, consoante o método de renovação utilizado.
 
 ## A Regra Principal
 

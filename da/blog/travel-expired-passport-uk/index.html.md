@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/da/blog/travel-expired-passport-uk/
 - **Rejseforsikring:** De fleste forsikringer ugyldiggør erstatningskrav, hvis dit pas var udløbet under rejsen.
 - **Hvis du er i udlandet:** Kontakt nærmeste britiske ambassade eller konsulat for at få et nødrejsedokument.
 
-Du booker en flyrejse til Barcelona om 10 dage og tjekker dit pas - det viser sig at udløbe om 8 dage. Kan du stadig rejse?
+Om et pas, der udløber før hjemrejsedatoen, bliver et problem, afhænger helt af, hvor rejsen går hen. Nogle lande kræver kun, at det er gyldigt på indrejsedagen. Mange kræver tre eller seks måneder derudover.
 
 Nej - et udløbet pas duer ikke til internationale rejser. Flyselskaber kontrollerer gyldigheden, før de udsteder boardingkort, og hvis dit pas er udløbet, nægter de dig adgang til flyet. Grænsekontrollen foretager samme kontrol ved din destination, så der er ingen vej udenom: du skal forny passet, før du rejser internationalt.
 

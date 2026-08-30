@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/id/blog/how-to-read-your-passport-dates/
 - **Negara penerbit menentukan kedutaan mana yang membantu Anda** jika paspor hilang, dan itu tidak selalu negara tempat Anda tinggal.
 - Memperpanjang paspor memberi Anda **nomor paspor baru**. Visa, pemesanan, dan profil maskapai yang terkait dengan nomor lama tidak diperbarui dengan sendirinya.
 
-Anda sedang mengisi separuh formulir permohonan masuk daring pukul sebelas malam. Formulir itu meminta nomor paspor, tanggal penerbitan, otoritas penerbit, dan tanggal kedaluwarsa, untuk empat orang. Anda membuka buku paspor pertama dan menemukan dua tanggal tercetak satu di atas yang lain dengan format identik, tidak ada yang diberi label jelas dalam bahasa Inggris.
+Dua tanggal tercetak berurutan ke bawah pada halaman data paspor dengan format yang sama persis, dan tidak satu pun diberi keterangan yang jelas. Permohonan masuk, formulir maskapai, dan portal visa masing-masing meminta salah satu tanggal tertentu. Yang mana, tergantung pada apa yang sedang diisi.
 
 Kebanyakan dari kita tidak pernah benar-benar membaca paspor dengan cermat. Kita tahu kira-kira di mana letak tanggal kedaluwarsa, dan mempercayai sisanya begitu saja. Cara ini berhasil sampai suatu formulir, petugas imigrasi, atau maskapai menanyakan sesuatu yang spesifik, dan pada saat itulah perbedaan antara dua tanggal yang tampak sangat mirip menjadi cukup penting.
 

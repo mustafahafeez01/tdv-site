@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/fr/blog/how-to-read-your-passport-dates/
 - **Le pays émetteur détermine quelle ambassade peut vous aider** si le passeport disparaît, et ce n'est pas toujours le pays où vous vivez.
 - Renouveler vous donne un **nouveau numéro de passeport**. Visas, réservations et profils de compagnies aériennes liés à l'ancien ne se mettent pas à jour d'eux-mêmes.
 
-Il est onze heures du soir et vous êtes à mi-chemin d'une demande d'autorisation d'entrée en ligne. Elle demande le numéro de passeport, la date de délivrance, l'autorité de délivrance et la date d'expiration, pour quatre personnes. Vous ouvrez le premier carnet et trouvez deux dates imprimées l'une au-dessus de l'autre, dans une mise en forme identique, sans qu'aucune ne soit clairement indiquée en français.
+Deux dates figurent l'une au-dessus de l'autre sur la page de données d'un passeport, imprimées dans une mise en forme identique, et aucune n'est clairement étiquetée en français. Les demandes d'entrée, les formulaires des compagnies aériennes et les portails de visa réclament chacun l'une d'elles en particulier. Laquelle dépend de ce que l'on est en train de remplir.
 
 La plupart d'entre nous n'ont jamais eu besoin de vraiment savoir lire un passeport. Nous savons à peu près où se trouve la date d'expiration et nous faisons confiance pour le reste. Cela fonctionne jusqu'au jour où un formulaire, un agent frontalier ou une compagnie aérienne demande quelque chose de précis, et la différence entre deux dates qui se ressemblent beaucoup commence alors à compter sérieusement.
 

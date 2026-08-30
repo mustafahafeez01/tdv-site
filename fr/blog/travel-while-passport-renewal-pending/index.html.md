@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/fr/blog/travel-while-passport-renewal-pe
 - **Australie et Canada :** Les deux vous demandent de remettre votre passeport lors de la demande. Les voyages internationaux ne sont pas possibles jusqu'à ce que le nouveau passeport soit émis.
 - Des options de renouvellement accéléré et urgent existent dans tous les pays couverts ici, mais la règle fondamentale s'applique : vous ne pouvez pas voyager à l'étranger sans un passeport valide en main.
 
-Vous avez envoyé votre passeport pour renouvellement et vous avez un voyage prévu. La question est de savoir si vous pouvez toujours voyager. La réponse dépend d'un seul fait : conservez-vous toujours votre passeport en votre possession ou l'avez-vous déjà remis aux autorités. Ce seul détail détermine quel type de voyage est possible. La réponse varie également considérablement selon le pays et, dans le cas du Royaume-Uni, selon la méthode de renouvellement utilisée.
+Voyager pendant qu'un renouvellement est en cours tient à un seul fait : l'ancien passeport est-il toujours en main, ou a-t-il déjà été remis aux autorités. Cette seule différence décide si le voyage peut avoir lieu. Cela varie aussi selon les pays et, au Royaume-Uni, selon la méthode de renouvellement utilisée.
 
 ## La règle fondamentale
 

@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/pt/blog/travel-insurance-documents/
 - As reclamações são rejeitadas mais frequentemente por falta de documentação: relatório policial para roubo, recibos originais, formulários de reclamação assinados.
 - Leia as secções-chave da sua apólice concentrando-se nos limites de cobertura, exclusões e condições.
 
-Pagou pelo seguro de viagem. Depois vem a emergência médica no estrangeiro, a mala roubada no aeroporto, o voo cancelado a meio da viagem. Consegue realmente encontrar o número da sua apólice, a linha de emergência 24 horas da sua seguradora, ou prova do que está coberto? A maioria dos viajantes não consegue. Este artigo cobre o que guardar antes de partir, onde armazenar para acessar sem internet e como evitar os erros em reclamações que levam à sua recusa.
+O seguro de viagem conta mais no momento em que é mais difícil de alcançar: o balcão de um hospital no estrangeiro, uma esquadra, o balcão da companhia aérea após um cancelamento. O que importa então não é a apólice em si, mas se o número, a linha 24 horas da seguradora e o comprovativo de cobertura estão à mão. Este artigo explica o que guardar antes da partida, onde o manter para que abra sem internet e os erros de participação que mais vezes afundam um reembolso.
 
 ## O Que Realmente Acontece Quando Precisa do Seu Seguro
 

@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/nl/blog/travel-while-passport-renewal-pe
 - **Australië en Canada:** Beide vereisen dat je je paspoort inlevert bij de aanvraag. Internationale reizen zijn niet mogelijk totdat het nieuwe paspoort is uitgegeven.
 - Versnelde en spoedopties voor verlenging bestaan in elk land dat hier wordt besproken, maar de basisregel blijft gelden: je kunt niet internationaal reizen zonder een geldig paspoort in handen.
 
-Je hebt je paspoort opgestuurd voor verlenging en er staat een reis op de planning. De vraag is of je nog kunt reizen, en het antwoord hangt af van één ding: heb je je paspoort nog in bezit, of heb je het al ingeleverd bij de autoriteiten. Het verschilt ook per land, en in het geval van het Verenigd Koninkrijk per gebruikte verlengingsmethode.
+Reizen terwijl een verlenging loopt, hangt af van één feit: is het oude paspoort nog in bezit of al ingeleverd bij de autoriteiten. Dat ene verschil bepaalt of de reis door kan gaan. Het verschilt daarnaast per land en, in het geval van het Verenigd Koninkrijk, per gebruikte verlengingsmethode.
 
 ## De hoofdregel
 

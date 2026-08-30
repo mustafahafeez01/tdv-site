@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/sv/blog/travel-insurance-documents/
 - Skador avslås oftast på grund av saknade handlingar: polisrapport för stöld, originalkvitton, signerade skadeformulär.
 - Läs din försäkrings nyckeldelar snabbt genom att fokusera på försäkringsgränser, undantag och villkor.
 
-Du har betalat för en reseförsäkring. Sen blir det en medicinsk nödsituation utomlands, väskan stöld på flygplatsen eller ett inställt flyg mitt under resan. Kan du faktiskt hitta ditt försäkringsnummer, försäkringsbolagets 24-timmarslinje eller bevis för vad som täcks. De flesta resenärer kan det inte. Den här artikeln handlar om vad du ska spara före avfärd, var du förvarar det så det är tillgängligt utan internet, och hur du undviker de skaderegleringsmisstag som gör att ersättningen nekas.
+Reseförsäkringen betyder som mest i det ögonblick den är som svårast att nå: en sjukhusdisk utomlands, en polisstation, en flygbolagsdisk efter en inställd avgång. Det som räknas då är inte försäkringen i sig utan om numret, bolagets dygnetruntlinje och beviset på vad som ingår finns inom räckhåll. Den här artikeln går igenom vad som bör sparas före avresan, var det ska ligga för att öppnas utan internet, och vilka anmälningsmisstag som oftast sänker en ersättning.
 
 ## Vad som faktiskt händer när du behöver din försäkring
 

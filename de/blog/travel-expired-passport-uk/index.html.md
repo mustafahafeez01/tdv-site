@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/de/blog/travel-expired-passport-uk/
 - **Reiseversicherung:** Die meisten Policen machen Ansprüche ungültig, wenn Ihr Pass während der Reise abgelaufen war.
 - **Im Ausland:** Wenden Sie sich an die nächste britische Botschaft oder Konsulat für ein Notfall-Reisedokument.
 
-Wenn Sie einen Flug nach Barcelona buchen, der in 10 Tagen stattfindet, und Sie überprüfen Ihren Pass, finden Sie heraus, dass er in 8 Tagen abläuft. Können Sie trotzdem reisen?
+Ob ein Pass, der vor dem Rückreisedatum abläuft, zum Problem wird, hängt ganz davon ab, wohin die Reise geht. Manche Länder verlangen nur, dass er am Tag der Einreise gültig ist. Viele fordern drei oder sechs Monate darüber hinaus.
 
 Nein - ein abgelaufener Pass funktioniert nicht für internationale Reisen. Fluggesellschaften überprüfen die Gültigkeit vor der Ausstellung der Bordkarte, und wenn Ihr Pass abgelaufen ist, weigern sie sich, Sie ins Flugzeug zu lassen. Die Grenzkontrolle führt die gleiche Überprüfung bei Ihrer Ankunft durch. Sie müssen Ihren Pass erneuern, bevor Sie international reisen.
 

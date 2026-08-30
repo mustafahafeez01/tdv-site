@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/es/blog/travel-expired-passport-uk/
 - **Seguro de viaje:** La mayoría de las pólizas anulan los reclamos si tu pasaporte estaba expirado durante el viaje.
 - **Si estás en el extranjero:** Contacta a la embajada o consulado británico más cercano para obtener un documento de viaje de emergencia.
 
-Cuando reservas un vuelo a Barcelona con 10 días de anticipación y verificas tu pasaporte, descubres que expira en 8. ¿Todavía puedes viajar?
+Que un pasaporte que caduca antes de la fecha de regreso cause un problema depende por completo de adónde va el viaje. Algunos países solo piden que sea válido el día de la entrada. Muchos exigen tres o seis meses más allá.
 
 No - un pasaporte expirado no funcionará para viajar internacionalmente. Las aerolíneas verifican la validez antes de emitir tarjetas de embarque, y si tu pasaporte está expirado te negarán el acceso al avión. El control de fronteras hace la misma verificación en tu destino. Debes renovar tu pasaporte antes de viajar internacionalmente.
 

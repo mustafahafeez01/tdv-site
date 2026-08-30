@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/travel-expired-passport-uk/
 - **Travel insurance:** Most policies void claims if your passport was expired during travel.
 - **If abroad:** Contact the nearest British embassy or consulate for an emergency travel document.
 
-You book a flight to Barcelona and check your passport. It's due to expire before your return date. Can you still travel?
+Whether a passport that expires before the return date causes a problem depends entirely on where the trip is going. Some countries ask only that it be valid on the day of entry. Many ask for three or six months beyond it.
 
 No - an expired passport won't work for international travel. Airlines check validity before issuing boarding passes, and if your passport is expired they'll deny you access to the plane. Border control does the same check at your destination, so there's no way round it: you'll need to renew before you travel internationally.
 

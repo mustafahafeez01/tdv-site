@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/fr/blog/travel-expired-passport-uk/
 - **Assurance voyage :** La plupart des polices annulent les réclamations si votre passeport était expiré pendant le voyage.
 - **Si vous êtes à l'étranger :** Contactez l'ambassade ou le consulat britannique le plus proche pour un document de voyage d'urgence.
 
-Vous réservez un vol pour Barcelone dans 10 jours et vérifiez votre passeport, il expire dans 8. Pouvez-vous quand même voyager ?
+Qu'un passeport expirant avant la date de retour pose problème dépend entièrement de la destination du voyage. Certains pays demandent seulement qu'il soit valable le jour de l'entrée. Beaucoup en exigent trois ou six mois au-delà.
 
 Non, un passeport expiré ne fonctionnera pas pour les voyages internationaux. Les compagnies aériennes vérifient la validité avant d'émettre les cartes d'embarquement, et si votre passeport est expiré, elles vous refuseront l'accès à l'avion. Le contrôle aux frontières fait la même vérification à votre destination. Vous devez renouveler votre passeport avant de voyager à l'international.
 

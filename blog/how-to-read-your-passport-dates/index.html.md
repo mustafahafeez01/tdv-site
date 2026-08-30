@@ -16,7 +16,7 @@ Source: https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/
 - **Issuing country decides whose embassy helps you** if the passport goes missing, and it is not always the country you live in.
 - Renewing gives you a **new passport number**. Visas, bookings and airline profiles tied to the old one do not update themselves.
 
-You are halfway through an online entry application at eleven at night. It wants the passport number, the date of issue, the issuing authority and the expiry date, for four people. You open the first booklet and find two dates printed one above the other in identical formatting, neither of them obviously labelled in English.
+Two dates sit one above the other on a passport data page, printed in identical formatting, and neither is obviously labelled in English. Entry applications, airline forms and visa portals each want a specific one of them. Which one depends on what is being filled in.
 
 Most of us have never had to read a passport properly. We know roughly where the expiry date lives and we take the rest on trust. That works right up until a form, a border officer or an airline asks something specific, and then the difference between two very similar-looking dates starts to matter quite a lot.
 
