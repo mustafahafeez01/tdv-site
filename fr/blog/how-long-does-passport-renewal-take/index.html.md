@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/fr/blog/how-long-does-passport-renewal-t
 ## Points clés à retenir
 
 - Le temps nécessaire pour le renouvellement d'un passeport dépend de votre pays, de votre situation et de la période de l'année où vous présentez votre demande - il n'existe pas de chiffre unique qui reste exact longtemps, nous en omettons donc délibérément dans ce guide.
-- Chaque pays gère une file d'attente standard plus une ou plusieurs voies payantes plus rapides. Les voies plus rapides vous achètent une position antérieure ou un rendez-vous réservable - elles ne sautent aucune vérification.
+- La plupart des pays gèrent une file d'attente standard plus une ou plusieurs voies payantes plus rapides. Les voies plus rapides vous achètent une position antérieure ou un rendez-vous réservable - elles ne sautent aucune vérification.
 - Une poignée de situations ralentissent systématiquement le traitement : un changement de nom, un premier passeport adulte, une demande pour un enfant, un passeport perdu ou endommagé, des vérifications de sécurité supplémentaires, la haute saison et une demande depuis l'étranger.
 - L'approche la plus sûre est de présenter votre demande dès que la validité restante de votre passeport commence à se resserrer, en calculant à rebours à partir de votre date de voyage réelle plutôt qu'en devinant.
 - Pour le chiffre qui compte maintenant, adressez-vous à votre propre autorité de passeport - HM Passport Office, le Département d'État américain, le Bureau des passeports australien ou votre équivalent national - pas à un article de blog.

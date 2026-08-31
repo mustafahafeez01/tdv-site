@@ -112,7 +112,7 @@ ETIAS non è ancora diventato obbligatorio, e il calendario è stato posticipato
 
 ### Chi deve richiedere ETIAS?
 
-ETIAS è richiesto per cittadini non-UE esenti da visto di età compresa tra 18 e 70 anni che viaggiano per soggiorni brevi (fino a 90 giorni in 180 giorni). I visitatori da USA, Canada, Regno Unito e diversi altri paesi sono inclusi. I bambini sotto i 18 anni e gli adulti sopra i 70 non pagano ma richiedono comunque l'autorizzazione. I residenti UE e coloro che hanno visti di lungo soggiorno non richiedono ETIAS.
+ETIAS è richiesto per cittadini non-UE esenti da visto che viaggiano per soggiorni brevi (fino a 90 giorni in 180 giorni). I visitatori da USA, Canada, Regno Unito e diversi altri paesi sono inclusi. I bambini sotto i 18 anni e gli adulti sopra i 70 non pagano ma richiedono comunque l'autorizzazione. I residenti UE e coloro che hanno visti di lungo soggiorno non richiedono ETIAS.
 
 ### Quali documenti mi servono per richiedere ETIAS?
 

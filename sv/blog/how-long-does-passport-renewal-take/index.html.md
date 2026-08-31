@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/sv/blog/how-long-does-passport-renewal-t
 ## Viktiga punkter
 
 - Hur lång tid en förnyelse tar beror på ditt land, din situation och årstiden du ansöker i - det finns ingen enskild siffra som förblir korrekt särskilt länge, så vi har medvetet utelämnat en sådan siffra ur den här guiden.
-- Varje land har en standardkö plus en eller flera betalda, snabbare vägar. De snabbare vägarna ger dig en tidigare plats i kön eller en bokningsbar tid - de hoppar inte över några kontroller.
+- De flesta länder har en standardkö plus en eller flera betalda, snabbare vägar. De snabbare vägarna ger dig en tidigare plats i kön eller en bokningsbar tid - de hoppar inte över några kontroller.
 - Ett fåtal situationer bromsar processen tillförlitligt: ett namnbyte, ett första vuxenpass, en ansökan för ett barn, ett förlorat eller skadat pass, extra säkerhetskontroller, högsäsong och att ansöka från utlandet.
 - Det säkraste tillvägagångssättet är att ansöka så snart passets kvarvarande giltighet börjar kännas snålt tilltagen, och räkna bakåt från ditt faktiska resedatum i stället för att gissa.
 - För siffran som spelar roll just nu, vänd dig till din egen passmyndighet - HM Passport Office, det amerikanska utrikesdepartementet, Australian Passport Office, eller din nationella motsvarighet - inte ett blogginlägg.

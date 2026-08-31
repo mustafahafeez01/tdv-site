@@ -112,7 +112,7 @@ ETIAS todavía no es obligatorio, y el calendario se ha modificado varias veces.
 
 ### ¿Quién necesita solicitar ETIAS?
 
-ETIAS es obligatorio para ciudadanos no comunitarios exentos de visado de 18 a 70 años que viajen por estancias cortas (hasta 90 días en 180 días). Los visitantes de EE.UU., Canadá, Reino Unido y varios otros países están incluidos. Los menores de 18 años y los mayores de 70 años no pagan pero aún requieren autorización. Los residentes de la UE y aquellos con visados de larga duración no requieren ETIAS.
+ETIAS es obligatorio para ciudadanos no comunitarios exentos de visado que viajen por estancias cortas (hasta 90 días en 180 días). Los visitantes de EE.UU., Canadá, Reino Unido y varios otros países están incluidos. Los menores de 18 años y los mayores de 70 años no pagan pero aún requieren autorización. Los residentes de la UE y aquellos con visados de larga duración no requieren ETIAS.
 
 ### ¿Qué documentos necesito para solicitar ETIAS?
 

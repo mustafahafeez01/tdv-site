@@ -788,7 +788,7 @@ ETIAS has not yet been made mandatory, and the timetable has shifted several tim
 
 ### Who needs to apply for ETIAS?
 
-ETIAS is required for visa-exempt non-EU citizens aged 18 to 70 travelling for short-stay visits (up to 90 days in 180 days). Visitors from the USA, Canada, UK, and several other countries are included. Children under 18 and adults over 70 do not pay but still require authorisation. EU residents and those with long-stay visas do not require ETIAS.
+ETIAS is required for visa-exempt non-EU citizens travelling for short-stay visits (up to 90 days in 180 days). Visitors from the USA, Canada, UK, and several other countries are included. Children under 18 and adults over 70 do not pay but still require authorisation. EU residents and those with long-stay visas do not require ETIAS.
 
 ### What documents do I need to apply for ETIAS?
 
@@ -949,7 +949,7 @@ Source: https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take
 ## Key Takeaways
 
 - How long renewal takes depends on your country, your situation, and the season you apply in - there's no single figure that stays accurate for long, so we've deliberately left one out of this guide.
-- Every country runs a standard queue plus one or more paid, faster routes. The faster routes buy you an earlier position or a bookable appointment - they don't skip any checks.
+- Most countries run a standard queue plus one or more paid, faster routes. The faster routes buy you an earlier position or a bookable appointment - they don't skip any checks.
 - A handful of situations reliably slow things down: a name change, a first adult passport, a child's application, a lost or damaged passport, extra security checks, peak season, and applying from abroad.
 - The safest approach is to apply the moment your passport's remaining validity starts to look tight, working backwards from your actual travel date rather than guessing.
 - For the number that matters right now, go to your own passport authority - HM Passport Office, the US State Department, the Australian Passport Office, or your national equivalent - not a blog post.
@@ -962,7 +962,7 @@ There isn't a single number, and any article that hands you one is quietly betti
 
 ## How Every Country's Renewal System Is Built
 
-Strip away the country-specific paperwork and the systems all follow the same shape. There's a standard route that processes applications roughly in the order they arrive, and there's usually at least one paid route that moves you up that queue. The US calls its faster option expedited processing. The UK offers a fast track and, at some offices, a same-day premium appointment. Australia sells fast track and priority tiers. Canada offers an in-person express option for people travelling soon. The names differ from country to country; the underlying mechanism doesn't.
+Strip away the country-specific paperwork and most systems follow the same shape. There's a standard route that processes applications roughly in the order they arrive, and there's usually at least one paid route that moves you up that queue. The US calls its faster option expedited processing. The UK offers a fast track and, at some offices, a same-day premium appointment. Australia sells fast track and priority tiers. Canada offers an in-person express option for people travelling soon. The names differ from country to country; the underlying mechanism doesn't.
 
 It's worth being precise about what you're actually buying when you pay for speed, because it's easy to assume you're skipping steps. You're not. A faster tier buys you an earlier position in the queue or a bookable appointment slot - it does not waive the document checks, the photo requirements, or the identity verification every application goes through. If your form is wrong or your photo doesn't meet spec, paying more won't rescue it. It just gets you to the rejection faster.
 

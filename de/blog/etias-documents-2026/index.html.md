@@ -112,7 +112,7 @@ ETIAS ist noch nicht verpflichtend, und der Zeitplan wurde bereits mehrfach vers
 
 ### Wer muss sich für ETIAS anmelden?
 
-ETIAS ist erforderlich für visumfreie Nicht-EU-Bürger im Alter von 18 bis 70 Jahren, die für Kurzaufenthalte reisen (bis zu 90 Tage in 180 Tagen). Besucher aus USA, Kanada, Vereinigtem Königreich und mehreren anderen Ländern sind einbezogen. Kinder unter 18 Jahren und Erwachsene über 70 Jahren zahlen nicht, benötigen aber dennoch eine Genehmigung. EU-Bewohner und diejenigen mit Langzeitvisa benötigen kein ETIAS.
+ETIAS ist erforderlich für visumfreie Nicht-EU-Bürger, die für Kurzaufenthalte reisen (bis zu 90 Tage in 180 Tagen). Besucher aus USA, Kanada, Vereinigtem Königreich und mehreren anderen Ländern sind einbezogen. Kinder unter 18 Jahren und Erwachsene über 70 Jahren zahlen nicht, benötigen aber dennoch eine Genehmigung. EU-Bewohner und diejenigen mit Langzeitvisa benötigen kein ETIAS.
 
 ### Welche Dokumente benötige ich für die ETIAS-Anmeldung?
 

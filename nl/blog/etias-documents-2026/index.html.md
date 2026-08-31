@@ -112,7 +112,7 @@ ETIAS is nog niet verplicht geworden, en de planning is al meerdere keren uitges
 
 ### Wie moet ETIAS aanvragen?
 
-ETIAS is verplicht voor visumvrije niet-EU-burgers tussen 18 en 70 jaar die een kort verblijf plannen (tot 90 dagen binnen 180 dagen). Bezoekers uit de VS, Canada, het VK en verschillende andere landen vallen hieronder. Kinderen onder 18 en volwassenen boven 70 betalen niet, maar hebben nog steeds een goedkeuring nodig. Inwoners van de EU en mensen met een langverblijfvisum hebben geen ETIAS nodig.
+ETIAS is verplicht voor visumvrije niet-EU-burgers die een kort verblijf plannen (tot 90 dagen binnen 180 dagen). Bezoekers uit de VS, Canada, het VK en verschillende andere landen vallen hieronder. Kinderen onder 18 en volwassenen boven 70 betalen niet, maar hebben nog steeds een goedkeuring nodig. Inwoners van de EU en mensen met een langverblijfvisum hebben geen ETIAS nodig.
 
 ### Welke documenten heb ik nodig om ETIAS aan te vragen?
 

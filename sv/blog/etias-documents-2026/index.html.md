@@ -112,7 +112,7 @@ ETIAS har ännu inte blivit obligatoriskt, och tidsplanen har flyttats fram fler
 
 ### Vem behöver ansöka om ETIAS?
 
-ETIAS krävs för viseringsfria medborgare utanför EU mellan 18 och 70 år som reser för korta vistelser (upp till 90 dagar under en period på 180 dagar). Besökare från USA, Kanada, Storbritannien och flera andra länder omfattas. Barn under 18 år och vuxna över 70 år betalar inget men behöver ändå tillstånd. EU-medborgare och personer med långtidsvisum behöver inte ETIAS.
+ETIAS krävs för viseringsfria medborgare utanför EU som reser för korta vistelser (upp till 90 dagar under en period på 180 dagar). Besökare från USA, Kanada, Storbritannien och flera andra länder omfattas. Barn under 18 år och vuxna över 70 år betalar inget men behöver ändå tillstånd. EU-medborgare och personer med långtidsvisum behöver inte ETIAS.
 
 ### Vilka handlingar behöver jag för att ansöka om ETIAS?
 

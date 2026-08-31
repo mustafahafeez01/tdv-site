@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/de/blog/how-long-does-passport-renewal-t
 ## Wichtigste Erkenntnisse
 
 - Wie lange eine Reisepasserneuerung dauert, hängt von Ihrem Land, Ihrer Situation und der Jahreszeit ab, in der Sie beantragen - es gibt keine einzelne Zahl, die lange zuverlässig bleibt, deshalb nennen wir in diesem Leitfaden bewusst keine.
-- Jedes Land hat eine Standard-Warteschlange plus eine oder mehrere kostenpflichtige, schnellere Routen. Die schnelleren Routen kaufen Ihnen eine frühere Position oder einen buchbaren Termin - sie überspringen keine Prüfungen.
+- Die meisten Länder haben eine Standard-Warteschlange plus eine oder mehrere kostenpflichtige, schnellere Routen. Die schnelleren Routen kaufen Ihnen eine frühere Position oder einen buchbaren Termin - sie überspringen keine Prüfungen.
 - Eine Handvoll Situationen verlangsamt die Bearbeitung zuverlässig: ein Namenswechsel, ein erster Erwachsenen-Reisepass, ein Antrag für ein Kind, ein verlorener oder beschädigter Reisepass, zusätzliche Sicherheitsprüfungen, Spitzenzeiten und ein Antrag aus dem Ausland.
 - Der sicherste Ansatz: Beantragen Sie, sobald die verbleibende Gültigkeit Ihres Reisepasses knapp wird, rückwärts gerechnet von Ihrem tatsächlichen Reisedatum, statt zu raten.
 - Für die Zahl, die gerade zählt, gehen Sie zu Ihrer eigenen Reisepassbehörde - dem HM Passport Office, dem US State Department, dem Australian Passport Office oder Ihrem nationalen Äquivalent - nicht zu einem Blogbeitrag.

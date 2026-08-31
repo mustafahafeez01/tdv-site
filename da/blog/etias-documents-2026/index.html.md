@@ -112,7 +112,7 @@ ETIAS er endnu ikke blevet obligatorisk, og tidsplanen er blevet udskudt flere g
 
 ### Hvem skal ansøge om ETIAS?
 
-ETIAS kræves for visumfrie borgere uden for EU mellem 18 og 70 år, der rejser på korte ophold (op til 90 dage inden for 180 dage). Besøgende fra USA, Canada, Storbritannien og flere andre lande er omfattet. Børn under 18 år og voksne over 70 år betaler ikke, men skal stadig have tilladelse. EU-borgere og personer med langtidsvisum skal ikke bruge ETIAS.
+ETIAS kræves for visumfrie borgere uden for EU, der rejser på korte ophold (op til 90 dage inden for 180 dage). Besøgende fra USA, Canada, Storbritannien og flere andre lande er omfattet. Børn under 18 år og voksne over 70 år betaler ikke, men skal stadig have tilladelse. EU-borgere og personer med langtidsvisum skal ikke bruge ETIAS.
 
 ### Hvilke dokumenter skal jeg bruge for at ansøge om ETIAS?
 

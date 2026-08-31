@@ -114,7 +114,7 @@ ETIAS has not yet been made mandatory, and the timetable has shifted several tim
 
 ### Who needs to apply for ETIAS?
 
-ETIAS is required for visa-exempt non-EU citizens aged 18 to 70 travelling for short-stay visits (up to 90 days in 180 days). Visitors from the USA, Canada, UK, and several other countries are included. Children under 18 and adults over 70 do not pay but still require authorisation. EU residents and those with long-stay visas do not require ETIAS.
+ETIAS is required for visa-exempt non-EU citizens travelling for short-stay visits (up to 90 days in 180 days). Visitors from the USA, Canada, UK, and several other countries are included. Children under 18 and adults over 70 do not pay but still require authorisation. EU residents and those with long-stay visas do not require ETIAS.
 
 ### What documents do I need to apply for ETIAS?
 

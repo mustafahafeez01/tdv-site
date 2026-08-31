@@ -112,7 +112,7 @@ ETIAS belum menjadi wajib, dan jadwalnya sudah beberapa kali mengalami penundaan
 
 ### Siapa yang perlu mengajukan ETIAS?
 
-ETIAS diwajibkan bagi warga negara non-UE yang bebas visa, berusia 18 hingga 70 tahun, yang melakukan kunjungan singkat (hingga 90 hari dalam periode 180 hari). Pengunjung dari AS, Kanada, Inggris, dan beberapa negara lain termasuk di dalamnya. Anak di bawah 18 tahun dan dewasa di atas 70 tahun tidak membayar tetapi tetap memerlukan izin. Penduduk UE dan pemegang visa tinggal lama tidak memerlukan ETIAS.
+ETIAS diwajibkan bagi warga negara non-UE yang bebas visa yang melakukan kunjungan singkat (hingga 90 hari dalam periode 180 hari). Pengunjung dari AS, Kanada, Inggris, dan beberapa negara lain termasuk di dalamnya. Anak di bawah 18 tahun dan dewasa di atas 70 tahun tidak membayar tetapi tetap memerlukan izin. Penduduk UE dan pemegang visa tinggal lama tidak memerlukan ETIAS.
 
 ### Dokumen apa yang saya butuhkan untuk mengajukan ETIAS?
 

@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-t
 ## Belangrijkste punten
 
 - Hoe lang een verlenging duurt hangt af van je land, je situatie en het seizoen waarin je aanvraagt - er bestaat geen enkel getal dat lang accuraat blijft, dus we hebben er bewust een weggelaten uit deze gids.
-- Elk land heeft een standaardwachtrij plus een of meer betaalde, snellere routes. De snellere routes kopen je een eerdere plek in de rij of een boekbare afspraak - ze slaan geen enkele controle over.
+- De meeste landen hebben een standaardwachtrij plus een of meer betaalde, snellere routes. De snellere routes kopen je een eerdere plek in de rij of een boekbare afspraak - ze slaan geen enkele controle over.
 - Een handvol situaties vertraagt de aanvraag betrouwbaar: een naamswijziging, een eerste volwassen paspoort, een aanvraag voor een kind, een verloren of beschadigd paspoort, extra controles, hoogseizoen en aanvragen vanuit het buitenland.
 - De veiligste aanpak is aanvragen zodra de resterende geldigheid van je paspoort krap begint te worden, en terugrekenen vanaf je werkelijke reisdatum in plaats van te gokken.
 - Voor het getal dat er nu toe doet, ga je naar je eigen paspoortinstantie - HM Passport Office, het Amerikaanse ministerie van Buitenlandse Zaken, het Australische paspoortkantoor, of je nationale tegenhanger - niet naar een blogartikel.

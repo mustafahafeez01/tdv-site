@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/es/blog/how-long-does-passport-renewal-t
 ## Puntos clave
 
 - Cuánto tiempo tarda la renovación de pasaporte depende de tu país, tu situación y la temporada en la que solicites - no hay una única cifra que se mantenga exacta durante mucho tiempo, así que deliberadamente no incluimos ninguna en esta guía.
-- Cada país tiene una cola estándar más una o varias rutas de pago más rápidas. Las rutas más rápidas te compran una posición anterior o una cita reservable - no se saltan ninguna verificación.
+- La mayoría de los países tienen una cola estándar más una o varias rutas de pago más rápidas. Las rutas más rápidas te compran una posición anterior o una cita reservable - no se saltan ninguna verificación.
 - Un puñado de situaciones ralentiza de forma fiable la tramitación: un cambio de nombre, un primer pasaporte de adulto, una solicitud infantil, un pasaporte perdido o dañado, comprobaciones de seguridad adicionales, la temporada alta y solicitar desde el extranjero.
 - El enfoque más seguro es solicitar en cuanto la validez restante de tu pasaporte empiece a quedarse justa, calculando hacia atrás desde tu fecha real de viaje en lugar de adivinar.
 - Para la cifra que importa ahora mismo, acude a tu propia autoridad de pasaportes - HM Passport Office, el Departamento de Estado de EE.UU., la Oficina de Pasaportes Australiana o tu equivalente nacional - no a un artículo de blog.

@@ -112,7 +112,7 @@ O ETIAS ainda não se tornou obrigatório, e o calendário já foi alterado vár
 
 ### Quem precisa de se candidatar a ETIAS?
 
-O ETIAS é obrigatório para cidadãos não-UE isentos de visto com idades entre 18 e 70 anos que viajam para visitas de curta duração (até 90 dias em 180 dias). Visitantes dos EUA, Canadá, Reino Unido e vários outros países estão incluídos. Crianças menores de 18 anos e adultos maiores de 70 não pagam mas ainda necessitam de autorização. Residentes da UE e aqueles com vistos de longa duração não precisam de ETIAS.
+O ETIAS é obrigatório para cidadãos não-UE isentos de visto que viajam para visitas de curta duração (até 90 dias em 180 dias). Visitantes dos EUA, Canadá, Reino Unido e vários outros países estão incluídos. Crianças menores de 18 anos e adultos maiores de 70 não pagam mas ainda necessitam de autorização. Residentes da UE e aqueles com vistos de longa duração não precisam de ETIAS.
 
 ### Que documentos preciso para me candidatar a ETIAS?
 

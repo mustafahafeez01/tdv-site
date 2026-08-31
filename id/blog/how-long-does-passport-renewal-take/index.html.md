@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-t
 ## Poin Penting
 
 - Berapa lama perpanjangan berlangsung bergantung pada negara Anda, situasi Anda, dan musim saat Anda mengajukan - tidak ada satu angka pun yang tetap akurat cukup lama, jadi kami sengaja tidak mencantumkannya dalam panduan ini.
-- Setiap negara memiliki antrean standar plus satu atau lebih jalur berbayar yang lebih cepat. Jalur yang lebih cepat memberi Anda posisi antrean lebih awal atau jadwal yang bisa dipesan - bukan melewati pemeriksaan apa pun.
+- Sebagian besar negara memiliki antrean standar plus satu atau lebih jalur berbayar yang lebih cepat. Jalur yang lebih cepat memberi Anda posisi antrean lebih awal atau jadwal yang bisa dipesan - bukan melewati pemeriksaan apa pun.
 - Ada sejumlah situasi yang secara konsisten memperlambat prosesnya: perubahan nama, paspor dewasa pertama, permohonan untuk anak, paspor hilang atau rusak, pemeriksaan tambahan, musim puncak, dan pengajuan dari luar negeri.
 - Pendekatan paling aman adalah mengajukan begitu masa berlaku paspor Anda mulai terasa mepet, dengan menghitung mundur dari tanggal keberangkatan sebenarnya, bukan menebak-nebak.
 - Untuk angka yang penting saat ini, kunjungi otoritas paspor Anda sendiri - HM Passport Office, Departemen Luar Negeri AS, Kantor Paspor Australia, atau lembaga setara di negara Anda - bukan sebuah artikel blog.
