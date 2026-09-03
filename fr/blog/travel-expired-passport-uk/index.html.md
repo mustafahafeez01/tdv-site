@@ -30,7 +30,7 @@ Quand vous arrivez à l'enregistrement, l'agent exécute votre numéro de passep
 
 Cette règle s'applique à tous les voyages internationaux, qu'il s'agisse de vols en Europe ou de traversées en ferry, que vous soyez à peine après l'expiration ou réservé plusieurs mois à l'avance. Si vous traversez une frontière internationale et devez montrer votre passeport, il doit être valide ce jour-là.
 
-La seule exception est un document de voyage d'urgence britannique, émis par le Ministère des Affaires étrangères quand vous êtes déjà à l'étranger dans une situation véritablement urgente, et même dans ce cas, il n'existe que pour vous permettre de rentrer - pas de voyager ailleurs.
+La seule exception est un document de voyage d'urgence britannique, émis par le Ministère des Affaires étrangères quand vous êtes déjà à l'étranger dans une situation véritablement urgente, et même dans ce cas, il n'existe que pour vous permettre de rentrer — pas de voyager ailleurs.
 
 ## Peut-on réserver des vacances avec un passeport expiré ?
 
@@ -64,7 +64,7 @@ Vous aurez également besoin de votre ancien passeport pour postuler, indépenda
 
 Les compagnies aériennes utilisent Timatic, un système de l'IATA qui croise-référence votre numéro de passeport, nationalité et destination avec les exigences d'entrée, indiquant à l'agent de l'enregistrement instantanément si vous êtes autorisé à voyager quand il scanne votre passeport. Si votre passeport est expiré, Timatic le signale en rouge et l'agent ne peut pas ignorer cette décision, même si vous suppliez ou montriez une carte d'embarquement d'il y a des semaines.
 
-Le contrôle aux frontières fait la même vérification à votre arrivée - parfois même en vérifiant deux fois, une fois en quittant le Royaume-Uni et à nouveau en entrant dans votre destination. Un passeport expiré sera détecté peu importe votre prudence.
+Le contrôle aux frontières fait la même vérification à votre arrivée — parfois même en vérifiant deux fois, une fois en quittant le Royaume-Uni et à nouveau en entrant dans votre destination. Un passeport expiré sera détecté peu importe votre prudence.
 
 La seule zone grise qui existe est comment les compagnies aériennes et le contrôle aux frontières gèrent les passeports « expirant bientôt » mais pas encore expirés, où certains agents sont stricts sur la règle des 6 mois pour certaines destinations et d'autres ne le sont pas. Mais une fois que votre passeport a dépassé la date d'expiration, il n'y a aucune zone grise du tout.
 
@@ -80,15 +80,15 @@ Cela s'applique, que votre passeport ait expiré avant que vous quittiez le Roya
 
 ## Si vous êtes déjà à l'étranger et votre passeport expire
 
-C'est le scénario véritablement difficile. Si vous voyagez et votre passeport expire avant de revenir, vous ne pouvez pas monter à bord d'un vol ou ferry pour rentrer. Vous devrez contacter l'ambassade ou le consulat britannique le plus proche pour un document de voyage d'urgence - parfois appelé ETD ou passeport d'urgence - qui est valide uniquement pour rentrer.
+C'est le scénario véritablement difficile. Si vous voyagez et votre passeport expire avant de revenir, vous ne pouvez pas monter à bord d'un vol ou ferry pour rentrer. Vous devrez contacter l'ambassade ou le consulat britannique le plus proche pour un document de voyage d'urgence — parfois appelé ETD ou passeport d'urgence — qui est valide uniquement pour rentrer.
 
-Le processus est lent et bureaucratique. Vous devrez fournir une preuve d'identité et payer les frais, dont le montant actuel est publié par le Foreign, Commonwealth and Development Office. Le délai de traitement varie selon l'ambassade et l'urgence de votre situation, alors demandez à quoi vous attendre dès que vous les contactez. Le document d'urgence n'est pas un passeport touristique - il n'est valide que pour le voyage spécifique de retour au Royaume-Uni sans autoriser de voyages ultérieurs.
+Le processus est lent et bureaucratique. Vous devrez fournir une preuve d'identité et payer les frais, dont le montant actuel est publié par le Foreign, Commonwealth and Development Office. Le délai de traitement varie selon l'ambassade et l'urgence de votre situation, alors demandez à quoi vous attendre dès que vous les contactez. Le document d'urgence n'est pas un passeport touristique — il n'est valide que pour le voyage spécifique de retour au Royaume-Uni sans autoriser de voyages ultérieurs.
 
 Définissez des rappels des mois à l'avance plutôt que la veille du voyage, car des rappels dès huit mois avant l'échéance, puis à nouveau à l'approche de la date, vous donnent le temps de renouveler avec un traitement standard au lieu de payer des rendez-vous d'urgence. Si votre passeport expire dans les 6 mois de votre voyage, commencez le processus de renouvellement maintenant avant de vous engager sur les dates de voyage.
 
 ## Malentendu commun sur la validité du passeport
 
-Les voyageurs confondent souvent la date de validité propre de leur passeport avec les règles spécifiques à la destination. Votre passeport est valide jusqu'à la date imprimée dedans - c'est la ligne de base. Mais certains pays exigent qu'il reste valide pendant une période spécifique au-delà de votre date d'arrivée prévue, et c'est une exigence distincte de l'expiration elle-même.
+Les voyageurs confondent souvent la date de validité propre de leur passeport avec les règles spécifiques à la destination. Votre passeport est valide jusqu'à la date imprimée dedans — c'est la ligne de base. Mais certains pays exigent qu'il reste valide pendant une période spécifique au-delà de votre date d'arrivée prévue, et c'est une exigence distincte de l'expiration elle-même.
 
 [De nombreux pays appliquent une règle des six mois exigeant que votre passeport reste valide pendant au moins six mois au-delà de votre date de départ prévue](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/), tandis que certains appliquent trois mois et d'autres un mois. Aucune de ces règles ne permet les voyages avec un passeport expiré, car elles fixent une norme plus stricte où le renouvellement doit se produire encore plus tôt que la date d'expiration propre du passeport.
 

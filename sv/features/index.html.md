@@ -44,7 +44,7 @@ Pro
 
 ### Resekvoter
 
-Definiera anpassade daggränser per land och per familjemedlem. Ställ dina egna mål för att vara medveten om hur många dagar du har tillbringat utomlands - oavsett hur dina reiseregler fungerar.
+Definiera anpassade daggränser per land och per familjemedlem. Ställ dina egna mål för att vara medveten om hur många dagar du har tillbringat utomlands – oavsett hur dina reiseregler fungerar.
 
 Pro
 
@@ -56,7 +56,7 @@ Pro
 
 ### Grindbered
 
-Bifoga flugnummer, hotellbekräftelser och bokningsreferenser till en resa. Dokument och bokningar på ett ställe - tryck en gång under incheckning. Inget att leta efter.
+Bifoga flugnummer, hotellbekräftelser och bokningsreferenser till en resa. Dokument och bokningar på ett ställe – tryck en gång under incheckning. Inget att leta efter.
 
 Dokumenthantering
 
@@ -68,7 +68,7 @@ Fotografera både fotosidan och datasidan. MRZ-skanning läser den maskinläsbar
 
 ### Krypterad lagring
 
-Dokument krypteras på disk med AES-256-GCM. Filerna är oläsbara utan dina dekrypteringsnycklar - även om någon får fysisk åtkomst till din enhet.
+Dokument krypteras på disk med AES-256-GCM. Filerna är oläsbara utan dina dekrypteringsnycklar – även om någon får fysisk åtkomst till din enhet.
 
 ### ID och körkort
 
@@ -118,7 +118,7 @@ Spara presentkort, rabattkoder, evenemangsbiljetter och attraktion-pass. Få på
 
 ### Snooze Påminnelser
 
-Pausa valfri förfallopåminnelse utan att redigera dokumentet. Snooze en dag, en vecka eller en månad - påminnelsen återupptas automatiskt när snooze-perioden slutar.
+Pausa valfri förfallopåminnelse utan att redigera dokumentet. Snooze en dag, en vecka eller en månad – påminnelsen återupptas automatiskt när snooze-perioden slutar.
 
 ### Färgkoda Dokument
 
@@ -286,7 +286,7 @@ Dela flera originalfiler på en gång via enhetens delningsblad (e-post, meddela
 
 #### Säker radering med ångra
 
-Råkade du radera ett dokument? Trycka på Ångra omedelbar för att återställa det. Missade du fönstret? Det flyttas till Nyligen borttaget, där det stannar i 30 dagar innan permanent borttagning - vilket ger dig ett skyddsnät utan att äventyra din integritet.
+Råkade du radera ett dokument? Trycka på Ångra omedelbar för att återställa det. Missade du fönstret? Det flyttas till Nyligen borttaget, där det stannar i 30 dagar innan permanent borttagning – vilket ger dig ett skyddsnät utan att äventyra din integritet.
 
 **Viktigt:** Travel Document Vault är ett personligt organiseringsverktyg för att lagra digitala kopior av dina dokument. **Digitala kopior lagrade i denna app är INTE giltiga för resor.** Den verifierar inte dokumentens äkthet eller ger juridiska råd eller reseråd. Bär alltid originalhandlingar och verifiera alla resekrav med officiella statliga källor.
 

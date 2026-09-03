@@ -11,21 +11,21 @@ Source: https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/
 ## Pontos-chave
 
 - A **regra dos 6 meses de validade do passaporte** significa que o seu passaporte precisa de seis meses de validade quando viaja. A maioria dos países conta isto a partir do dia em que chega, e alguns a partir do dia em que parte, por isso contar a partir da sua data de partida é o hábito mais seguro: satisfaz ambos.
-- Muitos países na Ásia e em África aplicam esta regra - incluindo destinos populares como Tailândia, Indonésia, Vietname e Índia. Europa e a maioria dos países de língua inglesa geralmente não o fazem.
-- As companhias aéreas podem e recusam o embarque se o seu passaporte ficar aquém - mesmo que o país de destino o tivesse deixado entrar.
+- Muitos países na Ásia e em África aplicam esta regra — incluindo destinos populares como Tailândia, Indonésia, Vietname e Índia. Europa e a maioria dos países de língua inglesa geralmente não o fazem.
+- As companhias aéreas podem e recusam o embarque se o seu passaporte ficar aquém — mesmo que o país de destino o tivesse deixado entrar.
 - A regra é aplicada de forma inconsistente: o mesmo país pode dispensá-la para alguns titulares de passaporte e aplicá-la a outros com base em acordos bilaterais.
 - A abordagem mais segura é renovar quando descer abaixo de 12 meses de validade, para que sempre tenha uma margem confortável.
 
-O funcionário de imigração olhou para o passaporte da minha filha, fez uma pausa, e depois levantou o olhar. "Sabe que isto expira em sete meses, certo? Alguns países não o deixam entrar com menos de seis meses de validade." Estávamos bem - por pouco. Mas esse momento ficou comigo, porque tinha verificado o passaporte antes de fazer a reserva e sete meses pareciam-me muito. Tinha-me esquecido completamente da regra dos 6 meses de validade do passaporte.
+O funcionário de imigração olhou para o passaporte da minha filha, fez uma pausa, e depois levantou o olhar. "Sabe que isto expira em sete meses, certo? Alguns países não o deixam entrar com menos de seis meses de validade." Estávamos bem — por pouco. Mas esse momento ficou comigo, porque tinha verificado o passaporte antes de fazer a reserva e sete meses pareciam-me muito. Tinha-me esquecido completamente da regra dos 6 meses de validade do passaporte.
 
-É um dos requisitos mais incompreendidos na viagem internacional, e apanha viajantes experientes, não apenas principiantes. Se está a planear a sua primeira viagem internacional, esta é a regra que ninguém lhe diz quando faz a reserva. O seu passaporte pode ser tecnicamente válido - não expirado - e mesmo assim ser afastado no portão de embarque.
+É um dos requisitos mais incompreendidos na viagem internacional, e apanha viajantes experientes, não apenas principiantes. Se está a planear a sua primeira viagem internacional, esta é a regra que ninguém lhe diz quando faz a reserva. O seu passaporte pode ser tecnicamente válido — não expirado — e mesmo assim ser afastado no portão de embarque.
 
 ## O Que É a Regra dos 6 Meses de Validade do Passaporte?
 
 A regra exige seis meses de validade do passaporte para a sua viagem. A maioria dos países conta isto a partir do dia em que chega, e alguns a partir do dia em que parte, por isso contar a partir da sua data de partida cobre ambos os casos. Na prática, isto significa:
 
 - Se está a visitar a Tailândia e planeia partir a 1 de agosto, o seu passaporte deve manter-se válido até pelo menos 1 de fevereiro do ano seguinte.
-- Um passaporte que expira em 30 de novembro é tecnicamente "válido" para a sua viagem em agosto - mas falha este requisito por dois meses.
+- Um passaporte que expira em 30 de novembro é tecnicamente "válido" para a sua viagem em agosto — mas falha este requisito por dois meses.
 
 A lógica é simples: os países querem garantia de que não se ficará além do seu visto e depois se encontrará a segurando um documento morto sem forma de regressar a casa. Seis meses é uma margem administrativa conveniente.
 
@@ -58,15 +58,15 @@ A tabela seguinte cobre os destinos mais comuns. As políticas mudam, portanto s
 | EUA | Duração da estadia apenas | Cidadãos norte-americanos no estrangeiro sujeitos às regras do país de destino |
 | Japão / Austrália / Nova Zelândia | Duração da estadia apenas | Nenhuma regra de extensão de 6 meses para visitantes |
 
-Isto não é uma lista exaustiva, e os requisitos variam conforme a sua nacionalidade - não apenas o destino. Sempre verifique o aviso de viagem oficial do seu governo antes de fazer uma reserva.
+Isto não é uma lista exaustiva, e os requisitos variam conforme a sua nacionalidade — não apenas o destino. Sempre verifique o aviso de viagem oficial do seu governo antes de fazer uma reserva.
 
-Os requisitos de validade do passaporte por país mudam sem aviso prévio - um acordo bilateral pode silenciosamente alterar as regras para o seu passaporte específico. É exactamente por isso que verificar uma fonte oficial actualizada antes de cada viagem internacional não é paranóia, é apenas boa prática.
+Os requisitos de validade do passaporte por país mudam sem aviso prévio — um acordo bilateral pode silenciosamente alterar as regras para o seu passaporte específico. É exactamente por isso que verificar uma fonte oficial actualizada antes de cada viagem internacional não é paranóia, é apenas boa prática.
 
 Sempre verifique os seus requisitos específicos utilizando o Centro de Viagens IATA, o sistema que as companhias aéreas utilizam para verificar documentos de passageiros em tempo real.
 
-**Travel Document Vault** assinala qualquer passaporte que já não tenha seis meses de validade no final da sua viagem - para cada membro da família, automaticamente. [Descarregue gratuitamente na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** assinala qualquer passaporte que já não tenha seis meses de validade no final da sua viagem — para cada membro da família, automaticamente. [Descarregue gratuitamente na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
-## Como as Companhias Aéreas Aplicam a Regra - Mesmo Quando os Países Não o Fazem
+## Como as Companhias Aéreas Aplicam a Regra — Mesmo Quando os Países Não o Fazem
 
 Aqui está algo que a maioria das pessoas não sabe: as companhias aéreas são responsáveis por garantir que os passageiros cumprem os requisitos de entrada no destino. Se voarem alguém que é negado a entrada, a companhia aérea tem de o enviar de volta para casa.
 
@@ -82,17 +82,17 @@ Se o seu passaporte expira em 30 de novembro e o seu voo de regresso é em 1 de 
 
 Ficar afastado no aeroporto de partida e as suas opções são desoladas: reagende por sua conta e renove o seu passaporte antes de poder fazer uma nova reserva.
 
-Chegar ao destino e ser negado pela imigração? Isso é consideravelmente pior. Provavelmente ficará numa instalação de retenção de imigração até ao próximo voo para casa - novamente, por sua conta.
+Chegar ao destino e ser negado pela imigração? Isso é consideravelmente pior. Provavelmente ficará numa instalação de retenção de imigração até ao próximo voo para casa — novamente, por sua conta.
 
 **O seguro de viagem geralmente não cobre isto.** A validade do passaporte é tratada como uma circunstância evitável. O golpe financeiro e a viagem arruinada são inteiramente seus para absorver.
 
 ## O Que Fazer Se o Seu Passaporte Tiver Menos de 6 Meses de Validade
 
-Trate o seu passaporte como um pneu de carro - não espere até estar furado. Renove quando descer abaixo de 12 meses de validade. Isto dá-lhe uma margem de seis meses em cima da regra, com espaço de sobra.
+Trate o seu passaporte como um pneu de carro — não espere até estar furado. Renove quando descer abaixo de 12 meses de validade. Isto dá-lhe uma margem de seis meses em cima da regra, com espaço de sobra.
 
-Antes de qualquer viagem, conte seis meses para a frente a partir do dia em que sai do destino, que é a data mais tardia e por isso satisfaz qualquer versão da regra. Verifique a expiração do seu passaporte contra essa data - não apenas as suas datas de viagem.
+Antes de qualquer viagem, conte seis meses para a frente a partir do dia em que sai do destino, que é a data mais tardia e por isso satisfaz qualquer versão da regra. Verifique a expiração do seu passaporte contra essa data — não apenas as suas datas de viagem.
 
-Gerir múltiplos passaportes em toda uma família com diferentes datas de expiração é onde fica complicado. [Travel Document Vault](https://traveldocumentvault.com) rastreia isto automaticamente - armazenando a expiração do passaporte de cada membro da família e enviando lembretes a partir de oito meses antes, e novamente à medida que a data se aproxima. Nenhuma aritmética mental antes de cada reserva. Também pode encontrar mais dicas práticas [de documentos de viagem](https://traveldocumentvault.com/pt/blog/) no blogue.
+Gerir múltiplos passaportes em toda uma família com diferentes datas de expiração é onde fica complicado. [Travel Document Vault](https://traveldocumentvault.com) rastreia isto automaticamente — armazenando a expiração do passaporte de cada membro da família e enviando lembretes a partir de oito meses antes, e novamente à medida que a data se aproxima. Nenhuma aritmética mental antes de cada reserva. Também pode encontrar mais dicas práticas [de documentos de viagem](https://traveldocumentvault.com/pt/blog/) no blogue.
 
 ## Uma Nota Sobre Verificar Requisitos Antes de Viajar
 
@@ -100,11 +100,11 @@ Os requisitos mudam constantemente. Os países actualizam as políticas de entra
 
 Fontes fiáveis para verificar antes de qualquer viagem internacional:
 
-- **Centro de Viagens IATA** (timaticweb2.com) - a mesma base de dados que as companhias aéreas usam
-- **Aviso de viagem oficial do seu governo** - Reino Unido: GOV.UK/foreign-travel-advice, EUA: travel.state.gov, Austrália: smartraveller.gov.au
+- **Centro de Viagens IATA** (timaticweb2.com) — a mesma base de dados que as companhias aéreas usam
+- **Aviso de viagem oficial do seu governo** — Reino Unido: GOV.UK/foreign-travel-advice, EUA: travel.state.gov, Austrália: smartraveller.gov.au
 - **Página web oficial da autoridade de imigração ou visto do país de destino**
 
-Estas fontes dizem-lhe o requisito oficial e se se aplica aos titulares do seu passaporte específico. Não confie em fóruns de viagem ou numa publicação de blogue de ano passado - vá à fonte.
+Estas fontes dizem-lhe o requisito oficial e se se aplica aos titulares do seu passaporte específico. Não confie em fóruns de viagem ou numa publicação de blogue de ano passado — vá à fonte.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
@@ -116,7 +116,7 @@ Depende do destino. Os países que aplicam a regra dos 6 meses, incluindo Tailâ
 
 ### O que exactamente é a regra dos 6 meses de validade do passaporte e por que existe?
 
-A regra dos 6 meses de validade do passaporte exige seis meses de validade do passaporte para a sua viagem. A maioria dos países mede isto a partir do dia em que chega, e alguns a partir do dia em que parte. Se expira dentro dessa janela, pode ser negado o embarque ou entrada - mesmo que o passaporte em si ainda não tenha tecnicamente expirado.
+A regra dos 6 meses de validade do passaporte exige seis meses de validade do passaporte para a sua viagem. A maioria dos países mede isto a partir do dia em que chega, e alguns a partir do dia em que parte. Se expira dentro dessa janela, pode ser negado o embarque ou entrada — mesmo que o passaporte em si ainda não tenha tecnicamente expirado.
 
 ### Quais países aplicam a regra dos 6 meses de validade do passaporte?
 
@@ -124,11 +124,11 @@ Os países que comummente exigem 6 meses de validade do passaporte incluem Tail�
 
 ### Os EUA aplicam a regra dos 6 meses de validade do passaporte?
 
-Os EUA não exigem 6 meses de validade de passaporte para cidadãos norte-americanos que entram no país. Mas os cidadãos norte-americanos que viajam para o estrangeiro ainda estão sujeitos a todas as regras que o país de destino estabeleça - e muitos destinos populares aplicam o requisito dos 6 meses.
+Os EUA não exigem 6 meses de validade de passaporte para cidadãos norte-americanos que entram no país. Mas os cidadãos norte-americanos que viajam para o estrangeiro ainda estão sujeitos a todas as regras que o país de destino estabeleça — e muitos destinos populares aplicam o requisito dos 6 meses.
 
 ### Posso ser impedido de embarcar pela regra dos 6 meses?
 
-Sim. As companhias aéreas verificam a validade do passaporte utilizando uma base de dados à escala industrial de requisitos de entrada. Se o seu passaporte não cumprir os requisitos do destino no papel, a companhia aérea pode recusar o seu embarque - mesmo que o país em si o tivesse deixado passar na prática.
+Sim. As companhias aéreas verificam a validade do passaporte utilizando uma base de dados à escala industrial de requisitos de entrada. Se o seu passaporte não cumprir os requisitos do destino no papel, a companhia aérea pode recusar o seu embarque — mesmo que o país em si o tivesse deixado passar na prática.
 
 ### Como verifíco se o meu passaporte cumpre a regra dos 6 meses?
 
@@ -136,11 +136,11 @@ Conte seis meses para a frente a partir do dia em que sai do destino, depois ver
 
 ### A regra dos 6 meses aplica-se aos cidadãos da UE que viajam dentro da Europa?
 
-Geralmente, não. Os países da UE e da zona Schengen tipicamente apenas exigem que o seu passaporte seja válido durante o período da sua estadia - não aplicam a regra de extensão de 6 meses para viagens intraschengen. No entanto, alguns países da UE podem exigir que o seu passaporte seja válido durante pelo menos três meses para além da sua partida pretendida. Sempre verifique os requisitos de entrada específicos do seu país de destino, pois as regras podem variar mesmo dentro da área Schengen.
+Geralmente, não. Os países da UE e da zona Schengen tipicamente apenas exigem que o seu passaporte seja válido durante o período da sua estadia — não aplicam a regra de extensão de 6 meses para viagens intraschengen. No entanto, alguns países da UE podem exigir que o seu passaporte seja válido durante pelo menos três meses para além da sua partida pretendida. Sempre verifique os requisitos de entrada específicos do seu país de destino, pois as regras podem variar mesmo dentro da área Schengen.
 
 ### E se o passaporte de um membro da família cumpre a regra mas outro não?
 
-O passaporte de cada membro da família é avaliado individualmente - não existe regra em grupo. Isto significa que um passaporte poderia cumprir o requisito dos 6 meses enquanto outro fica aquém, podendo impedir essa pessoa de viajar. Verifique cada passaporte do grupo contra os requisitos de validade do destino antes de fazer a reserva. Aplicações como Travel Document Vault deixam-o rastrear a expiração do passaporte de cada membro da família separadamente para que apanhe estas lacunas antes do check-in.
+O passaporte de cada membro da família é avaliado individualmente — não existe regra em grupo. Isto significa que um passaporte poderia cumprir o requisito dos 6 meses enquanto outro fica aquém, podendo impedir essa pessoa de viajar. Verifique cada passaporte do grupo contra os requisitos de validade do destino antes de fazer a reserva. Aplicações como Travel Document Vault deixam-o rastrear a expiração do passaporte de cada membro da família separadamente para que apanhe estas lacunas antes do check-in.
 
 ## Artigos Relacionados
 

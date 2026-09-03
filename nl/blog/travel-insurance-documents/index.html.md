@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/nl/blog/travel-insurance-documents/
 ## Belangrijkste punten
 
 - **Bewaar je volledige polisdocument, polisnummer en de 24-uurse noodlijn** (niet het verkoopnummer).
-- Bewaar kopieën offline en toegankelijk - alleen e-mail helpt niet als je gestrand bent of in een ziekenhuis.
+- Bewaar kopieën offline en toegankelijk – alleen e-mail helpt niet als je gestrand bent of in een ziekenhuis.
 - **Voortoestemming voor medische behandeling is vereist door de meeste polissen**; dit overslaan kan je vordering verminderen of nietig verklaren.
 - Vorderingen worden het vaakst afgewezen vanwege ontbrekende documentatie: politierapport voor diefstal, originele bonnen, ondertekende claimformulieren.
 - Lees de belangrijkste secties van je polis snel door je op dekkingslimieten, uitsluitingen en voorwaarden te richten.
@@ -24,7 +24,7 @@ Het is 2 uur 's ochtends in Bangkok en je hebt voedselvergiftiging en koorts. De
 
 Een paar ontbrekende documenten zijn hier niet alleen onhandig. Ze bepalen of behandeling meteen begint, of je zelf betaalt en later claimt, of je vordering helemaal wordt afgewezen.
 
-Reisverzeking werkt alleen als je er toegang toe hebt als je het nodig hebt. De meeste mensen bewaren het in e-mail en kunnen het niet vinden als crisis toeslaat - doorgaans onder stress, tijdsdruk, of een medische noodsituatie.
+Reisverzeking werkt alleen als je er toegang toe hebt als je het nodig hebt. De meeste mensen bewaren het in e-mail en kunnen het niet vinden als crisis toeslaat – doorgaans onder stress, tijdsdruk, of een medische noodsituatie.
 
 ## De vijf documenten die je moet bewaren voordat je vliegt
 
@@ -58,7 +58,7 @@ Download ze voor back-up naar een met een wachtwoord beveiligde cloud-drive (iCl
 
 ### Fysieke kopie bij je reisdocumenten
 
-Bewaar een fysieke kopie - of een foto van goede kwaliteit van de cruciale pagina's - naast je paspoort, visumstukken en ander reisdocumenten. Mocht je telefoon leeg raken, dit is je nooduitgang.
+Bewaar een fysieke kopie – of een foto van goede kwaliteit van de cruciale pagina's – naast je paspoort, visumstukken en ander reisdocumenten. Mocht je telefoon leeg raken, dit is je nooduitgang.
 
 Een handgeschreven kaartje doet net zo goed dienst als een afdruk: polisnummer, naam van de verzekeraar, noodlijn. Stop het in je paspoorthoesje en het overleeft een lege batterij, een verloren telefoon en een hotelkluis die je niet open krijgt.
 
@@ -78,7 +78,7 @@ Zelfs als je je documenten bereikbaar hebt, kun je je vordering nog verliezen al
 
 ### Medische vorderingen: je hebt geen voortoestemming gekregen
 
-De meeste reisverzekeringspolissen vereisen voortoestemming voordat behandeling plaatsvindt. Dit betekent dat je je verzekeraar belt en goedkeuring krijgt voordat je naar een ziekenhuis of kliniek gaat. Vereisten verschillen per verzekeraar en polistype - controleer je specifieke polis op de afdeling medische behandeling. Als je deze stap overslaat en jezelf betaalt, krijg je je geld terug met het antwoord "behandeling was niet voorgetekend." Veel verzekeraars vergoeden zonder voortoestemming niet, zelfs als de behandeling noodzakelijk en gedekt was.
+De meeste reisverzekeringspolissen vereisen voortoestemming voordat behandeling plaatsvindt. Dit betekent dat je je verzekeraar belt en goedkeuring krijgt voordat je naar een ziekenhuis of kliniek gaat. Vereisten verschillen per verzekeraar en polistype – controleer je specifieke polis op de afdeling medische behandeling. Als je deze stap overslaat en jezelf betaalt, krijg je je geld terug met het antwoord "behandeling was niet voorgetekend." Veel verzekeraars vergoeden zonder voortoestemming niet, zelfs als de behandeling noodzakelijk en gedekt was.
 
 Stel dat je wordt opgenomen met een blindedarmontsteking in Mumbai. Het ziekenhuis vereist voorbetaling of een garantie van je verzekeraar, en je hebt een venster van twee uur voor de operatie. Zonder het voortoestemmingsnummer van je verzekeraar, eist het ziekenhuis contant. Dat laat je met twee slechte opties: nu betalen en een afgewezen vordering later riskeren, of operatie uitstellen terwijl je je verzekeraar achterna loopt. Een telefoontje voorkomt alles. Met een bevestigingsnummer in hand, stuurt het ziekenhuis de rekening rechtstreeks naar je verzekeraar.
 

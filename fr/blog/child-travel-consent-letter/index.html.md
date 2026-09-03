@@ -18,11 +18,11 @@ Source: https://traveldocumentvault.com/fr/blog/child-travel-consent-letter/
 
 Une lettre de consentement remplit une seule fonction au comptoir d'enregistrement : elle montre que l'adulte qui voyage avec un enfant a l'accord du parent absent. La plupart sont acceptées sans commentaire. Celles qui provoquent un retard achoppent en général sur un détail plutôt que sur le fond, et le plus courant reste un numéro de passeport modifié lors du dernier renouvellement de l'enfant.
 
-Ce scénario - et des milliers de situations similaires - se produit parce que les lettres de consentement pour voyage d'enfant sont l'un des documents de voyage les plus mal compris. Les règles varient considérablement selon le pays, et une lettre qui fonctionne bien sur un voyage peut échouer à la frontière sur le suivant. Savoir exactement quand une lettre est requise, ce qu'elle doit contenir et comment la maintenir valide évite les raisons les plus courantes pour lesquelles les familles sont arrêtées à la frontière.
+Ce scénario — et des milliers de situations similaires — se produit parce que les lettres de consentement pour voyage d'enfant sont l'un des documents de voyage les plus mal compris. Les règles varient considérablement selon le pays, et une lettre qui fonctionne bien sur un voyage peut échouer à la frontière sur le suivant. Savoir exactement quand une lettre est requise, ce qu'elle doit contenir et comment la maintenir valide évite les raisons les plus courantes pour lesquelles les familles sont arrêtées à la frontière.
 
 ## Qui a réellement besoin d'une lettre de consentement pour voyage d'enfant ?
 
-Cela dépend entièrement de votre destination - il n'y a pas de norme mondiale, ce qui explique pourquoi tant de familles sont prises de court.
+Cela dépend entièrement de votre destination — il n'y a pas de norme mondiale, ce qui explique pourquoi tant de familles sont prises de court.
 
 Une lettre est généralement requise dans ces situations :
 
@@ -37,7 +37,7 @@ Vérifiez toujours les exigences directement auprès de l'autorité d'immigratio
 
 ## Ce que la lettre doit inclure
 
-Une lettre de consentement pour voyage d'enfant n'est pas une note décontractée - c'est un document formel, souvent notarié, qui doit contenir des informations spécifiques. Chaque lettre doit inclure :
+Une lettre de consentement pour voyage d'enfant n'est pas une note décontractée — c'est un document formel, souvent notarié, qui doit contenir des informations spécifiques. Chaque lettre doit inclure :
 
 - **Nom complet et date de naissance de l'enfant**, exactement comme indiqué sur le passeport.
 - **Numéro de passeport de l'enfant.**
@@ -49,7 +49,7 @@ Une lettre de consentement pour voyage d'enfant n'est pas une note décontracté
 - **Signature(s) du parent absent**, avec date.
 - **Notarisation ou certification**, si requise par la destination.
 
-Rédigez la lettre dans un langage formel - évitez les phrases vagues comme « mon enfant peut voyager quand il veut ». Les agents frontaliers doivent voir que le parent absent accepte explicitement ce voyage spécifique, à ces dates précises, vers ces endroits spécifiques. Par exemple, vous pourriez écrire : « Moi, [Nom complet], par la présente j'accorde la permission à mon enfant [Nom complet de l'enfant], numéro de passeport [numéro], de voyager vers [destination(s)] en partant le [date] et en retournant le [date], accompagné par [Nom et relation de l'adulte voyageant]. »
+Rédigez la lettre dans un langage formel — évitez les phrases vagues comme « mon enfant peut voyager quand il veut ». Les agents frontaliers doivent voir que le parent absent accepte explicitement ce voyage spécifique, à ces dates précises, vers ces endroits spécifiques. Par exemple, vous pourriez écrire : « Moi, [Nom complet], par la présente j'accorde la permission à mon enfant [Nom complet de l'enfant], numéro de passeport [numéro], de voyager vers [destination(s)] en partant le [date] et en retournant le [date], accompagné par [Nom et relation de l'adulte voyageant]. »
 
 Certains agents frontaliers appelleront le numéro de contact fourni pour vérifier le consentement. Assurez-vous que ce numéro est correct, qu'il est répondu par la personne nommée et qu'elle peut confirmer la permission lors de l'appel. Si vous ne pouvez pas garantir que quelqu'un répondra pendant les heures frontalières, répertoriez un contact alternatif et notez-le dans la lettre.
 

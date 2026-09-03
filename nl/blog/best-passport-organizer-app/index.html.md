@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/nl/blog/best-passport-organizer-app/
 
 ## Belangrijkste punten
 
-- De beste paspoortorganizer-app bewaart gegevens **op je toestel** - niet op een server - zodat je paspoortscans bij jou blijven, niet bij een bedrijf.
+- De beste paspoortorganizer-app bewaart gegevens **op je toestel** – niet op een server – zodat je paspoortscans bij jou blijven, niet bij een bedrijf.
 - Vervalherinneringen voor meerdere reizigers zijn de waardevolste functie voor gezinnen; let op instelbare herinneringen per persoon.
 - Apps die een account of cloud-upload vereisen, brengen onnodig risico met zich mee voor gevoelige identiteitsdocumenten.
 - Offline toegang is het belangrijkst juist wanneer je de app nodig hebt: aan de grens, onderweg, of nadat je je simkaart bent kwijtgeraakt.
@@ -24,24 +24,24 @@ Deze gids legt uit waar je op moet letten, wat je moet vermijden, en welke funct
 
 In de kern bewaart een paspoortorganizer-app gescande kopieën van je reisdocumenten, houdt de vervaldatums bij en stuurt herinneringen voor verlenging. De betere apps breiden dit uit naar visa, identiteitskaarten, reisverzekeringen, vaccinatiebewijzen en elk ander document waarmee je reist.
 
-Het belangrijkste onderscheid - waar de meeste reviews aan voorbijgaan - is **waar de gegevens zich bevinden**. Je komt twee hoofdbenaderingen tegen:
+Het belangrijkste onderscheid – waar de meeste reviews aan voorbijgaan – is **waar de gegevens zich bevinden**. Je komt twee hoofdbenaderingen tegen:
 
 - **Opslag op je toestel:** je paspoortscans en gegevens worden versleuteld op je telefoon bewaard. Het appbedrijf kan er niet bij. Er is geen account dat gehackt kan worden. Raak je je telefoon kwijt, dan herstelt een nieuwe installatie je gegevens niet automatisch (al kun je wel back-uppen via iCloud of lokaal).
 - **Cloudopslag:** je scans worden geüpload naar een server. Je kunt ze vanaf meerdere toestellen benaderen en makkelijk herstellen. Maar je vertrouwt je paspoortgegevens toe aan de serverbeveiliging van een bedrijf en hun reactieplan bij een datalek.
 
-Geen van beide benaderingen is per definitie "fout", maar voor identiteitsdocumenten die zo gevoelig zijn als paspoorten is het model met opslag op het toestel merkbaar veiliger. Bij een datalek bij een app die alles op het toestel bewaart, lekt er niets van hun servers - er staat daar simpelweg niets om te lekken.
+Geen van beide benaderingen is per definitie "fout", maar voor identiteitsdocumenten die zo gevoelig zijn als paspoorten is het model met opslag op het toestel merkbaar veiliger. Bij een datalek bij een app die alles op het toestel bewaart, lekt er niets van hun servers – er staat daar simpelweg niets om te lekken.
 
 ## De functies die er echt toe doen
 
 ### Vervalherinneringen met instelbare voorlooptijd
 
-Dit is verreweg de waardevolste functie. Een herinnering op 6 maanden is het minimum - veel landen eisen dat je paspoort nog minstens 6 maanden geldig is na je reisdata, zoals we uitleggen in ons artikel over de [6 maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/). Voor gezinnen met kinderen, van wie paspoorten na 5 jaar verlopen in plaats van 10, geeft een eerdere herinnering - bijvoorbeeld 9 maanden van tevoren - meer comfortabele planningstijd.
+Dit is verreweg de waardevolste functie. Een herinnering op 6 maanden is het minimum – veel landen eisen dat je paspoort nog minstens 6 maanden geldig is na je reisdata, zoals we uitleggen in ons artikel over de [6 maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/). Voor gezinnen met kinderen, van wie paspoorten na 5 jaar verlopen in plaats van 10, geeft een eerdere herinnering – bijvoorbeeld 9 maanden van tevoren – meer comfortabele planningstijd.
 
 ### De paspoorten van meerdere gezinsleden veilig bewaren in één app
 
 Een gezin van vier zit niet te wachten op vier losse apps. De beste paspoortorganizer-apps behandelen elke persoon als een apart profiel, met eigen documenten, vervaldatums en herinneringen. Dat klinkt vanzelfsprekend, maar verrassend veel apps zijn gebouwd rond de documenten van één enkele persoon.
 
-Dat klopt alleen als de app alles op het toestel bewaart en achter een vergrendeling houdt. Elke reiziger heeft een eigen profiel nodig in plaats van één gedeelde stapel scans, en niets zou in een cloudmap moeten staan die iemand anders kan openen. Een vergrendeling voor de hele kluis - of dat nu Face ID, Touch ID of een PIN is - zorgt ervoor dat één telefoon de documenten van het hele gezin kan bevatten zonder dat er ook maar iets van naar buiten gaat.
+Dat klopt alleen als de app alles op het toestel bewaart en achter een vergrendeling houdt. Elke reiziger heeft een eigen profiel nodig in plaats van één gedeelde stapel scans, en niets zou in een cloudmap moeten staan die iemand anders kan openen. Een vergrendeling voor de hele kluis – of dat nu Face ID, Touch ID of een PIN is – zorgt ervoor dat één telefoon de documenten van het hele gezin kan bevatten zonder dat er ook maar iets van naar buiten gaat.
 
 Als je eigenlijk op zoek bent naar een systeem voor het hele huishouden in plaats van een lijstje met apps, gaan we daar uitgebreider op in: [hoe je de paspoorten van meerdere gezinsleden veilig bewaart](https://traveldocumentvault.com/nl/blog/family-passport-management/).
 
@@ -51,11 +51,11 @@ Je hebt je paspoortgegevens precies nodig op de momenten dat internettoegang onb
 
 ### Ondersteunde documenttypen
 
-Paspoorten zijn het voor de hand liggende startpunt, maar een goede organizer verwerkt ook visa (die onafhankelijk van je paspoort verlopen), nationale identiteitskaarten, reisverzekeringen, vaccinatiebewijzen, rijbewijzen en - voor gezinnen - toestemmingsverklaringen voor reizende kinderen. Hoe meer documenttypen ondersteund worden, hoe minder apps je nodig hebt.
+Paspoorten zijn het voor de hand liggende startpunt, maar een goede organizer verwerkt ook visa (die onafhankelijk van je paspoort verlopen), nationale identiteitskaarten, reisverzekeringen, vaccinatiebewijzen, rijbewijzen en – voor gezinnen – toestemmingsverklaringen voor reizende kinderen. Hoe meer documenttypen ondersteund worden, hoe minder apps je nodig hebt.
 
 ### Privacymodel
 
-Vraag jezelf voor het downloaden af of de app een account vereist, scans naar een server uploadt, of een duidelijk privacybeleid heeft dat aangeeft welke gegevens er worden verzameld. Apps die gratis zijn en op advertenties draaien, zijn over het algemeen niet geschikt om identiteitsdocumenten in te bewaren - de gegevens zijn dan het product.
+Vraag jezelf voor het downloaden af of de app een account vereist, scans naar een server uploadt, of een duidelijk privacybeleid heeft dat aangeeft welke gegevens er worden verzameld. Apps die gratis zijn en op advertenties draaien, zijn over het algemeen niet geschikt om identiteitsdocumenten in te bewaren – de gegevens zijn dan het product.
 
 ## Wat je moet vermijden
 
@@ -70,17 +70,17 @@ Vraag jezelf voor het downloaden af of de app een account vereist, scans naar ee
 
 Wat dit in de praktijk betekent
 
-Je staat bij een grensovergang, je telefoon is offline, en de immigratiebeambte vraagt om je visumgegevens te zien. Een app die internet vereist, faalt volledig - je kunt niet bij je documenten. Een app zonder account die alles op het toestel bewaart, werkt gewoon perfect. Dit is precies het moment waarop de app moet functioneren.
+Je staat bij een grensovergang, je telefoon is offline, en de immigratiebeambte vraagt om je visumgegevens te zien. Een app die internet vereist, faalt volledig – je kunt niet bij je documenten. Een app zonder account die alles op het toestel bewaart, werkt gewoon perfect. Dit is precies het moment waarop de app moet functioneren.
 
 ## Eenmalige aankoop versus abonnement
 
-Er is een praktisch argument voor apps met een eenmalige aankoop boven abonnementen als het om documentopslag gaat. Vergeet je een abonnement te verlengen - of besluit je simpelweg op te zeggen - dan verlies je de toegang tot je opgeslagen documenten. Dat is een riskante regeling voor iets wat je misschien pas over jaren weer nodig hebt.
+Er is een praktisch argument voor apps met een eenmalige aankoop boven abonnementen als het om documentopslag gaat. Vergeet je een abonnement te verlengen – of besluit je simpelweg op te zeggen – dan verlies je de toegang tot je opgeslagen documenten. Dat is een riskante regeling voor iets wat je misschien pas over jaren weer nodig hebt.
 
 Een app met een eenmalige aankoop blijft daarentegen voor onbepaalde tijd volledig functioneren. Je betaalt één keer, en de app blijft werken ongeacht of de ontwikkelaar er nog actief geld aan verdient.
 
 ## Hoe Travel Document Vault dit aanpakt
 
-**Travel Document Vault** belichaamt precies de privacyvriendelijke, offline-first aanpak die hierboven beschreven staat. Gegevens blijven op je toestel, versleuteld met AES-256 - geen account nodig. Optioneel maak je een versleutelde back-up naar je eigen iCloud of Google Drive (Pro-functie). De app ondersteunt meerdere reizigers, houdt de vervaldatum van paspoort en visum bij, en werkt volledig offline. Beschikbaar als eenmalige aankoop, zonder abonnement, in de [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) en op [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
+**Travel Document Vault** belichaamt precies de privacyvriendelijke, offline-first aanpak die hierboven beschreven staat. Gegevens blijven op je toestel, versleuteld met AES-256 – geen account nodig. Optioneel maak je een versleutelde back-up naar je eigen iCloud of Google Drive (Pro-functie). De app ondersteunt meerdere reizigers, houdt de vervaldatum van paspoort en visum bij, en werkt volledig offline. Beschikbaar als eenmalige aankoop, zonder abonnement, in de [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) en op [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
 
 ## Een praktische checklist voordat je downloadt
 
@@ -104,7 +104,7 @@ Zijn negen van deze antwoorden "ja", dan heb je een werkelijk betrouwbare app te
 
 ### Kan één app veilig de paspoorten van meerdere gezinsleden bewaren?
 
-Ja, zolang iedereen een eigen profiel heeft en alles op het toestel blijft in plaats van op een gedeelde server. Het helpt ook als elke reiziger zijn eigen vervalherinneringen krijgt, met een vergrendeling - Face ID, Touch ID of een PIN - die tussen de documenten en iedereen staat die de telefoon oppakt. Dat is wat het mogelijk maakt dat één telefoon de paspoorten van het hele gezin bevat, zonder dat er ook maar één ergens wordt geüpload.
+Ja, zolang iedereen een eigen profiel heeft en alles op het toestel blijft in plaats van op een gedeelde server. Het helpt ook als elke reiziger zijn eigen vervalherinneringen krijgt, met een vergrendeling – Face ID, Touch ID of een PIN – die tussen de documenten en iedereen staat die de telefoon oppakt. Dat is wat het mogelijk maakt dat één telefoon de paspoorten van het hele gezin bevat, zonder dat er ook maar één ergens wordt geüpload.
 
 ### Wat is een paspoortorganizer-app?
 
@@ -116,7 +116,7 @@ Dat hangt af van de app. Apps die gegevens versleuteld op het toestel bewaren me
 
 ### Kan een paspoortorganizer-app werken zonder internet?
 
-De beste paspoortorganizer-apps zijn ontworpen om volledig offline te werken. Dit is belangrijk omdat je je paspoortgegevens precies nodig kunt hebben op het moment dat er geen internettoegang is - bij een grensovergang, op een afgelegen plek, of nadat je de simkaart van je telefoon bent kwijtgeraakt. Controleer altijd of de app die je kiest geen netwerkverbinding vereist om je documenten te tonen.
+De beste paspoortorganizer-apps zijn ontworpen om volledig offline te werken. Dit is belangrijk omdat je je paspoortgegevens precies nodig kunt hebben op het moment dat er geen internettoegang is – bij een grensovergang, op een afgelegen plek, of nadat je de simkaart van je telefoon bent kwijtgeraakt. Controleer altijd of de app die je kiest geen netwerkverbinding vereist om je documenten te tonen.
 
 ### Hoe ver van tevoren moet een paspoortapp me herinneren om te vernieuwen?
 

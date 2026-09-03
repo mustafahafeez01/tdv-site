@@ -18,11 +18,11 @@ Source: https://traveldocumentvault.com/da/blog/child-travel-consent-letter/
 
 Et samtykkebrev har én opgave ved check-in-skranken: det viser, at den voksne, der rejser med barnet, har den fraværende forælders accept. De fleste bliver accepteret uden kommentarer. De, der giver forsinkelser, falder som regel på en detalje frem for på indholdet – oftest et pasnummer, der blev ændret ved barnets seneste fornyelse.
 
-Det scenarie - og tusindvis ligesom det - sker, fordi samtykkebreve til børns rejser er et af de mest misforståede rejsedokumenter. Reglerne varierer meget fra land til land, og et brev, der fungerer fint på én rejse, kan mislykkes ved grænsen på den næste. At vide præcis, hvornår et brev kræves, hvad det skal indeholde, og hvordan du holder det gyldigt, forhindrer de mest almindelige grunde til, at familier bliver stoppet ved grænsen.
+Det scenarie – og tusindvis ligesom det – sker, fordi samtykkebreve til børns rejser er et af de mest misforståede rejsedokumenter. Reglerne varierer meget fra land til land, og et brev, der fungerer fint på én rejse, kan mislykkes ved grænsen på den næste. At vide præcis, hvornår et brev kræves, hvad det skal indeholde, og hvordan du holder det gyldigt, forhindrer de mest almindelige grunde til, at familier bliver stoppet ved grænsen.
 
 ## Hvem har faktisk brug for et samtykkebrev til børns rejser?
 
-Det afhænger fuldstændig af din destination - der findes ingen global standard, hvilket er grunden til, at så mange familier bliver taget på sengen.
+Det afhænger fuldstændig af din destination – der findes ingen global standard, hvilket er grunden til, at så mange familier bliver taget på sengen.
 
 Et brev kræves typisk i disse situationer:
 
@@ -37,7 +37,7 @@ Bekræft altid kravene direkte med indvandringsmyndigheden for din specifikke de
 
 ## Hvad brevet skal indeholde
 
-Et samtykkebrev til børns rejser er ikke en uformel note - det er et formelt dokument, ofte notarbekræftet, der skal indeholde specifikke oplysninger. Hvert brev bør indeholde:
+Et samtykkebrev til børns rejser er ikke en uformel note – det er et formelt dokument, ofte notarbekræftet, der skal indeholde specifikke oplysninger. Hvert brev bør indeholde:
 
 - **Barnets fulde navn og fødselsdato**, præcis som skrevet i passet.
 - **Barnets pasnummer.**
@@ -49,7 +49,7 @@ Et samtykkebrev til børns rejser er ikke en uformel note - det er et formelt do
 - **Underskrift(er) fra den/de fraværende forælder/forældre**, med dato.
 - **Notarbekræftelse eller certificering**, hvis destinationen kræver det.
 
-Skriv brevet i formelt sprog - undgå vage vendinger som "mit barn kan rejse, når som helst". Grænsemyndighederne skal kunne se, at den fraværende forælder udtrykkeligt giver samtykke til netop denne rejse, på netop disse datoer, til netop disse steder. Du kan for eksempel skrive: "Jeg, [fulde navn], giver hermed tilladelse til, at mit barn [barnets fulde navn], pasnummer [nummer], rejser til [destination(er)] med afrejse den [dato] og hjemkomst den [dato], ledsaget af [den rejsende voksnes navn og relation]."
+Skriv brevet i formelt sprog – undgå vage vendinger som "mit barn kan rejse, når som helst". Grænsemyndighederne skal kunne se, at den fraværende forælder udtrykkeligt giver samtykke til netop denne rejse, på netop disse datoer, til netop disse steder. Du kan for eksempel skrive: "Jeg, [fulde navn], giver hermed tilladelse til, at mit barn [barnets fulde navn], pasnummer [nummer], rejser til [destination(er)] med afrejse den [dato] og hjemkomst den [dato], ledsaget af [den rejsende voksnes navn og relation]."
 
 Nogle grænsevagter ringer til det oplyste kontaktnummer for at verificere samtykket. Sørg for, at nummeret er korrekt, besvares af den nævnte person, og at personen kan bekræfte tilladelsen under opkaldet. Kan du ikke garantere, at nogen svarer i grænsekontrollens åbningstid, så angiv et alternativt kontaktnummer, og notér det i brevet.
 

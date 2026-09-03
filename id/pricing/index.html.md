@@ -1,6 +1,6 @@
 # Harga Travel Document Vault - Sekali Bayar, Tanpa Langganan
 
-> Travel Document Vault berharga a one-time purchasesekali saja. Tanpa langganan, tanpa biaya tersembunyi. Satu pembelian untuk seluruh keluarga. Versi gratis tersedia.
+> Travel Document Vault dibayar sekali saja. Tanpa langganan, tanpa biaya tersembunyi. Satu pembelian untuk seluruh keluarga. Versi gratis tersedia.
 
 Source: https://traveldocumentvault.com/id/pricing/
 
@@ -92,7 +92,7 @@ Semua yang ada di Gratis, plus:
 
 Pulihkan pembelian kapan saja dengan akun App Store atau Google Play tempat Anda membeli.
 
-Fitur kesiapan perjalanan, visa, dan penghitung hari pajak hanya bersifat asistif - selalu verifikasi dengan sumber resmi.
+Fitur kesiapan perjalanan, visa, dan penghitung hari pajak hanya bersifat asistif, selalu verifikasi dengan sumber resmi.
 
 ## Mengapa Satu Kali dan Bukan Langganan?
 
@@ -114,13 +114,13 @@ Satu pembelian di akun Anda. Satu keluarga. Bekerja di semua perangkat Anda.
 
 ## Satu Pembelian, Seluruh Keluarga
 
-Saat Anda membeli Pro, Anda tidak membayar per orang atau per perangkat. Anda membuat satu brankas dengan profil tak terbatas - satu untuk Anda, satu untuk pasangan, satu untuk setiap anak. Dokumen semua orang. Satu biaya a one-time purchase.
+Saat Anda membeli Pro, Anda tidak membayar per orang atau per perangkat. Anda membuat satu brankas dengan profil tak terbatas — satu untuk Anda, satu untuk pasangan, satu untuk setiap anak. Dokumen semua orang. Satu kali biaya saja.
 
 Tidak ada langganan. Tidak ada harga berbasis kursi. Tidak ada biaya per anggota keluarga.
 
 ## Pertanyaan Harga
 
-Berapa harga Travel Document Vault? Travel Document Vault menawarkan tingkat gratis selamanya - 1 profil dengan hingga 5 dokumen, termasuk semua fitur inti seperti pengingat kedaluwarsa, berbagi dokumen, dan enkripsi. Pro adalah a one-time purchasesatu kali dan membuka profil tak terbatas, dokumen tak terbatas, cadangan cloud terenkripsi, perencana perjalanan, dan pelacak hari-hari di luar negeri. Apakah Travel Document Vault merupakan langganan? Tidak. Travel Document Vault adalah pembelian satu kali. Anda membayar a one-time purchasesekali untuk Pro dan memilikinya selamanya. Tidak ada biaya berulang, tidak perlu membatalkan langganan, dan tidak ada uji coba yang diam-diam mulai menagih Anda. Tingkat gratis juga gratis selamanya. Apa yang saya dapatkan dalam gratis versus Pro? Gratis: 1 profil, hingga 5 dokumen, pengingat kedaluwarsa, berbagi dokumen, kunci PIN dan biometrik, enkripsi di perangkat, akses offline. Pro menambahkan: profil tak terbatas untuk keluarga Anda, dokumen tak terbatas, perencana perjalanan dengan lampu lalu lintas kesiapan keluarga, cadangan cloud terenkripsi ke iCloud atau Google Drive Anda sendiri, pelacak hari-hari di luar negeri untuk batas visa dan pajak, dan waktu pengingat khusus. Apakah saya membayar per anggota keluarga atau per perangkat? Tidak. Pro adalah pembelian satu kali untuk akun Anda. Setelah dibeli, Anda dapat menambahkan anggota keluarga tak terbatas (profil) dan menggunakan aplikasi di beberapa perangkat di bawah akun App Store atau Google Play yang sama. Satu pembelian. Seluruh keluarga. Apa artinya 'semua pembaruan v1.x disertakan'? Pembelian a one-time purchaseAnda mencakup setiap pembaruan dalam versi utama saat ini (v1.x), termasuk perbaikan bug, patch keamanan, dan fitur baru. Ini berlaku selama Anda menggunakan aplikasi. Jika kami pernah merilis v2.0 dengan perubahan arsitektur substansial, pengguna awal mendapatkan harga upgrade preferensial dan opsi untuk tetap di Pro v1.x selamanya. Lihat [kebijakan versi lengkap kami](https://traveldocumentvault.com/pricing-policy/#version-policy) untuk rinciannya.
+Berapa harga Travel Document Vault? Travel Document Vault menawarkan tingkat gratis selamanya — 1 profil dengan hingga 5 dokumen, termasuk semua fitur inti seperti pengingat kedaluwarsa, berbagi dokumen, dan enkripsi. Pro adalah pembelian satu kali dan membuka profil tak terbatas, dokumen tak terbatas, cadangan cloud terenkripsi, perencana perjalanan, dan pelacak hari-hari di luar negeri. Apakah Travel Document Vault merupakan langganan? Tidak. Travel Document Vault adalah pembelian satu kali. Anda membayar sekali untuk Pro dan memilikinya selamanya. Tidak ada biaya berulang, tidak perlu membatalkan langganan, dan tidak ada uji coba yang diam-diam mulai menagih Anda. Tingkat gratis juga gratis selamanya. Apa yang saya dapatkan dalam gratis versus Pro? Gratis: 1 profil, hingga 5 dokumen, pengingat kedaluwarsa, berbagi dokumen, kunci PIN dan biometrik, enkripsi di perangkat, akses offline. Pro menambahkan: profil tak terbatas untuk keluarga Anda, dokumen tak terbatas, perencana perjalanan dengan lampu lalu lintas kesiapan keluarga, cadangan cloud terenkripsi ke iCloud atau Google Drive Anda sendiri, pelacak hari-hari di luar negeri untuk batas visa dan pajak, dan waktu pengingat khusus. Apakah saya membayar per anggota keluarga atau per perangkat? Tidak. Pro adalah pembelian satu kali untuk akun Anda. Setelah dibeli, Anda dapat menambahkan anggota keluarga tak terbatas (profil) dan menggunakan aplikasi di beberapa perangkat di bawah akun App Store atau Google Play yang sama. Satu pembelian. Seluruh keluarga. Apa artinya 'semua pembaruan v1.x disertakan'? Pembelian satu kali Anda mencakup setiap pembaruan dalam versi utama saat ini (v1.x), termasuk perbaikan bug, patch keamanan, dan fitur baru. Ini berlaku selama Anda menggunakan aplikasi. Jika kami pernah merilis v2.0 dengan perubahan arsitektur substansial, pengguna awal mendapatkan harga upgrade preferensial dan opsi untuk tetap di Pro v1.x selamanya. Lihat [kebijakan versi lengkap kami](https://traveldocumentvault.com/pricing-policy/#version-policy) untuk rinciannya.
 
 ## Siap Berhenti Khawatir?
 

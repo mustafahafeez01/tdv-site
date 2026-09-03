@@ -12,8 +12,8 @@ Source: https://traveldocumentvault.com/sv/blog/passport-photo-at-home/
 
 - Använd en enfärgad vit eller benvit bakgrund, neutralt ansiktsuttryck och ögonen öppna och riktade rakt fram
 - Storlekskraven skiljer sig mellan länder och tillämpas strikt, så ta måtten från din egen passmyndighet i stället för från en sammanfattning
-- Naturligt fönsterljus fungerar bäst - undvik hårda skuggor och använd inte kamerans blixt
-- De flesta länder tillåter numera inte glasögon om det inte är medicinskt nödvändigt - kontrollera aktuella krav
+- Naturligt fönsterljus fungerar bäst – undvik hårda skuggor och använd inte kamerans blixt
+- De flesta länder tillåter numera inte glasögon om det inte är medicinskt nödvändigt – kontrollera aktuella krav
 - Vanliga avslagsorsaker är skuggor, fel storlek, leende, suddiga foton och olämplig bakgrund
 
 Ett foto taget hemma godkänns lika lätt som ett från en fotoautomat, förutsatt att det uppfyller samma korta lista med regler. De flesta avslag beror på tre saker: skugga i ansiktet eller på bakgrunden, fel storlek på huvudet i bilden, och glasögon. Får du de rätt är resten okomplicerat.
@@ -24,11 +24,11 @@ Ett foto taget hemma godkänns lika lätt som ett från en fotoautomat, förutsa
 
 ### Bakgrund och komposition
 
-Du behöver en enfärgad vit eller benvit bakgrund - inget annat fungerar. Inga mönster, skuggor, suddiga bakgrunder eller färger. Anledningen är enkel: tjänstemän behöver en ren, tydlig bild av ditt ansikte att jämföra mot framtida handlingar. De flesta använder ett vitt lakan, en affischkartong eller till och med målar en liten del av en vägg. Det viktiga är att hålla den ljus och jämn rakt igenom.
+Du behöver en enfärgad vit eller benvit bakgrund – inget annat fungerar. Inga mönster, skuggor, suddiga bakgrunder eller färger. Anledningen är enkel: tjänstemän behöver en ren, tydlig bild av ditt ansikte att jämföra mot framtida handlingar. De flesta använder ett vitt lakan, en affischkartong eller till och med målar en liten del av en vägg. Det viktiga är att hålla den ljus och jämn rakt igenom.
 
 ### Uttryck och hållning
 
-Ditt ansikte ska fylla bildrutan i den andel din passmyndighet anger, med ögonen öppna och tydligt synliga - de flesta länder förbjuder leende, och kisande ögon diskvalificerar bilden. Titta rakt in i kameran med ett neutralt uttryck, luta huvudet lätt om det känns mer naturligt, men håll i regel huvudet rakt mot linsen. Öronen bör helst synas på båda sidor av ansiktet.
+Ditt ansikte ska fylla bildrutan i den andel din passmyndighet anger, med ögonen öppna och tydligt synliga – de flesta länder förbjuder leende, och kisande ögon diskvalificerar bilden. Titta rakt in i kameran med ett neutralt uttryck, luta huvudet lätt om det känns mer naturligt, men håll i regel huvudet rakt mot linsen. Öronen bör helst synas på båda sidor av ansiktet.
 
 ## Får man ha glasögon på passfoto?
 
@@ -44,7 +44,7 @@ Digitala inlämningar byter millimeter mot pixlar, och varje myndighet publicera
 
 ### Var du kontrollerar ditt lands storlekskrav
 
-Storlek är där de flesta går fel - matchar inte fotot ditt lands krav är ett avslag nästan garanterat. Varje land sätter sina egna mått, vissa i tum och vissa i millimeter, och de revideras då och då.
+Storlek är där de flesta går fel – matchar inte fotot ditt lands krav är ett avslag nästan garanterat. Varje land sätter sina egna mått, vissa i tum och vissa i millimeter, och de revideras då och då.
 
 Vi återger medvetet inte de siffrorna här. En uppgift som kopieras in i ett blogginlägg är en uppgift som tyst kan bli inaktuell, och det här inlägget är inte den auktoritativa källan för det. Kontrollera direkt hos ditt eget passkontor.
 
@@ -55,7 +55,7 @@ Vi återger medvetet inte de siffrorna här. En uppgift som kopieras in i ett bl
 | Australien | Australian Passport Office:s fotoriktlinjer |
 | Kanada | Den kanadensiska regeringens sida om passfoton |
 
-Oavsett vad ditt land anger är det exakt - även några millimeter fel innebär avslag. Mobilens råbild är oftast betydligt större än det du behöver skicka in, vilket är anledningen till att beskärningsappar finns. Gratis eller billiga verktyg som finns till iOS och Android låter dig ange ditt land och automatiskt anpassa bilden till exakt mått.
+Oavsett vad ditt land anger är det exakt – även några millimeter fel innebär avslag. Mobilens råbild är oftast betydligt större än det du behöver skicka in, vilket är anledningen till att beskärningsappar finns. Gratis eller billiga verktyg som finns till iOS och Android låter dig ange ditt land och automatiskt anpassa bilden till exakt mått.
 
 ### Jämförelse av metoder för att lämna in passfoto
 
@@ -63,11 +63,11 @@ Det finns flera sätt att få passfotot till passmyndigheten. Alla har sina avv�
 
 | Metod | Kostnad | Risk för avslag | Bekvämlighet | Officiell vägledning |
 |---|---|---|---|---|
-| Hemma på egen hand (mobil + beskärningsapp) | Gratis eller nästan | Högre om du missar belysning eller storlek | Mycket hög - direkt | Tillåtet i de flesta länder - kontrollera din myndighets webbplats |
-| Lokalt apotek | En mindre avgift | Låg - utbildad personal kontrollerar | Medel - ofta samma dag | Vanligt och generellt pålitligt - kontrollera ändå din egen myndighets krav |
-| Postkontor (Storbritannien med flera) | En mindre avgift | Låg - tas på plats, kontrolleras | Medel - kräver besök och bokning | Postkontorets officiella tjänst |
-| Onlinetjänster (t.ex. Passport Photo Online) | En mindre avgift | Medel - digital inlämning, återkoppling ges | Hög - hemifrån, digital leverans | Inte officiellt men mycket använt - kontrollera om ditt land accepterar färdigbeskurna uppladdningar |
-| Professionell fotostudio | Det dyraste alternativet | Låg - fackmässig belysning och komposition | Låg - kräver bokning | Accepteras överallt - alltid ett tryggt val |
+| Hemma på egen hand (mobil + beskärningsapp) | Gratis eller nästan | Högre om du missar belysning eller storlek | Mycket hög – direkt | Tillåtet i de flesta länder – kontrollera din myndighets webbplats |
+| Lokalt apotek | En mindre avgift | Låg – utbildad personal kontrollerar | Medel – ofta samma dag | Vanligt och generellt pålitligt – kontrollera ändå din egen myndighets krav |
+| Postkontor (Storbritannien med flera) | En mindre avgift | Låg – tas på plats, kontrolleras | Medel – kräver besök och bokning | Postkontorets officiella tjänst |
+| Onlinetjänster (t.ex. Passport Photo Online) | En mindre avgift | Medel – digital inlämning, återkoppling ges | Hög – hemifrån, digital leverans | Inte officiellt men mycket använt – kontrollera om ditt land accepterar färdigbeskurna uppladdningar |
+| Professionell fotostudio | Det dyraste alternativet | Låg – fackmässig belysning och komposition | Låg – kräver bokning | Accepteras överallt – alltid ett tryggt val |
 
 ## Belysning och bildkvalitet
 
@@ -83,17 +83,17 @@ Använd ett stativ eller stötta mobilen mot ett stabilt föremål så att du ha
 
 ### Upplösning och fokus
 
-Moderna mobiler fotograferar med 12 megapixlar eller mer, vilket är gott och väl för passfoto. Innan du fotograferar, se till att mobilen är i fokusläge - tryck på ansiktet på skärmen, så låser de flesta mobiler fokus där. Slutbilden ska vara skarp och tydlig.
+Moderna mobiler fotograferar med 12 megapixlar eller mer, vilket är gott och väl för passfoto. Innan du fotograferar, se till att mobilen är i fokusläge – tryck på ansiktet på skärmen, så låser de flesta mobiler fokus där. Slutbilden ska vara skarp och tydlig.
 
 ## Vanliga avslagsorsaker och hur du undviker dem
 
 - **Skuggor i ansiktet:** Orsakas av sidobelysning eller hårda ljuskällor. Stå vinkelrätt mot ett fönster för jämn belysning, och kontrollera att öron och kindben är jämnt belysta.
-- **Fel fotomått:** Fotot matchar inte ditt lands specifikation (kraven varierar mellan länder). Använd en beskärningsapp för passfoto och dubbelkolla måtten mot din egen myndighets officiella spec innan du skriver ut eller laddar upp - inte ett annat lands standard.
-- **Leende eller ovanligt uttryck:** De flesta länder kräver ett neutralt uttryck. Öva på en lugn blick rakt fram i en spegel i förväg - sikta på allvarlig, inte sträng.
+- **Fel fotomått:** Fotot matchar inte ditt lands specifikation (kraven varierar mellan länder). Använd en beskärningsapp för passfoto och dubbelkolla måtten mot din egen myndighets officiella spec innan du skriver ut eller laddar upp – inte ett annat lands standard.
+- **Leende eller ovanligt uttryck:** De flesta länder kräver ett neutralt uttryck. Öva på en lugn blick rakt fram i en spegel i förväg – sikta på allvarlig, inte sträng.
 - **Glasögon med reflexer:** Reflexer i glasen döljer ögonen. Ta antingen av glasögonen eller justera vinkeln för att eliminera reflexen. Många länder förbjuder numera glasögon helt om det inte är medicinskt nödvändigt, så kontrollera din myndighets aktuella regler först.
 - **Suddig eller ofokuserad bild:** Rörelse- eller fokusproblem under fotograferingen. Använd ett stativ eller ett stabilt föremål för att stötta mobilen, tryck på skärmen för att fokusera på ansiktet, och undvik all rörelse under bilden.
-- **Fel bakgrund:** Färgad bakgrund, mönster eller ojämn vit bakgrund. Enfärgad vit eller benvit affischkartong eller lakan fungerar bäst - se till att ingen synlig textur eller skugga finns.
-- **För mycket eller för lite marginal:** Ansiktet för litet eller felplacerat i bilden. Ditt lands regler anger exakt hur stor del av bilden ansiktet ska fylla, oftast som ett mått från haka till hjässa snarare än en procentandel - jobba mot den siffran, inte mot vad som ser rätt ut.
+- **Fel bakgrund:** Färgad bakgrund, mönster eller ojämn vit bakgrund. Enfärgad vit eller benvit affischkartong eller lakan fungerar bäst – se till att ingen synlig textur eller skugga finns.
+- **För mycket eller för lite marginal:** Ansiktet för litet eller felplacerat i bilden. Ditt lands regler anger exakt hur stor del av bilden ansiktet ska fylla, oftast som ett mått från haka till hjässa snarare än en procentandel – jobba mot den siffran, inte mot vad som ser rätt ut.
 
 ## Från mobilfoto till officiellt foto: processen
 
@@ -101,7 +101,7 @@ Mobilfotot har sällan rätt storlek direkt. Efter att du tagit bilden behöver 
 
 ### Beskärningsverktyg
 
-Beskärningsappar tar bort gissningsleken ur att ändra storlek. Leta efter verktyg som Passport Photo Online eller ID Photo Studio för iOS och Android - de låter dig välja land och automatiskt beskär till rätt spec samtidigt som de kontrollerar att ansiktsmåtten stämmer. Många appar går längre och ger återkoppling om belysningen eller bakgrunden inte räcker till.
+Beskärningsappar tar bort gissningsleken ur att ändra storlek. Leta efter verktyg som Passport Photo Online eller ID Photo Studio för iOS och Android – de låter dig välja land och automatiskt beskär till rätt spec samtidigt som de kontrollerar att ansiktsmåtten stämmer. Många appar går längre och ger återkoppling om belysningen eller bakgrunden inte räcker till.
 
 ### Utskrift jämfört med digital inlämning
 

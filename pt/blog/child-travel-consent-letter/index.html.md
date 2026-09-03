@@ -18,11 +18,11 @@ Source: https://traveldocumentvault.com/pt/blog/child-travel-consent-letter/
 
 Uma carta de consentimento cumpre uma única função no balcão da companhia aérea: mostra que o adulto que viaja com a criança tem o acordo do progenitor ausente. A maioria é aceite sem comentários. As que causam atrasos falham normalmente num pormenor e não no essencial, sendo o mais comum um número de passaporte alterado na última renovação da criança.
 
-Esse cenário - e milhares como ele - acontece porque as cartas de consentimento de viagem para crianças são um dos documentos de viagem mais mal compreendidos. As regras variam muito por país, e uma carta que funciona bem numa viagem pode falhar na fronteira na próxima. Saber exactamente quando é necessária, o que deve conter, e como mantê-la válida previne as razões mais comuns pelas quais as famílias são paradas na fronteira.
+Esse cenário — e milhares como ele — acontece porque as cartas de consentimento de viagem para crianças são um dos documentos de viagem mais mal compreendidos. As regras variam muito por país, e uma carta que funciona bem numa viagem pode falhar na fronteira na próxima. Saber exactamente quando é necessária, o que deve conter, e como mantê-la válida previne as razões mais comuns pelas quais as famílias são paradas na fronteira.
 
 ## Quem Realmente Precisa de uma Carta de Consentimento de Viagem para Crianças?
 
-Depende inteiramente do seu destino - não há padrão global, é por isso que muitas famílias são apanhadas de surpresa.
+Depende inteiramente do seu destino — não há padrão global, é por isso que muitas famílias são apanhadas de surpresa.
 
 Uma carta é comummente necessária nessas situações:
 
@@ -37,7 +37,7 @@ Verifique sempre os requisitos directamente com a autoridade de imigração do s
 
 ## O Que a Carta Deve Incluir
 
-Uma carta de consentimento de viagem para crianças não é uma nota casual - é um documento formal, frequentemente autenticado, que deve conter informações específicas. Cada carta deve incluir:
+Uma carta de consentimento de viagem para crianças não é uma nota casual — é um documento formal, frequentemente autenticado, que deve conter informações específicas. Cada carta deve incluir:
 
 - **Nome completo e data de nascimento da criança**, exactamente como impresso no passaporte.
 - **Número de passaporte da criança.**
@@ -49,7 +49,7 @@ Uma carta de consentimento de viagem para crianças não é uma nota casual - é
 - **Assinatura(s) do progenitor/progenitores ausente(s)**, com data.
 - **Autenticação ou certificação**, se exigido pelo destino.
 
-Escreva a carta em linguagem formal - evite frases vagas como "a minha criança pode viajar quando quiser". Os agentes fronteiriços precisam de ver o progenitor ausente a consentir explicitamente nesta viagem específica, nessas datas específicas, para esses locais específicos. Por exemplo, pode escrever: "Eu, [Nome Completo], por este meio concedo permissão para a minha criança [Nome Completo da Criança], número de passaporte [número], viajar para [destino(s)] partindo em [data] e regressando em [data], acompanhada por [Nome e Relacionamento do Adulto Viajante]."
+Escreva a carta em linguagem formal — evite frases vagas como "a minha criança pode viajar quando quiser". Os agentes fronteiriços precisam de ver o progenitor ausente a consentir explicitamente nesta viagem específica, nessas datas específicas, para esses locais específicos. Por exemplo, pode escrever: "Eu, [Nome Completo], por este meio concedo permissão para a minha criança [Nome Completo da Criança], número de passaporte [número], viajar para [destino(s)] partindo em [data] e regressando em [data], acompanhada por [Nome e Relacionamento do Adulto Viajante]."
 
 Alguns agentes fronteiriços telefonarão para o número de contacto fornecido para verificar o consentimento. Certifique-se de que esse número está correcto, é respondido pela pessoa nomeada, e que podem confirmar a permissão na chamada. Se não conseguir garantir que alguém responderá durante o horário das fronteiras, liste um contacto alternativo e anote-o na carta.
 

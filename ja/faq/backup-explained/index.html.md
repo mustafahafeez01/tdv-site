@@ -12,9 +12,9 @@ Travel Document Vaultは3層の保護を提供します。ここでは、各層�
 
 あなたのドキュメントはあなたのデバイスに保存されます。当社のサーバーには送信されません。3つのバックアップメカニズムはそれぞれ異なる目的を果たし、すべてを同時に使用できます。
 
-- **自動ローカルバックアップ** - バックグラウンドで静かに実行され、アクションは不要です。
-- **Vault Export (.tdvault)** - 任意の場所に保存できるポータブルな暗号化ファイル。
-- **クラウドバックアップ (Pro)** - あなた自身のiCloudまたはGoogle Driveに自動的に暗号化されたコピーが保存されます。
+- **自動ローカルバックアップ**、バックグラウンドで静かに実行され、アクションは不要です。
+- **Vault Export (.tdvault)**、任意の場所に保存できるポータブルな暗号化ファイル。
+- **クラウドバックアップ (Pro)**、あなた自身のiCloudまたはGoogle Driveに自動的に暗号化されたコピーが保存されます。
 
 ## 一目でわかる比較
 
@@ -34,7 +34,7 @@ Travel Document Vaultは3層の保護を提供します。ここでは、各層�
 
 これらのローカルスナップショットはデバイスに保存されます。システムバックアップ (iCloud Backup、Google Backup) はアプリを再インストールしますが、暗号化キーが元のデバイスを離れないため、新しい電話では復元できません。ボルトを移動するには、クラウドバックアップ (Pro) または無料のVault Exportを使用します。
 
-## Vault Export (.tdvault) - すべての人に無料
+## Vault Export (.tdvault)、すべての人に無料
 
 Vault Exportはボルト内のすべてのプロファイル、ドキュメント、および添付ファイルを含む1つの暗号化された、パスワード保護されたファイルを作成します。保存場所を選択できます: ファイルアプリ、iCloud Drive、Google Drive、またはAirDropやメール経由で共有できます。
 
@@ -70,9 +70,9 @@ Vault Exportは、デバイス変更、主要なアプリアップデート、�
 
 ### 関連ガイド
 
-- [ボルトをエクスポートおよびインポートする方法 - ステップバイステップのチュートリアル](https://traveldocumentvault.com/ja/faq/export-import/)
-- [リカバリーコードとは何ですか - 安全に保管するための完全なガイド](https://traveldocumentvault.com/ja/faq/recovery-code/)
-- [クラウドバックアップ - エンドツーエンド暗号化の仕組み](https://traveldocumentvault.com/ja/cloud-backup/)
+- [ボルトをエクスポートおよびインポートする方法、ステップバイステップのチュートリアル](https://traveldocumentvault.com/ja/faq/export-import/)
+- [リカバリーコードとは何ですか、安全に保管するための完全なガイド](https://traveldocumentvault.com/ja/faq/recovery-code/)
+- [クラウドバックアップ、エンドツーエンド暗号化の仕組み](https://traveldocumentvault.com/ja/cloud-backup/)
 
 ## Travel Document Vaultを取得する
 

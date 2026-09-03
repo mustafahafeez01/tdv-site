@@ -28,9 +28,9 @@ Of je dat paspoort nog hebt, hangt volledig af van je land en je verlengingsmeth
 
 Voor een standaard Amerikaanse paspoortverlenging per post hoef je je huidige paspoort niet in te leveren voordat het nieuwe aankomt. Je vult formulier DS-82 in, voegt je bestaande paspoort toe en stuurt alles naar het National Passport Processing Center. Je oude paspoort wordt samen met het nieuwe teruggestuurd, meestal ongeldig gemaakt met een gaatje.
 
-Dat betekent dat binnenlandse reizen binnen de Verenigde Staten gedurende het hele verlengingsproces geen probleem zijn - je hebt geen paspoort nodig voor binnenlandse vluchten. Internationale reizen zijn een ander verhaal: je kunt niet internationaal reizen totdat je nieuwe paspoort is aangekomen, en je kunt het oude ongeldig gemaakte paspoort niet gebruiken, ook al heb je het in handen.
+Dat betekent dat binnenlandse reizen binnen de Verenigde Staten gedurende het hele verlengingsproces geen probleem zijn – je hebt geen paspoort nodig voor binnenlandse vluchten. Internationale reizen zijn een ander verhaal: je kunt niet internationaal reizen totdat je nieuwe paspoort is aangekomen, en je kunt het oude ongeldig gemaakte paspoort niet gebruiken, ook al heb je het in handen.
 
-Standaard verwerkingstijden veranderen, en het State Department publiceert het actuele cijfer op travel.state.gov, dus controleer dat voordat je erop plant. Als je reis al geboekt is voordat je het nieuwe paspoort verwacht, is versnelde verwerking beschikbaar tegen een extra vergoeding en verkort dit de wachttijd aanzienlijk. Voor werkelijk urgente reizen zijn persoonlijke afspraken mogelijk bij regionale paspoortkantoren - controleer de actuele voorwaarden op travel.state.gov.
+Standaard verwerkingstijden veranderen, en het State Department publiceert het actuele cijfer op travel.state.gov, dus controleer dat voordat je erop plant. Als je reis al geboekt is voordat je het nieuwe paspoort verwacht, is versnelde verwerking beschikbaar tegen een extra vergoeding en verkort dit de wachttijd aanzienlijk. Voor werkelijk urgente reizen zijn persoonlijke afspraken mogelijk bij regionale paspoortkantoren – controleer de actuele voorwaarden op travel.state.gov.
 
 ## Verenigd Koninkrijk: twee processen met tegenovergestelde uitkomsten
 
@@ -52,7 +52,7 @@ Het Australian Passport Office publiceert de actuele verwerkingstijden en raadt 
 
 ## Canada: ingeleverd bij aanvraag
 
-Canada vereist dat je je bestaande paspoort inlevert wanneer je een verlenging aanvraagt. Je oude paspoort wordt bewaard totdat het nieuwe klaar is, dus je kunt in die periode niet internationaal reizen - al is voor binnenlandse reizen binnen Canada geen paspoort nodig.
+Canada vereist dat je je bestaande paspoort inlevert wanneer je een verlenging aanvraagt. Je oude paspoort wordt bewaard totdat het nieuwe klaar is, dus je kunt in die periode niet internationaal reizen – al is voor binnenlandse reizen binnen Canada geen paspoort nodig.
 
 Service Canada publiceert de actuele verwerkingsnormen, die verschillen afhankelijk van of je persoonlijk, per post of bij een Service Canada Centre aanvraagt, plus verzendtijd in elk geval. Voor dringende reizen bestaan express-service en spoedafhaalopties tegen extra kosten. Controleer de actuele verwerkingstijden en vraag aan via canada.ca.
 
@@ -82,7 +82,7 @@ De praktische toets is simpel. Als je paspoort geannuleerd of verlopen is, of bi
 
 ## Als je reis eerder is dan je verlengingstermijn
 
-Wacht niet met telefonisch contact opnemen met de paspoortinstantie van je land - vraag specifiek naar versnelde, spoed- of noodafspraken. Die bestaan in elk land dat hier wordt genoemd, maar de beschikbaarheid verandert wekelijks en tijdsloten verdwijnen snel.
+Wacht niet met telefonisch contact opnemen met de paspoortinstantie van je land – vraag specifiek naar versnelde, spoed- of noodafspraken. Die bestaan in elk land dat hier wordt genoemd, maar de beschikbaarheid verandert wekelijks en tijdsloten verdwijnen snel.
 
 Neem tegelijkertijd contact op met je luchtvaartmaatschappij over ombooking. Sommige maatschappijen laten wijzigingskosten vervallen wanneer een echt documentprobleem de reden is. Zorg dat elke afspraak op schrift staat. Heb je een reisverzekering, controleer dan je polis op dekking van kosten die voortvloeien uit paspoortvertragingen of documentproblemen.
 

@@ -92,7 +92,7 @@ Hvis mærkaterne på din egen pas-side ikke er på dansk, hjælper geometrien al
 
 ### Hvad betyder date of expedition på et pas?
 
-Det betyder udstedelsesdato - den dag passet blev fremstillet. Formuleringen stammer fra spanske og portugisiske blanketter, hvor fecha de expedición og data de expedição begge oversættes bogstaveligt som expedition-dato. Det har intet med en rejse at gøre, og det er aldrig udløbsdatoen.
+Det betyder udstedelsesdato – den dag passet blev fremstillet. Formuleringen stammer fra spanske og portugisiske blanketter, hvor fecha de expedición og data de expedição begge oversættes bogstaveligt som expedition-dato. Det har intet med en rejse at gøre, og det er aldrig udløbsdatoen.
 
 ### Er udstedelsesdatoen det samme som udløbsdatoen?
 

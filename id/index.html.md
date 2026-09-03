@@ -44,7 +44,7 @@ Cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri. Anda mem
 
 ### Pengingat Pintar
 
-Paspor mulai mengingatkan Anda delapan bulan sebelumnya, lalu semakin rapat - enam bulan, tiga bulan, enam minggu, satu bulan - sampai hari kedaluwarsa. Setiap jenis dokumen punya jadwalnya sendiri, siap begitu Anda menambahkannya.
+Paspor mulai mengingatkan Anda delapan bulan sebelumnya, lalu semakin rapat — enam bulan, tiga bulan, enam minggu, satu bulan — sampai hari kedaluwarsa. Setiap jenis dokumen punya jadwalnya sendiri, siap begitu Anda menambahkannya.
 
 ### Logika Sadar Keluarga
 
@@ -248,7 +248,7 @@ Pulihkan pembelian kapan saja dengan akun App Store atau Google Play tempat Anda
 
 ## Pertanyaan Umum
 
-Apakah benar-benar pribadi? Ya. Semuanya disimpan 100% di perangkat Anda. Kami tidak memiliki akses ke dokumen Anda, dan tidak ada database cloud. Jangan hanya percaya pada kata-kata kami - [verifikasi sendiri](https://traveldocumentvault.com/id/privacy-verification/). Bagaimana jika saya kehilangan ponsel saya? Lemari Anda disimpan di perangkat Anda. Jika Anda beralih ponsel, pulihkan menggunakan cadangan ponsel biasa Anda. Bisakah saya menyinkronkan antar perangkat? Ya. Dengan Pro, Anda mengaktifkan Cloud Anda sendiri untuk menyinkronkan lemari Anda yang terenkripsi dengan iCloud atau Google Drive Anda. Anda memegang kode pemulihan. Kami tidak pernah mengakses data Anda. Apa itu Perencana Perjalanan? Perencana Perjalanan mengelompokkan dokumen keluarga berdasarkan perjalanan dan menampilkan lampu lalu lintas kesiapan - hijau saat semuanya siap, kuning saat paspor seseorang akan segera kedaluwarsa. Rencanakan perjalanan bersama dengan percaya diri. [Lihat semua jawaban privasi dan data](https://traveldocumentvault.com/id/faq/)
+Apakah benar-benar pribadi? Ya. Semuanya disimpan 100% di perangkat Anda. Kami tidak memiliki akses ke dokumen Anda, dan tidak ada database cloud. Jangan hanya percaya pada kata-kata kami, [verifikasi sendiri](https://traveldocumentvault.com/id/privacy-verification/). Bagaimana jika saya kehilangan ponsel saya? Lemari Anda disimpan di perangkat Anda. Jika Anda beralih ponsel, pulihkan menggunakan cadangan ponsel biasa Anda. Bisakah saya menyinkronkan antar perangkat? Ya. Dengan Pro, Anda mengaktifkan Cloud Anda sendiri untuk menyinkronkan lemari Anda yang terenkripsi dengan iCloud atau Google Drive Anda. Anda memegang kode pemulihan. Kami tidak pernah mengakses data Anda. Apa itu Perencana Perjalanan? Perencana Perjalanan mengelompokkan dokumen keluarga berdasarkan perjalanan dan menampilkan lampu lalu lintas kesiapan — hijau saat semuanya siap, kuning saat paspor seseorang akan segera kedaluwarsa. Rencanakan perjalanan bersama dengan percaya diri. [Lihat semua jawaban privasi dan data](https://traveldocumentvault.com/id/faq/)
 
 **Penting:** Travel Document Vault adalah alat organisasi pribadi untuk menyimpan salinan digital dokumen Anda. **Salinan digital yang disimpan dalam aplikasi ini TIDAK sah untuk perjalanan.** Ini tidak memverifikasi keaslian dokumen atau memberikan saran hukum atau perjalanan. Selalu bawa dokumen asli dan verifikasi semua persyaratan perjalanan dengan sumber pemerintah resmi.
 

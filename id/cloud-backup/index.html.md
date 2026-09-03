@@ -22,7 +22,7 @@ AES-256-GCM adalah enkripsi yang kuat dan modern, dan kode pemulihan tidak perna
 
 ### Unggah ke Cloud Anda
 
-Cadangan terenkripsi masuk ke akun iCloud atau Google Drive pribadi Anda, bukan ke server kami - itu adalah cloud Anda dan akun Anda.
+Cadangan terenkripsi masuk ke akun iCloud atau Google Drive pribadi Anda, bukan ke server kami, itu adalah cloud Anda dan akun Anda.
 
 Anda dapat melihat dan mengelola cadangan Anda langsung di iCloud atau Google Drive Anda. Anda memiliki kendali penuh.
 
@@ -30,9 +30,9 @@ Anda dapat melihat dan mengelola cadangan Anda langsung di iCloud atau Google Dr
 
 ### Hanya Anda Memegang Kunci
 
-Kode pemulihan Anda adalah kunci untuk mendekripsi cadangan Anda, dan tidak pernah meninggalkan perangkat Anda - tidak pernah dikirim kepada kami, Apple, atau Google.
+Kode pemulihan Anda adalah kunci untuk mendekripsi cadangan Anda, dan tidak pernah meninggalkan perangkat Anda — tidak pernah dikirim kepada kami, Apple, atau Google.
 
-Simpan kode pemulihan Anda di tempat yang aman, karena tanpanya bahkan kami tidak dapat memulihkan data Anda - ini disengaja, bukan bug.
+Simpan kode pemulihan Anda di tempat yang aman, karena tanpanya bahkan kami tidak dapat memulihkan data Anda, ini disengaja, bukan bug.
 
 4
 
@@ -68,7 +68,7 @@ Beberapa lapisan keamanan berdiri di antara ketukan yang tidak disengaja dan dat
 
 Kode pemulihan Anda adalah satu-satunya kunci untuk mendekripsi cadangan Anda. Kami memiliki desain zero-knowledge, yang berarti kami tidak dapat mengaturnya ulang untuk Anda. Jika Anda kehilangannya, cadangan Anda menjadi tidak dapat dipulihkan.
 
-Simpan kode pemulihan Anda di tempat yang aman sebelum mengandalkan cadangan cloud - baik manajer sandi, salinan cetak di lokasi aman, atau keduanya - dan verifikasi Anda dapat membacanya kembali sebelum menyimpannya sebagai satu-satunya salinan.
+Simpan kode pemulihan Anda di tempat yang aman sebelum mengandalkan cadangan cloud — baik manajer sandi, salinan cetak di lokasi aman, atau keduanya — dan verifikasi Anda dapat membacanya kembali sebelum menyimpannya sebagai satu-satunya salinan.
 
 ### Persyaratan Perangkat
 

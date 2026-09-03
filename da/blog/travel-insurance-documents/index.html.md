@@ -11,8 +11,8 @@ Source: https://traveldocumentvault.com/da/blog/travel-insurance-documents/
 ## Vigtigste punkter
 
 - **Gem din fulde forsikringspolice, policenummer og 24-timers nødtelefonnummer** (ikke salgsnummeret).
-- Opbevar kopier offline og tilgængeligt - kun email nytter ikke, når du sidder strandet eller på hospitalet.
-- **Forhåndsgodkendelse til lægelig behandling er påkrævet af de fleste policer** - hvis du springer det over, kan det reducere eller annullere dit krav.
+- Opbevar kopier offline og tilgængeligt – kun email nytter ikke, når du sidder strandet eller på hospitalet.
+- **Forhåndsgodkendelse til lægelig behandling er påkrævet af de fleste policer** – hvis du springer det over, kan det reducere eller annullere dit krav.
 - Skadesanmeldelser afvises oftest på grund af manglende dokumentation: politirapport for tyveri, originalkvitteringer, underskrevne skadeskemaer.
 - Læs nøgledele af din police hurtigt ved at fokusere på dækningsgrænser, udelukkelser og vilkår.
 
@@ -24,14 +24,14 @@ Det er klokken 2 om natten i Bangkok, og du har dårlig mave og feber. Hotelrece
 
 Et par manglende dokumenter er ikke bare ubelejligt her. De afgør, om behandlingen starter øjeblikkeligt, om du betaler kontant og kræver det tilbage senere, eller om skadesanmeldelsen afvises helt.
 
-Rejseforsikring virker kun, hvis du kan få adgang til den, når du har brug for det. De fleste mennesker opbevarer det i email og kan ikke finde det, når krisen rammer - normalt under stress, tidspres eller en medicinsk nødsituation.
+Rejseforsikring virker kun, hvis du kan få adgang til den, når du har brug for det. De fleste mennesker opbevarer det i email og kan ikke finde det, når krisen rammer – normalt under stress, tidspres eller en medicinsk nødsituation.
 
 ## De fem dokumenter, du skal gemme før du flyver
 
 Din rejseforsikringspolice er typisk en PDF. Den ene fil indeholder alt, hvad du har brug for, men du bør trække disse fem ting ud og gemme dem hver for sig, så du kan finde dem øjeblikkeligt:
 
 - Fulde forsikringspolicedokument (PDF'en)
-- Policenummer (udpeg det - skriv det ned særskilt også)
+- Policenummer (udpeg det – skriv det ned særskilt også)
 - 24-timers nødtelefonnummer (forskelligt fra salgs- eller kundeservicenummeret)
 - Hvad er dækket-sektion (dækningsgrænser for medicinsk, bagage, aflysning osv.)
 - Vigtige udelukkelser og vilkår (inkluderet forhåndsgodkendelseskrav)
@@ -58,7 +58,7 @@ Som sikkerhedskopi skal du gemme dine forsikringsdokumenter i en adgangskodebesk
 
 ### Fysisk kopi sammen med dine rejsedokumenter
 
-Opbevar en fysisk kopi - eller et højkvalitets-foto af vigtige sider - sammen med dit pas, visumdokumenter og andre rejsedokumenter. Hvis din telefon dør, er dette dit fallback.
+Opbevar en fysisk kopi – eller et højkvalitets-foto af vigtige sider – sammen med dit pas, visumdokumenter og andre rejsedokumenter. Hvis din telefon dør, er dette dit fallback.
 
 Et håndskrevet kort gør samme nytte som et udprint: policenummer, forsikringsselskabets navn, nødtelefonnummer. Stik det ind i paslommen, og det overlever et fladt batteri, en mistet telefon og en hotelsafe, du ikke kan åbne.
 
@@ -66,9 +66,9 @@ Et håndskrevet kort gør samme nytte som et udprint: policenummer, forsikringss
 
 | Opbevaringssted | Adgang uden internet | I en nødsituation | Sikkerhedskopi hvis telefon går tabt |
 |---|---|---|---|
-| **Telefon (offline download)** | Øjeblikkeligt, intet WiFi påkrævet | Tilgængeligt med det samme - hurtigeste mulighed | Tabt med telefonen, medmindre der er sikkerhedskopi |
+| **Telefon (offline download)** | Øjeblikkeligt, intet WiFi påkrævet | Tilgængeligt med det samme – hurtigeste mulighed | Tabt med telefonen, medmindre der er sikkerhedskopi |
 | **Sky med offline-adgang** | Ja, hvis det er downloadet tidligere | Afhænger af lokal cache; virker hvis telefonen har cachet filen | Kan gendannes på en udskifttet telefon med login |
-| **Email** | Kræver internetforbindelse | Upålidelig - du kan ikke have signal eller data | Stadig tilgængelig, men tidskrævende at søge i |
+| **Email** | Kræver internetforbindelse | Upålidelig – du kan ikke have signal eller data | Stadig tilgængelig, men tidskrævende at søge i |
 | **Fysisk kopi (lamineret kort eller udprint)** | Ja, altid tilgængeligt | Hurtigste hvis din telefon er død eller tabt | Tabt hvis pas går tabt; bevar i anden lomme |
 | **Krypteret app (f.eks. Travel Document Vault)** | Ja, opbevaret lokalt på telefonen | Øjeblikkeligt adgang, designet til dette scenarie | Krypteret og privat; skylagring valgfrit |
 
@@ -78,7 +78,7 @@ Selv hvis du har dine dokumenter tilgængelig, kan du stadig miste dit krav, hvi
 
 ### Medicinske krav: Du har ikke fået forhåndsgodkendelse
 
-De fleste rejseforsikringspolicer kræver forhåndsgodkendelse før behandling. Dette betyder at ringe til dit forsikringsselskab og få godkendelse før du besøger et hospital eller klinik. Krav varierer efter forsikringsselskab og policetype - tjek din specifikke polices medicinske behandlingssektion. Hvis du springer dette trin over og betaler ud af egen lommebog, får du ofte afvisning med "behandlingen blev ikke forhåndsgodkendt." Mange forsikringsselskaber vil ikke tilbagebetale uden forhåndsgodkendelse, selv hvis behandlingen var nødvendig og dækket.
+De fleste rejseforsikringspolicer kræver forhåndsgodkendelse før behandling. Dette betyder at ringe til dit forsikringsselskab og få godkendelse før du besøger et hospital eller klinik. Krav varierer efter forsikringsselskab og policetype – tjek din specifikke polices medicinske behandlingssektion. Hvis du springer dette trin over og betaler ud af egen lommebog, får du ofte afvisning med "behandlingen blev ikke forhåndsgodkendt." Mange forsikringsselskaber vil ikke tilbagebetale uden forhåndsgodkendelse, selv hvis behandlingen var nødvendig og dækket.
 
 Forestil dig, at du bliver indlagt med blindtarmsbetændelse i Mumbai. Hospitalet kræver forudbetaling eller en garanti fra dit forsikringsselskab, og du har to timer, før operationen skal i gang. Uden dit forsikringsselskabs forhåndsgodkendelsesnummer kræver hospitalet kontanter. Det efterlader dig med to dårlige muligheder: betal nu og risikér et afvist krav måneder senere, eller udskyd operationen, mens du forsøger at få fat i dit forsikringsselskab. Ét opkald undgår det hele. Med et bekræftelsesnummer i hånden fakturerer hospitalet dit forsikringsselskab direkte.
 

@@ -10,13 +10,13 @@ Source: https://traveldocumentvault.com/da/blog/what-documents-to-carry-when-tra
 
 ## Vigtigste punkter
 
-- De fleste rejsende glemmer **samtykkebreve** til børns rejse, vaccinationsbevis, indkvarteringsbekræftelser og bevis på videre rejse - de støttedokumenter grænsemyndighederne tjekker ved gaten.
-- Hav originalerne på jer: pas, visa, boardingpas og samtykkebreve. Opbevar digitale backups separat på telefonen - krypteret og offline.
+- De fleste rejsende glemmer **samtykkebreve** til børns rejse, vaccinationsbevis, indkvarteringsbekræftelser og bevis på videre rejse – de støttedokumenter grænsemyndighederne tjekker ved gaten.
+- Hav originalerne på jer: pas, visa, boardingpas og samtykkebreve. Opbevar digitale backups separat på telefonen – krypteret og offline.
 - Rejseforsikringens policenumre, forsikringsselskabets telefonnumre og dækningsdetaljer hører hjemme både i fysisk form og i en offline digital backup, der er tilgængelig uden internet.
 - Mange lande forventer et **samtykkebrev**, når et barn rejser med én forælder. Uden det risikerer I nægtet ombordstigning.
 - Offline digitale kopier, opbevaret adskilt fra de fysiske dokumenter, er jeres bedste beskyttelse, hvis tasken mistes eller stjæles i udlandet.
 
-Rejsende opdager ofte først, at de har overset samtykkebreve, vaccinationsattester, indkvarteringsbekræftelser og bevis på videre rejse, når de når lufthavnen - dokumenter, der føles mindre vigtige end et pas, men som betyder lige så meget.
+Rejsende opdager ofte først, at de har overset samtykkebreve, vaccinationsattester, indkvarteringsbekræftelser og bevis på videre rejse, når de når lufthavnen – dokumenter, der føles mindre vigtige end et pas, men som betyder lige så meget.
 
 For flere tips om at organisere rejsedokumenter, se [vores guide til at organisere familiens rejsedokumenter](https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-documents/). Dette indlæg går i dybden med det, der bliver glemt, og hvordan I forbereder jer på tabte dokumenter i udlandet.
 
@@ -26,19 +26,19 @@ Jeres pas og visum føles presserende, så de bliver pakket først. Men grænsem
 
 ### Bevis på videre rejse
 
-Overraskende mange lande vil se bevis på, at I planlægger at forlade landet - en returflybillet, en videre booking til et andet land, eller endda en bus- eller færgebillet duer som regel. Har I en udskrift eller digital kopi i håndbagagen, undgår I forsinkelser ved grænsekontrollen.
+Overraskende mange lande vil se bevis på, at I planlægger at forlade landet – en returflybillet, en videre booking til et andet land, eller endda en bus- eller færgebillet duer som regel. Har I en udskrift eller digital kopi i håndbagagen, undgår I forsinkelser ved grænsekontrollen.
 
 ### Indkvarteringsbekræftelser
 
-Nogle lande beder om bevis på jeres første nats overnatning, uanset om det er en hotelbekræftelse, en Airbnb eller et vandrerhjem. Betjenten vil se bevis på, at I har et sted at bo, så download en kopi til telefonen offline - e-mail hjælper ikke ved grænsen.
+Nogle lande beder om bevis på jeres første nats overnatning, uanset om det er en hotelbekræftelse, en Airbnb eller et vandrerhjem. Betjenten vil se bevis på, at I har et sted at bo, så download en kopi til telefonen offline – e-mail hjælper ikke ved grænsen.
 
 ### Vaccinationsattester
 
-Visse destinationer kræver vaccinationsbevis mod gul feber eller andre sygdomme, og kravene ændrer sig løbende afhængigt af destination. Tjek WHO's rejsesider 6-8 uger før afrejse - ikke aftenen før - da nogle lande kun accepterer officielle WHO-gulfeberattester, ikke kopier eller digitale fotos.
+Visse destinationer kræver vaccinationsbevis mod gul feber eller andre sygdomme, og kravene ændrer sig løbende afhængigt af destination. Tjek WHO's rejsesider 6-8 uger før afrejse – ikke aftenen før – da nogle lande kun accepterer officielle WHO-gulfeberattester, ikke kopier eller digitale fotos.
 
 ### Rejseforsikringsoplysninger
 
-I skal have øjeblikkelig adgang til jeres policenummer, forsikringsselskabets kontaktoplysninger og jeres døgnåbne alarmnummer. Nogle visumtyper kræver udtrykkeligt bevis på rejseforsikring - Schengen-visumansøgninger kræver for eksempel medicinsk forsikring, der dækker akutbehandling og hospitalsindlæggelse. Men vigtigere er det, at hvis noget går galt i udlandet, har I brug for disse oplysninger uden at være afhængige af e-mail eller internetadgang.
+I skal have øjeblikkelig adgang til jeres policenummer, forsikringsselskabets kontaktoplysninger og jeres døgnåbne alarmnummer. Nogle visumtyper kræver udtrykkeligt bevis på rejseforsikring – Schengen-visumansøgninger kræver for eksempel medicinsk forsikring, der dækker akutbehandling og hospitalsindlæggelse. Men vigtigere er det, at hvis noget går galt i udlandet, har I brug for disse oplysninger uden at være afhængige af e-mail eller internetadgang.
 
 ### Samtykkebreve til børns rejse
 
@@ -68,11 +68,11 @@ Grænserne vil se originaldokumenter, men forsvinder de originaler, er det sikre
 - Samtykkebrevet, hvis I har et med
 - Nødkontaktnumre til jeres ambassade
 
-Opbevar disse på telefonen i en offline, krypteret app - ikke kamerarullen, ikke Google Fotos, ikke iCloud. Går de fysiske dokumenter tabt, har I stadig alt, hvad I skal bruge for at kontakte ambassaden og bevise, hvem I er.
+Opbevar disse på telefonen i en offline, krypteret app – ikke kamerarullen, ikke Google Fotos, ikke iCloud. Går de fysiske dokumenter tabt, har I stadig alt, hvad I skal bruge for at kontakte ambassaden og bevise, hvem I er.
 
 ## Sådan holder I rejseforsikringsoplysninger tilgængelige
 
-De fleste rejsende køber rejseforsikring, men glemmer at gøre policeoplysningerne øjeblikkeligt tilgængelige - hvilket betyder, at når en medicinsk nødsituation eller mistet bagage sker i udlandet, roder I i e-mails i stedet for at ringe efter hjælp. Vores guide om [hvilke rejseforsikringsdokumenter I bør gemme, før I rejser](https://traveldocumentvault.com/da/blog/travel-insurance-documents/) viser, hvad I skal gemme, og hvor.
+De fleste rejsende køber rejseforsikring, men glemmer at gøre policeoplysningerne øjeblikkeligt tilgængelige – hvilket betyder, at når en medicinsk nødsituation eller mistet bagage sker i udlandet, roder I i e-mails i stedet for at ringe efter hjælp. Vores guide om [hvilke rejseforsikringsdokumenter I bør gemme, før I rejser](https://traveldocumentvault.com/da/blog/travel-insurance-documents/) viser, hvad I skal gemme, og hvor.
 
 Specifikke oplysninger at have ved hånden, både på papir og digitalt:
 
@@ -93,11 +93,11 @@ Et samtykkebrev bør typisk indeholde barnets fulde navn og fødselsdato, pasopl
 
 Hvad det betyder i praksis
 
-I skal flyve til Canada med jeres 8-årige barn, og jeres partner rejser ikke med. Indcheckningspersonalet kan nægte jeres barn ombordstigning, hvis I ikke kan vise skriftligt samtykke fra jeres fraværende partner, helst notariseret. Rejser barnet med bedsteforældrene i stedet for jer, kræves typisk, at begge forældre underskriver samtykkebrevet - én forælders tilladelse er som regel ikke nok. Bekræft altid de præcise krav for jeres destination i god tid før afrejse.
+I skal flyve til Canada med jeres 8-årige barn, og jeres partner rejser ikke med. Indcheckningspersonalet kan nægte jeres barn ombordstigning, hvis I ikke kan vise skriftligt samtykke fra jeres fraværende partner, helst notariseret. Rejser barnet med bedsteforældrene i stedet for jer, kræves typisk, at begge forældre underskriver samtykkebrevet – én forælders tilladelse er som regel ikke nok. Bekræft altid de præcise krav for jeres destination i god tid før afrejse.
 
 ## Fordelen ved offline digitale kopier
 
-Fysiske dokumenter hjælper, indtil en tyv tager tasken - og som regel tager kopierne med sig sammen med originalerne. En separat krypteret backup på telefonen - opbevaret offline - er jeres reelle forsikring, hvis originalerne forsvinder.
+Fysiske dokumenter hjælper, indtil en tyv tager tasken – og som regel tager kopierne med sig sammen med originalerne. En separat krypteret backup på telefonen – opbevaret offline – er jeres reelle forsikring, hvis originalerne forsvinder.
 
 Når jeres ambassade skal udstede et nøddokument, giver en sikker backup dem jeres pasnummer, udstedelsesdato, udstedelsessted og udløbsdato med det samme, uden internetadgang. Læs mere om mulighederne i vores oversigt over [hvordan I opbevarer passcanninger sikkert](https://traveldocumentvault.com/da/blog/is-it-safe-to-store-passport-in-google-photos/) og afvejningerne mellem forskellige metoder.
 
@@ -119,7 +119,7 @@ Ja, i mange lande forventes det. Rejser et barn internationalt med kun én foræ
 
 ### Bør jeg gemme digitale backups af mine dokumenter?
 
-Ja. Gem krypterede offline-kopier på telefonen - ikke i kamerarullen eller cloud-lagring. Går jeres fysiske dokumenter tabt eller bliver stjålet i udlandet, gør disse backups det muligt for jeres ambassade at udstede et nøddokument langt hurtigere. De bør indeholde pasnummer, udstedelsesdato, udstedelsessted, forsikringspolicenummer og bookingreferencer.
+Ja. Gem krypterede offline-kopier på telefonen – ikke i kamerarullen eller cloud-lagring. Går jeres fysiske dokumenter tabt eller bliver stjålet i udlandet, gør disse backups det muligt for jeres ambassade at udstede et nøddokument langt hurtigere. De bør indeholde pasnummer, udstedelsesdato, udstedelsessted, forsikringspolicenummer og bookingreferencer.
 
 ### Hvad sker der, hvis jeg ankommer til lufthavnen uden et påkrævet dokument?
 

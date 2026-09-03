@@ -12,19 +12,19 @@ Source: https://traveldocumentvault.com/da/blog/schengen-90-days-auto-tracked-ee
 
 - **Passtempler er fortid.** Siden den 10. april 2026 registrerer EU's ind- og udrejsesystem (EES) alle ikke-EU-rejsendes Schengen ind- og udrejser digitalt, med fingeraftryk og ansigtsbillede.
 - EES **opdager nu overskridelser automatisk**. Forvent afvisning ved din næste indrejse, og muligvis et indrejseforbud på et til fem år.
-- **EES håndhæver, det planlægger ikke.** Ingen offentlig portal viser dine resterende dage - at tælle dit rullende 90/180-vindue er stadig dit eget ansvar.
-- EU's **officielle beregner til korte ophold** virker, men den er manuel - én person, ét vindue, én beregning ad gangen.
+- **EES håndhæver, det planlægger ikke.** Ingen offentlig portal viser dine resterende dage – at tælle dit rullende 90/180-vindue er stadig dit eget ansvar.
+- EU's **officielle beregner til korte ophold** virker, men den er manuel – én person, ét vindue, én beregning ad gangen.
 - Familier skal håndtere **et separat vindue pr. person**. Det er der, dagstælling i en app for alvor gør en forskel.
 
 På din seneste rejse til Europa fik du sikkert et stempel ved grænsen. Det stempel er fortid. Siden den 10. april 2026 har EU's ind- og udrejsesystem (EES) været fuldt operativt i hele Schengenområdet, og det udviskede blæk, der engang registrerede dine rejser, er blevet erstattet af en digital registrering, der starter i samme øjeblik, du krydser grænsen.
 
-For alle, der tæller Schengen-dage - og det bør enhver ikke-EU-besøgende gøre - hæver det indsatsen betydeligt. Her er, hvad det nye system faktisk gør, hvad det bevidst ikke gør, og hvordan du holder din egen optælling, så en grænse aldrig overrasker dig.
+For alle, der tæller Schengen-dage – og det bør enhver ikke-EU-besøgende gøre – hæver det indsatsen betydeligt. Her er, hvad det nye system faktisk gør, hvad det bevidst ikke gør, og hvordan du holder din egen optælling, så en grænse aldrig overrasker dig.
 
 ## Hvad der har ændret sig ved Europas grænser
 
 EES registrerer hver ikke-EU-rejsendes fingeraftryk, ansigtsbillede, rejsedokument og præcise ind- og udrejsedatoer. Systemet havde registreret over 52 millioner grænsepasseringer mellem den trinvise lancering i oktober 2025 og fuld drift i foråret, og over 27.000 personer blev nægtet indrejse i den periode. Førstegangsregistrering tager et par minutter ved kiosken, og lufthavne har rapporteret flertimers køer i myldretiden i sommer, mens alle vænner sig til det.
 
-Ikke alle registreres. EU-borgere, beboere i Schengenlande og indehavere af langtidsvisa er undtaget. Hvis du rejser på den visumfrie korttidstilladelse - de fleste britiske, amerikanske, canadiske og australske rejsende, for eksempel - gælder EES for dig.
+Ikke alle registreres. EU-borgere, beboere i Schengenlande og indehavere af langtidsvisa er undtaget. Hvis du rejser på den visumfrie korttidstilladelse – de fleste britiske, amerikanske, canadiske og australske rejsende, for eksempel – gælder EES for dig.
 
 ## 90/180-reglen under et system, der aldrig blinker
 
@@ -40,23 +40,23 @@ EU udgiver en officiel beregner til korte ophold, som virkelig er værd at gemme
 
 ## Sådan holder du styr på dit vindue i praksis
 
-Den manuelle metode kommer først, fordi den er gratis og officiel: tag dagens dato og se 180 dage tilbage. Tæl hver dag, du fysisk befandt dig i et Schengenland i den periode - både ankomst- og afrejsedag tæller. Træk summen fra 90; det er, hvad du har tilbage lige nu. Fordi vinduet ruller, rykker beregningen sig en dag i morgen, hvilket er grunden til, at EU's beregner beder om hele din rejsehistorik i stedet for et enkelt tal.
+Den manuelle metode kommer først, fordi den er gratis og officiel: tag dagens dato og se 180 dage tilbage. Tæl hver dag, du fysisk befandt dig i et Schengenland i den periode – både ankomst- og afrejsedag tæller. Træk summen fra 90; det er, hvad du har tilbage lige nu. Fordi vinduet ruller, rykker beregningen sig en dag i morgen, hvilket er grunden til, at EU's beregner beder om hele din rejsehistorik i stedet for et enkelt tal.
 
-For én person, der tager en ferie eller to om året, er det helt til at overskue. Det bliver sværere, når rejser overlapper, og personer bliver flere: en forretningsrejsende, der tager korte ture hver måned, eller en familie, hvor ét barn er på skoleudveksling, et andet har lejrophold, og en partner flyver hjem tidligere. Hver person har sit eget rullende vindue, og vinduerne stemmer ikke overens. Det er her, et sporingsværktøj holder op med at være en gadget og bliver måden, du undgår en dyr fejl på - vores [guide til visum- og indrejsesporing](https://traveldocumentvault.com/da/blog/visa-expiry-tracker-app/) dækker det bredere problem.
+For én person, der tager en ferie eller to om året, er det helt til at overskue. Det bliver sværere, når rejser overlapper, og personer bliver flere: en forretningsrejsende, der tager korte ture hver måned, eller en familie, hvor ét barn er på skoleudveksling, et andet har lejrophold, og en partner flyver hjem tidligere. Hver person har sit eget rullende vindue, og vinduerne stemmer ikke overens. Det er her, et sporingsværktøj holder op med at være en gadget og bliver måden, du undgår en dyr fejl på – vores [guide til visum- og indrejsesporing](https://traveldocumentvault.com/da/blog/visa-expiry-tracker-app/) dækker det bredere problem.
 
 En ærlig bemærkning: ingen app kan læse dit EES-register, heller ikke vores. Det, et sporingsværktøj gør, er at anvende den officielle 90/180-beregning på de rejsedatoer, du angiver, løbende, for hver rejsende du tilføjer. Grænsen tæller, hvad der er sket; et godt sporingsværktøj viser, hvad du stadig kan gøre.
 
 ## Tre ting EES ikke er
 
-**EES er ikke et visumsystem.** Du søger ikke om EES, og der er ingen godkendelse at vente på - det sker automatisk ved grænsen i stedet. Om du overhovedet skal bruge visum, afhænger stadig af din nationalitet, præcis som før.
+**EES er ikke et visumsystem.** Du søger ikke om EES, og der er ingen godkendelse at vente på – det sker automatisk ved grænsen i stedet. Om du overhovedet skal bruge visum, afhænger stadig af din nationalitet, præcis som før.
 
-**Du har hverken brug for forsikring eller kontoudtog på grund af EES.** Nogle tidlige nyhedshistorier skabte forvirring om dette, men EES registrerer ind- og udrejser - intet mere og intet andet. Forsikringskrav hører til bestemte visumtyper, ikke til grænsesystemet.
+**Du har hverken brug for forsikring eller kontoudtog på grund af EES.** Nogle tidlige nyhedshistorier skabte forvirring om dette, men EES registrerer ind- og udrejser – intet mere og intet andet. Forsikringskrav hører til bestemte visumtyper, ikke til grænsesystemet.
 
-**ETIAS er et helt separat system.** Det er en forhåndstilladelse for visumfrie rejsende, som lanceres senere - den præcise dato er endnu ikke offentliggjort. Når det kommer, ansøger du online, før du flyver, nogenlunde som USA's ESTA. Vores [ETIAS-guide](https://traveldocumentvault.com/da/blog/etias-documents-2026/) forklarer, hvad du skal forberede. Indtil videre er EES det system, du reelt møder ved grænsen.
+**ETIAS er et helt separat system.** Det er en forhåndstilladelse for visumfrie rejsende, som lanceres senere – den præcise dato er endnu ikke offentliggjort. Når det kommer, ansøger du online, før du flyver, nogenlunde som USA's ESTA. Vores [ETIAS-guide](https://traveldocumentvault.com/da/blog/etias-documents-2026/) forklarer, hvad du skal forberede. Indtil videre er EES det system, du reelt møder ved grænsen.
 
 ## Et skridt foran grænsen
 
-Den digitale grænse er grundig, automatisk og usentimental, men at holde sig inden for 90/180-reglen har aldrig handlet om grænsen - det handler om at kende sine egne datoer, før man booker. Hold din rejsehistorik et pålideligt sted, regn tallene igennem, før du binder dig til en rejse, og betragt optællingen som en del af planlægningen frem for noget, du skal rekonstruere ved gaten. EES står for håndhævelsen. Planlægningen er stadig din, og det er den billigere halvdel at få ret.
+Den digitale grænse er grundig, automatisk og usentimental, men at holde sig inden for 90/180-reglen har aldrig handlet om grænsen – det handler om at kende sine egne datoer, før man booker. Hold din rejsehistorik et pålideligt sted, regn tallene igennem, før du binder dig til en rejse, og betragt optællingen som en del af planlægningen frem for noget, du skal rekonstruere ved gaten. EES står for håndhævelsen. Planlægningen er stadig din, og det er den billigere halvdel at få ret.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
@@ -76,11 +76,11 @@ Nej. EES skaber ikke noget nyt visum- eller forsikringskrav. Det erstatter passt
 
 ### Er ETIAS det samme som EES?
 
-Nej. EES er i drift nu og registrerer din ind- og udrejse ved grænsen. ETIAS er en separat forhåndstilladelse for visumfrie rejsende, som lanceres senere - den præcise dato er ikke offentliggjort. Du søger ikke om EES; det sker automatisk ved grænsen.
+Nej. EES er i drift nu og registrerer din ind- og udrejse ved grænsen. ETIAS er en separat forhåndstilladelse for visumfrie rejsende, som lanceres senere – den præcise dato er ikke offentliggjort. Du søger ikke om EES; det sker automatisk ved grænsen.
 
 ### Hvordan hjælper Travel Document Vault med 90/180-reglen?
 
-Appen tæller dage pr. person, pr. land, på tværs af alle dine rejser, og fremskriver dit rullende vindue, før du booker. Den læser ikke dit EES-register - det kan ingen app - men den anvender den officielle 90/180-beregning på dine rejsedatoer, så alle familiemedlemmers resterende dage kan ses med det samme.
+Appen tæller dage pr. person, pr. land, på tværs af alle dine rejser, og fremskriver dit rullende vindue, før du booker. Den læser ikke dit EES-register – det kan ingen app – men den anvender den officielle 90/180-beregning på dine rejsedatoer, så alle familiemedlemmers resterende dage kan ses med det samme.
 
 ## Relaterede artikler
 

@@ -10,13 +10,13 @@ Source: https://traveldocumentvault.com/de/blog/what-documents-to-carry-when-tra
 
 ## Wichtigste Erkenntnisse
 
-- Die meisten Reisenden vergessen Zustimmungsschreiben für Kinder, Impfnachweise, Unterkunftsbestätigungen und Nachweise über die Weiterreise - Begleitdokumente, die Einwanderungsbeamte am Schalter überprüfen.
-- Mitnehmen sollten Sie: Reisepass, Visa, Bordkarten und Zustimmungsschreiben. Speichern Sie digitale Kopien separat auf Ihrem Telefon - verschlüsselt und offline.
+- Die meisten Reisenden vergessen Zustimmungsschreiben für Kinder, Impfnachweise, Unterkunftsbestätigungen und Nachweise über die Weiterreise – Begleitdokumente, die Einwanderungsbeamte am Schalter überprüfen.
+- Mitnehmen sollten Sie: Reisepass, Visa, Bordkarten und Zustimmungsschreiben. Speichern Sie digitale Kopien separat auf Ihrem Telefon – verschlüsselt und offline.
 - Reiseversicherungspolicennummern, Nummern der Versicherer und Versicherungsdetails sollten sowohl in physischer Form als auch in einer offline digitalen Sicherung vorhanden sein, auf die Sie ohne Internet zugreifen können.
 - Viele Länder erwarten ein **Zustimmungsschreiben** für ein Kind, das mit nur einem Elternteil reist. Ohne dieses riskieren Sie, dass Sie nicht einsteigen dürfen.
 - Offline digitale Kopien, die separat von physischen Dokumenten aufbewahrt werden, sind Ihr bester Schutz, wenn Ihr Gepäck im Ausland verloren geht oder gestohlen wird.
 
-Reisende stellen oft erst am Flughafen fest, dass sie Zustimmungsschreiben, Impfzertifikate, Unterkunftsbestätigungen und Nachweise über die Rückreise übersehen haben - Dokumente, die weniger dringend wirken als ein Reisepass, aber genauso wichtig sind.
+Reisende stellen oft erst am Flughafen fest, dass sie Zustimmungsschreiben, Impfzertifikate, Unterkunftsbestätigungen und Nachweise über die Rückreise übersehen haben – Dokumente, die weniger dringend wirken als ein Reisepass, aber genauso wichtig sind.
 
 Eine vollständige Checkliste aller Dokumente, die Sie möglicherweise je nach Reisetyp und Phase benötigen, finden Sie in der [vollständigen Checkliste für Reisedokumente](https://traveldocumentvault.com/de/blog/travel-document-checklist/). Dieser Artikel geht auf das ein, was häufig vergessen wird, und wie Sie sich auf den Verlust von Dokumenten im Ausland vorbereiten.
 
@@ -26,19 +26,19 @@ Reisepass und Visum wirken dringend, also werden sie zuerst eingepackt. Aber Ein
 
 ### Nachweis der Weiterreise
 
-Überraschend viele Länder möchten einen Nachweis, dass Sie planen, das Land zu verlassen - ein Rückflug, eine Buchung zu einem anderen Land oder selbst ein Bus- oder Fährticket reicht normalerweise aus. Wenn Sie eine Kopie in Ihrem Handgepäck aufbewahren, vermeiden Sie Verzögerungen bei der Einwanderungskontrolle.
+Überraschend viele Länder möchten einen Nachweis, dass Sie planen, das Land zu verlassen – ein Rückflug, eine Buchung zu einem anderen Land oder selbst ein Bus- oder Fährticket reicht normalerweise aus. Wenn Sie eine Kopie in Ihrem Handgepäck aufbewahren, vermeiden Sie Verzögerungen bei der Einwanderungskontrolle.
 
 ### Unterkunftsbestätigungen
 
-Einige Länder möchten einen Nachweis Ihrer ersten Nacht Unterkunft sehen, ob es sich um eine Hotelbestätigung, Airbnb oder Herberge handelt. Der Beamte möchte einen Nachweis, dass Sie einen Platz zum Übernachten haben. Laden Sie eine Kopie offline auf Ihr Telefon herunter - E-Mail hilft nicht an der Grenze.
+Einige Länder möchten einen Nachweis Ihrer ersten Nacht Unterkunft sehen, ob es sich um eine Hotelbestätigung, Airbnb oder Herberge handelt. Der Beamte möchte einen Nachweis, dass Sie einen Platz zum Übernachten haben. Laden Sie eine Kopie offline auf Ihr Telefon herunter – E-Mail hilft nicht an der Grenze.
 
 ### Impfzertifikate
 
-Einige Ziele erfordern einen Impfnachweis gegen Gelbfieber oder andere Krankheiten, und die Anforderungen ändern sich regelmäßig je nach Ziel. Überprüfen Sie die WHO-Reiseratschläge 6-8 Wochen vor der Reise - nicht am Vorabend -, da einige Länder nur offizielle WHO-Gelbfieberzertifikate akzeptieren, keine Fotokopien oder digitalen Fotos.
+Einige Ziele erfordern einen Impfnachweis gegen Gelbfieber oder andere Krankheiten, und die Anforderungen ändern sich regelmäßig je nach Ziel. Überprüfen Sie die WHO-Reiseratschläge 6-8 Wochen vor der Reise – nicht am Vorabend –, da einige Länder nur offizielle WHO-Gelbfieberzertifikate akzeptieren, keine Fotokopien oder digitalen Fotos.
 
 ### Reiseversicherungsdetails
 
-Sie benötigen sofortigen Zugriff auf Ihre Policennummer, Kontaktdaten des Versicherers und Ihre 24-Stunden-Notfallhotline. Einige Visatypen erfordern explizit einen Nachweis der Reiseversicherung - Schengen-Visumantrag zum Beispiel erfordern eine Versicherung, die medizinische Notfallversorgung und Krankenhaus abdeckt. Aber noch wichtiger: Falls etwas im Ausland schiefgeht, benötigen Sie diese Details ohne E-Mail oder Internet.
+Sie benötigen sofortigen Zugriff auf Ihre Policennummer, Kontaktdaten des Versicherers und Ihre 24-Stunden-Notfallhotline. Einige Visatypen erfordern explizit einen Nachweis der Reiseversicherung – Schengen-Visumantrag zum Beispiel erfordern eine Versicherung, die medizinische Notfallversorgung und Krankenhaus abdeckt. Aber noch wichtiger: Falls etwas im Ausland schiefgeht, benötigen Sie diese Details ohne E-Mail oder Internet.
 
 ### Zustimmungsschreiben für Kinder
 
@@ -68,11 +68,11 @@ Grenzen erfordern Original-Dokumente, aber wenn diese verschwinden, helfen siche
 - Das Zustimmungsschreiben für Kinder, falls Sie eines mitnehmen
 - Notfallnummern Ihrer Botschaft
 
-Speichern Sie diese auf Ihrem Telefon mit einer Offline-verschlüsselten App - nicht in Ihrem Kameraverlauf, nicht in Google Fotos, nicht in iCloud. Falls Ihre physischen Dokumente verloren gehen, haben Sie immer noch alles, was Sie brauchen, um Ihre Botschaft zu kontaktieren und Ihre Identität zu beweisen.
+Speichern Sie diese auf Ihrem Telefon mit einer Offline-verschlüsselten App – nicht in Ihrem Kameraverlauf, nicht in Google Fotos, nicht in iCloud. Falls Ihre physischen Dokumente verloren gehen, haben Sie immer noch alles, was Sie brauchen, um Ihre Botschaft zu kontaktieren und Ihre Identität zu beweisen.
 
 ## So halten Sie Reiseversicherungsdetails verfügbar
 
-Die meisten Reisenden schließen eine Reiseversicherung ab, vergessen aber, die Versicherungsdetails sofort verfügbar zu machen - was bedeutet, dass im Notfall oder bei verlorenem Gepäck im Ausland Sie sich durch E-Mails durcharbeiten, anstatt Hilfe zu rufen. Unser Leitfaden dazu, [welche Reiseversicherungsdokumente Sie vor der Abreise sichern sollten](https://traveldocumentvault.com/de/blog/travel-insurance-documents/), zeigt, was Sie aufbewahren sollten und wo.
+Die meisten Reisenden schließen eine Reiseversicherung ab, vergessen aber, die Versicherungsdetails sofort verfügbar zu machen – was bedeutet, dass im Notfall oder bei verlorenem Gepäck im Ausland Sie sich durch E-Mails durcharbeiten, anstatt Hilfe zu rufen. Unser Leitfaden dazu, [welche Reiseversicherungsdokumente Sie vor der Abreise sichern sollten](https://traveldocumentvault.com/de/blog/travel-insurance-documents/), zeigt, was Sie aufbewahren sollten und wo.
 
 Besondere Details, die Sie zur Hand haben sollten, sowohl in Papierform als auch digital:
 
@@ -93,11 +93,11 @@ Ein Zustimmungsschreiben sollte normalerweise den vollständigen Namen des Kinde
 
 Was das in der Praxis bedeutet
 
-Sie steigen mit Ihrem 8-jährigen Kind in einen Flug nach Kanada, und Ihr Partner reist nicht mit. Das Check-in-Personal kann das Einsteigen Ihres Kindes verweigern, wenn Sie keine schriftliche Zustimmung von Ihrem abwesenden Partner vorweisen können, vorzugsweise notariell beglaubigt. Wenn Ihr Kind stattdessen mit seinen Großeltern reist, müssen normalerweise beide Eltern das Zustimmungsschreiben unterzeichnen - die Genehmigung eines Elternteils allein reicht normalerweise nicht aus. Überprüfen Sie immer die genauen Anforderungen für Ihr Ziel lange vor Ihrer Abreise.
+Sie steigen mit Ihrem 8-jährigen Kind in einen Flug nach Kanada, und Ihr Partner reist nicht mit. Das Check-in-Personal kann das Einsteigen Ihres Kindes verweigern, wenn Sie keine schriftliche Zustimmung von Ihrem abwesenden Partner vorweisen können, vorzugsweise notariell beglaubigt. Wenn Ihr Kind stattdessen mit seinen Großeltern reist, müssen normalerweise beide Eltern das Zustimmungsschreiben unterzeichnen – die Genehmigung eines Elternteils allein reicht normalerweise nicht aus. Überprüfen Sie immer die genauen Anforderungen für Ihr Ziel lange vor Ihrer Abreise.
 
 ## Der Fall für Offline-Digitalkopien
 
-Physische Dokumente helfen, bis ein Dieb Ihre Tasche nimmt - und nimmt normalerweise die Kopien zusammen mit den Originalen. Eine separate verschlüsselte Sicherung auf Ihrem Telefon - offline gehalten - ist Ihre echte Versicherung, falls die Originale verschwinden.
+Physische Dokumente helfen, bis ein Dieb Ihre Tasche nimmt – und nimmt normalerweise die Kopien zusammen mit den Originalen. Eine separate verschlüsselte Sicherung auf Ihrem Telefon – offline gehalten – ist Ihre echte Versicherung, falls die Originale verschwinden.
 
 Wenn Ihre Botschaft ein Notfall-Reisedokument ausstellen muss, gibt Ihnen eine sichere Sicherung sofort Ihre Reisepassnummer, Ausstellungsdatum, Ausstellungsort und Ablaufdatum ohne Internetzugang. Weitere Informationen zu den verfügbaren Optionen finden Sie in unserem Überblick über [sichere Speicherung von Reisepass-Kopien](https://traveldocumentvault.com/de/blog/is-it-safe-to-store-passport-in-google-photos/) und die Kompromisse zwischen verschiedenen Ansätzen.
 
@@ -119,7 +119,7 @@ Ja, in vielen Ländern wird es erwartet. Wenn ein Kind international mit nur ein
 
 ### Sollte ich digitale Kopien meiner Dokumente haben?
 
-Ja. Speichern Sie verschlüsselte Offline-Kopien auf Ihrem Telefon - nicht in Ihrem Kameraverlauf oder in der Cloud-Speicherung. Falls Ihre physischen Dokumente verloren gehen oder im Ausland gestohlen werden, ermöglichen diese Sicherungen Ihrer Botschaft, ein Notfall-Reisedokument viel schneller auszustellen. Sie sollten Reisepassnummer, Ausstellungsdatum, Ausstellungsort, Versicherungspolice-Nummer und Buchungsreferenzen enthalten.
+Ja. Speichern Sie verschlüsselte Offline-Kopien auf Ihrem Telefon – nicht in Ihrem Kameraverlauf oder in der Cloud-Speicherung. Falls Ihre physischen Dokumente verloren gehen oder im Ausland gestohlen werden, ermöglichen diese Sicherungen Ihrer Botschaft, ein Notfall-Reisedokument viel schneller auszustellen. Sie sollten Reisepassnummer, Ausstellungsdatum, Ausstellungsort, Versicherungspolice-Nummer und Buchungsreferenzen enthalten.
 
 ### Was passiert, wenn ich am Flughafen ankomme, ohne ein erforderliches Dokument?
 

@@ -16,13 +16,13 @@ Verdadera privacidad significa que tú, y solo tú, puedes leer tus datos.
 
 Tu bóveda se cifra en tu dispositivo usando AES-256-GCM. La clave de cifrado se deriva de tu código de recuperación usando PBKDF2 con 600,000 iteraciones.
 
-AES-256-GCM es cifrado sólido y moderno, y el código de recuperación nunca sale de tus manos. Aún deberías proteger tu teléfono con una contraseña fuerte y App Lock - el cifrado protege el archivo, tu contraseña protege el teléfono.
+AES-256-GCM es cifrado sólido y moderno, y el código de recuperación nunca sale de tus manos. Aún deberías proteger tu teléfono con una contraseña fuerte y App Lock —el cifrado protege el archivo, tu contraseña protege el teléfono.
 
 2
 
 ### Sube a Tu Nube
 
-La copia de seguridad cifrada va a tu cuenta personal de iCloud o Google Drive, no a nuestros servidores - es tu nube y tu cuenta.
+La copia de seguridad cifrada va a tu cuenta personal de iCloud o Google Drive, no a nuestros servidores —es tu nube y tu cuenta.
 
 Puedes ver y administrar tus copias de seguridad directamente en tu iCloud o Google Drive. Tienes control total.
 
@@ -30,9 +30,9 @@ Puedes ver y administrar tus copias de seguridad directamente en tu iCloud o Goo
 
 ### Solo Tú Tienes la Clave
 
-Tu código de recuperación es la clave para descifrar tus copias de seguridad, y nunca sale de tu dispositivo - nunca nos lo envías, ni a Apple, ni a Google.
+Tu código de recuperación es la clave para descifrar tus copias de seguridad, y nunca sale de tu dispositivo —nunca nos lo envías, ni a Apple, ni a Google.
 
-Guarda tu código de recuperación en un lugar seguro, porque sin él incluso nosotros no podemos recuperar tus datos - esto es intencional, no un error.
+Guarda tu código de recuperación en un lugar seguro, porque sin él incluso nosotros no podemos recuperar tus datos —esto es intencional, no un error.
 
 4
 
@@ -68,7 +68,7 @@ Múltiples capas de seguridad se interponen entre un toque accidental y la pérd
 
 Tu código de recuperación es la única clave para descifrar tu copia de seguridad. Tenemos un diseño de conocimiento cero, lo que significa que no podemos restablecerlo por ti. Si lo pierdes, tu copia de seguridad se vuelve irrecuperable.
 
-Guarda tu código de recuperación en un lugar seguro antes de depender de la copia de seguridad en la nube - ya sea un gestor de contraseñas, una copia impresa en un lugar seguro, o ambas - y verifica que puedas leerla de nuevo antes de guardarla como tu única copia.
+Guarda tu código de recuperación en un lugar seguro antes de depender de la copia de seguridad en la nube —ya sea un gestor de contraseñas, una copia impresa en un lugar seguro, o ambas— y verifica que puedas leerla de nuevo antes de guardarla como tu única copia.
 
 ### Requisitos del Dispositivo
 

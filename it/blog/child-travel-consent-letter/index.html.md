@@ -18,11 +18,11 @@ Source: https://traveldocumentvault.com/it/blog/child-travel-consent-letter/
 
 Una lettera di consenso svolge un solo compito al banco della compagnia aerea: dimostra che l'adulto che viaggia con un minore ha l'accordo del genitore assente. La maggior parte viene accettata senza commenti. Quelle che causano un ritardo cedono di solito su un dettaglio più che sulla sostanza, e il più frequente è un numero di passaporto cambiato all'ultimo rinnovo del minore.
 
-Questo scenario - e migliaia di scenari simili - accade perché le lettere di consenso per i viaggi di minori sono uno dei documenti di viaggio più fraintesi. Le regole variano notevolmente da un paese all'altro, e una lettera che funziona bene in un viaggio può fallire al confine nel prossimo. Sapere esattamente quando una è richiesta, cosa deve contenere e come mantenerla valida previene i motivi più comuni per cui le famiglie vengono fermate al confine.
+Questo scenario — e migliaia di scenari simili — accade perché le lettere di consenso per i viaggi di minori sono uno dei documenti di viaggio più fraintesi. Le regole variano notevolmente da un paese all'altro, e una lettera che funziona bene in un viaggio può fallire al confine nel prossimo. Sapere esattamente quando una è richiesta, cosa deve contenere e come mantenerla valida previene i motivi più comuni per cui le famiglie vengono fermate al confine.
 
 ## Chi Davvero Serve una Lettera di Consenso per il Viaggio di un Minore?
 
-Dipende interamente dalla tua destinazione - non esiste uno standard globale, ecco perché tante famiglie rimangono sorprese.
+Dipende interamente dalla tua destinazione — non esiste uno standard globale, ecco perché tante famiglie rimangono sorprese.
 
 Una lettera è comunemente richiesta in queste situazioni:
 
@@ -37,7 +37,7 @@ Verifica sempre i requisiti direttamente con l'autorità immigrazione del tuo pa
 
 ## Cosa Deve Contenere la Lettera
 
-Una lettera di consenso per il viaggio di un minore non è un'annotazione casuale - è un documento formale, spesso autenticato, che deve contenere informazioni specifiche. Ogni lettera dovrebbe includere:
+Una lettera di consenso per il viaggio di un minore non è un'annotazione casuale — è un documento formale, spesso autenticato, che deve contenere informazioni specifiche. Ogni lettera dovrebbe includere:
 
 - **Nome completo del minore e data di nascita**, esattamente come stampato sul passaporto.
 - **Numero di passaporto del minore.**
@@ -49,7 +49,7 @@ Una lettera di consenso per il viaggio di un minore non è un'annotazione casual
 - **Firma(e) del genitore/i assente(i)**, con data.
 - **Autenticazione o certificazione**, se richiesta dalla destinazione.
 
-Scrivi la lettera in linguaggio formale - evita frasi vaghe come "mio figlio può viaggiare quando vuole". Gli ufficiali di frontiera devono vedere che il genitore assente autorizza esplicitamente questo viaggio specifico, in queste date specifiche, in questi posti specifici. Per esempio, potresti scrivere: "Io, [Nome Completo], per questo concedo il permesso a mio figlio [Nome Completo del Minore], numero di passaporto [numero], di viaggiare verso [destinazione(i)] partendo il [data] e ritornando il [data], accompagnato da [Nome e Relazione dell'Adulto che Accompagna]."
+Scrivi la lettera in linguaggio formale — evita frasi vaghe come "mio figlio può viaggiare quando vuole". Gli ufficiali di frontiera devono vedere che il genitore assente autorizza esplicitamente questo viaggio specifico, in queste date specifiche, in questi posti specifici. Per esempio, potresti scrivere: "Io, [Nome Completo], per questo concedo il permesso a mio figlio [Nome Completo del Minore], numero di passaporto [numero], di viaggiare verso [destinazione(i)] partendo il [data] e ritornando il [data], accompagnato da [Nome e Relazione dell'Adulto che Accompagna]."
 
 Alcuni ufficiali di frontiera chiameranno il numero di contatto fornito per verificare il consenso. Assicurati che quel numero sia corretto, che sia risposto dalla persona designata, e che possa confermare il permesso durante la chiamata. Se non puoi garantire che qualcuno risponda durante l'orario di frontiera, elenca un contatto alternativo e annotalo nella lettera.
 

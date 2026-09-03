@@ -28,7 +28,7 @@ Sowohl die Fotoseite als auch die Datenseite erfassen. Der MRZ-Scan liest die ma
 
 ### Verschlüsselte Speicherung
 
-Dokumente werden mit AES-256-GCM auf dem Gerät verschlüsselt. Dateien sind ohne Ihre Entschlüsselungsschlüssel nicht lesbar - auch wenn jemand physischen Zugriff auf Ihr Gerät erhält.
+Dokumente werden mit AES-256-GCM auf dem Gerät verschlüsselt. Dateien sind ohne Ihre Entschlüsselungsschlüssel nicht lesbar – auch wenn jemand physischen Zugriff auf Ihr Gerät erhält.
 
 ### Ausweise & Führerscheine
 
@@ -78,7 +78,7 @@ Geschenkgutscheine, Rabattcodes, Veranstaltungstickets und Attraktionspässe spe
 
 ### Erinnerungen Zurückstellen
 
-Pausieren Sie jede Ablauferinnerung, ohne das Dokument zu bearbeiten. Stellen Sie die Erinnerung für einen Tag, eine Woche oder einen Monat zurück - die Erinnerung wird automatisch fortgesetzt, wenn die Zurückstellungszeit endet.
+Pausieren Sie jede Ablauferinnerung, ohne das Dokument zu bearbeiten. Stellen Sie die Erinnerung für einen Tag, eine Woche oder einen Monat zurück – die Erinnerung wird automatisch fortgesetzt, wenn die Zurückstellungszeit endet.
 
 ### Dokumente Farblich Kennzeichnen
 
@@ -130,7 +130,7 @@ Die durchschnittliche Passverlängerung dauert **6-8 Wochen**. Wir erinnern Sie 
 
 1 Woche 2 Tage 1 Tag 24 Stunden Reisetag
 
-**Erinnerungen nach Ablauf** (in Orange) helfen Ihnen, abgelaufene Dokumente im Blick zu behalten. Auch wenn Sie das Ablaufdatum verpasst haben, erhalten Sie weiterhin Verlängerungserinnerungen - ideal zum Erkennen von Dokumenten, die während der Reise ablaufen.
+**Erinnerungen nach Ablauf** (in Orange) helfen Ihnen, abgelaufene Dokumente im Blick zu behalten. Auch wenn Sie das Ablaufdatum verpasst haben, erhalten Sie weiterhin Verlängerungserinnerungen – ideal zum Erkennen von Dokumenten, die während der Reise ablaufen.
 
 Familienprofile
 
@@ -182,7 +182,7 @@ Pro
 
 ### Reisezulagen
 
-Legen Sie benutzerdefinierte Tagesgrenzen-Schwellenwerte pro Land und pro Familienmitglied fest. Setzen Sie Ihre eigenen Ziele, um zu verfolgen, wie viele Tage Sie im Ausland verbracht haben - nach Ihren Reiseregeln.
+Legen Sie benutzerdefinierte Tagesgrenzen-Schwellenwerte pro Land und pro Familienmitglied fest. Setzen Sie Ihre eigenen Ziele, um zu verfolgen, wie viele Tage Sie im Ausland verbracht haben – nach Ihren Reiseregeln.
 
 Pro
 
@@ -194,7 +194,7 @@ Pro
 
 ### Gate Ready
 
-Fügen Sie Flugnummern, Hotelbestätigungen und Buchungsreferenzen zu jeder Reise hinzu. Dokumente und Buchungen an einem Ort - tippen Sie einmal beim Check-in. Nichts zum Suchen am Gate.
+Fügen Sie Flugnummern, Hotelbestätigungen und Buchungsreferenzen zu jeder Reise hinzu. Dokumente und Buchungen an einem Ort – tippen Sie einmal beim Check-in. Nichts zum Suchen am Gate.
 
 ### Bereit, Ihre Reisevorbereitung zu meistern
 
@@ -238,7 +238,7 @@ Datenschutz & Sicherheit
 
 ### Ihre Daten bleiben Ihre Daten
 
-Wir haben dies so gestaltet, dass Sie uns Ihre Daten nicht anvertrauen müssen - wir haben keine Server und keinen Zugriff, daher bleiben Ihre Daten standardmäßig auf Ihrem Gerät. Wenn Sie sich für optionales Pro-Backup zu Ihrer eigenen iCloud oder Google Drive entscheiden, ist es mit einem Wiederherstellungscode versiegelt, den nur Sie kennen - einen wir immer noch nicht lesen können.
+Wir haben dies so gestaltet, dass Sie uns Ihre Daten nicht anvertrauen müssen – wir haben keine Server und keinen Zugriff, daher bleiben Ihre Daten standardmäßig auf Ihrem Gerät. Wenn Sie sich für optionales Pro-Backup zu Ihrer eigenen iCloud oder Google Drive entscheiden, ist es mit einem Wiederherstellungscode versiegelt, den nur Sie kennen – einen wir immer noch nicht lesen können.
 
 ### Funktioniert offline
 
@@ -324,7 +324,7 @@ Teilen Sie mehrere Originaldokument-Dateien auf einmal über das Teilen-Menü Ih
 
 #### Sicheres Löschen mit Rückgängig
 
-Versehentlich ein Dokument gelöscht? Tippen Sie sofort auf Rückgängig, um es wiederherzustellen. Das Fenster verpasst? Es wird zu Kürzlich gelöscht verschoben, wo es 30 Tage lang bleibt, bevor es dauerhaft gelöscht wird - was Ihnen ein Sicherheitsnetz bietet, ohne Ihre Privatsphäre zu gefährden.
+Versehentlich ein Dokument gelöscht? Tippen Sie sofort auf Rückgängig, um es wiederherzustellen. Das Fenster verpasst? Es wird zu Kürzlich gelöscht verschoben, wo es 30 Tage lang bleibt, bevor es dauerhaft gelöscht wird – was Ihnen ein Sicherheitsnetz bietet, ohne Ihre Privatsphäre zu gefährden.
 
 **Wichtig:** Travel Document Vault ist ein persönliches Organisationstool zum Speichern digitaler Kopien Ihrer Dokumente. **In dieser App gespeicherte digitale Kopien sind NICHT für Reisen gültig.** Die App überprüft keine Dokumentenauthentizität und bietet keine Rechts- oder Reiseberatung. Führen Sie stets Originaldokumente mit sich und überprüfen Sie alle Reiseanforderungen bei offiziellen Regierungsstellen.
 

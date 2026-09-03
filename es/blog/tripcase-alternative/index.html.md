@@ -11,10 +11,10 @@ Source: https://traveldocumentvault.com/es/blog/tripcase-alternative/
 ## Puntos clave
 
 - **TripCase cerró el 1 de abril de 2025** después de 12 años, y Sabre eliminó todos los datos de viajes de los usuarios restantes después de que se cerró la ventana de exportación el 30 de junio de 2025.
-- Su **Document Vault** - un hogar seguro para pasaportes, visas y tarjetas de embarque - es la característica que más extrañan los ex usuarios.
+- Su **Document Vault** —un hogar seguro para pasaportes, visas y tarjetas de embarque— es la característica que más extrañan los ex usuarios.
 - **Ninguna sola aplicación reemplaza TripCase.** Las alertas de vuelos, el análisis de itinerarios y el almacenamiento de documentos ahora viven en diferentes herramientas.
 - La lección real: un servicio en la nube gratuito mantiene **tus datos en tiempo prestado**. Puede desaparecer con apenas 60 días de aviso.
-- Los documentos de viaje pertenecen **offline, en tu dispositivo** - en algún lugar donde ninguna decisión de empresa, apagón o cierre pueda alcanzarlos.
+- Los documentos de viaje pertenecen **offline, en tu dispositivo** —en algún lugar donde ninguna decisión de empresa, apagón o cierre pueda alcanzarlos.
 
 TripCase pasó doce años como el caballo de batalla silencioso de las aplicaciones de viaje. Reenvía un correo de confirmación y tu viaje se construye a sí mismo; la aplicación te avisaba sobre cambios de puerta antes que algunas aerolíneas; y su Document Vault guardaba pasaportes, visas y tarjetas de embarque en un solo lugar. Luego, el 1 de abril de 2025, Sabre lo cerró, y una vez que se cerró la ventana de exportación el 30 de junio, el historial de viajes y documentos de cada usuario fueron purgados de sus servidores.
 
@@ -30,11 +30,11 @@ Cuando llegó el cierre, los usuarios tenían hasta el 30 de junio de 2025 para 
 
 TripCase no inventó mucho, pero perfeccionó un puñado de flujos de trabajo, y su desaparición mostró cuánto dependían de ellos.
 
-Su núcleo era **el análisis de correo electrónico a itinerario** - reenvía cualquier confirmación de aerolínea, hotel o alquiler de auto y la aplicación la reunía en un viaje cronológico con fechas y referencias de reserva. Sin entrada manual significaba un itinerario completo en segundos, que es exactamente por qué la gente se quedó durante una década.
+Su núcleo era **el análisis de correo electrónico a itinerario** —reenvía cualquier confirmación de aerolínea, hotel o alquiler de auto y la aplicación la reunía en un viaje cronológico con fechas y referencias de reserva. Sin entrada manual significaba un itinerario completo en segundos, que es exactamente por qué la gente se quedó durante una década.
 
 **Las alertas de vuelos en tiempo real** llegaron junto a eso: retrasos, cambios de puerta y cancelaciones a menudo antes de la notificación de la propia aerolínea. TripIt ahora cobra por su nivel Pro para obtener el equivalente, mientras TripCase ofrecía la característica a todos gratis.
 
-Esos vuelos, hoteles y transporte terrestre vivían en **la cronología de viajes** - una pila desplazable por viaje. Simple, pero si alguna vez has manejado una semana de varias ciudades desde una docena de correos de confirmación, entiendes por qué importaba. En hilos de foros en FlyerTalk y en otros lugares, los ex usuarios consistentemente mencionan el **Document Vault** como la pieza más perdida - ese único hogar seguro para tarjetas de embarque, visas, pasaportes y confirmaciones. Finalmente, **el intercambio de viajes** permitía que miembros de la familia o colegas siguieran sin correos reenviados.
+Esos vuelos, hoteles y transporte terrestre vivían en **la cronología de viajes** —una pila desplazable por viaje. Simple, pero si alguna vez has manejado una semana de varias ciudades desde una docena de correos de confirmación, entiendes por qué importaba. En hilos de foros en FlyerTalk y en otros lugares, los ex usuarios consistentemente mencionan el **Document Vault** como la pieza más perdida —ese único hogar seguro para tarjetas de embarque, visas, pasaportes y confirmaciones. Finalmente, **el intercambio de viajes** permitía que miembros de la familia o colegas siguieran sin correos reenviados.
 
 ## La lección incómoda
 
@@ -42,7 +42,7 @@ Cuando construyes tu vida de viaje alrededor de una aplicación en la nube gratu
 
 Nada de esto es malicia; es solo cómo funcionan las decisiones comerciales. Las aplicaciones de viaje se cierran regularmente, los niveles gratuitos se trasladan detrás de muros de pago, y los servicios se descontinúan. La persona que no tiene voz en el cronograma eres tú.
 
-Los documentos de viaje tienen un peso diferente que las listas de reproducción perdidas. Un escaneo de pasaporte, una concesión de visa, prueba de entradas y salidas anteriores - perder estos puede complicar solicitudes de visa, reclamos de seguros y conversaciones fronterizas durante años. Por lo tanto, la historia de TripCase importa más allá de solo la nostalgia.
+Los documentos de viaje tienen un peso diferente que las listas de reproducción perdidas. Un escaneo de pasaporte, una concesión de visa, prueba de entradas y salidas anteriores —perder estos puede complicar solicitudes de visa, reclamos de seguros y conversaciones fronterizas durante años. Por lo tanto, la historia de TripCase importa más allá de solo la nostalgia.
 
 ## Un mapa honesto de reemplazo
 
@@ -56,13 +56,13 @@ TripCase empaquetaba varios trabajos diferentes en una sola aplicación gratuita
 | Almacenamiento de documentos de viaje | El Document Vault: pasaportes, visas, tarjetas de embarque | Travel Document Vault | Compra única, sin suscripción |
 | Intercambio de viajes | Los seguidores veían tu itinerario en vivo | Intercambio de TripIt, o una carpeta compartida | Gratuito |
 
-Las alertas de vuelos y el análisis de itinerarios son comodidades - genuinamente útiles - y pertenecen a la nube porque solo importan mientras un viaje está en vivo. El almacenamiento de documentos, sin embargo, es diferente: es el único trabajo donde perder acceso realmente te cuesta algo que no puedes reprogramar.
+Las alertas de vuelos y el análisis de itinerarios son comodidades —genuinamente útiles— y pertenecen a la nube porque solo importan mientras un viaje está en vivo. El almacenamiento de documentos, sin embargo, es diferente: es el único trabajo donde perder acceso realmente te cuesta algo que no puedes reprogramar.
 
 ## Por qué offline importa para documentos de viaje
 
 Un pasaporte es identidad, una visa es permiso, y una ID es prueba. Estos documentos deciden si una frontera te deja pasar y si un reclamo se paga, lo que los pone en una categoría diferente de cualquier otra cosa que una aplicación de viaje sostiene.
 
-Guardarlos en un servicio en la nube significa aceptar tres riesgos separados: el servicio puede cerrar, como lo hizo TripCase; la empresa puede cambiar su modelo de privacidad o seguridad siempre que quiera; y necesitas una conexión más un login que funcione para alcanzar tus propios documentos - no una garantía en un cruce de frontera donde tu itinerancia se ha apagado silenciosamente.
+Guardarlos en un servicio en la nube significa aceptar tres riesgos separados: el servicio puede cerrar, como lo hizo TripCase; la empresa puede cambiar su modelo de privacidad o seguridad siempre que quiera; y necesitas una conexión más un login que funcione para alcanzar tus propios documentos —no una garantía en un cruce de frontera donde tu itinerancia se ha apagado silenciosamente.
 
 El almacenamiento offline-first elimina los tres a la vez. Los documentos viven en tu dispositivo, legibles sin señal y sin cuenta, y no hay servidor que nadie pueda apagar. Si estás sopesando dónde deben vivir las copias digitales, nuestra comparación de [iCloud, Google Photos y bóvedas cifradas](https://traveldocumentvault.com/es/blog/safest-way-to-store-passport-digitally/) analiza los compromisos en detalle.
 
@@ -96,7 +96,7 @@ No hay una sola aplicación que haga todo lo que TripCase hacía. La mayoría de
 
 ### ¿Debo mantener mis documentos de viaje en una aplicación en la nube?
 
-Depende del documento. Los servicios en la nube son convenientes para confirmaciones de reservas y referencias, que son reemplazables si un servicio cierra. Tus documentos de viaje reales - pasaporte, visa, ID, carnet de conducir - es mejor guardarlos offline en tu dispositivo, donde no dependen de que el servidor de una empresa siga en línea.
+Depende del documento. Los servicios en la nube son convenientes para confirmaciones de reservas y referencias, que son reemplazables si un servicio cierra. Tus documentos de viaje reales —pasaporte, visa, ID, carnet de conducir— es mejor guardarlos offline en tu dispositivo, donde no dependen de que el servidor de una empresa siga en línea.
 
 ## Artículos relacionados
 

@@ -28,9 +28,9 @@ Se avete ancora quel passaporto dipende interamente dal vostro paese e dal vostr
 
 Il rinnovo standard del passaporto americano per posta non richiede di consegnare il vostro passaporto attuale prima dell'arrivo di quello nuovo. Completate il modulo DS-82, allegato il vostro passaporto esistente, e spedite tutto al National Passport Processing Center. Il vostro vecchio passaporto viene restituito insieme a quello nuovo, tipicamente annullato con un foro di punzone.
 
-Ciò significa che i viaggi nazionali all'interno degli Stati Uniti non sono influenzati durante il processo di rinnovo - non avete bisogno di un passaporto per i voli nazionali. I viaggi internazionali sono una storia diversa: non potete viaggiare internazionalmente fino a quando il vostro nuovo passaporto non arriva, e non potete usare il vecchio passaporto annullato anche se lo avete in mano.
+Ciò significa che i viaggi nazionali all'interno degli Stati Uniti non sono influenzati durante il processo di rinnovo — non avete bisogno di un passaporto per i voli nazionali. I viaggi internazionali sono una storia diversa: non potete viaggiare internazionalmente fino a quando il vostro nuovo passaporto non arriva, e non potete usare il vecchio passaporto annullato anche se lo avete in mano.
 
-Il tempo di elaborazione standard cambia, e il Dipartimento di Stato pubblica la cifra attuale su travel.state.gov, quindi controllatela prima di pianificare. Se il vostro viaggio è prenotato prima della data in cui vi aspettate il nuovo passaporto, l'elaborazione accelerata è disponibile dietro compenso aggiuntivo e riduce sensibilmente l'attesa. Per i viaggi veramente urgenti, gli appuntamenti in persona sono disponibili presso agenzie passaporti regionali - controllate l'idoneità attuale su travel.state.gov.
+Il tempo di elaborazione standard cambia, e il Dipartimento di Stato pubblica la cifra attuale su travel.state.gov, quindi controllatela prima di pianificare. Se il vostro viaggio è prenotato prima della data in cui vi aspettate il nuovo passaporto, l'elaborazione accelerata è disponibile dietro compenso aggiuntivo e riduce sensibilmente l'attesa. Per i viaggi veramente urgenti, gli appuntamenti in persona sono disponibili presso agenzie passaporti regionali — controllate l'idoneità attuale su travel.state.gov.
 
 ## Regno Unito: Due processi con esiti opposti
 
@@ -52,7 +52,7 @@ L'Australian Passport Office pubblica i propri tempi di elaborazione attuali e r
 
 ## Canada: Consegnato al momento della domanda
 
-Il Canada richiede di consegnare il vostro passaporto esistente quando fate domanda per il rinnovo. Il vostro vecchio passaporto viene conservato fino a quando il nuovo non è pronto, quindi non potete viaggiare internazionalmente durante questo periodo - anche se i viaggi nazionali all'interno del Canada non richiedono un passaporto.
+Il Canada richiede di consegnare il vostro passaporto esistente quando fate domanda per il rinnovo. Il vostro vecchio passaporto viene conservato fino a quando il nuovo non è pronto, quindi non potete viaggiare internazionalmente durante questo periodo — anche se i viaggi nazionali all'interno del Canada non richiedono un passaporto.
 
 Service Canada pubblica i propri standard di elaborazione attuali, che variano a seconda che facciate domanda di persona, per posta o presso un Service Canada Centre, più il tempo di spedizione. Per i viaggi urgenti esistono opzioni di servizio espresso e ritiro urgente dietro compenso aggiuntivo. Controllate gli orari di elaborazione attuali e fate domanda su canada.ca.
 
@@ -82,7 +82,7 @@ La prova pratica è semplice. Se il passaporto è annullato, scaduto o si trova 
 
 ## Se il vostro viaggio è prima della vostra tempistica di rinnovo
 
-Non aspettate a contattare il servizio passaporti del vostro paese per telefono - chiedete specificamente informazioni su opzioni di rinnovo accelerato, urgente o appuntamento di emergenza. Questi esistono in ogni paese elencato qui, ma la disponibilità cambia di settimana in settimana e gli slot di appuntamento scompaiono rapidamente.
+Non aspettate a contattare il servizio passaporti del vostro paese per telefono — chiedete specificamente informazioni su opzioni di rinnovo accelerato, urgente o appuntamento di emergenza. Questi esistono in ogni paese elencato qui, ma la disponibilità cambia di settimana in settimana e gli slot di appuntamento scompaiono rapidamente.
 
 Contemporaneamente, contattate la vostra compagnia aerea in merito alla riprogrammazione. Alcuni vettori rinunceranno alle spese di modifica quando un problema genuino di documento è il motivo. Ottenete qualsiasi accordo per iscritto. Se avete un'assicurazione di viaggio, controllate la vostra polizza per la copertura dei costi derivanti da ritardi del passaporto o problemi di documenti.
 

@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/pt/blog/travel-insurance-documents/
 ## Pontos-Chave
 
 - **Guarde o documento da apólice completo, número da apólice e a linha de contacto de emergência 24 horas** (não o número de vendas).
-- Armazene cópias offline e acessivelmente - o email sozinho não ajuda quando está preso ou num hospital.
+- Armazene cópias offline e acessivelmente — o email sozinho não ajuda quando está preso ou num hospital.
 - **A pré-aprovação para tratamento médico é exigida pela maioria das apólices**; ignorá-la pode reduzir ou anular a reclamação.
 - As reclamações são rejeitadas mais frequentemente por falta de documentação: relatório policial para roubo, recibos originais, formulários de reclamação assinados.
 - Leia as secções-chave da sua apólice concentrando-se nos limites de cobertura, exclusões e condições.
@@ -24,14 +24,14 @@ São 2 da manhã em Bangkok e tem intoxicação alimentar e febre. A receção d
 
 Alguns documentos em falta não são apenas inconvenientes aqui. Decidem se o tratamento começa de imediato, se paga do seu bolso e reclama depois, ou se a reclamação é rejeitada completamente.
 
-O seguro de viagem só funciona se conseguir acedê-lo quando precisa. A maioria das pessoas guarda-o em email e não consegue encontrá-lo em crise - normalmente durante stress, pressão de tempo, ou uma emergência médica.
+O seguro de viagem só funciona se conseguir acedê-lo quando precisa. A maioria das pessoas guarda-o em email e não consegue encontrá-lo em crise — normalmente durante stress, pressão de tempo, ou uma emergência médica.
 
 ## Os Cinco Documentos Que Deve Guardar Antes de Partir
 
 A sua apólice de seguro de viagem é normalmente um PDF. Esse ficheiro único contém tudo o que precisa, mas deve extrair e guardar estas cinco coisas separadamente para conseguir encontrá-las instantaneamente:
 
 - Documento da apólice completo (o PDF)
-- Número da apólice (extraia-o - escreva-o separadamente também)
+- Número da apólice (extraia-o — escreva-o separadamente também)
 - Linha de contacto de emergência 24 horas (diferente do número de vendas ou de atendimento ao cliente)
 - Secção do que está coberto (limites de cobertura para médico, bagagem, cancelamento, etc.)
 - Exclusões e condições principais (incluindo requisitos de pré-aprovação)
@@ -58,7 +58,7 @@ Para cópia de segurança, guarde os seus documentos de seguro num disco na clou
 
 ### Cópia Física com os Seus Documentos de Viagem
 
-Guarde uma cópia física - ou uma fotografia de alta qualidade das páginas críticas - junto do seu passaporte, documentos de visto e outros papéis de viagem. Se o telemóvel morrer, isto é a sua rede de segurança.
+Guarde uma cópia física — ou uma fotografia de alta qualidade das páginas críticas — junto do seu passaporte, documentos de visto e outros papéis de viagem. Se o telemóvel morrer, isto é a sua rede de segurança.
 
 Um cartão escrito à mão funciona tão bem como uma impressão: número da apólice, nome da seguradora, linha de emergência. Coloque-o na carteira do passaporte e sobrevive a uma bateria fraca, um telemóvel perdido e um cofre do hotel que não consegue abrir.
 
@@ -78,7 +78,7 @@ Mesmo que tenha os seus documentos acessíveis, ainda pode perder a reclamação
 
 ### Reclamações Médicas: Não Obteve Pré-Aprovação
 
-A maioria das apólices de seguro de viagem exigem pré-aprovação antes do tratamento. Isto significa ligar à sua seguradora e obter aprovação antes de visitar um hospital ou clínica. Os requisitos variam por seguradora e tipo de apólice - verifique a secção de tratamento médico da sua apólice específica. Se ignorar este passo e pagar do seu bolso, frequentemente receberá rejeição com "o tratamento não foi pré-aprovado." Muitas seguradoras não reembolsarão sem pré-aprovação, mesmo que o tratamento fosse necessário e coberto.
+A maioria das apólices de seguro de viagem exigem pré-aprovação antes do tratamento. Isto significa ligar à sua seguradora e obter aprovação antes de visitar um hospital ou clínica. Os requisitos variam por seguradora e tipo de apólice — verifique a secção de tratamento médico da sua apólice específica. Se ignorar este passo e pagar do seu bolso, frequentemente receberá rejeição com "o tratamento não foi pré-aprovado." Muitas seguradoras não reembolsarão sem pré-aprovação, mesmo que o tratamento fosse necessário e coberto.
 
 Digamos que é hospitalizado com apendicite em Mumbai. O hospital precisa de pagamento antecipado ou uma garantia da sua seguradora, e tem uma janela de duas horas antes da cirurgia. Sem o número de pré-aprovação da sua seguradora, o hospital exige dinheiro. Isso deixa duas opções más: pagar agora e arriscar uma reclamação rejeitada meses depois, ou atrasar a cirurgia enquanto persegue a sua seguradora. Uma chamada evita tudo isto. Com um número de confirmação à mão, o hospital cobra a sua seguradora diretamente.
 

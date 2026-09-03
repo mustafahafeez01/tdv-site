@@ -12,9 +12,9 @@ Travel Document Vault vous offre trois niveaux de protection. Voici exactement c
 
 Vos documents résident sur votre appareil. Ils ne vont pas sur nos serveurs. Les trois mécanismes de sauvegarde servent chacun un objectif différent, et vous pouvez les utiliser tous les trois en même temps.
 
-- **Sauvegardes locales automatiques** - se font discrètement en arrière-plan, aucune action requise.
-- **Vault Export (.tdvault)** - un fichier chiffré portable que vous enregistrez où vous le souhaitez.
-- **Cloud Backup (Pro)** - une copie chiffrée automatique dans votre propre iCloud ou Google Drive.
+- **Sauvegardes locales automatiques** — se font discrètement en arrière-plan, aucune action requise.
+- **Vault Export (.tdvault)** — un fichier chiffré portable que vous enregistrez où vous le souhaitez.
+- **Cloud Backup (Pro)** — une copie chiffrée automatique dans votre propre iCloud ou Google Drive.
 
 ## En un coup d'oeil
 
@@ -34,7 +34,7 @@ Dans les paramètres, vous verrez une ligne comme *Dernière sauvegarde : il y a
 
 Ces instantanés locaux restent sur votre appareil. Une sauvegarde système (sauvegarde iCloud, Google Backup) réinstalle l'application mais ne peut pas les restaurer sur un nouveau téléphone, car la clé de chiffrement ne quitte jamais votre appareil d'origine. Pour déplacer votre coffre-fort, utilisez la sauvegarde cloud (Pro) ou Vault Export gratuit.
 
-## Vault Export (.tdvault) - gratuit pour tous
+## Vault Export (.tdvault) — gratuit pour tous
 
 Vault Export crée un seul fichier chiffré et protégé par mot de passe contenant tous les profils, documents et pièces jointes dans votre coffre-fort. Vous choisissez où l'enregistrer : application Fichiers, iCloud Drive, Google Drive, ou le partager via AirDrop ou par e-mail.
 
@@ -70,9 +70,9 @@ Aucune couche simple n'est une raison de sauter les autres. Les comptes cloud pe
 
 ### Guides connexes
 
-- [Comment exporter et importer votre coffre-fort - procédure étape par étape](https://traveldocumentvault.com/fr/faq/export-import/)
-- [Quel est mon code de récupération ? - guide complet pour le stocker en sécurité](https://traveldocumentvault.com/fr/faq/recovery-code/)
-- [Cloud Backup - comment le chiffrement de bout en bout fonctionne](https://traveldocumentvault.com/fr/cloud-backup/)
+- [Comment exporter et importer votre coffre-fort — procédure étape par étape](https://traveldocumentvault.com/fr/faq/export-import/)
+- [Quel est mon code de récupération ? — guide complet pour le stocker en sécurité](https://traveldocumentvault.com/fr/faq/recovery-code/)
+- [Cloud Backup — comment le chiffrement de bout en bout fonctionne](https://traveldocumentvault.com/fr/cloud-backup/)
 
 ## Obtenir Travel Document Vault
 

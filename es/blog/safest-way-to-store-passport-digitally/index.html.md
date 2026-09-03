@@ -71,7 +71,7 @@ Una aplicación cifrada dedicada diseñada para documentos de viaje funciona ent
 
 ### Cómo funciona
 
-Cuando añades tu copia de pasaporte a la aplicación, se encripta usando AES-256 y se almacena enteramente en tu teléfono. La aplicación funciona completamente sin conexión - sin cuenta requerida, sin servidor necesario. Si deseas acceso entre dispositivos, una característica Pro opcional respalda una copia cifrada a tu propio iCloud o Google Drive, sellada con un código de recuperación que solo tú tienes.
+Cuando añades tu copia de pasaporte a la aplicación, se encripta usando AES-256 y se almacena enteramente en tu teléfono. La aplicación funciona completamente sin conexión —sin cuenta requerida, sin servidor necesario. Si deseas acceso entre dispositivos, una característica Pro opcional respalda una copia cifrada a tu propio iCloud o Google Drive, sellada con un código de recuperación que solo tú tienes.
 
 ### Propiedades de seguridad
 
@@ -85,7 +85,7 @@ Cuando añades tu copia de pasaporte a la aplicación, se encripta usando AES-25
 
 Las ventajas de seguridad son sustanciales: tus datos de pasaporte nunca se transmiten ni se almacenan en un servidor remoto, por lo que nunca son accesibles para otro, y no hay un servidor remoto para comprometer si alguien obtiene acceso no autorizado a los sistemas de la empresa de aplicaciones. Esto significa que mantienes control completo y propiedad de tus documentos en todo momento.
 
-Sin embargo, este diseño viene con comodidad reducida ya que no puedes acceder automáticamente a tu copia de pasaporte entre múltiples dispositivos. Si pierdes tu teléfono, la aplicación no restaurará automáticamente tus documentos - deberías restaurar manualmente desde una copia de seguridad. Para la mayoría de las familias que viajan juntas, almacenar documentos en el teléfono de un padre es suficiente, y muchas aplicaciones soportan sincronización manual vía copia de seguridad, lo que añade una capa de flexibilidad sin requerir carga automática a la nube.
+Sin embargo, este diseño viene con comodidad reducida ya que no puedes acceder automáticamente a tu copia de pasaporte entre múltiples dispositivos. Si pierdes tu teléfono, la aplicación no restaurará automáticamente tus documentos —deberías restaurar manualmente desde una copia de seguridad. Para la mayoría de las familias que viajan juntas, almacenar documentos en el teléfono de un padre es suficiente, y muchas aplicaciones soportan sincronización manual vía copia de seguridad, lo que añade una capa de flexibilidad sin requerir carga automática a la nube.
 
 ## Tabla de Comparación Directa
 
@@ -114,7 +114,7 @@ La respuesta depende de tu tolerancia personal al riesgo y caso de uso.
 
 Muchas personas usan un enfoque híbrido: mantienen una copia en iCloud o Google Photos para acceso diario entre dispositivos, y una segunda copia en una aplicación cifrada dedicada como respaldo seguro. Esto proporciona tanto comodidad como redundancia. La clave es entender los compromisos de cada método y elegir conscientemente.
 
-Sea cual sea el método que elijas, recuerda que una copia digital de tu pasaporte es tan sensible como el documento físico - protégelo con el mismo cuidado y atención.
+Sea cual sea el método que elijas, recuerda que una copia digital de tu pasaporte es tan sensible como el documento físico —protégelo con el mismo cuidado y atención.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

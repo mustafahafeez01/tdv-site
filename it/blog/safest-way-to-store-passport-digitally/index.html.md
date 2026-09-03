@@ -71,7 +71,7 @@ Un'app crittografata dedicata progettata per documenti di viaggio funziona inter
 
 ### Come funziona
 
-Quando aggiungi la scansione del tuo passaporto all'app, viene crittografata utilizzando AES-256 e archiviata interamente sul tuo telefono. L'app funziona completamente offline - nessun account richiesto, nessun server necessario. Se desideri l'accesso multi-dispositivo, una funzione Pro opzionale esegue il backup di una copia crittografata su iCloud o Google Drive, sigillata con un codice di recupero che solo tu conosci.
+Quando aggiungi la scansione del tuo passaporto all'app, viene crittografata utilizzando AES-256 e archiviata interamente sul tuo telefono. L'app funziona completamente offline — nessun account richiesto, nessun server necessario. Se desideri l'accesso multi-dispositivo, una funzione Pro opzionale esegue il backup di una copia crittografata su iCloud o Google Drive, sigillata con un codice di recupero che solo tu conosci.
 
 ### Proprietà di sicurezza
 
@@ -85,7 +85,7 @@ Quando aggiungi la scansione del tuo passaporto all'app, viene crittografata uti
 
 I vantaggi di sicurezza sono sostanziali: i tuoi dati del passaporto non vengono mai trasmessi o archiviati su un server remoto, quindi non sono mai accessibili a nessun altro, e non c'è nessun server remoto da violare se qualcuno accede non autorizzato ai sistemi della società che sviluppa l'app. Ciò significa che mantieni il controllo completo e la proprietà dei tuoi documenti in ogni momento.
 
-Tuttavia, questo design comporta una praticità ridotta poiché non puoi accedere automaticamente alla tua copia del passaporto su più dispositivi. Se perdi il telefono, l'app non ripristinerà automaticamente i tuoi documenti - dovrai ripristinare manualmente da un backup. Per la maggior parte delle famiglie che viaggiano insieme, l'archiviazione dei documenti sul telefono di un genitore è sufficiente, e molte app supportano la sincronizzazione manuale tramite backup, il che aggiunge un livello di flessibilità senza richiedere il caricamento automatico nel cloud.
+Tuttavia, questo design comporta una praticità ridotta poiché non puoi accedere automaticamente alla tua copia del passaporto su più dispositivi. Se perdi il telefono, l'app non ripristinerà automaticamente i tuoi documenti — dovrai ripristinare manualmente da un backup. Per la maggior parte delle famiglie che viaggiano insieme, l'archiviazione dei documenti sul telefono di un genitore è sufficiente, e molte app supportano la sincronizzazione manuale tramite backup, il che aggiunge un livello di flessibilità senza richiedere il caricamento automatico nel cloud.
 
 ## Tabella di Confronto Diretto
 
@@ -114,7 +114,7 @@ La risposta dipende dalla tua tolleranza personale al rischio e dal tuo caso d'u
 
 Molte persone utilizzano un approccio ibrido: mantenendo una copia in iCloud o Google Photos per l'accesso quotidiano su più dispositivi, e una seconda copia in un'app crittografata dedicata come backup sicuro. Questo fornisce sia praticità che ridondanza. La chiave è comprendere i compromessi di ogni metodo e scegliere consapevolmente.
 
-Qualunque metodo scegli, ricorda che una copia digitale del tuo passaporto è sensibile come il documento fisico stesso - proteggila con la stessa cura e attenzione.
+Qualunque metodo scegli, ricorda che una copia digitale del tuo passaporto è sensibile come il documento fisico stesso — proteggila con la stessa cura e attenzione.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 

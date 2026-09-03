@@ -10,15 +10,15 @@ Source: https://traveldocumentvault.com/id/blog/visa-expiry-tracker-app/
 
 ## Poin Penting
 
-- Pelacakan visa **lebih kompleks** dibanding pelacakan paspor - visa memiliki tanggal masa berlaku izin masuk, batas maksimal lama tinggal, dan terkadang batas jumlah kunjungan, yang semuanya perlu dipantau secara terpisah.
+- Pelacakan visa **lebih kompleks** dibanding pelacakan paspor — visa memiliki tanggal masa berlaku izin masuk, batas maksimal lama tinggal, dan terkadang batas jumlah kunjungan, yang semuanya perlu dipantau secara terpisah.
 - Overstay pada visa membawa konsekuensi serius: denda, larangan masuk kembali selama bertahun-tahun atau lebih lama, dan di beberapa negara bahkan tuntutan pidana.
 - Aplikasi pelacak kedaluwarsa visa terbaik bekerja secara luring, mendukung berbagai jenis visa, dan memungkinkan pengaturan waktu pengingat khusus per dokumen.
-- Pengunjung Wilayah Schengen harus melacak jendela bergulir 90/180 hari, bukan sekadar satu tanggal kedaluwarsa saja - sebagian besar aplikasi perjalanan umum tidak menangani ini dengan benar.
+- Pengunjung Wilayah Schengen harus melacak jendela bergulir 90/180 hari, bukan sekadar satu tanggal kedaluwarsa saja, sebagian besar aplikasi perjalanan umum tidak menangani ini dengan benar.
 - Melacak visa dan paspor bersamaan di satu tempat mengurangi risiko ketidaksesuaian: masuk dengan visa yang masih berlaku namun paspor yang kedaluwarsa sebelum masa tinggal yang direncanakan berakhir.
 
 Overstay pada visa adalah salah satu kesalahan perjalanan paling berdampak yang bisa dilakukan seseorang. Berbeda dengan ketinggalan pesawat yang membuat stres tetapi pada akhirnya masih bisa diselesaikan, overstay meninggalkan catatan imigrasi resmi yang bisa terus membayangi Anda selama bertahun-tahun. Di Amerika Serikat, overstay selama 180 hari saja sudah memicu larangan masuk kembali otomatis selama 3 tahun berdasarkan INA bagian 212(a)(9)(B)(i), dan overstay selama satu tahun memicu larangan selama 10 tahun. Konsekuensi ini tidak banyak diketahui, tetapi didokumentasikan resmi oleh lembaga imigrasi AS, USCIS.
 
-Aplikasi pelacak kedaluwarsa visa dirancang untuk mencegah hal ini, karena memantau beberapa tanggal sekaligus - masa berlaku izin masuk, batas maksimal lama tinggal, dan jumlah kunjungan - dengan cara yang tidak bisa dilakukan aplikasi paspor umum.
+Aplikasi pelacak kedaluwarsa visa dirancang untuk mencegah hal ini, karena memantau beberapa tanggal sekaligus — masa berlaku izin masuk, batas maksimal lama tinggal, dan jumlah kunjungan — dengan cara yang tidak bisa dilakukan aplikasi paspor umum.
 
 ## Mengapa Pelacakan Visa Lebih Kompleks daripada Pelacakan Paspor
 
@@ -35,7 +35,7 @@ Seorang pelancong masuk ke Vietnam dengan visa berstempel "berlaku hingga 30 Jun
 | **Jumlah kunjungan** | Kunjungan tunggal, ganda, atau berkali-kali yang diizinkan | Visa kunjungan tunggal langsung tidak berlaku begitu Anda keluar, meskipun tanggal masa berlaku izin masuknya belum lewat |
 | **Aturan jendela bergulir** | Sebagian rezim visa (terutama Schengen) menghitung hari yang diizinkan dalam jendela bergulir | Schengen: maksimal 90 hari dalam periode bergulir 180 hari, bukan per tahun kalender |
 
-Pelacak yang hanya memantau tanggal masa berlaku izin masuk akan melewatkan jebakan ini justru: melampaui batas maksimal lama tinggal setelah masuk secara sepenuhnya legal. Ini adalah kolom yang paling sering luput dilacak oleh pelancong, karena tanggalnya tidak tercetak di mana pun dalam paspor - Anda harus menghitungnya sendiri berdasarkan tanggal masuk Anda.
+Pelacak yang hanya memantau tanggal masa berlaku izin masuk akan melewatkan jebakan ini justru: melampaui batas maksimal lama tinggal setelah masuk secara sepenuhnya legal. Ini adalah kolom yang paling sering luput dilacak oleh pelancong, karena tanggalnya tidak tercetak di mana pun dalam paspor, Anda harus menghitungnya sendiri berdasarkan tanggal masuk Anda.
 
 ## Aturan 90/180 Hari Schengen
 
@@ -73,8 +73,8 @@ Dengan semua kompleksitas ini, aplikasi pelacak kedaluwarsa visa yang baik perlu
 ## Langkah Praktis untuk Melacak Visa Anda dengan Benar
 
 1. **Catat tanggal masuk Anda pada hari kedatangan.** Hitungan batas maksimal lama tinggal Anda langsung dimulai sejak masuk, bukan sejak visa diterbitkan atau sejak masa berlaku izin masuk dimulai.
-2. **Hitung dan catat tanggal keberangkatan terakhir yang diizinkan.** Tambahkan batas maksimal lama tinggal Anda ke tanggal masuk Anda. Ini adalah tanggal terakhir Anda harus keluar - lebih awal jika Anda memerlukan waktu untuk mencapai titik keberangkatan.
-3. **Pantau status kunjungan tunggal atau berkali-kali.** Jika visa Anda kunjungan tunggal, perjalanan sehari ke negara tetangga akan membatalkannya - rencanakan sesuai kebutuhan.
+2. **Hitung dan catat tanggal keberangkatan terakhir yang diizinkan.** Tambahkan batas maksimal lama tinggal Anda ke tanggal masuk Anda. Ini adalah tanggal terakhir Anda harus keluar, lebih awal jika Anda memerlukan waktu untuk mencapai titik keberangkatan.
+3. **Pantau status kunjungan tunggal atau berkali-kali.** Jika visa Anda kunjungan tunggal, perjalanan sehari ke negara tetangga akan membatalkannya, rencanakan sesuai kebutuhan.
 4. **Untuk perjalanan Schengen, catat log tanggal masuk dan keluar.** Gunakan kalkulator resmi Komisi Eropa untuk memverifikasi hari tersisa Anda sebelum perjalanan mana pun yang mengikuti perjalanan Schengen terbaru.
 5. **Atur pengingat jauh sebelum batas waktu maksimal lama tinggal Anda.** Ini memberi Anda waktu untuk mengatur kepulangan tanpa terburu-buru, terutama jika pilihan transportasi di tujuan Anda terbatas.
 
@@ -86,7 +86,7 @@ Aturan terkait yang berkaitan dengan pelacakan visa: lihat panduan kami tentang 
 
 ### Apa itu aplikasi pelacak kedaluwarsa visa?
 
-Aplikasi pelacak kedaluwarsa visa memantau tanggal kedaluwarsa visa Anda dan mengirimkan pengingat sebelum visa tersebut habis masa berlakunya. Aplikasi terbaik melacak baik masa berlaku izin masuk maupun batas maksimal lama tinggal - dua tenggat waktu berbeda yang sama-sama penting untuk menghindari overstay.
+Aplikasi pelacak kedaluwarsa visa memantau tanggal kedaluwarsa visa Anda dan mengirimkan pengingat sebelum visa tersebut habis masa berlakunya. Aplikasi terbaik melacak baik masa berlaku izin masuk maupun batas maksimal lama tinggal, dua tenggat waktu berbeda yang sama-sama penting untuk menghindari overstay.
 
 ### Apa perbedaan antara tanggal kedaluwarsa visa dan batas maksimal lama tinggal?
 
@@ -94,11 +94,11 @@ Tanggal kedaluwarsa visa adalah tanggal terakhir Anda bisa menggunakan visa ters
 
 ### Apa yang terjadi jika seseorang overstay pada visanya?
 
-Konsekuensinya berbeda-beda tergantung negara, tetapi umumnya meliputi denda, larangan masuk kembali, dan deportasi. Di AS, overstay selama 180 hari memicu larangan masuk kembali selama 3 tahun; overstay selama 1 tahun memicu larangan selama 10 tahun - seperti didokumentasikan oleh USCIS. Overstay tercatat dalam basis data imigrasi dan memengaruhi permohonan visa di masa depan.
+Konsekuensinya berbeda-beda tergantung negara, tetapi umumnya meliputi denda, larangan masuk kembali, dan deportasi. Di AS, overstay selama 180 hari memicu larangan masuk kembali selama 3 tahun; overstay selama 1 tahun memicu larangan selama 10 tahun, seperti didokumentasikan oleh USCIS. Overstay tercatat dalam basis data imigrasi dan memengaruhi permohonan visa di masa depan.
 
 ### Bisakah aplikasi pelacak kedaluwarsa visa bekerja secara luring?
 
-Aplikasi terbaik bisa. Akses luring paling penting di perbatasan dan di area dengan koneksi internet yang tidak dapat diandalkan - justru di situlah Anda paling membutuhkan detail visa Anda. Aplikasi yang mengharuskan koneksi internet untuk menampilkan dokumen Anda kurang berguna dalam situasi semacam itu.
+Aplikasi terbaik bisa. Akses luring paling penting di perbatasan dan di area dengan koneksi internet yang tidak dapat diandalkan, justru di situlah Anda paling membutuhkan detail visa Anda. Aplikasi yang mengharuskan koneksi internet untuk menampilkan dokumen Anda kurang berguna dalam situasi semacam itu.
 
 ### Berapa lama sebelumnya saya harus mendapat pengingat sebelum visa saya kedaluwarsa?
 

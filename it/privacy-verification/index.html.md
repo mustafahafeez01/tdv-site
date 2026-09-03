@@ -14,11 +14,11 @@ Nessun SDK di analisi, nessuna libreria pubblicitaria, nessun pixel di tracciame
 
 ### Nessuna raccolta di dati in uscita
 
-L'app non effettua zero connessioni in uscita per impostazione predefinita. Funziona completamente offline. L'unico utilizzo di rete è il backup cloud Pro opzionale, che si sincronizza con il tuo iCloud o Google Drive personale - mai con i nostri server.
+L'app non effettua zero connessioni in uscita per impostazione predefinita. Funziona completamente offline. L'unico utilizzo di rete è il backup cloud Pro opzionale, che si sincronizza con il tuo iCloud o Google Drive personale — mai con i nostri server.
 
 ### Sul dispositivo per impostazione predefinita
 
-Tutti i documenti, le scansioni e i dati rimangono sul tuo dispositivo. Non c'è nessun cloud TDV, nessun server TDV, nessun backend TDV. Gli utenti Pro possono facoltativamente eseguire il backup del loro vault crittografato nel loro account iCloud o Google Drive personale - solo loro detengono la chiave di recupero.
+Tutti i documenti, le scansioni e i dati rimangono sul tuo dispositivo. Non c'è nessun cloud TDV, nessun server TDV, nessun backend TDV. Gli utenti Pro possono facoltativamente eseguire il backup del loro vault crittografato nel loro account iCloud o Google Drive personale — solo loro detengono la chiave di recupero.
 
 ### Crittografia AES-256-GCM
 
@@ -32,17 +32,17 @@ Non devi fidarti di noi. Puoi confermare ogni affermazione qui sopra con strumen
 
 Installa un monitor di rete come **mitmproxy** (gratuito, open source), **Wireshark** (gratuito, open source), o **Charles Proxy**. Apri Travel Document Vault, scansiona un documento, sfoglia il tuo vault e imposta un promemoria. Non dovresti vedere i tuoi documenti, scansioni, date di scadenza o contenuti del vault inviati a Travel Document Vault. Il traffico di rete dovrebbe limitarsi a funzioni specifiche: rapporti di arresto di Sentry opzionali, controlli di acquisto dell'App Store o di Google Play, backup cloud opzionale sul tuo account iCloud o Google Drive personale, e un controllo manuale delle correzioni di bug spiegato di seguito.
 
-Le impostazioni hanno un pulsante **Check for Updates**. È un controllo manuale, mai automatico - viene eseguito solo quando lo tocchi tu stesso, mai in background e mai da solo. Il controllo contatta **updates.traveldocumentvault.com** - il nostro server di aggiornamenti, gestito da noi su Google Cloud, che fornisce file di aggiornamento firmati crittograficamente da un bucket di archiviazione. Non registriamo il controllo: i registri di richiesta sono disabilitati da parte nostra, quindi nessun indirizzo IP viene conservato. Ogni aggiornamento è firmato con una chiave che solo noi possediamo, e l'app rifiuta tutto ciò la cui firma non corrisponde al certificato integrato in essa. Lo stesso tocco verifica anche se sull'**App Store** o su **Google Play** è disponibile una versione più recente dell'app. Questa funzione esiste per permettere ad alcune correzioni di bug di raggiungerti più rapidamente rispetto ad attendere una release completamente nuova sull'App Store o Google Play, utile per correzioni urgenti, a seconda della natura della correzione. Vale la stessa regola di tutto il resto di questa pagina: nessuna chiamata di rete senza che tu la richieda.
+Le impostazioni hanno un pulsante **Check for Updates**. È un controllo manuale, mai automatico — viene eseguito solo quando lo tocchi tu stesso, mai in background e mai da solo. Il controllo contatta **updates.traveldocumentvault.com** — il nostro server di aggiornamenti, gestito da noi su Google Cloud, che fornisce file di aggiornamento firmati crittograficamente da un bucket di archiviazione. Non registriamo il controllo: i registri di richiesta sono disabilitati da parte nostra, quindi nessun indirizzo IP viene conservato. Ogni aggiornamento è firmato con una chiave che solo noi possediamo, e l'app rifiuta tutto ciò la cui firma non corrisponde al certificato integrato in essa. Lo stesso tocco verifica anche se sull'**App Store** o su **Google Play** è disponibile una versione più recente dell'app. Questa funzione esiste per permettere ad alcune correzioni di bug di raggiungerti più rapidamente rispetto ad attendere una release completamente nuova sull'App Store o Google Play, utile per correzioni urgenti, a seconda della natura della correzione. Vale la stessa regola di tutto il resto di questa pagina: nessuna chiamata di rete senza che tu la richieda.
 
 ### 2. Rapporto sulla privacy dell'app iOS
 
-Su iPhone, vai a **Impostazioni > Privacy e sicurezza > Rapporto sulla privacy dell'app**. Questa funzione integrata di Apple mostra quali app hanno contattato i domini di rete. Travel Document Vault non ci invia i tuoi documenti, scansioni, date di scadenza o contenuti del vault. Se hai abilitato il backup cloud Pro, vedrai connessioni ai domini iCloud di Apple - è il tuo backup che si sincronizza con il tuo account iCloud personale.
+Su iPhone, vai a **Impostazioni > Privacy e sicurezza > Rapporto sulla privacy dell'app**. Questa funzione integrata di Apple mostra quali app hanno contattato i domini di rete. Travel Document Vault non ci invia i tuoi documenti, scansioni, date di scadenza o contenuti del vault. Se hai abilitato il backup cloud Pro, vedrai connessioni ai domini iCloud di Apple — è il tuo backup che si sincronizza con il tuo account iCloud personale.
 
-### 3. Android - come verificare la tua privacy
+### 3. Android — come verificare la tua privacy
 
-Android non ha un unico rapporto sulla privacy integrato come l'iPhone. Due modi semplici per verificarlo tu stesso: guarda la sezione **Data Safety** di questa app nella sua pagina di Google Play (indica chiaramente cosa viene raccolto, cosa viene condiviso, che i tuoi dati sono crittografati in transito e che non possono essere eliminati) - oppure usa un monitor di rete come descritto al passaggio 1 sopra.
+Android non ha un unico rapporto sulla privacy integrato come l'iPhone. Due modi semplici per verificarlo tu stesso: guarda la sezione **Data Safety** di questa app nella sua pagina di Google Play (indica chiaramente cosa viene raccolto, cosa viene condiviso, che i tuoi dati sono crittografati in transito e che non possono essere eliminati) — oppure usa un monitor di rete come descritto al passaggio 1 sopra.
 
-Se hai attivato il backup cloud, potresti notare un po' di attività verso i server di Google (indirizzi web che terminano in **googleapis.com**). È normale e sicuro: si tratta solo del tuo file di backup bloccato e crittografato e di un controllo di accesso, inviati direttamente al **tuo** account Google Drive personale - lo stesso che usi già per foto o Gmail. Non lo vediamo mai, non lo riceviamo mai e non ne conserviamo mai una copia da nessuna parte. Solo tu possiedi la chiave di recupero che può sbloccarlo.
+Se hai attivato il backup cloud, potresti notare un po' di attività verso i server di Google (indirizzi web che terminano in **googleapis.com**). È normale e sicuro: si tratta solo del tuo file di backup bloccato e crittografato e di un controllo di accesso, inviati direttamente al **tuo** account Google Drive personale — lo stesso che usi già per foto o Gmail. Non lo vediamo mai, non lo riceviamo mai e non ne conserviamo mai una copia da nessuna parte. Solo tu possiedi la chiave di recupero che può sbloccarlo.
 
 ### 4. Etichette sulla privacy dell'App Store e del Play Store
 
@@ -162,6 +162,6 @@ Dichiarato da una dipendenza del framework. L'app non scarica file in background
 
 Queste sono autorizzazioni comuni che molte app richiedono. Non ne richiediamo nessuna e non appaiono nel nostro manifesto.
 
-**Posizione** - Nessun GPS, nessun geofencing, nessun tracciamento **Contatti** - Nessun accesso alla tua rubrica **Bluetooth** - Nessuna rete locale o scansione dei dispositivi **Calendario** - I promemoria vengono gestiti sul dispositivo, non tramite il tuo calendario
+**Posizione** — Nessun GPS, nessun geofencing, nessun tracciamento **Contatti** — Nessun accesso alla tua rubrica **Bluetooth** — Nessuna rete locale o scansione dei dispositivi **Calendario** — I promemoria vengono gestiti sul dispositivo, non tramite il tuo calendario
 
 Hai ancora domande? Leggi la nostra [Informativa sulla privacy](https://traveldocumentvault.com/privacy-policy/) completa o consulta le [FAQ](https://traveldocumentvault.com/it/faq/).

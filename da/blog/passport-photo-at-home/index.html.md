@@ -12,8 +12,8 @@ Source: https://traveldocumentvault.com/da/blog/passport-photo-at-home/
 
 - Brug en ensfarvet hvid eller råhvid baggrund, neutralt udtryk, og øjnene åbne og rettet lige frem
 - Størrelseskravene er forskellige fra land til land og håndhæves strengt, så tag målene fra din egen pasmyndighed i stedet for fra en opsummering
-- Naturligt vinduslys fungerer bedst - undgå hårde skygger, og brug ikke kamerablitz
-- De fleste lande tillader nu ikke briller, medmindre det er lægeligt nødvendigt - tjek de aktuelle krav
+- Naturligt vinduslys fungerer bedst – undgå hårde skygger, og brug ikke kamerablitz
+- De fleste lande tillader nu ikke briller, medmindre det er lægeligt nødvendigt – tjek de aktuelle krav
 - Almindelige afvisningsgrunde er skygger, forkert størrelse, smil, sløret billede og forkert baggrund
 
 Et billede taget derhjemme bliver godkendt lige så let som et fra en fotoboks, forudsat at det opfylder den samme korte liste af regler. De fleste afvisninger skyldes tre ting: skygge i ansigtet eller på baggrunden, forkert størrelse på hovedet i billedet, og briller. Får du styr på dem, er resten ligetil.
@@ -24,11 +24,11 @@ Selvom de konkrete regler varierer fra pasmyndighed til pasmyndighed, deler de f
 
 ### Baggrund og komposition
 
-Du skal bruge en ensfarvet hvid eller råhvid baggrund - intet andet fungerer. Ingen mønstre, skygger, slørede baggrunde eller farver. Begrundelsen er enkel: myndighederne har brug for et rent, ryddeligt billede af dit ansigt til at sammenligne med fremtidige dokumenter. De fleste bruger et hvidt lagen, en plakatplade eller maler ligefrem et lille stykke væg. Det vigtige er at holde det lyst og ensartet hele vejen igennem.
+Du skal bruge en ensfarvet hvid eller råhvid baggrund – intet andet fungerer. Ingen mønstre, skygger, slørede baggrunde eller farver. Begrundelsen er enkel: myndighederne har brug for et rent, ryddeligt billede af dit ansigt til at sammenligne med fremtidige dokumenter. De fleste bruger et hvidt lagen, en plakatplade eller maler ligefrem et lille stykke væg. Det vigtige er at holde det lyst og ensartet hele vejen igennem.
 
 ### Udtryk og positur
 
-Dit ansigt skal fylde billedet i den andel, din pasmyndighed angiver, med øjnene åbne og tydeligt synlige - de fleste lande forbyder smil, og at knibe øjnene sammen diskvalificerer billedet. Se lige ind i kameraet med et neutralt udtryk, vip evt. hovedet en anelse, hvis det føles mere naturligt, men hold generelt hovedet lige mod linsen. Ørerne bør helst være synlige på begge sider af ansigtet.
+Dit ansigt skal fylde billedet i den andel, din pasmyndighed angiver, med øjnene åbne og tydeligt synlige – de fleste lande forbyder smil, og at knibe øjnene sammen diskvalificerer billedet. Se lige ind i kameraet med et neutralt udtryk, vip evt. hovedet en anelse, hvis det føles mere naturligt, men hold generelt hovedet lige mod linsen. Ørerne bør helst være synlige på begge sider af ansigtet.
 
 ## Må jeg have briller på i et pasfoto?
 
@@ -44,7 +44,7 @@ Digitale indsendelser bytter millimeter ud med pixels, og hver myndighed offentl
 
 ### Hvor du tjekker dit lands størrelseskrav
 
-Størrelse er der, hvor de fleste går galt - matcher billedet ikke dit lands krav, er afvisning næsten sikker. Hvert land fastsætter sine egne mål, nogle i tommer og nogle i millimeter, og de bliver revideret fra tid til anden.
+Størrelse er der, hvor de fleste går galt – matcher billedet ikke dit lands krav, er afvisning næsten sikker. Hvert land fastsætter sine egne mål, nogle i tommer og nogle i millimeter, og de bliver revideret fra tid til anden.
 
 Vi gengiver bevidst ikke de tal her. Et tal, der kopieres ind i et blogindlæg, er et tal, der stille kan blive forældet, og dette indlæg er ikke den autoritative kilde til det. Tjek direkte hos dit eget paskontor.
 
@@ -55,7 +55,7 @@ Vi gengiver bevidst ikke de tal her. Et tal, der kopieres ind i et blogindlæg, 
 | Australien | Australian Passport Offices fotovejledning |
 | Canada | Canadas regerings side om pasfotos |
 
-Uanset hvad dit land angiver, er det præcist - selv få millimeter forkert betyder afvisning. Din smartphones rå billede er som regel langt større end det, du skal indsende, hvilket er grunden til, at beskæringsapps findes. Gratis eller billige værktøjer til iOS og Android lader dig angive dit land og automatisk tilpasse billedet til de præcise mål.
+Uanset hvad dit land angiver, er det præcist – selv få millimeter forkert betyder afvisning. Din smartphones rå billede er som regel langt større end det, du skal indsende, hvilket er grunden til, at beskæringsapps findes. Gratis eller billige værktøjer til iOS og Android lader dig angive dit land og automatisk tilpasse billedet til de præcise mål.
 
 ### Sammenligning af metoder til indsendelse af pasfoto
 
@@ -83,17 +83,17 @@ Brug et stativ, eller lad telefonen hvile mod en stabil genstand, så du har beg
 
 ### Opløsning og fokus
 
-Moderne smartphones optager med 12 megapixel eller mere, hvilket er rigeligt til pasfoto. Før du fotograferer, skal du sikre dig, at telefonen er i fokustilstand - tryk på ansigtet på skærmen, så vil de fleste telefoner låse fokus der. Det endelige billede skal være skarpt og tydeligt.
+Moderne smartphones optager med 12 megapixel eller mere, hvilket er rigeligt til pasfoto. Før du fotograferer, skal du sikre dig, at telefonen er i fokustilstand – tryk på ansigtet på skærmen, så vil de fleste telefoner låse fokus der. Det endelige billede skal være skarpt og tydeligt.
 
 ## Almindelige afvisningsgrunde, og hvordan du undgår dem
 
 - **Skygger i ansigtet:** Skyldes sidelys eller hårde lyskilder. Stil dig vinkelret på et vindue for jævn belysning, og tjek at ører og kindben er jævnt oplyst.
-- **Forkerte fotomål:** Billedet matcher ikke dit lands specifikation (kravene varierer fra land til land). Brug en beskæringsapp til pasfoto, og dobbelttjek målene mod din egen myndigheds officielle spec, før du printer eller uploader - ikke et andet lands standard.
-- **Smil eller usædvanligt udtryk:** De fleste lande kræver et neutralt udtryk. Øv et roligt blik lige frem foran et spejl på forhånd - sigt efter alvorligt, ikke strengt.
+- **Forkerte fotomål:** Billedet matcher ikke dit lands specifikation (kravene varierer fra land til land). Brug en beskæringsapp til pasfoto, og dobbelttjek målene mod din egen myndigheds officielle spec, før du printer eller uploader – ikke et andet lands standard.
+- **Smil eller usædvanligt udtryk:** De fleste lande kræver et neutralt udtryk. Øv et roligt blik lige frem foran et spejl på forhånd – sigt efter alvorligt, ikke strengt.
 - **Briller med reflekser:** Reflekser i glassene skjuler øjnene. Tag enten brillerne af, eller juster vinklen for at fjerne reflekser. Mange lande forbyder nu briller helt, medmindre det er lægeligt nødvendigt, så tjek din myndigheds aktuelle regler først.
 - **Sløret eller ufokuseret billede:** Bevægelse eller fokusproblemer under optagelsen. Brug et stativ eller en stabil genstand til at støtte telefonen, tryk på skærmen for at fokusere på ansigtet, og undgå enhver bevægelse under optagelsen.
-- **Forkert baggrund:** Farvet baggrund, mønster eller ujævn hvid baggrund. Ensfarvet hvid eller råhvid plakatplade eller lagen fungerer bedst - sørg for, at der ikke er synlig struktur eller skygger.
-- **For meget eller for lidt margin:** Ansigtet er for lille eller placeret forkert i billedet. Dit lands regler angiver præcis, hvor stor en del af billedet ansigtet skal fylde, som regel som et mål fra hage til isse frem for en procentdel - arbejd efter det tal, ikke efter hvad der "ser rigtigt ud".
+- **Forkert baggrund:** Farvet baggrund, mønster eller ujævn hvid baggrund. Ensfarvet hvid eller råhvid plakatplade eller lagen fungerer bedst – sørg for, at der ikke er synlig struktur eller skygger.
+- **For meget eller for lidt margin:** Ansigtet er for lille eller placeret forkert i billedet. Dit lands regler angiver præcis, hvor stor en del af billedet ansigtet skal fylde, som regel som et mål fra hage til isse frem for en procentdel – arbejd efter det tal, ikke efter hvad der "ser rigtigt ud".
 
 ## Fra smartphonebillede til officielt foto: processen
 
@@ -101,7 +101,7 @@ Din smartphones billede har sjældent den rigtige størrelse med det samme. Efte
 
 ### Beskæringsværktøjer
 
-Beskæringsapps fjerner gætteriet fra det at ændre størrelse. Kig efter værktøjer som Passport Photo Online eller ID Photo Studio til iOS og Android - de lader dig vælge dit land og automatisk beskære til den rette spec, mens de tjekker, at dine ansigtsmål er korrekte. Mange apps går videre og giver feedback, hvis dit lys eller din baggrund ikke lever op til kravene.
+Beskæringsapps fjerner gætteriet fra det at ændre størrelse. Kig efter værktøjer som Passport Photo Online eller ID Photo Studio til iOS og Android – de lader dig vælge dit land og automatisk beskære til den rette spec, mens de tjekker, at dine ansigtsmål er korrekte. Mange apps går videre og giver feedback, hvis dit lys eller din baggrund ikke lever op til kravene.
 
 ### Print vs. digital indsendelse
 

@@ -28,7 +28,7 @@ Sentry es una herramienta de informe de fallos que nos ayuda a encontrar y corre
 
 ¿Qué incluye la actualización Pro?
 
-Pro es una compra única que desbloquea perfiles ilimitados, documentos ilimitados, exportación combinada a PDF, copia de seguridad cifrada en la nube a iCloud o Google Drive, y tiempos de recordatorio personalizados. Pagas una vez - sin suscripción, sin cargos recurrentes y sin pruebas que empiecen a cobrarte en silencio.
+Pro es una compra única que desbloquea perfiles ilimitados, documentos ilimitados, exportación combinada a PDF, copia de seguridad cifrada en la nube a iCloud o Google Drive, y tiempos de recordatorio personalizados. Pagas una vez —sin suscripción, sin cargos recurrentes y sin pruebas que empiecen a cobrarte en silencio.
 
 ¿Están incluidas las actualizaciones futuras con mi compra?
 
@@ -121,7 +121,7 @@ Tus documentos nunca abandonan tu dispositivo. Este modo simplemente te da una f
 
 ¿Qué es un código de recuperación y por qué lo necesito?
 
-Cuando configuras Bloqueo de aplicación, la aplicación genera un código de recuperación único que es tu red de seguridad si olvidas tu PIN. Guárdalo en algún lugar seguro - tu gestor de contraseñas, una nota impresa, en cualquier lugar que confíes.
+Cuando configuras Bloqueo de aplicación, la aplicación genera un código de recuperación único que es tu red de seguridad si olvidas tu PIN. Guárdalo en algún lugar seguro —tu gestor de contraseñas, una nota impresa, en cualquier lugar que confíes.
 
 Si olvidas tu PIN, ingresa tu código de recuperación en la pantalla PIN. El Bloqueo de aplicación se desactiva y recuperas **acceso completo sin perder un solo documento.**
 
@@ -137,7 +137,7 @@ Borrado automático borra permanentemente tu bóveda si se realizan demasiados i
 
 ¿Qué tipos de documentos puedo almacenar?
 
-La aplicación soporta **Pasaportes**, **Documentos de Identificación Nacional** (frente + dorso), **Visas/Permisos de Residencia**, **Boletos Aéreos**, **Cupones y Entradas** (tarjetas de regalo, códigos promocionales, entradas de eventos - con recordatorios de vencimiento para que no se pierdan), **Otros Documentos** (seguros de viaje, seguro médico, registros de vacunación, membresías, recetas - cualquier cosa con fecha de vencimiento), y **Notas** (solo texto para plazos y recordatorios). Puedes capturar documentos usando tu cámara, importar desde tu galería de fotos, o importar archivos PDF. Los usuarios Pro pueden capturar documentos de varias páginas para Boletos Aéreos, Cupones y Otros Documentos.
+La aplicación soporta **Pasaportes**, **Documentos de Identificación Nacional** (frente + dorso), **Visas/Permisos de Residencia**, **Boletos Aéreos**, **Cupones y Entradas** (tarjetas de regalo, códigos promocionales, entradas de eventos —con recordatorios de vencimiento para que no se pierdan), **Otros Documentos** (seguros de viaje, seguro médico, registros de vacunación, membresías, recetas —cualquier cosa con fecha de vencimiento), y **Notas** (solo texto para plazos y recordatorios). Puedes capturar documentos usando tu cámara, importar desde tu galería de fotos, o importar archivos PDF. Los usuarios Pro pueden capturar documentos de varias páginas para Boletos Aéreos, Cupones y Otros Documentos.
 
 ¿Cómo funcionan los recordatorios de vencimiento?
 
@@ -145,7 +145,7 @@ Los recordatorios comienzan automáticamente, programados según el tipo de docu
 
 ¿Qué es OCR y cómo funciona?
 
-OCR (Reconocimiento Óptico de Caracteres) detecta automáticamente fechas de vencimiento de tus documentos. Apunta tu cámara a un documento y la aplicación intentará leer la fecha de vencimiento. Todo el procesamiento sucede en tu teléfono - nada se carga. Las fechas detectadas se etiquetan como "Detectado: por favor verifica" y requieren tu confirmación antes de guardarse.
+OCR (Reconocimiento Óptico de Caracteres) detecta automáticamente fechas de vencimiento de tus documentos. Apunta tu cámara a un documento y la aplicación intentará leer la fecha de vencimiento. Todo el procesamiento sucede en tu teléfono —nada se carga. Las fechas detectadas se etiquetan como "Detectado: por favor verifica" y requieren tu confirmación antes de guardarse.
 
 ¿Puedo exportar mis documentos?
 
@@ -221,7 +221,7 @@ Los usuarios Pro pueden tocar **"Seleccionar"** en la parte superior derecha de 
 
 ¿Puedo deshacer una eliminación masiva?
 
-**Sí - tienes dos capas de protección.** Después de eliminar documentos (individual o masivamente), verás una breve ventana de deshacer en la parte inferior de la pantalla. Toca **"Deshacer"** para restaurarlos inmediatamente. Si pierdes la ventana de deshacer, los documentos eliminados se mueven a **Eliminados recientemente** en Configuración, donde permanecen durante 30 días antes de ser eliminados permanentemente. Los usuarios Pro con copia de seguridad en la nube habilitada mantienen elementos en Eliminados recientemente indefinidamente hasta que tocan Eliminar permanentemente.
+**Sí —tienes dos capas de protección.** Después de eliminar documentos (individual o masivamente), verás una breve ventana de deshacer en la parte inferior de la pantalla. Toca **"Deshacer"** para restaurarlos inmediatamente. Si pierdes la ventana de deshacer, los documentos eliminados se mueven a **Eliminados recientemente** en Configuración, donde permanecen durante 30 días antes de ser eliminados permanentemente. Los usuarios Pro con copia de seguridad en la nube habilitada mantienen elementos en Eliminados recientemente indefinidamente hasta que tocan Eliminar permanentemente.
 
 ¿Qué es el menú contextual de presión larga?
 
@@ -351,11 +351,11 @@ Pro te permite exportar toda tu bóveda como un archivo .tdvault cifrado que con
 
 Días dentro o días fuera de un país: ¿cuál debo elegir?
 
-Hazte una pregunta: ¿eres un huésped en este país o es tu hogar? Los huéspedes cuentan los días que están allí, así que elige **Días dentro del país** - esa es la opción para un límite de visitante como 90 días. Los residentes cuentan los días que están fuera, así que elige **Días fuera del país** - esa es la opción para un permiso de residencia que permite cierto tiempo en el extranjero. La mayoría solo necesita una de las dos, y si tienes dudas, Días dentro del país es la opción más habitual.
+Hazte una pregunta: ¿eres un huésped en este país o es tu hogar? Los huéspedes cuentan los días que están allí, así que elige **Días dentro del país** —esa es la opción para un límite de visitante como 90 días. Los residentes cuentan los días que están fuera, así que elige **Días fuera del país** —esa es la opción para un permiso de residencia que permite cierto tiempo en el extranjero. La mayoría solo necesita una de las dos, y si tienes dudas, Días dentro del país es la opción más habitual.
 
 ¿Qué son los perfiles familiares?
 
-Cada miembro de la familia es un perfil separado con sus propios documentos, fotos y recordatorios - tus datos son tuyos, los de tu pareja son suyos, y los perfiles son solo locales para que nunca se sincronicen entre dispositivos o personas. Este diseño respeta la privacidad y garantiza que no haya mezcla accidental de documentos sensibles.
+Cada miembro de la familia es un perfil separado con sus propios documentos, fotos y recordatorios —tus datos son tuyos, los de tu pareja son suyos, y los perfiles son solo locales para que nunca se sincronicen entre dispositivos o personas. Este diseño respeta la privacidad y garantiza que no haya mezcla accidental de documentos sensibles.
 
 ¿Qué sucede cuando elimino algo?
 

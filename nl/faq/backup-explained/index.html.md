@@ -12,9 +12,9 @@ Travel Document Vault biedt u drie beschermingslagen. Hier leest u precies wat e
 
 Uw documenten bevinden zich op uw apparaat. Ze gaan nooit naar onze servers. De drie back-upmechanismen dienen elk een ander doel en u kunt alle drie tegelijk gebruiken.
 
-- **Automatische lokale back-ups** - werken stil op de achtergrond, geen actie vereist.
-- **Vault Export (.tdvault)** - een draagbaar versleuteld bestand dat u opslaat waar u zelf kiest.
-- **Cloudback-up (Pro)** - een automatische versleutelde kopie in uw eigen iCloud of Google Drive.
+- **Automatische lokale back-ups** – werken stil op de achtergrond, geen actie vereist.
+- **Vault Export (.tdvault)** – een draagbaar versleuteld bestand dat u opslaat waar u zelf kiest.
+- **Cloudback-up (Pro)** – een automatische versleutelde kopie in uw eigen iCloud of Google Drive.
 
 ## In een oogopslag
 
@@ -34,7 +34,7 @@ In Instellingen ziet u een regel zoals *Laatste back-up: 2 uur geleden, 12 docum
 
 Deze lokale momentopnamen blijven op uw apparaat. Een systeemback-up (iCloud-back-up, Google-back-up) installeert de app opnieuw, maar kan deze niet herstellen op een nieuw toestel, omdat de versleutelingssleutel uw oorspronkelijke apparaat nooit verlaat. Gebruik Cloudback-up (Pro) of de gratis Vault Export om uw kluis over te zetten.
 
-## Vault Export (.tdvault) - gratis voor iedereen
+## Vault Export (.tdvault) – gratis voor iedereen
 
 Vault Export maakt een enkel versleuteld, met een wachtwoord beveiligd bestand dat elk profiel, document en bijlage in uw kluis bevat. U kiest waar u het opslaat: de Bestanden-app, iCloud Drive, Google Drive, of u deelt het via AirDrop of e-mail.
 

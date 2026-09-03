@@ -12,9 +12,9 @@ Travel Document Vault oferece-lhe três camadas de proteção. Aqui está exatam
 
 Os seus documentos ficam no seu dispositivo. Não vão para os nossos servidores. Os três mecanismos de cópia de segurança servem cada um um propósito diferente e pode usar os três em simultâneo.
 
-- **Cópias de segurança locais automáticas** - ocorrem silenciosamente em segundo plano, sem ação necessária.
-- **Exportação do Cofre (.tdvault)** - um ficheiro encriptado portátil que guarda onde desejar.
-- **Cópia de Segurança na Nuvem (Pro)** - uma cópia encriptada automática no seu próprio iCloud ou Google Drive.
+- **Cópias de segurança locais automáticas** — ocorrem silenciosamente em segundo plano, sem ação necessária.
+- **Exportação do Cofre (.tdvault)** — um ficheiro encriptado portátil que guarda onde desejar.
+- **Cópia de Segurança na Nuvem (Pro)** — uma cópia encriptada automática no seu próprio iCloud ou Google Drive.
 
 ## Num relance
 
@@ -34,7 +34,7 @@ Em Definições verá uma linha como *Última cópia de segurança: há 2 horas,
 
 Estes instantâneos locais ficam no seu dispositivo. Uma cópia de segurança do sistema (iCloud Backup, Google Backup) reinstala a aplicação mas não pode restaurá-los num telemóvel novo porque a chave de encriptação nunca sai do seu dispositivo original. Para mover o seu cofre, use cópia de segurança na nuvem (Pro) ou a Exportação do Cofre gratuita.
 
-## Exportação do Cofre (.tdvault) - gratuito para todos
+## Exportação do Cofre (.tdvault) — gratuito para todos
 
 A Exportação do Cofre cria um único ficheiro encriptado e protegido por palavra-passe contendo cada perfil, documento e anexo do seu cofre. Escolhe onde guardar: aplicação Ficheiros, iCloud Drive, Google Drive ou partilhar via AirDrop ou email.
 
@@ -70,9 +70,9 @@ Nenhuma camada única é razão para saltar as outras. As contas na nuvem podem 
 
 ### Guias relacionados
 
-- [Como Exportar e Importar o Seu Cofre - passo-a-passo](https://traveldocumentvault.com/pt/faq/export-import/)
-- [O Que É o Meu Código de Recuperação? - guia completo para o armazenar com segurança](https://traveldocumentvault.com/pt/faq/recovery-code/)
-- [Cópia de Segurança na Nuvem - como funciona a encriptação de ponta a ponta](https://traveldocumentvault.com/pt/cloud-backup/)
+- [Como Exportar e Importar o Seu Cofre — passo-a-passo](https://traveldocumentvault.com/pt/faq/export-import/)
+- [O Que É o Meu Código de Recuperação? — guia completo para o armazenar com segurança](https://traveldocumentvault.com/pt/faq/recovery-code/)
+- [Cópia de Segurança na Nuvem — como funciona a encriptação de ponta a ponta](https://traveldocumentvault.com/pt/cloud-backup/)
 
 ## Obter Travel Document Vault
 

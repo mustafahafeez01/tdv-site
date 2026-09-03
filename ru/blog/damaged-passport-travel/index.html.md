@@ -109,4 +109,4 @@ Source: https://traveldocumentvault.com/ru/blog/damaged-passport-travel/
 
 [Экстренная ситуация6 мин чтения · апрель 2026Что делать, если паспорт потерян или украден за границей](https://traveldocumentvault.com/ru/blog/lost-passport-abroad/)
 
-[Истечение паспорта7 мин чтения · май 2026Паспорт истёк прямо перед поездкой - что делать](https://traveldocumentvault.com/ru/blog/passport-expired-what-to-do/)
+[Истечение паспорта7 мин чтения · май 2026Паспорт истёк прямо перед поездкой — что делать](https://traveldocumentvault.com/ru/blog/passport-expired-what-to-do/)

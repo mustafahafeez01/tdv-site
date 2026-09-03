@@ -68,7 +68,7 @@ Efter importen, kontrollera fliken Profiler för att bekräfta att alla profiler
 
 - **Icke-destruktiv:** Import lägger till befintlig data. Om du redan har profiler på målenheten läggs importerade profiler till utan att befintliga tas bort.
 - **Fullständig återgivning:** Allt bevaras exakt: dokumentnamn, datum, påminnelser om utgångsdatum, anpassade färger, bilagor och anteckningar.
-- **Krypterad hela vägen:** Den exporterade filen krypteras med lösenordet du väljer när du exporterar den, med AES-256-GCM och PBKDF2-nyckelderivering. Bara det lösenordet kan dekryptera filen, så förvara det på ett säkert ställe - utan det går filen inte att återställa.
+- **Krypterad hela vägen:** Den exporterade filen krypteras med lösenordet du väljer när du exporterar den, med AES-256-GCM och PBKDF2-nyckelderivering. Bara det lösenordet kan dekryptera filen, så förvara det på ett säkert ställe – utan det går filen inte att återställa.
 - **God praxis för säkerhetskopior:** Förvara din exporterade fil på en säker plats. Ta bort den efter en lyckad import om du vill, eller behåll den som en offline-säkerhetskopia.
 
 **Ansvarsfriskrivning:** Export och import är utformade för dataportabilitet. Håll exporterade filer säkra. Dela inte den exporterade säkerhetskopian med någon, eftersom den innehåller alla dina krypterade dokument och bilagor.

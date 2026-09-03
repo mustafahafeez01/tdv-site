@@ -84,7 +84,7 @@ HM Passport Office가 영국 갱신을 처리하며, 현재 처리 시간을 웹
 
 캐나다는 온라인 패스포트 갱신을 제공하지 않습니다. 모든 신청서는 우편으로 가거나 패스포트 캐나다 사무소 문을 통해갑니다. 이는 절차를 논리적으로 더 까다롭게 만듭니다. 특히 시골지역에 사는데 가장 가까운 패스포트 사무소가 몇 시간 떨어져 있다면 말입니다. 현재 처리 시간은 IRCC 페이지에서 확인하세요.
 
-**지금 갱신 알림을 설정하세요** - Travel Document Vault는 패스포트 만료 6개월, 3개월, 1개월 전에 알려주므로 항상 충분한 시간을 두고 갱신할 수 있습니다. [App Store에서 다운로드하세요.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**지금 갱신 알림을 설정하세요**. Travel Document Vault는 패스포트 만료 6개월, 3개월, 1개월 전에 알려주므로 항상 충분한 시간을 두고 갱신할 수 있습니다. [App Store에서 다운로드하세요.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 신속 패스포트 갱신 팁: 속도를 올리는 방법
 

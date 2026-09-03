@@ -20,15 +20,15 @@ Saat merencanakan perjalanan internasional, Anda akan terus-menerus mendengar du
 
 ## Apa Itu Paspor
 
-Paspor Anda memuat nama, tanggal lahir, foto, dan nomor paspor unik - diterbitkan oleh pemerintah Anda dan diakui di seluruh dunia sebagai bukti kewarganegaraan Anda. Ini salah satu dokumen paling penting yang pernah Anda miliki.
+Paspor Anda memuat nama, tanggal lahir, foto, dan nomor paspor unik, diterbitkan oleh pemerintah Anda dan diakui di seluruh dunia sebagai bukti kewarganegaraan Anda. Ini salah satu dokumen paling penting yang pernah Anda miliki.
 
 Anggap paspor Anda sebagai kartu identitas resmi untuk perjalanan internasional. Tanpanya, Anda tidak bisa secara sah meninggalkan negara Anda atau memasuki sebagian besar negara asing. Petugas imigrasi memeriksanya di perbatasan, maskapai mensyaratkannya untuk penerbangan internasional, dan petugas bea cukai memeriksanya saat Anda tiba.
 
-Paspor umumnya berlaku selama beberapa tahun (sering kali 10 tahun untuk dewasa, 5 tahun untuk anak-anak), meskipun masa berlakunya berbeda-beda menurut negara. Ketika paspor Anda kedaluwarsa, Anda tidak bisa bepergian ke luar negeri dan harus mengajukan perpanjangan. Memantau tanggal ini lebih penting daripada yang disadari kebanyakan orang, karena banyak negara mensyaratkan sisa masa berlaku minimal 6 bulan sebelum mengizinkan Anda masuk - jadi paspor yang belum kedaluwarsa pun masih bisa ditolak di perbatasan. Kedutaan negara tujuan Anda akan mengonfirmasi aturan pasti yang berlaku.
+Paspor umumnya berlaku selama beberapa tahun (sering kali 10 tahun untuk dewasa, 5 tahun untuk anak-anak), meskipun masa berlakunya berbeda-beda menurut negara. Ketika paspor Anda kedaluwarsa, Anda tidak bisa bepergian ke luar negeri dan harus mengajukan perpanjangan. Memantau tanggal ini lebih penting daripada yang disadari kebanyakan orang, karena banyak negara mensyaratkan sisa masa berlaku minimal 6 bulan sebelum mengizinkan Anda masuk, jadi paspor yang belum kedaluwarsa pun masih bisa ditolak di perbatasan. Kedutaan negara tujuan Anda akan mengonfirmasi aturan pasti yang berlaku.
 
 ## Apa Itu Visa
 
-Visa adalah izin resmi yang diterbitkan oleh negara tujuan yang memungkinkan Anda masuk dan tinggal di sana untuk tujuan dan jangka waktu tertentu. Berbeda dengan paspor - yang diterbitkan oleh negara Anda sendiri - visa berasal dari negara yang ingin Anda kunjungi.
+Visa adalah izin resmi yang diterbitkan oleh negara tujuan yang memungkinkan Anda masuk dan tinggal di sana untuk tujuan dan jangka waktu tertentu. Berbeda dengan paspor, yang diterbitkan oleh negara Anda sendiri, visa berasal dari negara yang ingin Anda kunjungi.
 
 Memiliki paspor yang berlaku tidak otomatis berarti Anda bisa memasuki negara mana pun. Paspor membuktikan bahwa Anda adalah warga negara tertentu; visa membuktikan bahwa negara tertentu telah memberi Anda izin untuk berada di sana. Beberapa negara bisa menolak masuk meskipun paspor Anda masih berlaku.
 
@@ -36,7 +36,7 @@ Persyaratan visa bergantung pada kewarganegaraan Anda. Warga negara tertentu mun
 
 ## Mengapa Anda Memerlukan Keduanya
 
-Paspor Anda menjawab satu pertanyaan: "Siapa Anda, dan negara mana yang menerbitkan dokumen ini?" Visa Anda menjawab pertanyaan lain: "Apakah negara tujuan mengizinkan Anda berkunjung?" Bersama-sama, keduanya bekerja seperti kunci dua bagian - paspor memungkinkan Anda meninggalkan negara asal, dan visa memberi izin masuk di negara tujuan.
+Paspor Anda menjawab satu pertanyaan: "Siapa Anda, dan negara mana yang menerbitkan dokumen ini?" Visa Anda menjawab pertanyaan lain: "Apakah negara tujuan mengizinkan Anda berkunjung?" Bersama-sama, keduanya bekerja seperti kunci dua bagian, paspor memungkinkan Anda meninggalkan negara asal, dan visa memberi izin masuk di negara tujuan.
 
 Sebagian besar perjalanan internasional memerlukan paspor yang berlaku sekaligus visa yang sesuai (atau kepastian bahwa visa tidak diperlukan untuk negara tujuan Anda). Tanpa paspor, Anda tidak bisa secara sah meninggalkan negara Anda. Tanpa visa yang disyaratkan, Anda tidak bisa masuk ke negara tujuan, betapapun berlakunya paspor Anda. Banyak gangguan perjalanan terjadi karena pelancong memiliki paspor yang berlaku tetapi lupa memeriksa persyaratan visa sebelum memesan.
 
@@ -57,11 +57,11 @@ Sebagian besar negara menerbitkan visa dalam kategori berikut:
 - **Visa turis:** Jenis yang paling umum, diterbitkan untuk perjalanan wisata, jalan-jalan, dan mengunjungi teman atau keluarga.
 - **Visa kerja:** Diperlukan untuk bekerja di luar negeri. Biasanya disponsori oleh pemberi kerja, dengan pembatasan khusus mengenai jenis pekerjaan yang diizinkan.
 - **Visa pelajar:** Untuk belajar di lembaga pendidikan resmi, sering kali dengan pembatasan bekerja di luar kampus dan batas waktu tertentu.
-- **Visa transit:** Disyaratkan oleh sejumlah negara saat Anda melintasi wilayahnya dalam perjalanan menuju tujuan lain - bahkan jika Anda hanya berganti pesawat.
+- **Visa transit:** Disyaratkan oleh sejumlah negara saat Anda melintasi wilayahnya dalam perjalanan menuju tujuan lain, bahkan jika Anda hanya berganti pesawat.
 - **E-visa:** Visa elektronik yang diajukan secara daring dan disimpan dalam sistem negara tujuan, terkait dengan nomor paspor Anda. Umum digunakan di Asia Tenggara dan semakin banyak diterapkan di wilayah lain.
 - **Visa saat kedatangan (visa on arrival):** Diterbitkan di bandara atau perbatasan negara tujuan saat Anda tiba. Prosesnya biasanya cepat, meskipun antreannya bisa panjang, dan tidak semua negara menawarkan opsi ini.
 
-Persyaratan visa dalam setiap kategori bisa sangat berbeda. Visa turis untuk satu negara mungkin berlaku 30 hari; negara lain mungkin mengizinkan hingga 90 hari. Sebagian bersifat sekali masuk (single-entry - Anda hanya bisa masuk satu kali), sementara yang lain mengizinkan masuk berkali-kali (multiple-entry).
+Persyaratan visa dalam setiap kategori bisa sangat berbeda. Visa turis untuk satu negara mungkin berlaku 30 hari; negara lain mungkin mengizinkan hingga 90 hari. Sebagian bersifat sekali masuk (single-entry, Anda hanya bisa masuk satu kali), sementara yang lain mengizinkan masuk berkali-kali (multiple-entry).
 
 | Aspek | Paspor | Visa |
 |---|---|---|
@@ -75,7 +75,7 @@ Persyaratan visa dalam setiap kategori bisa sangat berbeda. Visa turis untuk sat
 
 ## Kebingungan Umum: Stempel Visa vs E-Visa
 
-Salah satu sumber kebingungan adalah perbedaan antara stempel visa tradisional dan e-visa modern. Dahulu, petugas akan menstempel atau menuliskan persetujuan langsung di paspor Anda - Anda akan melihat cap resmi, tanggal, dan catatan persetujuan tercetak di halamannya. E-visa bekerja secara berbeda: Anda mengajukan secara daring, membayar biaya, dan menerima persetujuan melalui email, bukan stempel fisik.
+Salah satu sumber kebingungan adalah perbedaan antara stempel visa tradisional dan e-visa modern. Dahulu, petugas akan menstempel atau menuliskan persetujuan langsung di paspor Anda — Anda akan melihat cap resmi, tanggal, dan catatan persetujuan tercetak di halamannya. E-visa bekerja secara berbeda: Anda mengajukan secara daring, membayar biaya, dan menerima persetujuan melalui email, bukan stempel fisik.
 
 Alih-alih dicetak di paspor Anda, e-visa disimpan dalam sistem elektronik negara tujuan dan terkait dengan nomor paspor Anda. Saat Anda tiba, petugas perbatasan akan mencarinya di sistem mereka untuk mengonfirmasi visa Anda. Kedua jenis ini sama-sama berlaku dan mengikat secara hukum.
 
@@ -93,7 +93,7 @@ Ada tiga sumber yang bisa memberi tahu Anda apa yang sebenarnya diperlukan, dan 
 
 Kami sengaja tidak menautkan ketiganya. Aturan masuk berubah cukup sering sehingga tautan yang disimpan hari ini bisa mengarah ke panduan yang sudah usang saat Anda membacanya, jadi kunjungi langsung otoritas terkait dan baca apa yang tertulis di sana saat ini.
 
-Sampai di sini, ada catatan jujur yang perlu disampaikan tentang artikel ini sendiri. Artikel ini menjelaskan perbedaan paspor dan visa secara umum, dan itulah batas yang bisa ditawarkan blog mana pun - termasuk yang ini. Tidak ada yang di sini menggantikan apa yang disampaikan otoritas penerbit tentang kewarganegaraan, negara tujuan, dan tanggal perjalanan Anda. Kami memeriksa apa yang kami terbitkan, dan kami tetap bisa saja keliru atau ketinggalan informasi. Anggap ini sebagai latar belakang yang membantu Anda mengajukan pertanyaan yang lebih tepat, lalu konfirmasikan jawabannya dengan kedutaan atau layanan nasihat perjalanan pemerintah Anda.
+Sampai di sini, ada catatan jujur yang perlu disampaikan tentang artikel ini sendiri. Artikel ini menjelaskan perbedaan paspor dan visa secara umum, dan itulah batas yang bisa ditawarkan blog mana pun, termasuk yang ini. Tidak ada yang di sini menggantikan apa yang disampaikan otoritas penerbit tentang kewarganegaraan, negara tujuan, dan tanggal perjalanan Anda. Kami memeriksa apa yang kami terbitkan, dan kami tetap bisa saja keliru atau ketinggalan informasi. Anggap ini sebagai latar belakang yang membantu Anda mengajukan pertanyaan yang lebih tepat, lalu konfirmasikan jawabannya dengan kedutaan atau layanan nasihat perjalanan pemerintah Anda.
 
 Mulailah 2-3 bulan sebelum keberangkatan jika Anda kemungkinan memerlukan visa, agar ada cukup waktu untuk mengajukan permohonan. Dan jika ada hal yang belum jelas, atau Anda memiliki kewarganegaraan ganda, hubungi langsung kedutaan negara tujuan alih-alih menebak-nebak paspor mana yang harus digunakan.
 
@@ -101,15 +101,15 @@ Mulailah 2-3 bulan sebelum keberangkatan jika Anda kemungkinan memerlukan visa, 
 
 Anggapan yang keliru adalah bahwa visa ikut kedaluwarsa saat paspor kedaluwarsa, padahal bukan begitu cara kerjanya. Masa berlaku visa sepenuhnya terpisah dari masa berlaku paspor. Jika paspor Anda kedaluwarsa lebih dulu daripada visa, visa Anda tetap berlaku.
 
-Begini skenarionya: paspor Anda kedaluwarsa, sehingga Anda mengajukan paspor baru, tetapi Anda masih memegang visa turis yang berlaku untuk suatu negara tujuan - mungkin masih berlaku selama enam bulan lagi - yang distempel di paspor lama Anda yang sudah kedaluwarsa. Anda tetap bisa bepergian dengan visa ini. Bawa saja kedua paspor - paspor lama (kedaluwarsa) yang memuat visa dan paspor baru Anda - dan petugas imigrasi akan memeriksa kedua dokumen tersebut saat Anda masuk.
+Begini skenarionya: paspor Anda kedaluwarsa, sehingga Anda mengajukan paspor baru, tetapi Anda masih memegang visa turis yang berlaku untuk suatu negara tujuan, mungkin masih berlaku selama enam bulan lagi, yang distempel di paspor lama Anda yang sudah kedaluwarsa. Anda tetap bisa bepergian dengan visa ini. Bawa saja kedua paspor, paspor lama (kedaluwarsa) yang memuat visa dan paspor baru Anda, dan petugas imigrasi akan memeriksa kedua dokumen tersebut saat Anda masuk.
 
 Beberapa negara mewajibkan visa dipindahkan ke paspor baru Anda. Ini harus dilakukan di kedutaan atau konsulat negara penerbit sebelum Anda bepergian. Persyaratannya berbeda-beda menurut negara tujuan, sehingga Anda harus memastikannya melalui situs resmi kedutaan negara tersebut atau menghubunginya langsung.
 
-Kebingungan ini muncul karena visa tercantum di paspor lama Anda, yang sudah kedaluwarsa sebagai dokumen perjalanan, sementara visa itu sendiri - izin yang diberikan oleh negara tujuan - tetap berlaku sesuai tanggal kedaluwarsanya sendiri. Sebelum bepergian, pastikan persyaratan spesifiknya dengan otoritas imigrasi negara tujuan, karena sebagian negara mewajibkan Anda memindahkan visa ke paspor baru terlebih dahulu.
+Kebingungan ini muncul karena visa tercantum di paspor lama Anda, yang sudah kedaluwarsa sebagai dokumen perjalanan, sementara visa itu sendiri, izin yang diberikan oleh negara tujuan, tetap berlaku sesuai tanggal kedaluwarsanya sendiri. Sebelum bepergian, pastikan persyaratan spesifiknya dengan otoritas imigrasi negara tujuan, karena sebagian negara mewajibkan Anda memindahkan visa ke paspor baru terlebih dahulu.
 
 ## Perjalanan Bebas Visa: Situasi yang Kompleks
 
-Banyak negara memiliki perjanjian bebas visa satu sama lain, yang memungkinkan warganya melintasi perbatasan tanpa perlu mengurus visa terlebih dahulu. Area Schengen di Eropa adalah contoh paling terkenal - pemegang paspor dari negara anggota bisa bergerak bebas di antara 29 negara anggotanya tanpa pemeriksaan visa. Keanggotaannya bisa berubah, jadi halaman resmi Komisi Eropa tentang Schengen adalah tempat terbaik untuk memastikan negara mana saja yang saat ini menjadi anggota. Asia Tenggara, Karibia, dan sebagian Afrika memiliki skema serupa.
+Banyak negara memiliki perjanjian bebas visa satu sama lain, yang memungkinkan warganya melintasi perbatasan tanpa perlu mengurus visa terlebih dahulu. Area Schengen di Eropa adalah contoh paling terkenal, pemegang paspor dari negara anggota bisa bergerak bebas di antara 29 negara anggotanya tanpa pemeriksaan visa. Keanggotaannya bisa berubah, jadi halaman resmi Komisi Eropa tentang Schengen adalah tempat terbaik untuk memastikan negara mana saja yang saat ini menjadi anggota. Asia Tenggara, Karibia, dan sebagian Afrika memiliki skema serupa.
 
 Namun, perjalanan bebas visa memiliki batasan. Biasanya hanya berlaku untuk wisata atau kunjungan jangka pendek, bukan untuk bekerja atau belajar. Masa bebas visa juga terbatas, sering kali 30 hingga 90 hari tergantung negaranya. Jika Anda melampaui batas waktu yang diizinkan, Anda menjadi penduduk ilegal dan menghadapi sanksi termasuk denda, deportasi, atau larangan masuk di masa depan.
 

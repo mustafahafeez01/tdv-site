@@ -14,11 +14,11 @@ Keine Analyse-SDKs, keine Werbebibliotheken, keine Tracking-Pixel in der App.
 
 ### Keine ausgehende Datenerfassung
 
-Die App stellt standardmäßig keine ausgehenden Verbindungen her. Sie funktioniert vollständig offline. Die einzige Netzwerknutzung ist die optionale Pro-Cloud-Sicherung, die sich mit Ihrem eigenen iCloud oder Google Drive synchronisiert - niemals mit unseren Servern.
+Die App stellt standardmäßig keine ausgehenden Verbindungen her. Sie funktioniert vollständig offline. Die einzige Netzwerknutzung ist die optionale Pro-Cloud-Sicherung, die sich mit Ihrem eigenen iCloud oder Google Drive synchronisiert – niemals mit unseren Servern.
 
 ### Standardmäßig auf dem Gerät
 
-Alle Dokumente, Scans und Daten bleiben auf Ihrem Gerät. Es gibt keine TDV-Cloud, keinen TDV-Server, kein TDV-Backend. Pro-Benutzer können ihre verschlüsselte Vault optional in ihr eigenes iCloud oder Google Drive-Konto sichern - nur sie halten den Wiederherstellungsschlüssel.
+Alle Dokumente, Scans und Daten bleiben auf Ihrem Gerät. Es gibt keine TDV-Cloud, keinen TDV-Server, kein TDV-Backend. Pro-Benutzer können ihre verschlüsselte Vault optional in ihr eigenes iCloud oder Google Drive-Konto sichern – nur sie halten den Wiederherstellungsschlüssel.
 
 ### AES-256-GCM-Verschlüsselung
 
@@ -32,17 +32,17 @@ Sie müssen uns nicht vertrauen. Sie können jede obige Aussage mit kostenlosen,
 
 Installieren Sie einen Netzwerk-Monitor wie **mitmproxy** (kostenlos, Open Source), **Wireshark** (kostenlos, Open Source), oder **Charles Proxy**. Öffnen Sie Travel Document Vault, scannen Sie ein Dokument, durchsuchen Sie Ihren Tresor und stellen Sie einen Reminder ein. Sie sollten nicht sehen, dass Ihre Dokumente, Scans, Ablaufdaten oder Tresorinhalte an Travel Document Vault gesendet werden. Der Netzwerkverkehr sollte sich auf bestimmte Funktionen beschränken: optionale Sentry-Absturzberichte, Kaufprüfungen über App Store oder Google Play, optionale Cloud-Sicherung in Ihr eigenes iCloud- oder Google-Drive-Konto und eine manuelle Bugfix-Prüfung, die unten erklärt wird.
 
-In den Einstellungen gibt es eine Schaltfläche **Check for Updates**. Dies ist eine manuelle Prüfung, nie automatisch - sie wird nur ausgeführt, wenn Sie selbst darauf tippen, nie im Hintergrund und nie von selbst. Die Prüfung kontaktiert **updates.traveldocumentvault.com** - unseren eigenen Update-Server, den wir auf Google Cloud betreiben und der kryptografisch signierte Update-Dateien aus einem Speicher-Bucket bereitstellt. Wir führen keine Aufzeichnungen über die Prüfung: Anforderungsprotokolle sind auf unserer Seite deaktiviert, daher werden keine IP-Adressen beibehalten. Jedes Update ist mit einem Schlüssel signiert, den nur wir haben, und die App lehnt alles ab, dessen Signatur nicht dem in der App integrierten Zertifikat entspricht. Derselbe Tipp prüft auch, ob im **App Store** oder bei **Google Play** eine neuere Version der App verfügbar ist. Sie existiert, damit bestimmte Fehlerbehebungen Sie schneller erreichen können, als auf eine komplett neue Veröffentlichung im App Store oder bei Google Play zu warten - nützlich bei dringenden Fehlerbehebungen, abhängig von der Art der Behebung. Es gilt dieselbe Regel wie für alles andere auf dieser Seite: kein Netzwerkaufruf ohne Ihre Anforderung.
+In den Einstellungen gibt es eine Schaltfläche **Check for Updates**. Dies ist eine manuelle Prüfung, nie automatisch – sie wird nur ausgeführt, wenn Sie selbst darauf tippen, nie im Hintergrund und nie von selbst. Die Prüfung kontaktiert **updates.traveldocumentvault.com** – unseren eigenen Update-Server, den wir auf Google Cloud betreiben und der kryptografisch signierte Update-Dateien aus einem Speicher-Bucket bereitstellt. Wir führen keine Aufzeichnungen über die Prüfung: Anforderungsprotokolle sind auf unserer Seite deaktiviert, daher werden keine IP-Adressen beibehalten. Jedes Update ist mit einem Schlüssel signiert, den nur wir haben, und die App lehnt alles ab, dessen Signatur nicht dem in der App integrierten Zertifikat entspricht. Derselbe Tipp prüft auch, ob im **App Store** oder bei **Google Play** eine neuere Version der App verfügbar ist. Sie existiert, damit bestimmte Fehlerbehebungen Sie schneller erreichen können, als auf eine komplett neue Veröffentlichung im App Store oder bei Google Play zu warten – nützlich bei dringenden Fehlerbehebungen, abhängig von der Art der Behebung. Es gilt dieselbe Regel wie für alles andere auf dieser Seite: kein Netzwerkaufruf ohne Ihre Anforderung.
 
 ### 2. iOS App Datenschutzbericht
 
-Gehen Sie auf dem iPhone zu **Einstellungen > Datenschutz & Sicherheit > App-Datenschutzbericht**. Diese integrierte Apple-Funktion zeigt, welche Apps mit Netzwerk-Domänen Kontakt aufgenommen haben. Travel Document Vault sendet uns Ihre Dokumente, Scans, Ablaufdaten oder Tresorinhalte nicht. Wenn Sie Pro Cloud-Sicherung aktiviert haben, sehen Sie Verbindungen zu Apples iCloud-Domains - das ist Ihre eigene Sicherung, die sich mit Ihrem eigenen iCloud-Konto synchronisiert.
+Gehen Sie auf dem iPhone zu **Einstellungen > Datenschutz & Sicherheit > App-Datenschutzbericht**. Diese integrierte Apple-Funktion zeigt, welche Apps mit Netzwerk-Domänen Kontakt aufgenommen haben. Travel Document Vault sendet uns Ihre Dokumente, Scans, Ablaufdaten oder Tresorinhalte nicht. Wenn Sie Pro Cloud-Sicherung aktiviert haben, sehen Sie Verbindungen zu Apples iCloud-Domains – das ist Ihre eigene Sicherung, die sich mit Ihrem eigenen iCloud-Konto synchronisiert.
 
-### 3. Android - Ihre Privatsphäre überprüfen
+### 3. Android – Ihre Privatsphäre überprüfen
 
-Android hat keinen einzelnen integrierten Datenschutzbericht wie das iPhone. Zwei einfache Möglichkeiten, es selbst zu überprüfen: Sehen Sie sich den eigenen **Data Safety**-Bereich dieser App auf ihrer Google-Play-Seite an (er gibt klar an, was erfasst wird, was geteilt wird, dass Ihre Daten bei der Übertragung verschlüsselt sind und dass sie nicht gelöscht werden können) - oder verwenden Sie einen Netzwerk-Monitor wie in Schritt 1 oben beschrieben.
+Android hat keinen einzelnen integrierten Datenschutzbericht wie das iPhone. Zwei einfache Möglichkeiten, es selbst zu überprüfen: Sehen Sie sich den eigenen **Data Safety**-Bereich dieser App auf ihrer Google-Play-Seite an (er gibt klar an, was erfasst wird, was geteilt wird, dass Ihre Daten bei der Übertragung verschlüsselt sind und dass sie nicht gelöscht werden können) – oder verwenden Sie einen Netzwerk-Monitor wie in Schritt 1 oben beschrieben.
 
-Wenn Sie die Cloud-Sicherung aktiviert haben, bemerken Sie eventuell etwas Aktivität zu Googles Servern (Webadressen, die auf **googleapis.com** enden). Das ist normal und sicher: Es handelt sich nur um Ihre gesperrte, verschlüsselte Sicherungsdatei und eine Anmeldeprüfung, die direkt an **Ihr eigenes** Google-Drive-Konto gesendet werden - dasselbe, das Sie bereits für Fotos oder Gmail nutzen. Wir sehen sie nie, erhalten sie nie und bewahren nirgendwo eine Kopie auf. Nur Sie besitzen den Wiederherstellungsschlüssel, der sie entsperren kann.
+Wenn Sie die Cloud-Sicherung aktiviert haben, bemerken Sie eventuell etwas Aktivität zu Googles Servern (Webadressen, die auf **googleapis.com** enden). Das ist normal und sicher: Es handelt sich nur um Ihre gesperrte, verschlüsselte Sicherungsdatei und eine Anmeldeprüfung, die direkt an **Ihr eigenes** Google-Drive-Konto gesendet werden – dasselbe, das Sie bereits für Fotos oder Gmail nutzen. Wir sehen sie nie, erhalten sie nie und bewahren nirgendwo eine Kopie auf. Nur Sie besitzen den Wiederherstellungsschlüssel, der sie entsperren kann.
 
 ### 4. App Store und Play Store Datenschutzetiketten
 
@@ -162,6 +162,6 @@ Von einer Framework-Abhängigkeit deklariert. Die App lädt keine Dateien im Hin
 
 Dies sind häufige Berechtigungen, die viele Apps anfordern. Wir fordern keine an und sie erscheinen nicht in unserem Manifest.
 
-**Standort** - Kein GPS, kein Geofencing, kein Tracking **Kontakte** - Kein Zugriff auf Ihr Adressbuch **Bluetooth** - Kein lokales Netzwerk oder Gerätescanning **Kalender** - Erinnerungen werden auf dem Gerät verwaltet, nicht über Ihren Kalender
+**Standort** – Kein GPS, kein Geofencing, kein Tracking **Kontakte** – Kein Zugriff auf Ihr Adressbuch **Bluetooth** – Kein lokales Netzwerk oder Gerätescanning **Kalender** – Erinnerungen werden auf dem Gerät verwaltet, nicht über Ihren Kalender
 
 Noch Fragen? Lesen Sie unsere vollständige [Datenschutzrichtlinie](https://traveldocumentvault.com/privacy-policy/) oder konsultieren Sie die [FAQ](https://traveldocumentvault.com/de/faq/).

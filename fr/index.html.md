@@ -36,15 +36,15 @@ Le serveur le plus sûr pour les scans de passeport n'existe pas du tout. C'est 
 
 ### Chiffrement sur l'Appareil
 
-Les documents sont chiffrés sur votre appareil avec AES-256-GCM, en utilisant des clés conservées dans le Secure Enclave de votre appareil. C'est un chiffrement solide et moderne - et vous devriez toujours protéger votre téléphone avec un code d'accès fort et App Lock.
+Les documents sont chiffrés sur votre appareil avec AES-256-GCM, en utilisant des clés conservées dans le Secure Enclave de votre appareil. C'est un chiffrement solide et moderne — et vous devriez toujours protéger votre téléphone avec un code d'accès fort et App Lock.
 
 ### Votre Cloud. Votre Clé.
 
-Sauvegarde chiffrée optionnelle (Pro) vers votre iCloud ou Google Drive personnel, avec restauration en un geste sur un nouvel appareil - vous détenez le code de récupération de sorte que nous ne le voyons jamais. L'export gratuit du coffre est toujours inclus.
+Sauvegarde chiffrée optionnelle (Pro) vers votre iCloud ou Google Drive personnel, avec restauration en un geste sur un nouvel appareil — vous détenez le code de récupération de sorte que nous ne le voyons jamais. L'export gratuit du coffre est toujours inclus.
 
 ### Rappels Intelligents
 
-Les passeports vous alertent dès huit mois avant, puis les rappels se rapprochent - six mois, trois, six semaines, un mois - jusqu'au jour de l'expiration. Chaque type de document a son propre calendrier, prêt dès que vous l'ajoutez.
+Les passeports vous alertent dès huit mois avant, puis les rappels se rapprochent — six mois, trois, six semaines, un mois — jusqu'au jour de l'expiration. Chaque type de document a son propre calendrier, prêt dès que vous l'ajoutez.
 
 ### Logique Intelligente pour les Familles
 
@@ -185,7 +185,7 @@ Toujours gratuit
 - PIN + Verrouillage Biométrique (Face ID / Touch ID)
 - 1 profil
 - Jusqu'à 5 documents
-- Récemment supprimés - fenêtre d'annulation de 30 jours
+- Récemment supprimés — fenêtre d'annulation de 30 jours
 
 Toutes les données restent sur votre appareil. Toujours.
 
@@ -202,7 +202,7 @@ Pour toute votre famille. Payez une fois. Toutes les mises à jour v1.x incluses
 - Planificateur de voyage avec feu tricolore de disponibilité familiale
 - Sauvegarde Votre Cloud (iCloud ou Google Drive, chiffrement de bout en bout)
 - Suivi des jours à l'étranger pour jours fiscaux et limites de visa
-- Franchises de voyage - Détaxe, bagages, devises
+- Franchises de voyage — Détaxe, bagages, devises
 - Chaque membre de la famille, un coffre-fort
 - Documents **Illimités**
 - Tableau de bord d'expiration familial complet
@@ -224,7 +224,7 @@ Gratuit
 - PIN + Verrouillage Biométrique (Face ID / Touch ID)
 - 1 profil
 - Jusqu'à 5 documents
-- Récemment supprimés - fenêtre d'annulation de 30 jours
+- Récemment supprimés — fenêtre d'annulation de 30 jours
 
 Toutes les données restent sur votre appareil. Toujours.
 
@@ -243,7 +243,7 @@ Tout en Gratuit, plus :
 - Planificateur de voyage avec feu tricolore de disponibilité familiale
 - Sauvegarde Votre Cloud (iCloud ou Google Drive, chiffrement de bout en bout)
 - Suivi des jours à l'étranger pour les limites fiscales et de visa
-- Franchises de voyage - détaxe, bagages, devises
+- Franchises de voyage — détaxe, bagages, devises
 - Chaque membre de la famille, un coffre-fort
 - Documents **Illimités**
 - Tableau de bord d'expiration familial complet
@@ -258,7 +258,7 @@ Restaurez vos achats à tout moment avec le compte App Store ou Google Play avec
 
 ## Questions Courantes
 
-Est-ce vraiment privé ? Oui. Tout est stocké à 100% sur votre appareil. Nous n'avons accès à aucun de vos documents, et il n'y a pas de base de données cloud. Ne nous croyez pas sur parole - [vérifiez par vous-même](https://traveldocumentvault.com/fr/privacy-verification/). Et si je perds mon téléphone ? Votre coffre-fort est stocké sur votre appareil. Si vous changez de téléphone, restaurez à l'aide de votre sauvegarde habituelle du téléphone. Pouvez-vous synchroniser entre les appareils ? Oui. Avec Pro, activez la sauvegarde Votre Cloud pour synchroniser votre coffre-fort chiffré avec votre iCloud ou Google Drive. Vous détenez le code de récupération. Nous n'avons jamais accès à vos données. Qu'est-ce que le planificateur de voyage ? Le planificateur de voyage regroupe les documents de la famille par voyage et affiche un feu tricolore de disponibilité - vert quand tout le monde est prêt, orange si le passeport de quelqu'un arrive bientôt à expiration. Planifiez les voyages ensemble en confiance. [Voir toutes les réponses sur la confidentialité et les données](https://traveldocumentvault.com/fr/faq/)
+Est-ce vraiment privé ? Oui. Tout est stocké à 100% sur votre appareil. Nous n'avons accès à aucun de vos documents, et il n'y a pas de base de données cloud. Ne nous croyez pas sur parole — [vérifiez par vous-même](https://traveldocumentvault.com/fr/privacy-verification/). Et si je perds mon téléphone ? Votre coffre-fort est stocké sur votre appareil. Si vous changez de téléphone, restaurez à l'aide de votre sauvegarde habituelle du téléphone. Pouvez-vous synchroniser entre les appareils ? Oui. Avec Pro, activez la sauvegarde Votre Cloud pour synchroniser votre coffre-fort chiffré avec votre iCloud ou Google Drive. Vous détenez le code de récupération. Nous n'avons jamais accès à vos données. Qu'est-ce que le planificateur de voyage ? Le planificateur de voyage regroupe les documents de la famille par voyage et affiche un feu tricolore de disponibilité — vert quand tout le monde est prêt, orange si le passeport de quelqu'un arrive bientôt à expiration. Planifiez les voyages ensemble en confiance. [Voir toutes les réponses sur la confidentialité et les données](https://traveldocumentvault.com/fr/faq/)
 
 **Important :** Travel Document Vault est un outil d'organisation personnelle pour stocker des copies numériques de vos documents. **Les copies numériques stockées dans cette application ne sont PAS valides pour voyager.** Il ne vérifie pas l'authenticité des documents et ne fournit pas de conseil juridique ou de voyage. Portez toujours les documents originaux et vérifiez toutes les exigences de voyage auprès des sources gouvernementales officielles.
 

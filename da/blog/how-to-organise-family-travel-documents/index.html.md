@@ -10,13 +10,13 @@ Source: https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-do
 
 ## Vigtigste punkter
 
-- Familiens tjekliste for rejsedokumenter kræver pas, visa, rejseforsikring og vaccinationsbeviser - og det er før I regner børnespecifikke dokumenter med.
+- Familiens tjekliste for rejsedokumenter kræver pas, visa, rejseforsikring og vaccinationsbeviser – og det er før I regner børnespecifikke dokumenter med.
 - Opbevar alle pas ét dedikeret sted hjemme. Ikke rodeskuffen. Ikke en jakkelomme. Ét sted, altid.
 - Digitale backups kan ikke tage jer gennem grænsekontrol, men de sparer timer på en ambassade, hvis noget forsvinder. Gem dem krypteret, ikke i kamerarullen.
-- At holde styr på udløbsdatoer, før I booker - ikke ugen før afrejse - er den vane, der forhindrer de fleste dokumentkatastrofer på rejsen.
+- At holde styr på udløbsdatoer, før I booker – ikke ugen før afrejse – er den vane, der forhindrer de fleste dokumentkatastrofer på rejsen.
 - En tjekliste før afrejse, som I kører igennem ved booking, giver jer tid nok til at løse problemer, før de bliver dyre.
 
-Klokken er 23 aftenen før en flyafgang, passene ligger fremme, forsikringsudskriften er et sted, men vaccinationsattesten - den destinationen faktisk kræver - er forsvundet et sted i huset. Det er problemet, når I ikke har et system for familiens rejsedokumenter: I leder på en ny måde hver gang, og til sidst dukker noget vigtigt ikke op.
+Klokken er 23 aftenen før en flyafgang, passene ligger fremme, forsikringsudskriften er et sted, men vaccinationsattesten – den destinationen faktisk kræver – er forsvundet et sted i huset. Det er problemet, når I ikke har et system for familiens rejsedokumenter: I leder på en ny måde hver gang, og til sidst dukker noget vigtigt ikke op.
 
 At vide, hvordan man organiserer rejsedokumenter for en hel familie, er en af de ting, der føles valgfri, indtil den bestemt ikke er det. Denne guide viser jer, hvordan I sætter det op én gang og slipper for at hovedkulds lede før hver tur.
 
@@ -39,13 +39,13 @@ Det afhænger af, hvor I skal hen, men for de fleste internationale familierejse
 
 **Dokumenter specifikt til rejser med børn**
 
-- Fødselsattester - kræves nogle gange ved grænsekontrol, især når barnets efternavn adskiller sig fra den rejsende forælders
-- Et underskrevet samtykkebrev fra forælderen, hvis den ene forælder ikke er med - stærkt anbefalet ved rejser med kun én forælder eller bedsteforældre
+- Fødselsattester – kræves nogle gange ved grænsekontrol, især når barnets efternavn adskiller sig fra den rejsende forælders
+- Et underskrevet samtykkebrev fra forælderen, hvis den ene forælder ikke er med – stærkt anbefalet ved rejser med kun én forælder eller bedsteforældre
 - Forældremyndighedsafgørelser, hvis relevant
 
 ### Samtykkebrev til børns rejse: hvornår har I brug for det
 
-Et samtykkebrev til børns rejse er et underskrevet dokument fra den fraværende forælder (eller værge), der giver tilladelse til, at barnet må rejse. Det er ikke et universelt lovkrav, men grænsemyndigheder i mange lande - herunder USA, Canada, Mexico og flere andre - beder ofte om det, når et barn rejser med kun én forælder eller med en anden voksen.
+Et samtykkebrev til børns rejse er et underskrevet dokument fra den fraværende forælder (eller værge), der giver tilladelse til, at barnet må rejse. Det er ikke et universelt lovkrav, men grænsemyndigheder i mange lande – herunder USA, Canada, Mexico og flere andre – beder ofte om det, når et barn rejser med kun én forælder eller med en anden voksen.
 
 Uden det risikerer I forsinkelser, ekstra spørgsmål eller i nogle tilfælde nægtet indrejse. Nogle lande, som Canada og Sydafrika, er kendt for strengt at kræve denne dokumentation.
 
@@ -61,7 +61,7 @@ Et gyldigt samtykkebrev bør indeholde: barnets fulde navn og fødselsdato, begg
 
 Originalerne hører hjemme ét sted, og det sted findes kun til rejsedokumenter. Ikke en skuffe med "diverse vigtige papirer", hvor de konkurrerer med gamle regninger.
 
-En dedikeret rejsedokumentpung eller -mappe - den type, der kan rumme flere pas sammen med foldede A4-dokumenter - klarer opgaven fint; mærk den, og opbevar den samme sted hver gang: en bestemt hylde, en skuffe på hjemmekontoret, eller en brandsikker boks, hvis I vil have ekstra sikkerhed.
+En dedikeret rejsedokumentpung eller -mappe – den type, der kan rumme flere pas sammen med foldede A4-dokumenter – klarer opgaven fint; mærk den, og opbevar den samme sted hver gang: en bestemt hylde, en skuffe på hjemmekontoret, eller en brandsikker boks, hvis I vil have ekstra sikkerhed.
 
 **Det, der afgør, om et system holder, er at lægge dokumenterne tilbage med det samme efter brug.** Dokumenter forsvinder sjældent på grund af tyveri, men fordi nogen brugte dem, lagde dem et midlertidigt sted, og de blev begravet. "Jeg lægger det tilbage senere" er, hvordan man ender med at lede hele huset igennem klokken 23.
 
@@ -71,15 +71,15 @@ Hvis jeres børn er gamle nok til selv at bære deres pas gennem en lufthavn, s�
 
 Digitale kopier tager jer ikke gennem grænsekontrol. En grænsebetjent vil se originalen, punktum. Men en sikker digital backup er reelt værdifuld, hvis originalen bliver væk eller stjålet under rejsen.
 
-Når noget forsvinder, sparer det timer på en politianmeldelse eller på at få et nøddokument fra en ambassade, hvis I har dokumentnummer, udløbsdato og en tydelig scanning klar. En backup-scanning er ikke paranoia - det er bare fornuftigt.
+Når noget forsvinder, sparer det timer på en politianmeldelse eller på at få et nøddokument fra en ambassade, hvis I har dokumentnummer, udløbsdato og en tydelig scanning klar. En backup-scanning er ikke paranoia – det er bare fornuftigt.
 
-Hvor I opbevarer scanningerne, betyder mere, end de fleste går rundt og tror. Et almindeligt fotobibliotek - Google Fotos, iCloud, kamerarullen - er bekvemt, men det er ikke designet til følsomme dokumenter. Kommer nogen ind i jeres fotobibliotek, får de også fat i passcanningerne. En krypteret, dedikeret løsning er pengene værd.
+Hvor I opbevarer scanningerne, betyder mere, end de fleste går rundt og tror. Et almindeligt fotobibliotek – Google Fotos, iCloud, kamerarullen – er bekvemt, men det er ikke designet til følsomme dokumenter. Kommer nogen ind i jeres fotobibliotek, får de også fat i passcanningerne. En krypteret, dedikeret løsning er pengene værd.
 
 Hvad det betyder i praksis
 
 Bliver telefonen stjålet, og tyven kommer ind i fotobiblioteket, har de en tydelig scanning af passets dataside: navn, fødselsdato, pasnummer og foto. Det er nok til identitetstyveri. At opbevare passcanninger i en krypteret app, der kræver en separat PIN-kode eller biometri, er markant sikrere end et fotobibliotek, selv hvis begge dele ligger på samme enhed.
 
-[Travel Document Vault](https://traveldocumentvault.com) gemmer alt på enheden med stærk kryptering (valgfri krypteret backup til jeres eget iCloud eller Google Drive med Pro). Hvert familiemedlem får sin egen profil, og udløbsdatoer spores automatisk. Vil I hellere gøre det selv, virker en krypteret mappe i en pålidelig password manager også - den minder jer bare ikke om, når noget snart udløber.
+[Travel Document Vault](https://traveldocumentvault.com) gemmer alt på enheden med stærk kryptering (valgfri krypteret backup til jeres eget iCloud eller Google Drive med Pro). Hvert familiemedlem får sin egen profil, og udløbsdatoer spores automatisk. Vil I hellere gøre det selv, virker en krypteret mappe i en pålidelig password manager også – den minder jer bare ikke om, når noget snart udløber.
 
 ## Overblik over udløbsdatoer: den mest oversete del
 
@@ -91,15 +91,15 @@ Her er mønstret, der fanger familier: I fornyer jeres eget pas, opdaterer kalen
 
 - **Kalenderpåmindelser:** Indstil én 12 måneder før hvert dokument udløber og en til ved 6 måneder. I skal huske at opdatere dem, når dokumenter fornyes, og I skal have udløbsdatoerne tilgængelige i første omgang.
 - **Regneark:** Virker godt, hvis I rent faktisk vedligeholder det. Én række pr. dokument pr. person, udløbsdatoen, og en formel, der markerer alt, der udløber inden for 12 måneder.
-- **Dedikeret app:** Værktøjer som Travel Document Vault klarer påmindelserne automatisk - scan dokumentet, bekræft udløbsdatoen, og appen planlægger advarsler fra otte måneder før, og igen med tættere intervaller, uden at I skal tænke på det.
+- **Dedikeret app:** Værktøjer som Travel Document Vault klarer påmindelserne automatisk – scan dokumentet, bekræft udløbsdatoen, og appen planlægger advarsler fra otte måneder før, og igen med tættere intervaller, uden at I skal tænke på det.
 
-Alle tre metoder virker - det vigtige er at vælge den, der passer til, hvordan I allerede gør tingene, og rent faktisk holde fast i den.
+Alle tre metoder virker – det vigtige er at vælge den, der passer til, hvordan I allerede gør tingene, og rent faktisk holde fast i den.
 
-**Travel Document Vault** klarer overblikket over udløbsdatoer for hvert familiemedlem automatisk - scan hvert pas én gang, og få påmindelser fra otte måneder før udløb. Intet regneark, ingen glemte fornyelser. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** klarer overblikket over udløbsdatoer for hvert familiemedlem automatisk – scan hvert pas én gang, og få påmindelser fra otte måneder før udløb. Intet regneark, ingen glemte fornyelser. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Tjekliste før afrejse for familier
 
-Kør denne tjekliste igennem, når I booker - ikke aftenen før afrejse. Det er det, der giver jer tid nok til at rette op på det, der skal rettes.
+Kør denne tjekliste igennem, når I booker – ikke aftenen før afrejse. Det er det, der giver jer tid nok til at rette op på det, der skal rettes.
 
 ### Ved booking
 
@@ -117,12 +117,12 @@ Kør denne tjekliste igennem, når I booker - ikke aftenen før afrejse. Det er 
 
 ### Aftenen før
 
-- Pas fremme og talt op - ét pr. person
+- Pas fremme og talt op – ét pr. person
 - Rejseforsikringsbevis i tasken eller telefonen
 - Boardingpas downloadet eller printet
 - Eventuelle vaccinationsattester tilgængelige
 
-For mere om specifikke emner, se [tips om rejsedokumenter](https://traveldocumentvault.com/da/blog/) på bloggen - der er detaljerede artikler om tidslinjer for pasfornyelse og hvad I skal vide om digital opbevaring.
+For mere om specifikke emner, se [tips om rejsedokumenter](https://traveldocumentvault.com/da/blog/) på bloggen – der er detaljerede artikler om tidslinjer for pasfornyelse og hvad I skal vide om digital opbevaring.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
@@ -134,7 +134,7 @@ Grunddokumenterne til international familierejse er pas, visum (hvis det kræves
 
 ### Er det sikkert at gemme digitale kopier af rejsedokumenter?
 
-Digitale kopier er nyttige som backup, men erstatter ikke originalerne ved grænsekontrol. Hvor sikkert det er, afhænger helt af, hvor I opbevarer dem - krypterede apps på enheden er langt sikrere end et almindeligt fotobibliotek eller ukrypteret cloud-lagring. Vores guide til [den sikreste måde at gemme et pas digitalt](https://traveldocumentvault.com/da/blog/safest-way-to-store-passport-digitally/) sammenligner de vigtigste muligheder.
+Digitale kopier er nyttige som backup, men erstatter ikke originalerne ved grænsekontrol. Hvor sikkert det er, afhænger helt af, hvor I opbevarer dem – krypterede apps på enheden er langt sikrere end et almindeligt fotobibliotek eller ukrypteret cloud-lagring. Vores guide til [den sikreste måde at gemme et pas digitalt](https://traveldocumentvault.com/da/blog/safest-way-to-store-passport-digitally/) sammenligner de vigtigste muligheder.
 
 ### Hvad er den bedste måde at organisere pas for en familie?
 
@@ -142,11 +142,11 @@ Opbevar alle pas sammen i en dedikeret rejsepung eller dokumentmappe, på samme 
 
 ### Hvor lang tid i forvejen bør jeg tjekke rejsedokumenterne?
 
-Tjek før I booker flyet - og som minimum tre måneder før afrejse. Fornyelse af pas tager tid, og hvor lang tid varierer. Udenrigsministeriet og det pågældende lands pasmyndighed offentliggør deres aktuelle sagsbehandlingstider - at vente til det nærmer sig afrejse er en risiko, I ikke bør tage. Tjek jeres officielle pasmyndighed for aktuelle tider. At tjekke ved bookingtidspunktet er den sikreste vane at opbygge.
+Tjek før I booker flyet – og som minimum tre måneder før afrejse. Fornyelse af pas tager tid, og hvor lang tid varierer. Udenrigsministeriet og det pågældende lands pasmyndighed offentliggør deres aktuelle sagsbehandlingstider – at vente til det nærmer sig afrejse er en risiko, I ikke bør tage. Tjek jeres officielle pasmyndighed for aktuelle tider. At tjekke ved bookingtidspunktet er den sikreste vane at opbygge.
 
 ### Har jeg brug for et samtykkebrev, når jeg rejser alene med mit barn?
 
-Det er ikke altid et lovkrav, men det anbefales kraftigt. Grænsemyndigheder i lande som Canada, Sydafrika, Mexico og mange andre beder ofte om et samtykkebrev, når et barn rejser med kun én forælder. Uden det risikerer I forsinkelser, ekstra spørgsmål eller nægtet indrejse. Brevet bør indeholde barnets oplysninger, begge forældres kontaktoplysninger, rejsedatoer, destinationer og den fraværende forælders underskrift - notariseret om muligt.
+Det er ikke altid et lovkrav, men det anbefales kraftigt. Grænsemyndigheder i lande som Canada, Sydafrika, Mexico og mange andre beder ofte om et samtykkebrev, når et barn rejser med kun én forælder. Uden det risikerer I forsinkelser, ekstra spørgsmål eller nægtet indrejse. Brevet bør indeholde barnets oplysninger, begge forældres kontaktoplysninger, rejsedatoer, destinationer og den fraværende forælders underskrift – notariseret om muligt.
 
 ## Relaterede artikler
 

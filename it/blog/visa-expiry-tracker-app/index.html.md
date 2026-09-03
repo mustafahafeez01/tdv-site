@@ -10,15 +10,15 @@ Source: https://traveldocumentvault.com/it/blog/visa-expiry-tracker-app/
 
 ## Punti Chiave
 
-- Il tracciamento della scadenza dei visti è **più complesso** rispetto al tracciamento dei passaporti - un visto ha una data di validità dell'ingresso, una durata massima di soggiorno e talvolta limiti di conteggio dell'ingresso, ognuno dei quali necessita di un monitoraggio separato.
+- Il tracciamento della scadenza dei visti è **più complesso** rispetto al tracciamento dei passaporti — un visto ha una data di validità dell'ingresso, una durata massima di soggiorno e talvolta limiti di conteggio dell'ingresso, ognuno dei quali necessita di un monitoraggio separato.
 - Il superamento della durata di soggiorno di un visto comporta conseguenze serie: ammende, divieti di rientro di anni o più, e in alcuni paesi, accuse penali.
 - Le migliori app di tracciamento della scadenza dei visti funzionano offline, supportano molteplici tipi di visto e consentono tempi di promemoria personalizzati per documento.
-- I visitatori dell'Area Schengen devono tracciare una finestra mobile di 90/180 giorni, non solo una singola data di scadenza - la maggior parte delle app di viaggio generiche non gestisce questo correttamente.
+- I visitatori dell'Area Schengen devono tracciare una finestra mobile di 90/180 giorni, non solo una singola data di scadenza — la maggior parte delle app di viaggio generiche non gestisce questo correttamente.
 - Tracciare i visti e i passaporti insieme in un unico luogo riduce il rischio di una mancata corrispondenza: entrare con un visto valido ma con un passaporto che scade prima della fine del Suo soggiorno pianificato.
 
-Un superamento della durata di soggiorno di un visto è uno degli errori di viaggio più consequenziali che una persona possa commettere. A differenza di un volo perso - stressante ma in ultima analisi risolvibile - un superamento crea un record immigrazione formale che può seguirLa per anni. Negli Stati Uniti, un superamento di soli 180 giorni attiva automaticamente un divieto di rientro di 3 anni secondo la sezione INA 212(a)(9)(B)(i), e un superamento di un anno attiva un divieto di 10 anni. Queste conseguenze non sono ampiamente conosciute, ma sono documentate dall'Ufficio Cittadinanza e Servizi Immigrazione degli Stati Uniti.
+Un superamento della durata di soggiorno di un visto è uno degli errori di viaggio più consequenziali che una persona possa commettere. A differenza di un volo perso — stressante ma in ultima analisi risolvibile — un superamento crea un record immigrazione formale che può seguirLa per anni. Negli Stati Uniti, un superamento di soli 180 giorni attiva automaticamente un divieto di rientro di 3 anni secondo la sezione INA 212(a)(9)(B)(i), e un superamento di un anno attiva un divieto di 10 anni. Queste conseguenze non sono ampiamente conosciute, ma sono documentate dall'Ufficio Cittadinanza e Servizi Immigrazione degli Stati Uniti.
 
-Un'app di tracciamento della scadenza dei visti previene questo. Monitora molteplici date contemporaneamente - validità dell'ingresso, durata massima di soggiorno e conteggio dell'ingresso - in un modo che le app generiche di passaporti non possono.
+Un'app di tracciamento della scadenza dei visti previene questo. Monitora molteplici date contemporaneamente — validità dell'ingresso, durata massima di soggiorno e conteggio dell'ingresso — in un modo che le app generiche di passaporti non possono.
 
 ## Perché il Tracciamento dei Visti È Più Complesso del Tracciamento dei Passaporti
 
@@ -30,12 +30,12 @@ Un viaggiatore entra in Vietnam con un visto timbrato "valido fino al 30 giugno"
 
 | Campo | Cosa significa | Esempio |
 |---|---|---|
-| **Data di validità dell'ingresso** | L'ultimo giorno in cui può utilizzare questo visto per entrare nel paese | "Valido fino al 31 dicembre 2026" - deve entrare prima di questa data |
-| **Durata massima di soggiorno** | Per quanto tempo può rimanere dopo l'ingresso, indipendentemente dalla data di validità del visto | "Durata del soggiorno: 90 giorni" - il conteggio inizia all'ingresso, non al rilascio del visto |
+| **Data di validità dell'ingresso** | L'ultimo giorno in cui può utilizzare questo visto per entrare nel paese | "Valido fino al 31 dicembre 2026" — deve entrare prima di questa data |
+| **Durata massima di soggiorno** | Per quanto tempo può rimanere dopo l'ingresso, indipendentemente dalla data di validità del visto | "Durata del soggiorno: 90 giorni" — il conteggio inizia all'ingresso, non al rilascio del visto |
 | **Numero di ingressi** | Ingressi singoli, doppi o multipli consentiti | Un visto a ingresso singolo viene annullato nel momento in cui esce, anche se la data di validità dell'ingresso non è passata |
 | **Regole di finestra mobile** | Alcuni regimi di visto (in particolare Schengen) calcolano i giorni consentiti entro una finestra mobile | Schengen: massimo 90 giorni in qualsiasi finestra mobile di 180 giorni, non per anno civile |
 
-Un tracciatore che monitora solo la data di validità dell'ingresso perde la causa più comune di superamenti accidentali: superare la durata massima di soggiorno dopo un ingresso perfettamente legale. Questo è il campo che la maggior parte dei viaggiatori non traccia, perché la data non è timbrata nel passaporto - deve calcolarlo dalla data di ingresso.
+Un tracciatore che monitora solo la data di validità dell'ingresso perde la causa più comune di superamenti accidentali: superare la durata massima di soggiorno dopo un ingresso perfettamente legale. Questo è il campo che la maggior parte dei viaggiatori non traccia, perché la data non è timbrata nel passaporto — deve calcolarlo dalla data di ingresso.
 
 ## La Regola Schengen dei 90/180 Giorni
 
@@ -43,7 +43,7 @@ Per i viaggiatori che visitano molteplici paesi europei, la regola dei 90/180 gi
 
 La Commissione Europea fornisce un calcolatore ufficiale di soggiorno Schengen per aiutare i viaggiatori a determinare i giorni consentiti. Il punto critico è che si tratta di una *finestra mobile*, non di un reset dell'anno civile. I giorni trascorsi a Schengen sei mesi fa contano ancora contro il Suo margine attuale.
 
-La maggior parte delle app generiche di passaporto o documento non gestisce questo correttamente. Un'app che visualizza semplicemente una data di scadenza del visto non può gestire la conformità a Schengen - richiede il calcolo dei giorni su una finestra mobile in base alle date effettive di ingresso e uscita.
+La maggior parte delle app generiche di passaporto o documento non gestisce questo correttamente. Un'app che visualizza semplicemente una data di scadenza del visto non può gestire la conformità a Schengen — richiede il calcolo dei giorni su una finestra mobile in base alle date effettive di ingresso e uscita.
 
 ## Cosa Succede Quando Lei Supera la Durata di Soggiorno
 
@@ -73,8 +73,8 @@ Data la complessità di cui sopra, una buona app di tracciamento della scadenza 
 ## Passi Pratici per Tracciare Correttamente il Suo Visto
 
 1. **Registri la Sua data di ingresso il giorno dell'arrivo.** Il Suo orologio di durata massima di soggiorno inizia immediatamente all'ingresso, non da quando il visto è stato rilasciato o da quando il periodo di validità dell'ingresso ha avuto inizio.
-2. **Calcoli e noti la Sua data di uscita più recente consentita.** Aggiunga la Sua durata massima di soggiorno alla Sua data di ingresso. Questa è la data entro la quale deve partire - prima se ha bisogno di tempo per raggiungere un punto di partenza.
-3. **Traccia lo stato di ingresso singolo rispetto a multiplo.** Se il Suo visto è a ingresso singolo, una gita di un giorno a un paese vicino lo annulla - pianifichi di conseguenza.
+2. **Calcoli e noti la Sua data di uscita più recente consentita.** Aggiunga la Sua durata massima di soggiorno alla Sua data di ingresso. Questa è la data entro la quale deve partire — prima se ha bisogno di tempo per raggiungere un punto di partenza.
+3. **Traccia lo stato di ingresso singolo rispetto a multiplo.** Se il Suo visto è a ingresso singolo, una gita di un giorno a un paese vicino lo annulla — pianifichi di conseguenza.
 4. **Per il viaggio a Schengen, mantieni un registro delle date di ingresso e uscita.** Usi il calcolatore ufficiale della Commissione Europea per verificare i Suoi giorni rimanenti prima di qualsiasi viaggio che segue un recente viaggio a Schengen.
 5. **Imposti un promemoria con ampio anticipo rispetto alla Sua data limite di durata massima di soggiorno.** Questo Le dà tempo per organizzare una partenza senza fretta, soprattutto se le opzioni di trasporto nel Suo destino sono limitate.
 
@@ -86,7 +86,7 @@ Regole correlate che interagiscono con il tracciamento dei visti: consulti la Su
 
 ### Che cos'è un'app di tracciamento della scadenza dei visti?
 
-Un'app di tracciamento della scadenza dei visti controlla le date di scadenza dei Suoi visti e invia promemoria prima della loro scadenza. Le migliori tracciano sia il periodo di validità dell'ingresso che la durata massima di soggiorno - due scadenze diverse che entrambe sono importanti per evitare un superamento.
+Un'app di tracciamento della scadenza dei visti controlla le date di scadenza dei Suoi visti e invia promemoria prima della loro scadenza. Le migliori tracciano sia il periodo di validità dell'ingresso che la durata massima di soggiorno — due scadenze diverse che entrambe sono importanti per evitare un superamento.
 
 ### Qual è la differenza tra la data di scadenza di un visto e la durata massima di soggiorno?
 
@@ -94,11 +94,11 @@ La data di scadenza del visto è l'ultimo giorno in cui può utilizzare il visto
 
 ### Cosa succede se supera il periodo di soggiorno di un visto?
 
-Le conseguenze variano da paese a paese ma comunemente includono ammende, divieti di rientro e espulsione. Negli Stati Uniti, un superamento di 180 giorni attiva un divieto di rientro di 3 anni; un superamento di 1 anno attiva un divieto di 10 anni - come documentato da USCIS. I superamenti sono registrati nei database immigrazione e influenzeranno le future domande di visto.
+Le conseguenze variano da paese a paese ma comunemente includono ammende, divieti di rientro e espulsione. Negli Stati Uniti, un superamento di 180 giorni attiva un divieto di rientro di 3 anni; un superamento di 1 anno attiva un divieto di 10 anni — come documentato da USCIS. I superamenti sono registrati nei database immigrazione e influenzeranno le future domande di visto.
 
 ### Un'app di tracciamento della scadenza dei visti può funzionare offline?
 
-Le migliori possono. L'accesso offline è importante alle frontiere e nelle aree con Internet inaffidabile - esattamente dove ha bisogno dei dettagli del Suo visto più. Le app che richiedono Internet per visualizzare i Suoi documenti sono meno utili in queste situazioni.
+Le migliori possono. L'accesso offline è importante alle frontiere e nelle aree con Internet inaffidabile — esattamente dove ha bisogno dei dettagli del Suo visto più. Le app che richiedono Internet per visualizzare i Suoi documenti sono meno utili in queste situazioni.
 
 ### Con quale anticipo dovrei ricevere un promemoria prima della scadenza del Suo visto?
 

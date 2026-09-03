@@ -28,9 +28,9 @@ Si aún tienes ese pasaporte depende enteramente de tu país y tu método de ren
 
 La renovación estándar de pasaporte estadounidense por correo no requiere que entregues tu pasaporte actual antes de que llegue el nuevo. Completas el formulario DS-82, incluyes tu pasaporte existente y envías todo por correo al National Passport Processing Center. Tu pasaporte antiguo te es devuelto junto con el nuevo, típicamente cancelado con un agujero de perforación.
 
-Esto significa que los viajes nacionales dentro de Estados Unidos no se ven afectados durante todo el proceso de renovación - no necesitas un pasaporte para vuelos nacionales. Los viajes internacionales son otra historia: no puedes viajar internacionalmente hasta que llegue tu nuevo pasaporte, y no puedes usar el pasaporte antiguo cancelado aunque lo tengas en la mano.
+Esto significa que los viajes nacionales dentro de Estados Unidos no se ven afectados durante todo el proceso de renovación —no necesitas un pasaporte para vuelos nacionales. Los viajes internacionales son otra historia: no puedes viajar internacionalmente hasta que llegue tu nuevo pasaporte, y no puedes usar el pasaporte antiguo cancelado aunque lo tengas en la mano.
 
-El tiempo de procesamiento estándar cambia, y el Departamento de Estado publica la cifra actual en travel.state.gov, así que consúltala antes de hacer planes. Si tu viaje está reservado antes de la fecha en que esperas recibir el nuevo pasaporte, el procesamiento acelerado está disponible por una tarifa adicional y reduce la espera de forma notable. Para viajes genuinamente urgentes, hay citas presenciales disponibles en agencias de pasaportes regionales - consulta la elegibilidad actual en travel.state.gov.
+El tiempo de procesamiento estándar cambia, y el Departamento de Estado publica la cifra actual en travel.state.gov, así que consúltala antes de hacer planes. Si tu viaje está reservado antes de la fecha en que esperas recibir el nuevo pasaporte, el procesamiento acelerado está disponible por una tarifa adicional y reduce la espera de forma notable. Para viajes genuinamente urgentes, hay citas presenciales disponibles en agencias de pasaportes regionales —consulta la elegibilidad actual en travel.state.gov.
 
 ## Reino Unido: Dos procesos con resultados opuestos
 
@@ -52,7 +52,7 @@ La Oficina de Pasaportes Australiana publica sus tiempos de procesamiento actual
 
 ## Canadá: Entregado en la solicitud
 
-Canadá requiere que entregues tu pasaporte existente cuando solicites la renovación. Tu pasaporte antiguo se mantiene hasta que esté listo el nuevo, así que no puedes viajar internacionalmente durante este período - aunque los viajes nacionales dentro de Canadá no requieren pasaporte.
+Canadá requiere que entregues tu pasaporte existente cuando solicites la renovación. Tu pasaporte antiguo se mantiene hasta que esté listo el nuevo, así que no puedes viajar internacionalmente durante este período —aunque los viajes nacionales dentro de Canadá no requieren pasaporte.
 
 Service Canada publica sus estándares de procesamiento actuales, que varían según si solicitas en persona, por correo o en un Service Canada Centre, más el tiempo de envío. Para viajes urgentes existen opciones de servicio express y retiro urgente por tarifas adicionales. Consulta los tiempos de procesamiento actuales y solicita en canada.ca.
 
@@ -82,7 +82,7 @@ La prueba práctica es sencilla. Si tu pasaporte está anulado, caducado o en un
 
 ## Si tu viaje es más pronto que tu plazo de renovación
 
-No esperes a contactar por teléfono al servicio de pasaportes de tu país - pregunta específicamente sobre opciones de expedición, urgencia o cita de emergencia. Estas existen en cada país listado aquí, pero la disponibilidad cambia semana a semana y las citas desaparecen rápidamente.
+No esperes a contactar por teléfono al servicio de pasaportes de tu país —pregunta específicamente sobre opciones de expedición, urgencia o cita de emergencia. Estas existen en cada país listado aquí, pero la disponibilidad cambia semana a semana y las citas desaparecen rápidamente.
 
 Al mismo tiempo, contacta a tu aerolínea sobre reprogramación. Algunos transportistas renunciarán a las tarifas de cambio cuando un problema genuino de documentos es la razón. Obtén cualquier acuerdo por escrito. Si tienes seguro de viaje, consulta tu póliza por cobertura de costos que surjan de retrasos de pasaportes o problemas de documentos.
 

@@ -122,7 +122,7 @@ Sie stammen aus unterschiedlichen internationalen Abkommen. Die meisten Reisen s
 
 ## Verwandte Artikel
 
-[Reisevorbereitung7 Min. Lesezeit · 4. Juli 2026Reisedokumente, die Menschen übersehen - und wo Sie diese aufbewahren](https://traveldocumentvault.com/de/blog/what-documents-to-carry-when-travelling-internationally/)
+[Reisevorbereitung7 Min. Lesezeit · 4. Juli 2026Reisedokumente, die Menschen übersehen – und wo Sie diese aufbewahren](https://traveldocumentvault.com/de/blog/what-documents-to-carry-when-travelling-internationally/)
 
 [Reisepass-Regeln9 Min. Lesezeit · 4. März 2026Internationale Reisedokument-Checkliste: Alles, was Sie vor dem Flug brauchen](https://traveldocumentvault.com/de/blog/travel-document-checklist/)
 

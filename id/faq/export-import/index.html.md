@@ -68,7 +68,7 @@ Setelah impor, periksa tab Profil untuk memastikan semua profil muncul. Buka beb
 
 - **Tidak merusak data:** Impor menambahkan ke data yang sudah ada. Jika Anda sudah memiliki profil di perangkat tujuan, profil yang diimpor akan ditambahkan tanpa menghapus yang sudah ada.
 - **Ketepatan bolak-balik:** Semuanya dipertahankan persis sama: nama dokumen, tanggal, pengingat kedaluwarsa, warna kustom, lampiran, dan catatan.
-- **Terenkripsi sepenuhnya:** File yang diekspor dienkripsi dengan kata sandi yang Anda pilih saat mengekspornya, menggunakan AES-256-GCM dengan derivasi kunci PBKDF2. Hanya kata sandi itu yang dapat mendekripsinya, jadi simpan di tempat yang aman - tanpanya, file tidak dapat dipulihkan.
+- **Terenkripsi sepenuhnya:** File yang diekspor dienkripsi dengan kata sandi yang Anda pilih saat mengekspornya, menggunakan AES-256-GCM dengan derivasi kunci PBKDF2. Hanya kata sandi itu yang dapat mendekripsinya, jadi simpan di tempat yang aman, tanpanya, file tidak dapat dipulihkan.
 - **Praktik terbaik pencadangan:** Simpan file yang diekspor di lokasi yang aman. Hapus setelah impor berhasil jika Anda mau, atau simpan sebagai cadangan offline.
 
 **Penafian:** Ekspor-impor dirancang untuk portabilitas data. Jaga keamanan file yang diekspor. Jangan bagikan cadangan yang diekspor kepada siapa pun, karena berisi semua dokumen dan lampiran terenkripsi Anda.

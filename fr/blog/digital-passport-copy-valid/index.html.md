@@ -22,11 +22,11 @@ Lorsque vous planifiez un voyage, de nombreux voyageurs se demandent s'ils peuve
 
 ### Enregistrement à l'hôtel
 
-La plupart des hôtels du monde acceptent les copies numériques de passeport pour l'enregistrement - un PDF sur votre téléphone, envoyé par email à l'avance, ou imprimé. C'est particulièrement utile si vous vous enregistrez tard ou si vous vous déplacez entre plusieurs propriétés et que vous ne voulez pas porter votre passeport physique pendant tout le voyage. Certains petits hôtels, notamment dans les régions disposant d'une infrastructure numérique moins développée, préfèrent toujours l'original. Dans certaines parties de l'Europe - l'Espagne, la France et l'Italie notamment - les hôtels doivent enregistrer vos informations auprès des autorités et voudront généralement consulter le passeport physique pour le faire, même si les conseils de protection des données disent qu'ils ne devraient généralement pas conserver une copie. Contactez votre hébergement à l'avance pour confirmer.
+La plupart des hôtels du monde acceptent les copies numériques de passeport pour l'enregistrement — un PDF sur votre téléphone, envoyé par email à l'avance, ou imprimé. C'est particulièrement utile si vous vous enregistrez tard ou si vous vous déplacez entre plusieurs propriétés et que vous ne voulez pas porter votre passeport physique pendant tout le voyage. Certains petits hôtels, notamment dans les régions disposant d'une infrastructure numérique moins développée, préfèrent toujours l'original. Dans certaines parties de l'Europe — l'Espagne, la France et l'Italie notamment — les hôtels doivent enregistrer vos informations auprès des autorités et voudront généralement consulter le passeport physique pour le faire, même si les conseils de protection des données disent qu'ils ne devraient généralement pas conserver une copie. Contactez votre hébergement à l'avance pour confirmer.
 
 ### Réservations de vols et enregistrement en ligne
 
-Les compagnies aériennes exigent vos informations de passeport lors de la réservation, et beaucoup vous permettent de télécharger une copie numérique pour vérifier votre identité pour l'enregistrement en ligne - cela accélère le processus à l'aéroport. Vous devrez toujours présenter le passeport original à la porte. Le rôle de la copie numérique est la vérification avant le voyage, pas la documentation d'embarquement.
+Les compagnies aériennes exigent vos informations de passeport lors de la réservation, et beaucoup vous permettent de télécharger une copie numérique pour vérifier votre identité pour l'enregistrement en ligne — cela accélère le processus à l'aéroport. Vous devrez toujours présenter le passeport original à la porte. Le rôle de la copie numérique est la vérification avant le voyage, pas la documentation d'embarquement.
 
 ### Agences de location de voitures
 
@@ -38,7 +38,7 @@ Si votre passeport est perdu ou volé en voyageant, une copie numérique peut co
 
 ## Où votre passeport physique est toujours requis
 
-Une copie numérique n'est pas un substitut à votre passeport physique à l'immigration, auprès des compagnies aériennes ou avec les forces de l'ordre. Dans ces scénarios, le document original est simplement obligatoire - il n'y a pas moyen de contourner cela.
+Une copie numérique n'est pas un substitut à votre passeport physique à l'immigration, auprès des compagnies aériennes ou avec les forces de l'ordre. Dans ces scénarios, le document original est simplement obligatoire — il n'y a pas moyen de contourner cela.
 
 | Situation de voyage | Copie numérique acceptée | Remarques |
 |---|---|---|

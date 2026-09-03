@@ -12,8 +12,8 @@ Source: https://traveldocumentvault.com/id/blog/passport-photo-at-home/
 
 - Gunakan latar belakang putih polos atau putih gading, ekspresi netral, dan mata terbuka menatap lurus ke depan
 - Persyaratan ukuran berbeda tiap negara dan diterapkan secara ketat, jadi ambil ukurannya dari otoritas paspor negara Anda sendiri, bukan dari ringkasan mana pun
-- Cahaya jendela alami paling baik - hindari bayangan tajam dan jangan gunakan lampu kilat kamera
-- Sebagian besar negara kini melarang kacamata kecuali secara medis diperlukan - periksa persyaratan terbaru
+- Cahaya jendela alami paling baik, hindari bayangan tajam dan jangan gunakan lampu kilat kamera
+- Sebagian besar negara kini melarang kacamata kecuali secara medis diperlukan, periksa persyaratan terbaru
 - Alasan penolakan yang umum termasuk bayangan, ukuran salah, tersenyum, foto buram, dan latar belakang yang tidak sesuai
 
 Foto yang diambil di rumah bisa lolos semudah foto dari studio, asalkan memenuhi daftar aturan singkat yang sama. Sebagian besar penolakan disebabkan oleh tiga hal: bayangan di wajah atau latar belakang, ukuran kepala yang tidak sesuai proporsi dalam bingkai, dan kacamata. Perbaiki tiga hal ini, dan sisanya jadi mudah.
@@ -24,11 +24,11 @@ Meski aturan spesifik berbeda tiap otoritas paspor, sebagian besar negara memili
 
 ### Latar Belakang dan Komposisi
 
-Anda membutuhkan latar belakang putih polos atau putih gading - tidak ada yang lain yang berlaku. Tidak boleh ada motif, bayangan, latar belakang buram, atau warna lain. Alasannya sederhana: petugas membutuhkan tampilan wajah Anda yang bersih dan jelas untuk dibandingkan dengan dokumen di masa depan. Kebanyakan orang menggunakan sprei putih, papan poster, atau bahkan mengecat sebagian kecil dinding. Kuncinya adalah menjaganya tetap terang dan seragam secara keseluruhan.
+Anda membutuhkan latar belakang putih polos atau putih gading, tidak ada yang lain yang berlaku. Tidak boleh ada motif, bayangan, latar belakang buram, atau warna lain. Alasannya sederhana: petugas membutuhkan tampilan wajah Anda yang bersih dan jelas untuk dibandingkan dengan dokumen di masa depan. Kebanyakan orang menggunakan sprei putih, papan poster, atau bahkan mengecat sebagian kecil dinding. Kuncinya adalah menjaganya tetap terang dan seragam secara keseluruhan.
 
 ### Ekspresi dan Pose
 
-Wajah Anda harus mengisi bingkai sesuai proporsi yang ditetapkan otoritas paspor Anda, dengan mata terbuka dan terlihat jelas - sebagian besar negara melarang senyum, dan mata menyipit akan mendiskualifikasi foto. Menatap lurus ke kamera dengan ekspresi netral, memiringkan kepala sedikit jika terasa lebih alami, tetapi umumnya jagalah kepala tegak menghadap lensa. Telinga sebaiknya terlihat di kedua sisi wajah.
+Wajah Anda harus mengisi bingkai sesuai proporsi yang ditetapkan otoritas paspor Anda, dengan mata terbuka dan terlihat jelas — sebagian besar negara melarang senyum, dan mata menyipit akan mendiskualifikasi foto. Menatap lurus ke kamera dengan ekspresi netral, memiringkan kepala sedikit jika terasa lebih alami, tetapi umumnya jagalah kepala tegak menghadap lensa. Telinga sebaiknya terlihat di kedua sisi wajah.
 
 ## Bolehkah Memakai Kacamata dalam Foto Paspor?
 
@@ -44,7 +44,7 @@ Pengajuan digital menggunakan piksel, bukan milimeter, dan setiap otoritas mener
 
 ### Di Mana Memeriksa Persyaratan Ukuran Negara Anda
 
-Ukuran adalah titik yang paling sering membuat orang tersandung - jika foto Anda tidak sesuai persyaratan negara Anda, penolakan hampir pasti terjadi. Setiap negara menetapkan ukurannya sendiri, sebagian dalam inci dan sebagian dalam milimeter, dan direvisi dari waktu ke waktu.
+Ukuran adalah titik yang paling sering membuat orang tersandung — jika foto Anda tidak sesuai persyaratan negara Anda, penolakan hampir pasti terjadi. Setiap negara menetapkan ukurannya sendiri, sebagian dalam inci dan sebagian dalam milimeter, dan direvisi dari waktu ke waktu.
 
 Kami sengaja tidak mencantumkan angka-angka tersebut di sini. Angka yang disalin ke dalam artikel blog adalah angka yang bisa diam-diam menjadi usang, dan artikel ini bukan sumber otoritatif untuk itu. Periksa langsung ke kantor paspor Anda sendiri.
 
@@ -55,7 +55,7 @@ Kami sengaja tidak mencantumkan angka-angka tersebut di sini. Angka yang disalin
 | Australia | panduan foto Australian Passport Office |
 | Kanada | halaman foto paspor Pemerintah Kanada |
 
-Apa pun yang ditetapkan negara Anda, ukurannya bersifat pasti - bahkan selisih beberapa milimeter berarti penolakan. Foto mentah dari ponsel pintar Anda biasanya jauh lebih besar dari yang perlu diajukan, itulah sebabnya aplikasi pemotong foto ada. Alat gratis atau berbiaya rendah yang tersedia di iOS dan Android memungkinkan Anda memasukkan negara Anda dan secara otomatis mengubah ukuran ke spesifikasi yang tepat.
+Apa pun yang ditetapkan negara Anda, ukurannya bersifat pasti, bahkan selisih beberapa milimeter berarti penolakan. Foto mentah dari ponsel pintar Anda biasanya jauh lebih besar dari yang perlu diajukan, itulah sebabnya aplikasi pemotong foto ada. Alat gratis atau berbiaya rendah yang tersedia di iOS dan Android memungkinkan Anda memasukkan negara Anda dan secara otomatis mengubah ukuran ke spesifikasi yang tepat.
 
 ### Perbandingan Metode Pengajuan Foto Paspor
 
@@ -83,17 +83,17 @@ Gunakan tripod atau sandarkan ponsel Anda pada benda yang stabil sehingga kedua 
 
 ### Resolusi dan Fokus
 
-Ponsel pintar modern memotret dengan 12 megapiksel atau lebih, yang lebih dari cukup untuk foto paspor. Sebelum memotret, pastikan ponsel Anda dalam mode fokus - ketuk wajah Anda di layar, dan sebagian besar ponsel akan mengunci fokus di sana. Gambar akhir Anda harus tajam dan jelas.
+Ponsel pintar modern memotret dengan 12 megapiksel atau lebih, yang lebih dari cukup untuk foto paspor. Sebelum memotret, pastikan ponsel Anda dalam mode fokus — ketuk wajah Anda di layar, dan sebagian besar ponsel akan mengunci fokus di sana. Gambar akhir Anda harus tajam dan jelas.
 
 ## Alasan Penolakan yang Umum dan Cara Menghindarinya
 
 - **Bayangan di wajah:** Disebabkan oleh pencahayaan dari samping atau sumber cahaya yang tajam. Posisikan diri tegak lurus terhadap jendela untuk pencahayaan merata, dan periksa apakah telinga dan tulang pipi Anda tersinari secara merata.
-- **Dimensi foto yang salah:** Foto tidak sesuai dengan spesifikasi negara Anda (persyaratan berbeda tiap negara). Gunakan aplikasi pemotong foto paspor dan periksa ulang dimensinya terhadap spesifikasi resmi otoritas Anda sendiri sebelum mencetak atau mengunggah - bukan standar negara lain.
-- **Tersenyum atau ekspresi tidak biasa:** Sebagian besar negara mensyaratkan ekspresi netral. Berlatihlah tatapan tenang lurus ke depan di depan cermin terlebih dahulu - usahakan terlihat serius, bukan galak.
+- **Dimensi foto yang salah:** Foto tidak sesuai dengan spesifikasi negara Anda (persyaratan berbeda tiap negara). Gunakan aplikasi pemotong foto paspor dan periksa ulang dimensinya terhadap spesifikasi resmi otoritas Anda sendiri sebelum mencetak atau mengunggah, bukan standar negara lain.
+- **Tersenyum atau ekspresi tidak biasa:** Sebagian besar negara mensyaratkan ekspresi netral. Berlatihlah tatapan tenang lurus ke depan di depan cermin terlebih dahulu — usahakan terlihat serius, bukan galak.
 - **Kacamata dengan kilau:** Kilau pada lensa menutupi mata Anda. Lepaskan kacamata atau sesuaikan sudutnya untuk menghilangkan pantulan. Banyak negara kini melarang kacamata sama sekali kecuali secara medis diperlukan, jadi periksa dulu aturan terbaru otoritas Anda.
 - **Gambar buram atau tidak fokus:** Masalah gerakan atau fokus saat pengambilan gambar. Gunakan tripod atau benda stabil untuk menyandarkan ponsel, ketuk layar untuk fokus pada wajah, dan hindari gerakan apa pun saat pengambilan gambar.
-- **Latar belakang salah:** Latar belakang berwarna, bermotif, atau putih yang tidak merata. Papan poster atau sprei putih polos atau putih gading paling baik - pastikan tidak ada tekstur atau bayangan yang terlihat.
-- **Ruang kepala berlebihan atau kurang:** Wajah terlalu kecil atau posisinya salah dalam bingkai. Aturan negara Anda menetapkan secara pasti berapa besar wajah harus mengisi bingkai, biasanya sebagai ukuran dari dagu ke ubun-ubun, bukan persentase - sesuaikan dengan angka tersebut, bukan dengan yang "terlihat pas".
+- **Latar belakang salah:** Latar belakang berwarna, bermotif, atau putih yang tidak merata. Papan poster atau sprei putih polos atau putih gading paling baik, pastikan tidak ada tekstur atau bayangan yang terlihat.
+- **Ruang kepala berlebihan atau kurang:** Wajah terlalu kecil atau posisinya salah dalam bingkai. Aturan negara Anda menetapkan secara pasti berapa besar wajah harus mengisi bingkai, biasanya sebagai ukuran dari dagu ke ubun-ubun, bukan persentase — sesuaikan dengan angka tersebut, bukan dengan yang "terlihat pas".
 
 ## Dari Foto Ponsel Pintar ke Foto Resmi: Prosesnya
 
@@ -101,7 +101,7 @@ Foto dari ponsel pintar Anda jarang langsung berukuran tepat. Setelah memotret, 
 
 ### Alat Pemotong Foto
 
-Aplikasi pemotong foto menghilangkan tebak-tebakan dalam mengubah ukuran. Carilah alat seperti Passport Photo Online atau ID Photo Studio di iOS dan Android - alat ini memungkinkan Anda memilih negara dan secara otomatis memotong sesuai spesifikasi sambil memeriksa apakah dimensi wajah Anda sudah benar. Banyak aplikasi bahkan memberikan masukan jika pencahayaan atau latar belakang Anda kurang sesuai.
+Aplikasi pemotong foto menghilangkan tebak-tebakan dalam mengubah ukuran. Carilah alat seperti Passport Photo Online atau ID Photo Studio di iOS dan Android, alat ini memungkinkan Anda memilih negara dan secara otomatis memotong sesuai spesifikasi sambil memeriksa apakah dimensi wajah Anda sudah benar. Banyak aplikasi bahkan memberikan masukan jika pencahayaan atau latar belakang Anda kurang sesuai.
 
 ### Cetak vs. Pengajuan Digital
 

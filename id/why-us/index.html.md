@@ -31,7 +31,7 @@ Saya membuat ini karena keluarga saya sendiri membutuhkannya
 
 > "Setiap perjalanan keluarga berubah jadi perburuan harta karun di Foto, email, dan Drive. Saya membuat ini agar perjalanan berikutnya tidak begitu."
 
-Tanpa pendanaan modal ventura, tanpa pemegang saham, tanpa jaringan iklan - hanya orang tua yang lelah dengan panik yang sama, setiap perjalanan.
+Tanpa pendanaan modal ventura, tanpa pemegang saham, tanpa jaringan iklan — hanya orang tua yang lelah dengan panik yang sama, setiap perjalanan.
 
 [Baca cerita lengkapnya →](https://traveldocumentvault.com/id/blog/why-i-built-travel-document-vault/)
 
@@ -43,7 +43,7 @@ Di gerbang
 
 Loket imigrasi. Petugas meminta visa Anda.
 
-Bagaimana jika Anda bisa membuka satu aplikasi dan langsung menemukan dokumen itu - tanpa pencarian, tanpa berpindah aplikasi, hanya akses langsung seketika?
+Bagaimana jika Anda bisa membuka satu aplikasi dan langsung menemukan dokumen itu — tanpa pencarian, tanpa berpindah aplikasi, hanya akses langsung seketika?
 
 Jebakan masa berlaku
 
@@ -63,7 +63,7 @@ Semuanya dalam satu tempat di tangan Anda, siap kapan pun Anda membutuhkannya.
 
 ## Yang Mungkin Anda Gunakan Sekarang
 
-Ini semua pilihan yang wajar. Masing-masing bekerja - hingga batas tertentu.
+Ini semua pilihan yang wajar. Masing-masing bekerja, hingga batas tertentu.
 
 ### Vault Serbaguna
 
@@ -81,7 +81,7 @@ Ini semua pilihan yang wajar. Masing-masing bekerja - hingga batas tertentu.
 
 **Keunggulan:** Ada mode offline dan sinkronisasi antar perangkat.
 
-**Kekurangan:** Anda menyimpan paspor, mengecek kedaluwarsa, beralih ke aplikasi kalender untuk membuat pengingat, lalu mengingat folder mana yang berisi dokumen pasangan. Tiga aplikasi untuk pekerjaan satu - dan tidak ada yang tahu bahwa itu paspor yang kedaluwarsa.
+**Kekurangan:** Anda menyimpan paspor, mengecek kedaluwarsa, beralih ke aplikasi kalender untuk membuat pengingat, lalu mengingat folder mana yang berisi dokumen pasangan. Tiga aplikasi untuk pekerjaan satu, dan tidak ada yang tahu bahwa itu paspor yang kedaluwarsa.
 
 ### Manajer Kata Sandi
 
@@ -137,7 +137,7 @@ Enkripsi AES-256-GCM saat penyimpanan. Cadangan terenkripsi menggunakan derivasi
 
 Pembaruan paspor memakan waktu 6 hingga 8 minggu. **Pengingat dimulai 8 bulan lebih awal** dan bertingkat secara otomatis.
 
-Pengingat tiba pada 6 bulan, 3 bulan, 6 minggu, dan hari kedaluwarsa - membantu Anda tetap selangkah lebih maju dari tenggat pembaruan.
+Pengingat tiba pada 6 bulan, 3 bulan, 6 minggu, dan hari kedaluwarsa — membantu Anda tetap selangkah lebih maju dari tenggat pembaruan.
 
 Bekerja untuk paspor, visa, SIM, asuransi, apa pun yang memiliki tanggal kedaluwarsa.
 
@@ -267,7 +267,7 @@ Pindai. Atur. Lupakan.
 
 Buka kamera, gunakan overlay panduan, dan tangkap dokumen Anda. Atau impor yang sudah ada dari perpustakaan foto.
 
-Aplikasi mendeteksi tanggal kedaluwarsa - Anda hanya perlu mengonfirmasi.
+Aplikasi mendeteksi tanggal kedaluwarsa, Anda hanya perlu mengonfirmasi.
 
 2
 
@@ -298,7 +298,7 @@ Aplikasi ini dirancang untuk realitas praktis, bukan penyimpanan file generik.
 
 Pertanyaan yang paling sering kami dengar.
 
-Apa yang terjadi jika saya kehilangan ponsel? Dokumen Anda tersimpan di perangkat, dan kunci enkripsi tidak pernah meninggalkannya. Cadangan ponsel sistem (iCloud atau Google Backup) menginstal ulang aplikasi tetapi tidak dapat memulihkan dokumen Anda. Semua orang dapat mengekspor vault mereka sebagai file terenkripsi .tdvault gratis dari Pengaturan. Pengguna Pro dapat membuat cadangan cloud terenkripsi ke iCloud atau Google Drive pribadi mereka dengan pemulihan satu ketukan di perangkat baru menggunakan kode pemulihan mereka. Apakah berfungsi tanpa internet? Sepenuhnya. Aplikasi menyimpan segalanya di perangkat Anda dan tidak pernah membutuhkan koneksi internet. Pemrosesan OCR, pengingat, dan melihat dokumen semuanya bekerja secara offline. Apakah data saya benar-benar aman? Desain ini berarti saya tidak dapat membaca data Anda, demikian pula Apple atau Google. Anda dapat memeriksa model privasi sendiri di halaman [Verifikasi Privasi](https://traveldocumentvault.com/id/privacy-verification/). Apakah benar-benar pembelian sekali bayar? Ya. Pro adalah pembelian sekali bayar.* Tanpa langganan, tanpa biaya berulang, tanpa email "masa uji coba Anda hampir berakhir". Tingkat gratis benar-benar gratis - 1 profil, 5 dokumen, semua fitur termasuk OCR dan pengingat.
+Apa yang terjadi jika saya kehilangan ponsel? Dokumen Anda tersimpan di perangkat, dan kunci enkripsi tidak pernah meninggalkannya. Cadangan ponsel sistem (iCloud atau Google Backup) menginstal ulang aplikasi tetapi tidak dapat memulihkan dokumen Anda. Semua orang dapat mengekspor vault mereka sebagai file terenkripsi .tdvault gratis dari Pengaturan. Pengguna Pro dapat membuat cadangan cloud terenkripsi ke iCloud atau Google Drive pribadi mereka dengan pemulihan satu ketukan di perangkat baru menggunakan kode pemulihan mereka. Apakah berfungsi tanpa internet? Sepenuhnya. Aplikasi menyimpan segalanya di perangkat Anda dan tidak pernah membutuhkan koneksi internet. Pemrosesan OCR, pengingat, dan melihat dokumen semuanya bekerja secara offline. Apakah data saya benar-benar aman? Desain ini berarti saya tidak dapat membaca data Anda, demikian pula Apple atau Google. Anda dapat memeriksa model privasi sendiri di halaman [Verifikasi Privasi](https://traveldocumentvault.com/id/privacy-verification/). Apakah benar-benar pembelian sekali bayar? Ya. Pro adalah pembelian sekali bayar.* Tanpa langganan, tanpa biaya berulang, tanpa email "masa uji coba Anda hampir berakhir". Tingkat gratis benar-benar gratis — 1 profil, 5 dokumen, semua fitur termasuk OCR dan pengingat.
 
 * Untuk v1.x. Lihat [Kebijakan Harga](https://traveldocumentvault.com/pricing-policy/#version-policy).
 

@@ -11,18 +11,18 @@ Source: https://traveldocumentvault.com/fr/blog/tripcase-alternative/
 ## Points clés
 
 - **TripCase a fermé le 1er avril 2025** après 12 ans, et Sabre a supprimé toutes les données de voyage restantes des utilisateurs après la fermeture de la fenêtre d'exportation le 30 juin 2025.
-- Son **coffre-fort de documents** - un endroit unique et sécurisé pour les passeports, visas et cartes d'embarquement - est la fonctionnalité que les anciens utilisateurs disent le plus regretter.
+- Son **coffre-fort de documents** — un endroit unique et sécurisé pour les passeports, visas et cartes d'embarquement — est la fonctionnalité que les anciens utilisateurs disent le plus regretter.
 - **Aucune application ne remplace complètement TripCase.** Les alertes de vol, l'analyse des itinéraires et le stockage des documents vivent maintenant dans différents outils.
 - La vraie leçon : un service cloud gratuit place **vos données sur un temps emprunté**. Cela peut disparaître avec environ 60 jours de préavis.
-- Les documents de voyage doivent être **hors ligne, sur votre appareil** - quelque part qu'aucune décision d'entreprise, panne ou fermeture ne peut atteindre.
+- Les documents de voyage doivent être **hors ligne, sur votre appareil** — quelque part qu'aucune décision d'entreprise, panne ou fermeture ne peut atteindre.
 
 TripCase a passé douze ans en tant que cheval de trait tranquille des applications de voyage. Transférez un email de confirmation et votre voyage se construisait tout seul ; l'application vous signalait les changements de porte avant certaines compagnies aériennes ; et son coffre-fort de documents conservait les passeports, visas et cartes d'embarquement au même endroit. Puis, le 1er avril 2025, Sabre l'a fermé, et une fois que la fenêtre d'exportation a fermé le 30 juin, l'historique de voyage et les documents restants de chaque utilisateur ont été purgés de ses serveurs.
 
-Quinze mois plus tard, les anciens utilisateurs cherchent toujours un remplacement. La réponse honnête est qu'aucune application ne le remplace entièrement. Mais la vraie histoire n'est pas de savoir quelle application choisir - c'est de savoir où vos documents doivent vivre.
+Quinze mois plus tard, les anciens utilisateurs cherchent toujours un remplacement. La réponse honnête est qu'aucune application ne le remplace entièrement. Mais la vraie histoire n'est pas de savoir quelle application choisir — c'est de savoir où vos documents doivent vivre.
 
 ## L'ascension et la fermeture de TripCase
 
-TripCase existe depuis 2013, un compagnon de voyage gratuit de Sabre Corporation - l'entreprise qui gère une grande partie des systèmes de réservation des compagnies aériennes et des agences de voyage du monde. Grâce à cette connexion, les voyages apparaissaient souvent dans l'application automatiquement. Pendant plus d'une décennie, les voyageurs d'affaires et les familles s'en sont remis pour regrouper les vols, les hôtels et les voitures de location dans une seule vue chronologique. Ce n'était pas sophistiqué, mais cela fonctionnait.
+TripCase existe depuis 2013, un compagnon de voyage gratuit de Sabre Corporation — l'entreprise qui gère une grande partie des systèmes de réservation des compagnies aériennes et des agences de voyage du monde. Grâce à cette connexion, les voyages apparaissaient souvent dans l'application automatiquement. Pendant plus d'une décennie, les voyageurs d'affaires et les familles s'en sont remis pour regrouper les vols, les hôtels et les voitures de location dans une seule vue chronologique. Ce n'était pas sophistiqué, mais cela fonctionnait.
 
 Quand la fermeture est venue, les utilisateurs avaient jusqu'au 30 juin 2025 pour exporter leur historique. De nombreux utilisateurs ont signalé que le processus d'exportation était confus et incomplet, et certains ont découvert trop tard que des années d'enregistrements de voyage n'avaient pas été extraits. Après la fermeture de la fenêtre d'exportation le 30 juin 2025, Sabre a supprimé toutes les données de voyage et de voyageurs restantes, et il n'y a aucun moyen de les récupérer.
 
@@ -30,11 +30,11 @@ Quand la fermeture est venue, les utilisateurs avaient jusqu'au 30 juin 2025 pou
 
 TripCase n'a pas inventé grand-chose, mais il a perfectionné une poignée de flux de travail, et sa disparition a montré aux gens à quel point ils en étaient dépendants.
 
-Son cœur était **l'analyse d'email en itinéraire** - transférez n'importe quelle confirmation de compagnie aérienne, d'hôtel ou de location de voiture et l'application l'a assemblée dans un voyage chronologique avec des dates et des références de réservation. Zéro saisie manuelle signifiait un itinéraire complet en secondes, ce qui est exactement pourquoi les gens y restaient pendant une décennie.
+Son cœur était **l'analyse d'email en itinéraire** — transférez n'importe quelle confirmation de compagnie aérienne, d'hôtel ou de location de voiture et l'application l'a assemblée dans un voyage chronologique avec des dates et des références de réservation. Zéro saisie manuelle signifiait un itinéraire complet en secondes, ce qui est exactement pourquoi les gens y restaient pendant une décennie.
 
 **Les alertes de vol en temps réel** ont suivi : les retards, les changements de portes et les annulations souvent avant la notification de la compagnie aérienne elle-même. TripIt facture maintenant sa version Pro pour obtenir l'équivalent, tandis que TripCase proposait la fonctionnalité à tout le monde gratuitement.
 
-Ces vols, hôtels et transports au sol vivaient dans **la chronologie du voyage** - une pile parcourable unique par voyage. Simple, mais si vous avez jonglé avec une semaine multi-villes à partir d'une douzaine d'emails de confirmation, vous comprenez pourquoi cela importait. Dans les fils de discussion sur FlyerTalk et ailleurs, les anciens utilisateurs mentionnent régulièrement le **coffre-fort de documents** comme la pièce la plus regrettée - ce lieu unique et sécurisé pour les cartes d'embarquement, les visas, les passeports et les confirmations. Enfin, **le partage de voyage** permettait aux membres de la famille ou aux collègues de suivre sans emails transférés.
+Ces vols, hôtels et transports au sol vivaient dans **la chronologie du voyage** — une pile parcourable unique par voyage. Simple, mais si vous avez jonglé avec une semaine multi-villes à partir d'une douzaine d'emails de confirmation, vous comprenez pourquoi cela importait. Dans les fils de discussion sur FlyerTalk et ailleurs, les anciens utilisateurs mentionnent régulièrement le **coffre-fort de documents** comme la pièce la plus regrettée — ce lieu unique et sécurisé pour les cartes d'embarquement, les visas, les passeports et les confirmations. Enfin, **le partage de voyage** permettait aux membres de la famille ou aux collègues de suivre sans emails transférés.
 
 ## La leçon inconfortable
 
@@ -42,7 +42,7 @@ Quand vous construisez votre vie de voyage autour d'une application cloud gratui
 
 Rien de tout cela n'est malveillant ; c'est juste comment fonctionnent les décisions commerciales. Les applications de voyage se replient régulièrement, les niveaux gratuits passent derrière des murs payants, et les services sont discontinués. La personne qui n'a aucune influence sur le calendrier, c'est vous.
 
-Les documents de voyage ont un poids différent des playlists perdues. Une analyse de passeport, un octroi de visa, une preuve d'entrées et de sorties antérieures - perdre ceux-ci peut compliquer les demandes de visa, les demandes d'assurance et les conversations aux frontières pendant des années. Donc l'histoire de TripCase compte au-delà de la simple nostalgie.
+Les documents de voyage ont un poids différent des playlists perdues. Une analyse de passeport, un octroi de visa, une preuve d'entrées et de sorties antérieures — perdre ceux-ci peut compliquer les demandes de visa, les demandes d'assurance et les conversations aux frontières pendant des années. Donc l'histoire de TripCase compte au-delà de la simple nostalgie.
 
 ## Une carte de remplacement honnête
 
@@ -56,13 +56,13 @@ TripCase a regroupé plusieurs tâches différentes dans une application gratuit
 | Stockage des documents de voyage | Le coffre-fort de documents : passeports, visas, cartes d'embarquement | Travel Document Vault | Achat unique, sans abonnement |
 | Partage de voyage | Les followers voyaient votre itinéraire en direct | Partage TripIt ou dossier partagé | Gratuit |
 
-Les alertes de vol et l'analyse des itinéraires sont des commodités - vraiment utiles - et elles appartiennent au cloud car elles ne sont pertinentes que pendant un voyage. Le stockage des documents, cependant, est différent : c'est la seule tâche où perdre l'accès vous coûte réellement quelque chose que vous ne pouvez pas reprogrammer.
+Les alertes de vol et l'analyse des itinéraires sont des commodités — vraiment utiles — et elles appartiennent au cloud car elles ne sont pertinentes que pendant un voyage. Le stockage des documents, cependant, est différent : c'est la seule tâche où perdre l'accès vous coûte réellement quelque chose que vous ne pouvez pas reprogrammer.
 
 ## Pourquoi hors ligne est important pour les documents de voyage
 
 Un passeport est l'identité, un visa est la permission, et une pièce d'identité est la preuve. Ces documents décident si une frontière vous laisse entrer et si une réclamation est payée, ce qui les place dans une catégorie différente de tout ce qu'une application de voyage contient.
 
-Les conserver dans un service cloud signifie accepter trois risques distincts : le service peut fermer, comme TripCase l'a fait ; l'entreprise peut modifier son modèle de confidentialité ou de sécurité chaque fois que cela lui plaît ; et vous avez besoin d'une connexion plus une connexion fonctionnelle pour atteindre vos propres documents - pas un atout à une frontière où votre itinérance s'est tranquillement éteinte.
+Les conserver dans un service cloud signifie accepter trois risques distincts : le service peut fermer, comme TripCase l'a fait ; l'entreprise peut modifier son modèle de confidentialité ou de sécurité chaque fois que cela lui plaît ; et vous avez besoin d'une connexion plus une connexion fonctionnelle pour atteindre vos propres documents — pas un atout à une frontière où votre itinérance s'est tranquillement éteinte.
 
 Le stockage hors ligne-premier supprime les trois à la fois. Les documents vivent sur votre appareil, lisibles sans signal et sans compte, et il n'y a pas de serveur que quelqu'un puisse éteindre. Si vous envisagez où les copies numériques doivent vivre, notre comparaison de [iCloud, Google Photos et coffres-forts chiffrés](https://traveldocumentvault.com/fr/blog/safest-way-to-store-passport-digitally/) parcourt les compromis en détail.
 
@@ -96,7 +96,7 @@ Non. Aucune application ne fait tout ce que TripCase faisait. La plupart des anc
 
 ### Dois-je conserver mes documents de voyage dans une application cloud ?
 
-Cela dépend du document. Les services cloud sont pratiques pour les confirmations de réservation et les références, qui peuvent être remplacées si un service ferme. Vos documents de voyage réels - passeport, visa, pièce d'identité, permis de conduire - sont mieux stockés hors ligne sur votre appareil, où ils ne dépendent pas du fait que le serveur d'une entreprise reste en ligne.
+Cela dépend du document. Les services cloud sont pratiques pour les confirmations de réservation et les références, qui peuvent être remplacées si un service ferme. Vos documents de voyage réels — passeport, visa, pièce d'identité, permis de conduire — sont mieux stockés hors ligne sur votre appareil, où ils ne dépendent pas du fait que le serveur d'une entreprise reste en ligne.
 
 ## Articles connexes
 

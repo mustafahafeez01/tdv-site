@@ -8,11 +8,11 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[창립자 이야기추천 왜 Travel Document Vault를 만들었을까요: 모든 것을 기억하는 부모를 위해 저는 출입국 관리를 받을 때 담당관이 제 딸의 여권을 보고 멈췄습니다. 그 아찔한 순간 - 미리 알지 못했으면 가족 여행을 망쳤을 뻔했다는 것을 깨달았을 때 - 이 앱이 존재하게 된 이유입니다. 2026년 1월 3일7분 읽기](https://traveldocumentvault.com/ko/blog/why-i-built-travel-document-vault/)
+[창립자 이야기추천 왜 Travel Document Vault를 만들었을까요: 모든 것을 기억하는 부모를 위해 저는 출입국 관리를 받을 때 담당관이 제 딸의 여권을 보고 멈췄습니다. 그 아찔한 순간(미리 알지 못했으면 가족 여행을 망쳤을 뻔했다는 것을 깨달았을 때) 이 앱이 존재하게 된 이유입니다. 2026년 1월 3일7분 읽기](https://traveldocumentvault.com/ko/blog/why-i-built-travel-document-vault/)
 
 ##
 
-[가족 여행부모 중 한 명 없이 아이가 여행할 때 챙겨야 할 서류단독 양육권, 조부모와의 여행, 다른 성 - 상황마다 아이에게 필요한 서류가 다릅니다. 체크인 카운터와 출입국 심사에서 각각 무엇을 확인하는지 알아보세요.2026년 8월 30일8분 읽기](https://traveldocumentvault.com/ko/blog/travelling-child-without-both-parents/)
+[가족 여행부모 중 한 명 없이 아이가 여행할 때 챙겨야 할 서류단독 양육권, 조부모와의 여행, 다른 성. 상황마다 아이에게 필요한 서류가 다릅니다. 체크인 카운터와 출입국 심사에서 각각 무엇을 확인하는지 알아보세요.2026년 8월 30일8분 읽기](https://traveldocumentvault.com/ko/blog/travelling-child-without-both-parents/)
 
 ##
 
@@ -40,19 +40,19 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[가족 여행가족 여행을 위한 솅겐 여권 규정: 부모들이 자주 하는 실수 솅겐은 출발 이후 3개월의 유효성이 필요합니다 (6개월이 아님) - 그리고 아이 여권은 5년 후 만료됩니다. 예약하는 날 가족이 확인해야 할 사항입니다. 2026년 7월 10일6분 읽기](https://traveldocumentvault.com/ko/blog/schengen-passport-rules-family-trips/)
+[가족 여행가족 여행을 위한 솅겐 여권 규정: 부모들이 자주 하는 실수 솅겐은 출발 이후 3개월의 유효성이 필요합니다 (6개월이 아님). 그리고 아이 여권은 5년 후 만료됩니다. 예약하는 날 가족이 확인해야 할 사항입니다. 2026년 7월 10일6분 읽기](https://traveldocumentvault.com/ko/blog/schengen-passport-rules-family-trips/)
 
 ##
 
-[비자 & 입국당신의 90일 Schengen 윈도우: EES 시대의 일수 계산 유럽의 EES 경계 시스템은 당신의 쉔겐 일 수를 자동으로 기록합니다 - 하지만 시행만 할 뿐, 계획하지는 않습니다. 롤링 90/180 윈도우를 추적하는 방법입니다. 2026년 7월 7일6분 읽기](https://traveldocumentvault.com/ko/blog/schengen-90-days-auto-tracked-ees/)
+[비자 & 입국당신의 90일 Schengen 윈도우: EES 시대의 일수 계산 유럽의 EES 경계 시스템은 당신의 쉔겐 일 수를 자동으로 기록합니다. 하지만 시행만 할 뿐, 계획하지는 않습니다. 롤링 90/180 윈도우를 추적하는 방법입니다. 2026년 7월 7일6분 읽기](https://traveldocumentvault.com/ko/blog/schengen-90-days-auto-tracked-ees/)
 
 ##
 
-[여행 도구TripCase 대체 서비스: 여행 서류를 오프라인으로 보관해야 하는 이유 TripCase가 종료되고 사용자 데이터를 삭제했습니다. 항공편 알림, 여행 일정, 서류에 대한 솔직한 대체안 - 그리고 오프라인 저장소가 우수한 이유입니다. 2026년 7월 4일7분 읽기](https://traveldocumentvault.com/ko/blog/tripcase-alternative/)
+[여행 도구TripCase 대체 서비스: 여행 서류를 오프라인으로 보관해야 하는 이유 TripCase가 종료되고 사용자 데이터를 삭제했습니다. 항공편 알림, 여행 일정, 서류에 대한 솔직한 대체안. 그리고 오프라인 저장소가 우수한 이유입니다. 2026년 7월 4일7분 읽기](https://traveldocumentvault.com/ko/blog/tripcase-alternative/)
 
 ##
 
-[여행 준비여행할 때 잊어버리는 서류들 (각 서류를 어디에 보관할지) 동의서, 예방접종 증명서, 출국 항공권 - 탑승 수속에서 가족들이 잊는 서류들과 백업을 위한 실용적인 소지 vs 보관 전략입니다. 2026년 7월 4일7분 읽기](https://traveldocumentvault.com/ko/blog/what-documents-to-carry-when-travelling-internationally/)
+[여행 준비여행할 때 잊어버리는 서류들 (각 서류를 어디에 보관할지) 동의서, 예방접종 증명서, 출국 항공권. 탑승 수속에서 가족들이 잊는 서류들과 백업을 위한 실용적인 소지 vs 보관 전략입니다. 2026년 7월 4일7분 읽기](https://traveldocumentvault.com/ko/blog/what-documents-to-carry-when-travelling-internationally/)
 
 ##
 
@@ -88,11 +88,11 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[비자 & 입국비자 만료 추적 앱: 무엇을 살펴봐야 하고 왜 중요한가 비자 추적은 여권 추적보다 더 복잡합니다 - 입국 유효성, 최대 체류 기간 및 쉔겐 롤링 윈도우는 모두 별도 모니터링이 필요합니다. 왜 중요하고 앱에서 무엇을 찾아야 하는지 알아보세요. 2026년 3월 21일8분 읽기](https://traveldocumentvault.com/ko/blog/visa-expiry-tracker-app/)
+[비자 & 입국비자 만료 추적 앱: 무엇을 살펴봐야 하고 왜 중요한가 비자 추적은 여권 추적보다 더 복잡합니다. 입국 유효성, 최대 체류 기간 및 쉔겐 롤링 윈도우는 모두 별도 모니터링이 필요합니다. 왜 중요하고 앱에서 무엇을 찾아야 하는지 알아보세요. 2026년 3월 21일8분 읽기](https://traveldocumentvault.com/ko/blog/visa-expiry-tracker-app/)
 
 ##
 
-[갱신여권 갱신 중에 여행할 수 있나요? 갱신이 제출되었고 여행이 예약되었습니다 - 하지만 여행할 수 있습니까? 답변은 여전히 여권을 소유하고 있는지에 따라 다릅니다. 국가별 세부 정보가 있습니다. 2026년 3월 14일7분 읽기](https://traveldocumentvault.com/ko/blog/travel-while-passport-renewal-pending/)
+[갱신여권 갱신 중에 여행할 수 있나요? 갱신이 제출되었고 여행이 예약되었습니다. 하지만 여행할 수 있습니까? 답변은 여전히 여권을 소유하고 있는지에 따라 다릅니다. 국가별 세부 정보가 있습니다. 2026년 3월 14일7분 읽기](https://traveldocumentvault.com/ko/blog/travel-while-passport-renewal-pending/)
 
 ##
 
@@ -106,7 +106,7 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[여권 규칙조직 모든 여행을 위한 국제 여행 서류 확인 목록 국제 여행 전에 가져가야 할, 확인해야 할, 준비해야 할 모든 것. 여권, 비자, 운전면허증, 여행 보험을 다루는 실용적인 확인 목록 - 가족과 독립적인 여행자 모두에게 적합합니다. 2026년 3월 4일9분 읽기](https://traveldocumentvault.com/ko/blog/travel-document-checklist/)
+[여권 규칙조직 모든 여행을 위한 국제 여행 서류 확인 목록 국제 여행 전에 가져가야 할, 확인해야 할, 준비해야 할 모든 것. 여권, 비자, 운전면허증, 여행 보험을 다루는 실용적인 확인 목록. 가족과 독립적인 여행자 모두에게 적합합니다. 2026년 3월 4일9분 읽기](https://traveldocumentvault.com/ko/blog/travel-document-checklist/)
 
 ##
 
@@ -114,7 +114,7 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[갱신패스포트 갱신에 걸리는 시간은 얼마나 될까요? (미국, 영국, 호주, 캐나다) 모든 4개 국가의 현재 처리 시간, 신속 처리 및 긴급 옵션 포함 - 여행이 예약되어 있고 여권이 부족한 경우 해야 할 일. 2026년 2월 10일7분 읽기](https://traveldocumentvault.com/ko/blog/how-long-does-passport-renewal-take/)
+[갱신패스포트 갱신에 걸리는 시간은 얼마나 될까요? (미국, 영국, 호주, 캐나다) 모든 4개 국가의 현재 처리 시간, 신속 처리 및 긴급 옵션 포함. 여행이 예약되어 있고 여권이 부족한 경우 해야 할 일. 2026년 2월 10일7분 읽기](https://traveldocumentvault.com/ko/blog/how-long-does-passport-renewal-take/)
 
 ##
 

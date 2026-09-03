@@ -18,11 +18,11 @@ Source: https://traveldocumentvault.com/id/blog/child-travel-consent-letter/
 
 Surat persetujuan hanya punya satu tugas di konter maskapai: menunjukkan bahwa orang dewasa yang menemani anak telah mendapat persetujuan orang tua yang tidak ikut. Sebagian besar diterima tanpa pertanyaan. Yang menyebabkan keterlambatan biasanya tersandung pada detail kecil, bukan pada isinya, dan yang paling sering adalah nomor paspor yang berubah saat perpanjangan terakhir anak.
 
-Skenario itu - dan ribuan lainnya yang serupa - terjadi karena surat izin perjalanan anak adalah salah satu dokumen perjalanan yang paling sering disalahpahami. Aturan sangat berbeda tiap negara, dan surat yang berfungsi baik pada satu perjalanan bisa gagal di perbatasan pada perjalanan berikutnya. Mengetahui persis kapan surat diperlukan, apa isinya, dan bagaimana menjaganya tetap berlaku mencegah alasan paling umum keluarga tertahan di perbatasan.
+Skenario itu, dan ribuan lainnya yang serupa, terjadi karena surat izin perjalanan anak adalah salah satu dokumen perjalanan yang paling sering disalahpahami. Aturan sangat berbeda tiap negara, dan surat yang berfungsi baik pada satu perjalanan bisa gagal di perbatasan pada perjalanan berikutnya. Mengetahui persis kapan surat diperlukan, apa isinya, dan bagaimana menjaganya tetap berlaku mencegah alasan paling umum keluarga tertahan di perbatasan.
 
 ## Siapa Sebenarnya yang Membutuhkan Surat Izin Perjalanan Anak?
 
-Sepenuhnya tergantung pada tujuan Anda - tidak ada standar global, itulah sebabnya begitu banyak keluarga tidak siap.
+Sepenuhnya tergantung pada tujuan Anda — tidak ada standar global, itulah sebabnya begitu banyak keluarga tidak siap.
 
 Surat biasanya diperlukan dalam situasi berikut:
 
@@ -37,7 +37,7 @@ Selalu verifikasi persyaratan langsung dengan otoritas imigrasi untuk negara tuj
 
 ## Apa yang Harus Ada dalam Surat
 
-Surat izin perjalanan anak bukan catatan santai - ini adalah dokumen resmi, sering kali dinotariskan, yang harus memuat informasi spesifik. Setiap surat sebaiknya mencantumkan:
+Surat izin perjalanan anak bukan catatan santai — ini adalah dokumen resmi, sering kali dinotariskan, yang harus memuat informasi spesifik. Setiap surat sebaiknya mencantumkan:
 
 - **Nama lengkap dan tanggal lahir anak**, persis seperti tercetak di paspor.
 - **Nomor paspor anak.**
@@ -49,7 +49,7 @@ Surat izin perjalanan anak bukan catatan santai - ini adalah dokumen resmi, seri
 - **Tanda tangan orang tua yang tidak ikut serta**, dengan tanggal.
 - **Notarisasi atau sertifikasi**, jika diperlukan oleh tujuan.
 
-Tulis surat dengan bahasa formal - hindari frasa samar seperti "anak saya boleh bepergian kapan saja". Petugas perbatasan perlu melihat bahwa orang tua yang tidak ikut serta secara tegas menyetujui perjalanan spesifik ini, pada tanggal spesifik ini, ke tempat-tempat spesifik ini. Misalnya, Anda dapat menulis: "Saya, [Nama Lengkap], dengan ini memberikan izin bagi anak saya [Nama Lengkap Anak], nomor paspor [nomor], untuk bepergian ke [tujuan] berangkat pada [tanggal] dan kembali pada [tanggal], didampingi oleh [Nama dan Hubungan Orang Dewasa yang Bepergian]."
+Tulis surat dengan bahasa formal, hindari frasa samar seperti "anak saya boleh bepergian kapan saja". Petugas perbatasan perlu melihat bahwa orang tua yang tidak ikut serta secara tegas menyetujui perjalanan spesifik ini, pada tanggal spesifik ini, ke tempat-tempat spesifik ini. Misalnya, Anda dapat menulis: "Saya, [Nama Lengkap], dengan ini memberikan izin bagi anak saya [Nama Lengkap Anak], nomor paspor [nomor], untuk bepergian ke [tujuan] berangkat pada [tanggal] dan kembali pada [tanggal], didampingi oleh [Nama dan Hubungan Orang Dewasa yang Bepergian]."
 
 Sebagian petugas perbatasan akan menelepon nomor kontak yang tercantum untuk memverifikasi persetujuan. Pastikan nomor tersebut benar, dijawab oleh orang yang disebutkan, dan orang tersebut dapat mengonfirmasi izin dalam panggilan tersebut. Jika Anda tidak dapat menjamin ada yang menjawab selama jam operasi perbatasan, cantumkan kontak alternatif dan catat dalam surat.
 

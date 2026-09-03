@@ -10,13 +10,13 @@ Source: https://traveldocumentvault.com/it/blog/what-documents-to-carry-when-tra
 
 ## Punti Chiave
 
-- La maggior parte dei viaggiatori dimentica **lettere di consenso** per i bambini, certificati di vaccinazione, conferme di alloggio e prova di viaggio in avanti - i documenti di supporto che gli ufficiali dell'immigrazione controllano al gate.
-- Portare gli originali: passaporto, visti, carte d'imbarco e lettere di consenso. Conservare copie di backup digitali separatamente sul telefono - crittografate e offline.
+- La maggior parte dei viaggiatori dimentica **lettere di consenso** per i bambini, certificati di vaccinazione, conferme di alloggio e prova di viaggio in avanti — i documenti di supporto che gli ufficiali dell'immigrazione controllano al gate.
+- Portare gli originali: passaporto, visti, carte d'imbarco e lettere di consenso. Conservare copie di backup digitali separatamente sul telefono — crittografate e offline.
 - I numeri della polizza assicurativa di viaggio, i numeri di telefono dell'emittente e i dettagli di copertura devono essere sia in forma fisica che in un backup digitale offline accessibile senza internet.
 - Molti paesi si aspettano una **lettera di consenso** per un bambino che viaggia con un solo genitore. Senza di essa, si rischia il rifiuto dell'imbarco.
 - Le copie digitali offline conservate separatamente dai documenti fisici sono la migliore protezione se la borsa viene smarrita o rubata all'estero.
 
-I viaggiatori spesso scoprono di aver trascurato lettere di consenso, certificati di vaccinazione, conferme di alloggio e prova di viaggio in avanti solo quando raggiungono l'aeroporto - documenti che sembrano meno importanti di un passaporto ma sono altrettanto decisivi.
+I viaggiatori spesso scoprono di aver trascurato lettere di consenso, certificati di vaccinazione, conferme di alloggio e prova di viaggio in avanti solo quando raggiungono l'aeroporto — documenti che sembrano meno importanti di un passaporto ma sono altrettanto decisivi.
 
 Per la lista completa di tutti i documenti che potrebbe essere necessario portare per tipo di viaggio e fase, vedere [la lista completa dei documenti di viaggio](https://traveldocumentvault.com/it/blog/travel-document-checklist/). Questo articolo approfondisce ciò che viene dimenticato e come prepararsi a perdere documenti all'estero.
 
@@ -26,19 +26,19 @@ Il passaporto e il visto sembrano urgenti, quindi vengono confezionati per primi
 
 ### Prova di viaggio in avanti
 
-Un numero sorprendente di paesi richiede prova che hai intenzione di partire - un volo di ritorno, una prenotazione in avanti a un altro paese, o anche un biglietto di autobus o traghetto di solito basterà. Mantenere una copia stampata o digitale nel bagaglio a mano significa non affrontare ritardi all'immigrazione.
+Un numero sorprendente di paesi richiede prova che hai intenzione di partire — un volo di ritorno, una prenotazione in avanti a un altro paese, o anche un biglietto di autobus o traghetto di solito basterà. Mantenere una copia stampata o digitale nel bagaglio a mano significa non affrontare ritardi all'immigrazione.
 
 ### Conferme di alloggio
 
-Alcuni paesi chiedono di vedere prova della prenotazione della prima notte, che sia una conferma di hotel, un Airbnb o un ostello. L'ufficiale vuole prova che si ha un posto dove stare, quindi scaricare una copia sul telefono offline - l'email non ti servirà al confine.
+Alcuni paesi chiedono di vedere prova della prenotazione della prima notte, che sia una conferma di hotel, un Airbnb o un ostello. L'ufficiale vuole prova che si ha un posto dove stare, quindi scaricare una copia sul telefono offline — l'email non ti servirà al confine.
 
 ### Certificati di vaccinazione
 
-Certe destinazioni richiedono prova di vaccinazione per la febbre gialla o altre malattie, e i requisiti cambiano periodicamente per destinazione. Controllare le pagine di consulenza ai viaggiatori dell'OMS 6-8 settimane prima del viaggio - non la notte prima - poiché alcuni paesi accettano solo certificati ufficiali di febbre gialla dell'OMS, non fotocopie o foto digitali.
+Certe destinazioni richiedono prova di vaccinazione per la febbre gialla o altre malattie, e i requisiti cambiano periodicamente per destinazione. Controllare le pagine di consulenza ai viaggiatori dell'OMS 6-8 settimane prima del viaggio — non la notte prima — poiché alcuni paesi accettano solo certificati ufficiali di febbre gialla dell'OMS, non fotocopie o foto digitali.
 
 ### Dettagli di assicurazione di viaggio
 
-Sarà necessario accesso immediato al numero della polizza, ai dettagli di contatto dell'emittente e alla linea di emergenza 24 ore. Alcuni tipi di visto richiedono esplicitamente prova di assicurazione di viaggio - le applicazioni per il visto Schengen, ad esempio, richiedono un'assicurazione medica che copra l'assistenza di emergenza e l'ospedalizzazione. Ma ancora più importante, se qualcosa va male all'estero, si hanno bisogno di questi dettagli senza fare affidamento sull'accesso alla posta elettronica o a internet.
+Sarà necessario accesso immediato al numero della polizza, ai dettagli di contatto dell'emittente e alla linea di emergenza 24 ore. Alcuni tipi di visto richiedono esplicitamente prova di assicurazione di viaggio — le applicazioni per il visto Schengen, ad esempio, richiedono un'assicurazione medica che copra l'assistenza di emergenza e l'ospedalizzazione. Ma ancora più importante, se qualcosa va male all'estero, si hanno bisogno di questi dettagli senza fare affidamento sull'accesso alla posta elettronica o a internet.
 
 ### Lettere di consenso per il viaggio dei bambini
 
@@ -68,11 +68,11 @@ Le frontiere vogliono documenti originali, ma se questi originali scompaiono, i 
 - La lettera di consenso del bambino, se la si sta portando
 - Numeri di contatto di emergenza per l'ambasciata
 
-Conserva questi sul telefono utilizzando un'app offline e crittografata - non la galleria fotografica, non Google Foto, non iCloud. Se i documenti fisici vanno smarriti, hai comunque tutto ciò che serve per contattare l'ambasciata e provare chi sei.
+Conserva questi sul telefono utilizzando un'app offline e crittografata — non la galleria fotografica, non Google Foto, non iCloud. Se i documenti fisici vanno smarriti, hai comunque tutto ciò che serve per contattare l'ambasciata e provare chi sei.
 
 ## Come Mantenere i Dettagli dell'Assicurazione di Viaggio Accessibili
 
-La maggior parte dei viaggiatori acquista un'assicurazione di viaggio ma dimentica di rendere i dettagli della polizza immediatamente accessibili - il che significa che quando un'emergenza medica o il bagaglio smarrito accade all'estero, si sta cercando tra le email piuttosto che chiamare per aiuto. La nostra guida su [quali documenti assicurativi di viaggio conservare prima di partire](https://traveldocumentvault.com/it/blog/travel-insurance-documents/) spiega cosa conservare e dove conservarlo.
+La maggior parte dei viaggiatori acquista un'assicurazione di viaggio ma dimentica di rendere i dettagli della polizza immediatamente accessibili — il che significa che quando un'emergenza medica o il bagaglio smarrito accade all'estero, si sta cercando tra le email piuttosto che chiamare per aiuto. La nostra guida su [quali documenti assicurativi di viaggio conservare prima di partire](https://traveldocumentvault.com/it/blog/travel-insurance-documents/) spiega cosa conservare e dove conservarlo.
 
 Dettagli specifici da avere a portata di mano, sia sulla carta che digitalmente:
 
@@ -93,11 +93,11 @@ Una lettera di consenso dovrebbe tipicamente includere il nome completo del bamb
 
 Cosa significa in pratica
 
-Si sta salendo a bordo di un volo per il Canada con il bambino di 8 anni e il partner non sta viaggiando. Lo staff del check-in può rifiutare di imbarcare il bambino se non si riesce a mostrare il consenso scritto del partner assente, preferibilmente notarizzato. Se il bambino sta viaggiando con i nonni invece che con se stessi, generalmente entrambi i genitori devono firmare la lettera di consenso - il permesso di un solo genitore generalmente non è sufficiente. Verificare sempre i requisiti esatti per la destinazione ben prima della data di partenza.
+Si sta salendo a bordo di un volo per il Canada con il bambino di 8 anni e il partner non sta viaggiando. Lo staff del check-in può rifiutare di imbarcare il bambino se non si riesce a mostrare il consenso scritto del partner assente, preferibilmente notarizzato. Se il bambino sta viaggiando con i nonni invece che con se stessi, generalmente entrambi i genitori devono firmare la lettera di consenso — il permesso di un solo genitore generalmente non è sufficiente. Verificare sempre i requisiti esatti per la destinazione ben prima della data di partenza.
 
 ## Il Caso per le Copie Digitali Offline
 
-I documenti fisici aiutano fino a quando un ladro non prende la borsa - e di solito porta con sé anche le copie insieme agli originali. Un backup crittografato separato sul telefono - mantenuto offline - è la vera assicurazione se gli originali scompaiono.
+I documenti fisici aiutano fino a quando un ladro non prende la borsa — e di solito porta con sé anche le copie insieme agli originali. Un backup crittografato separato sul telefono — mantenuto offline — è la vera assicurazione se gli originali scompaiono.
 
 Quando l'ambasciata ha bisogno di emettere un documento di viaggio di emergenza, un backup sicuro fornisce il numero del passaporto, la data di emissione, il luogo di emissione e la data di scadenza istantaneamente, senza accesso a internet. Per ulteriori informazioni sulle opzioni disponibili, vedere la nostra panoramica su [come archiviare le copie del passaporto in modo sicuro](https://traveldocumentvault.com/it/blog/is-it-safe-to-store-passport-in-google-photos/) e i compromessi tra diversi approcci.
 
@@ -119,7 +119,7 @@ Sì, in molti paesi è prevista. Se un bambino viaggia internazionalmente con un
 
 ### Devo conservare backup digitali dei miei documenti?
 
-Sì. Conservare copie crittografate offline sul telefono - non nella galleria fotografica o nello storage cloud. Se i documenti fisici vengono smarriti o rubati all'estero, questi backup consentono all'ambasciata di elaborare un documento di viaggio di emergenza molto più rapidamente. Dovrebbero includere il numero del passaporto, la data di emissione, il luogo di emissione, il numero della polizza assicurativa e i riferimenti delle prenotazioni.
+Sì. Conservare copie crittografate offline sul telefono — non nella galleria fotografica o nello storage cloud. Se i documenti fisici vengono smarriti o rubati all'estero, questi backup consentono all'ambasciata di elaborare un documento di viaggio di emergenza molto più rapidamente. Dovrebbero includere il numero del passaporto, la data di emissione, il luogo di emissione, il numero della polizza assicurativa e i riferimenti delle prenotazioni.
 
 ### Cosa succede se arrivo all'aeroporto senza un documento richiesto?
 

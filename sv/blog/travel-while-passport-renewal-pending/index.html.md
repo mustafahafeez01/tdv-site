@@ -28,9 +28,9 @@ Om du fortfarande har det passet beror helt på ditt land och din förnyelsemeto
 
 Standardförnyelse av amerikanskt pass per post kräver inte att du lämnar in ditt nuvarande pass innan det nya kommer. Du fyller i formulär DS-82, bifogar ditt befintliga pass och skickar allt till National Passport Processing Center. Ditt gamla pass returneras till dig tillsammans med det nya, vanligtvis makulerat med ett hål.
 
-Det innebär att inrikesresor inom USA inte påverkas under hela förnyelseprocessen - du behöver inget pass för inrikesflyg. Utrikesresor är en annan historia: du kan inte resa utomlands förrän ditt nya pass har kommit, och du kan inte använda det gamla makulerade passet även om du har det i handen.
+Det innebär att inrikesresor inom USA inte påverkas under hela förnyelseprocessen – du behöver inget pass för inrikesflyg. Utrikesresor är en annan historia: du kan inte resa utomlands förrän ditt nya pass har kommit, och du kan inte använda det gamla makulerade passet även om du har det i handen.
 
-Standardhandläggningstiderna ändras, och utrikesdepartementet publicerar den aktuella siffran på travel.state.gov, så kontrollera där innan du planerar utifrån den. Om din resa är bokad innan du väntar dig att det nya passet ska komma finns expedierad handläggning tillgänglig mot en extra avgift och förkortar väntan avsevärt. Vid genuint brådskande resor finns personliga besök tillgängliga hos regionala passmyndigheter - kontrollera aktuell behörighet på travel.state.gov.
+Standardhandläggningstiderna ändras, och utrikesdepartementet publicerar den aktuella siffran på travel.state.gov, så kontrollera där innan du planerar utifrån den. Om din resa är bokad innan du väntar dig att det nya passet ska komma finns expedierad handläggning tillgänglig mot en extra avgift och förkortar väntan avsevärt. Vid genuint brådskande resor finns personliga besök tillgängliga hos regionala passmyndigheter – kontrollera aktuell behörighet på travel.state.gov.
 
 ## Storbritannien: Två processer med motsatta utfall
 
@@ -52,7 +52,7 @@ Australian Passport Office publicerar sina aktuella handläggningstider och reko
 
 ## Kanada: Inlämnat vid ansökan
 
-Kanada kräver att du lämnar in ditt befintliga pass när du ansöker om förnyelse. Ditt gamla pass förvaras tills det nya är klart, så du kan inte resa utomlands under den här perioden - även om inrikesresor inom Kanada inte kräver ett pass.
+Kanada kräver att du lämnar in ditt befintliga pass när du ansöker om förnyelse. Ditt gamla pass förvaras tills det nya är klart, så du kan inte resa utomlands under den här perioden – även om inrikesresor inom Kanada inte kräver ett pass.
 
 Service Canada publicerar sina aktuella handläggningsstandarder, som skiljer sig beroende på om du ansöker personligen, per post eller på ett Service Canada Centre, plus posttid oavsett metod. Vid brådskande resor finns expresstjänst och brådskande upphämtning tillgängliga mot extra avgifter. Kontrollera aktuella handläggningstider och ansök på canada.ca.
 
@@ -82,7 +82,7 @@ Det praktiska testet är enkelt. Om passet är makulerat, utgånget eller ligger
 
 ## Om din resa ligger tidigare än din förnyelsetidslinje
 
-Vänta inte med att kontakta ditt lands passmyndighet per telefon - fråga specifikt om expedierade, brådskande eller akuta besökstider. De finns i alla länder som listas här, men tillgängligheten ändras vecka för vecka och besökstider försvinner snabbt.
+Vänta inte med att kontakta ditt lands passmyndighet per telefon – fråga specifikt om expedierade, brådskande eller akuta besökstider. De finns i alla länder som listas här, men tillgängligheten ändras vecka för vecka och besökstider försvinner snabbt.
 
 Kontakta samtidigt ditt flygbolag om ombokning. Vissa flygbolag avstår från ombokningsavgifter när ett genuint dokumentproblem är orsaken. Få eventuell överenskommelse skriftligt. Om du har en reseförsäkring, kontrollera din försäkring för täckning av kostnader som uppstår på grund av passförseningar eller dokumentproblem.
 

@@ -10,15 +10,15 @@ Source: https://traveldocumentvault.com/es/blog/visa-expiry-tracker-app/
 
 ## Puntos Clave
 
-- El seguimiento de visados es **más complejo** que el seguimiento de pasaportes - un visado tiene una fecha de validez de entrada, una duración máxima de estancia, y a veces límites de número de entradas, todo lo cual necesita supervisión separada.
+- El seguimiento de visados es **más complejo** que el seguimiento de pasaportes —un visado tiene una fecha de validez de entrada, una duración máxima de estancia, y a veces límites de número de entradas, todo lo cual necesita supervisión separada.
 - Excederse en un visado tiene consecuencias graves: multas, prohibiciones de reentrada de años o más, y en algunos países, cargos criminales.
 - Las mejores aplicaciones rastreadoras de visados funcionan sin conexión, admiten múltiples tipos de visados, y permiten tiempos de recordatorio personalizados por documento.
-- Los visitantes del Área de Schengen deben rastrear una ventana móvil de 90/180 días, no solo una única fecha de vencimiento - la mayoría de aplicaciones de viaje genéricas no lo manejan correctamente.
+- Los visitantes del Área de Schengen deben rastrear una ventana móvil de 90/180 días, no solo una única fecha de vencimiento —la mayoría de aplicaciones de viaje genéricas no lo manejan correctamente.
 - Rastrear visados y pasaportes juntos en un mismo lugar reduce el riesgo de un desajuste: entrar con un visado válido pero con un pasaporte que vence antes de que termine tu estancia planeada.
 
-Excederse en el tiempo permitido de un visado es uno de los errores de viaje más significativos que una persona puede cometer. A diferencia de un vuelo perdido - estresante pero en última instancia soluciona - un exceso crea un registro formal de inmigración que puede seguirte durante años. En Estados Unidos, un exceso de solo 180 días desencadena una prohibición automática de 3 años en la reentrada bajo la sección INA 212(a)(9)(B)(i), y un exceso de un año desencadena una prohibición de 10 años. Estas consecuencias no son ampliamente conocidas, pero están documentadas por el Servicio de Ciudadanía e Inmigración de Estados Unidos.
+Excederse en el tiempo permitido de un visado es uno de los errores de viaje más significativos que una persona puede cometer. A diferencia de un vuelo perdido —estresante pero en última instancia soluciona— un exceso crea un registro formal de inmigración que puede seguirte durante años. En Estados Unidos, un exceso de solo 180 días desencadena una prohibición automática de 3 años en la reentrada bajo la sección INA 212(a)(9)(B)(i), y un exceso de un año desencadena una prohibición de 10 años. Estas consecuencias no son ampliamente conocidas, pero están documentadas por el Servicio de Ciudadanía e Inmigración de Estados Unidos.
 
-Una aplicación rastreadora de visados previene esto. Supervisa múltiples fechas a la vez - validez de entrada, estancia máxima, y número de entradas - de una manera que las aplicaciones genéricas de pasaportes no pueden.
+Una aplicación rastreadora de visados previene esto. Supervisa múltiples fechas a la vez —validez de entrada, estancia máxima, y número de entradas— de una manera que las aplicaciones genéricas de pasaportes no pueden.
 
 ## Por Qué el Seguimiento de Visados Es Más Complejo Que el Seguimiento de Pasaportes
 
@@ -30,12 +30,12 @@ Un viajero entra en Vietnam con un visado sellado con "válido hasta el 30 de ju
 
 | Campo | Qué significa | Ejemplo |
 |---|---|---|
-| **Fecha de validez de entrada** | El último día que puedes usar este visado para entrar en el país | "Válido hasta el 31 de diciembre de 2026" - debes entrar antes de esta fecha |
-| **Duración máxima de estancia** | Cuánto tiempo puedes permanecer una vez que entres, independientemente de la fecha de validez del visado | "Duración de estancia: 90 días" - el contador comienza en la entrada, no en la emisión del visado |
+| **Fecha de validez de entrada** | El último día que puedes usar este visado para entrar en el país | "Válido hasta el 31 de diciembre de 2026" —debes entrar antes de esta fecha |
+| **Duración máxima de estancia** | Cuánto tiempo puedes permanecer una vez que entres, independientemente de la fecha de validez del visado | "Duración de estancia: 90 días" —el contador comienza en la entrada, no en la emisión del visado |
 | **Número de entradas** | Entradas simples, dobles o múltiples permitidas | Un visado de entrada única se anula en el momento en que sales, incluso si la fecha de validez de entrada no ha pasado |
 | **Reglas de ventana móvil** | Algunos regímenes de visados (notablemente Schengen) calculan días permitidos dentro de una ventana móvil | Schengen: máximo 90 días en cualquier ventana móvil de 180 días, no por año calendario |
 
-Un rastreador que solo supervisa la fecha de validez de entrada se pierde la causa más común de excedentes accidentales: exceder la duración máxima de estancia después de una entrada perfectamente legal. Este es el campo que la mayoría de viajeros no rastrean, porque la fecha no está sellada en el pasaporte - tienes que calcularla a partir de la fecha de entrada.
+Un rastreador que solo supervisa la fecha de validez de entrada se pierde la causa más común de excedentes accidentales: exceder la duración máxima de estancia después de una entrada perfectamente legal. Este es el campo que la mayoría de viajeros no rastrean, porque la fecha no está sellada en el pasaporte —tienes que calcularla a partir de la fecha de entrada.
 
 ## La Regla de Schengen 90/180 Días
 
@@ -43,7 +43,7 @@ Para viajeros que visitan múltiples países europeos, la regla de 90/180 días 
 
 La Comisión Europea proporciona una calculadora oficial de estancia en Schengen para ayudar a viajeros a calcular sus días permitidos. El punto crítico es que esta es una *ventana móvil*, no un reinicio de año calendario. Los días pasados en Schengen hace seis meses aún cuentan contra tu asignación actual.
 
-La mayoría de aplicaciones genéricas de pasaportes o documentos no lo manejan correctamente. Una aplicación que simplemente muestre una fecha de vencimiento de visado no puede gestionar el cumplimiento de Schengen - requiere calcular días a través de una ventana móvil basada en fechas reales de entrada y salida.
+La mayoría de aplicaciones genéricas de pasaportes o documentos no lo manejan correctamente. Una aplicación que simplemente muestre una fecha de vencimiento de visado no puede gestionar el cumplimiento de Schengen —requiere calcular días a través de una ventana móvil basada en fechas reales de entrada y salida.
 
 ## Qué Sucede Cuando Te Excedes
 
@@ -73,8 +73,8 @@ Dada la complejidad anterior, una buena aplicación rastreadora de visados neces
 ## Pasos Prácticos para Rastrear Tu Visado Correctamente
 
 1. **Registra tu fecha de entrada el día que llegues.** Tu reloj de estancia máxima comienza inmediatamente en la entrada, no desde cuando se emitió el visado o cuando comenzó el período de validez de entrada.
-2. **Calcula y anota tu última fecha de salida permitida.** Suma tu duración máxima de estancia a tu fecha de entrada. Esta es la fecha en que debes partir - anterior si necesitas tiempo para alcanzar un punto de partida.
-3. **Rastrea el estado de entrada simple vs. múltiple.** Si tu visado es de entrada única, un viaje de día a un país vecino lo anula - planifica en consecuencia.
+2. **Calcula y anota tu última fecha de salida permitida.** Suma tu duración máxima de estancia a tu fecha de entrada. Esta es la fecha en que debes partir —anterior si necesitas tiempo para alcanzar un punto de partida.
+3. **Rastrea el estado de entrada simple vs. múltiple.** Si tu visado es de entrada única, un viaje de día a un país vecino lo anula —planifica en consecuencia.
 4. **Para viajes a Schengen, mantén un registro de fechas de entrada y salida.** Usa la calculadora oficial de la Comisión Europea para verificar tus días restantes antes de cualquier viaje que siga a viajes recientes a Schengen.
 5. **Establece un recordatorio al menos 2 semanas antes de tu fecha límite de estancia máxima.** Esto te da tiempo para organizar una partida sin prisa, especialmente si las opciones de transporte en tu destino son limitadas.
 
@@ -86,7 +86,7 @@ Reglas relacionadas que interactúan con el seguimiento de visados: ve nuestra g
 
 ### ¿Qué es una aplicación rastreadora de vencimiento de visado?
 
-Una aplicación rastreadora de visados supervisa las fechas de vencimiento de tus visados y envía recordatorios antes de que venzan. Las mejores rastrean tanto el período de validez de entrada como la duración máxima de estancia - dos fechas límite diferentes que ambas importan para evitar un exceso.
+Una aplicación rastreadora de visados supervisa las fechas de vencimiento de tus visados y envía recordatorios antes de que venzan. Las mejores rastrean tanto el período de validez de entrada como la duración máxima de estancia —dos fechas límite diferentes que ambas importan para evitar un exceso.
 
 ### ¿Cuál es la diferencia entre una fecha de vencimiento de visado y una estancia máxima?
 
@@ -94,11 +94,11 @@ La fecha de vencimiento del visado es el último día que puedes usar el visado 
 
 ### ¿Qué sucede si te excedes en un visado?
 
-Las consecuencias varían según el país pero comúnmente incluyen multas, prohibiciones de reentrada, y deportación. En EE.UU., un exceso de 180 días desencadena una prohibición de reentrada de 3 años; un exceso de 1 año desencadena una prohibición de 10 años - según se documenta en USCIS. Los excesos se registran en bases de datos de inmigración y afectan futuras solicitudes de visado.
+Las consecuencias varían según el país pero comúnmente incluyen multas, prohibiciones de reentrada, y deportación. En EE.UU., un exceso de 180 días desencadena una prohibición de reentrada de 3 años; un exceso de 1 año desencadena una prohibición de 10 años —según se documenta en USCIS. Los excesos se registran en bases de datos de inmigración y afectan futuras solicitudes de visado.
 
 ### ¿Puede funcionar una aplicación rastreadora de visados sin conexión?
 
-Las mejores sí. El acceso sin conexión importa en fronteras y en áreas con internet poco confiable - exactamente donde necesitas los detalles de tu visado más. Las aplicaciones que requieren internet para mostrar tus documentos son menos útiles en estas situaciones.
+Las mejores sí. El acceso sin conexión importa en fronteras y en áreas con internet poco confiable —exactamente donde necesitas los detalles de tu visado más. Las aplicaciones que requieren internet para mostrar tus documentos son menos útiles en estas situaciones.
 
 ### ¿Con cuánta anticipación debo recibir un recordatorio antes de que mi visado venza?
 

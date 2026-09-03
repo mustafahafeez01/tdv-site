@@ -11,12 +11,12 @@ Source: https://traveldocumentvault.com/fr/blog/damaged-passport-travel/
 ## Points clés à retenir
 
 - **Toute usure n'est pas un dommage.** Une couverture pliée ne pose pas de problème. Des dégâts des eaux, des pages déchirées ou des dispositifs de sécurité maculés, si.
-- Les compagnies aériennes refusent l'embarquement dès qu'**elles pensent qu'un passeport est endommagé** - elles sont responsables si elles font embarquer un document invalide et préfèrent rester prudentes.
+- Les compagnies aériennes refusent l'embarquement dès qu'**elles pensent qu'un passeport est endommagé** — elles sont responsables si elles font embarquer un document invalide et préfèrent rester prudentes.
 - Repérer un dommage **plusieurs jours ou semaines avant** votre voyage vous laisse le temps d'un renouvellement d'urgence. La veille, c'est la crise.
-- Si l'on vous refuse l'embarquement, **renseignez-vous auprès de votre ambassade sur un document de voyage d'urgence** - une délivrance le jour même est possible.
-- Une copie numérique **vaut le plus quand vous êtes à l'étranger** - un agent consulaire peut établir votre identité à partir d'un scan bien plus vite qu'à partir de votre récit. Scannez votre passeport avant de voyager.
+- Si l'on vous refuse l'embarquement, **renseignez-vous auprès de votre ambassade sur un document de voyage d'urgence** — une délivrance le jour même est possible.
+- Une copie numérique **vaut le plus quand vous êtes à l'étranger** — un agent consulaire peut établir votre identité à partir d'un scan bien plus vite qu'à partir de votre récit. Scannez votre passeport avant de voyager.
 
-La plupart des dommages sur un passeport sont purement esthétiques. Une couverture éraflée, un coin ramolli, une tranche élimée le long de la reliure - rien de tout cela n'empêche d'embarquer. Ce que le personnel frontalier et les agents des compagnies aériennes vérifient réellement est plus restreint qu'on ne l'imagine : la page d'identité, les deux lignes imprimées en bas de cette page, et si le livret tient encore en un seul document.
+La plupart des dommages sur un passeport sont purement esthétiques. Une couverture éraflée, un coin ramolli, une tranche élimée le long de la reliure — rien de tout cela n'empêche d'embarquer. Ce que le personnel frontalier et les agents des compagnies aériennes vérifient réellement est plus restreint qu'on ne l'imagine : la page d'identité, les deux lignes imprimées en bas de cette page, et si le livret tient encore en un seul document.
 
 Savoir où se situe cette limite avant de partir vaut la peine, car un passeport peut être techniquement valide et pourtant être refusé. Cet article détaille ce qui constitue un dommage, ce que les autorités acceptent généralement, et la marche à suivre si le vôtre est déjà en mauvais état.
 
@@ -26,7 +26,7 @@ C'est là que la plupart des gens paniquent inutilement : un coin corné sur la 
 
 **Un dommage désigne tout ce qui compromet les dispositifs de sécurité du document ou sa lisibilité.** Les dégâts des eaux sont le cas classique : l'encre coule, les pages gonflent ou se gondolent, et la page de signature devient illisible. Les pages déchirées ou manquantes comptent aussi, tout comme un hologramme de sécurité abîmé, une reliure cassée, ou tout ce qui rend illisibles vos informations personnelles ou vos données biométriques.
 
-Plus important encore, la zone de lecture optique - la bande noire et blanche en bas de votre page d'identité - doit rester intacte. Les scanners frontaliers peuvent devenir incapables de la lire une fois endommagée.
+Plus important encore, la zone de lecture optique — la bande noire et blanche en bas de votre page d'identité — doit rester intacte. Les scanners frontaliers peuvent devenir incapables de la lire une fois endommagée.
 
 Cela compte parce que **les compagnies aériennes portent la responsabilité si elles font embarquer une personne munie d'un document inacceptable.** Embarquez avec un passeport endommagé, voyez-vous refuser l'entrée à destination, et les autorités peuvent infliger une amende à la compagnie pour vous avoir transporté. La compagnie doit également couvrir le coût de votre rapatriement.
 
@@ -34,7 +34,7 @@ Aucun agent d'embarquement ne souhaite cette paperasse, il préfère donc nettem
 
 ## Vous repérez un dommage plusieurs jours ou semaines avant le voyage
 
-Repérer un dommage avec de l'avance est le meilleur scénario possible, car vous avez encore de la marge pour agir. Dès que vous remarquez quelque chose d'anormal - une couverture qui craque, des taches d'eau, de l'encre qui coule, tout élément inhabituel - contactez votre autorité chargée des passeports plutôt que d'attendre pour voir si cela empire ou de supposer que tout ira bien le jour J.
+Repérer un dommage avec de l'avance est le meilleur scénario possible, car vous avez encore de la marge pour agir. Dès que vous remarquez quelque chose d'anormal — une couverture qui craque, des taches d'eau, de l'encre qui coule, tout élément inhabituel — contactez votre autorité chargée des passeports plutôt que d'attendre pour voir si cela empire ou de supposer que tout ira bien le jour J.
 
 Votre première étape devrait être le site officiel du bureau des passeports de votre pays, car c'est le seul endroit où les règles en vigueur et les délais de traitement sont garantis exacts, et les deux changent plus souvent qu'on ne le pense. Si vous n'êtes pas sûr que votre passeport en particulier sera encore accepté, le bureau des passeports est la seule autorité dont la réponse compte réellement. Un forum de voyageurs ne vous sauvera pas au comptoir d'enregistrement.
 
@@ -48,14 +48,14 @@ Commencez la démarche dès que vous découvrez le dommage. Réserver des vols e
 
 Passons maintenant au scénario plus difficile : vous êtes dans la file d'enregistrement ou à la porte d'embarquement et vous remarquez un dommage qui vous avait échappé, ou l'agent le repère dès que vous lui tendez votre passeport.
 
-Restez calme et soyez honnête. Dites à l'agent que le dommage vient tout juste de se révéler à vous, plutôt que d'essayer de le cacher ou de le minimiser - il a déjà vu des passeports endommagés et repérera immédiatement la vérité.
+Restez calme et soyez honnête. Dites à l'agent que le dommage vient tout juste de se révéler à vous, plutôt que d'essayer de le cacher ou de le minimiser — il a déjà vu des passeports endommagés et repérera immédiatement la vérité.
 
 Si le dommage est vraiment mineur, un léger pli qui n'affecte ni le texte ni un dispositif de sécurité, l'agent pourra l'accepter. S'il est plus important, il refusera l'embarquement, et il n'y a pas moyen de discuter.
 
 Une fois l'embarquement refusé, vos options sont limitées :
 
 - **Vous faire réinscrire sur un vol ultérieur.** Contactez votre compagnie aérienne ou votre agence de réservation et expliquez ce qui s'est passé. Dans de nombreux cas, elles vous réinscriront sans frais supplémentaires une fois que la raison est un document endommagé (et non une absence ou une annulation volontaire). Profitez de ce délai pour régler la situation de votre passeport.
-- **Demander un document de voyage d'urgence.** Contactez immédiatement l'ambassade ou le consulat le plus proche. Expliquez que vous avez un vol confirmé et devez voyager de toute urgence. Si vous êtes encore à l'aéroport, de nombreuses ambassades peuvent délivrer un document de voyage d'urgence le jour même - mais vous devez agir vite et présenter une preuve de votre réservation.
+- **Demander un document de voyage d'urgence.** Contactez immédiatement l'ambassade ou le consulat le plus proche. Expliquez que vous avez un vol confirmé et devez voyager de toute urgence. Si vous êtes encore à l'aéroport, de nombreuses ambassades peuvent délivrer un document de voyage d'urgence le jour même — mais vous devez agir vite et présenter une preuve de votre réservation.
 - **Accepter l'annulation.** Si aucune de ces options ne fonctionne et que le voyage ne peut pas être sauvé, demandez à votre compagnie aérienne ce qu'elle peut faire. Certaines vous réinscriront ou offriront un avoir en geste commercial une fois la situation expliquée. La plupart des conditions des compagnies aériennes considèrent toutefois un problème de document comme relevant de la responsabilité du passager, donc aucun remboursement automatique n'est à réclamer.
 
 Si l'agent d'embarquement refuse, ne discutez pas et n'essayez pas d'embarquer quand même. Cela ne fait que créer des problèmes plus graves. La compagnie aérienne peut vous interdire de vols futurs, les autorités de l'immigration peuvent vous infliger une amende, et dans certains pays, elles peuvent vous poursuivre pour avoir tenté de voyager avec un document déjà jugé invalide.
@@ -79,7 +79,7 @@ Une photo numérique nette de votre passeport aide beaucoup ici. Conservez la pa
 
 Cela s'avère particulièrement précieux si vous êtes à l'étranger quand votre passeport est endommagé et que vous avez besoin d'un document de voyage d'urgence de la part de votre ambassade. Les agents consulaires travaillent plus vite lorsqu'ils ont sous les yeux un scan de votre passeport original.
 
-Stockez vos copies numériques quelque part de chiffré et hors ligne - pas dans Google Photos ou un iCloud partagé avec d'autres personnes. Travel Document Vault est conçu exactement pour cet usage : des photos de passeport chiffrées uniquement sur votre appareil, accessibles instantanément si quelque chose tourne mal.
+Stockez vos copies numériques quelque part de chiffré et hors ligne — pas dans Google Photos ou un iCloud partagé avec d'autres personnes. Travel Document Vault est conçu exactement pour cet usage : des photos de passeport chiffrées uniquement sur votre appareil, accessibles instantanément si quelque chose tourne mal.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
@@ -91,7 +91,7 @@ Les dommages incluent les dégâts des eaux, l'encre qui coule, les pages déchi
 
 ### Les compagnies aériennes peuvent-elles refuser l'embarquement à cause d'un passeport endommagé ?
 
-Oui. Les compagnies aériennes sont tenues responsables si elles font embarquer une personne munie d'un document de voyage invalide et que cette personne se voit refuser l'entrée ou est renvoyée. Les agents d'embarquement préfèrent donc rester prudents - un passeport présentant des dégâts des eaux ou des pages manquantes peut être jugé inacceptable même s'il reste techniquement valide.
+Oui. Les compagnies aériennes sont tenues responsables si elles font embarquer une personne munie d'un document de voyage invalide et que cette personne se voit refuser l'entrée ou est renvoyée. Les agents d'embarquement préfèrent donc rester prudents — un passeport présentant des dégâts des eaux ou des pages manquantes peut être jugé inacceptable même s'il reste techniquement valide.
 
 ### Que faire si je repère un dommage sur mon passeport avant mon voyage ?
 
@@ -99,7 +99,7 @@ Contactez immédiatement votre autorité chargée des passeports plutôt que d'a
 
 ### Que faire si mon passeport est endommagé à l'aéroport ?
 
-Informez immédiatement l'agent d'embarquement et expliquez-lui quand le dommage s'est produit. Il pourra accepter le passeport si le dommage est mineur et que vos informations restent lisibles et sécurisées. S'il refuse l'embarquement, demandez si un document de voyage d'urgence délivré par votre ambassade est possible pour ce voyage, ou si vous pouvez être réinscrit sur un vol ultérieur une fois votre nouveau passeport obtenu. N'essayez pas de voyager si l'agent d'embarquement refuse - embarquer avec un document rejeté causera des problèmes bien plus graves.
+Informez immédiatement l'agent d'embarquement et expliquez-lui quand le dommage s'est produit. Il pourra accepter le passeport si le dommage est mineur et que vos informations restent lisibles et sécurisées. S'il refuse l'embarquement, demandez si un document de voyage d'urgence délivré par votre ambassade est possible pour ce voyage, ou si vous pouvez être réinscrit sur un vol ultérieur une fois votre nouveau passeport obtenu. N'essayez pas de voyager si l'agent d'embarquement refuse — embarquer avec un document rejeté causera des problèmes bien plus graves.
 
 ### En combien de temps puis-je obtenir un nouveau passeport si le mien est endommagé ?
 

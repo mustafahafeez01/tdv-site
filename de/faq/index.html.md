@@ -28,7 +28,7 @@ Sentry ist ein Absturzbericht-Tool, das uns hilft, Fehler zu finden und zu beheb
 
 Was beinhaltet das Pro-Upgrade?
 
-Pro ist ein einmaliger Kauf, der unbegrenzte Profile, unbegrenzte Dokumente, kombinierten PDF-Export, verschlüsseltes Cloud-Backup in iCloud oder Google Drive und individuelle Erinnerungszeiten freischaltet. Sie zahlen einmal - kein Abonnement, keine wiederkehrende Gebühr und keine Testphase, die still mit der Abrechnung beginnt.
+Pro ist ein einmaliger Kauf, der unbegrenzte Profile, unbegrenzte Dokumente, kombinierten PDF-Export, verschlüsseltes Cloud-Backup in iCloud oder Google Drive und individuelle Erinnerungszeiten freischaltet. Sie zahlen einmal – kein Abonnement, keine wiederkehrende Gebühr und keine Testphase, die still mit der Abrechnung beginnt.
 
 Sind zukünftige Updates in meinem Kauf enthalten?
 
@@ -121,7 +121,7 @@ Ihre Dokumente verlassen Ihr Gerät nie. Dieser Modus gibt Ihnen einfach eine si
 
 Was ist ein Wiederherstellungscode und warum brauche ich ihn?
 
-Wenn Sie App-Sperre einrichten, generiert die App einen eindeutigen Wiederherstellungscode, der Ihr Sicherheitsnetz ist, falls Sie jemals Ihren PIN vergessen. Speichern Sie ihn an einem sicheren Ort - in Ihrem Passwort-Manager, auf einem gedruckten Zettel, überall wo Sie vertrauen.
+Wenn Sie App-Sperre einrichten, generiert die App einen eindeutigen Wiederherstellungscode, der Ihr Sicherheitsnetz ist, falls Sie jemals Ihren PIN vergessen. Speichern Sie ihn an einem sicheren Ort – in Ihrem Passwort-Manager, auf einem gedruckten Zettel, überall wo Sie vertrauen.
 
 Wenn Sie Ihren PIN vergessen, geben Sie Ihren Wiederherstellungscode auf dem PIN-Bildschirm ein. Die App-Sperre wird deaktiviert und Sie haben wieder **vollen Zugriff, ohne ein einziges Dokument zu verlieren.**
 
@@ -211,7 +211,7 @@ Kann ich die Erinnerungszeiten anpassen?
 
 **Kostenlose Nutzer:** Erhalten intelligente Standardwerte je nach Dokumenttyp. Reisepässe erhalten die erste Erinnerung 8 Monate vor Ablauf, Visa und Ausweise 3 Monate vor Ablauf, Flugtickets und Buchungen eine Woche vor Ablauf, und jeder Zeitplan wird bis zum Ablaufdatum durchgestuft.
 
-**Pro-Nutzer:** Können den Startpunkt für jedes Dokument ändern. Wählen Sie aus 8 Monaten, 6 Monaten, 3 Monaten, 6 Wochen, 1 Monat, 2 Wochen, 1 Woche oder Ablaufdatum - der Rest des Zeitplans wird automatisch ausgefüllt. Flugtickets haben separate Optionen: 1 Woche, 2 Tage, 1 Tag oder 24 Stunden.
+**Pro-Nutzer:** Können den Startpunkt für jedes Dokument ändern. Wählen Sie aus 8 Monaten, 6 Monaten, 3 Monaten, 6 Wochen, 1 Monat, 2 Wochen, 1 Woche oder Ablaufdatum – der Rest des Zeitplans wird automatisch ausgefüllt. Flugtickets haben separate Optionen: 1 Woche, 2 Tage, 1 Tag oder 24 Stunden.
 
 Um Erinnerungen anzupassen, tippen Sie auf ein Dokument → Bearbeiten → Abschnitt Erinnerungen (nur Pro).
 
@@ -221,7 +221,7 @@ Pro-Nutzer können oben rechts in der Dokumentenliste auf **„Auswählen"** tip
 
 Kann ich eine Massenlöschung rückgängig machen?
 
-**Ja - Sie haben zwei Schutzebenen.** Nach dem Löschen von Dokumenten (einzeln oder stapelweise) sehen Sie ein kurzes Rückgängig-Fenster unten auf dem Bildschirm. Tippen Sie auf **„Rückgängig"**, um sie sofort wiederherzustellen. Wenn Sie das Rückgängig-Fenster verpassen, werden gelöschte Dokumente in den **Kürzlich gelöschten** Elementen in den Einstellungen verschoben, wo sie 30 Tage lang bleiben, bevor sie dauerhaft gelöscht werden. Pro-Benutzer mit aktivierter Cloud-Sicherung behalten Elemente in den Kürzlich gelöschten Elementen unbegrenzt, bis sie auf Endgültig löschen tippen.
+**Ja – Sie haben zwei Schutzebenen.** Nach dem Löschen von Dokumenten (einzeln oder stapelweise) sehen Sie ein kurzes Rückgängig-Fenster unten auf dem Bildschirm. Tippen Sie auf **„Rückgängig"**, um sie sofort wiederherzustellen. Wenn Sie das Rückgängig-Fenster verpassen, werden gelöschte Dokumente in den **Kürzlich gelöschten** Elementen in den Einstellungen verschoben, wo sie 30 Tage lang bleiben, bevor sie dauerhaft gelöscht werden. Pro-Benutzer mit aktivierter Cloud-Sicherung behalten Elemente in den Kürzlich gelöschten Elementen unbegrenzt, bis sie auf Endgültig löschen tippen.
 
 Was ist das Gedrückt-Halten-Kontextmenü?
 
@@ -351,11 +351,11 @@ Pro ermöglicht es Ihnen, Ihren gesamten Tresor als verschlüsselte .tdvault-Dat
 
 Tage innen oder Tage außen: was soll ich wählen?
 
-Stellen Sie sich eine Frage: Sind Sie Gast in diesem Land, oder ist es Ihr Zuhause? Gäste zählen die Tage, die sie dort sind, wählen Sie also **Tage innen** - das ist die Einstellung für eine Besuchsgrenze wie 90 Tage. Ansässige zählen die Tage, die sie weg sind, wählen Sie also **Tage außen** - das ist die Einstellung für einen Aufenthaltstitel, der eine gewisse Zeit im Ausland erlaubt. Die meisten brauchen nur eine von beiden, und wenn Sie unsicher sind, ist Tage innen die häufigere Wahl.
+Stellen Sie sich eine Frage: Sind Sie Gast in diesem Land, oder ist es Ihr Zuhause? Gäste zählen die Tage, die sie dort sind, wählen Sie also **Tage innen** – das ist die Einstellung für eine Besuchsgrenze wie 90 Tage. Ansässige zählen die Tage, die sie weg sind, wählen Sie also **Tage außen** – das ist die Einstellung für einen Aufenthaltstitel, der eine gewisse Zeit im Ausland erlaubt. Die meisten brauchen nur eine von beiden, und wenn Sie unsicher sind, ist Tage innen die häufigere Wahl.
 
 Was sind Familienprofile?
 
-Jedes Familienmitglied ist ein separates Profil mit seinen eigenen Dokumenten, Fotos und Erinnerungen - Ihre Daten gehören Ihnen, die des Partners gehören ihnen, und Profile sind nur lokal, daher synchronisieren sie sich nie zwischen Geräten oder Personen. Dieses Design wahrt die Privatsphäre und verhindert versehentliche Vermischung sensibler Dokumente.
+Jedes Familienmitglied ist ein separates Profil mit seinen eigenen Dokumenten, Fotos und Erinnerungen – Ihre Daten gehören Ihnen, die des Partners gehören ihnen, und Profile sind nur lokal, daher synchronisieren sie sich nie zwischen Geräten oder Personen. Dieses Design wahrt die Privatsphäre und verhindert versehentliche Vermischung sensibler Dokumente.
 
 Was passiert, wenn ich etwas lösche?
 
@@ -383,11 +383,11 @@ Die App synchronisiert keinen leeren Tresor in die Cloud. Ihr vorhandenes Backup
 
 Wie richte ich das Cloud-Backup auf einem zweiten Gerät ein?
 
-Wenn Sie das Cloud-Backup auf einem neuen Gerät aktivieren, das mit demselben iCloud- oder Google-Konto angemeldet ist, erkennt die App Ihr vorhandenes Backup und fragt, ob sie es wiederherstellen oder neu beginnen soll. Wählen Sie Aus Backup wiederherstellen und geben Sie Ihren Wiederherstellungscode ein. Beide Geräte teilen sich danach dasselbe Backup. Neu beginnen ersetzt das vorhandene Backup - wählen Sie das nur, wenn Sie sicher sind.
+Wenn Sie das Cloud-Backup auf einem neuen Gerät aktivieren, das mit demselben iCloud- oder Google-Konto angemeldet ist, erkennt die App Ihr vorhandenes Backup und fragt, ob sie es wiederherstellen oder neu beginnen soll. Wählen Sie Aus Backup wiederherstellen und geben Sie Ihren Wiederherstellungscode ein. Beide Geräte teilen sich danach dasselbe Backup. Neu beginnen ersetzt das vorhandene Backup – wählen Sie das nur, wenn Sie sicher sind.
 
 Kann ich das Cloud-Backup auf mehreren Geräten gleichzeitig nutzen?
 
-Das Cloud-Backup ist als Backup für ein Gerät mit Wiederherstellung auf mehreren Geräten ausgelegt. Ein Gerät ist die primäre Backup-Quelle. Um auf ein neues Gerät zu wechseln, stellen Sie dort aus Ihrem Backup wieder her. Gleichzeitiges Bearbeiten auf zwei Geräten, die in dasselbe Backup synchronisieren, wird nicht unterstützt - das zuletzt synchronisierte Gerät gewinnt.
+Das Cloud-Backup ist als Backup für ein Gerät mit Wiederherstellung auf mehreren Geräten ausgelegt. Ein Gerät ist die primäre Backup-Quelle. Um auf ein neues Gerät zu wechseln, stellen Sie dort aus Ihrem Backup wieder her. Gleichzeitiges Bearbeiten auf zwei Geräten, die in dasselbe Backup synchronisieren, wird nicht unterstützt – das zuletzt synchronisierte Gerät gewinnt.
 
 Was, wenn ich das Cloud-Backup ohne Internetverbindung aktiviere?
 

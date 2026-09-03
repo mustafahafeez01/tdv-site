@@ -28,7 +28,7 @@ Sentry est un outil de rapport de panne qui nous aide à trouver et corriger les
 
 Qu'inclut la mise à niveau Pro ?
 
-Pro est un achat unique qui débloque les profils illimités, les documents illimités, l'export PDF groupé, la sauvegarde cloud chiffrée vers iCloud ou Google Drive, et le réglage personnalisé des rappels. Vous payez une fois - pas d'abonnement, pas de prélèvement récurrent, et pas d'essai qui se met discrètement à vous facturer.
+Pro est un achat unique qui débloque les profils illimités, les documents illimités, l'export PDF groupé, la sauvegarde cloud chiffrée vers iCloud ou Google Drive, et le réglage personnalisé des rappels. Vous payez une fois — pas d'abonnement, pas de prélèvement récurrent, et pas d'essai qui se met discrètement à vous facturer.
 
 Les mises à jour futures sont-elles incluses avec mon achat ?
 
@@ -149,11 +149,11 @@ Pro vous permet d'exporter votre coffre entier sous la forme d'un fichier .tdvau
 
 Jours à l'intérieur ou jours à l'extérieur d'un pays : lequel choisir ?
 
-Posez-vous une seule question : êtes-vous un invité dans ce pays, ou est-ce chez vous ? Les invités comptent les jours passés sur place, choisissez donc **Jours à l'intérieur du pays** - c'est le réglage pour une limite de visiteur comme 90 jours. Les résidents comptent les jours passés au loin, choisissez donc **Jours à l'extérieur du pays** - c'est le réglage pour un titre de séjour qui autorise un certain temps à l'étranger. La plupart des gens n'ont besoin que de l'un des deux, et en cas de doute, Jours à l'intérieur du pays est le choix le plus courant.
+Posez-vous une seule question : êtes-vous un invité dans ce pays, ou est-ce chez vous ? Les invités comptent les jours passés sur place, choisissez donc **Jours à l'intérieur du pays** — c'est le réglage pour une limite de visiteur comme 90 jours. Les résidents comptent les jours passés au loin, choisissez donc **Jours à l'extérieur du pays** — c'est le réglage pour un titre de séjour qui autorise un certain temps à l'étranger. La plupart des gens n'ont besoin que de l'un des deux, et en cas de doute, Jours à l'intérieur du pays est le choix le plus courant.
 
 Qu'est-ce que les profils familiaux ?
 
-Chaque membre de la famille est un profil distinct avec ses propres documents, photos et rappels - vos données sont les vôtres, celles de votre partenaire sont les siennes, et les profils sont locaux uniquement de sorte qu'ils ne se synchronisent jamais entre les appareils ou les personnes. Cette conception respecte la vie privée et garantit aucun mélange accidentel de documents sensibles.
+Chaque membre de la famille est un profil distinct avec ses propres documents, photos et rappels — vos données sont les vôtres, celles de votre partenaire sont les siennes, et les profils sont locaux uniquement de sorte qu'ils ne se synchronisent jamais entre les appareils ou les personnes. Cette conception respecte la vie privée et garantit aucun mélange accidentel de documents sensibles.
 
 Que se passe-t-il quand je supprime quelque chose ?
 
@@ -171,7 +171,7 @@ Les rappels se déclenchent automatiquement selon le type de document. Un passep
 
 Qu'est-ce que l'OCR et comment fonctionne-t-il ?
 
-L'OCR (Reconnaissance optique de caractères) détecte automatiquement les dates d'expiration de vos documents. Pointez votre appareil photo vers un document et l'application essaiera de lire la date d'expiration. Tout le traitement se fait sur votre téléphone - rien n'est téléchargé. Les dates détectées sont étiquetées « Détecté : veuillez vérifier » et nécessitent votre confirmation avant d'être enregistrées.
+L'OCR (Reconnaissance optique de caractères) détecte automatiquement les dates d'expiration de vos documents. Pointez votre appareil photo vers un document et l'application essaiera de lire la date d'expiration. Tout le traitement se fait sur votre téléphone — rien n'est téléchargé. Les dates détectées sont étiquetées « Détecté : veuillez vérifier » et nécessitent votre confirmation avant d'être enregistrées.
 
 Puis-je exporter mes documents ?
 
@@ -251,7 +251,7 @@ Les utilisateurs Pro peuvent appuyer sur **« Sélectionner »** en haut à droi
 
 Puis-je annuler une suppression en masse ?
 
-**Oui - vous avez deux niveaux de protection.** Après la suppression de documents (simple ou en masse), vous verrez une brève fenêtre d'annulation en bas de l'écran. Appuyez sur **« Annuler »** pour les restaurer immédiatement. Si vous manquez la fenêtre d'annulation, les documents supprimés sont déplacés vers **Récemment supprimés** dans Paramètres, où ils restent pendant 30 jours avant suppression permanente. Les utilisateurs Pro avec sauvegarde cloud activée conservent les éléments dans Récemment supprimés indéfiniment jusqu'à ce qu'ils appuient sur Supprimer définitivement.
+**Oui — vous avez deux niveaux de protection.** Après la suppression de documents (simple ou en masse), vous verrez une brève fenêtre d'annulation en bas de l'écran. Appuyez sur **« Annuler »** pour les restaurer immédiatement. Si vous manquez la fenêtre d'annulation, les documents supprimés sont déplacés vers **Récemment supprimés** dans Paramètres, où ils restent pendant 30 jours avant suppression permanente. Les utilisateurs Pro avec sauvegarde cloud activée conservent les éléments dans Récemment supprimés indéfiniment jusqu'à ce qu'ils appuient sur Supprimer définitivement.
 
 Quel est le menu contextuel d'appui long ?
 

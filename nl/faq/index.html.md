@@ -28,7 +28,7 @@ Sentry is een crashrapportagetool die ons helpt bugs te vinden en te repareren. 
 
 Wat bevat de Pro-upgrade?
 
-Pro is een eenmalige aankoop die onbeperkte profielen, onbeperkte documenten, gecombineerde PDF-export, versleutelde cloudback-up naar iCloud of Google Drive en aangepaste herinneringstijden ontgrendelt. U betaalt één keer - geen abonnement, geen terugkerende kosten en geen proefperiode die stilletjes begint af te schrijven.
+Pro is een eenmalige aankoop die onbeperkte profielen, onbeperkte documenten, gecombineerde PDF-export, versleutelde cloudback-up naar iCloud of Google Drive en aangepaste herinneringstijden ontgrendelt. U betaalt één keer – geen abonnement, geen terugkerende kosten en geen proefperiode die stilletjes begint af te schrijven.
 
 Zijn toekomstige updates inbegrepen bij mijn aankoop?
 
@@ -121,7 +121,7 @@ Uw documenten verlaten uw apparaat nooit. Deze modus geeft u gewoon een veilige,
 
 Wat is een herstelcode en waarom heb ik er een nodig?
 
-Wanneer u App Lock instelt, genereert de app een unieke herstelcode die uw vangnet is als u uw PIN ooit vergeet. Sla deze op een veilige plaats op - uw wachtwoordmanager, een afgedrukte notitie, waar u dan ook vertrouwen hebt.
+Wanneer u App Lock instelt, genereert de app een unieke herstelcode die uw vangnet is als u uw PIN ooit vergeet. Sla deze op een veilige plaats op – uw wachtwoordmanager, een afgedrukte notitie, waar u dan ook vertrouwen hebt.
 
 Als u uw PIN vergeet, voert u uw herstelcode in op het PIN-scherm. App Lock wordt uitgeschakeld en u krijgt **volledige toegang zonder een enkel document kwijt te raken.**
 
@@ -220,7 +220,7 @@ Pro-gebruikers kunnen op **"Selecteren"** tikken rechtsboven in de documentenlij
 
 Kan ik een bulkverwijdering ongedaan maken?
 
-**Ja - u heeft twee beschermingslagen.** Na het verwijderen van documenten (enkel of meerdere tegelijk), ziet u een korte periode om ongedaan te maken onderaan het scherm. Tik op **"Ongedaan maken"** om ze direct te herstellen. Als u het venster voor ongedaan maken mist, worden verwijderde documenten verplaatst naar **Onlangs verwijderd** in Instellingen, waar ze 30 dagen blijven voordat ze permanent worden verwijderd. Pro-gebruikers met cloudback-up ingeschakeld houden items in Onlangs verwijderd onbeperkt totdat ze op Permanent verwijderen tikken.
+**Ja – u heeft twee beschermingslagen.** Na het verwijderen van documenten (enkel of meerdere tegelijk), ziet u een korte periode om ongedaan te maken onderaan het scherm. Tik op **"Ongedaan maken"** om ze direct te herstellen. Als u het venster voor ongedaan maken mist, worden verwijderde documenten verplaatst naar **Onlangs verwijderd** in Instellingen, waar ze 30 dagen blijven voordat ze permanent worden verwijderd. Pro-gebruikers met cloudback-up ingeschakeld houden items in Onlangs verwijderd onbeperkt totdat ze op Permanent verwijderen tikken.
 
 Wat is het contextmenu bij lang indrukken?
 
@@ -350,11 +350,11 @@ Elke gebruiker kan zijn volledige kluis exporteren als een versleuteld, met een 
 
 Dagen in of dagen buiten een land: wat moet ik kiezen?
 
-Stel uzelf één vraag: bent u te gast in dit land, of is het uw thuis? Gasten tellen de dagen dat ze er zijn, kies dus **Dagen in het land** - dat is de instelling voor een bezoekerslimiet zoals 90 dagen. Bewoners tellen de dagen dat ze weg zijn, kies dus **Dagen buiten het land** - dat is de instelling voor een verblijfsvergunning die een bepaalde tijd in het buitenland toestaat. De meeste mensen hebben er maar één van de twee nodig, en als u twijfelt, is Dagen in het land de gebruikelijkere keuze.
+Stel uzelf één vraag: bent u te gast in dit land, of is het uw thuis? Gasten tellen de dagen dat ze er zijn, kies dus **Dagen in het land** – dat is de instelling voor een bezoekerslimiet zoals 90 dagen. Bewoners tellen de dagen dat ze weg zijn, kies dus **Dagen buiten het land** – dat is de instelling voor een verblijfsvergunning die een bepaalde tijd in het buitenland toestaat. De meeste mensen hebben er maar één van de twee nodig, en als u twijfelt, is Dagen in het land de gebruikelijkere keuze.
 
 Wat zijn gezinsprofielen?
 
-Elk gezinslid is een afzonderlijk profiel met hun eigen documenten, foto's en herinneringen - uw gegevens zijn van u, die van uw partner zijn van hen, en profielen zijn alleen lokaal zodat ze nooit worden gesynchroniseerd tussen apparaten of personen. Dit ontwerp respecteert privacy en zorgt ervoor dat geen gevoelige documenten per ongeluk worden gemengd.
+Elk gezinslid is een afzonderlijk profiel met hun eigen documenten, foto's en herinneringen – uw gegevens zijn van u, die van uw partner zijn van hen, en profielen zijn alleen lokaal zodat ze nooit worden gesynchroniseerd tussen apparaten of personen. Dit ontwerp respecteert privacy en zorgt ervoor dat geen gevoelige documenten per ongeluk worden gemengd.
 
 Wat gebeurt er wanneer ik iets verwijder?
 

@@ -31,7 +31,7 @@ Entwickelte Travel Document Vault für meine Familie
 
 > "Jede Familienreise verwandelte sich in eine Schnitzeljagd durch Fotos, E-Mail und Drive. Ich habe das gebaut, damit die nächste Reise nicht so wäre."
 
-Keine VC-Finanzierung, keine Aktionäre, keine Werbenetzwerke - nur ein Elternteil, das es leid war, jede Reise die gleiche Panik zu haben.
+Keine VC-Finanzierung, keine Aktionäre, keine Werbenetzwerke – nur ein Elternteil, das es leid war, jede Reise die gleiche Panik zu haben.
 
 [Die vollständige Geschichte lesen →](https://traveldocumentvault.com/de/blog/why-i-built-travel-document-vault/)
 
@@ -43,7 +43,7 @@ Am Gate
 
 Einwanderungsschalter. Der Beamte fragt nach Ihrem Visum.
 
-Was wäre, wenn Sie eine App öffnen und es sofort griffbereit hätten - kein Suchen, kein App-Wechsel, einfach sofortiger Zugriff?
+Was wäre, wenn Sie eine App öffnen und es sofort griffbereit hätten – kein Suchen, kein App-Wechsel, einfach sofortiger Zugriff?
 
 Wenn das auf Sie zutrifft: Geschäftsreisende, digitale Nomaden oder Vielflieger.
 
@@ -148,7 +148,7 @@ AES-256-GCM-Verschlüsselung im Ruhezustand. Verschlüsselte Backups verwenden P
 
 Passverlängerungen dauern 6 bis 8 Wochen. **Erinnerungen beginnen 8 Monate früher** und staffeln sich automatisch.
 
-Erinnerungen kommen bei 6 Monaten, 3 Monaten, 6 Wochen und am Ablauftag - damit Sie Verlängerungsfristen stets im Blick behalten.
+Erinnerungen kommen bei 6 Monaten, 3 Monaten, 6 Wochen und am Ablauftag – damit Sie Verlängerungsfristen stets im Blick behalten.
 
 Funktioniert für Reisepässe, Visa, Führerscheine, Versicherungen – alles mit Ablaufdatum.
 
@@ -184,7 +184,7 @@ Mehrere Dokumente zu einer einzelnen PDF-Datei zusammenfassen – zum Teilen mit
 
 Ich habe das gebaut, weil meine eigene Familie es brauchte.
 
-## Neu in v1.2 - Für Familien gebaut
+## Neu in v1.2 – Für Familien gebaut
 
 Moderne Funktionen für modernes Reisen.
 

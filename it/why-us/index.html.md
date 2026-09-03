@@ -31,7 +31,7 @@ Ho costruito Travel Document Vault per la mia famiglia
 
 > "Ogni viaggio in famiglia diventava una caccia al tesoro tra Foto, email e Drive. Ho costruito questo perché il prossimo viaggio non lo sia."
 
-Nessun finanziamento da venture capitalist, nessun azionista, nessuna rete pubblicitaria - solo un genitore che si è stancato dello stesso panico, ogni viaggio.
+Nessun finanziamento da venture capitalist, nessun azionista, nessuna rete pubblicitaria — solo un genitore che si è stancato dello stesso panico, ogni viaggio.
 
 [Leggi la storia completa →](https://traveldocumentvault.com/it/blog/why-i-built-travel-document-vault/)
 
@@ -43,7 +43,7 @@ Al gate
 
 Controllo all'immigrazione. L'agente chiede il visto.
 
-E se potesse aprire un'unica app e averlo subito lì - nessuna ricerca, nessun cambio di app, solo accesso immediato?
+E se potesse aprire un'unica app e averlo subito lì — nessuna ricerca, nessun cambio di app, solo accesso immediato?
 
 Se è Lei: viaggiatore d'affari, nomade digitale o viaggiatore frequente.
 
@@ -148,7 +148,7 @@ Crittografia AES-256-GCM a riposo. I backup crittografati usano la derivazione d
 
 Il rinnovo del passaporto richiede da 6 a 8 settimane. **I promemoria iniziano 8 mesi prima** e si susseguono automaticamente.
 
-I promemoria arrivano a 6 mesi, 3 mesi, 6 settimane e il giorno della scadenza - aiutandola a rimanere sempre al passo con le scadenze di rinnovo.
+I promemoria arrivano a 6 mesi, 3 mesi, 6 settimane e il giorno della scadenza — aiutandola a rimanere sempre al passo con le scadenze di rinnovo.
 
 Funziona per passaporti, visti, patenti, assicurazioni, qualsiasi cosa con una data di scadenza.
 

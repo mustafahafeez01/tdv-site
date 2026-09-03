@@ -14,11 +14,11 @@ Ingen analyse-SDK'er, ingen annoncebiblioteker, ingen sporingspixler i appen.
 
 ### Ingen udgående dataindsamling
 
-Appen foretager som standard ingen udgående forbindelser. Den fungerer helt offline. Den eneste netværksbrug er valgfri Pro-cloudsikkerhedskopi, som synkroniserer med din egen iCloud eller Google Drive - aldrig til vores servere.
+Appen foretager som standard ingen udgående forbindelser. Den fungerer helt offline. Den eneste netværksbrug er valgfri Pro-cloudsikkerhedskopi, som synkroniserer med din egen iCloud eller Google Drive – aldrig til vores servere.
 
 ### Som standard på enheden
 
-Alle dokumenter, scanninger og data forbliver på din enhed. Der er ingen Travel Document Vault-sky, ingen Travel Document Vault-server, ingen Travel Document Vault-backend. Pro-brugere kan valgfrit sikkerhedskopiere deres krypterede boks til deres egen iCloud- eller Google Drive-konto - kun de har gendannelsesnøglen.
+Alle dokumenter, scanninger og data forbliver på din enhed. Der er ingen Travel Document Vault-sky, ingen Travel Document Vault-server, ingen Travel Document Vault-backend. Pro-brugere kan valgfrit sikkerhedskopiere deres krypterede boks til deres egen iCloud- eller Google Drive-konto – kun de har gendannelsesnøglen.
 
 ### AES-256-GCM-kryptering
 
@@ -32,17 +32,17 @@ Du behøver ikke tro på os. Du kan bekræfte hvert påstand ovenfor med gratis,
 
 Installér en netværksovervågning som **mitmproxy** (gratis, open source), **Wireshark** (gratis, open source) eller **Charles Proxy**. Åbn Travel Document Vault, scan et dokument, gennemse din boks og indstil en påmindelse. Du bør ikke se dine dokumenter, scanninger, udløbsdatoer eller indholdet af din boks blive sendt til Travel Document Vault. Netværkstrafikken bør være begrænset til bestemte funktioner: valgfri Sentry-crashrapportering, købskontrol via App Store eller Google Play, valgfri cloud backup til din egen iCloud- eller Google Drive-konto, og et manuelt tjek for fejlrettelser, som forklares nedenfor.
 
-Indstillinger har en knap kaldet **Check for Updates**. Dette er et manuelt tjek, aldrig automatisk - den kører kun når du selv trykker på den, aldrig i baggrunden og aldrig af sig selv. Tjekket kontakter **updates.traveldocumentvault.com** - vores egen opdateringsserver, drevet af os på Google Cloud, som tilbyder kryptografisk signerede opdateringsfiler fra en lagerbeholder. Vi registrerer ikke tjekket: anmodningslogfiler er deaktiveret på vores side, så der gemmes ingen IP-adresser. Hver opdatering er signeret med en nøgle, som kun vi har, og appen afviser alt, hvis signatur ikke matcher det certifikat, der er indbygget i den. Det samme tryk tjekker også **App Store** eller **Google Play** for en nyere version af appen. Den findes, så visse fejlrettelser kan nå dig hurtigere end at vente på en helt ny udgivelse i App Store eller Google Play, nyttigt for hastende rettelser, afhængigt af rettelsens art. Samme regel som for alt andet på denne side: ingen netværksopkald uden at du har bedt om det.
+Indstillinger har en knap kaldet **Check for Updates**. Dette er et manuelt tjek, aldrig automatisk – den kører kun når du selv trykker på den, aldrig i baggrunden og aldrig af sig selv. Tjekket kontakter **updates.traveldocumentvault.com** – vores egen opdateringsserver, drevet af os på Google Cloud, som tilbyder kryptografisk signerede opdateringsfiler fra en lagerbeholder. Vi registrerer ikke tjekket: anmodningslogfiler er deaktiveret på vores side, så der gemmes ingen IP-adresser. Hver opdatering er signeret med en nøgle, som kun vi har, og appen afviser alt, hvis signatur ikke matcher det certifikat, der er indbygget i den. Det samme tryk tjekker også **App Store** eller **Google Play** for en nyere version af appen. Den findes, så visse fejlrettelser kan nå dig hurtigere end at vente på en helt ny udgivelse i App Store eller Google Play, nyttigt for hastende rettelser, afhængigt af rettelsens art. Samme regel som for alt andet på denne side: ingen netværksopkald uden at du har bedt om det.
 
 ### 2. iOS App Privacy Report
 
-På iPhone skal du gå til **Indstillinger > Privatliv og sikkerhed > App Privacy Report**. Denne indbyggede Apple-funktion viser, hvilke apps der har kontaktet netværksdomæner. Travel Document Vault sender ikke dine dokumenter, scanninger, udløbsdatoer eller indholdet af din boks til os. Hvis du har aktiveret Pro-cloudsikkerhedskopi, vil du se forbindelser til Apples iCloud-domæner - det er din egen sikkerhedskopi, der synkroniseres med din egen iCloud-konto.
+På iPhone skal du gå til **Indstillinger > Privatliv og sikkerhed > App Privacy Report**. Denne indbyggede Apple-funktion viser, hvilke apps der har kontaktet netværksdomæner. Travel Document Vault sender ikke dine dokumenter, scanninger, udløbsdatoer eller indholdet af din boks til os. Hvis du har aktiveret Pro-cloudsikkerhedskopi, vil du se forbindelser til Apples iCloud-domæner – det er din egen sikkerhedskopi, der synkroniseres med din egen iCloud-konto.
 
-### 3. Android - sådan tjekker du dit privatliv
+### 3. Android – sådan tjekker du dit privatliv
 
-Android har ikke én samlet indbygget privatlivsrapport som iPhone. To enkle måder at tjekke det selv på: se appens egen **Data Safety**-sektion på dens Google Play-side (den angiver tydeligt, hvad der indsamles, hvad der deles, at dine data krypteres under overførsel, og at de ikke kan slettes) - eller brug en netværksovervågning som beskrevet i trin 1 ovenfor.
+Android har ikke én samlet indbygget privatlivsrapport som iPhone. To enkle måder at tjekke det selv på: se appens egen **Data Safety**-sektion på dens Google Play-side (den angiver tydeligt, hvad der indsamles, hvad der deles, at dine data krypteres under overførsel, og at de ikke kan slettes) – eller brug en netværksovervågning som beskrevet i trin 1 ovenfor.
 
-Hvis du har slået cloud backup til, kan du bemærke noget aktivitet mod Googles servere (webadresser, der ender på **googleapis.com**). Det er forventet og sikkert: det er kun din låste, krypterede sikkerhedskopifil og et logintjek, der sendes direkte til **din egen** Google Drive-konto - den samme konto, du allerede bruger til fotos eller Gmail. Vi ser den aldrig, modtager den aldrig og gemmer aldrig en kopi nogen steder. Kun du har gendannelsesnøglen, der kan låse den op.
+Hvis du har slået cloud backup til, kan du bemærke noget aktivitet mod Googles servere (webadresser, der ender på **googleapis.com**). Det er forventet og sikkert: det er kun din låste, krypterede sikkerhedskopifil og et logintjek, der sendes direkte til **din egen** Google Drive-konto – den samme konto, du allerede bruger til fotos eller Gmail. Vi ser den aldrig, modtager den aldrig og gemmer aldrig en kopi nogen steder. Kun du har gendannelsesnøglen, der kan låse den op.
 
 ### 4. App Store og Play Store privatlivsmærkater
 
@@ -162,6 +162,6 @@ Erklæret af en rammeværksafhængighed. Appen downloader ikke filer i baggrunde
 
 Disse er almindelige tilladelser, som mange apps anmoder om. Vi anmoder ikke om dem, og de vises ikke i vores manifest.
 
-**Placering** - ingen GPS, ingen geolokalisering, ingen sporing **Kontakter** - ingen adgang til din adressebog **Bluetooth** - intet lokalt netværk eller enhedsscanining **Kalender** - påmindelser håndteres på enheden, ikke via din kalender
+**Placering** – ingen GPS, ingen geolokalisering, ingen sporing **Kontakter** – ingen adgang til din adressebog **Bluetooth** – intet lokalt netværk eller enhedsscanining **Kalender** – påmindelser håndteres på enheden, ikke via din kalender
 
 Har du flere spørgsmål? Læs vores fulde [Privatlivspolitik](https://traveldocumentvault.com/privacy-policy/) eller kontroller [Spørgsmål](https://traveldocumentvault.com/da/faq/).

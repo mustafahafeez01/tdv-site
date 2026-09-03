@@ -71,7 +71,7 @@ Une application chiffrée dédiée conçue pour les documents de voyage fonction
 
 ### Comment cela fonctionne
 
-Lorsque vous ajoutez votre scan de passeport à l'application, il est chiffré à l'aide d'AES-256 et stocké entièrement sur votre téléphone. L'application fonctionne complètement hors ligne - aucun compte requis, aucun serveur nécessaire. Si vous souhaitez un accès multi-appareils, une fonctionnalité Pro optionnelle sauvegarde une copie chiffrée sur votre propre iCloud ou Google Drive, scellée avec un code de récupération que seul vous détenez.
+Lorsque vous ajoutez votre scan de passeport à l'application, il est chiffré à l'aide d'AES-256 et stocké entièrement sur votre téléphone. L'application fonctionne complètement hors ligne — aucun compte requis, aucun serveur nécessaire. Si vous souhaitez un accès multi-appareils, une fonctionnalité Pro optionnelle sauvegarde une copie chiffrée sur votre propre iCloud ou Google Drive, scellée avec un code de récupération que seul vous détenez.
 
 ### Propriétés de sécurité
 
@@ -85,7 +85,7 @@ Lorsque vous ajoutez votre scan de passeport à l'application, il est chiffré �
 
 Les avantages en matière de sécurité sont importants : vos données de passeport ne sont jamais transmises ou stockées sur un serveur distant, donc elles ne sont jamais accessibles à quelqu'un d'autre, et il n'y a pas de serveur distant à compromettre si quelqu'un accède sans autorisation aux systèmes de la société d'applications. Cela signifie que vous conservez un contrôle et une propriété complets de vos documents à tout moment.
 
-Cependant, cette conception s'accompagne d'une commodité réduite puisque vous ne pouvez pas accéder automatiquement à votre copie de passeport sur plusieurs appareils. Si vous perdez votre téléphone, l'application ne restaurera pas automatiquement vos documents - vous auriez besoin de restaurer manuellement à partir d'une sauvegarde. Pour la plupart des familles voyageant ensemble, stocker les documents sur le téléphone d'un parent est suffisant, et de nombreuses applications prennent en charge la synchronisation manuelle via sauvegarde, ce qui ajoute un niveau de flexibilité sans nécessiter un téléchargement cloud automatique.
+Cependant, cette conception s'accompagne d'une commodité réduite puisque vous ne pouvez pas accéder automatiquement à votre copie de passeport sur plusieurs appareils. Si vous perdez votre téléphone, l'application ne restaurera pas automatiquement vos documents — vous auriez besoin de restaurer manuellement à partir d'une sauvegarde. Pour la plupart des familles voyageant ensemble, stocker les documents sur le téléphone d'un parent est suffisant, et de nombreuses applications prennent en charge la synchronisation manuelle via sauvegarde, ce qui ajoute un niveau de flexibilité sans nécessiter un téléchargement cloud automatique.
 
 ## Tableau de comparaison direct
 
@@ -114,7 +114,7 @@ La réponse dépend de votre tolérance personnelle au risque et de votre cas d'
 
 De nombreuses personnes utilisent une approche hybride : en conservant une copie dans iCloud ou Google Photos pour un accès quotidien sur plusieurs appareils, et une deuxième copie dans une application chiffrée dédiée comme sauvegarde sécurisée. Cela offre à la fois la commodité et la redondance. L'essentiel est de comprendre les compromis de chaque méthode et de choisir consciemment.
 
-Quelle que soit la méthode que vous choisissez, rappelez-vous qu'une copie numérique de votre passeport est aussi sensible que le document physique lui-même - protégez-le avec le même soin et la même attention.
+Quelle que soit la méthode que vous choisissez, rappelez-vous qu'une copie numérique de votre passeport est aussi sensible que le document physique lui-même — protégez-le avec le même soin et la même attention.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 

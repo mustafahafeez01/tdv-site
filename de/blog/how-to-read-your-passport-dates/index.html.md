@@ -12,13 +12,13 @@ Source: https://traveldocumentvault.com/de/blog/how-to-read-your-passport-dates/
 
 - **Einreisebestimmungen zählen rückwärts vom Ablaufdatum**. Es mit dem Ausstellungsdatum zu verwechseln ist der häufigste Fehler beim Ausfüllen von Formularen.
 - „Date of expedition“ ist eine wörtliche Übersetzung von **fecha de expedición** und **data de expedição**. Es bedeutet Ausstellungsdatum und hat nichts mit einer Reise zu tun.
-- Das Ausstellungsdatum ist kein bedeutungsloses Detail. **Schengen-Länder prüfen bei Reisepässen aus Nicht-EU-Ländern, ob die Ausstellung weniger als 10 Jahre vor der Einreise liegt** - ein Test, den manche älteren Pässe nicht bestehen, obwohl sie noch Monate an Gültigkeit zeigen.
+- Das Ausstellungsdatum ist kein bedeutungsloses Detail. **Schengen-Länder prüfen bei Reisepässen aus Nicht-EU-Ländern, ob die Ausstellung weniger als 10 Jahre vor der Einreise liegt** – ein Test, den manche älteren Pässe nicht bestehen, obwohl sie noch Monate an Gültigkeit zeigen.
 - **Das ausstellende Land entscheidet, welche Botschaft Ihnen hilft**, falls der Reisepass verloren geht, und das ist nicht immer das Land, in dem Sie leben.
 - Bei einer Verlängerung erhalten Sie eine **neue Passnummer**. Visa, Buchungen und Profile bei Fluggesellschaften, die an die alte Nummer gebunden sind, aktualisieren sich nicht von selbst.
 
 Zwei Daten stehen auf der Datenseite eines Passes untereinander, in identischer Formatierung gedruckt, und keines ist eindeutig beschriftet. Einreiseanträge, Formulare von Fluggesellschaften und Visumportale verlangen jeweils ein ganz bestimmtes davon. Welches, hängt davon ab, was gerade ausgefüllt wird.
 
-Die wenigsten von uns mussten je richtig lernen, einen Reisepass zu lesen. Wir wissen ungefähr, wo das Ablaufdatum steht, und verlassen uns beim Rest auf ihr Bauchgefühl. Das funktioniert so lange, bis ein Formular, ein Grenzbeamter oder eine Fluggesellschaft nach etwas Konkretem fragt - dann beginnt der Unterschied zwischen zwei sehr ähnlich aussehenden Daten plötzlich, ziemlich viel auszumachen.
+Die wenigsten von uns mussten je richtig lernen, einen Reisepass zu lesen. Wir wissen ungefähr, wo das Ablaufdatum steht, und verlassen uns beim Rest auf ihr Bauchgefühl. Das funktioniert so lange, bis ein Formular, ein Grenzbeamter oder eine Fluggesellschaft nach etwas Konkretem fragt – dann beginnt der Unterschied zwischen zwei sehr ähnlich aussehenden Daten plötzlich, ziemlich viel auszumachen.
 
 ## Die zwei Daten, und was jedes davon bestimmt
 
@@ -48,17 +48,17 @@ Die Mehrdeutigkeit kehrt zurück, sobald Sie das Datum in ein Formular übertrag
 
 ## Vier Reisepässe, vier verschiedene Uhren
 
-All das vervielfacht sich innerhalb einer Familie ganz still. Reisepässe werden meist ausgestellt, wenn sie gebraucht werden, statt gemeinsam, sodass die Ausstellungsdaten in einem Haushalt selten übereinstimmen - und die Ablaufdaten ebenso wenig.
+All das vervielfacht sich innerhalb einer Familie ganz still. Reisepässe werden meist ausgestellt, wenn sie gebraucht werden, statt gemeinsam, sodass die Ausstellungsdaten in einem Haushalt selten übereinstimmen – und die Ablaufdaten ebenso wenig.
 
 Kinder vergrößern diese Streuung noch. Die meisten Kinderreisepässe laufen halb so lange wie die von Erwachsenen, sodass ein im selben Monat wie der eines Elternteils ausgestellter Pass etwa fünf Jahre früher abläuft. Gerade Eltern mit noch reichlich Restgültigkeit werden am ehesten vom Dokument eines Kindes überrascht, weil es keinen Grund gibt, daran zu denken, bevor ein Formular danach fragt. Wie Sie bei mehreren Reisepässen in einem Haushalt den Überblick behalten, erklären wir in [mehrere Reisepässe gleichzeitig verwalten](https://traveldocumentvault.com/de/blog/family-passport-management/).
 
 ## Der Zehnjahrespass, der nicht zehn Jahre gilt
 
-Das Ausstellungsdatum hört in dem Moment auf, eine Nebensächlichkeit zu sein, in dem ein Land es direkt prüft. Passämter übertrugen früher ungenutzte Monate eines ablaufenden Passes auf den Ersatzpass, sodass ein erneuerter Pass zehn Jahre plus ein paar zusätzliche Monate laufen konnte - was damals großzügig wirkte.
+Das Ausstellungsdatum hört in dem Moment auf, eine Nebensächlichkeit zu sein, in dem ein Land es direkt prüft. Passämter übertrugen früher ungenutzte Monate eines ablaufenden Passes auf den Ersatzpass, sodass ein erneuerter Pass zehn Jahre plus ein paar zusätzliche Monate laufen konnte – was damals großzügig wirkte.
 
 Kürzlich ausgestellte britische Reisepässe tragen diese zusätzlichen Monate nicht mehr, aber ältere Pässe, die sie noch haben, sind weiterhin im Umlauf und in Gebrauch.
 
-Schengen-Länder wenden an der Grenze zwei getrennte Prüfungen auf einen Reisepass aus einem Nicht-EU-Land an: Er muss weniger als zehn Jahre vor Ihrer Ankunft ausgestellt worden sein, und er muss mindestens drei Monate über Ihre geplante Abreise hinaus gültig bleiben. Ein Pass mit neun zusätzlichen Monaten kann die zweite Prüfung mühelos bestehen und an der ersten scheitern - ein unangenehmes Gespräch an einem Schalter in Madrid mit einem Dokument, das gar nicht abgelaufen ist.
+Schengen-Länder wenden an der Grenze zwei getrennte Prüfungen auf einen Reisepass aus einem Nicht-EU-Land an: Er muss weniger als zehn Jahre vor Ihrer Ankunft ausgestellt worden sein, und er muss mindestens drei Monate über Ihre geplante Abreise hinaus gültig bleiben. Ein Pass mit neun zusätzlichen Monaten kann die zweite Prüfung mühelos bestehen und an der ersten scheitern – ein unangenehmes Gespräch an einem Schalter in Madrid mit einem Dokument, das gar nicht abgelaufen ist.
 
 Prüfen Sie vor einer Europareise beide Daten, nicht nur das untere.
 
@@ -66,7 +66,7 @@ Prüfen Sie vor einer Europareise beide Daten, nicht nur das untere.
 
 Nahe dem oberen Rand der Datenseite steht ein dreistelliger Code für das ausstellende Land. Weiter unten, meist in einem eigenen Feld, steht die ausstellende Behörde: die Stelle oder Abteilung, die den Pass tatsächlich hergestellt hat.
 
-Das Land ist wichtiger, als man erwartet. Es entscheidet, an welches Konsularnetz Sie sich wenden, wenn ein Reisepass verloren geht oder gestohlen wird, und das ist selten das Land, in dem Sie sich gerade befinden. Es entscheidet außerdem, welche Einreisebestimmungen für Sie gelten - der ganze Grund, warum Doppelstaatler sorgfältig überlegen, welchen Reisepass sie vorzeigen. Die praktische Seite davon behandeln wir in [Was tun, wenn ein Reisepass im Ausland verloren geht](https://traveldocumentvault.com/de/blog/lost-passport-abroad/).
+Das Land ist wichtiger, als man erwartet. Es entscheidet, an welches Konsularnetz Sie sich wenden, wenn ein Reisepass verloren geht oder gestohlen wird, und das ist selten das Land, in dem Sie sich gerade befinden. Es entscheidet außerdem, welche Einreisebestimmungen für Sie gelten – der ganze Grund, warum Doppelstaatler sorgfältig überlegen, welchen Reisepass sie vorzeigen. Die praktische Seite davon behandeln wir in [Was tun, wenn ein Reisepass im Ausland verloren geht](https://traveldocumentvault.com/de/blog/lost-passport-abroad/).
 
 Das Feld der ausstellenden Behörde ist vor allem für Formulare nützlich. Manche Anträge wollen es wortwörtlich, manche akzeptieren das Land, und es genau abzuschreiben geht schneller als zu raten.
 
@@ -76,7 +76,7 @@ Bei einer Verlängerung wird in der Regel eine neue Nummer vergeben, und nichts,
 
 Bereits im alten Reisepass gestempelte oder eingedruckte Visa bleiben dort, und auch vor der Verlängerung gebuchte Flüge tragen weiterhin die alte Nummer. Vielfliegerprofile, Trusted-Traveller-Mitgliedschaften und gespeicherte Reisendendaten auf Buchungsseiten beruhen alle auf der Nummer, die zum Zeitpunkt der Eingabe aktuell war.
 
-Für sich genommen ist das alles nicht dramatisch. Dramatisch wird es, wenn eine Bordkarte und ein Reisepass am Check-in-Schalter nicht übereinstimmen - deshalb lohnt sich nach einer Verlängerung eine ruhige halbe Stunde, um die Handvoll Stellen zu aktualisieren, die die Nummer gespeichert haben.
+Für sich genommen ist das alles nicht dramatisch. Dramatisch wird es, wenn eine Bordkarte und ein Reisepass am Check-in-Schalter nicht übereinstimmen – deshalb lohnt sich nach einer Verlängerung eine ruhige halbe Stunde, um die Handvoll Stellen zu aktualisieren, die die Nummer gespeichert haben.
 
 ## Wo all das auf der Seite steht
 
@@ -92,7 +92,7 @@ Sind die Beschriftungen auf Ihrer eigenen Datenseite nicht auf Deutsch, hilft di
 
 ### Was bedeutet „date of expedition“ auf einem Reisepass?
 
-Es bedeutet Ausstellungsdatum - der Tag, an dem der Reisepass hergestellt wurde. Der Ausdruck stammt aus spanischen und portugiesischen Formularen, wo fecha de expedición und data de expedição beide wörtlich als expedition date übersetzt werden. Er hat nichts mit einer Reise zu tun und bedeutet nie das Ablaufdatum.
+Es bedeutet Ausstellungsdatum – der Tag, an dem der Reisepass hergestellt wurde. Der Ausdruck stammt aus spanischen und portugiesischen Formularen, wo fecha de expedición und data de expedição beide wörtlich als expedition date übersetzt werden. Er hat nichts mit einer Reise zu tun und bedeutet nie das Ablaufdatum.
 
 ### Ist das Ausstellungsdatum dasselbe wie das Ablaufdatum?
 

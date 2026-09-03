@@ -44,7 +44,7 @@ Pro
 
 ### Rejsegodtgørelser
 
-Definer brugerdefinerede daggrænsværdier pr. land og pr. familiemedlem. Indstil dine egne målsætninger for at forblive opmærksom på, hvor mange dage du har tilbragt i udlandet - uanset hvordan dine rejseregler fungerer.
+Definer brugerdefinerede daggrænsværdier pr. land og pr. familiemedlem. Indstil dine egne målsætninger for at forblive opmærksom på, hvor mange dage du har tilbragt i udlandet – uanset hvordan dine rejseregler fungerer.
 
 Pro
 
@@ -56,7 +56,7 @@ Pro
 
 ### Gate Klar
 
-Vedhæft flugnumre, hotelbekræftelser og bookingreferencer til enhver rejse. Dokumenter og bookinger på ét sted - tryk en gang under indcheckning. Intet at lede efter.
+Vedhæft flugnumre, hotelbekræftelser og bookingreferencer til enhver rejse. Dokumenter og bookinger på ét sted – tryk en gang under indcheckning. Intet at lede efter.
 
 Dokumenthåndtering
 
@@ -68,7 +68,7 @@ Optag både fotosiden og datasiden. MRZ-scanning læser den maskinlæsbare zone 
 
 ### Krypteret opbevaring
 
-Dokumenter krypteres på disken med AES-256-GCM. Filer er ulæselige uden dine dekrypteringsnøgler - selv hvis nogen får fysisk adgang til din enhed.
+Dokumenter krypteres på disken med AES-256-GCM. Filer er ulæselige uden dine dekrypteringsnøgler – selv hvis nogen får fysisk adgang til din enhed.
 
 ### ID-kort og kørekort
 
@@ -286,7 +286,7 @@ Del flere originale dokumentfiler på én gang via din enheds deleark (e-mail, b
 
 #### Sikker sletning med fortryd
 
-Slettede du ved en fejl et dokument? Tryk på Fortryd øjeblikkeligt for at gendanne det. Missede du vinduet? Det flyttes til Senest slettet, hvor det bliver i 30 dage før permanent sletning - hvilket giver dig et sikkerhedsnet uden at kompromittere dit privatliv.
+Slettede du ved en fejl et dokument? Tryk på Fortryd øjeblikkeligt for at gendanne det. Missede du vinduet? Det flyttes til Senest slettet, hvor det bliver i 30 dage før permanent sletning – hvilket giver dig et sikkerhedsnet uden at kompromittere dit privatliv.
 
 **Vigtigt:** Travel Document Vault er et personligt organisationsværktøj til opbevaring af digitale kopier af dine dokumenter. **Digitale kopier gemt i denne app er IKKE gyldige til rejser.** Den verificerer ikke dokumenters ægthed eller yder juridisk eller rejserådgivning. Medbring altid originale dokumenter og verificer alle rejsekrav med officielle offentlige kilder.
 

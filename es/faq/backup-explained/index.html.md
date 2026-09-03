@@ -12,9 +12,9 @@ Travel Document Vault te proporciona tres capas de protección. Aquí te explica
 
 Tus documentos viven en tu dispositivo. No van a nuestros servidores. Los tres mecanismos de copia de seguridad tienen cada uno un propósito diferente, y puedes usar los tres simultáneamente.
 
-- **Copias de seguridad locales automáticas** - suceden en segundo plano sin que hagas nada.
-- **Exportación de bóveda (.tdvault)** - un archivo cifrado portátil que guardas donde prefieras.
-- **Copia de seguridad en la nube (Pro)** - una copia cifrada automática en tu iCloud o Google Drive.
+- **Copias de seguridad locales automáticas** —suceden en segundo plano sin que hagas nada.
+- **Exportación de bóveda (.tdvault)** —un archivo cifrado portátil que guardas donde prefieras.
+- **Copia de seguridad en la nube (Pro)** —una copia cifrada automática en tu iCloud o Google Drive.
 
 ## De un vistazo
 
@@ -34,7 +34,7 @@ En Configuración verás *Última copia de seguridad: hace 2 horas, 12 documento
 
 Estas instantáneas viven solo en tu dispositivo. Si reinstalabas la aplicación en un teléfono nuevo (mediante iCloud Backup o Google Backup), estas copias no se mudan, porque la clave de cifrado nunca abandona tu dispositivo original. Para trasladar tu bóveda a otro teléfono, usa copia de seguridad en la nube (Pro) o exporta gratis la bóveda.
 
-## Exportación de bóveda (.tdvault) - gratis para todos
+## Exportación de bóveda (.tdvault) —gratis para todos
 
 Exportación de bóveda crea un archivo cifrado y protegido con contraseña con todos tus perfiles, documentos y adjuntos. Tú decides dónde guardarlo: Archivos, iCloud Drive, Google Drive, o compartirlo por AirDrop o correo electrónico.
 
@@ -70,9 +70,9 @@ Ninguna es suficiente sola. Las cuentas en la nube pueden desaparecer, los códi
 
 ### Guías relacionadas
 
-- [Cómo exportar e importar tu bóveda - guía paso a paso](https://traveldocumentvault.com/es/faq/export-import/)
-- [¿Cuál es mi código de recuperación? - Guía completa para almacenarlo de forma segura](https://traveldocumentvault.com/es/faq/recovery-code/)
-- [Copia de seguridad en la nube - Cómo funciona el cifrado de extremo a extremo](https://traveldocumentvault.com/es/cloud-backup/)
+- [Cómo exportar e importar tu bóveda —guía paso a paso](https://traveldocumentvault.com/es/faq/export-import/)
+- [¿Cuál es mi código de recuperación? —Guía completa para almacenarlo de forma segura](https://traveldocumentvault.com/es/faq/recovery-code/)
+- [Copia de seguridad en la nube —Cómo funciona el cifrado de extremo a extremo](https://traveldocumentvault.com/es/cloud-backup/)
 
 ## Obtén Travel Document Vault
 

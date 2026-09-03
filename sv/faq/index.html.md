@@ -28,7 +28,7 @@ Sentry är ett kraschrapporteringsverktyg som hjälper oss hitta och åtgärda b
 
 Vad ingår i Pro-uppgraderingen?
 
-Pro är ett engångsköp som låser upp obegränsat antal profiler, obegränsat antal dokument, samlad PDF-export, krypterad molnsäkerhetskopiering till iCloud eller Google Drive och egna påminnelsetider. Du betalar en gång - ingen prenumeration, ingen återkommande avgift och ingen provperiod som tyst börjar debitera dig.
+Pro är ett engångsköp som låser upp obegränsat antal profiler, obegränsat antal dokument, samlad PDF-export, krypterad molnsäkerhetskopiering till iCloud eller Google Drive och egna påminnelsetider. Du betalar en gång – ingen prenumeration, ingen återkommande avgift och ingen provperiod som tyst börjar debitera dig.
 
 Ingår framtida uppdateringar i mitt köp?
 
@@ -72,7 +72,7 @@ Ja. Vault Export (krypterad .tdvault-säkerhetskopieringsfil) är gratis för al
 
 Vad händer om jag tappar bort min telefon?
 
-Eftersom vi inte har din data kan vi inte återställa den åt dig. En systemsäkerhetskopia (iCloud/Google) installerar om appen men hämtar inte dina dokument - krypteringsnycklarna lämnade aldrig din ursprungliga enhet. **Din data försvinner om du inte exporterar den innan du byter telefon.**
+Eftersom vi inte har din data kan vi inte återställa den åt dig. En systemsäkerhetskopia (iCloud/Google) installerar om appen men hämtar inte dina dokument – krypteringsnycklarna lämnade aldrig din ursprungliga enhet. **Din data försvinner om du inte exporterar den innan du byter telefon.**
 
 **Innan du byter telefon:** Exportera ditt valv med Vault Export (gratis) eller aktivera Pro-molnsäkerhetskopia för automatisk kryptering till ditt eget iCloud eller Google Drive. Båda tillåter enkel återställning på en ny enhet.
 
@@ -121,7 +121,7 @@ Dina dokument lämnar aldrig din enhet. Det här läget ger dig bara ett säkert
 
 Vad är en återställningskod och varför behöver jag en?
 
-När du ställer in App-lås genererar appen en unik återställningskod som är ditt försäkringsläge om du någonsin glömmer din PIN. Spara den någonstans säkert - din lösenordshanterare, en tryckt anteckning, eller var som helst du litar på.
+När du ställer in App-lås genererar appen en unik återställningskod som är ditt försäkringsläge om du någonsin glömmer din PIN. Spara den någonstans säkert – din lösenordshanterare, en tryckt anteckning, eller var som helst du litar på.
 
 Om du glömmer din PIN, ange din återställningskod på PIN-skärmen. App-lås är inaktiverat och du återfår **fullständig åtkomst utan att förlora ett enda dokument.**
 
@@ -221,7 +221,7 @@ Pro-användare kan trycka på **"Markera"** längst upp till höger i dokumentli
 
 Kan jag ångra en massborttagning?
 
-**Ja - du har två skyddslager.** Efter att ha raderat dokument (enstaka eller batch) visas ett kort ångrafönster längst ned på skärmen. Tryck på **"Ångra"** för att omedelbart återställa dem. Om du missar ångrafönstret flyttas raderade dokument till **Nyligen raderat** i Inställningar, där de förblir i 30 dagar innan de raderas permanent. Pro-användare med molnsäkerhetskopiering aktiverad behåller objekt i Nyligen raderat på obestämd tid tills de trycker på Radera för alltid.
+**Ja – du har två skyddslager.** Efter att ha raderat dokument (enstaka eller batch) visas ett kort ångrafönster längst ned på skärmen. Tryck på **"Ångra"** för att omedelbart återställa dem. Om du missar ångrafönstret flyttas raderade dokument till **Nyligen raderat** i Inställningar, där de förblir i 30 dagar innan de raderas permanent. Pro-användare med molnsäkerhetskopiering aktiverad behåller objekt i Nyligen raderat på obestämd tid tills de trycker på Radera för alltid.
 
 Vad är snabbmenyn vid lång tryckning?
 
@@ -351,7 +351,7 @@ Alla användare kan exportera hela sitt valv som en krypterad, lösenordsskyddad
 
 Dagar inne i eller dagar utanför ett land: vad ska jag välja?
 
-Ställ dig en fråga: är du gäst i det här landet, eller är det ditt hem? Gäster räknar dagarna de är där, så välj **Dagar inne i landet** - det är den för en besöksgräns som 90 dagar. Bosatta räknar dagarna de är borta, så välj **Dagar utanför landet** - det är den för ett uppehållstillstånd som tillåter en viss tid utomlands. De flesta behöver bara en av de två, och är du osäker är Dagar inne i landet det vanligare valet.
+Ställ dig en fråga: är du gäst i det här landet, eller är det ditt hem? Gäster räknar dagarna de är där, så välj **Dagar inne i landet** – det är den för en besöksgräns som 90 dagar. Bosatta räknar dagarna de är borta, så välj **Dagar utanför landet** – det är den för ett uppehållstillstånd som tillåter en viss tid utomlands. De flesta behöver bara en av de två, och är du osäker är Dagar inne i landet det vanligare valet.
 
 Vad är familjeprofiler?
 
@@ -383,11 +383,11 @@ Appen synkroniserar inte ett tomt valv till molnet. Din befintliga säkerhetskop
 
 Hur ställer jag in molnsäkerhetskopiering på en andra enhet?
 
-När du slår på molnsäkerhetskopiering på en ny enhet som är inloggad på samma iCloud- eller Google-konto upptäcker appen din befintliga säkerhetskopia och frågar om den ska återställas eller om du vill börja om. Välj Återställ från säkerhetskopia och ange din återställningskod. Båda enheterna delar sedan samma säkerhetskopia. Att börja om ersätter den befintliga säkerhetskopian - välj bara det om du är säker.
+När du slår på molnsäkerhetskopiering på en ny enhet som är inloggad på samma iCloud- eller Google-konto upptäcker appen din befintliga säkerhetskopia och frågar om den ska återställas eller om du vill börja om. Välj Återställ från säkerhetskopia och ange din återställningskod. Båda enheterna delar sedan samma säkerhetskopia. Att börja om ersätter den befintliga säkerhetskopian – välj bara det om du är säker.
 
 Kan jag använda molnsäkerhetskopiering på flera enheter samtidigt?
 
-Molnsäkerhetskopiering är tänkt som säkerhetskopiering från en enhet med återställning på flera. En enhet är den primära källan. För att byta till en ny enhet återställer du från din säkerhetskopia där. Att redigera samtidigt på två enheter som synkroniserar mot samma säkerhetskopia stöds inte - den enhet som synkroniserar sist vinner.
+Molnsäkerhetskopiering är tänkt som säkerhetskopiering från en enhet med återställning på flera. En enhet är den primära källan. För att byta till en ny enhet återställer du från din säkerhetskopia där. Att redigera samtidigt på två enheter som synkroniserar mot samma säkerhetskopia stöds inte – den enhet som synkroniserar sist vinner.
 
 Vad händer om jag slår på molnsäkerhetskopiering utan uppkoppling?
 

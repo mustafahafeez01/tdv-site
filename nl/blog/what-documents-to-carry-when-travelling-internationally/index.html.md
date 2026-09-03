@@ -10,13 +10,13 @@ Source: https://traveldocumentvault.com/nl/blog/what-documents-to-carry-when-tra
 
 ## Belangrijkste punten
 
-- De meeste reizigers vergeten **toestemmingsverklaringen** voor reizende kinderen, vaccinatiebewijs, verblijfsbevestigingen en bewijs van doorreis - de ondersteunende documenten die grensbeambten bij de gate controleren.
-- Neem de originelen mee: paspoort, visa, instapkaarten en toestemmingsverklaringen. Bewaar digitale back-ups apart op je telefoon - versleuteld en offline.
+- De meeste reizigers vergeten **toestemmingsverklaringen** voor reizende kinderen, vaccinatiebewijs, verblijfsbevestigingen en bewijs van doorreis – de ondersteunende documenten die grensbeambten bij de gate controleren.
+- Neem de originelen mee: paspoort, visa, instapkaarten en toestemmingsverklaringen. Bewaar digitale back-ups apart op je telefoon – versleuteld en offline.
 - Polisnummers, telefoonnummers van de verzekeraar en dekkingsdetails van je reisverzekering horen zowel op papier als in een offline digitale back-up die zonder internet toegankelijk is.
 - Veel landen verwachten een **toestemmingsverklaring** voor een kind dat met één ouder reist. Zonder die verklaring loop je het risico op geweigerde instap.
 - Offline digitale kopieën, apart bewaard van de fysieke documenten, zijn je beste bescherming als je tas in het buitenland kwijtraakt of gestolen wordt.
 
-Reizigers merken vaak pas op de luchthaven dat ze toestemmingsverklaringen, vaccinatiebewijzen, verblijfsbevestigingen en bewijs van doorreis over het hoofd hebben gezien - documenten die minder belangrijk voelen dan een paspoort, maar net zo goed van belang zijn.
+Reizigers merken vaak pas op de luchthaven dat ze toestemmingsverklaringen, vaccinatiebewijzen, verblijfsbevestigingen en bewijs van doorreis over het hoofd hebben gezien – documenten die minder belangrijk voelen dan een paspoort, maar net zo goed van belang zijn.
 
 Voor meer tips over het organiseren van reisdocumenten, zie [onze gids voor het organiseren van de reisdocumenten van je gezin](https://traveldocumentvault.com/nl/blog/how-to-organise-family-travel-documents/). Dit artikel gaat dieper in op wat er vergeten wordt en hoe je je voorbereidt op verloren documenten in het buitenland.
 
@@ -26,19 +26,19 @@ Je paspoort en visum voelen urgent, dus die pak je als eerste in. Maar grensbeam
 
 ### Bewijs van doorreis
 
-Verrassend veel landen willen bewijs zien dat je van plan bent het land weer te verlaten - een terugvlucht, een doorreisboeking naar een ander land, of zelfs een bus- of veerticket volstaat meestal. Een uitdraai of digitale kopie in je handbagage voorkomt vertraging bij de grenscontrole.
+Verrassend veel landen willen bewijs zien dat je van plan bent het land weer te verlaten – een terugvlucht, een doorreisboeking naar een ander land, of zelfs een bus- of veerticket volstaat meestal. Een uitdraai of digitale kopie in je handbagage voorkomt vertraging bij de grenscontrole.
 
 ### Verblijfsbevestigingen
 
-Sommige landen vragen om bewijs van je overnachting op de eerste nacht, of dat nu een hotelbevestiging, een Airbnb of een hostel is. De beambte wil zien dat je een plek hebt om te verblijven, dus download een kopie offline naar je telefoon - een e-mail helpt niet aan de grens.
+Sommige landen vragen om bewijs van je overnachting op de eerste nacht, of dat nu een hotelbevestiging, een Airbnb of een hostel is. De beambte wil zien dat je een plek hebt om te verblijven, dus download een kopie offline naar je telefoon – een e-mail helpt niet aan de grens.
 
 ### Vaccinatiebewijzen
 
-Bepaalde bestemmingen vereisen bewijs van vaccinatie tegen gele koorts of andere ziekten, en de vereisten veranderen regelmatig per bestemming. Controleer de reisadviespagina's van de WHO 6 tot 8 weken voor vertrek - niet de avond ervoor - want sommige landen accepteren alleen officiële WHO-gelekoortscertificaten, geen kopieën of digitale foto's.
+Bepaalde bestemmingen vereisen bewijs van vaccinatie tegen gele koorts of andere ziekten, en de vereisten veranderen regelmatig per bestemming. Controleer de reisadviespagina's van de WHO 6 tot 8 weken voor vertrek – niet de avond ervoor – want sommige landen accepteren alleen officiële WHO-gelekoortscertificaten, geen kopieën of digitale foto's.
 
 ### Gegevens van je reisverzekering
 
-Je hebt directe toegang nodig tot je polisnummer, de contactgegevens van de verzekeraar en je 24-uurs alarmnummer. Sommige visumtypen vereisen expliciet bewijs van een reisverzekering - Schengenvisumaanvragen vereisen bijvoorbeeld een medische verzekering die spoedeisende zorg en ziekenhuisopname dekt. Belangrijker nog: als er in het buitenland iets misgaat, heb je deze gegevens nodig zonder afhankelijk te zijn van e-mail of internettoegang.
+Je hebt directe toegang nodig tot je polisnummer, de contactgegevens van de verzekeraar en je 24-uurs alarmnummer. Sommige visumtypen vereisen expliciet bewijs van een reisverzekering – Schengenvisumaanvragen vereisen bijvoorbeeld een medische verzekering die spoedeisende zorg en ziekenhuisopname dekt. Belangrijker nog: als er in het buitenland iets misgaat, heb je deze gegevens nodig zonder afhankelijk te zijn van e-mail of internettoegang.
 
 ### Toestemmingsverklaringen voor reizende kinderen
 
@@ -68,11 +68,11 @@ Grenzen willen originele documenten zien, maar als die originelen kwijtraken, zi
 - De toestemmingsverklaring, als je die bij je hebt
 - Noodcontactnummers van je ambassade
 
-Bewaar deze op je telefoon in een offline, versleutelde app - niet je cameraroll, niet Google Foto's, niet iCloud. Als je fysieke documenten kwijtraken, heb je nog steeds alles wat je nodig hebt om je ambassade te bereiken en te bewijzen wie je bent.
+Bewaar deze op je telefoon in een offline, versleutelde app – niet je cameraroll, niet Google Foto's, niet iCloud. Als je fysieke documenten kwijtraken, heb je nog steeds alles wat je nodig hebt om je ambassade te bereiken en te bewijzen wie je bent.
 
 ## Zo houd je de gegevens van je reisverzekering toegankelijk
 
-De meeste reizigers sluiten een reisverzekering af maar vergeten de polisgegevens direct toegankelijk te maken - waardoor je bij een medisch noodgeval of verloren bagage in het buitenland door e-mails moet zoeken in plaats van meteen om hulp te kunnen bellen. Onze gids over [welke reisverzekeringsdocumenten je moet bewaren voordat je vertrekt](https://traveldocumentvault.com/nl/blog/travel-insurance-documents/) laat zien wat je moet bewaren en waar.
+De meeste reizigers sluiten een reisverzekering af maar vergeten de polisgegevens direct toegankelijk te maken – waardoor je bij een medisch noodgeval of verloren bagage in het buitenland door e-mails moet zoeken in plaats van meteen om hulp te kunnen bellen. Onze gids over [welke reisverzekeringsdocumenten je moet bewaren voordat je vertrekt](https://traveldocumentvault.com/nl/blog/travel-insurance-documents/) laat zien wat je moet bewaren en waar.
 
 Specifieke gegevens die je bij de hand moet hebben, zowel op papier als digitaal:
 
@@ -93,11 +93,11 @@ Een toestemmingsverklaring bevat doorgaans de volledige naam en geboortedatum va
 
 Wat dit in de praktijk betekent
 
-Je vliegt naar Canada met je 8-jarige kind en je partner reist niet mee. Incheckpersoneel kan je kind weigeren als je geen schriftelijke toestemming van je afwezige partner kunt tonen, bij voorkeur notarieel bekrachtigd. Reist je kind met de grootouders in plaats van met jou, dan moeten doorgaans beide ouders de toestemmingsverklaring ondertekenen - toestemming van één ouder is over het algemeen niet genoeg. Controleer altijd ruim voor vertrek de precieze vereisten voor je bestemming.
+Je vliegt naar Canada met je 8-jarige kind en je partner reist niet mee. Incheckpersoneel kan je kind weigeren als je geen schriftelijke toestemming van je afwezige partner kunt tonen, bij voorkeur notarieel bekrachtigd. Reist je kind met de grootouders in plaats van met jou, dan moeten doorgaans beide ouders de toestemmingsverklaring ondertekenen – toestemming van één ouder is over het algemeen niet genoeg. Controleer altijd ruim voor vertrek de precieze vereisten voor je bestemming.
 
 ## Waarom offline digitale kopieën het waard zijn
 
-Fysieke documenten helpen, tot een dief je tas meeneemt - en meestal neemt hij de kopieën samen met de originelen mee. Een aparte versleutelde back-up op je telefoon - offline bewaard - is je echte verzekering als de originelen verdwijnen.
+Fysieke documenten helpen, tot een dief je tas meeneemt – en meestal neemt hij de kopieën samen met de originelen mee. Een aparte versleutelde back-up op je telefoon – offline bewaard – is je echte verzekering als de originelen verdwijnen.
 
 Als je ambassade een noodreisdocument moet uitgeven, geeft een veilige back-up hen direct je paspoortnummer, afgiftedatum, plaats van afgifte en vervaldatum, zonder internettoegang. Voor meer over de beschikbare opties, zie ons overzicht van [hoe je paspoortscans veilig bewaart](https://traveldocumentvault.com/nl/blog/is-it-safe-to-store-passport-in-google-photos/) en de afwegingen tussen verschillende aanpakken.
 
@@ -119,7 +119,7 @@ Ja, in veel landen wordt dit verwacht. Als een kind internationaal met slechts �
 
 ### Moet ik digitale back-ups van mijn documenten bewaren?
 
-Ja. Bewaar versleutelde offline kopieën op je telefoon - niet in je cameraroll of cloudopslag. Als je fysieke documenten in het buitenland kwijtraken of gestolen worden, zorgen deze back-ups ervoor dat je ambassade een noodreisdocument veel sneller kan verwerken. Ze moeten paspoortnummer, afgiftedatum, plaats van afgifte, verzekeringspolisnummer en boekingsreferenties bevatten.
+Ja. Bewaar versleutelde offline kopieën op je telefoon – niet in je cameraroll of cloudopslag. Als je fysieke documenten in het buitenland kwijtraken of gestolen worden, zorgen deze back-ups ervoor dat je ambassade een noodreisdocument veel sneller kan verwerken. Ze moeten paspoortnummer, afgiftedatum, plaats van afgifte, verzekeringspolisnummer en boekingsreferenties bevatten.
 
 ### Wat gebeurt er als ik zonder een vereist document op de luchthaven aankom?
 

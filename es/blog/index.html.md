@@ -8,7 +8,7 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
-[Historia del fundadorDestacado Por qué construí Travel Document Vault: para el padre que recuerda todo Estaba en inmigración cuando el oficial miró el pasaporte de mi hija y se detuvo. Ese susto - darme cuenta de que casi arruinaba un viaje familiar sin saberlo - es la razón por la que existe esta aplicación. 3 ene. 20267 min de lectura](https://traveldocumentvault.com/es/blog/why-i-built-travel-document-vault/)
+[Historia del fundadorDestacado Por qué construí Travel Document Vault: para el padre que recuerda todo Estaba en inmigración cuando el oficial miró el pasaporte de mi hija y se detuvo. Ese susto —darme cuenta de que casi arruinaba un viaje familiar sin saberlo— es la razón por la que existe esta aplicación. 3 ene. 20267 min de lectura](https://traveldocumentvault.com/es/blog/why-i-built-travel-document-vault/)
 
 ##
 
@@ -96,7 +96,7 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
-[Preparación de Viaje¿Perdiste tu Pasaporte en el Extranjero? Haz Estas 7 Cosas Inmediatamente Perder tu pasaporte en el extranjero es más estresante de lo que la mayoría de los viajeros esperan. Aquí están los 7 pasos a seguir inmediatamente - desde reportar a tu embajada más cercana hasta obtener un documento de viaje de emergencia. 11 mar. 20267 min de lectura](https://traveldocumentvault.com/es/blog/lost-passport-abroad/)
+[Preparación de Viaje¿Perdiste tu Pasaporte en el Extranjero? Haz Estas 7 Cosas Inmediatamente Perder tu pasaporte en el extranjero es más estresante de lo que la mayoría de los viajeros esperan. Aquí están los 7 pasos a seguir inmediatamente —desde reportar a tu embajada más cercana hasta obtener un documento de viaje de emergencia. 11 mar. 20267 min de lectura](https://traveldocumentvault.com/es/blog/lost-passport-abroad/)
 
 ##
 
@@ -108,7 +108,7 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
-[Reglas de PasaporteOrganizaciónLista de verificación de documentos de viaje internacional: todo lo que necesitas antes de volar Todo lo que necesitas llevar, verificar y preparar antes de cualquier viaje internacional. Una lista de verificación práctica que cubre pasaportes, visas, licencias de conducir y seguros de viaje - funciona para familias y viajeros solitarios. 4 mar. 20269 min de lectura](https://traveldocumentvault.com/es/blog/travel-document-checklist/)
+[Reglas de PasaporteOrganizaciónLista de verificación de documentos de viaje internacional: todo lo que necesitas antes de volar Todo lo que necesitas llevar, verificar y preparar antes de cualquier viaje internacional. Una lista de verificación práctica que cubre pasaportes, visas, licencias de conducir y seguros de viaje —funciona para familias y viajeros solitarios. 4 mar. 20269 min de lectura](https://traveldocumentvault.com/es/blog/travel-document-checklist/)
 
 ##
 

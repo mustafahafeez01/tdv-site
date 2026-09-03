@@ -28,7 +28,7 @@ O Sentry é uma ferramenta de relatórios de falhas que nos ajuda a encontrar e 
 
 O que inclui a atualização Pro?
 
-O Pro é uma compra única que desbloqueia perfis ilimitados, documentos ilimitados, exportação combinada em PDF, cópia de segurança cifrada na nuvem para a iCloud ou o Google Drive, e temporização personalizada dos lembretes. Paga uma vez - sem subscrição, sem cobrança recorrente e sem período de teste que comece a cobrar-lhe em silêncio.
+O Pro é uma compra única que desbloqueia perfis ilimitados, documentos ilimitados, exportação combinada em PDF, cópia de segurança cifrada na nuvem para a iCloud ou o Google Drive, e temporização personalizada dos lembretes. Paga uma vez — sem subscrição, sem cobrança recorrente e sem período de teste que comece a cobrar-lhe em silêncio.
 
 As atualizações futuras estão incluídas na minha compra?
 
@@ -36,7 +36,7 @@ Sim. A sua compra cobre todas as atualizações dentro da versão principal atua
 
 O que acontece se perder o telemóvel ou mudar para um novo?
 
-Como não armazenamos os seus dados, não podemos restaurá-los. As cópias de segurança do sistema (iCloud Backup ou Google Backup) reinstalam a aplicação mas NÃO restauram os seus documentos - a chave de encriptação nunca sai do seu dispositivo original. Para transferir documentos para um novo telefone, exporte o seu cofre através da funcionalidade Exportação do Cofre (gratuita para todos). Se tiver Pro, pode usar a cópia de segurança encriptada na nuvem com o seu código de recuperação para restaurar num toque em qualquer dispositivo.
+Como não armazenamos os seus dados, não podemos restaurá-los. As cópias de segurança do sistema (iCloud Backup ou Google Backup) reinstalam a aplicação mas NÃO restauram os seus documentos — a chave de encriptação nunca sai do seu dispositivo original. Para transferir documentos para um novo telefone, exporte o seu cofre através da funcionalidade Exportação do Cofre (gratuita para todos). Se tiver Pro, pode usar a cópia de segurança encriptada na nuvem com o seu código de recuperação para restaurar num toque em qualquer dispositivo.
 
 A aplicação funciona sem ligação à internet?
 
@@ -72,7 +72,7 @@ Sim. A Exportação do Cofre (ficheiro **.tdvault**) é gratuita para todos. Vá
 
 O que acontece se perder o meu telemóvel?
 
-Como não temos os seus dados, não podemos restaurá-los. As cópias de segurança do sistema (iCloud Backup ou Google Backup) reinstalam a aplicação mas NÃO restauram os seus documentos - a chave de encriptação nunca sai do seu dispositivo original.
+Como não temos os seus dados, não podemos restaurá-los. As cópias de segurança do sistema (iCloud Backup ou Google Backup) reinstalam a aplicação mas NÃO restauram os seus documentos — a chave de encriptação nunca sai do seu dispositivo original.
 
 **Para transferir documentos:** Exporte o seu cofre através de **Definições > Exportar Cofre** (gratuito para todos). Se tiver Pro, pode usar a cópia de segurança encriptada na nuvem com o seu código de recuperação para restaurar num toque em qualquer dispositivo.
 
@@ -121,7 +121,7 @@ Os seus documentos nunca saem do seu dispositivo. Este modo simplesmente lhe dá
 
 O que é um código de recuperação e por que o preciso?
 
-Quando configurar Bloqueio de Aplicação, a aplicação gera um código de recuperação único que é a sua rede de segurança se alguma vez esquecer o seu PIN. Guarde-o num local seguro - o seu gestor de palavras-passe, uma nota impressa, em qualquer lugar que confie.
+Quando configurar Bloqueio de Aplicação, a aplicação gera um código de recuperação único que é a sua rede de segurança se alguma vez esquecer o seu PIN. Guarde-o num local seguro — o seu gestor de palavras-passe, uma nota impressa, em qualquer lugar que confie.
 
 Se esquecer o seu PIN, introduza o seu código de recuperação no ecrã PIN. O Bloqueio de Aplicação é desactivado e recupera **acesso completo sem perder um único documento.**
 
@@ -221,7 +221,7 @@ Os utilizadores Pro podem tocar em **"Selecionar"** no canto superior direito da
 
 Posso desfazer uma eliminação em massa?
 
-**Sim - você tem duas camadas de proteção.** Após eliminar documentos (individual ou em massa), verá uma janela curta de desfazer na parte inferior do ecrã. Toque em **"Desfazer"** para os restaurar imediatamente. Se perder a janela de desfazer, os documentos eliminados são movidos para **Eliminados recentemente** em Definições, onde permanecem por 30 dias antes de serem permanentemente eliminados. Os utilizadores Pro com cópia de segurança na nuvem ativada mantêm os itens em Eliminados recentemente indefinidamente até tocar em Eliminar permanentemente.
+**Sim — você tem duas camadas de proteção.** Após eliminar documentos (individual ou em massa), verá uma janela curta de desfazer na parte inferior do ecrã. Toque em **"Desfazer"** para os restaurar imediatamente. Se perder a janela de desfazer, os documentos eliminados são movidos para **Eliminados recentemente** em Definições, onde permanecem por 30 dias antes de serem permanentemente eliminados. Os utilizadores Pro com cópia de segurança na nuvem ativada mantêm os itens em Eliminados recentemente indefinidamente até tocar em Eliminar permanentemente.
 
 O que é o menu de contexto de pressão longa?
 
@@ -351,11 +351,11 @@ Pro permite-lhe exportar todo o seu cofre como um ficheiro .tdvault encriptado q
 
 Dias dentro ou dias fora de um país: qual devo escolher?
 
-Faça a si mesmo uma pergunta: é um visitante neste país, ou é a sua casa? Os visitantes contam os dias em que lá estão, por isso escolha **Dias dentro do país** - é a opção para um limite de visitante como 90 dias. Os residentes contam os dias em que estão fora, por isso escolha **Dias fora do país** - é a opção para uma autorização de residência que permite certo tempo no estrangeiro. A maioria das pessoas precisa apenas de uma das duas e, em caso de dúvida, Dias dentro do país é a escolha mais comum.
+Faça a si mesmo uma pergunta: é um visitante neste país, ou é a sua casa? Os visitantes contam os dias em que lá estão, por isso escolha **Dias dentro do país** — é a opção para um limite de visitante como 90 dias. Os residentes contam os dias em que estão fora, por isso escolha **Dias fora do país** — é a opção para uma autorização de residência que permite certo tempo no estrangeiro. A maioria das pessoas precisa apenas de uma das duas e, em caso de dúvida, Dias dentro do país é a escolha mais comum.
 
 O que são perfis de família?
 
-Cada membro da família é um perfil separado com os seus próprios documentos, fotografias e lembretes - os seus dados são seus, os do seu parceiro são dele, e os perfis são apenas locais pelo que nunca sincronizam entre dispositivos ou pessoas. Este design respeita a privacidade e garante que não há misturas acidentais de documentos sensíveis.
+Cada membro da família é um perfil separado com os seus próprios documentos, fotografias e lembretes — os seus dados são seus, os do seu parceiro são dele, e os perfis são apenas locais pelo que nunca sincronizam entre dispositivos ou pessoas. Este design respeita a privacidade e garante que não há misturas acidentais de documentos sensíveis.
 
 O que acontece quando apago algo?
 

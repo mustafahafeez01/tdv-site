@@ -28,9 +28,9 @@ Apakah Anda masih memegang paspor itu sepenuhnya bergantung pada negara dan meto
 
 Perpanjangan paspor AS standar lewat pos tidak mengharuskan Anda menyerahkan paspor Anda saat ini sebelum paspor baru tiba. Anda mengisi formulir DS-82, menyertakan paspor Anda yang masih berlaku, dan mengirim semuanya ke National Passport Processing Center. Paspor lama Anda dikembalikan bersama paspor baru, biasanya sudah dilubangi sebagai tanda dibatalkan.
 
-Artinya perjalanan domestik di dalam Amerika Serikat tidak terpengaruh selama proses perpanjangan berlangsung - Anda tidak memerlukan paspor untuk penerbangan domestik. Perjalanan internasional adalah cerita lain: Anda tidak bisa bepergian internasional sampai paspor baru tiba, dan Anda tidak bisa memakai paspor lama yang sudah dibatalkan meskipun masih ada di tangan Anda.
+Artinya perjalanan domestik di dalam Amerika Serikat tidak terpengaruh selama proses perpanjangan berlangsung, Anda tidak memerlukan paspor untuk penerbangan domestik. Perjalanan internasional adalah cerita lain: Anda tidak bisa bepergian internasional sampai paspor baru tiba, dan Anda tidak bisa memakai paspor lama yang sudah dibatalkan meskipun masih ada di tangan Anda.
 
-Waktu pemrosesan standar bisa berubah, dan Departemen Luar Negeri AS menerbitkan angka terkininya di travel.state.gov, jadi periksa di sana sebelum merencanakan berdasarkan itu. Jika perjalanan Anda sudah dipesan sebelum paspor baru diperkirakan tiba, pemrosesan cepat tersedia dengan biaya tambahan dan bisa memangkas waktu tunggu secara signifikan. Untuk perjalanan yang benar-benar mendesak, janji temu langsung tersedia di kantor paspor regional - periksa kelayakan terkini di travel.state.gov.
+Waktu pemrosesan standar bisa berubah, dan Departemen Luar Negeri AS menerbitkan angka terkininya di travel.state.gov, jadi periksa di sana sebelum merencanakan berdasarkan itu. Jika perjalanan Anda sudah dipesan sebelum paspor baru diperkirakan tiba, pemrosesan cepat tersedia dengan biaya tambahan dan bisa memangkas waktu tunggu secara signifikan. Untuk perjalanan yang benar-benar mendesak, janji temu langsung tersedia di kantor paspor regional, periksa kelayakan terkini di travel.state.gov.
 
 ## Inggris: Dua Proses dengan Hasil yang Berlawanan
 
@@ -52,7 +52,7 @@ Kantor Paspor Australia menerbitkan waktu pemrosesan terkininya dan menyarankan 
 
 ## Kanada: Diserahkan Saat Mengajukan
 
-Kanada mengharuskan Anda menyerahkan paspor Anda yang berlaku saat mengajukan perpanjangan. Paspor lama Anda ditahan sampai paspor baru siap, jadi Anda tidak bisa bepergian internasional selama periode ini - meskipun perjalanan domestik di dalam Kanada tidak memerlukan paspor.
+Kanada mengharuskan Anda menyerahkan paspor Anda yang berlaku saat mengajukan perpanjangan. Paspor lama Anda ditahan sampai paspor baru siap, jadi Anda tidak bisa bepergian internasional selama periode ini, meskipun perjalanan domestik di dalam Kanada tidak memerlukan paspor.
 
 Service Canada menerbitkan standar pemrosesan terkininya, yang berbeda-beda tergantung apakah Anda mengajukan langsung, lewat pos, atau di Service Canada Centre, ditambah waktu pengiriman pos di kedua cara tersebut. Untuk perjalanan mendesak, layanan ekspres dan pengambilan mendesak tersedia dengan biaya tambahan. Periksa waktu pemrosesan terkini dan ajukan di canada.ca.
 
@@ -82,7 +82,7 @@ Ujian praktisnya sederhana. Jika paspor Anda dibatalkan, kedaluwarsa, atau berad
 
 ## Jika Perjalanan Anda Lebih Cepat dari Jadwal Perpanjangan
 
-Jangan menunda menghubungi kantor paspor negara Anda lewat telepon - tanyakan secara khusus soal opsi janji temu cepat, mendesak, atau darurat. Opsi ini ada di setiap negara yang tercantum di sini, tapi ketersediaannya berubah tiap minggu dan slot janji temu cepat habis.
+Jangan menunda menghubungi kantor paspor negara Anda lewat telepon — tanyakan secara khusus soal opsi janji temu cepat, mendesak, atau darurat. Opsi ini ada di setiap negara yang tercantum di sini, tapi ketersediaannya berubah tiap minggu dan slot janji temu cepat habis.
 
 Bersamaan dengan itu, hubungi maskapai Anda soal penjadwalan ulang. Sebagian maskapai membebaskan biaya perubahan jadwal jika alasannya benar-benar masalah dokumen. Pastikan setiap kesepakatan tertulis. Jika Anda punya asuransi perjalanan, periksa polis Anda untuk cakupan biaya akibat keterlambatan paspor atau masalah dokumen.
 

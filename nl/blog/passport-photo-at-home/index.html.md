@@ -12,8 +12,8 @@ Source: https://traveldocumentvault.com/nl/blog/passport-photo-at-home/
 
 - Gebruik een effen witte of gebroken witte achtergrond, een neutrale gezichtsuitdrukking, en ogen open en recht vooruit kijkend
 - De afmetingen verschillen per land en worden strikt gehandhaafd, dus neem de maten over van je eigen paspoortinstantie in plaats van een samenvatting
-- Natuurlijk raamlicht werkt het best - vermijd harde schaduwen en gebruik geen cameraflits
-- De meeste landen staan tegenwoordig geen bril toe, tenzij medisch noodzakelijk - controleer de actuele eisen
+- Natuurlijk raamlicht werkt het best – vermijd harde schaduwen en gebruik geen cameraflits
+- De meeste landen staan tegenwoordig geen bril toe, tenzij medisch noodzakelijk – controleer de actuele eisen
 - Veelvoorkomende afwijzingsredenen zijn schaduwen, onjuiste afmetingen, glimlachen, wazige foto's en een verkeerde achtergrond
 
 Een foto die je thuis maakt wordt net zo makkelijk geaccepteerd als een uit een fotohokje, mits hij aan dezelfde korte lijst met regels voldoet. De meeste afwijzingen komen neer op drie dingen: schaduw op het gezicht of de achtergrond, een verkeerde grootte van het hoofd in het kader, en een bril. Krijg je die goed, dan is de rest eenvoudig.
@@ -24,11 +24,11 @@ Hoewel de specifieke regels per paspoortinstantie verschillen, delen de meeste l
 
 ### Achtergrond en compositie
 
-Je hebt een effen witte of gebroken witte achtergrond nodig - niets anders werkt. Geen patronen, schaduwen, wazige achtergronden of kleuren. De reden is simpel: ambtenaren hebben een schoon, ongestoord beeld van je gezicht nodig om te vergelijken met toekomstige documenten. De meeste mensen gebruiken een wit laken, een posterbord, of schilderen zelfs een klein stukje muur. Het belangrijkste is dat het licht en gelijkmatig blijft, over de hele achtergrond.
+Je hebt een effen witte of gebroken witte achtergrond nodig – niets anders werkt. Geen patronen, schaduwen, wazige achtergronden of kleuren. De reden is simpel: ambtenaren hebben een schoon, ongestoord beeld van je gezicht nodig om te vergelijken met toekomstige documenten. De meeste mensen gebruiken een wit laken, een posterbord, of schilderen zelfs een klein stukje muur. Het belangrijkste is dat het licht en gelijkmatig blijft, over de hele achtergrond.
 
 ### Uitdrukking en houding
 
-Je gezicht moet het kader vullen tot de verhouding die je paspoortinstantie voorschrijft, met open en duidelijk zichtbare ogen - de meeste landen verbieden glimlachen, en samengeknepen ogen diskwalificeren de foto. Kijk recht in de camera met een neutrale gezichtsuitdrukking, kantel je hoofd licht als dat natuurlijker voelt, maar houd je hoofd over het algemeen recht ten opzichte van de lens. Je oren zijn idealiter aan beide kanten van je gezicht zichtbaar.
+Je gezicht moet het kader vullen tot de verhouding die je paspoortinstantie voorschrijft, met open en duidelijk zichtbare ogen – de meeste landen verbieden glimlachen, en samengeknepen ogen diskwalificeren de foto. Kijk recht in de camera met een neutrale gezichtsuitdrukking, kantel je hoofd licht als dat natuurlijker voelt, maar houd je hoofd over het algemeen recht ten opzichte van de lens. Je oren zijn idealiter aan beide kanten van je gezicht zichtbaar.
 
 ## Mag je een bril dragen op een paspoortfoto?
 
@@ -44,7 +44,7 @@ Digitale indieningen wisselen millimeters in voor pixels, en elke instantie publ
 
 ### Waar je de afmetingseisen van je land controleert
 
-Afmeting is waar de meeste mensen struikelen - komt je foto niet overeen met de eisen van je land, dan is afwijzing vrijwel zeker. Elk land stelt zijn eigen maten vast, sommige in inches en sommige in millimeters, en deze worden van tijd tot tijd herzien.
+Afmeting is waar de meeste mensen struikelen – komt je foto niet overeen met de eisen van je land, dan is afwijzing vrijwel zeker. Elk land stelt zijn eigen maten vast, sommige in inches en sommige in millimeters, en deze worden van tijd tot tijd herzien.
 
 We herhalen die cijfers hier bewust niet. Een getal dat in een blogpost wordt overgenomen, is een getal dat stilletjes verouderd kan raken, en deze post is daar niet de autoriteit voor. Controleer rechtstreeks bij je eigen paspoortkantoor.
 
@@ -55,7 +55,7 @@ We herhalen die cijfers hier bewust niet. Een getal dat in een blogpost wordt ov
 | Australië | fotorichtlijnen van Australian Passport Office |
 | Canada | pagina over paspoortfoto's van de Canadese overheid |
 
-Wat je land ook voorschrijft, het is exact - zelfs een paar millimeter afwijking betekent afwijzing. De ruwe foto van je smartphone is meestal veel groter dan wat je moet indienen, wat de reden is dat bijsnij-apps bestaan. Gratis of goedkope tools voor iOS en Android laten je je land invoeren en passen de foto automatisch aan de exacte specificatie aan.
+Wat je land ook voorschrijft, het is exact – zelfs een paar millimeter afwijking betekent afwijzing. De ruwe foto van je smartphone is meestal veel groter dan wat je moet indienen, wat de reden is dat bijsnij-apps bestaan. Gratis of goedkope tools voor iOS en Android laten je je land invoeren en passen de foto automatisch aan de exacte specificatie aan.
 
 ### Vergelijking van manieren om een paspoortfoto in te dienen
 
@@ -83,17 +83,17 @@ Gebruik een statief of zet je telefoon tegen een stabiel voorwerp, zodat je beid
 
 ### Resolutie en scherpstelling
 
-Moderne smartphones fotograferen met 12 megapixels of meer, wat ruim voldoende is voor een paspoortfoto. Zorg dat je telefoon in scherpstelmodus staat voordat je fotografeert - tik op je gezicht op het scherm, dan vergrendelen de meeste telefoons daar de scherpstelling. Je uiteindelijke foto moet scherp en duidelijk zijn.
+Moderne smartphones fotograferen met 12 megapixels of meer, wat ruim voldoende is voor een paspoortfoto. Zorg dat je telefoon in scherpstelmodus staat voordat je fotografeert – tik op je gezicht op het scherm, dan vergrendelen de meeste telefoons daar de scherpstelling. Je uiteindelijke foto moet scherp en duidelijk zijn.
 
 ## Veelvoorkomende afwijzingsredenen en hoe je ze voorkomt
 
 - **Schaduwen op het gezicht:** Veroorzaakt door zijlicht of felle lichtbronnen. Ga loodrecht op een raam staan voor gelijkmatige belichting, en controleer of je oren en jukbeenderen gelijkmatig belicht zijn.
-- **Onjuiste fotoafmetingen:** De foto komt niet overeen met de specificatie van je land (eisen verschillen per land). Gebruik een bijsnij-app voor paspoortfoto's en controleer de afmetingen dubbel aan de officiële specificatie van je eigen instantie voordat je print of upload - niet aan de norm van een ander land.
-- **Glimlachen of een ongebruikelijke uitdrukking:** De meeste landen vereisen een neutrale gezichtsuitdrukking. Oefen vooraf een rustige, rechte blik voor een spiegel - streef naar serieus, niet streng.
+- **Onjuiste fotoafmetingen:** De foto komt niet overeen met de specificatie van je land (eisen verschillen per land). Gebruik een bijsnij-app voor paspoortfoto's en controleer de afmetingen dubbel aan de officiële specificatie van je eigen instantie voordat je print of upload – niet aan de norm van een ander land.
+- **Glimlachen of een ongebruikelijke uitdrukking:** De meeste landen vereisen een neutrale gezichtsuitdrukking. Oefen vooraf een rustige, rechte blik voor een spiegel – streef naar serieus, niet streng.
 - **Bril met glans:** Glans op de glazen verbergt je ogen. Doe je bril af of pas de hoek aan om reflectie te voorkomen. Veel landen verbieden bril nu volledig, tenzij medisch noodzakelijk, dus controleer eerst de actuele regels van je instantie.
 - **Wazige of onscherpe foto:** Beweging of scherpstelproblemen tijdens het maken van de foto. Gebruik een statief of stabiel voorwerp om je telefoon te ondersteunen, tik op het scherm om op je gezicht scherp te stellen, en vermijd elke beweging tijdens de opname.
-- **Verkeerde achtergrond:** Gekleurde achtergrond, patroon of ongelijke witte achtergrond. Effen wit of gebroken wit posterbord of laken werkt het best - zorg dat er geen zichtbare textuur of schaduwen zijn.
-- **Te veel of te weinig ruimte rond het hoofd:** Gezicht te klein of verkeerd gepositioneerd in het kader. De regels van je land geven precies aan hoeveel van het kader je gezicht moet vullen, meestal als een maat van kin tot kruin in plaats van een percentage - werk naar dat cijfer toe, niet naar wat er "goed uitziet".
+- **Verkeerde achtergrond:** Gekleurde achtergrond, patroon of ongelijke witte achtergrond. Effen wit of gebroken wit posterbord of laken werkt het best – zorg dat er geen zichtbare textuur of schaduwen zijn.
+- **Te veel of te weinig ruimte rond het hoofd:** Gezicht te klein of verkeerd gepositioneerd in het kader. De regels van je land geven precies aan hoeveel van het kader je gezicht moet vullen, meestal als een maat van kin tot kruin in plaats van een percentage – werk naar dat cijfer toe, niet naar wat er "goed uitziet".
 
 ## Van smartphonefoto naar officiële foto: het proces
 
@@ -101,7 +101,7 @@ Je smartphonefoto heeft zelden meteen de juiste afmeting. Na het fotograferen mo
 
 ### Bijsnijtools
 
-Bijsnij-apps nemen het giswerk uit het aanpassen van de afmeting. Kijk naar tools zoals Passport Photo Online of ID Photo Studio voor iOS en Android - hiermee selecteer je je land en wordt de foto automatisch op maat bijgesneden, terwijl wordt gecontroleerd of je gezichtsafmetingen correct zijn. Veel apps geven ook feedback als je belichting of achtergrond tekortschiet.
+Bijsnij-apps nemen het giswerk uit het aanpassen van de afmeting. Kijk naar tools zoals Passport Photo Online of ID Photo Studio voor iOS en Android – hiermee selecteer je je land en wordt de foto automatisch op maat bijgesneden, terwijl wordt gecontroleerd of je gezichtsafmetingen correct zijn. Veel apps geven ook feedback als je belichting of achtergrond tekortschiet.
 
 ### Printen versus digitaal indienen
 

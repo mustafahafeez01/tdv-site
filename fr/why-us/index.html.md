@@ -31,7 +31,7 @@ Créé Travel Document Vault pour ma famille
 
 > "Chaque voyage en famille se transformait en chasse au trésor à travers Photos, email et Drive. J'ai créé ceci pour que le prochain soit différent."
 
-Pas de capital-risque, pas d'actionnaires, pas de réseaux publicitaires - juste un parent qui en avait assez de la même panique, à chaque voyage.
+Pas de capital-risque, pas d'actionnaires, pas de réseaux publicitaires — juste un parent qui en avait assez de la même panique, à chaque voyage.
 
 [Lire l'histoire complète →](https://traveldocumentvault.com/fr/blog/why-i-built-travel-document-vault/)
 
@@ -43,7 +43,7 @@ Vous n'êtes pas le seul à avoir passé par là.
 
 Comptoir de l'immigration. L'agent vous demande votre visa.
 
-Et si vous pouviez ouvrir une application et l'avoir là - pas de recherche, pas de changement d'application, juste un accès instantané ?
+Et si vous pouviez ouvrir une application et l'avoir là — pas de recherche, pas de changement d'application, juste un accès instantané ?
 
 Le piège de la validité
 
@@ -63,7 +63,7 @@ Tout en un seul endroit à votre portée, prêts quand vous en avez besoin.
 
 ## Que vous utilisez probablement en ce moment
 
-Ce sont tous des choix raisonnables. Chacun fonctionne - jusqu'à un certain point.
+Ce sont tous des choix raisonnables. Chacun fonctionne — jusqu'à un certain point.
 
 ### Coffres-forts généraux
 
@@ -137,7 +137,7 @@ Chiffrement AES-256-GCM au repos. Les sauvegardes chiffrées utilisent la dériv
 
 Les renouvellements de passeport prennent 6 à 8 semaines. **Les rappels commencent 8 mois à l'avance** et s'enchaînent automatiquement.
 
-Les rappels arrivent à 6 mois, 3 mois, 6 semaines et jour d'expiration - vous aidant à garder une longueur d'avance sur vos dates limites de renouvellement.
+Les rappels arrivent à 6 mois, 3 mois, 6 semaines et jour d'expiration — vous aidant à garder une longueur d'avance sur vos dates limites de renouvellement.
 
 Fonctionne pour les passeports, visas, permis, assurance, tout ce qui a une date d'expiration.
 
@@ -261,7 +261,7 @@ Scannez. Définissez. Oubliez.
 
 Ouvrez la caméra, utilisez la superposition guidée et capturez votre document. Ou importez-en un existant de votre photothèque.
 
-L'application détecte la date d'expiration - vous devez juste confirmer.
+L'application détecte la date d'expiration — vous devez juste confirmer.
 
 2
 
@@ -292,7 +292,7 @@ Cette application est conçue pour les réalités pratiques, pas le stockage de 
 
 Les questions que nous entendons le plus souvent.
 
-Que se passe-t-il si je perds mon téléphone ? Vos documents vivent sur votre appareil avec une clé de chiffrement qui ne quitte jamais cet appareil. Une sauvegarde téléphonique système (iCloud ou Google Backup) ne peut pas les restaurer sur un nouveau téléphone. Activez la sauvegarde Votre Cloud (Pro) pour une synchronisation chiffrée, ou exportez un fichier .tdvault gratuitement depuis les Paramètres. Fonctionne-t-il sans internet ? Complètement. L'application stocke tout sur votre appareil et ne nécessite jamais de connexion internet. L'OCR, les rappels et la visualisation des documents fonctionnent tous hors ligne. Mes données sont-elles vraiment sûres ? Vos documents sont protégés à l'aide du chiffrement AES-256-GCM sur votre appareil. Il n'y a pas de serveurs et pas de comptes. Si vous activez la sauvegarde cloud optionnelle Pro, votre coffre est chiffré de bout en bout sur votre appareil avant le téléchargement vers votre propre iCloud ou Google Drive, scellé avec un code de récupération que vous seul avez. La conception signifie que je ne peux pas lire vos données, et ni Apple ni Google non plus - vous pouvez vérifier le modèle de confidentialité vous-même sur la [page de Vérification de la Confidentialité](https://traveldocumentvault.com/fr/privacy-verification/). Est-ce vraiment un achat unique ? Oui. Pro coûte 9,99 $ US, une seule fois, et chaque pays a son propre prix local affiché dans la boutique avant l'achat. Pas d'abonnement récurrent, pas de frais récurrents, pas d'e-mails « votre essai se termine ». L'offre gratuite est vraiment gratuite - 1 profil, 5 documents, toutes les fonctionnalités y compris l'OCR et les rappels.
+Que se passe-t-il si je perds mon téléphone ? Vos documents vivent sur votre appareil avec une clé de chiffrement qui ne quitte jamais cet appareil. Une sauvegarde téléphonique système (iCloud ou Google Backup) ne peut pas les restaurer sur un nouveau téléphone. Activez la sauvegarde Votre Cloud (Pro) pour une synchronisation chiffrée, ou exportez un fichier .tdvault gratuitement depuis les Paramètres. Fonctionne-t-il sans internet ? Complètement. L'application stocke tout sur votre appareil et ne nécessite jamais de connexion internet. L'OCR, les rappels et la visualisation des documents fonctionnent tous hors ligne. Mes données sont-elles vraiment sûres ? Vos documents sont protégés à l'aide du chiffrement AES-256-GCM sur votre appareil. Il n'y a pas de serveurs et pas de comptes. Si vous activez la sauvegarde cloud optionnelle Pro, votre coffre est chiffré de bout en bout sur votre appareil avant le téléchargement vers votre propre iCloud ou Google Drive, scellé avec un code de récupération que vous seul avez. La conception signifie que je ne peux pas lire vos données, et ni Apple ni Google non plus — vous pouvez vérifier le modèle de confidentialité vous-même sur la [page de Vérification de la Confidentialité](https://traveldocumentvault.com/fr/privacy-verification/). Est-ce vraiment un achat unique ? Oui. Pro coûte 9,99 $ US, une seule fois, et chaque pays a son propre prix local affiché dans la boutique avant l'achat. Pas d'abonnement récurrent, pas de frais récurrents, pas d'e-mails « votre essai se termine ». L'offre gratuite est vraiment gratuite — 1 profil, 5 documents, toutes les fonctionnalités y compris l'OCR et les rappels.
 
 Concerne la version v1.x. Voir [Politique de tarification](https://traveldocumentvault.com/pricing-policy/#version-policy).
 

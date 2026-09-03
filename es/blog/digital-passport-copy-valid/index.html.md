@@ -22,11 +22,11 @@ Cuando planificas un viaje, muchos viajeros se preguntan si pueden guardar una c
 
 ### Check-in en el Hotel
 
-La mayoría de los hoteles en el mundo aceptan copias digitales del pasaporte para el check-in - un PDF en tu teléfono, enviado por correo electrónico con anticipación, o impreso. Esto es particularmente útil si te registras tarde o te mueves entre propiedades y no deseas llevar tu pasaporte físico durante todo el viaje. Algunos hoteles más pequeños, particularmente en regiones con menos infraestructura digital, aún prefieren el original. En partes de Europa - España, Francia e Italia entre ellas - los hoteles deben registrar tus datos para las autoridades y generalmente desearán ver el pasaporte físico para hacerlo, aunque la guía de protección de datos dice que típicamente no deberían guardar una copia. Contacta a tu alojamiento con anticipación para confirmar.
+La mayoría de los hoteles en el mundo aceptan copias digitales del pasaporte para el check-in —un PDF en tu teléfono, enviado por correo electrónico con anticipación, o impreso. Esto es particularmente útil si te registras tarde o te mueves entre propiedades y no deseas llevar tu pasaporte físico durante todo el viaje. Algunos hoteles más pequeños, particularmente en regiones con menos infraestructura digital, aún prefieren el original. En partes de Europa —España, Francia e Italia entre ellas— los hoteles deben registrar tus datos para las autoridades y generalmente desearán ver el pasaporte físico para hacerlo, aunque la guía de protección de datos dice que típicamente no deberían guardar una copia. Contacta a tu alojamiento con anticipación para confirmar.
 
 ### Reservas de Vuelo y Check-in en Línea
 
-Las aerolíneas requieren tu información de pasaporte al hacer una reserva, y muchas te permiten cargar una copia digital para verificar tu identidad en el check-in en línea - esto acelera el proceso en el aeropuerto. Aún necesitarás presentar el pasaporte original en la puerta. El rol de la copia digital es verificación previa al viaje, no documentación de embarque.
+Las aerolíneas requieren tu información de pasaporte al hacer una reserva, y muchas te permiten cargar una copia digital para verificar tu identidad en el check-in en línea —esto acelera el proceso en el aeropuerto. Aún necesitarás presentar el pasaporte original en la puerta. El rol de la copia digital es verificación previa al viaje, no documentación de embarque.
 
 ### Agencias de Alquiler de Coches
 
@@ -38,7 +38,7 @@ Si tu pasaporte se pierde o es robado mientras viajas, una copia digital puede a
 
 ## Dónde Tu Pasaporte Físico Siempre Es Obligatorio
 
-Una copia digital no es un sustituto para tu pasaporte físico en inmigración, con aerolíneas o con las fuerzas del orden. En estos escenarios, el documento original es simplemente obligatorio - no hay forma de evitarlo.
+Una copia digital no es un sustituto para tu pasaporte físico en inmigración, con aerolíneas o con las fuerzas del orden. En estos escenarios, el documento original es simplemente obligatorio —no hay forma de evitarlo.
 
 | Situación de Viaje | Se Acepta Copia Digital | Notas |
 |---|---|---|

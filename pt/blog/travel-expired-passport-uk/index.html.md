@@ -18,19 +18,19 @@ Source: https://traveldocumentvault.com/pt/blog/travel-expired-passport-uk/
 
 Se um passaporte que caduca antes da data de regresso causa problemas depende inteiramente do destino da viagem. Alguns países pedem apenas que seja válido no dia da entrada. Muitos exigem três ou seis meses para além disso.
 
-Não - um passaporte expirado não funciona para viagens internacionais. As companhias aéreas verificam a validade antes de emitir cartões de embarque, e se o seu passaporte estiver expirado negarão o acesso ao avião. O controlo de fronteiras faz a mesma verificação no seu destino. Deve renovar o seu passaporte antes de viajar internacionalmente.
+Não — um passaporte expirado não funciona para viagens internacionais. As companhias aéreas verificam a validade antes de emitir cartões de embarque, e se o seu passaporte estiver expirado negarão o acesso ao avião. O controlo de fronteiras faz a mesma verificação no seu destino. Deve renovar o seu passaporte antes de viajar internacionalmente.
 
 O que se segue é como isto acontece na prática: as suas opções limitadas, por que o tempo é tão importante, e o que fazer para evitar o pânico no check-in.
 
 ## A Regra Absoluta: Nenhuma Viagem Internacional com um Passaporte Expirado
 
-O Escritório de Passaportes de Sua Majestade é claro sobre isto: o seu passaporte deve ser válido no dia em que viaja - não apenas na chegada, não apenas por parte da viagem, mas no dia em que embarca no avião.
+O Escritório de Passaportes de Sua Majestade é claro sobre isto: o seu passaporte deve ser válido no dia em que viaja — não apenas na chegada, não apenas por parte da viagem, mas no dia em que embarca no avião.
 
-Quando chega ao check-in, o agente executa o número do seu passaporte no sistema e vê a data de expiração. Se estiver no passado, não emitiram um cartão de embarque - não importa se está a chegar a casa no dia depois de expirar. A mesma coisa acontece no controlo de fronteiras no seu destino: veem a expiração, negam a entrada. A proximidade da sua data de chegada real não faz diferença.
+Quando chega ao check-in, o agente executa o número do seu passaporte no sistema e vê a data de expiração. Se estiver no passado, não emitiram um cartão de embarque — não importa se está a chegar a casa no dia depois de expirar. A mesma coisa acontece no controlo de fronteiras no seu destino: veem a expiração, negam a entrada. A proximidade da sua data de chegada real não faz diferença.
 
-Esta regra aplica-se a todas as viagens internacionais - voos para a Europa ou travessias de ferry - quer tenha apenas passado a expiração ou tenha marcado meses em avanço. Se cruzar uma fronteira internacional e precisar mostrar o seu passaporte, deve ser válido nesse dia.
+Esta regra aplica-se a todas as viagens internacionais — voos para a Europa ou travessias de ferry — quer tenha apenas passado a expiração ou tenha marcado meses em avanço. Se cruzar uma fronteira internacional e precisar mostrar o seu passaporte, deve ser válido nesse dia.
 
-A única exceção é um documento de viagem de emergência britânico, emitido pelo Ministério dos Negócios Estrangeiros quando já está no estrangeiro numa emergência genuína, e mesmo assim existe apenas para o levar a casa - não para permitir viagens adicionais.
+A única exceção é um documento de viagem de emergência britânico, emitido pelo Ministério dos Negócios Estrangeiros quando já está no estrangeiro numa emergência genuína, e mesmo assim existe apenas para o levar a casa — não para permitir viagens adicionais.
 
 ## Pode Reservar Férias com um Passaporte Expirado?
 
@@ -46,7 +46,7 @@ Uma renovação já em curso é uma questão diferente, e depende de ter entregu
 
 As viagens domésticas dentro do Reino Unido e Irlanda diferem das viagens internacionais neste aspecto chave: as companhias aéreas podem aceitar documentos de identidade alternativos com fotografia como uma carteira de condutor do Reino Unido ou cartão de identidade nacional em vez de um passaporte. No entanto, o que é aceitável varia significativamente por companhia aérea e destino, portanto não pode assumir que qualquer documento de identidade funcionará.
 
-**Isto não é permissão para ignorar a renovação do passaporte.** Diferentes companhias aéreas têm políticas diferentes em rotas domésticas - algumas exigem um passaporte para todas as viagens para a Irlanda apesar da Área de Viagem Comum tecnicamente permitir viagens com cartão de identidade, enquanto outras aceitam uma carteira de condutor. As companhias aéreas atualizam as suas regras, e a sua transportadora pode ter alterado as suas desde a última vez que voou, portanto não pode assumir o que funcionou antes.
+**Isto não é permissão para ignorar a renovação do passaporte.** Diferentes companhias aéreas têm políticas diferentes em rotas domésticas — algumas exigem um passaporte para todas as viagens para a Irlanda apesar da Área de Viagem Comum tecnicamente permitir viagens com cartão de identidade, enquanto outras aceitam uma carteira de condutor. As companhias aéreas atualizam as suas regras, e a sua transportadora pode ter alterado as suas desde a última vez que voou, portanto não pode assumir o que funcionou antes.
 
 Se está a considerar viagem doméstica com um passaporte expirado, contacte a sua companhia aérea com antecedência suficiente antes do seu voo e pergunte explicitamente: "O meu passaporte do Reino Unido está expirado. Aceitará a minha carteira de condutor do Reino Unido em vez disso?" Obtenha confirmação por escrito se conseguir, pois chegar ao check-in com um documento de identidade alternativo e sem confirmação prévia é como as pessoas perdem voos.
 
@@ -64,13 +64,13 @@ Precisará também do seu passaporte antigo para candidatar-se independentemente
 
 As companhias aéreas usam Timatic, um sistema IATA que referencia cruzadamente o número do seu passaporte, nacionalidade e destino com requisitos de entrada, dizendo ao agente de check-in instantaneamente se é permitido viajar quando digitaliza o seu passaporte. Se o seu passaporte está expirado, Timatic marca-o a vermelho e o agente não pode contornar esta decisão mesmo que implore ou mostre um cartão de embarque de semanas atrás.
 
-O controlo de fronteiras faz a mesma verificação quando chega - por vezes até verificando duas vezes, uma vez quando sai do Reino Unido e novamente quando entra no seu destino. Um passaporte expirado será apanhado não importa o quanto tenha cuidado.
+O controlo de fronteiras faz a mesma verificação quando chega — por vezes até verificando duas vezes, uma vez quando sai do Reino Unido e novamente quando entra no seu destino. Um passaporte expirado será apanhado não importa o quanto tenha cuidado.
 
 A única área cinzenta que existe é como as companhias aéreas e o controlo de fronteiras lidam com passaportes que estão "a expirar em breve" mas não ainda expirados, onde alguns agentes são rigorosos sobre a regra de 6 meses para certos destinos e outros não. Mas uma vez que o seu passaporte tenha ultrapassado a data de expiração não há área cinzenta em tudo.
 
 ## Seguro de Viagem e Documentos Expirados
 
-A maioria das apólices de seguro de viagem incluem uma cláusula de invalidação para documentos de viagem expirados ou inválidos. As seguradoras podem rejeitar a sua reclamação inteira se viajou com um passaporte expirado - a linguagem tipicamente lê algo como: "Esta apólice é nula se o segurado viajou com um documento de viagem inválido ou expirado."
+A maioria das apólices de seguro de viagem incluem uma cláusula de invalidação para documentos de viagem expirados ou inválidos. As seguradoras podem rejeitar a sua reclamação inteira se viajou com um passaporte expirado — a linguagem tipicamente lê algo como: "Esta apólice é nula se o segurado viajou com um documento de viagem inválido ou expirado."
 
 Isto aplica-se quer o seu passaporte tenha expirado antes de sair do Reino Unido ou enquanto estava no estrangeiro, e quer a viagem tenha sido um fim de semana de um dia ou uma viagem de três meses à volta do mundo. Uma ultrapassagem de um único dia na sua data de expiração do passaporte pode arruinar uma reclamação que de outra forma seria válida.
 
@@ -80,19 +80,19 @@ Isto aplica-se quer o seu passaporte tenha expirado antes de sair do Reino Unido
 
 ## Se Já Está no Estrangeiro e o Seu Passaporte Expira
 
-Este é o cenário genuinamente difícil. Se está a viajar e o seu passaporte expira antes de regressar, não pode embarcar num voo ou ferry para casa. Precisará contactar a embaixada ou consulado britânico mais próximo para um documento de viagem de emergência - por vezes chamado ETD ou passaporte de emergência - que é válido apenas para ir para casa.
+Este é o cenário genuinamente difícil. Se está a viajar e o seu passaporte expira antes de regressar, não pode embarcar num voo ou ferry para casa. Precisará contactar a embaixada ou consulado britânico mais próximo para um documento de viagem de emergência — por vezes chamado ETD ou passaporte de emergência — que é válido apenas para ir para casa.
 
-O processo é lento e burocrático. Precisará fornecer prova de identidade e pagar a taxa, cujo valor atual é publicado pelo Foreign, Commonwealth and Development Office. O tempo de processamento varia consoante a embaixada e a urgência da sua situação, portanto pergunte o que esperar assim que os contactar. O documento de emergência não é um passaporte turístico - é válido apenas para a viagem específica para o Reino Unido sem permitir viagem adicional.
+O processo é lento e burocrático. Precisará fornecer prova de identidade e pagar a taxa, cujo valor atual é publicado pelo Foreign, Commonwealth and Development Office. O tempo de processamento varia consoante a embaixada e a urgência da sua situação, portanto pergunte o que esperar assim que os contactar. O documento de emergência não é um passaporte turístico — é válido apenas para a viagem específica para o Reino Unido sem permitir viagem adicional.
 
 Coloque lembretes meses em avanço em vez do dia antes de viajar, pois lembretes a partir de oito meses antes, e novamente à medida que a data se aproxima, dão-lhe tempo para renovar no processamento padrão em vez de pagar por marcações de emergência. Se o seu passaporte expira dentro de 6 meses da sua viagem, comece o processo de renovação agora antes de se comprometer com datas de viagem.
 
 ## Mal-Entendidos Comuns Sobre Validade de Passaporte
 
-Os viajantes frequentemente confundem a data de validade do seu próprio passaporte com regras específicas do destino. O seu passaporte é válido até à data impressa nele - essa é a linha de base. Mas alguns países exigem que permaneça válido por um período específico além da sua data de chegada, e isso é um requisito separado da expiração em si.
+Os viajantes frequentemente confundem a data de validade do seu próprio passaporte com regras específicas do destino. O seu passaporte é válido até à data impressa nele — essa é a linha de base. Mas alguns países exigem que permaneça válido por um período específico além da sua data de chegada, e isso é um requisito separado da expiração em si.
 
 [Muitos países aplicam uma regra de seis meses exigindo que o seu passaporte permaneça válido por pelo menos seis meses além da sua data de partida planeada](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/), enquanto alguns aplicam três meses e outros aplicam um mês. Nenhuma destas regras permite viagem com um passaporte expirado porque estabelecem um padrão mais rigoroso onde a renovação deve acontecer ainda mais cedo do que a própria data de expiração do passaporte.
 
-Não assuma que pode viajar "porque volta antes de expirar" - o seu passaporte deve ser válido no dia em que embarca no seu voo de partida e se expira o dia depois de voltar ainda assim não pode viajar. As companhias aéreas não permitem viagem se o seu passaporte está expirado no dia da partida.
+Não assuma que pode viajar "porque volta antes de expirar" — o seu passaporte deve ser válido no dia em que embarca no seu voo de partida e se expira o dia depois de voltar ainda assim não pode viajar. As companhias aéreas não permitem viagem se o seu passaporte está expirado no dia da partida.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

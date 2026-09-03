@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/fr/blog/travel-insurance-documents/
 ## Points clés à retenir
 
 - **Conservez votre document de police complet, le numéro de police et la ligne d'urgence 24 h/24** (et non le numéro commercial).
-- Stockez les copies hors ligne et d'accès facile - l'e-mail seul ne vous aidera pas si vous êtes bloqué ou à l'hôpital.
+- Stockez les copies hors ligne et d'accès facile — l'e-mail seul ne vous aidera pas si vous êtes bloqué ou à l'hôpital.
 - **La préautorisation pour le traitement médical est exigée par la plupart des polices** ; l'ignorer peut réduire ou annuler votre réclamation.
 - Les réclamations refusées le plus souvent en raison de documents manquants : rapport de police pour vol, reçus originaux, formulaires de réclamation signés.
 - Lisez rapidement les sections clés de votre police en vous concentrant sur les limites de couverture, les exclusions et les conditions.
@@ -24,14 +24,14 @@ Il est 2 heures du matin à Bangkok et vous avez une intoxication alimentaire et
 
 Quelques documents manquants ne sont pas simplement gênants ici. Ils décident si le traitement commence immédiatement, si vous payez de votre poche et réclamez plus tard, ou si la réclamation est refusée purement et simplement.
 
-L'assurance voyage ne fonctionne que si vous pouvez y accéder quand vous en avez besoin. La plupart des gens la stockent par e-mail et ne peuvent pas la trouver en cas de crise - généralement lors du stress, de la pression du temps, ou d'une urgence médicale.
+L'assurance voyage ne fonctionne que si vous pouvez y accéder quand vous en avez besoin. La plupart des gens la stockent par e-mail et ne peuvent pas la trouver en cas de crise — généralement lors du stress, de la pression du temps, ou d'une urgence médicale.
 
 ## Les cinq documents que vous devez conserver avant de partir
 
 Votre police d'assurance voyage est généralement un PDF. Ce seul fichier contient tout ce dont vous avez besoin, mais vous devriez extraire et conserver ces cinq choses séparément pour pouvoir les trouver instantanément :
 
 - Document de police complet (le PDF)
-- Numéro de police (extrayez-le - écrivez-le aussi séparément)
+- Numéro de police (extrayez-le — écrivez-le aussi séparément)
 - Ligne d'urgence 24 h/24 (différente du numéro de vente ou de service client)
 - Section de couverture (limites de versement pour médical, bagages, annulation, etc.)
 - Exclusions et conditions clés (y compris les exigences de préautorisation)
@@ -58,7 +58,7 @@ Pour la sauvegarde, enregistrez vos documents d'assurance dans un lecteur cloud 
 
 ### Copie physique avec vos documents de voyage
 
-Stockez une copie physique - ou une photo de bonne qualité des pages critiques - aux côtés de votre passeport, documents de visa et autres documents de voyage. Si votre téléphone meurt, c'est votre plan de secours.
+Stockez une copie physique — ou une photo de bonne qualité des pages critiques — aux côtés de votre passeport, documents de visa et autres documents de voyage. Si votre téléphone meurt, c'est votre plan de secours.
 
 Une carte manuscrite fait le même travail qu'une impression : numéro de police, nom de l'assureur, ligne d'urgence. Glissez-la dans le portefeuille du passeport et elle survivra à une batterie déchargée, un téléphone perdu et un coffre-fort de l'hôtel que vous ne pouvez pas ouvrir.
 
@@ -78,7 +78,7 @@ Même si vous avez vos documents accessibles, vous pouvez toujours perdre votre 
 
 ### Réclamations médicales : vous n'avez pas obtenu de préautorisation
 
-La plupart des polices d'assurance voyage exigent une préautorisation avant traitement. Cela signifie appeler votre assureur et obtenir l'approbation avant de visiter un hôpital ou une clinique. Les exigences varient selon l'assureur et le type de police - vérifiez la section traitement médical de votre police spécifique. Si vous sautez cette étape et payez de votre poche, vous serez souvent rejeté avec « le traitement n'a pas été préautorisé ». De nombreux assureurs n'offriront pas de remboursement sans préautorisation, même si le traitement était nécessaire et couvert.
+La plupart des polices d'assurance voyage exigent une préautorisation avant traitement. Cela signifie appeler votre assureur et obtenir l'approbation avant de visiter un hôpital ou une clinique. Les exigences varient selon l'assureur et le type de police — vérifiez la section traitement médical de votre police spécifique. Si vous sautez cette étape et payez de votre poche, vous serez souvent rejeté avec « le traitement n'a pas été préautorisé ». De nombreux assureurs n'offriront pas de remboursement sans préautorisation, même si le traitement était nécessaire et couvert.
 
 Disons que vous êtes hospitalisé pour appendicite à Mumbai. L'hôpital exige un paiement d'avance ou une garantie de votre assureur, et vous avez une fenêtre de deux heures avant la chirurgie. Sans le numéro de préautorisation de votre assureur, l'hôpital exige l'argent comptant. Cela vous laisse deux mauvaises options : payer maintenant et risquer une réclamation refusée des mois plus tard, ou retarder la chirurgie pendant que vous poursuivez votre assureur. Un appel évite tout. Avec un numéro de confirmation en main, l'hôpital facture votre assureur directement.
 

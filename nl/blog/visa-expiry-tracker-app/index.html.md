@@ -10,15 +10,15 @@ Source: https://traveldocumentvault.com/nl/blog/visa-expiry-tracker-app/
 
 ## Belangrijkste punten
 
-- Visumbeheer is **complexer** dan paspoortbeheer - een visum heeft een geldigheidsdatum voor inreis, een maximale verblijfsduur en soms een limiet op het aantal inreizen, en dat moet allemaal apart worden bijgehouden.
+- Visumbeheer is **complexer** dan paspoortbeheer – een visum heeft een geldigheidsdatum voor inreis, een maximale verblijfsduur en soms een limiet op het aantal inreizen, en dat moet allemaal apart worden bijgehouden.
 - Een overstay op een visum heeft serieuze gevolgen: boetes, inreisverboden van jaren of langer, en in sommige landen strafrechtelijke vervolging.
 - De beste apps voor visumvervaldatums werken offline, ondersteunen meerdere visumtypen en laten je zelf herinneringstijden per document instellen.
-- Bezoekers van het Schengengebied moeten een voortschrijdend venster van 90/180 dagen bijhouden, niet slechts één enkele vervaldatum - de meeste algemene reisapps doen dit niet correct.
+- Bezoekers van het Schengengebied moeten een voortschrijdend venster van 90/180 dagen bijhouden, niet slechts één enkele vervaldatum – de meeste algemene reisapps doen dit niet correct.
 - Visa en paspoorten samen op één plek bijhouden verkleint het risico op een mismatch: inreizen op een geldig visum maar met een paspoort dat verloopt voordat het geplande verblijf eindigt.
 
-Een visumoverstay is een van de meest verstrekkende reisfouten die iemand kan maken. In tegenstelling tot een gemiste vlucht - stressvol maar uiteindelijk oplosbaar - laat een overstay een formeel immigratiedossier achter dat je jarenlang kan achtervolgen. In de Verenigde Staten leidt een overstay van slechts 180 dagen tot een automatisch inreisverbod van 3 jaar op grond van INA-sectie 212(a)(9)(B)(i), en een overstay van een jaar leidt tot een verbod van 10 jaar. Deze gevolgen zijn niet algemeen bekend, maar worden gedocumenteerd door de Amerikaanse immigratiedienst USCIS.
+Een visumoverstay is een van de meest verstrekkende reisfouten die iemand kan maken. In tegenstelling tot een gemiste vlucht – stressvol maar uiteindelijk oplosbaar – laat een overstay een formeel immigratiedossier achter dat je jarenlang kan achtervolgen. In de Verenigde Staten leidt een overstay van slechts 180 dagen tot een automatisch inreisverbod van 3 jaar op grond van INA-sectie 212(a)(9)(B)(i), en een overstay van een jaar leidt tot een verbod van 10 jaar. Deze gevolgen zijn niet algemeen bekend, maar worden gedocumenteerd door de Amerikaanse immigratiedienst USCIS.
 
-Een app voor visumvervaldatums is gebouwd om precies dit te voorkomen, omdat hij meerdere datums tegelijk bijhoudt - geldigheid voor inreis, maximale verblijfsduur en aantal inreizen - op een manier die algemene paspoort-apps niet kunnen.
+Een app voor visumvervaldatums is gebouwd om precies dit te voorkomen, omdat hij meerdere datums tegelijk bijhoudt – geldigheid voor inreis, maximale verblijfsduur en aantal inreizen – op een manier die algemene paspoort-apps niet kunnen.
 
 ## Waarom visumbeheer complexer is dan paspoortbeheer
 
@@ -35,7 +35,7 @@ Een reiziger reist Vietnam binnen op een visum met de stempel "geldig tot 30 jun
 | **Aantal inreizen** | Enkele, dubbele of meervoudige inreis toegestaan | Een visum voor enkele inreis vervalt op het moment dat je vertrekt, ook als de geldigheidsdatum nog niet is verstreken |
 | **Regels voor voortschrijdend venster** | Sommige visumregelingen (met name Schengen) berekenen toegestane dagen binnen een voortschrijdend venster | Schengen: maximaal 90 dagen binnen elke periode van 180 dagen, niet per kalenderjaar |
 
-Een app die alleen de geldigheidsdatum voor inreis bijhoudt, mist precies deze valkuil: de maximale verblijfsduur overschrijden na een volkomen legale inreis. Het is het veld dat de meeste reizigers vergeten bij te houden, omdat de datum nergens in het paspoort staat gestempeld - je moet hem zelf berekenen op basis van je eigen inreisdatum.
+Een app die alleen de geldigheidsdatum voor inreis bijhoudt, mist precies deze valkuil: de maximale verblijfsduur overschrijden na een volkomen legale inreis. Het is het veld dat de meeste reizigers vergeten bij te houden, omdat de datum nergens in het paspoort staat gestempeld – je moet hem zelf berekenen op basis van je eigen inreisdatum.
 
 ## De 90/180-dagenregel van Schengen
 
@@ -43,7 +43,7 @@ Voor reizigers die meerdere Europese landen bezoeken, is de 90/180-dagenregel va
 
 De Europese Commissie biedt een officiële Schengen-verblijfscalculator om reizigers te helpen hun toegestane dagen te berekenen, wat belangrijk is omdat het om een *voortschrijdend venster* gaat, niet om een reset per kalenderjaar. Dagen die zes maanden geleden in Schengen zijn doorgebracht, tellen nog steeds mee voor je huidige limiet.
 
-De meeste algemene paspoort- of documentapps doen dit niet correct. Een app die simpelweg een visumvervaldatum toont, kan geen Schengen-naleving beheren - dat vereist het berekenen van dagen binnen een voortschrijdend venster op basis van daadwerkelijke in- en uitreisdatums.
+De meeste algemene paspoort- of documentapps doen dit niet correct. Een app die simpelweg een visumvervaldatum toont, kan geen Schengen-naleving beheren – dat vereist het berekenen van dagen binnen een voortschrijdend venster op basis van daadwerkelijke in- en uitreisdatums.
 
 ## Wat er gebeurt als je een visum overschrijdt
 
@@ -73,8 +73,8 @@ Met al deze complexiteit in gedachten moet een goede app voor visumvervaldatums 
 ## Praktische stappen om je visum goed bij te houden
 
 1. **Noteer je inreisdatum op de dag dat je aankomt.** De klok voor je maximale verblijfsduur begint direct te lopen bij inreis, niet vanaf de afgifte van het visum of het begin van de geldigheidsperiode voor inreis.
-2. **Bereken en noteer je laatst toegestane vertrekdatum.** Tel je maximale verblijfsduur op bij je inreisdatum. Dit is de datum waarop je uiterlijk moet vertrekken - eerder als je tijd nodig hebt om een vertrekpunt te bereiken.
-3. **Houd bij of het gaat om enkele of meervoudige inreis.** Als je visum voor enkele inreis geldt, vervalt het bij een dagtrip naar een buurland - plan dienovereenkomstig.
+2. **Bereken en noteer je laatst toegestane vertrekdatum.** Tel je maximale verblijfsduur op bij je inreisdatum. Dit is de datum waarop je uiterlijk moet vertrekken – eerder als je tijd nodig hebt om een vertrekpunt te bereiken.
+3. **Houd bij of het gaat om enkele of meervoudige inreis.** Als je visum voor enkele inreis geldt, vervalt het bij een dagtrip naar een buurland – plan dienovereenkomstig.
 4. **Houd voor Schengenreizen een logboek bij van in- en uitreisdatums.** Gebruik de officiële calculator van de Europese Commissie om je resterende dagen te controleren vóór elke reis die volgt op recente Schengenreizen.
 5. **Stel ruim vóór je maximale verblijfsdeadline een herinnering in.** Dat geeft je tijd om een vertrek zonder haast te regelen, vooral als de vervoersmogelijkheden op je bestemming beperkt zijn.
 
@@ -86,7 +86,7 @@ Regels die samenhangen met visumbeheer: bekijk onze gids over [de 6 maanden-pasp
 
 ### Wat is een app voor visumvervaldatums?
 
-Een app voor visumvervaldatums houdt bij wanneer je visa verlopen en stuurt herinneringen voordat dat gebeurt. De beste apps volgen zowel de geldigheidsperiode voor inreis als de maximale verblijfsduur - twee verschillende deadlines die allebei belangrijk zijn om een overstay te voorkomen.
+Een app voor visumvervaldatums houdt bij wanneer je visa verlopen en stuurt herinneringen voordat dat gebeurt. De beste apps volgen zowel de geldigheidsperiode voor inreis als de maximale verblijfsduur – twee verschillende deadlines die allebei belangrijk zijn om een overstay te voorkomen.
 
 ### Wat is het verschil tussen een visumvervaldatum en een maximale verblijfsduur?
 
@@ -94,11 +94,11 @@ De visumvervaldatum is de laatste datum waarop je het visum kunt gebruiken om he
 
 ### Wat gebeurt er als je een visum overschrijdt (overstay)?
 
-De gevolgen verschillen per land, maar omvatten vaak boetes, inreisverboden en uitzetting. In de VS leidt een overstay van 180 dagen tot een automatisch inreisverbod van 3 jaar, en een overstay van 1 jaar tot een verbod van 10 jaar - zoals gedocumenteerd door USCIS. Overstays worden geregistreerd in immigratiedatabases en beïnvloeden toekomstige visumaanvragen.
+De gevolgen verschillen per land, maar omvatten vaak boetes, inreisverboden en uitzetting. In de VS leidt een overstay van 180 dagen tot een automatisch inreisverbod van 3 jaar, en een overstay van 1 jaar tot een verbod van 10 jaar – zoals gedocumenteerd door USCIS. Overstays worden geregistreerd in immigratiedatabases en beïnvloeden toekomstige visumaanvragen.
 
 ### Kan een app voor visumvervaldatums offline werken?
 
-De beste apps kunnen dat. Offline toegang is het belangrijkst bij grenzen en op plekken met onbetrouwbare internetverbinding - precies waar je je visumgegevens het hardst nodig hebt. Apps die internet vereisen om je documenten te tonen, zijn minder bruikbaar in dat soort situaties.
+De beste apps kunnen dat. Offline toegang is het belangrijkst bij grenzen en op plekken met onbetrouwbare internetverbinding – precies waar je je visumgegevens het hardst nodig hebt. Apps die internet vereisen om je documenten te tonen, zijn minder bruikbaar in dat soort situaties.
 
 ### Hoe ver van tevoren moet ik een herinnering krijgen voordat mijn visum verloopt?
 

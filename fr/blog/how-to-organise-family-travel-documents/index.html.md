@@ -10,13 +10,13 @@ Source: https://traveldocumentvault.com/fr/blog/how-to-organise-family-travel-do
 
 ## Points clés à retenir
 
-- Votre liste de contrôle des documents de voyage en famille doit inclure les passeports, les visas, l'assurance voyage et les dossiers de vaccination - et c'est avant de prendre en compte les documents spécifiques aux voyages avec des enfants.
+- Votre liste de contrôle des documents de voyage en famille doit inclure les passeports, les visas, l'assurance voyage et les dossiers de vaccination — et c'est avant de prendre en compte les documents spécifiques aux voyages avec des enfants.
 - Gardez tous les passeports au même endroit à la maison. Pas le tiroir à bric-à-brac. Pas une poche de manteau. Un seul endroit, toujours.
 - Les sauvegardes numériques ne vous aideront pas à passer l'immigration, mais elles vous sauveront des heures à l'ambassade si quelque chose disparaît. Stockez-les de manière chiffrée, pas dans votre galerie de photos.
-- Suivre les dates d'expiration avant de réserver - pas la semaine avant de voler - est l'habitude qui prévient la plupart des désastres documentaires.
+- Suivre les dates d'expiration avant de réserver — pas la semaine avant de voler — est l'habitude qui prévient la plupart des désastres documentaires.
 - Une liste de contrôle pré-voyage que vous exécutez au moment de la réservation vous donne suffisamment de temps pour corriger tout problème avant qu'il ne devienne coûteux.
 
-Il est 23h la nuit avant un vol, les passeports sont dehors, l'impression d'assurance est quelque part, mais le certificat de vaccination - celui que la destination exige réellement - a disparu de la maison. C'est le problème lorsque vous n'avez pas de système pour les documents de voyage en famille: vous faites une recherche différente à chaque fois, et finalement quelque chose d'important ne réapparaît pas.
+Il est 23h la nuit avant un vol, les passeports sont dehors, l'impression d'assurance est quelque part, mais le certificat de vaccination — celui que la destination exige réellement — a disparu de la maison. C'est le problème lorsque vous n'avez pas de système pour les documents de voyage en famille: vous faites une recherche différente à chaque fois, et finalement quelque chose d'important ne réapparaît pas.
 
 Savoir comment organiser les documents de voyage pour toute une famille est l'une de ces choses qui semblent optionnelles jusqu'à ce qu'elles ne le soient plus. Ce guide vous montre comment le mettre en place une fois et arrêter de vous précipiter avant chaque voyage.
 
@@ -39,13 +39,13 @@ Cela dépend de votre destination, mais pour la plupart des voyages internationa
 
 **Documents spécifiques aux voyages avec des enfants**
 
-- Certificats de naissance - parfois exigés à l'immigration, en particulier lorsque le nom de famille d'un enfant diffère du parent voyageant
-- Une lettre de consentement parental signée si un parent n'est pas présent - fortement recommandée pour les voyages en solo parental ou grands-parents
+- Certificats de naissance — parfois exigés à l'immigration, en particulier lorsque le nom de famille d'un enfant diffère du parent voyageant
+- Une lettre de consentement parental signée si un parent n'est pas présent — fortement recommandée pour les voyages en solo parental ou grands-parents
 - Ordonnances de garde du tribunal, le cas échéant
 
 ### Lettre de consentement pour enfants: quand en avez-vous besoin?
 
-Une lettre de consentement pour enfants est un document signé par le parent absent (ou tuteur légal) donnant la permission à l'enfant de voyager. Elle n'est pas universellement exigée par la loi, mais les agents d'immigration dans de nombreux pays - y compris les États-Unis, le Canada, le Mexique et plusieurs autres - la demandent régulièrement lorsqu'un enfant voyage avec un seul parent ou avec un autre adulte.
+Une lettre de consentement pour enfants est un document signé par le parent absent (ou tuteur légal) donnant la permission à l'enfant de voyager. Elle n'est pas universellement exigée par la loi, mais les agents d'immigration dans de nombreux pays — y compris les États-Unis, le Canada, le Mexique et plusieurs autres — la demandent régulièrement lorsqu'un enfant voyage avec un seul parent ou avec un autre adulte.
 
 Sans elle, vous pouvez faire face à des retards, des questions supplémentaires, ou dans certains cas, une entrée refusée. Certains pays, comme le Canada et l'Afrique du Sud, sont connus pour demander strictement cette documentation.
 
@@ -61,7 +61,7 @@ Une lettre de consentement valide doit inclure: le nom complet et la date de nai
 
 Les originaux vivent au même endroit, et cet endroit n'existe que pour les documents de voyage. Pas un tiroir "papiers importants divers" où ils concurrencent les vieilles factures de services publics.
 
-Un portefeuille de voyage dédié ou une pochette - du type qui contient plusieurs passeports à côté de documents A4 pliés - fait bien le travail; étiquetez-le et gardez-le quelque part de manière cohérente: une étagère spécifique, un tiroir de bureau à domicile, ou une boîte de rangement ignifuge si vous voulez la sécurité supplémentaire.
+Un portefeuille de voyage dédié ou une pochette — du type qui contient plusieurs passeports à côté de documents A4 pliés — fait bien le travail; étiquetez-le et gardez-le quelque part de manière cohérente: une étagère spécifique, un tiroir de bureau à domicile, ou une boîte de rangement ignifuge si vous voulez la sécurité supplémentaire.
 
 **La discipline qui fait ou détruit tout système est de remettre les documents immédiatement après utilisation.** Les documents ne disparaissent pas à cause du vol mais parce que quelqu'un a utilisé un, l'a posé quelque part temporairement, et il a été enterré. "Je le remettrai plus tard" est comment vous finissez par chercher dans toute la maison à 23h.
 
@@ -71,15 +71,15 @@ Si vos enfants sont assez âgés pour porter leur propre passeport à travers un
 
 Les copies numériques ne vous feront pas passer l'immigration. Un agent à la frontière veut l'original, c'est tout. Mais une sauvegarde numérique sécurisée est vraiment utile si l'original se perd ou est volé pendant que vous voyagez à l'étranger.
 
-Lorsque quelque chose disparaît, avoir le numéro du document, la date d'expiration et une copie claire prête coupe des heures du processus de dépôt d'un rapport de police ou d'obtention d'un document de voyage d'urgence auprès d'une ambassade. Une sauvegarde de numérisation n'est pas paranoïa - c'est juste du bon sens.
+Lorsque quelque chose disparaît, avoir le numéro du document, la date d'expiration et une copie claire prête coupe des heures du processus de dépôt d'un rapport de police ou d'obtention d'un document de voyage d'urgence auprès d'une ambassade. Une sauvegarde de numérisation n'est pas paranoïa — c'est juste du bon sens.
 
-L'endroit où vous stockez les numérisations est plus important que la plupart des gens ne le réalisent. Une galerie de photos générale - Google Photos, iCloud, votre galerie - est pratique mais elle n'est pas conçue pour les documents sensibles. Si quelqu'un accède à votre galerie de photos, il aura aussi vos numérisations de passeport. Une solution chiffrée et dédiée en vaut la peine.
+L'endroit où vous stockez les numérisations est plus important que la plupart des gens ne le réalisent. Une galerie de photos générale — Google Photos, iCloud, votre galerie — est pratique mais elle n'est pas conçue pour les documents sensibles. Si quelqu'un accède à votre galerie de photos, il aura aussi vos numérisations de passeport. Une solution chiffrée et dédiée en vaut la peine.
 
 Cela signifie en pratique
 
 Si votre téléphone est volé et que le voleur accède à votre galerie de photos, il a une numérisation claire de la page de données de votre passeport: votre nom, date de naissance, numéro de passeport et votre photo. C'est suffisant pour la fraude d'identité. Stocker les numérisations de passeport dans une application chiffrée qui nécessite un PIN séparé ou une biométrie est sensiblement plus sûr qu'une galerie de photos, même si les deux se trouvent sur le même appareil.
 
-[Travel Document Vault](https://traveldocumentvault.com) stocke tout sur l'appareil avec un chiffrement fort (sauvegarde chiffrée optionnelle vers votre propre iCloud ou Google Drive avec Pro). Chaque membre de la famille obtient son propre profil, et les dates d'expiration sont suivies automatiquement. Si vous préférez le faire vous-même, un dossier chiffré dans un gestionnaire de mots de passe de confiance fonctionne aussi - il vous rappellera juste quand quelque chose est sur le point d'expirer.
+[Travel Document Vault](https://traveldocumentvault.com) stocke tout sur l'appareil avec un chiffrement fort (sauvegarde chiffrée optionnelle vers votre propre iCloud ou Google Drive avec Pro). Chaque membre de la famille obtient son propre profil, et les dates d'expiration sont suivies automatiquement. Si vous préférez le faire vous-même, un dossier chiffré dans un gestionnaire de mots de passe de confiance fonctionne aussi — il vous rappellera juste quand quelque chose est sur le point d'expirer.
 
 ## Suivi des dates d'expiration: la partie la plus négligée
 
@@ -91,15 +91,15 @@ Voici le modèle d'échec qui attrape les familles: vous renouvelez votre propre
 
 - **Rappels de calendrier:** Définissez-en un 12 mois avant chaque expiration de document et un autre à 6 mois. Vous devrez vous souvenir de mettre à jour ces derniers lorsque les documents sont renouvelés, et vous devez avoir accès aux dates d'expiration en premier lieu.
 - **Feuille de calcul:** Fonctionne bien si vous la maintenez réellement. Une ligne par document par personne, la date d'expiration, et une formule qui met en évidence tout ce qui expire dans les 12 mois.
-- **Application dédiée:** Des outils comme Travel Document Vault gèrent les rappels automatiquement - numérisez le document, confirmez la date d'expiration, et il planifie des alertes dès huit mois avant l'échéance, puis à intervalles plus rapprochés, sans que vous ayez à y penser.
+- **Application dédiée:** Des outils comme Travel Document Vault gèrent les rappels automatiquement — numérisez le document, confirmez la date d'expiration, et il planifie des alertes dès huit mois avant l'échéance, puis à intervalles plus rapprochés, sans que vous ayez à y penser.
 
-N'importe lequel de ces trois approches fonctionne - ce qui compte est de choisir une qui correspond à votre fonctionnement et de vous y tenir réellement.
+N'importe lequel de ces trois approches fonctionne — ce qui compte est de choisir une qui correspond à votre fonctionnement et de vous y tenir réellement.
 
-**Travel Document Vault** gère le suivi de l'expiration pour tous les membres de la famille automatiquement - numérisez chaque passeport une fois et recevez des rappels dès huit mois avant l'échéance. Pas de feuille de calcul, pas de renouvellements oubliés. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** gère le suivi de l'expiration pour tous les membres de la famille automatiquement — numérisez chaque passeport une fois et recevez des rappels dès huit mois avant l'échéance. Pas de feuille de calcul, pas de renouvellements oubliés. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Liste de contrôle pré-voyage pour les familles
 
-Exécutez cette liste lorsque vous réservez - pas la nuit avant de partir. C'est ce qui vous donne suffisamment de temps pour corriger tout ce qui doit être corrigé.
+Exécutez cette liste lorsque vous réservez — pas la nuit avant de partir. C'est ce qui vous donne suffisamment de temps pour corriger tout ce qui doit être corrigé.
 
 ### À la réservation
 
@@ -117,12 +117,12 @@ Exécutez cette liste lorsque vous réservez - pas la nuit avant de partir. C'es
 
 ### La nuit avant
 
-- Passeports dehors et comptabilisés - un par personne
+- Passeports dehors et comptabilisés — un par personne
 - Certificat d'assurance voyage dans votre sac ou téléphone
 - Cartes d'embarquement téléchargées ou imprimées
 - Tous les certificats de vaccination requis accessibles
 
-Pour plus d'informations sur des sujets spécifiques, consultez les [conseils sur les documents de voyage](https://traveldocumentvault.com/fr/) sur le blog - il y a des articles détaillés sur les calendriers de renouvellement des passeports et ce que vous devez savoir sur le stockage numérique.
+Pour plus d'informations sur des sujets spécifiques, consultez les [conseils sur les documents de voyage](https://traveldocumentvault.com/fr/) sur le blog — il y a des articles détaillés sur les calendriers de renouvellement des passeports et ce que vous devez savoir sur le stockage numérique.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
@@ -134,7 +134,7 @@ Les documents clés pour les voyages internationaux en famille sont les passepor
 
 ### Est-il sûr de conserver des copies numériques des documents de voyage?
 
-Les copies numériques sont des sauvegardes utiles mais ne remplaceront pas les originaux à l'immigration. La sécurité dépend entièrement de l'endroit où vous les stockez - les applications chiffrées sur l'appareil sont beaucoup plus sûres qu'une galerie de photos générale ou un stockage en nuage non chiffré.
+Les copies numériques sont des sauvegardes utiles mais ne remplaceront pas les originaux à l'immigration. La sécurité dépend entièrement de l'endroit où vous les stockez — les applications chiffrées sur l'appareil sont beaucoup plus sûres qu'une galerie de photos générale ou un stockage en nuage non chiffré.
 
 ### Quel est le meilleur moyen d'organiser les passeports en famille?
 
@@ -142,11 +142,11 @@ Gardez tous les passeports ensemble dans un portefeuille de voyage dédié ou un
 
 ### Combien de temps à l'avance dois-je vérifier les documents de voyage?
 
-Vérifiez avant de réserver les vols - et au minimum trois mois avant de voyager. Les renouvellements de passeport prennent plusieurs semaines - actuellement 4 à 6 semaines en routine aux États-Unis et généralement autour de 3 semaines au Royaume-Uni - donc attendre jusqu'à ce que vous soyez proche de votre date de départ est un pari que vous ne voulez pas faire. Vérifiez auprès de votre autorité officielle responsable des passeports pour les délais actuels. Vérifier au moment de la réservation est l'habitude la plus sûre à adopter.
+Vérifiez avant de réserver les vols — et au minimum trois mois avant de voyager. Les renouvellements de passeport prennent plusieurs semaines — actuellement 4 à 6 semaines en routine aux États-Unis et généralement autour de 3 semaines au Royaume-Uni — donc attendre jusqu'à ce que vous soyez proche de votre date de départ est un pari que vous ne voulez pas faire. Vérifiez auprès de votre autorité officielle responsable des passeports pour les délais actuels. Vérifier au moment de la réservation est l'habitude la plus sûre à adopter.
 
 ### Ai-je besoin d'une lettre de consentement si je voyage seul avec mon enfant?
 
-Vous pourriez ne pas être légalement obligé d'en avoir une, mais c'est fortement recommandé. Les agents d'immigration dans des pays comme le Canada, l'Afrique du Sud, le Mexique et de nombreux autres demandent régulièrement une lettre de consentement pour enfants lorsqu'un enfant voyage avec un seul parent. Sans elle, vous risquez des retards, des questions ou une entrée refusée. La lettre doit inclure les détails de l'enfant, les coordonnées des deux parents, les dates de voyage, les destinations et la signature du parent absent - idéalement notariée.
+Vous pourriez ne pas être légalement obligé d'en avoir une, mais c'est fortement recommandé. Les agents d'immigration dans des pays comme le Canada, l'Afrique du Sud, le Mexique et de nombreux autres demandent régulièrement une lettre de consentement pour enfants lorsqu'un enfant voyage avec un seul parent. Sans elle, vous risquez des retards, des questions ou une entrée refusée. La lettre doit inclure les détails de l'enfant, les coordonnées des deux parents, les dates de voyage, les destinations et la signature du parent absent — idéalement notariée.
 
 ## Articles associés
 

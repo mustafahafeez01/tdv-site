@@ -12,9 +12,9 @@ Travel Document Vault 为您提供三层保护。以下是每一层的功能、�
 
 您的文档存储在您的设备上。它们不会上传到我们的服务器。三种备份机制各有用途，您可以同时使用所有三种。
 
-- **自动本地备份** - 在后台静默进行，无需任何操作。
-- **Vault Export (.tdvault)** - 一个可移植加密文件，您可以保存在任何选择的位置。
-- **云备份 (Pro)** - 您自己的 iCloud 或 Google Drive 中的自动加密副本。
+- **自动本地备份**：在后台静默进行，无需任何操作。
+- **Vault Export (.tdvault)**：一个可移植加密文件，您可以保存在任何选择的位置。
+- **云备份 (Pro)**：您自己的 iCloud 或 Google Drive 中的自动加密副本。
 
 ## 概览
 
@@ -34,7 +34,7 @@ Travel Document Vault 为您提供三层保护。以下是每一层的功能、�
 
 这些本地快照保留在您的设备上。系统备份（iCloud Backup、Google Backup）会重新安装应用程序，但无法在新手机上恢复它们，因为加密密钥永远不会离开您的原始设备。要移动您的 Vault，请使用云备份 (Pro) 或免费的 Vault Export。
 
-## Vault Export (.tdvault) - 免费供所有人使用
+## Vault Export (.tdvault)——免费供所有人使用
 
 Vault Export 创建一个加密、受密码保护的文件，其中包含您的 Vault 中的每个配置文件、文档和附件。您可以选择保存位置：Files 应用程序、iCloud Drive、Google Drive 或通过 AirDrop 或电子邮件分享。
 
@@ -70,9 +70,9 @@ Vault 在上传前使用 AES-256-GCM 在您的设备上进行端到端加密。�
 
 ### 相关指南
 
-- [如何导出和导入您的 Vault - 分步演练](https://traveldocumentvault.com/zh-Hans/faq/export-import/)
-- [我的恢复代码是什么？- 安全存储的完整指南](https://traveldocumentvault.com/zh-Hans/faq/recovery-code/)
-- [云备份 - 端到端加密如何工作](https://traveldocumentvault.com/zh-Hans/cloud-backup/)
+- [如何导出和导入您的 Vault——分步演练](https://traveldocumentvault.com/zh-Hans/faq/export-import/)
+- [我的恢复代码是什么？——安全存储的完整指南](https://traveldocumentvault.com/zh-Hans/faq/recovery-code/)
+- [云备份——端到端加密如何工作](https://traveldocumentvault.com/zh-Hans/cloud-backup/)
 
 ## 获取 Travel Document Vault
 

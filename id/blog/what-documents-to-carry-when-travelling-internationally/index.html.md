@@ -10,13 +10,13 @@ Source: https://traveldocumentvault.com/id/blog/what-documents-to-carry-when-tra
 
 ## Poin Penting
 
-- Kebanyakan pelancong melupakan **surat izin** perjalanan anak, bukti vaksinasi, konfirmasi akomodasi, dan bukti perjalanan lanjutan - dokumen pendukung yang diperiksa petugas imigrasi di gerbang.
-- Bawa dokumen asli: paspor, visa, boarding pass, dan surat izin. Simpan cadangan digital terpisah di ponsel Anda - terenkripsi dan offline.
+- Kebanyakan pelancong melupakan **surat izin** perjalanan anak, bukti vaksinasi, konfirmasi akomodasi, dan bukti perjalanan lanjutan, dokumen pendukung yang diperiksa petugas imigrasi di gerbang.
+- Bawa dokumen asli: paspor, visa, boarding pass, dan surat izin. Simpan cadangan digital terpisah di ponsel Anda, terenkripsi dan offline.
 - Nomor polis asuransi perjalanan, nomor telepon penerbit, dan detail cakupan sebaiknya ada baik dalam bentuk fisik maupun cadangan digital offline yang bisa diakses tanpa internet.
 - Banyak negara mengharapkan **surat izin** untuk anak yang bepergian dengan satu orang tua. Tanpa itu, Anda berisiko ditolak naik pesawat.
 - Salinan digital offline yang disimpan terpisah dari dokumen fisik adalah perlindungan terbaik Anda jika tas hilang atau dicuri di luar negeri.
 
-Pelancong sering baru menyadari mereka melewatkan surat izin, sertifikat vaksinasi, konfirmasi akomodasi, dan bukti perjalanan lanjutan saat sudah sampai di bandara - dokumen yang terasa kurang penting dibanding paspor tapi sama pentingnya.
+Pelancong sering baru menyadari mereka melewatkan surat izin, sertifikat vaksinasi, konfirmasi akomodasi, dan bukti perjalanan lanjutan saat sudah sampai di bandara, dokumen yang terasa kurang penting dibanding paspor tapi sama pentingnya.
 
 Untuk daftar periksa lengkap semua dokumen yang mungkin Anda perlukan berdasarkan jenis dan tahap perjalanan, lihat [panduan kami untuk mengatur dokumen perjalanan keluarga](https://traveldocumentvault.com/id/blog/how-to-organise-family-travel-documents/). Artikel ini membahas lebih dalam apa yang sering terlupa dan cara bersiap menghadapi dokumen hilang di luar negeri.
 
@@ -26,19 +26,19 @@ Paspor dan visa Anda terasa mendesak, jadi biasanya dikemas lebih dulu. Namun pe
 
 ### Bukti perjalanan lanjutan
 
-Cukup banyak negara ingin bukti bahwa Anda berencana meninggalkan negara itu - tiket penerbangan kembali, pemesanan lanjutan ke negara lain, atau bahkan tiket bus atau feri biasanya cukup. Menyimpan cetakan atau salinan digital di tas jinjing berarti Anda tidak akan menghadapi penundaan di imigrasi.
+Cukup banyak negara ingin bukti bahwa Anda berencana meninggalkan negara itu — tiket penerbangan kembali, pemesanan lanjutan ke negara lain, atau bahkan tiket bus atau feri biasanya cukup. Menyimpan cetakan atau salinan digital di tas jinjing berarti Anda tidak akan menghadapi penundaan di imigrasi.
 
 ### Konfirmasi akomodasi
 
-Beberapa negara meminta bukti pemesanan malam pertama Anda, baik itu konfirmasi hotel, Airbnb, atau hostel. Petugas ingin bukti bahwa Anda punya tempat menginap, jadi unduh salinannya ke ponsel secara offline - email tidak akan membantu di perbatasan.
+Beberapa negara meminta bukti pemesanan malam pertama Anda, baik itu konfirmasi hotel, Airbnb, atau hostel. Petugas ingin bukti bahwa Anda punya tempat menginap, jadi unduh salinannya ke ponsel secara offline, email tidak akan membantu di perbatasan.
 
 ### Sertifikat vaksinasi
 
-Destinasi tertentu mensyaratkan bukti vaksinasi demam kuning atau penyakit lain, dan persyaratannya berubah secara berkala tergantung destinasi. Periksa halaman informasi perjalanan WHO 6-8 minggu sebelum berangkat - bukan malam sebelumnya - karena beberapa negara hanya menerima sertifikat demam kuning resmi WHO, bukan fotokopi atau foto digital.
+Destinasi tertentu mensyaratkan bukti vaksinasi demam kuning atau penyakit lain, dan persyaratannya berubah secara berkala tergantung destinasi. Periksa halaman informasi perjalanan WHO 6-8 minggu sebelum berangkat, bukan malam sebelumnya, karena beberapa negara hanya menerima sertifikat demam kuning resmi WHO, bukan fotokopi atau foto digital.
 
 ### Detail asuransi perjalanan
 
-Anda perlu akses langsung ke nomor polis, kontak penerbit, dan hotline darurat 24 jam. Beberapa jenis visa secara eksplisit mensyaratkan bukti asuransi perjalanan - permohonan visa Schengen, misalnya, memerlukan asuransi medis yang mencakup perawatan darurat dan rawat inap. Namun yang lebih penting, jika terjadi sesuatu di luar negeri, Anda butuh detail ini tanpa bergantung pada email atau akses internet.
+Anda perlu akses langsung ke nomor polis, kontak penerbit, dan hotline darurat 24 jam. Beberapa jenis visa secara eksplisit mensyaratkan bukti asuransi perjalanan — permohonan visa Schengen, misalnya, memerlukan asuransi medis yang mencakup perawatan darurat dan rawat inap. Namun yang lebih penting, jika terjadi sesuatu di luar negeri, Anda butuh detail ini tanpa bergantung pada email atau akses internet.
 
 ### Surat izin perjalanan anak
 
@@ -93,11 +93,11 @@ Surat izin biasanya mencakup nama lengkap dan tanggal lahir anak, detail paspor,
 
 Apa artinya ini dalam praktik
 
-Anda akan terbang ke Kanada bersama anak berusia 8 tahun dan pasangan Anda tidak ikut. Petugas check-in bisa menolak keberangkatan anak Anda jika Anda tidak bisa menunjukkan izin tertulis dari pasangan yang tidak ikut, sebaiknya dinotariskan. Jika anak Anda bepergian bersama kakek-neneknya, bukan Anda, biasanya kedua orang tua harus menandatangani surat izin - izin dari satu orang tua saja umumnya tidak cukup. Selalu verifikasi persyaratan pasti untuk destinasi Anda jauh sebelum tanggal keberangkatan.
+Anda akan terbang ke Kanada bersama anak berusia 8 tahun dan pasangan Anda tidak ikut. Petugas check-in bisa menolak keberangkatan anak Anda jika Anda tidak bisa menunjukkan izin tertulis dari pasangan yang tidak ikut, sebaiknya dinotariskan. Jika anak Anda bepergian bersama kakek-neneknya, bukan Anda, biasanya kedua orang tua harus menandatangani surat izin, izin dari satu orang tua saja umumnya tidak cukup. Selalu verifikasi persyaratan pasti untuk destinasi Anda jauh sebelum tanggal keberangkatan.
 
 ## Alasan Pentingnya Salinan Digital Offline
 
-Dokumen fisik membantu sampai seorang pencuri mengambil tas Anda - dan biasanya membawa salinannya juga bersama dokumen aslinya. Cadangan terenkripsi terpisah di ponsel Anda - disimpan offline - adalah jaminan sesungguhnya jika dokumen asli hilang.
+Dokumen fisik membantu sampai seorang pencuri mengambil tas Anda, dan biasanya membawa salinannya juga bersama dokumen aslinya. Cadangan terenkripsi terpisah di ponsel Anda, disimpan offline, adalah jaminan sesungguhnya jika dokumen asli hilang.
 
 Ketika kedutaan Anda perlu menerbitkan dokumen perjalanan darurat, cadangan yang aman memberi mereka nomor paspor, tanggal penerbitan, tempat penerbitan, dan tanggal kedaluwarsa Anda secara instan, tanpa akses internet. Untuk lebih lanjut tentang opsi yang tersedia, lihat ringkasan kami tentang [cara menyimpan salinan paspor dengan aman](https://traveldocumentvault.com/id/blog/is-it-safe-to-store-passport-in-google-photos/) dan perbandingan antara pendekatan yang berbeda.
 
@@ -119,7 +119,7 @@ Ya, di banyak negara ini diharapkan. Jika anak bepergian internasional hanya den
 
 ### Haruskah saya menyimpan cadangan digital dari dokumen saya?
 
-Ya. Simpan salinan offline terenkripsi di ponsel Anda - bukan di galeri kamera atau penyimpanan cloud. Jika dokumen fisik Anda hilang atau dicuri di luar negeri, cadangan ini memungkinkan kedutaan memproses dokumen perjalanan darurat jauh lebih cepat. Cadangan tersebut sebaiknya mencakup nomor paspor, tanggal penerbitan, tempat penerbitan, nomor polis asuransi, dan referensi pemesanan.
+Ya. Simpan salinan offline terenkripsi di ponsel Anda, bukan di galeri kamera atau penyimpanan cloud. Jika dokumen fisik Anda hilang atau dicuri di luar negeri, cadangan ini memungkinkan kedutaan memproses dokumen perjalanan darurat jauh lebih cepat. Cadangan tersebut sebaiknya mencakup nomor paspor, tanggal penerbitan, tempat penerbitan, nomor polis asuransi, dan referensi pemesanan.
 
 ### Apa yang terjadi jika saya tiba di bandara tanpa dokumen yang diperlukan?
 

@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/es/blog/travel-insurance-documents/
 ## Conclusiones Principales
 
 - **Guarda tu documento de póliza completo, número de póliza y línea de contacto de emergencia 24 horas** (no el número de ventas).
-- Almacena copias sin conexión y accesibles - solo el correo electrónico no te ayudará cuando estés varado o en un hospital.
+- Almacena copias sin conexión y accesibles —solo el correo electrónico no te ayudará cuando estés varado o en un hospital.
 - **La mayoría de pólizas requieren preautorización para tratamiento médico**; omitirla puede reducir o anular tu reclamación.
 - Las reclamaciones se rechazan más a menudo por documentación faltante: informe policial por robo, recibos originales, formularios de reclamación firmados.
 - Lee rápidamente las secciones clave de tu póliza enfocándote en límites de cobertura, exclusiones y condiciones.
@@ -24,14 +24,14 @@ Son las 2 de la mañana en Bangkok y tienes intoxicación alimentaria y fiebre. 
 
 Unos pocos documentos faltantes no son solo un inconveniente aquí. Deciden si el tratamiento comienza de inmediato, si pagas de tu bolsillo y reclamas más tarde, o si la reclamación se rechaza completamente.
 
-El seguro de viaje solo funciona si puedes acceder a él cuando lo necesitas. La mayoría de las personas lo almacenan en correo electrónico y no pueden encontrarlo cuando surge la crisis - típicamente durante estrés, presión de tiempo, o una emergencia médica.
+El seguro de viaje solo funciona si puedes acceder a él cuando lo necesitas. La mayoría de las personas lo almacenan en correo electrónico y no pueden encontrarlo cuando surge la crisis —típicamente durante estrés, presión de tiempo, o una emergencia médica.
 
 ## Los Cinco Documentos Que Debes Guardar Antes de Viajar
 
 Tu póliza de seguro de viaje es típicamente un PDF. Ese único archivo contiene todo lo que necesitas, pero deberías extraer y guardar estas cinco cosas por separado para poder encontrarlas al instante:
 
 - Documento de póliza completo (el PDF)
-- Número de póliza (extráelo - escríbelo por separado también)
+- Número de póliza (extráelo —escríbelo por separado también)
 - Línea de contacto de emergencia 24 horas (diferente del número de ventas o atención al cliente)
 - Sección de qué está cubierto (límites de cobertura para médicos, equipaje, cancelación, etc.)
 - Exclusiones clave y condiciones (incluyendo requisitos de preautorización)
@@ -58,7 +58,7 @@ Como respaldo, guarda tus documentos de seguros en un almacenamiento en nube pro
 
 ### Copia Física con Tus Documentos de Viaje
 
-Almacena una copia física - o una foto de alta calidad de las páginas críticas - junto con tu pasaporte, documentos de visa y otros papeles de viaje. Si tu teléfono se muere, este es tu respaldo.
+Almacena una copia física —o una foto de alta calidad de las páginas críticas— junto con tu pasaporte, documentos de visa y otros papeles de viaje. Si tu teléfono se muere, este es tu respaldo.
 
 Una tarjeta escrita a mano funciona tan bien como una impresión: número de póliza, nombre del asegurador, línea de emergencia. Métela en la cartera del pasaporte y sobrevivirá a una batería agotada, un teléfono perdido y una caja fuerte del hotel que no puedes abrir.
 
@@ -66,9 +66,9 @@ Una tarjeta escrita a mano funciona tan bien como una impresión: número de pó
 
 | Ubicación de Almacenamiento | Acceso Sin Internet | En una Emergencia | Respaldo si Pierdes el Teléfono |
 |---|---|---|---|
-| **Teléfono (descarga sin conexión)** | Al instante, no se necesita WiFi | Disponible inmediatamente - opción más rápida | Se pierde con el teléfono a menos que esté respaldado |
+| **Teléfono (descarga sin conexión)** | Al instante, no se necesita WiFi | Disponible inmediatamente —opción más rápida | Se pierde con el teléfono a menos que esté respaldado |
 | **Almacenamiento en nube con acceso sin conexión** | Sí, si se descargó previamente | Depende del caché local; funciona si el teléfono tiene el archivo en caché | Recuperable en un teléfono de reemplazo con inicio de sesión |
-| **Correo Electrónico** | Requiere conexión a internet | Poco confiable - podrías no tener señal o datos | Aún accesible pero tiempo y problemático de buscar |
+| **Correo Electrónico** | Requiere conexión a internet | Poco confiable —podrías no tener señal o datos | Aún accesible pero tiempo y problemático de buscar |
 | **Copia física (tarjeta laminada o impresión)** | Sí, siempre accesible | La más rápida si tu teléfono está muerto o perdido | Se pierde si el pasaporte se pierde; guarda en bolsillo separado |
 | **Aplicación cifrada (ej. Travel Document Vault)** | Sí, almacenado localmente en teléfono | Acceso al instante, diseñado para este escenario | Cifrado y privado; respaldo en nube opcional |
 
@@ -78,7 +78,7 @@ Incluso si tienes tus documentos accesibles, aún puedes perder tu reclamación 
 
 ### Reclamaciones Médicas: No Obtuviste Preautorización
 
-La mayoría de pólizas de seguros de viaje requieren preautorización antes del tratamiento. Esto significa llamar a tu asegurador y obtener aprobación antes de visitar un hospital o clínica. Los requisitos varían según el asegurador y el tipo de póliza - verifica la sección de tratamiento médico de tu póliza específica. Si omites este paso y pagas de tu bolsillo, a menudo serás rechazado con "el tratamiento no fue preautorizado". Muchos aseguradores no reembolsarán sin preautorización, incluso si el tratamiento era necesario y estaba cubierto.
+La mayoría de pólizas de seguros de viaje requieren preautorización antes del tratamiento. Esto significa llamar a tu asegurador y obtener aprobación antes de visitar un hospital o clínica. Los requisitos varían según el asegurador y el tipo de póliza —verifica la sección de tratamiento médico de tu póliza específica. Si omites este paso y pagas de tu bolsillo, a menudo serás rechazado con "el tratamiento no fue preautorizado". Muchos aseguradores no reembolsarán sin preautorización, incluso si el tratamiento era necesario y estaba cubierto.
 
 Digamos que estás hospitalizado con apendicitis en Mumbai. El hospital necesita pago por adelantado o una garantía de tu asegurador, y tienes una ventana de dos horas antes de la cirugía. Sin el número de preautorización de tu asegurador, el hospital exige efectivo. Eso te deja dos malas opciones: pagar ahora y arriesgar una reclamación rechazada meses después, o retrasar la cirugía mientras persigues a tu asegurador. Una llamada evita todo esto. Con un número de confirmación en la mano, el hospital factura directamente a tu asegurador.
 

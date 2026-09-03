@@ -28,11 +28,11 @@ Byggd av en förälder som behövde det. Dina dokument förblir på din enhet oc
 
 ### Byggd av en förälder
 
-Jag byggde den här appen för att jag behövde den för min egen familj. Den har separata profiler för varje familjemedlem och automatiska utgångspåminnelser månader innan förnyelse är brådskande. Det finns ingen VC-finansiering som pressar mig att sälja dina data och ingen väg framåt driven av tillväxtmått - det är helt enkelt ett verktyg som löser ett problem på rätt sätt.
+Jag byggde den här appen för att jag behövde den för min egen familj. Den har separata profiler för varje familjemedlem och automatiska utgångspåminnelser månader innan förnyelse är brådskande. Det finns ingen VC-finansiering som pressar mig att sälja dina data och ingen väg framåt driven av tillväxtmått – det är helt enkelt ett verktyg som löser ett problem på rätt sätt.
 
 ### Offline av design
 
-Den säkeraste servern för passkanningar finns inte alls - vilket är varför appen behåller dokument på din enhet och fungerar helt offline som standard. Om du aktiverar säkerhetskopia går ditt krypterade valv till ditt eget iCloud eller Google Drive, förseglat med en återställningskod som endast du har.
+Den säkeraste servern för passkanningar finns inte alls – vilket är varför appen behåller dokument på din enhet och fungerar helt offline som standard. Om du aktiverar säkerhetskopia går ditt krypterade valv till ditt eget iCloud eller Google Drive, förseglat med en återställningskod som endast du har.
 
 ### Kryptering på enheten
 
@@ -44,7 +44,7 @@ Valfri krypterad säkerhetskopia i ditt eget iCloud eller Google Drive. Du håll
 
 ### Smarta påminnelser
 
-Pass varnar dig redan åtta månader i förväg, sedan kommer påminnelserna tätare - sex månader, tre, sex veckor, en månad - fram till utgångsdagen. Varje dokumenttyp har sitt eget schema, klart så snart du lägger till den.
+Pass varnar dig redan åtta månader i förväg, sedan kommer påminnelserna tätare – sex månader, tre, sex veckor, en månad – fram till utgångsdagen. Varje dokumenttyp har sitt eget schema, klart så snart du lägger till den.
 
 ### Familjemedveten logik
 
@@ -185,7 +185,7 @@ Alltid gratis
 - PIN + biometriskt lås (Face ID / Touch ID)
 - 1 profil
 - Upp till 5 dokument
-- Nyligen raderat - 30-dagars ångerfönster
+- Nyligen raderat – 30-dagars ångerfönster
 
 Alla data stannar på din enhet. Alltid.
 
@@ -220,7 +220,7 @@ Gratis
 - PIN + biometriskt lås (Face ID / Touch ID)
 - 1 profil
 - Upp till 5 dokument
-- Nyligen raderat - 30-dagars ångerfönster
+- Nyligen raderat – 30-dagars ångerfönster
 
 Alla data stannar på din enhet. Alltid.
 
@@ -250,7 +250,7 @@ Allt i kostnadsfritt plus:
 
 ## Vanliga frågor
 
-Är det verkligen privat? Ja. Allt lagras 100% på din enhet. Vi har ingen åtkomst till dina dokument och det finns ingen molndatabas. Ta inte bara vårt ord för det - [kontrollera själv](https://traveldocumentvault.com/sv/privacy-verification/). Vad händer om jag tappar bort min telefon? Ditt valv lagras på din enhet. Om du byter telefon, återställ med din vanliga telefonbackup. Kan jag synkronisera mellan enheter? Ja. Med Pro, aktivera din molnlagring för att synkronisera ditt krypterade valv till ditt iCloud eller Google Drive. Du håller återställningskoden. Vi har aldrig åtkomst till dina data. Vad är reseplaneringen? Reseplaneringen grupperar familjens dokument efter resa och visar ett beredskapstrafikljus - grönt när alla är klara, gult om någons pass upphör snart. Planera resor tillsammans med självförtroende. [Se alla svar om sekretess och data](https://traveldocumentvault.com/sv/faq/)
+Är det verkligen privat? Ja. Allt lagras 100% på din enhet. Vi har ingen åtkomst till dina dokument och det finns ingen molndatabas. Ta inte bara vårt ord för det – [kontrollera själv](https://traveldocumentvault.com/sv/privacy-verification/). Vad händer om jag tappar bort min telefon? Ditt valv lagras på din enhet. Om du byter telefon, återställ med din vanliga telefonbackup. Kan jag synkronisera mellan enheter? Ja. Med Pro, aktivera din molnlagring för att synkronisera ditt krypterade valv till ditt iCloud eller Google Drive. Du håller återställningskoden. Vi har aldrig åtkomst till dina data. Vad är reseplaneringen? Reseplaneringen grupperar familjens dokument efter resa och visar ett beredskapstrafikljus – grönt när alla är klara, gult om någons pass upphör snart. Planera resor tillsammans med självförtroende. [Se alla svar om sekretess och data](https://traveldocumentvault.com/sv/faq/)
 
 **Viktigt:** Travel Document Vault är ett verktyg för personlig organisation för lagring av digitala kopior av dina dokument. **Digitala kopior som lagras i den här appen är INTE giltiga för resa.** Det verifierar inte dokumentets äkthet och ger inte juridisk eller reserådgivning. Bär alltid originaldokument och verifiera alla resekrav hos officiella myndigheter.
 

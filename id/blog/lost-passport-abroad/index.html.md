@@ -10,9 +10,9 @@ Source: https://traveldocumentvault.com/id/blog/lost-passport-abroad/
 
 ## Poin Penting
 
-- Buat laporan polisi terlebih dahulu - Anda membutuhkannya baik untuk permohonan di kedutaan maupun klaim asuransi.
-- Kedutaan atau konsulat Anda dapat menerbitkan dokumen perjalanan darurat, biasanya jauh lebih cepat daripada penggantian paspor biasa. **Telepon terlebih dahulu** - sebagian besar mengharuskan janji temu.
-- Pelancong yang memiliki salinan digital paspor yang aman mendapatkan dokumen pengganti lebih cepat - Anda bisa memberikan detail yang dibutuhkan kedutaan dalam hitungan detik.
+- Buat laporan polisi terlebih dahulu, Anda membutuhkannya baik untuk permohonan di kedutaan maupun klaim asuransi.
+- Kedutaan atau konsulat Anda dapat menerbitkan dokumen perjalanan darurat, biasanya jauh lebih cepat daripada penggantian paspor biasa. **Telepon terlebih dahulu**, sebagian besar mengharuskan janji temu.
+- Pelancong yang memiliki salinan digital paspor yang aman mendapatkan dokumen pengganti lebih cepat, Anda bisa memberikan detail yang dibutuhkan kedutaan dalam hitungan detik.
 - Asuransi perjalanan menanggung biaya penggantian paspor pada sebagian besar polis komprehensif. Anda memerlukan laporan polisi untuk mengajukan klaim.
 - Waktu terbaik untuk bersiap adalah sekarang, sebelum sesuatu terjadi. Pindaian lima menit hari ini bisa menghemat berhari-hari stres di luar negeri.
 
@@ -20,7 +20,7 @@ Setiap hari, banyak orang mengurus penggantian paspor yang hilang di luar negeri
 
 ## Sebelum Semuanya Terjadi: Foto Paspor Anda Sekarang
 
-Jika Anda membaca ini sebelum berangkat, luangkan lima menit untuk ini. Ambil foto yang jelas dari halaman data utama setiap paspor yang Anda bawa. Simpan di aplikasi terenkripsi yang bisa berfungsi secara luring - jauh lebih aman daripada galeri foto ponsel, dan sepenuhnya privat.
+Jika Anda membaca ini sebelum berangkat, luangkan lima menit untuk ini. Ambil foto yang jelas dari halaman data utama setiap paspor yang Anda bawa. Simpan di aplikasi terenkripsi yang bisa berfungsi secara luring, jauh lebih aman daripada galeri foto ponsel, dan sepenuhnya privat.
 
 Saat Anda tiba di kedutaan, mereka akan menanyakan nomor paspor, tanggal penerbitan, tempat penerbitan, dan tanggal kedaluwarsa. Tanpa salinan, Anda harus mengingatnya dalam kondisi stres. Dengan salinan, Anda bisa memberikannya dalam hitungan detik. **Staf konsuler menerbitkan dokumen pengganti lebih cepat ketika Anda datang dengan detail yang sudah tercatat.**
 
@@ -28,7 +28,7 @@ Salinan di ponsel Anda adalah sebuah catatan, bukan identitas resmi, dan keduany
 
 ## Langkah 1: Pastikan Paspor Benar-Benar Hilang
 
-Periksa semua tempat sebelum menyimpulkan yang terburuk - kantong jaket, setiap kompartemen tas, brankas hotel, taksi atau restoran terakhir yang dikunjungi. Jika memang benar-benar hilang atau dicuri, lanjutkan ke langkah berikutnya tanpa menunda.
+Periksa semua tempat sebelum menyimpulkan yang terburuk — kantong jaket, setiap kompartemen tas, brankas hotel, taksi atau restoran terakhir yang dikunjungi. Jika memang benar-benar hilang atau dicuri, lanjutkan ke langkah berikutnya tanpa menunda.
 
 ## Langkah 2: Buat Laporan Polisi Segera
 
@@ -45,7 +45,7 @@ Kedutaan atau konsulat Anda adalah jalan pulang Anda, jadi hubungi mereka segera
 - **Warga negara Australia:** Smartraveller - paspor hilang atau dicuri
 - **Warga negara Kanada:** Canada.ca - paspor hilang atau dicuri di luar negeri
 
-Telepon dulu sebelum datang langsung. Banyak kedutaan mengharuskan janji temu untuk layanan paspor darurat dan bisa memberi tahu Anda persis apa yang harus dibawa - datang tanpa janji temu bisa menghabiskan setengah hari Anda.
+Telepon dulu sebelum datang langsung. Banyak kedutaan mengharuskan janji temu untuk layanan paspor darurat dan bisa memberi tahu Anda persis apa yang harus dibawa, datang tanpa janji temu bisa menghabiskan setengah hari Anda.
 
 ## Langkah 4: Ajukan Dokumen Perjalanan Darurat
 
@@ -64,13 +64,13 @@ Yang biasanya Anda perlukan (konfirmasikan dengan kedutaan Anda sebelum datang):
 
 ## Langkah 5: Beri Tahu Perusahaan Asuransi Perjalanan Anda
 
-Laporkan kehilangan tersebut kepada perusahaan asuransi perjalanan Anda sesegera mungkin. Sebagian besar polis komprehensif menanggung biaya penggantian paspor, biaya paspor darurat, dan terkadang biaya akomodasi tambahan jika Anda tertunda. Simpan semua kuitansi - Anda akan membutuhkannya untuk klaim, bersama nomor laporan polisi.
+Laporkan kehilangan tersebut kepada perusahaan asuransi perjalanan Anda sesegera mungkin. Sebagian besar polis komprehensif menanggung biaya penggantian paspor, biaya paspor darurat, dan terkadang biaya akomodasi tambahan jika Anda tertunda. Simpan semua kuitansi, Anda akan membutuhkannya untuk klaim, bersama nomor laporan polisi.
 
 Anda bisa menelepon lebih cepat jika nomor polis dan hotline 24 jam sudah tersedia, bukan terkubur di dalam kotak masuk email yang tidak bisa Anda akses. Panduan kami tentang [dokumen asuransi perjalanan mana saja yang perlu disimpan sebelum berangkat](https://traveldocumentvault.com/id/blog/travel-insurance-documents/) mencantumkan apa yang perlu disimpan secara luring.
 
 ## Langkah 6: Periksa Status Visa Anda
 
-Visa hanya berlaku untuk paspor tertentu yang menjadi tempat penerbitannya. Jika paspor Anda hilang, visa Anda juga ikut hilang - bahkan dokumen perjalanan darurat pun tidak memulihkannya. Kedutaan Anda akan memberi tahu apakah negara tujuan Anda mengizinkan keluar dengan ETD, dengan merujuk pada visa yang hilang. Jangan berasumsi Anda bisa keluar begitu saja - konfirmasikan dengan kedutaan sebelum mencoba meninggalkan negara tersebut.
+Visa hanya berlaku untuk paspor tertentu yang menjadi tempat penerbitannya. Jika paspor Anda hilang, visa Anda juga ikut hilang, bahkan dokumen perjalanan darurat pun tidak memulihkannya. Kedutaan Anda akan memberi tahu apakah negara tujuan Anda mengizinkan keluar dengan ETD, dengan merujuk pada visa yang hilang. Jangan berasumsi Anda bisa keluar begitu saja, konfirmasikan dengan kedutaan sebelum mencoba meninggalkan negara tersebut.
 
 Apa artinya ini dalam praktik
 
@@ -90,7 +90,7 @@ Segera buat laporan polisi, lalu hubungi kedutaan atau konsulat terdekat untuk m
 
 ### Bisakah saya mendapatkan paspor darurat di luar negeri?
 
-Ya. Sebagian besar negara menerbitkan dokumen perjalanan darurat melalui kedutaan dan konsulat mereka, biasanya hanya berlaku untuk satu kali perjalanan pulang. Waktu prosesnya bervariasi tergantung kantor kedutaan dan seberapa mendesak kasus Anda, jadi tanyakan saat Anda menelepon. Hubungi kedutaan atau konsulat terdekat sesegera mungkin - banyak yang mengharuskan janji temu.
+Ya. Sebagian besar negara menerbitkan dokumen perjalanan darurat melalui kedutaan dan konsulat mereka, biasanya hanya berlaku untuk satu kali perjalanan pulang. Waktu prosesnya bervariasi tergantung kantor kedutaan dan seberapa mendesak kasus Anda, jadi tanyakan saat Anda menelepon. Hubungi kedutaan atau konsulat terdekat sesegera mungkin, banyak yang mengharuskan janji temu.
 
 ### Apakah saya perlu laporan polisi jika paspor saya dicuri di luar negeri?
 

@@ -12,31 +12,31 @@ Fem funktioner som gör familjeresplanering stressfri.
 
 ### Beredskapstrafikljus
 
-Grönt betyder att alla är klara, medan gult markerar vems dokument som snart upphör - inga överraskningar på kvällen innan resan.
+Grönt betyder att alla är klara, medan gult markerar vems dokument som snart upphör – inga överraskningar på kvällen innan resan.
 
 Varje familjemedlem får sin egen beredskapsstat baserad på utgångsdatum för dokument och resekontekt.
 
 ### Medlemmarkupbrickor
 
-Se statusen för varje familjemedlem på en blick och tryck för att granska deras dokument - Vet vems pass som upphör först.
+Se statusen för varje familjemedlem på en blick och tryck för att granska deras dokument – Vet vems pass som upphör först.
 
 Byggt för familjer med 2 - 10+ medlemmar. Fungerar för makar, barn, far- och morföräldrar och alla andra du planerar med.
 
 ### Packlist
 
-Reserelaterad checklista anpassad efter reseduration och destination som du bockar av när du packar - aldrig glöm solkräm igen.
+Reserelaterad checklista anpassad efter reseduration och destination som du bockar av när du packar – aldrig glöm solkräm igen.
 
 Checklistor anpassas baserat på väder, reseduration och restyp (strand, stad, skidåkning osv.).
 
 ### Veta innan du åker
 
-Destinationspanel med inresebestämmelser, visumsregler och resetips för varje land - inga överraskningar vid inresa.
+Destinationspanel med inresebestämmelser, visumsregler och resetips för varje land – inga överraskningar vid inresa.
 
 Visar Schengen-regler, visum-giltighets fönster och lokala traditioner. Allt uppdaterat för aktuella resebestämmelser.
 
 ### Dagargränser för länder
 
-Spåra hur många dagar varje familjemedlem har tillbringat i ett land genom att skapa perioder (Schengenår, visumfönster, skatteår) och länka tillståndsregler till dem - se sedan en uppdelning per medlem på en blick.
+Spåra hur många dagar varje familjemedlem har tillbringat i ett land genom att skapa perioder (Schengenår, visumfönster, skatteår) och länka tillståndsregler till dem – se sedan en uppdelning per medlem på en blick.
 
 Byggt för Schengen 90/180-spårning, brittiska 183-dagarsregler och anpassade visum- eller uppehållsfönster. Använda dagar uppdateras automatiskt när resor registreras.
 

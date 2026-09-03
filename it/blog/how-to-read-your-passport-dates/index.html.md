@@ -92,7 +92,7 @@ Se le etichette sulla tua pagina dati non sono in italiano, la disposizione aiut
 
 ### Cosa significa "data di spedizione" su un passaporto?
 
-Significa data di rilascio - il giorno in cui il passaporto è stato prodotto. L'espressione deriva da moduli in spagnolo e portoghese, dove fecha de expedición e data de expedição si traducono letteralmente come expedition date. Non ha nulla a che vedere con un viaggio, e non è mai la data di scadenza.
+Significa data di rilascio — il giorno in cui il passaporto è stato prodotto. L'espressione deriva da moduli in spagnolo e portoghese, dove fecha de expedición e data de expedição si traducono letteralmente come expedition date. Non ha nulla a che vedere con un viaggio, e non è mai la data di scadenza.
 
 ### La data di rilascio è la stessa cosa della data di scadenza?
 

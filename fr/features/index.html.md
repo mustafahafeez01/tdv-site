@@ -78,7 +78,7 @@ Stockez les cartes-cadeaux, codes de réduction, billets d'événement et laisse
 
 ### Rappels en Veille
 
-Mettez en pause tout rappel d'expiration sans modifier le document. Remettez le rappel en veille pendant un jour, une semaine ou un mois - le rappel reprend automatiquement à la fin de la période de mise en veille.
+Mettez en pause tout rappel d'expiration sans modifier le document. Remettez le rappel en veille pendant un jour, une semaine ou un mois — le rappel reprend automatiquement à la fin de la période de mise en veille.
 
 ### Code Couleur des Documents
 
@@ -182,7 +182,7 @@ Pro
 
 ### Allocations de voyage
 
-Définissez des seuils de limite de jours personnalisés par pays et par membre de la famille. Fixez vos propres objectifs pour rester conscient du nombre de jours que vous avez passés à l'étranger - selon vos règles de voyage.
+Définissez des seuils de limite de jours personnalisés par pays et par membre de la famille. Fixez vos propres objectifs pour rester conscient du nombre de jours que vous avez passés à l'étranger — selon vos règles de voyage.
 
 Pro
 
@@ -194,7 +194,7 @@ Pro
 
 ### Prêt pour l'Embarquement
 
-Joignez les numéros de vol, les confirmations d'hôtel et les références de réservation à n'importe quel voyage. Documents et réservations au même endroit - tapez une fois au moment de l'enregistrement. Rien à chercher à la porte d'embarquement.
+Joignez les numéros de vol, les confirmations d'hôtel et les références de réservation à n'importe quel voyage. Documents et réservations au même endroit — tapez une fois au moment de l'enregistrement. Rien à chercher à la porte d'embarquement.
 
 ### Prêt à maîtriser votre préparation de voyage
 
@@ -294,7 +294,7 @@ Partagez plusieurs fichiers de documents originaux à la fois via la feuille de 
 
 #### Suppression Sûre avec Annulation
 
-Vous avez supprimé accidentellement un document ? Appuyez sur Annuler immédiatement pour le récupérer. Vous avez raté la fenêtre ? Il se déplace vers Supprimés Récemment, où il reste pendant 30 jours avant suppression permanente - vous donnant un filet de sécurité sans compromettre votre vie privée.
+Vous avez supprimé accidentellement un document ? Appuyez sur Annuler immédiatement pour le récupérer. Vous avez raté la fenêtre ? Il se déplace vers Supprimés Récemment, où il reste pendant 30 jours avant suppression permanente — vous donnant un filet de sécurité sans compromettre votre vie privée.
 
 Pour les voyages
 
@@ -324,7 +324,7 @@ Pro
 
 ### Franchises sans calcul
 
-Définissez des seuils de limite de jours personnalisés par pays et par membre de la famille. Fixez vos propres objectifs pour rester conscient du nombre de jours que vous avez passés à l'étranger - selon vos règles de voyage.
+Définissez des seuils de limite de jours personnalisés par pays et par membre de la famille. Fixez vos propres objectifs pour rester conscient du nombre de jours que vous avez passés à l'étranger — selon vos règles de voyage.
 
 **Important :** Travel Document Vault est un outil d'organisation personnelle pour stocker des copies numériques de vos documents. **Les copies numériques stockées dans cette application ne sont PAS valides pour voyager.** Il ne vérifie pas l'authenticité des documents et ne fournit pas de conseils juridiques ou de voyage. Portez toujours les documents originaux et vérifiez toutes les exigences de voyage auprès des sources gouvernementales officielles.
 

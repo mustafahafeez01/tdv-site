@@ -14,11 +14,11 @@ Sem SDKs de análise, sem bibliotecas de publicidade, sem pixels de rastreamento
 
 ### Sem coleta de dados de saída
 
-O aplicativo não faz conexões de saída por padrão. Funciona completamente offline. O único uso de rede é o backup na nuvem Pro opcional, que sincroniza com seu iCloud ou Google Drive pessoal - nunca com nossos servidores.
+O aplicativo não faz conexões de saída por padrão. Funciona completamente offline. O único uso de rede é o backup na nuvem Pro opcional, que sincroniza com seu iCloud ou Google Drive pessoal — nunca com nossos servidores.
 
 ### No dispositivo por padrão
 
-Todos os documentos, digitalizações e dados permanecem no seu dispositivo. Não há nuvem TDV, nenhum servidor TDV, nenhum backend TDV. Os usuários Pro podem opcionalmente fazer backup do seu cofre criptografado na sua própria conta iCloud ou Google Drive - apenas eles têm a chave de recuperação.
+Todos os documentos, digitalizações e dados permanecem no seu dispositivo. Não há nuvem TDV, nenhum servidor TDV, nenhum backend TDV. Os usuários Pro podem opcionalmente fazer backup do seu cofre criptografado na sua própria conta iCloud ou Google Drive — apenas eles têm a chave de recuperação.
 
 ### Criptografia AES-256-GCM
 
@@ -32,17 +32,17 @@ Não precisa confiar em nós. Você pode confirmar cada afirmação acima com fe
 
 Instale um monitor de rede como **mitmproxy** (gratuito, código aberto), **Wireshark** (gratuito, código aberto), ou **Charles Proxy**. Abra Travel Document Vault, digitalize um documento, navegue pelo seu cofre e defina um lembrete. Você não deve ver seus documentos, digitalizações, datas de validade ou o conteúdo do cofre sendo enviados para a Travel Document Vault. O tráfego de rede deve se limitar a recursos específicos: relatórios opcionais de falha do Sentry, verificações de compra da App Store ou Google Play, backup opcional na sua própria conta do iCloud ou Google Drive, e uma verificação manual de correção de erros explicada abaixo.
 
-As Configurações têm um botão **Check for Updates**. É uma verificação manual, nunca automática - executada apenas quando você toca nele, nunca em segundo plano e nunca por conta própria. A verificação entra em contato com **updates.traveldocumentvault.com** - nosso próprio servidor de atualizações, operado por nós no Google Cloud, que fornece arquivos de atualização assinados criptograficamente a partir de um compartimento de armazenamento. Não registramos a verificação: os logs de solicitações estão desabilitados do nosso lado, portanto nenhum endereço IP é mantido. Toda atualização é assinada com uma chave que apenas temos, e o aplicativo recusa qualquer coisa cuja assinatura não corresponda ao certificado nele incorporado. O mesmo toque também verifica se há uma versão mais recente do aplicativo na **App Store** ou no **Google Play**. Esse recurso existe para que certas correções de erros possam chegar até você mais rápido do que esperar por um lançamento totalmente novo na App Store ou no Google Play, útil para correções urgentes, dependendo da natureza da correção. Vale a mesma regra do resto desta página: nenhuma chamada de rede sem que você peça.
+As Configurações têm um botão **Check for Updates**. É uma verificação manual, nunca automática — executada apenas quando você toca nele, nunca em segundo plano e nunca por conta própria. A verificação entra em contato com **updates.traveldocumentvault.com** — nosso próprio servidor de atualizações, operado por nós no Google Cloud, que fornece arquivos de atualização assinados criptograficamente a partir de um compartimento de armazenamento. Não registramos a verificação: os logs de solicitações estão desabilitados do nosso lado, portanto nenhum endereço IP é mantido. Toda atualização é assinada com uma chave que apenas temos, e o aplicativo recusa qualquer coisa cuja assinatura não corresponda ao certificado nele incorporado. O mesmo toque também verifica se há uma versão mais recente do aplicativo na **App Store** ou no **Google Play**. Esse recurso existe para que certas correções de erros possam chegar até você mais rápido do que esperar por um lançamento totalmente novo na App Store ou no Google Play, útil para correções urgentes, dependendo da natureza da correção. Vale a mesma regra do resto desta página: nenhuma chamada de rede sem que você peça.
 
 ### 2. Relatório de privacidade de aplicativo iOS
 
-No iPhone, vá para **Configurações > Privacidade e segurança > Relatório de privacidade do aplicativo**. Este recurso integrado da Apple mostra quais aplicativos contataram domínios de rede. A Travel Document Vault não nos envia seus documentos, digitalizações, datas de validade nem o conteúdo do seu cofre. Se você tiver habilitado o backup na nuvem Pro, verá conexões com domínios iCloud da Apple - esse é o seu backup sincronizando com a sua própria conta iCloud.
+No iPhone, vá para **Configurações > Privacidade e segurança > Relatório de privacidade do aplicativo**. Este recurso integrado da Apple mostra quais aplicativos contataram domínios de rede. A Travel Document Vault não nos envia seus documentos, digitalizações, datas de validade nem o conteúdo do seu cofre. Se você tiver habilitado o backup na nuvem Pro, verá conexões com domínios iCloud da Apple — esse é o seu backup sincronizando com a sua própria conta iCloud.
 
-### 3. Android - como verificar a sua privacidade
+### 3. Android — como verificar a sua privacidade
 
-O Android não tem um único relatório de privacidade integrado como o iPhone. Duas formas simples de verificar você mesmo: veja a própria seção **Data Safety** deste aplicativo na sua página do Google Play (ela indica claramente o que é coletado, o que é compartilhado, que os seus dados são criptografados em trânsito, e que não podem ser excluídos) - ou use um monitor de rede conforme descrito no passo 1 acima.
+O Android não tem um único relatório de privacidade integrado como o iPhone. Duas formas simples de verificar você mesmo: veja a própria seção **Data Safety** deste aplicativo na sua página do Google Play (ela indica claramente o que é coletado, o que é compartilhado, que os seus dados são criptografados em trânsito, e que não podem ser excluídos) — ou use um monitor de rede conforme descrito no passo 1 acima.
 
-Se você ativou o backup na nuvem, pode notar alguma atividade em direção aos servidores do Google (endereços que terminam em **googleapis.com**). Isso é esperado e seguro: é apenas o seu arquivo de backup bloqueado e criptografado, junto com uma verificação de login, sendo enviado diretamente para a **sua própria** conta do Google Drive - a mesma que você já usa para fotos ou Gmail. Nós nunca a vemos, recebemos ou guardamos uma cópia em lugar nenhum. Só você tem a chave de recuperação que pode desbloqueá-la.
+Se você ativou o backup na nuvem, pode notar alguma atividade em direção aos servidores do Google (endereços que terminam em **googleapis.com**). Isso é esperado e seguro: é apenas o seu arquivo de backup bloqueado e criptografado, junto com uma verificação de login, sendo enviado diretamente para a **sua própria** conta do Google Drive — a mesma que você já usa para fotos ou Gmail. Nós nunca a vemos, recebemos ou guardamos uma cópia em lugar nenhum. Só você tem a chave de recuperação que pode desbloqueá-la.
 
 ### 4. Rótulos de privacidade da App Store e Google Play
 
@@ -162,6 +162,6 @@ Declarado por uma dependência do framework. O aplicativo não baixa arquivos em
 
 Estas são permissões comuns que muitos aplicativos solicitam. Não solicitamos nenhuma delas e elas não aparecem em nosso manifesto.
 
-**Localização** - Sem GPS, sem geofencing, sem rastreamento **Contatos** - Sem acesso ao seu catálogo de endereços **Bluetooth** - Sem rede local ou varredura de dispositivo **Calendário** - Lembretes são tratados no dispositivo, não através do seu calendário
+**Localização** — Sem GPS, sem geofencing, sem rastreamento **Contatos** — Sem acesso ao seu catálogo de endereços **Bluetooth** — Sem rede local ou varredura de dispositivo **Calendário** — Lembretes são tratados no dispositivo, não através do seu calendário
 
 Ainda tem dúvidas? Leia nossa [Política de privacidade](https://traveldocumentvault.com/privacy-policy/) completa ou consulte as [Perguntas frequentes](https://traveldocumentvault.com/pt/faq/).

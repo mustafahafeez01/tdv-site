@@ -71,7 +71,7 @@ Uma aplicação encriptada dedicada concebida para documentos de viagem funciona
 
 ### Como funciona
 
-Quando adiciona a sua digitalização de passaporte à aplicação, é encriptada usando AES-256 e armazenada inteiramente no seu telefone. A aplicação funciona totalmente offline - não é necessária conta, não é necessário servidor. Se deseja acesso entre dispositivos, uma funcionalidade Pro opcional faz cópia de segurança de uma cópia encriptada para o seu próprio iCloud ou Google Drive, selada com um código de recuperação que apenas você tem.
+Quando adiciona a sua digitalização de passaporte à aplicação, é encriptada usando AES-256 e armazenada inteiramente no seu telefone. A aplicação funciona totalmente offline — não é necessária conta, não é necessário servidor. Se deseja acesso entre dispositivos, uma funcionalidade Pro opcional faz cópia de segurança de uma cópia encriptada para o seu próprio iCloud ou Google Drive, selada com um código de recuperação que apenas você tem.
 
 ### Propriedades de segurança
 
@@ -85,7 +85,7 @@ Quando adiciona a sua digitalização de passaporte à aplicação, é encriptad
 
 As vantagens de segurança são substanciais: os dados do seu passaporte nunca são transmitidos ou armazenados num servidor remoto, portanto nunca são acessíveis por mais ninguém, e não existe servidor remoto para comprometer se alguém ganha acesso não autorizado aos sistemas da empresa da aplicação. Isto significa que mantém controlo e propriedade completos dos seus documentos em todos os momentos.
 
-Contudo, este desenho vem com conveniência reduzida uma vez que não pode aceder automaticamente à sua cópia de passaporte entre vários dispositivos. Se perder o seu telemóvel, a aplicação não restaura automaticamente os seus documentos - teria de restaurar manualmente de uma cópia de segurança. Para a maioria das famílias a viajar juntas, guardar documentos no telemóvel de um progenitor é suficiente, e muitas aplicações suportam sincronização manual via cópia de segurança, o que adiciona uma camada de flexibilidade sem exigir envio automático para a cloud.
+Contudo, este desenho vem com conveniência reduzida uma vez que não pode aceder automaticamente à sua cópia de passaporte entre vários dispositivos. Se perder o seu telemóvel, a aplicação não restaura automaticamente os seus documentos — teria de restaurar manualmente de uma cópia de segurança. Para a maioria das famílias a viajar juntas, guardar documentos no telemóvel de um progenitor é suficiente, e muitas aplicações suportam sincronização manual via cópia de segurança, o que adiciona uma camada de flexibilidade sem exigir envio automático para a cloud.
 
 ## Tabela de Comparação Direta
 
@@ -114,7 +114,7 @@ A resposta depende da sua tolerância de risco pessoal e do caso de uso.
 
 Muitas pessoas usam uma abordagem híbrida: guardando uma cópia no iCloud ou Google Photos para acesso diário entre dispositivos, e uma segunda cópia numa aplicação encriptada dedicada como cópia de segurança segura. Isto proporciona tanto conveniência como redundância. O importante é compreender as compensações de cada método e escolher conscientemente.
 
-Qualquer que seja o método que escolha, lembre que uma cópia digital do seu passaporte é tão sensível como o documento físico - proteja-o com o mesmo cuidado e atenção.
+Qualquer que seja o método que escolha, lembre que uma cópia digital do seu passaporte é tão sensível como o documento físico — proteja-o com o mesmo cuidado e atenção.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

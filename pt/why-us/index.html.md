@@ -31,7 +31,7 @@ Construído o Travel Document Vault para minha família
 
 > "Cada viagem em família virava uma caça ao tesouro entre Fotos, e-mail e Drive. Construí isto para que a próxima viagem não fosse."
 
-Sem financiamento de capital de risco, sem acionistas, sem redes de publicidade - apenas um pai cansado do mesmo pânico, a cada viagem.
+Sem financiamento de capital de risco, sem acionistas, sem redes de publicidade — apenas um pai cansado do mesmo pânico, a cada viagem.
 
 [Leia a história completa →](https://traveldocumentvault.com/pt/blog/why-i-built-travel-document-vault/)
 
@@ -43,7 +43,7 @@ Na porta de embarque
 
 Balcão de imigração. O funcionário pede o visto.
 
-E se pudesse abrir uma app e tê-lo ali mesmo - sem pesquisar, sem mudar de app, acesso instantâneo?
+E se pudesse abrir uma app e tê-lo ali mesmo — sem pesquisar, sem mudar de app, acesso instantâneo?
 
 Se é este o seu caso: viajante de negócios, nómada digital ou viajante frequente.
 
@@ -162,7 +162,7 @@ Encriptação AES-256-GCM em repouso. As cópias de segurança encriptadas usam 
 
 As renovações de passaporte demoram 6 a 8 semanas. **Os lembretes começam 8 meses antes** e cascateiam automaticamente.
 
-Os lembretes chegam aos 6 meses, 3 meses, 6 semanas e dia de expiração - ajudando-o a manter-se sempre a par dos prazos de renovação.
+Os lembretes chegam aos 6 meses, 3 meses, 6 semanas e dia de expiração — ajudando-o a manter-se sempre a par dos prazos de renovação.
 
 Funciona para passaportes, vistos, cartas de condução, seguros e tudo o que tenha uma data de expiração.
 
@@ -323,7 +323,7 @@ Esta app foi concebida para realidades práticas, não para armazenamento genér
 
 As perguntas que ouvimos com mais frequência.
 
-O que acontece se perder o meu telemóvel? Os seus documentos residem no seu dispositivo. As cópias de segurança do sistema (iCloud ou Google Backup) reinstalam a aplicação mas NÃO restauram os documentos - a chave de encriptação nunca sai do seu dispositivo original. Para transferir documentos para um novo telefone, exporte o seu cofre (gratuito). Se tiver Pro, pode usar a cópia de segurança encriptada na nuvem com o seu código de recuperação para restaurar num toque. Funciona sem internet? Completamente. A app armazena tudo no seu dispositivo e nunca precisa de uma ligação à internet. O processamento OCR, os lembretes e a visualização de documentos funcionam todos offline. Os meus dados estão realmente seguros? Os seus documentos são fortemente encriptados no dispositivo e protegidos pelo chip de segurança integrado do telemóvel. Não há servidores na nuvem nem contas. O design significa que eu não consigo ler os seus dados, e nem a Apple nem a Google conseguem - pode verificar o modelo de privacidade na [página de Verificação de Privacidade](https://traveldocumentvault.com/pt/privacy-verification/). O bloqueio por PIN e o bloqueio biométrico (Face ID/Touch ID) são ambos gratuitos. É realmente uma compra única? Sim. O Pro custa $9.99 (dólares americanos), uma única vez, e cada país tem o seu próprio preço local mostrado na loja antes da compra. Sem subscrição, sem cobranças recorrentes, sem e-mails de "o seu período de avaliação está a terminar". O plano gratuito é genuinamente gratuito, 1 perfil, 5 documentos, todas as funcionalidades incluindo OCR e lembretes.
+O que acontece se perder o meu telemóvel? Os seus documentos residem no seu dispositivo. As cópias de segurança do sistema (iCloud ou Google Backup) reinstalam a aplicação mas NÃO restauram os documentos — a chave de encriptação nunca sai do seu dispositivo original. Para transferir documentos para um novo telefone, exporte o seu cofre (gratuito). Se tiver Pro, pode usar a cópia de segurança encriptada na nuvem com o seu código de recuperação para restaurar num toque. Funciona sem internet? Completamente. A app armazena tudo no seu dispositivo e nunca precisa de uma ligação à internet. O processamento OCR, os lembretes e a visualização de documentos funcionam todos offline. Os meus dados estão realmente seguros? Os seus documentos são fortemente encriptados no dispositivo e protegidos pelo chip de segurança integrado do telemóvel. Não há servidores na nuvem nem contas. O design significa que eu não consigo ler os seus dados, e nem a Apple nem a Google conseguem — pode verificar o modelo de privacidade na [página de Verificação de Privacidade](https://traveldocumentvault.com/pt/privacy-verification/). O bloqueio por PIN e o bloqueio biométrico (Face ID/Touch ID) são ambos gratuitos. É realmente uma compra única? Sim. O Pro custa $9.99 (dólares americanos), uma única vez, e cada país tem o seu próprio preço local mostrado na loja antes da compra. Sem subscrição, sem cobranças recorrentes, sem e-mails de "o seu período de avaliação está a terminar". O plano gratuito é genuinamente gratuito, 1 perfil, 5 documentos, todas as funcionalidades incluindo OCR e lembretes.
 
 Aplica-se à v1.x. Ver [Política de Preços](https://traveldocumentvault.com/pricing-policy/#version-policy).
 

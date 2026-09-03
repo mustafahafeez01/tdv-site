@@ -11,9 +11,9 @@ Source: https://traveldocumentvault.com/da/blog/is-it-safe-to-store-passport-in-
 ## Vigtigste punkter
 
 - At gemme en passcanning i Google Fotos betyder, at dit identitetsdokument ligger på Googles servere, bliver behandlet af deres systemer og kun beskyttet af den sikkerhed, din Google-konto tilfældigvis har.
-- En kompromitteret Google-konto - via phishing, et genbrugt kodeord eller et databrud et andet sted - udleverer alt indhold i Google Fotos, dit pas inklusive.
+- En kompromitteret Google-konto – via phishing, et genbrugt kodeord eller et databrud et andet sted – udleverer alt indhold i Google Fotos, dit pas inklusive.
 - Googles vilkår tillader automatiseret scanning af dine billeder til funktioner og tjenesteforbedringer, og det gælder også billeder med pasoplysninger.
-- Der findes bedre alternativer: krypterede kodeordshåndteringer, krypterede apps på enheden eller cloud-lagring med klientsidig kryptering - ingen af dem smider dit pas ind i et almindeligt fotobibliotek.
+- Der findes bedre alternativer: krypterede kodeordshåndteringer, krypterede apps på enheden eller cloud-lagring med klientsidig kryptering – ingen af dem smider dit pas ind i et almindeligt fotobibliotek.
 - For de fleste er den reelle risiko svag kontosikkerhed, ikke Google i sig selv: et genbrugt kodeord, et delt login, eller nogen der allerede ved, hvordan man kommer ind.
 
 Mange mennesker gemmer passcanninger i Google Fotos uden at tænke sig om: du skal bruge en kopi, du tager et billede, og det bliver sikkerhedskopieret automatisk. Spørgsmålet om, hvorvidt det faktisk er et klogt valg for dit mest følsomme identitetsdokument, dukker sjældent op, før noget går galt.
@@ -31,21 +31,21 @@ Før vi taler om risiko, lad os være konkrete om, hvad der faktisk er i en pass
 - Udstedelses- og udløbsdato
 - Fødested (i mange pas)
 - Dit fotografi
-- Den maskinlæsbare zone (MRZ) - de to tekstlinjer nederst, der koder alt ovenstående i et standardformat
+- Den maskinlæsbare zone (MRZ) – de to tekstlinjer nederst, der koder alt ovenstående i et standardformat
 
 Det er mange personlige oplysninger i ét billede. Navn, fødselsdato og pasnummer tilsammen er nok til at forsøge identitetstyveri, gennemføre et overbevisende phishing-angreb med dine rigtige oplysninger, eller i visse jurisdiktioner optage kredit i dit navn. **Fotoet gør det kun endnu mere nyttigt for nogen, der ikke burde have det.**
 
 ## Hvad er de reelle risici ved at opbevare i Google Fotos?
 
-Risiciene handler egentlig ikke om, at Google gør noget ondsindet; de er langt mere hverdagsagtige end det - hvilket er præcis det, der gør dem mere sandsynlige.
+Risiciene handler egentlig ikke om, at Google gør noget ondsindet; de er langt mere hverdagsagtige end det – hvilket er præcis det, der gør dem mere sandsynlige.
 
 **Kontokompromittering**
 
-Nogen kommer ind i din Google-konto - via phishing, et genbrugt kodeord fra et andet databrud, eller bare et svagt kodeord - og de har adgang til alt: hvert billede, hvert dokument, alt i Google Drev. Det er den mest realistiske trussel for de fleste, og det er præcis derfor, sikkerheden omkring pasbilleder betyder mere, end de fleste går og tror.
+Nogen kommer ind i din Google-konto – via phishing, et genbrugt kodeord fra et andet databrud, eller bare et svagt kodeord – og de har adgang til alt: hvert billede, hvert dokument, alt i Google Drev. Det er den mest realistiske trussel for de fleste, og det er præcis derfor, sikkerheden omkring pasbilleder betyder mere, end de fleste går og tror.
 
 **Delt adgang**
 
-Google-konti bliver delt oftere, end man skulle tro - mellem partnere, på familieenheder, med børn der kender pinkoden. Din passcanning ligger i Google Fotos, tilgængelig fra enhver logget-ind enhed, så det er ikke et teoretisk særtilfælde - det sker hele tiden.
+Google-konti bliver delt oftere, end man skulle tro – mellem partnere, på familieenheder, med børn der kender pinkoden. Din passcanning ligger i Google Fotos, tilgængelig fra enhver logget-ind enhed, så det er ikke et teoretisk særtilfælde – det sker hele tiden.
 
 **Tredjepartsapps med adgang**
 
@@ -53,11 +53,11 @@ Du har formentlig koblet flere apps til din Google-konto, end du tror, og nogle 
 
 **Automatiseret indholdsscanning**
 
-Googles privatlivspolitik bekræfter, at billeder bliver behandlet af automatiserede systemer - ansigtsgenkendelse, objektgenkendelse, søgeindeksering. Din passcanning gennemgår de samme systemer til søgning og funktionsgenkendelse. Intet menneske læser dit pas, og Google gør ikke noget lyssky her, men dine dokumentdata forlader stadig din enhed for at blive analyseret af tredjepartsinfrastruktur.
+Googles privatlivspolitik bekræfter, at billeder bliver behandlet af automatiserede systemer – ansigtsgenkendelse, objektgenkendelse, søgeindeksering. Din passcanning gennemgår de samme systemer til søgning og funktionsgenkendelse. Intet menneske læser dit pas, og Google gør ikke noget lyssky her, men dine dokumentdata forlader stadig din enhed for at blive analyseret af tredjepartsinfrastruktur.
 
 **Databrud hos Google**
 
-Google har en stærk sikkerhedshistorik, men ingen cloud-udbyder kan love, at dine data er sikret mod indbrud for evigt. For de fleste billeder er det en fin afvejning - men for identitetsdokumenter vil nogle med rette hellere have en løsning, hvor data aldrig rører en server overhovedet.
+Google har en stærk sikkerhedshistorik, men ingen cloud-udbyder kan love, at dine data er sikret mod indbrud for evigt. For de fleste billeder er det en fin afvejning – men for identitetsdokumenter vil nogle med rette hellere have en løsning, hvor data aldrig rører en server overhovedet.
 
 Hvad det betyder i praksis
 
@@ -77,7 +77,7 @@ Sig, at dit Google-kodeord blev genbrugt på en side, der led et databrud for to
 
 iOS-brugere antager ofte, at iCloud er markant sikrere end Google Fotos til opbevaring af passcanninger. På et strukturelt niveau ligner de hinanden meget. Begge gemmer dine billeder på cloud-servere, som udbyderen styrer, begge krypterer data under overførsel og i hvile med deres egne styrede nøgler, og begge behandler dine billeder gennem automatiserede systemer til funktioner som søgning og ansigtsgenkendelse.
 
-Apples Avanceret databeskyttelse (tilgængelig fra iOS 16.2) hæver barren - når den er slået til, udvider den end-to-end-kryptering til iCloud-fotos, hvilket betyder, at end ikke Apple kan læse dit indhold. Alligevel er den ikke slået til som standard, og de fleste brugere ved ikke, at den findes.
+Apples Avanceret databeskyttelse (tilgængelig fra iOS 16.2) hæver barren – når den er slået til, udvider den end-to-end-kryptering til iCloud-fotos, hvilket betyder, at end ikke Apple kan læse dit indhold. Alligevel er den ikke slået til som standard, og de fleste brugere ved ikke, at den findes.
 
 Den samme risiko for kontokompromittering gælder begge platforme. Et svagt Apple-ID-kodeord er lige så farligt som et svagt Google-kodeord. Ingen af dem er specifikt designet til at opbevare identitetsdokumenter med høj følsomhed.
 
@@ -87,17 +87,17 @@ Er du iPhone-bruger, er det værd at slå **Avanceret databeskyttelse i iCloud**
 
 ## Hvad er de sikrere alternativer?
 
-Vil du gerne have en digital paskopi ved hånden, når du rejser - som backup, hvis dit fysiske pas bliver væk eller stjålet - findes der løsninger, der giver reel sikkerhed uden det store besvær.
+Vil du gerne have en digital paskopi ved hånden, når du rejser – som backup, hvis dit fysiske pas bliver væk eller stjålet – findes der løsninger, der giver reel sikkerhed uden det store besvær.
 
 To ting er værd at holde adskilt: at gemme en kopi til eget brug, og at forvente, at nogen accepterer den som legitimation. Det er ikke det samme, og [hvor en digital paskopi bliver accepteret](https://traveldocumentvault.com/da/blog/digital-passport-copy-valid/) viser, hvor grænsen går.
 
 **Krypterede kodeordshåndteringer**
 
-1Password og Bitwarden lader dig begge gemme dokumentcanninger som vedhæftede filer. De bruger zero-knowledge-kryptering - udbyderen kan ikke læse dit indhold, selv hvis de ville. Dine dokumenter bliver krypteret på din enhed, før noget sendes til deres servere. Det er et reelt løft fra et almindeligt cloud-fotobibliotek.
+1Password og Bitwarden lader dig begge gemme dokumentcanninger som vedhæftede filer. De bruger zero-knowledge-kryptering – udbyderen kan ikke læse dit indhold, selv hvis de ville. Dine dokumenter bliver krypteret på din enhed, før noget sendes til deres servere. Det er et reelt løft fra et almindeligt cloud-fotobibliotek.
 
 **Krypterede apps på enheden**
 
-Apps bygget specifikt til dette - som [Travel Document Vault](https://traveldocumentvault.com) - holder alt på din telefon med stærk kryptering og uden krav om konto. Du får valgfri krypteret backup til din egen iCloud eller Google Drev (Pro), og der er ingen server at bryde ind i, fordi din digitale paskopi aldrig forlader enheden. Den eneste afvejning er, at hvis du mister telefonen uden en backup, forsvinder den digitale kopi med den, selvom dit fysiske pas stadig er hos dig.
+Apps bygget specifikt til dette – som [Travel Document Vault](https://traveldocumentvault.com) – holder alt på din telefon med stærk kryptering og uden krav om konto. Du får valgfri krypteret backup til din egen iCloud eller Google Drev (Pro), og der er ingen server at bryde ind i, fordi din digitale paskopi aldrig forlader enheden. Den eneste afvejning er, at hvis du mister telefonen uden en backup, forsvinder den digitale kopi med den, selvom dit fysiske pas stadig er hos dig.
 
 **Krypteret cloud-lagring med klientsidige nøgler**
 
@@ -105,15 +105,15 @@ Tresorit og Proton Drive tilbyder klientsidig kryptering til cloud-lagring, så 
 
 ## Bedste praksis, hvis du fortsætter med at bruge Google Fotos
 
-Mange vil fortsætte med at bruge Google Fotos til dette - bekvemmeligheden er reel. Er det dig, gør disse trin faktisk en forskel for risikoen:
+Mange vil fortsætte med at bruge Google Fotos til dette – bekvemmeligheden er reel. Er det dig, gør disse trin faktisk en forskel for risikoen:
 
-- **Slå totrinsgodkendelse til.** Det er det enkeltstående vigtigste, du kan gøre. Brug en autentificeringsapp, ikke sms - sms-baseret 2FA er bedre end intet, men lettere at opsnappe.
+- **Slå totrinsgodkendelse til.** Det er det enkeltstående vigtigste, du kan gøre. Brug en autentificeringsapp, ikke sms – sms-baseret 2FA er bedre end intet, men lettere at opsnappe.
 - **Brug et stærkt, unikt kodeord til din Google-konto.** Genbrug af kodeord på tværs af tjenester er, hvordan de fleste konti reelt bliver overtaget.
 - **Gennemgå dine tredjepartsapps' tilladelser.** Gå til myaccount.google.com → Sikkerhed → Tredjepartsapps med adgang til kontoen, og fjern alt, der ikke behøver at være der.
 - **Tjek dine aktive enheder og sessioner.** Fjern alt, du ikke genkender.
 - **Opret et privat album til følsomme dokumenter** i stedet for at lade dem ligge løst i din hovedstrøm af billeder. Det stopper ikke et databrud, men det mindsker utilsigtet eksponering, når nogen kigger med over skulderen.
 
-For flere tips til at holde dine rejsedokumenter organiserede og sikre, kan du kigge på vores [rejsedokument-tips på bloggen](https://traveldocumentvault.com/da/blog/) - herunder en praktisk guide til, hvordan du [organiserer familiens rejsedokumenter](https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-documents/) inden næste rejse.
+For flere tips til at holde dine rejsedokumenter organiserede og sikre, kan du kigge på vores [rejsedokument-tips på bloggen](https://traveldocumentvault.com/da/blog/) – herunder en praktisk guide til, hvordan du [organiserer familiens rejsedokumenter](https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-documents/) inden næste rejse.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
@@ -125,19 +125,19 @@ Det er bekvemt, men Google Fotos blev ikke bygget til følsomme identitetsdokume
 
 ### Scanner Google indholdet af billeder gemt i Google Fotos?
 
-Ja. Automatiserede systemer behandler dine billeder til ting som ansigtsgenkendelse, objektgenkendelse og søgeindeksering. Googles privatlivspolitik tillader også, at indhold bruges til at forbedre deres tjenester. Intet menneske læser dit pas - men dine dokumentdata bliver behandlet af Googles infrastruktur, ikke bare passivt liggende på en server.
+Ja. Automatiserede systemer behandler dine billeder til ting som ansigtsgenkendelse, objektgenkendelse og søgeindeksering. Googles privatlivspolitik tillader også, at indhold bruges til at forbedre deres tjenester. Intet menneske læser dit pas – men dine dokumentdata bliver behandlet af Googles infrastruktur, ikke bare passivt liggende på en server.
 
 ### Hvad er den sikreste måde at opbevare en digital paskopi på?
 
-Krypteret opbevaring på enheden er dit sikreste valg - apps, der holder dine canninger på telefonen med stærk kryptering og uden cloud-upload. Ingen tredjepartsserver rører nogensinde dine pasoplysninger. Vil du også have cloud-adgang, er en zero-knowledge-krypteret kodeordshåndtering som 1Password eller Bitwarden et solidt mellemtrin.
+Krypteret opbevaring på enheden er dit sikreste valg – apps, der holder dine canninger på telefonen med stærk kryptering og uden cloud-upload. Ingen tredjepartsserver rører nogensinde dine pasoplysninger. Vil du også have cloud-adgang, er en zero-knowledge-krypteret kodeordshåndtering som 1Password eller Bitwarden et solidt mellemtrin.
 
 ### Kan nogen stjæle min identitet fra en passcanning?
 
-Ja, realistisk set. Dit navn, fødselsdato, nationalitet, pasnummer og udløbsdato tilsammen er nok til at forsøge identitetstyveri, søge om kredit i dit navn eller udføre et meget overbevisende phishing-angreb. Risikoen stiger, hvis de data bliver kombineret med andre personlige oplysninger fra andre databrud - hvilket sker oftere, end de fleste regner med.
+Ja, realistisk set. Dit navn, fødselsdato, nationalitet, pasnummer og udløbsdato tilsammen er nok til at forsøge identitetstyveri, søge om kredit i dit navn eller udføre et meget overbevisende phishing-angreb. Risikoen stiger, hvis de data bliver kombineret med andre personlige oplysninger fra andre databrud – hvilket sker oftere, end de fleste regner med.
 
 ### Er iCloud sikrere end Google Fotos til opbevaring af passcanninger?
 
-På et strukturelt niveau ligner de hinanden meget. Begge gemmer billeder på cloud-servere, som udbyderen styrer, og begge behandler billeder gennem automatiserede systemer. Apples Avanceret databeskyttelse (iOS 16.2+) udvider end-to-end-kryptering til iCloud-fotos, når den er slået til, hvilket hæver barren mærkbart - men den er slået fra som standard, og de fleste brugere har ikke aktiveret den. Den større faktor for begge platforme er dit kontokodeord, og om totrinsgodkendelse er aktiveret. Specifikt til pasopbevaring forbliver en dedikeret krypteret app på enheden det stærkere valg, uanset platform.
+På et strukturelt niveau ligner de hinanden meget. Begge gemmer billeder på cloud-servere, som udbyderen styrer, og begge behandler billeder gennem automatiserede systemer. Apples Avanceret databeskyttelse (iOS 16.2+) udvider end-to-end-kryptering til iCloud-fotos, når den er slået til, hvilket hæver barren mærkbart – men den er slået fra som standard, og de fleste brugere har ikke aktiveret den. Den større faktor for begge platforme er dit kontokodeord, og om totrinsgodkendelse er aktiveret. Specifikt til pasopbevaring forbliver en dedikeret krypteret app på enheden det stærkere valg, uanset platform.
 
 ## Relaterede artikler
 

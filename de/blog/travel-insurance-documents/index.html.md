@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/de/blog/travel-insurance-documents/
 ## Wichtigste Erkenntnisse
 
 - **Speichern Sie Ihr vollständiges Versicherungsdokument, Ihre Versicherungsnummer und die 24-Stunden-Notfallhotline** (nicht die Vertriebsnummer).
-- Speichern Sie Kopien offline und zugänglich - E-Mail allein hilft Ihnen nicht weiter, wenn Sie festsitzen oder im Krankenhaus sind.
+- Speichern Sie Kopien offline und zugänglich – E-Mail allein hilft Ihnen nicht weiter, wenn Sie festsitzen oder im Krankenhaus sind.
 - **Die Vorabgenehmigung für medizinische Behandlung ist bei den meisten Policen erforderlich**; ohne sie können Ihre Ansprüche gekürzt oder nicht gezahlt werden.
 - Ansprüche werden am häufigsten abgelehnt, weil Dokumente fehlen: Polizeibericht für Diebstahl, Originalquittungen, unterzeichnete Anspruchsformulare.
 - Lesen Sie die wichtigsten Abschnitte Ihrer Versicherung schnell durch, indem Sie sich auf Deckungsgrenzen, Ausschlüsse und Bedingungen konzentrieren.
@@ -24,14 +24,14 @@ Es ist 2 Uhr morgens in Bangkok und Sie haben Lebensmittelvergiftung und Fieber.
 
 Ein paar fehlende Dokumente sind hier nicht nur unpraktisch. Sie entscheiden, ob die Behandlung sofort beginnt, ob Sie aus eigener Tasche zahlen und die Kosten später einreichen, oder ob der Anspruch komplett abgelehnt wird.
 
-Reiseversicherung funktioniert nur, wenn Sie sie im Notfall erreichen können. Die meisten Menschen speichern sie in E-Mails und können sie nicht finden, wenn eine Krise eintritt - normalerweise unter Stress, Zeitdruck oder einem medizinischen Notfall.
+Reiseversicherung funktioniert nur, wenn Sie sie im Notfall erreichen können. Die meisten Menschen speichern sie in E-Mails und können sie nicht finden, wenn eine Krise eintritt – normalerweise unter Stress, Zeitdruck oder einem medizinischen Notfall.
 
 ## Die fünf Dokumente, die Sie vor dem Flug speichern müssen
 
 Ihre Reiseversicherungspolice ist normalerweise eine PDF. Diese eine Datei enthält alles, was Sie brauchen, aber Sie sollten diese fünf Dinge separat extrahieren und speichern, damit Sie sie sofort finden können:
 
 - Vollständiges Versicherungsdokument (die PDF)
-- Versicherungsnummer (extrahieren Sie sie - schreiben Sie sie auch separat auf)
+- Versicherungsnummer (extrahieren Sie sie – schreiben Sie sie auch separat auf)
 - 24-Stunden-Notfallhotline (nicht die Verkaufs- oder Kundenservicenummer)
 - Was abgedeckt ist (Deckungsgrenzen für medizinische Leistungen, Gepäck, Stornierung etc.)
 - Wichtige Ausschlüsse und Bedingungen (einschließlich Vorabgenehmigungsanforderungen)
@@ -58,7 +58,7 @@ Speichern Sie Ihre Versicherungsdokumente zur Sicherung in einem passwortgeschü
 
 ### Physische Kopie mit Ihren Reisedokumenten
 
-Speichern Sie eine physische Kopie - oder ein hochauflösendes Foto der wichtigsten Seiten - zusammen mit Ihrem Pass, Visum und anderen Reisepapieren. Wenn Ihr Telefon den Geist aufgibt, ist das Ihr Rückzugsort.
+Speichern Sie eine physische Kopie – oder ein hochauflösendes Foto der wichtigsten Seiten – zusammen mit Ihrem Pass, Visum und anderen Reisepapieren. Wenn Ihr Telefon den Geist aufgibt, ist das Ihr Rückzugsort.
 
 Eine handgeschriebene Karte funktioniert genauso gut wie ein Ausdruck: Versicherungsnummer, Name des Versicherers, Notfallhotline. Stecken Sie sie in das Passmäppchen und sie überlebt einen leeren Akku, ein verlorenes Telefon und einen Hotelsafe, den Sie nicht öffnen können.
 
@@ -66,9 +66,9 @@ Eine handgeschriebene Karte funktioniert genauso gut wie ein Ausdruck: Versicher
 
 | Speicherort | Zugriff ohne Internet | Im Notfall | Sicherung bei Handyverlust |
 |---|---|---|---|
-| **Telefon (Offline-Download)** | Sofort, kein WiFi nötig | Sofort verfügbar - schnellste Option | Geht mit Telefon verloren, wenn nicht gesichert |
+| **Telefon (Offline-Download)** | Sofort, kein WiFi nötig | Sofort verfügbar – schnellste Option | Geht mit Telefon verloren, wenn nicht gesichert |
 | **Cloud-Laufwerk mit Offline-Zugriff** | Ja, wenn zuvor heruntergeladen | Hängt vom lokalen Cache ab; funktioniert, wenn Telefon die Datei gecacht hat | Wiederherstellbar auf Ersatztelefon mit Anmeldung |
-| **E-Mail** | Erfordert Internetverbindung | Unzuverlässig - Sie haben möglicherweise keinen Empfang oder Netz | Immer noch erreichbar, aber zeitaufwendig zu suchen |
+| **E-Mail** | Erfordert Internetverbindung | Unzuverlässig – Sie haben möglicherweise keinen Empfang oder Netz | Immer noch erreichbar, aber zeitaufwendig zu suchen |
 | **Physische Kopie (laminierte Karte oder Ausdruck)** | Ja, immer erreichbar | Am schnellsten, wenn Ihr Telefon leer oder weg ist | Geht verloren, wenn Pass verloren geht; in separater Tasche aufbewahren |
 | **Verschlüsselte App (z.B. Travel Document Vault)** | Ja, lokal auf Telefon gespeichert | Sofort erreichbar, dafür entwickelt | Verschlüsselt und privat; Cloud-Sicherung optional |
 
@@ -78,7 +78,7 @@ Selbst wenn Sie Ihre Dokumente erreichbar haben, können Sie Ihren Anspruch verl
 
 ### Medizinische Ansprüche: Sie haben keine Vorabgenehmigung eingeholt
 
-Die meisten Reiseversicherungspolicen verlangen eine Vorabgenehmigung vor der Behandlung. Das bedeutet, Ihren Versicherer anzurufen und sich vor einem Krankenhausbesuch oder einer Klinik genehmigen zu lassen. Die Anforderungen variieren je nach Versicherer und Police - prüfen Sie den Abschnitt zur medizinischen Behandlung in Ihrer spezifischen Police. Wenn Sie diesen Schritt überspringen und aus eigener Tasche zahlen, erhalten Sie oft die Ablehnung „die Behandlung war nicht vorab genehmigt." Viele Versicherer werden ohne Vorabgenehmigung nicht erstatten, auch wenn die Behandlung notwendig und abgedeckt war.
+Die meisten Reiseversicherungspolicen verlangen eine Vorabgenehmigung vor der Behandlung. Das bedeutet, Ihren Versicherer anzurufen und sich vor einem Krankenhausbesuch oder einer Klinik genehmigen zu lassen. Die Anforderungen variieren je nach Versicherer und Police – prüfen Sie den Abschnitt zur medizinischen Behandlung in Ihrer spezifischen Police. Wenn Sie diesen Schritt überspringen und aus eigener Tasche zahlen, erhalten Sie oft die Ablehnung „die Behandlung war nicht vorab genehmigt." Viele Versicherer werden ohne Vorabgenehmigung nicht erstatten, auch wenn die Behandlung notwendig und abgedeckt war.
 
 Stellen Sie sich vor, Sie werden wegen Blinddarmentzündung in Mumbai ins Krankenhaus eingeliefert. Das Krankenhaus verlangt Zahlung im Voraus oder eine Garantie Ihres Versicherers, und Sie haben ein zwei-Stunden-Fenster vor der Operation. Ohne die Genehmigungsnummer Ihres Versicherers verlangt das Krankenhaus Bargeld. Das lässt Ihnen zwei schlechte Optionen: jetzt zahlen und riskieren, Monate später eine abgelehnte Forderung zu bekommen, oder die Operation verzögern, während Sie Ihren Versicherer kontaktieren. Ein Anruf vermeidet das Ganze. Mit einer Bestätigungsnummer in der Hand wird das Krankenhaus Ihren Versicherer direkt abrechnen.
 
@@ -122,7 +122,7 @@ Dies ist, was Sie vor Ihrem Flug tun sollten:
 
 - Laden Sie Ihre Versicherungspolice PDF auf Ihr Telefon herunter
 - Machen Sie einen Screenshot der Policyabdeckungsseite (mit Versicherungsnummer) und der Notfallkontaktseite
-- Speichern Sie beides in einem Ordner auf Ihrem Telefon mit einem Label, das Sie sofort erkennen (etwa "Versicherung - diese Reise")
+- Speichern Sie beides in einem Ordner auf Ihrem Telefon mit einem Label, das Sie sofort erkennen (etwa "Versicherung – diese Reise")
 - Schreiben Sie Ihre 24-Stunden-Notfallnummer auf oder merken Sie sie sich
 - Lesen Sie den Abschnitt "Wie man einen Anspruch einreicht", damit Sie den Prozess kennen, falls nötig
 - Speichern Sie eine physische Sicherung (gedruckte Kopie oder handschriftliche Notiz mit Versicherungsnummer und Notfallhotline)
@@ -156,6 +156,6 @@ Reiseversicherung schützt Sie in den meisten Ländern weltweit während Ihrer R
 
 ## Verwandte Artikel
 
-[Reisevorbereitung8 Min. LesezeitReisedokumente, die Menschen übersehen - und wo Sie diese aufbewahren](https://traveldocumentvault.com/de/blog/what-documents-to-carry-when-travelling-internationally/)
+[Reisevorbereitung8 Min. LesezeitReisedokumente, die Menschen übersehen – und wo Sie diese aufbewahren](https://traveldocumentvault.com/de/blog/what-documents-to-carry-when-travelling-internationally/)
 
 [Reisevorbereitung7 Min. LesezeitPass verloren im Ausland: Notfallmaßnahmen sofort](https://traveldocumentvault.com/de/blog/lost-passport-abroad/)

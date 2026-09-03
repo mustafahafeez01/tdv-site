@@ -18,11 +18,11 @@ Source: https://traveldocumentvault.com/de/blog/child-travel-consent-letter/
 
 Eine Einverständniserklärung erfüllt am Abfertigungsschalter genau eine Aufgabe: Sie belegt, dass die mitreisende erwachsene Person das Einverständnis des abwesenden Elternteils hat. Die meisten werden kommentarlos akzeptiert. Wo es zu Verzögerungen kommt, scheitert es meist an einer Kleinigkeit statt am Inhalt – am häufigsten an einer Passnummer, die sich bei der letzten Verlängerung des Kindes geändert hat.
 
-Dieses Szenario - und Tausende wie es - passiert, weil Zustimmungsschreiben für Kinderreisen eines der am häufigsten missverstandenen Reisedokumente sind. Die Regeln unterscheiden sich je nach Land erheblich, und ein Brief, der bei einer Reise einwandfrei funktioniert, kann an der Grenze bei der nächsten fehlschlagen. Wenn Sie genau wissen, wann einer erforderlich ist, was er enthalten muss und wie Sie ihn gültig halten, vermeiden Sie die häufigsten Gründe, warum Familien an der Grenze gestoppt werden.
+Dieses Szenario – und Tausende wie es – passiert, weil Zustimmungsschreiben für Kinderreisen eines der am häufigsten missverstandenen Reisedokumente sind. Die Regeln unterscheiden sich je nach Land erheblich, und ein Brief, der bei einer Reise einwandfrei funktioniert, kann an der Grenze bei der nächsten fehlschlagen. Wenn Sie genau wissen, wann einer erforderlich ist, was er enthalten muss und wie Sie ihn gültig halten, vermeiden Sie die häufigsten Gründe, warum Familien an der Grenze gestoppt werden.
 
 ## Wer braucht wirklich einen Reisezustimmungsbrief?
 
-Das hängt vollständig von Ihrem Zielort ab - es gibt keinen globalen Standard, weshalb so viele Familien überrascht werden.
+Das hängt vollständig von Ihrem Zielort ab – es gibt keinen globalen Standard, weshalb so viele Familien überrascht werden.
 
 Ein Brief ist üblicherweise in diesen Situationen erforderlich:
 
@@ -37,7 +37,7 @@ Ein Brief ist üblicherweise in diesen Situationen erforderlich:
 
 ## Was der Brief enthalten muss
 
-Ein Zustimmungsbrief für Kinderreisen ist kein beiläufiges Schreiben - es ist ein formales Dokument, das oft notariell beglaubigt ist und spezifische Informationen enthalten muss. Jeder Brief sollte folgendes enthalten:
+Ein Zustimmungsbrief für Kinderreisen ist kein beiläufiges Schreiben – es ist ein formales Dokument, das oft notariell beglaubigt ist und spezifische Informationen enthalten muss. Jeder Brief sollte folgendes enthalten:
 
 - **Vollständiger Name und Geburtsdatum des Kindes**, genau wie im Reisepass gedruckt.
 - **Reisepass-Nummer des Kindes.**
@@ -49,7 +49,7 @@ Ein Zustimmungsbrief für Kinderreisen ist kein beiläufiges Schreiben - es ist 
 - **Unterschrift(en) des abwesenden Elternteils**, mit Datum.
 - **Notarielle Beglaubigung oder Beglaubigung**, falls vom Zielort verlangt.
 
-Schreiben Sie den Brief in formeller Sprache - vermeiden Sie vage Formulierungen wie "mein Kind kann jederzeit reisen". Grenzbeamte müssen sehen, dass der abwesende Elternteil dieser bestimmten Reise, an diesen bestimmten Daten, an diese bestimmten Orte, ausdrücklich zustimmt. Sie könnten zum Beispiel schreiben: "Ich, [Vollständiger Name], gestatten hiermit, dass mein Kind [Name des Kindes], Reisepass-Nummer [Nummer], zu [Zielen] reist und sich abreist am [Datum] und zurückkehrt am [Datum], begleitet von [Name des Reisebegleiters und Beziehung]."
+Schreiben Sie den Brief in formeller Sprache – vermeiden Sie vage Formulierungen wie "mein Kind kann jederzeit reisen". Grenzbeamte müssen sehen, dass der abwesende Elternteil dieser bestimmten Reise, an diesen bestimmten Daten, an diese bestimmten Orte, ausdrücklich zustimmt. Sie könnten zum Beispiel schreiben: "Ich, [Vollständiger Name], gestatten hiermit, dass mein Kind [Name des Kindes], Reisepass-Nummer [Nummer], zu [Zielen] reist und sich abreist am [Datum] und zurückkehrt am [Datum], begleitet von [Name des Reisebegleiters und Beziehung]."
 
 Einige Grenzbeamte werden die angegebene Telefonnummer anrufen, um die Zustimmung zu überprüfen. Stellen Sie sicher, dass diese Nummer korrekt ist, dass sie von der benannten Person beantwortet wird und dass diese Berechtigungserteilung bestätigen kann. Wenn Sie nicht garantieren können, dass jemand während der Grenzöffnungszeiten antwortet, nennen Sie einen alternativen Kontakt und notieren Sie dies im Brief.
 

@@ -92,7 +92,7 @@ Se os campos da sua própria página de dados não estiverem em português, a di
 
 ### O que significa "data de expedição" num passaporte?
 
-Significa data de emissão - o dia em que o passaporte foi produzido. A expressão vem de formulários em espanhol e português, onde fecha de expedición e data de expedição se traduzem literalmente como expedition date. Não tem nada a ver com uma viagem, e nunca é a data de validade.
+Significa data de emissão — o dia em que o passaporte foi produzido. A expressão vem de formulários em espanhol e português, onde fecha de expedición e data de expedição se traduzem literalmente como expedition date. Não tem nada a ver com uma viagem, e nunca é a data de validade.
 
 ### A data de emissão é o mesmo que a data de validade?
 

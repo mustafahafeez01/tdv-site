@@ -12,8 +12,8 @@ Source: https://traveldocumentvault.com/fr/blog/passport-photo-at-home/
 
 - Utilisez un arrière-plan blanc ou blanc cassé uni, une expression neutre, les yeux ouverts et regardant droit devant
 - Les exigences de taille varient selon le pays et elles sont appliquées strictement. Certaines autorités spécifient les millimètres, d'autres les pouces. Prenez les mesures exactes auprès de votre propre autorité de passeport plutôt que d'un résumé tiers
-- La lumière naturelle d'une fenêtre fonctionne mieux - évitez les ombres dures et n'utilisez pas le flash
-- La plupart des pays interdisent désormais les lunettes sauf si elles sont médicalement nécessaires - vérifiez les exigences actuelles
+- La lumière naturelle d'une fenêtre fonctionne mieux — évitez les ombres dures et n'utilisez pas le flash
+- La plupart des pays interdisent désormais les lunettes sauf si elles sont médicalement nécessaires — vérifiez les exigences actuelles
 - Les raisons courantes de rejet incluent les ombres, une mauvaise taille, le sourire, les photos floues et des arrière-plans inappropriés
 
 Une photo prise chez vous est acceptée aussi facilement qu'une photo de cabine, à condition de respecter la même courte liste de règles. La plupart des rejets tiennent à trois choses : une ombre sur le visage ou l'arrière-plan, une tête mal proportionnée dans le cadre, et les lunettes. Une fois ces trois points réglés, le reste est simple.
@@ -24,7 +24,7 @@ Bien que les règles spécifiques varient selon l'autorité de passeport, la plu
 
 ### Arrière-plan et composition
 
-Vous avez besoin d'un arrière-plan blanc ou blanc cassé uni - rien d'autre ne fonctionne. Pas de motifs, d'ombres, d'arrière-plans flous ou de couleurs. La raison est simple : les responsables ont besoin d'une vue nette et sans encombrement de votre visage pour le comparer avec les documents futurs. La plupart des gens utilisent un drap blanc, un carton de présentation ou même peignent une petite section de mur. L'essentiel est de garder l'arrière-plan lumineux et uniforme.
+Vous avez besoin d'un arrière-plan blanc ou blanc cassé uni — rien d'autre ne fonctionne. Pas de motifs, d'ombres, d'arrière-plans flous ou de couleurs. La raison est simple : les responsables ont besoin d'une vue nette et sans encombrement de votre visage pour le comparer avec les documents futurs. La plupart des gens utilisent un drap blanc, un carton de présentation ou même peignent une petite section de mur. L'essentiel est de garder l'arrière-plan lumineux et uniforme.
 
 ### Expression et pose
 
@@ -44,9 +44,9 @@ Les soumissions numériques remplacent les millimètres par des pixels, et chaqu
 
 ### Où vérifier les exigences de taille de votre pays
 
-La taille est là où la plupart des gens se trompent - si votre photo ne correspond pas aux spécifications de votre pays, le rejet est presque certain. Chaque pays fixe ses propres dimensions, et ces règles sont révisées de temps en temps. Les seules figures qui valent la peine d'être fiables sont celles du site officiel de votre propre autorité de passeport le jour où vous soumettez.
+La taille est là où la plupart des gens se trompent — si votre photo ne correspond pas aux spécifications de votre pays, le rejet est presque certain. Chaque pays fixe ses propres dimensions, et ces règles sont révisées de temps en temps. Les seules figures qui valent la peine d'être fiables sont celles du site officiel de votre propre autorité de passeport le jour où vous soumettez.
 
-Les exigences diffèrent d'un pays à l'autre, et certaines se spécifient en pouces plutôt qu'en millimètres. Nous ne réimprimons délibérément pas les chiffres ici - un chiffre copié dans un article de blog est un chiffre qui peut discrètement se perdre. Allez directement auprès de votre autorité à la place.
+Les exigences diffèrent d'un pays à l'autre, et certaines se spécifient en pouces plutôt qu'en millimètres. Nous ne réimprimons délibérément pas les chiffres ici — un chiffre copié dans un article de blog est un chiffre qui peut discrètement se perdre. Allez directement auprès de votre autorité à la place.
 
 | Pays | Où vérifier les exigences actuelles |
 |---|---|
@@ -55,7 +55,7 @@ Les exigences diffèrent d'un pays à l'autre, et certaines se spécifient en po
 | Australie | guide des photos du Bureau australien des passeports |
 | Canada | photos de passeport du Gouvernement du Canada |
 
-Ces spécifications sont exactes - même quelques millimètres de décalage signifie un rejet. La photo brute de votre smartphone sera généralement beaucoup plus grande que ce que vous devez soumettre. C'est pourquoi les applications de recadrage existent. Les outils gratuits ou peu coûteux disponibles sur iOS et Android vous permettent d'entrer votre pays et de redimensionner automatiquement selon la spécification exacte.
+Ces spécifications sont exactes — même quelques millimètres de décalage signifie un rejet. La photo brute de votre smartphone sera généralement beaucoup plus grande que ce que vous devez soumettre. C'est pourquoi les applications de recadrage existent. Les outils gratuits ou peu coûteux disponibles sur iOS et Android vous permettent d'entrer votre pays et de redimensionner automatiquement selon la spécification exacte.
 
 ### Comparaison des méthodes de soumission de photos
 
@@ -83,17 +83,17 @@ Utilisez un trépied ou posez votre téléphone contre un objet stable pour avoi
 
 ### Résolution et mise au point
 
-Les smartphones modernes prennent des photos à 12 mégapixels ou plus, ce qui est plus que suffisant pour les photos de passeport. Avant de tourner, assurez-vous que votre téléphone est en mode de mise au point - tapotez sur votre visage sur l'écran, et la plupart des téléphones verrouillent le foyer là. Votre image finale doit être nette et claire.
+Les smartphones modernes prennent des photos à 12 mégapixels ou plus, ce qui est plus que suffisant pour les photos de passeport. Avant de tourner, assurez-vous que votre téléphone est en mode de mise au point — tapotez sur votre visage sur l'écran, et la plupart des téléphones verrouillent le foyer là. Votre image finale doit être nette et claire.
 
 ## Raisons courantes de rejet et comment les éviter
 
 - **Ombres sur le visage :** Causée par un éclairage latéral ou des sources lumineuses dures. Positionnez-vous perpendiculairement à une fenêtre pour un éclairage uniforme, et vérifiez que vos oreilles et vos pommettes sont uniformément éclairés.
-- **Dimensions de photo incorrectes :** La photo ne correspond pas aux spécifications de votre pays (les exigences varient selon le pays). Utilisez une application de recadrage de photo de passeport et vérifiez deux fois les dimensions par rapport à la spécification officielle de votre autorité avant d'imprimer ou de télécharger - pas les normes d'un autre pays.
-- **Sourire ou expression inhabituelle :** La plupart des pays exigent une expression neutre. Entraînez-vous à faire un regard calme et droit devant vous dans un miroir - visez grave, pas sévère.
+- **Dimensions de photo incorrectes :** La photo ne correspond pas aux spécifications de votre pays (les exigences varient selon le pays). Utilisez une application de recadrage de photo de passeport et vérifiez deux fois les dimensions par rapport à la spécification officielle de votre autorité avant d'imprimer ou de télécharger — pas les normes d'un autre pays.
+- **Sourire ou expression inhabituelle :** La plupart des pays exigent une expression neutre. Entraînez-vous à faire un regard calme et droit devant vous dans un miroir — visez grave, pas sévère.
 - **Verres avec reflet :** Le reflet sur les verres masque vos yeux. Soit enlevez vos lunettes, soit ajustez l'angle pour éliminer le reflet. De nombreux pays interdisent désormais complètement les lunettes sauf si elles sont médicalement nécessaires. Vérifiez d'abord les règles actuelles de votre autorité.
 - **Image floue ou non mise au point :** Problèmes de mouvement ou de mise au point lors de la capture. Utilisez un trépied ou un objet stable pour vous aider à maintenir votre téléphone, appuyez sur l'écran pour mettre au point votre visage, et évitez tout mouvement pendant le tir.
-- **Mauvais arrière-plan :** Arrière-plan coloré, motif ou arrière-plan blanc inégal. Du carton blanc ou blanc cassé uni ou un drap fonctionne mieux - assurez-vous qu'aucune texture ou ombre visible.
-- **Espace excessif au-dessus de la tête ou recadrage :** Visage trop petit ou mal positionné dans le cadre. Les règles de votre pays indiqueront exactement la quantité de cadre que votre visage doit remplir, généralement sous forme de mesure du menton à la couronne plutôt qu'un pourcentage - travaillez sur ce chiffre, pas sur ce qui semble correct.
+- **Mauvais arrière-plan :** Arrière-plan coloré, motif ou arrière-plan blanc inégal. Du carton blanc ou blanc cassé uni ou un drap fonctionne mieux — assurez-vous qu'aucune texture ou ombre visible.
+- **Espace excessif au-dessus de la tête ou recadrage :** Visage trop petit ou mal positionné dans le cadre. Les règles de votre pays indiqueront exactement la quantité de cadre que votre visage doit remplir, généralement sous forme de mesure du menton à la couronne plutôt qu'un pourcentage — travaillez sur ce chiffre, pas sur ce qui semble correct.
 
 ## Du smartphone à la photo officielle : le processus
 
@@ -101,7 +101,7 @@ Votre photo de smartphone n'a rarement la bonne taille dès le départ. Après a
 
 ### Outils de recadrage
 
-Les applications de recadrage enlèvent les conjectures du redimensionnement. Recherchez des outils comme Passport Photo Online ou ID Photo Studio sur iOS et Android - ils vous permettent de sélectionner votre pays et de recadrer automatiquement selon les spécifications tout en vérifiant que les dimensions de votre visage sont correctes. De nombreuses applications vont plus loin en fournissant des commentaires si votre éclairage ou votre arrière-plan ne suffit pas.
+Les applications de recadrage enlèvent les conjectures du redimensionnement. Recherchez des outils comme Passport Photo Online ou ID Photo Studio sur iOS et Android — ils vous permettent de sélectionner votre pays et de recadrer automatiquement selon les spécifications tout en vérifiant que les dimensions de votre visage sont correctes. De nombreuses applications vont plus loin en fournissant des commentaires si votre éclairage ou votre arrière-plan ne suffit pas.
 
 ### Impression vs. soumission numérique
 
@@ -119,7 +119,7 @@ Avant de prendre votre photo, assurez-vous que vous avez ce qui suit en place :
 - Une application de recadrage téléchargée et prête à l'emploi
 - Un plan pour l'impression ou la soumission numérique en fonction des exigences de votre pays
 
-Quelques minutes passées à bien configurer maintenant vous évite d'avoir à soumettre à nouveau plus tard - ce qui signifie que votre demande ne sera pas retardée.
+Quelques minutes passées à bien configurer maintenant vous évite d'avoir à soumettre à nouveau plus tard — ce qui signifie que votre demande ne sera pas retardée.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 

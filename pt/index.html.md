@@ -40,11 +40,11 @@ Os documentos são encriptados no seu dispositivo com AES-256-GCM, utilizando ch
 
 ### A Sua Nuvem. A Sua Chave.
 
-Cópia de segurança criptografada opcional para o seu iCloud ou Google Drive, com restauração num toque num novo telefone - o utilizador tem o código de recuperação, pelo que nunca o vemos. Exportação gratuita do Cofre está sempre incluída.
+Cópia de segurança criptografada opcional para o seu iCloud ou Google Drive, com restauração num toque num novo telefone — o utilizador tem o código de recuperação, pelo que nunca o vemos. Exportação gratuita do Cofre está sempre incluída.
 
 ### Lembretes Inteligentes
 
-Os passaportes avisam-no oito meses antes e depois os lembretes aproximam-se - seis meses, três, seis semanas, um mês - até ao dia da validade. Cada tipo de documento tem o seu próprio calendário, pronto assim que o adiciona.
+Os passaportes avisam-no oito meses antes e depois os lembretes aproximam-se — seis meses, três, seis semanas, um mês — até ao dia da validade. Cada tipo de documento tem o seu próprio calendário, pronto assim que o adiciona.
 
 ### Lógica Familiar
 
@@ -248,7 +248,7 @@ Restaure as compras a qualquer momento com a conta App Store ou Google Play que 
 
 ## Perguntas Frequentes
 
-É realmente privado? Sim. Tudo é armazenado 100% no seu dispositivo. Não temos acesso aos seus documentos e não existe nenhuma base de dados na nuvem. Não confie apenas na nossa palavra - [verifique você mesmo](https://traveldocumentvault.com/pt/privacy-verification/). E se perder o meu telemóvel? O seu cofre está armazenado no seu dispositivo. Se mudar de telemóvel, restaure usando a sua cópia de segurança habitual do telemóvel. [Ver todas as respostas sobre privacidade e dados](https://traveldocumentvault.com/pt/faq/)
+É realmente privado? Sim. Tudo é armazenado 100% no seu dispositivo. Não temos acesso aos seus documentos e não existe nenhuma base de dados na nuvem. Não confie apenas na nossa palavra — [verifique você mesmo](https://traveldocumentvault.com/pt/privacy-verification/). E se perder o meu telemóvel? O seu cofre está armazenado no seu dispositivo. Se mudar de telemóvel, restaure usando a sua cópia de segurança habitual do telemóvel. [Ver todas as respostas sobre privacidade e dados](https://traveldocumentvault.com/pt/faq/)
 
 **Importante:** Travel Document Vault é uma ferramenta de organização pessoal para armazenar cópias digitais dos seus documentos. **As cópias digitais armazenadas nesta aplicação NÃO são válidas para viagens.** Não verifica a autenticidade de documentos nem fornece aconselhamento jurídico ou de viagem. Transporte sempre documentos originais e verifique todos os requisitos de viagem junto das fontes governamentais oficiais.
 

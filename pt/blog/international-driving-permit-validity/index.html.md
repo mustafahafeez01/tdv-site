@@ -126,4 +126,4 @@ Resultam de convenções internacionais distintas. A maioria das viagens está c
 
 [Regras de Passaporte9 min de leitura · 4 mar 2026Lista de Verificação de Documentos de Viagem Internacional para Cada Viagem](https://traveldocumentvault.com/pt/blog/travel-document-checklist/)
 
-[Viagens em Família6 min de leitura · 30 abr 2026Quanto Tempo um Passaporte é Válido para Viajar - Regras de Validade Explicadas](https://traveldocumentvault.com/pt/blog/how-long-is-passport-valid-for-travel/)
+[Viagens em Família6 min de leitura · 30 abr 2026Quanto Tempo um Passaporte é Válido para Viajar — Regras de Validade Explicadas](https://traveldocumentvault.com/pt/blog/how-long-is-passport-valid-for-travel/)

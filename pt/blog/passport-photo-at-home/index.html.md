@@ -12,8 +12,8 @@ Source: https://traveldocumentvault.com/pt/blog/passport-photo-at-home/
 
 - Use um fundo branco ou branco pérola simples, expressão neutra, e os olhos abertos a olhar em frente
 - Os requisitos de tamanho diferem de país para país e são aplicados com rigor. Algumas autoridades especificam milímetros, outras polegadas. Tire as medições exatas da sua própria autoridade de passaportes em vez de qualquer resumo
-- A luz natural de janela funciona melhor - evite sombras fortes e evite usar o flash da câmara
-- A maioria dos países agora proíbe óculos a menos que seja medicamente necessário - verifique os requisitos atuais
+- A luz natural de janela funciona melhor — evite sombras fortes e evite usar o flash da câmara
+- A maioria dos países agora proíbe óculos a menos que seja medicamente necessário — verifique os requisitos atuais
 - Os motivos de rejeição comuns incluem sombras, tamanho errado, sorrisos, fotos desfocadas, e fundos impróprios
 
 Uma foto tirada em casa é aceite tão facilmente como uma de fotógrafo, desde que cumpra a mesma lista curta de regras. A maioria das rejeições resume-se a três coisas: sombra no rosto ou no fundo, a cabeça com o tamanho errado no enquadramento, e óculos. Acerte nisso e o resto é simples.
@@ -24,11 +24,11 @@ Embora as regras específicas variem por autoridade de passaportes, a maioria do
 
 ### Fundo e Composição
 
-Precisa de um fundo branco ou branco pérola simples - nada mais funciona. Sem padrões, sombras, fundos desfocados, ou cores. A razão é direta: os oficiais precisam de uma visão limpa e sem clutter do seu rosto para comparar com documentos futuros. A maioria das pessoas usa um lençol branco, cartolina, ou até pinta uma pequena secção de parede. A chave é mantê-lo brilhante e uniforme em toda a área.
+Precisa de um fundo branco ou branco pérola simples — nada mais funciona. Sem padrões, sombras, fundos desfocados, ou cores. A razão é direta: os oficiais precisam de uma visão limpa e sem clutter do seu rosto para comparar com documentos futuros. A maioria das pessoas usa um lençol branco, cartolina, ou até pinta uma pequena secção de parede. A chave é mantê-lo brilhante e uniforme em toda a área.
 
 ### Expressão e Pose
 
-O seu rosto precisa de preencher o quadro na proporção que a sua autoridade de passaportes especifica, com os olhos abertos e claramente visíveis - a maioria dos países proíbe sorrisos, e apertar os olhos desqualificará a foto. Olhe em frente para a câmara com uma expressão neutra, inclinando ligeiramente a cabeça se isso parecer mais natural, mas geralmente mantendo a cabeça quadrada em relação à lente. As suas orelhas devem ser idealmente visíveis em ambos os lados do seu rosto.
+O seu rosto precisa de preencher o quadro na proporção que a sua autoridade de passaportes especifica, com os olhos abertos e claramente visíveis — a maioria dos países proíbe sorrisos, e apertar os olhos desqualificará a foto. Olhe em frente para a câmara com uma expressão neutra, inclinando ligeiramente a cabeça se isso parecer mais natural, mas geralmente mantendo a cabeça quadrada em relação à lente. As suas orelhas devem ser idealmente visíveis em ambos os lados do seu rosto.
 
 ## Posso Usar Óculos na Foto do Passaporte?
 
@@ -44,9 +44,9 @@ As submissões digitais trocam milímetros por píxeis, e cada autoridade public
 
 ### Especificações Oficiais de Tamanho por País
 
-O tamanho é onde a maioria das pessoas tropeça - se a sua foto não se adequar aos specs do seu país, a rejeição é quase certa. Cada país define as suas próprias dimensões, e essas regras são revistas de tempos em tempos, portanto as únicas figuras que vale a pena confiar são as da página da sua própria autoridade de passaportes no dia que submete.
+O tamanho é onde a maioria das pessoas tropeça — se a sua foto não se adequar aos specs do seu país, a rejeição é quase certa. Cada país define as suas próprias dimensões, e essas regras são revistas de tempos em tempos, portanto as únicas figuras que vale a pena confiar são as da página da sua própria autoridade de passaportes no dia que submete.
 
-Os requisitos diferem de país para país, e alguns são especificados em polegadas em vez de milímetros. Propositadamente não republicamos os números aqui - um número copiado num artigo de blogue é um número que pode silenciosamente ficar desatualizado. Vá diretamente à sua autoridade em vez disso.
+Os requisitos diferem de país para país, e alguns são especificados em polegadas em vez de milímetros. Propositadamente não republicamos os números aqui — um número copiado num artigo de blogue é um número que pode silenciosamente ficar desatualizado. Vá diretamente à sua autoridade em vez disso.
 
 | País | Onde verificar os requisitos atuais |
 |---|---|
@@ -55,7 +55,7 @@ Os requisitos diferem de país para país, e alguns são especificados em polega
 | Austrália | orientação de foto do Escritório de Passaportes Australiano |
 | Canadá | fotos de passaporte do Governo do Canadá |
 
-Estas especificações são exatas - mesmo alguns milímetros de diferença significa rejeição. A foto bruta do seu smartphone será tipicamente muito maior do que o que precisa de enviar, é por isso que as aplicações de corte existem. Ferramentas gratuitas ou de baixo custo disponíveis em iOS e Android permitem-lhe introduzir o seu país e redimensionar automaticamente para a spec exata.
+Estas especificações são exatas — mesmo alguns milímetros de diferença significa rejeição. A foto bruta do seu smartphone será tipicamente muito maior do que o que precisa de enviar, é por isso que as aplicações de corte existem. Ferramentas gratuitas ou de baixo custo disponíveis em iOS e Android permitem-lhe introduzir o seu país e redimensionar automaticamente para a spec exata.
 
 ### Comparação de Métodos de Submissão de Foto
 
@@ -63,11 +63,11 @@ Tem várias opções para colocar a sua foto de passaporte nas mãos da autorida
 
 | Método | Custo | Risco de Aceitação | Conveniência | Orientação Oficial |
 |---|---|---|---|---|
-| DIY em casa (smartphone + aplicação de corte) | Gratuito ou quase | Mais alto se errar iluminação ou specs de tamanho | Muito alto - imediato | Permitido na maioria dos países - verifique o site da sua autoridade |
-| Farmácia ou drogaria local | Uma taxa modesta | Baixo - profissionais treinados verificam | Médio - serviço no próprio dia típico | Amplamente utilizado e geralmente fiável - verifique na mesma o requisitos de foto da sua autoridade |
-| Correios (Reino Unido e outros) | Uma taxa modesta | Baixo - tirada internamente, verificada | Médio - requer visita e marcação | Serviço oficial dos Correios |
-| Serviços online (p.ex. Passport Photo Online) | Uma taxa modesta | Médio - submissão digital, feedback fornecido | Alto - de casa, entrega digital | Não oficial mas amplamente utilizado - verifique se o seu país aceita uploads pré-cortados |
-| Estúdio de fotografia profissional | A opção mais cara | Baixo - iluminação e composição de especialista | Baixo - requer marcação | Aceite em toda a parte - sempre uma escolha segura |
+| DIY em casa (smartphone + aplicação de corte) | Gratuito ou quase | Mais alto se errar iluminação ou specs de tamanho | Muito alto — imediato | Permitido na maioria dos países — verifique o site da sua autoridade |
+| Farmácia ou drogaria local | Uma taxa modesta | Baixo — profissionais treinados verificam | Médio — serviço no próprio dia típico | Amplamente utilizado e geralmente fiável — verifique na mesma o requisitos de foto da sua autoridade |
+| Correios (Reino Unido e outros) | Uma taxa modesta | Baixo — tirada internamente, verificada | Médio — requer visita e marcação | Serviço oficial dos Correios |
+| Serviços online (p.ex. Passport Photo Online) | Uma taxa modesta | Médio — submissão digital, feedback fornecido | Alto — de casa, entrega digital | Não oficial mas amplamente utilizado — verifique se o seu país aceita uploads pré-cortados |
+| Estúdio de fotografia profissional | A opção mais cara | Baixo — iluminação e composição de especialista | Baixo — requer marcação | Aceite em toda a parte — sempre uma escolha segura |
 
 ## Iluminação e Qualidade de Imagem
 
@@ -83,17 +83,17 @@ Use um tripé ou encosto o seu telefone contra um objeto estável para que tenha
 
 ### Resolução e Foco
 
-Os smartphones modernos fotografam em 12 megapixéis ou superior, o que é suficiente para fotos de passaporte. Antes de fotografar, certifique-se de que o seu telefone está em modo de foco - toque no seu rosto no ecrã, e a maioria dos telefones trancará o foco lá. A sua imagem final deve ser nítida e clara.
+Os smartphones modernos fotografam em 12 megapixéis ou superior, o que é suficiente para fotos de passaporte. Antes de fotografar, certifique-se de que o seu telefone está em modo de foco — toque no seu rosto no ecrã, e a maioria dos telefones trancará o foco lá. A sua imagem final deve ser nítida e clara.
 
 ## Motivos de Rejeição Comuns e Como Evitá-los
 
 - **Sombras no rosto:** Causadas por iluminação lateral ou fontes de luz fortes. Posicione-se perpendicular a uma janela para iluminação uniforme, e verifique que as suas orelhas e maçãs do rosto são uniformemente iluminadas.
-- **Dimensões de foto incorretas:** A foto não corresponde aos specs do seu país (os requisitos variam por país). Use uma aplicação de corte de foto de passaporte e verifique duas vezes as dimensões contra a spec oficial da sua autoridade antes de imprimir ou carregar - não aos specs de outro país.
-- **Sorriso ou expressão incomum:** A maioria dos países requer uma expressão neutra. Pratique um olhar calmo em linha reta num espelho previamente - aim para sério, não severo.
+- **Dimensões de foto incorretas:** A foto não corresponde aos specs do seu país (os requisitos variam por país). Use uma aplicação de corte de foto de passaporte e verifique duas vezes as dimensões contra a spec oficial da sua autoridade antes de imprimir ou carregar — não aos specs de outro país.
+- **Sorriso ou expressão incomum:** A maioria dos países requer uma expressão neutra. Pratique um olhar calmo em linha reta num espelho previamente — aim para sério, não severo.
 - **Óculos com brilho:** O brilho nas lentes obscurece os seus olhos. Ou remova os seus óculos ou ajuste o ângulo para eliminar reflexão. Muitos países agora proíbem óculos inteiramente a menos que seja medicamente necessário, portanto verifique primeiro as regras atuais da sua autoridade.
 - **Imagem desfocada ou fora de foco:** Problemas de movimento ou foco durante a captura. Use um tripé ou objeto estável para apoiar o seu telefone, toque o ecrã para focar no seu rosto, e evite qualquer movimento durante o disparo.
-- **Fundo errado:** Fundo colorido, padrão, ou fundo branco desigual. Cartolina branca simples ou lençol funciona melhor - certifique-se de que não há textura visível ou sombras.
-- **Espaço excessivo de cabeça ou corte:** Rosto demasiado pequeno ou posicionado incorretamente no quadro. As regras do seu país indicarão exatamente quanto do quadro o seu rosto deve preencher, normalmente como uma medição do queixo ao topo da cabeça em vez de uma percentagem - trabalhe com essa figura, não com o que parece correto.
+- **Fundo errado:** Fundo colorido, padrão, ou fundo branco desigual. Cartolina branca simples ou lençol funciona melhor — certifique-se de que não há textura visível ou sombras.
+- **Espaço excessivo de cabeça ou corte:** Rosto demasiado pequeno ou posicionado incorretamente no quadro. As regras do seu país indicarão exatamente quanto do quadro o seu rosto deve preencher, normalmente como uma medição do queixo ao topo da cabeça em vez de uma percentagem — trabalhe com essa figura, não com o que parece correto.
 
 ## De Smartphone a Foto Oficial: O Processo
 
@@ -101,7 +101,7 @@ A sua foto de smartphone raramente fica no tamanho certo logo. Depois de fotogra
 
 ### Ferramentas de Corte
 
-As aplicações de corte eliminam a adivinhação ao redimensionar. Procure ferramentas como Passport Photo Online ou ID Photo Studio em iOS e Android - elas permitem-lhe selecionar o seu país e cortar automaticamente para spec enquanto verifica que as suas dimensões de rosto estão corretas. Muitas aplicações vão além fornecendo feedback se a sua iluminação ou fundo ficar aquém.
+As aplicações de corte eliminam a adivinhação ao redimensionar. Procure ferramentas como Passport Photo Online ou ID Photo Studio em iOS e Android — elas permitem-lhe selecionar o seu país e cortar automaticamente para spec enquanto verifica que as suas dimensões de rosto estão corretas. Muitas aplicações vão além fornecendo feedback se a sua iluminação ou fundo ficar aquém.
 
 ### Impressão vs. Submissão Digital
 
@@ -119,7 +119,7 @@ Antes de tirar a sua foto, certifique-se de que tem o seguinte em lugar:
 - Uma aplicação de corte descarregada e pronta a usar
 - Plano para impressão ou submissão digital com base nos requisitos do seu país
 
-Alguns minutos gastos a configurar adequadamente agora poupa-o de reenviar mais tarde - o que significa que a sua candidatura não fica atrasada.
+Alguns minutos gastos a configurar adequadamente agora poupa-o de reenviar mais tarde — o que significa que a sua candidatura não fica atrasada.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

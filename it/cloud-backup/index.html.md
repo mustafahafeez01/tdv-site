@@ -22,7 +22,7 @@ AES-256-GCM è una crittografia forte e moderna, e il codice di recupero non las
 
 ### Caricamento nel Suo Cloud
 
-Il backup crittografato va al Suo account iCloud o Google Drive personale, non ai nostri server - è il Suo cloud e il Suo account.
+Il backup crittografato va al Suo account iCloud o Google Drive personale, non ai nostri server — è il Suo cloud e il Suo account.
 
 Può visualizzare e gestire i Suoi backup direttamente nel Suo iCloud o Google Drive. Ha il pieno controllo.
 
@@ -30,9 +30,9 @@ Può visualizzare e gestire i Suoi backup direttamente nel Suo iCloud o Google D
 
 ### Solo Lei detiene la Chiave
 
-Il Suo codice di ripristino è la chiave per decrittare i Suoi backup, e non lascia mai il Suo dispositivo - mai mandato a noi, Apple o Google.
+Il Suo codice di ripristino è la chiave per decrittare i Suoi backup, e non lascia mai il Suo dispositivo — mai mandato a noi, Apple o Google.
 
-Conservi il Suo codice di ripristino in un luogo sicuro, perché senza di esso nemmeno noi possiamo ripristinare i Suoi dati - questo è intenzionale, non un bug.
+Conservi il Suo codice di ripristino in un luogo sicuro, perché senza di esso nemmeno noi possiamo ripristinare i Suoi dati — questo è intenzionale, non un bug.
 
 4
 
@@ -68,7 +68,7 @@ Diversi livelli di sicurezza si interpongono tra un tocco accidentale e i dati p
 
 Il Suo codice di ripristino è l'unica chiave per decrittare il Suo backup. Abbiamo un design zero-knowledge, il che significa che non possiamo ripristinarlo per Lei. Se lo perde, il Suo backup diventa irrecuperabile.
 
-Conservi il Suo codice di ripristino in un luogo sicuro prima di affidarsi al backup cloud - o un gestore di password, o una copia stampata in un luogo sicuro, o entrambi - e verifichi di poterlo rileggere prima di memorizzarlo come unica copia.
+Conservi il Suo codice di ripristino in un luogo sicuro prima di affidarsi al backup cloud — o un gestore di password, o una copia stampata in un luogo sicuro, o entrambi — e verifichi di poterlo rileggere prima di memorizzarlo come unica copia.
 
 ### Requisiti del Dispositivo
 

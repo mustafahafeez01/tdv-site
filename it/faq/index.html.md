@@ -28,7 +28,7 @@ Sentry è uno strumento di segnalazione degli arresti anomali che ci aiuta a tro
 
 Cosa include l'upgrade Pro?
 
-Pro è un acquisto una tantum che sblocca profili illimitati, documenti illimitati, esportazione PDF combinata, backup cloud cifrato su iCloud o Google Drive e tempi di promemoria personalizzati. Paghi una volta - nessun abbonamento, nessun addebito ricorrente e nessuna prova che inizi silenziosamente a fatturarti.
+Pro è un acquisto una tantum che sblocca profili illimitati, documenti illimitati, esportazione PDF combinata, backup cloud cifrato su iCloud o Google Drive e tempi di promemoria personalizzati. Paghi una volta — nessun abbonamento, nessun addebito ricorrente e nessuna prova che inizi silenziosamente a fatturarti.
 
 Gli aggiornamenti futuri sono inclusi nell'acquisto?
 
@@ -121,7 +121,7 @@ I tuoi documenti non lasciano mai il tuo dispositivo. Questa modalità ti offre 
 
 Che cosa è un codice di recupero e perché ne ho bisogno?
 
-Quando configuri Blocco app, l'app genera un codice di recupero univoco che è la tua rete di sicurezza se mai dimentichi il tuo PIN. Salvalo in un posto sicuro - il tuo gestore di password, un foglio stampato, ovunque tu confidi.
+Quando configuri Blocco app, l'app genera un codice di recupero univoco che è la tua rete di sicurezza se mai dimentichi il tuo PIN. Salvalo in un posto sicuro — il tuo gestore di password, un foglio stampato, ovunque tu confidi.
 
 Se dimentichi il tuo PIN, inserisci il tuo codice di recupero sulla schermata PIN. Il Blocco app è disabilitato e recuperi **l'accesso completo senza perdere un singolo documento.**
 
@@ -221,7 +221,7 @@ Gli utenti Pro possono toccare **"Seleziona"** in alto a destra nell'elenco dei 
 
 Posso annullare un'eliminazione in blocco?
 
-**Sì - hai due livelli di protezione.** Dopo aver eliminato i documenti (singoli o in blocco), vedrà una breve finestra di annullamento in fondo allo schermo. Tocchi **"Annulla"** per ripristinarli immediatamente. Se non vede la finestra di annullamento, i documenti eliminati vengono spostati in **Eliminati di recente** in Impostazioni, dove rimangono per 30 giorni prima di essere eliminati definitivamente. Gli utenti Pro con backup cloud abilitato mantengono gli elementi in Eliminati di recente indefinitamente fino a quando non toccano Elimina per sempre.
+**Sì — hai due livelli di protezione.** Dopo aver eliminato i documenti (singoli o in blocco), vedrà una breve finestra di annullamento in fondo allo schermo. Tocchi **"Annulla"** per ripristinarli immediatamente. Se non vede la finestra di annullamento, i documenti eliminati vengono spostati in **Eliminati di recente** in Impostazioni, dove rimangono per 30 giorni prima di essere eliminati definitivamente. Gli utenti Pro con backup cloud abilitato mantengono gli elementi in Eliminati di recente indefinitamente fino a quando non toccano Elimina per sempre.
 
 Cos'è il menu contestuale con pressione lunga?
 
@@ -351,11 +351,11 @@ Pro Le consente di esportare l'intero caveau come file .tdvault crittografato ch
 
 Giorni all'interno o giorni al di fuori di un paese: quale devo scegliere?
 
-Poniti una domanda: sei un ospite in questo paese, o è casa tua? Gli ospiti contano i giorni in cui sono lì, quindi scegli **Giorni all'interno del paese** - è quella per un limite da visitatore come 90 giorni. I residenti contano i giorni in cui sono via, quindi scegli **Giorni al di fuori del paese** - è quella per un permesso di soggiorno che consente un certo tempo all'estero. Alla maggior parte delle persone ne serve solo una delle due, e se hai dubbi, Giorni all'interno del paese è la scelta più comune.
+Poniti una domanda: sei un ospite in questo paese, o è casa tua? Gli ospiti contano i giorni in cui sono lì, quindi scegli **Giorni all'interno del paese** — è quella per un limite da visitatore come 90 giorni. I residenti contano i giorni in cui sono via, quindi scegli **Giorni al di fuori del paese** — è quella per un permesso di soggiorno che consente un certo tempo all'estero. Alla maggior parte delle persone ne serve solo una delle due, e se hai dubbi, Giorni all'interno del paese è la scelta più comune.
 
 Cosa sono i profili familiari?
 
-Ogni membro della famiglia è un profilo separato con i propri documenti, foto e promemoria - i Suoi dati sono Suoi, i dati del Suo partner sono Suoi, e i profili sono solo locali così non si sincronizzano mai tra dispositivi o persone. Questo design rispetta la privacy e assicura che non ci sia una miscelazione accidentale di documenti sensibili.
+Ogni membro della famiglia è un profilo separato con i propri documenti, foto e promemoria — i Suoi dati sono Suoi, i dati del Suo partner sono Suoi, e i profili sono solo locali così non si sincronizzano mai tra dispositivi o persone. Questo design rispetta la privacy e assicura che non ci sia una miscelazione accidentale di documenti sensibili.
 
 Che cosa succede quando elimino qualcosa?
 

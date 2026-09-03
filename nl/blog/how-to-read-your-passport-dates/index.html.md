@@ -92,7 +92,7 @@ Als de labels op je eigen datapagina niet in het Nederlands staan, helpt de inde
 
 ### Wat betekent "datum van expeditie" op een paspoort?
 
-Het betekent afgiftedatum - de dag waarop het paspoort is gemaakt. De term komt van Spaanse en Portugese formulieren, waar fecha de expedición en data de expedição allebei letterlijk als expedition date worden vertaald. Het heeft niets met een reis te maken en is nooit de vervaldatum.
+Het betekent afgiftedatum – de dag waarop het paspoort is gemaakt. De term komt van Spaanse en Portugese formulieren, waar fecha de expedición en data de expedição allebei letterlijk als expedition date worden vertaald. Het heeft niets met een reis te maken en is nooit de vervaldatum.
 
 ### Is de afgiftedatum hetzelfde als de vervaldatum?
 

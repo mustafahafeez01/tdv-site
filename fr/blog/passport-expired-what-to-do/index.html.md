@@ -12,8 +12,8 @@ Source: https://traveldocumentvault.com/fr/blog/passport-expired-what-to-do/
 
 - Il y a deux scénarios distincts : découvrir que votre passeport est expiré **à la maison avant un voyage**, et le découvrir **à l'aéroport**. Les étapes sont différentes pour chaque cas.
 - Vous ne pouvez pas voler internationalement avec un passeport expiré. Aucune exception.
-- Au Royaume-Uni, un service de passeport Premium accéléré existe pour les urgences authentiques - réservable sur gov.uk. Aux États-Unis, les rendez-vous d'urgence sont disponibles auprès du Département d'État pour les voyages urgents.
-- À l'aéroport, contactez d'abord votre compagnie aérienne - certaines reprogrammeront gratuitement en cas d'urgence documentaire authentique.
+- Au Royaume-Uni, un service de passeport Premium accéléré existe pour les urgences authentiques — réservable sur gov.uk. Aux États-Unis, les rendez-vous d'urgence sont disponibles auprès du Département d'État pour les voyages urgents.
+- À l'aéroport, contactez d'abord votre compagnie aérienne — certaines reprogrammeront gratuitement en cas d'urgence documentaire authentique.
 - La solution à long terme est un rappel d'expiration 12 mois avant, pas 6 mois. Cela vous donne suffisamment de temps pour renouveler avec un traitement standard.
 - L'expiration n'est pas le seul problème de passeport qui fait refuser l'accès aux voyageurs. Les dommages, les décalages de nom, les signatures manquantes et la validité insuffisante à votre destination causent tous le même résultat.
 
@@ -21,18 +21,18 @@ Découvrir que votre passeport est expiré est un de ces moments où le temps de
 
 ## Scénario A : Vous l'Avez Découvert à la Maison, avec un Voyage à Venir
 
-Cette situation est récupérable - mais le degré de récupération dépend du temps que vous avez avant votre voyage.
+Cette situation est récupérable — mais le degré de récupération dépend du temps que vous avez avant votre voyage.
 
 L'urgence de la situation détermine la marche à suivre :
 
-- **Beaucoup de temps avant le voyage :** demandez un renouvellement standard en ligne via le site de votre autorité de délivrance de passeports - GOV.UK au Royaume-Uni, travel.state.gov aux États-Unis.
+- **Beaucoup de temps avant le voyage :** demandez un renouvellement standard en ligne via le site de votre autorité de délivrance de passeports — GOV.UK au Royaume-Uni, travel.state.gov aux États-Unis.
 - **Le voyage approche :** demandez immédiatement et payez pour un traitement accéléré. Le Royaume-Uni comme les États-Unis proposent en ligne un service payant plus rapide, et chacun publie son délai de traitement actuel.
-- **Le voyage se rapproche :** appelez directement votre autorité de délivrance de passeports plutôt que de vous fier au seul site Web - le service d'assistance de HM Passport Office au Royaume-Uni, ou le National Passport Information Center aux États-Unis.
+- **Le voyage se rapproche :** appelez directement votre autorité de délivrance de passeports plutôt que de vous fier au seul site Web — le service d'assistance de HM Passport Office au Royaume-Uni, ou le National Passport Information Center aux États-Unis.
 - **Le voyage est imminent :** demandez un rendez-vous d'urgence et apportez la preuve de vos dates de voyage. Le Royaume-Uni propose un service Premium accéléré dans des bureaux de passeport désignés, et les États-Unis proposent des rendez-vous dans des agences de passeport régionales.
 
 Toutes les grandes autorités de délivrance de passeports conservent des créneaux de rendez-vous d'urgence qui ne sont pas visibles en ligne. Si votre calendrier est serré, appelez plutôt que de ne vous fier qu'au site Web.
 
-**Réglez le rappel maintenant** pour que cela ne se reproduise plus - Travel Document Vault commence à vous prévenir dès huit mois avant l'expiration de chaque passeport de votre ménage, puis à nouveau à l'approche de la date. [Téléchargez sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Réglez le rappel maintenant** pour que cela ne se reproduise plus — Travel Document Vault commence à vous prévenir dès huit mois avant l'expiration de chaque passeport de votre ménage, puis à nouveau à l'approche de la date. [Téléchargez sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Scénario B : Vous l'Avez Découvert à l'Aéroport
 
@@ -40,13 +40,13 @@ Ce scénario se produit plus souvent que les gens ne le pensent, et les étapes 
 
 **Étape 1 : Restez calme et écartez-vous de la file d'attente.** Vous n'embarquerez pas dans ce vol, et plus tôt vous accepterez cette réalité, plus tôt vous pourrez commencer à travailler sur la solution.
 
-**Étape 2 : Allez au comptoir de la compagnie aérienne immédiatement.** Ne quittez pas l'aéroport - parlez directement à la compagnie aérienne et expliquez la situation. Certaines compagnies aériennes reprogrammeront gratuitement en cas d'urgence documentaire authentique - pas toutes, mais cela vaut le coup de demander. Obtenez la réponse par écrit s'ils sont d'accord.
+**Étape 2 : Allez au comptoir de la compagnie aérienne immédiatement.** Ne quittez pas l'aéroport — parlez directement à la compagnie aérienne et expliquez la situation. Certaines compagnies aériennes reprogrammeront gratuitement en cas d'urgence documentaire authentique — pas toutes, mais cela vaut le coup de demander. Obtenez la réponse par écrit s'ils sont d'accord.
 
 **Étape 3 : Vérifiez si les voyages intérieurs sont possibles.** Un passeport expiré peut toujours être accepté comme pièce d'identité pour les vols intérieurs dans certains pays, bien que ce ne soit pas garanti. Si votre destination finale est accessible par voie aérienne intérieure depuis une ville plus proche, cela pourrait être une option pendant que vous réglez la question du passeport.
 
 **Étape 4 : Contactez votre autorité de délivrance de passeports par téléphone.** Expliquez votre situation. Au Royaume-Uni, appelez le le service d'assistance de HM Passport Office et demandez le rendez-vous disponible le plus proche au bureau de passeport le plus proche. Aux États-Unis, appelez le le National Passport Information Center des États-Unis et renseignez-vous sur les rendez-vous d'urgence à l'agence régionale de passeport la plus proche. Les options le même jour et le lendemain existent pour les urgences authentiques.
 
-**Étape 5 : Réservez un hébergement près du bureau de passeport.** Si vous obtenez un rendez-vous pour le lendemain, vous avez besoin d'un endroit où rester. Conservez les reçus - si vous avez une assurance voyage, certains de ces coûts peuvent être remboursables.
+**Étape 5 : Réservez un hébergement près du bureau de passeport.** Si vous obtenez un rendez-vous pour le lendemain, vous avez besoin d'un endroit où rester. Conservez les reçus — si vous avez une assurance voyage, certains de ces coûts peuvent être remboursables.
 
 **Étape 6 : Contactez votre assureur voyage.** Un passeport découvert expiré à l'aéroport peut être couvert par une assurance voyage selon votre police. Appelez pour vérifier plutôt que de supposer l'un ou l'autre.
 
@@ -62,31 +62,31 @@ Les passeports des enfants sont particulièrement vulnérables. Les marques de s
 
 ### 2. Un nom qui ne correspond pas à votre billet
 
-Une discordance de nom entre votre passeport et votre carte d'embarquement vous fera refuser l'accès. Cela attrape les gens après un changement de nom légal - mariage, divorce ou changement de statut formel - où le passeport n'a pas été mis à jour. Cela attrape aussi les erreurs de réservation : un deuxième prénom sur le billet mais absent du passeport, ou vice versa.
+Une discordance de nom entre votre passeport et votre carte d'embarquement vous fera refuser l'accès. Cela attrape les gens après un changement de nom légal — mariage, divorce ou changement de statut formel — où le passeport n'a pas été mis à jour. Cela attrape aussi les erreurs de réservation : un deuxième prénom sur le billet mais absent du passeport, ou vice versa.
 
 Même de petites variations comme un initial manquant ou une lettre transposée peuvent parfois être résolues par le personnel de la compagnie aérienne, mais vous ne pouvez pas compter dessus. Assurez-vous que chaque nom sur chaque billet correspond exactement à chaque nom de chaque passeport, y compris les noms des enfants.
 
 ### 3. Un passeport non signé
 
-La plupart des passeports ont une zone de signature. Certains pays - dont les États-Unis - exigent que le passeport soit signé avant d'être considéré comme valide pour le voyage. Un passeport non signé peut être refusé à la frontière. C'est le plus souvent un problème avec les passeports délivrés aux enfants trop jeunes pour signer ou avec les tout nouveaux passeports que le titulaire a oublié de signer avant de voyager. Vérifiez le panneau de signature avant de partir de chez vous.
+La plupart des passeports ont une zone de signature. Certains pays — dont les États-Unis — exigent que le passeport soit signé avant d'être considéré comme valide pour le voyage. Un passeport non signé peut être refusé à la frontière. C'est le plus souvent un problème avec les passeports délivrés aux enfants trop jeunes pour signer ou avec les tout nouveaux passeports que le titulaire a oublié de signer avant de voyager. Vérifiez le panneau de signature avant de partir de chez vous.
 
 ### 4. Validité insuffisante pour votre destination
 
-La date d'expiration de votre passeport n'est pas le seul seuil qui compte. De nombreux pays exigent qu'il reste valide pendant une période minimale au-delà de votre date d'arrivée prévue - généralement six mois, bien que certains n'exigent que trois mois ou simplement la durée de votre séjour. Arriver avec un passeport techniquement valide qui ne respecte pas cette exigence vous fera refuser l'accès à la frontière, tout comme un passeport expiré le ferait.
+La date d'expiration de votre passeport n'est pas le seul seuil qui compte. De nombreux pays exigent qu'il reste valide pendant une période minimale au-delà de votre date d'arrivée prévue — généralement six mois, bien que certains n'exigent que trois mois ou simplement la durée de votre séjour. Arriver avec un passeport techniquement valide qui ne respecte pas cette exigence vous fera refuser l'accès à la frontière, tout comme un passeport expiré le ferait.
 
 Cette règle n'est pas appliquée de manière cohérente dans toutes les destinations, ce qui la rend facile à manquer. [La règle des six mois de validité du passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/) explique quels pays l'appliquent et lesquels ne le font pas, avec un exemple travaillé de la façon dont elle est calculée.
 
 ### 5. Ne pas vérifier les exigences de visa avant de voyager
 
-Les exigences de visa et d'autorisation de voyage électronique (ETA) changent fréquemment et varient selon la nationalité, la destination et le but du voyage. Arriver sans la permission d'entrée correcte - en supposant l'accès sans visa alors qu'il en existe un vraiment requis - entraîne le refus d'embarquement ou le renvoi à la frontière. Un itinéraire qui était sans visa la dernière fois que vous l'avez parcouru ne l'est peut-être plus.
+Les exigences de visa et d'autorisation de voyage électronique (ETA) changent fréquemment et varient selon la nationalité, la destination et le but du voyage. Arriver sans la permission d'entrée correcte — en supposant l'accès sans visa alors qu'il en existe un vraiment requis — entraîne le refus d'embarquement ou le renvoi à la frontière. Un itinéraire qui était sans visa la dernière fois que vous l'avez parcouru ne l'est peut-être plus.
 
 Avant chaque voyage, vérifiez les exigences d'entrée officielles pour votre destination en utilisant le service de conseil aux voyageurs de votre pays : gov.uk/foreign-travel-advice pour les titulaires de passeport britannique, travel.state.gov pour les titulaires de passeport américain, ou smartraveller.gov.au pour les titulaires de passeport australien. Ne vous fiez pas à ce qui était vrai la dernière fois.
 
 ## Comment S'assurer Que Cela Ne Se Reproduise Plus Jamais
 
-La cause première est généralement la même : aucun rappel en place. Réglez un rappel d'expiration au moins **12 mois avant la date d'expiration** - pas 6 mois. Cela vous donne du temps pour renouveler avec un traitement standard sans payer pour un service accéléré, et sans le stress d'un calendrier serré.
+La cause première est généralement la même : aucun rappel en place. Réglez un rappel d'expiration au moins **12 mois avant la date d'expiration** — pas 6 mois. Cela vous donne du temps pour renouveler avec un traitement standard sans payer pour un service accéléré, et sans le stress d'un calendrier serré.
 
-Faites cela pour chaque passeport de votre ménage séparément. Les passeports des enfants expirent plus rapidement - 5 ans dans la plupart des pays contre 10 pour les adultes - et ce sont ceux qui sont le plus souvent oubliés.
+Faites cela pour chaque passeport de votre ménage séparément. Les passeports des enfants expirent plus rapidement — 5 ans dans la plupart des pays contre 10 pour les adultes — et ce sont ceux qui sont le plus souvent oubliés.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
@@ -102,15 +102,15 @@ Demandez un renouvellement immédiatement et payez pour un traitement accélér�
 
 ### Que dois-je faire si je découvre que mon passeport est expiré à l'aéroport ?
 
-Vous ne pourrez pas embarquer. Allez au comptoir de la compagnie aérienne immédiatement pour discuter de la reprogrammation - certaines annulent les frais de modification pour les urgences documentaires authentiques. Puis appelez votre autorité de délivrance de passeports pour réserver un rendez-vous d'urgence. Les options le même jour et le lendemain sont disponibles selon votre pays.
+Vous ne pourrez pas embarquer. Allez au comptoir de la compagnie aérienne immédiatement pour discuter de la reprogrammation — certaines annulent les frais de modification pour les urgences documentaires authentiques. Puis appelez votre autorité de délivrance de passeports pour réserver un rendez-vous d'urgence. Les options le même jour et le lendemain sont disponibles selon votre pays.
 
 ### À quelle vitesse puis-je obtenir un passeport d'urgence si le mien a expiré ?
 
-Au Royaume-Uni, un service Premium accéléré est disponible aux bureaux de passeport désignés pour les urgences authentiques - rendez-vous requis, consultez le délai de traitement actuel et la réservation sur gov.uk. Aux États-Unis, les rendez-vous d'urgence en personne sont disponibles aux agences régionales de passeport pour les voyages urgents - consultez les frais et la disponibilité actuels sur travel.state.gov. En Australie, consultez passports.gov.au pour les options de traitement urgent.
+Au Royaume-Uni, un service Premium accéléré est disponible aux bureaux de passeport désignés pour les urgences authentiques — rendez-vous requis, consultez le délai de traitement actuel et la réservation sur gov.uk. Aux États-Unis, les rendez-vous d'urgence en personne sont disponibles aux agences régionales de passeport pour les voyages urgents — consultez les frais et la disponibilité actuels sur travel.state.gov. En Australie, consultez passports.gov.au pour les options de traitement urgent.
 
 ### Comment puis-je éviter que mon passeport n'expire inopinément ?
 
-Réglez un rappel d'expiration 12 mois avant l'expiration - pas 6 mois. Cela vous donne du temps confortable pour renouveler avec un traitement standard. Faites cela pour chaque passeport de votre ménage séparément. Travel Document Vault envoie des rappels automatiques dès huit mois avant l'échéance, puis à nouveau à l'approche de la date, pour chaque passeport que vous ajoutez.
+Réglez un rappel d'expiration 12 mois avant l'expiration — pas 6 mois. Cela vous donne du temps confortable pour renouveler avec un traitement standard. Faites cela pour chaque passeport de votre ménage séparément. Travel Document Vault envoie des rappels automatiques dès huit mois avant l'échéance, puis à nouveau à l'approche de la date, pour chaque passeport que vous ajoutez.
 
 ### Un passeport valide peut-il être refusé à l'aéroport ?
 
@@ -118,7 +118,7 @@ Oui. Un passeport qui n'a pas expiré peut toujours être refusé s'il est endom
 
 ### Quelle est la règle des six mois de validité du passeport ?
 
-De nombreux pays exigent que votre passeport reste valide pendant au moins six mois au-delà de votre date d'arrivée prévue. Si votre passeport expire avant cela - même s'il est techniquement toujours valide - vous pouvez être refusé à l'embarquement ou à l'entrée. Tous les pays n'appliquent pas cette règle et le seuil varie. Vérifiez les exigences d'entrée pour votre destination spécifique avant de voyager.
+De nombreux pays exigent que votre passeport reste valide pendant au moins six mois au-delà de votre date d'arrivée prévue. Si votre passeport expire avant cela — même s'il est techniquement toujours valide — vous pouvez être refusé à l'embarquement ou à l'entrée. Tous les pays n'appliquent pas cette règle et le seuil varie. Vérifiez les exigences d'entrée pour votre destination spécifique avant de voyager.
 
 ## Articles Connexes
 

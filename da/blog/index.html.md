@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[FamilierejserAt Rejse med Barn Uden Begge Forældre: Hvad Du Skal MedbringeEneforældremyndighed, rejser med bedsteforældre, forskellige efternavne - hver situation ændrer, hvilke papirer barnet har brug for. Hvad indtjekningsskranken og grænsevagten hver især kigger efter.30. august 20268 min læsning](https://traveldocumentvault.com/da/blog/travelling-child-without-both-parents/)
+[FamilierejserAt Rejse med Barn Uden Begge Forældre: Hvad Du Skal MedbringeEneforældremyndighed, rejser med bedsteforældre, forskellige efternavne – hver situation ændrer, hvilke papirer barnet har brug for. Hvad indtjekningsskranken og grænsevagten hver især kigger efter.30. august 20268 min læsning](https://traveldocumentvault.com/da/blog/travelling-child-without-both-parents/)
 
 ##
 
@@ -36,11 +36,11 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[FamilierejserStyring af familiens pas - opbevar flere pas sikkertSådan organiserer og opbevarer du flere familiemedlemmers pas på ét sikkert sted. Spor udløbsdatoer for alle familiemedlemmer og modtag påmindelser før fornyelse.16. juli 20267 min læsning](https://traveldocumentvault.com/da/blog/family-passport-management/)
+[FamilierejserStyring af familiens pas – opbevar flere pas sikkertSådan organiserer og opbevarer du flere familiemedlemmers pas på ét sikkert sted. Spor udløbsdatoer for alle familiemedlemmer og modtag påmindelser før fornyelse.16. juli 20267 min læsning](https://traveldocumentvault.com/da/blog/family-passport-management/)
 
 ##
 
-[Familierejser Schengens pasregler for familierejser: det, forældre tager fejl af Schengen kræver 3 måneders gyldighed efter afrejse, ikke 6 - og børns pas udløber efter 5 år. Det bør familier tjekke, den dag de booker. 10. juli 20266 min](https://traveldocumentvault.com/da/blog/schengen-passport-rules-family-trips/)
+[Familierejser Schengens pasregler for familierejser: det, forældre tager fejl af Schengen kræver 3 måneders gyldighed efter afrejse, ikke 6 – og børns pas udløber efter 5 år. Det bør familier tjekke, den dag de booker. 10. juli 20266 min](https://traveldocumentvault.com/da/blog/schengen-passport-rules-family-trips/)
 
 ##
 
@@ -84,7 +84,7 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[Pasregler Digital paskopi: hvad gælder som gyldig legitimation på rejsen? Flyselskaber, hoteller, ambassader og grænsevagter behandler digitale paskopier forskelligt. Her er præcis, hvor en digital kopi hjælper - og hvor du skal have originaldokumentet. Apr 4, 20267 min read](https://traveldocumentvault.com/da/blog/digital-passport-copy-valid/)
+[Pasregler Digital paskopi: hvad gælder som gyldig legitimation på rejsen? Flyselskaber, hoteller, ambassader og grænsevagter behandler digitale paskopier forskelligt. Her er præcis, hvor en digital kopi hjælper – og hvor du skal have originaldokumentet. Apr 4, 20267 min read](https://traveldocumentvault.com/da/blog/digital-passport-copy-valid/)
 
 ##
 
@@ -96,7 +96,7 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[Rejseforbereder Har du mistet dit pas i udlandet? Gør disse syv ting med det samme Har du mistet dit pas i udlandet? Her er syv ting, du skal gøre med det samme - politianmeldelse, kontakt til ambassaden, nødpas og hvordan du kommer hjem. 11. mar. 20267 min. læsning](https://traveldocumentvault.com/da/blog/lost-passport-abroad/)
+[Rejseforbereder Har du mistet dit pas i udlandet? Gør disse syv ting med det samme Har du mistet dit pas i udlandet? Her er syv ting, du skal gøre med det samme – politianmeldelse, kontakt til ambassaden, nødpas og hvordan du kommer hjem. 11. mar. 20267 min. læsning](https://traveldocumentvault.com/da/blog/lost-passport-abroad/)
 
 ##
 
@@ -112,7 +112,7 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[Privatliv Er det sikkert at gemme dit pas i Google Fotos? Det skal du vide Én Google-konto udsat for phishing eksponerer alle billeder i den, dit pas inklusive, og Googles vilkår tillader automatiseret scanning. Risiciene - og hvor en scanning er sikrere. 15. feb. 20267 min. læsning](https://traveldocumentvault.com/da/blog/is-it-safe-to-store-passport-in-google-photos/)
+[Privatliv Er det sikkert at gemme dit pas i Google Fotos? Det skal du vide Én Google-konto udsat for phishing eksponerer alle billeder i den, dit pas inklusive, og Googles vilkår tillader automatiseret scanning. Risiciene – og hvor en scanning er sikrere. 15. feb. 20267 min. læsning](https://traveldocumentvault.com/da/blog/is-it-safe-to-store-passport-in-google-photos/)
 
 ##
 
@@ -120,7 +120,7 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[Organisering Sådan organiserer du familiens rejsedokumenter (før næste tur) Lær hvordan du organiserer rejsedokumenter for hele familien - hvad I skal gemme, hvordan I opbevarer det, og hvordan I sikrer, at intet udløber uden varsel. 5. feb. 20267 min. læsning](https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-documents/)
+[Organisering Sådan organiserer du familiens rejsedokumenter (før næste tur) Lær hvordan du organiserer rejsedokumenter for hele familien – hvad I skal gemme, hvordan I opbevarer det, og hvordan I sikrer, at intet udløber uden varsel. 5. feb. 20267 min. læsning](https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-documents/)
 
 ##
 

@@ -22,7 +22,7 @@ AES-256-GCM é encriptação forte e moderna, e o código de recuperação nunca
 
 ### Carregar para a Sua Nuvem
 
-A cópia de segurança encriptada vai para a sua conta pessoal do iCloud ou Google Drive, não para os nossos servidores - é a sua nuvem e a sua conta.
+A cópia de segurança encriptada vai para a sua conta pessoal do iCloud ou Google Drive, não para os nossos servidores — é a sua nuvem e a sua conta.
 
 Pode ver e gerir as suas cópias de segurança diretamente no seu iCloud ou Google Drive. Está completamente no controlo.
 
@@ -30,9 +30,9 @@ Pode ver e gerir as suas cópias de segurança diretamente no seu iCloud ou Goog
 
 ### Apenas Você Detém a Chave
 
-O seu código de recuperação é a chave para desencriptar as suas cópias de segurança, e nunca sai do seu dispositivo - nunca enviado para nós, Apple, ou Google.
+O seu código de recuperação é a chave para desencriptar as suas cópias de segurança, e nunca sai do seu dispositivo — nunca enviado para nós, Apple, ou Google.
 
-Guarde o seu código de recuperação num local seguro, porque sem ele nem nós conseguimos recuperar os seus dados - isto é intencional, não um erro.
+Guarde o seu código de recuperação num local seguro, porque sem ele nem nós conseguimos recuperar os seus dados — isto é intencional, não um erro.
 
 4
 
@@ -68,7 +68,7 @@ Várias camadas de segurança estão entre um toque acidental e dados perdidos.
 
 O seu código de recuperação é a única chave para desencriptar a sua cópia de segurança. Temos um design de conhecimento zero, o que significa que não conseguimos repor o seu. Se o perder, a sua cópia de segurança torna-se irrecuperável.
 
-Guarde o seu código de recuperação num local seguro antes de confiar na cópia de segurança nuvem - quer um gestor de palavras-chave, uma cópia impressa num local seguro, ou ambas - e verifique que consegue lê-lo novamente antes de o guardar como única cópia.
+Guarde o seu código de recuperação num local seguro antes de confiar na cópia de segurança nuvem — quer um gestor de palavras-chave, uma cópia impressa num local seguro, ou ambas — e verifique que consegue lê-lo novamente antes de o guardar como única cópia.
 
 ### Requisitos do Dispositivo
 

@@ -12,31 +12,31 @@ Vijf functies die familievakantieplanning stressloos maken.
 
 ### Bereïdheidsampeul
 
-Groen betekent dat iedereen klaar is, terwijl geel markeert wiens documenten binnenkort verlopen - geen verrassingen meer de avond voor de reis.
+Groen betekent dat iedereen klaar is, terwijl geel markeert wiens documenten binnenkort verlopen – geen verrassingen meer de avond voor de reis.
 
 Elk gezinslid krijgt zijn eigen bereïdheidsstatus op basis van vervaldatums van documenten en reiscontext.
 
 ### Lidtoken
 
-Zie de status van elk gezinslid in één oogopslag en tik om hun documenten te controleren - weet wiens paspoort het eerst verloopt.
+Zie de status van elk gezinslid in één oogopslag en tik om hun documenten te controleren – weet wiens paspoort het eerst verloopt.
 
 Gebouwd voor gezinnen met 2 - 10+ leden. Werkt voor partners, kinderen, grootouders en anderen waarmee u plant.
 
 ### Packlist
 
-Reispakket-checklist afgestemd op reisduur en bestemming die u afvinkt terwijl u inpakt - u zult nooit meer zonnebrandcrème vergeten.
+Reispakket-checklist afgestemd op reisduur en bestemming die u afvinkt terwijl u inpakt – u zult nooit meer zonnebrandcrème vergeten.
 
 Checklists passen zich aan weer, reisduur en reistype aan (strand, stad, skiën, enz.).
 
 ### Weet wat u mag verwachten
 
-Bestemmingspanel met inreisbepalingen, visumregels en reistips voor elk land - geen verrassingen bij het instappen.
+Bestemmingspanel met inreisbepalingen, visumregels en reistips voor elk land – geen verrassingen bij het instappen.
 
 Toont Schengen-regels, visum-geldigheidsvensfers en lokale gewoonten. Alles bijgewerkt voor huidige reisbepalingen.
 
 ### Dagenlimieten per land
 
-Volg hoeveel dagen elk gezinslid in een land heeft doorgebracht door perioden te creëren (Schengengebied-jaar, visumvenster, belastingjaar) en toelagenregels eraan te koppelen - zie dan een uitsplitsing per lid in één oogopslag.
+Volg hoeveel dagen elk gezinslid in een land heeft doorgebracht door perioden te creëren (Schengengebied-jaar, visumvenster, belastingjaar) en toelagenregels eraan te koppelen – zie dan een uitsplitsing per lid in één oogopslag.
 
 Ontworpen voor Schengen 90/180-tracking, Britse 183-dagenregels en aangepaste visum- of verblijfsvensters. Gebruikte dagen worden automatisch bijgewerkt terwijl reizen worden geregistreerd.
 

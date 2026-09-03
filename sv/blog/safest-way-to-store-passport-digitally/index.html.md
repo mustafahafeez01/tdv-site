@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/sv/blog/safest-way-to-store-passport-dig
 
 Ett pass är en av de mest känsliga handlingar du äger, med ditt fullständiga namn, födelsedatum, passnummer och biometriska data. Att förlora tillgången till det vid en gräns är stressigt, men att förlora kontrollen över en digital kopia genom ett dataintrång är ett allvarligare problem som de flesta inte tänker tillräckligt på. Just därför bör de flesta fundera mer noggrant över var de sparar digitala kopior, i stället för att bara välja det som känns bekvämast.
 
-De tre vanligaste metoderna - iCloud Photos, Google Photos och dedikerade krypterade appar - erbjuder var sin balans mellan bekvämlighet och säkerhet. Den här artikeln förklarar vad var och en gör, hur de skiljer sig åt i att skydda din data, och vilken som kan passa din situation.
+De tre vanligaste metoderna – iCloud Photos, Google Photos och dedikerade krypterade appar – erbjuder var sin balans mellan bekvämlighet och säkerhet. Den här artikeln förklarar vad var och en gör, hur de skiljer sig åt i att skydda din data, och vilken som kan passa din situation.
 
 ## Alternativ 1: iCloud Photos
 
@@ -71,7 +71,7 @@ En dedikerad krypterad app byggd för resehandlingar fungerar helt på din enhet
 
 ### Så fungerar det
 
-När du lägger till din passkopia i appen krypteras den med AES-256 och lagras helt på din telefon. Appen fungerar helt offline - inget konto krävs, ingen server behövs. Om du vill ha åtkomst från flera enheter säkerhetskopierar en valfri Pro-funktion en krypterad kopia till ditt eget iCloud eller Google Drive, förseglad med en återställningskod som bara du innehar.
+När du lägger till din passkopia i appen krypteras den med AES-256 och lagras helt på din telefon. Appen fungerar helt offline – inget konto krävs, ingen server behövs. Om du vill ha åtkomst från flera enheter säkerhetskopierar en valfri Pro-funktion en krypterad kopia till ditt eget iCloud eller Google Drive, förseglad med en återställningskod som bara du innehar.
 
 ### Säkerhetsegenskaper
 
@@ -85,7 +85,7 @@ När du lägger till din passkopia i appen krypteras den med AES-256 och lagras 
 
 Säkerhetsfördelarna är betydande: din passdata överförs eller lagras aldrig på en fjärrserver, så den är aldrig tillgänglig för någon annan, och det finns ingen fjärrserver att komma över om någon får obehörig åtkomst till appföretagets system. Det innebär att du behåller full kontroll och äganderätt över dina handlingar hela tiden.
 
-Nackdelen är minskad bekvämlighet: du kan inte automatiskt komma åt din passkopia från flera enheter, och om du tappar telefonen återställer appen inte dina handlingar av sig själv - du behöver återställa manuellt från en säkerhetskopia. För de flesta familjer som reser tillsammans räcker det ändå att lagra handlingar på en förälders telefon, och många appar stödjer manuell synkronisering via säkerhetskopiering, vilket ger extra flexibilitet utan att kräva automatisk molnuppladdning.
+Nackdelen är minskad bekvämlighet: du kan inte automatiskt komma åt din passkopia från flera enheter, och om du tappar telefonen återställer appen inte dina handlingar av sig själv – du behöver återställa manuellt från en säkerhetskopia. För de flesta familjer som reser tillsammans räcker det ändå att lagra handlingar på en förälders telefon, och många appar stödjer manuell synkronisering via säkerhetskopiering, vilket ger extra flexibilitet utan att kräva automatisk molnuppladdning.
 
 ## Direkt jämförelse
 
@@ -114,7 +114,7 @@ Svaret beror på din personliga risktolerans och ditt användningsfall.
 
 Många använder en hybridmetod: de sparar en kopia i iCloud eller Google Photos för vardaglig åtkomst mellan enheter, och en andra kopia i en dedikerad krypterad app som säkerhetskopia. Det ger både bekvämlighet och redundans. Det viktiga är att förstå avvägningarna för varje metod och välja medvetet.
 
-Oavsett vilken metod du väljer: kom ihåg att en digital kopia av ditt pass är lika känslig som själva originalhandlingen - skydda den med samma omsorg och uppmärksamhet.
+Oavsett vilken metod du väljer: kom ihåg att en digital kopia av ditt pass är lika känslig som själva originalhandlingen – skydda den med samma omsorg och uppmärksamhet.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 

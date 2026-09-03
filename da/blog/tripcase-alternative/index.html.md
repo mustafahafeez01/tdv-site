@@ -11,18 +11,18 @@ Source: https://traveldocumentvault.com/da/blog/tripcase-alternative/
 ## Vigtigste punkter
 
 - **TripCase lukkede den 1. april 2025** efter 12 år, og Sabre slettede alle resterende brugerdata, efter eksportvinduet lukkede den 30. juni 2025.
-- Funktionen **Document Vault** - ét sikkert hjem for pas, visa og boardingkort - er den funktion, tidligere brugere savner mest.
+- Funktionen **Document Vault** – ét sikkert hjem for pas, visa og boardingkort – er den funktion, tidligere brugere savner mest.
 - **Ingen enkelt app erstatter TripCase.** Flyalarmer, rejseplan-aflæsning og dokumentopbevaring lever nu i forskellige værktøjer.
 - Den egentlige lære: en gratis cloud-tjeneste holder **dine data på lånt tid**. Den kan forsvinde med cirka 60 dages varsel.
-- Rejsedokumenter hører hjemme **offline, på din egen enhed** - et sted, hvor ingen firmabeslutning, nedbrud eller lukning kan nå dem.
+- Rejsedokumenter hører hjemme **offline, på din egen enhed** – et sted, hvor ingen firmabeslutning, nedbrud eller lukning kan nå dem.
 
 TripCase brugte tolv år som rejseappernes stille arbejdshest. Videresend en bookingbekræftelse, og din rejse byggede sig selv; appen advarede dig om gateændringer, før nogle flyselskaber selv gjorde det; og dens Document Vault holdt pas, visa og boardingkort samlet ét sted. Så, den 1. april 2025, lukkede Sabre den ned, og da eksportvinduet lukkede den 30. juni, blev hver eneste brugers resterende rejsehistorik og dokumenter slettet fra dets servere.
 
-Femten måneder senere leder tidligere brugere stadig efter en erstatning. Det ærlige svar er, at ingen enkelt app erstatter den fuldt ud. Men den egentlige historie handler ikke om, hvilken app du skal vælge - den handler om, hvor dine dokumenter bør ligge.
+Femten måneder senere leder tidligere brugere stadig efter en erstatning. Det ærlige svar er, at ingen enkelt app erstatter den fuldt ud. Men den egentlige historie handler ikke om, hvilken app du skal vælge – den handler om, hvor dine dokumenter bør ligge.
 
 ## TripCases opstigning og lukning
 
-TripCase havde eksisteret siden 2013 som en gratis rejsemakker fra Sabre Corporation - firmaet, der driver store dele af verdens booking-systemer for flyselskaber og rejsebureauer. På grund af den forbindelse dukkede rejser ofte automatisk op i appen. I over et årti stolede forretningsrejsende og familier på den til at samle fly, hoteller og lejebiler i ét kronologisk overblik. Den var ikke prangende, men den virkede.
+TripCase havde eksisteret siden 2013 som en gratis rejsemakker fra Sabre Corporation – firmaet, der driver store dele af verdens booking-systemer for flyselskaber og rejsebureauer. På grund af den forbindelse dukkede rejser ofte automatisk op i appen. I over et årti stolede forretningsrejsende og familier på den til at samle fly, hoteller og lejebiler i ét kronologisk overblik. Den var ikke prangende, men den virkede.
 
 Da lukningen kom, havde brugerne frem til den 30. juni 2025 til at eksportere deres historik. Flere brugere beskrev eksportprocessen som forvirrende og ufuldstændig, og nogle opdagede for sent, at flere års rejseoplysninger ikke var kommet med. Efter eksportvinduet lukkede den 30. juni 2025, slettede Sabre alle resterende rejse- og rejsendedata, og der er ingen vej tilbage.
 
@@ -30,11 +30,11 @@ Da lukningen kom, havde brugerne frem til den 30. juni 2025 til at eksportere de
 
 TripCase opfandt ikke meget, men den perfektionerede en håndfuld arbejdsgange, og dens forsvinden viste, hvor afhængige folk var blevet af dem.
 
-Kernen var **aflæsning af bookingmails til rejseplaner** - videresend enhver bekræftelse fra flyselskab, hotel eller biludlejning, og appen samlede den til en kronologisk rejse med datoer og bookingnumre. Nul manuel indtastning betød en fuld rejseplan på få sekunder, hvilket er præcis grunden til, at folk blev hængende i et årti.
+Kernen var **aflæsning af bookingmails til rejseplaner** – videresend enhver bekræftelse fra flyselskab, hotel eller biludlejning, og appen samlede den til en kronologisk rejse med datoer og bookingnumre. Nul manuel indtastning betød en fuld rejseplan på få sekunder, hvilket er præcis grunden til, at folk blev hængende i et årti.
 
 **Flyalarmer i realtid** fulgte med: forsinkelser, gateændringer og aflysninger, ofte før flyselskabets egen besked. TripIt tager nu betalt for sit Pro-niveau for det tilsvarende, mens TripCase tilbød funktionen gratis til alle.
 
-De fly, hoteller og transport på jorden levede alle i **rejsens tidslinje** - én scrollbar stak pr. rejse. Simpelt, men hvis du nogensinde har jongleret en flerby-uge ud fra et dusin bookingmails, forstår du, hvorfor det betød noget. I tråde på FlyerTalk og andre steder fremhæver tidligere brugere konsekvent **Document Vault** som den mest savnede del - det ene sikre hjem for boardingkort, visa, pas og bekræftelser. Endelig lod **rejsedeling** familiemedlemmer eller kolleger følge med uden videresendte mails.
+De fly, hoteller og transport på jorden levede alle i **rejsens tidslinje** – én scrollbar stak pr. rejse. Simpelt, men hvis du nogensinde har jongleret en flerby-uge ud fra et dusin bookingmails, forstår du, hvorfor det betød noget. I tråde på FlyerTalk og andre steder fremhæver tidligere brugere konsekvent **Document Vault** som den mest savnede del – det ene sikre hjem for boardingkort, visa, pas og bekræftelser. Endelig lod **rejsedeling** familiemedlemmer eller kolleger følge med uden videresendte mails.
 
 ## Den ubehagelige lære
 
@@ -42,7 +42,7 @@ Når du bygger dit rejseliv op omkring en gratis cloud-app, lejer du plads, som 
 
 Intet af dette handler om ond vilje; det er bare, hvordan forretningsbeslutninger fungerer. Rejseapps lukker jævnligt, gratis niveauer flyttes bag betalingsmure, og tjenester nedlægges. Den person, der ikke har indflydelse på tidspunktet, er dig.
 
-Rejsedokumenter vejer anderledes end tabte playlister. En passcanning, et bevilget visum, bevis for tidligere ind- og udrejser - at miste disse kan komplicere visumansøgninger, forsikringssager og grænsesamtaler i årevis. Så TripCase-historien handler om mere end blot nostalgi.
+Rejsedokumenter vejer anderledes end tabte playlister. En passcanning, et bevilget visum, bevis for tidligere ind- og udrejser – at miste disse kan komplicere visumansøgninger, forsikringssager og grænsesamtaler i årevis. Så TripCase-historien handler om mere end blot nostalgi.
 
 ## Et ærligt erstatningskort
 
@@ -56,13 +56,13 @@ TripCase bundtede flere forskellige opgaver i én gratis app. Ingen nuværende a
 | Opbevaring af rejsedokumenter | Document Vault: pas, visa, boardingkort | Travel Document Vault | Engangskøb, intet abonnement |
 | Rejsedeling | Følgere kunne se din aktuelle rejseplan | TripIt-deling, eller en delt mappe | Gratis |
 
-Flyalarmer og rejseplan-aflæsning er bekvemmeligheder - reelt nyttige sådan nogle - og de hører hjemme i skyen, fordi de kun betyder noget, mens en rejse er i gang. Dokumentopbevaring er derimod anderledes: det er den ene opgave, hvor tabt adgang faktisk koster dig noget, du ikke kan omlægge.
+Flyalarmer og rejseplan-aflæsning er bekvemmeligheder – reelt nyttige sådan nogle – og de hører hjemme i skyen, fordi de kun betyder noget, mens en rejse er i gang. Dokumentopbevaring er derimod anderledes: det er den ene opgave, hvor tabt adgang faktisk koster dig noget, du ikke kan omlægge.
 
 ## Hvorfor offline betyder noget for rejsedokumenter
 
 Et pas er identitet, et visum er tilladelse, og et ID er bevis. Disse dokumenter afgør, om en grænse lukker dig igennem, og om en forsikringssag bliver udbetalt, hvilket placerer dem i en anden kategori end alt andet, en rejseapp håndterer.
 
-At opbevare dem i en cloud-tjeneste betyder at acceptere tre separate risici: tjenesten kan lukke, som TripCase gjorde; firmaet kan ændre sin privatlivs- eller sikkerhedsmodel, når det vil; og du har brug for en forbindelse plus et fungerende login for at nå dine egne dokumenter - ikke en selvfølge ved en grænseovergang, hvor din roaming er stille og roligt død.
+At opbevare dem i en cloud-tjeneste betyder at acceptere tre separate risici: tjenesten kan lukke, som TripCase gjorde; firmaet kan ændre sin privatlivs- eller sikkerhedsmodel, når det vil; og du har brug for en forbindelse plus et fungerende login for at nå dine egne dokumenter – ikke en selvfølge ved en grænseovergang, hvor din roaming er stille og roligt død.
 
 Offline-first-opbevaring fjerner alle tre risici på én gang. Dokumenterne ligger på din enhed, læsbare uden signal og uden konto, og der er ingen server, nogen kan slukke for. Overvejer du, hvor digitale kopier bør ligge, gennemgår vores sammenligning af [iCloud, Google Photos og krypterede sikkerhedsbokse](https://traveldocumentvault.com/da/blog/safest-way-to-store-passport-digitally/) afvejningerne i detaljer.
 
@@ -96,7 +96,7 @@ Ingen enkelt app gør alt det, TripCase gjorde. De fleste tidligere brugere ende
 
 ### Bør jeg opbevare mine rejsedokumenter i en cloud-app?
 
-Det afhænger af dokumentet. Cloud-tjenester er praktiske til bookingbekræftelser og referencer, som kan erstattes, hvis en tjeneste lukker. Dine faktiske rejsedokumenter - pas, visum, ID, kørekort - opbevares bedre offline på din enhed, hvor de ikke afhænger af, at et firmas server forbliver online.
+Det afhænger af dokumentet. Cloud-tjenester er praktiske til bookingbekræftelser og referencer, som kan erstattes, hvis en tjeneste lukker. Dine faktiske rejsedokumenter – pas, visum, ID, kørekort – opbevares bedre offline på din enhed, hvor de ikke afhænger af, at et firmas server forbliver online.
 
 ## Relaterede artikler
 

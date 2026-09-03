@@ -22,11 +22,11 @@ Når man planlægger en rejse, spekulerer mange rejsende på, om de kan gemme en
 
 ### Indtjekning på hotel
 
-De fleste hoteller verden over accepterer digitale paskopier ved indtjekning - en PDF på telefonen, sendt på forhånd via e-mail eller printet ud. Det er særligt nyttigt, hvis du tjekker ind sent eller flytter mellem forskellige overnatningssteder og ikke ønsker at bære dit fysiske pas hele rejsen. Nogle mindre hoteller, især i regioner med mindre digital infrastruktur, foretrækker stadig originalen. I dele af Europa - blandt andet Spanien, Frankrig og Italien - skal hoteller registrere dine oplysninger for myndighederne og vil generelt gerne se det fysiske pas for at gøre det, selvom databeskyttelsesvejledning siger, at de normalt ikke bør beholde en kopi. Kontakt din overnatning på forhånd for at bekræfte.
+De fleste hoteller verden over accepterer digitale paskopier ved indtjekning – en PDF på telefonen, sendt på forhånd via e-mail eller printet ud. Det er særligt nyttigt, hvis du tjekker ind sent eller flytter mellem forskellige overnatningssteder og ikke ønsker at bære dit fysiske pas hele rejsen. Nogle mindre hoteller, især i regioner med mindre digital infrastruktur, foretrækker stadig originalen. I dele af Europa – blandt andet Spanien, Frankrig og Italien – skal hoteller registrere dine oplysninger for myndighederne og vil generelt gerne se det fysiske pas for at gøre det, selvom databeskyttelsesvejledning siger, at de normalt ikke bør beholde en kopi. Kontakt din overnatning på forhånd for at bekræfte.
 
 ### Flybookinger og online indtjekning
 
-Flyselskaber kræver dine pasoplysninger ved booking, og mange lader dig uploade en digital kopi for at verificere din identitet til online indtjekning - det fremskynder processen i lufthavnen. Du skal stadig fremvise det originale pas ved gaten. Den digitale kopis rolle er verifikation før rejsen, ikke boardingdokumentation.
+Flyselskaber kræver dine pasoplysninger ved booking, og mange lader dig uploade en digital kopi for at verificere din identitet til online indtjekning – det fremskynder processen i lufthavnen. Du skal stadig fremvise det originale pas ved gaten. Den digitale kopis rolle er verifikation før rejsen, ikke boardingdokumentation.
 
 ### Biludlejningsselskaber
 
@@ -34,11 +34,11 @@ Biludlejningsselskaber accepterer typisk digitale paskopier til booking og depos
 
 ### Akut konsulær bistand
 
-Bliver dit pas væk eller stjålet under rejsen, kan en digital kopi markant fremskynde processen for et nødpas hos din ambassade. Den beviser passets eksistens og dokumenterer dine personoplysninger, foto og pasnummer - alt det, ambassaden skal bruge for at udstede et erstatningsdokument. Det er en af de stærkeste grunde til altid at have en digital backup med.
+Bliver dit pas væk eller stjålet under rejsen, kan en digital kopi markant fremskynde processen for et nødpas hos din ambassade. Den beviser passets eksistens og dokumenterer dine personoplysninger, foto og pasnummer – alt det, ambassaden skal bruge for at udstede et erstatningsdokument. Det er en af de stærkeste grunde til altid at have en digital backup med.
 
 ## Hvor dit fysiske pas altid kræves
 
-En digital kopi er ikke en erstatning for dit fysiske pas ved indrejse, hos flyselskaber eller hos politiet. I disse situationer er originaldokumentet simpelthen obligatorisk - der er ingen vej udenom.
+En digital kopi er ikke en erstatning for dit fysiske pas ved indrejse, hos flyselskaber eller hos politiet. I disse situationer er originaldokumentet simpelthen obligatorisk – der er ingen vej udenom.
 
 | Rejsesituation | Digital kopi accepteret | Bemærkninger |
 |---|---|---|
@@ -91,7 +91,7 @@ De fleste visumansøgninger kræver bekræftede kopier eller notarielt bekræfte
 
 ### Kan en digital paskopi hjælpe, hvis mit pas bliver væk eller stjålet i udlandet?
 
-Ja, i høj grad. En digital kopi fremskynder processen for et nødpas hos din ambassade. Den dokumenterer dine personoplysninger, foto og pasnummer - alt det, ambassaden skal bruge for at udstede et erstatningsdokument.
+Ja, i høj grad. En digital kopi fremskynder processen for et nødpas hos din ambassade. Den dokumenterer dine personoplysninger, foto og pasnummer – alt det, ambassaden skal bruge for at udstede et erstatningsdokument.
 
 ### Hvordan bør jeg opbevare min digitale paskopi sikkert?
 

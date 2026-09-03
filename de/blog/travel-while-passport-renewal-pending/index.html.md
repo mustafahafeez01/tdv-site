@@ -28,9 +28,9 @@ Ob Sie diesen Pass noch haben, hängt ganz von Ihrem Land und Ihrer Erneuerungsm
 
 Bei der Standard-Passerneuerung per Post in den USA ist es nicht erforderlich, Ihren aktuellen Pass abzugeben, bevor Ihr neuer ankommt. Sie füllen das Formular DS-82 aus, legen Ihren bestehenden Pass bei und schicken alles an das National Passport Processing Center. Ihr alter Pass wird Ihnen zusammen mit dem neuen zurückgegeben, normalerweise mit einem Loch gestanzt und ungültig gemacht.
 
-Das bedeutet, dass Reisen im Inland innerhalb der Vereinigten Staaten während des gesamten Erneuerungsprozesses nicht beeinträchtigt werden - Sie benötigen keinen Pass für Inlandsflüge. Internationale Reisen sind eine andere Sache: Sie können nicht ins Ausland reisen, bis Ihr neuer Pass ankommt, und Sie können auch den alten ungültig gemachten Pass nicht verwenden, selbst wenn Sie ihn in Händen halten.
+Das bedeutet, dass Reisen im Inland innerhalb der Vereinigten Staaten während des gesamten Erneuerungsprozesses nicht beeinträchtigt werden – Sie benötigen keinen Pass für Inlandsflüge. Internationale Reisen sind eine andere Sache: Sie können nicht ins Ausland reisen, bis Ihr neuer Pass ankommt, und Sie können auch den alten ungültig gemachten Pass nicht verwenden, selbst wenn Sie ihn in Händen halten.
 
-Die Standardbearbeitungszeit ändert sich, und das State Department veröffentlicht die aktuelle Angabe auf travel.state.gov, prüfen Sie diese also, bevor Sie danach planen. Wenn Ihre Reise gebucht ist, bevor Sie mit der Ankunft des neuen Passes rechnen, ist beschleunigte Bearbeitung gegen eine zusätzliche Gebühr verfügbar und verkürzt die Wartezeit spürbar. Für wirklich dringende Reisen sind persönliche Termine bei regionalen Passämtern verfügbar - aktuelle Berechtigung auf travel.state.gov prüfen.
+Die Standardbearbeitungszeit ändert sich, und das State Department veröffentlicht die aktuelle Angabe auf travel.state.gov, prüfen Sie diese also, bevor Sie danach planen. Wenn Ihre Reise gebucht ist, bevor Sie mit der Ankunft des neuen Passes rechnen, ist beschleunigte Bearbeitung gegen eine zusätzliche Gebühr verfügbar und verkürzt die Wartezeit spürbar. Für wirklich dringende Reisen sind persönliche Termine bei regionalen Passämtern verfügbar – aktuelle Berechtigung auf travel.state.gov prüfen.
 
 ## Vereinigtes Königreich: Zwei Verfahren mit gegensätzlichen Ergebnissen
 
@@ -52,7 +52,7 @@ Das Australian Passport Office veröffentlicht seine aktuellen Bearbeitungszeite
 
 ## Kanada: Bei Antragstellung Abgabe erforderlich
 
-Kanada verlangt, dass Sie Ihren bestehenden Pass abgeben, wenn Sie eine Erneuerung beantragen. Ihr alter Pass wird behalten, bis Ihr neuer fertig ist, daher können Sie in diesem Zeitraum nicht ins Ausland reisen - obwohl Inlandsreisen innerhalb Kanadas keinen Pass erfordern.
+Kanada verlangt, dass Sie Ihren bestehenden Pass abgeben, wenn Sie eine Erneuerung beantragen. Ihr alter Pass wird behalten, bis Ihr neuer fertig ist, daher können Sie in diesem Zeitraum nicht ins Ausland reisen – obwohl Inlandsreisen innerhalb Kanadas keinen Pass erfordern.
 
 Service Canada veröffentlicht seine aktuellen Bearbeitungsstandards, die je nachdem variieren, ob Sie persönlich, per Post oder in einem Service Canada Centre beantragen, zuzüglich Versandzeit. Für dringende Reisen gibt es Express-Service und dringende Abholoptionen gegen zusätzliche Gebühren. Überprüfen Sie die aktuellen Bearbeitungszeiten und beantragen Sie auf canada.ca.
 
@@ -82,7 +82,7 @@ Der praktische Test ist einfach. Wenn Ihr Reisepass entwertet oder abgelaufen is
 
 ## Wenn Ihre Reise früher als der Erneuerungszeitraum stattfindet
 
-Warten Sie nicht, sondern kontaktieren Sie die Passbehörde Ihres Landes telefonisch - fragen Sie speziell nach beschleunigten, dringenden oder Notfall-Terminoptionen. Diese existieren in jedem hier aufgelisteten Land, aber die Verfügbarkeit ändert sich wöchentlich und Terminplätze verschwinden schnell.
+Warten Sie nicht, sondern kontaktieren Sie die Passbehörde Ihres Landes telefonisch – fragen Sie speziell nach beschleunigten, dringenden oder Notfall-Terminoptionen. Diese existieren in jedem hier aufgelisteten Land, aber die Verfügbarkeit ändert sich wöchentlich und Terminplätze verschwinden schnell.
 
 Kontaktieren Sie gleichzeitig Ihre Fluggesellschaft bezüglich der Umplanung. Einige Fluggesellschaften verzichten auf Änderungsgebühren, wenn ein echtes Dokumentproblem der Grund ist. Schriftlich bestätigen lassen. Wenn Sie eine Reiseversicherung haben, überprüfen Sie Ihre Police auf Deckung von Kosten, die sich aus Passverzögerungen oder Dokumentproblemen ergeben.
 

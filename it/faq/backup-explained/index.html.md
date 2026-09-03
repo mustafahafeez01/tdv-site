@@ -12,9 +12,9 @@ Travel Document Vault offre tre livelli di protezione. Ecco esattamente cosa fa 
 
 I Suoi documenti si trovano sul dispositivo. Non vanno sui nostri server. I tre meccanismi di backup servono a scopi diversi, e potete usarli tutti e tre contemporaneamente.
 
-- **Backup locali automatici** - avvengono silenziosamente in background, nessuna azione richiesta.
-- **Vault Export (.tdvault)** - un file crittografato portabile che salvate dove volete.
-- **Cloud Backup (Pro)** - una copia crittografata automatica nel vostro iCloud o Google Drive personale.
+- **Backup locali automatici** — avvengono silenziosamente in background, nessuna azione richiesta.
+- **Vault Export (.tdvault)** — un file crittografato portabile che salvate dove volete.
+- **Cloud Backup (Pro)** — una copia crittografata automatica nel vostro iCloud o Google Drive personale.
 
 ## A colpo d'occhio
 
@@ -34,7 +34,7 @@ In Impostazioni vedrà una riga come *Ultimo backup: 2 ore fa, 12 documenti*. Qu
 
 Questi snapshot locali rimangono sul Suo dispositivo. Un backup di sistema (iCloud Backup, Google Backup) reinstalla l'app ma non può ripristinarli su un nuovo telefono, perché la chiave di crittografia non lascia mai il dispositivo originale. Per spostare il Suo Vault, usi il cloud backup (Pro) o Vault Export gratuito.
 
-## Vault Export (.tdvault) - gratuito per tutti
+## Vault Export (.tdvault) — gratuito per tutti
 
 Vault Export crea un unico file crittografato e protetto da password contenente ogni profilo, documento e allegato nel Suo Vault. Scelga dove salvarlo: app File, iCloud Drive, Google Drive, oppure lo condivida tramite AirDrop o email.
 

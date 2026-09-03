@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/de/blog/passport-expired-what-to-do/
 
 - Es gibt zwei unterschiedliche Szenarien: Sie stellen fest, dass Ihr Reisepass zu Hause abgelaufen ist, oder Sie stellen es am Flughafen fest. Die Schritte unterscheiden sich für beide.
 - Sie können nicht international mit einem abgelaufenen Reisepass fliegen. Keine Ausnahmen.
-- Im Vereinigten Königreich gibt es einen beschleunigten Premium-Reisepass-Service für echte Notfälle - buchbar auf gov.uk. In den USA sind Notfalltermine durch das State Department für dringende Reisen verfügbar.
+- Im Vereinigten Königreich gibt es einen beschleunigten Premium-Reisepass-Service für echte Notfälle – buchbar auf gov.uk. In den USA sind Notfalltermine durch das State Department für dringende Reisen verfügbar.
 - Am Flughafen wenden Sie sich zunächst an Ihre Airline – einige buchen ohne Gebühren für echte Dokumentationsnotfälle um.
 - Die langfristige Lösung ist eine 12-Monats-Ablauferinnerung, nicht eine 6-Monats-Erinnerung. Das gibt Ihnen genug Zeit, um mit standardmäßiger Bearbeitung zu erneuern.
 - Ablauf ist nicht das einzige Reisepassproblem, das Reisende am Flughafen abweist. Beschädigungen, Namensfehler, fehlende Unterschriften und unzureichende Restgültigkeit an Ihrem Zielort führen zum gleichen Ergebnis.
@@ -25,9 +25,9 @@ Diese Situation ist lösbar – aber wie gut sie gelöst werden kann, hängt dav
 
 Wie dringend Sie handeln müssen, bestimmt, was zu tun ist:
 
-- **Reichlich Zeit vor der Reise:** Stellen Sie online über die Website Ihrer Reisepassbehörde einen Antrag auf Standarderneuerung - GOV.UK für das Vereinigte Königreich, travel.state.gov für die USA.
+- **Reichlich Zeit vor der Reise:** Stellen Sie online über die Website Ihrer Reisepassbehörde einen Antrag auf Standarderneuerung – GOV.UK für das Vereinigte Königreich, travel.state.gov für die USA.
 - **Reise rückt näher:** Beantragen Sie sofort und zahlen Sie für beschleunigte Bearbeitung. Sowohl das Vereinigte Königreich als auch die USA bieten online einen schnelleren kostenpflichtigen Service an, und beide veröffentlichen ihre aktuelle Bearbeitungszeit.
-- **Reise steht kurz bevor:** Rufen Sie Ihre Reisepassbehörde direkt an, statt sich nur auf die Website zu verlassen - die Beratungsstelle des HM Passport Office im Vereinigten Königreich oder das US National Passport Information Center in den USA.
+- **Reise steht kurz bevor:** Rufen Sie Ihre Reisepassbehörde direkt an, statt sich nur auf die Website zu verlassen – die Beratungsstelle des HM Passport Office im Vereinigten Königreich oder das US National Passport Information Center in den USA.
 - **Reise ist unmittelbar bevorstehend:** Fragen Sie nach einem Notfalltermin und bringen Sie einen Nachweis Ihrer Reisedaten mit. Das Vereinigte Königreich bietet einen beschleunigten Premium-Service an ausgewählten Reisepass-Büros an, und die USA bieten Termine bei regionalen Reisepassbehörden an.
 
 Alle großen Reisepassbehörden halten Notfalltermine zurück, die online nicht sichtbar sind. Wenn Ihre Frist knapp ist, rufen Sie an, anstatt sich nur auf die Website zu verlassen.
@@ -106,7 +106,7 @@ Sie können nicht an Bord gehen. Gehen Sie sofort zum Schalter der Airline, um U
 
 ### Wie schnell kann ich einen Notreisepass bekommen, wenn meiner abgelaufen ist?
 
-Im Vereinigten Königreich ist ein beschleunigter Premium-Service an ausgewählten Reisepass-Büros für echte Notfälle verfügbar - Termin erforderlich, aktuelle Bearbeitungszeit und Buchung auf gov.uk prüfen. In den USA sind persönliche Notfalltermine bei regionalen Reisepassbehörden für dringende Reisen verfügbar - aktuelle Gebühren und Verfügbarkeit auf travel.state.gov prüfen. In Australien überprüfen Sie passports.gov.au auf Optionen für dringende Bearbeitung.
+Im Vereinigten Königreich ist ein beschleunigter Premium-Service an ausgewählten Reisepass-Büros für echte Notfälle verfügbar – Termin erforderlich, aktuelle Bearbeitungszeit und Buchung auf gov.uk prüfen. In den USA sind persönliche Notfalltermine bei regionalen Reisepassbehörden für dringende Reisen verfügbar – aktuelle Gebühren und Verfügbarkeit auf travel.state.gov prüfen. In Australien überprüfen Sie passports.gov.au auf Optionen für dringende Bearbeitung.
 
 ### Wie vermeide ich, dass mein Reisepass unerwartet abläuft?
 

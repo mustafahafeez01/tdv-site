@@ -12,8 +12,8 @@ Source: https://traveldocumentvault.com/es/blog/passport-expired-what-to-do/
 
 - Hay dos escenarios distintos: descubrir que tu pasaporte está caducado **en casa antes de un viaje**, y descubrirlo **en el aeropuerto**. Los pasos son diferentes para cada uno.
 - No puedes viajar internacionalmente con un pasaporte caducado. Sin excepciones.
-- En el Reino Unido, existe un servicio de pasaporte Premium acelerado para emergencias genuinas - reservable en gov.uk. En Estados Unidos, hay citas de emergencia disponibles a través del Departamento de Estado para viajes urgentes.
-- En el aeropuerto, contacta primero a tu aerolínea - algunas reprograman sin tarifas para emergencias genuinas de documentos.
+- En el Reino Unido, existe un servicio de pasaporte Premium acelerado para emergencias genuinas —reservable en gov.uk. En Estados Unidos, hay citas de emergencia disponibles a través del Departamento de Estado para viajes urgentes.
+- En el aeropuerto, contacta primero a tu aerolínea —algunas reprograman sin tarifas para emergencias genuinas de documentos.
 - La solución para el futuro es un recordatorio de caducidad a 12 meses, no a 6 meses. Eso te da suficiente tiempo para renovar con procesamiento estándar.
 - La caducidad no es el único problema de pasaporte que hace que los viajeros sean rechazados. El daño, falta de concordancia de nombres, firmas faltantes, y validez insuficiente restante en tu destino causan el mismo resultado.
 
@@ -21,18 +21,18 @@ Descubrir que tu pasaporte está caducado es uno de esos momentos en los que el 
 
 ## Escenario A: Lo Descubriste en Casa, con un Viaje Próximo
 
-Esta situación es recuperable - pero qué tan recuperable depende de cuánto tiempo tengas antes de viajar.
+Esta situación es recuperable —pero qué tan recuperable depende de cuánto tiempo tengas antes de viajar.
 
 Lo urgente que necesites actuar determina qué hacer:
 
-- **Mucho tiempo antes del viaje:** solicita la renovación estándar en línea a través del sitio web de tu autoridad de pasaportes - GOV.UK en el Reino Unido, travel.state.gov en EE.UU.
+- **Mucho tiempo antes del viaje:** solicita la renovación estándar en línea a través del sitio web de tu autoridad de pasaportes —GOV.UK en el Reino Unido, travel.state.gov en EE.UU.
 - **El viaje se acerca:** solicita inmediatamente y paga por procesamiento expedito. Tanto el Reino Unido como EE.UU. ofrecen en línea un servicio de pago más rápido, y ambos publican su tiempo de procesamiento actual.
-- **El viaje está cerca:** llama directamente a tu autoridad de pasaportes en lugar de confiar solo en el sitio web - la línea de atención de HM Passport Office en el Reino Unido, o el National Passport Information Center en EE.UU.
+- **El viaje está cerca:** llama directamente a tu autoridad de pasaportes en lugar de confiar solo en el sitio web —la línea de atención de HM Passport Office en el Reino Unido, o el National Passport Information Center en EE.UU.
 - **El viaje es inminente:** pregunta por una cita de emergencia y lleva prueba de tus fechas de viaje. El Reino Unido ofrece un servicio Premium acelerado en oficinas de pasaportes designadas, y EE.UU. ofrece citas en agencias de pasaportes regionales.
 
 Todas las principales autoridades de pasaportes retienen ranuras de cita de emergencia que no son visibles en línea. Si tu cronograma es ajustado, llama en lugar de confiar solo en el sitio web.
 
-**Establece el recordatorio ahora** para que esto nunca vuelva a suceder - Travel Document Vault empieza a notificarte desde ocho meses antes de que caduque cada pasaporte en tu hogar, y de nuevo a medida que se acerca la fecha. [Descarga en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Establece el recordatorio ahora** para que esto nunca vuelva a suceder —Travel Document Vault empieza a notificarte desde ocho meses antes de que caduque cada pasaporte en tu hogar, y de nuevo a medida que se acerca la fecha. [Descarga en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Escenario B: Lo Descubriste en el Aeropuerto
 
@@ -40,13 +40,13 @@ Este escenario sucede más a menudo de lo que la gente espera, y los pasos no so
 
 **Paso 1: Mantén la calma y aléjate de la cola.** No vas a abordar este vuelo, y cuanto antes aceptes esa realidad, antes podrás empezar a trabajar en la solución.
 
-**Paso 2: Ve al mostrador de la aerolínea inmediatamente.** No dejes el aeropuerto - habla con la aerolínea directamente y explica la situación. Algunas aerolíneas reprogramarán sin tarifa de cambio para emergencias genuinas de documentos - no todas, pero vale la pena preguntar. Obtén la respuesta por escrito si están de acuerdo.
+**Paso 2: Ve al mostrador de la aerolínea inmediatamente.** No dejes el aeropuerto —habla con la aerolínea directamente y explica la situación. Algunas aerolíneas reprogramarán sin tarifa de cambio para emergencias genuinas de documentos —no todas, pero vale la pena preguntar. Obtén la respuesta por escrito si están de acuerdo.
 
 **Paso 3: Verifica si el viaje doméstico es posible.** Un pasaporte caducado aún puede ser aceptado como identificación para vuelos domésticos en algunos países, aunque esto no es garantizado. Si tu destino final es alcanzable por vía doméstica desde una ciudad más cercana, esto podría ser una opción mientras resuelves el pasaporte.
 
 **Paso 4: Contacta a tu autoridad de pasaportes por teléfono.** Explica tu situación. En el Reino Unido, llama al la línea de atención de HM Passport Office y pregunta por la cita más temprana disponible en la oficina de pasaportes más cercana. En Estados Unidos, llama al el National Passport Information Center de EE. UU. y pregunta sobre citas de emergencia en la agencia regional de pasaportes más cercana. Existen opciones de mismo día y día siguiente para emergencias genuinas.
 
-**Paso 5: Reserva alojamiento cerca de la oficina de pasaportes.** Si consigues una cita para el día siguiente, necesitas un lugar donde quedarte. Guarda los recibos - si tienes seguro de viaje, algunos de estos costos pueden ser reclamables.
+**Paso 5: Reserva alojamiento cerca de la oficina de pasaportes.** Si consigues una cita para el día siguiente, necesitas un lugar donde quedarte. Guarda los recibos —si tienes seguro de viaje, algunos de estos costos pueden ser reclamables.
 
 **Paso 6: Contacta a tu aseguradora de viaje.** Un pasaporte descubierto como caducado en el aeropuerto puede estar cubierto por el seguro de viaje dependiendo de tu póliza. Llama para verificar en lugar de asumir de una forma u otra.
 
@@ -62,31 +62,31 @@ Los pasaportes de niños son particularmente vulnerables. Marcas de bolígrafo e
 
 ### 2. Un nombre que no coincide con tu pasaje
 
-Una falta de concordancia de nombre entre tu pasaporte y pasaje de embarque te hará ser rechazado. Atrapa a las personas después de un cambio de nombre legal - matrimonio, divorcio, o cambio formal de documento - donde el pasaporte aún no ha sido actualizado. También atrapa errores de reserva: un segundo nombre en el pasaje pero ausente del pasaporte, o viceversa.
+Una falta de concordancia de nombre entre tu pasaporte y pasaje de embarque te hará ser rechazado. Atrapa a las personas después de un cambio de nombre legal —matrimonio, divorcio, o cambio formal de documento— donde el pasaporte aún no ha sido actualizado. También atrapa errores de reserva: un segundo nombre en el pasaje pero ausente del pasaporte, o viceversa.
 
 Incluso pequeñas variaciones como una inicial de segundo nombre faltante o una letra transpuesta a veces pueden ser resueltas por el personal de la aerolínea, pero no puedes contar con ello. Asegúrate de que cada nombre en cada pasaje coincida con cada nombre en cada pasaporte exactamente, incluyendo los nombres de los niños.
 
 ### 3. Un pasaporte sin firmar
 
-La mayoría de los pasaportes tienen un panel de firma. Algunos países - incluyendo Estados Unidos - requieren que el pasaporte sea firmado antes de considerarse válido para viajar. Un pasaporte sin firmar puede ser rechazado en la frontera. Esto es más comúnmente un problema con pasaportes expedidos a niños que eran demasiado jóvenes para firmar, o con pasaportes completamente nuevos que el titular olvidó firmar antes de viajar. Verifica el panel de firma antes de irte de casa.
+La mayoría de los pasaportes tienen un panel de firma. Algunos países —incluyendo Estados Unidos— requieren que el pasaporte sea firmado antes de considerarse válido para viajar. Un pasaporte sin firmar puede ser rechazado en la frontera. Esto es más comúnmente un problema con pasaportes expedidos a niños que eran demasiado jóvenes para firmar, o con pasaportes completamente nuevos que el titular olvidó firmar antes de viajar. Verifica el panel de firma antes de irte de casa.
 
 ### 4. Validez insuficiente para tu destino
 
-La fecha de caducidad de tu pasaporte no es el único umbral que importa. Muchos países requieren que siga siendo válido por un período mínimo más allá de tu fecha de llegada prevista - típicamente seis meses, aunque algunos requieren solo tres meses o simplemente la duración de tu estadía. Llegar con un pasaporte técnicamente válido que no cumple con este requisito te hará ser rechazado en la frontera, al igual que un pasaporte caducado.
+La fecha de caducidad de tu pasaporte no es el único umbral que importa. Muchos países requieren que siga siendo válido por un período mínimo más allá de tu fecha de llegada prevista —típicamente seis meses, aunque algunos requieren solo tres meses o simplemente la duración de tu estadía. Llegar con un pasaporte técnicamente válido que no cumple con este requisito te hará ser rechazado en la frontera, al igual que un pasaporte caducado.
 
 Esta regla no se aplica consistentemente en todos los destinos, lo que la hace fácil de pasar por alto. [La regla de los seis meses del pasaporte](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/) explica qué países la aplican y cuáles no, con un ejemplo trabajado de cómo se calcula.
 
 ### 5. No verificar requisitos de visa antes de viajar
 
-Los requisitos de visa y autorización de viaje electrónica (ETA) cambian a menudo y varían según la nacionalidad, el destino y el propósito del viaje. Llegar sin el permiso de entrada correcto - asumiendo acceso sin visa cuando en realidad se requiere uno - resulta en embarque rechazado o ser devuelto en la frontera. Una ruta que era sin visa cuando la viajaste por última vez puede ya no serlo.
+Los requisitos de visa y autorización de viaje electrónica (ETA) cambian a menudo y varían según la nacionalidad, el destino y el propósito del viaje. Llegar sin el permiso de entrada correcto —asumiendo acceso sin visa cuando en realidad se requiere uno— resulta en embarque rechazado o ser devuelto en la frontera. Una ruta que era sin visa cuando la viajaste por última vez puede ya no serlo.
 
 Antes de cada viaje, verifica los requisitos de entrada oficiales para tu destino usando el servicio de asesoramiento de viaje de tu país: gov.uk/foreign-travel-advice para titulares de pasaporte del Reino Unido, travel.state.gov para titulares de pasaporte de Estados Unidos, o smartraveller.gov.au para titulares de pasaporte australianos. No confíes en lo que era verdad la última vez.
 
 ## Cómo Hacer Que Esto Nunca Vuelva a Suceder
 
-La causa raíz es generalmente la misma: sin recordatorio establecido. Establece un recordatorio de caducidad al menos **12 meses antes de la fecha de caducidad** - no 6 meses. Esto te da tiempo para renovar con procesamiento estándar sin pagar por servicio expedito, y sin el estrés de un cronograma ajustado.
+La causa raíz es generalmente la misma: sin recordatorio establecido. Establece un recordatorio de caducidad al menos **12 meses antes de la fecha de caducidad** —no 6 meses. Esto te da tiempo para renovar con procesamiento estándar sin pagar por servicio expedito, y sin el estrés de un cronograma ajustado.
 
-Haz esto para cada pasaporte en tu hogar por separado. Los pasaportes de niños caducan más rápido - 5 años en la mayoría de países versus 10 para adultos - y son los que más a menudo se pierden.
+Haz esto para cada pasaporte en tu hogar por separado. Los pasaportes de niños caducan más rápido —5 años en la mayoría de países versus 10 para adultos— y son los que más a menudo se pierden.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
@@ -102,15 +102,15 @@ Solicita la renovación inmediatamente y paga por procesamiento expedito si tu v
 
 ### ¿Qué debo hacer si descubro que mi pasaporte está caducado en el aeropuerto?
 
-No podrás abordar. Ve al mostrador de la aerolínea inmediatamente para discutir reprogramación - algunas renuncian a tarifas de cambio para emergencias genuinas de documentos. Luego llama a tu autoridad de pasaportes para reservar una cita de emergencia. Opciones de mismo día y día siguiente están disponibles dependiendo de tu país.
+No podrás abordar. Ve al mostrador de la aerolínea inmediatamente para discutir reprogramación —algunas renuncian a tarifas de cambio para emergencias genuinas de documentos. Luego llama a tu autoridad de pasaportes para reservar una cita de emergencia. Opciones de mismo día y día siguiente están disponibles dependiendo de tu país.
 
 ### ¿Qué tan rápido puedo obtener un pasaporte de emergencia si el mío ha caducado?
 
-En el Reino Unido, un servicio Premium acelerado está disponible en oficinas de pasaportes designadas para emergencias genuinas - cita requerida, consulta el tiempo de procesamiento actual y la reserva en gov.uk. En Estados Unidos, citas de emergencia en persona están disponibles en agencias de pasaportes regionales para viajes urgentes - consulta las tarifas y disponibilidad actuales en travel.state.gov. En Australia, consulta passports.gov.au para opciones de procesamiento urgente.
+En el Reino Unido, un servicio Premium acelerado está disponible en oficinas de pasaportes designadas para emergencias genuinas —cita requerida, consulta el tiempo de procesamiento actual y la reserva en gov.uk. En Estados Unidos, citas de emergencia en persona están disponibles en agencias de pasaportes regionales para viajes urgentes —consulta las tarifas y disponibilidad actuales en travel.state.gov. En Australia, consulta passports.gov.au para opciones de procesamiento urgente.
 
 ### ¿Cómo evito que mi pasaporte caduque inesperadamente?
 
-Establece un recordatorio de caducidad 12 meses antes de la caducidad - no 6 meses. Esto te da tiempo cómodo para renovar con procesamiento estándar. Haz esto para cada pasaporte en tu hogar por separado. Travel Document Vault envía recordatorios automáticos desde ocho meses antes, y de nuevo a medida que se acerca la fecha, para cada pasaporte que agregues.
+Establece un recordatorio de caducidad 12 meses antes de la caducidad —no 6 meses. Esto te da tiempo cómodo para renovar con procesamiento estándar. Haz esto para cada pasaporte en tu hogar por separado. Travel Document Vault envía recordatorios automáticos desde ocho meses antes, y de nuevo a medida que se acerca la fecha, para cada pasaporte que agregues.
 
 ### ¿Puede un pasaporte válido ser rechazado en el aeropuerto?
 
@@ -118,7 +118,7 @@ Sí. Un pasaporte que no ha caducado aún puede ser rechazado si está dañado, 
 
 ### ¿Cuál es la regla de los seis meses del pasaporte?
 
-Muchos países requieren que tu pasaporte siga siendo válido durante al menos seis meses más allá de tu fecha de llegada planeada. Si tu pasaporte caduca antes de eso - incluso si técnicamente sigue siendo válido - se te puede denegar el embarque o la entrada. No todos los países aplican esta regla, y el umbral varía. Verifica los requisitos para tu destino específico antes de viajar.
+Muchos países requieren que tu pasaporte siga siendo válido durante al menos seis meses más allá de tu fecha de llegada planeada. Si tu pasaporte caduca antes de eso —incluso si técnicamente sigue siendo válido— se te puede denegar el embarque o la entrada. No todos los países aplican esta regla, y el umbral varía. Verifica los requisitos para tu destino específico antes de viajar.
 
 ## Artículos Relacionados
 

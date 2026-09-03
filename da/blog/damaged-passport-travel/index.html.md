@@ -11,12 +11,12 @@ Source: https://traveldocumentvault.com/da/blog/damaged-passport-travel/
 ## Vigtigste punkter
 
 - **Ikke al slitage er skade.** En krøllet forside er fint. Vandskade, iturevne sider eller udviskede sikkerhedselementer er det ikke.
-- Luftfartsselskaber afviser boarding, hvis de mener et pas er beskadiget - **de hæfter for at lade en person boarde med et ugyldigt dokument** og vælger derfor forsigtighed frem for risiko.
+- Luftfartsselskaber afviser boarding, hvis de mener et pas er beskadiget – **de hæfter for at lade en person boarde med et ugyldigt dokument** og vælger derfor forsigtighed frem for risiko.
 - Opdager du skaden **dage eller uger før** din rejse, har du tid til en hasteudstedelse. Opdager du den dagen før, er det en krise.
-- Bliver du afvist ved gaten, **så spørg din ambassade om et nødrejsedokument** - det kan i mange tilfælde udstedes samme dag.
-- En digital kopi er **mest værd, når du er i udlandet** - en konsulær medarbejder kan bekræfte din identitet ud fra en scanning langt hurtigere end ud fra din egen forklaring. Scan dit pas, før du rejser.
+- Bliver du afvist ved gaten, **så spørg din ambassade om et nødrejsedokument** – det kan i mange tilfælde udstedes samme dag.
+- En digital kopi er **mest værd, når du er i udlandet** – en konsulær medarbejder kan bekræfte din identitet ud fra en scanning langt hurtigere end ud fra din egen forklaring. Scan dit pas, før du rejser.
 
-De fleste pasbeskadigelser er kosmetiske. Et slidt omslag, et blødt hjørne, en flosset kant langs ryggen - intet af det forhindrer nogen i at boarde. Det, grænsepersonale og luftfartsselskabernes medarbejdere reelt tjekker, er mere snævert, end de fleste rejsende regner med: datasiden, de to trykte linjer nedenunder, og om hæftet stadig hænger sammen som ét dokument.
+De fleste pasbeskadigelser er kosmetiske. Et slidt omslag, et blødt hjørne, en flosset kant langs ryggen – intet af det forhindrer nogen i at boarde. Det, grænsepersonale og luftfartsselskabernes medarbejdere reelt tjekker, er mere snævert, end de fleste rejsende regner med: datasiden, de to trykte linjer nedenunder, og om hæftet stadig hænger sammen som ét dokument.
 
 Hvor den grænse går, er værd at kende, før du rejser, for et pas kan være teknisk gyldigt og alligevel blive afvist. Det her gennemgår, hvad der tæller som skade, hvad myndighederne generelt accepterer, og hvad du skal gøre, hvis dit allerede er i dårlig stand.
 
@@ -26,7 +26,7 @@ Her går de fleste unødvendigt i panik: et bøjet hjørne på forsiden er ikke 
 
 **Skade betyder noget, der kompromitterer dokumentets sikkerhedselementer eller læsbarhed.** Vandskade er det klassiske eksempel: blækket løber ud, siderne krøller eller svulmer op, og underskriftssiden bliver ulæselig. Iturevne eller manglende sider tæller også med, ligesom et beskadiget sikkerhedshologram, en ødelagt ryg, eller alt, der skjuler dine personlige oplysninger eller biometriske data.
 
-Allervigtigst er det, at den maskinlæsbare zone - den sort-hvide stribe nederst på din data-side - forbliver intakt. Grænsescannere kan have svært ved at læse den, når den først er beskadiget.
+Allervigtigst er det, at den maskinlæsbare zone – den sort-hvide stribe nederst på din data-side – forbliver intakt. Grænsescannere kan have svært ved at læse den, når den først er beskadiget.
 
 Grunden til, at dette betyder noget, er, at **luftfartsselskaberne hæfter, hvis de lader nogen boarde med et uacceptabelt dokument.** Boarder du med et beskadiget pas og bliver nægtet indrejse i den anden ende, kan myndighederne bøde luftfartsselskabet for at have fragtet dig. Luftfartsselskabet skal også betale for at flyve dig hjem igen.
 
@@ -34,28 +34,28 @@ Ingen gateopvartere ønsker det papirarbejde, så de vælger klart forsigtighed.
 
 ## Du opdager skaden dage eller uger før rejsen
 
-At opdage skaden i god tid er det bedste scenarie, for så har du stadig plads til at handle. I det øjeblik du bemærker noget unormalt - en revnende forside, vandpletter, løbende blæk, alt usædvanligt - så kontakt din pasmyndighed i stedet for at vente og se, om det bliver værre, eller antage, at det nok går på selve dagen.
+At opdage skaden i god tid er det bedste scenarie, for så har du stadig plads til at handle. I det øjeblik du bemærker noget unormalt – en revnende forside, vandpletter, løbende blæk, alt usædvanligt – så kontakt din pasmyndighed i stedet for at vente og se, om det bliver værre, eller antage, at det nok går på selve dagen.
 
-Dit første skridt bør være dit eget lands officielle pasmyndigheds hjemmeside, for det er det eneste sted, hvor de gældende regler og sagsbehandlingstider garanteret er korrekte - og begge dele ændrer sig oftere, end folk tror. Er du i tvivl om, hvorvidt netop dit pas stadig bliver accepteret, er pasmyndigheden den eneste instans, hvis svar reelt tæller. Et rejseforum redder dig ikke ved skranken.
+Dit første skridt bør være dit eget lands officielle pasmyndigheds hjemmeside, for det er det eneste sted, hvor de gældende regler og sagsbehandlingstider garanteret er korrekte – og begge dele ændrer sig oftere, end folk tror. Er du i tvivl om, hvorvidt netop dit pas stadig bliver accepteret, er pasmyndigheden den eneste instans, hvis svar reelt tæller. Et rejseforum redder dig ikke ved skranken.
 
 Der er nogle ting, du bør bekræfte, før du går derhen. Hastetjenester og ekspresordninger findes normalt, men de dækker ikke altid beskadigede pas, og den allerhurtigste ordning er ofte forbeholdt enkle fornyelser. Kontroller, hvilken ordning din situation kvalificerer til, før du booker en tid.
 
 Et beskadiget pas betyder som regel også, at du skal ansøge personligt fremfor med posten. I nogle lande er det kontor, der håndterer hastesager, et helt andet sted end det, der bare modtager ansøgninger, og dukker du op det forkerte sted, koster det dig en dag, du sandsynligvis ikke har.
 
-Start processen, i det øjeblik du opdager skaden. At booke fly og håbe på, at fornyelsen når at blive klar, er et væddemål, der ofte tabes - især om sommeren, hvor pasmyndighederne er overbelastede.
+Start processen, i det øjeblik du opdager skaden. At booke fly og håbe på, at fornyelsen når at blive klar, er et væddemål, der ofte tabes – især om sommeren, hvor pasmyndighederne er overbelastede.
 
 ## Skade opdaget i lufthavnen
 
 Nu til den sværere version: du står i check-in-køen eller ved gaten og bemærker skade, du overså tidligere, eller medarbejderen ser den, i det øjeblik du rækker paset frem.
 
-Bevar roen og vær ærlig. Fortæl gateopvarteren, at du først lige har opdaget skaden, i stedet for at forsøge at skjule eller bagatellisere den - de har set beskadigede pas før og gennemskuer det med det samme.
+Bevar roen og vær ærlig. Fortæl gateopvarteren, at du først lige har opdaget skaden, i stedet for at forsøge at skjule eller bagatellisere den – de har set beskadigede pas før og gennemskuer det med det samme.
 
 Er skaden virkelig minimal, en lille rynke, der ikke påvirker tekst eller sikkerhedselementer, kan medarbejderen acceptere den. Er den mere alvorlig, vil de afvise boarding, og der er ikke noget at diskutere.
 
 Bliver boarding afvist, har du få muligheder:
 
 - **Ombook til et senere fly.** Kontakt dit luftfartsselskab eller rejsebureau, og forklar hvad der er sket. I mange tilfælde ombooker de dig uden ekstra omkostning, når årsagen er et beskadiget dokument (og ikke udeblivelse eller frivillig afbestilling). Brug tiden til at få styr på dit pas.
-- **Ansøg om et nødrejsedokument.** Kontakt straks din nærmeste ambassade eller konsulat. Forklar, at du har en bekræftet flybillet og har brug for at rejse hurtigt. Er du stadig i lufthavnen, kan mange ambassader udstede et nødrejsedokument samme dag - men du skal handle hurtigt og fremvise dokumentation for din booking.
+- **Ansøg om et nødrejsedokument.** Kontakt straks din nærmeste ambassade eller konsulat. Forklar, at du har en bekræftet flybillet og har brug for at rejse hurtigt. Er du stadig i lufthavnen, kan mange ambassader udstede et nødrejsedokument samme dag – men du skal handle hurtigt og fremvise dokumentation for din booking.
 - **Acceptér aflysningen.** Virker ingen af de andre muligheder, og kan rejsen ikke reddes, så spørg dit luftfartsselskab, hvad de kan gøre. Nogle ombooker dig eller tilbyder en kredit som god vilje, når du forklarer situationen. De fleste luftfartsselskabers vilkår betragter dog et dokumentproblem som passagerens eget ansvar, så der er ikke automatisk krav på refusion.
 
 Siger gateopvarteren nej, så undlad at diskutere, og forsøg ikke at boarde alligevel. Det skaber kun større problemer. Luftfartsselskabet kan udelukke dig fra fremtidige flyvninger, immigrationsmyndighederne kan bøde dig, og i nogle lande kan du blive retsforfulgt for at forsøge at rejse på et dokument, de allerede har vurderet ugyldigt.
@@ -79,7 +79,7 @@ Et tydeligt digitalt foto af dit pas hjælper her. Gem data-siden, forsiden og b
 
 Det er særligt værdifuldt, hvis du er i udlandet, når dit pas bliver beskadiget, og har brug for et nødrejsedokument fra din ambassade. Konsulære medarbejdere arbejder hurtigere, når de kan se en scanning af dit oprindelige pas direkte foran sig.
 
-Opbevar dine digitale kopier et krypteret og offline sted - ikke i Google Photos eller iCloud delt med andre. Travel Document Vault er bygget netop til dette formål: pasfotos krypteret udelukkende på din enhed, tilgængelige med det samme, hvis noget går galt.
+Opbevar dine digitale kopier et krypteret og offline sted – ikke i Google Photos eller iCloud delt med andre. Travel Document Vault er bygget netop til dette formål: pasfotos krypteret udelukkende på din enhed, tilgængelige med det samme, hvis noget går galt.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
@@ -91,7 +91,7 @@ Skade omfatter vandskade, løbende blæk, iturevne eller manglende sider, krafti
 
 ### Kan luftfartsselskaber afvise boarding på grund af pasbeskadigelse?
 
-Ja. Luftfartsselskaber hæfter, hvis de lader nogen boarde med et ugyldigt rejsedokument, og personen bliver nægtet indrejse eller udvist. Gateopvartere vælger derfor forsigtighed - et pas med vandskade eller manglende sider kan blive vurderet uacceptabelt, selvom det teknisk set stadig er gyldigt.
+Ja. Luftfartsselskaber hæfter, hvis de lader nogen boarde med et ugyldigt rejsedokument, og personen bliver nægtet indrejse eller udvist. Gateopvartere vælger derfor forsigtighed – et pas med vandskade eller manglende sider kan blive vurderet uacceptabelt, selvom det teknisk set stadig er gyldigt.
 
 ### Hvad skal jeg gøre, hvis jeg opdager pasbeskadigelse før min rejse?
 
@@ -99,7 +99,7 @@ Kontakt din pasmyndighed med det samme i stedet for at vente og se, om det blive
 
 ### Hvad hvis mit pas bliver beskadiget i lufthavnen?
 
-Underret gateopvarteren med det samme, og forklar hvornår skaden er sket. De kan acceptere paset, hvis skaden er minimal, og dine oplysninger stadig er læselige og sikre. Afviser de boarding, så spørg, om et nødrejsedokument fra din ambassade er muligt for rejsen, eller om du kan ombooke til et senere fly, når du har fået et nyt pas. Forsøg ikke at rejse, hvis gateopvarteren siger nej - at boarde med et afvist dokument skaber langt større problemer.
+Underret gateopvarteren med det samme, og forklar hvornår skaden er sket. De kan acceptere paset, hvis skaden er minimal, og dine oplysninger stadig er læselige og sikre. Afviser de boarding, så spørg, om et nødrejsedokument fra din ambassade er muligt for rejsen, eller om du kan ombooke til et senere fly, når du har fået et nyt pas. Forsøg ikke at rejse, hvis gateopvarteren siger nej – at boarde med et afvist dokument skaber langt større problemer.
 
 ### Hvor hurtigt kan jeg få et nyt pas, hvis mit er beskadiget?
 

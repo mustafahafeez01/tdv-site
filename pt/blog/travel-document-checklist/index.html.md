@@ -10,13 +10,13 @@ Source: https://traveldocumentvault.com/pt/blog/travel-document-checklist/
 
 ## Pontos-Chave
 
-- A lista de verificação de documentos de viagem mais útil é organizada por **quando precisa agir** - não por tipo de documento. Organizar por etapa significa que detecta problemas enquanto ainda há tempo para os corrigir.
+- A lista de verificação de documentos de viagem mais útil é organizada por **quando precisa agir** — não por tipo de documento. Organizar por etapa significa que detecta problemas enquanto ainda há tempo para os corrigir.
 - Os passaportes precisam ser verificados no momento da reserva, não na noite anterior. Um passaporte que expira em sete meses pode resultar em ser impedido de embarcar em destinos populares.
 - Viagens familiares adicionam uma camada separada: cada criança precisa de ter os seus documentos verificados individualmente e uma carta de consentimento dos progenitores pode ser necessária se um dos progenitores não estiver a viajar.
-- Viajantes de negócios frequentemente transportam múltiplos passaportes e vistos de trabalho - estes precisam de rastreamento próprio, separado de documentos pessoais.
+- Viajantes de negócios frequentemente transportam múltiplos passaportes e vistos de trabalho — estes precisam de rastreamento próprio, separado de documentos pessoais.
 - Uma cópia de segurança digital de cada documento (encriptada, não na sua biblioteca de fotos) pode conseguir levá-lo para casa mais rapidamente se algo corre mal no estrangeiro.
 
-A maioria das listas de verificação de documentos de viagem é apenas uma lista plana: passaporte, visto, seguro. Dizem-lhe o que trazer, mas não quando verificar, o que é onde as pessoas ficam apanhadas. A família que se apercebe no check-in que um passaporte expira em cinco meses, o viajante solo que reservou sem notar o seu requisito de visto, ou o viajante de negócios que esqueceu a qual passaporte está associado o seu visto corporativo - estes não são casos extremos, são a norma.
+A maioria das listas de verificação de documentos de viagem é apenas uma lista plana: passaporte, visto, seguro. Dizem-lhe o que trazer, mas não quando verificar, o que é onde as pessoas ficam apanhadas. A família que se apercebe no check-in que um passaporte expira em cinco meses, o viajante solo que reservou sem notar o seu requisito de visto, ou o viajante de negócios que esqueceu a qual passaporte está associado o seu visto corporativo — estes não são casos extremos, são a norma.
 
 Esta lista de verificação é organizada por etapa de viagem em vez disso. Começando no momento em que reserva e trabalhando até à segurança, cada etapa tem um conjunto específico de ações que precisam ser executadas. Seguindo-as por ordem é como os habituais apuros de última hora não acontecem.
 
@@ -26,11 +26,11 @@ O maior erro que os viajantes cometem é tratar o momento da reserva como admini
 
 **Verifique os seus passaportes antes de pagar**
 
-Antes de confirmar qualquer reserva, verifique o passaporte de cada viajante contra três critérios: validade (cumpre os requisitos do destino - muitos países exigem seis meses além da sua data de partida, não apenas a sua data de chegada, como explicado no nosso [guia da regra dos 6 meses do passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/)), correspondência de nomes (o nome no passaporte deve corresponder exactamente ao nome da reserva) e páginas em branco (alguns países exigem pelo menos duas páginas de visto em branco para carimbos de entrada).
+Antes de confirmar qualquer reserva, verifique o passaporte de cada viajante contra três critérios: validade (cumpre os requisitos do destino — muitos países exigem seis meses além da sua data de partida, não apenas a sua data de chegada, como explicado no nosso [guia da regra dos 6 meses do passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/)), correspondência de nomes (o nome no passaporte deve corresponder exactamente ao nome da reserva) e páginas em branco (alguns países exigem pelo menos duas páginas de visto em branco para carimbos de entrada).
 
 **Verifique os seus requisitos de visto**
 
-Descubra se a nacionalidade do seu passaporte requer um visto para entrada, trânsito ou ambos. Use o aviso de viagem oficial do seu governo ou o IATA Travel Centre - a mesma base de dados que as companhias aéreas usam para verificar documentos de passageiros. Precisará saber se um visto é necessário, ou se é elegível para acesso de visto na chegada ou e-visto, com que antecedência a candidatura precisa acontecer e se o visto cobre entradas múltiplas.
+Descubra se a nacionalidade do seu passaporte requer um visto para entrada, trânsito ou ambos. Use o aviso de viagem oficial do seu governo ou o IATA Travel Centre — a mesma base de dados que as companhias aéreas usam para verificar documentos de passageiros. Precisará saber se um visto é necessário, ou se é elegível para acesso de visto na chegada ou e-visto, com que antecedência a candidatura precisa acontecer e se o visto cobre entradas múltiplas.
 
 **Reserve o seu seguro de viagem cedo**
 
@@ -40,7 +40,7 @@ Reserve o seguro de viagem quando reserva voos, não uma semana antes da partida
 
 Neste ponto ainda tem tempo para corrigir as coisas. Os tempos de renovação mudam, e cada autoridade publica a sua própria cifra atual: o Departamento de Estado dos EUA, o HM Passport Office e o Australian Passport Office. Sempre verifique o site oficial para os tempos actuais antes de candidatar-se.
 
-Qualquer passaporte que expire nos próximos 12 meses: inicie o processo de renovação agora. Os passaportes de crianças expiram mais rapidamente - 5 anos na maioria dos países versus 10 para adultos - e os progenitores frequentemente perdem a janela. Para candidatos da Nova Zelândia, verifique o New Zealand Passport Office para cronogramas actuais; a procura aumenta na fase de aproximação ao verão.
+Qualquer passaporte que expire nos próximos 12 meses: inicie o processo de renovação agora. Os passaportes de crianças expiram mais rapidamente — 5 anos na maioria dos países versus 10 para adultos — e os progenitores frequentemente perdem a janela. Para candidatos da Nova Zelândia, verifique o New Zealand Passport Office para cronogramas actuais; a procura aumenta na fase de aproximação ao verão.
 
 Submeta qualquer candidatura de visto com uma janela de processamento de quatro ou mais semanas. Prepare documentos de apoio: extractos bancários, confirmações de alojamento, prova de viagem contínua. Reserve uma consulta de biometria com antecedência se o visto o exigir.
 
@@ -77,7 +77,7 @@ Estas são confirmações, não descobertas. Se algo está em falta agora, tem h
 
 ### Noite Anterior
 
-- Passaportes fora e contabilizados - um por pessoa
+- Passaportes fora e contabilizados — um por pessoa
 - Cartões de embarque descarregados para telemóvel ou impressos
 - Certificado de seguro de viagem acessível no telemóvel
 - Confirmações de hotel e transferência descarregadas offline
@@ -87,11 +87,11 @@ Estas são confirmações, não descobertas. Se algo está em falta agora, tem h
 
 ## No Aeroporto: Mantenha Estes Consigo
 
-Mantenha estes na sua mala de cabine sempre - não coloque em bagagem de porão: passaportes, cartões de embarque, certificado de seguro de viagem, carta de consentimento dos progenitores se aplicável e qualquer documentação de visto ou cartas de aprovação.
+Mantenha estes na sua mala de cabine sempre — não coloque em bagagem de porão: passaportes, cartões de embarque, certificado de seguro de viagem, carta de consentimento dos progenitores se aplicável e qualquer documentação de visto ou cartas de aprovação.
 
-Antes de sair de casa, fotografe cada documento e guarde-o numa aplicação encriptada - não no seu rolo de câmara. Se a sua mala for perdida ou roubada, vai querer o seu número de passaporte, número de apólice de seguro e referências de reserva em algum lugar onde ainda possa aceder num consulado ou esquadra de polícia. Uma cópia de segurança digital segura poupa horas quando está a tentar obter ajuda.
+Antes de sair de casa, fotografe cada documento e guarde-o numa aplicação encriptada — não no seu rolo de câmara. Se a sua mala for perdida ou roubada, vai querer o seu número de passaporte, número de apólice de seguro e referências de reserva em algum lugar onde ainda possa aceder num consulado ou esquadra de polícia. Uma cópia de segurança digital segura poupa horas quando está a tentar obter ajuda.
 
-**Travel Document Vault** armazena cópias encriptadas de cada documento nesta lista - organizado por membro da família, com lembretes de expiração automáticos. Digitalize uma vez, nunca se veja em apuros novamente. [Descarregar na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** armazena cópias encriptadas de cada documento nesta lista — organizado por membro da família, com lembretes de expiração automáticos. Digitalize uma vez, nunca se veja em apuros novamente. [Descarregar na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Lista de Verificação por Tipo de Viagem
 
@@ -117,11 +117,11 @@ Os documentos principais para viajar internacionalmente são um passaporte váli
 
 ### Com quanto tempo de antecedência devo verificar os meus documentos de viagem?
 
-Verifique no momento da reserva - antes de pagar. A validade do passaporte, os requisitos de visto e o seguro precisam ser confirmados no momento em que faz a reserva. Três meses antes da viagem é a última janela confortável para renovar um passaporte ou candidatar-se a um visto nos prazos padrão. As verificações da noite anterior devem ser apenas confirmações - não descobertas.
+Verifique no momento da reserva — antes de pagar. A validade do passaporte, os requisitos de visto e o seguro precisam ser confirmados no momento em que faz a reserva. Três meses antes da viagem é a última janela confortável para renovar um passaporte ou candidatar-se a um visto nos prazos padrão. As verificações da noite anterior devem ser apenas confirmações — não descobertas.
 
 ### Cada membro da família precisa da sua própria lista de verificação de documentos de viagem?
 
-Sim. A expiração do passaporte de cada pessoa, os requisitos de visto e a cobertura de seguro são avaliados individualmente. Os documentos de um membro da família podem estar em perfeita ordem enquanto os de outro estão insuficientes. Execute a lista de verificação para cada pessoa separadamente - é aqui que as famílias mais frequentemente ficam apanhadas.
+Sim. A expiração do passaporte de cada pessoa, os requisitos de visto e a cobertura de seguro são avaliados individualmente. Os documentos de um membro da família podem estar em perfeita ordem enquanto os de outro estão insuficientes. Execute a lista de verificação para cada pessoa separadamente — é aqui que as famílias mais frequentemente ficam apanhadas.
 
 ### O que é uma carta de consentimento de viagem de criança e preciso de uma?
 
@@ -129,7 +129,7 @@ Uma carta de consentimento de viagem de criança é um documento assinado pelo p
 
 ### Que documentos devo manter acessíveis no aeroporto e não em bagagem de porão?
 
-Mantenha estes consigo em todos os momentos: passaportes, cartões de embarque, certificado de seguro de viagem, carta de consentimento dos progenitores se aplicável e qualquer documentação de visto ou cartas de aprovação. Nunca coloque documentos de identidade em bagagem de porão. Uma cópia de segurança digital de documentos principais numa aplicação encriptada - não no seu rolo de câmara - é fortemente recomendada caso algo seja perdido ou roubado.
+Mantenha estes consigo em todos os momentos: passaportes, cartões de embarque, certificado de seguro de viagem, carta de consentimento dos progenitores se aplicável e qualquer documentação de visto ou cartas de aprovação. Nunca coloque documentos de identidade em bagagem de porão. Uma cópia de segurança digital de documentos principais numa aplicação encriptada — não no seu rolo de câmara — é fortemente recomendada caso algo seja perdido ou roubado.
 
 ## Artigos Relacionados
 

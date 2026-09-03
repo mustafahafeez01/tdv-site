@@ -22,7 +22,7 @@ AES-256-GCM is sterke, moderne versleuteling, en de herstelcode verlaat nooit uw
 
 ### Upload naar uw cloud
 
-De versleutelde back-up gaat naar uw persoonlijke iCloud- of Google Drive-account, niet naar onze servers - het is uw cloud en uw account.
+De versleutelde back-up gaat naar uw persoonlijke iCloud- of Google Drive-account, niet naar onze servers – het is uw cloud en uw account.
 
 U kunt uw back-ups direct in uw iCloud of Google Drive bekijken en beheren. U hebt volledige controle.
 
@@ -30,9 +30,9 @@ U kunt uw back-ups direct in uw iCloud of Google Drive bekijken en beheren. U he
 
 ### Alleen u hebt de sleutel
 
-Uw herstelcode is de sleutel om uw back-ups te ontsleutelen, en het verlaat nooit uw apparaat - nooit naar ons, Apple of Google verzonden.
+Uw herstelcode is de sleutel om uw back-ups te ontsleutelen, en het verlaat nooit uw apparaat – nooit naar ons, Apple of Google verzonden.
 
-Bewaar uw herstelcode op een veilige plaats, want zonder dit kunnen zelfs wij uw gegevens niet herstellen - dit is opzettelijk, geen bug.
+Bewaar uw herstelcode op een veilige plaats, want zonder dit kunnen zelfs wij uw gegevens niet herstellen – dit is opzettelijk, geen bug.
 
 4
 
@@ -68,7 +68,7 @@ Meerdere beveiligingslagen staan tussen een onopzettelijke tap en verloren gegev
 
 Uw herstelcode is de enige sleutel om uw back-up te ontsleutelen. We hebben een zero-knowledge-ontwerp, wat betekent dat we het niet voor u opnieuw kunnen instellen. Als u het verliest, wordt uw back-up onherstelbaar.
 
-Bewaar uw herstelcode op een veilige plaats voordat u op cloud-back-up vertrouwt - ofwel een wachtwoordmanager, een afgedrukte kopie op een veilige plaats, ofwel beide - en controleer of u het opnieuw kunt lezen voordat u het als enige kopie opslaat.
+Bewaar uw herstelcode op een veilige plaats voordat u op cloud-back-up vertrouwt – ofwel een wachtwoordmanager, een afgedrukte kopie op een veilige plaats, ofwel beide – en controleer of u het opnieuw kunt lezen voordat u het als enige kopie opslaat.
 
 ### Apparaatvereisten
 

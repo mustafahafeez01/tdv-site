@@ -66,7 +66,7 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/
 
 **Travel Document Vault**는 여행이 끝나는 시점에 유효기간이 6개월 미만으로 남는 여권이 있으면 가족 구성원 전원에 대해 자동으로 표시해 드립니다. [App Store에서 무료로 다운로드하세요.](https://apps.apple.com/kr/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
-## 항공사가 규칙을 시행하는 방법 - 국가가 시행하지 않아도
+## 항공사가 규칙을 시행하는 방법, 국가가 시행하지 않아도
 
 대부분의 사람들이 모르는 중요한 점이 있습니다. 항공사는 승객이 목적지의 입국 요구사항을 충족하는지 확인할 책임이 있습니다. 누군가 입국 거부를 받으면 항공사가 그들을 집으로 돌려보내는 비용을 지불합니다.
 
@@ -100,8 +100,8 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/
 
 국제 여행 전에 확인할 신뢰할 수 있는 출처:
 
-- **IATA Travel Centre** (timaticweb2.com) - 항공사가 사용하는 동일한 데이터베이스
-- **정부의 공식 여행 자문** - 영국: GOV.UK/foreign-travel-advice, 미국: travel.state.gov, 호주: smartraveller.gov.au
+- **IATA Travel Centre** (timaticweb2.com), 항공사가 사용하는 동일한 데이터베이스
+- **정부의 공식 여행 자문**, 영국: GOV.UK/foreign-travel-advice, 미국: travel.state.gov, 호주: smartraveller.gov.au
 - **목적지 국가의 공식 입국 또는 비자 당국 웹사이트**
 
 이 출처들은 공식 요구사항과 특정 여권 소유자에게 적용되는지 여부를 알려줍니다. 여행 포럼이나 작년 블로그 게시물에 의존하지 마십시오. 출처로 가십시오.

@@ -12,31 +12,31 @@ Lima fitur yang membuat perencanaan perjalanan keluarga bebas stres.
 
 ### Lampu Lalu Lintas Kesiapan
 
-Hijau berarti semua siap, sementara kuning menandai dokumen yang akan segera kedaluwarsa - tidak ada kejutan lagi di malam hari sebelum perjalanan.
+Hijau berarti semua siap, sementara kuning menandai dokumen yang akan segera kedaluwarsa, tidak ada kejutan lagi di malam hari sebelum perjalanan.
 
 Setiap anggota keluarga mendapatkan status kesiapannya sendiri berdasarkan tanggal kedaluwarsa dokumen dan konteks perjalanan.
 
 ### Chip Anggota
 
-Lihat status setiap anggota keluarga sekilas dan ketuk untuk memeriksa dokumennya - ketahui paspor siapa yang kedaluwarsa terlebih dahulu.
+Lihat status setiap anggota keluarga sekilas dan ketuk untuk memeriksa dokumennya, ketahui paspor siapa yang kedaluwarsa terlebih dahulu.
 
 Dibangun untuk keluarga dengan 2 - 10+ anggota. Bekerja untuk pasangan, anak-anak, kakek-nenek, dan siapa pun yang Anda rencanakan.
 
 ### Daftar Kemasan
 
-Daftar periksa khusus perjalanan yang disesuaikan dengan durasi perjalanan dan tujuan yang Anda centang saat mengemas - tidak pernah lupa tabir surya lagi.
+Daftar periksa khusus perjalanan yang disesuaikan dengan durasi perjalanan dan tujuan yang Anda centang saat mengemas, tidak pernah lupa tabir surya lagi.
 
 Daftar periksa menyesuaikan dengan cuaca, durasi perjalanan, dan jenis perjalanan (pantai, kota, ski, dll.).
 
 ### Ketahui Sebelum Pergi
 
-Panel destinasi dengan persyaratan masuk, aturan visa, dan tips perjalanan untuk setiap negara - tidak ada kejutan saat masuk.
+Panel destinasi dengan persyaratan masuk, aturan visa, dan tips perjalanan untuk setiap negara, tidak ada kejutan saat masuk.
 
 Menunjukkan aturan Schengen, jendela keabsahan visa, dan adat lokal. Semuanya diperbarui untuk persyaratan perjalanan saat ini.
 
 ### Godaan Batas Hari Negara
 
-Lacak berapa hari setiap anggota keluarga telah menghabiskan di suatu negara dengan membuat periode (tahun Schengen, jendela visa, tahun pajak) dan menautkan aturan godaan padanya - kemudian lihat rincian per anggota sekilas.
+Lacak berapa hari setiap anggota keluarga telah menghabiskan di suatu negara dengan membuat periode (tahun Schengen, jendela visa, tahun pajak) dan menautkan aturan godaan padanya, kemudian lihat rincian per anggota sekilas.
 
 Dibangun untuk pelacakan Schengen 90/180, aturan 183 hari Inggris, dan jendela visa atau hunian khusus apa pun. Hari yang digunakan diperbarui secara otomatis saat perjalanan dicatat.
 

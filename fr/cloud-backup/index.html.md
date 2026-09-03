@@ -16,13 +16,13 @@ La vraie intimité signifie que vous, et seulement vous, pouvez lire vos donnée
 
 Votre coffre est chiffré sur votre appareil à l'aide d'AES-256-GCM. La clé de chiffrement est dérivée de votre code de récupération à l'aide de PBKDF2 avec 600 000 itérations.
 
-AES-256-GCM est un chiffrement solide et moderne, et le code de récupération ne quitte jamais vos mains. Vous devriez toujours protéger votre téléphone avec un code d'accès fort et App Lock - le chiffrement protège le fichier, votre code d'accès protège le téléphone.
+AES-256-GCM est un chiffrement solide et moderne, et le code de récupération ne quitte jamais vos mains. Vous devriez toujours protéger votre téléphone avec un code d'accès fort et App Lock — le chiffrement protège le fichier, votre code d'accès protège le téléphone.
 
 2
 
 ### Téléchargez vers votre cloud
 
-La sauvegarde chiffrée accède à votre compte iCloud ou Google Drive personnel, pas à nos serveurs - c'est votre cloud et votre compte.
+La sauvegarde chiffrée accède à votre compte iCloud ou Google Drive personnel, pas à nos serveurs — c'est votre cloud et votre compte.
 
 Vous pouvez afficher et gérer vos sauvegardes directement dans votre iCloud ou Google Drive. Vous avez un contrôle total.
 
@@ -30,9 +30,9 @@ Vous pouvez afficher et gérer vos sauvegardes directement dans votre iCloud ou 
 
 ### Seul vous détenez la clé
 
-Votre code de récupération est la clé pour déchiffrer vos sauvegardes, et il ne quitte jamais votre appareil - jamais envoyé à nous, Apple ou Google.
+Votre code de récupération est la clé pour déchiffrer vos sauvegardes, et il ne quitte jamais votre appareil — jamais envoyé à nous, Apple ou Google.
 
-Stockez votre code de récupération en toute sécurité, car sans lui, même nous ne pouvons pas récupérer vos données - c'est intentionnel, pas un bug.
+Stockez votre code de récupération en toute sécurité, car sans lui, même nous ne pouvons pas récupérer vos données — c'est intentionnel, pas un bug.
 
 4
 
@@ -68,7 +68,7 @@ Plusieurs couches de sécurité se dressent entre un appui accidentel et la pert
 
 Votre code de récupération est la seule clé pour décrypter votre sauvegarde. Nous avons une conception de connaissance zéro, ce qui signifie que nous ne pouvons pas la réinitialiser pour vous. Si vous la perdez, votre sauvegarde devient irrécupérable.
 
-Enregistrez votre code de récupération en lieu sûr avant de dépendre de la sauvegarde cloud - soit un gestionnaire de mots de passe, soit une copie imprimée en lieu sûr, soit les deux - et vérifiez que vous pouvez la relire avant de la conserver comme seule copie.
+Enregistrez votre code de récupération en lieu sûr avant de dépendre de la sauvegarde cloud — soit un gestionnaire de mots de passe, soit une copie imprimée en lieu sûr, soit les deux — et vérifiez que vous pouvez la relire avant de la conserver comme seule copie.
 
 ### Configuration requise de l'appareil
 

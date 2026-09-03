@@ -14,11 +14,11 @@ Aucun SDK d'analyse, aucune bibliothèque publicitaire, aucun pixel de suivi dan
 
 ### Pas de collecte de données sortantes
 
-L'application n'établit zéro connexion sortante par défaut. Elle fonctionne complètement hors ligne. Le seul usage réseau est la sauvegarde cloud Pro, qui se synchronise avec votre propre iCloud ou Google Drive - jamais sur nos serveurs.
+L'application n'établit zéro connexion sortante par défaut. Elle fonctionne complètement hors ligne. Le seul usage réseau est la sauvegarde cloud Pro, qui se synchronise avec votre propre iCloud ou Google Drive — jamais sur nos serveurs.
 
 ### Sur l'appareil par défaut
 
-Tous les documents, les analyses et les données restent sur votre appareil. Il n'y a pas de cloud TDV, pas de serveur TDV, pas de backend TDV. Les utilisateurs Pro peuvent optionnellement sauvegarder leur coffre chiffré sur leur propre compte iCloud ou Google Drive - seuls ils détiennent la clé de récupération.
+Tous les documents, les analyses et les données restent sur votre appareil. Il n'y a pas de cloud TDV, pas de serveur TDV, pas de backend TDV. Les utilisateurs Pro peuvent optionnellement sauvegarder leur coffre chiffré sur leur propre compte iCloud ou Google Drive — seuls ils détiennent la clé de récupération.
 
 ### Chiffrement AES-256-GCM
 
@@ -32,17 +32,17 @@ Vous n'avez pas besoin de nous faire confiance. Vous pouvez confirmer chaque dé
 
 Installez un moniteur réseau tel que **mitmproxy** (gratuit, open source), **Wireshark** (gratuit, open source), ou **Charles Proxy**. Ouvrez Travel Document Vault, analysez un document, parcourez votre coffre et définissez un rappel. Vous ne devriez pas voir vos documents, scans, dates d'expiration ou le contenu de votre coffre envoyés à Travel Document Vault. Le trafic réseau devrait se limiter à des fonctions précises : rapports de crash Sentry optionnels, vérifications d'achat App Store ou Google Play, sauvegarde cloud optionnelle vers votre propre compte iCloud ou Google Drive, et une vérification manuelle de correctifs expliquée ci-dessous.
 
-Les réglages proposent un bouton **Check for Updates**. Il s'agit d'une vérification manuelle, jamais automatique - elle ne s'exécute que lorsque vous appuyez dessus vous-même, jamais en arrière-plan et jamais d'elle-même. La vérification contacte **updates.traveldocumentvault.com** - notre propre serveur de mise à jour, exploité par nous sur Google Cloud, qui distribue les fichiers de mise à jour signés cryptographiquement à partir d'un compartiment de stockage. Nous n'enregistrons pas la vérification : les journaux de requête sont désactivés de notre côté, aucune adresse IP n'est conservée. Chaque mise à jour est signée avec une clé que seuls nous détenons, et l'application refuse tout ce dont la signature ne correspond pas au certificat qui y est intégré. Le même appui vérifie aussi si une version plus récente de l'application est disponible sur l'**App Store** ou sur **Google Play**. Cette fonction existe pour que certains correctifs puissent vous parvenir plus rapidement qu'en attendant une toute nouvelle publication sur l'App Store ou Google Play, utile pour les correctifs urgents, selon la nature du correctif. Même règle que pour le reste de cette page : aucun appel réseau sans que vous le demandiez.
+Les réglages proposent un bouton **Check for Updates**. Il s'agit d'une vérification manuelle, jamais automatique — elle ne s'exécute que lorsque vous appuyez dessus vous-même, jamais en arrière-plan et jamais d'elle-même. La vérification contacte **updates.traveldocumentvault.com** — notre propre serveur de mise à jour, exploité par nous sur Google Cloud, qui distribue les fichiers de mise à jour signés cryptographiquement à partir d'un compartiment de stockage. Nous n'enregistrons pas la vérification : les journaux de requête sont désactivés de notre côté, aucune adresse IP n'est conservée. Chaque mise à jour est signée avec une clé que seuls nous détenons, et l'application refuse tout ce dont la signature ne correspond pas au certificat qui y est intégré. Le même appui vérifie aussi si une version plus récente de l'application est disponible sur l'**App Store** ou sur **Google Play**. Cette fonction existe pour que certains correctifs puissent vous parvenir plus rapidement qu'en attendant une toute nouvelle publication sur l'App Store ou Google Play, utile pour les correctifs urgents, selon la nature du correctif. Même règle que pour le reste de cette page : aucun appel réseau sans que vous le demandiez.
 
 ### 2. Rapport de confidentialité de l'application iOS
 
-Sur iPhone, allez à **Réglages > Confidentialité et sécurité > Rapport de confidentialité des applications**. Cette fonction intégrée d'Apple montre quelles applications ont contacté des domaines réseau. Travel Document Vault ne nous envoie pas vos documents, scans, dates d'expiration ou le contenu de votre coffre. Si vous avez activé la sauvegarde cloud Pro, vous verrez des connexions aux domaines iCloud d'Apple - c'est votre propre sauvegarde qui se synchronise avec votre propre compte iCloud.
+Sur iPhone, allez à **Réglages > Confidentialité et sécurité > Rapport de confidentialité des applications**. Cette fonction intégrée d'Apple montre quelles applications ont contacté des domaines réseau. Travel Document Vault ne nous envoie pas vos documents, scans, dates d'expiration ou le contenu de votre coffre. Si vous avez activé la sauvegarde cloud Pro, vous verrez des connexions aux domaines iCloud d'Apple — c'est votre propre sauvegarde qui se synchronise avec votre propre compte iCloud.
 
-### 3. Android - vérifier votre confidentialité
+### 3. Android — vérifier votre confidentialité
 
-Android n'a pas de rapport de confidentialité intégré unique comme l'iPhone. Deux façons simples de vérifier par vous-même : consultez la section **Data Safety** de cette application sur sa page Google Play (elle indique clairement ce qui est collecté, ce qui est partagé, que vos données sont chiffrées en transit, et qu'elles ne peuvent pas être supprimées) - ou utilisez un moniteur réseau comme décrit à l'étape 1 ci-dessus.
+Android n'a pas de rapport de confidentialité intégré unique comme l'iPhone. Deux façons simples de vérifier par vous-même : consultez la section **Data Safety** de cette application sur sa page Google Play (elle indique clairement ce qui est collecté, ce qui est partagé, que vos données sont chiffrées en transit, et qu'elles ne peuvent pas être supprimées) — ou utilisez un moniteur réseau comme décrit à l'étape 1 ci-dessus.
 
-Si vous avez activé la sauvegarde cloud, vous remarquerez peut-être une certaine activité vers les serveurs de Google (adresses web se terminant par **googleapis.com**). C'est normal et sans risque : il s'agit uniquement de votre fichier de sauvegarde verrouillé et chiffré, ainsi que d'une vérification de connexion, envoyés directement à **votre propre** compte Google Drive - le même que celui que vous utilisez déjà pour vos photos ou Gmail. Nous ne le voyons jamais, ne le recevons jamais et n'en gardons de copie nulle part. Vous seul détenez la clé de récupération permettant de le déverrouiller.
+Si vous avez activé la sauvegarde cloud, vous remarquerez peut-être une certaine activité vers les serveurs de Google (adresses web se terminant par **googleapis.com**). C'est normal et sans risque : il s'agit uniquement de votre fichier de sauvegarde verrouillé et chiffré, ainsi que d'une vérification de connexion, envoyés directement à **votre propre** compte Google Drive — le même que celui que vous utilisez déjà pour vos photos ou Gmail. Nous ne le voyons jamais, ne le recevons jamais et n'en gardons de copie nulle part. Vous seul détenez la clé de récupération permettant de le déverrouiller.
 
 ### 4. Étiquettes de confidentialité de l'App Store et du Play Store
 
@@ -162,6 +162,6 @@ Déclaré par une dépendance du cadre. L'application ne télécharge pas les fi
 
 Ce sont des autorisations courantes que de nombreuses applications demandent. Nous n'en demandons aucune et elles n'apparaissent pas dans notre manifeste.
 
-**Localisation** - Pas de GPS, pas de géofencing, pas de suivi **Contacts** - Pas d'accès à votre carnet d'adresses **Bluetooth** - Pas de réseau local ou de scan d'appareil **Calendrier** - Les rappels sont gérés sur l'appareil, pas via votre calendrier
+**Localisation** — Pas de GPS, pas de géofencing, pas de suivi **Contacts** — Pas d'accès à votre carnet d'adresses **Bluetooth** — Pas de réseau local ou de scan d'appareil **Calendrier** — Les rappels sont gérés sur l'appareil, pas via votre calendrier
 
 Vous avez d'autres questions? Lisez notre [Politique de confidentialité](https://traveldocumentvault.com/privacy-policy/) complète ou consultez la [FAQ](https://traveldocumentvault.com/fr/faq/).

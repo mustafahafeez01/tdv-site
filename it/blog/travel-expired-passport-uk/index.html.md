@@ -24,13 +24,13 @@ Quello che segue è come funziona nella pratica: le sue opzioni limitate, perch�
 
 ## La regola assoluta: Nessun viaggio internazionale con un passaporto scaduto
 
-L'Ufficio passaporti di Sua Maestà è chiaro su questo: il suo passaporto deve essere valido nel giorno in cui viaggia - non solo all'arrivo, non solo per parte del viaggio, ma nel giorno in cui sale sull'aereo.
+L'Ufficio passaporti di Sua Maestà è chiaro su questo: il suo passaporto deve essere valido nel giorno in cui viaggia — non solo all'arrivo, non solo per parte del viaggio, ma nel giorno in cui sale sull'aereo.
 
-Quando arriva al check-in, l'agente utilizza il sistema per verificare il numero del suo passaporto e vede la data di scadenza. Se è nel passato, non emetterà una carta d'imbarco - non importa se sta tornando a casa il giorno dopo che scade. La stessa cosa succede al controllo alle frontiere nella sua destinazione: vedono la data di scadenza, negano l'ingresso. La vicinanza alla Sua data di arrivo effettiva non fa differenza.
+Quando arriva al check-in, l'agente utilizza il sistema per verificare il numero del suo passaporto e vede la data di scadenza. Se è nel passato, non emetterà una carta d'imbarco — non importa se sta tornando a casa il giorno dopo che scade. La stessa cosa succede al controllo alle frontiere nella sua destinazione: vedono la data di scadenza, negano l'ingresso. La vicinanza alla Sua data di arrivo effettiva non fa differenza.
 
-Questa regola si applica a tutti i viaggi internazionali - voli verso l'Europa o traversate in traghetto - indipendentemente dal fatto che sia appena scaduto o prenotato mesi in anticipo. Se attraversa un confine internazionale e deve mostrare il suo passaporto, deve essere valido in quel giorno.
+Questa regola si applica a tutti i viaggi internazionali — voli verso l'Europa o traversate in traghetto — indipendentemente dal fatto che sia appena scaduto o prenotato mesi in anticipo. Se attraversa un confine internazionale e deve mostrare il suo passaporto, deve essere valido in quel giorno.
 
-L'unica eccezione è un documento di viaggio d'emergenza britannico, emesso dall'Ufficio estero quando Lei è già all'estero in una vera emergenza, e anche allora esiste solo per farla tornare a casa - non per permettere ulteriori viaggi.
+L'unica eccezione è un documento di viaggio d'emergenza britannico, emesso dall'Ufficio estero quando Lei è già all'estero in una vera emergenza, e anche allora esiste solo per farla tornare a casa — non per permettere ulteriori viaggi.
 
 ## Può prenotare una vacanza con un passaporto scaduto?
 
@@ -46,7 +46,7 @@ Un rinnovo già in corso è una questione diversa, e dipende dal fatto che abbia
 
 I viaggi nazionali all'interno del Regno Unito e dell'Irlanda differiscono dai viaggi internazionali in questo aspetto fondamentale: le compagnie aeree possono accettare documenti di identità fotografica alternativi come una patente di guida britannica o una carta d'identità nazionale al posto del passaporto. Tuttavia, ciò che è accettabile varia significativamente da compagnia a compagnia e destinazione, quindi non può presumere che un particolare documento di identità funzionerà.
 
-**Questo non è un permesso per saltare il rinnovo del passaporto.** Diverse compagnie aeree hanno diverse politiche sulle rotte nazionali - alcune richiedono un passaporto per tutti i viaggi verso l'Irlanda anche se l'Area di circolazione comune tecnicamente consente viaggi con documento d'identità, mentre altre accettano una patente di guida. Le compagnie aeree aggiornano le loro regole, e la sua compagnia potrebbe aver cambiato le sue dal suo ultimo volo, quindi non può presumere che ciò che ha funzionato prima.
+**Questo non è un permesso per saltare il rinnovo del passaporto.** Diverse compagnie aeree hanno diverse politiche sulle rotte nazionali — alcune richiedono un passaporto per tutti i viaggi verso l'Irlanda anche se l'Area di circolazione comune tecnicamente consente viaggi con documento d'identità, mentre altre accettano una patente di guida. Le compagnie aeree aggiornano le loro regole, e la sua compagnia potrebbe aver cambiato le sue dal suo ultimo volo, quindi non può presumere che ciò che ha funzionato prima.
 
 Se sta considerando un viaggio nazionale con un passaporto scaduto, contatti la sua compagnia aerea con sufficiente anticipo rispetto al suo volo e chieda esplicitamente: "Il mio passaporto del Regno Unito è scaduto. Accetterà la mia patente di guida del Regno Unito invece?". Ottenga una conferma scritta se possibile, poiché arrivare al check-in con un documento d'identità alternativo senza conferma precedente è come perdere il volo.
 
@@ -64,13 +64,13 @@ Avrà anche bisogno del suo vecchio passaporto per fare domanda indipendentement
 
 Le compagnie aeree utilizzano Timatic, un sistema IATA che incrocia il numero del suo passaporto, la nazionalità e la destinazione con i requisiti di ingresso, dicendo istantaneamente all'agente di check-in se è autorizzato a viaggiare quando scansiona il suo passaporto. Se il suo passaporto è scaduto, Timatic lo contrassegna in rosso e l'agente non può ignorare questa decisione anche se supplica o mostra una carta d'imbarco da settimane fa.
 
-Il controllo alle frontiere fa lo stesso controllo quando arriva - a volte anche controllando due volte, una volta quando esce dal Regno Unito e di nuovo quando entra nella sua destinazione. Un passaporto scaduto sarà scoperto non importa quanto sia attento.
+Il controllo alle frontiere fa lo stesso controllo quando arriva — a volte anche controllando due volte, una volta quando esce dal Regno Unito e di nuovo quando entra nella sua destinazione. Un passaporto scaduto sarà scoperto non importa quanto sia attento.
 
 L'unica zona grigia che esiste è come le compagnie aeree e il controllo alle frontiere gestiscono i passaporti che "stanno per scadere" ma non ancora scaduti, dove alcuni agenti sono severi sulla regola dei 6 mesi per determinate destinazioni e altri no. Ma una volta che il suo passaporto ha superato la data di scadenza non c'è zona grigia affatto.
 
 ## Assicurazione di viaggio e documenti scaduti
 
-La maggior parte delle polizze di assicurazione di viaggio include una clausola di nullità per documenti di viaggio scaduti o non validi. Gli assicuratori possono rifiutare l'intero Suo sinistro se ha viaggiato con un passaporto scaduto - il linguaggio in genere recita qualcosa come: "Questa polizza è nulla se l'assicurato ha viaggiato con un documento di viaggio non valido o scaduto."
+La maggior parte delle polizze di assicurazione di viaggio include una clausola di nullità per documenti di viaggio scaduti o non validi. Gli assicuratori possono rifiutare l'intero Suo sinistro se ha viaggiato con un passaporto scaduto — il linguaggio in genere recita qualcosa come: "Questa polizza è nulla se l'assicurato ha viaggiato con un documento di viaggio non valido o scaduto."
 
 Questo si applica indipendentemente dal fatto che il suo passaporto sia scaduto prima di partire dal Regno Unito o mentre era all'estero, e indipendentemente dal fatto che il viaggio fosse un weekend di un giorno o un viaggio intorno al mondo di tre mesi. Un singolo giorno di scadenza del passaporto può rovinare un sinistro altrimenti valido.
 
@@ -80,19 +80,19 @@ Questo si applica indipendentemente dal fatto che il suo passaporto sia scaduto 
 
 ## Se è già all'estero e il suo passaporto scade
 
-Questo è lo scenario genuinamente difficile. Se sta viaggiando e il suo passaporto scade prima del suo ritorno, non può imbarcarsi su un volo o un traghetto per tornare a casa. Avrà bisogno di contattare l'ambasciata o il consolato britannico più vicino per un documento di viaggio d'emergenza - a volte chiamato ETD o passaporto d'emergenza - che è valido solo per tornare a casa.
+Questo è lo scenario genuinamente difficile. Se sta viaggiando e il suo passaporto scade prima del suo ritorno, non può imbarcarsi su un volo o un traghetto per tornare a casa. Avrà bisogno di contattare l'ambasciata o il consolato britannico più vicino per un documento di viaggio d'emergenza — a volte chiamato ETD o passaporto d'emergenza — che è valido solo per tornare a casa.
 
-Il processo è lento e burocratico. Avrà bisogno di fornire una prova di identità e pagare la tariffa, il cui importo attuale è pubblicato dal Foreign, Commonwealth and Development Office. Il tempo di elaborazione varia in base all'ambasciata e all'urgenza della sua situazione, quindi chieda cosa aspettarsi non appena li contatta. Il documento d'emergenza non è un passaporto turistico - è valido solo per il viaggio specifico di ritorno nel Regno Unito senza permettere viaggi ulteriori.
+Il processo è lento e burocratico. Avrà bisogno di fornire una prova di identità e pagare la tariffa, il cui importo attuale è pubblicato dal Foreign, Commonwealth and Development Office. Il tempo di elaborazione varia in base all'ambasciata e all'urgenza della sua situazione, quindi chieda cosa aspettarsi non appena li contatta. Il documento d'emergenza non è un passaporto turistico — è valido solo per il viaggio specifico di ritorno nel Regno Unito senza permettere viaggi ulteriori.
 
 Imposti promemoria mesi in anticipo piuttosto che il giorno prima del viaggio, poiché i promemoria a partire da otto mesi prima della scadenza, e di nuovo mano a mano che si avvicina, Le danno tempo di rinnovare con elaborazione standard invece di pagare per appuntamenti di emergenza. Se il suo passaporto scade entro 6 mesi dal suo viaggio, inizi il processo di rinnovo ora prima di impegnarsi nelle date di viaggio.
 
 ## Malintesi comuni sulla validità del passaporto
 
-I viaggiatori spesso confondono la data di validità del loro passaporto con le regole specifiche della destinazione. Il suo passaporto è valido fino alla data stampata in esso - quello è il baseline. Ma alcuni paesi richiedono che rimanga valido per un periodo specifico oltre la sua data di arrivo, e quello è un requisito separato dalla scadenza stessa.
+I viaggiatori spesso confondono la data di validità del loro passaporto con le regole specifiche della destinazione. Il suo passaporto è valido fino alla data stampata in esso — quello è il baseline. Ma alcuni paesi richiedono che rimanga valido per un periodo specifico oltre la sua data di arrivo, e quello è un requisito separato dalla scadenza stessa.
 
 [Molti paesi applicano una regola di sei mesi che richiede che il suo passaporto rimanga valido per almeno sei mesi oltre la data di partenza pianificata](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/), mentre alcuni applicano tre mesi e altri applicano un mese. Nessuna di queste regole consente di viaggiare con un passaporto scaduto perché stabiliscono uno standard più severo dove il rinnovo deve avvenire ancora prima della data di scadenza del passaporto stesso.
 
-Non presuma di poter viaggiare "perché starà tornando prima che scada" - il suo passaporto deve essere valido nel giorno in cui sale sul suo volo in partenza e se scade il giorno dopo il suo ritorno comunque non può viaggiare. Le compagnie aeree non consentono viaggi se il suo passaporto è scaduto nel giorno della partenza.
+Non presuma di poter viaggiare "perché starà tornando prima che scada" — il suo passaporto deve essere valido nel giorno in cui sale sul suo volo in partenza e se scade il giorno dopo il suo ritorno comunque non può viaggiare. Le compagnie aeree non consentono viaggi se il suo passaporto è scaduto nel giorno della partenza.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 

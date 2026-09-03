@@ -12,31 +12,31 @@ Fem funktioner der gør familierejseplanlægning stressfri.
 
 ### Beredskabslys
 
-Grønt betyder at alle er klar, mens gult markerer hvem der har dokumenter der snart udløber - ingen overraskelser aftenen før afrejse.
+Grønt betyder at alle er klar, mens gult markerer hvem der har dokumenter der snart udløber – ingen overraskelser aftenen før afrejse.
 
 Hvert familiemedlem får sin egen beredskapsstatus baseret på dokumentudløbsdatoer og rejsekontekst.
 
 ### Medlemmer kort
 
-Se status for hvert familiemedlem på et blik og tryk for at gennemse deres dokumenter - Ved hvems pas der udløber først.
+Se status for hvert familiemedlem på et blik og tryk for at gennemse deres dokumenter – Ved hvems pas der udløber først.
 
 Bygget til familier med 2 - 10+ medlemmer. Virker for ægtefæller, børn, bedstemødre og alle andre du planlægger med.
 
 ### Pakkingliste
 
-Rejserelateret checkliste tilpasset rejsens varighed og destination, som du afkrydser når du pakker - aldrig glem solcreme igen.
+Rejserelateret checkliste tilpasset rejsens varighed og destination, som du afkrydser når du pakker – aldrig glem solcreme igen.
 
 Checklister tilpasses baseret på vejr, rejsens varighed og rejsetype (strand, by, ski osv.).
 
 ### Vær forberedt
 
-Destinationspanel med indrejsekrav, visumregler og rejsevink for hvert land - ingen overraskelser ved grænsen.
+Destinationspanel med indrejsekrav, visumregler og rejsevink for hvert land – ingen overraskelser ved grænsen.
 
 Viser Schengen-regler, visumgyldighed tidsrum og lokale skikke. Alt opdateret med aktuelle rejsekrav.
 
 ### Land-dag-grænse-godtgørelser
 
-Spor hvor mange dage hvert familiemedlem har tilbragt i et land ved at oprette perioder (Schengen-år, visumvindue, skatteår) og linke godtgørelsesregler til dem - derefter se en opdeling pr. medlem på et blik.
+Spor hvor mange dage hvert familiemedlem har tilbragt i et land ved at oprette perioder (Schengen-år, visumvindue, skatteår) og linke godtgørelsesregler til dem – derefter se en opdeling pr. medlem på et blik.
 
 Bygget til Schengen 90/180-sporing, britiske 183-dages regler og eventuelle brugerdefinerede visum- eller opholdsvinduer. Dage brugt opdateres automatisk når rejser registreres.
 

@@ -22,7 +22,7 @@ AES-256-GCM ist starke, moderne Verschlüsselung, und der Wiederherstellungscode
 
 ### Hochladen in Ihre Cloud
 
-Die verschlüsselte Sicherung gelangt in Ihr persönliches iCloud- oder Google Drive-Konto, nicht auf unsere Server - es ist Ihre Cloud und Ihr Konto.
+Die verschlüsselte Sicherung gelangt in Ihr persönliches iCloud- oder Google Drive-Konto, nicht auf unsere Server – es ist Ihre Cloud und Ihr Konto.
 
 Sie können Ihre Sicherungen direkt in Ihrer iCloud oder Google Drive einsehen und verwalten. Sie haben die volle Kontrolle.
 
@@ -30,9 +30,9 @@ Sie können Ihre Sicherungen direkt in Ihrer iCloud oder Google Drive einsehen u
 
 ### Nur Sie halten den Schlüssel
 
-Ihr Wiederherstellungscode ist der Schlüssel zur Entschlüsselung Ihrer Sicherungen, und er verlässt nie Ihr Gerät - nie an uns gesendet, Apple oder Google.
+Ihr Wiederherstellungscode ist der Schlüssel zur Entschlüsselung Ihrer Sicherungen, und er verlässt nie Ihr Gerät – nie an uns gesendet, Apple oder Google.
 
-Speichern Sie Ihren Wiederherstellungscode an einem sicheren Ort, weil ohne ihn selbst wir Ihre Daten nicht wiederherstellen können - das ist beabsichtigt, kein Fehler.
+Speichern Sie Ihren Wiederherstellungscode an einem sicheren Ort, weil ohne ihn selbst wir Ihre Daten nicht wiederherstellen können – das ist beabsichtigt, kein Fehler.
 
 4
 
@@ -68,7 +68,7 @@ Mehrere Schutzebenen stehen zwischen einem versehentlichen Antippen und Datenver
 
 Ihr Wiederherstellungscode ist der einzige Schlüssel zur Entschlüsselung Ihrer Sicherung. Wir haben ein Zero-Knowledge-Design, was bedeutet, dass wir ihn nicht für Sie zurücksetzen können. Wenn Sie ihn verlieren, wird Ihre Sicherung nicht wiederherstellbar.
 
-Speichern Sie Ihren Wiederherstellungscode an einem sicheren Ort, bevor Sie sich auf Cloud-Sicherung verlassen - entweder ein Passwort-Manager, eine gedruckte Kopie an einem sicheren Ort, oder beide - und überprüfen Sie, ob Sie ihn lesen können, bevor Sie ihn als einzige Kopie speichern.
+Speichern Sie Ihren Wiederherstellungscode an einem sicheren Ort, bevor Sie sich auf Cloud-Sicherung verlassen – entweder ein Passwort-Manager, eine gedruckte Kopie an einem sicheren Ort, oder beide – und überprüfen Sie, ob Sie ihn lesen können, bevor Sie ihn als einzige Kopie speichern.
 
 ### Gerätevoraussetzungen
 

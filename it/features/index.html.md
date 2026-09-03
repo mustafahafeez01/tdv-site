@@ -44,7 +44,7 @@ Pro
 
 ### Franchigie di Viaggio
 
-Definisci soglie limite di giorni personalizzate per paese e per membro della famiglia. Imposta i tuoi obiettivi per stare al corrente di quanti giorni hai trascorso all'estero - come funzionano le tue regole di viaggio.
+Definisci soglie limite di giorni personalizzate per paese e per membro della famiglia. Imposta i tuoi obiettivi per stare al corrente di quanti giorni hai trascorso all'estero — come funzionano le tue regole di viaggio.
 
 Pro
 
@@ -56,7 +56,7 @@ Pro
 
 ### Pronto all'Imbarco
 
-Allega numeri di volo, conferme hotel e riferimenti prenotazione a qualsiasi viaggio. Documenti e prenotazioni in un unico posto - tocca una volta al check-in. Nulla da cercare al gate.
+Allega numeri di volo, conferme hotel e riferimenti prenotazione a qualsiasi viaggio. Documenti e prenotazioni in un unico posto — tocca una volta al check-in. Nulla da cercare al gate.
 
 Gestione documenti
 
@@ -68,7 +68,7 @@ Acquisisci sia la pagina foto che la pagina dati. La scansione MRZ legge la zona
 
 ### Archiviazione crittografata
 
-I documenti vengono crittografati su disco con AES-256-GCM. I file sono illeggibili senza le tue chiavi di decrittografia - anche se qualcuno ottiene accesso fisico al tuo dispositivo.
+I documenti vengono crittografati su disco con AES-256-GCM. I file sono illeggibili senza le tue chiavi di decrittografia — anche se qualcuno ottiene accesso fisico al tuo dispositivo.
 
 ### Carte d'identità e patenti
 
@@ -118,7 +118,7 @@ Conserva carte regalo, codici sconto, biglietti per eventi e pass per attrazioni
 
 ### Posticipa Promemoria
 
-Sospendi qualsiasi promemoria di scadenza senza modificare il documento. Rimanda il promemoria per un giorno, una settimana o un mese - il promemoria riprende automaticamente quando il periodo di rinvio termina.
+Sospendi qualsiasi promemoria di scadenza senza modificare il documento. Rimanda il promemoria per un giorno, una settimana o un mese — il promemoria riprende automaticamente quando il periodo di rinvio termina.
 
 ### Codice Colore per i Documenti
 
@@ -286,7 +286,7 @@ Condividi più file di documenti originali contemporaneamente tramite il foglio 
 
 #### Eliminazione sicura con annullamento
 
-Eliminato accidentalmente un documento? Tocca Annulla immediatamente per ripristinarlo. Hai perso la finestra? Si sposta in Eliminati di recente, dove rimane per 30 giorni prima dell'eliminazione permanente - dandoti una rete di sicurezza senza compromettere la tua privacy.
+Eliminato accidentalmente un documento? Tocca Annulla immediatamente per ripristinarlo. Hai perso la finestra? Si sposta in Eliminati di recente, dove rimane per 30 giorni prima dell'eliminazione permanente — dandoti una rete di sicurezza senza compromettere la tua privacy.
 
 **Importante:** Travel Document Vault è uno strumento di organizzazione personale per archiviare copie digitali dei propri documenti. **Le copie digitali archiviate in questa app NON sono valide per viaggiare.** Non verifica l'autenticità dei documenti né fornisce consulenza legale o di viaggio. Portare sempre i documenti originali e verificare tutti i requisiti di viaggio con le fonti governative ufficiali.
 

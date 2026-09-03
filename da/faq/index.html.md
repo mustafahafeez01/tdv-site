@@ -28,7 +28,7 @@ Sentry er et nedbrudsrapporteringsværktøj, der hjælper os med at finde og ret
 
 Hvad inkluderer Pro-opgraderingen?
 
-Pro er et engangskøb, der låser op for ubegrænsede profiler, ubegrænsede dokumenter, samlet PDF-eksport, krypteret skysikkerhedskopi til iCloud eller Google Drive og selvvalgte påmindelsestidspunkter. Du betaler én gang - intet abonnement, ingen løbende betaling og ingen prøveperiode, der stille begynder at opkræve dig.
+Pro er et engangskøb, der låser op for ubegrænsede profiler, ubegrænsede dokumenter, samlet PDF-eksport, krypteret skysikkerhedskopi til iCloud eller Google Drive og selvvalgte påmindelsestidspunkter. Du betaler én gang – intet abonnement, ingen løbende betaling og ingen prøveperiode, der stille begynder at opkræve dig.
 
 Er fremtidige opdateringer inkluderet i mit køb?
 
@@ -117,7 +117,7 @@ Dine dokumenter forlader aldrig din enhed. Denne tilstand giver dig blot en sikk
 
 Hvad er en gendannelseskode, og hvorfor har jeg brug for en?
 
-Når du opsætter App Lock, genererer appen en unik gendannelseskode, der er dit sikkerhedsnet, hvis du nogensinde glemmer din PIN. Gem den et sikkert sted - din passwordmanager, en udskrevet note, hvor som helst du har tillid til.
+Når du opsætter App Lock, genererer appen en unik gendannelseskode, der er dit sikkerhedsnet, hvis du nogensinde glemmer din PIN. Gem den et sikkert sted – din passwordmanager, en udskrevet note, hvor som helst du har tillid til.
 
 Hvis du glemmer din PIN, skal du angive din gendannelseskode på PIN-skærmen. App Lock deaktiveres, og du får **fuld adgang uden at miste et eneste dokument.**
 
@@ -217,7 +217,7 @@ Pro-brugere kan trykke på **"Vælg"** øverst til højre i dokumentlisten for a
 
 Kan jeg fortryde en massesletning?
 
-**Ja - du har to beskyttelsesniveauer.** Efter sletning af dokumenter (enkelt eller masse) vil du se et kort fortrydelsesvindue nederst på skærmen. Tryk på **"Fortryd"** for at gendanne dem øjeblikkeligt. Hvis du misser fortrydelsesvinduet, flyttes slettede dokumenter til **Nylig slettede** i Indstillinger, hvor de bliver i 30 dage, før de bliver slettet permanent. Pro-brugere med cloud backup aktiveret holder elementer i Nylig slettede på ubestemt tid, indtil de trykker på Slet permanent.
+**Ja – du har to beskyttelsesniveauer.** Efter sletning af dokumenter (enkelt eller masse) vil du se et kort fortrydelsesvindue nederst på skærmen. Tryk på **"Fortryd"** for at gendanne dem øjeblikkeligt. Hvis du misser fortrydelsesvinduet, flyttes slettede dokumenter til **Nylig slettede** i Indstillinger, hvor de bliver i 30 dage, før de bliver slettet permanent. Pro-brugere med cloud backup aktiveret holder elementer i Nylig slettede på ubestemt tid, indtil de trykker på Slet permanent.
 
 Hvad er kontekstmenuen ved langt tryk?
 
@@ -347,11 +347,11 @@ Alle brugere kan eksportere hele deres vault som en krypteret, adgangskodebeskyt
 
 Dage inden i eller dage uden for et land: hvad skal jeg vælge?
 
-Stil dig selv ét spørgsmål: er du gæst i dette land, eller er det dit hjem? Gæster tæller de dage, de er der, så vælg **Dage inden i landet** - det er den til en besøgsgrænse som 90 dage. Fastboende tæller de dage, de er væk, så vælg **Dage uden for landet** - det er den til en opholdstilladelse, der tillader en vis tid i udlandet. De fleste har kun brug for den ene af de to, og er du i tvivl, er Dage inden i landet det mest almindelige valg.
+Stil dig selv ét spørgsmål: er du gæst i dette land, eller er det dit hjem? Gæster tæller de dage, de er der, så vælg **Dage inden i landet** – det er den til en besøgsgrænse som 90 dage. Fastboende tæller de dage, de er væk, så vælg **Dage uden for landet** – det er den til en opholdstilladelse, der tillader en vis tid i udlandet. De fleste har kun brug for den ene af de to, og er du i tvivl, er Dage inden i landet det mest almindelige valg.
 
 Hvad er familieprofiler?
 
-Hvert familiemedlem har en separat profil med deres egne dokumenter, fotos og påmindelser - dine data er dine, din partners er deres, og profiler er lokale, så de synkroniseres aldrig mellem enheder eller personer. Dette design respekterer privatlivets fred og sikrer, at der ikke er tilfældig blanding af følsomme dokumenter.
+Hvert familiemedlem har en separat profil med deres egne dokumenter, fotos og påmindelser – dine data er dine, din partners er deres, og profiler er lokale, så de synkroniseres aldrig mellem enheder eller personer. Dette design respekterer privatlivets fred og sikrer, at der ikke er tilfældig blanding af følsomme dokumenter.
 
 Hvad sker der, når jeg sletter noget?
 
@@ -379,11 +379,11 @@ Appen synkroniserer ikke et tomt boks-indhold til skyen. Din eksisterende sikker
 
 Hvordan sætter jeg skysikkerhedskopiering op på en enhed nummer to?
 
-Når du slår skysikkerhedskopiering til på en ny enhed, der er logget ind på den samme iCloud- eller Google-konto, opdager appen din eksisterende sikkerhedskopi og spørger, om den skal gendannes, eller om du vil starte forfra. Vælg Gendan fra sikkerhedskopi, og indtast din gendannelseskode. Begge enheder deler derefter den samme sikkerhedskopi. At starte forfra erstatter den eksisterende sikkerhedskopi - vælg kun det, hvis du er sikker.
+Når du slår skysikkerhedskopiering til på en ny enhed, der er logget ind på den samme iCloud- eller Google-konto, opdager appen din eksisterende sikkerhedskopi og spørger, om den skal gendannes, eller om du vil starte forfra. Vælg Gendan fra sikkerhedskopi, og indtast din gendannelseskode. Begge enheder deler derefter den samme sikkerhedskopi. At starte forfra erstatter den eksisterende sikkerhedskopi – vælg kun det, hvis du er sikker.
 
 Kan jeg bruge skysikkerhedskopiering på flere enheder samtidig?
 
-Skysikkerhedskopiering er tænkt som sikkerhedskopiering fra én enhed med gendannelse på flere. Én enhed er den primære kilde. For at skifte til en ny enhed gendanner du fra din sikkerhedskopi der. Samtidig redigering på to enheder, der synkroniserer til den samme sikkerhedskopi, understøttes ikke - den enhed, der synkroniserer sidst, vinder.
+Skysikkerhedskopiering er tænkt som sikkerhedskopiering fra én enhed med gendannelse på flere. Én enhed er den primære kilde. For at skifte til en ny enhed gendanner du fra din sikkerhedskopi der. Samtidig redigering på to enheder, der synkroniserer til den samme sikkerhedskopi, understøttes ikke – den enhed, der synkroniserer sidst, vinder.
 
 Hvad hvis jeg slår skysikkerhedskopiering til uden forbindelse?
 

@@ -12,9 +12,9 @@ Travel Document Vault bietet Ihnen drei Schutzebenen. Hier erfahren Sie genau, w
 
 Ihre Dokumente befinden sich auf Ihrem Gerät. Sie gehen nicht an unsere Server. Die drei Sicherungsmechanismen dienen jeweils einem anderen Zweck und Sie können alle drei gleichzeitig verwenden.
 
-- **Automatische lokale Sicherungen** - laufen im Hintergrund ab, keine Aktion erforderlich.
-- **Vault-Export (.tdvault)** - eine tragbare verschlüsselte Datei, die Sie überall speichern können.
-- **Cloud-Sicherung (Pro)** - eine automatische verschlüsselte Kopie in Ihrem eigenen iCloud oder Google Drive.
+- **Automatische lokale Sicherungen** – laufen im Hintergrund ab, keine Aktion erforderlich.
+- **Vault-Export (.tdvault)** – eine tragbare verschlüsselte Datei, die Sie überall speichern können.
+- **Cloud-Sicherung (Pro)** – eine automatische verschlüsselte Kopie in Ihrem eigenen iCloud oder Google Drive.
 
 ## Auf einen Blick
 
@@ -34,7 +34,7 @@ In den Einstellungen sehen Sie eine Zeile wie *Letzte Sicherung: vor 2 Stunden, 
 
 Diese lokalen Snapshots bleiben auf Ihrem Gerät. Eine Systemsicherung (iCloud Backup, Google Backup) installiert die App neu, kann sie aber nicht auf einem neuen Telefon wiederherstellen, da der Verschlüsselungsschlüssel Ihr ursprüngliches Gerät nie verlässt. Um Ihren Tresor zu verschieben, verwenden Sie Cloud-Sicherung (Pro) oder den kostenlosen Vault-Export.
 
-## Vault-Export (.tdvault) - kostenlos für alle
+## Vault-Export (.tdvault) – kostenlos für alle
 
 Vault-Export erstellt eine einzelne verschlüsselte, passwortgeschützte Datei, die jedes Profil, Dokument und jede Anlage in Ihrem Tresor enthält. Sie wählen, wo Sie sie speichern: Dateien-App, iCloud Drive, Google Drive oder teilen sie per AirDrop oder E-Mail.
 
@@ -70,9 +70,9 @@ Keine einzelne Ebene ist ein Grund, die anderen zu überspringen. Cloud-Konten k
 
 ### Verwandte Leitfäden
 
-- [So exportieren und importieren Sie Ihren Tresor - Schritt-für-Schritt-Anleitung](https://traveldocumentvault.com/de/faq/export-import/)
-- [Was ist mein Wiederherstellungscode? - Vollständiger Leitfaden zum sicheren Speichern](https://traveldocumentvault.com/de/faq/recovery-code/)
-- [Cloud-Sicherung - wie Ende-zu-Ende-Verschlüsselung funktioniert](https://traveldocumentvault.com/de/cloud-backup/)
+- [So exportieren und importieren Sie Ihren Tresor – Schritt-für-Schritt-Anleitung](https://traveldocumentvault.com/de/faq/export-import/)
+- [Was ist mein Wiederherstellungscode? – Vollständiger Leitfaden zum sicheren Speichern](https://traveldocumentvault.com/de/faq/recovery-code/)
+- [Cloud-Sicherung – wie Ende-zu-Ende-Verschlüsselung funktioniert](https://traveldocumentvault.com/de/cloud-backup/)
 
 ## Travel Document Vault herunterladen
 

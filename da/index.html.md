@@ -40,11 +40,11 @@ Dokumenter er krypteret på din enhed med AES-256-GCM ved hjælp af nøgler som 
 
 ### Din Sky. Din Nøgle.
 
-Valgfri krypteret sikkerhedskopi til din egen iCloud eller Google Drive, med engangsgenoprettelse på en ny telefon - du holder gendannelseskoden, så vi ser den aldrig. Gratis Vault Export er altid inkluderet.
+Valgfri krypteret sikkerhedskopi til din egen iCloud eller Google Drive, med engangsgenoprettelse på en ny telefon – du holder gendannelseskoden, så vi ser den aldrig. Gratis Vault Export er altid inkluderet.
 
 ### Smarte påmindelser
 
-Pas advarer dig allerede otte måneder før, og derefter kommer påmindelserne tættere - seks måneder, tre, seks uger, en måned - frem til udløbsdagen. Hver dokumenttype har sin egen plan, klar så snart du tilføjer den.
+Pas advarer dig allerede otte måneder før, og derefter kommer påmindelserne tættere – seks måneder, tre, seks uger, en måned – frem til udløbsdagen. Hver dokumenttype har sin egen plan, klar så snart du tilføjer den.
 
 ### Familieopdelt logik
 
@@ -257,7 +257,7 @@ Gendan køb når som helst med den App Store eller Google Play-konto, du købte 
 
 ## Ofte stillede spørgsmål
 
-Er det virkelig privat? Ja. Alt lagres 100% på din enhed. Vi har ingen adgang til dine dokumenter, og der er ingen cloud-database. Tag ikke bare vores ord for det - [tjek det selv](https://traveldocumentvault.com/da/privacy-verification/). Hvad hvis jeg mister min telefon? Dit vault er gemt på din enhed. Almindelige telefonsikkerhedskopier (iCloud/Google Backup) genopretter ikke app-data, fordi krypteringsnøglen aldrig forlader din enhed. I stedet eksporterer du en krypteret .tdvault-fil (gratis) eller bruger Pro-Cloud Backup til dit eget iCloud/Google Drive. Kan jeg synkronisere mellem enheder? Ja. Med Pro skal du aktivere Din Cloud-sikkerhedskopi for at synkronisere din krypterede boks til din iCloud eller Google Drive. Du holder gendannelseskoden. Vi får aldrig adgang til dine data. Hvad er rejseplanlæggeren? Rejseplanlæggeren grupperer familien dokumenter efter rejse og viser en beredelsestrafiklygt - grøn når alle er klar, gul hvis nogen's pas snart udløber. Planlæg rejser sammen med selvtillid. [Se alle svar om privatliv og data](https://traveldocumentvault.com/da/faq/)
+Er det virkelig privat? Ja. Alt lagres 100% på din enhed. Vi har ingen adgang til dine dokumenter, og der er ingen cloud-database. Tag ikke bare vores ord for det – [tjek det selv](https://traveldocumentvault.com/da/privacy-verification/). Hvad hvis jeg mister min telefon? Dit vault er gemt på din enhed. Almindelige telefonsikkerhedskopier (iCloud/Google Backup) genopretter ikke app-data, fordi krypteringsnøglen aldrig forlader din enhed. I stedet eksporterer du en krypteret .tdvault-fil (gratis) eller bruger Pro-Cloud Backup til dit eget iCloud/Google Drive. Kan jeg synkronisere mellem enheder? Ja. Med Pro skal du aktivere Din Cloud-sikkerhedskopi for at synkronisere din krypterede boks til din iCloud eller Google Drive. Du holder gendannelseskoden. Vi får aldrig adgang til dine data. Hvad er rejseplanlæggeren? Rejseplanlæggeren grupperer familien dokumenter efter rejse og viser en beredelsestrafiklygt – grøn når alle er klar, gul hvis nogen's pas snart udløber. Planlæg rejser sammen med selvtillid. [Se alle svar om privatliv og data](https://traveldocumentvault.com/da/faq/)
 
 **Vigtigt:** Travel Document Vault er et personligt organisationsværktøj til opbevaring af digitale kopier af dine dokumenter. **Digitale kopier gemt i denne app er IKKE gyldige til rejse.** Den verificerer ikke dokumenters ægthed og yder ikke juridisk eller rejserelateret rådgivning. Medbring altid originale dokumenter og bekræft alle rejsekrav hos officielle myndigheder.
 

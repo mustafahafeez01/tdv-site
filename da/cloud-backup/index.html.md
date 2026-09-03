@@ -22,7 +22,7 @@ AES-256-GCM er stærk, moderne kryptering, og gendannelseskoden forlader aldrig 
 
 ### Upload til dit cloud
 
-Den krypterede backup går til din personlige iCloud- eller Google Drive-konto, ikke til vores servere - det er dit cloud og din konto.
+Den krypterede backup går til din personlige iCloud- eller Google Drive-konto, ikke til vores servere – det er dit cloud og din konto.
 
 Du kan se og administrere dine backups direkte i dit iCloud eller Google Drive. Du har fuldstændig kontrol.
 
@@ -30,9 +30,9 @@ Du kan se og administrere dine backups direkte i dit iCloud eller Google Drive. 
 
 ### Kun du holder nøglen
 
-Din gendannelseskode er nøglen til at dekryptere dine backups, og den forlader aldrig din enhed - aldrig sendt til os, Apple eller Google.
+Din gendannelseskode er nøglen til at dekryptere dine backups, og den forlader aldrig din enhed – aldrig sendt til os, Apple eller Google.
 
-Opbevar din gendannelseskode på et sikkert sted, fordi uden den kan selv vi ikke gendanne dine data - dette er intentionelt, ikke en fejl.
+Opbevar din gendannelseskode på et sikkert sted, fordi uden den kan selv vi ikke gendanne dine data – dette er intentionelt, ikke en fejl.
 
 4
 

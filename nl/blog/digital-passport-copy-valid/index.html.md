@@ -22,11 +22,11 @@ Bij het plannen van een reis vragen veel reizigers zich af of ze een digitale ko
 
 ### Inchecken in een hotel
 
-De meeste hotels wereldwijd accepteren digitale paspoortkopieën bij het inchecken - een pdf op je telefoon, vooraf gemaild of uitgeprint. Dit is vooral handig als je laat incheckt of tussen accommodaties reist en je niet je hele reis het fysieke paspoort wilt meedragen. Sommige kleinere hotels, met name in regio's met minder digitale infrastructuur, geven nog steeds de voorkeur aan het origineel. In delen van Europa - waaronder Spanje, Frankrijk en Italië - moeten hotels je gegevens registreren voor de autoriteiten en willen ze daarvoor doorgaans het fysieke paspoort zien, ook al zegt privacywetgeving dat ze normaal gesproken geen kopie mogen bewaren. Neem vooraf contact op met je accommodatie om dit te bevestigen.
+De meeste hotels wereldwijd accepteren digitale paspoortkopieën bij het inchecken – een pdf op je telefoon, vooraf gemaild of uitgeprint. Dit is vooral handig als je laat incheckt of tussen accommodaties reist en je niet je hele reis het fysieke paspoort wilt meedragen. Sommige kleinere hotels, met name in regio's met minder digitale infrastructuur, geven nog steeds de voorkeur aan het origineel. In delen van Europa – waaronder Spanje, Frankrijk en Italië – moeten hotels je gegevens registreren voor de autoriteiten en willen ze daarvoor doorgaans het fysieke paspoort zien, ook al zegt privacywetgeving dat ze normaal gesproken geen kopie mogen bewaren. Neem vooraf contact op met je accommodatie om dit te bevestigen.
 
 ### Vluchtboekingen en online inchecken
 
-Luchtvaartmaatschappijen vragen je paspoortgegevens bij het boeken, en veel laten je een digitale kopie uploaden om je identiteit te verifiëren voor online inchecken - dit versnelt het proces op de luchthaven. Je moet nog steeds het originele paspoort tonen bij de gate. De rol van de digitale kopie is verificatie vóór de reis, niet instapdocumentatie.
+Luchtvaartmaatschappijen vragen je paspoortgegevens bij het boeken, en veel laten je een digitale kopie uploaden om je identiteit te verifiëren voor online inchecken – dit versnelt het proces op de luchthaven. Je moet nog steeds het originele paspoort tonen bij de gate. De rol van de digitale kopie is verificatie vóór de reis, niet instapdocumentatie.
 
 ### Autoverhuurbedrijven
 
@@ -34,11 +34,11 @@ Autoverhuurbedrijven accepteren doorgaans digitale paspoortkopieën voor boeking
 
 ### Noodhulp van de ambassade
 
-Raakt je paspoort kwijt of wordt het gestolen tijdens je reis, dan kan een digitale kopie de procedure voor een nooddocument bij je ambassade aanzienlijk versnellen. Hij bewijst het bestaan van je paspoort en toont je persoonsgegevens, foto en paspoortnummer - alles wat de ambassade nodig heeft om een vervangend document uit te geven. Dit is een van de sterkste redenen om altijd een digitale back-up bij je te hebben.
+Raakt je paspoort kwijt of wordt het gestolen tijdens je reis, dan kan een digitale kopie de procedure voor een nooddocument bij je ambassade aanzienlijk versnellen. Hij bewijst het bestaan van je paspoort en toont je persoonsgegevens, foto en paspoortnummer – alles wat de ambassade nodig heeft om een vervangend document uit te geven. Dit is een van de sterkste redenen om altijd een digitale back-up bij je te hebben.
 
 ## Waar je fysieke paspoort altijd vereist is
 
-Een digitale kopie is geen vervanging voor je fysieke paspoort bij immigratie, bij luchtvaartmaatschappijen of bij de politie. In deze situaties is het originele document simpelweg verplicht - daar is geen ontkomen aan.
+Een digitale kopie is geen vervanging voor je fysieke paspoort bij immigratie, bij luchtvaartmaatschappijen of bij de politie. In deze situaties is het originele document simpelweg verplicht – daar is geen ontkomen aan.
 
 | Reissituatie | Digitale kopie geaccepteerd | Opmerkingen |
 |---|---|---|
@@ -91,7 +91,7 @@ De meeste visumaanvragen vereisen gewaarmerkte kopieën of notarieel bekrachtigd
 
 ### Kan een digitale paspoortkopie helpen als mijn paspoort in het buitenland kwijtraakt of wordt gestolen?
 
-Ja, aanzienlijk. Een digitale kopie versnelt de procedure voor een nooddocument bij je ambassade. Hij toont je persoonsgegevens, foto en paspoortnummer - alles wat de ambassade nodig heeft om een vervangend document uit te geven.
+Ja, aanzienlijk. Een digitale kopie versnelt de procedure voor een nooddocument bij je ambassade. Hij toont je persoonsgegevens, foto en paspoortnummer – alles wat de ambassade nodig heeft om een vervangend document uit te geven.
 
 ### Hoe bewaar ik mijn digitale paspoortkopie het beste veilig?
 

@@ -10,13 +10,13 @@ Source: https://traveldocumentvault.com/fr/blog/what-documents-to-carry-when-tra
 
 ## Points clés à retenir
 
-- La plupart des voyageurs oublient les **lettres de consentement** pour enfants, les preuves de vaccination, les confirmations d'hébergement et la preuve de voyage ultérieur - les documents d'appui que les agents d'immigration vérifient à la porte.
-- Conservez les originaux : passeport, visas, cartes d'embarquement et lettres de consentement. Stockez les sauvegardes numériques séparément sur votre téléphone - chiffrées et hors ligne.
+- La plupart des voyageurs oublient les **lettres de consentement** pour enfants, les preuves de vaccination, les confirmations d'hébergement et la preuve de voyage ultérieur — les documents d'appui que les agents d'immigration vérifient à la porte.
+- Conservez les originaux : passeport, visas, cartes d'embarquement et lettres de consentement. Stockez les sauvegardes numériques séparément sur votre téléphone — chiffrées et hors ligne.
 - Les numéros de police d'assurance voyage, les numéros de téléphone de l'assureur et les détails de couverture doivent figurer à la fois sous forme physique et dans une sauvegarde numérique hors ligne accessible sans internet.
 - De nombreux pays attendent une **lettre de consentement** pour un enfant voyageant avec un seul parent. Sans cela, vous risquez de vous voir refuser l'embarquement.
 - Les copies numériques hors ligne stockées séparément des documents physiques sont votre meilleure protection si votre sac se perd ou se fait voler à l'étranger.
 
-Les voyageurs découvrent souvent qu'ils ont oublié des lettres de consentement, des certificats de vaccination, des confirmations d'hébergement et la preuve de voyage ultérieur uniquement lorsqu'ils arrivent à l'aéroport - des documents qui semblent moins importants qu'un passeport mais qui comptent tout autant.
+Les voyageurs découvrent souvent qu'ils ont oublié des lettres de consentement, des certificats de vaccination, des confirmations d'hébergement et la preuve de voyage ultérieur uniquement lorsqu'ils arrivent à l'aéroport — des documents qui semblent moins importants qu'un passeport mais qui comptent tout autant.
 
 Pour la liste de contrôle complète de tous les documents dont vous pourriez avoir besoin selon le type de voyage et l'étape, voir [la liste de contrôle complète des documents de voyage](https://traveldocumentvault.com/fr/blog/travel-document-checklist/). Cet article explore ce qui est oublié et comment se préparer à la perte de documents à l'étranger.
 
@@ -26,19 +26,19 @@ Votre passeport et visa semblent urgents, donc ils sont emballés en premier. Ma
 
 ### Preuve de voyage ultérieur
 
-Un nombre surprenant de pays veulent la preuve que vous prévoyez de partir - un vol retour, une réservation ultérieure dans un autre pays, ou même un billet de car ou de ferry suffira généralement. Conserver une impression ou une copie numérique dans votre bagage à main signifie que vous ne ferez pas face à des retards à l'immigration.
+Un nombre surprenant de pays veulent la preuve que vous prévoyez de partir — un vol retour, une réservation ultérieure dans un autre pays, ou même un billet de car ou de ferry suffira généralement. Conserver une impression ou une copie numérique dans votre bagage à main signifie que vous ne ferez pas face à des retards à l'immigration.
 
 ### Confirmations d'hébergement
 
-Certains pays demandent à voir la preuve de votre première nuit de réservation, qu'il s'agisse d'une confirmation d'hôtel, d'un Airbnb ou d'une auberge. L'agent veut une preuve que vous avez un endroit où rester, donc téléchargez une copie sur votre téléphone hors ligne - l'e-mail ne vous aidera pas à la frontière.
+Certains pays demandent à voir la preuve de votre première nuit de réservation, qu'il s'agisse d'une confirmation d'hôtel, d'un Airbnb ou d'une auberge. L'agent veut une preuve que vous avez un endroit où rester, donc téléchargez une copie sur votre téléphone hors ligne — l'e-mail ne vous aidera pas à la frontière.
 
 ### Certificats de vaccination
 
-Certaines destinations exigent la preuve d'une vaccination contre la fièvre jaune ou d'autres maladies, et les exigences changent périodiquement selon la destination. Consultez les pages de conseils aux voyageurs de l'OMS 6 à 8 semaines avant le voyage - pas la veille - car certains pays n'acceptent que les certificats officiels de fièvre jaune de l'OMS, pas les photocopies ou les photos numériques.
+Certaines destinations exigent la preuve d'une vaccination contre la fièvre jaune ou d'autres maladies, et les exigences changent périodiquement selon la destination. Consultez les pages de conseils aux voyageurs de l'OMS 6 à 8 semaines avant le voyage — pas la veille — car certains pays n'acceptent que les certificats officiels de fièvre jaune de l'OMS, pas les photocopies ou les photos numériques.
 
 ### Détails de l'assurance voyage
 
-Vous aurez besoin d'un accès immédiat à votre numéro de police, aux coordonnées de l'assureur et à votre ligne d'assistance d'urgence 24 heures. Certains types de visas exigent explicitement une preuve d'assurance voyage - les demandes de visa Schengen, par exemple, exigent une assurance médicale couvrant les soins d'urgence et l'hospitalisation. Mais plus important encore, s'il se passe quelque chose à l'étranger, vous avez besoin de ces détails sans compter sur l'accès à l'e-mail ou à Internet.
+Vous aurez besoin d'un accès immédiat à votre numéro de police, aux coordonnées de l'assureur et à votre ligne d'assistance d'urgence 24 heures. Certains types de visas exigent explicitement une preuve d'assurance voyage — les demandes de visa Schengen, par exemple, exigent une assurance médicale couvrant les soins d'urgence et l'hospitalisation. Mais plus important encore, s'il se passe quelque chose à l'étranger, vous avez besoin de ces détails sans compter sur l'accès à l'e-mail ou à Internet.
 
 ### Lettres de consentement pour enfants
 
@@ -68,11 +68,11 @@ Les frontières veulent des documents originaux, mais si ces originaux disparais
 - La lettre de consentement de l'enfant, si vous en transportez une
 - Numéros de contact d'urgence pour votre ambassade
 
-Stockez ceux-ci sur votre téléphone à l'aide d'une application hors ligne et chiffrée - pas votre galerie photo, pas Google Photos, pas iCloud. Si vos documents physiques disparaissent, vous avez toujours tout ce dont vous avez besoin pour contacter votre ambassade et prouver qui vous êtes.
+Stockez ceux-ci sur votre téléphone à l'aide d'une application hors ligne et chiffrée — pas votre galerie photo, pas Google Photos, pas iCloud. Si vos documents physiques disparaissent, vous avez toujours tout ce dont vous avez besoin pour contacter votre ambassade et prouver qui vous êtes.
 
 ## Comment Garder les Détails de l'Assurance Voyage Accessibles
 
-La plupart des voyageurs achètent une assurance voyage mais oublient de rendre les détails de la police immédiatement accessibles - ce qui signifie que lorsqu'une urgence médicale ou une perte de bagages se produit à l'étranger, vous cherchez frénétiquement dans vos e-mails au lieu d'appeler à l'aide. Notre guide sur [les documents d'assurance voyage à sauvegarder avant de partir](https://traveldocumentvault.com/fr/blog/travel-insurance-documents/) détaille ce qu'il faut conserver et où le conserver.
+La plupart des voyageurs achètent une assurance voyage mais oublient de rendre les détails de la police immédiatement accessibles — ce qui signifie que lorsqu'une urgence médicale ou une perte de bagages se produit à l'étranger, vous cherchez frénétiquement dans vos e-mails au lieu d'appeler à l'aide. Notre guide sur [les documents d'assurance voyage à sauvegarder avant de partir](https://traveldocumentvault.com/fr/blog/travel-insurance-documents/) détaille ce qu'il faut conserver et où le conserver.
 
 Détails spécifiques à avoir à portée de main, à la fois sur papier et numériquement :
 
@@ -93,11 +93,11 @@ Une lettre de consentement doit généralement inclure le nom complet de l'enfan
 
 Ce que cela signifie en pratique
 
-Vous embarquez sur un vol vers le Canada avec votre enfant de 8 ans et votre partenaire ne voyage pas. Le personnel d'enregistrement peut refuser d'embarquer votre enfant si vous ne pouvez pas montrer le consentement écrit de votre partenaire absent, de préférence notarié. Si votre enfant voyage avec ses grands-parents au lieu de vous, les deux parents doivent généralement signer la lettre de consentement - l'autorisation d'un seul parent généralement ne suffit pas. Vérifiez toujours les exigences exactes pour votre destination bien avant votre date de départ.
+Vous embarquez sur un vol vers le Canada avec votre enfant de 8 ans et votre partenaire ne voyage pas. Le personnel d'enregistrement peut refuser d'embarquer votre enfant si vous ne pouvez pas montrer le consentement écrit de votre partenaire absent, de préférence notarié. Si votre enfant voyage avec ses grands-parents au lieu de vous, les deux parents doivent généralement signer la lettre de consentement — l'autorisation d'un seul parent généralement ne suffit pas. Vérifiez toujours les exigences exactes pour votre destination bien avant votre date de départ.
 
 ## Le Cas des Copies Numériques Hors Ligne
 
-Les documents physiques aident jusqu'à ce qu'un voleur prenne votre sac - et prend généralement les copies avec les originaux. Une sauvegarde chiffrée séparée sur votre téléphone - conservée hors ligne - est votre véritable assurance si les originaux disparaissent.
+Les documents physiques aident jusqu'à ce qu'un voleur prenne votre sac — et prend généralement les copies avec les originaux. Une sauvegarde chiffrée séparée sur votre téléphone — conservée hors ligne — est votre véritable assurance si les originaux disparaissent.
 
 Lorsque votre ambassade doit émettre un document de voyage d'urgence, une sauvegarde sécurisée lui donne instantanément votre numéro de passeport, date d'émission, lieu d'émission et date d'expiration, sans accès à Internet. Pour plus d'informations sur les options disponibles, voir notre aperçu de [comment stocker les copies de passeport en toute sécurité](https://traveldocumentvault.com/fr/blog/is-it-safe-to-store-passport-in-google-photos/) et les compromis entre les différentes approches.
 
@@ -119,7 +119,7 @@ Oui, dans de nombreux pays, c'est attendu. Si un enfant voyage à l'internationa
 
 ### Dois-je conserver des copies numériques de mes documents ?
 
-Oui. Stockez des copies chiffrées hors ligne sur votre téléphone - pas dans votre galerie photo ou stockage en nuage. Si vos documents physiques se perdent ou se font voler à l'étranger, ces sauvegardes permettent à votre ambassade de traiter un document de voyage d'urgence beaucoup plus rapidement. Elles doivent inclure le numéro de passeport, la date d'émission, le lieu d'émission, le numéro de police d'assurance et les références de réservation.
+Oui. Stockez des copies chiffrées hors ligne sur votre téléphone — pas dans votre galerie photo ou stockage en nuage. Si vos documents physiques se perdent ou se font voler à l'étranger, ces sauvegardes permettent à votre ambassade de traiter un document de voyage d'urgence beaucoup plus rapidement. Elles doivent inclure le numéro de passeport, la date d'émission, le lieu d'émission, le numéro de police d'assurance et les références de réservation.
 
 ### Que se passe-t-il si j'arrive à l'aéroport sans un document requis ?
 

@@ -68,7 +68,7 @@ Controleer na het importeren het tabblad Profielen om te bevestigen dat alle pro
 
 - **Niet-destructief:** Importeren voegt gegevens toe aan bestaande gegevens. Als u al profielen hebt op het doelapparaat, worden geïmporteerde profielen toegevoegd zonder bestaande te verwijderen.
 - **Volledige betrouwbaarheid:** Alles blijft precies bewaard: documentnamen, data, vervalmeldingen, aangepaste kleuren, bijlagen en notities.
-- **Volledig versleuteld:** Het geëxporteerde bestand wordt versleuteld met het wachtwoord dat u kiest bij het exporteren, met AES-256-GCM en PBKDF2-sleutelafleiding. Alleen dat wachtwoord kan het ontsleutelen, bewaar het dus op een veilige plek - zonder dat wachtwoord kan het bestand niet worden hersteld.
+- **Volledig versleuteld:** Het geëxporteerde bestand wordt versleuteld met het wachtwoord dat u kiest bij het exporteren, met AES-256-GCM en PBKDF2-sleutelafleiding. Alleen dat wachtwoord kan het ontsleutelen, bewaar het dus op een veilige plek – zonder dat wachtwoord kan het bestand niet worden hersteld.
 - **Beste back-uppraktijk:** Bewaar uw geëxporteerde bestand op een veilige plek. Verwijder het na een geslaagde import als u dat wilt, of bewaar het als offline back-up.
 
 **Disclaimer:** Export-import is ontworpen voor gegevensoverdraagbaarheid. Bewaar geëxporteerde bestanden veilig. Deel de geëxporteerde back-up met niemand, aangezien deze al uw versleutelde documenten en bijlagen bevat.

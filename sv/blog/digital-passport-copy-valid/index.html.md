@@ -22,11 +22,11 @@ Inför en resa undrar många resenärer om de kan spara en digital kopia av pass
 
 ### Hotellincheckning
 
-De flesta hotell i världen accepterar digitala passkopior vid incheckning - en PDF på telefonen, e-postad i förväg eller utskriven. Det är särskilt praktiskt om du checkar in sent eller flyttar mellan boenden och inte vill bära originalpasset genom hela resan. Vissa mindre hotell, särskilt i regioner med mindre digital infrastruktur, föredrar fortfarande originalet. I delar av Europa - bland annat Spanien, Frankrike och Italien - måste hotell registrera dina uppgifter för myndigheterna och vill i regel se det fysiska passet för att göra det, även om dataskyddsriktlinjer säger att de normalt inte bör behålla en kopia. Kontakta ditt boende i förväg för att bekräfta.
+De flesta hotell i världen accepterar digitala passkopior vid incheckning – en PDF på telefonen, e-postad i förväg eller utskriven. Det är särskilt praktiskt om du checkar in sent eller flyttar mellan boenden och inte vill bära originalpasset genom hela resan. Vissa mindre hotell, särskilt i regioner med mindre digital infrastruktur, föredrar fortfarande originalet. I delar av Europa – bland annat Spanien, Frankrike och Italien – måste hotell registrera dina uppgifter för myndigheterna och vill i regel se det fysiska passet för att göra det, även om dataskyddsriktlinjer säger att de normalt inte bör behålla en kopia. Kontakta ditt boende i förväg för att bekräfta.
 
 ### Flygbokningar och webbincheckning
 
-Flygbolag kräver dina passuppgifter vid bokning, och många låter dig ladda upp en digital kopia för att verifiera din identitet vid webbincheckning - det snabbar upp processen på flygplatsen. Du behöver ändå visa upp originalpasset vid gaten. Den digitala kopians roll är verifiering före resan, inte ombordstigningsdokument.
+Flygbolag kräver dina passuppgifter vid bokning, och många låter dig ladda upp en digital kopia för att verifiera din identitet vid webbincheckning – det snabbar upp processen på flygplatsen. Du behöver ändå visa upp originalpasset vid gaten. Den digitala kopians roll är verifiering före resan, inte ombordstigningsdokument.
 
 ### Biluthyrningsföretag
 
@@ -34,11 +34,11 @@ Biluthyrningsföretag accepterar vanligtvis digitala passkopior för bokning och
 
 ### Akut konsulär hjälp
 
-Tappar du passet eller blir det stulet under resan kan en digital kopia väsentligt snabba upp processen för ett provisoriskt resedokument hos din ambassad. Den styrker att passet finns och ger dina personuppgifter, foto och passnummer - allt ambassaden behöver för att utfärda en ersättningshandling. Det här är ett av de starkaste skälen till att alltid bära en digital backup.
+Tappar du passet eller blir det stulet under resan kan en digital kopia väsentligt snabba upp processen för ett provisoriskt resedokument hos din ambassad. Den styrker att passet finns och ger dina personuppgifter, foto och passnummer – allt ambassaden behöver för att utfärda en ersättningshandling. Det här är ett av de starkaste skälen till att alltid bära en digital backup.
 
 ## Var ditt fysiska pass alltid krävs
 
-En digital kopia ersätter inte ditt fysiska pass vid gränskontroll, hos flygbolag eller hos polisen. I de här situationerna är originalhandlingen helt enkelt obligatorisk - det finns inget sätt runt det.
+En digital kopia ersätter inte ditt fysiska pass vid gränskontroll, hos flygbolag eller hos polisen. I de här situationerna är originalhandlingen helt enkelt obligatorisk – det finns inget sätt runt det.
 
 | Resesituation | Digital kopia accepteras | Anteckningar |
 |---|---|---|
@@ -91,7 +91,7 @@ De flesta visumansökningar kräver bestyrkta kopior eller notariserade skanning
 
 ### Kan en digital passkopia hjälpa om mitt pass tappas bort eller stjäls utomlands?
 
-Ja, betydligt. En digital kopia snabbar upp processen för ett provisoriskt resedokument hos din ambassad. Den ger dina personuppgifter, foto och passnummer - allt ambassaden behöver för att utfärda en ersättningshandling.
+Ja, betydligt. En digital kopia snabbar upp processen för ett provisoriskt resedokument hos din ambassad. Den ger dina personuppgifter, foto och passnummer – allt ambassaden behöver för att utfärda en ersättningshandling.
 
 ### Hur bör jag förvara min digitala passkopia säkert?
 

@@ -22,7 +22,7 @@ Ese escenario ocurre una y otra vez, porque las cartas de consentimiento de viaj
 
 ## ¿Quién Realmente Necesita una Carta de Consentimiento de Viaje?
 
-Depende completamente de tu destino - no hay un estándar global, por eso tantas familias se sorprenden.
+Depende completamente de tu destino —no hay un estándar global, por eso tantas familias se sorprenden.
 
 Una carta se requiere comúnmente en estas situaciones:
 
@@ -37,7 +37,7 @@ Siempre verifica los requisitos directamente con la autoridad de inmigración de
 
 ## Qué Debe Incluir la Carta
 
-Una carta de consentimiento de viaje de menores no es una nota casual - es un documento formal, a menudo autenticado notarialmente, que debe contener información específica. Cada carta debe incluir:
+Una carta de consentimiento de viaje de menores no es una nota casual —es un documento formal, a menudo autenticado notarialmente, que debe contener información específica. Cada carta debe incluir:
 
 - **Nombre completo y fecha de nacimiento del menor**, exactamente como aparecen en el pasaporte.
 - **Número de pasaporte del menor.**
@@ -49,7 +49,7 @@ Una carta de consentimiento de viaje de menores no es una nota casual - es un do
 - **Firma(s) del progenitor(es) ausente(s)**, con fecha.
 - **Autenticación notarial o certificación**, si lo requiere el destino.
 
-Redacta la carta en lenguaje formal - evita frases vagas como "mi hijo puede viajar cuando sea". Los agentes fronterizos necesitan ver que el progenitor ausente consiente explícitamente en este viaje específico, en estas fechas específicas, a estos lugares específicos. Por ejemplo, podrías escribir: "Yo, [Nombre Completo], por este medio concedo permiso a mi hijo/hija [Nombre Completo del Menor], número de pasaporte [número], para viajar a [destino(s)] con salida el [fecha] y regreso el [fecha], acompañado(a) por [Nombre del Adulto que Viaja y Relación]."
+Redacta la carta en lenguaje formal —evita frases vagas como "mi hijo puede viajar cuando sea". Los agentes fronterizos necesitan ver que el progenitor ausente consiente explícitamente en este viaje específico, en estas fechas específicas, a estos lugares específicos. Por ejemplo, podrías escribir: "Yo, [Nombre Completo], por este medio concedo permiso a mi hijo/hija [Nombre Completo del Menor], número de pasaporte [número], para viajar a [destino(s)] con salida el [fecha] y regreso el [fecha], acompañado(a) por [Nombre del Adulto que Viaja y Relación]."
 
 Algunos agentes fronterizos llamarán al número de contacto proporcionado para verificar el consentimiento. Asegúrate de que ese número sea correcto, que sea respondido por la persona nombrada, y que puedan confirmar el permiso en la llamada. Si no puedes garantizar que alguien responda durante el horario fronterizo, lista un contacto alternativo y anótalo en la carta.
 
@@ -118,7 +118,7 @@ En los días antes de la salida, repasa esta lista de verificación:
 - Lleva una copia impresa protegida en tu carpeta de documentos de viaje.
 - Guarda una copia digital cifrada como respaldo.
 - Si renuevan el pasaporte antes de viajar, obtén una carta nueva con el número nuevo.
-- No lamines la carta legalizada - la laminación puede arruinar la certificación.
+- No lamines la carta legalizada —la laminación puede arruinar la certificación.
 
 Una carta de consentimiento bien preparada es la salvaguarda de tu familia contra la disrupción del viaje. El tiempo dedicado ahora se recupera en cruces fronterizos suaves y tranquilidad mental.
 

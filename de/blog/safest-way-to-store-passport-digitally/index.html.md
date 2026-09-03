@@ -71,7 +71,7 @@ Eine dedizierte verschlüsselte App, die speziell für Reisedokumente entwickelt
 
 ### Funktionsweise
 
-Wenn Sie einen Reisepass-Scan zur App hinzufügen, wird er mit AES-256 verschlüsselt und vollständig auf Ihrem Telefon gespeichert. Die App funktioniert vollständig offline - kein Konto erforderlich, kein Server erforderlich. Wenn Sie Geräteübergreifenden Zugriff wünschen, sichert eine optionale Pro-Funktion eine verschlüsselte Kopie in Ihrem eigenen iCloud oder Google Drive, versiegelt mit einem Recovery-Code, den nur Sie halten.
+Wenn Sie einen Reisepass-Scan zur App hinzufügen, wird er mit AES-256 verschlüsselt und vollständig auf Ihrem Telefon gespeichert. Die App funktioniert vollständig offline – kein Konto erforderlich, kein Server erforderlich. Wenn Sie Geräteübergreifenden Zugriff wünschen, sichert eine optionale Pro-Funktion eine verschlüsselte Kopie in Ihrem eigenen iCloud oder Google Drive, versiegelt mit einem Recovery-Code, den nur Sie halten.
 
 ### Sicherheitseigenschaften
 
@@ -85,7 +85,7 @@ Wenn Sie einen Reisepass-Scan zur App hinzufügen, wird er mit AES-256 verschlü
 
 Die Sicherheitsvorteile sind erheblich: Ihre Reisepassdaten werden niemals auf einem Remote-Server übertragen oder gespeichert, daher ist es niemals für jemand anderen zugänglich, und es gibt keinen Remote-Server zum Kompromittieren, wenn jemand unbefugten Zugriff auf die Systeme des App-Unternehmens erhält. Dies bedeutet, dass Sie jederzeit vollständige Kontrolle und Eigentum an Ihren Dokumenten behalten.
 
-Dieser Entwurf bringt jedoch reduzierte Bequemlichkeit mit sich, da Sie nicht automatisch auf Ihre Reisepasskopie über mehrere Geräte hinweg zugreifen können. Wenn Sie Ihr Telefon verlieren, stellt die App Ihre Dokumente nicht automatisch wieder her - Sie müssten manuell aus einer Sicherung wiederherstellen. Für die meisten Familien, die zusammen reisen, ist das Speichern von Dokumenten auf dem Telefon eines Elternteils ausreichend, und viele Apps unterstützen manuelles Syncing über Sicherung, was eine Ebene der Flexibilität hinzufügt, ohne dass automatischer Cloud-Upload erforderlich ist.
+Dieser Entwurf bringt jedoch reduzierte Bequemlichkeit mit sich, da Sie nicht automatisch auf Ihre Reisepasskopie über mehrere Geräte hinweg zugreifen können. Wenn Sie Ihr Telefon verlieren, stellt die App Ihre Dokumente nicht automatisch wieder her – Sie müssten manuell aus einer Sicherung wiederherstellen. Für die meisten Familien, die zusammen reisen, ist das Speichern von Dokumenten auf dem Telefon eines Elternteils ausreichend, und viele Apps unterstützen manuelles Syncing über Sicherung, was eine Ebene der Flexibilität hinzufügt, ohne dass automatischer Cloud-Upload erforderlich ist.
 
 ## Direkter Vergleich
 
@@ -114,7 +114,7 @@ Die Antwort hängt von Ihrer persönlichen Risikotoleranz und Ihrem Anwendungsfa
 
 Viele Menschen verwenden einen hybriden Ansatz: Halten Sie eine Kopie in iCloud oder Google Fotos für täglichen Zugriff auf mehrere Geräte und eine zweite Kopie in einer dedizierten verschlüsselten App als sichere Sicherung. Dies bietet sowohl Bequemlichkeit als auch Redundanz. Der Schlüssel besteht darin, die Kompromisse der einzelnen Methoden zu verstehen und bewusst zu wählen.
 
-Unabhängig davon, welche Methode Sie wählen, denken Sie daran, dass eine digitale Kopie Ihres Reisepasses genauso sensibel ist wie das physische Dokument selbst - schützen Sie es mit der gleichen Sorgfalt und Aufmerksamkeit.
+Unabhängig davon, welche Methode Sie wählen, denken Sie daran, dass eine digitale Kopie Ihres Reisepasses genauso sensibel ist wie das physische Dokument selbst – schützen Sie es mit der gleichen Sorgfalt und Aufmerksamkeit.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 

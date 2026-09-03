@@ -11,21 +11,21 @@ Source: https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/
 ## Puntos Clave
 
 - La **regla de los 6 meses del vencimiento del pasaporte** significa que tu pasaporte necesita seis meses de validez cuando viajas. La mayoría de los países lo cuentan desde el día que llegas, y algunos desde el día que sales, así que contar desde tu fecha de salida es el hábito más seguro: cumple con ambos.
-- Muchos países en Asia y África aplican esta regla - incluyendo destinos populares como Tailandia, Indonesia, Vietnam e India. Europa y la mayoría de países de habla inglesa generalmente no lo hacen.
-- Las aerolíneas pueden y niegan el embarque si tu pasaporte no es suficiente - incluso si el país de destino te hubiera dejado entrar.
+- Muchos países en Asia y África aplican esta regla —incluyendo destinos populares como Tailandia, Indonesia, Vietnam e India. Europa y la mayoría de países de habla inglesa generalmente no lo hacen.
+- Las aerolíneas pueden y niegan el embarque si tu pasaporte no es suficiente —incluso si el país de destino te hubiera dejado entrar.
 - La regla se aplica inconsistentemente: el mismo país puede renunciar a ella para algunos titulares de pasaporte y aplicarla para otros en función de acuerdos bilaterales.
 - La opción más segura es renovar cuando caigas por debajo de 12 meses de validez, para que siempre tengas un margen cómodo.
 
-El oficial de inmigración miró el pasaporte de mi hija, se detuvo, y luego miró hacia arriba. "¿Sabes que vence en siete meses, verdad? Algunos países no te dejarán entrar con menos de seis meses de validez." Estábamos bien - apenas. Pero ese momento se quedó conmigo, porque había verificado el pasaporte antes de reservar y siete meses me había parecido muchísimo tiempo. Había olvidado completamente la regla de los 6 meses del pasaporte.
+El oficial de inmigración miró el pasaporte de mi hija, se detuvo, y luego miró hacia arriba. "¿Sabes que vence en siete meses, verdad? Algunos países no te dejarán entrar con menos de seis meses de validez." Estábamos bien —apenas. Pero ese momento se quedó conmigo, porque había verificado el pasaporte antes de reservar y siete meses me había parecido muchísimo tiempo. Había olvidado completamente la regla de los 6 meses del pasaporte.
 
-Es uno de los requisitos más malentendidos en viajes internacionales, y atrapa a viajeros experimentados, no solo a novatos. Si planeas tu primer viaje internacional, esta es la regla que nadie te cuenta al reservar. Tu pasaporte puede ser técnicamente válido - no vencido - y aún así te pueden dejar en tierra en la puerta.
+Es uno de los requisitos más malentendidos en viajes internacionales, y atrapa a viajeros experimentados, no solo a novatos. Si planeas tu primer viaje internacional, esta es la regla que nadie te cuenta al reservar. Tu pasaporte puede ser técnicamente válido —no vencido— y aún así te pueden dejar en tierra en la puerta.
 
 ## ¿Qué Es la Regla de los 6 Meses del Pasaporte?
 
 La regla requiere seis meses de validez del pasaporte para tu viaje. La mayoría de los países lo cuentan desde el día que llegas, y algunos desde el día que sales, así que contar desde tu fecha de salida cubre ambos casos. En la práctica, esto significa:
 
 - Si visitas Tailandia y planeas irte el 1 de agosto, tu pasaporte debe permanecer válido hasta por lo menos el 1 de febrero del año siguiente.
-- Un pasaporte que vence el 30 de noviembre es técnicamente "válido" para tu viaje de agosto - pero falla este requisito por dos meses.
+- Un pasaporte que vence el 30 de noviembre es técnicamente "válido" para tu viaje de agosto —pero falla este requisito por dos meses.
 
 La lógica es directa: los países quieren seguridad de que no te quedarás más tiempo de lo permitido y luego te encontrarás con un documento muerto sin forma de regresar a casa. Seis meses es un margen administrativo conveniente.
 
@@ -58,15 +58,15 @@ La siguiente tabla cubre los destinos más comunes. Las políticas cambian, así
 | EE.UU. | Solo duración de la estancia | Los ciudadanos estadounidenses al extranjero están sujetos a las reglas del país de destino |
 | Japón / Australia / Nueva Zelanda | Solo duración de la estancia | Sin regla de extensión de 6 meses para visitantes |
 
-Esta no es una lista exhaustiva, y los requisitos varían según tu nacionalidad - no solo el destino. Siempre verifica tu asesoramiento oficial de viaje del gobierno antes de reservar.
+Esta no es una lista exhaustiva, y los requisitos varían según tu nacionalidad —no solo el destino. Siempre verifica tu asesoramiento oficial de viaje del gobierno antes de reservar.
 
-Los requisitos de validez del pasaporte por país cambian sin previo aviso - un acuerdo bilateral puede cambiar silenciosamente las reglas para tu pasaporte específico. Por eso verificar una fuente oficial actualizada antes de cada viaje internacional no es paranoia, es simplemente buena práctica.
+Los requisitos de validez del pasaporte por país cambian sin previo aviso —un acuerdo bilateral puede cambiar silenciosamente las reglas para tu pasaporte específico. Por eso verificar una fuente oficial actualizada antes de cada viaje internacional no es paranoia, es simplemente buena práctica.
 
 Siempre verifica tus requisitos específicos usando el IATA Travel Centre, el sistema que las aerolíneas usan para verificar documentos de pasajeros en tiempo real.
 
-**Travel Document Vault** señala cualquier pasaporte que se quede sin seis meses de validez para cuando termine tu viaje - para cada miembro de la familia, automáticamente. [Descárgalo gratis en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** señala cualquier pasaporte que se quede sin seis meses de validez para cuando termine tu viaje —para cada miembro de la familia, automáticamente. [Descárgalo gratis en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
-## Cómo las Aerolíneas Aplican la Regla - Incluso Cuando los Países No
+## Cómo las Aerolíneas Aplican la Regla —Incluso Cuando los Países No
 
 Aquí hay algo que la mayoría de las personas no saben: las aerolíneas son responsables de asegurar que los pasajeros cumplan con los requisitos de entrada en el destino. Si vuelan a alguien que le es negada la entrada, la aerolínea paga para enviarlo a casa.
 
@@ -82,17 +82,17 @@ Si tu pasaporte vence el 30 de noviembre y tu vuelo de regreso es el 1 de agosto
 
 Que se te niegue el embarque en el aeropuerto de salida y tus opciones son deplorables: reprogramar a tu propio costo y renovar tu pasaporte antes de poder re-reservar.
 
-¿Llegas al destino y te lo niega la inmigración? Eso es considerablemente peor. Probablemente te sentarás en un centro de detención de inmigración hasta el próximo vuelo a casa - de nuevo, a tu costo.
+¿Llegas al destino y te lo niega la inmigración? Eso es considerablemente peor. Probablemente te sentarás en un centro de detención de inmigración hasta el próximo vuelo a casa —de nuevo, a tu costo.
 
 **El seguro de viaje generalmente no cubre esto.** La validez del pasaporte se considera una circunstancia prevenible. El golpe financiero y el viaje arruinado son completamente tuyos para absorber.
 
 ## Qué Hacer Si Tu Pasaporte Tiene Menos de 6 Meses de Validez
 
-Trata tu pasaporte como un neumático de coche - no esperes hasta que esté desinflado. Renueva cuando caigas por debajo de 12 meses de validez. Eso te da un margen de seis meses además de la regla, con espacio de sobra.
+Trata tu pasaporte como un neumático de coche —no esperes hasta que esté desinflado. Renueva cuando caigas por debajo de 12 meses de validez. Eso te da un margen de seis meses además de la regla, con espacio de sobra.
 
-Antes de cualquier viaje, cuenta seis meses hacia adelante desde el día que sales del destino, que es la fecha más tardía y por tanto satisface cualquier versión de la regla. Comprueba el vencimiento de tu pasaporte contra esa fecha - no solo tus fechas de viaje.
+Antes de cualquier viaje, cuenta seis meses hacia adelante desde el día que sales del destino, que es la fecha más tardía y por tanto satisface cualquier versión de la regla. Comprueba el vencimiento de tu pasaporte contra esa fecha —no solo tus fechas de viaje.
 
-Administrar múltiples pasaportes en toda una familia con diferentes fechas de vencimiento es donde se pone desordenado. [Travel Document Vault](https://traveldocumentvault.com) rastrea esto automáticamente - almacenando el vencimiento del pasaporte de cada miembro de la familia y enviando recordatorios desde ocho meses antes, y de nuevo a medida que se acerca la fecha. Sin aritmética mental antes de cada reserva. También puedes encontrar más [consejos prácticos sobre documentos de viaje](https://traveldocumentvault.com/es/blog/) en el blog.
+Administrar múltiples pasaportes en toda una familia con diferentes fechas de vencimiento es donde se pone desordenado. [Travel Document Vault](https://traveldocumentvault.com) rastrea esto automáticamente —almacenando el vencimiento del pasaporte de cada miembro de la familia y enviando recordatorios desde ocho meses antes, y de nuevo a medida que se acerca la fecha. Sin aritmética mental antes de cada reserva. También puedes encontrar más [consejos prácticos sobre documentos de viaje](https://traveldocumentvault.com/es/blog/) en el blog.
 
 ## Una Nota Sobre la Verificación de Requisitos Antes de Viajar
 
@@ -100,11 +100,11 @@ Los requisitos cambian constantemente. Los países actualizan políticas de entr
 
 Fuentes confiables para verificar antes de cualquier viaje internacional:
 
-- **IATA Travel Centre** (timaticweb2.com) - la misma base de datos que usan las aerolíneas
-- **Tu asesoramiento oficial de viaje del gobierno** - Reino Unido: GOV.UK/foreign-travel-advice, EE.UU.: travel.state.gov, Australia: smartraveller.gov.au
+- **IATA Travel Centre** (timaticweb2.com) —la misma base de datos que usan las aerolíneas
+- **Tu asesoramiento oficial de viaje del gobierno** —Reino Unido: GOV.UK/foreign-travel-advice, EE.UU.: travel.state.gov, Australia: smartraveller.gov.au
 - **El sitio web oficial de inmigración o autoridad de visados del país de destino**
 
-Estas fuentes te dicen el requisito oficial y si se aplica a los titulares de tu pasaporte específico. No confíes en foros de viaje o publicaciones de blog del año pasado - ve a la fuente.
+Estas fuentes te dicen el requisito oficial y si se aplica a los titulares de tu pasaporte específico. No confíes en foros de viaje o publicaciones de blog del año pasado —ve a la fuente.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
@@ -116,7 +116,7 @@ Depende del destino. Los países que aplican la regla de los 6 meses, incluidos 
 
 ### ¿Qué es exactamente la regla de los 6 meses del pasaporte y por qué existe?
 
-La regla de los 6 meses del pasaporte requiere seis meses de validez del pasaporte para tu viaje. La mayoría de los países la miden desde el día que llegas, y algunos desde el día que sales. Si vence dentro de esa ventana, puedes ser negado el embarque o la entrada - incluso si el pasaporte en sí no ha vencido técnicamente.
+La regla de los 6 meses del pasaporte requiere seis meses de validez del pasaporte para tu viaje. La mayoría de los países la miden desde el día que llegas, y algunos desde el día que sales. Si vence dentro de esa ventana, puedes ser negado el embarque o la entrada —incluso si el pasaporte en sí no ha vencido técnicamente.
 
 ### ¿Qué países aplican la regla de validez de 6 meses del pasaporte?
 
@@ -124,11 +124,11 @@ Los países que comúnmente requieren 6 meses de validez del pasaporte incluyen 
 
 ### ¿Aplican los EE.UU. la regla de los 6 meses del pasaporte?
 
-EE.UU. no requiere 6 meses de validez del pasaporte para ciudadanos estadounidenses que entren al país. Pero los ciudadanos estadounidenses que viajan al extranjero aún están sujetos a las reglas que establezca el país de destino - y muchos destinos populares sí aplican el requisito de 6 meses.
+EE.UU. no requiere 6 meses de validez del pasaporte para ciudadanos estadounidenses que entren al país. Pero los ciudadanos estadounidenses que viajan al extranjero aún están sujetos a las reglas que establezca el país de destino —y muchos destinos populares sí aplican el requisito de 6 meses.
 
 ### ¿Puedo ser denegado el embarque por la regla de los 6 meses?
 
-Sí. Las aerolíneas verifican la validez del pasaporte usando una base de datos de toda la industria de requisitos de entrada. Si tu pasaporte no cumple con los requisitos del destino en el papel, la aerolínea puede negarte el embarque - incluso si el país en sí podría haberte dejado pasar en la práctica.
+Sí. Las aerolíneas verifican la validez del pasaporte usando una base de datos de toda la industria de requisitos de entrada. Si tu pasaporte no cumple con los requisitos del destino en el papel, la aerolínea puede negarte el embarque —incluso si el país en sí podría haberte dejado pasar en la práctica.
 
 ### ¿Cómo verifico si mi pasaporte cumple la regla de los 6 meses?
 
@@ -136,11 +136,11 @@ Cuenta seis meses hacia adelante desde el día que sales del destino, luego comp
 
 ### ¿Se aplica la regla de los 6 meses a ciudadanos de la UE que viajan dentro de Europa?
 
-Generalmente, no. Los países de la UE y del área Schengen típicamente solo requieren que tu pasaporte sea válido por la duración de tu estancia - no aplican la regla de extensión de 6 meses para viajes intra-europeos. Sin embargo, algunos países de la UE pueden requerir que tu pasaporte sea válido por lo menos tres meses después de tu salida prevista. Siempre verifica los requisitos de entrada específicos de tu país de destino, ya que las reglas pueden variar incluso dentro del área Schengen.
+Generalmente, no. Los países de la UE y del área Schengen típicamente solo requieren que tu pasaporte sea válido por la duración de tu estancia —no aplican la regla de extensión de 6 meses para viajes intra-europeos. Sin embargo, algunos países de la UE pueden requerir que tu pasaporte sea válido por lo menos tres meses después de tu salida prevista. Siempre verifica los requisitos de entrada específicos de tu país de destino, ya que las reglas pueden variar incluso dentro del área Schengen.
 
 ### ¿Qué pasa si el pasaporte de un miembro de la familia cumple la regla pero el de otro no?
 
-El pasaporte de cada miembro de la familia se evalúa individualmente - no hay regla de grupo. Esto significa que un pasaporte podría cumplir el requisito de 6 meses mientras que otro no, potencialmente impidiendo que esa persona viaje. Verifica cada pasaporte del grupo contra los requisitos de validez del destino antes de reservar. Apps como Travel Document Vault te permiten rastrear el vencimiento del pasaporte de cada miembro de la familia por separado para que detectes estas brechas antes de que lo haga el check-in.
+El pasaporte de cada miembro de la familia se evalúa individualmente —no hay regla de grupo. Esto significa que un pasaporte podría cumplir el requisito de 6 meses mientras que otro no, potencialmente impidiendo que esa persona viaje. Verifica cada pasaporte del grupo contra los requisitos de validez del destino antes de reservar. Apps como Travel Document Vault te permiten rastrear el vencimiento del pasaporte de cada miembro de la familia por separado para que detectes estas brechas antes de que lo haga el check-in.
 
 ## Artículos Relacionados
 

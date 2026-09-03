@@ -100,8 +100,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rul
 
 在任何国际旅行前可以检查的可靠来源：
 
-- **IATA Travel Centre** (timaticweb2.com) - 航空公司使用的同一数据库
-- **您政府的官方旅行建议** - 英国：GOV.UK/foreign-travel-advice，美国：travel.state.gov，澳大利亚：smartraveller.gov.au
+- **IATA Travel Centre** (timaticweb2.com)——航空公司使用的同一数据库
+- **您政府的官方旅行建议**——英国：GOV.UK/foreign-travel-advice，美国：travel.state.gov，澳大利亚：smartraveller.gov.au
 - **目的地国家的官方移民或签证机构网站**
 
 这些来源会告诉您官方要求以及是否适用于您的特定护照持有人。不要依赖旅行论坛或去年的博客文章，请查阅官方来源。

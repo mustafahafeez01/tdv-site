@@ -92,7 +92,7 @@ Om etiketterna på din egen datasida inte är på svenska hjälper geometrin än
 
 ### Vad betyder date of expedition på ett pass?
 
-Det betyder utfärdandedatum - dagen passet tillverkades. Formuleringen kommer från spanska och portugisiska blanketter, där fecha de expedición och data de expedição båda översätts bokstavligen som expeditionsdatum. Det har inget med en resa att göra, och det är aldrig sista giltighetsdag.
+Det betyder utfärdandedatum – dagen passet tillverkades. Formuleringen kommer från spanska och portugisiska blanketter, där fecha de expedición och data de expedição båda översätts bokstavligen som expeditionsdatum. Det har inget med en resa att göra, och det är aldrig sista giltighetsdag.
 
 ### Är utfärdandedatum samma sak som sista giltighetsdag?
 

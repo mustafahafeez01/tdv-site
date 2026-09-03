@@ -10,9 +10,9 @@ Source: https://traveldocumentvault.com/da/blog/encrypted-cloud-backup-travel-do
 
 ## Vigtigste punkter
 
-- **"Krypteret backup" betyder kun noget, når du ved, hvem der har nøglen.** Hvis virksomheden kan læse dine dokumenter, beskytter krypteringen dem mod fremmede - ikke mod virksomheden.
+- **"Krypteret backup" betyder kun noget, når du ved, hvem der har nøglen.** Hvis virksomheden kan læse dine dokumenter, beskytter krypteringen dem mod fremmede – ikke mod virksomheden.
 - En backup, der er krypteret på din telefon før upload, når skyen som ulæselige data. Lagringsudbyderen opbevarer krypteret tekst, ikke dit pas.
-- **Ingen konto betyder ingen nulstilling af adgangskode.** Mister du gendannelseskoden, kan backuppen ikke åbnes af nogen - os inklusive. Det er den bevidste afvejning.
+- **Ingen konto betyder ingen nulstilling af adgangskode.** Mister du gendannelseskoden, kan backuppen ikke åbnes af nogen – os inklusive. Det er den bevidste afvejning.
 - Skriv koden ned, før du er afhængig af backuppen, opbevar den væk fra telefonen, og læs den igennem én gang for at tjekke, at den er læselig.
 - En systembackup af enheden geninstallerer appen, men kan ikke bringe dine dokumenter tilbage, fordi krypteringsnøglen aldrig forlod den gamle telefon.
 
@@ -32,9 +32,9 @@ Den anden opsætning blander filen på din telefon, før den sendes nogen steder
 
 Så spørgsmålet, det er værd at stille til enhver app, er kort: **hvem har nøglen?** Alt andet i markedsføringen følger af svaret.
 
-## Gendannelseskoden - og hvorfor ingen kan nulstille den
+## Gendannelseskoden – og hvorfor ingen kan nulstille den
 
-Her kommer den del, de fleste artikler springer over, og den fortjener at blive sagt ligeud: Travel Document Vault har ingen konti. Du har aldrig givet os en e-mailadresse, vi har aldrig sat dig op med en adgangskode, og der findes ingen optegnelse om dig på nogen server, vi driver. Når du slår [cloud-backup](https://traveldocumentvault.com/da/cloud-backup/) til, genererer appen en gendannelseskode på 24 tegn og udleder krypteringsnøglen af den. Det krypterede arkiv sendes derefter til **din egen iCloud på iPhone og iPad, eller din egen Google Drive på Android** - ikke til os.
+Her kommer den del, de fleste artikler springer over, og den fortjener at blive sagt ligeud: Travel Document Vault har ingen konti. Du har aldrig givet os en e-mailadresse, vi har aldrig sat dig op med en adgangskode, og der findes ingen optegnelse om dig på nogen server, vi driver. Når du slår [cloud-backup](https://traveldocumentvault.com/da/cloud-backup/) til, genererer appen en gendannelseskode på 24 tegn og udleder krypteringsnøglen af den. Det krypterede arkiv sendes derefter til **din egen iCloud på iPhone og iPad, eller din egen Google Drive på Android** – ikke til os.
 
 Konsekvensen er uundgåelig. **Mister du gendannelseskoden, kan backuppen aldrig åbnes igen.** Hverken af dig, af Apple eller Google, eller af os. Der findes intet nulstillingslink, fordi der ikke er nogen konto at knytte det til. Der findes ingen supportsag, der kan gendanne den, fordi vi aldrig har haft den og ikke engang kan gætte den.
 
@@ -42,7 +42,7 @@ Det lyder hårdt, når det skrives ned, og det er værd at være ærlig om det f
 
 Behandl derfor koden som det ene, du skal have styr på:
 
-- Gem den, før du er afhængig af backuppen - ikke bagefter.
+- Gem den, før du er afhængig af backuppen – ikke bagefter.
 - Opbevar den et sted, hvor tabet af telefonen ikke rammer den. En adgangskodemanager på en anden enhed virker fint. Det gør papir i skuffen, hvor fødselsattesterne ligger, også.
 - Læs den igennem én gang fra der, hvor du har opbevaret den. Håndskrift, der gav mening dengang, har det med at blive uklar i en nødsituation.
 - To kopier på to steder slår én perfekt kopi.
@@ -96,11 +96,11 @@ Tyve minutter, én gang, før næste rejse:
 - Skriv gendannelseskoden ned et sted, der ikke er telefonen, og læs den derefter igennem fra den kopi for at tjekke, den er læselig.
 - Lav en ekstra kopi af koden, og opbevar den et andet sted end den første.
 - Eksporter arkivet én gang, og gem filen et sted, du selv kontrollerer, som en løsning, der ikke afhænger af nogen cloud-konto.
-- Tjek, at appen viser en ny backup, før du flyver - på samme måde som du tjekker, at passerne er i tasken.
+- Tjek, at appen viser en ny backup, før du flyver – på samme måde som du tjekker, at passerne er i tasken.
 
 Intet af det her er dramatisk, og det er lidt pointen. De familier, der klarer sig godt, når telefonen bliver stjålet i udlandet, er næsten aldrig dem, der reagerede genialt. Det er dem, der brugte tyve helt almindelige minutter ved køkkenbordet fjorten dage forinden.
 
-En sidste bemærkning om forventninger. Backup er et sikkerhedslag, og det garanterer ikke noget: cloud-konti bliver låst, koder bliver glemt, lagringstjenester har dårlige dage. For dokumenter, der virkelig betyder noget, bør du også have noget uafhængigt liggende - hvad enten det er en udprintet kopi i en skuffe derhjemme eller en ekstra eksport på et drev.
+En sidste bemærkning om forventninger. Backup er et sikkerhedslag, og det garanterer ikke noget: cloud-konti bliver låst, koder bliver glemt, lagringstjenester har dårlige dage. For dokumenter, der virkelig betyder noget, bør du også have noget uafhængigt liggende – hvad enten det er en udprintet kopi i en skuffe derhjemme eller en ekstra eksport på et drev.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
@@ -108,15 +108,15 @@ En sidste bemærkning om forventninger. Backup er et sikkerhedslag, og det garan
 
 ### Hvad betyder krypteret backup egentlig?
 
-Det betyder, at kopien bliver blandet på din telefon, før den sendes nogen steder, med en nøgle, der bliver hos dig. Den, der derefter opbevarer filen, sidder med en blok ulæselige data - ikke dit pas. Ordet betyder kun noget, når du kan svare på opfølgningsspørgsmålet: hvem har nøglen? Hvis virksomheden bag appen kan læse dine dokumenter, beskytter krypteringen dem mod udenforstående - ikke mod virksomheden.
+Det betyder, at kopien bliver blandet på din telefon, før den sendes nogen steder, med en nøgle, der bliver hos dig. Den, der derefter opbevarer filen, sidder med en blok ulæselige data – ikke dit pas. Ordet betyder kun noget, når du kan svare på opfølgningsspørgsmålet: hvem har nøglen? Hvis virksomheden bag appen kan læse dine dokumenter, beskytter krypteringen dem mod udenforstående – ikke mod virksomheden.
 
 ### Hvad sker der, hvis jeg mister min backup-nøgle?
 
-Backuppen forbliver krypteret, og ingen kan åbne den - os inklusive. Der er ingen konto, ingen nulstilling af adgangskode, og ingen supportvej, der kan gendanne den, fordi gendannelseskoden aldrig når frem til os i første omgang. Det er den bevidste afvejning for, at ingen andre heller kan læse dine dokumenter. Skriv koden ned, før du er afhængig af backuppen, opbevar den et sted adskilt fra telefonen, og læs den igennem én gang for at tjekke, du kan.
+Backuppen forbliver krypteret, og ingen kan åbne den – os inklusive. Der er ingen konto, ingen nulstilling af adgangskode, og ingen supportvej, der kan gendanne den, fordi gendannelseskoden aldrig når frem til os i første omgang. Det er den bevidste afvejning for, at ingen andre heller kan læse dine dokumenter. Skriv koden ned, før du er afhængig af backuppen, opbevar den et sted adskilt fra telefonen, og læs den igennem én gang for at tjekke, du kan.
 
 ### Er cloud-backup sikkert for passcanninger?
 
-Det afhænger fuldstændigt af, hvad der når frem til skyen. Et foto af dit pas i et almindeligt fotobibliotek eller en synkroniseret mappe ankommer læseligt, og alle, der kommer ind i den konto, kan læse det. En backup, der er krypteret på enheden før upload, ankommer som krypteret tekst, så lagringsudbyderen sidder med noget, den ikke kan åbne. Travel Document Vault krypterer arkivet på din telefon med AES-256-GCM og sender den krypterede fil til din egen iCloud eller Google Drive - ikke til en virksomheds server.
+Det afhænger fuldstændigt af, hvad der når frem til skyen. Et foto af dit pas i et almindeligt fotobibliotek eller en synkroniseret mappe ankommer læseligt, og alle, der kommer ind i den konto, kan læse det. En backup, der er krypteret på enheden før upload, ankommer som krypteret tekst, så lagringsudbyderen sidder med noget, den ikke kan åbne. Travel Document Vault krypterer arkivet på din telefon med AES-256-GCM og sender den krypterede fil til din egen iCloud eller Google Drive – ikke til en virksomheds server.
 
 ### Kan jeg gendanne mine dokumenter på en anden telefon?
 

@@ -68,7 +68,7 @@ Após a importação, verifique o separador Perfis para confirmar que todos os p
 
 - **Não-destrutivo:** A importação adiciona aos dados existentes. Se já tiver perfis no dispositivo de destino, os perfis importados são adicionados sem eliminar os existentes.
 - **Fidelidade completa:** Tudo é preservado exatamente: nomes dos documentos, datas, alertas de expiração, cores personalizadas, anexos e notas.
-- **Encriptado do início ao fim:** O ficheiro exportado é encriptado com a palavra-passe que escolhe ao exportá-lo, usando AES-256-GCM com derivação de chave PBKDF2. Apenas essa palavra-passe pode desencriptá-lo, por isso guarde-a num local seguro - sem ela, o ficheiro não pode ser recuperado.
+- **Encriptado do início ao fim:** O ficheiro exportado é encriptado com a palavra-passe que escolhe ao exportá-lo, usando AES-256-GCM com derivação de chave PBKDF2. Apenas essa palavra-passe pode desencriptá-lo, por isso guarde-a num local seguro — sem ela, o ficheiro não pode ser recuperado.
 - **Melhor prática de cópia de segurança:** Mantenha o ficheiro exportado num local seguro. Elimine-o após uma importação bem-sucedida se preferir, ou guarde-o como uma cópia de segurança offline.
 
 **Aviso Legal:** Exportar-importar foi concebido para portabilidade de dados. Mantenha os ficheiros exportados seguros. Não partilhe a cópia de segurança exportada com ninguém, pois contém todos os seus documentos e anexos encriptados.

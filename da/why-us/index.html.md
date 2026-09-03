@@ -31,7 +31,7 @@ Byggede Travel Document Vault til min familie
 
 > "Hver familietur blev en skattejagt på tværs af Fotos, e-mail og Drive. Jeg byggede dette, så den næste tur ikke blev det."
 
-Ingen venturekapitalister, ingen aktionærer, intet ad-netværk - bare en forælder, der blev træt af den samme panik på hver tur.
+Ingen venturekapitalister, ingen aktionærer, intet ad-netværk – bare en forælder, der blev træt af den samme panik på hver tur.
 
 [Læs hele historien →](https://traveldocumentvault.com/da/blog/why-i-built-travel-document-vault/)
 
@@ -43,7 +43,7 @@ Ved gaten
 
 Indvandringsskranke. Betjenten beder om dit visum.
 
-Hvad hvis du kunne åbne én app og have det der med det samme - ingen søgning, ingen skift af apps, bare øjeblikkelig adgang?
+Hvad hvis du kunne åbne én app og have det der med det samme – ingen søgning, ingen skift af apps, bare øjeblikkelig adgang?
 
 Er du dette: forretningsrejsende, digital nomade eller hyppig flyver.
 
@@ -148,7 +148,7 @@ AES-256-GCM-kryptering i hvile. Krypterede sikkerhedskopier bruger PBKDF2-nøgle
 
 Pasfornyelser tager 6 til 8 uger. **Påmindelser starter 8 måneder tidligt** og kaskaderes ned automatisk.
 
-Påmindelser kommer 6 måneder, 3 måneder, 6 uger og udløbsdagen - så du altid er på forkant med dine fornyelsesdeadlines.
+Påmindelser kommer 6 måneder, 3 måneder, 6 uger og udløbsdagen – så du altid er på forkant med dine fornyelsesdeadlines.
 
 Virker for pas, visa, kørekort, forsikring – alt med en udløbsdato.
 
@@ -184,7 +184,7 @@ Kombiner flere dokumenter i én PDF-fil til deling med ambassader, flyselskaber 
 
 Lavet af en forælder, der havde brug for dette. Privatlivsfokuseret af design.
 
-## Nyt i v1.2 - Bygget til familier
+## Nyt i v1.2 – Bygget til familier
 
 Moderne funktioner til moderne rejser.
 

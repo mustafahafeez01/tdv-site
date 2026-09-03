@@ -11,21 +11,21 @@ Source: https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/
 ## Poin Penting
 
 - **Aturan paspor 6 bulan** berarti paspor Anda perlu memiliki sisa masa berlaku enam bulan saat Anda bepergian. Sebagian besar negara menghitungnya dari hari Anda tiba, dan sebagian dari hari Anda berangkat, sehingga menghitung dari tanggal keberangkatan Anda adalah kebiasaan paling aman: memenuhi keduanya.
-- Banyak negara di Asia dan Afrika menerapkan aturan ini - termasuk destinasi populer seperti Thailand, Indonesia, Vietnam, dan India. Eropa dan sebagian besar negara berbahasa Inggris umumnya tidak.
-- Maskapai bisa dan memang menolak penumpang naik pesawat jika paspornya tidak memenuhi syarat - bahkan jika negara tujuan sebenarnya akan meloloskan Anda.
+- Banyak negara di Asia dan Afrika menerapkan aturan ini, termasuk destinasi populer seperti Thailand, Indonesia, Vietnam, dan India. Eropa dan sebagian besar negara berbahasa Inggris umumnya tidak.
+- Maskapai bisa dan memang menolak penumpang naik pesawat jika paspornya tidak memenuhi syarat, bahkan jika negara tujuan sebenarnya akan meloloskan Anda.
 - Aturan ini diterapkan secara tidak konsisten: negara yang sama bisa membebaskan sebagian pemegang paspor dan menerapkannya ketat pada yang lain, tergantung perjanjian bilateral.
 - Langkah paling aman adalah memperbarui paspor begitu masa berlakunya turun di bawah 12 bulan, sehingga Anda selalu punya jarak aman yang nyaman.
 
-Petugas imigrasi melihat paspor putri saya, terdiam sejenak, lalu mendongak. "Anda tahu ini akan kedaluwarsa dalam tujuh bulan, kan? Beberapa negara tidak akan mengizinkan Anda masuk dengan masa berlaku kurang dari enam bulan." Kami lolos - nyaris. Tapi momen itu terus terngiang, karena saya sudah memeriksa paspor sebelum memesan tiket, dan tujuh bulan terasa lebih dari cukup. Saya benar-benar lupa soal aturan paspor 6 bulan.
+Petugas imigrasi melihat paspor putri saya, terdiam sejenak, lalu mendongak. "Anda tahu ini akan kedaluwarsa dalam tujuh bulan, kan? Beberapa negara tidak akan mengizinkan Anda masuk dengan masa berlaku kurang dari enam bulan." Kami lolos, nyaris. Tapi momen itu terus terngiang, karena saya sudah memeriksa paspor sebelum memesan tiket, dan tujuh bulan terasa lebih dari cukup. Saya benar-benar lupa soal aturan paspor 6 bulan.
 
-Ini salah satu persyaratan yang paling sering disalahpahami dalam perjalanan internasional: aturan ini menjebak pelancong berpengalaman sesering pemula, dan jika ini perjalanan besar pertama Anda ke luar negeri, inilah aturan yang tidak pernah diperingatkan siapa pun saat Anda memesan tiket. Paspor Anda bisa saja secara teknis masih berlaku - belum kedaluwarsa - namun tetap membuat Anda ditolak di gerbang keberangkatan.
+Ini salah satu persyaratan yang paling sering disalahpahami dalam perjalanan internasional: aturan ini menjebak pelancong berpengalaman sesering pemula, dan jika ini perjalanan besar pertama Anda ke luar negeri, inilah aturan yang tidak pernah diperingatkan siapa pun saat Anda memesan tiket. Paspor Anda bisa saja secara teknis masih berlaku, belum kedaluwarsa, namun tetap membuat Anda ditolak di gerbang keberangkatan.
 
 ## Apa Itu Sebenarnya Aturan Paspor 6 Bulan?
 
 Aturan ini mewajibkan sisa masa berlaku paspor enam bulan untuk perjalanan Anda. Sebagian besar negara menghitungnya dari hari Anda tiba, dan sebagian dari hari Anda berangkat, sehingga menghitung dari tanggal keberangkatan Anda mencakup keduanya. Dalam praktiknya, ini berarti:
 
 - Jika Anda mengunjungi Thailand dan berencana pulang pada 1 Agustus, paspor Anda harus tetap berlaku hingga setidaknya 1 Februari tahun berikutnya.
-- Paspor yang kedaluwarsa pada 30 November secara teknis masih "berlaku" untuk perjalanan Agustus Anda - tapi tidak memenuhi persyaratan ini, kurang dua bulan.
+- Paspor yang kedaluwarsa pada 30 November secara teknis masih "berlaku" untuk perjalanan Agustus Anda — tapi tidak memenuhi persyaratan ini, kurang dua bulan.
 
 Logikanya sederhana: negara ingin memastikan Anda tidak melebihi masa izin tinggal lalu terjebak dengan dokumen yang sudah tidak berguna dan tanpa cara untuk pulang. Enam bulan adalah jarak aman administratif yang praktis.
 
@@ -62,7 +62,7 @@ Tabel ini hanyalah gambaran sekilas, bukan gambaran lengkap: persyaratan juga be
 
 Persyaratan masa berlaku paspor per negara bisa berubah tanpa pemberitahuan, dan perjanjian bilateral bisa diam-diam mengubah aturan untuk paspor Anda secara spesifik. Itulah sebabnya memeriksa sumber resmi terbaru sebelum setiap perjalanan internasional bukanlah sikap berlebihan, melainkan sekadar kebiasaan baik: gunakan IATA Travel Centre, sistem yang sama yang digunakan maskapai untuk memeriksa dokumen penumpang secara real-time.
 
-**Travel Document Vault** akan menandai paspor mana pun yang masa berlakunya kurang dari enam bulan saat perjalanan Anda berakhir - untuk setiap anggota keluarga, secara otomatis. [Unduh gratis di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** akan menandai paspor mana pun yang masa berlakunya kurang dari enam bulan saat perjalanan Anda berakhir — untuk setiap anggota keluarga, secara otomatis. [Unduh gratis di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Bagaimana Maskapai Menerapkan Aturan Ini - Bahkan Saat Negara Tidak
 
@@ -88,9 +88,9 @@ Berhasil melewati keberangkatan tapi ditolak masuk oleh imigrasi di ujung lain j
 
 Perlakukan paspor Anda seperti ban mobil dan jangan menunggu sampai kempes: perbarui begitu masa berlaku turun di bawah 12 bulan, yang memberi Anda jarak aman enam bulan di atas persyaratan aturan, dengan ruang lebih.
 
-Sebelum perjalanan apa pun, hitung enam bulan ke depan dari hari Anda meninggalkan negara tujuan, yang merupakan tanggal lebih akhir sehingga memenuhi versi mana pun dari aturan ini. Periksa tanggal kedaluwarsa paspor Anda terhadap tanggal itu - bukan hanya tanggal perjalanan Anda.
+Sebelum perjalanan apa pun, hitung enam bulan ke depan dari hari Anda meninggalkan negara tujuan, yang merupakan tanggal lebih akhir sehingga memenuhi versi mana pun dari aturan ini. Periksa tanggal kedaluwarsa paspor Anda terhadap tanggal itu, bukan hanya tanggal perjalanan Anda.
 
-Mengelola beberapa paspor dalam satu keluarga dengan tanggal kedaluwarsa yang berbeda-beda adalah saat semuanya jadi rumit. Travel Document Vault melacak ini secara otomatis - menyimpan tanggal kedaluwarsa paspor setiap anggota keluarga dan mengirimkan pengingat mulai dari delapan bulan sebelumnya, lalu kembali mengingatkan saat tanggalnya semakin dekat, sehingga tidak perlu hitung-hitungan manual sebelum setiap pemesanan. Anda juga bisa menemukan lebih banyak tips praktis tentang dokumen perjalanan di [blog](https://traveldocumentvault.com/id/blog/) kami.
+Mengelola beberapa paspor dalam satu keluarga dengan tanggal kedaluwarsa yang berbeda-beda adalah saat semuanya jadi rumit. Travel Document Vault melacak ini secara otomatis — menyimpan tanggal kedaluwarsa paspor setiap anggota keluarga dan mengirimkan pengingat mulai dari delapan bulan sebelumnya, lalu kembali mengingatkan saat tanggalnya semakin dekat, sehingga tidak perlu hitung-hitungan manual sebelum setiap pemesanan. Anda juga bisa menemukan lebih banyak tips praktis tentang dokumen perjalanan di [blog](https://traveldocumentvault.com/id/blog/) kami.
 
 ## Catatan tentang Memeriksa Persyaratan Sebelum Anda Bepergian
 
@@ -102,7 +102,7 @@ Sumber tepercaya untuk diperiksa sebelum perjalanan internasional apa pun:
 - **Nasihat perjalanan resmi dari pemerintah Anda** - Inggris: GOV.UK/foreign-travel-advice, AS: travel.state.gov, Australia: smartraveller.gov.au
 - **Situs resmi otoritas imigrasi atau visa negara tujuan**
 
-Sumber-sumber ini memberi tahu Anda persyaratan resminya dan apakah itu berlaku untuk pemegang paspor spesifik Anda. Jangan mengandalkan forum perjalanan atau tulisan blog tahun lalu - langsung ke sumbernya.
+Sumber-sumber ini memberi tahu Anda persyaratan resminya dan apakah itu berlaku untuk pemegang paspor spesifik Anda. Jangan mengandalkan forum perjalanan atau tulisan blog tahun lalu, langsung ke sumbernya.
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 
@@ -114,7 +114,7 @@ Tergantung negara tujuannya. Negara yang menerapkan aturan 6 bulan, termasuk Tha
 
 ### Apa sebenarnya aturan paspor 6 bulan, dan mengapa aturan ini ada?
 
-Aturan paspor 6 bulan mewajibkan sisa masa berlaku paspor enam bulan untuk perjalanan Anda. Sebagian besar negara mengukurnya dari hari Anda tiba, dan sebagian dari hari Anda berangkat. Jika kedaluwarsa dalam rentang waktu itu, Anda bisa ditolak naik pesawat atau ditolak masuk - meskipun paspor itu sendiri secara teknis belum kedaluwarsa.
+Aturan paspor 6 bulan mewajibkan sisa masa berlaku paspor enam bulan untuk perjalanan Anda. Sebagian besar negara mengukurnya dari hari Anda tiba, dan sebagian dari hari Anda berangkat. Jika kedaluwarsa dalam rentang waktu itu, Anda bisa ditolak naik pesawat atau ditolak masuk, meskipun paspor itu sendiri secara teknis belum kedaluwarsa.
 
 ### Negara mana saja yang menerapkan aturan masa berlaku paspor 6 bulan?
 
@@ -122,11 +122,11 @@ Negara yang umumnya mensyaratkan masa berlaku paspor 6 bulan antara lain Thailan
 
 ### Apakah AS menerapkan aturan paspor 6 bulan?
 
-AS tidak mensyaratkan masa berlaku paspor 6 bulan untuk warga negara AS yang masuk ke negaranya. Tapi warga negara AS yang bepergian ke luar negeri tetap tunduk pada aturan apa pun yang ditetapkan negara tujuan - dan banyak destinasi populer memang menerapkan persyaratan 6 bulan ini.
+AS tidak mensyaratkan masa berlaku paspor 6 bulan untuk warga negara AS yang masuk ke negaranya. Tapi warga negara AS yang bepergian ke luar negeri tetap tunduk pada aturan apa pun yang ditetapkan negara tujuan, dan banyak destinasi populer memang menerapkan persyaratan 6 bulan ini.
 
 ### Bisakah saya ditolak naik pesawat karena aturan 6 bulan?
 
-Ya. Maskapai memeriksa masa berlaku paspor menggunakan basis data persyaratan masuk yang berlaku di seluruh industri. Jika paspor Anda tidak memenuhi persyaratan negara tujuan di atas kertas, maskapai bisa menolak Anda naik pesawat - bahkan jika negara itu sendiri mungkin akan meloloskan Anda dalam praktiknya.
+Ya. Maskapai memeriksa masa berlaku paspor menggunakan basis data persyaratan masuk yang berlaku di seluruh industri. Jika paspor Anda tidak memenuhi persyaratan negara tujuan di atas kertas, maskapai bisa menolak Anda naik pesawat, bahkan jika negara itu sendiri mungkin akan meloloskan Anda dalam praktiknya.
 
 ### Bagaimana cara memeriksa apakah paspor saya memenuhi aturan 6 bulan?
 
@@ -134,11 +134,11 @@ Hitung enam bulan ke depan dari hari Anda meninggalkan negara tujuan, lalu perik
 
 ### Apakah aturan 6 bulan berlaku untuk warga negara UE yang bepergian di dalam Eropa?
 
-Umumnya tidak. Negara UE dan Schengen biasanya hanya mensyaratkan paspor Anda tetap berlaku selama durasi kunjungan Anda - mereka tidak menerapkan aturan perpanjangan 6 bulan untuk perjalanan di dalam Eropa. Namun, beberapa negara UE mungkin mensyaratkan paspor Anda tetap berlaku setidaknya tiga bulan setelah keberangkatan yang Anda rencanakan. Selalu periksa persyaratan masuk khusus untuk negara tujuan Anda, karena aturan bisa bervariasi bahkan di dalam wilayah Schengen.
+Umumnya tidak. Negara UE dan Schengen biasanya hanya mensyaratkan paspor Anda tetap berlaku selama durasi kunjungan Anda, mereka tidak menerapkan aturan perpanjangan 6 bulan untuk perjalanan di dalam Eropa. Namun, beberapa negara UE mungkin mensyaratkan paspor Anda tetap berlaku setidaknya tiga bulan setelah keberangkatan yang Anda rencanakan. Selalu periksa persyaratan masuk khusus untuk negara tujuan Anda, karena aturan bisa bervariasi bahkan di dalam wilayah Schengen.
 
 ### Bagaimana jika paspor satu anggota keluarga memenuhi aturan tapi anggota lain tidak?
 
-Paspor setiap anggota keluarga dinilai secara individual - tidak ada aturan kelompok. Ini berarti satu paspor bisa memenuhi persyaratan 6 bulan sementara paspor lain tidak, yang berpotensi menghalangi orang tersebut untuk bepergian. Periksa setiap paspor dalam kelompok terhadap persyaratan masa berlaku negara tujuan sebelum memesan. Aplikasi seperti Travel Document Vault memungkinkan Anda melacak tanggal kedaluwarsa paspor setiap anggota keluarga secara terpisah, sehingga Anda menemukan celah semacam ini sebelum petugas check-in menemukannya.
+Paspor setiap anggota keluarga dinilai secara individual, tidak ada aturan kelompok. Ini berarti satu paspor bisa memenuhi persyaratan 6 bulan sementara paspor lain tidak, yang berpotensi menghalangi orang tersebut untuk bepergian. Periksa setiap paspor dalam kelompok terhadap persyaratan masa berlaku negara tujuan sebelum memesan. Aplikasi seperti Travel Document Vault memungkinkan Anda melacak tanggal kedaluwarsa paspor setiap anggota keluarga secara terpisah, sehingga Anda menemukan celah semacam ini sebelum petugas check-in menemukannya.
 
 ## Artikel Terkait
 

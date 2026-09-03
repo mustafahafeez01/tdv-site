@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/id/blog/travel-insurance-documents/
 ## Poin Penting
 
 - **Simpan dokumen polis lengkap, nomor polis, dan nomor kontak darurat 24 jam** (bukan nomor penjualan).
-- Simpan salinan secara offline dan dapat diakses - email saja tidak akan membantu saat Anda terdampar atau di rumah sakit.
+- Simpan salinan secara offline dan dapat diakses, email saja tidak akan membantu saat Anda terdampar atau di rumah sakit.
 - **Pra-persetujuan untuk perawatan medis diperlukan oleh sebagian besar polis**, melewatkannya dapat mengurangi atau membatalkan klaim Anda.
 - Klaim ditolak paling sering karena dokumentasi yang hilang: laporan polisi untuk pencurian, kwitansi asli, formulir klaim yang ditandatangani.
 - Baca bagian utama polis Anda dengan cepat dengan fokus pada batas cakupan, pengecualian, dan kondisi.
@@ -24,14 +24,14 @@ Pukul 2 pagi di Bangkok dan Anda keracunan makanan serta demam. Meja resepsi hot
 
 Beberapa dokumen yang hilang bukan hanya tidak nyaman di sini. Mereka menentukan apakah perawatan dimulai segera, apakah Anda membayar dari saku sendiri dan mengajukan klaim nanti, atau apakah klaim ditolak sepenuhnya.
 
-Asuransi perjalanan hanya bekerja jika Anda bisa mengaksesnya saat Anda membutuhkannya. Sebagian besar orang menyimpannya di email dan tidak bisa menemukannya saat krisis terjadi - biasanya saat stres, tekanan waktu, atau keadaan darurat medis.
+Asuransi perjalanan hanya bekerja jika Anda bisa mengaksesnya saat Anda membutuhkannya. Sebagian besar orang menyimpannya di email dan tidak bisa menemukannya saat krisis terjadi — biasanya saat stres, tekanan waktu, atau keadaan darurat medis.
 
 ## Lima Dokumen yang Harus Disimpan Sebelum Anda Terbang
 
 Polis asuransi perjalanan Anda biasanya berupa PDF. Satu file itu berisi semua yang Anda butuhkan, tetapi Anda harus mengekstrak dan menyimpan lima hal ini secara terpisah agar Anda bisa menemukannya secara instan:
 
 - Dokumen polis lengkap (PDF)
-- Nomor polis (ekstrak - tulis juga secara terpisah)
+- Nomor polis (ekstrak, tulis juga secara terpisah)
 - Nomor kontak darurat 24 jam (berbeda dari nomor penjualan atau layanan pelanggan)
 - Bagian apa yang ditanggung (batas pembayaran untuk medis, bagasi, pembatalan, dll.)
 - Pengecualian utama dan kondisi (termasuk persyaratan pra-persetujuan)
@@ -58,7 +58,7 @@ Untuk cadangan, simpan dokumen asuransi Anda ke drive cloud yang dilindungi kata
 
 ### Salinan Fisik dengan Dokumen Perjalanan Anda
 
-Simpan salinan fisik - atau foto berkualitas tinggi dari halaman penting - bersama paspor, dokumen visa, dan dokumen perjalanan lainnya. Jika ponsel Anda mati, ini adalah cadangan Anda.
+Simpan salinan fisik, atau foto berkualitas tinggi dari halaman penting, bersama paspor, dokumen visa, dan dokumen perjalanan lainnya. Jika ponsel Anda mati, ini adalah cadangan Anda.
 
 Kartu tertulis tangan berhasil sama baiknya dengan cetakan: nomor polis, nama perusahaan asuransi, lini darurat. Masukkan ke dalam dompet paspor dan itu akan bertahan dari baterai yang habis, ponsel yang hilang, dan brankas hotel yang tidak bisa Anda buka.
 
@@ -68,7 +68,7 @@ Kartu tertulis tangan berhasil sama baiknya dengan cetakan: nomor polis, nama pe
 |---|---|---|---|
 | **Ponsel (unduhan offline)** | Instan, tidak perlu WiFi | Tersedia segera - opsi tercepat | Hilang dengan ponsel kecuali dicadangkan |
 | **Drive cloud dengan akses offline** | Ya, jika sudah diunduh sebelumnya | Tergantung cache lokal; bekerja jika ponsel telah menyimpan file | Dapat dipulihkan di ponsel pengganti dengan login |
-| **Email** | Memerlukan koneksi internet | Tidak dapat diandalkan - Anda mungkin tidak memiliki sinyal atau data | Masih dapat diakses tetapi memakan waktu untuk dicari |
+| **Email** | Memerlukan koneksi internet | Tidak dapat diandalkan, Anda mungkin tidak memiliki sinyal atau data | Masih dapat diakses tetapi memakan waktu untuk dicari |
 | **Salinan fisik (kartu terlaminasi atau cetakan)** | Ya, selalu dapat diakses | Tercepat jika ponsel Anda mati atau hilang | Hilang jika paspor hilang; simpan di saku terpisah |
 | **Aplikasi terenkripsi (misal Travel Document Vault)** | Ya, disimpan secara lokal di ponsel | Akses instan, dirancang untuk skenario ini | Terenkripsi dan pribadi; cadangan cloud opsional |
 
@@ -78,7 +78,7 @@ Bahkan jika Anda memiliki dokumen yang dapat diakses, Anda masih bisa kehilangan
 
 ### Klaim Medis: Anda Tidak Mendapatkan Pra-persetujuan
 
-Sebagian besar polis asuransi perjalanan memerlukan pra-persetujuan sebelum perawatan. Ini berarti menelepon perusahaan asuransi Anda dan mendapatkan persetujuan sebelum Anda mengunjungi rumah sakit atau klinik. Persyaratan bervariasi menurut perusahaan asuransi dan jenis polis - periksa bagian perawatan medis polis spesifik Anda. Jika Anda lewati langkah ini dan membayar dari saku sendiri, Anda sering ditolak dengan "perawatan tidak dipra-setujui". Banyak perusahaan asuransi tidak akan mengganti biaya tanpa pra-persetujuan, bahkan jika perawatan diperlukan dan ditanggung.
+Sebagian besar polis asuransi perjalanan memerlukan pra-persetujuan sebelum perawatan. Ini berarti menelepon perusahaan asuransi Anda dan mendapatkan persetujuan sebelum Anda mengunjungi rumah sakit atau klinik. Persyaratan bervariasi menurut perusahaan asuransi dan jenis polis, periksa bagian perawatan medis polis spesifik Anda. Jika Anda lewati langkah ini dan membayar dari saku sendiri, Anda sering ditolak dengan "perawatan tidak dipra-setujui". Banyak perusahaan asuransi tidak akan mengganti biaya tanpa pra-persetujuan, bahkan jika perawatan diperlukan dan ditanggung.
 
 Katakanlah Anda dirawat dengan radang usus buntu di Mumbai. Rumah sakit memerlukan pembayaran di muka atau jaminan dari perusahaan asuransi Anda, dan Anda memiliki jendela dua jam sebelum operasi. Tanpa nomor pra-persetujuan perusahaan asuransi Anda, rumah sakit meminta uang tunai. Itu menyisakan dua pilihan buruk: bayar sekarang dan menanggung risiko klaim ditolak berbulan-bulan kemudian, atau menunda operasi sambil mengejar perusahaan asuransi. Satu panggilan menghindari semuanya. Dengan nomor konfirmasi di tangan, rumah sakit menagih perusahaan asuransi Anda langsung.
 

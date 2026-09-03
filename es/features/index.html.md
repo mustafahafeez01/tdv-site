@@ -46,7 +46,7 @@ Pro
 
 ### Asignaciones de Viaje
 
-Define límites de días personalizados por país y por miembro de la familia. Establece tus propios objetivos para saber cuántos días has pasado en el extranjero - como sea que funcionen tus normas de viaje.
+Define límites de días personalizados por país y por miembro de la familia. Establece tus propios objetivos para saber cuántos días has pasado en el extranjero —como sea que funcionen tus normas de viaje.
 
 Pro
 
@@ -58,7 +58,7 @@ Pro
 
 ### Listo para el Embarque
 
-Adjunta números de vuelo, confirmaciones de hotel y referencias de reservas a cualquier viaje. Documentos y reservas en un solo lugar - toca una vez al momento del check-in. Nada que buscar en la puerta de embarque.
+Adjunta números de vuelo, confirmaciones de hotel y referencias de reservas a cualquier viaje. Documentos y reservas en un solo lugar —toca una vez al momento del check-in. Nada que buscar en la puerta de embarque.
 
 ### Listo para Dominar Tu Preparación para Viajes
 
@@ -126,7 +126,7 @@ Almacena tarjetas de regalo, códigos de descuento, entradas de eventos y pases 
 
 ### Posponer Recordatorios
 
-Pausa cualquier recordatorio de vencimiento sin editar el documento. Pospone durante un día, una semana o un mes - el recordatorio se reanuda automáticamente cuando termina el período de pausa.
+Pausa cualquier recordatorio de vencimiento sin editar el documento. Pospone durante un día, una semana o un mes —el recordatorio se reanuda automáticamente cuando termina el período de pausa.
 
 ### Código de Color en Documentos
 
@@ -240,7 +240,7 @@ Sin servidores, sin cuentas, sin seguimiento. Construido por Mustafa Hafeez con 
 
 ### Tus Datos Siguen Siendo Tuyos
 
-Diseñamos esto para que no tengas que confiar en nosotros con tus datos - no tenemos servidores ni acceso, así que por defecto tu bóveda se queda en tu dispositivo. Si eliges una copia de seguridad Pro opcional a tu propio iCloud o Google Drive, está sellada con un código de recuperación que solo tú tienes, uno que seguimos sin poder leer.
+Diseñamos esto para que no tengas que confiar en nosotros con tus datos —no tenemos servidores ni acceso, así que por defecto tu bóveda se queda en tu dispositivo. Si eliges una copia de seguridad Pro opcional a tu propio iCloud o Google Drive, está sellada con un código de recuperación que solo tú tienes, uno que seguimos sin poder leer.
 
 ### Funciona Sin Conexión
 
@@ -296,7 +296,7 @@ Comparte múltiples archivos de documentos originales a la vez a través de la h
 
 #### Eliminación Segura con Deshacer
 
-¿Eliminaste accidentalmente un documento? Toca Deshacer inmediatamente para recuperarlo. ¿Se te pasó la ventana? Se mueve a Eliminados Recientemente, donde se queda durante 30 días antes de eliminarse permanentemente - dándote una red de seguridad sin comprometer tu privacidad.
+¿Eliminaste accidentalmente un documento? Toca Deshacer inmediatamente para recuperarlo. ¿Se te pasó la ventana? Se mueve a Eliminados Recientemente, donde se queda durante 30 días antes de eliminarse permanentemente —dándote una red de seguridad sin comprometer tu privacidad.
 
 **Importante:** Travel Document Vault es una herramienta de organización personal para almacenar copias digitales de tus documentos. **Las copias digitales almacenadas en esta aplicación NO son válidas para viajes.** No verifica la autenticidad de documentos ni proporciona asesoramiento legal o de viaje. Siempre lleva documentos originales y verifica todos los requisitos de viaje con fuentes oficiales del gobierno.
 

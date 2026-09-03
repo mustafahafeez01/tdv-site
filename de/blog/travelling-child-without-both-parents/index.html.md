@@ -32,7 +32,7 @@ Zwei Dinge liegen außerhalb dieses Briefs und lohnen sich, zusätzlich mitgefü
 
 ## Alleiniges Sorgerecht: Wenn der Gerichtsbeschluss das entscheidende Dokument ist
 
-Alleiniges Sorgerecht ändert, welches Dokument zählt, statt die Notwendigkeit eines Dokuments aufzuheben. Wenn ein Gericht Ihnen das alleinige Sorgerecht oder die alleinige elterliche Sorge zugesprochen hat, ist an der Grenze oft der Sorgerechtsbeschluss selbst - oder eine beglaubigte Kopie davon - nützlicher als ein Brief des anderen Elternteils. Viele Grenzbehörden akzeptieren den Beschluss anstelle einer Einverständniserklärung, und manche verlangen ihn ohnehin zusätzlich zu sehen. Belässt der Beschluss dem anderen Elternteil ein Umgangs- oder Kontaktrecht, lohnt sich trotzdem ein Brief von ihm.
+Alleiniges Sorgerecht ändert, welches Dokument zählt, statt die Notwendigkeit eines Dokuments aufzuheben. Wenn ein Gericht Ihnen das alleinige Sorgerecht oder die alleinige elterliche Sorge zugesprochen hat, ist an der Grenze oft der Sorgerechtsbeschluss selbst – oder eine beglaubigte Kopie davon – nützlicher als ein Brief des anderen Elternteils. Viele Grenzbehörden akzeptieren den Beschluss anstelle einer Einverständniserklärung, und manche verlangen ihn ohnehin zusätzlich zu sehen. Belässt der Beschluss dem anderen Elternteil ein Umgangs- oder Kontaktrecht, lohnt sich trotzdem ein Brief von ihm.
 
 Reisen Sie mit dem Beschluss oder einer beglaubigten Kopie davon. In einem Aktenordner zu Hause nützt er nichts. Beamte, die nachfragen, suchen meist eine einfache Antwort auf eine Frage: Hat dieser Erwachsene die rechtliche Befugnis, diese Entscheidung für dieses Kind zu treffen. Eine beglaubigte Kopie beantwortet das in Sekunden, und wenn sich Ihre Sorgerechtsregelung kürzlich geändert hat, lohnt es sich zu prüfen, ob Ihr Reiseziel eine aktuellere Kopie erwartet als die, die Sie seit Jahren mit sich führen.
 
@@ -62,7 +62,7 @@ Der begleitende Erwachsene sollte außerdem die Geburtsurkunde des Kindes mitfü
 
 Auch bei vollständig vorliegenden Unterlagen kann ein Grenzbeamter oder Check-in-Mitarbeiter noch einige Fragen stellen, und es hilft zu wissen, was dieses Gespräch tatsächlich ist: eine kurze Überprüfung, keine Anschuldigung. Die Fragen bleiben meist einfach: wo die Familie lebt, wie die Reise zustande kam, und wie das Kind mit dem Erwachsenen an seiner Seite verwandt ist. Ein Kind, das kurz mit eigenen Worten antworten kann, bringt die Sache oft schneller voran als ein nervöser Erwachsener, der für es antwortet.
 
-Steht eine Telefonnummer auf einer Einverständniserklärung oder einem Sorgerechtsbeschluss, seien Sie darauf vorbereitet, dass sie angerufen wird. Dieser Anruf ist Routine. Alle hier genannten Unterlagen mitzuführen garantiert keine null Fragen, bedeutet aber, dass Sie, wenn Fragen kommen, für jede eine Antwort bereit haben - was diese Gespräche am Schalter in der Regel klärt.
+Steht eine Telefonnummer auf einer Einverständniserklärung oder einem Sorgerechtsbeschluss, seien Sie darauf vorbereitet, dass sie angerufen wird. Dieser Anruf ist Routine. Alle hier genannten Unterlagen mitzuführen garantiert keine null Fragen, bedeutet aber, dass Sie, wenn Fragen kommen, für jede eine Antwort bereit haben – was diese Gespräche am Schalter in der Regel klärt.
 
 ## Ein Bündel pro Situation
 

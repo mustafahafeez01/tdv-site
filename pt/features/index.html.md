@@ -46,7 +46,7 @@ Pro
 
 ### Regras de limite personalizadas
 
-Defina limites de dias personalizados por país e por membro da família. Configure seus próprios objetivos para estar ciente de quantos dias você passou no exterior - seja qual for a forma como suas regras de viagem funcionam.
+Defina limites de dias personalizados por país e por membro da família. Configure seus próprios objetivos para estar ciente de quantos dias você passou no exterior — seja qual for a forma como suas regras de viagem funcionam.
 
 Pro
 
@@ -58,7 +58,7 @@ Pro
 
 ### Pronto para Embarque
 
-Anexe números de voo, confirmações de hotel e referências de reserva a qualquer viagem. Documentos e reservas em um único lugar - toque uma vez no check-in. Nada para procurar no portão de embarque.
+Anexe números de voo, confirmações de hotel e referências de reserva a qualquer viagem. Documentos e reservas em um único lugar — toque uma vez no check-in. Nada para procurar no portão de embarque.
 
 ### Desfazer em 30 Dias
 
@@ -124,7 +124,7 @@ Guarde cartões de oferta, códigos de desconto, bilhetes de eventos e passes de
 
 ### Adiar Lembretes
 
-Pause qualquer lembrete de vencimento sem editar o documento. Adie por um dia, uma semana ou um mês - o lembrete retoma automaticamente quando o período de adiamento termina.
+Pause qualquer lembrete de vencimento sem editar o documento. Adie por um dia, uma semana ou um mês — o lembrete retoma automaticamente quando o período de adiamento termina.
 
 ### Codificar Documentos por Cor
 
@@ -252,7 +252,7 @@ Partilhe vários ficheiros de documentos originais de uma vez através do painel
 
 #### Eliminação Segura com Desfazer
 
-Eliminou um documento acidentalmente? Toque em Desfazer imediatamente para restaurá-lo. Perdeu a janela? Move-se para Eliminados Recentemente, onde fica durante 30 dias antes de ser eliminado permanentemente - proporcionando-lhe uma rede de segurança sem comprometer a sua privacidade.
+Eliminou um documento acidentalmente? Toque em Desfazer imediatamente para restaurá-lo. Perdeu a janela? Move-se para Eliminados Recentemente, onde fica durante 30 dias antes de ser eliminado permanentemente — proporcionando-lhe uma rede de segurança sem comprometer a sua privacidade.
 
 Privacidade e Segurança
 
@@ -262,7 +262,7 @@ Nenhum servidor, nenhuma conta, nenhum rastreamento. Construído por Mustafa Haf
 
 ### Os Seus Dados Permanecem Seus
 
-Desenhámos isto para não ter de nos confiar com os seus dados - não temos servidores nem acesso, pelo que por predefinição o cofre fica no seu dispositivo. Se optar pela cópia de segurança Pro opcional para o seu iCloud ou Google Drive, fica selada com um código de recuperação apenas para si, que ainda não conseguimos ler.
+Desenhámos isto para não ter de nos confiar com os seus dados — não temos servidores nem acesso, pelo que por predefinição o cofre fica no seu dispositivo. Se optar pela cópia de segurança Pro opcional para o seu iCloud ou Google Drive, fica selada com um código de recuperação apenas para si, que ainda não conseguimos ler.
 
 ### Funciona Offline
 

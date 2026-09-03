@@ -28,9 +28,9 @@ Se ainda tem esse passaporte depende inteiramente do seu país e do seu método 
 
 A renovação de passaporte dos EUA por correio padrão não requer que entregue o seu passaporte atual antes da chegada do novo. Completa o formulário DS-82, anexa o seu passaporte existente e envia tudo por correio para o Centro Nacional de Processamento de Passaportes. O seu antigo passaporte é devolvido a si juntamente com o novo, normalmente cancelado com um furo de perfurador.
 
-Isto significa que as viagens domésticas nos Estados Unidos não são afectadas durante todo o processo de renovação - não precisa de um passaporte para voos domésticos. As viagens internacionais são uma história diferente: não pode viajar internacionalmente até que o seu novo passaporte chegue, e não pode usar o antigo passaporte cancelado mesmo que o tenha na mão.
+Isto significa que as viagens domésticas nos Estados Unidos não são afectadas durante todo o processo de renovação — não precisa de um passaporte para voos domésticos. As viagens internacionais são uma história diferente: não pode viajar internacionalmente até que o seu novo passaporte chegue, e não pode usar o antigo passaporte cancelado mesmo que o tenha na mão.
 
-O tempo de processamento padrão muda, e o Departamento de Estado publica a cifra atual em travel.state.gov, por isso verifique-a antes de planear. Se a sua viagem estiver marcada antes da data em que espera receber o novo passaporte, o processamento expedido está disponível por uma taxa adicional e reduz a espera de forma notável. Para viagens genuinamente urgentes, estão disponíveis consultas presenciais nas agências regionais de passaportes - verifique a elegibilidade atual em travel.state.gov.
+O tempo de processamento padrão muda, e o Departamento de Estado publica a cifra atual em travel.state.gov, por isso verifique-a antes de planear. Se a sua viagem estiver marcada antes da data em que espera receber o novo passaporte, o processamento expedido está disponível por uma taxa adicional e reduz a espera de forma notável. Para viagens genuinamente urgentes, estão disponíveis consultas presenciais nas agências regionais de passaportes — verifique a elegibilidade atual em travel.state.gov.
 
 ## Reino Unido: Dois Processos com Resultados Opostos
 
@@ -52,7 +52,7 @@ O Serviço de Passaportes Australiano publica os seus tempos de processamento at
 
 ## Canadá: Entregue Aquando da Candidatura
 
-O Canadá requer que entregue o seu passaporte existente quando se candidata à renovação. O seu antigo passaporte é mantido até que o novo esteja pronto, portanto não pode viajar internacionalmente durante este período - embora as viagens domésticas dentro do Canadá não requeiram passaporte.
+O Canadá requer que entregue o seu passaporte existente quando se candidata à renovação. O seu antigo passaporte é mantido até que o novo esteja pronto, portanto não pode viajar internacionalmente durante este período — embora as viagens domésticas dentro do Canadá não requeiram passaporte.
 
 O Service Canada publica os seus padrões de processamento atuais, que variam consoante se candidata presencialmente, por correio ou num Centro de Serviços Canada, mais o tempo de correio. Para viagens urgentes existem opções de serviço expresso e levantamento urgente por taxas adicionais. Verifique os tempos de processamento actuais e candidature-se em canada.ca.
 
@@ -82,7 +82,7 @@ O teste prático é simples. Se o passaporte está cancelado, caducado ou num se
 
 ## Se a Sua Viagem For Mais Cedo do Que a Sua Cronologia de Renovação
 
-Não espere para contactar o serviço de passaportes do seu país por telefone - pergunte especificamente sobre opções de processamento expedido, urgente ou consultas de emergência. Estes existem em todos os países aqui listados, mas a disponibilidade muda semana a semana e os slots de consulta desaparecem rapidamente.
+Não espere para contactar o serviço de passaportes do seu país por telefone — pergunte especificamente sobre opções de processamento expedido, urgente ou consultas de emergência. Estes existem em todos os países aqui listados, mas a disponibilidade muda semana a semana e os slots de consulta desaparecem rapidamente.
 
 Ao mesmo tempo, contacte a sua companhia aérea sobre remarcação. Algumas transportadoras irão dispensar taxas de mudança quando um problema genuíno de documento é a razão. Obtenha qualquer acordo por escrito. Se tem seguro de viagem, verifique a sua apólice para cobertura de custos resultantes de atrasos de passaporte ou problemas de documentos.
 

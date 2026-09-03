@@ -109,4 +109,4 @@ Source: https://traveldocumentvault.com/uk/blog/damaged-passport-travel/
 
 [Надзвичайна ситуація в подорожі6 хв читання · квітень 2026Що робити, якщо паспорт загубився або його вкрали за кордоном](https://traveldocumentvault.com/uk/blog/lost-passport-abroad/)
 
-[Закінчення терміну паспорта7 хв читання · травень 2026Паспорт закінчився прямо перед поїздкою - що робити](https://traveldocumentvault.com/uk/blog/passport-expired-what-to-do/)
+[Закінчення терміну паспорта7 хв читання · травень 2026Паспорт закінчився прямо перед поїздкою — що робити](https://traveldocumentvault.com/uk/blog/passport-expired-what-to-do/)

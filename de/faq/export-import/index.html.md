@@ -68,7 +68,7 @@ Navigieren Sie zu dem Ort, an dem Sie die exportierte Tresordatei gespeichert ha
 
 - **Nicht destruktiv:** Importieren fügt zu vorhandenen Daten hinzu. Wenn auf dem Zielgerät bereits Profile vorhanden sind, werden importierte Profile hinzugefügt, ohne vorhandene zu löschen.
 - **Wiederholungstreue:** Alles wird genau bewahrt: Dokumentnamen, Daten, Verfallswarnungen, benutzerdefinierte Farben, Anhänge und Notizen.
-- **Durchgehend verschlüsselt:** Die exportierte Datei wird mit dem Passwort verschlüsselt, das Sie beim Exportieren wählen, unter Verwendung von AES-256-GCM mit PBKDF2-Schlüsselableitung. Nur dieses Passwort kann sie entschlüsseln, bewahren Sie es also an einem sicheren Ort auf - ohne dieses Passwort kann die Datei nicht wiederhergestellt werden.
+- **Durchgehend verschlüsselt:** Die exportierte Datei wird mit dem Passwort verschlüsselt, das Sie beim Exportieren wählen, unter Verwendung von AES-256-GCM mit PBKDF2-Schlüsselableitung. Nur dieses Passwort kann sie entschlüsseln, bewahren Sie es also an einem sicheren Ort auf – ohne dieses Passwort kann die Datei nicht wiederhergestellt werden.
 - **Best Practice für Sicherung:** Bewahren Sie Ihre exportierte Datei an einem sicheren Ort auf. Löschen Sie sie nach einem erfolgreichen Import, wenn Sie möchten, oder bewahren Sie sie als offline-Sicherung auf.
 
 **Haftungsausschluss:** Export-Import ist für die Datenportabilität konzipiert. Halten Sie exportierte Dateien sicher. Geben Sie die exportierte Sicherung nicht an Dritte weiter, da sie alle Ihre verschlüsselten Dokumente und Anhänge enthält.

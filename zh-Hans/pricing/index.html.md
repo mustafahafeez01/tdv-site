@@ -1,6 +1,6 @@
 # Travel Document Vault 定价 - 一次性购买，无订阅
 
-> Travel Document Vault 一次性费用为 a one-time purchase。无订阅、无隐藏费用。一次购买涵盖您的整个家庭。免费版本可用。
+> Travel Document Vault 只需一次性付费。无订阅、无隐藏费用。一次购买涵盖您的整个家庭。免费版本可用。
 
 Source: https://traveldocumentvault.com/zh-Hans/pricing/
 
@@ -23,7 +23,7 @@ Source: https://traveldocumentvault.com/zh-Hans/pricing/
 - PIN + 生物识别锁（Face ID / Touch ID）
 - 1 个档案
 - 最多 5 份文件
-- 最近删除 - 30 天撤销窗口
+- 最近删除：30 天撤销窗口
 
 所有数据始终保留在您的设备上。
 
@@ -62,7 +62,7 @@ One-time
 - PIN + 生物识别锁（Face ID / Touch ID）
 - 1 个档案
 - 最多 5 份文件
-- 最近删除 - 30 天撤销窗口
+- 最近删除：30 天撤销窗口
 
 所有数据始终保留在您的设备上。
 
@@ -92,7 +92,7 @@ One-time 一次性 适合您的整个家庭。一次付费。所有 v1.x 更新�
 
 随时使用您购买时使用的 App Store 或 Google Play 账户恢复购买。
 
-旅行准备、签证和税务天数计数功能仅供参考 - 请始终向官方来源核实。
+旅行准备、签证和税务天数计数功能仅供参考——请始终向官方来源核实。
 
 [完整定价详情和常见问题](https://traveldocumentvault.com/zh-Hans/pricing/)
 
@@ -116,13 +116,13 @@ Pro 适合家庭。您整个家庭的无限档案、无限文件、带视觉准�
 
 ## 一次购买，整个家庭
 
-当您购买 Pro 时，您不是按人头或按设备付费。您创建一个包含无限档案的保险库 - 一个给您、一个给您的伴侣、一个给每个孩子。每个人的文件。一次 a one-time purchase费用。
+当您购买 Pro 时，您不是按人头或按设备付费。您创建一个包含无限档案的保险库——一个给您、一个给您的伴侣、一个给每个孩子。每个人的文件。只需一次性费用。
 
 无订阅。无座位定价。无按家庭成员收费。
 
 ## 定价问题
 
-Travel Document Vault 需要多少费用？ Travel Document Vault 提供永久免费版本 - 1 个档案，最多 5 份文件，包括到期提醒、文件共享和加密等所有核心功能。Pro 一次性费用为 a one-time purchase，解锁无限档案、无限文件、加密云备份、旅行规划器和境外天数追踪器。 Travel Document Vault 是订阅吗？ 否。Travel Document Vault 是一次性购买。您一次性支付 a one-time purchase购买 Pro，永久拥有。无循环费用、无需取消订阅，也无任何会悄悄开始收费的试用。免费版本也永久免费。 免费版本与 Pro 版本有什么区别？ 免费：1 个档案、最多 5 份文件、到期提醒、文件共享、PIN 和生物识别锁、设备端加密、离线访问。Pro 增加：用于您的家庭的无限档案、无限文件、带家庭准备状态流量灯的旅行规划器、加密云备份到您自己的 iCloud 或 Google Drive、用于签证和税务限制的境外天数追踪器和自定义提醒时间。 我是否需要按家庭成员或按设备付费？ 否。Pro 是一次性的账户购买。购买后，您可以添加无限的家庭成员（档案）并在同一 App Store 或 Google Play 账户下的多个设备上使用该应用。一次购买。整个家庭。 '包括所有 v1.x 更新' 是什么意思？ 您的 a one-time purchase购买涵盖当前主版本 (v1.x) 内的每次更新，包括错误修复、安全补丁和新功能。只要您使用该应用，这就适用。如果我们曾发布包含重大架构更改的 v2.0，早期采用者将获得优先升级价格和永久保留 v1.x Pro 的选项。有关详细信息，请参阅我们的完整 [版本政策](https://traveldocumentvault.com/pricing-policy/#version-policy)。
+Travel Document Vault 需要多少费用？ Travel Document Vault 提供永久免费版本——1 个档案，最多 5 份文件，包括到期提醒、文件共享和加密等所有核心功能。Pro 为一次性购买，解锁无限档案、无限文件、加密云备份、旅行规划器和境外天数追踪器。 Travel Document Vault 是订阅吗？ 否。Travel Document Vault 是一次性购买。您购买 Pro 后即可永久拥有。无循环费用、无需取消订阅，也无任何会悄悄开始收费的试用。免费版本也永久免费。 免费版本与 Pro 版本有什么区别？ 免费：1 个档案、最多 5 份文件、到期提醒、文件共享、PIN 和生物识别锁、设备端加密、离线访问。Pro 增加：用于您的家庭的无限档案、无限文件、带家庭准备状态流量灯的旅行规划器、加密云备份到您自己的 iCloud 或 Google Drive、用于签证和税务限制的境外天数追踪器和自定义提醒时间。 我是否需要按家庭成员或按设备付费？ 否。Pro 是一次性的账户购买。购买后，您可以添加无限的家庭成员（档案）并在同一 App Store 或 Google Play 账户下的多个设备上使用该应用。一次购买。整个家庭。 '包括所有 v1.x 更新' 是什么意思？ 您的一次性购买涵盖当前主版本 (v1.x) 内的每次更新，包括错误修复、安全补丁和新功能。只要您使用该应用，这就适用。如果我们曾发布包含重大架构更改的 v2.0，早期采用者将获得优先升级价格和永久保留 v1.x Pro 的选项。有关详细信息，请参阅我们的完整 [版本政策](https://traveldocumentvault.com/pricing-policy/#version-policy)。
 
 ## 准备减少一件担心的事？
 

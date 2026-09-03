@@ -11,21 +11,21 @@ Source: https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/
 ## Vigtigste punkter
 
 - **6-måneders-reglen for pas** betyder, at dit pas skal have seks måneders gyldighed tilbage, når du rejser. De fleste lande regner det fra den dag, du ankommer, og nogle fra den dag, du rejser hjem, så at regne fra din afrejsedato er den sikreste vane: den opfylder begge.
-- Mange lande i Asien og Afrika håndhæver reglen - herunder populære rejsemål som Thailand, Indonesien, Vietnam og Indien. Europa og de fleste engelsktalende lande gør det generelt ikke.
-- Flyselskaber kan og vil nægte ombordstigning, hvis dit pas ikke slår til - selv hvis destinationslandet i sig selv ville have lukket dig ind.
+- Mange lande i Asien og Afrika håndhæver reglen – herunder populære rejsemål som Thailand, Indonesien, Vietnam og Indien. Europa og de fleste engelsktalende lande gør det generelt ikke.
+- Flyselskaber kan og vil nægte ombordstigning, hvis dit pas ikke slår til – selv hvis destinationslandet i sig selv ville have lukket dig ind.
 - Reglen anvendes inkonsekvent: det samme land kan give dispensation for nogle pasindehavere og håndhæve den for andre, afhængigt af bilaterale aftaler.
 - Det sikreste er at forny passet, så snart gyldigheden kommer under 12 måneder, så du altid har en behagelig margin.
 
-Grænsebetjenten kiggede på min datters pas, tøvede, og kiggede så op. "Du er klar over, det udløber om syv måneder, ikke? Nogle lande lukker dig ikke ind med mindre end seks måneders gyldighed." Vi slap igennem - lige akkurat. Men det øjeblik hængte ved mig, for jeg havde tjekket passet før booking, og syv måneder havde føltes som rigeligt. Jeg havde helt glemt 6-måneders-reglen for pas.
+Grænsebetjenten kiggede på min datters pas, tøvede, og kiggede så op. "Du er klar over, det udløber om syv måneder, ikke? Nogle lande lukker dig ikke ind med mindre end seks måneders gyldighed." Vi slap igennem – lige akkurat. Men det øjeblik hængte ved mig, for jeg havde tjekket passet før booking, og syv måneder havde føltes som rigeligt. Jeg havde helt glemt 6-måneders-reglen for pas.
 
-Det er et af de mest misforståede krav inden for international rejse: det rammer erfarne rejsende lige så ofte som førstegangsrejsende, og er dette din første store udlandsrejse, er det reglen, ingen advarer dig om ved booking. Dit pas kan være teknisk gyldigt - ikke udløbet - og alligevel få dig afvist ved gaten.
+Det er et af de mest misforståede krav inden for international rejse: det rammer erfarne rejsende lige så ofte som førstegangsrejsende, og er dette din første store udlandsrejse, er det reglen, ingen advarer dig om ved booking. Dit pas kan være teknisk gyldigt – ikke udløbet – og alligevel få dig afvist ved gaten.
 
 ## Hvad er egentlig 6-måneders-reglen for pas?
 
 Reglen kræver seks måneders pasgyldighed til din rejse. De fleste lande regner det fra den dag, du ankommer, og nogle fra den dag, du rejser hjem, så at regne fra din afrejsedato dækker begge tilfælde. I praksis betyder det:
 
 - Skal du besøge Thailand og planlægger at rejse hjem den 1. august, skal passet være gyldigt til mindst den 1. februar året efter.
-- Et pas, der udløber den 30. november, er teknisk "gyldigt" til din augustrejse - men det opfylder ikke kravet, med to måneders margin.
+- Et pas, der udløber den 30. november, er teknisk "gyldigt" til din augustrejse – men det opfylder ikke kravet, med to måneders margin.
 
 Logikken er enkel: lande vil have sikkerhed for, at du ikke overskrider dit visum og derefter står med et udløbet dokument uden mulighed for at komme hjem. Seks måneder er en bekvem administrativ margin.
 
@@ -60,11 +60,11 @@ Tabellen nedenfor dækker de mest almindelige rejsemål. Regler ændrer sig, så
 
 Tabellen er et øjebliksbillede, ikke det fulde overblik: kravene varierer også efter din nationalitet, ikke kun destinationen, så tjek altid dit lands officielle rejsevejledning, før du booker.
 
-Paskrav efter land ændrer sig uden varsel, og en bilateral aftale kan stille og roligt ændre reglerne for netop dit pas, hvilket er grunden til, at det ikke er paranoia at tjekke en opdateret officiel kilde før hver international rejse - det er bare god praksis: brug IATA Travel Centre, det samme system flyselskaberne bruger til at tjekke passagerdokumenter i realtid.
+Paskrav efter land ændrer sig uden varsel, og en bilateral aftale kan stille og roligt ændre reglerne for netop dit pas, hvilket er grunden til, at det ikke er paranoia at tjekke en opdateret officiel kilde før hver international rejse – det er bare god praksis: brug IATA Travel Centre, det samme system flyselskaberne bruger til at tjekke passagerdokumenter i realtid.
 
-**Travel Document Vault** markerer ethvert pas, der ikke længere har seks måneders gyldighed tilbage, når din rejse slutter - for hvert familiemedlem, automatisk. [Hent gratis fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** markerer ethvert pas, der ikke længere har seks måneders gyldighed tilbage, når din rejse slutter – for hvert familiemedlem, automatisk. [Hent gratis fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
-## Sådan håndhæver flyselskaberne reglen - selv når landene ikke gør det
+## Sådan håndhæver flyselskaberne reglen – selv når landene ikke gør det
 
 Her er noget, de fleste ikke ved: flyselskaber er ansvarlige for at sikre, at passagerer opfylder indrejsekravene på destinationen. Flyver de en passager, der bliver nægtet indrejse, betaler flyselskabet for at sende personen hjem.
 
@@ -88,9 +88,9 @@ At komme forbi afrejsen, men blive nægtet indrejse af immigrationsmyndighederne
 
 Behandl dit pas som et bildæk, og vent ikke, til det er fladt: forny det, så snart gyldigheden kommer under 12 måneder, hvilket giver dig en margin på seks måneder oveni reglen, med god plads til overs.
 
-Tæl seks måneder frem fra den dag, du forlader destinationen, før enhver rejse - det er den seneste dato og opfylder dermed begge versioner af reglen. Tjek dit pas' udløbsdato mod den dato - ikke bare dine rejsedatoer.
+Tæl seks måneder frem fra den dag, du forlader destinationen, før enhver rejse – det er den seneste dato og opfylder dermed begge versioner af reglen. Tjek dit pas' udløbsdato mod den dato – ikke bare dine rejsedatoer.
 
-At holde styr på flere pas i en familie med forskellige udløbsdatoer er der, hvor det bliver rodet. Travel Document Vault sporer det automatisk - gemmer hvert familiemedlems pasudløb og sender påmindelser fra otte måneder før, og igen efterhånden som datoen nærmer sig, så der ikke er nogen hovedregning før hver booking. Du kan også finde flere praktiske tips om rejsedokumenter på [bloggen](https://traveldocumentvault.com/da/blog/).
+At holde styr på flere pas i en familie med forskellige udløbsdatoer er der, hvor det bliver rodet. Travel Document Vault sporer det automatisk – gemmer hvert familiemedlems pasudløb og sender påmindelser fra otte måneder før, og igen efterhånden som datoen nærmer sig, så der ikke er nogen hovedregning før hver booking. Du kan også finde flere praktiske tips om rejsedokumenter på [bloggen](https://traveldocumentvault.com/da/blog/).
 
 ## En bemærkning om at tjekke krav, før du rejser
 
@@ -102,7 +102,7 @@ Pålidelige kilder at tjekke før enhver international rejse:
 - **Dit lands officielle rejsevejledning** - Storbritannien: GOV.UK/foreign-travel-advice, USA: travel.state.gov, Australien: smartraveller.gov.au
 - **Destinationslandets officielle hjemmeside for immigrations- eller visummyndigheder**
 
-Disse kilder fortæller dig det officielle krav, og om det gælder for indehavere af netop dit pas. Stol ikke på rejseforummer eller sidste års blogindlæg - gå til kilden.
+Disse kilder fortæller dig det officielle krav, og om det gælder for indehavere af netop dit pas. Stol ikke på rejseforummer eller sidste års blogindlæg – gå til kilden.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
@@ -114,7 +114,7 @@ Det afhænger af rejsemålet. Lande, der håndhæver 6-måneders-reglen, herunde
 
 ### Hvad er 6-måneders-reglen for pas helt konkret, og hvorfor findes den?
 
-6-måneders-reglen for pas kræver seks måneders pasgyldighed til din rejse. De fleste lande måler det fra den dag, du ankommer, og nogle fra den dag, du rejser hjem. Udløber det inden for det tidsrum, kan du blive nægtet ombordstigning eller indrejse - selvom passet i praksis ikke er udløbet endnu.
+6-måneders-reglen for pas kræver seks måneders pasgyldighed til din rejse. De fleste lande måler det fra den dag, du ankommer, og nogle fra den dag, du rejser hjem. Udløber det inden for det tidsrum, kan du blive nægtet ombordstigning eller indrejse – selvom passet i praksis ikke er udløbet endnu.
 
 ### Hvilke lande håndhæver 6-måneders-reglen for pas?
 
@@ -122,11 +122,11 @@ Lande, der almindeligvis kræver 6 måneders pasgyldighed, omfatter blandt andet
 
 ### Håndhæver USA 6-måneders-reglen for pas?
 
-USA kræver ikke 6 måneders pasgyldighed for amerikanske statsborgere, der rejser ind i landet. Men amerikanske statsborgere, der rejser i udlandet, er stadig underlagt de regler, destinationslandet fastsætter - og mange populære rejsemål håndhæver rent faktisk 6-måneders-kravet.
+USA kræver ikke 6 måneders pasgyldighed for amerikanske statsborgere, der rejser ind i landet. Men amerikanske statsborgere, der rejser i udlandet, er stadig underlagt de regler, destinationslandet fastsætter – og mange populære rejsemål håndhæver rent faktisk 6-måneders-kravet.
 
 ### Kan jeg blive nægtet ombordstigning på grund af 6-måneders-reglen?
 
-Ja. Flyselskaber tjekker pasgyldighed ved hjælp af en brancheomfattende database over indrejsekrav. Hvis dit pas ikke opfylder destinationens krav på papiret, kan flyselskabet nægte at lade dig gå ombord - selv hvis landet selv i praksis måske ville have lukket dig ind.
+Ja. Flyselskaber tjekker pasgyldighed ved hjælp af en brancheomfattende database over indrejsekrav. Hvis dit pas ikke opfylder destinationens krav på papiret, kan flyselskabet nægte at lade dig gå ombord – selv hvis landet selv i praksis måske ville have lukket dig ind.
 
 ### Hvordan tjekker jeg, om mit pas overholder 6-måneders-reglen?
 
@@ -134,11 +134,11 @@ Tæl seks måneder frem fra den dag, du forlader destinationen, og tjek derefter
 
 ### Gælder 6-måneders-reglen for EU-borgere, der rejser inden for Europa?
 
-Generelt nej. EU- og Schengenlande kræver typisk kun, at dit pas er gyldigt i hele opholdets varighed - de anvender ikke 6-måneders-forlængelsesreglen for rejser inden for Europa. Nogle EU-lande kan dog kræve, at dit pas er gyldigt i mindst tre måneder ud over din planlagte afrejse. Tjek altid de specifikke indrejsekrav for dit rejsemål, da reglerne kan variere selv inden for Schengenområdet.
+Generelt nej. EU- og Schengenlande kræver typisk kun, at dit pas er gyldigt i hele opholdets varighed – de anvender ikke 6-måneders-forlængelsesreglen for rejser inden for Europa. Nogle EU-lande kan dog kræve, at dit pas er gyldigt i mindst tre måneder ud over din planlagte afrejse. Tjek altid de specifikke indrejsekrav for dit rejsemål, da reglerne kan variere selv inden for Schengenområdet.
 
 ### Hvad hvis ét familiemedlems pas overholder reglen, men et andets ikke gør?
 
-Hvert familiemedlems pas vurderes individuelt - der findes ingen gruppregel. Det betyder, at ét pas kan opfylde 6-måneders-kravet, mens et andet ikke gør, hvilket potentielt kan forhindre den person i at rejse. Tjek hvert pas i gruppen mod destinationens gyldighedskrav, før I booker. Apps som Travel Document Vault lader dig spore hvert familiemedlems pasudløb separat, så du fanger den slags huller, før indtjekningen gør.
+Hvert familiemedlems pas vurderes individuelt – der findes ingen gruppregel. Det betyder, at ét pas kan opfylde 6-måneders-kravet, mens et andet ikke gør, hvilket potentielt kan forhindre den person i at rejse. Tjek hvert pas i gruppen mod destinationens gyldighedskrav, før I booker. Apps som Travel Document Vault lader dig spore hvert familiemedlems pasudløb separat, så du fanger den slags huller, før indtjekningen gør.
 
 ## Relaterede artikler
 

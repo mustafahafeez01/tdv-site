@@ -18,11 +18,11 @@ Source: https://traveldocumentvault.com/nl/blog/child-travel-consent-letter/
 
 Een toestemmingsbrief heeft aan de incheckbalie één taak: laten zien dat de volwassene die met het kind reist de instemming heeft van de afwezige ouder. De meeste worden zonder opmerking geaccepteerd. Wat vertraging oplevert, struikelt meestal over een detail en niet over de inhoud, en het vaakst is dat een paspoortnummer dat bij de laatste verlenging van het kind is veranderd.
 
-Dat scenario - en duizenden vergelijkbare gevallen - gebeurt omdat toestemmingsbrieven voor kinderreizen een van de meest verkeerd begrepen reisdocumenten zijn. De regels verschillen sterk per land, en een brief die op de ene reis prima werkt, kan bij de grens op de volgende reis mislukken. Precies weten wanneer een brief nodig is, wat erin moet staan en hoe je hem geldig houdt, voorkomt de meest voorkomende redenen waarom gezinnen bij de grens worden tegengehouden.
+Dat scenario – en duizenden vergelijkbare gevallen – gebeurt omdat toestemmingsbrieven voor kinderreizen een van de meest verkeerd begrepen reisdocumenten zijn. De regels verschillen sterk per land, en een brief die op de ene reis prima werkt, kan bij de grens op de volgende reis mislukken. Precies weten wanneer een brief nodig is, wat erin moet staan en hoe je hem geldig houdt, voorkomt de meest voorkomende redenen waarom gezinnen bij de grens worden tegengehouden.
 
 ## Wie heeft er eigenlijk een toestemmingsbrief voor kinderreizen nodig?
 
-Dat hangt volledig af van je bestemming - er is geen wereldwijde standaard, en dat is precies waarom zoveel gezinnen worden verrast.
+Dat hangt volledig af van je bestemming – er is geen wereldwijde standaard, en dat is precies waarom zoveel gezinnen worden verrast.
 
 Een brief is meestal vereist in de volgende situaties:
 
@@ -37,7 +37,7 @@ Controleer de eisen altijd rechtstreeks bij de immigratiedienst van je specifiek
 
 ## Wat de brief moet bevatten
 
-Een toestemmingsbrief voor kinderreizen is geen los briefje - het is een formeel document, vaak notarieel vastgelegd, dat specifieke informatie moet bevatten. Elke brief moet het volgende bevatten:
+Een toestemmingsbrief voor kinderreizen is geen los briefje – het is een formeel document, vaak notarieel vastgelegd, dat specifieke informatie moet bevatten. Elke brief moet het volgende bevatten:
 
 - **Volledige naam en geboortedatum van het kind**, exact zoals in het paspoort staat.
 - **Paspoortnummer van het kind.**
@@ -49,7 +49,7 @@ Een toestemmingsbrief voor kinderreizen is geen los briefje - het is een formeel
 - **Handtekening(en) van de afwezige ouder(s)**, met datum.
 - **Notarisatie of certificering**, indien vereist door de bestemming.
 
-Schrijf de brief in formele taal - vermijd vage zinnen zoals "mijn kind mag altijd reizen". Grensfunctionarissen moeten kunnen zien dat de afwezige ouder uitdrukkelijk toestemming geeft voor deze specifieke reis, op deze specifieke data, naar deze specifieke plaatsen. Je zou bijvoorbeeld kunnen schrijven: "Ik, [volledige naam], verleen hierbij toestemming aan mijn kind [volledige naam kind], paspoortnummer [nummer], om te reizen naar [bestemming(en)] met vertrek op [datum] en terugkeer op [datum], vergezeld door [naam en relatie begeleidende volwassene]."
+Schrijf de brief in formele taal – vermijd vage zinnen zoals "mijn kind mag altijd reizen". Grensfunctionarissen moeten kunnen zien dat de afwezige ouder uitdrukkelijk toestemming geeft voor deze specifieke reis, op deze specifieke data, naar deze specifieke plaatsen. Je zou bijvoorbeeld kunnen schrijven: "Ik, [volledige naam], verleen hierbij toestemming aan mijn kind [volledige naam kind], paspoortnummer [nummer], om te reizen naar [bestemming(en)] met vertrek op [datum] en terugkeer op [datum], vergezeld door [naam en relatie begeleidende volwassene]."
 
 Sommige grensfunctionarissen bellen het opgegeven contactnummer om de toestemming te verifiëren. Zorg dat dat nummer klopt, wordt opgenomen door de genoemde persoon, en dat die persoon tijdens het gesprek de toestemming kan bevestigen. Kun je niet garanderen dat iemand tijdens de openingstijden van de grenscontrole opneemt, geef dan een alternatief contactnummer op en vermeld dit in de brief.
 

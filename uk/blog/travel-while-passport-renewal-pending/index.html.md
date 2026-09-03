@@ -126,4 +126,4 @@ Service Canada публікує актуальні стандарти оброб
 
 [Поновлення8 хв читання · 10 лют 2026Скільки часу займає поновлення паспорта? (США, Велика Британія, Австралія, Канада)](https://traveldocumentvault.com/uk/blog/how-long-does-passport-renewal-take/)
 
-[Паспорт9 хв читання · 9 бер 2026Термін дії паспорта закінчився? Що робити - покроково](https://traveldocumentvault.com/uk/blog/passport-expired-what-to-do/)
+[Паспорт9 хв читання · 9 бер 2026Термін дії паспорта закінчився? Що робити — покроково](https://traveldocumentvault.com/uk/blog/passport-expired-what-to-do/)

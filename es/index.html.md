@@ -36,7 +36,7 @@ El servidor más seguro para escaneos de pasaporte es ningún servidor. Por eso 
 
 ### Cifrado en el Dispositivo
 
-Los documentos se cifran en tu dispositivo con AES-256-GCM, usando claves guardadas en tu Secure Enclave. Es cifrado sólido y moderno - y aún deberías proteger tu teléfono con una contraseña fuerte y App Lock.
+Los documentos se cifran en tu dispositivo con AES-256-GCM, usando claves guardadas en tu Secure Enclave. Es cifrado sólido y moderno —y aún deberías proteger tu teléfono con una contraseña fuerte y App Lock.
 
 ### Tu Nube. Tu Clave.
 
@@ -44,7 +44,7 @@ Copia de seguridad cifrada opcional en tu iCloud o Google Drive. Tú tienes el c
 
 ### Recordatorios Inteligentes
 
-Los pasaportes te avisan desde ocho meses antes, y luego los recordatorios se acercan - seis meses, tres, seis semanas, un mes - hasta el día del vencimiento. Cada tipo de documento tiene su propio calendario, listo en cuanto lo añades.
+Los pasaportes te avisan desde ocho meses antes, y luego los recordatorios se acercan —seis meses, tres, seis semanas, un mes— hasta el día del vencimiento. Cada tipo de documento tiene su propio calendario, listo en cuanto lo añades.
 
 ### Lógica Consciente de Familia
 
@@ -185,7 +185,7 @@ Siempre gratuito
 - Bloqueo PIN + Biométrico (Face ID / Touch ID)
 - 1 perfil
 - Hasta 5 documentos
-- Eliminados recientemente - ventana de deshacer de 30 días
+- Eliminados recientemente —ventana de deshacer de 30 días
 
 Todos los datos permanecen en tu dispositivo. Siempre.
 
@@ -202,7 +202,7 @@ Para toda tu familia. Paga una sola vez. Todas las actualizaciones v1.x incluida
 - Planificador de viajes con semáforo de preparación familiar
 - Copia de seguridad Your Own Cloud (iCloud o Google Drive, cifrada de extremo a extremo)
 - Seguimiento de días en el extranjero para impuestos y límites de visa
-- Franquicias de viaje - aduanas, equipaje, moneda
+- Franquicias de viaje —aduanas, equipaje, moneda
 - Cada miembro de la familia, una bóveda
 - **Documentos ilimitados**
 - Panel de vencimiento de la familia completo
@@ -242,7 +242,7 @@ Todo en Gratuito, más:
 - Planificador de viajes con semáforo de preparación familiar
 - Copia de seguridad Your Own Cloud (iCloud o Google Drive, cifrada de extremo a extremo)
 - Seguimiento de días en el extranjero para impuestos y límites de visa
-- Franquicias de viaje - aduanas, equipaje, moneda
+- Franquicias de viaje —aduanas, equipaje, moneda
 - Cada miembro de la familia, una bóveda
 - **Documentos ilimitados**
 - Panel de vencimiento de la familia completo
@@ -257,7 +257,7 @@ Restaura las compras en cualquier momento con la cuenta de App Store o Google Pl
 
 ## Preguntas Frecuentes
 
-¿Es realmente privado? Sí. Todo se almacena 100% en tu dispositivo. No tenemos acceso a tus documentos y no hay una base de datos en la nube. No te fíes solo de nuestra palabra - [compruébalo tú mismo](https://traveldocumentvault.com/es/privacy-verification/). ¿Qué pasa si pierdo mi teléfono? Tu bóveda se almacena en tu dispositivo. Las copias de seguridad del sistema del teléfono reinstalan la aplicación, pero no restauran tus documentos porque la clave de cifrado nunca sale de tu dispositivo original. Exporta tu bóveda en Ajustes antes de cambiar de teléfono, o usa copia de seguridad cifrada en la nube (Pro) para restauración con un toque. ¿Puedo sincronizar entre dispositivos? Sí. Con Pro, activa la copia de seguridad Your Own Cloud para sincronizar tu bóveda cifrada en tu iCloud o Google Drive. Tú tienes el código de recuperación. Nunca accedemos a tus datos. ¿Qué es el planificador de viajes? El planificador de viajes agrupa documentos familiares por viaje y muestra un semáforo de preparación - verde cuando todos están listos, ámbar si el pasaporte de alguien vence pronto. Planifica viajes en familia con confianza. [Ver todas las respuestas sobre privacidad y datos](https://traveldocumentvault.com/es/faq/)
+¿Es realmente privado? Sí. Todo se almacena 100% en tu dispositivo. No tenemos acceso a tus documentos y no hay una base de datos en la nube. No te fíes solo de nuestra palabra —[compruébalo tú mismo](https://traveldocumentvault.com/es/privacy-verification/). ¿Qué pasa si pierdo mi teléfono? Tu bóveda se almacena en tu dispositivo. Las copias de seguridad del sistema del teléfono reinstalan la aplicación, pero no restauran tus documentos porque la clave de cifrado nunca sale de tu dispositivo original. Exporta tu bóveda en Ajustes antes de cambiar de teléfono, o usa copia de seguridad cifrada en la nube (Pro) para restauración con un toque. ¿Puedo sincronizar entre dispositivos? Sí. Con Pro, activa la copia de seguridad Your Own Cloud para sincronizar tu bóveda cifrada en tu iCloud o Google Drive. Tú tienes el código de recuperación. Nunca accedemos a tus datos. ¿Qué es el planificador de viajes? El planificador de viajes agrupa documentos familiares por viaje y muestra un semáforo de preparación —verde cuando todos están listos, ámbar si el pasaporte de alguien vence pronto. Planifica viajes en familia con confianza. [Ver todas las respuestas sobre privacidad y datos](https://traveldocumentvault.com/es/faq/)
 
 **Importante:** Travel Document Vault es una herramienta de organización personal para almacenar copias digitales de tus documentos. **Las copias digitales almacenadas en esta aplicación NO son válidas para viajar.** No verifica la autenticidad de documentos ni proporciona asesoramiento legal o de viaje. Siempre lleva documentos originales y verifica todos los requisitos de viaje con fuentes oficiales del gobierno.
 

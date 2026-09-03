@@ -126,4 +126,4 @@ Ils proviennent de conventions internationales distinctes. La plupart des voyage
 
 [Règles de passeport9 min de lecture · 4 mars 2026Liste de contrôle complète des documents de voyage international](https://traveldocumentvault.com/fr/blog/travel-document-checklist/)
 
-[Voyage en famille6 min de lecture · 30 avril 2026Durée de validité d'un passeport pour voyager - Règles expliquées](https://traveldocumentvault.com/fr/blog/how-long-is-passport-valid-for-travel/)
+[Voyage en famille6 min de lecture · 30 avril 2026Durée de validité d'un passeport pour voyager — Règles expliquées](https://traveldocumentvault.com/fr/blog/how-long-is-passport-valid-for-travel/)

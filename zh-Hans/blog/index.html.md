@@ -40,15 +40,15 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
-[家庭旅行申根护照规则帮助家庭计划旅行：父母最常犯的错误 申根地区需要护照有效期超过出发日期3个月，而不是6个月 - 儿童护照也是5年有效期。以下是家庭应该在预订当天了解的事项。 2026年7月10日6 分钟读完](https://traveldocumentvault.com/zh-Hans/blog/schengen-passport-rules-family-trips/)
+[家庭旅行申根护照规则帮助家庭计划旅行：父母最常犯的错误 申根地区需要护照有效期超过出发日期3个月，而不是6个月——儿童护照也是5年有效期。以下是家庭应该在预订当天了解的事项。 2026年7月10日6 分钟读完](https://traveldocumentvault.com/zh-Hans/blog/schengen-passport-rules-family-trips/)
 
 ##
 
-[签证和入境你的90天申根窗口：EES时代的天数计算 欧洲的 EES 边境系统会自动记录您的申根天数 - 但它只是执行，不是计划。以下是如何追踪您的滚动 90/180 窗口。 2026年7月7日6分钟读完](https://traveldocumentvault.com/zh-Hans/blog/schengen-90-days-auto-tracked-ees/)
+[签证和入境你的90天申根窗口：EES时代的天数计算 欧洲的 EES 边境系统会自动记录您的申根天数——但它只是执行，不是计划。以下是如何追踪您的滚动 90/180 窗口。 2026年7月7日6分钟读完](https://traveldocumentvault.com/zh-Hans/blog/schengen-90-days-auto-tracked-ees/)
 
 ##
 
-[旅行工具TripCase 替代方案：为什么您的旅行文件需要离线存储 TripCase 已关闭并清除了用户数据。关于航班提醒、行程和文件的诚实替代品指南 - 以及为什么离线存储占据上风。 2026年7月4日7 分钟读完](https://traveldocumentvault.com/zh-Hans/blog/tripcase-alternative/)
+[旅行工具TripCase 替代方案：为什么您的旅行文件需要离线存储 TripCase 已关闭并清除了用户数据。关于航班提醒、行程和文件的诚实替代品指南——以及为什么离线存储占据上风。 2026年7月4日7 分钟读完](https://traveldocumentvault.com/zh-Hans/blog/tripcase-alternative/)
 
 ##
 

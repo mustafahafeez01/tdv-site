@@ -11,14 +11,14 @@ Source: https://traveldocumentvault.com/sv/blog/tripcase-alternative/
 ## Viktiga punkter
 
 - **TripCase stängde ner den 1 april 2025** efter 12 år, och Sabre raderade all kvarvarande resedata efter att exportfönstret stängde den 30 juni 2025.
-- Funktionen **Document Vault** - ett enda säkert hem för pass, visum och boardingkort - är den funktion som tidigare användare saknar mest.
+- Funktionen **Document Vault** – ett enda säkert hem för pass, visum och boardingkort – är den funktion som tidigare användare saknar mest.
 - **Ingen enskild app ersätter TripCase.** Flygaviseringar, resplansparsning och dokumentförvaring lever nu i olika verktyg.
 - Den egentliga läxan: en gratis molntjänst håller **din data på lånad tid**. Den kan försvinna med ungefär 60 dagars varsel.
-- Resehandlingar hör hemma **offline, på din egen enhet** - någonstans inget företagsbeslut, driftstopp eller nedstängning kan nå dem.
+- Resehandlingar hör hemma **offline, på din egen enhet** – någonstans inget företagsbeslut, driftstopp eller nedstängning kan nå dem.
 
 TripCase tillbringade tolv år som resevärldens tysta arbetshäst. Vidarebefordra ett bokningsmejl så byggde appen din resa åt dig; appen pingade dig om gateändringar innan vissa flygbolag ens hann meddela det; och funktionen Document Vault höll pass, visum och boardingkort samlade på ett ställe. Sedan, den 1 april 2025, stängde Sabre ner tjänsten, och när exportfönstret stängde den 30 juni raderades varje användares kvarvarande resehistorik och handlingar från deras servrar.
 
-Femton månader senare letar tidigare användare fortfarande efter en ersättning. Det ärliga svaret är att ingen enskild app ersätter den helt. Men den egentliga historien handlar inte om vilken app du ska välja - den handlar om var dina handlingar bör finnas.
+Femton månader senare letar tidigare användare fortfarande efter en ersättning. Det ärliga svaret är att ingen enskild app ersätter den helt. Men den egentliga historien handlar inte om vilken app du ska välja – den handlar om var dina handlingar bör finnas.
 
 ## TripCase: uppgången och nedstängningen
 
@@ -30,11 +30,11 @@ När nedstängningen kom hade användarna fram till den 30 juni 2025 på sig att
 
 TripCase uppfann inte mycket, men den perfektionerade en handfull arbetsflöden, och när den försvann visade det hur beroende folk hade blivit av dem.
 
-Kärnan var **parsning av bokningsmejl till resplaner** - vidarebefordra en bekräftelse från flygbolag, hotell eller hyrbilsfirma så satte appen ihop den till en kronologisk resa med datum och bokningsreferenser. Noll manuell inmatning gav en komplett resplan på sekunder, och det är precis varför folk stannade i ett decennium.
+Kärnan var **parsning av bokningsmejl till resplaner** – vidarebefordra en bekräftelse från flygbolag, hotell eller hyrbilsfirma så satte appen ihop den till en kronologisk resa med datum och bokningsreferenser. Noll manuell inmatning gav en komplett resplan på sekunder, och det är precis varför folk stannade i ett decennium.
 
 **Flygaviseringar i realtid** kom med på köpet: förseningar, gateändringar och inställda flyg, ofta innan flygbolagets egen avisering. TripIt tar i dag betalt för sin Pro-nivå för motsvarande funktion, medan TripCase erbjöd den gratis till alla.
 
-Flygen, hotellen och marktransporten levde alla i **resans tidslinje** - en skrollbar stapel per resa. Enkelt, men om du någonsin har jonglerat en flerstadsresa utifrån ett dussin bokningsmejl förstår du varför det spelade roll. I trådar på FlyerTalk och andra forum lyfter tidigare användare konsekvent fram **Document Vault** som den mest saknade delen - det enda säkra hemmet för boardingkort, visum, pass och bokningsbekräftelser. Slutligen lät **reseddelning** familjemedlemmar eller kollegor följa med utan vidarebefordrade mejl.
+Flygen, hotellen och marktransporten levde alla i **resans tidslinje** – en skrollbar stapel per resa. Enkelt, men om du någonsin har jonglerat en flerstadsresa utifrån ett dussin bokningsmejl förstår du varför det spelade roll. I trådar på FlyerTalk och andra forum lyfter tidigare användare konsekvent fram **Document Vault** som den mest saknade delen – det enda säkra hemmet för boardingkort, visum, pass och bokningsbekräftelser. Slutligen lät **reseddelning** familjemedlemmar eller kollegor följa med utan vidarebefordrade mejl.
 
 ## Den obekväma läxan
 
@@ -42,7 +42,7 @@ När du bygger upp ditt resande kring en gratis molnapp hyr du utrymme som ägar
 
 Inget av det här handlar om illvilja; det är helt enkelt hur affärsbeslut fungerar. Reseappar läggs ner regelbundet, gratisnivåer flyttas bakom betalväggar, och tjänster avvecklas. Personen som inte har något att säga till om tidpunkten är du.
 
-Resehandlingar väger annorlunda än förlorade spellistor. En passskanning, ett beviljat visum, bevis på tidigare in- och utresor - att förlora dessa kan komplicera visumansökningar, försäkringsärenden och gränssamtal i flera år framöver. Så TripCase-historien spelar roll för mer än bara nostalgin.
+Resehandlingar väger annorlunda än förlorade spellistor. En passskanning, ett beviljat visum, bevis på tidigare in- och utresor – att förlora dessa kan komplicera visumansökningar, försäkringsärenden och gränssamtal i flera år framöver. Så TripCase-historien spelar roll för mer än bara nostalgin.
 
 ## En ärlig karta över ersättningar
 
@@ -56,13 +56,13 @@ TripCase packade ihop flera olika uppgifter i en gratis app. Ingen app i dag gö
 | Förvaring av resehandlingar | Document Vault: pass, visum, boardingkort | Travel Document Vault | Engångsköp, ingen prenumeration |
 | Reseddelning | Följare kunde se din pågående resplan | TripIt-delning, eller en delad mapp | Gratis |
 
-Flygaviseringar och resplansparsning är bekvämligheter - genuint användbara sådana - och de hör hemma i molnet eftersom de bara spelar roll medan en resa pågår. Dokumentförvaring är däremot annorlunda: det är den enda uppgiften där förlorad åtkomst faktiskt kostar dig något du inte kan boka om.
+Flygaviseringar och resplansparsning är bekvämligheter – genuint användbara sådana – och de hör hemma i molnet eftersom de bara spelar roll medan en resa pågår. Dokumentförvaring är däremot annorlunda: det är den enda uppgiften där förlorad åtkomst faktiskt kostar dig något du inte kan boka om.
 
 ## Varför offline spelar roll för resehandlingar
 
 Ett pass är identitet, ett visum är tillstånd, och ett ID är bevis. De här handlingarna avgör om en gräns släpper igenom dig och om ett försäkringsärende betalas ut, vilket placerar dem i en annan kategori än allt annat en reseapp hanterar.
 
-Att förvara dem i en molntjänst innebär att acceptera tre separata risker: tjänsten kan stänga ner, som TripCase gjorde; företaget kan ändra sin integritets- eller säkerhetsmodell när det vill; och du behöver en uppkoppling plus en fungerande inloggning för att komma åt dina egna handlingar - inte alltid givet vid en gränspassering där din roaming tystnat.
+Att förvara dem i en molntjänst innebär att acceptera tre separata risker: tjänsten kan stänga ner, som TripCase gjorde; företaget kan ändra sin integritets- eller säkerhetsmodell när det vill; och du behöver en uppkoppling plus en fungerande inloggning för att komma åt dina egna handlingar – inte alltid givet vid en gränspassering där din roaming tystnat.
 
 Offline-first-förvaring tar bort alla tre riskerna på en gång. Handlingarna lever på din enhet, läsbara utan signal och utan konto, och det finns ingen server någon kan stänga av. Väger du för- och nackdelar med var digitala kopior bör förvaras, går vår jämförelse av [iCloud, Google Photos och krypterade valv](https://traveldocumentvault.com/sv/blog/safest-way-to-store-passport-digitally/) igenom avvägningarna i detalj.
 
@@ -96,7 +96,7 @@ Ingen enskild app gör allt TripCase gjorde. De flesta tidigare användare hamna
 
 ### Bör jag förvara mina resehandlingar i en molnapp?
 
-Det beror på dokumentet. Molntjänster är praktiska för bokningsbekräftelser och referenser, som går att ersätta om en tjänst läggs ner. Dina faktiska resehandlingar - pass, visum, ID, körkort - förvaras säkrare offline på din enhet, där de inte är beroende av att ett företags servrar förblir igång.
+Det beror på dokumentet. Molntjänster är praktiska för bokningsbekräftelser och referenser, som går att ersätta om en tjänst läggs ner. Dina faktiska resehandlingar – pass, visum, ID, körkort – förvaras säkrare offline på din enhet, där de inte är beroende av att ett företags servrar förblir igång.
 
 ## Relaterade artiklar
 

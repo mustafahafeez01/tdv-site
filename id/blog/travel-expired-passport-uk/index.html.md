@@ -18,19 +18,19 @@ Source: https://traveldocumentvault.com/id/blog/travel-expired-passport-uk/
 
 Apakah paspor yang habis masa berlakunya sebelum tanggal kepulangan menjadi masalah sepenuhnya bergantung pada tujuan perjalanan. Sebagian negara hanya meminta paspor masih berlaku pada hari masuk. Banyak negara lain meminta tambahan tiga atau enam bulan.
 
-Tidak - paspor yang sudah kedaluwarsa tidak bisa digunakan untuk perjalanan internasional. Maskapai memeriksa masa berlaku sebelum menerbitkan boarding pass, dan jika paspor Anda kedaluwarsa, mereka akan menolak Anda naik pesawat. Petugas imigrasi melakukan pemeriksaan yang sama di tujuan Anda, jadi tidak ada cara untuk menghindarinya: Anda harus memperpanjang paspor sebelum bepergian ke luar negeri.
+Tidak, paspor yang sudah kedaluwarsa tidak bisa digunakan untuk perjalanan internasional. Maskapai memeriksa masa berlaku sebelum menerbitkan boarding pass, dan jika paspor Anda kedaluwarsa, mereka akan menolak Anda naik pesawat. Petugas imigrasi melakukan pemeriksaan yang sama di tujuan Anda, jadi tidak ada cara untuk menghindarinya: Anda harus memperpanjang paspor sebelum bepergian ke luar negeri.
 
 Berikut ini adalah bagaimana hal ini terjadi dalam praktiknya: pilihan terbatas Anda, mengapa waktu begitu penting, dan apa yang harus dilakukan agar terhindar dari kepanikan saat check-in.
 
 ## Aturan Mutlak: Tidak Ada Perjalanan Internasional dengan Paspor Kedaluwarsa
 
-His Majesty's Passport Office tegas soal ini: paspor Anda harus berlaku pada hari Anda bepergian - bukan hanya saat tiba, bukan hanya untuk sebagian perjalanan, tetapi pada hari Anda naik ke pesawat.
+His Majesty's Passport Office tegas soal ini: paspor Anda harus berlaku pada hari Anda bepergian — bukan hanya saat tiba, bukan hanya untuk sebagian perjalanan, tetapi pada hari Anda naik ke pesawat.
 
 Saat Anda check-in, petugas memasukkan nomor paspor Anda ke sistem mereka dan melihat tanggal kedaluwarsanya. Jika sudah lewat, mereka tidak akan menerbitkan boarding pass, dan tidak masalah walau Anda tiba kembali di rumah sehari setelah paspor itu kedaluwarsa. Hal yang sama terjadi di pos imigrasi tujuan Anda: mereka melihat tanggal kedaluwarsa, mereka menolak masuk.
 
 Aturan ini berlaku untuk semua perjalanan internasional, baik penerbangan ke Eropa maupun penyeberangan feri, baik paspor Anda baru saja lewat masa berlakunya maupun jika Anda memesan berbulan-bulan sebelumnya. Jika Anda perlu menunjukkan paspor di perbatasan mana pun, paspor itu harus berlaku pada hari itu.
 
-Satu-satunya pengecualian adalah dokumen perjalanan darurat Inggris, yang diterbitkan oleh Kementerian Luar Negeri saat Anda sudah berada di luar negeri dalam keadaan darurat yang sebenarnya, dan bahkan pada saat itu dokumen tersebut hanya berfungsi untuk memulangkan Anda - bukan untuk mengizinkan perjalanan lebih lanjut.
+Satu-satunya pengecualian adalah dokumen perjalanan darurat Inggris, yang diterbitkan oleh Kementerian Luar Negeri saat Anda sudah berada di luar negeri dalam keadaan darurat yang sebenarnya, dan bahkan pada saat itu dokumen tersebut hanya berfungsi untuk memulangkan Anda, bukan untuk mengizinkan perjalanan lebih lanjut.
 
 ## Bisakah Anda Memesan Liburan dengan Paspor yang Kedaluwarsa?
 
@@ -70,7 +70,7 @@ Satu-satunya area abu-abu adalah bagaimana maskapai dan petugas imigrasi menanga
 
 ## Asuransi Perjalanan dan Dokumen yang Kedaluwarsa
 
-Sebagian besar polis asuransi perjalanan memuat klausul pembatalan untuk dokumen perjalanan yang kedaluwarsa atau tidak sah. Perusahaan asuransi dapat menolak seluruh klaim Anda jika Anda bepergian dengan paspor yang kedaluwarsa - bunyi klausulnya biasanya seperti: "Polis ini batal jika pemegang polis bepergian dengan dokumen perjalanan yang tidak sah atau kedaluwarsa."
+Sebagian besar polis asuransi perjalanan memuat klausul pembatalan untuk dokumen perjalanan yang kedaluwarsa atau tidak sah. Perusahaan asuransi dapat menolak seluruh klaim Anda jika Anda bepergian dengan paspor yang kedaluwarsa, bunyi klausulnya biasanya seperti: "Polis ini batal jika pemegang polis bepergian dengan dokumen perjalanan yang tidak sah atau kedaluwarsa."
 
 Ini berlaku baik paspor Anda kedaluwarsa sebelum Anda meninggalkan Inggris maupun saat Anda berada di luar negeri, dan baik perjalanan itu hanya akhir pekan satu hari maupun perjalanan keliling dunia selama tiga bulan. Kelebihan satu hari saja dari tanggal kedaluwarsa paspor Anda dapat menggagalkan klaim yang sebenarnya sah.
 
@@ -88,7 +88,7 @@ Mengatur pengingat berbulan-bulan sebelumnya, alih-alih panik seminggu sebelum t
 
 ## Kesalahpahaman Umum tentang Masa Berlaku Paspor
 
-Pelancong sering keliru menyamakan tanggal kedaluwarsa paspor mereka dengan aturan khusus tujuan. Paspor Anda berlaku hingga tanggal yang tercetak di dalamnya - itulah patokan dasarnya. Namun sebagian negara mensyaratkan paspor tetap berlaku untuk periode tertentu setelah tanggal kedatangan Anda, dan itu adalah persyaratan terpisah dari kedaluwarsa itu sendiri.
+Pelancong sering keliru menyamakan tanggal kedaluwarsa paspor mereka dengan aturan khusus tujuan. Paspor Anda berlaku hingga tanggal yang tercetak di dalamnya, itulah patokan dasarnya. Namun sebagian negara mensyaratkan paspor tetap berlaku untuk periode tertentu setelah tanggal kedatangan Anda, dan itu adalah persyaratan terpisah dari kedaluwarsa itu sendiri.
 
 [Banyak negara menerapkan aturan enam bulan yang mensyaratkan paspor Anda tetap berlaku setidaknya enam bulan setelah tanggal keberangkatan yang Anda rencanakan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/), sementara sebagian menerapkan tiga bulan dan sebagian lainnya satu bulan. Tidak satu pun dari aturan ini mengizinkan perjalanan dengan paspor yang sudah kedaluwarsa karena semuanya menetapkan standar yang lebih ketat, di mana perpanjangan harus dilakukan bahkan lebih awal daripada tanggal kedaluwarsa paspor itu sendiri.
 

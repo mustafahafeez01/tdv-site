@@ -10,9 +10,9 @@ Source: https://traveldocumentvault.com/nl/blog/lost-passport-abroad/
 
 ## Belangrijkste punten
 
-- Doe eerst aangifte bij de politie - je hebt dit nodig voor zowel je aanvraag bij de ambassade als je verzekeringsclaim.
-- Je ambassade of consulaat kan een noodpaspoort uitgeven, meestal veel sneller dan een gewoon nieuw paspoort. **Bel van tevoren** - de meeste vereisen een afspraak.
-- Reizigers met een veilige digitale kopie van hun paspoort krijgen vervangende documenten sneller - je geeft de gegevens die je ambassade nodig heeft binnen enkele seconden door.
+- Doe eerst aangifte bij de politie – je hebt dit nodig voor zowel je aanvraag bij de ambassade als je verzekeringsclaim.
+- Je ambassade of consulaat kan een noodpaspoort uitgeven, meestal veel sneller dan een gewoon nieuw paspoort. **Bel van tevoren** – de meeste vereisen een afspraak.
+- Reizigers met een veilige digitale kopie van hun paspoort krijgen vervangende documenten sneller – je geeft de gegevens die je ambassade nodig heeft binnen enkele seconden door.
 - Reisverzekeringen dekken de kosten voor een nieuw paspoort in de meeste uitgebreide polissen. Je hebt het proces-verbaal nodig om een claim in te dienen.
 - Het juiste moment om je voor te bereiden is nu, voordat er iets misgaat. Een scan van vijf minuten vandaag kan je dagen stress in het buitenland besparen.
 
@@ -20,7 +20,7 @@ Mensen laten elke dag hun verloren paspoort in het buitenland vervangen, en amba
 
 ## Voordat er iets misgaat: fotografeer je paspoort nu
 
-Als je dit leest voor je vertrek, besteed dan de komende vijf minuten hieraan. Maak een duidelijke foto van de gegevenspagina van elk paspoort waarmee je reist. Bewaar die in een versleutelde app die offline werkt - veel veiliger dan je camerarol, en volledig privé.
+Als je dit leest voor je vertrek, besteed dan de komende vijf minuten hieraan. Maak een duidelijke foto van de gegevenspagina van elk paspoort waarmee je reist. Bewaar die in een versleutelde app die offline werkt – veel veiliger dan je camerarol, en volledig privé.
 
 Bij aankomst op de ambassade vragen ze naar je paspoortnummer, afgiftedatum, plaats van afgifte en vervaldatum. Zonder kopie probeer je dit onder stress te onthouden. Met een kopie geef je de gegevens binnen enkele seconden door. **Consulair personeel geeft vervangende documenten sneller uit wanneer je met de gegevens al genoteerd aankomt.**
 
@@ -28,7 +28,7 @@ Een kopie op je telefoon is een vastlegging van de gegevens, geen identiteitsbew
 
 ## Stap 1: Bevestig dat het paspoort echt weg is
 
-Kijk overal na voordat je het ergste aanneemt - jaszakken, elk vak van je tas, de hotelkluis, de laatste taxi of het laatste restaurant. Als het echt weg of gestolen is, ga dan zonder uitstel verder met de volgende stappen.
+Kijk overal na voordat je het ergste aanneemt – jaszakken, elk vak van je tas, de hotelkluis, de laatste taxi of het laatste restaurant. Als het echt weg of gestolen is, ga dan zonder uitstel verder met de volgende stappen.
 
 ## Stap 2: Doe meteen aangifte bij de politie
 
@@ -45,7 +45,7 @@ Je ambassade of consulaat is je weg naar huis, dus neem contact op zodra je het 
 - **Australische staatsburgers:** Smartraveller - verloren of gestolen paspoort
 - **Canadese staatsburgers:** Canada.ca - verloren of gestolen paspoort in het buitenland
 
-Bel voordat je langsgaat. Veel ambassades vereisen een afspraak voor noodpaspoortdiensten en kunnen je precies vertellen wat je moet meenemen - zonder afspraak verschijnen kan je een halve dag kosten.
+Bel voordat je langsgaat. Veel ambassades vereisen een afspraak voor noodpaspoortdiensten en kunnen je precies vertellen wat je moet meenemen – zonder afspraak verschijnen kan je een halve dag kosten.
 
 ## Stap 4: Vraag een noodpaspoort aan
 
@@ -60,17 +60,17 @@ Wat je meestal nodig hebt (bevestig dit met je ambassade voordat je langsgaat):
 - Bewijs van doorreis - vluchtboeking, hotelbevestiging
 - Vergoeding voor het nooddocument - houd zowel contant geld als een kaart bij de hand
 
-**Travel Document Vault** bewaart een versleutelde kopie van je paspoort op je telefoon - toegankelijk zonder internet, zonder inloggen. Precies wat je ambassade zal vragen. [Download van de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** bewaart een versleutelde kopie van je paspoort op je telefoon – toegankelijk zonder internet, zonder inloggen. Precies wat je ambassade zal vragen. [Download van de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Stap 5: Meld het bij je reisverzekeraar
 
-Meld het verlies zo snel mogelijk bij je reisverzekeraar. De meeste uitgebreide polissen dekken de kosten voor een nieuw paspoort, noodpaspoortkosten en soms extra verblijfskosten als je vertraging oploopt. Bewaar alle bonnetjes - je hebt ze nodig voor de claim, samen met het zaaknummer van het proces-verbaal.
+Meld het verlies zo snel mogelijk bij je reisverzekeraar. De meeste uitgebreide polissen dekken de kosten voor een nieuw paspoort, noodpaspoortkosten en soms extra verblijfskosten als je vertraging oploopt. Bewaar alle bonnetjes – je hebt ze nodig voor de claim, samen met het zaaknummer van het proces-verbaal.
 
 Je kunt die melding sneller doen als het polisnummer en het 24-uurs alarmnummer al bij de hand zijn in plaats van weggestopt in een inbox die je niet kunt bereiken. Onze gids over [welke reisverzekeringsdocumenten je moet bewaren voordat je vertrekt](https://traveldocumentvault.com/nl/blog/travel-insurance-documents/) laat zien wat je offline moet bewaren.
 
 ## Stap 6: Controleer je visumsituatie
 
-Een visum is alleen geldig voor het specifieke paspoort waarvoor het is afgegeven. Als je paspoort weg is, is je visum dat ook - zelfs een noodpaspoort herstelt dit niet. Je ambassade kan je adviseren of je bestemmingsland je op een noodpaspoort laat uitreizen, met verwijzing naar het verloren visum. Ga er niet vanuit dat je kunt uitreizen - bevestig dit bij je ambassade voordat je probeert te vertrekken.
+Een visum is alleen geldig voor het specifieke paspoort waarvoor het is afgegeven. Als je paspoort weg is, is je visum dat ook – zelfs een noodpaspoort herstelt dit niet. Je ambassade kan je adviseren of je bestemmingsland je op een noodpaspoort laat uitreizen, met verwijzing naar het verloren visum. Ga er niet vanuit dat je kunt uitreizen – bevestig dit bij je ambassade voordat je probeert te vertrekken.
 
 Wat dit in de praktijk betekent
 
@@ -90,7 +90,7 @@ Doe meteen aangifte bij de politie, en neem daarna contact op met je dichtstbijz
 
 ### Kan ik een noodpaspoort krijgen in het buitenland?
 
-Ja. De meeste landen geven noodpaspoorten uit via hun ambassades en consulaten, meestal geldig voor één enkele reis naar huis. De doorlooptijd verschilt per post en hangt af van hoe dringend je zaak is, dus vraag ernaar als je belt. Neem zo snel mogelijk contact op met je dichtstbijzijnde ambassade of consulaat - veel vereisen een afspraak.
+Ja. De meeste landen geven noodpaspoorten uit via hun ambassades en consulaten, meestal geldig voor één enkele reis naar huis. De doorlooptijd verschilt per post en hangt af van hoe dringend je zaak is, dus vraag ernaar als je belt. Neem zo snel mogelijk contact op met je dichtstbijzijnde ambassade of consulaat – veel vereisen een afspraak.
 
 ### Heb ik een proces-verbaal nodig als mijn paspoort in het buitenland wordt gestolen?
 

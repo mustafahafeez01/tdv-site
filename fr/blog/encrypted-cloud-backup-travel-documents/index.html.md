@@ -132,6 +132,6 @@ La sauvegarde contient une copie chiffrée de votre coffre : chaque profil, chaq
 
 ## Articles connexes
 
-[Confidentialité et sécurité7 min de lectureiCloud vs Google Photos vs Coffre-fort chiffré - Comment stocker votre passeport en toute sécurité](https://traveldocumentvault.com/fr/blog/safest-way-to-store-passport-digitally/)
+[Confidentialité et sécurité7 min de lectureiCloud vs Google Photos vs Coffre-fort chiffré — Comment stocker votre passeport en toute sécurité](https://traveldocumentvault.com/fr/blog/safest-way-to-store-passport-digitally/)
 
-[Confidentialité7 min de lectureEst-il sûr de stocker votre passeport dans Google Photos - Ce qu'il faut savoir](https://traveldocumentvault.com/fr/blog/is-it-safe-to-store-passport-in-google-photos/)
+[Confidentialité7 min de lectureEst-il sûr de stocker votre passeport dans Google Photos — Ce qu'il faut savoir](https://traveldocumentvault.com/fr/blog/is-it-safe-to-store-passport-in-google-photos/)

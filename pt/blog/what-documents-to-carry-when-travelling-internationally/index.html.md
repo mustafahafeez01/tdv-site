@@ -10,13 +10,13 @@ Source: https://traveldocumentvault.com/pt/blog/what-documents-to-carry-when-tra
 
 ## Pontos-Chave
 
-- A maioria dos viajantes esquece cartas de **consentimento** para menores, comprovante de vacinação, confirmações de alojamento e comprovante de viagem continuada - os documentos de apoio que os funcionários de imigração verificam na porta.
-- Transporte originais: passaporte, vistos, cartões de embarque e cartas de consentimento. Guarde cópias de segurança digitais separadamente no seu telemóvel - encriptadas e desligadas.
+- A maioria dos viajantes esquece cartas de **consentimento** para menores, comprovante de vacinação, confirmações de alojamento e comprovante de viagem continuada — os documentos de apoio que os funcionários de imigração verificam na porta.
+- Transporte originais: passaporte, vistos, cartões de embarque e cartas de consentimento. Guarde cópias de segurança digitais separadamente no seu telemóvel — encriptadas e desligadas.
 - Números de apólice de seguro de viagem, números de telefone do emitente e detalhes de cobertura devem estar tanto em formato físico como numa cópia de segurança digital desligada acessível sem internet.
 - Muitos países esperam uma **carta de consentimento** para uma criança viajando com um progenitor. Sem uma, corre o risco de lhe ser recusado o embarque.
 - Cópias de segurança digitais desligadas guardadas separadamente dos documentos físicos são a sua melhor proteção se a sua mala for perdida ou roubada no estrangeiro.
 
-Os viajantes frequentemente descobrem que esqueceram cartas de consentimento, certificados de vacinação, confirmações de alojamento e comprovante de viagem continuada apenas quando chegam ao aeroporto - documentos que parecem menos importantes que um passaporte mas que são igualmente importantes.
+Os viajantes frequentemente descobrem que esqueceram cartas de consentimento, certificados de vacinação, confirmações de alojamento e comprovante de viagem continuada apenas quando chegam ao aeroporto — documentos que parecem menos importantes que um passaporte mas que são igualmente importantes.
 
 Para a lista completa de todos os documentos que pode precisar por tipo de viagem e fase, veja [a lista completa de documentos de viagem](https://traveldocumentvault.com/pt/blog/travel-document-checklist/). Este artigo explora o que é esquecido e como se preparar para perder documentos no estrangeiro.
 
@@ -26,19 +26,19 @@ O seu passaporte e visto parecem urgentes, por isso são embalados primeiro. Mas
 
 ### Comprovante de viagem continuada
 
-Um número surpreendente de países quer prova de que planeia sair - um voo de regresso, uma reserva para outro país ou até um bilhete de autocarro ou ferry costuma dar. Manter uma cópia impressa ou digital na sua bagagem de mão significa que não enfrentará atrasos na imigração.
+Um número surpreendente de países quer prova de que planeia sair — um voo de regresso, uma reserva para outro país ou até um bilhete de autocarro ou ferry costuma dar. Manter uma cópia impressa ou digital na sua bagagem de mão significa que não enfrentará atrasos na imigração.
 
 ### Confirmações de alojamento
 
-Alguns países pedem para ver prova da sua reserva da primeira noite, seja uma confirmação de hotel, um Airbnb ou uma pousada. O funcionário quer prova de que tem um local para ficar, portanto descarregue uma cópia no seu telemóvel desligado - o email não ajudará na fronteira.
+Alguns países pedem para ver prova da sua reserva da primeira noite, seja uma confirmação de hotel, um Airbnb ou uma pousada. O funcionário quer prova de que tem um local para ficar, portanto descarregue uma cópia no seu telemóvel desligado — o email não ajudará na fronteira.
 
 ### Certificados de vacinação
 
-Certos destinos exigem comprovante de vacinação contra febre amarela ou outras doenças, e os requisitos mudam periodicamente por destino. Consulte as páginas de conselhos de viagem da OMS 6-8 semanas antes de viajar - não na noite anterior - pois alguns países apenas aceitam certificados amarelos de febre amarela oficiais da OMS, não fotocópias ou fotos digitais.
+Certos destinos exigem comprovante de vacinação contra febre amarela ou outras doenças, e os requisitos mudam periodicamente por destino. Consulte as páginas de conselhos de viagem da OMS 6-8 semanas antes de viajar — não na noite anterior — pois alguns países apenas aceitam certificados amarelos de febre amarela oficiais da OMS, não fotocópias ou fotos digitais.
 
 ### Detalhes de seguro de viagem
 
-Precisará de acesso imediato ao número da sua apólice, detalhes de contacto do emitente e à sua linha de emergência 24 horas. Alguns tipos de visto exigem explicitamente comprovante de seguro de viagem - as candidaturas de visto Schengen, por exemplo, exigem seguro médico cobrindo cuidados de emergência e hospitalização. Mas mais importantemente, se algo correr mal no estrangeiro, precisa destes detalhes sem depender de acesso a email ou internet.
+Precisará de acesso imediato ao número da sua apólice, detalhes de contacto do emitente e à sua linha de emergência 24 horas. Alguns tipos de visto exigem explicitamente comprovante de seguro de viagem — as candidaturas de visto Schengen, por exemplo, exigem seguro médico cobrindo cuidados de emergência e hospitalização. Mas mais importantemente, se algo correr mal no estrangeiro, precisa destes detalhes sem depender de acesso a email ou internet.
 
 ### Cartas de consentimento para viagem de menores
 
@@ -68,11 +68,11 @@ As fronteiras querem documentos originais, mas se esses originais desaparecerem,
 - A carta de consentimento de menor, se estiver a transportar uma
 - Números de contacto de emergência para a sua embaixada
 
-Guarde estes no seu telemóvel usando uma aplicação desligada e encriptada - não o seu rolo de câmara, não Google Photos, não iCloud. Se os seus documentos físicos desaparecerem, tem tudo o que precisa para contactar a sua embaixada e provar quem é.
+Guarde estes no seu telemóvel usando uma aplicação desligada e encriptada — não o seu rolo de câmara, não Google Photos, não iCloud. Se os seus documentos físicos desaparecerem, tem tudo o que precisa para contactar a sua embaixada e provar quem é.
 
 ## Como Manter os Detalhes de Seguro de Viagem Acessíveis
 
-A maioria dos viajantes compra seguro de viagem mas esquece-se de tornar os detalhes da apólice imediatamente acessíveis - o que significa que quando uma emergência médica ou bagagem perdida ocorre no estrangeiro, está a revirar emails em vez de telefonar para pedir ajuda. O nosso guia sobre [que documentos de seguro de viagem guardar antes de partir](https://traveldocumentvault.com/pt/blog/travel-insurance-documents/) explica o que guardar e onde guardá-lo.
+A maioria dos viajantes compra seguro de viagem mas esquece-se de tornar os detalhes da apólice imediatamente acessíveis — o que significa que quando uma emergência médica ou bagagem perdida ocorre no estrangeiro, está a revirar emails em vez de telefonar para pedir ajuda. O nosso guia sobre [que documentos de seguro de viagem guardar antes de partir](https://traveldocumentvault.com/pt/blog/travel-insurance-documents/) explica o que guardar e onde guardá-lo.
 
 Detalhes específicos para ter à mão, tanto em papel como digitalmente:
 
@@ -93,11 +93,11 @@ Uma carta de consentimento deve tipicamente incluir o nome completo da criança 
 
 O que isto significa na prática
 
-Está a embarcar num voo para o Canadá com a sua criança de 8 anos e o seu parceiro não está a viajar. O pessoal de check-in pode recusar embarcar a sua criança se não conseguir mostrar consentimento escrito do seu parceiro ausente, preferencialmente autenticado por notário. Se a sua criança está a viajar com os seus avós em vez de si, tipicamente ambos os progenitores precisam assinar a carta de consentimento - a permissão de um progenitor apenas geralmente não é suficiente. Verifique sempre os requisitos exatos para o seu destino bem antes da data de partida.
+Está a embarcar num voo para o Canadá com a sua criança de 8 anos e o seu parceiro não está a viajar. O pessoal de check-in pode recusar embarcar a sua criança se não conseguir mostrar consentimento escrito do seu parceiro ausente, preferencialmente autenticado por notário. Se a sua criança está a viajar com os seus avós em vez de si, tipicamente ambos os progenitores precisam assinar a carta de consentimento — a permissão de um progenitor apenas geralmente não é suficiente. Verifique sempre os requisitos exatos para o seu destino bem antes da data de partida.
 
 ## O Caso para Cópias de Segurança Digitais Desligadas
 
-Documentos físicos ajudam até um ladrão levar a sua mala - e geralmente leva as cópias juntamente com os originais. Uma cópia de segurança separada encriptada no seu telemóvel - guardada desligada - é o seu verdadeiro seguro se os originais desaparecerem.
+Documentos físicos ajudam até um ladrão levar a sua mala — e geralmente leva as cópias juntamente com os originais. Uma cópia de segurança separada encriptada no seu telemóvel — guardada desligada — é o seu verdadeiro seguro se os originais desaparecerem.
 
 Quando a sua embaixada precisa emitir um documento de viagem de emergência, uma cópia de segurança segura dá-lhe o seu número de passaporte, data de emissão, local de emissão e data de expiração instantaneamente, sem acesso a internet. Para mais informações sobre as opções disponíveis, veja a nossa visão geral de [como guardar cópias de passaporte com segurança](https://traveldocumentvault.com/pt/blog/is-it-safe-to-store-passport-in-google-photos/) e as desvantagens entre diferentes abordagens.
 
@@ -119,7 +119,7 @@ Sim, em muitos países é esperado. Se uma criança viajar internacionalmente co
 
 ### Devo manter cópias de segurança digitais dos meus documentos?
 
-Sim. Guarde cópias encriptadas desligadas no seu telemóvel - não no seu rolo de câmara ou armazenamento na nuvem. Se os seus documentos físicos forem perdidos ou roubados no estrangeiro, estas cópias de segurança permitem à sua embaixada processar um documento de viagem de emergência muito mais rápido. Devem incluir número do passaporte, data de emissão, local de emissão, número de apólice de seguro e referências de reserva.
+Sim. Guarde cópias encriptadas desligadas no seu telemóvel — não no seu rolo de câmara ou armazenamento na nuvem. Se os seus documentos físicos forem perdidos ou roubados no estrangeiro, estas cópias de segurança permitem à sua embaixada processar um documento de viagem de emergência muito mais rápido. Devem incluir número do passaporte, data de emissão, local de emissão, número de apólice de seguro e referências de reserva.
 
 ### O que acontece se chegar ao aeroporto sem um documento necessário?
 

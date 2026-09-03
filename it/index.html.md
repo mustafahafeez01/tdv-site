@@ -24,7 +24,7 @@ Una cosa in meno di cui preoccuparsi.
 
 ## I Suoi Documenti Rimangono Con Lei
 
-Costruito da un genitore che ne aveva bisogno. I Suoi documenti rimangono sul Suo dispositivo - crittografati, privati e mai caricati da nessuna parte.
+Costruito da un genitore che ne aveva bisogno. I Suoi documenti rimangono sul Suo dispositivo — crittografati, privati e mai caricati da nessuna parte.
 
 ### Costruito da un Genitore
 
@@ -44,7 +44,7 @@ Backup crittografato opzionale nel Vostro iCloud o Google Drive. Lei tiene il co
 
 ### Promemoria Intelligenti
 
-I passaporti La avvisano già otto mesi prima, poi i promemoria si avvicinano - sei mesi, tre, sei settimane, un mese - fino al giorno della scadenza. Ogni tipo di documento ha il proprio calendario, pronto appena lo aggiunge.
+I passaporti La avvisano già otto mesi prima, poi i promemoria si avvicinano — sei mesi, tre, sei settimane, un mese — fino al giorno della scadenza. Ogni tipo di documento ha il proprio calendario, pronto appena lo aggiunge.
 
 ### Logica Consapevole della Famiglia
 
@@ -185,7 +185,7 @@ Sempre gratuito
 - Blocco PIN + Biometrico (Face ID / Touch ID)
 - 1 profilo
 - Fino a 5 documenti
-- Eliminato di recente - finestra di annullamento di 30 giorni
+- Eliminato di recente — finestra di annullamento di 30 giorni
 
 Tutti i dati rimangono sul Suo dispositivo. Sempre.
 
@@ -224,7 +224,7 @@ Gratuito
 - Blocco PIN + Biometrico (Face ID / Touch ID)
 - 1 profilo
 - Fino a 5 documenti
-- Eliminato di recente - finestra di annullamento di 30 giorni
+- Eliminato di recente — finestra di annullamento di 30 giorni
 
 Tutti i dati rimangono sul Suo dispositivo. Sempre.
 
@@ -258,7 +258,7 @@ Ripristina gli acquisti in qualsiasi momento con l'account App Store o Google Pl
 
 ## Domande Comuni
 
-È davvero privato? Sì. Tutto è archiviato al 100% sul Suo dispositivo. Non abbiamo accesso ai Suoi documenti e non c'è alcun database cloud. Non si fidi solo della nostra parola - [verifichi Lei stesso](https://traveldocumentvault.com/it/privacy-verification/). E se perdo il mio telefono? Il Suo caveau è archiviato sul Suo dispositivo. Se cambia telefono, ripristini utilizzando il solito backup del telefono. [Vedi tutte le risposte su privacy e dati](https://traveldocumentvault.com/it/faq/)
+È davvero privato? Sì. Tutto è archiviato al 100% sul Suo dispositivo. Non abbiamo accesso ai Suoi documenti e non c'è alcun database cloud. Non si fidi solo della nostra parola — [verifichi Lei stesso](https://traveldocumentvault.com/it/privacy-verification/). E se perdo il mio telefono? Il Suo caveau è archiviato sul Suo dispositivo. Se cambia telefono, ripristini utilizzando il solito backup del telefono. [Vedi tutte le risposte su privacy e dati](https://traveldocumentvault.com/it/faq/)
 
 **Importante:** Travel Document Vault è uno strumento di organizzazione personale per archiviare copie digitali dei Suoi documenti. **Le copie digitali archiviate in questa app NON sono valide per i viaggi.** Non verifica l'autenticità dei documenti né fornisce consulenza legale o di viaggio. Porti sempre documenti originali e verifichi tutti i requisiti di viaggio con le fonti governative ufficiali.
 

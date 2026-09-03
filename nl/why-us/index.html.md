@@ -31,7 +31,7 @@ Gebouwd Travel Document Vault voor mijn gezin
 
 > "Elke familiereis werd een speurtocht door Foto's, e-mail en Drive. Ik bouwde dit zodat de volgende reis dat niet hoeft te zijn."
 
-Geen durfkapitaal, geen aandeelhouders, geen advertentienetwerken - gewoon een ouder die moe werd van dezelfde paniek, elke reis.
+Geen durfkapitaal, geen aandeelhouders, geen advertentienetwerken – gewoon een ouder die moe werd van dezelfde paniek, elke reis.
 
 [Lees het volledige verhaal →](https://traveldocumentvault.com/nl/blog/why-i-built-travel-document-vault/)
 
@@ -43,7 +43,7 @@ Bij de gate
 
 Immigratiebalie. De ambtenaar vraagt om uw visum.
 
-Stel u voor dat u één app kon openen en het direct bij de hand had - niet zoeken, niet wisselen tussen apps, gewoon directe toegang.
+Stel u voor dat u één app kon openen en het direct bij de hand had – niet zoeken, niet wisselen tussen apps, gewoon directe toegang.
 
 Als dit op u van toepassing is: zakenreiziger, digitale nomade of frequente reiziger.
 
@@ -148,7 +148,7 @@ AES-256-GCM-versleuteling in rust. Versleutelde back-ups gebruiken PBKDF2-sleute
 
 Paspoortvernieuwingen duren 6 tot 8 weken. **Herinneringen starten 8 maanden vroeg** en worden automatisch gecascadeerd.
 
-Herinneringen op zes maanden, drie maanden, zes weken en vervaldatum - zodat u uw vernieuwingsdeadlines altijd voorblijft.
+Herinneringen op zes maanden, drie maanden, zes weken en vervaldatum – zodat u uw vernieuwingsdeadlines altijd voorblijft.
 
 Werkt voor paspoorten, visa, rijbewijzen, verzekeringen en alles met een vervaldatum.
 

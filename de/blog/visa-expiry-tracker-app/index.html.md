@@ -10,15 +10,15 @@ Source: https://traveldocumentvault.com/de/blog/visa-expiry-tracker-app/
 
 ## Wichtige Erkenntnisse
 
-- Visa-Tracking ist **komplexer** als Passtracking - ein Visum hat ein Gültigkeitsdatum für die Einreise, eine maximale Aufenthaltsdauer und manchmal Einreisezahlbegrenzungen, die alle separat überwacht werden müssen.
+- Visa-Tracking ist **komplexer** als Passtracking – ein Visum hat ein Gültigkeitsdatum für die Einreise, eine maximale Aufenthaltsdauer und manchmal Einreisezahlbegrenzungen, die alle separat überwacht werden müssen.
 - Visumsüberschreitung trägt ernsthafte Folgen mit sich: Geldstrafen, Wiedereinreisesperren von mehreren Jahren oder länger und in einigen Ländern strafrechtliche Anklagen.
 - Die besten Visa-Ablauf-Tracker-Apps funktionieren offline, unterstützen mehrere Visumtypen und ermöglichen benutzerdefinierte Erinnerungszeiten pro Dokument.
-- Schengen-Besucher müssen ein rollierendes 90/180-Tage-Fenster verfolgen, nicht nur ein einzelnes Ablaufdatum - die meisten generischen Reise-Apps handhaben dies nicht korrekt.
+- Schengen-Besucher müssen ein rollierendes 90/180-Tage-Fenster verfolgen, nicht nur ein einzelnes Ablaufdatum – die meisten generischen Reise-Apps handhaben dies nicht korrekt.
 - Die gemeinsame Nachverfolgung von Visummen und Pässen an einem Ort reduziert das Risiko eines Mismatchs: Einreise mit gültigem Visum, aber mit einem Passstatus, der vor Ende Ihres geplanten Aufenthalts abläuft.
 
-Eine Visumsüberschreitung ist einer der folgenreichsten Reisefehler, den eine Person machen kann. Im Gegensatz zu einem verpassten Flug - stressig, aber letztendlich behebbar - erzeugt eine Überschreitung einen offiziellen Einwanderungsdatensatz, der Sie jahrelang verfolgen kann. In den Vereinigten Staaten löst eine Überschreitung von nur 180 Tagen automatisch eine 3-jährige Wiedereinreisesperre gemäß INA Abschnitt 212(a)(9)(B)(i) aus, und eine Überschreitung von einem Jahr löst eine 10-jährige Sperre aus. Diese Konsequenzen sind nicht weit verbreitet, aber sie sind von der US Citizenship and Immigration Services dokumentiert.
+Eine Visumsüberschreitung ist einer der folgenreichsten Reisefehler, den eine Person machen kann. Im Gegensatz zu einem verpassten Flug – stressig, aber letztendlich behebbar – erzeugt eine Überschreitung einen offiziellen Einwanderungsdatensatz, der Sie jahrelang verfolgen kann. In den Vereinigten Staaten löst eine Überschreitung von nur 180 Tagen automatisch eine 3-jährige Wiedereinreisesperre gemäß INA Abschnitt 212(a)(9)(B)(i) aus, und eine Überschreitung von einem Jahr löst eine 10-jährige Sperre aus. Diese Konsequenzen sind nicht weit verbreitet, aber sie sind von der US Citizenship and Immigration Services dokumentiert.
 
-Eine Visa-Ablauf-Tracker-App verhindert dies. Sie überwacht mehrere Daten gleichzeitig - Einreisegültigkeit, maximale Aufenthaltsdauer und Einreisezahl - auf eine Weise, die generische Passport-Apps nicht können.
+Eine Visa-Ablauf-Tracker-App verhindert dies. Sie überwacht mehrere Daten gleichzeitig – Einreisegültigkeit, maximale Aufenthaltsdauer und Einreisezahl – auf eine Weise, die generische Passport-Apps nicht können.
 
 ## Warum Visa-Tracking komplexer ist als Passtracking
 
@@ -30,12 +30,12 @@ Ein Reisender betritt Vietnam mit einem Visum, auf dem "gültig bis 30. Juni" mi
 
 | Feld | Was es bedeutet | Beispiel |
 |---|---|---|
-| **Einreisegültigkeitsdatum** | Das letzte Datum, an dem Sie dieses Visum zur Einreise in das Land verwenden können | "Gültig bis 31. Dezember 2026" - Sie müssen vor diesem Datum einreisen |
-| **Maximale Aufenthaltsdauer** | Wie lange Sie nach der Einreise bleiben können, unabhängig vom Visumablaufdatum | "Aufenthaltsdauer: 90 Tage" - Die Uhr startet bei der Einreise, nicht bei der Visumausstellung |
+| **Einreisegültigkeitsdatum** | Das letzte Datum, an dem Sie dieses Visum zur Einreise in das Land verwenden können | "Gültig bis 31. Dezember 2026" – Sie müssen vor diesem Datum einreisen |
+| **Maximale Aufenthaltsdauer** | Wie lange Sie nach der Einreise bleiben können, unabhängig vom Visumablaufdatum | "Aufenthaltsdauer: 90 Tage" – Die Uhr startet bei der Einreise, nicht bei der Visumausstellung |
 | **Anzahl der Einreisen** | Einfach-, Doppel- oder Mehrfachvisummen zulässig | Ein Einfachvisum wird ungültig, sobald Sie das Land verlassen, auch wenn das Einreisegültigkeitsdatum nicht abgelaufen ist |
 | **Rollierendes Fensterregel** | Einige Visumsregime (besonders Schengen) berechnen zulässige Tage in einem rollierenden Fenster | Schengen: maximal 90 Tage in jedem rollierenden 180-Tage-Fenster, nicht pro Kalenderjahr |
 
-Ein Tracker, der nur das Einreisegültigkeitsdatum überwacht, verpasst die häufigste Ursache für versehentliche Überschreitungen: Überschreitung der maximalen Aufenthaltsdauer nach einer perfekt legalen Einreise. Dies ist das Feld, das die meisten Reisenden nicht verfolgen, da das Datum nicht im Passstatus gestempelt ist - Sie müssen es aus dem Einreisedatum berechnen.
+Ein Tracker, der nur das Einreisegültigkeitsdatum überwacht, verpasst die häufigste Ursache für versehentliche Überschreitungen: Überschreitung der maximalen Aufenthaltsdauer nach einer perfekt legalen Einreise. Dies ist das Feld, das die meisten Reisenden nicht verfolgen, da das Datum nicht im Passstatus gestempelt ist – Sie müssen es aus dem Einreisedatum berechnen.
 
 ## Die Schengen-90/180-Tage-Regel
 
@@ -43,7 +43,7 @@ Für Reisende, die mehrere europäische Länder besuchen, ist die Schengen-90/18
 
 Die Europäische Kommission bietet einen offiziellen Schengen-Aufenthaltsrechner an, um Reisenden dabei zu helfen, ihre zulässigen Tage zu berechnen. Der kritische Punkt ist, dass dies ein *rollirendes Fenster* ist, kein Kalenderjahres-Reset. Tage, die vor sechs Monaten in Schengen verbracht wurden, zählen immer noch gegen Ihre aktuelle Zulage.
 
-Die meisten generischen Passport- oder Dokumenten-Apps handhaben dies nicht korrekt. Eine App, die einfach nur ein Visumablaufdatum anzeigt, kann Schengen-Compliance nicht verwalten - es erfordert die Berechnung von Tagen über ein rollirendes Fenster basierend auf tatsächlichen Ein- und Ausreisedaten.
+Die meisten generischen Passport- oder Dokumenten-Apps handhaben dies nicht korrekt. Eine App, die einfach nur ein Visumablaufdatum anzeigt, kann Schengen-Compliance nicht verwalten – es erfordert die Berechnung von Tagen über ein rollirendes Fenster basierend auf tatsächlichen Ein- und Ausreisedaten.
 
 ## Was passiert, wenn Sie überziehen
 
@@ -73,8 +73,8 @@ Angesichts der oben genannten Komplexität braucht eine gute Visa-Ablauf-Tracker
 ## Praktische Schritte zur korrekten Visumverfolgung
 
 1. **Notieren Sie Ihr Einreisedatum am Ankunftstag.** Ihre maximale Aufenthaltsuhr startet sofort bei der Einreise, nicht ab Visumausstellung oder Beginn des Einreisegültigkeitszeitraums.
-2. **Berechnen Sie und notieren Sie Ihr letztes zulässiges Abreisedatum.** Addieren Sie Ihre maximale Aufenthaltsdauer zu Ihrem Einreisedatum. Dies ist das Datum, bis zu dem Sie abreisen müssen - früher, wenn Sie Zeit zum Erreichen eines Abflugpunkts benötigen.
-3. **Verfolgen Sie den Status Einfach- vs. Mehrfacheinreise.** Wenn Ihr Visum einfach ist, macht ein Tagesausflug in ein Nachbarland es ungültig - planen Sie entsprechend.
+2. **Berechnen Sie und notieren Sie Ihr letztes zulässiges Abreisedatum.** Addieren Sie Ihre maximale Aufenthaltsdauer zu Ihrem Einreisedatum. Dies ist das Datum, bis zu dem Sie abreisen müssen – früher, wenn Sie Zeit zum Erreichen eines Abflugpunkts benötigen.
+3. **Verfolgen Sie den Status Einfach- vs. Mehrfacheinreise.** Wenn Ihr Visum einfach ist, macht ein Tagesausflug in ein Nachbarland es ungültig – planen Sie entsprechend.
 4. **Für Schengen-Reisen führen Sie ein Protokoll der Ein- und Ausreisedaten.** Verwenden Sie den offiziellen Rechner der Europäischen Kommission, um Ihre verbleibenden Tage vor einer Reise, die auf kürzliche Schengen-Reisen folgt, zu überprüfen.
 5. **Stellen Sie mindestens 2 Wochen vor Ihrem Höchstaufenthaltsstichtag eine Erinnerung ein.** Dies gibt Ihnen Zeit, eine Abreise zu arrangieren, ohne zu hetzen, besonders wenn Transportoptionen an Ihrem Zielort begrenzt sind.
 
@@ -86,7 +86,7 @@ Verwandte Regeln, die mit Visumverfolgung interagieren: siehe unseren Leitfaden 
 
 ### Was ist eine Visa-Ablauf-Tracker-App?
 
-Eine Visa-Ablauf-Tracker-App überwacht die Ablaufdaten Ihrer Visa und sendet Erinnerungen, bevor sie ablaufen. Die besten verfolgen sowohl den Einreisegültigkeitszeitraum als auch die maximale Aufenthaltsdauer - zwei unterschiedliche Fristen, die beide wichtig für die Vermeidung einer Überschreitung sind.
+Eine Visa-Ablauf-Tracker-App überwacht die Ablaufdaten Ihrer Visa und sendet Erinnerungen, bevor sie ablaufen. Die besten verfolgen sowohl den Einreisegültigkeitszeitraum als auch die maximale Aufenthaltsdauer – zwei unterschiedliche Fristen, die beide wichtig für die Vermeidung einer Überschreitung sind.
 
 ### Was ist der Unterschied zwischen einem Visumablaufdatum und einer maximalen Aufenthaltsdauer?
 
@@ -94,11 +94,11 @@ Das Visumablaufdatum ist das letzte Datum, an dem Sie das Visum zur Einreise in 
 
 ### Was passiert, wenn Sie ein Visum überziehen?
 
-Die Folgen variieren je nach Land, umfassen aber häufig Geldstrafen, Wiedereinreisesperren und Abschiebung. In den USA löst eine Überschreitung von 180 Tagen eine 3-jährige Wiedereinreisesperre aus; eine Überschreitung von 1 Jahr eine 10-jährige Sperre - wie von USCIS dokumentiert. Überschreitungen werden in Einwanderungsdatenbanken aufgezeichnet und beeinflussen zukünftige Visaanträge.
+Die Folgen variieren je nach Land, umfassen aber häufig Geldstrafen, Wiedereinreisesperren und Abschiebung. In den USA löst eine Überschreitung von 180 Tagen eine 3-jährige Wiedereinreisesperre aus; eine Überschreitung von 1 Jahr eine 10-jährige Sperre – wie von USCIS dokumentiert. Überschreitungen werden in Einwanderungsdatenbanken aufgezeichnet und beeinflussen zukünftige Visaanträge.
 
 ### Kann eine Visa-Ablauf-Tracker-App offline funktionieren?
 
-Die besten machen das. Offline-Zugang ist an Grenzen und in Gebieten mit unzuverlässigem Internet wichtig - genau dort, wo Sie Ihre Visumdetails am meisten benötigen. Apps, die eine Internetverbindung benötigen, um Ihre Dokumente anzuzeigen, sind in diesen Situationen weniger nützlich.
+Die besten machen das. Offline-Zugang ist an Grenzen und in Gebieten mit unzuverlässigem Internet wichtig – genau dort, wo Sie Ihre Visumdetails am meisten benötigen. Apps, die eine Internetverbindung benötigen, um Ihre Dokumente anzuzeigen, sind in diesen Situationen weniger nützlich.
 
 ### Wie weit im Voraus sollte ich eine Erinnerung vor Ablauf meines Visums erhalten?
 

@@ -112,7 +112,7 @@ Ouvrez la page rigide et plastifiée qui porte votre photo, et repérez le champ
 
 ## Articles connexes
 
-[Règles de passeport6 min de lecture · 30 avril 2026Durée de validité d'un passeport pour voyager - Règles expliquées](https://traveldocumentvault.com/fr/blog/how-long-is-passport-valid-for-travel/)
+[Règles de passeport6 min de lecture · 30 avril 2026Durée de validité d'un passeport pour voyager — Règles expliquées](https://traveldocumentvault.com/fr/blog/how-long-is-passport-valid-for-travel/)
 
 [Règles de passeport8 min de lecture · février 2026La règle des 6 mois de validité du passeport : quels pays l'appliquent et comment l'éviter](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)
 

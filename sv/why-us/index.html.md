@@ -31,7 +31,7 @@ Byggde Travel Document Vault för min familj
 
 > "Varje familjeresa blev en skattjakt genom Foton, e-post och Drive. Jag byggde det här för att nästa resa inte skulle bli det."
 
-Ingen riskkapitalfinansiering, inga aktieägare, inget annonsörnätverk - bara en förälder som blev trött på samma panik, varje resa.
+Ingen riskkapitalfinansiering, inga aktieägare, inget annonsörnätverk – bara en förälder som blev trött på samma panik, varje resa.
 
 [Läs hela historien →](https://traveldocumentvault.com/sv/blog/why-i-built-travel-document-vault/)
 
@@ -43,7 +43,7 @@ Vid gaten
 
 Immigrationsdisken. Tjänstemannen ber om ditt visum.
 
-Tänk om du kunde öppna en app och ha det precis där - ingen letande, inget appbyte, bara omedelbar åtkomst?
+Tänk om du kunde öppna en app och ha det precis där – ingen letande, inget appbyte, bara omedelbar åtkomst?
 
 Om det är du: Företagsresenär, digital nomad eller frekvent flygare.
 
@@ -148,7 +148,7 @@ AES-256-GCM-kryptering i vila. Krypterade säkerhetskopior använder PBKDF2-nyck
 
 Passförnyelsetider är 6 till 8 veckor. **Påminnelserna börjar 8 månader i förväg** och kaskaderar automatiskt nedåt.
 
-Påminnelser anländer 6 månader, 3 månader, 6 veckor före utgångsdagen, samt på utgångsdagen - och hjälper dig att ligga steget före dina förnyelsedeadlines.
+Påminnelser anländer 6 månader, 3 månader, 6 veckor före utgångsdagen, samt på utgångsdagen – och hjälper dig att ligga steget före dina förnyelsedeadlines.
 
 Fungerar för pass, visum, körkort, försäkring, allt med ett utgångsdatum.
 
@@ -265,7 +265,7 @@ Den här appen är utformad för praktiska verkligheter, inte generisk fillagrin
 
 Frågorna vi hör mest.
 
-Vad händer om jag tappar bort min telefon? Vi lagrar inte din data, så vi kan inte återställa den åt dig. En systemsäkerhetskopia (iCloud/Google) installerar om appen men hämtar inte dokumenten - krypteringsnycklarna lämnade aldrig din ursprungliga enhet. Exportera en kopia med Vault Export (gratis). Pro-användare kan också skapa krypterad molnsäkerhetskopia till sitt eget iCloud eller Google Drive med en återställningskod endast de har. Fungerar det utan internet? Helt och hållet. Appen lagrar allt på din enhet och behöver aldrig en internetanslutning. OCR-bearbetning, påminnelser och dokumentvisning fungerar alla offline. Är mina data verkligen säkra? Dina dokument är starkt krypterade på din enhet och skyddas av telefonens inbyggda säkerhetschip. Vi har inga servrar och inga konton. Om du aktiverar valfri Pro-molnsäkerhetskopia går ditt krypterade valv till ditt eget iCloud eller Google Drive, förseglat med en återställningskod som endast du har. Designen innebär att jag inte kan läsa dina data, och inte heller Apple eller Google - du kan kontrollera integritetskonstruktionen själv på [sidan Privacy Verification](https://traveldocumentvault.com/sv/privacy-verification/). PIN-lås och biometriskt lås (Face ID/Touch ID) är båda gratis. Är det verkligen ett engångsköp? Ja. Pro kostar $9.99 en gång, i amerikanska dollar. Varje land visar sitt eget lokala pris i butiken innan du betalar.* Ingen prenumeration, inga återkommande avgifter, inga "din provperiod slutar"-mejl. Gratisversionen är genuint gratis, 1 profil, 5 dokument, alla funktioner inklusive OCR och påminnelser.
+Vad händer om jag tappar bort min telefon? Vi lagrar inte din data, så vi kan inte återställa den åt dig. En systemsäkerhetskopia (iCloud/Google) installerar om appen men hämtar inte dokumenten – krypteringsnycklarna lämnade aldrig din ursprungliga enhet. Exportera en kopia med Vault Export (gratis). Pro-användare kan också skapa krypterad molnsäkerhetskopia till sitt eget iCloud eller Google Drive med en återställningskod endast de har. Fungerar det utan internet? Helt och hållet. Appen lagrar allt på din enhet och behöver aldrig en internetanslutning. OCR-bearbetning, påminnelser och dokumentvisning fungerar alla offline. Är mina data verkligen säkra? Dina dokument är starkt krypterade på din enhet och skyddas av telefonens inbyggda säkerhetschip. Vi har inga servrar och inga konton. Om du aktiverar valfri Pro-molnsäkerhetskopia går ditt krypterade valv till ditt eget iCloud eller Google Drive, förseglat med en återställningskod som endast du har. Designen innebär att jag inte kan läsa dina data, och inte heller Apple eller Google – du kan kontrollera integritetskonstruktionen själv på [sidan Privacy Verification](https://traveldocumentvault.com/sv/privacy-verification/). PIN-lås och biometriskt lås (Face ID/Touch ID) är båda gratis. Är det verkligen ett engångsköp? Ja. Pro kostar $9.99 en gång, i amerikanska dollar. Varje land visar sitt eget lokala pris i butiken innan du betalar.* Ingen prenumeration, inga återkommande avgifter, inga "din provperiod slutar"-mejl. Gratisversionen är genuint gratis, 1 profil, 5 dokument, alla funktioner inklusive OCR och påminnelser.
 
 * För v1.x. Se [prispolicyn](https://traveldocumentvault.com/pricing-policy/#version-policy).
 

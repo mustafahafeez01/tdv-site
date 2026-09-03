@@ -68,7 +68,7 @@ Dopo l'importazione, controlla la scheda Profili per confermare che tutti i prof
 
 - **Non-distruttivo:** L'importazione si aggiunge ai dati esistenti. Se hai già profili sul dispositivo di destinazione, i profili importati vengono aggiunti senza eliminare quelli esistenti.
 - **Fedeltà round-trip:** Tutto è preservato esattamente: nomi dei documenti, date, avvisi di scadenza, colori personalizzati, allegati e note.
-- **Crittografato in tutto:** Il file esportato è crittografato con la password che scegli al momento dell'esportazione, tramite AES-256-GCM con derivazione della chiave PBKDF2. Solo quella password può decifrarlo, quindi conservala in un luogo sicuro - senza di essa il file non può essere recuperato.
+- **Crittografato in tutto:** Il file esportato è crittografato con la password che scegli al momento dell'esportazione, tramite AES-256-GCM con derivazione della chiave PBKDF2. Solo quella password può decifrarlo, quindi conservala in un luogo sicuro — senza di essa il file non può essere recuperato.
 - **Migliore pratica di backup:** Mantieni il file esportato in una posizione sicura. Eliminalo dopo un'importazione riuscita se preferisci, o conservalo come backup offline.
 
 **Disclaimer:** L'esportazione-importazione è progettata per la portabilità dei dati. Mantenga i file esportati al sicuro. Non condivida il backup esportato con nessuno, poiché contiene tutti i Suoi documenti e allegati crittografati.

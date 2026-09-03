@@ -22,11 +22,11 @@ Ao planear uma viagem, muitos viajantes questionam-se se podem armazenar uma có
 
 ### Check-in do Hotel
 
-A maioria dos hotéis em todo o mundo aceita cópias digitais de passaporte no check-in - um PDF no seu telemóvel, enviado com antecedência, ou impresso. Isto é particularmente útil se estiver a fazer check-in tarde ou a deslocar-se entre propriedades e não quer levar o seu passaporte físico durante toda a viagem. Alguns hotéis mais pequenos, particularmente em regiões com menos infraestrutura digital, ainda preferem o original. Em partes da Europa - Espanha, França e Itália entre elas - os hotéis devem registar os seus dados para as autoridades e geralmente vão querer ver o passaporte físico para o fazer, mesmo que a orientação de proteção de dados diga que tipicamente não devem guardar uma cópia. Contacte o seu alojamento com antecedência para confirmar.
+A maioria dos hotéis em todo o mundo aceita cópias digitais de passaporte no check-in — um PDF no seu telemóvel, enviado com antecedência, ou impresso. Isto é particularmente útil se estiver a fazer check-in tarde ou a deslocar-se entre propriedades e não quer levar o seu passaporte físico durante toda a viagem. Alguns hotéis mais pequenos, particularmente em regiões com menos infraestrutura digital, ainda preferem o original. Em partes da Europa — Espanha, França e Itália entre elas — os hotéis devem registar os seus dados para as autoridades e geralmente vão querer ver o passaporte físico para o fazer, mesmo que a orientação de proteção de dados diga que tipicamente não devem guardar uma cópia. Contacte o seu alojamento com antecedência para confirmar.
 
 ### Reservas de Voos e Check-in Online
 
-As companhias aéreas exigem a informação do seu passaporte ao fazer a reserva, e muitas permitem que carregue uma cópia digital para verificar a sua identidade para check-in online - isto acelera o processo no aeroporto. Ainda assim, precisará de apresentar o passaporte original no portão. O papel da cópia digital é verificação pré-viagem, não documentação de embarque.
+As companhias aéreas exigem a informação do seu passaporte ao fazer a reserva, e muitas permitem que carregue uma cópia digital para verificar a sua identidade para check-in online — isto acelera o processo no aeroporto. Ainda assim, precisará de apresentar o passaporte original no portão. O papel da cópia digital é verificação pré-viagem, não documentação de embarque.
 
 ### Agências de Aluguel de Automóvel
 
@@ -38,7 +38,7 @@ Se o seu passaporte for perdido ou roubado durante a viagem, uma cópia digital 
 
 ## Onde o Seu Passaporte Físico É Sempre Obrigatório
 
-Uma cópia digital não é um substituto para o seu passaporte físico na imigração, com as companhias aéreas, ou com a aplicação da lei. Nestos cenários, o documento original é simplesmente obrigatório - não há forma de contornar isto.
+Uma cópia digital não é um substituto para o seu passaporte físico na imigração, com as companhias aéreas, ou com a aplicação da lei. Nestos cenários, o documento original é simplesmente obrigatório — não há forma de contornar isto.
 
 | Situação de Viagem | Cópia Digital Aceite | Notas |
 |---|---|---|

@@ -11,7 +11,7 @@ Source: https://traveldocumentvault.com/sv/blog/travel-insurance-documents/
 ## Viktiga punkter
 
 - **Spara ditt fullständiga försäkringsdokument, försäkringsnummer och 24-timmarsnumret för nödsituationer** (inte försäljningsnumret).
-- Lagra kopior offline och där de är lätt att nå - enbart mejl hjälper inte när du är strandsatt eller på sjukhus.
+- Lagra kopior offline och där de är lätt att nå – enbart mejl hjälper inte när du är strandsatt eller på sjukhus.
 - **Förhandsbekräftelse för medicinsk behandling krävs av de flesta försäkringar**; att hoppa över det kan minska eller ogiltiga gör din skada.
 - Skador avslås oftast på grund av saknade handlingar: polisrapport för stöld, originalkvitton, signerade skadeformulär.
 - Läs din försäkrings nyckeldelar snabbt genom att fokusera på försäkringsgränser, undantag och villkor.
@@ -24,14 +24,14 @@ Det är klockan två på natten i Bangkok och du mår illa med feber. Hotellets 
 
 Några saknade handlingar är inte bara opraktiska här. De avgör om behandlingen börjar direkt, om du betalar ur egen ficka och gör anspråk senare, eller om anspråket avslås helt och hållet.
 
-Reseförsäkring fungerar bara om du kan nå den när du behöver den. De flesta lagrar den i mejl och kan inte hitta den när krisen slår till - vanligtvis under stress, tidspress eller en medicinsk nödsituation.
+Reseförsäkring fungerar bara om du kan nå den när du behöver den. De flesta lagrar den i mejl och kan inte hitta den när krisen slår till – vanligtvis under stress, tidspress eller en medicinsk nödsituation.
 
 ## De fem dokument du måste spara före du flyger
 
 Din reseförsäkring är vanligtvis en PDF. Den en filen innehåller allt du behöver, men du bör extrahera och spara dessa fem saker separat så du kan hitta dem direkt:
 
 - Fullständigt försäkringsdokument (PDF-filen)
-- Försäkringsnummer (extrahera det - skriv ned det separat också)
+- Försäkringsnummer (extrahera det – skriv ned det separat också)
 - 24-timmarslinje för nödsituationer (annorlunda från försäljnings- eller kundservicenumret)
 - Vad som är försäkrat avsnitt (försäkringsgränser för medicinsk, bagage, avbokad, etc.)
 - Viktiga undantag och villkor (inklusive krav på förhandsbekräftelse)
@@ -58,7 +58,7 @@ Som säkerhetskopia sparar du dina försäkringsdokument på en lösenordsskydda
 
 ### Fysisk kopia tillsammans med dina resehandlingar
 
-Lagra en fysisk kopia - eller ett högkvalitativt foto av de kritiska sidorna - tillsammans med ditt pass, visumhandlingar och andra resehandlingar. Om din telefon tar slut är det din säkerhetslösning.
+Lagra en fysisk kopia – eller ett högkvalitativt foto av de kritiska sidorna – tillsammans med ditt pass, visumhandlingar och andra resehandlingar. Om din telefon tar slut är det din säkerhetslösning.
 
 Ett handskrivet kort fungerar lika bra som en utskrift: försäkringsnummer, försäkringsbolags namn, nödlinje. Stoppa in det i passhållaren och det överlevnad ett tömt batteri, en förlorad telefon och en hotellsafe du inte kan öppna.
 
@@ -66,9 +66,9 @@ Ett handskrivet kort fungerar lika bra som en utskrift: försäkringsnummer, fö
 
 | Lagringsplats | Åtkomst utan internet | I en nödsituation | Säkerhetskopia om telefon försvinner |
 |---|---|---|---|
-| **Telefon (offline nedladdning)** | Direkt, ingen WiFi behövs | Tillgänglig direkt - snabbaste alternativet | Förlorad med telefon om inte säkerhetskopierad |
+| **Telefon (offline nedladdning)** | Direkt, ingen WiFi behövs | Tillgänglig direkt – snabbaste alternativet | Förlorad med telefon om inte säkerhetskopierad |
 | **Molnenhet med offline åtkomst** | Ja, om nedladdad tidigare | Beror på lokal cache; fungerar om telefon har cachad filen | Åtgärdsbar på ersättningstelefon med inloggning |
-| **Mejl** | Kräver internetanslutning | Opålitligt - du kanske inte har signal eller data | Fortfarande tillgängligt men tidsödande att söka |
+| **Mejl** | Kräver internetanslutning | Opålitligt – du kanske inte har signal eller data | Fortfarande tillgängligt men tidsödande att söka |
 | **Fysisk kopia (laminerat kort eller utskrift)** | Ja, alltid tillgängligt | Snabbast om din telefon är tom eller förlorad | Förlorad om passet försvinner; förvara i separat ficka |
 | **Krypterad app (t.ex. Travel Document Vault)** | Ja, lagrat lokalt på telefon | Direkt åtkomst, utformad för det här scenariot | Krypterad och privat; molnsäkerhetskopia valfri |
 
@@ -78,7 +78,7 @@ Ett handskrivet kort fungerar lika bra som en utskrift: försäkringsnummer, fö
 
 ### Medicinska anspråk: Du fick inte förhandsbekräftelse
 
-De flesta reseförsäkringar kräver förhandsbekräftelse före behandling. Det betyder att ringa din försäkring och få godkännande före du besöker ett sjukhus eller klinik. Kraven varierar efter försäkringsbolag och försäkringstyp - kontrollera avsnittet om medicinsk behandling i din specifika försäkring. Om du hoppar över det här steget och betalar själv kommer du ofta bli avslaget med "behandlingen var inte förhandsbekräftad." Många försäkringsbolag ersätter inte utan förhandsbekräftelse, även om behandlingen var nödvändig och försäkrad.
+De flesta reseförsäkringar kräver förhandsbekräftelse före behandling. Det betyder att ringa din försäkring och få godkännande före du besöker ett sjukhus eller klinik. Kraven varierar efter försäkringsbolag och försäkringstyp – kontrollera avsnittet om medicinsk behandling i din specifika försäkring. Om du hoppar över det här steget och betalar själv kommer du ofta bli avslaget med "behandlingen var inte förhandsbekräftad." Många försäkringsbolag ersätter inte utan förhandsbekräftelse, även om behandlingen var nödvändig och försäkrad.
 
 Säg att du blir inlagd med blindtarmsinflammation i Mumbai. Sjukhuset kräver betalning i förväg eller en garanti från din försäkring, och du har ett två timmars fönster före operation. Utan din försäkrings förhandsbekräftelse nummer kräver sjukhuset kontanter. Det lämnar två dåliga alternativ: betala nu och riskera ett avslaget anspråk månader senare, eller fördröja operation medan du jagar din försäkring. Ett samtal undviker allt. Med ett bekräftelsenummer i hand fakturerar sjukhuset din försäkring direkt.
 

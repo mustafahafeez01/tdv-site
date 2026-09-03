@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/nl/blog/safest-way-to-store-passport-dig
 
 Een paspoort is een van de meest gevoelige documenten die je bezit, met je volledige naam, geboortedatum, paspoortnummer en biometrische gegevens. Toegang verliezen tot je paspoort bij een grens is stressvol, maar de controle verliezen over een digitale kopie door een datalek is een serieuzer probleem waar de meeste mensen niet voldoende bij stilstaan. Juist daarom zouden de meeste mensen zorgvuldiger moeten nadenken over waar ze digitale kopieën bewaren, in plaats van simpelweg te kiezen voor wat het handigst aanvoelt.
 
-De drie meest gebruikte methoden - iCloud Photos, Google Photos en speciale versleutelde apps - bieden elk een andere balans tussen gemak en veiligheid. Dit artikel legt uit wat elke methode doet, hoe ze verschillen in het beschermen van je gegevens, en welke bij jouw situatie past.
+De drie meest gebruikte methoden – iCloud Photos, Google Photos en speciale versleutelde apps – bieden elk een andere balans tussen gemak en veiligheid. Dit artikel legt uit wat elke methode doet, hoe ze verschillen in het beschermen van je gegevens, en welke bij jouw situatie past.
 
 ## Optie 1: iCloud Photos
 
@@ -71,7 +71,7 @@ Een speciale versleutelde app die is ontworpen voor reisdocumenten werkt volledi
 
 ### Hoe het werkt
 
-Wanneer je je paspoortscan toevoegt aan de app, wordt deze versleuteld met AES-256 en volledig op je telefoon opgeslagen. De app werkt volledig offline - geen account nodig, geen server nodig. Als je toegang op meerdere apparaten wilt, maakt een optionele Pro-functie een versleutelde back-up naar je eigen iCloud of Google Drive, verzegeld met een herstelcode die alleen jij bezit.
+Wanneer je je paspoortscan toevoegt aan de app, wordt deze versleuteld met AES-256 en volledig op je telefoon opgeslagen. De app werkt volledig offline – geen account nodig, geen server nodig. Als je toegang op meerdere apparaten wilt, maakt een optionele Pro-functie een versleutelde back-up naar je eigen iCloud of Google Drive, verzegeld met een herstelcode die alleen jij bezit.
 
 ### Beveiligingseigenschappen
 
@@ -85,7 +85,7 @@ Wanneer je je paspoortscan toevoegt aan de app, wordt deze versleuteld met AES-2
 
 De veiligheidsvoordelen zijn aanzienlijk: je paspoortgegevens worden nooit verzonden naar of opgeslagen op een externe server, dus ze zijn nooit toegankelijk voor iemand anders, en er is geen externe server om te compromitteren als iemand ongeautoriseerde toegang krijgt tot de systemen van het appbedrijf. Dit betekent dat je te allen tijde volledige controle en eigendom over je documenten behoudt.
 
-Het nadeel is minder gemak: je kunt niet automatisch je paspoortkopie op meerdere apparaten benaderen, en als je je telefoon kwijtraakt, herstelt de app je documenten niet automatisch - je moet handmatig herstellen vanaf een back-up. Voor de meeste gezinnen die samen reizen, is het bewaren van documenten op de telefoon van één ouder sowieso voldoende, en veel apps ondersteunen handmatige synchronisatie via back-up, wat extra flexibiliteit biedt zonder automatische cloud-upload te vereisen.
+Het nadeel is minder gemak: je kunt niet automatisch je paspoortkopie op meerdere apparaten benaderen, en als je je telefoon kwijtraakt, herstelt de app je documenten niet automatisch – je moet handmatig herstellen vanaf een back-up. Voor de meeste gezinnen die samen reizen, is het bewaren van documenten op de telefoon van één ouder sowieso voldoende, en veel apps ondersteunen handmatige synchronisatie via back-up, wat extra flexibiliteit biedt zonder automatische cloud-upload te vereisen.
 
 ## Directe vergelijking
 
@@ -114,7 +114,7 @@ Het antwoord hangt af van je persoonlijke risicotolerantie en gebruikssituatie.
 
 Veel mensen gebruiken een hybride aanpak: ze bewaren een kopie in iCloud of Google Photos voor dagelijkse toegang op meerdere apparaten, en een tweede kopie in een speciale versleutelde app als veilige back-up. Dit biedt zowel gemak als redundantie. Het belangrijkste is dat je de afwegingen van elke methode begrijpt en bewust kiest.
 
-Welke methode je ook kiest, onthoud dat een digitale kopie van je paspoort net zo gevoelig is als het fysieke document zelf - bescherm het met dezelfde zorg en aandacht.
+Welke methode je ook kiest, onthoud dat een digitale kopie van je paspoort net zo gevoelig is als het fysieke document zelf – bescherm het met dezelfde zorg en aandacht.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

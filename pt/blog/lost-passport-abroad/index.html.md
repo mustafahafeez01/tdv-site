@@ -10,9 +10,9 @@ Source: https://traveldocumentvault.com/pt/blog/lost-passport-abroad/
 
 ## Pontos-Chave
 
-- Apresente um relatório de polícia primeiro - precisa dele tanto para a sua candidatura à embaixada como para a sua reclamação de seguro.
-- A sua embaixada ou consulado pode emitir um documento de viagem de emergência, normalmente muito mais rápido do que um passaporte de substituição. **Contacte antes** - a maioria requer uma marcação.
-- Os viajantes com uma cópia digital segura do seu passaporte obtêm documentos de substituição mais rapidamente - entregar os detalhes que a sua embaixada necessita em segundos.
+- Apresente um relatório de polícia primeiro — precisa dele tanto para a sua candidatura à embaixada como para a sua reclamação de seguro.
+- A sua embaixada ou consulado pode emitir um documento de viagem de emergência, normalmente muito mais rápido do que um passaporte de substituição. **Contacte antes** — a maioria requer uma marcação.
+- Os viajantes com uma cópia digital segura do seu passaporte obtêm documentos de substituição mais rapidamente — entregar os detalhes que a sua embaixada necessita em segundos.
 - O seguro de viagem cobre custos de substituição de passaporte na maioria das apólices abrangentes. Precisa do relatório de polícia para reclamar.
 - O momento para preparar é agora, antes de algo correr mal. Uma digitalização de cinco minutos hoje poderia economizar dias de stress no estrangeiro.
 
@@ -20,7 +20,7 @@ Todos os dias há pessoas a substituir passaportes perdidos no estrangeiro, e as
 
 ## Antes de Algo Correr Mal: Fotografe o Seu Passaporte Agora
 
-Se está a ler isto antes da sua viagem, dedique os próximos cinco minutos a isto. Tire uma foto clara da página de dados principal de cada passaporte com que vai viajar. Guarde-a numa aplicação encriptada que funciona offline - muito mais segura do que o seu rolo de câmara e mantida totalmente privada.
+Se está a ler isto antes da sua viagem, dedique os próximos cinco minutos a isto. Tire uma foto clara da página de dados principal de cada passaporte com que vai viajar. Guarde-a numa aplicação encriptada que funciona offline — muito mais segura do que o seu rolo de câmara e mantida totalmente privada.
 
 Quando chegar à sua embaixada, pedir-lhe-ão o número do passaporte, data de emissão, local de emissão e data de validade. Sem uma cópia, está a tentar lembrar-se destes detalhes sob stress. Com uma, entregar-lhos-á em segundos. **O pessoal consular emite documentos de substituição mais rapidamente quando chega com os detalhes já escritos.**
 
@@ -28,7 +28,7 @@ Uma cópia no telemóvel é um registo, não uma identificação, e os dois conc
 
 ## Passo 1: Confirme Que o Passaporte Realmente Desapareceu
 
-Procure em todo o lado antes de assumir o pior - bolsos do casaco, todos os compartimentos da mala, cofre do hotel, no último táxi ou restaurante. Se desapareceu genuinamente ou foi roubado, avance pelos passos restantes sem demora.
+Procure em todo o lado antes de assumir o pior — bolsos do casaco, todos os compartimentos da mala, cofre do hotel, no último táxi ou restaurante. Se desapareceu genuinamente ou foi roubado, avance pelos passos restantes sem demora.
 
 ## Passo 2: Apresente um Relatório de Polícia Imediatamente
 
@@ -40,12 +40,12 @@ Peça uma cópia escrita com número de caso. Solicite uma versão em inglês ou
 
 A sua embaixada ou consulado é o seu caminho para casa. Contacte-os assim que tiver o relatório de polícia. Contactos de emergência oficial:
 
-- **Cidadãos britânicos:** GOV.UK - assistência consular de emergência
-- **Cidadãos norte-americanos:** travel.state.gov - passaportes perdidos ou roubados
-- **Cidadãos australianos:** Smartraveller - passaporte perdido ou roubado
-- **Cidadãos canadianos:** Canada.ca - passaporte perdido ou roubado no estrangeiro
+- **Cidadãos britânicos:** GOV.UK — assistência consular de emergência
+- **Cidadãos norte-americanos:** travel.state.gov — passaportes perdidos ou roubados
+- **Cidadãos australianos:** Smartraveller — passaporte perdido ou roubado
+- **Cidadãos canadianos:** Canada.ca — passaporte perdido ou roubado no estrangeiro
 
-Contacte antes de visitar. Muitas embaixadas requerem uma marcação para serviços de passaporte de emergência e podem dizer-lhe exatamente o que trazer - apresentar-se sem uma pode custar-lhe meia dia.
+Contacte antes de visitar. Muitas embaixadas requerem uma marcação para serviços de passaporte de emergência e podem dizer-lhe exatamente o que trazer — apresentar-se sem uma pode custar-lhe meia dia.
 
 ## Passo 4: Solicite um Documento de Viagem de Emergência
 
@@ -54,23 +54,23 @@ A sua embaixada emite um documento de viagem de emergência (DVE) ou passaporte 
 O que normalmente vai precisar (confirme com a sua embaixada antes de visitar):
 
 - Relatório de polícia com número de caso
-- Prova de identidade - carta de condução, certidão de nascimento, ou qualquer outra identificação emitida pelo governo
-- Fotos de passaporte - pergunte à sua embaixada onde obter estas localmente
+- Prova de identidade — carta de condução, certidão de nascimento, ou qualquer outra identificação emitida pelo governo
+- Fotos de passaporte — pergunte à sua embaixada onde obter estas localmente
 - A sua cópia digital do passaporte perdido se tiver uma
-- Prova de viagem de continuação - reserva de voo, confirmação de hotel
-- Taxa de documento de emergência - tenha dinheiro e cartão disponível
+- Prova de viagem de continuação — reserva de voo, confirmação de hotel
+- Taxa de documento de emergência — tenha dinheiro e cartão disponível
 
-**Travel Document Vault** armazena uma cópia encriptada do seu passaporte no seu telemóvel - acessível sem internet, sem login. É exatamente o que a sua embaixada lhe pedirá. [Transferir na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** armazena uma cópia encriptada do seu passaporte no seu telemóvel — acessível sem internet, sem login. É exatamente o que a sua embaixada lhe pedirá. [Transferir na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Passo 5: Notifique a Sua Seguradora de Viagem
 
-Reporte a perda à sua seguradora de viagem o mais rapidamente possível. A maioria das apólices abrangentes cobrem custos de substituição de passaporte, taxas de passaporte de emergência e por vezes alojamento extra se ficar atrasado. Guarde todos os recibos - vai precisar deles para a reclamação, juntamente com o número de referência do relatório de polícia.
+Reporte a perda à sua seguradora de viagem o mais rapidamente possível. A maioria das apólices abrangentes cobrem custos de substituição de passaporte, taxas de passaporte de emergência e por vezes alojamento extra se ficar atrasado. Guarde todos os recibos — vai precisar deles para a reclamação, juntamente com o número de referência do relatório de polícia.
 
 Pode fazer essa chamada mais cedo se o número da apólice e a linha de emergência 24 horas já estiverem à mão, em vez de perdidos numa caixa de correio a que não consegue aceder. O nosso guia sobre [que documentos de seguro de viagem guardar antes de partir](https://traveldocumentvault.com/pt/blog/travel-insurance-documents/) indica o que guardar offline.
 
 ## Passo 6: Verifique a Sua Situação de Visto
 
-Um visto é válido apenas para o passaporte específico em que foi emitido. Se o seu passaporte estiver perdido, o seu visto está perdido também - nem um documento de viagem de emergência o restaurará. A sua embaixada aconselhá-lo-á se o país de destino o deixará sair num DVE, fazendo referência ao visto perdido. Não assuma que pode sair - confirme com a sua embaixada antes de tentar sair.
+Um visto é válido apenas para o passaporte específico em que foi emitido. Se o seu passaporte estiver perdido, o seu visto está perdido também — nem um documento de viagem de emergência o restaurará. A sua embaixada aconselhá-lo-á se o país de destino o deixará sair num DVE, fazendo referência ao visto perdido. Não assuma que pode sair — confirme com a sua embaixada antes de tentar sair.
 
 O que isto significa na prática
 
@@ -90,7 +90,7 @@ Apresente um relatório de polícia imediatamente, depois contacte a sua embaixa
 
 ### Posso obter um passaporte de emergência no estrangeiro?
 
-Sim. A maioria dos países emite documentos de viagem de emergência através das suas embaixadas e consulados, normalmente válidos para uma única viagem para casa. O tempo de emissão depende da sede e da urgência do seu caso, por isso pergunte quando ligar. Contacte a sua embaixada ou consulado mais próximo o mais rapidamente possível - muitas requerem uma marcação.
+Sim. A maioria dos países emite documentos de viagem de emergência através das suas embaixadas e consulados, normalmente válidos para uma única viagem para casa. O tempo de emissão depende da sede e da urgência do seu caso, por isso pergunte quando ligar. Contacte a sua embaixada ou consulado mais próximo o mais rapidamente possível — muitas requerem uma marcação.
 
 ### Preciso de um relatório de polícia se o meu passaporte for roubado no estrangeiro?
 

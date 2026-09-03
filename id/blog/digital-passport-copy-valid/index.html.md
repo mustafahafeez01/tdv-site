@@ -22,11 +22,11 @@ Saat merencanakan perjalanan, banyak pelancong bertanya-tanya apakah mereka bisa
 
 ### Check-in Hotel
 
-Sebagian besar hotel di seluruh dunia menerima salinan digital paspor untuk check-in - PDF di ponsel, dikirim lewat email sebelumnya, atau dicetak. Ini sangat berguna jika Anda check-in larut malam atau berpindah antar-akomodasi dan tidak ingin membawa paspor fisik sepanjang perjalanan. Beberapa hotel kecil, terutama di wilayah dengan infrastruktur digital yang kurang berkembang, masih lebih memilih dokumen asli. Di beberapa bagian Eropa - termasuk Spanyol, Prancis, dan Italia - hotel wajib mencatat data Anda untuk otoritas setempat dan umumnya ingin melihat paspor fisik untuk melakukannya, meski panduan perlindungan data menyatakan mereka biasanya tidak boleh menyimpan salinannya. Hubungi tempat menginap Anda terlebih dahulu untuk memastikan.
+Sebagian besar hotel di seluruh dunia menerima salinan digital paspor untuk check-in — PDF di ponsel, dikirim lewat email sebelumnya, atau dicetak. Ini sangat berguna jika Anda check-in larut malam atau berpindah antar-akomodasi dan tidak ingin membawa paspor fisik sepanjang perjalanan. Beberapa hotel kecil, terutama di wilayah dengan infrastruktur digital yang kurang berkembang, masih lebih memilih dokumen asli. Di beberapa bagian Eropa — termasuk Spanyol, Prancis, dan Italia — hotel wajib mencatat data Anda untuk otoritas setempat dan umumnya ingin melihat paspor fisik untuk melakukannya, meski panduan perlindungan data menyatakan mereka biasanya tidak boleh menyimpan salinannya. Hubungi tempat menginap Anda terlebih dahulu untuk memastikan.
 
 ### Pemesanan Penerbangan dan Check-in Daring
 
-Maskapai penerbangan meminta informasi paspor Anda saat pemesanan, dan banyak yang mengizinkan Anda mengunggah salinan digital untuk memverifikasi identitas saat check-in daring - ini mempercepat proses di bandara. Anda tetap harus menunjukkan paspor asli di gerbang keberangkatan. Peran salinan digital adalah untuk verifikasi sebelum perjalanan, bukan sebagai dokumen naik pesawat.
+Maskapai penerbangan meminta informasi paspor Anda saat pemesanan, dan banyak yang mengizinkan Anda mengunggah salinan digital untuk memverifikasi identitas saat check-in daring, ini mempercepat proses di bandara. Anda tetap harus menunjukkan paspor asli di gerbang keberangkatan. Peran salinan digital adalah untuk verifikasi sebelum perjalanan, bukan sebagai dokumen naik pesawat.
 
 ### Perusahaan Sewa Mobil
 
@@ -38,7 +38,7 @@ Jika paspor Anda hilang atau dicuri saat bepergian, salinan digital dapat secara
 
 ## Di Mana Paspor Fisik Anda Selalu Diperlukan
 
-Salinan digital bukan pengganti paspor fisik Anda di imigrasi, pada maskapai, atau pada aparat penegak hukum. Dalam situasi ini, dokumen aslinya wajib mutlak - tidak ada cara untuk menghindarinya.
+Salinan digital bukan pengganti paspor fisik Anda di imigrasi, pada maskapai, atau pada aparat penegak hukum. Dalam situasi ini, dokumen aslinya wajib mutlak, tidak ada cara untuk menghindarinya.
 
 | Situasi Perjalanan | Salinan Digital Diterima | Catatan |
 |---|---|---|

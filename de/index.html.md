@@ -32,7 +32,7 @@ Ich habe diese App gebaut, weil ich sie für meine eigene Familie brauchte. Sie 
 
 ### Von Grund auf offline
 
-Der sicherste Server für Passscans ist kein Server - deshalb speichert die App Dokumente auf Ihrem Gerät und läuft standardmäßig vollständig offline. Wenn Sie Sicherung aktivieren, geht Ihr verschlüsselter Tresor zu Ihrer eigenen iCloud oder Google Drive, versiegelt mit einem Wiederherstellungscode, den nur Sie halten.
+Der sicherste Server für Passscans ist kein Server – deshalb speichert die App Dokumente auf Ihrem Gerät und läuft standardmäßig vollständig offline. Wenn Sie Sicherung aktivieren, geht Ihr verschlüsselter Tresor zu Ihrer eigenen iCloud oder Google Drive, versiegelt mit einem Wiederherstellungscode, den nur Sie halten.
 
 ### Verschlüsselung auf dem Gerät
 
@@ -40,11 +40,11 @@ Dokumente werden auf Ihrem Gerät mit AES-256-GCM verschlüsselt, wobei Schlüss
 
 ### Ihre Cloud. Ihr Schlüssel.
 
-Optionale verschlüsselte Sicherung (Pro) in Ihrer eigenen iCloud oder Google Drive mit Ein-Tap-Wiederherstellung auf einem neuen Telefon - Sie halten den Wiederherstellungscode, daher sehen wir ihn nie. Der kostenlose Tresor-Export ist immer enthalten.
+Optionale verschlüsselte Sicherung (Pro) in Ihrer eigenen iCloud oder Google Drive mit Ein-Tap-Wiederherstellung auf einem neuen Telefon – Sie halten den Wiederherstellungscode, daher sehen wir ihn nie. Der kostenlose Tresor-Export ist immer enthalten.
 
 ### Intelligente Erinnerungen
 
-Reisepässe melden sich bereits acht Monate vorher, danach rücken die Erinnerungen näher - sechs Monate, drei, sechs Wochen, ein Monat - bis zum Ablauftag. Jeder Dokumenttyp hat seinen eigenen Zeitplan, fertig eingerichtet, sobald Sie ihn hinzufügen.
+Reisepässe melden sich bereits acht Monate vorher, danach rücken die Erinnerungen näher – sechs Monate, drei, sechs Wochen, ein Monat – bis zum Ablauftag. Jeder Dokumenttyp hat seinen eigenen Zeitplan, fertig eingerichtet, sobald Sie ihn hinzufügen.
 
 ### Familiengerechte Logik
 
@@ -258,7 +258,7 @@ Stellen Sie Käufe jederzeit mit dem App Store- oder Google Play-Konto wieder he
 
 ## Häufig gestellte Fragen
 
-Ist es wirklich privat? Ja. Alles wird 100% auf Ihrem Gerät gespeichert. Wir haben keinen Zugriff auf Ihre Dokumente und es gibt keine Cloud-Datenbank. Verlassen Sie sich nicht nur auf unser Wort - [überprüfen Sie es selbst](https://traveldocumentvault.com/de/privacy-verification/). Was ist, wenn ich mein Telefon verliere? Ihr Tresor wird auf Ihrem Gerät gespeichert. Wenn Sie Telefone wechseln, stellen Sie mithilfe Ihrer üblichen Telefonsicherung wieder her. Kann ich zwischen Geräten synchronisieren? Ja. Mit Pro aktivieren Sie die Your Own Cloud-Sicherung, um Ihren verschlüsselten Tresor mit Ihrer iCloud oder Google Drive zu synchronisieren. Sie halten den Wiederherstellungscode. Wir greifen nie auf Ihre Daten zu. Was ist der Reiseplaner? Der Reiseplaner gruppiert Familiendokumente nach Reise und zeigt eine Bereitschaftsampel - grün, wenn alle bereit sind, gelb, wenn der Pass von jemandem bald abläuft. Planen Sie Reisen gemeinsam mit Zuversicht. [Siehe alle Datenschutz- und Datenantworten](https://traveldocumentvault.com/de/faq/)
+Ist es wirklich privat? Ja. Alles wird 100% auf Ihrem Gerät gespeichert. Wir haben keinen Zugriff auf Ihre Dokumente und es gibt keine Cloud-Datenbank. Verlassen Sie sich nicht nur auf unser Wort – [überprüfen Sie es selbst](https://traveldocumentvault.com/de/privacy-verification/). Was ist, wenn ich mein Telefon verliere? Ihr Tresor wird auf Ihrem Gerät gespeichert. Wenn Sie Telefone wechseln, stellen Sie mithilfe Ihrer üblichen Telefonsicherung wieder her. Kann ich zwischen Geräten synchronisieren? Ja. Mit Pro aktivieren Sie die Your Own Cloud-Sicherung, um Ihren verschlüsselten Tresor mit Ihrer iCloud oder Google Drive zu synchronisieren. Sie halten den Wiederherstellungscode. Wir greifen nie auf Ihre Daten zu. Was ist der Reiseplaner? Der Reiseplaner gruppiert Familiendokumente nach Reise und zeigt eine Bereitschaftsampel – grün, wenn alle bereit sind, gelb, wenn der Pass von jemandem bald abläuft. Planen Sie Reisen gemeinsam mit Zuversicht. [Siehe alle Datenschutz- und Datenantworten](https://traveldocumentvault.com/de/faq/)
 
 **Wichtig:** Travel Document Vault ist ein persönliches Organisationswerkzeug zum Speichern digitaler Kopien Ihrer Dokumente. **Digitale Kopien, die in dieser App gespeichert sind, sind NICHT für Reisen gültig.** Es verifiziert nicht die Authentizität von Dokumenten oder bietet keine rechtliche oder Reiseberatung. Führen Sie immer Originaldokumente mit und überprüfen Sie alle Reiseanforderungen bei offiziellen Regierungsquellen.
 

@@ -68,7 +68,7 @@ Après l'importation, vérifiez l'onglet Profils pour confirmer que tous les pro
 
 - **Non destructif :** L'importation s'ajoute à vos données existantes. Si vous avez déjà des profils sur l'appareil cible, les profils importés sont ajoutés sans supprimer les profils existants.
 - **Fidélité de l'aller-retour :** Tout est préservé exactement : noms de documents, dates, alertes d'expiration, couleurs personnalisées, pièces jointes et notes.
-- **Chiffrement continu :** Le fichier exporté est chiffré avec le mot de passe que vous choisissez lors de l'exportation, à l'aide du chiffrement AES-256-GCM et d'une dérivation de clé PBKDF2. Seul ce mot de passe permet de le déchiffrer, alors conservez-le en lieu sûr - sans lui, le fichier ne peut pas être récupéré.
+- **Chiffrement continu :** Le fichier exporté est chiffré avec le mot de passe que vous choisissez lors de l'exportation, à l'aide du chiffrement AES-256-GCM et d'une dérivation de clé PBKDF2. Seul ce mot de passe permet de le déchiffrer, alors conservez-le en lieu sûr — sans lui, le fichier ne peut pas être récupéré.
 - **Bonne pratique de sauvegarde :** Conservez votre fichier exporté dans un endroit sécurisé. Supprimez-le après une importation réussie si vous préférez, ou conservez-le comme sauvegarde hors ligne.
 
 **Avertissement :** L'exportation-importation est conçue pour la portabilité des données. Conservez les fichiers exportés en sécurité. Ne partagez pas la sauvegarde exportée avec quiconque, car elle contient tous vos documents et pièces jointes chiffrés.

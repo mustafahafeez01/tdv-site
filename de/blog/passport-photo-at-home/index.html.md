@@ -12,8 +12,8 @@ Source: https://traveldocumentvault.com/de/blog/passport-photo-at-home/
 
 - Verwenden Sie einen einfarbigen weißen oder cremefarbenen Hintergrund, neutralen Ausdruck, Augen offen und gerade nach vorne schauend
 - Größenanforderungen unterscheiden sich von Land zu Land und werden streng durchgesetzt. Einige Behörden geben Millimeter an, andere Zoll. Entnehmen Sie die genauen Messwerte Ihrer eigenen Passbehörde anstelle einer Zusammenfassung
-- Natürliches Fensterlich funktioniert am besten - vermeiden Sie harte Schatten und vermeiden Sie Kamerablitz
-- Die meisten Länder verbieten jetzt Brillen, es sei denn, medizinisch notwendig - überprüfen Sie aktuelle Anforderungen
+- Natürliches Fensterlich funktioniert am besten – vermeiden Sie harte Schatten und vermeiden Sie Kamerablitz
+- Die meisten Länder verbieten jetzt Brillen, es sei denn, medizinisch notwendig – überprüfen Sie aktuelle Anforderungen
 - Häufige Ablehnungsgründe sind Schatten, falsche Größe, Lächeln, unscharfe Fotos und ungeeigneter Hintergrund
 
 Ein zu Hause aufgenommenes Foto wird genauso zuverlässig akzeptiert wie eines aus dem Fotoautomaten, solange es dieselbe kurze Liste von Regeln erfüllt. Die meisten Ablehnungen laufen auf drei Dinge hinaus: Schatten im Gesicht oder im Hintergrund, ein falsch proportionierter Kopf im Bild, und die Brille. Stimmen diese drei, ist der Rest einfach.
@@ -24,11 +24,11 @@ Obwohl spezifische Regeln je nach Passbehörde unterschiedlich sind, teilen die 
 
 ### Hintergrund und Komposition
 
-Sie benötigen einen einfarbigen weißen oder cremefarbenen Hintergrund - sonst nichts. Keine Muster, Schatten, unscharfe Hintergründe oder Farben. Der Grund ist einfach: Beamte benötigen einen sauberen, unverbauten Blick auf Ihr Gesicht, um es gegen zukünftige Dokumente zu vergleichen. Die meisten Menschen verwenden ein weißes Bettlaken, Plakatwand oder malen sogar einen kleinen Bereich der Wand. Der Schlüssel ist, es hell und durchgehend zu halten.
+Sie benötigen einen einfarbigen weißen oder cremefarbenen Hintergrund – sonst nichts. Keine Muster, Schatten, unscharfe Hintergründe oder Farben. Der Grund ist einfach: Beamte benötigen einen sauberen, unverbauten Blick auf Ihr Gesicht, um es gegen zukünftige Dokumente zu vergleichen. Die meisten Menschen verwenden ein weißes Bettlaken, Plakatwand oder malen sogar einen kleinen Bereich der Wand. Der Schlüssel ist, es hell und durchgehend zu halten.
 
 ### Ausdruck und Pose
 
-Ihr Gesicht muss das Bild im von Ihrer Passbehörde angegebenen Verhältnis ausfüllen, mit offenen und deutlich sichtbaren Augen - die meisten Länder verbieten Lächeln, und Blinzeln wird das Foto disqualifizieren. Schauen Sie geradeaus in die Kamera mit neutralem Ausdruck, neigen Sie den Kopf leicht, wenn das natürlicher wirkt, halten Sie Ihren Kopf aber allgemein quadratisch zur Linse. Ihre Ohren sollten idealerweise auf beiden Seiten Ihres Gesichts sichtbar sein.
+Ihr Gesicht muss das Bild im von Ihrer Passbehörde angegebenen Verhältnis ausfüllen, mit offenen und deutlich sichtbaren Augen – die meisten Länder verbieten Lächeln, und Blinzeln wird das Foto disqualifizieren. Schauen Sie geradeaus in die Kamera mit neutralem Ausdruck, neigen Sie den Kopf leicht, wenn das natürlicher wirkt, halten Sie Ihren Kopf aber allgemein quadratisch zur Linse. Ihre Ohren sollten idealerweise auf beiden Seiten Ihres Gesichts sichtbar sein.
 
 ## Darf man auf dem Passfoto eine Brille tragen?
 
@@ -44,9 +44,9 @@ Bei digitalen Einreichungen treten Pixel an die Stelle von Millimetern, und jede
 
 ### Wo Sie die Größenanforderungen Ihres Landes finden
 
-Die Größe ist das, woran die meisten Menschen scheitern - wenn Ihr Foto nicht den Vorgaben Ihres Landes entspricht, ist eine Ablehnung fast sicher. Jedes Land legt seine eigenen Abmessungen fest, und diese Regeln werden von Zeit zu Zeit überarbeitet, daher sind die einzigen Zahlen, denen zu vertrauen ist, die auf der Website Ihrer eigenen Passbehörde am Tag der Einreichung.
+Die Größe ist das, woran die meisten Menschen scheitern – wenn Ihr Foto nicht den Vorgaben Ihres Landes entspricht, ist eine Ablehnung fast sicher. Jedes Land legt seine eigenen Abmessungen fest, und diese Regeln werden von Zeit zu Zeit überarbeitet, daher sind die einzigen Zahlen, denen zu vertrauen ist, die auf der Website Ihrer eigenen Passbehörde am Tag der Einreichung.
 
-Die Anforderungen unterscheiden sich von Land zu Land, und einige werden in Zoll statt Millimetern angegeben. Wir drucken die Zahlen hier absichtlich nicht nach - eine Zahl, die in einen Blog-Artikel kopiert wird, ist eine Zahl, die leise veraltet sein kann. Gehen Sie stattdessen direkt zu Ihrer Behörde.
+Die Anforderungen unterscheiden sich von Land zu Land, und einige werden in Zoll statt Millimetern angegeben. Wir drucken die Zahlen hier absichtlich nicht nach – eine Zahl, die in einen Blog-Artikel kopiert wird, ist eine Zahl, die leise veraltet sein kann. Gehen Sie stattdessen direkt zu Ihrer Behörde.
 
 | Land | Wo Sie die aktuellen Anforderungen überprüfen |
 |---|---|
@@ -55,7 +55,7 @@ Die Anforderungen unterscheiden sich von Land zu Land, und einige werden in Zoll
 | Australien | Australisches Passamtsleitfaden für Fotos |
 | Kanada | Regierung von Kanada Passfoto |
 
-Diese Spezifikationen sind genau - selbst wenige Millimeter bedeuten Ablehnung. Ihr Smartphone-Rohfoto wird normalerweise viel größer als das sein, was Sie einreichen müssen, weshalb es Zuschneidungs-Apps gibt. Kostenlose oder kostengünstige Tools wie die auf iOS und Android verfügbaren ermöglichen es Ihnen, Ihr Land auszuwählen und automatisch auf die genaue Spezifikation zu ändern.
+Diese Spezifikationen sind genau – selbst wenige Millimeter bedeuten Ablehnung. Ihr Smartphone-Rohfoto wird normalerweise viel größer als das sein, was Sie einreichen müssen, weshalb es Zuschneidungs-Apps gibt. Kostenlose oder kostengünstige Tools wie die auf iOS und Android verfügbaren ermöglichen es Ihnen, Ihr Land auszuwählen und automatisch auf die genaue Spezifikation zu ändern.
 
 ### Fotoeinreichungsmethoden Vergleich
 
@@ -83,17 +83,17 @@ Verwenden Sie ein Stativ oder lehnen Sie Ihr Telefon gegen ein stabiles Objekt, 
 
 ### Auflösung und Fokus
 
-Moderne Smartphones schießen mit 12 Megapixeln oder höher, was für Passfotos ausreicht. Bevor Sie aufnehmen, stellen Sie sicher, dass Ihr Telefon im Fokusmodus ist - tippen Sie auf Ihrem Gesicht auf dem Bildschirm, und die meisten Telefone sperren den Fokus dort. Ihr endgültiges Bild sollte scharf und klar sein.
+Moderne Smartphones schießen mit 12 Megapixeln oder höher, was für Passfotos ausreicht. Bevor Sie aufnehmen, stellen Sie sicher, dass Ihr Telefon im Fokusmodus ist – tippen Sie auf Ihrem Gesicht auf dem Bildschirm, und die meisten Telefone sperren den Fokus dort. Ihr endgültiges Bild sollte scharf und klar sein.
 
 ## Häufige Ablehnungsgründe und wie Sie diese vermeiden
 
 - **Schatten im Gesicht:** Verursacht durch Seitenlicht oder harte Lichtquellen. Positionieren Sie sich senkrecht zum Fenster für gleichmäßige Beleuchtung, und überprüfen Sie, dass Ihre Ohren und Wangenknochen gleichmäßig beleuchtet sind.
-- **Falsche Fotodimensionen:** Das Foto entspricht nicht den Spezifikationen Ihres Landes (Anforderungen unterscheiden sich je nach Land). Verwenden Sie eine Passfoto-Zuschneidungs-App und überprüfen Sie die Abmessungen doppelt gegen die offizielle Spezifikation Ihrer Behörde vor dem Drucken oder Hochladen - nicht die Standards eines anderen Landes.
-- **Lächeln oder ungewöhnlicher Ausdruck:** Die meisten Länder erfordern einen neutralen Ausdruck. Üben Sie einen ruhigen, geradeaus gerichteten Blick in einem Spiegel - zielen Sie auf ernst, nicht streng.
+- **Falsche Fotodimensionen:** Das Foto entspricht nicht den Spezifikationen Ihres Landes (Anforderungen unterscheiden sich je nach Land). Verwenden Sie eine Passfoto-Zuschneidungs-App und überprüfen Sie die Abmessungen doppelt gegen die offizielle Spezifikation Ihrer Behörde vor dem Drucken oder Hochladen – nicht die Standards eines anderen Landes.
+- **Lächeln oder ungewöhnlicher Ausdruck:** Die meisten Länder erfordern einen neutralen Ausdruck. Üben Sie einen ruhigen, geradeaus gerichteten Blick in einem Spiegel – zielen Sie auf ernst, nicht streng.
 - **Brille mit Glanz:** Glanz auf den Gläsern verdeckt Ihre Augen. Entweder entfernen Sie Ihre Brille oder passen Sie den Winkel an, um die Reflexion zu beseitigen. Viele Länder verbieten jetzt Brillen vollständig, es sei denn, medizinisch notwendig, daher überprüfen Sie zuerst die aktuellen Regeln Ihrer Behörde.
 - **Unscharfes oder unfokussiertes Bild:** Bewegungs- oder Fokussprobleme während der Aufnahme. Verwenden Sie ein Stativ oder ein stabiles Objekt, um Ihr Telefon zu stützen, tippen Sie auf den Bildschirm, um auf Ihrem Gesicht zu fokussieren, und vermeiden Sie jede Bewegung während der Aufnahme.
-- **Falscher Hintergrund:** Farbiger Hintergrund, Muster oder ungleichmäßiger weißer Hintergrund. Einfacher weißer oder cremefarbener Plakatwand oder Bettlaken funktioniert am besten - stellen Sie sicher, dass keine sichtbare Textur oder Schatten vorhanden sind.
-- **Übermäßiger Kopfplatz oder Beschnitt:** Gesicht zu klein oder falsch im Rahmen positioniert. Die Regeln Ihres Landes geben genau an, wie viel des Rahmens Ihr Gesicht ausfüllen sollte, normalerweise als Messung vom Kinn bis zur Scheitelkante, nicht als Prozentsatz - arbeiten Sie nach dieser Zahl, nicht nach dem, was richtig aussieht.
+- **Falscher Hintergrund:** Farbiger Hintergrund, Muster oder ungleichmäßiger weißer Hintergrund. Einfacher weißer oder cremefarbener Plakatwand oder Bettlaken funktioniert am besten – stellen Sie sicher, dass keine sichtbare Textur oder Schatten vorhanden sind.
+- **Übermäßiger Kopfplatz oder Beschnitt:** Gesicht zu klein oder falsch im Rahmen positioniert. Die Regeln Ihres Landes geben genau an, wie viel des Rahmens Ihr Gesicht ausfüllen sollte, normalerweise als Messung vom Kinn bis zur Scheitelkante, nicht als Prozentsatz – arbeiten Sie nach dieser Zahl, nicht nach dem, was richtig aussieht.
 
 ## Vom Smartphone zum offiziellen Foto: Der Prozess
 
@@ -101,7 +101,7 @@ Ihr Smartphone-Foto hat die richtige Größe selten sofort. Nach der Aufnahme m�
 
 ### Zuschneidungs-Tools
 
-Zuschneidungs-Apps nehmen die Vermutung aus dem Neugrößen heraus. Suchen Sie nach Tools wie Passport Photo Online oder ID Photo Studio auf iOS und Android - sie ermöglichen es Ihnen, Ihr Land auszuwählen und automatisch nach Spezifikation zuzuschneiden, während überprüft wird, dass Ihre Gesichtsdimensionen korrekt sind. Viele Apps gehen weiter, indem sie Feedback geben, wenn Ihre Beleuchtung oder Ihr Hintergrund zu kurz kommt.
+Zuschneidungs-Apps nehmen die Vermutung aus dem Neugrößen heraus. Suchen Sie nach Tools wie Passport Photo Online oder ID Photo Studio auf iOS und Android – sie ermöglichen es Ihnen, Ihr Land auszuwählen und automatisch nach Spezifikation zuzuschneiden, während überprüft wird, dass Ihre Gesichtsdimensionen korrekt sind. Viele Apps gehen weiter, indem sie Feedback geben, wenn Ihre Beleuchtung oder Ihr Hintergrund zu kurz kommt.
 
 ### Drucken vs. digitale Einreichung
 
@@ -119,7 +119,7 @@ Bevor Sie Ihr Foto machen, stellen Sie sicher, dass Sie Folgendes zur Hand haben
 - Eine Zuschneidungs-App heruntergeladen und bereit
 - Plan zum Drucken oder digitalen Einreichen basierend auf den Anforderungen Ihres Landes
 
-Ein paar Minuten richtig zu richten spart Sie vor einem späteren erneuten Einreichen - was bedeutet, dass Ihr Antrag nicht verzögert wird.
+Ein paar Minuten richtig zu richten spart Sie vor einem späteren erneuten Einreichen – was bedeutet, dass Ihr Antrag nicht verzögert wird.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 

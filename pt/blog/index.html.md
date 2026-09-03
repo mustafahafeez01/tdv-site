@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
-[Viagem em FamíliaViajar com um Filho Sem os Dois Pais: O Que LevarGuarda exclusiva, viagens com avós, apelido diferente - cada situação altera os documentos que o seu filho precisa. O que verificam o balcão de check-in e o agente de fronteira.30 de agosto de 20268 min de leitura](https://traveldocumentvault.com/pt/blog/travelling-child-without-both-parents/)
+[Viagem em FamíliaViajar com um Filho Sem os Dois Pais: O Que LevarGuarda exclusiva, viagens com avós, apelido diferente — cada situação altera os documentos que o seu filho precisa. O que verificam o balcão de check-in e o agente de fronteira.30 de agosto de 20268 min de leitura](https://traveldocumentvault.com/pt/blog/travelling-child-without-both-parents/)
 
 ##
 
@@ -40,7 +40,7 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
-[Viagens em FamíliaRegras de Passaporte para Schengen em Viagens de Família: Onde os Pais se Enganam Schengen precisa de 3 meses de validade após a partida, não 6 - e os passaportes das crianças expiram em 5 anos. O que as famílias devem verificar no dia em que marcam. 10 de julho de 20266 min de leitura](https://traveldocumentvault.com/pt/blog/schengen-passport-rules-family-trips/)
+[Viagens em FamíliaRegras de Passaporte para Schengen em Viagens de Família: Onde os Pais se Enganam Schengen precisa de 3 meses de validade após a partida, não 6 — e os passaportes das crianças expiram em 5 anos. O que as famílias devem verificar no dia em que marcam. 10 de julho de 20266 min de leitura](https://traveldocumentvault.com/pt/blog/schengen-passport-rules-family-trips/)
 
 ##
 
@@ -96,7 +96,7 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
-[Preparação de ViagemPerdeu o Seu Passaporte no Estrangeiro? Faça Estas 7 Coisas Imediatamente Perder seu passaporte no exterior é mais estressante do que a maioria dos viajantes espera. Aqui estão os 7 passos a tomar imediatamente - desde relatar à sua embaixada mais próxima até obter um documento de viagem de emergência. 11 mar 20267 min de leitura](https://traveldocumentvault.com/pt/blog/lost-passport-abroad/)
+[Preparação de ViagemPerdeu o Seu Passaporte no Estrangeiro? Faça Estas 7 Coisas Imediatamente Perder seu passaporte no exterior é mais estressante do que a maioria dos viajantes espera. Aqui estão os 7 passos a tomar imediatamente — desde relatar à sua embaixada mais próxima até obter um documento de viagem de emergência. 11 mar 20267 min de leitura](https://traveldocumentvault.com/pt/blog/lost-passport-abroad/)
 
 ##
 
@@ -108,7 +108,7 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
-[Regras de PassaporteOrganizaçãoLista de Verificação de Documentos de Viagem Internacional: Tudo o Que Precisa Antes de Voar Tudo que você precisa levar, verificar e preparar antes de qualquer viagem internacional. Uma lista de verificação prática cobrindo passaportes, vistos, carteiras de motorista e seguro de viagem - funciona para famílias e viajantes solitários. 4 mar 20269 min de leitura](https://traveldocumentvault.com/pt/blog/travel-document-checklist/)
+[Regras de PassaporteOrganizaçãoLista de Verificação de Documentos de Viagem Internacional: Tudo o Que Precisa Antes de Voar Tudo que você precisa levar, verificar e preparar antes de qualquer viagem internacional. Uma lista de verificação prática cobrindo passaportes, vistos, carteiras de motorista e seguro de viagem — funciona para famílias e viajantes solitários. 4 mar 20269 min de leitura](https://traveldocumentvault.com/pt/blog/travel-document-checklist/)
 
 ##
 

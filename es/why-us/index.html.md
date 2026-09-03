@@ -31,7 +31,7 @@ Construí Travel Document Vault para mi familia
 
 > "Cada viaje familiar se convertía en una búsqueda del tesoro entre Fotos, correo y Drive. Construí esto para que el próximo viaje no lo fuera."
 
-Sin respaldo de capital de riesgo, sin accionistas, sin redes publicitarias - solo un padre cansado de la misma angustia en cada viaje.
+Sin respaldo de capital de riesgo, sin accionistas, sin redes publicitarias —solo un padre cansado de la misma angustia en cada viaje.
 
 [Lee la historia completa →](https://traveldocumentvault.com/es/blog/why-i-built-travel-document-vault/)
 
@@ -43,7 +43,7 @@ En la puerta
 
 Mostrador de inmigración. El oficial te pide tu visa.
 
-¿Y si pudieras abrir una aplicación y tenerla ahí mismo - sin buscar, sin cambiar de aplicaciones, solo acceso instantáneo?
+¿Y si pudieras abrir una aplicación y tenerla ahí mismo —sin buscar, sin cambiar de aplicaciones, solo acceso instantáneo?
 
 La trampa de validez
 
@@ -63,7 +63,7 @@ Todo en un lugar a tu alcance, listo cuando lo necesites.
 
 ## Lo que probablemente estés usando ahora
 
-Todas son opciones razonables. Cada una funciona - hasta cierto punto.
+Todas son opciones razonables. Cada una funciona —hasta cierto punto.
 
 ### Bóvedas de propósito general
 
@@ -81,7 +81,7 @@ Todas son opciones razonables. Cada una funciona - hasta cierto punto.
 
 **Funciona:** Tiene modo sin conexión y se sincroniza entre dispositivos.
 
-**Falla:** Guardas tu pasaporte, verificas la fecha de vencimiento, cambias a una aplicación de calendario para establecer un recordatorio, luego recuerdas qué carpeta tenía los documentos de tu cónyuge. Son tres aplicaciones haciendo el trabajo de una - y ninguna sabe que es un pasaporte que caduca.
+**Falla:** Guardas tu pasaporte, verificas la fecha de vencimiento, cambias a una aplicación de calendario para establecer un recordatorio, luego recuerdas qué carpeta tenía los documentos de tu cónyuge. Son tres aplicaciones haciendo el trabajo de una —y ninguna sabe que es un pasaporte que caduca.
 
 ### Gestores de contraseñas
 
@@ -137,7 +137,7 @@ Cifrado AES-256-GCM en reposo. Las copias de seguridad cifradas utilizan derivac
 
 Las renovaciones de pasaporte toman 6 a 8 semanas. **Los recordatorios comienzan 8 meses antes** y se activan automáticamente.
 
-Recordatorios llegan a 6 meses, 3 meses, 6 semanas y día de vencimiento - ayudándote a anticiparte a tus fechas de renovación.
+Recordatorios llegan a 6 meses, 3 meses, 6 semanas y día de vencimiento —ayudándote a anticiparte a tus fechas de renovación.
 
 Funciona para pasaportes, visas, licencias, seguros, cualquier cosa con fecha de vencimiento.
 
@@ -257,7 +257,7 @@ Escanea. Configura. Olvida.
 
 Abre la cámara, usa el overlay guiado y captura tu documento. O importa uno existente de tu galería de fotos.
 
-La aplicación detecta la fecha de vencimiento - solo confirma.
+La aplicación detecta la fecha de vencimiento —solo confirma.
 
 2
 
@@ -288,7 +288,7 @@ Esta aplicación está diseñada para realidades prácticas, no para almacenamie
 
 Las preguntas que escuchamos más a menudo.
 
-¿Qué pasa si pierdo mi teléfono? Tus documentos viven en tu dispositivo. Las copias de seguridad del sistema (iCloud o Google) reinstalan la aplicación, pero no restauran tus documentos porque la clave de cifrado nunca sale de tu dispositivo original. Exporta tu bóveda desde Ajustes antes de cambiar de teléfono. Los usuarios Pro también pueden usar copia de seguridad cifrada en tu propio iCloud o Google Drive para restauración con un toque en cualquier dispositivo nuevo. ¿Funciona sin internet? Completamente. La aplicación almacena todo en tu dispositivo y nunca necesita una conexión a internet. El procesamiento OCR, recordatorios y visualización de documentos funcionan todos sin conexión. ¿Mis datos están realmente seguros? Tus documentos están protegidos usando cifrado AES-256-GCM en tu dispositivo. No hay servidores y sin cuentas. Si activas copia de seguridad Pro en la nube, tu bóveda se cifra de extremo a extremo en tu dispositivo antes de la carga a tu propio iCloud o Google Drive, sellada con un código de recuperación que solo tú tienes. El diseño significa que no puedo leer tus datos, y tampoco pueden Apple o Google - puedes verificar el modelo de privacidad tú mismo en la [página de Verificación de Privacidad](https://traveldocumentvault.com/es/privacy-verification/). ¿Es realmente una compra única? Sí. Pro cuesta $9.99 (dólares estadounidenses), una sola vez, y cada país tiene su propio precio local que se muestra en la tienda antes de comprar. Sin suscripción, sin cargos recurrentes, sin correos electrónicos "tu prueba está terminando". El nivel gratuito es genuinamente gratuito - 1 perfil, 5 documentos, todas las características incluyendo OCR y recordatorios.
+¿Qué pasa si pierdo mi teléfono? Tus documentos viven en tu dispositivo. Las copias de seguridad del sistema (iCloud o Google) reinstalan la aplicación, pero no restauran tus documentos porque la clave de cifrado nunca sale de tu dispositivo original. Exporta tu bóveda desde Ajustes antes de cambiar de teléfono. Los usuarios Pro también pueden usar copia de seguridad cifrada en tu propio iCloud o Google Drive para restauración con un toque en cualquier dispositivo nuevo. ¿Funciona sin internet? Completamente. La aplicación almacena todo en tu dispositivo y nunca necesita una conexión a internet. El procesamiento OCR, recordatorios y visualización de documentos funcionan todos sin conexión. ¿Mis datos están realmente seguros? Tus documentos están protegidos usando cifrado AES-256-GCM en tu dispositivo. No hay servidores y sin cuentas. Si activas copia de seguridad Pro en la nube, tu bóveda se cifra de extremo a extremo en tu dispositivo antes de la carga a tu propio iCloud o Google Drive, sellada con un código de recuperación que solo tú tienes. El diseño significa que no puedo leer tus datos, y tampoco pueden Apple o Google —puedes verificar el modelo de privacidad tú mismo en la [página de Verificación de Privacidad](https://traveldocumentvault.com/es/privacy-verification/). ¿Es realmente una compra única? Sí. Pro cuesta $9.99 (dólares estadounidenses), una sola vez, y cada país tiene su propio precio local que se muestra en la tienda antes de comprar. Sin suscripción, sin cargos recurrentes, sin correos electrónicos "tu prueba está terminando". El nivel gratuito es genuinamente gratuito —1 perfil, 5 documentos, todas las características incluyendo OCR y recordatorios.
 
 Corresponde a la v1.x. Ve [Política de Precios](https://traveldocumentvault.com/pricing-policy/#version-policy).
 

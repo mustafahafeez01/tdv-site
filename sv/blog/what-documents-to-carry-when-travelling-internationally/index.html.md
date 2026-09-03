@@ -10,13 +10,13 @@ Source: https://traveldocumentvault.com/sv/blog/what-documents-to-carry-when-tra
 
 ## Viktiga punkter
 
-- De flesta resenärer glömmer **samtyckesbrev** för barns resa, vaccinationsbevis, boendebekräftelser och bevis på vidareresa - de stödjande handlingar som gränskontrollen kontrollerar vid gaten.
-- Bär originalen med er: pass, visum, boardingkort och samtyckesbrev. Förvara digitala säkerhetskopior separat i telefonen - krypterade och offline.
+- De flesta resenärer glömmer **samtyckesbrev** för barns resa, vaccinationsbevis, boendebekräftelser och bevis på vidareresa – de stödjande handlingar som gränskontrollen kontrollerar vid gaten.
+- Bär originalen med er: pass, visum, boardingkort och samtyckesbrev. Förvara digitala säkerhetskopior separat i telefonen – krypterade och offline.
 - Reseförsäkringens försäkringsnummer, kontaktuppgifter till försäkringsbolaget och villkor hör hemma både i fysisk form och i en offline digital säkerhetskopia som är tillgänglig utan internet.
 - Många länder förväntar sig ett **samtyckesbrev** för ett barn som reser med en förälder. Utan det riskerar ni nekad ombordstigning.
 - Digitala kopior som förvaras offline, separat från de fysiska handlingarna, är ert bästa skydd om väskan går förlorad eller blir stulen utomlands.
 
-Resenärer upptäcker ofta att de missat samtyckesbrev, vaccinationsbevis, boendebekräftelser och bevis på vidareresa först när de kommer till flygplatsen - handlingar som känns mindre viktiga än ett pass men spelar minst lika stor roll.
+Resenärer upptäcker ofta att de missat samtyckesbrev, vaccinationsbevis, boendebekräftelser och bevis på vidareresa först när de kommer till flygplatsen – handlingar som känns mindre viktiga än ett pass men spelar minst lika stor roll.
 
 För fler tips om att organisera resehandlingar, se [vår guide om att organisera familjens resehandlingar](https://traveldocumentvault.com/sv/blog/how-to-organise-family-travel-documents/). Det här inlägget går på djupet med det som glöms bort och hur ni förbereder er för förlorade handlingar utomlands.
 
@@ -26,19 +26,19 @@ Passet och visumet känns akuta, så de packas först. Men gränskontrollen kont
 
 ### Bevis på vidareresa
 
-Förvånansvärt många länder vill se bevis på att ni planerar att lämna landet - en returflygbiljett, en bokning vidare till ett annat land, eller till och med en buss- eller färjebiljett duger oftast. Att ha en utskrift eller digital kopia i handbagaget innebär att ni slipper förseningar vid gränskontrollen.
+Förvånansvärt många länder vill se bevis på att ni planerar att lämna landet – en returflygbiljett, en bokning vidare till ett annat land, eller till och med en buss- eller färjebiljett duger oftast. Att ha en utskrift eller digital kopia i handbagaget innebär att ni slipper förseningar vid gränskontrollen.
 
 ### Boendebekräftelser
 
-Vissa länder ber om bevis på er första natts boende, oavsett om det är en hotellbekräftelse, en Airbnb eller ett vandrarhem. Tjänstemannen vill se bevis på att ni har någonstans att bo, så ladda ner en kopia till telefonen offline - mejl hjälper inte vid gränsen.
+Vissa länder ber om bevis på er första natts boende, oavsett om det är en hotellbekräftelse, en Airbnb eller ett vandrarhem. Tjänstemannen vill se bevis på att ni har någonstans att bo, så ladda ner en kopia till telefonen offline – mejl hjälper inte vid gränsen.
 
 ### Vaccinationsbevis
 
-Vissa destinationer kräver vaccinationsbevis mot gula febern eller andra sjukdomar, och kraven ändras regelbundet beroende på destination. Kolla WHO:s resesidor 6-8 veckor innan resan - inte kvällen innan - eftersom vissa länder bara godtar officiella WHO-vaccinationsintyg, inte kopior eller digitala foton.
+Vissa destinationer kräver vaccinationsbevis mot gula febern eller andra sjukdomar, och kraven ändras regelbundet beroende på destination. Kolla WHO:s resesidor 6-8 veckor innan resan – inte kvällen innan – eftersom vissa länder bara godtar officiella WHO-vaccinationsintyg, inte kopior eller digitala foton.
 
 ### Reseförsäkringsuppgifter
 
-Ni behöver omedelbar tillgång till försäkringsnummer, kontaktuppgifter till försäkringsbolaget och er dygnet-runt-jourlinje. Vissa visumtyper kräver uttryckligen bevis på reseförsäkring - Schengenvisum kräver till exempel medicinsk försäkring som täcker akutvård och sjukhusvistelse. Men viktigare är att om något går fel utomlands behöver ni de här uppgifterna utan att förlita er på mejl eller internetåtkomst.
+Ni behöver omedelbar tillgång till försäkringsnummer, kontaktuppgifter till försäkringsbolaget och er dygnet-runt-jourlinje. Vissa visumtyper kräver uttryckligen bevis på reseförsäkring – Schengenvisum kräver till exempel medicinsk försäkring som täcker akutvård och sjukhusvistelse. Men viktigare är att om något går fel utomlands behöver ni de här uppgifterna utan att förlita er på mejl eller internetåtkomst.
 
 ### Samtyckesbrev för barns resa
 
@@ -68,11 +68,11 @@ Gränskontrollen vill se originalhandlingar, men om de originalen försvinner ä
 - Samtyckesbrevet, om ni har ett med er
 - Nödkontaktnummer till er ambassad
 
-Förvara dessa i telefonen med en offline, krypterad app - inte kamerarullen, inte Google Foto, inte iCloud. Försvinner de fysiska handlingarna har ni ändå allt ni behöver för att kontakta ambassaden och bevisa vem ni är.
+Förvara dessa i telefonen med en offline, krypterad app – inte kamerarullen, inte Google Foto, inte iCloud. Försvinner de fysiska handlingarna har ni ändå allt ni behöver för att kontakta ambassaden och bevisa vem ni är.
 
 ## Så håller ni reseförsäkringsuppgifterna tillgängliga
 
-De flesta resenärer köper reseförsäkring men glömmer att göra försäkringsuppgifterna direkt tillgängliga - vilket innebär att när en medicinsk nödsituation eller förlorat bagage inträffar utomlands letar ni bland mejl i stället för att ringa efter hjälp. Vår guide om [vilka reseförsäkringshandlingar ni bör spara innan ni reser](https://traveldocumentvault.com/sv/blog/travel-insurance-documents/) beskriver vad ni ska spara och var.
+De flesta resenärer köper reseförsäkring men glömmer att göra försäkringsuppgifterna direkt tillgängliga – vilket innebär att när en medicinsk nödsituation eller förlorat bagage inträffar utomlands letar ni bland mejl i stället för att ringa efter hjälp. Vår guide om [vilka reseförsäkringshandlingar ni bör spara innan ni reser](https://traveldocumentvault.com/sv/blog/travel-insurance-documents/) beskriver vad ni ska spara och var.
 
 Specifika uppgifter att ha nära till hands, både på papper och digitalt:
 
@@ -93,11 +93,11 @@ Ett samtyckesbrev bör vanligtvis innehålla barnets fullständiga namn och föd
 
 Vad det innebär i praktiken
 
-Ni ska flyga till Kanada med er 8-åring, och er partner reser inte med. Incheckningspersonalen kan neka ert barn ombordstigning om ni inte kan visa skriftligt samtycke från er frånvarande partner, helst notariserat. Reser barnet med far- och morföräldrarna i stället för er, krävs vanligtvis att båda föräldrarna undertecknar samtyckesbrevet - en förälders tillstånd räcker i regel inte. Kontrollera alltid de exakta kraven för er destination i god tid före avresa.
+Ni ska flyga till Kanada med er 8-åring, och er partner reser inte med. Incheckningspersonalen kan neka ert barn ombordstigning om ni inte kan visa skriftligt samtycke från er frånvarande partner, helst notariserat. Reser barnet med far- och morföräldrarna i stället för er, krävs vanligtvis att båda föräldrarna undertecknar samtyckesbrevet – en förälders tillstånd räcker i regel inte. Kontrollera alltid de exakta kraven för er destination i god tid före avresa.
 
 ## Argumenten för offline digitala kopior
 
-Fysiska handlingar hjälper tills en tjuv tar väskan - och tar oftast kopiorna med sig tillsammans med originalen. En separat krypterad säkerhetskopia i telefonen - förvarad offline - är er riktiga försäkring om originalen försvinner.
+Fysiska handlingar hjälper tills en tjuv tar väskan – och tar oftast kopiorna med sig tillsammans med originalen. En separat krypterad säkerhetskopia i telefonen – förvarad offline – är er riktiga försäkring om originalen försvinner.
 
 När er ambassad behöver utfärda en nödhandling ger en säker säkerhetskopia dem passnummer, utfärdandedatum, utfärdandeort och utgångsdatum omedelbart, utan internetåtkomst. Läs mer om alternativen i vår översikt om [hur ni förvarar passkanningar säkert](https://traveldocumentvault.com/sv/blog/is-it-safe-to-store-passport-in-google-photos/) och avvägningarna mellan olika metoder.
 
@@ -119,7 +119,7 @@ Ja, i många länder förväntas det. Om ett barn reser internationellt med bara
 
 ### Bör jag spara digitala säkerhetskopior av mina handlingar?
 
-Ja. Förvara krypterade offline-kopior på telefonen - inte i kamerarullen eller molnlagringen. Blir era fysiska handlingar förlorade eller stulna utomlands gör dessa säkerhetskopior att ambassaden kan utfärda en nödhandling betydligt snabbare. De bör innehålla passnummer, utfärdandedatum, utfärdandeort, försäkringsnummer och bokningsreferenser.
+Ja. Förvara krypterade offline-kopior på telefonen – inte i kamerarullen eller molnlagringen. Blir era fysiska handlingar förlorade eller stulna utomlands gör dessa säkerhetskopior att ambassaden kan utfärda en nödhandling betydligt snabbare. De bör innehålla passnummer, utfärdandedatum, utfärdandeort, försäkringsnummer och bokningsreferenser.
 
 ### Vad händer om jag kommer till flygplatsen utan en handling som krävs?
 

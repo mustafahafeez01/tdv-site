@@ -28,7 +28,7 @@ Sentry adalah alat pelaporan kerusakan yang membantu kami menemukan dan memperba
 
 Apa yang termasuk dalam upgrade Pro?
 
-Pro adalah pembelian sekali bayar yang membuka profil tanpa batas, dokumen tanpa batas, ekspor PDF gabungan, cadangan cloud terenkripsi ke iCloud atau Google Drive, dan pengaturan waktu pengingat sendiri. Anda membayar sekali - tanpa langganan, tanpa tagihan berulang, dan tanpa masa uji coba yang diam-diam mulai menagih Anda.
+Pro adalah pembelian sekali bayar yang membuka profil tanpa batas, dokumen tanpa batas, ekspor PDF gabungan, cadangan cloud terenkripsi ke iCloud atau Google Drive, dan pengaturan waktu pengingat sendiri. Anda membayar sekali — tanpa langganan, tanpa tagihan berulang, dan tanpa masa uji coba yang diam-diam mulai menagih Anda.
 
 Apakah pembaruan di masa mendatang termasuk dalam pembelian saya?
 
@@ -117,7 +117,7 @@ Dokumen Anda tidak pernah meninggalkan perangkat Anda. Mode ini hanya memberi An
 
 Apa itu kode pemulihan dan mengapa saya membutuhkannya?
 
-Saat Anda mengatur App Lock, aplikasi menghasilkan kode pemulihan unik yang merupakan jaring pengaman Anda jika Anda pernah lupa PIN Anda. Simpan di tempat yang aman - pengelola sandi Anda, catatan yang dicetak, di mana pun Anda mempercayai.
+Saat Anda mengatur App Lock, aplikasi menghasilkan kode pemulihan unik yang merupakan jaring pengaman Anda jika Anda pernah lupa PIN Anda. Simpan di tempat yang aman — pengelola sandi Anda, catatan yang dicetak, di mana pun Anda mempercayai.
 
 Jika Anda lupa PIN, masukkan kode pemulihan Anda di layar PIN. App Lock dinonaktifkan dan Anda mendapatkan **akses penuh tanpa kehilangan satu dokumen pun.**
 
@@ -194,7 +194,7 @@ Pengguna Pro dapat mengetuk **"Pilih"** di kanan atas daftar dokumen untuk masuk
 
 Bisakah saya membatalkan penghapusan massal?
 
-**Ya - Anda memiliki dua lapisan perlindungan.** Setelah menghapus dokumen (tunggal atau massal), Anda akan melihat jendela pembatalan singkat di bagian bawah layar. Ketuk **"Batalkan"** untuk memulihkannya segera. Jika Anda melewatkan jendela pembatalan, dokumen yang dihapus akan pindah ke **Dihapus Baru-Baru Ini** di Pengaturan, tempat dokumen akan tetap selama 30 hari sebelum penghapusan permanen. Pengguna Pro dengan pencadangan cloud yang diaktifkan menyimpan item di Dihapus Baru-Baru Ini tanpa batas waktu sampai mereka mengetuk Hapus Selamanya.
+**Ya, Anda memiliki dua lapisan perlindungan.** Setelah menghapus dokumen (tunggal atau massal), Anda akan melihat jendela pembatalan singkat di bagian bawah layar. Ketuk **"Batalkan"** untuk memulihkannya segera. Jika Anda melewatkan jendela pembatalan, dokumen yang dihapus akan pindah ke **Dihapus Baru-Baru Ini** di Pengaturan, tempat dokumen akan tetap selama 30 hari sebelum penghapusan permanen. Pengguna Pro dengan pencadangan cloud yang diaktifkan menyimpan item di Dihapus Baru-Baru Ini tanpa batas waktu sampai mereka mengetuk Hapus Selamanya.
 
 Apa itu menu konteks tekan lama?
 
@@ -344,7 +344,7 @@ Sebelum pembaruan format data besar, aplikasi secara otomatis membuat snapshot v
 
 Hari di dalam atau hari di luar negara: mana yang harus saya pilih?
 
-Tanyakan satu hal pada diri Anda: apakah Anda tamu di negara ini, atau ini rumah Anda? Tamu menghitung hari saat mereka berada di sana, jadi pilih **Hari di dalam negara** - itu untuk batas kunjungan seperti 90 hari. Penduduk menghitung hari saat mereka pergi, jadi pilih **Hari di luar negara** - itu untuk izin tinggal yang mengizinkan waktu tertentu di luar negeri. Kebanyakan orang hanya memerlukan salah satu dari keduanya, dan jika ragu, Hari di dalam negara adalah pilihan yang lebih umum.
+Tanyakan satu hal pada diri Anda: apakah Anda tamu di negara ini, atau ini rumah Anda? Tamu menghitung hari saat mereka berada di sana, jadi pilih **Hari di dalam negara**, itu untuk batas kunjungan seperti 90 hari. Penduduk menghitung hari saat mereka pergi, jadi pilih **Hari di luar negara**, itu untuk izin tinggal yang mengizinkan waktu tertentu di luar negeri. Kebanyakan orang hanya memerlukan salah satu dari keduanya, dan jika ragu, Hari di dalam negara adalah pilihan yang lebih umum.
 
 Apa itu profil keluarga?
 

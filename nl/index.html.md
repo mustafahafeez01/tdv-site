@@ -24,7 +24,7 @@ Een zorg minder.
 
 ## Uw Documenten Blijven Bij U
 
-Gebouwd door een ouder die het nodig had. Uw documenten blijven op uw apparaat - versleuteld, privé, en nooit ergens anders heen geüpload.
+Gebouwd door een ouder die het nodig had. Uw documenten blijven op uw apparaat – versleuteld, privé, en nooit ergens anders heen geüpload.
 
 ### Gebouwd door een Ouder
 
@@ -44,7 +44,7 @@ Optionele versleutelde back-up naar uw eigen iCloud of Google Drive. U houdt de 
 
 ### Slimme herinneringen
 
-Paspoorten waarschuwen u al acht maanden van tevoren, daarna komen de herinneringen dichterbij - zes maanden, drie, zes weken, een maand - tot de vervaldag. Elk documenttype heeft zijn eigen schema, klaar zodra u het toevoegt.
+Paspoorten waarschuwen u al acht maanden van tevoren, daarna komen de herinneringen dichterbij – zes maanden, drie, zes weken, een maand – tot de vervaldag. Elk documenttype heeft zijn eigen schema, klaar zodra u het toevoegt.
 
 ### Logica voor gezinnen
 
@@ -258,7 +258,7 @@ Aankopen altijd herstellen met het App Store- of Google Play-account waarmee u h
 
 ## Veelgestelde Vragen
 
-Is het echt privé? Ja. Alles wordt 100% op uw apparaat opgeslagen. We hebben geen toegang tot uw documenten, en er is geen clouddatabase. Neem het niet zomaar van ons aan - [controleer het zelf](https://traveldocumentvault.com/nl/privacy-verification/). Wat als ik mijn telefoon verlies? Uw kluis wordt op uw apparaat opgeslagen. Als u van telefoon wisselt, kunt u herstellen met uw gebruikelijke telefoonautomatie. Kan ik tussen apparaten synchroniseren? Ja. Met Pro kunt u Your Own Cloud back-up inschakelen om uw versleutelde kluis te synchroniseren met uw iCloud of Google Drive. U houdt de herstelcode. We hebben nooit toegang tot uw gegevens. Wat is de reisplanner? De reisplanner groepeert familiëdocumenten per reis en toont een bereidschapsampel - groen wanneer iedereen klaar is, geel wanneer iemands paspoort binnenkort vervalt. Plan reizen samen met vertrouwen. [Zie alle privacy- en gegevensantwoorden](https://traveldocumentvault.com/nl/faq/)
+Is het echt privé? Ja. Alles wordt 100% op uw apparaat opgeslagen. We hebben geen toegang tot uw documenten, en er is geen clouddatabase. Neem het niet zomaar van ons aan – [controleer het zelf](https://traveldocumentvault.com/nl/privacy-verification/). Wat als ik mijn telefoon verlies? Uw kluis wordt op uw apparaat opgeslagen. Als u van telefoon wisselt, kunt u herstellen met uw gebruikelijke telefoonautomatie. Kan ik tussen apparaten synchroniseren? Ja. Met Pro kunt u Your Own Cloud back-up inschakelen om uw versleutelde kluis te synchroniseren met uw iCloud of Google Drive. U houdt de herstelcode. We hebben nooit toegang tot uw gegevens. Wat is de reisplanner? De reisplanner groepeert familiëdocumenten per reis en toont een bereidschapsampel – groen wanneer iedereen klaar is, geel wanneer iemands paspoort binnenkort vervalt. Plan reizen samen met vertrouwen. [Zie alle privacy- en gegevensantwoorden](https://traveldocumentvault.com/nl/faq/)
 
 **Belangrijk:** Travel Document Vault is een persoonlijk organisatietool voor het opslaan van digitale kopieën van uw documenten. **Digitale kopieën die in deze app zijn opgeslagen, zijn NIET geldig voor reizen.** Het verifieert niet de authenticiteit van documenten en biedt geen juridisch of reisadvies. Zorg altijd dat u originele documenten bij u hebt en controleer alle reisvereisten bij officiële overheidsbronnen.
 

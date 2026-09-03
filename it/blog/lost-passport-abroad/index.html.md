@@ -10,9 +10,9 @@ Source: https://traveldocumentvault.com/it/blog/lost-passport-abroad/
 
 ## Punti chiave
 
-- Presenti una denuncia alla polizia per primo - ne avrà bisogno sia per la domanda presso l'ambasciata che per il reclamo assicurativo.
-- La sua ambasciata o il consolato può rilasciare un documento di viaggio d'emergenza, generalmente molto più velocemente di un passaporto sostitutivo. **Chiami in anticipo** - la maggior parte richiede un appuntamento.
-- I viaggiatori con una copia digitale sicura del passaporto ottengono documenti di sostituzione più velocemente - fornisce i dettagli di cui ha bisogno l'ambasciata in pochi secondi.
+- Presenti una denuncia alla polizia per primo — ne avrà bisogno sia per la domanda presso l'ambasciata che per il reclamo assicurativo.
+- La sua ambasciata o il consolato può rilasciare un documento di viaggio d'emergenza, generalmente molto più velocemente di un passaporto sostitutivo. **Chiami in anticipo** — la maggior parte richiede un appuntamento.
+- I viaggiatori con una copia digitale sicura del passaporto ottengono documenti di sostituzione più velocemente — fornisce i dettagli di cui ha bisogno l'ambasciata in pochi secondi.
 - L'assicurazione di viaggio copre i costi di sostituzione del passaporto nella maggior parte delle polizze complete. Avrà bisogno della denuncia alla polizia per reclamare.
 - Il momento per prepararsi è adesso, prima che qualcosa vada storto. Una scansione di cinque minuti oggi potrebbe risparmiarle giorni di stress all'estero.
 
@@ -20,7 +20,7 @@ Ogni giorno c'è chi sostituisce un passaporto perso all'estero, e le ambasciate
 
 ## Prima che qualcosa vada storto: Fotografi il passaporto adesso
 
-Se sta leggendo questo prima del viaggio, dedichi i prossimi cinque minuti a questo. Faccia una foto nitida della pagina dati principale di ogni passaporto con cui sta viaggiando. La conservi in un'app crittografata che funziona offline - molto più sicura della fotocamera, e completamente privata.
+Se sta leggendo questo prima del viaggio, dedichi i prossimi cinque minuti a questo. Faccia una foto nitida della pagina dati principale di ogni passaporto con cui sta viaggiando. La conservi in un'app crittografata che funziona offline — molto più sicura della fotocamera, e completamente privata.
 
 Quando arriva presso l'ambasciata, le chiederanno il numero del passaporto, la data di rilascio, il luogo di rilascio e la data di scadenza. Senza una copia, sta cercando di ricordare questi dettagli sotto stress. Con una copia, glieli consegna in pochi secondi. **Lo staff consolare rilascia documenti di sostituzione più velocemente quando arriva con i dettagli già scritti.**
 
@@ -28,7 +28,7 @@ Una copia sul telefono è una registrazione, non un documento d'identità, e le 
 
 ## Passo 1: Conferma che il passaporto è davvero scomparso
 
-Controlli dappertutto prima di assumere il peggio - tasche della giacca, ogni scomparto della borsa, cassaforte dell'hotel, l'ultimo taxi o ristorante. Se è davvero scomparso o rubato, proceda attraverso i passaggi rimanenti senza ritardo.
+Controlli dappertutto prima di assumere il peggio — tasche della giacca, ogni scomparto della borsa, cassaforte dell'hotel, l'ultimo taxi o ristorante. Se è davvero scomparso o rubato, proceda attraverso i passaggi rimanenti senza ritardo.
 
 ## Passo 2: Presenti una denuncia alla polizia immediatamente
 
@@ -45,7 +45,7 @@ La sua ambasciata o il suo consolato è la via di casa. Li contatti il prima pos
 - **Cittadini dell'Australia:** Smartraveller - passaporto smarrito o rubato
 - **Cittadini del Canada:** Canada.ca - passaporto smarrito o rubato all'estero
 
-Chiami prima di visitare. Molte ambasciate richiedono un appuntamento per i servizi di passaporto d'emergenza e possono dirle esattamente cosa portare - presentarsi senza uno può costarle mezza giornata.
+Chiami prima di visitare. Molte ambasciate richiedono un appuntamento per i servizi di passaporto d'emergenza e possono dirle esattamente cosa portare — presentarsi senza uno può costarle mezza giornata.
 
 ## Passo 4: Richieda un documento di viaggio d'emergenza
 
@@ -54,23 +54,23 @@ La sua ambasciata rilascia un documento di viaggio d'emergenza (ETD) o passaport
 Quello che probabilmente avrà bisogno (confermi con l'ambasciata prima di visitarla):
 
 - Denuncia alla polizia con numero di caso
-- Prova d'identità - patente di guida, certificato di nascita, o qualsiasi altro documento d'identità emesso dal governo
-- Foto del passaporto - chieda all'ambasciata dove ottenerle localmente
+- Prova d'identità — patente di guida, certificato di nascita, o qualsiasi altro documento d'identità emesso dal governo
+- Foto del passaporto — chieda all'ambasciata dove ottenerle localmente
 - La sua copia digitale del passaporto smarrito se ce l'ha
-- Prova di viaggio in avanti - prenotazione di volo, conferma alberghiera
-- Tassa per il documento d'emergenza - abbia a disposizione sia denaro contante che carta
+- Prova di viaggio in avanti — prenotazione di volo, conferma alberghiera
+- Tassa per il documento d'emergenza — abbia a disposizione sia denaro contante che carta
 
-**Travel Document Vault** conserva una copia crittografata del passaporto sul telefono - accessibile senza internet, senza accesso. È esattamente quello che l'ambasciata le chiederà. [Scarica da App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** conserva una copia crittografata del passaporto sul telefono — accessibile senza internet, senza accesso. È esattamente quello che l'ambasciata le chiederà. [Scarica da App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Passo 5: Notifichi l'assicuratore di viaggio
 
-Segnali la perdita al suo assicuratore di viaggio il prima possibile. La maggior parte delle polizze complete copre i costi di sostituzione del passaporto, le tasse del passaporto d'emergenza, e talvolta alloggio aggiuntivo in caso di ritardo. Conservi ogni ricevuta - ne avrà bisogno per il reclamo, insieme al numero di riferimento della denuncia alla polizia.
+Segnali la perdita al suo assicuratore di viaggio il prima possibile. La maggior parte delle polizze complete copre i costi di sostituzione del passaporto, le tasse del passaporto d'emergenza, e talvolta alloggio aggiuntivo in caso di ritardo. Conservi ogni ricevuta — ne avrà bisogno per il reclamo, insieme al numero di riferimento della denuncia alla polizia.
 
 Può fare questa chiamata prima se ha già a portata di mano il numero della polizza e la linea di emergenza 24 ore, invece di doverli cercare in una casella di posta a cui non riesce ad accedere. La nostra guida su [quali documenti assicurativi di viaggio conservare prima di partire](https://traveldocumentvault.com/it/blog/travel-insurance-documents/) elenca cosa tenere offline.
 
 ## Passo 6: Controlli la situazione del visto
 
-Un visto è valido solo per il passaporto specifico per il quale è stato rilasciato. Se il passaporto è smarrito, anche il visto è smarrito - anche un documento di viaggio d'emergenza non lo ripristinerà. La sua ambasciata la consiglierà se il paese di destinazione le consentirà di partire con un ETD, facendo riferimento al visto smarrito. Non assuma di poter partire - confermi con l'ambasciata prima di tentare di lasciare.
+Un visto è valido solo per il passaporto specifico per il quale è stato rilasciato. Se il passaporto è smarrito, anche il visto è smarrito — anche un documento di viaggio d'emergenza non lo ripristinerà. La sua ambasciata la consiglierà se il paese di destinazione le consentirà di partire con un ETD, facendo riferimento al visto smarrito. Non assuma di poter partire — confermi con l'ambasciata prima di tentare di lasciare.
 
 Cosa significa questo nella pratica
 
@@ -90,7 +90,7 @@ Presenti una denuncia alla polizia immediatamente, quindi contatti l'ambasciata 
 
 ### Posso ottenere un passaporto d'emergenza all'estero?
 
-Sì. La maggior parte dei paesi rilascia documenti di viaggio d'emergenza attraverso le loro ambasciate e consolati, generalmente validi per un singolo viaggio di ritorno a casa. Il tempo di rilascio dipende dalla sede e dall'urgenza del Suo caso, quindi chieda quando telefona. Chiami il consolato o l'ambasciata più vicina il prima possibile - molti richiedono un appuntamento.
+Sì. La maggior parte dei paesi rilascia documenti di viaggio d'emergenza attraverso le loro ambasciate e consolati, generalmente validi per un singolo viaggio di ritorno a casa. Il tempo di rilascio dipende dalla sede e dall'urgenza del Suo caso, quindi chieda quando telefona. Chiami il consolato o l'ambasciata più vicina il prima possibile — molti richiedono un appuntamento.
 
 ### Ho bisogno di una denuncia alla polizia se il mio passaporto è rubato all'estero?
 

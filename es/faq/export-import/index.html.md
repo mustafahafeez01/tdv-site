@@ -68,7 +68,7 @@ Después de importar, verifica la pestaña Perfiles para confirmar que aparecen 
 
 - **No destructivo:** La importación se suma a tus datos existentes. Si ya tienes perfiles en el dispositivo de destino, los perfiles importados se añaden sin eliminar los existentes.
 - **Fidelidad completa en el proceso:** Todo se preserva exactamente: nombres de documentos, fechas, alertas de vencimiento, colores personalizados, archivos adjuntos y notas.
-- **Cifrado en todo momento:** El archivo exportado está cifrado con la contraseña que eliges al exportarlo, mediante AES-256-GCM con derivación de clave PBKDF2. Solo esa contraseña puede descifrarlo, así que guárdala en un lugar seguro - sin ella, el archivo no se puede recuperar.
+- **Cifrado en todo momento:** El archivo exportado está cifrado con la contraseña que eliges al exportarlo, mediante AES-256-GCM con derivación de clave PBKDF2. Solo esa contraseña puede descifrarlo, así que guárdala en un lugar seguro —sin ella, el archivo no se puede recuperar.
 - **Práctica recomendada de copia de seguridad:** Mantén tu archivo exportado en una ubicación segura. Elimínalo después de una importación exitosa si lo prefieres, o guárdalo como copia de seguridad sin conexión.
 
 **Descargo de responsabilidad:** Exportar e importar está diseñado para portabilidad de datos. Mantén los archivos exportados seguros. No compartas la copia de seguridad exportada con nadie, ya que contiene todos tus documentos y archivos adjuntos cifrados.

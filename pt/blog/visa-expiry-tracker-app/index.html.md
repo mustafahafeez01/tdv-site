@@ -10,15 +10,15 @@ Source: https://traveldocumentvault.com/pt/blog/visa-expiry-tracker-app/
 
 ## Pontos-Chave
 
-- O rastreamento de visto é **mais complexo** do que o rastreamento de passaporte - um visto tem uma data de validade de entrada, uma duração máxima de permanência, e por vezes limites de contagem de entrada, todos os quais precisam de monitorização separada.
+- O rastreamento de visto é **mais complexo** do que o rastreamento de passaporte — um visto tem uma data de validade de entrada, uma duração máxima de permanência, e por vezes limites de contagem de entrada, todos os quais precisam de monitorização separada.
 - Ultrapassar a duração de um visto tem consequências sérias: multas, proibições de reentrada de anos ou mais, e nalguns países acusações criminais.
 - As melhores aplicações de rastreamento de visto funcionam sem ligação à internet, suportam múltiplos tipos de visto, e permitem lembretes personalizados por documento.
-- Os visitantes da Área de Schengen devem rastrear uma janela móvel de 90/180 dias, não apenas uma única data de validade - a maioria das aplicações de viagem genéricas não lidam com isto corretamente.
+- Os visitantes da Área de Schengen devem rastrear uma janela móvel de 90/180 dias, não apenas uma única data de validade — a maioria das aplicações de viagem genéricas não lidam com isto corretamente.
 - O rastreamento de vistos e passaportes juntos num só local reduz o risco de uma discrepância: entrar com um visto válido mas com um passaporte que expira antes do final da sua permanência planeada.
 
-Uma ultrapassagem de visto é um dos erros de viagem mais consequentes que uma pessoa pode cometer. Ao contrário de um voo perdido - stressante mas fundamentalmente reparável - uma ultrapassagem cria um registo formal de imigração que pode segui-lo durante anos. Nos Estados Unidos, uma ultrapassagem de apenas 180 dias desencadeia uma barra automática de 3 anos de reentrada sob a secção INA 212(a)(9)(B)(i), e uma ultrapassagem de um ano desencadeia uma barra de 10 anos. Estas consequências não são amplamente conhecidas, mas estão documentadas pelo US Citizenship and Immigration Services.
+Uma ultrapassagem de visto é um dos erros de viagem mais consequentes que uma pessoa pode cometer. Ao contrário de um voo perdido — stressante mas fundamentalmente reparável — uma ultrapassagem cria um registo formal de imigração que pode segui-lo durante anos. Nos Estados Unidos, uma ultrapassagem de apenas 180 dias desencadeia uma barra automática de 3 anos de reentrada sob a secção INA 212(a)(9)(B)(i), e uma ultrapassagem de um ano desencadeia uma barra de 10 anos. Estas consequências não são amplamente conhecidas, mas estão documentadas pelo US Citizenship and Immigration Services.
 
-Uma aplicação de rastreamento de visto previne isto. Monitoriza múltiplas datas em simultâneo - validade de entrada, permanência máxima, e contagem de entrada - de uma forma que as aplicações de passaporte genéricas não conseguem.
+Uma aplicação de rastreamento de visto previne isto. Monitoriza múltiplas datas em simultâneo — validade de entrada, permanência máxima, e contagem de entrada — de uma forma que as aplicações de passaporte genéricas não conseguem.
 
 ## Por Que o Rastreamento de Visto É Mais Complexo do Que o Rastreamento de Passaporte
 
@@ -30,12 +30,12 @@ Um viajante entra no Vietname com um visto carimbado "válido até 30 de junho" 
 
 | Campo | O que significa | Exemplo |
 |---|---|---|
-| **Data de validade de entrada** | O último dia em que pode utilizar este visto para entrar no país | "Válido até 31 de dezembro de 2026" - deve entrar antes desta data |
-| **Duração máxima de permanência** | Quanto tempo pode permanecer depois de entrar, independentemente da data de validade do visto | "Duração de permanência: 90 dias" - o relógio começa na entrada, não no problema do visto |
+| **Data de validade de entrada** | O último dia em que pode utilizar este visto para entrar no país | "Válido até 31 de dezembro de 2026" — deve entrar antes desta data |
+| **Duração máxima de permanência** | Quanto tempo pode permanecer depois de entrar, independentemente da data de validade do visto | "Duração de permanência: 90 dias" — o relógio começa na entrada, não no problema do visto |
 | **Número de entradas** | Entradas simples, duplas ou múltiplas permitidas | Um visto de entrada única é anulado no momento em que sai, mesmo que a data de validade da entrada não tenha passado |
 | **Regras de janela móvel** | Alguns regimes de visto (notavelmente Schengen) calculam dias permitidos dentro de uma janela móvel | Schengen: máximo de 90 dias em qualquer janela móvel de 180 dias, não por ano de calendário |
 
-Um rastreador que apenas monitoriza a data de validade de entrada perde a causa mais comum de ultrapassagens acidentais: exceder a duração máxima de permanência após uma entrada perfeitamente legal. Este é o campo que a maioria dos viajantes falha no rastreamento, porque a data não é carimbada no passaporte - tem de a calcular a partir da data de entrada.
+Um rastreador que apenas monitoriza a data de validade de entrada perde a causa mais comum de ultrapassagens acidentais: exceder a duração máxima de permanência após uma entrada perfeitamente legal. Este é o campo que a maioria dos viajantes falha no rastreamento, porque a data não é carimbada no passaporte — tem de a calcular a partir da data de entrada.
 
 ## A Regra Schengen de 90/180 Dias
 
@@ -43,7 +43,7 @@ Para viajantes que visitam múltiplos países europeus, a regra de 90/180 dias d
 
 A Comissão Europeia fornece uma calculadora oficial de permanência em Schengen para ajudar os viajantes a calcular os seus dias permitidos. O ponto crítico é que isto é uma *janela móvel*, não um reset de ano de calendário. Os dias passados em Schengen há seis meses ainda contam contra a sua autorização atual.
 
-A maioria das aplicações de passaporte ou documentos genéricos não lidam com isto corretamente. Uma aplicação que simplesmente exibe uma data de validade de visto não consegue gerir conformidade Schengen - necessita de calcular dias através de uma janela móvel com base em datas reais de entrada e saída.
+A maioria das aplicações de passaporte ou documentos genéricos não lidam com isto corretamente. Uma aplicação que simplesmente exibe uma data de validade de visto não consegue gerir conformidade Schengen — necessita de calcular dias através de uma janela móvel com base em datas reais de entrada e saída.
 
 ## O Que Acontece Quando Ultrapassa a Duração
 
@@ -73,8 +73,8 @@ Dada a complexidade acima, uma boa aplicação de rastreamento de visto precisa 
 ## Passos Práticos para Rastrear o Seu Visto Corretamente
 
 1. **Registe a sua data de entrada no dia em que chega.** O seu relógio de permanência máxima começa imediatamente na entrada, não a partir de quando o visto foi emitido ou quando o período de validade de entrada começou.
-2. **Calcule e note a sua data de saída permitida mais recente.** Adicione a sua duração máxima de permanência à sua data de entrada. Esta é a data em que deve partir - mais cedo se precisar de tempo para atingir um ponto de partida.
-3. **Rastreie o estatuto de entrada simples vs. múltipla.** Se o seu visto é de entrada única, uma excursão de um dia para um país vizinho anula-o - planeie em conformidade.
+2. **Calcule e note a sua data de saída permitida mais recente.** Adicione a sua duração máxima de permanência à sua data de entrada. Esta é a data em que deve partir — mais cedo se precisar de tempo para atingir um ponto de partida.
+3. **Rastreie o estatuto de entrada simples vs. múltipla.** Se o seu visto é de entrada única, uma excursão de um dia para um país vizinho anula-o — planeie em conformidade.
 4. **Para viagem Schengen, mantenha um registo de datas de entrada e saída.** Utilize a calculadora oficial da Comissão Europeia para verificar os seus dias restantes antes de qualquer viagem que se siga a viagem recente em Schengen.
 5. **Defina um lembrete pelo menos 2 semanas antes do seu prazo de permanência máxima.** Isto dá-lhe tempo para arranjar uma partida sem pressa, especialmente se as opções de transporte no seu destino são limitadas.
 
@@ -86,7 +86,7 @@ Regras relacionadas que interagem com rastreamento de visto: veja o nosso guia p
 
 ### O que é uma aplicação de rastreamento de visto?
 
-Uma aplicação de rastreamento de visto monitoriza as datas de validade dos seus vistos e envia lembretes antes de expirarem. As melhores rastreiam o período de validade de entrada e a duração máxima de permanência - dois prazos diferentes que ambos importam para evitar uma ultrapassagem.
+Uma aplicação de rastreamento de visto monitoriza as datas de validade dos seus vistos e envia lembretes antes de expirarem. As melhores rastreiam o período de validade de entrada e a duração máxima de permanência — dois prazos diferentes que ambos importam para evitar uma ultrapassagem.
 
 ### Qual é a diferença entre a data de validade de um visto e a permanência máxima?
 
@@ -94,11 +94,11 @@ A data de validade do visto é o último dia em que pode utilizar o visto para e
 
 ### O que acontece se ultrapassar a duração de um visto?
 
-As consequências variam consoante o país mas comummente incluem multas, proibições de reentrada, e deportação. Nos EUA, uma ultrapassagem de 180 dias desencadeia uma barra de reentrada de 3 anos; uma ultrapassagem de 1 ano desencadeia uma barra de 10 anos - conforme documentado pela USCIS. As ultrapassagens são registadas em bases de dados de imigração e afetam futuras candidaturas de visto.
+As consequências variam consoante o país mas comummente incluem multas, proibições de reentrada, e deportação. Nos EUA, uma ultrapassagem de 180 dias desencadeia uma barra de reentrada de 3 anos; uma ultrapassagem de 1 ano desencadeia uma barra de 10 anos — conforme documentado pela USCIS. As ultrapassagens são registadas em bases de dados de imigração e afetam futuras candidaturas de visto.
 
 ### Pode uma aplicação de rastreamento de visto funcionar sem ligação à internet?
 
-As melhores conseguem. O acesso sem ligação à internet importa nas fronteiras e em áreas com internet pouco fiável - exatamente onde precisa dos detalhes do seu visto. Aplicações que requerem internet para exibir os seus documentos são menos úteis nestas situações.
+As melhores conseguem. O acesso sem ligação à internet importa nas fronteiras e em áreas com internet pouco fiável — exatamente onde precisa dos detalhes do seu visto. Aplicações que requerem internet para exibir os seus documentos são menos úteis nestas situações.
 
 ### Quanto tempo antes devo receber um lembrete antes do meu visto expirar?
 

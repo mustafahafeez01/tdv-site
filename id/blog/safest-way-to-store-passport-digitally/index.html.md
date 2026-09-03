@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/id/blog/safest-way-to-store-passport-dig
 
 Paspor adalah salah satu dokumen paling sensitif yang Anda miliki, memuat nama lengkap, tanggal lahir, nomor paspor, dan data biometrik Anda. Kehilangan akses ke paspor di perbatasan memang membuat stres, tetapi kehilangan kendali atas salinan digitalnya akibat kebocoran data adalah masalah yang lebih serius dan jarang dipikirkan secara memadai. Justru karena itulah kebanyakan orang perlu memikirkan lebih cermat di mana mereka menyimpan salinan digital, bukan sekadar memilih cara yang paling praktis.
 
-Tiga pendekatan paling umum - iCloud Photos, Google Photos, dan aplikasi terenkripsi khusus - masing-masing menawarkan keseimbangan berbeda antara kenyamanan dan keamanan. Artikel ini menjelaskan cara kerja masing-masing, perbedaannya dalam melindungi data Anda, dan mana yang mungkin cocok untuk situasi Anda.
+Tiga pendekatan paling umum — iCloud Photos, Google Photos, dan aplikasi terenkripsi khusus — masing-masing menawarkan keseimbangan berbeda antara kenyamanan dan keamanan. Artikel ini menjelaskan cara kerja masing-masing, perbedaannya dalam melindungi data Anda, dan mana yang mungkin cocok untuk situasi Anda.
 
 ## Opsi 1: iCloud Photos
 
@@ -71,7 +71,7 @@ Aplikasi terenkripsi khusus yang dirancang untuk dokumen perjalanan bekerja sepe
 
 ### Cara kerjanya
 
-Saat Anda menambahkan hasil pindaian paspor ke aplikasi, data tersebut dienkripsi menggunakan AES-256 dan disimpan sepenuhnya di ponsel Anda. Aplikasi bekerja sepenuhnya secara luring - tidak perlu akun, tidak perlu server. Jika Anda ingin akses lintas perangkat, fitur Pro opsional mencadangkan salinan terenkripsi ke iCloud atau Google Drive Anda sendiri, disegel dengan kode pemulihan yang hanya Anda miliki.
+Saat Anda menambahkan hasil pindaian paspor ke aplikasi, data tersebut dienkripsi menggunakan AES-256 dan disimpan sepenuhnya di ponsel Anda. Aplikasi bekerja sepenuhnya secara luring — tidak perlu akun, tidak perlu server. Jika Anda ingin akses lintas perangkat, fitur Pro opsional mencadangkan salinan terenkripsi ke iCloud atau Google Drive Anda sendiri, disegel dengan kode pemulihan yang hanya Anda miliki.
 
 ### Karakteristik keamanan
 
@@ -85,7 +85,7 @@ Saat Anda menambahkan hasil pindaian paspor ke aplikasi, data tersebut dienkrips
 
 Keunggulan keamanannya besar: data paspor Anda tidak pernah dikirim atau disimpan di server jarak jauh, sehingga tidak pernah bisa diakses oleh siapa pun, dan tidak ada server jarak jauh yang bisa dibobol jika seseorang mendapatkan akses tanpa izin ke sistem perusahaan aplikasi tersebut. Ini berarti Anda tetap memegang kendali dan kepemilikan penuh atas dokumen Anda setiap saat.
 
-Kekurangannya adalah berkurangnya kenyamanan: Anda tidak bisa otomatis mengakses salinan paspor dari beberapa perangkat, dan jika ponsel Anda hilang, aplikasi tidak akan memulihkan dokumen Anda dengan sendirinya - Anda perlu memulihkannya secara manual dari cadangan. Bagi kebanyakan keluarga yang bepergian bersama, menyimpan dokumen di ponsel salah satu orang tua sudah cukup, dan banyak aplikasi mendukung sinkronisasi manual melalui cadangan, yang memberi fleksibilitas tambahan tanpa mengharuskan unggahan otomatis ke cloud.
+Kekurangannya adalah berkurangnya kenyamanan: Anda tidak bisa otomatis mengakses salinan paspor dari beberapa perangkat, dan jika ponsel Anda hilang, aplikasi tidak akan memulihkan dokumen Anda dengan sendirinya, Anda perlu memulihkannya secara manual dari cadangan. Bagi kebanyakan keluarga yang bepergian bersama, menyimpan dokumen di ponsel salah satu orang tua sudah cukup, dan banyak aplikasi mendukung sinkronisasi manual melalui cadangan, yang memberi fleksibilitas tambahan tanpa mengharuskan unggahan otomatis ke cloud.
 
 ## Perbandingan langsung
 
@@ -114,7 +114,7 @@ Jawabannya bergantung pada toleransi risiko pribadi dan kebutuhan Anda.
 
 Banyak orang menggunakan pendekatan hibrida: menyimpan salinan di iCloud atau Google Photos untuk akses sehari-hari lintas perangkat, dan salinan kedua di aplikasi terenkripsi khusus sebagai cadangan yang aman. Pendekatan ini memberikan kenyamanan sekaligus redundansi. Kuncinya adalah memahami kompromi dari setiap metode dan memilih secara sadar.
 
-Apa pun metode yang Anda pilih, ingatlah bahwa salinan digital paspor Anda sama sensitifnya dengan dokumen fisik aslinya - lindungi dengan kehati-hatian dan perhatian yang sama.
+Apa pun metode yang Anda pilih, ingatlah bahwa salinan digital paspor Anda sama sensitifnya dengan dokumen fisik aslinya, lindungi dengan kehati-hatian dan perhatian yang sama.
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 

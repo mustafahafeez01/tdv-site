@@ -46,7 +46,7 @@ Pro
 
 ### Tunjangan Perjalanan
 
-Tentukan batas hari khusus per negara dan per anggota keluarga. Tetapkan target Anda sendiri untuk tetap menyadari berapa hari Anda telah menghabiskan di luar negeri - bagaimanapun aturan perjalanan Anda bekerja.
+Tentukan batas hari khusus per negara dan per anggota keluarga. Tetapkan target Anda sendiri untuk tetap menyadari berapa hari Anda telah menghabiskan di luar negeri, bagaimanapun aturan perjalanan Anda bekerja.
 
 Pro
 
@@ -58,7 +58,7 @@ Pro
 
 ### Siap Boarding
 
-Lampirkan nomor penerbangan, konfirmasi hotel, dan referensi pemesanan ke perjalanan mana pun. Dokumen dan pemesanan di satu tempat - sentuh sekali saat check-in. Tidak ada yang perlu dicari di boarding.
+Lampirkan nomor penerbangan, konfirmasi hotel, dan referensi pemesanan ke perjalanan mana pun. Dokumen dan pemesanan di satu tempat, sentuh sekali saat check-in. Tidak ada yang perlu dicari di boarding.
 
 Manajemen Dokumen
 
@@ -120,7 +120,7 @@ Simpan kartu hadiah, kode diskon, tiket acara, dan lulus atraksi. Dapatkan pengi
 
 ### Tunda Pengingat
 
-Jeda pengingat kedaluwarsa apa pun tanpa mengedit dokumen. Tunda selama satu hari, satu minggu, atau satu bulan - pengingat akan dilanjutkan secara otomatis ketika periode penundaan berakhir.
+Jeda pengingat kedaluwarsa apa pun tanpa mengedit dokumen. Tunda selama satu hari, satu minggu, atau satu bulan — pengingat akan dilanjutkan secara otomatis ketika periode penundaan berakhir.
 
 ### Kode Warna Dokumen
 
@@ -288,7 +288,7 @@ Bagikan beberapa file dokumen asli sekaligus melalui lembar bagikan perangkat An
 
 #### Hapus Aman dengan Batalkan
 
-Secara tidak sengaja menghapus dokumen? Ketuk Batalkan segera untuk memulihkannya. Lewatkan jendelanya? Bergerak ke Dihapus Baru-baru ini, tempat ia tinggal selama 30 hari sebelum dihapus secara permanen - memberikan Anda jaringan keselamatan tanpa mengorbankan privasi Anda.
+Secara tidak sengaja menghapus dokumen? Ketuk Batalkan segera untuk memulihkannya. Lewatkan jendelanya? Bergerak ke Dihapus Baru-baru ini, tempat ia tinggal selama 30 hari sebelum dihapus secara permanen, memberikan Anda jaringan keselamatan tanpa mengorbankan privasi Anda.
 
 **Penting:** Travel Document Vault adalah alat organisasi pribadi untuk menyimpan salinan digital dokumen Anda. **Salinan digital yang tersimpan dalam aplikasi ini TIDAK berlaku untuk perjalanan.** Aplikasi ini tidak memverifikasi keaslian dokumen atau memberikan saran hukum atau perjalanan. Selalu bawa dokumen asli dan verifikasi semua persyaratan perjalanan dengan sumber resmi pemerintah.
 

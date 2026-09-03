@@ -18,19 +18,19 @@ Source: https://traveldocumentvault.com/nl/blog/travel-expired-passport-uk/
 
 Of een paspoort dat vóór de terugreisdatum verloopt een probleem wordt, hangt volledig af van waar de reis heen gaat. Sommige landen vragen alleen dat het geldig is op de dag van binnenkomst. Veel landen eisen daarbovenop drie of zes maanden.
 
-Nee - een verlopen paspoort werkt niet voor internationale reizen. Luchtvaartmaatschappijen controleren de geldigheid voordat ze instapkaarten uitgeven, en als je paspoort verlopen is, wordt je de toegang tot het vliegtuig geweigerd. De grensbewaking voert dezelfde controle uit op je bestemming, dus er is geen ontkomen aan: je moet je paspoort verlengen voordat je internationaal reist.
+Nee – een verlopen paspoort werkt niet voor internationale reizen. Luchtvaartmaatschappijen controleren de geldigheid voordat ze instapkaarten uitgeven, en als je paspoort verlopen is, wordt je de toegang tot het vliegtuig geweigerd. De grensbewaking voert dezelfde controle uit op je bestemming, dus er is geen ontkomen aan: je moet je paspoort verlengen voordat je internationaal reist.
 
 Hierna volgt hoe dit er in de praktijk uitziet: je beperkte mogelijkheden, waarom tijd zo belangrijk is, en wat je kunt doen om paniek bij de incheckbalie te voorkomen.
 
 ## De absolute regel: geen internationale reizen met een verlopen paspoort
 
-His Majesty's Passport Office is hier duidelijk over: je paspoort moet geldig zijn op de dag dat je reist - niet alleen bij aankomst, niet alleen voor een deel van de reis, maar op de dag dat je aan boord van het vliegtuig gaat.
+His Majesty's Passport Office is hier duidelijk over: je paspoort moet geldig zijn op de dag dat je reist – niet alleen bij aankomst, niet alleen voor een deel van de reis, maar op de dag dat je aan boord van het vliegtuig gaat.
 
 Bij het inchecken voert de medewerker je paspoortnummer in het systeem in en ziet de vervaldatum. Ligt die in het verleden, dan geven ze geen instapkaart af, en het maakt niet uit of je de dag na het verlopen weer thuis bent. Hetzelfde gebeurt bij de grensbewaking op je bestemming: ze zien de vervaldatum, ze weigeren toegang.
 
 Deze regel geldt voor alle internationale reizen, zowel vluchten naar Europa als veerbootovertochten, of je nu net over de vervaldatum heen bent of maanden van tevoren hebt geboekt. Moet je je paspoort tonen bij een grens, dan moet het op die dag geldig zijn.
 
-De enige uitzondering is een Brits noodreisdocument, uitgegeven door het ministerie van Buitenlandse Zaken wanneer je al in het buitenland bent in een echte noodsituatie, en zelfs dan bestaat het alleen om je thuis te krijgen - niet om verdere reizen mogelijk te maken.
+De enige uitzondering is een Brits noodreisdocument, uitgegeven door het ministerie van Buitenlandse Zaken wanneer je al in het buitenland bent in een echte noodsituatie, en zelfs dan bestaat het alleen om je thuis te krijgen – niet om verdere reizen mogelijk te maken.
 
 ## Kun je een vakantie boeken met een verlopen paspoort?
 
@@ -70,7 +70,7 @@ Het enige grijze gebied is hoe luchtvaartmaatschappijen en grensbewaking omgaan 
 
 ## Reisverzekering en verlopen documenten
 
-De meeste reisverzekeringen bevatten een clausule die de dekking ongeldig maakt bij verlopen of ongeldige reisdocumenten. Verzekeraars kunnen je hele claim afwijzen als je met een verlopen paspoort reisde - de formulering luidt doorgaans iets als: "Deze polis is ongeldig als de verzekerde reisde met een ongeldig of verlopen reisdocument."
+De meeste reisverzekeringen bevatten een clausule die de dekking ongeldig maakt bij verlopen of ongeldige reisdocumenten. Verzekeraars kunnen je hele claim afwijzen als je met een verlopen paspoort reisde – de formulering luidt doorgaans iets als: "Deze polis is ongeldig als de verzekerde reisde met een ongeldig of verlopen reisdocument."
 
 Dit geldt of je paspoort nu verliep voordat je het VK verliet of terwijl je in het buitenland was, en of de reis nu een weekendje weg was of een reis van drie maanden de wereld rond. Al één dag over de vervaldatum van je paspoort kan een verder geldige claim onderuithalen.
 
@@ -88,7 +88,7 @@ Herinneringen maanden van tevoren instellen, in plaats van de week voor je vluch
 
 ## Veelvoorkomende misvattingen over paspoortgeldigheid
 
-Reizigers verwarren de eigen geldigheidsdatum van hun paspoort vaak met bestemmingsspecifieke regels. Je paspoort is geldig tot de datum die erin staat afgedrukt - dat is de basis. Maar sommige landen eisen dat het geldig blijft gedurende een bepaalde periode na je aankomstdatum, en dat is een aparte eis, los van de vervaldatum zelf.
+Reizigers verwarren de eigen geldigheidsdatum van hun paspoort vaak met bestemmingsspecifieke regels. Je paspoort is geldig tot de datum die erin staat afgedrukt – dat is de basis. Maar sommige landen eisen dat het geldig blijft gedurende een bepaalde periode na je aankomstdatum, en dat is een aparte eis, los van de vervaldatum zelf.
 
 [Veel landen hanteren een zesmaandenregel die vereist dat je paspoort minstens zes maanden na je geplande vertrekdatum geldig blijft](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/), terwijl sommige drie maanden hanteren en andere één maand. Geen van deze regels staat reizen met een verlopen paspoort toe, omdat ze een strengere norm stellen waarbij verlenging nog eerder moet plaatsvinden dan de eigenlijke vervaldatum van het paspoort.
 

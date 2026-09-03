@@ -11,12 +11,12 @@ Source: https://traveldocumentvault.com/es/blog/damaged-passport-travel/
 ## Conclusiones Principales
 
 - **No todo el desgaste es daño.** Una portada arrugada no es problema. El daño por agua, las páginas rotas o las medidas de seguridad borrosas sí lo son.
-- Las aerolíneas deniegan el embarque si **consideran que un pasaporte está dañado** - son responsables si embarcan un documento inválido, así que optan por la prudencia.
+- Las aerolíneas deniegan el embarque si **consideran que un pasaporte está dañado** —son responsables si embarcan un documento inválido, así que optan por la prudencia.
 - Detectar el daño **días o semanas antes** de tu viaje te da tiempo para una renovación de emergencia. El día antes es una crisis.
-- Si te rechazan en la puerta, **pregunta a tu embajada por un documento de viaje de emergencia** - la emisión el mismo día es posible.
-- Una copia digital **vale más cuando estás en el extranjero** - un funcionario consular puede confirmar tu identidad a partir de un escaneo mucho más rápido que a partir de tu relato. Escanea tu pasaporte antes de viajar.
+- Si te rechazan en la puerta, **pregunta a tu embajada por un documento de viaje de emergencia** —la emisión el mismo día es posible.
+- Una copia digital **vale más cuando estás en el extranjero** —un funcionario consular puede confirmar tu identidad a partir de un escaneo mucho más rápido que a partir de tu relato. Escanea tu pasaporte antes de viajar.
 
-La mayoría de los daños en un pasaporte son puramente estéticos. Una portada rayada, una esquina reblandecida, un borde deshilachado a lo largo del lomo - nada de eso te impide embarcar. Lo que el personal de fronteras y los agentes de la aerolínea comprueban en realidad es más concreto de lo que la mayoría de los viajeros cree: la página de identidad, las dos líneas impresas debajo de ella, y si el cuadernillo se mantiene entero como un solo documento.
+La mayoría de los daños en un pasaporte son puramente estéticos. Una portada rayada, una esquina reblandecida, un borde deshilachado a lo largo del lomo —nada de eso te impide embarcar. Lo que el personal de fronteras y los agentes de la aerolínea comprueban en realidad es más concreto de lo que la mayoría de los viajeros cree: la página de identidad, las dos líneas impresas debajo de ella, y si el cuadernillo se mantiene entero como un solo documento.
 
 Merece la pena saber dónde está ese límite antes de viajar, porque un pasaporte puede ser técnicamente válido y aun así ser rechazado. Aquí repasamos qué cuenta como daño, qué suelen aceptar las autoridades y qué hacer si el tuyo ya está en mal estado.
 
@@ -26,7 +26,7 @@ Aquí es donde la mayoría entra en pánico sin necesidad: una esquina doblada e
 
 **Daño significa algo que compromete las medidas de seguridad del documento o su legibilidad.** El daño por agua es el caso clásico: la tinta se corre, las páginas se hinchan o se ondulan, y la página de la firma se vuelve ilegible. Las páginas rotas o que faltan también cuentan, junto con un holograma de seguridad dañado, un lomo roto, o cualquier cosa que oculte tu información personal o tus datos biométricos.
 
-Lo más crítico es que la zona de lectura mecánica - la franja en blanco y negro en la parte inferior de tu página de datos - tiene que permanecer intacta. Los escáneres fronterizos pueden no ser capaces de leerla una vez dañada.
+Lo más crítico es que la zona de lectura mecánica —la franja en blanco y negro en la parte inferior de tu página de datos— tiene que permanecer intacta. Los escáneres fronterizos pueden no ser capaces de leerla una vez dañada.
 
 El motivo por el que esto importa es que **las aerolíneas asumen la responsabilidad si embarcan a alguien con un documento inaceptable.** Si embarcas con un pasaporte dañado y te deniegan la entrada al llegar, las autoridades pueden multar a la aerolínea por haberte transportado. La aerolínea también tiene que cubrir el coste de tu vuelo de vuelta.
 
@@ -34,7 +34,7 @@ Ningún agente de puerta quiere ese papeleo, así que optan decididamente por la
 
 ## Detectas el Daño Días o Semanas Antes de Viajar
 
-Detectar el daño con tiempo de sobra es el mejor escenario posible, porque todavía tienes margen para actuar. En el momento en que notes algo raro - una portada agrietada, manchas de agua, tinta corrida, cualquier cosa fuera de lo normal - contacta con la autoridad de pasaportes de tu país en lugar de esperar a ver si empeora o dar por hecho que estará bien el día del viaje.
+Detectar el daño con tiempo de sobra es el mejor escenario posible, porque todavía tienes margen para actuar. En el momento en que notes algo raro —una portada agrietada, manchas de agua, tinta corrida, cualquier cosa fuera de lo normal— contacta con la autoridad de pasaportes de tu país en lugar de esperar a ver si empeora o dar por hecho que estará bien el día del viaje.
 
 Tu primera parada debería ser el sitio web oficial de la oficina de pasaportes de tu país, porque es el único lugar donde tienes la garantía de que las normas actuales y los plazos de tramitación son correctos, y ambos cambian con más frecuencia de lo que la gente espera. Si no estás seguro de si tu pasaporte en concreto seguirá siendo aceptado, la oficina de pasaportes es el único organismo cuya respuesta realmente cuenta. Un foro de aerolíneas no te va a salvar en el mostrador.
 
@@ -48,14 +48,14 @@ Empieza el trámite en cuanto descubras el daño. Reservar vuelos y esperar que 
 
 Ahora la versión más difícil: estás en la fila de facturación o en la puerta de embarque y notas un daño que se te había pasado antes, o el agente lo detecta en cuanto le entregas el pasaporte.
 
-Mantén la calma y sé honesto. Dile al agente que el daño se te acaba de hacer evidente, en lugar de intentar ocultarlo o quitarle importancia - ya han visto pasaportes dañados antes y detectarán la verdad de inmediato.
+Mantén la calma y sé honesto. Dile al agente que el daño se te acaba de hacer evidente, en lugar de intentar ocultarlo o quitarle importancia —ya han visto pasaportes dañados antes y detectarán la verdad de inmediato.
 
 Si el daño es realmente leve, una pequeña arruga que no afecta a ningún texto ni medida de seguridad, el agente puede aceptarlo. Si es más grave, te denegarán el embarque, y con eso no hay discusión posible.
 
 Una vez denegado el embarque, tienes opciones limitadas:
 
 - **Cambia a un vuelo posterior.** Contacta con tu aerolínea o agencia de viajes y explica lo ocurrido. En muchos casos te cambiarán el vuelo sin coste adicional una vez que el motivo es un documento dañado (y no una ausencia o cancelación voluntaria). Aprovecha este tiempo para solucionar el tema de tu pasaporte.
-- **Solicita un documento de viaje de emergencia.** Contacta de inmediato con la embajada o el consulado más cercano. Explica que tienes un vuelo confirmado y necesitas viajar con urgencia. Si todavía estás en el aeropuerto, muchas embajadas pueden emitir un documento de viaje de emergencia el mismo día - pero tienes que actuar rápido y mostrar el justificante de tu reserva.
+- **Solicita un documento de viaje de emergencia.** Contacta de inmediato con la embajada o el consulado más cercano. Explica que tienes un vuelo confirmado y necesitas viajar con urgencia. Si todavía estás en el aeropuerto, muchas embajadas pueden emitir un documento de viaje de emergencia el mismo día —pero tienes que actuar rápido y mostrar el justificante de tu reserva.
 - **Acepta la cancelación.** Si ninguna de las opciones anteriores funciona y el viaje no se puede salvar, pregunta a tu aerolínea qué puede hacer. Algunas te cambian el vuelo o te ofrecen un crédito como gesto de buena voluntad una vez que lo explicas. Sin embargo, la mayoría de las condiciones de las aerolíneas tratan un problema de documentación como responsabilidad propia del pasajero, así que no hay un reembolso automático que reclamar.
 
 Si el agente de la puerta dice que no, no discutas ni intentes embarcar de todos modos. Eso solo crea problemas mayores. La aerolínea puede prohibirte futuros vuelos, las autoridades de inmigración pueden multarte, y en algunos países pueden procesarte por intentar viajar con un documento que ya han considerado inválido.
@@ -79,7 +79,7 @@ Aquí ayuda tener una foto digital nítida de tu pasaporte. Guarda la página de
 
 Esto es especialmente valioso si estás en el extranjero cuando tu pasaporte se daña y necesitas un documento de viaje de emergencia de tu embajada. Los funcionarios consulares trabajan más rápido cuando tienen delante un escaneo de tu pasaporte original.
 
-Guarda tus copias digitales en un lugar cifrado y sin conexión - no en Google Photos ni en un iCloud compartido con otras personas. Travel Document Vault está pensado exactamente para este caso de uso: fotos de pasaporte cifradas solo en tu dispositivo, accesibles al instante si algo sale mal.
+Guarda tus copias digitales en un lugar cifrado y sin conexión —no en Google Photos ni en un iCloud compartido con otras personas. Travel Document Vault está pensado exactamente para este caso de uso: fotos de pasaporte cifradas solo en tu dispositivo, accesibles al instante si algo sale mal.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
@@ -91,7 +91,7 @@ El daño incluye daño por agua, tinta corrida, páginas rotas o que faltan, arr
 
 ### ¿Pueden las aerolíneas denegar el embarque por daños en el pasaporte?
 
-Sí. Las aerolíneas son responsables si embarcan a alguien con un documento de viaje inválido y a esa persona se le deniega la entrada o es expulsada. Por eso los agentes de puerta optan por la prudencia - un pasaporte con daños por agua o páginas que faltan puede considerarse inaceptable aunque técnicamente siga siendo válido.
+Sí. Las aerolíneas son responsables si embarcan a alguien con un documento de viaje inválido y a esa persona se le deniega la entrada o es expulsada. Por eso los agentes de puerta optan por la prudencia —un pasaporte con daños por agua o páginas que faltan puede considerarse inaceptable aunque técnicamente siga siendo válido.
 
 ### ¿Qué debo hacer si detecto daños en el pasaporte antes de mi viaje?
 
@@ -99,7 +99,7 @@ Contacta con la autoridad de pasaportes de tu país de inmediato, en lugar de es
 
 ### ¿Qué pasa si mi pasaporte se daña en el aeropuerto?
 
-Informa al agente de la puerta de inmediato y explica cuándo ocurrió el daño. Puede aceptar el pasaporte si el daño es leve y tu información sigue siendo legible y segura. Si te deniegan el embarque, pregunta si es posible un documento de viaje de emergencia de tu embajada para el viaje, o si puedes cambiar a un vuelo posterior una vez que hayas obtenido un nuevo pasaporte. No intentes viajar si el agente de la puerta dice que no - embarcar con un documento rechazado causará problemas mucho mayores.
+Informa al agente de la puerta de inmediato y explica cuándo ocurrió el daño. Puede aceptar el pasaporte si el daño es leve y tu información sigue siendo legible y segura. Si te deniegan el embarque, pregunta si es posible un documento de viaje de emergencia de tu embajada para el viaje, o si puedes cambiar a un vuelo posterior una vez que hayas obtenido un nuevo pasaporte. No intentes viajar si el agente de la puerta dice que no —embarcar con un documento rechazado causará problemas mucho mayores.
 
 ### ¿Con qué rapidez puedo conseguir un nuevo pasaporte si el mío está dañado?
 

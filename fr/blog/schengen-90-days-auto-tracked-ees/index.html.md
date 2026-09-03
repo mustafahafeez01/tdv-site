@@ -1,4 +1,4 @@
-# Votre fenêtre Schengen de 90 jours - Compter les jours à l'ère du EES
+# Votre fenêtre Schengen de 90 jours — Compter les jours à l'ère du EES
 
 > Le système frontalier EES de l'Europe enregistre désormais automatiquement vos jours Schengen. Comment fonctionne la règle 90/180, ce que le EES ne vous dit pas, et comment garder l'avance.
 
@@ -12,19 +12,19 @@ Source: https://traveldocumentvault.com/fr/blog/schengen-90-days-auto-tracked-ee
 
 - **Les tampons des passeports ont disparu.** Depuis le 10 avril 2026, le système d'entrée/sortie de l'UE enregistre numériquement les entrées et sorties Schengen de chaque voyageur non-UE, avec les empreintes digitales et une image faciale.
 - Le EES détecte désormais **les dépassements automatiquement**. Attendez-vous à un refus à votre prochaine entrée, et possiblement à une interdiction d'entrée de un à cinq ans.
-- **Le EES applique, il ne planifie pas.** Aucun portail public ne montre les jours restants - compter votre fenêtre glissante 90/180 est toujours votre responsabilité.
-- La **calculatrice officielle de court séjour** de l'UE fonctionne, mais elle est manuelle - une personne, une fenêtre, un calcul à la fois.
+- **Le EES applique, il ne planifie pas.** Aucun portail public ne montre les jours restants — compter votre fenêtre glissante 90/180 est toujours votre responsabilité.
+- La **calculatrice officielle de court séjour** de l'UE fonctionne, mais elle est manuelle — une personne, une fenêtre, un calcul à la fois.
 - Les familles jonglent avec **une fenêtre séparée par personne**. C'est là que le suivi des limites de jours dans une application trouve sa place.
 
 Lors de votre dernier voyage en Europe, vous avez probablement reçu un tampon à la frontière. Ce tampon a disparu. Depuis le 10 avril 2026, le système d'entrée/sortie (EES) de l'UE est entièrement opérationnel dans toute la zone Schengen, et l'encre barbouillée qui enregistrait autrefois vos voyages a été remplacée par un enregistrement numérique qui commence dès que vous franchissez la frontière.
 
-Pour ceux qui comptent les jours Schengen - et tout visiteur non-UE devrait le faire - cela change considérablement les enjeux. Voici ce que le nouveau système fait réellement, ce qu'il fait délibérément pas, et comment tenir votre propre comptage pour qu'une frontière ne vous surprenne jamais.
+Pour ceux qui comptent les jours Schengen — et tout visiteur non-UE devrait le faire — cela change considérablement les enjeux. Voici ce que le nouveau système fait réellement, ce qu'il fait délibérément pas, et comment tenir votre propre comptage pour qu'une frontière ne vous surprenne jamais.
 
 ## Ce qui a changé aux frontières de l'Europe
 
 Le EES enregistre les empreintes digitales, l'image faciale, le document de voyage et les dates d'entrée et de sortie exactes de chaque voyageur non-UE. Le système avait enregistré plus de 52 millions de passages frontaliers entre son lancement progressif en octobre 2025 et son fonctionnement complet ce printemps, et plus de 27 000 personnes ont été refusées à l'entrée pendant cette période. L'enregistrement pour la première fois prend quelques minutes au guichet, et les aéroports ont signalé des files d'attente de plusieurs heures aux heures de pointe cet été pendant que tout le monde s'y adapte.
 
-Pas tout le monde est enregistré. Les citoyens de l'UE, les résidents des pays Schengen et les titulaires de visas de long séjour sont exemptés. Si vous visitez en vertu de l'autorisation de court séjour sans visa - la plupart des voyageurs britanniques, américains, canadiens et australiens, par exemple - le EES s'applique à vous.
+Pas tout le monde est enregistré. Les citoyens de l'UE, les résidents des pays Schengen et les titulaires de visas de long séjour sont exemptés. Si vous visitez en vertu de l'autorisation de court séjour sans visa — la plupart des voyageurs britanniques, américains, canadiens et australiens, par exemple — le EES s'applique à vous.
 
 ## La règle 90/180 sous un système qui ne cligne jamais
 
@@ -40,23 +40,23 @@ L'UE publie une calculatrice officielle de court séjour qui vaut vraiment la pe
 
 ## Comment suivre votre fenêtre en pratique
 
-La méthode manuelle vient en premier, car elle est gratuite et officielle: prenez la date d'aujourd'hui et remontez 180 jours. Comptez chaque jour où vous étiez physiquement à l'intérieur d'un pays Schengen pendant cette période - les jours d'arrivée et de départ comptent tous les deux. Soustrayez le total de 90; c'est ce qu'il vous reste en ce moment. Parce que la fenêtre glisse, demain le calcul se décale d'un jour, ce qui est pourquoi la calculatrice de l'UE demande l'historique complet de vos voyages plutôt qu'un seul chiffre.
+La méthode manuelle vient en premier, car elle est gratuite et officielle: prenez la date d'aujourd'hui et remontez 180 jours. Comptez chaque jour où vous étiez physiquement à l'intérieur d'un pays Schengen pendant cette période — les jours d'arrivée et de départ comptent tous les deux. Soustrayez le total de 90; c'est ce qu'il vous reste en ce moment. Parce que la fenêtre glisse, demain le calcul se décale d'un jour, ce qui est pourquoi la calculatrice de l'UE demande l'historique complet de vos voyages plutôt qu'un seul chiffre.
 
-Pour une personne prenant une vacances ou deux par an, c'est tout à fait gérable. Cela devient plus difficile quand les voyages se chevauchent et que les gens se multiplient: un voyageur d'affaires faisant de courts sauts chaque mois, ou une famille où un enfant est en échange scolaire, un autre a des dates de camp d'été, et un partenaire rentre plus tôt. Chaque personne porte sa propre fenêtre glissante, et les fenêtres ne s'alignent pas. C'est la situation où un outil de suivi cesse d'être un gadget et commence à être comment vous évitez une erreur coûteuse - notre [guide du suivi des visas et des entrées](https://traveldocumentvault.com/fr/blog/visa-expiry-tracker-app/) couvre le problème plus largement.
+Pour une personne prenant une vacances ou deux par an, c'est tout à fait gérable. Cela devient plus difficile quand les voyages se chevauchent et que les gens se multiplient: un voyageur d'affaires faisant de courts sauts chaque mois, ou une famille où un enfant est en échange scolaire, un autre a des dates de camp d'été, et un partenaire rentre plus tôt. Chaque personne porte sa propre fenêtre glissante, et les fenêtres ne s'alignent pas. C'est la situation où un outil de suivi cesse d'être un gadget et commence à être comment vous évitez une erreur coûteuse — notre [guide du suivi des visas et des entrées](https://traveldocumentvault.com/fr/blog/visa-expiry-tracker-app/) couvre le problème plus largement.
 
 Une note d'honnêteté: aucune application ne peut lire votre dossier EES, y compris la nôtre. Ce qu'un suivi fait, c'est appliquer l'arithmétique officielle 90/180 aux dates de voyage que vous lui donnez, continuellement, pour chaque voyageur que vous ajoutez. La frontière compte ce qui s'est passé; un bon suivi montre ce que vous pouvez encore faire.
 
 ## Trois choses que le EES n'est pas
 
-**Le EES n'est pas un système de visa.** Vous ne postulez pas pour le EES et il n'y a pas d'approbation à attendre - cela se fait automatiquement à la frontière à la place. Le fait que vous ayez besoin d'un visa du tout dépend toujours de votre nationalité, exactement comme avant.
+**Le EES n'est pas un système de visa.** Vous ne postulez pas pour le EES et il n'y a pas d'approbation à attendre — cela se fait automatiquement à la frontière à la place. Le fait que vous ayez besoin d'un visa du tout dépend toujours de votre nationalité, exactement comme avant.
 
-**Vous n'avez pas besoin d'assurance ou de relevés bancaires en raison du EES.** Les premiers rapports ont créé une certaine confusion sur ce point, mais le EES enregistre les entrées et les sorties - rien de plus et rien de moins. Les exigences en matière d'assurance appartiennent à des types de visas spécifiques, pas au système frontalier.
+**Vous n'avez pas besoin d'assurance ou de relevés bancaires en raison du EES.** Les premiers rapports ont créé une certaine confusion sur ce point, mais le EES enregistre les entrées et les sorties — rien de plus et rien de moins. Les exigences en matière d'assurance appartiennent à des types de visas spécifiques, pas au système frontalier.
 
-**L'ETIAS est un système entièrement séparé.** C'est une autorisation préalable de voyage pour les voyageurs dispensés de visa qui sera lancée plus tard - la date exacte n'a pas encore été annoncée. Quand il arrive, vous postulez en ligne avant de voler, un peu comme le ESTA américain. Notre [guide ETIAS](https://traveldocumentvault.com/fr/blog/etias-documents-2026/) explique ce qu'il faut préparer. Pour l'instant, le EES est le système que vous rencontrerez réellement à la frontière.
+**L'ETIAS est un système entièrement séparé.** C'est une autorisation préalable de voyage pour les voyageurs dispensés de visa qui sera lancée plus tard — la date exacte n'a pas encore été annoncée. Quand il arrive, vous postulez en ligne avant de voler, un peu comme le ESTA américain. Notre [guide ETIAS](https://traveldocumentvault.com/fr/blog/etias-documents-2026/) explique ce qu'il faut préparer. Pour l'instant, le EES est le système que vous rencontrerez réellement à la frontière.
 
 ## Une longueur d'avance sur la frontière
 
-La frontière numérique est minutieuse, automatique et implacable, mais rester dans la règle 90/180 n'a jamais été question de frontière - c'est une question de connaître vos propres dates avant de réserver. Gardez votre historique de voyage quelque part de fiable, exécutez les chiffres avant de vous engager à voyager, et traitez le comptage comme faisant partie de la planification plutôt que quelque chose à reconstituer à la porte. Le EES fera l'application. La planification est toujours la vôtre, et c'est la partie moins chère à bien faire.
+La frontière numérique est minutieuse, automatique et implacable, mais rester dans la règle 90/180 n'a jamais été question de frontière — c'est une question de connaître vos propres dates avant de réserver. Gardez votre historique de voyage quelque part de fiable, exécutez les chiffres avant de vous engager à voyager, et traitez le comptage comme faisant partie de la planification plutôt que quelque chose à reconstituer à la porte. Le EES fera l'application. La planification est toujours la vôtre, et c'est la partie moins chère à bien faire.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
@@ -76,11 +76,11 @@ Non. Le EES ne crée aucune nouvelle exigence de visa ou d'assurance. Il remplac
 
 ### Est-ce que l'ETIAS est la même chose que le EES?
 
-Non. Le EES est en vigueur maintenant et enregistre votre entrée et sortie à la frontière. L'ETIAS est une autorisation préalable de voyage distincte pour les voyageurs dispensés de visa qui sera lancée plus tard - la date exacte n'a pas été annoncée. Vous ne postulez pas pour le EES; cela se fait automatiquement à la frontière.
+Non. Le EES est en vigueur maintenant et enregistre votre entrée et sortie à la frontière. L'ETIAS est une autorisation préalable de voyage distincte pour les voyageurs dispensés de visa qui sera lancée plus tard — la date exacte n'a pas été annoncée. Vous ne postulez pas pour le EES; cela se fait automatiquement à la frontière.
 
 ### Comment Travel Document Vault aide-t-il avec la règle 90/180?
 
-L'application compte les jours par personne, par pays, sur tous vos voyages, et projette votre fenêtre glissante avant que vous réserviez. Elle ne lit pas votre dossier EES - aucune application ne peut le faire - mais elle applique le calcul officiel 90/180 à vos dates de voyage, de sorte que les jours restants de chaque membre de la famille sont visibles d'un coup d'œil.
+L'application compte les jours par personne, par pays, sur tous vos voyages, et projette votre fenêtre glissante avant que vous réserviez. Elle ne lit pas votre dossier EES — aucune application ne peut le faire — mais elle applique le calcul officiel 90/180 à vos dates de voyage, de sorte que les jours restants de chaque membre de la famille sont visibles d'un coup d'œil.
 
 ## Articles connexes
 

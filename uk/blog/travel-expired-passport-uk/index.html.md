@@ -116,7 +116,7 @@ Source: https://traveldocumentvault.com/uk/blog/travel-expired-passport-uk/
 
 ## Пов'язані статті
 
-[Поновлення паспорта5 хв читання · 9 бер 2026Паспорт прострочений? Що робити - покроково](https://traveldocumentvault.com/uk/blog/passport-expired-what-to-do/)
+[Поновлення паспорта5 хв читання · 9 бер 2026Паспорт прострочений? Що робити — покроково](https://traveldocumentvault.com/uk/blog/passport-expired-what-to-do/)
 
 [Правила паспорта6 хв читання · 22 кві 2026Правило шести місяців для паспорта: які країни його вимагають](https://traveldocumentvault.com/uk/blog/passport-expiry-6-month-rule/)
 

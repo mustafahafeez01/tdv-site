@@ -10,15 +10,15 @@ Source: https://traveldocumentvault.com/fr/blog/visa-expiry-tracker-app/
 
 ## Points clés à retenir
 
-- Le suivi de l'expiration des visas est **plus complexe** que le suivi des passeports - un visa a une date de validité d'entrée, une durée maximale de séjour, et parfois des limites de nombre d'entrées, tous nécessitant un suivi séparé.
+- Le suivi de l'expiration des visas est **plus complexe** que le suivi des passeports — un visa a une date de validité d'entrée, une durée maximale de séjour, et parfois des limites de nombre d'entrées, tous nécessitant un suivi séparé.
 - Le dépassement d'un visa entraîne des conséquences graves: amendes, interdictions de réentrée de plusieurs années, et dans certains pays, des accusations criminelles.
 - Les meilleures applications de suivi des visas fonctionnent hors ligne, prennent en charge plusieurs types de visas, et permettent des rappels personnalisés par document.
-- Les visiteurs de l'espace Schengen doivent suivre une fenêtre glissante de 90/180 jours, pas seulement une seule date d'expiration - la plupart des applications de voyage génériques ne le gèrent pas correctement.
+- Les visiteurs de l'espace Schengen doivent suivre une fenêtre glissante de 90/180 jours, pas seulement une seule date d'expiration — la plupart des applications de voyage génériques ne le gèrent pas correctement.
 - Suivre les visas et les passeports ensemble au même endroit réduit le risque d'une incohérence: entrer avec un visa valide mais avec un passeport qui expire avant la fin de votre séjour prévu.
 
-Un dépassement de visa est l'une des erreurs de voyage les plus graves qu'une personne puisse commettre. Contrairement à un vol manqué - stressant mais finalement réparable - un dépassement crée un dossier formel d'immigration qui peut vous suivre pendant des années. Aux États-Unis, un dépassement de seulement 180 jours déclenche une interdiction automatique de 3 ans de réentrée en vertu de la section INA 212(a)(9)(B)(i), et un dépassement d'un an déclenche une interdiction de 10 ans. Ces conséquences ne sont pas largement connues, mais elles sont documentées par le Service de la citoyenneté et de l'immigration des États-Unis.
+Un dépassement de visa est l'une des erreurs de voyage les plus graves qu'une personne puisse commettre. Contrairement à un vol manqué — stressant mais finalement réparable — un dépassement crée un dossier formel d'immigration qui peut vous suivre pendant des années. Aux États-Unis, un dépassement de seulement 180 jours déclenche une interdiction automatique de 3 ans de réentrée en vertu de la section INA 212(a)(9)(B)(i), et un dépassement d'un an déclenche une interdiction de 10 ans. Ces conséquences ne sont pas largement connues, mais elles sont documentées par le Service de la citoyenneté et de l'immigration des États-Unis.
 
-Une application de suivi des visas empêche cela. Elle surveille plusieurs dates à la fois - validité d'entrée, séjour maximal et nombre d'entrées - d'une manière que les applications de passeport génériques ne peuvent pas.
+Une application de suivi des visas empêche cela. Elle surveille plusieurs dates à la fois — validité d'entrée, séjour maximal et nombre d'entrées — d'une manière que les applications de passeport génériques ne peuvent pas.
 
 ## Pourquoi le suivi des visas est plus complexe que le suivi des passeports
 
@@ -30,12 +30,12 @@ Un voyageur entre au Vietnam sur un visa estampillé « valide jusqu'au 30 juin 
 
 | Champ | Ce que cela signifie | Exemple |
 |---|---|---|
-| **Date de validité d'entrée** | Le dernier jour où vous pouvez utiliser ce visa pour entrer dans le pays | "Valide jusqu'au 31 décembre 2026" - vous devez entrer avant cette date |
-| **Durée maximale du séjour** | La durée pendant laquelle vous pouvez rester une fois entré, indépendamment de la date de validité du visa | "Durée du séjour: 90 jours" - le compte à rebours commence à l'entrée, pas à la délivrance du visa |
+| **Date de validité d'entrée** | Le dernier jour où vous pouvez utiliser ce visa pour entrer dans le pays | "Valide jusqu'au 31 décembre 2026" — vous devez entrer avant cette date |
+| **Durée maximale du séjour** | La durée pendant laquelle vous pouvez rester une fois entré, indépendamment de la date de validité du visa | "Durée du séjour: 90 jours" — le compte à rebours commence à l'entrée, pas à la délivrance du visa |
 | **Nombre d'entrées** | Entrée simple, double ou multiple autorisée | Un visa à entrée simple est annulé dès que vous sortez, même si la date de validité d'entrée n'a pas passé |
 | **Règles de fenêtre glissante** | Certains régimes de visa (notamment Schengen) calculent les jours autorisés dans une fenêtre glissante | Schengen: maximum 90 jours en toute période glissante de 180 jours, pas par année civile |
 
-Un suivi qui ne surveille que la date de validité d'entrée manque la cause la plus courante de dépassements accidentels: dépasser la durée maximale du séjour après une entrée tout à fait légale. C'est le champ que la plupart des voyageurs ne suivent pas, car la date n'est pas estampillée dans le passeport - vous devez la calculer à partir de la date d'entrée.
+Un suivi qui ne surveille que la date de validité d'entrée manque la cause la plus courante de dépassements accidentels: dépasser la durée maximale du séjour après une entrée tout à fait légale. C'est le champ que la plupart des voyageurs ne suivent pas, car la date n'est pas estampillée dans le passeport — vous devez la calculer à partir de la date d'entrée.
 
 ## La règle Schengen 90/180 jours
 
@@ -43,7 +43,7 @@ Pour les voyageurs qui visitent plusieurs pays européens, la règle Schengen 90
 
 La Commission européenne fournit un calculateur officiel de séjour Schengen pour aider les voyageurs à déterminer leurs jours autorisés. Le point essentiel est que c'est une *fenêtre glissante*, pas une réinitialisation d'année civile. Les jours passés à Schengen il y a six mois comptent toujours contre votre allocation actuelle.
 
-La plupart des applications de passeport ou de document génériques ne gèrent pas cela correctement. Une application qui affiche simplement une date d'expiration du visa ne peut pas gérer la conformité Schengen - elle nécessite de calculer les jours sur une fenêtre glissante basée sur les dates d'entrée et de sortie réelles.
+La plupart des applications de passeport ou de document génériques ne gèrent pas cela correctement. Une application qui affiche simplement une date d'expiration du visa ne peut pas gérer la conformité Schengen — elle nécessite de calculer les jours sur une fenêtre glissante basée sur les dates d'entrée et de sortie réelles.
 
 ## Ce qui se passe quand vous dépassez
 
@@ -73,8 +73,8 @@ Compte tenu de la complexité ci-dessus, une bonne application de suivi des visa
 ## Étapes pratiques pour suivre correctement votre visa
 
 1. **Enregistrez votre date d'arrivée le jour où vous arrivez.** Votre compte à rebours de séjour maximal commence immédiatement à l'arrivée, pas à partir de quand le visa a été délivré ou quand la période de validité d'entrée a commencé.
-2. **Calculez et notez votre dernière date de sortie autorisée.** Ajoutez votre durée maximale de séjour à votre date d'arrivée. C'est la date à laquelle vous devez partir - plus tôt si vous avez besoin de temps pour atteindre un point de départ.
-3. **Suivez le statut d'entrée simple vs. multiple.** Si votre visa est à entrée simple, un voyage d'un jour vers un pays voisin l'annule - planifiez en conséquence.
+2. **Calculez et notez votre dernière date de sortie autorisée.** Ajoutez votre durée maximale de séjour à votre date d'arrivée. C'est la date à laquelle vous devez partir — plus tôt si vous avez besoin de temps pour atteindre un point de départ.
+3. **Suivez le statut d'entrée simple vs. multiple.** Si votre visa est à entrée simple, un voyage d'un jour vers un pays voisin l'annule — planifiez en conséquence.
 4. **Pour les voyages Schengen, tenez un registre des dates d'entrée et de sortie.** Utilisez le calculateur officiel de la Commission européenne pour vérifier vos jours restants avant de voyager après d'autres voyages à Schengen.
 5. **Définissez un rappel au moins 2 semaines avant votre date limite de séjour maximal.** Cela vous donne le temps d'organiser votre départ sans vous précipiter, surtout si les options de transport dans votre destination sont limitées.
 
@@ -86,7 +86,7 @@ Règles connexes qui interagissent avec le suivi des visas: consultez notre guid
 
 ### Qu'est-ce qu'une application de suivi des visas?
 
-Une application de suivi des visas surveille les dates d'expiration de vos visas et vous envoie des rappels avant qu'ils n'expirent. Les meilleures suivent à la fois la période de validité d'entrée et la durée maximale du séjour - deux dates limites différentes qui comptent toutes les deux pour éviter un dépassement.
+Une application de suivi des visas surveille les dates d'expiration de vos visas et vous envoie des rappels avant qu'ils n'expirent. Les meilleures suivent à la fois la période de validité d'entrée et la durée maximale du séjour — deux dates limites différentes qui comptent toutes les deux pour éviter un dépassement.
 
 ### Quelle est la différence entre la date d'expiration d'un visa et le séjour maximal?
 
@@ -94,11 +94,11 @@ La date d'expiration du visa est le dernier jour où vous pouvez utiliser le vis
 
 ### Que se passe-t-il si vous dépassez un visa?
 
-Les conséquences varient selon le pays mais incluent généralement des amendes, des interdictions de réentrée et une expulsion. Aux États-Unis, un dépassement de 180 jours déclenche une interdiction de réentrée de 3 ans; un dépassement de 1 an déclenche une interdiction de 10 ans - comme documenté par l'USCIS. Les dépassements sont enregistrés dans les bases de données d'immigration et affectent les futures demandes de visa.
+Les conséquences varient selon le pays mais incluent généralement des amendes, des interdictions de réentrée et une expulsion. Aux États-Unis, un dépassement de 180 jours déclenche une interdiction de réentrée de 3 ans; un dépassement de 1 an déclenche une interdiction de 10 ans — comme documenté par l'USCIS. Les dépassements sont enregistrés dans les bases de données d'immigration et affectent les futures demandes de visa.
 
 ### Une application de suivi des visas peut-elle fonctionner hors ligne?
 
-Les meilleures le font. L'accès hors ligne est important aux frontières et dans les zones où Internet est peu fiable - précisément là où vous avez le plus besoin de vos détails de visa. Les applications nécessitant Internet pour afficher vos documents sont moins utiles dans ces situations.
+Les meilleures le font. L'accès hors ligne est important aux frontières et dans les zones où Internet est peu fiable — précisément là où vous avez le plus besoin de vos détails de visa. Les applications nécessitant Internet pour afficher vos documents sont moins utiles dans ces situations.
 
 ### Combien de temps avant l'expiration de mon visa dois-je recevoir un rappel?
 

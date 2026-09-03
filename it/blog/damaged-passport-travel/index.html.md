@@ -11,12 +11,12 @@ Source: https://traveldocumentvault.com/it/blog/damaged-passport-travel/
 ## Punti Chiave
 
 - **Non tutta l'usura è un danno.** Una copertina piegata va bene. I danni da acqua, le pagine strappate o gli elementi di sicurezza sbavati no.
-- Le compagnie aeree rifiutano l'imbarco se pensano che **un passaporto sia danneggiato** - sono responsabili se fanno salire a bordo un documento non valido e preferiscono agire con cautela.
+- Le compagnie aeree rifiutano l'imbarco se pensano che **un passaporto sia danneggiato** — sono responsabili se fanno salire a bordo un documento non valido e preferiscono agire con cautela.
 - Notare un danno **giorni o settimane prima** del viaggio ti dà il tempo per un rinnovo d'emergenza. Il giorno prima è una crisi.
-- Se ti respingono al gate, **chiedi alla tua ambasciata un documento di viaggio d'emergenza** - il rilascio in giornata è possibile.
-- Una copia digitale **vale di più quando sei all'estero** - un funzionario consolare può stabilire chi sei da una scansione molto più in fretta che dal tuo racconto. Scansiona il passaporto prima di partire.
+- Se ti respingono al gate, **chiedi alla tua ambasciata un documento di viaggio d'emergenza** — il rilascio in giornata è possibile.
+- Una copia digitale **vale di più quando sei all'estero** — un funzionario consolare può stabilire chi sei da una scansione molto più in fretta che dal tuo racconto. Scansiona il passaporto prima di partire.
 
-La maggior parte dei danni a un passaporto è solo estetica. Una copertina graffiata, un angolo ammorbidito, un bordo consumato lungo il dorso - niente di tutto questo impedisce l'imbarco a nessuno. Ciò che il personale di frontiera e gli agenti delle compagnie aeree controllano davvero è più limitato di quanto la maggior parte dei viaggiatori pensi: la pagina con la foto, le due righe stampate sotto di essa, e se il libretto tiene ancora insieme come un unico documento.
+La maggior parte dei danni a un passaporto è solo estetica. Una copertina graffiata, un angolo ammorbidito, un bordo consumato lungo il dorso — niente di tutto questo impedisce l'imbarco a nessuno. Ciò che il personale di frontiera e gli agenti delle compagnie aeree controllano davvero è più limitato di quanto la maggior parte dei viaggiatori pensi: la pagina con la foto, le due righe stampate sotto di essa, e se il libretto tiene ancora insieme come un unico documento.
 
 Vale la pena sapere dove passa questo confine prima di partire, perché un passaporto può essere tecnicamente valido ed essere comunque rifiutato. Qui trovi cosa conta come danno, cosa accettano generalmente le autorità e cosa fare se il tuo è già in cattivo stato.
 
@@ -26,7 +26,7 @@ Vale la pena sapere dove passa questo confine prima di partire, perché un passa
 
 **Un danno vero è qualcosa che compromette gli elementi di sicurezza o la leggibilità del documento.** Il danno da acqua è il caso classico: l'inchiostro sbava, le pagine si gonfiano o si arricciano, e la pagina della firma diventa illeggibile. Contano anche le pagine strappate o mancanti, un ologramma di sicurezza danneggiato, una rilegatura rotta, o qualsiasi cosa renda illeggibili i tuoi dati personali o biometrici.
 
-Soprattutto, la zona a lettura ottica - la striscia bianca e nera in fondo alla pagina dei dati - deve rimanere intatta. Una volta danneggiata, gli scanner di frontiera potrebbero non riuscire più a leggerla.
+Soprattutto, la zona a lettura ottica — la striscia bianca e nera in fondo alla pagina dei dati — deve rimanere intatta. Una volta danneggiata, gli scanner di frontiera potrebbero non riuscire più a leggerla.
 
 Il motivo per cui questo conta è che **le compagnie aeree si assumono la responsabilità se fanno imbarcare qualcuno con un documento non accettabile.** Se sali a bordo con un passaporto danneggiato e all'arrivo ti viene negato l'ingresso, le autorità possono multare la compagnia aerea per averti trasportato. La compagnia deve anche coprire il costo del volo di rientro.
 
@@ -34,7 +34,7 @@ Nessun agente del gate vuole occuparsi di quella burocrazia, quindi preferisce a
 
 ## Noti il Danno Giorni o Settimane Prima del Viaggio
 
-Notare un danno con anticipo è lo scenario migliore, perché hai ancora margine per agire. Nel momento in cui noti qualcosa di strano - una copertina che si spacca, macchie d'acqua, inchiostro che sbava, qualsiasi cosa fuori dal normale - contatta subito l'autorità passaporti, invece di aspettare per vedere se peggiora o dare per scontato che il giorno del viaggio andrà tutto bene.
+Notare un danno con anticipo è lo scenario migliore, perché hai ancora margine per agire. Nel momento in cui noti qualcosa di strano — una copertina che si spacca, macchie d'acqua, inchiostro che sbava, qualsiasi cosa fuori dal normale — contatta subito l'autorità passaporti, invece di aspettare per vedere se peggiora o dare per scontato che il giorno del viaggio andrà tutto bene.
 
 La prima tappa dovrebbe essere il sito ufficiale dell'ufficio passaporti del tuo paese, perché è l'unico posto dove regole e tempi di elaborazione aggiornati sono garantiti, ed entrambi cambiano più spesso di quanto si pensi. Se non sei sicuro che il tuo passaporto verrà ancora accettato, l'ufficio passaporti è l'unico ente la cui risposta conta davvero. Un forum di appassionati di viaggi non ti salverà al banco del check-in.
 
@@ -48,7 +48,7 @@ Avvia la procedura nel momento stesso in cui scopri il danno. Prenotare i voli s
 
 Ecco la versione più difficile: sei in coda al check-in o al gate e ti accorgi di un danno che ti era sfuggito prima, oppure è l'agente a notarlo nel momento in cui gli consegni il passaporto.
 
-Mantieni la calma e sii onesto. Di' all'agente del gate che il danno ti è diventato evidente solo ora, invece di provare a nasconderlo o minimizzarlo - ha già visto passaporti danneggiati e capirà subito la verità.
+Mantieni la calma e sii onesto. Di' all'agente del gate che il danno ti è diventato evidente solo ora, invece di provare a nasconderlo o minimizzarlo — ha già visto passaporti danneggiati e capirà subito la verità.
 
 Se il danno è davvero minimo, una piccola piega che non compromette testo o elementi di sicurezza, l'agente potrebbe accettarlo. Se è più consistente, ti rifiuterà l'imbarco, e non c'è modo di discutere.
 
@@ -79,7 +79,7 @@ Una foto digitale nitida del tuo passaporto aiuta proprio in questo. Conserva la
 
 È particolarmente utile se ti trovi all'estero quando il passaporto si danneggia e hai bisogno di un documento di viaggio d'emergenza dalla tua ambasciata. I funzionari consolari lavorano più in fretta quando hanno davanti la scansione del tuo passaporto originale.
 
-Conserva le tue copie digitali in un posto crittografato e offline - non su Google Photos o su iCloud condiviso con altri. Travel Document Vault è pensato esattamente per questo: foto del passaporto crittografate solo sul tuo dispositivo, accessibili all'istante se qualcosa va storto.
+Conserva le tue copie digitali in un posto crittografato e offline — non su Google Photos o su iCloud condiviso con altri. Travel Document Vault è pensato esattamente per questo: foto del passaporto crittografate solo sul tuo dispositivo, accessibili all'istante se qualcosa va storto.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 

@@ -126,4 +126,4 @@ Service Canada публикует актуальные стандарты обр
 
 [Продление8 мин чтения · 10 фев 2026Сколько времени занимает продление паспорта? (США, Великобритания, Австралия, Канада)](https://traveldocumentvault.com/ru/blog/how-long-does-passport-renewal-take/)
 
-[Паспорт9 мин чтения · 9 мар 2026Истек срок действия паспорта? Что делать - пошаговая инструкция](https://traveldocumentvault.com/ru/blog/passport-expired-what-to-do/)
+[Паспорт9 мин чтения · 9 мар 2026Истек срок действия паспорта? Что делать — пошаговая инструкция](https://traveldocumentvault.com/ru/blog/passport-expired-what-to-do/)

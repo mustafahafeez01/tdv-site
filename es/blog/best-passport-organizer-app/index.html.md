@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/es/blog/best-passport-organizer-app/
 
 ## Aspectos clave
 
-- La mejor aplicación organizadora de pasaportes almacena datos **en el dispositivo** - no en un servidor - para que tus escaneos de pasaporte se queden contigo, no con una empresa.
+- La mejor aplicación organizadora de pasaportes almacena datos **en el dispositivo** —no en un servidor— para que tus escaneos de pasaporte se queden contigo, no con una empresa.
 - Los recordatorios de vencimiento para múltiples viajeros son la función más valiosa para familias; busca personalización por persona.
 - Las aplicaciones que requieren una cuenta o carga en la nube introducen riesgo innecesario para documentos de identidad sensibles.
 - El acceso sin conexión es más importante cuando necesitas la aplicación: en fronteras, en tránsito, o después de perder tu SIM.
@@ -24,18 +24,18 @@ Esta guía explica qué buscar, qué evitar, y cuáles funciones realmente impor
 
 En esencia, una aplicación organizadora de pasaportes almacena escaneos de tus documentos de viaje, registra las fechas de vencimiento, y envía recordatorios de renovación. Las mejores extienden esto para cubrir visados, documentos de identidad, seguro de viaje, registros de vacunación, y cualquier otro documento con el que viajes.
 
-La distinción clave - una que muchas reseñas pasan por alto - es **dónde viven los datos**. Encontrarás dos enfoques arquitectónicos principales:
+La distinción clave —una que muchas reseñas pasan por alto— es **dónde viven los datos**. Encontrarás dos enfoques arquitectónicos principales:
 
 - **Almacenamiento en el dispositivo:** Tus escaneos de pasaporte y detalles se almacenan cifrados en tu teléfono. La empresa de la aplicación no puede acceder a ellos. No hay una cuenta que sea vulnerada. Si pierdes tu teléfono, una nueva instalación no restaura automáticamente tus datos (aunque puedes hacer una copia de seguridad a través de iCloud o localmente).
 - **Almacenamiento en la nube:** Tus escaneos se suben a un servidor. Puedes acceder desde múltiples dispositivos y restaurar fácilmente. Pero estás confiando a la seguridad del servidor de una empresa y a su plan de respuesta ante brechas con tus datos de pasaporte.
 
-Ninguno de estos enfoques es universalmente "incorrecto", pero para documentos de identidad tan sensibles como pasaportes, el modelo en el dispositivo es significativamente más seguro. Una brecha de una aplicación en el dispositivo no filtra nada de sus servidores - no hay nada allí para filtrarse.
+Ninguno de estos enfoques es universalmente "incorrecto", pero para documentos de identidad tan sensibles como pasaportes, el modelo en el dispositivo es significativamente más seguro. Una brecha de una aplicación en el dispositivo no filtra nada de sus servidores —no hay nada allí para filtrarse.
 
 ## Las funciones que realmente importan
 
 ### Recordatorios de vencimiento con tiempo de anticipación personalizable
 
-Esta es la función individual más valiosa. Un recordatorio a los 6 meses es el mínimo - muchos países requieren que tu pasaporte sea válido durante al menos 6 meses más allá de tus fechas de viaje, como se explica en nuestro artículo sobre la [regla de 6 meses del pasaporte](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/). Para familias con niños, cuyos pasaportes vencen después de 5 años en lugar de 10, un recordatorio anterior - digamos 9 meses antes - da más tiempo de planificación cómodo.
+Esta es la función individual más valiosa. Un recordatorio a los 6 meses es el mínimo —muchos países requieren que tu pasaporte sea válido durante al menos 6 meses más allá de tus fechas de viaje, como se explica en nuestro artículo sobre la [regla de 6 meses del pasaporte](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/). Para familias con niños, cuyos pasaportes vencen después de 5 años en lugar de 10, un recordatorio anterior —digamos 9 meses antes— da más tiempo de planificación cómodo.
 
 ### Guardar los pasaportes de varios miembros de la familia de forma segura en una sola aplicación
 
@@ -51,11 +51,11 @@ Necesitas tus datos de pasaporte precisamente en los momentos cuando el acceso a
 
 ### Cobertura de tipos de documentos
 
-Los pasaportes son el punto de partida obvio, pero un buen organizador también maneja visados (que vencen independientemente de tu pasaporte), documentos de identidad nacional, seguro de viaje, registros de vacunación, licencias de conducir, y - para familias - cartas de consentimiento de viaje para menores. Cuantos más tipos de documentos se soporten, menos aplicaciones necesitarás.
+Los pasaportes son el punto de partida obvio, pero un buen organizador también maneja visados (que vencen independientemente de tu pasaporte), documentos de identidad nacional, seguro de viaje, registros de vacunación, licencias de conducir, y —para familias— cartas de consentimiento de viaje para menores. Cuantos más tipos de documentos se soporten, menos aplicaciones necesitarás.
 
 ### Modelo de privacidad
 
-Antes de descargar, pregúntate si la aplicación requiere una cuenta, sube escaneos a un servidor, o tiene una política de privacidad clara que divulgue qué datos recopila. Las aplicaciones que son gratis y dependen de publicidad generalmente no son apropiadas para almacenar documentos de identidad - los datos son el producto.
+Antes de descargar, pregúntate si la aplicación requiere una cuenta, sube escaneos a un servidor, o tiene una política de privacidad clara que divulgue qué datos recopila. Las aplicaciones que son gratis y dependen de publicidad generalmente no son apropiadas para almacenar documentos de identidad —los datos son el producto.
 
 ## Qué evitar
 
@@ -63,24 +63,24 @@ Antes de descargar, pregúntate si la aplicación requiere una cuenta, sube esca
 |---|---|
 | Requiere crear una cuenta | Una cuenta significa que tus datos están vinculados a una identidad en un servidor en algún lugar |
 | Gratis con anuncios | Las aplicaciones con anuncios tienen incentivos desalineados con proteger tus datos |
-| Requiere internet para ver documentos | Falla cuando lo necesitas más - en una frontera o en tránsito |
+| Requiere internet para ver documentos | Falla cuando lo necesitas más —en una frontera o en tránsito |
 | Sin política de privacidad o política vaga | No sabes qué ocurre con tus escaneos |
 | Almacenamiento solo en la nube sin opción en el dispositivo | Una brecha de servidor expone los datos de pasaporte de todos los usuarios |
-| Precios de suscripción para funciones básicas | Las cuotas mensuales crean presión para cancelar - y pierdes acceso a tus documentos |
+| Precios de suscripción para funciones básicas | Las cuotas mensuales crean presión para cancelar —y pierdes acceso a tus documentos |
 
 Lo que esto significa en la práctica
 
-Estás en un puesto de frontera, teléfono sin conexión, y el oficial de inmigración te pide que muestres tus datos de visado. Una aplicación que requiere conexión a internet falla completamente - no puedes acceder a tus documentos. Una aplicación en el dispositivo sin cuenta funciona perfectamente. Este es exactamente el momento en que necesitas que la aplicación funcione.
+Estás en un puesto de frontera, teléfono sin conexión, y el oficial de inmigración te pide que muestres tus datos de visado. Una aplicación que requiere conexión a internet falla completamente —no puedes acceder a tus documentos. Una aplicación en el dispositivo sin cuenta funciona perfectamente. Este es exactamente el momento en que necesitas que la aplicación funcione.
 
 ## Compra única vs. Suscripción
 
-Hay un argumento práctico a favor de las aplicaciones de compra única sobre suscripciones cuando se trata de almacenamiento de documentos. Si olvidas renovar una suscripción - o simplemente decides cancelar - pierdes acceso a tus documentos almacenados. Ese es un arreglo arriesgado para algo que podrías necesitar años desde ahora.
+Hay un argumento práctico a favor de las aplicaciones de compra única sobre suscripciones cuando se trata de almacenamiento de documentos. Si olvidas renovar una suscripción —o simplemente decides cancelar— pierdes acceso a tus documentos almacenados. Ese es un arreglo arriesgado para algo que podrías necesitar años desde ahora.
 
 Una aplicación de compra única, por el contrario, sigue siendo completamente funcional indefinidamente. Pagas una vez y la aplicación continúa funcionando independientemente de si el desarrollador aún la está monetizando activamente.
 
 ## Cómo Travel Document Vault aborda esto
 
-**Travel Document Vault** encarna el enfoque de privacidad primero, sin conexión primero descrito anteriormente. Los datos se quedan en tu dispositivo, cifrados con AES-256 - sin cuenta requerida. Puedes opcionalmente hacer una copia de seguridad de datos cifrados en tu propio iCloud o Google Drive (función Pro). Soporta múltiples viajeros, seguimiento de vencimiento de pasaporte y visado, y funciona completamente sin conexión. Disponible en el App Store como una [compra única, sin suscripción](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8).
+**Travel Document Vault** encarna el enfoque de privacidad primero, sin conexión primero descrito anteriormente. Los datos se quedan en tu dispositivo, cifrados con AES-256 —sin cuenta requerida. Puedes opcionalmente hacer una copia de seguridad de datos cifrados en tu propio iCloud o Google Drive (función Pro). Soporta múltiples viajeros, seguimiento de vencimiento de pasaporte y visado, y funciona completamente sin conexión. Disponible en el App Store como una [compra única, sin suscripción](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8).
 
 ## Una lista de verificación práctica antes de descargar
 
@@ -116,7 +116,7 @@ Depende de la aplicación. Las aplicaciones que almacenan datos en el dispositiv
 
 ### ¿Puede una aplicación organizadora de pasaportes funcionar sin internet?
 
-Las mejores aplicaciones organizadoras de pasaportes están diseñadas para funcionar completamente sin conexión. Esto importa porque podrías necesitar acceso a tus datos de pasaporte exactamente cuando el acceso a internet no está disponible - en un puesto de frontera, en una ubicación remota, o después de perder tu SIM. Siempre verifica que la aplicación que elijas no requiera una conexión de red para mostrar tus documentos.
+Las mejores aplicaciones organizadoras de pasaportes están diseñadas para funcionar completamente sin conexión. Esto importa porque podrías necesitar acceso a tus datos de pasaporte exactamente cuando el acceso a internet no está disponible —en un puesto de frontera, en una ubicación remota, o después de perder tu SIM. Siempre verifica que la aplicación que elijas no requiera una conexión de red para mostrar tus documentos.
 
 ### ¿Con cuánta anticipación debería una aplicación de pasaportes recordarme renovar?
 

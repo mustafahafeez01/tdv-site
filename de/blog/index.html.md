@@ -8,11 +8,11 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
-[GründergeschichteEmpfohlen Warum ich Travel Document Vault gebaut habe: Für den Elternteil, der sich an alles erinnert Ich stand bei der Einwanderung, als der Beamte nach dem Reisepass meiner Tochter schaute und inne hielt. Diese enge Begegnung - zu realisieren, dass ich fast einen Familienurlaub ruiniert hätte, ohne es zu wissen - ist der Grund, warum diese App existiert. 3. Jan. 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/why-i-built-travel-document-vault/)
+[GründergeschichteEmpfohlen Warum ich Travel Document Vault gebaut habe: Für den Elternteil, der sich an alles erinnert Ich stand bei der Einwanderung, als der Beamte nach dem Reisepass meiner Tochter schaute und inne hielt. Diese enge Begegnung – zu realisieren, dass ich fast einen Familienurlaub ruiniert hätte, ohne es zu wissen – ist der Grund, warum diese App existiert. 3. Jan. 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/why-i-built-travel-document-vault/)
 
 ##
 
-[FamilienreisenReisen mit einem Kind ohne beide Elternteile: Was Sie mitnehmen solltenAlleiniges Sorgerecht, Reisen mit Großeltern, unterschiedliche Nachnamen - jede Situation verändert die Unterlagen, die Ihr Kind braucht. Worauf der Check-in-Schalter und der Grenzbeamte jeweils achten.30. August 20268 Min. Lesezeit](https://traveldocumentvault.com/de/blog/travelling-child-without-both-parents/)
+[FamilienreisenReisen mit einem Kind ohne beide Elternteile: Was Sie mitnehmen solltenAlleiniges Sorgerecht, Reisen mit Großeltern, unterschiedliche Nachnamen – jede Situation verändert die Unterlagen, die Ihr Kind braucht. Worauf der Check-in-Schalter und der Grenzbeamte jeweils achten.30. August 20268 Min. Lesezeit](https://traveldocumentvault.com/de/blog/travelling-child-without-both-parents/)
 
 ##
 
@@ -40,7 +40,7 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
-[FamilienreisenSchengen-Reisepassregeln für Familienreisen: Was Eltern falsch machen Schengen erfordert 3 Monate Gültigkeit nach Abreise, nicht 6 - und Kinderreisepässe verfallen nach 5 Jahren. Was Familien beim Buchen überprüfen sollten. 10. Juli 20266 min](https://traveldocumentvault.com/de/blog/schengen-passport-rules-family-trips/)
+[FamilienreisenSchengen-Reisepassregeln für Familienreisen: Was Eltern falsch machen Schengen erfordert 3 Monate Gültigkeit nach Abreise, nicht 6 – und Kinderreisepässe verfallen nach 5 Jahren. Was Familien beim Buchen überprüfen sollten. 10. Juli 20266 min](https://traveldocumentvault.com/de/blog/schengen-passport-rules-family-trips/)
 
 ##
 
@@ -52,7 +52,7 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
-[ReisevorbereitungReisedokumente, die Menschen übersehen - und wo Sie diese aufbewahren Zustimmungsschreiben, Impfnachweis, Rückflugticket: Die Dokumente, die Sie beim Check-in vergessen, und eine praktische Strategie zum Umgang mit Kopien. 4. Juli 20267 min](https://traveldocumentvault.com/de/blog/what-documents-to-carry-when-travelling-internationally/)
+[ReisevorbereitungReisedokumente, die Menschen übersehen – und wo Sie diese aufbewahren Zustimmungsschreiben, Impfnachweis, Rückflugticket: Die Dokumente, die Sie beim Check-in vergessen, und eine praktische Strategie zum Umgang mit Kopien. 4. Juli 20267 min](https://traveldocumentvault.com/de/blog/what-documents-to-carry-when-travelling-internationally/)
 
 ##
 
@@ -88,15 +88,15 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
-[Visa & EinreiseVisa-Ablauf-Tracker-App: Worauf Sie achten sollten und warum es wichtig ist Visa-Verfolgung ist komplexer als Reisepass-Verfolgung - Einreisegültigkeit, maximale Aufenthalte und Schengen-Rollierungsfenster müssen alle separat überwacht werden. Hier erfahren Sie, warum es wichtig ist und worauf Sie in einer App achten sollten. 21. März 20268 Min. Lesezeit](https://traveldocumentvault.com/de/blog/visa-expiry-tracker-app/)
+[Visa & EinreiseVisa-Ablauf-Tracker-App: Worauf Sie achten sollten und warum es wichtig ist Visa-Verfolgung ist komplexer als Reisepass-Verfolgung – Einreisegültigkeit, maximale Aufenthalte und Schengen-Rollierungsfenster müssen alle separat überwacht werden. Hier erfahren Sie, warum es wichtig ist und worauf Sie in einer App achten sollten. 21. März 20268 Min. Lesezeit](https://traveldocumentvault.com/de/blog/visa-expiry-tracker-app/)
 
 ##
 
-[VerlängerungKönnen Sie während der Passerneuerung reisen? Ihre Verlängerung ist eingereicht, Ihre Reise ist gebucht - aber können Sie noch reisen? Die Antwort hängt davon ab, ob Sie Ihren Reisepass noch haben. Hier erhalten Sie einen Länder-für-Länder-Überblick. 14. März 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/travel-while-passport-renewal-pending/)
+[VerlängerungKönnen Sie während der Passerneuerung reisen? Ihre Verlängerung ist eingereicht, Ihre Reise ist gebucht – aber können Sie noch reisen? Die Antwort hängt davon ab, ob Sie Ihren Reisepass noch haben. Hier erhalten Sie einen Länder-für-Länder-Überblick. 14. März 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/travel-while-passport-renewal-pending/)
 
 ##
 
-[Reisevorbereitung Pass verloren im Ausland? Tun Sie diese 7 Dinge sofort Den Reisepass im Ausland zu verlieren ist stressiger als die meisten Reisenden erwarten. Hier sind die 7 Schritte, die Sie sofort unternehmen sollten - von der Meldung bei Ihrer nächsten Botschaft bis zur Beschaffung eines Notreisedokuments. 11. März 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/lost-passport-abroad/)
+[Reisevorbereitung Pass verloren im Ausland? Tun Sie diese 7 Dinge sofort Den Reisepass im Ausland zu verlieren ist stressiger als die meisten Reisenden erwarten. Hier sind die 7 Schritte, die Sie sofort unternehmen sollten – von der Meldung bei Ihrer nächsten Botschaft bis zur Beschaffung eines Notreisedokuments. 11. März 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/lost-passport-abroad/)
 
 ##
 
@@ -108,7 +108,7 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
-[Reisepass-RegelnOrganisationInternationale Reisedokument-Checkliste: Alles, was Sie vor dem Flug brauchen Alles, was Sie tragen, überprüfen und vor jeder internationalen Reise vorbereiten müssen. Eine praktische Checkliste mit Reisepässen, Visa, Führerscheinen und Reiseversicherung - funktioniert für Familien und Einzelreisende. 4. März 20269 Min. Lesezeit](https://traveldocumentvault.com/de/blog/travel-document-checklist/)
+[Reisepass-RegelnOrganisationInternationale Reisedokument-Checkliste: Alles, was Sie vor dem Flug brauchen Alles, was Sie tragen, überprüfen und vor jeder internationalen Reise vorbereiten müssen. Eine praktische Checkliste mit Reisepässen, Visa, Führerscheinen und Reiseversicherung – funktioniert für Familien und Einzelreisende. 4. März 20269 Min. Lesezeit](https://traveldocumentvault.com/de/blog/travel-document-checklist/)
 
 ##
 
@@ -116,7 +116,7 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
-[VerlängerungWie lange dauert eine Reisepasserneuerung? (USA, UK, Australien, Kanada) Aktuelle Bearbeitungszeiten für alle vier Länder, einschließlich beschleunigter und dringender Optionen - plus was zu tun ist, wenn Ihre Reise gebucht ist und Ihr Reisepass läuft aus. 10. Feb. 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/how-long-does-passport-renewal-take/)
+[VerlängerungWie lange dauert eine Reisepasserneuerung? (USA, UK, Australien, Kanada) Aktuelle Bearbeitungszeiten für alle vier Länder, einschließlich beschleunigter und dringender Optionen – plus was zu tun ist, wenn Ihre Reise gebucht ist und Ihr Reisepass läuft aus. 10. Feb. 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/how-long-does-passport-renewal-take/)
 
 ##
 
@@ -124,7 +124,7 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
-[Reisepass-RegelnDie Sechsmonats-Reisepass-Regel: Welche Länder sie durchsetzen und wie Sie nie überraschend betroffen sind Ihr Reisepass könnte gültig sein - aber Sie immer noch abweisen. Erfahren Sie, welche Länder die 6-Monats-Regel durchsetzen, wie Fluggesellschaften sie überprüfen und wie Sie sicherstellen, dass Ihre ganze Familie vor der Buchung versichert ist. 1. Feb. 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/)
+[Reisepass-RegelnDie Sechsmonats-Reisepass-Regel: Welche Länder sie durchsetzen und wie Sie nie überraschend betroffen sind Ihr Reisepass könnte gültig sein – aber Sie immer noch abweisen. Erfahren Sie, welche Länder die 6-Monats-Regel durchsetzen, wie Fluggesellschaften sie überprüfen und wie Sie sicherstellen, dass Ihre ganze Familie vor der Buchung versichert ist. 1. Feb. 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/)
 
 ## Das letzte Mal, dass Sie vor einer Reise durcheinander geraten
 

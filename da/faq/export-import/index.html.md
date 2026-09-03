@@ -68,7 +68,7 @@ Efter import kan du tjekke fanen Profiler for at bekræfte, at alle profiler vis
 
 - **Ikke-destruktiv:** Import lægges til eksisterende data. Hvis du allerede har profiler på måleenheden, tilføjes de importerede profiler uden at slette de eksisterende.
 - **Nøjagtighed ved overførsel:** Alt bevares præcist: dokumentnavne, datoer, udløbspåmindelser, brugerdefinerede farver, vedhæftninger og noter.
-- **Krypteret hele vejen:** Den eksporterede fil krypteres med den adgangskode, du vælger, når du eksporterer den, ved hjælp af AES-256-GCM med PBKDF2-nøgleafledning. Kun denne adgangskode kan dekryptere filen, så opbevar den et sikkert sted - uden den kan filen ikke gendannes.
+- **Krypteret hele vejen:** Den eksporterede fil krypteres med den adgangskode, du vælger, når du eksporterer den, ved hjælp af AES-256-GCM med PBKDF2-nøgleafledning. Kun denne adgangskode kan dekryptere filen, så opbevar den et sikkert sted – uden den kan filen ikke gendannes.
 - **God praksis for sikkerhedskopiering:** Opbevar din eksporterede fil et sikkert sted. Slet den efter en vellykket import, hvis du foretrækker det, eller behold den som en offline sikkerhedskopi.
 
 **Ansvarsfraskrivelse:** Eksport-import er designet til dataportabilitet. Opbevar eksporterede filer sikkert. Del ikke den eksporterede sikkerhedskopi med nogen, da den indeholder alle dine krypterede dokumenter og vedhæftninger.

@@ -14,11 +14,11 @@ Sin SDKs de análisis, sin librerías publicitarias, sin píxeles de seguimiento
 
 ### Sin recopilación de datos salientes
 
-La aplicación no realiza conexiones salientes por defecto. Funciona completamente sin conexión. El único uso de red es la copia de seguridad Pro en la nube, que se sincroniza con tu propio iCloud o Google Drive - nunca con nuestros servidores.
+La aplicación no realiza conexiones salientes por defecto. Funciona completamente sin conexión. El único uso de red es la copia de seguridad Pro en la nube, que se sincroniza con tu propio iCloud o Google Drive —nunca con nuestros servidores.
 
 ### En el dispositivo por defecto
 
-Todos los documentos, escaneos y datos permanecen en tu dispositivo. No hay nube TDV, no hay servidor TDV, no hay backend TDV. Los usuarios Pro pueden opcionalmente hacer una copia de seguridad de su bóveda cifrada en su propia cuenta de iCloud o Google Drive - solo ellos tienen la clave de recuperación.
+Todos los documentos, escaneos y datos permanecen en tu dispositivo. No hay nube TDV, no hay servidor TDV, no hay backend TDV. Los usuarios Pro pueden opcionalmente hacer una copia de seguridad de su bóveda cifrada en su propia cuenta de iCloud o Google Drive —solo ellos tienen la clave de recuperación.
 
 ### Cifrado AES-256-GCM
 
@@ -32,17 +32,17 @@ No necesitas confiar en nosotros. Puedes confirmar cada afirmación anterior con
 
 Instala un monitor de red como **mitmproxy** (gratuito, código abierto), **Wireshark** (gratuito, código abierto), o **Charles Proxy**. Abre Travel Document Vault, escanea un documento, explora tu bóveda y establece un recordatorio. No deberías ver tus documentos, escaneos, fechas de vencimiento ni el contenido de tu bóveda enviados a Travel Document Vault. El tráfico de red debería limitarse a funciones concretas: reporte de fallos de Sentry opcional, comprobaciones de compra del App Store o Google Play, copia de seguridad opcional en tu propia cuenta de iCloud o Google Drive, y una comprobación manual de corrección de errores explicada más abajo.
 
-Ajustes tiene un botón **Check for Updates**. Es una comprobación manual, nunca automática - solo se ejecuta cuando tú mismo lo pulsas, nunca en segundo plano ni por sí sola. La comprobación contacta con **updates.traveldocumentvault.com** - nuestro propio servidor de actualizaciones, operado por nosotros en Google Cloud, que distribuye archivos de actualización con firma criptográfica desde un contenedor de almacenamiento. No registramos la comprobación: los registros de solicitudes están deshabilitados en nuestro lado, por lo que no se retienen direcciones IP. Cada actualización está firmada con una clave que solo nosotros tenemos, y la aplicación rechaza cualquier cosa cuya firma no coincida con el certificado incorporado en ella. El mismo toque también comprueba si hay una versión más reciente de la aplicación en el **App Store** o en **Google Play**. Existe para que ciertas correcciones puedan llegarte más rápido que esperar a una publicación completamente nueva en el App Store o Google Play, útil para correcciones urgentes, según la naturaleza de la corrección. La misma regla que el resto de esta página: ninguna llamada de red sin que tú la pidas.
+Ajustes tiene un botón **Check for Updates**. Es una comprobación manual, nunca automática —solo se ejecuta cuando tú mismo lo pulsas, nunca en segundo plano ni por sí sola. La comprobación contacta con **updates.traveldocumentvault.com** —nuestro propio servidor de actualizaciones, operado por nosotros en Google Cloud, que distribuye archivos de actualización con firma criptográfica desde un contenedor de almacenamiento. No registramos la comprobación: los registros de solicitudes están deshabilitados en nuestro lado, por lo que no se retienen direcciones IP. Cada actualización está firmada con una clave que solo nosotros tenemos, y la aplicación rechaza cualquier cosa cuya firma no coincida con el certificado incorporado en ella. El mismo toque también comprueba si hay una versión más reciente de la aplicación en el **App Store** o en **Google Play**. Existe para que ciertas correcciones puedan llegarte más rápido que esperar a una publicación completamente nueva en el App Store o Google Play, útil para correcciones urgentes, según la naturaleza de la corrección. La misma regla que el resto de esta página: ninguna llamada de red sin que tú la pidas.
 
 ### 2. Reporte de privacidad de la aplicación iOS
 
-En iPhone, ve a **Configuración > Privacidad y Seguridad > Informe de Privacidad de la Aplicación**. Esta función integrada de Apple muestra qué aplicaciones han contactado dominios de red. Travel Document Vault no envía tus documentos, escaneos, fechas de vencimiento ni el contenido de tu bóveda a nosotros. Si has habilitado la copia de seguridad Pro en la nube, verás conexiones a dominios de iCloud de Apple - esa es tu propia copia de seguridad sincronizándose con tu propia cuenta de iCloud.
+En iPhone, ve a **Configuración > Privacidad y Seguridad > Informe de Privacidad de la Aplicación**. Esta función integrada de Apple muestra qué aplicaciones han contactado dominios de red. Travel Document Vault no envía tus documentos, escaneos, fechas de vencimiento ni el contenido de tu bóveda a nosotros. Si has habilitado la copia de seguridad Pro en la nube, verás conexiones a dominios de iCloud de Apple —esa es tu propia copia de seguridad sincronizándose con tu propia cuenta de iCloud.
 
-### 3. Android - cómo comprobar tu privacidad
+### 3. Android —cómo comprobar tu privacidad
 
-Android no tiene un único informe de privacidad integrado como el iPhone. Hay dos formas sencillas de comprobarlo por ti mismo: consulta la propia sección **Data Safety** de esta aplicación en su página de Google Play (indica claramente qué se recopila, qué se comparte, que tus datos se cifran en tránsito y que no se pueden eliminar) - o usa un monitor de red como se describe en el paso 1 anterior.
+Android no tiene un único informe de privacidad integrado como el iPhone. Hay dos formas sencillas de comprobarlo por ti mismo: consulta la propia sección **Data Safety** de esta aplicación en su página de Google Play (indica claramente qué se recopila, qué se comparte, que tus datos se cifran en tránsito y que no se pueden eliminar) —o usa un monitor de red como se describe en el paso 1 anterior.
 
-Si has activado la copia de seguridad en la nube, es posible que notes algo de actividad hacia los servidores de Google (direcciones web que terminan en **googleapis.com**). Eso es normal y seguro: es solo tu archivo de copia de seguridad bloqueado y cifrado, junto con una comprobación de inicio de sesión, enviados directamente a **tu propia** cuenta de Google Drive - la misma que ya usas para tus fotos o tu Gmail. Nosotros nunca lo vemos, lo recibimos ni guardamos una copia en ningún sitio. Solo tú tienes la clave de recuperación que puede desbloquearlo.
+Si has activado la copia de seguridad en la nube, es posible que notes algo de actividad hacia los servidores de Google (direcciones web que terminan en **googleapis.com**). Eso es normal y seguro: es solo tu archivo de copia de seguridad bloqueado y cifrado, junto con una comprobación de inicio de sesión, enviados directamente a **tu propia** cuenta de Google Drive —la misma que ya usas para tus fotos o tu Gmail. Nosotros nunca lo vemos, lo recibimos ni guardamos una copia en ningún sitio. Solo tú tienes la clave de recuperación que puede desbloquearlo.
 
 ### 4. Etiquetas de privacidad de App Store y Play Store
 
@@ -162,6 +162,6 @@ Declarado por una dependencia del marco de trabajo. La aplicación no descarga a
 
 Estos son permisos comunes que muchas aplicaciones solicitan. No solicitamos ninguno de ellos y no aparecen en nuestro manifiesto.
 
-**Ubicación** - Sin GPS, sin geofencing, sin rastreo **Contactos** - Sin acceso a tu libreta de direcciones **Bluetooth** - Sin red local ni escaneo de dispositivos **Calendario** - Los recordatorios se manejan en el dispositivo, no a través de tu calendario
+**Ubicación** —Sin GPS, sin geofencing, sin rastreo **Contactos** —Sin acceso a tu libreta de direcciones **Bluetooth** —Sin red local ni escaneo de dispositivos **Calendario** —Los recordatorios se manejan en el dispositivo, no a través de tu calendario
 
 ¿Aún tienes dudas? Lee nuestra [Política de privacidad](https://traveldocumentvault.com/privacy-policy/) completa o revisa las [Preguntas frecuentes](https://traveldocumentvault.com/es/faq/).

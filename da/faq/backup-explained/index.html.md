@@ -34,7 +34,7 @@ I Indstillinger ser du en linje som *Seneste sikkerhedskopi: for 2 timer siden, 
 
 Disse lokale øjebliksbilleder bliver på din enhed. En systemsikkerhedskopi (iCloud Backup, Google Backup) geninstallerer appen, men kan ikke gendanne dem på en ny telefon, fordi krypteringsnøglen aldrig forlader din oprindelige enhed. For at flytte dit vault skal du bruge Cloud Backup (Pro) eller den gratis Vault Export.
 
-## Vault Export (.tdvault) - gratis for alle
+## Vault Export (.tdvault) – gratis for alle
 
 Vault Export opretter en enkelt krypteret, adgangskodebeskyttet fil, der indeholder hver profil, hvert dokument og hver vedhæftning i dit vault. Du vælger selv, hvor du gemmer den: Filer-appen, iCloud Drive, Google Drive, eller del den via AirDrop eller e-mail.
 

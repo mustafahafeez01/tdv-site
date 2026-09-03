@@ -10,9 +10,9 @@ Source: https://traveldocumentvault.com/es/blog/lost-passport-abroad/
 
 ## Puntos Clave
 
-- Presenta una denuncia policial primero - la necesitas tanto para tu solicitud de embajada como para tu reclamación de seguros.
-- Tu embajada o consulado puede emitir un documento de viaje de emergencia, normalmente mucho más rápido que un pasaporte de reemplazo. **Llama antes** - la mayoría requieren cita previa.
-- Los viajeros con una copia digital segura de su pasaporte obtienen documentos de reemplazo más rápido - entregas los detalles que tu embajada necesita en segundos.
+- Presenta una denuncia policial primero —la necesitas tanto para tu solicitud de embajada como para tu reclamación de seguros.
+- Tu embajada o consulado puede emitir un documento de viaje de emergencia, normalmente mucho más rápido que un pasaporte de reemplazo. **Llama antes** —la mayoría requieren cita previa.
+- Los viajeros con una copia digital segura de su pasaporte obtienen documentos de reemplazo más rápido —entregas los detalles que tu embajada necesita en segundos.
 - El seguro de viaje cubre los costos de reemplazo de pasaporte en la mayoría de las pólizas integrales. Necesitas la denuncia policial para reclamar.
 - El momento para prepararse es ahora, antes de que algo salga mal. Un escaneo de cinco minutos hoy podría ahorrar días de estrés en el extranjero.
 
@@ -20,7 +20,7 @@ Cada día, viajeros de todo el mundo sustituyen su pasaporte perdido en el extra
 
 ## Antes de que Algo Salga Mal: Fotografía tu Pasaporte Ahora
 
-Si estás leyendo esto antes de tu viaje, dedica los próximos cinco minutos a esto. Toma una foto clara de la página principal de datos de cada pasaporte con el que viajas. Almacénala en una aplicación cifrada que funcione sin conexión - mucho más seguro que tu galería de fotos, y mantenida completamente privada.
+Si estás leyendo esto antes de tu viaje, dedica los próximos cinco minutos a esto. Toma una foto clara de la página principal de datos de cada pasaporte con el que viajas. Almacénala en una aplicación cifrada que funcione sin conexión —mucho más seguro que tu galería de fotos, y mantenida completamente privada.
 
 Cuando llegues a tu embajada, te preguntarán tu número de pasaporte, fecha de emisión, lugar de emisión y fecha de vencimiento. Sin una copia, estás intentando recordar estos detalles bajo estrés. Con una, los entregas en segundos. **El personal consular emite documentos de reemplazo más rápido cuando llegas con los detalles ya anotados.**
 
@@ -28,7 +28,7 @@ Una copia en el teléfono es un registro, no una identificación, y a menudo se 
 
 ## Paso 1: Confirma que el Pasaporte Realmente Se Fue
 
-Busca en todas partes antes de asumir lo peor - bolsillos de chaqueta, cada compartimento de bolsa, caja fuerte del hotel, el último taxi o restaurante. Si realmente se fue o fue robado, sigue con los pasos restantes sin demora.
+Busca en todas partes antes de asumir lo peor —bolsillos de chaqueta, cada compartimento de bolsa, caja fuerte del hotel, el último taxi o restaurante. Si realmente se fue o fue robado, sigue con los pasos restantes sin demora.
 
 ## Paso 2: Presenta una Denuncia Policial Inmediatamente
 
@@ -45,7 +45,7 @@ Tu embajada o consulado es tu camino a casa. Contacta con ellos tan pronto como 
 - **Ciudadanos australianos:** Smartraveller - pasaporte perdido o robado
 - **Ciudadanos canadienses:** Canada.ca - pasaporte perdido o robado en el extranjero
 
-Llama antes de visitar. Muchas embajadas requieren cita previa para servicios de pasaporte de emergencia y pueden decirte exactamente qué llevar - presentarse sin uno puede costarte medio día.
+Llama antes de visitar. Muchas embajadas requieren cita previa para servicios de pasaporte de emergencia y pueden decirte exactamente qué llevar —presentarse sin uno puede costarte medio día.
 
 ## Paso 4: Solicita un Documento de Viaje de Emergencia
 
@@ -54,23 +54,23 @@ Tu embajada emite un documento de viaje de emergencia (DTU) o pasaporte de emerg
 Qué típicamente necesitarás (confirma con tu embajada antes de visitar):
 
 - Denuncia policial con número de caso
-- Prueba de identidad - carné de conducir, certificado de nacimiento, u otro ID emitido por el gobierno
-- Fotos de pasaporte - pregunta a tu embajada dónde obtenerlas localmente
+- Prueba de identidad —carné de conducir, certificado de nacimiento, u otro ID emitido por el gobierno
+- Fotos de pasaporte —pregunta a tu embajada dónde obtenerlas localmente
 - Tu copia digital del pasaporte perdido si la tienes
-- Prueba de viaje de continuación - reserva de vuelo, confirmación de hotel
-- Tarifa de documento de emergencia - ten disponibles tanto efectivo como tarjeta
+- Prueba de viaje de continuación —reserva de vuelo, confirmación de hotel
+- Tarifa de documento de emergencia —ten disponibles tanto efectivo como tarjeta
 
-**Travel Document Vault** almacena una copia cifrada de tu pasaporte en tu teléfono - accesible sin internet, sin inicio de sesión. Es exactamente lo que tu embajada te pedirá. [Descargar en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** almacena una copia cifrada de tu pasaporte en tu teléfono —accesible sin internet, sin inicio de sesión. Es exactamente lo que tu embajada te pedirá. [Descargar en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Paso 5: Notifica a tu Asegurador de Viaje
 
-Reporta la pérdida a tu asegurador de viaje lo antes posible. La mayoría de las pólizas integrales cubren costos de reemplazo de pasaporte, tarifas de pasaporte de emergencia, y a veces alojamiento extra si experimentas retrasos. Guarda cada recibo - los necesitarás para la reclamación, junto con el número de referencia de la denuncia policial.
+Reporta la pérdida a tu asegurador de viaje lo antes posible. La mayoría de las pólizas integrales cubren costos de reemplazo de pasaporte, tarifas de pasaporte de emergencia, y a veces alojamiento extra si experimentas retrasos. Guarda cada recibo —los necesitarás para la reclamación, junto con el número de referencia de la denuncia policial.
 
 Puedes hacer esa llamada antes si ya tienes a mano el número de póliza y la línea de emergencia 24 horas, en lugar de tenerlos enterrados en un correo al que no puedes acceder. Nuestra guía sobre [qué documentos del seguro de viaje guardar antes de partir](https://traveldocumentvault.com/es/blog/travel-insurance-documents/) enumera qué conservar sin conexión.
 
 ## Paso 6: Verifica tu Situación de Visa
 
-Una visa es válida solo para el pasaporte específico para el cual fue emitida. Si tu pasaporte se pierde, tu visa también se pierde - incluso un documento de viaje de emergencia no la restaurará. Tu embajada te aconsejará si el país de destino te permitirá salir con un DTU, haciendo referencia a la visa perdida. No asumas que puedes salir - confirma con tu embajada antes de intentar irte.
+Una visa es válida solo para el pasaporte específico para el cual fue emitida. Si tu pasaporte se pierde, tu visa también se pierde —incluso un documento de viaje de emergencia no la restaurará. Tu embajada te aconsejará si el país de destino te permitirá salir con un DTU, haciendo referencia a la visa perdida. No asumas que puedes salir —confirma con tu embajada antes de intentar irte.
 
 Qué significa esto en la práctica
 
@@ -90,7 +90,7 @@ Presenta una denuncia policial inmediatamente, luego contacta a tu embajada o co
 
 ### ¿Puedo obtener un pasaporte de emergencia en el extranjero?
 
-Sí. La mayoría de los países emiten documentos de viaje de emergencia a través de sus embajadas y consulados, típicamente válidos para un viaje único a casa. El tiempo de emisión depende de la sede y de la urgencia de tu caso, así que pregunta al llamar. Llama a tu embajada o consulado más cercana lo antes posible - muchas requieren cita previa.
+Sí. La mayoría de los países emiten documentos de viaje de emergencia a través de sus embajadas y consulados, típicamente válidos para un viaje único a casa. El tiempo de emisión depende de la sede y de la urgencia de tu caso, así que pregunta al llamar. Llama a tu embajada o consulado más cercana lo antes posible —muchas requieren cita previa.
 
 ### ¿Necesito una denuncia policial si mi pasaporte es robado en el extranjero?
 

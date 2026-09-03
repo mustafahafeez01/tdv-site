@@ -28,9 +28,9 @@ Om du stadig har det pas, afhænger helt af dit land og din fornyelsesmetode.
 
 Standard amerikansk pasfornyelse med post kræver ikke, at du afleverer dit nuværende pas, før det nye ankommer. Du udfylder formular DS-82, vedlægger dit eksisterende pas og sender det hele til National Passport Processing Center. Dit gamle pas returneres til dig sammen med det nye, typisk annulleret med et hulslag.
 
-Det betyder, at indenrigsrejser i USA ikke påvirkes gennem hele fornyelsesprocessen - du behøver ikke et pas til indenrigsflyvninger. Udenrigsrejser er en anden sag: du kan ikke rejse internationalt, før dit nye pas ankommer, og du kan ikke bruge det gamle annullerede pas, selv hvis du har det i hånden.
+Det betyder, at indenrigsrejser i USA ikke påvirkes gennem hele fornyelsesprocessen – du behøver ikke et pas til indenrigsflyvninger. Udenrigsrejser er en anden sag: du kan ikke rejse internationalt, før dit nye pas ankommer, og du kan ikke bruge det gamle annullerede pas, selv hvis du har det i hånden.
 
-Standardbehandlingstiderne ændrer sig, og udenrigsministeriet offentliggør det aktuelle tal på travel.state.gov, så tjek der, før du planlægger ud fra det. Hvis din rejse er booket, før du forventer det nye pas ankommer, er ekspederet behandling tilgængelig mod et ekstra gebyr og forkorter ventetiden mærkbart. For reelt hastende rejser er personligt fremmøde muligt hos regionale paskontorer - tjek den aktuelle berettigelse på travel.state.gov.
+Standardbehandlingstiderne ændrer sig, og udenrigsministeriet offentliggør det aktuelle tal på travel.state.gov, så tjek der, før du planlægger ud fra det. Hvis din rejse er booket, før du forventer det nye pas ankommer, er ekspederet behandling tilgængelig mod et ekstra gebyr og forkorter ventetiden mærkbart. For reelt hastende rejser er personligt fremmøde muligt hos regionale paskontorer – tjek den aktuelle berettigelse på travel.state.gov.
 
 ## Storbritannien: To processer med modsatte udfald
 
@@ -52,7 +52,7 @@ Det australske paskontor offentliggør sine aktuelle behandlingstider og anbefal
 
 ## Canada: Afleveret ved ansøgning
 
-Canada kræver, at du afleverer dit eksisterende pas, når du ansøger om fornyelse. Dit gamle pas opbevares, indtil det nye er klar, så du kan ikke rejse internationalt i denne periode - selvom indenrigsrejser i Canada ikke kræver et pas.
+Canada kræver, at du afleverer dit eksisterende pas, når du ansøger om fornyelse. Dit gamle pas opbevares, indtil det nye er klar, så du kan ikke rejse internationalt i denne periode – selvom indenrigsrejser i Canada ikke kræver et pas.
 
 Service Canada offentliggør sine aktuelle behandlingsstandarder, som varierer afhængigt af, om du ansøger personligt, med post eller på et Service Canada Centre, plus posttid uanset metode. For hastende rejser findes ekspresservice og hastehentning mod ekstra gebyrer. Tjek aktuelle behandlingstider og ansøg på canada.ca.
 
@@ -82,7 +82,7 @@ Den praktiske test er enkel. Hvis dit pas er annulleret, udløbet eller ligger h
 
 ## Hvis din rejse er tættere på end din fornyelsestidslinje
 
-Vent ikke med at kontakte dit lands pasmyndighed telefonisk - spørg specifikt om ekspederet, hastende eller nødbehandlingstider. De findes i alle lande nævnt her, men tilgængeligheden ændrer sig fra uge til uge, og tider forsvinder hurtigt.
+Vent ikke med at kontakte dit lands pasmyndighed telefonisk – spørg specifikt om ekspederet, hastende eller nødbehandlingstider. De findes i alle lande nævnt her, men tilgængeligheden ændrer sig fra uge til uge, og tider forsvinder hurtigt.
 
 Kontakt samtidig dit flyselskab om ombooking. Nogle luftfartsselskaber vil frafalde ombookingsgebyrer, når et reelt dokumentproblem er årsagen. Få enhver aftale på skrift. Har du en rejseforsikring, så tjek din police for dækning af omkostninger, der opstår som følge af pasforsinkelser eller dokumentproblemer.
 

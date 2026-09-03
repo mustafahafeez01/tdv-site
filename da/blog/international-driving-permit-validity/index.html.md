@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/da/blog/international-driving-permit-val
 
 - Et internationalt kørekort er **en oversættelse af det kørekort, du allerede har**, så du medbringer begge dele. At aflevere kun kortet beviser ingenting.
 - Der findes tre typer, fra tre traktater, selvom to dækker næsten alt. Et **Genève-kort fra 1949 gælder i ét år**. Et **Wien-kort fra 1968 gælder i op til tre**.
-- Wien-kortet er **begrænset af dit kørekort**. Udløber kørekortet først, stopper kortet med at være gyldigt på den dato - uanset hvad der står trykt på det.
+- Wien-kortet er **begrænset af dit kørekort**. Udløber kørekortet først, stopper kortet med at være gyldigt på den dato – uanset hvad der står trykt på det.
 - Landene har ratificeret forskellige konventioner, så **et kort, der accepteres i ét land, kan blive afvist i det næste**.
 - Pas, kørekort og internationalt kørekort kører efter **tre forskellige ure**, der næsten aldrig stemmer overens.
 
@@ -66,7 +66,7 @@ Det er det praktiske argument for at holde alle tre datoer samlet ét sted. Trav
 
 Der er nogle få ting, det er værd at tjekke, nogenlunde i denne rækkefølge.
 
-**Om du overhovedet skal bruge et internationalt kørekort.** Nogle lande accepterer et nationalt kørekort alene, og det er landet, du kører i, der fastsætter kravet - ikke landet, der udstedte dit kørekort.
+**Om du overhovedet skal bruge et internationalt kørekort.** Nogle lande accepterer et nationalt kørekort alene, og det er landet, du kører i, der fastsætter kravet – ikke landet, der udstedte dit kørekort.
 
 **Hvilken konvention din destination anerkender**, og derefter hvilken konvention dit kort er udstedt under. Det står trykt på dokumentet.
 
@@ -102,7 +102,7 @@ Bygger du en bredere liste før rejsen, i stedet for kun at ordne kørselsdelen,
 
 ### Skal jeg have et internationalt kørekort?
 
-Det afhænger af, hvor du kører, og hvilket kørekort du har. Nogle lande accepterer dit nationale kørekort alene, andre kræver et internationalt kørekort ved siden af. Det er landet, du kører i, der fastsætter kravet - ikke landet, der har udstedt dit kørekort - så tjek for din konkrete destination og nationalitet, før du rejser.
+Det afhænger af, hvor du kører, og hvilket kørekort du har. Nogle lande accepterer dit nationale kørekort alene, andre kræver et internationalt kørekort ved siden af. Det er landet, du kører i, der fastsætter kravet – ikke landet, der har udstedt dit kørekort – så tjek for din konkrete destination og nationalitet, før du rejser.
 
 ### Hvor længe gælder et internationalt kørekort?
 
@@ -114,7 +114,7 @@ Nej. Et internationalt kørekort er en officiel oversættelse af dit eksisterend
 
 ### Kan mit internationale kørekort holde op med at gælde før den dato, der står på det?
 
-Ja, hvis det er et Wienerkort fra 1968. Den type er begrænset af dit nationale kørekort, så hvis dit kørekort udløber om otte måneder, stopper det internationale kørekort med at være gyldigt på det tidspunkt - uanset hvilken treårsdato der står på dokumentet.
+Ja, hvis det er et Wienerkort fra 1968. Den type er begrænset af dit nationale kørekort, så hvis dit kørekort udløber om otte måneder, stopper det internationale kørekort med at være gyldigt på det tidspunkt – uanset hvilken treårsdato der står på dokumentet.
 
 ### Hvorfor findes der mere end én type internationalt kørekort?
 

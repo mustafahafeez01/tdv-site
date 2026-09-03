@@ -14,11 +14,11 @@ Geen analytische SDK's, geen advertentiebiblioteken, geen trackingpixels in de a
 
 ### Geen uitgaande gegevensverzameling
 
-De app doet geen uitgaande verbindingen standaard. Het werkt volledig offline. Het enige netwerkgebruik is optionele Pro cloud backup, die synchroniseert met je eigen iCloud of Google Drive - nooit naar onze servers.
+De app doet geen uitgaande verbindingen standaard. Het werkt volledig offline. Het enige netwerkgebruik is optionele Pro cloud backup, die synchroniseert met je eigen iCloud of Google Drive – nooit naar onze servers.
 
 ### Standaard op het apparaat
 
-Alle documenten, scans en gegevens blijven op je apparaat. Er is geen Travel Document Vault-cloud, geen Travel Document Vault-server, geen Travel Document Vault-backend. Pro-gebruikers kunnen hun versleutelde kluis optioneel back-uppen naar hun eigen iCloud- of Google Drive-account - alleen zij houden de herstelsleutel.
+Alle documenten, scans en gegevens blijven op je apparaat. Er is geen Travel Document Vault-cloud, geen Travel Document Vault-server, geen Travel Document Vault-backend. Pro-gebruikers kunnen hun versleutelde kluis optioneel back-uppen naar hun eigen iCloud- of Google Drive-account – alleen zij houden de herstelsleutel.
 
 ### AES-256-GCM versleuteling
 
@@ -32,17 +32,17 @@ Je hoeft ons niet te vertrouwen. Je kunt elke bewering hierboven bevestigen met 
 
 Installeer een netwerkmonitor zoals **mitmproxy** (gratis, open source), **Wireshark** (gratis, open source) of **Charles Proxy**. Open Travel Document Vault, scan een document, blader door je kluis en stel een herinnering in. Je zou niet moeten zien dat je documenten, scans, vervaldata of kluisinhoud naar Travel Document Vault worden gestuurd. Het netwerkverkeer zou beperkt moeten blijven tot specifieke functies: optionele Sentry-crashrapportage, aankoopcontroles via App Store of Google Play, optionele cloudback-up naar je eigen iCloud of Google Drive-account, en een handmatige bugfixcontrole die hieronder wordt uitgelegd.
 
-Instellingen heeft een knop **Check for Updates**. Dit is een handmatige controle, nooit automatisch - deze wordt alleen uitgevoerd wanneer je er zelf op tikt, nooit op de achtergrond en nooit uit zichzelf. De controle neemt contact op met **updates.traveldocumentvault.com** - onze eigen updateserver, beheerd door ons op Google Cloud, die cryptografisch ondertekende updatebestanden van een opslagbucket levert. Wij registreren de controle niet: aanvraaglogboeken zijn aan onze kant uitgeschakeld, dus geen IP-adressen worden bewaard. Elke update is ondertekend met een sleutel die alleen wij hebben, en de app weigert alles waarvan de handtekening niet overeenkomt met het certificaat dat erin is ingebouwd. Dezelfde tik controleert ook of er een nieuwere versie van de app beschikbaar is in de **App Store** of op **Google Play**. Deze functie bestaat zodat bepaalde bugfixes je sneller kunnen bereiken dan wanneer je moet wachten op een volledig nieuwe release in de App Store of Google Play, handig bij dringende fixes, afhankelijk van de aard van de fix. Dezelfde regel als voor de rest van deze pagina: geen netwerkverzoek zonder dat jij erom vraagt.
+Instellingen heeft een knop **Check for Updates**. Dit is een handmatige controle, nooit automatisch – deze wordt alleen uitgevoerd wanneer je er zelf op tikt, nooit op de achtergrond en nooit uit zichzelf. De controle neemt contact op met **updates.traveldocumentvault.com** – onze eigen updateserver, beheerd door ons op Google Cloud, die cryptografisch ondertekende updatebestanden van een opslagbucket levert. Wij registreren de controle niet: aanvraaglogboeken zijn aan onze kant uitgeschakeld, dus geen IP-adressen worden bewaard. Elke update is ondertekend met een sleutel die alleen wij hebben, en de app weigert alles waarvan de handtekening niet overeenkomt met het certificaat dat erin is ingebouwd. Dezelfde tik controleert ook of er een nieuwere versie van de app beschikbaar is in de **App Store** of op **Google Play**. Deze functie bestaat zodat bepaalde bugfixes je sneller kunnen bereiken dan wanneer je moet wachten op een volledig nieuwe release in de App Store of Google Play, handig bij dringende fixes, afhankelijk van de aard van de fix. Dezelfde regel als voor de rest van deze pagina: geen netwerkverzoek zonder dat jij erom vraagt.
 
 ### 2. iOS App Privacy Report
 
-Ga op iPhone naar **Instellingen > Privacy en beveiliging > App Privacy Report**. Deze ingebouwde Apple-functie laat zien welke apps netwerkdomeinen hebben benaderd. Travel Document Vault stuurt je documenten, scans, vervaldata of kluisinhoud niet naar ons. Als je Pro cloud backup hebt ingeschakeld, zie je verbindingen met Apple's iCloud-domeinen - dat is je eigen backup die synchroniseert naar je eigen iCloud-account.
+Ga op iPhone naar **Instellingen > Privacy en beveiliging > App Privacy Report**. Deze ingebouwde Apple-functie laat zien welke apps netwerkdomeinen hebben benaderd. Travel Document Vault stuurt je documenten, scans, vervaldata of kluisinhoud niet naar ons. Als je Pro cloud backup hebt ingeschakeld, zie je verbindingen met Apple's iCloud-domeinen – dat is je eigen backup die synchroniseert naar je eigen iCloud-account.
 
-### 3. Android - je privacy controleren
+### 3. Android – je privacy controleren
 
-Android heeft geen enkel ingebouwd privacyrapport zoals de iPhone. Twee simpele manieren om het zelf te controleren: bekijk de eigen **Data Safety**-sectie van deze app op de Google Play-pagina (deze geeft duidelijk aan wat er wordt verzameld, wat er wordt gedeeld, dat je gegevens versleuteld worden verzonden en dat ze niet kunnen worden verwijderd) - of gebruik een netwerkmonitor zoals beschreven bij stap 1 hierboven.
+Android heeft geen enkel ingebouwd privacyrapport zoals de iPhone. Twee simpele manieren om het zelf te controleren: bekijk de eigen **Data Safety**-sectie van deze app op de Google Play-pagina (deze geeft duidelijk aan wat er wordt verzameld, wat er wordt gedeeld, dat je gegevens versleuteld worden verzonden en dat ze niet kunnen worden verwijderd) – of gebruik een netwerkmonitor zoals beschreven bij stap 1 hierboven.
 
-Als je cloud backup hebt ingeschakeld, merk je mogelijk wat activiteit richting de servers van Google (webadressen die eindigen op **googleapis.com**). Dat is normaal en veilig: het gaat alleen om je vergrendelde, versleutelde back-upbestand en een inlogcontrole die rechtstreeks naar **je eigen** Google Drive-account wordt gestuurd - hetzelfde account dat je al gebruikt voor foto's of Gmail. Wij zien het nooit, ontvangen het nooit en bewaren er nergens een kopie van. Alleen jij hebt de herstelsleutel die het kan ontgrendelen.
+Als je cloud backup hebt ingeschakeld, merk je mogelijk wat activiteit richting de servers van Google (webadressen die eindigen op **googleapis.com**). Dat is normaal en veilig: het gaat alleen om je vergrendelde, versleutelde back-upbestand en een inlogcontrole die rechtstreeks naar **je eigen** Google Drive-account wordt gestuurd – hetzelfde account dat je al gebruikt voor foto's of Gmail. Wij zien het nooit, ontvangen het nooit en bewaren er nergens een kopie van. Alleen jij hebt de herstelsleutel die het kan ontgrendelen.
 
 ### 4. App Store en Play Store privacylabels
 

@@ -11,12 +11,12 @@ Source: https://traveldocumentvault.com/nl/blog/damaged-passport-travel/
 ## Belangrijkste punten
 
 - **Niet elke slijtageplek is schade.** Een gekreukte kaft is prima. Waterschade, gescheurde pagina's of vervaagde beveiligingskenmerken zijn dat niet.
-- Luchtvaartmaatschappijen weigeren instappen als **ze denken dat een paspoort beschadigd is** - ze zijn aansprakelijk voor het vervoeren van een ongeldig document en kiezen daarom liever voor zekerheid.
+- Luchtvaartmaatschappijen weigeren instappen als **ze denken dat een paspoort beschadigd is** – ze zijn aansprakelijk voor het vervoeren van een ongeldig document en kiezen daarom liever voor zekerheid.
 - Schade ontdekken **dagen of weken van tevoren** geeft je tijd voor een spoedvernieuwing. De dag ervoor is een crisis.
-- Word je bij de gate geweigerd, **vraag je ambassade dan naar een nooddocument** - afgifte dezelfde dag is vaak mogelijk.
-- Een digitale kopie is **het meest waard als je in het buitenland bent** - een consulaire medewerker kan sneller vaststellen wie je bent aan de hand van een scan dan aan de hand van jouw verhaal. Scan je paspoort dus voordat je vertrekt.
+- Word je bij de gate geweigerd, **vraag je ambassade dan naar een nooddocument** – afgifte dezelfde dag is vaak mogelijk.
+- Een digitale kopie is **het meest waard als je in het buitenland bent** – een consulaire medewerker kan sneller vaststellen wie je bent aan de hand van een scan dan aan de hand van jouw verhaal. Scan je paspoort dus voordat je vertrekt.
 
-De meeste paspoortschade is cosmetisch. Een versleten kaft, een verzachte hoek, een rafelige rand langs de rug - niets daarvan houdt iemand tegen bij het instappen. Wat grenspersoneel en gate agents daadwerkelijk controleren is beperkter dan de meeste reizigers denken: de gegevenspagina, de twee gedrukte regels daaronder, en of het boekje nog als één geheel document aan elkaar hangt.
+De meeste paspoortschade is cosmetisch. Een versleten kaft, een verzachte hoek, een rafelige rand langs de rug – niets daarvan houdt iemand tegen bij het instappen. Wat grenspersoneel en gate agents daadwerkelijk controleren is beperkter dan de meeste reizigers denken: de gegevenspagina, de twee gedrukte regels daaronder, en of het boekje nog als één geheel document aan elkaar hangt.
 
 Waar die grens ligt, is goed om te weten voordat je vertrekt, want een paspoort kan technisch geldig zijn en toch geweigerd worden. Dit artikel behandelt wat als schade telt, wat functionarissen doorgaans accepteren, en wat je moet doen als het jouwe al in slechte staat is.
 
@@ -26,7 +26,7 @@ Hier slaan de meeste mensen onnodig in paniek: een omgekrulde hoek van de kaft i
 
 **Schade betekent iets dat de beveiligingskenmerken of leesbaarheid van het document aantast.** Waterschade is het klassieke voorbeeld: de inkt loopt uit, de pagina's zwellen op of gaan krullen en de handtekeningpagina wordt onleesbaar. Gescheurde of ontbrekende pagina's tellen ook mee, net als een beschadigd beveiligingshologram, een gebroken rug, of alles wat je persoonsgegevens of biometrische data onleesbaar maakt.
 
-Het belangrijkste is dat de machineleesbare zone - de zwart-witte strook onderaan je gegevenspagina - intact blijft. Grensscanners kunnen deze mogelijk niet meer lezen zodra hij beschadigd is.
+Het belangrijkste is dat de machineleesbare zone – de zwart-witte strook onderaan je gegevenspagina – intact blijft. Grensscanners kunnen deze mogelijk niet meer lezen zodra hij beschadigd is.
 
 De reden dat dit ertoe doet, is dat **luchtvaartmaatschappijen aansprakelijk zijn als ze iemand met een ongeldig document laten instappen.** Stap je in met een beschadigd paspoort en word je aan de andere kant de toegang geweigerd, dan kunnen de autoriteiten de luchtvaartmaatschappij beboeten voor het vervoeren van jou. De maatschappij moet dan ook de kosten dragen om je terug naar huis te vliegen.
 
@@ -34,7 +34,7 @@ Geen enkele gate agent zit te wachten op die rompslomp, dus ze kiezen resoluut v
 
 ## Je ontdekt schade dagen of weken voor vertrek
 
-Schade op tijd ontdekken is het beste scenario, want dan heb je nog ruimte om te handelen. Zodra je iets vreemds opmerkt - een barstende kaft, waterplekken, uitgelopen inkt, wat dan ook - neem dan contact op met je paspoortinstantie in plaats van af te wachten of het erger wordt of ervan uit te gaan dat het op de dag zelf wel goed komt.
+Schade op tijd ontdekken is het beste scenario, want dan heb je nog ruimte om te handelen. Zodra je iets vreemds opmerkt – een barstende kaft, waterplekken, uitgelopen inkt, wat dan ook – neem dan contact op met je paspoortinstantie in plaats van af te wachten of het erger wordt of ervan uit te gaan dat het op de dag zelf wel goed komt.
 
 Ga eerst naar de officiële website van de paspoortinstantie van je eigen land, want dat is de enige plek waar de actuele regels en verwerkingstijden gegarandeerd kloppen, en beide veranderen vaker dan mensen denken. Twijfel je of jouw specifieke paspoort nog geaccepteerd wordt, dan is de paspoortinstantie de enige instantie wiens antwoord er echt toe doet. Een forum over luchtvaartmaatschappijen redt je niet aan de balie.
 
@@ -48,14 +48,14 @@ Start het proces zodra je de schade ontdekt. Vluchten boeken en hopen dat de ver
 
 Dan nu de lastigere versie: je staat in de incheckrij of bij de gate en merkt schade op die je eerder over het hoofd hebt gezien, of de medewerker ziet het zodra je je paspoort overhandigt.
 
-Blijf kalm en wees eerlijk. Vertel de gate agent dat je de schade zelf ook net hebt ontdekt, in plaats van het te verbergen of te bagatelliseren - ze hebben al vaker beschadigde paspoorten gezien en doorzien het meteen als je iets verzwijgt.
+Blijf kalm en wees eerlijk. Vertel de gate agent dat je de schade zelf ook net hebt ontdekt, in plaats van het te verbergen of te bagatelliseren – ze hebben al vaker beschadigde paspoorten gezien en doorzien het meteen als je iets verzwijgt.
 
 Is de schade echt minimaal, zoals een kleine vouw die geen tekst of beveiligingskenmerk raakt, dan kan de medewerker het alsnog accepteren. Is de schade groter, dan wordt instappen geweigerd, en daar valt niet over te discussiëren.
 
 Zodra instappen is geweigerd, heb je beperkte opties:
 
 - **Omboeken naar een latere vlucht.** Neem contact op met je luchtvaartmaatschappij of boekingskantoor en leg uit wat er is gebeurd. In veel gevallen boeken ze je gratis om zodra de reden een beschadigd document is (en geen no-show of vrijwillige annulering). Gebruik deze tijd om je paspoort te regelen.
-- **Een nooddocument aanvragen.** Neem meteen contact op met de dichtstbijzijnde ambassade of het consulaat. Leg uit dat je een bevestigde vlucht hebt en dringend moet reizen. Ben je nog op het vliegveld, dan kunnen veel ambassades nog dezelfde dag een nooddocument afgeven - maar je moet snel handelen en je boeking kunnen aantonen.
+- **Een nooddocument aanvragen.** Neem meteen contact op met de dichtstbijzijnde ambassade of het consulaat. Leg uit dat je een bevestigde vlucht hebt en dringend moet reizen. Ben je nog op het vliegveld, dan kunnen veel ambassades nog dezelfde dag een nooddocument afgeven – maar je moet snel handelen en je boeking kunnen aantonen.
 - **De annulering accepteren.** Werkt geen van beide opties en is de reis niet meer te redden, vraag dan je luchtvaartmaatschappij wat er mogelijk is. Sommige boeken je uit coulance om of bieden een tegoed aan zodra je het uitlegt. De meeste luchtvaartvoorwaarden zien een documentprobleem echter als de eigen verantwoordelijkheid van de passagier, dus een automatische terugbetaling zit er meestal niet in.
 
 Zegt de gate agent nee, ga dan niet in discussie en probeer niet alsnog in te stappen. Dat zorgt alleen voor grotere problemen. De luchtvaartmaatschappij kan je uitsluiten van toekomstige vluchten, immigratieautoriteiten kunnen je een boete geven, en in sommige landen kun je zelfs vervolgd worden omdat je probeerde te reizen op een document dat al als ongeldig is beoordeeld.
@@ -79,7 +79,7 @@ Een duidelijke digitale foto van je paspoort helpt hierbij. Bewaar de gegevenspa
 
 Dit is vooral waardevol als je in het buitenland bent wanneer je paspoort beschadigd raakt en een nooddocument van je ambassade nodig hebt. Consulaire medewerkers werken sneller als ze een scan van je originele paspoort direct voor zich hebben.
 
-Bewaar je digitale kopieën ergens versleuteld en offline - niet in Google Foto's of een gedeelde iCloud. Travel Document Vault is precies hiervoor gebouwd: paspoortfoto's versleuteld op alleen jouw apparaat, direct beschikbaar als er iets misgaat.
+Bewaar je digitale kopieën ergens versleuteld en offline – niet in Google Foto's of een gedeelde iCloud. Travel Document Vault is precies hiervoor gebouwd: paspoortfoto's versleuteld op alleen jouw apparaat, direct beschikbaar als er iets misgaat.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
@@ -91,7 +91,7 @@ Schade omvat waterschade, uitgelopen inkt, gescheurde of ontbrekende pagina's, f
 
 ### Kunnen luchtvaartmaatschappijen instapweigeren vanwege paspoortschade?
 
-Ja. Luchtvaartmaatschappijen zijn aansprakelijk als ze iemand laten instappen met een ongeldig reisdocument en die persoon vervolgens de toegang wordt geweigerd of wordt teruggestuurd. Gate agents zijn daarom extra voorzichtig - een paspoort met waterschade of ontbrekende pagina's kan worden afgekeurd, ook als het technisch gezien nog geldig is.
+Ja. Luchtvaartmaatschappijen zijn aansprakelijk als ze iemand laten instappen met een ongeldig reisdocument en die persoon vervolgens de toegang wordt geweigerd of wordt teruggestuurd. Gate agents zijn daarom extra voorzichtig – een paspoort met waterschade of ontbrekende pagina's kan worden afgekeurd, ook als het technisch gezien nog geldig is.
 
 ### Wat moet ik doen als ik paspoortschade ontdek voordat ik op reis ga?
 
@@ -99,7 +99,7 @@ Neem meteen contact op met je paspoortinstantie in plaats van af te wachten of h
 
 ### Wat als mijn paspoort op het vliegveld beschadigd blijkt te zijn?
 
-Meld het direct bij de gate agent en leg uit wanneer de schade is ontstaan. Bij lichte schade, waarbij je gegevens leesbaar en de beveiligingskenmerken intact blijven, kan het paspoort alsnog worden geaccepteerd. Wordt instappen geweigerd, vraag dan of een nooddocument van je ambassade mogelijk is voor deze reis, of of je kunt omboeken naar een latere vlucht zodra je een nieuw paspoort hebt. Probeer nooit toch te reizen als de gate agent nee zegt - instappen met een afgekeurd document leidt tot veel grotere problemen.
+Meld het direct bij de gate agent en leg uit wanneer de schade is ontstaan. Bij lichte schade, waarbij je gegevens leesbaar en de beveiligingskenmerken intact blijven, kan het paspoort alsnog worden geaccepteerd. Wordt instappen geweigerd, vraag dan of een nooddocument van je ambassade mogelijk is voor deze reis, of of je kunt omboeken naar een latere vlucht zodra je een nieuw paspoort hebt. Probeer nooit toch te reizen als de gate agent nee zegt – instappen met een afgekeurd document leidt tot veel grotere problemen.
 
 ### Hoe snel kan ik een nieuw paspoort krijgen als het mijne beschadigd is?
 
@@ -109,4 +109,4 @@ Dat hangt af van waar je bent en hoe dicht je vertrekdatum nadert, en gepublicee
 
 [Reisnoodgeval6 min leestijd · april 2026Wat te doen als je paspoort in het buitenland kwijt is of gestolen wordt](https://traveldocumentvault.com/nl/blog/lost-passport-abroad/)
 
-[Verlopen paspoort7 min leestijd · mei 2026Paspoort net verlopen vlak voor een reis - wat je nu moet doen](https://traveldocumentvault.com/nl/blog/passport-expired-what-to-do/)
+[Verlopen paspoort7 min leestijd · mei 2026Paspoort net verlopen vlak voor een reis – wat je nu moet doen](https://traveldocumentvault.com/nl/blog/passport-expired-what-to-do/)

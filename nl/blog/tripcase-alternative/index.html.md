@@ -11,18 +11,18 @@ Source: https://traveldocumentvault.com/nl/blog/tripcase-alternative/
 ## Belangrijkste punten
 
 - **TripCase ging op 1 april 2025 offline** na 12 jaar, en Sabre verwijderde alle resterende gebruikersgegevens nadat het exportvenster op 30 juni 2025 sloot.
-- De functie **Document Vault** - één veilige plek voor paspoorten, visa en instapkaarten - is het onderdeel dat voormalige gebruikers het meest missen.
+- De functie **Document Vault** – één veilige plek voor paspoorten, visa en instapkaarten – is het onderdeel dat voormalige gebruikers het meest missen.
 - **Geen enkele app vervangt TripCase volledig.** Vluchtmeldingen, reisplanverwerking en documentopslag leven nu in verschillende tools.
 - De echte les: een gratis clouddienst houdt **je gegevens op geleende tijd**. Ze kan verdwijnen met ongeveer 60 dagen kennisgeving.
-- Reisdocumenten horen **offline, op je eigen toestel** - ergens waar geen bedrijfsbeslissing, storing of sluiting ze kan bereiken.
+- Reisdocumenten horen **offline, op je eigen toestel** – ergens waar geen bedrijfsbeslissing, storing of sluiting ze kan bereiken.
 
 TripCase was twaalf jaar lang het stille werkpaard onder de reisapps. Stuur een bevestigingsmail door en je reis bouwde zichzelf op; de app waarschuwde je voor gatewijzigingen nog vóór sommige luchtvaartmaatschappijen dat zelf deden; en de Document Vault hield paspoorten, visa en instapkaarten op één plek. Toen, op 1 april 2025, sloot Sabre de dienst, en zodra het exportvenster op 30 juni sloot, werden de resterende reisgeschiedenis en documenten van elke gebruiker van hun servers gewist.
 
-Vijftien maanden later zoeken voormalige gebruikers nog steeds naar een vervanging. Het eerlijke antwoord is dat geen enkele app hem volledig vervangt. Maar het echte verhaal gaat niet over welke app je moet kiezen - het gaat over waar je documenten zouden moeten leven.
+Vijftien maanden later zoeken voormalige gebruikers nog steeds naar een vervanging. Het eerlijke antwoord is dat geen enkele app hem volledig vervangt. Maar het echte verhaal gaat niet over welke app je moet kiezen – het gaat over waar je documenten zouden moeten leven.
 
 ## De opkomst en het einde van TripCase
 
-TripCase bestond al sinds 2013, een gratis reisbegeleider van Sabre Corporation - het bedrijf dat een groot deel van de wereldwijde boekingssystemen voor luchtvaartmaatschappijen en reisbureaus draait. Dankzij die connectie verschenen reizen vaak automatisch in de app. Meer dan tien jaar lang vertrouwden zakenreizigers en gezinnen erop om vluchten, hotels en huurauto's in één chronologisch overzicht samen te brengen. Niet spectaculair, maar het werkte.
+TripCase bestond al sinds 2013, een gratis reisbegeleider van Sabre Corporation – het bedrijf dat een groot deel van de wereldwijde boekingssystemen voor luchtvaartmaatschappijen en reisbureaus draait. Dankzij die connectie verschenen reizen vaak automatisch in de app. Meer dan tien jaar lang vertrouwden zakenreizigers en gezinnen erop om vluchten, hotels en huurauto's in één chronologisch overzicht samen te brengen. Niet spectaculair, maar het werkte.
 
 Toen de sluiting kwam, hadden gebruikers tot 30 juni 2025 om hun geschiedenis te exporteren. Meerdere gebruikers omschreven het exportproces als verwarrend en onvolledig, en sommigen ontdekten te laat dat jaren aan reisgegevens niet waren meegenomen. Nadat het exportvenster op 30 juni 2025 sloot, verwijderde Sabre alle resterende reis- en reizigersgegevens, en die zijn niet meer terug te halen.
 
@@ -30,11 +30,11 @@ Toen de sluiting kwam, hadden gebruikers tot 30 juni 2025 om hun geschiedenis te
 
 TripCase vond niet veel nieuws uit, maar perfectioneerde een handvol werkstromen, en het verdwijnen ervan liet zien hoe afhankelijk mensen ervan waren geworden.
 
-De kern was **het verwerken van bevestigingsmails naar reisplannen** - stuur elke bevestiging van luchtvaartmaatschappij, hotel of autoverhuur door, en de app zette het om in een chronologische reis met datums en boekingsreferenties. Nul handmatige invoer betekende een volledig reisplan in seconden, en dat is precies waarom mensen tien jaar bleven.
+De kern was **het verwerken van bevestigingsmails naar reisplannen** – stuur elke bevestiging van luchtvaartmaatschappij, hotel of autoverhuur door, en de app zette het om in een chronologische reis met datums en boekingsreferenties. Nul handmatige invoer betekende een volledig reisplan in seconden, en dat is precies waarom mensen tien jaar bleven.
 
 **Realtime vluchtmeldingen** kwamen er meteen bij: vertragingen, gatewijzigingen en annuleringen, vaak nog vóór de melding van de luchtvaartmaatschappij zelf. TripIt rekent nu voor de equivalente functie via het Pro-abonnement, terwijl TripCase deze gratis aan iedereen aanbood.
 
-Die vluchten, hotels en grondvervoer leefden allemaal in **de reistijdlijn** - één scrollbare stapel per reis. Simpel, maar als je ooit een meerstedenreis van een week hebt moeten jongleren op basis van een dozijn bevestigingsmails, begrijp je waarom dat belangrijk was. In forumdraden op FlyerTalk en elders noemen voormalige gebruikers steevast de **Document Vault** als het meest gemiste onderdeel - die ene veilige plek voor instapkaarten, visa, paspoorten en bevestigingen. Tot slot liet **reisdeling** familieleden of collega's meekijken zonder doorgestuurde mails.
+Die vluchten, hotels en grondvervoer leefden allemaal in **de reistijdlijn** – één scrollbare stapel per reis. Simpel, maar als je ooit een meerstedenreis van een week hebt moeten jongleren op basis van een dozijn bevestigingsmails, begrijp je waarom dat belangrijk was. In forumdraden op FlyerTalk en elders noemen voormalige gebruikers steevast de **Document Vault** als het meest gemiste onderdeel – die ene veilige plek voor instapkaarten, visa, paspoorten en bevestigingen. Tot slot liet **reisdeling** familieleden of collega's meekijken zonder doorgestuurde mails.
 
 ## De ongemakkelijke les
 
@@ -42,7 +42,7 @@ Als je je reisleven opbouwt rond een gratis cloud-app, huur je ruimte die de eig
 
 Niets hiervan komt voort uit kwade bedoelingen; het is gewoon hoe zakelijke beslissingen werken. Reisapps stoppen regelmatig, gratis niveaus verdwijnen achter betaalmuren, en diensten worden stopgezet. De persoon die geen inspraak heeft in de timing, ben jij.
 
-Reisdocumenten wegen anders dan verloren afspeellijsten. Een paspoortscan, een verleend visum, bewijs van eerdere in- en uitreizen - het kwijtraken hiervan kan visumaanvragen, verzekeringsclaims en grensgesprekken jarenlang compliceren. Het verhaal van TripCase gaat dus verder dan alleen nostalgie.
+Reisdocumenten wegen anders dan verloren afspeellijsten. Een paspoortscan, een verleend visum, bewijs van eerdere in- en uitreizen – het kwijtraken hiervan kan visumaanvragen, verzekeringsclaims en grensgesprekken jarenlang compliceren. Het verhaal van TripCase gaat dus verder dan alleen nostalgie.
 
 ## Een eerlijke vervangingskaart
 
@@ -56,13 +56,13 @@ TripCase bundelde verschillende taken in één gratis app. Geen enkele huidige a
 | Opslag van reisdocumenten | De Document Vault: paspoorten, visa, instapkaarten | Travel Document Vault | Eenmalige aankoop, geen abonnement |
 | Reisdeling | Volgers zagen je actuele reisplan | TripIt-deling, of een gedeelde map | Gratis |
 
-Vluchtmeldingen en reisplanverwerking zijn gemakken - echt nuttige ook - en horen thuis in de cloud omdat ze alleen belangrijk zijn zolang een reis actueel is. Documentopslag is anders: dat is de ene taak waarbij verloren toegang je daadwerkelijk iets kost dat je niet opnieuw kunt plannen.
+Vluchtmeldingen en reisplanverwerking zijn gemakken – echt nuttige ook – en horen thuis in de cloud omdat ze alleen belangrijk zijn zolang een reis actueel is. Documentopslag is anders: dat is de ene taak waarbij verloren toegang je daadwerkelijk iets kost dat je niet opnieuw kunt plannen.
 
 ## Waarom offline belangrijk is voor reisdocumenten
 
 Een paspoort is identiteit, een visum is toestemming, en een ID is bewijs. Deze documenten bepalen of een grens je doorlaat en of een claim wordt uitbetaald, wat ze in een andere categorie plaatst dan al het andere dat een reisapp bijhoudt.
 
-Ze bewaren in een clouddienst betekent dat je drie afzonderlijke risico's accepteert: de dienst kan stoppen, zoals bij TripCase; het bedrijf kan zijn privacy- of beveiligingsmodel wijzigen wanneer het wil; en je hebt een verbinding plus een werkende login nodig om bij je eigen documenten te komen - niet vanzelfsprekend bij een grensovergang waar je roaming stilletjes is uitgevallen.
+Ze bewaren in een clouddienst betekent dat je drie afzonderlijke risico's accepteert: de dienst kan stoppen, zoals bij TripCase; het bedrijf kan zijn privacy- of beveiligingsmodel wijzigen wanneer het wil; en je hebt een verbinding plus een werkende login nodig om bij je eigen documenten te komen – niet vanzelfsprekend bij een grensovergang waar je roaming stilletjes is uitgevallen.
 
 Offline-first opslag elimineert alle drie de risico's in één keer. De documenten leven op je toestel, leesbaar zonder signaal en zonder account, en er is geen server die iemand kan uitschakelen. Weeg je af waar digitale kopieën het beste kunnen leven, dan gaat onze vergelijking van [iCloud, Google Foto's en versleutelde kluizen](https://traveldocumentvault.com/nl/blog/safest-way-to-store-passport-digitally/) uitgebreid in op de afwegingen.
 
@@ -96,7 +96,7 @@ Geen enkele app doet alles wat TripCase deed. De meeste voormalige gebruikers ei
 
 ### Moet ik mijn reisdocumenten in een cloud-app bewaren?
 
-Dat hangt af van het document. Cloudservices zijn handig voor boekingsbevestigingen en referenties, die te vervangen zijn als een dienst stopt. Je daadwerkelijke reisdocumenten - paspoort, visum, ID, rijbewijs - kun je beter offline op je toestel bewaren, waar ze niet afhankelijk zijn van een server die online blijft.
+Dat hangt af van het document. Cloudservices zijn handig voor boekingsbevestigingen en referenties, die te vervangen zijn als een dienst stopt. Je daadwerkelijke reisdocumenten – paspoort, visum, ID, rijbewijs – kun je beter offline op je toestel bewaren, waar ze niet afhankelijk zijn van een server die online blijft.
 
 ## Gerelateerde artikelen
 

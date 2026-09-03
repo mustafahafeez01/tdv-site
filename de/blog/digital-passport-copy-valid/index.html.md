@@ -22,11 +22,11 @@ Bei der Planung einer Reise fragen sich viele Reisende, ob sie eine digitale Kop
 
 ### Hotel-Check-in
 
-Die meisten Hotels weltweit akzeptieren digitale Reisepasskopien beim Check-in - als PDF auf Ihrem Telefon, per E-Mail im Voraus gesendet oder ausgedruckt. Dies ist besonders hilfreich, wenn Sie spät einchecken oder zwischen verschiedenen Unterkünften wechseln und Ihren physischen Reisepass nicht die ganze Reise über mitführen möchten. Einige kleinere Hotels, besonders in Regionen mit weniger digitaler Infrastruktur, bevorzugen immer noch das Original. In Teilen Europas - Spanien, Frankreich und Italien gehören dazu - müssen Hotels Ihre Daten für die Behörden aufzeichnen und werden in der Regel den physischen Reisepass einsehen wollen, um dies zu tun, obwohl Datenschutzrichtlinien vorsehen, dass sie normalerweise keine Kopie behalten sollten. Wenden Sie sich im Voraus an Ihre Unterkunft, um dies zu bestätigen.
+Die meisten Hotels weltweit akzeptieren digitale Reisepasskopien beim Check-in – als PDF auf Ihrem Telefon, per E-Mail im Voraus gesendet oder ausgedruckt. Dies ist besonders hilfreich, wenn Sie spät einchecken oder zwischen verschiedenen Unterkünften wechseln und Ihren physischen Reisepass nicht die ganze Reise über mitführen möchten. Einige kleinere Hotels, besonders in Regionen mit weniger digitaler Infrastruktur, bevorzugen immer noch das Original. In Teilen Europas – Spanien, Frankreich und Italien gehören dazu – müssen Hotels Ihre Daten für die Behörden aufzeichnen und werden in der Regel den physischen Reisepass einsehen wollen, um dies zu tun, obwohl Datenschutzrichtlinien vorsehen, dass sie normalerweise keine Kopie behalten sollten. Wenden Sie sich im Voraus an Ihre Unterkunft, um dies zu bestätigen.
 
 ### Flugbuchungen und Online-Check-in
 
-Fluggesellschaften benötigen Ihre Reisepassdaten bei der Buchung, und viele erlauben Ihnen, eine digitale Kopie hochzuladen, um Ihre Identität für den Online-Check-in zu überprüfen - dies beschleunigt den Flughafenprozess. Sie müssen immer noch den Originalreisepass am Gate vorlegen. Die Rolle der digitalen Kopie ist die Identitätsprüfung vor der Reise, nicht die Boarding-Dokumentation.
+Fluggesellschaften benötigen Ihre Reisepassdaten bei der Buchung, und viele erlauben Ihnen, eine digitale Kopie hochzuladen, um Ihre Identität für den Online-Check-in zu überprüfen – dies beschleunigt den Flughafenprozess. Sie müssen immer noch den Originalreisepass am Gate vorlegen. Die Rolle der digitalen Kopie ist die Identitätsprüfung vor der Reise, nicht die Boarding-Dokumentation.
 
 ### Mietwagenvermietungen
 
@@ -38,7 +38,7 @@ Wenn Ihr Reisepass während einer Reise verloren geht oder gestohlen wird, kann 
 
 ## Wo Ihr physischer Reisepass immer erforderlich ist
 
-Eine digitale Kopie ist kein Ersatz für Ihren physischen Reisepass an der Einwanderung, bei Fluggesellschaften oder bei Strafverfolgungsbehörden. In diesen Szenarien ist das Originaldokument einfach obligatorisch - es gibt keine Umgehung.
+Eine digitale Kopie ist kein Ersatz für Ihren physischen Reisepass an der Einwanderung, bei Fluggesellschaften oder bei Strafverfolgungsbehörden. In diesen Szenarien ist das Originaldokument einfach obligatorisch – es gibt keine Umgehung.
 
 | Reisesituation | Digitale Kopie akzeptiert | Anmerkungen |
 |---|---|---|

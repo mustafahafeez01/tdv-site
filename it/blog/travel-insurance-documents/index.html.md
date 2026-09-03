@@ -31,7 +31,7 @@ L'assicurazione di viaggio funziona solo se riesci ad accedervi quando ne hai bi
 La tua polizza di assicurazione di viaggio è in genere un PDF. Quel singolo file contiene tutto ciò di cui hai bisogno, ma dovresti estrarre e salvare queste cinque cose separatamente così puoi trovarle istantaneamente:
 
 - Documento della polizza completo (il PDF)
-- Numero di polizza (estrailo - scrivilo separatamente anche)
+- Numero di polizza (estrailo — scrivilo separatamente anche)
 - Linea di contatto di emergenza 24 ore (diversa dal numero commerciale o del servizio clienti)
 - Sezione cosa è coperto (limiti di copertura per medico, bagaglio, cancellazione, ecc.)
 - Esclusioni chiave e condizioni (inclusi i requisiti di pre-autorizzazione)
@@ -58,7 +58,7 @@ Per il backup, salva i tuoi documenti di assicurazione su un'unità cloud protet
 
 ### Copia Fisica Con i Tuoi Documenti di Viaggio
 
-Archivia una copia fisica - o una foto ad alta qualità delle pagine critiche - accanto al tuo passaporto, documenti visto e altri documenti di viaggio. Se il tuo telefono muore, questo è il tuo fallback.
+Archivia una copia fisica — o una foto ad alta qualità delle pagine critiche — accanto al tuo passaporto, documenti visto e altri documenti di viaggio. Se il tuo telefono muore, questo è il tuo fallback.
 
 Una carta scritta a mano fa lo stesso lavoro di una stampa: numero di polizza, nome della compagnia di assicurazioni, linea di emergenza. Mettila nel portafoglio del passaporto e sopravvive a una batteria scarica, un telefono perso e una cassaforte dell'hotel che non puoi aprire.
 
@@ -66,9 +66,9 @@ Una carta scritta a mano fa lo stesso lavoro di una stampa: numero di polizza, n
 
 | Posizione di Archiviazione | Accesso Senza Internet | In un'Emergenza | Backup Se Telefono Perso |
 |---|---|---|---|
-| **Telefono (scaricamento offline)** | Istantaneo, nessun WiFi necessario | Disponibile immediatamente - opzione più veloce | Perso con il telefono a meno di backup |
+| **Telefono (scaricamento offline)** | Istantaneo, nessun WiFi necessario | Disponibile immediatamente — opzione più veloce | Perso con il telefono a meno di backup |
 | **Unità cloud con accesso offline** | Sì, se scaricato precedentemente | Dipende dalla cache locale; funziona se il telefono ha memorizzato nella cache il file | Recuperabile su un telefono sostitutivo con accesso |
-| **Email** | Richiede connessione internet | Inaffidabile - potresti non avere segnale o dati | Ancora accessibile ma lungo da cercare |
+| **Email** | Richiede connessione internet | Inaffidabile — potresti non avere segnale o dati | Ancora accessibile ma lungo da cercare |
 | **Copia fisica (carta laminata o stampa)** | Sì, sempre accessibile | Più veloce se il tuo telefono è morto o perso | Perso se il passaporto è perso; conserva in tasca separata |
 | **App crittografata (es. Travel Document Vault)** | Sì, archiviata localmente sul telefono | Accesso istantaneo, progettata per questo scenario | Crittografata e privata; backup cloud facoltativo |
 
@@ -78,7 +78,7 @@ Anche se hai i tuoi documenti accessibili, puoi comunque perdere il tuo reclamo 
 
 ### Reclami Medici: Non Hai Ottenuto la Pre-Autorizzazione
 
-La maggior parte delle polizze di assicurazione di viaggio richiede la pre-autorizzazione prima del trattamento. Questo significa chiamare la tua compagnia di assicurazioni e ottenere l'approvazione prima di visitare un ospedale o una clinica. I requisiti variano a seconda dell'assicuratore e del tipo di polizza - controlla la sezione del trattamento medico della tua polizza specifica. Se salti questo passaggio e paghi di tasca propria, spesso otterrai un rifiuto con "il trattamento non era stato pre-autorizzato." Molti assicuratori non rimborseranno senza pre-autorizzazione, anche se il trattamento era necessario e coperto.
+La maggior parte delle polizze di assicurazione di viaggio richiede la pre-autorizzazione prima del trattamento. Questo significa chiamare la tua compagnia di assicurazioni e ottenere l'approvazione prima di visitare un ospedale o una clinica. I requisiti variano a seconda dell'assicuratore e del tipo di polizza — controlla la sezione del trattamento medico della tua polizza specifica. Se salti questo passaggio e paghi di tasca propria, spesso otterrai un rifiuto con "il trattamento non era stato pre-autorizzato." Molti assicuratori non rimborseranno senza pre-autorizzazione, anche se il trattamento era necessario e coperto.
 
 Supponi di essere ricoverato in ospedale con appendicite a Mumbai. L'ospedale ha bisogno del pagamento in anticipo o di una garanzia dalla tua compagnia di assicurazioni, e hai una finestra di due ore prima dell'intervento. Senza il numero di pre-autorizzazione della tua compagnia di assicurazioni, l'ospedale chiede contanti. Questo ti lascia due cattive opzioni: pagare ora e rischiare un reclamo rifiutato mesi dopo, oppure ritardare l'intervento mentre insegui la tua compagnia di assicurazioni. Una chiamata evita tutto. Con un numero di conferma in mano, l'ospedale fattura direttamente la tua compagnia di assicurazioni.
 

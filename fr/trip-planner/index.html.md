@@ -12,31 +12,31 @@ Cinq fonctionnalités qui rendent la planification des voyages en famille sans s
 
 ### Feu tricolore de disponibilité
 
-Le vert signifie que tout le monde est prêt, tandis que l'orange signale qui a des documents expirant bientôt - plus de surprises la veille du voyage.
+Le vert signifie que tout le monde est prêt, tandis que l'orange signale qui a des documents expirant bientôt — plus de surprises la veille du voyage.
 
 Chaque membre de la famille reçoit son propre statut de disponibilité basé sur les dates d'expiration des documents et le contexte du voyage.
 
 ### Puces des membres
 
-Consultez le statut de chaque membre de la famille d'un seul coup d'œil et appuyez pour examiner leurs documents - découvrez dont le passeport expire en premier.
+Consultez le statut de chaque membre de la famille d'un seul coup d'œil et appuyez pour examiner leurs documents — découvrez dont le passeport expire en premier.
 
 Conçu pour les familles de 2 à 10+ membres. Fonctionne pour les conjoints, enfants, grands-parents et toute autre personne avec qui vous planifiez.
 
 ### Liste de colisage
 
-Liste de colisage adaptée à la durée et à la destination du voyage que vous cochez au fur et à mesure que vous emballez - plus d'oublis de crème solaire.
+Liste de colisage adaptée à la durée et à la destination du voyage que vous cochez au fur et à mesure que vous emballez — plus d'oublis de crème solaire.
 
 Les listes s'adaptent en fonction de la météo, de la durée du voyage et du type de voyage (plage, ville, ski, etc.).
 
 ### Soyez informé avant de partir
 
-Panneau de destination avec conditions d'entrée, règles de visa et conseils de voyage pour chaque pays - pas de surprises à l'immigration.
+Panneau de destination avec conditions d'entrée, règles de visa et conseils de voyage pour chaque pays — pas de surprises à l'immigration.
 
 Affiche les règles Schengen, les fenêtres de validité des visas et les coutumes locales. Tout mis à jour pour les réglementations de voyage actuelles.
 
 ### Franchises limites de jours par pays
 
-Suivez le nombre de jours que chaque membre de la famille a passé dans un pays en créant des périodes (année Schengen, fenêtre de visa, année fiscale) et en liant les règles de franchise à ces périodes - puis consultez une ventilation par membre en un coup d'œil.
+Suivez le nombre de jours que chaque membre de la famille a passé dans un pays en créant des périodes (année Schengen, fenêtre de visa, année fiscale) et en liant les règles de franchise à ces périodes — puis consultez une ventilation par membre en un coup d'œil.
 
 Conçu pour le suivi Schengen 90/180, les règles de 183 jours au Royaume-Uni et toute fenêtre de visa ou de résidence personnalisée. Les jours utilisés se mettent à jour automatiquement au fur et à mesure que les voyages sont enregistrés.
 

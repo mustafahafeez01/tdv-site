@@ -34,7 +34,7 @@ I Inställningar ser du en rad som *Senaste säkerhetskopia: för 2 timmar sedan
 
 Dessa lokala ögonblicksbilder stannar på din enhet. En systemsäkerhetskopia (iCloud Backup, Google Backup) installerar om appen men kan inte återställa dem på en ny telefon, eftersom krypteringsnyckeln aldrig lämnar din ursprungliga enhet. För att flytta ditt valv använder du molnsäkerhetskopia (Pro) eller den gratis Vault Export.
 
-## Vault Export (.tdvault) - gratis för alla
+## Vault Export (.tdvault) – gratis för alla
 
 Vault Export skapar en enda krypterad, lösenordsskyddad fil som innehåller varje profil, dokument och bilaga i ditt valv. Du väljer var du vill spara den: Filer-appen, iCloud Drive, Google Drive, eller dela den via AirDrop eller e-post.
 
@@ -70,9 +70,9 @@ Inget enskilt lager är ett skäl att hoppa över de andra. Molnkonton kan gå f
 
 ### Relaterade guider
 
-- [Så exporterar och importerar du ditt valv - steg-för-steg-guide](https://traveldocumentvault.com/sv/faq/export-import/)
-- [Vad är min återställningskod? - fullständig guide till hur du förvarar den säkert](https://traveldocumentvault.com/sv/faq/recovery-code/)
-- [Molnsäkerhetskopia - så fungerar ände-till-ände-kryptering](https://traveldocumentvault.com/sv/cloud-backup/)
+- [Så exporterar och importerar du ditt valv – steg-för-steg-guide](https://traveldocumentvault.com/sv/faq/export-import/)
+- [Vad är min återställningskod? – fullständig guide till hur du förvarar den säkert](https://traveldocumentvault.com/sv/faq/recovery-code/)
+- [Molnsäkerhetskopia – så fungerar ände-till-ände-kryptering](https://traveldocumentvault.com/sv/cloud-backup/)
 
 ## Skaffa Travel Document Vault
 

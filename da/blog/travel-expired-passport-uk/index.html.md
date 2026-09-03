@@ -18,19 +18,19 @@ Source: https://traveldocumentvault.com/da/blog/travel-expired-passport-uk/
 
 Om et pas, der udløber før hjemrejsedatoen, bliver et problem, afhænger helt af, hvor rejsen går hen. Nogle lande kræver kun, at det er gyldigt på indrejsedagen. Mange kræver tre eller seks måneder derudover.
 
-Nej - et udløbet pas duer ikke til internationale rejser. Flyselskaber kontrollerer gyldigheden, før de udsteder boardingkort, og hvis dit pas er udløbet, nægter de dig adgang til flyet. Grænsekontrollen foretager samme kontrol ved din destination, så der er ingen vej udenom: du skal forny passet, før du rejser internationalt.
+Nej – et udløbet pas duer ikke til internationale rejser. Flyselskaber kontrollerer gyldigheden, før de udsteder boardingkort, og hvis dit pas er udløbet, nægter de dig adgang til flyet. Grænsekontrollen foretager samme kontrol ved din destination, så der er ingen vej udenom: du skal forny passet, før du rejser internationalt.
 
 Det følgende handler om, hvordan det udspiller sig i praksis: dine begrænsede muligheder, hvorfor tid betyder så meget, og hvad du kan gøre for at undgå panikken ved indcheckningen.
 
 ## Den absolutte regel: ingen international rejse med et udløbet pas
 
-His Majesty's Passport Office er tydelige på dette punkt: dit pas skal være gyldigt på den dag, du rejser - ikke kun ved ankomst, ikke kun for en del af rejsen, men den dag du går om bord på flyet.
+His Majesty's Passport Office er tydelige på dette punkt: dit pas skal være gyldigt på den dag, du rejser – ikke kun ved ankomst, ikke kun for en del af rejsen, men den dag du går om bord på flyet.
 
 Når du checker ind, kører agenten dit passnummer gennem systemet og ser udløbsdatoen. Hvis den ligger i fortiden, udsteder de ikke et boardingkort, og det gør ingen forskel, om du ankommer hjem dagen efter, det udløber. Det samme sker ved grænsekontrollen på din destination: de ser udløbet, de afviser indrejse.
 
 Denne regel gælder al international rejse, både flyrejser til Europa og færgeoverfarter, uanset om du lige er kommet over udløbsdatoen, eller du har booket flere måneder i forvejen. Skal du vise dit pas ved en hvilken som helst grænse, skal det være gyldigt den dag.
 
-Den eneste undtagelse er et britisk nødrejsedokument, udstedt af udenrigsministeriet, når du allerede er i udlandet i en reel nødsituation, og selv da findes det kun for at få dig hjem - ikke for at tillade yderligere rejse.
+Den eneste undtagelse er et britisk nødrejsedokument, udstedt af udenrigsministeriet, når du allerede er i udlandet i en reel nødsituation, og selv da findes det kun for at få dig hjem – ikke for at tillade yderligere rejse.
 
 ## Kan du booke en ferie med et udløbet pas?
 
@@ -48,7 +48,7 @@ Indenrigsrejser i Storbritannien og Irland fungerer lidt anderledes: flyselskabe
 
 **Det betyder ikke, at du kan undlade at forny dit pas.** Flyselskaber har forskellige politikker for indenrigsruter: nogle kræver pas til al rejse til Irland, selvom Common Travel Area teknisk set tillader rejse med ID-kort, mens andre accepterer et kørekort. Flyselskaber opdaterer også deres regler, og dit flyselskab kan have ændret sine, siden du sidst fløj, så du kan ikke gå ud fra, at det, der virkede før, virker igen.
 
-Overvejer du en indenrigsrejse med et udløbet pas, skal du kontakte dit flyselskab mindst 48 timer før afgang og spørge direkte: "Mit britiske pas er udløbet. Accepterer I mit britiske kørekort i stedet?" Få bekræftelsen skriftligt, hvis du kan, for det er sådan, folk går glip af deres fly - ved at møde op til indcheckning med alternativ legitimation og ingen forudgående bekræftelse.
+Overvejer du en indenrigsrejse med et udløbet pas, skal du kontakte dit flyselskab mindst 48 timer før afgang og spørge direkte: "Mit britiske pas er udløbet. Accepterer I mit britiske kørekort i stedet?" Få bekræftelsen skriftligt, hvis du kan, for det er sådan, folk går glip af deres fly – ved at møde op til indcheckning med alternativ legitimation og ingen forudgående bekræftelse.
 
 ## Nødfornyelse: vejen via Premiumtjenesten
 
@@ -70,7 +70,7 @@ Den eneste gråzone er, hvordan flyselskaber og grænsekontrol håndterer pas, d
 
 ## Rejseforsikring og udløbne dokumenter
 
-De fleste rejseforsikringer indeholder en ugyldighedsklausul for udløbne eller ugyldige rejsedokumenter. Forsikringsselskaber kan afvise hele dit erstatningskrav, hvis du rejste med et udløbet pas - formuleringen lyder typisk noget i retning af: "Denne police er ugyldig, hvis forsikringstageren rejste med et ugyldigt eller udløbet rejsedokument."
+De fleste rejseforsikringer indeholder en ugyldighedsklausul for udløbne eller ugyldige rejsedokumenter. Forsikringsselskaber kan afvise hele dit erstatningskrav, hvis du rejste med et udløbet pas – formuleringen lyder typisk noget i retning af: "Denne police er ugyldig, hvis forsikringstageren rejste med et ugyldigt eller udløbet rejsedokument."
 
 Det gælder, uanset om dit pas udløb, før du forlod Storbritannien, eller mens du var i udlandet, og uanset om rejsen var en weekendtur eller en tre måneder lang jordomrejse. Blot én dag over passets udløbsdato kan vælte et ellers gyldigt erstatningskrav.
 
@@ -88,7 +88,7 @@ At sætte påmindelser måneder i forvejen i stedet for at skulle hastes igennem
 
 ## Almindelige misforståelser om pasgyldighed
 
-Rejsende forveksler ofte deres pas' egen gyldighedsdato med destinationsspecifikke regler. Dit pas er gyldigt frem til den dato, der står trykt i det - det er udgangspunktet. Men nogle lande kræver, at det forbliver gyldigt i en bestemt periode ud over din ankomstdato, og det er et separat krav fra selve udløbet.
+Rejsende forveksler ofte deres pas' egen gyldighedsdato med destinationsspecifikke regler. Dit pas er gyldigt frem til den dato, der står trykt i det – det er udgangspunktet. Men nogle lande kræver, at det forbliver gyldigt i en bestemt periode ud over din ankomstdato, og det er et separat krav fra selve udløbet.
 
 [Mange lande håndhæver en seksmånedersregel, der kræver, at dit pas forbliver gyldigt i mindst seks måneder efter din planlagte afrejsedato](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/), mens nogle håndhæver tre måneder og andre en måned. Ingen af disse regler tillader rejse med et udløbet pas, fordi de sætter en strengere standard, hvor fornyelse skal ske endnu tidligere end passets eget udløb.
 

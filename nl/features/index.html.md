@@ -46,7 +46,7 @@ Pro
 
 ### Reistoelages
 
-Bepaal aangepaste daglimieten per land en per gezinslid. Stel uw eigen doelen in om bewust te blijven van hoeveel dagen u in het buitenland hebt doorgebracht - wat uw reisregels ook zijn.
+Bepaal aangepaste daglimieten per land en per gezinslid. Stel uw eigen doelen in om bewust te blijven van hoeveel dagen u in het buitenland hebt doorgebracht – wat uw reisregels ook zijn.
 
 Pro
 
@@ -58,7 +58,7 @@ Pro
 
 ### Poort Klaar
 
-Bevestig vluchtnummers, hotelbevestigingen en boeking-referenties aan een reis. Documenten en boekingen op één plaats - tik eenmaal bij inchecken. Niets om te zoeken.
+Bevestig vluchtnummers, hotelbevestigingen en boeking-referenties aan een reis. Documenten en boekingen op één plaats – tik eenmaal bij inchecken. Niets om te zoeken.
 
 Documentbeheer
 
@@ -70,7 +70,7 @@ Leg zowel de fotopagina als de gegevenspagina vast. MRZ-scanning leest de machin
 
 ### Versleutelde Opslag
 
-Documenten zijn versleuteld op schijf met AES-256-GCM. Bestanden zijn onleesbaar zonder uw ontsleutelingssleutels - zelfs als iemand fysieke toegang tot uw apparaat krijgt.
+Documenten zijn versleuteld op schijf met AES-256-GCM. Bestanden zijn onleesbaar zonder uw ontsleutelingssleutels – zelfs als iemand fysieke toegang tot uw apparaat krijgt.
 
 ### ID's en Rijbewijzen
 
@@ -120,7 +120,7 @@ Sla cadeaukaarten, kortingscodes, evenemententickets en attractiepassen op. Ontv
 
 ### Herinneringen Uitstellen
 
-Stel een vervaldatum herinnering uit zonder het document te bewerken. Stel uit voor een dag, een week of een maand - de herinnering wordt automatisch hervat wanneer de uitstelperiode eindigt.
+Stel een vervaldatum herinnering uit zonder het document te bewerken. Stel uit voor een dag, een week of een maand – de herinnering wordt automatisch hervat wanneer de uitstelperiode eindigt.
 
 ### Documenten Kleurcoderen
 
@@ -288,7 +288,7 @@ Deel meerdere originele documentbestanden tegelijk via het deelvenster van uw ap
 
 #### Veilig Verwijderen met Ongedaan Maken
 
-Per ongeluk een document verwijderd? Tik onmiddellijk op Ongedaan maken om het te herstellen. Het venster gemist? Het gaat naar Onlangs verwijderd, waar het 30 dagen blijft voordat het permanent wordt verwijderd - u een veiligheidsnet geven zonder uw privacy in gevaar te brengen.
+Per ongeluk een document verwijderd? Tik onmiddellijk op Ongedaan maken om het te herstellen. Het venster gemist? Het gaat naar Onlangs verwijderd, waar het 30 dagen blijft voordat het permanent wordt verwijderd – u een veiligheidsnet geven zonder uw privacy in gevaar te brengen.
 
 **Belangrijk:** Travel Document Vault is een persoonlijk organisatiehulpmiddel voor het opslaan van digitale kopieën van uw documenten. **Digitale kopieën die in deze app zijn opgeslagen zijn NIET geldig voor reizen.** De app verifieert geen documentauthenticiteit en geeft geen juridisch of reisadvies. Draag altijd originele documenten bij u en controleer alle reiseisen via officiële overheidsinstanties.
 

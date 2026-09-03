@@ -10,13 +10,13 @@ Source: https://traveldocumentvault.com/es/blog/what-documents-to-carry-when-tra
 
 ## Puntos Clave
 
-- La mayoría de viajeros olvidan **cartas de consentimiento** infantil, prueba de vacunación, confirmaciones de alojamiento y prueba de viaje posterior - los documentos de apoyo que los oficiales de inmigración verifican en la puerta.
-- Lleva originales: pasaporte, visas, pases de abordar y cartas de consentimiento. Guarda copias de seguridad digitales por separado en tu teléfono - cifrado y sin conexión.
+- La mayoría de viajeros olvidan **cartas de consentimiento** infantil, prueba de vacunación, confirmaciones de alojamiento y prueba de viaje posterior —los documentos de apoyo que los oficiales de inmigración verifican en la puerta.
+- Lleva originales: pasaporte, visas, pases de abordar y cartas de consentimiento. Guarda copias de seguridad digitales por separado en tu teléfono —cifrado y sin conexión.
 - Los números de póliza de seguro de viaje, números de teléfono del emisor y detalles de cobertura pertenecen tanto en forma física como en una copia de seguridad digital sin conexión accesible sin internet.
 - Muchos países esperan una **carta de consentimiento** para un niño viajando con un solo padre. Sin una, arriesgas ser negado embarque.
 - Las copias digitales sin conexión guardadas por separado de los documentos físicos son tu mejor protección si tu bolsa se pierde o roba en el extranjero.
 
-Los viajeros frecuentemente descubren que han pasado por alto cartas de consentimiento, certificados de vacunación, confirmaciones de alojamiento y prueba de viaje posterior solo cuando llegan al aeropuerto - documentos que se sienten menos importantes que un pasaporte pero importan exactamente igual.
+Los viajeros frecuentemente descubren que han pasado por alto cartas de consentimiento, certificados de vacunación, confirmaciones de alojamiento y prueba de viaje posterior solo cuando llegan al aeropuerto —documentos que se sienten menos importantes que un pasaporte pero importan exactamente igual.
 
 Para la lista completa de todos los documentos que podrías necesitar por tipo de viaje y etapa, ve a [la lista completa de documentos de viaje](https://traveldocumentvault.com/es/blog/travel-document-checklist/). Este artículo profundiza en lo que se olvida y cómo prepararse para perder documentos en el extranjero.
 
@@ -26,19 +26,19 @@ Tu pasaporte y visa se sienten urgentes, así que se empacan primero. Pero los o
 
 ### Prueba de viaje posterior
 
-Una cantidad sorprendente de países quiere evidencia de que planeas irte - un vuelo de regreso, una reserva posterior a otro país, o incluso un boleto de autocar o ferry generalmente sirve. Mantener una copia impresa o digital en tu equipaje de mano significa que no enfrentarás retrasos en la inmigración.
+Una cantidad sorprendente de países quiere evidencia de que planeas irte —un vuelo de regreso, una reserva posterior a otro país, o incluso un boleto de autocar o ferry generalmente sirve. Mantener una copia impresa o digital en tu equipaje de mano significa que no enfrentarás retrasos en la inmigración.
 
 ### Confirmaciones de alojamiento
 
-Algunos países piden ver prueba de tu primera noche de reserva, ya sea una confirmación de hotel, un Airbnb o un hostal. El oficial quiere prueba de que tienes dónde quedarte, así que descarga una copia en tu teléfono sin conexión - el email no ayudará en la frontera.
+Algunos países piden ver prueba de tu primera noche de reserva, ya sea una confirmación de hotel, un Airbnb o un hostal. El oficial quiere prueba de que tienes dónde quedarte, así que descarga una copia en tu teléfono sin conexión —el email no ayudará en la frontera.
 
 ### Certificados de vacunación
 
-Ciertos destinos requieren prueba de vacunación para fiebre amarilla u otras enfermedades, y los requisitos cambian periódicamente por destino. Verifica las páginas de consejos de viaje de la OMS 6-8 semanas antes de viajar - no la noche anterior - ya que algunos países solo aceptan certificados amarillos de la OMS oficiales, no fotocopias o fotos digitales.
+Ciertos destinos requieren prueba de vacunación para fiebre amarilla u otras enfermedades, y los requisitos cambian periódicamente por destino. Verifica las páginas de consejos de viaje de la OMS 6-8 semanas antes de viajar —no la noche anterior— ya que algunos países solo aceptan certificados amarillos de la OMS oficiales, no fotocopias o fotos digitales.
 
 ### Detalles del seguro de viaje
 
-Necesitarás acceso inmediato a tu número de póliza, detalles de contacto del emisor y tu línea directa de emergencia 24 horas. Algunos tipos de visa explícitamente requieren prueba de seguro de viaje - las solicitudes de visa Schengen, por ejemplo, requieren seguro médico cubriendo cuidado de emergencia y hospitalización. Pero más importante, si algo sale mal en el extranjero, necesitas estos detalles sin confiar en acceso a email o internet.
+Necesitarás acceso inmediato a tu número de póliza, detalles de contacto del emisor y tu línea directa de emergencia 24 horas. Algunos tipos de visa explícitamente requieren prueba de seguro de viaje —las solicitudes de visa Schengen, por ejemplo, requieren seguro médico cubriendo cuidado de emergencia y hospitalización. Pero más importante, si algo sale mal en el extranjero, necesitas estos detalles sin confiar en acceso a email o internet.
 
 ### Cartas de consentimiento de viaje infantil
 
@@ -68,11 +68,11 @@ Las fronteras quieren documentos originales, pero si esos originales desaparecen
 - La carta de consentimiento infantil, si estás llevando una
 - Números de contacto de emergencia para tu embajada
 
-Guarda estos en tu teléfono usando una aplicación sin conexión y cifrada - no tu rollo de cámara, no Google Photos, no iCloud. Si tus documentos físicos desaparecen, aún tienes todo lo que necesitas para contactar tu embajada y probar quién eres.
+Guarda estos en tu teléfono usando una aplicación sin conexión y cifrada —no tu rollo de cámara, no Google Photos, no iCloud. Si tus documentos físicos desaparecen, aún tienes todo lo que necesitas para contactar tu embajada y probar quién eres.
 
 ## Cómo Mantener los Detalles del Seguro de Viaje Accesibles
 
-La mayoría de viajeros compran seguro de viaje pero olvidan hacer los detalles de la póliza inmediatamente accesibles - lo que significa que cuando una emergencia médica o equipaje perdido sucede en el extranjero, estás buscando a través de emails en lugar de llamar para obtener ayuda. Nuestra guía sobre [qué documentos del seguro de viaje guardar antes de partir](https://traveldocumentvault.com/es/blog/travel-insurance-documents/) explica qué conservar y dónde guardarlo.
+La mayoría de viajeros compran seguro de viaje pero olvidan hacer los detalles de la póliza inmediatamente accesibles —lo que significa que cuando una emergencia médica o equipaje perdido sucede en el extranjero, estás buscando a través de emails en lugar de llamar para obtener ayuda. Nuestra guía sobre [qué documentos del seguro de viaje guardar antes de partir](https://traveldocumentvault.com/es/blog/travel-insurance-documents/) explica qué conservar y dónde guardarlo.
 
 Detalles específicos a tener a mano, tanto en papel como digitalmente:
 
@@ -93,11 +93,11 @@ Una carta de consentimiento típicamente debe incluir el nombre completo del ni�
 
 Qué significa esto en la práctica
 
-Estás abordando un vuelo a Canadá con tu hijo de 8 años y tu pareja no está viajando. El personal de check-in puede rehusar embarcar a tu hijo si no puedes mostrar consentimiento por escrito de tu pareja ausente, preferiblemente notarizado. Si tu hijo está viajando con sus abuelos en lugar de contigo, típicamente ambos padres necesitan firmar la carta de consentimiento - el permiso de un solo padre generalmente no es suficiente. Siempre verifica los requisitos exactos para tu destino bien antes de tu fecha de salida.
+Estás abordando un vuelo a Canadá con tu hijo de 8 años y tu pareja no está viajando. El personal de check-in puede rehusar embarcar a tu hijo si no puedes mostrar consentimiento por escrito de tu pareja ausente, preferiblemente notarizado. Si tu hijo está viajando con sus abuelos en lugar de contigo, típicamente ambos padres necesitan firmar la carta de consentimiento —el permiso de un solo padre generalmente no es suficiente. Siempre verifica los requisitos exactos para tu destino bien antes de tu fecha de salida.
 
 ## El Caso de Las Copias Digitales Sin Conexión
 
-Los documentos físicos ayudan hasta que un ladrón se lleva tu bolsa - y generalmente se lleva las copias junto con los originales. Una copia de seguridad cifrada separada en tu teléfono - guardada sin conexión - es tu verdadero seguro si los originales desaparecen.
+Los documentos físicos ayudan hasta que un ladrón se lleva tu bolsa —y generalmente se lleva las copias junto con los originales. Una copia de seguridad cifrada separada en tu teléfono —guardada sin conexión— es tu verdadero seguro si los originales desaparecen.
 
 Cuando tu embajada necesita emitir un documento de viaje de emergencia, una copia de seguridad segura les da tu número de pasaporte, fecha de emisión, lugar de emisión y fecha de expiración instantáneamente, sin acceso a internet. Para más información sobre las opciones disponibles, ve nuestra descripción general de [cómo guardar copias de pasaporte de forma segura](https://traveldocumentvault.com/es/blog/is-it-safe-to-store-passport-in-google-photos/) y los compromisos entre diferentes enfoques.
 
@@ -119,7 +119,7 @@ Sí, en muchos países se espera. Si un niño viaja internacionalmente con solo 
 
 ### ¿Debo mantener copias de seguridad digitales de mis documentos?
 
-Sí. Almacena copias cifradas sin conexión en tu teléfono - no en tu rollo de cámara o almacenamiento en la nube. Si tus documentos físicos se pierden o roban en el extranjero, estas copias de seguridad permiten que tu embajada procese un documento de viaje de emergencia mucho más rápido. Deben incluir número de pasaporte, fecha de emisión, lugar de emisión, número de póliza de seguro y referencias de reserva.
+Sí. Almacena copias cifradas sin conexión en tu teléfono —no en tu rollo de cámara o almacenamiento en la nube. Si tus documentos físicos se pierden o roban en el extranjero, estas copias de seguridad permiten que tu embajada procese un documento de viaje de emergencia mucho más rápido. Deben incluir número de pasaporte, fecha de emisión, lugar de emisión, número de póliza de seguro y referencias de reserva.
 
 ### ¿Qué pasa si llego al aeropuerto sin un documento requerido?
 

@@ -22,7 +22,7 @@ AES-256-GCM är stark, modern kryptering, och återställningskoden lämnar aldr
 
 ### Ladda upp till din molnlagring
 
-Den krypterade säkerhetskopian går till ditt personliga iCloud- eller Google Drive-konto, inte till våra servrar - det är din molnlagring och ditt konto.
+Den krypterade säkerhetskopian går till ditt personliga iCloud- eller Google Drive-konto, inte till våra servrar – det är din molnlagring och ditt konto.
 
 Du kan se och hantera dina säkerhetskopior direkt i ditt iCloud eller Google Drive. Du har full kontroll.
 
@@ -30,9 +30,9 @@ Du kan se och hantera dina säkerhetskopior direkt i ditt iCloud eller Google Dr
 
 ### Bara du håller nyckeln
 
-Din återställningskod är nyckeln för att dekryptera dina säkerhetskopior, och den lämnar aldrig din enhet - aldrig skickas till oss, Apple eller Google.
+Din återställningskod är nyckeln för att dekryptera dina säkerhetskopior, och den lämnar aldrig din enhet – aldrig skickas till oss, Apple eller Google.
 
-Spara din återställningskod på en säker plats, för utan den kan inte ens vi återställa dina data - detta är avsiktligt, inte en bugg.
+Spara din återställningskod på en säker plats, för utan den kan inte ens vi återställa dina data – detta är avsiktligt, inte en bugg.
 
 4
 
@@ -68,7 +68,7 @@ Flera säkerhetslager står mellan en oavsiktlig tryckning och förlorad data.
 
 Din återställningskod är den enda nyckeln för att dekryptera säkerhetskopian. Vi har en noll-kunskap-design, vilket betyder att vi inte kan återställa den åt dig. Om du förlorar den blir säkerhetskopian oåterkallig.
 
-Spara din återställningskod på en säker plats innan du förlitar dig på molnsäkerhetskopia - antingen en lösenordshanterare, en utskriven kopia på en säker plats, eller båda - och verifiera att du kan läsa den igen innan du lagrar den som din enda kopia.
+Spara din återställningskod på en säker plats innan du förlitar dig på molnsäkerhetskopia – antingen en lösenordshanterare, en utskriven kopia på en säker plats, eller båda – och verifiera att du kan läsa den igen innan du lagrar den som din enda kopia.
 
 ### Enhetskrav
 
