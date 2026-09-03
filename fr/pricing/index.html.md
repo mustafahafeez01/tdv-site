@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/fr/pricing/
 
 ---
 
-Achat unique. Pas d'abonnements. Pas de frais cachés. Pas d'extraction de données.
+$9.99, une seule fois. Pas d'abonnement, pas de frais cachés, pas d'extraction de données.
+
+Prix en dollars américains. Nous fixons le prix de chaque pays localement plutôt que de le convertir depuis le dollar, et l'App Store ou Google Play affiche votre prix avant que vous ne payiez.
 
 Nous n'avons pas de serveurs qui conservent ou peuvent lire vos documents. Tout reste sur votre appareil. C'est pourquoi nous pouvons offrir un prix unique au lieu d'abonnements sans fin.
 
@@ -31,7 +33,7 @@ Meilleure Valeur
 
 ### Pro
 
-One-time
+$9.99, achat unique
 
 Pour toute votre famille. Payez une fois. Toutes les mises à jour v1.x incluses, pour toujours.
 
@@ -72,7 +74,11 @@ Pour les familles
 
 Déverrouiller le coffre-fort complet pour votre famille
 
-One-time une seule fois Pour toute votre famille. Payez une fois. Toutes les mises à jour v1.x incluses, pour toujours.
+$9.99 une seule fois
+
+USD. Le prix de votre pays est fixé localement plutôt que converti depuis le dollar, et l'App Store ou Google Play l'affiche avant que vous ne payiez.
+
+Pour toute votre famille. Payez une fois. Toutes les mises à jour v1.x incluses, pour toujours.
 
 [À propos de notre politique de version →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/sv/pricing/
 
 ---
 
-Engångsköp. Inga prenumerationer. Inga dolda avgifter. Ingen datainsamling.
+$9.99, engångsköp. Inga prenumerationer, inga dolda avgifter, ingen datainsamling.
+
+Priset anges i amerikanska dollar. Vi fastställer priset för varje land lokalt istället för att räkna om det från dollar, och App Store eller Google Play visar ditt pris innan du betalar.
 
 Vi driver inga servrar som någonsin kan innehålla eller läsa dina dokument. Allt förblir på din enhet. Det är därför vi kan erbjuda ett engångspris istället för oändliga prenumerationer.
 
@@ -31,7 +33,7 @@ Bäst värde
 
 ### Pro
 
-One-time
+$9.99 engångsköp
 
 För din hela familj. Betala en gång. Alla v1.x-uppdateringar ingår, för alltid.
 
@@ -72,7 +74,11 @@ För familjer
 
 Låsa upp det fullständiga valvet för din familj
 
-One-time engångsköp För din hela familj. Betala en gång. Alla v1.x-uppdateringar ingår, för alltid.
+$9.99 engångsköp
+
+USD. Priset för ditt land fastställs lokalt istället för att räknas om från dollar, och App Store eller Google Play visar det innan du betalar.
+
+För din hela familj. Betala en gång. Alla v1.x-uppdateringar ingår, för alltid.
 
 [Om vår versionspolicy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

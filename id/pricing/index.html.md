@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/id/pricing/
 
 ---
 
-Pembayaran satu kali. Tidak ada langganan. Tidak ada biaya tersembunyi. Tidak ada pemanenan data.
+$9.99, pembayaran satu kali. Tidak ada langganan. Tidak ada biaya tersembunyi. Tidak ada pemanenan data.
+
+Harga dalam dolar AS. Kami menetapkan harga masing-masing negara secara lokal, bukan dengan mengonversi dari dolar, dan App Store atau Google Play akan menampilkan harga Anda sebelum Anda membayar.
 
 Kami tidak menjalankan server yang pernah menyimpan atau dapat membaca dokumen Anda. Semuanya tetap berada di perangkat Anda. Itulah mengapa kami dapat menawarkan harga satu kali alih-alih langganan yang tidak pernah berakhir.
 
@@ -31,7 +33,7 @@ Nilai Terbaik
 
 ### Pro
 
-One-time
+$9.99 satu kali
 
 Untuk seluruh keluarga Anda. Bayar sekali. Semua pembaruan v1.x disertakan, selamanya.
 
@@ -72,7 +74,11 @@ Untuk keluarga
 
 Buka brankas penuh untuk keluarga Anda
 
-One-time satu kali Untuk seluruh keluarga Anda. Bayar sekali. Semua pembaruan v1.x disertakan, selamanya.
+$9.99 satu kali
+
+Harga dalam dolar AS. Kami menetapkan harga masing-masing negara secara lokal, bukan dengan mengonversi dari dolar, dan App Store atau Google Play akan menampilkan harga Anda sebelum Anda membayar.
+
+Untuk seluruh keluarga Anda. Bayar sekali. Semua pembaruan v1.x disertakan, selamanya.
 
 [Tentang kebijakan versi kami →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

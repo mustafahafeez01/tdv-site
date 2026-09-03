@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/zh-Hans/pricing/
 
 ---
 
-一次性购买。无订阅。无隐藏费用。无数据收集。
+$9.99，一次性购买。无订阅。无隐藏费用。无数据收集。
+
+价格以美元计价。我们按各国当地情况单独定价，而非按汇率换算，App Store 或 Google Play 会在您付款前显示您所在地区的价格。
 
 我们不运行任何可能存储或访问您文件的服务器。一切都保留在您的设备上。这就是为什么我们可以提供一次性价格而不是无尽订阅。
 
@@ -31,7 +33,7 @@ Source: https://traveldocumentvault.com/zh-Hans/pricing/
 
 ### Pro
 
-One-time
+$9.99 一次性
 
 适合您的整个家庭。一次付费。所有 v1.x 更新永久包含。
 
@@ -72,7 +74,11 @@ One-time
 
 为您的家庭解锁完整保险库
 
-One-time 一次性 适合您的整个家庭。一次付费。所有 v1.x 更新永久包含。
+$9.99 一次性
+
+价格以美元计价。我们按各国当地情况单独定价，而非按汇率换算，App Store 或 Google Play 会在您付款前显示您所在地区的价格。
+
+适合您的整个家庭。一次付费。所有 v1.x 更新永久包含。
 
 [关于我们的版本政策 →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

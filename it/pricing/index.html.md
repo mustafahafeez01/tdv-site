@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/it/pricing/
 
 ---
 
-Pagamento unico. Nessun abbonamento. Nessun costo nascosto. Nessun raccolta di dati.
+$9.99, pagamento unico. Nessun abbonamento, nessun costo nascosto, nessuna raccolta di dati.
+
+Prezzo in dollari statunitensi. Fissiamo il prezzo di ogni paese a livello locale anziché convertirlo dal dollaro, e l'App Store o Google Play mostra il Suo prezzo prima dell'acquisto.
 
 Non gestiamo server che abbiano mai tenuto o potessero leggere i Suoi documenti. Tutto rimane sul Suo dispositivo. È per questo che possiamo offrire un prezzo una tantum al posto di abbonamenti infiniti.
 
@@ -31,7 +33,7 @@ Miglior Valore
 
 ### Pro
 
-One-time
+$9.99, pagamento unico
 
 Per tutta la Sua famiglia. Pagamento unico. Tutti gli aggiornamenti v1.x inclusi, per sempre.
 
@@ -72,7 +74,11 @@ Per le famiglie
 
 Sblocchi il caveau completo per la Sua famiglia
 
-One-time una volta Per tutta la Sua famiglia. Pagamento unico. Tutti gli aggiornamenti v1.x inclusi, per sempre.
+$9.99 una volta
+
+USD. Il prezzo del Suo paese è fissato a livello locale anziché convertito dal dollaro, e l'App Store o Google Play lo mostra prima dell'acquisto.
+
+Per tutta la Sua famiglia. Pagamento unico. Tutti gli aggiornamenti v1.x inclusi, per sempre.
 
 [Informazioni sulla nostra politica di versione →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

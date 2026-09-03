@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/de/pricing/
 
 ---
 
-Einmalkauf. Keine Abos. Keine versteckten Gebühren. Keine Datenernte.
+$9.99, einmalig. Keine Abos, keine versteckten Gebühren, keine Datenernte.
+
+Der Preis ist in US-Dollar angegeben. Wir legen den Preis für jedes Land lokal fest, statt ihn aus Dollar umzurechnen, und der App Store oder Google Play zeigt Ihnen Ihren Preis, bevor Sie bezahlen.
 
 Wir betreiben keine Server, die jemals Ihre Dokumente halten oder lesen können. Alles bleibt auf Ihrem Gerät. Deshalb können wir einen einmaligen Preis statt endloser Abos anbieten.
 
@@ -31,7 +33,7 @@ Beste Wahl
 
 ### Pro
 
-One-time
+$9.99 einmalig
 
 Für Ihre ganze Familie. Zahlen Sie einmal. Alle v1.x-Updates enthalten, für immer.
 
@@ -72,7 +74,11 @@ Für Familien
 
 Entsperren Sie den vollständigen Tresor für Ihre Familie
 
-One-time einmalig Für Ihre ganze Familie. Zahlen Sie einmal. Alle v1.x-Updates enthalten, für immer.
+$9.99 einmalig
+
+USD. Der Preis für Ihr Land wird lokal festgelegt, statt aus Dollar umgerechnet, und der App Store oder Google Play zeigt ihn Ihnen, bevor Sie bezahlen.
+
+Für Ihre ganze Familie. Zahlen Sie einmal. Alle v1.x-Updates enthalten, für immer.
 
 [Weitere Informationen zu unserer Versionierungsrichtlinie →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

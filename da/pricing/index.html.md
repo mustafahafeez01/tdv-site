@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/da/pricing/
 
 ---
 
-Engangskøb. Ingen abonnementer. Ingen skjulte gebyrer. Ingen dataindsamling.
+$9.99, engangskøb. Ingen abonnementer, ingen skjulte gebyrer, ingen dataindsamling.
+
+Prisen er angivet i amerikanske dollar. Vi fastsætter prisen for hvert land lokalt i stedet for at omregne den fra dollar, og App Store eller Google Play viser din pris, før du betaler.
 
 Vi driver ingen servere, der nogensinde kan holde eller læse dine dokumenter. Alt bliver på din enhed. Det er derfor vi kan tilbyde en engangspris i stedet for endeløse abonnementer.
 
@@ -31,7 +33,7 @@ Bedste værdi
 
 ### Pro
 
-One-time
+$9.99 engangskøb
 
 Til hele din familie. Betale én gang. Alle v1.x-opdateringer inkluderet, for altid.
 
@@ -72,7 +74,11 @@ For familier
 
 Lås hele pengeskabet op til din familie
 
-One-time engangskøb Til hele din familie. Betale én gang. Alle v1.x-opdateringer inkluderet, for altid.
+$9.99 engangskøb
+
+USD. Prisen for dit land fastsættes lokalt i stedet for at blive omregnet fra dollar, og App Store eller Google Play viser den, før du betaler.
+
+Til hele din familie. Betale én gang. Alle v1.x-opdateringer inkluderet, for altid.
 
 [Om vores versionspolitik →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

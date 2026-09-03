@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/nl/pricing/
 
 ---
 
-Eenmalige aankoop. Geen abonnementen. Geen verborgen kosten. Geen gegevensverzameling.
+$9.99, eenmalig. Geen abonnementen, geen verborgen kosten, geen gegevensverzameling.
+
+De prijs is in Amerikaanse dollar. We stellen de prijs per land lokaal vast in plaats van deze om te rekenen vanuit dollars, en de App Store of Google Play toont u uw prijs voordat u betaalt.
 
 We voeren geen servers die ooit uw documenten kunnen bevatten of lezen. Alles blijft op uw apparaat. Daarom kunnen we een eenmalige prijs bieden in plaats van eindeloze abonnementen.
 
@@ -31,7 +33,7 @@ Beste waarde
 
 ### Pro
 
-One-time
+$9.99 eenmalig
 
 Voor uw hele gezin. Eenmalig betalen. Alle v1.x-updates inbegrepen, voor altijd.
 
@@ -72,7 +74,11 @@ Voor gezinnen
 
 Ontgrendel de volledige kluis voor uw gezin
 
-One-time eenmalig Voor uw hele gezin. Eenmalig betalen. Alle v1.x-updates inbegrepen, voor altijd.
+$9.99 eenmalig
+
+USD. De prijs voor uw land wordt lokaal vastgesteld in plaats van omgerekend vanuit dollars, en de App Store of Google Play toont deze voordat u betaalt.
+
+Voor uw hele gezin. Eenmalig betalen. Alle v1.x-updates inbegrepen, voor altijd.
 
 [Over ons versiebeleid →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

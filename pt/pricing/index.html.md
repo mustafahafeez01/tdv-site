@@ -6,7 +6,9 @@ Source: https://traveldocumentvault.com/pt/pricing/
 
 ---
 
-Compra única. Sem subscrições. Sem taxas ocultas. Sem recolha de dados.
+$9.99, uma única vez. Sem subscrição, sem taxas ocultas, sem recolha de dados.
+
+Preço em dólares americanos. Definimos o preço de cada país localmente em vez de o converter a partir do dólar, e a App Store ou a Google Play mostra o seu antes de pagar.
 
 Não executamos servidores que alguma vez detêm ou podem ler os seus documentos. Tudo permanece no seu dispositivo. É por isso que podemos oferecer um preço único em vez de subscrições sem fim.
 
@@ -31,7 +33,7 @@ Melhor Valor
 
 ### Pro
 
-One-time
+$9.99, compra única
 
 Para toda a sua família. Pague uma vez. Todas as atualizações v1.x incluídas, para sempre.
 
@@ -72,7 +74,11 @@ Para famílias
 
 Desbloqueie o cofre completo para a sua família
 
-One-time compra única Para toda a sua família. Pague uma vez. Todas as atualizações v1.x incluídas, para sempre.
+$9.99 compra única
+
+USD. O preço do seu país é definido localmente em vez de convertido a partir do dólar, e a App Store ou a Google Play mostra-o antes de pagar.
+
+Para toda a sua família. Pague uma vez. Todas as atualizações v1.x incluídas, para sempre.
 
 [Sobre a nossa política de versão →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
