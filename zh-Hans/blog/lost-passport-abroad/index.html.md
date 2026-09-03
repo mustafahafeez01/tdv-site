@@ -24,6 +24,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/lost-passport-abroad/
 
 当您到达大使馆时，他们会要求您的护照号码、签发日期、签发地点和过期日期。如果您没有副本，您会在压力下尝试回忆这些。有了副本，您可以在几秒钟内交付。**当您携带已写下的详细信息到达时，领事工作人员能更快地签发更换文件。**
 
+手机里的副本只是一份记录，不是身份证件，这两者很容易被混为一谈。事先了解清楚[数字护照副本在哪些场合被接受、哪些场合仍需出示原件](https://traveldocumentvault.com/zh-Hans/blog/digital-passport-copy-valid/)，会很有帮助。
+
 ## 步骤1：确认护照真的丢失了
 
 在假设最坏情况之前检查所有地方——夹克口袋、每个包隔间、酒店保险箱、最后坐的出租车或餐厅。如果它真的丢失或被盗，请毫不延迟地进行剩余步骤。
@@ -63,6 +65,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/lost-passport-abroad/
 ## 步骤5：通知您的旅行保险公司
 
 尽快向您的旅行保险公司报告丢失。大多数全面的保单涵盖护照更换费用、紧急护照费用，有时还涵盖延误导致的额外住宿。保留每份收据——您需要它们来提出索赔，以及警方报告号码。
+
+如果保单号码和24小时热线已经随手可查，而不是压在打不开的邮箱深处，您就能更早打这通电话。我们关于[出发前该保存哪些旅行保险文件](https://traveldocumentvault.com/zh-Hans/blog/travel-insurance-documents/)的指南列出了应该离线保存的内容。
 
 ## 步骤6：检查您的签证情况
 

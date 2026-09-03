@@ -43,6 +43,8 @@ Keluarga beranggotakan empat orang tidak ingin menggunakan empat aplikasi terpis
 
 Namun hal itu hanya benar jika aplikasi menyimpan semuanya di perangkat dan di balik sebuah kunci. Setiap pelancong membutuhkan profilnya sendiri, bukan satu tumpukan hasil pindaian yang dibagi bersama, dan tidak ada yang boleh tersimpan di folder cloud yang bisa dibuka orang lain. Kunci perangkat di depan seluruh vault, baik itu Face ID, Touch ID, atau PIN, berarti satu ponsel bisa menyimpan dokumen seluruh keluarga tanpa satu pun di antaranya pernah meninggalkan ponsel itu.
 
+Jika yang sebenarnya Anda butuhkan adalah sebuah sistem untuk seluruh rumah tangga, bukan sekadar daftar pendek aplikasi, kami membahas [cara menyimpan paspor beberapa anggota keluarga dengan aman](https://traveldocumentvault.com/id/blog/family-passport-management/) secara lebih mendalam di artikel tersebut.
+
 ### Akses luring
 
 Anda memerlukan detail paspor justru pada saat-saat koneksi internet tidak bisa diandalkan: di perbatasan internasional, zona transit, daerah terpencil, atau setelah kehilangan kartu SIM di luar negeri. Jika aplikasi memerlukan koneksi jaringan untuk menampilkan dokumen Anda, aplikasi itu gagal justru pada momen paling kritis.

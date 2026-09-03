@@ -43,6 +43,8 @@ En familj på fyra vill inte ha fyra separata appar. De bästa apparna för att 
 
 Det stämmer bara om appen håller allt på enheten och bakom ett lås. Varje resenär behöver en egen profil i stället för en gemensam hög med skanningar, och inget bör ligga i en molnmapp som någon annan kan öppna. Ett lås framför hela valvet - vare sig det är Face ID, Touch ID eller en PIN-kod - gör att en enda telefon kan hålla hela familjens handlingar utan att någon av dem någonsin lämnar den.
 
+Om det du egentligen behöver är ett system för hela hushållet snarare än en lista med appar att välja mellan, går vi igenom [hur du förvarar flera familjemedlemmars pass säkert](https://traveldocumentvault.com/sv/blog/family-passport-management/) mer i detalj där.
+
 ### Offlineåtkomst
 
 Du behöver dina passuppgifter precis när internetuppkopplingen är som mest opålitlig: vid internationella gränser, i transitzoner, på landsbygden, eller efter att ha tappat SIM-kortet utomlands. Kräver appen en nätverksanslutning för att visa dina handlingar sviker den dig i det mest kritiska ögonblicket.

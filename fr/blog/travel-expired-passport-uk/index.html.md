@@ -40,6 +40,8 @@ La bonne question n'est donc pas de savoir si vous pouvez réserver, mais si le 
 
 Si les délais semblent serrés, l'ordre le plus sûr consiste à renouveler d'abord, puis à réserver une fois le nouveau passeport en main. Les compagnies aériennes ne sont généralement pas tenues de rembourser un billet que vous ne pouvez pas utiliser, et l'assurance voyage couvre rarement un document dont vous saviez qu'il était expiré. Notre guide sur [la durée du renouvellement de passeport](https://traveldocumentvault.com/fr/blog/how-long-does-passport-renewal-take/) détaille les délais habituels.
 
+Un renouvellement déjà en cours est une autre question, qui dépend de si vous avez remis ou non votre ancien passeport. Nous y répondons dans un article dédié : [peut-on voyager avec son ancien passeport pendant le renouvellement](https://traveldocumentvault.com/fr/blog/travel-while-passport-renewal-pending/).
+
 ## Voyages domestiques : flexibilité limitée avec pièce d'identité alternative
 
 Les voyages domestiques au sein du Royaume-Uni et en Irlande diffèrent des voyages internationaux sur ce point clé : les compagnies aériennes peuvent accepter une pièce d'identité avec photo alternative comme un permis de conduire britannique ou une carte d'identité nationale à la place d'un passeport. Cependant, ce qui est acceptable varie considérablement selon la compagnie aérienne et la destination, donc vous ne pouvez pas supposer qu'une pièce d'identité particulière fonctionnera.

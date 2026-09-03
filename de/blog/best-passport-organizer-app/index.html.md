@@ -43,6 +43,8 @@ Eine Familie von vier Personen möchte keine vier separaten Apps. Die besten Rei
 
 Das stimmt allerdings nur, wenn die App alles auf dem Gerät und hinter einer Sperre verwahrt. Jeder Reisende braucht ein eigenes Profil statt eines gemeinsamen Stapels von Scans, und nichts sollte in einem Cloud-Ordner liegen, den auch jemand anderes öffnen könnte. Eine Gerätesperre vor dem gesamten Datentresor – sei es Face ID, Touch ID oder eine PIN – sorgt dafür, dass ein einziges Telefon die Dokumente der ganzen Familie enthalten kann, ohne dass eines davon es je verlässt.
 
+Wenn Sie eigentlich ein System für den ganzen Haushalt brauchen und keine bloße Liste von Apps, gehen wir in einem eigenen Beitrag ausführlicher darauf ein, [wie Sie die Pässe mehrerer Familienmitglieder sicher aufbewahren](https://traveldocumentvault.com/de/blog/family-passport-management/).
+
 ### Offline-Zugriff
 
 Sie benötigen Ihre Reisepass-Details genau zu den Zeiten, wenn der Internetzugriff unzuverlässig ist: internationale Grenzen, Transitzonen, ländliche Gebiete oder nachdem Sie Ihre SIM im Ausland verloren haben. Wenn die App eine Netzwerkverbindung benötigt, um Ihre Dokumente anzuzeigen, schlägt sie im kritischsten Moment fehl.

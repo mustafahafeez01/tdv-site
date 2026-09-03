@@ -40,6 +40,8 @@ Det rigtige spørgsmål er derfor ikke, om du kan booke, men om fornyelsen når 
 
 Ser tidsrammen stram ud, er den sikreste rækkefølge at forny først og booke, når det nye pas er i hånden. Flyselskaber er som regel ikke forpligtede til at refundere en billet, du ikke kan bruge, og rejseforsikringer dækker sjældent et dokument, du vidste var udløbet. Vores guide om [hvor lang tid pasfornyelse tager](https://traveldocumentvault.com/da/blog/how-long-does-passport-renewal-take/) viser, hvordan tidsrammerne typisk ser ud.
 
+Er en fornyelse allerede sat i gang, er det et andet spørgsmål – og det afhænger af, om du har afleveret det gamle pas. Det svarer vi på i en artikel for sig: [om du kan rejse på dit gamle pas, mens fornyelsen står på](https://traveldocumentvault.com/da/blog/travel-while-passport-renewal-pending/).
+
 ## Indenrigsrejser: begrænset fleksibilitet med alternativ legitimation
 
 Indenrigsrejser i Storbritannien og Irland fungerer lidt anderledes: flyselskaber kan acceptere alternativ foto-legitimation som et britisk kørekort eller nationalt ID-kort i stedet for et pas. Hvad der accepteres, varierer dog betydeligt mellem flyselskaber og destinationer, så du kan ikke gå ud fra, at en bestemt legitimation vil virke.

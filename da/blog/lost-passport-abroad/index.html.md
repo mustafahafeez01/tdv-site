@@ -24,6 +24,8 @@ Hvis du læser dette før din rejse, så brug de næste fem minutter på det her
 
 Når du kommer til ambassaden, vil de spørge om dit pasnummer, udstedelsesdato, udstedelsessted og udløbsdato. Uden en kopi prøver du at huske det under stress. Med en kopi giver du oplysningerne videre på få sekunder. **Ambassadepersonale udsteder erstatningsdokumenter hurtigere, når du møder op med oplysningerne allerede skrevet ned.**
 
+En kopi på din telefon er en optegnelse frem for legitimation, og de to bliver let forvekslet. Det er værd at vide på forhånd, [hvor en digital paskopi bliver accepteret, og hvor du stadig skal bruge originalen](https://traveldocumentvault.com/da/blog/digital-passport-copy-valid/).
+
 ## Trin 1: Bekræft at passet virkelig er væk
 
 Tjek overalt, før du antager det værste - jakkelommer, alle rum i tasken, hotellets pengeskab, den sidste taxa eller restaurant. Hvis det virkelig er væk eller stjålet, så gå videre til de næste trin uden forsinkelse.
@@ -63,6 +65,8 @@ Hvad du normalt skal bruge (bekræft med din ambassade, før du møder op):
 ## Trin 5: Giv besked til dit rejseforsikringsselskab
 
 Anmeld tabet til dit rejseforsikringsselskab så hurtigt som muligt. De fleste fuldt dækkende policer dækker udgifterne til et nyt pas, gebyrer for nødpas og nogle gange ekstra overnatning, hvis du bliver forsinket. Gem alle kvitteringer - du får brug for dem til forsikringssagen sammen med sagsnummeret fra politianmeldelsen.
+
+Du kan ringe hurtigere, hvis policenummeret og døgnalarmnummeret allerede ligger fremme frem for begravet i en indbakke, du ikke kan tilgå. Vores guide om [hvilke rejseforsikringsdokumenter du bør gemme, før du rejser](https://traveldocumentvault.com/da/blog/travel-insurance-documents/) viser, hvad du bør gemme offline.
 
 ## Trin 6: Tjek din visumsituation
 

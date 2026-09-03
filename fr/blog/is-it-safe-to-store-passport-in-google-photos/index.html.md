@@ -89,6 +89,8 @@ Si vous êtes un utilisateur iPhone, activer **Advanced Data Protection dans iCl
 
 Si vous souhaitez avoir une copie numérique de passeport à portée de main quand vous voyagez - comme sauvegarde si votre passeport physique est perdu ou volé - il existe des options qui vous donnent une véritable sécurité sans beaucoup d'inconvénients.
 
+Deux choses méritent d'être distinguées d'emblée : garder une copie pour votre propre usage, et s'attendre à ce qu'elle soit acceptée comme pièce d'identité. Ce n'est pas la même chose, et notre article sur [où une copie numérique de passeport est acceptée](https://traveldocumentvault.com/fr/blog/digital-passport-copy-valid/) précise où se situe la limite.
+
 **Gestionnaires de mots de passe chiffrés**
 
 1Password et Bitwarden vous permettent tous deux de stocker des scans de documents en tant que pièces jointes. Ils utilisent un chiffrement sans connaissance - le fournisseur ne peut pas lire votre contenu même s'il le voulait. Vos documents sont chiffrés sur votre appareil avant que quoi que ce soit n'aille à leurs serveurs. C'est un vrai pas en avant par rapport à une bibliothèque de photos cloud générale.

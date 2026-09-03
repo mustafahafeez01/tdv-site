@@ -43,6 +43,8 @@ Una famiglia di quattro non vuole quattro app separate. Le migliori app di organ
 
 Questo è vero solo se l'app mantiene tutto sul dispositivo e dietro un blocco. Ogni viaggiatore ha bisogno di un proprio profilo, non di un unico mucchio di scansioni condivise, e nulla dovrebbe trovarsi in una cartella cloud che chiunque altro potrebbe aprire. Un blocco davanti all'intero archivio, che sia Face ID, Touch ID o un PIN, significa che un solo telefono può contenere i documenti di tutta la famiglia senza che nessuno di essi lasci mai il dispositivo.
 
+Se quello di cui hai davvero bisogno è un sistema per tutta la famiglia, e non un elenco di app tra cui scegliere, ne parliamo più nel dettaglio nella nostra guida su [come conservare in sicurezza i passaporti di più membri della famiglia](https://traveldocumentvault.com/it/blog/family-passport-management/).
+
 ### Accesso offline
 
 Hai bisogno dei dettagli del tuo passaporto proprio nei momenti in cui l'accesso a internet è inaffidabile: confini internazionali, zone di transito, aree rurali o dopo aver perso la tua SIM all'estero. Se l'app richiede una connessione di rete per visualizzare i tuoi documenti, fallisce nel momento più critico.

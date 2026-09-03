@@ -40,6 +40,8 @@ Quindi la domanda giusta da porsi non è se può prenotare, ma se il rinnovo arr
 
 Se i tempi sembrano stretti, l'ordine più sicuro è rinnovare prima e prenotare solo dopo aver ricevuto il nuovo passaporto. Le compagnie aeree generalmente non sono obbligate a rimborsare un biglietto che non può usare, e l'assicurazione di viaggio raramente copre un documento che sapeva essere scaduto. La nostra guida su [quanto tempo richiede il rinnovo del passaporto](https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-take/) spiega come sono di solito i tempi.
 
+Un rinnovo già in corso è una questione diversa, e dipende dal fatto che abbia consegnato o meno il vecchio passaporto. Rispondiamo a questo punto in una pagina dedicata: [se può viaggiare con il vecchio passaporto mentre è in corso il rinnovo](https://traveldocumentvault.com/it/blog/travel-while-passport-renewal-pending/).
+
 ## Viaggi nazionali: Flessibilità limitata con documenti di identità alternativi
 
 I viaggi nazionali all'interno del Regno Unito e dell'Irlanda differiscono dai viaggi internazionali in questo aspetto fondamentale: le compagnie aeree possono accettare documenti di identità fotografica alternativi come una patente di guida britannica o una carta d'identità nazionale al posto del passaporto. Tuttavia, ciò che è accettabile varia significativamente da compagnia a compagnia e destinazione, quindi non può presumere che un particolare documento di identità funzionerà.

@@ -40,6 +40,8 @@ Die eigentliche Frage ist also nicht, ob Sie buchen können, sondern ob die Erne
 
 Wenn die Zeit knapp wird, ist die sicherere Reihenfolge, zuerst zu erneuern und erst zu buchen, sobald der neue Pass vorliegt. Fluggesellschaften sind in der Regel nicht verpflichtet, ein Ticket zu erstatten, das Sie nicht nutzen können, und die Reiseversicherung deckt selten ein Dokument ab, von dem Sie wussten, dass es abgelaufen war. Unser Leitfaden zur [Dauer der Passerneuerung](https://traveldocumentvault.com/de/blog/how-long-does-passport-renewal-take/) zeigt, wie die Fristen üblicherweise aussehen.
 
+Eine Erneuerung, die bereits läuft, ist eine andere Frage – sie hängt davon ab, ob Sie den alten Pass bereits abgegeben haben. Diese beantworten wir auf einer eigenen Seite: [ob Sie mit Ihrem alten Pass reisen können, während die Erneuerung noch läuft](https://traveldocumentvault.com/de/blog/travel-while-passport-renewal-pending/).
+
 ## Inlandverkehr: Begrenzte Flexibilität mit Alternativausweisen
 
 Inlandverkehr im UK und Irland unterscheidet sich von internationalem Verkehr in dieser wichtigen Hinsicht: Fluggesellschaften können alternative Ausweisdokumente wie einen UK-Führerschein oder Personalausweis statt eines Passes akzeptieren. Allerdings ist das, was akzeptabel ist, sehr unterschiedlich je nach Fluggesellschaft und Ziel, daher können Sie nicht davon ausgehen, dass ein bestimmter Ausweis funktioniert.

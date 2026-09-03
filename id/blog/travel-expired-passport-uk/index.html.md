@@ -40,6 +40,8 @@ Jadi pertanyaan yang perlu diajukan bukan apakah Anda bisa memesan, melainkan ap
 
 Jika waktunya tampak mepet, urutan yang lebih aman adalah memperpanjang dulu, baru memesan setelah paspor baru Anda di tangan. Maskapai umumnya tidak berkewajiban mengembalikan uang tiket yang tidak bisa Anda gunakan, dan asuransi perjalanan jarang menanggung dokumen yang Anda tahu sudah kedaluwarsa. Panduan kami tentang [berapa lama perpanjangan paspor berlangsung](https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-take/) menjelaskan perkiraan waktunya.
 
+Jika perpanjangan sudah dalam proses, itu pertanyaan yang berbeda, dan jawabannya tergantung apakah Anda sudah menyerahkan paspor lama. Kami membahasnya secara khusus di halaman lain: [apakah Anda bisa bepergian dengan paspor lama Anda selama masa perpanjangan](https://traveldocumentvault.com/id/blog/travel-while-passport-renewal-pending/).
+
 ## Perjalanan Domestik: Fleksibilitas Terbatas dengan Identitas Alternatif
 
 Perjalanan domestik di dalam Inggris dan Irlandia berlaku sedikit berbeda: maskapai mungkin menerima identitas berfoto alternatif seperti SIM Inggris atau kartu identitas nasional sebagai pengganti paspor. Namun, apa yang diterima sangat bervariasi tergantung maskapai dan tujuan, jadi Anda tidak bisa berasumsi identitas tertentu pasti akan diterima.

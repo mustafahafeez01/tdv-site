@@ -72,13 +72,13 @@ Förvara dessa i telefonen med en offline, krypterad app - inte kamerarullen, in
 
 ## Så håller ni reseförsäkringsuppgifterna tillgängliga
 
-De flesta resenärer köper reseförsäkring men glömmer att göra försäkringsuppgifterna direkt tillgängliga - vilket innebär att när en medicinsk nödsituation eller förlorat bagage inträffar utomlands letar ni bland mejl i stället för att ringa efter hjälp.
+De flesta resenärer köper reseförsäkring men glömmer att göra försäkringsuppgifterna direkt tillgängliga - vilket innebär att när en medicinsk nödsituation eller förlorat bagage inträffar utomlands letar ni bland mejl i stället för att ringa efter hjälp. Vår guide om [vilka reseförsäkringshandlingar ni bör spara innan ni reser](https://traveldocumentvault.com/sv/blog/travel-insurance-documents/) beskriver vad ni ska spara och var.
 
 Specifika uppgifter att ha nära till hands, både på papper och digitalt:
 
 - Försäkringsnummer
 - Dygnet-runt-jourlinje (skiljer sig från vanlig kundtjänst)
-- Ersättningstak för medicinsk hemtransport (avgörande - de här kan kosta tiotusentals kronor)
+- Ersättningstak för medicinsk hemtransport, vilket vanligtvis anges separat från den allmänna sjukvårdstäckningen
 - Eventuella undantag eller villkor som gäller för er resa
 
 Jourlinjenumret bör sparas i telefonens kontakter separat från de fysiska handlingarna. Blir väskan förlorad eller stulen säkerställer detta att ni ändå kan få hjälp utan det fysiska försäkringsbeviset.

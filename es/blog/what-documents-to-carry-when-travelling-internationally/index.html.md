@@ -72,13 +72,13 @@ Guarda estos en tu teléfono usando una aplicación sin conexión y cifrada - no
 
 ## Cómo Mantener los Detalles del Seguro de Viaje Accesibles
 
-La mayoría de viajeros compran seguro de viaje pero olvidan hacer los detalles de la póliza inmediatamente accesibles - lo que significa que cuando una emergencia médica o equipaje perdido sucede en el extranjero, estás buscando a través de emails en lugar de llamar para obtener ayuda.
+La mayoría de viajeros compran seguro de viaje pero olvidan hacer los detalles de la póliza inmediatamente accesibles - lo que significa que cuando una emergencia médica o equipaje perdido sucede en el extranjero, estás buscando a través de emails en lugar de llamar para obtener ayuda. Nuestra guía sobre [qué documentos del seguro de viaje guardar antes de partir](https://traveldocumentvault.com/es/blog/travel-insurance-documents/) explica qué conservar y dónde guardarlo.
 
 Detalles específicos a tener a mano, tanto en papel como digitalmente:
 
 - Número de póliza
 - Línea directa de emergencia 24 horas (esto es diferente del servicio al cliente general)
-- Límites de cobertura para evacuación médica (crucial - estos pueden costar decenas de miles)
+- Límites de cobertura para evacuación médica, que normalmente aparecen por separado de la cobertura médica general
 - Cualesquiera exclusiones o condiciones que apliquen a tu viaje
 
 El número de emergencia debe guardarse en tus contactos de teléfono por separado de los documentos físicos. Si tu bolsa se pierde o roba, esto asegura que aún puedas acceder a ayuda sin tu documento de póliza física.

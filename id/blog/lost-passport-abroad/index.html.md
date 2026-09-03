@@ -24,6 +24,8 @@ Jika Anda membaca ini sebelum berangkat, luangkan lima menit untuk ini. Ambil fo
 
 Saat Anda tiba di kedutaan, mereka akan menanyakan nomor paspor, tanggal penerbitan, tempat penerbitan, dan tanggal kedaluwarsa. Tanpa salinan, Anda harus mengingatnya dalam kondisi stres. Dengan salinan, Anda bisa memberikannya dalam hitungan detik. **Staf konsuler menerbitkan dokumen pengganti lebih cepat ketika Anda datang dengan detail yang sudah tercatat.**
 
+Salinan di ponsel Anda adalah sebuah catatan, bukan identitas resmi, dan keduanya sering tertukar. Ada baiknya mengetahui sejak awal [di mana salinan digital paspor diterima dan di mana Anda tetap memerlukan dokumen aslinya](https://traveldocumentvault.com/id/blog/digital-passport-copy-valid/).
+
 ## Langkah 1: Pastikan Paspor Benar-Benar Hilang
 
 Periksa semua tempat sebelum menyimpulkan yang terburuk - kantong jaket, setiap kompartemen tas, brankas hotel, taksi atau restoran terakhir yang dikunjungi. Jika memang benar-benar hilang atau dicuri, lanjutkan ke langkah berikutnya tanpa menunda.
@@ -63,6 +65,8 @@ Yang biasanya Anda perlukan (konfirmasikan dengan kedutaan Anda sebelum datang):
 ## Langkah 5: Beri Tahu Perusahaan Asuransi Perjalanan Anda
 
 Laporkan kehilangan tersebut kepada perusahaan asuransi perjalanan Anda sesegera mungkin. Sebagian besar polis komprehensif menanggung biaya penggantian paspor, biaya paspor darurat, dan terkadang biaya akomodasi tambahan jika Anda tertunda. Simpan semua kuitansi - Anda akan membutuhkannya untuk klaim, bersama nomor laporan polisi.
+
+Anda bisa menelepon lebih cepat jika nomor polis dan hotline 24 jam sudah tersedia, bukan terkubur di dalam kotak masuk email yang tidak bisa Anda akses. Panduan kami tentang [dokumen asuransi perjalanan mana saja yang perlu disimpan sebelum berangkat](https://traveldocumentvault.com/id/blog/travel-insurance-documents/) mencantumkan apa yang perlu disimpan secara luring.
 
 ## Langkah 6: Periksa Status Visa Anda
 

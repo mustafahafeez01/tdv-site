@@ -43,6 +43,8 @@ Una familia de cuatro no quiere cuatro aplicaciones separadas. Las mejores aplic
 
 Eso solo es cierto si la aplicación guarda todo en el dispositivo y detrás de un bloqueo. Cada viajero necesita su propio perfil, en lugar de un único montón de escaneos compartido, y nada debería quedar guardado en una carpeta en la nube que cualquier otra persona pudiera abrir. Un bloqueo del dispositivo delante de todo el almacén de documentos, ya sea Face ID, Touch ID o un PIN, permite que un solo teléfono guarde los documentos de toda la familia sin que ninguno de ellos salga de él.
 
+Si lo que necesitas de verdad es un sistema para toda la casa y no una lista de aplicaciones, lo explicamos con más detalle en nuestra guía sobre [cómo guardar de forma segura los pasaportes de varios miembros de la familia](https://traveldocumentvault.com/es/blog/family-passport-management/).
+
 ### Acceso sin conexión
 
 Necesitas tus datos de pasaporte precisamente en los momentos cuando el acceso a internet no es fiable: fronteras internacionales, zonas de tránsito, áreas rurales, o después de perder tu SIM en el extranjero. Si la aplicación requiere una conexión de red para mostrar tus documentos, falla en el momento más crítico.

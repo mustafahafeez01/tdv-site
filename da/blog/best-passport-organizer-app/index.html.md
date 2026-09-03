@@ -43,6 +43,8 @@ En familie på fire ønsker ikke fire separate apps. De bedste apps til opbevari
 
 Det er kun sandt, hvis appen holder alt på enheden og bag en lås. Hver rejsende har brug for sin egen profil frem for én fælles bunke af scanninger, og intet bør ligge i en cloud-mappe, som andre kan åbne. En enhedslås foran hele boksen - hvad enten det er Face ID, Touch ID eller en PIN-kode - betyder, at én telefon kan rumme hele familiens dokumenter, uden at nogen af dem nogensinde forlader den.
 
+Har du reelt brug for et system til hele husstanden frem for en kortliste over apps, går vi mere i dybden med [hvordan du opbevarer flere familiemedlemmers pas sikkert](https://traveldocumentvault.com/da/blog/family-passport-management/) på den side.
+
 ### Offline-adgang
 
 Du har brug for dine pasoplysninger, netop når internetforbindelsen er upålidelig: ved internationale grænser, i transitzoner, på landet, eller efter du har mistet dit SIM-kort i udlandet. Kræver appen netværksforbindelse for at vise dine dokumenter, svigter den, lige når det betyder mest.

@@ -40,6 +40,8 @@ Así que la pregunta que vale la pena hacerse no es si puedes reservar, sino si 
 
 Si los plazos parecen ajustados, el orden más seguro es renovar primero y reservar una vez que tengas el nuevo pasaporte en mano. Las aerolíneas generalmente no están obligadas a reembolsar un billete que no puedes usar, y el seguro de viaje rara vez cubre un documento que sabías que había expirado. Nuestra guía sobre [cuánto tarda la renovación del pasaporte](https://traveldocumentvault.com/es/blog/how-long-does-passport-renewal-take/) explica cómo suelen ser los plazos.
 
+Una renovación que ya está en marcha es una cuestión distinta, y depende de si entregaste el pasaporte antiguo. Esa la respondemos en su propia página: [si puedes viajar con tu pasaporte antiguo mientras se tramita la renovación](https://traveldocumentvault.com/es/blog/travel-while-passport-renewal-pending/).
+
 ## Viajes nacionales: Flexibilidad limitada con identidad alternativa
 
 Los viajes nacionales dentro del Reino Unido e Irlanda difieren de los viajes internacionales en este aspecto clave: las aerolíneas pueden aceptar identificación fotográfica alternativa como una licencia de conducir del Reino Unido o tarjeta de identidad nacional en lugar de un pasaporte. Sin embargo, lo que es aceptable varía significativamente según la aerolínea y el destino, así que no puedes asumir que cualquier identificación funcionará.

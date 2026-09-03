@@ -91,6 +91,8 @@ If you're an iPhone user, enabling **Advanced Data Protection in iCloud** is wor
 
 If you want a digital passport copy handy when you're travelling - as a backup if your physical passport gets lost or stolen - there are options that give you real security without much inconvenience.
 
+Two things are worth separating first: keeping a copy for your own reference, and expecting someone to accept it as ID. Those are not the same, and [where a digital passport copy is accepted](https://traveldocumentvault.com/blog/digital-passport-copy-valid/) sets out where the line falls.
+
 **Encrypted password managers**
 
 1Password and Bitwarden both let you store document scans as attachments. They use zero-knowledge encryption - the provider can't read your content even if they wanted to. Your documents get encrypted on your device before anything goes to their servers. That's a real step up from a general cloud photo library.

@@ -43,6 +43,8 @@ Une famille de quatre ne veut pas quatre applications distinctes. Les meilleures
 
 Cela n'est vrai que si l'application garde tout sur l'appareil et derrière un verrou. Chaque voyageur a besoin de son propre profil plutôt que d'un tas de scans partagé, et rien ne doit se trouver dans un dossier cloud qu'une autre personne pourrait ouvrir. Un verrou protégeant l'ensemble de l'application, qu'il s'agisse de Face ID, Touch ID ou d'un code PIN, permet à un seul téléphone de contenir les documents de toute la famille sans qu'aucun d'eux n'en sorte.
 
+Si ce qu'il vous faut vraiment, c'est un système pour tout le foyer plutôt qu'une simple sélection d'applications, nous détaillons [comment stocker en toute sécurité les passeports de plusieurs membres de la famille](https://traveldocumentvault.com/fr/blog/family-passport-management/) dans cet article dédié.
+
 ### Accès hors ligne
 
 Vous avez besoin de vos détails de passeport aux moments précis où l'accès à Internet est peu fiable : frontières internationales, zones de transit, zones rurales, ou après la perte de votre SIM à l'étranger. Si l'application nécessite une connexion réseau pour afficher vos documents, elle échoue au moment le plus critique.

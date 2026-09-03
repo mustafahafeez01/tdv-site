@@ -24,6 +24,8 @@ Se sta leggendo questo prima del viaggio, dedichi i prossimi cinque minuti a que
 
 Quando arriva presso l'ambasciata, le chiederanno il numero del passaporto, la data di rilascio, il luogo di rilascio e la data di scadenza. Senza una copia, sta cercando di ricordare questi dettagli sotto stress. Con una copia, glieli consegna in pochi secondi. **Lo staff consolare rilascia documenti di sostituzione più velocemente quando arriva con i dettagli già scritti.**
 
+Una copia sul telefono è una registrazione, non un documento d'identità, e le due cose vengono spesso confuse. Vale la pena sapere in anticipo [dove viene accettata una copia digitale del passaporto e dove serve ancora l'originale](https://traveldocumentvault.com/it/blog/digital-passport-copy-valid/).
+
 ## Passo 1: Conferma che il passaporto è davvero scomparso
 
 Controlli dappertutto prima di assumere il peggio - tasche della giacca, ogni scomparto della borsa, cassaforte dell'hotel, l'ultimo taxi o ristorante. Se è davvero scomparso o rubato, proceda attraverso i passaggi rimanenti senza ritardo.
@@ -63,6 +65,8 @@ Quello che probabilmente avrà bisogno (confermi con l'ambasciata prima di visit
 ## Passo 5: Notifichi l'assicuratore di viaggio
 
 Segnali la perdita al suo assicuratore di viaggio il prima possibile. La maggior parte delle polizze complete copre i costi di sostituzione del passaporto, le tasse del passaporto d'emergenza, e talvolta alloggio aggiuntivo in caso di ritardo. Conservi ogni ricevuta - ne avrà bisogno per il reclamo, insieme al numero di riferimento della denuncia alla polizia.
+
+Può fare questa chiamata prima se ha già a portata di mano il numero della polizza e la linea di emergenza 24 ore, invece di doverli cercare in una casella di posta a cui non riesce ad accedere. La nostra guida su [quali documenti assicurativi di viaggio conservare prima di partire](https://traveldocumentvault.com/it/blog/travel-insurance-documents/) elenca cosa tenere offline.
 
 ## Passo 6: Controlli la situazione del visto
 

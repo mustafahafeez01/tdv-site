@@ -72,13 +72,13 @@ Stockez ceux-ci sur votre téléphone à l'aide d'une application hors ligne et 
 
 ## Comment Garder les Détails de l'Assurance Voyage Accessibles
 
-La plupart des voyageurs achètent une assurance voyage mais oublient de rendre les détails de la police immédiatement accessibles - ce qui signifie que lorsqu'une urgence médicale ou une perte de bagages se produit à l'étranger, vous cherchez frénétiquement dans vos e-mails au lieu d'appeler à l'aide.
+La plupart des voyageurs achètent une assurance voyage mais oublient de rendre les détails de la police immédiatement accessibles - ce qui signifie que lorsqu'une urgence médicale ou une perte de bagages se produit à l'étranger, vous cherchez frénétiquement dans vos e-mails au lieu d'appeler à l'aide. Notre guide sur [les documents d'assurance voyage à sauvegarder avant de partir](https://traveldocumentvault.com/fr/blog/travel-insurance-documents/) détaille ce qu'il faut conserver et où le conserver.
 
 Détails spécifiques à avoir à portée de main, à la fois sur papier et numériquement :
 
 - Numéro de police
 - Ligne d'assistance d'urgence 24 heures (c'est différent du service clientèle général)
-- Limites de couverture pour l'évacuation médicale (cruciales - elles peuvent coûter des dizaines de milliers)
+- Limites de couverture pour l'évacuation médicale, généralement listées séparément de la couverture médicale générale
 - Exclusions ou conditions qui s'appliquent à votre voyage
 
 Le numéro d'urgence doit être enregistré dans vos contacts téléphoniques séparément des documents physiques. Si votre sac se perd ou se fait voler, cela vous permet d'accéder à l'aide sans votre document de police physique.

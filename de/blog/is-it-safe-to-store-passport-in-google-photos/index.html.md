@@ -89,6 +89,8 @@ Wenn Sie ein iPhone-Benutzer sind, ist das Aktivieren von **Advanced Data Protec
 
 Wenn Sie eine digitale Reisepasskopie zur Hand haben möchten, wenn Sie reisen - als Backup, wenn Ihr physischer Reisepass verloren geht oder gestohlen wird - gibt es Optionen, die Ihnen echte Sicherheit ohne viel Unannehmlichkeiten geben.
 
+Zwei Dinge sollten Sie zunächst auseinanderhalten: eine Kopie für den eigenen Gebrauch aufzubewahren, und zu erwarten, dass sie jemand als Ausweis akzeptiert. Das ist nicht dasselbe, und unser Beitrag dazu, [wo eine digitale Passkopie akzeptiert wird](https://traveldocumentvault.com/de/blog/digital-passport-copy-valid/), zeigt, wo die Grenze verläuft.
+
 **Verschlüsselte Passwort-Manager**
 
 1Password und Bitwarden ermöglichen es Ihnen beide, Dokument-Scans als Anhänge zu speichern. Sie nutzen Zero-Knowledge-Verschlüsselung - der Anbieter kann Ihren Inhalt nicht lesen, selbst wenn er wollte. Ihre Dokumente werden auf Ihrem Gerät verschlüsselt, bevor irgendetwas auf ihre Server geht. Das ist ein echtes Upgrade gegenüber einer allgemeinen Cloud-Fotobibliothek.

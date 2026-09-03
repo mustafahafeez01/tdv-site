@@ -72,13 +72,13 @@ Guarde estes no seu telemóvel usando uma aplicação desligada e encriptada - n
 
 ## Como Manter os Detalhes de Seguro de Viagem Acessíveis
 
-A maioria dos viajantes compra seguro de viagem mas esquece-se de tornar os detalhes da apólice imediatamente acessíveis - o que significa que quando uma emergência médica ou bagagem perdida ocorre no estrangeiro, está a revirar emails em vez de telefonar para pedir ajuda.
+A maioria dos viajantes compra seguro de viagem mas esquece-se de tornar os detalhes da apólice imediatamente acessíveis - o que significa que quando uma emergência médica ou bagagem perdida ocorre no estrangeiro, está a revirar emails em vez de telefonar para pedir ajuda. O nosso guia sobre [que documentos de seguro de viagem guardar antes de partir](https://traveldocumentvault.com/pt/blog/travel-insurance-documents/) explica o que guardar e onde guardá-lo.
 
 Detalhes específicos para ter à mão, tanto em papel como digitalmente:
 
 - Número de apólice
 - Linha de emergência 24 horas (isto é diferente do serviço de atendimento ao cliente geral)
-- Limites de cobertura para evacuação médica (crucial - estes podem custar dezenas de milhares)
+- Limites de cobertura para evacuação médica, que costumam estar listados separadamente da cobertura médica geral
 - Quaisquer exclusões ou condições que se aplicam à sua viagem
 
 O número de emergência deve ser guardado nos seus contactos de telemóvel separadamente dos documentos físicos. Se a sua mala for perdida ou roubada, isto assegura que pode ainda aceder ajuda sem o seu documento de apólice física.

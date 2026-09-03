@@ -24,6 +24,8 @@ Wenn Sie dies vor Ihrer Reise lesen, verwenden Sie die nächsten fünf Minuten d
 
 Wenn Sie bei Ihrer Botschaft ankommen, werden Sie nach Ihrer Passnummer, dem Ausstellungsdatum, dem Ausstellungsort und dem Ablaufdatum gefragt. Ohne eine Kopie müssen Sie diese unter Stress abrufen. Mit einer können Sie diese in Sekunden übergeben. **Konsulatsbeamte stellen Ersatzdokumente schneller aus, wenn Sie mit den Details bereits notiert ankommen.**
 
+Eine Kopie auf Ihrem Telefon ist ein Nachweis, kein Ausweisdokument – die beiden werden leicht verwechselt. Es lohnt sich, vorab zu wissen, [wo eine digitale Passkopie akzeptiert wird und wo Sie weiterhin das Original benötigen](https://traveldocumentvault.com/de/blog/digital-passport-copy-valid/).
+
 ## Schritt 1: Bestätigen Sie, dass der Pass wirklich weg ist
 
 Prüfen Sie überall, bevor Sie das Schlimmste annehmen - Jackentaschen, jedes Abteil der Reisetasche, Hotelsafe, das letzte Taxi oder Restaurant. Wenn er wirklich weg oder gestohlen ist, fahren Sie mit den verbleibenden Schritten ohne Verzögerung fort.
@@ -63,6 +65,8 @@ Was Sie normalerweise brauchen (bestätigen Sie dies mit Ihrer Botschaft, bevor 
 ## Schritt 5: Benachrichtigen Sie Ihren Reiseversicherer
 
 Melden Sie den Verlust Ihrem Reiseversicherer so bald wie möglich. Die meisten umfassenden Policen decken die Passersatzkosten, Notfallpass-Gebühren und manchmal zusätzliche Unterkunft ab, wenn Sie verzögert werden. Bewahren Sie jeden Beleg auf - Sie benötigen diese für den Anspruch zusammen mit der Referenznummer des Polizeiberichts.
+
+Diesen Anruf können Sie früher machen, wenn Policennummer und 24-Stunden-Hotline bereits griffbereit sind, statt in einem Postfach zu stecken, auf das Sie gerade nicht zugreifen können. Unser Leitfaden dazu, [welche Reiseversicherungsdokumente Sie vor der Abreise sichern sollten](https://traveldocumentvault.com/de/blog/travel-insurance-documents/), listet auf, was Sie offline bereithalten sollten.
 
 ## Schritt 6: Überprüfen Sie Ihre Visasituation
 

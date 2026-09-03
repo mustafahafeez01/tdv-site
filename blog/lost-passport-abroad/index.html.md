@@ -24,6 +24,8 @@ If you are reading this before your trip, spend the next five minutes on this. T
 
 When you arrive at your embassy, they will ask for your passport number, date of issue, place of issue, and expiry date. Without a copy, you are trying to recall these under stress. With one, you hand them over in seconds. **Consular staff issue replacement documents faster when you arrive with the details already written down.**
 
+A copy on your phone is a record rather than identification, and the two get confused. It is worth knowing in advance [where a digital passport copy is accepted and where you still need the original](https://traveldocumentvault.com/blog/digital-passport-copy-valid/).
+
 ![Hand-drawn path of the seven steps after losing a passport abroad: confirm it's really gone, file a police report, contact your embassy, emergency travel document, notify your insurer, check your visa situation, get home then replace it - with a note to photograph your passport today because a backup copy makes step four much faster](https://traveldocumentvault.com/blog/lost-passport-abroad/lost-passport-7-steps-figure.jpg) Seven calm steps, in order - and the one thing to do today, before any of them are ever needed.
 
 ## Step 1: Confirm the Passport Is Actually Gone
@@ -65,6 +67,8 @@ What you will typically need (confirm with your embassy before visiting):
 ## Step 5: Notify Your Travel Insurer
 
 Report the loss to your travel insurer as soon as possible. Most comprehensive policies cover passport replacement costs, emergency passport fees, and sometimes extra accommodation if you are delayed. Keep every receipt - you'll need them for the claim, along with the police report number.
+
+You can make that call sooner if the policy number and the 24-hour hotline are already to hand rather than buried in an inbox you cannot reach. Our guide to [which travel insurance documents to save before you go](https://traveldocumentvault.com/blog/travel-insurance-documents/) lists what to keep offline.
 
 ## Step 6: Check Your Visa Situation
 

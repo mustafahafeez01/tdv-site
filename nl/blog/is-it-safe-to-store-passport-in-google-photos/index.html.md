@@ -87,6 +87,8 @@ Ben je iPhone-gebruiker, dan is het inschakelen van **Geavanceerde gegevensbesch
 
 Wil je een digitale paspoortkopie bij de hand hebben tijdens het reizen - als reserve als je fysieke paspoort kwijtraakt of gestolen wordt - dan zijn er opties die echte veiligheid bieden zonder veel gedoe.
 
+Twee dingen zijn goed om eerst uit elkaar te houden: een kopie bewaren voor jezelf, en verwachten dat iemand die accepteert als identiteitsbewijs. Dat is niet hetzelfde, en [waar een digitale paspoortkopie wordt geaccepteerd](https://traveldocumentvault.com/nl/blog/digital-passport-copy-valid/) laat zien waar de grens ligt.
+
 **Versleutelde wachtwoordmanagers**
 
 1Password en Bitwarden laten je allebei documentscans als bijlage bewaren. Ze gebruiken zero-knowledge-encryptie - de provider kan je inhoud niet lezen, ook al zou hij het willen. Je documenten worden op je toestel versleuteld voordat er iets naar hun servers gaat. Dat is een echte stap vooruit vergeleken met een algemene cloud-fotobibliotheek.

@@ -72,13 +72,13 @@ Bewaar deze op je telefoon in een offline, versleutelde app - niet je cameraroll
 
 ## Zo houd je de gegevens van je reisverzekering toegankelijk
 
-De meeste reizigers sluiten een reisverzekering af maar vergeten de polisgegevens direct toegankelijk te maken - waardoor je bij een medisch noodgeval of verloren bagage in het buitenland door e-mails moet zoeken in plaats van meteen om hulp te kunnen bellen.
+De meeste reizigers sluiten een reisverzekering af maar vergeten de polisgegevens direct toegankelijk te maken - waardoor je bij een medisch noodgeval of verloren bagage in het buitenland door e-mails moet zoeken in plaats van meteen om hulp te kunnen bellen. Onze gids over [welke reisverzekeringsdocumenten je moet bewaren voordat je vertrekt](https://traveldocumentvault.com/nl/blog/travel-insurance-documents/) laat zien wat je moet bewaren en waar.
 
 Specifieke gegevens die je bij de hand moet hebben, zowel op papier als digitaal:
 
 - Polisnummer
 - 24-uurs alarmnummer (verschilt van de gewone klantenservice)
-- Dekkingslimieten voor medische repatriëring (cruciaal - dit kan tienduizenden euro's kosten)
+- Dekkingslimieten voor medische evacuatie, die meestal apart van de algemene medische dekking worden vermeld
 - Eventuele uitsluitingen of voorwaarden die voor je reis gelden
 
 Het alarmnummer moet apart van de fysieke documenten in je telefooncontacten worden opgeslagen. Raakt je tas kwijt of wordt hij gestolen, dan zorgt dit ervoor dat je nog steeds hulp kunt krijgen zonder het fysieke polisdocument.

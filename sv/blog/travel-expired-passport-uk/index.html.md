@@ -40,6 +40,8 @@ Den egentliga frågan är alltså inte om du kan boka, utan om förnyelsen hinne
 
 Ser tidsramen knapp ut är den säkrare ordningen att förnya först och boka när det nya passet är i din hand. Flygbolag är i regel inte skyldiga att återbetala en biljett du inte kan använda, och reseförsäkringar täcker sällan en handling du visste var utgången. Vår guide om [hur lång tid en passförnyelse tar](https://traveldocumentvault.com/sv/blog/how-long-does-passport-renewal-take/) beskriver hur tidsramarna brukar se ut.
 
+En förnyelse som redan är på gång är en annan fråga, och den avgörs av om du har lämnat in det gamla passet. Det svarar vi på i en egen artikel: [om du kan resa på ditt gamla pass medan förnyelsen pågår](https://traveldocumentvault.com/sv/blog/travel-while-passport-renewal-pending/).
+
 ## Inhemska resor: begränsad flexibilitet med alternativ legitimation
 
 Inhemska resor inom Storbritannien och Irland skiljer sig från internationella resor på en avgörande punkt: flygbolag kan acceptera alternativ foto-legitimation, som brittiskt körkort eller nationellt ID-kort, i stället för pass. Vad som godtas varierar dock kraftigt mellan flygbolag och destination, så du kan inte utgå från att en viss legitimation fungerar.

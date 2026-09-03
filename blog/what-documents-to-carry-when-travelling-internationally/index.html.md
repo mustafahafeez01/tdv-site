@@ -74,13 +74,13 @@ Store these on your phone using an offline, encrypted app - not your camera roll
 
 ## How to Keep Travel Insurance Details Accessible
 
-Most travellers buy travel insurance but forget to make the policy details immediately accessible - which means when a medical emergency or lost baggage happens abroad, you're fumbling through emails rather than calling for help.
+Most travellers buy travel insurance but forget to make the policy details immediately accessible - which means when a medical emergency or lost baggage happens abroad, you're fumbling through emails rather than calling for help. Our guide to [which travel insurance documents to save before you go](https://traveldocumentvault.com/blog/travel-insurance-documents/) sets out what to keep and where to keep it.
 
 Specific details to have on hand, both on paper and digitally:
 
 - Policy number
 - 24-hour emergency hotline (this is different from general customer service)
-- Coverage limits for medical evacuation (crucial - these can cost tens of thousands)
+- Coverage limits for medical evacuation, which are usually listed separately from general medical cover
 - Any exclusions or conditions that apply to your trip
 
 The emergency number should be saved in your phone contacts separately from the physical documents. If your bag is lost or stolen, this ensures you can still access help without your physical policy document.

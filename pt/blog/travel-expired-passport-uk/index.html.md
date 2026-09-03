@@ -40,6 +40,8 @@ Por isso, a pergunta que vale a pena fazer não é se pode reservar, mas se a re
 
 Se os prazos parecerem apertados, a ordem mais segura é renovar primeiro e reservar apenas depois de ter o novo passaporte em mãos. As companhias aéreas geralmente não são obrigadas a reembolsar um bilhete que não pode usar, e o seguro de viagem raramente cobre um documento que sabia estar expirado. O nosso guia sobre [quanto tempo demora a renovação de passaporte](https://traveldocumentvault.com/pt/blog/how-long-does-passport-renewal-take/) explica como costumam ser os prazos.
 
+Uma renovação já em curso é uma questão diferente, e depende de ter entregue ou não o passaporte antigo. Respondemos a essa questão num artigo próprio: [se pode viajar com o passaporte antigo enquanto a renovação está a decorrer](https://traveldocumentvault.com/pt/blog/travel-while-passport-renewal-pending/).
+
 ## Viagem Doméstica: Flexibilidade Limitada com Documentos de Identidade Alternativos
 
 As viagens domésticas dentro do Reino Unido e Irlanda diferem das viagens internacionais neste aspecto chave: as companhias aéreas podem aceitar documentos de identidade alternativos com fotografia como uma carteira de condutor do Reino Unido ou cartão de identidade nacional em vez de um passaporte. No entanto, o que é aceitável varia significativamente por companhia aérea e destino, portanto não pode assumir que qualquer documento de identidade funcionará.

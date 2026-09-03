@@ -43,6 +43,8 @@ Een gezin van vier zit niet te wachten op vier losse apps. De beste paspoortorga
 
 Dat klopt alleen als de app alles op het toestel bewaart en achter een vergrendeling houdt. Elke reiziger heeft een eigen profiel nodig in plaats van één gedeelde stapel scans, en niets zou in een cloudmap moeten staan die iemand anders kan openen. Een vergrendeling voor de hele kluis - of dat nu Face ID, Touch ID of een PIN is - zorgt ervoor dat één telefoon de documenten van het hele gezin kan bevatten zonder dat er ook maar iets van naar buiten gaat.
 
+Als je eigenlijk op zoek bent naar een systeem voor het hele huishouden in plaats van een lijstje met apps, gaan we daar uitgebreider op in: [hoe je de paspoorten van meerdere gezinsleden veilig bewaart](https://traveldocumentvault.com/nl/blog/family-passport-management/).
+
 ### Offline toegang
 
 Je hebt je paspoortgegevens precies nodig op de momenten dat internettoegang onbetrouwbaar is: aan internationale grenzen, in transitzones, op het platteland, of nadat je in het buitenland je simkaart bent kwijtgeraakt. Als de app een netwerkverbinding nodig heeft om je documenten te tonen, faalt ze precies op het cruciale moment.

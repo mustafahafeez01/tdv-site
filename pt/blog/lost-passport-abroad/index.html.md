@@ -24,6 +24,8 @@ Se está a ler isto antes da sua viagem, dedique os próximos cinco minutos a is
 
 Quando chegar à sua embaixada, pedir-lhe-ão o número do passaporte, data de emissão, local de emissão e data de validade. Sem uma cópia, está a tentar lembrar-se destes detalhes sob stress. Com uma, entregar-lhos-á em segundos. **O pessoal consular emite documentos de substituição mais rapidamente quando chega com os detalhes já escritos.**
 
+Uma cópia no telemóvel é um registo, não uma identificação, e os dois conceitos confundem-se com facilidade. Vale a pena saber de antemão [onde uma cópia digital do passaporte é aceite e onde ainda precisa do original](https://traveldocumentvault.com/pt/blog/digital-passport-copy-valid/).
+
 ## Passo 1: Confirme Que o Passaporte Realmente Desapareceu
 
 Procure em todo o lado antes de assumir o pior - bolsos do casaco, todos os compartimentos da mala, cofre do hotel, no último táxi ou restaurante. Se desapareceu genuinamente ou foi roubado, avance pelos passos restantes sem demora.
@@ -63,6 +65,8 @@ O que normalmente vai precisar (confirme com a sua embaixada antes de visitar):
 ## Passo 5: Notifique a Sua Seguradora de Viagem
 
 Reporte a perda à sua seguradora de viagem o mais rapidamente possível. A maioria das apólices abrangentes cobrem custos de substituição de passaporte, taxas de passaporte de emergência e por vezes alojamento extra se ficar atrasado. Guarde todos os recibos - vai precisar deles para a reclamação, juntamente com o número de referência do relatório de polícia.
+
+Pode fazer essa chamada mais cedo se o número da apólice e a linha de emergência 24 horas já estiverem à mão, em vez de perdidos numa caixa de correio a que não consegue aceder. O nosso guia sobre [que documentos de seguro de viagem guardar antes de partir](https://traveldocumentvault.com/pt/blog/travel-insurance-documents/) indica o que guardar offline.
 
 ## Passo 6: Verifique a Sua Situação de Visto
 

@@ -40,6 +40,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-expired-passport-uk/
 
 如果时间看起来很紧张，更稳妥的做法是先更新护照，等拿到新护照后再预订。航空公司通常没有义务为您无法使用的机票退款，旅行保险也很少会赔付您明知已过期的证件。我们关于[护照更新需要多长时间](https://traveldocumentvault.com/zh-Hans/blog/how-long-does-passport-renewal-take/)的指南说明了通常的办理时长。
 
+如果更新已经在办理中，那是另一个不同的问题，关键在于您是否已经交出了旧护照。我们在专门的文章中解答了这个问题：[更新护照期间能否使用旧护照旅行](https://traveldocumentvault.com/zh-Hans/blog/travel-while-passport-renewal-pending/)。
+
 ## 国内旅行：用替代身份证件的有限灵活性
 
 英国和爱尔兰内的国内旅行在一个关键方面与国际旅行不同：航空公司可能接受替代形式的有效身份证件，如英国驾驶证或国民身份证，作为护照的替代品。但是，可接受的形式因航空公司和目的地而异，所以您不能假设任何特定的身份证件会起作用。

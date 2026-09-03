@@ -40,6 +40,8 @@ De vraag die er dus toe doet, is niet of je kunt boeken, maar of de verlenging o
 
 Lijkt de tijd krap, dan is de veiligere volgorde om eerst te verlengen en pas te boeken zodra je het nieuwe paspoort in handen hebt. Luchtvaartmaatschappijen zijn doorgaans niet verplicht een ticket terug te betalen dat je niet kunt gebruiken, en reisverzekeringen dekken zelden een document waarvan je wist dat het verlopen was. Onze gids over [hoe lang een paspoortverlenging duurt](https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-take/) laat zien hoe de tijdlijnen er meestal uitzien.
 
+Een verlenging die al loopt, is een andere kwestie, en die hangt ervan af of je je oude paspoort hebt ingeleverd. Dat beantwoorden we op een eigen pagina: [of je met je oude paspoort kunt reizen terwijl de verlenging loopt](https://traveldocumentvault.com/nl/blog/travel-while-passport-renewal-pending/).
+
 ## Binnenlandse reizen: beperkte flexibiliteit met alternatieve ID
 
 Binnenlandse reizen binnen het VK en Ierland werken iets anders: luchtvaartmaatschappijen accepteren mogelijk alternatieve foto-identificatie, zoals een Brits rijbewijs of nationale identiteitskaart, in plaats van een paspoort. Wat wordt geaccepteerd, verschilt echter aanzienlijk per luchtvaartmaatschappij en bestemming, dus je kunt er niet zomaar van uitgaan dat een bepaald identiteitsbewijs zal werken.

@@ -24,6 +24,8 @@ Si estás leyendo esto antes de tu viaje, dedica los próximos cinco minutos a e
 
 Cuando llegues a tu embajada, te preguntarán tu número de pasaporte, fecha de emisión, lugar de emisión y fecha de vencimiento. Sin una copia, estás intentando recordar estos detalles bajo estrés. Con una, los entregas en segundos. **El personal consular emite documentos de reemplazo más rápido cuando llegas con los detalles ya anotados.**
 
+Una copia en el teléfono es un registro, no una identificación, y a menudo se confunden las dos cosas. Conviene saber de antemano [dónde se acepta una copia digital del pasaporte y dónde sigue haciendo falta el original](https://traveldocumentvault.com/es/blog/digital-passport-copy-valid/).
+
 ## Paso 1: Confirma que el Pasaporte Realmente Se Fue
 
 Busca en todas partes antes de asumir lo peor - bolsillos de chaqueta, cada compartimento de bolsa, caja fuerte del hotel, el último taxi o restaurante. Si realmente se fue o fue robado, sigue con los pasos restantes sin demora.
@@ -63,6 +65,8 @@ Qué típicamente necesitarás (confirma con tu embajada antes de visitar):
 ## Paso 5: Notifica a tu Asegurador de Viaje
 
 Reporta la pérdida a tu asegurador de viaje lo antes posible. La mayoría de las pólizas integrales cubren costos de reemplazo de pasaporte, tarifas de pasaporte de emergencia, y a veces alojamiento extra si experimentas retrasos. Guarda cada recibo - los necesitarás para la reclamación, junto con el número de referencia de la denuncia policial.
+
+Puedes hacer esa llamada antes si ya tienes a mano el número de póliza y la línea de emergencia 24 horas, en lugar de tenerlos enterrados en un correo al que no puedes acceder. Nuestra guía sobre [qué documentos del seguro de viaje guardar antes de partir](https://traveldocumentvault.com/es/blog/travel-insurance-documents/) enumera qué conservar sin conexión.
 
 ## Paso 6: Verifica tu Situación de Visa
 

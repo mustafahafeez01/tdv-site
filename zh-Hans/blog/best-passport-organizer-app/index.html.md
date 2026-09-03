@@ -43,6 +43,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/best-passport-organizer-app
 
 但这只有在应用把一切都保存在设备上并加锁保护时才成立。每位旅行者都需要拥有自己的独立档案，而不是和别人共用同一堆扫描件，也不应该有任何内容留在别人也能打开的云端文件夹里。只要在整套证件前设置设备锁 - 无论是Face ID、Touch ID还是PIN码 - 一部手机就能保存全家人的证件，而不必让任何一份证件离开这部手机。
 
+如果您需要的其实是一整套面向全家的管理方式，而不只是几个应用的候选名单，我们在[如何安全存放全家多位成员的护照](https://traveldocumentvault.com/zh-Hans/blog/family-passport-management/)这篇文章中有更详细的说明。
+
 ### 离线访问
 
 您需要您的护照详情恰好在互联网访问不可靠的时候：国际边界、过境区、偏远地区或在国外丢失您的SIM卡之后。如果应用程序需要网络连接才能显示您的文档，它在最关键的时刻就会失败。

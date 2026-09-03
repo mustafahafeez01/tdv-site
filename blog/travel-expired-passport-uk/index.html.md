@@ -42,6 +42,8 @@ So the question worth asking is not whether you can book, but whether the renewa
 
 If the timings look tight, the safer order is to renew first and book once the new passport is in your hand. Airlines are generally under no obligation to refund a ticket you cannot use, and travel insurance rarely covers a document you knew had expired. Our guide to [how long passport renewal takes](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/) sets out what the timelines usually look like.
 
+A renewal that is already in progress is a different question, and it turns on whether you handed the old passport in. We answer that one on its own page: [whether you can travel on your old passport while renewing](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/).
+
 ## Domestic Travel: Limited Flexibility with Alternative ID
 
 Domestic travel within the UK and Ireland works a little differently: airlines may accept alternative photo identification like a UK driving licence or national ID card in place of a passport. What's acceptable varies significantly by airline and destination, though, so you can't assume any particular ID will work.

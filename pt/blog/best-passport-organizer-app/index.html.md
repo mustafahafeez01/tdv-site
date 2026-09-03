@@ -43,6 +43,8 @@ Uma família de quatro não quer quatro aplicações separadas. As melhores apli
 
 Isto só é verdade se a aplicação mantiver tudo no dispositivo e protegido por um bloqueio. Cada viajante precisa do seu próprio perfil, em vez de uma pilha partilhada de digitalizações, e nada deve ficar guardado numa pasta na nuvem que outra pessoa possa abrir. Um bloqueio de dispositivo à frente de todo o cofre, seja Face ID, Touch ID ou um PIN, significa que um único telefone pode conter os documentos de toda a família sem que nenhum deles alguma vez saia dele.
 
+Se o que precisa na verdade é de um sistema para toda a casa, e não apenas uma lista de aplicações, aprofundamos [como guardar em segurança os passaportes de vários membros da família](https://traveldocumentvault.com/pt/blog/family-passport-management/) nesse artigo.
+
 ### Acesso offline
 
 Precisa dos dados do seu passaporte precisamente nos momentos em que o acesso à internet é pouco fiável: fronteiras internacionais, zonas de trânsito, áreas rurais, ou depois de perder o seu SIM no estrangeiro. Se a aplicação exigir uma ligação de rede para mostrar os seus documentos, falha no momento mais crítico.

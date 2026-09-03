@@ -24,6 +24,8 @@ Om du läser det här innan din resa, lägg fem minuter på detta. Ta en tydlig 
 
 När du kommer till ambassaden kommer de att fråga efter passnummer, utfärdandedatum, utfärdandeort och giltighetstid. Utan en kopia försöker du minnas det här under stress. Med en kopia lämnar du över uppgifterna på några sekunder. **Konsulär personal utfärdar ersättningshandlingar snabbare när du kommer med uppgifterna redan nedskrivna.**
 
+En kopia i telefonen är ett underlag snarare än en giltig legitimation, och de två blandas lätt ihop. Det är bra att veta i förväg [var en digital passkopia godtas och var du fortfarande behöver originalet](https://traveldocumentvault.com/sv/blog/digital-passport-copy-valid/).
+
 ## Steg 1: Bekräfta att passet verkligen är borta
 
 Leta överallt innan du drar den värsta slutsatsen - jackfickor, alla fack i väskan, hotellkassaskåpet, senaste taxin eller restaurangen. Om det verkligen är borta eller stulet, gå vidare genom de återstående stegen utan dröjsmål.
@@ -63,6 +65,8 @@ Vad du vanligtvis behöver (bekräfta med din ambassad innan du besöker den):
 ## Steg 5: Meddela ditt reseförsäkringsbolag
 
 Anmäl förlusten till ditt reseförsäkringsbolag så snart som möjligt. De flesta fullständiga försäkringar täcker kostnaden för ett nytt pass, avgifter för nödpass och ibland extra boendekostnader om du blir försenad. Spara alla kvitton - du behöver dem för anspråket, tillsammans med polisanmälans ärendenummer.
+
+Du kan ringa det samtalet snabbare om försäkringsnumret och dygnet-runt-jourlinjen redan finns till hands i stället för begravda i en inkorg du inte kommer åt. Vår guide om [vilka reseförsäkringshandlingar du bör spara innan du reser](https://traveldocumentvault.com/sv/blog/travel-insurance-documents/) listar vad du bör ha offline.
 
 ## Steg 6: Kontrollera din visumsituation
 

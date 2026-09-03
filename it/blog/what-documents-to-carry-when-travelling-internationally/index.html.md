@@ -72,13 +72,13 @@ Conserva questi sul telefono utilizzando un'app offline e crittografata - non la
 
 ## Come Mantenere i Dettagli dell'Assicurazione di Viaggio Accessibili
 
-La maggior parte dei viaggiatori acquista un'assicurazione di viaggio ma dimentica di rendere i dettagli della polizza immediatamente accessibili - il che significa che quando un'emergenza medica o il bagaglio smarrito accade all'estero, si sta cercando tra le email piuttosto che chiamare per aiuto.
+La maggior parte dei viaggiatori acquista un'assicurazione di viaggio ma dimentica di rendere i dettagli della polizza immediatamente accessibili - il che significa che quando un'emergenza medica o il bagaglio smarrito accade all'estero, si sta cercando tra le email piuttosto che chiamare per aiuto. La nostra guida su [quali documenti assicurativi di viaggio conservare prima di partire](https://traveldocumentvault.com/it/blog/travel-insurance-documents/) spiega cosa conservare e dove conservarlo.
 
 Dettagli specifici da avere a portata di mano, sia sulla carta che digitalmente:
 
 - Numero della polizza
 - Linea di emergenza 24 ore (è diversa dal servizio clienti generale)
-- Limiti di copertura per evacuazione medica (cruciale - questi possono costare decine di migliaia)
+- Limiti di copertura per evacuazione medica, generalmente elencati separatamente dalla copertura medica generale
 - Eventuali esclusioni o condizioni che si applicano al viaggio
 
 Il numero di emergenza dovrebbe essere salvato nei contatti del telefono separatamente dai documenti fisici. Se la borsa viene smarrita o rubata, questo garantisce che si possa comunque accedere all'aiuto senza il documento della polizza fisica.

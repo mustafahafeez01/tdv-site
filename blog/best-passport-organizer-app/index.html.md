@@ -1,6 +1,6 @@
-# Best Passport and Travel Document App for Families
+# Best Passport Organizer App: On-Device, Not Cloud
 
-> Four passports, four expiry dates, one app. What to check before trusting a passport organizer with your family's scans, and why on-device storage wins.
+> Four passports, four expiry dates, one app. What to check before you trust any organizer with your family's scans - encryption, backups, who can see them.
 
 Source: https://traveldocumentvault.com/blog/best-passport-organizer-app/
 
@@ -44,6 +44,8 @@ This is the single most valuable feature. A reminder at 6 months is the minimum 
 A family of four does not want four separate apps. The best passport organizer apps treat each person as a separate profile, with their own documents, expiry dates, and reminders. This sounds obvious but a surprising number of apps are built around a single person's documents.
 
 That's only true if the app keeps everything on the device and behind a lock. Each traveller needs a profile of their own rather than one shared pile of scans, and nothing should be sitting in a cloud folder that anyone else could open. A device lock in front of the whole vault, whether that's Face ID, Touch ID or a PIN, means one phone can hold the whole family's documents without any of them leaving it.
+
+If what you actually need is a system for the household rather than a shortlist of apps, we cover [how to store multiple family members' passports safely](https://traveldocumentvault.com/blog/family-passport-management/) in more detail there.
 
 ### Offline access
 

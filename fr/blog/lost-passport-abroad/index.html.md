@@ -24,6 +24,8 @@ Si vous lisez ceci avant votre voyage, consacrez les cinq prochaines minutes à 
 
 Lorsque vous arrivez à votre ambassade, ils vous demanderont votre numéro de passeport, la date de délivrance, le lieu de délivrance et la date d'expiration. Sans copie, vous essayez de mémoriser ces détails sous le stress. Avec une, vous les leur remettez en quelques secondes. **Le personnel consulaire délivre les documents de remplacement plus rapidement lorsque vous arrivez avec les détails déjà écrits.**
 
+Une copie sur votre téléphone est une trace et non une pièce d'identité, et les deux sont souvent confondues. Mieux vaut savoir à l'avance [où une copie numérique de passeport est acceptée et où l'original reste indispensable](https://traveldocumentvault.com/fr/blog/digital-passport-copy-valid/).
+
 ## Étape 1 - Confirmez que le passeport a vraiment disparu
 
 Vérifiez partout avant de supposer le pire - les poches de votre veste, chaque compartiment du sac, le coffre de l'hôtel, le dernier taxi ou restaurant. S'il a vraiment disparu ou a été volé, passez aux étapes suivantes sans tarder.
@@ -63,6 +65,8 @@ Ce dont vous aurez généralement besoin (confirmez avec votre ambassade avant d
 ## Étape 5 - Notifiez votre assureur voyage
 
 Signalez la perte à votre assureur voyage dès que possible. La plupart des polices complètes couvrent les frais de remplacement du passeport, les frais de passeport d'urgence, et parfois les frais de logement supplémentaires si vous êtes retardé. Conservez tous les reçus - vous en aurez besoin pour la réclamation, ainsi que le numéro de référence du rapport de police.
+
+Vous pourrez passer cet appel plus tôt si le numéro de police et la ligne d'assistance 24 heures sont déjà à portée de main plutôt qu'enfouis dans une boîte mail à laquelle vous ne pouvez pas accéder. Notre guide sur [les documents d'assurance voyage à sauvegarder avant de partir](https://traveldocumentvault.com/fr/blog/travel-insurance-documents/) répertorie ce qu'il faut conserver hors ligne.
 
 ## Étape 6 - Vérifiez votre situation de visa
 

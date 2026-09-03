@@ -87,6 +87,8 @@ Jika Anda pengguna iPhone, mengaktifkan **Advanced Data Protection di iCloud** l
 
 Jika Anda ingin salinan digital paspor siap sedia saat bepergian - sebagai cadangan jika paspor fisik Anda hilang atau dicuri - ada opsi yang memberi keamanan nyata tanpa banyak kerepotan.
 
+Ada dua hal yang perlu dipisahkan lebih dulu: menyimpan salinan untuk referensi pribadi, dan mengharapkan orang lain menerimanya sebagai identitas resmi. Keduanya tidak sama, dan [di mana salinan digital paspor diterima](https://traveldocumentvault.com/id/blog/digital-passport-copy-valid/) menjelaskan di mana batasnya.
+
 **Pengelola kata sandi terenkripsi**
 
 1Password dan Bitwarden sama-sama memungkinkan Anda menyimpan pindaian dokumen sebagai lampiran. Keduanya menggunakan enkripsi zero-knowledge - penyedia tidak bisa membaca konten Anda sekalipun mereka mau. Dokumen Anda dienkripsi di perangkat sebelum apa pun dikirim ke server mereka. Ini peningkatan nyata dari perpustakaan foto cloud umum.

@@ -89,6 +89,8 @@ Samma risk för kontokompromettering gäller båda plattformarna. Ett svagt Appl
 
 Vill du ha en digital passkopia till hands när du reser - som en reserv om det fysiska passet skulle tappas bort eller stjälas - finns det alternativ som ger verklig säkerhet utan större besvär.
 
+Två saker är värda att hålla isär först: att spara en kopia för eget bruk, och att förvänta sig att någon ska godta den som legitimation. Det är inte samma sak, och [var en digital passkopia godtas](https://traveldocumentvault.com/sv/blog/digital-passport-copy-valid/) beskriver var gränsen går.
+
 **Krypterade lösenordshanterare**
 
 1Password och Bitwarden låter dig båda spara dokumentkopior som bilagor. De använder nollkunskapskryptering - leverantören kan inte läsa ditt innehåll även om de ville. Dina handlingar krypteras på din enhet innan något skickas till deras servrar. Det är ett verkligt steg upp från ett vanligt molnfotobibliotek.

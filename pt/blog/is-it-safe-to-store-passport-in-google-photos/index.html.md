@@ -89,6 +89,8 @@ Se for um utilizador de iPhone, ativar **Advanced Data Protection no iCloud** va
 
 Se deseja uma cópia de passaporte digital à mão quando está a viajar - como cópia de segurança se o seu passaporte físico se perder ou for roubado - existem opções que lhe dão segurança real sem muita inconveniência.
 
+Vale a pena separar duas coisas à partida: guardar uma cópia para sua própria referência, e esperar que alguém a aceite como identificação. Não são a mesma coisa, e [onde uma cópia digital do passaporte é aceite](https://traveldocumentvault.com/pt/blog/digital-passport-copy-valid/) explica onde se traça essa fronteira.
+
 **Gestores de palavras-passe encriptados**
 
 1Password e Bitwarden permitem-lhe guardar fotografias de documentos como anexos. Utilizam encriptação de conhecimento zero - o fornecedor não consegue ler o seu conteúdo mesmo que quisesse. Os seus documentos são encriptados no seu dispositivo antes de qualquer coisa ir para os seus servidores. Isto é um passo real acima de uma biblioteca geral de fotos na nuvem.

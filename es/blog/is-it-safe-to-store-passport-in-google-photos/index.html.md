@@ -89,6 +89,8 @@ Si eres un usuario de iPhone, habilitar **Advanced Data Protection en iCloud** v
 
 Si deseas una copia digital del pasaporte a mano cuando estés viajando - como copia de seguridad si tu pasaporte físico se pierde o se roba - hay opciones que te dan seguridad real sin mucha inconveniencia.
 
+Primero conviene separar dos cosas: guardar una copia para tu propia referencia y esperar que alguien la acepte como identificación. No son lo mismo, y nuestra guía sobre [dónde se acepta una copia digital del pasaporte](https://traveldocumentvault.com/es/blog/digital-passport-copy-valid/) explica dónde está el límite.
+
 **Gestores de contraseñas cifrados**
 
 1Password y Bitwarden ambos te permiten almacenar escaneos de documentos como adjuntos. Utilizan cifrado de conocimiento cero - el proveedor no puede leer tu contenido incluso si quisiera. Tus documentos se cifran en tu dispositivo antes de que nada vaya a sus servidores. Ese es un paso importante hacia adelante respecto a una biblioteca de fotos en la nube general.

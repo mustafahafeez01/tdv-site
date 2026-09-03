@@ -72,13 +72,13 @@ Opbevar disse på telefonen i en offline, krypteret app - ikke kamerarullen, ikk
 
 ## Sådan holder I rejseforsikringsoplysninger tilgængelige
 
-De fleste rejsende køber rejseforsikring, men glemmer at gøre policeoplysningerne øjeblikkeligt tilgængelige - hvilket betyder, at når en medicinsk nødsituation eller mistet bagage sker i udlandet, roder I i e-mails i stedet for at ringe efter hjælp.
+De fleste rejsende køber rejseforsikring, men glemmer at gøre policeoplysningerne øjeblikkeligt tilgængelige - hvilket betyder, at når en medicinsk nødsituation eller mistet bagage sker i udlandet, roder I i e-mails i stedet for at ringe efter hjælp. Vores guide om [hvilke rejseforsikringsdokumenter I bør gemme, før I rejser](https://traveldocumentvault.com/da/blog/travel-insurance-documents/) viser, hvad I skal gemme, og hvor.
 
 Specifikke oplysninger at have ved hånden, både på papir og digitalt:
 
 - Policenummer
 - Døgnåbent alarmnummer (adskiller sig fra almindelig kundeservice)
-- Dækningsgrænser for medicinsk hjemtransport (afgørende - disse kan koste tocifrede tusinder)
+- Dækningsgrænser for medicinsk hjemtransport, som normalt er angivet separat fra den almindelige sygeforsikringsdækning
 - Eventuelle undtagelser eller betingelser, der gælder for jeres rejse
 
 Alarmnummeret bør gemmes i telefonens kontakter adskilt fra de fysiske dokumenter. Mistes eller stjæles jeres taske, sikrer dette, at I stadig kan få hjælp uden det fysiske policedokument.

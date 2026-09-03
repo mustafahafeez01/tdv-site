@@ -72,13 +72,13 @@ Speichern Sie diese auf Ihrem Telefon mit einer Offline-verschlüsselten App - n
 
 ## So halten Sie Reiseversicherungsdetails verfügbar
 
-Die meisten Reisenden schließen eine Reiseversicherung ab, vergessen aber, die Versicherungsdetails sofort verfügbar zu machen - was bedeutet, dass im Notfall oder bei verlorenem Gepäck im Ausland Sie sich durch E-Mails durcharbeiten, anstatt Hilfe zu rufen.
+Die meisten Reisenden schließen eine Reiseversicherung ab, vergessen aber, die Versicherungsdetails sofort verfügbar zu machen - was bedeutet, dass im Notfall oder bei verlorenem Gepäck im Ausland Sie sich durch E-Mails durcharbeiten, anstatt Hilfe zu rufen. Unser Leitfaden dazu, [welche Reiseversicherungsdokumente Sie vor der Abreise sichern sollten](https://traveldocumentvault.com/de/blog/travel-insurance-documents/), zeigt, was Sie aufbewahren sollten und wo.
 
 Besondere Details, die Sie zur Hand haben sollten, sowohl in Papierform als auch digital:
 
 - Policennummer
 - 24-Stunden-Notfallhotline (dies ist anders als allgemeiner Kundendienst)
-- Versicherungsgrenzen für medizinische Evakuierung (entscheidend - diese können Zehntausende kosten)
+- Deckungssummen für die medizinische Evakuierung, die üblicherweise separat von der allgemeinen medizinischen Deckung ausgewiesen werden
 - Ausschlüsse oder Bedingungen, die auf Ihre Reise zutreffen
 
 Die Notfallnummer sollte in Ihren Telefonkontakten separat von den physischen Dokumenten gespeichert sein. Falls Ihr Gepäck verloren geht oder gestohlen wird, wird sichergestellt, dass Sie immer noch Hilfe bekommen können, ohne Ihr physisches Versicherungsdokument.

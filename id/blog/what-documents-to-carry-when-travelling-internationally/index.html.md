@@ -72,13 +72,13 @@ Simpan ini di ponsel menggunakan aplikasi offline yang terenkripsi - bukan galer
 
 ## Cara Menjaga Detail Asuransi Perjalanan Tetap Mudah Diakses
 
-Kebanyakan pelancong membeli asuransi perjalanan tapi lupa membuat detail polis langsung mudah diakses - artinya ketika keadaan darurat medis atau bagasi hilang terjadi di luar negeri, Anda sibuk mencari-cari email alih-alih langsung menelepon minta bantuan.
+Kebanyakan pelancong membeli asuransi perjalanan tapi lupa membuat detail polis langsung mudah diakses - artinya ketika keadaan darurat medis atau bagasi hilang terjadi di luar negeri, Anda sibuk mencari-cari email alih-alih langsung menelepon minta bantuan. Panduan kami tentang [dokumen asuransi perjalanan mana saja yang perlu disimpan sebelum berangkat](https://traveldocumentvault.com/id/blog/travel-insurance-documents/) menjelaskan apa yang perlu disimpan dan di mana menyimpannya.
 
 Detail spesifik yang perlu disiapkan, baik di kertas maupun digital:
 
 - Nomor polis
 - Hotline darurat 24 jam (ini berbeda dari layanan pelanggan umum)
-- Batas cakupan untuk evakuasi medis (krusial - ini bisa menghabiskan puluhan ribu dolar)
+- Batas cakupan untuk evakuasi medis, yang biasanya dicantumkan secara terpisah dari cakupan medis umum
 - Pengecualian atau ketentuan apa pun yang berlaku untuk perjalanan Anda
 
 Nomor darurat sebaiknya disimpan di kontak ponsel Anda, terpisah dari dokumen fisik. Jika tas Anda hilang atau dicuri, ini memastikan Anda tetap bisa mengakses bantuan tanpa dokumen polis fisik.

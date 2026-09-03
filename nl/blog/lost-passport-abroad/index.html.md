@@ -24,6 +24,8 @@ Als je dit leest voor je vertrek, besteed dan de komende vijf minuten hieraan. M
 
 Bij aankomst op de ambassade vragen ze naar je paspoortnummer, afgiftedatum, plaats van afgifte en vervaldatum. Zonder kopie probeer je dit onder stress te onthouden. Met een kopie geef je de gegevens binnen enkele seconden door. **Consulair personeel geeft vervangende documenten sneller uit wanneer je met de gegevens al genoteerd aankomt.**
 
+Een kopie op je telefoon is een vastlegging van de gegevens, geen identiteitsbewijs, en die twee worden vaak door elkaar gehaald. Het is goed om vooraf te weten [waar een digitale paspoortkopie wordt geaccepteerd en waar je nog steeds het origineel nodig hebt](https://traveldocumentvault.com/nl/blog/digital-passport-copy-valid/).
+
 ## Stap 1: Bevestig dat het paspoort echt weg is
 
 Kijk overal na voordat je het ergste aanneemt - jaszakken, elk vak van je tas, de hotelkluis, de laatste taxi of het laatste restaurant. Als het echt weg of gestolen is, ga dan zonder uitstel verder met de volgende stappen.
@@ -63,6 +65,8 @@ Wat je meestal nodig hebt (bevestig dit met je ambassade voordat je langsgaat):
 ## Stap 5: Meld het bij je reisverzekeraar
 
 Meld het verlies zo snel mogelijk bij je reisverzekeraar. De meeste uitgebreide polissen dekken de kosten voor een nieuw paspoort, noodpaspoortkosten en soms extra verblijfskosten als je vertraging oploopt. Bewaar alle bonnetjes - je hebt ze nodig voor de claim, samen met het zaaknummer van het proces-verbaal.
+
+Je kunt die melding sneller doen als het polisnummer en het 24-uurs alarmnummer al bij de hand zijn in plaats van weggestopt in een inbox die je niet kunt bereiken. Onze gids over [welke reisverzekeringsdocumenten je moet bewaren voordat je vertrekt](https://traveldocumentvault.com/nl/blog/travel-insurance-documents/) laat zien wat je offline moet bewaren.
 
 ## Stap 6: Controleer je visumsituatie
 

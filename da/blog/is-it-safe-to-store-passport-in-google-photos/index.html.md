@@ -89,6 +89,8 @@ Er du iPhone-bruger, er det værd at slå **Avanceret databeskyttelse i iCloud**
 
 Vil du gerne have en digital paskopi ved hånden, når du rejser - som backup, hvis dit fysiske pas bliver væk eller stjålet - findes der løsninger, der giver reel sikkerhed uden det store besvær.
 
+To ting er værd at holde adskilt: at gemme en kopi til eget brug, og at forvente, at nogen accepterer den som legitimation. Det er ikke det samme, og [hvor en digital paskopi bliver accepteret](https://traveldocumentvault.com/da/blog/digital-passport-copy-valid/) viser, hvor grænsen går.
+
 **Krypterede kodeordshåndteringer**
 
 1Password og Bitwarden lader dig begge gemme dokumentcanninger som vedhæftede filer. De bruger zero-knowledge-kryptering - udbyderen kan ikke læse dit indhold, selv hvis de ville. Dine dokumenter bliver krypteret på din enhed, før noget sendes til deres servere. Det er et reelt løft fra et almindeligt cloud-fotobibliotek.
