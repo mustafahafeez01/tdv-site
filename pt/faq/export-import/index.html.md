@@ -1,6 +1,6 @@
 # Como Exportar e Importar Seu Cofre | Travel Document Vault
 
-> Guia passo a passo para exportar todo o seu cofre como ficheiro encriptado e importá-lo noutro dispositivo. Os seus dados continuam portáteis.
+> Guia passo a passo para exportar todo o seu cofre como ficheiro encriptado e importá-lo noutro dispositivo. Preserve os seus dados e garanta portabilidade.
 
 Source: https://traveldocumentvault.com/pt/faq/export-import/
 

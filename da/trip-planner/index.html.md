@@ -1,6 +1,6 @@
 # Rejseplanlægger til familier | Travel Document Vault
 
-> Planlæg familierejser med tillid. Beredskabslys. Pakkelister. Spor dag-grænser per land med opdeling pr. medlem. Vær forberedt før rejsen. Helt offline.
+> Plan familierejser med tillid. Beredskabslys. Pakkelister. Spor dag-grænser per land med opdeling pr. medlem. Vær forberedt før rejsen. Helt offline.
 
 Source: https://traveldocumentvault.com/da/trip-planner/
 

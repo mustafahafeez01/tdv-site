@@ -1,6 +1,6 @@
 # Why I Built Travel Document Vault: For the Parent Who Remembers Everything
 
-> I was tired of checking five apps before every family trip. So I built one place for everyone's documents. Offline, encrypted, no subscription.
+> Why I built Travel Document Vault after a 3am passport check before a family trip, and why it stores everything on your own device instead of a server.
 
 Source: https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/
 
