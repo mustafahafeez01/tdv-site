@@ -1,6 +1,6 @@
 # Regler för passfoto: storlek, glasögon och hur du tar bilden hemma
 
-> Reglerna för passfoto som gör att foton nekas: storlek, glasögon, bakgrund och belysning - plus hur du tar ett godkänt passfoto hemma med mobilen.
+> Får man ha glasögon på passfoto? Oftast inte. Det här är reglerna för storlek, bakgrund och ljus – och hur du tar bilden hemma med mobilen.
 
 Source: https://traveldocumentvault.com/sv/blog/passport-photo-at-home/
 
@@ -26,15 +26,17 @@ Ett foto taget hemma godkänns lika lätt som ett från en fotoautomat, förutsa
 
 Du behöver en enfärgad vit eller benvit bakgrund – inget annat fungerar. Inga mönster, skuggor, suddiga bakgrunder eller färger. Anledningen är enkel: tjänstemän behöver en ren, tydlig bild av ditt ansikte att jämföra mot framtida handlingar. De flesta använder ett vitt lakan, en affischkartong eller till och med målar en liten del av en vägg. Det viktiga är att hålla den ljus och jämn rakt igenom.
 
-### Uttryck och hållning
+### Hur ska man se ut på passfoto – uttryck och hållning
 
 Ditt ansikte ska fylla bildrutan i den andel din passmyndighet anger, med ögonen öppna och tydligt synliga – de flesta länder förbjuder leende, och kisande ögon diskvalificerar bilden. Titta rakt in i kameran med ett neutralt uttryck, luta huvudet lätt om det känns mer naturligt, men håll i regel huvudet rakt mot linsen. Öronen bör helst synas på båda sidor av ansiktet.
 
 ## Får man ha glasögon på passfoto?
 
-De flesta länder tillåter numera inte vanliga glasögon på passfoto om du inte bär dem permanent av medicinska skäl. Även då kan du behöva visa dokumentation eller ta ett separat foto utan glasögon. Vissa länder tillåter fortfarande läsglasögon om de är receptbelagda, men glaset får inte reflektera ljus och ögonen måste synas tydligt. Religiös huvudbonad är i regel tillåten så länge den inte döljer de ansiktsdrag som behövs för identifiering.
+Nej, i de allra flesta fall inte. De flesta länder tillåter numera inte vanliga glasögon på passfoto om du inte bär dem permanent av medicinska skäl, och även då kan du behöva visa dokumentation eller ta ett separat foto utan glasögon. Vissa länder tillåter fortfarande läsglasögon om de är receptbelagda, men glaset får inte reflektera ljus och ögonen måste synas tydligt. Religiös huvudbonad är i regel tillåten så länge den inte döljer de ansiktsdrag som behövs för identifiering.
 
 Solglasögon och tonade glas nekas överallt, utan medicinskt undantag. Kvalificerar du dig för att behålla glasögonen på, vinkla huvudet lite bort från ljuskällan så att glasen inte reflekterar, och kontrollera att bågarna inte skymmer någon del av ögonen.
+
+I Sverige är det Polismyndigheten som utfärdar pass, och fotot tas normalt på plats när du besöker en passexpedition, så du behöver oftast inte ta med en egen bild. Det du behöver ha koll på i förväg är hur du ska se ut när bilden tas, inte hur du skriver ut den, och det är polisens egna krav som gäller. Ett foto du tar hemma används i stället för visumansökningar och för pass som utfärdas av andra länder.
 
 ## Storlek på passfoto: de två standarder de flesta länder använder
 
@@ -50,6 +52,7 @@ Vi återger medvetet inte de siffrorna här. En uppgift som kopieras in i ett bl
 
 | Land | Var du hittar aktuella krav |
 |---|---|
+| Sverige | Polismyndighetens krav på passfoto |
 | USA | travel.state.gov:s krav på passfoto |
 | Storbritannien | gov.uk:s sida om passfoton |
 | Australien | Australian Passport Office:s fotoriktlinjer |
@@ -143,7 +146,7 @@ Naturligt ljus från ett fönster är idealiskt för passfoto. Undvik hårda sku
 
 ### Kan jag ha glasögon på passfotot?
 
-De flesta länder tillåter numera inte glasögon på passfoto om det inte är medicinskt nödvändigt. Även då kan du behöva visa upp dokumentation. Kontrollera ditt lands aktuella krav innan du tar fotot, eftersom reglerna har ändrats de senaste åren. Är du osäker, ta både en bild med och en utan glasögon för att ha alternativ.
+Nej, i de allra flesta fall inte. De flesta länder tillåter numera inte glasögon på passfoto om det inte är medicinskt nödvändigt, och även då kan du behöva visa upp dokumentation. Kontrollera ditt lands aktuella krav innan du tar fotot, eftersom reglerna har ändrats de senaste åren. Ansöker du om ett svenskt pass tas fotot av Polismyndigheten på passexpeditionen, så det är deras krav som gäller.
 
 ### Vilka regler gäller för ett passfoto?
 

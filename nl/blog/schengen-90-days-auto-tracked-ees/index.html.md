@@ -38,6 +38,34 @@ EES telt je dagen voor handhaving, maar vertelt je het aantal niet. Er is geen o
 
 De EU publiceert een officiële rekentool voor kort verblijf die het zeker waard is om te bookmarken. Je voert je vorige in- en uitreisdatums in, en de tool vertelt je of een gepland verblijf binnen je venster past. Dat werkt goed voor één reiziger die goede administratie bijhoudt. De wrijving ontstaat wanneer die administratie alleen in je geheugen zit, of wanneer je dezelfde oefening voor vier mensen tegelijk doet.
 
+## Voor wie EES geldt, en wie is vrijgesteld
+
+EES geldt niet voor iedereen. Het systeem registreert niet-EU-bezoekers die aankomen met de visumvrije kortverblijfregeling, en mensen met een kortverblijfvisum. Heb je de nationaliteit van de VS, het VK, Canada, Australië, of tientallen andere landen, dan geldt EES voor jou zodra je het Schengengebied binnenkomt.
+
+Ben je EU-, EER- of Zwitsers staatsburger, dan ben je vrijgesteld - je paspoort doorloopt geen speciale inreisprocedure, en EES registreert je in- en uitreizen niet. Heb je een langdurig visum (een jaar of langer), dan ontwijk je EES volledig, en het systeem volgt je bewegingen binnen het Schengengebied niet. Dit onderscheid is belangrijk, want je 90-dagenvenster loopt alleen af als EES je registreert.
+
+## Wat er gebeurt bij je eerste EES-grensovergang
+
+Het systeem maakt je registratie aan bij je eerste grensovergang naar het Schengengebied. Je sluit aan bij een biometrische kiosk aan de grens - luchthaven, haven of landgrens. Een ambtenaar scant je paspoort of reisdocument om je identiteit te controleren. Het systeem legt je gezichtsopname vast en neemt vingerafdrukken van beide handen. Dat duurt langer dan de stempel die het vervangt, en je doet het maar één keer.
+
+Na registratie legt het systeem de exacte datum en tijd van je inreis vast. Overschrijd je later je 90 van de 180 dagen, dan wordt dat tijdstip het referentiepunt dat EES gebruikt om je voortschrijdende venster te berekenen.
+
+## Wat er verandert bij latere grensovergangen
+
+Je tweede en volgende inreizen verlopen sneller. In plaats van een volledige registratie controleert het systeem je gegevens aan de hand van je eerste registratie - het vergelijkt je gezichtsopname met de opgeslagen versie en bevestigt dat je dezelfde persoon bent. Het systeem legt opnieuw je inreistijd vast. EES maakt dan een optelling: het telt deze inreis op bij alle eerdere inreizen binnen het voortschrijdende venster van 180 dagen en vergelijkt het totaal met 90.
+
+Zit je binnen je toegestane aantal dagen, dan krijg je een standaard inreis en ga je door. Zit je erboven, dan waarschuwt het systeem de ambtenaar, en krijg je te maken met weigering. Deze berekening gebeurt bij elke grensovergang, automatisch.
+
+## Kinderen en biometrische registratie
+
+EES stelt kinderen onder de 12 jaar momenteel vrij van het afnemen van vingerafdrukken. Wanneer een ouder of voogd een kind naar de grens brengt, legt de ambtenaar toch een gezichtsopname vast voor het EES-dossier - het systeem moet weten dat dit kind is overgestoken, en wanneer. De vingerafdrukken slaat de ambtenaar over. Vanaf 12 jaar veranderen de regels; vanaf dat moment omvat de biometrische registratie van een kind ook vingerafdrukken.
+
+## Het bericht "kan momenteel niet worden berekend"
+
+Sommige reizigers meldden een foutmelding bij de grens die ongeveer luidt: "Uw resterende toegestane verblijf kan momenteel niet worden berekend vanwege tijdelijk onvolledige gegevens in het inreis-uitreissysteem." Dit bericht verschijnt tijdens de check-in of bij de kiosk, wanneer de ambtenaar je probeert te verifiëren. Wat het betekent: EES draait, maar het systeem kan je vorige registratie nog niet vinden, of de gegevens van je laatste grensovergang zijn nog niet gesynchroniseerd over alle Schengengrenzen.
+
+Dit is een bericht dat hoort bij deze overgangsperiode, en het komt het vaakst voor wanneer je heel recent het Schengengebied bent binnengekomen en de grenssystemen de gegevens tussen lidstaten nog synchroniseren. Het bericht wijst op een probleem met de gegevens in het systeem, niet op een probleem met je verblijf, en het geeft aan dat de automatische controle niet is voltooid. Wat er daarna gebeurt, is de beslissing van de grensambtenaar - dat kunnen wij niet beloven. Zie je dit bericht, vraag de ambtenaar dan rechtstreeks of je dagentelling een probleem vormt, en houd zelf een nauwkeurige registratie bij van elke dag die je in het Schengengebied doorbrengt.
+
 ## Zo houd je je venster in de praktijk bij
 
 De handmatige methode komt eerst, omdat die gratis en officieel is: neem de datum van vandaag en kijk 180 dagen terug. Tel elke dag dat je fysiek in een Schengenland was in die periode – zowel aankomst- als vertrekdag tellen mee. Trek het totaal af van 90; dat is wat je nu nog over hebt. Omdat het venster voortschrijdt, verschuift de berekening morgen met een dag, en daarom vraagt de rekentool van de EU om je volledige reisgeschiedenis in plaats van één getal.

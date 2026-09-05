@@ -38,6 +38,34 @@ Das EES zählt Ihre Tage zur Kontrolle, aber es sagt Ihnen nicht die Zahl. Es gi
 
 Die EU veröffentlicht einen offiziellen Kurzaufenthaltsrechner, den Sie sich gerne merken können. Sie geben Ihre bisherigen Ein- und Ausreisedaten ein, und das Tool sagt Ihnen, ob ein geplanter Aufenthalt in Ihr Fenster passt. Es funktioniert gut für einen Reisenden, der gute Aufzeichnungen führt. Die Hürde kommt, wenn die Daten in Ihrer Erinnerung leben oder wenn Sie die Übung für vier Personen gleichzeitig durchführen.
 
+## Für wen das EES gilt und wer ausgenommen ist
+
+Das EES gilt nicht für alle. Das System registriert Nicht-EU-Besucher, die mit der visumfreien Kurzaufenthaltsberechtigung einreisen, sowie Inhaber von Kurzaufenthaltsvisa. Wenn Sie die Staatsangehörigkeit der USA, Großbritanniens, Kanadas, Australiens oder eines von Dutzenden anderer Länder besitzen, gilt das EES für Sie in dem Moment, in dem Sie den Schengen-Raum betreten.
+
+Wenn Sie EU-, EWR- oder Schweizer Bürger sind, sind Sie ausgenommen - Ihr Reisepass durchläuft kein besonderes Einreiseverfahren, und das EES erfasst Ihre Ein- und Ausreisen nicht. Ebenso umgehen Sie das EES vollständig, wenn Sie ein Langzeitvisum (ein Jahr oder länger) besitzen, und das System verfolgt Ihre Bewegungen innerhalb des Schengen-Raums nicht. Dieser Unterschied ist wichtig, denn Ihr 90-Tage-Fenster zählt nur herunter, wenn das EES Sie erfasst.
+
+## Was bei Ihrer ersten EES-Grenzkontrolle passiert
+
+Das System legt Ihre Akte bei Ihrer ersten Einreise in den Schengen-Raum an. Sie stellen sich an einem biometrischen Kiosk an der Grenze an - Flughafen, Hafen oder Landgrenzübergang. Ein Beamter scannt Ihren Reisepass oder Ihr Reisedokument, um Ihre Identität zu prüfen. Das System erfasst Ihr Gesichtsbild und nimmt Fingerabdrücke beider Hände. Das dauert länger als der Stempel, den es ersetzt, und Sie tun es nur einmal.
+
+Nach der Registrierung erfasst das System das genaue Datum und die Uhrzeit Ihrer Einreise. Überschreiten Sie später Ihre 90 von 180 Tagen, wird dieser Zeitstempel zum Referenzpunkt, den das EES zur Berechnung Ihres rollierenden Fensters verwendet.
+
+## Was sich bei späteren Grenzübertritten ändert
+
+Ihre zweite und weitere Einreisen laufen schneller ab. Statt einer vollständigen Registrierung gleicht das System Ihre Daten mit Ihrer Erstregistrierung ab - es vergleicht Ihr Gesichtsbild mit dem gespeicherten und bestätigt, dass Sie dieselbe Person sind. Das System erfasst erneut Ihre Einreisezeit. Das EES führt nun eine Zählung durch: Es addiert diese Einreise zu allen vorherigen Einreisen im rollierenden 180-Tage-Fenster und vergleicht die Summe mit 90.
+
+Liegen Sie innerhalb Ihres Kontingents, erhalten Sie eine reguläre Einreise und gehen durch. Überschreiten Sie es, alarmiert das System den Beamten, und Sie werden abgewiesen. Diese Berechnung erfolgt bei jedem Grenzübertritt automatisch.
+
+## Kinder und die biometrische Registrierung
+
+Das EES nimmt Kinder unter 12 Jahren derzeit von der Fingerabdruckerfassung aus. Wenn ein Elternteil oder Erziehungsberechtigter ein Kind zur Grenze bringt, erfasst der Beamte trotzdem ein Gesichtsbild für die EES-Akte - das System muss wissen, dass dieses Kind die Grenze überquert hat und wann. Der Beamte lässt die Fingerabdrücke aus. Mit 12 Jahren ändern sich die Regeln; ab diesem Zeitpunkt umfasst die biometrische Registrierung eines Kindes auch Fingerabdrücke.
+
+## Die Meldung "kann derzeit nicht berechnet werden"
+
+Manche Reisende berichten von einer Fehlermeldung an der Grenze, die etwa lautet: "Ihr verbleibender genehmigter Aufenthalt kann derzeit aufgrund vorübergehend unvollständiger Daten im Ein-/Ausreisesystem nicht berechnet werden." Diese Meldung erscheint beim Check-in oder am Kiosk, wenn der Beamte versucht, Sie zu verifizieren. Was das bedeutet: Das EES läuft, aber das System kann Ihre vorherige Akte noch nicht finden, oder die Daten Ihres letzten Grenzübertritts wurden noch nicht über alle Schengen-Grenzen hinweg synchronisiert.
+
+Dies ist eine Meldung der Übergangsphase, am häufigsten, wenn Sie erst sehr kürzlich in den Schengen-Raum eingereist sind und die Grenzsysteme die Daten zwischen den Mitgliedstaaten noch synchronisieren. Die Meldung weist auf ein Datenproblem im System hin, nicht auf ein Problem mit Ihrem Aufenthalt, und zeigt an, dass die automatische Prüfung nicht abgeschlossen wurde. Was als Nächstes geschieht, liegt in der Entscheidung des Grenzbeamten - das können wir nicht versprechen. Wenn Sie diese Meldung sehen, fragen Sie den Beamten direkt, ob Ihre Tagezählung ein Problem darstellt, und führen Sie selbst genaue Aufzeichnungen über jeden Tag, den Sie im Schengen-Raum verbringen.
+
 ## Ihr Fenster in der Praxis nachverfolgen
 
 Die manuelle Methode kommt zuerst, weil sie kostenlos und offiziell ist: Nehmen Sie das heutige Datum und blicken Sie 180 Tage zurück. Zählen Sie jeden Tag, an dem Sie sich in dieser Zeit physisch in einem Schengen-Land aufgehalten haben – Ein- und Ausreisetage zählen beide. Subtrahieren Sie die Gesamtzahl von 90; das ist, was Sie jetzt noch haben. Weil sich das Fenster verschiebt, ändert sich die Berechnung morgen um einen Tag, weshalb der EU-Rechner nach Ihrer vollständigen Reisegeschichte fragt und nicht nur eine Einzelzahl.

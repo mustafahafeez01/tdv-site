@@ -38,6 +38,34 @@ O EES conta os seus dias para aplicação, mas não lhe diz o número. Não exis
 
 A UE publica uma calculadora oficial de estadas curtas que vale a pena marcar como favorita. Introduz as suas datas anteriores de entrada e saída, e ela diz-lhe se uma estada planeada se encaixa dentro da sua janela. Funciona bem para um viajante que mantém bons registos. O atrito aparece quando os registos vivem na sua memória, ou quando está a fazer o exercício para quatro pessoas ao mesmo tempo.
 
+## A quem o EES se aplica, e quem está isento
+
+Nem todos estão sujeitos ao EES. O sistema regista os visitantes não-UE que chegam com a autorização de estada curta isenta de visto, e aqueles com vistos de curta duração. Se tem a nacionalidade dos Estados Unidos, Reino Unido, Canadá, Austrália, ou de dezenas de outros países, o EES aplica-se a si no momento em que entra no Espaço Schengen.
+
+Se é cidadão da UE, do EEE ou da Suíça, está isento - o seu passaporte não passa por nenhum processo especial de entrada, e o EES não regista as suas entradas e saídas. Da mesma forma, se tem um visto de longa duração (um ano ou mais), fica totalmente fora do alcance do EES, e o sistema não acompanha os seus movimentos dentro do Espaço Schengen. Esta distinção importa porque a sua janela de 90 dias só diminui se o EES o estiver a registar.
+
+## O que acontece na sua primeira passagem pelo EES
+
+O sistema cria o seu registo na sua primeira entrada no Espaço Schengen. Vai fazer fila num quiosque biométrico na fronteira - aeroporto, porto ou fronteira terrestre. Um agente digitaliza o seu passaporte ou documento de viagem para verificar a sua identidade. O sistema capta a sua imagem facial e recolhe as impressões digitais de ambas as mãos. Demora mais tempo do que o carimbo que substitui, e só o faz uma vez.
+
+Depois de registado, o sistema guarda a data e hora exatas da sua entrada. Se mais tarde ultrapassar os 90 dias em 180, esse registo de hora torna-se o ponto de referência que o EES usa para calcular a sua janela móvel.
+
+## O que muda nas passagens seguintes
+
+A sua segunda entrada e as seguintes são mais rápidas. Em vez de um registo completo, o sistema verifica os seus dados face ao seu registo inicial - comparando a sua imagem facial com a guardada e confirmando que é a mesma pessoa. O sistema regista novamente a hora da sua entrada. O EES faz então uma contagem: soma esta entrada a todas as anteriores dentro da janela móvel de 180 dias e compara o total com 90.
+
+Se estiver dentro do seu limite, recebe uma entrada normal e passa. Se o ultrapassar, o sistema alerta o agente, e vai enfrentar uma recusa. Este cálculo acontece em cada passagem, automaticamente.
+
+## As crianças e o registo biométrico
+
+O EES isenta atualmente as crianças com menos de 12 anos da recolha de impressões digitais. Quando um pai, mãe ou tutor leva uma criança à fronteira, o agente capta na mesma uma imagem facial para o registo do EES - o sistema precisa de saber que essa criança passou, e quando. O agente dispensa as impressões digitais. Aos 12 anos as regras mudam; a partir daí, o registo biométrico de uma criança passa a incluir impressões digitais.
+
+## A mensagem "não é possível calcular atualmente"
+
+Alguns viajantes reportaram um erro na fronteira semelhante a: "A sua estada autorizada restante não pode ser calculada atualmente devido a dados temporariamente incompletos no sistema de entrada/saída." Esta mensagem aparece durante o check-in ou no quiosque, quando o agente tenta verificá-lo. O que significa: o EES está em funcionamento, mas o sistema ainda não consegue encontrar o seu registo anterior, ou os dados da sua última passagem ainda não sincronizaram em todas as fronteiras Schengen.
+
+Esta é uma mensagem típica desta fase de transição, mais comum quando entrou no Espaço Schengen muito recentemente e os sistemas de fronteira ainda estão a sincronizar dados entre os estados-membros. A mensagem sinaliza um problema com os dados no sistema, e não um problema com a sua estada, e indica que a verificação automática não foi concluída. O que acontece a seguir é uma decisão do agente de fronteira, e não algo que possamos prometer. Se vir esta mensagem, pergunte diretamente ao agente se a sua contagem de dias é motivo de preocupação, e mantenha você mesmo um registo detalhado de cada dia que passar no Espaço Schengen.
+
 ## Como Acompanhar a Sua Janela na Prática
 
 O método manual vem primeiro, porque é gratuito e oficial: pegue na data de hoje e olhe para trás 180 dias. Some cada dia que esteve fisicamente dentro de qualquer país Schengen durante esse período — os dias de chegada e partida contam ambos. Subtraia o total a 90; é o que tem restante agora. Como a janela se move, amanhã o cálculo muda por um dia, razão pela qual a calculadora da UE pede o seu histórico de viagem completo em vez de um único número.

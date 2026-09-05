@@ -1,6 +1,6 @@
-# Pasfoto regler: størrelse, briller og sådan tager du det derhjemme
+# Regler for pasfoto: størrelse, briller og sådan tager du det derhjemme
 
-> Reglerne for pasfoto, der får billeder afvist: størrelse, briller, baggrund og lys - plus sådan tager du et godkendt pasfoto derhjemme med din telefon.
+> Må man have briller på til pasfoto? Som regel ikke. Her er reglerne for størrelse, baggrund og lys – og sådan tager du billedet derhjemme.
 
 Source: https://traveldocumentvault.com/da/blog/passport-photo-at-home/
 
@@ -26,15 +26,17 @@ Selvom de konkrete regler varierer fra pasmyndighed til pasmyndighed, deler de f
 
 Du skal bruge en ensfarvet hvid eller råhvid baggrund – intet andet fungerer. Ingen mønstre, skygger, slørede baggrunde eller farver. Begrundelsen er enkel: myndighederne har brug for et rent, ryddeligt billede af dit ansigt til at sammenligne med fremtidige dokumenter. De fleste bruger et hvidt lagen, en plakatplade eller maler ligefrem et lille stykke væg. Det vigtige er at holde det lyst og ensartet hele vejen igennem.
 
-### Udtryk og positur
+### Hvordan skal man se ud på et pasfoto – udtryk og positur
 
 Dit ansigt skal fylde billedet i den andel, din pasmyndighed angiver, med øjnene åbne og tydeligt synlige – de fleste lande forbyder smil, og at knibe øjnene sammen diskvalificerer billedet. Se lige ind i kameraet med et neutralt udtryk, vip evt. hovedet en anelse, hvis det føles mere naturligt, men hold generelt hovedet lige mod linsen. Ørerne bør helst være synlige på begge sider af ansigtet.
 
-## Må jeg have briller på i et pasfoto?
+## Må man have briller på til pasfoto?
 
-De fleste lande tillader nu ikke almindelige briller på pasfoto, medmindre du bærer dem permanent af medicinske årsager. Selv da kan du blive bedt om at fremvise dokumentation eller tage et separat billede uden briller. Nogle lande tillader stadig læsebriller, hvis de er ordineret, men glasset må ikke give reflekser, og øjnene skal være tydeligt synlige. Religiøs hovedbeklædning er som regel tilladt, så længe den ikke skjuler de ansigtstræk, der er nødvendige for identifikation.
+Nej, i langt de fleste tilfælde ikke. De fleste lande tillader ikke længere almindelige briller på pasfoto, medmindre du bærer dem permanent af medicinske årsager, og selv da kan du blive bedt om at fremvise dokumentation eller tage et separat billede uden briller. Nogle lande tillader stadig læsebriller, hvis de er ordineret, men glasset må ikke give reflekser, og øjnene skal være tydeligt synlige. Religiøs hovedbeklædning er som regel tilladt, så længe den ikke skjuler de ansigtstræk, der er nødvendige for identifikation.
 
 Solbriller og tonede glas afvises overalt, uden lægelig dispensation. Kvalificerer du dig til at beholde brillerne på, så vinkl hovedet lidt væk fra lyskilden, så glassene ikke reflekterer, og tjek at stellet ikke dækker nogen del af øjnene.
+
+I Danmark ansøger du om pas i Borgerservice i din kommune, og kravene til selve billedet fastsættes af politiet. Det er deres liste, der afgør, om billedet bliver godkendt, så tjek den, før du printer noget eller møder op – reglerne for briller og hovedbeklædning står der.
 
 ## Størrelse på pasfoto: de to standarder de fleste lande bruger
 
@@ -50,6 +52,7 @@ Vi gengiver bevidst ikke de tal her. Et tal, der kopieres ind i et blogindlæg, 
 
 | Land | Hvor du finder de aktuelle krav |
 |---|---|
+| Danmark | Politiets krav til pasfoto, via kommunens borgerservice |
 | USA | travel.state.govs krav til pasfoto |
 | Storbritannien | gov.uks side om pasfotos |
 | Australien | Australian Passport Offices fotovejledning |
@@ -141,9 +144,9 @@ Almindelige afvisningsgrunde er skygger i ansigtet, forkert størrelse, smil ell
 
 Naturligt lys fra et vindue er ideelt til pasfoto. Undgå hårde skygger i ansigtet, og brug ikke kamerablitz. Stil dig med ansigtet direkte mod lyskilden eller vinkelret på et vindue, så lyset falder jævnt på ansigtet. Overskyet vejr giver et behageligt, diffust lys uden hårde skygger.
 
-### Må jeg have briller på i et pasfoto?
+### Må jeg have briller på, når der tages pasfoto?
 
-De fleste lande tillader nu ikke briller på pasfoto, medmindre det er lægeligt nødvendigt. Selv da kan du blive bedt om at fremvise dokumentation. Tjek dit lands aktuelle krav, før du tager billedet, da reglerne er blevet ændret de seneste år. Er du i tvivl, så tag et billede både med og uden briller for at have begge muligheder.
+Nej, i langt de fleste tilfælde ikke. De fleste lande tillader ikke længere briller på pasfoto, medmindre det er lægeligt nødvendigt, og selv da kan du blive bedt om at fremvise dokumentation. Tjek dit lands aktuelle krav, før du tager billedet, da reglerne er blevet ændret de seneste år. Søger du dansk pas, er det politiets krav, der gælder, og du finder dem via Borgerservice i din kommune.
 
 ### Hvad er reglerne for et pasfoto?
 

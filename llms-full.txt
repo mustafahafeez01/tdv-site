@@ -2521,6 +2521,34 @@ EES counts your days for enforcement, but it doesn't tell you the number. There'
 
 The EU publishes an official short-stay calculator that's well worth bookmarking. You enter your past entry and exit dates, and it tells you whether a planned stay fits inside your window. It works well for one traveller who keeps good records. The friction appears when the records live in your memory, or when you're doing the exercise for four people at once.
 
+## Who EES Applies To, and Who Is Exempt
+
+Not everyone meets EES. The system registers non-EU visitors who arrive on visa-free short-stay allowances, and those on short-stay visas. If you hold citizenship from the US, UK, Canada, Australia, or dozens of other countries, EES applies to you the moment you cross into Schengen.
+
+If you're an EU, EEA or Swiss citizen, you're exempt - your passport receives no special entry process, and EES does not log your entries and exits. Similarly, if you hold a long-stay visa (one year or longer), you bypass EES entirely, and the system does not track your movements inside the Schengen area. This distinction matters because your 90-day window only ticks down if EES is recording you.
+
+## What Happens at Your First EES Crossing
+
+The system creates your record at your first crossing into the Schengen area. You'll queue at a biometric kiosk at the border - airport, port, or land crossing. An officer scans your passport or travel document to check your identity. The system captures your facial image and takes your fingerprints from both hands. It takes longer than the passport stamp it replaces, and you only do it once.
+
+Once registered, the system records your exact entry date and time. If you later exceed your 90 days in 180, this timestamp becomes the reference point EES uses to calculate your rolling window.
+
+## What Changes on Later Crossings
+
+Your second and subsequent entries move faster. Instead of full registration, the system verifies your details against your first-time record - comparing your facial image to the stored one and confirming you're the same person. The system logs your entry time again. EES now runs a tally: it adds this entry to all previous entries in the rolling 180-day window and compares the total to 90.
+
+If you're within your allowance, you receive a standard entry and pass through. If you're over, the system alerts the officer, and you'll face refusal. This calculation happens for every crossing, automatically.
+
+## Children and Biometric Registration
+
+EES currently exempts children under 12 from fingerprint collection. When a parent or guardian brings a child to the border, the officer still captures a facial image for the EES record - the system needs to know that this child crossed and when. The officer skips the fingerprints. At 12 years old, the rules shift; from that point forward, a child's biometric registration includes fingerprints.
+
+## The "Cannot Currently Be Calculated" Message
+
+Some travellers have reported an error at the border reading something like: "Your remaining authorised stay cannot currently be calculated due to temporary incomplete data in the entry/exit system." This message appears during check-in or at the kiosk when the officer tries to verify you. What it means: EES is running, but the system cannot yet find your previous record, or data from your last crossing hasn't synced across all Schengen borders.
+
+This is a transition-era message, most common when you've entered Schengen very recently and border systems are still synchronising data across member states. The message reports a problem with the data in the system rather than a problem with your stay, and it signals that the automatic check did not complete. What happens next is the border officer's decision, not something we can promise. If you see it, ask the officer directly whether your day count is a concern, and keep detailed records of every day you spend in the Schengen area yourself.
+
 ## How to Track Your Window in Practice
 
 The manual method comes first, because it's free and official: take today's date and look back 180 days. Tally every day you were physically inside any Schengen country during that period - arrival and departure days both count. Subtract the total from 90; that's what you have left right now. Because the window rolls, tomorrow the calculation shifts by a day, which is why the EU's calculator asks for your full trip history rather than a single number.

@@ -38,6 +38,34 @@ EES räknar dina dagar för kontrolländamål, men det talar inte om antalet fö
 
 EU publicerar en officiell kalkylator för korta vistelser som verkligen är värd att bokmärka. Du anger dina tidigare in- och utresedatum, och den talar om huruvida en planerad vistelse ryms inom ditt fönster. Den fungerar bra för en enskild resenär som för noggranna anteckningar. Friktionen uppstår när anteckningarna bara finns i minnet, eller när du gör samma övning för fyra personer samtidigt.
 
+## Vem EES gäller för, och vem som är undantagen
+
+EES gäller inte alla. Systemet registrerar icke-EU-besökare som anländer på den viseringsfria korttidsvistelsen, samt personer med korttidsvisum. Har du medborgarskap i USA, Storbritannien, Kanada, Australien, eller något av dussintals andra länder, gäller EES dig i samma stund du reser in i Schengenområdet.
+
+Är du EU-, EES- eller schweizisk medborgare är du undantagen - ditt pass går inte igenom någon särskild inresekontroll, och EES registrerar inte dina in- och utresor. På samma sätt slipper du EES helt om du har ett långtidsvisum (ett år eller längre), och systemet spårar då inte dina förflyttningar inom Schengenområdet. Den här skillnaden spelar roll eftersom ditt 90-dagarsfönster bara räknas ner om EES registrerar dig.
+
+## Vad som händer vid din första EES-gränspassage
+
+Systemet skapar din registrering vid din första gränspassage in i Schengenområdet. Du köar vid en biometrisk kiosk vid gränsen - flygplats, hamn eller landgräns. En tjänsteman skannar ditt pass eller resedokument för att kontrollera din identitet. Systemet fångar din ansiktsbild och tar fingeravtryck från båda händerna. Det tar längre tid än stämpeln det ersätter, och du gör det bara en gång.
+
+När du väl är registrerad sparar systemet exakt datum och klockslag för din inresa. Överskrider du senare dina 90 av 180 dagar blir just den tidsstämpeln referenspunkten som EES använder för att beräkna ditt rullande fönster.
+
+## Vad som ändras vid senare gränspassager
+
+Din andra och efterföljande inresor går snabbare. Istället för en fullständig registrering kontrollerar systemet dina uppgifter mot din första registrering - det jämför din ansiktsbild med den sparade och bekräftar att du är samma person. Systemet loggar din inresetid igen. EES gör då en summering: det lägger till den här inresan till alla tidigare inresor inom det rullande 180-dagarsfönstret och jämför summan med 90.
+
+Ligger du inom din tillåtna gräns får du en vanlig inresa och går vidare. Ligger du över blir tjänstemannen varnad av systemet, och du nekas inresa. Den här beräkningen sker vid varje gränspassage, automatiskt.
+
+## Barn och biometrisk registrering
+
+EES undantar för närvarande barn under 12 år från fingeravtrycksinsamling. När en förälder eller vårdnadshavare tar med ett barn till gränsen tar tjänstemannen ändå en ansiktsbild för EES-registret - systemet behöver veta att barnet har passerat, och när. Tjänstemannen hoppar över fingeravtrycken. Vid 12 års ålder ändras reglerna; från den punkten omfattar ett barns biometriska registrering även fingeravtryck.
+
+## Meddelandet "kan för närvarande inte beräknas"
+
+Vissa resenärer har rapporterat ett felmeddelande vid gränsen som ungefär lyder: "Din återstående godkända vistelse kan för närvarande inte beräknas på grund av tillfälligt ofullständiga uppgifter i in- och utresesystemet." Meddelandet dyker upp vid incheckningen eller vid kiosken, när tjänstemannen försöker verifiera dig. Vad det betyder: EES körs, men systemet kan ännu inte hitta ditt tidigare register, eller så har uppgifterna från din senaste gränspassage inte synkroniserats mellan alla Schengens gränser än.
+
+Det här är ett meddelande som hör till övergångsperioden och är vanligast när du nyligen har rest in i Schengenområdet och gränssystemen fortfarande synkroniserar data mellan medlemsstaterna. Meddelandet flaggar ett problem med uppgifterna i systemet, inte ett problem med din vistelse, och visar att den automatiska kontrollen inte slutfördes. Vad som händer härnäst är gränstjänstemannens beslut - det är inget vi kan lova. Ser du meddelandet, fråga tjänstemannen direkt om din dagräkning är ett problem, och för själv noggranna anteckningar över varje dag du tillbringar i Schengenområdet.
+
 ## Så räknar du ditt fönster i praktiken
 
 Den manuella metoden kommer först, eftersom den är gratis och officiell: ta dagens datum och räkna 180 dagar bakåt. Räkna varje dag du fysiskt befann dig i något Schengenland under den perioden – både ankomst- och avresedag räknas. Dra av totalen från 90; det är vad du har kvar just nu. Eftersom fönstret rullar förskjuts beräkningen med en dag imorgon, vilket är anledningen till att EU:s kalkylator efterfrågar hela din resehistorik i stället för ett enda tal.

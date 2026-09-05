@@ -38,6 +38,34 @@ EES menghitung hari Anda untuk penegakan aturan, tapi tidak memberi tahu Anda an
 
 UE menerbitkan kalkulator resmi tinggal singkat yang sangat layak untuk disimpan. Anda memasukkan tanggal masuk dan keluar sebelumnya, dan kalkulator akan memberi tahu apakah rencana tinggal Anda muat dalam jendela Anda. Ini bekerja baik untuk satu pelancong yang mencatat dengan rapi. Kesulitannya muncul saat catatan hanya ada di ingatan Anda, atau saat Anda melakukan perhitungan yang sama untuk empat orang sekaligus.
 
+## Siapa yang Berlaku untuk EES, dan Siapa yang Dikecualikan
+
+Tidak semua orang tunduk pada EES. Sistem ini mendaftarkan pengunjung non-UE yang masuk dengan fasilitas tinggal singkat bebas visa, serta mereka yang memegang visa tinggal singkat. Jika Anda memegang kewarganegaraan AS, Inggris, Kanada, Australia, atau puluhan negara lainnya, EES berlaku untuk Anda begitu Anda memasuki wilayah Schengen.
+
+Jika Anda warga negara UE, EEA, atau Swiss, Anda dikecualikan. Paspor Anda tidak melalui proses masuk khusus, dan EES tidak mencatat kedatangan maupun keberangkatan Anda. Begitu pula, jika Anda memegang visa tinggal lama (satu tahun atau lebih), Anda sepenuhnya melewati EES, dan sistem tidak melacak pergerakan Anda di dalam wilayah Schengen. Perbedaan ini penting karena jatah 90 hari Anda hanya berkurang jika EES sedang mencatat Anda.
+
+## Yang Terjadi pada Pelintasan EES Pertama Anda
+
+Sistem membuat catatan Anda pada pelintasan pertama ke wilayah Schengen. Anda akan mengantre di kios biometrik di perbatasan, baik itu bandara, pelabuhan, maupun perlintasan darat. Petugas memindai paspor atau dokumen perjalanan Anda untuk memeriksa identitas. Sistem merekam gambar wajah Anda dan mengambil sidik jari dari kedua tangan Anda. Prosesnya memakan waktu lebih lama daripada cap paspor yang digantikannya, tetapi Anda hanya melakukannya sekali.
+
+Setelah terdaftar, sistem mencatat tanggal dan waktu masuk Anda secara tepat. Jika kemudian Anda melebihi 90 hari dari 180 hari, catatan waktu ini menjadi titik acuan yang digunakan EES untuk menghitung jendela bergulir Anda.
+
+## Yang Berubah pada Pelintasan Berikutnya
+
+Kedatangan kedua dan seterusnya berjalan lebih cepat. Alih-alih pendaftaran penuh, sistem memverifikasi data Anda terhadap catatan pertama Anda, membandingkan gambar wajah Anda dengan yang tersimpan dan memastikan Anda orang yang sama. Sistem mencatat waktu masuk Anda lagi. EES kemudian menjalankan penjumlahan, menambahkan kedatangan ini ke semua kedatangan sebelumnya dalam jendela bergulir 180 hari dan membandingkan totalnya dengan 90.
+
+Jika Anda masih dalam jatah, Anda menerima izin masuk standar dan melanjutkan perjalanan. Jika Anda melebihi jatah, sistem memperingatkan petugas, dan Anda akan menghadapi penolakan masuk. Perhitungan ini terjadi secara otomatis pada setiap pelintasan.
+
+## Anak-Anak dan Pendaftaran Biometrik
+
+EES saat ini mengecualikan anak-anak di bawah 12 tahun dari pengambilan sidik jari. Ketika orang tua atau wali membawa anak ke perbatasan, petugas tetap merekam gambar wajah untuk catatan EES, karena sistem perlu tahu bahwa anak ini melintas dan kapan. Petugas melewati pengambilan sidik jari. Pada usia 12 tahun, aturannya berubah; sejak saat itu, pendaftaran biometrik anak mencakup sidik jari.
+
+## Pesan "Tidak Dapat Dihitung Saat Ini"
+
+Beberapa pelancong melaporkan pesan kesalahan di perbatasan yang berbunyi seperti: "Sisa masa tinggal resmi Anda saat ini tidak dapat dihitung karena data yang belum lengkap sementara dalam sistem masuk/keluar." Pesan ini muncul saat check in atau di kios ketika petugas mencoba memverifikasi Anda. Artinya: EES sedang berjalan, tetapi sistem belum dapat menemukan catatan Anda sebelumnya, atau data dari pelintasan terakhir Anda belum tersinkronisasi di semua perbatasan Schengen.
+
+Ini adalah pesan masa transisi, paling sering muncul ketika Anda baru saja memasuki wilayah Schengen dan sistem perbatasan masih menyinkronkan data antarnegara anggota. Pesan ini melaporkan masalah pada data dalam sistem, bukan masalah pada masa tinggal Anda, dan menandakan bahwa pemeriksaan otomatis belum selesai. Apa yang terjadi selanjutnya adalah keputusan petugas perbatasan, bukan sesuatu yang bisa kami janjikan. Jika Anda melihatnya, tanyakan langsung kepada petugas apakah hitungan hari Anda menjadi masalah, dan simpan catatan rinci setiap hari yang Anda habiskan di wilayah Schengen sendiri.
+
 ## Cara Melacak Jendela Anda dalam Praktik
 
 Metode manual didahulukan karena gratis dan resmi: ambil tanggal hari ini dan lihat 180 hari ke belakang. Hitung setiap hari Anda secara fisik berada di negara Schengen mana pun selama periode itu, hari kedatangan dan keberangkatan sama-sama dihitung. Kurangi totalnya dari 90; itulah sisa hari Anda saat ini. Karena jendelanya bergulir, perhitungan akan bergeser satu hari besok, itulah sebabnya kalkulator UE meminta seluruh riwayat perjalanan Anda, bukan hanya satu angka.

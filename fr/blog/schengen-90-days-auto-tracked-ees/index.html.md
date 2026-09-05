@@ -38,6 +38,34 @@ Le EES compte vos jours pour l'application, mais il ne vous dit pas le nombre. I
 
 L'UE publie une calculatrice officielle de court séjour qui vaut vraiment la peine d'être mise en signet. Vous entrez vos dates d'entrée et de sortie passées, et elle vous indique si un séjour prévu s'inscrit dans votre fenêtre. Elle fonctionne bien pour une personne qui tient de bons dossiers. Les frictions apparaissent quand les dossiers vivent dans votre mémoire, ou quand vous faites l'exercice pour quatre personnes à la fois.
 
+## Qui est concerné par le EES, et qui en est exempté
+
+Le EES ne concerne pas tout le monde. Le système enregistre les visiteurs non-UE qui arrivent avec l'autorisation de court séjour sans visa, ainsi que les titulaires de visas de court séjour. Si vous êtes citoyen des États-Unis, du Royaume-Uni, du Canada, de l'Australie, ou de dizaines d'autres pays, le EES s'applique à vous dès que vous entrez dans l'espace Schengen.
+
+Si vous êtes citoyen de l'UE, de l'EEE ou de la Suisse, vous en êtes exempté - votre passeport ne fait l'objet d'aucune procédure d'entrée particulière, et le EES n'enregistre pas vos entrées et sorties. De même, si vous détenez un visa de long séjour (un an ou plus), vous échappez entièrement au EES, et le système ne suit pas vos déplacements à l'intérieur de l'espace Schengen. Cette distinction compte, car votre fenêtre de 90 jours ne diminue que si le EES vous enregistre.
+
+## Ce qui se passe lors de votre premier passage EES
+
+Le système crée votre dossier lors de votre premier passage dans l'espace Schengen. Vous ferez la queue à une borne biométrique à la frontière - aéroport, port ou poste-frontière terrestre. Un agent scanne votre passeport ou votre document de voyage pour vérifier votre identité. Le système capture votre image faciale et prend vos empreintes des deux mains. Cela prend plus de temps que le tampon qu'il remplace, et vous ne le faites qu'une seule fois.
+
+Une fois enregistré, le système note la date et l'heure exactes de votre entrée. Si vous dépassez ensuite vos 90 jours sur 180, cet horodatage devient le point de référence que le EES utilise pour calculer votre fenêtre glissante.
+
+## Ce qui change lors des passages suivants
+
+Vos entrées suivantes se déroulent plus vite. Au lieu d'un enregistrement complet, le système vérifie vos informations par rapport à votre dossier initial - en comparant votre image faciale à celle enregistrée et en confirmant qu'il s'agit bien de vous. Le système enregistre à nouveau l'heure de votre entrée. Le EES effectue alors un décompte: il ajoute cette entrée à toutes les entrées précédentes dans la fenêtre glissante de 180 jours et compare le total à 90.
+
+Si vous êtes dans les limites de votre autorisation, vous recevez une entrée standard et passez. Si vous les dépassez, le système alerte l'agent, et vous serez refusé. Ce calcul a lieu à chaque passage, automatiquement.
+
+## Les enfants et l'enregistrement biométrique
+
+Le EES exempte actuellement les enfants de moins de 12 ans du relevé d'empreintes digitales. Lorsqu'un parent ou un tuteur amène un enfant à la frontière, l'agent capture tout de même une image faciale pour le dossier EES - le système doit savoir que cet enfant a franchi la frontière, et quand. L'agent se dispense des empreintes. À 12 ans, les règles changent; à partir de cet âge, l'enregistrement biométrique d'un enfant inclut les empreintes digitales.
+
+## Le message "ne peut actuellement pas être calculé"
+
+Certains voyageurs ont signalé une erreur à la frontière du type: "Votre séjour autorisé restant ne peut actuellement pas être calculé en raison de données temporairement incomplètes dans le système d'entrée/sortie." Ce message apparaît lors de l'enregistrement ou à la borne, lorsque l'agent tente de vous vérifier. Ce que cela signifie: le EES fonctionne, mais le système ne trouve pas encore votre dossier précédent, ou les données de votre dernier passage n'ont pas encore été synchronisées entre toutes les frontières Schengen.
+
+Il s'agit d'un message propre à la période de transition, le plus fréquent lorsque vous êtes entré dans l'espace Schengen très récemment et que les systèmes frontaliers synchronisent encore les données entre les États membres. Le message signale un problème de données dans le système plutôt qu'un problème lié à votre séjour, et indique que la vérification automatique n'a pas abouti. Ce qui se passe ensuite relève de la décision de l'agent frontalier, ce n'est pas quelque chose que nous pouvons promettre. Si vous voyez ce message, demandez directement à l'agent si votre décompte de jours pose problème, et tenez vous-même un relevé précis de chaque jour passé dans l'espace Schengen.
+
 ## Comment suivre votre fenêtre en pratique
 
 La méthode manuelle vient en premier, car elle est gratuite et officielle: prenez la date d'aujourd'hui et remontez 180 jours. Comptez chaque jour où vous étiez physiquement à l'intérieur d'un pays Schengen pendant cette période — les jours d'arrivée et de départ comptent tous les deux. Soustrayez le total de 90; c'est ce qu'il vous reste en ce moment. Parce que la fenêtre glisse, demain le calcul se décale d'un jour, ce qui est pourquoi la calculatrice de l'UE demande l'historique complet de vos voyages plutôt qu'un seul chiffre.

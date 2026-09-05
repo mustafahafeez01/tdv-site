@@ -38,6 +38,34 @@ EES cuenta tus días para aplicación, pero no te dice el número. No hay un por
 
 La UE publica una calculadora oficial de estancia breve que bien vale la pena marcar. Ingresas tus fechas pasadas de entrada y salida, y te dice si una estancia planeada cabe dentro de tu ventana. Funciona bien para un viajero que mantiene buenos registros. La fricción aparece cuando los registros viven en tu memoria, o cuando estás haciendo el ejercicio para cuatro personas a la vez.
 
+## A quién se aplica EES, y quién está exento
+
+El EES no se aplica a todo el mundo. El sistema registra a los visitantes no comunitarios que llegan con la autorización de estancia breve sin visado, y a quienes tienen un visado de estancia breve. Si tienes la nacionalidad de Estados Unidos, Reino Unido, Canadá, Australia, o decenas de otros países, EES se aplica a ti en el momento en que entras en el área de Schengen.
+
+Si eres ciudadano de la UE, del EEE o de Suiza, estás exento - tu pasaporte no pasa por ningún proceso especial de entrada, y EES no registra tus entradas y salidas. Del mismo modo, si tienes un visado de larga duración (de un año o más), quedas totalmente al margen de EES, y el sistema no rastrea tus movimientos dentro del área de Schengen. Esta distinción importa porque tu ventana de 90 días solo avanza si EES te está registrando.
+
+## Qué ocurre en tu primer cruce con EES
+
+El sistema crea tu registro en tu primer cruce al área de Schengen. Harás cola en un quiosco biométrico en la frontera - aeropuerto, puerto o paso fronterizo terrestre. Un agente escanea tu pasaporte o documento de viaje para verificar tu identidad. El sistema capta tu imagen facial y toma las huellas de ambas manos. Lleva más tiempo que el sello que sustituye, y solo lo haces una vez.
+
+Una vez registrado, el sistema guarda la fecha y hora exactas de tu entrada. Si más adelante superas los 90 días de 180, esa marca de tiempo se convierte en el punto de referencia que EES usa para calcular tu ventana móvil.
+
+## Qué cambia en los cruces posteriores
+
+Tu segunda entrada y las siguientes son más rápidas. En lugar de un registro completo, el sistema verifica tus datos frente a tu registro inicial - comparando tu imagen facial con la almacenada y confirmando que eres la misma persona. El sistema vuelve a registrar la hora de tu entrada. EES hace entonces un recuento: suma esta entrada a todas las anteriores dentro de la ventana móvil de 180 días y compara el total con 90.
+
+Si estás dentro de tu límite, recibes una entrada estándar y pasas. Si te has excedido, el sistema alerta al agente, y te enfrentarás a un rechazo. Este cálculo ocurre en cada cruce, automáticamente.
+
+## Los niños y el registro biométrico
+
+EES exime actualmente a los menores de 12 años de la toma de huellas dactilares. Cuando un padre, madre o tutor lleva a un niño a la frontera, el agente igualmente capta una imagen facial para el registro EES - el sistema necesita saber que ese niño cruzó y cuándo. El agente omite las huellas. A los 12 años las reglas cambian; a partir de ese momento, el registro biométrico de un menor incluye las huellas dactilares.
+
+## El mensaje "no se puede calcular actualmente"
+
+Algunos viajeros han reportado un error en la frontera parecido a: "Tu estancia autorizada restante no se puede calcular actualmente debido a datos temporalmente incompletos en el sistema de entrada/salida." Este mensaje aparece durante el registro o en el quiosco, cuando el agente intenta verificarte. Lo que significa: EES está funcionando, pero el sistema todavía no encuentra tu registro anterior, o los datos de tu último cruce no se han sincronizado en todas las fronteras de Schengen.
+
+Es un mensaje propio de esta etapa de transición, más frecuente cuando has entrado en el área de Schengen muy recientemente y los sistemas fronterizos todavía están sincronizando datos entre los estados miembros. El mensaje señala un problema con los datos del sistema y no un problema con tu estancia, e indica que la comprobación automática no se completó. Lo que ocurra después depende de la decisión del agente fronterizo, no es algo que podamos prometer. Si lo ves, pregunta directamente al agente si tu recuento de días es motivo de preocupación, y lleva tú mismo un registro detallado de cada día que pases en el área de Schengen.
+
 ## Cómo Rastrear Tu Ventana en la Práctica
 
 El método manual viene primero, porque es gratis y oficial: toma la fecha de hoy y mira hacia atrás 180 días. Cuenta cada día que estuviste físicamente dentro de cualquier país de Schengen durante ese período —los días de llegada y partida cuentan. Resta el total de 90; eso es lo que te queda en este momento. Porque la ventana se mueve, mañana el cálculo se desplaza un día, por lo que la calculadora de la UE pide tu historial completo de viajes en lugar de un único número.
