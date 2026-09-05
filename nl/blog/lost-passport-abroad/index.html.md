@@ -1,6 +1,6 @@
 # Paspoort verloren in het buitenland? Doe deze zeven dingen meteen
 
-> Paspoort verloren in het buitenland? Hier zijn zeven dingen die je meteen moet doen - aangifte bij de politie, contact met de ambassade, een noodpaspoort en hoe je thuiskomt.
+> Paspoort kwijt in het buitenland? Zeven dingen die je meteen doet: aangifte, ambassade, noodpaspoort en hoe je thuiskomt.
 
 Source: https://traveldocumentvault.com/nl/blog/lost-passport-abroad/
 

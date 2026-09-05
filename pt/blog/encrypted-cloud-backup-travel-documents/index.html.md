@@ -1,6 +1,6 @@
 # Cópia de Segurança Encriptada na Cloud para Documentos de Viagem: Quem Guarda a Chave
 
-> O que significa realmente uma cópia de segurança encriptada para digitalizações do passaporte, porque é que um código de recuperação não pode ser reposto por ninguém, e como manter uma cópia que consegue mesmo restaurar.
+> O que uma cópia de segurança encriptada protege mesmo, e porque ninguém pode repor o seu código de recuperação.
 
 Source: https://traveldocumentvault.com/pt/blog/encrypted-cloud-backup-travel-documents/
 

@@ -1,6 +1,6 @@
 # Sikkerhedskopiering forklaret: Lokale sikkerhedskopier, Vault Export og Cloud Backup | Travel Document Vault
 
-> En klar sammenligning af de tre måder, Travel Document Vault beskytter dine data på: automatiske lokale sikkerhedskopier, Vault Export (.tdvault) og valgfri Pro cloud-sikkerhedskopiering til iCloud eller Google Drive.
+> De tre måder dine data beskyttes på: automatiske lokale sikkerhedskopier, eksport af dit vault (.tdvault) og valgfri krypteret cloud-backup med Pro.
 
 Source: https://traveldocumentvault.com/da/faq/backup-explained/
 

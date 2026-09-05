@@ -1,6 +1,6 @@
 # Per quanto tempo è valido un passaporto per viaggiare? Spiegazione delle regole di validità
 
-> La maggior parte dei passaporti per adulti è valida per 10 anni, ma la finestra di viaggio è spesso più breve. Scopri come funzionano i mesi di validità del passaporto e quando rinnovare.
+> Quasi tutti i passaporti per adulti durano 10 anni, ma la finestra di viaggio è più breve. Come si contano i mesi di validità e quando rinnovare.
 
 Source: https://traveldocumentvault.com/it/blog/how-long-is-passport-valid-for-travel/
 

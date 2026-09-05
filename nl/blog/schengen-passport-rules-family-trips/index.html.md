@@ -1,6 +1,6 @@
 # Schengen paspoortregels voor gezinsreizen: wat ouders verkeerd doen
 
-> Schengen vereist 3 maanden geldigheid na vertrek, niet 6 - en paspoorten van kinderen verlopen na 5 jaar. Dit moeten gezinnen checken op de dag dat ze boeken.
+> Schengen vereist 3 maanden geldigheid na vertrek, niet 6, en kinderpaspoorten verlopen na 5 jaar. Wat gezinnen checken bij het boeken.
 
 Source: https://traveldocumentvault.com/nl/blog/schengen-passport-rules-family-trips/
 

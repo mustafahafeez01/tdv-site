@@ -1,6 +1,6 @@
 # Is je paspoort veilig in Google Foto's? Niet echt
 
-> Eén gephishte Google-account maakt alle foto's erin zichtbaar, je paspoort inbegrepen, en Google's voorwaarden staan geautomatiseerd scannen toe. De risico's, en waar een scan veiliger is.
+> Eén gephisht Google-account maakt al je foto's zichtbaar, je paspoort inbegrepen. De risico's, en waar een scan veiliger staat.
 
 Source: https://traveldocumentvault.com/nl/blog/is-it-safe-to-store-passport-in-google-photos/
 

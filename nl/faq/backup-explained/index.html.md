@@ -1,6 +1,6 @@
 # Back-up uitgelegd: lokale back-ups, Vault Export en Cloudback-up | Travel Document Vault
 
-> Een duidelijke vergelijking van de drie manieren waarop Travel Document Vault uw gegevens beschermt: automatische lokale back-ups, Vault Export (.tdvault) en optionele Cloudback-up (Pro) naar iCloud of Google Drive.
+> De drie manieren waarop Travel Document Vault uw gegevens beschermt: lokale back-ups, Vault Export (.tdvault) en optionele versleutelde cloudback-up.
 
 Source: https://traveldocumentvault.com/nl/faq/backup-explained/
 

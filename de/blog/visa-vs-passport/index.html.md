@@ -1,6 +1,6 @@
 # Ist ein Visum dasselbe wie ein Reisepass? Der Unterschied erklärt
 
-> Nein, und keines der beiden ersetzt je das andere. Der Reisepass weist aus, wer Sie sind; das Visum ist die Einreiseerlaubnis eines Landes. Warum die meisten Reisen beides brauchen und wie Sie es prüfen.
+> Nein, keines ersetzt je das andere. Der Reisepass weist aus, wer Sie sind, das Visum erlaubt die Einreise. Warum die meisten Reisen beides brauchen.
 
 Source: https://traveldocumentvault.com/de/blog/visa-vs-passport/
 

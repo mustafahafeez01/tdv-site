@@ -1,6 +1,6 @@
 # Är ditt pass säkert i Google Foto? Inte riktigt
 
-> Ett nätfiskat Google-konto exponerar alla foton i det, passet inkluderat, och Googles villkor tillåter automatiserad skanning. Riskerna, och var en skanning är säkrare.
+> Ett nätfiskat Google-konto exponerar alla foton i det, passet inkluderat. Riskerna med molnlagring, och var en passkopia ligger säkrare.
 
 Source: https://traveldocumentvault.com/sv/blog/is-it-safe-to-store-passport-in-google-photos/
 

@@ -1,6 +1,6 @@
 # Funciones de Accesibilidad | Travel Document Vault
 
-> Travel Document Vault está diseñado para todos. Compatible con VoiceOver, Texto Dinámico, Modo Oscuro y Reducir Movimiento, en una aplicación que funciona sin conexión y guarda sus documentos en su propio dispositivo.
+> Diseñado para todos: VoiceOver, Texto Dinámico, Modo Oscuro y Reducir Movimiento, en una aplicación sin conexión que guarda todo en tu dispositivo.
 
 Source: https://traveldocumentvault.com/es/accessibility/
 

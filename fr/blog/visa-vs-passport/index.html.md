@@ -1,6 +1,6 @@
 # Un visa est-il la même chose qu'un passeport ? La différence expliquée
 
-> Non, et l'un ne remplace jamais l'autre. Le passeport prouve qui vous êtes ; le visa est l'autorisation d'entrée accordée par un pays. Pourquoi la plupart des voyages nécessitent les deux, et comment le vérifier.
+> Non, l'un ne remplace jamais l'autre. Le passeport prouve qui vous êtes, le visa autorise l'entrée. Pourquoi la plupart des voyages exigent les deux.
 
 Source: https://traveldocumentvault.com/fr/blog/visa-vs-passport/
 

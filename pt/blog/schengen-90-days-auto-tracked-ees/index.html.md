@@ -1,6 +1,6 @@
 # A Sua Janela de 90 Dias no Espaço Schengen: Contando Dias na Era do EES
 
-> O sistema de fronteira EES da Europa regista automaticamente os seus dias no Espaço Schengen. Como funciona a regra 90/180, o que o EES não lhe diz, e como estar sempre à frente.
+> O EES regista automaticamente os seus dias no Espaço Schengen. Como funciona a regra 90/180 e o que o sistema não lhe mostra.
 
 Source: https://traveldocumentvault.com/pt/blog/schengen-90-days-auto-tracked-ees/
 

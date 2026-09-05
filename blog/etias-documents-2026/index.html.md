@@ -1,6 +1,6 @@
 # ETIAS: What Documents You Need and How to Apply
 
-> UK, US, and Canadian visitors will need ETIAS for European travel. Passport valid 3+ months, email, optional income proof. Check the official EU site for the current fee and timing.
+> UK, US and Canadian visitors will need ETIAS for Europe. What to have ready: a passport valid 3+ months, an email, and optional income proof.
 
 Source: https://traveldocumentvault.com/blog/etias-documents-2026/
 

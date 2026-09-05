@@ -1,6 +1,6 @@
 # Mengapa Travel Document Vault? Aplikasi Paspor Offline & Privat
 
-> Satu hal yang tidak perlu dikhawatirkan. Paspor, visa, dan KTP keluarga Anda dalam satu aplikasi, bukan tersebar di Foto, Drive, dan email. Bekerja offline, tidak menyimpan apa pun di server kami, dan tanpa langganan.
+> Paspor, visa, dan KTP keluarga dalam satu aplikasi yang bekerja offline, tanpa akun, dan tidak menyimpan apa pun di server kami. Tanpa langganan.
 
 Source: https://traveldocumentvault.com/id/why-us/
 

@@ -1,6 +1,6 @@
 # App för visumbevakning: vad du ska leta efter och varför det spelar roll
 
-> En app som bevakar visums utgångsdatum kan förhindra böter för overstay. Vilka funktioner som spelar roll, hur visumbevakning skiljer sig från passbevakning, och vad du bör kontrollera först.
+> En app som bevakar visumets utgångsdatum kan förhindra böter för overstay. Vilka funktioner som spelar roll, och vad du bör kontrollera först.
 
 Source: https://traveldocumentvault.com/sv/blog/visa-expiry-tracker-app/
 

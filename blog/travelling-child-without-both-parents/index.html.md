@@ -1,6 +1,6 @@
 # Travelling With a Child Without Both Parents: What to Carry
 
-> Sole custody, grandparent trips, different surnames - each changes the paperwork your child needs. What the airline desk and the border officer each look for.
+> Sole custody, grandparent trips, different surnames - each changes your child's paperwork. What the airline desk and the border officer each look for.
 
 Source: https://traveldocumentvault.com/blog/travelling-child-without-both-parents/
 

@@ -1,6 +1,6 @@
 # Planificateur de voyage pour les familles | Travel Document Vault
 
-> Planifiez des voyages en famille en toute confiance. Feu tricolore de disponibilité. Listes de colisage. Suivez les limites de jours par pays avec des répartitions par membre. Informez-vous avant de partir. Entièrement hors ligne.
+> Planifiez des voyages en famille : feu de disponibilité, listes de colisage et suivi des jours par pays, membre par membre. Entièrement hors ligne.
 
 Source: https://traveldocumentvault.com/fr/trip-planner/
 

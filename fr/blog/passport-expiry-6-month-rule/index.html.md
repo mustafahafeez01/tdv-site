@@ -1,6 +1,6 @@
 # La règle des 6 mois du passeport : peut-on voyager avec moins de 6 mois de validité ?
 
-> De nombreux pays refusent l'entrée si votre passeport a moins de 6 mois de validité restants. Découvrez qui applique la règle des 6 mois et comment vérifier le vôtre avant de réserver.
+> De nombreux pays refusent l'entrée s'il reste moins de 6 mois de validité à votre passeport. Qui applique la règle, comment vérifier avant de réserver.
 
 Source: https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/
 

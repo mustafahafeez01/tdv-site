@@ -1,6 +1,6 @@
 # At Rejse med Barn Uden Begge Forældre: Hvad Du Skal Medbringe
 
-> Eneforældremyndighed, rejser med bedsteforældre, forskellige efternavne - hver situation ændrer, hvilke papirer barnet har brug for. Hvad indtjekningsskranken og grænsevagten hver især kigger efter.
+> Eneforældremyndighed, bedsteforældre, forskellige efternavne – hvert tilfælde ændrer barnets papirer. Hvad indtjekning og grænsekontrol kigger efter.
 
 Source: https://traveldocumentvault.com/da/blog/travelling-child-without-both-parents/
 

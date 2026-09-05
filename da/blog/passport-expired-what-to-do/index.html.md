@@ -1,6 +1,6 @@
 # Er dit pas udløbet? Sådan gør du, trin for trin
 
-> Har du opdaget, at dit pas er udløbet? Sådan gør du, trin for trin. Undgå det næste gang med smarte udløbspåmindelser fra vores offline boks, der holder dine dokumenter på din egen enhed.
+> Har du opdaget, at dit pas er udløbet? Sådan gør du, trin for trin, og de mest almindelige fejl at undgå, når du fornyer.
 
 Source: https://traveldocumentvault.com/da/blog/passport-expired-what-to-do/
 

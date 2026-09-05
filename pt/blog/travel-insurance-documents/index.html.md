@@ -1,6 +1,6 @@
 # Documentos de Seguro de Viagem: O que Guardar Antes de Partir
 
-> Saiba quais os documentos de seguro de viagem a guardar antes de partir, onde armazená-los offline e como evitar os erros em reclamações que levam à sua recusa.
+> Que documentos do seguro de viagem preparar antes de partir, onde guardá-los offline e os erros que levam à recusa da reclamação.
 
 Source: https://traveldocumentvault.com/pt/blog/travel-insurance-documents/
 

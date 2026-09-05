@@ -1,6 +1,6 @@
 # Hur lång tid tar en passförnyelse? (USA, Storbritannien, Australien, Kanada)
 
-> Hur lång tid tar en passförnyelse? Det beror mer på din situation än på ditt land. Här är vad som faktiskt bromsar processen, och var du kollar aktuella tider.
+> Hur lång tid tar en passförnyelse? Det beror mer på din situation än på ditt land. Vad som bromsar processen, och var du ser aktuella tider.
 
 Source: https://traveldocumentvault.com/sv/blog/how-long-does-passport-renewal-take/
 

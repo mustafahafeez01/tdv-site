@@ -1,6 +1,6 @@
 # Come esportare e importare il Vault | Travel Document Vault
 
-> Guida passo dopo passo per esportare l'intero Vault come file crittografato e importarlo su un nuovo dispositivo. Preserva i tuoi dati e garantisce la portabilità.
+> Come esportare l'intero Vault in un file crittografato e importarlo su un nuovo dispositivo, passo dopo passo. I tuoi dati restano tuoi.
 
 Source: https://traveldocumentvault.com/it/faq/export-import/
 

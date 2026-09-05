@@ -1,6 +1,6 @@
 # Cadangan Cloud Terenkripsi | Cloud Anda. Kunci Anda. | Travel Document Vault
 
-> Cadangan terenkripsi ujung ke ujung di iCloud atau Google Drive Anda sendiri. Anda memegang kode pemulihan - kami tidak pernah mengakses. Akses di perangkat apa saja. Offline-First.
+> Cadangan terenkripsi ujung ke ujung di iCloud atau Google Drive Anda sendiri. Anda memegang kode pemulihan dan kami tidak pernah mengaksesnya.
 
 Source: https://traveldocumentvault.com/id/cloud-backup/
 

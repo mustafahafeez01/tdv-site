@@ -1,6 +1,6 @@
 # Trip Planner for Families | Travel Document Vault
 
-> Plan family trips with confidence. Readiness traffic light. Packing checklists. Track country day-limits per period with per-member breakdowns. Know Before You Go. All offline.
+> Plan family trips with confidence. Readiness traffic light, packing checklists, and country day-limits tracked per member. Works fully offline.
 
 Source: https://traveldocumentvault.com/trip-planner/
 

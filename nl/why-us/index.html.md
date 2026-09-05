@@ -1,6 +1,6 @@
 # Waarom Travel Document Vault? Privé Offline Paspoort App
 
-> De paspoorten, visa en identiteitsbewijzen van uw gezin in één app die offline werkt, geen account nodig heeft en niets op onze servers bewaart. Optionele end-to-end versleutelde back-up naar uw eigen iCloud of Google Drive.
+> Paspoorten, visa en identiteitsbewijzen van het gezin in één app die offline werkt, geen account nodig heeft en niets op onze servers bewaart.
 
 Source: https://traveldocumentvault.com/nl/why-us/
 

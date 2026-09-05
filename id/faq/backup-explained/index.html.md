@@ -1,6 +1,6 @@
 # Cadangan Dijelaskan: Cadangan Lokal, Ekspor Vault, dan Cadangan Cloud | Travel Document Vault
 
-> Perbandingan jelas tentang tiga cara Travel Document Vault melindungi data Anda: cadangan lokal otomatis, Ekspor Vault (.tdvault), dan cadangan cloud Pro opsional ke iCloud atau Google Drive.
+> Tiga cara Travel Document Vault melindungi data Anda: cadangan lokal, Ekspor Vault (.tdvault), dan cadangan cloud terenkripsi opsional.
 
 Source: https://traveldocumentvault.com/id/faq/backup-explained/
 

@@ -1,6 +1,6 @@
 # Regra dos 6 Meses do Passaporte: Pode Viajar com Menos de 6 Meses de Validade?
 
-> Muitos países recusam a entrada se o seu passaporte tiver menos de 6 meses de validade. Veja quem aplica a regra dos 6 meses e como verificar o seu antes de reservar.
+> Muitos países recusam a entrada se o passaporte tiver menos de 6 meses de validade. Quem aplica a regra e como verificar antes de reservar.
 
 Source: https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/
 

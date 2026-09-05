@@ -1,6 +1,6 @@
 # Internationaal rijbewijs: hoe lang blijft het geldig? Verschillen per verdrag uitgelegd
 
-> Een internationaal rijbewijs heeft zijn eigen vervaldatum, die jaren eerder kan verlopen dan het rijbewijs waar het naast hoort. Hoe de verdragstypes verschillen en welke data je in de gaten moet houden.
+> Een internationaal rijbewijs heeft een eigen vervaldatum en kan jaren eerder verlopen dan je gewone rijbewijs. Welke data je moet volgen.
 
 Source: https://traveldocumentvault.com/nl/blog/international-driving-permit-validity/
 

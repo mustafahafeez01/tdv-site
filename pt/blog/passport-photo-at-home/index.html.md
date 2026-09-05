@@ -1,6 +1,6 @@
 # Regras para Fotos de Passaporte: Tamanho, Óculos e Como Tirar a Sua em Casa
 
-> As regras que fazem uma foto de passaporte ser rejeitada: tamanho, óculos, fundo e iluminação, além de como tirar uma foto em conformidade em casa, com o seu smartphone.
+> As regras que fazem rejeitar uma foto de passaporte: tamanho, óculos, fundo e luz. Como tirar uma foto conforme em casa com o telemóvel.
 
 Source: https://traveldocumentvault.com/pt/blog/passport-photo-at-home/
 

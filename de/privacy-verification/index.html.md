@@ -1,6 +1,6 @@
 # Datenschutzüberprüfung | Travel Document Vault
 
-> Überprüfbare Datenschutzaussagen für Travel Document Vault. Keine Tracker, keine Datenerfassung. Standardmäßig auf dem Gerät - keine TDV-Cloud, kein Konto erforderlich. Sehen Sie alle Berechtigungen, die wir anfordern und warum.
+> Überprüfbarer Datenschutz: keine Tracker, keine Datenerfassung, standardmäßig auf dem Gerät, kein Konto. Jede angeforderte Berechtigung wird erklärt.
 
 Source: https://traveldocumentvault.com/de/privacy-verification/
 

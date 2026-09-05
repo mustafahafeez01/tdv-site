@@ -1,6 +1,6 @@
 # Paspor Hilang di Luar Negeri? Lakukan Tujuh Hal Ini Segera
 
-> Paspor hilang di luar negeri? Berikut tujuh langkah yang harus segera dilakukan - lapor polisi, hubungi kedutaan, dokumen perjalanan darurat, dan cara pulang ke rumah.
+> Paspor hilang di luar negeri? Tujuh langkah yang harus segera dilakukan: lapor polisi, hubungi kedutaan, dokumen darurat, dan cara pulang.
 
 Source: https://traveldocumentvault.com/id/blog/lost-passport-abroad/
 

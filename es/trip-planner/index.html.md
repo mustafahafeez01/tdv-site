@@ -1,6 +1,6 @@
 # Planificador de Viajes para Familias | Travel Document Vault
 
-> Planifica viajes familiares con confianza. Semáforo de preparación. Listas de equipaje. Controla límites de días por país con detalles por miembro. Infórmate antes de viajar. Todo offline.
+> Planifica viajes familiares: semáforo de preparación, listas de equipaje y control de días por país, miembro a miembro. Todo sin conexión.
 
 Source: https://traveldocumentvault.com/es/trip-planner/
 

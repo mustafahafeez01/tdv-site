@@ -1,6 +1,6 @@
 # Kun je reizen met een beschadigd paspoort? Regels en wat je moet doen
 
-> Regels over paspoortschade verschillen per land en luchtvaartmaatschappij. Ontdek wat als schade telt, wat je moet doen als je het voor of op het vliegveld ontdekt, en hoe snel een noodvervanging mogelijk is.
+> Wat als paspoortschade telt, wat je doet voor of op het vliegveld, en hoe snel een noodvervanging kan. Regels verschillen per land.
 
 Source: https://traveldocumentvault.com/nl/blog/damaged-passport-travel/
 

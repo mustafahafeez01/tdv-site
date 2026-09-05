@@ -1,6 +1,6 @@
 # ETIAS: Qué Documentos Necesitas y Cómo Solicitar
 
-> Los visitantes del Reino Unido, EE.UU. y Canadá necesitarán ETIAS para viajar a Europa. Pasaporte válido 3+ meses, correo electrónico, comprobante de ingresos opcional. Consulta el sitio oficial de la UE para conocer la tarifa y los plazos actuales.
+> Los visitantes del Reino Unido, EE.UU. y Canadá necesitarán ETIAS para viajar a Europa. Pasaporte válido 3+ meses y correo electrónico.
 
 Source: https://traveldocumentvault.com/es/blog/etias-documents-2026/
 

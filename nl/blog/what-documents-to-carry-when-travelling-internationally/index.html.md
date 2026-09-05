@@ -1,6 +1,6 @@
 # De reisdocumenten die mensen vergeten (en waar je elk ervan moet bewaren)
 
-> De reisdocumenten die de meeste mensen over het hoofd zien, en wat je moet meenemen versus bewaren. Vergeten toestemmingsverklaringen, vaccinatiebewijzen en back-upstrategieën.
+> De reisdocumenten die de meeste mensen vergeten, wat je bij je draagt in plaats van inpakt, en welke kopieën je achter de hand houdt.
 
 Source: https://traveldocumentvault.com/nl/blog/what-documents-to-carry-when-travelling-internationally/
 

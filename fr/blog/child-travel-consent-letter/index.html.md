@@ -1,6 +1,6 @@
 # Lettre de consentement pour voyage d'enfant : quand l'en avez-vous besoin
 
-> Avez-vous besoin d'une lettre de consentement pour le voyage de votre enfant ? Quand elle est requise, ce qu'elle doit dire et les erreurs qui causent des problèmes aux frontières.
+> Quand une lettre de consentement est requise pour le voyage de votre enfant, ce qu'elle doit contenir, et les erreurs qui bloquent à la frontière.
 
 Source: https://traveldocumentvault.com/fr/blog/child-travel-consent-letter/
 

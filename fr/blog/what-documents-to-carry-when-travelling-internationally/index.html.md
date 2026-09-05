@@ -1,6 +1,6 @@
 # Les Documents de Voyage que Vous Oubliez (et Où les Conserver)
 
-> Les documents de voyage que vous oubliez généralement et où les conserver par rapport aux stocker. Lettres de consentement oubliées, preuves de vaccination et stratégies de secours.
+> Les documents de voyage qu'on oublie le plus souvent, où les garder sur soi plutôt qu'en soute, et quoi prévoir en copie de secours.
 
 Source: https://traveldocumentvault.com/fr/blog/what-documents-to-carry-when-travelling-internationally/
 

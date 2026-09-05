@@ -1,6 +1,6 @@
 # Copie numérique du passeport : Qu'est-ce qui compte comme pièce d'identité valide en voyage ?
 
-> Les compagnies aériennes, les hôtels, les ambassades et les agents aux frontières traitent tous les copies numériques de passeport différemment. Voici exactement où une copie numérique aide, et où vous avez besoin du document original.
+> Où une copie numérique de passeport suffit, et où seul l'original est accepté : compagnies aériennes, hôtels, ambassades et postes frontières.
 
 Source: https://traveldocumentvault.com/fr/blog/digital-passport-copy-valid/
 

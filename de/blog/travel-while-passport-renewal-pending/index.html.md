@@ -1,6 +1,6 @@
 # Können Sie während der Passerneuerung reisen?
 
-> Finden Sie heraus, ob Sie reisen können, während Ihr Reisepass erneuert wird. Die Regeln unterscheiden sich je nach Land und Antragsart. Hier erfahren Sie, was Sie wissen müssen.
+> Dürfen Sie reisen, während Ihr Reisepass erneuert wird? Die Regeln hängen vom Land und von der Antragsart ab.
 
 Source: https://traveldocumentvault.com/de/blog/travel-while-passport-renewal-pending/
 

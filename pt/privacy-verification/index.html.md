@@ -1,6 +1,6 @@
 # Verificação de privacidade | Travel Document Vault
 
-> Declarações de privacidade verificáveis para Travel Document Vault. Zero rastreadores, zero coleta de dados. No dispositivo por padrão - sem nuvem TDV, sem conta necessária. Veja todas as permissões que solicitamos e por quê.
+> Privacidade verificável: zero rastreadores, zero recolha de dados, tudo no dispositivo por predefinição e sem conta. Cada permissão é explicada.
 
 Source: https://traveldocumentvault.com/pt/privacy-verification/
 

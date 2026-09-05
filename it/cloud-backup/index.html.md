@@ -1,6 +1,6 @@
 # Backup Cloud Crittografato | Suo Cloud. Sua Chiave. | Travel Document Vault
 
-> Backup end-to-end crittografato nel Suo iCloud o Google Drive personale. Solo Lei possiede il codice di ripristino, e nessun altro può aprirlo, nemmeno noi. Funziona offline per prima cosa.
+> Backup crittografato end-to-end nel tuo iCloud o Google Drive. Il codice di ripristino ce l'hai solo tu, quindi nessun altro può aprirlo. Nemmeno noi.
 
 Source: https://traveldocumentvault.com/it/cloud-backup/
 

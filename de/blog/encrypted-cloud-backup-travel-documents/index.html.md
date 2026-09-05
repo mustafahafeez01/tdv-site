@@ -1,6 +1,6 @@
 # Verschlüsseltes Cloud-Backup für Reisedokumente: Wer hält den Schlüssel
 
-> Was verschlüsseltes Backup für Passscans wirklich bedeutet, warum ein Wiederherstellungscode von niemandem zurückgesetzt werden kann und wie Sie eine Kopie aufbewahren, die Sie tatsächlich wiederherstellen können.
+> Was ein verschlüsseltes Backup Ihrer Passscans wirklich bedeutet, und warum niemand Ihren Wiederherstellungscode zurücksetzen kann.
 
 Source: https://traveldocumentvault.com/de/blog/encrypted-cloud-backup-travel-documents/
 

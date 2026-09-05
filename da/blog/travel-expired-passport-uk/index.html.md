@@ -1,6 +1,6 @@
 # Udløbet pas i Storbritannien: kan du rejse eller booke en ferie?
 
-> At booke en rejse er ikke det samme som at gå om bord. Hvad flyselskabet tjekker, hvornår en fornyelse stadig når at blive klar, og de snævre indenrigske undtagelser i Storbritannien.
+> At booke er ikke det samme som at gå om bord. Hvad flyselskabet tjekker, hvornår fornyelsen når at blive klar, og undtagelserne i Storbritannien.
 
 Source: https://traveldocumentvault.com/da/blog/travel-expired-passport-uk/
 

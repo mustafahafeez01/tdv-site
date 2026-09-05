@@ -1,6 +1,6 @@
 # ETA britannique : à quel passeport est-elle liée ?
 
-> Votre ETA britannique est liée au passeport précis avec lequel vous avez fait votre demande. Renouvelez ce passeport et vous devrez en redemander une. Voici pourquoi.
+> Votre ETA britannique est liée au passeport utilisé pour la demande. Renouvelez ce passeport et il faut en redemander une. Voici pourquoi.
 
 Source: https://traveldocumentvault.com/fr/blog/uk-eta-passport-rules/
 

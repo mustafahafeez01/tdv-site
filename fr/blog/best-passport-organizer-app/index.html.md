@@ -1,6 +1,6 @@
 # Meilleure application passeports et documents de voyage en famille
 
-> Quatre passeports, quatre dates d'expiration, une seule appli. Ce qu'il faut vérifier avant de lui confier les scans de votre famille, et pourquoi le stockage local compte.
+> Quatre passeports, quatre dates d'expiration, une seule appli. Ce qu'il faut vérifier avant de lui confier les scans de votre famille.
 
 Source: https://traveldocumentvault.com/fr/blog/best-passport-organizer-app/
 

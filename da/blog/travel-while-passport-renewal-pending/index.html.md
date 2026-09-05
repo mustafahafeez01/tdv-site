@@ -1,6 +1,6 @@
 # Kan du rejse, mens dit pas bliver fornyet?
 
-> Find ud af, om du kan rejse, mens din pasfornyelse er i gang. Reglerne varierer fra land til land og afhænger af, hvordan du ansøgte. Her er, hvad du skal vide.
+> Kan du rejse, mens pasfornyelsen er i gang? Reglerne varierer fra land til land og afhænger af, hvordan du ansøgte. Her er, hvad du skal vide.
 
 Source: https://traveldocumentvault.com/da/blog/travel-while-passport-renewal-pending/
 

@@ -1,6 +1,6 @@
 # Demander le premier passeport de son enfant
 
-> Premier passeport pour votre enfant : règles de consentement, documents nécessaires, conseils photo pour bébé, à vérifier à la réception. Guide étape par étape pour parents.
+> Premier passeport de votre enfant : règles de consentement, pièces à fournir, conseils photo pour bébé, et quoi vérifier à la réception.
 
 Source: https://traveldocumentvault.com/fr/blog/child-first-passport-application/
 

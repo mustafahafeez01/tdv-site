@@ -1,6 +1,6 @@
 # Melhor aplicação para passaportes e documentos de viagem da família
 
-> Quatro passaportes, quatro datas de validade, uma só aplicação. O que verificar antes de lhe confiar as digitalizações da família e porque o armazenamento no dispositivo importa.
+> Quatro passaportes, quatro datas de validade, uma só aplicação. O que verificar antes de lhe confiar as digitalizações da família.
 
 Source: https://traveldocumentvault.com/pt/blog/best-passport-organizer-app/
 

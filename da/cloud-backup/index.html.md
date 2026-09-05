@@ -1,6 +1,6 @@
 # Krypteret cloud backup | Dit cloud. Din nøgle. | Travel Document Vault
 
-> End-to-end krypteret backup til dit eget iCloud eller Google Drive. Du holder gendannelseskoden - vi får aldrig adgang. Adgang på alle enheder. Offline-først.
+> End-to-end krypteret backup til dit eget iCloud eller Google Drive. Du holder gendannelseskoden, og ingen andre kan åbne den, heller ikke os.
 
 Source: https://traveldocumentvault.com/da/cloud-backup/
 

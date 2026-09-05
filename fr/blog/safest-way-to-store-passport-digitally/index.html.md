@@ -1,6 +1,6 @@
 # Stocker passeport en toute sécurité: Guide comparatif
 
-> iCloud, Google Photos ou coffre chiffré? Guide sécurité pour passeport numérique. Risques et avantages analysés.
+> iCloud, Google Photos ou coffre chiffré ? Guide sécurité pour passeport numérique. Risques et avantages analysés.
 
 Source: https://traveldocumentvault.com/fr/blog/safest-way-to-store-passport-digitally/
 

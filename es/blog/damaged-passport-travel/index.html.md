@@ -1,6 +1,6 @@
 # ¿Puedes Viajar con un Pasaporte Dañado? Normas y Qué Hacer
 
-> Las normas sobre daños en el pasaporte varían según el país y la aerolínea. Descubre qué se considera daño, qué hacer si lo detectas antes de viajar o en el aeropuerto, y los plazos de sustitución de emergencia.
+> Las normas sobre daños varían según el país y la aerolínea. Qué cuenta como daño, qué hacer si lo detectas en el aeropuerto y los plazos de urgencia.
 
 Source: https://traveldocumentvault.com/es/blog/damaged-passport-travel/
 

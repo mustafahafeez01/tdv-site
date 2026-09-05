@@ -1,6 +1,6 @@
 # Manajemen Paspor Keluarga: Simpan Banyak Paspor dengan Aman
 
-> Cara mengatur dan menyimpan paspor seluruh keluarga dengan aman di satu tempat. Lacak tanggal kedaluwarsa setiap anggota keluarga, lengkap dengan pengingat sebelum setiap perpanjangan.
+> Semua paspor keluarga aman di satu tempat, tanggal kedaluwarsa tiap anggota terpantau, dan pengingat sebelum setiap perpanjangan.
 
 Source: https://traveldocumentvault.com/id/blog/family-passport-management/
 

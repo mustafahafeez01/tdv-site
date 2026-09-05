@@ -1,6 +1,6 @@
 # Passeport expiré au Royaume-Uni : pouvez-vous voyager ou réserver des vacances ?
 
-> Réserver un voyage n'est pas la même chose qu'embarquer. Ce que vérifie la compagnie aérienne, quand un renouvellement vous laisse encore le temps, et les rares exceptions nationales au Royaume-Uni.
+> Réserver un voyage n'est pas embarquer. Ce que vérifie la compagnie aérienne, quand un renouvellement laisse le temps, et les rares exceptions.
 
 Source: https://traveldocumentvault.com/fr/blog/travel-expired-passport-uk/
 

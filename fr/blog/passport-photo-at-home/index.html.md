@@ -1,6 +1,6 @@
 # Photo de passeport : taille, lunettes et comment la prendre chez vous
 
-> Les règles de la photo de passeport qui font rejeter les photos : taille, lunettes, arrière-plan et éclairage, et comment en prendre une conforme chez vous avec votre téléphone.
+> Les règles qui font rejeter une photo de passeport : cadrage, lunettes, fond et éclairage. Comment en prendre une conforme au téléphone.
 
 Source: https://traveldocumentvault.com/fr/blog/passport-photo-at-home/
 

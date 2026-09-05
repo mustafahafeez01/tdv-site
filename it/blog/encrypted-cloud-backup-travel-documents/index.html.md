@@ -1,6 +1,6 @@
 # Backup Cloud Crittografato per i Documenti di Viaggio: Chi Ha la Chiave
 
-> Cosa significa davvero un backup crittografato per le scansioni del passaporto, perché un codice di recupero non può essere reimpostato da nessuno, e come conservare una copia che puoi davvero ripristinare.
+> Cosa cifra davvero un backup delle scansioni del passaporto, e perché nessuno può reimpostare il tuo codice di recupero.
 
 Source: https://traveldocumentvault.com/it/blog/encrypted-cloud-backup-travel-documents/
 

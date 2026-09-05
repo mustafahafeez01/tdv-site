@@ -1,6 +1,6 @@
 # Voyager avec un enfant sans ses deux parents : quels documents emporter
 
-> Garde exclusive, voyage avec les grands-parents, nom de famille différent : chaque situation change les documents nécessaires pour votre enfant. Ce que vérifient le comptoir d'enregistrement et l'agent frontalier.
+> Garde exclusive, voyage avec les grands-parents, nom de famille différent : ce que demandent le comptoir d'enregistrement et la police aux frontières.
 
 Source: https://traveldocumentvault.com/fr/blog/travelling-child-without-both-parents/
 

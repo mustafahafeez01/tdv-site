@@ -1,6 +1,6 @@
 # International Travel Document Checklist for Every Trip
 
-> Everything to carry, check and prepare before an international trip. A practical checklist covering passports, visas, driving licences and travel insurance.
+> Everything to carry, check and prepare before an international trip. A practical checklist covering passports, visas, driving licences and insurance.
 
 Source: https://traveldocumentvault.com/blog/travel-document-checklist/
 

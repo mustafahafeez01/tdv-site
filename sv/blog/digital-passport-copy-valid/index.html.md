@@ -1,6 +1,6 @@
 # Digital passkopia: vad räknas som giltig legitimation på resan?
 
-> Flygbolag, hotell, ambassader och gränspoliser hanterar digitala passkopior olika. Här är exakt var en digital kopia hjälper - och var du behöver originalhandlingen.
+> Flygbolag, hotell, ambassader och gränspolis hanterar digitala passkopior olika. Var en kopia räcker – och var du behöver originalhandlingen.
 
 Source: https://traveldocumentvault.com/sv/blog/digital-passport-copy-valid/
 

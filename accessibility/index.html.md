@@ -1,6 +1,6 @@
 # Accessibility Features | Travel Document Vault
 
-> Travel Document Vault is built for everyone. VoiceOver, Dynamic Type, Dark Mode and Reduce Motion support, in an app that works offline and keeps your documents on your own device.
+> Built for everyone: VoiceOver, Dynamic Type, Dark Mode and Reduce Motion support, in an app that works offline and keeps documents on your device.
 
 Source: https://traveldocumentvault.com/accessibility/
 

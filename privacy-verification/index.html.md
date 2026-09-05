@@ -1,6 +1,6 @@
 # Privacy Verification | Travel Document Vault
 
-> Verifiable privacy notes for Travel Document Vault. No advertising trackers, no document data collection. On-device by default - no Travel Document Vault cloud, no account required. See every permission we request and why.
+> Checkable proof of Travel Document Vault's privacy: no advertising trackers, network tests you can run yourself, and every permission explained.
 
 Source: https://traveldocumentvault.com/privacy-verification/
 

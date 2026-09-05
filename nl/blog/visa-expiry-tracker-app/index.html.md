@@ -1,6 +1,6 @@
 # App voor visumvervaldatums: waar je op moet letten en waarom het belangrijk is
 
-> Een app voor visumvervaldatums kan boetes voor overstay voorkomen. Welke functies ertoe doen, hoe visumbeheer verschilt van paspoortbeheer, en wat je eerst moet controleren.
+> Een app voor visumvervaldatums helpt boetes voor overstay voorkomen. Welke functies ertoe doen en wat je eerst moet controleren.
 
 Source: https://traveldocumentvault.com/nl/blog/visa-expiry-tracker-app/
 

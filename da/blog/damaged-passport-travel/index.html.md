@@ -1,6 +1,6 @@
 # Kan du rejse med et beskadiget pas? Regler og hvad du skal gøre
 
-> Regler for beskadigede pas varierer efter land og luftfartsselskab. Lær hvad der tæller som skade, hvad du skal gøre, hvis det opdages før eller i lufthavnen, og tidsrammer for nødudstedelse af nyt pas.
+> Regler for beskadigede pas varierer efter land og luftfartsselskab. Hvad der tæller som skade, hvad du gør, og hvor hurtigt du får et nyt pas.
 
 Source: https://traveldocumentvault.com/da/blog/damaged-passport-travel/
 

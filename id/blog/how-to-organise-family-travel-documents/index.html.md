@@ -1,6 +1,6 @@
 # Cara Mengatur Dokumen Perjalanan Keluarga (Sebelum Perjalanan Berikutnya)
 
-> Pelajari cara mengatur dokumen perjalanan untuk seluruh keluarga - apa yang perlu disimpan, cara menyimpannya, dan cara memastikan tidak ada yang kedaluwarsa tanpa peringatan.
+> Apa yang perlu disimpan, di mana menyimpannya, dan cara memastikan tidak ada yang kedaluwarsa tanpa peringatan.
 
 Source: https://traveldocumentvault.com/id/blog/how-to-organise-family-travel-documents/
 

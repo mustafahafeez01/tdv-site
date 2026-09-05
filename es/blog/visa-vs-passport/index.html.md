@@ -1,6 +1,6 @@
 # ¿Es lo mismo una visa que un pasaporte? La diferencia explicada
 
-> No, y tener uno nunca cuenta como el otro. El pasaporte prueba quién eres; la visa es el permiso de un país para entrar. Por qué la mayoría de los viajes necesitan ambos, y cómo comprobarlo.
+> No, y tener uno nunca cuenta como el otro. El pasaporte prueba quién eres; la visa es el permiso para entrar. Por qué casi siempre hacen falta ambos.
 
 Source: https://traveldocumentvault.com/es/blog/visa-vs-passport/
 

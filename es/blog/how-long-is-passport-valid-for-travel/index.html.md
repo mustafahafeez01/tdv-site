@@ -1,6 +1,6 @@
 # ¿Cuánto Tiempo es Válido un Pasaporte para Viajar? Explicación de Reglas de Validez
 
-> La mayoría de pasaportes de adultos son válidos durante 10 años, pero tu ventana de viaje es a menudo más corta. Aprende cómo funciona la validez en meses del pasaporte y cuándo renovar.
+> Un pasaporte de adulto dura 10 años, pero tu ventana de viaje suele ser más corta. Cómo se cuenta la validez en meses y cuándo renovar.
 
 Source: https://traveldocumentvault.com/es/blog/how-long-is-passport-valid-for-travel/
 

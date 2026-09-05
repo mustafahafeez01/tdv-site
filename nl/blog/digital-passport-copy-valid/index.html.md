@@ -1,6 +1,6 @@
 # Digitale paspoortkopie: wat geldt als geldig identiteitsbewijs op reis?
 
-> Luchtvaartmaatschappijen, hotels, ambassades en grenswachten behandelen digitale paspoortkopieën allemaal anders. Hier lees je precies waar een digitale kopie helpt, en waar je het originele document nodig hebt.
+> Waar een digitale paspoortkopie volstaat en waar je het origineel nodig hebt: luchtvaartmaatschappijen, hotels, ambassades en de grens.
 
 Source: https://traveldocumentvault.com/nl/blog/digital-passport-copy-valid/
 

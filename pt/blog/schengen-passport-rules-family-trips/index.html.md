@@ -1,6 +1,6 @@
 # Regras de Passaporte para Schengen em Viagens de Família: Onde os Pais se Enganam
 
-> Schengen precisa de 3 meses de validade além da saída, não 6 - e passaportes de crianças expiram em 5 anos. O que as famílias devem verificar no dia em que marcam.
+> Schengen exige 3 meses de validade após a saída, não 6, e os passaportes de crianças duram 5 anos. O que as famílias verificam ao reservar.
 
 Source: https://traveldocumentvault.com/pt/blog/schengen-passport-rules-family-trips/
 

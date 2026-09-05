@@ -1,6 +1,6 @@
 # Er et visum det samme som et pas? Forskellen forklaret
 
-> Nej, og det ene tæller aldrig som det andet. Et pas beviser, hvem du er – et visum er et lands tilladelse til at rejse ind. Hvorfor de fleste rejser kræver begge dele, og hvordan du tjekker.
+> Nej, og det ene tæller aldrig som det andet. Pas beviser, hvem du er – visum er landets tilladelse til at rejse ind. Hvorfor du oftest skal bruge begge.
 
 Source: https://traveldocumentvault.com/da/blog/visa-vs-passport/
 

@@ -1,6 +1,6 @@
 # Sicherung erklärt: Lokale Sicherungen, Vault-Export und Cloud-Sicherung | Travel Document Vault
 
-> Ein klarer Vergleich der drei Möglichkeiten, wie Travel Document Vault Ihre Daten schützt: automatische lokale Sicherungen, Vault-Export (.tdvault) und optionale Pro-Cloud-Sicherung in iCloud oder Google Drive.
+> Die drei Wege, wie Travel Document Vault Ihre Daten schützt: lokale Sicherungen, Vault-Export (.tdvault) und optionale verschlüsselte Cloud-Sicherung.
 
 Source: https://traveldocumentvault.com/de/faq/backup-explained/
 

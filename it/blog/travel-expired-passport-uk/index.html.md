@@ -1,6 +1,6 @@
 # Passaporto scaduto nel Regno Unito: può viaggiare o prenotare una vacanza?
 
-> Prenotare un viaggio non è la stessa cosa che imbarcarsi. Cosa controlla la compagnia aerea, quando un rinnovo le lascia ancora tempo, e le ristrette eccezioni nazionali nel Regno Unito.
+> Prenotare un viaggio non è imbarcarsi. Cosa controlla la compagnia aerea, quando un rinnovo lascia ancora tempo e le poche eccezioni.
 
 Source: https://traveldocumentvault.com/it/blog/travel-expired-passport-uk/
 

@@ -1,6 +1,6 @@
 # Est-il sûr de stocker votre passeport dans Google Photos — Ce qu'il faut savoir
 
-> Stocker votre passeport dans Google Photos présente des risques de confidentialité réels. Découvrez pourquoi une application hors ligne, sans cloud, qui chiffre vos documents sur l'appareil est une meilleure alternative.
+> Stocker son passeport dans Google Photos pose de vrais risques de confidentialité. Pourquoi une appli hors ligne, chiffrée sur l'appareil, vaut mieux.
 
 Source: https://traveldocumentvault.com/fr/blog/is-it-safe-to-store-passport-in-google-photos/
 

@@ -1,6 +1,6 @@
 # Copias de seguridad explicadas: Copias de seguridad locales, Exportación de bóveda y Copia de seguridad en la nube | Travel Document Vault
 
-> Una comparación clara de las tres formas en que Travel Document Vault protege tus datos: copias de seguridad locales automáticas, Exportación de bóveda (.tdvault), y copia de seguridad en la nube Pro opcional a iCloud o Google Drive.
+> Las tres formas en que Travel Document Vault protege tus datos: copias locales, Exportación de bóveda (.tdvault) y copia cifrada en la nube opcional.
 
 Source: https://traveldocumentvault.com/es/faq/backup-explained/
 

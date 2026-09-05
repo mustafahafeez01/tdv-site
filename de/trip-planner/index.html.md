@@ -1,6 +1,6 @@
 # Reiseplaner für Familien | Travel Document Vault
 
-> Planen Sie Familienreisen mit Zuversicht. Bereitschaftsampel. Packlisten. Verfolgen Sie Landaufenthaltstage pro Zeitraum mit Aufschlüsselungen pro Person. Informieren Sie sich vor der Reise. Komplett offline.
+> Planen Sie Familienreisen: Bereitschaftsampel, Packlisten und Aufenthaltstage pro Land, aufgeschlüsselt pro Person. Komplett offline.
 
 Source: https://traveldocumentvault.com/de/trip-planner/
 

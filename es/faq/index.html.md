@@ -1,6 +1,6 @@
 # Preguntas Frecuentes | Travel Document Vault
 
-> Una cosa menos de la que preocuparse. Respuestas sobre Travel Document Vault, tu organizador de pasaportes familiares sin conexión con recordatorios inteligentes de vencimiento. Sin cuentas. Sin nube. Sin suscripción.
+> Una cosa menos de la que preocuparse. Respuestas sobre Travel Document Vault, tu organizador de documentos familiares sin conexión. Sin cuentas ni nube.
 
 Source: https://traveldocumentvault.com/es/faq/
 

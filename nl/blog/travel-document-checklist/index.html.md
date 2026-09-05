@@ -1,6 +1,6 @@
 # Checklist reisdocumenten: alles wat je nodig hebt voor elke internationale reis
 
-> Alles wat u moet meenemen, controleren en voorbereiden vóór een internationale reis. Een praktische checklist voor paspoorten, visa, rijbewijzen en reisverzekering.
+> Alles wat je controleert vóór een internationale reis: paspoorten, visa, rijbewijzen en reisverzekering.
 
 Source: https://traveldocumentvault.com/nl/blog/travel-document-checklist/
 

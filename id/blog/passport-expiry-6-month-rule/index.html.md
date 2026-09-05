@@ -1,6 +1,6 @@
 # Aturan Paspor 6 Bulan: Bisakah Bepergian dengan Sisa Waktu Kurang dari 6 Bulan?
 
-> Banyak negara menolak masuk jika masa berlaku paspor Anda tersisa kurang dari 6 bulan. Lihat negara mana yang menerapkan aturan paspor 6 bulan dan cara memeriksa paspor Anda sebelum memesan.
+> Banyak negara menolak masuk jika masa berlaku paspor tersisa kurang dari 6 bulan. Siapa yang menerapkannya dan cara memeriksa sebelum memesan.
 
 Source: https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/
 

@@ -1,6 +1,6 @@
 # Toestemmingsbrief voor kinderreizen: wanneer je er een nodig hebt
 
-> Heb je een toestemmingsbrief nodig voor de reis van je kind? Wanneer het vereist is, wat erin moet staan, en de fouten die problemen veroorzaken aan de grens.
+> Wanneer een toestemmingsbrief nodig is voor de reis van je kind, wat erin moet staan en de fouten die problemen geven aan de grens.
 
 Source: https://traveldocumentvault.com/nl/blog/child-travel-consent-letter/
 

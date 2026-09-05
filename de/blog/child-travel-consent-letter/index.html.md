@@ -1,6 +1,6 @@
 # Reisezustimmungsbrief für Kinder: Wann Sie einen benötigen
 
-> Benötigen Sie einen Reisezustimmungsbrief für Ihr Kind? Wann dieser erforderlich ist, was er enthalten muss und welche Fehler bei Grenzkontrollen zu Problemen führen.
+> Wann eine Reisezustimmung für Ihr Kind nötig ist, was darin stehen muss, und welche Fehler an der Grenze zu Problemen führen.
 
 Source: https://traveldocumentvault.com/de/blog/child-travel-consent-letter/
 

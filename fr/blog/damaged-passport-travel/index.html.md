@@ -1,6 +1,6 @@
 # Peut-on voyager avec un passeport endommagé ? Règles et démarches à suivre
 
-> Les règles relatives aux dommages sur un passeport varient selon le pays et la compagnie aérienne. Découvrez ce qui est considéré comme un dommage, la marche à suivre avant ou à l'aéroport, et les délais de remplacement d'urgence.
+> Ce qui compte comme passeport abîmé, quoi faire avant ou à l'aéroport, et les délais d'un remplacement en urgence. Les règles varient par pays.
 
 Source: https://traveldocumentvault.com/fr/blog/damaged-passport-travel/
 

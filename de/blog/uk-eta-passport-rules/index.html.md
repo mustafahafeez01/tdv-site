@@ -1,6 +1,6 @@
 # Britische ETA: An welchen Reisepass ist sie gebunden?
 
-> Ihre britische ETA ist an den genauen Reisepass gebunden, mit dem Sie sie beantragt haben. Erneuern Sie diesen Reisepass, benötigen Sie eine neue ETA. Hier erfahren Sie, warum.
+> Ihre britische ETA ist an genau den Reisepass gebunden, mit dem Sie sie beantragt haben. Nach einer Erneuerung brauchen Sie eine neue ETA.
 
 Source: https://traveldocumentvault.com/de/blog/uk-eta-passport-rules/
 

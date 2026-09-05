@@ -1,6 +1,6 @@
 # Normas de Pasaporte Schengen para Viajes en Familia: Qué Cometen Mal los Padres
 
-> Schengen requiere 3 meses de validez después de tu salida, no 6, y los pasaportes infantiles caducan en 5 años. Qué deben verificar las familias el día que reservan.
+> Schengen pide 3 meses de validez tras tu salida, no 6, y los pasaportes infantiles duran 5 años. Qué revisar en familia el día que reservas.
 
 Source: https://traveldocumentvault.com/es/blog/schengen-passport-rules-family-trips/
 

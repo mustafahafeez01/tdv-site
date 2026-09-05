@@ -1,6 +1,6 @@
 # Aturan Foto Paspor: Ukuran, Kacamata, dan Cara Memotret di Rumah
 
-> Aturan foto paspor yang sering membuat foto ditolak: ukuran, kacamata, latar belakang, dan pencahayaan, plus cara memotret foto yang sesuai ketentuan di rumah dengan ponsel Anda.
+> Aturan foto paspor yang sering membuat foto ditolak: ukuran, kacamata, latar, dan pencahayaan. Cara memotret sesuai ketentuan di rumah.
 
 Source: https://traveldocumentvault.com/id/blog/passport-photo-at-home/
 

@@ -1,6 +1,6 @@
 # Migliore app per passaporti e documenti di viaggio in famiglia
 
-> Quattro passaporti, quattro date di scadenza, una sola app. Cosa controllare prima di affidarle le scansioni della famiglia e perché l'archiviazione sul dispositivo conta.
+> Quattro passaporti, quattro date di scadenza, una sola app. Cosa controllare prima di affidarle le scansioni della tua famiglia.
 
 Source: https://traveldocumentvault.com/it/blog/best-passport-organizer-app/
 

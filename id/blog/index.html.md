@@ -1,6 +1,6 @@
 # Blog | Travel Document Vault
 
-> Panduan praktis tentang aturan paspor, jadwal pembaruan, dan menjaga dokumen tetap aman. Dibawa kepada Anda oleh tim Travel Document Vault, pengorganisir dokumen offline.
+> Panduan praktis tentang aturan paspor, jadwal pembaruan, dan menjaga dokumen tetap aman. Dibawa kepada Anda oleh tim Travel Document Vault.
 
 Source: https://traveldocumentvault.com/id/blog/
 

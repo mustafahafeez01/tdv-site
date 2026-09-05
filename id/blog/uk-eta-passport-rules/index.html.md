@@ -1,6 +1,6 @@
 # ETA Inggris Terikat dengan Paspor yang Mana
 
-> ETA Inggris Anda terikat dengan nomor paspor spesifik yang Anda gunakan saat mengajukan. Perpanjang paspor tersebut, dan Anda memerlukan ETA baru. Berikut alasannya.
+> ETA Inggris Anda terikat pada paspor yang Anda gunakan saat mengajukan. Perpanjang paspor itu, dan Anda perlu ETA baru. Ini alasannya.
 
 Source: https://traveldocumentvault.com/id/blog/uk-eta-passport-rules/
 

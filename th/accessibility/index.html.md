@@ -1,6 +1,6 @@
 # ฟีเจอร์การเข้าถึง | Travel Document Vault
 
-> Travel Document Vault สร้างสำหรับทุกคน เรียนรู้เกี่ยวกับฟีเจอร์ VoiceOver Dynamic Type โหมดมืด และ Reduce Motion ของเรา ในแอปที่ทำงานแบบออฟไลน์และเก็บเอกสารของคุณไว้ในอุปกรณ์ของคุณเอง
+> ออกแบบมาเพื่อทุกคน รองรับ VoiceOver Dynamic Type โหมดมืด และคอนทราสต์สูง ทำงานออฟไลน์และเก็บเอกสารไว้ในอุปกรณ์ของคุณ
 
 Source: https://traveldocumentvault.com/th/accessibility/
 

@@ -1,6 +1,6 @@
 # Blog | Travel Document Vault
 
-> Des guides pratiques sur les règles de passeport, les délais de renouvellement et la bonne tenue de vos documents de voyage, par l'équipe derrière Travel Document Vault.
+> Guides pratiques sur les règles de passeport, les délais de renouvellement et la tenue de vos documents de voyage. Par l'équipe Travel Document Vault.
 
 Source: https://traveldocumentvault.com/fr/blog/
 

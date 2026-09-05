@@ -1,6 +1,6 @@
 # ¿Cuál es mi código de recuperación? | Travel Document Vault
 
-> Tu código de recuperación es la clave maestra de tus copias de seguridad cifradas en la nube. Aprende qué es, por qué lo necesitas, qué ocurre si lo pierdes y cómo guardarlo de forma segura.
+> Tu código de recuperación es la clave maestra de tus copias cifradas en la nube. Qué es, por qué lo necesitas y cómo guardarlo de forma segura.
 
 Source: https://traveldocumentvault.com/es/faq/recovery-code/
 

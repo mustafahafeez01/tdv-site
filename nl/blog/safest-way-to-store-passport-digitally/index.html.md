@@ -1,6 +1,6 @@
 # Veiligste manier om je paspoort digitaal op te slaan: offline wint
 
-> iCloud, Google Photos en versleutelde apps vergeleken. Waarom een offline kopie op je toestel over het algemeen het veiligst is, en welke afweging elke cloudoptie met zich meebrengt.
+> iCloud, Google Photos en versleutelde apps vergeleken. Waarom een offline kopie op je toestel meestal het veiligst is.
 
 Source: https://traveldocumentvault.com/nl/blog/safest-way-to-store-passport-digitally/
 

@@ -1,6 +1,6 @@
 # Viajar con un Hijo Sin Ambos Padres: Qué Documentos Llevar
 
-> Custodia exclusiva, viajes con los abuelos, apellido diferente: cada situación cambia los documentos que necesita tu hijo. Qué comprueban el mostrador de facturación y el agente de fronteras.
+> Custodia exclusiva, viaje con los abuelos, apellido distinto: cada caso cambia los papeles que necesita tu hijo. Qué mira cada control.
 
 Source: https://traveldocumentvault.com/es/blog/travelling-child-without-both-parents/
 

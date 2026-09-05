@@ -1,6 +1,6 @@
 # I Documenti di Viaggio Che Le Persone Dimenticano (e Dove Conservare Ognuno)
 
-> I documenti di viaggio che la maggior parte delle persone trascura e dove portare rispetto a cosa conservare. Lettere di consenso dimenticate, certificati di vaccinazione e strategie di backup.
+> I documenti di viaggio che quasi tutti dimenticano, cosa tenere addosso invece che in valigia e quali copie preparare per sicurezza.
 
 Source: https://traveldocumentvault.com/it/blog/what-documents-to-carry-when-travelling-internationally/
 

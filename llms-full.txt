@@ -676,7 +676,7 @@ The backup holds an encrypted copy of your vault: every profile, document scan, 
 
 # ETIAS: What Documents You Need and How to Apply
 
-> UK, US, and Canadian visitors will need ETIAS for European travel. Passport valid 3+ months, email, optional income proof. Check the official EU site for the current fee and timing.
+> UK, US and Canadian visitors will need ETIAS for Europe. What to have ready: a passport valid 3+ months, an email, and optional income proof.
 
 Source: https://traveldocumentvault.com/blog/etias-documents-2026/
 
@@ -940,7 +940,7 @@ You'll need to renew that person's passport before travel. If you're within 12 m
 
 # How Long Does Passport Renewal Take? (US, UK, Australia, Canada)
 
-> How long does passport renewal take? It depends on your situation more than your country. Here's what actually slows things down, and where to check current times.
+> Renewal time depends on your situation more than your country. What actually slows an application down, and where to check your country's current figure.
 
 Source: https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/
 
@@ -2006,7 +2006,7 @@ Many countries require your passport to remain valid for at least six months bey
 
 # Passport 6-Month Rule: Can You Travel With Less Than 6 Months Left?
 
-> Many countries refuse entry if your passport has less than 6 months left. See who enforces the 6 month passport rule and how to check yours before you book.
+> Many countries refuse entry if your passport has under 6 months left. Who enforces the 6 month rule, and how to check yours before you book.
 
 Source: https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/
 
@@ -2325,7 +2325,7 @@ The core rules are consistent across most countries: a plain light background, a
 
 # Safest Way to Store Your Passport Digitally: Offline Wins
 
-> iCloud, Google Photos and encrypted vault apps compared. Why an offline, on-device copy is generally the safest, and the trade-off each cloud option carries.
+> iCloud, Google Photos and encrypted vault apps compared. Why an offline, on-device copy is generally safest, and the trade-off each cloud option carries.
 
 Source: https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/
 
@@ -2481,7 +2481,7 @@ For families, a dedicated encrypted app that stores documents for multiple peopl
 
 # EES Tracks Your Schengen 90 Days but Won't Show the Count
 
-> EES logs every Schengen entry and exit and flags overstays automatically, but no portal shows your remaining days. How to count your 90/180 window yourself.
+> EES logs every Schengen entry and exit and flags overstays, but no portal shows your remaining days. How to count your 90/180 window yourself.
 
 Source: https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/
 
@@ -2708,7 +2708,7 @@ Airlines check every passport against IATA's Timatic database, which applies the
 
 # International Travel Document Checklist for Every Trip
 
-> Everything to carry, check and prepare before an international trip. A practical checklist covering passports, visas, driving licences and travel insurance.
+> Everything to carry, check and prepare before an international trip. A practical checklist covering passports, visas, driving licences and insurance.
 
 Source: https://traveldocumentvault.com/blog/travel-document-checklist/
 
@@ -2857,7 +2857,7 @@ Keep these with you at all times: passports, boarding passes, travel insurance c
 
 # Expired Passport UK: Can You Travel or Book a Holiday?
 
-> Booking a trip is not the same as boarding one. What the airline checks, when a renewal still leaves you time, and the narrow domestic exceptions in the UK.
+> Booking a trip is not the same as boarding one. What the airline checks, when a renewal still leaves time, and the narrow UK domestic exceptions.
 
 Source: https://traveldocumentvault.com/blog/travel-expired-passport-uk/
 
@@ -3285,7 +3285,7 @@ An emergency travel document is a temporary document issued by your government f
 
 # Travelling With a Child Without Both Parents: What to Carry
 
-> Sole custody, grandparent trips, different surnames - each changes the paperwork your child needs. What the airline desk and the border officer each look for.
+> Sole custody, grandparent trips, different surnames - each changes your child's paperwork. What the airline desk and the border officer each look for.
 
 Source: https://traveldocumentvault.com/blog/travelling-child-without-both-parents/
 
@@ -3631,7 +3631,7 @@ It depends on the visa type. For long-stay visas requiring renewal, 90 days is a
 
 # Is a Visa the Same as a Passport? The Difference Explained
 
-> No, and holding one never counts as the other. A passport proves who you are; a visa is a country's permission to enter. Why most trips need both, and how to check.
+> A passport proves who you are; a visa is a country's permission to enter. Holding one never counts as the other. Why most trips need both.
 
 Source: https://traveldocumentvault.com/blog/visa-vs-passport/
 
@@ -3933,7 +3933,7 @@ Forgetting your passport means you cannot board. For missing supporting document
 
 # Why I Built Travel Document Vault: For the Parent Who Remembers Everything
 
-> Why I built Travel Document Vault after a 3am passport check before a family trip, and why it stores everything on your own device instead of a server.
+> I was tired of checking five apps before every family trip. So I built one place for everyone's documents. Offline, encrypted, no subscription.
 
 Source: https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/
 

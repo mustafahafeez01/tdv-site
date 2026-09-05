@@ -1,6 +1,6 @@
 # Krypteret skybackup til rejsedokumenter: Hvem har nøglen?
 
-> Hvad "krypteret backup" egentlig betyder for pas-scanninger, hvorfor en gendannelseskode ikke kan nulstilles af nogen, og hvordan du opbevarer en kopi, du rent faktisk kan gendanne.
+> Hvad krypteret backup egentlig betyder for pas-scanninger, hvorfor ingen kan nulstille din gendannelseskode, og hvordan du gemmer en kopi, der virker.
 
 Source: https://traveldocumentvault.com/da/blog/encrypted-cloud-backup-travel-documents/
 

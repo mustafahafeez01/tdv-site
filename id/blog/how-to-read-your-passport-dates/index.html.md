@@ -1,6 +1,6 @@
 # Cara Membaca Paspor Anda: Tanggal Mana yang Sebenarnya Penting
 
-> Halaman data paspor Anda memuat dua tanggal, dan kebanyakan orang menyebut yang salah. Apa yang sebenarnya ditentukan oleh tanggal penerbitan, tanggal kedaluwarsa, dan negara penerbit.
+> Halaman data paspor memuat dua tanggal, dan kebanyakan orang menyebut yang salah. Apa yang ditentukan tanggal terbit dan tanggal kedaluwarsa.
 
 Source: https://traveldocumentvault.com/id/blog/how-to-read-your-passport-dates/
 

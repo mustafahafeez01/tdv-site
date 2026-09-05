@@ -1,6 +1,6 @@
 # Como Organizar Documentos de Viagem da Família (Antes da Próxima Viagem)
 
-> Como organizar os documentos de viagem de toda a família: o que guardar, onde guardar, e como evitar que uma data de validade esquecida estrague uma viagem.
+> O que guardar, onde guardar, e como evitar que uma data de validade esquecida estrague a viagem de toda a família.
 
 Source: https://traveldocumentvault.com/pt/blog/how-to-organise-family-travel-documents/
 

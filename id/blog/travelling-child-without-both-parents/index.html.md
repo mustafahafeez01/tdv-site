@@ -1,6 +1,6 @@
 # Bepergian dengan Anak Tanpa Kedua Orang Tua: Dokumen yang Harus Dibawa
 
-> Hak asuh tunggal, perjalanan bersama kakek-nenek, beda nama keluarga - masing-masing mengubah dokumen yang dibutuhkan anak Anda. Apa yang diperiksa petugas check-in maskapai dan petugas imigrasi.
+> Hak asuh tunggal, perjalanan dengan kakek-nenek, beda nama keluarga: apa yang diperiksa petugas check-in dan petugas imigrasi.
 
 Source: https://traveldocumentvault.com/id/blog/travelling-child-without-both-parents/
 

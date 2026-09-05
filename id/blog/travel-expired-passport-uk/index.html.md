@@ -1,6 +1,6 @@
 # Paspor Kedaluwarsa di Inggris: Bisakah Anda Bepergian atau Memesan Liburan?
 
-> Memesan perjalanan tidak sama dengan naik pesawat. Apa yang diperiksa maskapai, kapan perpanjangan paspor masih sempat selesai, dan pengecualian domestik terbatas di Inggris.
+> Memesan perjalanan tidak sama dengan naik pesawat. Apa yang diperiksa maskapai, kapan perpanjangan masih sempat, dan pengecualiannya.
 
 Source: https://traveldocumentvault.com/id/blog/travel-expired-passport-uk/
 

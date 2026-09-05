@@ -1,6 +1,6 @@
 # Lista de verificación de documentos de viaje internacional para cada viaje
 
-> Todo lo que hay que llevar, comprobar y preparar antes de un viaje internacional. Una lista práctica que cubre pasaportes, visados, carnés de conducir y seguro de viaje.
+> Todo lo que llevar, comprobar y preparar antes de un viaje internacional: pasaportes, visados, carnés de conducir y seguro de viaje.
 
 Source: https://traveldocumentvault.com/es/blog/travel-document-checklist/
 

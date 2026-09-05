@@ -1,6 +1,6 @@
 # La mejor app de pasaportes y documentos de viaje para la familia
 
-> Cuatro pasaportes, cuatro fechas de caducidad, una sola app. Qué comprobar antes de confiarle los escaneos de tu familia y por qué importa que se guarden en el dispositivo.
+> Cuatro pasaportes, cuatro fechas de caducidad, una sola app. Qué comprobar antes de confiarle los escaneos de tu familia y dónde se guardan.
 
 Source: https://traveldocumentvault.com/es/blog/best-passport-organizer-app/
 

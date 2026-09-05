@@ -1,6 +1,6 @@
 # ETIAS: Welche Dokumente Sie benötigen und wie Sie sich anmelden
 
-> Besucher aus UK, USA und Kanada werden für Reisen nach Europa ETIAS benötigen. Reisepass gültig 3+ Monate, E-Mail, optionaler Einkommensnachweis. Aktuelle Gebühr und Fristen auf der offiziellen EU-Website prüfen.
+> Was ETIAS verlangt: Reisepass mindestens 3 Monate gültig, E-Mail-Adresse und mitunter ein Einkommensnachweis. Für UK, USA und Kanada.
 
 Source: https://traveldocumentvault.com/de/blog/etias-documents-2026/
 

@@ -1,6 +1,6 @@
 # Apakah Paspor Anda Aman di Google Foto? Tidak Juga
 
-> Satu akun Google yang terkena phishing membuka semua foto di dalamnya, termasuk paspor, dan ketentuan Google mengizinkan pemindaian otomatis. Risikonya, dan tempat yang lebih aman untuk menyimpan pindaian.
+> Satu akun Google yang kena phishing membuka semua foto di dalamnya, termasuk paspor. Risikonya, dan tempat lebih aman untuk pindaian.
 
 Source: https://traveldocumentvault.com/id/blog/is-it-safe-to-store-passport-in-google-photos/
 

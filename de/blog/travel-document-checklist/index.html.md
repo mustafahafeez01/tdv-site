@@ -1,6 +1,6 @@
 # Internationale Reisedokument-Checkliste für jede Reise
 
-> Alles, was Sie vor einer internationalen Reise mitnehmen, prüfen und vorbereiten sollten. Eine praktische Checkliste zu Reisepässen, Visa, Führerscheinen und Reiseversicherung.
+> Alles, was Sie vor einer internationalen Reise prüfen sollten: Reisepässe, Visa, Führerscheine und Reiseversicherung.
 
 Source: https://traveldocumentvault.com/de/blog/travel-document-checklist/
 

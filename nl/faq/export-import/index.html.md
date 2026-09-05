@@ -1,6 +1,6 @@
 # Uw kluis exporteren en importeren | Travel Document Vault
 
-> Stap-voor-stap handleiding voor het exporteren van uw volledige kluis als versleuteld bestand en het importeren ervan op een nieuw apparaat. Behoud uw gegevens en zorg voor overdraagbaarheid.
+> Stap voor stap uw volledige kluis exporteren als versleuteld bestand en importeren op een nieuw apparaat. Uw gegevens blijven overdraagbaar.
 
 Source: https://traveldocumentvault.com/nl/faq/export-import/
 

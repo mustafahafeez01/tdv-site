@@ -1,6 +1,6 @@
 # Abgelaufener Pass UK: Können Sie reisen oder einen Urlaub buchen?
 
-> Eine Reise zu buchen ist nicht dasselbe wie zu boarden. Was die Fluggesellschaft prüft, wann eine Erneuerung noch rechtzeitig kommt, und die engen Inlandsausnahmen im UK.
+> Eine Reise buchen ist nicht dasselbe wie boarden. Was die Fluggesellschaft prüft, wann eine Erneuerung noch reicht, und die engen Ausnahmen.
 
 Source: https://traveldocumentvault.com/de/blog/travel-expired-passport-uk/
 

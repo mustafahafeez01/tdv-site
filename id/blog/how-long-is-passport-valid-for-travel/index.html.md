@@ -1,6 +1,6 @@
 # Berapa Lama Paspor Berlaku untuk Perjalanan? Penjelasan Aturan Masa Berlaku
 
-> Sebagian besar paspor dewasa berlaku 10 tahun, tetapi jendela waktu perjalanan Anda seringkali lebih pendek. Pelajari cara menghitung masa berlaku paspor dan kapan harus memperpanjang.
+> Sebagian besar paspor dewasa berlaku 10 tahun, tetapi jendela perjalanan Anda lebih pendek. Cara menghitung masa berlaku dan kapan memperpanjang.
 
 Source: https://traveldocumentvault.com/id/blog/how-long-is-passport-valid-for-travel/
 

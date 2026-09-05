@@ -1,6 +1,6 @@
 # Passfoto-Regeln: Größe, Brille und wie Sie es zu Hause machen
 
-> Die Passfoto-Regeln, an denen Fotos scheitern: Größe, Brille, Hintergrund und Beleuchtung, und wie Sie zu Hause mit dem Smartphone ein vorschriftsmäßiges Foto machen.
+> Die Passfoto-Regeln, an denen Fotos scheitern: Größe, Brille, Hintergrund und Licht. So gelingt zu Hause ein vorschriftsmäßiges Foto.
 
 Source: https://traveldocumentvault.com/de/blog/passport-photo-at-home/
 

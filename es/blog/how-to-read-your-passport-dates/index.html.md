@@ -1,6 +1,6 @@
 # Cómo Leer tu Pasaporte: Qué Fecha Importa Realmente
 
-> La página de datos de tu pasaporte lleva dos fechas, y casi todo el mundo cita la que no es. Qué controla realmente la fecha de expedición, la fecha de caducidad y el país emisor.
+> La página de datos lleva dos fechas y casi todos citan la que no es. Qué controla en realidad la fecha de expedición y cuál la de caducidad.
 
 Source: https://traveldocumentvault.com/es/blog/how-to-read-your-passport-dates/
 

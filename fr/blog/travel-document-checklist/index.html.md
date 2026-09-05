@@ -1,6 +1,6 @@
 # Liste de contrôle complète des documents de voyage international
 
-> Tout ce qu'il faut emporter, vérifier et préparer avant un voyage international. Une liste pratique couvrant passeports, visas, permis de conduire et assurance voyage.
+> Tout ce qu'il faut vérifier avant un voyage international : passeports, visas, permis de conduire et assurance voyage.
 
 Source: https://traveldocumentvault.com/fr/blog/travel-document-checklist/
 

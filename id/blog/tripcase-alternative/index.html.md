@@ -1,6 +1,6 @@
 # Alternatif TripCase: Penyimpanan Dokumen Perjalanan Secara Luring
 
-> TripCase berhenti beroperasi pada 2025. Apa yang bisa digunakan sebagai gantinya untuk itinerary dan dokumen perjalanan, dan mengapa penyimpanan luring lebih aman.
+> TripCase berhenti beroperasi pada 2025. Apa gantinya untuk itinerary dan dokumen perjalanan, dan mengapa penyimpanan luring lebih aman.
 
 Source: https://traveldocumentvault.com/id/blog/tripcase-alternative/
 

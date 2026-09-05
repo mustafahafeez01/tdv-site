@@ -1,6 +1,6 @@
 # Ihr 90-Tage-Schengen-Fenster: Tage in der EES-Ära zählen
 
-> Das EES-Grenzsystem der EU erfasst Ihre Schengen-Tage jetzt automatisch. Wie die 90/180-Regel funktioniert, was das EES Ihnen nicht sagt, und wie Sie vorausschauend planen.
+> Das EES erfasst Ihre Schengen-Tage jetzt automatisch. Wie die 90/180-Regel funktioniert und was das System Ihnen nicht anzeigt.
 
 Source: https://traveldocumentvault.com/de/blog/schengen-90-days-auto-tracked-ees/
 

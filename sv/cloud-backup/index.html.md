@@ -1,6 +1,6 @@
 # Krypterad molnsäkerhetskopia | Din molnlagring. Din nyckel. | Travel Document Vault
 
-> Ände-till-ände-krypterad säkerhetskopia till ditt eget iCloud eller Google Drive. Bara du har återställningskoden, så ingen annan kan öppna den, inte ens vi. Byggd offline-först.
+> Ände-till-ände-krypterad säkerhetskopia till ditt eget iCloud eller Google Drive. Du har återställningskoden, ingen annan kan öppna den, inte ens vi.
 
 Source: https://traveldocumentvault.com/sv/cloud-backup/
 

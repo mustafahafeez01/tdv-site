@@ -1,6 +1,6 @@
 # ETA del Reino Unido: ¿A qué pasaporte está vinculada?
 
-> Tu ETA del Reino Unido está vinculada al pasaporte exacto con el que la solicitaste. Si renuevas ese pasaporte, necesitarás una ETA nueva. Te explicamos por qué.
+> Tu ETA del Reino Unido queda vinculada al pasaporte con el que la solicitaste. Si lo renuevas, necesitarás una ETA nueva. Por qué funciona así.
 
 Source: https://traveldocumentvault.com/es/blog/uk-eta-passport-rules/
 

@@ -1,6 +1,6 @@
 # Reisen mit einem Kind ohne beide Elternteile: Was Sie mitnehmen sollten
 
-> Alleiniges Sorgerecht, Reisen mit Großeltern, unterschiedliche Nachnamen - jede Situation verändert die Unterlagen, die Ihr Kind braucht. Worauf der Check-in-Schalter und der Grenzbeamte jeweils achten.
+> Alleiniges Sorgerecht, Reise mit Großeltern, anderer Nachname: Was der Check-in-Schalter und die Grenzbeamten jeweils sehen wollen.
 
 Source: https://traveldocumentvault.com/de/blog/travelling-child-without-both-parents/
 

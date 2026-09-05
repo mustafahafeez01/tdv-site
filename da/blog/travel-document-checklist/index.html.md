@@ -1,6 +1,6 @@
 # Tjekliste til rejsedokumenter: alt du behøver til internationale rejser
 
-> Den komplette tjekliste til rejsedokumenter 2026. Organiser alt offline ét sted med Travel Document Vaults app, der holder dine dokumenter på din egen enhed.
+> Alt hvad du skal medbringe, tjekke og forberede før en udlandsrejse. En praktisk tjekliste med pas, visum, kørekort og rejseforsikring.
 
 Source: https://traveldocumentvault.com/da/blog/travel-document-checklist/
 

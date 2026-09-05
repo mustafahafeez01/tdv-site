@@ -1,6 +1,6 @@
 # Daftar Periksa Dokumen Perjalanan: Semua yang Anda Butuhkan untuk Setiap Perjalanan Internasional
 
-> Daftar periksa lengkap dokumen perjalanan internasional 2026. Atur semuanya secara luring dalam satu tempat dengan aplikasi Travel Document Vault yang menyimpan dokumen Anda di perangkat Anda sendiri.
+> Semua yang perlu diperiksa sebelum perjalanan internasional: paspor, visa, SIM, dan asuransi perjalanan.
 
 Source: https://traveldocumentvault.com/id/blog/travel-document-checklist/
 

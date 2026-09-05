@@ -1,6 +1,6 @@
 # Gestione dei Passaporti Familiari: Conservare Più Passaporti in Sicurezza
 
-> Come organizzare e conservare in sicurezza più passaporti familiari in un unico luogo. Traccia le date di scadenza di ogni membro della famiglia, con promemoria prima di ogni rinnovo.
+> Tutti i passaporti di famiglia in un unico posto sicuro, le scadenze di ciascuno sotto controllo e un promemoria prima di ogni rinnovo.
 
 Source: https://traveldocumentvault.com/it/blog/family-passport-management/
 

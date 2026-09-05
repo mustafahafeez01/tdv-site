@@ -1,6 +1,6 @@
 # Qual è il Mio Codice di Recupero? | Travel Document Vault
 
-> Il codice di recupero è la chiave principale per i vostri backup crittografati nel cloud. Scoprite cos'è, perché vi serve, cosa succede se lo perdete e come conservarlo in sicurezza.
+> Il codice di recupero è la chiave principale dei tuoi backup cloud crittografati. Cos'è, perché serve e come conservarlo in sicurezza.
 
 Source: https://traveldocumentvault.com/it/faq/recovery-code/
 

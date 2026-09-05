@@ -1,6 +1,6 @@
 # Att Resa med Barn Utan Båda Föräldrarna: Vad Du Ska Ta Med
 
-> Ensam vårdnad, resor med morföräldrar, olika efternamn - varje situation ändrar vilka papper barnet behöver. Vad incheckningsdisken och gränskontrollanten var för sig tittar efter.
+> Ensam vårdnad, resa med morföräldrar, olika efternamn – varje fall ändrar vilka papper barnet behöver. Vad incheckning och gränskontroll tittar efter.
 
 Source: https://traveldocumentvault.com/sv/blog/travelling-child-without-both-parents/
 

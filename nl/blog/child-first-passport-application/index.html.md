@@ -1,6 +1,6 @@
 # Het eerste paspoort van je kind aanvragen
 
-> Eerste paspoort voor je kind: toestemmingsregels, benodigde documenten, tips voor de babyfoto, wat je moet controleren als het aankomt. Stap-voor-stapgids voor ouders.
+> Eerste paspoort voor je kind: toestemmingsregels, benodigde documenten, tips voor de babyfoto en wat je checkt als het binnenkomt.
 
 Source: https://traveldocumentvault.com/nl/blog/child-first-passport-application/
 

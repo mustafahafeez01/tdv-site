@@ -1,6 +1,6 @@
 # Er dit pas sikkert i Google Fotos? Ikke rigtig
 
-> Én Google-konto udsat for phishing eksponerer alle billeder i den, dit pas inklusive, og Googles vilkår tillader automatiseret scanning. Risiciene - og hvor en scanning er sikrere.
+> Én phishet Google-konto eksponerer alle billeder i den, dit pas inklusive. Risiciene ved skylagring – og hvor en paskopi ligger sikrere.
 
 Source: https://traveldocumentvault.com/da/blog/is-it-safe-to-store-passport-in-google-photos/
 

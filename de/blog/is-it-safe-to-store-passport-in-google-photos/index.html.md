@@ -1,6 +1,6 @@
 # Ist es sicher, seinen Reisepass in Google Photos zu speichern? Was Sie wissen müssen
 
-> Das Speichern Ihres Reisepasses in Google Photos ist mit echten Datenschutzrisiken verbunden. Erfahren Sie, warum eine Offline-App, die Ihre Dokumente auf dem Gerät verschlüsselt, die sicherere Alternative ist.
+> Der Reisepass in Google Photos birgt echte Datenschutzrisiken. Warum eine Offline-App, die auf dem Gerät verschlüsselt, sicherer ist.
 
 Source: https://traveldocumentvault.com/de/blog/is-it-safe-to-store-passport-in-google-photos/
 

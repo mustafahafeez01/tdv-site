@@ -1,6 +1,6 @@
 # Documentos de Seguros de Viaje: Qué Guardar Antes de Partir
 
-> Aprende qué documentos de seguros de viaje debes guardar antes de viajar, dónde almacenarlos sin conexión y cómo evitar los errores de reclamación que hacen que te la rechacen.
+> Qué documentos del seguro de viaje guardar antes de volar, dónde tenerlos sin conexión y qué errores hacen que te rechacen la reclamación.
 
 Source: https://traveldocumentvault.com/es/blog/travel-insurance-documents/
 

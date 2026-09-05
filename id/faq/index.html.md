@@ -1,6 +1,6 @@
 # FAQ | Travel Document Vault
 
-> Satu hal yang tidak perlu dikhawatirkan. Jawaban tentang Travel Document Vault, pengatur paspor keluarga offline Anda dengan pengingat kedaluwarsa cerdas. Tanpa akun. Tanpa cloud. Tanpa langganan.
+> Satu hal yang tidak perlu dikhawatirkan. Jawaban tentang Travel Document Vault, pengatur dokumen keluarga offline. Tanpa akun, tanpa langganan.
 
 Source: https://traveldocumentvault.com/id/faq/
 

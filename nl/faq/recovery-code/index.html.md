@@ -1,6 +1,6 @@
 # Wat is mijn herstelcode? | Travel Document Vault
 
-> Uw herstelcode is de hoofdsleutel voor uw versleutelde cloudback-ups. Lees wat het is, waarom u het nodig hebt, wat er gebeurt als u het verliest, en hoe u het veilig bewaart.
+> Uw herstelcode is de hoofdsleutel voor uw versleutelde cloudback-ups. Wat het is, waarom u het nodig hebt en hoe u het veilig bewaart.
 
 Source: https://traveldocumentvault.com/nl/faq/recovery-code/
 

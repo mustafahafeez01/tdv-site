@@ -1,6 +1,6 @@
 # EES registrerer dine 90 Schengen-dage - men viser ikke antallet
 
-> EES registrerer hver Schengen-ind- og udrejse og markerer automatisk overskridelser, men ingen portal viser dine resterende dage. Sådan tæller du selv dit 90/180-vindue.
+> EES registrerer hver ind- og udrejse automatisk, men ingen portal viser dine resterende dage. Sådan tæller du selv dit 90/180-vindue.
 
 Source: https://traveldocumentvault.com/da/blog/schengen-90-days-auto-tracked-ees/
 

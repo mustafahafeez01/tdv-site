@@ -1,6 +1,6 @@
 # Potete viaggiare mentre il vostro passaporto viene rinnovato?
 
-> Scoprite se potete viaggiare mentre il rinnovo del vostro passaporto è in corso. Le norme variano a seconda del paese e del metodo di richiesta. Ecco cosa dovete sapere.
+> Si può viaggiare mentre il rinnovo del passaporto è in corso? Le norme cambiano da paese a paese e in base al tipo di domanda.
 
 Source: https://traveldocumentvault.com/it/blog/travel-while-passport-renewal-pending/
 

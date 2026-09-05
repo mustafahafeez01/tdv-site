@@ -1,6 +1,6 @@
 # Regole per la Foto Passaporto: Dimensioni, Occhiali e Come Scattarla a Casa
 
-> Le regole della foto passaporto che portano al rifiuto: dimensioni, occhiali, sfondo e illuminazione, più come scattare una foto conforme a casa con il telefono.
+> Le regole della foto passaporto che portano al rifiuto: dimensioni, occhiali, sfondo e luce. Come scattarne una conforme a casa col telefono.
 
 Source: https://traveldocumentvault.com/it/blog/passport-photo-at-home/
 

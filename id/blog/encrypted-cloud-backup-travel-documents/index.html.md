@@ -1,6 +1,6 @@
 # Cadangan Cloud Terenkripsi untuk Dokumen Perjalanan: Siapa yang Memegang Kuncinya
 
-> Apa arti sebenarnya dari cadangan terenkripsi untuk pindaian paspor, mengapa kode pemulihan tidak bisa direset oleh siapa pun, dan cara menyimpan salinan yang benar-benar bisa Anda pulihkan.
+> Apa arti sebenarnya cadangan terenkripsi untuk pindaian paspor, dan mengapa kode pemulihan Anda tidak bisa direset siapa pun.
 
 Source: https://traveldocumentvault.com/id/blog/encrypted-cloud-backup-travel-documents/
 

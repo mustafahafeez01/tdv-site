@@ -1,6 +1,6 @@
 # Cómo exportar e importar tu caja de seguridad | Travel Document Vault
 
-> Guía paso a paso para exportar tu caja de seguridad completa como archivo cifrado e importarla en otro dispositivo. Preserva tus datos y garantiza portabilidad.
+> Guía paso a paso para exportar tu bóveda completa como archivo cifrado e importarla en otro dispositivo. Tus datos siguen siendo portables.
 
 Source: https://traveldocumentvault.com/es/faq/export-import/
 

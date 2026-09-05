@@ -1,6 +1,6 @@
 # Reseplaner för familjer | Travel Document Vault
 
-> Planera familjeresor med självförtroende. Beredskapstrafikljus. Packningslistor. Spåra dagargränser per land per period med detaljer per medlem. Vet före du åker. Helt offline.
+> Planera familjeresor med koll på läget. Beredskapstrafikljus per resenär, packningslistor och dagargränser per land. Vet innan du åker, helt offline.
 
 Source: https://traveldocumentvault.com/sv/trip-planner/
 

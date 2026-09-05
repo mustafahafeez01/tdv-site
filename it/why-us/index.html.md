@@ -1,6 +1,6 @@
 # Perché Travel Document Vault? App Passaporti Offline e Privata
 
-> I passaporti, i visti e i documenti d'identità della Sua famiglia in un'unica app che funziona offline, senza bisogno di account e senza nulla sui nostri server. Backup end-to-end crittografato opzionale nel Suo iCloud o Google Drive personale.
+> I passaporti, i visti e i documenti d'identità della tua famiglia in un'unica app che funziona offline, senza account e senza nulla sui nostri server.
 
 Source: https://traveldocumentvault.com/it/why-us/
 

@@ -1,6 +1,6 @@
 # Sauvegarde cloud chiffrée | Votre cloud. Votre clé. | Travel Document Vault
 
-> Sauvegarde chiffrée de bout en bout vers votre propre iCloud ou Google Drive. Vous détenez le code de récupération et personne d'autre ne peut l'ouvrir, pas même nous. Fonctionne hors ligne avant tout.
+> Sauvegarde chiffrée de bout en bout vers votre iCloud ou Google Drive. Vous détenez le code de récupération, nous n'y accédons jamais.
 
 Source: https://traveldocumentvault.com/fr/cloud-backup/
 

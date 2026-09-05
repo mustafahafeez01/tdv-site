@@ -1,6 +1,6 @@
 # Verschlüsselte Cloud-Sicherung | Ihre Cloud. Ihr Schlüssel. | Travel Document Vault
 
-> Ende-zu-Ende-verschlüsselte Sicherung auf Ihrer eigenen iCloud oder Google Drive. Sie besitzen den Wiederherstellungscode, und niemand sonst kann sie öffnen, auch wir nicht. Funktioniert in erster Linie offline.
+> Ende-zu-Ende-verschlüsselte Sicherung in Ihrer iCloud oder Google Drive. Sie halten den Wiederherstellungscode, wir greifen nie darauf zu.
 
 Source: https://traveldocumentvault.com/de/cloud-backup/
 

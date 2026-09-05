@@ -1,6 +1,6 @@
 # Cópia de Segurança Explicada: Cópias Locais, Exportação do Cofre e Cópia de Segurança na Nuvem | Travel Document Vault
 
-> Uma comparação clara das três formas como Travel Document Vault protege os seus dados: cópias de segurança locais automáticas, Exportação do Cofre (.tdvault) e cópia de segurança na nuvem opcional em iCloud ou Google Drive.
+> As três formas como Travel Document Vault protege os seus dados: cópias locais, Exportação do Cofre (.tdvault) e cópia na nuvem encriptada opcional.
 
 Source: https://traveldocumentvault.com/pt/faq/backup-explained/
 

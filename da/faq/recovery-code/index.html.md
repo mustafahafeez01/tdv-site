@@ -1,6 +1,6 @@
 # Hvad er min gendannelseskode? | Travel Document Vault
 
-> Din gendannelseskode er hovednøglen til dine krypterede cloud-sikkerhedskopier. Lær, hvad den er, hvorfor du har brug for den, hvad der sker, hvis du mister den, og hvordan du opbevarer den sikkert.
+> Gendannelseskoden er hovednøglen til dine krypterede cloud-sikkerhedskopier. Hvad den er, hvorfor den er vigtig, og hvordan du opbevarer den sikkert.
 
 Source: https://traveldocumentvault.com/da/faq/recovery-code/
 

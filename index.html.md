@@ -1,6 +1,6 @@
 # Travel Document Vault - Passport & Visa Expiry Reminders
 
-> Keep the whole family's passports, visas and IDs on your phone, encrypted and offline. Expiry reminders months ahead. One-time purchase, no subscription.
+> Store your family's passports, visas and travel documents on your own device, encrypted. No accounts, no subscription. Optional backup to your own cloud.
 
 Source: https://traveldocumentvault.com/
 

@@ -1,6 +1,6 @@
 # Reiseversicherungsdokumente: Was Sie vor der Abreise speichern sollten
 
-> Erfahren Sie, welche Versicherungsdokumente Sie vor dem Flug speichern sollten, wo Sie sie offline speichern und wie Sie häufige Fehler beim Einreichen von Ansprüchen vermeiden, die zur Ablehnung des Anspruchs führen.
+> Welche Versicherungsunterlagen Sie vor dem Flug bereitlegen, wo Sie sie offline speichern, und welche Fehler zur Ablehnung führen.
 
 Source: https://traveldocumentvault.com/de/blog/travel-insurance-documents/
 

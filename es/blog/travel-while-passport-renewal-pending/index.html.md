@@ -1,6 +1,6 @@
 # ¿Puedes viajar mientras tu pasaporte se está renovando?
 
-> Descubre si puedes viajar mientras se renueva tu pasaporte. Las normas varían según el país y el método de renovación que hayas utilizado. Esto es lo que necesitas saber.
+> ¿Puedes viajar mientras se renueva tu pasaporte? Depende del país y del método de renovación que usaste. Esto es lo que conviene saber.
 
 Source: https://traveldocumentvault.com/es/blog/travel-while-passport-renewal-pending/
 

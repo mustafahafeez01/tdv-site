@@ -1,6 +1,6 @@
 # App til visumovervågning: hvad du skal kigge efter, og hvorfor det betyder noget
 
-> En app til visumovervågning kan forhindre bøder for overstay. Hvilke funktioner der betyder noget, hvordan visumovervågning adskiller sig fra pasovervågning, og hvad du bør tjekke først.
+> En app til visumovervågning kan forhindre bøder for overstay. Hvilke funktioner der betyder noget, og hvad du bør tjekke først.
 
 Source: https://traveldocumentvault.com/da/blog/visa-expiry-tracker-app/
 

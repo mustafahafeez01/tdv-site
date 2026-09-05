@@ -1,6 +1,6 @@
 # Planeador de Viagens para Famílias | Travel Document Vault
 
-> Planeie viagens em família com confiança. Semáforo de prontidão. Listas de embalagem. Rastreie limites de dias por país com detalhes por membro. Saiba antes de partir. Totalmente offline.
+> Planeie viagens em família: semáforo de prontidão, listas de bagagem e controlo de dias por país, membro a membro. Totalmente offline.
 
 Source: https://traveldocumentvault.com/pt/trip-planner/
 

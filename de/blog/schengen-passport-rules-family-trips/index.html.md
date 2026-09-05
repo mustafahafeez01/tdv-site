@@ -1,6 +1,6 @@
 # Schengen-Reisepassregeln für Familienreisen: Was Eltern falsch machen
 
-> Schengen benötigt 3 Monate Gültigkeit nach der Ausreise, nicht 6 - und Kinderreisepässe verfallen nach 5 Jahren. Worauf Familien achten sollten, wenn sie buchen.
+> Schengen verlangt 3 Monate Gültigkeit nach der Ausreise, nicht 6, und Kinderpässe laufen nach 5 Jahren ab. Worauf Familien beim Buchen achten.
 
 Source: https://traveldocumentvault.com/de/blog/schengen-passport-rules-family-trips/
 

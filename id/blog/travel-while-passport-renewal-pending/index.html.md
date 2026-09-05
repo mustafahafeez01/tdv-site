@@ -1,6 +1,6 @@
 # Bisakah Anda Bepergian Saat Paspor Sedang Diperpanjang?
 
-> Cari tahu apakah Anda bisa bepergian saat perpanjangan paspor Anda masih diproses. Aturannya berbeda tiap negara dan tergantung cara Anda mengajukan. Ini yang perlu Anda ketahui.
+> Bisakah Anda bepergian saat perpanjangan paspor masih diproses? Aturannya berbeda tiap negara dan tergantung cara pengajuan.
 
 Source: https://traveldocumentvault.com/id/blog/travel-while-passport-renewal-pending/
 

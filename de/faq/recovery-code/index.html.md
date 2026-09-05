@@ -1,6 +1,6 @@
 # Was ist mein Wiederherstellungscode? | Travel Document Vault
 
-> Ihr Wiederherstellungscode ist der Schlüssel zu Ihren verschlüsselten Cloud-Sicherungen. Erfahren Sie, was er ist, warum Sie ihn benötigen, was passiert, wenn Sie ihn verlieren, und wie Sie ihn sicher aufbewahren.
+> Ihr Wiederherstellungscode ist der Schlüssel zu Ihren verschlüsselten Cloud-Sicherungen. Was er ist, warum er zählt und wie Sie ihn sicher aufbewahren.
 
 Source: https://traveldocumentvault.com/de/faq/recovery-code/
 

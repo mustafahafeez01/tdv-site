@@ -1,6 +1,6 @@
 # Familienreisedokumente organisieren (Vor Ihrer nächsten Reise)
 
-> So organisieren Sie die Reisedokumente der ganzen Familie: was Sie aufbewahren sollten, wo, und wie eine vergessene Ablauffrist nicht die ganze Reise durcheinanderbringt.
+> Was Sie aufbewahren sollten, wo, und wie eine vergessene Ablauffrist nicht die ganze Familienreise durcheinanderbringt.
 
 Source: https://traveldocumentvault.com/de/blog/how-to-organise-family-travel-documents/
 

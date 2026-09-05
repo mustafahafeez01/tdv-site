@@ -1,6 +1,6 @@
 # How Long Does Passport Renewal Take? (US, UK, Australia, Canada)
 
-> How long does passport renewal take? It depends on your situation more than your country. Here's what actually slows things down, and where to check current times.
+> Renewal time depends on your situation more than your country. What actually slows an application down, and where to check your country's current figure.
 
 Source: https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/
 

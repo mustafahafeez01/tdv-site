@@ -1,6 +1,6 @@
 # Backup Explained: Local Backups, Vault Export, and Cloud Backup | Travel Document Vault
 
-> A clear comparison of the three ways Travel Document Vault protects your data: automatic local backups, Vault Export (.tdvault), and optional Pro cloud backup to iCloud or Google Drive.
+> The three ways your data is protected: automatic local backups, Vault Export (.tdvault), and optional cloud backup to iCloud or Google Drive.
 
 Source: https://traveldocumentvault.com/faq/backup-explained/
 

@@ -1,6 +1,6 @@
 # Резервне копіювання пояснено: локальні резервні копії, Vault Export та хмарне резервне копіювання | Travel Document Vault
 
-> Наочне порівняння трьох способів захисту Ваших даних у Travel Document Vault: автоматичні локальні резервні копії, Vault Export (.tdvault) та опційне Pro хмарне резервне копіювання в iCloud або Google Drive.
+> Три способи захисту ваших даних: автоматичні локальні копії, експорт сховища (.tdvault) і зашифроване хмарне копіювання в Pro.
 
 Source: https://traveldocumentvault.com/uk/faq/backup-explained/
 

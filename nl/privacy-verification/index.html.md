@@ -1,6 +1,6 @@
 # Privacyverificatie | Travel Document Vault
 
-> Verifieerbare privacygaranties voor Travel Document Vault. Nul trackers, nul gegevensverzameling. Op het apparaat standaard - geen Travel Document Vault-cloud, geen account vereist. Bekijk elk verzoek om toestemming dat we doen en waarom.
+> Verifieerbare privacy: nul trackers, geen gegevensverzameling, standaard op het apparaat en zonder account. Elke gevraagde toestemming wordt uitgelegd.
 
 Source: https://traveldocumentvault.com/nl/privacy-verification/
 

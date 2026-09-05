@@ -1,6 +1,6 @@
 # FAQ | Travel Document Vault
 
-> Eine Sorge weniger. Antworten zu Travel Document Vault, Ihrem offline Familienpass-Organizer mit smarten Ablauf-Erinnerungen. Keine Konten. Keine Cloud. Kein Abo.
+> Eine Sorge weniger. Antworten zu Travel Document Vault, Ihrem offline Familienpass-Organizer mit smarten Ablauf-Erinnerungen. Keine Konten. Kein Abo.
 
 Source: https://traveldocumentvault.com/de/faq/
 

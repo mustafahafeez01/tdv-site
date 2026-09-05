@@ -1,6 +1,6 @@
 # ETIAS: welke documenten je nodig hebt en hoe je aanvraagt
 
-> Bezoekers uit het VK, de VS en Canada hebben ETIAS nodig om naar Europa te reizen. Paspoort geldig voor minstens 3 maanden, e-mailadres, optioneel inkomensbewijs. Check de officiële EU-website voor de actuele kosten en planning.
+> Wat ETIAS vraagt: paspoort minstens 3 maanden geldig, een e-mailadres en soms een inkomensbewijs. Voor het VK, de VS en Canada.
 
 Source: https://traveldocumentvault.com/nl/blog/etias-documents-2026/
 

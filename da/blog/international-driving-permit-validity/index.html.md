@@ -1,6 +1,6 @@
 # Internationalt kørekort: Hvor længe det egentlig gælder
 
-> Et internationalt kørekort har sin egen udløbsdato og kan udløbe år før det kørekort, det følger. Sådan adskiller de to traktattyper sig, og hvilke datoer du skal holde øje med.
+> Et internationalt kørekort har sin egen udløbsdato og kan udløbe år før det kørekort, det følger. Sådan adskiller de to konventioner sig.
 
 Source: https://traveldocumentvault.com/da/blog/international-driving-permit-validity/
 

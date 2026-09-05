@@ -1,6 +1,6 @@
 # Elenco di Controllo dei Documenti di Viaggio Internazionali per Ogni Viaggio
 
-> Tutto quello che serve portare, controllare e preparare prima di un viaggio internazionale. Una checklist pratica su passaporti, visti, patenti di guida e assicurazione di viaggio.
+> Tutto quello da controllare prima di un viaggio internazionale: passaporti, visti, patenti di guida e assicurazione di viaggio.
 
 Source: https://traveldocumentvault.com/it/blog/travel-document-checklist/
 

@@ -1,6 +1,6 @@
 # Hoe lang is een paspoort geldig voor reizen? Geldigheidsregels uitgelegd
 
-> De meeste paspoorten van volwassenen zijn 10 jaar geldig, maar je reisvenster is vaak korter. Ontdek hoe de geldigheidsmaanden van een paspoort werken en wanneer je moet verlengen.
+> De meeste paspoorten van volwassenen zijn 10 jaar geldig, maar je reisvenster is korter. Hoe je de geldigheidsmaanden telt en wanneer je verlengt.
 
 Source: https://traveldocumentvault.com/nl/blog/how-long-is-passport-valid-for-travel/
 

@@ -1,6 +1,6 @@
 # Come Leggere il Tuo Passaporto: Quale Data Conta Davvero
 
-> La pagina dei dati del tuo passaporto ha due date, e quasi tutti indicano quella sbagliata. Cosa controllano davvero la data di rilascio, la data di scadenza e il paese di rilascio.
+> La pagina dei dati ha due date e quasi tutti citano quella sbagliata. Cosa determinano davvero la data di rilascio e quella di scadenza.
 
 Source: https://traveldocumentvault.com/it/blog/how-to-read-your-passport-dates/
 

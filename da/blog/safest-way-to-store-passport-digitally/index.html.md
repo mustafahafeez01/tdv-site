@@ -1,6 +1,6 @@
 # Sikreste måde at gemme dit pas digitalt: offline vinder
 
-> iCloud, Google Photos og krypterede apps sammenlignet. Hvorfor en offline kopi på enheden generelt er sikrest, og hvilken afvejning hver cloud-løsning indebærer.
+> iCloud, Google Photos og krypterede apps sammenlignet. Hvorfor en offline kopi på enheden generelt er sikrest, og hvad hver cloud-løsning koster.
 
 Source: https://traveldocumentvault.com/da/blog/safest-way-to-store-passport-digitally/
 

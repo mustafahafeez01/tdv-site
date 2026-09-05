@@ -1,6 +1,6 @@
 # Permis de conduire international : sa durée de validité réelle
 
-> Un permis de conduire international suit son propre calendrier et peut expirer des années avant le permis qu'il accompagne. Comment les deux conventions diffèrent, et quelles dates surveiller.
+> Un permis de conduire international a son propre calendrier et peut expirer bien avant le permis qu'il accompagne. Quelles dates surveiller.
 
 Source: https://traveldocumentvault.com/fr/blog/international-driving-permit-validity/
 

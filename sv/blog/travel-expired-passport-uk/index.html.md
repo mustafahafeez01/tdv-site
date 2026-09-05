@@ -1,6 +1,6 @@
 # Utgånget pass i Storbritannien: kan du resa eller boka en semester?
 
-> Att boka en resa är inte samma sak som att gå ombord. Vad flygbolaget kontrollerar, när en förnyelse fortfarande hinner bli klar, och de begränsade inhemska undantagen i Storbritannien.
+> Att boka en resa är inte samma sak som att gå ombord. Vad flygbolaget kontrollerar, när en förnyelse hinner bli klar, och undantagen i Storbritannien.
 
 Source: https://traveldocumentvault.com/sv/blog/travel-expired-passport-uk/
 

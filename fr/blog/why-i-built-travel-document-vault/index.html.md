@@ -1,6 +1,6 @@
 # Pourquoi j'ai créé Travel Document Vault : pour le parent qui se souvient de tout
 
-> Pourquoi j'ai créé Travel Document Vault après avoir vérifié un passeport à 3h du matin avant un voyage en famille, et pourquoi tout est stocké sur votre propre appareil plutôt que sur un serveur.
+> Pourquoi j'ai créé Travel Document Vault après une vérification de passeport à 3h du matin, et pourquoi tout reste sur votre appareil.
 
 Source: https://traveldocumentvault.com/fr/blog/why-i-built-travel-document-vault/
 

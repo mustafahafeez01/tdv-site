@@ -1,6 +1,6 @@
 # Porque Criei o Travel Document Vault: Para o Pai que se Lembra de Tudo
 
-> Porque criei o Travel Document Vault depois de verificar um passaporte às 3 da manhã antes de uma viagem em família, e porque guarda tudo no seu próprio dispositivo em vez de num servidor.
+> Porque criei o Travel Document Vault depois de verificar um passaporte às 3 da manhã, e porque tudo fica no seu próprio dispositivo.
 
 Source: https://traveldocumentvault.com/pt/blog/why-i-built-travel-document-vault/
 

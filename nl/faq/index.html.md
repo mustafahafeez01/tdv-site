@@ -1,6 +1,6 @@
 # Veelgestelde vragen | Travel Document Vault
 
-> Een zorg minder. Antwoorden op vragen over Travel Document Vault, uw offline gezinspaspoortorganizer met slimme vervalherinnering. Geen accounts. Geen cloud. Geen abonnement.
+> Een zorg minder. Antwoorden over Travel Document Vault, uw offline organizer voor gezinsdocumenten. Geen accounts, geen cloud, geen abonnement.
 
 Source: https://traveldocumentvault.com/nl/faq/
 

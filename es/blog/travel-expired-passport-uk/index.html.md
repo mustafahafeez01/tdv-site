@@ -1,6 +1,6 @@
 # Pasaporte expirado en el Reino Unido: ¿puedes viajar o reservar unas vacaciones?
 
-> Reservar un viaje no es lo mismo que embarcar en él. Lo que comprueba la aerolínea, cuándo una renovación todavía te deja tiempo, y las estrechas excepciones nacionales en el Reino Unido.
+> Reservar no es lo mismo que embarcar. Qué comprueba la aerolínea, cuándo llegas a tiempo con la renovación y las excepciones dentro del Reino Unido.
 
 Source: https://traveldocumentvault.com/es/blog/travel-expired-passport-uk/
 

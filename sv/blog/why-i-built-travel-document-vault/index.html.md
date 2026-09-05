@@ -1,6 +1,6 @@
 # Varför jag byggde Travel Document Vault: För föräldern som håller koll på allt
 
-> Varför jag byggde Travel Document Vault efter en passkontroll klockan 3 på natten inför en familjeresa, och varför allt sparas på din egen enhet istället för en server.
+> Varför jag byggde Travel Document Vault efter en passkontroll klockan 3 på natten, och varför allt sparas på din egen enhet i stället för en server.
 
 Source: https://traveldocumentvault.com/sv/blog/why-i-built-travel-document-vault/
 

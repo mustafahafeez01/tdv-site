@@ -1,6 +1,6 @@
 # Versleutelde back-up in de cloud voor reisdocumenten: wie heeft de sleutel
 
-> Wat een versleutelde back-up echt betekent voor paspoortscans, waarom niemand een herstelcode kan resetten, en hoe je een kopie bewaart die je ook echt kunt terugzetten.
+> Wat een versleutelde back-up van je paspoortscans echt betekent, en waarom niemand je herstelcode kan resetten.
 
 Source: https://traveldocumentvault.com/nl/blog/encrypted-cloud-backup-travel-documents/
 

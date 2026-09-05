@@ -1,6 +1,6 @@
 # What is My Recovery Code? | Travel Document Vault
 
-> Your recovery code is the master key to your encrypted cloud backups. Learn what it is, why you need it, what happens if you lose it, and how to store it safely.
+> Your recovery code is the master key to your encrypted cloud backups. What it is, what happens if you lose it, and how to store it safely.
 
 Source: https://traveldocumentvault.com/faq/recovery-code/
 

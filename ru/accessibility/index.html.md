@@ -1,6 +1,6 @@
 # Функции доступности | Travel Document Vault
 
-> Travel Document Vault создано для каждого. Узнайте о наших функциях VoiceOver, Dynamic Type, Dark Mode и Reduce Motion в приложении, которое работает офлайн и хранит документы на вашем устройстве.
+> Создано для каждого: VoiceOver, Dynamic Type, тёмная тема и высокий контраст. Работает офлайн и хранит документы на вашем устройстве.
 
 Source: https://traveldocumentvault.com/ru/accessibility/
 

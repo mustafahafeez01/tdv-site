@@ -1,6 +1,6 @@
 # Aplikasi Paspor dan Dokumen Perjalanan Terbaik untuk Keluarga
 
-> Empat paspor, empat tanggal kedaluwarsa, satu aplikasi. Yang perlu Anda periksa sebelum memercayakan hasil pindaian keluarga, dan mengapa penyimpanan di perangkat penting.
+> Empat paspor, empat tanggal kedaluwarsa, satu aplikasi. Yang perlu diperiksa sebelum memercayakan hasil pindaian keluarga Anda.
 
 Source: https://traveldocumentvault.com/id/blog/best-passport-organizer-app/
 

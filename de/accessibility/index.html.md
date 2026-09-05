@@ -1,6 +1,6 @@
 # Barrierefreiheitsfunktionen | Travel Document Vault
 
-> Travel Document Vault ist für alle konzipiert. Unterstützung für VoiceOver, Dynamic Type, Dark Mode und Bewegung reduzieren, in einer App, die offline funktioniert und Ihre Dokumente auf Ihrem eigenen Gerät behält.
+> Für alle gemacht: VoiceOver, Dynamic Type, Dark Mode und Bewegung reduzieren, in einer App, die offline arbeitet und Dokumente auf dem Gerät behält.
 
 Source: https://traveldocumentvault.com/de/accessibility/
 

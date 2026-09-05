@@ -1,6 +1,6 @@
 # Verificación de privacidad | Travel Document Vault
 
-> Afirmaciones de privacidad verificables para Travel Document Vault. Cero rastreadores, cero recopilación de datos. En el dispositivo por defecto - sin TDV cloud, sin cuenta requerida. Ve cada permiso que solicitamos y por qué.
+> Privacidad verificable: cero rastreadores, cero recopilación de datos, todo en el dispositivo por defecto y sin cuenta. Cada permiso está explicado.
 
 Source: https://traveldocumentvault.com/es/privacy-verification/
 

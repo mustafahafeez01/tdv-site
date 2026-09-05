@@ -1,6 +1,6 @@
 # Wie lange ist ein Reisepass für das Reisen gültig? Gültigkeitsregeln erklärt
 
-> Die meisten Reisepässe für Erwachsene sind 10 Jahre gültig, doch Ihr Reisefenster ist oft kürzer. Lernen Sie, wie Reisepass-Gültigkeitsmonate funktionieren und wann Sie verlängern sollten.
+> Die meisten Erwachsenenpässe gelten 10 Jahre, doch Ihr Reisefenster ist kürzer. Wie Gültigkeitsmonate zählen und wann Sie verlängern.
 
 Source: https://traveldocumentvault.com/de/blog/how-long-is-passport-valid-for-travel/
 

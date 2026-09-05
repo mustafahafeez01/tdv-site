@@ -1,6 +1,6 @@
 # Comment lire son passeport : quelle date compte vraiment
 
-> La page d'identité de votre passeport comporte deux dates, et la plupart des gens citent la mauvaise. Ce que la date de délivrance, la date d'expiration et le pays émetteur contrôlent réellement.
+> Votre page d'identité porte deux dates et la plupart des gens citent la mauvaise. Ce que contrôlent la date de délivrance et la date d'expiration.
 
 Source: https://traveldocumentvault.com/fr/blog/how-to-read-your-passport-dates/
 

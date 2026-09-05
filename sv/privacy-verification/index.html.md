@@ -1,6 +1,6 @@
 # Integritetskontroll | Travel Document Vault
 
-> Verifierbara integritetsgarantier för Travel Document Vault. Noll spårare, noll datainsamling. På enheten som standard - ingen Travel Document Vault-moln, inget konto krävs. Se varje behörighet vi frågar efter och varför.
+> Verifierbar integritet: noll spårare, noll datainsamling, inget konto. Allt sparas på enheten. Se varje behörighet appen ber om och varför.
 
 Source: https://traveldocumentvault.com/sv/privacy-verification/
 

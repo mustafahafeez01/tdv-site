@@ -1,6 +1,6 @@
 # Aplikasi Pelacak Kedaluwarsa Visa: Yang Perlu Diperhatikan dan Mengapa Penting
 
-> Aplikasi pelacak kedaluwarsa visa dapat mencegah denda overstay. Fitur apa yang penting, bagaimana pelacakan visa berbeda dari pelacakan paspor, dan apa yang perlu diperiksa terlebih dahulu.
+> Aplikasi pelacak masa berlaku visa membantu mencegah denda overstay. Fitur apa yang penting dan apa yang perlu diperiksa lebih dulu.
 
 Source: https://traveldocumentvault.com/id/blog/visa-expiry-tracker-app/
 

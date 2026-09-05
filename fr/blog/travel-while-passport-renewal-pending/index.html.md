@@ -1,6 +1,6 @@
 # Pouvez-vous voyager pendant que votre passeport est renouvelé ?
 
-> Découvrez si vous pouvez voyager pendant que votre renouvellement de passeport est en cours. Les règles varient selon le pays et la méthode d'application. Voici ce que vous devez savoir.
+> Pouvez-vous voyager pendant que votre renouvellement de passeport est en cours ? Les règles varient selon le pays et le mode de demande.
 
 Source: https://traveldocumentvault.com/fr/blog/travel-while-passport-renewal-pending/
 

@@ -1,6 +1,6 @@
 # 6-månadersregeln för pass: kan du resa med mindre än 6 månader kvar?
 
-> Många länder nekar inresa om passet har mindre än 6 månader kvar. Se vilka länder som tillämpar 6-månadersregeln och hur du kontrollerar ditt pass innan du bokar.
+> Många länder nekar inresa om passet har mindre än 6 månader kvar. Vilka som tillämpar 6-månadersregeln och hur du kollar ditt pass före bokning.
 
 Source: https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/
 

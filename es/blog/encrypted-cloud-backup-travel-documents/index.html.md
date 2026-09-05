@@ -1,6 +1,6 @@
 # Copia de Seguridad Cifrada en la Nube para Documentos de Viaje: Quién Tiene la Clave
 
-> Qué significa realmente una copia de seguridad cifrada para tus escaneos de pasaporte, por qué nadie puede restablecer un código de recuperación y cómo conservar una copia que de verdad puedas restaurar.
+> Qué significa cifrar una copia de tus escaneos, por qué nadie puede restablecer un código de recuperación y cómo conservar una copia restaurable.
 
 Source: https://traveldocumentvault.com/es/blog/encrypted-cloud-backup-travel-documents/
 

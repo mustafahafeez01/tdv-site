@@ -1,6 +1,6 @@
 # Gestión de Pasaportes Familiares: Guarda Múltiples Pasaportes de Forma Segura
 
-> Cómo organizar y guardar de forma segura múltiples pasaportes familiares en un único lugar. Realiza un seguimiento de las fechas de vencimiento de cada miembro de la familia, con recordatorios antes de cada renovación.
+> Cómo reunir los pasaportes de toda la familia en un solo sitio, seguir la caducidad de cada uno y recibir avisos antes de cada renovación.
 
 Source: https://traveldocumentvault.com/es/blog/family-passport-management/
 

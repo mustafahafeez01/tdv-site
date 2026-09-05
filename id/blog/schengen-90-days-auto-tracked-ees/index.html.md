@@ -1,6 +1,6 @@
 # EES Melacak 90 Hari Schengen Anda tapi Tidak Menampilkan Hitungannya
 
-> EES mencatat setiap masuk dan keluar Schengen dan menandai kelebihan tinggal secara otomatis, tapi tidak ada portal yang menampilkan sisa hari Anda. Cara menghitung sendiri jendela 90/180 Anda.
+> EES mencatat setiap masuk dan keluar secara otomatis, tapi tak ada portal yang menampilkan sisa hari Anda. Cara menghitung jendela 90/180 sendiri.
 
 Source: https://traveldocumentvault.com/id/blog/schengen-90-days-auto-tracked-ees/
 

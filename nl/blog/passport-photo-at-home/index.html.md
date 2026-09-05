@@ -1,6 +1,6 @@
 # Regels voor een paspoortfoto: afmetingen, bril en hem thuis maken
 
-> De regels voor een paspoortfoto (pasfoto) die vaak over het hoofd worden gezien: afmetingen, bril, achtergrond en belichting - plus hoe je thuis met je telefoon een geldige foto maakt.
+> De pasfoto-regels die vaak worden gemist: afmetingen, bril, achtergrond en licht. Zo maak je thuis met je telefoon een geldige foto.
 
 Source: https://traveldocumentvault.com/nl/blog/passport-photo-at-home/
 

@@ -1,6 +1,6 @@
 # Salinan Digital Paspor: Apa yang Dianggap sebagai Identitas Sah Saat Bepergian?
 
-> Maskapai, hotel, kedutaan, dan petugas imigrasi memperlakukan salinan digital paspor secara berbeda. Berikut penjelasan pasti soal kapan salinan digital membantu, dan kapan Anda memerlukan dokumen fisik.
+> Kapan salinan digital paspor cukup dan kapan Anda butuh dokumen fisik: maskapai, hotel, kedutaan, dan petugas imigrasi.
 
 Source: https://traveldocumentvault.com/id/blog/digital-passport-copy-valid/
 

@@ -1,6 +1,6 @@
 # Durée de validité d'un passeport pour voyager - Règles expliquées
 
-> La plupart des passeports adultes sont valables 10 ans, mais votre fenêtre de voyage est souvent plus courte. Apprenez comment fonctionne la validité en mois et quand renouveler.
+> La plupart des passeports adultes durent 10 ans, mais votre fenêtre de voyage est plus courte. Comment compter en mois et quand renouveler.
 
 Source: https://traveldocumentvault.com/fr/blog/how-long-is-passport-valid-for-travel/
 

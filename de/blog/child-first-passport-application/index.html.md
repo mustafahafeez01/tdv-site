@@ -1,6 +1,6 @@
 # Den ersten Reisepass für Ihr Kind beantragen
 
-> Erster Reisepass für Ihr Kind: Zustimmungsregeln, erforderliche Dokumente, Tipps für das Babyfoto, was Sie bei Erhalt prüfen sollten. Schritt-für-Schritt-Leitfaden für Eltern.
+> Erster Reisepass fürs Kind: Zustimmungsregeln, nötige Unterlagen, Tipps fürs Babyfoto und was Sie bei Erhalt prüfen sollten.
 
 Source: https://traveldocumentvault.com/de/blog/child-first-passport-application/
 

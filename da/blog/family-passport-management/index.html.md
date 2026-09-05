@@ -1,6 +1,6 @@
 # Styring af familiens pas – opbevar flere pas sikkert
 
-> Sådan organiserer og opbevarer du flere familiemedlemmers pas på ét sikkert sted. Spor udløbsdatoer for alle familiemedlemmer og modtag påmindelser før fornyelse.
+> Sådan samler du hele familiens pas ét sikkert sted, følger udløbsdatoen for hver enkelt og får påmindelser før hver fornyelse.
 
 Source: https://traveldocumentvault.com/da/blog/family-passport-management/
 

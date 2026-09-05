@@ -1,6 +1,6 @@
 # Passeport Expiré ? Voici Exactement Quoi Faire (Étape par Étape)
 
-> Vous avez découvert que votre passeport est expiré ? Voici exactement quoi faire pour vous remettre sur les rails rapidement, et comment éviter les erreurs courantes de renouvellement.
+> Passeport expiré : quoi faire en premier, comment accélérer le renouvellement, et les erreurs courantes qui font perdre des semaines.
 
 Source: https://traveldocumentvault.com/fr/blog/passport-expired-what-to-do/
 

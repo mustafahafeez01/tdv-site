@@ -1,6 +1,6 @@
 # Perguntas Frequentes | Travel Document Vault
 
-> Uma preocupação a menos. Respostas sobre o Travel Document Vault, o organizador offline de passaportes de família com alertas inteligentes de validade. Sem contas. Sem nuvem. Sem subscrição.
+> Uma preocupação a menos. Respostas sobre o Travel Document Vault, o organizador offline de documentos de família. Sem contas nem subscrição.
 
 Source: https://traveldocumentvault.com/pt/faq/
 

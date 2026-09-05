@@ -1,6 +1,6 @@
 # Os Documentos de Viagem Que As Pessoas Esquecem (e Onde Guardar Cada Um)
 
-> Os documentos de viagem que a maioria das pessoas não dá importância e onde deve transportar versus guardar cada um. Cartas de consentimento esquecidas, comprovantes de vacinação e estratégias de cópia de segurança.
+> Os documentos de viagem que quase toda a gente esquece, o que levar consigo em vez de despachar, e que cópias ter de reserva.
 
 Source: https://traveldocumentvault.com/pt/blog/what-documents-to-carry-when-travelling-internationally/
 

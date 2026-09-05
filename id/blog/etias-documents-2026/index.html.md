@@ -1,6 +1,6 @@
 # ETIAS: Dokumen yang Anda Butuhkan dan Cara Mengajukan Permohonan
 
-> Pengunjung dari Inggris, AS, dan Kanada akan memerlukan ETIAS untuk bepergian ke Eropa. Paspor berlaku minimal 3 bulan, alamat email, bukti penghasilan opsional. Periksa situs resmi UE untuk biaya dan jadwal terkini.
+> Syarat ETIAS: paspor berlaku minimal 3 bulan, alamat email, dan kadang bukti penghasilan. Untuk Inggris, AS, dan Kanada.
 
 Source: https://traveldocumentvault.com/id/blog/etias-documents-2026/
 

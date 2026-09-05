@@ -1,6 +1,6 @@
 # Blog | Travel Document Vault
 
-> Guías prácticas sobre normas de pasaportes, plazos de renovación y cómo mantener tus documentos de viaje en orden, de parte del equipo detrás de Travel Document Vault.
+> Guías prácticas sobre normas de pasaportes, plazos de renovación y cómo mantener tus documentos de viaje en orden. Del equipo de Travel Document Vault.
 
 Source: https://traveldocumentvault.com/es/blog/
 

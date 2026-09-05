@@ -1,6 +1,6 @@
 # Documents d'assurance voyage : ce qu'il faut sauvegarder avant de partir
 
-> Découvrez quels documents d'assurance voyage préparer avant votre vol, où les stocker hors ligne, et comment éviter les erreurs de réclamation qui entraînent son rejet.
+> Quels documents d'assurance voyage préparer avant le vol, où les garder hors ligne, et les erreurs qui font rejeter une réclamation.
 
 Source: https://traveldocumentvault.com/fr/blog/travel-insurance-documents/
 

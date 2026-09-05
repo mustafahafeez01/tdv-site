@@ -1,6 +1,6 @@
 # Sådan læser du dit pas: hvilken dato der egentlig betyder noget
 
-> Pas-siden med dine oplysninger har to datoer, og de fleste oplyser den forkerte. Hvad udstedelsesdato, udløbsdato og udstedelsesland hver især faktisk styrer.
+> Datasiden i passet har to datoer, og de fleste oplyser den forkerte. Hvad udstedelsesdato, udløbsdato og udstedelsesland hver især styrer.
 
 Source: https://traveldocumentvault.com/da/blog/how-to-read-your-passport-dates/
 

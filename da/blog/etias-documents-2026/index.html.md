@@ -1,6 +1,6 @@
 # ETIAS: hvilke dokumenter du skal bruge, og hvordan du ansøger
 
-> Besøgende fra Storbritannien, USA og Canada kommer til at skulle bruge ETIAS for at rejse i Europa. Pas gyldigt mindst 3 måneder, e-mailadresse, valgfrit indkomstbevis. Tjek EU's officielle hjemmeside for det aktuelle gebyr og tidsplanen.
+> Besøgende fra Storbritannien, USA og Canada får brug for ETIAS i Europa. Pas gyldigt mindst 3 måneder, e-mailadresse og valgfrit indkomstbevis.
 
 Source: https://traveldocumentvault.com/da/blog/etias-documents-2026/
 

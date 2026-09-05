@@ -1,6 +1,6 @@
 # Sauvegardes expliquées : sauvegardes locales, Vault Export et sauvegarde cloud | Travel Document Vault
 
-> Une comparaison claire des trois façons dont Travel Document Vault protège vos données : sauvegardes locales automatiques, Vault Export (.tdvault) et sauvegarde cloud Pro optionnelle vers iCloud ou Google Drive.
+> Les trois façons dont Travel Document Vault protège vos données : sauvegardes locales, Vault Export (.tdvault) et sauvegarde cloud chiffrée en option.
 
 Source: https://traveldocumentvault.com/fr/faq/backup-explained/
 

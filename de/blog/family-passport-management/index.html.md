@@ -1,6 +1,6 @@
 # Familienpassverwaltung: Mehrere Reisepässe sicher speichern
 
-> So organisieren und speichern Sie mehrere Familienpässe an einem sicheren Ort. Verfolgen Sie die Ablaufdaten aller Familienmitglieder mit Erinnerungen vor jeder Erneuerung.
+> Alle Familienpässe an einem sicheren Ort, die Ablaufdaten jedes Mitglieds im Blick, und eine Erinnerung vor jeder Erneuerung.
 
 Source: https://traveldocumentvault.com/de/blog/family-passport-management/
 

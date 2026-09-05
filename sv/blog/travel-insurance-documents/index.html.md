@@ -1,6 +1,6 @@
 # Försäkringsdokument för resor: Vad du ska spara före avresa
 
-> Läs om vilka försäkringsdokument du ska spara före avresa, var du lagrar dem offline och hur du undviker vanliga skaderegleringsmisstag som gör att ersättningen nekas.
+> Vilka försäkringsdokument du bör spara före avresa, var du lagrar dem offline, och vanliga misstag som gör att ersättningen nekas.
 
 Source: https://traveldocumentvault.com/sv/blog/travel-insurance-documents/
 

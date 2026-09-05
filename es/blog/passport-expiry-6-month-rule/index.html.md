@@ -1,6 +1,6 @@
 # La Regla de los 6 Meses del Pasaporte: ¿Puedes Viajar con Menos de 6 Meses de Validez?
 
-> Muchos países deniegan la entrada si tu pasaporte tiene menos de 6 meses de validez. Descubre quién aplica la regla de los 6 meses y cómo comprobar el tuyo antes de reservar.
+> Muchos países deniegan la entrada con menos de 6 meses de validez. Quién aplica la regla de los 6 meses y cómo comprobar tu pasaporte antes de reservar.
 
 Source: https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/
 

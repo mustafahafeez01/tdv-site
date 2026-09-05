@@ -1,6 +1,6 @@
 # Solicitar el primer pasaporte de tu hijo
 
-> Primer pasaporte para tu hijo: normas de consentimiento, documentos necesarios, consejos para la foto de bebé, qué revisar al recibirlo. Guía paso a paso para padres.
+> Primer pasaporte de tu hijo: normas de consentimiento, documentos necesarios, la foto de bebé y qué revisar al recibirlo. Paso a paso.
 
 Source: https://traveldocumentvault.com/es/blog/child-first-passport-application/
 

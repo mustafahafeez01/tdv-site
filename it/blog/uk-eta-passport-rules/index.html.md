@@ -1,6 +1,6 @@
 # ETA del Regno Unito: a quale passaporto è legata la tua?
 
-> La tua ETA del Regno Unito è legata al passaporto specifico con cui hai fatto domanda. Se rinnovi quel passaporto, dovrai richiederne una nuova. Ecco perché.
+> La tua ETA britannica è legata al passaporto con cui hai fatto domanda. Se rinnovi quel passaporto, devi richiederne una nuova. Ecco perché.
 
 Source: https://traveldocumentvault.com/it/blog/uk-eta-passport-rules/
 

@@ -1,6 +1,6 @@
 # Mengurus Paspor Pertama Anak Anda
 
-> Paspor pertama untuk anak Anda: aturan persetujuan, dokumen yang diperlukan, tips foto bayi, dan yang perlu diperiksa saat paspor tiba. Panduan langkah demi langkah untuk orang tua.
+> Paspor pertama anak Anda: aturan persetujuan, dokumen yang diperlukan, tips foto bayi, dan yang perlu diperiksa saat paspor tiba.
 
 Source: https://traveldocumentvault.com/id/blog/child-first-passport-application/
 

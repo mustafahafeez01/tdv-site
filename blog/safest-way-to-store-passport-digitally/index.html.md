@@ -1,6 +1,6 @@
 # Safest Way to Store Your Passport Digitally: Offline Wins
 
-> iCloud, Google Photos and encrypted vault apps compared. Why an offline, on-device copy is generally the safest, and the trade-off each cloud option carries.
+> iCloud, Google Photos and encrypted vault apps compared. Why an offline, on-device copy is generally safest, and the trade-off each cloud option carries.
 
 Source: https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/
 

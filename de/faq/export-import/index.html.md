@@ -1,6 +1,6 @@
 # So exportieren und importieren Sie Ihren Tresor | Travel Document Vault
 
-> Schritt-für-Schritt-Anleitung zum Exportieren Ihres gesamten Tresors als verschlüsselte Datei und zum Importieren auf einem neuen Gerät. Bewahren Sie Ihre Daten und stellen Sie die Portabilität sicher.
+> Schritt für Schritt: den gesamten Tresor als verschlüsselte Datei exportieren und auf einem neuen Gerät importieren. Ihre Daten bleiben portabel.
 
 Source: https://traveldocumentvault.com/de/faq/export-import/
 

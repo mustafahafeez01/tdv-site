@@ -1,6 +1,6 @@
 # Paspor Kedaluwarsa? Ini yang Harus Anda Lakukan, Langkah demi Langkah
 
-> Baru sadar paspor Anda sudah kedaluwarsa? Ini yang harus Anda lakukan, langkah demi langkah. Hindari hal ini lain kali dengan pengingat kedaluwarsa cerdas dari brankas kami yang bekerja luring dan menyimpan data di perangkat Anda sendiri.
+> Paspor kedaluwarsa: langkah pertama yang harus diambil, cara mempercepat perpanjangan, dan kesalahan umum yang memakan waktu berminggu-minggu.
 
 Source: https://traveldocumentvault.com/id/blog/passport-expired-what-to-do/
 

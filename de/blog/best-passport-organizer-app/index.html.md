@@ -1,6 +1,6 @@
 # Beste App für Pässe und Reisedokumente der ganzen Familie
 
-> Vier Pässe, vier Ablaufdaten, eine App. Worauf Sie achten sollten, bevor Sie ihr die Scans Ihrer Familie anvertrauen, und warum Speicherung auf dem Gerät zählt.
+> Vier Pässe, vier Ablaufdaten, eine App. Worauf Sie achten sollten, bevor Sie ihr die Scans Ihrer Familie anvertrauen.
 
 Source: https://traveldocumentvault.com/de/blog/best-passport-organizer-app/
 

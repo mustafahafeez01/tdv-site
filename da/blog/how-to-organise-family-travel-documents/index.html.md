@@ -1,6 +1,6 @@
 # Sådan organiserer du familiens rejsedokumenter (før næste tur)
 
-> Lær hvordan du organiserer rejsedokumenter for hele familien - hvad I skal gemme, hvordan I opbevarer det, og hvordan I sikrer, at intet udløber uden varsel.
+> Sådan organiserer I rejsedokumenter for hele familien – hvad I gemmer, hvordan I opbevarer det, og hvordan intet udløber uden varsel.
 
 Source: https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-documents/
 

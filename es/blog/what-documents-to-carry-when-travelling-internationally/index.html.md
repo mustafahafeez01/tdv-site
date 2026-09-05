@@ -1,6 +1,6 @@
 # Los Documentos de Viaje Que Olvidas (y Dónde Guardar Cada Uno)
 
-> Los documentos de viaje que muchas personas pasan por alto y dónde llevarlos versus guardarlos. Cartas de consentimiento olvidadas, pruebas de vacunación y estrategias de respaldo.
+> Los documentos de viaje que más se pasan por alto, y cuáles llevar encima frente a cuáles guardar. Cartas de consentimiento, vacunas y copias.
 
 Source: https://traveldocumentvault.com/es/blog/what-documents-to-carry-when-travelling-internationally/
 

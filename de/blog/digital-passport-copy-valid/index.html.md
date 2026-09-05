@@ -1,6 +1,6 @@
 # Digitale Reisepasskopie: Was gilt als gültiger Ausweis auf Reisen?
 
-> Fluggesellschaften, Hotels, Botschaften und Grenzbeamte behandeln digitale Reisepasskopien unterschiedlich. Hier erfahren Sie genau, wo eine digitale Kopie hilft und wo Sie das Originaldokument benötigen.
+> Wo eine digitale Reisepasskopie ausreicht und wo Sie das Original brauchen: Fluggesellschaften, Hotels, Botschaften und Grenzkontrollen.
 
 Source: https://traveldocumentvault.com/de/blog/digital-passport-copy-valid/
 

@@ -1,6 +1,6 @@
 # Reisedokumente, die Menschen übersehen – und wo Sie diese aufbewahren
 
-> Die Reisedokumente, die die meisten Menschen übersehen, und wo Sie diese mitnehmen oder lagern sollten. Vergesst Zustimmungsschreiben, Impfnachweise und Backup-Strategien.
+> Die Reisedokumente, die die meisten übersehen, und was Sie am Körper tragen statt einlagern sollten. Plus Kopien für den Notfall.
 
 Source: https://traveldocumentvault.com/de/blog/what-documents-to-carry-when-travelling-internationally/
 

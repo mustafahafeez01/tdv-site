@@ -1,6 +1,6 @@
 # ETIAS : Quels documents vous devez avoir et comment demander
 
-> Les visiteurs du Royaume-Uni, des États-Unis et du Canada auront besoin d'une ETIAS pour voyager en Europe. Passeport valide 3+ mois, e-mail, justificatif de revenus optionnel. Consultez le site officiel de l'UE pour les frais et délais actuels.
+> Ce qu'il faut pour une ETIAS : passeport valide au moins 3 mois, adresse e-mail et, parfois, un justificatif de revenus. Voyageurs UK, US et Canada.
 
 Source: https://traveldocumentvault.com/fr/blog/etias-documents-2026/
 

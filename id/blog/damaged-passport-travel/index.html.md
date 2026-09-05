@@ -1,6 +1,6 @@
 # Bisakah Anda Bepergian dengan Paspor yang Rusak? Aturan dan Cara Mengatasinya
 
-> Aturan tentang paspor rusak berbeda-beda menurut negara dan maskapai. Pelajari apa saja yang dianggap kerusakan, langkah yang harus diambil jika ditemukan sebelum atau saat di bandara, dan perkiraan waktu penggantian darurat.
+> Apa yang dianggap kerusakan paspor, langkah sebelum atau di bandara, dan perkiraan waktu penggantian darurat. Aturannya berbeda-beda.
 
 Source: https://traveldocumentvault.com/id/blog/damaged-passport-travel/
 

@@ -1,6 +1,6 @@
 # Posso Viajar Enquanto o Meu Passaporte Está Sendo Renovado?
 
-> Descubra se pode viajar enquanto a renovação do seu passaporte está pendente. As regras variam de acordo com o país e o método utilizado. Eis o que precisa de saber.
+> Pode viajar enquanto a renovação do passaporte está pendente? As regras variam consoante o país e o método utilizado.
 
 Source: https://traveldocumentvault.com/pt/blog/travel-while-passport-renewal-pending/
 

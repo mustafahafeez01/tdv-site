@@ -1,6 +1,6 @@
 # Copia Digitale del Passaporto: Quali Documenti Valgono come ID Valido in Viaggio?
 
-> Compagnie aeree, hotel, ambasciate e funzionari di frontiera trattano le copie digitali del passaporto in modo diverso. Ecco esattamente dove una copia digitale è utile e dove Le serve l'originale.
+> Dove basta una copia digitale del passaporto e dove serve l'originale: compagnie aeree, hotel, ambasciate e controlli di frontiera.
 
 Source: https://traveldocumentvault.com/it/blog/digital-passport-copy-valid/
 

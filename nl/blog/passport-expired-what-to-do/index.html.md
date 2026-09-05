@@ -1,6 +1,6 @@
 # Paspoort verlopen? Dit moet je precies doen, stap voor stap
 
-> Ontdekt dat uw paspoort is verlopen? Dit is precies wat u moet doen om snel weer op koers te komen, en hoe u de meest voorkomende fouten bij verlenging vermijdt.
+> Paspoort verlopen: wat je eerst doet, hoe je de verlenging versnelt en de fouten die weken kosten.
 
 Source: https://traveldocumentvault.com/nl/blog/passport-expired-what-to-do/
 

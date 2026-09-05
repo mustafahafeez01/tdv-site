@@ -1,6 +1,6 @@
 # Reizen met een Kind Zonder Beide Ouders: Wat Je Moet Meenemen
 
-> Eenhoofdig gezag, reizen met grootouders, verschillende achternamen - elke situatie verandert welke papieren je kind nodig heeft. Waar de incheckbalie en de grensbeambte elk naar kijken.
+> Eenhoofdig gezag, reizen met grootouders, andere achternaam: waar de incheckbalie en de grensbeambte elk naar kijken.
 
 Source: https://traveldocumentvault.com/nl/blog/travelling-child-without-both-parents/
 

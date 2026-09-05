@@ -1,6 +1,6 @@
 # Beheer van familiepaspoorten: Bewaar meerdere paspoorten veilig
 
-> Hoe je familiepaspoorten ordent en veilig op één plaats bewaart. Volg de vervaldatums van elk gezinslid en ontvang meldingen voordat ze vernieuwd moeten worden.
+> Alle gezinspaspoorten op één veilige plek, de vervaldatum van elk gezinslid in beeld en een melding vóór elke verlenging.
 
 Source: https://traveldocumentvault.com/nl/blog/family-passport-management/
 

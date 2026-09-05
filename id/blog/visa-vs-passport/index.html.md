@@ -1,6 +1,6 @@
 # Apakah Visa Sama dengan Paspor? Ini Bedanya
 
-> Tidak, dan memiliki salah satunya tidak pernah bisa dianggap sebagai yang lain. Paspor membuktikan siapa Anda; visa adalah izin masuk dari suatu negara. Mengapa sebagian besar perjalanan membutuhkan keduanya, dan cara memastikannya.
+> Tidak, dan satu tidak pernah menggantikan yang lain. Paspor membuktikan siapa Anda, visa adalah izin masuk. Mengapa keduanya hampir selalu perlu.
 
 Source: https://traveldocumentvault.com/id/blog/visa-vs-passport/
 

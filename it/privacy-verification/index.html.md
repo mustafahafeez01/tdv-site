@@ -1,6 +1,6 @@
 # Verifica della privacy | Travel Document Vault
 
-> Affermazioni sulla privacy verificabili per Travel Document Vault. Zero tracker, zero raccolta di dati. Sul dispositivo per impostazione predefinita - nessun cloud TDV, nessun account richiesto. Vedi ogni autorizzazione che richiediamo e perché.
+> Privacy verificabile: zero tracker, zero raccolta dati, nessun account. Tutto resta sul dispositivo. Guarda ogni autorizzazione richiesta e perché.
 
 Source: https://traveldocumentvault.com/it/privacy-verification/
 

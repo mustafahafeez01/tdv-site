@@ -1,6 +1,6 @@
 # Digital paskopi: hvad gælder som gyldig legitimation på rejsen?
 
-> Flyselskaber, hoteller, ambassader og grænsevagter behandler digitale paskopier forskelligt. Her er præcis, hvor en digital kopi hjælper - og hvor du skal have originaldokumentet.
+> Flyselskaber, hoteller, ambassader og grænsevagter behandler digitale paskopier forskelligt. Hvor en kopi rækker – og hvor du skal have originalen.
 
 Source: https://traveldocumentvault.com/da/blog/digital-passport-copy-valid/
 

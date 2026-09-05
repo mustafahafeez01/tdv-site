@@ -1,6 +1,6 @@
 # ETA do Reino Unido: a que passaporte está ligada a sua?
 
-> A sua ETA do Reino Unido está ligada ao passaporte específico com que se candidatou. Se renovar esse passaporte, vai precisar de uma nova ETA. Percebe porquê.
+> A sua ETA do Reino Unido está ligada ao passaporte com que se candidatou. Se renovar esse passaporte, precisa de uma nova. Eis porquê.
 
 Source: https://traveldocumentvault.com/pt/blog/uk-eta-passport-rules/
 

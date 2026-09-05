@@ -1,6 +1,6 @@
 # Verlopen paspoort VK: kun je reizen of een vakantie boeken?
 
-> Een reis boeken is niet hetzelfde als aan boord gaan. Wat de luchtvaartmaatschappij controleert, wanneer een verlenging nog op tijd is, en de beperkte binnenlandse uitzonderingen in het VK.
+> Een reis boeken is niet aan boord gaan. Wat de luchtvaartmaatschappij controleert, wanneer een verlenging nog op tijd is, en de uitzonderingen.
 
 Source: https://traveldocumentvault.com/nl/blog/travel-expired-passport-uk/
 

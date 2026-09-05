@@ -1,6 +1,6 @@
 # Reisplanner voor gezinnen | Travel Document Vault
 
-> Plan familieuitstapjes met zekerheid. Bereïdheidslampje. Paklijsten. Volg dagenlimieten per land per periode met uitsplitsing per lid. Weet u het op voorhand. Volledig offline.
+> Plan gezinsreizen met zekerheid: stoplicht voor reisgereedheid, paklijsten en dagenteller per land, per gezinslid. Volledig offline.
 
 Source: https://traveldocumentvault.com/nl/trip-planner/
 

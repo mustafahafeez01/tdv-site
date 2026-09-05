@@ -1,6 +1,6 @@
 # Dokumen Perjalanan yang Sering Dilupakan Orang (dan Tempat Menyimpan Masing-Masing)
 
-> Dokumen perjalanan yang paling sering diabaikan orang, dan mana yang perlu dibawa versus disimpan. Surat izin yang terlupakan, bukti vaksinasi, dan strategi cadangan.
+> Dokumen perjalanan yang paling sering terlupakan, mana yang dibawa dan mana yang disimpan, serta salinan cadangan yang perlu disiapkan.
 
 Source: https://traveldocumentvault.com/id/blog/what-documents-to-carry-when-travelling-internationally/
 

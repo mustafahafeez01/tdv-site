@@ -1,6 +1,6 @@
 # Dokumen Asuransi Perjalanan: Apa yang Harus Disimpan Sebelum Anda Pergi
 
-> Pelajari dokumen asuransi apa yang harus disimpan sebelum bepergian, di mana menyimpannya offline, dan cara menghindari kesalahan klaim umum yang membuatnya ditolak.
+> Dokumen asuransi apa yang perlu disiapkan sebelum berangkat, di mana menyimpannya offline, dan kesalahan yang membuat klaim ditolak.
 
 Source: https://traveldocumentvault.com/id/blog/travel-insurance-documents/
 

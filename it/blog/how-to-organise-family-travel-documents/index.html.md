@@ -1,6 +1,6 @@
 # Come organizzare i documenti di viaggio in famiglia (prima del prossimo viaggio)
 
-> Come organizzare i documenti di viaggio per tutta la famiglia: cosa conservare, dove conservarlo e come evitare che una data di scadenza dimenticata rovini un viaggio.
+> Cosa conservare, dove conservarlo e come evitare che una data di scadenza dimenticata rovini il viaggio di tutta la famiglia.
 
 Source: https://traveldocumentvault.com/it/blog/how-to-organise-family-travel-documents/
 

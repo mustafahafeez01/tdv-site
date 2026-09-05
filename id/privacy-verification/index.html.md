@@ -1,6 +1,6 @@
 # Verifikasi Privasi | Travel Document Vault
 
-> Klaim privasi yang dapat diverifikasi untuk Travel Document Vault. Tanpa pelacak, tanpa pengumpulan data. Disimpan di perangkat secara bawaan - tidak ada cloud TDV, tidak memerlukan akun. Lihat setiap izin yang kami minta dan alasannya.
+> Klaim privasi yang dapat diverifikasi: tanpa pelacak, tanpa pengumpulan data, tersimpan di perangkat, tanpa akun. Setiap izin dijelaskan.
 
 Source: https://traveldocumentvault.com/id/privacy-verification/
 

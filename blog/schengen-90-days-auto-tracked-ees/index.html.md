@@ -1,6 +1,6 @@
 # EES Tracks Your Schengen 90 Days but Won't Show the Count
 
-> EES logs every Schengen entry and exit and flags overstays automatically, but no portal shows your remaining days. How to count your 90/180 window yourself.
+> EES logs every Schengen entry and exit and flags overstays, but no portal shows your remaining days. How to count your 90/180 window yourself.
 
 Source: https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/
 

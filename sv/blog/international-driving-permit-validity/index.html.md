@@ -1,6 +1,6 @@
 # Internationellt körkort: Hur länge det egentligen gäller
 
-> Ett internationellt körkort har sin egen giltighetstid och kan gå ut år innan körkortet det hör ihop med. Så skiljer sig konventionstyperna åt, och vilka datum du bör hålla koll på.
+> Ett internationellt körkort har egen giltighetstid och kan gå ut år före körkortet det hör ihop med. Så skiljer sig konventionerna åt.
 
 Source: https://traveldocumentvault.com/sv/blog/international-driving-permit-validity/
 

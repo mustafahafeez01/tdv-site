@@ -1,6 +1,6 @@
 # Mengapa Saya Membangun Travel Document Vault: Untuk Orang Tua yang Selalu Ingat Segalanya
 
-> Saya membangun Travel Document Vault untuk menggantikan aplikasi yang tersebar. Vault khusus yang bekerja offline dan menyimpan semua dokumen Anda di perangkat Anda sendiri, bukan di server, tanpa langganan.
+> Mengapa saya membangun Travel Document Vault setelah memeriksa paspor pukul 3 pagi, dan mengapa semuanya tetap di perangkat Anda sendiri.
 
 Source: https://traveldocumentvault.com/id/blog/why-i-built-travel-document-vault/
 

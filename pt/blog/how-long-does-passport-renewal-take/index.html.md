@@ -1,6 +1,6 @@
 # Quanto Tempo Demora a Renovação de Passaporte? (EUA, UK, Austrália, Canadá)
 
-> Quanto tempo demora a renovação de passaporte? Tempos de processamento para EUA, UK, AU e CA. Organize-se com lembretes de validade inteligentes no nosso cofre encriptado offline.
+> Os prazos de renovação do passaporte nos EUA, Reino Unido, Austrália e Canadá, e quando deve entregar o pedido.
 
 Source: https://traveldocumentvault.com/pt/blog/how-long-does-passport-renewal-take/
 

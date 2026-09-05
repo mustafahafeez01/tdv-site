@@ -1,6 +1,6 @@
 # Waarom ik Travel Document Vault heb gebouwd: Voor de ouder die alles onthoudt
 
-> Waarom ik Travel Document Vault bouwde na een paspoortcontrole om 3 uur 's nachts voor een gezinsreis, en waarom alles op uw eigen apparaat wordt bewaard in plaats van op een server.
+> Waarom ik Travel Document Vault bouwde na een paspoortcontrole om 3 uur 's nachts, en waarom alles op je eigen toestel blijft.
 
 Source: https://traveldocumentvault.com/nl/blog/why-i-built-travel-document-vault/
 

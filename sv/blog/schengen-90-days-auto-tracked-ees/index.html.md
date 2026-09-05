@@ -1,6 +1,6 @@
 # EES räknar dina 90 Schengendagar - men visar inte antalet
 
-> EES loggar varje Schengen-inresa och utresa och flaggar överstigningar automatiskt, men ingen portal visar dina kvarvarande dagar. Så räknar du ditt eget 90/180-fönster.
+> EES loggar varje in- och utresa automatiskt, men ingen portal visar dina kvarvarande dagar. Så räknar du ditt eget 90/180-fönster.
 
 Source: https://traveldocumentvault.com/sv/blog/schengen-90-days-auto-tracked-ees/
 

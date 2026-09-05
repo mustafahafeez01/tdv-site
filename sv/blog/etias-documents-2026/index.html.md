@@ -1,6 +1,6 @@
 # ETIAS: vilka handlingar du behöver och hur du ansöker
 
-> Besökare från Storbritannien, USA och Kanada kommer att behöva ETIAS för resor i Europa. Pass giltigt minst 3 månader, e-postadress, valfritt inkomstbevis. Kontrollera EU:s officiella webbplats för aktuell avgift och tidplan.
+> Besökare från Storbritannien, USA och Kanada behöver ETIAS för resor i Europa. Pass giltigt minst 3 månader, e-postadress och valfritt inkomstbevis.
 
 Source: https://traveldocumentvault.com/sv/blog/etias-documents-2026/
 

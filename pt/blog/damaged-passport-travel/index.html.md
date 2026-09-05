@@ -1,6 +1,6 @@
 # Pode Viajar com um Passaporte Danificado? Regras e O Que Fazer
 
-> As regras sobre danos em passaportes variam consoante o país e a companhia aérea. Saiba o que conta como dano, o que fazer se o detetar antes ou já no aeroporto, e os prazos de substituição de emergência.
+> O que conta como dano no passaporte, o que fazer antes ou no aeroporto, e os prazos de substituição urgente. As regras variam.
 
 Source: https://traveldocumentvault.com/pt/blog/damaged-passport-travel/
 

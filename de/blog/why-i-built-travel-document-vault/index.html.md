@@ -1,6 +1,6 @@
 # Warum ich Travel Document Vault entwickelt habe: Für Eltern, die an alles denken
 
-> Warum ich Travel Document Vault entwickelt habe, nachdem ich um 3 Uhr morgens vor einer Familienreise einen Reisepass kontrolliert hatte, und warum alles auf Ihrem eigenen Gerät gespeichert wird statt auf einem Server.
+> Warum ich Travel Document Vault nach einer Passkontrolle um 3 Uhr morgens entwickelt habe, und warum alles auf Ihrem eigenen Gerät bleibt.
 
 Source: https://traveldocumentvault.com/de/blog/why-i-built-travel-document-vault/
 

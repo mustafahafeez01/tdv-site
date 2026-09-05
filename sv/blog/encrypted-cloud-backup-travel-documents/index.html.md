@@ -1,6 +1,6 @@
 # Krypterad molnsäkerhetskopiering för resehandlingar: Vem som har nyckeln
 
-> Vad krypterad säkerhetskopiering egentligen innebär för skannade pass, varför en återställningskod aldrig kan återställas av någon och hur du sparar en kopia du faktiskt kan återställa.
+> Vad krypterad säkerhetskopiering innebär för skannade pass, varför ingen kan återställa din återställningskod, och hur du sparar en kopia som fungerar.
 
 Source: https://traveldocumentvault.com/sv/blog/encrypted-cloud-backup-travel-documents/
 

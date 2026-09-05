@@ -1,6 +1,6 @@
 # Is een visum hetzelfde als een paspoort? Het verschil uitgelegd
 
-> Nee, en het hebben van de een telt nooit als de ander. Een paspoort bewijst wie je bent; een visum is toestemming van een land om binnen te komen. Waarom de meeste reizen beide vereisen, en hoe je dat controleert.
+> Nee, het een telt nooit als het ander. Een paspoort bewijst wie je bent, een visum geeft toegang. Waarom de meeste reizen beide vereisen.
 
 Source: https://traveldocumentvault.com/nl/blog/visa-vs-passport/
 

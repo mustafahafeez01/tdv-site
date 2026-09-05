@@ -1,6 +1,6 @@
 # Funzionalità di accessibilità | Travel Document Vault
 
-> Travel Document Vault è pensato per tutti. Supporto per VoiceOver, Testo grande, Modalità scura e Riduci movimento, in un'app che funziona offline e conserva i tuoi documenti sul tuo dispositivo.
+> Pensata per tutti: VoiceOver, testo grande, modalità scura e contrasto elevato. Funziona offline e i documenti restano sul tuo dispositivo.
 
 Source: https://traveldocumentvault.com/it/accessibility/
 

@@ -1,6 +1,6 @@
 # Passaporto scaduto? Ecco esattamente cosa fare (Guida passo dopo passo)
 
-> Ha scoperto che il Suo passaporto è scaduto? Ecco esattamente cosa fare per rimettersi in regola in fretta, e come evitare gli errori più comuni nel rinnovo.
+> Passaporto scaduto: cosa fare per primo, come accelerare il rinnovo e gli errori più comuni che fanno perdere settimane.
 
 Source: https://traveldocumentvault.com/it/blog/passport-expired-what-to-do/
 

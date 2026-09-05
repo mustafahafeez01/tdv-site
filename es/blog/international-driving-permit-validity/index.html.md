@@ -1,6 +1,6 @@
 # Permiso Internacional de Conducir: Cuánto Dura Realmente
 
-> El permiso internacional de conducir tiene su propio calendario y puede caducar años antes que el carné al que acompaña. Cómo difieren los dos tipos de tratado y qué fechas vigilar.
+> El permiso internacional de conducir caduca por su cuenta, a veces años antes que el carné al que acompaña. Los dos convenios y qué fechas vigilar.
 
 Source: https://traveldocumentvault.com/es/blog/international-driving-permit-validity/
 

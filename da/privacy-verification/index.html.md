@@ -1,6 +1,6 @@
 # Privatlivsbekræftelse | Travel Document Vault
 
-> Verificerbare privatlivsgarantier for Travel Document Vault. Nul sporere, nul dataindsamling. På enheden som standard - ingen Travel Document Vault-sky, ingen konto påkrævet. Se hver tilladelse vi anmoder om, og hvorfor.
+> Verificerbart privatliv: nul sporere, nul dataindsamling, ingen konto. Alt gemmes på enheden. Se hver tilladelse appen beder om, og hvorfor.
 
 Source: https://traveldocumentvault.com/da/privacy-verification/
 

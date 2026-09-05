@@ -1,6 +1,6 @@
 # Funcionalidades de Acessibilidade | Travel Document Vault
 
-> Travel Document Vault foi criada para todos. Suporte para VoiceOver, Tipo Dinâmico, Modo Escuro e Reduzir Movimento, numa aplicação que funciona offline e mantém os seus documentos no seu próprio dispositivo.
+> Criada para todos: VoiceOver, Tipo Dinâmico, Modo Escuro e Reduzir Movimento, numa aplicação offline que mantém os documentos no seu dispositivo.
 
 Source: https://traveldocumentvault.com/pt/accessibility/
 

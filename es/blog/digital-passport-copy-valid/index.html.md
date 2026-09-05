@@ -1,6 +1,6 @@
 # Copia Digital del Pasaporte: ¿Cuándo Cuenta como Identificación Válida al Viajar?
 
-> Las aerolíneas, hoteles, embajadas y agentes fronterizos tratan las copias digitales del pasaporte de forma muy diferente. Descubre dónde una copia digital te ayuda y dónde necesitas el documento original.
+> Aerolíneas, hoteles, embajadas y policía de fronteras tratan las copias digitales de forma distinta. Dónde sirve una copia y dónde necesitas el original.
 
 Source: https://traveldocumentvault.com/es/blog/digital-passport-copy-valid/
 

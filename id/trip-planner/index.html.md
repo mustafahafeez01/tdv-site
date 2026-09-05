@@ -1,6 +1,6 @@
 # Perencana Perjalanan untuk Keluarga | Travel Document Vault
 
-> Rencanakan perjalanan keluarga dengan percaya diri. Lampu lalu lintas kesiapan. Daftar kemasan. Lacak batas hari negara per periode dengan rincian per anggota. Tahu sebelum Anda pergi. Semuanya offline.
+> Rencanakan perjalanan keluarga: lampu kesiapan, daftar bawaan, dan pelacak batas hari per negara untuk tiap anggota. Sepenuhnya offline.
 
 Source: https://traveldocumentvault.com/id/trip-planner/
 

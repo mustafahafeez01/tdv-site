@@ -1,6 +1,6 @@
 # Aturan Paspor Schengen untuk Perjalanan Keluarga: Kesalahan yang Sering Dilakukan Orang Tua
 
-> Schengen membutuhkan masa berlaku 3 bulan setelah keberangkatan, bukan 6 - dan paspor anak berlaku hanya 5 tahun. Ini yang harus diperiksa keluarga pada hari mereka memesan.
+> Schengen butuh masa berlaku 3 bulan setelah keberangkatan, bukan 6, dan paspor anak hanya 5 tahun. Yang perlu keluarga periksa saat memesan.
 
 Source: https://traveldocumentvault.com/id/blog/schengen-passport-rules-family-trips/
 

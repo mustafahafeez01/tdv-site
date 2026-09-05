@@ -1,6 +1,6 @@
 # Tilgængelighedsfunktioner | Travel Document Vault
 
-> Travel Document Vault er bygget til alle. Lær om vores VoiceOver, Dynamic Type, Dark Mode og Reduce Motion funktioner i en app, der virker offline og holder dine dokumenter på din egen enhed.
+> Bygget til alle. Fuld understøttelse af VoiceOver, Dynamic Type, Dark Mode og høj kontrast. Virker offline og gemmer dokumenterne på din egen enhed.
 
 Source: https://traveldocumentvault.com/da/accessibility/
 

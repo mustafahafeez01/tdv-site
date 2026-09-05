@@ -1,6 +1,6 @@
 # Cara paling aman menyimpan paspor digital: offline menang
 
-> Perbandingan iCloud, Google Photos, dan aplikasi terenkripsi. Mengapa salinan offline di perangkat umumnya paling aman, dan kompromi yang dibawa setiap opsi cloud.
+> Perbandingan iCloud, Google Photos, dan aplikasi terenkripsi. Mengapa salinan offline di perangkat umumnya paling aman.
 
 Source: https://traveldocumentvault.com/id/blog/safest-way-to-store-passport-digitally/
 

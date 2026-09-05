@@ -1,6 +1,6 @@
 # Visto e Passaporto Sono la Stessa Cosa? La Differenza Spiegata
 
-> No, e possedere l'uno non equivale mai a possedere l'altro. Il passaporto dimostra chi sei; il visto è il permesso di un Paese per entrare. Perché la maggior parte dei viaggi richiede entrambi, e come verificarlo.
+> No, e uno non sostituisce mai l'altro. Il passaporto dimostra chi sei, il visto è il permesso di entrare. Perché servono quasi sempre entrambi.
 
 Source: https://traveldocumentvault.com/it/blog/visa-vs-passport/
 

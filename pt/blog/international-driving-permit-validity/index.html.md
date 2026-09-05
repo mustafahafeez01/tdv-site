@@ -1,6 +1,6 @@
 # Carta de Condução Internacional: Quanto Tempo Dura Realmente
 
-> Uma Carta de Condução Internacional tem o seu próprio prazo de validade e pode caducar anos antes da carta que a acompanha. Como os dois tipos de convenção diferem e que datas deve controlar.
+> Uma Carta de Condução Internacional tem prazo próprio e pode caducar anos antes da carta que a acompanha. Que datas deve controlar.
 
 Source: https://traveldocumentvault.com/pt/blog/international-driving-permit-validity/
 

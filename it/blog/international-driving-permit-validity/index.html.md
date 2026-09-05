@@ -1,6 +1,6 @@
 # Patente di guida internazionale: quanto dura davvero
 
-> Un IDP ha una scadenza propria, che può arrivare anni prima di quella della patente a cui è abbinato. Come cambiano i due tipi di trattato e quali date tenere d'occhio.
+> Un permesso internazionale ha una scadenza propria e può scadere anni prima della patente a cui è abbinato. Quali date tenere d'occhio.
 
 Source: https://traveldocumentvault.com/it/blog/international-driving-permit-validity/
 

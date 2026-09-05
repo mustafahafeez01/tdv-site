@@ -1,6 +1,6 @@
 # Resehandlingarna folk glömmer (och var ni ska förvara varje en)
 
-> Resehandlingarna de flesta glömmer bort, och var ni bör bära dem med er kontra förvara dem. Bortglömda samtyckesbrev, vaccinationsbevis och säkerhetskopior.
+> Resehandlingarna de flesta glömmer, och vad ni bär med er kontra förvarar. Samtyckesbrev, vaccinationsbevis och säkerhetskopior.
 
 Source: https://traveldocumentvault.com/sv/blog/what-documents-to-carry-when-travelling-internationally/
 

@@ -1,6 +1,6 @@
 # Internationaler Führerschein: Wie lange er wirklich gilt
 
-> Ein Internationaler Führerschein läuft nach seiner eigenen Uhr und kann Jahre vor dem Führerschein ablaufen, zu dem er gehört. So unterscheiden sich die beiden Abkommensarten, und welche Termine Sie im Blick behalten sollten.
+> Ein Internationaler Führerschein läuft nach seiner eigenen Uhr und kann Jahre vor dem zugehörigen Führerschein ablaufen. Welche Termine zählen.
 
 Source: https://traveldocumentvault.com/de/blog/international-driving-permit-validity/
 

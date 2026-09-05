@@ -1,6 +1,6 @@
 # Como Ler o Seu Passaporte: Qual a Data Que Realmente Importa
 
-> A página de dados do seu passaporte tem duas datas, e a maioria das pessoas indica a errada. O que a data de emissão, a data de validade e o país emissor realmente controlam.
+> A página de dados tem duas datas e a maioria das pessoas indica a errada. O que a data de emissão e a data de validade controlam mesmo.
 
 Source: https://traveldocumentvault.com/pt/blog/how-to-read-your-passport-dates/
 

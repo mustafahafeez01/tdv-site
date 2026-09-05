@@ -1,6 +1,6 @@
 # Blog | Travel Document Vault
 
-> Praktiske guider om pasregler, fornyelsestider og sikring af dokumenter. Fra teamet bag Travel Document Vault, den offline organisator, der holder styr på dine dokumenter.
+> Praktiske guider om pasregler, fornyelsestider og sikring af dokumenter. Fra teamet bag Travel Document Vault.
 
 Source: https://traveldocumentvault.com/da/blog/
 

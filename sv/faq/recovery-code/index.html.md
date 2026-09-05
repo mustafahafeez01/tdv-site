@@ -1,6 +1,6 @@
 # Vad är min återställningskod? | Travel Document Vault
 
-> Din återställningskod är huvudnyckeln till dina krypterade molnsäkerhetskopior. Läs om vad den är, varför du behöver den, vad som händer om du förlorar den, och hur du förvarar den säkert.
+> Återställningskoden är huvudnyckeln till dina krypterade molnsäkerhetskopior. Vad den är, varför du behöver den och hur du förvarar den säkert.
 
 Source: https://traveldocumentvault.com/sv/faq/recovery-code/
 

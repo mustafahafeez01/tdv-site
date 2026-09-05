@@ -1,6 +1,6 @@
 # Règles de passeport Schengen pour les voyages en famille : ce que les parents oublient
 
-> Schengen exige 3 mois de validité au-delà du départ, non 6 - et les passeports des enfants expirent en 5 ans. Ce que les familles doivent vérifier dès la réservation.
+> Schengen exige 3 mois de validité après le départ, pas 6, et les passeports d'enfants durent 5 ans. Ce que les familles vérifient dès la réservation.
 
 Source: https://traveldocumentvault.com/fr/blog/schengen-passport-rules-family-trips/
 

@@ -1,6 +1,6 @@
 # Kann man mit einem beschädigten Reisepass reisen? Regeln und was zu tun ist
 
-> Regeln für beschädigte Reisepässe unterscheiden sich je nach Land und Fluggesellschaft. Erfahren Sie, was als Schaden gilt, was vor oder am Flughafen zu tun ist, und wie schnell ein Ersatzpass möglich ist.
+> Was als Schaden am Reisepass gilt, was vor oder am Flughafen zu tun ist, und wie schnell ein Ersatzpass kommt. Die Regeln unterscheiden sich.
 
 Source: https://traveldocumentvault.com/de/blog/damaged-passport-travel/
 

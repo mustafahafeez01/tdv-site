@@ -1,6 +1,6 @@
 # Berapa Lama Perpanjangan Paspor? (AS, Inggris, Australia, Kanada)
 
-> Berapa lama perpanjangan paspor berlangsung? Ini lebih bergantung pada situasi Anda daripada negara Anda. Berikut yang sebenarnya memperlambat prosesnya, dan di mana mengecek waktu terkini.
+> Berapa lama perpanjangan paspor? Lebih bergantung pada situasi Anda daripada negara. Apa yang memperlambat prosesnya dan di mana mengeceknya.
 
 Source: https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-take/
 

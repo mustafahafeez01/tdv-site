@@ -1,6 +1,6 @@
 # FAQ | Travel Document Vault
 
-> Ett problem mindre att oroa dig för. Svar om Travel Document Vault, din offline-passorganisatör för hela familjen med smarta påminnelser om utgångsdatum. Inga konton. Inget moln. Ingen prenumeration.
+> Svar om Travel Document Vault: offline-valvet för familjens pass, visum och ID, med påminnelser om utgångsdatum. Utan konto, moln eller prenumeration.
 
 Source: https://traveldocumentvault.com/sv/faq/
 

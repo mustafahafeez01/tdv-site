@@ -1,6 +1,6 @@
 # Kan du resa med ett skadat pass? Regler och vad du bör göra
 
-> Reglerna för skadade pass varierar mellan länder och flygbolag. Läs om vad som räknas som skada, vad du ska göra om du upptäcker det före eller på flygplatsen, och hur snabbt du kan få ett nytt pass i en nödsituation.
+> Reglerna för skadade pass varierar mellan länder och flygbolag. Vad som räknas som skada, vad du gör om du upptäcker det, och hur snabbt du får ett nytt.
 
 Source: https://traveldocumentvault.com/sv/blog/damaged-passport-travel/
 

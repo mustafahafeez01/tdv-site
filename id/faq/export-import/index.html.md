@@ -1,6 +1,6 @@
 # Cara Mengekspor dan Mengimpor Vault Anda | Travel Document Vault
 
-> Panduan langkah demi langkah untuk mengekspor seluruh vault Anda sebagai file terenkripsi dan mengimpornya di perangkat baru. Jaga data Anda tetap utuh dan pastikan portabilitasnya.
+> Panduan langkah demi langkah untuk mengekspor seluruh vault sebagai file terenkripsi dan mengimpornya di perangkat baru. Data Anda tetap utuh.
 
 Source: https://traveldocumentvault.com/id/faq/export-import/
 

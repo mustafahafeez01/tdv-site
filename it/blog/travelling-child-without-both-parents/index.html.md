@@ -1,6 +1,6 @@
 # Viaggiare con un Figlio Senza Entrambi i Genitori: Cosa Portare
 
-> Custodia esclusiva, viaggi con i nonni, cognomi diversi - ogni situazione cambia i documenti che servono al bambino. Cosa controllano il banco del check-in e l'ufficiale di frontiera.
+> Custodia esclusiva, viaggio con i nonni, cognomi diversi: cosa chiedono il banco del check-in e l'ufficiale di frontiera.
 
 Source: https://traveldocumentvault.com/it/blog/travelling-child-without-both-parents/
 

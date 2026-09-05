@@ -1,6 +1,6 @@
 # Passport & Travel Document FAQ | Travel Document Vault
 
-> Answers about Travel Document Vault: on-device passport storage, offline access, expiry reminders, and optional end-to-end encrypted backup to your own iCloud or Google Drive. No accounts, no subscription.
+> Answers about Travel Document Vault: on-device passport storage, offline access, expiry reminders, and optional encrypted backup to your own cloud.
 
 Source: https://traveldocumentvault.com/faq/
 

@@ -1,6 +1,6 @@
 # Apa Itu Kode Pemulihan Saya? | Travel Document Vault
 
-> Kode pemulihan Anda adalah kunci utama untuk cadangan cloud terenkripsi Anda. Pelajari apa itu, mengapa Anda membutuhkannya, apa yang terjadi jika Anda kehilangannya, dan cara menyimpannya dengan aman.
+> Kode pemulihan adalah kunci utama untuk cadangan cloud terenkripsi Anda. Apa itu, mengapa Anda memerlukannya, dan cara menyimpannya dengan aman.
 
 Source: https://traveldocumentvault.com/id/faq/recovery-code/
 

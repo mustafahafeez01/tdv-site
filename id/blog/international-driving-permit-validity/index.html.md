@@ -1,6 +1,6 @@
 # Izin Mengemudi Internasional: Berapa Lama Sebenarnya Masa Berlakunya
 
-> IDP berjalan dengan jamnya sendiri, dan bisa kedaluwarsa bertahun-tahun sebelum SIM yang menyertainya. Perbedaan dua jenis perjanjian dan tanggal mana yang perlu diperhatikan.
+> SIM Internasional punya masa berlaku sendiri dan bisa habis bertahun-tahun sebelum SIM asli Anda. Tanggal mana yang perlu diperhatikan.
 
 Source: https://traveldocumentvault.com/id/blog/international-driving-permit-validity/
 

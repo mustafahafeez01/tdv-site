@@ -1,6 +1,6 @@
 # Sauvegarde cloud chiffrée pour vos documents de voyage : qui détient la clé
 
-> Ce que signifie vraiment une sauvegarde chiffrée pour vos scans de passeport, pourquoi un code de récupération ne peut être réinitialisé par personne, et comment garder une copie que vous pourrez réellement restaurer.
+> Ce que chiffre vraiment une sauvegarde de vos scans de passeport, et pourquoi personne ne peut réinitialiser votre code de récupération.
 
 Source: https://traveldocumentvault.com/fr/blog/encrypted-cloud-backup-travel-documents/
 

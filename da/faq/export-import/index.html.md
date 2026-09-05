@@ -1,6 +1,6 @@
 # Sådan eksporterer og importerer du dit vault | Travel Document Vault
 
-> Trin for trin-gennemgang af, hvordan du eksporterer hele dit vault som en krypteret fil og importerer den på en ny enhed. Bevar dine data, og sørg for, at de er transportable.
+> Sådan eksporterer du hele dit vault som en krypteret fil og importerer det på en ny enhed, trin for trin. Dine data bliver hos dig.
 
 Source: https://traveldocumentvault.com/da/faq/export-import/
 

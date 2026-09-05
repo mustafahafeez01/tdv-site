@@ -1,6 +1,6 @@
 # Características: Escanea, rastrea y protege tus documentos
 
-> Escaneo OCR, recordatorios inteligentes, perfiles familiares, rastreador de límites de días por país. Documentos cifrados en tu dispositivo, sin servidores.
+> Escaneo OCR, recordatorios inteligentes, perfiles familiares, rastreador de días por país. Documentos cifrados en tu dispositivo, sin servidores.
 
 Source: https://traveldocumentvault.com/es/features/
 

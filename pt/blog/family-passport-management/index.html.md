@@ -1,6 +1,6 @@
 # Gestão de Passaportes Familiares: Guardar Múltiplos Passaportes em Segurança
 
-> Como organizar e guardar em segurança múltiplos passaportes familiares num único local. Acompanhe as datas de expiração de cada membro da família, com lembretes antes de cada renovação.
+> Todos os passaportes da família num só lugar seguro, as validades de cada membro sob controlo e um lembrete antes de cada renovação.
 
 Source: https://traveldocumentvault.com/pt/blog/family-passport-management/
 

@@ -1,6 +1,6 @@
 # Ofte stillede spørgsmål | Travel Document Vault
 
-> Én ting mindre at bekymre sig om. Svar om Travel Document Vault, din offline familie-pasorganisatør med smarte udløbspåmindelser. Ingen konti. Ingen sky. Intet abonnement.
+> Svar om Travel Document Vault: familiens pas, visa og id-kort offline, med udløbspåmindelser. Ingen konti, ingen sky, intet abonnement.
 
 Source: https://traveldocumentvault.com/da/faq/
 

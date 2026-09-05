@@ -1,6 +1,6 @@
 # Viajar com um Filho Sem os Dois Pais: O Que Levar
 
-> Guarda exclusiva, viagens com avós, apelido diferente - cada situação altera os documentos que o seu filho precisa. O que verificam o balcão de check-in e o agente de fronteira.
+> Guarda exclusiva, viagem com os avós, apelido diferente: o que pedem o balcão de check-in e o agente de fronteira.
 
 Source: https://traveldocumentvault.com/pt/blog/travelling-child-without-both-parents/
 
