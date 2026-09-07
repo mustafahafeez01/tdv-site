@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
+[RejsereglerBritisk ETA: Hvilket pas er dit bundet til?Dit britiske ETA er bundet til det specifikke pas, du søgte med. Fornyer du det pas, skal du bruge et nyt ETA. Her er hvorfor.8. september 20266 min læsning](https://traveldocumentvault.com/da/blog/uk-eta-passport-rules/)
+
+##
+
 [FamilierejserAt Rejse med Barn Uden Begge Forældre: Hvad Du Skal MedbringeEneforældremyndighed, rejser med bedsteforældre, forskellige efternavne – hver situation ændrer, hvilke papirer barnet har brug for. Hvad indtjekningsskranken og grænsevagten hver især kigger efter.30. august 20268 min læsning](https://traveldocumentvault.com/da/blog/travelling-child-without-both-parents/)
 
 ##

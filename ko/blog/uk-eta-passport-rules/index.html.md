@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/ko/blog/uk-eta-passport-rules/
 
 ---
 
+![밝은 공항 창가에서 뒷모습으로 선 부모와 아이, 부모가 여권 두 권을 들고 있으며 앞쪽 여권에 금빛 테두리가 있고 뒤편 게이트에는 비행기가 있다](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
+
 ## 주요 내용 요약
 
 - **UK ETA는 여권 번호에 연결됩니다.** 여권을 갱신해 새 번호를 받으면 기존 ETA는 무효가 됩니다.

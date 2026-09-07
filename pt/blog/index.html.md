@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
+[Regras de ViagemETA do Reino Unido: a que passaporte está ligada a sua?A sua ETA do Reino Unido está ligada ao passaporte com que se candidatou. Se renovar esse passaporte, precisa de uma nova. Eis porquê.8 de setembro de 20266 min de leitura](https://traveldocumentvault.com/pt/blog/uk-eta-passport-rules/)
+
+##
+
 [Viagem em FamíliaViajar com um Filho Sem os Dois Pais: O Que LevarGuarda exclusiva, viagens com avós, apelido diferente — cada situação altera os documentos que o seu filho precisa. O que verificam o balcão de check-in e o agente de fronteira.30 de agosto de 20268 min de leitura](https://traveldocumentvault.com/pt/blog/travelling-child-without-both-parents/)
 
 ##

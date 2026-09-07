@@ -193,9 +193,11 @@ Best Value
 
 ### Pro
 
-One-time
+$9.99 one-time
 
 For your whole family. Pay once. All v1.x updates included, forever.
+
+USD. Your country’s price is set locally rather than converted from dollars, and the store shows it before you pay.
 
 [About our version policy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -234,7 +236,11 @@ For families
 
 Unlock the full vault for your family
 
-One-time purchase no subscription For your whole family. Pay once. All v1.x updates included, forever.
+$9.99 one-time
+
+USD. Your country’s price is set locally rather than converted from dollars, and the App Store or Google Play shows it before you pay.
+
+For your whole family. Pay once. All v1.x updates included, forever.
 
 [About our version policy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 

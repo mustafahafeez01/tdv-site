@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
+[Travel Rules UK ETA: Which Passport Is Yours Tied To? An ETA is linked to the booklet you applied with, so a renewal does not carry it over. What to do when the passport changes, and why each traveller needs their own. September 8, 20266 min read](https://traveldocumentvault.com/blog/uk-eta-passport-rules/)
+
+##
+
 [Family TravelTravelling With a Child Without Both Parents: What to CarrySole custody, grandparent trips, different surnames - each changes the paperwork your child needs. What the airline desk and the border officer each look for.Aug 30, 20268 min read](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/)
 
 ##

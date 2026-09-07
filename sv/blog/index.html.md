@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
+[ResereglerBrittiskt ETA: Vilket pass är ditt kopplat till?Ditt brittiska ETA är kopplat till det specifika pass du ansökte med. Förnyar du det passet behöver du ett nytt ETA. Här är varför.8 september 20266 min läsning](https://traveldocumentvault.com/sv/blog/uk-eta-passport-rules/)
+
+##
+
 [FamiljeresorAtt Resa med Barn Utan Båda Föräldrarna: Vad Du Ska Ta MedEnsam vårdnad, resor med morföräldrar, olika efternamn – varje situation ändrar vilka papper barnet behöver. Vad incheckningsdisken och gränskontrollanten var för sig tittar efter.30 augusti 20268 min läsning](https://traveldocumentvault.com/sv/blog/travelling-child-without-both-parents/)
 
 ##

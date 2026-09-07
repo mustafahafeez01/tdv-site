@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/id/blog/uk-eta-passport-rules/
 
 ---
 
+![Orang tua dan anak dilihat dari belakang di jendela bandara yang terang, memegang dua paspor dengan yang depan bergaris emas, dan sebuah pesawat di gerbang keberangkatan](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
+
 ## Poin Penting
 
 - **ETA Inggris terikat dengan nomor paspor Anda.** Saat Anda memperpanjang paspor dan mendapat nomor baru, ETA lama otomatis tidak berlaku.

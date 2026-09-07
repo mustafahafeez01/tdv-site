@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 ##
 
+[Règles de voyageETA britannique : à quel passeport est-elle liée ?Votre ETA britannique est liée au passeport utilisé pour la demande. Renouvelez ce passeport et il faut en redemander une. Voici pourquoi.8 septembre 20266 min de lecture](https://traveldocumentvault.com/fr/blog/uk-eta-passport-rules/)
+
+##
+
 [Voyage en familleVoyager avec un enfant sans ses deux parents : quels documents emporterGarde exclusive, voyage avec les grands-parents, nom de famille différent : chaque situation change les documents nécessaires pour votre enfant. Ce que vérifient le comptoir d'enregistrement et l'agent frontalier.30 août 20268 min de lecture](https://traveldocumentvault.com/fr/blog/travelling-child-without-both-parents/)
 
 ##

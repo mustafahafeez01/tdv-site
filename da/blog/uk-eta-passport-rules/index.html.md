@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/da/blog/uk-eta-passport-rules/
 
 ---
 
+![En forælder og et barn set bagfra ved et lyst lufthavnsvindue, forælderen holder to pas op, det forreste med en gylden kant, og et fly ved gaten bagved](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
+
 ## Vigtigste punkter
 
 - **Et britisk ETA er bundet til dit pasnummer.** Fornyer du passet og får et nyt nummer, bliver dit gamle ETA ugyldigt.

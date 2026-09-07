@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/de/blog/uk-eta-passport-rules/
 
 ---
 
+![Ein Elternteil und ein Kind von hinten an einem hellen Flughafenfenster, der Elternteil hält zwei Reisepässe hoch, der vordere golden umrandet, dahinter ein Flugzeug am Gate](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
+
 ## Wichtigste Erkenntnisse
 
 - **Eine britische ETA ist an Ihre Reisepassnummer gebunden.** Wenn Sie Ihren Reisepass erneuern und eine neue Nummer erhalten, wird Ihre alte ETA ungültig.

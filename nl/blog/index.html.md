@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
+[ReisregelsUK ETA: aan welk paspoort is de jouwe gekoppeld?Je UK ETA is gekoppeld aan het specifieke paspoort waarmee je hebt aangevraagd. Vernieuw je dat paspoort, dan heb je een nieuwe ETA nodig. Dit is waarom.8 september 20266 min leestijd](https://traveldocumentvault.com/nl/blog/uk-eta-passport-rules/)
+
+##
+
 [GezinsreizenReizen met een Kind Zonder Beide Ouders: Wat Je Moet MeenemenEenhoofdig gezag, reizen met grootouders, verschillende achternamen – elke situatie verandert welke papieren je kind nodig heeft. Waar de incheckbalie en de grensbeambte elk naar kijken.30 augustus 20268 min leestijd](https://traveldocumentvault.com/nl/blog/travelling-child-without-both-parents/)
 
 ##

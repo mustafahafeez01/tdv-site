@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/uk-eta-passport-rules/
 
 ---
 
+![明亮的机场窗前，父女背影。家长举着两本护照，前面一本镶着金色光边，远处登机口停着飞机](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
+
 ## 关键要点
 
 - **UK ETA与您的护照号码绑定。**更换护照并获得新号码后，原有的ETA将失效。

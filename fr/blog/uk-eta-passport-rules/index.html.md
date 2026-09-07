@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/fr/blog/uk-eta-passport-rules/
 
 ---
 
+![Un parent et son enfant vus de dos devant une grande baie vitrée d'aéroport, le parent tenant deux passeports dont celui de devant est souligné d'un liseré doré, un avion à la porte d'embarquement au loin](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
+
 ## Points clés à retenir
 
 - **Une ETA britannique est liée à votre numéro de passeport.** Quand vous renouvelez votre passeport et recevez un nouveau numéro, votre ancienne ETA devient invalide.

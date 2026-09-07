@@ -108,6 +108,8 @@ In most cases, yes - provided your current passport is still valid and you haven
 
 ## Related Articles
 
+[Travel Rules6 min read · Sep 8UK ETA: Which Passport Is Yours Tied To?](https://traveldocumentvault.com/blog/uk-eta-passport-rules/)
+
 [Passport Rules7 min read · Feb 1, 2026The 6-Month Passport Rule: Which Countries Enforce It](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
 [Organisation7 min read · Feb 5, 2026How to Organise Family Travel Documents (Before Your Next Trip)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
+[旅行规定UK ETA与哪本护照绑定？UK ETA与您申请时使用的特定护照绑定。更换护照后您将需要重新申请ETA，原因在此。2026年9月8日6分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/uk-eta-passport-rules/)
+
+##
+
 [家庭旅行带孩子出行却没有父母双方同行：该带哪些证件单独监护权、祖父母带娃出行、姓氏不同——每种情况所需的证件都不一样。值机柜台和边检官员各自关注的是什么。2026年8月30日8分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/travelling-child-without-both-parents/)
 
 ##

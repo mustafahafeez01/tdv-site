@@ -118,6 +118,8 @@ No, but you still cannot travel with it. A damaged passport may be rejected by a
 
 ## Related Articles
 
+[Travel Rules6 min read · Sep 8UK ETA: Which Passport Is Yours Tied To?](https://traveldocumentvault.com/blog/uk-eta-passport-rules/)
+
 [Passport Renewal5 min read · Mar 9, 2026Passport Expired? Here's Exactly What to Do (Step by Step)](https://traveldocumentvault.com/blog/passport-expired-what-to-do/)
 
 [Passport Rules6 min read · Apr 22, 2026The 6-Month Passport Validity Rule: Which Countries Enforce It](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)

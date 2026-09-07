@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/ja/blog/uk-eta-passport-rules/
 
 ---
 
+![明るい空港の窓辺で後ろ姿の親子。親が2冊のパスポートを掲げ、手前の1冊は金色に縁取られ、奥のゲートには飛行機](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
+
 ## 重要ポイント
 
 - **UK ETAはパスポート番号に紐づいています。**パスポートを更新して新しい番号を取得すると、古いETAは無効になります。

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/it/blog/
 
 ##
 
+[Regole di ViaggioETA del Regno Unito: a quale passaporto è legata la tua?La tua ETA britannica è legata al passaporto con cui hai fatto domanda. Se rinnovi quel passaporto, devi richiederne una nuova. Ecco perché.8 settembre 20266 min di lettura](https://traveldocumentvault.com/it/blog/uk-eta-passport-rules/)
+
+##
+
 [Viaggio in FamigliaViaggiare con un Figlio Senza Entrambi i Genitori: Cosa PortareCustodia esclusiva, viaggi con i nonni, cognomi diversi — ogni situazione cambia i documenti che servono al bambino. Cosa controllano il banco del check-in e l'ufficiale di frontiera.30 agosto 20268 min di lettura](https://traveldocumentvault.com/it/blog/travelling-child-without-both-parents/)
 
 ##

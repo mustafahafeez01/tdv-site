@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/pt/blog/uk-eta-passport-rules/
 
 ---
 
+![Um pai e uma filha vistos de costas junto a uma janela luminosa do aeroporto, segurando dois passaportes com o da frente contornado a dourado e um avião na porta de embarque ao fundo](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
+
 ## Pontos-Chave
 
 - **A ETA do Reino Unido está associada ao número do seu passaporte.** Quando renova o passaporte e recebe um novo número, a sua ETA anterior deixa de ser válida.

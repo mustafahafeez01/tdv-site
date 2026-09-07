@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/it/blog/uk-eta-passport-rules/
 
 ---
 
+![Un genitore e una bambina visti di spalle davanti a un'ampia vetrata dell'aeroporto, con due passaporti in mano di cui quello davanti bordato d'oro e un aereo al gate sullo sfondo](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
+
 ## Punti Chiave
 
 - **L'ETA del Regno Unito è legata al numero del tuo passaporto.** Quando rinnovi il passaporto e ricevi un nuovo numero, la vecchia ETA non è più valida.

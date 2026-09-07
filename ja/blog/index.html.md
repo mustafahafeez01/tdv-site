@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
+[渡航ルールUK ETA: どのパスポートに紐づいている？UK ETAは申請時のパスポート番号に紐づいています。パスポートを更新すると新しいETAの申請が必要になる理由を解説します。2026年9月8日読了時間 6分](https://traveldocumentvault.com/ja/blog/uk-eta-passport-rules/)
+
+##
+
 [ファミリー旅行片親だけで子どもが渡航するとき、持っていくべき書類単独親権、祖父母との旅行、姓の違い。状況によって子どもに必要な書類は変わります。搭乗手続きのカウンターと入国審査でそれぞれ何を確認されるのかを解説します。2026年8月30日8分で読める](https://traveldocumentvault.com/ja/blog/travelling-child-without-both-parents/)
 
 ##

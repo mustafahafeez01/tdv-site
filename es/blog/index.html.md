@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
+[Normas de ViajeETA del Reino Unido: ¿A qué pasaporte está vinculada?Tu ETA del Reino Unido queda vinculada al pasaporte con el que la solicitaste. Si lo renuevas, necesitarás una ETA nueva. Por qué funciona así.8 de septiembre de 20266 min de lectura](https://traveldocumentvault.com/es/blog/uk-eta-passport-rules/)
+
+##
+
 [Viajes en FamiliaViajar con un Hijo Sin Ambos Padres: Qué Documentos LlevarCustodia exclusiva, viajes con los abuelos, apellido diferente: cada situación cambia los documentos que necesita tu hijo. Qué comprueban el mostrador de facturación y el agente de fronteras.30 de agosto de 20268 min de lectura](https://traveldocumentvault.com/es/blog/travelling-child-without-both-parents/)
 
 ##

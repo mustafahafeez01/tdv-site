@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/sv/blog/uk-eta-passport-rules/
 
 ---
 
+![En förälder och ett barn sedda bakifrån vid ett ljust flygplatsfönster, föräldern håller upp två pass där det främre har en gyllene kantlinje, ett flygplan vid gaten bakom](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
+
 ## Viktiga punkter
 
 - **Ett brittiskt ETA är kopplat till ditt passnummer.** Förnyar du passet och får ett nytt nummer blir ditt gamla ETA ogiltigt.

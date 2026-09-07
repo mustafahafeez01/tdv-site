@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/nl/blog/uk-eta-passport-rules/
 
 ---
 
+![Een ouder en kind van achteren bij een licht luchthavenraam, de ouder houdt twee paspoorten omhoog waarvan het voorste een gouden rand heeft, met een vliegtuig bij de gate erachter](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
+
 ## Belangrijkste punten
 
 - **Een UK ETA is gekoppeld aan je paspoortnummer.** Als je je paspoort vernieuwt en een nieuw nummer krijgt, wordt je oude ETA ongeldig.

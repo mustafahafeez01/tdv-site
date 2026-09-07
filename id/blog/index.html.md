@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
+[Visa & MasukETA Inggris Terikat dengan Paspor yang ManaETA Inggris Anda terikat pada paspor yang Anda gunakan saat mengajukan. Perpanjang paspor itu, dan Anda perlu ETA baru. Ini alasannya.8 September 20266 menit baca](https://traveldocumentvault.com/id/blog/uk-eta-passport-rules/)
+
+##
+
 [Perjalanan KeluargaBepergian dengan Anak Tanpa Kedua Orang Tua: Dokumen yang Harus DibawaHak asuh tunggal, perjalanan bersama kakek-nenek, beda nama keluarga — masing-masing mengubah dokumen yang dibutuhkan anak Anda. Apa yang diperiksa petugas check-in maskapai dan petugas imigrasi.30 Agustus 20268 menit baca](https://traveldocumentvault.com/id/blog/travelling-child-without-both-parents/)
 
 ##

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
+[여행 규정UK ETA는 어느 여권에 연결되나요?UK ETA는 신청할 때 사용한 특정 여권에 연결됩니다. 그 여권을 갱신하면 새 ETA가 필요한 이유를 설명합니다.2026년 9월 8일6분 읽기](https://traveldocumentvault.com/ko/blog/uk-eta-passport-rules/)
+
+##
+
 [가족 여행부모 중 한 명 없이 아이가 여행할 때 챙겨야 할 서류단독 양육권, 조부모와의 여행, 다른 성. 상황마다 아이에게 필요한 서류가 다릅니다. 체크인 카운터와 출입국 심사에서 각각 무엇을 확인하는지 알아보세요.2026년 8월 30일8분 읽기](https://traveldocumentvault.com/ko/blog/travelling-child-without-both-parents/)
 
 ##

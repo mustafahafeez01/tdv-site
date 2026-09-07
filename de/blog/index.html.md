@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
+[ReisebestimmungenBritische ETA: An welchen Reisepass ist sie gebunden?Ihre britische ETA ist an genau den Reisepass gebunden, mit dem Sie sie beantragt haben. Nach einer Erneuerung brauchen Sie eine neue ETA.8. September 20266 Min. Lesezeit](https://traveldocumentvault.com/de/blog/uk-eta-passport-rules/)
+
+##
+
 [FamilienreisenReisen mit einem Kind ohne beide Elternteile: Was Sie mitnehmen solltenAlleiniges Sorgerecht, Reisen mit Großeltern, unterschiedliche Nachnamen – jede Situation verändert die Unterlagen, die Ihr Kind braucht. Worauf der Check-in-Schalter und der Grenzbeamte jeweils achten.30. August 20268 Min. Lesezeit](https://traveldocumentvault.com/de/blog/travelling-child-without-both-parents/)
 
 ##

@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/es/blog/uk-eta-passport-rules/
 
 ---
 
+![Un padre y su hija vistos de espaldas ante un ventanal luminoso del aeropuerto, sosteniendo dos pasaportes con el delantero perfilado en dorado y un avión en la puerta de embarque al fondo](https://traveldocumentvault.com/blog/uk-eta-passport-rules/cover.jpg)
+
 ## Puntos Clave
 
 - **Una ETA del Reino Unido está vinculada a tu número de pasaporte.** Cuando renuevas tu pasaporte y obtienes un número nuevo, tu ETA anterior deja de ser válida.
