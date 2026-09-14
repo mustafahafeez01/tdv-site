@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/child-first-passport-applic
 
 ---
 
+![A parent seen from behind at a bright window, baby on one shoulder, holding up a single gold passport booklet](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
+
 ## 关键要点
 
 - **申请同意与出行同意并不相同。**申请提交前，需要获得所有父母或监护人的书面同意。

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
+[家庭旅行为孩子申请第一本护照同意申请和同意出行并不是一回事，婴儿也无法达到成人的照片要求。第一次申请究竟需要你做什么，一步步说明。2026年9月15日6分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/child-first-passport-application/)
+
+##
+
 [旅行规定UK ETA与哪本护照绑定？UK ETA与您申请时使用的特定护照绑定。更换护照后您将需要重新申请ETA，原因在此。2026年9月8日6分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/uk-eta-passport-rules/)
 
 ##

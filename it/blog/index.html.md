@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/it/blog/
 
 ##
 
+[Viaggio in FamigliaCome Richiedere il Primo Passaporto di un FiglioIl consenso a fare domanda non è lo stesso del consenso a viaggiare, e un neonato non può rispettare le regole fotografiche degli adulti. Cosa chiede davvero una prima domanda, passo dopo passo.15 settembre 20266 min di lettura](https://traveldocumentvault.com/it/blog/child-first-passport-application/)
+
+##
+
 [Regole di ViaggioETA del Regno Unito: a quale passaporto è legata la tua?La tua ETA britannica è legata al passaporto con cui hai fatto domanda. Se rinnovi quel passaporto, devi richiederne una nuova. Ecco perché.8 settembre 20266 min di lettura](https://traveldocumentvault.com/it/blog/uk-eta-passport-rules/)
 
 ##

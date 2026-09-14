@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
+[Perjalanan KeluargaMengajukan Paspor Pertama untuk AnakPersetujuan untuk mengajukan permohonan tidak sama dengan persetujuan untuk bepergian, dan bayi tidak bisa mengikuti aturan foto orang dewasa. Apa saja yang sebenarnya diminta dalam permohonan pertama, langkah demi langkah.15 September 20266 menit baca](https://traveldocumentvault.com/id/blog/child-first-passport-application/)
+
+##
+
 [Visa & MasukETA Inggris Terikat dengan Paspor yang ManaETA Inggris Anda terikat pada paspor yang Anda gunakan saat mengajukan. Perpanjang paspor itu, dan Anda perlu ETA baru. Ini alasannya.8 September 20266 menit baca](https://traveldocumentvault.com/id/blog/uk-eta-passport-rules/)
 
 ##

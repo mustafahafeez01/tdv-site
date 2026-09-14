@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/it/blog/child-first-passport-application
 
 ---
 
+![A parent seen from behind at a bright window, baby on one shoulder, holding up a single gold passport booklet](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
+
 ## Punti Chiave
 
 - **Il consenso per fare domanda è diverso dal consenso per viaggiare.** Tuo figlio ha bisogno del permesso scritto di tutti i genitori o tutori prima che la domanda possa essere presentata.

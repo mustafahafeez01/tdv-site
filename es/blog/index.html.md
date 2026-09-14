@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
+[Viajes en FamiliaEl Primer Pasaporte de tu Hijo: Cómo SolicitarloEl consentimiento para solicitarlo no es el mismo que el consentimiento para viajar, y un bebé no puede cumplir las normas de foto de un adulto. Qué te pide realmente una primera solicitud, paso a paso.15 de septiembre de 20266 min de lectura](https://traveldocumentvault.com/es/blog/child-first-passport-application/)
+
+##
+
 [Normas de ViajeETA del Reino Unido: ¿A qué pasaporte está vinculada?Tu ETA del Reino Unido queda vinculada al pasaporte con el que la solicitaste. Si lo renuevas, necesitarás una ETA nueva. Por qué funciona así.8 de septiembre de 20266 min de lectura](https://traveldocumentvault.com/es/blog/uk-eta-passport-rules/)
 
 ##

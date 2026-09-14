@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/uk/blog/child-first-passport-application
 
 ---
 
+![A parent seen from behind at a bright window, baby on one shoulder, holding up a single gold passport booklet](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
+
 ## Ключові моменти
 
 - **Згода на оформлення — це не те саме, що згода на поїздку.** Перед поданням заявки потрібен письмовий дозвіл від усіх батьків або опікунів.

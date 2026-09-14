@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
+[GezinsreizenHet Eerste Paspoort van je Kind AanvragenToestemming om aan te vragen is niet hetzelfde als toestemming om te reizen, en een baby kan niet aan de fotoregels voor volwassenen voldoen. Wat een eerste aanvraag echt van je vraagt, stap voor stap.15 september 20266 min leestijd](https://traveldocumentvault.com/nl/blog/child-first-passport-application/)
+
+##
+
 [ReisregelsUK ETA: aan welk paspoort is de jouwe gekoppeld?Je UK ETA is gekoppeld aan het specifieke paspoort waarmee je hebt aangevraagd. Vernieuw je dat paspoort, dan heb je een nieuwe ETA nodig. Dit is waarom.8 september 20266 min leestijd](https://traveldocumentvault.com/nl/blog/uk-eta-passport-rules/)
 
 ##

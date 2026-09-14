@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
+[FamiljeresorAtt Ansöka om Barnets Första PassSamtycke till ansökan är inte detsamma som samtycke till att resa, och en bebis kan inte följa vuxnas fotoregler. Vad en första ansökan faktiskt kräver av dig, steg för steg.15 september 20266 min läsning](https://traveldocumentvault.com/sv/blog/child-first-passport-application/)
+
+##
+
 [ResereglerBrittiskt ETA: Vilket pass är ditt kopplat till?Ditt brittiska ETA är kopplat till det specifika pass du ansökte med. Förnyar du det passet behöver du ett nytt ETA. Här är varför.8 september 20266 min läsning](https://traveldocumentvault.com/sv/blog/uk-eta-passport-rules/)
 
 ##

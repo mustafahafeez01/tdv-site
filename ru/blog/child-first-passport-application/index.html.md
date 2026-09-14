@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/ru/blog/child-first-passport-application
 
 ---
 
+![A parent seen from behind at a bright window, baby on one shoulder, holding up a single gold passport booklet](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
+
 ## Ключевые моменты
 
 - **Согласие на оформление паспорта — не то же самое, что согласие на поездку.** Перед подачей заявки нужно письменное разрешение от всех родителей или опекунов.

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
+[FamilienreisenDen ersten Reisepass eines Kindes beantragenDie Zustimmung zur Beantragung ist nicht dasselbe wie die Zustimmung zur Reise, und ein Baby kann die Fotoregeln für Erwachsene nicht erfüllen. Was ein Erstantrag wirklich von Ihnen verlangt, Schritt für Schritt.15. September 20266 Min. Lesezeit](https://traveldocumentvault.com/de/blog/child-first-passport-application/)
+
+##
+
 [ReisebestimmungenBritische ETA: An welchen Reisepass ist sie gebunden?Ihre britische ETA ist an genau den Reisepass gebunden, mit dem Sie sie beantragt haben. Nach einer Erneuerung brauchen Sie eine neue ETA.8. September 20266 Min. Lesezeit](https://traveldocumentvault.com/de/blog/uk-eta-passport-rules/)
 
 ##

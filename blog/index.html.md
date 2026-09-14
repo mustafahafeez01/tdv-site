@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
+[Family Travel Applying for a Child's First Passport Consent to apply is not the same as consent to travel, and a baby cannot follow adult photo rules. What a first application actually asks of you, step by step. September 15, 20266 min read](https://traveldocumentvault.com/blog/child-first-passport-application/)
+
+##
+
 [Travel Rules UK ETA: Which Passport Is Yours Tied To? An ETA is linked to the booklet you applied with, so a renewal does not carry it over. What to do when the passport changes, and why each traveller needs their own. September 8, 20266 min read](https://traveldocumentvault.com/blog/uk-eta-passport-rules/)
 
 ##

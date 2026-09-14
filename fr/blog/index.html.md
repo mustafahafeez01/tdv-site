@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 ##
 
+[Voyages en famillePremier passeport d'un enfant : comment faire la demandeDonner son consentement pour la demande n'est pas la même chose que donner son consentement pour voyager, et un bébé ne peut pas suivre les règles de photo des adultes. Ce qu'une première demande exige vraiment de vous, étape par étape.15 septembre 20266 min de lecture](https://traveldocumentvault.com/fr/blog/child-first-passport-application/)
+
+##
+
 [Règles de voyageETA britannique : à quel passeport est-elle liée ?Votre ETA britannique est liée au passeport utilisé pour la demande. Renouvelez ce passeport et il faut en redemander une. Voici pourquoi.8 septembre 20266 min de lecture](https://traveldocumentvault.com/fr/blog/uk-eta-passport-rules/)
 
 ##

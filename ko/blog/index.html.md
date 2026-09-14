@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
+[가족 여행아이의 첫 여권 신청하기신청 동의와 여행 동의는 다르며, 아기는 성인과 같은 사진 규정을 따를 수 없습니다. 첫 신청에서 실제로 무엇이 필요한지 단계별로 알아보세요.2026년 9월 15일6분 읽기](https://traveldocumentvault.com/ko/blog/child-first-passport-application/)
+
+##
+
 [여행 규정UK ETA는 어느 여권에 연결되나요?UK ETA는 신청할 때 사용한 특정 여권에 연결됩니다. 그 여권을 갱신하면 새 ETA가 필요한 이유를 설명합니다.2026년 9월 8일6분 읽기](https://traveldocumentvault.com/ko/blog/uk-eta-passport-rules/)
 
 ##

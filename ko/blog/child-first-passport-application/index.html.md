@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/ko/blog/child-first-passport-application
 
 ---
 
+![A parent seen from behind at a bright window, baby on one shoulder, holding up a single gold passport booklet](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
+
 ## 주요 내용 요약
 
 - **신청 동의와 여행 동의는 서로 다릅니다.** 신청을 진행하기 전에 모든 부모 또는 보호자로부터 서면 동의를 받아야 합니다.

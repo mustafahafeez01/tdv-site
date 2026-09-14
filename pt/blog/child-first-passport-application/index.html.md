@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/pt/blog/child-first-passport-application
 
 ---
 
+![A parent seen from behind at a bright window, baby on one shoulder, holding up a single gold passport booklet](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
+
 ## Pontos-Chave
 
 - **O consentimento para pedir o passaporte é diferente do consentimento para viajar.** O seu filho precisa de autorização por escrito de todos os pais ou tutores antes de o pedido poder avançar.

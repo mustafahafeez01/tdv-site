@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/nl/blog/child-first-passport-application
 
 ---
 
+![A parent seen from behind at a bright window, baby on one shoulder, holding up a single gold passport booklet](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
+
 ## Belangrijkste punten
 
 - **Toestemming om aan te vragen is iets anders dan toestemming om te reizen.** Je kind heeft schriftelijke toestemming van alle ouders of voogden nodig voordat de aanvraag kan worden ingediend.

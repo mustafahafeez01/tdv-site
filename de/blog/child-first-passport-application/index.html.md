@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/de/blog/child-first-passport-application
 
 ---
 
+![A parent seen from behind at a bright window, baby on one shoulder, holding up a single gold passport booklet](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
+
 ## Wichtigste Erkenntnisse
 
 - **Die Zustimmung zur Beantragung ist etwas anderes als die Zustimmung zur Reise.** Ihr Kind benötigt die schriftliche Erlaubnis aller Eltern oder Erziehungsberechtigten, bevor der Antrag eingereicht werden kann.

@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/ja/blog/child-first-passport-application
 
 ---
 
+![A parent seen from behind at a bright window, baby on one shoulder, holding up a single gold passport booklet](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
+
 ## 重要ポイント
 
 - **申請への同意と渡航への同意は別のものです。**申請を進める前に、すべての親または保護者から書面での同意を得る必要があります。

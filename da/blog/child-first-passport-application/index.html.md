@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/da/blog/child-first-passport-application
 
 ---
 
+![A parent seen from behind at a bright window, baby on one shoulder, holding up a single gold passport booklet](https://traveldocumentvault.com/blog/child-first-passport-application/cover.jpg)
+
 ## Vigtigste punkter
 
 - **Samtykke til at ansøge er ikke det samme som samtykke til at rejse.** Dit barn skal have skriftlig tilladelse fra alle forældre eller værger, før ansøgningen kan indsendes.

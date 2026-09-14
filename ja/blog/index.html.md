@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
+[ファミリー旅行子どもの初めてのパスポート申請申請への同意と渡航への同意は同じではなく、赤ちゃんは大人と同じ写真規定を満たせません。初めての申請で実際に何が求められるのか、手順を追って解説します。2026年9月15日読了時間 6分](https://traveldocumentvault.com/ja/blog/child-first-passport-application/)
+
+##
+
 [渡航ルールUK ETA: どのパスポートに紐づいている？UK ETAは申請時のパスポート番号に紐づいています。パスポートを更新すると新しいETAの申請が必要になる理由を解説します。2026年9月8日読了時間 6分](https://traveldocumentvault.com/ja/blog/uk-eta-passport-rules/)
 
 ##
