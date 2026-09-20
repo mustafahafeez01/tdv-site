@@ -53,7 +53,7 @@ La seguente tabella copre le destinazioni più comuni. Le politiche cambiano, qu
 | India | 6 mesi | Visto anche richiesto per la maggior parte delle nazionalità |
 | Kenya | 6 mesi | eVisa richiesto; regola dei 6 mesi si applica |
 | Turchia | 6 mesi *(consigliato)* | Ufficialmente 60 giorni oltre il soggiorno; le compagnie aeree applicano lo standard di 6 mesi |
-| UE / Schengen | Durata del soggiorno soltanto | Alcuni paesi richiedono 3 mesi oltre la partenza |
+| UE / Schengen | 3 mesi oltre la partenza | Più una data di rilascio inferiore a 10 anni |
 | Regno Unito | Durata del soggiorno soltanto | I cittadini del Regno Unito all'estero rimangono soggetti alle regole del paese di destinazione |
 | Stati Uniti | Durata del soggiorno soltanto | I cittadini statunitensi all'estero rimangono soggetti alle regole del paese di destinazione |
 | Giappone / Australia / Nuova Zelanda | Durata del soggiorno soltanto | Nessuna regola di estensione di 6 mesi per i visitatori |
@@ -64,7 +64,19 @@ I requisiti di validità del passaporto per paese cambiano senza preavviso — u
 
 Verificate sempre i vostri requisiti specifici utilizzando il Centro Viaggi IATA, il sistema che le compagnie aeree utilizzano per controllare i documenti dei passeggeri in tempo reale.
 
-**Travel Document Vault** segnala qualsiasi passaporto che, alla fine del vostro viaggio, non avrà più sei mesi di validità residua — per ogni membro della famiglia, automaticamente. [Scaricate gratuitamente su App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** segnala qualsiasi passaporto che, alla fine del vostro viaggio, non avrà più sei mesi di validità residua — per ogni membro della famiglia, automaticamente. [Scaricate su App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) e [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
+
+## Quando la Regola dei 6 Mesi Non si Applica
+
+Molte destinazioni non chiedono nulla oltre le date del vostro viaggio. Il Ministero degli Esteri britannico lo dice chiaramente per il Giappone: il vostro passaporto deve essere valido per la durata del soggiorno, e non è richiesto alcun periodo di validità aggiuntivo. Australia e Stati Uniti usano lo stesso standard, chiedendo solo che il vostro passaporto resti valido per la durata del soggiorno previsto.
+
+L'Europa si colloca nel mezzo, ed è la fascia che le persone fraintendono più spesso. Per visitare l'area Schengen, il Ministero degli Esteri afferma che il vostro passaporto deve avere una data di scadenza di almeno tre mesi dopo il giorno in cui prevedete di partire. Tre mesi, non sei.
+
+C'è una seconda condizione Schengen che coglie le persone di sorpresa molto più spesso della prima: la vostra data di rilascio deve essere inferiore a dieci anni prima del giorno del vostro arrivo. Entrambe le condizioni devono essere soddisfatte, e un passaporto può superarne una mentre non supera l'altra.
+
+Questa seconda regola esiste per via di come venivano rinnovati i passaporti britannici in passato. L'Ufficio Passaporti aggiungeva qualsiasi validità inutilizzata, fino a nove mesi, al nuovo passaporto quando lo si rinnovava in anticipo. Così un passaporto può mostrare una data di scadenza perfettamente sana mentre la sua data di rilascio risale a più di dieci anni fa. Il Ministero degli Esteri avverte che un passaporto rinnovato prima del 1 ottobre 2018 può presentare esattamente questo problema, ed è non valido per l'ingresso in area Schengen indipendentemente da quanto tempo resti sulla sua validità.
+
+C'è un'ultima insidia, e si applica anche alle destinazioni più permissive. Il Ministero degli Esteri segnala sia nelle sue indicazioni per l'Australia sia in quelle per gli Stati Uniti che, se transitate attraverso un altro paese lungo il tragitto, dovete soddisfare anche i requisiti di ingresso di quel paese, e molti di essi chiedono sei mesi. La stessa destinazione può avere requisiti documentali diversi per un volo diretto e per un volo con uno scalo.
 
 ## Come le Compagnie Aeree Applicano la Regola — Anche Quando i Paesi Non lo Fanno
 
@@ -134,13 +146,21 @@ Sì. Le compagnie aeree controllano la validità del passaporto utilizzando un d
 
 Contate sei mesi a partire dal giorno in cui lasciate la destinazione, quindi controllate se il vostro passaporto scade dopo quella data. Questa è la più tardiva delle due date usate dai paesi, quindi copre entrambi i casi. Se partite il 1 agosto, il vostro passaporto deve restare valido almeno fino al 1 febbraio dell'anno seguente. App come Travel Document Vault tracciano questo automaticamente per ogni membro della famiglia, quindi non dovete fare i calcoli prima di ogni viaggio.
 
-### La regola dei 6 mesi si applica ai cittadini dell'UE che viaggiano in Europa?
+### Devo avere sei mesi di validità sul passaporto per viaggiare in Europa?
 
-Generalmente, no. I paesi dell'UE e dello spazio Schengen richiedono tipicamente che il vostro passaporto sia valido solo per la durata del vostro soggiorno — non applicano la regola di estensione di 6 mesi per i viaggi intra-europei. Tuttavia, alcuni paesi dell'UE possono richiedere che il vostro passaporto sia valido per almeno tre mesi oltre la vostra partenza prevista. Verificate sempre i requisiti di ingresso specifici del vostro paese di destinazione, poiché le regole possono variare anche all'interno dell'area Schengen.
+No, ma serve più della semplice durata del soggiorno. Il Ministero degli Esteri britannico afferma che per visitare l'area Schengen il passaporto deve avere una data di scadenza di almeno tre mesi dopo il giorno in cui si prevede di partire, e una data di rilascio inferiore a dieci anni prima del giorno di arrivo. Questa seconda regola coglie molte persone di sorpresa: un passaporto rinnovato prima di ottobre 2018 può avere mesi extra che spingono la data di rilascio oltre i dieci anni, rendendolo non valido per l'ingresso in area Schengen anche quando la data di scadenza sembra ancora a posto.
 
 ### Cosa succede se un membro della famiglia soddisfa la regola ma un altro no?
 
 Ogni passaporto di un membro della famiglia viene valutato individualmente — non c'è regola di gruppo. Questo significa che un passaporto potrebbe soddisfare il requisito di 6 mesi mentre un altro non lo fa, impedendo potenzialmente a quella persona di viaggiare. Controllate ogni passaporto del gruppo rispetto ai requisiti di validità della destinazione prima di prenotare. App come Travel Document Vault vi permettono di tracciare la scadenza del passaporto di ogni membro della famiglia separatamente così potete rilevare questi buchi prima che lo faccia il check-in.
+
+### Posso viaggiare se il mio passaporto scade tra 3 mesi?
+
+Dipende interamente da dove state andando. Giappone, Australia e Stati Uniti chiedono solo che il vostro passaporto resti valido per la durata del soggiorno, quindi tre mesi vanno bene per un viaggio di due settimane. L'area Schengen richiede tre mesi oltre il giorno della partenza, quindi tre mesi residui sono decisamente troppo risicati. La Thailandia vuole sei mesi dal giorno dell'arrivo, quindi tre mesi residui significano un rifiuto al check-in.
+
+### La regola dei 6 mesi si applica se sto solo transitando attraverso un paese?
+
+Spesso sì, ed è il passaggio che le persone dimenticano. Il Ministero degli Esteri segnala sia nelle sue indicazioni di viaggio per l'Australia sia in quelle per gli Stati Uniti che, se transitate attraverso un altro paese lungo il tragitto, dovete soddisfare anche i requisiti di ingresso di quel paese, e molti di essi chiedono sei mesi. La stessa destinazione può avere requisiti documentali diversi per un volo diretto e per un volo con uno scalo.
 
 ## Articoli Correlati
 

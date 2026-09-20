@@ -53,7 +53,7 @@ Onderstaande tabel bevat de meest voorkomende bestemmingen. Beleid verandert, du
 | India | 6 maanden | Ook een visum vereist voor de meeste nationaliteiten |
 | Kenia | 6 maanden | eVisum vereist; 6 maanden-regel is van toepassing |
 | Turkije | 6 maanden *(aanbevolen)* | Officieel 60 dagen na verblijf; luchtvaartmaatschappijen hanteren de 6 maanden-norm |
-| EU / Schengen | Alleen verblijfsduur | Sommige landen vereisen 3 maanden na vertrek |
+| EU / Schengen | 3 maanden na vertrek | Plus een afgiftedatum van minder dan 10 jaar oud |
 | Verenigd Koninkrijk | Alleen verblijfsduur | Britse burgers in het buitenland vallen nog steeds onder de regels van het bestemmingsland |
 | VS | Alleen verblijfsduur | Amerikaanse burgers in het buitenland vallen onder de regels van het bestemmingsland |
 | Japan / Australië / Nieuw-Zeeland | Alleen verblijfsduur | Geen 6 maanden-verlengingsregel voor bezoekers |
@@ -62,7 +62,19 @@ Deze tabel is een momentopname, niet het volledige beeld: vereisten verschillen 
 
 Vereisten voor paspoortgeldigheid per land veranderen zonder aankondiging, en een bilaterale overeenkomst kan stilletjes de regels voor jouw specifieke paspoort wijzigen. Daarom is het controleren van een actuele officiële bron voor elke internationale reis geen overdreven voorzichtigheid, maar gewoon goede gewoonte: gebruik het IATA Travel Centre, hetzelfde systeem dat luchtvaartmaatschappijen gebruiken om reisdocumenten in realtime te controleren.
 
-**Travel Document Vault** markeert elk paspoort dat aan het einde van je reis geen zes maanden geldigheid meer over heeft – voor elk gezinslid, automatisch. [Download gratis in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** markeert elk paspoort dat aan het einde van je reis geen zes maanden geldigheid meer over heeft – voor elk gezinslid, automatisch. [Download in de App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) en [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
+
+## Wanneer de 6 maanden-regel niet geldt
+
+Veel bestemmingen vragen niets meer dan de data van je reis. De Britse Foreign Office zegt het voor Japan klip-en-klaar: je paspoort moet geldig zijn voor de duur van je verblijf, en er is geen extra geldigheidsperiode vereist. Australië en de Verenigde Staten hanteren dezelfde norm en vragen alleen dat je paspoort geldig blijft voor de duur van je geplande verblijf.
+
+Europa zit ertussenin, en dit is de categorie die mensen het vaakst verkeerd inschatten. Voor een bezoek aan het Schengengebied zegt de Foreign Office dat je paspoort een vervaldatum nodig heeft van minstens drie maanden na de dag waarop je van plan bent te vertrekken. Drie maanden, geen zes.
+
+Er is een tweede Schengenvoorwaarde die mensen veel vaker parten speelt dan de eerste: je afgiftedatum moet minder dan tien jaar voor de dag van aankomst liggen. Aan beide voorwaarden moet worden voldaan, en een paspoort kan aan de ene voldoen terwijl het niet aan de andere voldoet.
+
+Die tweede regel bestaat vanwege de manier waarop Britse paspoorten vroeger werden vernieuwd. De Passport Office telde ongebruikte geldigheid, tot negen maanden, bij je nieuwe paspoort op wanneer je vroegtijdig vernieuwde. Daardoor kan een paspoort een prima vervaldatum tonen terwijl de afgiftedatum meer dan tien jaar terug ligt. De Foreign Office waarschuwt dat een paspoort dat vóór 1 oktober 2018 werd vernieuwd precies dit probleem kan hebben, en dat het dan ongeldig is voor toegang tot het Schengengebied, ongeacht hoeveel geldigheid er nog over is.
+
+Nog één addertje, en dat geldt zelfs voor de soepelere bestemmingen. De Foreign Office merkt zowel bij het reisadvies voor Australië als voor de Verenigde Staten op dat je, als je onderweg via een ander land reist, ook aan de inreisvereisten van dat land moet voldoen, en veel daarvan vragen zes maanden. Dezelfde bestemming kan andere documentvereisten hebben op een directe vlucht dan op een vlucht met een tussenstop.
 
 ## Hoe luchtvaartmaatschappijen de regel handhaven – ook als landen dat niet doen
 
@@ -132,13 +144,21 @@ Ja. Luchtvaartmaatschappijen controleren de paspoortgeldigheid via een sectorbre
 
 Tel zes maanden vooruit vanaf de dag dat je de bestemming verlaat, en controleer dan of je paspoort na die datum verloopt. Dat is de latere van de twee data die landen gebruiken, dus het dekt beide gevallen. Vertrek je op 1 augustus, dan moet je paspoort geldig zijn tot minstens 1 februari van het jaar erna. Apps zoals Travel Document Vault houden dit automatisch bij voor elk gezinslid, zodat je dit niet voor elke reis zelf hoeft uit te rekenen.
 
-### Geldt de 6 maanden-regel voor EU-burgers die binnen Europa reizen?
+### Heb ik zes maanden geldigheid nodig op mijn paspoort om naar Europa te reizen?
 
-Over het algemeen niet. EU- en Schengenlanden vereisen doorgaans alleen dat je paspoort geldig is voor de duur van je verblijf – zij passen de 6 maanden-verlengingsregel niet toe op reizen binnen Europa. Sommige EU-landen kunnen echter vereisen dat je paspoort nog minstens drie maanden geldig is na je geplande vertrek. Controleer altijd de specifieke inreisvereisten van je bestemming, want de regels kunnen zelfs binnen het Schengengebied verschillen.
+Nee, maar je hebt wel meer nodig dan alleen geldigheid voor de duur van je verblijf. De Britse Foreign Office stelt dat je paspoort voor een bezoek aan het Schengengebied een vervaldatum moet hebben van minstens drie maanden na de dag waarop je van plan bent te vertrekken, en een afgiftedatum van minder dan tien jaar voor de dag waarop je aankomt. Die tweede regel is waar mensen vaak over struikelen: een paspoort dat vóór oktober 2018 werd vernieuwd, kan extra maanden bevatten waardoor de afgiftedatum meer dan tien jaar terug ligt, wat het ongeldig maakt voor toegang tot het Schengengebied, zelfs als de vervaldatum nog prima lijkt.
 
 ### Wat als het paspoort van één gezinslid aan de regel voldoet, maar dat van een ander niet?
 
 Het paspoort van elk gezinslid wordt afzonderlijk beoordeeld – er is geen groepsregel. Dit betekent dat het ene paspoort aan de 6 maanden-eis kan voldoen terwijl het andere tekortschiet, waardoor die persoon mogelijk niet mee kan reizen. Controleer elk paspoort in de groep aan de geldigheidsvereisten van de bestemming voordat je boekt. Apps zoals Travel Document Vault laten je de vervaldatum van elk gezinslid apart bijhouden, zodat je dit soort gaten opmerkt voordat de incheckbalie dat doet.
+
+### Kan ik reizen als mijn paspoort over 3 maanden verloopt?
+
+Dat hangt volledig af van waar je heen gaat. Japan, Australië en de Verenigde Staten vragen alleen dat je paspoort geldig blijft voor de duur van je verblijf, dus drie maanden is prima voor een reis van twee weken. Het Schengengebied vereist drie maanden na je vertrekdag, dus met nog drie maanden geldigheid zit je veel te krap. Thailand wil zes maanden vanaf je aankomstdag, dus met nog drie maanden geldigheid word je bij het inchecken geweigerd.
+
+### Geldt de 6 maanden-regel ook als ik alleen door een land reis (transit)?
+
+Vaak wel, en dit is de stap die mensen vergeten. De Foreign Office merkt zowel bij het reisadvies voor Australië als voor de Verenigde Staten op dat je, als je onderweg via een ander land reist, ook aan de inreisvereisten van dat land moet voldoen, en veel daarvan vragen zes maanden. Dezelfde bestemming kan andere documentvereisten hebben op een directe vlucht dan op een vlucht met een tussenstop.
 
 ## Gerelateerde artikelen
 

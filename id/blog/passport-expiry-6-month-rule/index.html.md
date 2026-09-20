@@ -53,7 +53,7 @@ Tabel berikut mencakup tujuan paling umum. Kebijakan bisa berubah, jadi selalu p
 | India | 6 bulan | Visa juga diperlukan untuk sebagian besar kewarganegaraan |
 | Kenya | 6 bulan | eVisa diperlukan; aturan 6 bulan berlaku |
 | Turki | 6 bulan *(disarankan)* | Secara resmi 60 hari setelah masa tinggal; maskapai menerapkan standar 6 bulan |
-| UE / Schengen | Hanya durasi kunjungan | Beberapa negara mensyaratkan 3 bulan setelah keberangkatan |
+| UE / Schengen | 3 bulan setelah keberangkatan | Ditambah tanggal penerbitan di bawah 10 tahun |
 | Inggris Raya | Hanya durasi kunjungan | Warga negara Inggris di luar negeri tetap tunduk pada aturan negara tujuan |
 | AS | Hanya durasi kunjungan | Warga negara AS di luar negeri tunduk pada aturan negara tujuan |
 | Jepang / Australia / Selandia Baru | Hanya durasi kunjungan | Tidak ada aturan perpanjangan 6 bulan untuk pengunjung |
@@ -62,7 +62,19 @@ Tabel ini hanyalah gambaran sekilas, bukan gambaran lengkap: persyaratan juga be
 
 Persyaratan masa berlaku paspor per negara bisa berubah tanpa pemberitahuan, dan perjanjian bilateral bisa diam-diam mengubah aturan untuk paspor Anda secara spesifik. Itulah sebabnya memeriksa sumber resmi terbaru sebelum setiap perjalanan internasional bukanlah sikap berlebihan, melainkan sekadar kebiasaan baik: gunakan IATA Travel Centre, sistem yang sama yang digunakan maskapai untuk memeriksa dokumen penumpang secara real-time.
 
-**Travel Document Vault** akan menandai paspor mana pun yang masa berlakunya kurang dari enam bulan saat perjalanan Anda berakhir — untuk setiap anggota keluarga, secara otomatis. [Unduh gratis di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** akan menandai paspor mana pun yang masa berlakunya kurang dari enam bulan saat perjalanan Anda berakhir — untuk setiap anggota keluarga, secara otomatis. [Unduh di App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) dan [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
+
+## Kapan Aturan 6 Bulan Tidak Berlaku
+
+Banyak destinasi tidak mensyaratkan apa pun di luar tanggal perjalanan Anda. Kantor Luar Negeri Inggris menyampaikannya dengan jelas untuk Jepang: paspor Anda harus berlaku selama masa kunjungan Anda, dan tidak diperlukan masa berlaku tambahan. Australia dan Amerika Serikat menerapkan standar yang sama, hanya mensyaratkan paspor Anda tetap berlaku selama masa kunjungan yang Anda rencanakan.
+
+Eropa berada di posisi tengah, dan inilah kategori yang paling sering disalahpahami orang. Untuk mengunjungi wilayah Schengen, Kantor Luar Negeri Inggris menyatakan paspor Anda harus memiliki tanggal kedaluwarsa setidaknya tiga bulan setelah hari Anda berencana berangkat. Tiga bulan, bukan enam.
+
+Ada syarat kedua untuk Schengen yang jauh lebih sering menjebak orang daripada syarat pertama: tanggal penerbitan paspor Anda harus kurang dari sepuluh tahun sebelum hari Anda tiba. Kedua syarat ini harus terpenuhi, dan sebuah paspor bisa memenuhi satu syarat namun gagal pada syarat lainnya.
+
+Aturan kedua itu ada karena cara paspor Inggris dulu diperbarui. Kantor Paspor menambahkan sisa masa berlaku yang belum terpakai, hingga sembilan bulan, ke paspor baru Anda jika Anda memperpanjang lebih awal. Akibatnya, sebuah paspor bisa menunjukkan tanggal kedaluwarsa yang tampak sangat sehat, padahal tanggal penerbitannya sudah lebih dari sepuluh tahun ke belakang. Kantor Luar Negeri Inggris memperingatkan bahwa paspor yang diperbarui sebelum 1 Oktober 2018 mungkin membawa masalah persis seperti itu, dan tidak berlaku untuk masuk ke Schengen berapa pun sisa masa berlakunya.
+
+Ada satu jebakan lagi, dan ini berlaku bahkan untuk destinasi yang persyaratannya longgar. Kantor Luar Negeri Inggris mencatat dalam nasihat perjalanannya untuk Australia maupun Amerika Serikat bahwa jika Anda transit melalui negara lain di tengah perjalanan, Anda juga harus memenuhi persyaratan masuk negara tersebut, dan banyak di antaranya mensyaratkan enam bulan. Destinasi yang sama bisa memiliki persyaratan dokumen berbeda antara penerbangan langsung dan penerbangan dengan satu kali transit.
 
 ## Bagaimana Maskapai Menerapkan Aturan Ini - Bahkan Saat Negara Tidak
 
@@ -132,13 +144,21 @@ Ya. Maskapai memeriksa masa berlaku paspor menggunakan basis data persyaratan ma
 
 Hitung enam bulan ke depan dari hari Anda meninggalkan negara tujuan, lalu periksa apakah paspor Anda kedaluwarsa setelah tanggal tersebut. Itu adalah tanggal yang lebih akhir dari dua tanggal yang digunakan berbagai negara, sehingga mencakup keduanya. Jika Anda dijadwalkan berangkat pada 1 Agustus, paspor Anda harus tetap berlaku hingga setidaknya 1 Februari tahun berikutnya. Aplikasi seperti Travel Document Vault melacak ini secara otomatis untuk setiap anggota keluarga, sehingga Anda tidak perlu menghitung sendiri sebelum setiap perjalanan.
 
-### Apakah aturan 6 bulan berlaku untuk warga negara UE yang bepergian di dalam Eropa?
+### Apakah saya perlu sisa 6 bulan di paspor untuk bepergian ke Eropa?
 
-Umumnya tidak. Negara UE dan Schengen biasanya hanya mensyaratkan paspor Anda tetap berlaku selama durasi kunjungan Anda, mereka tidak menerapkan aturan perpanjangan 6 bulan untuk perjalanan di dalam Eropa. Namun, beberapa negara UE mungkin mensyaratkan paspor Anda tetap berlaku setidaknya tiga bulan setelah keberangkatan yang Anda rencanakan. Selalu periksa persyaratan masuk khusus untuk negara tujuan Anda, karena aturan bisa bervariasi bahkan di dalam wilayah Schengen.
+Tidak, tapi Anda tetap memerlukan lebih dari sekadar durasi kunjungan. Kantor Luar Negeri Inggris (UK Foreign Office) menyatakan bahwa untuk mengunjungi wilayah Schengen, paspor Anda harus memiliki tanggal kedaluwarsa setidaknya tiga bulan setelah hari Anda berencana berangkat, dan tanggal penerbitan kurang dari sepuluh tahun sebelum hari Anda tiba. Aturan kedua inilah yang sering menjebak orang: paspor yang diperbarui sebelum Oktober 2018 bisa membawa tambahan bulan yang mendorong tanggal penerbitannya melewati sepuluh tahun, sehingga tidak berlaku untuk masuk ke Schengen meskipun tanggal kedaluwarsanya masih tampak baik-baik saja.
 
 ### Bagaimana jika paspor satu anggota keluarga memenuhi aturan tapi anggota lain tidak?
 
 Paspor setiap anggota keluarga dinilai secara individual, tidak ada aturan kelompok. Ini berarti satu paspor bisa memenuhi persyaratan 6 bulan sementara paspor lain tidak, yang berpotensi menghalangi orang tersebut untuk bepergian. Periksa setiap paspor dalam kelompok terhadap persyaratan masa berlaku negara tujuan sebelum memesan. Aplikasi seperti Travel Document Vault memungkinkan Anda melacak tanggal kedaluwarsa paspor setiap anggota keluarga secara terpisah, sehingga Anda menemukan celah semacam ini sebelum petugas check-in menemukannya.
+
+### Bisakah saya bepergian jika masa berlaku paspor saya tersisa 3 bulan?
+
+Ini sepenuhnya bergantung ke mana Anda pergi. Jepang, Australia, dan Amerika Serikat hanya mensyaratkan paspor Anda tetap berlaku selama masa kunjungan Anda, sehingga sisa tiga bulan sudah cukup untuk perjalanan dua minggu. Wilayah Schengen mensyaratkan tiga bulan setelah hari Anda berangkat, jadi sisa tiga bulan sudah terlalu mepet. Thailand mensyaratkan enam bulan dari hari Anda tiba, sehingga sisa tiga bulan berarti penolakan saat check-in.
+
+### Apakah aturan 6 bulan berlaku jika saya hanya transit melalui suatu negara?
+
+Seringkali, ya, dan inilah langkah yang sering dilupakan orang. Kantor Luar Negeri Inggris mencatat dalam nasihat perjalanannya untuk Australia maupun Amerika Serikat bahwa jika Anda transit melalui negara lain di tengah perjalanan, Anda juga perlu memenuhi persyaratan masuk negara tersebut, dan banyak di antaranya mensyaratkan enam bulan. Destinasi yang sama bisa memiliki persyaratan dokumen berbeda antara penerbangan langsung dan penerbangan dengan satu kali transit.
 
 ## Artikel Terkait
 

@@ -53,7 +53,7 @@ La siguiente tabla cubre los destinos más comunes. Las políticas cambian, así
 | India | 6 meses | Visado también requerido para la mayoría de nacionalidades |
 | Kenia | 6 meses | eVisa requerido; la regla de 6 meses aplica |
 | Turquía | 6 meses *(recomendado)* | Oficialmente 60 días después de la estancia; las aerolíneas aplican el estándar de 6 meses |
-| UE / Schengen | Solo duración de la estancia | Algunos países requieren 3 meses después de la salida |
+| UE / Schengen | 3 meses después de la salida | Más una fecha de expedición de menos de 10 años |
 | Reino Unido | Solo duración de la estancia | Los ciudadanos británicos al extranjero aún están sujetos a las reglas del país de destino |
 | EE.UU. | Solo duración de la estancia | Los ciudadanos estadounidenses al extranjero están sujetos a las reglas del país de destino |
 | Japón / Australia / Nueva Zelanda | Solo duración de la estancia | Sin regla de extensión de 6 meses para visitantes |
@@ -64,7 +64,19 @@ Los requisitos de validez del pasaporte por país cambian sin previo aviso —un
 
 Siempre verifica tus requisitos específicos usando el IATA Travel Centre, el sistema que las aerolíneas usan para verificar documentos de pasajeros en tiempo real.
 
-**Travel Document Vault** señala cualquier pasaporte que se quede sin seis meses de validez para cuando termine tu viaje —para cada miembro de la familia, automáticamente. [Descárgalo gratis en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** señala cualquier pasaporte que se quede sin seis meses de validez para cuando termine tu viaje —para cada miembro de la familia, automáticamente. [Descárgalo en App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) y [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
+
+## Cuándo No Se Aplica la Regla de los 6 Meses
+
+Muchos destinos no piden nada más allá de las fechas de tu viaje. El Foreign Office del Reino Unido lo expresa claramente para Japón: tu pasaporte debe ser válido durante la duración de tu estancia, y no se requiere ningún periodo adicional de validez. Australia y Estados Unidos usan el mismo estándar, pidiendo solo que tu pasaporte permanezca válido durante la duración de tu estancia prevista.
+
+Europa se sitúa en un punto intermedio, y es el nivel que la gente malinterpreta con más frecuencia. Para visitar el área Schengen, el Foreign Office dice que tu pasaporte necesita una fecha de vencimiento de al menos tres meses después del día que planeas salir. Tres meses, no seis.
+
+Hay una segunda condición Schengen que sorprende a la gente mucho más a menudo que la primera: tu fecha de expedición tiene que ser de menos de diez años antes del día que llegas. Ambas condiciones deben cumplirse, y un pasaporte puede cumplir una mientras falla la otra.
+
+Esa segunda regla existe por la forma en que se renovaban antes los pasaportes británicos. La Passport Office añadía la validez no utilizada, hasta nueve meses, al nuevo pasaporte cuando lo renovabas antes de tiempo. Así que un pasaporte puede mostrar una fecha de vencimiento perfectamente saludable mientras su fecha de expedición tiene más de diez años. El Foreign Office advierte que un pasaporte renovado antes del 1 de octubre de 2018 puede tener exactamente ese problema, y no es válido para la entrada Schengen sin importar cuánto tiempo le quede.
+
+Hay una trampa más, y se aplica incluso a los destinos más relajados. El Foreign Office señala tanto en su información sobre Australia como sobre Estados Unidos que, si haces tránsito por otro país en el camino, también debes cumplir los requisitos de entrada de ese país, y muchos de ellos piden seis meses. El mismo destino puede tener requisitos de documentación distintos en un vuelo directo que en un vuelo con escala.
 
 ## Cómo las Aerolíneas Aplican la Regla —Incluso Cuando los Países No
 
@@ -134,13 +146,21 @@ Sí. Las aerolíneas verifican la validez del pasaporte usando una base de datos
 
 Cuenta seis meses hacia adelante desde el día que sales del destino, luego comprueba si tu pasaporte vence después de esa fecha. Esa es la más tardía de las dos fechas que usan los países, así que cubre ambos casos. Si sales el 1 de agosto, tu pasaporte necesita ser válido hasta por lo menos el 1 de febrero del año siguiente. Apps como Travel Document Vault rastrean esto automáticamente para cada miembro de la familia, para que no tengas que hacer las matemáticas antes de cada viaje.
 
-### ¿Se aplica la regla de los 6 meses a ciudadanos de la UE que viajan dentro de Europa?
+### ¿Necesito seis meses de validez en mi pasaporte para viajar a Europa?
 
-Generalmente, no. Los países de la UE y del área Schengen típicamente solo requieren que tu pasaporte sea válido por la duración de tu estancia —no aplican la regla de extensión de 6 meses para viajes intra-europeos. Sin embargo, algunos países de la UE pueden requerir que tu pasaporte sea válido por lo menos tres meses después de tu salida prevista. Siempre verifica los requisitos de entrada específicos de tu país de destino, ya que las reglas pueden variar incluso dentro del área Schengen.
+No, pero sí necesitas más que la duración de tu estancia. El Foreign Office del Reino Unido indica que, para visitar el área Schengen, tu pasaporte necesita una fecha de vencimiento de al menos tres meses después del día que planeas salir, y una fecha de expedición de menos de diez años antes del día que llegas. Esa segunda regla es la que sorprende a la gente: un pasaporte renovado antes de octubre de 2018 puede llevar meses adicionales que empujan su fecha de expedición más allá de los diez años, lo que lo invalida para la entrada Schengen aunque la fecha de vencimiento parezca correcta.
 
 ### ¿Qué pasa si el pasaporte de un miembro de la familia cumple la regla pero el de otro no?
 
 El pasaporte de cada miembro de la familia se evalúa individualmente —no hay regla de grupo. Esto significa que un pasaporte podría cumplir el requisito de 6 meses mientras que otro no, potencialmente impidiendo que esa persona viaje. Verifica cada pasaporte del grupo contra los requisitos de validez del destino antes de reservar. Apps como Travel Document Vault te permiten rastrear el vencimiento del pasaporte de cada miembro de la familia por separado para que detectes estas brechas antes de que lo haga el check-in.
+
+### ¿Puedo viajar si mi pasaporte vence en 3 meses?
+
+Depende totalmente de a dónde vayas. Japón, Australia y Estados Unidos solo piden que tu pasaporte permanezca válido durante la duración de tu estancia, así que tres meses son suficientes para un viaje de dos semanas. El área Schengen necesita tres meses más allá del día que sales, así que tener tres meses restantes es ir demasiado al límite. Tailandia pide seis meses desde el día que llegas, así que tres meses restantes significa que te rechazarán en el check-in.
+
+### ¿Se aplica la regla de los 6 meses si solo estoy en tránsito por un país?
+
+A menudo sí, y es el paso que la gente olvida. El Foreign Office señala tanto en su información de viaje sobre Australia como sobre Estados Unidos que, si haces tránsito por otro país en el camino, también debes cumplir los requisitos de entrada de ese país, y muchos de ellos piden seis meses. El mismo destino puede tener requisitos de documentación distintos en un vuelo directo que en un vuelo con escala.
 
 ## Artículos Relacionados
 

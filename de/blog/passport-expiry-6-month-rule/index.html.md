@@ -53,7 +53,7 @@ Die folgende Tabelle deckt die häufigsten Ziele ab. Richtlinien ändern sich, a
 | India | 6 Monate | Visum auch für die meisten Nationalitäten erforderlich |
 | Kenya | 6 Monate | eVisa erforderlich; Sechsmonats-Regel gilt |
 | Turkey | 6 Monate *(empfohlen)* | Offiziell 60 Tage über Aufenthalt hinaus; Airlines wenden Sechsmonats-Standard an |
-| EU / Schengen | Nur Aufenthaltsdauer | Einige Länder erfordern 3 Monate über die Abreise hinaus |
+| EU / Schengen | 3 Monate über die Abreise hinaus | Plus ein Ausstellungsdatum unter 10 Jahren |
 | United Kingdom | Nur Aufenthaltsdauer | Britische Bürger im Ausland unterliegen immer noch den Regeln des Ziellandes |
 | USA | Nur Aufenthaltsdauer | Amerikanische Bürger im Ausland unterliegen den Regeln des Ziellandes |
 | Japan / Australia / NZ | Nur Aufenthaltsdauer | Keine Sechsmonats-Erweiterungsregel für Besucher |
@@ -64,7 +64,19 @@ Anforderungen zur Reisepass-Gültigkeit nach Land ändern sich ohne Vorankündig
 
 Überprüfen Sie Ihre spezifischen Anforderungen immer mit dem IATA Travel Centre, dem System, das Airlines verwenden, um Passagierdokumente in Echtzeit zu überprüfen.
 
-**Travel Document Vault** markiert jeden Reisepass, der zum Ende Ihrer Reise keine sechs Monate Gültigkeit mehr hat – für jedes Familienmitglied automatisch. [Jetzt kostenlos im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** markiert jeden Reisepass, der zum Ende Ihrer Reise keine sechs Monate Gültigkeit mehr hat – für jedes Familienmitglied automatisch. [Im App Store herunterladen](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) und [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
+
+## Wann die Sechsmonats-Regel nicht gilt
+
+Viele Reiseziele verlangen nichts über die Daten Ihrer Reise hinaus. Das britische Foreign Office formuliert es für Japan ganz klar: Ihr Reisepass muss für die Dauer Ihres Aufenthalts gültig sein, eine zusätzliche Gültigkeitsdauer wird nicht verlangt. Australien und die Vereinigten Staaten wenden denselben Standard an und verlangen nur, dass Ihr Reisepass für die Dauer Ihres geplanten Aufenthalts gültig bleibt.
+
+Europa liegt dazwischen, und das ist die Stufe, die am häufigsten falsch verstanden wird. Für die Einreise in den Schengen-Raum braucht Ihr Reisepass laut Foreign Office ein Ablaufdatum von mindestens drei Monaten nach dem geplanten Ausreisetag. Drei Monate, nicht sechs.
+
+Es gibt eine zweite Schengen-Bedingung, die deutlich häufiger übersehen wird als die erste: Ihr Ausstellungsdatum muss weniger als zehn Jahre vor Ihrer Ankunft liegen. Beide Bedingungen müssen erfüllt sein, und ein Reisepass kann die eine erfüllen und an der anderen scheitern.
+
+Diese zweite Regel geht auf die frühere Praxis bei der Erneuerung britischer Reisepässe zurück. Das Passport Office übertrug bei einer vorzeitigen Erneuerung jede ungenutzte Restgültigkeit, bis zu neun Monate, auf den neuen Reisepass. Dadurch kann ein Reisepass ein völlig gesundes Ablaufdatum zeigen, während sein Ausstellungsdatum mehr als zehn Jahre zurückliegt. Das Foreign Office warnt, dass ein vor dem 1. Oktober 2018 erneuerter Reisepass genau dieses Problem haben kann, und er ist für die Einreise in den Schengen-Raum ungültig, unabhängig davon, wie viel Restgültigkeit noch übrig ist.
+
+Noch ein Haken, der sogar bei den entspannteren Zielen gilt. Das Foreign Office weist sowohl in seinen Hinweisen zu Australien als auch zu den Vereinigten Staaten darauf hin, dass Sie bei einer Zwischenlandung in einem anderen Land auch dessen Einreisebestimmungen erfüllen müssen – und viele davon verlangen sechs Monate. Dasselbe Zielland kann bei einem Direktflug und bei einem Flug mit Zwischenstopp unterschiedliche Dokumentanforderungen haben.
 
 ## Wie Airlines die Regel durchsetzen – auch wenn Länder das nicht tun
 
@@ -134,13 +146,21 @@ Ja. Airlines überprüfen die Reisepass-Gültigkeit mit einer branchenweit verbr
 
 Zählen Sie sechs Monate ab dem Tag, an dem Sie das Ziel verlassen, und überprüfen Sie, ob Ihr Reisepass nach diesem Datum abläuft. Das ist das spätere der beiden Daten, die Länder verwenden, daher deckt es beide Fälle ab. Wenn Sie beispielsweise am 1. August abreisen, muss Ihr Reisepass mindestens bis zum 1. Februar des folgenden Jahres gültig sein. Apps wie Travel Document Vault verfolgen dies automatisch für jedes Familienmitglied, sodass Sie nicht vor jeder Reise rechnen müssen.
 
-### Gilt die Sechsmonats-Regel für EU-Bürger, die innerhalb Europas reisen?
+### Brauche ich sechs Monate Gültigkeit auf meinem Reisepass, um nach Europa zu reisen?
 
-Im Allgemeinen nein. EU- und Schengen-Länder erfordern normalerweise nur, dass Ihr Reisepass für die Dauer Ihres Aufenthalts gültig ist – sie setzen die Sechsmonats-Erweiterungsregel für innereuropäische Reisen nicht um. Einige EU-Länder erfordern jedoch möglicherweise, dass Ihr Reisepass mindestens drei Monate nach Ihrer beabsichtigten Abreise gültig ist. Überprüfen Sie immer die spezifischen Einreisebestimmungen Ihres Ziellandes, da die Regeln auch innerhalb des Schengen-Raums unterschiedlich sein können.
+Nein, aber Sie brauchen mehr als nur die Aufenthaltsdauer. Das britische Foreign Office erklärt, dass Ihr Reisepass für die Einreise in den Schengen-Raum ein Ablaufdatum von mindestens drei Monaten nach dem geplanten Ausreisetag haben muss, sowie ein Ausstellungsdatum, das weniger als zehn Jahre vor Ihrer Ankunft liegt. Die zweite Regel wird oft übersehen: Ein vor Oktober 2018 erneuerter Reisepass kann zusätzliche Monate übertragen bekommen haben, die sein Ausstellungsdatum über die Zehn-Jahres-Grenze schieben – dadurch ist er für die Einreise in den Schengen-Raum ungültig, selbst wenn das Ablaufdatum noch unbedenklich aussieht.
 
 ### Was ist, wenn der Reisepass eines Familienmitglieds die Regel erfüllt, der eines anderen aber nicht?
 
 Der Reisepass jedes Familienmitglieds wird einzeln bewertet – es gibt keine Gruppenregel. Dies bedeutet, dass ein Reisepass die Sechsmonats-Anforderung erfüllen könnte, während ein anderer zu kurz ist, was möglicherweise diese Person vom Reisen abhält. Überprüfen Sie jeden Reisepass in der Gruppe gegen die Gültigkeitsanforderungen des Ziellandes, bevor Sie buchen. Apps wie Travel Document Vault ermöglichen es Ihnen, das Ablaufdatum des Reisepasses jedes Familienmitglieds separat zu verfolgen, damit Sie diese Lücken fangen, bevor das Abfertigung es tut.
+
+### Kann ich reisen, wenn mein Reisepass in 3 Monaten abläuft?
+
+Das hängt ganz von Ihrem Reiseziel ab. Japan, Australien und die Vereinigten Staaten verlangen nur, dass Ihr Reisepass für die Dauer Ihres Aufenthalts gültig bleibt, sodass drei Monate für eine zweiwöchige Reise ausreichen. Der Schengen-Raum verlangt drei Monate über den Ausreisetag hinaus, weshalb drei Monate Restgültigkeit viel zu knapp sind. Thailand verlangt sechs Monate ab dem Ankunftstag, sodass drei Monate Restgültigkeit eine Abweisung bei der Abfertigung bedeuten.
+
+### Gilt die Sechsmonats-Regel auch, wenn ich ein Land nur auf der Durchreise passiere?
+
+Oft ja, und das ist der Schritt, den viele vergessen. Das Foreign Office weist sowohl in seinen Reisehinweisen zu Australien als auch zu den Vereinigten Staaten darauf hin, dass Sie bei einer Zwischenlandung in einem anderen Land auch dessen Einreisebestimmungen erfüllen müssen – und viele davon verlangen sechs Monate. Dasselbe Zielland kann bei einem Direktflug und bei einem Flug mit Zwischenstopp unterschiedliche Dokumentanforderungen haben.
 
 ## Ähnliche Artikel
 

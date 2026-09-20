@@ -53,7 +53,7 @@ Tabellen nedenfor dækker de mest almindelige rejsemål. Regler ændrer sig, så
 | Indien | 6 måneder | Visum kræves også for de fleste nationaliteter |
 | Kenya | 6 måneder | eVisum kræves; 6-måneders-reglen gælder |
 | Tyrkiet | 6 måneder *(anbefalet)* | Officielt 60 dage ud over opholdet; flyselskaber anvender 6-måneders-standarden |
-| EU / Schengen | Kun opholdets varighed | Nogle lande kræver 3 måneder ud over afrejsen |
+| EU / Schengen | 3 måneder efter afrejsen | Plus en udstedelsesdato under 10 år gammel |
 | Storbritannien | Kun opholdets varighed | Britiske statsborgere i udlandet er stadig underlagt destinationens regler |
 | USA | Kun opholdets varighed | Amerikanske statsborgere i udlandet er underlagt destinationslandets regler |
 | Japan / Australien / New Zealand | Kun opholdets varighed | Ingen 6-måneders-regel for besøgende |
@@ -62,7 +62,19 @@ Tabellen er et øjebliksbillede, ikke det fulde overblik: kravene varierer også
 
 Paskrav efter land ændrer sig uden varsel, og en bilateral aftale kan stille og roligt ændre reglerne for netop dit pas, hvilket er grunden til, at det ikke er paranoia at tjekke en opdateret officiel kilde før hver international rejse – det er bare god praksis: brug IATA Travel Centre, det samme system flyselskaberne bruger til at tjekke passagerdokumenter i realtid.
 
-**Travel Document Vault** markerer ethvert pas, der ikke længere har seks måneders gyldighed tilbage, når din rejse slutter – for hvert familiemedlem, automatisk. [Hent gratis fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** markerer ethvert pas, der ikke længere har seks måneders gyldighed tilbage, når din rejse slutter – for hvert familiemedlem, automatisk. [Hent fra App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) og [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
+
+## Hvornår 6-måneders-reglen ikke gælder
+
+Mange rejsemål kræver intet ud over selve rejsens datoer. Det britiske udenrigsministerium (Foreign Office) siger det ligeud om Japan: dit pas skal være gyldigt i opholdets varighed, og der kræves ingen yderligere gyldighedsperiode. Australien og USA anvender samme standard og kræver kun, at dit pas er gyldigt i den planlagte opholdsperiode.
+
+Europa ligger midt imellem, og det er det niveau, folk oftest misforstår. For at besøge Schengenområdet siger Foreign Office, at dit pas skal have en udløbsdato mindst tre måneder efter den dag, du planlægger at rejse hjem. Tre måneder, ikke seks.
+
+Der findes en anden Schengen-betingelse, som overrasker folk langt oftere end den første: udstedelsesdatoen skal være mindre end ti år før den dag, du ankommer. Begge betingelser skal være opfyldt, og et pas kan opfylde den ene, mens det fejler den anden.
+
+Den anden regel findes på grund af, hvordan britiske pas tidligere blev fornyet. Passkontoret lagde ubrugt gyldighed, op til ni måneder, oveni det nye pas, når man fornyede tidligt. Derfor kan et pas have en helt fin udløbsdato, mens udstedelsesdatoen ligger mere end ti år tilbage. Foreign Office advarer om, at et pas, der er fornyet før 1. oktober 2018, kan have netop det problem, og det er ugyldigt til indrejse i Schengenområdet, uanset hvor lang gyldighed der er tilbage.
+
+Endnu en faldgrube, som gælder selv de mere afslappede rejsemål. Foreign Office bemærker i både sin Australien- og sin USA-rejsevejledning, at hvis du er i transit gennem et andet land undervejs, skal du også opfylde det lands indrejsekrav, og mange af dem kræver seks måneder. Det samme rejsemål kan have forskellige dokumentkrav på en direkte flyafgang og på en flyafgang med mellemlanding.
 
 ## Sådan håndhæver flyselskaberne reglen – selv når landene ikke gør det
 
@@ -132,13 +144,21 @@ Ja. Flyselskaber tjekker pasgyldighed ved hjælp af en brancheomfattende databas
 
 Tæl seks måneder frem fra den dag, du forlader destinationen, og tjek derefter, om dit pas udløber efter den dato. Det er den seneste af de to datoer, lande bruger, så den dækker begge tilfælde. Skal du rejse den 1. august, skal passet være gyldigt til mindst den 1. februar året efter. Apps som Travel Document Vault sporer det automatisk for hvert familiemedlem, så du ikke selv skal regne det ud før hver rejse.
 
-### Gælder 6-måneders-reglen for EU-borgere, der rejser inden for Europa?
+### Skal jeg have seks måneders gyldighed på mit pas for at rejse til Europa?
 
-Generelt nej. EU- og Schengenlande kræver typisk kun, at dit pas er gyldigt i hele opholdets varighed – de anvender ikke 6-måneders-forlængelsesreglen for rejser inden for Europa. Nogle EU-lande kan dog kræve, at dit pas er gyldigt i mindst tre måneder ud over din planlagte afrejse. Tjek altid de specifikke indrejsekrav for dit rejsemål, da reglerne kan variere selv inden for Schengenområdet.
+Nej, men du skal bruge mere end blot opholdets varighed. Det britiske udenrigsministerium (Foreign Office) oplyser, at for at besøge Schengenområdet skal dit pas have en udløbsdato mindst tre måneder efter den dag, du planlægger at rejse hjem, samt en udstedelsesdato mindre end ti år før den dag, du ankommer. Den anden regel er der, folk snubler over: et pas, der er fornyet før oktober 2018, kan have ekstra måneder tilføjet, som skubber udstedelsesdatoen ud over ti år, hvilket gør det ugyldigt til indrejse i Schengenområdet, selv når udløbsdatoen stadig ser fin ud.
 
 ### Hvad hvis ét familiemedlems pas overholder reglen, men et andets ikke gør?
 
 Hvert familiemedlems pas vurderes individuelt – der findes ingen gruppregel. Det betyder, at ét pas kan opfylde 6-måneders-kravet, mens et andet ikke gør, hvilket potentielt kan forhindre den person i at rejse. Tjek hvert pas i gruppen mod destinationens gyldighedskrav, før I booker. Apps som Travel Document Vault lader dig spore hvert familiemedlems pasudløb separat, så du fanger den slags huller, før indtjekningen gør.
+
+### Kan jeg rejse, hvis mit pas udløber om 3 måneder?
+
+Det afhænger helt af, hvor du skal hen. Japan, Australien og USA kræver kun, at dit pas er gyldigt i opholdets varighed, så tre måneder er fint til en to-ugers rejse. Schengenområdet kræver tre måneder ud over den dag, du rejser hjem, så tre måneders gyldighed er alt for stramt. Thailand kræver seks måneder fra ankomstdagen, så tre måneders gyldighed betyder afvisning ved indtjekningen.
+
+### Gælder 6-måneders-reglen, hvis jeg kun er i transit gennem et land?
+
+Ofte, ja, og det er det skridt, folk glemmer. Foreign Office bemærker i både sin Australien- og sin USA-rejsevejledning, at hvis du er i transit gennem et andet land undervejs, skal du også opfylde det lands indrejsekrav, og mange af dem kræver seks måneder. Det samme rejsemål kan have forskellige dokumentkrav på en direkte flyafgang og på en flyafgang med mellemlanding.
 
 ## Relaterede artikler
 

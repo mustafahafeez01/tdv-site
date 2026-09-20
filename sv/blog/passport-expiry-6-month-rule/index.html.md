@@ -53,7 +53,7 @@ Tabellen nedan täcker de vanligaste resmålen. Regler ändras, så kontrollera 
 | Indien | 6 månader | Visum krävs också för de flesta nationaliteter |
 | Kenya | 6 månader | eVisum krävs; 6-månadersregeln gäller |
 | Turkiet | 6 månader *(rekommenderas)* | Officiellt 60 dagar utöver vistelsen; flygbolagen tillämpar 6-månadersstandarden |
-| EU / Schengen | Endast vistelsetiden | Vissa länder kräver 3 månader utöver avresan |
+| EU / Schengen | 3 månader utöver avresan | Plus ett utfärdandedatum under 10 år gammalt |
 | Storbritannien | Endast vistelsetiden | Brittiska medborgare utomlands omfattas ändå av destinationslandets regler |
 | USA | Endast vistelsetiden | Amerikanska medborgare utomlands omfattas av destinationslandets regler |
 | Japan / Australien / Nya Zeeland | Endast vistelsetiden | Ingen 6-månadersregel för besökare |
@@ -62,7 +62,19 @@ Tabellen är en ögonblicksbild, inte den fullständiga bilden: kraven varierar 
 
 Passkrav per land ändras utan förvarning, och ett bilateralt avtal kan i tysthet ändra reglerna för just ditt pass, vilket är varför det inte är överdrivet försiktigt att kontrollera en aktuell officiell källa inför varje internationell resa – det är bara god vana: använd IATA Travel Centre, samma system flygbolagen använder för att kontrollera resenärers handlingar i realtid.
 
-**Travel Document Vault** flaggar varje pass som inte har sex månaders giltighet kvar när resan tar slut – för varje familjemedlem, automatiskt. [Ladda ner gratis på App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** flaggar varje pass som inte har sex månaders giltighet kvar när resan tar slut – för varje familjemedlem, automatiskt. [Ladda ner på App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) och [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
+
+## När 6-månadersregeln inte gäller
+
+Många resmål kräver inget utöver resans datum. Brittiska utrikesdepartementet är tydligt när det gäller Japan: passet måste vara giltigt under hela vistelsen, och ingen ytterligare giltighetstid krävs. Australien och USA tillämpar samma standard och kräver bara att passet är giltigt under den planerade vistelsen.
+
+Europa hamnar mitt emellan, och det är den nivå som folk missförstår oftast. För att besöka Schengenområdet säger utrikesdepartementet att passet behöver ett utgångsdatum minst tre månader efter den dag du planerar att lämna landet. Tre månader, inte sex.
+
+Det finns ett andra Schengenvillkor som fångar folk på sängen betydligt oftare än det första: utfärdandedatumet måste ligga mindre än tio år före den dag du anländer. Båda villkoren måste uppfyllas, och ett pass kan uppfylla det ena men brista på det andra.
+
+Den andra regeln finns på grund av hur brittiska pass tidigare förnyades. Passmyndigheten lade till eventuell outnyttjad giltighet, upp till nio månader, på det nya passet när man förnyade det i förtid. Ett pass kan alltså visa ett fullt friskt utgångsdatum samtidigt som utfärdandedatumet ligger mer än tio år tillbaka. Utrikesdepartementet varnar för att ett pass som förnyades före 1 oktober 2018 kan ha exakt det problemet, och det är ogiltigt för inresa i Schengenområdet oavsett hur mycket giltighet som återstår.
+
+Ytterligare en fälla, och den gäller även för de mer avslappnade resmålen. Utrikesdepartementet påpekar i både sina råd om Australien och USA att om du reser via ett annat land på vägen måste du också uppfylla det landets inresekrav, och många av dem kräver sex månader. Samma resmål kan ha olika dokumentkrav på en direktflight jämfört med en flight med mellanlandning.
 
 ## Så tillämpar flygbolagen regeln – även när länderna inte gör det
 
@@ -132,13 +144,21 @@ Ja. Flygbolag kontrollerar passets giltighet med hjälp av en branschomfattande 
 
 Räkna sex månader framåt från den dag du lämnar destinationen, och kontrollera sedan om passet går ut efter det datumet. Det är det senare av de två datum länder använder, så det täcker båda fallen. Ska du resa den 1 augusti måste passet vara giltigt till minst den 1 februari året därpå. Appar som Travel Document Vault håller reda på detta automatiskt för varje familjemedlem, så du slipper räkna ut det själv inför varje resa.
 
-### Gäller 6-månadersregeln för EU-medborgare som reser inom Europa?
+### Behöver jag sex månader på passet för att resa till Europa?
 
-I regel nej. EU- och Schengenländer kräver oftast bara att passet är giltigt under hela vistelsen – de tillämpar inte 6-månadersregeln för resor inom Europa. Vissa EU-länder kan dock kräva att passet är giltigt i minst tre månader efter den planerade avresan. Kontrollera alltid de specifika inresekraven för ditt resmål, eftersom reglerna kan variera även inom Schengenområdet.
+Nej, men du behöver mer än bara giltighet under vistelsen. Brittiska utrikesdepartementet anger att för att besöka Schengenområdet måste passet ha ett utgångsdatum minst tre månader efter den dag du planerar att lämna landet, och ett utfärdandedatum mindre än tio år före den dag du anländer. Den andra regeln är den som ofta fångar folk på sängen: ett pass som förnyades före oktober 2018 kan ha extra månader som gör att utfärdandedatumet hamnar mer än tio år tillbaka, vilket gör det ogiltigt för inresa i Schengenområdet även om utgångsdatumet fortfarande ser bra ut.
 
 ### Vad händer om en familjemedlems pass uppfyller regeln men en annans inte gör det?
 
 Varje familjemedlems pass bedöms individuellt – det finns ingen gruppregel. Det betyder att ett pass kan uppfylla 6-månaderskravet medan ett annat inte gör det, vilket kan hindra just den personen från att resa. Kontrollera varje pass i gruppen mot destinationens giltighetskrav innan ni bokar. Appar som Travel Document Vault låter dig hålla koll på varje familjemedlems passutgång separat, så du upptäcker sådana luckor innan incheckningen gör det.
+
+### Kan jag resa om passet går ut om 3 månader?
+
+Det beror helt på vart du ska. Japan, Australien och USA kräver bara att passet är giltigt under vistelsens längd, så tre månader räcker gott för en tvåveckorsresa. Schengenområdet kräver tre månader utöver den dag du lämnar landet, så tre månaders giltighet kvar är alldeles för snålt tilltaget. Thailand kräver sex månader från ankomstdagen, så tre månader kvar innebär nekad ombordstigning vid incheckningen.
+
+### Gäller 6-månadersregeln även om jag bara reser i transit genom ett land?
+
+Ofta ja, och det är steget folk glömmer. Utrikesdepartementet påpekar i både sina råd om Australien och USA att om du reser via ett annat land på vägen måste du också uppfylla det landets inresekrav, och många av dem kräver sex månader. Samma resmål kan ha olika dokumentkrav på en direktflight jämfört med en flight med mellanlandning.
 
 ## Relaterade artiklar
 
