@@ -24,7 +24,7 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
-[PassregelnReisepass-Daten erklärt: Ausstellungsdatum, Ablaufdatum und expedition dateDas expedition date im Reisepass ist das Ausstellungsdatum, nicht das Ablaufdatum. Was die beiden Daten jeweils bestimmen.24. August 20266 Min. Lesedauer](https://traveldocumentvault.com/de/blog/how-to-read-your-passport-dates/)
+[PassregelnReisepass richtig lesen: Welches Datum wirklich zähltZwei Daten stehen im selben Format nebeneinander auf der Datenseite – und Formulare, Airlines und Grenzbehörden wollen jeweils ein anderes. Welches ist welches, und woran ältere Reisepässe scheitern.24. August 20266 Min. Lesedauer](https://traveldocumentvault.com/de/blog/how-to-read-your-passport-dates/)
 
 ##
 

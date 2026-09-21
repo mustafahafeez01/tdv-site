@@ -1,6 +1,6 @@
-# Digital Passport Copy: What Counts as Valid ID When Travelling?
+# Digital Passport Copy: Where It Counts and Where It Doesn't
 
-> Airlines, hotels, embassies and border officers each treat digital passport copies differently. Where a copy helps, and where you still need the original.
+> The copy you make yourself opens hotel check-in and speeds up an embassy replacement, but no gate or border takes it. Where it counts, and how to store it.
 
 Source: https://traveldocumentvault.com/blog/digital-passport-copy-valid/
 

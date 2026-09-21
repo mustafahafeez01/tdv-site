@@ -1,6 +1,6 @@
-# Travel Insurance Documents: What to Save Before You Go
+# Do You Need to Print Travel Insurance Documents? Usually Not
 
-> Your policy number, the claims line and proof of purchase matter more than the certificate. What to save before you fly, and where to keep it offline.
+> Hospitals and insurers generally ask for a policy number and the 24-hour line, not a printout. What to keep offline, and the claims refused without it.
 
 Source: https://traveldocumentvault.com/blog/travel-insurance-documents/
 

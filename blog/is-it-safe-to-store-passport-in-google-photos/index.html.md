@@ -1,6 +1,6 @@
-# Is Your Passport Safe in Google Photos? Not Really
+# Passport in Google Photos? The Real Risk Is Your Account
 
-> One phished Google account exposes every photo in it, passport included, and Google's terms allow automated scanning. The risks, and where a scan is safer.
+> Google isn't reading your passport. A reused password is how a scan leaks, and it takes every photo with it. What to change, and where a scan is safer.
 
 Source: https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/
 

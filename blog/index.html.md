@@ -24,7 +24,7 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
-[Passport RulesPassport Dates Explained: Issue, Expiry and Date of ExpeditionDate of expedition on a passport means the date of issue, not the expiry. What each of the two dates controls, and which one entry forms actually want.Aug 24, 20266 min read](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/)
+[Passport RulesHow to Read Your Passport: Which Date Actually MattersTwo dates sit side by side on the data page in the same format, and forms, airlines and border rules each want a different one. Which is which, and the one older passports fail on.Aug 24, 20266 min read](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/)
 
 ##
 
@@ -36,7 +36,7 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
-[Travel PrepTravel Insurance Documents: What to Save Before You GoLearn what travel insurance documents to save before you fly, where to store them offline, and how to avoid the common claims mistakes that get policies refused.August 3, 20269 min read](https://traveldocumentvault.com/blog/travel-insurance-documents/)
+[Travel PrepDo You Need to Print Travel Insurance Documents? Usually NotYou don't need to print the policy. What hospitals and insurers actually ask for, what to keep reachable offline, and the claims that get refused for missing paperwork.August 3, 20269 min read](https://traveldocumentvault.com/blog/travel-insurance-documents/)
 
 ##
 
@@ -92,7 +92,7 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
-[Passport Rules Digital Passport Copy: What Counts as Valid ID When Travelling? Airlines, hotels, embassies, and border officers all treat digital passport copies differently. Here's exactly where a digital copy helps - and where you absolutely need the physical document. Apr 4, 20267 min read](https://traveldocumentvault.com/blog/digital-passport-copy-valid/)
+[Passport Rules Digital Passport Copy: Where It Counts and Where It Doesn't The copy you make yourself opens hotel check-in and speeds up an embassy replacement, but no gate or border takes it. Where it counts, and how to store it. Apr 4, 20267 min read](https://traveldocumentvault.com/blog/digital-passport-copy-valid/)
 
 ##
 
@@ -112,7 +112,7 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
-[Travel Tools Best Passport Organizer App in 2026: A Practical Guide for Families Not all passport organizer apps are built the same. Here's what to look for - and what to avoid - when choosing one for your family's travel documents. Mar 4, 20268 min read](https://traveldocumentvault.com/blog/best-passport-organizer-app/)
+[Travel Tools Best Passport Organizer App: On-Device, Not Cloud Four passports, four expiry dates, one app. What to check before you trust any organizer with your family's scans - encryption, backups, who can see them. Mar 4, 20268 min read](https://traveldocumentvault.com/blog/best-passport-organizer-app/)
 
 ##
 
@@ -120,7 +120,7 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
-[Privacy Is It Safe to Store Your Passport in Google Photos? What You Need to Know Millions of people store passport scans in Google Photos without thinking about it. Here's an honest look at the risks, how they compare to alternatives, and what to do instead if you want stronger protection. Feb 15, 20267 min read](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/)
+[Privacy Passport in Google Photos? The Real Risk Is Your Account Google isn't reading your passport. A reused password is how a scan leaks, and it takes every photo with it. What to change, and where a scan is safer. Feb 15, 20267 min read](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/)
 
 ##
 

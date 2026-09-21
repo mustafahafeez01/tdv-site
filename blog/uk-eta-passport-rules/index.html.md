@@ -1,6 +1,6 @@
-# UK ETA: Which Passport Is Yours Tied To?
+# Is the UK ETA Linked to Your Passport? Yes, to the Number
 
-> Your UK ETA is tied to the specific passport you applied with. Renew that passport and you'll need a new ETA. Here's why.
+> Renew your passport and the ETA stays on the old number, so you apply again. The renewal timeline that catches people out, and why each child needs one.
 
 Source: https://traveldocumentvault.com/blog/uk-eta-passport-rules/
 

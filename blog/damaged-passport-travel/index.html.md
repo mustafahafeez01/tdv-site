@@ -1,6 +1,6 @@
-# Can You Travel with a Damaged Passport? Rules and What to Do
+# Can You Travel with a Damaged Passport? What Agents Check
 
-> A scuff or water stain rarely grounds a passport. Airlines and border staff decide case by case - what generally passes, and how to avoid a refusal.
+> Most wear passes. Staff check the data page, the machine-readable strip and whether the booklet holds together. What to do if yours is in doubt.
 
 Source: https://traveldocumentvault.com/blog/damaged-passport-travel/
 

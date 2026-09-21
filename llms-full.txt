@@ -424,9 +424,9 @@ Many countries now accept digital copies on mobile devices or printed from digit
 
 ---
 
-# Can You Travel with a Damaged Passport? Rules and What to Do
+# Can You Travel with a Damaged Passport? What Agents Check
 
-> A scuff or water stain rarely grounds a passport. Airlines and border staff decide case by case - what generally passes, and how to avoid a refusal.
+> Most wear passes. Staff check the data page, the machine-readable strip and whether the booklet holds together. What to do if yours is in doubt.
 
 Source: https://traveldocumentvault.com/blog/damaged-passport-travel/
 
@@ -543,9 +543,9 @@ It depends where you are and how close your trip is, and published processing ti
 
 ---
 
-# Digital Passport Copy: What Counts as Valid ID When Travelling?
+# Digital Passport Copy: Where It Counts and Where It Doesn't
 
-> Airlines, hotels, embassies and border officers each treat digital passport copies differently. Where a copy helps, and where you still need the original.
+> The copy you make yourself opens hotel check-in and speeds up an embassy replacement, but no gate or border takes it. Where it counts, and how to store it.
 
 Source: https://traveldocumentvault.com/blog/digital-passport-copy-valid/
 
@@ -1721,9 +1721,9 @@ They come from separate international treaties. Most travel is covered by the 19
 
 ---
 
-# Is Your Passport Safe in Google Photos? Not Really
+# Passport in Google Photos? The Real Risk Is Your Account
 
-> One phished Google account exposes every photo in it, passport included, and Google's terms allow automated scanning. The risks, and where a scan is safer.
+> Google isn't reading your passport. A reused password is how a scan leaks, and it takes every photo with it. What to change, and where a scan is safer.
 
 Source: https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/
 
@@ -3129,9 +3129,9 @@ No, but you still cannot travel with it. A damaged passport may be rejected by a
 
 ---
 
-# Travel Insurance Documents: What to Save Before You Go
+# Do You Need to Print Travel Insurance Documents? Usually Not
 
-> Your policy number, the claims line and proof of purchase matter more than the certificate. What to save before you fly, and where to keep it offline.
+> Hospitals and insurers generally ask for a policy number and the 24-hour line, not a printout. What to keep offline, and the claims refused without it.
 
 Source: https://traveldocumentvault.com/blog/travel-insurance-documents/
 
@@ -3653,9 +3653,9 @@ It depends on the document. Cloud services are convenient for booking confirmati
 
 ---
 
-# UK ETA: Which Passport Is Yours Tied To?
+# Is the UK ETA Linked to Your Passport? Yes, to the Number
 
-> Your UK ETA is tied to the specific passport you applied with. Renew that passport and you'll need a new ETA. Here's why.
+> Renew your passport and the ETA stays on the old number, so you apply again. The renewal timeline that catches people out, and why each child needs one.
 
 Source: https://traveldocumentvault.com/blog/uk-eta-passport-rules/
 

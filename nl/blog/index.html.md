@@ -24,7 +24,7 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
-[PaspoortregelsPaspoortdata uitgelegd: afgiftedatum, vervaldatum en expedition dateDe expedition date in een paspoort is de afgiftedatum, niet de vervaldatum. Wat beide data bepalen.24 augustus 20266 min leestijd](https://traveldocumentvault.com/nl/blog/how-to-read-your-passport-dates/)
+[PaspoortregelsJe paspoort lezen: welke datum er echt toe doetTwee data staan in hetzelfde formaat naast elkaar op de datapagina, en formulieren, luchtvaartmaatschappijen en grensregels willen elk een andere. Welke is welke, en waar oudere paspoorten op stuklopen.24 augustus 20266 min leestijd](https://traveldocumentvault.com/nl/blog/how-to-read-your-passport-dates/)
 
 ##
 
