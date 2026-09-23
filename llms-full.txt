@@ -2623,9 +2623,9 @@ For families, a dedicated encrypted app that stores documents for multiple peopl
 
 ---
 
-# EES Tracks Your Schengen 90 Days but Won't Show the Count
+# EES Days Left: How to Count Your Schengen 90/180 Window
 
-> EES logs every Schengen entry and exit and flags overstays, but no portal shows your remaining days. How to count your 90/180 window yourself.
+> How many Schengen days do you have left? The EES logs every entry and exit but shows no running total - you count the 90/180 window yourself. Here's how.
 
 Source: https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/
 
