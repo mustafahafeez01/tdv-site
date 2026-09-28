@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
+[Persyaratan VisaApakah Anda Perlu Visa Transit untuk Layover?Tidak semua penerbangan lanjutan membutuhkan visa transit. Pelajari kapan diperlukan, bagaimana kewarganegaraan memengaruhi aturan, dan langkah yang harus diambil jika baru menyadarinya setelah memesan.28 September 20267 menit baca](https://traveldocumentvault.com/id/blog/transit-visa-connecting-flights/)
+
+##
+
 [Perjalanan KeluargaMengajukan Paspor Pertama untuk AnakPersetujuan untuk mengajukan permohonan tidak sama dengan persetujuan untuk bepergian, dan bayi tidak bisa mengikuti aturan foto orang dewasa. Apa saja yang sebenarnya diminta dalam permohonan pertama, langkah demi langkah.15 September 20266 menit baca](https://traveldocumentvault.com/id/blog/child-first-passport-application/)
 
 ##

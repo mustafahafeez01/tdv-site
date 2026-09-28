@@ -114,6 +114,8 @@ The app counts days per person, per country, across all your trips, and projects
 
 ## Related Articles
 
+[Visa Requirements7 min readDo You Need a Transit Visa for a Layover?](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/)
+
 [Family Travel6 min read · July 2026Schengen Passport Rules for Family Trips: What Parents Get Wrong](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
 
 [Visas & Entry7 min read · May 2026ETIAS: What Documents You Need and How to Apply](https://traveldocumentvault.com/blog/etias-documents-2026/)

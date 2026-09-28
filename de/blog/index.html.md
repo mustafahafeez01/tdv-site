@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
+[VisabestimmungenBrauchen Sie für einen Zwischenstopp ein Transitvisum?Nicht jeder Anschlussflug braucht ein Transitvisum. Erfahren Sie, welche Zwischenstopps eines erfordern, wie die Staatsangehörigkeit die Regel verändert und was zu tun ist, wenn Sie es erst nach der Buchung bemerken.28. September 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/transit-visa-connecting-flights/)
+
+##
+
 [FamilienreisenDen ersten Reisepass eines Kindes beantragenDie Zustimmung zur Beantragung ist nicht dasselbe wie die Zustimmung zur Reise, und ein Baby kann die Fotoregeln für Erwachsene nicht erfüllen. Was ein Erstantrag wirklich von Ihnen verlangt, Schritt für Schritt.15. September 20266 Min. Lesezeit](https://traveldocumentvault.com/de/blog/child-first-passport-application/)
 
 ##

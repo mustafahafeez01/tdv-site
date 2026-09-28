@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
+[ビザ要件乗り継ぎにトランジットビザは必要かすべての乗り継ぎ便にトランジットビザが必要なわけではありません。どのレイオーバーでビザが必要になるか、国籍によってルールがどう変わるか、予約後に必要だと気づいた場合の対処法を解説します。2026年9月28日読了時間 7分](https://traveldocumentvault.com/ja/blog/transit-visa-connecting-flights/)
+
+##
+
 [ファミリー旅行子どもの初めてのパスポート申請申請への同意と渡航への同意は同じではなく、赤ちゃんは大人と同じ写真規定を満たせません。初めての申請で実際に何が求められるのか、手順を追って解説します。2026年9月15日読了時間 6分](https://traveldocumentvault.com/ja/blog/child-first-passport-application/)
 
 ##

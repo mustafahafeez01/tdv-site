@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
+[Requisitos de Visado¿Necesitas un Visado de Tránsito para tu Escala?No todos los vuelos de conexión necesitan visado de tránsito. Descubre qué escalas lo requieren, cómo cambia la norma según tu nacionalidad y qué hacer si lo descubres tras reservar.28 de septiembre de 20267 min de lectura](https://traveldocumentvault.com/es/blog/transit-visa-connecting-flights/)
+
+##
+
 [Viajes en FamiliaEl Primer Pasaporte de tu Hijo: Cómo SolicitarloEl consentimiento para solicitarlo no es el mismo que el consentimiento para viajar, y un bebé no puede cumplir las normas de foto de un adulto. Qué te pide realmente una primera solicitud, paso a paso.15 de septiembre de 20266 min de lectura](https://traveldocumentvault.com/es/blog/child-first-passport-application/)
 
 ##

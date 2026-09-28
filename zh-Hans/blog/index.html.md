@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
+[签证要求转机需要办理过境签证吗？并非所有转机都需要办理过境签证。了解哪些中转需要签证、国籍如何影响这一规则，以及如果订票后才发现需要签证该怎么办。2026年9月28日7 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/transit-visa-connecting-flights/)
+
+##
+
 [家庭旅行为孩子申请第一本护照同意申请和同意出行并不是一回事，婴儿也无法达到成人的照片要求。第一次申请究竟需要你做什么，一步步说明。2026年9月15日6分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/child-first-passport-application/)
 
 ##

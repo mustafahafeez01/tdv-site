@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
+[Requisitos de VistoPrecisa de visto de trânsito para uma escala?Nem todos os voos de ligação exigem visto de trânsito. Saiba quais as escalas que o exigem, como a nacionalidade altera a regra e o que fazer se perceber que precisa de um depois de reservar.28 de setembro de 20267 min de leitura](https://traveldocumentvault.com/pt/blog/transit-visa-connecting-flights/)
+
+##
+
 [Viagens em FamíliaComo Pedir o Primeiro Passaporte de um FilhoDar consentimento para pedir não é o mesmo que dar consentimento para viajar, e um bebé não consegue cumprir as regras de fotografia de um adulto. O que um primeiro pedido exige realmente de si, passo a passo.15 de setembro de 20266 min de leitura](https://traveldocumentvault.com/pt/blog/child-first-passport-application/)
 
 ##

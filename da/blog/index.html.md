@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
+[VisumkravSkal du bruge transitvisum til en mellemlanding?Ikke alle mellemlandinger kræver transitvisum. Få overblik over, hvilke mellemlandinger der kræver det, hvordan nationaliteten ændrer reglen, og hvad du gør, hvis du opdager, at du mangler et, efter du har booket.28. september 20267 min læsning](https://traveldocumentvault.com/da/blog/transit-visa-connecting-flights/)
+
+##
+
 [FamilierejserAt Ansøge om Barnets Første PasSamtykke til at ansøge er ikke det samme som samtykke til at rejse, og en baby kan ikke følge voksnes fotoregler. Hvad en første ansøgning egentlig kræver af dig, trin for trin.15. september 20266 min læsning](https://traveldocumentvault.com/da/blog/child-first-passport-application/)
 
 ##

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
+[VisumkravBehöver du transitvisum för en mellanlandning?Inte alla anslutningsflyg kräver transitvisum. Lär dig vilka mellanlandningar som kräver ett, hur nationaliteten påverkar regeln och vad du gör om du upptäcker att du behöver ett efter bokningen.28 september 20267 min läsning](https://traveldocumentvault.com/sv/blog/transit-visa-connecting-flights/)
+
+##
+
 [FamiljeresorAtt Ansöka om Barnets Första PassSamtycke till ansökan är inte detsamma som samtycke till att resa, och en bebis kan inte följa vuxnas fotoregler. Vad en första ansökan faktiskt kräver av dig, steg för steg.15 september 20266 min läsning](https://traveldocumentvault.com/sv/blog/child-first-passport-application/)
 
 ##

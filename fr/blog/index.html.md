@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 ##
 
+[Exigences de visaAvez-vous besoin d'un visa de transit pour une escale ?Toutes les correspondances n'exigent pas un visa de transit. Découvrez quelles escales en nécessitent un, comment la nationalité change la règle, et que faire si vous le découvrez après avoir réservé.28 septembre 20267 min de lecture](https://traveldocumentvault.com/fr/blog/transit-visa-connecting-flights/)
+
+##
+
 [Voyages en famillePremier passeport d'un enfant : comment faire la demandeDonner son consentement pour la demande n'est pas la même chose que donner son consentement pour voyager, et un bébé ne peut pas suivre les règles de photo des adultes. Ce qu'une première demande exige vraiment de vous, étape par étape.15 septembre 20266 min de lecture](https://traveldocumentvault.com/fr/blog/child-first-passport-application/)
 
 ##

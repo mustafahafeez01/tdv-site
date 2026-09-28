@@ -155,6 +155,8 @@ In most countries, yes. Your visa validity is separate from your passport validi
 
 ## Related Articles
 
+[Visa Requirements7 min readDo You Need a Transit Visa for a Layover?](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/)
+
 [Passport Rules6 min readPassport Expired: What to Do and How to Renew](https://traveldocumentvault.com/blog/passport-expired-what-to-do/)
 
 [Validity Rules6 min readHow Long is a Passport Valid for Travel](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/)

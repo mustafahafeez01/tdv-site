@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
+[비자 요건경유 비행에도 환승 비자가 필요할까요?모든 경유편에 환승 비자가 필요한 것은 아닙니다. 어떤 경유가 비자를 요구하는지, 국적에 따라 규정이 어떻게 달라지는지, 예약 후 환승 비자가 필요하다는 것을 알게 되었을 때 어떻게 해야 하는지 알아보세요.2026년 9월 28일7분 읽기](https://traveldocumentvault.com/ko/blog/transit-visa-connecting-flights/)
+
+##
+
 [가족 여행아이의 첫 여권 신청하기신청 동의와 여행 동의는 다르며, 아기는 성인과 같은 사진 규정을 따를 수 없습니다. 첫 신청에서 실제로 무엇이 필요한지 단계별로 알아보세요.2026년 9월 15일6분 읽기](https://traveldocumentvault.com/ko/blog/child-first-passport-application/)
 
 ##

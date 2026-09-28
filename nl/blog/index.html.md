@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
+[VisumvereistenHeb je een transitvisum nodig voor een tussenlanding?Niet elke aansluitende vlucht vereist een transitvisum. Ontdek bij welke tussenlandingen het wel nodig is, hoe je nationaliteit de regel verandert, en wat je doet als je er pas na het boeken achter komt dat je er een nodig hebt.28 september 20267 min leestijd](https://traveldocumentvault.com/nl/blog/transit-visa-connecting-flights/)
+
+##
+
 [GezinsreizenHet Eerste Paspoort van je Kind AanvragenToestemming om aan te vragen is niet hetzelfde als toestemming om te reizen, en een baby kan niet aan de fotoregels voor volwassenen voldoen. Wat een eerste aanvraag echt van je vraagt, stap voor stap.15 september 20266 min leestijd](https://traveldocumentvault.com/nl/blog/child-first-passport-application/)
 
 ##

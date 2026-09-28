@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
+[Visa Requirements Do You Need a Transit Visa for a Layover? Most layovers need no transit visa, but the exceptions catch careful travellers out. How airside and landside differ, why your nationality decides it, and what to do if you find out after booking. September 28, 20267 min read](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/)
+
+##
+
 [Family Travel Applying for a Child's First Passport Consent to apply is not the same as consent to travel, and a baby cannot follow adult photo rules. What a first application actually asks of you, step by step. September 15, 20266 min read](https://traveldocumentvault.com/blog/child-first-passport-application/)
 
 ##
