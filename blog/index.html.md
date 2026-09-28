@@ -40,7 +40,7 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
-[Travel PrepDo You Need to Print Travel Insurance Documents? Usually NotYou don't need to print the policy. What hospitals and insurers actually ask for, what to keep reachable offline, and the claims that get refused for missing paperwork.August 3, 20269 min read](https://traveldocumentvault.com/blog/travel-insurance-documents/)
+[Travel PrepTravel Insurance Documents: What to Save Before You GoYou don't need to print the policy. What hospitals and insurers actually ask for, what to keep reachable offline, and the claims that get refused for missing paperwork.August 3, 20269 min read](https://traveldocumentvault.com/blog/travel-insurance-documents/)
 
 ##
 
