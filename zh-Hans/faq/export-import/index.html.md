@@ -77,4 +77,6 @@ Source: https://traveldocumentvault.com/zh-Hans/faq/export-import/
 
 保险库导出和导入对所有人都是免费的。Pro 版本添加了云备份、无限配置文件、合并 PDF 导出等功能。一次性购买，无订阅。
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8) [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dfaq)
+![在 App Store 上下载](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![在 Google Play 上获取](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

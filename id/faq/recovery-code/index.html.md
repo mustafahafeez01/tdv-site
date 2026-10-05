@@ -50,4 +50,6 @@ Jika Anda merasa kode pemulihan Anda telah disusupi, matikan cadangan cloud lalu
 
 Unduh Travel Document Vault dan aktifkan cadangan cloud untuk menjaga keamanan dokumen Anda.
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8) [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dfaq)
+![Unduh di App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Dapatkan di Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

@@ -50,4 +50,6 @@ If you think your recovery code is compromised, turn off cloud backup and turn i
 
 Download Travel Document Vault and enable cloud backup to keep your documents safe.
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8) [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dfaq)
+![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Get it on Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)

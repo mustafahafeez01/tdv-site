@@ -50,4 +50,6 @@ Als u denkt dat uw herstelcode gecompromitteerd is, schakelt u Cloudback-up uit 
 
 Download Travel Document Vault en schakel Cloudback-up in om uw documenten veilig te houden.
 
-[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=faq&mt=8) [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dfaq)
+![Download van de App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
+
+![Download van Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
