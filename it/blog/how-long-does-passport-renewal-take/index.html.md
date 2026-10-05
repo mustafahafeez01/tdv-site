@@ -18,7 +18,9 @@ Source: https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-t
 
 Avete prenotato voli per un viaggio tra cinque mesi. Tirate fuori i passaporti di tutti per controllare di nuovo, e eccolo: uno scade tra cinque mesi e tre settimane. Ora avete bisogno di sapere esattamente quanto tempo richiede il rinnovo del passaporto — perché la matematica improvvisamente conta.
 
-Non esiste una cifra unica, e qualsiasi articolo che ve ne dà una scommette silenziosamente sul fatto che non noterete mai quando diventa obsoleta. I tempi di elaborazione si muovono con il personale, il volume di domande e la stagione, quindi una cifra corretta oggi potrebbe facilmente essere sbagliata entro pochi mesi. Ciò che cambia molto meno spesso è la forma della decisione stessa: ogni autorità passaporti gestisce una coda standard e almeno una via a pagamento per andare più veloce, e un insieme specifico di situazioni rallenta in modo affidabile una domanda indipendentemente dal paese che la emette. È questo che copre questa guida, insieme a dove esattamente cercare la cifra che si applica a voi in questo momento.
+Non esiste una cifra unica, e qualsiasi articolo che ve ne dà una scommette silenziosamente sul fatto che non noterete mai quando diventa obsoleta.
+
+I tempi di elaborazione si muovono con il personale, il volume di domande e la stagione, quindi una cifra corretta oggi potrebbe facilmente essere sbagliata entro pochi mesi. Ciò che cambia molto meno spesso è la forma della decisione stessa: ogni autorità passaporti gestisce una coda standard e almeno una via a pagamento per andare più veloce, e un insieme specifico di situazioni rallenta in modo affidabile una domanda indipendentemente dal paese che la emette. È questo che copre questa guida, insieme a dove esattamente cercare la cifra che si applica a voi in questo momento.
 
 **Avvertenza:** Qui non citiamo tempi di elaborazione, di proposito. Si spostano con la stagione e con il personale, e una cifra corretta oggi può essere sbagliata entro pochi mesi. La vostra autorità passaporti pubblica la cifra attuale — HM Passport Office, il Dipartimento di Stato USA, l'Ufficio Passaporti Australiano o l'equivalente nazionale — ed è l'unica fonte che vale la pena consultare.
 
@@ -64,7 +66,7 @@ Questo rende il processo più impegnativo dal punto di vista logistico, specialm
 
 **Impostate un promemoria di rinnovo ora** — Travel Document Vault vi notifica 6, 3 e 1 mese prima che il vostro passaporto scada, così state rinnovando con abbondanza di tempo, non disperatamente all'ultimo minuto. [Scaricate su App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
-## Consigli per il Rinnovo Accelerato del Passaporto: Come Accelerare le Cose
+## Poche cause prevedibili provocano la maggior parte dei ritardi
 
 Indipendentemente da quale paese state rinnovando, gli stessi errori causano costantemente ritardi. Guardate questi colpevoli comuni:
 
@@ -88,7 +90,7 @@ Le regole variano per paese:
 
 **L'eccezione critica:** Se il vostro paese di destinazione richiede un visto a ingresso singolo, utilizzare il vecchio passaporto per il viaggio può invalidare il visto ad esso associato. Controllate sempre le implicazioni del visto prima di viaggiare su un passaporto vecchio mentre uno nuovo è in corso.
 
-## Cosa Fare Se Il Vostro Viaggio È Imminente
+## Se il viaggio è imminente, muovetevi su tutti i fronti insieme
 
 Avete un viaggio prenotato nelle prossime settimane e il vostro passaporto sta per scadere. Non andate nel panico — ma muovetevi velocemente:
 
@@ -97,9 +99,9 @@ Avete un viaggio prenotato nelle prossime settimane e il vostro passaporto sta p
 3. **Controllate la vostra polizza di assicurazione di viaggio.** Alcune polizze coprono i costi extra dal rinnovo urgente del passaporto. La maggior parte esclude situazioni in cui il rinnovo era prevedibile — ma vale la pena guardare prima di spendere i soldi.
 4. **Chiedetevi di riprogrammare il vostro viaggio.** Le compagnie aeree e gli hotel variano, ma molti rinunceranno alle commissioni di cambio per emergenze di passaporto documentate. Non è garantito, ma non costa nulla chiedere.
 
-**La migliore soluzione è evitare completamente la situazione.** Se state gestendo i passaporti per più membri della famiglia, un'app come [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) vi invia promemoria di scadenza a 6 mesi, 3 mesi e 1 mese — così state rinnovando con abbondanza di tempo, non disperatamente all'ultimo minuto. Controllate più [suggerimenti sui documenti di viaggio](https://traveldocumentvault.com/it/blog/) su questo blog per strategie che mantengono tutto in ordine.
+**La migliore soluzione è evitare completamente la situazione.** Se state gestendo i passaporti per più membri della famiglia, un'app come [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) vi invia promemoria di scadenza a 6 mesi, 3 mesi e 1 mese — così state rinnovando con abbondanza di tempo, non disperatamente all'ultimo minuto. Controllate più [suggerimenti sui documenti di viaggio](https://traveldocumentvault.com/it/blog/) su questo blog per strategie che mantengono tutto in ordine. Vale la pena leggere anche la [regola del passaporto di 6 mesi](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/): un passaporto appena rinnovato deve comunque soddisfare i requisiti di validità del vostro paese di destinazione, e molti viaggiatori vengono colti di sorpresa da questo.
 
-Un'altra cosa vale la pena leggere: la [regola del passaporto di 6 mesi](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/). Un passaporto appena rinnovato ha ancora bisogno di soddisfare i requisiti di validità del vostro paese di destinazione — e molti viaggiatori vengono colti di sorpresa da questo.
+Tirate fuori oggi il vostro passaporto e controllate quanti mesi gli restano rispetto al prossimo viaggio. Se il margine è stretto, prendetelo come il segnale per avviare il rinnovo adesso, invece che a ridosso della partenza.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 

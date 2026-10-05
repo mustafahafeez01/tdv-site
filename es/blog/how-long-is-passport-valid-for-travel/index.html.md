@@ -20,9 +20,9 @@ Siete meses restantes en tu pasaporte suena como mucho. Reservas los vuelos, ver
 
 Es una de las reglas de viaje más malentendidas. Un pasaporte que no ha vencido puede aun así no cumplir los requisitos de entrada para docenas de destinos populares. Entender cómo se cuentan realmente los meses de validez del pasaporte puede salvarte de un error muy costoso.
 
-## ¿Cuánto Tiempo es Válido un Pasaporte?
+## Los Pasaportes de Adultos Duran Mucho Más Que los de Niños
 
-El período de validez estándar para un pasaporte de adulto es de 10 años desde la fecha de emisión en la mayoría de países. Los pasaportes de niños expiran antes —típicamente 5 años— porque la apariencia de un niño cambia significativamente durante ese tiempo.
+El período de validez estándar para un pasaporte de adulto es de 10 años desde la fecha de emisión en la mayoría de países. Los pasaportes de niños expiran antes —típicamente 5 años— porque la apariencia de un niño cambia significativamente durante ese tiempo. Nosotros revisaríamos primero el pasaporte de un niño antes que el de nadie, porque es el que todo el mundo da por bueno.
 
 | País | Validez de adulto | Validez de niño |
 |---|---|---|
@@ -47,7 +47,7 @@ Cubrimos [qué países aplican la regla de 6 meses](https://traveldocumentvault.
 
 **Páginas en blanco.** Algunos países requieren 2 a 4 páginas de visa en blanco. Si viajas frecuentemente y tu pasaporte tiene 6 o 7 años, puede quedarse sin páginas utilizables antes de la fecha de vencimiento. Verifica el número de páginas así como la validez al viajar a destinos que emiten sellos de visa.
 
-## ¿Cuántos Meses de Validez Necesitas?
+## Los Meses que Necesitas Dependen de tu Destino
 
 Depende completamente de adónde vas.
 
@@ -57,7 +57,7 @@ Para destinos con un requisito de 6 meses, cuenta 6 meses desde el día que lleg
 
 Para todo lo demás, verifica antes de reservar. El IATA Travel Centre da el requisito exacto para tu nacionalidad y destino en cuestión de segundos.
 
-## Pasaportes de Niños —La Trampa del Viaje en Familia
+## Los Pasaportes de Niños Caducan Antes, y las Familias Olvidan Revisarlos
 
 Aquí es donde las familias se ven atrapadas cada verano. Los pasaportes de adultos son válidos durante 10 años. Los pasaportes de niños expiran después de 5. Esa diferencia crea un problema específico.
 
@@ -65,19 +65,19 @@ Un niño de 3 años que obtuvo su primer pasaporte en 2023 tiene un documento qu
 
 **Antes de reservar cualquier viaje internacional, verifica cada pasaporte en el grupo individualmente.** Un pasaporte corto puede bloquear a toda una familia de embarcar.
 
-## ¿Cuándo Deberías Renovar tu Pasaporte?
+## Renueva con Margen de Validez, Mucho Antes de que Caduque
 
-La respuesta práctica: cuando queden menos de 12 meses de validez restante.
-
-Aquí está por qué 12 meses es el umbral correcto y no la fecha de vencimiento en sí:
+La respuesta práctica: cuando queden menos de 12 meses de validez restante, no cuando esté a punto de caducar. Aquí está por qué 12 meses es el umbral correcto y no la fecha de vencimiento en sí:
 
 - Te proporciona un amortiguador completo de 6 meses para cualquier destino que aplique la regla.
 - La renovación del pasaporte toma tiempo, y los tiempos de procesamiento cambian —la Oficina de Pasaportes de Su Majestad aconseja no reservar viajes hasta que llegue el nuevo pasaporte, y tanto ella como el Departamento de Estado de EE.UU. publican sus tiempos de procesamiento actuales. Por eso comenzar con 6 meses restantes deja poco margen.
 - Los planes de último minuto suceden. Un pasaporte con 14 meses restantes mantiene todos los destinos abiertos. Un pasaporte con 5 meses restantes cierra una gran parte del mundo.
 
-El error más común es establecer un recordatorio en la fecha de vencimiento en sí. En ese punto no puedes viajar a la mayoría de destinos que aplican la regla de 6 meses. **Establece tu recordatorio de renovación en la marca de 12 meses.**
+El error más común es establecer un recordatorio en la fecha de vencimiento en sí. En ese punto no puedes viajar a la mayoría de destinos que aplican la regla de 6 meses.
 
-Si también lees nuestra guía sobre [cuánto tiempo toma la renovación del pasaporte](https://traveldocumentvault.com/es/blog/how-long-does-passport-renewal-take/), verás exactamente cuán ajustados pueden ser los plazos durante épocas ajetreadas —que es otra razón para empezar temprano.
+**Establece tu recordatorio de renovación en la marca de 12 meses.**
+
+Si también lees nuestra guía sobre [cuánto tiempo toma la renovación del pasaporte](https://traveldocumentvault.com/es/blog/how-long-does-passport-renewal-take/), verás exactamente cuán ajustados pueden ser los plazos durante épocas ajetreadas —que es otra razón para empezar temprano. Si a tu pasaporte ya le quedan menos de doce meses de validez, renuévalo antes de reservar cualquier otra cosa.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

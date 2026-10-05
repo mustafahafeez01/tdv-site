@@ -26,7 +26,7 @@ Diese beiden Dinge werden häufig verwechselt, und sie sind aus unterschiedliche
 
 Dieser Artikel behandelt die Zustimmung zur Beantragung. Diese Unterscheidung ist wichtig, weil Sie das eine ohne das andere brauchen könnten. Ein Kind kann einen gültigen Reisepass besitzen, dessen Ausstellung beide Elternteile genehmigt haben, ohne dass das automatisch bedeutet, dass beide Elternteile jeder einzelnen Reise zugestimmt haben. Für die Reiseseite lesen Sie unseren Leitfaden zu [Reisevollmachten für Kinder](https://traveldocumentvault.com/de/blog/child-travel-consent-letter/) und zum [Reisen ohne beide Elternteile](https://traveldocumentvault.com/de/blog/travelling-child-without-both-parents/).
 
-## Wer zustimmen muss, bevor der Antrag eingereicht werden kann
+## Standardmäßig müssen alle Personen mit elterlicher Sorge zustimmen
 
 Die Grundregel lautet, dass alle Erwachsenen mit elterlicher Sorge für das Kind der Passbeantragung zustimmen müssen. Bei den meisten Familien bedeutet das beide verheirateten Elternteile; bei unverheirateten Paaren bedeutet es beide Partner, sofern beide als Eltern in der Geburtsurkunde eingetragen sind. Für Personen mit gerichtlicher Verfügung oder alleinigem Sorgerecht gelten andere Regeln, und Ihre Passbehörde erklärt Ihnen das genaue Verfahren, wenn Sie nachfragen.
 
@@ -34,7 +34,7 @@ Diese Ausnahmen sind real und wichtig zu kennen. Ein verstorbener Elternteil kan
 
 **Wenn Sie allein beantragen**, weil Sie das alleinige Sorgerecht haben, weil der andere Elternteil verstorben ist, oder weil eine gerichtliche Verfügung vorliegt, wenden Sie sich mit den Gerichtsdokumenten direkt an Ihre Passbehörde. Dort erfahren Sie genau, was Sie einreichen müssen, um nachzuweisen, dass Sie den Antrag ohne den anderen Elternteil stellen dürfen.
 
-## Was ein Erstantrag in der Regel von Ihnen verlangt
+## Jeder Erstantrag braucht drei Arten von Nachweisen
 
 Passbehörden verlangen drei Dinge, wenn Sie den ersten Reisepass eines Kindes beantragen: einen Nachweis der Identität des Kindes, einen Nachweis der Identität der Eltern und einen Nachweis des Verhältnisses zwischen Eltern und Kind.
 
@@ -46,7 +46,7 @@ Passbehörden verlangen drei Dinge, wenn Sie den ersten Reisepass eines Kindes b
 
 **Manche Länder verwenden ein Gegenzeichnersystem.** Das bedeutet, dass eine vertrauenswürdige Fachperson – eine Lehrkraft, ein Arzt, ein Anwalt oder Ähnliches – ein Formular unterschreibt, um zu bestätigen, dass der Antrag echt ist und das Foto dem Kind entspricht. Verwendet Ihr Land dieses System, müssen Sie vor der Beantragung jemanden finden, der dazu bereit ist. Fragen Sie Ihre Passbehörde, welche Berufsgruppen sie akzeptiert.
 
-## Ein Baby für den Reisepass fotografieren
+## Babys können Fotoregeln für Erwachsene nicht befolgen, also passen Sie sie an
 
 Genau hier scheitern viele Erstanträge. Ein Baby oder Kleinkind kann Fotoregeln nicht so befolgen wie ein Erwachsener: Babys können nicht selbst sitzen, Kleinkinder können weder stillhalten noch Anweisungen verstehen, und Neugeborene schauen nicht auf Kommando in die Kamera. Die Passfoto-Standards wurden für Erwachsene geschrieben, und Sie müssen verstehen, wie man sie anpasst, wenn das Motiv ein 5 Kilo schweres Kind ist, das sich ständig bewegt.
 
@@ -58,13 +58,21 @@ Genau hier scheitern viele Erstanträge. Ein Baby oder Kleinkind kann Fotoregeln
 
 **Bei Kleinkindern ab 2 Jahren:** Setzen Sie sie vor den einfarbigen Hintergrund auf einen Stuhl, oder lassen Sie sie stehen, wenn sie das schon können. Die Augen sollten direkt in die Kamera schauen, was schwieriger ist, als es klingt, denn Kleinkinder folgen keinen Anweisungen. Singen Sie ein Lied, machen Sie ein lustiges Geräusch, oder bitten Sie das Kind, auf einen Punkt direkt über dem Objektiv zu schauen. Sie wollen, dass es leicht nach oben schaut, was ohnehin besser auf Fotos wirkt. Auch hier gilt: viele Aufnahmen machen – Sie brauchen nur eine, auf der das Kind mit beiden deutlich geöffneten Augen in die Kamera schaut.
 
-Die häufigsten Fehler: eine Elternhand, die den Kopf des Babys im Bild stützt (nicht erlaubt), ein Schnuller noch im Mund des Babys (muss entfernt werden), eine andere Person, die am Rand teilweise sichtbar ist (darf nicht erscheinen), Spielzeug oder Gegenstände im Hintergrund (entfernen), und ein Hintergrund, der hinter dem Kopf des Kindes nicht klar sichtbar ist (zurücktreten oder den Winkel anpassen, damit der einfarbige Hintergrund sichtbar wird).
+**Die häufigsten Fehler** haben alle dieselbe Ursache: Etwas schleicht sich in einen Bildausschnitt, der nur das Baby zeigen soll.
 
-Schläft das Baby während der Versuche ein oder weint es, brechen Sie ab und versuchen Sie es ein anderes Mal erneut. Ihre Passbehörde hat schon jede Variante davon gesehen. Ihr ist ein scharfes Foto eines wachen Babys lieber als ein unscharfes Foto eines verzweifelten Kindes.
+- Eine Elternhand, die den Kopf des Babys stützt (nicht erlaubt).
+- Ein Schnuller noch im Mund des Babys (muss vor der Aufnahme entfernt werden).
+- Eine andere Person, die am Bildrand teilweise sichtbar ist (darf überhaupt nicht erscheinen).
+- Spielzeug oder Gegenstände im Hintergrund (zuerst entfernen).
+- Der einfarbige Hintergrund ist hinter dem Kopf des Kindes nicht klar sichtbar (zurücktreten oder den Winkel anpassen).
 
-## Wenn ein Elternteil nicht unterschreiben kann
+Schläft das Baby während der Versuche ein oder weint es, brechen Sie ab und versuchen Sie es ein anderes Mal erneut. Ihre Passbehörde hat schon jede Variante davon gesehen. Wir würden immer einen ruhigen neuen Versuch wählen, statt ein unscharfes Foto durchzudrücken. Der Behörde ist ein klares Bild eines wachen Babys lieber als ein hastig gemachtes eines verzweifelten Kindes.
 
-Ihre Passbehörde kann das Dokument nicht ausstellen, ohne einen rechtlichen Nachweis, dass Sie berechtigt sind, allein vorzugehen – egal ob der andere Elternteil nicht unterschreiben will, nicht auffindbar ist, oder die elterliche Sorge verloren hat. Das ist eine gesetzliche Anforderung zum Schutz des Kindes, kein Verhandlungsspielraum.
+## Allein zu unterschreiben setzt in der Regel einen rechtlichen Nachweis voraus
+
+Ihre Passbehörde kann das Dokument nicht ausstellen, ohne einen rechtlichen Nachweis, dass Sie berechtigt sind, allein vorzugehen – egal ob der andere Elternteil nicht unterschreiben will, nicht auffindbar ist, oder die elterliche Sorge verloren hat.
+
+Das ist eine gesetzliche Anforderung zum Schutz des Kindes, kein Verhandlungsspielraum.
 
 **Wenn der andere Elternteil nicht auffindbar ist oder die Zustimmung verweigert:** Sie benötigen eine gerichtliche Verfügung. Das kann eine bestehende Sorgerechtsentscheidung, eine Vormundschaftsverfügung oder ein spezifisches Gerichtsurteil sein, das Ihnen das alleinige Sorgerecht zuspricht. In manchen Ländern können Sie beim Gericht die Erlaubnis beantragen, den Reisepass ohne Zustimmung des anderen Elternteils auszustellen, wenn Sie nachweisen können, dass dem Kind durch eine Verzögerung Schaden entstehen würde oder der andere Elternteil nicht angemessen befragt werden kann. Das ist je nach Land und örtlicher Gerichtspraxis unterschiedlich – fragen Sie Ihre Passbehörde oder einen Familienanwalt, wie das Verfahren bei Ihnen abläuft.
 
@@ -72,7 +80,7 @@ Ihre Passbehörde kann das Dokument nicht ausstellen, ohne einen rechtlichen Nac
 
 **Wenn ein Näherungsverbot oder eine Sorgerechtsbeschränkung vorliegt:** Bringen Sie die gerichtliche Verfügung mit. Sie zeigt der Behörde genau, welche Erlaubnisse und Einschränkungen gelten.
 
-## Was Sie am Tag der Ankunft prüfen sollten
+## Prüfen Sie drei Dinge am Tag, an dem der Reisepass ankommt
 
 Sobald der Reisepass ausgestellt und bei Ihnen angekommen ist, nehmen Sie sich fünf Minuten Zeit, um ihn zu prüfen, bevor Sie ihn wegheften. Sie achten dabei auf drei Dinge, die sich jetzt leicht korrigieren lassen, am Flughafen aber zum Albtraum werden.
 
@@ -80,9 +88,9 @@ Sobald der Reisepass ausgestellt und bei Ihnen angekommen ist, nehmen Sie sich f
 
 **Prüfen Sie die Namen der Eltern, sofern sie eingetragen sind.** Manche Länder drucken die Namen der Eltern oder Erziehungsberechtigten im Inneren des Kinderreisepasses ab. Sind diese Namen falsch geschrieben oder fehlerhaft, wenden Sie sich an die Behörde, damit sie korrigiert werden.
 
-**Prüfen Sie das Ablaufdatum.** Das ist bei Kindern besonders wichtig, weil [Kinderreisepässe viel schneller ablaufen als die von Erwachsenen](https://traveldocumentvault.com/de/blog/family-passport-management/). Bei der Reisebuchung müssen Sie genau wissen, wann dieses Dokument seine Gültigkeit verliert. Notieren Sie es sich. Stellen Sie eine Erinnerung ein. Ein unerwartet abgelaufener Kinderreisepass ist einer der häufigsten Gründe, warum Familien eine Reise absagen oder verschieben müssen.
+**Prüfen Sie das Ablaufdatum.** Das ist bei Kindern besonders wichtig, weil [Kinderreisepässe viel schneller ablaufen als die von Erwachsenen](https://traveldocumentvault.com/de/blog/family-passport-management/). Bei der Reisebuchung müssen Sie genau wissen, wann dieses Dokument seine Gültigkeit verliert. Notieren Sie es sich und stellen Sie die Erinnerung gleich an dem Tag ein, an dem der Reisepass ankommt, nicht erst, wenn irgendwann eine Reise ansteht; das ist die eine Gewohnheit, die wir Eltern immer empfehlen würden. Ein unerwartet abgelaufener Kinderreisepass ist einer der häufigsten Gründe, warum Familien eine Reise absagen oder verschieben müssen.
 
-Ist etwas falsch, wenden Sie sich innerhalb weniger Tage an Ihre Passbehörde. Korrekturen sind meist kostenlos, wenn sie rasch gemeldet werden. Warten Sie nicht, denn je länger Sie warten, desto komplizierter wird der Vorgang.
+Ist etwas falsch, wenden Sie sich innerhalb weniger Tage an Ihre Passbehörde. Korrekturen sind meist kostenlos, wenn sie rasch gemeldet werden, und je länger Sie warten, desto komplizierter wird der Vorgang. Sobald alles stimmt, legen Sie den Reisepass gleich in Ihre Dokumentenmappe, mit einer Notiz zum Ablaufdatum, damit die Erneuerung Sie nicht überrascht.
 
 ## Häufig gestellte Fragen
 

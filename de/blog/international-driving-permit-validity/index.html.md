@@ -20,7 +20,7 @@ Ein Internationaler Führerschein ist eine Übersetzung des Führerscheins und k
 
 Ein Internationaler Führerschein trägt sein eigenes Ablaufdatum, und dieses Datum verhält sich unterschiedlich, je nachdem, nach welchem internationalen Abkommen Ihr Führerschein ausgestellt wurde. Die meisten Fahrer erfahren erst, dass es zwei Arten gibt, wenn eine davon abgelehnt wird.
 
-## Was ein Internationaler Führerschein wirklich ist
+## Ein Internationaler Führerschein übersetzt Ihren Führerschein, er ersetzt ihn nicht
 
 Ein Internationaler Führerschein ist eine offizielle Übersetzung des Führerscheins, den Sie bereits besitzen. Er listet Ihre Angaben in mehreren Sprachen auf, sodass ein Beamter, der Ihren nationalen Führerschein nicht lesen kann, trotzdem erkennen kann, was Sie zu fahren berechtigt sind.
 
@@ -28,7 +28,7 @@ Er funktioniert also als Paar. Sie führen den nationalen Führerschein und den 
 
 Das bringt Menschen häufiger in Schwierigkeiten als die Ablaufdaten selbst. Der Internationale Führerschein wirkt mit all seinen Stempeln und Sprachen wie das ernsthaftere Dokument, sodass er sich wie das wichtigere anfühlt.
 
-## Drei Abkommen, und die zwei, die zählen
+## Zwei Abkommen entscheiden, wie lange er gilt und wo er funktioniert
 
 Hinter Internationalen Führerscheinen stehen drei internationale Abkommen, und Länder sind einem davon oder mehreren beigetreten. Zwei davon leisten fast die gesamte Arbeit: das Genfer Abkommen von 1949 und das Wiener Übereinkommen von 1968. Ein älterer Führerschein nach dem Pariser Abkommen von 1926 wird noch für eine kleine Zahl von Zielen ausgestellt und gilt, wie der Genfer Führerschein, ein Jahr.
 
@@ -48,9 +48,9 @@ Diese drei Jahre stehen unter einer Bedingung, die man leicht überliest. Ein Wi
 
 Angenommen, Ihr Führerschein hat noch 14 Monate Gültigkeit, und Sie erhalten einen Dreijahres-Führerschein. Nützlich ist der Führerschein dann für 14 Monate. Das aufgedruckte Datum sticht den dahinterstehenden Führerschein nicht aus.
 
-Auch eine spätere Verlängerung des Führerscheins rettet den Internationalen Führerschein nicht. Er bleibt an den Führerschein gebunden, gegen den er ausgestellt wurde, ein neuer Führerschein bedeutet also in der Regel auch einen neuen Internationalen Führerschein.
+Auch eine spätere Verlängerung des Führerscheins rettet den Internationalen Führerschein nicht. Er bleibt an den Führerschein gebunden, gegen den er ausgestellt wurde, ein neuer Führerschein bedeutet also in der Regel auch einen neuen Internationalen Führerschein. Steht die Erneuerung Ihres Führerscheins noch vor der Reise an, würden wir zuerst ihn erneuern und den Internationalen Führerschein danach beantragen, damit dieser an den neuen Führerschein gebunden ist.
 
-## Drei Dokumente, drei Uhren
+## Ihr Internationaler Führerschein ist das Datum, auf das niemand achtet
 
 Ein Reisepass, ein Führerschein und oft ein Internationaler Führerschein: Wer im Ausland fährt, führt am Ende alle drei mit sich, jedes von einer anderen Stelle nach ihrem eigenen Zeitplan ausgestellt, sodass die Ablaufdaten kaum je übereinstimmen.
 
@@ -62,13 +62,13 @@ Das Reisepassdatum ist meist dasjenige, das Menschen im Blick behalten, und das 
 
 Das ist das praktische Argument dafür, alle drei Termine an einem Ort zu verwalten. Travel Document Vault, im [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) und bei [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), speichert die Dokumente auf Ihrem Gerät und verfolgt jedes Ablaufdatum einzeln, sodass der Internationale Führerschein nicht still und leise abläuft, während Sie den Reisepass im Blick behalten.
 
-## Was Sie vor der Buchung prüfen sollten
+## Prüfen Sie das Datum Ihres Führerscheins vor dem Ihres Internationalen Führerscheins
 
-Ein paar Dinge lohnt es sich zu prüfen, ungefähr in dieser Reihenfolge.
+Wir würden diese Punkte in dieser Reihenfolge prüfen, und das Datum des Führerscheins vor allem, was auf dem Internationalen Führerschein aufgedruckt ist.
 
 **Ob Sie überhaupt einen Führerschein brauchen.** Manche Länder akzeptieren einen nationalen Führerschein allein, und das Land, in dem Sie fahren, legt die Anforderung fest, nicht das Land, das Ihren Führerschein ausgestellt hat.
 
-**Welches Abkommen Ihr Reiseziel anerkennt**, und danach, nach welchem Ihr Führerschein ausgestellt wurde. Das steht auf dem Dokument aufgedruckt.
+**Welches Abkommen Ihr Reiseziel anerkennt**, und prüfen Sie dann Ihren Führerschein dagegen (das Abkommen steht auf dem Dokument aufgedruckt).
 
 **Das Ablaufdatum Ihres Führerscheins, noch vor dem des Internationalen Führerscheins.** Bei einem Wiener Führerschein ist der Führerschein das entscheidende Datum, weshalb ein Blick zuerst auf den Internationalen Führerschein weniger aussagt, als man denkt.
 
@@ -86,15 +86,17 @@ Der Antrag selbst ist meist unkompliziert. Rechnen Sie damit, Ihre Führerschein
 
 Am stärksten trifft das kurzfristig gebuchte Reisen. Der Führerschein ist selten allein das Problem. Zum Problem wird er, wenn er der letzte Punkt auf einer ohnehin knappen Liste ist.
 
-## Vorsicht, was Sie online kaufen
+## Einen „internationalen Führerschein" im Sinne einer eigenen Fahrerlaubnis gibt es nicht
 
 Wer nach einem Internationalen Führerschein sucht, findet Seiten, die etwas namens „internationale Fahrerlaubnis" verkaufen – oft für deutlich mehr, als der offizielle Führerschein kostet, manchmal mit dem Versprechen von Sofortlieferung oder zehn Jahren Gültigkeit.
 
 Eine solche Fahrerlaubnis gibt es nicht. Rechtsgültig sind ausschließlich die nach den Abkommen von 1926, 1949 und 1968 ausgestellten Führerscheine, über den von Ihrem eigenen Land vorgesehenen Weg. Drei Jahre bei einem Wiener Führerschein sind das Längste, was irgendeiner davon läuft – wirbt etwas mit 10 oder 20 Jahren, beschreibt es ein Dokument, das kein Grenzbeamter akzeptieren muss.
 
+Wenn Sie eine umfassendere Liste vor der Reise erstellen, statt nur die Fahrfrage zu klären, geht unsere [internationale Reisedokument-Checkliste](https://traveldocumentvault.com/de/blog/travel-document-checklist/) durch, was Sie vor dem Flug zusammentragen sollten, und [die Dokumente, die Menschen vergessen](https://traveldocumentvault.com/de/blog/what-documents-to-carry-when-travelling-internationally/) zeigt, wo jedes Dokument am besten aufbewahrt wird, sobald Sie unterwegs sind.
+
 Finden Sie heraus, welche Stelle in dem Land, das Ihren Führerschein ausgestellt hat, Führerscheine ausstellt, und wenden Sie sich an diese Stelle. Verrät eine Website nicht, nach welchem Abkommen ihr Dokument ausgestellt wird, beantwortet das die Frage bereits.
 
-Wenn Sie eine umfassendere Liste vor der Reise erstellen, statt nur die Fahrfrage zu klären, geht unsere [internationale Reisedokument-Checkliste](https://traveldocumentvault.com/de/blog/travel-document-checklist/) durch, was Sie vor dem Flug zusammentragen sollten, und [die Dokumente, die Menschen vergessen](https://traveldocumentvault.com/de/blog/what-documents-to-carry-when-travelling-internationally/) zeigt, wo jedes Dokument am besten aufbewahrt wird, sobald Sie unterwegs sind.
+Nehmen Sie heute Ihren Führerschein und, falls vorhanden, Ihren Internationalen Führerschein zur Hand und legen Sie die beiden Ablaufdaten nebeneinander. Bei einem Wiener Führerschein ist das frühere der beiden das Datum, an dem er tatsächlich endet.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 

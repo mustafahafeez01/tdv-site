@@ -20,24 +20,24 @@ Il est 23h la nuit avant un vol, les passeports sont dehors, l'impression d'assu
 
 Savoir comment organiser les documents de voyage pour toute une famille est l'une de ces choses qui semblent optionnelles jusqu'à ce qu'elles ne le soient plus. Ce guide vous montre comment le mettre en place une fois et arrêter de vous précipiter avant chaque voyage.
 
+Ce guide couvre l'ensemble du système; pour approfondir un point précis, comme les calendriers de renouvellement des passeports ou le stockage numérique, les [conseils sur les documents de voyage](https://traveldocumentvault.com/fr/) du blog vont plus loin.
+
 ## Liste de contrôle des documents de voyage en famille: que faut-il vraiment?
 
-Cela dépend de votre destination, mais pour la plupart des voyages internationaux en famille, la liste est plus longue que les gens ne s'y attendent. Voici la liste de contrôle des documents de voyage fondamentale pour les familles:
-
-**Documents d'identité**
+Cela dépend de votre destination, mais pour la plupart des voyages internationaux en famille, la liste est plus longue que les gens ne s'y attendent. Voici la liste de contrôle des documents de voyage fondamentale pour les familles, en commençant par les documents d'identité dont tout le monde a besoin:
 
 - Passeports pour tous les membres de la famille (vérifiez la validité au moins 3 mois avant le voyage)
 - Visas, s'ils sont exigés par le pays de destination
 - Cartes d'identité nationales si elles sont acceptées à la place des passeports (voyages Schengen pour les citoyens de l'UE)
 
-**Documents spécifiques aux voyages**
+**Documents propres au voyage**
 
 - Certificat d'assurance voyage ou calendrier des polices
 - Confirmations de réservation: vols, hôtels, location de voitures
 - Dossiers de vaccination s'ils sont exigés à la destination
 - Billet de retour (certains pays exigent une preuve à l'entrée)
 
-**Documents spécifiques aux voyages avec des enfants**
+**Ce que le voyage avec des enfants ajoute**
 
 - Certificats de naissance — parfois exigés à l'immigration, en particulier lorsque le nom de famille d'un enfant diffère du parent voyageant
 - Une lettre de consentement parental signée si un parent n'est pas présent — fortement recommandée pour les voyages en solo parental ou grands-parents
@@ -63,7 +63,9 @@ Les originaux vivent au même endroit, et cet endroit n'existe que pour les docu
 
 Un portefeuille de voyage dédié ou une pochette — du type qui contient plusieurs passeports à côté de documents A4 pliés — fait bien le travail; étiquetez-le et gardez-le quelque part de manière cohérente: une étagère spécifique, un tiroir de bureau à domicile, ou une boîte de rangement ignifuge si vous voulez la sécurité supplémentaire.
 
-**La discipline qui fait ou détruit tout système est de remettre les documents immédiatement après utilisation.** Les documents ne disparaissent pas à cause du vol mais parce que quelqu'un a utilisé un, l'a posé quelque part temporairement, et il a été enterré. "Je le remettrai plus tard" est comment vous finissez par chercher dans toute la maison à 23h.
+La discipline qui fait ou détruit tout système est de **remettre les documents immédiatement après utilisation**.
+
+Les documents ne disparaissent pas à cause du vol mais parce que quelqu'un a utilisé un, l'a posé quelque part temporairement, et il a été enterré. "Je le remettrai plus tard" est comment vous finissez par chercher dans toute la maison à 23h.
 
 Si vos enfants sont assez âgés pour porter leur propre passeport à travers un aéroport, fixez une règle claire: les passeports reviennent directement à un parent après utilisation, pas dans un sac à dos ou une poche de manteau.
 
@@ -93,7 +95,7 @@ Voici le modèle d'échec qui attrape les familles: vous renouvelez votre propre
 - **Feuille de calcul:** Fonctionne bien si vous la maintenez réellement. Une ligne par document par personne, la date d'expiration, et une formule qui met en évidence tout ce qui expire dans les 12 mois.
 - **Application dédiée:** Des outils comme Travel Document Vault gèrent les rappels automatiquement — numérisez le document, confirmez la date d'expiration, et il planifie des alertes dès huit mois avant l'échéance, puis à intervalles plus rapprochés, sans que vous ayez à y penser.
 
-N'importe lequel de ces trois approches fonctionne — ce qui compte est de choisir une qui correspond à votre fonctionnement et de vous y tenir réellement.
+N'importe laquelle de ces trois approches fonctionne, mais nous choisirions par défaut celle qui envoie le rappel automatiquement, car une feuille de calcul n'aide que si vous pensez à l'ouvrir. Ce qui compte avant tout est de choisir celle qui correspond à votre fonctionnement et de vous y tenir réellement.
 
 **Travel Document Vault** gère le suivi de l'expiration pour tous les membres de la famille automatiquement — numérisez chaque passeport une fois et recevez des rappels dès huit mois avant l'échéance. Pas de feuille de calcul, pas de renouvellements oubliés. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
@@ -115,14 +117,14 @@ Exécutez cette liste lorsque vous réservez — pas la nuit avant de partir. C'
 - Vérifiez que les documents d'assurance voyage sont à jour et accessibles
 - Préparez une lettre de consentement parental si vous voyagez sans les deux parents
 
-### La nuit avant
+### La nuit précédant le départ
 
 - Passeports dehors et comptabilisés — un par personne
 - Certificat d'assurance voyage dans votre sac ou téléphone
 - Cartes d'embarquement téléchargées ou imprimées
 - Tous les certificats de vaccination requis accessibles
 
-Pour plus d'informations sur des sujets spécifiques, consultez les [conseils sur les documents de voyage](https://traveldocumentvault.com/fr/) sur le blog — il y a des articles détaillés sur les calendriers de renouvellement des passeports et ce que vous devez savoir sur le stockage numérique.
+Si ce n'est pas déjà fait, choisissez l'endroit unique où vivront les passeports, et programmez dès aujourd'hui un rappel d'expiration pour le document qui arrive le plus tôt à échéance.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 

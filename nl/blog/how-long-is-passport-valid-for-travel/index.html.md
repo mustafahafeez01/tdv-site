@@ -20,9 +20,9 @@ Zeven maanden geldigheid over op je paspoort klinkt als ruim voldoende. Je boekt
 
 Het is een van de meest verkeerd begrepen regels in het reizen, omdat een paspoort dat niet is verlopen alsnog kan falen bij de inreisvereisten van tientallen populaire bestemmingen. Begrijpen hoe de geldigheidsmaanden van een paspoort werkelijk geteld worden, kan je een erg dure vergissing besparen.
 
-## Hoe lang is een paspoort geldig?
+## Paspoorten van volwassenen gaan veel langer mee dan die van kinderen
 
-De standaardgeldigheid voor een paspoort van een volwassene is in de meeste landen 10 jaar vanaf de afgiftedatum. Paspoorten van kinderen verlopen eerder – doorgaans na 5 jaar – omdat het uiterlijk van een kind in die periode aanzienlijk verandert.
+De standaardgeldigheid voor een paspoort van een volwassene is in de meeste landen 10 jaar vanaf de afgiftedatum. Paspoorten van kinderen verlopen eerder – doorgaans na 5 jaar – omdat het uiterlijk van een kind in die periode aanzienlijk verandert. Wij checken het paspoort van een kind eerder dan dat van wie dan ook, omdat iedereen er zomaar van uitgaat dat dat wel goed zit.
 
 | Land | Geldigheid volwassene | Geldigheid kind |
 |---|---|---|
@@ -47,7 +47,7 @@ We behandelen [welke landen de 6-maandenregel hanteren](https://traveldocumentva
 
 **Lege pagina's.** Sommige landen vereisen meerdere lege visumpagina's. Reis je vaak en is je paspoort al een paar jaar oud, dan kunnen de bruikbare pagina's op raken voordat de vervaldatum bereikt is. Controleer bij bestemmingen die visumstempels afgeven zowel het aantal pagina's als de geldigheid.
 
-## Hoeveel maanden geldigheid heb je nodig?
+## Het aantal maanden dat je nodig hebt, hangt af van je bestemming
 
 Dat hangt volledig af van waar je naartoe gaat.
 
@@ -57,7 +57,7 @@ Voor bestemmingen met een 6-maandeneis tel je 6 maanden vanaf de dag van aankoms
 
 Voor al het overige: controleer het voordat je boekt. Het IATA Travel Centre geeft binnen enkele seconden het exacte vereiste voor jouw nationaliteit en bestemming.
 
-## Paspoorten van kinderen – de valkuil bij gezinsreizen
+## Paspoorten van kinderen verlopen sneller, en gezinnen vergeten het te checken
 
 Hier lopen gezinnen elke zomer tegenaan: paspoorten van volwassenen zijn 10 jaar geldig, die van kinderen maar 5, en dat verschil creëert een specifiek probleem.
 
@@ -65,19 +65,19 @@ Een kind van 3 jaar dat in 2023 zijn eerste paspoort kreeg, heeft een document d
 
 **Controleer elk paspoort in het gezelschap afzonderlijk voordat je een internationale reis boekt** – één paspoort met te weinig geldigheid kan een heel gezin tegenhouden bij het instappen.
 
-## Wanneer moet je je paspoort verlengen?
+## Verleng met een geldigheidsbuffer, ruim voordat het verloopt
 
-Het praktische antwoord: zodra je onder de 12 maanden resterende geldigheid zakt.
-
-Dit is waarom 12 maanden de juiste grens is, en niet de vervaldatum zelf:
+Het praktische antwoord: zodra je onder de 12 maanden resterende geldigheid zakt, en niet pas wanneer het bijna verloopt. Dit is waarom 12 maanden de juiste grens is, en niet de vervaldatum zelf:
 
 - Het geeft je een volledige marge van 6 maanden voor elke bestemming die de regel hanteert.
 - Het verlengen van een paspoort kost tijd, en de verwerkingstijden veranderen – HM Passport Office raadt af om reizen te boeken voordat het nieuwe paspoort is aangekomen, en zowel HM Passport Office als het Amerikaanse ministerie van Buitenlandse Zaken publiceren hun actuele verwerkingstijden. Begin je met nog maar 6 maanden geldigheid, dan blijft er weinig marge over.
 - Last-minute plannen komen voor. Een paspoort met nog 14 maanden geldigheid houdt alle bestemmingen open. Een paspoort met nog 5 maanden sluit een groot deel van de wereld uit.
 
-De meest gemaakte fout is het instellen van een herinnering op de vervaldatum zelf. Op dat moment kun je al niet meer naar de meeste bestemmingen reizen die de 6-maandenregel hanteren. **Stel je verlengingsherinnering in op het punt van 12 maanden.**
+De meest gemaakte fout is het instellen van een herinnering op de vervaldatum zelf. Op dat moment kun je al niet meer naar de meeste bestemmingen reizen die de 6-maandenregel hanteren.
 
-Lees je ook onze gids over [hoe lang een paspoortverlenging duurt](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/), dan zie je precies hoe krap de tijdlijnen kunnen worden in drukke periodes – nog een reden om er vroeg bij te zijn.
+**Stel je verlengingsherinnering in op het punt van 12 maanden.**
+
+Lees je ook onze gids over [hoe lang een paspoortverlenging duurt](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/), dan zie je precies hoe krap de tijdlijnen kunnen worden in drukke periodes – nog een reden om er vroeg bij te zijn. Heeft je eigen paspoort al minder dan twaalf maanden geldigheid, verleng het dan voordat je iets anders boekt.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

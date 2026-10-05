@@ -20,7 +20,7 @@ Het UK ETA-systeem lijkt op het eerste gezicht simpel: je vraagt aan, je betaalt
 
 Dit is in de kern een probleem van documenten bijhouden. Je hebt twee vervaldata om in de gaten te houden: de vernieuwing van je paspoort en de geldigheid van je ETA. Mis je het verband tussen die twee, dan kun je dagen voor vertrek alsnog op het vliegveld worden tegengehouden.
 
-## Wie heeft een UK ETA nodig voor vertrek
+## De meeste visumvrije bezoekers hebben nu een ETA nodig
 
 Ben je onderdaan van de VS, Canada, Australië, Nieuw-Zeeland, of een land in de EU of de Europese Economische Ruimte, dan heb je waarschijnlijk een UK ETA nodig. De regeling werd vanaf 25 februari 2026 gehandhaafd voor de meeste visumvrije nationaliteiten.
 
@@ -28,7 +28,7 @@ Sommige mensen zijn vrijgesteld: Ierse burgers hebben er geen nodig, en wie al e
 
 **Controleer je eigen situatie bij de Home Office voordat je boekt.** Aan de ETA-verplichting voldoen is niet moeilijk, maar het kost je maar één onbekende vrijstellingscategorie om geld te verspillen aan een onnodige aanvraag of te worden tegengehouden bij het inchecken.
 
-## Waar de ETA eigenlijk aan gekoppeld is
+## De ETA is gekoppeld aan je paspoortnummer, niet aan jou
 
 Je UK ETA is gekoppeld aan je paspoortnummer, niet aan jou als persoon. Bij je aanvraag koppelt de Home Office de goedkeuring aan een specifiek paspoortnummer. Reizen met een ander paspoort – een net vernieuwd exemplaar, een tweede paspoort, een nooddocument – betekent reizen met een ETA die niet aan dat document gekoppeld is.
 
@@ -36,7 +36,7 @@ Dit verschilt van visa in veel landen, die vaak aan de persoon gekoppeld zijn en
 
 In de praktijk geldt: verloopt je paspoort of vernieuw je het om welke reden dan ook voor je reis, dan kun je je oude ETA niet gebruiken bij je nieuwe paspoort. Je moet opnieuw aanvragen en goedkeuring krijgen voordat je vertrekt, want er is geen automatische overdracht.
 
-## Wat er gebeurt als je je paspoort vernieuwt
+## Een vernieuwd paspoort heeft een nieuwe ETA nodig
 
 Een paspoort vernieuwen is op zich een routinehandeling. Maar de ETA-complicatie is reëel als je binnenkort op reis gaat.
 
@@ -53,7 +53,7 @@ Dit is de tijdlijn om rekening mee te houden:
 
 Het risico zit in stap 5. Ligt je reis over 10 dagen en komt je nieuwe paspoort vandaag aan, dan heb je een heel smal venster om te vernieuwen en de ETA-goedkeuring te krijgen. Begin je met minder dan 2 tot 3 weken voor vertrek aan het vernieuwingsproces, dan ontstaat er echte tijdsdruk.
 
-## Kinderen en baby's hebben hun eigen ETA nodig
+## Elk kind heeft een eigen ETA nodig, baby's inbegrepen
 
 Iedereen, ook baby's, heeft een eigen UK ETA nodig. Er bestaat geen gezins-ETA en geen manier om gezinsleden toe te voegen aan de aanvraag van iemand anders.
 
@@ -63,11 +63,13 @@ Paspoorten van kinderen verlopen bovendien sneller dan die van volwassenen – m
 
 **Controleer voordat je een gezinsreis naar het VK boekt de vervaldatum van het paspoort en de ETA-status van elk gezinslid.** Eén persoon met een bijna verlopen geldigheid kan het hele gezin tegenhouden bij het instappen.
 
-## Hoe ver van tevoren moet je aanvragen
+## Vraag twee tot drie weken voor vertrek aan
 
 De Home Office adviseert minstens 3 werkdagen voor vertrek aan te vragen. Dit is een richtlijn, geen gegarandeerde verwerkingstijd. Veel aanvragen worden sneller goedgekeurd. Andere duren langer, en goedkeuring gaat niet automatisch – de Home Office kan om extra informatie vragen of een aanvraag weigeren.
 
-**Plan alsof 3 werkdagen het minimum is, niet het streefdoel.** Een week van tevoren aanvragen vanuit het buitenland geeft je een redelijke marge, terwijl 48 uur voor je vlucht aanvragen betekent dat je uitgaat van het beste scenario, zonder enige marge als er iets misgaat.
+Plan alsof 3 werkdagen het minimum is, niet het streefdoel.
+
+Een week van tevoren aanvragen vanuit het buitenland geeft je een redelijke marge, terwijl 48 uur voor je vlucht aanvragen betekent dat je uitgaat van het beste scenario, zonder enige marge als er iets misgaat.
 
 Wordt je ETA-aanvraag geweigerd, dan zegt de Home Office dat je opnieuw kunt aanvragen – maar dat in de dagen voor je vlucht doen is geen praktisch vangnet. Vraag ruim op tijd aan en behandel 3 werkdagen als de minimale marge, niet als het streefdoel.
 
@@ -81,11 +83,13 @@ Een grensbeambte kan de toegang alsnog weigeren. Ze kunnen vragen stellen over j
 
 Een ETA is ook geen visum – die bepaalt niet hoe lang je mag blijven. ETA-houders uit de meeste visumvrije landen mogen tot 6 maanden als bezoeker blijven, maar het is de grensbeambte die bij aankomst de daadwerkelijke verblijfsduur vaststelt, niet de ETA zelf.
 
-## Meer over ETA en reisdocumenten
+## Een ETA is niet de enige toestemming die je misschien nodig hebt
 
 Een UK ETA is een van de verschillende digitale reistoestemmingen die nu in gebruik zijn. Reis je door meerdere landen, dan is het goed om het verschil te kennen tussen een ETA en een [visum](https://traveldocumentvault.com/nl/blog/visa-vs-passport/). Het proces lijkt op elkaar, maar ze dienen een ander doel.
 
 De EU voert een eigen digitaal reistoestemmingssysteem in, genaamd [ETIAS](https://traveldocumentvault.com/nl/blog/etias-documents-2026/), voor bezoekers van buiten de EU – qua opzet vergelijkbaar met de UK ETA, maar met andere regels en vereisten. Omvat je reis zowel het VK als Europa, dan heb je mogelijk beide nodig.
+
+Heb je al een reis geboekt, doe dan vandaag dit: vergelijk de vervaldatum van je paspoort met je reisdata, en controleer of je huidige ETA gekoppeld is aan het paspoort waarmee je daadwerkelijk gaat reizen. Schiet een van beide tekort, begin dan nu met de vernieuwing of de nieuwe aanvraag, niet pas in de week voor je vertrek.
 
 ## Veelgestelde vragen
 

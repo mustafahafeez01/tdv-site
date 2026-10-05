@@ -20,7 +20,7 @@ Ett internationellt körkort är en översättning av körkortet, inte ett körk
 
 Ett internationellt körkort har sitt eget utgångsdatum, och det datumet beter sig olika beroende på vilken av de internationella konventionerna ditt tillstånd är utfärdat under. De flesta förare upptäcker aldrig att det finns olika typer förrän ett av dem blir nekat.
 
-## Vad ett internationellt körkort faktiskt är
+## Ett internationellt körkort översätter ditt körkort, det ersätter det inte
 
 Ett internationellt körkort är en officiell översättning av körkortet du redan har. Det anger dina uppgifter på flera språk, så att en tjänsteman som inte kan läsa ditt nationella körkort ändå kan avgöra vad du får framföra.
 
@@ -28,7 +28,7 @@ Det fungerar alltså i par. Du bär det nationella körkortet och tillståndet t
 
 Det här lurar folk oftare än utgångsdatumen gör. Tillståndet ser ut som den seriösa handlingen, fullt av stämplar och språk, så det känns som det som spelar roll.
 
-## Tre konventioner, och de två som spelar roll
+## Två konventioner avgör hur länge det gäller och var det fungerar
 
 Tre internationella överenskommelser ligger bakom internationella körkort, och länder har anslutit sig till en eller flera av dem. Två av dem sköter nästan allt arbete: 1949 års Genèvekonvention och 1968 års Wienkonvention. Ett äldre tillstånd enligt 1926 års Pariskonvention utfärdas fortfarande för ett fåtal destinationer, och liksom Genève-tillståndet gäller det i ett år.
 
@@ -48,9 +48,9 @@ De där tre åren har ett villkor som är lätt att missa. Ett Wien-tillstånd u
 
 Säg att ditt körkort har 14 månader kvar och du får ett tillstånd på tre år. Tillståndet är då användbart i 14 månader. Datumet som står tryckt på framsidan har inte företräde framför körkortet bakom det.
 
-Att förnya körkortet efteråt räddar inte heller tillståndet. Det förblir kopplat till det körkort det utfärdades mot, så ett nytt körkort betyder i regel ett nytt tillstånd.
+Att förnya körkortet efteråt räddar inte heller tillståndet. Det förblir kopplat till det körkort det utfärdades mot, så ett nytt körkort betyder i regel ett nytt tillstånd. Ska körkortet förnyas före resan skulle vi förnya det först och ansöka om tillståndet efteråt, så att tillståndet knyts till det nya körkortet.
 
-## Tre handlingar, tre klockor
+## Tillståndet är datumet ingen håller koll på
 
 Ett pass, ett körkort och ofta ett tillstånd: den som kör utomlands slutar oftast med att bära alla tre, var och en utfärdad av en egen myndighet enligt sitt eget schema, så deras utgångsdatum stämmer sällan överens.
 
@@ -62,13 +62,13 @@ Passet är oftast det datum folk faktiskt håller koll på, och det finns en anl
 
 Det är det praktiska argumentet för att hålla alla tre datum på ett och samma ställe. Travel Document Vault, på [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) och [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), sparar handlingarna på din egen enhet och håller koll på varje utgångsdatum för sig, så att tillståndet inte tyst löper ut medan du håller ögonen på passet.
 
-## Vad du bör kontrollera innan du bokar
+## Kontrollera körkortets datum före tillståndets
 
-Några saker är värda att kontrollera, ungefär i den här ordningen.
+Vi skulle kontrollera dem i den här ordningen, och körkortets datum före allt som står tryckt på tillståndet.
 
 **Om du överhuvudtaget behöver ett tillstånd.** Vissa länder godtar ett nationellt körkort på egen hand, och det är landet du kör i som avgör kravet, inte det som utfärdade ditt körkort.
 
-**Vilken konvention ditt resmål erkänner**, och därefter vilken ditt tillstånd är utfärdat under. Det står tryckt på handlingen.
+**Vilken konvention ditt resmål erkänner**, och kontrollera sedan ditt tillstånd mot den (konventionen står tryckt på handlingen).
 
 **Körkortets utgångsdatum, före tillståndets.** På ett Wien-tillstånd är körkortet det avgörande datumet, så att kontrollera tillståndet först säger dig mindre än man kan tro.
 
@@ -86,15 +86,17 @@ Själva ansökan är oftast okomplicerad. Räkna med att lämna dina körkortsup
 
 Det gör som mest ont på en resa bokad med kort varsel. Tillståndet är sällan problemet i sig. Det blir problemet när det är den sista posten på en lista som redan är för tight.
 
-## Var försiktig med vad du köper online
+## Något internationellt körkort finns inte
 
 Sök på internationellt körkort och du hittar sajter som säljer något som kallas ett internationellt körkortsdokument, ofta för betydligt mer än vad det officiella tillståndet kostar, ibland med löfte om direktleverans eller ett decennium av giltighet.
 
 Något sådant körkort finns inte. De enda handlingarna med officiell status är tillstånden utfärdade enligt 1926, 1949 och 1968 års konventioner, genom kanalen ditt eget land utser. Tre år på ett Wien-tillstånd är det längsta något av dem gäller, så allt som marknadsförs med 10 eller 20 års giltighet beskriver en handling som ingen gränstjänsteman är skyldig att godta.
 
+Bygger du en bredare lista inför resan i stället för att bara reda ut bilfrågan går vår [internationella checklista för resehandlingar](https://traveldocumentvault.com/sv/blog/travel-document-checklist/) igenom vad du bör samla ihop innan du flyger, och [handlingarna folk glömmer](https://traveldocumentvault.com/sv/blog/what-documents-to-carry-when-travelling-internationally/) går igenom var var och en förvaras bäst när du är på resande fot.
+
 Ta reda på vilken instans som utfärdar tillstånd i landet som utfärdade ditt körkort, och vänd dig dit. Vill en sajt inte tala om vilken konvention dess dokument är utfärdat under är det svaret i sig.
 
-Bygger du en bredare lista inför resan i stället för att bara reda ut bilfrågan går vår [internationella checklista för resehandlingar](https://traveldocumentvault.com/sv/blog/travel-document-checklist/) igenom vad du bör samla ihop innan du flyger, och [handlingarna folk glömmer](https://traveldocumentvault.com/sv/blog/what-documents-to-carry-when-travelling-internationally/) går igenom var var och en förvaras bäst när du är på resande fot.
+Ta fram ditt körkort och ditt tillstånd, om du har ett, redan i dag och lägg de två utgångsdatumen bredvid varandra. På ett Wien-tillstånd är det datum som kommer först det då tillståndet verkligen upphör.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du agerar.
 

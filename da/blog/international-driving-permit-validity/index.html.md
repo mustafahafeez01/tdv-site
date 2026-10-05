@@ -20,7 +20,7 @@ Et internationalt kørekort er en oversættelse af kørekortet, ikke et kørekor
 
 Et internationalt kørekort har sin egen udløbsdato, og den dato opfører sig forskelligt afhængigt af, hvilken af de internationale traktater dit kort er udstedt under. De fleste bilister opdager først, at der findes flere typer, når et af dem bliver afvist.
 
-## Hvad et internationalt kørekort egentlig er
+## Et internationalt kørekort oversætter dit kørekort, det erstatter det ikke
 
 Et internationalt kørekort er en officiel oversættelse af det kørekort, du allerede har. Det gengiver dine oplysninger på flere sprog, så en betjent, der ikke kan læse dit nationale kørekort, stadig kan se, hvad du må køre.
 
@@ -28,7 +28,7 @@ Så det fungerer i par. Du medbringer det nationale kørekort og det internation
 
 Det er den fælde, folk går i oftere end selve udløbsdatoerne. Kortet ligner det seriøse dokument, med stempler og sprog, så det føles som det, der betyder noget.
 
-## Tre traktater, og de to der betyder noget
+## To traktater afgør, hvor længe kortet gælder, og hvor det virker
 
 Tre internationale aftaler ligger bag internationale kørekort, og landene har tilsluttet sig én af dem eller flere. To af dem klarer næsten det hele: Genèvekonventionen af 1949 og Wienerkonventionen af 1968. Et ældre kort udstedt under Pariserkonventionen af 1926 udstedes stadig til et lille antal destinationer, og ligesom Genève-kortet gælder det i ét år.
 
@@ -48,9 +48,9 @@ De tre år har en betingelse, det er let at springe over. Et Wien-kort udløber,
 
 Sig, at dit kørekort har 14 måneder tilbage, og du får udstedt et treårigt kort. Kortet er brugbart i 14 måneder. Datoen trykt på forsiden går ikke forud for kørekortet bag det.
 
-At forny kørekortet bagefter redder heller ikke kortet. Det forbliver knyttet til det kørekort, det blev udstedt mod, så et nyt kørekort betyder som regel et nyt internationalt kørekort.
+At forny kørekortet bagefter redder heller ikke kortet. Det forbliver knyttet til det kørekort, det blev udstedt mod, så et nyt kørekort betyder som regel et nyt internationalt kørekort. Hvis dit kørekort skal fornyes inden rejsen, ville vi forny det først og først derefter ansøge om kortet, så kortet bliver knyttet til det nye kørekort.
 
-## Tre dokumenter, tre ure
+## Dit internationale kørekort er den dato, ingen holder øje med
 
 Et pas, et kørekort og ofte et internationalt kørekort: alle, der kører i udlandet, ender med at medbringe alle tre, hver udstedt af et andet kontor efter sin egen tidsplan, så deres udløbsdatoer sjældent stemmer overens.
 
@@ -62,13 +62,13 @@ Passet er som regel den dato, folk holder styr på, og der er en grund til det: 
 
 Det er det praktiske argument for at holde alle tre datoer samlet ét sted. Travel Document Vault, i [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) og [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), gemmer dokumenterne på din enhed og holder styr på hver udløbsdato for sig, så det internationale kørekort ikke stille og roligt udløber, mens du holder øje med passet.
 
-## Hvad du skal tjekke, før du booker
+## Tjek kørekortets dato, før du tjekker kortets dato
 
-Der er nogle få ting, det er værd at tjekke, nogenlunde i denne rækkefølge.
+Vi ville tjekke dem i denne rækkefølge, og kørekortets dato før alt det, der står trykt på kortet.
 
 **Om du overhovedet skal bruge et internationalt kørekort.** Nogle lande accepterer et nationalt kørekort alene, og det er landet, du kører i, der fastsætter kravet – ikke landet, der udstedte dit kørekort.
 
-**Hvilken konvention din destination anerkender**, og derefter hvilken konvention dit kort er udstedt under. Det står trykt på dokumentet.
+**Hvilken konvention din destination anerkender**, og tjek så dit kort op imod den (konventionen står trykt på dokumentet).
 
 **Kørekortets udløbsdato, før kortets udløbsdato.** På et Wien-kort er kørekortet den bindende dato, så at tjekke kortet først fortæller dig mindre, end du tror.
 
@@ -86,15 +86,17 @@ Selve ansøgningen er som regel enkel. Forvent at skulle opgive dine kørekortop
 
 Det gør mest ondt ved en rejse booket med kort varsel. Kortet er sjældent problemet i sig selv. Det bliver problemet, når det er det sidste punkt på en liste, der allerede er presset.
 
-## Pas på, hvad du køber online
+## Der findes ikke noget, der hedder en international kørselslicens
 
 Søg efter et internationalt kørekort, og du finder sider, der sælger noget, der kaldes en international kørselslicens, ofte til betydeligt mere, end det officielle kort koster, nogle gange med løfte om øjeblikkelig levering eller ti års gyldighed.
 
 Sådan en licens findes ikke. De eneste dokumenter med gyldighed er de kort, der udstedes under 1926-, 1949- og 1968-konventionerne, gennem den kanal, dit eget land udpeger. Tre år på et Wien-kort er det længste, nogen af dem gælder, så alt, der reklamerer med 10 eller 20 år, beskriver et dokument, ingen grænsemyndighed er forpligtet til at acceptere.
 
+Bygger du en bredere liste før rejsen, i stedet for kun at ordne kørselsdelen, gennemgår vores [internationale tjekliste til rejsedokumenter](https://traveldocumentvault.com/da/blog/travel-document-checklist/), hvad du skal samle sammen, før du flyver, og [rejsedokumenterne folk glemmer](https://traveldocumentvault.com/da/blog/what-documents-to-carry-when-travelling-internationally/) dækker, hvor hvert dokument bedst opbevares, når du er undervejs.
+
 Find ud af, hvilket organ der udsteder kort i det land, der udstedte dit kørekort, og gå til det organ. Vil en side ikke fortælle dig, hvilken konvention dens dokument er udstedt under, har du fået svaret.
 
-Bygger du en bredere liste før rejsen, i stedet for kun at ordne kørselsdelen, gennemgår vores [internationale tjekliste til rejsedokumenter](https://traveldocumentvault.com/da/blog/travel-document-checklist/), hvad du skal samle sammen, før du flyver, og [rejsedokumenterne folk glemmer](https://traveldocumentvault.com/da/blog/what-documents-to-carry-when-travelling-internationally/) dækker, hvor hvert dokument bedst opbevares, når du er undervejs.
+Tag i dag dit kørekort og dit internationale kørekort frem, hvis du har et, og læg de to udløbsdatoer side om side. På et Wien-kort er den, der kommer først, den dato, hvor det reelt udløber.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du handler.
 

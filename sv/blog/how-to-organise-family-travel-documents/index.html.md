@@ -20,24 +20,24 @@ Klockan är elva kvällen innan en flygresa, passen ligger framme, försäkrings
 
 Att veta hur man organiserar resehandlingar för en hel familj är en av de där sakerna som känns valfria tills de plötsligt inte är det. Den här guiden visar hur ni sätter upp systemet en gång och slipper stressa inför varje resa.
 
+Den här guiden går igenom hela systemet; vill ni läsa mer om en enskild del, som tidslinjer för passförnyelse eller digital lagring, går [tipsen om resehandlingar](https://traveldocumentvault.com/sv/blog/) på bloggen djupare.
+
 ## Checklista för familjens resehandlingar: vad behöver en familj egentligen?
 
-Det beror på vart ni ska, men för de flesta internationella familjeresor är listan längre än man tror. Här är grundchecklistan för familjens resehandlingar:
-
-**Identitetshandlingar**
+Det beror på vart ni ska, men för de flesta internationella familjeresor är listan längre än man tror. Här är grundchecklistan för familjens resehandlingar, med de identitetshandlingar som alla behöver först:
 
 - Pass för varje familjemedlem (kontrollera giltighet minst 3 månader före resan)
 - Visum, om destinationslandet kräver det
 - Nationella ID-kort om de godtas i stället för pass (Schengenresor för EU-medborgare)
 
-**Resespecifika handlingar**
+**Handlingar specifika för resan**
 
 - Reseförsäkringsbevis eller villkorsöversikt
 - Bokningsbekräftelser: flyg, hotell, hyrbil
 - Vaccinationsbevis om destinationen kräver det
 - Returbiljett (vissa länder kräver bevis vid inresa)
 
-**Handlingar specifika för resor med barn**
+**Vad resor med barn lägger till**
 
 - Födelsebevis – krävs ibland vid gränskontroll, särskilt om barnets efternamn skiljer sig från den resande förälderns
 - Ett undertecknat samtyckesbrev från föräldern om en förälder inte är med – starkt rekommenderat vid resor med en ensam förälder eller far- och morföräldrar
@@ -63,7 +63,9 @@ Originalen hör hemma på ett ställe, och det stället finns bara till för res
 
 En dedikerad reseplånbok eller dokumentmapp – den typ som rymmer flera pass tillsammans med vikta A4-dokument – fungerar bra; märk den och förvara den på samma ställe varje gång: en särskild hylla, en byrålåda i hemmakontoret, eller ett brandsäkert skåp om ni vill ha extra säkerhet.
 
-**Det som avgör om systemet håller eller inte är att lägga tillbaka handlingarna direkt efter användning.** Handlingar försvinner sällan på grund av stöld utan för att någon använde dem, lade dem någonstans tillfälligt, och de blev begravda. "Jag lägger tillbaka det sen" är hur man hamnar i att leta genom hela huset klockan elva på kvällen.
+Det som avgör om systemet håller eller inte är att **lägga tillbaka handlingarna direkt efter användning**.
+
+Handlingar försvinner sällan på grund av stöld utan för att någon använde dem, lade dem någonstans tillfälligt, och de blev begravda. "Jag lägger tillbaka det sen" är hur man hamnar i att leta genom hela huset klockan elva på kvällen.
 
 Om era barn är gamla nog att bära sitt eget pass genom en flygplats, sätt en tydlig regel: passen går direkt tillbaka till en förälder efter användning, inte ner i en ryggsäck eller jackficka.
 
@@ -93,7 +95,7 @@ Här är mönstret som fångar familjer på sängen: ni förnyar ert eget pass, 
 - **Kalkylblad:** Fungerar bra om ni faktiskt underhåller det. En rad per handling per person, utgångsdatumet, och en formel som markerar allt som går ut inom 12 månader.
 - **Dedikerad app:** Verktyg som Travel Document Vault sköter påminnelserna automatiskt – skanna handlingen, bekräfta utgångsdatumet, så schemaläggs varningar från åtta månader innan, och sedan igen med tätare intervall, utan att ni behöver tänka på det.
 
-Alla tre metoderna fungerar – det viktiga är att välja en som passar hur ni redan gör saker och faktiskt hålla fast vid den.
+Alla tre metoderna fungerar, men vi skulle välja den som skickar påminnelsen automatiskt, eftersom ett kalkylblad bara hjälper om ni kommer ihåg att öppna det. Viktigast är att välja en som passar hur ni redan gör saker och faktiskt hålla fast vid den.
 
 **Travel Document Vault** sköter bevakningen av utgångsdatum för varje familjemedlem automatiskt – skanna varje pass en gång och få påminnelser från åtta månader innan utgångsdatumet. Inget kalkylblad, inga missade förnyelser. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
@@ -115,14 +117,14 @@ Kör igenom den här checklistan när ni bokar – inte kvällen innan avresa. D
 - Kontrollera att reseförsäkringens handlingar är aktuella och tillgängliga
 - Förbered ett samtyckesbrev om ni reser utan båda föräldrarna
 
-### Kvällen innan
+### Kvällen före avresa
 
 - Pass framme och avprickade – ett per person
 - Reseförsäkringsbeviset i väskan eller telefonen
 - Boardingkort nedladdade eller utskrivna
 - Eventuella vaccinationsbevis tillgängliga
 
-För mer om specifika ämnen, kolla in [tipsen om resehandlingar](https://traveldocumentvault.com/sv/blog/) på bloggen – där finns utförliga artiklar om tidslinjer för passförnyelse och vad ni bör veta om digital lagring.
+Om ni inte redan har gjort det, välj den enda plats där passen ska bo och ställ in en påminnelse om utgångsdatum i dag för den handling som är närmast att gå ut.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 

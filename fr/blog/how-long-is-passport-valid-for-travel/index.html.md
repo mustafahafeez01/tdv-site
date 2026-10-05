@@ -20,9 +20,9 @@ Sept mois restant sur votre passeport, cela semble beaucoup. Vous réservez les 
 
 C'est l'une des règles les plus mal comprises du voyage. Un passeport qui n'a pas expiré peut ne pas répondre aux exigences d'entrée de dizaines de destinations populaires. Comprendre comment les mois de validité du passeport sont réellement comptabilisés peut vous éviter une très grosse erreur.
 
-## Combien de temps un passeport est-il valable?
+## Les passeports d'adultes durent bien plus longtemps que ceux des enfants
 
-La période de validité standard d'un passeport pour adulte est de 10 ans à compter de la date de délivrance dans la plupart des pays. Les passeports pour enfants expirent plus tôt — généralement 5 ans — car l'apparence d'un enfant change considérablement pendant cette période.
+La période de validité standard d'un passeport pour adulte est de 10 ans à compter de la date de délivrance dans la plupart des pays. Les passeports pour enfants expirent plus tôt — généralement 5 ans — car l'apparence d'un enfant change considérablement pendant cette période. Nous vérifierions le passeport d'un enfant avant celui de n'importe qui d'autre, car c'est celui que tout le monde suppose en règle.
 
 | Pays | Validité adulte | Validité enfant |
 |---|---|---|
@@ -47,7 +47,7 @@ Nous couvrons [les pays qui appliquent la règle des 6 mois](https://traveldocum
 
 **Pages blanches.** Certains pays exigent 2 à 4 pages de visa vierges. Si vous voyagez fréquemment et que votre passeport a 6 ou 7 ans, il peut manquer de pages utilisables avant la date d'expiration. Vérifiez le nombre de pages ainsi que la validité lors des voyages vers des destinations qui émettent des cachets de visa.
 
-## Combien de mois de validité vous faut-il?
+## Les mois de validité dont vous avez besoin dépendent de votre destination
 
 Cela dépend entièrement de l'endroit où vous allez.
 
@@ -57,7 +57,7 @@ Pour les destinations ayant une exigence de 6 mois, comptez 6 mois à partir du 
 
 Pour tout le reste, vérifiez avant de réserver. Le centre de voyages de l'IATA donne l'exigence exacte pour votre nationalité et destination en quelques secondes.
 
-## Passeports d'enfants — le piège du voyage en famille
+## Les passeports d'enfants expirent plus vite, et les familles oublient de les vérifier
 
 C'est ici que les familles se font piéger chaque été. Les passeports pour adultes sont valables 10 ans. Les passeports pour enfants expirent après 5 ans. Cet écart crée un problème spécifique.
 
@@ -65,19 +65,19 @@ Un enfant de 3 ans qui a obtenu son premier passeport en 2023 a un document qui 
 
 **Avant de réserver un voyage international, vérifiez chaque passeport du groupe individuellement.** Un seul passeport court peut empêcher une famille entière de monter à bord.
 
-## Quand devrais-je renouveler mon passeport?
+## Renouvelez avec une marge de validité, bien avant l'expiration
 
-La réponse pratique est: lorsque vous passez sous 12 mois de validité restante.
-
-Voici pourquoi 12 mois est le bon seuil et pas la date d'expiration elle-même:
+La réponse pratique est: lorsque vous passez sous 12 mois de validité restante, et non quand il est sur le point d'expirer. Voici pourquoi 12 mois est le bon seuil plutôt que la date d'expiration elle-même:
 
 - Cela vous donne un délai tampon complet de 6 mois pour toute destination qui applique la règle.
 - Le renouvellement du passeport prend du temps, et les délais de traitement changent — le bureau des passeports HM déconseille de réserver un voyage avant l'arrivée du nouveau passeport, et lui comme le Département d'État américain publient leurs délais de traitement actuels. C'est pourquoi commencer avec 6 mois restants ne laisse que peu de marge.
 - Les plans de dernière minute arrivent. Un passeport avec 14 mois restants garde toutes les destinations ouvertes. Un passeport avec 5 mois restants ferme une grande partie du monde.
 
-L'erreur la plus courante est de définir un rappel sur la date d'expiration elle-même. À ce moment-là, vous ne pouvez pas voyager vers la plupart des destinations qui appliquent la règle des 6 mois. **Définissez votre rappel de renouvellement à la marque de 12 mois.**
+L'erreur la plus courante est de définir un rappel sur la date d'expiration elle-même. À ce moment-là, vous ne pouvez pas voyager vers la plupart des destinations qui appliquent la règle des 6 mois.
 
-Si vous lisez aussi notre guide sur la [durée du renouvellement du passeport](https://traveldocumentvault.com/fr/blog/how-long-does-passport-renewal-take/), vous verrez exactement comment les délais peuvent être serrés pendant les périodes chargées — ce qui est une autre raison de commencer tôt.
+**Définissez votre rappel de renouvellement à la marque de 12 mois.**
+
+Si vous lisez aussi notre guide sur la [durée du renouvellement du passeport](https://traveldocumentvault.com/fr/blog/how-long-does-passport-renewal-take/), vous verrez exactement comment les délais peuvent être serrés pendant les périodes chargées — ce qui est une autre raison de commencer tôt. Si votre propre passeport a déjà moins de douze mois de validité, renouvelez-le avant de réserver quoi que ce soit d'autre.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 

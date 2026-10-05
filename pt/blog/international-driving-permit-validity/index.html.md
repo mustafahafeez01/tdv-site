@@ -20,7 +20,7 @@ Uma carta de condução internacional é uma tradução da carta, não uma carta
 
 Uma Carta de Condução Internacional tem a sua própria data de validade, e essa data comporta-se de forma diferente consoante a convenção internacional ao abrigo da qual a carta foi emitida. A maioria dos condutores só descobre que existe mais do que um tipo quando um deles é recusado.
 
-## O Que É Realmente uma Carta de Condução Internacional
+## Uma Carta de Condução Internacional Traduz a Sua Carta, Não a Substitui
 
 Uma Carta de Condução Internacional é uma tradução oficial da carta que já possui. Apresenta os seus dados em várias línguas, para que um agente que não consiga ler a sua carta nacional perceba na mesma que categorias está autorizado a conduzir.
 
@@ -28,7 +28,7 @@ Funciona por isso em par. Leva a carta nacional e a carta internacional juntas e
 
 Isto engana as pessoas com mais frequência do que as datas de validade. A carta internacional parece o documento mais sério, cheio de carimbos e línguas, por isso dá a sensação de ser a que realmente importa.
 
-## Três Convenções, e as Duas que Importam
+## Duas Convenções Decidem a Duração e Onde Vale a Carta
 
 Existem três acordos internacionais por trás das Cartas de Condução Internacionais, e os países aderiram a um deles ou a vários. Dois fazem praticamente todo o trabalho: a Convenção de Genebra de 1949 e a Convenção de Viena de 1968. Uma carta mais antiga, ao abrigo da Convenção de Paris de 1926, ainda é emitida para um pequeno número de destinos e, tal como a carta de Genebra, tem a duração de um ano.
 
@@ -48,9 +48,9 @@ Esses três anos têm uma condição fácil de ignorar. Uma carta de Viena caduc
 
 Suponha que a sua carta tem 14 meses de validade e lhe é emitida uma carta internacional de três anos. Essa carta só é útil durante 14 meses. A data impressa na capa não se sobrepõe à carta que está por trás dela.
 
-Renovar a carta de condução depois também não salva a carta internacional. Esta permanece associada à carta contra a qual foi emitida, por isso uma carta nova significa, geralmente, uma nova carta internacional.
+Renovar a carta de condução depois também não salva a carta internacional. Esta permanece associada à carta contra a qual foi emitida, por isso uma carta nova significa, geralmente, uma nova carta internacional. Se a sua carta de condução tem de ser renovada antes da viagem, renovávamo-la primeiro e pedíamos a carta internacional depois, para que fique associada à carta nova.
 
-## Três Documentos, Três Prazos
+## A Carta Internacional É a Data Que Ninguém Vigia
 
 Um passaporte, uma carta de condução e, muitas vezes, uma carta internacional: quem conduz no estrangeiro acaba por levar os três, cada um emitido por uma entidade diferente e com o seu próprio calendário, pelo que as datas de validade raramente coincidem.
 
@@ -62,13 +62,13 @@ O passaporte é normalmente a data que as pessoas seguem, e há uma razão para 
 
 Esse é o argumento prático para manter as três datas num único sítio. O Travel Document Vault, disponível na [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) e no [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), guarda os documentos no seu dispositivo e acompanha cada validade de forma independente, para que a carta internacional não caduque em silêncio enquanto está de olho no passaporte.
 
-## O Que Verificar Antes de Reservar
+## Verifique a Data da Carta de Condução Antes da Data da Carta Internacional
 
-Vale a pena verificar algumas coisas, mais ou menos por esta ordem.
+Verificávamos por esta ordem, e a data da carta de condução antes de qualquer data impressa na carta internacional.
 
 **Se precisa mesmo de uma carta internacional.** Alguns países aceitam apenas a carta de condução nacional, e é o país onde vai conduzir que define o requisito, não aquele que emitiu a sua carta.
 
-**Que convenção o seu destino reconhece**, e depois ao abrigo de qual foi emitida a sua carta. Está impresso no documento.
+**Que convenção o seu destino reconhece**, e depois confirme a sua carta internacional face a essa convenção (a convenção está impressa no documento).
 
 **A validade da sua carta de condução, antes da validade da carta internacional.** Numa carta de Viena, é a carta de condução que define a data vinculativa, por isso verificar primeiro a carta internacional diz-lhe menos do que pensa.
 
@@ -86,15 +86,17 @@ O pedido em si costuma ser simples. Espere fornecer os dados da sua carta de con
 
 Onde isto mais pesa é numa viagem reservada em cima da hora. A carta internacional raramente é o problema sozinha. Torna-se o problema quando é o último item de uma lista já apertada.
 
-## Tenha Cuidado com o Que Compra Online
+## Não Existe Nenhuma Licença Internacional de Condução
 
 Procure por Carta de Condução Internacional e vai encontrar sites a vender algo chamado licença internacional de condução, muitas vezes por um preço bastante superior ao da carta oficial, prometendo por vezes entrega instantânea ou uma década de validade.
 
 Essa licença não existe. Os únicos documentos com validade legal são as cartas emitidas ao abrigo das convenções de 1926, 1949 e 1968, através do canal designado pelo seu próprio país. Três anos numa carta de Viena é o máximo que qualquer uma delas dura, por isso qualquer anúncio de 10 ou 20 anos descreve um documento que nenhum agente de fronteira é obrigado a aceitar.
 
+Se está a preparar uma lista mais ampla antes da viagem, e não apenas o lado da condução, a nossa [lista de verificação de documentos de viagem internacional](https://traveldocumentvault.com/pt/blog/travel-document-checklist/) percorre o que reunir antes de voar, e [os documentos que as pessoas esquecem](https://traveldocumentvault.com/pt/blog/what-documents-to-carry-when-travelling-internationally/) aborda onde é melhor guardar cada um depois de partir.
+
 Descubra qual é a entidade que emite estas cartas no país que emitiu a sua carta de condução, e dirija-se a essa entidade. Se um site não lhe disser ao abrigo de que convenção o seu documento é emitido, isso já responde à pergunta.
 
-Se está a preparar uma lista mais ampla antes da viagem, e não apenas o lado da condução, a nossa [lista de verificação de documentos de viagem internacional](https://traveldocumentvault.com/pt/blog/travel-document-checklist/) percorre o que reunir antes de voar, e [os documentos que as pessoas esquecem](https://traveldocumentvault.com/pt/blog/what-documents-to-carry-when-travelling-internationally/) aborda onde é melhor guardar cada um depois de partir.
+Hoje mesmo, pegue na sua carta de condução e na carta internacional, se tiver uma, e ponha as duas datas de validade lado a lado. Numa carta de Viena, a que chegar primeiro é a data em que ela realmente termina.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

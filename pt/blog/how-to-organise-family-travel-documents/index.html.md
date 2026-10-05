@@ -20,24 +20,24 @@ São 23h da noite anterior a um voo, passaportes estão fora, o comprovativo de 
 
 Saber como organizar documentos de viagem para uma família inteira é uma daquelas coisas que parecem opcionais até que definitivamente não são. Este guia mostra-lhe como configurar uma vez e parar de estar desesperado antes de cada viagem.
 
+Este guia cobre o sistema inteiro; para saber mais sobre um ponto específico, como os prazos de renovação do passaporte ou o armazenamento digital, os [conselhos de documentos de viagem](https://traveldocumentvault.com/pt/blog/) no blogue vão mais longe.
+
 ## Lista de Verificação de Documentos de Viagem em Família: O Que Uma Família Realmente Precisa?
 
-Depende de onde está a ir, mas para a maioria das viagens internacionais em família a lista é mais longa do que as pessoas esperam. Aqui está a lista de verificação de documentos de viagem essencial para famílias:
-
-**Documentos de identidade**
+Depende de onde está a ir, mas para a maioria das viagens internacionais em família a lista é mais longa do que as pessoas esperam. Aqui está a lista de verificação de documentos de viagem essencial para famílias, a começar pelos documentos de identidade de que todos precisam:
 
 - Passaportes para cada membro da família (verifique a validade no mínimo 3 meses antes da viagem)
 - Vistos, se exigidos pelo país de destino
 - Cartões de identidade nacionais se forem aceites em vez de passaportes (viagem Schengen para cidadãos da UE)
 
-**Documentos específicos de viagem**
+**Documentos específicos da viagem**
 
 - Certificado de seguro de viagem ou cópia do apólice
 - Confirmações de reserva: voos, hotéis, aluguel de carro
 - Registos de vacinação se exigidos no destino
 - Bilhete de regresso (alguns países exigem comprovativo na entrada)
 
-**Documentos específicos de viagem com crianças**
+**O que viajar com crianças acrescenta**
 
 - Certidões de nascimento — por vezes necessárias na imigração, especialmente quando o apelido de uma criança difere do progenitor que viaja
 - Uma carta de consentimento parental assinada se um dos pais não está presente — recomendado para viagem de um único progenitor ou avó/avó
@@ -63,7 +63,9 @@ Os originais vivem num único local, e esse local existe apenas para documentos 
 
 Uma carteira de viagem dedicada ou pasta — o tipo que contém múltiplos passaportes juntamente com documentos dobrados A4 — faz bem o trabalho; identifique-a e mantenha-a num local consistente: uma prateleira específica, uma gaveta de escritório domiciliar ou uma caixa à prova de fogo se quiser segurança extra.
 
-**A disciplina que faz ou quebra qualquer sistema é colocar documentos de volta imediatamente após utilização.** Documentos não desaparecem por roubo mas porque alguém utilizou um, colocou-o num local temporário, e ficou enterrado. "Vou pôr de volta mais tarde" é como termina a procurar pela casa à noite.
+A disciplina que faz ou quebra qualquer sistema é **colocar documentos de volta imediatamente após utilização**.
+
+Documentos não desaparecem por roubo mas porque alguém utilizou um, colocou-o num local temporário, e ficou enterrado. "Vou pôr de volta mais tarde" é como termina a procurar pela casa à noite.
 
 Se os seus filhos têm idade para carregar o seu próprio passaporte através de um aeroporto, estabeleça uma regra clara: passaportes voltam imediatamente para um progenitor após utilização, não para uma mochila ou bolso de casaco.
 
@@ -93,7 +95,7 @@ Aqui está o padrão de falha que apanha famílias: renova o seu próprio passap
 - **Folha de cálculo:** Funciona bem se realmente vai mantê-la. Uma linha por documento por pessoa, a data de validade, e uma fórmula que realça qualquer coisa expirando nos próximos 12 meses.
 - **Aplicação dedicada:** Ferramentas como Travel Document Vault lidam com os lembretes automaticamente — digitalize o documento, confirme a data de validade e agenda alertas a partir de oito meses antes e novamente em intervalos mais próximos, sem que tenha de pensar nisso.
 
-Qualquer uma destas três abordagens funcionará — o que importa é escolher uma que se adeque à forma como já opera e realmente cumprir com ela.
+Qualquer uma destas três abordagens funcionará, mas por defeito escolheríamos a que envia o lembrete automaticamente, já que uma folha de cálculo só ajuda se se lembrar de a abrir. O que mais importa é escolher uma que se adeque à forma como já opera e realmente cumprir com ela.
 
 **Travel Document Vault** lida com rastreamento de validade para cada membro da família automaticamente — digitalize cada passaporte uma vez e receba lembretes a partir de oito meses antes. Sem folha de cálculo, sem renovações esquecidas. [Transfira na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
@@ -115,14 +117,14 @@ Execute esta lista de verificação quando reserva — não a noite anterior ao 
 - Verificar que documentos de seguro de viagem são atuais e acessíveis
 - Preparar uma carta de consentimento parental se viajar sem ambos os pais
 
-### A Noite Anterior
+### Noite Anterior à Partida
 
 - Passaportes fora e contabilizados — um por pessoa
 - Certificado de seguro de viagem na sua bolsa ou telemóvel
 - Cartões de embarque descarregados ou impressos
 - Quaisquer certificados de vacinação necessários acessíveis
 
-Para mais sobre tópicos específicos, consulte os [conselhos de documentos de viagem](https://traveldocumentvault.com/pt/blog/) no blogue — há artigos detalhados sobre cronogramas de renovação de passaporte e o que precisa saber sobre armazenamento digital.
+Se ainda não o fez, escolha o único local onde os passaportes vão ficar e defina hoje um lembrete de validade para o documento que estiver mais perto de expirar.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

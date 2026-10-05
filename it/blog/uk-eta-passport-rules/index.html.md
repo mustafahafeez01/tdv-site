@@ -20,7 +20,7 @@ Il sistema dell'ETA del Regno Unito sembra semplice in superficie: fai domanda, 
 
 Questo è, in sostanza, un problema di gestione dei documenti. Ci sono due scadenze da tenere d'occhio: il rinnovo del passaporto e la validità dell'ETA. Se ti sfugge il collegamento tra le due, rischi di essere fermato in aeroporto giorni prima di partire.
 
-## Chi ha bisogno di un'ETA del Regno Unito prima di viaggiare
+## Quasi tutti i visitatori senza visto ora hanno bisogno di un'ETA
 
 Se sei cittadino di Stati Uniti, Canada, Australia, Nuova Zelanda, o di un paese dell'UE o dello Spazio Economico Europeo, probabilmente hai bisogno di un'ETA del Regno Unito. Il sistema è entrato in vigore dal 25 febbraio 2026 per la maggior parte dei cittadini non soggetti a visto.
 
@@ -28,7 +28,7 @@ Alcune persone sono esenti: i cittadini irlandesi non ne hanno bisogno, e chi ha
 
 **Verifica la tua situazione con l'Home Office prima di prenotare.** Rispettare il requisito dell'ETA non è difficile, ma basta non conoscere una categoria di esenzione per sprecare soldi in una domanda inutile o essere fermato al check-in.
 
-## A cosa è realmente collegata l'ETA
+## L'ETA è legata al numero del tuo passaporto, non a te
 
 La tua ETA del Regno Unito è collegata al numero del tuo passaporto, non a te come persona. Quando fai domanda, l'Home Office collega l'approvazione a un numero di passaporto specifico. Viaggiare con un passaporto diverso — uno appena rinnovato, un secondo passaporto, un documento sostitutivo d'emergenza — significa viaggiare con un'ETA non collegata a quel documento.
 
@@ -36,7 +36,7 @@ Questo è diverso da come funzionano i visti in molti paesi, che spesso sono leg
 
 In pratica, se il tuo passaporto scade o lo rinnovi per qualsiasi motivo prima del viaggio, non puoi usare la vecchia ETA con il nuovo passaporto. Devi rifare domanda e ottenere l'approvazione prima di partire, perché non esiste un trasferimento automatico.
 
-## Cosa succede quando rinnovi il passaporto
+## Un passaporto rinnovato richiede una nuova ETA
 
 Rinnovare un passaporto è, di per sé, una procedura di routine. Ma la complicazione dell'ETA è reale se hai un viaggio in programma a breve.
 
@@ -53,7 +53,7 @@ Ecco la sequenza da pianificare:
 
 Il rischio è nel passaggio 5. Se il tuo viaggio è tra 10 giorni e il nuovo passaporto arriva oggi, hai una finestra molto stretta per rinnovare e ottenere l'approvazione dell'ETA. Iniziare la procedura di rinnovo con meno di 2-3 settimane prima del viaggio crea una vera pressione sui tempi.
 
-## Bambini e neonati hanno bisogno della propria ETA
+## Ogni bambino ha bisogno della propria ETA, neonati compresi
 
 Ogni persona, compresi i neonati, ha bisogno della propria ETA del Regno Unito. Non esiste un'ETA familiare né un modo per aggiungere persone a carico alla domanda di qualcun altro.
 
@@ -63,11 +63,13 @@ Anche i passaporti dei bambini scadono prima di quelli degli adulti — di solit
 
 **Prima di prenotare un viaggio in famiglia nel Regno Unito, controlla la data di scadenza del passaporto e lo stato dell'ETA di ogni membro della famiglia.** Basta una sola persona con la validità in scadenza per impedire a tutta la famiglia di imbarcarsi.
 
-## Con quanto anticipo fare domanda
+## Fai domanda da due a tre settimane prima del viaggio
 
 L'Home Office consiglia di fare domanda con almeno 3 giorni lavorativi di anticipo rispetto al viaggio. È un'indicazione, non un tempo di elaborazione garantito. Molte domande vengono approvate più velocemente. Altre richiedono più tempo, e l'approvazione non è automatica — l'Home Office può chiedere informazioni aggiuntive o rifiutare una domanda.
 
-**Pianifica come se 3 giorni lavorativi fossero il minimo, non l'obiettivo.** Fare domanda una settimana prima, trovandoti fuori dal Regno Unito, ti dà un margine ragionevole, mentre farla 48 ore prima del volo significa contare sul miglior scenario possibile di elaborazione, senza alcun margine se qualcosa va storto.
+Pianifica come se 3 giorni lavorativi fossero il minimo, non l'obiettivo.
+
+Fare domanda una settimana prima, trovandoti fuori dal Regno Unito, ti dà un margine ragionevole, mentre farla 48 ore prima del volo significa contare sul miglior scenario possibile di elaborazione, senza alcun margine se qualcosa va storto.
 
 Se la tua domanda di ETA viene rifiutata, l'Home Office dice che puoi fare di nuovo domanda — ma farlo nei giorni prima del volo non è un'alternativa pratica. Fai domanda con largo anticipo e considera i 3 giorni lavorativi come il margine minimo, non come l'obiettivo.
 
@@ -81,11 +83,13 @@ Un agente di frontiera può comunque rifiutare l'ingresso. Può farti domande su
 
 Un'ETA inoltre non è un visto — non stabilisce per quanto tempo puoi restare. I titolari di ETA della maggior parte dei paesi non soggetti a visto possono restare fino a 6 mesi come visitatori, ma è l'agente di frontiera a stabilire la durata effettiva del soggiorno all'arrivo, non l'ETA stessa.
 
-## Altri temi collegati a ETA e documenti di viaggio
+## Un'ETA non è l'unica autorizzazione che potrebbe servirti
 
 L'ETA del Regno Unito è una delle diverse autorizzazioni di viaggio digitali oggi in uso. Se stai pianificando un viaggio in più paesi, è utile capire la differenza tra un'ETA e un [visto](https://traveldocumentvault.com/it/blog/visa-vs-passport/). Il processo sembra simile, ma servono a scopi diversi.
 
 L'UE sta introducendo un proprio sistema di autorizzazione di viaggio digitale chiamato [ETIAS](https://traveldocumentvault.com/it/blog/etias-documents-2026/) per i visitatori extra-UE — simile nel concetto all'ETA del Regno Unito, ma con regole e requisiti diversi. Se il tuo viaggio include sia il Regno Unito sia l'Europa, potresti aver bisogno di entrambe.
+
+Se hai già un viaggio prenotato, fai questo oggi: confronta la data di scadenza del passaporto con le date del viaggio e verifica che la tua ETA attuale sia legata al passaporto con cui viaggerai davvero. Se una delle due cose non torna, avvia subito il rinnovo o una nuova domanda, non la settimana prima di partire.
 
 ## Domande Frequenti
 

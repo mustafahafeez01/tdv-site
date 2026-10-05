@@ -20,7 +20,7 @@ O sistema de ETA do Reino Unido parece simples à superfície: candidata-se, pag
 
 Este é, no fundo, um problema de acompanhamento de documentos. Há duas datas de validade a vigiar: a renovação do passaporte e a validade da ETA. Se não perceber a ligação entre as duas, pode ser impedido de embarcar no aeroporto dias antes de viajar.
 
-## Quem precisa de uma ETA do Reino Unido antes de viajar
+## A maioria dos visitantes isentos de visto precisa agora de uma ETA
 
 Se for cidadão dos EUA, do Canadá, da Austrália, da Nova Zelândia, ou de um país da UE ou do Espaço Económico Europeu, é provável que precise de uma ETA do Reino Unido. O regime entrou em vigor a 25 de fevereiro de 2026 para a maioria dos cidadãos isentos de visto.
 
@@ -28,7 +28,7 @@ Algumas pessoas estão isentas: os cidadãos irlandeses não precisam de ETA, e 
 
 **Confirme a sua situação junto do Home Office antes de reservar a viagem.** Cumprir o requisito da ETA não é complicado, mas basta desconhecer uma categoria de isenção para gastar dinheiro numa candidatura desnecessária ou ser impedido no check-in.
 
-## A que está a ETA realmente associada
+## A ETA está associada ao número do seu passaporte, não a si
 
 A sua ETA do Reino Unido está associada ao número do passaporte, não à sua pessoa. Quando se candidata, o Home Office associa a aprovação a um número de passaporte específico. Viajar com um passaporte diferente — um recém-renovado, um segundo passaporte, um documento de substituição de emergência — significa viajar com uma ETA que não está associada a esse documento.
 
@@ -36,7 +36,7 @@ Isto é diferente do que acontece com os vistos de muitos países, que costumam 
 
 Na prática, se o seu passaporte expirar ou o renovar por qualquer motivo antes da viagem, não pode usar a ETA antiga com o novo passaporte. Tem de se candidatar novamente e obter aprovação antes de viajar, já que não existe transferência automática.
 
-## O que acontece quando renova o passaporte
+## Um passaporte renovado precisa de uma nova ETA
 
 Renovar o passaporte é, em si, um processo de rotina. Mas a complicação da ETA é real se tiver uma viagem marcada para breve.
 
@@ -53,7 +53,7 @@ Eis a linha temporal a ter em conta:
 
 O risco está no passo 5. Se a viagem for daqui a 10 dias e o novo passaporte chegar hoje, tem uma janela muito curta para renovar e obter a aprovação da ETA. Iniciar o processo de renovação com menos de 2 a 3 semanas de antecedência cria uma pressão de tempo real.
 
-## Crianças e bebés precisam da sua própria ETA
+## Cada criança precisa da sua própria ETA, bebés incluídos
 
 Todas as pessoas, incluindo bebés, precisam da sua própria ETA do Reino Unido. Não existe uma ETA familiar nem forma de adicionar dependentes à candidatura de outra pessoa.
 
@@ -63,11 +63,13 @@ Os passaportes de crianças também expiram mais depressa do que os de adultos �
 
 **Antes de reservar qualquer viagem em família para o Reino Unido, verifique a data de validade do passaporte e o estado da ETA de cada membro da família.** Basta uma pessoa com a validade a expirar para impedir toda a família de embarcar.
 
-## Com quanta antecedência se deve candidatar
+## Candidate-se duas a três semanas antes de viajar
 
 O Home Office recomenda candidatar-se com pelo menos 3 dias úteis de antecedência. Isto é uma orientação, não um prazo de processamento garantido. Muitas candidaturas são aprovadas mais depressa. Outras demoram mais tempo, e a aprovação não é automática — o Home Office pode pedir informação adicional ou recusar uma candidatura.
 
-**Planeie como se os 3 dias úteis fossem o mínimo, não o objetivo.** Candidatar-se uma semana antes, estando fora do Reino Unido, dá-lhe uma margem razoável, enquanto candidatar-se 48 horas antes do voo significa assumir o melhor cenário possível de processamento, sem qualquer margem se algo correr mal.
+Planeie como se os 3 dias úteis fossem o mínimo, não o objetivo.
+
+Candidatar-se uma semana antes, estando fora do Reino Unido, dá-lhe uma margem razoável, enquanto candidatar-se 48 horas antes do voo significa assumir o melhor cenário possível de processamento, sem qualquer margem se algo correr mal.
 
 Se a sua candidatura à ETA for recusada, o Home Office indica que pode candidatar-se novamente — mas fazê-lo nos dias antes do voo não é uma alternativa prática. Candidate-se com bastante antecedência e trate os 3 dias úteis como a margem mínima, não como o objetivo.
 
@@ -75,17 +77,17 @@ A abordagem mais segura é candidatar-se assim que tiver o passaporte definitivo
 
 ## Uma ETA é permissão para viajar, não uma promessa de entrada
 
-Uma ETA do Reino Unido significa que o Home Office aprovou a sua viagem ao Reino Unido, mas isso não garante que lhe seja permitida a entrada na fronteira.
-
 Um agente de fronteira pode sempre recusar a entrada. Pode fazer perguntas sobre o motivo da viagem, a sua situação financeira, os seus laços com o país de origem, ou o seu histórico de viagens. Se não ficar satisfeito com as respostas, pode negar a entrada mesmo com uma ETA válida. Isto é raro para turistas, mas acontece.
 
 Uma ETA também não é um visto — não determina quanto tempo pode ficar. Os titulares de ETA da maioria dos países isentos de visto podem ficar até 6 meses como visitantes, mas é o agente de fronteira que define a duração real da estadia à chegada, e não a própria ETA.
 
-## Outros temas relacionados com ETA e documentos de viagem
+## A ETA não é a única autorização de que pode precisar
 
 A ETA do Reino Unido é uma das várias autorizações de viagem digitais atualmente em uso. Se está a planear viajar por vários países, vale a pena perceber a diferença entre uma ETA e um [visto](https://traveldocumentvault.com/pt/blog/visa-vs-passport/). O processo parece semelhante, mas servem propósitos diferentes.
 
 A UE está a implementar o seu próprio sistema de autorização de viagem digital, chamado [ETIAS](https://traveldocumentvault.com/pt/blog/etias-documents-2026/), para visitantes de fora da UE — semelhante em conceito à ETA do Reino Unido, mas com regras e requisitos diferentes. Se a sua viagem incluir tanto o Reino Unido como a Europa, pode precisar de ambas.
+
+Se já tem uma viagem reservada, faça isto hoje: confronte a data de validade do seu passaporte com as datas da viagem e confirme que a ETA atual está associada ao passaporte com que vai realmente viajar. Se uma das duas condições falhar, comece já a renovação ou a nova candidatura, e não na semana em que voa.
 
 ## Perguntas Frequentes
 

@@ -20,9 +20,9 @@ Sete meses no seu passaporte parece bastante tempo. Marca os voos, verifica a ba
 
 É uma das regras de viagem mais incompreendidas. Um passaporte que não expirou pode ainda assim falhar os requisitos de entrada para dezenas de destinos populares. Compreender como os meses de validade do passaporte são contados pode poupar-lhe um erro muito caro.
 
-## Quanto Tempo é que um Passaporte é Válido?
+## Os Passaportes de Adultos Duram Muito Mais do Que os das Crianças
 
-O período de validade padrão para um passaporte de adulto é 10 anos a partir da data de emissão na maioria dos países. Os passaportes de crianças expiram mais cedo — normalmente 5 anos — porque a aparência de uma criança muda significativamente durante esse tempo.
+O período de validade padrão para um passaporte de adulto é 10 anos a partir da data de emissão na maioria dos países. Os passaportes de crianças expiram mais cedo — normalmente 5 anos — porque a aparência de uma criança muda significativamente durante esse tempo. Verificaríamos o passaporte da criança antes do de qualquer outra pessoa, por ser aquele que todos assumem estar em ordem.
 
 | País | Validade de adulto | Validade de criança |
 |---|---|---|
@@ -47,7 +47,7 @@ Coberto em [quais países aplicam a regra dos 6 meses](https://traveldocumentvau
 
 **Páginas em branco.** Alguns países requerem 2 a 4 páginas de visto em branco. Se viaja frequentemente e o seu passaporte tem 6 ou 7 anos, pode ficar sem páginas utilizáveis antes da data de expiração. Verifique a contagem de páginas bem como a validade quando viaja para destinos que emitem selos de visto.
 
-## Quantos Meses de Validade Precisa?
+## Os Meses de Validade de Que Precisa Dependem do Destino
 
 Depende inteiramente do seu destino.
 
@@ -57,7 +57,7 @@ Para destinos com um requisito de 6 meses, conte 6 meses a partir do dia em que 
 
 Para tudo o resto, verifique antes de marcar. O IATA Travel Centre dá o requisito exato para a sua nacionalidade e destino em segundos.
 
-## Passaportes de Crianças — A Armadilha de Viagens em Família
+## Os Passaportes de Crianças Expiram Mais Cedo, e as Famílias Esquecem-se de Verificar
 
 Isto é onde as famílias são apanhadas todos os verões. Os passaportes de adultos são válidos por 10 anos. Os passaportes de crianças expiram após 5. Essa diferença cria um problema específico.
 
@@ -65,19 +65,19 @@ Uma criança de 3 anos que obteve o seu primeiro passaporte em 2023 tem um docum
 
 **Antes de marcar qualquer viagem internacional, verifique o passaporte de cada membro do grupo individualmente.** Um passaporte curto pode bloquear uma família inteira de embarcar.
 
-## Quando Devo Renovar o Meu Passaporte?
+## Renove com Margem de Validade, Bem Antes de Expirar
 
-A resposta prática: quando ficar com menos de 12 meses de validade restante.
-
-Eis por que 12 meses é o limiar certo e não a data de expiração em si:
+A resposta prática: quando ficar com menos de 12 meses de validade restante, e não quando estiver prestes a expirar. Eis por que 12 meses é o limiar certo e não a data de expiração em si:
 
 - Dá-lhe uma margem de segurança completa de 6 meses para qualquer destino que aplique a regra.
 - A renovação de passaporte demora tempo, e os tempos de processamento mudam — o HM Passport Office aconselha a não marcar viagens até o novo passaporte chegar, e tanto este como o Departamento de Estado dos EUA publicam os seus tempos de processamento atuais. Por isso começar com 6 meses de validade deixa pouca margem.
 - Planos de última hora acontecem. Um passaporte com 14 meses de validade mantém todos os destinos abertos. Um passaporte com 5 meses de validade fecha uma grande parte do mundo.
 
-O erro mais comum é definir um lembrete na data de expiração em si. Nesse momento, não pode viajar para a maioria dos destinos que aplicam a regra dos 6 meses. **Defina o seu lembrete de renovação na marca dos 12 meses.**
+O erro mais comum é definir um lembrete na data de expiração em si. Nesse momento, não pode viajar para a maioria dos destinos que aplicam a regra dos 6 meses.
 
-Se também ler o nosso guia sobre [quanto tempo demora a renovação de passaporte](https://traveldocumentvault.com/pt/blog/how-long-does-passport-renewal-take/), verá exactamente como as prazos podem ficar apertados durante períodos movimentados — que é outra razão para começar cedo.
+**Defina o seu lembrete de renovação na marca dos 12 meses.**
+
+Se também ler o nosso guia sobre [quanto tempo demora a renovação de passaporte](https://traveldocumentvault.com/pt/blog/how-long-does-passport-renewal-take/), verá exactamente como as prazos podem ficar apertados durante períodos movimentados — que é outra razão para começar cedo. Se o seu passaporte já tem menos de doze meses de validade, renove-o antes de reservar o que quer que seja.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

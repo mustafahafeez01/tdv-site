@@ -20,9 +20,9 @@ Sisa masa berlaku paspor tujuh bulan terdengar cukup lama. Anda memesan tiket pe
 
 Ini salah satu aturan yang paling sering disalahpahami dalam perjalanan, karena paspor yang belum kedaluwarsa tetap bisa gagal memenuhi persyaratan masuk untuk puluhan destinasi populer. Memahami cara menghitung masa berlaku paspor yang sebenarnya bisa menyelamatkan Anda dari kesalahan yang sangat mahal.
 
-## Berapa Lama Paspor Berlaku?
+## Paspor Dewasa Berlaku Jauh Lebih Lama daripada Paspor Anak
 
-Masa berlaku standar untuk paspor dewasa adalah 10 tahun sejak tanggal penerbitan di sebagian besar negara. Paspor anak kedaluwarsa lebih cepat, biasanya 5 tahun, karena penampilan anak berubah signifikan dalam kurun waktu tersebut.
+Masa berlaku standar untuk paspor dewasa adalah 10 tahun sejak tanggal penerbitan di sebagian besar negara. Paspor anak kedaluwarsa lebih cepat, biasanya 5 tahun, karena penampilan anak berubah signifikan dalam kurun waktu tersebut. Kami akan memeriksa paspor anak lebih dulu daripada paspor siapa pun, karena paspor itulah yang paling sering dianggap pasti aman.
 
 | Negara | Masa berlaku dewasa | Masa berlaku anak |
 |---|---|---|
@@ -47,7 +47,7 @@ Kami membahas [negara mana saja yang menerapkan aturan 6 bulan](https://traveldo
 
 **Halaman kosong.** Beberapa negara mensyaratkan beberapa halaman visa kosong. Jika Anda sering bepergian dan paspor Anda sudah berumur beberapa tahun, halaman yang bisa digunakan mungkin habis sebelum tanggal kedaluwarsa. Periksa jumlah halaman selain masa berlaku saat bepergian ke destinasi yang menerbitkan stempel visa.
 
-## Berapa Bulan Masa Berlaku yang Anda Perlukan?
+## Jumlah Bulan yang Anda Perlukan Bergantung pada Tujuan Anda
 
 Ini sepenuhnya tergantung ke mana Anda akan pergi.
 
@@ -57,7 +57,7 @@ Untuk destinasi dengan persyaratan 6 bulan, hitung 6 bulan sejak hari Anda tiba.
 
 Untuk yang lainnya, periksa sebelum memesan. IATA Travel Centre memberikan persyaratan yang tepat untuk kewarganegaraan dan destinasi Anda dalam hitungan detik.
 
-## Paspor Anak - Jebakan Perjalanan Keluarga
+## Paspor Anak Kedaluwarsa Lebih Cepat, dan Keluarga Sering Lupa Memeriksanya
 
 Di sinilah keluarga sering terjebak setiap musim panas: paspor dewasa berlaku 10 tahun, paspor anak hanya 5 tahun, dan kesenjangan itu menciptakan masalah spesifik.
 
@@ -65,19 +65,19 @@ Anak berusia 3 tahun yang mendapatkan paspor pertamanya pada 2023 memiliki dokum
 
 **Sebelum memesan perjalanan internasional apa pun, periksa setiap paspor dalam rombongan Anda satu per satu**, satu paspor dengan sisa masa berlaku pendek bisa menghalangi seluruh keluarga naik pesawat.
 
-## Kapan Anda Harus Memperpanjang Paspor?
+## Perpanjang dengan Jeda Masa Berlaku, Jauh Sebelum Kedaluwarsa
 
-Jawaban praktisnya: ketika sisa masa berlaku Anda turun di bawah 12 bulan.
-
-Berikut alasan mengapa 12 bulan adalah ambang batas yang tepat, bukan tanggal kedaluwarsa itu sendiri:
+Jawaban praktisnya: ketika sisa masa berlaku Anda turun di bawah 12 bulan, bukan ketika paspor hampir kedaluwarsa. Berikut alasan mengapa 12 bulan adalah ambang batas yang tepat, bukan tanggal kedaluwarsa itu sendiri:
 
 - Ini memberi Anda margin penuh 6 bulan untuk destinasi mana pun yang menerapkan aturan tersebut.
 - Perpanjangan paspor membutuhkan waktu, dan waktu pemrosesannya berubah-ubah — HM Passport Office menyarankan untuk tidak memesan perjalanan sebelum paspor baru Anda tiba, dan baik HM Passport Office maupun Departemen Luar Negeri AS mempublikasikan waktu pemrosesan mereka yang berlaku saat ini. Memulai dengan sisa 6 bulan hanya menyisakan sedikit margin.
 - Rencana mendadak bisa saja terjadi. Paspor dengan sisa 14 bulan membuka semua destinasi. Paspor dengan sisa 5 bulan menutup sebagian besar dunia.
 
-Kesalahan paling umum adalah mengatur pengingat pada tanggal kedaluwarsa itu sendiri. Pada titik itu, Anda sudah tidak bisa bepergian ke sebagian besar destinasi yang menerapkan aturan 6 bulan. **Atur pengingat perpanjangan Anda pada tanda 12 bulan.**
+Kesalahan paling umum adalah mengatur pengingat pada tanggal kedaluwarsa itu sendiri. Pada titik itu, Anda sudah tidak bisa bepergian ke sebagian besar destinasi yang menerapkan aturan 6 bulan.
 
-Jika Anda juga membaca panduan kami tentang [berapa lama perpanjangan paspor berlangsung](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/), Anda akan melihat dengan tepat betapa ketatnya jadwal waktu di masa-masa sibuk, alasan lain untuk memulai lebih awal.
+**Atur pengingat perpanjangan Anda pada tanda 12 bulan.**
+
+Jika Anda juga membaca panduan kami tentang [berapa lama perpanjangan paspor berlangsung](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/), Anda akan melihat dengan tepat betapa ketatnya jadwal waktu di masa-masa sibuk, alasan lain untuk memulai lebih awal. Jika paspor Anda sendiri sudah memiliki sisa masa berlaku kurang dari dua belas bulan, perpanjang sebelum Anda memesan apa pun.
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 

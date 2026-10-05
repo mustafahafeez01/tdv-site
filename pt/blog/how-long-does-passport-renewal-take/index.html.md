@@ -18,7 +18,9 @@ Source: https://traveldocumentvault.com/pt/blog/how-long-does-passport-renewal-t
 
 Marcou voos para uma viagem cinco meses a partir de agora. Tira os passaportes de toda a gente para verificar novamente e lá está: um expira em cinco meses e três semanas. Agora precisa saber exatamente quanto tempo demora a renovação de passaporte — porque a matemática de repente importa.
 
-Não existe um número único, e qualquer artigo que lhe dê um está silenciosamente a apostar que nunca reparará quando este ficar desatualizado. Os tempos de processamento mudam com o pessoal, o volume de candidaturas e a época do ano, por isso um número correto hoje pode facilmente estar errado dentro de alguns meses. O que quase não muda é a forma da decisão em si: cada autoridade de passaportes gere uma fila padrão e pelo menos uma via paga para avançar mais depressa, e um conjunto específico de situações atrasa de forma fiável uma candidatura, seja qual for o país que a emite. É isso que este guia aborda, juntamente com onde exatamente consultar o número que se aplica a si neste momento.
+Não existe um número único, e qualquer artigo que lhe dê um está silenciosamente a apostar que nunca reparará quando este ficar desatualizado.
+
+Os tempos de processamento mudam com o pessoal, o volume de candidaturas e a época do ano, por isso um número correto hoje pode facilmente estar errado dentro de alguns meses. O que quase não muda é a forma da decisão em si: cada autoridade de passaportes gere uma fila padrão e pelo menos uma via paga para avançar mais depressa, e um conjunto específico de situações atrasa de forma fiável uma candidatura, seja qual for o país que a emite. É isso que este guia aborda, juntamente com onde exatamente consultar o número que se aplica a si neste momento.
 
 **Aviso importante:** Não citamos aqui tempos de processamento, propositadamente. Mudam com a época do ano e com o pessoal, e um número correto hoje pode estar errado dentro de alguns meses. A sua própria autoridade de passaportes publica o número atual — HM Passport Office, o Departamento de Estado dos EUA, o Serviço de Passaportes Australiano ou o equivalente nacional — e é a única fonte que vale a pena consultar.
 
@@ -64,7 +66,7 @@ Isto torna o processo mais exigente logisticamente, especialmente se vive algure
 
 **Defina um lembrete de renovação agora** — Travel Document Vault notifica-o 6, 3 e 1 mês antes do seu passaporte expirar, para que esteja sempre a renovar com tempo de sobra. [Transferir na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
-## Dicas de Renovação de Passaporte Acelerada: Como Acelerar as Coisas
+## Uma Lista Curta e Previsível Causa a Maioria dos Atrasos
 
 Não importa qual país está a renovar, os mesmos erros consistentemente causam atrasos. Observe estes culpados comuns:
 
@@ -88,7 +90,7 @@ As regras variam por país:
 
 **A exceção crítica:** Se o seu país de destino requer visto de entrada única, usar o passaporte antigo para viajar pode invalidar o visto associado a ele. Sempre verifique implicações de visto antes de viajar com um passaporte antigo enquanto um novo está em processo.
 
-## O Que Fazer Se a Sua Viagem É Iminente
+## Se a Viagem É Iminente, Mexa-se em Todas as Frentes ao Mesmo Tempo
 
 Tem viagem marcada nas próximas semanas e o seu passaporte está prestes a expirar. Não entre em pânico — mas mova-se depressa:
 
@@ -97,9 +99,9 @@ Tem viagem marcada nas próximas semanas e o seu passaporte está prestes a expi
 3. **Verifique a sua política de seguro de viagem.** Algumas políticas cobrem custos extras de renovação urgente de passaporte. A maioria exclui situações em que a renovação era previsível — mas vale a pena verificar antes de gastar o dinheiro.
 4. **Pergunte sobre reagendar a sua viagem.** Companhias aéreas e hotéis variam, mas muitos dispensarão taxas de alteração para emergências documentadas de passaporte. Não é garantido, mas não custa nada perguntar.
 
-**A melhor solução é evitar a situação completamente.** Se está a gerir passaportes para vários membros da família, uma aplicação como [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) envia-lhe lembretes de validade 6 meses, 3 meses e 1 mês — para que esteja a renovar com bastante tempo, não em pânico no último minuto. Consulte mais [dicas de documentos de viagem](https://traveldocumentvault.com/pt/blog/) neste blogue para estratégias que mantêm tudo em ordem.
+**A melhor solução é evitar a situação completamente.** Se está a gerir passaportes para vários membros da família, uma aplicação como [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) envia-lhe lembretes de validade 6 meses, 3 meses e 1 mês — para que esteja a renovar com bastante tempo, não em pânico no último minuto. Consulte mais [dicas de documentos de viagem](https://traveldocumentvault.com/pt/blog/) neste blogue para estratégias que mantêm tudo em ordem. Vale também a pena ler a [regra de 6 meses de validade de passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/): um passaporte recém-renovado ainda precisa cumprir os requisitos de validade do país de destino — e muitos viajantes ficam apanhados por isto.
 
-Uma coisa mais que vale a pena ler: a [regra de 6 meses de validade de passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/). Um passaporte recém-renovado ainda precisa cumprir os requisitos de validade do país de destino — e muitos viajantes ficam apanhados por isto.
+Pegue hoje no seu passaporte e veja quantos meses de validade lhe restam face à sua próxima viagem. Se essa margem parecer apertada, encare-o como o sinal para começar a renovação já, e não perto da partida.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

@@ -26,7 +26,7 @@ Dua hal ini sering tertukar, dan masing-masing penting karena alasan berbeda. **
 
 Artikel ini membahas persetujuan untuk pengajuan. Perbedaan ini penting karena Anda mungkin memerlukan salah satunya tanpa yang lain. Seorang anak bisa memiliki paspor yang sah karena kedua orang tua setuju untuk menerbitkannya, tetapi itu tidak otomatis berarti kedua orang tua menyetujui setiap perjalanan. Lihat panduan kami tentang [surat izin perjalanan anak](https://traveldocumentvault.com/id/blog/child-travel-consent-letter/) dan [bepergian dengan anak tanpa kedua orang tua](https://traveldocumentvault.com/id/blog/travelling-child-without-both-parents/) untuk sisi perjalanannya.
 
-## Siapa yang Harus Setuju Sebelum Permohonan Bisa Diajukan
+## Secara Umum, Semua Orang yang Memiliki Tanggung Jawab Orang Tua Harus Setuju
 
 Aturan dasarnya adalah semua orang dewasa yang memiliki tanggung jawab orang tua atas anak harus menyetujui permohonan paspor. Bagi sebagian besar keluarga, ini berarti kedua orang tua yang menikah; bagi pasangan yang tidak menikah, berarti kedua pasangan jika keduanya tercantum sebagai orang tua di akta kelahiran. Siapa pun dengan putusan pengadilan atau hak asuh tunggal secara hukum mengikuti aturan yang berbeda, dan kantor paspor Anda akan menjelaskan prosedur khususnya saat Anda bertanya.
 
@@ -34,7 +34,7 @@ Pengecualian ini nyata dan perlu diketahui. Orang tua yang sudah meninggal tidak
 
 **Jika Anda mengajukan permohonan sendirian** karena memiliki hak asuh tunggal secara hukum, karena orang tua lainnya sudah meninggal, atau karena ada putusan pengadilan yang berlaku, hubungi kantor paspor Anda langsung dengan membawa dokumen pengadilan. Mereka akan memberi tahu persis apa yang perlu Anda serahkan untuk membuktikan bahwa Anda berhak mengajukan permohonan tanpa orang tua lainnya.
 
-## Apa yang Biasanya Harus Dibuktikan pada Permohonan Pertama
+## Setiap Permohonan Pertama Memerlukan Tiga Jenis Bukti
 
 Kantor paspor memerlukan tiga hal saat Anda mengajukan paspor pertama untuk anak, bukti identitas anak, bukti identitas orang tua, dan bukti hubungan orang tua dengan anak.
 
@@ -46,7 +46,7 @@ Kantor paspor memerlukan tiga hal saat Anda mengajukan paspor pertama untuk anak
 
 **Beberapa negara menggunakan sistem penjamin tanda tangan.** Artinya, seorang profesional yang tepercaya, seperti guru, dokter, atau pengacara, menandatangani formulir untuk menjamin bahwa permohonan tersebut asli dan foto benar-benar menyerupai anak. Jika negara Anda menggunakan sistem ini, Anda perlu menemukan orang yang bersedia melakukannya sebelum mengajukan permohonan. Tanyakan kepada kantor paspor Anda profesi apa saja yang mereka terima.
 
-## Memotret Bayi untuk Paspor
+## Bayi Tidak Bisa Mengikuti Aturan Foto Orang Dewasa, Jadi Anda Menyesuaikannya
 
 Di sinilah banyak permohonan pertama kali gagal. Bayi atau anak kecil tidak bisa mengikuti aturan foto seperti orang dewasa, bayi belum bisa duduk tegak, balita belum bisa diam atau memahami instruksi, dan bayi baru lahir tidak bisa melihat kamera atas perintah. Standar foto paspor dibuat untuk orang dewasa, sehingga Anda perlu memahami cara menyesuaikannya saat subjeknya adalah anak yang beratnya 5 kilogram dan terus bergerak.
 
@@ -58,13 +58,21 @@ Di sinilah banyak permohonan pertama kali gagal. Bayi atau anak kecil tidak bisa
 
 **Untuk balita usia 2 tahun ke atas,** dudukkan mereka di depan latar belakang polos di kursi, atau berdiri jika sudah bisa berdiri. Mata harus menatap lurus ke kamera, yang lebih sulit dari kedengarannya karena balita tidak mudah menuruti instruksi. Cobalah bernyanyi, membuat suara lucu, atau meminta mereka melihat satu titik tepat di atas lensa kamera. Anda ingin mereka menatap sedikit ke atas, yang justru terlihat lebih baik dalam foto. Sekali lagi, ambil banyak foto, Anda hanya perlu satu foto dengan kedua mata terbuka jelas dan menatap kamera.
 
-**Kesalahan paling umum:** tangan orang tua yang menopang kepala bayi terlihat dalam bingkai (tidak diperbolehkan), empeng yang masih ada di mulut bayi (harus dilepas), orang lain yang terlihat sebagian di tepi foto (tidak boleh muncul), mainan atau benda di latar belakang (harus disingkirkan), dan latar belakang yang tidak terlihat jelas di belakang kepala anak (mundur atau sesuaikan sudut agar latar belakang polos terlihat).
+**Kesalahan yang paling umum** semuanya berawal dari sesuatu yang menyelinap ke dalam bingkai yang seharusnya hanya berisi bayi:
 
-Jika bayi tertidur atau menangis selama proses pemotretan, hentikan dan coba lagi di waktu lain. Kantor paspor Anda sudah pernah melihat semua variasi situasi ini. Mereka lebih memilih menerima foto yang jelas dari bayi yang waspada daripada foto buram dari anak yang sedang rewel.
+- Tangan orang tua yang menopang kepala bayi (tidak diperbolehkan).
+- Empeng yang masih ada di mulut bayi (harus dilepas sebelum foto diambil).
+- Orang lain yang terlihat sebagian di tepi bingkai (sama sekali tidak boleh muncul).
+- Mainan atau benda di latar belakang (singkirkan lebih dulu).
+- Latar belakang polos yang tidak terlihat jelas di belakang kepala anak (mundur atau sesuaikan sudutnya).
 
-## Ketika Satu Orang Tua Tidak Bisa Menandatangani
+Jika bayi tertidur atau menangis selama proses pemotretan, hentikan dan coba lagi di waktu lain. Kantor paspor Anda sudah pernah melihat semua variasi situasi ini. Kami selalu memilih mencoba lagi dengan tenang daripada memaksakan foto buram. Kantor paspor lebih suka menerima foto jelas dari bayi yang waspada daripada foto tergesa-gesa dari anak yang sedang rewel.
 
-Kantor paspor tidak bisa menerbitkan dokumen tanpa bukti hukum bahwa Anda berhak melanjutkan sendirian, baik karena orang tua lainnya tidak bersedia menandatangani, tidak dapat ditemukan, atau sudah kehilangan hak asuh. Ini adalah persyaratan hukum yang ada untuk melindungi anak, bukan sesuatu yang bisa dinegosiasikan.
+## Menandatangani Sendirian Biasanya Memerlukan Bukti Hukum
+
+Kantor paspor tidak bisa menerbitkan dokumen tanpa bukti hukum bahwa Anda berhak melanjutkan sendirian, baik karena orang tua lainnya tidak bersedia menandatangani, tidak dapat ditemukan, atau sudah kehilangan hak asuh.
+
+Ini adalah persyaratan hukum yang ada untuk melindungi anak, bukan sesuatu yang bisa dinegosiasikan.
 
 **Jika orang tua lainnya hilang atau menolak,** Anda memerlukan putusan pengadilan. Ini bisa berupa putusan hak asuh yang sudah ada, putusan perwalian, atau putusan pengadilan khusus yang menyatakan Anda memiliki hak asuh tunggal. Beberapa negara mengizinkan Anda mengajukan permohonan ke pengadilan untuk memperoleh izin menerbitkan paspor tanpa persetujuan orang tua lainnya, jika Anda bisa menunjukkan bahwa anak akan dirugikan oleh penundaan atau bahwa orang tua lainnya tidak layak diajak berkonsultasi. Ini berbeda-beda menurut negara dan praktik pengadilan setempat, tanyakan kepada kantor paspor Anda atau pengacara keluarga tentang prosedur di tempat Anda.
 
@@ -72,7 +80,7 @@ Kantor paspor tidak bisa menerbitkan dokumen tanpa bukti hukum bahwa Anda berhak
 
 **Jika ada perintah larangan mendekati atau pembatasan hak asuh,** bawalah putusan pengadilan tersebut. Dokumen ini menunjukkan kepada kantor paspor secara pasti izin dan pembatasan apa yang berlaku.
 
-## Yang Harus Diperiksa pada Hari Paspor Tiba
+## Periksa Tiga Hal pada Hari Paspor Tiba
 
 Setelah paspor diterbitkan dan sampai ke tangan Anda, luangkan lima menit untuk memeriksanya sebelum menyimpannya. Ada tiga hal yang perlu Anda periksa, yang mudah diperbaiki sekarang tetapi menjadi mimpi buruk jika baru diperbaiki di bandara.
 
@@ -80,9 +88,9 @@ Setelah paspor diterbitkan dan sampai ke tangan Anda, luangkan lima menit untuk 
 
 **Periksa nama orang tua di bagian yang mencantumkannya.** Beberapa negara mencetak nama orang tua atau wali di bagian dalam paspor anak. Jika nama-nama ini salah eja atau tidak tepat, hubungi kantor paspor untuk memperbaikinya.
 
-**Periksa tanggal kedaluwarsa.** Ini sangat penting untuk anak karena [paspor anak kedaluwarsa jauh lebih cepat daripada paspor dewasa](https://traveldocumentvault.com/id/blog/family-passport-management/). Saat memesan perjalanan, Anda perlu tahu persis kapan dokumen ini berhenti berlaku. Catat tanggalnya. Pasang pengingat. Paspor anak yang kedaluwarsa tanpa diduga adalah salah satu alasan paling umum keluarga terpaksa membatalkan atau menjadwal ulang perjalanan.
+**Periksa tanggal kedaluwarsa.** Ini sangat penting untuk anak karena [paspor anak kedaluwarsa jauh lebih cepat daripada paspor dewasa](https://traveldocumentvault.com/id/blog/family-passport-management/). Saat memesan perjalanan, Anda perlu tahu persis kapan dokumen ini berhenti berlaku. Catat tanggalnya dan pasang pengingat pada hari paspor tiba, bukan menunggu sampai ada perjalanan yang direncanakan; itulah satu kebiasaan yang selalu kami sarankan kepada para orang tua. Paspor anak yang kedaluwarsa tanpa diduga adalah salah satu alasan paling umum keluarga terpaksa membatalkan atau menjadwal ulang perjalanan.
 
-Jika ada yang salah, hubungi kantor paspor Anda dalam hitungan hari. Perbaikan biasanya gratis jika dilaporkan dengan cepat. Jangan menunda, karena semakin lama dibiarkan, semakin rumit prosesnya.
+Jika ada yang salah, hubungi kantor paspor Anda dalam hitungan hari. Perbaikan biasanya gratis jika dilaporkan dengan cepat, dan semakin lama dibiarkan, semakin rumit prosesnya. Setelah semuanya beres, simpan paspor langsung di folder dokumen Anda beserta catatan tanggal kedaluwarsanya, agar perpanjangan tidak datang sebagai kejutan.
 
 ## Pertanyaan yang Sering Diajukan
 

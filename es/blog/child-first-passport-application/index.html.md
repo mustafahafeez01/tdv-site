@@ -26,7 +26,7 @@ Estas dos cosas suelen confundirse, y cada una importa por un motivo distinto. *
 
 Este artículo trata el consentimiento para la solicitud. Esta distinción importa porque podrías necesitar uno sin el otro. Un niño puede tener un pasaporte válido que ambos progenitores aceptaron tramitar, pero eso no significa automáticamente que ambos hayan dado su consentimiento para cada viaje. Consulta nuestra guía sobre [cartas de autorización de viaje para menores](https://traveldocumentvault.com/es/blog/child-travel-consent-letter/) y sobre [viajar sin ambos progenitores](https://traveldocumentvault.com/es/blog/travelling-child-without-both-parents/) para la parte del viaje.
 
-## Quién Debe Dar su Consentimiento Antes de Presentar la Solicitud
+## Por Defecto, Deben Estar de Acuerdo Todos los Que Tienen Responsabilidad Parental
 
 La norma general es que todos los adultos con responsabilidad parental sobre el niño deben dar su consentimiento a la solicitud de pasaporte. Para la mayoría de las familias, esto significa ambos progenitores casados; en el caso de parejas no casadas, significa ambos miembros si los dos figuran como progenitores en el certificado de nacimiento. Cualquier persona con una orden judicial o guarda y custodia legal exclusiva sigue normas distintas, y tu oficina de pasaportes te explicará el procedimiento concreto si lo consultas.
 
@@ -34,7 +34,7 @@ Estas excepciones son reales y conviene conocerlas. Un progenitor fallecido no p
 
 **Si solicitas el pasaporte tú solo/a** porque tienes la guarda y custodia legal exclusiva, porque el otro progenitor ha fallecido, o porque existe una orden judicial vigente, ponte en contacto directamente con tu oficina de pasaportes con la documentación judicial. Te indicarán exactamente qué debes presentar para demostrar tu derecho a solicitarlo sin el otro progenitor.
 
-## Qué Tienes que Demostrar en una Primera Solicitud
+## Toda Primera Solicitud Necesita Tres Tipos de Pruebas
 
 Las oficinas de pasaportes piden tres cosas cuando solicitas el primer pasaporte de un niño: prueba de la identidad del niño, prueba de la identidad de los progenitores, y prueba del vínculo entre los progenitores y el niño.
 
@@ -46,7 +46,7 @@ Las oficinas de pasaportes piden tres cosas cuando solicitas el primer pasaporte
 
 **Algunos países utilizan un sistema de contrafirmante.** Esto significa que un profesional de confianza —un profesor, médico, abogado o similar— firma un formulario para dar fe de que la solicitud es genuina y de que la foto se parece de verdad al niño. Si tu país utiliza este sistema, necesitas identificar a alguien dispuesto a hacerlo antes de solicitar el pasaporte. Pregunta a tu oficina de pasaportes qué profesiones acepta.
 
-## Fotografiar a un Bebé para el Pasaporte
+## Los Bebés No Pueden Seguir las Normas de Adultos, Así Que las Adaptas
 
 Aquí es donde muchas primeras solicitudes fracasan. Un bebé o un niño pequeño no puede seguir las normas de la foto como lo haría un adulto: los bebés no se sientan solos, los pequeños no se quedan quietos ni entienden instrucciones, y los recién nacidos no miran a la cámara a la orden. Las normas de las fotos de pasaporte se redactaron pensando en adultos, y hay que entender cómo adaptarlas cuando el sujeto es un niño que pesa 5 kilos y no para de moverse.
 
@@ -58,13 +58,21 @@ Aquí es donde muchas primeras solicitudes fracasan. Un bebé o un niño pequeñ
 
 **Para niños de 2 años en adelante:** siéntalos delante del fondo liso en una silla, o de pie si ya se mantienen solos. Los ojos deben mirar directamente a la cámara, lo cual es más difícil de lo que parece porque los niños de esta edad no siguen instrucciones. Canta una canción, haz un ruido gracioso, o pídeles que miren un punto justo encima del objetivo. Quieres que miren ligeramente hacia arriba, lo cual además queda mejor en la foto. De nuevo, haz muchas tomas —solo necesitas una en la que estén mirando a la cámara con los dos ojos claramente abiertos.
 
-Los errores más frecuentes: una mano del progenitor sujetando la cabeza del bebé dentro del encuadre (no permitido), un chupete todavía en la boca del bebé (hay que quitarlo), otra persona parcialmente visible en el borde (no debe aparecer), juguetes u objetos en el fondo (retíralos), y el fondo que no se ve con claridad detrás de la cabeza del niño (retrocede o ajusta el ángulo para que el fondo liso quede visible).
+**Los errores más frecuentes** se reducen a algo que se cuela en un encuadre pensado para que salga solo el bebé:
 
-Si el bebé se duerme o llora durante los intentos, para y vuelve a intentarlo otro día. Tu oficina de pasaportes lo ha visto todo en este sentido. Prefieren recibir una foto nítida de un bebé despierto y tranquilo antes que una foto borrosa de un niño angustiado.
+- Una mano del progenitor sujetando la cabeza del bebé (no permitido).
+- Un chupete todavía en la boca del bebé (hay que quitarlo antes de la foto).
+- Otra persona parcialmente visible en el borde del encuadre (no debe aparecer en absoluto).
+- Juguetes u objetos en el fondo (retíralos antes).
+- El fondo liso que no se ve con claridad detrás de la cabeza del niño (retrocede o ajusta el ángulo).
 
-## Cuando un Progenitor No Puede Firmar
+Si el bebé se duerme o llora durante los intentos, para y vuelve a intentarlo otro día. Tu oficina de pasaportes lo ha visto todo en este sentido. Nosotros siempre preferiríamos repetirlo con calma antes que forzar una foto borrosa. A la oficina le gusta más ver una imagen nítida de un bebé despierto que una hecha con prisas de un niño angustiado.
 
-Tu oficina de pasaportes no puede expedir el documento sin una prueba legal de que tienes derecho a tramitarlo sola/o, ya sea porque el otro progenitor no quiere firmar, no se le puede localizar, o ha perdido la responsabilidad parental. Se trata de un requisito legal que existe para proteger al niño, no de algo negociable.
+## Firmar Solo/a Suele Exigir Pruebas Legales
+
+Tu oficina de pasaportes no puede expedir el documento sin una prueba legal de que tienes derecho a tramitarlo sola/o, ya sea porque el otro progenitor no quiere firmar, no se le puede localizar, o ha perdido la responsabilidad parental.
+
+Se trata de un requisito legal que existe para proteger al niño, no de algo negociable.
 
 **Si el otro progenitor no aparece o se niega:** necesitas una orden judicial. Puede ser una orden de custodia existente, una orden de tutela, o una resolución judicial específica que establezca que tienes la responsabilidad parental exclusiva. Algunos países permiten solicitar al juzgado autorización para expedir el pasaporte sin el consentimiento del otro progenitor si puedes demostrar que el retraso perjudicaría al niño o que el otro progenitor no está en condiciones de ser consultado. Esto varía según el país y la práctica judicial local —pregunta a tu oficina de pasaportes o a un abogado de familia cuál es el procedimiento en tu caso.
 
@@ -72,7 +80,7 @@ Tu oficina de pasaportes no puede expedir el documento sin una prueba legal de q
 
 **Si existe una orden de alejamiento o una restricción de custodia:** lleva contigo la orden judicial. Muestra a la oficina exactamente qué permisos y restricciones están en vigor.
 
-## Qué Revisar el Día que Llega
+## Revisa Tres Cosas el Día que Llega el Pasaporte
 
 Una vez que te llegue el pasaporte ya expedido, dedica cinco minutos a revisarlo antes de guardarlo. Buscas tres cosas que ahora son fáciles de corregir y que serían una pesadilla corregir en el aeropuerto.
 
@@ -80,9 +88,9 @@ Una vez que te llegue el pasaporte ya expedido, dedica cinco minutos a revisarlo
 
 **Revisa los nombres de los progenitores donde aparezcan.** Algunos países imprimen los nombres de los progenitores o tutores en el interior del pasaporte del niño. Si estos nombres están mal escritos o son incorrectos, ponte en contacto con la oficina para que lo corrijan.
 
-**Revisa la fecha de caducidad.** Esto es fundamental en el caso de los niños porque [los pasaportes infantiles caducan mucho antes que los de los adultos](https://traveldocumentvault.com/es/blog/family-passport-management/). Al reservar un viaje, necesitas saber exactamente cuándo deja de ser válido este documento. Anótala. Programa un recordatorio. Que el pasaporte de un niño caduque de forma inesperada es uno de los motivos más habituales por los que las familias tienen que cancelar o reprogramar un viaje.
+**Revisa la fecha de caducidad.** Esto es fundamental en el caso de los niños porque [los pasaportes infantiles caducan mucho antes que los de los adultos](https://traveldocumentvault.com/es/blog/family-passport-management/). Al reservar un viaje, necesitas saber exactamente cuándo deja de ser válido este documento. Anótala y programa un recordatorio el mismo día en que llegue el pasaporte, no cuando surja un viaje; es el único hábito que recomendaríamos siempre a los padres. Que el pasaporte de un niño caduque de forma inesperada es uno de los motivos más habituales por los que las familias tienen que cancelar o reprogramar un viaje.
 
-Si algo está mal, ponte en contacto con tu oficina de pasaportes en los primeros días. Las correcciones suelen ser gratuitas si se comunican rápido. No esperes, porque cuanto más tiempo pase, más complicado se vuelve el proceso.
+Si algo está mal, ponte en contacto con tu oficina de pasaportes en los primeros días. Las correcciones suelen ser gratuitas si se comunican rápido, y cuanto más tiempo pase, más complicado se vuelve el proceso. Cuando todo esté en orden, guarda el pasaporte enseguida en tu carpeta de documentos con una nota de la fecha de caducidad, para que la renovación no te pille por sorpresa.
 
 ## Preguntas Frecuentes
 

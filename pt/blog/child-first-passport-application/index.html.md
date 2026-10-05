@@ -26,7 +26,7 @@ Estas duas coisas são muitas vezes confundidas, e cada uma importa por razões 
 
 Este artigo trata do consentimento para o pedido. A distinção importa porque pode precisar de um sem o outro. Uma criança pode ter um passaporte válido que ambos os pais concordaram em emitir, mas isso não significa automaticamente que ambos consentiram em todas as viagens. Consulte o nosso guia sobre [cartas de consentimento de viagem para crianças](https://traveldocumentvault.com/pt/blog/child-travel-consent-letter/) e sobre [viajar sem os dois pais](https://traveldocumentvault.com/pt/blog/travelling-child-without-both-parents/) para o lado da viagem desta equação.
 
-## Quem tem de concordar antes de o pedido poder avançar
+## Por regra, todos os que têm responsabilidade parental têm de concordar
 
 A regra geral é que todos os adultos com responsabilidade parental sobre a criança têm de consentir o pedido de passaporte. Para a maioria das famílias, isto significa ambos os pais casados; para casais não casados, significa ambos os parceiros, se ambos constarem da certidão de nascimento como pais. Quem tem uma decisão judicial ou guarda legal exclusiva segue regras diferentes, e o serviço de passaportes explica o procedimento específico quando perguntar.
 
@@ -34,7 +34,7 @@ Estas exceções são reais e vale a pena conhecê-las. Um progenitor falecido n
 
 **Se estiver a fazer o pedido sozinho** por ter guarda legal exclusiva, por o outro progenitor ter falecido, ou por existir uma decisão judicial em vigor, contacte diretamente o serviço de passaportes com os documentos judiciais. Vão indicar-lhe exatamente o que precisa de apresentar para provar que tem o direito de pedir sem o outro progenitor.
 
-## O que um primeiro pedido costuma exigir que comprove
+## Todo o primeiro pedido exige três tipos de prova
 
 Os serviços de passaportes pedem três coisas quando se candidata ao primeiro passaporte de uma criança: prova da identidade da criança, prova da identidade dos pais, e prova da relação dos pais com a criança.
 
@@ -46,7 +46,7 @@ Os serviços de passaportes pedem três coisas quando se candidata ao primeiro p
 
 **Alguns países usam um sistema de contrassinatário.** Isto significa que um profissional de confiança — professor, médico, advogado, ou similar — assina um formulário a confirmar que o pedido é genuíno e que a fotografia é uma imagem fiel da criança. Se o seu país usar este sistema, precisa de identificar alguém disposto a fazê-lo antes de submeter o pedido. Pergunte ao serviço de passaportes que profissões aceitam.
 
-## Como fotografar um bebé para o passaporte
+## Os bebés não conseguem seguir as regras de foto dos adultos, por isso adapta-se
 
 É aqui que muitos pedidos pela primeira vez falham. Um bebé ou uma criança pequena não consegue seguir as regras da fotografia como um adulto: os bebés não conseguem sentar-se sozinhos, as crianças pequenas não conseguem ficar quietas ou entender instruções, e os recém-nascidos não conseguem olhar para a câmara a pedido. As normas para fotografias de passaporte foram escritas para adultos, e é preciso perceber como as adaptar quando o sujeito é uma criança que pesa 5 quilos e não para quieta.
 
@@ -58,13 +58,21 @@ Os serviços de passaportes pedem três coisas quando se candidata ao primeiro p
 
 **Para crianças a partir dos 2 anos:** sente-as em frente ao fundo liso numa cadeira, ou de pé se já conseguirem estar de pé. Os olhos devem olhar diretamente para a câmara, o que é mais difícil do que parece, porque as crianças pequenas não seguem instruções facilmente. Cante uma canção, faça um som engraçado, ou peça-lhes para olharem para um ponto mesmo acima da lente da câmara. O objetivo é que olhem ligeiramente para cima, o que aliás resulta melhor nas fotografias. Mais uma vez, tire muitas fotografias — só precisa de uma em que estejam a olhar para a câmara com os dois olhos claramente abertos.
 
-**Os erros mais comuns:** a mão de um progenitor a segurar a cabeça do bebé visível na imagem (não é permitido), uma chupeta ainda na boca do bebé (tem de ser removida), outra pessoa parcialmente visível na borda da imagem (não pode aparecer), brinquedos ou objetos no fundo (remova-os), e o fundo não estar claramente visível atrás da cabeça da criança (afaste-se ou ajuste o ângulo para que o fundo liso fique visível).
+**Os erros mais comuns** resumem-se a algo que se intromete numa imagem que deve conter apenas o bebé:
 
-Se o bebé adormecer ou chorar durante as tentativas, pare e tente noutra altura. O serviço de passaportes já viu todas as variações possíveis desta situação. Preferem sempre receber uma fotografia nítida de um bebé desperto do que uma imagem desfocada de uma criança aflita.
+- a mão de um progenitor a segurar a cabeça do bebé, visível na imagem (não é permitido);
+- uma chupeta ainda na boca do bebé (tem de ser removida antes da fotografia);
+- outra pessoa parcialmente visível na borda da imagem (não pode aparecer);
+- brinquedos ou objetos no fundo (remova-os);
+- o fundo não estar claramente visível atrás da cabeça da criança (afaste-se ou ajuste o ângulo para que o fundo liso fique visível).
 
-## Quando um progenitor não pode assinar
+Se o bebé adormecer ou chorar durante as tentativas, pare e tente noutra altura. O serviço de passaportes já viu todas as variações possíveis desta situação. Nós escolheríamos sempre uma nova tentativa com calma em vez de forçar uma fotografia desfocada. O serviço prefere ver uma imagem nítida de um bebé desperto a uma apressada de uma criança aflita.
 
-O serviço de passaportes não pode emitir o documento sem prova legal de que tem o direito de avançar sozinho, quer o outro progenitor se recuse a assinar, não possa ser localizado, ou tenha perdido a responsabilidade parental. Este é um requisito legal que existe para proteger a criança, não uma questão negociável.
+## Assinar sozinho costuma exigir prova legal
+
+O serviço de passaportes não pode emitir o documento sem prova legal de que tem o direito de avançar sozinho, quer o outro progenitor se recuse a assinar, não possa ser localizado, ou tenha perdido a responsabilidade parental.
+
+Este é um requisito legal que existe para proteger a criança, não uma questão negociável.
 
 **Se o outro progenitor estiver desaparecido ou se recusar:** precisa de uma decisão judicial. Pode ser uma decisão de custódia já existente, uma decisão de tutela, ou uma sentença específica que lhe atribua a responsabilidade parental exclusiva. Alguns países permitem pedir ao tribunal autorização para emitir o passaporte sem o consentimento do outro progenitor, se conseguir mostrar que a criança seria prejudicada pelo atraso ou que o outro progenitor não está em condições de ser consultado. Isto varia consoante o país e a prática judicial local — pergunte ao serviço de passaportes ou a um advogado de família qual é o processo na sua situação.
 
@@ -72,7 +80,7 @@ O serviço de passaportes não pode emitir o documento sem prova legal de que te
 
 **Havendo uma ordem de restrição ou uma restrição de custódia:** leve consigo a decisão judicial. Isso mostra ao serviço exatamente que autorizações e restrições estão em vigor.
 
-## O que verificar no dia em que o passaporte chega
+## Verifique três coisas no dia em que o passaporte chega
 
 Assim que o passaporte for emitido e entregue, dedique cinco minutos a verificá-lo antes de o arquivar. Há três coisas a confirmar, fáceis de corrigir agora e um pesadelo para corrigir no aeroporto.
 
@@ -80,9 +88,9 @@ Assim que o passaporte for emitido e entregue, dedique cinco minutos a verificá
 
 **Verifique os nomes dos pais onde aparecerem.** Alguns países imprimem os nomes dos pais ou tutores no interior do passaporte da criança. Se estes nomes estiverem mal escritos ou incorretos, contacte o serviço para os corrigir.
 
-**Verifique a data de validade.** Isto é essencial para crianças, porque os [passaportes de crianças expiram muito mais depressa do que os de adultos](https://traveldocumentvault.com/pt/blog/family-passport-management/). Quando reservar uma viagem, precisa de saber exatamente quando este documento deixa de ser válido. Escreva a data. Configure um lembrete. Passaportes de crianças que expiram inesperadamente são uma das razões mais comuns para famílias terem de cancelar ou adiar viagens.
+**Verifique a data de validade.** Isto é essencial para crianças, porque os [passaportes de crianças expiram muito mais depressa do que os de adultos](https://traveldocumentvault.com/pt/blog/family-passport-management/). Quando reservar uma viagem, precisa de saber exatamente quando este documento deixa de ser válido. Escreva a data e configure um lembrete no dia em que o passaporte chegar, e não só quando surgir uma viagem; é o hábito que recomendamos sempre aos pais. Passaportes de crianças que expiram inesperadamente são uma das razões mais comuns para famílias terem de cancelar ou adiar viagens.
 
-Se algo estiver errado, contacte o serviço de passaportes o mais rápido possível. As correções costumam ser gratuitas quando reportadas de imediato. Não espere, porque quanto mais tempo deixar passar, mais complicado se torna o processo.
+Se algo estiver errado, contacte o serviço de passaportes o mais rápido possível. As correções costumam ser gratuitas quando reportadas de imediato, e quanto mais tempo deixar passar, mais complicado se torna o processo. Quando estiver tudo certo, guarde logo o passaporte na pasta dos seus documentos, com uma nota da data de validade, para que a renovação não o apanhe de surpresa.
 
 ## Perguntas Frequentes
 

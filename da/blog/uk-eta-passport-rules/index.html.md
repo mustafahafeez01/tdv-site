@@ -20,7 +20,7 @@ Det britiske ETA-system er enkelt på overfladen: du søger, du betaler, du rejs
 
 Det er grundlæggende et spørgsmål om at holde styr på dokumenter. Du har to udløbsdatoer at holde øje med: dit pas' fornyelse og dit ETA's gyldighed. Overser du forbindelsen mellem dem, kan du blive stoppet i lufthavnen dage før, du skal rejse.
 
-## Hvem skal have et britisk ETA før afrejse
+## De fleste visumfrie besøgende skal nu have et ETA
 
 Er du statsborger i USA, Canada, Australien, New Zealand eller et land i EU eller Det Europæiske Økonomiske Samarbejdsområde, skal du sandsynligvis have et britisk ETA. Ordningen trådte i kraft fra den 25. februar 2026 for de fleste visumfrie statsborgere.
 
@@ -28,7 +28,7 @@ Nogle er undtaget: irske statsborgere har ikke brug for et, og personer med brit
 
 **Tjek din egen situation hos indenrigsministeriet, før du booker.** Et ETA-krav er ikke svært at opfylde, men det kræver kun én undtagelseskategori, du ikke kendte til, for enten at spilde penge på en unødvendig ansøgning eller blive stoppet ved indtjekning.
 
-## Hvad ETA'et egentlig er knyttet til
+## ETA'et er knyttet til dit pasnummer, ikke til dig
 
 Dit britiske ETA er knyttet til dit pasnummer, ikke til dig som person. Når du søger, kobler indenrigsministeriet din godkendelse til et specifikt pasnummer. At rejse på et andet pas – et nyligt fornyet, et andet pas, et nødpas – betyder at rejse på et ETA, der ikke er bundet til det dokument.
 
@@ -36,7 +36,7 @@ Det adskiller sig fra visa i mange lande, som ofte er knyttet til en person og t
 
 I praksis betyder det, at hvis dit pas udløber, eller du fornyer det af en eller anden grund før din tur, kan du ikke bruge dit gamle ETA på dit nye pas. Du skal søge igen og få godkendelse, før du rejser, da der ikke er nogen automatisk overførsel.
 
-## Hvad der sker, når du fornyer dit pas
+## Et fornyet pas kræver et nyt ETA
 
 At forny et pas er rutine i sig selv. Men ETA-komplikationen er reel, hvis din tur nærmer sig.
 
@@ -53,7 +53,7 @@ Her er den tidslinje, du skal planlægge efter:
 
 Risikoen ligger i trin 5. Er din tur om 10 dage, og dit nye pas ankommer i dag, har du et smalt vindue til at forny og få ETA-godkendelse. At starte fornyelsesprocessen med mindre end 2-3 uger til din tur skaber reelt tidspres.
 
-## Børn og babyer skal have deres eget ETA
+## Alle børn skal have deres eget ETA, babyer inklusive
 
 Alle personer, også spædbørn, skal have deres eget britiske ETA. Der findes ikke et familie-ETA, og der er ingen måde at tilføje familiemedlemmer til en andens ansøgning.
 
@@ -63,11 +63,13 @@ Børns pas udløber også hurtigere end voksnes – typisk hvert 5. år i stedet
 
 **Tjek hvert enkelt familiemedlems pas' udløbsdato og ETA-status, før du booker en familietur til Storbritannien.** Én person med kort gyldighed kan forhindre hele familien i at gå ombord.
 
-## Hvor langt i forvejen man skal søge
+## Søg to til tre uger, før du rejser
 
 Indenrigsministeriet anbefaler at søge mindst 3 hverdage før, du rejser. Det er en retningslinje, ikke en garanteret behandlingstid. Mange ansøgninger godkendes hurtigere. Nogle tager længere tid, og godkendelse er ikke automatisk – indenrigsministeriet kan bede om yderligere oplysninger eller afvise en ansøgning.
 
-**Planlæg, som om 3 hverdage er minimum, ikke målet.** At søge en uge i forvejen fra udlandet giver dig en rimelig margen, mens det at søge 48 timer før din flyafgang betyder at gå ud fra bedst mulig sagsbehandling uden reserve, hvis noget går galt.
+Planlæg, som om 3 hverdage er minimum, ikke målet.
+
+At søge en uge i forvejen fra udlandet giver dig en rimelig margen, mens det at søge 48 timer før din flyafgang betyder at gå ud fra bedst mulig sagsbehandling uden reserve, hvis noget går galt.
 
 Bliver din ETA-ansøgning afvist, oplyser indenrigsministeriet, at du kan søge igen – men at gøre det i dagene før din flyafgang er ikke en praktisk løsning. Søg i god tid, og betragt 3 hverdage som minimumsmargenen, ikke målet.
 
@@ -81,11 +83,13 @@ En grænsevagt kan stadig afvise indrejse. De kan stille spørgsmål om dit form
 
 Et ETA er heller ikke et visum – det siger ikke noget om, hvor længe du må blive. ETA-indehavere fra de fleste visumfrie lande kan blive i op til 6 måneder som besøgende, men det er grænsevagten, der fastsætter opholdets faktiske længde, når du ankommer, ikke selve ETA'et.
 
-## Relaterede emner om ETA og rejsedokumenter
+## Et ETA er ikke den eneste tilladelse, du måske har brug for
 
 Et britisk ETA er en af flere digitale rejsetilladelser, der nu er i brug. Planlægger du rejser gennem flere lande, er det værd at forstå forskellen mellem et ETA og et [visum](https://traveldocumentvault.com/da/blog/visa-vs-passport/). De ligner hinanden i processen, men tjener forskellige formål.
 
 EU er ved at indføre sit eget digitale rejsetilladelsessystem kaldet [ETIAS](https://traveldocumentvault.com/da/blog/etias-documents-2026/) for besøgende uden for EU – i princippet ligesom det britiske ETA, men med andre regler og krav. Omfatter din tur både Storbritannien og Europa, kan du få brug for begge dele.
+
+Har du allerede en rejse booket, så gør det i dag: tjek dit pas' udløbsdato op mod dine rejsedatoer, og bekræft, at dit nuværende ETA er knyttet til det pas, du rent faktisk rejser på. Hvis en af delene ikke holder, så start fornyelsen eller den nye ansøgning nu, ikke ugen før, du flyver.
 
 ## Ofte stillede spørgsmål
 

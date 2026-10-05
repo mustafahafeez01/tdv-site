@@ -20,7 +20,7 @@ Un permiso de conducir internacional es una traducción del carné, no un carné
 
 El permiso internacional de conducir tiene su propia fecha de caducidad, y esa fecha se comporta de forma distinta según cuál de los tratados internacionales lo haya emitido. La mayoría de los conductores no descubre que existen dos tipos hasta que uno de ellos es rechazado.
 
-## Qué es Realmente un Permiso Internacional de Conducir
+## Un Permiso Internacional Traduce Tu Carné, No lo Sustituye
 
 Un permiso internacional de conducir es una traducción oficial del carné que ya tienes. Recoge tus datos en varios idiomas para que un agente que no pueda leer tu carné nacional sepa igualmente qué tienes permitido conducir.
 
@@ -28,7 +28,7 @@ Funciona, por tanto, como una pareja de documentos. Llevas el carné nacional y 
 
 Esto pilla a la gente por sorpresa más a menudo que las propias fechas de caducidad. El permiso parece el documento serio, lleno de sellos e idiomas, así que da la sensación de ser el que realmente importa.
 
-## Tres Tratados, y los Dos que Importan
+## Dos Tratados Deciden Cuánto Dura y Dónde Sirve
 
 Detrás de los permisos internacionales de conducir hay tres acuerdos internacionales, y cada país se adhirió a uno de ellos o a varios. Dos hacen casi todo el trabajo: el Convenio de Ginebra de 1949 y el Convenio de Viena de 1968. Un permiso más antiguo, del Convenio de París de 1926, todavía se emite para un pequeño número de destinos, y al igual que el permiso de Ginebra, dura un año.
 
@@ -48,9 +48,9 @@ Esos tres años llevan una condición que es fácil pasar por alto. Un permiso d
 
 Supongamos que a tu carné le quedan 14 meses y te emiten un permiso de tres años. El permiso sirve durante 14 meses. La fecha impresa en la portada no tiene más peso que el carné que hay detrás.
 
-Renovar el carné después tampoco salva el permiso. Sigue vinculado al carné con el que se emitió, así que un carné nuevo generalmente significa un permiso nuevo.
+Renovar el carné después tampoco salva el permiso. Sigue vinculado al carné con el que se emitió, así que un carné nuevo generalmente significa un permiso nuevo. Si a tu carné le toca renovarse antes del viaje, nosotros lo renovaríamos primero y solicitaríamos el permiso después, para que quede vinculado al carné nuevo.
 
-## Tres Documentos, Tres Calendarios
+## El Permiso Es la Fecha Que Nadie Vigila
 
 Un pasaporte, un carné de conducir y, a menudo, un permiso: cualquiera que conduzca en el extranjero acaba llevando los tres, cada uno emitido por una oficina distinta con su propio calendario, así que sus fechas de caducidad rara vez coinciden.
 
@@ -62,13 +62,13 @@ El pasaporte suele ser la fecha que la gente sí vigila, y hay un motivo: las no
 
 Ese es el argumento práctico para llevar las tres fechas en un solo sitio. Travel Document Vault, disponible en [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) y [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), guarda los documentos en tu dispositivo y controla cada caducidad por separado, así que el permiso no caduca en silencio mientras tienes la vista puesta en el pasaporte.
 
-## Qué Comprobar Antes de Reservar
+## Comprueba la Fecha de Tu Carné Antes que la del Permiso
 
-Hay unas cuantas cosas que merece la pena comprobar, más o menos en este orden.
+Nosotros comprobaríamos esto en este orden, y la fecha del carné antes que cualquier cosa impresa en el permiso.
 
 **Si de verdad necesitas un permiso.** Algunos países aceptan el carné nacional por sí solo, y es el país en el que conduces el que fija el requisito, no el que emitió tu carné.
 
-**Qué convenio reconoce tu destino**, y después bajo cuál se emitió tu permiso. Viene impreso en el documento.
+**Qué convenio reconoce tu destino**, y después comprueba tu permiso con respecto a él (el convenio viene impreso en el documento).
 
 **La caducidad de tu carné, antes que la de tu permiso.** En un permiso de Viena, el carné es la fecha vinculante, así que comprobar primero el permiso te dice menos de lo que parece.
 
@@ -86,15 +86,17 @@ La solicitud en sí suele ser sencilla. Es normal que te pidan los datos de tu c
 
 Donde esto más duele es en un viaje reservado con poca antelación. El permiso rara vez es un problema por sí solo. Se convierte en un problema cuando es el último punto de una lista que ya iba muy justa.
 
-## Ten Cuidado Con Lo Que Compras Online
+## No Existe un Carné Internacional de Conducir
 
 Busca «permiso internacional de conducir» y encontrarás sitios que venden algo llamado carné internacional de conducir, a menudo por bastante más de lo que cuesta el permiso oficial, y a veces prometiendo entrega inmediata o una década de validez.
 
 Ese carné no existe. Los únicos documentos con validez real son los permisos emitidos bajo los convenios de 1926, 1949 y 1968, a través del canal que designa tu propio país. Tres años en un permiso de Viena es lo máximo que dura cualquiera de ellos, así que cualquier anuncio que prometa 10 o 20 años describe un documento que ningún agente fronterizo está obligado a aceptar.
 
+Si estás preparando una lista más amplia antes del viaje y no solo el tema de la conducción, nuestra [lista de verificación de documentos de viaje internacional](https://traveldocumentvault.com/es/blog/travel-document-checklist/) repasa qué reunir antes de volar, y [los documentos de viaje que se olvidan](https://traveldocumentvault.com/es/blog/what-documents-to-carry-when-travelling-internationally/) explica dónde conviene guardar cada uno una vez que estás de viaje.
+
 Averigua qué organismo emite los permisos en el país que emitió tu carné, y acude a ese organismo. Si un sitio no te dice bajo qué convenio se emite su documento, eso ya responde a la pregunta.
 
-Si estás preparando una lista más amplia antes del viaje y no solo el tema de la conducción, nuestra [lista de verificación de documentos de viaje internacional](https://traveldocumentvault.com/es/blog/travel-document-checklist/) repasa qué reunir antes de volar, y [los documentos de viaje que se olvidan](https://traveldocumentvault.com/es/blog/what-documents-to-carry-when-travelling-internationally/) explica dónde conviene guardar cada uno una vez que estás de viaje.
+Hoy mismo, saca tu carné y tu permiso, si tienes uno, y pon las dos fechas de caducidad una junto a otra. En un permiso de Viena, la que llegue primero es la fecha en la que de verdad termina.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

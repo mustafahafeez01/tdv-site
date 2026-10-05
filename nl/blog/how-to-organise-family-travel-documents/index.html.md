@@ -20,24 +20,24 @@ Het is elf uur 's avonds, de avond voor een vlucht, de paspoorten liggen klaar, 
 
 Weten hoe je reisdocumenten voor een heel gezin organiseert, is een van die dingen die optioneel voelen tot ze dat plotseling niet meer zijn. Deze gids laat zien hoe je het één keer goed opzet en voortaan niet meer voor elke reis in paniek raakt.
 
+Deze gids behandelt het hele systeem; voor meer over één onderdeel, zoals de tijdlijn voor paspoortverlenging of digitale opslag, gaan de [tips over reisdocumenten](https://traveldocumentvault.com/nl/blog/) op de blog dieper in.
+
 ## Checklist reisdocumenten gezin: wat heeft een gezin eigenlijk nodig?
 
-Het hangt af van waar je heen gaat, maar voor de meeste internationale gezinsreizen is de lijst langer dan mensen verwachten. Hier is de basischecklist voor gezinnen:
-
-**Identiteitsdocumenten**
+Het hangt af van waar je heen gaat, maar voor de meeste internationale gezinsreizen is de lijst langer dan mensen verwachten. Hier is de basischecklist voor gezinnen, te beginnen met de identiteitsdocumenten die iedereen nodig heeft:
 
 - Paspoorten voor elk gezinslid (controleer geldigheid minstens 3 maanden voor vertrek)
 - Visa, indien vereist door het land van bestemming
 - Nationale identiteitskaarten indien deze worden geaccepteerd in plaats van paspoorten (Schengenreizen voor EU-burgers)
 
-**Reisspecifieke documenten**
+**Documenten specifiek voor de reis**
 
 - Reisverzekeringsbewijs of polisoverzicht
 - Boekingsbevestigingen: vluchten, hotels, autohuur
 - Vaccinatiebewijzen indien vereist op de bestemming
 - Retourticket (sommige landen vragen hier bewijs van bij binnenkomst)
 
-**Documenten specifiek voor reizen met kinderen**
+**Wat reizen met kinderen erbij brengt**
 
 - Geboorteaktes – soms vereist bij grenscontrole, vooral als de achternaam van het kind afwijkt van die van de reizende ouder
 - Een ondertekende toestemmingsverklaring als één ouder niet meereist – sterk aanbevolen bij reizen met een alleenreizende ouder of grootouders
@@ -63,7 +63,9 @@ Originelen horen op één plek, en die plek is er alleen voor reisdocumenten. Ni
 
 Een vaste reismap of documentenetui – het type dat meerdere paspoorten samen met gevouwen A4-documenten kan bevatten – werkt prima; label hem en bewaar hem steeds op dezelfde plek: een specifieke plank, een lade in het thuiskantoor, of een brandvrije kluis als je extra zekerheid wilt.
 
-**Wat een systeem doet slagen of falen, is documenten meteen terugleggen na gebruik.** Documenten verdwijnen zelden door diefstal, maar omdat iemand ze gebruikte, ergens tijdelijk neerlegde, en ze onder de stapel raakten. "Ik leg het straks wel terug" is hoe je om elf uur 's avonds het hele huis doorzoekt.
+Wat een systeem doet slagen of falen, is **documenten meteen terugleggen na gebruik**.
+
+Documenten verdwijnen zelden door diefstal, maar omdat iemand ze gebruikte, ergens tijdelijk neerlegde, en ze onder de stapel raakten. "Ik leg het straks wel terug" is hoe je om elf uur 's avonds het hele huis doorzoekt.
 
 Als je kinderen oud genoeg zijn om hun eigen paspoort door een luchthaven te dragen, stel dan een duidelijke regel: paspoorten gaan na gebruik meteen terug naar een ouder, niet in een rugzak of jaszak.
 
@@ -93,7 +95,7 @@ Dit is het patroon dat gezinnen te pakken krijgt: je vernieuwt je eigen paspoort
 - **Spreadsheet:** Werkt prima als je het daadwerkelijk bijhoudt. Eén rij per document per persoon, de vervaldatum, en een formule die alles markeert wat binnen 12 maanden verloopt.
 - **Speciale app:** Tools zoals Travel Document Vault regelen de herinneringen automatisch – scan het document, bevestig de vervaldatum, en het plant waarschuwingen vanaf acht maanden van tevoren en opnieuw bij kortere intervallen zonder dat je erover na hoeft te denken.
 
-Alle drie de methoden werken – waar het op aankomt is er een kiezen die past bij hoe je al werkt en er ook echt aan vasthouden.
+Alle drie de methoden werken, maar wij zouden de methode kiezen die de herinnering automatisch stuurt, want een spreadsheet helpt alleen als je eraan denkt hem te openen. Waar het het meest op aankomt, is er een kiezen die past bij hoe je al werkt en er ook echt aan vasthouden.
 
 **Travel Document Vault** houdt de vervaldatums voor elk gezinslid automatisch bij – scan elk paspoort één keer en krijg herinneringen vanaf acht maanden voor de vervaldatum. Geen spreadsheet, geen vergeten verlengingen. [Download in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
@@ -115,14 +117,14 @@ Doorloop deze checklist bij het boeken – niet de avond voor vertrek. Dat geeft
 - Controleer of de reisverzekeringsdocumenten actueel en bereikbaar zijn
 - Bereid een toestemmingsverklaring voor als je zonder beide ouders reist
 
-### De avond van tevoren
+### De avond vóór vertrek
 
 - Paspoorten klaargelegd en geteld – één per persoon
 - Reisverzekeringsbewijs in je tas of telefoon
 - Instapkaarten gedownload of geprint
 - Eventuele vereiste vaccinatiebewijzen binnen handbereik
 
-Voor meer over specifieke onderwerpen, bekijk de [tips over reisdocumenten](https://traveldocumentvault.com/nl/blog/) op de blog – daar staan uitgebreide artikelen over de tijdlijn voor paspoortverlenging en wat je moet weten over digitale opslag.
+Als je dat nog niet hebt gedaan, kies dan de ene plek waar de paspoorten komen te liggen, en zet vandaag nog een vervalherinnering voor het document dat het eerst afloopt.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

@@ -20,7 +20,7 @@ Un permesso di guida internazionale è una traduzione della patente, non una pat
 
 Un IDP ha una propria data di scadenza, e quella data si comporta in modo diverso a seconda di quale dei trattati internazionali sta dietro al tuo permesso. Molti automobilisti scoprono che esistono due tipi solo quando uno dei due viene rifiutato.
 
-## Cosa è davvero un IDP
+## Un IDP traduce la tua patente, non la sostituisce
 
 Una patente di guida internazionale è la traduzione ufficiale della patente che hai già. Riporta i tuoi dati in diverse lingue, così un agente che non sa leggere la tua patente nazionale può comunque capire cosa sei autorizzato a guidare.
 
@@ -28,7 +28,7 @@ Funziona quindi in coppia. Porti con te la patente nazionale e il permesso insie
 
 Questo trae in inganno più spesso delle date di scadenza. Il permesso sembra il documento serio, pieno di timbri e lingue, quindi dà l'impressione di essere quello che conta davvero.
 
-## Tre convenzioni, e le due che contano
+## Due convenzioni decidono quanto dura e dove vale
 
 Dietro gli IDP ci sono tre accordi internazionali, e ogni paese ha aderito a uno di essi o a più di uno. Due fanno quasi tutto il lavoro: la Convenzione di Ginevra del 1949 e la Convenzione di Vienna del 1968. Un permesso più datato, della Convenzione di Parigi del 1926, viene ancora rilasciato per un numero ridotto di destinazioni, e come quello di Ginevra dura un anno.
 
@@ -48,9 +48,9 @@ Quei tre anni portano con sé una condizione facile da trascurare. Un permesso d
 
 Supponiamo che alla tua patente restino 14 mesi e ti venga rilasciato un permesso di tre anni. Il permesso è utile per 14 mesi. La data stampata sulla copertina non prevale sulla patente che sta dietro di esso.
 
-Rinnovare la patente in seguito non salva il permesso. Resta legato alla patente per cui è stato rilasciato, quindi una patente nuova significa in genere anche un permesso nuovo.
+Rinnovare la patente in seguito non salva il permesso. Resta legato alla patente per cui è stato rilasciato, quindi una patente nuova significa in genere anche un permesso nuovo. Se la patente va rinnovata prima del viaggio, noi la rinnoveremmo per prima e chiederemmo il permesso dopo, così il permesso risulta legato alla patente nuova.
 
-## Tre documenti, tre orologi
+## Il permesso è la data che nessuno controlla
 
 Un passaporto, una patente di guida e spesso un permesso: chiunque guidi all'estero finisce per portare con sé tutti e tre, ciascuno rilasciato da un ufficio diverso secondo un proprio calendario, per cui le date di scadenza raramente coincidono.
 
@@ -62,13 +62,13 @@ Il passaporto è di solito la data che le persone tengono davvero d'occhio, e c'
 
 Questo è l'argomento pratico per tenere tutte e tre le date in un unico posto. Travel Document Vault, disponibile su [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) e [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), conserva i documenti sul tuo dispositivo e tiene traccia di ogni scadenza singolarmente, così il permesso non scade in silenzio mentre tieni d'occhio il passaporto.
 
-## Cosa controllare prima di prenotare
+## Controlla la data della patente prima di quella del permesso
 
-Vale la pena controllare alcune cose, più o meno in quest'ordine.
+Noi controlleremmo queste cose in quest'ordine, e la data della patente prima di qualsiasi cosa stampata sul permesso.
 
 **Se ti serve davvero un permesso.** Alcuni paesi accettano la patente nazionale da sola, ed è il paese in cui guidi a stabilire il requisito, non quello che ha rilasciato la tua patente.
 
-**Quale convenzione riconosce la tua destinazione**, e poi secondo quale convenzione è stato rilasciato il tuo permesso. È stampato sul documento.
+**Quale convenzione riconosce la tua destinazione**, poi verifica il tuo permesso rispetto ad essa (la convenzione è stampata sul documento).
 
 **La scadenza della tua patente, prima di quella del permesso.** Su un permesso di Vienna, la data vincolante è quella della patente, quindi controllare prima il permesso ti dice meno di quanto pensi.
 
@@ -86,15 +86,17 @@ La domanda in sé di solito non è complicata. Aspettati di dover fornire i dati
 
 Il caso peggiore è un viaggio prenotato all'ultimo momento. Il permesso raramente è un problema da solo. Diventa un problema quando è l'ultima voce di una lista già stretta.
 
-## Attenzione a cosa acquisti online
+## Non esiste una «patente di guida internazionale»
 
 Cerca «patente di guida internazionale» online e troverai siti che vendono un documento dal nome quasi identico, spesso a un prezzo molto più alto di quanto costi il permesso ufficiale, a volte con la promessa di consegna immediata o addirittura di dieci anni di validità.
 
 Un documento del genere non esiste. Gli unici validi sono i permessi rilasciati secondo le convenzioni del 1926, del 1949 e del 1968, tramite il canale designato dal tuo paese. Tre anni per un permesso di Vienna è la durata massima possibile, quindi qualsiasi offerta che pubblicizza 10 o 20 anni descrive un documento che nessun funzionario di frontiera è tenuto ad accettare.
 
+Se stai preparando una lista più ampia per il viaggio invece di occuparti solo della parte guida, il nostro [elenco di controllo dei documenti di viaggio internazionali](https://traveldocumentvault.com/it/blog/travel-document-checklist/) ripercorre cosa raccogliere prima di volare, mentre [i documenti di viaggio che le persone dimenticano](https://traveldocumentvault.com/it/blog/what-documents-to-carry-when-travelling-internationally/) spiega dove conservare al meglio ciascuno una volta in movimento.
+
 Scopri quale ente rilascia i permessi nel paese che ha emesso la tua patente, e rivolgiti a quell'ente. Se un sito non ti dice secondo quale convenzione è rilasciato il suo documento, quella è già una risposta.
 
-Se stai preparando una lista più ampia per il viaggio invece di occuparti solo della parte guida, il nostro [elenco di controllo dei documenti di viaggio internazionali](https://traveldocumentvault.com/it/blog/travel-document-checklist/) ripercorre cosa raccogliere prima di volare, mentre [i documenti di viaggio che le persone dimenticano](https://traveldocumentvault.com/it/blog/what-documents-to-carry-when-travelling-internationally/) spiega dove conservare al meglio ciascuno una volta in movimento.
+Oggi stesso prendi la patente e il permesso, se ne hai uno, e metti una accanto all'altra le due date di scadenza. Con un permesso di Vienna, la prima a scadere è la data in cui finisce davvero.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 

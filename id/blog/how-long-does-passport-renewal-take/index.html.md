@@ -18,11 +18,13 @@ Source: https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-t
 
 Anda sudah memesan tiket pesawat untuk perjalanan lima bulan lagi. Anda mengeluarkan paspor semua orang untuk memeriksa ulang, dan ternyata ada satu yang kedaluwarsa dalam lima bulan tiga minggu lagi. Sekarang Anda ingin angka pasti untuk berapa lama perpanjangan berlangsung, supaya bisa menghitung apakah Anda benar-benar punya waktu.
 
-Tidak ada satu angka pasti, dan artikel mana pun yang memberi Anda satu angka diam-diam berjudi bahwa Anda tidak akan pernah menyadari kapan angka itu jadi usang. Waktu pemrosesan berubah seiring jumlah staf, volume permohonan, dan musim, jadi angka yang akurat hari ini bisa jadi salah hanya dalam beberapa bulan. Yang tidak berubah sesering itu adalah bentuk keputusannya sendiri: setiap otoritas paspor menjalankan antrean standar dan setidaknya satu cara berbayar untuk bergerak lebih cepat, dan sejumlah situasi tertentu secara konsisten memperlambat permohonan tidak peduli negara mana yang menerbitkan paspornya. Itulah yang dibahas panduan ini, lengkap dengan di mana persisnya Anda bisa mencari angka yang berlaku untuk Anda saat ini.
+Tidak ada satu angka pasti, dan artikel mana pun yang memberi Anda satu angka diam-diam berjudi bahwa Anda tidak akan pernah menyadari kapan angka itu jadi usang.
+
+Waktu pemrosesan berubah seiring jumlah staf, volume permohonan, dan musim, jadi angka yang akurat hari ini bisa jadi salah hanya dalam beberapa bulan. Yang tidak berubah sesering itu adalah bentuk keputusannya sendiri: setiap otoritas paspor menjalankan antrean standar dan setidaknya satu cara berbayar untuk bergerak lebih cepat, dan sejumlah situasi tertentu secara konsisten memperlambat permohonan tidak peduli negara mana yang menerbitkan paspornya. Itulah yang dibahas panduan ini, lengkap dengan di mana persisnya Anda bisa mencari angka yang berlaku untuk Anda saat ini.
 
 **Perhatian:** Kami sengaja tidak mencantumkan waktu pemrosesan di sini. Angkanya berubah seiring musim dan jumlah staf, dan angka yang benar hari ini bisa salah dalam beberapa bulan. Otoritas paspor Anda sendiri yang menerbitkan angka terkini — HM Passport Office, Departemen Luar Negeri AS, Kantor Paspor Australia, atau lembaga setara di negara Anda — dan itulah satu-satunya sumber yang layak dipercaya.
 
-## Bagaimana Sistem Perpanjangan Setiap Negara Dibangun
+## Setiap Sistem Paspor Menjalankan Dua Jalur yang Sama
 
 Lepaskan formulir khusus tiap negara, dan sistemnya semua mengikuti bentuk yang sama. Ada jalur standar yang memproses permohonan kurang lebih sesuai urutan kedatangan, dan biasanya ada setidaknya satu jalur berbayar yang menaikkan posisi Anda dalam antrean itu. AS menyebut opsi lebih cepatnya expedited processing. Inggris menawarkan fast track dan, di beberapa kantor, jadwal premium di hari yang sama. Australia menjual tingkat fast track dan prioritas. Kanada menawarkan opsi ekspres tatap muka bagi orang yang akan segera bepergian. Namanya berbeda antarnegara; mekanisme dasarnya tidak.
 
@@ -40,7 +42,7 @@ Misalnya Anda bepergian saat musim puncak suatu negara dan paspor Anda mulai men
 
 Satu catatan penting: kelayakan untuk jalur yang lebih cepat biasanya bergantung pada situasi Anda, bukan sekadar kesediaan Anda membayar. AS hanya membuka janji temu darurat bagi orang dengan bukti perjalanan dalam jangka waktu tertentu, dan layanan premium di hari yang sama di Inggris hanya berjalan di kantor tertentu, dengan pemesanan lebih dulu. Periksa aturan kelayakan sebelum Anda menganggap suatu jalur terbuka untuk Anda, jangan sampai baru tahu di loket.
 
-## Yang Sebenarnya Memperlambat Permohonan
+## Daftar Pendek yang Mudah Ditebak Menjadi Penyebab Sebagian Besar Keterlambatan
 
 Kebanyakan keterlambatan bukan karena sistem secara umum lambat. Keterlambatan itu berasal dari sekelompok kecil situasi yang mendorong permohonan keluar dari jalur cepat dan masuk ke tinjauan tambahan, dan ini berlaku tidak peduli negara mana tempat Anda mengajukan.
 
@@ -52,13 +54,13 @@ Kebanyakan keterlambatan bukan karena sistem secara umum lambat. Keterlambatan i
 - **Musim puncak.** Volume permohonan melonjak di sekitar periode perjalanan yang sama setiap tahun, dan antrean standar pun memanjang seiring itu, meski perkiraan waktu yang dipublikasikan jarang berubah untuk mencerminkan itu secara langsung.
 - Mengajukan dari luar negeri biasanya juga berarti jalan yang lebih panjang. Warga negara yang tinggal di luar negara asalnya biasanya diarahkan melalui proses luar negeri atau kedutaan yang terpisah, sebagian karena berkas harus menempuh jarak lebih jauh dan sebagian karena proses itu punya pemeriksaannya sendiri.
 
-## Cara Merencanakan Perpanjangan Tanpa Menebak-nebak
+## Rencanakan Mundur dari Perjalanan Anda, Bukan dari Garis Waktu Orang Asing
 
-Hitung mundur dari tanggal keberangkatan Anda, bukan maju dari hari ini. Tentukan tanggal Anda perlu memegang paspor baru di tangan agar merasa nyaman, lalu ajukan sedini mungkin sebelum tanggal itu selama masih wajar, karena semakin besar jarak amannya, semakin kecil kemungkinan faktor-faktor keterlambatan di atas benar-benar merugikan Anda. Jika Anda punya pilihan, ajukan sebelum memesan tiket: jika paspor Anda sudah di bawah batas masa berlaku yang diminta banyak destinasi, memperpanjang lebih dulu berarti Anda memesan tiket pesawat dengan paspor yang sudah pasti berlaku, bukannya berharap perpanjangan selesai tepat waktu untuk mencocokkan tiket yang sudah Anda bayar.
+Hitung mundur dari tanggal keberangkatan Anda, bukan maju dari hari ini. Tentukan tanggal Anda perlu memegang paspor baru di tangan agar merasa nyaman, lalu ajukan sedini mungkin sebelum tanggal itu selama masih wajar, karena semakin besar jarak amannya, semakin kecil kemungkinan faktor-faktor keterlambatan di atas benar-benar merugikan Anda. Kami lebih suka mengajukan begitu perjalanan masuk kalender daripada menunggu sampai sisa masa berlaku mulai terasa mepet. Jika Anda punya pilihan, ajukan sebelum memesan tiket: jika paspor Anda sudah di bawah batas masa berlaku yang diminta banyak destinasi, memperpanjang lebih dulu berarti Anda memesan tiket pesawat dengan paspor yang sudah pasti berlaku, bukannya berharap perpanjangan selesai tepat waktu untuk mencocokkan tiket yang sudah Anda bayar.
 
 Berhati-hatilah meminjam garis waktu orang lain. Teman yang memperpanjang dengan cepat musim semi lalu mungkin mengajukan perpanjangan dewasa yang sederhana, di bulan yang sepi, tanpa tanda wawancara di sepanjang prosesnya, tiga variabel yang tidak otomatis berlaku untuk kasus Anda. Situasi Anda, musim Anda, dan tumpukan antrean terkini di negara Anda adalah satu-satunya faktor yang layak dijadikan dasar tindakan.
 
-## Di Mana Mengecek Waktu Terkini Sebelum Mengajukan
+## Lewati Angka di Blog, Periksa Langsung ke Otoritasnya
 
 Ini bagian yang sengaja kami serahkan kepada mereka yang benar-benar menjalankan sistemnya. Di Inggris, itu HM Passport Office. Di AS, itu Departemen Luar Negeri. Di Australia, itu Kantor Paspor Australia. Di Kanada, itu Immigration, Refugees and Citizenship Canada, bersama Service Canada untuk permohonan tatap muka. Sebagian besar negara lain mempublikasikan angka setara melalui otoritas paspor atau luar negeri nasional mereka sendiri.
 
@@ -68,13 +70,13 @@ Sedikit konteks membantu Anda menggunakan angka itu dengan benar. HM Passport Of
 
 Di sebagian besar negara, bisa, asalkan paspor Anda saat ini masih berlaku dan Anda belum menyerahkannya secara fisik sebagai bagian dari permohonan. AS, Inggris, Australia, dan Kanada semuanya mengizinkan perjalanan dengan paspor terkini yang masih berlaku selama perpanjangan berlangsung; pengecualiannya adalah begitu Anda mengirimkan paspor lama, Anda harus menunggu. Selandia Baru dan Irlandia mengikuti prinsip umum yang sama. Satu catatan penting: jika destinasi Anda mensyaratkan visa masuk tunggal, bepergian dengan paspor lama bisa membatalkan visa yang tercap di dalamnya, jadi periksa itu sebelum terbang.
 
-## Apa yang Harus Dilakukan Jika Perjalanan Anda Sudah Dekat
+## Jika Perjalanan Anda Sudah Dekat, Bergeraklah di Semua Lini Sekaligus
 
 Anda sudah memesan perjalanan dalam waktu dekat dan paspor Anda akan segera kedaluwarsa. Jangan panik, tapi bertindaklah cepat: telepon langsung otoritas paspor Anda alih-alih hanya menjelajahi situs web, karena keempat negara yang dibahas di sini memiliki jalur janji temu darurat dan mendesak yang bisa dipandu oleh orang sungguhan. Kumpulkan dokumen Anda terlebih dahulu — bukti perjalanan mendesak, paspor Anda saat ini, foto, dan formulir yang sudah diisi — karena jadwal mendesak cepat terisi begitu tersedia. Periksa juga asuransi perjalanan Anda; sebagian menanggung biaya tambahan dari perpanjangan mendesak, meski kebanyakan mengecualikan situasi di mana perpanjangan itu sudah bisa diperkirakan sebelumnya. Dan tidak ada ruginya bertanya kepada maskapai atau hotel Anda soal penjadwalan ulang, meski tidak ada jaminan mereka akan membebaskan biayanya.
 
-**Solusi terbaik adalah menghindari situasi ini sepenuhnya.** Jika Anda mengelola paspor untuk beberapa anggota keluarga, aplikasi seperti [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) mengirimkan pengingat kedaluwarsa jauh-jauh hari, sehingga Anda memperpanjang dengan banyak ruang, bukan terburu-buru di menit terakhir. Lihat lebih banyak [tips dokumen perjalanan](https://traveldocumentvault.com/id/blog/) di blog ini untuk strategi yang menjaga semuanya tetap teratur.
+**Solusi terbaik adalah menghindari situasi ini sepenuhnya.** Jika Anda mengelola paspor untuk beberapa anggota keluarga, aplikasi seperti [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) mengirimkan pengingat kedaluwarsa jauh-jauh hari, sehingga Anda memperpanjang dengan banyak ruang, bukan terburu-buru di menit terakhir. Lihat lebih banyak [tips dokumen perjalanan](https://traveldocumentvault.com/id/blog/) di blog ini untuk strategi yang menjaga semuanya tetap teratur. Satu hal lagi yang layak dibaca: [aturan paspor 6 bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/). Paspor yang baru diperpanjang tetap harus memenuhi persyaratan masa berlaku negara tujuan Anda, dan banyak wisatawan tertangkap lengah karena hal ini.
 
-Satu hal lagi yang layak dibaca: [aturan paspor 6 bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/). Paspor yang baru diperpanjang tetap harus memenuhi persyaratan masa berlaku negara tujuan Anda, dan banyak wisatawan tertangkap lengah karena hal ini.
+Ambil paspor Anda hari ini dan periksa berapa bulan masa berlakunya yang tersisa dibandingkan dengan perjalanan Anda berikutnya. Jika selisihnya terlihat mepet, anggap itu tanda untuk memulai perpanjangan sekarang, bukan mendekati keberangkatan.
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 

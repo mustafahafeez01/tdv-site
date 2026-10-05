@@ -20,7 +20,7 @@ Le système ETA britannique paraît simple en surface : vous faites la demande, 
 
 C'est un problème de suivi de documents. Vous avez deux échéances à surveiller : le renouvellement de votre passeport et la validité de votre ETA. Manquez le lien entre les deux, et vous risquez d'être arrêté à l'aéroport, des jours avant votre départ.
 
-## Qui a besoin d'une ETA britannique avant de voyager
+## La plupart des visiteurs dispensés de visa ont désormais besoin d'une ETA
 
 Si vous êtes ressortissant des États-Unis, du Canada, de l'Australie, de la Nouvelle-Zélande, ou d'un pays de l'UE ou de l'Espace économique européen, vous avez probablement besoin d'une ETA britannique. Le dispositif est entré en vigueur le 25 février 2026 pour la plupart des ressortissants dispensés de visa.
 
@@ -28,7 +28,7 @@ Certaines personnes en sont dispensées : les citoyens irlandais n'en ont pas be
 
 **Vérifiez votre situation auprès du Home Office avant de réserver.** L'exigence d'ETA n'est pas difficile à remplir, mais il suffit d'une catégorie d'exemption que vous ignoriez pour soit gaspiller de l'argent sur une demande inutile, soit être bloqué à l'enregistrement.
 
-## À quoi l'ETA est réellement rattachée
+## L'ETA est liée à votre numéro de passeport, pas à vous
 
 Votre ETA britannique est rattachée à votre numéro de passeport, pas à vous en tant que personne. Lors de votre demande, le Home Office lie son approbation à un numéro de passeport précis. Voyager avec un passeport différent — un passeport récemment renouvelé, un second passeport, un remplacement d'urgence — signifie voyager avec une ETA qui n'est pas liée à ce document.
 
@@ -36,7 +36,7 @@ C'est différent des visas de nombreux pays, souvent liés à la personne et ré
 
 En pratique, si votre passeport expire ou que vous le renouvelez pour une raison quelconque avant votre voyage, vous ne pouvez pas utiliser votre ancienne ETA avec votre nouveau passeport. Vous devez refaire une demande et obtenir une approbation avant de voyager, car il n'existe aucun transfert automatique.
 
-## Que se passe-t-il quand vous renouvelez votre passeport
+## Un passeport renouvelé exige une nouvelle ETA
 
 Renouveler un passeport est en soi une démarche courante. Mais la complication liée à l'ETA devient bien réelle si votre voyage approche.
 
@@ -53,7 +53,7 @@ Voici le calendrier à prévoir :
 
 Le risque se situe à l'étape 5. Si votre voyage est dans 10 jours et que votre nouveau passeport arrive aujourd'hui, vous disposez d'une fenêtre étroite pour le renouvellement et l'approbation de l'ETA. Démarrer la démarche de renouvellement à moins de 2-3 semaines de votre voyage crée une réelle pression temporelle.
 
-## Les enfants et les bébés ont besoin de la leur
+## Chaque enfant a besoin de sa propre ETA, bébés compris
 
 Chaque personne, y compris les nourrissons, a besoin de sa propre ETA britannique. Il n'existe pas d'ETA familiale, ni de moyen d'ajouter des personnes à charge à la demande de quelqu'un d'autre.
 
@@ -63,11 +63,13 @@ Les passeports des enfants expirent aussi plus vite que ceux des adultes — gé
 
 **Avant de réserver un voyage en famille au Royaume-Uni, vérifiez la date d'expiration du passeport et le statut de l'ETA de chaque membre de la famille.** Une seule personne dont la validité est insuffisante peut empêcher toute la famille d'embarquer.
 
-## Combien de temps à l'avance faire sa demande
+## Faites votre demande deux à trois semaines avant le départ
 
 Le Home Office recommande de faire la demande au moins 3 jours ouvrés avant le départ. C'est une indication, pas un délai de traitement garanti. Beaucoup de demandes sont approuvées plus rapidement. D'autres prennent plus de temps, et l'approbation n'est pas automatique — le Home Office peut demander des informations supplémentaires ou refuser une demande.
 
-**Considérez les 3 jours ouvrés comme un minimum, pas comme un objectif.** Faire la demande une semaine à l'avance depuis l'étranger vous laisse une marge raisonnable, tandis que la faire 48 heures avant votre vol revient à parier sur le meilleur scénario possible, sans filet en cas de problème.
+Considérez les 3 jours ouvrés comme un minimum, pas comme un objectif.
+
+Faire la demande une semaine à l'avance depuis l'étranger vous laisse une marge raisonnable, tandis que la faire 48 heures avant votre vol revient à parier sur le meilleur scénario possible, sans filet en cas de problème.
 
 Si votre demande d'ETA est refusée, le Home Office indique que vous pouvez refaire une demande — mais le faire dans les derniers jours avant votre vol n'est pas une solution de secours réaliste. Faites votre demande bien à l'avance, et considérez les 3 jours ouvrés comme la marge minimale, pas comme l'objectif.
 
@@ -81,11 +83,13 @@ Un agent frontalier peut toujours refuser l'entrée. Il peut vous interroger sur
 
 Une ETA n'est pas non plus un visa — elle n'indique pas la durée de séjour autorisée. Les titulaires d'une ETA venant de la plupart des pays dispensés de visa peuvent rester jusqu'à 6 mois en tant que visiteur, mais c'est l'agent frontalier qui fixe la durée réelle du séjour à votre arrivée, pas l'ETA elle-même.
 
-## Autres sujets liés à l'ETA et aux documents de voyage
+## Une ETA n'est pas la seule autorisation dont vous pouvez avoir besoin
 
 L'ETA britannique n'est qu'une des nombreuses autorisations de voyage numériques désormais en vigueur. Si vous prévoyez de voyager dans plusieurs pays, il est utile de comprendre la différence entre une ETA et un [visa](https://traveldocumentvault.com/fr/blog/visa-vs-passport/). Leurs démarches se ressemblent, mais elles servent des objectifs différents.
 
 L'UE déploie son propre système d'autorisation de voyage numérique appelé [ETIAS](https://traveldocumentvault.com/fr/blog/etias-documents-2026/) pour les visiteurs non européens — un concept similaire à l'ETA britannique, mais avec des règles et des conditions différentes. Si votre voyage inclut à la fois le Royaume-Uni et l'Europe, vous pourriez avoir besoin des deux.
+
+Si vous avez déjà un voyage de réservé, faites ceci aujourd'hui : comparez la date d'expiration de votre passeport à vos dates de voyage, et vérifiez que votre ETA actuelle est bien liée au passeport avec lequel vous voyagerez réellement. Si l'un des deux points pose problème, lancez dès maintenant le renouvellement ou la nouvelle demande, pas la semaine précédant votre vol.
 
 ## Questions fréquemment posées
 

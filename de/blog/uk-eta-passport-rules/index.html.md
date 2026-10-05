@@ -20,7 +20,7 @@ Das britische ETA-System wirkt auf den ersten Blick einfach: Sie beantragen, Sie
 
 Das ist ein Problem der Dokumentenverfolgung. Sie müssen zwei Fristen im Blick behalten: die Erneuerung Ihres Reisepasses und die Gültigkeit Ihrer ETA. Übersehen Sie den Zusammenhang zwischen beiden, könnten Sie Tage vor der Abreise am Flughafen aufgehalten werden.
 
-## Wer vor der Reise eine britische ETA benötigt
+## Die meisten visumfreien Besucher brauchen jetzt eine ETA
 
 Wenn Sie Staatsangehörige/r der USA, Kanadas, Australiens, Neuseelands oder eines Landes der EU oder des Europäischen Wirtschaftsraums sind, benötigen Sie wahrscheinlich eine britische ETA. Die Regelung gilt seit dem 25. Februar 2026 verbindlich für die meisten visumfreien Staatsangehörigen.
 
@@ -28,7 +28,7 @@ Manche Personen sind ausgenommen: Irische Staatsangehörige benötigen keine ETA
 
 **Klären Sie Ihre eigene Situation vor der Buchung mit dem Home Office.** Die ETA-Pflicht ist nicht schwer zu erfüllen, aber schon eine Ausnahmekategorie, von der Sie nichts wussten, reicht aus, um entweder Geld für einen unnötigen Antrag auszugeben oder beim Check-in aufgehalten zu werden.
 
-## Woran die ETA eigentlich gebunden ist
+## Die ETA ist an Ihre Reisepassnummer gebunden, nicht an Sie
 
 Ihre britische ETA ist an Ihre Reisepassnummer gebunden, nicht an Sie als Person. Bei Ihrem Antrag verknüpft das Home Office die Genehmigung mit einer bestimmten Reisepassnummer. Reisen Sie mit einem anderen Reisepass – einem neu ausgestellten, einem Zweitpass, einem Notfall-Ersatzdokument – bedeutet das, mit einer ETA zu reisen, die nicht an dieses Dokument gebunden ist.
 
@@ -36,7 +36,7 @@ Das unterscheidet sich von Visa vieler Länder, die häufig an die Person gebund
 
 In der Praxis gilt: Läuft Ihr Reisepass ab oder erneuern Sie ihn aus einem beliebigen Grund vor Ihrer Reise, können Sie Ihre alte ETA nicht mit dem neuen Reisepass nutzen. Sie müssen erneut einen Antrag stellen und die Genehmigung vor der Reise erhalten, da es keine automatische Übertragung gibt.
 
-## Was bei der Erneuerung Ihres Reisepasses passiert
+## Ein erneuerter Reisepass braucht eine neue ETA
 
 Die Erneuerung eines Reisepasses ist für sich genommen Routine. Die Komplikation mit der ETA wird aber real, wenn Ihre Reise bevorsteht.
 
@@ -53,7 +53,7 @@ So sieht der Zeitplan aus, den Sie einplanen sollten:
 
 Das Risiko liegt in Schritt 5. Liegt Ihre Reise in 10 Tagen und Ihr neuer Reisepass trifft heute ein, bleibt nur ein enges Zeitfenster für Erneuerung und ETA-Genehmigung. Beginnen Sie die Erneuerung weniger als 2-3 Wochen vor der Reise, entsteht echter Zeitdruck.
 
-## Kinder und Babys brauchen ihre eigene ETA
+## Jedes Kind braucht seine eigene ETA, Babys eingeschlossen
 
 Jede Person, auch Säuglinge, benötigt ihre eigene britische ETA. Es gibt keine Familien-ETA und keine Möglichkeit, Angehörige zum Antrag einer anderen Person hinzuzufügen.
 
@@ -63,11 +63,13 @@ Kinderreisepässe laufen zudem schneller ab als Reisepässe von Erwachsenen – 
 
 **Prüfen Sie vor jeder Buchung einer Familienreise ins Vereinigte Königreich das Ablaufdatum des Reisepasses und den ETA-Status jedes Familienmitglieds.** Reicht die Gültigkeit bei einer Person nicht aus, kann das die gesamte Familie am Einsteigen hindern.
 
-## Wie weit im Voraus Sie beantragen sollten
+## Beantragen Sie zwei bis drei Wochen vor der Reise
 
 Das Home Office empfiehlt, den Antrag mindestens 3 Werktage vor der Reise zu stellen. Das ist eine Richtgröße, keine garantierte Bearbeitungszeit. Viele Anträge werden schneller genehmigt. Manche dauern länger, und die Genehmigung erfolgt nicht automatisch – das Home Office kann zusätzliche Informationen anfordern oder einen Antrag ablehnen.
 
-**Planen Sie so, als wären 3 Werktage das Minimum, nicht das Ziel.** Eine Woche im Voraus aus dem Ausland zu beantragen, verschafft Ihnen einen angemessenen Puffer, während 48 Stunden vor dem Flug bedeutet, auf den besten Fall zu setzen – ohne Absicherung, falls etwas schiefgeht.
+Planen Sie so, als wären 3 Werktage das Minimum, nicht das Ziel.
+
+Eine Woche im Voraus aus dem Ausland zu beantragen, verschafft Ihnen einen angemessenen Puffer, während 48 Stunden vor dem Flug bedeutet, auf den besten Fall zu setzen – ohne Absicherung, falls etwas schiefgeht.
 
 Wird Ihr ETA-Antrag abgelehnt, können Sie laut Home Office erneut einen Antrag stellen – das in den letzten Tagen vor Ihrem Flug zu tun, ist jedoch keine praktikable Rückfalloption. Beantragen Sie rechtzeitig, und betrachten Sie 3 Werktage als Mindestpuffer, nicht als Ziel.
 
@@ -81,11 +83,13 @@ Ein Grenzbeamter kann die Einreise dennoch verweigern. Er kann Fragen zu Ihrem R
 
 Eine ETA ist außerdem kein Visum – sie legt nicht fest, wie lange Sie bleiben dürfen. Inhaber einer ETA aus den meisten visumfreien Ländern dürfen sich als Besucher bis zu 6 Monate aufhalten, aber die tatsächliche Aufenthaltsdauer legt der Grenzbeamte bei Ihrer Ankunft fest, nicht die ETA selbst.
 
-## Weitere Themen zu ETA und Reisedokumenten
+## Eine ETA ist nicht die einzige Erlaubnis, die Sie brauchen könnten
 
 Die britische ETA ist eine von mehreren digitalen Reisegenehmigungen, die inzwischen im Einsatz sind. Wenn Sie eine Reise durch mehrere Länder planen, sollten Sie den Unterschied zwischen einer ETA und einem [Visum](https://traveldocumentvault.com/de/blog/visa-vs-passport/) kennen. Der Ablauf wirkt ähnlich, die beiden erfüllen aber unterschiedliche Zwecke.
 
 Die EU führt mit [ETIAS](https://traveldocumentvault.com/de/blog/etias-documents-2026/) ihr eigenes digitales Reisegenehmigungssystem für Besucher von außerhalb der EU ein – konzeptionell ähnlich der britischen ETA, jedoch mit anderen Regeln und Anforderungen. Umfasst Ihre Reise sowohl das Vereinigte Königreich als auch Europa, benötigen Sie womöglich beides.
+
+Haben Sie bereits eine Reise gebucht, erledigen Sie heute Folgendes: Vergleichen Sie das Ablaufdatum Ihres Reisepasses mit Ihren Reisedaten und prüfen Sie, ob Ihre aktuelle ETA an den Reisepass gebunden ist, mit dem Sie tatsächlich reisen. Reicht eines von beidem nicht aus, starten Sie die Erneuerung oder die erneute Beantragung jetzt und nicht erst in der Woche vor dem Flug.
 
 ## Häufig gestellte Fragen
 

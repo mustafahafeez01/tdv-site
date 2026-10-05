@@ -26,7 +26,7 @@ Disse to ting bliver ofte forvekslet, og de betyder noget af forskellige grunde.
 
 Denne artikel handler om samtykket til ansøgningen. Sondringen betyder noget, fordi du måske har brug for det ene uden det andet. Et barn kan have et gyldigt pas, som begge forældre gik med til at udstede, men det betyder ikke automatisk, at begge forældre har samtykket til hver eneste tur. Se vores guide til [samtykkebrev til børns rejser](https://traveldocumentvault.com/da/blog/child-travel-consent-letter/) og [at rejse uden begge forældre](https://traveldocumentvault.com/da/blog/travelling-child-without-both-parents/) for rejsesiden af sagen.
 
-## Hvem skal give samtykke, før ansøgningen kan indsendes
+## Som udgangspunkt skal alle med forældreansvar give samtykke
 
 Standardreglen er, at alle voksne med forældreansvar for barnet skal give samtykke til pasansøgningen. For de fleste familier betyder det begge gifte forældre; for samlevende par betyder det begge parter, hvis begge står på fødselsattesten som forældre. Alle med en retsafgørelse eller eneforældremyndighed er omfattet af andre regler, og dit pasudstedende kontor forklarer den specifikke proces, når du spørger.
 
@@ -34,7 +34,7 @@ Disse undtagelser er reelle og værd at kende. En afdød forælder kan ikke unde
 
 **Ansøger du alene**, fordi du har eneforældremyndighed, fordi den anden forælder er død, eller fordi der er en retsafgørelse, skal du kontakte dit pasudstedende kontor direkte med retsdokumenterne. De fortæller dig præcis, hvad du skal indsende for at bevise, at du har ret til at ansøge uden den anden forælder.
 
-## Hvad en førstegangsansøgning normalt beder dig om at bevise
+## Enhver førstegangsansøgning kræver tre slags bevis
 
 Pasudstedende myndigheder vil have tre ting, når du ansøger om et barns første pas: bevis for barnets identitet, bevis for forældrenes identitet, og bevis for forældrenes relation til barnet.
 
@@ -46,7 +46,7 @@ Pasudstedende myndigheder vil have tre ting, når du ansøger om et barns først
 
 **Nogle lande bruger et system med en attestant.** Det betyder, at en betroet fagperson – en lærer, læge, advokat eller lignende – underskriver en formular for at indestå for, at ansøgningen er ægte, og at fotoet er en tro kopi af barnet. Bruger dit land dette system, skal du finde en, der er villig til det, før du ansøger. Spørg dit pasudstedende kontor, hvilke fag de accepterer.
 
-## At fotografere en baby til et pas
+## Babyer kan ikke følge voksnes fotoregler, så du tilpasser dem
 
 Det er her, mange førstegangsansøgninger går galt. En baby eller et lille barn kan ikke følge fotoreglerne, som en voksen kan: babyer kan ikke sidde op, tumlinger kan ikke sidde stille eller forstå instruktioner, og nyfødte kan ikke se ind i kameraet på kommando. Pasfotostandarder er skrevet til voksne, og du skal forstå, hvordan du tilpasser dem, når motivet er et barn, der vejer 5 kilo og bevæger sig konstant.
 
@@ -58,13 +58,21 @@ Det er her, mange førstegangsansøgninger går galt. En baby eller et lille bar
 
 **For tumlinger på 2 år og opefter:** sæt dem foran den ensfarvede baggrund på en stol, eller lad dem stå, hvis de kan stå. Øjnene skal kigge lige ind i kameraet, hvilket er sværere, end det lyder, fordi tumlinger ikke følger instruktioner. Syng en sang, lav en sjov lyd, eller bed dem kigge på et punkt lige over objektivet. Du vil have, at de kigger lidt opad, hvilket alligevel ser bedre ud på billeder. Tag igen mange billeder – du skal kun bruge ét, hvor de kigger ind i kameraet med begge øjne tydeligt åbne.
 
-**De mest almindelige fejl:** en forælders hånd, der støtter babyens hoved i billedet (ikke tilladt), en sut, der stadig sidder i babyens mund (skal fjernes), en anden person delvist synlig i kanten (må ikke ses), legetøj eller genstande i baggrunden (fjern dem), og at baggrunden ikke er tydeligt synlig bag barnets hoved (træd et skridt tilbage, eller juster vinklen, så den ensfarvede baggrund er synlig).
+**De mest almindelige fejl** handler alle om, at noget sniger sig ind i et billede, der kun skal rumme babyen:
 
-Falder babyen i søvn eller græder under forsøgene, så stop og prøv igen en anden gang. Dit pasudstedende kontor har set alle variationer af dette. De vil hellere have et klart foto af en vågen baby end et sløret foto af et barn, der er ked af det.
+- En forælders hånd, der støtter babyens hoved (ikke tilladt).
+- En sut, der stadig sidder i babyens mund (skal fjernes, før billedet tages).
+- En anden person, der er delvist synlig i kanten af billedet (må slet ikke ses).
+- Legetøj eller genstande i baggrunden (fjern dem først).
+- Den ensfarvede baggrund er ikke tydeligt synlig bag barnets hoved (træd et skridt tilbage, eller juster vinklen).
 
-## Når én forælder ikke kan underskrive
+Falder babyen i søvn eller græder under forsøgene, så stop og prøv igen en anden gang. Dit pasudstedende kontor har set alle variationer af dette. Vi ville altid vælge et roligt nyt forsøg frem for at presse et sløret foto igennem. Kontoret vil hellere se et klart billede af en vågen baby end et forhastet af et barn, der er ked af det.
 
-Dit pasudstedende kontor kan ikke udstede dokumentet uden juridisk bevis for, at du har ret til at fortsætte alene, uanset om den anden forælder ikke vil underskrive, ikke kan findes, eller har mistet forældreansvaret. Dette er et juridisk krav, der findes for at beskytte barnet, ikke en forhandling.
+## At underskrive alene kræver som regel juridisk dokumentation
+
+Dit pasudstedende kontor kan ikke udstede dokumentet uden juridisk bevis for, at du har ret til at fortsætte alene, uanset om den anden forælder ikke vil underskrive, ikke kan findes, eller har mistet forældreansvaret.
+
+Dette er et juridisk krav, der findes for at beskytte barnet, ikke en forhandling.
 
 **Er den anden forælder væk eller nægter:** du skal bruge en retsafgørelse. Det kan være en eksisterende forældremyndighedsafgørelse, en værgemålsafgørelse, eller en specifik retskendelse om, at du har eneforældremyndighed. Nogle lande giver dig mulighed for at ansøge retten om tilladelse til at udstede passet uden den anden forælders samtykke, hvis du kan vise, at barnet ville lide skade ved forsinkelse, eller at den anden forælder er uegnet til at blive konsulteret. Det varierer fra land til land og med lokal retspraksis – spørg dit pasudstedende kontor eller en familieadvokat, hvad processen er, hvor du bor.
 
@@ -72,7 +80,7 @@ Dit pasudstedende kontor kan ikke udstede dokumentet uden juridisk bevis for, at
 
 **Er der et tilhold eller en forældremyndighedsbegrænsning:** tag retsafgørelsen med. Den viser kontoret præcis, hvilke tilladelser og begrænsninger der gælder.
 
-## Hvad du skal tjekke den dag, det ankommer
+## Tjek tre ting den dag, passet ankommer
 
 Når passet er udstedt og leveret til dig, så brug fem minutter på at tjekke det, før du lægger det væk. Du kigger efter tre ting, der er nemme at rette nu og et mareridt at rette i lufthavnen.
 
@@ -80,9 +88,9 @@ Når passet er udstedt og leveret til dig, så brug fem minutter på at tjekke d
 
 **Tjek forældrenavne, hvor de forekommer.** Nogle lande trykker forældrenes eller værgernes navne på indersiden af et barns pas. Er navnene stavet forkert eller forkerte, så kontakt kontoret for at få det rettet.
 
-**Tjek udløbsdatoen.** Det er afgørende for børn, fordi [børnepas udløber meget hurtigere end voksenpas](https://traveldocumentvault.com/da/blog/family-passport-management/). Når du booker rejser, skal du vide præcis, hvornår dokumentet holder op med at være gyldigt. Skriv det ned. Sæt en påmindelse. At børnepas udløber uventet er en af de mest almindelige grunde til, at familier må aflyse eller udskyde rejser.
+**Tjek udløbsdatoen.** Det er afgørende for børn, fordi [børnepas udløber meget hurtigere end voksenpas](https://traveldocumentvault.com/da/blog/family-passport-management/). Når du booker rejser, skal du vide præcis, hvornår dokumentet holder op med at være gyldigt. Skriv det ned, og sæt en påmindelse den dag, passet ankommer, ikke først når en rejse dukker op; det er den ene vane, vi altid vil anbefale forældre. At børnepas udløber uventet er en af de mest almindelige grunde til, at familier må aflyse eller udskyde rejser.
 
-Er noget forkert, så kontakt dit pasudstedende kontor inden for få dage. Rettelser er som regel gratis, hvis de anmeldes hurtigt. Vent ikke, for jo længere du venter, desto mere kompliceret bliver processen.
+Er noget forkert, så kontakt dit pasudstedende kontor inden for få dage. Rettelser er som regel gratis, hvis de anmeldes hurtigt, og jo længere du venter, desto mere kompliceret bliver processen. Når alt stemmer, så læg passet direkte i din dokumentmappe med en notits om udløbsdatoen, så en fornyelse ikke overrasker dig.
 
 ## Ofte stillede spørgsmål
 

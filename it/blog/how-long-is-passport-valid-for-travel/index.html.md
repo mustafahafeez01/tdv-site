@@ -20,9 +20,9 @@ Sette mesi rimasti sul tuo passaporto sembrano parecchi. Prenoti i voli, control
 
 È una delle regole di viaggio più comunemente fraintese. Un passaporto che non è scaduto può comunque non soddisfare i requisiti di ingresso per decine di destinazioni popolari. Comprendere come i mesi di validità del passaporto sono effettivamente contati può salvarti un errore molto costoso.
 
-## Per quanto tempo è valido un passaporto?
+## I passaporti per adulti durano molto più di quelli dei bambini
 
-Il periodo di validità standard per un passaporto per adulti è 10 anni dalla data di rilascio nella maggior parte dei paesi. I passaporti per bambini scadono più presto — tipicamente 5 anni — perché l'aspetto di un bambino cambia significativamente durante quel periodo.
+Il periodo di validità standard per un passaporto per adulti è 10 anni dalla data di rilascio nella maggior parte dei paesi. I passaporti per bambini scadono più presto — tipicamente 5 anni — perché l'aspetto di un bambino cambia significativamente durante quel periodo. Noi controlleremmo il passaporto di un bambino prima di quello di chiunque altro, perché è quello che tutti danno per scontato sia a posto.
 
 | Paese | Validità adulti | Validità bambini |
 |---|---|---|
@@ -47,7 +47,7 @@ Copriamo [quali paesi applicano la regola dei 6 mesi](https://traveldocumentvaul
 
 **Pagine bianche.** Alcuni paesi richiedono 2 a 4 pagine bianche per i visti. Se viaggi frequentemente e il tuo passaporto ha 6 o 7 anni, potrebbe esaurirsi le pagine utilizzabili prima della data di scadenza. Controlla il numero di pagine così come la validità quando viaggi verso destinazioni che rilasciano timbri dei visti.
 
-## Quanti mesi di validità hai bisogno?
+## I mesi che ti servono dipendono dalla destinazione
 
 Dipende interamente da dove stai andando.
 
@@ -57,7 +57,7 @@ Per destinazioni con un requisito di 6 mesi, conta 6 mesi dal giorno dell'arrivo
 
 Per tutto il resto, controlla prima di prenotare. L'IATA Travel Centre fornisce il requisito esatto per la tua nazionalità e destinazione in secondi.
 
-## Passaporti dei bambini — La trappola del viaggio in famiglia
+## I passaporti dei bambini scadono prima, e le famiglie dimenticano di controllarli
 
 È qui che le famiglie vengono colte di sorpresa ogni estate. I passaporti per adulti sono validi per 10 anni. I passaporti per bambini scadono dopo 5. Quella differenza crea un problema specifico.
 
@@ -65,19 +65,19 @@ Un bambino di 3 anni che ha ottenuto il suo primo passaporto nel 2023 ha un docu
 
 **Prima di prenotare qualsiasi viaggio internazionale, controlla ogni passaporto nel gruppo individualmente.** Un passaporto breve può bloccare un'intera famiglia dall'imbarco.
 
-## Quando dovresti rinnovare il tuo passaporto?
+## Rinnova con un margine di validità, molto prima della scadenza
 
-La risposta pratica: quando scendi al di sotto di 12 mesi di validità rimanente.
-
-Ecco perché 12 mesi è la soglia giusta e non la data di scadenza stessa:
+La risposta pratica: quando scendi al di sotto di 12 mesi di validità rimanente, non quando sta per scadere. Ecco perché 12 mesi è la soglia giusta e non la data di scadenza stessa:
 
 - Ti dà un buffer completo di 6 mesi per qualsiasi destinazione che applica la regola.
 - Il rinnovo del passaporto richiede tempo, e i tempi di elaborazione cambiano — l'Ufficio dei Passaporti di HM sconsiglia di prenotare viaggi fino all'arrivo del nuovo passaporto, ed entrambi, insieme al Dipartimento di Stato USA, pubblicano i loro tempi di elaborazione attuali. Per questo iniziare con 6 mesi rimanenti lascia poco margine.
 - I piani dell'ultimo minuto accadono. Un passaporto con 14 mesi rimanenti mantiene tutte le destinazioni aperte. Un passaporto con 5 mesi rimanenti chiude una gran parte del mondo.
 
-L'errore più comune è impostare un promemoria sulla data di scadenza stessa. A quel punto non puoi viaggiare verso la maggior parte delle destinazioni che applicano la regola dei 6 mesi. **Imposta il tuo promemoria di rinnovo al marchio di 12 mesi.**
+L'errore più comune è impostare un promemoria sulla data di scadenza stessa. A quel punto non puoi viaggiare verso la maggior parte delle destinazioni che applicano la regola dei 6 mesi.
 
-Se leggi anche la nostra guida su [quanto tempo richiede il rinnovo del passaporto](https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-take/), vedrai esattamente quanto stretti possono essere i tempi durante i periodi di punta — che è un'altra ragione per iniziare in anticipo.
+**Imposta il tuo promemoria di rinnovo al marchio di 12 mesi.**
+
+Se leggi anche la nostra guida su [quanto tempo richiede il rinnovo del passaporto](https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-take/), vedrai esattamente quanto stretti possono essere i tempi durante i periodi di punta — che è un'altra ragione per iniziare in anticipo. Se il tuo passaporto ha già meno di dodici mesi di validità, rinnovalo prima di prenotare qualsiasi altra cosa.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 

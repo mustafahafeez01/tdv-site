@@ -20,7 +20,7 @@ El sistema de ETA del Reino Unido parece sencillo en la superficie: solicitas, p
 
 Esto es un problema de seguimiento de documentos. Tienes dos fechas que vigilar: la renovación de tu pasaporte y la validez de tu ETA. Si se te escapa la conexión entre ambas, podrías quedarte parado en el aeropuerto días antes de viajar.
 
-## Quién necesita una ETA del Reino Unido antes de viajar
+## La mayoría de los visitantes exentos de visado ya necesitan una ETA
 
 Si eres nacional de Estados Unidos, Canadá, Australia, Nueva Zelanda, o de un país de la UE o del Espacio Económico Europeo, es probable que necesites una ETA del Reino Unido. El sistema entró en vigor el 25 de febrero de 2026 para la mayoría de nacionales exentos de visado.
 
@@ -28,7 +28,7 @@ Algunas personas están exentas: los ciudadanos irlandeses no la necesitan, y la
 
 **Comprueba tu situación con el Home Office antes de reservar.** El requisito de ETA no es difícil de cumplir, pero basta con una categoría de exención que desconocías para malgastar dinero en una solicitud innecesaria o quedarte atascado en el mostrador de facturación.
 
-## A qué está realmente vinculada la ETA
+## La ETA está vinculada a tu número de pasaporte, no a ti
 
 Tu ETA del Reino Unido está vinculada a tu número de pasaporte, no a ti como persona. Cuando solicitas la ETA, el Home Office asocia la aprobación a un número de pasaporte concreto. Viajar con un pasaporte distinto —uno recién renovado, un segundo pasaporte, un reemplazo de emergencia— significa viajar con una ETA que no está vinculada a ese documento.
 
@@ -36,7 +36,7 @@ Esto es distinto de los visados de muchos países, que suelen estar vinculados a
 
 En la práctica, si tu pasaporte caduca o lo renuevas por cualquier motivo antes de tu viaje, no puedes usar tu antigua ETA con el nuevo pasaporte. Debes volver a solicitarla y obtener la aprobación antes de viajar, ya que no existe ninguna transferencia automática.
 
-## Qué ocurre cuando renuevas tu pasaporte
+## Un pasaporte renovado necesita una ETA nueva
 
 Renovar un pasaporte es, en sí mismo, un trámite rutinario. Pero la complicación con la ETA es real si tu viaje está cerca.
 
@@ -53,7 +53,7 @@ Este es el calendario a tener en cuenta:
 
 El riesgo está en el paso 5. Si tu viaje es dentro de 10 días y tu nuevo pasaporte llega hoy, tienes un margen muy estrecho para renovarlo y conseguir la aprobación de la ETA. Empezar el proceso de renovación con menos de 2-3 semanas antes del viaje genera una presión de tiempo real.
 
-## Los niños y los bebés necesitan la suya propia
+## Cada niño necesita su propia ETA, bebés incluidos
 
 Cada persona, incluidos los bebés, necesita su propia ETA del Reino Unido. No existe una ETA familiar ni forma de añadir personas dependientes a la solicitud de otra persona.
 
@@ -63,11 +63,13 @@ Los pasaportes de los niños también caducan antes que los de los adultos —no
 
 **Antes de reservar cualquier viaje familiar al Reino Unido, comprueba la fecha de caducidad del pasaporte y el estado de la ETA de cada miembro de la familia.** Una sola persona con la validez justa puede impedir que embarque toda la familia.
 
-## Con cuánta antelación solicitarla
+## Solicítala entre dos y tres semanas antes de viajar
 
 El Home Office recomienda solicitarla al menos 3 días hábiles antes de viajar. Es una orientación, no un plazo de tramitación garantizado. Muchas solicitudes se aprueban más rápido. Otras tardan más, y la aprobación no es automática —el Home Office puede pedir información adicional o denegar una solicitud.
 
-**Trata los 3 días hábiles como un mínimo, no como el objetivo.** Solicitarla con una semana de antelación desde fuera del Reino Unido te da un margen razonable, mientras que hacerlo 48 horas antes de tu vuelo supone dar por hecho el mejor escenario posible, sin ningún respaldo si algo sale mal.
+Trata los 3 días hábiles como un mínimo, no como el objetivo.
+
+Solicitarla con una semana de antelación desde fuera del Reino Unido te da un margen razonable, mientras que hacerlo 48 horas antes de tu vuelo supone dar por hecho el mejor escenario posible, sin ningún respaldo si algo sale mal.
 
 Si te deniegan la solicitud de ETA, el Home Office indica que puedes volver a solicitarla —pero hacerlo en los días previos a tu vuelo no es una alternativa práctica. Solicítala con bastante antelación, y trata los 3 días hábiles como el margen mínimo, no como el objetivo.
 
@@ -81,11 +83,13 @@ Un agente fronterizo siempre puede denegar la entrada. Puede preguntarte por el 
 
 Una ETA tampoco es un visado —no determina cuánto tiempo puedes quedarte. Los titulares de una ETA de la mayoría de países exentos de visado pueden permanecer hasta 6 meses como visitantes, pero es el agente fronterizo quien fija la duración real de la estancia a tu llegada, no la ETA en sí.
 
-## Otros temas relacionados con la ETA y los documentos de viaje
+## La ETA no es el único permiso que puedes necesitar
 
 La ETA del Reino Unido es solo una de varias autorizaciones de viaje digitales ya en uso. Si estás planeando un viaje por varios países, conviene entender la diferencia entre una ETA y un [visado](https://traveldocumentvault.com/es/blog/visa-vs-passport/). Se parecen en el trámite, pero cumplen funciones distintas.
 
 La UE está implantando su propio sistema de autorización de viaje digital, llamado [ETIAS](https://traveldocumentvault.com/es/blog/etias-documents-2026/), para visitantes de fuera de la UE —un concepto parecido al de la ETA del Reino Unido, pero con normas y requisitos distintos. Si tu viaje incluye tanto el Reino Unido como Europa, podrías necesitar las dos.
+
+Si ya tienes un viaje reservado, haz esto hoy mismo: compara la fecha de caducidad de tu pasaporte con las fechas del viaje y confirma que tu ETA actual está vinculada al pasaporte con el que vas a viajar de verdad. Si alguna de las dos cosas no cuadra, empieza ya la renovación o la nueva solicitud, no la semana antes de volar.
 
 ## Preguntas Frecuentes
 

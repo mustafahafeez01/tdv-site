@@ -26,7 +26,7 @@ Queste due cose vengono spesso confuse, e contano per motivi diversi. **Il conse
 
 Questo articolo tratta il consenso per la domanda. La distinzione conta perché potresti avere bisogno dell'uno senza l'altro. Un bambino può avere un passaporto valido che entrambi i genitori hanno accettato di far emettere, ma questo non significa automaticamente che entrambi abbiano acconsentito a ogni viaggio. Consulta la nostra guida sulle [lettere di consenso al viaggio dei minori](https://traveldocumentvault.com/it/blog/child-travel-consent-letter/) e su [come viaggiare senza entrambi i genitori](https://traveldocumentvault.com/it/blog/travelling-child-without-both-parents/) per il lato del viaggio di questa equazione.
 
-## Chi deve dare il consenso prima che la domanda possa essere presentata
+## Di norma devono essere d'accordo tutti i titolari di responsabilità genitoriale
 
 La regola di base è che tutti gli adulti con responsabilità genitoriale sul bambino devono dare il consenso alla domanda di passaporto. Per la maggior parte delle famiglie questo significa entrambi i genitori sposati; per le coppie non sposate, significa entrambi i partner se sono entrambi indicati come genitori sul certificato di nascita. Chi ha un provvedimento del tribunale o l'affido legale esclusivo segue regole diverse, e il tuo ufficio passaporti ti spiegherà la procedura specifica quando lo chiederai.
 
@@ -34,7 +34,7 @@ Queste eccezioni sono reali e vale la pena conoscerle. Un genitore deceduto non 
 
 **Se stai facendo domanda da solo** perché hai l'affido legale esclusivo, o perché l'altro genitore è deceduto, o perché è in vigore un provvedimento del tribunale, contatta direttamente il tuo ufficio passaporti con i documenti giudiziari. Ti diranno esattamente cosa presentare per dimostrare di avere il diritto di fare domanda senza l'altro genitore.
 
-## Cosa chiede di solito di dimostrare una prima domanda
+## Ogni prima domanda richiede tre tipi di prove
 
 Gli uffici passaporti vogliono tre cose quando fai domanda per il primo passaporto di un bambino: prova dell'identità del bambino, prova dell'identità dei genitori, e prova del legame dei genitori con il bambino.
 
@@ -46,7 +46,7 @@ Gli uffici passaporti vogliono tre cose quando fai domanda per il primo passapor
 
 **Alcuni paesi usano un sistema di controfirma.** Questo significa che un professionista di fiducia — un insegnante, un medico, un avvocato, o simili — firma un modulo per garantire che la domanda sia genuina e che la foto sia una rappresentazione fedele del bambino. Se il tuo paese usa questo sistema, devi individuare qualcuno disposto a farlo prima di presentare domanda. Chiedi al tuo ufficio passaporti quali professioni accetta.
 
-## Fotografare un neonato per il passaporto
+## I neonati non possono seguire le regole delle foto per adulti, quindi le si adatta
 
 È qui che molte domande per la prima volta falliscono. Un neonato o un bambino piccolo non può seguire le regole della foto come un adulto: i neonati non sanno stare seduti, i bambini piccoli non riescono a stare fermi o a capire le istruzioni, e i neonati appena nati non possono guardare la fotocamera a comando. Gli standard delle foto passaporto sono stati scritti per gli adulti, e devi capire come adattarli quando il soggetto è un bambino che pesa 5 chili e si muove di continuo.
 
@@ -58,13 +58,21 @@ Gli uffici passaporti vogliono tre cose quando fai domanda per il primo passapor
 
 **Per i bambini dai 2 anni in su:** fallo sedere davanti allo sfondo semplice su una sedia, o in piedi se sa stare in piedi. Gli occhi devono guardare dritto verso la fotocamera, il che è più difficile di quanto sembri perché i bambini piccoli non seguono le istruzioni. Canta una canzone, fai un rumore buffo, o chiedigli di guardare un punto appena sopra l'obiettivo. Vuoi che guardi leggermente verso l'alto, il che rende comunque meglio nelle foto. Anche qui, scatta molte foto — te ne serve solo una in cui guardi la fotocamera con entrambi gli occhi chiaramente aperti.
 
-**Gli errori più comuni:** la mano di un genitore che sostiene la testa del bambino visibile nell'inquadratura (non consentito), un ciuccio ancora in bocca al bambino (deve essere rimosso), qualcun altro parzialmente visibile sul bordo (non deve comparire), giocattoli o oggetti sullo sfondo (rimuovili), e lo sfondo non chiaramente visibile dietro la testa del bambino (fai un passo indietro o regola l'angolazione in modo che lo sfondo semplice sia visibile).
+**Gli errori più comuni** si riducono tutti a qualcosa che si infila in un'inquadratura pensata per contenere solo il bambino:
 
-Se il bambino si addormenta o piange durante i tentativi, fermati e riprova un'altra volta. Il tuo ufficio passaporti ha visto ogni variazione possibile di questa situazione. Preferiscono ricevere una foto nitida di un bambino sveglio piuttosto che una foto sfocata di un bambino in difficoltà.
+- La mano di un genitore che sostiene la testa del bambino (non consentito).
+- Un ciuccio ancora in bocca al bambino (deve essere tolto prima dello scatto).
+- Qualcun altro parzialmente visibile sul bordo dell'inquadratura (non deve comparire affatto).
+- Giocattoli o oggetti sullo sfondo (rimuovili prima).
+- Lo sfondo semplice non chiaramente visibile dietro la testa del bambino (fai un passo indietro o regola l'angolazione).
 
-## Quando un genitore non può firmare
+Se il bambino si addormenta o piange durante i tentativi, fermati e riprova un'altra volta. Il tuo ufficio passaporti ha visto ogni variazione possibile di questa situazione. Noi sceglieremmo sempre di riprovare con calma piuttosto che forzare una foto sfocata. L'ufficio preferisce vedere un'immagine nitida di un bambino sveglio piuttosto che una scattata in fretta di un bambino in difficoltà.
 
-Il tuo ufficio passaporti non può rilasciare il documento senza una prova legale del tuo diritto di procedere da solo, che l'altro genitore non voglia firmare, non sia rintracciabile, o abbia perso la responsabilità genitoriale. Questo è un requisito legale che esiste per proteggere il bambino, non una trattativa.
+## Firmare da soli di solito richiede una prova legale
+
+Il tuo ufficio passaporti non può rilasciare il documento senza una prova legale del tuo diritto di procedere da solo, che l'altro genitore non voglia firmare, non sia rintracciabile, o abbia perso la responsabilità genitoriale.
+
+Questo è un requisito legale che esiste per proteggere il bambino, non una trattativa.
 
 **Se l'altro genitore è irreperibile o si rifiuta:** ti serve un provvedimento del tribunale. Può essere un ordine di affido già esistente, un provvedimento di tutela, o una sentenza specifica che ti attribuisce la responsabilità genitoriale esclusiva. Alcuni paesi permettono di chiedere al tribunale l'autorizzazione a rilasciare il passaporto senza il consenso dell'altro genitore, se puoi dimostrare che il bambino subirebbe un danno dal ritardo o che l'altro genitore non è in condizione di essere consultato. Questo varia da paese a paese e in base alla prassi dei tribunali locali — chiedi al tuo ufficio passaporti o a un avvocato di famiglia qual è la procedura dove ti trovi.
 
@@ -72,7 +80,7 @@ Il tuo ufficio passaporti non può rilasciare il documento senza una prova legal
 
 **In presenza di un ordine restrittivo o di una limitazione di affido:** porta con te il provvedimento del tribunale. Mostra all'ufficio esattamente quali permessi e restrizioni sono in vigore.
 
-## Cosa controllare il giorno in cui arriva
+## Controlla tre cose il giorno in cui arriva il passaporto
 
 Una volta che il passaporto è stato emesso e consegnato, dedica cinque minuti a controllarlo prima di archiviarlo. Ci sono tre cose da verificare, facili da correggere ora e un incubo da correggere in aeroporto.
 
@@ -80,9 +88,9 @@ Una volta che il passaporto è stato emesso e consegnato, dedica cinque minuti a
 
 **Controlla i nomi dei genitori dove compaiono.** Alcuni paesi stampano i nomi dei genitori o dei tutori all'interno del passaporto di un bambino. Se questi nomi sono scritti male o sbagliati, contatta l'ufficio per farli correggere.
 
-**Controlla la data di scadenza.** Questo è fondamentale per i bambini perché [i passaporti dei bambini scadono molto prima di quelli degli adulti](https://traveldocumentvault.com/it/blog/family-passport-management/). Quando prenoti un viaggio, devi sapere esattamente quando questo documento smette di essere valido. Scrivilo. Imposta un promemoria. I passaporti dei bambini che scadono inaspettatamente sono uno dei motivi più comuni per cui le famiglie devono cancellare o riprogrammare i viaggi.
+**Controlla la data di scadenza.** Questo è fondamentale per i bambini perché [i passaporti dei bambini scadono molto prima di quelli degli adulti](https://traveldocumentvault.com/it/blog/family-passport-management/). Quando prenoti un viaggio, devi sapere esattamente quando questo documento smette di essere valido. Scrivilo e imposta un promemoria il giorno stesso in cui arriva il passaporto, non quando capita un viaggio: è l'unica abitudine che consigliamo sempre ai genitori. I passaporti dei bambini che scadono inaspettatamente sono uno dei motivi più comuni per cui le famiglie devono cancellare o riprogrammare i viaggi.
 
-Se qualcosa non va, contatta il tuo ufficio passaporti entro pochi giorni. Le correzioni sono di solito gratuite se segnalate rapidamente. Non aspettare, perché più tempo lasci passare più il processo diventa complicato.
+Se qualcosa non va, contatta il tuo ufficio passaporti entro pochi giorni. Le correzioni sono di solito gratuite se segnalate rapidamente, e più tempo lasci passare più il processo diventa complicato. Quando è tutto a posto, metti subito il passaporto nella cartella dei documenti con una nota sulla data di scadenza, così il rinnovo non ti coglie di sorpresa.
 
 ## Domande Frequenti
 

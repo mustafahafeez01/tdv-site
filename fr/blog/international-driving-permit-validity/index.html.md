@@ -20,7 +20,7 @@ Un permis de conduire international est une traduction du permis, et non un perm
 
 Un PCI porte sa propre date d'expiration, et cette date se comporte différemment selon la convention internationale dont relève votre permis. La plupart des conducteurs ne découvrent qu'il en existe deux types que le jour où l'un des deux est refusé.
 
-## Ce qu'est réellement un PCI
+## Un PCI traduit votre permis, il ne le remplace pas
 
 Un permis de conduire international est une traduction officielle du permis que vous possédez déjà. Il présente vos informations en plusieurs langues, afin qu'un agent incapable de lire votre permis national puisse tout de même comprendre ce que vous êtes autorisé à conduire.
 
@@ -28,7 +28,7 @@ Il fonctionne donc en binôme. Vous portez le permis national et le PCI ensemble
 
 Cela piège les gens plus souvent que les dates d'expiration elles-mêmes. Le PCI a l'air du document sérieux, avec ses tampons et ses langues, on a donc l'impression que c'est lui qui compte vraiment.
 
-## Trois conventions, et les deux qui comptent
+## Deux conventions décident de la durée de validité et des pays où le permis fonctionne
 
 Trois accords internationaux sont à l'origine des PCI, et les pays ont ratifié l'un d'eux, ou plusieurs. Deux d'entre eux couvrent presque tous les cas : la convention de Genève de 1949 et la convention de Vienne de 1968. Un permis plus ancien, relevant de la convention de Paris de 1926, est encore délivré pour un petit nombre de destinations, et comme le permis de Genève, il est valable un an.
 
@@ -48,9 +48,9 @@ Ces trois ans s'accompagnent d'une condition qu'il est facile de survoler. Un pe
 
 Supposons qu'il reste 14 mois de validité à votre permis national et qu'on vous délivre un PCI de trois ans. Ce permis international ne sera utile que pendant 14 mois. La date imprimée au recto ne prime pas sur le permis qui se trouve derrière lui.
 
-Renouveler ensuite votre permis national ne sauve pas non plus le PCI. Il reste lié au permis pour lequel il a été délivré, donc un nouveau permis national implique généralement un nouveau PCI.
+Renouveler ensuite votre permis national ne sauve pas non plus le PCI. Il reste lié au permis pour lequel il a été délivré, donc un nouveau permis national implique généralement un nouveau PCI. Si votre permis de conduire doit être renouvelé avant le voyage, nous le renouvellerions d'abord et ne demanderions le permis international qu'ensuite, afin qu'il soit rattaché au nouveau permis.
 
-## Trois documents, trois horloges
+## Votre permis international est la date que personne ne surveille
 
 Un passeport, un permis de conduire, et souvent un PCI : quiconque conduit à l'étranger finit par porter les trois, chacun délivré par un service différent selon son propre calendrier, si bien que leurs dates d'expiration coïncident rarement.
 
@@ -62,13 +62,13 @@ Le passeport est généralement la date que l'on surveille, et ce n'est pas un h
 
 C'est l'argument pratique pour garder ces trois dates au même endroit. Travel Document Vault, disponible sur l'[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) et [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), conserve les documents sur votre appareil et suit chaque date d'expiration indépendamment, afin que le PCI n'expire pas discrètement pendant que vous surveillez le passeport.
 
-## Ce qu'il faut vérifier avant de réserver
+## Vérifiez la date de votre permis de conduire avant celle de votre permis international
 
-Quelques points méritent d'être vérifiés, à peu près dans cet ordre.
+Nous vérifierions ces points dans cet ordre, et la date du permis de conduire avant tout ce qui est imprimé sur le permis international.
 
 **Si vous avez besoin d'un permis, tout simplement.** Certains pays acceptent un permis national seul, et c'est le pays où vous conduisez qui fixe l'exigence, pas celui qui a délivré votre permis.
 
-**Quelle convention votre destination reconnaît**, puis au titre de quelle convention votre permis a été délivré. C'est indiqué sur le document.
+**Quelle convention votre destination reconnaît**, puis vérifiez votre permis par rapport à celle-ci (la convention est indiquée sur le document).
 
 **La date d'expiration de votre permis national, avant celle de votre PCI.** Sur un permis de Vienne, c'est le permis national qui fait foi, donc vérifier d'abord le PCI vous apprend moins de choses qu'on ne le pense.
 
@@ -86,15 +86,17 @@ La demande elle-même est généralement simple. Attendez-vous à fournir les in
 
 C'est sur un voyage réservé à la dernière minute que cela fait le plus mal. Le permis est rarement un problème en soi. Il le devient quand il figure en dernier sur une liste déjà serrée.
 
-## Méfiez-vous de ce que vous achetez en ligne
+## Il n'existe pas de « licence de conduite internationale »
 
 Recherchez « permis de conduire international » et vous tomberez sur des sites vendant ce qu'ils appellent une « licence de conduite internationale », souvent bien plus chère que le permis officiel, promettant parfois une livraison instantanée ou dix ans de validité.
 
 Cette licence n'existe pas. Les seuls documents reconnus sont les permis délivrés au titre des conventions de 1926, 1949 et 1968, via le canal désigné par votre propre pays. Trois ans pour un permis de Vienne est la durée maximale que l'un d'eux puisse atteindre, donc tout ce qui annonce 10 ou 20 ans décrit un document qu'aucun agent frontalier n'est tenu d'accepter.
 
+Si vous préparez une liste plus large avant le départ plutôt que de vous concentrer uniquement sur la conduite, notre [liste de contrôle des documents de voyage international](https://traveldocumentvault.com/fr/blog/travel-document-checklist/) détaille ce qu'il faut rassembler avant de prendre l'avion, et notre article sur les [documents que l'on oublie](https://traveldocumentvault.com/fr/blog/what-documents-to-carry-when-travelling-internationally/) explique où conserver chacun d'eux une fois en déplacement.
+
 Renseignez-vous sur l'organisme qui délivre les permis dans le pays qui a émis votre permis de conduire, et adressez-vous à cet organisme. Si un site refuse de préciser au titre de quelle convention son document est délivré, cela répond déjà à la question.
 
-Si vous préparez une liste plus large avant le départ plutôt que de vous concentrer uniquement sur la conduite, notre [liste de contrôle des documents de voyage international](https://traveldocumentvault.com/fr/blog/travel-document-checklist/) détaille ce qu'il faut rassembler avant de prendre l'avion, et notre article sur les [documents que l'on oublie](https://traveldocumentvault.com/fr/blog/what-documents-to-carry-when-travelling-internationally/) explique où conserver chacun d'eux une fois en déplacement.
+Aujourd'hui, sortez votre permis de conduire et votre permis international, si vous en avez un, et placez les deux dates d'expiration côte à côte. Avec un permis de Vienne, la première des deux à arriver est la date à laquelle il prend réellement fin.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 

@@ -20,7 +20,7 @@ Surat Izin Mengemudi Internasional adalah terjemahan dari SIM, bukan SIM tersend
 
 IDP memiliki tanggal kedaluwarsanya sendiri, dan tanggal itu berlaku berbeda tergantung di bawah perjanjian internasional mana izin Anda diterbitkan. Kebanyakan pengemudi baru tahu ada dua jenis izin setelah salah satunya ditolak.
 
-## Apa Sebenarnya IDP Itu
+## IDP Menerjemahkan SIM Anda, Bukan Menggantikannya
 
 Izin Mengemudi Internasional adalah terjemahan resmi dari SIM yang sudah Anda miliki. Dokumen ini mencantumkan data Anda dalam beberapa bahasa sehingga petugas yang tidak bisa membaca SIM nasional Anda tetap bisa mengetahui jenis kendaraan yang berhak Anda kemudikan.
 
@@ -28,7 +28,7 @@ Jadi keduanya berfungsi sebagai pasangan. Anda membawa SIM nasional dan izin men
 
 Kesalahpahaman ini lebih sering menjebak orang daripada urusan tanggal kedaluwarsa. Izin ini terlihat seperti dokumen yang lebih penting, penuh cap dan berbagai bahasa, sehingga terasa seperti dokumen yang paling menentukan.
 
-## Tiga Perjanjian, dan Dua yang Penting
+## Dua Perjanjian Menentukan Berapa Lama Izin Berlaku dan di Mana Izin Itu Diakui
 
 Tiga perjanjian internasional menjadi dasar IDP, dan setiap negara meratifikasi satu atau beberapa di antaranya. Dua di antaranya menangani hampir semua kebutuhan: Konvensi Jenewa 1949 dan Konvensi Wina 1968. Izin dari Konvensi Paris 1926 yang lebih tua masih diterbitkan untuk sejumlah kecil negara tujuan, dan seperti izin Jenewa, masa berlakunya satu tahun.
 
@@ -48,9 +48,9 @@ Masa berlaku tiga tahun itu memiliki syarat yang mudah terlewat. Izin Wina kedal
 
 Misalnya SIM Anda masih berlaku 14 bulan lagi dan Anda diterbitkan izin tiga tahun. Izin itu hanya berguna selama 14 bulan. Tanggal yang tercetak di bagian depan tidak mengalahkan SIM yang menjadi dasarnya.
 
-Memperpanjang SIM setelahnya juga tidak menyelamatkan izin tersebut. Izin itu tetap terikat pada SIM yang menjadi dasar penerbitannya, sehingga SIM baru umumnya berarti izin baru.
+Memperpanjang SIM setelahnya juga tidak menyelamatkan izin tersebut. Izin itu tetap terikat pada SIM yang menjadi dasar penerbitannya, sehingga SIM baru umumnya berarti izin baru. Kalau SIM Anda akan jatuh tempo untuk diperpanjang sebelum perjalanan, kami akan memperpanjang SIM dulu dan mengajukan izin sesudahnya, supaya izin itu terikat pada SIM yang baru.
 
-## Tiga Dokumen, Tiga Jam
+## Izin Mengemudi Internasional adalah Tanggal yang Tidak Dipantau Siapa Pun
 
 Paspor, SIM, dan sering kali izin mengemudi internasional: siapa pun yang mengemudi di luar negeri akan membawa ketiganya, masing-masing diterbitkan oleh instansi berbeda dengan jadwalnya sendiri, sehingga tanggal kedaluwarsanya jarang sejalan.
 
@@ -62,13 +62,13 @@ Paspor biasanya menjadi tanggal yang paling sering dipantau orang, dan ada alasa
 
 Itulah alasan praktis untuk menyimpan ketiga tanggal ini di satu tempat. Travel Document Vault, tersedia di [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) dan [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), menyimpan dokumen Anda di perangkat sendiri dan melacak setiap tanggal kedaluwarsa secara terpisah, sehingga izin mengemudi internasional tidak diam-diam kedaluwarsa saat Anda sibuk memantau paspor.
 
-## Yang Perlu Diperiksa Sebelum Memesan
+## Periksa Tanggal SIM Anda Sebelum Tanggal Izin
 
-Ada beberapa hal yang perlu diperiksa, kurang lebih dengan urutan berikut.
+Kami akan memeriksa hal-hal ini dengan urutan berikut, dan tanggal SIM lebih dulu sebelum apa pun yang tercetak di izin.
 
 **Apakah Anda benar-benar memerlukan izin ini.** Beberapa negara menerima SIM nasional saja, dan negara tempat Anda mengemudilah yang menentukan persyaratannya, bukan negara yang menerbitkan SIM Anda.
 
-**Konvensi mana yang diakui oleh negara tujuan Anda**, lalu konvensi mana yang menjadi dasar penerbitan izin Anda. Informasi ini tercetak di dokumennya.
+**Konvensi mana yang diakui oleh negara tujuan Anda**, lalu cocokkan izin Anda dengannya (konvensinya tercetak di dokumen).
 
 **Tanggal kedaluwarsa SIM Anda, sebelum tanggal kedaluwarsa izin.** Pada izin Wina, SIM-lah yang menjadi tanggal yang mengikat, sehingga memeriksa izin terlebih dahulu memberi Anda informasi yang lebih sedikit dari yang Anda kira.
 
@@ -86,15 +86,17 @@ Proses pengajuannya sendiri biasanya tidak rumit. Anda umumnya perlu memberikan 
 
 Hal ini paling terasa menyulitkan pada perjalanan yang dipesan mendadak. Izin ini jarang menjadi masalah dengan sendirinya. Ia menjadi masalah ketika menjadi item terakhir dalam daftar yang jadwalnya sudah ketat.
 
-## Berhati-hatilah dengan Apa yang Anda Beli secara Daring
+## Tidak Ada yang Namanya SIM Internasional
 
 Cari Izin Mengemudi Internasional dan Anda akan menemukan situs yang menjual sesuatu bernama international driving licence, sering kali dengan harga jauh lebih mahal daripada biaya izin resmi, kadang menjanjikan pengiriman instan atau masa berlaku sepuluh tahun.
 
 Dokumen semacam itu tidak ada. Satu-satunya dokumen yang sah adalah izin yang diterbitkan berdasarkan konvensi 1926, 1949, dan 1968, melalui jalur resmi yang ditetapkan negara Anda sendiri. Tiga tahun pada izin Wina adalah masa berlaku terlama dari ketiganya, sehingga apa pun yang mengiklankan 10 atau 20 tahun sebenarnya menggambarkan dokumen yang tidak wajib diterima oleh petugas perbatasan mana pun.
 
+Jika Anda sedang menyusun daftar persiapan perjalanan yang lebih luas, bukan hanya urusan mengemudi, [daftar periksa dokumen perjalanan internasional](https://traveldocumentvault.com/id/blog/travel-document-checklist/) kami membahas apa saja yang perlu disiapkan sebelum terbang, dan [dokumen perjalanan yang sering dilupakan orang](https://traveldocumentvault.com/id/blog/what-documents-to-carry-when-travelling-internationally/) membahas tempat terbaik menyimpan masing-masing dokumen saat Anda dalam perjalanan.
+
 Cari tahu instansi mana yang menerbitkan izin di negara yang menerbitkan SIM Anda, dan urus langsung ke instansi tersebut. Jika sebuah situs tidak mau memberi tahu konvensi mana yang menjadi dasar dokumennya, itu sudah menjawab pertanyaannya.
 
-Jika Anda sedang menyusun daftar persiapan perjalanan yang lebih luas, bukan hanya urusan mengemudi, [daftar periksa dokumen perjalanan internasional](https://traveldocumentvault.com/id/blog/travel-document-checklist/) kami membahas apa saja yang perlu disiapkan sebelum terbang, dan [dokumen perjalanan yang sering dilupakan orang](https://traveldocumentvault.com/id/blog/what-documents-to-carry-when-travelling-internationally/) membahas tempat terbaik menyimpan masing-masing dokumen saat Anda dalam perjalanan.
+Hari ini, ambil SIM dan izin Anda, kalau sudah punya, lalu letakkan kedua tanggal kedaluwarsanya berdampingan. Pada izin Wina, mana pun yang jatuh lebih dulu adalah tanggal berakhirnya yang sebenarnya.
 
 **Sebelum Anda mengandalkan ini:** ini blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 

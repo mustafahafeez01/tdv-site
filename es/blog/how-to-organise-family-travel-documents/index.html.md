@@ -20,24 +20,24 @@ Son las 23:00 la noche anterior a un vuelo, y los pasaportes están fuera, la im
 
 Saber cómo organizar los documentos de viaje de toda una familia es una de esas cosas que parece opcional hasta que de repente es absolutamente necesaria. Esta guía te muestra cómo configurarlo una vez y dejar de apresurarte antes de cada viaje.
 
+Esta guía cubre todo el sistema; para profundizar en una parte concreta, como los cronogramas de renovación de pasaportes o el almacenamiento digital, los [consejos de documentos de viaje](https://traveldocumentvault.com/es/) del blog van más allá.
+
 ## Lista de verificación de documentos de viaje en familia. ¿Qué necesita tu familia?
 
-Depende de dónde vayas, pero para la mayoría de viajes familiares internacionales la lista es más larga de lo que la gente espera. Aquí está la lista de verificación básica de documentos de viaje para familias:
-
-**Documentos de identidad**
+Depende de dónde vayas, pero para la mayoría de viajes familiares internacionales la lista es más larga de lo que la gente espera. Aquí está la lista de verificación básica de documentos de viaje para familias, empezando por los documentos de identidad que todos necesitan:
 
 - Pasaportes para cada miembro de la familia (verifica la validez al menos 3 meses antes del viaje)
 - Visados, si son requeridos por el país de destino
 - Tarjetas de identificación nacional si se aceptan en lugar de pasaportes (viaje Schengen para ciudadanos de la UE)
 
-**Documentos específicos del viaje**
+**Documentos específicos para el viaje**
 
 - Certificado de póliza de seguro de viaje o resumen de la póliza
 - Confirmaciones de reserva: vuelos, hoteles, alquiler de automóviles
 - Registros de vacunación si son requeridos en el destino
 - Pasaje de regreso (algunos países requieren prueba al entrar)
 
-**Documentos específicos para viajar con niños**
+**Lo que añade viajar con niños**
 
 - Certificados de nacimiento —a veces se requieren en inmigración, especialmente cuando el apellido del niño difiere del del padre que viaja
 - Una carta de consentimiento parental firmada si uno de los padres no está presente —fuertemente recomendada para viajes con un solo padre o con abuelos
@@ -63,7 +63,9 @@ Los originales viven en un lugar, y ese lugar existe solo para documentos de via
 
 Una cartera o funda de documentos de viaje dedicada —del tipo que sostiene múltiples pasaportes junto con documentos A4 doblados— funciona bien; etiquétala y guárdala en algún lugar consistente: un estante específico, un cajón de oficina en casa, o una caja fuerte ignífuga si quieres la seguridad adicional.
 
-**La disciplina que hace o deshace cualquier sistema es devolver los documentos inmediatamente después de usarlos.** Los documentos no desaparecen por robo sino porque alguien usó uno, lo dejó en algún lugar temporal, y se perdió. "Lo devolveré después" es cómo terminas buscando por toda la casa a las 23:00.
+La disciplina que hace o deshace cualquier sistema es **devolver los documentos inmediatamente después de usarlos**.
+
+Los documentos no desaparecen por robo sino porque alguien usó uno, lo dejó en algún lugar temporal, y se perdió. "Lo devolveré después" es cómo terminas buscando por toda la casa a las 23:00.
 
 Si tus hijos son lo suficientemente mayores para llevar su propio pasaporte a través de un aeropuerto, establece una regla clara: los pasaportes vuelven inmediatamente con uno de los padres después de usarlos, no en una mochila o bolsillo del abrigo.
 
@@ -93,7 +95,7 @@ Aquí está el patrón de fallo que atrapa a las familias: renuevas tu propio pa
 - **Hoja de cálculo:** Funciona bien si realmente la mantienes. Una fila por documento por persona, la fecha de vencimiento, y una fórmula que destaque cualquier cosa que venza dentro de 12 meses.
 - **Aplicación dedicada:** Herramientas como Travel Document Vault manejan los recordatorios automáticamente —escanea el documento, confirma la fecha de vencimiento, y programa alertas desde ocho meses antes, y de nuevo a intervalos más cercanos, sin que tengas que pensar en ello.
 
-Cualquiera de estos tres enfoques funcionará —lo importante es elegir uno que se ajuste a cómo ya operas y realmente adherirse a él.
+Cualquiera de estos tres enfoques funcionará, pero nosotros elegiríamos por defecto el que envía el recordatorio automáticamente, porque una hoja de cálculo solo sirve si te acuerdas de abrirla. Lo más importante es elegir uno que se ajuste a cómo ya operas y realmente adherirse a él.
 
 **Travel Document Vault** maneja el seguimiento de vencimiento para cada miembro de la familia automáticamente —escanea cada pasaporte una vez y obtén recordatorios desde ocho meses antes. Sin hoja de cálculo, sin renovaciones olvidadas. [Descargar en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
@@ -115,14 +117,14 @@ Ejecuta esta lista cuando reserves —no la noche anterior a que te vayas. Eso e
 - Verifica que los documentos del seguro de viaje son actuales y accesibles
 - Prepara una carta de consentimiento parental si viajas sin ambos padres
 
-### La noche anterior
+### Noche antes de la salida
 
 - Pasaportes fuera y contabilizados —uno por persona
 - Certificado de seguro de viaje en tu bolsa o teléfono
 - Tarjetas de embarque descargadas o impresas
 - Certificados de vacunación requeridos accesibles
 
-Para más información sobre temas específicos, consulta los [consejos de documentos de viaje](https://traveldocumentvault.com/es/) en el blog —hay artículos detallados sobre cronogramas de renovación de pasaportes y lo que necesitas saber sobre almacenamiento digital.
+Si todavía no lo has hecho, elige el único lugar donde vivirán los pasaportes y programa hoy un recordatorio de caducidad para el documento que esté más cerca de vencer.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

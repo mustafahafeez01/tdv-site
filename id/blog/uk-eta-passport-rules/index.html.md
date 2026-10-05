@@ -20,7 +20,7 @@ Sistem ETA Inggris terlihat sederhana di permukaan: Anda mengajukan, membayar, l
 
 Ini adalah masalah pelacakan dokumen. Anda memiliki dua tanggal kedaluwarsa yang perlu diperhatikan, yaitu masa berlaku paspor dan masa berlaku ETA. Jika Anda melewatkan keterkaitan antara keduanya, Anda bisa tertahan di bandara padahal belum sempat berangkat.
 
-## Siapa yang Memerlukan ETA Inggris Sebelum Bepergian
+## Sebagian Besar Pengunjung Bebas Visa Kini Memerlukan ETA
 
 Jika Anda warga negara AS, Kanada, Australia, Selandia Baru, atau negara di Uni Eropa maupun Kawasan Ekonomi Eropa, kemungkinan besar Anda memerlukan ETA Inggris. Ketentuan ini mulai diberlakukan sejak 25 Februari 2026 bagi sebagian besar warga negara bebas visa.
 
@@ -28,7 +28,7 @@ Beberapa orang dikecualikan, warga negara Irlandia tidak memerlukannya, begitu p
 
 **Periksa situasi Anda sendiri dengan Home Office sebelum memesan tiket.** Persyaratan ETA sebenarnya tidak sulit dipenuhi, tapi cukup satu kategori pengecualian yang tidak Anda ketahui untuk membuat Anda membuang uang pada permohonan yang tidak perlu, atau tertahan saat check-in.
 
-## ETA Sebenarnya Terikat pada Apa
+## ETA Terikat pada Nomor Paspor Anda, Bukan pada Diri Anda
 
 ETA Inggris Anda terikat dengan nomor paspor, bukan dengan diri Anda sebagai individu. Saat Anda mengajukan permohonan, Home Office menghubungkan persetujuan tersebut dengan nomor paspor tertentu. Bepergian dengan paspor lain, entah paspor yang baru diperpanjang, paspor kedua, atau dokumen pengganti darurat, berarti Anda bepergian dengan ETA yang tidak terikat pada dokumen itu.
 
@@ -36,7 +36,7 @@ Ini berbeda dari visa di banyak negara, yang biasanya terikat pada individu dan 
 
 Dalam praktiknya, jika paspor Anda kedaluwarsa atau Anda memperpanjangnya dengan alasan apa pun sebelum perjalanan, Anda tidak bisa menggunakan ETA lama pada paspor baru. Anda harus mengajukan permohonan lagi dan mendapat persetujuan sebelum berangkat, karena tidak ada pengalihan otomatis.
 
-## Apa yang Terjadi Saat Anda Memperpanjang Paspor
+## Paspor yang Diperpanjang Memerlukan ETA Baru
 
 Memperpanjang paspor sebenarnya adalah hal rutin. Namun komplikasi terkait ETA menjadi nyata jika perjalanan Anda sudah dekat.
 
@@ -53,7 +53,7 @@ Berikut ini garis waktu yang perlu direncanakan:
 
 Risiko terbesar ada di langkah 5. Jika perjalanan Anda tinggal 10 hari lagi dan paspor baru Anda tiba hari ini, Anda hanya punya jendela waktu yang sempit untuk memperpanjang dan mendapat persetujuan ETA. Memulai proses perpanjangan dengan sisa waktu kurang dari 2-3 minggu sebelum keberangkatan menciptakan tekanan waktu yang nyata.
 
-## Anak-anak dan Bayi Memerlukan ETA Sendiri
+## Setiap Anak Memerlukan ETA Sendiri, Termasuk Bayi
 
 Setiap orang, termasuk bayi, memerlukan ETA Inggris sendiri. Tidak ada ETA keluarga dan tidak ada cara untuk menambahkan tanggungan ke permohonan orang lain.
 
@@ -63,11 +63,15 @@ Paspor anak juga kedaluwarsa lebih cepat dibanding paspor dewasa, biasanya setia
 
 **Sebelum memesan perjalanan keluarga ke Inggris, periksa tanggal kedaluwarsa paspor dan status ETA setiap anggota keluarga.** Satu orang saja yang dokumennya hampir kedaluwarsa bisa membuat seluruh keluarga gagal naik pesawat.
 
-## Berapa Lama Sebelumnya Harus Mengajukan Permohonan
+## Ajukan Permohonan Dua hingga Tiga Minggu Sebelum Bepergian
 
 Home Office menyarankan mengajukan permohonan setidaknya 3 hari kerja sebelum bepergian. Ini hanya panduan, bukan jaminan waktu pemrosesan. Banyak permohonan disetujui lebih cepat. Sebagian lagi memerlukan waktu lebih lama, dan persetujuan tidak otomatis, Home Office bisa meminta informasi tambahan atau menolak permohonan.
 
-**Rencanakan dengan anggapan bahwa 3 hari kerja adalah batas minimum, bukan target.** Mengajukan permohonan seminggu sebelumnya dari luar Inggris memberi Anda jeda waktu yang wajar, sementara mengajukan 48 jam sebelum penerbangan berarti Anda berharap pada skenario terbaik tanpa cadangan jika terjadi masalah.
+Rencanakan dengan anggapan bahwa 3 hari kerja adalah batas minimum, bukan target.
+
+Mengajukan
+
+permohonan seminggu sebelumnya dari luar Inggris memberi Anda jeda waktu yang wajar, sementara mengajukan 48 jam sebelum penerbangan berarti Anda berharap pada skenario terbaik tanpa cadangan jika terjadi masalah.
 
 Jika permohonan ETA Anda ditolak, Home Office menyatakan Anda bisa mengajukan lagi, tetapi melakukannya di hari-hari menjelang penerbangan bukan solusi cadangan yang praktis. Ajukan permohonan jauh-jauh hari, dan anggap 3 hari kerja sebagai jeda minimum, bukan target.
 
@@ -81,11 +85,13 @@ Petugas perbatasan tetap bisa menolak masuk. Mereka bisa menanyakan tujuan perja
 
 ETA juga bukan visa, sehingga tidak menentukan berapa lama Anda boleh tinggal. Pemegang ETA dari sebagian besar negara bebas visa dapat tinggal hingga 6 bulan sebagai pengunjung, tetapi petugas perbatasanlah yang menetapkan lama tinggal sebenarnya saat Anda tiba, bukan ETA itu sendiri.
 
-## Topik ETA dan Dokumen Perjalanan Terkait
+## ETA Bukan Satu-satunya Izin yang Mungkin Anda Perlukan
 
 ETA Inggris adalah salah satu dari beberapa izin perjalanan digital yang kini digunakan. Jika Anda berencana bepergian ke beberapa negara, pahami perbedaan antara ETA dan [visa](https://traveldocumentvault.com/id/blog/visa-vs-passport/). Keduanya terlihat mirip dalam prosesnya tetapi memiliki tujuan yang berbeda.
 
 Uni Eropa sedang meluncurkan sistem izin perjalanan digitalnya sendiri bernama [ETIAS](https://traveldocumentvault.com/id/blog/etias-documents-2026/) untuk pengunjung non-UE, konsepnya mirip dengan ETA Inggris tetapi dengan aturan dan persyaratan yang berbeda. Jika perjalanan Anda mencakup Inggris maupun Eropa, Anda mungkin memerlukan keduanya.
+
+Jika perjalanan Anda sudah dipesan, lakukan ini hari ini: cocokkan tanggal kedaluwarsa paspor dengan tanggal perjalanan, lalu pastikan ETA Anda saat ini terikat pada paspor yang benar-benar akan Anda pakai. Jika salah satunya tidak memenuhi, mulailah perpanjangan atau pengajuan ulang sekarang, jangan seminggu sebelum terbang.
 
 ## Pertanyaan yang Sering Diajukan
 

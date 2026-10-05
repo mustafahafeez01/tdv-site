@@ -26,7 +26,7 @@ Deze twee dingen worden vaak door elkaar gehaald, en ze zijn om verschillende re
 
 Dit artikel gaat over de toestemming voor de aanvraag. Het onderscheid is belangrijk, want je hebt het ene misschien wel nodig zonder het andere. Een kind kan een geldig paspoort hebben dat beide ouders akkoord gingen te laten afgeven, maar dat betekent niet automatisch dat beide ouders ook voor elke reis toestemming hebben gegeven. Bekijk onze gids over [toestemmingsverklaringen voor kinderen op reis](https://traveldocumentvault.com/nl/blog/child-travel-consent-letter/) en over [reizen zonder beide ouders](https://traveldocumentvault.com/nl/blog/travelling-child-without-both-parents/) voor het reisgedeelte van dit vraagstuk.
 
-## Wie moet toestemming geven voordat de aanvraag kan worden ingediend
+## Standaard moet iedereen met ouderlijk gezag toestemming geven
 
 De standaardregel is dat alle volwassenen met ouderlijk gezag over het kind toestemming moeten geven voor de paspoortaanvraag. Voor de meeste gezinnen betekent dit beide getrouwde ouders; bij ongehuwde partners gaat het om beide partners als ze allebei als ouder op de geboorteakte staan. Iemand met een gerechtelijk bevel of exclusief ouderlijk gezag valt onder andere regels, en je paspoortinstantie legt de specifieke procedure uit zodra je ernaar vraagt.
 
@@ -34,7 +34,7 @@ Deze uitzonderingen zijn reëel en het is goed om ze te kennen. Een overleden ou
 
 **Vraag je alleen aan** omdat je exclusief ouderlijk gezag hebt, omdat de andere ouder is overleden, of omdat er een gerechtelijk bevel geldt, neem dan rechtstreeks contact op met je paspoortinstantie met de gerechtelijke documenten. Zij vertellen je precies wat je moet indienen om te bewijzen dat je het recht hebt om zonder de andere ouder aan te vragen.
 
-## Wat je bij een eerste aanvraag meestal moet aantonen
+## Elke eerste aanvraag vraagt om drie soorten bewijs
 
 Paspoortinstanties willen drie dingen zien als je het eerste paspoort van een kind aanvraagt: bewijs van de identiteit van het kind, bewijs van de identiteit van de ouders, en bewijs van de relatie tussen de ouders en het kind.
 
@@ -46,7 +46,7 @@ Paspoortinstanties willen drie dingen zien als je het eerste paspoort van een ki
 
 **Sommige landen werken met een medeondertekenaarssysteem.** Dit betekent dat een vertrouwde professional – een leraar, arts, advocaat, of iemand vergelijkbaar – een formulier ondertekent om te bevestigen dat de aanvraag echt is en dat de foto het kind goed weergeeft. Gebruikt jouw land dit systeem, dan moet je vóór de aanvraag iemand vinden die dit wil doen. Vraag je paspoortinstantie welke beroepen ze accepteren.
 
-## Een baby fotograferen voor een paspoort
+## Baby's kunnen de fotoregels voor volwassenen niet volgen, dus pas je ze aan
 
 Dit is waar veel eerste aanvragen misgaan. Een baby of klein kind kan de fotoregels niet volgen zoals een volwassene: baby's kunnen niet zelf rechtop zitten, peuters kunnen niet stilzitten of instructies begrijpen, en pasgeborenen kunnen niet op commando naar de camera kijken. De paspoortfotostandaarden zijn geschreven voor volwassenen, en je moet begrijpen hoe je ze aanpast als het onderwerp een kind is dat 5 kilo weegt en voortdurend beweegt.
 
@@ -58,13 +58,21 @@ Dit is waar veel eerste aanvragen misgaan. Een baby of klein kind kan de fotoreg
 
 **Voor peuters van 2 jaar en ouder:** zet het kind voor de effen achtergrond op een stoel, of laat het staan als het al kan staan. De ogen moeten recht in de camera kijken, wat lastiger is dan het klinkt omdat peuters geen instructies opvolgen. Zing een liedje, maak een grappig geluid, of vraag het kind naar een punt net boven de lens te kijken. Je wilt dat het kind iets omhoog kijkt, wat toch al beter oogt op foto's. Maak ook hier veel foto's – je hebt er maar één nodig waarop het kind met beide ogen duidelijk open naar de camera kijkt.
 
-**De meest voorkomende fouten:** de hand van een ouder die het hoofd van de baby ondersteunt en in beeld komt (niet toegestaan), een speen die nog in de mond van de baby zit (moet verwijderd worden), iemand anders die gedeeltelijk zichtbaar is aan de rand (mag niet in beeld zijn), speelgoed of voorwerpen op de achtergrond (verwijder ze), en de achtergrond die niet duidelijk zichtbaar is achter het hoofd van het kind (doe een stap terug of pas de hoek aan zodat de effen achtergrond zichtbaar is).
+**De meest voorkomende fouten** komen allemaal neer op iets dat in beeld sluipt terwijl er alleen de baby op de foto hoort te staan:
 
-Valt de baby tijdens de pogingen in slaap of gaat hij of zij huilen, stop dan en probeer het een andere keer opnieuw. Je paspoortinstantie heeft elke variant hiervan al gezien. Ze ontvangen liever een scherpe foto van een alerte baby dan een wazige foto van een overstuur kind.
+- De hand van een ouder die het hoofd van de baby ondersteunt en in beeld komt (niet toegestaan).
+- Een speen die nog in de mond van de baby zit (moet vóór de opname worden verwijderd).
+- Iemand anders die gedeeltelijk zichtbaar is aan de rand (mag niet in beeld zijn).
+- Speelgoed of voorwerpen op de achtergrond (haal ze weg).
+- Een achtergrond die niet duidelijk zichtbaar is achter het hoofd van het kind (doe een stap terug of pas de hoek aan zodat de effen achtergrond zichtbaar is).
 
-## Als één ouder niet kan tekenen
+Valt de baby tijdens de pogingen in slaap of gaat hij of zij huilen, stop dan en probeer het een andere keer opnieuw. Je paspoortinstantie heeft elke variant hiervan al gezien. Wij kiezen altijd liever voor een rustige nieuwe poging dan een wazige foto erdoorheen te drukken. De instantie ziet liever een scherpe foto van een alerte baby dan een gehaaste foto van een overstuur kind.
 
-Je paspoortinstantie kan het document niet afgeven zonder juridisch bewijs dat je het recht hebt om alleen door te gaan, of de andere ouder nu niet wil tekenen, onvindbaar is, of het ouderlijk gezag is kwijtgeraakt. Dit is een wettelijke eis die bestaat om het kind te beschermen, geen onderhandelingspunt.
+## Alleen tekenen vraagt meestal juridisch bewijs
+
+Je paspoortinstantie kan het document niet afgeven zonder juridisch bewijs dat je het recht hebt om alleen door te gaan, of de andere ouder nu niet wil tekenen, onvindbaar is, of het ouderlijk gezag is kwijtgeraakt.
+
+Dit is een wettelijke eis die bestaat om het kind te beschermen, geen onderhandelingspunt.
 
 **Is de andere ouder vermist of weigert die mee te werken:** dan heb je een gerechtelijk bevel nodig. Dit kan een bestaand voogdijbevel zijn, een voogdijbeschikking, of een specifieke rechterlijke uitspraak dat jij het exclusieve ouderlijk gezag hebt. Sommige landen laten je bij de rechtbank toestemming vragen om het paspoort af te geven zonder toestemming van de andere ouder, als je kunt aantonen dat het kind schade zou ondervinden van vertraging of dat de andere ouder niet geraadpleegd kan worden. Dit verschilt per land en per lokale rechtspraktijk – vraag je paspoortinstantie of een familierechtadvocaat wat de procedure bij jou is.
 
@@ -72,7 +80,7 @@ Je paspoortinstantie kan het document niet afgeven zonder juridisch bewijs dat j
 
 **Is er een straatverbod of een beperking in de voogdij:** neem het gerechtelijk bevel mee. Dat laat de instantie precies zien welke toestemmingen en beperkingen gelden.
 
-## Wat je moet controleren op de dag dat het paspoort aankomt
+## Controleer drie dingen op de dag dat het paspoort aankomt
 
 Zodra het paspoort is afgegeven en bij je bezorgd, neem dan vijf minuten de tijd om het te controleren voordat je het opbergt. Er zijn drie dingen om op te letten die nu makkelijk te herstellen zijn, maar op het vliegveld een nachtmerrie worden.
 
@@ -80,9 +88,9 @@ Zodra het paspoort is afgegeven en bij je bezorgd, neem dan vijf minuten de tijd
 
 **Controleer de namen van de ouders waar die vermeld staan.** Sommige landen drukken de namen van de ouders of voogden af in het paspoort van een kind. Zijn deze namen verkeerd gespeld of onjuist, neem dan contact op met de instantie om ze te laten corrigeren.
 
-**Controleer de vervaldatum.** Dit is essentieel voor kinderen, omdat [paspoorten van kinderen veel sneller verlopen dan die van volwassenen](https://traveldocumentvault.com/nl/blog/family-passport-management/). Als je een reis boekt, moet je precies weten wanneer dit document zijn geldigheid verliest. Schrijf het op. Zet een herinnering. Onverwacht verlopen kinderpaspoorten zijn een van de meest voorkomende redenen waarom gezinnen reizen moeten annuleren of verzetten.
+**Controleer de vervaldatum.** Dit is essentieel voor kinderen, omdat [paspoorten van kinderen veel sneller verlopen dan die van volwassenen](https://traveldocumentvault.com/nl/blog/family-passport-management/). Als je een reis boekt, moet je precies weten wanneer dit document zijn geldigheid verliest. Schrijf het op en zet een herinnering op de dag dat het paspoort aankomt, niet pas wanneer er toevallig een reis op de agenda komt; die ene gewoonte raden wij ouders altijd aan. Onverwacht verlopen kinderpaspoorten zijn een van de meest voorkomende redenen waarom gezinnen reizen moeten annuleren of verzetten.
 
-Klopt er iets niet, neem dan binnen enkele dagen contact op met je paspoortinstantie. Correcties zijn meestal gratis als je ze snel meldt. Wacht niet, want hoe langer je wacht, hoe ingewikkelder het proces wordt.
+Klopt er iets niet, neem dan binnen enkele dagen contact op met je paspoortinstantie. Correcties zijn meestal gratis als je ze snel meldt, en hoe langer je wacht, hoe ingewikkelder het proces wordt. Klopt alles, leg het paspoort dan meteen in je documentenmap, met een notitie van de vervaldatum, zodat de vernieuwing je niet overvalt.
 
 ## Veelgestelde vragen
 

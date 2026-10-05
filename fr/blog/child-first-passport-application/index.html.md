@@ -26,7 +26,7 @@ Ces deux notions sont souvent confondues, et elles comptent pour des raisons dif
 
 Cet article traite du consentement à la demande. Cette distinction compte, car vous pouvez avoir besoin de l'un sans l'autre. Un enfant peut avoir un passeport valide que les deux parents ont accepté de faire délivrer, sans que cela signifie automatiquement que les deux parents ont donné leur accord pour chaque voyage. Consultez notre guide sur les [lettres d'autorisation de voyage pour enfant](https://traveldocumentvault.com/fr/blog/child-travel-consent-letter/) et sur [voyager sans les deux parents](https://traveldocumentvault.com/fr/blog/travelling-child-without-both-parents/) pour l'aspect voyage de la question.
 
-## Qui doit donner son accord avant le dépôt de la demande
+## Par défaut, tous les titulaires de l'autorité parentale doivent donner leur accord
 
 La règle par défaut veut que tous les adultes ayant l'autorité parentale sur l'enfant donnent leur consentement à la demande de passeport. Pour la plupart des familles, cela signifie les deux parents mariés ; pour les couples non mariés, cela signifie les deux partenaires si tous deux figurent comme parents sur l'acte de naissance. Toute personne disposant d'une décision de justice ou d'une garde légale exclusive relève de règles différentes, et votre bureau des passeports vous expliquera la procédure spécifique si vous le demandez.
 
@@ -34,7 +34,7 @@ Ces exceptions sont bien réelles et méritent d'être connues. Un parent décé
 
 **Si vous faites la demande seul(e)** parce que vous avez la garde légale exclusive, parce que l'autre parent est décédé, ou parce qu'une décision de justice est en vigueur, contactez directement votre bureau des passeports avec les documents judiciaires. Il vous indiquera précisément ce que vous devez fournir pour prouver votre droit à faire la demande sans l'autre parent.
 
-## Ce qu'une première demande vous demande généralement de prouver
+## Toute première demande exige trois types de justificatifs
 
 Les bureaux des passeports demandent trois choses lorsque vous faites la demande du premier passeport d'un enfant : une preuve de l'identité de l'enfant, une preuve de l'identité des parents, et une preuve du lien entre les parents et l'enfant.
 
@@ -46,7 +46,7 @@ Les bureaux des passeports demandent trois choses lorsque vous faites la demande
 
 **Certains pays utilisent un système de contresignataire.** Cela signifie qu'un professionnel de confiance — enseignant, médecin, avocat ou profession similaire — signe un formulaire pour attester que la demande est authentique et que la photo ressemble bien à l'enfant. Si votre pays utilise ce système, vous devez trouver une personne disposée à le faire avant de déposer votre demande. Demandez à votre bureau des passeports quelles professions il accepte.
 
-## Photographier un bébé pour un passeport
+## Un bébé ne peut pas suivre les règles photo des adultes, alors on les adapte
 
 C'est souvent là que les premières demandes échouent. Un bébé ou un jeune enfant ne peut pas suivre les règles photo comme le ferait un adulte : les bébés ne tiennent pas assis, les tout-petits ne restent pas immobiles ni ne comprennent les consignes, et les nouveau-nés ne regardent pas l'objectif sur commande. Les normes des photos de passeport ont été écrites pour des adultes, et il faut comprendre comment les adapter quand le sujet est un enfant de 5 kilos qui bouge sans arrêt.
 
@@ -58,13 +58,21 @@ C'est souvent là que les premières demandes échouent. Un bébé ou un jeune e
 
 **Pour les tout-petits de 2 ans et plus :** asseyez-les devant le fond uni sur une chaise, ou laissez-les debout s'ils tiennent seuls. Les yeux doivent regarder droit vers l'objectif, ce qui est plus difficile qu'il n'y paraît, car les tout-petits ne suivent pas les consignes. Chantez une chanson, faites un bruit rigolo, ou demandez-leur de regarder un point juste au-dessus de l'objectif. L'idée est qu'ils lèvent légèrement les yeux, ce qui rend d'ailleurs mieux en photo. Là encore, prenez de nombreuses photos — une seule suffit, à condition que les deux yeux soient bien ouverts et tournés vers l'objectif.
 
-Les erreurs les plus fréquentes : une main de parent qui soutient la tête du bébé dans le cadre (non autorisé), une tétine encore dans la bouche du bébé (à retirer), une autre personne partiellement visible sur le bord (ne doit pas apparaître), des jouets ou objets dans l'arrière-plan (à enlever), et l'arrière-plan qui n'est pas clairement visible derrière la tête de l'enfant (reculez ou ajustez l'angle pour que le fond uni soit visible).
+**Les erreurs les plus fréquentes** tiennent toutes à quelque chose qui s'invite dans un cadre censé ne contenir que le bébé :
 
-Si le bébé s'endort ou pleure pendant les essais, arrêtez et réessayez une autre fois. Votre bureau des passeports a déjà tout vu en la matière. Il préfère recevoir une photo nette d'un bébé éveillé plutôt qu'une photo floue d'un enfant en détresse.
+- Une main de parent qui soutient la tête du bébé dans le cadre (non autorisé).
+- Une tétine encore dans la bouche du bébé (à retirer avant la prise de vue).
+- Une autre personne partiellement visible sur le bord du cadre (ne doit pas apparaître du tout).
+- Des jouets ou objets dans l'arrière-plan (à enlever d'abord).
+- Le fond uni qui n'est pas clairement visible derrière la tête de l'enfant (reculez ou ajustez l'angle).
 
-## Quand un seul parent ne peut pas signer
+Si le bébé s'endort ou pleure pendant les essais, arrêtez et réessayez une autre fois. Votre bureau des passeports a déjà tout vu en la matière. Nous choisirions toujours de réessayer au calme plutôt que de forcer le passage d'une photo floue. Le bureau préfère voir une image nette d'un bébé éveillé plutôt qu'une photo bâclée d'un enfant en détresse.
 
-Votre bureau des passeports ne peut pas délivrer le document sans une preuve juridique de votre droit à agir seul(e), que l'autre parent refuse de signer, soit introuvable, ou ait perdu l'autorité parentale. Il s'agit d'une exigence légale destinée à protéger l'enfant, pas d'un sujet à négocier.
+## Signer seul(e) exige généralement une preuve juridique
+
+Votre bureau des passeports ne peut pas délivrer le document sans une preuve juridique de votre droit à agir seul(e), que l'autre parent refuse de signer, soit introuvable, ou ait perdu l'autorité parentale.
+
+Il s'agit d'une exigence légale destinée à protéger l'enfant, pas d'un sujet à négocier.
 
 **Si l'autre parent est introuvable ou refuse :** il vous faut une décision de justice. Cela peut être une ordonnance de garde existante, une décision de tutelle, ou un jugement spécifique établissant que vous détenez seul(e) l'autorité parentale. Certains pays permettent de demander au tribunal l'autorisation de délivrer le passeport sans le consentement de l'autre parent si vous pouvez démontrer qu'un retard nuirait à l'enfant ou que l'autre parent n'est pas en mesure d'être consulté. Cela varie selon le pays et la pratique judiciaire locale — demandez à votre bureau des passeports ou à un avocat spécialisé en droit de la famille quelle est la procédure chez vous.
 
@@ -72,7 +80,7 @@ Votre bureau des passeports ne peut pas délivrer le document sans une preuve ju
 
 **En cas d'ordonnance restrictive ou de restriction de garde :** apportez la décision de justice avec vous. Elle indique précisément au bureau quelles autorisations et restrictions s'appliquent.
 
-## Que vérifier le jour de la réception
+## Vérifiez trois choses le jour où le passeport arrive
 
 Une fois le passeport délivré et reçu, prenez cinq minutes pour le vérifier avant de le ranger. Vous recherchez trois éléments faciles à corriger maintenant, mais qui deviennent un cauchemar à corriger à l'aéroport.
 
@@ -80,9 +88,9 @@ Une fois le passeport délivré et reçu, prenez cinq minutes pour le vérifier 
 
 **Vérifiez les noms des parents lorsqu'ils figurent sur le document.** Certains pays impriment les noms des parents ou tuteurs à l'intérieur du passeport d'un enfant. Si ces noms comportent une faute ou une erreur, contactez le bureau pour faire corriger le document.
 
-**Vérifiez la date d'expiration.** C'est essentiel pour les enfants, car les [passeports d'enfants expirent bien plus tôt que ceux des adultes](https://traveldocumentvault.com/fr/blog/family-passport-management/). Au moment de réserver un voyage, vous devez savoir précisément quand ce document cesse d'être valide. Notez-la. Programmez un rappel. L'expiration inattendue d'un passeport d'enfant est l'une des raisons les plus courantes pour lesquelles les familles doivent annuler ou reporter un voyage.
+**Vérifiez la date d'expiration.** C'est essentiel pour les enfants, car les [passeports d'enfants expirent bien plus tôt que ceux des adultes](https://traveldocumentvault.com/fr/blog/family-passport-management/). Au moment de réserver un voyage, vous devez savoir précisément quand ce document cesse d'être valide. Notez-la et programmez un rappel dès le jour où le passeport arrive, pas seulement quand un voyage se présente : c'est la seule habitude que nous recommanderions toujours aux parents. L'expiration inattendue d'un passeport d'enfant est l'une des raisons les plus courantes pour lesquelles les familles doivent annuler ou reporter un voyage.
 
-Si quelque chose est incorrect, contactez votre bureau des passeports dans les jours qui suivent. Les corrections sont généralement gratuites lorsqu'elles sont signalées rapidement. N'attendez pas, car plus vous tardez, plus la démarche se complique.
+Si quelque chose est incorrect, contactez votre bureau des passeports dans les jours qui suivent. Les corrections sont généralement gratuites lorsqu'elles sont signalées rapidement, et plus vous tardez, plus la démarche se complique. Une fois que tout est en ordre, rangez le passeport directement dans votre dossier de documents avec une note de la date d'expiration, pour que le renouvellement ne vous prenne pas au dépourvu.
 
 ## Questions fréquemment posées
 

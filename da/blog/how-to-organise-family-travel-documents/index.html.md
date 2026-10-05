@@ -20,24 +20,24 @@ Klokken er 23 aftenen før en flyafgang, passene ligger fremme, forsikringsudskr
 
 At vide, hvordan man organiserer rejsedokumenter for en hel familie, er en af de ting, der føles valgfri, indtil den bestemt ikke er det. Denne guide viser jer, hvordan I sætter det op én gang og slipper for at hovedkulds lede før hver tur.
 
+Denne guide dækker hele systemet; vil I have mere om ét bestemt område, som fornyelsestider for pas eller digital opbevaring, går [tips om rejsedokumenter](https://traveldocumentvault.com/da/blog/) på bloggen dybere.
+
 ## Familiens tjekliste for rejsedokumenter: hvad har en familie egentlig brug for?
 
-Det afhænger af, hvor I skal hen, men for de fleste internationale familierejser er listen længere end folk regner med. Her er kernelisten:
-
-**Identitetsdokumenter**
+Det afhænger af, hvor I skal hen, men for de fleste internationale familierejser er listen længere end folk regner med. Her er kernelisten, og den starter med de identitetsdokumenter, alle har brug for:
 
 - Pas til hvert familiemedlem (tjek gyldighed mindst 3 måneder før afrejse)
 - Visa, hvis destinationslandet kræver det
 - Nationale ID-kort, hvis de accepteres i stedet for pas (Schengen-rejser for EU-borgere)
 
-**Rejsespecifikke dokumenter**
+**Dokumenter specifikke til rejsen**
 
 - Rejseforsikringsbevis eller policeoversigt
 - Bookingbekræftelser: fly, hoteller, billeje
 - Vaccinationsbeviser, hvis destinationen kræver det
 - Returbillet (nogle lande kræver bevis ved indrejse)
 
-**Dokumenter specifikt til rejser med børn**
+**Det, rejser med børn lægger til**
 
 - Fødselsattester – kræves nogle gange ved grænsekontrol, især når barnets efternavn adskiller sig fra den rejsende forælders
 - Et underskrevet samtykkebrev fra forælderen, hvis den ene forælder ikke er med – stærkt anbefalet ved rejser med kun én forælder eller bedsteforældre
@@ -63,7 +63,9 @@ Originalerne hører hjemme ét sted, og det sted findes kun til rejsedokumenter.
 
 En dedikeret rejsedokumentpung eller -mappe – den type, der kan rumme flere pas sammen med foldede A4-dokumenter – klarer opgaven fint; mærk den, og opbevar den samme sted hver gang: en bestemt hylde, en skuffe på hjemmekontoret, eller en brandsikker boks, hvis I vil have ekstra sikkerhed.
 
-**Det, der afgør, om et system holder, er at lægge dokumenterne tilbage med det samme efter brug.** Dokumenter forsvinder sjældent på grund af tyveri, men fordi nogen brugte dem, lagde dem et midlertidigt sted, og de blev begravet. "Jeg lægger det tilbage senere" er, hvordan man ender med at lede hele huset igennem klokken 23.
+Det, der afgør, om et system holder, er at **lægge dokumenterne tilbage med det samme efter brug**.
+
+Dokumenter forsvinder sjældent på grund af tyveri, men fordi nogen brugte dem, lagde dem et midlertidigt sted, og de blev begravet. "Jeg lægger det tilbage senere" er, hvordan man ender med at lede hele huset igennem klokken 23.
 
 Hvis jeres børn er gamle nok til selv at bære deres pas gennem en lufthavn, så indfør en klar regel: pas går direkte tilbage til en forælder efter brug, ikke ned i en rygsæk eller jakkelomme.
 
@@ -93,7 +95,7 @@ Her er mønstret, der fanger familier: I fornyer jeres eget pas, opdaterer kalen
 - **Regneark:** Virker godt, hvis I rent faktisk vedligeholder det. Én række pr. dokument pr. person, udløbsdatoen, og en formel, der markerer alt, der udløber inden for 12 måneder.
 - **Dedikeret app:** Værktøjer som Travel Document Vault klarer påmindelserne automatisk – scan dokumentet, bekræft udløbsdatoen, og appen planlægger advarsler fra otte måneder før, og igen med tættere intervaller, uden at I skal tænke på det.
 
-Alle tre metoder virker – det vigtige er at vælge den, der passer til, hvordan I allerede gør tingene, og rent faktisk holde fast i den.
+Alle tre metoder virker, men vi ville som udgangspunkt vælge den, der sender påmindelsen automatisk, for et regneark hjælper kun, hvis I husker at åbne det. Det vigtigste er at vælge den, der passer til, hvordan I allerede gør tingene, og rent faktisk holde fast i den.
 
 **Travel Document Vault** klarer overblikket over udløbsdatoer for hvert familiemedlem automatisk – scan hvert pas én gang, og få påmindelser fra otte måneder før udløb. Intet regneark, ingen glemte fornyelser. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
@@ -115,14 +117,14 @@ Kør denne tjekliste igennem, når I booker – ikke aftenen før afrejse. Det e
 - Tjek, at rejseforsikringens dokumenter er aktuelle og tilgængelige
 - Forbered et samtykkebrev, hvis I rejser uden begge forældre
 
-### Aftenen før
+### Aftenen før afrejse
 
 - Pas fremme og talt op – ét pr. person
 - Rejseforsikringsbevis i tasken eller telefonen
 - Boardingpas downloadet eller printet
 - Eventuelle vaccinationsattester tilgængelige
 
-For mere om specifikke emner, se [tips om rejsedokumenter](https://traveldocumentvault.com/da/blog/) på bloggen – der er detaljerede artikler om tidslinjer for pasfornyelse og hvad I skal vide om digital opbevaring.
+Hvis I ikke allerede har gjort det, så vælg det ene sted, passene skal bo, og sæt i dag en udløbspåmindelse for det dokument, der er tættest på at udløbe.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 

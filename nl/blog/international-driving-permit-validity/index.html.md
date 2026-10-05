@@ -20,7 +20,7 @@ Een internationaal rijbewijs is een vertaling van het rijbewijs, geen rijbewijs 
 
 Een internationaal rijbewijs heeft zijn eigen vervaldatum, en die datum werkt anders afhankelijk van onder welk internationaal verdrag jouw rijbewijs is afgegeven. De meeste bestuurders ontdekken pas dat er twee soorten zijn wanneer er eentje wordt geweigerd.
 
-## Wat een internationaal rijbewijs precies is
+## Een internationaal rijbewijs vertaalt je rijbewijs, het vervangt het niet
 
 Een internationaal rijbewijs is een officiële vertaling van het rijbewijs dat je al hebt. Het geeft je gegevens weer in meerdere talen, zodat een agent die je nationale rijbewijs niet kan lezen, toch kan zien waarvoor je bevoegd bent.
 
@@ -28,7 +28,7 @@ Het werkt dus als een duo. Je draagt je eigen rijbewijs en het internationale ri
 
 Hier gaan mensen vaker de mist in dan bij de vervaldatums. Het internationale rijbewijs oogt als het serieuze document, vol stempels en talen, waardoor het lijkt alsof dat het document is dat ertoe doet.
 
-## Drie verdragen, en de twee die ertoe doen
+## Twee verdragen bepalen hoe lang het geldig is en waar het werkt
 
 Achter internationale rijbewijzen zitten drie internationale verdragen, en landen hebben zich bij één ervan aangesloten of bij meerdere. Twee ervan doen vrijwel al het werk: het Verdrag van Genève (1949) en het Verdrag van Wenen (1968). Een ouder internationaal rijbewijs onder het Verdrag van Parijs (1926) wordt nog voor een klein aantal bestemmingen afgegeven, en is net als het Geneefse rijbewijs een jaar geldig.
 
@@ -48,9 +48,9 @@ Aan die drie jaar zit een voorwaarde die je makkelijk over het hoofd ziet. Een i
 
 Stel dat je rijbewijs nog 14 maanden geldig is en je krijgt een internationaal rijbewijs voor drie jaar. Dan is dat internationale rijbewijs 14 maanden bruikbaar. De datum die erop gedrukt staat, gaat niet boven het rijbewijs dat erachter zit.
 
-Je rijbewijs later vernieuwen redt het internationale rijbewijs ook niet. Dat blijft gekoppeld aan het rijbewijs waartegen het is afgegeven, dus een nieuw rijbewijs betekent over het algemeen ook een nieuw internationaal rijbewijs.
+Je rijbewijs later vernieuwen redt het internationale rijbewijs ook niet. Dat blijft gekoppeld aan het rijbewijs waartegen het is afgegeven, dus een nieuw rijbewijs betekent over het algemeen ook een nieuw internationaal rijbewijs. Moet je rijbewijs vóór de reis worden vernieuwd, dan zouden wij eerst het rijbewijs vernieuwen en daarna pas het internationale rijbewijs aanvragen, zodat het gekoppeld is aan je nieuwe rijbewijs.
 
-## Drie documenten, drie klokken
+## Je internationale rijbewijs is de datum die niemand in de gaten houdt
 
 Een paspoort, een rijbewijs en vaak een internationaal rijbewijs: iedereen die in het buitenland rijdt, draagt uiteindelijk alle drie bij zich, elk afgegeven door een andere instantie op zijn eigen tijdlijn, waardoor de vervaldatums zelden gelijk lopen.
 
@@ -62,13 +62,13 @@ Het paspoort is meestal de datum die mensen wél bijhouden, en daar is een reden
 
 Dat is het praktische argument om alle drie de data op één plek bij te houden. Travel Document Vault, te vinden in de [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) en op [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), bewaart de documenten op je eigen apparaat en houdt elke vervaldatum apart bij, zodat het internationale rijbewijs niet stilletjes verloopt terwijl jij je paspoort in de gaten houdt.
 
-## Wat je moet checken voordat je boekt
+## Check de datum van je rijbewijs vóór die van je internationale rijbewijs
 
-Een paar dingen zijn het checken waard, ongeveer in deze volgorde.
+Wij zouden dit in deze volgorde checken, en de datum van je rijbewijs vóór alles wat op het internationale rijbewijs staat gedrukt.
 
 **Of je überhaupt een internationaal rijbewijs nodig hebt.** Sommige landen accepteren je eigen rijbewijs zonder meer, en het land waar je rijdt bepaalt de eis, niet het land dat je rijbewijs heeft afgegeven.
 
-**Welk verdrag je bestemming erkent**, en vervolgens onder welk verdrag jouw internationale rijbewijs is afgegeven. Dat staat op het document zelf.
+**Welk verdrag je bestemming erkent**, en vergelijk daar vervolgens je internationale rijbewijs mee (het verdrag staat op het document zelf).
 
 **De vervaldatum van je rijbewijs, vóór die van je internationale rijbewijs.** Bij een Weens internationaal rijbewijs is het rijbewijs de bepalende datum, dus als je eerst alleen het internationale rijbewijs checkt, weet je minder dan je denkt.
 
@@ -86,15 +86,17 @@ De aanvraag zelf is meestal weinig belastend. Reken op het opgeven van je rijbew
 
 Dit doet het meeste pijn bij een reis die op korte termijn is geboekt. Het internationale rijbewijs is zelden op zichzelf het probleem. Het wordt het probleem wanneer het het laatste puntje is op een lijst die al krap zit.
 
-## Wees voorzichtig met wat je online koopt
+## Een internationale rijlicentie bestaat niet
 
 Zoek naar een internationaal rijbewijs en je vindt sites die iets verkopen dat een 'internationale rijlicentie' heet, vaak voor aanzienlijk meer dan het officiële internationale rijbewijs kost, soms met de belofte van directe levering of tien jaar geldigheid.
 
 Zo'n licentie bestaat niet. De enige documenten met officiële status zijn de rijbewijzen die zijn afgegeven onder de verdragen van 1926, 1949 en 1968, via het kanaal dat je eigen land aanwijst. Drie jaar bij een Weens internationaal rijbewijs is het langste dat er bestaat, dus alles dat 10 of 20 jaar geldigheid adverteert, beschrijft een document dat geen enkele grensbeambte verplicht is te accepteren.
 
+Stel je een bredere lijst samen voor je reis in plaats van alleen het rijgedeelte te regelen, dan loopt onze [internationale checklist reisdocumenten](https://traveldocumentvault.com/nl/blog/travel-document-checklist/) door wat je moet verzamelen voordat je vliegt, en behandelt [de reisdocumenten die mensen vergeten](https://traveldocumentvault.com/nl/blog/what-documents-to-carry-when-travelling-internationally/) waar je elk document het beste bewaart zodra je onderweg bent.
+
 Zoek uit welke instantie internationale rijbewijzen afgeeft in het land dat je rijbewijs heeft afgegeven, en ga naar die instantie. Als een website niet vertelt onder welk verdrag hun document valt, geeft dat zelf al het antwoord.
 
-Stel je een bredere lijst samen voor je reis in plaats van alleen het rijgedeelte te regelen, dan loopt onze [internationale checklist reisdocumenten](https://traveldocumentvault.com/nl/blog/travel-document-checklist/) door wat je moet verzamelen voordat je vliegt, en behandelt [de reisdocumenten die mensen vergeten](https://traveldocumentvault.com/nl/blog/what-documents-to-carry-when-travelling-internationally/) waar je elk document het beste bewaart zodra je onderweg bent.
+Pak vandaag je rijbewijs en, als je die hebt, je internationale rijbewijs, en leg de twee vervaldatums naast elkaar. Bij een Weens internationaal rijbewijs is de datum die het eerst komt de datum waarop het echt eindigt.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

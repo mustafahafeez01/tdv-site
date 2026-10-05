@@ -20,7 +20,7 @@ An International Driving Permit is a translation of a licence, not a licence in 
 
 An IDP carries its own expiry date, and that date behaves differently depending on which international treaty your permit was issued under. Most drivers never discover there is more than one kind until theirs is turned down.
 
-## What an IDP Actually Is
+## An IDP Translates Your Licence, It Doesn't Replace It
 
 An International Driving Permit is an official translation of the licence you already hold. It sets out your details in several languages so an officer who can't read your national licence can still work out what you're entitled to drive.
 
@@ -28,7 +28,7 @@ So it functions as a pair. You carry the domestic licence and the permit togethe
 
 This catches people out more often than the expiry dates do. The permit looks like the serious document, all stamps and languages, so it feels like the one that matters.
 
-## Three Treaties, and the Two That Matter
+## Two Treaties Decide How Long It Lasts and Where It Works
 
 Three international agreements sit behind IDPs, and countries signed up to one of them or to several. Two do nearly all the work: the 1949 Geneva Convention and the 1968 Vienna Convention. An older 1926 Paris Convention permit is still issued for a small number of destinations, and like the Geneva permit it runs for a year.
 
@@ -48,11 +48,13 @@ The split matters twice over. It sets how long your permit lasts, and it decides
 
 Those three years carry a condition that's easy to skim past. A Vienna permit expires when your domestic driving licence expires, if that date comes first.
 
-Say your licence has 14 months left and you're issued a three-year permit. The permit is useful for 14 months. The date printed on the front doesn't outrank the licence sitting behind it.
+Say your licence has 14 months left and you're issued a three-year permit. The permit is useful for 14 months.
 
-Renewing the licence afterwards doesn't rescue the permit either. It stays tied to the licence it was issued against, so a fresh licence generally means a fresh permit.
+The date printed on the front doesn't outrank the licence sitting behind it.
 
-## Three Documents, Three Clocks
+Renewing the licence afterwards doesn't rescue the permit either. It stays tied to the licence it was issued against, so a fresh licence generally means a fresh permit. If your licence is due for renewal before the trip, we'd renew it first and apply for the permit after, so the permit is tied to the new licence.
+
+## Your Permit Is the Date Nobody Watches
 
 A passport, a driving licence, and often a permit: anyone driving abroad ends up carrying all three, each issued by a different office on its own timetable, so their expiry dates rarely line up.
 
@@ -64,19 +66,19 @@ The passport is usually the date people do track, and there's a reason for that:
 
 That's the practical argument for keeping all three dates in one place. Travel Document Vault, on the [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) and [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), stores the documents on your device and tracks each expiry on its own, so the permit doesn't lapse quietly while you're keeping an eye on the passport.
 
-## What to Check Before You Book
+## Check Your Licence Date Before Your Permit Date
 
-A few things are worth checking, roughly in this order.
+We'd check these in this order, and the licence date before anything printed on the permit.
 
 **Whether you need a permit at all.** Some countries accept a domestic licence on its own, and the country you're driving in sets the requirement, not the one that issued your licence.
 
-**Which convention your destination recognises**, then which one your permit was issued under. It's printed on the document.
+**Which convention your destination recognises**, then check your permit against it (the convention is printed on the document).
 
 **Your licence expiry, before your permit expiry.** On a Vienna permit the licence is the binding date, so checking the permit first tells you less than you think.
 
 **The hire company's own policy.** Companies can ask for more than the law requires, and the person at the counter enforces the policy in front of them rather than the treaty.
 
-Sorting this out takes an afternoon before you book. Sorting it out at a rental desk in another country, with a queue behind you, generally isn't possible at all.
+Sorting this out takes an afternoon before you book, because doing it at a rental desk in another country, with a queue behind you, generally isn't possible at all.
 
 ## You Generally Can't Sort It Out After You've Left
 
@@ -86,17 +88,19 @@ Once you've landed, your options narrow to whatever the hire company will accept
 
 The application itself is usually undemanding. Expect to supply your licence details and a passport-style photograph, and expect the permit to be issued fairly quickly, though who handles it varies: in some countries it's a motoring organisation, in others a post office or the licensing authority itself. Check what applies where your licence was issued, and allow for post if the permit is mailed rather than handed over.
 
-Where this bites hardest is a trip booked at short notice. The permit is rarely the problem on its own. It becomes the problem when it's the last item on a list that's already tight.
+Where this bites hardest is a trip booked at short notice. The permit itself is rarely complicated, but it's usually the last item on a list that's already tight, which is when it gets missed.
 
-## Be Careful What You're Buying Online
+## There's No Such Thing as an International Driving Licence
 
 Search for an International Driving Permit and you'll find sites selling something called an international driving licence, often for considerably more than the official permit costs, sometimes promising instant delivery or a decade of validity.
 
 No such licence exists. The only documents with standing are the permits issued under the 1926, 1949 and 1968 conventions, through the channel your own country designates. Three years on a Vienna permit is the longest any of them runs, so anything advertising 10 or 20 years is describing a document no border official is obliged to accept.
 
+If you're building a wider pre-trip list rather than sorting the driving side alone, our [international travel document checklist](https://traveldocumentvault.com/blog/travel-document-checklist/) runs through what to gather before you fly, and [the documents people forget](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/) covers where each one is best kept once you're moving.
+
 Find out which body issues permits in the country that issued your licence, and go to that body. If a site won't tell you which convention its document is issued under, that answers the question.
 
-If you're building a wider pre-trip list rather than sorting the driving side alone, our [international travel document checklist](https://traveldocumentvault.com/blog/travel-document-checklist/) runs through what to gather before you fly, and [the documents people forget](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/) covers where each one is best kept once you're moving.
+Today, take out your licence and your permit, if you have one, and put the two expiry dates side by side. On a Vienna permit, whichever comes first is the date it really ends.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 

@@ -20,9 +20,9 @@ Sju månader kvar på passet låter som gott om tid. Du bokar flygen, kollar bag
 
 Det är en av de mest missförstådda reglerna inom resande, eftersom ett pass som inte har gått ut ändå kan underkännas av inresekraven för dussintals populära destinationer. Att förstå hur passets giltighetsmånader faktiskt räknas kan rädda dig från ett mycket dyrt misstag.
 
-## Hur länge är ett pass giltigt?
+## Vuxenpass gäller betydligt längre än barnpass
 
-Standardgiltigheten för ett vuxenpass är 10 år från utfärdandedatumet i de flesta länder. Barnpass går ut tidigare – vanligtvis efter 5 år – eftersom ett barns utseende förändras avsevärt under den tiden.
+Standardgiltigheten för ett vuxenpass är 10 år från utfärdandedatumet i de flesta länder. Barnpass går ut tidigare – vanligtvis efter 5 år – eftersom ett barns utseende förändras avsevärt under den tiden. Vi skulle kontrollera barnets pass före någon annans, eftersom det är det som alla antar är i ordning.
 
 | Land | Vuxengiltighet | Barngiltighet |
 |---|---|---|
@@ -47,7 +47,7 @@ Vi går igenom [vilka länder som tillämpar 6-månadersregeln](https://traveldo
 
 **Tomma sidor.** Vissa länder kräver flera tomma visumsidor. Reser du ofta och passet är några år gammalt kan det ta slut på användbara sidor innan utgångsdatumet. Kontrollera sidantalet lika väl som giltigheten när du reser till destinationer som stämplar visum.
 
-## Hur många månaders giltighet behöver du?
+## Hur många månader du behöver beror på destinationen
 
 Det beror helt på vart du ska.
 
@@ -57,7 +57,7 @@ För destinationer med ett 6-månaderskrav räknar du 6 månader från den dag d
 
 För allt annat, kontrollera innan du bokar. IATA Travel Centre ger dig det exakta kravet för ditt medborgarskap och din destination på några sekunder.
 
-## Barnpass – familjeresans fälla
+## Barnpass går ut snabbare, och familjer glömmer att kontrollera dem
 
 Det är här familjer blir tagna på sängen varje sommar: vuxenpass gäller i 10 år, barnpass bara i 5, och det gapet skapar ett specifikt problem.
 
@@ -65,19 +65,19 @@ En 3-åring som fick sitt första pass 2023 har en handling som går ut 2028. N�
 
 **Kontrollera varje pass i sällskapet individuellt innan du bokar en internationell resa** – ett enda kort pass kan hindra en hel familj från att gå ombord.
 
-## När bör du förnya ditt pass?
+## Förnya med en giltighetsmarginal, i god tid före utgångsdatumet
 
-Det praktiska svaret: när du har mindre än 12 månaders giltighet kvar.
-
-Här är varför 12 månader är rätt gräns, och inte själva utgångsdatumet:
+Det praktiska svaret: när du har mindre än 12 månaders giltighet kvar, inte när det håller på att gå ut. Här är varför 12 månader är rätt gräns och inte själva utgångsdatumet:
 
 - Det ger dig en hel 6-månadersmarginal för alla destinationer som tillämpar regeln.
 - Passförnyelse tar tid, och handläggningstiderna förändras – brittiska passmyndigheten HM Passport Office avråder från att boka resor innan det nya passet har kommit, och både HM Passport Office och det amerikanska utrikesdepartementet publicerar sina aktuella handläggningstider. Börjar du med 6 månader kvar lämnar det liten marginal.
 - Sista-minuten-planer händer. Ett pass med 14 månader kvar håller alla destinationer öppna. Ett pass med 5 månader kvar stänger ute en stor del av världen.
 
-Det vanligaste misstaget är att sätta en påminnelse på själva utgångsdatumet. Vid den tidpunkten kan du inte längre resa till de flesta destinationer som tillämpar 6-månadersregeln. **Sätt din förnyelsepåminnelse vid 12-månadersmärket.**
+Det vanligaste misstaget är att sätta en påminnelse på själva utgångsdatumet. Vid den tidpunkten kan du inte längre resa till de flesta destinationer som tillämpar 6-månadersregeln.
 
-Läser du också vår guide om [hur lång tid en passförnyelse tar](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/) ser du exakt hur snäva tidsramarna kan bli under högsäsong – ännu ett skäl att börja i god tid.
+**Sätt din förnyelsepåminnelse vid 12-månadersmärket.**
+
+Läser du också vår guide om [hur lång tid en passförnyelse tar](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/) ser du exakt hur snäva tidsramarna kan bli under högsäsong – ännu ett skäl att börja i god tid. Har ditt eget pass redan mindre än tolv månaders giltighet kvar, förnya det innan du bokar något annat.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 

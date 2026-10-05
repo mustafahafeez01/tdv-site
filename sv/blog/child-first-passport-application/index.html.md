@@ -26,7 +26,7 @@ De här två sakerna blandas ofta ihop, och de spelar roll av olika skäl. **Sam
 
 Den här artikeln handlar om samtycket till ansökan. Skillnaden spelar roll eftersom du kan behöva det ena utan det andra. Ett barn kan ha ett giltigt pass som båda föräldrarna gick med på att utfärda, men det betyder inte automatiskt att båda föräldrarna har samtyckt till varje resa. Se vår guide till [samtyckesbrev för barns resor](https://traveldocumentvault.com/sv/blog/child-travel-consent-letter/) och [att resa utan båda föräldrarna](https://traveldocumentvault.com/sv/blog/travelling-child-without-both-parents/) för resedelen av frågan.
 
-## Vem måste godkänna innan ansökan kan lämnas in
+## Som standard måste alla med föräldraansvar samtycka
 
 Standardregeln är att alla vuxna med föräldraansvar för barnet måste samtycka till passansökan. För de flesta familjer betyder det båda gifta föräldrarna; för sambor betyder det båda parterna om de båda står med på födelsebeviset som föräldrar. Alla med ett domstolsbeslut eller ensam juridisk vårdnad omfattas av andra regler, och din passmyndighet förklarar den specifika processen när du frågar.
 
@@ -34,7 +34,7 @@ De här undantagen är verkliga och värda att känna till. En avliden förälde
 
 **Ansöker du ensam** för att du har ensam juridisk vårdnad, för att den andra föräldern har avlidit, eller för att det finns ett domstolsbeslut, kontakta din passmyndighet direkt med domstolshandlingarna. De talar om exakt vad du behöver lämna in för att bevisa att du har rätt att ansöka utan den andra föräldern.
 
-## Vad en förstagångsansökan vanligtvis kräver att du bevisar
+## Varje förstagångsansökan kräver tre typer av bevis
 
 Passmyndigheter vill ha tre saker när du ansöker om ett barns första pass: bevis på barnets identitet, bevis på föräldrarnas identitet, och bevis på föräldrarnas relation till barnet.
 
@@ -46,7 +46,7 @@ Passmyndigheter vill ha tre saker när du ansöker om ett barns första pass: be
 
 **Vissa länder använder ett system med intygsgivare.** Det betyder att en betrodd yrkesperson – en lärare, läkare, jurist eller liknande – skriver under ett formulär för att gå i god för att ansökan är äkta och att fotot liknar barnet. Använder ditt land det här systemet behöver du hitta någon som är villig att göra det innan du ansöker. Fråga din passmyndighet vilka yrken de accepterar.
 
-## Att fotografera en baby för ett pass
+## Bebisar kan inte följa vuxnas fotoregler, så du anpassar dem
 
 Det är här många förstagångsansökningar misslyckas. En baby eller ett litet barn kan inte följa fotoreglerna som en vuxen kan: bebisar kan inte sitta upp, småbarn kan inte sitta stilla eller förstå instruktioner, och nyfödda kan inte titta in i kameran på kommando. Passfotostandarder är skrivna för vuxna, och du behöver förstå hur du anpassar dem när motivet är ett barn som väger 5 kilo och rör sig hela tiden.
 
@@ -58,13 +58,21 @@ Det är här många förstagångsansökningar misslyckas. En baby eller ett lite
 
 **För småbarn 2 år och äldre:** sätt dem framför den enfärgade bakgrunden på en stol eller stående om de kan stå. Ögonen ska titta rakt in i kameran, vilket är svårare än det låter eftersom småbarn inte följer instruktioner. Sjung en sång, gör ett roligt ljud, eller be dem titta på en punkt strax ovanför objektivet. Du vill att de ska titta lätt uppåt, vilket ändå ser bättre ut på bild. Ta återigen många bilder – du behöver bara en där de tittar in i kameran med båda ögonen tydligt öppna.
 
-**De vanligaste misstagen:** en förälders hand som stödjer babyns huvud i bild (inte tillåtet), en napp kvar i babyns mun (måste tas bort), någon annan delvis synlig i kanten (får inte synas), leksaker eller föremål i bakgrunden (ta bort dem), och att bakgrunden inte syns tydligt bakom barnets huvud (ta ett steg bakåt eller justera vinkeln så att den enfärgade bakgrunden syns).
+**De vanligaste misstagen** handlar alla om att något letar sig in i en bild som bara ska innehålla babyn:
 
-Somnar babyn eller gråter under försöken, stanna upp och försök igen en annan gång. Din passmyndighet har sett alla varianter av det här. De vill hellre ha ett tydligt foto på en pigg baby än ett suddigt på ett ledset barn.
+- En förälders hand som stödjer babyns huvud (inte tillåtet).
+- En napp kvar i babyns mun (måste tas bort före bilden).
+- Någon annan delvis synlig i bildens kant (får inte synas alls).
+- Leksaker eller föremål i bakgrunden (ta bort dem först).
+- Den enfärgade bakgrunden syns inte tydligt bakom barnets huvud (ta ett steg bakåt eller justera vinkeln).
 
-## När en förälder inte kan skriva under
+Somnar babyn eller gråter under försöken, stanna upp och försök igen en annan gång. Din passmyndighet har sett alla varianter av det här. Vi väljer alltid ett lugnt nytt försök framför att tvinga igenom ett suddigt foto. Myndigheten vill hellre se en tydlig bild på en pigg baby än en forcerad på ett ledset barn.
 
-Din passmyndighet kan inte utfärda handlingen utan juridiska bevis på att du har rätt att gå vidare ensam, oavsett om den andra föräldern inte vill skriva under, inte kan hittas, eller har förlorat sitt föräldraansvar. Det här är ett juridiskt krav som finns för att skydda barnet, inte en förhandling.
+## Att skriva under ensam kräver oftast juridiska bevis
+
+Din passmyndighet kan inte utfärda handlingen utan juridiska bevis på att du har rätt att gå vidare ensam, oavsett om den andra föräldern inte vill skriva under, inte kan hittas, eller har förlorat sitt föräldraansvar.
+
+Det här är ett juridiskt krav som finns för att skydda barnet, inte en förhandling.
 
 **Är den andra föräldern försvunnen eller vägrar:** du behöver ett domstolsbeslut. Det kan vara ett befintligt vårdnadsbeslut, ett förmyndarskapsbeslut, eller ett specifikt domslut om att du har ensamt föräldraansvar. Vissa länder tillåter dig att ansöka hos domstolen om tillstånd att utfärda passet utan den andra förälderns samtycke om du kan visa att barnet skulle skadas av dröjsmål eller att den andra föräldern inte är lämplig att rådfråga. Det varierar mellan länder och lokal domstolspraxis – fråga din passmyndighet eller en familjejurist hur processen ser ut hos dig.
 
@@ -72,7 +80,7 @@ Din passmyndighet kan inte utfärda handlingen utan juridiska bevis på att du h
 
 **Finns det ett kontaktförbud eller en vårdnadsbegränsning:** ta med domstolsbeslutet. Det visar myndigheten exakt vilka tillstånd och begränsningar som gäller.
 
-## Vad du ska kontrollera dagen det anländer
+## Kontrollera tre saker dagen passet anländer
 
 När passet är utfärdat och levererat till dig, ta fem minuter och kontrollera det innan du lägger undan det. Du letar efter tre saker som är lätta att fixa nu och en mardröm att fixa på flygplatsen.
 
@@ -80,9 +88,9 @@ När passet är utfärdat och levererat till dig, ta fem minuter och kontrollera
 
 **Kontrollera föräldrarnas namn där de förekommer.** Vissa länder trycker föräldrarnas eller vårdnadshavarnas namn på insidan av ett barns pass. Är namnen felstavade eller fel, kontakta myndigheten för att få det rättat.
 
-**Kontrollera utgångsdatumet.** Det är avgörande för barn eftersom [barnpass går ut mycket snabbare än vuxenpass](https://traveldocumentvault.com/sv/blog/family-passport-management/). När du bokar resa behöver du veta exakt när handlingen slutar gälla. Skriv ner det. Sätt en påminnelse. Att barnpass går ut oväntat är en av de vanligaste orsakerna till att familjer måste avboka eller boka om resor.
+**Kontrollera utgångsdatumet.** Det är avgörande för barn eftersom [barnpass går ut mycket snabbare än vuxenpass](https://traveldocumentvault.com/sv/blog/family-passport-management/). När du bokar resa behöver du veta exakt när handlingen slutar gälla. Skriv ner det och sätt en påminnelse samma dag som passet anländer, inte först när en resa dyker upp; det är den enda vanan vi alltid skulle rekommendera till föräldrar. Att barnpass går ut oväntat är en av de vanligaste orsakerna till att familjer måste avboka eller boka om resor.
 
-Är något fel, kontakta din passmyndighet inom några dagar. Rättelser är oftast gratis om de anmäls snabbt. Vänta inte, för ju längre du väntar desto krångligare blir processen.
+Är något fel, kontakta din passmyndighet inom några dagar. Rättelser är oftast gratis om de anmäls snabbt, och ju längre du väntar desto krångligare blir processen. När allt stämmer, lägg passet direkt i din dokumentmapp med en anteckning om utgångsdatumet, så att förnyelsen inte tar dig på sängen.
 
 ## Vanliga frågor
 

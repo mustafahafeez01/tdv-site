@@ -16,28 +16,28 @@ Source: https://traveldocumentvault.com/blog/how-to-organise-family-travel-docum
 - Tracking expiry dates before you book - not the week before you fly - is the single habit that prevents most travel document disasters.
 - A pre-trip checklist you run at booking time gives you enough runway to fix any problems before they become expensive ones.
 
-It's 11pm the night before a flight, and passports are out, the insurance printout is somewhere, but the vaccination certificate - the one the destination actually requires - has vanished into the house. That's the problem when you don't have a system for family travel documents: you run a different search every single time, and eventually something important doesn't turn up.
+It's 11pm the night before a flight, and passports are out, the insurance printout is somewhere, but the vaccination certificate the destination actually requires has vanished into the house. That's the problem when you don't have a system for family travel documents: you run a different search every single time, and eventually something important doesn't turn up.
 
 Knowing how to organise travel documents for a whole family is one of those things that feels optional until it very much isn't. This guide shows you how to set it up once and stop scrambling before every trip.
 
+This guide covers the whole system; for more on one specific piece, like passport renewal timelines or digital storage, the [travel document tips](https://traveldocumentvault.com/blog/) on the blog go further.
+
 ## Family Travel Document Checklist: What Does a Family Actually Need?
 
-It depends on where you're going, but for most international family travel the list is longer than people expect. Here's the core travel document checklist for families:
-
-**Identity documents**
+It depends on where you're going, but for most international family travel the list is longer than people expect. Here's the core travel document checklist, starting with the identity documents everyone needs:
 
 - Passports for every family member (check validity at least 3 months before travel)
 - Visas, if required by the destination country
 - National ID cards if they are accepted in place of passports (Schengen travel for EU citizens)
 
-**Travel-specific documents**
+**Documents specific to the trip**
 
 - Travel insurance certificate or policy schedule
 - Booking confirmations: flights, hotels, car hire
 - Vaccination records if required at the destination
 - Return ticket (some countries require proof at entry)
 
-**Documents specific to travelling with children**
+**What travelling with children adds**
 
 - Birth certificates - sometimes required at immigration, especially when a child's surname differs from the travelling parent
 - A signed parental consent letter if one parent isn't present - strongly recommended for solo-parent or grandparent travel
@@ -45,9 +45,9 @@ It depends on where you're going, but for most international family travel the l
 
 ### Child Travel Consent Letter: When You Need One
 
-A child travel consent letter is a signed document from the absent parent (or legal guardian) giving permission for the child to travel. It's not universally required by law, but immigration officers in many countries - including the US, Canada, Mexico, and several others - routinely ask for it when a child is travelling with only one parent or with another adult.
+A child travel consent letter is a signed document from the absent parent (or legal guardian) giving permission for the child to travel. It's not universally required by law, but immigration officers in many countries, including the US, Canada, Mexico, and several others, routinely ask for it when a child is travelling with only one parent or with another adult. Without one, you may face delays, additional questioning, or in some cases, denied entry.
 
-Without one, you may face delays, additional questioning, or in some cases, denied entry. Some countries, like Canada and South Africa, are known for strictly requesting this documentation.
+Canada and South Africa are especially known for enforcing it strictly.
 
 A valid consent letter should include: the child's full name and date of birth, both parents' names and contact details, the travelling parent's details, destination(s) and travel dates, and the signature of the absent parent (notarised copies are more convincing, though not always required). Keep a copy digital as well as physical.
 
@@ -63,9 +63,11 @@ A valid consent letter should include: the child's full name and date of birth, 
 
 Originals live in one place, and that place exists only for travel documents. Not a "miscellaneous important papers" drawer where they're competing with old utility bills.
 
-A dedicated travel document wallet or pouch - the kind that holds multiple passports alongside folded A4 documents - does the job well; label it and keep it somewhere consistent: a specific shelf, a home office drawer, or a fireproof lockbox if you want the extra security.
+A dedicated travel document wallet or pouch (the kind that holds multiple passports alongside folded A4 documents) does the job well; label it and keep it somewhere consistent: a specific shelf, a home office drawer, or a fireproof lockbox if you want the extra security.
 
-**The discipline that makes or breaks any system is putting documents back immediately after use.** Documents don't disappear because of theft but because someone used one, set it down somewhere temporary, and it got buried. "I'll put it back later" is how you end up hunting through the house at 11pm.
+The discipline that makes or breaks any system is **putting documents back immediately after use**.
+
+Documents don't disappear because of theft but because someone used one, set it down somewhere temporary, and it got buried. "I'll put it back later" is how you end up hunting through the house at 11pm.
 
 If your kids are old enough to carry their own passport through an airport, set a clear rule: passports go straight back to a parent after use, not into a backpack or coat pocket.
 
@@ -75,19 +77,19 @@ Digital copies won't get you through immigration. An officer at the border wants
 
 When something goes missing, having the document number, expiry date, and a clear scan ready cuts hours off the process of filing a police report or getting an emergency travel document from an embassy. A backup scan isn't paranoid - it's just sensible.
 
-Where you store the scans matters more than most people realise. A general photo library - Google Photos, iCloud, your camera roll - is convenient but it's not designed for sensitive documents. If someone gets into your photo library, they get your passport scans too. An encrypted, dedicated solution is worth it.
+Where you store the scans matters more than most people realise. A general photo library (Google Photos, iCloud, your camera roll) is convenient, but it's not designed for sensitive documents. If someone gets into your photo library, they get your passport scans too. An encrypted, dedicated solution is worth it.
 
 What this means in practice
 
 If your phone is stolen and the thief gets into your photo library, they have a clear scan of your passport data page: your name, date of birth, passport number, and your photo. That's enough for identity fraud. Storing passport scans in [an encrypted app that requires a separate PIN or biometric](https://traveldocumentvault.com/blog/best-passport-organizer-app/) is meaningfully safer than a photo library, even if both are on the same device.
 
-[Travel Document Vault](https://traveldocumentvault.com) stores everything on-device with strong encryption (optional encrypted backup to your own iCloud or Google Drive with Pro). Each family member gets their own profile, and expiry dates get tracked automatically. If you'd rather do it yourself, an encrypted folder in a trusted password manager works too - it just won't remind you when something's about to expire.
+[Travel Document Vault](https://traveldocumentvault.com) stores everything on-device with strong encryption (optional encrypted backup to your own iCloud or Google Drive with Pro). Each family member gets their own profile, and expiry dates get tracked automatically. If you'd rather do it yourself, an encrypted folder in a trusted password manager works too, though it won't remind you when something's about to expire.
 
 ## Tracking Expiry Dates: The Most Overlooked Part
 
 Most travel document stress doesn't come from not having the documents. It comes from not knowing their current status. A passport expiring in seven months looks perfectly fine sitting on a shelf. It becomes a problem the week you try to book a trip to Thailand.
 
-Here's the failure pattern that catches families out: you renew your own passport, update your calendar reminder, and completely forget your youngest child's passport expires eight months later. No alarm goes off, you book flights, and a year down the line you're at check-in when the agent flags it.
+Here's the failure pattern that catches families out. You renew your own passport, update your calendar reminder, and completely forget your youngest child's passport expires eight months later. No alarm goes off, you book flights, and a year down the line you're at check-in when the agent flags it.
 
 **Expiry tracking needs to be a system, not a memory exercise.** You've got a few options:
 
@@ -95,9 +97,9 @@ Here's the failure pattern that catches families out: you renew your own passpor
 - **Spreadsheet:** Works well if you'll actually maintain it. One row per document per person, the expiry date, and a formula that highlights anything expiring within 12 months.
 - **Dedicated app:** Tools like Travel Document Vault handle the reminders automatically - scan the document, confirm the expiry date, and it schedules alerts from eight months out and again at closer intervals, without you having to think about it.
 
-Any of these three approaches will work - what matters is picking one that fits how you already operate and actually sticking with it.
+Any of these three approaches will work, but we'd default to whichever one sends the reminder automatically, since a spreadsheet only helps if you remember to open it. What matters most is picking one that fits how you already operate and actually sticking with it.
 
-**Travel Document Vault** handles expiry tracking for every family member automatically - scan each passport once and get reminders starting eight months out. No spreadsheet, no forgotten renewals. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** handles expiry tracking for every family member automatically: scan each passport once and get reminders starting eight months out. No spreadsheet, no forgotten renewals. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Pre-Trip Document Checklist for Families
 
@@ -117,14 +119,14 @@ Run this checklist when you book - not the night before you leave. That's what g
 - Check travel insurance documents are current and accessible
 - Prepare a parental consent letter if travelling without both parents
 
-### The Night Before
+### Night Before Departure
 
 - Passports out and accounted for - one per person
 - Travel insurance certificate in your bag or phone
 - Boarding passes downloaded or printed
 - Any required vaccination certificates accessible
 
-For more on specific topics, check out the [travel document tips](https://traveldocumentvault.com/blog/) on the blog - there are detailed articles on passport renewal timelines and what you need to know about digital storage.
+If you haven't already, pick the one place the passports will live, and set an expiry reminder today for whichever document is closest to running out.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
