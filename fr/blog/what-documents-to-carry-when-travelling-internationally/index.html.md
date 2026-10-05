@@ -127,6 +127,8 @@ Oublier votre passeport signifie que vous ne pouvez pas embarquer. Pour les docu
 
 ## Articles connexes
 
+[Documents de voyage6 min de lectureCarte d'identité nationale en voyage : quand elle suffit](https://traveldocumentvault.com/fr/blog/national-id-card-travel-europe/)
+
 [Règles de passeport8 min de lecture · 1er février 2026La Règle des 6 Mois pour le Passeport : Quels Pays l'Appliquent et Comment Ne Jamais Être Pris au Dépourvu](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)
 
 [Voyage en famille9 min de lecture · 8 février 2026Comment Organiser les Documents de Voyage en Famille (Sans Perdre la Tête)](https://traveldocumentvault.com/fr/blog/how-to-organise-family-travel-documents/)

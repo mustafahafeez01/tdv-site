@@ -91,6 +91,8 @@ Les compagnies aériennes vérifient chaque passeport par rapport à la base de 
 
 ## Articles connexes
 
+[Documents de voyage6 min de lectureCarte d'identité nationale en voyage : quand elle suffit](https://traveldocumentvault.com/fr/blog/national-id-card-travel-europe/)
+
 [Voyage en famille8 min de lecture · août 2026Voyager avec un enfant sans ses deux parents : quels documents emporter](https://traveldocumentvault.com/fr/blog/travelling-child-without-both-parents/)
 
 [Règles de passeport8 min de lecture · février 2026La règle des 6 mois de passeport : quels pays l'appliquent et comment ne jamais vous faire prendre au dépourvu](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)

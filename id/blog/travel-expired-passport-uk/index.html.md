@@ -42,6 +42,16 @@ Jika waktunya tampak mepet, urutan yang lebih aman adalah memperpanjang dulu, ba
 
 Jika perpanjangan sudah dalam proses, itu pertanyaan yang berbeda, dan jawabannya tergantung apakah Anda sudah menyerahkan paspor lama. Kami membahasnya secara khusus di halaman lain: [apakah Anda bisa bepergian dengan paspor lama Anda selama masa perpanjangan](https://traveldocumentvault.com/id/blog/travel-while-passport-renewal-pending/).
 
+## Memperpanjang Paspor Inggris yang Sudah Kedaluwarsa
+
+Paspor yang sudah kedaluwarsa diperpanjang, bukan diajukan lagi dari awal. GOV.UK mencantumkan paspor yang sudah kedaluwarsa sebagai salah satu dari dua alasan Anda harus memperpanjang sebelum bepergian, selain sisa masa berlaku yang tidak mencukupi, sehingga bagi sebagian besar orang jalurnya adalah layanan perpanjangan dewasa standar.
+
+Pengecualiannya menyangkut paspor lama. Jika paspor Inggris terakhir Anda diterbitkan sebelum 1 Januari 1994, HM Passport Office meminta Anda mengajukan paspor dewasa pertama sebagai gantinya, jadi ada baiknya memeriksa tanggal penerbitan sebelum Anda memulai.
+
+Anda bisa mengajukan secara daring, yang memerlukan foto digital, atau melalui formulir kertas, yang memerlukan dua foto cetak identik. Apa pun caranya, Anda akan mengirimkan paspor lama Anda bersama permohonan. Jika paspor itu memuat visa yang masih berlaku, GOV.UK menyarankan untuk mengirimkan paspor beserta visanya, dan paspor lama akan dikembalikan kepada Anda.
+
+Satu detail yang sering mengejutkan orang begitu paspor baru tiba: **nomornya berbeda**. Karena alasan itu, GOV.UK menyarankan untuk tidak memesan perjalanan sampai Anda memegang paspor baru, dan apa pun yang sudah dibuat dengan nomor lama - seperti pemesanan maskapai atau otorisasi perjalanan untuk negara lain - mungkin perlu diperbarui. Panduan kami tentang [membaca tanggal pada paspor Anda](https://traveldocumentvault.com/id/blog/how-to-read-your-passport-dates/) menjelaskan apa yang berubah saat perpanjangan dan apa yang tetap sama.
+
 ## Perjalanan Domestik: Fleksibilitas Terbatas dengan Identitas Alternatif
 
 Perjalanan domestik di dalam Inggris dan Irlandia berlaku sedikit berbeda: maskapai mungkin menerima identitas berfoto alternatif seperti SIM Inggris atau kartu identitas nasional sebagai pengganti paspor. Namun, apa yang diterima sangat bervariasi tergantung maskapai dan tujuan, jadi Anda tidak bisa berasumsi identitas tertentu pasti akan diterima.
@@ -113,6 +123,10 @@ Tidak melalui jalur standar Kantor Paspor Inggris. Jika Anda berada di luar nege
 ### Apakah paspor yang rusak dianggap kedaluwarsa?
 
 Tidak, tetapi Anda tetap tidak dapat bepergian dengannya. Paspor yang rusak dapat ditolak oleh maskapai atau petugas imigrasi meskipun belum kedaluwarsa. Jika paspor Anda robek, rusak karena air, atau memiliki tanda signifikan di halaman data, lebih aman untuk memperpanjangnya daripada mengambil risiko ditolak naik pesawat atau ditolak masuk.
+
+### Bisakah saya memperpanjang paspor Inggris yang sudah kedaluwarsa?
+
+Ya. GOV.UK mencantumkan paspor yang sudah kedaluwarsa sebagai alasan untuk memperpanjang sebelum Anda bepergian, sehingga sebagian besar orang menggunakan layanan perpanjangan dewasa standar. Pengecualiannya adalah paspor yang diterbitkan sebelum 1 Januari 1994, yang berarti Anda harus mengajukan paspor dewasa pertama sebagai gantinya. Paspor baru Anda akan memiliki nomor yang berbeda, jadi perbarui setiap pemesanan yang dibuat dengan nomor lama.
 
 ## Artikel Terkait
 

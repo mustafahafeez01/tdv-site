@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
+[Documentos de ViagemCartão de identidade em viagem: quando é suficienteDentro da UE e do EEE, um cartão de identidade válido costuma ser um documento de viagem completo. Quando o cartão chega, quando levar o passaporte, e porque é que os dois seguem calendários de validade diferentes.5 de outubro de 20266 min de leitura](https://traveldocumentvault.com/pt/blog/national-id-card-travel-europe/)
+
+##
+
 [Requisitos de VistoPrecisa de visto de trânsito para uma escala?Nem todos os voos de ligação exigem visto de trânsito. Saiba quais as escalas que o exigem, como a nacionalidade altera a regra e o que fazer se perceber que precisa de um depois de reservar.28 de setembro de 20267 min de leitura](https://traveldocumentvault.com/pt/blog/transit-visa-connecting-flights/)
 
 ##

@@ -42,6 +42,16 @@ Si los plazos parecen ajustados, el orden más seguro es renovar primero y reser
 
 Una renovación que ya está en marcha es una cuestión distinta, y depende de si entregaste el pasaporte antiguo. Esa la respondemos en su propia página: [si puedes viajar con tu pasaporte antiguo mientras se tramita la renovación](https://traveldocumentvault.com/es/blog/travel-while-passport-renewal-pending/).
 
+## Renovar un pasaporte del Reino Unido que ya ha expirado
+
+Un pasaporte caducado se renueva, no se vuelve a tramitar desde cero. GOV.UK recoge el pasaporte expirado como uno de los dos motivos para renovar antes de viajar, junto con no tener validez suficiente, así que para la mayoría de las personas la vía es el servicio estándar de renovación para adultos.
+
+La excepción es un caso antiguo. Si tu último pasaporte del Reino Unido se expidió antes del 1 de enero de 1994, HM Passport Office te pide que solicites un primer pasaporte de adulto en su lugar, así que merece la pena comprobar la fecha de expedición antes de empezar.
+
+Puedes solicitarlo en línea, lo que requiere una foto digital, o en un formulario en papel, que necesita dos fotos impresas idénticas. En ambos casos, enviarás tu pasaporte antiguo junto con la solicitud. Si contiene una visa aún válida, GOV.UK indica que envíes el pasaporte con la visa adjunta, y el pasaporte antiguo te será devuelto.
+
+Un detalle sorprende a muchos cuando llega el pasaporte nuevo: **tiene un número distinto**. Por eso GOV.UK recomienda no reservar viajes hasta tener el pasaporte nuevo en mano, y cualquier cosa hecha con el número antiguo, como una reserva de vuelo o una autorización de viaje para otro país, puede necesitar actualizarse. Nuestra guía sobre [cómo leer las fechas de tu pasaporte](https://traveldocumentvault.com/es/blog/how-to-read-your-passport-dates/) explica qué cambia al renovar y qué se mantiene igual.
+
 ## Viajes nacionales: Flexibilidad limitada con identidad alternativa
 
 Los viajes nacionales dentro del Reino Unido e Irlanda difieren de los viajes internacionales en este aspecto clave: las aerolíneas pueden aceptar identificación fotográfica alternativa como una licencia de conducir del Reino Unido o tarjeta de identidad nacional en lugar de un pasaporte. Sin embargo, lo que es aceptable varía significativamente según la aerolínea y el destino, así que no puedes asumir que cualquier identificación funcionará.
@@ -112,7 +122,11 @@ No a través de la ruta estándar de la Oficina de Pasaportes del Reino Unido. S
 
 ### ¿Un pasaporte dañado cuenta como expirado?
 
-No, pero aún no puedes viajar con él. Un pasaporte dañado puede ser rechazado por las aerolíneas o control de fronteras incluso si aún no está expirado. Si tu pasaporte está rasgado, dañado por agua, o tiene marcas significativas en la página de datos, es más seguro renovarlo en lugar de riesgo de ser rechazado en el embarque o entrada.
+No, pero aun así no puedes viajar con él. Un pasaporte dañado puede ser rechazado por las aerolíneas o control de fronteras incluso si aún no está expirado. Si tu pasaporte está rasgado, dañado por agua, o tiene marcas significativas en la página de datos, es más seguro renovarlo en lugar de arriesgarte a que te rechacen en el embarque o en la entrada.
+
+### ¿Puedo renovar un pasaporte del Reino Unido que ya ha expirado?
+
+Sí. GOV.UK recoge el pasaporte expirado como motivo para renovar antes de viajar, así que la mayoría usa el servicio estándar de renovación para adultos. La excepción es un pasaporte expedido antes del 1 de enero de 1994, lo que supone solicitar un primer pasaporte de adulto en su lugar. Tu nuevo pasaporte tendrá un número distinto, así que actualiza cualquier reserva hecha con el antiguo.
 
 ## Artículos relacionados
 

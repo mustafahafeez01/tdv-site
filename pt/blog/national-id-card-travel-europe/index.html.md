@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/pt/blog/national-id-card-travel-europe/
 
 ---
 
+![Um pai e uma criança numa plataforma de comboio banhada de sol, a segurar um cartão de identidade e um passaporte antes de uma viagem pela Europa](https://traveldocumentvault.com/blog/national-id-card-travel-europe/cover.jpg)
+
 ## Pontos-Chave
 
 - **Os cidadãos da UE e do EEE podem viajar pela Europa só com o cartão de identidade nacional** — não é preciso passaporte para atravessar fronteiras Schengen.
@@ -14,7 +16,7 @@ Source: https://traveldocumentvault.com/pt/blog/national-id-card-travel-europe/
 - Um cartão danificado, desbotado, ou danificado por água pode ser recusado na fronteira mesmo que não tenha expirado, porque os agentes não conseguem lê-lo com fiabilidade.
 - Ao contrário do passaporte, **o cartão de identidade nacional expira num ciclo mais curto.** O Travel Document Vault acompanha os dois documentos em separado para não perder o prazo mais curto do seu cartão.
 
-Se é cidadão da UE e está a planear uma viagem a outro país europeu, provavelmente tem um cartão de identidade nacional. E já deve ter pensado se leva o cartão, o passaporte, ou os dois. A resposta direta é esta: dentro da UE e do EEE, o cartão de identidade chega sozinho para viajar. Um leitor britânico ou americano não tem um cartão de identidade nacional válido para viajar — este artigo aplica-se apenas a cidadãos da UE e do EEE — por isso, se for o seu caso, o passaporte é a única opção.
+Se é cidadão da UE e está a planear uma viagem a outro país europeu, provavelmente tem um cartão de identidade nacional. E já deve ter pensado se leva o cartão, o passaporte, ou os dois. A resposta direta é esta: dentro da UE e do EEE, o cartão de identidade chega sozinho para viajar, porque este artigo é escrito especificamente para cidadãos da UE e do EEE. Um leitor britânico ou americano não tem um cartão de identidade nacional para viajar, por isso, se for o seu caso, o passaporte é a sua única opção de qualquer forma.
 
 No resto da Europa, as regras são claras e mais simples do que a maioria pensa. A confusão não vem da lei, mas das companhias aéreas, que sobrepõem as suas próprias exigências. Perceber a diferença entre o que a Europa exige legalmente e o que a sua companhia aérea pede evita um aperto de última hora no check-in.
 
@@ -28,9 +30,9 @@ Um cartão que expira amanhã continua, tecnicamente, a ser um documento de viag
 
 ## Quando precisa do passaporte em vez disso
 
-Viaje para fora da UE e do EEE só com o cartão de identidade e vai ser mandado de volta. A maioria dos países não europeus não reconhece o cartão de identidade nacional como documento de viagem válido, mesmo para distâncias curtas. O passaporte é o único documento que cumpre os requisitos de entrada desses países.
+Para a maioria dos destinos fora da UE e do EEE, o cartão de identidade nacional não é reconhecido como documento de viagem válido. Os requisitos de entrada variam consoante o país e a nacionalidade — confirmar as orientações oficiais de imigração do seu destino antes de viajar é a única forma de ter a certeza. O passaporte é o que a maioria dos sistemas de imigração em todo o mundo espera.
 
-Se está a planear uma viagem ao Reino Unido, à Turquia, a Marrocos, à Tunísia, ou a qualquer destino fora das fronteiras da Europa, **o passaporte não é negociável.** É o documento que os sistemas de imigração em todo o mundo reconhecem e aceitam.
+Alguns estados-membros da UE têm acordos bilaterais com certos países fora da Europa que permitem a entrada com cartão de identidade nacional, mas estes variam consoante a nacionalidade e mudam ao longo do tempo. Se vai viajar para fora da Europa, leve o passaporte e confirme os requisitos de entrada do seu destino específico junto das orientações oficiais de imigração desse país antes de reservar.
 
 Dentro da Europa, alguns países têm acordos bilaterais que alargam a aceitação do cartão de identidade para além do quadro padrão da UE. Estes acordos existem e podem ser complexos — por isso é mais simples levar o passaporte junto com o cartão de identidade sempre que viaja fora do seu país de origem, mesmo que a lei diga que o cartão sozinho chega.
 
@@ -40,7 +42,7 @@ Uma data de validade correta é necessária, mas não suficiente. Os agentes de 
 
 - **O cartão está intacto?** Sem dobras, fissuras, ou separação das camadas de plástico.
 - **A fotografia e os dados pessoais estão legíveis?** Danos por água ou desbotamento que dificultem a leitura do seu rosto ou nome são motivo de recusa, mesmo que o cartão não tenha expirado.
-- **A data de validade está claramente impressa e sem ambiguidade?** Manchas ou danos na tinta jogam contra si.
+- **A data de validade está claramente impressa e sem ambiguidade?** Manchas ou danos na tinta contam contra si.
 - **As características de segurança estão visíveis?** Hologramas, padrões de fundo, e outros elementos anticontrafação têm de estar intactos.
 
 Se o seu cartão mostra desgaste — vincos, marcas de água, impressão desbotada — e vai fazer uma viagem internacional, renove-o antes de partir. Um cartão danificado pode ser recusado mesmo que seja válido no papel, e o custo de renovar antecipadamente é muito menor do que o de uma viagem cancelada.
@@ -63,7 +65,7 @@ O verdadeiro desafio na gestão de documentos de viagem é este: o seu cartão d
 
 A parte mais difícil é que **nenhum dos dois documentos lhe envia um lembrete.** Supõe-se que os verifique você mesmo. A maioria das pessoas não o faz, até estar no balcão de check-in e um agente lhe dizer que um deles está demasiado perto de expirar para ser aceite.
 
-As folhas de cálculo manuais e os lembretes do calendário do telemóvel existem, mas exigem que se lembre de os configurar e de os atualizar quando as circunstâncias mudam. É aí que ter um sistema para os dois documentos faz sentido — um que leia as datas de validade automaticamente e o avise em separado para cada documento, de acordo com o calendário próprio desse tipo de documento. Consulte o nosso guia sobre [como construir uma verificação completa de documentos antes de viajar](https://traveldocumentvault.com/pt/blog/travel-document-checklist/) para ter a visão completa do que verificar antes de partir.
+O que ajuda é ter um único lugar para os dois documentos, um que capta a data de validade de cada um ao digitalizá-lo e que o avisa separadamente para cada documento, de acordo com o calendário próprio desse tipo de documento. Consulte o nosso guia sobre [como construir uma verificação completa de documentos antes de viajar](https://traveldocumentvault.com/pt/blog/travel-document-checklist/) para ter a visão completa do que verificar antes de partir.
 
 ## Perguntas Frequentes
 
@@ -73,7 +75,7 @@ Sim, os cidadãos da UE e do EEE podem viajar para outros países da UE e do EEE
 
 ### Preciso de levar o cartão de identidade e o passaporte ao mesmo tempo para viajar pela Europa?
 
-Não. Dentro da UE e do EEE, um cartão de identidade nacional válido é suficiente para atravessar fronteiras. No entanto, se o seu cartão ficar danificado ou se perder, ter o passaporte como reserva pode evitar o cancelamento de uma viagem. Para viajar fora da Europa, tem de levar o passaporte.
+Não. Dentro da UE e do EEE, um cartão de identidade nacional válido é suficiente para atravessar fronteiras. No entanto, se o seu cartão ficar danificado ou se perder, ter o passaporte como reserva pode evitar o cancelamento de uma viagem. Para viajar fora da Europa, geralmente é necessário um passaporte.
 
 ### Posso usar o meu cartão de identidade nacional para voar dentro da Europa?
 

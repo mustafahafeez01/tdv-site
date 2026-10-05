@@ -91,6 +91,8 @@ Source: https://traveldocumentvault.com/th/blog/schengen-passport-rules-family-t
 
 ## บทความที่เกี่ยวข้อง
 
+[เอกสารการเดินทางอ่าน 6 นาทีบัตรประชาชนใช้เดินทางในยุโรปได้แค่ไหน](https://traveldocumentvault.com/th/blog/national-id-card-travel-europe/)
+
 [เดินทางกับครอบครัวอ่าน 8 นาที - สิงหาคม 2026พาลูกเดินทางโดยไม่มีพ่อแม่ทั้งคู่ ต้องพกเอกสารอะไรบ้าง](https://traveldocumentvault.com/th/blog/travelling-child-without-both-parents/)
 
 [กฎเรื่องพาสปอร์ตอ่าน 8 นาทีกฎ 6 เดือนของพาสปอร์ต ประเทศไหนบังคับใช้ และจะไม่พลาดได้อย่างไร](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)

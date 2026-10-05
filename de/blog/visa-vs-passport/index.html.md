@@ -149,6 +149,8 @@ In den meisten Ländern ja. Die Gültigkeit des Visums ist von der des Passes ge
 
 ## Verwandte Artikel
 
+[Reisedokumente6 Min. LesezeitPersonalausweis auf Reisen: Wann er ausreicht](https://traveldocumentvault.com/de/blog/national-id-card-travel-europe/)
+
 [Reisepass-Regeln6 minReisepass abgelaufen: Was Sie tun müssen und wie Sie verlängern](https://traveldocumentvault.com/de/blog/passport-expired-what-to-do/)
 
 [Gültigkeitsregeln6 minWie lange ist ein Reisepass zur Reise gültig](https://traveldocumentvault.com/de/blog/how-long-is-passport-valid-for-travel/)

@@ -153,6 +153,8 @@ Source: https://traveldocumentvault.com/ru/blog/visa-vs-passport/
 
 ## Похожие статьи
 
+[Документы для путешествий6 мин чтенияНациональное удостоверение личности в поездках: когда его достаточно](https://traveldocumentvault.com/ru/blog/national-id-card-travel-europe/)
+
 [Правила паспорта6 мин чтенияПаспорт просрочен: что делать и как продлить](https://traveldocumentvault.com/ru/blog/passport-expired-what-to-do/)
 
 [Срок действия6 мин чтенияКакой срок действия паспорта для поездок](https://traveldocumentvault.com/ru/blog/how-long-is-passport-valid-for-travel/)

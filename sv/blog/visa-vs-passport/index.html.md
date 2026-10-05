@@ -153,6 +153,8 @@ I de flesta länder, ja. Visumets giltighet är skild från passets giltighet, s
 
 ## Relaterade artiklar
 
+[Resehandlingar6 min läsningNationellt ID-kort för resor: när det räcker](https://traveldocumentvault.com/sv/blog/national-id-card-travel-europe/)
+
 [Passregler6 min läsningPasset har gått ut: vad du ska göra och hur du förnyar det](https://traveldocumentvault.com/sv/blog/passport-expired-what-to-do/)
 
 [Giltighetsregler6 min läsningHur länge är ett pass giltigt för resor](https://traveldocumentvault.com/sv/blog/how-long-is-passport-valid-for-travel/)

@@ -127,6 +127,8 @@ Source: https://traveldocumentvault.com/th/blog/what-documents-to-carry-when-tra
 
 ## บทความที่เกี่ยวข้อง
 
+[เอกสารการเดินทางอ่าน 6 นาทีบัตรประชาชนใช้เดินทางในยุโรปได้แค่ไหน](https://traveldocumentvault.com/th/blog/national-id-card-travel-europe/)
+
 [กฎเรื่องพาสปอร์ตอ่าน 8 นาทีกฎ 6 เดือนของพาสปอร์ต ประเทศไหนบังคับใช้ และจะไม่พลาดได้อย่างไร](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)
 
 [การเดินทางครอบครัวอ่าน 7 นาทีวิธีจัดระเบียบเอกสารการเดินทางของครอบครัว (ก่อนทริปหน้า)](https://traveldocumentvault.com/th/blog/how-to-organise-family-travel-documents/)

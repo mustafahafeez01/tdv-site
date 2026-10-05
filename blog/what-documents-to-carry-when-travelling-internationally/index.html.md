@@ -129,6 +129,8 @@ Forgetting your passport means you cannot board. For missing supporting document
 
 ## Related Articles
 
+[Travel Documents6 min readNational ID Card for Travel: When It Is Enough](https://traveldocumentvault.com/blog/national-id-card-travel-europe/)
+
 [Passport Rules8 min read · Feb 1, 2026The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
 [Family Travel9 min read · Feb 8, 2026How to Organise Family Travel Documents (Without Losing Your Mind)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)

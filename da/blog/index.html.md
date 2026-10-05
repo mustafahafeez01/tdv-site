@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
+[RejsedokumenterNationalt ID-kort på rejsen: hvornår det er nokInden for EU og EØS er et gyldigt nationalt ID-kort som regel et fuldt gyldigt rejsedokument. Se, hvornår kortet er nok, hvornår du skal medbringe passet, og hvorfor de to følger hver sit udløbsur.5. oktober 20266 min læsning](https://traveldocumentvault.com/da/blog/national-id-card-travel-europe/)
+
+##
+
 [VisumkravSkal du bruge transitvisum til en mellemlanding?Ikke alle mellemlandinger kræver transitvisum. Få overblik over, hvilke mellemlandinger der kræver det, hvordan nationaliteten ændrer reglen, og hvad du gør, hvis du opdager, at du mangler et, efter du har booket.28. september 20267 min læsning](https://traveldocumentvault.com/da/blog/transit-visa-connecting-flights/)
 
 ##

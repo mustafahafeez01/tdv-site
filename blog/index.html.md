@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
+[Travel Documents National ID Card for Travel: When It Is Enough Inside the EU and EEA, a valid national ID card is usually a full travel document. When the card is enough, when to take the passport, and why the two run on different expiry clocks. October 5, 20266 min read](https://traveldocumentvault.com/blog/national-id-card-travel-europe/)
+
+##
+
 [Visa Requirements Do You Need a Transit Visa for a Layover? Most layovers need no transit visa, but the exceptions catch careful travellers out. How airside and landside differ, why your nationality decides it, and what to do if you find out after booking. September 28, 20267 min read](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/)
 
 ##

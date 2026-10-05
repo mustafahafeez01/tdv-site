@@ -127,6 +127,8 @@ Als je je paspoort vergeet, kun je niet instappen. Bij ontbrekende ondersteunend
 
 ## Gerelateerde artikelen
 
+[Reisdocumenten6 min leestijdNationale ID-kaart voor reizen: wanneer volstaat die?](https://traveldocumentvault.com/nl/blog/national-id-card-travel-europe/)
+
 [Paspoortregels8 min leestijd · feb 2026De 6 maanden-paspoortregel: welke landen die hanteren en hoe je nooit voor verrassingen komt te staan](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/)
 
 [Gezinsreizen7 min leestijd · feb 2026Zo organiseer je de reisdocumenten van je gezin (voor je volgende reis)](https://traveldocumentvault.com/nl/blog/how-to-organise-family-travel-documents/)

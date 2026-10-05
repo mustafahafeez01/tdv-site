@@ -91,6 +91,8 @@ Source: https://traveldocumentvault.com/uk/blog/schengen-passport-rules-family-t
 
 ## Пов'язані статті
 
+[Подорожні документи6 хв читанняНаціональна ID-картка в подорожі: коли її достатньо](https://traveldocumentvault.com/uk/blog/national-id-card-travel-europe/)
+
 [Сімейні подорожі8 хв читання · серпень 2026Дитина летить без обох батьків: які документи брати з собою](https://traveldocumentvault.com/uk/blog/travelling-child-without-both-parents/)
 
 [Правила паспорта8 хв читання · лютий 2026Правило 6 місяців для паспорта: які країни його застосовують і як ніколи не потрапити в халепу](https://traveldocumentvault.com/uk/blog/passport-expiry-6-month-rule/)

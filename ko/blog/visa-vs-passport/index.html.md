@@ -149,6 +149,8 @@ Source: https://traveldocumentvault.com/ko/blog/visa-vs-passport/
 
 ## 관련 기사
 
+[여행 서류6분 읽기국민 ID 카드로 하는 여행, 어디까지 통할까](https://traveldocumentvault.com/ko/blog/national-id-card-travel-europe/)
+
 [여권 규칙6분 읽기여권 만료됨: 할 일과 갱신 방법](https://traveldocumentvault.com/ko/blog/passport-expired-what-to-do/)
 
 [유효성 규칙6분 읽기여권은 여행을 위해 얼마나 오래 유효합니까?](https://traveldocumentvault.com/ko/blog/how-long-is-passport-valid-for-travel/)

@@ -153,6 +153,8 @@ I de fleste lande, ja. Dit visums gyldighed er adskilt fra dit pas' gyldighed, s
 
 ## Relaterede artikler
 
+[Rejsedokumenter6 min læsningNationalt ID-kort på rejsen: hvornår det er nok](https://traveldocumentvault.com/da/blog/national-id-card-travel-europe/)
+
 [Passtyring7 min læsningStyring af familiens pas - opbevar flere pas sikkert](https://traveldocumentvault.com/da/blog/family-passport-management/)
 
 [Passkade7 min læsningKan du rejse med et beskadiget pas?](https://traveldocumentvault.com/da/blog/damaged-passport-travel/)

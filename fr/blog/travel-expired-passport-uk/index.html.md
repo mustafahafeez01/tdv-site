@@ -42,6 +42,16 @@ Si les délais semblent serrés, l'ordre le plus sûr consiste à renouveler d'a
 
 Un renouvellement déjà en cours est une autre question, qui dépend de si vous avez remis ou non votre ancien passeport. Nous y répondons dans un article dédié : [peut-on voyager avec son ancien passeport pendant le renouvellement](https://traveldocumentvault.com/fr/blog/travel-while-passport-renewal-pending/).
 
+## Renouveler un passeport britannique déjà expiré
+
+Un passeport périmé se renouvelle, il ne repart pas de zéro. GOV.UK recense un passeport expiré parmi les deux raisons justifiant un renouvellement avant de voyager, aux côtés d'une validité restante insuffisante, donc pour la plupart des gens, le service standard de renouvellement pour adulte est la voie à suivre.
+
+L'exception est ancienne. Si votre dernier passeport britannique a été délivré avant le 1er janvier 1994, HM Passport Office vous demande de faire une demande de premier passeport adulte à la place. Il vaut donc la peine de vérifier la date de délivrance avant de commencer.
+
+Vous pouvez faire la demande en ligne, ce qui nécessite une photo numérique, ou sur un formulaire papier, qui demande deux photos imprimées identiques. Dans les deux cas, vous enverrez votre ancien passeport avec la demande. S'il contient un visa encore valide, GOV.UK indique d'envoyer le passeport avec le visa qu'il contient, et l'ancien passeport vous est retourné.
+
+Un détail surprend souvent les gens à l'arrivée du nouveau passeport : **il porte un numéro différent**. GOV.UK déconseille pour cette raison de réserver un voyage avant d'avoir le nouveau passeport en main, et tout ce qui a été fait avec l'ancien numéro, comme une réservation de vol ou une autorisation de voyage pour un autre pays, peut nécessiter une mise à jour. Notre guide sur [la lecture des dates de votre passeport](https://traveldocumentvault.com/fr/blog/how-to-read-your-passport-dates/) explique ce qui change lors d'un renouvellement et ce qui reste identique.
+
 ## Voyages domestiques : flexibilité limitée avec pièce d'identité alternative
 
 Les voyages domestiques au sein du Royaume-Uni et en Irlande diffèrent des voyages internationaux sur ce point clé : les compagnies aériennes peuvent accepter une pièce d'identité avec photo alternative comme un permis de conduire britannique ou une carte d'identité nationale à la place d'un passeport. Cependant, ce qui est acceptable varie considérablement selon la compagnie aérienne et la destination, donc vous ne pouvez pas supposer qu'une pièce d'identité particulière fonctionnera.
@@ -113,6 +123,10 @@ Pas par la voie standard du Bureau des passeports du Royaume-Uni. Si vous êtes 
 ### Un passeport endommagé compte-t-il comme expiré ?
 
 Non, mais vous ne pouvez toujours pas voyager avec. Un passeport endommagé peut être rejeté par les compagnies aériennes ou le contrôle aux frontières, même s'il n'est pas encore expiré. Si votre passeport est déchiré, endommagé par l'eau, ou a des marques importantes sur la page de données, il est plus sûr de le renouveler plutôt que de risquer un refus d'embarquement ou d'entrée.
+
+### Puis-je renouveler un passeport britannique déjà expiré ?
+
+Oui. GOV.UK recense un passeport expiré comme une raison de le renouveler avant de voyager, donc la plupart des gens utilisent le service standard de renouvellement pour adulte. L'exception concerne un passeport délivré avant le 1er janvier 1994, ce qui implique de faire une demande de premier passeport adulte à la place. Votre nouveau passeport portera un numéro différent, pensez donc à mettre à jour toute réservation effectuée avec l'ancien.
 
 ## Articles connexes
 

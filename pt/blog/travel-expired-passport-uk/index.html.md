@@ -42,6 +42,16 @@ Se os prazos parecerem apertados, a ordem mais segura é renovar primeiro e rese
 
 Uma renovação já em curso é uma questão diferente, e depende de ter entregue ou não o passaporte antigo. Respondemos a essa questão num artigo próprio: [se pode viajar com o passaporte antigo enquanto a renovação está a decorrer](https://traveldocumentvault.com/pt/blog/travel-while-passport-renewal-pending/).
 
+## Renovar um Passaporte do Reino Unido Já Expirado
+
+Um passaporte fora do prazo é renovado, não recomeçado do zero. O GOV.UK indica um passaporte expirado como um dos dois motivos que obrigam a renovar antes de viajar, a par de não ter tempo de validade suficiente, por isso, para a maioria das pessoas, o caminho é o serviço de renovação normal para adultos.
+
+A exceção é antiga. Se o seu último passaporte do Reino Unido foi emitido antes de 1 de janeiro de 1994, o HM Passport Office pede-lhe que solicite um primeiro passaporte de adulto em vez de uma renovação, por isso vale a pena verificar a data de emissão antes de começar.
+
+Pode fazer o pedido online, o que exige uma fotografia digital, ou em formulário de papel, o que exige duas fotografias impressas idênticas. De qualquer forma, enviará o seu passaporte antigo junto com o pedido. Se este tiver um visto ainda válido, o GOV.UK recomenda enviar o passaporte com o visto anexado, e o passaporte antigo é-lhe devolvido.
+
+Um pormenor apanha as pessoas de surpresa quando o novo passaporte chega: **tem um número diferente**. Por esse motivo, o GOV.UK desaconselha reservar viagens antes de ter o novo passaporte em mãos, e tudo o que tenha sido feito com o número antigo, como uma reserva de voo ou uma autorização de viagem para outro país, pode precisar de ser atualizado. O nosso guia sobre [como ler as datas do seu passaporte](https://traveldocumentvault.com/pt/blog/how-to-read-your-passport-dates/) explica o que muda na renovação e o que se mantém.
+
 ## Viagem Doméstica: Flexibilidade Limitada com Documentos de Identidade Alternativos
 
 As viagens domésticas dentro do Reino Unido e Irlanda diferem das viagens internacionais neste aspecto chave: as companhias aéreas podem aceitar documentos de identidade alternativos com fotografia como uma carteira de condutor do Reino Unido ou cartão de identidade nacional em vez de um passaporte. No entanto, o que é aceitável varia significativamente por companhia aérea e destino, portanto não pode assumir que qualquer documento de identidade funcionará.
@@ -113,6 +123,10 @@ Não através da via do Escritório de Passaportes do Reino Unido padrão. Se es
 ### Um passaporte danificado conta como expirado?
 
 Não, mas ainda assim não pode viajar com ele. Um passaporte danificado pode ser rejeitado pelas companhias aéreas ou controlo de fronteiras mesmo que ainda não esteja expirado. Se o seu passaporte está rasgado, danificado pela água ou tem marcas significativas na página de dados, é mais seguro renová-lo em vez de arriscar ser recusado embarque ou entrada.
+
+### Posso renovar um passaporte do Reino Unido que já expirou?
+
+Sim. O GOV.UK indica um passaporte expirado como motivo para renovar antes de viajar, por isso a maioria das pessoas usa o serviço de renovação normal para adultos. A exceção é um passaporte emitido antes de 1 de janeiro de 1994, o que significa pedir um primeiro passaporte de adulto em vez disso. O seu novo passaporte terá um número diferente, por isso atualize quaisquer reservas feitas com o antigo.
 
 ## Artigos Relacionados
 

@@ -127,6 +127,8 @@ Source: https://traveldocumentvault.com/ja/blog/what-documents-to-carry-when-tra
 
 ## 関連記事
 
+[旅行書類6分で読める国民IDカードでの渡航:それで十分な場合](https://traveldocumentvault.com/ja/blog/national-id-card-travel-europe/)
+
 [パスポートルール8分で読める・2026年2月1日6ヶ月パスポートルール：どの国が実施し、引っかかる方法](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)
 
 [ファミリー旅行9分で読める・2026年2月8日ファミリー旅行書類の整理方法（頭がおかしくならずに）](https://traveldocumentvault.com/ja/blog/how-to-organise-family-travel-documents/)

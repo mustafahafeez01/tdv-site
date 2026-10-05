@@ -127,6 +127,8 @@ Wenn Sie Ihren Reisepass vergessen, können Sie nicht einsteigen. Bei fehlenden 
 
 ## Verwandte Artikel
 
+[Reisedokumente6 Min. LesezeitPersonalausweis auf Reisen: Wann er ausreicht](https://traveldocumentvault.com/de/blog/national-id-card-travel-europe/)
+
 [Reisepass-Regeln8 Min. Lesezeit · 1. Feb. 2026Die 6-Monats-Reisepass-Regel: Welche Länder sie durchsetzen und wie Sie nie überrascht werden](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/)
 
 [Familienreisen9 Min. Lesezeit · 8. Feb. 2026So organisieren Sie Familienreisedokumente (ohne den Kopf zu verlieren)](https://traveldocumentvault.com/de/blog/how-to-organise-family-travel-documents/)

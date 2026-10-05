@@ -127,6 +127,8 @@ Glemmer I passet, kan I ikke gå ombord. Ved manglende støttedokumenter variere
 
 ## Relaterede artikler
 
+[Rejsedokumenter6 min læsningNationalt ID-kort på rejsen: hvornår det er nok](https://traveldocumentvault.com/da/blog/national-id-card-travel-europe/)
+
 [Pasregler8 min læsning · 1. feb. 20266-måneders-reglen for pas: hvilke lande håndhæver den, og sådan undgår du at blive taget på sengen](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)
 
 [Familierejser7 min læsning · 5. feb. 2026Sådan organiserer du familiens rejsedokumenter (før næste tur)](https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-documents/)

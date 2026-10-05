@@ -127,6 +127,8 @@ Glömmer ni passet kommer ni inte ombord. Vid saknade stödjande handlingar vari
 
 ## Relaterade artiklar
 
+[Resehandlingar6 min läsningNationellt ID-kort för resor: när det räcker](https://traveldocumentvault.com/sv/blog/national-id-card-travel-europe/)
+
 [Passregler8 min läsning · 1 feb 20266-månadersregeln för pass: vilka länder tillämpar den och hur du aldrig blir tagen på sängen](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/)
 
 [Familjeresor7 min läsning · 5 feb 2026Så organiserar du familjens resehandlingar (inför nästa resa)](https://traveldocumentvault.com/sv/blog/how-to-organise-family-travel-documents/)

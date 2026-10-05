@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
+[旅行書類国民IDカードでの渡航:それで十分な場合EUおよびEEA域内では、有効な国民IDカードは通常そのまま渡航書類として使えます。カードで十分な場合、パスポートが必要な場合、そして二つの書類の有効期限がまったく別に動く理由を解説します。2026年10月5日読了時間 6分](https://traveldocumentvault.com/ja/blog/national-id-card-travel-europe/)
+
+##
+
 [ビザ要件乗り継ぎにトランジットビザは必要かすべての乗り継ぎ便にトランジットビザが必要なわけではありません。どのレイオーバーでビザが必要になるか、国籍によってルールがどう変わるか、予約後に必要だと気づいた場合の対処法を解説します。2026年9月28日読了時間 7分](https://traveldocumentvault.com/ja/blog/transit-visa-connecting-flights/)
 
 ##

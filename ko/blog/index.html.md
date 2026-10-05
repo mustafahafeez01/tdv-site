@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
+[여행 서류국민 ID 카드로 하는 여행, 어디까지 통할까EU 및 EEA 역내에서는 유효한 국민 ID 카드만으로 대개 완전한 여행 서류가 됩니다. ID 카드로 충분한 경우, 여권을 챙겨야 하는 경우, 그리고 두 서류가 서로 다른 만료 주기로 움직이는 이유를 정리했습니다.2026년 10월 5일6분 읽기](https://traveldocumentvault.com/ko/blog/national-id-card-travel-europe/)
+
+##
+
 [비자 요건경유 비행에도 환승 비자가 필요할까요?모든 경유편에 환승 비자가 필요한 것은 아닙니다. 어떤 경유가 비자를 요구하는지, 국적에 따라 규정이 어떻게 달라지는지, 예약 후 환승 비자가 필요하다는 것을 알게 되었을 때 어떻게 해야 하는지 알아보세요.2026년 9월 28일7분 읽기](https://traveldocumentvault.com/ko/blog/transit-visa-connecting-flights/)
 
 ##

@@ -6,6 +6,8 @@ Source: https://traveldocumentvault.com/da/blog/national-id-card-travel-europe/
 
 ---
 
+![En forælder og et barn på en solbeskinnet togperron med et nationalt ID-kort og et pas før en rejse i Europa](https://traveldocumentvault.com/blog/national-id-card-travel-europe/cover.jpg)
+
 ## Vigtigste punkter
 
 - **EU- og EØS-borgere kan rejse i Europa med kun deres nationale ID-kort** – intet pas kræves ved Schengen-grænseovergange.
@@ -22,23 +24,23 @@ For resten af Europa er reglerne klare og enklere, end de fleste tror. Forvirrin
 
 Inden for EU og EØS er et gyldigt nationalt ID-kort et fuldgyldigt rejsedokument. Du kan krydse grænser mellem EU-medlemsstater, Norge, Island, Liechtenstein og Schweiz med kun dit ID-kort. Du skal ikke bruge dit pas. Kortet skal være gyldigt den dag, du ankommer – i modsætning til pas til visse rejsemål findes der ingen "6-måneders-regel" for rejser i Europa med ID-kort.
 
-Et kort, der udløber i morgen, er teknisk set stadig et gyldigt rejsedokument i dag. Alligevel er det **klogt at forny i god tid**, fordi et kort tæt på udløb lettere bliver udfordret ved grænsen, og beskadigede kort afvises, selv hvis de endnu ikke er udløbet.
+Et kort, der udløber i morgen, er teknisk set stadig et gyldigt rejsedokument i dag. Alligevel er det **klogt at forny i god tid**, fordi der lettere bliver sat spørgsmålstegn ved et kort tæt på udløb i grænsekontrollen, og beskadigede kort afvises, selv hvis de endnu ikke er udløbet.
 
 Det er i Schengenområdet, at denne fleksibilitet betyder mest. Som EU-borger med et gyldigt ID-kort kan du bevæge dig frit mellem Schengenlande uden paskontrol. Den samme ret gælder ved grænser til EU-lande uden for Schengen – kortet fungerer på grund af EU's ret til fri bevægelighed, ikke på grund af Schengen-medlemskab.
 
 ## Hvornår du skal bruge passet i stedet
 
-Rejser du uden for EU og EØS med kun dit ID-kort, bliver du afvist. De fleste ikke-europæiske lande anerkender ikke et nationalt ID-kort som gyldigt rejsedokument, selv over korte afstande. Dit pas er det eneste dokument, der opfylder deres indrejsekrav.
+De fleste rejsemål uden for EU og EØS anerkender ikke et nationalt ID-kort som gyldigt rejsedokument. Indrejsekravene varierer fra land til land og fra nationalitet til nationalitet – det eneste sikre er at tjekke din destinations officielle immigrationsvejledning, før du rejser. Et pas er, hvad de fleste immigrationssystemer verden over forventer.
 
-Planlægger du en rejse til Storbritannien, Tyrkiet, Marokko, Tunesien, eller ethvert rejsemål uden for Europas grænser, er **passet ikke til forhandling.** Det er det dokument, som immigrationssystemer verden over anerkender og accepterer.
+Nogle EU-medlemsstater har bilaterale aftaler med visse ikke-europæiske lande, der tillader indrejse på et nationalt ID-kort, men de varierer efter nationalitet og ændrer sig over tid. Skal du uden for Europa, så medbring dit pas, og tjek din specifikke destinations indrejsekrav hos landets officielle immigrationsmyndighed, før du booker.
 
-Inden for Europa har visse lande bilaterale aftaler, der udvider accepten af ID-kort ud over EU's standardramme. Disse aftaler findes og kan være komplekse – hvilket er præcis grunden til, at det er enklere at medbringe passet sammen med ID-kortet, hver gang du rejser uden for dit hjemland, selv hvis loven siger, at kortet alene er nok.
+Inden for Europa har visse lande bilaterale aftaler, der udvider accepten af ID-kort ud over EU's standardramme. Disse aftaler findes, men de kan være komplekse, så det er ofte enklere at medbringe passet sammen med ID-kortet, hver gang du rejser uden for dit hjemland, selv hvis loven siger, at kortet alene er nok.
 
 ## Hvad du bør tjekke på kortet før en rejse
 
-En gyldig udløbsdato er nødvendig, men ikke tilstrækkelig. Grænsemyndigheder er trænet i at afvise dokumenter, de ikke kan læse tydeligt. Før du pakker, så inspicér dit ID-kort, som grensepersonalet vil gøre:
+En gyldig udløbsdato er nødvendig, men ikke tilstrækkelig. Grænsemyndigheder er trænet i at afvise dokumenter, de ikke kan læse tydeligt. Før du pakker, så inspicér dit ID-kort, som grænsepersonalet vil gøre:
 
-- **Er kortet intakt?** Ingen bøjning, revner, eller løsnende plastlag.
+- **Er kortet intakt?** Ingen bøjning, revner, afskalning eller adskilte plastlag.
 - **Er foto og personoplysninger læsbare?** Vandskade eller falmning, der gør dit ansigt eller navn svært at læse, er grund til afvisning, selv hvis kortet ikke er udløbet.
 - **Er udløbsdatoen tydeligt trykt og entydig?** Udtværing eller blækskader tæller imod dig.
 - **Er sikkerhedselementerne synlige?** Hologrammer, baggrundsmønstre, og andre forfalskningssikringer skal være intakte.
@@ -63,7 +65,7 @@ Den reelle udfordring ved at styre rejsedokumenter er denne: dit ID-kort og dit 
 
 Det sværeste er, at **ingen af dokumenterne sender dig en påmindelse.** Du forventes at tjekke dem selv. De fleste gør det ikke, før de står ved check-in-skranken, og en medarbejder fortæller dem, at et af dem er for tæt på udløb til at blive accepteret.
 
-Manuelle regneark og kalenderpåmindelser i telefonen findes, men de kræver, at du husker at oprette dem og opdatere dem, når forholdene ændrer sig. Det er her, det giver mening at have ét system for begge dokumenter – et der aflæser udløbsdatoerne automatisk og påminder dig separat for hvert dokument, efter den tidsplan der gælder for netop den dokumenttype. Se vores guide om [at opbygge et komplet dokumenttjek før afrejse](https://traveldocumentvault.com/da/blog/travel-document-checklist/) for det fulde overblik over, hvad du bør kontrollere, før du rejser.
+Det hjælper at have ét sted for begge dokumenter – et sted, der registrerer hver udløbsdato, når du scanner det, og minder dig om hvert dokument separat, efter den tidsplan der passer til den dokumenttype. Se vores guide om [at opbygge et komplet dokumenttjek før afrejse](https://traveldocumentvault.com/da/blog/travel-document-checklist/) for det fulde overblik over, hvad du bør kontrollere, før du rejser.
 
 ## Ofte stillede spørgsmål
 
@@ -73,7 +75,7 @@ Ja, EU- og EØS-borgere kan rejse til andre EU- og EØS-lande med kun et gyldigt
 
 ### Skal jeg have både ID-kort og pas for at rejse i Europa?
 
-Nej. Inden for EU og EØS er et gyldigt nationalt ID-kort tilstrækkeligt til grænseovergange. Men hvis dit kort bliver beskadiget eller mistet, kan et pas som reserve redde en rejse fra at blive aflyst. Ved rejser uden for Europa skal du medbringe dit pas.
+Nej. Inden for EU og EØS er et gyldigt nationalt ID-kort tilstrækkeligt til grænseovergange. Men hvis dit kort bliver beskadiget eller mistet, kan et pas som reserve redde en rejse fra at blive aflyst. Til rejser uden for Europa kræves der generelt et pas.
 
 ### Kan jeg bruge mit nationale ID-kort til fly inden for Europa?
 
@@ -89,6 +91,6 @@ Bliver dit kort afvist, kan du muligvis bruge dit pas, hvis du har det med. Har 
 
 ## Relaterede artikler
 
-[Rejsedokumenter5 min læsning · august 2026Visum eller pas: hvad du faktisk skal bruge for at rejse](https://traveldocumentvault.com/da/blog/visa-vs-passport/)
+[Visa og indrejse6 min læsning · april 2026Er et visum det samme som et pas? Forskellen forklaret](https://traveldocumentvault.com/da/blog/visa-vs-passport/)
 
-[Familierejser7 min læsning · juni 2026Styr på familiens pas: hold styr på alles dokumenter](https://traveldocumentvault.com/da/blog/family-passport-management/)
+[Familierejser7 min læsning · juli 2026Styring af familiens pas – opbevar flere pas sikkert](https://traveldocumentvault.com/da/blog/family-passport-management/)

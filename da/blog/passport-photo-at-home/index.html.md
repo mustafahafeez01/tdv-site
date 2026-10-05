@@ -1,6 +1,6 @@
-# Regler for pasfoto: størrelse, briller og sådan tager du det derhjemme
+# Regler for pasfoto: størrelse, briller og foto derhjemme
 
-> Må man have briller på til pasfoto? Som regel ikke. Her er reglerne for størrelse, baggrund og lys – og sådan tager du billedet derhjemme.
+> Må man have briller på til pasfoto? Oftest ikke. Her er reglerne for størrelse, baggrund og lys – og sådan tager du pasfotoet derhjemme.
 
 Source: https://traveldocumentvault.com/da/blog/passport-photo-at-home/
 
@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/da/blog/passport-photo-at-home/
 
 Et billede taget derhjemme bliver godkendt lige så let som et fra en fotoboks, forudsat at det opfylder den samme korte liste af regler. De fleste afvisninger skyldes tre ting: skygge i ansigtet eller på baggrunden, forkert størrelse på hovedet i billedet, og briller. Får du styr på dem, er resten ligetil.
 
-## Fælles krav på tværs af lande
+## Krav der gælder i de fleste lande
 
 Selvom de konkrete regler varierer fra pasmyndighed til pasmyndighed, deler de fleste lande de samme grundlæggende krav til pasfoto. Forstår du disse grundprincipper, står du på sikker grund, uanset hvilket land der udsteder dit pas.
 
@@ -38,7 +38,7 @@ Solbriller og tonede glas afvises overalt, uden lægelig dispensation. Kvalifice
 
 I Danmark ansøger du om pas i Borgerservice i din kommune, og kravene til selve billedet fastsættes af politiet. Det er deres liste, der afgør, om billedet bliver godkendt, så tjek den, før du printer noget eller møder op – reglerne for briller og hovedbeklædning står der.
 
-## Størrelse på pasfoto: de to standarder de fleste lande bruger
+## Størrelse på pasfoto: de to mål de fleste lande bruger
 
 De fleste pasmyndigheder bruger en af to trykte størrelser. Formatet 35 x 45 mm dækker Storbritannien, EU-lande og store dele af resten af verden. USA kræver et kvadrat på 2 x 2 tommer, og enkelte lande følger den standard i stedet.
 
@@ -58,7 +58,7 @@ Vi gengiver bevidst ikke de tal her. Et tal, der kopieres ind i et blogindlæg, 
 | Australien | Australian Passport Offices fotovejledning |
 | Canada | Canadas regerings side om pasfotos |
 
-Uanset hvad dit land angiver, er det præcist – selv få millimeter forkert betyder afvisning. Din smartphones rå billede er som regel langt større end det, du skal indsende, hvilket er grunden til, at beskæringsapps findes. Gratis eller billige værktøjer til iOS og Android lader dig angive dit land og automatisk tilpasse billedet til de præcise mål.
+Uanset hvad dit land angiver, er det præcist – selv få millimeter forkert betyder afvisning. Din mobils rå billede er som regel langt større end det, du skal indsende, hvilket er grunden til, at beskæringsapps findes. Gratis eller billige værktøjer til iOS og Android lader dig angive dit land og automatisk tilpasse billedet til de præcise mål.
 
 ### Sammenligning af metoder til indsendelse af pasfoto
 
@@ -98,9 +98,9 @@ Moderne smartphones optager med 12 megapixel eller mere, hvilket er rigeligt til
 - **Forkert baggrund:** Farvet baggrund, mønster eller ujævn hvid baggrund. Ensfarvet hvid eller råhvid plakatplade eller lagen fungerer bedst – sørg for, at der ikke er synlig struktur eller skygger.
 - **For meget eller for lidt margin:** Ansigtet er for lille eller placeret forkert i billedet. Dit lands regler angiver præcis, hvor stor en del af billedet ansigtet skal fylde, som regel som et mål fra hage til isse frem for en procentdel – arbejd efter det tal, ikke efter hvad der "ser rigtigt ud".
 
-## Fra smartphonebillede til officielt foto: processen
+## Fra mobilbillede til officielt pasfoto: processen
 
-Din smartphones billede har sjældent den rigtige størrelse med det samme. Efter optagelsen skal du beskære det til dit lands præcise specifikationer og derefter beslutte, om du vil printe det eller uploade det digitalt.
+Billedet fra din mobil har sjældent den rigtige størrelse med det samme. Efter optagelsen skal du beskære det til dit lands præcise specifikationer og derefter beslutte, om du vil printe det eller uploade det digitalt.
 
 ### Beskæringsværktøjer
 
@@ -128,9 +128,9 @@ Nogle få minutters ordentlig forberedelse nu sparer dig for at skulle indsende 
 
 ## Ofte stillede spørgsmål
 
-### Kan jeg tage et pasfoto med min smartphone?
+### Kan jeg tage et pasfoto med min mobil?
 
-Ja, du kan tage et pasfoto med din smartphone. Stil dig foran en ensfarvet hvid eller råhvid baggrund i godt dagslys, og sørg for, at billedet opfylder dit lands krav til størrelse og kvalitet. Mange bruger derefter en beskæringsapp til at tilpasse billedet til de officielle mål og enten printer det eller uploader det digitalt, afhængigt af hvordan man ansøger i det pågældende land.
+Ja, du kan tage et pasfoto med din mobil. Stil dig foran en ensfarvet hvid eller råhvid baggrund i godt dagslys, og sørg for, at billedet opfylder dit lands krav til størrelse og kvalitet. Mange bruger derefter en beskæringsapp til at tilpasse billedet til de officielle mål og enten printer det eller uploader det digitalt, afhængigt af hvordan man ansøger i det pågældende land.
 
 ### Hvilken størrelse skal et pasfoto have?
 
@@ -144,11 +144,11 @@ Almindelige afvisningsgrunde er skygger i ansigtet, forkert størrelse, smil ell
 
 Naturligt lys fra et vindue er ideelt til pasfoto. Undgå hårde skygger i ansigtet, og brug ikke kamerablitz. Stil dig med ansigtet direkte mod lyskilden eller vinkelret på et vindue, så lyset falder jævnt på ansigtet. Overskyet vejr giver et behageligt, diffust lys uden hårde skygger.
 
-### Må jeg have briller på, når der tages pasfoto?
+### Må man have briller på til pasfoto?
 
 Nej, i langt de fleste tilfælde ikke. De fleste lande tillader ikke længere briller på pasfoto, medmindre det er lægeligt nødvendigt, og selv da kan du blive bedt om at fremvise dokumentation. Tjek dit lands aktuelle krav, før du tager billedet, da reglerne er blevet ændret de seneste år. Søger du dansk pas, er det politiets krav, der gælder, og du finder dem via Borgerservice i din kommune.
 
-### Hvad er reglerne for et pasfoto?
+### Hvad er reglerne for pasfoto?
 
 Grundreglerne er stort set ens i de fleste lande: en ensfarvet lys baggrund, et neutralt udtryk med lukket mund, begge øjne åbne og tydeligt synlige, ingen briller medmindre det er lægeligt nødvendigt, jævn belysning uden skygger, og et nyligt billede, der opfylder dit lands størrelseskrav. Hver myndighed offentliggør sin egen fulde liste, og detaljerne varierer, så tjek din, før du tager billedet.
 

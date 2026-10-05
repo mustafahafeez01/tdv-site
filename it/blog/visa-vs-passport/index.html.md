@@ -149,6 +149,8 @@ Nella maggior parte dei Paesi sì. La validità del visto è separata da quella 
 
 ## Articoli Correlati
 
+[Documenti di Viaggio6 min di letturaCarta d'identità per viaggiare: quando basta](https://traveldocumentvault.com/it/blog/national-id-card-travel-europe/)
+
 [Regole del Passaporto6 min di letturaPassaporto Scaduto: Cosa Fare e Come Rinnovare](https://traveldocumentvault.com/it/blog/passport-expired-what-to-do/)
 
 [Regole di Validità6 min di letturaPer Quanto Tempo è Valido un Passaporto per Viaggiare](https://traveldocumentvault.com/it/blog/how-long-is-passport-valid-for-travel/)

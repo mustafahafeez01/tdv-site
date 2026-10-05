@@ -127,6 +127,8 @@ Source: https://traveldocumentvault.com/ru/blog/what-documents-to-carry-when-tra
 
 ## Похожие статьи
 
+[Документы для путешествий6 мин чтенияНациональное удостоверение личности в поездках: когда его достаточно](https://traveldocumentvault.com/ru/blog/national-id-card-travel-europe/)
+
 [Правила паспорта8 мин чтения · февраль 2026Правило шести месяцев для паспорта: какие страны его требуют и как не столкнуться с отказом на границе](https://traveldocumentvault.com/ru/blog/passport-expiry-6-month-rule/)
 
 [Путешествия с семьёй7 мин чтения · февраль 2026Как организовать документы для путешествий всей семьи (перед следующей поездкой)](https://traveldocumentvault.com/ru/blog/how-to-organise-family-travel-documents/)

@@ -91,6 +91,8 @@ Las aerolíneas verifican cada pasaporte contra la base de datos Timatic de IATA
 
 ## Artículos Relacionados
 
+[Documentos de Viaje6 min de lectura - octubre de 2026Documento de Identidad para Viajar: Cuándo Basta](https://traveldocumentvault.com/es/blog/national-id-card-travel-europe/)
+
 [Viajes en Familia8 min de lectura - agosto de 2026Viajar con un Hijo Sin Ambos Padres: Qué Documentos Llevar](https://traveldocumentvault.com/es/blog/travelling-child-without-both-parents/)
 
 [Normas de Pasaporte8 min de lectura - febrero de 2026La Regla de 6 Meses del Pasaporte: Qué Países la Cumplen y Cómo Nunca Quedarte Atrapado](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/)

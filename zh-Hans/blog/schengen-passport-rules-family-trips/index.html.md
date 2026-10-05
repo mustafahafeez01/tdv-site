@@ -91,6 +91,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/schengen-passport-rules-fam
 
 ## 相关文章
 
+[旅行证件6分钟阅读 · 2026年10月国民身份证能当旅行证件吗？什么时候够用](https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-europe/)
+
 [家庭旅行8分钟阅读 · 2026年8月带孩子出行却没有父母双方同行：该带哪些证件](https://traveldocumentvault.com/zh-Hans/blog/travelling-child-without-both-parents/)
 
 [护照规则8分钟阅读 · 2026年2月6个月护照规则：哪些国家执行它以及如何永远不被挡在外](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)

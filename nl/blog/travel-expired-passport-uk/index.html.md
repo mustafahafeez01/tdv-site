@@ -42,6 +42,16 @@ Lijkt de tijd krap, dan is de veiligere volgorde om eerst te verlengen en pas te
 
 Een verlenging die al loopt, is een andere kwestie, en die hangt ervan af of je je oude paspoort hebt ingeleverd. Dat beantwoorden we op een eigen pagina: [of je met je oude paspoort kunt reizen terwijl de verlenging loopt](https://traveldocumentvault.com/nl/blog/travel-while-passport-renewal-pending/).
 
+## Een al verlopen Brits paspoort verlengen
+
+Een verlopen paspoort wordt verlengd, niet helemaal opnieuw aangevraagd. GOV.UK noemt een verlopen paspoort een van de twee redenen waarom je moet verlengen voordat je reist, naast onvoldoende resterende geldigheid, dus voor de meeste mensen is de standaard verlengingsservice voor volwassenen de juiste route.
+
+De uitzondering betreft oude paspoorten. Is je laatste Britse paspoort afgegeven vóór 1 januari 1994, dan vraagt HM Passport Office je in plaats daarvan een eerste paspoort voor volwassenen aan te vragen, dus het loont om de afgiftedatum te controleren voordat je begint.
+
+Je kunt online aanvragen, wat een digitale foto vereist, of met een papieren formulier, wat twee identieke afgedrukte foto's vereist. In beide gevallen stuur je je oude paspoort mee met de aanvraag. Bevat het nog een geldig visum, dan adviseert GOV.UK om het paspoort met het visum erin mee te sturen, waarna het oude paspoort aan je wordt teruggestuurd.
+
+Eén detail verrast mensen zodra het nieuwe paspoort arriveert: het heeft een ander nummer. GOV.UK raadt daarom af om reizen te boeken voordat je het nieuwe paspoort in handen hebt, en alles wat met het oude nummer is geregeld, zoals een vliegticket of een inreisautorisatie voor een ander land, moet mogelijk worden bijgewerkt. Onze gids over [het lezen van je paspoortdata](https://traveldocumentvault.com/nl/blog/how-to-read-your-passport-dates/) legt uit wat er verandert bij verlenging en wat hetzelfde blijft.
+
 ## Binnenlandse reizen: beperkte flexibiliteit met alternatieve ID
 
 Binnenlandse reizen binnen het VK en Ierland werken iets anders: luchtvaartmaatschappijen accepteren mogelijk alternatieve foto-identificatie, zoals een Brits rijbewijs of nationale identiteitskaart, in plaats van een paspoort. Wat wordt geaccepteerd, verschilt echter aanzienlijk per luchtvaartmaatschappij en bestemming, dus je kunt er niet zomaar van uitgaan dat een bepaald identiteitsbewijs zal werken.
@@ -113,6 +123,10 @@ Niet via de standaardroute van het Britse paspoortkantoor. Ben je in het buitenl
 ### Telt een beschadigd paspoort als verlopen?
 
 Nee, maar je kunt er nog steeds niet mee reizen. Een beschadigd paspoort kan door luchtvaartmaatschappijen of de grensbewaking worden geweigerd, ook als het nog niet verlopen is. Is je paspoort gescheurd, heeft het waterschade, of heeft het aanzienlijke beschadigingen op de gegevenspagina, dan is het veiliger om het te verlengen dan het risico te lopen dat je toegang tot het vliegtuig of het land wordt geweigerd.
+
+### Kan ik een Brits paspoort verlengen dat al verlopen is?
+
+Ja. GOV.UK noemt een verlopen paspoort als reden om te verlengen voordat je reist, dus de meeste mensen gebruiken de standaard verlengingsservice voor volwassenen. De uitzondering is een paspoort dat is afgegeven vóór 1 januari 1994; dan vraag je in plaats daarvan een eerste paspoort voor volwassenen aan. Je nieuwe paspoort krijgt een ander nummer, dus werk eventuele boekingen met het oude nummer bij.
 
 ## Gerelateerde artikelen
 

@@ -127,6 +127,8 @@ Source: https://traveldocumentvault.com/uk/blog/what-documents-to-carry-when-tra
 
 ## Пов'язані статті
 
+[Подорожні документи6 хв читанняНаціональна ID-картка в подорожі: коли її достатньо](https://traveldocumentvault.com/uk/blog/national-id-card-travel-europe/)
+
 [Правила паспорта8 хв читання · 1 лют 2026Правило 6 місяців для паспорта: які країни його застосовують і як ніколи не потрапити в халепу](https://traveldocumentvault.com/uk/blog/passport-expiry-6-month-rule/)
 
 [Сімейні подорожі7 хв читання · 5 лют 2026Як організувати подорожні документи родини (перед наступною поїздкою)](https://traveldocumentvault.com/uk/blog/how-to-organise-family-travel-documents/)

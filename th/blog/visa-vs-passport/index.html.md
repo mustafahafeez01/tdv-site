@@ -153,6 +153,8 @@ Source: https://traveldocumentvault.com/th/blog/visa-vs-passport/
 
 ## บทความที่เกี่ยวข้อง
 
+[เอกสารการเดินทางอ่าน 6 นาทีบัตรประชาชนใช้เดินทางในยุโรปได้แค่ไหน](https://traveldocumentvault.com/th/blog/national-id-card-travel-europe/)
+
 [พาสปอร์ตหมดอายุอ่าน 6 นาทีพาสปอร์ตหมดอายุก่อนเดินทาง ควรทำอย่างไร](https://traveldocumentvault.com/th/blog/passport-expired-what-to-do/)
 
 [กฎเรื่องอายุพาสปอร์ตอ่าน 6 นาทีพาสปอร์ตมีอายุใช้งานนานแค่ไหนสำหรับการเดินทาง](https://traveldocumentvault.com/th/blog/how-long-is-passport-valid-for-travel/)

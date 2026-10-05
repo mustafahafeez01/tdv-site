@@ -127,6 +127,8 @@ Esquecer o seu passaporte significa que não pode embarcar. Para documentos de a
 
 ## Artigos Relacionados
 
+[Documentos de Viagem6 min de leituraCartão de identidade em viagem: quando é suficiente](https://traveldocumentvault.com/pt/blog/national-id-card-travel-europe/)
+
 [Regras de Passaporte8 min de leitura · 1 fev 2026A Regra de 6 Meses do Passaporte: Quais Países a Impõem e Como Nunca Ser Apanhado de Surpresa](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/)
 
 [Viagem Familiar9 min de leitura · 8 fev 2026Como Organizar Documentos de Viagem Familiar (Sem Perder a Cabeça)](https://traveldocumentvault.com/pt/blog/how-to-organise-family-travel-documents/)

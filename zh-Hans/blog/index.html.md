@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
+[旅行证件国民身份证能当旅行证件吗？什么时候够用在欧盟和欧洲经济区内，有效的国民身份证通常就是完整的旅行证件。什么时候身份证就够用，什么时候该带护照，以及两者为何各走各的到期时钟。2026年10月5日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-europe/)
+
+##
+
 [签证要求转机需要办理过境签证吗？并非所有转机都需要办理过境签证。了解哪些中转需要签证、国籍如何影响这一规则，以及如果订票后才发现需要签证该怎么办。2026年9月28日7 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/transit-visa-connecting-flights/)
 
 ##

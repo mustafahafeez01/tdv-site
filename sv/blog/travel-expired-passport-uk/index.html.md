@@ -42,6 +42,16 @@ Ser tidsramen knapp ut är den säkrare ordningen att förnya först och boka n�
 
 En förnyelse som redan är på gång är en annan fråga, och den avgörs av om du har lämnat in det gamla passet. Det svarar vi på i en egen artikel: [om du kan resa på ditt gamla pass medan förnyelsen pågår](https://traveldocumentvault.com/sv/blog/travel-while-passport-renewal-pending/).
 
+## Att förnya ett brittiskt pass som redan har gått ut
+
+Ett utgånget pass förnyas, det börjar inte om från noll. GOV.UK listar ett utgånget pass som ett av de två skälen att förnya innan du reser, tillsammans med för kort återstående giltighetstid, så för de flesta är standardförnyelsen för vuxna rätt väg.
+
+Undantaget är gammalt. Om ditt senaste brittiska pass utfärdades före den 1 januari 1994 ber HM Passport Office dig att i stället ansöka om ett första vuxenpass, så det är värt att kontrollera utfärdandedatumet innan du börjar.
+
+Du kan ansöka online, vilket kräver ett digitalt foto, eller på en pappersblankett, vilket kräver två identiska utskrivna foton. Oavsett vilket skickar du med ditt gamla pass i ansökan. Innehåller det ett visum som fortfarande är giltigt säger GOV.UK att du ska skicka in passet med visumet kvar, och det gamla passet returneras till dig.
+
+En detalj tar folk på sängen när det nya passet anländer: **det har ett annat nummer**. GOV.UK avråder från att boka resor innan du har det nya passet i handen av just den anledningen, och allt som bokats med det gamla numret – som en flygbokning eller ett resetillstånd till ett annat land – kan behöva uppdateras. Vår guide om [att läsa passets datum](https://traveldocumentvault.com/sv/blog/how-to-read-your-passport-dates/) förklarar vad som ändras vid en förnyelse och vad som förblir detsamma.
+
 ## Inhemska resor: begränsad flexibilitet med alternativ legitimation
 
 Inhemska resor inom Storbritannien och Irland skiljer sig från internationella resor på en avgörande punkt: flygbolag kan acceptera alternativ foto-legitimation, som brittiskt körkort eller nationellt ID-kort, i stället för pass. Vad som godtas varierar dock kraftigt mellan flygbolag och destination, så du kan inte utgå från att en viss legitimation fungerar.
@@ -113,6 +123,10 @@ Inte via den vanliga brittiska passmyndighetens väg. Om du är utomlands och pa
 ### Räknas ett skadat pass som utgånget?
 
 Nej, men du kan ändå inte resa med det. Ett skadat pass kan nekas av flygbolag eller gränskontroll även om det inte har gått ut ännu. Om passet är trasigt, vattenskadat eller har betydande märken på datasidan är det säkrare att förnya det än att riskera att nekas ombordstigning eller inresa.
+
+### Kan jag förnya ett brittiskt pass som redan har gått ut?
+
+Ja. GOV.UK listar ett utgånget pass som ett skäl att förnya innan du reser, så de flesta använder standardförnyelsen för vuxna. Undantaget är ett pass utfärdat före den 1 januari 1994, vilket innebär att du i stället ansöker om ett första vuxenpass. Ditt nya pass får ett annat nummer, så uppdatera eventuella bokningar som gjorts med det gamla.
 
 ## Relaterade artiklar
 

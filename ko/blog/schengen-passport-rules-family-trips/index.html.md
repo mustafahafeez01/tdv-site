@@ -91,6 +91,8 @@ EU의 요구 사항은 정확합니다. 여권은 솅겐 지역을 떠날 날짜
 
 ## 관련 기사
 
+[여행 서류6분 읽기국민 ID 카드로 하는 여행, 어디까지 통할까](https://traveldocumentvault.com/ko/blog/national-id-card-travel-europe/)
+
 [가족 여행8분 읽기 · 2026년 8월부모 중 한 명 없이 아이가 여행할 때 챙겨야 할 서류](https://traveldocumentvault.com/ko/blog/travelling-child-without-both-parents/)
 
 [여권 규정8분 읽기 · 2026년 2월6개월 여권 규정: 어느 국가에서 적용되며 걸려들지 않는 방법](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)

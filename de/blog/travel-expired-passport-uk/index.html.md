@@ -42,6 +42,16 @@ Wenn die Zeit knapp wird, ist die sicherere Reihenfolge, zuerst zu erneuern und 
 
 Eine Erneuerung, die bereits läuft, ist eine andere Frage – sie hängt davon ab, ob Sie den alten Pass bereits abgegeben haben. Diese beantworten wir auf einer eigenen Seite: [ob Sie mit Ihrem alten Pass reisen können, während die Erneuerung noch läuft](https://traveldocumentvault.com/de/blog/travel-while-passport-renewal-pending/).
 
+## Einen bereits abgelaufenen britischen Pass erneuern
+
+Ein abgelaufener Pass wird erneuert, nicht von Grund auf neu beantragt. GOV.UK führt einen abgelaufenen Pass als einen von zwei Gründen auf, aus denen Sie vor der Reise erneuern müssen, neben zu wenig Restgültigkeit, sodass für die meisten Menschen der reguläre Erneuerungsservice für Erwachsene der richtige Weg ist.
+
+Die Ausnahme betrifft ältere Pässe. Wurde Ihr letzter britischer Pass vor dem 1. Januar 1994 ausgestellt, verlangt das HM Passport Office stattdessen einen Antrag auf einen ersten Erwachsenenpass, weshalb es sich lohnt, das Ausstellungsdatum vorab zu prüfen.
+
+Sie können online beantragen, wofür ein digitales Foto nötig ist, oder per Papierformular, wofür zwei identische ausgedruckte Fotos nötig sind. In beiden Fällen senden Sie Ihren alten Pass mit dem Antrag ein. Enthält er ein noch gültiges Visum, rät GOV.UK, den Pass mit dem angehefteten Visum einzusenden – der alte Pass wird Ihnen danach zurückgeschickt.
+
+Ein Detail überrascht viele, sobald der neue Pass ankommt: **er hat eine andere Nummer.** GOV.UK rät deshalb davon ab, Reisen zu buchen, bevor Sie den neuen Pass in Händen halten, und alles, was mit der alten Nummer erstellt wurde – etwa eine Flugbuchung oder eine Reisegenehmigung für ein anderes Land – muss möglicherweise aktualisiert werden. Unser Leitfaden zum [Lesen Ihrer Passdaten](https://traveldocumentvault.com/de/blog/how-to-read-your-passport-dates/) erklärt, was sich bei einer Erneuerung ändert und was gleich bleibt.
+
 ## Inlandverkehr: Begrenzte Flexibilität mit Alternativausweisen
 
 Inlandverkehr im UK und Irland unterscheidet sich von internationalem Verkehr in dieser wichtigen Hinsicht: Fluggesellschaften können alternative Ausweisdokumente wie einen UK-Führerschein oder Personalausweis statt eines Passes akzeptieren. Allerdings ist das, was akzeptabel ist, sehr unterschiedlich je nach Fluggesellschaft und Ziel, daher können Sie nicht davon ausgehen, dass ein bestimmter Ausweis funktioniert.
@@ -113,6 +123,10 @@ Nicht über die standardmäßige UK Passport Office Route. Wenn Sie im Ausland s
 ### Zählt ein beschädigter Pass als abgelaufen?
 
 Nein, aber Sie können trotzdem nicht damit reisen. Ein beschädigter Pass kann von Fluggesellschaften oder Grenzkontrolle abgelehnt werden, selbst wenn er noch nicht abgelaufen ist. Wenn Ihr Pass zerrissen, wasserbeschädigt oder signifikante Markierungen auf der Datenseite hat, ist es sicherer, ihn zu erneuern, anstatt zu riskieren, dass Ihnen das Boarding oder die Einreise verweigert wird.
+
+### Kann ich einen bereits abgelaufenen britischen Pass erneuern?
+
+Ja. GOV.UK führt einen abgelaufenen Pass als Grund auf, vor der Reise zu erneuern, weshalb die meisten Menschen den regulären Erneuerungsservice für Erwachsene nutzen. Die Ausnahme ist ein Pass, der vor dem 1. Januar 1994 ausgestellt wurde – dafür ist stattdessen ein Antrag auf einen ersten Erwachsenenpass nötig. Ihr neuer Pass hat eine andere Nummer, aktualisieren Sie also alle Buchungen, die mit der alten Nummer gemacht wurden.
 
 ## Verwandte Artikel
 

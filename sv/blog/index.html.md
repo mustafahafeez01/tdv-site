@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
+[ResehandlingarNationellt ID-kort för resor: när det räckerInom EU och EES är ett giltigt nationellt ID-kort oftast en fullständig resehandling. När kortet räcker, när du ska ta med passet, och varför de två följer olika utgångsklockor.5 oktober 20266 min läsning](https://traveldocumentvault.com/sv/blog/national-id-card-travel-europe/)
+
+##
+
 [VisumkravBehöver du transitvisum för en mellanlandning?Inte alla anslutningsflyg kräver transitvisum. Lär dig vilka mellanlandningar som kräver ett, hur nationaliteten påverkar regeln och vad du gör om du upptäcker att du behöver ett efter bokningen.28 september 20267 min läsning](https://traveldocumentvault.com/sv/blog/transit-visa-connecting-flights/)
 
 ##

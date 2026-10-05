@@ -127,6 +127,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/what-documents-to-carry-whe
 
 ## 相关文章
 
+[旅行证件6 分钟阅读 · 2026年10月6日国民身份证能当旅行证件吗？什么时候够用](https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-europe/)
+
 [护照规则8 分钟阅读 · 2026年2月1日六个月护照规则：哪些国家执行它以及如何永远不会被抓住](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)
 
 [家庭旅行9 分钟阅读 · 2026年2月8日如何整理家庭旅行文件（不会让您疯狂）](https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-travel-documents/)

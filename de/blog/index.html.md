@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
+[ReisedokumentePersonalausweis auf Reisen: Wann er ausreichtInnerhalb der EU und des EWR ist ein gültiger Personalausweis meist ein vollwertiges Reisedokument. Wann der Ausweis ausreicht, wann Sie den Reisepass brauchen, und warum beide Dokumente unterschiedlich schnell ablaufen.5. Oktober 20266 Min. Lesezeit](https://traveldocumentvault.com/de/blog/national-id-card-travel-europe/)
+
+##
+
 [VisabestimmungenBrauchen Sie für einen Zwischenstopp ein Transitvisum?Nicht jeder Anschlussflug braucht ein Transitvisum. Erfahren Sie, welche Zwischenstopps eines erfordern, wie die Staatsangehörigkeit die Regel verändert und was zu tun ist, wenn Sie es erst nach der Buchung bemerken.28. September 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/transit-visa-connecting-flights/)
 
 ##

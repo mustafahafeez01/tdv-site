@@ -127,6 +127,8 @@ Lupa paspor berarti Anda tidak bisa naik pesawat. Untuk dokumen pendukung yang h
 
 ## Artikel Terkait
 
+[Dokumen Perjalanan6 menit bacaKartu Identitas Nasional untuk Bepergian: Kapan Sudah Cukup](https://traveldocumentvault.com/id/blog/national-id-card-travel-europe/)
+
 [Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Negara Mana yang Menerapkannya dan Cara Menghindari Masalah](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
 
 [Perjalanan Keluarga7 menit bacaCara Mengatur Dokumen Perjalanan Keluarga (Sebelum Perjalanan Berikutnya)](https://traveldocumentvault.com/id/blog/how-to-organise-family-travel-documents/)

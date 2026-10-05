@@ -149,6 +149,8 @@ En la mayoría de los países, sí. La validez de la visa es independiente de la
 
 ## Artículos Relacionados
 
+[Documentos de Viaje6 min de lecturaDocumento de Identidad para Viajar: Cuándo Basta](https://traveldocumentvault.com/es/blog/national-id-card-travel-europe/)
+
 [Normas de Pasaporte6 min de lecturaPasaporte Caducado: Qué Hacer y Cómo Renovar](https://traveldocumentvault.com/es/blog/passport-expired-what-to-do/)
 
 [Normas de Validez6 min de lecturaCuánto Tiempo es un Pasaporte Válido para Viajar](https://traveldocumentvault.com/es/blog/how-long-is-passport-valid-for-travel/)

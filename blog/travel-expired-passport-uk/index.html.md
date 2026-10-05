@@ -44,6 +44,16 @@ If the timings look tight, the safer order is to renew first and book once the n
 
 A renewal that is already in progress is a different question, and it turns on whether you handed the old passport in. We answer that one on its own page: [whether you can travel on your old passport while renewing](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/).
 
+## Renewing a UK Passport That Has Already Expired
+
+An out-of-date passport is renewed, not started again from scratch. GOV.UK lists an expired passport as one of the two reasons you must renew before you travel, alongside not having enough time left on it, so for most people the standard adult renewal service is the route.
+
+The exception covers older passports. If your last UK passport was issued before 1 January 1994, HM Passport Office asks you to apply for a first adult passport instead, so it's worth checking the issue date before you start.
+
+You can apply online, which needs a digital photo, or on a paper form, which needs two identical printed photos. Either way you'll send your old passport with the application. If it holds a visa that's still valid, GOV.UK says to send the passport with the visa attached, and the old passport is returned to you.
+
+One detail catches people once the new passport arrives: **it has a different number**. GOV.UK advises against booking travel until you hold the new passport for that reason, and anything made with the old number, such as an airline booking or a travel authorisation for another country, may need updating. Our guide to [reading your passport dates](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/) explains what changes on renewal and what stays the same.
+
 ## Domestic Travel: Limited Flexibility with Alternative ID
 
 Domestic travel within the UK and Ireland works a little differently: airlines may accept alternative photo identification like a UK driving licence or national ID card in place of a passport. What's acceptable varies significantly by airline and destination, though, so you can't assume any particular ID will work.
@@ -115,6 +125,10 @@ Not through the standard UK Passport Office route. If you are abroad and your pa
 ### Does a damaged passport count as expired?
 
 No, but you still cannot travel with it. A damaged passport may be rejected by airlines or border control even if it is not yet expired. If your passport is torn, water-damaged, or has significant marks on the data page, it is safer to renew it rather than risk being refused boarding or entry.
+
+### Can I renew a UK passport that has already expired?
+
+Yes. GOV.UK lists an expired passport as a reason to renew before you travel, so most people use the standard adult renewal service. The exception is a passport issued before 1 January 1994, which means applying for a first adult passport instead. Your new passport will have a different number, so update any bookings made with the old one.
 
 ## Related Articles
 

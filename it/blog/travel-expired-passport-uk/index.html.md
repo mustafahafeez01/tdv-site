@@ -42,6 +42,16 @@ Se i tempi sembrano stretti, l'ordine più sicuro è rinnovare prima e prenotare
 
 Un rinnovo già in corso è una questione diversa, e dipende dal fatto che abbia consegnato o meno il vecchio passaporto. Rispondiamo a questo punto in una pagina dedicata: [se può viaggiare con il vecchio passaporto mentre è in corso il rinnovo](https://traveldocumentvault.com/it/blog/travel-while-passport-renewal-pending/).
 
+## Rinnovare un passaporto del Regno Unito già scaduto
+
+Un passaporto scaduto si rinnova, non si ricomincia da zero. GOV.UK elenca il passaporto scaduto come uno dei due motivi per cui deve rinnovare prima di viaggiare, insieme al non avere abbastanza validità residua, quindi per la maggior parte delle persone il percorso è il normale servizio di rinnovo per adulti.
+
+L'eccezione riguarda i passaporti più vecchi. Se il suo ultimo passaporto britannico è stato rilasciato prima del 1° gennaio 1994, l'ufficio passaporti britannico (HM Passport Office) le chiede di fare domanda per un primo passaporto da adulto invece che per un rinnovo, quindi vale la pena controllare la data di rilascio prima di iniziare.
+
+Può fare domanda online, che richiede una foto digitale, oppure su modulo cartaceo, che richiede due foto stampate identiche. In entrambi i casi dovrà inviare il vecchio passaporto insieme alla domanda. Se contiene un visto ancora valido, GOV.UK indica di inviare il passaporto con il visto allegato, e il vecchio passaporto le verrà restituito.
+
+Un dettaglio che coglie di sorpresa molti una volta arrivato il nuovo passaporto: ha un numero diverso. Per questo motivo GOV.UK sconsiglia di prenotare viaggi finché non ha in mano il nuovo passaporto, e qualsiasi cosa prenotata con il vecchio numero, come una prenotazione aerea o un'autorizzazione di viaggio per un altro paese, potrebbe dover essere aggiornata. La nostra guida su [come leggere le date del suo passaporto](https://traveldocumentvault.com/it/blog/how-to-read-your-passport-dates/) spiega cosa cambia con il rinnovo e cosa resta uguale.
+
 ## Viaggi nazionali: Flessibilità limitata con documenti di identità alternativi
 
 I viaggi nazionali all'interno del Regno Unito e dell'Irlanda differiscono dai viaggi internazionali in questo aspetto fondamentale: le compagnie aeree possono accettare documenti di identità fotografica alternativi come una patente di guida britannica o una carta d'identità nazionale al posto del passaporto. Tuttavia, ciò che è accettabile varia significativamente da compagnia a compagnia e destinazione, quindi non può presumere che un particolare documento di identità funzionerà.
@@ -113,6 +123,10 @@ Non attraverso il percorso standard dell'Ufficio passaporti del Regno Unito. Se 
 ### Un passaporto danneggiato conta come scaduto?
 
 No, ma comunque non può viaggiare con esso. Un passaporto danneggiato può essere rifiutato dalle compagnie aeree o dal controllo alle frontiere anche se non è ancora scaduto. Se il suo passaporto è strappato, danneggiato dall'acqua, o ha segni significativi sulla pagina dati, è più sicuro rinnovarlo piuttosto che rischiare di essere rifiutato per l'imbarco o l'ingresso.
+
+### Può rinnovare un passaporto del Regno Unito già scaduto?
+
+Sì. GOV.UK elenca il passaporto scaduto come motivo per rinnovare prima di viaggiare, quindi la maggior parte delle persone utilizza il normale servizio di rinnovo per adulti. L'eccezione è un passaporto rilasciato prima del 1° gennaio 1994, nel qual caso deve fare domanda per un primo passaporto da adulto. Il nuovo passaporto avrà un numero diverso, quindi aggiorni eventuali prenotazioni fatte con quello vecchio.
 
 ## Articoli correlati
 

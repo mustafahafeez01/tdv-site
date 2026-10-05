@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
+[Dokumen PerjalananKartu Identitas Nasional untuk Bepergian: Kapan Sudah CukupDi dalam UE dan EEA, kartu identitas nasional yang masih berlaku biasanya merupakan dokumen perjalanan yang lengkap. Kapan kartu itu cukup, kapan Anda perlu membawa paspor, dan mengapa keduanya berjalan pada siklus kedaluwarsa yang berbeda.5 Oktober 20266 menit baca](https://traveldocumentvault.com/id/blog/national-id-card-travel-europe/)
+
+##
+
 [Persyaratan VisaApakah Anda Perlu Visa Transit untuk Layover?Tidak semua penerbangan lanjutan membutuhkan visa transit. Pelajari kapan diperlukan, bagaimana kewarganegaraan memengaruhi aturan, dan langkah yang harus diambil jika baru menyadarinya setelah memesan.28 September 20267 menit baca](https://traveldocumentvault.com/id/blog/transit-visa-connecting-flights/)
 
 ##

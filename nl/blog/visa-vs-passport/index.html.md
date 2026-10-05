@@ -153,6 +153,8 @@ In de meeste landen wel. De geldigheid van je visum staat los van de geldigheid 
 
 ## Gerelateerde artikelen
 
+[Reisdocumenten6 min leestijdNationale ID-kaart voor reizen: wanneer volstaat die?](https://traveldocumentvault.com/nl/blog/national-id-card-travel-europe/)
+
 [Reisnoodgevallen7 min leestijd · juli 2026Kun je reizen met een beschadigd paspoort?](https://traveldocumentvault.com/nl/blog/damaged-passport-travel/)
 
 [Gezinsreizen7 min leestijd · juli 2026Beheer van familiepaspoorten: Bewaar meerdere paspoorten veilig](https://traveldocumentvault.com/nl/blog/family-passport-management/)

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/it/blog/
 
 ##
 
+[Documenti di ViaggioCarta d'identità per viaggiare: quando bastaAll'interno dell'UE e del SEE, una carta d'identità valida è di norma un documento di viaggio a tutti gli effetti. Quando la carta basta, quando serve il passaporto, e perché i due documenti scadono secondo orologi diversi.5 ottobre 20266 min di lettura](https://traveldocumentvault.com/it/blog/national-id-card-travel-europe/)
+
+##
+
 [Requisiti del vistoServe un visto di transito per uno scalo?Non tutti i voli in coincidenza richiedono un visto di transito. Scopri quali scali lo richiedono, come la nazionalità cambia la regola e cosa fare se te ne accorgi dopo aver prenotato.28 settembre 20267 min di lettura](https://traveldocumentvault.com/it/blog/transit-visa-connecting-flights/)
 
 ##

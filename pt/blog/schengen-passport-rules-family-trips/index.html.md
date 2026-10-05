@@ -91,6 +91,8 @@ As companhias aéreas verificam cada passaporte contra a base de dados Timatic d
 
 ## Artigos Relacionados
 
+[Documentos de Viagem6 min de leituraCartão de identidade em viagem: quando é suficiente](https://traveldocumentvault.com/pt/blog/national-id-card-travel-europe/)
+
 [Viagem em Família8 min de leitura - Agosto de 2026Viajar com um Filho Sem os Dois Pais: O Que Levar](https://traveldocumentvault.com/pt/blog/travelling-child-without-both-parents/)
 
 [Regras de Passaporte8 min de leitura - Fevereiro de 2026A Regra dos 6 Meses de Passaporte: Quais Países a Aplicam e Como Nunca Ficar Apanhado de Surpresa](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/)

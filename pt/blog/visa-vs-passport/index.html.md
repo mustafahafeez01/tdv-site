@@ -149,6 +149,8 @@ Na maioria dos países, sim. A validade do visto é separada da validade do pass
 
 ## Artigos Relacionados
 
+[Documentos de Viagem6 min de leituraCartão de identidade em viagem: quando é suficiente](https://traveldocumentvault.com/pt/blog/national-id-card-travel-europe/)
+
 [Regras de Passaporte6 min de leituraPassaporte Expirado: O Que Fazer e Como Renovar](https://traveldocumentvault.com/pt/blog/passport-expired-what-to-do/)
 
 [Regras de Validade6 min de leituraPor Quanto Tempo Um Passaporte é Válido Para Viajar](https://traveldocumentvault.com/pt/blog/how-long-is-passport-valid-for-travel/)

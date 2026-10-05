@@ -42,6 +42,16 @@ Ser tidsrammen stram ud, er den sikreste rækkefølge at forny først og booke, 
 
 Er en fornyelse allerede sat i gang, er det et andet spørgsmål – og det afhænger af, om du har afleveret det gamle pas. Det svarer vi på i en artikel for sig: [om du kan rejse på dit gamle pas, mens fornyelsen står på](https://traveldocumentvault.com/da/blog/travel-while-passport-renewal-pending/).
 
+## Forny et britisk pas, der allerede er udløbet
+
+Et udløbet pas fornyes – det startes ikke forfra. GOV.UK nævner et udløbet pas som en af de to grunde til, at du skal forny, før du rejser, sammen med for lidt gyldighed tilbage, så for de fleste er den almindelige fornyelsesservice for voksne vejen frem.
+
+Undtagelsen er en gammel regel. Blev dit seneste britiske pas udstedt før den 1. januar 1994, beder HM Passport Office dig i stedet søge om et første voksenpas, så det er værd at tjekke udstedelsesdatoen, før du går i gang.
+
+Du kan søge online, hvilket kræver et digitalt foto, eller på en papirblanket, som kræver to identiske, printede fotos. Uanset hvad sender du dit gamle pas med ansøgningen. Indeholder det et visum, der stadig er gyldigt, anbefaler GOV.UK at sende passet med visummet siddende i, og det gamle pas bliver returneret til dig.
+
+Én detalje overrasker folk, når det nye pas ankommer: **det har et andet nummer**. Derfor fraråder GOV.UK at booke rejser, før du har det nye pas i hånden, og alt, der er bestilt med det gamle nummer – som en flybooking eller en rejsetilladelse til et andet land – kan skulle opdateres. Vores guide om [at læse dine pasdatoer](https://traveldocumentvault.com/da/blog/how-to-read-your-passport-dates/) forklarer, hvad der ændrer sig ved fornyelse, og hvad der forbliver det samme.
+
 ## Indenrigsrejser: begrænset fleksibilitet med alternativ legitimation
 
 Indenrigsrejser i Storbritannien og Irland fungerer lidt anderledes: flyselskaber kan acceptere alternativ foto-legitimation som et britisk kørekort eller nationalt ID-kort i stedet for et pas. Hvad der accepteres, varierer dog betydeligt mellem flyselskaber og destinationer, så du kan ikke gå ud fra, at en bestemt legitimation vil virke.
@@ -113,6 +123,10 @@ Ikke via den almindelige britiske pasmyndigheds kanal. Er du i udlandet, og dit 
 ### Tæller et beskadiget pas som udløbet?
 
 Nej, men du kan stadig ikke rejse med det. Et beskadiget pas kan blive afvist af flyselskaber eller grænsekontrol, selvom det endnu ikke er udløbet. Er dit pas iturevet, vandskadet eller har betydelige mærker på datasiden, er det sikrere at forny det end at risikere at blive nægtet ombordstigning eller indrejse.
+
+### Kan jeg forny et britisk pas, der allerede er udløbet?
+
+Ja. GOV.UK nævner et udløbet pas som en grund til at forny, før du rejser, så de fleste bruger den almindelige fornyelsesservice for voksne. Undtagelsen er et pas udstedt før den 1. januar 1994, hvor du i stedet skal søge om et første voksenpas. Dit nye pas får et andet nummer, så opdater eventuelle bookinger foretaget med det gamle.
 
 ## Relaterede artikler
 

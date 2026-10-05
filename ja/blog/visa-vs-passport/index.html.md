@@ -149,6 +149,8 @@ Source: https://traveldocumentvault.com/ja/blog/visa-vs-passport/
 
 ## 関連記事
 
+[旅行書類6 分読み国民IDカードでの渡航:それで十分な場合](https://traveldocumentvault.com/ja/blog/national-id-card-travel-europe/)
+
 [パスポート規則6 分読みパスポートの有効期限が切れた。行う方法と更新する方法](https://traveldocumentvault.com/ja/blog/passport-expired-what-to-do/)
 
 [有効期限規則6 分読みパスポートは旅行に対してどのくらい有効ですか](https://traveldocumentvault.com/ja/blog/how-long-is-passport-valid-for-travel/)

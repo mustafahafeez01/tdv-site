@@ -153,6 +153,8 @@ Source: https://traveldocumentvault.com/uk/blog/visa-vs-passport/
 
 ## Пов'язані статті
 
+[Подорожні документи6 хв читанняНаціональна ID-картка в подорожі: коли її достатньо](https://traveldocumentvault.com/uk/blog/national-id-card-travel-europe/)
+
 [Надзвичайна ситуація в подорожі7 хв читанняЧи можна подорожувати з пошкодженим паспортом?](https://traveldocumentvault.com/uk/blog/damaged-passport-travel/)
 
 [Сімейні документи7 хв читанняУправління паспортами сім'ї: безпечне зберігання декількох паспортів](https://traveldocumentvault.com/uk/blog/family-passport-management/)
