@@ -36,7 +36,7 @@ Averigua si tu nacionalidad de pasaporte requiere visado para entrada, tránsito
 
 Reserva el seguro de viaje cuando reservas vuelos, no una semana antes de la salida. El seguro contratado después de que ya hayas identificado un riesgo puede excluir ese problema específico. Asegúrate de que la póliza cubre todos los viajeros, todos los destinos y las actividades que planeas hacer.
 
-## Tres meses antes: Renovación y ventanas de visado
+## Tres meses antes: si la renovación o un visado están cerca, empieza ya
 
 En este punto todavía tienes tiempo para arreglarlo. Los tiempos de renovación cambian, y cada autoridad publica su propia cifra actualizada: el Departamento de Estado de EE.UU., el HM Passport Office y la Oficina de Pasaportes Australiana. Siempre verifica el sitio oficial para los tiempos actuales antes de solicitar.
 
@@ -73,7 +73,9 @@ Para viajeros de negocio: si tienes dos pasaportes, confirma cuál pasaporte tie
 
 ## La noche anterior: Confirmación final
 
-Estas son confirmaciones, no descubrimientos. Si algo falta ahora, tienes horas para arreglarlo, no semanas.
+Estas son confirmaciones, no descubrimientos.
+
+Si algo falta ahora, tienes horas para arreglarlo, no semanas.
 
 ### Noche anterior
 
@@ -93,9 +95,9 @@ Antes de salir de casa, toma una foto de cada documento y guárdala en una aplic
 
 **Travel Document Vault** almacena copias cifradas de cada documento en esta lista —organizado por miembro de la familia, con recordatorios de caducidad automáticos. Escanea una vez, nunca te apures de nuevo. [Descargar en App Store.](https://apps.apple.com/es/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
-## Lista de verificación por tipo de viaje
+## Cómo cambia tu lista de documentos según el tipo de viaje
 
-Los diferentes viajes necesitan diferentes conjuntos de documentos.
+Los diferentes viajes necesitan diferentes conjuntos de documentos, como muestra la tabla de abajo para viajes en solitario, en familia y de negocios.
 
 | Documento | Solo | Familia | Negocio | Notas |
 |---|---|---|---|---|
@@ -106,6 +108,8 @@ Los diferentes viajes necesitan diferentes conjuntos de documentos.
 | Carta de consentimiento de menores | N/A | ✅ si corresponde | N/A | Requerida en muchos países si uno de los progenitores está ausente |
 | Certificados de nacimiento | N/A | ✅ si se requiere | N/A | Algunos países requieren para menores menores de 18 años |
 | Carta de autorización de trabajo | N/A | N/A | ✅ si se requiere | Algunos destinos requieren cartas del empleador para viajeros de negocio |
+
+Si ya tienes un viaje reservado, lo más útil que puedes hacer hoy es sacar cada pasaporte implicado y comprobar su fecha de caducidad frente al requisito del destino, no solo frente a las fechas de tu viaje.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

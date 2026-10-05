@@ -29,15 +29,17 @@ La distinction clé — celle que la plupart des critiques passent sous silence 
 - **Stockage sur l'appareil :** Vos scans de passeport et les détails sont stockés chiffrés sur votre téléphone. L'entreprise de l'application ne peut pas y accéder. Il n'y a pas de compte à violer. Si vous perdez votre téléphone, une nouvelle installation ne restaure pas automatiquement vos données (bien que vous puissiez sauvegarder via iCloud ou localement).
 - **Stockage cloud :** Vos scans téléchargent sur un serveur. Vous pouvez accéder à partir de plusieurs appareils et restaurer facilement. Mais vous confiez la sécurité des serveurs de l'entreprise et leur plan de réponse aux violations à vos données de passeport.
 
-Aucune des deux approches n'est universellement "incorrecte", mais pour les documents d'identité aussi sensibles que les passeports, le modèle sur l'appareil est significativement plus sûr. Une violation d'une application sur l'appareil ne divulgue rien de leurs serveurs — il n'y a rien à divulguer.
+Aucune des deux approches n'est universellement "incorrecte", mais pour les documents d'identité aussi sensibles que les passeports, le modèle sur l'appareil est significativement plus sûr.
 
-## Les fonctionnalités qui comptent vraiment
+Une violation d'une application sur l'appareil ne divulgue rien de leurs serveurs — il n'y a rien à divulguer.
 
-### Rappels d'expiration avec délai personnalisable
+## Ces fonctionnalités décident si l'application mérite sa place
+
+### Le délai de rappel est le réglage à personnaliser
 
 C'est la seule fonctionnalité la plus précieuse. Un rappel à 6 mois est le minimum — de nombreux pays exigent la validité du passeport pendant au moins 6 mois au-delà de vos dates de voyage, comme expliqué dans notre article sur la [règle des 6 mois du passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/). Pour les familles avec des enfants dont les passeports expirent après 5 ans plutôt que 10, un rappel antérieur — disons 9 mois — offre un temps de planification plus confortable.
 
-### Stocker en toute sécurité les passeports de plusieurs membres de la famille dans une seule application
+### Une seule application peut réunir toute la famille, en toute sécurité
 
 Une famille de quatre ne veut pas quatre applications distinctes. Les meilleures applications d'organisation des passeports traitent chaque personne comme un profil séparé, avec ses propres documents, dates d'expiration et rappels. Cela semble évident mais un nombre surprenant d'applications sont construites autour des documents d'une seule personne.
 
@@ -45,15 +47,15 @@ Cela n'est vrai que si l'application garde tout sur l'appareil et derrière un v
 
 Si ce qu'il vous faut vraiment, c'est un système pour tout le foyer plutôt qu'une simple sélection d'applications, nous détaillons [comment stocker en toute sécurité les passeports de plusieurs membres de la famille](https://traveldocumentvault.com/fr/blog/family-passport-management/) dans cet article dédié.
 
-### Accès hors ligne
+### L'accès hors ligne n'est pas optionnel
 
 Vous avez besoin de vos détails de passeport aux moments précis où l'accès à Internet est peu fiable : frontières internationales, zones de transit, zones rurales, ou après la perte de votre SIM à l'étranger. Si l'application nécessite une connexion réseau pour afficher vos documents, elle échoue au moment le plus critique.
 
-### Couverture des types de documents
+### Une bonne application doit couvrir plus que les seuls passeports
 
 Les passeports sont le point de départ évident, mais un bon organiseur gère aussi les visas (qui expirent indépendamment de votre passeport), les cartes d'identité nationales, l'assurance voyage, les dossiers de vaccination, les permis de conduire et — pour les familles — les lettres de consentement aux voyages pour enfants. Plus l'application supporte de types de documents, moins vous avez besoin d'applications.
 
-### Modèle de confidentialité
+### Une politique de confidentialité floue est rédhibitoire
 
 Avant de télécharger, demandez-vous si l'application nécessite un compte, télécharge les scans sur un serveur ou dispose d'une politique de confidentialité claire divulguant les données qu'elle collecte. Les applications qui sont gratuites et qui s'appuient sur la publicité ne sont généralement pas appropriées pour stocker les documents d'identité — les données sont le produit.
 
@@ -72,7 +74,7 @@ Ce que cela signifie en pratique
 
 Vous êtes à un poste frontalier, téléphone hors ligne, et l'agent d'immigration vous demande de voir vos détails de visa. Une application qui nécessite une connexion Internet échoue complètement — vous ne pouvez pas accéder à vos documents. Une application sur l'appareil, sans compte, fonctionne parfaitement. C'est exactement quand vous avez besoin que l'application fonctionne.
 
-## Achat unique par rapport à l'abonnement
+## Vérifiez ce qu'il advient de vos documents si un abonnement prend fin
 
 Il y a un argument pratique en faveur des applications d'achat unique par rapport aux abonnements en ce qui concerne le stockage de documents. Si vous oubliez de renouveler un abonnement — ou décidez simplement d'annuler — vous perdez l'accès à vos documents stockés. C'est un arrangement risqué pour quelque chose dont vous pourriez avoir besoin dans des années.
 
@@ -97,6 +99,8 @@ Lors de l'évaluation de toute application d'organisation des passeports, posez-
 - Les données sont-elles chiffrées au repos sur l'appareil ?
 
 Si neuf de ces réponses sont "oui", vous avez une application véritablement fiable. Pour chaque "non", évaluez si ce compromis vous importe. Pour plus sur l'organisation des documents, consultez notre [blog](https://traveldocumentvault.com/fr/blog/) pour des conseils sur ce qu'il faut stocker et quand.
+
+Ouvrez l'application que vous envisagez réellement et passez-la en revue avec cette liste avant de numériser la moindre page de passeport.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 

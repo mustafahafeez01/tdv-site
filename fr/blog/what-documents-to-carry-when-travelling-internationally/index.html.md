@@ -20,9 +20,9 @@ Les voyageurs découvrent souvent qu'ils ont oublié des lettres de consentement
 
 Pour la liste de contrôle complète de tous les documents dont vous pourriez avoir besoin selon le type de voyage et l'étape, voir [la liste de contrôle complète des documents de voyage](https://traveldocumentvault.com/fr/blog/travel-document-checklist/). Cet article explore ce qui est oublié et comment se préparer à la perte de documents à l'étranger.
 
-## Les Documents que les Gens Oublient Couramment
+## Cinq documents que l'on oublie une fois le passeport dans le sac
 
-Votre passeport et visa semblent urgents, donc ils sont emballés en premier. Mais les agents d'immigration à la porte vérifient cinq autres documents que la plupart des gens oublient.
+Votre passeport et visa semblent urgents, donc ils sont emballés en premier. Les cinq documents que l'on oublie vraiment viennent après : preuve de voyage ultérieur, confirmations d'hébergement, certificats de vaccination, détails de l'assurance et lettre de consentement pour un enfant.
 
 ### Preuve de voyage ultérieur
 
@@ -42,7 +42,9 @@ Vous aurez besoin d'un accès immédiat à votre numéro de police, aux coordonn
 
 ### Lettres de consentement pour enfants
 
-Lorsqu'un enfant voyage à l'international avec un seul parent (ou sans aucun parent), de nombreux pays s'attendent à un consentement écrit du parent absent, et la notarisation est fortement recommandée. Les agents des frontières dans des pays comme le Canada et l'Afrique du Sud demandent régulièrement une telle lettre, et le personnel de l'aéroport peut refuser l'embarquement sans cela. C'est le document le plus couramment oublié dans les voyages en famille, alors vérifiez-le bien avant d'atteindre la porte d'embarquement.
+Lorsqu'un enfant voyage à l'international avec un seul parent (ou sans aucun parent), de nombreux pays s'attendent à un consentement écrit du parent absent, et la notarisation est fortement recommandée. Les agents des frontières dans des pays comme le Canada et l'Afrique du Sud demandent régulièrement une telle lettre, et le personnel de l'aéroport peut refuser l'embarquement sans cela.
+
+C'est le document le plus couramment oublié dans les voyages en famille, alors vérifiez-le bien avant d'atteindre la porte d'embarquement.
 
 ## Ce qu'il Faut Conserver par Rapport à Ce qu'il Faut Stocker Numériquement
 
@@ -81,13 +83,13 @@ Détails spécifiques à avoir à portée de main, à la fois sur papier et num�
 - Limites de couverture pour l'évacuation médicale, généralement listées séparément de la couverture médicale générale
 - Exclusions ou conditions qui s'appliquent à votre voyage
 
-Le numéro d'urgence doit être enregistré dans vos contacts téléphoniques séparément des documents physiques. Si votre sac se perd ou se fait voler, cela vous permet d'accéder à l'aide sans votre document de police physique.
+Nous enregistrerions le numéro d'urgence dans vos contacts téléphoniques, séparément des documents physiques. Si votre sac se perd ou se fait voler, cela vous permet d'accéder à l'aide sans votre document de police physique.
 
 ## Ce que les Familles avec Enfants Doivent Ajouter
 
 Chaque enfant a besoin de son propre passeport pour les voyages internationaux, quel que soit son âge. De nombreux pays scrutent également étroitement les voyages d'enfants pour se protéger contre l'enlèvement parental, donc attendez-vous à des questions supplémentaires lorsqu'un enfant voyage avec un seul parent.
 
-**Lettre de consentement pour enfant :** Si un enfant voyage à l'international avec un seul parent, de nombreux agents des frontières demanderont un consentement écrit du parent absent, de préférence notarié. Si vous voyagez sans aucun parent (avec les grands-parents, par exemple), le consentement des deux parents est généralement requis. Les exigences changent et varient selon la nationalité, donc vérifiez auprès de l'autorité officielle d'immigration de votre destination.
+La même règle s'applique ici : quand un enfant voyage à l'international avec un seul parent, de nombreux agents des frontières demanderont un consentement écrit du parent absent, de préférence notarié. Si vous voyagez sans aucun parent (avec les grands-parents, par exemple), le consentement des deux parents est généralement requis. Les exigences changent et varient selon la nationalité, donc vérifiez auprès de l'autorité officielle d'immigration de votre destination.
 
 Une lettre de consentement doit généralement inclure le nom complet de l'enfant et sa date de naissance, les détails du passeport, les dates et destinations du voyage, ainsi que les coordonnées du ou des parents absents. Certaines destinations ont des modèles spécifiques ; le gouvernement canadien, par exemple, fournit un modèle de format de lettre de consentement.
 
@@ -95,11 +97,13 @@ Ce que cela signifie en pratique
 
 Vous embarquez sur un vol vers le Canada avec votre enfant de 8 ans et votre partenaire ne voyage pas. Le personnel d'enregistrement peut refuser d'embarquer votre enfant si vous ne pouvez pas montrer le consentement écrit de votre partenaire absent, de préférence notarié. Si votre enfant voyage avec ses grands-parents au lieu de vous, les deux parents doivent généralement signer la lettre de consentement — l'autorisation d'un seul parent généralement ne suffit pas. Vérifiez toujours les exigences exactes pour votre destination bien avant votre date de départ.
 
-## Le Cas des Copies Numériques Hors Ligne
+## Gardez une sauvegarde hors ligne qui ne voyage pas dans votre sac
 
 Les documents physiques aident jusqu'à ce qu'un voleur prenne votre sac — et prend généralement les copies avec les originaux. Une sauvegarde chiffrée séparée sur votre téléphone — conservée hors ligne — est votre véritable assurance si les originaux disparaissent.
 
 Lorsque votre ambassade doit émettre un document de voyage d'urgence, une sauvegarde sécurisée lui donne instantanément votre numéro de passeport, date d'émission, lieu d'émission et date d'expiration, sans accès à Internet. Pour plus d'informations sur les options disponibles, voir notre aperçu de [comment stocker les copies de passeport en toute sécurité](https://traveldocumentvault.com/fr/blog/is-it-safe-to-store-passport-in-google-photos/) et les compromis entre les différentes approches.
+
+Choisissez le document de cette liste que vous n'avez pas encore sauvegardé, qu'il s'agisse de votre lettre de consentement, du numéro de votre police d'assurance ou de la page d'identité de votre passeport, et enregistrez-en une copie chiffrée, hors ligne, sur votre téléphone avant votre prochain voyage.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 

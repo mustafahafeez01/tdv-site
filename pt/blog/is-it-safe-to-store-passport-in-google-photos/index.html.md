@@ -33,7 +33,9 @@ Antes de falarmos de risco, vamos ser específicos sobre o que está realmente n
 - A sua fotografia
 - A zona legível por máquina (MRZ) — as duas linhas de texto na parte inferior que codificam tudo o acima mencionado num formato padrão
 
-Isto é muita informação pessoal numa única imagem. O seu nome, data de nascimento e número de passaporte, em conjunto, são suficientes para tentar fraude de identidade, executar um ataque de phishing convincente utilizando os seus detalhes reais, ou abrir crédito em seu nome em algumas jurisdições. **A fotografia torna-o ainda mais útil para alguém que não deveria ter.**
+Isto é muita informação pessoal numa única imagem. O seu nome, data de nascimento e número de passaporte, em conjunto, são suficientes para tentar fraude de identidade, executar um ataque de phishing convincente utilizando os seus detalhes reais, ou abrir crédito em seu nome em algumas jurisdições.
+
+A fotografia torna-o ainda mais útil para alguém que não deveria ter.
 
 ## Quais São os Riscos Reais do Armazenamento no Google Photos?
 
@@ -41,7 +43,7 @@ Os riscos não são realmente sobre o Google fazer algo sinistro. São mais mund
 
 **Compromisso da conta**
 
-Alguém entra na sua conta do Google — através de phishing, uma palavra-passe reutilizada de outra violação, ou apenas uma palavra-passe fraca — e tem acesso a tudo: todas as fotos, todos os documentos, tudo no Google Drive. Esta é a ameaça real mais provável para a maioria das pessoas, e é exatamente por isso que a segurança da foto de passaporte importa mais do que a maioria das pessoas realiza.
+Alguém entra na sua conta do Google — através de phishing, uma palavra-passe reutilizada de outra violação, ou apenas uma palavra-passe fraca — e tem acesso a tudo: todas as fotos, todos os documentos, tudo no Google Drive. Esta é a ameaça real mais provável para a maioria das pessoas, e é exatamente por isso que a segurança da foto de passaporte importa mais do que a maioria das pessoas realiza. Nós trataríamos qualquer palavra-passe reutilizada em mais do que um site como já comprometida.
 
 **Acesso partilhado**
 
@@ -103,7 +105,7 @@ Aplicações construídas especificamente para isto — como [Travel Document Va
 
 Tresorit e Proton Drive oferecem encriptação do lado do cliente para armazenamento de nuvem. Como gestores de palavras-passe, o fornecedor não consegue ler os seus ficheiros. Obtém conveniência de nuvem com segurança de fotografia de passaporte substancialmente mais forte do que Google Photos.
 
-## Boas Práticas Se Continuar a Usar o Google Photos
+## Se Vai Continuar no Google Photos, a Autenticação de Dois Fatores Faz Quase Todo o Trabalho
 
 Muitas pessoas continuarão a usar o Google Photos para isto — a conveniência é real. Se for esse o seu caso, estes passos realmente movem a agulha no risco:
 
@@ -114,6 +116,8 @@ Muitas pessoas continuarão a usar o Google Photos para isto — a conveniência
 - **Crie um álbum privado para documentos sensíveis** em vez de deixá-los soltos no seu fluxo de fotos principal. Não vai parar uma violação, mas reduz exposição acidental quando alguém está a olhar por cima do seu ombro.
 
 Para uma vista mais ampla sobre manter os seus documentos de viagem organizados e seguros, consulte as nossas [dicas de documentos de viagem](https://traveldocumentvault.com/pt/blog/) no blog — incluindo um guia prático sobre [como organizar documentos de viagem familiares](https://traveldocumentvault.com/pt/blog/how-to-organise-family-travel-documents/) antes da sua próxima viagem.
+
+Abra hoje as definições de segurança da sua conta do Google, ative a autenticação de dois fatores se ainda não estiver ativa e troque qualquer palavra-passe que tenha usado noutro sítio. É a alteração com mais probabilidade de manter esta digitalização, e tudo o resto na sua conta, longe de mãos alheias.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

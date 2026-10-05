@@ -12,9 +12,9 @@ Source: https://traveldocumentvault.com/da/blog/etias-documents-2026/
 
 - **ETIAS er en digital rejsetilladelse** for rejsende fra Storbritannien, USA og Canada – nødvendig for visumfri indrejse i Schengenområdet, når den bliver obligatorisk
 - **Du skal have et pas, der er gyldigt i mindst 3 måneder** efter din afrejsedato, samt en e-mailadresse for at ansøge
-- **Sagsbehandlingstiden varierer,** især kort efter lanceringen; ansøg i god tid før din rejse, og tjek EU's officielle hjemmeside for aktuel vejledning
-- **Tjek EU's officielle hjemmeside for det aktuelle gebyr;** personer under 18 og over 70 år betaler ikke, men skal stadig have tilladelse
-- **Almindelige afvisninger skyldes udeholdte strafferetlige domme eller tidligere overskridelser af opholdstiden – planlæg derefter**
+- Sagsbehandlingstiden varierer, især kort efter lanceringen; **ansøg i god tid før din rejse**, og tjek EU's officielle hjemmeside for aktuel vejledning
+- Tjek EU's officielle hjemmeside for det aktuelle gebyr; **personer under 18 og over 70 år betaler ikke**, men skal stadig have tilladelse
+- **Almindelige afvisninger skyldes udeholdte strafferetlige domme eller tidligere overskridelser af opholdstiden, så oplys alt, også hvis det er gammelt**
 
 Du har booket en familierejse til Italien og har hørt, at ETIAS er på vej – et nyt krav om digital tilladelse for visumfrie besøgende, der rejser til Europa. Denne guide forklarer, hvad ETIAS er, hvilke dokumenter du skal bruge, og hvordan ansøgningen fungerer, så du er forberedt, før du når formularen.
 
@@ -26,9 +26,9 @@ ETIAS er et digitalt tilladelsessystem, der skal styrke grænsesikkerheden og re
 
 Har du allerede et visum, fx et Schengen-langtidsvisum, et britisk familievisum eller en anden opholdstilladelse, skal du ikke bruge ETIAS – det gælder heller ikke EU-borgere eller statsborgere fra Norge, Island og Liechtenstein. Børn under 18 år og voksne over 70 år er fritaget for gebyret, men skal stadig have tilladelse uden beregning.
 
-**ETIAS berører** mange forskellige rejsende: individuelle feriegæster, familier, der søger separat for hvert medlem, og digitale nomader, der planlægger gentagne korte ophold. Husk, at hver person i familien skal have sin egen ETIAS-ansøgning – også børn og ældre, som skal have tilladelse, selvom de er fritaget for gebyret.
+**ETIAS berører** mange forskellige rejsende: individuelle feriegæster, familier, der søger separat for hvert medlem, og digitale nomader, der planlægger gentagne korte ophold. Husk, at hver person i familien skal have sin egen ETIAS-ansøgning – også børn og ældre, som skal have tilladelse, selvom de er fritaget for gebyret. Har din familie en blanding af visa og visumfritagne pas, så se ETIAS som et spørgsmål for hver enkelt person, ikke for hele bookingen.
 
-## Krævede dokumenter og oplysninger til din ansøgning
+## Tjek først dit pas' tremåneders margin
 
 I modsætning til traditionelle visa kræver ETIAS ingen fysiske dokumenter – du ansøger udelukkende online. Du skal dog have visse oplysninger klar, før du går i gang med ansøgningsformularen.
 
@@ -40,11 +40,11 @@ Under ansøgningen skal du oplyse din **rejsehistorik**, herunder eventuelle tid
 
 ETIAS vil bede om **sikkerheds- og personoplysninger** – dit fulde navn, fødselsdato, fødested, nationalitet og kontaktoplysninger – samt spørgsmål om eventuelle strafferetlige domme eller tidligere overskridelser af visumopholdstiden. Ærlighed betyder noget her: falske oplysninger giver grundlag for permanent afvisning og kan udløse udvisningsforbud.
 
-**Indkomstbevis** er valgfrit – seneste lønsedler, kontoudtog eller årsopgørelser tæller alle med. EU-Kommissionen kræver det ikke, men at inkludere det kan styrke en tvivlsom ansøgning og mindske risikoen for afvisning.
+**Indkomstbevis** er valgfrit – seneste lønsedler, kontoudtog eller årsopgørelser tæller alle med. EU-Kommissionen kræver det ikke, men at inkludere det kan styrke en tvivlsom ansøgning og mindske risikoen for afvisning. Vi ville tage det med alligevel, hvis noget andet i ansøgningen virker usikkert.
 
 Mange ansøgere antager fejlagtigt, at de skal bruge vaccinationsattester, hotelbookinger eller returflybilletter. ETIAS kræver ikke dette i ansøgningsfasen. Du kan få brug for dem ved grænsekontrol, men ETIAS-godkendelsen afhænger ikke af dem.
 
-## ETIAS-ansøgningen trin for trin
+## Opgiv alle lande, du planlægger at besøge, i formularen
 
 Når du har samlet dine oplysninger, er selve ansøgningen ligetil. Besøg den officielle ETIAS-portal, og start en ny ansøgning – der kræves ikke en fuld konto, kun en e-mailadresse og en midlertidig adgangskode.
 
@@ -56,9 +56,9 @@ Hvad med helbred? Du bliver spurgt, om du har en smitsom sygdom eller en anden t
 
 Til sidst gennemgår du dine oplysninger, betaler gebyret, der vises ved kassen (gratis, hvis du er under 18 eller over 70), og indsender ansøgningen. Et bekræftelsesnummer genereres med det samme, og din ansøgning går ind i sagsbehandlingskøen.
 
-## Sagsbehandlingstid og mulige udfald
+## Ansøg så tidligt, som du rimeligt kan
 
-EU-Kommissionen offentliggør aktuel vejledning om sagsbehandlingstid på sin officielle hjemmeside, og det er værd at tjekke, før du antager, at du har god tid. Stor efterspørgsel lige efter lanceringen, forsinkelser ved baggrundstjek og eventuel rettelse af en afvisning kan alle forlænge ventetiden, så ansøg så tidligt som rimeligt før din rejse.
+EU-Kommissionen offentliggør aktuel vejledning om sagsbehandlingstid på sin officielle hjemmeside, og det er værd at tjekke, før du antager, at du har god tid. Stor efterspørgsel lige efter lanceringen, forsinkelser ved baggrundstjek og eventuel rettelse af en afvisning kan alle forlænge ventetiden, så ansøg så tidligt som rimeligt før din rejse. Ansøg, så snart dine rejsedatoer ligger fast, ikke ugen før afrejse.
 
 Der er tre mulige udfald: godkendt, afvist eller nægtet tilladelse.
 
@@ -68,7 +68,7 @@ En **afvisning** skyldes typisk ufuldstændige eller inkonsekvente oplysninger �
 
 En **nægtet tilladelse** er mere alvorlig og sker, når ETIAS' sikkerhedstjek afdækker strafferetlige domme, tidligere overskridelser af opholdstid i Schengenområdet eller andre sikkerhedsproblemer. Du kan teknisk set søge igen med det samme, hvis dine omstændigheder ændrer sig, men en vellykket ny ansøgning er usandsynlig, når en afvisning først er sikkerhedsbetinget. I praksis skal du som regel søge om et langtidsvisum gennem en ambassade i stedet – visumfri rejse til Schengenlande er ikke længere en mulighed, når du er blevet nægtet.
 
-## Almindelige afvisningsårsager, og hvordan du undgår dem
+## De fleste afvisninger skyldes inkonsekvens, ikke uheld
 
 De hyppigste ETIAS-afvisninger skyldes uoverensstemmelser i rejsehistorikken og ufuldstændige oplysninger – her er dem, det er værd at holde øje med.
 
@@ -80,17 +80,19 @@ De hyppigste ETIAS-afvisninger skyldes uoverensstemmelser i rejsehistorikken og 
 
 **Uklar beskæftigelse eller indkomst:** flag eventuelle huller eller uoverensstemmelser, fx rejsedatoer, der antyder, at du arbejdede i udlandet uden at oplyse det, eller uforklarede huller i din ansættelseshistorik. Brug det valgfrie notatfelt til at afklare. ETIAS afviser dig ikke, fordi du er arbejdsløs, men uforklarede uoverensstemmelser vækker mistanke.
 
-For at undgå afvisning skal du gennemgå dine oplysninger grundigt, før du indsender ansøgningen. Er noget usikkert, så brug det valgfrie notatfelt til at forklare – en kort, ærlig forklaring forebygger langt flere afvisninger end forsøg på at skjule oplysninger.
+For at undgå afvisning skal du gennemgå dine oplysninger grundigt, før du indsender ansøgningen. Er noget usikkert, så brug det valgfrie notatfelt til at forklare.
 
-## Særlige tilfælde: børn, familiegrupper og ny ansøgning efter nægtelse
+En kort, ærlig forklaring forebygger langt flere afvisninger end forsøg på at skjule oplysninger.
+
+## Børn skal stadig ansøge, selv uden gebyr
 
 Børn under 18 år betaler ikke ETIAS-gebyret, men bør stadig ansøge om tilladelse, hvor forældre ansøger på deres vegne. En fremtidig ændring, det er værd at holde øje med: biometriske tjek ved grænsen kan på sigt kræve, at børn er fysisk til stede.
 
-Familiegrupper skal indsende hver ansøgning separat frem for som en fælles "familie"-enhed. Du kan dog notere, at I rejser som familie, i afsnittet om rejsedetaljer, og den note kan hjælpe, hvis ét medlems ansøgning bliver udtaget til gennemgang.
+Familiegrupper skal indsende hver ansøgning separat frem for som en fælles "familie"-enhed. Du kan dog notere, at I rejser som familie, i afsnittet om rejsedetaljer, og den note kan hjælpe, hvis ét medlems ansøgning bliver udtaget til gennemgang. Vi ville udfylde hvert familiemedlems formular i samme omgang, for familienoten hjælper kun, hvis oplysningerne stemmer overens.
 
 Bliver du nægtet og skal stadig rejse, er din reserveløsning at ansøge om et traditionelt langtidsvisum gennem den relevante ambassade eller konsulat, hvilket normalt tillader flere indrejser og længere ophold end visumfri rejse. Da kravene varierer efter destination og nationalitet, bør du kontakte ambassaden direkte for at finde ud af, hvad du skal bruge.
 
-## ETIAS sammen med andre rejsedokumenter
+## Dit pas og din forsikring betyder stadig noget efter ETIAS
 
 En ETIAS-godkendelse erstatter ikke dit pas, din rejseforsikring eller [kravene til passets gyldighed](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/). Du skal stadig have:
 
@@ -100,7 +102,9 @@ En ETIAS-godkendelse erstatter ikke dit pas, din rejseforsikring eller [kravene 
 - Dokumentation for indkvartering eller rejseplan
 - Tilstrækkelige midler til opholdet
 
-Grænsevagter kan stadig bede om at se alle disse dokumenter ved ankomsten, selv med en gyldig ETIAS, da ETIAS blot fremskynder tilladelsesprocessen frem for at fritage dig fra almindelig grænsekontrol og dokumentationskrav.
+Grænsevagter kan stadig bede om at se alle disse dokumenter ved ankomsten, selv med en gyldig ETIAS, da ETIAS blot fremskynder tilladelsesprocessen frem for at fritage dig fra almindelig grænsekontrol og dokumentationskrav. Det er værd at huske, før du antager, at ETIAS alene får dig gennem gaten.
+
+Den praktiske opgave i dag er at finde dit pas frem og tjekke det mod gyldighedsreglen ovenfor; alle ansøgere skal have det på plads, før noget andet på denne liste.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 

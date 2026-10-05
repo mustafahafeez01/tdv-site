@@ -20,7 +20,7 @@ The exported file is encrypted with the same security as your on-device vault. O
 
 ### Open Settings and navigate to Export
 
-Launch Travel Document Vault and tap the Settings icon (gear symbol) at the bottom of the screen. Scroll down until you see the Backup and Data section. Tap Export Vault.
+Launch Travel Document Vault and tap the Settings icon (gear symbol) at the bottom of the screen. Scroll down until you see the Backup & Data section. Tap Export vault.
 
 2
 
@@ -48,9 +48,9 @@ If you are importing on a different device, make the exported file accessible th
 
 6
 
-### On the target device, open Settings and tap Import Vault
+### On the target device, open Settings and tap Import backup
 
-Launch Travel Document Vault on the device where you want to import. Go to Settings, scroll to Backup and Data, and tap Import Vault. The app asks you to select the exported backup file (.tdvault).
+Launch Travel Document Vault on the device where you want to import. Go to Settings, scroll to Backup & Data, and tap Import backup. The app asks you to select the exported backup file (.tdvault).
 
 7
 
@@ -62,11 +62,11 @@ Navigate to where you saved the exported vault file, select it, and confirm. The
 
 ### Verify all data is present
 
-After import, check the Profiles tab to confirm all profiles appear. Open a few documents to verify attachments are intact. The import process is non-destructive and merges with any existing data.
+After import, check the Profiles tab to confirm all profiles appear. Open a few documents to verify attachments are intact. The import process replaces any existing data on this device.
 
 ### Important notes
 
-- **Non-destructive:** Import adds to existing data. If you already have profiles on the target device, imported profiles are added without deleting existing ones.
+- **Replaces existing data:** Import clears what is on the target device first. If you already have profiles on the target device, export them before you import.
 - **Round-trip fidelity:** Everything is preserved exactly: document names, dates, expiry alerts, custom colours, attachments, and notes.
 - **Encrypted throughout:** The exported file is encrypted with the password you choose when you export it, using AES-256-GCM with PBKDF2 key derivation. Only that password can decrypt it, so store it somewhere safe - without it the file cannot be recovered.
 - **Backup best practice:** Keep your exported file in a secure location. Delete it after a successful import if you prefer, or keep it as an offline backup.

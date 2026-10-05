@@ -38,7 +38,7 @@ La expresión viene del español y del portugués. *Fecha de expedición* y *dat
 
 Todas significan lo mismo, y ninguna significa caducidad. Si un formulario te pide una "expedition date", quiere la más antigua de tus dos fechas.
 
-## El Formato de la Fecha Está Pensado para Evitar Justo Esto
+## El Mes Se Escribe con Letras para Evitar Confusiones de Formato de Fecha
 
 Fíjate bien y verás que muchos pasaportes no imprimen sus fechas solo con números. El mes suele aparecer escrito con letras en lugar de cifras.
 
@@ -48,7 +48,7 @@ La ambigüedad vuelve en cuanto transcribes la fecha en un formulario, porque lo
 
 ## Cuatro Pasaportes, Cuatro Relojes Distintos
 
-Todo esto se multiplica en silencio dentro de una familia. Los pasaportes suelen expedirse cuando hacen falta, no todos a la vez, así que las fechas de expedición de una misma casa casi nunca coinciden, y las de caducidad tampoco.
+Añade un segundo o un tercer pasaporte, como ocurre en casi todas las familias, y nada de esto cuadra. Los pasaportes suelen expedirse cuando hacen falta, no todos a la vez, así que las fechas de expedición de una misma casa casi nunca coinciden, y las de caducidad tampoco.
 
 Los niños amplían aún más esa diferencia. La mayoría de los pasaportes infantiles duran la mitad que los de un adulto, así que un pasaporte expedido el mismo mes que el de un progenitor caduca unos cinco años antes. Son los padres con años de validez por delante los que más fácilmente se ven sorprendidos por el documento de un hijo, porque no hay motivo para pensar en ello hasta que un formulario lo pregunta. Repasamos cómo mantener en orden los pasaportes de toda una familia en [gestionar varios pasaportes a la vez](https://traveldocumentvault.com/es/blog/family-passport-management/).
 
@@ -60,13 +60,17 @@ Los pasaportes británicos expedidos más recientemente ya no llevan esos meses 
 
 Los países Schengen aplican dos pruebas independientes a un pasaporte no comunitario en la frontera: debe haberse expedido menos de diez años antes de la fecha de tu llegada, y debe seguir siendo válido al menos tres meses después de la fecha prevista de salida. Un pasaporte con nueve meses adicionales puede superar la segunda prueba sin problema y fallar la primera, lo que da lugar a una conversación incómoda en un mostrador de Madrid con un documento que, técnicamente, no ha caducado.
 
-Comprueba las dos fechas antes de un viaje a Europa, no solo la de abajo.
+Nosotros comprobaríamos las dos fechas antes de un viaje a Europa, no solo la de abajo.
 
 ## País Emisor y Autoridad Emisora Son Campos Distintos
 
 Cerca de la parte superior de la página de datos hay un código de tres letras que indica el país emisor. Más abajo, normalmente en su propio campo, está la autoridad emisora: la oficina o el departamento que realmente produjo el pasaporte.
 
-El país importa más de lo que la gente espera. Determina a qué red consular acudes si el pasaporte se pierde o te lo roban, y casi nunca es el país en el que te encuentras en ese momento. También determina qué normas de entrada se te aplican, que es la razón por la que las personas con doble nacionalidad piensan con cuidado qué pasaporte presentan. Si quieres la versión práctica de todo esto, la explicamos en [qué hacer si pierdes el pasaporte en el extranjero](https://traveldocumentvault.com/es/blog/lost-passport-abroad/).
+El país importa más de lo que la gente espera. Determina a qué red consular acudes si el pasaporte se pierde o te lo roban.
+
+Casi nunca es el país en el que te encuentras en ese momento.
+
+También determina qué normas de entrada se te aplican, que es la razón por la que las personas con doble nacionalidad piensan con cuidado qué pasaporte presentan. Si quieres la versión práctica de todo esto, la explicamos en [qué hacer si pierdes el pasaporte en el extranjero](https://traveldocumentvault.com/es/blog/lost-passport-abroad/).
 
 El campo de la autoridad emisora sirve sobre todo para los formularios. Algunas solicitudes lo quieren copiado tal cual, otras aceptan solo el país, y copiarlo exactamente es más rápido que adivinar.
 
@@ -78,13 +82,15 @@ Los visados ya sellados o impresos en el pasaporte anterior se quedan allí, y l
 
 Nada de esto es grave por sí solo. Se vuelve grave cuando una tarjeta de embarque y un pasaporte no coinciden en el mostrador de facturación, así que merece la pena dedicar una media hora tranquila después de una renovación para actualizar los pocos sitios que guardan ese número.
 
-## Dónde Está Todo Esto en la Página
+## La Página de Datos Está Estandarizada, pero la Zona de Lectura Mecánica Omite una Fecha
 
 La página de datos es la página rígida y plastificada que lleva tu foto, y su diseño está estandarizado internacionalmente en lugar de inventado por cada país. Por eso un pasaporte de cualquier lugar es legible para un agente de fronteras en cualquier lugar, y por eso, en cuanto sabes leer uno, sabes leerlos todos.
 
 Las dos líneas de caracteres y chevrones en la parte inferior son la zona de lectura mecánica. Repite parte de la información de la página de arriba en un formato que un escáner puede leer de una sola pasada, aunque no toda: la fecha de caducidad está ahí, la de expedición no. Un daño en esa zona se trata con mucha más seriedad que un roce en la tapa. Explicamos dónde está ese límite en [viajar con un pasaporte dañado](https://traveldocumentvault.com/es/blog/damaged-passport-travel/).
 
 Si las indicaciones de tu propia página de datos no están en español, la disposición sigue ayudando: las dos fechas se imprimen juntas, en el mismo formato, y la fecha de caducidad es la más tardía de las dos.
+
+Dedica cinco minutos hoy a localizar las dos fechas en tu propio pasaporte, y en el de cada hijo si viajas en familia, para saber cuál es cuál antes de que un formulario o una frontera te lo pregunten.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

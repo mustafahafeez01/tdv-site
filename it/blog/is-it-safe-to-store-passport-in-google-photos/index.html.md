@@ -33,7 +33,9 @@ Prima di parlare di rischi, specifichiamo esattamente cosa si trova in una scans
 - Fotografia
 - La zona leggibile da macchina (MRZ) — le due righe di testo nella parte inferiore che codificano tutto quanto sopra in un formato standard
 
-Sono molti i dati personali in un'unica immagine. Nome, data di nascita e numero del passaporto insieme sono sufficienti per tentare una frode d'identità, condurre un attacco di phishing convincente utilizzando dati reali, o aprire credito a nome proprio in alcune giurisdizioni. **La fotografia la rende ancora più utile a chi non dovrebbe averla.**
+Sono molti i dati personali in un'unica immagine. Nome, data di nascita e numero del passaporto insieme sono sufficienti per tentare una frode d'identità, condurre un attacco di phishing convincente utilizzando dati reali, o aprire credito a nome proprio in alcune giurisdizioni.
+
+La fotografia la rende ancora più utile a chi non dovrebbe averla.
 
 ## Quali sono i rischi effettivi dell'archiviazione in Google Photos?
 
@@ -41,7 +43,7 @@ I rischi non riguardano davvero Google che fa qualcosa di losco. Sono più banal
 
 **Compromissione dell'account**
 
-Qualcuno accede all'account Google — tramite phishing, password riutilizzata da un'altra violazione, o solo una password debole — e ha accesso a tutto: ogni foto, ogni documento, tutto in Google Drive. Questo è il rischio reale più probabile per la maggior parte delle persone, ed è esattamente il motivo per cui la sicurezza delle foto del passaporto è più importante di quanto la maggior parte delle persone realizzi.
+Qualcuno accede all'account Google — tramite phishing, password riutilizzata da un'altra violazione, o solo una password debole — e ha accesso a tutto: ogni foto, ogni documento, tutto in Google Drive. Questo è il rischio reale più probabile per la maggior parte delle persone, ed è esattamente il motivo per cui la sicurezza delle foto del passaporto è più importante di quanto la maggior parte delle persone realizzi. Noi considereremmo già compromessa qualsiasi password riutilizzata su più di un sito.
 
 **Accesso condiviso**
 
@@ -103,7 +105,7 @@ Le app costruite specificamente per questo — come [Travel Document Vault](http
 
 Tresorit e Proton Drive offrono crittografia lato client per l'archiviazione cloud. Come i gestori di password, il provider non può leggere i file. Ottieni la comodità del cloud con una sicurezza della foto del passaporto sostanzialmente più forte rispetto a Google Photos.
 
-## Buone pratiche se continui a utilizzare Google Photos
+## Se resti su Google Photos, l'autenticazione a due fattori fa gran parte del lavoro
 
 Molte persone continueranno a utilizzare Google Photos per questo — la comodità è reale. Se è così, questi passaggi effettivamente migliorano il rischio:
 
@@ -114,6 +116,8 @@ Molte persone continueranno a utilizzare Google Photos per questo — la comodit
 - **Crea un album privato per i documenti sensibili** piuttosto che lasciarli sciolti nel flusso foto principale. Non fermerà una violazione, ma riduce l'esposizione accidentale quando qualcuno guarda sopra la spalla.
 
 Per una panoramica più ampia sulla conservazione dei documenti di viaggio organizzati e sicuri, consulta i nostri [consigli sui documenti di viaggio](https://traveldocumentvault.com/it/blog/) sul blog — inclusa una guida pratica su [come organizzare i documenti di viaggio in famiglia](https://traveldocumentvault.com/it/blog/how-to-organise-family-travel-documents/) prima del prossimo viaggio.
+
+Apri oggi le impostazioni di sicurezza del tuo account Google, attiva l'autenticazione a due fattori se non lo è già e sostituisci ogni password che hai usato anche altrove. È la singola modifica che ha più probabilità di tenere questa scansione, e tutto il resto del tuo account, lontano da mani sbagliate.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 

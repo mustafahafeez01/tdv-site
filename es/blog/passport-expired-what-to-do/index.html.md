@@ -30,7 +30,7 @@ Lo urgente que necesites actuar determina qué hacer:
 - **El viaje está cerca:** llama directamente a tu autoridad de pasaportes en lugar de confiar solo en el sitio web —la línea de atención de HM Passport Office en el Reino Unido, o el National Passport Information Center en EE.UU.
 - **El viaje es inminente:** pregunta por una cita de emergencia y lleva prueba de tus fechas de viaje. El Reino Unido ofrece un servicio Premium acelerado en oficinas de pasaportes designadas, y EE.UU. ofrece citas en agencias de pasaportes regionales.
 
-Todas las principales autoridades de pasaportes retienen ranuras de cita de emergencia que no son visibles en línea. Si tu cronograma es ajustado, llama en lugar de confiar solo en el sitio web.
+Todas las principales autoridades de pasaportes retienen ranuras de cita de emergencia que no son visibles en línea. Si tu cronograma es ajustado, nosotros siempre llamaríamos en lugar de fiarnos solo del sitio web.
 
 **Establece el recordatorio ahora** para que esto nunca vuelva a suceder —Travel Document Vault empieza a notificarte desde ocho meses antes de que caduque cada pasaporte en tu hogar, y de nuevo a medida que se acerca la fecha. [Descarga en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
@@ -52,7 +52,9 @@ Este escenario sucede más a menudo de lo que la gente espera, y los pasos no so
 
 ## Otros Problemas de Pasaporte Que Hacen Que los Viajeros Sean Rechazados
 
-La caducidad es la razón más común de un fallo de pasaporte en el aeropuerto, pero otros problemas causan el mismo resultado. Lo que los hace más fáciles de pasar por alto es que a diferencia de las fechas de caducidad, no vienen con una advertencia de cuenta regresiva visible.
+La caducidad es la razón más común de un fallo de pasaporte en el aeropuerto, pero otros problemas causan el mismo resultado.
+
+Lo que los hace más fáciles de pasar por alto es que, a diferencia de las fechas de caducidad, no vienen con una advertencia de cuenta regresiva visible.
 
 ### 1. Un pasaporte dañado
 
@@ -68,7 +70,7 @@ Incluso pequeñas variaciones como una inicial de segundo nombre faltante o una 
 
 ### 3. Un pasaporte sin firmar
 
-La mayoría de los pasaportes tienen un panel de firma. Algunos países —incluyendo Estados Unidos— requieren que el pasaporte sea firmado antes de considerarse válido para viajar. Un pasaporte sin firmar puede ser rechazado en la frontera. Esto es más comúnmente un problema con pasaportes expedidos a niños que eran demasiado jóvenes para firmar, o con pasaportes completamente nuevos que el titular olvidó firmar antes de viajar. Verifica el panel de firma antes de irte de casa.
+La mayoría de los pasaportes tienen un panel de firma. Algunos países —incluyendo Estados Unidos— requieren que el pasaporte sea firmado antes de considerarse válido para viajar. Un pasaporte sin firmar puede ser rechazado en la frontera. Esto es más comúnmente un problema con pasaportes expedidos a niños que eran demasiado jóvenes para firmar, o con pasaportes completamente nuevos que el titular olvidó firmar antes de viajar. Echar un vistazo al panel de firma antes de salir de casa lo detecta a tiempo.
 
 ### 4. Validez insuficiente para tu destino
 
@@ -82,11 +84,11 @@ Los requisitos de visa y autorización de viaje electrónica (ETA) cambian a men
 
 Antes de cada viaje, verifica los requisitos de entrada oficiales para tu destino usando el servicio de asesoramiento de viaje de tu país: gov.uk/foreign-travel-advice para titulares de pasaporte del Reino Unido, travel.state.gov para titulares de pasaporte de Estados Unidos, o smartraveller.gov.au para titulares de pasaporte australianos. No confíes en lo que era verdad la última vez.
 
-## Cómo Hacer Que Esto Nunca Vuelva a Suceder
+## Pon el Recordatorio Con un Año de Antelación, No Seis Meses
 
 La causa raíz es generalmente la misma: sin recordatorio establecido. Establece un recordatorio de caducidad al menos **12 meses antes de la fecha de caducidad** —no 6 meses. Esto te da tiempo para renovar con procesamiento estándar sin pagar por servicio expedito, y sin el estrés de un cronograma ajustado.
 
-Haz esto para cada pasaporte en tu hogar por separado. Los pasaportes de niños caducan más rápido —5 años en la mayoría de países versus 10 para adultos— y son los que más a menudo se pierden.
+Haz esto para cada pasaporte en tu hogar por separado. Los pasaportes de niños caducan más rápido —5 años en la mayoría de países versus 10 para adultos— y son los que más a menudo se pierden. **Saca hoy todos los pasaportes y comprueba la fecha de caducidad, no solo la página de la foto.**
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

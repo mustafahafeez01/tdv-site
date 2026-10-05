@@ -34,7 +34,9 @@ Det enda undantaget är ett brittiskt nödresedokument, utfärdat av utrikesdepa
 
 ## Kan du boka en semester med ett utgånget pass?
 
-Att boka är inte samma sak som att gå ombord. Inget hindrar dig från att betala för flyg och hotell medan passet är utgånget, eftersom ingen kontrollerar handlingen vid själva köpet. Kontrollen sker på flygplatsen, och då måste passet vara giltigt.
+Att boka är inte samma sak som att gå ombord.
+
+Inget hindrar dig från att betala för flyg och hotell medan passet är utgånget, eftersom ingen kontrollerar handlingen vid själva köpet. Kontrollen sker på flygplatsen, och då måste passet vara giltigt.
 
 Den egentliga frågan är alltså inte om du kan boka, utan om förnyelsen hinner bli klar innan du reser. Passmyndigheter publicerar sina aktuella handläggningstider, och de förändras med efterfrågan, så kontrollera siffran samma dag i stället för att lita på fjolårets.
 
@@ -42,7 +44,7 @@ Ser tidsramen knapp ut är den säkrare ordningen att förnya först och boka n�
 
 En förnyelse som redan är på gång är en annan fråga, och den avgörs av om du har lämnat in det gamla passet. Det svarar vi på i en egen artikel: [om du kan resa på ditt gamla pass medan förnyelsen pågår](https://traveldocumentvault.com/sv/blog/travel-while-passport-renewal-pending/).
 
-## Att förnya ett brittiskt pass som redan har gått ut
+## Ett utgånget pass förnyas, man börjar inte om från noll
 
 Ett utgånget pass förnyas, det börjar inte om från noll. GOV.UK listar ett utgånget pass som ett av de två skälen att förnya innan du reser, tillsammans med för kort återstående giltighetstid, så för de flesta är standardförnyelsen för vuxna rätt väg.
 
@@ -60,13 +62,13 @@ Inhemska resor inom Storbritannien och Irland skiljer sig från internationella 
 
 Om du överväger en inhemsk resa med ett utgånget pass, kontakta ditt flygbolag minst 48 timmar före avgång och fråga uttryckligen: "Mitt brittiska pass har gått ut. Godtar ni mitt brittiska körkort i stället?" Få bekräftelsen skriftligt om du kan, eftersom det att komma till incheckningen med en alternativ legitimation utan förhandsbekräftelse är hur folk missar sina flyg.
 
-## Nödförnyelse: vägen via Premiumtjänsten
+## Nödförnyelse: Premiumtjänsten, om du får en tid
 
 Om din resa är nära förestående och passet har gått ut erbjuder His Majesty's Passport Office en Premiumtjänst utformad exakt för det här scenariot, som garanterar antingen en tid samma dag eller nästa vardag beroende på tillgänglighet. HM Passport Office publicerar den aktuella avgiften på gov.uk, och den täcker tiden och förnyelsen tillsammans i stället för att läggas ovanpå standardavgiften. Det förnyade passet anländer betydligt snabbare än standardvägen, även om exakt hur mycket snabbare beror på vilken tid du kan få. Observera att onlinetjänsten Premium enbart gäller förnyelser, inte första passet för vuxna.
 
 Det här är den officiella nödvägen för verkliga resebegränsningar, inte en genväg – Premiumtjänsten finns eftersom resor ibland inte kan vänta. HM Passport Office publicerar den aktuella handläggningstiden för en standardförnyelse, och nästan alla ansökningar handläggs inom den tidsramen – men för resor som verkligen inte kan vänta tar Premiumalternativet bort osäkerheten.
 
-Haken är att du måste ha en ledig tid, och de tar snabbt slut under sommarlov och skollov. Upptäcker du att ditt pass har gått ut en fredag inför en resa på måndagen kan det hända att inga Premiumtider finns kvar, eftersom bokningen sker online på gov.uk med tillgänglighet i realtid. Visar det önskade datumet inga lediga tider har du helt enkelt inget annat alternativ den dagen.
+Tiderna är den verkliga begränsningen: de tar snabbt slut under sommarlov och skollov, och bokningen sker online på gov.uk med tillgänglighet i realtid. Upptäcker du att ditt pass har gått ut en fredag inför en resa på måndagen kan det hända att inga Premiumtider finns kvar alls, och när det önskade datumet inte visar några har du helt enkelt inget annat alternativ den dagen.
 
 Du behöver också ditt gamla pass för att ansöka, oavsett dess utgångsdatum, och om det är förlorat eller stulet måste du makulera det hos His Majesty's Passport Office (det kan du göra på gov.uk) innan du förnyar; en polisanmälan behövs i regel bara för försäkringsändamål. Planera därefter om passet både är skadat och utgånget.
 
@@ -76,9 +78,9 @@ Flygbolag använder Timatic, ett IATA-system som korsreferentar ditt passnummer,
 
 Gränskontrollen gör samma kontroll vid ankomst – ibland till och med två gånger, en gång när du lämnar Storbritannien och en gång när du reser in i din destination. Ett utgånget pass upptäcks oavsett hur försiktig du är.
 
-Den enda gråzonen som finns handlar om hur flygbolag och gränskontroll hanterar pass som "snart går ut" men ännu inte har gått ut, där vissa handläggare är strikta med 6-månadersregeln för vissa destinationer och andra inte är det. Men när passet väl har passerat utgångsdatumet finns det ingen gråzon alls.
+Det som blir riktigt oklart är pass som "snart går ut" men ännu inte har gått ut: vissa handläggare är strikta med 6-månadersregeln för vissa destinationer och andra är det inte. Men när passet väl har passerat utgångsdatumet finns det ingen gråzon alls.
 
-## Reseförsäkring och utgångna handlingar
+## De flesta reseförsäkringar täcker inte ett utgånget pass
 
 De flesta reseförsäkringar innehåller en klausul som ogiltigförklarar försäkringen vid utgångna eller ogiltiga resehandlingar. Försäkringsbolag kan avslå hela ditt ersättningsanspråk om du reste med ett utgånget pass – formuleringen brukar likna: "Denna försäkring gäller inte om försäkringstagaren reste med en ogiltig eller utgången resehandling."
 
@@ -96,13 +98,15 @@ Processen är långsam och byråkratisk. Du måste visa legitimation och betala 
 
 Ställ in påminnelser flera månader i förväg i stället för dagen innan avresa, eftersom påminnelser från åtta månader innan, och igen allteftersom utgångsdatumet närmar sig, ger dig tid att förnya via standardhandläggning i stället för att betala för nödtider. Om passet går ut inom 6 månader från din resa, påbörja förnyelseprocessen nu innan du bokar resdatum.
 
-## Vanliga missförstånd om passets giltighet
+## Passets utgångsdatum är inte detsamma som ett resmåls krav på extra giltighetstid
 
 Resenärer blandar ofta ihop passets eget giltighetsdatum med destinationsspecifika regler. Ditt pass är giltigt fram till det datum som står tryckt i det – det är grunden. Men vissa länder kräver att det förblir giltigt en viss period efter ditt ankomstdatum, och det är ett separat krav från själva utgångsdatumet.
 
 [Många länder tillämpar en sexmånadersregel som kräver att ditt pass förblir giltigt minst sex månader efter ditt planerade avresedatum](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/), medan vissa tillämpar tre månader och andra en månad. Ingen av de här reglerna tillåter resa med ett utgånget pass, eftersom de sätter en strängare standard där förnyelsen måste ske ännu tidigare än passets eget utgångsdatum.
 
 Anta inte att du kan resa "eftersom du kommer hem innan det går ut" – ditt pass måste vara giltigt den dag du går ombord på din utresa, och om det går ut dagen efter att du kommit hem kan du ändå inte resa. Flygbolag tillåter inte resa om ditt pass har gått ut på avresedagen.
+
+Det enklaste sättet att slippa allt det här: plocka fram passet i dag och kontrollera datumet mot din nästa resa, inte tvärtom. Om det är nära gränsen, påbörja förnyelsen nu i stället för att vänta.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 

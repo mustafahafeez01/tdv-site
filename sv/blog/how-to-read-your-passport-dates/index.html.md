@@ -38,7 +38,7 @@ Uttrycket kommer från spanska och portugisiska. *Fecha de expedición* och *dat
 
 Alla betyder samma sak, och ingen av dem betyder sista giltighetsdag. Om en blankett frågar efter ett expeditionsdatum vill den ha det tidigare av dina två datum.
 
-## Datumformatet är byggt för att stoppa precis det här
+## Månaden skrivs ut med bokstäver för att undvika datumförväxlingar
 
 Titta noga så märker du att många pass inte skriver ut sina datum enbart som siffror. Månaden anges oftast med bokstäver i stället för siffror.
 
@@ -48,7 +48,7 @@ Oklarheten kommer tillbaka så fort du skriver av datumet till en blankett, för
 
 ## Fyra pass, fyra olika klockor
 
-Allt det här multipliceras tyst i en familj. Pass brukar utfärdas när de behövs snarare än samtidigt, så utfärdandedatumen i ett och samma hushåll sällan stämmer överens, och sista giltighetsdagarna gör det inte heller.
+Lägg till ett andra eller tredje pass, som de flesta familjer har, så går inget av det ihop. Pass brukar utfärdas när de behövs snarare än samtidigt, så utfärdandedatumen i ett och samma hushåll sällan stämmer, och sista giltighetsdagarna gör det inte heller.
 
 Barn breddar spannet ytterligare. De flesta barnpass gäller halva tiden av ett vuxenpass, så ett pass utfärdat samma månad som en förälders går ut ungefär fem år tidigare. Föräldrar med flera år kvar på sitt eget pass är de som oftast blir tagna på sängen av ett barns handling, eftersom det inte finns någon anledning att tänka på det förrän en blankett frågar. Vi går igenom hur man håller reda på ett helt hushålls pass i [att hantera flera pass samtidigt](https://traveldocumentvault.com/sv/blog/family-passport-management/).
 
@@ -60,13 +60,17 @@ Brittiska pass utfärdade nyligen har inte längre de här extra månaderna, men
 
 Schengenländer tillämpar två separata tester på ett pass utanför EU vid gränsen: det måste ha utfärdats mindre än tio år innan datumet du anländer, och det måste vara giltigt i minst tre månader efter att du tänker lämna landet. Ett pass med nio extra månader kan klara det andra testet utan problem och ändå misslyckas med det första, vilket är ett svårt samtal att ha vid en disk i Madrid med en handling som inte har gått ut.
 
-Kontrollera båda datumen inför en Europaresa, inte bara det längst ner.
+Vi skulle kontrollera båda datumen inför en Europaresa, inte bara det längst ner.
 
 ## Utfärdandeland och utfärdande myndighet är olika fält
 
 Nära toppen av datasidan sitter en trebokstavskod för utfärdandelandet. Längre ner, oftast i ett eget fält, sitter den utfärdande myndigheten: kontoret eller avdelningen som faktiskt tillverkade passet.
 
-Landet spelar större roll än folk tror. Det avgör vilket lands konsulära nätverk du vänder dig till om ett pass förloras eller stjäls, och det är sällan landet du råkar befinna dig i. Det avgör också vilka inreseregler som gäller för dig, vilket är hela anledningen till att personer med dubbelt medborgarskap noga överväger vilket pass de visar upp. Vill du ha den praktiska versionen av det går vi igenom det i [vad du gör när ett pass försvinner utomlands](https://traveldocumentvault.com/sv/blog/lost-passport-abroad/).
+Landet spelar större roll än folk tror. Det avgör vilket lands konsulära nätverk du vänder dig till om ett pass förloras eller stjäls.
+
+Det är sällan landet du råkar befinna dig i.
+
+Landet avgör också vilka inreseregler som gäller för dig, vilket är hela anledningen till att personer med dubbelt medborgarskap noga överväger vilket pass de visar upp. Vill du ha den praktiska versionen av det går vi igenom det i [vad du gör när ett pass försvinner utomlands](https://traveldocumentvault.com/sv/blog/lost-passport-abroad/).
 
 Fältet för utfärdande myndighet är mest användbart för blanketter. Vissa ansökningar vill ha det ordagrant, andra godtar landet, och att kopiera det exakt går snabbare än att gissa.
 
@@ -78,13 +82,15 @@ Visum som redan är stämplade eller tryckta i det gamla passet stannar där, oc
 
 Inget av det är dramatiskt i sig. Det blir dramatiskt när ett boardingkort och ett pass inte stämmer överens vid en incheckningsdisk, så det är värt en lugn halvtimme efter en förnyelse för att uppdatera de få ställen som har numret.
 
-## Var allt det här sitter på sidan
+## Datasidan är standardiserad, men den maskinläsbara zonen hoppar över ett datum
 
 Datasidan är den styva laminerade sidan med ditt fotografi, och dess layout är internationellt standardiserad snarare än uppfunnen av varje land för sig. Det är därför ett pass från vilket land som helst går att läsa för en gränskontrollant var som helst, och varför du kan läsa alla pass så fort du kan läsa ett.
 
 De två raderna med tecken och vinklade streck längst ner är den maskinläsbara zonen. De upprepar en del av sidan ovanför i ett format en skanner kan läsa i ett svep, men inte allt: sista giltighetsdag finns med, utfärdandedatumet gör det inte. Skador där tas på mycket större allvar än ett skrapmärke på omslaget. Vi går igenom var den raden sitter i [att resa med ett skadat pass](https://traveldocumentvault.com/sv/blog/damaged-passport-travel/).
 
 Om etiketterna på din egen datasida inte är på svenska hjälper geometrin ändå: de två datumen är tryckta tillsammans, i samma format, och sista giltighetsdag är det senare av de två.
+
+Ta fem minuter i dag och hitta båda datumen på ditt eget pass, och på varje barns om ni reser som familj, så att du redan vet vilket som är vilket när en blankett eller en gräns frågar.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du agerar.
 

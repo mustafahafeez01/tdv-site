@@ -20,7 +20,7 @@ De meeste paspoortschade is cosmetisch. Een versleten kaft, een verzachte hoek, 
 
 Waar die grens ligt, is goed om te weten voordat je vertrekt, want een paspoort kan technisch geldig zijn en toch geweigerd worden. Dit artikel behandelt wat als schade telt, wat functionarissen doorgaans accepteren, en wat je moet doen als het jouwe al in slechte staat is.
 
-## Wat telt eigenlijk als paspoortschade
+## Cosmetische slijtage wordt verwacht; schade aan beveiligingskenmerken niet
 
 Hier slaan de meeste mensen onnodig in paniek: een omgekrulde hoek van de kaft is geen schade, en een kleine vouw van in je achterzak zitten ook niet. Luchtvaartmaatschappijen en grensbeambten weten dat paspoorten gebruikt worden, dus lichte cosmetische slijtage wordt verwacht.
 
@@ -30,7 +30,9 @@ Het belangrijkste is dat de machineleesbare zone – de zwart-witte strook onder
 
 De reden dat dit ertoe doet, is dat **luchtvaartmaatschappijen aansprakelijk zijn als ze iemand met een ongeldig document laten instappen.** Stap je in met een beschadigd paspoort en word je aan de andere kant de toegang geweigerd, dan kunnen de autoriteiten de luchtvaartmaatschappij beboeten voor het vervoeren van jou. De maatschappij moet dan ook de kosten dragen om je terug naar huis te vliegen.
 
-Geen enkele gate agent zit te wachten op die rompslomp, dus ze kiezen resoluut voor de veilige kant. Een paspoort dat er twijfelachtig uitziet, wordt geweigerd. Punt uit.
+Geen enkele gate agent zit te wachten op die rompslomp, dus ze kiezen resoluut voor de veilige kant.
+
+Een paspoort dat er twijfelachtig uitziet, wordt geweigerd. Punt uit.
 
 ## Je ontdekt schade dagen of weken voor vertrek
 
@@ -42,9 +44,9 @@ Een paar dingen om vooraf te controleren. Spoed- en snelserviceopties bestaan me
 
 Een beschadigd paspoort betekent meestal ook dat je persoonlijk moet aanvragen in plaats van per post. In sommige landen zit het loket voor spoedgevallen op een heel andere locatie dan waar je gewoon een aanvraag indient, en aan het verkeerde loket verschijnen kost je een dag die je waarschijnlijk niet hebt.
 
-Start het proces zodra je de schade ontdekt. Vluchten boeken en hopen dat de vernieuwing op tijd rond is, is een gok die vaak misgaat, zeker in de zomer wanneer paspoortinstanties overbelast zijn.
+Start het proces zodra je de schade ontdekt. **Wij zouden er zelfs geen dag mee wachten om dat telefoontje te plegen.** Vluchten boeken en hopen dat de vernieuwing op tijd rond is, is een gok die vaak misgaat, zeker in de zomer wanneer paspoortinstanties overbelast zijn.
 
-## Schade ontdekt op het vliegveld
+## Bij de gate houdt eerlijkheid je opties open
 
 Dan nu de lastigere versie: je staat in de incheckrij of bij de gate en merkt schade op die je eerder over het hoofd hebt gezien, of de medewerker ziet het zodra je je paspoort overhandigt.
 
@@ -60,7 +62,7 @@ Zodra instappen is geweigerd, heb je beperkte opties:
 
 Zegt de gate agent nee, ga dan niet in discussie en probeer niet alsnog in te stappen. Dat zorgt alleen voor grotere problemen. De luchtvaartmaatschappij kan je uitsluiten van toekomstige vluchten, immigratieautoriteiten kunnen je een boete geven, en in sommige landen kun je zelfs vervolgd worden omdat je probeerde te reizen op een document dat al als ongeldig is beoordeeld.
 
-## Doorlooptijden voor een noodvervanging van je paspoort
+## Controleer de doorlooptijd bij de bron voordat je boekt
 
 Gepubliceerde verwerkingstijden verschuiven gedurende het jaar en lopen op in de zomer, wanneer paspoortinstanties het drukst hebben. Vertrouw niet op een cijfer dat je ergens hebt gelezen, maar controleer het actuele cijfer aan de bron voordat je je vastlegt op een reisdatum:
 
@@ -71,7 +73,7 @@ Gepubliceerde verwerkingstijden verschuiven gedurende het jaar en lopen op in de
 
 Het patroon is overal hetzelfde. Hoe dichter je bij vertrek komt, hoe minder routes er openblijven, en de routes die overblijven vereisen dat je persoonlijk verschijnt met je beschadigde paspoort en bewijs van je reis. Schade ontdekken drie weken van tevoren is vervelend. Schade ontdekken drie dagen van tevoren is een heel ander probleem.
 
-## Waarom digitale kopieën uitkomst bieden
+## Een scan van je paspoort versnelt een vervanging
 
 Als je een beschadigd paspoort dringend moet vervangen, is er één ding dat alles vertraagt: aantonen wie je bent. De paspoortinstantie moet controleren dat de vervanging naar de rechtmatige eigenaar gaat, en niet naar iemand met een gestolen identiteit.
 
@@ -80,6 +82,8 @@ Een duidelijke digitale foto van je paspoort helpt hierbij. Bewaar de gegevenspa
 Dit is vooral waardevol als je in het buitenland bent wanneer je paspoort beschadigd raakt en een nooddocument van je ambassade nodig hebt. Consulaire medewerkers werken sneller als ze een scan van je originele paspoort direct voor zich hebben.
 
 Bewaar je digitale kopieën ergens versleuteld en offline – niet in Google Foto's of een gedeelde iCloud. Travel Document Vault is precies hiervoor gebouwd: paspoortfoto's versleuteld op alleen jouw apparaat, direct beschikbaar als er iets misgaat.
+
+Scan je paspoort vandaag, voordat je het nodig hebt.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

@@ -22,7 +22,9 @@ Le personnel d'enregistrement des compagnies aériennes et les agents frontalier
 
 Deux personnes différentes examinent les mêmes documents pour deux raisons différentes, et le savoir évite bien des confusions au comptoir. Le personnel d'enregistrement ne décide pas si votre enfant pourra entrer dans le pays de destination. Il vérifie si la compagnie aérienne a de bonnes raisons de croire que vous serez admis, car en vertu d'accords de longue date entre transporteurs et gouvernements, une compagnie aérienne peut être tenue responsable de rapatrier un passager que la destination refuse ensuite. C'est pourquoi les agents d'enregistrement posent parfois plus de questions que l'agent frontalier ne le fera finalement : ils protègent la compagnie contre sa propre responsabilité.
 
-L'agent frontalier que vous rencontrez après l'atterrissage prend une décision entièrement distincte, sans lien avec ce que la compagnie aérienne a décidé plus tôt. Certains pays répètent ce contrôle également à la sortie, pas seulement à l'entrée, si bien qu'une arrivée sans encombre ne préjuge en rien du contrôle de sortie deux semaines plus tard. Satisfaire l'un ne lie pas l'autre, et c'est la chose la plus utile à comprendre avant de voyager avec un enfant en n'étant qu'un seul adulte dans la rangée.
+L'agent frontalier que vous rencontrez après l'atterrissage prend une décision entièrement distincte, sans lien avec ce que la compagnie aérienne a décidé plus tôt. Certains pays répètent ce contrôle également à la sortie, pas seulement à l'entrée, si bien qu'une arrivée sans encombre ne préjuge en rien du contrôle de sortie deux semaines plus tard.
+
+Satisfaire l'un ne lie pas l'autre.
 
 ## Un seul parent voyage : commencez par la lettre de consentement
 
@@ -36,7 +38,7 @@ La garde exclusive change le document qui compte, plutôt qu'elle ne supprime le
 
 Voyagez avec l'ordonnance, ou une copie certifiée de celle-ci. Elle ne sert à rien dans un classeur resté à la maison. Les agents qui posent des questions cherchent généralement une réponse simple à une seule question : cet adulte a-t-il l'autorité légale de prendre cette décision pour cet enfant. Une copie certifiée y répond en quelques secondes, et si votre situation de garde a changé récemment, il vaut la peine de vérifier si votre destination attend une copie plus récente que celle que vous emportez depuis des années.
 
-## Quand l'autre parent est décédé
+## Quand l'autre parent est décédé : l'acte de décès remplace la lettre
 
 Il n'y a pas de lettre de consentement à rédiger lorsque l'autre parent est décédé, et aucun agent frontalier n'en attend une. Ce que vous emportez à la place, c'est une copie de l'acte de décès, qui répond à la question à laquelle une lettre de consentement répondrait autrement : pourquoi un seul parent est présent.
 
@@ -46,13 +48,13 @@ La réponse pratique reste courte : un seul document, gardé à portée de main,
 
 Il s'agit de notre lecture de ce que les compagnies aériennes et la police aux frontières demandent le plus souvent, et non d'une liste réglementaire. Les exigences varient selon la destination et le transporteur : vérifiez auprès des autorités d'immigration de votre destination et de votre compagnie aérienne avant de partir.
 
-## Un nom de famille différent de celui de votre enfant
+## Un nom de famille différent de celui de votre enfant : l'acte de naissance y répond généralement
 
 Un nom de famille qui ne correspond pas à celui de votre enfant est courant et pose rarement problème une fois que vous avez le bon document en main, même s'il vaut mieux l'emporter plutôt que d'espérer que personne ne pose la question. Mariage, divorce, remariage, ou simplement le choix de ne pas partager un nom de famille à la naissance sont autant de raisons ordinaires à cette différence, et un agent qui pose la question suit généralement la même courte liste mentale plutôt que de soupçonner quoi que ce soit en particulier.
 
 L'acte de naissance intégral de votre enfant, celui qui vous nomme comme parent, répond le plus rapidement à la question. Si votre propre nom a changé depuis la délivrance de cet acte, un certificat de mariage ou de divorce fait le lien entre le nom sur votre passeport et celui de votre enfant. Emportez les deux même pour un voyage habituel vers un endroit déjà visité, car le même écart qui passe inaperçu lors d'une visite peut entraîner une conversation plus longue lors de la suivante, selon l'agent en service ce jour-là.
 
-## Grands-parents, proches et tuteurs : aucun des deux parents ne voyage
+## Grands-parents, proches et tuteurs : le consentement des deux parents est généralement requis
 
 Lorsqu'un grand-parent, une tante, un oncle ou un ami de la famille voyage avec un enfant sans qu'aucun des deux parents ne soit du voyage, les documents nécessaires s'alourdissent, car la plupart des pays attendent la preuve que les deux parents, ou les deux tuteurs légaux, ont donné leur accord, pas un seul. Le format est le même que la [lettre de consentement](https://traveldocumentvault.com/fr/blog/child-travel-consent-letter/) détaillée ailleurs sur ce site, mais ici elle doit généralement porter la signature des deux parents plutôt que d'un seul, ainsi que leurs coordonnées respectives.
 
@@ -66,7 +68,7 @@ Si un numéro de téléphone figure sur une lettre de consentement ou une ordonn
 
 ## Un dossier par situation
 
-Chaque situation évoquée ci-dessus nécessite son propre petit dossier de documents, et il est facile de perdre le fil de celui qui correspond à quel voyage une fois que la situation familiale a changé plus d'une fois. Utilisez ce tableau comme point de départ, et non comme substitut à la vérification des exigences propres à votre destination, ce qu'il vaut mieux faire à chaque fois plutôt que de supposer que le voyage de l'année dernière s'applique encore.
+Chaque situation évoquée ci-dessus nécessite son propre petit dossier de documents, et il est facile de perdre le fil de celui qui correspond à quel voyage une fois que la situation familiale a changé plus d'une fois. Utilisez ce tableau comme point de départ, et non comme substitut à la vérification des exigences propres à votre destination, ce qu'il vaut mieux faire à chaque fois plutôt que de supposer que le voyage de l'année dernière s'applique encore. Et si vous hésitez un jour sur le dossier qui convient, nous emporterions le document en plus plutôt que de le laisser à la maison.
 
 | Situation | Documents à emporter |
 |---|---|
@@ -76,7 +78,7 @@ Chaque situation évoquée ci-dessus nécessite son propre petit dossier de docu
 | Nom de famille différent de celui de l'enfant | Acte de naissance intégral de l'enfant, certificat de mariage ou de divorce le cas échéant |
 | Grand-parent, proche ou tuteur voyage, aucun des deux parents n'est présent | Lettre de consentement signée par les deux parents ou tuteurs, acte de naissance de l'enfant |
 
-Quel que soit le dossier qui correspond à votre famille, le problème pratique reste le même : le garder rassemblé, le garder à jour, et pouvoir le retrouver au comptoir d'enregistrement plutôt qu'au fond d'un sac. Notre [liste de contrôle des documents de voyage](https://traveldocumentvault.com/fr/blog/travel-document-checklist/) couvre ce qu'il faut emporter au-delà de cette situation précise, et notre guide pour [organiser les documents de voyage de la famille](https://traveldocumentvault.com/fr/blog/how-to-organise-family-travel-documents/) explique comment garder les documents de chaque membre de la famille en ordre entre les voyages, pas seulement celui que vous préparez maintenant.
+Notre [liste de contrôle des documents de voyage](https://traveldocumentvault.com/fr/blog/travel-document-checklist/) couvre ce qu'il faut emporter au-delà de cette situation précise, et notre guide pour [organiser les documents de voyage de la famille](https://traveldocumentvault.com/fr/blog/how-to-organise-family-travel-documents/) explique comment garder les documents de chaque membre de la famille en ordre entre les voyages, pas seulement celui que vous préparez maintenant. Quel que soit le dossier qui correspond à votre famille, constituez-le dès aujourd'hui : associez chaque document du tableau ci-dessus à l'acte de naissance de votre enfant, et rangez l'ensemble au même endroit avant même de réserver votre prochain voyage.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 

@@ -38,7 +38,9 @@ Ecco la parte che la maggior parte degli articoli salta, e merita di essere dett
 
 La conseguenza è inevitabile. **Se perdi quel codice di recupero, il backup non potrà mai più essere aperto.** Non da te, non da Apple o Google, e non da noi. Non esiste un link per il reset, perché non esiste un account a cui collegarlo. Non esiste un ticket di assistenza che possa recuperarlo, perché non l'abbiamo mai avuto e non possiamo nemmeno iniziare a indovinarlo.
 
-Detta così suona dura, ed è meglio essere onesti piuttosto che nasconderla in una schermata delle impostazioni. È lo stesso scambio che fai con la chiave di casa: la serratura vale qualcosa solo perché nessun fabbro al mondo tiene una copia di riserva, ed è proprio per questo che perdere la tua è un problema tuo. Un'azienda in grado di ripristinare i tuoi documenti dopo che hai dimenticato tutto è un'azienda che avrebbe potuto leggerli fin dall'inizio.
+Detta così suona dura, ed è meglio essere onesti piuttosto che nasconderla in una schermata delle impostazioni. È lo stesso scambio che fai con la chiave di casa: la serratura vale qualcosa solo perché nessun fabbro al mondo tiene una copia di riserva, ed è proprio per questo che perdere la tua è un problema tuo.
+
+Un'azienda in grado di ripristinare i tuoi documenti dopo che hai dimenticato tutto è un'azienda che avrebbe potuto leggerli fin dall'inizio.
 
 Quindi tratta il codice come l'unica cosa da fare bene:
 
@@ -55,7 +57,7 @@ Una foto del passaporto in una normale libreria fotografica o in una cartella si
 
 Un vault cifrato sul dispositivo prima del caricamento arriva come testo cifrato. Chi riesce a violare l'account cloud trova un file che non può aprire. La protezione viaggia insieme al file, invece di dipendere dall'account in cui finisce.
 
-Ecco perché la versione onesta di "il cloud è sicuro" è: il cloud è un indirizzo di consegna, non un modello di sicurezza. Ciò che conta è lo stato del file nel momento in cui arriva. Il nostro [confronto dei principali posti in cui le persone conservano le scansioni del passaporto](https://traveldocumentvault.com/it/blog/safest-way-to-store-passport-digitally/) analizza i compromessi di ciascuno.
+Ecco perché la versione onesta di "il cloud è sicuro" è: il cloud è un indirizzo di consegna, non un modello di sicurezza. Ciò che conta è lo stato del file nel momento in cui arriva. Se dovessimo scegliere un'impostazione di base, sceglieremmo quella che cifra il file prima che esca dal telefono. Il nostro [confronto dei principali posti in cui le persone conservano le scansioni del passaporto](https://traveldocumentvault.com/it/blog/safest-way-to-store-passport-digitally/) analizza i compromessi di ciascuno.
 
 | Cosa esegui in backup | Stato all'arrivo | Chi può leggerlo | Se l'account viene violato |
 |---|---|---|---|
@@ -72,7 +74,7 @@ Tre cose restano deliberatamente sul telefono, e il codice di recupero viene pri
 
 Quest'ultimo punto trae in inganno molte persone, quindi ecco la versione senza giri di parole. **Un backup di sistema del dispositivo reinstalla l'app ma non può ripristinare i tuoi documenti.** La chiave di cifratura non ha mai lasciato il vecchio telefono, quindi quello nuovo non ha nulla con cui decifrare. Se vuoi che il tuo vault sopravviva al telefono, ti serve il backup cloud attivo oppure un file esportato salvato da qualche parte.
 
-## Ripristinare su un Nuovo Telefono
+## Il Ripristino È Breve e Non Sovrascrive Ciò Che C'è Già
 
 Il ripristino è breve, ed è proprio questo il senso di fare la preparazione in anticipo.
 
@@ -80,7 +82,7 @@ Installa l'app sul nuovo telefono e accedi allo stesso account iCloud o Google c
 
 L'app controlla anche prima di scrivere. Se il backup cloud rileva un backup già esistente in quell'account, ti chiede di scegliere tra ripristinarlo e ricominciare da zero. Un telefono nuovo non può sovrascrivere silenziosamente ciò che è già presente.
 
-### Passare da iPhone ad Android (e Viceversa)
+### Passare da iPhone ad Android (e Viceversa) Significa Usare l'Esportazione Vault
 
 Il backup cloud resta su un'unica piattaforma, perché usa il tuo iCloud personale sui dispositivi Apple e il tuo Google Drive personale su Android. Per passare dall'uno all'altro serve l'altra strada.
 
@@ -98,9 +100,9 @@ Venti minuti, una volta sola, prima del prossimo viaggio:
 - Esporta il vault una volta e salva il file in un posto che controlli, come alternativa che non dipende da nessun account cloud.
 - Controlla che l'app mostri un backup recente prima di partire, allo stesso modo in cui controlli che i passaporti siano in valigia.
 
-Niente di tutto questo è drammatico, ed è proprio questo il punto. Le famiglie che gestiscono bene un telefono rubato all'estero non sono quasi mai quelle che hanno reagito in modo brillante. Sono quelle che hanno passato venti minuti banali al tavolo della cucina due settimane prima.
-
 Un'ultima nota sulle aspettative. Il backup è un livello di sicurezza, e non garantisce nulla: gli account cloud si bloccano, i codici si dimenticano, i servizi di archiviazione hanno le loro giornate storte. Per i documenti che contano davvero, tieni anche qualcosa di indipendente, che sia una copia stampata in un cassetto a casa o una seconda esportazione su un drive.
+
+Niente di tutto questo è drammatico, ed è proprio questo il punto. Le famiglie che gestiscono bene un telefono rubato all'estero non sono quasi mai quelle che hanno reagito in modo brillante. Sono quelle che hanno passato venti minuti banali al tavolo della cucina due settimane prima. Se non l'hai ancora fatto, attiva il backup oggi stesso e annota dove si trova il codice di recupero.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 

@@ -20,7 +20,7 @@ La mayoría de los daños en un pasaporte son puramente estéticos. Una portada 
 
 Merece la pena saber dónde está ese límite antes de viajar, porque un pasaporte puede ser técnicamente válido y aun así ser rechazado. Aquí repasamos qué cuenta como daño, qué suelen aceptar las autoridades y qué hacer si el tuyo ya está en mal estado.
 
-## Qué Cuenta Realmente Como Daño en el Pasaporte
+## El Desgaste Cosmético Se Da por Hecho; el Daño a las Medidas de Seguridad, No
 
 Aquí es donde la mayoría entra en pánico sin necesidad: una esquina doblada en la portada no es daño, y tampoco lo es una pequeña arruga de llevarlo en el bolsillo trasero. Las aerolíneas y los agentes de fronteras saben que los pasaportes se usan, así que el desgaste cosmético leve se da por hecho.
 
@@ -30,7 +30,9 @@ Lo más crítico es que la zona de lectura mecánica —la franja en blanco y ne
 
 El motivo por el que esto importa es que **las aerolíneas asumen la responsabilidad si embarcan a alguien con un documento inaceptable.** Si embarcas con un pasaporte dañado y te deniegan la entrada al llegar, las autoridades pueden multar a la aerolínea por haberte transportado. La aerolínea también tiene que cubrir el coste de tu vuelo de vuelta.
 
-Ningún agente de puerta quiere ese papeleo, así que optan decididamente por la prudencia. Un pasaporte que parece dudoso queda rechazado, sin más.
+Ningún agente de puerta quiere ese papeleo, así que optan decididamente por la prudencia.
+
+Un pasaporte que parece dudoso queda rechazado, sin más.
 
 ## Detectas el Daño Días o Semanas Antes de Viajar
 
@@ -42,9 +44,9 @@ Algunas cosas que conviene confirmar antes de ir. Suelen existir servicios urgen
 
 Un pasaporte dañado también suele significar solicitarlo en persona en lugar de por correo. En algunos países, la oficina que gestiona los casos urgentes es un lugar completamente distinto al que simplemente recibe solicitudes, y presentarte en el mostrador equivocado te cuesta un día que probablemente no tienes.
 
-Empieza el trámite en cuanto descubras el daño. Reservar vuelos y esperar que la renovación llegue a tiempo es una apuesta que falla constantemente, sobre todo en verano, cuando las oficinas de pasaportes están desbordadas.
+Empieza el trámite en cuanto descubras el daño. **Nosotros no esperaríamos ni un día para hacer esa llamada.** Reservar vuelos y esperar que la renovación llegue a tiempo es una apuesta que falla constantemente, sobre todo en verano, cuando las oficinas de pasaportes están desbordadas.
 
-## Daño Descubierto en el Aeropuerto
+## En la Puerta de Embarque, la Honestidad Mantiene Abiertas Tus Opciones
 
 Ahora la versión más difícil: estás en la fila de facturación o en la puerta de embarque y notas un daño que se te había pasado antes, o el agente lo detecta en cuanto le entregas el pasaporte.
 
@@ -60,7 +62,7 @@ Una vez denegado el embarque, tienes opciones limitadas:
 
 Si el agente de la puerta dice que no, no discutas ni intentes embarcar de todos modos. Eso solo crea problemas mayores. La aerolínea puede prohibirte futuros vuelos, las autoridades de inmigración pueden multarte, y en algunos países pueden procesarte por intentar viajar con un documento que ya han considerado inválido.
 
-## Plazos de Sustitución de Pasaporte de Emergencia
+## Comprueba el Plazo en la Fuente Antes de Reservar
 
 Los plazos de tramitación publicados varían a lo largo del año, y aumentan en verano, cuando las oficinas de pasaportes están más saturadas. En lugar de fiarte de una cifra que hayas leído en algún sitio, comprueba la actual directamente en la fuente antes de fijar una fecha de viaje:
 
@@ -71,7 +73,7 @@ Los plazos de tramitación publicados varían a lo largo del año, y aumentan en
 
 Aun así, el patrón se repite en todas partes. Cuanto más cerca estás de la salida, menos vías siguen abiertas, y las que quedan requieren que te presentes en persona con tu pasaporte dañado y el justificante de viaje. Descubrir el daño tres semanas antes es una molestia. Descubrirlo tres días antes es un problema completamente distinto.
 
-## Por Qué las Copias Digitales Salvan el Día
+## Un Escaneo de Tu Pasaporte Agiliza la Sustitución
 
 Cuando necesitas sustituir un pasaporte dañado con urgencia, hay una cosa que lo ralentiza todo: demostrar quién eres. La oficina de pasaportes necesita verificar que la sustitución va a parar al propietario legítimo, y no a alguien con una identidad robada.
 
@@ -80,6 +82,8 @@ Aquí ayuda tener una foto digital nítida de tu pasaporte. Guarda la página de
 Esto es especialmente valioso si estás en el extranjero cuando tu pasaporte se daña y necesitas un documento de viaje de emergencia de tu embajada. Los funcionarios consulares trabajan más rápido cuando tienen delante un escaneo de tu pasaporte original.
 
 Guarda tus copias digitales en un lugar cifrado y sin conexión —no en Google Photos ni en un iCloud compartido con otras personas. Travel Document Vault está pensado exactamente para este caso de uso: fotos de pasaporte cifradas solo en tu dispositivo, accesibles al instante si algo sale mal.
+
+Escanea tu pasaporte hoy, antes de necesitarlo.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

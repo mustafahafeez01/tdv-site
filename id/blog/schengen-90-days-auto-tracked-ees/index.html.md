@@ -108,7 +108,7 @@ Tidak. EES sudah aktif sekarang dan mendaftarkan masuk serta keluar Anda di perb
 
 ### Bagaimana Travel Document Vault membantu dengan aturan 90/180?
 
-Aplikasi ini menghitung hari per orang, per negara, di semua perjalanan Anda, dan memproyeksikan jendela bergulir Anda ke depan sebelum Anda memesan. Aplikasi ini tidak membaca catatan EES Anda, tidak ada aplikasi yang bisa melakukannya, tapi menerapkan perhitungan resmi 90/180 pada tanggal perjalanan Anda, sehingga sisa hari setiap anggota keluarga terlihat sekilas.
+Aplikasi ini menghitung hari per orang, per negara, di semua perjalanan Anda ke negara tersebut, dan memproyeksikan jendela bergulir Anda ke depan sebelum Anda memesan. Aplikasi ini tidak membaca catatan EES Anda, tidak ada aplikasi yang bisa melakukannya, tapi dengan Pro aplikasi ini menerapkan hitungan bergulir 90/180 pada perjalanan Anda ke setiap negara yang Anda beri batas, sehingga sisa hari setiap anggota keluarga di sana terlihat sekilas.
 
 ## Artikel Terkait
 

@@ -30,7 +30,7 @@ L'urgence de la situation détermine la marche à suivre :
 - **Le voyage se rapproche :** appelez directement votre autorité de délivrance de passeports plutôt que de vous fier au seul site Web — le service d'assistance de HM Passport Office au Royaume-Uni, ou le National Passport Information Center aux États-Unis.
 - **Le voyage est imminent :** demandez un rendez-vous d'urgence et apportez la preuve de vos dates de voyage. Le Royaume-Uni propose un service Premium accéléré dans des bureaux de passeport désignés, et les États-Unis proposent des rendez-vous dans des agences de passeport régionales.
 
-Toutes les grandes autorités de délivrance de passeports conservent des créneaux de rendez-vous d'urgence qui ne sont pas visibles en ligne. Si votre calendrier est serré, appelez plutôt que de ne vous fier qu'au site Web.
+Toutes les grandes autorités de délivrance de passeports conservent des créneaux de rendez-vous d'urgence qui ne sont pas visibles en ligne. Si votre calendrier est serré, nous appellerions toujours plutôt que de nous fier au seul site Web.
 
 **Réglez le rappel maintenant** pour que cela ne se reproduise plus — Travel Document Vault commence à vous prévenir dès huit mois avant l'expiration de chaque passeport de votre ménage, puis à nouveau à l'approche de la date. [Téléchargez sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
@@ -52,7 +52,9 @@ Ce scénario se produit plus souvent que les gens ne le pensent, et les étapes 
 
 ## Autres Problèmes de Passeport Qui Causent le Refus à l'Aéroport
 
-L'expiration est la raison la plus courante pour qu'un passeport soit refusé à l'aéroport, mais d'autres problèmes causent le même résultat. Ce qui les rend plus faciles à ignorer, contrairement aux dates d'expiration, c'est qu'elles ne viennent pas avec un avertissement visible avec compte à rebours.
+L'expiration est la raison la plus courante pour qu'un passeport soit refusé à l'aéroport, mais d'autres problèmes causent le même résultat.
+
+Ce qui les rend plus faciles à ignorer, contrairement aux dates d'expiration, c'est qu'elles ne viennent pas avec un avertissement visible avec compte à rebours.
 
 ### 1. Un passeport endommagé
 
@@ -68,7 +70,7 @@ Même de petites variations comme un initial manquant ou une lettre transposée 
 
 ### 3. Un passeport non signé
 
-La plupart des passeports ont une zone de signature. Certains pays — dont les États-Unis — exigent que le passeport soit signé avant d'être considéré comme valide pour le voyage. Un passeport non signé peut être refusé à la frontière. C'est le plus souvent un problème avec les passeports délivrés aux enfants trop jeunes pour signer ou avec les tout nouveaux passeports que le titulaire a oublié de signer avant de voyager. Vérifiez le panneau de signature avant de partir de chez vous.
+La plupart des passeports ont une zone de signature. Certains pays — dont les États-Unis — exigent que le passeport soit signé avant d'être considéré comme valide pour le voyage. Un passeport non signé peut être refusé à la frontière. C'est le plus souvent un problème avec les passeports délivrés aux enfants trop jeunes pour signer ou avec les tout nouveaux passeports que le titulaire a oublié de signer avant de voyager. Un rapide coup d'œil au panneau de signature avant de partir de chez vous permet de repérer ce problème à temps.
 
 ### 4. Validité insuffisante pour votre destination
 
@@ -82,11 +84,11 @@ Les exigences de visa et d'autorisation de voyage électronique (ETA) changent f
 
 Avant chaque voyage, vérifiez les exigences d'entrée officielles pour votre destination en utilisant le service de conseil aux voyageurs de votre pays : gov.uk/foreign-travel-advice pour les titulaires de passeport britannique, travel.state.gov pour les titulaires de passeport américain, ou smartraveller.gov.au pour les titulaires de passeport australien. Ne vous fiez pas à ce qui était vrai la dernière fois.
 
-## Comment S'assurer Que Cela Ne Se Reproduise Plus Jamais
+## Réglez le rappel un an à l'avance, pas six mois
 
 La cause première est généralement la même : aucun rappel en place. Réglez un rappel d'expiration au moins **12 mois avant la date d'expiration** — pas 6 mois. Cela vous donne du temps pour renouveler avec un traitement standard sans payer pour un service accéléré, et sans le stress d'un calendrier serré.
 
-Faites cela pour chaque passeport de votre ménage séparément. Les passeports des enfants expirent plus rapidement — 5 ans dans la plupart des pays contre 10 pour les adultes — et ce sont ceux qui sont le plus souvent oubliés.
+Faites cela pour chaque passeport de votre ménage séparément. Les passeports des enfants expirent plus rapidement (5 ans dans la plupart des pays contre 10 pour les adultes) et ce sont ceux qui sont le plus souvent oubliés. **Sortez chaque passeport dès aujourd'hui et vérifiez la date d'expiration, pas seulement la page de la photo.**
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 

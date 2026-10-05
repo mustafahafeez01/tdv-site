@@ -16,23 +16,25 @@ Source: https://traveldocumentvault.com/pt/blog/digital-passport-copy-valid/
 - As candidaturas de visto exigem **formatos específicos** (cópias certificadas ou digitalizações autenticadas) em vez de fotos casuais de telemóvel. Consulte o site da embaixada primeiro.
 - Se o seu passaporte for perdido no estrangeiro, uma **cópia digital acelera a substituição de emergência** na sua embaixada significativamente.
 
-Ao planear uma viagem, muitos viajantes questionam-se se podem armazenar uma cópia digital do seu passaporte no telemóvel em vez de levar o original. A resposta curta: uma cópia digital é genuinamente útil, mas apenas em situações específicas. Precisa de saber exatamente onde funciona e onde não funciona, para não ficar apanhado no check-in.
+Ao planear uma viagem, muitos viajantes questionam-se se podem armazenar uma cópia digital do seu passaporte no telemóvel em vez de levar o original. Precisa de saber exatamente onde funciona e onde não funciona, para não ficar apanhado no check-in.
+
+A resposta curta: uma cópia digital é genuinamente útil, mas apenas em situações específicas.
 
 ## Onde as Cópias Digitais de Passaporte São Aceites
 
-### Check-in do Hotel
+### Muitos Hotéis Aceitam Uma Cópia, mas Em Partes da Europa Costumam Querer o Original
 
 A maioria dos hotéis em todo o mundo aceita cópias digitais de passaporte no check-in — um PDF no seu telemóvel, enviado com antecedência, ou impresso. Isto é particularmente útil se estiver a fazer check-in tarde ou a deslocar-se entre propriedades e não quer levar o seu passaporte físico durante toda a viagem. Alguns hotéis mais pequenos, particularmente em regiões com menos infraestrutura digital, ainda preferem o original. Em partes da Europa — Espanha, França e Itália entre elas — os hotéis devem registar os seus dados para as autoridades e geralmente vão querer ver o passaporte físico para o fazer, mesmo que a orientação de proteção de dados diga que tipicamente não devem guardar uma cópia. Contacte o seu alojamento com antecedência para confirmar.
 
-### Reservas de Voos e Check-in Online
+### Uma Cópia Digital Acelera o Check-in, Não o Embarque
 
 As companhias aéreas exigem a informação do seu passaporte ao fazer a reserva, e muitas permitem que carregue uma cópia digital para verificar a sua identidade para check-in online — isto acelera o processo no aeroporto. Ainda assim, precisará de apresentar o passaporte original no portão. O papel da cópia digital é verificação pré-viagem, não documentação de embarque.
 
-### Agências de Aluguel de Automóvel
+### Uma Cópia Reserva o Carro, mas o Original Continua a Ser Preciso para o Levantar
 
 As empresas de aluguel de automóvel tipicamente aceitam cópias digitais de passaporte para reserva e verificação de depósito. Quando chegar para recolher o veículo, apresentará o passaporte original juntamente com a sua carta de condução. A cópia digital é útil durante a fase de reserva.
 
-### Assistência Consular de Emergência
+### Se Perder o Passaporte, a Cópia Acelera o Processo
 
 Se o seu passaporte for perdido ou roubado durante a viagem, uma cópia digital pode acelerar significativamente o processo de documento de viagem de emergência na sua embaixada. Prova a existência do seu passaporte e fornece a sua informação biográfica, fotografia e número de passaporte, tudo o que a embaixada precisa para emitir uma substituição. Esta é uma das razões mais fortes para sempre levar uma cópia de segurança digital.
 
@@ -69,9 +71,13 @@ As cópias de passaporte contêm informações sensíveis de identidade: o seu n
 - **Nunca partilhe desnecessariamente**. Apenas forneça a cópia do seu passaporte a negócios legítimos com os quais está ativamente a transacionar.
 - **Mantenha as cópias separadas do seu passaporte físico**. Se a sua mala for roubada, quer que a cópia de segurança esteja noutro lugar.
 
+Se só corrigir um hábito, troque o PDF enviado por email ou a foto no rolo da câmara por uma aplicação encriptada, já que essa cópia casual é a que mais facilmente acaba em mãos erradas se o telemóvel ou a caixa de correio forem comprometidos.
+
 **Travel Document Vault** armazena cópias encriptadas de todos os seus documentos de viagem no dispositivo. Encriptado com AES-256 no seu telemóvel, sem conta obrigatória. Cópia de segurança encriptada opcional para o seu próprio iCloud ou Google Drive (Pro) selada com um código de recuperação apenas você possui. [Disponível na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 Se está a questionar se o armazenamento em nuvem é seguro para cópias de passaporte, consulte o nosso guia sobre [armazenar passaportes no Google Photos](https://traveldocumentvault.com/pt/blog/is-it-safe-to-store-passport-in-google-photos/). Explica por que uma aplicação encriptada dedicada oferece proteção mais forte.
+
+Se ainda não fez uma, digitalize hoje a página da fotografia do seu passaporte, antes de estar diante de um balcão de check-in ou de uma embaixada a precisar dela.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

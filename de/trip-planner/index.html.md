@@ -38,7 +38,7 @@ Zeigt Schengen-Regeln, Visa-Gültigkeitsfenster und lokale Bräuche. Alles aktua
 
 Verfolgen Sie, wie viele Tage jedes Familienmitglied in einem Land verbracht hat, indem Sie Zeiträume (Schengen-Jahr, Visa-Fenster, Geschäftsjahr) erstellen und Freigaberegeln damit verknüpfen – dann sehen Sie auf einen Blick eine Aufschlüsselung pro Familienmitglied.
 
-Entwickelt für Schengen-90/180-Verfolgung, UK-183-Tage-Regeln und benutzerdefinierte Visa- oder Residenzfenster. Verwendete Tage werden automatisch aktualisiert, wenn Reisen protokolliert werden.
+Entwickelt für rollierende Limits im Stil von 90/180 in einem Land, UK-183-Tage-Regeln und benutzerdefinierte Visa- oder Residenzfenster. Verwendete Tage werden automatisch aktualisiert, wenn Reisen protokolliert werden.
 
 ## Und vieles mehr
 

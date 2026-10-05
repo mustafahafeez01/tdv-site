@@ -29,15 +29,17 @@ La distinción clave —una que muchas reseñas pasan por alto— es **dónde vi
 - **Almacenamiento en el dispositivo:** Tus escaneos de pasaporte y detalles se almacenan cifrados en tu teléfono. La empresa de la aplicación no puede acceder a ellos. No hay una cuenta que sea vulnerada. Si pierdes tu teléfono, una nueva instalación no restaura automáticamente tus datos (aunque puedes hacer una copia de seguridad a través de iCloud o localmente).
 - **Almacenamiento en la nube:** Tus escaneos se suben a un servidor. Puedes acceder desde múltiples dispositivos y restaurar fácilmente. Pero estás confiando a la seguridad del servidor de una empresa y a su plan de respuesta ante brechas con tus datos de pasaporte.
 
-Ninguno de estos enfoques es universalmente "incorrecto", pero para documentos de identidad tan sensibles como pasaportes, el modelo en el dispositivo es significativamente más seguro. Una brecha de una aplicación en el dispositivo no filtra nada de sus servidores —no hay nada allí para filtrarse.
+Ninguno de estos enfoques es universalmente "incorrecto", pero para documentos de identidad tan sensibles como pasaportes, el modelo en el dispositivo es significativamente más seguro.
 
-## Las funciones que realmente importan
+Una brecha de una aplicación en el dispositivo no filtra nada de sus servidores —no hay nada allí para filtrarse.
 
-### Recordatorios de vencimiento con tiempo de anticipación personalizable
+## Estas funciones deciden si la aplicación merece la pena
+
+### El tiempo de anticipación del recordatorio es el ajuste que merece la pena personalizar
 
 Esta es la función individual más valiosa. Un recordatorio a los 6 meses es el mínimo —muchos países requieren que tu pasaporte sea válido durante al menos 6 meses más allá de tus fechas de viaje, como se explica en nuestro artículo sobre la [regla de 6 meses del pasaporte](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/). Para familias con niños, cuyos pasaportes vencen después de 5 años en lugar de 10, un recordatorio anterior —digamos 9 meses antes— da más tiempo de planificación cómodo.
 
-### Guardar los pasaportes de varios miembros de la familia de forma segura en una sola aplicación
+### Una sola aplicación puede guardar a toda la familia, de forma segura
 
 Una familia de cuatro no quiere cuatro aplicaciones separadas. Las mejores aplicaciones organizadoras de pasaportes tratan a cada persona como un perfil separado, con sus propios documentos, fechas de vencimiento, y recordatorios. Esto suena obvio pero un número sorprendente de aplicaciones están construidas alrededor de los documentos de una sola persona.
 
@@ -45,15 +47,15 @@ Eso solo es cierto si la aplicación guarda todo en el dispositivo y detrás de 
 
 Si lo que necesitas de verdad es un sistema para toda la casa y no una lista de aplicaciones, lo explicamos con más detalle en nuestra guía sobre [cómo guardar de forma segura los pasaportes de varios miembros de la familia](https://traveldocumentvault.com/es/blog/family-passport-management/).
 
-### Acceso sin conexión
+### El acceso sin conexión no es opcional
 
 Necesitas tus datos de pasaporte precisamente en los momentos cuando el acceso a internet no es fiable: fronteras internacionales, zonas de tránsito, áreas rurales, o después de perder tu SIM en el extranjero. Si la aplicación requiere una conexión de red para mostrar tus documentos, falla en el momento más crítico.
 
-### Cobertura de tipos de documentos
+### Una buena aplicación debería cubrir más que solo pasaportes
 
 Los pasaportes son el punto de partida obvio, pero un buen organizador también maneja visados (que vencen independientemente de tu pasaporte), documentos de identidad nacional, seguro de viaje, registros de vacunación, licencias de conducir, y —para familias— cartas de consentimiento de viaje para menores. Cuantos más tipos de documentos se soporten, menos aplicaciones necesitarás.
 
-### Modelo de privacidad
+### Una política de privacidad vaga es motivo para descartar la aplicación
 
 Antes de descargar, pregúntate si la aplicación requiere una cuenta, sube escaneos a un servidor, o tiene una política de privacidad clara que divulgue qué datos recopila. Las aplicaciones que son gratis y dependen de publicidad generalmente no son apropiadas para almacenar documentos de identidad —los datos son el producto.
 
@@ -72,7 +74,7 @@ Lo que esto significa en la práctica
 
 Estás en un puesto de frontera, teléfono sin conexión, y el oficial de inmigración te pide que muestres tus datos de visado. Una aplicación que requiere conexión a internet falla completamente —no puedes acceder a tus documentos. Una aplicación en el dispositivo sin cuenta funciona perfectamente. Este es exactamente el momento en que necesitas que la aplicación funcione.
 
-## Compra única vs. Suscripción
+## Comprueba qué pasa con tus documentos si caduca una suscripción
 
 Hay un argumento práctico a favor de las aplicaciones de compra única sobre suscripciones cuando se trata de almacenamiento de documentos. Si olvidas renovar una suscripción —o simplemente decides cancelar— pierdes acceso a tus documentos almacenados. Ese es un arreglo arriesgado para algo que podrías necesitar años desde ahora.
 
@@ -97,6 +99,8 @@ Cuando evalúes cualquier aplicación organizadora de pasaportes, hazte estas nu
 - ¿Los datos están cifrados en reposo en el dispositivo?
 
 Si nueve de estas respuestas son "sí", tienes una aplicación genuinamente confiable. Para cada "no", sopesa si ese compromiso te importa. Para más sobre organización de documentos, consulta nuestro [blog](https://traveldocumentvault.com/es/) para consejos sobre qué almacenar y cuándo.
+
+Abre la aplicación que de verdad estás pensando en usar y pásala por esta lista antes de escanear una sola página de tu pasaporte.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

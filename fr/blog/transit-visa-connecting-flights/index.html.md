@@ -21,7 +21,7 @@ Le besoin ou non d'un visa de transit pour une correspondance dépend de trois �
 
 Le visa de transit est le document qui piège même les voyageurs les plus prudents, car il existe indépendamment de tout le reste de votre dossier. La validité de votre passeport n'y change rien, et le visa d'entrée de votre destination ne le remplace pas non plus - il existe uniquement parce que votre avion se pose dans tel ou tel pays pour faire escale. Pourtant, beaucoup de voyageurs ne vérifient s'ils en ont besoin que bien trop tard.
 
-## Transit en zone internationale ou transit en zone publique - la distinction essentielle
+## Le transit en zone internationale n'exige souvent aucun visa, mais en zone publique il faut passer l'immigration
 
 Le besoin de visa se résume souvent à une seule distinction : zone internationale ou zone publique. La plupart des pays accordent une exemption de visa d'un côté de cette ligne, mais pas de l'autre.
 
@@ -53,13 +53,13 @@ Cela s'applique même à des nationalités proches au sein d'une même région. 
 
 C'est pourquoi l'IATA Travel Centre (la même base de données utilisée par les compagnies aériennes à l'embarquement) reste la seule source fiable : vous indiquez votre nationalité et votre destination, et l'outil vous communique l'exigence exacte pour cette combinaison précise. Ne présumez jamais de rien à partir de l'expérience d'un autre voyageur ou de ce que vous vous rappelez d'un précédent voyage.
 
-## Découvrir après réservation que vous avez besoin d'un visa de transit
+## Si vous découvrez après réservation qu'il vous faut un visa, appelez d'abord votre compagnie aérienne
 
 Cela arrive plus souvent qu'on ne le pense : vous réservez vos vols, puis découvrez que l'escale exige un visa de transit que vous n'avez pas. Dans ce cas, traitez la situation en urgence, car les délais de traitement varient énormément - du jour même à plusieurs semaines selon le pays et la période de l'année.
 
 Commencez par votre compagnie aérienne, qui connaît parfois les délais de traitement et a souvent l'expérience des itinéraires courants. Contactez ensuite l'ambassade ou le consulat le plus proche du pays de transit pour connaître le délai d'obtention du visa lui-même. De nombreux consulats proposent un traitement accéléré en cas d'urgence de voyage, moyennant parfois des frais supplémentaires.
 
-Si le délai de traitement est incompatible avec votre date de départ, trois options s'offrent à vous : changer vos vols pour éviter entièrement le pays de transit, réserver un nouvel itinéraire via un autre hub, ou reporter votre voyage. Tenter d'embarquer sans le visa requis entraînera un vol manqué et d'éventuelles complications avec votre compagnie aérienne.
+Si le délai de traitement est incompatible avec votre date de départ, trois options s'offrent à vous : changer vos vols pour éviter entièrement le pays de transit, réserver un nouvel itinéraire via un autre hub, ou reporter votre voyage. Réservez le nouvel itinéraire dès que vous repérez le problème, plutôt que d'attendre en espérant que les démarches aboutiront à temps. Tenter d'embarquer sans le visa requis entraînera un vol manqué et d'éventuelles complications avec votre compagnie aérienne.
 
 ## Comment vérifier avant de réserver
 
@@ -70,6 +70,8 @@ Lorsque l'outil signale un visa de transit nécessaire, notez deux choses au-del
 Intégrez tout visa de transit nécessaire à votre calendrier de préparation, au même titre que votre visa d'entrée principal. Certains prennent des semaines à obtenir ; il vous faut cette information avant de réserver vos vols. Conservez la confirmation avec vos autres documents de voyage pour l'avoir à portée de main à l'embarquement, où c'est la compagnie aérienne, et non la frontière, qui la contrôle en premier.
 
 Si vous voyagez en famille, vérifiez individuellement le passeport de chaque membre. Une seule personne sans exemption peut compromettre tout le voyage.
+
+Avant de réserver, passez l'ensemble de votre itinéraire, et pas seulement la destination, dans l'IATA Travel Centre. C'est la vérification la plus susceptible de repérer une exigence manquante pendant que vous pouvez encore modifier la réservation.
 
 ## Questions fréquemment posées
 

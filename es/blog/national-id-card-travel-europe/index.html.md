@@ -18,13 +18,13 @@ Source: https://traveldocumentvault.com/es/blog/national-id-card-travel-europe/
 
 Si eres ciudadano de la UE y planeas un viaje a otro país europeo, probablemente tengas un documento de identidad nacional. Y seguramente te has preguntado si llevar ese documento, tu pasaporte, o ambos. La respuesta directa es esta: dentro de la UE y el EEE, tu documento de identidad basta por sí solo para viajar, porque este artículo está escrito específicamente para ciudadanos de la UE y el EEE. Un lector británico o estadounidense no tiene un documento de identidad nacional válido para viajar, así que si es tu caso, el pasaporte es tu única opción de todos modos.
 
-Para el resto de Europa, las normas son claras y más sencillas de lo que mucha gente cree. La confusión no viene de la ley, sino de las aerolíneas, que añaden sus propios requisitos encima. Entender la diferencia entre lo que exige legalmente Europa y lo que pide tu aerolínea te ahorra un apuro de última hora en el mostrador de facturación.
+Para el resto de Europa, las normas son claras y más sencillas de lo que mucha gente cree. La confusión suele venir de las aerolíneas, que añaden sus propios requisitos encima de la ley. Entender la diferencia entre lo que exige legalmente Europa y lo que pide tu aerolínea te ahorra un apuro de última hora en el mostrador de facturación.
 
 ## Cuándo basta con el documento de identidad de la UE
 
 Dentro de la UE y el EEE, un documento de identidad nacional válido es un documento de viaje completo. Puedes cruzar fronteras entre los estados miembros de la UE, Noruega, Islandia, Liechtenstein y Suiza usando solo tu documento de identidad. No necesitas el pasaporte. El documento debe ser válido el día de tu llegada; a diferencia de los pasaportes para algunos destinos, no existe ninguna «regla de los 6 meses» para viajar con el documento de identidad dentro de Europa.
 
-Un documento que caduca mañana sigue siendo técnicamente un documento de viaje válido hoy. Aun así, **renovarlo con bastante antelación sigue siendo lo más inteligente**, porque un documento próximo a caducar tiene más probabilidades de generar preguntas en la frontera, y los documentos dañados se rechazan incluso cuando todavía no han caducado.
+Un documento que caduca mañana sigue siendo técnicamente un documento de viaje válido hoy. Aun así, renovarlo con bastante antelación sigue siendo lo más inteligente, porque un documento próximo a caducar tiene más probabilidades de generar preguntas en la frontera, y los documentos dañados se rechazan incluso cuando todavía no han caducado.
 
 El espacio Schengen es donde más importa esta flexibilidad. Como ciudadano de la UE con un documento de identidad válido, puedes moverte libremente por las fronteras abiertas entre países Schengen sin control de pasaportes. El mismo derecho se aplica en las fronteras de países de la UE que no forman parte de Schengen: el documento funciona por la ley de libre circulación de la UE, no por pertenecer a Schengen.
 
@@ -57,7 +57,9 @@ Lo tratamos en detalle en nuestra guía sobre [gestión de pasaportes familiares
 
 Si tu documento de identidad es rechazado, tus opciones dependen de qué más lleves contigo. Si además tienes el pasaporte, normalmente podrás viajar con él, siempre que sea válido y cumpla los requisitos de entrada del destino. Pero si solo llevas el documento de identidad, no hay alternativa: no podrás cruzar, y los funcionarios de frontera no tienen obligación de aceptar otro documento.
 
-**El planteamiento más práctico:** lleva tanto el documento de identidad como el pasaporte cuando viajes internacionalmente, incluso dentro de Europa. Ninguno de los dos ocupa mucho espacio, y llevar ambos significa que un documento dañado o cuestionado no acaba con tu viaje. Si tu documento de identidad es rechazado por ilegible, el pasaporte se convierte en tu respaldo.
+Lo más práctico es llevar tanto el documento de identidad como el pasaporte cuando viajes internacionalmente, incluso dentro de Europa.
+
+Ninguno de los dos ocupa mucho espacio, y llevar ambos significa que un documento dañado o cuestionado no acaba con tu viaje. Si tu documento de identidad es rechazado por ilegible, el pasaporte se convierte en tu respaldo.
 
 ## Dos documentos, dos fechas de caducidad
 
@@ -66,6 +68,8 @@ El reto práctico de gestionar documentos de viaje es este: tu documento de iden
 Lo más difícil es que **ninguno de los dos documentos te avisa.** Se supone que tienes que comprobarlos tú mismo. La mayoría no lo hace, hasta que está en el mostrador de facturación y un agente le dice que uno de los dos está demasiado cerca de caducar para ser aceptado.
 
 Lo que ayuda es tener un único lugar para ambos documentos, que registre cada fecha de caducidad al escanearlo y te avise por separado para cada uno, con el calendario que corresponde a ese tipo de documento. Consulta nuestra guía sobre [cómo preparar una lista de verificación completa antes de viajar](https://traveldocumentvault.com/es/blog/travel-document-checklist/) para ver todo lo que hay que comprobar antes de salir.
+
+Empieza hoy: saca tu documento de identidad, comprueba la fecha de caducidad y revisa que no tenga grietas, desteñidos ni el plástico deformado. Si está en el límite, solicita la renovación antes de reservar el viaje.
 
 ## Preguntas frecuentes
 

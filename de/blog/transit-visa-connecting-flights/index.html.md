@@ -21,7 +21,7 @@ Ob ein Anschlussflug ein Transitvisum erfordert, hängt von drei Dingen ab: welc
 
 Transitvisa sind das Dokument, das selbst sorgfältige Reisende überrascht, weil sie unabhängig von allem anderen in Ihrer Reisemappe stehen. Die Gültigkeit Ihres Reisepasses hat keinen Einfluss darauf, und das Einreisevisum für Ihr Reiseziel ersetzt sie ebenfalls nicht - sie existieren einzig, weil Ihr Flugzeug zufällig dort zwischenlandet, um aufzutanken. Trotzdem prüfen viele Reisende erst viel zu spät, ob sie eines brauchen.
 
-## Airside-Transit versus Landside-Transit - die entscheidende Unterscheidung
+## Airside-Transit braucht oft kein Visum, Landside-Transit bedeutet dagegen Einreisekontrolle
 
 Ob Sie ein Visum brauchen, hängt oft von einer einzigen Unterscheidung ab: Airside oder Landside. Die meisten Länder gewähren visumfreien Transit auf einer Seite dieser Grenze, aber nicht auf der anderen.
 
@@ -53,13 +53,13 @@ Das gilt sogar für ähnliche Staatsangehörigkeiten innerhalb derselben Region.
 
 Deshalb ist das IATA Travel Centre (dieselbe Datenbank, die Fluggesellschaften am Gate nutzen) die einzige verlässliche Quelle: Sie geben Ihre Staatsangehörigkeit und Ihr Reiseziel ein, und es zeigt Ihnen die genaue Anforderung für diese Kombination. Verlassen Sie sich nie auf die Erfahrung eines anderen Reisenden oder darauf, was Sie von einer früheren Reise noch wissen.
 
-## Wenn Sie erst nach der Buchung merken, dass Sie ein Transitvisum brauchen
+## Merken Sie erst nach der Buchung, dass Sie ein Visum brauchen, rufen Sie zuerst Ihre Fluggesellschaft an
 
 Es kommt häufiger vor, als man denkt: Sie buchen die Flüge und merken erst danach, dass der Zwischenstopp ein Transitvisum erfordert, das Sie nicht haben. In diesem Fall sollten Sie sofort handeln, denn die Bearbeitungszeiten schwanken enorm - von taggleich bis zu mehreren Wochen, je nach Land und Jahreszeit.
 
 Wenden Sie sich zunächst an Ihre Fluggesellschaft, denn sie kennt oft die Bearbeitungszeiten und hat mitunter Erfahrung mit gängigen Routen. Kontaktieren Sie anschließend die nächstgelegene Botschaft oder das Konsulat des Transitlandes, um zu erfahren, wie lange das Visum selbst dauert. Viele Konsulate bieten für dringende Reisefälle eine beschleunigte Bearbeitung an, wofür jedoch meist eine zusätzliche Gebühr anfällt.
 
-Lässt sich die Bearbeitungszeit vor Ihrem Abflugdatum nicht einhalten, haben Sie drei Möglichkeiten: Ihre Flüge umbuchen, um das Transitland ganz zu vermeiden, über einen anderen Umsteigeflughafen umbuchen, oder Ihre Reise verschieben. Der Versuch, ohne das erforderliche Visum zu boarden, führt zu verpassten Flügen und möglichen Problemen mit Ihrer Fluggesellschaft.
+Lässt sich die Bearbeitungszeit vor Ihrem Abflugdatum nicht einhalten, haben Sie drei Möglichkeiten: Ihre Flüge umbuchen, um das Transitland ganz zu vermeiden, über einen anderen Umsteigeflughafen umbuchen, oder Ihre Reise verschieben. Der Versuch, ohne das erforderliche Visum zu boarden, führt zu verpassten Flügen und möglichen Problemen mit Ihrer Fluggesellschaft. Buchen Sie die neue Route daher in dem Moment, in dem Sie das Problem bemerken, statt abzuwarten und zu hoffen, dass die Unterlagen rechtzeitig durchkommen.
 
 ## So prüfen Sie es vor der Buchung
 
@@ -70,6 +70,8 @@ Zeigt das Tool ein erforderliches Transitvisum an, notieren Sie sich zwei Dinge 
 Nehmen Sie jedes benötigte Transitvisum zusammen mit Ihrem Hauptvisum in Ihren Zeitplan für die Reisevorbereitung auf. Manche dauern Wochen - diese Information brauchen Sie, bevor Sie die Flüge buchen. Bewahren Sie die Bestätigung bei Ihren übrigen Reisedokumenten auf, damit sie am Gate griffbereit ist, wo zuerst die Fluggesellschaft und nicht die Grenzbehörde sie prüft.
 
 Reisen Sie als Familie, prüfen Sie den Reisepass jedes Familienmitglieds einzeln. Schon eine einzige Person ohne Ausnahmeregelung kann die gesamte Reise gefährden.
+
+Bevor Sie buchen, lassen Sie Ihre gesamte Route, nicht nur das Reiseziel, durch das IATA Travel Centre laufen. Diese Prüfung deckt am ehesten eine fehlende Anforderung auf, solange Sie die Buchung noch ändern können.
 
 ## Häufig gestellte Fragen
 

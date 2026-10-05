@@ -108,7 +108,7 @@ Não. O EES está ativo agora e regista a sua entrada e saída na fronteira. O E
 
 ### Como é que o Travel Document Vault ajuda com a regra 90/180?
 
-A aplicação conta dias por pessoa, por país, em todas as suas viagens, e projeta a sua janela móvel para o futuro antes de reservar. Não lê o seu registo EES — nenhuma aplicação pode fazê-lo — mas aplica o cálculo oficial 90/180 às datas de viagem que fornece, para que os dias restantes de cada membro da família fiquem visíveis de uma olhada.
+A aplicação conta dias por pessoa, por país, em todas as suas viagens a esse país, e projeta a sua janela móvel para o futuro antes de reservar. Não lê o seu registo EES — nenhuma aplicação pode fazê-lo — mas, com o Pro, aplica uma contagem móvel 90/180 às suas viagens a cada país para o qual defina um limite, para que os dias restantes de cada membro da família nesse país fiquem visíveis de uma olhada.
 
 ## Artigos Relacionados
 

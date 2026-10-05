@@ -38,7 +38,9 @@ Hier kommt der Teil, den die meisten Artikel auslassen, und er verdient es, klar
 
 Die Konsequenz lässt sich nicht umgehen. **Verlieren Sie diesen Wiederherstellungscode, lässt sich das Backup nie wieder öffnen.** Nicht von Ihnen, nicht von Apple oder Google und nicht von uns. Es gibt keinen Link zum Zurücksetzen, weil es kein Konto gibt, an das er sich hängen ließe. Es gibt kein Support-Ticket, das ihn wiederherstellt, weil wir ihn nie besessen haben und ihn unmöglich erraten könnten.
 
-Schriftlich klingt das hart, und es lohnt sich, ehrlich damit umzugehen, statt es in einem Einstellungsbildschirm zu verstecken. Es ist derselbe Tausch, den Sie mit einem Haustürschlüssel eingehen: Das Schloss lohnt sich nur, weil kein Schlüsseldienst der Welt einen Ersatzschlüssel aufbewahrt, und genau deshalb ist ein verlorener Schlüssel Ihr Problem. Ein Unternehmen, das Ihre Dokumente wiederherstellen kann, nachdem Sie alles vergessen haben, ist ein Unternehmen, das sie die ganze Zeit über lesen konnte.
+Schriftlich klingt das hart, und es lohnt sich, ehrlich damit umzugehen, statt es in einem Einstellungsbildschirm zu verstecken. Es ist derselbe Tausch, den Sie mit einem Haustürschlüssel eingehen: Das Schloss lohnt sich nur, weil kein Schlüsseldienst der Welt einen Ersatzschlüssel aufbewahrt, und genau deshalb ist ein verlorener Schlüssel Ihr Problem.
+
+Ein Unternehmen, das Ihre Dokumente wiederherstellen kann, nachdem Sie alles vergessen haben, ist ein Unternehmen, das sie die ganze Zeit über lesen konnte.
 
 Behandeln Sie den Code also als die eine Sache, bei der Sie nichts falsch machen dürfen:
 
@@ -55,7 +57,7 @@ Ein Foto Ihres Passes in einer gewöhnlichen Fotobibliothek oder einem synchroni
 
 Ein Tresor, der vor dem Hochladen auf dem Gerät verschlüsselt wird, kommt als Chiffretext an. Wer sich Zugang zum Cloud-Konto verschafft, findet eine Datei, die er nicht öffnen kann. Der Schutz reist mit der Datei, statt vom Konto abzuhängen, in dem sie landet.
 
-Deshalb lautet die ehrliche Version von „ist die Cloud sicher": Die Cloud ist eine Lieferadresse, kein Sicherheitsmodell. Entscheidend ist der Zustand, in dem die Datei dort ankommt. Unser [Vergleich der wichtigsten Orte, an denen Menschen Passscans aufbewahren](https://traveldocumentvault.com/de/blog/safest-way-to-store-passport-digitally/), geht die Abwägungen jeder Option durch.
+Deshalb lautet die ehrliche Version von „ist die Cloud sicher": Die Cloud ist eine Lieferadresse, kein Sicherheitsmodell. Entscheidend ist der Zustand, in dem die Datei dort ankommt. Müssten wir einen Standard empfehlen, wäre es die Variante, die die Datei verschlüsselt, bevor sie das Telefon verlässt. Unser [Vergleich der wichtigsten Orte, an denen Menschen Passscans aufbewahren](https://traveldocumentvault.com/de/blog/safest-way-to-store-passport-digitally/), geht die Abwägungen jeder Option durch.
 
 | Was Sie sichern | Zustand bei Ankunft | Wer es lesen kann | Bei einem Einbruch ins Konto |
 |---|---|---|---|
@@ -72,7 +74,7 @@ Drei Dinge bleiben bewusst auf dem Telefon, und der Wiederherstellungscode steht
 
 Der letzte Punkt überrascht viele, deshalb hier die unverblümte Version. **Ein systemweites Gerätebackup installiert die App neu, kann Ihre Dokumente aber nicht wiederherstellen.** Der Verschlüsselungsschlüssel hat das alte Telefon nie verlassen, also hat das neue nichts, womit es entschlüsseln könnte. Soll Ihr Tresor das Telefon überleben, brauchen Sie entweder ein eingeschaltetes Cloud-Backup oder eine exportierte Datei, die irgendwo gespeichert ist.
 
-## Wiederherstellung auf einem neuen Telefon
+## Die Wiederherstellung ist kurz und überschreibt nichts, was bereits da ist
 
 Die Wiederherstellung ist kurz, und genau das ist der Sinn der früheren Vorbereitung.
 
@@ -80,7 +82,7 @@ Installieren Sie die App auf dem neuen Telefon und melden Sie sich beim gleichen
 
 Die App prüft außerdem, bevor sie schreibt. Erkennt das Cloud-Backup ein bestehendes Backup in diesem Konto, fragt es Sie, ob Sie es wiederherstellen oder neu beginnen möchten. Ein neues Telefon kann nicht stillschweigend überschreiben, was bereits vorhanden ist.
 
-### Wechsel zwischen iPhone und Android
+### Der Wechsel zwischen iPhone und Android läuft über den Tresor-Export
 
 Das Cloud-Backup bleibt auf einer Plattform, weil es auf Apple-Geräten Ihr eigenes iCloud-Konto und auf Android Ihr eigenes Google-Drive-Konto nutzt. Der Wechsel von einer Plattform zur anderen braucht den anderen Weg.
 
@@ -98,9 +100,9 @@ Zwanzig Minuten, einmalig, vor der nächsten Reise:
 - Exportieren Sie den Tresor einmal und speichern Sie die Datei an einem Ort, den Sie selbst kontrollieren, als Weg, der von keinem Cloud-Konto abhängt.
 - Prüfen Sie vor dem Abflug, ob die App ein aktuelles Backup anzeigt, genau wie Sie prüfen würden, ob die Pässe in der Tasche sind.
 
-Nichts davon ist dramatisch, und genau das ist der Sinn. Familien, die mit einem gestohlenen Telefon im Ausland gut zurechtkommen, sind so gut wie nie diejenigen, die brillant reagiert haben. Es sind die, die zwei Wochen zuvor zwanzig unauffällige Minuten am Küchentisch verbracht haben.
-
 Eine letzte Anmerkung zu den Erwartungen. Backup ist eine Sicherheitsebene und garantiert nichts: Cloud-Konten werden gesperrt, Codes werden vergessen, Speicherdienste haben schlechte Tage. Bei Dokumenten, die wirklich wichtig sind, bewahren Sie zusätzlich etwas Unabhängiges auf, sei es eine gedruckte Kopie in einer Schublade zu Hause oder ein zweiter Export auf einem Laufwerk.
+
+Nichts davon ist dramatisch, und genau das ist der Sinn. Familien, die mit einem gestohlenen Telefon im Ausland gut zurechtkommen, sind so gut wie nie diejenigen, die brillant reagiert haben. Es sind die, die zwei Wochen zuvor zwanzig unauffällige Minuten am Küchentisch verbracht haben. Falls Sie das noch nicht erledigt haben, richten Sie Ihr Backup heute ein und notieren Sie, wo der Wiederherstellungscode liegt.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 

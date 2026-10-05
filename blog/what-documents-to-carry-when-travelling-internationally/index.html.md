@@ -16,39 +16,41 @@ Source: https://traveldocumentvault.com/blog/what-documents-to-carry-when-travel
 - Many countries expect a **consent letter** for a child travelling with one parent. Without one, you risk being denied boarding.
 - Offline digital copies stored separately from physical documents are your best protection if your bag is lost or stolen abroad.
 
-Travellers often discover they've overlooked consent letters, vaccination certificates, accommodation confirmations, and proof of onward travel only when they reach the airport - documents that feel less important than a passport but matter just as much.
+Travellers often discover they've overlooked consent letters, vaccination certificates, accommodation confirmations, and proof of onward travel only when they reach the airport, where these documents turn out to matter just as much as the passport in their pocket.
 
 For the complete checklist of all documents you might need by trip type and stage, see [the complete travel document checklist](https://traveldocumentvault.com/blog/travel-document-checklist/). This post digs into what gets forgotten and how to prepare for losing documents abroad.
 
-## The Documents People Commonly Forget
+## Five Documents People Forget Once the Passport Is Packed
 
-Your [passport and visa](https://traveldocumentvault.com/blog/visa-vs-passport/) feel urgent, so they get packed first. But immigration officers at the gate check for five other documents that most people overlook.
+Your [passport and visa](https://traveldocumentvault.com/blog/visa-vs-passport/) feel urgent, so they get packed first. The five documents people actually forget come after them: proof of onward travel, accommodation confirmations, vaccination certificates, insurance details, and a child's consent letter.
 
 ### Proof of onward travel
 
-A surprising number of countries want evidence that you plan to leave - a return flight, an onward booking to another country, or even a coach or ferry ticket will usually do. Keeping a printout or digital copy in your carry-on means you won't face delays at immigration.
+A surprising number of countries want evidence that you plan to leave, and a return flight, an onward booking to another country, or even a coach or ferry ticket will usually do, so keep a printout or digital copy in your carry-on to avoid delays at immigration.
 
 ### Accommodation confirmations
 
-Some countries ask to see proof of your first night's booking, whether that's a hotel confirmation, an Airbnb, or a hostel. The officer wants proof you have somewhere to stay, so download a copy to your phone offline - email won't help at the border.
+Some countries ask to see proof of your first night's booking, whether that's a hotel confirmation, an Airbnb, or a hostel. The officer wants proof you have somewhere to stay, so download a copy to your phone offline, because email won't help at the border.
 
 ### Vaccination certificates
 
-Certain destinations require proof of vaccination for yellow fever or other diseases, and requirements change periodically by destination. Check the WHO travel advice pages 6-8 weeks before travel - not the night before - as some countries only accept official WHO yellow fever certificates, not photocopies or digital photos.
+Certain destinations require proof of vaccination for yellow fever or other diseases, and requirements change periodically by destination. Check the WHO travel advice pages 6-8 weeks before travel, not the night before, because some countries only accept official WHO yellow fever certificates, not photocopies or digital photos.
 
 ### Travel insurance details
 
-You'll need immediate access to your policy number, issuer contact details, and your 24-hour emergency hotline. Some visa types explicitly require proof of travel insurance - Schengen visa applications, for example, require medical insurance covering emergency care and hospitalisation. But more importantly, if something goes wrong abroad, you need these details without relying on email or internet access.
+You'll need immediate access to your policy number, issuer contact details, and your 24-hour emergency hotline. Some visa types explicitly require proof of travel insurance: Schengen visa applications, for example, require medical insurance covering emergency care and hospitalisation. But more importantly, if something goes wrong abroad, you need these details without relying on email or internet access.
 
 ### Child travel consent letters
 
-When a child travels internationally with only one parent (or with neither parent), many countries expect written consent from the absent parent, and notarisation is strongly recommended. Border officials in countries including Canada and South Africa routinely ask for one, and airline staff can refuse boarding without it. It's the most commonly overlooked document in family travel, so double-check before you reach the gate.
+When a child travels internationally with only one parent (or with neither parent), many countries expect written consent from the absent parent, and notarisation is strongly recommended. Border officials in countries including Canada and South Africa routinely ask for one, and airline staff can refuse boarding without it.
+
+It's the most commonly overlooked document in family travel, so double-check before you reach the gate.
 
 ![Hand-drawn split diagram: in your hand baggage carry the passport, visas and approvals, boarding passes, and a consent letter if needed; offline on your phone store passport details, insurance policy and hotline, booking references, and vaccination certificates - one backs up the other, and if the bag is lost the phone copy gets you home](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/carry-or-store-figure.jpg) Originals travel in your hand baggage; their encrypted twins live offline on your phone.
 
 ## What to Carry versus What to Store Digitally
 
-Borders want original documents, but if those originals disappear, secure digital backups are what get you home.
+Borders care about originals; backups get you home once those vanish.
 
 ### Carry these originals in your hand baggage
 
@@ -70,11 +72,11 @@ Borders want original documents, but if those originals disappear, secure digita
 - The child consent letter, if you're carrying one
 - Emergency contact numbers for your embassy
 
-Store these on your phone using an offline, encrypted app - not your camera roll, not Google Photos, not iCloud. If your physical documents go missing, you've still got everything you need to contact your embassy and prove who you are.
+Store these on your phone using an offline, encrypted app, not your camera roll, Google Photos, or iCloud. If your physical documents go missing, you've still got everything you need to contact your embassy and prove who you are.
 
 ## How to Keep Travel Insurance Details Accessible
 
-Most travellers buy travel insurance but forget to make the policy details immediately accessible - which means when a medical emergency or lost baggage happens abroad, you're fumbling through emails rather than calling for help. Our guide to [which travel insurance documents to save before you go](https://traveldocumentvault.com/blog/travel-insurance-documents/) sets out what to keep and where to keep it.
+Most travellers buy travel insurance but forget to make the policy details immediately accessible, so when a medical emergency or lost baggage happens abroad, you're fumbling through emails rather than calling for help. Our guide to [which travel insurance documents to save before you go](https://traveldocumentvault.com/blog/travel-insurance-documents/) sets out what to keep and where to keep it.
 
 Specific details to have on hand, both on paper and digitally:
 
@@ -83,25 +85,27 @@ Specific details to have on hand, both on paper and digitally:
 - Coverage limits for medical evacuation, which are usually listed separately from general medical cover
 - Any exclusions or conditions that apply to your trip
 
-The emergency number should be saved in your phone contacts separately from the physical documents. If your bag is lost or stolen, this ensures you can still access help without your physical policy document.
+We'd save the emergency number in your phone contacts, separate from the physical documents. If your bag is lost or stolen, this ensures you can still access help without your physical policy document.
 
 ## What Families with Children Need to Add
 
 Every child needs their own passport for international travel, however young they are. Many countries also scrutinise child travel closely to guard against parental abduction, so expect extra questions when a child travels with only one parent.
 
-**Child travel consent letter:** If a child is travelling internationally with only one parent, many border officers will ask for written consent from the absent parent, preferably notarised. If travelling with neither parent (with grandparents, for example), both parents' consent is typically required. Requirements change and vary by nationality, so verify with the official immigration authority of your destination.
+The same rule applies here: when a child is travelling internationally with only one parent, many border officers will ask for written consent from the absent parent, preferably notarised. If travelling with neither parent (with grandparents, for example), both parents' consent is typically required. Requirements change and vary by nationality, so verify with the official immigration authority of your destination.
 
 A consent letter should typically include the child's full name and date of birth, passport details, travel dates and destinations, and contact details for the absent parent(s). Some destinations have specific templates; the Canadian government, for example, provides a sample consent letter format.
 
 What this means in practice
 
-You're boarding a flight to Canada with your 8-year-old child and your partner is not travelling. Check-in staff can refuse to board your child if you can't show written consent from your absent partner, preferably notarised. If your child is travelling with their grandparents instead of you, both parents typically need to sign the consent letter - one parent's permission alone is generally not enough. Always verify the exact requirements for your destination well before your departure date.
+You're boarding a flight to Canada with your 8-year-old child and your partner is not travelling. Check-in staff can refuse to board your child if you can't show written consent from your absent partner, preferably notarised. If your child is travelling with their grandparents instead of you, both parents typically need to sign the consent letter, because one parent's permission alone is generally not enough. Always verify the exact requirements for your destination well before your departure date.
 
-## The Case for Offline Digital Copies
+## Keep an Offline Backup That Doesn't Travel in Your Bag
 
-Physical documents help until a thief takes your bag - and usually takes the copies along with the originals. A separate encrypted backup on your phone - kept offline - is your real insurance if the originals disappear.
+Physical documents help until a thief takes your bag, usually taking the copies along with the originals. A separate encrypted backup on your phone, kept offline, is your real insurance if the originals disappear.
 
 When your embassy needs to issue an emergency travel document, a secure backup gives them your passport number, date of issue, place of issue, and expiry date instantly, without internet access. For more on the options available, see our overview of [how to store passport copies safely](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/) and the trade-offs between different approaches.
+
+Pick the one document from this list you haven't backed up yet, whether that's your consent letter, your insurance policy number, or your passport's details page, and save an encrypted, offline copy on your phone before your next trip.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 

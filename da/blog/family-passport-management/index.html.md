@@ -20,9 +20,11 @@ Når du rejser med børn, og skal holde styr på fem pas på tværs af to landes
 
 ## Hvorfor familier får styringen af deres pas galt
 
-Problemet starter småt. Du har dit pas, din partner har sit. Så får du børn, og pludselig har du fire separate dokumenter med fire separate udløbsdatoer. Den menneskelige hjerne er ikke bygget til at spore fire forskellige fornyelsestidslinjer, især når livet bliver travlt. Én person ender med at håndtere det hele – normalt den person, der allerede styrer alle de andre rejselogistik – og det enkelte fejlpunkt bliver en risiko.
+Problemet starter småt. Du har dit pas, din partner har sit. Så får du børn, og pludselig har du fire separate dokumenter med fire separate udløbsdatoer. Den menneskelige hjerne er ikke bygget til at spore fire forskellige fornyelsestidslinjer, især når livet bliver travlt.
 
-Det andet problem er, at børnepas udløber meget hurtigere end voksenpas. I USA varer børnepas for under-16-årige 5 år, mens voksenpas varer 10 år. Det samme gælder i Storbritannien – børns dokumenter udløber efter 5 år, ikke 10. Det betyder, at dit yngste barns pas ofte bliver den begrænsende faktor for familierejser. Du kunne have en forælder med 8 år gyldighed tilbage, men hvis dit yngste barns pas udløber om 18 måneder, det er din planhorisonts længde.
+Som regel ender én person med at håndtere det hele, ofte den, der allerede styrer den øvrige rejselogistik, og det enkelte fejlpunkt bliver en risiko.
+
+Børnepas udløber også meget hurtigere end voksenpas. I USA varer børnepas for under-16-årige 5 år, mens voksenpas varer 10 år. Det samme gælder i Storbritannien – børns dokumenter udløber efter 5 år, ikke 10. Det betyder, at dit yngste barns pas ofte bliver den begrænsende faktor for familierejser. Du kunne have en forælder med 8 år gyldighed tilbage, men hvis dit yngste barns pas udløber om 18 måneder, det er din planhorisonts længde.
 
 De fleste familier indser ikke dette, før de allerede har booket en rejse. En forælder finder passene en uge før afgang, scanner dem hastigt mens pakker, og opdager, at ét barns dokument ikke holder den 6-måneder-gyldighed-regel for deres destination. Rejsen er nu i fare, eller kræver en overilende og dyr pasfornyelse.
 
@@ -36,7 +38,7 @@ Krypteret opbevaring betyder noget, fordi pas indeholder dit fulde navn, fødsel
 
 Når de er skannet, opbevares disse kopier i dit krypterede hvælv – tilgængeligt når som helst, du skal kontrollere en gyldighedsdato, bevise, at du har dokumenter, når du booker rejser, eller give nødoplysninger til et konsulat, hvis noget går galt i udlandet.
 
-## Oprettelse af profiler for hvert familiemedlem
+## Én profil per familiemedlem, og én person holder den opdateret
 
 I et delt system bør hver persons record omfatte deres vigtigste rejsedokumenter:
 
@@ -47,9 +49,9 @@ I et delt system bør hver persons record omfatte deres vigtigste rejsedokumente
 
 Normalt fungerer én person – rejseplanlæggeren – som systemets vogter, sætter det op og holder det opdateret. Men fordi alt er centraliseret, kan ethvert familiemedlem trække deres egne oplysninger op uden at skulle spørge, hvilket betyder noget, når nogen fornyer sit eget pas og skal bekræfte en udløbsdato.
 
-Når du booker en rejse, bliver det første skridt automatisk: log ind i dit system, træk hver familiemedlems profil op, og kontroller gyldighedsdatoen mod dit destinationskravs. Gør dette, før du betaler for fly – antag aldrig, du har tid til at sortere udløbne dokumenter, når rejsen er betalt. Hvis nogen har pas, der udløber inden for 12 måneder, start fornyelsesprocessen med det samme i stedet for at håbe på at nå det senere.
+Når du booker en rejse, bliver det første skridt automatisk: log ind i dit system, træk hver familiemedlems profil op, og kontroller gyldighedsdatoen mod dit destinationskravs. Gør dette, før du betaler for fly, for du får ikke tid til at sortere udløbne dokumenter, når rejsen først er booket. Hvis nogen har pas, der udløber inden for 12 måneder, start fornyelsesprocessen med det samme i stedet for at håbe på at nå det senere.
 
-## Fysiske backups og nødadgang
+## Opbevar en fysisk backup væk fra originalerne
 
 Digital opbevaring er praktisk, men enheder fejler, og apps kan få problemer. Hver familie bør også opbevare én fysisk backup af vigtige passider – opbevar én på et andet sted end originalerne.
 
@@ -59,7 +61,7 @@ Hvis du bliver fanget i udlandet og skal erstatte et tabt eller stjålet pas, er
 
 For international rejse må du aldrig bære alle familiemedlemmers pas sammen i samme taske. Hver person bærer sit eget dokument. Hvis din håndbagage bliver stjålet på en lufthavn, har du ikke mistet fem års planlægning. Kun ét familiemedlems pas er i umiddelbar fare, og du har digitale kopier til at bevise, at alle andres status er OK.
 
-## Dobbelt statsborgerskab og komplekse familier
+## Med dobbelt statsborgerskab afhænger det rigtige pas af, hvor du rejser hen
 
 For familier, hvor en eller begge forældre har dobbelt statsborgerskab, bliver systemet lidt mere komplekst, men vigtigere at håndtere omhyggeligt.
 
@@ -77,6 +79,8 @@ Ud over selve paset fortjener flere andre dokumenter en plads i dit familierejse
 - **Kørekort.** Hvis du lejer en bil, skal du bruge kørekort for alle chauffører i din gruppe. Disse har også udløbsdatoer, der kan snige sig op på familier.
 
 Opbevar alt dette ét tilgængeligt sted. Panikken ved at rode gennem din telefon eller taske ved lufthavns-skranken, stirrer på uskarpe fotos af visa-sider – det er præcis, hvad dette system forhindrer.
+
+Har du ikke sat det op endnu, så start i dag: scan fotosiden i hvert eneste pas i huset, også dem med mange års gyldighed tilbage, og læg kopierne ét krypteret sted, før du booker næste rejse.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 

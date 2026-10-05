@@ -12,9 +12,9 @@ Source: https://traveldocumentvault.com/sv/blog/etias-documents-2026/
 
 - **ETIAS är ett digitalt resetillstånd** för resenärer från Storbritannien, USA och Kanada – som krävs för viseringsfri inresa till Schengenområdet när det blir obligatoriskt
 - **Du behöver ett pass som är giltigt minst 3 månader** efter avresedatumet och en e-postadress för att ansöka
-- **Handläggningstiden varierar,** särskilt strax efter lanseringen; ansök god tid före resan och kontrollera EU:s officiella webbplats för aktuell information
-- **Kontrollera EU:s officiella webbplats för aktuell avgift;** personer under 18 och över 70 år betalar inget men behöver ändå tillstånd
-- **Vanliga avslag beror på odeklarerade brottsregister eller tidigare överträdelser av vistelsetiden – planera därefter**
+- Handläggningstiden varierar, särskilt strax efter lanseringen; **ansök god tid före resan** och kontrollera EU:s officiella webbplats för aktuell information
+- Kontrollera EU:s officiella webbplats för aktuell avgift; **personer under 18 och över 70 år betalar inget** men behöver ändå tillstånd
+- **Vanliga avslag beror på odeklarerade brottsregister eller tidigare överträdelser av vistelsetiden, så uppge allt, även om det är gammalt**
 
 Du har bokat en familjeresa till Italien och har hört att ETIAS är på väg – ett nytt krav på digitalt tillstånd för viseringsfria besökare som reser till Europa. Den här guiden går igenom vad ETIAS är, vilka handlingar du behöver och hur ansökan fungerar, så att du är förberedd innan du når formuläret.
 
@@ -24,11 +24,11 @@ European Travel Information and Authorisation System (ETIAS) är inte ett [visum
 
 ETIAS är ett digitalt tillståndssystem som ska stärka gränssäkerheten och resehanteringen inom Schengenområdet. Det gäller medborgare i viseringsfria länder – alltså länder vars medborgare i dag kan resa in i Europa utan visum för kortare vistelser. Det gäller bland annat Storbritannien, USA, Kanada, Australien, Nya Zeeland och ett dussintal andra länder.
 
-Har du redan ett visum, till exempel ett Schengen-långtidsvisum, ett brittiskt familjevisum eller annat uppehållstillstånd, behöver du inte ETIAS – inte heller EU-medborgare eller medborgare i Norge, Island och Liechtenstein. Barn under 18 år och vuxna över 70 år är undantagna från avgiften men behöver ändå tillstånd, utan kostnad.
+Har du redan ett visum, till exempel ett Schengen-långtidsvisum, ett brittiskt familjevisum eller annat uppehållstillstånd, behöver du inte ETIAS – inte heller EU-medborgare eller medborgare i Norge, Island och Liechtenstein. Barn under 18 år och vuxna över 70 år är undantagna från avgiften men behöver ändå tillstånd, utan kostnad. Har familjen en blandning av visum och viseringsfria pass, se ETIAS som en fråga för varje person, inte för hela bokningen.
 
 **ETIAS berör** ett brett spektrum av resenärer: enskilda semesterfirare, familjer som ansöker separat för varje medlem, och digitala nomader som planerar upprepade korta vistelser. Kom ihåg att varje person i familjen behöver en egen ETIAS-ansökan – även barn och äldre, som behöver tillstånd trots att de är befriade från avgiften.
 
-## Handlingar och information du behöver för ansökan
+## Kontrollera passets tremånadersmarginal först
 
 Till skillnad från traditionella visum kräver ETIAS inga fysiska handlingar – du ansöker helt online i stället. Du behöver dock ha viss information redo innan du börjar fylla i ansökningsformuläret.
 
@@ -40,11 +40,11 @@ Under ansökan behöver du ange din **resehistorik**, inklusive tidigare resor t
 
 ETIAS frågar även efter **säkerhets- och personuppgifter** – fullständigt namn, födelsedatum, födelseort, medborgarskap och kontaktuppgifter – samt frågor om eventuella brottsregister eller tidigare överträdelser av vistelsetiden. Ärlighet är viktigt här: felaktiga uppgifter kan leda till permanent avslag och utvisningsförbud.
 
-**Inkomstbevis** är valfritt – senaste lönebesked, kontoutdrag eller deklaration räknas alla. Europeiska kommissionen kräver det inte, men att bifoga det kan stärka en gränsfallsansökan och minska risken för avslag.
+**Inkomstbevis** är valfritt – senaste lönebesked, kontoutdrag eller deklaration räknas alla. Europeiska kommissionen kräver det inte, men att bifoga det kan stärka en gränsfallsansökan och minska risken för avslag. Vi skulle ta med det ändå om något annat i ansökan känns osäkert.
 
 Många sökande antar felaktigt att de behöver vaccinationsbevis, hotellbokningar eller returbiljetter. ETIAS kräver inte detta i ansökningsskedet. Du kan behöva det vid gränskontroll, men ETIAS-godkännandet är inte beroende av det.
 
-## ETIAS-ansökan steg för steg
+## Ange varje land du planerar att besöka i formuläret
 
 När du har samlat ihop din information är själva ansökan enkel. Besök den officiella ETIAS-portalen och starta en ny ansökan – inget fullständigt konto behövs, bara en e-postadress och ett tillfälligt lösenord.
 
@@ -56,9 +56,9 @@ Hur är det med hälsan? Du får frågan om du har en smittsam sjukdom eller ann
 
 Till sist granskar du dina uppgifter, betalar avgiften som visas i kassan (kostnadsfritt om du är under 18 eller över 70), och skickar in ansökan. Ett bekräftelsenummer genereras direkt, och din ansökan går in i handläggningskön.
 
-## Handläggningstid och möjliga utfall
+## Ansök så tidigt du rimligen kan
 
-Europeiska kommissionen publicerar aktuell information om handläggningstid på sin officiella webbplats, och det är värt att kontrollera innan du förutsätter att du har gott om tid. Hög efterfrågan strax efter lanseringen, fördröjningar vid bakgrundskontroller och eventuell rättning av ett avslag kan alla förlänga väntetiden, så ansök så tidigt som rimligt är innan resan.
+Europeiska kommissionen publicerar aktuell information om handläggningstid på sin officiella webbplats, och det är värt att kontrollera innan du förutsätter att du har gott om tid. Hög efterfrågan strax efter lanseringen, fördröjningar vid bakgrundskontroller och eventuell rättning av ett avslag kan alla förlänga väntetiden, så ansök så tidigt som rimligt är innan resan. Ansök i samma stund som resdatumen är spikade, inte veckan före avresan.
 
 Det finns tre möjliga utfall: godkänd, avslag eller nekat tillstånd.
 
@@ -68,7 +68,7 @@ Ett **avslag** beror oftast på ofullständig eller inkonsekvent information –
 
 Ett **nekat tillstånd** är allvarligare och sker när ETIAS säkerhetskontroller upptäcker brottsregister, tidigare överträdelser av vistelsetiden i Schengenområdet eller andra säkerhetsproblem. Du kan tekniskt sett ansöka på nytt omedelbart om dina omständigheter förändras, men en lyckad förnyad ansökan är osannolik när ett avslag väl är säkerhetsbaserat. I praktiken behöver du oftast ansöka om ett långtidsvisum via en ambassad i stället – viseringsfri resa till Schengenländer är inte längre ett alternativ efter ett nekat tillstånd.
 
-## Vanliga avslagsskäl och hur du undviker dem
+## De flesta avslag beror på inkonsekvens, inte otur
 
 De vanligaste ETIAS-avslagen beror på motstridigheter i resehistoriken och ofullständig information – här är de värt att hålla ett öga på.
 
@@ -80,17 +80,19 @@ De vanligaste ETIAS-avslagen beror på motstridigheter i resehistoriken och oful
 
 **Otydlig anställning eller inkomst:** flagga eventuella luckor eller inkonsekvenser, som resedatum som antyder att du arbetade utomlands utan att uppge det, eller oförklarade luckor i anställningshistoriken. Använd det valfria anteckningsfältet för att förtydliga. ETIAS avslår dig inte för att du är arbetslös, men oförklarade inkonsekvenser väcker misstankar.
 
-För att undvika avslag, granska din information noggrant innan du skickar in den. Är något osäkert, använd det valfria anteckningsfältet för att förklara – en kort, ärlig förklaring förhindrar betydligt fler avslag än att försöka dölja information.
+För att undvika avslag, granska din information noggrant innan du skickar in den. Är något osäkert, använd det valfria anteckningsfältet för att förklara.
 
-## Särskilda fall: barn, familjegrupper och ny ansökan efter nekat tillstånd
+En kort, ärlig förklaring förhindrar betydligt fler avslag än att försöka dölja information.
+
+## Barn bör ändå ansöka, även utan avgift
 
 Barn under 18 år betalar inte ETIAS-avgiften men bör ändå ansöka om tillstånd, med föräldrar som ansöker för deras räkning. En framtida förändring värd att bevaka: biometriska kontroller vid gränsen kan så småningom kräva att barn är fysiskt närvarande.
 
-Familjegrupper måste skicka in varje ansökan separat i stället för som en gemensam "familj"-enhet. Du kan dock notera att ni reser som familj i avsnittet om resedetaljer, och den anteckningen kan hjälpa om en medlems ansökan flaggas för granskning.
+Familjegrupper måste skicka in varje ansökan separat i stället för som en gemensam "familj"-enhet. Du kan dock notera att ni reser som familj i avsnittet om resedetaljer, och den anteckningen kan hjälpa om en medlems ansökan flaggas för granskning. Vi skulle fylla i varje familjemedlems formulär vid samma tillfälle, eftersom familjenoteringen bara hjälper om uppgifterna stämmer överens.
 
 Blir du nekad och behöver ändå resa är din reservlösning att ansöka om ett traditionellt långtidsvisum via relevant ambassad eller konsulat, vilket vanligtvis tillåter fler inresor och längre vistelser än viseringsfri resa. Eftersom kraven varierar efter resmål och medborgarskap bör du kontakta ambassaden direkt för att ta reda på vad som krävs.
 
-## ETIAS tillsammans med andra resehandlingar
+## Pass och försäkring spelar fortfarande roll efter ETIAS
 
 Ett ETIAS-godkännande ersätter inte ditt pass, din reseförsäkring eller [kraven på passets giltighetstid](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/). Du behöver fortfarande:
 
@@ -100,7 +102,9 @@ Ett ETIAS-godkännande ersätter inte ditt pass, din reseförsäkring eller [kra
 - Bevis på boende eller resplan
 - Tillräckliga medel för vistelsen
 
-Gränspoliser kan fortfarande begära att få se någon av dessa handlingar vid ankomst, även med ett giltigt ETIAS, eftersom ETIAS bara snabbar upp tillståndsprocessen i stället för att befria dig från vanlig gränskontroll och dokumentationskrav.
+Gränspoliser kan fortfarande begära att få se någon av dessa handlingar vid ankomst, även med ett giltigt ETIAS, eftersom ETIAS bara snabbar upp tillståndsprocessen i stället för att befria dig från vanlig gränskontroll och dokumentationskrav. Det är värt att komma ihåg innan du utgår från att ETIAS ensamt tar dig genom grinden.
+
+Det praktiska att göra i dag är att ta fram passet och kontrollera det mot giltighetsregeln ovan; varje sökande behöver ha det på plats före allt annat på den här listan.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 

@@ -20,7 +20,7 @@ La maggior parte dei danni a un passaporto è solo estetica. Una copertina graff
 
 Vale la pena sapere dove passa questo confine prima di partire, perché un passaporto può essere tecnicamente valido ed essere comunque rifiutato. Qui trovi cosa conta come danno, cosa accettano generalmente le autorità e cosa fare se il tuo è già in cattivo stato.
 
-## Cosa Conta Davvero Come Danno al Passaporto
+## L'Usura Estetica È Normale; il Danno agli Elementi di Sicurezza No
 
 È qui che la maggior parte delle persone si allarma inutilmente: un angolo piegato sulla copertina non è un danno, e nemmeno una piccola piega dovuta al portarlo in tasca. Le compagnie aeree e gli ufficiali di frontiera sanno che i passaporti vengono usati, quindi una minima usura estetica è normale.
 
@@ -30,7 +30,9 @@ Soprattutto, la zona a lettura ottica — la striscia bianca e nera in fondo all
 
 Il motivo per cui questo conta è che **le compagnie aeree si assumono la responsabilità se fanno imbarcare qualcuno con un documento non accettabile.** Se sali a bordo con un passaporto danneggiato e all'arrivo ti viene negato l'ingresso, le autorità possono multare la compagnia aerea per averti trasportato. La compagnia deve anche coprire il costo del volo di rientro.
 
-Nessun agente del gate vuole occuparsi di quella burocrazia, quindi preferisce agire con decisa cautela. Un passaporto che sembra dubbio viene rifiutato, punto.
+Nessun agente del gate vuole occuparsi di quella burocrazia, quindi preferisce agire con decisa cautela.
+
+Un passaporto che sembra dubbio viene rifiutato, punto.
 
 ## Noti il Danno Giorni o Settimane Prima del Viaggio
 
@@ -42,9 +44,9 @@ Alcune cose da verificare prima di muoverti. I servizi urgenti o prioritari di s
 
 Un passaporto danneggiato in genere significa anche dover fare domanda di persona anziché per posta. In alcuni paesi l'ufficio che gestisce i casi urgenti è completamente diverso da quello che si limita a ricevere le domande, e presentarsi allo sportello sbagliato ti costa un giorno che probabilmente non puoi permetterti.
 
-Avvia la procedura nel momento stesso in cui scopri il danno. Prenotare i voli sperando che il rinnovo arrivi in tempo è una scommessa che fallisce di continuo, specialmente in estate, quando gli uffici passaporti sono sommersi di richieste.
+Avvia la procedura nel momento stesso in cui scopri il danno. **Noi non aspetteremmo nemmeno un giorno per fare quella telefonata.** Prenotare i voli sperando che il rinnovo arrivi in tempo è una scommessa che fallisce di continuo, specialmente in estate, quando gli uffici passaporti sono sommersi di richieste.
 
-## Danno Scoperto in Aeroporto
+## Al Gate, l'Onestà Ti Lascia Più Opzioni Aperte
 
 Ecco la versione più difficile: sei in coda al check-in o al gate e ti accorgi di un danno che ti era sfuggito prima, oppure è l'agente a notarlo nel momento in cui gli consegni il passaporto.
 
@@ -60,7 +62,7 @@ Una volta rifiutato l'imbarco, hai poche opzioni:
 
 Se l'agente del gate dice di no, non discutere e non provare comunque a salire a bordo. Otterresti solo problemi più grandi. La compagnia aerea può escluderti da voli futuri, le autorità di immigrazione possono multarti, e in alcuni paesi possono perseguirti per aver tentato di viaggiare con un documento già giudicato non valido.
 
-## Tempi per la Sostituzione d'Emergenza del Passaporto
+## Verifica i Tempi alla Fonte Prima di Prenotare
 
 I tempi di elaborazione pubblicati cambiano nel corso dell'anno e si allungano in estate, quando gli uffici passaporti sono più occupati. Invece di fidarti di un dato letto da qualche parte, verifica quello aggiornato alla fonte prima di fissare una data di viaggio:
 
@@ -71,7 +73,7 @@ I tempi di elaborazione pubblicati cambiano nel corso dell'anno e si allungano i
 
 Lo schema, però, vale ovunque. Più ti avvicini alla partenza, meno percorsi restano aperti, e quelli rimasti richiedono di presentarti di persona con il passaporto danneggiato e la prova del viaggio. Scoprire il danno tre settimane prima è un fastidio. Scoprirlo tre giorni prima è un problema completamente diverso.
 
-## Perché le Copie Digitali Ti Salvano la Giornata
+## Una Scansione del Passaporto Velocizza la Sostituzione
 
 Quando devi sostituire con urgenza un passaporto danneggiato, una cosa rallenta tutto: dimostrare chi sei. L'ufficio passaporti deve verificare che la sostituzione vada al legittimo proprietario, non a qualcuno con un'identità rubata.
 
@@ -80,6 +82,8 @@ Una foto digitale nitida del tuo passaporto aiuta proprio in questo. Conserva la
 È particolarmente utile se ti trovi all'estero quando il passaporto si danneggia e hai bisogno di un documento di viaggio d'emergenza dalla tua ambasciata. I funzionari consolari lavorano più in fretta quando hanno davanti la scansione del tuo passaporto originale.
 
 Conserva le tue copie digitali in un posto crittografato e offline — non su Google Photos o su iCloud condiviso con altri. Travel Document Vault è pensato esattamente per questo: foto del passaporto crittografate solo sul tuo dispositivo, accessibili all'istante se qualcosa va storto.
+
+Scansiona il passaporto oggi, prima di averne bisogno.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 

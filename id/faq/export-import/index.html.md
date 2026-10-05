@@ -20,7 +20,7 @@ File yang diekspor dienkripsi dengan keamanan yang sama seperti vault di perangk
 
 ### Buka Pengaturan dan masuk ke Ekspor
 
-Buka Travel Document Vault dan ketuk ikon Pengaturan (simbol roda gigi) di bagian bawah layar. Gulir ke bawah sampai Anda melihat bagian Cadangan dan Data. Ketuk Ekspor Vault.
+Buka Travel Document Vault dan ketuk ikon Pengaturan (simbol roda gigi) di bagian bawah layar. Gulir ke bawah sampai Anda melihat bagian Cadangan & Data. Ketuk Ekspor vault.
 
 2
 
@@ -48,9 +48,9 @@ Jika Anda mengimpor di perangkat yang berbeda, buat file yang diekspor dapat dia
 
 6
 
-### Di perangkat tujuan, buka Pengaturan dan ketuk Impor Vault
+### Di perangkat tujuan, buka Pengaturan dan ketuk Impor cadangan
 
-Buka Travel Document Vault di perangkat tempat Anda ingin mengimpor. Buka Pengaturan, gulir ke Cadangan dan Data, lalu ketuk Impor Vault. Aplikasi akan meminta Anda memilih file cadangan (.tdvault) yang diekspor.
+Buka Travel Document Vault di perangkat tempat Anda ingin mengimpor. Buka Pengaturan, gulir ke Cadangan & Data, lalu ketuk Impor cadangan. Aplikasi akan meminta Anda memilih file cadangan (.tdvault) yang diekspor.
 
 7
 
@@ -62,11 +62,11 @@ Buka ke lokasi tempat Anda menyimpan file vault yang diekspor, pilih file terseb
 
 ### Pastikan semua data sudah ada
 
-Setelah impor, periksa tab Profil untuk memastikan semua profil muncul. Buka beberapa dokumen untuk memastikan lampiran utuh. Proses impor tidak merusak data dan digabungkan dengan data yang sudah ada.
+Setelah impor, periksa tab Profil untuk memastikan semua profil muncul. Buka beberapa dokumen untuk memastikan lampiran utuh. Proses impor menggantikan semua data yang ada di perangkat ini.
 
 ### Catatan penting
 
-- **Tidak merusak data:** Impor menambahkan ke data yang sudah ada. Jika Anda sudah memiliki profil di perangkat tujuan, profil yang diimpor akan ditambahkan tanpa menghapus yang sudah ada.
+- **Menggantikan data yang ada:** Impor mengosongkan isi perangkat tujuan terlebih dahulu. Jika Anda sudah memiliki profil di perangkat tujuan, ekspor profil tersebut sebelum Anda mengimpor.
 - **Ketepatan bolak-balik:** Semuanya dipertahankan persis sama: nama dokumen, tanggal, pengingat kedaluwarsa, warna kustom, lampiran, dan catatan.
 - **Terenkripsi sepenuhnya:** File yang diekspor dienkripsi dengan kata sandi yang Anda pilih saat mengekspornya, menggunakan AES-256-GCM dengan derivasi kunci PBKDF2. Hanya kata sandi itu yang dapat mendekripsinya, jadi simpan di tempat yang aman, tanpanya, file tidak dapat dipulihkan.
 - **Praktik terbaik pencadangan:** Simpan file yang diekspor di lokasi yang aman. Hapus setelah impor berhasil jika Anda mau, atau simpan sebagai cadangan offline.

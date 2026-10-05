@@ -38,7 +38,9 @@ Berikut bagian yang dilewatkan sebagian besar artikel, dan layak dikatakan denga
 
 Konsekuensinya tidak terelakkan. **Jika Anda kehilangan kode pemulihan itu, cadangan tidak akan pernah bisa dibuka lagi.** Bukan oleh Anda, bukan oleh Apple atau Google, dan bukan oleh kami. Tidak ada tautan reset, karena tidak ada akun untuk menautkannya. Tidak ada tiket dukungan yang bisa memulihkannya, karena kami memang tidak pernah memegangnya dan sama sekali tidak bisa menebaknya.
 
-Itu terdengar keras kalau dituliskan, dan lebih baik jujur soal ini daripada menguburnya di halaman pengaturan. Ini kompromi yang sama seperti kunci rumah: gembok baru berguna karena tidak ada tukang kunci mana pun di dunia yang menyimpan cadangannya, dan itulah tepatnya alasan mengapa kehilangan kunci Anda menjadi masalah Anda sendiri. Perusahaan yang bisa memulihkan dokumen Anda setelah Anda lupa segalanya adalah perusahaan yang sebenarnya bisa membacanya sejak awal.
+Itu terdengar keras kalau dituliskan, dan lebih baik jujur soal ini daripada menguburnya di halaman pengaturan. Ini kompromi yang sama seperti kunci rumah: gembok baru berguna karena tidak ada tukang kunci mana pun di dunia yang menyimpan cadangannya, dan itulah tepatnya alasan mengapa kehilangan kunci Anda menjadi masalah Anda sendiri.
+
+Perusahaan yang bisa memulihkan dokumen Anda setelah Anda lupa segalanya adalah perusahaan yang sebenarnya bisa membacanya sejak awal.
 
 Jadi perlakukan kode itu sebagai satu hal yang harus benar-benar Anda urus dengan baik:
 
@@ -55,7 +57,7 @@ Foto paspor Anda di galeri foto biasa atau folder yang tersinkron akan sampai da
 
 Vault yang dienkripsi di perangkat sebelum diunggah akan sampai sebagai ciphertext. Orang yang berhasil membobol akun cloud hanya menemukan file yang tidak bisa dibukanya. Perlindungan itu melekat pada file itu sendiri, bukan bergantung pada akun tempat file itu berlabuh.
 
-Itu sebabnya versi jujur dari pertanyaan "apakah cloud aman" adalah: cloud itu hanya alamat pengiriman, bukan model keamanan. Yang penting adalah kondisi file itu saat sampai di sana. [Perbandingan tempat-tempat utama orang menyimpan pindaian paspor](https://traveldocumentvault.com/id/blog/safest-way-to-store-passport-digitally/) kami membahas kelebihan dan kekurangan masing-masing.
+Itu sebabnya versi jujur dari pertanyaan "apakah cloud aman" adalah: cloud itu hanya alamat pengiriman, bukan model keamanan. Yang penting adalah kondisi file itu saat sampai di sana. Kalau harus memilih satu pengaturan bawaan, kami akan memilih yang mengenkripsi file sebelum file itu meninggalkan ponsel. [Perbandingan tempat-tempat utama orang menyimpan pindaian paspor](https://traveldocumentvault.com/id/blog/safest-way-to-store-passport-digitally/) kami membahas kelebihan dan kekurangan masing-masing.
 
 | Yang Anda cadangkan | Kondisi saat tiba | Siapa yang bisa membacanya | Jika akun dibobol |
 |---|---|---|---|
@@ -72,7 +74,7 @@ Ada tiga hal yang sengaja tetap tinggal di ponsel, dan kode pemulihan menjadi ya
 
 Poin terakhir ini yang sering membuat orang terkejut, jadi ini versi terus terangnya. **Cadangan bawaan sistem ponsel memasang ulang aplikasi, tetapi tidak bisa memulihkan dokumen Anda.** Kunci enkripsi tidak pernah meninggalkan ponsel lama, sehingga ponsel baru tidak punya apa pun untuk mendekripsinya. Jika Anda ingin vault Anda bertahan melampaui usia ponsel, Anda perlu mengaktifkan cadangan cloud atau menyimpan file ekspor di suatu tempat.
 
-## Memulihkan di Ponsel Baru
+## Pemulihannya Singkat dan Tidak Menimpa Apa yang Sudah Ada
 
 Proses pemulihannya singkat, dan itulah tujuan dari melakukan persiapan lebih awal.
 
@@ -80,7 +82,7 @@ Pasang aplikasi di ponsel baru dan masuk dengan akun iCloud atau Google yang sam
 
 Aplikasi juga memeriksa sebelum menulis apa pun. Jika cadangan cloud mendeteksi ada cadangan yang sudah ada di akun itu, aplikasi akan meminta Anda memilih antara memulihkan atau memulai dari awal. Ponsel baru tidak bisa diam-diam menimpa apa yang sudah ada di sana.
 
-### Berpindah Antara iPhone dan Android
+### Berpindah Antara iPhone dan Android Berarti Memakai Vault Export
 
 Cadangan cloud tetap berada di satu platform, karena menggunakan iCloud Anda sendiri di perangkat Apple dan Google Drive Anda sendiri di Android. Berpindah dari satu ke yang lain memerlukan jalur yang berbeda.
 
@@ -98,9 +100,9 @@ Dua puluh menit, sekali saja, sebelum perjalanan berikutnya:
 - Ekspor vault sekali dan simpan filenya di tempat yang Anda kendalikan sendiri, sebagai jalur cadangan yang tidak bergantung pada akun cloud mana pun.
 - Periksa apakah aplikasi menampilkan cadangan terbaru sebelum Anda terbang, sama seperti Anda memeriksa paspor sudah ada di dalam tas.
 
-Tidak ada yang dramatis dari semua ini, dan justru itulah intinya. Keluarga yang bisa menghadapi ponsel yang dicuri di luar negeri dengan baik hampir tidak pernah mereka yang bereaksi cemerlang saat itu terjadi. Mereka adalah yang menghabiskan dua puluh menit yang biasa-biasa saja di meja dapur dua minggu sebelumnya.
-
 Satu catatan terakhir soal ekspektasi. Cadangan adalah lapisan keamanan, dan tidak menjamin apa pun: akun cloud bisa terkunci, kode bisa terlupakan, layanan penyimpanan bisa mengalami gangguan. Untuk dokumen yang benar-benar penting, simpan juga sesuatu yang independen, entah itu salinan cetak di laci rumah atau ekspor kedua di sebuah drive.
+
+Tidak ada yang dramatis dari semua ini, dan justru itulah intinya. Keluarga yang bisa menghadapi ponsel yang dicuri di luar negeri dengan baik hampir tidak pernah mereka yang bereaksi cemerlang saat itu terjadi. Mereka adalah yang menghabiskan dua puluh menit yang biasa-biasa saja di meja dapur dua minggu sebelumnya. Kalau Anda belum melakukannya, aktifkan cadangan Anda hari ini dan catat di mana kode pemulihan disimpan.
 
 **Sebelum Anda mengandalkan ini:** ini blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 

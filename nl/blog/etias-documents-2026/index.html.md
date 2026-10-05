@@ -12,9 +12,9 @@ Source: https://traveldocumentvault.com/nl/blog/etias-documents-2026/
 
 - **ETIAS is een digitale reistoestemming** voor reizigers uit het VK, de VS en Canada – nodig voor visumvrije toegang tot het Schengengebied zodra het verplicht wordt
 - **Je hebt een paspoort nodig dat nog minstens 3 maanden geldig is** na je vertrekdatum, plus een e-mailadres om aan te vragen
-- **De verwerkingstijd varieert,** zeker vlak na de lancering; vraag ruim op tijd aan en raadpleeg de officiële EU-website voor actuele informatie
-- **Check de officiële EU-website voor de actuele kosten;** onder de 18 en boven de 70 betaal je niets, maar je hebt nog steeds een goedkeuring nodig
-- **Veelvoorkomende afwijzingen ontstaan door een niet-vermeld strafblad of eerdere overschrijding van de verblijfsduur – houd daar rekening mee**
+- De verwerkingstijd varieert, zeker vlak na de lancering; **vraag ruim op tijd aan** en raadpleeg de officiële EU-website voor actuele informatie
+- Check de officiële EU-website voor de actuele kosten; **onder de 18 en boven de 70 betaal je niets**, maar je hebt nog steeds een goedkeuring nodig
+- **Veelvoorkomende afwijzingen ontstaan door een niet-vermeld strafblad of eerdere overschrijding van de verblijfsduur, dus vermeld alles, ook als het al lang geleden is**
 
 Je hebt een gezinsreis naar Italië geboekt en hoort dat ETIAS eraan komt – een nieuwe digitale toestemmingsplicht voor visumvrije bezoekers die naar Europa reizen. Deze gids legt uit wat ETIAS is, welke documenten je nodig hebt en hoe de aanvraag werkt, zodat je voorbereid bent voordat je bij het formulier komt.
 
@@ -26,9 +26,9 @@ ETIAS is een digitaal toestemmingssysteem dat de grensveiligheid en het reisbehe
 
 Heb je al een visum, zoals een Schengen-langverblijfvisum, een Brits gezinsvisum of een andere verblijfsvergunning, dan heb je geen ETIAS nodig – dat geldt ook voor EU-burgers en onderdanen van Noorwegen, IJsland en Liechtenstein. Kinderen onder de 18 en volwassenen boven de 70 zijn vrijgesteld van de kosten, maar hebben nog steeds kosteloos een goedkeuring nodig.
 
-**ETIAS raakt** een breed scala aan reizigers: individuele vakantiegangers, gezinnen die apart aanvragen voor elk lid, en digital nomads die herhaalde korte verblijven plannen. Vergeet niet dat iedereen in je gezin een eigen ETIAS-aanvraag nodig heeft – ook kinderen en ouderen, die een goedkeuring nodig hebben, ook al zijn ze vrijgesteld van de kosten.
+**ETIAS raakt** een breed scala aan reizigers: individuele vakantiegangers, gezinnen die apart aanvragen voor elk lid, en digital nomads die herhaalde korte verblijven plannen. Vergeet niet dat iedereen in je gezin een eigen ETIAS-aanvraag nodig heeft – ook kinderen en ouderen, die een goedkeuring nodig hebben, ook al zijn ze vrijgesteld van de kosten. Heeft je gezin een mix van visa en visumvrije paspoorten, zie ETIAS dan als een vraag per persoon, niet voor de hele boeking.
 
-## Vereiste documenten en informatie voor je aanvraag
+## Controleer eerst de marge van drie maanden op je paspoort
 
 In tegenstelling tot traditionele visa vereist ETIAS geen fysieke documenten – je vraagt volledig online aan. Je moet echter wel bepaalde informatie klaar hebben voordat je aan het aanvraagformulier begint.
 
@@ -40,11 +40,11 @@ Tijdens de aanvraag moet je je **reisgeschiedenis** opgeven, inclusief eerdere r
 
 ETIAS vraagt ook naar **veiligheids- en persoonsgegevens** – je volledige naam, geboortedatum, geboorteplaats, nationaliteit en contactgegevens – naast vragen over eventuele strafrechtelijke veroordelingen of eerdere overschrijdingen van de visumtermijn. Eerlijkheid is hier belangrijk: onjuiste informatie is grond voor permanente afwijzing en kan een inreisverbod opleveren.
 
-**Inkomensbewijs** is optioneel – recente loonstroken, bankafschriften of belastingaangiftes tellen allemaal mee. De Europese Commissie verplicht het niet, maar het meesturen kan een twijfelgeval versterken en het risico op afwijzing verkleinen.
+**Inkomensbewijs** is optioneel – recente loonstroken, bankafschriften of belastingaangiftes tellen allemaal mee. De Europese Commissie verplicht het niet, maar het meesturen kan een twijfelgeval versterken en het risico op afwijzing verkleinen. Wij zouden het hoe dan ook meesturen als er in de aanvraag iets anders onzeker lijkt.
 
 Veel aanvragers denken ten onrechte dat ze vaccinatiebewijzen, hotelboekingen of retourvluchten nodig hebben. ETIAS vereist dit niet in de aanvraagfase. Bij grenscontrole kun je ze nodig hebben, maar ETIAS-goedkeuring hangt er niet van af.
 
-## De ETIAS-aanvraag stap voor stap
+## Vermeld elk land dat je wilt bezoeken op het formulier
 
 Zodra je je gegevens hebt verzameld, is de aanvraag zelf eenvoudig. Bezoek het officiële ETIAS-portaal en start een nieuwe aanvraag – je hebt geen volledig account nodig, alleen een e-mailadres en een tijdelijk wachtwoord.
 
@@ -56,9 +56,9 @@ En de gezondheid dan? Je krijgt de vraag of je een besmettelijke ziekte hebt of 
 
 Tot slot controleer je je gegevens, betaal je de kosten die bij het afrekenen worden getoond (gratis als je onder de 18 of boven de 70 bent) en verstuur je de aanvraag. Er wordt meteen een bevestigingsnummer aangemaakt, en je aanvraag komt in de verwerkingswachtrij.
 
-## Verwerkingstijd en mogelijke uitkomsten
+## Vraag zo vroeg aan als redelijkerwijs kan
 
-De Europese Commissie publiceert actuele richtlijnen over de verwerkingstijd op haar officiële website, en het loont de moeite dit te checken voordat je ervan uitgaat dat je genoeg tijd hebt. Grote vraag vlak na de lancering, vertragingen bij achtergrondcontroles en het herstellen van een afwijzing kunnen allemaal de wachttijd verlengen, dus vraag zo vroeg mogelijk aan voor je reis.
+De Europese Commissie publiceert actuele richtlijnen over de verwerkingstijd op haar officiële website, en het loont de moeite dit te checken voordat je ervan uitgaat dat je genoeg tijd hebt. Grote vraag vlak na de lancering, vertragingen bij achtergrondcontroles en het herstellen van een afwijzing kunnen allemaal de wachttijd verlengen, dus vraag zo vroeg mogelijk aan voor je reis. Vraag aan zodra je reisdata vaststaan, niet in de week voor vertrek.
 
 Er zijn drie mogelijke uitkomsten: goedgekeurd, afgewezen of geweigerd.
 
@@ -68,7 +68,7 @@ Een **afwijzing** komt meestal voort uit onvolledige of tegenstrijdige informati
 
 Een **weigering** is ernstiger en gebeurt wanneer de veiligheidscontroles van ETIAS strafrechtelijke veroordelingen, eerdere overschrijdingen van de verblijfsduur in het Schengengebied of andere veiligheidsproblemen aan het licht brengen. Technisch gezien kun je meteen opnieuw aanvragen als je omstandigheden veranderen, maar een succesvolle herkansing is onwaarschijnlijk zodra een weigering veiligheidsgerelateerd is. In de praktijk moet je meestal in plaats daarvan een langverblijfvisum aanvragen via een ambassade – visumvrij reizen naar Schengenlanden is niet meer mogelijk na een weigering.
 
-## Veelvoorkomende afwijzingsredenen en hoe je ze vermijdt
+## De meeste afwijzingen komen door inconsistentie, niet door pech
 
 De meest voorkomende ETIAS-afwijzingen komen neer op inconsistenties in de reisgeschiedenis en onvolledige informatie – dit zijn de dingen om op te letten.
 
@@ -80,17 +80,19 @@ De meest voorkomende ETIAS-afwijzingen komen neer op inconsistenties in de reisg
 
 **Onduidelijke arbeids- of inkomenssituatie:** markeer eventuele hiaten of tegenstrijdigheden, zoals reisdata die suggereren dat je in het buitenland werkte zonder dit te vermelden, of onverklaarde hiaten in je arbeidsverleden. Gebruik het optionele opmerkingenveld om dit toe te lichten. ETIAS wijst je niet af omdat je werkloos bent, maar onverklaarde inconsistenties wekken argwaan.
 
-Controleer je gegevens zorgvuldig voordat je verzendt om afwijzing te voorkomen. Is iets onzeker, gebruik dan het optionele opmerkingenveld om het toe te lichten – een korte, eerlijke toelichting voorkomt veel meer afwijzingen dan proberen informatie te verbergen.
+Controleer je gegevens zorgvuldig voordat je verzendt om afwijzing te voorkomen. Is iets onzeker, gebruik dan het optionele opmerkingenveld om het toe te lichten.
 
-## Bijzondere gevallen: kinderen, gezinsgroepen en opnieuw aanvragen na een weigering
+Een korte, eerlijke toelichting voorkomt veel meer afwijzingen dan proberen informatie te verbergen.
+
+## Kinderen moeten ook aanvragen, ook zonder kosten
 
 Kinderen onder de 18 betalen de ETIAS-kosten niet, maar moeten wel toestemming aanvragen, waarbij ouders namens hen aanvragen. Een toekomstige verandering om in de gaten te houden: biometrische controles aan de grens kunnen op termijn vereisen dat kinderen persoonlijk aanwezig zijn.
 
-Gezinsgroepen moeten elke aanvraag apart indienen in plaats van als één gezamenlijke "gezins"-eenheid. Je kunt in het onderdeel reisgegevens wel vermelden dat je als gezin reist, en die vermelding kan helpen als de aanvraag van één lid wordt uitgelicht voor beoordeling.
+Gezinsgroepen moeten elke aanvraag apart indienen in plaats van als één gezamenlijke "gezins"-eenheid. Je kunt in het onderdeel reisgegevens wel vermelden dat je als gezin reist, en die vermelding kan helpen als de aanvraag van één lid wordt uitgelicht voor beoordeling. Wij zouden de formulieren van alle gezinsleden in dezelfde sessie invullen, omdat die gezinsvermelding alleen helpt als de gegevens op elkaar aansluiten.
 
 Word je geweigerd en moet je toch reizen, dan is je alternatief het aanvragen van een traditioneel langverblijfvisum via de betreffende ambassade of het consulaat, wat doorgaans meer inreizen en langer verblijf toestaat dan visumvrij reizen. Omdat de vereisten per bestemming en nationaliteit verschillen, neem je het beste rechtstreeks contact op met de ambassade om te weten wat je nodig hebt.
 
-## ETIAS naast andere reisdocumenten
+## Je paspoort en verzekering blijven belangrijk na ETIAS
 
 Een ETIAS-goedkeuring vervangt niet je paspoort, je reisverzekering of de [vereisten voor paspoortgeldigheid](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/). Je hebt nog steeds nodig:
 
@@ -100,7 +102,9 @@ Een ETIAS-goedkeuring vervangt niet je paspoort, je reisverzekering of de [verei
 - Bewijs van accommodatie of reisplan
 - Voldoende financiële middelen voor je verblijf
 
-Grenswachten kunnen bij aankomst nog steeds om een van deze documenten vragen, zelfs met een geldige ETIAS, want ETIAS versnelt alleen het toestemmingsproces en ontheft je niet van de standaard grenscontrole en documentatie-eisen.
+Grenswachten kunnen bij aankomst nog steeds om een van deze documenten vragen, zelfs met een geldige ETIAS, want ETIAS versnelt alleen het toestemmingsproces en ontheft je niet van de standaard grenscontrole en documentatie-eisen. Houd dat in gedachten voordat je ervan uitgaat dat ETIAS alleen je door de poort loodst.
+
+De praktische taak voor vandaag: pak je paspoort erbij en controleer het aan de hand van de geldigheidsregel hierboven; dat moet bij elke aanvrager als eerste op orde zijn.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

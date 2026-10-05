@@ -114,7 +114,7 @@ Sin límites de tiempo. Sin características que desaparezcan misteriosamente. S
 
 ## Lo Que Pro Añade
 
-Pro es para familias. Perfiles ilimitados para toda tu familia, documentos ilimitados, planificador de viajes con lista de verificación de preparación visual, copia de seguridad cifrada en la nube en tu propio iCloud o Google Drive, y un rastreador de días en el extranjero para límites Schengen y seguimiento de residencia fiscal.
+Pro es para familias. Perfiles ilimitados para toda tu familia, documentos ilimitados, planificador de viajes con lista de verificación de preparación visual, copia de seguridad cifrada en la nube en tu propio iCloud o Google Drive, y un rastreador de días en el extranjero para límites de días por país y seguimiento de residencia fiscal.
 
 Una compra en tu cuenta. Una familia. Funciona en todos tus dispositivos.
 

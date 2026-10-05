@@ -38,7 +38,7 @@ Shows Schengen rules, visa validity windows, and local customs. All updated for 
 
 Track how many days each family member has spent in a country by creating periods (Schengen year, visa window, tax year) and linking allowance rules to them - then see a per-member breakdown at a glance.
 
-Built for Schengen 90/180 tracking, UK 183-day rules, and any custom visa or residency window. Days used update automatically as trips are logged.
+Built for 90/180-style rolling limits in a country, UK 183-day rules, and any custom visa or residency window. Days used update automatically as trips are logged.
 
 ## Plus So Much More
 

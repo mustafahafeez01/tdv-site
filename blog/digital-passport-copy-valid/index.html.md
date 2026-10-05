@@ -16,23 +16,25 @@ Source: https://traveldocumentvault.com/blog/digital-passport-copy-valid/
 - Visa applications require **specific formats** (certified copies or notarised scans) rather than casual phone photos. Check the embassy website first.
 - If your passport is lost abroad, a **digital copy speeds up emergency replacement** at your embassy significantly.
 
-When planning a trip, many travellers wonder whether they can store a digital copy of their passport on their phone instead of carrying the original. The short answer: a digital copy is genuinely useful, but only in specific situations. You need to know exactly where it works and where it doesn't, so you don't end up caught out at check-in.
+When planning a trip, many travellers wonder whether they can store a digital copy of their passport on their phone instead of carrying the original. You need to know exactly where it works and where it doesn't, so you don't end up caught out at check-in.
+
+The short answer: a digital copy is genuinely useful, but only in specific situations.
 
 ## Where Digital Passport Copies Are Accepted
 
-### Hotel Check-in
+### Many Hotels Accept a Copy, but Parts of Europe Usually Want the Original
 
-Most hotels worldwide accept digital passport copies for check-in - a PDF on your phone, emailed in advance, or printed. This is particularly useful if you're checking in late or moving between properties and don't want to carry your physical passport the whole trip. Some smaller hotels, particularly in regions with less digital infrastructure, still prefer the original. In parts of Europe - Spain, France and Italy among them - hotels must record your details for the authorities and will generally want to sight the physical passport to do it, even though data-protection guidance says they typically should not keep a copy. Contact your accommodation in advance to confirm.
+Most hotels worldwide accept a digital passport copy for check-in, whether that's a PDF on your phone, something emailed in advance, or a printed page. This is particularly useful if you're checking in late or moving between properties and don't want to carry your physical passport the whole trip. Some smaller hotels, particularly in regions with less digital infrastructure, still prefer the original. In parts of Europe, including Spain, France and Italy, hotels must record your details for the authorities and will generally want to sight the physical passport to do it, even though data-protection guidance says they typically should not keep a copy. Contact your accommodation in advance to confirm.
 
-### Flight Bookings and Online Check-in
+### A Digital Copy Speeds Up Check-in, Not Boarding
 
-Airlines require your passport information when booking, and many allow you to upload a digital copy to verify your identity for online check-in - this speeds up the airport process. You'll still need to present the original passport at the gate. The digital copy's role is pre-travel verification, not boarding documentation.
+Airlines require your passport information when booking, and many let you upload a digital copy to verify your identity for online check-in, which speeds up the airport process. You'll still need to present the original passport at the gate. The digital copy's role is pre-travel verification, not boarding documentation.
 
-### Car Rental Agencies
+### A Copy Books the Car, but the Original Still Collects It
 
-Car rental companies typically accept digital passport copies for booking and deposit verification. When you arrive to collect the vehicle, you will present the original passport along with your driver's licence. The digital copy is useful during the reservation phase.
+Car rental companies typically accept digital passport copies for booking and deposit verification. When you arrive to collect the vehicle, you'll present the original passport along with your driver's licence, since the digital copy's job was only ever to get the booking and deposit sorted in advance.
 
-### Emergency Consular Assistance
+### If Your Passport Is Lost, the Copy Speeds Things Up
 
 If your passport is lost or stolen while travelling, a digital copy can significantly speed up the emergency travel document process at your embassy. It proves the existence of your passport and provides your biographical information, photograph, and passport number, all of which the embassy needs to issue a replacement. This is one of the strongest reasons to always carry a digital backup.
 
@@ -40,7 +42,7 @@ If your passport is lost or stolen while travelling, a digital copy can signific
 
 ## Where Your Physical Passport Is Always Required
 
-A digital copy is not a substitute for your physical passport at immigration, with airlines, or with law enforcement. In these scenarios, the original document is simply mandatory - there's no way around it.
+A digital copy is not a substitute for your physical passport at immigration, with airlines, or with law enforcement. In these scenarios, the original document is simply mandatory.
 
 | Travel Situation | Digital Copy Accepted | Notes |
 |---|---|---|
@@ -71,9 +73,13 @@ Passport copies contain sensitive identity information, including your full name
 - **Never share unnecessarily**. Only provide your passport copy to legitimate businesses with whom you are actively transacting.
 - **Keep copies separate from your physical passport**. If your bag is stolen, you want the backup somewhere else.
 
+If you only fix one habit, swap the emailed PDF or camera-roll photo for an encrypted app, since that casual copy is the one most likely to end up in the wrong hands if your phone or inbox is ever compromised.
+
 **Travel Document Vault** stores encrypted copies of all your travel documents on-device. AES-256 encrypted on your phone, no account required. Optional encrypted backup to your own iCloud or Google Drive (Pro) sealed with a recovery code only you hold. [Available on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 If you're wondering whether cloud storage is safe for passport copies, see our guide to [storing passports in Google Photos](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/). It explains why a dedicated encrypted app offers stronger protection. For a side-by-side comparison of iCloud, Google Photos and encrypted apps, read [the safest way to store a passport digitally](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/).
+
+If you haven't made one yet, scan your passport's photo page today, before you're standing at a check-in desk or an embassy counter needing it.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 

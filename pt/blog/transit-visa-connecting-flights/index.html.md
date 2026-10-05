@@ -21,7 +21,7 @@ Se um voo de ligação exige visto de trânsito depende de três coisas: que pas
 
 Os vistos de trânsito são o documento que apanha desprevenidos até os viajantes mais cuidadosos, porque funcionam à margem de tudo o resto no seu dossiê de documentos. A validade do seu passaporte não os afeta, e o visto de entrada do seu destino também não os substitui - existem apenas por causa do país onde o avião aterra para reabastecer. Ainda assim, muitos viajantes só verificam se precisam de um quando já é tarde demais.
 
-## Trânsito Airside vs. Trânsito Landside - A Distinção Fundamental
+## O Trânsito Airside Muitas Vezes Dispensa Visto, mas o Landside Implica Passar pela Imigração
 
 Saber se precisa de visto resume-se muitas vezes a uma distinção: airside versus landside. A maioria dos países concede trânsito isento de visto de um lado dessa linha, mas não do outro.
 
@@ -53,13 +53,13 @@ Isto aplica-se até a nacionalidades semelhantes dentro da mesma região. Viajan
 
 É por isso que o IATA Travel Centre (a mesma base de dados que as companhias aéreas usam no portão de embarque) é a única fonte fiável: introduz a sua nacionalidade e o seu destino, e a ferramenta indica-lhe exatamente o requisito para essa combinação. Nunca presuma que sabe com base no que outro viajante viveu ou no que se lembra de uma viagem anterior.
 
-## Descobrir Que Precisa de Visto de Trânsito Depois de Reservar
+## Se Descobrir Que Precisa de Visto Depois de Reservar, Fale Primeiro com a Companhia Aérea
 
 Acontece mais vezes do que seria de esperar: reserva os voos e só depois percebe que a escala exige um visto de trânsito que não tem. Quando isso acontecer, trate o assunto como urgente, porque os tempos de processamento variam imenso, desde o próprio dia até várias semanas, consoante o país e a época do ano.
 
 Comece pela companhia aérea, já que pode conhecer os tempos de processamento e por vezes tem experiência com rotas comuns. Depois contacte a embaixada ou o consulado mais próximo do país de trânsito para saber quanto tempo o visto em si vai demorar. Muitos consulados oferecem processamento acelerado para emergências de viagem, embora possa ter de pagar uma taxa extra.
 
-Se não houver tempo suficiente para o processamento antes da data de partida, tem três opções: remarcar os voos para evitar totalmente o país de trânsito, remarcar através de outro ponto de ligação ou adiar a viagem. Tentar embarcar sem o visto exigido vai resultar em voos perdidos e possíveis complicações com a companhia aérea.
+Se não houver tempo suficiente para o processamento antes da data de partida, tem três opções: remarcar os voos para evitar totalmente o país de trânsito, remarcar através de outro ponto de ligação ou adiar a viagem, por isso reserve o novo trajeto logo que detetar o problema, em vez de esperar e confiar que a documentação fique pronta a tempo. Tentar embarcar sem o visto exigido vai resultar em voos perdidos e possíveis complicações com a companhia aérea.
 
 ## Como Verificar Antes de Reservar
 
@@ -70,6 +70,8 @@ Quando a ferramenta assinalar um visto de trânsito, tome nota de duas coisas al
 Acrescente ao seu calendário de planeamento os vistos de trânsito de que precise, ao lado do visto de entrada principal. Alguns demoram semanas; precisa dessa informação antes de reservar os voos. Guarde a confirmação junto com os outros documentos de viagem para a ter à mão no portão de embarque, onde é a companhia aérea, e não a fronteira, que a verifica primeiro.
 
 Se estiver a viajar em família, verifique individualmente o passaporte de cada um. Uma única pessoa sem isenção pode comprometer toda a viagem.
+
+Antes de reservar, passe o seu trajeto completo, e não apenas o destino, pelo IATA Travel Centre. É a verificação com mais probabilidade de apanhar um requisito em falta enquanto ainda pode alterar a reserva.
 
 ## Perguntas Frequentes
 

@@ -20,9 +20,11 @@ När du reser med barn blir det att hålla ordning på fem pass över två länd
 
 ## Varför familjer får passhantering fel
 
-Problemet börjar litet. Du har ditt eget pass, din make eller maka har sitt. Sedan får du barn, och plötsligt har du fyra separata handlingar med fyra separata utgångsdatum. Människans hjärna är inte byggd för att spåra fyra olika förnyelsetidslinjer, särskilt när livet blir intensivt. En person blir standardperson för att hantera det hela – vanligtvis personen som redan hanterar all annan reselogistik – och den enkla felkällan blir en risk.
+Problemet börjar litet. Du har ditt eget pass, din make eller maka har sitt. Sedan får du barn, och plötsligt har du fyra separata handlingar med fyra separata utgångsdatum. Människans hjärna är inte byggd för att spåra fyra olika förnyelsetidslinjer, särskilt när livet blir intensivt.
 
-Det andra problemet är att barnpass upphör att gälla mycket snabbare än vuxenpass. I USA håller barnpass för under 16-åringar i 5 år, medan vuxenpass håller i 10 år. Det samma gäller i Storbritannien – barns handlingar upphör att gälla efter 5 år, inte 10. Det betyder att ditt yngsta barns pass ofta blir begränsande faktorn för familjeresorna. Du kan ha en förälder med 8 år giltighet kvar, men om ditt yngstas pass upphör att gälla om 18 månader, är det din planeringshorizon.
+Oftast hamnar det på en person, ofta den som redan sköter resten av reselogistiken, och den enda felkällan blir en risk.
+
+Barnpass upphör också att gälla mycket snabbare än vuxenpass. I USA håller barnpass för under 16-åringar i 5 år, medan vuxenpass håller i 10 år. Det samma gäller i Storbritannien – barns handlingar upphör att gälla efter 5 år, inte 10. Det betyder att ditt yngsta barns pass ofta blir begränsande faktorn för familjeresorna. Du kan ha en förälder med 8 år giltighet kvar, men om ditt yngstas pass upphör att gälla om 18 månader, är det din planeringshorizon.
 
 De flesta familjer inser det här inte förrän de redan har bokat en resa. En förälder hittar passen en vecka före avresa, skannar dem hastigt medan packar, och upptäcker att ett barns handlingar inte klarar 6-månaders giltighetsregeln för deras destination. Resan är nu i fara, eller behöver en brådskande och dyr passförnyelse.
 
@@ -36,7 +38,7 @@ Krypterad lagring är viktig eftersom pass innehåller ditt fullständiga juridi
 
 När de är skannade, förvaras dessa kopior i ditt krypterade valv – tillgängliga när du behöver kontrollera ett gültighetsdatum, bevisa att du har handlingar när du bokar resor, eller ge nödinformation till en konsulat om något går fel utomlands.
 
-## Ställ in profiler för varje familjemedlem
+## En profil per familjemedlem, en person som håller den aktuell
 
 I ett delat system bör varje persons skiva innehålla sina resedokument:
 
@@ -47,9 +49,9 @@ I ett delat system bör varje persons skiva innehålla sina resedokument:
 
 Vanligtvis en person – reseplaneringen – fungerar som systemets förvaltare, ställer in det och håller det aktuellt. Men eftersom allting är centraliserat kan alla familjemedlemmar ta fram sin egen information utan att behöva fråga, vilket är viktigt när någon förnyar sitt eget pass och behöver bekräfta ett utgångsdatum.
 
-När du bokar en resa blir det första steget automatiskt: logga in i ditt system, ta fram varje familjemedlems profil, och kontrollera gültighetsdatumet mot ditt destinations krav. Gör detta innan du betalar för flyg – förutsätt aldrig att du har tid att sortera utgångna handlingar när resan är betald. Om någons pass är inom 12 månader från utgång när du bokar en resa, börja förnyelseprocessen omedelbar snarare än att hoppas kunna pressa in det senare.
+När du bokar en resa blir det första steget automatiskt: logga in i ditt system, ta fram varje familjemedlems profil, och kontrollera gültighetsdatumet mot ditt destinations krav. Gör detta innan du betalar för flyg, eftersom du inte hinner ordna utgångna handlingar när resan väl är bokad. Om någons pass är inom 12 månader från utgång när du bokar en resa, börja förnyelseprocessen omedelbar snarare än att hoppas kunna pressa in det senare.
 
-## Fysiska säkerhetskopieringar och nödåtkomst
+## Förvara en fysisk säkerhetskopia på en annan plats än originalen
 
 Digitala lagring är bekväm, men enheter går sönder och appar kan ha problem. Varje familj bör också behålla en fysisk säkerhetskopiering av väsentliga passidor – behåll en på en annan plats än originalen.
 
@@ -59,7 +61,7 @@ Om du fastnar utomlands och behöver ersätta ett förlorat eller stulet pass ä
 
 För internationell resor, bär aldrig alla familjepass tillsammans i samma väska. Varje person bär sitt eget handlingar. Om ditt handbagage blir stulet på en flygplats har du inte förlorat fem års planering. Endast en familjemedlems pass är omedelbar risk, och du har digitala kopior för att bevisa allas status.
 
-## Dubbla pass och komplexa familjer
+## Vid dubbelt medborgarskap beror rätt pass på vart du ska
 
 För familjer där en eller båda föräldrar innehar dubbel medborgarskap blir systemet något mer komplext men viktigare att hantera försiktigt.
 
@@ -77,6 +79,8 @@ Utöver passet själv förtjänar flera andra handlingar en plats i ditt familje
 - **Körkortsbok.** Om du hyr en bil behöver du körkortsbok för alla förare i din grupp. Dessa har också utgångsdatum som kan fånga familjer.
 
 Behåll alla dessa på ett tillgängligt ställe. Panikken av att rota genom din telefon eller väska på flygplatsens skranken, sneda på suddig foton av visumsidor – det här är exakt vad det här systemet förhindrar.
+
+Har du inte ställt in det här ännu, börja i dag: skanna fotosidan på varje pass i hemmet, även de som har många år kvar, och samla kopiorna på ett krypterat ställe innan du bokar nästa resa.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 

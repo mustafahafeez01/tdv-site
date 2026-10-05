@@ -36,7 +36,7 @@ Découvrez si votre nationalité de passeport nécessite un visa pour l'entrée,
 
 Réservez une assurance voyage quand vous réservez les vols, pas une semaine avant le départ. L'assurance contractée après avoir déjà identifié un risque peut exclure ce problème spécifique. Assurez-vous que la police couvre tous les voyageurs, toutes les destinations et les activités que vous envisagez de faire.
 
-## Trois mois avant : renouvellement et fenêtres de visa
+## Trois mois avant : si un renouvellement ou un visa approche, commencez dès maintenant
 
 À ce stade, vous avez toujours le temps de corriger les choses. Les délais de renouvellement changent, et chaque autorité publie son propre chiffre actuel : le Département d'État américain, HM Passport Office et l'Office australien des passeports. Consultez toujours le site officiel pour les délais actuels avant de demander.
 
@@ -73,7 +73,9 @@ Pour les voyageurs d'affaires : si vous détenez deux passeports, confirmez quel
 
 ## La veille : confirmation finale
 
-Ce sont des confirmations, pas des découvertes. S'il y a quelque chose qui manque maintenant, vous avez des heures pour le résoudre, pas des semaines.
+Ce sont des confirmations, pas des découvertes.
+
+S'il y a quelque chose qui manque maintenant, vous avez des heures pour le résoudre, pas des semaines.
 
 ### La veille
 
@@ -93,9 +95,9 @@ Avant de partir de chez vous, prenez une photo de chaque document et stockez-la 
 
 **Travel Document Vault** stocke des copies chiffrées de chaque document de cette liste — organisé par membre de la famille, avec rappels d'expiration automatiques. Scannez une fois, ne vous débattez plus jamais. [Télécharger sur App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
-## Liste de contrôle par type de voyage
+## Comment votre liste de documents change selon le type de voyage
 
-Les différents voyages nécessitent des ensembles de documents différents.
+Les différents voyages nécessitent des ensembles de documents différents, comme le montre le tableau ci-dessous pour les voyages en solo, en famille et d'affaires.
 
 | Document | Solo | Famille | Affaires | Notes |
 |---|---|---|---|---|
@@ -106,6 +108,8 @@ Les différents voyages nécessitent des ensembles de documents différents.
 | Lettre de consentement enfant | N/A | ✅ si applicable | N/A | Requise dans de nombreux pays si un parent absent |
 | Actes de naissance | N/A | ✅ si requis | N/A | Certains pays les exigent pour les enfants de moins de 18 ans |
 | Lettre d'autorisation de travail | N/A | N/A | ✅ si requis | Certaines destinations exigent des lettres d'employeur pour les voyageurs d'affaires |
+
+Si un voyage est déjà réservé, la seule chose qui vaut la peine d'être faite dès aujourd'hui est de sortir chaque passeport concerné et de vérifier sa date d'expiration au regard des exigences de la destination, et pas seulement de vos dates de voyage.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 

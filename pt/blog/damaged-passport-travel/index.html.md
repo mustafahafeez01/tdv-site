@@ -20,7 +20,7 @@ A maioria dos danos num passaporte é apenas estética. Uma capa riscada, um can
 
 Vale a pena saber onde está esse limite antes de viajar, porque um passaporte pode ser tecnicamente válido e, ainda assim, ser recusado. Este artigo explica o que conta como dano, o que as autoridades geralmente aceitam e o que fazer se o seu já estiver em mau estado.
 
-## O Que Realmente Conta Como Dano no Passaporte
+## O Desgaste Estético É Esperado; o Dano nos Elementos de Segurança Não É
 
 É aqui que a maioria das pessoas entra em pânico desnecessariamente: um canto dobrado na capa não é dano, nem é um pequeno vinco de andar no bolso de trás das calças. As companhias aéreas e os agentes de fronteira sabem que os passaportes são usados no dia a dia, por isso o desgaste estético ligeiro é esperado.
 
@@ -30,7 +30,9 @@ O mais crítico é que a zona de leitura ótica — a faixa a preto e branco na 
 
 A razão pela qual isto importa é que **as companhias aéreas assumem a responsabilidade se embarcarem alguém com um documento inaceitável.** Embarque com um passaporte danificado, seja recusado à chegada, e as autoridades podem multar a companhia aérea por o ter transportado. A companhia aérea também tem de custear o seu voo de regresso.
 
-Nenhum agente de portão quer essa burocracia, por isso preferem, sem hesitar, pecar por excesso de cautela. Um passaporte com aspeto duvidoso é recusado, sem mais delongas.
+Nenhum agente de portão quer essa burocracia, por isso preferem, sem hesitar, pecar por excesso de cautela.
+
+Um passaporte com aspeto duvidoso é recusado, sem mais delongas.
 
 ## Detetou Danos Dias ou Semanas Antes da Viagem
 
@@ -42,9 +44,9 @@ Há algumas coisas a confirmar antes de avançar. Normalmente existem serviços 
 
 Um passaporte danificado também costuma implicar candidatar-se presencialmente em vez de por correio. Em alguns países, o local que trata dos casos urgentes é completamente diferente do que apenas recebe candidaturas, e aparecer no balcão errado custa-lhe um dia que provavelmente não tem para perder.
 
-Comece o processo assim que descobrir o dano. Reservar voos e esperar que a renovação chegue a tempo é uma aposta que falha com frequência, sobretudo no verão, quando os serviços de passaportes estão sobrecarregados.
+Comece o processo assim que descobrir o dano. **Nós não esperaríamos nem um dia para fazer essa chamada.** Reservar voos e esperar que a renovação chegue a tempo é uma aposta que falha com frequência, sobretudo no verão, quando os serviços de passaportes estão sobrecarregados.
 
-## Dano Descoberto no Aeroporto
+## No Portão, a Honestidade Mantém as Suas Opções em Aberto
 
 Agora a versão mais difícil: está na fila do check-in ou no portão e repara num dano que lhe tinha escapado antes, ou o agente nota-o assim que lhe entrega o passaporte.
 
@@ -60,7 +62,7 @@ Assim que o embarque é recusado, tem opções limitadas:
 
 Se o agente de portão disser que não, não discuta nem tente embarcar de qualquer forma. Isso só cria problemas maiores. A companhia aérea pode proibi-lo de voos futuros, as autoridades de imigração podem multá-lo, e em alguns países podem mesmo processá-lo por tentar viajar com um documento que já consideraram inválido.
 
-## Prazos de Substituição de Emergência do Passaporte
+## Confirme o Prazo na Fonte Antes de Reservar
 
 Os prazos de processamento publicados variam ao longo do ano e aumentam no verão, quando os serviços de passaportes têm mais movimento. Em vez de confiar num número que leu algures, confirme o valor atual diretamente na fonte antes de se comprometer com uma data de viagem:
 
@@ -71,7 +73,7 @@ Os prazos de processamento publicados variam ao longo do ano e aumentam no verã
 
 O padrão mantém-se em todo o lado, no entanto. Quanto mais perto estiver da partida, menos vias permanecem abertas, e as que restam exigem que compareça presencialmente com o passaporte danificado e prova da viagem. Descobrir o dano três semanas antes é um incómodo. Descobri-lo três dias antes é um problema completamente diferente.
 
-## Por Que As Cópias Digitais Salvam o Dia
+## Uma Digitalização do Passaporte Acelera a Substituição
 
 Quando precisa de substituir um passaporte danificado com urgência, há uma coisa que atrasa tudo: provar quem é. O serviço de passaportes tem de verificar que a substituição vai para o proprietário legítimo, e não para alguém com uma identidade roubada.
 
@@ -80,6 +82,8 @@ Uma foto digital nítida do seu passaporte ajuda aqui. Guarde a página de dados
 Isto é especialmente valioso se estiver no estrangeiro quando o passaporte se danifica e precisar de um documento de viagem de emergência da sua embaixada. Os funcionários consulares trabalham mais depressa quando têm à frente uma digitalização do seu passaporte original.
 
 Guarde as suas cópias digitais num local encriptado e offline — não no Google Photos ou no iCloud partilhado com outras pessoas. O Travel Document Vault foi criado exatamente para este caso: fotos do passaporte encriptadas apenas no seu dispositivo, acessíveis num instante se algo correr mal.
+
+Digitalize o seu passaporte hoje, antes de precisar dele.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

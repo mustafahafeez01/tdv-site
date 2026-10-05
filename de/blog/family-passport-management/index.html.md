@@ -20,9 +20,11 @@ Wenn Sie mit Kindern verreisen, ist das Verfolgung von fünf Pässen über die A
 
 ## Warum Familien Passverwaltung falsch machen
 
-Das Problem fängt klein an. Sie haben Ihren Pass, Ihr Ehepartner hat seinen/ihren. Dann bekommen Sie Kinder, und plötzlich haben Sie vier separate Dokumente mit vier separaten Ablaufdaten. Das menschliche Gehirn ist nicht dafür gebaut, vier verschiedene Erneuerungszeitpläne zu verfolgen, besonders wenn das Leben hektisch wird. Eine Person übernimmt standardmäßig alles – normalerweise die Person, die bereits alle anderen Reisevorbereitungen verwaltet – und dieser einzelne Ausfallpunkt wird zum Risiko.
+Das Problem fängt klein an. Sie haben Ihren Pass, Ihr Ehepartner hat seinen/ihren. Dann bekommen Sie Kinder, und plötzlich haben Sie vier separate Dokumente mit vier separaten Ablaufdaten. Das menschliche Gehirn ist nicht dafür gebaut, vier verschiedene Erneuerungszeitpläne zu verfolgen, besonders wenn das Leben hektisch wird.
 
-Das zweite Problem ist, dass Kinderreisepässe viel schneller verfallen als Erwachsenenpässe. In den Vereinigten Staaten haben Gesundheitspässe für Kinder unter 16 Jahren eine Gültigkeit von 5 Jahren, während Erwachsenenpässe 10 Jahre gültig sind. Das gleiche gilt im Vereinigten Königreich – Kinderausweis verfallen nach 5 Jahren, nicht 10. Dies bedeutet, dass der Pass Ihres jüngsten Kindes oft zum limitierenden Faktor für Familienreisen wird. Sie könnten einen Elternteil mit noch 8 Jahren Gültigkeit haben, aber wenn der Pass Ihres Jüngsten in 18 Monaten abläuft, das ist Ihr Planungshorizont.
+Meist bleibt es an einer Person hängen, oft an derjenigen, die ohnehin die übrigen Reisevorbereitungen verwaltet, und dieser einzelne Ausfallpunkt wird zum Risiko.
+
+Kinderreisepässe verfallen außerdem viel schneller als Erwachsenenpässe. In den Vereinigten Staaten haben Gesundheitspässe für Kinder unter 16 Jahren eine Gültigkeit von 5 Jahren, während Erwachsenenpässe 10 Jahre gültig sind. Das gleiche gilt im Vereinigten Königreich – Kinderausweis verfallen nach 5 Jahren, nicht 10. Dies bedeutet, dass der Pass Ihres jüngsten Kindes oft zum limitierenden Faktor für Familienreisen wird. Sie könnten einen Elternteil mit noch 8 Jahren Gültigkeit haben, aber wenn der Pass Ihres Jüngsten in 18 Monaten abläuft, das ist Ihr Planungshorizont.
 
 Die meisten Familien bemerken dies erst, wenn sie bereits eine Reise gebucht haben. Ein Elternteil findet die Pässe eine Woche vor der Abreise, scannt sie hastig beim Packen ein, und entdeckt, dass der Ausweis eines Kindes die 6-Monats-Gültigkeitsregel für sein Ziel nicht erfüllt. Die Reise ist nun gefährdet, oder benötigt eine eilige und teure Passerneuerung.
 
@@ -36,7 +38,7 @@ Verschlüsselte Speicherung ist wichtig, da Pässe Ihren vollständigen Namen, G
 
 Nach dem Scannen leben diese Kopien in Ihrem verschlüsselten Tresor – jederzeit erreichbar, wenn Sie ein Gültigkeitsdatum überprüfen müssen, nachweisen möchten, dass Sie Dokumente haben, wenn Sie Reisen buchen, oder Notfallinformationen an ein Konsulat weitergeben müssen, wenn etwas im Ausland schiefgeht.
 
-## Profile für jedes Familienmitglied einrichten
+## Ein Profil pro Familienmitglied, eine Person hält es aktuell
 
 In einem gemeinsamen System sollte der Datensatz jeder Person folgendes enthalten:
 
@@ -47,9 +49,9 @@ In einem gemeinsamen System sollte der Datensatz jeder Person folgendes enthalte
 
 Normalerweise übernimmt eine Person – der Reiseplaner – die Rolle des Systemhüters, richtet es ein und hält es aktuell. Da aber alles zentral ist, kann jedes Familienmitglied seine/ihre eigenen Informationen abrufen, ohne fragen zu müssen, was wichtig ist, wenn jemand seinen/ihren Pass erneuert und ein Ablaufdatum bestätigen muss.
 
-Wenn Sie eine Reise buchen, wird der erste Schritt automatisch: Melden Sie sich in Ihrem System an, rufen Sie das Profil jedes Familienmitglieds auf, und überprüfen Sie das Gültigkeitsdatum gegen die Anforderungen Ihres Ziels. Tun Sie dies, bevor Sie für Flüge zahlen – nehmen Sie nie an, dass Sie Zeit haben, abgelaufene Dokumente zu sortieren, nachdem die Reise bezahlt wurde. Wenn der Pass einer Person innerhalb von 12 Monaten abläuft, starten Sie den Erneuerungsprozess sofort, statt zu hoffen, dass Sie es später noch schaffen.
+Wenn Sie eine Reise buchen, wird der erste Schritt automatisch: Melden Sie sich in Ihrem System an, rufen Sie das Profil jedes Familienmitglieds auf, und überprüfen Sie das Gültigkeitsdatum gegen die Anforderungen Ihres Ziels. Tun Sie dies, bevor Sie für Flüge zahlen, denn sobald die Reise gebucht ist, bleibt Ihnen keine Zeit mehr, abgelaufene Dokumente in Ordnung zu bringen. Wenn der Pass einer Person innerhalb von 12 Monaten abläuft, starten Sie den Erneuerungsprozess sofort, statt zu hoffen, dass Sie es später noch schaffen.
 
-## Physische Sicherungen und Notfallzugriff
+## Bewahren Sie eine physische Sicherung getrennt von den Originalen auf
 
 Digitale Speicherung ist praktisch, aber Geräte können ausfallen und Apps können Probleme haben. Jede Familie sollte auch eine physische Sicherung wesentlicher Pass-Seiten behalten – behalten Sie eine an einem anderen Ort als die Originale.
 
@@ -59,7 +61,7 @@ Wenn Sie im Ausland gestrandet sind und einen verlorenen oder gestohlenen Pass e
 
 Bei internationalen Reisen tragen Sie nie alle Familienpässe gemeinsam in derselben Tasche. Jede Person trägt seinen/ihren eigenen Pass. Wenn Ihre Handgepäcktasche am Flughafen gestohlen wird, haben Sie nicht fünf Jahre Planung verloren. Nur der Pass eines Familienmitglieds ist unmittelbar gefährdet, und Sie haben digitale Kopien, um den Status aller anderen nachzuweisen.
 
-## Doppelte Pässe und komplexe Familien
+## Bei doppelter Staatsangehörigkeit hängt der richtige Pass vom Reiseziel ab
 
 Für Familien, in denen ein oder beide Elternteile doppelte Nationalität haben, wird das System etwas komplexer, aber wichtiger, sorgfältig zu verwalten.
 
@@ -77,6 +79,8 @@ Die Lösung ist unkompliziert: Bewahren Sie Kopien aller Pässe in Ihrem System 
 - **Führerscheine.** Wenn Sie ein Auto mieten, benötigen Sie Führerscheine für alle Fahrer in Ihrer Gruppe. Diese haben auch Ablaufdaten, die Familien überraschen können.
 
 Behalten Sie alle diese an einem zugänglichen Ort auf. Die Panik, in Ihrem Telefon oder Ihrer Tasche am Flughafenschalter zu wühlen, flüchtige Fotos von Visumseiten zu erblicken – genau das verhindert dieses System.
+
+Falls Sie das noch nicht eingerichtet haben, fangen Sie heute an: Scannen Sie die Fotoseite jedes Reisepasses im Haushalt, auch die mit noch vielen Jahren Gültigkeit, und legen Sie die Kopien an einem verschlüsselten Ort ab, bevor Sie die nächste Reise buchen.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 

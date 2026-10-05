@@ -30,7 +30,7 @@ Hur brådskande du behöver agera avgör vad du ska göra:
 - **Resan börjar bli nära:** ring passmyndigheten direkt i stället för att bara förlita dig på webbplatsen – HM Passport Office:s rådgivningslinje i Storbritannien, eller US National Passport Information Center i USA.
 - **Resan är omedelbart förestående:** fråga om en akuttid och ta med bevis på dina resdatum. Storbritannien erbjuder en Premium-tjänst samma dag på utvalda passkontor, och USA erbjuder tider på regionala passmyndigheter.
 
-Alla större passmyndigheter håller tillbaka akuttider som inte syns online. Om din tidsram är snäv, ring i stället för att bara förlita dig på webbplatsen.
+Alla större passmyndigheter håller tillbaka akuttider som inte syns online. Om din tidsram är snäv **skulle vi alltid ringa i stället för att bara lita på webbplatsen.**
 
 **Ställ in påminnelsen nu** så att det aldrig händer igen – Travel Document Vault meddelar dig redan från åtta månader innan varje pass i ditt hushåll går ut, och sedan igen allteftersom datumet närmar sig. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
@@ -52,7 +52,9 @@ Det här scenariot händer oftare än man tror, och stegen är inte självklara 
 
 ## Andra passproblem som gör att resenärer nekas
 
-Utgångsdatum är den vanligaste anledningen till att ett pass stoppas på flygplatsen, men andra problem ger samma resultat. Det som gör dem lättare att missa är att de, till skillnad från utgångsdatum, inte kommer med en synlig nedräkning.
+Utgångsdatum är den vanligaste anledningen till att ett pass stoppas på flygplatsen, men andra problem ger samma resultat.
+
+Det som gör dem lättare att missa är att de, till skillnad från utgångsdatum, inte kommer med en synlig nedräkning.
 
 ### 1. Ett skadat pass
 
@@ -68,7 +70,7 @@ En namnavvikelse mellan pass och boardingkort gör att du nekas. Det drabbar oft
 
 ### 3. Ett osignerat pass
 
-De flesta pass har ett fält för namnteckning. Vissa länder – däribland USA – kräver att passet är signerat för att räknas som giltigt för resa. Ett osignerat pass kan nekas vid gränsen. Det här är vanligast ett problem med pass utfärdade till barn som var för unga för att skriva under, eller med helt nya pass som innehavaren glömde signera innan avresan. Kontrollera namnteckningsfältet innan du lämnar hemmet.
+De flesta pass har ett fält för namnteckning. Vissa länder – däribland USA – kräver att passet är signerat för att räknas som giltigt för resa. Ett osignerat pass kan nekas vid gränsen. Det här är vanligast ett problem med pass utfärdade till barn som var för unga för att skriva under, eller med helt nya pass som innehavaren glömde signera innan avresan. En snabb titt på namnteckningsfältet innan du lämnar hemmet fångar det här i tid.
 
 ### 4. Otillräcklig giltighetstid för resmålet
 
@@ -82,11 +84,11 @@ Visum- och elektroniska researtillstånd (ETA) ändras ofta och varierar beroend
 
 Kontrollera de officiella inresekraven för ditt resmål via ditt lands reseinformationstjänst inför varje resa: gov.uk/foreign-travel-advice för brittiska passinnehavare, travel.state.gov för amerikanska passinnehavare, eller smartraveller.gov.au för australiska passinnehavare. Lita inte på vad som gällde förra gången.
 
-## Så säkerställer du att det aldrig händer igen
+## Ställ in påminnelsen ett år i förväg, inte sex månader
 
 Grundorsaken är oftast densamma: ingen påminnelse på plats. Ställ in en påminnelse om utgångsdatum minst **12 månader före utgångsdatumet** – inte 6 månader. Det ger dig tid att förnya med standardhandläggning utan att betala för påskyndad service, och utan stressen av en snäv tidsram.
 
-Gör det här för varje pass i ditt hushåll separat. Barns pass går ut snabbare – 5 år i de flesta länder jämfört med 10 för vuxna – och är de som oftast missas.
+Gör det här för varje pass i ditt hushåll separat. Barns pass går ut snabbare – 5 år i de flesta länder jämfört med 10 för vuxna – och är de som oftast missas. **Plocka fram varje pass i dag och kontrollera utgångsdatumet, inte bara fotosidan.**
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 

@@ -38,7 +38,7 @@ Istilah ini berasal dari bahasa Spanyol dan Portugis. Fecha de expedición dan d
 
 Semuanya memiliki arti yang sama, dan tidak satu pun berarti kedaluwarsa. Jika sebuah formulir meminta expedition date, yang dimaksud adalah tanggal yang lebih awal dari dua tanggal Anda.
 
-## Format Tanggal Dirancang Khusus untuk Mencegah Kebingungan Ini
+## Bulan Ditulis dengan Huruf agar Format Tanggal Tidak Tertukar
 
 Perhatikan baik-baik dan Anda akan menyadari bahwa banyak paspor tidak mencetak tanggalnya hanya dalam angka. Bulan umumnya ditulis dengan huruf, bukan angka.
 
@@ -48,7 +48,7 @@ Ketidakjelasan itu kembali muncul begitu Anda menyalin tanggal ke dalam formulir
 
 ## Empat Paspor, Empat Jam yang Berbeda
 
-Semua ini bertambah rumit secara diam-diam dalam sebuah keluarga. Paspor cenderung diterbitkan saat dibutuhkan, bukan bersamaan, sehingga tanggal penerbitan dalam satu rumah jarang sejalan, begitu pula tanggal kedaluwarsanya.
+Tambahkan paspor kedua atau ketiga, seperti pada kebanyakan keluarga, dan semuanya tidak lagi sejalan. Paspor cenderung diterbitkan saat dibutuhkan, bukan bersamaan, sehingga tanggal penerbitan dalam satu rumah jarang sama, begitu pula tanggal kedaluwarsanya.
 
 Anak-anak membuat perbedaan ini semakin lebar. Sebagian besar paspor anak hanya berlaku separuh dari masa berlaku paspor dewasa, sehingga buku paspor yang diterbitkan pada bulan yang sama dengan orang tuanya akan kedaluwarsa sekitar lima tahun lebih cepat. Orang tua dengan sisa masa berlaku bertahun-tahun justru paling rentan terjebak oleh dokumen anak mereka, karena tidak ada alasan untuk memikirkannya sampai sebuah formulir menanyakannya. Kami membahas cara mengatur paspor sekeluarga dalam [mengelola beberapa paspor sekaligus](https://traveldocumentvault.com/id/blog/family-passport-management/).
 
@@ -60,13 +60,17 @@ Paspor Inggris yang diterbitkan belakangan ini tidak lagi membawa bulan-bulan ek
 
 Negara-negara Schengen menerapkan dua pengujian terpisah pada paspor non-UE di perbatasan: paspor harus diterbitkan kurang dari sepuluh tahun sebelum tanggal kedatangan Anda, dan harus tetap berlaku setidaknya tiga bulan setelah rencana kepergian Anda. Buku paspor yang membawa sembilan bulan ekstra bisa dengan mudah memenuhi pengujian kedua tetapi gagal pada pengujian pertama, yang menjadi percakapan yang sulit dilakukan di loket Madrid dengan dokumen yang belum kedaluwarsa.
 
-Periksa kedua tanggal sebelum perjalanan ke Eropa, bukan hanya tanggal yang tercetak di bagian bawah.
+Kami sendiri akan memeriksa kedua tanggal sebelum perjalanan ke Eropa, bukan hanya tanggal yang tercetak di bagian bawah.
 
 ## Negara Penerbit dan Otoritas Penerbit Adalah Kolom yang Berbeda
 
 Di dekat bagian atas halaman data terdapat kode tiga huruf untuk negara penerbit. Lebih ke bawah, biasanya di kolomnya sendiri, terdapat otoritas penerbit: kantor atau instansi yang benar-benar menerbitkan buku paspor tersebut.
 
-Negara penerbit lebih penting daripada yang orang duga. Negara ini menentukan jaringan konsuler mana yang harus Anda hubungi saat paspor hilang atau dicuri, dan itu jarang menjadi negara tempat Anda kebetulan berada. Negara ini juga menentukan aturan masuk mana yang berlaku bagi Anda, itulah sebabnya warga negara ganda mempertimbangkan dengan cermat paspor mana yang akan ditunjukkan. Jika Anda ingin versi praktisnya, kami membahasnya dalam [apa yang harus dilakukan saat paspor hilang di luar negeri](https://traveldocumentvault.com/id/blog/lost-passport-abroad/).
+Negara penerbit lebih penting daripada yang orang duga. Negara ini menentukan jaringan konsuler mana yang harus Anda hubungi saat paspor hilang atau dicuri.
+
+Itu jarang menjadi negara tempat Anda kebetulan berada.
+
+Negara ini juga menentukan aturan masuk mana yang berlaku bagi Anda, itulah sebabnya warga negara ganda mempertimbangkan dengan cermat paspor mana yang akan ditunjukkan. Jika Anda ingin versi praktisnya, kami membahasnya dalam [apa yang harus dilakukan saat paspor hilang di luar negeri](https://traveldocumentvault.com/id/blog/lost-passport-abroad/).
 
 Kolom otoritas penerbit sebagian besar berguna untuk formulir. Beberapa permohonan ingin kolom ini diisi persis seperti tercetak, sebagian lain menerima nama negaranya saja, dan menyalinnya persis lebih cepat daripada menebak.
 
@@ -78,13 +82,15 @@ Visa yang sudah dicap atau dicetak di paspor sebelumnya tetap ada di sana, dan p
 
 Semua ini tidak dramatis dengan sendirinya. Menjadi dramatis ketika boarding pass dan paspor tidak cocok di meja check-in, sehingga layak meluangkan setengah jam santai setelah perpanjangan untuk memperbarui beberapa tempat yang menyimpan nomor tersebut.
 
-## Di Mana Semua Ini Terletak pada Halaman
+## Halaman Data Sudah Distandarkan, tetapi Zona yang Dapat Dibaca Mesin Melewatkan Satu Tanggal
 
 Halaman data adalah halaman berlapis kaku yang memuat foto Anda, dan tata letaknya distandarkan secara internasional, bukan diciptakan oleh masing-masing negara. Itulah sebabnya paspor dari mana pun dapat dibaca oleh petugas imigrasi di mana pun, dan begitu Anda bisa membaca satu paspor, Anda bisa membaca semuanya.
 
 Dua baris karakter dan tanda panah di bagian bawah adalah zona yang dapat dibaca mesin. Bagian ini mengulang sebagian informasi dari halaman data di atasnya, dalam format yang dapat dibaca pemindai sekali jalan, tapi tidak semuanya: tanggal kedaluwarsa ada di sana, tanggal penerbitan tidak. Itulah sebabnya kerusakan di bagian itu diperlakukan jauh lebih serius daripada goresan di sampul. Kami membahas letak batas itu dalam [bepergian dengan paspor yang rusak](https://traveldocumentvault.com/id/blog/damaged-passport-travel/).
 
 Jika label pada halaman data Anda sendiri tidak dalam bahasa Inggris, tata letaknya tetap membantu: kedua tanggal tercetak bersama, dengan format yang sama, dan tanggal kedaluwarsa adalah yang lebih akhir dari keduanya.
+
+Luangkan lima menit hari ini untuk menemukan kedua tanggal itu di paspor Anda sendiri, dan di paspor setiap anak jika Anda bepergian bersama keluarga, agar Anda sudah tahu mana yang mana sebelum sebuah formulir atau petugas perbatasan menanyakannya.
 
 **Sebelum Anda mengandalkan ini:** ini blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 

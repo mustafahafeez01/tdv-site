@@ -16,23 +16,25 @@ Source: https://traveldocumentvault.com/de/blog/digital-passport-copy-valid/
 - Visaanträge erfordern **spezifische Formate** (beglaubigte Kopien oder beglaubigte Scans) anstelle von zufälligen Handyfotos. Überprüfen Sie zuerst die Botschaftswebseite.
 - Wenn Ihr Reisepass im Ausland verloren geht, beschleunigt eine **digitale Kopie die Notfall-Ersatzbeschaffung** bei Ihrer Botschaft erheblich.
 
-Bei der Planung einer Reise fragen sich viele Reisende, ob sie eine digitale Kopie ihres Reisepasses auf ihrem Telefon speichern können, anstatt das Original mitzunehmen. Die kurze Antwort: Eine digitale Kopie ist wirklich nützlich, aber nur in bestimmten Situationen. Sie müssen genau wissen, wo sie funktioniert und wo nicht, damit Sie nicht überraschend beim Check-in festsitzen.
+Bei der Planung einer Reise fragen sich viele Reisende, ob sie eine digitale Kopie ihres Reisepasses auf ihrem Telefon speichern können, anstatt das Original mitzunehmen. Sie müssen genau wissen, wo sie funktioniert und wo nicht, damit Sie nicht überraschend beim Check-in festsitzen.
+
+Die kurze Antwort: Eine digitale Kopie ist wirklich nützlich, aber nur in bestimmten Situationen.
 
 ## Wo digitale Reisepasskopien akzeptiert werden
 
-### Hotel-Check-in
+### Viele Hotels akzeptieren eine Kopie, in Teilen Europas wollen sie meist trotzdem das Original
 
 Die meisten Hotels weltweit akzeptieren digitale Reisepasskopien beim Check-in – als PDF auf Ihrem Telefon, per E-Mail im Voraus gesendet oder ausgedruckt. Dies ist besonders hilfreich, wenn Sie spät einchecken oder zwischen verschiedenen Unterkünften wechseln und Ihren physischen Reisepass nicht die ganze Reise über mitführen möchten. Einige kleinere Hotels, besonders in Regionen mit weniger digitaler Infrastruktur, bevorzugen immer noch das Original. In Teilen Europas – Spanien, Frankreich und Italien gehören dazu – müssen Hotels Ihre Daten für die Behörden aufzeichnen und werden in der Regel den physischen Reisepass einsehen wollen, um dies zu tun, obwohl Datenschutzrichtlinien vorsehen, dass sie normalerweise keine Kopie behalten sollten. Wenden Sie sich im Voraus an Ihre Unterkunft, um dies zu bestätigen.
 
-### Flugbuchungen und Online-Check-in
+### Eine digitale Kopie beschleunigt den Check-in, nicht das Boarding
 
 Fluggesellschaften benötigen Ihre Reisepassdaten bei der Buchung, und viele erlauben Ihnen, eine digitale Kopie hochzuladen, um Ihre Identität für den Online-Check-in zu überprüfen – dies beschleunigt den Flughafenprozess. Sie müssen immer noch den Originalreisepass am Gate vorlegen. Die Rolle der digitalen Kopie ist die Identitätsprüfung vor der Reise, nicht die Boarding-Dokumentation.
 
-### Mietwagenvermietungen
+### Die Kopie reicht für die Buchung, abgeholt wird der Wagen aber mit dem Original
 
 Mietwagenvermietungen akzeptieren in der Regel digitale Reisepasskopien für Buchungen und Kaution-Verifizierung. Wenn Sie das Fahrzeug abholen, präsentieren Sie den Originalreisepass zusammen mit Ihrem Führerschein. Die digitale Kopie ist während der Buchungsphase nützlich.
 
-### Notfall-Konsulatshilfe
+### Geht Ihr Reisepass verloren, beschleunigt die Kopie das Verfahren
 
 Wenn Ihr Reisepass während einer Reise verloren geht oder gestohlen wird, kann eine digitale Kopie den Prozess für ein Notfall-Reisedokument bei Ihrer Botschaft erheblich beschleunigen. Sie belegt das Vorhandensein Ihres Reisepasses und liefert Ihre biografischen Daten, Ihr Foto und Ihre Passnummer, die die Botschaft benötigt, um einen Ersatz auszustellen. Dies ist einer der stärksten Gründe, immer eine digitale Sicherung mitzuführen.
 
@@ -69,9 +71,13 @@ Reisepasskopien enthalten sensible Identitätsinformationen: Ihren vollständige
 - **Teilen Sie niemals unnötigerweise**. Stellen Sie Ihre Reisepasskopie nur legitimen Unternehmen zur Verfügung, mit denen Sie aktiv Geschäfte tätigen.
 - **Halten Sie Kopien separat von Ihrem physischen Reisepass**. Wenn Ihre Tasche gestohlen wird, möchten Sie die Sicherung woanders haben.
 
+Wenn Sie nur eine Gewohnheit ändern, dann diese: Ersetzen Sie das per E-Mail verschickte PDF oder das Foto in der Kamerarolle durch eine verschlüsselte App. Gerade diese beiläufige Kopie landet am ehesten in falschen Händen, wenn Ihr Telefon oder Ihr Postfach einmal kompromittiert wird.
+
 **Travel Document Vault** speichert verschlüsselte Kopien aller Ihrer Reisedokumente auf Ihrem Gerät. AES-256-Verschlüsselung auf Ihrem Telefon, kein Konto erforderlich. Optionales verschlüsseltes Backup auf Ihrem eigenen iCloud oder Google Drive (Pro) versiegelt mit einem Wiederherstellungscode, den nur Sie haben. [Im App Store verfügbar.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 Wenn Sie sich fragen, ob Cloud-Speicher sicher für Reisepasskopien ist, lesen Sie unseren Leitfaden zum [Speichern von Reisepässen in Google Fotos](https://traveldocumentvault.com/de/blog/is-it-safe-to-store-passport-in-google-photos/). Er erläutert, warum eine dedizierte verschlüsselte App einen stärkeren Schutz bietet.
+
+Falls Sie noch keine Kopie angelegt haben, scannen Sie die Fotoseite Ihres Reisepasses am besten noch heute, bevor Sie an einem Check-in-Schalter oder in einer Botschaft stehen und sie brauchen.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 

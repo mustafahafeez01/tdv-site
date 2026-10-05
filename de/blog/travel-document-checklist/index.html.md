@@ -36,7 +36,7 @@ Finden Sie heraus, ob Ihre Passnationalität ein Visum für Einreise, Transit od
 
 Buchen Sie Reiseversicherung, wenn Sie Flüge buchen, nicht eine Woche vor der Abreise. Eine Versicherung, die abgeschlossen wird, nachdem Sie bereits ein Risiko identifiziert haben, könnte dieses spezifische Problem ausschließen. Stellen Sie sicher, dass die Police alle Reisenden, alle Ziele und die geplanten Aktivitäten abdeckt.
 
-## Drei Monate vorher: Erneuerung und Visafenster
+## Drei Monate vorher: Wenn Erneuerung oder Visum näher rücken, fangen Sie jetzt an
 
 Zu diesem Zeitpunkt haben Sie noch Zeit, Dinge zu beheben. Bearbeitungszeiten für Erneuerungen ändern sich, und jede Behörde veröffentlicht ihre eigene aktuelle Angabe: das US State Department, das HM Passport Office und das Australian Passport Office. Überprüfen Sie immer die offizielle Website auf aktuelle Zeiten, bevor Sie einen Antrag stellen.
 
@@ -73,7 +73,9 @@ Für Geschäftsreisende: wenn Sie zwei Pässe haben, bestätigen Sie, welcher Pa
 
 ## Am Vorabend: Endbestätigung
 
-Dies sind Bestätigungen, keine Neuentdeckungen. Wenn etwas jetzt fehlt, haben Sie Stunden zu tun, es zu sortieren, nicht Wochen.
+Dies sind Bestätigungen, keine Neuentdeckungen.
+
+Wenn etwas jetzt fehlt, haben Sie Stunden zu tun, es zu sortieren, nicht Wochen.
 
 ### Vorabend
 
@@ -93,9 +95,9 @@ Bevor Sie das Haus verlassen, machen Sie ein Foto von jedem Dokument und speiche
 
 **Travel Document Vault** speichert verschlüsselte Kopien jedes Dokuments in dieser Liste – organisiert nach Familienmitglied, mit automatischen Ablauferinnerungen. Scannen Sie einmal, niemals mehr Durcheinander. [Im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
-## Checkliste nach Reisetyp
+## Wie sich Ihre Dokumentenliste je nach Reisetyp ändert
 
-Verschiedene Reisen benötigen verschiedene Dokumentensätze.
+Verschiedene Reisen benötigen verschiedene Dokumentensätze, wie die Tabelle unten für Alleinreisende, Familien und Geschäftsreisende zeigt.
 
 | Dokument | Solo | Familie | Geschäftlich | Notizen |
 |---|---|---|---|---|
@@ -106,6 +108,8 @@ Verschiedene Reisen benötigen verschiedene Dokumentensätze.
 | Kindereinverständniserklärung | N/A | ✅ falls zutreffend | N/A | In vielen Ländern erforderlich, wenn ein Elternteil abwesend |
 | Geburtsurkunden | N/A | ✅ falls erforderlich | N/A | Einige Länder verlangen für Kinder unter 18 Jahren |
 | Arbeitserlaubnisschreiben | N/A | N/A | ✅ falls erforderlich | Einige Länder benötigen Arbeitgeberschreiben für Geschäftsreisende |
+
+Ist eine Reise bereits gebucht, lohnt sich heute vor allem eines: Holen Sie jeden beteiligten Reisepass hervor und prüfen Sie sein Ablaufdatum gegen die Anforderung des Reiseziels, nicht nur gegen Ihre Reisedaten.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 

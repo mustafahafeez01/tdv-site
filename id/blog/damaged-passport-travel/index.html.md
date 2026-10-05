@@ -20,7 +20,7 @@ Sebagian besar kerusakan paspor hanya bersifat kosmetik. Sampul yang tergores, s
 
 Mengetahui di mana batas itu berada sangat berguna sebelum Anda bepergian, karena paspor bisa saja secara teknis masih berlaku namun tetap ditolak. Artikel ini membahas apa yang dianggap kerusakan, apa yang umumnya diterima petugas, dan apa yang harus dilakukan jika paspor Anda sudah dalam kondisi buruk.
 
-## Apa yang Sebenarnya Dianggap Kerusakan Paspor
+## Keausan Kosmetik Itu Wajar, Kerusakan pada Fitur Keamanan Tidak
 
 Di sinilah kebanyakan orang panik secara tidak perlu: sudut sampul yang sedikit tertekuk bukan kerusakan, begitu pula lipatan kecil akibat terselip di saku belakang. Maskapai dan petugas imigrasi memahami bahwa paspor memang dipakai sehari-hari, jadi keausan kosmetik ringan adalah hal yang wajar.
 
@@ -30,7 +30,9 @@ Yang paling penting, zona yang bisa dibaca mesin, garis hitam putih di bagian ba
 
 Alasan ini penting adalah karena **maskapai menanggung tanggung jawab jika memberangkatkan penumpang dengan dokumen yang tidak layak.** Jika Anda berangkat dengan paspor rusak lalu ditolak masuk di negara tujuan, otoritas setempat bisa mengenakan denda kepada maskapai karena membawa Anda. Maskapai juga harus menanggung biaya memulangkan Anda.
 
-Tidak ada petugas gerbang yang ingin mengurus semua itu, jadi mereka memilih untuk berhati-hati secara tegas. Paspor yang terlihat meragukan akan ditolak, tanpa kompromi.
+Tidak ada petugas gerbang yang ingin mengurus semua itu, jadi mereka memilih untuk berhati-hati secara tegas.
+
+Paspor yang terlihat meragukan akan ditolak, tanpa kompromi.
 
 ## Anda Menemukan Kerusakan Beberapa Hari atau Minggu Sebelum Bepergian
 
@@ -42,9 +44,9 @@ Ada beberapa hal yang perlu dipastikan sebelum Anda pergi. Layanan cepat atau pr
 
 Paspor yang rusak juga biasanya berarti Anda harus mengajukan permohonan langsung, bukan lewat pos. Di beberapa negara, kantor yang menangani kasus mendesak sama sekali berbeda dari kantor yang hanya menerima permohonan biasa, dan datang ke loket yang salah akan menghabiskan satu hari yang mungkin tidak Anda miliki.
 
-Mulai proses ini begitu Anda menemukan kerusakannya. Memesan penerbangan dan berharap proses perpanjangan selesai tepat waktu adalah taruhan yang sering gagal, terutama pada musim panas ketika kantor paspor sedang sangat sibuk.
+Mulai proses ini begitu Anda menemukan kerusakannya. **Kami tidak akan menunda bahkan satu hari pun untuk menghubungi mereka.** Memesan penerbangan dan berharap proses perpanjangan selesai tepat waktu adalah taruhan yang sering gagal, terutama pada musim panas ketika kantor paspor sedang sangat sibuk.
 
-## Kerusakan yang Ditemukan di Bandara
+## Di Gerbang, Kejujuran Menjaga Pilihan Anda Tetap Terbuka
 
 Sekarang untuk skenario yang lebih sulit: Anda sedang mengantre check-in atau berada di gerbang keberangkatan dan menyadari kerusakan yang sebelumnya terlewat, atau petugas menyadarinya begitu Anda menyerahkan paspor.
 
@@ -60,7 +62,7 @@ Setelah keberangkatan Anda ditolak, pilihan Anda terbatas:
 
 Jika petugas gerbang menolak, jangan berdebat dan jangan mencoba tetap naik pesawat. Itu hanya akan menciptakan masalah yang lebih besar. Maskapai bisa melarang Anda terbang di masa depan, otoritas imigrasi bisa mengenakan denda, dan di beberapa negara Anda bahkan bisa dituntut karena mencoba bepergian dengan dokumen yang sudah dinyatakan tidak sah.
 
-## Perkiraan Waktu Penggantian Paspor Darurat
+## Periksa Perkiraan Waktu di Sumbernya Sebelum Memesan
 
 Waktu pemrosesan yang dipublikasikan berubah-ubah sepanjang tahun, dan biasanya meningkat pada musim panas ketika kantor paspor paling sibuk. Daripada mempercayai angka yang Anda baca di suatu tempat, periksa angka terkini langsung dari sumbernya sebelum menetapkan tanggal perjalanan:
 
@@ -71,7 +73,7 @@ Waktu pemrosesan yang dipublikasikan berubah-ubah sepanjang tahun, dan biasanya 
 
 Pola ini berlaku di mana pun. Semakin dekat dengan tanggal keberangkatan, semakin sedikit jalur yang masih terbuka, dan yang tersisa mengharuskan Anda datang langsung dengan membawa paspor rusak dan bukti perjalanan. Menemukan kerusakan tiga minggu sebelumnya hanyalah ketidaknyamanan. Menemukannya tiga hari sebelumnya adalah masalah yang sama sekali berbeda.
 
-## Mengapa Salinan Digital Sangat Membantu
+## Pindaian Paspor Mempercepat Penggantian
 
 Ketika Anda perlu mengganti paspor yang rusak secara mendesak, ada satu hal yang memperlambat segalanya: membuktikan identitas Anda. Kantor paspor perlu memastikan bahwa dokumen pengganti diberikan kepada pemilik yang sah, bukan seseorang dengan identitas curian.
 
@@ -80,6 +82,8 @@ Foto digital paspor yang jelas sangat membantu di sini. Simpan halaman data, sam
 Ini sangat berguna jika paspor Anda rusak saat berada di luar negeri dan Anda memerlukan dokumen perjalanan darurat dari kedutaan. Petugas konsuler bekerja lebih cepat ketika mereka bisa melihat hasil scan paspor asli Anda secara langsung.
 
 Simpan salinan digital Anda di tempat yang terenkripsi dan offline, bukan di Google Photos atau iCloud yang dibagikan dengan orang lain. Travel Document Vault dibuat khusus untuk kebutuhan ini: foto paspor terenkripsi hanya di perangkat Anda, dan bisa diakses seketika jika terjadi sesuatu.
+
+Pindai paspor Anda hari ini, sebelum Anda membutuhkannya.
 
 **Sebelum Anda mengandalkan ini:** ini blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 

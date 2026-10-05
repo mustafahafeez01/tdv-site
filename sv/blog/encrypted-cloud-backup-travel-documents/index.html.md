@@ -38,7 +38,9 @@ Här är den del de flesta artiklar hoppar över, och den förtjänar att sägas
 
 Konsekvensen är oundviklig. **Om du förlorar återställningskoden kan säkerhetskopian aldrig öppnas igen.** Inte av dig, inte av Apple eller Google, och inte av oss. Det finns ingen återställningslänk, eftersom det inte finns något konto att koppla den till. Det finns inget supportärende som kan återställa den, eftersom vi aldrig har haft den och inte ens kan börja gissa oss till den.
 
-Det låter hårt skrivet i klartext, och det är värt att vara ärlig om det i stället för att gömma undan det på en inställningsskärm. Det är samma avvägning du gör med en husnyckel: låset är bara värt något för att ingen låssmed på jorden har en reservnyckel, och det är precis därför att förlora din blir ditt eget problem. Ett företag som kan återställa dina handlingar efter att du glömt allt är ett företag som kunde läsa dem hela tiden.
+Det låter hårt skrivet i klartext, och det är värt att vara ärlig om det i stället för att gömma undan det på en inställningsskärm. Det är samma avvägning du gör med en husnyckel: låset är bara värt något för att ingen låssmed på jorden har en reservnyckel, och det är precis därför att förlora din blir ditt eget problem.
+
+Ett företag som kan återställa dina handlingar efter att du glömt allt är ett företag som kunde läsa dem hela tiden.
 
 Behandla därför koden som den enda sak du måste göra rätt:
 
@@ -55,7 +57,7 @@ Ett foto av ditt pass i ett vanligt fotobibliotek eller en synkad mapp anländer
 
 Ett valv krypterat på enheten före uppladdning anländer som krypterad text. Den som bryter sig in i molnkontot hittar en fil de inte kan öppna. Skyddet följer med filen i stället för att bero på kontot den hamnar i.
 
-Vilket är varför det ärliga svaret på "är molnet säkert" är: molnet är en leveransadress, inte en säkerhetsmodell. Det som spelar roll är vilket skick filen är i när den kommer fram. Vår [jämförelse av de vanligaste ställena folk sparar passkopior](https://traveldocumentvault.com/sv/blog/safest-way-to-store-passport-digitally/) går igenom avvägningarna för vart och ett.
+Vilket är varför det ärliga svaret på "är molnet säkert" är: molnet är en leveransadress, inte en säkerhetsmodell. Det som spelar roll är vilket skick filen är i när den kommer fram. Om vi måste välja ett standardval väljer vi den lösning som krypterar filen innan den lämnar telefonen. Vår [jämförelse av de vanligaste ställena folk sparar passkopior](https://traveldocumentvault.com/sv/blog/safest-way-to-store-passport-digitally/) går igenom avvägningarna för vart och ett.
 
 | Vad du säkerhetskopierar | Skick vid ankomst | Vem kan läsa den | Om kontot komprometteras |
 |---|---|---|---|
@@ -72,7 +74,7 @@ Tre saker stannar medvetet kvar på telefonen, och återställningskoden kommer 
 
 Det sista brukar överraska folk, så här kommer den raka versionen. **En systemnivås enhetssäkerhetskopia installerar om appen men kan inte återställa dina handlingar.** Krypteringsnyckeln lämnade aldrig den gamla telefonen, så den nya har inget att dekryptera med. Om du vill att ditt valv ska överleva telefonen behöver du antingen ha molnsäkerhetskopiering påslagen eller en exporterad fil sparad någonstans.
 
-## Återställa på en ny telefon
+## Återställningen går snabbt och skriver inte över det som redan finns
 
 Återställningen går snabbt, vilket är hela poängen med att göra förberedelserna i förväg.
 
@@ -80,7 +82,7 @@ Installera appen på den nya telefonen och logga in på samma iCloud- eller Goog
 
 Appen kontrollerar också innan den skriver. Om molnsäkerhetskopieringen upptäcker en befintlig säkerhetskopia i det kontot ber den dig välja mellan att återställa och börja om från början. En ny telefon kan inte tyst skriva över det som redan finns där.
 
-### Byta mellan iPhone och Android
+### Att byta mellan iPhone och Android innebär att använda Exportera valv
 
 Molnsäkerhetskopiering stannar på en plattform, eftersom den använder din egen iCloud på Apple-enheter och din egen Google Drive på Android. Att gå från den ena till den andra kräver den andra vägen.
 
@@ -98,9 +100,9 @@ Tjugo minuter, en gång, före nästa resa:
 - Exportera valvet en gång och spara filen någonstans du själv kontrollerar, som en väg som inte beror på något molnkonto.
 - Kontrollera att appen visar en ny säkerhetskopia innan du flyger, på samma sätt som du kollar att passen ligger i väskan.
 
-Inget av det här är dramatiskt, och det är lite grann poängen. De familjer som klarar en stulen telefon utomlands bäst är nästan aldrig de som reagerade briljant. Det är de som la tjugo odramatiska minuter vid köksbordet två veckor tidigare.
-
 En sista sak om förväntningar. Säkerhetskopiering är ett extra skyddslager, och det garanterar ingenting: molnkonton låses ute, koder glöms bort, lagringstjänster har dåliga dagar. För handlingar som verkligen betyder något, förvara även något oberoende, vare sig det är en utskriven kopia i en låda hemma eller en andra export på en hårddisk.
+
+Inget av det här är dramatiskt, och det är lite grann poängen. De familjer som klarar en stulen telefon utomlands bäst är nästan aldrig de som reagerade briljant. Det är de som la tjugo odramatiska minuter vid köksbordet två veckor tidigare. Har du inte gjort det än, ställ in din säkerhetskopia redan i dag och skriv ner var återställningskoden finns.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 

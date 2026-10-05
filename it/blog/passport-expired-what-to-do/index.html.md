@@ -30,7 +30,7 @@ L'urgenza con cui deve agire determina cosa fare:
 - **Il viaggio è vicino:** chiami direttamente l'autorità preposta ai passaporti invece di affidarsi solo al sito web — la linea di assistenza di HM Passport Office nel Regno Unito, o il National Passport Information Center negli USA.
 - **Il viaggio è imminente:** chieda un appuntamento di emergenza e porti una prova delle Sue date di viaggio. Il Regno Unito offre un servizio Premium accelerato negli uffici passaporti designati, e gli USA offrono appuntamenti presso le agenzie passaporti regionali.
 
-Tutte le autorità maggiori tengono i posti per appuntamenti di emergenza che non sono visibili online. Se il Suo arco temporale è stretto, chiami piuttosto che affidarsi solo al sito web.
+Tutte le autorità maggiori tengono i posti per appuntamenti di emergenza che non sono visibili online. Se il Suo arco temporale è stretto, **noi chiameremmo sempre, invece di fidarci del solo sito web.**
 
 **Imposti l'avviso adesso** così questo non accade più — Travel Document Vault la avvisa a partire da otto mesi prima della scadenza di ogni passaporto in Suo possesso, e di nuovo mentre la data si avvicina. [Scarica dall'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
@@ -52,7 +52,9 @@ Questo scenario accade più spesso di quanto la gente si aspetti, e i passaggi n
 
 ## Altri problemi di passaporto che respingono i viaggiatori
 
-La scadenza è il motivo più comune per cui un passaporto fallisce all'aeroporto, ma altri problemi causano lo stesso risultato. Ciò che li rende più facili da trascurare è che a differenza delle date di scadenza, non vengono forniti di un avviso di conto alla rovescia visibile.
+La scadenza è il motivo più comune per cui un passaporto fallisce all'aeroporto, ma altri problemi causano lo stesso risultato.
+
+Ciò che li rende più facili da trascurare è che a differenza delle date di scadenza, non vengono forniti di un avviso di conto alla rovescia visibile.
 
 ### 1. Un passaporto danneggiato
 
@@ -68,7 +70,7 @@ Anche piccole variazioni come un iniziale del secondo nome mancante o una letter
 
 ### 3. Un passaporto non firmato
 
-La maggior parte dei passaporti ha un pannello di firma. Alcuni Paesi, inclusi gli Stati Uniti, richiedono che il passaporto sia firmato prima di essere considerato valido per i viaggi. Un passaporto non firmato può essere rifiutato alla frontiera. Questo è più comunemente un problema con i passaporti rilasciati ai bambini che erano troppo giovani per firmare, o con passaporti nuovi di zecca che il titolare ha dimenticato di firmare prima di viaggiare. Verifichi il pannello di firma prima di partire da casa.
+La maggior parte dei passaporti ha un pannello di firma. Alcuni Paesi, inclusi gli Stati Uniti, richiedono che il passaporto sia firmato prima di essere considerato valido per i viaggi. Un passaporto non firmato può essere rifiutato alla frontiera. Questo è più comunemente un problema con i passaporti rilasciati ai bambini che erano troppo giovani per firmare, o con passaporti nuovi di zecca che il titolare ha dimenticato di firmare prima di viaggiare. Dare un'occhiata al pannello di firma prima di partire da casa permette di accorgersene in tempo.
 
 ### 4. Validità insufficiente per la Sua destinazione
 
@@ -82,11 +84,11 @@ I requisiti di visto e di autorizzazione di viaggio elettronica (ETA) cambiano s
 
 Prima di ogni viaggio, verifichi i requisiti di ingresso ufficiali per la Sua destinazione utilizzando il servizio di consulenza di viaggio del Suo Paese: gov.uk/foreign-travel-advice per i titolari di passaporti britannici, travel.state.gov per i titolari di passaporti USA, o smartraveller.gov.au per i titolari di passaporti australiani. Non si affidi a quello che era vero l'ultima volta.
 
-## Come assicurarsi che questo non accada mai più
+## Imposti il promemoria un anno prima, non sei mesi prima
 
 La causa principale è solitamente la stessa: nessun avviso in atto. Imposti un avviso di scadenza almeno **12 mesi prima della data di scadenza** — non 6 mesi. Questo le dà il tempo di rinnovare con l'elaborazione standard senza pagare per il servizio accelerato, e senza lo stress di un arco temporale stretto.
 
-Lo faccia per ogni passaporto in Suo possesso separatamente. I passaporti dei bambini scadono più velocemente — 5 anni nella maggior parte dei Paesi rispetto a 10 per gli adulti — e sono quelli più spesso persi.
+Lo faccia per ogni passaporto in Suo possesso separatamente. I passaporti dei bambini scadono più velocemente — 5 anni nella maggior parte dei Paesi rispetto a 10 per gli adulti — e sono quelli più spesso persi. **Tiri fuori oggi ogni passaporto e controlli la data di scadenza, non solo la pagina della foto.**
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 

@@ -20,9 +20,9 @@ Reisende stellen oft erst am Flughafen fest, dass sie Zustimmungsschreiben, Impf
 
 Eine vollständige Checkliste aller Dokumente, die Sie möglicherweise je nach Reisetyp und Phase benötigen, finden Sie in der [vollständigen Checkliste für Reisedokumente](https://traveldocumentvault.com/de/blog/travel-document-checklist/). Dieser Artikel geht auf das ein, was häufig vergessen wird, und wie Sie sich auf den Verlust von Dokumenten im Ausland vorbereiten.
 
-## Die Dokumente, die Menschen häufig vergessen
+## Fünf Dokumente, die Menschen vergessen, sobald der Reisepass gepackt ist
 
-Reisepass und Visum wirken dringend, also werden sie zuerst eingepackt. Aber Einwanderungsbeamte am Schalter überprüfen fünf weitere Dokumente, die die meisten Menschen übersehen.
+Reisepass und Visum wirken dringend, also werden sie zuerst eingepackt. Die fünf Dokumente, die Menschen tatsächlich vergessen, kommen danach: Nachweis der Weiterreise, Unterkunftsbestätigungen, Impfzertifikate, Versicherungsdetails und das Zustimmungsschreiben für ein Kind.
 
 ### Nachweis der Weiterreise
 
@@ -42,7 +42,9 @@ Sie benötigen sofortigen Zugriff auf Ihre Policennummer, Kontaktdaten des Versi
 
 ### Zustimmungsschreiben für Kinder
 
-Wenn ein Kind mit nur einem Elternteil (oder mit keinem Elternteil) international reist, erwarten viele Länder eine schriftliche Zustimmung vom abwesenden Elternteil, und eine notarielle Beglaubigung wird dringend empfohlen. Grenzbeamte in Ländern wie Kanada und Südafrika fragen routinemäßig danach, und das Flugpersonal kann das Einsteigen verweigern. Es ist das am häufigsten übersehene Dokument im Familienreisen, überprüfen Sie also vorher doppelt.
+Wenn ein Kind mit nur einem Elternteil (oder mit keinem Elternteil) international reist, erwarten viele Länder eine schriftliche Zustimmung vom abwesenden Elternteil, und eine notarielle Beglaubigung wird dringend empfohlen. Grenzbeamte in Ländern wie Kanada und Südafrika fragen routinemäßig danach, und das Flugpersonal kann das Einsteigen verweigern.
+
+Es ist das am häufigsten übersehene Dokument im Familienreisen, überprüfen Sie also vorher doppelt.
 
 ## Was Sie mitnehmen sollten versus was Sie digital speichern sollten
 
@@ -81,13 +83,13 @@ Besondere Details, die Sie zur Hand haben sollten, sowohl in Papierform als auch
 - Deckungssummen für die medizinische Evakuierung, die üblicherweise separat von der allgemeinen medizinischen Deckung ausgewiesen werden
 - Ausschlüsse oder Bedingungen, die auf Ihre Reise zutreffen
 
-Die Notfallnummer sollte in Ihren Telefonkontakten separat von den physischen Dokumenten gespeichert sein. Falls Ihr Gepäck verloren geht oder gestohlen wird, wird sichergestellt, dass Sie immer noch Hilfe bekommen können, ohne Ihr physisches Versicherungsdokument.
+Wir würden die Notfallnummer in Ihren Telefonkontakten speichern, getrennt von den physischen Dokumenten. Falls Ihr Gepäck verloren geht oder gestohlen wird, wird sichergestellt, dass Sie immer noch Hilfe bekommen können, ohne Ihr physisches Versicherungsdokument.
 
 ## Was Familien mit Kindern hinzufügen müssen
 
 Jedes Kind benötigt seinen eigenen Reisepass für internationale Reisen, egal wie jung. Viele Länder untersuchen Kinderreisen auch genau, um Eltern-Entführungen zu verhindern, daher erwarten Sie zusätzliche Fragen, wenn ein Kind mit nur einem Elternteil reist.
 
-**Zustimmungsschreiben für Kinder:** Wenn ein Kind international mit nur einem Elternteil reist, werden viele Grenzbeamte eine schriftliche Zustimmung vom abwesenden Elternteil anfordern, vorzugsweise notariell beglaubigt. Bei Reisen ohne einen Elternteil (zum Beispiel mit Großeltern) ist normalerweise die Zustimmung beider Eltern erforderlich. Die Anforderungen ändern sich und variieren je nach Nationalität. Überprüfen Sie also die Anforderungen mit der offiziellen Einwanderungsbehörde Ihres Ziels.
+Hier gilt dieselbe Regel: Wenn ein Kind international mit nur einem Elternteil reist, werden viele Grenzbeamte eine schriftliche Zustimmung vom abwesenden Elternteil anfordern, vorzugsweise notariell beglaubigt. Bei Reisen ohne einen Elternteil (zum Beispiel mit Großeltern) ist normalerweise die Zustimmung beider Eltern erforderlich. Die Anforderungen ändern sich und variieren je nach Nationalität. Überprüfen Sie also die Anforderungen mit der offiziellen Einwanderungsbehörde Ihres Ziels.
 
 Ein Zustimmungsschreiben sollte normalerweise den vollständigen Namen des Kindes und sein Geburtsdatum, Reisepassdaten, Reisedaten und -ziele sowie Kontaktdaten der abwesenden Eltern enthalten. Einige Ziele haben spezifische Vorlagen. Die kanadische Regierung zum Beispiel bietet ein Beispiel-Zustimmungsschreiben-Format.
 
@@ -95,11 +97,13 @@ Was das in der Praxis bedeutet
 
 Sie steigen mit Ihrem 8-jährigen Kind in einen Flug nach Kanada, und Ihr Partner reist nicht mit. Das Check-in-Personal kann das Einsteigen Ihres Kindes verweigern, wenn Sie keine schriftliche Zustimmung von Ihrem abwesenden Partner vorweisen können, vorzugsweise notariell beglaubigt. Wenn Ihr Kind stattdessen mit seinen Großeltern reist, müssen normalerweise beide Eltern das Zustimmungsschreiben unterzeichnen – die Genehmigung eines Elternteils allein reicht normalerweise nicht aus. Überprüfen Sie immer die genauen Anforderungen für Ihr Ziel lange vor Ihrer Abreise.
 
-## Der Fall für Offline-Digitalkopien
+## Halten Sie ein Offline-Backup bereit, das nicht in Ihrer Tasche mitreist
 
 Physische Dokumente helfen, bis ein Dieb Ihre Tasche nimmt – und nimmt normalerweise die Kopien zusammen mit den Originalen. Eine separate verschlüsselte Sicherung auf Ihrem Telefon – offline gehalten – ist Ihre echte Versicherung, falls die Originale verschwinden.
 
 Wenn Ihre Botschaft ein Notfall-Reisedokument ausstellen muss, gibt Ihnen eine sichere Sicherung sofort Ihre Reisepassnummer, Ausstellungsdatum, Ausstellungsort und Ablaufdatum ohne Internetzugang. Weitere Informationen zu den verfügbaren Optionen finden Sie in unserem Überblick über [sichere Speicherung von Reisepass-Kopien](https://traveldocumentvault.com/de/blog/is-it-safe-to-store-passport-in-google-photos/) und die Kompromisse zwischen verschiedenen Ansätzen.
+
+Wählen Sie das eine Dokument aus dieser Liste, das Sie noch nicht gesichert haben, sei es Ihr Zustimmungsschreiben, Ihre Versicherungspolicennummer oder die Datenseite Ihres Reisepasses, und speichern Sie vor Ihrer nächsten Reise eine verschlüsselte Offline-Kopie auf Ihrem Telefon.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 

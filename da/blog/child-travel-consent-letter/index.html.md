@@ -16,7 +16,9 @@ Source: https://traveldocumentvault.com/da/blog/child-travel-consent-letter/
 - Almindelige afvisninger skyldes manglende oplysninger, manglende notarbekræftelse, forældede underskrifter eller kontaktnumre, der ikke kan verificeres.
 - Medbring en printet kopi som hoveddokument, og opbevar en krypteret digital sikkerhedskopi til nødstilfælde.
 
-Et samtykkebrev har én opgave ved check-in-skranken: det viser, at den voksne, der rejser med barnet, har den fraværende forælders accept. De fleste bliver accepteret uden kommentarer. De, der giver forsinkelser, falder som regel på en detalje frem for på indholdet – oftest et pasnummer, der blev ændret ved barnets seneste fornyelse.
+Et samtykkebrev har én opgave ved check-in-skranken: det viser, at den voksne, der rejser med barnet, har den fraværende forælders accept. De fleste bliver accepteret uden kommentarer. De, der giver forsinkelser, fejler sjældent på indholdet.
+
+De fejler på en lille detalje, oftest et pasnummer, der blev ændret ved barnets seneste fornyelse.
 
 Det scenarie – og tusindvis ligesom det – sker, fordi samtykkebreve til børns rejser er et af de mest misforståede rejsedokumenter. Reglerne varierer meget fra land til land, og et brev, der fungerer fint på én rejse, kan mislykkes ved grænsen på den næste. At vide præcis, hvornår et brev kræves, hvad det skal indeholde, og hvordan du holder det gyldigt, forhindrer de mest almindelige grunde til, at familier bliver stoppet ved grænsen.
 
@@ -35,7 +37,7 @@ Et brev kræves typisk i disse situationer:
 
 Bekræft altid kravene direkte med indvandringsmyndigheden for din specifikke destination, før du rejser. Brug IATA Travel Centre til at tjekke indrejsekrav, eller kontakt destinationslandets ambassade. Er du i tvivl, er det bedre at have brevet end alternativet: at blive stoppet ved check-in eller grænsen.
 
-## Hvad brevet skal indeholde
+## Hvad brevet skal sige for at blive accepteret
 
 Et samtykkebrev til børns rejser er ikke en uformel note – det er et formelt dokument, ofte notarbekræftet, der skal indeholde specifikke oplysninger. Hvert brev bør indeholde:
 
@@ -53,7 +55,7 @@ Skriv brevet i formelt sprog – undgå vage vendinger som "mit barn kan rejse, 
 
 Nogle grænsevagter ringer til det oplyste kontaktnummer for at verificere samtykket. Sørg for, at nummeret er korrekt, besvares af den nævnte person, og at personen kan bekræfte tilladelsen under opkaldet. Kan du ikke garantere, at nogen svarer i grænsekontrollens åbningstid, så angiv et alternativt kontaktnummer, og notér det i brevet.
 
-## Notarbekræftelse og officiel certificering
+## Reglerne for notarbekræftelse varierer fra destination til destination
 
 I de fleste tilfælde skal brevet notarbekræftes, hvilket betyder, at en notar eller advokat underskriver og stempler det og bekræfter, at den fraværende forælder underskrev det i deres nærvær. I nogle jurisdiktioner accepteres i stedet en advokatbekræftet underskrift.
 
@@ -80,7 +82,7 @@ Selv velforberedte familier laver fejl, der fører til afvisning ved grænsen. D
 7. **Ufuldstændig destinationsliste.** Hvis brevet siger "Europa", men ikke nævner specifikke lande, kan det blive afvist.
 8. **Ingen udtrykkelig tilladelseserklæring.** Brevet skal tydeligt angive, at den fraværende forælder samtykker til netop denne rejse.
 
-## Landespecifikke krav
+## Kravene spænder fra anbefalede til strengt håndhævede
 
 | Land | Krav | Notarbekræftelse | Officiel kilde |
 |---|---|---|---|
@@ -92,9 +94,9 @@ Selv velforberedte familier laver fejl, der fører til afvisning ved grænsen. D
 | **EU** | Varierer efter land | Varierer efter land | IATA Travel Centre |
 | **New Zealand** | Anbefales | Tjek med indvandringsmyndigheden | Immigration NZ |
 
-**Bekræft altid aktuelle krav direkte med den officielle indvandringsmyndighed for dit destinationsland.** Reglerne ændrer sig ofte, og officielle myndighedswebsteder er din mest pålidelige kilde. Rejseblogs og flyselskabers sider er nyttige for kontekst, men de kan halte bagefter de nyeste krav.
+Se denne tabel som et udgangspunkt, ikke som det sidste ord. Reglerne ændrer sig ofte, og destinationens egen indvandringsmyndighed er din mest pålidelige kilde. Rejseblogs og flyselskabers sider er nyttige for kontekst, men de kan halte bagefter de nyeste krav.
 
-## Opbevaring og medbringelse af brevet
+## Medbring en printet kopi, og gem en digital backup
 
 Når brevet er underskrevet og notarbekræftet, er den næste udfordring at holde det sikkert og tilgængeligt under rejsen. Opbevar tre versioner:
 
@@ -106,7 +108,7 @@ Digitale kopier accepteres i stigende grad, men praksis varierer. Nogle grænsev
 
 Organiserer du også familiens rejsedokumenter centralt, ligger samtykkebrevet sammen med pas, visa og vaccinationsbeviser, klar til enhver rejse.
 
-## Sidste tjekliste før rejsen
+## Gå det her igennem, før du rejser
 
 I dagene før afrejse, gennemgå denne tjekliste:
 
@@ -120,7 +122,7 @@ I dagene før afrejse, gennemgå denne tjekliste:
 - Hvis dit barns pas fornyes før rejsen, skal du skaffe et nyt brev med det nye pasnummer.
 - Laminér ikke et notarbekræftet brev. Laminering kan ugyldiggøre certificeringen.
 
-At gennemgå denne tjekliste er meget billigere end at opdage ved skranken, at dit brev ikke længere stemmer overens med passet, du holder i hånden.
+Gå listen igennem, før du forlader huset, ikke ved check-in-skranken, for et ændret pasnummer er den detalje, familier oftest overser.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 

@@ -21,7 +21,7 @@ Que un vuelo de conexión necesite visado de tránsito depende de tres cosas: qu
 
 Los visados de tránsito son el documento que se les escapa incluso a los viajeros más cuidadosos, porque quedan al margen del resto de tus papeles de viaje. La validez de tu pasaporte no les afecta, y el visado de entrada de tu destino tampoco los sustituye —existen únicamente por el país donde tu avión aterriza para repostar. Aun así, muchos viajeros no comprueban si lo necesitan hasta que ya es demasiado tarde.
 
-## Tránsito en Lado Aire frente a Tránsito en Lado Tierra: la Distinción Clave
+## El Tránsito en Lado Aire Suele No Requerir Visado, pero el Lado Tierra Implica Pasar Inmigración
 
 Que necesites visado o no suele depender de una sola distinción: lado aire (airside) frente a lado tierra (landside). La mayoría de los países conceden tránsito sin visado en un lado de esa línea, pero no en el otro.
 
@@ -53,13 +53,13 @@ Esto se aplica incluso a nacionalidades similares dentro de la misma región. Vi
 
 Por eso el IATA Travel Centre (la misma base de datos que usan las aerolíneas en la puerta de embarque) es la única fuente fiable: introduces tu nacionalidad y tu destino, y te indica el requisito exacto para esa combinación. Nunca des por hecho que lo sabes basándote en lo que le pasó a otro viajero o en lo que recuerdas de un viaje anterior.
 
-## Descubrir que Necesitas un Visado de Tránsito Después de Reservar
+## Si Descubres que Necesitas un Visado Después de Reservar, Llama Primero a Tu Aerolínea
 
 Ocurre más a menudo de lo que crees: reservas los vuelos y luego te das cuenta de que la escala necesita un visado de tránsito que no tienes. Cuando ocurra, trátalo como algo urgente, porque los plazos de tramitación varían enormemente, desde el mismo día hasta varias semanas, según el país y la época del año.
 
 Empieza por tu aerolínea, ya que puede conocer los plazos de tramitación y a veces tiene experiencia con rutas habituales. Después, ponte en contacto con la embajada o el consulado más cercano del país de tránsito para averiguar cuánto tardará el propio visado. Muchos consulados ofrecen tramitación urgente para emergencias de viaje, aunque puede que tengas que pagar una tasa adicional.
 
-Si la tramitación no llega a tiempo antes de tu fecha de salida, tienes tres opciones: cambiar tus vuelos para evitar por completo el país de tránsito, reprogramar la ruta por otro aeropuerto de conexión, o retrasar el viaje. Intentar embarcar sin el visado obligatorio se traduce en vuelos perdidos y posibles complicaciones con tu aerolínea.
+Si la tramitación no llega a tiempo antes de tu fecha de salida, tienes tres opciones: cambiar tus vuelos para evitar por completo el país de tránsito, reprogramar la ruta por otro aeropuerto de conexión, o retrasar el viaje. Intentar embarcar sin el visado obligatorio se traduce en vuelos perdidos y posibles complicaciones con tu aerolínea, así que reserva la nueva ruta en cuanto detectes el problema, en lugar de esperar y confiar en que los trámites lleguen a tiempo.
 
 ## Cómo Comprobarlo Antes de Reservar
 
@@ -70,6 +70,8 @@ Cuando la herramienta señale que necesitas un visado de tránsito, anota dos co
 Añade cualquier visado de tránsito que necesites a tu calendario de planificación, junto con tu visado de entrada principal. Algunos tardan semanas; necesitas esa información antes de reservar los vuelos. Guarda la confirmación con tus demás documentos de viaje para tenerla a mano en la puerta de embarque, donde es la aerolínea, no la frontera, la primera en comprobarlo.
 
 Si viajas en familia, comprueba el pasaporte de cada miembro por separado. Una sola persona sin exención puede desbaratar todo el viaje.
+
+Antes de reservar, pasa por el IATA Travel Centre toda tu ruta, no solo el destino. Es la comprobación con más probabilidades de detectar un requisito que falta cuando todavía puedes cambiar la reserva.
 
 ## Preguntas Frecuentes
 

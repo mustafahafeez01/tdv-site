@@ -26,7 +26,7 @@ The biggest mistake travellers make is treating the booking moment as administra
 
 **Check your passports before you pay**
 
-Before you confirm any booking, check every traveller's passport against three criteria: validity (does it meet the destination's requirements - many countries require six months beyond your departure date, not just your arrival date, as explained in our [guide to the 6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)), name match (the name on the passport must exactly match the booking name), and blank pages (some countries require at least two blank visa pages for entry stamps).
+Before you confirm any booking, check every traveller's passport against three criteria: validity, name match, and blank pages. Validity means meeting the destination's requirement: many countries require six months beyond your departure date, not just your arrival date, as explained in our [guide to the 6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). The name on the passport must exactly match the booking name, and some countries require at least two blank visa pages for entry stamps.
 
 **Check your visa requirements**
 
@@ -38,11 +38,11 @@ Book travel insurance when you book flights, not a week before departure. Insura
 
 ![Hand-drawn timeline of travel document checks: check expiry dates at booking, renew if needed three months before, confirm and consolidate one month before, final check the night before](https://traveldocumentvault.com/blog/travel-document-checklist/checklist-timeline.jpg) Four checkpoints between booking and boarding - each one small if you start early.
 
-## Three Months Before: Renewal and Visa Windows
+## Three Months Before: If Renewal or a Visa Is Close, Start Now
 
 At this point you still have time to fix things. Renewal times change, and each authority publishes its own current figure: the US State Department, HM Passport Office, and the Australian Passport Office. Always check the official site for current times before you apply.
 
-Any passport expiring within 12 months: start the renewal process now. Children's passports expire faster - 5 years in most countries versus 10 for adults - and parents frequently miss the window. For New Zealand applicants, check the New Zealand Passport Office for current timelines; demand spikes in the lead-up to summer.
+Any passport expiring within 12 months needs renewing now, because children's passports expire faster (5 years in most countries versus 10 for adults) and parents frequently miss the window. For New Zealand applicants, check the New Zealand Passport Office for current timelines; demand spikes in the lead-up to summer.
 
 Submit any visa applications that need lead time, and check the issuing authority for how long it currently takes. Prepare supporting documents: bank statements, accommodation confirmations, onward travel proof. Book a biometrics appointment in advance if the visa requires it.
 
@@ -75,7 +75,9 @@ For business travellers: if you hold two passports, confirm which passport your 
 
 ## The Night Before: Final Confirmation
 
-These are confirmations, not discoveries. If something's missing now, you've got hours to sort it out, not weeks.
+These are confirmations, not discoveries.
+
+If something's missing now, you've got hours to sort it out, not weeks.
 
 ### Night Before
 
@@ -89,15 +91,15 @@ These are confirmations, not discoveries. If something's missing now, you've got
 
 ## At the Airport: Keep These With You
 
-Keep these in your carry-on at all times - don't put them in checked luggage: passports, boarding passes, travel insurance certificate, parental consent letter if applicable, and any visa documentation or approval letters.
+Keep these in your carry-on at all times, not in checked luggage. That means passports, boarding passes, travel insurance certificate, parental consent letter if applicable, and any visa documentation or approval letters.
 
 Before you leave home, take a photo of every document and store it in an encrypted app - not your camera roll. If your bag is lost or stolen, you'll want your passport number, insurance policy number, and booking references somewhere you can still access them at an embassy or police station. A secure digital backup saves hours when you're trying to get help.
 
 **Travel Document Vault** stores encrypted copies of every document on this list - organised by family member, with automatic expiry reminders. Scan once, never scramble again. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
-## Checklist by Trip Type
+## How Your Document List Changes by Trip Type
 
-Different trips need different document sets.
+Different trips need different document sets, as the table below shows for solo, family and business travel.
 
 | Document | Solo | Family | Business | Notes |
 |---|---|---|---|---|
@@ -108,6 +110,8 @@ Different trips need different document sets.
 | Child consent letter | N/A | ✅ if applicable | N/A | Required in many countries if one parent absent |
 | Birth certificates | N/A | ✅ if required | N/A | Some countries require for children under 18 |
 | Work authorisation letter | N/A | N/A | ✅ if required | Some destinations require employer letters for business travellers |
+
+If a trip is already booked, the one thing worth doing today is pulling out every passport involved and checking its expiry against the destination's requirement, not just against your travel dates.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 

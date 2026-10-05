@@ -24,7 +24,9 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/lost-passport-abroad/
 
 当您到达大使馆时，他们会要求您的护照号码、签发日期、签发地点和过期日期。如果您没有副本，您会在压力下尝试回忆这些。有了副本，您可以在几秒钟内交付。**当您携带已写下的详细信息到达时，领事工作人员能更快地签发更换文件。**
 
-手机里的副本只是一份记录，不是身份证件，这两者很容易被混为一谈。事先了解清楚[数字护照副本在哪些场合被接受、哪些场合仍需出示原件](https://traveldocumentvault.com/zh-Hans/blog/digital-passport-copy-valid/)，会很有帮助。
+手机里的副本只是一份记录，不是身份证件。
+
+这两者很容易被混为一谈。事先了解清楚[数字护照副本在哪些场合被接受、哪些场合仍需出示原件](https://traveldocumentvault.com/zh-Hans/blog/digital-passport-copy-valid/)，会很有帮助。
 
 ## 步骤1：确认护照真的丢失了
 
@@ -32,7 +34,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/lost-passport-abroad/
 
 ## 步骤2：立即提交警方报告
 
-前往最近的警察局并报告护照丢失或被盗。您需要此报告进行大使馆申请和保险索赔。
+前往最近的警察局并报告护照丢失或被盗。您需要此报告进行大使馆申请和保险索赔。如果可以，我们会在一小时内办好，趁细节还记得清楚。
 
 要求一份带有案例号的书面副本。要求英文版本或翻译（如果可能）。拍张照片并安全地保留多份副本。
 
@@ -60,7 +62,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/lost-passport-abroad/
 - 往返旅行证明——航班预订、酒店确认
 - 紧急证件费用——准备现金和卡
 
-**Travel Document Vault**在您的手机上存储护照的加密副本——无需互联网就可以访问，无需登录。这正是您的大使馆要求的。[在App Store上下载。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault**在您的手机上存储护照的加密副本——无需互联网就可以访问，无需登录。清单上的每一项护照信息，它都有。[在App Store上下载。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 步骤5：通知您的旅行保险公司
 
@@ -78,7 +80,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/lost-passport-abroad/
 
 ## 步骤7：回家并更换护照
 
-一旦您获得紧急旅行证件，如果需要，请向当地移民部门确认出境要求，然后重新预订或确认您的回程。当您回来时：通过您的官方护照颁发机构申请完整更换护照，并在下次旅行前设置所有旅行文件的加密数字备份。
+一旦您获得紧急旅行证件，如果需要，请向当地移民部门确认出境要求，然后重新预订或确认您的回程。回到家后，请通过您的官方护照颁发机构申请完整更换护照，并在新护照到手的当天，把它和其余旅行文件一起扫描进加密备份。
 
 **在依据本文行动之前：**这是一个博客，不是官方来源。规则和细节会变化，你的情况也可能不同。我们会核对所发布的内容，但仍可能出错或过时。如果这里的内容对你的安排很重要，请在行动前向主管机构核实。
 

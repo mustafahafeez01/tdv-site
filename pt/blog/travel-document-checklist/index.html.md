@@ -36,7 +36,7 @@ Descubra se a nacionalidade do seu passaporte requer um visto para entrada, trâ
 
 Reserve o seguro de viagem quando reserva voos, não uma semana antes da partida. O seguro contratado após já ter identificado um risco pode excluir esse problema específico. Certifique-se de que a apólice cobre todos os viajantes, todos os destinos e as atividades que planeia fazer.
 
-## Três Meses Antes: Windows de Renovação e Visto
+## Três Meses Antes: Se a Renovação ou um Visto Estiver Próximo, Comece Já
 
 Neste ponto ainda tem tempo para corrigir as coisas. Os tempos de renovação mudam, e cada autoridade publica a sua própria cifra atual: o Departamento de Estado dos EUA, o HM Passport Office e o Australian Passport Office. Sempre verifique o site oficial para os tempos actuais antes de candidatar-se.
 
@@ -73,7 +73,9 @@ Para viajantes de negócios: se detém dois passaportes, confirme qual passaport
 
 ## A Noite Anterior: Confirmação Final
 
-Estas são confirmações, não descobertas. Se algo está em falta agora, tem horas para o resolver, não semanas.
+Estas são confirmações, não descobertas.
+
+Se algo está em falta agora, tem horas para o resolver, não semanas.
 
 ### Noite Anterior
 
@@ -93,9 +95,9 @@ Antes de sair de casa, fotografe cada documento e guarde-o numa aplicação encr
 
 **Travel Document Vault** armazena cópias encriptadas de cada documento nesta lista — organizado por membro da família, com lembretes de expiração automáticos. Digitalize uma vez, nunca se veja em apuros novamente. [Descarregar na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
-## Lista de Verificação por Tipo de Viagem
+## Como a Sua Lista de Documentos Muda Consoante o Tipo de Viagem
 
-Diferentes viagens precisam de diferentes conjuntos de documentos.
+Diferentes viagens precisam de diferentes conjuntos de documentos, como mostra a tabela abaixo para viagens a solo, em família e de negócios.
 
 | Documento | Solo | Família | Negócios | Notas |
 |---|---|---|---|---|
@@ -106,6 +108,8 @@ Diferentes viagens precisam de diferentes conjuntos de documentos.
 | Carta de consentimento de criança | N/A | ✅ se aplicável | N/A | Necessária em muitos países se um progenitor está ausente |
 | Certidões de nascimento | N/A | ✅ se necessário | N/A | Alguns países exigem para crianças menores de 18 |
 | Carta de autorização de trabalho | N/A | N/A | ✅ se necessário | Alguns destinos exigem cartas de empregador para viajantes de negócios |
+
+Se já tem uma viagem reservada, a única coisa que vale a pena fazer hoje é pegar em todos os passaportes envolvidos e confirmar a data de validade face ao requisito do destino, e não apenas face às datas da viagem.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

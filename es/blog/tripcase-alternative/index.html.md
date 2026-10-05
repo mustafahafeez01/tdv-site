@@ -20,7 +20,7 @@ TripCase pasó doce años como el caballo de batalla silencioso de las aplicacio
 
 Quince meses después, los ex usuarios siguen buscando un reemplazo. La respuesta honesta es que ninguna sola aplicación lo reemplaza completamente. Pero la verdadera historia no es sobre qué aplicación elegir, es sobre dónde deben vivir tus documentos.
 
-## El auge y el cierre de TripCase
+## TripCase fue la opción habitual durante años, hasta que Sabre la cerró
 
 TripCase había estado alrededor desde 2013, un compañero de viaje gratuito de Sabre Corporation, la empresa que ejecuta gran parte de los sistemas de reserva de viajes y aerolíneas del mundo. Por esa conexión, los viajes a menudo aparecían en la aplicación automáticamente. Durante más de una década, los viajeros de negocios y las familias confiaban en que extrajera vuelos, hoteles y alquileres de autos en una sola vista cronológica. No era sofisticado, pero funcionaba.
 
@@ -36,9 +36,11 @@ Su núcleo era **el análisis de correo electrónico a itinerario** —reenvía 
 
 Esos vuelos, hoteles y transporte terrestre vivían en **la cronología de viajes** —una pila desplazable por viaje. Simple, pero si alguna vez has manejado una semana de varias ciudades desde una docena de correos de confirmación, entiendes por qué importaba. En hilos de foros en FlyerTalk y en otros lugares, los ex usuarios consistentemente mencionan el **Document Vault** como la pieza más perdida —ese único hogar seguro para tarjetas de embarque, visas, pasaportes y confirmaciones. Finalmente, **el intercambio de viajes** permitía que miembros de la familia o colegas siguieran sin correos reenviados.
 
-## La lección incómoda
+## Una aplicación en la nube guarda tus datos según el reloj de otro
 
-Cuando construyes tu vida de viaje alrededor de una aplicación en la nube gratuita, estás alquilando espacio que el propietario puede recuperar en cualquier momento. TripCase existió lo suficiente como para que las personas la trataran como infraestructura permanente, cargando años de registros y documentos con la suposición de que siempre estaría allí. Luego Sabre hizo las matemáticas, decidió que la aplicación no era central para su negocio, y una década de datos de usuarios se evaporó en un cronograma que Sabre eligió.
+Cuando construyes tu vida de viaje alrededor de una aplicación en la nube gratuita, estás alquilando espacio que el propietario puede recuperar en cualquier momento.
+
+TripCase existió lo suficiente como para que las personas la trataran como infraestructura permanente, cargando años de registros y documentos con la suposición de que siempre estaría allí. Luego Sabre hizo las matemáticas, decidió que la aplicación no era central para su negocio, y una década de datos de usuarios se evaporó en un cronograma que Sabre eligió.
 
 Nada de esto es malicia; es solo cómo funcionan las decisiones comerciales. Las aplicaciones de viaje se cierran regularmente, los niveles gratuitos se trasladan detrás de muros de pago, y los servicios se descontinúan. La persona que no tiene voz en el cronograma eres tú.
 
@@ -70,9 +72,9 @@ El almacenamiento offline-first elimina los tres a la vez. Los documentos viven 
 
 La respuesta sensata al colapso de TripCase no es abandonar completamente las herramientas en la nube; es poner en capas. Mantén las aplicaciones en la nube convenientes para planificación y alertas, porque se ganan su lugar, y mantén los documentos que definen tu identidad de viaje offline donde ninguna decisión de empresa puede tocarlos.
 
-Comienza con una auditoría simple: dónde vive actualmente cada escaneo de tu pasaporte, cada PDF de visa, cada ID de tu hijo, y qué sucede con él si ese servicio desaparece con 60 días de aviso. Nuestra [lista de verificación de documentos de viaje](https://traveldocumentvault.com/es/blog/travel-document-checklist/) es un lugar práctico para comenzar.
-
 TripCase se ha ido, y sus características ahora están dispersas en otras aplicaciones. Pero hay una lección que vale la pena tomar de él: tus documentos de viaje no deberían morir con el servidor de otro.
+
+Comienza hoy con una auditoría simple: dónde vive actualmente cada escaneo de tu pasaporte, cada PDF de visa, cada ID de tu hijo, y qué sucede con él si ese servicio desaparece con 60 días de aviso. Nuestra [lista de verificación de documentos de viaje](https://traveldocumentvault.com/es/blog/travel-document-checklist/) es un lugar práctico para comenzar.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

@@ -17,13 +17,13 @@ Source: https://traveldocumentvault.com/blog/passport-expired-what-to-do/
 - The fix going forward is a 12-month expiry reminder, not a 6-month one. That gives you enough time to renew on standard processing.
 - Expiry is not the only passport problem that gets travellers turned away. Damage, name mismatches, missing signatures, and insufficient remaining validity at your destination all cause the same result.
 
-Discovering your passport is expired is one of those moments where time suddenly becomes very real. Whether you spotted it three months before a trip or you are standing at the airport check-in desk right now, what happens next depends entirely on which situation you are in.
+Discovering your passport is expired is one of those moments where time suddenly becomes very real. Whether you spotted it three months before a trip or you're standing at the airport check-in desk as you read this, what happens next depends entirely on which situation you're in.
 
 ![Hand-drawn branch diagram for an expired passport: at home with a trip coming up, book an urgent renewal (UK same-day and US emergency slots exist); at the airport, call your airline first as some reschedule free in emergencies. The real fix is a reminder at 12 months, not 6 - expired means you do not fly](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure.jpg) Same problem, two very different playbooks - it all depends on where you're standing when you find out.
 
 ## Scenario A: You Discovered It at Home, with a Trip Coming Up
 
-This situation is recoverable - but how recoverable depends on how much time you have before you travel.
+This situation is recoverable, though how recoverable depends on how much time you have before you travel.
 
 How urgently you need to act determines what to do:
 
@@ -32,9 +32,9 @@ How urgently you need to act determines what to do:
 - **Trip getting close:** call your passport authority directly rather than relying on the website alone - the HM Passport Office adviceline in the UK, or the US National Passport Information Center in the US.
 - **Trip is imminent:** ask about an emergency appointment and bring proof of your travel dates. The UK offers a same-day Premium service at designated passport offices, and the US offers appointments at regional passport agencies.
 
-All major passport authorities hold back emergency appointment slots that are not visible online. If your timeline is tight, call rather than relying only on the website.
+All major passport authorities hold back emergency appointment slots that are not visible online. If your timeline is tight, we'd always call rather than trust the website alone.
 
-**Set the reminder now** so this never happens again - Travel Document Vault starts reminding you eight months before every passport in your household expires, then again as the date closes in. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Set the reminder now**, so this never happens again. Travel Document Vault starts reminding you eight months before every passport in your household expires, then again as the date closes in. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Scenario B: You Discovered It at the Airport
 
@@ -42,7 +42,7 @@ This scenario happens more often than people expect, and the steps are not obvio
 
 **Step 1: Stay calm and move away from the queue.** You are not boarding this flight, and the sooner you accept that reality, the sooner you can start working on the solution.
 
-**Step 2: Go to the airline desk immediately.** Do not leave the airport - speak to the airline directly and explain the situation. Some airlines will reschedule without a change fee for genuine document emergencies - not all, but it is worth asking. Get the answer in writing if they agree.
+**Step 2: Go to the airline desk immediately.** Do not leave the airport: speak to the airline directly and explain the situation. Some airlines will reschedule without a change fee for genuine document emergencies, though not all, so it is worth asking anyway. Get the answer in writing if they agree.
 
 **Step 3: Check whether domestic travel is possible.** An expired passport may still be accepted as ID for domestic flights in some countries, though this is not guaranteed. If your final destination is reachable domestically from a closer city, this might be an option while you sort the passport. British travellers should read [what an expired passport means for UK travel](https://traveldocumentvault.com/blog/travel-expired-passport-uk/), since the rules differ by route.
 
@@ -54,7 +54,9 @@ This scenario happens more often than people expect, and the steps are not obvio
 
 ## Other Passport Problems That Get Travellers Turned Away
 
-Expiry is the most common reason a passport fails at the airport, but other problems cause the same result. What makes them easier to overlook is that unlike expiry dates, they don't come with a visible countdown warning.
+Expiry is the most common reason a passport fails at the airport, but other problems cause the same result.
+
+What makes them easier to overlook is that, unlike expiry dates, they don't come with a visible countdown warning.
 
 ### 1. A damaged passport
 
@@ -64,31 +66,31 @@ Children's passports are particularly vulnerable. Pen marks on the photo page, b
 
 ### 2. A name that does not match your ticket
 
-A name mismatch between your passport and boarding pass will get you turned away. It catches people after a legal name change - marriage, divorce, or formal deed change - where the passport hasn't been updated yet. It also catches booking errors: a middle name on the ticket but absent from the passport, or vice versa.
+A name mismatch between your passport and boarding pass will get you turned away. It catches people after a legal name change, such as marriage, divorce, or a formal deed change, where the passport hasn't been updated yet. It also catches booking errors: a middle name on the ticket but absent from the passport, or vice versa.
 
 Even small variations like a missing middle initial or a transposed letter can sometimes be resolved by the airline staff, but you can't count on it. Make sure every name on every ticket matches every name in every passport exactly, including children's names.
 
 ### 3. An unsigned passport
 
-Most passports have a signature panel. Some countries - including the United States - require the passport to be signed before it is considered valid for travel. An unsigned passport can be refused at the border. This is most commonly a problem with passports issued to children who were too young to sign, or with brand-new passports that the holder forgot to sign before travelling. Check the signature panel before you leave home.
+Most passports have a signature panel. Some countries, including the United States, require the passport to be signed before it is considered valid for travel. An unsigned passport can be refused at the border. This is most commonly a problem with passports issued to children who were too young to sign, or with brand-new passports that the holder forgot to sign before travelling. A quick look at the signature panel before you leave home catches this one early.
 
 ### 4. Insufficient validity for your destination
 
-Your passport's expiry date is not the only threshold that matters. Many countries require it to remain valid for a minimum period beyond your arrival date - typically six months, though some require only three months or simply the duration of your stay. Arriving with a technically valid passport that doesn't meet this requirement will get you turned away at the border, just like an expired passport would.
+Your passport's expiry date is not the only threshold that matters. Many countries require it to remain valid for a minimum period beyond your arrival date, typically six months, though some require only three months or simply the duration of your stay. Arriving with a technically valid passport that doesn't meet this requirement will get you turned away at the border, just like an expired passport would.
 
 This rule is not applied consistently across all destinations, which makes it easy to miss. [The six-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) explains which countries enforce it and which do not, with a worked example of how it is calculated.
 
 ### 5. Not checking visa requirements before you travel
 
-Visa and electronic travel authorisation (ETA) requirements change often and vary by nationality, destination, and purpose of travel. Arriving without the correct entry permission - assuming visa-free access when one is actually required - results in denied boarding or being turned back at the border. A route that was visa-free when you last travelled it may no longer be.
+Visa and electronic travel authorisation (ETA) requirements change often and vary by nationality, destination, and purpose of travel. Arriving without the correct entry permission, such as assuming visa-free access when one is actually required, results in denied boarding or being turned back at the border. A route that was visa-free when you last travelled it may no longer be.
 
 Before every trip, check the official entry requirements for your destination using your country's travel advice service: gov.uk/foreign-travel-advice for UK passport holders, travel.state.gov for US passport holders, or smartraveller.gov.au for Australian passport holders. Do not rely on what was true last time.
 
-## How to Make Sure This Never Happens Again
+## Set the Reminder a Year Out, Not Six Months
 
-The root cause is usually the same: no reminder in place. Set an expiry reminder at least **12 months before the expiry date** - not 6 months. This gives you time to renew on standard processing without paying for expedited service, and without the stress of a tight timeline.
+The root cause is usually the same: no reminder in place. Set an expiry reminder at least **12 months before the expiry date**, not 6 months. This gives you time to renew on standard processing without paying for expedited service, and without the stress of a tight timeline.
 
-Do this for every passport in your household separately. Children's passports expire faster - 5 years in most countries versus 10 for adults - and are the ones most often missed.
+Do this for every passport in your household separately. Children's passports expire faster (5 years in most countries versus 10 for adults) and are the ones most often missed. Pull every passport out today and check the expiry date, not just the photo page.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 

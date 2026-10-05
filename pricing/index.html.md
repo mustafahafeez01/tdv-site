@@ -116,7 +116,7 @@ No time limits. No features that mysteriously disappear. No dark patterns pushin
 
 ## What Pro Adds
 
-Pro is for families. Unlimited profiles for your whole family, unlimited documents, trip planner with a visual readiness checklist, encrypted cloud backup to your own iCloud or Google Drive, and a days-abroad tracker for Schengen limits and tax residency tracking.
+Pro is for families. Unlimited profiles for your whole family, unlimited documents, trip planner with a visual readiness checklist, encrypted cloud backup to your own iCloud or Google Drive, and a days-abroad tracker for per-country day limits and tax residency tracking.
 
 One purchase on your account. One family. Works on all your devices.
 

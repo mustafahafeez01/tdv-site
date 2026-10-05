@@ -20,7 +20,7 @@ Die meisten Passschäden sind rein kosmetisch. Ein zerkratzter Einband, eine wei
 
 Es lohnt sich, diese Grenze vor der Reise zu kennen, denn ein Pass kann formal noch gültig sein und trotzdem abgelehnt werden. Dieser Beitrag zeigt, was als Schaden zählt, was Behörden in der Regel akzeptieren, und was zu tun ist, wenn Ihrer bereits in schlechtem Zustand ist.
 
-## Was als Passschaden gilt
+## Kosmetische Abnutzung ist normal, Schäden an Sicherheitsmerkmalen nicht
 
 Hier verfallen die meisten Menschen in unnötige Panik: Eine verbogene Ecke am Einband ist kein Schaden, ebenso wenig eine kleine Knickfalte von der Gesäßtasche. Fluggesellschaften und Grenzbeamte wissen, dass Pässe benutzt werden, leichte kosmetische Abnutzung ist also normal.
 
@@ -30,7 +30,9 @@ Am wichtigsten: Die maschinenlesbare Zone – der schwarz-weiße Streifen am unt
 
 Der Grund, warum das zählt: **Fluggesellschaften haften, wenn sie jemanden mit einem nicht akzeptablen Dokument befördern.** Wer mit einem beschädigten Pass einsteigt und am Zielort die Einreise verweigert bekommt, sorgt dafür, dass die Behörden die Fluggesellschaft dafür belangen können. Die Airline muss dann auch die Kosten für den Rückflug übernehmen.
 
-Kein Gate-Mitarbeiter will diesen Papierkram, also wird lieber vorsichtshalber abgewiesen. Ein Pass, der fragwürdig aussieht, wird zurückgewiesen, ohne Diskussion.
+Kein Gate-Mitarbeiter will diesen Papierkram, also wird lieber vorsichtshalber abgewiesen.
+
+Ein Pass, der fragwürdig aussieht, wird zurückgewiesen, ohne Diskussion.
 
 ## Sie entdecken den Schaden Tage oder Wochen vor der Reise
 
@@ -42,9 +44,9 @@ Ein paar Dinge sollten Sie vorher klären. Eil- und Schnellservices gibt es meis
 
 Ein beschädigter Pass bedeutet in der Regel auch, dass Sie persönlich vorstellig werden müssen statt postalisch zu beantragen. In manchen Ländern ist die Stelle für dringende Fälle eine ganz andere als die für reguläre Anträge, und am falschen Schalter zu erscheinen kostet Sie einen Tag, den Sie sich vermutlich nicht leisten können.
 
-Starten Sie den Prozess in dem Moment, in dem Sie den Schaden entdecken. Flüge zu buchen und zu hoffen, dass die Erneuerung rechtzeitig fertig wird, ist ein Glücksspiel, das ständig schiefgeht, besonders im Sommer, wenn die Passämter überlastet sind.
+Starten Sie den Prozess in dem Moment, in dem Sie den Schaden entdecken. **Wir würden dafür keinen Tag warten.** Flüge zu buchen und zu hoffen, dass die Erneuerung rechtzeitig fertig wird, ist ein Glücksspiel, das ständig schiefgeht, besonders im Sommer, wenn die Passämter überlastet sind.
 
-## Schaden wird am Flughafen entdeckt
+## Am Gate hält Ehrlichkeit Ihnen die Optionen offen
 
 Nun zur schwierigeren Variante: Sie stehen am Check-in oder am Gate und bemerken einen Schaden, den Sie vorher übersehen haben, oder der Mitarbeiter entdeckt ihn in dem Moment, in dem Sie den Pass übergeben.
 
@@ -60,7 +62,7 @@ Sobald die Beförderung verweigert wurde, bleiben Ihnen begrenzte Optionen:
 
 Sagt der Gate-Mitarbeiter Nein, streiten Sie nicht und versuchen Sie nicht trotzdem einzusteigen. Das schafft nur größere Probleme. Die Fluggesellschaft kann Sie von künftigen Flügen ausschließen, die Einwanderungsbehörden können Sie mit einem Bußgeld belegen, und in manchen Ländern drohen sogar strafrechtliche Konsequenzen, wenn Sie versuchen, mit einem bereits für ungültig erklärten Dokument zu reisen.
 
-## Zeitrahmen für den Notfall-Ersatz eines Reisepasses
+## Prüfen Sie den Zeitrahmen an der Quelle, bevor Sie buchen
 
 Die veröffentlichten Bearbeitungszeiten schwanken im Jahresverlauf und steigen im Sommer an, wenn die Passämter am stärksten ausgelastet sind. Verlassen Sie sich nicht auf eine Zahl, die Sie irgendwo gelesen haben, sondern prüfen Sie die aktuelle Angabe an der Quelle, bevor Sie sich auf ein Reisedatum festlegen:
 
@@ -71,7 +73,7 @@ Die veröffentlichten Bearbeitungszeiten schwanken im Jahresverlauf und steigen 
 
 Das Muster bleibt überall gleich. Je näher der Abflug rückt, desto weniger Wege bleiben offen, und die verbleibenden verlangen, dass Sie persönlich mit dem beschädigten Pass und einem Reisenachweis erscheinen. Den Schaden drei Wochen vorher zu entdecken ist unangenehm. Ihn drei Tage vorher zu entdecken ist ein ganz anderes Problem.
 
-## Warum digitale Kopien den Tag retten
+## Ein Scan Ihres Passes beschleunigt den Ersatz
 
 Wenn Sie einen beschädigten Pass dringend ersetzen müssen, bremst vor allem eines: der Nachweis Ihrer Identität. Die Passbehörde muss sicherstellen, dass der Ersatzpass an die rechtmäßige Person geht und nicht an jemanden mit gestohlener Identität.
 
@@ -80,6 +82,8 @@ Ein klares digitales Foto Ihres Passes hilft hier. Bewahren Sie die Datenseite, 
 Das ist besonders wertvoll, wenn Ihr Pass im Ausland beschädigt wird und Sie ein Notreisedokument von Ihrer Botschaft brauchen. Konsularbeamte arbeiten schneller, wenn sie einen Scan Ihres Originalpasses direkt vor sich haben.
 
 Bewahren Sie Ihre digitalen Kopien verschlüsselt und offline auf – nicht in Google Fotos oder in einem mit anderen geteilten iCloud-Ordner. Travel Document Vault ist genau für diesen Fall gebaut: Passfotos, die ausschließlich auf Ihrem Gerät verschlüsselt sind und sofort verfügbar, wenn etwas schiefgeht.
+
+Scannen Sie Ihren Pass heute, bevor Sie ihn brauchen.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 

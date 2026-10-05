@@ -38,7 +38,7 @@ L'espressione arriva dallo spagnolo e dal portoghese. *Fecha de expedición* e *
 
 Significano tutte la stessa cosa, e nessuna di esse significa scadenza. Se un modulo chiede una «expedition date», vuole la più vecchia delle tue due date.
 
-## Il Formato della Data È Pensato Proprio per Evitare Questo
+## Il mese è scritto in lettere per evitare scambi tra formati di data
 
 Guarda con attenzione e noterai che molti passaporti non stampano le date solo in cifre. Il mese è generalmente scritto in lettere invece che in numeri.
 
@@ -48,7 +48,7 @@ L'ambiguità torna nel momento in cui trascrivi la data su un modulo, perché i 
 
 ## Quattro Passaporti, Quattro Orologi Diversi
 
-Tutto questo si moltiplica silenziosamente in una famiglia. I passaporti tendono a essere rilasciati quando servono, non tutti insieme, quindi le date di rilascio in una casa raramente coincidono, e nemmeno le date di scadenza.
+Aggiungi un secondo o un terzo passaporto, come fa la maggior parte delle famiglie, e niente combacia più. I passaporti tendono a essere rilasciati quando servono, non tutti insieme, quindi le date di rilascio in una casa raramente coincidono, e nemmeno le date di scadenza.
 
 I bambini allargano ulteriormente questo divario. La maggior parte dei passaporti per bambini dura la metà di quello di un adulto, quindi un passaporto rilasciato nello stesso mese di quello di un genitore scade circa cinque anni prima. I genitori con anni di validità davanti sono quelli più a rischio di farsi cogliere di sorpresa dal documento di un figlio, perché non c'è motivo di pensarci finché un modulo non lo chiede. Spieghiamo come tenere in ordine i passaporti di tutta la famiglia in [gestire più passaporti insieme](https://traveldocumentvault.com/it/blog/family-passport-management/).
 
@@ -60,13 +60,17 @@ I passaporti britannici rilasciati più di recente non hanno più quei mesi extr
 
 I paesi Schengen applicano due controlli distinti a un passaporto non UE alla frontiera: deve essere stato rilasciato meno di dieci anni prima della data del tuo arrivo, e deve restare valido per almeno tre mesi dopo la data prevista di partenza. Un passaporto con nove mesi extra può superare comodamente il secondo controllo e fallire il primo, il che è una conversazione difficile da avere a uno sportello di Madrid con un documento che non è ancora scaduto.
 
-Controlla entrambe le date prima di un viaggio in Europa, non solo quella in fondo alla pagina.
+Noi controlleremmo entrambe le date prima di un viaggio in Europa, non solo quella in fondo alla pagina.
 
 ## Paese di Rilascio e Autorità di Rilascio Sono Campi Diversi
 
 Vicino alla parte superiore della pagina dati c'è un codice di tre lettere per il paese di rilascio. Più sotto, di solito in un campo a sé, c'è l'autorità di rilascio: l'ufficio o il dipartimento che ha effettivamente prodotto il passaporto.
 
-Il paese conta più di quanto si pensi. Decide a quale rete consolare rivolgerti se il passaporto viene perso o rubato, e raramente è il paese in cui vivi. Decide anche quali regole d'ingresso si applicano a te, ed è per questo che chi ha doppia cittadinanza riflette con attenzione su quale passaporto presentare. Se vuoi il lato pratico della questione, lo trattiamo in [cosa fare quando un passaporto sparisce all'estero](https://traveldocumentvault.com/it/blog/lost-passport-abroad/).
+Il paese conta più di quanto si pensi. Decide a quale rete consolare rivolgerti se il passaporto viene perso o rubato.
+
+Raramente è il paese in cui ti trovi in quel momento.
+
+Decide anche quali regole d'ingresso si applicano a te, ed è per questo che chi ha doppia cittadinanza riflette con attenzione su quale passaporto presentare. Se vuoi il lato pratico della questione, lo trattiamo in [cosa fare quando un passaporto sparisce all'estero](https://traveldocumentvault.com/it/blog/lost-passport-abroad/).
 
 Il campo dell'autorità serve soprattutto per i moduli. Alcune domande lo vogliono riportato esattamente, altre accettano il paese, e copiarlo così com'è è più veloce che indovinare.
 
@@ -78,13 +82,15 @@ I visti già timbrati o stampati sul passaporto precedente restano lì, e anche 
 
 Nulla di tutto questo è drammatico di per sé. Diventa un problema quando una carta d'imbarco e un passaporto non coincidono al banco del check-in, quindi vale la pena dedicare mezz'ora con calma, dopo un rinnovo, ad aggiornare i pochi posti dove compare il numero.
 
-## Dove Si Trova Tutto Questo sulla Pagina
+## La pagina dati è standardizzata, ma la zona a lettura ottica salta una data
 
 La pagina dati è quella rigida e plastificata con la tua fotografia, e la sua struttura è standardizzata a livello internazionale, non inventata da ogni singolo paese. Per questo un passaporto di qualunque provenienza è leggibile da un agente di frontiera ovunque, ed è per questo che, una volta imparato a leggerne uno, sai leggerli tutti.
 
 Le due righe di caratteri e freccette in fondo sono la zona a lettura ottica. Ripete parte delle informazioni della pagina sopra in un formato che uno scanner può acquisire in un solo passaggio, ma non tutte: la data di scadenza c'è, la data di rilascio no. Un danno in quella zona viene preso molto più sul serio di un graffio sulla copertina. Spieghiamo dove si trova quella riga in [viaggiare con un passaporto danneggiato](https://traveldocumentvault.com/it/blog/damaged-passport-travel/).
 
 Se le etichette sulla tua pagina dati non sono in italiano, la disposizione aiuta comunque: le due date sono stampate insieme, nello stesso formato, e la data di scadenza è la più recente delle due.
+
+Dedica cinque minuti, oggi, a trovare entrambe le date sul tuo passaporto, e su quello di ogni figlio se viaggiate in famiglia, così saprai già quale è quale prima che lo chieda un modulo o una frontiera.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 

@@ -36,7 +36,7 @@ Zoek uit of je nationaliteit een visum nodig heeft voor inreis, transit, of beid
 
 Boek je reisverzekering wanneer je je vluchten boekt, niet een week voor vertrek. Een verzekering die je afsluit nadat je al een risico hebt geïdentificeerd, kan precies dat probleem uitsluiten. Zorg dat de polis alle reizigers, alle bestemmingen, en de activiteiten die je van plan bent te doen, dekt.
 
-## Drie maanden van tevoren: verlenging en visumtermijnen
+## Drie maanden van tevoren: zit verlenging of een visum dicht op de reis, begin dan nu
 
 Op dit moment heb je nog tijd om dingen op te lossen. Verwerkingstijden veranderen, en elke instantie publiceert haar eigen actuele cijfer: het Amerikaanse ministerie van Buitenlandse Zaken, HM Passport Office, en de Australische paspoortinstantie. Controleer altijd de officiële website voor actuele tijden voordat je aanvraagt.
 
@@ -73,7 +73,9 @@ Voor zakenreizigers: als je twee paspoorten hebt, bevestig dan aan welk paspoort
 
 ## De avond ervoor: laatste bevestiging
 
-Dit zijn bevestigingen, geen ontdekkingen. Als er nu iets ontbreekt, heb je nog uren om het op te lossen, geen weken.
+Dit zijn bevestigingen, geen ontdekkingen.
+
+Als er nu iets ontbreekt, heb je nog uren om het op te lossen, geen weken.
 
 ### De avond ervoor
 
@@ -93,9 +95,9 @@ Maak voordat je thuis vertrekt een foto van elk document en bewaar die in een ve
 
 **Travel Document Vault** bewaart versleutelde kopieën van elk document op deze lijst, georganiseerd per gezinslid, met automatische vervalherinneringen. Eén keer scannen, nooit meer op het laatste moment zoeken. [Download in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
-## Checklist per reistype
+## Hoe je documentenlijst verandert per reistype
 
-Verschillende reizen vragen om verschillende sets documenten.
+Verschillende reizen vragen om verschillende sets documenten, zoals de tabel hieronder laat zien voor solo-, gezins- en zakenreizen.
 
 | Document | Solo | Gezin | Zakelijk | Opmerkingen |
 |---|---|---|---|---|
@@ -106,6 +108,8 @@ Verschillende reizen vragen om verschillende sets documenten.
 | Toestemmingsverklaring kind | N.v.t. | ✅ indien van toepassing | N.v.t. | Vereist in veel landen als een ouder ontbreekt |
 | Geboorteakten | N.v.t. | ✅ indien vereist | N.v.t. | Sommige landen eisen dit voor kinderen onder 18 jaar |
 | Werkvergunningsbrief | N.v.t. | N.v.t. | ✅ indien vereist | Sommige bestemmingen eisen werkgeversbrieven voor zakenreizigers |
+
+Staat een reis al geboekt, dan is het enige dat je vandaag echt moet doen: pak elk betrokken paspoort erbij en controleer de vervaldatum tegen de eis van de bestemming, niet alleen tegen je reisdata.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

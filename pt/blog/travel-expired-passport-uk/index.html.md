@@ -34,7 +34,9 @@ A única exceção é um documento de viagem de emergência britânico, emitido 
 
 ## Pode Reservar Férias com um Passaporte Expirado?
 
-Reservar não é o mesmo que embarcar. Nada o impede de pagar voos e um hotel enquanto o seu passaporte está expirado, porque ninguém verifica o documento no momento da compra. A verificação acontece no aeroporto, e nessa altura o passaporte tem de ser válido.
+Reservar não é o mesmo que embarcar.
+
+Nada o impede de pagar voos e um hotel enquanto o seu passaporte está expirado, porque ninguém verifica o documento no momento da compra. A verificação acontece no aeroporto, e nessa altura o passaporte tem de ser válido.
 
 Por isso, a pergunta que vale a pena fazer não é se pode reservar, mas se a renovação chegará antes de viajar. Os escritórios de passaportes publicam os seus tempos de processamento atuais, que variam consoante a procura, portanto verifique o valor no próprio dia em vez de confiar no do ano passado.
 
@@ -42,7 +44,7 @@ Se os prazos parecerem apertados, a ordem mais segura é renovar primeiro e rese
 
 Uma renovação já em curso é uma questão diferente, e depende de ter entregue ou não o passaporte antigo. Respondemos a essa questão num artigo próprio: [se pode viajar com o passaporte antigo enquanto a renovação está a decorrer](https://traveldocumentvault.com/pt/blog/travel-while-passport-renewal-pending/).
 
-## Renovar um Passaporte do Reino Unido Já Expirado
+## Um Passaporte Expirado Renova-se, Não Se Recomeça do Zero
 
 Um passaporte fora do prazo é renovado, não recomeçado do zero. O GOV.UK indica um passaporte expirado como um dos dois motivos que obrigam a renovar antes de viajar, a par de não ter tempo de validade suficiente, por isso, para a maioria das pessoas, o caminho é o serviço de renovação normal para adultos.
 
@@ -60,13 +62,13 @@ As viagens domésticas dentro do Reino Unido e Irlanda diferem das viagens inter
 
 Se está a considerar viagem doméstica com um passaporte expirado, contacte a sua companhia aérea com antecedência suficiente antes do seu voo e pergunte explicitamente: "O meu passaporte do Reino Unido está expirado. Aceitará a minha carteira de condutor do Reino Unido em vez disso?" Obtenha confirmação por escrito se conseguir, pois chegar ao check-in com um documento de identidade alternativo e sem confirmação prévia é como as pessoas perdem voos.
 
-## Renovação de Emergência: A Via do Serviço Premium
+## Renovação de Emergência: Serviço Premium, Se Conseguir uma Marcação
 
 Se a sua viagem é iminente e o seu passaporte está expirado, o Escritório de Passaportes de Sua Majestade oferece um serviço Premium concebido exatamente para este cenário, com marcação no mesmo dia ou no dia de trabalho seguinte, dependendo da disponibilidade. O HM Passport Office publica a taxa atual em gov.uk, que cobre a marcação e a renovação em conjunto, em vez de se somar à taxa padrão. Obtém o seu passaporte muito mais rápido do que pela via padrão, embora a rapidez exata dependa da marcação disponível. Note que o serviço Online Premium é apenas para renovações, não para primeiros passaportes de adulto.
 
 Esta é a via de emergência oficial para constrangimentos de viagem genuína. O HM Passport Office publica o seu tempo de processamento padrão atual em gov.uk, e vale a pena consultá-lo antes de assumir que tem tempo para esperar. Quando uma viagem genuinamente não pode esperar, a opção Premium remove a incerteza.
 
-O problema é que deve ter uma localização de marcação disponível, que se preenchem rapidamente durante férias de verão e pausas escolares. Se descobre que o seu passaporte está expirado numa sexta-feira antes de uma viagem de segunda-feira pode encontrar-se sem localização Premium disponível, pois a marcação ocorre online em gov.uk com disponibilidade em direto. Quando a sua data preferida não mostra localização genuinamente não tem outra opção nesse dia.
+As marcações disponíveis são a verdadeira limitação: preenchem-se rapidamente durante férias de verão e pausas escolares, e a marcação ocorre online em gov.uk com disponibilidade em direto. Se descobre que o seu passaporte está expirado numa sexta-feira antes de uma viagem de segunda-feira, pode não encontrar qualquer localização Premium, e quando a sua data preferida não mostra nenhuma, genuinamente não tem outra opção nesse dia.
 
 Precisará também do seu passaporte antigo para candidatar-se independentemente da sua data de expiração, e se estiver perdido ou roubado precisará cancelá-lo com o Escritório de Passaportes de Sua Majestade (pode fazer isto em gov.uk) antes de renovar; um relatório da polícia é geralmente necessário apenas para fins de seguro. Planeie em conformidade se o seu passaporte está danificado além de expirado.
 
@@ -76,9 +78,9 @@ As companhias aéreas usam Timatic, um sistema IATA que referencia cruzadamente 
 
 O controlo de fronteiras faz a mesma verificação quando chega — por vezes até verificando duas vezes, uma vez quando sai do Reino Unido e novamente quando entra no seu destino. Um passaporte expirado será apanhado não importa o quanto tenha cuidado.
 
-A única área cinzenta que existe é como as companhias aéreas e o controlo de fronteiras lidam com passaportes que estão "a expirar em breve" mas não ainda expirados, onde alguns agentes são rigorosos sobre a regra de 6 meses para certos destinos e outros não. Mas uma vez que o seu passaporte tenha ultrapassado a data de expiração não há área cinzenta em tudo.
+Onde isto se torna realmente difuso é nos passaportes que estão "a expirar em breve" mas ainda não expirados: alguns agentes são rigorosos sobre a regra de 6 meses para certos destinos e outros não. Mas uma vez que o seu passaporte tenha ultrapassado a data de expiração não há área cinzenta em tudo.
 
-## Seguro de Viagem e Documentos Expirados
+## A Maioria dos Seguros de Viagem Não Cobre um Passaporte Expirado
 
 A maioria das apólices de seguro de viagem incluem uma cláusula de invalidação para documentos de viagem expirados ou inválidos. As seguradoras podem rejeitar a sua reclamação inteira se viajou com um passaporte expirado — a linguagem tipicamente lê algo como: "Esta apólice é nula se o segurado viajou com um documento de viagem inválido ou expirado."
 
@@ -96,13 +98,15 @@ O processo é lento e burocrático. Precisará fornecer prova de identidade e pa
 
 Coloque lembretes meses em avanço em vez do dia antes de viajar, pois lembretes a partir de oito meses antes, e novamente à medida que a data se aproxima, dão-lhe tempo para renovar no processamento padrão em vez de pagar por marcações de emergência. Se o seu passaporte expira dentro de 6 meses da sua viagem, comece o processo de renovação agora antes de se comprometer com datas de viagem.
 
-## Mal-Entendidos Comuns Sobre Validade de Passaporte
+## A Expiração do Seu Passaporte Não É o Mesmo Que a Regra de Validade Extra do Destino
 
 Os viajantes frequentemente confundem a data de validade do seu próprio passaporte com regras específicas do destino. O seu passaporte é válido até à data impressa nele — essa é a linha de base. Mas alguns países exigem que permaneça válido por um período específico além da sua data de chegada, e isso é um requisito separado da expiração em si.
 
 [Muitos países aplicam uma regra de seis meses exigindo que o seu passaporte permaneça válido por pelo menos seis meses além da sua data de partida planeada](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/), enquanto alguns aplicam três meses e outros aplicam um mês. Nenhuma destas regras permite viagem com um passaporte expirado porque estabelecem um padrão mais rigoroso onde a renovação deve acontecer ainda mais cedo do que a própria data de expiração do passaporte.
 
 Não assuma que pode viajar "porque volta antes de expirar" — o seu passaporte deve ser válido no dia em que embarca no seu voo de partida e se expira o dia depois de voltar ainda assim não pode viajar. As companhias aéreas não permitem viagem se o seu passaporte está expirado no dia da partida.
+
+A forma mais simples de evitar tudo isto: tire hoje o passaporte da gaveta e confira a data com a sua próxima viagem, e não o contrário. Se estiver em cima da hora, comece já a renovação em vez de esperar.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

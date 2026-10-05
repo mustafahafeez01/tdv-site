@@ -20,7 +20,7 @@ Den eksporterede fil er krypteret med samme sikkerhed som dit vault på enheden.
 
 ### Åbn Indstillinger, og gå til Eksporter
 
-Åbn Travel Document Vault, og tryk på ikonet for Indstillinger (tandhjulssymbolet) nederst på skærmen. Rul ned, indtil du ser afsnittet Sikkerhedskopi og data. Tryk på Eksporter vault.
+Åbn Travel Document Vault, og tryk på ikonet for Indstillinger (tandhjulssymbolet) nederst på skærmen. Rul ned, indtil du ser afsnittet Sikkerhedskopi og data. Tryk på Eksportér hvælving.
 
 2
 
@@ -48,9 +48,9 @@ Hvis du importerer på en anden enhed, skal du gøre den eksporterede fil tilgæ
 
 6
 
-### Åbn Indstillinger på måleenheden, og tryk på Importer vault
+### Åbn Indstillinger på måleenheden, og tryk på Importér sikkerhedskopi
 
-Åbn Travel Document Vault på den enhed, du vil importere til. Gå til Indstillinger, rul til Sikkerhedskopi og data, og tryk på Importer vault. Appen beder dig om at vælge den eksporterede sikkerhedskopifil (.tdvault).
+Åbn Travel Document Vault på den enhed, du vil importere til. Gå til Indstillinger, rul til Sikkerhedskopi og data, og tryk på Importér sikkerhedskopi. Appen beder dig om at vælge den eksporterede sikkerhedskopifil (.tdvault).
 
 7
 
@@ -62,11 +62,11 @@ Naviger til, hvor du gemte den eksporterede vault-fil, vælg den, og bekræft. A
 
 ### Bekræft, at alle data er til stede
 
-Efter import kan du tjekke fanen Profiler for at bekræfte, at alle profiler vises. Åbn nogle få dokumenter for at bekræfte, at vedhæftninger er intakte. Importprocessen er ikke-destruktiv og lægges sammen med eksisterende data.
+Efter import kan du tjekke fanen Profiler for at bekræfte, at alle profiler vises. Åbn nogle få dokumenter for at bekræfte, at vedhæftninger er intakte. Importprocessen erstatter alle eksisterende data på denne enhed.
 
 ### Vigtige bemærkninger
 
-- **Ikke-destruktiv:** Import lægges til eksisterende data. Hvis du allerede har profiler på måleenheden, tilføjes de importerede profiler uden at slette de eksisterende.
+- **Erstatter eksisterende data:** Import rydder først det, der ligger på måleenheden. Hvis du allerede har profiler på måleenheden, skal du eksportere dem, før du importerer.
 - **Nøjagtighed ved overførsel:** Alt bevares præcist: dokumentnavne, datoer, udløbspåmindelser, brugerdefinerede farver, vedhæftninger og noter.
 - **Krypteret hele vejen:** Den eksporterede fil krypteres med den adgangskode, du vælger, når du eksporterer den, ved hjælp af AES-256-GCM med PBKDF2-nøgleafledning. Kun denne adgangskode kan dekryptere filen, så opbevar den et sikkert sted – uden den kan filen ikke gendannes.
 - **God praksis for sikkerhedskopiering:** Opbevar din eksporterede fil et sikkert sted. Slet den efter en vellykket import, hvis du foretrækker det, eller behold den som en offline sikkerhedskopi.

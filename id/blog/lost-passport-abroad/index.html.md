@@ -24,7 +24,9 @@ Jika Anda membaca ini sebelum berangkat, luangkan lima menit untuk ini. Ambil fo
 
 Saat Anda tiba di kedutaan, mereka akan menanyakan nomor paspor, tanggal penerbitan, tempat penerbitan, dan tanggal kedaluwarsa. Tanpa salinan, Anda harus mengingatnya dalam kondisi stres. Dengan salinan, Anda bisa memberikannya dalam hitungan detik. **Staf konsuler menerbitkan dokumen pengganti lebih cepat ketika Anda datang dengan detail yang sudah tercatat.**
 
-Salinan di ponsel Anda adalah sebuah catatan, bukan identitas resmi, dan keduanya sering tertukar. Ada baiknya mengetahui sejak awal [di mana salinan digital paspor diterima dan di mana Anda tetap memerlukan dokumen aslinya](https://traveldocumentvault.com/id/blog/digital-passport-copy-valid/).
+Salinan di ponsel Anda adalah sebuah catatan, bukan identitas resmi.
+
+Ada baiknya mengetahui sejak awal [di mana salinan digital paspor diterima dan di mana Anda tetap memerlukan dokumen aslinya](https://traveldocumentvault.com/id/blog/digital-passport-copy-valid/).
 
 ## Langkah 1: Pastikan Paspor Benar-Benar Hilang
 
@@ -32,7 +34,7 @@ Periksa semua tempat sebelum menyimpulkan yang terburuk — kantong jaket, setia
 
 ## Langkah 2: Buat Laporan Polisi Segera
 
-Pergi ke kantor polisi terdekat dan laporkan paspor sebagai hilang atau dicuri. Anda membutuhkan laporan ini baik untuk permohonan di kedutaan maupun klaim asuransi.
+Pergi ke kantor polisi terdekat dan laporkan paspor sebagai hilang atau dicuri. Anda membutuhkan laporan ini baik untuk permohonan di kedutaan maupun klaim asuransi. Kami akan membuatnya dalam satu jam jika memungkinkan, selagi detailnya masih segar dalam ingatan Anda.
 
 Minta salinan tertulis dengan nomor kasus, dan minta terjemahan bahasa Inggris jika tersedia. Foto laporan tersebut dan simpan beberapa salinan di tempat yang aman.
 
@@ -60,7 +62,7 @@ Yang biasanya Anda perlukan (konfirmasikan dengan kedutaan Anda sebelum datang):
 - Bukti perjalanan lanjutan - pemesanan penerbangan, konfirmasi hotel
 - Biaya dokumen darurat - siapkan uang tunai dan kartu
 
-**Travel Document Vault** menyimpan salinan terenkripsi paspor Anda di ponsel - dapat diakses tanpa internet, tanpa login. Ini persis yang akan ditanyakan kedutaan Anda. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** menyimpan salinan terenkripsi paspor Anda di ponsel - dapat diakses tanpa internet, tanpa login. Ini memuat setiap detail paspor yang ada dalam daftar di atas. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Langkah 5: Beri Tahu Perusahaan Asuransi Perjalanan Anda
 
@@ -78,7 +80,7 @@ Jika Anda kehilangan paspor di Thailand yang berisi visa multi-entry yang masih 
 
 ## Langkah 7: Pulang ke Rumah dan Ganti Paspor Anda
 
-Setelah Anda mendapatkan dokumen perjalanan darurat, konfirmasikan persyaratan keluar dengan imigrasi setempat jika diperlukan, lalu pesan ulang atau konfirmasikan perjalanan pulang Anda. Setelah Anda kembali: ajukan penggantian paspor penuh melalui otoritas paspor resmi Anda dan siapkan cadangan digital terenkripsi untuk semua dokumen perjalanan Anda sebelum perjalanan berikutnya.
+Setelah Anda mendapatkan dokumen perjalanan darurat, konfirmasikan persyaratan keluar dengan imigrasi setempat jika diperlukan, lalu pesan ulang atau konfirmasikan perjalanan pulang Anda. Setelah Anda kembali, ajukan penggantian paspor penuh melalui otoritas paspor resmi Anda, lalu pindai paspor itu bersama dokumen perjalanan Anda yang lain ke dalam cadangan terenkripsi pada hari yang sama paspor itu tiba.
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 

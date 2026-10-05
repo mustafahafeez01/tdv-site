@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/blog/best-passport-organizer-app/
 
 ## Key Takeaways
 
-- The best passport organizer app stores data **on-device** - not on a server - so your passport scans stay with you, not with a company.
+- The best passport organizer app stores data **on-device**, not on a server, so your passport scans stay with you, not with a company.
 - Expiry reminders for multiple travellers are the most valuable feature for families; look for per-person customisation.
 - Apps requiring an account or cloud upload introduce unnecessary risk for sensitive identity documents.
 - Offline access matters most when you need the app: at borders, in transit, or after losing your SIM.
@@ -24,40 +24,42 @@ This guide explains what to look for, what to avoid, and what features actually 
 
 At its core, a passport organizer app stores scanned copies of your travel documents, tracks expiry dates, and sends renewal reminders. The better ones extend this to cover visas, ID cards, travel insurance, vaccination records, and any other document you travel with.
 
-The key distinction - one that most reviews gloss over - is **where the data lives**. You'll encounter two main architectural approaches:
+The key distinction, and the one most reviews gloss over, is **where the data lives**. You'll encounter two main architectural approaches:
 
 - **On-device storage:** Your passport scans and details are stored encrypted on your phone. The app company cannot access them. There is no account to breach. If you lose your phone, a new installation doesn't automatically restore your data (though you can back up via iCloud or locally).
 - **Cloud storage:** Your scans upload to a server. You can access from multiple devices and restore easily. But you are trusting a company's server security and their breach response plan with your passport data.
 
-Neither approach is universally "wrong," but for identity documents as sensitive as passports, the on-device model is meaningfully safer. A breach of an on-device app leaks nothing from their servers - there is nothing there to leak.
+Neither approach is universally "wrong," but for identity documents as sensitive as passports, the on-device model is meaningfully safer.
+
+A breach of an on-device app leaks nothing from their servers - there is nothing there to leak.
 
 ![Hand-drawn comparison of the two storage models for a passport organizer app: on-device means your data stays with you, cloud upload means trusting the server - and on-device works offline too](https://traveldocumentvault.com/blog/best-passport-organizer-app/app-storage-compare.jpg) The one architectural choice that decides everything else about a passport app.
 
-## The Features That Actually Matter
+## These Features Decide Whether the App Earns Its Keep
 
-### Expiry reminders with customisable lead time
+### Reminder lead time is the setting worth customising
 
-This is the single most valuable feature. A reminder at 6 months is the minimum - many countries require passport validity for at least 6 months beyond your travel dates, as explained in our article on the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). For families with children, whose passports expire after 5 years rather than 10, an earlier reminder - say 9 months out - gives more comfortable planning time.
+A reminder at 6 months is the minimum, since many countries require passport validity for at least 6 months beyond your travel dates, as explained in our article on the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). For families with children, whose passports expire after 5 years rather than 10, an earlier reminder (say 9 months out) gives more comfortable planning time.
 
-### Storing multiple family members' passports safely in one app
+### A single app can hold the whole family, safely
 
 A family of four does not want four separate apps. The best passport organizer apps treat each person as a separate profile, with their own documents, expiry dates, and reminders. This sounds obvious but a surprising number of apps are built around a single person's documents.
 
-That's only true if the app keeps everything on the device and behind a lock. Each traveller needs a profile of their own rather than one shared pile of scans, and nothing should be sitting in a cloud folder that anyone else could open. A device lock in front of the whole vault, whether that's Face ID, Touch ID or a PIN, means one phone can hold the whole family's documents without any of them leaving it.
+That's only true if the app keeps everything on the device and behind a lock, so each traveller needs a profile of their own rather than one shared pile of scans, and nothing should be sitting in a cloud folder that anyone else could open. A device lock in front of the whole vault, whether that's Face ID, Touch ID or a PIN, means one phone can hold the whole family's documents without any of them leaving it.
 
 If what you actually need is a system for the household rather than a shortlist of apps, we cover [how to store multiple family members' passports safely](https://traveldocumentvault.com/blog/family-passport-management/) in more detail there.
 
-### Offline access
+### Offline access is not optional
 
 You need your passport details at exactly the moments when internet access is unreliable: international borders, transit zones, rural areas, or after losing your SIM abroad. If the app requires a network connection to display your documents, it fails at the most critical moment.
 
-### Document type coverage
+### A good app should cover more than just passports
 
-Passports are the obvious starting point, but a good organizer also handles visas (which expire independently of your passport), national ID cards, travel insurance, vaccination records, driving licences, and - for families - child travel consent letters. The more document types supported, the fewer apps you need.
+Passports are the obvious starting point, but a good organizer also handles visas (which expire independently of your passport), national ID cards, travel insurance, vaccination records, driving licences, and, for families, child travel consent letters, so the more types it supports, the fewer apps you need.
 
-### Privacy model
+### A vague privacy policy is a dealbreaker
 
-Before downloading, ask whether the app requires an account, uploads scans to a server, or has a clear privacy policy disclosing what data it collects. Apps that are free and rely on advertising are generally not appropriate for storing identity documents - the data is the product.
+Before downloading, ask whether the app requires an account, uploads scans to a server, or has a clear privacy policy disclosing what data it collects. Apps that are free and rely on advertising are generally not appropriate for storing identity documents: the data is the product.
 
 ## What to Avoid
 
@@ -72,11 +74,11 @@ Before downloading, ask whether the app requires an account, uploads scans to a 
 
 What this means in practice
 
-You're at a border crossing, phone offline, and the immigration officer asks to see your visa details. An app that requires internet connection fails completely - you cannot access your documents. An on-device, no-account app works perfectly. This is exactly when you need the app to function.
+You're at a border crossing, phone offline, and the immigration officer asks to see your visa details. An app that requires internet connection fails completely, so you cannot access your documents. An on-device, no-account app works perfectly. This is exactly when you need the app to function.
 
-## One-Time Purchase vs. Subscription
+## Check What Happens to Your Documents If a Subscription Lapses
 
-There is a practical argument for one-time purchase apps over subscriptions when it comes to document storage. If you forget to renew a subscription - or simply decide to cancel - you lose access to your stored documents. That's a risky arrangement for something you may need years from now.
+There is a practical argument for one-time purchase apps over subscriptions when it comes to document storage. If you forget to renew a subscription (or simply decide to cancel), you lose access to your stored documents. That's a risky arrangement for something you may need years from now.
 
 A one-time purchase app, by contrast, remains fully functional indefinitely. You pay once and the app continues to work regardless of whether the developer is still actively monetising it.
 
@@ -98,7 +100,9 @@ When evaluating any passport organizer app, ask yourself these nine questions:
 - Is the pricing model one-time or subscription?
 - Is the data encrypted at rest on the device?
 
-If nine of these answers are "yes", you've got a genuinely trustworthy app - for each "no", weigh whether that trade-off matters to you. For more on document organisation, see our [blog](https://traveldocumentvault.com/) for tips on what to store and when.
+If nine of these answers are "yes", you've got a genuinely trustworthy app. For each "no", weigh whether that trade-off matters to you. For more on document organisation, see our [blog](https://traveldocumentvault.com/) for tips on what to store and when.
+
+Pull up the app you're actually considering and run it against this list before you scan in a single passport page.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 

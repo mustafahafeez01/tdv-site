@@ -16,23 +16,25 @@ Source: https://traveldocumentvault.com/da/blog/digital-passport-copy-valid/
 - Visumansøgninger kræver **specifikke formater** (bekræftede kopier eller notarielt bekræftede scanninger) frem for almindelige mobilfotos. Tjek ambassadens hjemmeside først.
 - Mister du dit pas i udlandet, **fremskynder en digital kopi den akutte udskiftning** hos din ambassade betydeligt.
 
-Når man planlægger en rejse, spekulerer mange rejsende på, om de kan gemme en digital kopi af deres pas på telefonen i stedet for at bære originalen. Det korte svar: en digital kopi er reelt nyttig, men kun i bestemte situationer. Du skal vide præcis, hvor den virker, og hvor den ikke gør, så du ikke ender med at stå uden ved indtjekningen.
+Når man planlægger en rejse, spekulerer mange rejsende på, om de kan gemme en digital kopi af deres pas på telefonen i stedet for at bære originalen. Du skal vide præcis, hvor den virker, og hvor den ikke gør, så du ikke ender med at stå uden ved indtjekningen.
+
+Det korte svar: en digital kopi er reelt nyttig, men kun i bestemte situationer.
 
 ## Hvor digitale paskopier accepteres
 
-### Indtjekning på hotel
+### Mange hoteller accepterer en kopi, men dele af Europa vil som regel se originalen
 
 De fleste hoteller verden over accepterer digitale paskopier ved indtjekning – en PDF på telefonen, sendt på forhånd via e-mail eller printet ud. Det er særligt nyttigt, hvis du tjekker ind sent eller flytter mellem forskellige overnatningssteder og ikke ønsker at bære dit fysiske pas hele rejsen. Nogle mindre hoteller, især i regioner med mindre digital infrastruktur, foretrækker stadig originalen. I dele af Europa – blandt andet Spanien, Frankrig og Italien – skal hoteller registrere dine oplysninger for myndighederne og vil generelt gerne se det fysiske pas for at gøre det, selvom databeskyttelsesvejledning siger, at de normalt ikke bør beholde en kopi. Kontakt din overnatning på forhånd for at bekræfte.
 
-### Flybookinger og online indtjekning
+### En digital kopi fremskynder indtjekningen, ikke boardingen
 
 Flyselskaber kræver dine pasoplysninger ved booking, og mange lader dig uploade en digital kopi for at verificere din identitet til online indtjekning – det fremskynder processen i lufthavnen. Du skal stadig fremvise det originale pas ved gaten. Den digitale kopis rolle er verifikation før rejsen, ikke boardingdokumentation.
 
-### Biludlejningsselskaber
+### En kopi bestiller bilen, men originalen skal stadig til, når du henter den
 
 Biludlejningsselskaber accepterer typisk digitale paskopier til booking og depositumverifikation. Når du henter bilen, fremviser du det originale pas sammen med dit kørekort. Den digitale kopi er nyttig i reservationsfasen.
 
-### Akut konsulær bistand
+### Hvis dit pas bliver væk, gør kopien tingene hurtigere
 
 Bliver dit pas væk eller stjålet under rejsen, kan en digital kopi markant fremskynde processen for et nødpas hos din ambassade. Den beviser passets eksistens og dokumenterer dine personoplysninger, foto og pasnummer – alt det, ambassaden skal bruge for at udstede et erstatningsdokument. Det er en af de stærkeste grunde til altid at have en digital backup med.
 
@@ -69,9 +71,13 @@ Paskopier indeholder følsomme identitetsoplysninger, herunder dit fulde navn, f
 - **Del aldrig unødvendigt**. Giv kun din paskopi til legitime virksomheder, som du aktivt handler med.
 - **Hold kopier adskilt fra dit fysiske pas**. Bliver din taske stjålet, vil du gerne have backuppen et andet sted.
 
+Hvis du kun ændrer én vane, så byt den mailede PDF eller billedet i kamerarullen ud med en krypteret app, for netop den uformelle kopi er den, der oftest ender de forkerte steder, hvis din telefon eller indbakke bliver kompromitteret.
+
 **Travel Document Vault** gemmer krypterede kopier af alle dine rejsedokumenter på selve enheden. AES-256-krypteret på din telefon, ingen konto krævet. Valgfri krypteret backup til din egen iCloud eller Google Drive (Pro-funktion), forseglet med en gendannelseskode, kun du har. [Fås i App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 Er du i tvivl om, hvorvidt cloud-lagring er sikkert til paskopier, så se vores guide til [opbevaring af pas i Google Fotos](https://traveldocumentvault.com/da/blog/is-it-safe-to-store-passport-in-google-photos/). Den forklarer, hvorfor en dedikeret krypteret app giver stærkere beskyttelse. For en sammenligning af iCloud, Google Fotos og krypterede apps side om side, læs [den sikreste måde at opbevare et pas digitalt på](https://traveldocumentvault.com/da/blog/safest-way-to-store-passport-digitally/).
+
+Har du ikke lavet en endnu, så scan dit pas' fotoside i dag, før du står ved en indtjekningsskranke eller en ambassadedisk og har brug for den.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 

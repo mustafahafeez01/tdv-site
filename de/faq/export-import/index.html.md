@@ -20,7 +20,7 @@ Die exportierte Datei wird mit derselben Sicherheit wie Ihr lokaler Tresor versc
 
 ### Öffnen Sie Einstellungen und navigieren Sie zu Exportieren
 
-Starten Sie Travel Document Vault und tippen Sie unten auf dem Bildschirm auf das Symbol „Einstellungen" (Zahnradsymbol). Scrollen Sie, bis Sie den Abschnitt „Backup und Daten" sehen. Tippen Sie auf „Tresor exportieren".
+Starten Sie Travel Document Vault und tippen Sie unten auf dem Bildschirm auf das Symbol „Einstellungen" (Zahnradsymbol). Scrollen Sie, bis Sie den Abschnitt „Sicherung & Daten" sehen. Tippen Sie auf „Tresor exportieren".
 
 2
 
@@ -48,9 +48,9 @@ Wenn Sie auf einem anderen Gerät importieren, machen Sie die exportierte Datei 
 
 6
 
-### Öffnen Sie auf dem Zielgerät die Einstellungen und tippen Sie auf „Tresor importieren"
+### Öffnen Sie auf dem Zielgerät die Einstellungen und tippen Sie auf „Sicherung importieren"
 
-Starten Sie Travel Document Vault auf dem Gerät, auf dem Sie importieren möchten. Gehen Sie zu den Einstellungen, scrollen Sie zu „Backup und Daten" und tippen Sie auf „Tresor importieren". Die App fordert Sie auf, die exportierte Sicherungsdatei (.tdvault) auszuwählen.
+Starten Sie Travel Document Vault auf dem Gerät, auf dem Sie importieren möchten. Gehen Sie zu den Einstellungen, scrollen Sie zu „Sicherung & Daten" und tippen Sie auf „Sicherung importieren". Die App fordert Sie auf, die exportierte Sicherungsdatei (.tdvault) auszuwählen.
 
 7
 
@@ -62,11 +62,11 @@ Navigieren Sie zu dem Ort, an dem Sie die exportierte Tresordatei gespeichert ha
 
 ### Überprüfen Sie, ob alle Daten vorhanden sind
 
-Überprüfen Sie nach dem Import die Registerkarte „Profile", um zu bestätigen, dass alle Profile angezeigt werden. Öffnen Sie ein paar Dokumente, um zu überprüfen, dass die Anhänge intakt sind. Der Importprozess ist nicht destruktiv und wird mit vorhandenen Daten zusammengeführt.
+Überprüfen Sie nach dem Import die Registerkarte „Profile", um zu bestätigen, dass alle Profile angezeigt werden. Öffnen Sie ein paar Dokumente, um zu überprüfen, dass die Anhänge intakt sind. Der Importprozess ersetzt alle vorhandenen Daten auf diesem Gerät.
 
 ### Wichtige Hinweise
 
-- **Nicht destruktiv:** Importieren fügt zu vorhandenen Daten hinzu. Wenn auf dem Zielgerät bereits Profile vorhanden sind, werden importierte Profile hinzugefügt, ohne vorhandene zu löschen.
+- **Ersetzt vorhandene Daten:** Beim Import wird zuerst geleert, was sich auf dem Zielgerät befindet. Wenn auf dem Zielgerät bereits Profile vorhanden sind, exportieren Sie diese, bevor Sie importieren.
 - **Wiederholungstreue:** Alles wird genau bewahrt: Dokumentnamen, Daten, Verfallswarnungen, benutzerdefinierte Farben, Anhänge und Notizen.
 - **Durchgehend verschlüsselt:** Die exportierte Datei wird mit dem Passwort verschlüsselt, das Sie beim Exportieren wählen, unter Verwendung von AES-256-GCM mit PBKDF2-Schlüsselableitung. Nur dieses Passwort kann sie entschlüsseln, bewahren Sie es also an einem sicheren Ort auf – ohne dieses Passwort kann die Datei nicht wiederhergestellt werden.
 - **Best Practice für Sicherung:** Bewahren Sie Ihre exportierte Datei an einem sicheren Ort auf. Löschen Sie sie nach einem erfolgreichen Import, wenn Sie möchten, oder bewahren Sie sie als offline-Sicherung auf.

@@ -38,7 +38,9 @@ Her kommer den del, de fleste artikler springer over, og den fortjener at blive 
 
 Konsekvensen er uundgåelig. **Mister du gendannelseskoden, kan backuppen aldrig åbnes igen.** Hverken af dig, af Apple eller Google, eller af os. Der findes intet nulstillingslink, fordi der ikke er nogen konto at knytte det til. Der findes ingen supportsag, der kan gendanne den, fordi vi aldrig har haft den og ikke engang kan gætte den.
 
-Det lyder hårdt, når det skrives ned, og det er værd at være ærlig om det frem for at gemme det væk i en indstillingsskærm. Det er den samme afvejning, du laver med en husnøgle: låsen er kun noget værd, fordi ingen låsesmed på jorden opbevarer en ekstra, og det er præcis derfor, det er dit eget problem, hvis du mister din. En virksomhed, der kan gendanne dine dokumenter, efter du har glemt alt, er en virksomhed, der kunne læse dem hele tiden.
+Det lyder hårdt, når det skrives ned, og det er værd at være ærlig om det frem for at gemme det væk i en indstillingsskærm. Det er den samme afvejning, du laver med en husnøgle: låsen er kun noget værd, fordi ingen låsesmed på jorden opbevarer en ekstra, og det er præcis derfor, det er dit eget problem, hvis du mister din.
+
+En virksomhed, der kan gendanne dine dokumenter, efter du har glemt alt, er en virksomhed, der kunne læse dem hele tiden.
 
 Behandl derfor koden som det ene, du skal have styr på:
 
@@ -55,7 +57,7 @@ Et foto af dit pas i et almindeligt fotobibliotek eller en synkroniseret mappe a
 
 Et arkiv, der er krypteret på enheden før upload, ankommer som krypteret tekst. Nogen, der bryder ind i cloud-kontoen, finder en fil, de ikke kan åbne. Beskyttelsen følger filen i stedet for at afhænge af den konto, den lander i.
 
-Det er derfor, det ærlige svar på "er skyen sikker" er: skyen er en leveringsadresse, ikke en sikkerhedsmodel. Det, der betyder noget, er den tilstand, filen er i, når den når frem. Vores [sammenligning af de vigtigste steder, folk opbevarer passcanninger](https://traveldocumentvault.com/da/blog/safest-way-to-store-passport-digitally/) gennemgår afvejningerne ved hver af dem.
+Det er derfor, det ærlige svar på "er skyen sikker" er: skyen er en leveringsadresse, ikke en sikkerhedsmodel. Det, der betyder noget, er den tilstand, filen er i, når den når frem. Skulle vi vælge en standard, ville vi vælge den opsætning, der krypterer filen, før den forlader telefonen. Vores [sammenligning af de vigtigste steder, folk opbevarer passcanninger](https://traveldocumentvault.com/da/blog/safest-way-to-store-passport-digitally/) gennemgår afvejningerne ved hver af dem.
 
 | Hvad du sikkerhedskopierer | Tilstand ved ankomst | Hvem kan læse det | Hvis kontoen bliver kompromitteret |
 |---|---|---|---|
@@ -72,7 +74,7 @@ Tre ting bliver bevidst på telefonen, og gendannelseskoden kommer først: den f
 
 Det sidste punkt overrasker folk, så her er den ligefremme version. **En systembackup af enheden geninstallerer appen, men kan ikke gendanne dine dokumenter.** Krypteringsnøglen forlod aldrig den gamle telefon, så den nye har intet at dekryptere med. Hvis du vil have, at dit arkiv overlever telefonen, skal du enten have cloud-backup slået til eller en eksporteret fil gemt et sted.
 
-## Gendannelse på en ny telefon
+## Gendannelsen er kort og overskriver ikke det, der allerede er der
 
 Selve gendannelsen er hurtig, hvilket er hele pointen med at forberede sig tidligere.
 
@@ -80,7 +82,7 @@ Installer appen på den nye telefon, og log ind med den samme iCloud- eller Goog
 
 Appen tjekker også, før den skriver. Hvis cloud-backup finder en eksisterende backup i den konto, bliver du bedt om at vælge mellem at gendanne og starte forfra. En ny telefon kan ikke stille og roligt overskrive det, der allerede er der.
 
-### Skift mellem iPhone og Android
+### Skift mellem iPhone og Android betyder, at du skal bruge Eksporter arkiv
 
 Cloud-backup bliver på én platform, fordi den bruger din egen iCloud på Apple-enheder og din egen Google Drive på Android. Skifter du fra den ene til den anden, skal du bruge den anden metode.
 
@@ -98,9 +100,9 @@ Tyve minutter, én gang, før næste rejse:
 - Eksporter arkivet én gang, og gem filen et sted, du selv kontrollerer, som en løsning, der ikke afhænger af nogen cloud-konto.
 - Tjek, at appen viser en ny backup, før du flyver – på samme måde som du tjekker, at passerne er i tasken.
 
-Intet af det her er dramatisk, og det er lidt pointen. De familier, der klarer sig godt, når telefonen bliver stjålet i udlandet, er næsten aldrig dem, der reagerede genialt. Det er dem, der brugte tyve helt almindelige minutter ved køkkenbordet fjorten dage forinden.
-
 En sidste bemærkning om forventninger. Backup er et sikkerhedslag, og det garanterer ikke noget: cloud-konti bliver låst, koder bliver glemt, lagringstjenester har dårlige dage. For dokumenter, der virkelig betyder noget, bør du også have noget uafhængigt liggende – hvad enten det er en udprintet kopi i en skuffe derhjemme eller en ekstra eksport på et drev.
+
+Intet af det her er dramatisk, og det er lidt pointen. De familier, der klarer sig godt, når telefonen bliver stjålet i udlandet, er næsten aldrig dem, der reagerede genialt. Det er dem, der brugte tyve helt almindelige minutter ved køkkenbordet fjorten dage forinden. Har du ikke gjort det endnu, så sæt din backup op i dag, og skriv ned, hvor gendannelseskoden ligger.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 

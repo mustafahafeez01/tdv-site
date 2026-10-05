@@ -20,9 +20,11 @@ Quando viaja com crianças, acompanhar cinco passaportes através de dois paíse
 
 ## Por Que As Famílias Fazem Mal A Gestão De Passaportes
 
-O problema começa pequeno. Você tem o seu próprio passaporte, o seu cônjuge tem o dele. Depois tem filhos, e de repente tem quatro documentos separados com quatro datas de expiração diferentes. O cérebro humano não é construído para acompanhar quatro linhas de tempo de renovação diferentes, especialmente quando a vida fica ocupada. Uma pessoa fica responsável por tratar de tudo — geralmente a pessoa que já está a gerir toda a outra logística de viagem — e esse único ponto de falha torna-se um risco.
+O problema começa pequeno. Você tem o seu próprio passaporte, o seu cônjuge tem o dele. Depois tem filhos, e de repente tem quatro documentos separados com quatro datas de expiração diferentes. O cérebro humano não é construído para acompanhar quatro linhas de tempo de renovação diferentes, especialmente quando a vida fica ocupada.
 
-O segundo problema é que os passaportes de crianças expiram muito mais rápido que os de adultos. Nos Estados Unidos, os passaportes de crianças menores de 16 anos duram 5 anos, enquanto os passaportes de adultos duram 10 anos. O mesmo aplica-se no Reino Unido — os documentos infantis expiram após 5 anos, não 10. Isto significa que o passaporte do seu filho mais jovem geralmente torna-se o fator limitante para viagens familiares. Pode ter um progenitor com 8 anos de validade restante, mas se o passaporte do seu filho mais jovem expira em 18 meses, esse é o seu horizonte de planeamento.
+Normalmente acaba por ser uma só pessoa a tratar de tudo, muitas vezes quem já gere o resto da logística da viagem, e esse único ponto de falha torna-se um risco.
+
+Os passaportes de crianças também expiram muito mais rápido que os de adultos. Nos Estados Unidos, os passaportes de crianças menores de 16 anos duram 5 anos, enquanto os passaportes de adultos duram 10 anos. O mesmo aplica-se no Reino Unido — os documentos infantis expiram após 5 anos, não 10. Isto significa que o passaporte do seu filho mais jovem geralmente torna-se o fator limitante para viagens familiares. Pode ter um progenitor com 8 anos de validade restante, mas se o passaporte do seu filho mais jovem expira em 18 meses, esse é o seu horizonte de planeamento.
 
 A maioria das famílias não se apercebe disto até já ter uma viagem reservada. Um progenitor encontra os passaportes uma semana antes da partida, digitalizando-os apressadamente enquanto arruma, e descobre que um documento infantil não passa na regra de validade de 6 meses para o destino. A viagem está agora em risco, ou precisa de uma renovação de passaporte apressada e dispendiosa.
 
@@ -36,7 +38,7 @@ O armazenamento encriptado é importante porque os passaportes contêm o seu nom
 
 Uma vez digitalizadas, estas cópias residem no seu cofre encriptado — acessíveis qualquer vez que precise verificar uma data de validade, provar que tem documentos ao reservar viagens, ou fornecer informações de emergência a um consulado se algo correr mal no estrangeiro.
 
-## Configurar Perfis Para Cada Membro Da Família
+## Um Perfil Por Membro Da Família, e Uma Pessoa Que o Mantém Atualizado
 
 Num sistema partilhado, o registo de cada pessoa deve incluir os seus documentos de viagem principais:
 
@@ -47,9 +49,9 @@ Num sistema partilhado, o registo de cada pessoa deve incluir os seus documentos
 
 Geralmente uma pessoa — o planeador da viagem — atua como custodiante do sistema, configurando-o e mantendo-o atual. Mas como tudo é centralizado, qualquer membro da família pode aceder às suas próprias informações sem ter que perguntar, o que é importante quando alguém está a renovar o seu próprio passaporte e precisa confirmar uma data de expiração.
 
-Ao reservar uma viagem, o primeiro passo torna-se automático: aceda ao seu sistema, puxe o perfil de cada membro da família, e verifique a data de validade contra os requisitos do seu destino. Faça isto antes de pagar pelos voos — nunca assuma que terá tempo para organizar documentos expirados após a viagem estar paga. Se o passaporte de alguém estiver dentro de 12 meses de expiração, comece o processo de renovação imediatamente em vez de esperar poder enquadrá-lo depois.
+Ao reservar uma viagem, o primeiro passo torna-se automático: aceda ao seu sistema, puxe o perfil de cada membro da família, e verifique a data de validade contra os requisitos do seu destino. Faça isto antes de pagar pelos voos, porque não terá tempo para resolver documentos expirados depois de a viagem estar reservada. Se o passaporte de alguém estiver dentro de 12 meses de expiração, comece o processo de renovação imediatamente em vez de esperar poder enquadrá-lo depois.
 
-## Cópias De Segurança Físicas E Acesso De Emergência
+## Guarde Uma Cópia Física Longe Dos Originais
 
 O armazenamento digital é conveniente, mas os dispositivos falham e as aplicações podem ter problemas. Cada família deve também manter uma cópia de segurança física de páginas de passaporte essenciais — guarde uma num local diferente dos originais.
 
@@ -59,7 +61,7 @@ Se estiver preso no estrangeiro e precisar substituir um passaporte perdido ou r
 
 Para viagens internacionais, nunca transporte todos os passaportes familiares juntos na mesma mala. Cada pessoa leva o seu próprio documento. Se a sua mala de mão for roubada num aeroporto, não perdeu cinco anos de planeamento. O passaporte de apenas um membro da família está em risco imediato, e tem cópias digitais para provar o status de todos os outros.
 
-## Passaportes Duplos E Famílias Complexas
+## Com Dupla Nacionalidade, o Passaporte Certo Depende do Destino
 
 Para famílias onde um ou ambos os progenitores possuem dupla nacionalidade, o sistema torna-se ligeiramente mais complexo mas mais importante gerir cuidadosamente.
 
@@ -77,6 +79,8 @@ Para além do passaporte em si, vários outros documentos merecem um lugar no se
 - **Cartas de condução.** Se está a alugar um carro, precisará cartas de condução para todos os condutores no seu grupo. Estas também têm datas de expiração que podem apanhar famílias desprevenidas.
 
 Guarde todos estes num local acessível. O pânico de revolver no seu telemóvel ou mala no balcão do aeroporto, espiando para fotos desfocadas de páginas de visto — é exatamente isto que este sistema evita.
+
+Se ainda não montou isto, comece hoje: digitalize a página da fotografia de cada passaporte da casa, mesmo os que ainda têm anos de validade, e guarde as cópias num único local encriptado antes de reservar a próxima viagem.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

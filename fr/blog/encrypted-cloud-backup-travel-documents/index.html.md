@@ -38,7 +38,9 @@ Voici la partie que la plupart des articles évitent, et elle mérite d'être di
 
 La conséquence est inévitable. **Si vous perdez ce code de récupération, la sauvegarde ne pourra plus jamais être ouverte.** Ni par vous, ni par Apple ou Google, ni par nous. Il n'existe aucun lien de réinitialisation, car il n'y a aucun compte auquel le rattacher. Il n'existe aucun ticket d'assistance qui puisse le récupérer, car nous ne l'avons jamais détenu et sommes incapables de le deviner.
 
-Écrit noir sur blanc, cela peut sembler dur, et il vaut mieux être honnête à ce sujet plutôt que de l'enterrer dans un écran de paramètres. C'est le même compromis qu'avec la clé de votre maison : la serrure n'a de valeur que parce qu'aucun serrurier au monde n'en garde un double, et c'est exactement pour cela que perdre la vôtre devient votre problème. Une entreprise capable de restaurer vos documents après que vous ayez tout oublié est une entreprise qui aurait pu les lire depuis le début.
+Écrit noir sur blanc, cela peut sembler dur, et il vaut mieux être honnête à ce sujet plutôt que de l'enterrer dans un écran de paramètres. C'est le même compromis qu'avec la clé de votre maison : la serrure n'a de valeur que parce qu'aucun serrurier au monde n'en garde un double, et c'est exactement pour cela que perdre la vôtre devient votre problème.
+
+Une entreprise capable de restaurer vos documents après que vous ayez tout oublié est une entreprise qui aurait pu les lire depuis le début.
 
 Traitez donc ce code comme la seule chose à ne pas rater :
 
@@ -55,7 +57,7 @@ Une photo de votre passeport dans une bibliothèque de photos ordinaire ou un do
 
 Un coffre chiffré sur l'appareil avant l'envoi arrive sous forme de texte chiffré. Quiconque s'introduit dans le compte cloud trouve un fichier qu'il ne peut pas ouvrir. La protection voyage avec le fichier, plutôt que de dépendre du compte où il atterrit.
 
-C'est pourquoi la version honnête de « le cloud est-il sûr » est la suivante : le cloud est une adresse de livraison, pas un modèle de sécurité. Ce qui compte, c'est l'état dans lequel se trouve le fichier quand il y arrive. Notre [comparaison des principaux endroits où l'on conserve des scans de passeport](https://traveldocumentvault.com/fr/blog/safest-way-to-store-passport-digitally/) détaille les compromis de chacun.
+C'est pourquoi la version honnête de « le cloud est-il sûr » est la suivante : le cloud est une adresse de livraison, pas un modèle de sécurité. Ce qui compte, c'est l'état dans lequel se trouve le fichier quand il y arrive. Si nous devions choisir une configuration par défaut, nous retiendrions celle qui chiffre le fichier avant qu'il ne quitte le téléphone. Notre [comparaison des principaux endroits où l'on conserve des scans de passeport](https://traveldocumentvault.com/fr/blog/safest-way-to-store-passport-digitally/) détaille les compromis de chacun.
 
 | Ce que vous sauvegardez | État à l'arrivée | Qui peut le lire | En cas de compromission du compte |
 |---|---|---|---|
@@ -72,7 +74,7 @@ Trois choses restent volontairement sur le téléphone, et le code de récupéra
 
 Ce dernier point piège beaucoup de gens, alors voici la version sans détour. **Une sauvegarde système de l'appareil réinstalle l'application, mais ne peut pas restaurer vos documents.** La clé de chiffrement n'a jamais quitté l'ancien téléphone, donc le nouveau n'a rien avec quoi déchiffrer. Si vous voulez que votre coffre survive au téléphone, il vous faut soit la sauvegarde cloud activée, soit un fichier exporté enregistré quelque part.
 
-## Restaurer sur un nouveau téléphone
+## La restauration est courte et n'écrase pas ce qui se trouve déjà là
 
 La restauration est rapide, et c'est justement l'intérêt d'avoir fait la préparation en amont.
 
@@ -80,7 +82,7 @@ Installez l'application sur le nouveau téléphone et connectez-vous au même co
 
 L'application vérifie aussi avant d'écrire quoi que ce soit. Si la sauvegarde cloud détecte une sauvegarde existante dans ce compte, elle vous demande de choisir entre restaurer ou repartir de zéro. Un nouveau téléphone ne peut pas écraser discrètement ce qui existe déjà.
 
-### Passer d'iPhone à Android (ou l'inverse)
+### Passer d'iPhone à Android (ou l'inverse) passe par l'export du coffre
 
 La sauvegarde cloud reste propre à une plateforme, car elle utilise votre propre iCloud sur les appareils Apple et votre propre Google Drive sur Android. Passer de l'un à l'autre nécessite une autre méthode.
 
@@ -98,9 +100,9 @@ Vingt minutes, une seule fois, avant le prochain voyage :
 - Exportez le coffre une fois et enregistrez le fichier à un endroit que vous contrôlez, comme solution indépendante de tout compte cloud.
 - Vérifiez que l'application affiche une sauvegarde récente avant de prendre l'avion, tout comme vous vérifieriez que les passeports sont dans le sac.
 
-Rien de tout cela n'est spectaculaire, et c'est bien l'idée. Les familles qui s'en sortent bien après le vol d'un téléphone à l'étranger ne sont presque jamais celles qui ont réagi brillamment sur le moment. Ce sont celles qui ont passé vingt minutes sans éclat à la table de la cuisine deux semaines plus tôt.
-
 Une dernière remarque sur les attentes. La sauvegarde est une couche de sécurité, elle ne garantit rien : des comptes cloud se retrouvent bloqués, des codes s'oublient, des services de stockage ont de mauvais jours. Pour les documents qui comptent vraiment, gardez aussi quelque chose d'indépendant, que ce soit une copie imprimée dans un tiroir à la maison ou un second export sur un disque.
+
+Rien de tout cela n'est spectaculaire, et c'est bien l'idée. Les familles qui s'en sortent bien après le vol d'un téléphone à l'étranger ne sont presque jamais celles qui ont réagi brillamment sur le moment. Ce sont celles qui ont passé vingt minutes sans éclat à la table de la cuisine deux semaines plus tôt. Si vous ne l'avez pas encore fait, configurez votre sauvegarde aujourd'hui et notez où se trouve le code de récupération.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 

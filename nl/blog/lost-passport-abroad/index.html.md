@@ -22,9 +22,11 @@ Mensen laten elke dag hun verloren paspoort in het buitenland vervangen, en amba
 
 Als je dit leest voor je vertrek, besteed dan de komende vijf minuten hieraan. Maak een duidelijke foto van de gegevenspagina van elk paspoort waarmee je reist. Bewaar die in een versleutelde app die offline werkt – veel veiliger dan je camerarol, en volledig privé.
 
-Bij aankomst op de ambassade vragen ze naar je paspoortnummer, afgiftedatum, plaats van afgifte en vervaldatum. Zonder kopie probeer je dit onder stress te onthouden. Met een kopie geef je de gegevens binnen enkele seconden door. **Consulair personeel geeft vervangende documenten sneller uit wanneer je met de gegevens al genoteerd aankomt.**
+Bij aankomst op de ambassade vragen ze naar je paspoortnummer, afgiftedatum, plaats van afgifte en vervaldatum. Zonder kopie probeer je dit onder stress te onthouden. Met een kopie geef je de gegevens binnen enkele seconden door. Consulair personeel geeft vervangende documenten sneller uit wanneer je **met de gegevens al genoteerd aankomt**.
 
-Een kopie op je telefoon is een vastlegging van de gegevens, geen identiteitsbewijs, en die twee worden vaak door elkaar gehaald. Het is goed om vooraf te weten [waar een digitale paspoortkopie wordt geaccepteerd en waar je nog steeds het origineel nodig hebt](https://traveldocumentvault.com/nl/blog/digital-passport-copy-valid/).
+Een kopie op je telefoon is een vastlegging van de gegevens, geen identiteitsbewijs.
+
+Het is goed om vooraf te weten [waar een digitale paspoortkopie wordt geaccepteerd en waar je nog steeds het origineel nodig hebt](https://traveldocumentvault.com/nl/blog/digital-passport-copy-valid/).
 
 ## Stap 1: Bevestig dat het paspoort echt weg is
 
@@ -32,7 +34,7 @@ Kijk overal na voordat je het ergste aanneemt – jaszakken, elk vak van je tas,
 
 ## Stap 2: Doe meteen aangifte bij de politie
 
-Ga naar het dichtstbijzijnde politiebureau en meld het paspoort als verloren of gestolen. Je hebt dit proces-verbaal nodig voor zowel je aanvraag bij de ambassade als je verzekeringsclaim.
+Ga naar het dichtstbijzijnde politiebureau en meld het paspoort als verloren of gestolen. Je hebt dit proces-verbaal nodig voor zowel je aanvraag bij de ambassade als je verzekeringsclaim. Wij zouden het binnen het uur doen als het kan, zolang de details je nog vers in het geheugen liggen.
 
 Vraag om een schriftelijke kopie met een zaaknummer, en vraag om een Engelse vertaling als die beschikbaar is. Maak er een foto van en bewaar meerdere kopieën op een veilige plek.
 
@@ -60,7 +62,7 @@ Wat je meestal nodig hebt (bevestig dit met je ambassade voordat je langsgaat):
 - Bewijs van doorreis - vluchtboeking, hotelbevestiging
 - Vergoeding voor het nooddocument - houd zowel contant geld als een kaart bij de hand
 
-**Travel Document Vault** bewaart een versleutelde kopie van je paspoort op je telefoon – toegankelijk zonder internet, zonder inloggen. Precies wat je ambassade zal vragen. [Download van de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** bewaart een versleutelde kopie van je paspoort op je telefoon – toegankelijk zonder internet, zonder inloggen. Alle paspoortgegevens op die lijst staan erin. [Download van de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Stap 5: Meld het bij je reisverzekeraar
 
@@ -78,7 +80,7 @@ Als je in Thailand een paspoort verliest met een geldig meermalig visum voor een
 
 ## Stap 7: Kom naar huis en vervang je paspoort
 
-Zodra je je noodpaspoort hebt, bevestig indien nodig de uitreisvereisten bij de lokale immigratiedienst, en boek of bevestig daarna je reis naar huis. Als je terug bent: vraag een volledig vervangend paspoort aan bij je officiële paspoortinstantie en maak een versleutelde digitale back-up van al je reisdocumenten voordat je weer op reis gaat.
+Zodra je je noodpaspoort hebt, bevestig indien nodig de uitreisvereisten bij de lokale immigratiedienst, en boek of bevestig daarna je reis naar huis. Ben je terug, vraag dan een volledig vervangend paspoort aan bij je officiële paspoortinstantie, en scan het samen met de rest van je reisdocumenten in een versleutelde back-up op de dag dat het binnenkomt.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

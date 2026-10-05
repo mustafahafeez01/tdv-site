@@ -20,7 +20,7 @@ El archivo exportado está cifrado con la misma seguridad que tu caja de segurid
 
 ### Abre Configuración y ve a Exportar
 
-Abre Travel Document Vault y toca el icono de Configuración (símbolo de engranaje) en la parte inferior de la pantalla. Desplázate hacia abajo hasta que veas la sección Copia de seguridad y datos. Toca Exportar caja de seguridad.
+Abre Travel Document Vault y toca el icono de Configuración (símbolo de engranaje) en la parte inferior de la pantalla. Desplázate hacia abajo hasta que veas la sección Copia de seguridad y datos. Toca Exportar bóveda.
 
 2
 
@@ -48,9 +48,9 @@ Si estás importando en otro dispositivo, haz que el archivo exportado sea acces
 
 6
 
-### En el dispositivo de destino, abre Configuración y toca Importar caja de seguridad
+### En el dispositivo de destino, abre Configuración y toca Importar copia de seguridad
 
-Abre Travel Document Vault en el dispositivo donde deseas importar. Ve a Configuración, desplázate a Copia de seguridad y datos y toca Importar caja de seguridad. La aplicación te pide que selecciones el archivo de copia de seguridad exportado (.tdvault).
+Abre Travel Document Vault en el dispositivo donde deseas importar. Ve a Configuración, desplázate a Copia de seguridad y datos y toca Importar copia de seguridad. La aplicación te pide que selecciones el archivo de copia de seguridad exportado (.tdvault).
 
 7
 
@@ -62,11 +62,11 @@ Ve a donde guardaste el archivo de caja de seguridad exportado, selecciónalo y 
 
 ### Verifica que todos los datos estén presentes
 
-Después de importar, verifica la pestaña Perfiles para confirmar que aparecen todos los perfiles. Abre algunos documentos para verificar que los archivos adjuntos estén intactos. El proceso de importación es no destructivo y se combina con cualquier dato existente.
+Después de importar, verifica la pestaña Perfiles para confirmar que aparecen todos los perfiles. Abre algunos documentos para verificar que los archivos adjuntos estén intactos. El proceso de importación reemplaza cualquier dato existente en este dispositivo.
 
 ### Notas importantes
 
-- **No destructivo:** La importación se suma a tus datos existentes. Si ya tienes perfiles en el dispositivo de destino, los perfiles importados se añaden sin eliminar los existentes.
+- **Reemplaza los datos existentes:** La importación borra primero lo que hay en el dispositivo de destino. Si ya tienes perfiles en el dispositivo de destino, expórtalos antes de importar.
 - **Fidelidad completa en el proceso:** Todo se preserva exactamente: nombres de documentos, fechas, alertas de vencimiento, colores personalizados, archivos adjuntos y notas.
 - **Cifrado en todo momento:** El archivo exportado está cifrado con la contraseña que eliges al exportarlo, mediante AES-256-GCM con derivación de clave PBKDF2. Solo esa contraseña puede descifrarlo, así que guárdala en un lugar seguro —sin ella, el archivo no se puede recuperar.
 - **Práctica recomendada de copia de seguridad:** Mantén tu archivo exportado en una ubicación segura. Elimínalo después de una importación exitosa si lo prefieres, o guárdalo como copia de seguridad sin conexión.

@@ -33,7 +33,9 @@ Bevor wir über Risiken sprechen, lassen Sie uns präzise sein, was tatsächlich
 - Ihr Foto
 - Die maschinenlesbare Zone (MRZ) – die zwei Textzeilen am unteren Rand, die alle obigen Daten in einem Standardformat codieren
 
-Das sind viele persönliche Daten in einer Grafik. Ihr Name, Geburtsdatum und Reisepassnummer zusammen sind genug, um Identitätsdiebstahl zu versuchen, einen überzeugenden Phishing-Angriff mit Ihren echten Daten durchzuführen oder Kredite unter Ihrem Namen aufzunehmen in einigen Ländern. **Das Foto macht es noch nützlicher für jemanden, der es nicht haben sollte.**
+Das sind viele persönliche Daten in einer Grafik. Ihr Name, Geburtsdatum und Reisepassnummer zusammen sind genug, um Identitätsdiebstahl zu versuchen, einen überzeugenden Phishing-Angriff mit Ihren echten Daten durchzuführen oder Kredite unter Ihrem Namen aufzunehmen in einigen Ländern.
+
+Das Foto macht es noch nützlicher für jemanden, der es nicht haben sollte.
 
 ## Was sind die tatsächlichen Risiken der Google Photos-Speicherung?
 
@@ -41,7 +43,7 @@ Die Risiken drehen sich nicht wirklich darum, dass Google etwas Böses tut. Sie 
 
 **Kontokompromittierung**
 
-Jemand gelangt in Ihr Google-Konto – über Phishing, ein wiederverwendetes Passwort aus einer anderen Datenpanne oder einfach ein schwaches Passwort – und hat Zugriff auf alles: jedes Foto, jedes Dokument, alles in Google Drive. Das ist die wahrscheinlichste Bedrohung in der realen Welt für die meisten Menschen, und deshalb ist die Sicherheit des Reisepass-Fotos wichtiger als die meisten Menschen erkennen.
+Jemand gelangt in Ihr Google-Konto – über Phishing, ein wiederverwendetes Passwort aus einer anderen Datenpanne oder einfach ein schwaches Passwort – und hat Zugriff auf alles: jedes Foto, jedes Dokument, alles in Google Drive. Das ist die wahrscheinlichste Bedrohung in der realen Welt für die meisten Menschen, und deshalb ist die Sicherheit des Reisepass-Fotos wichtiger als die meisten Menschen erkennen. Wir würden jedes Passwort, das auf mehr als einer Website verwendet wird, ohnehin als bereits kompromittiert behandeln.
 
 **Geteilter Zugriff**
 
@@ -103,7 +105,7 @@ Apps, die speziell dafür entwickelt wurden – wie [Travel Document Vault](http
 
 Tresorit und Proton Drive bieten clientseitige Verschlüsselung für Cloud-Speicher. Wie Passwort-Manager kann der Anbieter Ihre Dateien nicht lesen. Sie bekommen Cloud-Komfort mit deutlich stärkerer Reisepass-Foto-Sicherheit als Google Photos.
 
-## Best Practices, wenn Sie Google Photos weiterhin nutzen
+## Wenn Sie bei Google Photos bleiben, leistet die Zwei-Faktor-Authentifizierung die meiste Arbeit
 
 Viele Menschen werden Google Photos weiterhin dafür nutzen – die Bequemlichkeit ist real. Wenn das für Sie gilt, helfen diese Schritte bei der Risikominderung:
 
@@ -114,6 +116,8 @@ Viele Menschen werden Google Photos weiterhin dafür nutzen – die Bequemlichke
 - **Erstellen Sie ein privates Album für sensible Dokumente** statt sie lose in Ihrem Hauptfoto-Stream zu lassen. Das stoppt keine Datenpanne, aber es reduziert versehentliche Offenlegung, wenn jemand über Ihre Schulter schaut.
 
 Für einen umfassenderen Blick auf die Verwaltung und Sicherung Ihrer Reisedokumente besuchen Sie unseren [Blog](https://traveldocumentvault.com/de/) mit [praktischen Tipps zum Organisieren von Familienreisedokumenten](https://traveldocumentvault.com/de/blog/how-to-organise-family-travel-documents/) vor Ihrer nächsten Reise.
+
+Öffnen Sie noch heute die Sicherheitseinstellungen Ihres Google-Kontos, schalten Sie die Zwei-Faktor-Authentifizierung ein, falls sie noch nicht aktiv ist, und tauschen Sie jedes Passwort aus, das Sie anderswo ebenfalls verwenden. Diese eine Änderung hält diesen Scan und alles andere in Ihrem Konto am ehesten aus fremden Händen.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 

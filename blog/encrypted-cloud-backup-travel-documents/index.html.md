@@ -36,11 +36,13 @@ So the question worth asking of any app is short: **who holds the key?** Everyth
 
 ## The Recovery Code, and Why Nobody Can Reset It
 
-Here is the part most articles skip, and it deserves saying plainly: Travel Document Vault has no accounts. You never gave us an email address, we never set you a password, and there is no record of you on any server we run. When you turn on [cloud backup](https://traveldocumentvault.com/cloud-backup/), the app generates a 24-character recovery code and derives the encryption key from it. The encrypted vault then goes to **your own iCloud on iPhone and iPad, or your own Google Drive on Android**, rather than to us.
+Here is the part most articles skip, and it deserves saying plainly: Travel Document Vault has no accounts. You never gave us an email address, we never set you a password, and there is no record of you on any server we run. When you turn on [cloud backup](https://traveldocumentvault.com/cloud-backup/), the app generates a 24-character recovery code and derives the encryption key from it. The encrypted vault then goes to **your own iCloud** on iPhone and iPad, or **your own Google Drive** on Android, rather than to us.
 
-The consequence is unavoidable. **If you lose that recovery code, the backup can never be opened again.** Not by you, not by Apple or Google, and not by us. There is no reset link, because there is no account to attach it to. There is no support ticket that recovers it, because we have never held it and cannot begin to guess it.
+The consequence is unavoidable. If you lose that recovery code, **the backup can never be opened again**. Not by you, not by Apple or Google, and not by us. There is no reset link, because there is no account to attach it to. There is no support ticket that recovers it, because we have never held it and cannot begin to guess it.
 
-That sounds harsh written down, and it is worth being honest about it rather than burying it in a settings screen. It is the same trade you make with a house key: the lock is only worth having because no locksmith on earth keeps a spare, and that is exactly why losing yours is your problem. A company that can restore your documents after you forget everything is a company that could read them all along.
+That sounds harsh written down, and it is worth being honest about it rather than burying it in a settings screen. It is the same trade you make with a house key: the lock is only worth having because no locksmith on earth keeps a spare, and that is exactly why losing yours is your problem.
+
+A company that can restore your documents after you forget everything is a company that could read them all along.
 
 So treat the code as the one thing to get right:
 
@@ -51,13 +53,13 @@ So treat the code as the one thing to get right:
 
 ## Is Cloud Backup Safe for Passport Scans?
 
-It depends completely on what reaches the cloud, and that is a question about the app rather than about the cloud.
+It depends completely on what reaches the cloud. That's a question about the app you're using, not about the cloud itself.
 
 A photo of your passport in an ordinary photo library or a synced folder arrives readable. It sits in an account protected by a password you may have reused. It gets indexed and thumbnailed, and anyone who gets into that account sees a clean copy of the identity page. We went through what that exposure actually looks like in [storing a passport in Google Photos](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/). That is a genuine risk, and it is the setup most families are running without ever having chosen it.
 
 A vault encrypted on the device before upload arrives as ciphertext. Someone who breaks into the cloud account finds a file they cannot open. The protection travels with the file rather than depending on the account it lands in.
 
-Which is why the honest version of "is the cloud safe" is: the cloud is a delivery address, not a security model. What matters is the state the file is in when it gets there. Our [comparison of the main places people keep passport scans](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/) goes through the trade-offs of each one.
+Which is why the honest version of "is the cloud safe" is: the cloud is a delivery address, not a security model. What matters is the state the file is in when it gets there. If we had to pick a default, we'd pick whichever setup encrypts the file before it leaves the phone. Our [comparison of the main places people keep passport scans](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/) goes through the trade-offs of each one.
 
 | What you back up | State on arrival | Who can read it | If the account is breached |
 |---|---|---|---|
@@ -74,7 +76,7 @@ Three things deliberately stay on the phone, and the recovery code comes first: 
 
 That last one catches people out, so here's the blunt version. **A system-level device backup reinstalls the app but cannot restore your documents.** The encryption key never left the old phone, so the new one has nothing to decrypt with. If you want your vault to survive the phone, you need either cloud backup switched on or an exported file saved somewhere.
 
-## Restoring on a New Phone
+## The Restore Is Short and Won't Overwrite What's Already There
 
 The restore is short, which is the point of doing the preparation earlier.
 
@@ -82,11 +84,11 @@ Install the app on the new phone and sign in to the same iCloud or Google accoun
 
 The app also checks before it writes. If cloud backup detects an existing backup in that account, it prompts you to choose between restoring and starting fresh. A new phone cannot quietly overwrite what's already there.
 
-### Moving Between iPhone and Android
+### Moving Between iPhone and Android Means Using Vault Export
 
 Cloud backup stays on one platform, because it uses your own iCloud on Apple devices and your own Google Drive on Android. Going from one to the other needs the other route.
 
-Use Vault Export. Settings, Export Vault produces a single password-protected file containing everything, and you choose where it goes: the Files app, a drive, an email to yourself. On the new phone, Settings, Import Vault reads it back. It works in both directions and keeps names, dates, reminders, colours, notes and attachments as they were.
+Use Vault Export: Settings, Export Vault produces a single password-protected file containing everything, and you choose where it goes - the Files app, a drive, an email to yourself. On the new phone, Settings, Import Vault reads it back. It works in both directions and keeps names, dates, reminders, colours, notes and attachments as they were.
 
 That exported file is also the answer for anyone who wants a copy that doesn't depend on a cloud account at all. It's a sensible thing to keep on a drive at home regardless of which phone you carry.
 
@@ -100,9 +102,9 @@ Twenty minutes, once, before the next trip:
 - Export the vault once and save the file somewhere you control, as a route that doesn't depend on any cloud account.
 - Check the app shows a recent backup before you fly, the same way you'd check the passports are in the bag.
 
-None of this is dramatic, and that's rather the idea. The families who cope well with a stolen phone abroad are almost never the ones who reacted brilliantly. They're the ones who spent twenty unremarkable minutes at the kitchen table a fortnight earlier.
-
 One last note on expectations. Backup is a safety layer, and it doesn't guarantee anything: cloud accounts get locked out, codes get forgotten, storage services have bad days. For documents that really matter, keep something independent as well, whether that's a printed copy in a drawer at home or a second export on a drive.
+
+None of this is dramatic, and that's rather the idea. The families who cope well with a stolen phone abroad are almost never the ones who reacted brilliantly. They're the ones who spent twenty unremarkable minutes at the kitchen table a fortnight earlier. If you haven't done that yet, set up your backup today and write down where the recovery code lives.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 

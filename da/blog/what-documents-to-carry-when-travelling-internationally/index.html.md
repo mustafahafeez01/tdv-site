@@ -20,9 +20,9 @@ Rejsende opdager ofte først, at de har overset samtykkebreve, vaccinationsattes
 
 For flere tips om at organisere rejsedokumenter, se [vores guide til at organisere familiens rejsedokumenter](https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-documents/). Dette indlæg går i dybden med det, der bliver glemt, og hvordan I forbereder jer på tabte dokumenter i udlandet.
 
-## Dokumenterne folk oftest glemmer
+## Fem dokumenter, folk glemmer, når passet er pakket
 
-Jeres pas og visum føles presserende, så de bliver pakket først. Men grænsemyndighederne ved gaten tjekker for fem andre dokumenter, som de fleste overser.
+Jeres pas og visum føles presserende, så de bliver pakket først. De fem dokumenter, folk faktisk glemmer, kommer efter dem: bevis på videre rejse, indkvarteringsbekræftelser, vaccinationsbeviser, forsikringsoplysninger og et samtykkebrev til barnet.
 
 ### Bevis på videre rejse
 
@@ -42,7 +42,9 @@ I skal have øjeblikkelig adgang til jeres policenummer, forsikringsselskabets k
 
 ### Samtykkebreve til børns rejse
 
-Når et barn rejser internationalt med kun én forælder (eller med ingen af forældrene), forventer mange lande skriftligt samtykke fra den fraværende forælder, og notarisering anbefales kraftigt. Grænsemyndigheder i lande som Canada og Sydafrika beder rutinemæssigt om det, og flypersonale kan nægte ombordstigning uden det. Det er det oftest oversete dokument ved familierejser, så dobbelttjek det, før I når gaten.
+Når et barn rejser internationalt med kun én forælder (eller med ingen af forældrene), forventer mange lande skriftligt samtykke fra den fraværende forælder, og notarisering anbefales kraftigt. Grænsemyndigheder i lande som Canada og Sydafrika beder rutinemæssigt om det, og flypersonale kan nægte ombordstigning uden det.
+
+Det er det oftest oversete dokument ved familierejser, så dobbelttjek det, før I når gaten.
 
 ## Hvad I skal have på jer kontra opbevare digitalt
 
@@ -81,13 +83,13 @@ Specifikke oplysninger at have ved hånden, både på papir og digitalt:
 - Dækningsgrænser for medicinsk hjemtransport, som normalt er angivet separat fra den almindelige sygeforsikringsdækning
 - Eventuelle undtagelser eller betingelser, der gælder for jeres rejse
 
-Alarmnummeret bør gemmes i telefonens kontakter adskilt fra de fysiske dokumenter. Mistes eller stjæles jeres taske, sikrer dette, at I stadig kan få hjælp uden det fysiske policedokument.
+Vi ville gemme alarmnummeret i telefonens kontakter, adskilt fra de fysiske dokumenter. Mistes eller stjæles jeres taske, sikrer dette, at I stadig kan få hjælp uden det fysiske policedokument.
 
 ## Hvad familier med børn skal tilføje
 
 Hvert barn skal have sit eget pas til international rejse, uanset alder. Mange lande gransker også børns rejse tæt for at beskytte mod bortførelse, så forvent ekstra spørgsmål, når et barn rejser med kun én forælder.
 
-**Samtykkebrev til børns rejse:** Rejser et barn internationalt med kun én forælder, vil mange grænsemyndigheder bede om skriftligt samtykke fra den fraværende forælder, helst notariseret. Rejser barnet med ingen af forældrene (fx med bedsteforældre), kræves typisk samtykke fra begge forældre. Kravene ændrer sig og varierer efter nationalitet, så bekræft med destinationens officielle myndighed.
+Det samme gælder her: Rejser et barn internationalt med kun én forælder, vil mange grænsemyndigheder bede om skriftligt samtykke fra den fraværende forælder, helst notariseret. Rejser barnet med ingen af forældrene (fx med bedsteforældre), kræves typisk samtykke fra begge forældre. Kravene ændrer sig og varierer efter nationalitet, så bekræft med destinationens officielle myndighed.
 
 Et samtykkebrev bør typisk indeholde barnets fulde navn og fødselsdato, pasoplysninger, rejsedatoer og destinationer samt kontaktoplysninger på den eller de fraværende forældre. Nogle destinationer har specifikke skabeloner; den canadiske regering tilbyder for eksempel et eksempel på et samtykkebrev.
 
@@ -95,11 +97,13 @@ Hvad det betyder i praksis
 
 I skal flyve til Canada med jeres 8-årige barn, og jeres partner rejser ikke med. Indcheckningspersonalet kan nægte jeres barn ombordstigning, hvis I ikke kan vise skriftligt samtykke fra jeres fraværende partner, helst notariseret. Rejser barnet med bedsteforældrene i stedet for jer, kræves typisk, at begge forældre underskriver samtykkebrevet – én forælders tilladelse er som regel ikke nok. Bekræft altid de præcise krav for jeres destination i god tid før afrejse.
 
-## Fordelen ved offline digitale kopier
+## Hav en offline backup, der ikke rejser med i tasken
 
 Fysiske dokumenter hjælper, indtil en tyv tager tasken – og som regel tager kopierne med sig sammen med originalerne. En separat krypteret backup på telefonen – opbevaret offline – er jeres reelle forsikring, hvis originalerne forsvinder.
 
 Når jeres ambassade skal udstede et nøddokument, giver en sikker backup dem jeres pasnummer, udstedelsesdato, udstedelsessted og udløbsdato med det samme, uden internetadgang. Læs mere om mulighederne i vores oversigt over [hvordan I opbevarer passcanninger sikkert](https://traveldocumentvault.com/da/blog/is-it-safe-to-store-passport-in-google-photos/) og afvejningerne mellem forskellige metoder.
+
+Vælg det ene dokument fra denne liste, I endnu ikke har lavet backup af, hvad enten det er samtykkebrevet, forsikringens policenummer eller oplysningssiden i passet, og gem en krypteret, offline kopi på telefonen, før jeres næste rejse.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 

@@ -29,15 +29,17 @@ Den afgørende forskel – som de fleste anmeldelser glider let hen over – er,
 - **Lokal lagring på enheden:** Dine passcanninger og oplysninger gemmes krypteret på din telefon. App-firmaet kan ikke tilgå dem. Der er ingen konto, der kan blive hacket. Mister du din telefon, gendanner en ny installation ikke automatisk dine data (selvom du kan tage backup via iCloud eller lokalt).
 - **Cloud-lagring:** Dine scanninger uploades til en server. Du kan tilgå dem fra flere enheder og gendanne dem nemt. Men du overlader din pasdata til en virksomheds serversikkerhed og deres plan for håndtering af sikkerhedsbrud.
 
-Ingen af tilgangene er forkert i sig selv, men for identitetsdokumenter så følsomme som pas er den lokale model markant mere sikker. Et sikkerhedsbrud i en app med lokal lagring lækker intet fra deres servere – der er simpelthen intet at lække.
+Ingen af tilgangene er forkert i sig selv, men for identitetsdokumenter så følsomme som pas er den lokale model markant mere sikker.
 
-## De funktioner, der reelt betyder noget
+Et sikkerhedsbrud i en app med lokal lagring lækker intet fra deres servere – der er simpelthen intet at lække.
 
-### Udløbspåmindelser med justerbar varsling
+## Disse funktioner afgør, om appen fortjener sin plads
+
+### Varslingstiden er den indstilling, det er værd at tilpasse
 
 Dette er den enkeltstående mest værdifulde funktion. En påmindelse ved 6 måneder er minimum – mange lande kræver, at dit pas er gyldigt i mindst 6 måneder efter dine rejsedatoer, som forklaret i vores artikel om [6-måneders-reglen for pas](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/). For familier med børn, hvis pas udløber efter 5 år i stedet for 10, giver en tidligere påmindelse – for eksempel 9 måneder i forvejen – mere behagelig tid til planlægning.
 
-### Sikker opbevaring af flere familiemedlemmers pas i én app
+### Én app kan rumme hele familien, og det sikkert
 
 En familie på fire ønsker ikke fire separate apps. De bedste apps til opbevaring af pas behandler hver person som sin egen profil med egne dokumenter, udløbsdatoer og påmindelser. Det lyder indlysende, men overraskende mange apps er bygget op omkring én enkelt persons dokumenter.
 
@@ -45,15 +47,15 @@ Det er kun sandt, hvis appen holder alt på enheden og bag en lås. Hver rejsend
 
 Har du reelt brug for et system til hele husstanden frem for en kortliste over apps, går vi mere i dybden med [hvordan du opbevarer flere familiemedlemmers pas sikkert](https://traveldocumentvault.com/da/blog/family-passport-management/) på den side.
 
-### Offline-adgang
+### Offline-adgang er ikke til forhandling
 
 Du har brug for dine pasoplysninger, netop når internetforbindelsen er upålidelig: ved internationale grænser, i transitzoner, på landet, eller efter du har mistet dit SIM-kort i udlandet. Kræver appen netværksforbindelse for at vise dine dokumenter, svigter den, lige når det betyder mest.
 
-### Understøttede dokumenttyper
+### En god app bør dække mere end blot pas
 
 Pas er det oplagte udgangspunkt, men en god app håndterer også visa (som udløber uafhængigt af dit pas), nationale ID-kort, rejseforsikring, vaccinationsbeviser, kørekort og – for familier – samtykkeerklæringer til børns rejser. Jo flere dokumenttyper appen understøtter, jo færre apps har du brug for.
 
-### Privatlivsmodel
+### En vag privatlivspolitik er en dealbreaker
 
 Før du downloader, bør du spørge, om appen kræver en konto, uploader scanninger til en server, eller har en klar privatlivspolitik, der oplyser, hvilke data den indsamler. Apps, der er gratis og finansieret af reklamer, er generelt uegnede til at opbevare identitetsdokumenter – i de tilfælde er det dine data, der er produktet.
 
@@ -72,7 +74,7 @@ Hvad det betyder i praksis
 
 Du står ved en grænseovergang, telefonen er offline, og grænsevagten beder om at se dine visumoplysninger. En app, der kræver internetforbindelse, svigter fuldstændig – du kan ikke tilgå dine dokumenter. En app med lokal lagring og ingen konto virker perfekt. Det er netop det øjeblik, appen skal virke.
 
-## Engangskøb versus abonnement
+## Tjek, hvad der sker med dine dokumenter, hvis et abonnement udløber
 
 Der er et praktisk argument for engangskøbsapps frem for abonnementer, når det gælder opbevaring af dokumenter. Glemmer du at forny et abonnement – eller vælger du blot at opsige det – mister du adgangen til dine gemte dokumenter. Det er en risikabel ordning for noget, du måske stadig har brug for om flere år.
 
@@ -97,6 +99,8 @@ Når du vurderer en app til opbevaring af pas, så stil dig selv disse ni spørg
 - Er dataene krypteret, når de ligger på enheden?
 
 Er svaret "ja" til alle ni, har du fat i en reelt troværdig app. For hvert "nej" må du selv vurdere, om den afvejning betyder noget for dig. For mere om organisering af dokumenter kan du se vores [blog](https://traveldocumentvault.com/da/) for tips til, hvad du bør gemme, og hvornår.
+
+Find den app, du faktisk overvejer, frem, og gå den igennem efter denne liste, før du scanner en eneste passide ind.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 

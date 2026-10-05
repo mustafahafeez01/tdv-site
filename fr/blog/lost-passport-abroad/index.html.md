@@ -24,7 +24,9 @@ Si vous lisez ceci avant votre voyage, consacrez les cinq prochaines minutes à 
 
 Lorsque vous arrivez à votre ambassade, ils vous demanderont votre numéro de passeport, la date de délivrance, le lieu de délivrance et la date d'expiration. Sans copie, vous essayez de mémoriser ces détails sous le stress. Avec une, vous les leur remettez en quelques secondes. **Le personnel consulaire délivre les documents de remplacement plus rapidement lorsque vous arrivez avec les détails déjà écrits.**
 
-Une copie sur votre téléphone est une trace et non une pièce d'identité, et les deux sont souvent confondues. Mieux vaut savoir à l'avance [où une copie numérique de passeport est acceptée et où l'original reste indispensable](https://traveldocumentvault.com/fr/blog/digital-passport-copy-valid/).
+Une copie sur votre téléphone est une trace et non une pièce d'identité.
+
+Mieux vaut savoir à l'avance [où une copie numérique de passeport est acceptée et où l'original reste indispensable](https://traveldocumentvault.com/fr/blog/digital-passport-copy-valid/).
 
 ## Étape 1 — Confirmez que le passeport a vraiment disparu
 
@@ -32,7 +34,7 @@ Vérifiez partout avant de supposer le pire — les poches de votre veste, chaqu
 
 ## Étape 2 — Déposez un rapport de police immédiatement
 
-Allez au poste de police le plus proche et signalez le passeport perdu ou volé. Vous en avez besoin pour votre demande à l'ambassade et votre réclamation d'assurance.
+Allez au poste de police le plus proche et signalez le passeport perdu ou volé. Vous en avez besoin pour votre demande à l'ambassade et votre réclamation d'assurance. Nous le ferions dans l'heure si possible, tant que les détails sont encore frais dans votre mémoire.
 
 Demandez une copie écrite avec un numéro de dossier. Demandez une version anglaise ou une traduction si possible. Prenez une photo et conservez plusieurs copies en sécurité.
 
@@ -60,7 +62,7 @@ Ce dont vous aurez généralement besoin (confirmez avec votre ambassade avant d
 - Preuve de voyage ultérieur — réservation de vol, confirmation d'hôtel
 - Frais de document d'urgence — ayez à la fois du liquide et une carte disponibles
 
-**Travel Document Vault** conserve une copie chiffrée de votre passeport sur votre téléphone — accessible sans Internet, sans connexion. C'est exactement ce que votre ambassade vous demandera. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** conserve une copie chiffrée de votre passeport sur votre téléphone — accessible sans Internet, sans connexion. Elle contient chaque détail du passeport figurant sur cette liste. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Étape 5 — Notifiez votre assureur voyage
 
@@ -78,7 +80,7 @@ Si vous perdez un passeport en Thaïlande qui contient un visa valide à entrée
 
 ## Étape 7 — Rentrez à la maison et remplacez votre passeport
 
-Une fois que vous avez votre document de voyage d'urgence, confirmez les exigences de sortie auprès de l'immigration locale si nécessaire, puis réservez ou confirmez votre voyage vers la maison. Une fois de retour — demandez un passeport de remplacement complet par l'intermédiaire de votre autorité de passeport officielle et établissez une sauvegarde numérique chiffrée de tous vos documents de voyage avant votre prochain voyage.
+Une fois que vous avez votre document de voyage d'urgence, confirmez les exigences de sortie auprès de l'immigration locale si nécessaire, puis réservez ou confirmez votre voyage vers la maison. Une fois de retour, demandez un passeport de remplacement complet par l'intermédiaire de votre autorité de passeport officielle, puis numérisez-le, avec le reste de vos documents de voyage, dans une sauvegarde chiffrée le jour même de sa réception.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 

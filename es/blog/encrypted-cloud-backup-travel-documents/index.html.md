@@ -38,7 +38,9 @@ Aquí está la parte que la mayoría de los artículos se saltan, y merece decir
 
 La consecuencia es inevitable. **Si pierdes ese código de recuperación, la copia de seguridad no podrá volver a abrirse nunca.** Ni tú, ni Apple o Google, ni nosotros. No hay enlace de restablecimiento, porque no hay cuenta a la que vincularlo. No hay ticket de soporte que lo recupere, porque nunca lo hemos tenido y no podemos siquiera adivinarlo.
 
-Suena duro escrito así, y merece la pena ser honestos al respecto en lugar de esconderlo en una pantalla de ajustes. Es la misma contrapartida que aceptas con la llave de tu casa: la cerradura solo vale la pena porque ningún cerrajero del mundo guarda una copia de repuesto, y por eso perder la tuya es problema tuyo. Una empresa que puede restaurar tus documentos después de que lo olvides todo es una empresa que podía leerlos desde el principio.
+Suena duro escrito así, y merece la pena ser honestos al respecto en lugar de esconderlo en una pantalla de ajustes. Es la misma contrapartida que aceptas con la llave de tu casa: la cerradura solo vale la pena porque ningún cerrajero del mundo guarda una copia de repuesto, y por eso perder la tuya es problema tuyo.
+
+Una empresa que puede restaurar tus documentos después de que lo olvides todo es una empresa que podía leerlos desde el principio.
 
 Así que trata el código como lo único que hay que hacer bien:
 
@@ -55,7 +57,7 @@ Una foto de tu pasaporte en una biblioteca de fotos normal o una carpeta sincron
 
 Una bóveda cifrada en el dispositivo antes de subirla llega como texto cifrado. Quien entre por la fuerza en la cuenta de la nube encuentra un archivo que no puede abrir. La protección viaja con el archivo, en lugar de depender de la cuenta donde termina.
 
-Por eso la versión honesta de «¿es segura la nube?» es esta: la nube es una dirección de entrega, no un modelo de seguridad. Lo que importa es el estado en el que llega el archivo. Nuestra [comparación de los principales lugares donde la gente guarda escaneos de pasaporte](https://traveldocumentvault.com/es/blog/safest-way-to-store-passport-digitally/) repasa las ventajas y desventajas de cada uno.
+Por eso la versión honesta de «¿es segura la nube?» es esta: la nube es una dirección de entrega, no un modelo de seguridad. Lo que importa es el estado en el que llega el archivo. Si tuviéramos que elegir una opción por defecto, elegiríamos la configuración que cifra el archivo antes de que salga del teléfono. Nuestra [comparación de los principales lugares donde la gente guarda escaneos de pasaporte](https://traveldocumentvault.com/es/blog/safest-way-to-store-passport-digitally/) repasa las ventajas y desventajas de cada uno.
 
 | Qué respaldas | Estado al llegar | Quién puede leerlo | Si la cuenta es vulnerada |
 |---|---|---|---|
@@ -72,7 +74,7 @@ Tres cosas se quedan deliberadamente en el teléfono, y el código de recuperaci
 
 Ese último punto sorprende a mucha gente, así que va la versión directa. **Una copia de seguridad del sistema del dispositivo reinstala la app pero no puede restaurar tus documentos.** La clave de cifrado nunca salió del teléfono anterior, así que el nuevo no tiene con qué descifrar nada. Si quieres que tu bóveda sobreviva al teléfono, necesitas tener activada la copia de seguridad en la nube o un archivo exportado guardado en algún lugar.
 
-## Restaurar en un Teléfono Nuevo
+## La Restauración Es Breve y No Sobrescribe Lo Que Ya Hay
 
 La restauración es breve, que es precisamente el objetivo de hacer la preparación con antelación.
 
@@ -80,7 +82,7 @@ Instala la app en el teléfono nuevo e inicia sesión con la misma cuenta de iCl
 
 La app también verifica antes de escribir. Si la copia de seguridad en la nube detecta una copia existente en esa cuenta, te pide que elijas entre restaurarla o empezar de cero. Un teléfono nuevo no puede sobrescribir en silencio lo que ya hay ahí.
 
-### Moverte Entre iPhone y Android
+### Moverte Entre iPhone y Android Significa Usar Exportar Bóveda
 
 La copia de seguridad en la nube se queda en una sola plataforma, porque usa tu propio iCloud en dispositivos Apple y tu propio Google Drive en Android. Pasar de una a otra necesita la otra vía.
 
@@ -98,9 +100,9 @@ Veinte minutos, una sola vez, antes del próximo viaje:
 - Exporta la bóveda una vez y guarda el archivo en un lugar que controles, como vía que no dependa de ninguna cuenta en la nube.
 - Comprueba que la app muestra una copia de seguridad reciente antes de volar, igual que comprobarías que los pasaportes están en la bolsa.
 
-Nada de esto es dramático, y esa es precisamente la idea. Las familias que salen bien paradas de un robo de teléfono en el extranjero casi nunca son las que reaccionaron de forma brillante. Son las que pasaron veinte minutos sin nada de especial en la mesa de la cocina quince días antes.
-
 Una última nota sobre las expectativas. La copia de seguridad es una capa de seguridad, y no garantiza nada: las cuentas en la nube se bloquean, los códigos se olvidan, los servicios de almacenamiento tienen días malos. Para los documentos que de verdad importan, conserva también algo independiente, ya sea una copia impresa en un cajón de casa o una segunda exportación en una unidad.
+
+Nada de esto es dramático, y esa es precisamente la idea. Las familias que salen bien paradas de un robo de teléfono en el extranjero casi nunca son las que reaccionaron de forma brillante. Son las que pasaron veinte minutos sin nada de especial en la mesa de la cocina quince días antes. Si todavía no lo has hecho, configura hoy tu copia de seguridad y anota dónde guardas el código de recuperación.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

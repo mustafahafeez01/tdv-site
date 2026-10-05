@@ -36,7 +36,7 @@ Cari tahu apakah kewarganegaraan Anda memerlukan visa untuk masuk, transit, atau
 
 Pesan asuransi perjalanan saat Anda memesan penerbangan, bukan seminggu sebelum keberangkatan. Asuransi yang diambil setelah Anda mengetahui suatu risiko tertentu bisa mengecualikan masalah spesifik itu. Pastikan polis mencakup semua pelancong, semua destinasi, dan aktivitas yang Anda rencanakan.
 
-## Tiga Bulan Sebelumnya: Jendela Perpanjangan dan Visa
+## Tiga Bulan Sebelumnya: Jika Perpanjangan atau Visa Sudah Dekat, Mulai Sekarang
 
 Pada titik ini Anda masih punya waktu untuk memperbaiki keadaan. Waktu pemrosesan berubah-ubah, dan setiap otoritas mempublikasikan angka terkininya sendiri: Departemen Luar Negeri AS, HM Passport Office, dan Kantor Paspor Australia. Selalu periksa situs resmi untuk waktu terkini sebelum mengajukan permohonan.
 
@@ -73,7 +73,9 @@ Untuk pelancong bisnis: jika Anda memegang dua paspor, konfirmasi paspor mana ya
 
 ## Malam Sebelumnya: Konfirmasi Terakhir
 
-Ini adalah konfirmasi, bukan penemuan baru. Jika ada yang hilang sekarang, Anda masih punya waktu berjam-jam untuk mengatasinya, bukan berminggu-minggu.
+Ini adalah konfirmasi, bukan penemuan baru.
+
+Jika ada yang hilang sekarang, Anda masih punya waktu berjam-jam untuk mengatasinya, bukan berminggu-minggu.
 
 ### Malam Sebelumnya
 
@@ -93,9 +95,9 @@ Sebelum meninggalkan rumah, foto setiap dokumen dan simpan di aplikasi terenkrip
 
 **Travel Document Vault** menyimpan salinan terenkripsi setiap dokumen dalam daftar ini, diatur per anggota keluarga, dengan pengingat kedaluwarsa otomatis. Pindai sekali, tak perlu panik mencari lagi. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
-## Daftar Periksa Berdasarkan Jenis Perjalanan
+## Bagaimana Daftar Dokumen Anda Berubah Menurut Jenis Perjalanan
 
-Perjalanan yang berbeda memerlukan kumpulan dokumen yang berbeda pula.
+Perjalanan yang berbeda memerlukan kumpulan dokumen yang berbeda pula, seperti yang ditunjukkan tabel di bawah untuk perjalanan solo, keluarga, dan bisnis.
 
 | Dokumen | Solo | Keluarga | Bisnis | Catatan |
 |---|---|---|---|---|
@@ -106,6 +108,8 @@ Perjalanan yang berbeda memerlukan kumpulan dokumen yang berbeda pula.
 | Surat izin anak | Tidak berlaku | ✅ jika berlaku | Tidak berlaku | Diperlukan di banyak negara jika satu orang tua tidak ikut |
 | Akta kelahiran | Tidak berlaku | ✅ jika diperlukan | Tidak berlaku | Beberapa negara mensyaratkan ini untuk anak di bawah 18 tahun |
 | Surat izin kerja | Tidak berlaku | Tidak berlaku | ✅ jika diperlukan | Beberapa destinasi mensyaratkan surat dari perusahaan untuk pelancong bisnis |
+
+Jika perjalanan sudah dipesan, satu hal yang layak dilakukan hari ini adalah mengeluarkan setiap paspor yang terlibat dan memeriksa tanggal kedaluwarsanya terhadap persyaratan negara tujuan, bukan hanya terhadap tanggal perjalanan Anda.
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 

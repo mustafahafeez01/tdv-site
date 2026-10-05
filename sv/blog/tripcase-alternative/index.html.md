@@ -20,7 +20,7 @@ TripCase tillbringade tolv år som resevärldens tysta arbetshäst. Vidarebeford
 
 Femton månader senare letar tidigare användare fortfarande efter en ersättning. Det ärliga svaret är att ingen enskild app ersätter den helt. Men den egentliga historien handlar inte om vilken app du ska välja – den handlar om var dina handlingar bör finnas.
 
-## TripCase: uppgången och nedstängningen
+## TripCase var standardvalet i åratal, sedan stängde Sabre ner den
 
 TripCase hade funnits sedan 2013, en gratis resekompanjon från Sabre Corporation, företaget som driver stora delar av världens bokningssystem för flygbolag och resebyråer. Tack vare den kopplingen dök resor ofta upp i appen automatiskt. I över ett decennium förlitade sig affärsresenärer och familjer på den för att samla flyg, hotell och hyrbilar i en kronologisk vy. Den var inte flashig, men den fungerade.
 
@@ -36,9 +36,11 @@ Kärnan var **parsning av bokningsmejl till resplaner** – vidarebefordra en be
 
 Flygen, hotellen och marktransporten levde alla i **resans tidslinje** – en skrollbar stapel per resa. Enkelt, men om du någonsin har jonglerat en flerstadsresa utifrån ett dussin bokningsmejl förstår du varför det spelade roll. I trådar på FlyerTalk och andra forum lyfter tidigare användare konsekvent fram **Document Vault** som den mest saknade delen – det enda säkra hemmet för boardingkort, visum, pass och bokningsbekräftelser. Slutligen lät **reseddelning** familjemedlemmar eller kollegor följa med utan vidarebefordrade mejl.
 
-## Den obekväma läxan
+## En molnapp håller dina data på någon annans klocka
 
-När du bygger upp ditt resande kring en gratis molnapp hyr du utrymme som ägaren kan ta tillbaka när som helst. TripCase fanns tillräckligt länge för att folk behandlade den som permanent infrastruktur och laddade upp flera års poster och handlingar utifrån antagandet att den alltid skulle finnas kvar. Sedan räknade Sabre på det, beslutade att appen inte var kärnverksamhet, och ett decenniums användardata försvann enligt ett schema som Sabre bestämde.
+När du bygger upp ditt resande kring en gratis molnapp hyr du utrymme som ägaren kan ta tillbaka när som helst.
+
+TripCase fanns tillräckligt länge för att folk behandlade den som permanent infrastruktur och laddade upp flera års poster och handlingar utifrån antagandet att den alltid skulle finnas kvar. Sedan räknade Sabre på det, beslutade att appen inte var kärnverksamhet, och ett decenniums användardata försvann enligt ett schema som Sabre bestämde.
 
 Inget av det här handlar om illvilja; det är helt enkelt hur affärsbeslut fungerar. Reseappar läggs ner regelbundet, gratisnivåer flyttas bakom betalväggar, och tjänster avvecklas. Personen som inte har något att säga till om tidpunkten är du.
 
@@ -70,9 +72,9 @@ Offline-first-förvaring tar bort alla tre riskerna på en gång. Handlingarna l
 
 Det rimliga svaret på TripCases kollaps är inte att överge molnverktyg helt; det är att lägga dem i lager. Behåll de bekväma molnapparna för planering och aviseringar, för de förtjänar sin plats, och håll handlingarna som definierar din reseidentitet offline där inget företagsbeslut kan nå dem.
 
-Börja med en enkel genomgång: var lever varje skanning av ditt pass, varje visum-PDF, varje barns ID just nu, och vad händer med den om tjänsten försvinner med 60 dagars varsel? Vår [checklista för resehandlingar](https://traveldocumentvault.com/sv/blog/travel-document-checklist/) är en praktisk startpunkt.
-
 TripCase är borta, och dess funktioner är utspridda över andra appar nu. Men det finns en läxa värd att ta med sig: dina resehandlingar bör inte försvinna med någon annans server.
+
+Börja med en enkel genomgång i dag: var lever varje skanning av ditt pass, varje visum-PDF, varje barns ID just nu, och vad händer med den om tjänsten försvinner med 60 dagars varsel? Vår [checklista för resehandlingar](https://traveldocumentvault.com/sv/blog/travel-document-checklist/) är en praktisk startpunkt.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 

@@ -22,9 +22,11 @@ Jeden Tag lassen sich verloren gegangene Pässe im Ausland ersetzen, und Botscha
 
 Wenn Sie dies vor Ihrer Reise lesen, verwenden Sie die nächsten fünf Minuten dafür. Machen Sie ein klares Foto der Hauptdatenseite jedes Passes, mit dem Sie reisen. Speichern Sie es in einer verschlüsselten App, die offline funktioniert – viel sicherer als Ihre Kamerarolle und vollständig privat.
 
-Wenn Sie bei Ihrer Botschaft ankommen, werden Sie nach Ihrer Passnummer, dem Ausstellungsdatum, dem Ausstellungsort und dem Ablaufdatum gefragt. Ohne eine Kopie müssen Sie diese unter Stress abrufen. Mit einer können Sie diese in Sekunden übergeben. **Konsulatsbeamte stellen Ersatzdokumente schneller aus, wenn Sie mit den Details bereits notiert ankommen.**
+Wenn Sie bei Ihrer Botschaft ankommen, werden Sie nach Ihrer Passnummer, dem Ausstellungsdatum, dem Ausstellungsort und dem Ablaufdatum gefragt. Ohne eine Kopie müssen Sie diese unter Stress abrufen. Mit einer können Sie diese in Sekunden übergeben. Konsulatsbeamte stellen Ersatzdokumente schneller aus, wenn Sie **mit den Details bereits notiert ankommen**.
 
-Eine Kopie auf Ihrem Telefon ist ein Nachweis, kein Ausweisdokument – die beiden werden leicht verwechselt. Es lohnt sich, vorab zu wissen, [wo eine digitale Passkopie akzeptiert wird und wo Sie weiterhin das Original benötigen](https://traveldocumentvault.com/de/blog/digital-passport-copy-valid/).
+Eine Kopie auf Ihrem Telefon ist ein Nachweis, kein Ausweisdokument.
+
+Es lohnt sich, vorab zu wissen, [wo eine digitale Passkopie akzeptiert wird und wo Sie weiterhin das Original benötigen](https://traveldocumentvault.com/de/blog/digital-passport-copy-valid/).
 
 ## Schritt 1: Bestätigen Sie, dass der Pass wirklich weg ist
 
@@ -32,7 +34,7 @@ Prüfen Sie überall, bevor Sie das Schlimmste annehmen – Jackentaschen, jedes
 
 ## Schritt 2: Erstatten Sie sofort eine Polizeianzeige
 
-Gehen Sie zur nächsten Polizeiwache und melden Sie den Pass als verloren oder gestohlen. Sie benötigen diesen Bericht sowohl für Ihren Botschaftsantrag als auch für Ihren Versicherungsanspruch.
+Gehen Sie zur nächsten Polizeiwache und melden Sie den Pass als verloren oder gestohlen. Sie benötigen diesen Bericht sowohl für Ihren Botschaftsantrag als auch für Ihren Versicherungsanspruch. Wir würden die Anzeige möglichst innerhalb einer Stunde erstatten, solange die Einzelheiten noch frisch in Erinnerung sind.
 
 Fragen Sie nach einer schriftlichen Kopie mit einem Aktenzeichen. Fragen Sie nach einer englischen Fassung oder Übersetzung, falls möglich. Machen Sie ein Foto davon und bewahren Sie mehrere Kopien sicher auf.
 
@@ -60,7 +62,7 @@ Was Sie normalerweise brauchen (bestätigen Sie dies mit Ihrer Botschaft, bevor 
 - Nachweis der weiteren Reise – Flugbuchung, Hotelbestätigung
 - Notfall-Dokumentgebühr – haben Sie sowohl Bargeld als auch Karte verfügbar
 
-**Travel Document Vault** speichert eine verschlüsselte Kopie Ihres Passes auf Ihrem Telefon – ohne Internet zugänglich, ohne Login. Das ist genau das, was Ihre Botschaft verlangen wird. [Im App Store laden.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** speichert eine verschlüsselte Kopie Ihres Passes auf Ihrem Telefon – ohne Internet zugänglich, ohne Login. Sie enthält jede Passangabe von dieser Liste. [Im App Store laden.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Schritt 5: Benachrichtigen Sie Ihren Reiseversicherer
 
@@ -78,7 +80,7 @@ Wenn Sie einen Pass in Thailand verlieren, der ein gültiges Mehrfach-Einreise-V
 
 ## Schritt 7: Gehen Sie nach Hause und ersetzen Sie Ihren Pass
 
-Sobald Sie Ihr Notfallreisedokument haben, bestätigen Sie die Ausreiseanforderungen mit der örtlichen Einwanderung falls nötig, buchen Sie dann um oder bestätigen Sie Ihre Heimreise. Wenn Sie zurück sind: Beantragen Sie einen vollständigen Passersatz durch Ihre offizielle Passbehörde und richten Sie vor Ihrer nächsten Reise ein verschlüsseltes digitales Backup aller Ihrer Reisedokumente ein.
+Sobald Sie Ihr Notfallreisedokument haben, bestätigen Sie die Ausreiseanforderungen mit der örtlichen Einwanderung falls nötig, buchen Sie dann um oder bestätigen Sie Ihre Heimreise. Sobald Sie zurück sind, beantragen Sie einen vollständigen Passersatz durch Ihre offizielle Passbehörde und scannen ihn gemeinsam mit Ihren übrigen Reisedokumenten noch am Tag seines Eintreffens in ein verschlüsseltes Backup.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 

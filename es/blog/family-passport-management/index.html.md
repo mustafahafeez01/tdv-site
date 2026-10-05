@@ -20,9 +20,11 @@ Cuando viajas con niños, realizar un seguimiento de cinco pasaportes entre los 
 
 ## Por Qué Las Familias Gestionan Mal Los Pasaportes
 
-El problema comienza de forma pequeña. Tienes tu propio pasaporte, tu pareja tiene el suyo. Entonces tienes hijos, y de repente tienes cuatro documentos separados con cuatro fechas de vencimiento diferentes. El cerebro humano no está construido para realizar un seguimiento de cuatro cronogramas de renovación diferentes, especialmente cuando la vida se pone ocupada. Una persona acaba asumiendo todo —generalmente la persona que ya está gestionando toda la otra logística del viaje— y ese único punto de fallo se convierte en un riesgo.
+El problema comienza de forma pequeña. Tienes tu propio pasaporte, tu pareja tiene el suyo. Entonces tienes hijos, y de repente tienes cuatro documentos separados con cuatro fechas de vencimiento diferentes. El cerebro humano no está construido para realizar un seguimiento de cuatro cronogramas de renovación diferentes, especialmente cuando la vida se pone ocupada.
 
-El segundo problema es que los pasaportes de los niños vencen mucho más rápido que los de los adultos. En Estados Unidos, los pasaportes de niños menores de 16 años duran 5 años, mientras que los pasaportes de adultos duran 10 años. Lo mismo se aplica en el Reino Unido —los documentos de los niños vencen después de 5 años, no 10. Esto significa que el pasaporte de tu hijo más joven a menudo se convierte en el factor limitante para los viajes familiares. Podrías tener un progenitor con 8 años de validez restante, pero si el pasaporte de tu hijo más joven vence en 18 meses, ese es tu horizonte de planificación.
+Normalmente una persona acaba encargándose de todo, a menudo quien ya gestiona el resto de la logística del viaje, y ese único punto de fallo se convierte en un riesgo.
+
+Los pasaportes de los niños también vencen mucho más rápido que los de los adultos. En Estados Unidos, los pasaportes de niños menores de 16 años duran 5 años, mientras que los pasaportes de adultos duran 10 años. Lo mismo se aplica en el Reino Unido —los documentos de los niños vencen después de 5 años, no 10. Esto significa que el pasaporte de tu hijo más joven a menudo se convierte en el factor limitante para los viajes familiares. Podrías tener un progenitor con 8 años de validez restante, pero si el pasaporte de tu hijo más joven vence en 18 meses, ese es tu horizonte de planificación.
 
 La mayoría de las familias no se dan cuenta de esto hasta que ya han reservado un viaje. Un progenitor encuentra los pasaportes una semana antes de la salida, escanéandolos apresuradamente mientras empacan, y descubre que el documento de un niño no cumplirá con la regla de validez de 6 meses para su destino. El viaje está ahora en riesgo, o requiere una renovación de pasaporte apresurada y costosa.
 
@@ -36,7 +38,7 @@ El almacenamiento cifrado es importante porque los pasaportes contienen tu nombr
 
 Una vez escaneadas, estas copias viven en tu bóveda cifrada —accesible en cualquier momento que necesites verificar una fecha de validez, demostrar que tienes documentos al reservar viajes, o proporcionar información de emergencia a un consulado si algo sale mal en el extranjero.
 
-## Configurar Perfiles Para Cada Miembro de la Familia
+## Un perfil por miembro de la familia, y una persona que lo mantiene al día
 
 En un sistema compartido, el registro de cada persona debe incluir sus documentos de viaje principales:
 
@@ -47,9 +49,9 @@ En un sistema compartido, el registro de cada persona debe incluir sus documento
 
 Generalmente una persona —el planificador del viaje— actúa como custodio del sistema, configurándolo y manteniéndolo actualizado. Pero debido a que todo está centralizado, cualquier miembro de la familia puede acceder a su propia información sin tener que preguntar, lo que importa cuando alguien está renovando su propio pasaporte y necesita confirmar una fecha de vencimiento.
 
-Cuando estás reservando un viaje, el primer paso se vuelve automático: inicia sesión en tu sistema, accede al perfil de cada miembro de la familia y verifica la fecha de validez contra los requisitos de tu destino. Haz esto antes de pagar los vuelos —nunca des por hecho que tendrás tiempo para resolver documentos expirados una vez que el viaje está pagado. Si el pasaporte de alguien está dentro de 12 meses del vencimiento, comienza el proceso de renovación inmediatamente en lugar de esperar poder apretujarlo después.
+Cuando estás reservando un viaje, el primer paso se vuelve automático: inicia sesión en tu sistema, accede al perfil de cada miembro de la familia y verifica la fecha de validez contra los requisitos de tu destino. Haz esto antes de pagar los vuelos, porque no tendrás tiempo para resolver documentos caducados una vez reservado el viaje. Si el pasaporte de alguien está dentro de 12 meses del vencimiento, comienza el proceso de renovación inmediatamente en lugar de esperar poder apretujarlo después.
 
-## Copias de Seguridad Físicas y Acceso de Emergencia
+## Guarda una copia física lejos de los originales
 
 El almacenamiento digital es conveniente, pero los dispositivos fallan y las apps pueden tener problemas. Cada familia debe mantener también una copia de seguridad física de las páginas de pasaporte esenciales —guarda una en una ubicación diferente de los originales.
 
@@ -59,7 +61,7 @@ Si quedas atrapado en el extranjero y necesitas reemplazar un pasaporte perdido 
 
 Para viajes internacionales, nunca lleves todos los pasaportes familiares juntos en la misma bolsa. Cada persona lleva su propio documento. Si tu equipaje de mano es robado en un aeropuerto, no has perdido cinco años de planificación. Solo el pasaporte de un miembro de la familia está en riesgo inmediato, y tienes copias digitales para probar el estado de todos los demás.
 
-## Pasaportes Duales y Familias Complejas
+## Con doble nacionalidad, el pasaporte adecuado depende de adónde vas
 
 Para familias donde uno o ambos progenitores tienen nacionalidad dual, el sistema se vuelve ligeramente más complejo pero más importante de gestionar cuidadosamente.
 
@@ -77,6 +79,8 @@ Más allá del pasaporte mismo, varios otros documentos merecen un lugar en tu s
 - **Licencias de conducir.** Si estás alquilando un auto, necesitarás licencias de conducir para todos los conductores en tu grupo. Estas también tienen fechas de vencimiento que pueden engañar a las familias.
 
 Mantén todos estos en un lugar accesible. El pánico de hurgar en tu teléfono o bolsa en el mostrador del aeropuerto, entreccerrando los ojos en fotos borrosas de páginas de visa —eso es exactamente lo que este sistema previene.
+
+Si todavía no lo has montado, empieza hoy: escanea la página de la foto de cada pasaporte de la casa, incluso los que aún tienen años de validez, y guarda las copias en un único lugar cifrado antes de reservar el próximo viaje.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

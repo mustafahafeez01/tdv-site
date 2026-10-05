@@ -40,7 +40,7 @@ The phrase comes out of Spanish and Portuguese. *Fecha de expedición* and *data
 
 All of them mean the same thing, and none of them mean expiry. If a form asks for an expedition date, it wants the earlier of your two dates.
 
-## The Date Format Is Built to Stop Exactly This
+## The Month Is Spelled Out to Prevent Date-Format Mix-Ups
 
 Look closely and you will notice that many passports do not print their dates as numbers alone. The month is generally given as letters rather than digits.
 
@@ -50,7 +50,7 @@ The ambiguity comes back the moment you transcribe the date into a form, because
 
 ## Four Passports, Four Different Clocks
 
-All of this multiplies quietly in a family. Passports tend to be issued when they are needed rather than together, so the issue dates in one house rarely line up, and the expiry dates do not either.
+Add a second or third passport to the mix, as most families do, and none of it lines up. Passports tend to be issued when they are needed rather than together, so the issue dates in one house rarely match, and the expiry dates do not either.
 
 Children make the spread wider. Most children’s passports run half the length of an adult’s, so a booklet issued in the same month as a parent’s runs out roughly five years earlier. Parents with years of validity in hand are the ones most likely to be caught by a child’s document, because there is no reason to think about it until a form asks. We go through how to keep a household’s worth of these straight in [managing several passports at once](https://traveldocumentvault.com/blog/family-passport-management/).
 
@@ -62,13 +62,17 @@ British passports issued more recently no longer carry those extra months, but o
 
 Schengen countries apply two separate tests to a non-EU passport at the border: it must have been issued less than ten years before the date you arrive, and it must stay valid for at least three months after you intend to leave. A booklet carrying nine extra months can satisfy the second test comfortably and fail the first, which is a difficult conversation to have at a desk in Madrid with a document that has not expired.
 
-Check both dates before a European trip, not just the one at the bottom.
+We’d check both dates before a European trip, not just the one at the bottom.
 
 ## Issuing Country and Issuing Authority Are Different Fields
 
 Near the top of the data page sits a three-letter code for the issuing country. Further down, usually in its own field, sits the issuing authority: the office or department that actually produced the booklet.
 
-The country matters more than people expect. It decides whose consular network you turn to when a passport is lost or stolen, and that is rarely the country you happen to be standing in. It also decides which entry rules apply to you, which is the whole reason dual nationals think carefully about which passport they present. If you want the practical version of that, we walk through it in [what to do when a passport goes missing abroad](https://traveldocumentvault.com/blog/lost-passport-abroad/).
+The country matters more than people expect. It decides whose consular network you turn to when a passport is lost or stolen.
+
+That is rarely the country you happen to be standing in.
+
+It also decides which entry rules apply to you, which is the whole reason dual nationals think carefully about which passport they present. If you want the practical version of that, we walk through it in [what to do when a passport goes missing abroad](https://traveldocumentvault.com/blog/lost-passport-abroad/).
 
 The authority field is mostly useful for forms. Some applications want it verbatim, some accept the country, and copying it exactly is faster than guessing.
 
@@ -78,15 +82,17 @@ A renewal generally issues a new number, and nothing already pointing at the old
 
 Visas already stamped or printed into the previous passport stay there, and flights booked before the renewal still carry the old number too. Airline loyalty profiles, trusted-traveller memberships and stored traveller details on booking sites all sit on whatever number was current when you filled them in.
 
-None of that is dramatic on its own. It becomes dramatic when a boarding pass and a passport disagree at a check-in desk, so it is worth a slow half hour after a renewal to update the handful of places that hold the number.
+None of that is dramatic on its own. It becomes dramatic when a boarding pass and a passport disagree at a check-in desk. It is worth a slow half hour after a renewal to update the handful of places that hold the number.
 
-## Where All of This Sits on the Page
+## The Data Page Is Standardised, but the Machine-Readable Zone Skips One Date
 
 The data page is the stiff laminated one carrying your photograph, and its layout is standardised internationally rather than invented by each country. That is why a passport from anywhere is legible to a border officer anywhere, and why once you can read one you can read all of them.
 
 The two lines of characters and chevrons across the bottom are the machine-readable zone. It restates some of the page above it in a form a scanner can take in one pass, though not all of it: the expiry date is in there, the issue date is not. Damage down there is treated far more seriously than a scuff on the cover. We cover where that line falls in [travelling with a damaged passport](https://traveldocumentvault.com/blog/damaged-passport-travel/).
 
 If the labels on your own data page are not in English, the geometry still helps: the two dates are printed together, in the same format, and the expiry date is the later of the two.
+
+Take five minutes today to find both dates on your own passport, and on each child’s if you’re travelling as a family, so you already know which is which before a form or a border asks.
 
 **Before you rely on this:** it’s a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 

@@ -30,7 +30,7 @@ A urgência com que precisa de agir determina o que fazer:
 - **A viagem está próxima:** ligue diretamente para a sua autoridade de passaportes em vez de confiar apenas no site — a linha de apoio do HM Passport Office no Reino Unido, ou o National Passport Information Center nos EUA.
 - **A viagem é iminente:** pergunte sobre uma consulta de emergência e traga prova das suas datas de viagem. O Reino Unido oferece um serviço Premium expedito em escritórios de passaportes designados, e os EUA oferecem consultas em agências de passaportes regionais.
 
-Todas as autoridades de passaportes principais retêm consultas de emergência que não são visíveis online. Se o seu cronograma é apertado, ligue em vez de confiar apenas no site.
+Todas as autoridades de passaportes principais retêm consultas de emergência que não são visíveis online. Se o seu cronograma é apertado, **nós ligaríamos sempre em vez de confiar apenas no site.**
 
 **Defina o lembrete agora** para que isto nunca mais aconteça — Travel Document Vault começa a notificá-lo a partir de oito meses antes de cada passaporte no seu agregado expirar, e novamente à medida que a data se aproxima. [Descarregue na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
@@ -52,7 +52,9 @@ Este cenário acontece mais vezes do que as pessoas esperam, e os passos não s�
 
 ## Outros Problemas de Passaporte Que Afastam Viajantes
 
-A expiração é a razão mais comum para um passaporte falhar no aeroporto, mas outros problemas causam o mesmo resultado. O que os torna mais fáceis de ignorar é que, ao contrário das datas de expiração, não vêm com um aviso de contagem regressiva visível.
+A expiração é a razão mais comum para um passaporte falhar no aeroporto, mas outros problemas causam o mesmo resultado.
+
+O que os torna mais fáceis de ignorar é que, ao contrário das datas de expiração, não vêm com um aviso de contagem regressiva visível.
 
 ### 1. Um passaporte danificado
 
@@ -68,7 +70,7 @@ Mesmo pequenas variações como um inicial de nome do meio em falta ou uma letra
 
 ### 3. Um passaporte não assinado
 
-A maioria dos passaportes tem um painel de assinatura. Alguns países — incluindo os Estados Unidos — exigem que o passaporte seja assinado antes de ser considerado válido para viagem. Um passaporte não assinado pode ser recusado na fronteira. Este é mais comumente um problema com passaportes emitidos para crianças que eram muito jovens para assinar, ou com passaportes novos que o detentor esqueceu de assinar antes de viajar. Verifique o painel de assinatura antes de sair de casa.
+A maioria dos passaportes tem um painel de assinatura. Alguns países — incluindo os Estados Unidos — exigem que o passaporte seja assinado antes de ser considerado válido para viagem. Um passaporte não assinado pode ser recusado na fronteira. Este é mais comumente um problema com passaportes emitidos para crianças que eram muito jovens para assinar, ou com passaportes novos que o detentor esqueceu de assinar antes de viajar. Uma vista de olhos ao painel de assinatura antes de sair de casa resolve isto a tempo.
 
 ### 4. Validade insuficiente para o seu destino
 
@@ -82,11 +84,11 @@ Os requisitos de visto e autorização electrónica de viagem (ETA) mudam freque
 
 Antes de cada viagem, verifique os requisitos de entrada oficiais para o seu destino usando o serviço de conselho de viagem do seu país: gov.uk/foreign-travel-advice para titulares de passaporte do Reino Unido, travel.state.gov para titulares de passaporte dos EUA, ou smartraveller.gov.au para titulares de passaporte australiano. Não confie no que era verdade última vez.
 
-## Como Garantir Que Isto Nunca Mais Acontece
+## Defina o Lembrete Com Um Ano de Antecedência, Não Seis Meses
 
 A causa raiz é normalmente a mesma: sem lembrete em lugar. Defina um lembrete de expiração pelo menos **12 meses antes da data de expiração** — não 6 meses. Isto dá-lhe tempo para renovar no processamento padrão sem pagar expedição, e sem o stress de um cronograma apertado.
 
-Faça isto para cada passaporte no seu agregado separadamente. Os passaportes infantis expiram mais rápido — 5 anos na maioria dos países versus 10 para adultos — e são os mais frequentemente omitidos.
+Faça isto para cada passaporte no seu agregado separadamente. Os passaportes infantis expiram mais rápido — 5 anos na maioria dos países versus 10 para adultos — e são os mais frequentemente omitidos. **Tire hoje todos os passaportes da gaveta e verifique a data de expiração, não apenas a página da fotografia.**
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

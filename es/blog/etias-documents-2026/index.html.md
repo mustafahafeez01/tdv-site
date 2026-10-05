@@ -12,9 +12,9 @@ Source: https://traveldocumentvault.com/es/blog/etias-documents-2026/
 
 - **ETIAS es una autorización de viaje digital** para viajeros del Reino Unido, EE.UU. y Canadá —necesaria para la entrada sin visado al espacio Schengen una vez que sea obligatoria
 - **Necesitas un pasaporte válido durante 3+ meses** después de tu fecha de salida y una dirección de correo electrónico para solicitar
-- **El tiempo de procesamiento varía,** especialmente poco después del lanzamiento; solicita con suficiente antelación a tu viaje y consulta el sitio oficial de la UE para la orientación actual
-- **Consulta la tarifa actual en el sitio oficial de la UE;** los menores de 18 y mayores de 70 no pagan pero igualmente necesitan autorización
-- **Los rechazos comunes ocurren por antecedentes penales no divulgados o estadías excesivas anteriores —planifica en consecuencia**
+- El tiempo de procesamiento varía, especialmente poco después del lanzamiento; **solicita con suficiente antelación a tu viaje** y consulta el sitio oficial de la UE para la orientación actual
+- Consulta la tarifa actual en el sitio oficial de la UE; **los menores de 18 y mayores de 70 no pagan** pero igualmente necesitan autorización
+- **Los rechazos comunes ocurren por antecedentes penales no divulgados o estadías excesivas anteriores, así que divulga todo, aunque sea antiguo**
 
 Has reservado un viaje familiar a Italia y has escuchado que ETIAS está en camino —un nuevo requisito de autorización digital para visitantes exentos de visado que se dirigen a Europa. Esta guía explica qué es ETIAS, qué documentos necesitas y cómo funciona la solicitud, para que estés preparado antes de llegar al formulario.
 
@@ -24,11 +24,11 @@ El Sistema Europeo de Información y Autorización de Viajes (ETIAS) no es un vi
 
 ETIAS es un sistema de autorización digital diseñado para fortalecer la seguridad fronteriza y la gestión de viajes en toda el área Schengen. Se aplica a ciudadanos de países exentos de visado —lo que significa que los nacionales de esos países actualmente pueden entrar a Europa sin visado para estancias cortas. Esto incluye al Reino Unido, EE.UU., Canadá, Australia, Nueva Zelanda y docenas de otros.
 
-Si posees un visado como un visado de larga duración Schengen, visado de familia del Reino Unido u otro permiso de residencia, no necesitarás ETIAS —tampoco lo harán los ciudadanos de la UE, nacionales noruegos, islandeses y de Liechtenstein. Los menores de 18 años y los mayores de 70 están exentos de la tarifa pero aún requieren autorización sin costo.
+Si posees un visado como un visado de larga duración Schengen, visado de familia del Reino Unido u otro permiso de residencia, no necesitarás ETIAS —tampoco lo harán los ciudadanos de la UE, nacionales noruegos, islandeses y de Liechtenstein. Los menores de 18 años y los mayores de 70 están exentos de la tarifa pero aún requieren autorización sin costo. Si tu familia combina personas con visado y pasaportes exentos de visado, plantéate ETIAS como una cuestión de cada persona, no de toda la reserva.
 
 **ETIAS afecta** a una amplia variedad de viajeros: turistas individuales, familias que solicitan por separado para cada miembro, y nómadas digitales que planean estancias cortas repetidas. Recuerda que cada persona de tu familia necesita su propia solicitud de ETIAS —incluidos los niños y las personas mayores, que necesitan autorización aunque estén exentos de la tarifa.
 
-## Documentos e Información Requeridos para Tu Solicitud
+## Revisa primero el margen de tres meses de tu pasaporte
 
 A diferencia de los visados tradicionales, ETIAS no requiere envío de documentos físicos —solicitas completamente en línea. Sin embargo, necesitarás tener información específica lista antes de comenzar el formulario de solicitud.
 
@@ -40,11 +40,11 @@ Durante la solicitud necesitarás proporcionar tu **historial de viajes**, inclu
 
 ETIAS te preguntará por **información de seguridad y personal** —tu nombre completo, fecha de nacimiento, lugar de nacimiento, nacionalidad y detalles de contacto— junto con preguntas sobre antecedentes penales o estadías excesivas anteriores de visado. La honestidad es absolutamente crítica en esta etapa, porque información falsa es motivo de rechazo permanente y puede desencadenar prohibiciones de deportación.
 
-Aunque es opcional, enviar **comprobante de ingresos** —como nóminas recientes, extractos bancarios o declaraciones de impuestos— vale la pena considerar, ya que la Comisión Europea no lo exige universalmente pero proporcionar prueba de estabilidad financiera puede fortalecer aplicaciones dudosas y reducir significativamente el riesgo de rechazo.
+Aunque es opcional, enviar **comprobante de ingresos** —como nóminas recientes, extractos bancarios o declaraciones de impuestos— vale la pena considerar, ya que la Comisión Europea no lo exige universalmente pero proporcionar prueba de estabilidad financiera puede fortalecer aplicaciones dudosas y reducir significativamente el riesgo de rechazo. Nosotros lo incluiríamos de todos modos si algo más de la solicitud te parece dudoso.
 
 Muchos solicitantes erróneamente asumen que necesitan registros de vacunación, reservas de hotel o confirmaciones de vuelos de regreso. ETIAS no requiere estos en la etapa de solicitud. Es posible que los necesites para inspección fronteriza, pero la aprobación de ETIAS no depende de ellos.
 
-## El Proceso de Solicitud de ETIAS: Paso a Paso
+## Indica en el formulario todos los países que piensas visitar
 
 Una vez que hayas recopilado tu información, la solicitud en línea es sencilla —visita el portal oficial de ETIAS e inicia una nueva solicitud— no necesitas una cuenta completa, solo una dirección de correo electrónico y una contraseña temporal.
 
@@ -56,9 +56,9 @@ Las declaraciones de salud son sencillas —se te preguntará si tienes enfermed
 
 Al final, revisas tu información, pagas la tarifa que se muestra al finalizar (gratuita si tienes menos de 18 o más de 70), y envías —en ese momento se genera un número de confirmación inmediatamente y tu solicitud entra en la cola de procesamiento.
 
-## Tiempo de Procesamiento y Tipos de Resultados
+## Solicita con la mayor antelación razonable
 
-La Comisión Europea publica orientación actualizada sobre el tiempo de procesamiento en su sitio oficial, y vale la pena consultarla antes de asumir que tienes tiempo de sobra. La alta demanda tras el lanzamiento, los posibles retrasos en las verificaciones de antecedentes y el tiempo para resolver un rechazo pueden alargar la espera, así que solicita con la mayor antelación razonable antes de tu viaje.
+La Comisión Europea publica orientación actualizada sobre el tiempo de procesamiento en su sitio oficial, y vale la pena consultarla antes de asumir que tienes tiempo de sobra. La alta demanda tras el lanzamiento, los posibles retrasos en las verificaciones de antecedentes y el tiempo para resolver un rechazo pueden alargar la espera, así que solicita con la mayor antelación razonable antes de tu viaje. Solicítalo en cuanto tengas cerradas las fechas del viaje, no la semana antes de la salida.
 
 Hay tres resultados posibles: aprobado, rechazado o rechazo de autorización.
 
@@ -68,7 +68,7 @@ Un **rechazo** típicamente proviene de información incompleta o inconsistente 
 
 Un **rechazo de autorización** es más serio, ocurriendo cuando las verificaciones de seguridad de ETIAS descubren antecedentes penales, estadías excesivas anteriores de Schengen u otras preocupaciones de seguridad. Aunque técnicamente puedes volver a solicitar inmediatamente si tus circunstancias cambian, la reaplicación exitosa es poco probable si el rechazo fue basado en seguridad, así que generalmente necesitarás solicitar un visado de larga duración a través de una embajada —los viajes sin visado a países Schengen están fuera de la mesa una vez que has sido rechazado.
 
-## Razones Comunes de Rechazo y Cómo Evitarlas
+## La mayoría de los rechazos se deben a incoherencias, no a mala suerte
 
 Los rechazos más frecuentes de ETIAS provienen de inconsistencias en el historial de viajes e información incompleta. Aquí están los principales escollos.
 
@@ -80,17 +80,19 @@ Los rechazos más frecuentes de ETIAS provienen de inconsistencias en el histori
 
 **Empleo o ingresos poco claros:** Señala cualquier brecha o inconsistencia —por ejemplo, si afirmas empleo pero tus fechas de viaje sugieren que estabas trabajando en el extranjero sin decirlo, o si tu historial de empleo tiene brechas inexplicables— usando la sección de notas opcional para aclarar. ETIAS no te rechazará por estar desempleado, pero las inconsistencias inexplicables despertarán sospecha.
 
-Para evitar rechazo, revisa tu información cuidadosamente tres veces antes de enviar, y si algo es incierto, usa el campo de notas opcional para explicar —una breve explicación honesta prevendrá rechazos mucho más efectivamente que intentar ocultar información.
+Para evitar rechazo, revisa tu información cuidadosamente tres veces antes de enviar, y si algo es incierto, usa el campo de notas opcional para explicar.
 
-## Casos Especiales: Niños, Grupos Familiares y Re-entrada Después de Rechazo
+Una explicación breve y honesta previene muchos más rechazos que intentar ocultar información.
+
+## Los niños también deben solicitarlo, aunque no paguen tarifa
 
 Los menores de 18 años no pagan la tarifa de ETIAS pero aún deben solicitar autorización, con los padres solicitando en su nombre —aunque como mejora futura, las verificaciones biométricas en la frontera pueden eventualmente requerir que los niños estén presentes en persona.
 
-Los grupos familiares deben enviar cada solicitud por separado en lugar de como una unidad "familiar" única, aunque puedes señalar que viajas como familia en la sección de detalles de viaje —esta notación puede ayudar si la solicitud de un miembro es marcada para revisión.
+Los grupos familiares deben enviar cada solicitud por separado en lugar de como una unidad "familiar" única, aunque puedes señalar que viajas como familia en la sección de detalles de viaje —esta notación puede ayudar si la solicitud de un miembro es marcada para revisión. Nosotros rellenaríamos los formularios de todos los miembros de la familia en la misma sesión, porque la nota familiar solo ayuda si los datos coinciden.
 
 Si eres rechazado y aún necesitas viajar, tu respuesta es solicitar un visado tradicional de larga duración a través de la embajada o consulado relevante, que típicamente permite múltiples entradas y estancias más largas que viajes sin visado. Dado que los requisitos varían significativamente según el destino y tu nacionalidad, contacta la embajada directamente para entender qué necesitarás.
 
-## ETIAS Junto con Otros Documentos de Viaje
+## Tu pasaporte y tu seguro siguen importando después de ETIAS
 
 La aprobación de ETIAS no reemplaza tu pasaporte, seguro de viaje, o [requisitos de validez del pasaporte](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/). Todavía necesitas:
 
@@ -100,7 +102,9 @@ La aprobación de ETIAS no reemplaza tu pasaporte, seguro de viaje, o [requisito
 - Comprobante de alojamiento o itinerario de viaje
 - Fondos suficientes para tu estancia
 
-Los oficiales de frontera aún pueden solicitar cualquiera de estos documentos a tu llegada, incluso con un ETIAS válido, ya que ETIAS simplemente acelera el proceso de autorización en lugar de eximirte de inspección fronteriza estándar e inspección de documentos.
+Los oficiales de frontera aún pueden solicitar cualquiera de estos documentos a tu llegada, incluso con un ETIAS válido, ya que ETIAS simplemente acelera el proceso de autorización en lugar de eximirte de inspección fronteriza estándar e inspección de documentos. Conviene recordarlo antes de dar por hecho que ETIAS por sí solo te abre la puerta.
+
+Lo práctico para hoy es sacar tu pasaporte y comprobarlo con la regla de validez que vimos arriba; todos los solicitantes necesitan resolver eso antes que cualquier otra cosa de esta lista.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

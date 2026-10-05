@@ -36,7 +36,7 @@ Find ud af, om dit statsborgerskab kræver visum til indrejse, transit, eller be
 
 Book rejseforsikring, når du booker flyrejser, ikke en uge før afrejse. Forsikring tegnet efter du allerede har identificeret en risiko, kan udelukke netop det problem. Sørg for, at policen dækker alle rejsende, alle destinationer, og de aktiviteter, I planlægger at lave.
 
-## Tre måneder før: fornyelses- og visumvinduer
+## Tre måneder før: er fornyelse eller visum tæt på, så start nu
 
 På dette tidspunkt har du stadig tid til at ordne tingene. Sagsbehandlingstider ændrer sig, og hver myndighed offentliggør sit eget aktuelle tal: det amerikanske udenrigsministerium, HM Passport Office, og den australske pasmyndighed. Tjek altid den officielle hjemmeside for aktuelle tider, før du ansøger.
 
@@ -73,7 +73,9 @@ For forretningsrejsende: hvis du har to pas, så bekræft, hvilket pas dit firma
 
 ## Aftenen før: den sidste bekræftelse
 
-Dette er bekræftelser, ikke opdagelser. Hvis noget mangler nu, har du timer til at ordne det, ikke uger.
+Dette er bekræftelser, ikke opdagelser.
+
+Hvis noget mangler nu, har du timer til at ordne det, ikke uger.
 
 ### Aftenen før
 
@@ -93,9 +95,9 @@ Før du forlader hjemmet, så tag et billede af hvert dokument, og gem det i en 
 
 **Travel Document Vault** gemmer krypterede kopier af hvert dokument på denne liste, organiseret pr. familiemedlem, med automatiske påmindelser om udløb. Scan én gang, og undgå panik i sidste øjeblik igen. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
-## Tjekliste efter rejsetype
+## Sådan ændrer din dokumentliste sig efter rejsetype
 
-Forskellige rejser kræver forskellige sæt dokumenter.
+Forskellige rejser kræver forskellige sæt dokumenter, som tabellen herunder viser for solo-, familie- og forretningsrejser.
 
 | Dokument | Solo | Familie | Forretning | Noter |
 |---|---|---|---|---|
@@ -106,6 +108,8 @@ Forskellige rejser kræver forskellige sæt dokumenter.
 | Samtykkebrev til børn | N/A | ✅ hvis relevant | N/A | Kræves i mange lande, hvis en forælder mangler |
 | Fødselsattester | N/A | ✅ hvis krævet | N/A | Nogle lande kræver dette for børn under 18 |
 | Arbejdstilladelsesbrev | N/A | N/A | ✅ hvis krævet | Nogle destinationer kræver arbejdsgiverbreve til forretningsrejsende |
+
+Er en rejse allerede booket, er det ene, der er værd at gøre i dag, at tage hvert pas frem og tjekke udløbsdatoen mod destinationens krav, ikke kun mod dine rejsedatoer.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 

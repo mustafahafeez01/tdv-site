@@ -22,7 +22,9 @@ O pessoal de check-in das companhias aéreas e os agentes de fronteira reparam d
 
 Duas pessoas diferentes examinam os mesmos documentos por dois motivos diferentes, e sabê-lo evita confusões ao balcão. O pessoal do check-in não decide se o seu filho poderá entrar no país de destino. Verifica se a companhia aérea tem confiança de que será admitido, porque, segundo acordos de longa data entre companhias aéreas e governos, uma companhia aérea pode ser responsabilizada por trazer de volta um passageiro a quem o destino depois recusa a entrada. É por isso que o pessoal de check-in por vezes pergunta mais do que o agente de fronteira acaba por perguntar: está a proteger a companhia aérea da sua própria responsabilidade.
 
-O agente de fronteira que encontra depois de aterrar toma uma decisão totalmente independente, sem ligação com o que a companhia aérea decidiu antes. Alguns países repetem o controlo também na saída, não só na entrada, por isso uma chegada sem incidentes nada garante sobre como correrá o controlo de saída duas semanas depois. Satisfazer um não vincula o outro, e isto é o mais útil a compreender antes de viajar com uma criança sendo o único adulto na sua fila.
+O agente de fronteira que encontra depois de aterrar toma uma decisão totalmente independente, sem ligação com o que a companhia aérea decidiu antes. Alguns países repetem o controlo também na saída, não só na entrada, por isso uma chegada sem incidentes nada garante sobre como correrá o controlo de saída duas semanas depois.
+
+Satisfazer um não vincula o outro.
 
 ## Viaja Um Só Progenitor: Comece Pela Carta de Consentimento
 
@@ -36,7 +38,7 @@ A guarda exclusiva altera qual o documento que importa, em vez de eliminar a nec
 
 Viaje com a decisão, ou com uma cópia certificada desta. De nada serve guardada numa gaveta em casa. Os agentes que perguntam procuram normalmente uma resposta simples a uma única questão: se este adulto tem a autoridade legal para tomar esta decisão por esta criança. Uma cópia certificada responde a isso em segundos, e se a sua situação de guarda mudou recentemente, vale a pena verificar se o seu destino espera uma cópia mais recente do que a que tem usado há anos.
 
-## Quando o Outro Progenitor Faleceu
+## Quando o Outro Progenitor Faleceu: a Certidão de Óbito Substitui a Carta
 
 Não há carta de consentimento para escrever quando o outro progenitor faleceu, e nenhum agente de fronteira espera uma. O que leva em vez disso é uma cópia da certidão de óbito, que responde à pergunta a que uma carta de consentimento responderia de outra forma: porque é que só está presente um progenitor.
 
@@ -46,13 +48,13 @@ A resposta prática mantém-se curta: um documento, guardado à mão, e um proce
 
 Esta é a nossa leitura do que as companhias aéreas e os agentes de fronteira pedem com mais frequência, não uma lista legal. Os requisitos variam consoante o destino e a transportadora, por isso confirme junto das autoridades de imigração do seu destino e da sua companhia aérea antes de viajar.
 
-## Um Apelido Diferente do Seu Filho
+## Um Apelido Diferente do Seu Filho: a Certidão de Nascimento Costuma Resolver
 
 Um apelido que não corresponde ao do seu filho é comum e raramente causa problemas assim que tem o documento certo à mão, embora valha a pena levá-lo em vez de esperar que ninguém pergunte. Casamento, divórcio, novo casamento, ou simplesmente a escolha de não partilhar apelido à nascença, são todas razões comuns para esse desfasamento, e um agente que pergunta está normalmente a seguir a mesma lista mental curta, sem suspeitar de nada em particular.
 
 A certidão de nascimento completa do seu filho, a que o nomeia como progenitor, resolve a questão mais depressa do que tudo o resto. Se o seu próprio nome mudou desde que essa certidão foi emitida, uma certidão de casamento ou divórcio faz a ligação entre o nome do seu passaporte e o do seu filho. Leve ambas mesmo para uma viagem habitual a um sítio que já visitou antes, porque o mesmo desfasamento que um dia passa sem qualquer problema pode originar uma conversa mais longa da próxima vez, consoante o agente que estiver de serviço nesse dia.
 
-## Avós, Familiares e Tutores: Nenhum Progenitor Viaja
+## Avós, Familiares e Tutores: Normalmente Ambos os Progenitores Precisam de Consentir
 
 Quando um avô, avó, tia, tio ou amigo da família viaja com uma criança e nenhum dos dois progenitores vai na viagem, os documentos necessários aumentam, porque a maioria dos países espera prova de que ambos os progenitores, ou ambos os tutores legais, deram o seu consentimento, não apenas um. O formato é o mesmo da [carta de consentimento](https://traveldocumentvault.com/pt/blog/child-travel-consent-letter/) que explicamos em detalhe noutro guia, mas aqui normalmente precisa da assinatura de ambos os progenitores em vez de apenas um, juntamente com os contactos de cada um.
 
@@ -66,7 +68,7 @@ Se aparecer um número de telefone numa carta de consentimento ou numa decisão 
 
 ## Um Conjunto de Documentos Para Cada Situação
 
-Cada situação acima precisa do seu próprio pequeno conjunto de documentos, e é fácil perder a noção de qual documento corresponde a qual viagem depois de as circunstâncias de uma família terem mudado mais do que uma vez. Use isto como ponto de partida, e não como substituto de verificar os requisitos próprios do seu destino, o que vale a pena fazer sempre, em vez de presumir que a viagem do ano passado ainda se aplica.
+Cada situação acima precisa do seu próprio pequeno conjunto de documentos, e é fácil perder a noção de qual documento corresponde a qual viagem depois de as circunstâncias de uma família terem mudado mais do que uma vez. Use isto como ponto de partida, e não como substituto de verificar os requisitos próprios do seu destino, o que vale a pena fazer sempre, em vez de presumir que a viagem do ano passado ainda se aplica, e se alguma vez tiver dúvidas sobre qual conjunto se ajusta ao seu caso, nós levaríamos o documento a mais em vez de o deixar para trás.
 
 | Situação | Documentos a levar |
 |---|---|
@@ -76,7 +78,7 @@ Cada situação acima precisa do seu próprio pequeno conjunto de documentos, e 
 | Apelido diferente do da criança | Certidão de nascimento completa da criança, certidão de casamento ou divórcio se aplicável |
 | Viaja um avô, familiar ou tutor, nenhum progenitor está presente | Carta de consentimento assinada por ambos os progenitores ou tutores, certidão de nascimento da criança |
 
-Seja qual for o conjunto que se aplica à sua família, o problema prático é o mesmo: mantê-lo junto, mantê-lo atualizado, e conseguir encontrá-lo no balcão de check-in em vez de no fundo de uma mala. A nossa [lista de verificação de documentos de viagem](https://traveldocumentvault.com/pt/blog/travel-document-checklist/) cobre o que levar para além desta situação específica, e o nosso guia para [organizar os documentos de viagem da família](https://traveldocumentvault.com/pt/blog/how-to-organise-family-travel-documents/) explica como manter organizados os documentos de cada membro da família entre viagens, não só o que está a preparar agora.
+A nossa[lista de verificação de documentos de viagem](https://traveldocumentvault.com/pt/blog/travel-document-checklist/) cobre o que levar para além desta situação específica, e o nosso guia para [organizar os documentos de viagem da família](https://traveldocumentvault.com/pt/blog/how-to-organise-family-travel-documents/) explica como manter organizados os documentos de cada membro da família entre viagens, não só o que está a preparar agora. Seja qual for o conjunto que se aplica à sua família, reúna-o hoje: junte cada documento da tabela acima à certidão de nascimento do seu filho e guarde o conjunto completo num só sítio antes de a próxima viagem ficar reservada.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

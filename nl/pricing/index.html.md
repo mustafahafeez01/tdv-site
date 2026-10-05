@@ -114,7 +114,7 @@ Geen tijdslimieten. Geen functies die mysterieus verdwijnen. Geen donkere patron
 
 ## Wat Pro toevoegt
 
-Pro is voor gezinnen. Onbeperkte profielen voor uw hele gezin, onbeperkte documenten, reisplanner met een visuele gereedheidschecklist, versleutelde cloudback-up naar uw eigen iCloud of Google Drive en een aantal-dagen-buiten-tracker voor Schengen-limieten en belastingresidentie-tracking.
+Pro is voor gezinnen. Onbeperkte profielen voor uw hele gezin, onbeperkte documenten, reisplanner met een visuele gereedheidschecklist, versleutelde cloudback-up naar uw eigen iCloud of Google Drive en een aantal-dagen-buiten-tracker voor daglimieten per land en belastingresidentie-tracking.
 
 Eénmalige aankoop op uw account. Eén gezin. Werkt op al uw apparaten.
 

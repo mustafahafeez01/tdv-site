@@ -20,7 +20,7 @@ Le fichier exporté est chiffré avec la même sécurité que votre coffre-fort 
 
 ### Ouvrir les paramètres et accéder à l'exportation
 
-Lancez Travel Document Vault et appuyez sur l'icône Paramètres (symbole d'engrenage) en bas de l'écran. Faites défiler jusqu'à la section Sauvegarde et données. Appuyez sur Exporter le coffre-fort.
+Lancez Travel Document Vault et appuyez sur l'icône Paramètres (symbole d'engrenage) en bas de l'écran. Faites défiler jusqu'à la section Sauvegarde et données. Appuyez sur Exporter le coffre.
 
 2
 
@@ -48,9 +48,9 @@ Si vous importez sur un appareil différent, rendez le fichier exporté accessib
 
 6
 
-### Sur l'appareil cible, ouvrez les paramètres et appuyez sur Importer le coffre-fort
+### Sur l'appareil cible, ouvrez les paramètres et appuyez sur Importer une sauvegarde
 
-Lancez Travel Document Vault sur l'appareil où vous souhaitez importer. Allez dans les paramètres, faites défiler jusqu'à Sauvegarde et données, et appuyez sur Importer le coffre-fort. L'application vous demande de sélectionner le fichier de sauvegarde exporté (.tdvault).
+Lancez Travel Document Vault sur l'appareil où vous souhaitez importer. Allez dans les paramètres, faites défiler jusqu'à Sauvegarde et données, et appuyez sur Importer une sauvegarde. L'application vous demande de sélectionner le fichier de sauvegarde exporté (.tdvault).
 
 7
 
@@ -62,11 +62,11 @@ Accédez à l'emplacement où vous avez enregistré le fichier du coffre-fort ex
 
 ### Vérifier que toutes les données sont présentes
 
-Après l'importation, vérifiez l'onglet Profils pour confirmer que tous les profils apparaissent. Ouvrez quelques documents pour vérifier que les pièces jointes sont intactes. Le processus d'importation est non destructif et fusionne avec les données existantes.
+Après l'importation, vérifiez l'onglet Profils pour confirmer que tous les profils apparaissent. Ouvrez quelques documents pour vérifier que les pièces jointes sont intactes. Le processus d'importation remplace toutes les données existantes sur cet appareil.
 
 ### Remarques importantes
 
-- **Non destructif :** L'importation s'ajoute à vos données existantes. Si vous avez déjà des profils sur l'appareil cible, les profils importés sont ajoutés sans supprimer les profils existants.
+- **Remplace les données existantes :** L'importation efface d'abord ce qui se trouve sur l'appareil cible. Si vous avez déjà des profils sur l'appareil cible, exportez-les avant d'importer.
 - **Fidélité de l'aller-retour :** Tout est préservé exactement : noms de documents, dates, alertes d'expiration, couleurs personnalisées, pièces jointes et notes.
 - **Chiffrement continu :** Le fichier exporté est chiffré avec le mot de passe que vous choisissez lors de l'exportation, à l'aide du chiffrement AES-256-GCM et d'une dérivation de clé PBKDF2. Seul ce mot de passe permet de le déchiffrer, alors conservez-le en lieu sûr — sans lui, le fichier ne peut pas être récupéré.
 - **Bonne pratique de sauvegarde :** Conservez votre fichier exporté dans un endroit sécurisé. Supprimez-le après une importation réussie si vous préférez, ou conservez-le comme sauvegarde hors ligne.

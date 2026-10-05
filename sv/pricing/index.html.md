@@ -116,7 +116,7 @@ Inga tidsbegränsningar. Inga funktioner som på ett misteröst sätt försvinne
 
 ## Vad Pro lägger till
 
-Pro är för familjer. Obegränsade profiler för din hela familj, obegränsade dokument, reseplaneringsprogram med en visuell beredskapschecklista, krypterad molnsäkerhetskopia till ditt eget iCloud eller Google Drive och en dagar-utomlands-spårare för Schengen-gränser och skattemässig bosättningsspårning.
+Pro är för familjer. Obegränsade profiler för din hela familj, obegränsade dokument, reseplaneringsprogram med en visuell beredskapschecklista, krypterad molnsäkerhetskopia till ditt eget iCloud eller Google Drive och en dagar-utomlands-spårare för dagsgränser per land och skattemässig bosättningsspårning.
 
 Ett köp på ditt konto. En familj. Fungerar på alla dina enheter.
 

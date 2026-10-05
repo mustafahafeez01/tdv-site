@@ -20,7 +20,7 @@ Il file esportato è crittografato con la stessa sicurezza del Vault locale. Sol
 
 ### Aprire Impostazioni e navigare verso Esporta
 
-Avvia Travel Document Vault e tocca l'icona Impostazioni (simbolo dell'ingranaggio) in fondo allo schermo. Scorri verso il basso finché non visualizzi la sezione Backup e Dati. Tocca Esporta Vault.
+Avvia Travel Document Vault e tocca l'icona Impostazioni (simbolo dell'ingranaggio) in fondo allo schermo. Scorri verso il basso finché non visualizzi la sezione Backup e dati. Tocca Esporta vault.
 
 2
 
@@ -48,9 +48,9 @@ Se sta importando su un dispositivo diverso, renda il file esportato accessibile
 
 6
 
-### Sul dispositivo di destinazione, aprire Impostazioni e toccare Importa Vault
+### Sul dispositivo di destinazione, aprire Impostazioni e toccare Importa backup
 
-Avvii Travel Document Vault sul dispositivo in cui desidera importare. Vada a Impostazioni, scorra verso il basso fino a Backup e Dati e tocchi Importa Vault. L'app Le chiede di selezionare il file di backup esportato (.tdvault).
+Avvii Travel Document Vault sul dispositivo in cui desidera importare. Vada a Impostazioni, scorra verso il basso fino a Backup e dati e tocchi Importa backup. L'app Le chiede di selezionare il file di backup esportato (.tdvault).
 
 7
 
@@ -62,11 +62,11 @@ Naviga verso il file del Vault esportato, selezionalo e conferma. L'app decripta
 
 ### Verificare che tutti i dati siano presenti
 
-Dopo l'importazione, controlla la scheda Profili per confermare che tutti i profili siano visualizzati. Apri alcuni documenti per verificare che gli allegati siano intatti. Il processo di importazione è non-distruttivo e si unisce ai dati esistenti.
+Dopo l'importazione, controlla la scheda Profili per confermare che tutti i profili siano visualizzati. Apri alcuni documenti per verificare che gli allegati siano intatti. Il processo di importazione sostituisce tutti i dati esistenti su questo dispositivo.
 
 ### Note importanti
 
-- **Non-distruttivo:** L'importazione si aggiunge ai dati esistenti. Se hai già profili sul dispositivo di destinazione, i profili importati vengono aggiunti senza eliminare quelli esistenti.
+- **Sostituisce i dati esistenti:** L'importazione cancella prima ciò che si trova sul dispositivo di destinazione. Se hai già profili sul dispositivo di destinazione, esportali prima di importare.
 - **Fedeltà round-trip:** Tutto è preservato esattamente: nomi dei documenti, date, avvisi di scadenza, colori personalizzati, allegati e note.
 - **Crittografato in tutto:** Il file esportato è crittografato con la password che scegli al momento dell'esportazione, tramite AES-256-GCM con derivazione della chiave PBKDF2. Solo quella password può decifrarlo, quindi conservala in un luogo sicuro — senza di essa il file non può essere recuperato.
 - **Migliore pratica di backup:** Mantieni il file esportato in una posizione sicura. Eliminalo dopo un'importazione riuscita se preferisci, o conservalo come backup offline.

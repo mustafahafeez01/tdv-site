@@ -22,7 +22,7 @@ Check-in-Personal von Fluggesellschaften und Grenzbeamte schauen bei einem Kind,
 
 Zwei verschiedene Personen prüfen dieselben Unterlagen aus zwei verschiedenen Gründen, und das zu wissen erspart Verwirrung am Schalter. Das Check-in-Personal entscheidet nicht, ob Ihr Kind in das Zielland einreisen darf. Es prüft, ob die Fluggesellschaft zuversichtlich ist, dass Sie eingelassen werden, denn nach langjährigen Vereinbarungen zwischen Fluggesellschaften und Regierungen kann eine Fluggesellschaft dafür haftbar gemacht werden, einen Passagier zurückzufliegen, dem das Zielland später die Einreise verweigert. Deshalb fragt das Check-in-Personal manchmal mehr als der Grenzbeamte es letztlich tut: Es schützt die Fluggesellschaft vor ihrer eigenen Haftung.
 
-Der Grenzbeamte, dem Sie nach der Landung begegnen, trifft eine völlig eigenständige Entscheidung, unabhängig davon, was die Fluggesellschaft zuvor entschieden hat. Manche Länder wiederholen die Prüfung auch bei der Ausreise, nicht nur bei der Einreise, sodass eine reibungslose Ankunft nichts darüber aussagt, wie die Ausreisekontrolle zwei Wochen später verläuft. Die Erfüllung der einen Prüfung bindet die andere nicht, und das ist das Wichtigste, was Sie verstehen sollten, bevor Sie mit einem Kind reisen und nur ein Erwachsener in Ihrer Reihe sitzt.
+Der Grenzbeamte, dem Sie nach der Landung begegnen, trifft eine völlig eigenständige Entscheidung, unabhängig davon, was die Fluggesellschaft zuvor entschieden hat. Manche Länder wiederholen die Prüfung auch bei der Ausreise, nicht nur bei der Einreise, sodass eine reibungslose Ankunft nichts darüber aussagt, wie die Ausreisekontrolle zwei Wochen später verläuft. Die Erfüllung der einen Prüfung bindet die andere nicht.
 
 ## Reist ein Elternteil allein: Beginnen Sie mit der Einverständniserklärung
 
@@ -36,7 +36,7 @@ Alleiniges Sorgerecht ändert, welches Dokument zählt, statt die Notwendigkeit 
 
 Reisen Sie mit dem Beschluss oder einer beglaubigten Kopie davon. In einem Aktenordner zu Hause nützt er nichts. Beamte, die nachfragen, suchen meist eine einfache Antwort auf eine Frage: Hat dieser Erwachsene die rechtliche Befugnis, diese Entscheidung für dieses Kind zu treffen. Eine beglaubigte Kopie beantwortet das in Sekunden, und wenn sich Ihre Sorgerechtsregelung kürzlich geändert hat, lohnt es sich zu prüfen, ob Ihr Reiseziel eine aktuellere Kopie erwartet als die, die Sie seit Jahren mit sich führen.
 
-## Wenn der andere Elternteil verstorben ist
+## Wenn der andere Elternteil verstorben ist: Die Sterbeurkunde ersetzt die Erklärung
 
 Es gibt keine Einverständniserklärung zu schreiben, wenn der andere Elternteil verstorben ist, und kein Grenzbeamter erwartet eine. Was Sie stattdessen mitführen, ist eine Kopie der Sterbeurkunde, die die Frage beantwortet, die eine Einverständniserklärung sonst beantworten würde: warum nur ein Elternteil hier ist.
 
@@ -46,13 +46,13 @@ Die praktische Antwort bleibt kurz: ein Dokument, griffbereit aufbewahrt, und ei
 
 Das ist unsere Einschätzung dessen, was Fluggesellschaften und Grenzbeamte am häufigsten verlangen, keine rechtliche Checkliste. Die Anforderungen unterscheiden sich je nach Zielland und Fluggesellschaft – prüfen Sie daher vor der Reise die Angaben der Einwanderungsbehörde Ihres Ziellandes und Ihrer Fluggesellschaft.
 
-## Ein anderer Nachname als der Ihres Kindes
+## Ein anderer Nachname als der Ihres Kindes: Die Geburtsurkunde klärt das meist
 
 Ein Nachname, der nicht zu dem Ihres Kindes passt, ist üblich und verursacht selten Probleme, sobald Sie das richtige Dokument zur Hand haben, auch wenn es sich lohnt, es mitzuführen, statt zu hoffen, dass niemand fragt. Heirat, Scheidung, Wiederverheiratung oder schlicht die Entscheidung, bei der Geburt keinen gemeinsamen Nachnamen zu tragen, sind alles gewöhnliche Gründe für diese Abweichung, und ein Beamter, der danach fragt, arbeitet meist dieselbe kurze gedankliche Checkliste ab, statt irgendetwas Bestimmtes zu vermuten.
 
 Die vollständige Geburtsurkunde Ihres Kindes, die Sie als Elternteil nennt, klärt die Frage am schnellsten. Hat sich Ihr eigener Name seit Ausstellung dieser Urkunde geändert, überbrückt eine Heirats- oder Scheidungsurkunde die Lücke zwischen dem Namen in Ihrem Reisepass und dem Namen Ihres Kindes. Nehmen Sie beide auch für eine gewöhnliche Reise an einen bereits besuchten Ort mit, denn dieselbe Abweichung, die bei einem Besuch einfach durchgewunken wird, kann beim nächsten Mal ein längeres Gespräch auslösen, je nachdem, welcher Beamte an diesem Tag Dienst hat.
 
-## Großeltern, Verwandte und Vormünder: Kein Elternteil reist mit
+## Großeltern, Verwandte und Vormünder: Meist braucht es die Zustimmung beider Elternteile
 
 Wenn ein Großelternteil, eine Tante, ein Onkel oder ein Familienfreund mit einem Kind reist und keiner der beiden Elternteile mit von der Partie ist, werden die Unterlagen umfangreicher, denn die meisten Länder erwarten den Nachweis, dass beide Elternteile oder beide gesetzlichen Vormünder der Reise zugestimmt haben, nicht nur einer. Das Format entspricht dem gleichen [Einverständnisschreiben](https://traveldocumentvault.com/de/blog/child-travel-consent-letter/), das wir an anderer Stelle ausführlich behandeln, hier braucht es jedoch üblicherweise die Unterschrift beider Elternteile statt nur einer, zusammen mit den Kontaktdaten beider.
 
@@ -66,7 +66,7 @@ Steht eine Telefonnummer auf einer Einverständniserklärung oder einem Sorgerec
 
 ## Ein Bündel pro Situation
 
-Jede der oben genannten Situationen braucht ihr eigenes kleines Bündel an Unterlagen, und es ist leicht, den Überblick zu verlieren, welches Dokument zu welcher Reise gehört, sobald sich die Umstände einer Familie mehr als einmal geändert haben. Nutzen Sie dies als Ausgangspunkt und nicht als Ersatz für die Prüfung der eigenen Anforderungen Ihres Reiseziels, was sich jedes Mal lohnt, statt anzunehmen, dass die Reise vom letzten Jahr noch gilt.
+Jede der oben genannten Situationen braucht ihr eigenes kleines Bündel an Unterlagen, und es ist leicht, den Überblick zu verlieren, welches Dokument zu welcher Reise gehört, sobald sich die Umstände einer Familie mehr als einmal geändert haben. Nutzen Sie dies als Ausgangspunkt und nicht als Ersatz für die Prüfung der eigenen Anforderungen Ihres Reiseziels, was sich jedes Mal lohnt, statt anzunehmen, dass die Reise vom letzten Jahr noch gilt, und wenn Sie je unsicher sind, welches Bündel passt, würden wir das zusätzliche Dokument lieber mitnehmen, als es zurückzulassen.
 
 | Situation | Mitzuführende Unterlagen |
 |---|---|
@@ -76,7 +76,7 @@ Jede der oben genannten Situationen braucht ihr eigenes kleines Bündel an Unter
 | Anderer Nachname als das Kind | Vollständige Geburtsurkunde des Kindes, gegebenenfalls Heirats- oder Scheidungsurkunde |
 | Großelternteil, Verwandter oder Vormund reist, kein Elternteil anwesend | Von beiden Elternteilen oder Vormündern unterschriebene Einverständniserklärung, Geburtsurkunde des Kindes |
 
-Welches Bündel auch auf Ihre Familie zutrifft, das praktische Problem bleibt dasselbe: es zusammenzuhalten, es aktuell zu halten, und es am Check-in-Schalter griffbereit zu haben statt auf dem Boden einer Tasche. Unsere umfassendere [Checkliste für Reisedokumente](https://traveldocumentvault.com/de/blog/travel-document-checklist/) deckt ab, was über diese konkrete Situation hinaus einzupacken ist, und unser Leitfaden zum [Organisieren von Familienreisedokumenten](https://traveldocumentvault.com/de/blog/how-to-organise-family-travel-documents/) zeigt, wie Sie die Unterlagen jedes Familienmitglieds zwischen den Reisen geordnet halten, nicht nur die für die aktuell bevorstehende.
+Unsere umfassendere [Checkliste für Reisedokumente](https://traveldocumentvault.com/de/blog/travel-document-checklist/) deckt ab, was über diese konkrete Situation hinaus einzupacken ist, und unser Leitfaden zum [Organisieren von Familienreisedokumenten](https://traveldocumentvault.com/de/blog/how-to-organise-family-travel-documents/) zeigt, wie Sie die Unterlagen jedes Familienmitglieds zwischen den Reisen geordnet halten, nicht nur die für die aktuell bevorstehende. Welches Bündel auch auf Ihre Familie zutrifft: Stellen Sie es heute zusammen, ordnen Sie jedes Dokument in der Tabelle oben der Geburtsurkunde Ihres Kindes zu und legen Sie den ganzen Satz an einem Ort ab, bevor Ihre nächste Reise gebucht wird.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 

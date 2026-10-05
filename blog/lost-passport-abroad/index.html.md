@@ -20,11 +20,13 @@ People replace lost passports abroad every day, and embassies treat it as routin
 
 ## Before Anything Goes Wrong: Photograph Your Passport Now
 
-If you are reading this before your trip, spend the next five minutes on this. Take a clear photo of the main data page of every passport you are travelling with. Store it in an encrypted app that works offline - far more secure than your camera roll, and kept fully private.
+If you are reading this before your trip, spend the next five minutes on this. Take a clear photo of the main data page of every passport you are travelling with. Store it in an encrypted app that works offline, which keeps it far more secure than your camera roll and fully private.
 
-When you arrive at your embassy, they will ask for your passport number, date of issue, place of issue, and expiry date. Without a copy, you are trying to recall these under stress. With one, you hand them over in seconds. **Consular staff issue replacement documents faster when you arrive with the details already written down.**
+When you arrive at your embassy, they will ask for your passport number, date of issue, place of issue, and expiry date. Without a copy, you are trying to recall these under stress. With one, you hand them over in seconds. Consular staff issue replacement documents faster when you **arrive with the details already written down**.
 
-A copy on your phone is a record rather than identification, and the two get confused. It is worth knowing in advance [where a digital passport copy is accepted and where you still need the original](https://traveldocumentvault.com/blog/digital-passport-copy-valid/).
+A copy on your phone is a record rather than identification.
+
+It's worth knowing in advance [where a digital passport copy is accepted and where you still need the original](https://traveldocumentvault.com/blog/digital-passport-copy-valid/).
 
 ![Hand-drawn path of the seven steps after losing a passport abroad: confirm it's really gone, file a police report, contact your embassy, emergency travel document, notify your insurer, check your visa situation, get home then replace it - with a note to photograph your passport today because a backup copy makes step four much faster](https://traveldocumentvault.com/blog/lost-passport-abroad/lost-passport-7-steps-figure.jpg) Seven calm steps, in order - and the one thing to do today, before any of them are ever needed.
 
@@ -34,7 +36,7 @@ Check everywhere before assuming the worst - jacket pockets, every bag compartme
 
 ## Step 2: File a Police Report Immediately
 
-Go to the nearest police station and report the passport lost or stolen. You need this report for both your embassy application and your insurance claim.
+Go to the nearest police station and report the passport lost or stolen. You need this report for both your embassy application and your insurance claim. We'd do it within the hour if possible, while the details are still fresh in your mind.
 
 Ask for a written copy with a case number, and request an English translation if one's available. Take a photo of it and keep multiple copies safe.
 
@@ -47,7 +49,7 @@ Your embassy or consulate is your route home, so contact them as soon as you hav
 - **Australian citizens:** Smartraveller - lost or stolen passport
 - **Canadian citizens:** Canada.ca - lost or stolen passport abroad
 
-Call before you visit. Many embassies require an appointment for emergency passport services and can tell you exactly what to bring - turning up without one can cost you half a day.
+Call before you visit. Many embassies require an appointment for emergency passport services and can tell you exactly what to bring. Turn up without one and it can cost you half a day.
 
 ## Step 4: Apply for an Emergency Travel Document
 
@@ -62,17 +64,17 @@ What you will typically need (confirm with your embassy before visiting):
 - Proof of onward travel - flight booking, hotel confirmation
 - Emergency document fee - have both cash and card available
 
-**Travel Document Vault** stores an encrypted copy of your passport on your phone - accessible without internet, without a login. It's exactly what your embassy will ask for. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** stores an encrypted copy of your passport on your phone, accessible without internet and without a login. It holds every passport detail on that list. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Step 5: Notify Your Travel Insurer
 
-Report the loss to your travel insurer as soon as possible. Most comprehensive policies cover passport replacement costs, emergency passport fees, and sometimes extra accommodation if you are delayed. Keep every receipt - you'll need them for the claim, along with the police report number.
+Report the loss to your travel insurer as soon as possible. Most comprehensive policies cover passport replacement costs, emergency passport fees, and sometimes extra accommodation if you are delayed. Keep every receipt; you'll need them for the claim, along with the police report number.
 
 You can make that call sooner if the policy number and the 24-hour hotline are already to hand rather than buried in an inbox you cannot reach. Our guide to [which travel insurance documents to save before you go](https://traveldocumentvault.com/blog/travel-insurance-documents/) lists what to keep offline.
 
 ## Step 6: Check Your Visa Situation
 
-A visa is valid only for the specific passport it was issued for. If your passport is lost, your visa is lost too - even an emergency travel document won't restore it. Your embassy will advise you whether your destination country will allow you to exit on an ETD, referencing the lost visa. Don't assume you can exit - confirm with your embassy before you attempt to leave.
+A visa is valid only for the specific passport it was issued for. If your passport is lost, your visa is lost too; even an emergency travel document won't restore it. Your embassy will advise you whether your destination country will allow you to exit on an ETD, referencing the lost visa. Don't assume you can exit - confirm with your embassy before you attempt to leave.
 
 What this means in practice
 
@@ -80,7 +82,7 @@ If you lose a passport in Thailand that contains a valid multi-entry visa for an
 
 ## Step 7: Get Home and Replace Your Passport
 
-Once you have your emergency travel document, confirm exit requirements with local immigration if needed, then rebook or confirm your journey home. When you are back: apply for a full replacement passport through your official passport authority and set up an encrypted digital backup of all your travel documents before your next trip.
+Once you have your emergency travel document, confirm exit requirements with local immigration if needed, then rebook or confirm your journey home. Once you're back, apply for a full replacement passport through your official passport authority, and scan it, together with the rest of your travel documents, into an encrypted backup the same day it arrives.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 

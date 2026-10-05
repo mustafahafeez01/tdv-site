@@ -24,7 +24,9 @@ Om du läser det här innan din resa, lägg fem minuter på detta. Ta en tydlig 
 
 När du kommer till ambassaden kommer de att fråga efter passnummer, utfärdandedatum, utfärdandeort och giltighetstid. Utan en kopia försöker du minnas det här under stress. Med en kopia lämnar du över uppgifterna på några sekunder. **Konsulär personal utfärdar ersättningshandlingar snabbare när du kommer med uppgifterna redan nedskrivna.**
 
-En kopia i telefonen är ett underlag snarare än en giltig legitimation, och de två blandas lätt ihop. Det är bra att veta i förväg [var en digital passkopia godtas och var du fortfarande behöver originalet](https://traveldocumentvault.com/sv/blog/digital-passport-copy-valid/).
+En kopia i telefonen är ett underlag snarare än en giltig legitimation, och de två blandas lätt ihop.
+
+Det är bra att veta i förväg [var en digital passkopia godtas och var du fortfarande behöver originalet](https://traveldocumentvault.com/sv/blog/digital-passport-copy-valid/).
 
 ## Steg 1: Bekräfta att passet verkligen är borta
 
@@ -32,7 +34,7 @@ Leta överallt innan du drar den värsta slutsatsen – jackfickor, alla fack i 
 
 ## Steg 2: Gör en polisanmälan omedelbart
 
-Gå till närmaste polisstation och anmäl passet som förlorat eller stulet. Du behöver den här anmälan både för ansökan hos ambassaden och för försäkringsanspråket.
+Gå till närmaste polisstation och anmäl passet som förlorat eller stulet. Du behöver den här anmälan både för ansökan hos ambassaden och för försäkringsanspråket. Vi skulle göra det inom en timme om det går, medan detaljerna fortfarande är färska i minnet.
 
 Be om en skriftlig kopia med ärendenummer, och fråga om en engelsk översättning finns att få. Fotografera anmälan och spara flera kopior på säkert ställe.
 
@@ -60,7 +62,7 @@ Vad du vanligtvis behöver (bekräfta med din ambassad innan du besöker den):
 - Bevis på fortsatt resa – flygbokning, hotellbekräftelse
 - Avgift för nödhandlingen – ha både kontanter och kort tillgängligt
 
-**Travel Document Vault** sparar en krypterad kopia av passet på telefonen – tillgänglig utan internet, utan inloggning. Det är precis det din ambassad kommer att be om. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** sparar en krypterad kopia av passet på telefonen – tillgänglig utan internet, utan inloggning. Den innehåller varje passuppgift på listan ovan. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Steg 5: Meddela ditt reseförsäkringsbolag
 
@@ -78,7 +80,7 @@ Om du tappar ett pass i Thailand som innehåller ett giltigt multipel-inresevisu
 
 ## Steg 7: Ta dig hem och skaffa ett nytt pass
 
-När du har ditt nödpass, bekräfta utresekraven med lokala myndigheter om det behövs, och boka om eller bekräfta sedan din resa hem. När du är tillbaka: ansök om ett fullständigt nytt pass hos din officiella passmyndighet och sätt upp en krypterad digital säkerhetskopia av alla dina resehandlingar innan din nästa resa.
+När du har ditt nödpass, bekräfta utresekraven med lokala myndigheter om det behövs, och boka om eller bekräfta sedan din resa hem. När du är tillbaka ansöker du om ett fullständigt nytt pass hos din officiella passmyndighet, och skannar in det, tillsammans med resten av dina resehandlingar, i en krypterad säkerhetskopia samma dag som det kommer.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 

@@ -20,9 +20,11 @@ Saat bepergian bersama anak-anak, melacak lima paspor sekaligus memenuhi persyar
 
 ## Mengapa Keluarga Sering Salah dalam Mengelola Paspor
 
-Masalahnya dimulai dari hal kecil. Anda punya paspor sendiri, pasangan Anda punya paspornya sendiri. Lalu Anda punya anak, dan tiba-tiba ada empat dokumen terpisah dengan empat tanggal kedaluwarsa yang berbeda. Otak manusia memang tidak dirancang untuk melacak empat jadwal perpanjangan sekaligus, apalagi saat hidup sedang sibuk-sibuknya. Biasanya satu orang akhirnya menangani semuanya, biasanya orang yang juga sudah mengurus semua logistik perjalanan lainnya, dan titik kegagalan tunggal ini pun menjadi risiko tersendiri.
+Masalahnya dimulai dari hal kecil. Anda punya paspor sendiri, pasangan Anda punya paspornya sendiri. Lalu Anda punya anak, dan tiba-tiba ada empat dokumen terpisah dengan empat tanggal kedaluwarsa yang berbeda. Otak manusia memang tidak dirancang untuk melacak empat jadwal perpanjangan sekaligus, apalagi saat hidup sedang sibuk-sibuknya.
 
-Masalah kedua adalah paspor anak kedaluwarsa jauh lebih cepat daripada paspor dewasa. Di Amerika Serikat, paspor anak di bawah 16 tahun berlaku 5 tahun, sementara paspor dewasa berlaku 10 tahun. Hal yang sama berlaku di Inggris Raya, dokumen anak kedaluwarsa setelah 5 tahun, bukan 10 tahun. Artinya, paspor anak bungsu Anda sering kali menjadi faktor pembatas untuk perjalanan keluarga. Anda mungkin punya orang tua dengan sisa masa berlaku 8 tahun, tapi jika paspor si bungsu kedaluwarsa dalam 18 bulan, itulah batas waktu perencanaan Anda sebenarnya.
+Biasanya satu orang akhirnya menangani semuanya, sering kali yang juga sudah mengurus logistik perjalanan lainnya, dan titik kegagalan tunggal ini pun menjadi risiko tersendiri.
+
+Paspor anak juga kedaluwarsa jauh lebih cepat daripada paspor dewasa. Di Amerika Serikat, paspor anak di bawah 16 tahun berlaku 5 tahun, sementara paspor dewasa berlaku 10 tahun. Hal yang sama berlaku di Inggris Raya, dokumen anak kedaluwarsa setelah 5 tahun, bukan 10 tahun. Artinya, paspor anak bungsu Anda sering kali menjadi faktor pembatas untuk perjalanan keluarga. Anda mungkin punya orang tua dengan sisa masa berlaku 8 tahun, tapi jika paspor si bungsu kedaluwarsa dalam 18 bulan, itulah batas waktu perencanaan Anda sebenarnya.
 
 Kebanyakan keluarga baru menyadari hal ini setelah tiket perjalanan sudah dipesan. Seorang orang tua menemukan paspor-paspor itu seminggu sebelum keberangkatan, memeriksanya sambil terburu-buru berkemas, lalu mendapati bahwa paspor salah satu anak tidak memenuhi aturan masa berlaku 6 bulan untuk negara tujuan. Perjalanan pun jadi terancam, atau harus melalui perpanjangan paspor yang tergesa-gesa dan mahal.
 
@@ -36,7 +38,7 @@ Penyimpanan terenkripsi itu penting karena paspor memuat nama lengkap sesuai ide
 
 Setelah dipindai, salinan-salinan ini akan tersimpan di vault terenkripsi Anda — bisa diakses kapan saja Anda perlu memeriksa tanggal masa berlaku, membuktikan bahwa Anda memiliki dokumen saat memesan perjalanan, atau memberikan informasi darurat ke konsulat jika terjadi sesuatu di luar negeri.
 
-## Membuat Profil untuk Setiap Anggota Keluarga
+## Satu Profil untuk Setiap Anggota Keluarga, Satu Orang yang Menjaganya Tetap Terbaru
 
 Dalam sistem bersama, catatan setiap orang sebaiknya mencakup dokumen perjalanan intinya:
 
@@ -47,9 +49,9 @@ Dalam sistem bersama, catatan setiap orang sebaiknya mencakup dokumen perjalanan
 
 Biasanya satu orang, yang merencanakan perjalanan, berperan sebagai penanggung jawab sistem ini, mengatur dan memperbaruinya. Namun karena semuanya terpusat, setiap anggota keluarga bisa membuka informasinya sendiri tanpa perlu bertanya, yang berguna saat seseorang sedang memperpanjang paspornya sendiri dan perlu memastikan tanggal kedaluwarsanya.
 
-Saat memesan perjalanan, langkah pertama pun jadi otomatis: masuk ke sistem Anda, buka profil setiap anggota keluarga, dan periksa tanggal masa berlaku terhadap persyaratan negara tujuan. Lakukan ini sebelum membayar tiket pesawat, jangan pernah beranggapan Anda masih punya waktu untuk mengurus dokumen yang kedaluwarsa setelah perjalanan sudah dibayar lunas. Jika paspor siapa pun akan kedaluwarsa dalam 12 bulan ke depan, mulai proses perpanjangan segera, jangan berharap bisa menyisipkannya nanti.
+Saat memesan perjalanan, langkah pertama pun jadi otomatis: masuk ke sistem Anda, buka profil setiap anggota keluarga, dan periksa tanggal masa berlaku terhadap persyaratan negara tujuan. Lakukan ini sebelum membayar tiket pesawat, karena Anda tidak akan sempat mengurus dokumen yang kedaluwarsa setelah perjalanan dipesan. Jika paspor siapa pun akan kedaluwarsa dalam 12 bulan ke depan, mulai proses perpanjangan segera, jangan berharap bisa menyisipkannya nanti.
 
-## Cadangan Fisik dan Akses Darurat
+## Simpan Cadangan Fisik Terpisah dari Dokumen Asli Anda
 
 Penyimpanan digital memang praktis, tapi perangkat bisa rusak dan aplikasi bisa bermasalah. Setiap keluarga sebaiknya juga menyimpan satu cadangan fisik dari halaman-halaman penting paspor, simpan di lokasi yang berbeda dari dokumen aslinya.
 
@@ -59,7 +61,7 @@ Jika Anda terjebak di luar negeri dan perlu mengganti paspor yang hilang atau di
 
 Untuk perjalanan internasional, jangan pernah membawa semua paspor keluarga bersamaan dalam satu tas. Setiap orang membawa dokumennya masing-masing. Jika tas jinjing Anda dicuri di bandara, Anda tidak kehilangan hasil perencanaan bertahun-tahun. Hanya paspor satu anggota keluarga yang berisiko langsung, dan Anda tetap punya salinan digital untuk membuktikan status semua anggota keluarga lainnya.
 
-## Paspor Ganda dan Keluarga dengan Situasi Rumit
+## Dengan Dwikewarganegaraan, Paspor yang Tepat Bergantung pada Tujuan Anda
 
 Bagi keluarga yang salah satu atau kedua orang tuanya memiliki dwikewarganegaraan, sistemnya jadi sedikit lebih rumit, tapi justru semakin penting untuk dikelola dengan cermat.
 
@@ -77,6 +79,8 @@ Selain paspor itu sendiri, ada beberapa dokumen lain yang juga layak punya tempa
 - **SIM (surat izin mengemudi).** Jika Anda menyewa mobil, Anda akan membutuhkan SIM untuk semua pengemudi dalam rombongan. SIM juga punya tanggal kedaluwarsa yang bisa membuat keluarga kecolongan.
 
 Simpan semuanya di satu lokasi yang mudah diakses. Kepanikan mengaduk-aduk ponsel atau tas di meja bandara, menyipitkan mata melihat foto halaman visa yang buram — itulah tepatnya yang bisa dicegah oleh sistem ini.
+
+Kalau Anda belum menyiapkannya, mulailah hari ini: pindai halaman foto setiap paspor di rumah, termasuk yang masa berlakunya masih bertahun-tahun, dan simpan salinannya di satu tempat terenkripsi sebelum Anda memesan perjalanan berikutnya.
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 

@@ -38,7 +38,7 @@ Udtrykket stammer fra spansk og portugisisk. *Fecha de expedición* og *data de 
 
 De betyder alle det samme, og ingen af dem betyder udløb. Hvis en blanket beder om en expedition-dato, vil den have den tidligste af dine to datoer.
 
-## Datoformatet er lavet for at forhindre præcis dette
+## Måneden er skrevet ud for at undgå forveksling af datoformater
 
 Kig godt efter, så vil du bemærke, at mange pas ikke skriver deres datoer udelukkende med tal. Måneden er som regel angivet med bogstaver frem for cifre.
 
@@ -48,7 +48,7 @@ Tvetydigheden vender tilbage, i det øjeblik du skriver datoen af på en blanket
 
 ## Fire pas, fire forskellige ure
 
-Alt det her lægger sig stille og roligt oveni i en familie. Pas bliver som regel udstedt, når der er brug for dem, snarere end samlet, så udstedelsesdatoerne i én husstand sjældent stemmer overens, og det gør udløbsdatoerne heller ikke.
+Læg et andet eller tredje pas oveni, som de fleste familier har, og intet af det passer sammen. Pas bliver som regel udstedt, når der er brug for dem, snarere end samlet, så udstedelsesdatoerne i én husstand sjældent matcher, og det gør udløbsdatoerne heller ikke.
 
 Børn gør spændet endnu bredere. De fleste børnepas gælder halvt så længe som et voksenpas, så et pas udstedt samme måned som en forælders udløber cirka fem år tidligere. Forældre med mange år tilbage på deres eget pas er dem, der oftest bliver taget på sengen af et barns dokument, fordi der ikke er nogen grund til at tænke på det, før en blanket spørger. Vi gennemgår, hvordan man holder styr på en hel husstands pas, i [at administrere flere pas på én gang](https://traveldocumentvault.com/da/blog/family-passport-management/).
 
@@ -60,13 +60,17 @@ Britiske pas udstedt for nylig har ikke længere de ekstra måneder, men ældre 
 
 Schengenlande anvender to separate tests på et pas uden for EU ved grænsen: det skal være udstedt mindre end ti år før den dato, du ankommer, og det skal forblive gyldigt i mindst tre måneder efter, du planlægger at rejse hjem igen. Et pas med ni ekstra måneder kan sagtens bestå den anden test og alligevel fejle den første, hvilket er en svær samtale at have ved en skranke i Madrid med et dokument, der ikke er udløbet.
 
-Tjek begge datoer før en europæisk rejse, ikke kun den nederste.
+Vi ville tjekke begge datoer før en europæisk rejse, ikke kun den nederste.
 
 ## Udstedelsesland og udstedende myndighed er forskellige felter
 
 Nær toppen af pas-siden sidder en trebogstavskode for udstedelseslandet. Længere nede, som regel i sit eget felt, sidder den udstedende myndighed: kontoret eller afdelingen, der faktisk fremstillede passet.
 
-Landet betyder mere, end folk regner med. Det afgør, hvilket lands konsulære netværk du henvender dig til, hvis et pas bliver væk eller stjålet, og det er sjældent landet, du tilfældigvis befinder dig i. Det afgør også, hvilke indrejseregler der gælder for dig, hvilket er hele grunden til, at personer med dobbelt statsborgerskab tænker nøje over, hvilket pas de fremviser. Vil du have den praktiske udgave af det, gennemgår vi det i [hvad du gør, når et pas forsvinder i udlandet](https://traveldocumentvault.com/da/blog/lost-passport-abroad/).
+Landet betyder mere, end folk regner med. Det afgør, hvilket lands konsulære netværk du henvender dig til, hvis et pas bliver væk eller stjålet.
+
+Det er sjældent landet, du tilfældigvis befinder dig i.
+
+Det afgør også, hvilke indrejseregler der gælder for dig, hvilket er hele grunden til, at personer med dobbelt statsborgerskab tænker nøje over, hvilket pas de fremviser. Vil du have den praktiske udgave af det, gennemgår vi det i [hvad du gør, når et pas forsvinder i udlandet](https://traveldocumentvault.com/da/blog/lost-passport-abroad/).
 
 Feltet med den udstedende myndighed er mest nyttigt for blanketter. Nogle ansøgninger vil have det ordret, andre accepterer landet, og at kopiere det præcist går hurtigere end at gætte.
 
@@ -78,13 +82,15 @@ Visa, der allerede er stemplet eller printet i det tidligere pas, bliver der, og
 
 Intet af det er dramatisk i sig selv. Det bliver dramatisk, når et boardingkort og et pas ikke stemmer overens ved en indtjekningsskranke, så det er en rolig halv time værd efter en fornyelse at opdatere de få steder, der har nummeret.
 
-## Hvor det hele sidder på siden
+## Pas-siden er standardiseret, men den maskinlæsbare zone springer én dato over
 
 Pas-siden er den stive laminerede side med dit fotografi, og dens layout er internationalt standardiseret snarere end opfundet af hvert land for sig. Det er derfor, et pas fra hvor som helst kan læses af en grænsevagt hvor som helst, og hvorfor du kan læse alle pas, så snart du kan læse ét.
 
 De to linjer med tegn og vinkelstreger nederst er den maskinlæsbare zone. De gentager en del af siden ovenover i et format, en scanner kan læse i ét hug, men ikke det hele: udløbsdatoen er med, udstedelsesdatoen er det ikke. Skader dernede bliver taget langt mere alvorligt end en ridse på omslaget. Vi gennemgår, hvor den linje sidder, i [at rejse med et beskadiget pas](https://traveldocumentvault.com/da/blog/damaged-passport-travel/).
 
 Hvis mærkaterne på din egen pas-side ikke er på dansk, hjælper geometrien alligevel: de to datoer er trykt sammen, i samme format, og udløbsdatoen er den seneste af de to.
+
+Brug fem minutter i dag på at finde begge datoer i dit eget pas, og i hvert barns, hvis I rejser som familie, så du allerede ved, hvilken der er hvilken, før en blanket eller en grænse spørger.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du handler.
 

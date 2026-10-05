@@ -38,7 +38,7 @@ Toont Schengen-regels, visum-geldigheidsvensfers en lokale gewoonten. Alles bijg
 
 Volg hoeveel dagen elk gezinslid in een land heeft doorgebracht door perioden te creëren (Schengengebied-jaar, visumvenster, belastingjaar) en toelagenregels eraan te koppelen – zie dan een uitsplitsing per lid in één oogopslag.
 
-Ontworpen voor Schengen 90/180-tracking, Britse 183-dagenregels en aangepaste visum- of verblijfsvensters. Gebruikte dagen worden automatisch bijgewerkt terwijl reizen worden geregistreerd.
+Ontworpen voor voortschrijdende limieten zoals 90/180 in één land, Britse 183-dagenregels en aangepaste visum- of verblijfsvensters. Gebruikte dagen worden automatisch bijgewerkt terwijl reizen worden geregistreerd.
 
 ## En nog veel meer
 

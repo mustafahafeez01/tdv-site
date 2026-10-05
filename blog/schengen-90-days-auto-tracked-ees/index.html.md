@@ -110,7 +110,7 @@ No. EES is live now and registers your entry and exit at the border. ETIAS is a 
 
 ### How does Travel Document Vault help with the 90/180 rule?
 
-The app counts days per person, per country, across all your trips, and projects your rolling window forward before you book. It does not read your EES record - no app can - but it applies the official 90/180 calculation to your travel dates, so every family member's remaining days are visible at a glance.
+The app counts days per person, per country, across all your trips to that country, and projects your rolling window forward before you book. It does not read your EES record - no app can - but with Pro it applies a rolling 90/180 count to your trips to each country you set a limit for, so every family member's remaining days there are visible at a glance.
 
 ## Related Articles
 

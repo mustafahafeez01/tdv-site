@@ -38,7 +38,9 @@ Dit is het deel dat de meeste artikelen overslaan, en het verdient het om gewoon
 
 Het gevolg is onvermijdelijk. **Verlies je die herstelcode, dan kan de back-up nooit meer worden geopend.** Niet door jou, niet door Apple of Google, en niet door ons. Er is geen reset-link, want er is geen account om die aan te koppelen. Er is geen support-ticket dat hem terughaalt, want wij hebben hem nooit in bezit gehad en kunnen hem onmogelijk raden.
 
-Dat klinkt hard als je het zo opschrijft, en het is beter om daar eerlijk over te zijn dan het weg te stoppen in een instellingenscherm. Het is dezelfde afweging als bij een huissleutel: het slot heeft alleen waarde omdat geen enkele slotenmaker ter wereld een reservesleutel achter de hand houdt, en juist daarom is het jouw probleem als je hem kwijtraakt. Een bedrijf dat je documenten kan herstellen nadat je alles bent vergeten, is een bedrijf dat ze de hele tijd al kon lezen.
+Dat klinkt hard als je het zo opschrijft, en het is beter om daar eerlijk over te zijn dan het weg te stoppen in een instellingenscherm. Het is dezelfde afweging als bij een huissleutel: het slot heeft alleen waarde omdat geen enkele slotenmaker ter wereld een reservesleutel achter de hand houdt, en juist daarom is het jouw probleem als je hem kwijtraakt.
+
+Een bedrijf dat je documenten kan herstellen nadat je alles bent vergeten, is een bedrijf dat ze de hele tijd al kon lezen.
 
 Behandel de code dus als het ene ding dat je goed moet doen:
 
@@ -55,7 +57,7 @@ Een foto van je paspoort in een gewone fotobibliotheek of een gesynchroniseerde 
 
 Een kluis die al op het toestel wordt versleuteld voordat hij wordt geüpload, komt aan als cijfertekst. Wie inbreekt in het cloud-account vindt een bestand dat niet te openen is. De bescherming reist mee met het bestand, in plaats van af te hangen van het account waarin het belandt.
 
-Daarom is het eerlijke antwoord op "is de cloud veilig" dit: de cloud is een afleveradres, geen beveiligingsmodel. Wat telt, is in welke staat het bestand verkeert op het moment dat het daar aankomt. Onze [vergelijking van de belangrijkste plekken waar mensen paspoortscans bewaren](https://traveldocumentvault.com/nl/blog/safest-way-to-store-passport-digitally/) zet de voor- en nadelen van elke optie op een rij.
+Daarom is het eerlijke antwoord op "is de cloud veilig" dit: de cloud is een afleveradres, geen beveiligingsmodel. Wat telt, is in welke staat het bestand verkeert op het moment dat het daar aankomt. Moesten we een standaard kiezen, dan kiezen we de opzet die het bestand versleutelt voordat het de telefoon verlaat. Onze [vergelijking van de belangrijkste plekken waar mensen paspoortscans bewaren](https://traveldocumentvault.com/nl/blog/safest-way-to-store-passport-digitally/) zet de voor- en nadelen van elke optie op een rij.
 
 | Wat je back-upt | Status bij aankomst | Wie het kan lezen | Als het account wordt gehackt |
 |---|---|---|---|
@@ -72,7 +74,7 @@ Drie dingen blijven bewust op de telefoon, en de herstelcode staat voorop: die v
 
 Dat laatste punt verrast mensen vaak, dus hier is de botte versie. **Een systeemback-up van je toestel herinstalleert de app, maar kan je documenten niet terugzetten.** De versleutelingssleutel heeft de oude telefoon nooit verlaten, dus de nieuwe telefoon heeft niets om mee te ontsleutelen. Wil je dat je kluis de telefoon overleeft, dan heb je ofwel Cloudback-up ingeschakeld nodig, ofwel een geëxporteerd bestand dat je ergens hebt bewaard.
 
-## Terugzetten op een nieuwe telefoon
+## Het terugzetten is kort en overschrijft niets wat er al staat
 
 Het terugzetten zelf is kort, en dat is precies de bedoeling van de voorbereiding die je eerder deed.
 
@@ -80,7 +82,7 @@ Installeer de app op de nieuwe telefoon en log in met hetzelfde iCloud- of Googl
 
 De app controleert ook voordat er iets wordt weggeschreven. Detecteert Cloudback-up een bestaande back-up in dat account, dan vraagt de app je te kiezen tussen terugzetten of opnieuw beginnen. Een nieuwe telefoon kan niet stiekem overschrijven wat er al staat.
 
-### Overstappen tussen iPhone en Android
+### Overstappen tussen iPhone en Android gaat via Kluis exporteren
 
 Cloudback-up blijft op één platform, omdat het je eigen iCloud gebruikt op Apple-toestellen en je eigen Google Drive op Android. Om van het ene naar het andere over te stappen, heb je de andere route nodig.
 
@@ -98,9 +100,9 @@ Twintig minuten, één keer, voor je volgende reis:
 - Exporteer de kluis één keer en bewaar het bestand ergens waar jij de controle over hebt, als route die niet van een cloud-account afhangt.
 - Controleer voor je vertrek of de app een recente back-up laat zien, net zoals je controleert of de paspoorten in de tas zitten.
 
-Niets hiervan is spannend, en dat is eigenlijk het hele idee. Gezinnen die goed omgaan met een gestolen telefoon in het buitenland, zijn bijna nooit degenen die briljant reageerden. Het zijn de gezinnen die twee weken eerder twintig onopvallende minuten aan de keukentafel hebben doorgebracht.
-
 Nog een laatste kanttekening over verwachtingen. Een back-up is een extra veiligheidslaag, geen garantie: cloud-accounts raken vergrendeld, codes worden vergeten, opslagdiensten hebben weleens een slechte dag. Bewaar voor documenten die er echt toe doen ook iets onafhankelijks, of dat nu een afdruk in een la thuis is of een tweede export op een drive.
+
+Niets hiervan is spannend, en dat is eigenlijk het hele idee. Gezinnen die goed omgaan met een gestolen telefoon in het buitenland, zijn bijna nooit degenen die briljant reageerden. Het zijn de gezinnen die twee weken eerder twintig onopvallende minuten aan de keukentafel hebben doorgebracht. Heb je dat nog niet gedaan, zet dan vandaag je back-up op en schrijf op waar de herstelcode ligt.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

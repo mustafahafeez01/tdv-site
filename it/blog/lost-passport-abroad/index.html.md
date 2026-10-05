@@ -22,9 +22,11 @@ Ogni giorno c'è chi sostituisce un passaporto perso all'estero, e le ambasciate
 
 Se sta leggendo questo prima del viaggio, dedichi i prossimi cinque minuti a questo. Faccia una foto nitida della pagina dati principale di ogni passaporto con cui sta viaggiando. La conservi in un'app crittografata che funziona offline — molto più sicura della fotocamera, e completamente privata.
 
-Quando arriva presso l'ambasciata, le chiederanno il numero del passaporto, la data di rilascio, il luogo di rilascio e la data di scadenza. Senza una copia, sta cercando di ricordare questi dettagli sotto stress. Con una copia, glieli consegna in pochi secondi. **Lo staff consolare rilascia documenti di sostituzione più velocemente quando arriva con i dettagli già scritti.**
+Quando arriva presso l'ambasciata, le chiederanno il numero del passaporto, la data di rilascio, il luogo di rilascio e la data di scadenza. Senza una copia, sta cercando di ricordare questi dettagli sotto stress. Con una copia, glieli consegna in pochi secondi. Lo staff consolare rilascia documenti di sostituzione più velocemente quando **arriva con i dettagli già scritti**.
 
-Una copia sul telefono è una registrazione, non un documento d'identità, e le due cose vengono spesso confuse. Vale la pena sapere in anticipo [dove viene accettata una copia digitale del passaporto e dove serve ancora l'originale](https://traveldocumentvault.com/it/blog/digital-passport-copy-valid/).
+Una copia sul telefono è una registrazione, non un documento d'identità.
+
+Vale la pena sapere in anticipo [dove viene accettata una copia digitale del passaporto e dove serve ancora l'originale](https://traveldocumentvault.com/it/blog/digital-passport-copy-valid/).
 
 ## Passo 1: Conferma che il passaporto è davvero scomparso
 
@@ -32,7 +34,7 @@ Controlli dappertutto prima di assumere il peggio — tasche della giacca, ogni 
 
 ## Passo 2: Presenti una denuncia alla polizia immediatamente
 
-Vada alla stazione di polizia più vicina e denunci il passaporto smarrito o rubato. Ne avrà bisogno sia per la domanda presso l'ambasciata che per il reclamo assicurativo.
+Vada alla stazione di polizia più vicina e denunci il passaporto smarrito o rubato. Ne avrà bisogno sia per la domanda presso l'ambasciata che per il reclamo assicurativo. Noi lo faremmo entro un'ora, se possibile, finché i dettagli sono ancora freschi nella memoria.
 
 Chieda una copia scritta con un numero di caso. Richieda una versione inglese o una traduzione se possibile. Faccia una foto e conservi più copie al sicuro.
 
@@ -60,7 +62,7 @@ Quello che probabilmente avrà bisogno (confermi con l'ambasciata prima di visit
 - Prova di viaggio in avanti — prenotazione di volo, conferma alberghiera
 - Tassa per il documento d'emergenza — abbia a disposizione sia denaro contante che carta
 
-**Travel Document Vault** conserva una copia crittografata del passaporto sul telefono — accessibile senza internet, senza accesso. È esattamente quello che l'ambasciata le chiederà. [Scarica da App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** conserva una copia crittografata del passaporto sul telefono — accessibile senza internet, senza accesso. Contiene ogni dato del passaporto presente in quell'elenco. [Scarica da App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Passo 5: Notifichi l'assicuratore di viaggio
 
@@ -78,7 +80,7 @@ Se perde un passaporto in Tailandia che contiene un visto di ingresso multiplo v
 
 ## Passo 7: Torni a casa e sostituisca il passaporto
 
-Una volta che ha il documento di viaggio d'emergenza, confermi i requisiti di uscita con l'immigrazione locale se necessario, quindi riprenoti o confermi il viaggio di ritorno. Quando è di ritorno: richieda un passaporto di sostituzione completo attraverso l'autorità passaporti ufficiale e configuri un backup digitale crittografato di tutti i documenti di viaggio prima del prossimo viaggio.
+Una volta che ha il documento di viaggio d'emergenza, confermi i requisiti di uscita con l'immigrazione locale se necessario, quindi riprenoti o confermi il viaggio di ritorno. Una volta di ritorno, richieda un passaporto di sostituzione completo attraverso l'autorità passaporti ufficiale e lo scansioni, insieme agli altri documenti di viaggio, in un backup crittografato lo stesso giorno in cui arriva.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 

@@ -21,7 +21,7 @@ Om ett anslutningsflyg kräver transitvisum eller inte beror på tre saker: vilk
 
 Transitvisumet är den handling som tar även noggranna resenärer på sängen, eftersom det står helt fristående från allt annat i din dokumentation. Passets giltighetstid påverkar det inte, och destinationens inresevisum ersätter det inte heller – det finns bara för att planet råkar landa där för att tanka. Ändå kontrollerar många resenärer aldrig om de behöver ett förrän det är alldeles för sent.
 
-## Airside eller landside – den avgörande skillnaden
+## Airside-transit kräver ofta inget visum, men landside innebär att du går igenom gränskontrollen
 
 Huruvida du behöver visum avgörs ofta av en enda skillnad: airside eller landside. De flesta länder beviljar visumfri transit på ena sidan av den gränsen men inte på den andra.
 
@@ -53,13 +53,13 @@ Detta gäller även liknande nationaliteter inom samma region. Resenärer från 
 
 Det är därför IATA Travel Centre (samma databas som flygbolagen använder vid gaten) är den enda pålitliga källan: du anger din nationalitet och din destination, och den visar exakt vilket krav som gäller för just den kombinationen. Utgå aldrig från vad en annan resenär upplevt eller vad du minns från en tidigare resa.
 
-## Att upptäcka att du behöver transitvisum efter bokning
+## Upptäcker du efter bokningen att du behöver visum, ring först flygbolaget
 
 Det händer oftare än man kan tro: du bokar flygen och inser sedan att mellanlandningen kräver ett transitvisum du inte har. När det händer bör du behandla det som akut, eftersom handläggningstiderna varierar kraftigt – från samma dag till flera veckor beroende på land och tid på året.
 
 Börja med ditt flygbolag, eftersom de ofta känner till handläggningstider och ibland har erfarenhet av vanliga rutter. Kontakta sedan närmaste ambassad eller konsulat för transitlandet för att ta reda på hur lång tid själva visumet tar. Många konsulat erbjuder skyndsam handläggning vid akuta resesituationer, även om det kan innebära en extra avgift.
 
-Hinner handläggningen inte bli klar före din avresa har du tre alternativ: boka om flygen för att helt undvika transitlandet, boka om via ett annat nav eller skjuta upp resan. Att försöka gå ombord utan det visum som krävs leder till missade flyg och möjliga komplikationer med flygbolaget.
+Hinner handläggningen inte bli klar före din avresa har du tre alternativ: boka om flygen för att helt undvika transitlandet, boka om via ett annat nav eller skjuta upp resan, så boka den nya resvägen så fort du upptäcker problemet i stället för att vänta och hoppas att pappren hinner bli klara i tid. Att försöka gå ombord utan det visum som krävs leder till missade flyg och möjliga komplikationer med flygbolaget.
 
 ## Så kontrollerar du innan du bokar
 
@@ -69,7 +69,11 @@ När verktyget flaggar för transitvisum, notera två saker utöver att du behö
 
 Lägg in alla transitvisum du behöver i din tidsplan tillsammans med ditt huvudinresevisum. Vissa tar veckor; den informationen behöver du innan du bokar flygen. Förvara bekräftelsen tillsammans med dina övriga resehandlingar så att den finns till hands vid gaten, där det är flygbolaget, inte gränsen, som kontrollerar den först.
 
-Reser du som familj, kontrollera varje familjemedlems pass individuellt. En enda person utan undantag kan sätta stopp för hela resan.
+Reser du som familj, kontrollera varje familjemedlems pass individuellt.
+
+En enda person utan undantag kan sätta stopp för hela resan.
+
+Innan du bokar, kör hela din resväg, inte bara destinationen, genom IATA Travel Centre. Det är kontrollen som oftast fångar upp ett saknat krav medan du fortfarande kan ändra bokningen.
 
 ## Vanliga frågor
 

@@ -29,15 +29,17 @@ A distinção-chave — uma que a maioria das avaliações ignora — é **onde 
 - **Armazenamento no dispositivo:** As suas digitalizações do passaporte e detalhes são armazenados encriptados no seu telefone. A empresa da aplicação não pode aceder aos mesmos. Não existe conta para ser violada. Se perder o seu telefone, uma nova instalação não restaura automaticamente os seus dados (embora possa fazer cópia de segurança via iCloud ou localmente).
 - **Armazenamento na nuvem:** As suas digitalizações carregam para um servidor. Pode aceder a partir de vários dispositivos e restaurar facilmente. Mas está a confiar um terceiro com a segurança do servidor e a resposta a uma violação com os seus dados de passaporte.
 
-Nenhuma abordagem é universalmente "errada," mas para documentos de identidade tão sensíveis como passaportes, o modelo no dispositivo é significativamente mais seguro. Uma violação de uma aplicação no dispositivo não revela nada dos seus servidores — não há nada lá para vazar.
+Nenhuma abordagem é universalmente "errada," mas para documentos de identidade tão sensíveis como passaportes, o modelo no dispositivo é significativamente mais seguro.
 
-## As Funcionalidades Que Realmente Interessam
+Uma violação de uma aplicação no dispositivo não revela nada dos seus servidores — não há nada lá para vazar.
 
-### Avisos de expiração com tempo de antecedência personalizável
+## Estas Funcionalidades Decidem se a Aplicação Merece o Seu Lugar
+
+### O tempo de antecedência dos avisos é a definição que vale a pena personalizar
 
 Esta é a funcionalidade mais valiosa. Um aviso com 6 meses é o mínimo — muitos países exigem validade do passaporte de pelo menos 6 meses além das suas datas de viagem, como explicado no nosso artigo sobre a [regra dos 6 meses do passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/). Para famílias com filhos, cujos passaportes expiram após 5 anos em vez de 10, um aviso mais cedo — digamos 9 meses — dá mais tempo confortável de planeamento.
 
-### Armazenar em segurança os passaportes de vários membros da família numa única aplicação
+### Uma única aplicação pode guardar a família inteira, em segurança
 
 Uma família de quatro não quer quatro aplicações separadas. As melhores aplicações para organizar passaportes tratam cada pessoa como um perfil separado, com os seus próprios documentos, datas de validade e avisos. Isto parece óbvio mas um número surpreendente de aplicações é construído em torno de documentos de uma única pessoa.
 
@@ -45,15 +47,15 @@ Isto só é verdade se a aplicação mantiver tudo no dispositivo e protegido po
 
 Se o que precisa na verdade é de um sistema para toda a casa, e não apenas uma lista de aplicações, aprofundamos [como guardar em segurança os passaportes de vários membros da família](https://traveldocumentvault.com/pt/blog/family-passport-management/) nesse artigo.
 
-### Acesso offline
+### O acesso offline não é opcional
 
 Precisa dos dados do seu passaporte precisamente nos momentos em que o acesso à internet é pouco fiável: fronteiras internacionais, zonas de trânsito, áreas rurais, ou depois de perder o seu SIM no estrangeiro. Se a aplicação exigir uma ligação de rede para mostrar os seus documentos, falha no momento mais crítico.
 
-### Cobertura de tipo de documento
+### Uma boa aplicação deve cobrir mais do que apenas passaportes
 
 Passaportes são o ponto de partida óbvio, mas um bom organizador também trata vistos (que expiram independentemente do seu passaporte), cartões de identidade nacional, seguro de viagem, registos de vacinação, cartas de condução, e — para famílias — cartas de consentimento de viagem infantil. Quanto mais tipos de documento suportados, menos aplicações precisa.
 
-### Modelo de privacidade
+### Uma política de privacidade vaga é motivo para desistir
 
 Antes de fazer o download, questione se a aplicação exigir uma conta, carrega digitalizações para um servidor, ou tem uma política de privacidade clara divulgando que dados recolhe. As aplicações que são gratuitas e dependem de publicidade geralmente não são apropriadas para armazenar documentos de identidade — os dados são o produto.
 
@@ -72,7 +74,7 @@ O que isto significa na prática
 
 Está numa fronteira, telefone offline, e o oficial de imigração pede para ver os dados do seu visto. Uma aplicação que exigir ligação à internet falha completamente — não consegue aceder aos seus documentos. Uma aplicação no dispositivo, sem conta, funciona perfeitamente. Este é exatamente o momento em que precisa que a aplicação funcione.
 
-## Compra Única versus Subscrição
+## Verifique o Que Acontece aos Seus Documentos Se uma Subscrição Caducar
 
 Existe um argumento prático para aplicações de compra única sobre subscrições quando se trata de armazenamento de documentos. Se se esquecer de renovar uma subscrição — ou simplesmente decidir cancelar — perde acesso aos seus documentos armazenados. Isto é um arranjo arriscado para algo que pode precisar anos a partir de agora.
 
@@ -97,6 +99,8 @@ Ao avaliar qualquer aplicação para organizar passaportes, coloque-se estas nov
 - Os dados estão encriptados em repouso no dispositivo?
 
 Se as nove respostas são "sim", tem uma aplicação genuinamente confiável. Por cada "não", pese se esse compromisso importa para si. Para mais sobre organização de documentos, veja o nosso [blog](https://traveldocumentvault.com/pt/blog/) para dicas sobre o que armazenar e quando.
+
+Abra a aplicação que está realmente a considerar e passe-a por esta lista antes de digitalizar uma única página de passaporte.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

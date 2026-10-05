@@ -20,7 +20,7 @@ TripCase brugte tolv år som rejseappernes stille arbejdshest. Videresend en boo
 
 Femten måneder senere leder tidligere brugere stadig efter en erstatning. Det ærlige svar er, at ingen enkelt app erstatter den fuldt ud. Men den egentlige historie handler ikke om, hvilken app du skal vælge – den handler om, hvor dine dokumenter bør ligge.
 
-## TripCases opstigning og lukning
+## TripCase var standarden i årevis, så lukkede Sabre den
 
 TripCase havde eksisteret siden 2013 som en gratis rejsemakker fra Sabre Corporation – firmaet, der driver store dele af verdens booking-systemer for flyselskaber og rejsebureauer. På grund af den forbindelse dukkede rejser ofte automatisk op i appen. I over et årti stolede forretningsrejsende og familier på den til at samle fly, hoteller og lejebiler i ét kronologisk overblik. Den var ikke prangende, men den virkede.
 
@@ -36,9 +36,11 @@ Kernen var **aflæsning af bookingmails til rejseplaner** – videresend enhver 
 
 De fly, hoteller og transport på jorden levede alle i **rejsens tidslinje** – én scrollbar stak pr. rejse. Simpelt, men hvis du nogensinde har jongleret en flerby-uge ud fra et dusin bookingmails, forstår du, hvorfor det betød noget. I tråde på FlyerTalk og andre steder fremhæver tidligere brugere konsekvent **Document Vault** som den mest savnede del – det ene sikre hjem for boardingkort, visa, pas og bekræftelser. Endelig lod **rejsedeling** familiemedlemmer eller kolleger følge med uden videresendte mails.
 
-## Den ubehagelige lære
+## En cloud-app opbevarer dine data efter en andens ur
 
-Når du bygger dit rejseliv op omkring en gratis cloud-app, lejer du plads, som ejeren kan tage tilbage når som helst. TripCase eksisterede længe nok til, at folk behandlede den som fast infrastruktur og uploadede flere års optegnelser og dokumenter i den tro, at den altid ville være der. Så regnede Sabre på det, besluttede, at appen ikke var kernen i forretningen, og et årtis brugerdata forsvandt efter en tidsplan, Sabre selv valgte.
+Når du bygger dit rejseliv op omkring en gratis cloud-app, lejer du plads, som ejeren kan tage tilbage når som helst.
+
+TripCase eksisterede længe nok til, at folk behandlede den som fast infrastruktur og uploadede flere års optegnelser og dokumenter i den tro, at den altid ville være der. Så regnede Sabre på det, besluttede, at appen ikke var kernen i forretningen, og et årtis brugerdata forsvandt efter en tidsplan, Sabre selv valgte.
 
 Intet af dette handler om ond vilje; det er bare, hvordan forretningsbeslutninger fungerer. Rejseapps lukker jævnligt, gratis niveauer flyttes bag betalingsmure, og tjenester nedlægges. Den person, der ikke har indflydelse på tidspunktet, er dig.
 
@@ -70,9 +72,9 @@ Offline-first-opbevaring fjerner alle tre risici på én gang. Dokumenterne ligg
 
 Det fornuftige svar på TripCases sammenbrud er ikke at opgive cloud-værktøjer helt; det er at lagdele dem. Behold de praktiske cloud-apps til planlægning og alarmer, for de fortjener deres plads, og hold de dokumenter, der definerer din rejseidentitet, offline, hvor ingen firmabeslutning kan røre dem.
 
-Start med et enkelt tjek: hvor ligger hver scanning af dit pas, hvert visum-PDF, hvert barns ID lige nu, og hvad sker der med det, hvis tjenesten forsvinder med 60 dages varsel? Vores [tjekliste til rejsedokumenter](https://traveldocumentvault.com/da/blog/travel-document-checklist/) er et praktisk sted at starte.
-
 TripCase er væk, og dens funktioner er spredt ud over andre apps nu. Men der er én lære værd at tage med: dine rejsedokumenter bør ikke dø sammen med en andens server.
+
+Start med et enkelt tjek i dag: hvor ligger hver scanning af dit pas, hvert visum-PDF, hvert barns ID lige nu, og hvad sker der med det, hvis tjenesten forsvinder med 60 dages varsel? Vores [tjekliste til rejsedokumenter](https://traveldocumentvault.com/da/blog/travel-document-checklist/) er et praktisk sted at starte.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 

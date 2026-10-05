@@ -38,7 +38,7 @@ De uitdrukking komt uit het Spaans en het Portugees. *Fecha de expedición* en *
 
 Ze betekenen allemaal hetzelfde, en geen van alle betekenen ze vervaldatum. Vraagt een formulier om een «expedition date», dan wil het de oudste van je twee data.
 
-## De datumnotatie is juist bedoeld om dit te voorkomen
+## De maand staat voluit om verwarring over de datumnotatie te voorkomen
 
 Kijk goed en je ziet dat veel paspoorten hun data niet alleen in cijfers afdrukken. De maand staat meestal voluit in letters in plaats van in cijfers.
 
@@ -48,7 +48,7 @@ De dubbelzinnigheid komt terug zodra je de datum in een formulier overtypt, want
 
 ## Vier paspoorten, vier verschillende klokken
 
-Dit alles stapelt zich geruisloos op in een gezin. Paspoorten worden meestal afgegeven wanneer ze nodig zijn en niet allemaal tegelijk, dus de afgiftedata in één huis lopen zelden gelijk, en de vervaldata ook niet.
+Voeg een tweede of derde paspoort toe, zoals de meeste gezinnen hebben, en niets loopt meer gelijk. Paspoorten worden meestal afgegeven wanneer ze nodig zijn en niet allemaal tegelijk, dus de afgiftedata in één huis komen zelden overeen, en de vervaldata ook niet.
 
 Kinderen maken dat verschil groter. De meeste kinderpaspoorten zijn half zo lang geldig als een volwassen paspoort, dus een paspoort dat in dezelfde maand als dat van een ouder is afgegeven, verloopt zo'n vijf jaar eerder. Ouders met nog jaren geldigheid voor de boeg lopen het meeste risico verrast te worden door het document van een kind, omdat er geen aanleiding is om erover na te denken totdat een formulier ernaar vraagt. We leggen uit hoe je de paspoorten van een heel gezin op orde houdt in [meerdere paspoorten tegelijk beheren](https://traveldocumentvault.com/nl/blog/family-passport-management/).
 
@@ -60,13 +60,17 @@ Recent afgegeven Britse paspoorten hebben die extra maanden niet meer, maar oude
 
 Schengenlanden passen aan de grens twee aparte toetsen toe op een niet-EU-paspoort: het moet minder dan tien jaar voor je aankomstdatum zijn afgegeven, en het moet nog minstens drie maanden geldig blijven na je geplande vertrekdatum. Een paspoort met negen maanden extra kan ruim aan de tweede toets voldoen en zakken voor de eerste, en dat is een lastig gesprek aan een balie in Madrid met een document dat nog niet is verlopen.
 
-Controleer beide data voor een reis naar Europa, niet alleen de datum onderaan de pagina.
+Wij zouden beide data controleren voor een reis naar Europa, niet alleen de datum onderaan de pagina.
 
 ## Land van afgifte en afgevende instantie zijn verschillende velden
 
 Bovenaan de datapagina staat een landcode van drie letters voor het land van afgifte. Daaronder, meestal in een eigen veld, staat de afgevende instantie: het bureau of de dienst die het paspoort daadwerkelijk heeft gemaakt.
 
-Het land telt zwaarder dan mensen verwachten. Het bepaalt tot welk consulair netwerk je je wendt als een paspoort kwijtraakt of gestolen wordt, en dat is zelden het land waar je toevallig woont. Het bepaalt ook welke inreisregels voor je gelden, en dat is precies waarom mensen met dubbele nationaliteit goed nadenken welk paspoort ze tonen. Voor de praktische kant hiervan bespreken we het in [wat te doen als een paspoort in het buitenland kwijt is](https://traveldocumentvault.com/nl/blog/lost-passport-abroad/).
+Het land telt zwaarder dan mensen verwachten. Het bepaalt tot welk consulair netwerk je je wendt als een paspoort kwijtraakt of gestolen wordt.
+
+Dat is zelden het land waar je op dat moment toevallig bent.
+
+Het bepaalt ook welke inreisregels voor je gelden, en dat is precies waarom mensen met dubbele nationaliteit goed nadenken welk paspoort ze tonen. Voor de praktische kant hiervan bespreken we het in [wat te doen als een paspoort in het buitenland kwijt is](https://traveldocumentvault.com/nl/blog/lost-passport-abroad/).
 
 Het veld met de afgevende instantie is vooral nuttig bij formulieren. Sommige aanvragen willen het woordelijk, andere accepteren het land, en het gewoon overtypen gaat sneller dan gokken.
 
@@ -78,13 +82,15 @@ Visa die al in het vorige paspoort zijn gestempeld of afgedrukt, blijven daar st
 
 Op zichzelf is dat allemaal niet dramatisch. Het wordt vervelend wanneer een instapkaart en een paspoort elkaar tegenspreken bij een incheckbalie, dus het is de moeite waard om na een vernieuwing een rustig half uurtje te nemen om de paar plekken bij te werken waar het nummer staat.
 
-## Waar dit allemaal op de pagina staat
+## De datapagina is gestandaardiseerd, maar de machineleesbare zone slaat één datum over
 
 De datapagina is de stevige, gelamineerde pagina met je foto, en de opmaak ervan is internationaal gestandaardiseerd, niet bedacht door elk land apart. Daarom is een paspoort van waar dan ook leesbaar voor een grensbeambte waar dan ook, en daarom kun je, zodra je er één kunt lezen, ze allemaal lezen.
 
 De twee regels met tekens en pijltjes onderaan zijn de machineleesbare zone. Ze herhalen een deel van de pagina erboven in een formaat dat een scanner in één keer kan uitlezen, maar niet alles: de vervaldatum staat erin, de afgiftedatum niet. Schade daar wordt veel serieuzer genomen dan een kras op de kaft. We beschrijven waar die regel precies zit in [reizen met een beschadigd paspoort](https://traveldocumentvault.com/nl/blog/damaged-passport-travel/).
 
 Als de labels op je eigen datapagina niet in het Nederlands staan, helpt de indeling nog steeds: de twee data staan samen afgedrukt, in dezelfde opmaak, en de vervaldatum is de latere van de twee.
+
+Neem vandaag vijf minuten om beide data op je eigen paspoort te vinden, en op dat van elk kind als je met het gezin reist, zodat je al weet welke welke is voordat een formulier of een grens ernaar vraagt.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

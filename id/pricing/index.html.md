@@ -114,7 +114,7 @@ Tidak ada batas waktu. Tidak ada fitur yang misterius menghilang. Tidak ada pola
 
 ## Apa yang Pro Tambahkan
 
-Pro adalah untuk keluarga. Profil tak terbatas untuk seluruh keluarga Anda, dokumen tak terbatas, perencana perjalanan dengan daftar periksa kesiapan visual, cadangan cloud terenkripsi ke iCloud atau Google Drive Anda sendiri, dan pelacak hari-hari di luar negeri untuk batas Schengen dan pelacakan keadaan pajak.
+Pro adalah untuk keluarga. Profil tak terbatas untuk seluruh keluarga Anda, dokumen tak terbatas, perencana perjalanan dengan daftar periksa kesiapan visual, cadangan cloud terenkripsi ke iCloud atau Google Drive Anda sendiri, dan pelacak hari-hari di luar negeri untuk batas hari per negara dan pelacakan keadaan pajak.
 
 Satu pembelian di akun Anda. Satu keluarga. Bekerja di semua perangkat Anda.
 

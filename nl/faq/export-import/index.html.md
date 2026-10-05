@@ -20,7 +20,7 @@ Het geëxporteerde bestand wordt versleuteld met dezelfde beveiliging als uw klu
 
 ### Open Instellingen en ga naar Exporteren
 
-Open Travel Document Vault en tik onderaan het scherm op het instellingenpictogram (tandwiel). Scroll naar beneden tot u de sectie Back-up en gegevens ziet. Tik op Kluis exporteren.
+Open Travel Document Vault en tik onderaan het scherm op het instellingenpictogram (tandwiel). Scroll naar beneden tot u de sectie Back-up & Gegevens ziet. Tik op Kluis exporteren.
 
 2
 
@@ -48,9 +48,9 @@ Als u importeert op een ander apparaat, zorg dan dat het geëxporteerde bestand 
 
 6
 
-### Open op het doelapparaat Instellingen en tik op Kluis importeren
+### Open op het doelapparaat Instellingen en tik op Back-up importeren
 
-Open Travel Document Vault op het apparaat waar u wilt importeren. Ga naar Instellingen, scroll naar Back-up en gegevens, en tik op Kluis importeren. De app vraagt u het geëxporteerde back-upbestand (.tdvault) te selecteren.
+Open Travel Document Vault op het apparaat waar u wilt importeren. Ga naar Instellingen, scroll naar Back-up & Gegevens, en tik op Back-up importeren. De app vraagt u het geëxporteerde back-upbestand (.tdvault) te selecteren.
 
 7
 
@@ -62,11 +62,11 @@ Ga naar de locatie waar u het geëxporteerde kluisbestand hebt opgeslagen, selec
 
 ### Controleer of alle gegevens aanwezig zijn
 
-Controleer na het importeren het tabblad Profielen om te bevestigen dat alle profielen worden weergegeven. Open een paar documenten om te controleren of bijlagen intact zijn. Het importproces is niet-destructief en voegt samen met eventuele bestaande gegevens.
+Controleer na het importeren het tabblad Profielen om te bevestigen dat alle profielen worden weergegeven. Open een paar documenten om te controleren of bijlagen intact zijn. Het importproces vervangt alle bestaande gegevens op dit apparaat.
 
 ### Belangrijke opmerkingen
 
-- **Niet-destructief:** Importeren voegt gegevens toe aan bestaande gegevens. Als u al profielen hebt op het doelapparaat, worden geïmporteerde profielen toegevoegd zonder bestaande te verwijderen.
+- **Vervangt bestaande gegevens:** Importeren wist eerst wat er op het doelapparaat staat. Als u al profielen hebt op het doelapparaat, exporteer die dan voordat u importeert.
 - **Volledige betrouwbaarheid:** Alles blijft precies bewaard: documentnamen, data, vervalmeldingen, aangepaste kleuren, bijlagen en notities.
 - **Volledig versleuteld:** Het geëxporteerde bestand wordt versleuteld met het wachtwoord dat u kiest bij het exporteren, met AES-256-GCM en PBKDF2-sleutelafleiding. Alleen dat wachtwoord kan het ontsleutelen, bewaar het dus op een veilige plek – zonder dat wachtwoord kan het bestand niet worden hersteld.
 - **Beste back-uppraktijk:** Bewaar uw geëxporteerde bestand op een veilige plek. Verwijder het na een geslaagde import als u dat wilt, of bewaar het als offline back-up.

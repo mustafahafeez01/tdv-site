@@ -20,7 +20,7 @@ TripCase menghabiskan dua belas tahun sebagai kuda pekerja diam-diam dunia aplik
 
 Lima belas bulan kemudian, mantan pengguna masih mencari penggantinya. Jawaban jujurnya adalah tidak ada satu aplikasi pun yang menggantikannya sepenuhnya. Namun cerita sebenarnya bukan soal aplikasi mana yang harus dipilih, melainkan soal di mana seharusnya dokumen Anda disimpan.
 
-## Kebangkitan dan Berakhirnya TripCase
+## TripCase Jadi Andalan Selama Bertahun-tahun, Lalu Sabre Menutupnya
 
 TripCase telah ada sejak 2013, sebuah pendamping perjalanan gratis dari Sabre Corporation, perusahaan yang menjalankan sebagian besar sistem pemesanan maskapai dan agen perjalanan di dunia. Berkat koneksi tersebut, itinerary sering muncul otomatis di aplikasi. Selama lebih dari satu dekade, pelaku perjalanan bisnis dan keluarga mengandalkannya untuk menyatukan penerbangan, hotel, dan sewa mobil dalam satu tampilan kronologis. Tidak mewah, tetapi berfungsi.
 
@@ -36,9 +36,11 @@ Intinya adalah **parsing email konfirmasi menjadi itinerary** — teruskan konfi
 
 Penerbangan, hotel, dan transportasi darat itu semua hidup dalam **garis waktu perjalanan** - satu tumpukan yang bisa digulir per perjalanan. Sederhana, tetapi jika Anda pernah mengatur perjalanan multi-kota selama seminggu dari selusin email konfirmasi, Anda paham mengapa itu penting. Dalam berbagai thread forum di FlyerTalk dan tempat lain, mantan pengguna secara konsisten menyebut **Document Vault** sebagai bagian yang paling dirindukan — satu tempat aman untuk boarding pass, visa, paspor, dan konfirmasi. Terakhir, **berbagi perjalanan** memungkinkan anggota keluarga atau kolega mengikuti tanpa perlu email yang diteruskan.
 
-## Pelajaran yang Tidak Nyaman
+## Aplikasi Cloud Menyimpan Data Anda dengan Jam Milik Orang Lain
 
-Ketika Anda membangun kehidupan perjalanan di sekitar aplikasi cloud gratis, Anda sebenarnya menyewa ruang yang bisa diambil kembali oleh pemiliknya kapan saja. TripCase bertahan cukup lama sehingga orang memperlakukannya seolah infrastruktur permanen, mengunggah catatan dan dokumen bertahun-tahun dengan asumsi aplikasi itu akan selalu ada. Kemudian Sabre menghitung untung-ruginya, memutuskan aplikasi tersebut bukan inti bisnisnya, dan data pengguna selama satu dekade lenyap sesuai jadwal yang dipilih Sabre sendiri.
+Ketika Anda membangun kehidupan perjalanan di sekitar aplikasi cloud gratis, Anda sebenarnya menyewa ruang yang bisa diambil kembali oleh pemiliknya kapan saja.
+
+TripCase bertahan cukup lama sehingga orang memperlakukannya seolah infrastruktur permanen, mengunggah catatan dan dokumen bertahun-tahun dengan asumsi aplikasi itu akan selalu ada. Kemudian Sabre menghitung untung-ruginya, memutuskan aplikasi tersebut bukan inti bisnisnya, dan data pengguna selama satu dekade lenyap sesuai jadwal yang dipilih Sabre sendiri.
 
 Tidak ada unsur niat jahat di sini; ini murni cara keputusan bisnis bekerja. Aplikasi perjalanan tutup secara berkala, paket gratis dipindahkan ke balik dinding pembayaran, dan layanan dihentikan. Orang yang tidak punya suara dalam penentuan waktunya adalah Anda.
 
@@ -70,9 +72,9 @@ Penyimpanan berbasis luring menghilangkan ketiga risiko itu sekaligus. Dokumen t
 
 Respons yang masuk akal terhadap keruntuhan TripCase bukanlah meninggalkan alat berbasis cloud sepenuhnya; melainkan menyusunnya berlapis. Pertahankan aplikasi cloud yang praktis untuk perencanaan dan notifikasi, karena keduanya layak mendapat tempatnya, dan simpan dokumen yang mendefinisikan identitas perjalanan Anda secara luring di tempat yang tidak bisa disentuh oleh keputusan perusahaan mana pun.
 
-Mulailah dengan pemeriksaan sederhana: di mana setiap hasil pindaian paspor Anda, setiap PDF visa, setiap ID anak Anda tersimpan sekarang, dan apa yang terjadi jika layanan tersebut lenyap dengan pemberitahuan 60 hari? [Daftar periksa dokumen perjalanan](https://traveldocumentvault.com/id/blog/travel-document-checklist/) kami adalah tempat praktis untuk memulai.
-
 TripCase sudah tiada, dan fitur-fiturnya kini tersebar di berbagai aplikasi lain. Namun ada satu pelajaran yang layak diambil: dokumen perjalanan Anda seharusnya tidak ikut lenyap bersama server milik orang lain.
+
+Mulailah dengan pemeriksaan sederhana hari ini: di mana setiap hasil pindaian paspor Anda, setiap PDF visa, setiap ID anak Anda tersimpan sekarang, dan apa yang terjadi jika layanan tersebut lenyap dengan pemberitahuan 60 hari? [Daftar periksa dokumen perjalanan](https://traveldocumentvault.com/id/blog/travel-document-checklist/) kami adalah tempat praktis untuk memulai.
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 

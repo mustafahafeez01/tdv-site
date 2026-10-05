@@ -33,7 +33,9 @@ Innan vi pratar risk, låt oss vara konkreta med vad som faktiskt finns i en pas
 - Ditt foto
 - Den maskinläsbara zonen (MRZ) – de två textraderna längst ner som kodar allt ovanstående i ett standardformat
 
-Det är mycket personlig data i en enda bild. Namn, födelsedatum och passnummer tillsammans räcker för att försöka identitetsbedrägeri, genomföra en övertygande nätfiskeattack med dina riktiga uppgifter, eller i vissa jurisdiktioner öppna kredit i ditt namn. **Fotot gör det bara ännu mer användbart för någon som inte borde ha det.**
+Det är mycket personlig data i en enda bild. Namn, födelsedatum och passnummer tillsammans räcker för att försöka identitetsbedrägeri, genomföra en övertygande nätfiskeattack med dina riktiga uppgifter, eller i vissa jurisdiktioner öppna kredit i ditt namn.
+
+Fotot gör det bara ännu mer användbart för någon som inte borde ha det.
 
 ## Vilka är de faktiska riskerna med att lagra i Google Foto?
 
@@ -41,7 +43,7 @@ Riskerna handlar egentligen inte om att Google gör något illasinnat; de är me
 
 **Kontokompromettering**
 
-Någon tar sig in i ditt Google-konto – via nätfiske, ett återanvänt lösenord från ett annat intrång, eller helt enkelt ett svagt lösenord – och de har tillgång till allt: varje foto, varje handling, allt i Google Drive. Det här är det mest realistiska verkliga hotet för de flesta, och det är precis därför säkerheten kring passfoton spelar större roll än de flesta inser.
+Någon tar sig in i ditt Google-konto – via nätfiske, ett återanvänt lösenord från ett annat intrång, eller helt enkelt ett svagt lösenord – och de har tillgång till allt: varje foto, varje handling, allt i Google Drive. Det här är det mest realistiska verkliga hotet för de flesta, och det är precis därför säkerheten kring passfoton spelar större roll än de flesta inser. Vi skulle betrakta alla lösenord som återanvänds på mer än en webbplats som redan komprometterade.
 
 **Delad åtkomst**
 
@@ -103,7 +105,7 @@ Appar byggda specifikt för det här – som [Travel Document Vault](https://tra
 
 Tresorit och Proton Drive erbjuder klientsidig kryptering för molnlagring, så leverantören kan inte läsa dina filer mer än en lösenordshanterare kan. Du får molnets bekvämlighet med betydligt starkare säkerhet för passfoton än Google Foto.
 
-## Bästa praxis om du fortsätter använda Google Foto
+## Stannar du kvar på Google Foto gör tvåfaktorsautentisering det mesta av jobbet
 
 Många kommer att fortsätta använda Google Foto för det här – bekvämligheten är verklig. Är det du, gör de här stegen faktiskt skillnad för risken:
 
@@ -114,6 +116,8 @@ Många kommer att fortsätta använda Google Foto för det här – bekvämlighe
 - **Skapa ett privat album för känsliga handlingar** i stället för att låta dem ligga löst i huvudflödet. Det stoppar inte ett intrång, men minskar oavsiktlig exponering när någon tittar över axeln på dig.
 
 För fler tips om att hålla dina resehandlingar organiserade och säkra, kolla in våra [reseråd på bloggen](https://traveldocumentvault.com/sv/blog/) – inklusive en praktisk guide om [hur du organiserar familjens resehandlingar](https://traveldocumentvault.com/sv/blog/how-to-organise-family-travel-documents/) inför nästa resa.
+
+Öppna ditt Google-kontos säkerhetsinställningar redan i dag, slå på tvåfaktorsautentisering om den inte redan är på och byt ut alla lösenord du har använt någon annanstans. Det är den enskilda ändring som mest sannolikt håller den här skanningen, och allt annat i ditt konto, borta från andras händer.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 

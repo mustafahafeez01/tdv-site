@@ -29,15 +29,17 @@ Den avgörande skillnaden – den som de flesta recensioner glider förbi – ä
 - **Lagring på enheten:** Dina skannade pass och övriga uppgifter lagras krypterade på telefonen. Apputvecklaren kan inte komma åt dem. Det finns inget konto att bryta sig in i. Tappar du telefonen återställer en ny installation inte automatiskt din data (även om du kan säkerhetskopiera via iCloud eller lokalt).
 - **Molnlagring:** Dina skanningar laddas upp till en server. Du kan komma åt dem från flera enheter och återställa enkelt. Men då litar du på ett företags serversäkerhet och deras plan för att hantera dataintrång, med dina passuppgifter som insats.
 
-Inget av alternativen är fel rakt av, men för identitetshandlingar så känsliga som pass är modellen med lagring på enheten tydligt säkrare. Ett dataintrång hos en app med lagring på enheten läcker ingenting från deras servrar – där finns helt enkelt inget att läcka.
+Inget av alternativen är fel rakt av, men för identitetshandlingar så känsliga som pass är modellen med lagring på enheten tydligt säkrare.
 
-## Funktionerna som faktiskt spelar roll
+Ett dataintrång hos en app med lagring på enheten läcker ingenting från deras servrar – där finns helt enkelt inget att läcka.
 
-### Påminnelser om utgångsdatum med anpassningsbar förvarningstid
+## De här funktionerna avgör om appen är värd att ha
+
+### Förvarningstiden är den inställning som är värd att anpassa
 
 Det här är den enskilt mest värdefulla funktionen. En påminnelse vid 6 månader är minimum – många länder kräver att passet är giltigt minst 6 månader efter dina resdatum, vilket vi förklarar i vår artikel om [6-månadersregeln för pass](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/). För familjer med barn, vars pass går ut efter 5 år i stället för 10, ger en tidigare påminnelse – säg 9 månader i förväg – mer bekväm tid för planering.
 
-### Säker lagring av hela familjens pass i en och samma app
+### En enda app kan rymma hela familjen, på ett säkert sätt
 
 En familj på fyra vill inte ha fyra separata appar. De bästa apparna för att organisera pass behandlar varje person som en egen profil, med egna handlingar, utgångsdatum och påminnelser. Det låter självklart, men förvånansvärt många appar är byggda kring en enda persons handlingar.
 
@@ -45,15 +47,15 @@ Det stämmer bara om appen håller allt på enheten och bakom ett lås. Varje re
 
 Om det du egentligen behöver är ett system för hela hushållet snarare än en lista med appar att välja mellan, går vi igenom [hur du förvarar flera familjemedlemmars pass säkert](https://traveldocumentvault.com/sv/blog/family-passport-management/) mer i detalj där.
 
-### Offlineåtkomst
+### Offlineåtkomst är inte valfri
 
 Du behöver dina passuppgifter precis när internetuppkopplingen är som mest opålitlig: vid internationella gränser, i transitzoner, på landsbygden, eller efter att ha tappat SIM-kortet utomlands. Kräver appen en nätverksanslutning för att visa dina handlingar sviker den dig i det mest kritiska ögonblicket.
 
-### Dokumenttyper som stöds
+### En bra app bör täcka mer än bara pass
 
 Pass är den självklara utgångspunkten, men en bra app hanterar även visum (som går ut oberoende av passet), nationella ID-kort, reseförsäkring, vaccinationsbevis, körkort och – för familjer – samtyckesbrev för barns resor. Ju fler dokumenttyper appen stödjer, desto färre appar behöver du.
 
-### Integritetsmodell
+### En vag integritetspolicy är ett avgörande minus
 
 Innan du laddar ner, fråga dig om appen kräver ett konto, laddar upp skanningar till en server, eller har en tydlig integritetspolicy som visar vilken data den samlar in. Appar som är gratis och finansieras av annonser är generellt sett olämpliga för att lagra identitetshandlingar – då är datan produkten.
 
@@ -72,7 +74,7 @@ Vad det betyder i praktiken
 
 Du står vid en gränskontroll, telefonen är offline, och gränspolisen ber att få se dina visumuppgifter. En app som kräver internetuppkoppling fungerar inte alls – du kommer inte åt dina handlingar. En app med lagring på enheten och utan konto fungerar perfekt. Det är precis då appen måste fungera.
 
-## Engångsköp jämfört med prenumeration
+## Kolla vad som händer med dina handlingar om en prenumeration löper ut
 
 Det finns ett praktiskt argument för appar med engångsköp framför prenumeration när det gäller lagring av handlingar. Glömmer du att förnya en prenumeration – eller väljer att säga upp den – förlorar du åtkomst till dina lagrade handlingar. Det är en riskabel lösning för något du kanske behöver om flera år.
 
@@ -97,6 +99,8 @@ När du utvärderar en app för att organisera pass, ställ dig de här nio frå
 - Är datan krypterad i vila på enheten?
 
 Svarar du ja på alla nio är det ett genuint pålitligt val. För varje nej, fundera på om den avvägningen spelar roll för dig. För mer om att organisera dina handlingar, se vår [blogg](https://traveldocumentvault.com/sv/blog/) för tips om vad du bör spara och när.
+
+Ta fram appen du faktiskt överväger och gå igenom den här listan innan du skannar in en enda passida.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 

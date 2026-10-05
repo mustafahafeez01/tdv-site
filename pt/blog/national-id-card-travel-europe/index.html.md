@@ -18,13 +18,13 @@ Source: https://traveldocumentvault.com/pt/blog/national-id-card-travel-europe/
 
 Se é cidadão da UE e está a planear uma viagem a outro país europeu, provavelmente tem um cartão de identidade nacional. E já deve ter pensado se leva o cartão, o passaporte, ou os dois. A resposta direta é esta: dentro da UE e do EEE, o cartão de identidade chega sozinho para viajar, porque este artigo é escrito especificamente para cidadãos da UE e do EEE. Um leitor britânico ou americano não tem um cartão de identidade nacional para viajar, por isso, se for o seu caso, o passaporte é a sua única opção de qualquer forma.
 
-No resto da Europa, as regras são claras e mais simples do que a maioria pensa. A confusão não vem da lei, mas das companhias aéreas, que sobrepõem as suas próprias exigências. Perceber a diferença entre o que a Europa exige legalmente e o que a sua companhia aérea pede evita um aperto de última hora no check-in.
+No resto da Europa, as regras são claras e mais simples do que a maioria pensa. A confusão costuma vir das companhias aéreas, que sobrepõem as suas próprias exigências às da lei. Perceber a diferença entre o que a Europa exige legalmente e o que a sua companhia aérea pede evita um aperto de última hora no check-in.
 
 ## Quando um cartão de identidade da UE é suficiente
 
 Dentro da UE e do EEE, um cartão de identidade nacional válido é um documento de viagem completo. Pode atravessar fronteiras entre estados-membros da UE, Noruega, Islândia, Listenstaine e Suíça só com o cartão. Não precisa do passaporte. O cartão tem de ser válido no dia em que chega — ao contrário do passaporte para alguns destinos, não existe uma «regra dos 6 meses» para viajar pela Europa com cartão de identidade.
 
-Um cartão que expira amanhã continua, tecnicamente, a ser um documento de viagem válido hoje. Ainda assim, **renová-lo com bastante antecedência continua a ser boa ideia**, porque um cartão perto de expirar tem mais probabilidade de ser questionado na fronteira, e os cartões danificados são recusados mesmo que ainda não tenham expirado.
+Um cartão que expira amanhã continua, tecnicamente, a ser um documento de viagem válido hoje. Ainda assim, renová-lo com bastante antecedência continua a ser boa ideia, porque um cartão perto de expirar tem mais probabilidade de ser questionado na fronteira, e os cartões danificados são recusados mesmo que ainda não tenham expirado.
 
 É no espaço Schengen que esta flexibilidade mais importa. Como cidadão da UE com cartão de identidade válido, pode circular livremente entre países Schengen sem controlo de passaportes. O mesmo direito aplica-se nas fronteiras de países da UE fora do espaço Schengen — o cartão funciona por causa do direito de livre circulação da UE, não por causa da pertença ao espaço Schengen.
 
@@ -57,7 +57,9 @@ Abordamos isto em detalhe no nosso guia sobre [gestão de passaportes em famíli
 
 Se o seu cartão de identidade for recusado, as suas opções dependem do que mais tiver consigo. Um passaporte adicional costuma permitir-lhe viajar na mesma, desde que seja válido e cumpra os requisitos de entrada do destino. Só com o cartão de identidade na mão, porém, não há rede de segurança: não pode atravessar a fronteira, e os agentes não têm obrigação de aceitar outro documento.
 
-**A abordagem mais prática:** leve tanto o cartão de identidade como o passaporte quando viajar internacionalmente, mesmo dentro da Europa. Nenhum dos dois ocupa muito espaço, e ter ambos evita que um documento danificado ou questionado ponha fim à sua viagem. Se o seu cartão for recusado por ser ilegível, o passaporte torna-se a sua reserva.
+A abordagem mais prática é levar tanto o cartão de identidade como o passaporte quando viajar internacionalmente, mesmo dentro da Europa.
+
+Nenhum dos dois ocupa muito espaço, e ter ambos evita que um documento danificado ou questionado ponha fim à sua viagem. Se o seu cartão for recusado por ser ilegível, o passaporte torna-se a sua reserva.
 
 ## Dois documentos, duas datas de validade
 
@@ -66,6 +68,8 @@ O verdadeiro desafio na gestão de documentos de viagem é este: o seu cartão d
 A parte mais difícil é que **nenhum dos dois documentos lhe envia um lembrete.** Supõe-se que os verifique você mesmo. A maioria das pessoas não o faz, até estar no balcão de check-in e um agente lhe dizer que um deles está demasiado perto de expirar para ser aceite.
 
 O que ajuda é ter um único lugar para os dois documentos, um que capta a data de validade de cada um ao digitalizá-lo e que o avisa separadamente para cada documento, de acordo com o calendário próprio desse tipo de documento. Consulte o nosso guia sobre [como construir uma verificação completa de documentos antes de viajar](https://traveldocumentvault.com/pt/blog/travel-document-checklist/) para ter a visão completa do que verificar antes de partir.
+
+Comece hoje: pegue no seu cartão de identidade, verifique a data de validade e examine-o à procura de fissuras, desbotamento ou plástico deformado. Se estiver no limite, marque a renovação antes de reservar a viagem.
 
 ## Perguntas Frequentes
 

@@ -33,7 +33,9 @@ Før vi taler om risiko, lad os være konkrete om, hvad der faktisk er i en pass
 - Dit fotografi
 - Den maskinlæsbare zone (MRZ) – de to tekstlinjer nederst, der koder alt ovenstående i et standardformat
 
-Det er mange personlige oplysninger i ét billede. Navn, fødselsdato og pasnummer tilsammen er nok til at forsøge identitetstyveri, gennemføre et overbevisende phishing-angreb med dine rigtige oplysninger, eller i visse jurisdiktioner optage kredit i dit navn. **Fotoet gør det kun endnu mere nyttigt for nogen, der ikke burde have det.**
+Det er mange personlige oplysninger i ét billede. Navn, fødselsdato og pasnummer tilsammen er nok til at forsøge identitetstyveri, gennemføre et overbevisende phishing-angreb med dine rigtige oplysninger, eller i visse jurisdiktioner optage kredit i dit navn.
+
+Fotoet gør det kun endnu mere nyttigt for nogen, der ikke burde have det.
 
 ## Hvad er de reelle risici ved at opbevare i Google Fotos?
 
@@ -41,7 +43,7 @@ Risiciene handler egentlig ikke om, at Google gør noget ondsindet; de er langt 
 
 **Kontokompromittering**
 
-Nogen kommer ind i din Google-konto – via phishing, et genbrugt kodeord fra et andet databrud, eller bare et svagt kodeord – og de har adgang til alt: hvert billede, hvert dokument, alt i Google Drev. Det er den mest realistiske trussel for de fleste, og det er præcis derfor, sikkerheden omkring pasbilleder betyder mere, end de fleste går og tror.
+Nogen kommer ind i din Google-konto – via phishing, et genbrugt kodeord fra et andet databrud, eller bare et svagt kodeord – og de har adgang til alt: hvert billede, hvert dokument, alt i Google Drev. Det er den mest realistiske trussel for de fleste, og det er præcis derfor, sikkerheden omkring pasbilleder betyder mere, end de fleste går og tror. Vi ville betragte ethvert kodeord, der bruges på mere end ét websted, som allerede kompromitteret.
 
 **Delt adgang**
 
@@ -103,7 +105,7 @@ Apps bygget specifikt til dette – som [Travel Document Vault](https://traveldo
 
 Tresorit og Proton Drive tilbyder klientsidig kryptering til cloud-lagring, så udbyderen ikke kan læse dine filer, mere end en kodeordshåndtering kan. Du får cloud-bekvemmelighed med markant stærkere sikkerhed for pasbilleder end Google Fotos.
 
-## Bedste praksis, hvis du fortsætter med at bruge Google Fotos
+## Bliver du på Google Fotos, klarer totrinsgodkendelse det meste af arbejdet
 
 Mange vil fortsætte med at bruge Google Fotos til dette – bekvemmeligheden er reel. Er det dig, gør disse trin faktisk en forskel for risikoen:
 
@@ -114,6 +116,8 @@ Mange vil fortsætte med at bruge Google Fotos til dette – bekvemmeligheden er
 - **Opret et privat album til følsomme dokumenter** i stedet for at lade dem ligge løst i din hovedstrøm af billeder. Det stopper ikke et databrud, men det mindsker utilsigtet eksponering, når nogen kigger med over skulderen.
 
 For flere tips til at holde dine rejsedokumenter organiserede og sikre, kan du kigge på vores [rejsedokument-tips på bloggen](https://traveldocumentvault.com/da/blog/) – herunder en praktisk guide til, hvordan du [organiserer familiens rejsedokumenter](https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-documents/) inden næste rejse.
+
+Åbn sikkerhedsindstillingerne på din Google-konto i dag, slå totrinsgodkendelse til, hvis den ikke allerede er slået til, og skift ethvert kodeord, du har brugt andre steder. Det er den enkeltstående ændring, der med størst sandsynlighed holder denne scanning og alt andet på din konto ude af forkerte hænder.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 

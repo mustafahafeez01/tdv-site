@@ -29,15 +29,17 @@ Het belangrijkste onderscheid – waar de meeste reviews aan voorbijgaan – is 
 - **Opslag op je toestel:** je paspoortscans en gegevens worden versleuteld op je telefoon bewaard. Het appbedrijf kan er niet bij. Er is geen account dat gehackt kan worden. Raak je je telefoon kwijt, dan herstelt een nieuwe installatie je gegevens niet automatisch (al kun je wel back-uppen via iCloud of lokaal).
 - **Cloudopslag:** je scans worden geüpload naar een server. Je kunt ze vanaf meerdere toestellen benaderen en makkelijk herstellen. Maar je vertrouwt je paspoortgegevens toe aan de serverbeveiliging van een bedrijf en hun reactieplan bij een datalek.
 
-Geen van beide benaderingen is per definitie "fout", maar voor identiteitsdocumenten die zo gevoelig zijn als paspoorten is het model met opslag op het toestel merkbaar veiliger. Bij een datalek bij een app die alles op het toestel bewaart, lekt er niets van hun servers – er staat daar simpelweg niets om te lekken.
+Geen van beide benaderingen is per definitie "fout", maar voor identiteitsdocumenten die zo gevoelig zijn als paspoorten is het model met opslag op het toestel merkbaar veiliger.
 
-## De functies die er echt toe doen
+Bij een datalek bij een app die alles op het toestel bewaart, lekt er niets van hun servers – er staat daar simpelweg niets om te lekken.
 
-### Vervalherinneringen met instelbare voorlooptijd
+## Deze functies bepalen of de app zijn plek verdient
 
-Dit is verreweg de waardevolste functie. Een herinnering op 6 maanden is het minimum – veel landen eisen dat je paspoort nog minstens 6 maanden geldig is na je reisdata, zoals we uitleggen in ons artikel over de [6 maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/). Voor gezinnen met kinderen, van wie paspoorten na 5 jaar verlopen in plaats van 10, geeft een eerdere herinnering – bijvoorbeeld 9 maanden van tevoren – meer comfortabele planningstijd.
+### De voorlooptijd van herinneringen is de instelling die je zelf wilt kunnen aanpassen
 
-### De paspoorten van meerdere gezinsleden veilig bewaren in één app
+Een herinnering op 6 maanden is het minimum – veel landen eisen dat je paspoort nog minstens 6 maanden geldig is na je reisdata, zoals we uitleggen in ons artikel over de [6 maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/). Voor gezinnen met kinderen, van wie paspoorten na 5 jaar verlopen in plaats van 10, geeft een eerdere herinnering – bijvoorbeeld 9 maanden van tevoren – meer comfortabele planningstijd.
+
+### Eén app kan het hele gezin veilig bevatten
 
 Een gezin van vier zit niet te wachten op vier losse apps. De beste paspoortorganizer-apps behandelen elke persoon als een apart profiel, met eigen documenten, vervaldatums en herinneringen. Dat klinkt vanzelfsprekend, maar verrassend veel apps zijn gebouwd rond de documenten van één enkele persoon.
 
@@ -45,15 +47,15 @@ Dat klopt alleen als de app alles op het toestel bewaart en achter een vergrende
 
 Als je eigenlijk op zoek bent naar een systeem voor het hele huishouden in plaats van een lijstje met apps, gaan we daar uitgebreider op in: [hoe je de paspoorten van meerdere gezinsleden veilig bewaart](https://traveldocumentvault.com/nl/blog/family-passport-management/).
 
-### Offline toegang
+### Offline toegang is geen optie maar een vereiste
 
 Je hebt je paspoortgegevens precies nodig op de momenten dat internettoegang onbetrouwbaar is: aan internationale grenzen, in transitzones, op het platteland, of nadat je in het buitenland je simkaart bent kwijtgeraakt. Als de app een netwerkverbinding nodig heeft om je documenten te tonen, faalt ze precies op het cruciale moment.
 
-### Ondersteunde documenttypen
+### Een goede app dekt meer dan alleen paspoorten
 
 Paspoorten zijn het voor de hand liggende startpunt, maar een goede organizer verwerkt ook visa (die onafhankelijk van je paspoort verlopen), nationale identiteitskaarten, reisverzekeringen, vaccinatiebewijzen, rijbewijzen en – voor gezinnen – toestemmingsverklaringen voor reizende kinderen. Hoe meer documenttypen ondersteund worden, hoe minder apps je nodig hebt.
 
-### Privacymodel
+### Een vaag privacybeleid is een reden om af te haken
 
 Vraag jezelf voor het downloaden af of de app een account vereist, scans naar een server uploadt, of een duidelijk privacybeleid heeft dat aangeeft welke gegevens er worden verzameld. Apps die gratis zijn en op advertenties draaien, zijn over het algemeen niet geschikt om identiteitsdocumenten in te bewaren – de gegevens zijn dan het product.
 
@@ -72,7 +74,7 @@ Wat dit in de praktijk betekent
 
 Je staat bij een grensovergang, je telefoon is offline, en de immigratiebeambte vraagt om je visumgegevens te zien. Een app die internet vereist, faalt volledig – je kunt niet bij je documenten. Een app zonder account die alles op het toestel bewaart, werkt gewoon perfect. Dit is precies het moment waarop de app moet functioneren.
 
-## Eenmalige aankoop versus abonnement
+## Controleer wat er met je documenten gebeurt als een abonnement afloopt
 
 Er is een praktisch argument voor apps met een eenmalige aankoop boven abonnementen als het om documentopslag gaat. Vergeet je een abonnement te verlengen – of besluit je simpelweg op te zeggen – dan verlies je de toegang tot je opgeslagen documenten. Dat is een riskante regeling voor iets wat je misschien pas over jaren weer nodig hebt.
 
@@ -97,6 +99,8 @@ Stel jezelf deze negen vragen bij het beoordelen van een paspoortorganizer-app:
 - Worden gegevens versleuteld opgeslagen op het toestel?
 
 Zijn negen van deze antwoorden "ja", dan heb je een werkelijk betrouwbare app te pakken. Weeg bij elk "nee" af of die afweging voor jou van belang is. Voor meer over het organiseren van documenten: bekijk onze [blog](https://traveldocumentvault.com/nl/blog/) voor tips over wat je moet bewaren en wanneer.
+
+Pak de app die je daadwerkelijk overweegt en loop hem langs deze lijst voordat je ook maar één paspoortpagina scant.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

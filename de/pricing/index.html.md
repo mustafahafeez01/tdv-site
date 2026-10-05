@@ -114,7 +114,7 @@ Keine Zeitlimits. Keine Funktionen, die mysteriös verschwinden. Keine dunkel ge
 
 ## Was Pro hinzufügt
 
-Pro ist für Familien. Unbegrenzte Profile für Ihre ganze Familie, unbegrenzte Dokumente, Reiseplaner mit visueller Bereitschafts-Checkliste, verschlüsselte Cloud-Sicherung auf Ihrer eigenen iCloud oder Google Drive und ein Tage-im-Ausland-Tracker für Schengen-Limits und Steuersitzverfolg.
+Pro ist für Familien. Unbegrenzte Profile für Ihre ganze Familie, unbegrenzte Dokumente, Reiseplaner mit visueller Bereitschafts-Checkliste, verschlüsselte Cloud-Sicherung auf Ihrer eigenen iCloud oder Google Drive und ein Tage-im-Ausland-Tracker für Tageslimits pro Land und Steuersitzverfolg.
 
 Ein Kauf auf Ihrem Konto. Eine Familie. Funktioniert auf allen Ihren Geräten.
 

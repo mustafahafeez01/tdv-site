@@ -38,7 +38,7 @@ Mostra regras de Schengen, períodos de validade do visto e costumes locais. Tud
 
 Rastreie quantos dias cada membro da família passou em um país criando períodos (ano Schengen, janela de visto, ano fiscal) e vinculando as regras de subsídio a eles — depois veja um detalhamento por membro num relance.
 
-Construído para rastreamento Schengen 90/180, regras de 183 dias do Reino Unido e qualquer janela de visto ou residência personalizada. Os dias usados atualizam automaticamente conforme as viagens são registradas.
+Construído para limites móveis do tipo 90/180 num país, regras de 183 dias do Reino Unido e qualquer janela de visto ou residência personalizada. Os dias usados atualizam automaticamente conforme as viagens são registradas.
 
 ## Muito Mais
 

@@ -38,7 +38,7 @@ Menunjukkan aturan Schengen, jendela keabsahan visa, dan adat lokal. Semuanya di
 
 Lacak berapa hari setiap anggota keluarga telah menghabiskan di suatu negara dengan membuat periode (tahun Schengen, jendela visa, tahun pajak) dan menautkan aturan godaan padanya, kemudian lihat rincian per anggota sekilas.
 
-Dibangun untuk pelacakan Schengen 90/180, aturan 183 hari Inggris, dan jendela visa atau hunian khusus apa pun. Hari yang digunakan diperbarui secara otomatis saat perjalanan dicatat.
+Dibangun untuk batas bergulir ala 90/180 di satu negara, aturan 183 hari Inggris, dan jendela visa atau hunian khusus apa pun. Hari yang digunakan diperbarui secara otomatis saat perjalanan dicatat.
 
 ## Dan banyak lagi
 

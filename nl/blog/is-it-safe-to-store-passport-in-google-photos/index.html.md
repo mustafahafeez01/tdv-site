@@ -33,7 +33,9 @@ Voordat we het over risico hebben, laten we concreet zijn over wat er daadwerkel
 - Je foto
 - De machineleesbare zone (MRZ) – de twee tekstregels onderaan die alle bovenstaande gegevens in een standaardformaat coderen
 
-Dat is veel persoonlijke data in één afbeelding. Je naam, geboortedatum en paspoortnummer samen zijn genoeg om identiteitsfraude te proberen, een overtuigende phishingaanval met je echte gegevens uit te voeren, of in sommige rechtsgebieden krediet op jouw naam te openen. **De foto maakt het alleen maar bruikbaarder voor iemand die het niet zou moeten hebben.**
+Dat is veel persoonlijke data in één afbeelding. Je naam, geboortedatum en paspoortnummer samen zijn genoeg om identiteitsfraude te proberen, een overtuigende phishingaanval met je echte gegevens uit te voeren, of in sommige rechtsgebieden krediet op jouw naam te openen.
+
+De foto maakt het alleen maar bruikbaarder voor iemand die het niet zou moeten hebben.
 
 ## Wat zijn de daadwerkelijke risico's van opslag in Google Foto's?
 
@@ -41,7 +43,7 @@ De risico's gaan niet echt over dat Google iets kwaadaardigs doet; ze zijn alled
 
 **Accountcompromittering**
 
-Iemand komt in je Google-account – via phishing, een hergebruikt wachtwoord van een ander datalek, of gewoon een zwak wachtwoord – en heeft toegang tot alles: elke foto, elk document, alles in Google Drive. Dit is voor de meeste mensen de meest realistische bedreiging in de praktijk, en precies daarom telt de beveiliging van je paspoortfoto zwaarder dan de meeste mensen beseffen.
+Iemand komt in je Google-account – via phishing, een hergebruikt wachtwoord van een ander datalek, of gewoon een zwak wachtwoord – en heeft toegang tot alles: elke foto, elk document, alles in Google Drive. Dit is voor de meeste mensen de meest realistische bedreiging in de praktijk, en precies daarom telt de beveiliging van je paspoortfoto zwaarder dan de meeste mensen beseffen. Een wachtwoord dat je op meer dan één site gebruikt, zouden wij al als gelekt beschouwen.
 
 **Gedeelde toegang**
 
@@ -101,7 +103,7 @@ Apps die specifiek hiervoor gebouwd zijn – zoals [Travel Document Vault](https
 
 Tresorit en Proton Drive bieden encryptie aan de clientzijde voor cloudopslag, zodat de provider je bestanden niet meer kan lezen dan een wachtwoordmanager dat kan. Je krijgt het gemak van de cloud met aanzienlijk sterkere beveiliging voor je paspoortfoto dan Google Foto's.
 
-## Beste praktijken als je Google Foto's blijft gebruiken
+## Blijf je bij Google Foto's, dan doet tweestapsverificatie het meeste werk
 
 Veel mensen blijven Google Foto's hiervoor gebruiken – het gemak is reëel. Is dat jij, dan maken deze stappen echt verschil voor het risico:
 
@@ -112,6 +114,8 @@ Veel mensen blijven Google Foto's hiervoor gebruiken – het gemak is reëel. Is
 - **Maak een privéalbum voor gevoelige documenten** in plaats van ze los in je hoofdfotostroom te laten staan. Het stopt geen datalek, maar het vermindert onbedoelde blootstelling wanneer iemand meekijkt over je schouder.
 
 Voor meer tips om je reisdocumenten georganiseerd en veilig te houden, bekijk onze [reistips op de blog](https://traveldocumentvault.com/nl/blog/) – inclusief een praktische gids over hoe je de [reisdocumenten van je gezin organiseert](https://traveldocumentvault.com/nl/blog/how-to-organise-family-travel-documents/) voor je volgende reis.
+
+Open vandaag nog de beveiligingsinstellingen van je Google-account, zet tweestapsverificatie aan als dat nog niet zo is, en vervang elk wachtwoord dat je ook ergens anders gebruikt. Die ene aanpassing houdt deze scan, en de rest van je account, het meest waarschijnlijk uit handen van een ander.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

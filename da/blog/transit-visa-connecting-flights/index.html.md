@@ -21,7 +21,7 @@ Om en mellemlanding kræver transitvisum, afhænger af tre ting: hvilket pas du 
 
 Transitvisum er det dokument, der fanger selv de mest omhyggelige rejsende på det forkerte ben, fordi det står helt for sig selv i forhold til resten af dine papirer. Passets gyldighed har ingen betydning for det, og destinationens indrejsevisum kan heller ikke erstatte det – det findes udelukkende, fordi flyet tilfældigvis lander for at tanke undervejs. Alligevel er der mange rejsende, der først tjekker, om de skal bruge et, når det er alt for sent.
 
-## Airside-transit vs. landside-transit – den afgørende forskel
+## Airside-transit kræver ofte intet visum, men landside betyder paskontrol
 
 Om du skal bruge visum, afhænger ofte af én bestemt skillelinje: airside eller landside. De fleste lande giver visumfri transit på den ene side af den linje, men ikke på den anden.
 
@@ -53,13 +53,13 @@ Det gælder også for nationaliteter, der ellers minder om hinanden inden for sa
 
 Derfor er IATA Travel Centre (den samme database, flyselskaberne bruger ved gaten) den eneste pålidelige kilde: du indtaster din nationalitet og din destination, og den fortæller dig præcis, hvad der kræves for netop den kombination. Gå aldrig ud fra, at du kender svaret, fordi en anden rejsende har oplevet noget bestemt, eller fordi du husker det fra en tidligere tur.
 
-## Opdager du efter booking, at du mangler et transitvisum
+## Opdager du efter booking, at du mangler visum, så kontakt først dit flyselskab
 
 Det sker oftere, end man skulle tro: du booker flybilletterne og opdager derefter, at mellemlandingen kræver et transitvisum, du ikke har. Sker det, skal du behandle det som noget akut, for behandlingstiden varierer enormt – fra samme dag til flere uger, afhængigt af landet og årstiden.
 
 Start med dit flyselskab, som måske kender behandlingstiderne og i nogle tilfælde har erfaring med de mest almindelige ruter. Kontakt derefter transitlandets nærmeste ambassade eller konsulat for at finde ud af, hvor lang tid selve visummet tager. Mange konsulater tilbyder hurtig sagsbehandling ved akutte rejsesituationer, men du skal måske betale et ekstra gebyr.
 
-Kan visummet ikke behandles i tid inden afrejsen, har du tre muligheder: omlægge flyene, så du helt undgår transitlandet, booke om via en anden lufthavn eller udskyde rejsen. Forsøger du at gå ombord uden det krævede visum, kommer du ikke med flyet, og du kan få problemer med flyselskabet.
+Kan visummet ikke behandles i tid inden afrejsen, har du tre muligheder: omlægge flyene, så du helt undgår transitlandet, booke om via en anden lufthavn eller udskyde rejsen, så book den nye rute i det øjeblik, du opdager problemet, i stedet for at vente og håbe, at papirerne når at blive klar i tide. Forsøger du at gå ombord uden det krævede visum, kommer du ikke med flyet, og du kan få problemer med flyselskabet.
 
 ## Sådan tjekker du, før du booker
 
@@ -70,6 +70,8 @@ Viser værktøjet, at du skal have et transitvisum, er der to ting at notere ud 
 Skriv eventuelle transitvisummer ind i din tidsplan sammen med dit primære indrejsevisum. Nogle tager uger, og den information skal du have, før du booker flyene. Gem bekræftelsen sammen med dine øvrige rejsedokumenter, så den er ved hånden ved gaten – for det er flyselskabet, ikke grænsekontrollen, der tjekker den først.
 
 Rejser du som familie, skal du tjekke hvert familiemedlems pas for sig. Én person, der ikke er undtaget, kan vælte hele rejsen.
+
+Før du booker, så kør hele din rute, ikke kun destinationen, gennem IATA Travel Centre. Det er det tjek, der oftest fanger et manglende krav, mens du stadig kan ændre bookingen.
 
 ## Ofte stillede spørgsmål
 

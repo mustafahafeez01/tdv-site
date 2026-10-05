@@ -20,9 +20,9 @@ Os viajantes frequentemente descobrem que esqueceram cartas de consentimento, ce
 
 Para a lista completa de todos os documentos que pode precisar por tipo de viagem e fase, veja [a lista completa de documentos de viagem](https://traveldocumentvault.com/pt/blog/travel-document-checklist/). Este artigo explora o que é esquecido e como se preparar para perder documentos no estrangeiro.
 
-## Os Documentos Que As Pessoas Costumam Esquecer
+## Cinco Documentos Que as Pessoas Esquecem Depois de Arrumarem o Passaporte
 
-O seu passaporte e visto parecem urgentes, por isso são embalados primeiro. Mas os funcionários de imigração na porta verificam cinco outros documentos que a maioria das pessoas não dá importância.
+O seu passaporte e visto parecem urgentes, por isso são embalados primeiro. Os cinco documentos que as pessoas realmente esquecem vêm depois: comprovante de viagem continuada, confirmações de alojamento, certificados de vacinação, detalhes de seguro e a carta de consentimento de uma criança.
 
 ### Comprovante de viagem continuada
 
@@ -42,7 +42,9 @@ Precisará de acesso imediato ao número da sua apólice, detalhes de contacto d
 
 ### Cartas de consentimento para viagem de menores
 
-Quando uma criança viaja internacionalmente com apenas um progenitor (ou sem ambos os progenitores), muitos países esperam consentimento escrito do progenitor ausente, e a autenticação por notário é fortemente recomendada. Os funcionários de fronteira em países incluindo Canadá e África do Sul pedem rotineiramente isto, e o pessoal da companhia aérea pode recusar o embarque sem isto. É o documento mais frequentemente esquecido em viagens familiares, portanto verifique duas vezes antes de chegar à porta.
+Quando uma criança viaja internacionalmente com apenas um progenitor (ou sem ambos os progenitores), muitos países esperam consentimento escrito do progenitor ausente, e a autenticação por notário é fortemente recomendada. Os funcionários de fronteira em países incluindo Canadá e África do Sul pedem rotineiramente isto, e o pessoal da companhia aérea pode recusar o embarque sem isto.
+
+É o documento mais frequentemente esquecido em viagens familiares, portanto verifique duas vezes antes de chegar à porta.
 
 ## O Que Transportar Versus O Que Guardar Digitalmente
 
@@ -81,13 +83,13 @@ Detalhes específicos para ter à mão, tanto em papel como digitalmente:
 - Limites de cobertura para evacuação médica, que costumam estar listados separadamente da cobertura médica geral
 - Quaisquer exclusões ou condições que se aplicam à sua viagem
 
-O número de emergência deve ser guardado nos seus contactos de telemóvel separadamente dos documentos físicos. Se a sua mala for perdida ou roubada, isto assegura que pode ainda aceder ajuda sem o seu documento de apólice física.
+Nós guardaríamos o número de emergência nos contactos do telemóvel, separado dos documentos físicos. Se a sua mala for perdida ou roubada, isto assegura que pode ainda aceder ajuda sem o seu documento de apólice física.
 
 ## O Que Famílias com Crianças Precisam de Adicionar
 
 Cada criança precisa do seu próprio passaporte para viagens internacionais, por muito jovem que seja. Muitos países também controlam atentamente viagens de crianças para se protegerem contra rapto parental, portanto espere perguntas extra quando uma criança viaja com apenas um progenitor.
 
-**Carta de consentimento de viagem de menor:** Se uma criança está a viajar internacionalmente com apenas um progenitor, muitos funcionários de fronteira pedirão consentimento escrito do progenitor ausente, preferencialmente autenticado por notário. Se viajar sem ambos os progenitores (com avós, por exemplo), o consentimento de ambos os progenitores é tipicamente exigido. Os requisitos mudam e variam por nacionalidade, portanto verifique com a autoridade de imigração oficial do seu destino.
+A mesma regra aplica-se aqui: quando uma criança viaja internacionalmente com apenas um progenitor, muitos funcionários de fronteira pedirão consentimento escrito do progenitor ausente, preferencialmente autenticado por notário. Se viajar sem ambos os progenitores (com avós, por exemplo), o consentimento de ambos os progenitores é tipicamente exigido. Os requisitos mudam e variam por nacionalidade, portanto verifique com a autoridade de imigração oficial do seu destino.
 
 Uma carta de consentimento deve tipicamente incluir o nome completo da criança e data de nascimento, detalhes de passaporte, datas de viagem e destinos, e detalhes de contacto do(s) progenitor(es) ausente(s). Alguns destinos têm modelos específicos; o governo canadiano, por exemplo, fornece um formato de exemplo de carta de consentimento.
 
@@ -95,11 +97,13 @@ O que isto significa na prática
 
 Está a embarcar num voo para o Canadá com a sua criança de 8 anos e o seu parceiro não está a viajar. O pessoal de check-in pode recusar embarcar a sua criança se não conseguir mostrar consentimento escrito do seu parceiro ausente, preferencialmente autenticado por notário. Se a sua criança está a viajar com os seus avós em vez de si, tipicamente ambos os progenitores precisam assinar a carta de consentimento — a permissão de um progenitor apenas geralmente não é suficiente. Verifique sempre os requisitos exatos para o seu destino bem antes da data de partida.
 
-## O Caso para Cópias de Segurança Digitais Desligadas
+## Mantenha uma Cópia de Segurança Desligada Que Não Viaja na Sua Mala
 
 Documentos físicos ajudam até um ladrão levar a sua mala — e geralmente leva as cópias juntamente com os originais. Uma cópia de segurança separada encriptada no seu telemóvel — guardada desligada — é o seu verdadeiro seguro se os originais desaparecerem.
 
 Quando a sua embaixada precisa emitir um documento de viagem de emergência, uma cópia de segurança segura dá-lhe o seu número de passaporte, data de emissão, local de emissão e data de expiração instantaneamente, sem acesso a internet. Para mais informações sobre as opções disponíveis, veja a nossa visão geral de [como guardar cópias de passaporte com segurança](https://traveldocumentvault.com/pt/blog/is-it-safe-to-store-passport-in-google-photos/) e as desvantagens entre diferentes abordagens.
+
+Escolha o documento desta lista de que ainda não tem cópia de segurança, seja a carta de consentimento, o número da apólice de seguro ou a página de dados do passaporte, e guarde uma cópia encriptada e desligada no telemóvel antes da sua próxima viagem.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

@@ -20,7 +20,7 @@ De fleste pasbeskadigelser er kosmetiske. Et slidt omslag, et blødt hjørne, en
 
 Hvor den grænse går, er værd at kende, før du rejser, for et pas kan være teknisk gyldigt og alligevel blive afvist. Det her gennemgår, hvad der tæller som skade, hvad myndighederne generelt accepterer, og hvad du skal gøre, hvis dit allerede er i dårlig stand.
 
-## Hvad der egentlig tæller som pasbeskadigelse
+## Kosmetisk slitage er forventet, skade på sikkerhedselementer er ikke
 
 Her går de fleste unødvendigt i panik: et bøjet hjørne på forsiden er ikke skade, og det er en lille rynke fra at have ligget i baglommen heller ikke. Luftfartsselskaber og grænsevagter ved, at pas bliver brugt, så almindelig kosmetisk slitage er forventet.
 
@@ -30,7 +30,9 @@ Allervigtigst er det, at den maskinlæsbare zone – den sort-hvide stribe neder
 
 Grunden til, at dette betyder noget, er, at **luftfartsselskaberne hæfter, hvis de lader nogen boarde med et uacceptabelt dokument.** Boarder du med et beskadiget pas og bliver nægtet indrejse i den anden ende, kan myndighederne bøde luftfartsselskabet for at have fragtet dig. Luftfartsselskabet skal også betale for at flyve dig hjem igen.
 
-Ingen gateopvartere ønsker det papirarbejde, så de vælger klart forsigtighed. Et pas, der ser tvivlsomt ud, bliver afvist. Punktum.
+Ingen gateopvartere ønsker det papirarbejde, så de vælger klart forsigtighed.
+
+Et pas, der ser tvivlsomt ud, bliver afvist. Punktum.
 
 ## Du opdager skaden dage eller uger før rejsen
 
@@ -42,9 +44,9 @@ Der er nogle ting, du bør bekræfte, før du går derhen. Hastetjenester og eks
 
 Et beskadiget pas betyder som regel også, at du skal ansøge personligt fremfor med posten. I nogle lande er det kontor, der håndterer hastesager, et helt andet sted end det, der bare modtager ansøgninger, og dukker du op det forkerte sted, koster det dig en dag, du sandsynligvis ikke har.
 
-Start processen, i det øjeblik du opdager skaden. At booke fly og håbe på, at fornyelsen når at blive klar, er et væddemål, der ofte tabes – især om sommeren, hvor pasmyndighederne er overbelastede.
+Start processen, i det øjeblik du opdager skaden. **Vi ville ikke vente så meget som en dag med at ringe.** At booke fly og håbe på, at fornyelsen når at blive klar, er et væddemål, der ofte tabes – især om sommeren, hvor pasmyndighederne er overbelastede.
 
-## Skade opdaget i lufthavnen
+## Ved gaten holder ærlighed dine muligheder åbne
 
 Nu til den sværere version: du står i check-in-køen eller ved gaten og bemærker skade, du overså tidligere, eller medarbejderen ser den, i det øjeblik du rækker paset frem.
 
@@ -60,7 +62,7 @@ Bliver boarding afvist, har du få muligheder:
 
 Siger gateopvarteren nej, så undlad at diskutere, og forsøg ikke at boarde alligevel. Det skaber kun større problemer. Luftfartsselskabet kan udelukke dig fra fremtidige flyvninger, immigrationsmyndighederne kan bøde dig, og i nogle lande kan du blive retsforfulgt for at forsøge at rejse på et dokument, de allerede har vurderet ugyldigt.
 
-## Tidsrammer for nødudstedelse af pas
+## Tjek tidsrammen ved kilden, før du booker
 
 De offentliggjorte sagsbehandlingstider ændrer sig hen over året og stiger om sommeren, hvor pasmyndighederne har mest travlt. I stedet for at stole på et tal, du har læst et sted, bør du kontrollere det aktuelle tal ved kilden, før du fastlægger en rejsedato:
 
@@ -71,7 +73,7 @@ De offentliggjorte sagsbehandlingstider ændrer sig hen over året og stiger om 
 
 Mønsteret gælder dog overalt. Jo tættere du er på afgang, jo færre ordninger er tilgængelige, og dem der er tilbage, kræver, at du møder personligt op med dit beskadigede pas og dokumentation for rejsen. Opdager du skaden tre uger før, er det en ulejlighed. Opdager du den tre dage før, er det et helt andet problem.
 
-## Hvorfor digitale kopier redder dagen
+## En scanning af dit pas fremskynder en erstatning
 
 Når du hurtigt skal have erstattet et beskadiget pas, er der én ting, der bremser alt: at bevise, hvem du er. Pasmyndigheden skal bekræfte, at erstatningen udstedes til den retmæssige ejer og ikke til en person med en stjålet identitet.
 
@@ -80,6 +82,8 @@ Et tydeligt digitalt foto af dit pas hjælper her. Gem data-siden, forsiden og b
 Det er særligt værdifuldt, hvis du er i udlandet, når dit pas bliver beskadiget, og har brug for et nødrejsedokument fra din ambassade. Konsulære medarbejdere arbejder hurtigere, når de kan se en scanning af dit oprindelige pas direkte foran sig.
 
 Opbevar dine digitale kopier et krypteret og offline sted – ikke i Google Photos eller iCloud delt med andre. Travel Document Vault er bygget netop til dette formål: pasfotos krypteret udelukkende på din enhed, tilgængelige med det samme, hvis noget går galt.
+
+Scan dit pas i dag, før du får brug for det.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 

@@ -30,7 +30,7 @@ Hvor akut du skal handle, afgør, hvad du skal gøre:
 - **Rejsen begynder at nærme sig:** ring direkte til pasmyndigheden i stedet for kun at stole på hjemmesiden – HM Passport Office's rådgivningslinje i Storbritannien, eller US National Passport Information Center i USA.
 - **Rejsen er umiddelbart forestående:** spørg om en nødtid, og medbring bevis for dine rejsedatoer. Storbritannien tilbyder en samme-dags Premium-service på udvalgte paskontorer, og USA tilbyder tider på regionale paskontorer.
 
-Alle større pasmyndigheder holder nødtider tilbage, som ikke er synlige online. Hvis din tidsramme er stram, så ring i stedet for kun at stole på hjemmesiden.
+Alle større pasmyndigheder holder nødtider tilbage, som ikke er synlige online. Hvis din tidsramme er stram, ville vi altid ringe frem for kun at stole på hjemmesiden.
 
 **Sæt påmindelsen nu**, så det aldrig sker igen – Travel Document Vault giver dig besked allerede fra otte måneder, før hvert pas i din husstand udløber, og igen efterhånden som datoen nærmer sig. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
@@ -52,7 +52,9 @@ Dette scenarie sker oftere, end folk forventer, og trinnene er ikke indlysende, 
 
 ## Andre pasproblemer, der får rejsende afvist
 
-Udløb er den mest almindelige årsag til, at et pas afvises i lufthavnen, men andre problemer giver samme resultat. Det, der gør dem lettere at overse, er, at de – i modsætning til udløbsdatoer – ikke kommer med en synlig nedtælling.
+Udløb er den mest almindelige årsag til, at et pas afvises i lufthavnen, men andre problemer giver samme resultat.
+
+Det, der gør dem lettere at overse, er, at de – i modsætning til udløbsdatoer – ikke kommer med en synlig nedtælling.
 
 ### 1. Et beskadiget pas
 
@@ -68,7 +70,7 @@ Selv små afvigelser som et manglende mellemnavns-initial eller et ombyttet bogs
 
 ### 3. Et usigneret pas
 
-De fleste pas har et underskriftsfelt. Nogle lande – herunder USA – kræver, at passet er underskrevet, før det anses for gyldigt til rejse. Et usigneret pas kan afvises ved grænsen. Dette er oftest et problem med pas udstedt til børn, der var for unge til at underskrive, eller med helt nye pas, hvor indehaveren glemte at underskrive før afrejse. Tjek underskriftsfeltet, før du forlader hjemmet.
+De fleste pas har et underskriftsfelt. Nogle lande – herunder USA – kræver, at passet er underskrevet, før det anses for gyldigt til rejse. Et usigneret pas kan afvises ved grænsen. Dette er oftest et problem med pas udstedt til børn, der var for unge til at underskrive, eller med helt nye pas, hvor indehaveren glemte at underskrive før afrejse. Et hurtigt kig på underskriftsfeltet, før du forlader hjemmet, fanger det tidligt.
 
 ### 4. Utilstrækkelig gyldighed for din destination
 
@@ -82,11 +84,11 @@ Visum- og elektroniske rejsetilladelser (ETA) ændrer sig ofte og varierer efter
 
 Tjek de officielle indrejsekrav for din destination via dit lands rejsevejledningstjeneste før hver rejse: gov.uk/foreign-travel-advice for britiske pasindehavere, travel.state.gov for amerikanske pasindehavere, eller smartraveller.gov.au for australske pasindehavere. Stol ikke på, hvad der var sandt sidste gang.
 
-## Sådan sikrer du, at det aldrig sker igen
+## Sæt påmindelsen et år i forvejen, ikke seks måneder
 
 Grundårsagen er som regel den samme: ingen påmindelse sat op. Sæt en udløbspåmindelse mindst **12 måneder før udløbsdatoen** – ikke 6 måneder. Det giver dig tid til at forny med standardbehandling uden at betale for ekspresservice og uden stresset ved en stram tidsramme.
 
-Gør dette for hvert pas i din husstand hver for sig. Børns pas udløber hurtigere – 5 år i de fleste lande mod 10 for voksne – og er dem, der oftest bliver overset.
+Gør dette for hvert pas i din husstand hver for sig. Børns pas udløber hurtigere (5 år i de fleste lande mod 10 for voksne) og er dem, der oftest bliver overset. **Tag hvert pas frem i dag, og tjek udløbsdatoen, ikke kun fotosiden.**
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 

@@ -16,23 +16,25 @@ Source: https://traveldocumentvault.com/nl/blog/digital-passport-copy-valid/
 - Visumaanvragen vereisen **specifieke formaten** (gewaarmerkte kopieën of notarieel bekrachtigde scans) in plaats van gewone telefoonfoto's. Controleer eerst de website van de ambassade.
 - Raakt je paspoort in het buitenland kwijt, dan **versnelt een digitale kopie de noodvervanging** bij je ambassade aanzienlijk.
 
-Bij het plannen van een reis vragen veel reizigers zich af of ze een digitale kopie van hun paspoort op hun telefoon kunnen bewaren in plaats van het origineel mee te dragen. Het korte antwoord: een digitale kopie is echt nuttig, maar alleen in specifieke situaties. Je moet precies weten waar hij werkt en waar niet, zodat je niet voor verrassingen komt te staan bij het inchecken.
+Bij het plannen van een reis vragen veel reizigers zich af of ze een digitale kopie van hun paspoort op hun telefoon kunnen bewaren in plaats van het origineel mee te dragen. Je moet precies weten waar hij werkt en waar niet, zodat je niet voor verrassingen komt te staan bij het inchecken.
+
+Het korte antwoord: een digitale kopie is echt nuttig, maar alleen in specifieke situaties.
 
 ## Waar digitale paspoortkopieën worden geaccepteerd
 
-### Inchecken in een hotel
+### Veel hotels accepteren een kopie, maar in delen van Europa willen ze meestal het origineel zien
 
 De meeste hotels wereldwijd accepteren digitale paspoortkopieën bij het inchecken – een pdf op je telefoon, vooraf gemaild of uitgeprint. Dit is vooral handig als je laat incheckt of tussen accommodaties reist en je niet je hele reis het fysieke paspoort wilt meedragen. Sommige kleinere hotels, met name in regio's met minder digitale infrastructuur, geven nog steeds de voorkeur aan het origineel. In delen van Europa – waaronder Spanje, Frankrijk en Italië – moeten hotels je gegevens registreren voor de autoriteiten en willen ze daarvoor doorgaans het fysieke paspoort zien, ook al zegt privacywetgeving dat ze normaal gesproken geen kopie mogen bewaren. Neem vooraf contact op met je accommodatie om dit te bevestigen.
 
-### Vluchtboekingen en online inchecken
+### Een digitale kopie versnelt het inchecken, niet het instappen
 
 Luchtvaartmaatschappijen vragen je paspoortgegevens bij het boeken, en veel laten je een digitale kopie uploaden om je identiteit te verifiëren voor online inchecken – dit versnelt het proces op de luchthaven. Je moet nog steeds het originele paspoort tonen bij de gate. De rol van de digitale kopie is verificatie vóór de reis, niet instapdocumentatie.
 
-### Autoverhuurbedrijven
+### Met een kopie boek je de auto, maar het origineel heb je nog nodig om hem op te halen
 
 Autoverhuurbedrijven accepteren doorgaans digitale paspoortkopieën voor boeking en borgverificatie. Als je de auto ophaalt, toon je het originele paspoort samen met je rijbewijs. De digitale kopie is nuttig tijdens de reserveringsfase.
 
-### Noodhulp van de ambassade
+### Raak je paspoort kwijt, dan versnelt de kopie het proces
 
 Raakt je paspoort kwijt of wordt het gestolen tijdens je reis, dan kan een digitale kopie de procedure voor een nooddocument bij je ambassade aanzienlijk versnellen. Hij bewijst het bestaan van je paspoort en toont je persoonsgegevens, foto en paspoortnummer – alles wat de ambassade nodig heeft om een vervangend document uit te geven. Dit is een van de sterkste redenen om altijd een digitale back-up bij je te hebben.
 
@@ -69,9 +71,13 @@ Paspoortkopieën bevatten gevoelige identiteitsinformatie, waaronder je volledig
 - **Deel nooit onnodig**. Verstrek je paspoortkopie alleen aan legitieme bedrijven waarmee je daadwerkelijk zaken doet.
 - **Bewaar kopieën gescheiden van je fysieke paspoort**. Wordt je tas gestolen, dan wil je dat de back-up ergens anders is.
 
+Als je maar één gewoonte aanpast: vervang de gemailde pdf of de foto in je fotorol door een versleutelde app. Juist die losse kopie komt het eerst in verkeerde handen als je telefoon of inbox ooit wordt gecompromitteerd.
+
 **Travel Document Vault** bewaart versleutelde kopieën van al je reisdocumenten op het toestel. AES-256-versleuteld op je telefoon, geen account vereist. Optioneel een versleutelde back-up naar je eigen iCloud of Google Drive (Pro-functie), verzegeld met een herstelcode die alleen jij hebt. [Beschikbaar in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 Vraag je je af of cloudopslag veilig is voor paspoortkopieën, bekijk dan onze gids over [het bewaren van paspoorten in Google Foto's](https://traveldocumentvault.com/nl/blog/is-it-safe-to-store-passport-in-google-photos/). Die legt uit waarom een speciale versleutelde app sterkere bescherming biedt. Voor een vergelijking naast elkaar van iCloud, Google Foto's en versleutelde apps, lees [de veiligste manier om een paspoort digitaal te bewaren](https://traveldocumentvault.com/nl/blog/safest-way-to-store-passport-digitally/).
+
+Heb je er nog geen gemaakt, scan dan vandaag de fotopagina van je paspoort, voordat je aan een incheckbalie of ambassadeloket staat en hem nodig hebt.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

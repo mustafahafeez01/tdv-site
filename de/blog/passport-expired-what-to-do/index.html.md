@@ -30,7 +30,7 @@ Wie dringend Sie handeln müssen, bestimmt, was zu tun ist:
 - **Reise steht kurz bevor:** Rufen Sie Ihre Reisepassbehörde direkt an, statt sich nur auf die Website zu verlassen – die Beratungsstelle des HM Passport Office im Vereinigten Königreich oder das US National Passport Information Center in den USA.
 - **Reise ist unmittelbar bevorstehend:** Fragen Sie nach einem Notfalltermin und bringen Sie einen Nachweis Ihrer Reisedaten mit. Das Vereinigte Königreich bietet einen beschleunigten Premium-Service an ausgewählten Reisepass-Büros an, und die USA bieten Termine bei regionalen Reisepassbehörden an.
 
-Alle großen Reisepassbehörden halten Notfalltermine zurück, die online nicht sichtbar sind. Wenn Ihre Frist knapp ist, rufen Sie an, anstatt sich nur auf die Website zu verlassen.
+Alle großen Reisepassbehörden halten Notfalltermine zurück, die online nicht sichtbar sind. Wenn Ihre Frist knapp ist, **würden wir immer anrufen, statt allein der Website zu vertrauen.**
 
 **Stellen Sie die Erinnerung jetzt ein**, damit das nie wieder passiert – Travel Document Vault beginnt Sie ab acht Monaten vor dem Ablauf jedes Reisepasses in Ihrem Haushalt zu erinnern, dann erneut, je näher der Termin rückt. [Im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
@@ -52,7 +52,9 @@ Dieses Szenario passiert häufiger als erwartet, und die Schritte sind nicht kla
 
 ## Andere Reisepassprobleme, die Reisende am Flughafen abweisen
 
-Ablauf ist der häufigste Grund für einen fehlgeschlagenen Reisepass am Flughafen, aber andere Probleme führen zum gleichen Ergebnis. Das Schwierige ist, dass sie anders als Ablaufdaten nicht mit einer sichtbaren Countdown-Warnung kommen.
+Ablauf ist der häufigste Grund für einen fehlgeschlagenen Reisepass am Flughafen, aber andere Probleme führen zum gleichen Ergebnis.
+
+Das Schwierige ist, dass sie anders als Ablaufdaten nicht mit einer sichtbaren Countdown-Warnung kommen.
 
 ### 1. Ein beschädigter Reisepass
 
@@ -68,7 +70,7 @@ Auch kleine Abweichungen wie ein fehlender zweiter Namensbuchstabe oder ein vert
 
 ### 3. Ein unsignierter Reisepass
 
-Die meisten Reisepässe haben ein Unterschriftsfeld. Einige Länder – einschließlich der Vereinigten Staaten – verlangen, dass der Reisepass vor der Reise unterzeichnet ist. Ein unsignierter Reisepass kann an der Grenze abgelehnt werden. Dies ist am häufigsten bei Reisepässen, die an Kinder ausgegeben wurden, die zu jung zum Unterzeichnen waren, oder bei ganz neuen Reisepässen, deren Inhaber vergessen hat, sie vor der Reise zu unterzeichnen. Überprüfen Sie das Unterschriftsfeld vor Ihrer Abreise.
+Die meisten Reisepässe haben ein Unterschriftsfeld. Einige Länder – einschließlich der Vereinigten Staaten – verlangen, dass der Reisepass vor der Reise unterzeichnet ist. Ein unsignierter Reisepass kann an der Grenze abgelehnt werden. Dies ist am häufigsten bei Reisepässen, die an Kinder ausgegeben wurden, die zu jung zum Unterzeichnen waren, oder bei ganz neuen Reisepässen, deren Inhaber vergessen hat, sie vor der Reise zu unterzeichnen. Ein kurzer Blick auf das Unterschriftsfeld vor der Abreise fängt das früh genug ab.
 
 ### 4. Unzureichende Restgültigkeit für Ihr Ziel
 
@@ -82,11 +84,11 @@ Visum- und Anforderungen für elektronische Reisegenehmigungen (ETA) ändern sic
 
 Überprüfen Sie vor jeder Reise die offiziellen Einreisebestimmungen für Ihr Ziel mit dem Reiseratsdienst Ihres Landes: gov.uk/foreign-travel-advice für Reisepass-Inhaber aus dem Vereinigten Königreich, travel.state.gov für Reisepass-Inhaber aus den USA oder smartraveller.gov.au für australische Reisepass-Inhaber. Verlassen Sie sich nicht darauf, was beim letzten Mal wahr war.
 
-## So stellen Sie sicher, dass das nie wieder passiert
+## Stellen Sie die Erinnerung ein Jahr vorher ein, nicht erst sechs Monate
 
 Die Grundursache ist normalerweise die gleiche: keine Erinnerung eingerichtet. Stellen Sie eine Ablauferinnerung mindestens **12 Monate vor dem Ablaufdatum** ein – nicht 6 Monate. Das gibt Ihnen Zeit, mit standardmäßiger Bearbeitung zu erneuern, ohne für beschleunigte Bearbeitung zu bezahlen, und ohne den Stress einer knappen Frist.
 
-Tun Sie das für jeden Reisepass in Ihrem Haushalt separat. Kinderreisepässe verfallen schneller – 5 Jahre in den meisten Ländern versus 10 für Erwachsene – und sind die, die am häufigsten verpasst werden.
+Tun Sie das für jeden Reisepass in Ihrem Haushalt separat. Kinderreisepässe verfallen schneller – 5 Jahre in den meisten Ländern versus 10 für Erwachsene – und sind die, die am häufigsten verpasst werden. **Holen Sie heute jeden Reisepass hervor und prüfen Sie das Ablaufdatum, nicht nur die Fotoseite.**
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 

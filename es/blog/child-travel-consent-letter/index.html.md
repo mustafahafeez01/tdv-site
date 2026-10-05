@@ -16,7 +16,9 @@ Source: https://traveldocumentvault.com/es/blog/child-travel-consent-letter/
 - Los rechazos frecuentes provienen de información faltante, falta de autenticación notarial, firmas desactualizadas o números de contacto no verificables.
 - Lleva una copia impresa como documento principal y mantén una copia de seguridad digital cifrada para emergencias.
 
-Una carta de consentimiento cumple una sola función en el mostrador de la aerolínea: demuestra que el adulto que viaja con un menor cuenta con el acuerdo del progenitor ausente. La mayoría se aceptan sin comentarios. Las que provocan un retraso suelen fallar en un detalle y no en el fondo, y el más habitual es un número de pasaporte que cambió en la última renovación del menor.
+Una carta de consentimiento cumple una sola función en el mostrador de la aerolínea: demuestra que el adulto que viaja con un menor cuenta con el acuerdo del progenitor ausente. La mayoría se aceptan sin comentarios.
+
+Las que provocan un retraso rara vez fallan en el fondo. Fallan en un detalle pequeño, casi siempre un número de pasaporte que cambió en la última renovación del menor.
 
 Ese escenario ocurre una y otra vez, porque las cartas de consentimiento de viaje de menores son uno de los documentos de viaje más incomprendidos. Las normas varían mucho según el país, y una carta que funciona en un viaje puede no servir en la siguiente frontera. Saber exactamente cuándo se requiere una, qué debe contener y cómo mantenerla válida previene las razones más comunes por las que las familias se detienen en la frontera.
 
@@ -35,7 +37,7 @@ Una carta se requiere comúnmente en estas situaciones:
 
 Siempre verifica los requisitos directamente con la autoridad de inmigración de tu país de destino específico antes de viajar. Usa el IATA Travel Centre para verificar requisitos de entrada, o contacta a la embajada de tu país de destino. Si tienes dudas, tener la carta es mejor que la alternativa: ser detenido en el mostrador o la frontera.
 
-## Qué Debe Incluir la Carta
+## Qué debe decir la carta para que la acepten
 
 Una carta de consentimiento de viaje de menores no es una nota casual —es un documento formal, a menudo autenticado notarialmente, que debe contener información específica. Cada carta debe incluir:
 
@@ -53,7 +55,7 @@ Redacta la carta en lenguaje formal —evita frases vagas como "mi hijo puede vi
 
 Algunos agentes fronterizos llamarán al número de contacto proporcionado para verificar el consentimiento. Asegúrate de que ese número sea correcto, que sea respondido por la persona nombrada, y que puedan confirmar el permiso en la llamada. Si no puedes garantizar que alguien responda durante el horario fronterizo, lista un contacto alternativo y anótalo en la carta.
 
-## Legalización y Certificación Oficial
+## Las reglas sobre la legalización notarial varían según el destino
 
 En la mayoría de los casos, un notario o abogado debe presenciar tu firma, sellarla y certificarla. Esto confirma que el progenitor que no viaja la firmó frente a un tercero autorizado. En algunas jurisdicciones, una firma certificada por un abogado es suficiente.
 
@@ -80,7 +82,7 @@ Incluso familias bien preparadas cometen errores que llevan al rechazo en la fro
 7. **Lista de destinos incompleta.** Si la carta dice "Europa" pero no nombra países específicos, puede ser rechazada.
 8. **Sin declaración de permiso explícito.** La carta debe indicar claramente que el progenitor ausente consiente en este viaje.
 
-## Requisitos Específicos por País
+## Los requisitos van de lo recomendado a lo estrictamente exigido
 
 | País | Requisito | Autenticación Notarial | Fuente Oficial |
 |---|---|---|---|
@@ -92,9 +94,9 @@ Incluso familias bien preparadas cometen errores que llevan al rechazo en la fro
 | **Unión Europea** | Varía por país | Varía por país | IATA Travel Centre |
 | **Nueva Zelanda** | Recomendada | Verificar con inmigración | Immigration NZ |
 
-**Siempre verifica los requisitos actuales directamente con la autoridad de inmigración oficial de tu país de destino.** Las normas cambian frecuentemente, y los sitios web oficiales del gobierno son tu fuente más confiable. Los blogs de viaje y páginas de aerolíneas son útiles para contexto, pero pueden quedar atrás de los requisitos más recientes.
+Toma esta tabla como punto de partida, no como la última palabra. Las normas cambian frecuentemente, y la propia autoridad de inmigración del destino es tu fuente más confiable. Los blogs de viaje y páginas de aerolíneas son útiles para contexto, pero pueden quedar atrás de los requisitos más recientes.
 
-## Cómo Guardar tu Carta
+## Lleva una copia impresa y guarda una copia digital de respaldo
 
 Una vez firmada y legalizada, lo importante es mantenerla segura y accesible durante el viaje. Guarda tres copias:
 
@@ -106,7 +108,7 @@ Muchos países aceptan ahora copias digitales, pero algunos agentes fronterizos 
 
 Si también [organizas los documentos de viaje de tu familia centralmente](https://traveldocumentvault.com/es/blog/how-to-organise-family-travel-documents/), la carta de consentimiento se sienta junto a pasaportes, visas y registros de vacunación, listo para cualquier viaje.
 
-## Lista de Verificación Final Antes del Viaje
+## Repasa esto antes de viajar
 
 En los días antes de la salida, repasa esta lista de verificación:
 
@@ -120,7 +122,7 @@ En los días antes de la salida, repasa esta lista de verificación:
 - Si renuevan el pasaporte antes de viajar, obtén una carta nueva con el número nuevo.
 - No lamines la carta legalizada —la laminación puede arruinar la certificación.
 
-Una carta de consentimiento bien preparada es la salvaguarda de tu familia contra la disrupción del viaje. El tiempo dedicado ahora se recupera en cruces fronterizos suaves y tranquilidad mental.
+Repasa esta lista antes de salir de casa, no en el mostrador de facturación, porque un número de pasaporte que cambió es el detalle que más se les escapa a las familias.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

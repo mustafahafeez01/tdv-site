@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/it/blog/national-id-card-travel-europe/
 
 Se sei cittadino UE e stai organizzando un viaggio in un altro paese europeo, probabilmente possiedi già una carta d'identità. E probabilmente ti sei chiesto se portare quella, il passaporto, o entrambi. La risposta diretta è questa: all'interno dell'UE e del SEE, la sola carta d'identità basta per viaggiare, perché questo articolo è scritto specificamente per cittadini UE e SEE. Un lettore britannico o statunitense non possiede una carta d'identità valida per viaggiare, quindi se è il tuo caso, il passaporto resta comunque la tua unica opzione.
 
-Per il resto d'Europa, le regole sono chiare e più semplici di quanto molti pensino. La confusione non nasce dalla legge, ma dalle compagnie aeree, che aggiungono le proprie regole sopra quelle europee. Capire la differenza tra ciò che l'Europa richiede per legge e ciò che chiede la tua compagnia aerea ti evita di scoprirlo all'ultimo momento al check-in.
+Per il resto d'Europa, le regole sono chiare e più semplici di quanto molti pensino. La confusione di solito nasce dalle compagnie aeree, che aggiungono le proprie regole sopra la legge. Capire la differenza tra ciò che l'Europa richiede per legge e ciò che chiede la tua compagnia aerea ti evita di scoprirlo all'ultimo momento al check-in.
 
 ## Quando la carta d'identità UE basta
 
@@ -57,7 +57,9 @@ Ne parliamo nel dettaglio nella nostra guida sulla [gestione dei passaporti fami
 
 Se la carta viene rifiutata, le tue opzioni dipendono da cos'altro hai con te. Avere anche il passaporto di solito ti permette comunque di viaggiare, purché sia valido e soddisfi i requisiti d'ingresso della destinazione. Con la sola carta in mano, però, non c'è alternativa: non puoi passare, e gli agenti di frontiera non hanno alcun obbligo di accettare un documento diverso.
 
-**L'approccio più pratico:** porta con te sia la carta d'identità sia il passaporto quando viaggi a livello internazionale, anche all'interno dell'Europa. Nessuno dei due documenti occupa molto spazio, e averli entrambi significa che un documento danneggiato o messo in discussione non ti rovina il viaggio. Se la carta viene rifiutata perché illeggibile, il passaporto diventa la tua riserva.
+L'approccio più pratico è portare con te sia la carta d'identità sia il passaporto quando viaggi a livello internazionale, anche all'interno dell'Europa.
+
+Nessuno dei due documenti occupa molto spazio, e averli entrambi significa che un documento danneggiato o messo in discussione non ti rovina il viaggio. Se la carta viene rifiutata perché illeggibile, il passaporto diventa la tua riserva.
 
 ## Due documenti, due scadenze
 
@@ -66,6 +68,8 @@ La difficoltà pratica nel gestire i documenti di viaggio è questa: la carta d'
 La parte più difficile è che **nessuno dei due documenti ti manda un promemoria.** Dovresti controllarli da solo. La maggior parte delle persone non lo fa, finché non si ritrova al banco del check-in e un agente le dice che uno dei due è troppo vicino alla scadenza per essere accettato.
 
 Ciò che aiuta davvero è avere un unico posto per entrambi i documenti, che riconosce ogni data di scadenza al momento della scansione e ti avvisa separatamente per ciascuno, con la tempistica adatta a quel tipo di documento. Consulta la nostra guida su [come costruire un controllo completo dei documenti prima del viaggio](https://traveldocumentvault.com/it/blog/travel-document-checklist/) per il quadro completo di cosa verificare prima di partire.
+
+Comincia oggi: prendi la tua carta d'identità, controlla la data di scadenza ed esaminala per vedere se ci sono crepe, sbiadimenti o plastica deformata. Se è al limite, prenota il rinnovo prima di prenotare il viaggio.
 
 ## Domande frequenti
 

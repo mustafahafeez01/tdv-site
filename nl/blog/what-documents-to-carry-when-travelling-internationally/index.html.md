@@ -20,9 +20,9 @@ Reizigers merken vaak pas op de luchthaven dat ze toestemmingsverklaringen, vacc
 
 Voor meer tips over het organiseren van reisdocumenten, zie [onze gids voor het organiseren van de reisdocumenten van je gezin](https://traveldocumentvault.com/nl/blog/how-to-organise-family-travel-documents/). Dit artikel gaat dieper in op wat er vergeten wordt en hoe je je voorbereidt op verloren documenten in het buitenland.
 
-## De documenten die mensen vaak vergeten
+## Vijf documenten die mensen vergeten zodra het paspoort is ingepakt
 
-Je paspoort en visum voelen urgent, dus die pak je als eerste in. Maar grensbeambten bij de gate controleren op vijf andere documenten die de meeste mensen over het hoofd zien.
+Je paspoort en visum voelen urgent, dus die pak je als eerste in. De vijf documenten die mensen echt vergeten, komen daarna: bewijs van doorreis, verblijfsbevestigingen, vaccinatiebewijzen, verzekeringsgegevens en de toestemmingsverklaring voor een kind.
 
 ### Bewijs van doorreis
 
@@ -42,7 +42,9 @@ Je hebt directe toegang nodig tot je polisnummer, de contactgegevens van de verz
 
 ### Toestemmingsverklaringen voor reizende kinderen
 
-Als een kind internationaal met slechts één ouder reist (of met geen van beide ouders), verwachten veel landen schriftelijke toestemming van de afwezige ouder, en notariële bekrachtiging wordt sterk aangeraden. Grensbeambten in landen als Canada en Zuid-Afrika vragen hier routinematig om, en luchtvaartpersoneel kan zonder deze verklaring instap weigeren. Het is het meest over het hoofd geziene document bij gezinsreizen, dus controleer het dubbel voordat je bij de gate staat.
+Als een kind internationaal met slechts één ouder reist (of met geen van beide ouders), verwachten veel landen schriftelijke toestemming van de afwezige ouder, en notariële bekrachtiging wordt sterk aangeraden. Grensbeambten in landen als Canada en Zuid-Afrika vragen hier routinematig om, en luchtvaartpersoneel kan zonder deze verklaring instap weigeren.
+
+Het is het meest over het hoofd geziene document bij gezinsreizen, dus controleer het dubbel voordat je bij de gate staat.
 
 ## Wat je meeneemt versus wat je digitaal bewaart
 
@@ -81,13 +83,13 @@ Specifieke gegevens die je bij de hand moet hebben, zowel op papier als digitaal
 - Dekkingslimieten voor medische evacuatie, die meestal apart van de algemene medische dekking worden vermeld
 - Eventuele uitsluitingen of voorwaarden die voor je reis gelden
 
-Het alarmnummer moet apart van de fysieke documenten in je telefooncontacten worden opgeslagen. Raakt je tas kwijt of wordt hij gestolen, dan zorgt dit ervoor dat je nog steeds hulp kunt krijgen zonder het fysieke polisdocument.
+Wij zouden het alarmnummer in je telefooncontacten opslaan, los van de fysieke documenten. Raakt je tas kwijt of wordt hij gestolen, dan zorgt dit ervoor dat je nog steeds hulp kunt krijgen zonder het fysieke polisdocument.
 
 ## Wat gezinnen met kinderen moeten toevoegen
 
 Elk kind heeft zijn eigen paspoort nodig voor internationale reizen, hoe jong ook. Veel landen bekijken reizen met kinderen ook extra kritisch om ouderontvoering tegen te gaan, dus verwacht extra vragen wanneer een kind met slechts één ouder reist.
 
-**Toestemmingsverklaring voor een reizend kind:** Als een kind internationaal met slechts één ouder reist, vragen veel grensbeambten om schriftelijke toestemming van de afwezige ouder, bij voorkeur notarieel bekrachtigd. Reist het kind met geen van beide ouders (bijvoorbeeld met grootouders), dan is doorgaans toestemming van beide ouders vereist. De vereisten veranderen en verschillen per nationaliteit, dus controleer bij de officiële immigratie-instantie van je bestemming.
+Dezelfde regel geldt hier: reist een kind internationaal met slechts één ouder, dan vragen veel grensbeambten om schriftelijke toestemming van de afwezige ouder, bij voorkeur notarieel bekrachtigd. Reist het kind met geen van beide ouders (bijvoorbeeld met grootouders), dan is doorgaans toestemming van beide ouders vereist. De vereisten veranderen en verschillen per nationaliteit, dus controleer bij de officiële immigratie-instantie van je bestemming.
 
 Een toestemmingsverklaring bevat doorgaans de volledige naam en geboortedatum van het kind, paspoortgegevens, reisdata en bestemmingen, en contactgegevens van de afwezige ouder(s). Sommige bestemmingen hebben specifieke sjablonen; de Canadese overheid biedt bijvoorbeeld een voorbeeld van een toestemmingsverklaring.
 
@@ -95,11 +97,13 @@ Wat dit in de praktijk betekent
 
 Je vliegt naar Canada met je 8-jarige kind en je partner reist niet mee. Incheckpersoneel kan je kind weigeren als je geen schriftelijke toestemming van je afwezige partner kunt tonen, bij voorkeur notarieel bekrachtigd. Reist je kind met de grootouders in plaats van met jou, dan moeten doorgaans beide ouders de toestemmingsverklaring ondertekenen – toestemming van één ouder is over het algemeen niet genoeg. Controleer altijd ruim voor vertrek de precieze vereisten voor je bestemming.
 
-## Waarom offline digitale kopieën het waard zijn
+## Bewaar een offline back-up die niet in je tas zit
 
 Fysieke documenten helpen, tot een dief je tas meeneemt – en meestal neemt hij de kopieën samen met de originelen mee. Een aparte versleutelde back-up op je telefoon – offline bewaard – is je echte verzekering als de originelen verdwijnen.
 
 Als je ambassade een noodreisdocument moet uitgeven, geeft een veilige back-up hen direct je paspoortnummer, afgiftedatum, plaats van afgifte en vervaldatum, zonder internettoegang. Voor meer over de beschikbare opties, zie ons overzicht van [hoe je paspoortscans veilig bewaart](https://traveldocumentvault.com/nl/blog/is-it-safe-to-store-passport-in-google-photos/) en de afwegingen tussen verschillende aanpakken.
+
+Kies het ene document uit deze lijst waarvan je nog geen back-up hebt, of dat nu je toestemmingsverklaring, je polisnummer of de gegevenspagina van je paspoort is, en sla vóór je volgende reis een versleutelde, offline kopie op je telefoon op.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

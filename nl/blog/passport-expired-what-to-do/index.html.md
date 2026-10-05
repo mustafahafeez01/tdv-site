@@ -30,7 +30,7 @@ Hoe dringend je moet handelen, bepaalt wat je moet doen:
 - **Je reis komt echt dichtbij:** bel rechtstreeks met je paspoortinstantie in plaats van alleen op de website te vertrouwen – de adviestelefoon van het HM Passport Office in het VK, of het US National Passport Information Center in de VS.
 - **Je reis is op handen:** vraag naar een spoedafspraak en neem bewijs van je reisdata mee. Het VK biedt een Premium-service op dezelfde dag bij aangewezen paspoortkantoren, en de VS biedt afspraken bij regionale paspoortkantoren.
 
-Alle grote paspoortinstanties houden spoedafspraken achter de hand die niet online zichtbaar zijn. Als je tijdlijn krap is, bel dan in plaats van alleen op de website te vertrouwen.
+Alle grote paspoortinstanties houden spoedafspraken achter de hand die niet online zichtbaar zijn. Als je tijdlijn krap is, **zouden wij altijd bellen in plaats van alleen op de website te vertrouwen.**
 
 **Stel de herinnering nu in** zodat dit nooit meer gebeurt – Travel Document Vault waarschuwt je al vanaf acht maanden voordat elk paspoort in je huishouden verloopt, en opnieuw naarmate de datum dichterbij komt. [Download in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
@@ -52,7 +52,9 @@ Dit scenario komt vaker voor dan je zou denken, en de stappen zijn niet vanzelfs
 
 ## Andere paspoortproblemen die reizigers geweigerd doen worden
 
-Verval is de meest voorkomende reden waarom een paspoort op het vliegveld faalt, maar andere problemen leiden tot hetzelfde resultaat. Wat ze makkelijker over het hoofd te zien maakt, is dat ze, anders dan vervaldatums, niet met een zichtbaar aftellen komen.
+Verval is de meest voorkomende reden waarom een paspoort op het vliegveld faalt, maar andere problemen leiden tot hetzelfde resultaat.
+
+Wat ze makkelijker over het hoofd te zien maakt, is dat ze, anders dan vervaldatums, niet met een zichtbaar aftellen komen.
 
 ### 1. Een beschadigd paspoort
 
@@ -68,7 +70,7 @@ Zelfs kleine afwijkingen zoals een ontbrekende voorletter of een verwisselde let
 
 ### 3. Een niet-ondertekend paspoort
 
-De meeste paspoorten hebben een handtekeningveld. Sommige landen – waaronder de Verenigde Staten – vereisen dat het paspoort ondertekend is voordat het geldig is voor reizen. Een niet-ondertekend paspoort kan aan de grens geweigerd worden. Dit is meestal een probleem bij paspoorten die zijn uitgegeven aan kinderen die nog te jong waren om te tekenen, of bij gloednieuwe paspoorten waarbij de houder vergat te tekenen voor vertrek. Controleer het handtekeningveld voordat je van huis vertrekt.
+De meeste paspoorten hebben een handtekeningveld. Sommige landen – waaronder de Verenigde Staten – vereisen dat het paspoort ondertekend is voordat het geldig is voor reizen. Een niet-ondertekend paspoort kan aan de grens geweigerd worden. Dit is meestal een probleem bij paspoorten die zijn uitgegeven aan kinderen die nog te jong waren om te tekenen, of bij gloednieuwe paspoorten waarbij de houder vergat te tekenen voor vertrek. Even een blik op het handtekeningveld voordat je van huis gaat, vangt dit al vroeg op.
 
 ### 4. Onvoldoende geldigheid voor je bestemming
 
@@ -82,11 +84,11 @@ Visum- en elektronische reisautorisatie (ETA)-vereisten veranderen vaak en versc
 
 Controleer voor elke reis de officiële inreisvereisten voor je bestemming via de reisadviesdienst van je land: gov.uk/foreign-travel-advice voor Britse paspoorthouders, travel.state.gov voor Amerikaanse paspoorthouders, of smartraveller.gov.au voor Australische paspoorthouders. Ga niet uit van wat de vorige keer gold.
 
-## Zo zorg je dat dit nooit meer gebeurt
+## Zet de herinnering een jaar van tevoren, niet een half jaar
 
 De hoofdoorzaak is meestal hetzelfde: geen herinnering ingesteld. Stel een vervalherinnering in op ten minste **12 maanden voor de vervaldatum**, niet 6 maanden. Dat geeft je tijd om te vernieuwen met standaardbehandeling zonder te betalen voor een spoedservice, en zonder de stress van een krappe tijdlijn.
 
-Doe dit voor elk paspoort in je huishouden apart. Paspoorten van kinderen verlopen sneller – 5 jaar in de meeste landen tegenover 10 voor volwassenen – en worden het vaakst over het hoofd gezien.
+Doe dit voor elk paspoort in je huishouden apart. Paspoorten van kinderen verlopen sneller – 5 jaar in de meeste landen tegenover 10 voor volwassenen – en worden het vaakst over het hoofd gezien. **Haal vandaag nog elk paspoort tevoorschijn en controleer de vervaldatum, niet alleen de fotopagina.**
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

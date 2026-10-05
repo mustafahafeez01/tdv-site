@@ -36,7 +36,7 @@ Scopra se la nazionalità del suo passaporto richiede un visto per l'ingresso, i
 
 Prenota l'assicurazione di viaggio quando prenota i voli, non una settimana prima della partenza. L'assicurazione stipulata dopo aver già identificato un rischio potrebbe escludere quel problema specifico. Assicurati che la polizza copra tutti i viaggiatori, tutte le destinazioni e le attività che ha in programma di svolgere.
 
-## Tre Mesi Prima: Rinnovo e Finestre di Visto
+## Tre Mesi Prima: Se Rinnovo o Visto Sono Vicini, Parti Subito
 
 A questo punto ha ancora tempo per risolvere le cose. I tempi di rinnovo cambiano, e ogni autorità pubblica la propria cifra attuale: il Dipartimento di Stato americano, l'HM Passport Office e l'Ufficio Passaporti Australiano. Controlli sempre il sito ufficiale per i tempi attuali prima di presentare la domanda.
 
@@ -73,7 +73,9 @@ Per i viaggiatori d'affari: se possiede due passaporti, conferma quale passaport
 
 ## La Sera Prima: Conferma Finale
 
-Queste sono conferme, non scoperte. Se qualcosa manca adesso, ha ore per risolverlo, non settimane.
+Queste sono conferme, non scoperte.
+
+Se qualcosa manca adesso, ha ore per risolverlo, non settimane.
 
 ### Sera Prima
 
@@ -93,9 +95,9 @@ Prima di partire da casa, scatti una foto di ogni documento e la conservi in un'
 
 **Travel Document Vault** archivia copie crittografate di ogni documento in questo elenco — organizzate per membro della famiglia, con promemoria di scadenza automatica. Scansiona una volta, non fatica mai più. [Scarica su App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
-## Elenco di Controllo per Tipo di Viaggio
+## Come Cambia l'Elenco dei Documenti a Seconda del Tipo di Viaggio
 
-Diversi viaggi hanno bisogno di diversi set di documenti.
+Diversi viaggi hanno bisogno di diversi set di documenti, come mostra la tabella qui sotto per viaggi da soli, in famiglia e di lavoro.
 
 | Documento | Solo | Famiglia | Affari | Note |
 |---|---|---|---|---|
@@ -106,6 +108,8 @@ Diversi viaggi hanno bisogno di diversi set di documenti.
 | Lettera di consenso del minore | N/D | ✅ se applicabile | N/D | Richiesto in molti paesi se un genitore è assente |
 | Certificati di nascita | N/D | ✅ se richiesto | N/D | Alcuni paesi lo richiedono per i minori sotto i 18 anni |
 | Lettera di autorizzazione al lavoro | N/D | N/D | ✅ se richiesto | Alcune destinazioni richiedono lettere del datore di lavoro per i viaggiatori d'affari |
+
+Se un viaggio è già prenotato, l'unica cosa che vale la pena fare oggi è prendere ogni passaporto coinvolto e controllarne la scadenza rispetto al requisito della destinazione, non solo rispetto alle date del viaggio.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 

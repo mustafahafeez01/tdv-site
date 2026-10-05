@@ -108,7 +108,7 @@ No. EES è attivo adesso e registra il Suo ingresso e uscita alla frontiera. ETI
 
 ### Come Travel Document Vault aiuta con la regola 90/180?
 
-L'app conta i giorni Schengen per persona, per paese, in tutti i Suoi viaggi, e proietta la Sua finestra mobile in avanti così può vedere cosa può ancora prenotare. Non legge il Suo record EES — nessuna app può — ma applica il calcolo ufficiale 90/180 alle date di viaggio, così i giorni rimasti di ogni membro della famiglia sono visibili a colpo d'occhio.
+L'app conta i giorni per persona, per paese, in tutti i Suoi viaggi verso quel paese, e proietta la Sua finestra mobile in avanti così può vedere cosa può ancora prenotare. Non legge il Suo record EES — nessuna app può — ma con Pro applica un conteggio mobile 90/180 ai Suoi viaggi verso ogni paese per cui imposta un limite, così i giorni rimasti lì di ogni membro della famiglia sono visibili a colpo d'occhio.
 
 ## Articoli Correlati
 

@@ -20,9 +20,9 @@ Resenärer upptäcker ofta att de missat samtyckesbrev, vaccinationsbevis, boend
 
 För fler tips om att organisera resehandlingar, se [vår guide om att organisera familjens resehandlingar](https://traveldocumentvault.com/sv/blog/how-to-organise-family-travel-documents/). Det här inlägget går på djupet med det som glöms bort och hur ni förbereder er för förlorade handlingar utomlands.
 
-## Handlingarna folk oftast glömmer
+## Fem handlingar som folk glömmer när passet väl är packat
 
-Passet och visumet känns akuta, så de packas först. Men gränskontrollen kontrollerar fem andra handlingar som de flesta förbiser.
+Passet och visumet känns akuta, så de packas först. De fem handlingar som folk faktiskt glömmer kommer efter dem: bevis på vidare resa, boendebekräftelser, vaccinationsbevis, försäkringsuppgifter och ett samtyckesbrev för barn.
 
 ### Bevis på vidareresa
 
@@ -42,7 +42,9 @@ Ni behöver omedelbar tillgång till försäkringsnummer, kontaktuppgifter till 
 
 ### Samtyckesbrev för barns resa
 
-När ett barn reser internationellt med bara en förälder (eller med ingen av föräldrarna) förväntar sig många länder skriftligt samtycke från den frånvarande föräldern, och notarisering rekommenderas starkt. Gränstjänstemän i länder som Kanada och Sydafrika efterfrågar det rutinmässigt, och flygbolagspersonal kan neka ombordstigning utan det. Det är den mest förbisedda handlingen vid familjeresor, så dubbelkolla innan ni når gaten.
+När ett barn reser internationellt med bara en förälder (eller med ingen av föräldrarna) förväntar sig många länder skriftligt samtycke från den frånvarande föräldern, och notarisering rekommenderas starkt. Gränstjänstemän i länder som Kanada och Sydafrika efterfrågar det rutinmässigt, och flygbolagspersonal kan neka ombordstigning utan det.
+
+Det är den mest förbisedda handlingen vid familjeresor, så dubbelkolla innan ni når gaten.
 
 ## Vad ni ska bära med er kontra vad ni ska förvara digitalt
 
@@ -81,13 +83,13 @@ Specifika uppgifter att ha nära till hands, både på papper och digitalt:
 - Ersättningstak för medicinsk hemtransport, vilket vanligtvis anges separat från den allmänna sjukvårdstäckningen
 - Eventuella undantag eller villkor som gäller för er resa
 
-Jourlinjenumret bör sparas i telefonens kontakter separat från de fysiska handlingarna. Blir väskan förlorad eller stulen säkerställer detta att ni ändå kan få hjälp utan det fysiska försäkringsbeviset.
+Vi skulle spara jourlinjenumret i telefonens kontakter, skilt från de fysiska handlingarna. Blir väskan förlorad eller stulen säkerställer detta att ni ändå kan få hjälp utan det fysiska försäkringsbeviset.
 
 ## Vad familjer med barn behöver lägga till
 
 Varje barn behöver sitt eget pass för internationella resor, oavsett ålder. Många länder granskar även barns resor extra noga för att skydda mot bortförande, så räkna med extra frågor när ett barn reser med bara en förälder.
 
-**Samtyckesbrev för barns resa:** Om ett barn reser internationellt med bara en förälder ber många gränstjänstemän om skriftligt samtycke från den frånvarande föräldern, helst notariserat. Reser barnet med ingen av föräldrarna (till exempel med far- och morföräldrar) krävs vanligtvis samtycke från båda föräldrarna. Kraven ändras och varierar beroende på nationalitet, så kontrollera med destinationens officiella gränsmyndighet.
+Samma regel gäller här: när ett barn reser internationellt med bara en förälder ber många gränstjänstemän om skriftligt samtycke från den frånvarande föräldern, helst notariserat. Reser barnet med ingen av föräldrarna (till exempel med far- och morföräldrar) krävs vanligtvis samtycke från båda föräldrarna. Kraven ändras och varierar beroende på nationalitet, så kontrollera med destinationens officiella gränsmyndighet.
 
 Ett samtyckesbrev bör vanligtvis innehålla barnets fullständiga namn och födelsedatum, passuppgifter, resdatum och destinationer, samt kontaktuppgifter till den eller de frånvarande föräldrarna. Vissa destinationer har egna mallar; den kanadensiska regeringen tillhandahåller till exempel ett exempel på samtyckesbrev.
 
@@ -95,11 +97,13 @@ Vad det innebär i praktiken
 
 Ni ska flyga till Kanada med er 8-åring, och er partner reser inte med. Incheckningspersonalen kan neka ert barn ombordstigning om ni inte kan visa skriftligt samtycke från er frånvarande partner, helst notariserat. Reser barnet med far- och morföräldrarna i stället för er, krävs vanligtvis att båda föräldrarna undertecknar samtyckesbrevet – en förälders tillstånd räcker i regel inte. Kontrollera alltid de exakta kraven för er destination i god tid före avresa.
 
-## Argumenten för offline digitala kopior
+## Ha en offlinekopia som inte reser i väskan
 
 Fysiska handlingar hjälper tills en tjuv tar väskan – och tar oftast kopiorna med sig tillsammans med originalen. En separat krypterad säkerhetskopia i telefonen – förvarad offline – är er riktiga försäkring om originalen försvinner.
 
 När er ambassad behöver utfärda en nödhandling ger en säker säkerhetskopia dem passnummer, utfärdandedatum, utfärdandeort och utgångsdatum omedelbart, utan internetåtkomst. Läs mer om alternativen i vår översikt om [hur ni förvarar passkanningar säkert](https://traveldocumentvault.com/sv/blog/is-it-safe-to-store-passport-in-google-photos/) och avvägningarna mellan olika metoder.
+
+Välj den enda handling på den här listan som ni ännu inte har säkerhetskopierat, oavsett om det är samtyckesbrevet, försäkringsnumret eller passets datasida, och spara en krypterad offlinekopia i telefonen före nästa resa.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 

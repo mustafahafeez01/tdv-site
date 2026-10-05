@@ -20,9 +20,11 @@ Als je met kinderen reist en je moet vijf paspoorten bijhouden in twee verschill
 
 ## Waarom gezinnen paspoortbeheer verkeerd doen
 
-Het probleem begint klein. Je hebt je eigen paspoort, je partner het zijne. Dan krijg je kinderen en ineens heb je vier aparte documenten met vier aparte vervaldatums. Het menselijk brein is niet gebouwd om vier verschillende vernieuwingstijdlijnen bij te houden, vooral niet als het leven druk is. Eén persoon gaat dit alles afhandelen – meestal degene die al alle andere reislogistiek beheert – en dat enkele aanraakpunt wordt een risico.
+Het probleem begint klein. Je hebt je eigen paspoort, je partner het zijne. Dan krijg je kinderen en ineens heb je vier aparte documenten met vier aparte vervaldatums. Het menselijk brein is niet gebouwd om vier verschillende vernieuwingstijdlijnen bij te houden, vooral niet als het leven druk is.
 
-Het tweede probleem is dat kinderpasspoorten veel sneller verlopen dan volwassenenpasspoorten. In de Verenigde Staten zijn paspoorten voor kinderen onder de 16 jaar 5 jaar geldig, terwijl volwassenenpasspoorten 10 jaar geldig zijn. Hetzelfde geldt in het Verenigd Koninkrijk – kinderdocumenten verlopen na 5 jaar, niet 10. Dit betekent dat het paspoort van je jongste kind vaak de beperkende factor voor gezinsreizen wordt. Je kunt een ouder hebben met nog 8 jaar geldigheid, maar als het paspoort van je jongste over 18 maanden verloopt, dat is je planningshorizon.
+Meestal belandt het bij één persoon, vaak degene die toch al de rest van de reislogistiek regelt, en dat enkele aanraakpunt wordt een risico.
+
+Kinderpaspoorten verlopen ook veel sneller dan volwassenenpaspoorten. In de Verenigde Staten zijn paspoorten voor kinderen onder de 16 jaar 5 jaar geldig, terwijl volwassenenpasspoorten 10 jaar geldig zijn. Hetzelfde geldt in het Verenigd Koninkrijk – kinderdocumenten verlopen na 5 jaar, niet 10. Dit betekent dat het paspoort van je jongste kind vaak de beperkende factor voor gezinsreizen wordt. Je kunt een ouder hebben met nog 8 jaar geldigheid, maar als het paspoort van je jongste over 18 maanden verloopt, dat is je planningshorizon.
 
 De meeste gezinnen beseffen dit pas als ze al een reis hebben geboekt. Een ouder vindt de paspoorten een week voor vertrek, scant ze haastig terwijl hij inpakt, en ontdekt dat het document van één kind niet voldoet aan de regel van zes maanden geldigheid voor hun bestemming. De reis loopt nu risico, of het vergt een gehaaste en dure paspoortvernieuwing.
 
@@ -36,7 +38,7 @@ Versleutelde opslag is belangrijk omdat paspoorten je volledige wettelijke naam,
 
 Na het scannen worden deze kopieën in je versleutelde kluis opgeslagen – toegankelijk wanneer je een geldigheidsdatum wilt controleren, je documenten wilt bewijzen bij het boeken van reizen, of noodgegevens naar een consulaat wilt geven als iets in het buitenland misgaat.
 
-## Profielen instellen voor elk gezinslid
+## Eén profiel per gezinslid, en één persoon die het actueel houdt
 
 In een gedeeld systeem moet het record van elke persoon hun kernreisdocumenten bevatten:
 
@@ -47,9 +49,9 @@ In een gedeeld systeem moet het record van elke persoon hun kernreisdocumenten b
 
 Gewoonlijk fungeert één persoon – de reisplanner – als beheerder van het systeem, stelt het in en houdt het actueel. Maar omdat alles gecentraliseerd is, kan elk gezinslid hun eigen informatie opvragen zonder te hoeven vragen, wat belangrijk is als iemand zijn eigen paspoort vernieuwt en de vervaldatum wil bevestigen.
 
-Als je een reis boekt, wordt de eerste stap automatisch: log in op je systeem, pull het profiel van elk gezinslid en controleer de geldigheidsdatum tegen de vereisten van je bestemming. Doe dit voordat je voor vluchten betaalt – ga nooit uit van dat je tijd hebt om verlopen documenten in orde te brengen als de reis al is betaald. Als iemands paspoort binnen 12 maanden vervalt, start het vernieuwingsproces onmiddellijk in plaats van hopen dat je het er later nog in kunt persen.
+Als je een reis boekt, wordt de eerste stap automatisch: log in op je systeem, pull het profiel van elk gezinslid en controleer de geldigheidsdatum tegen de vereisten van je bestemming. Doe dit voordat je voor vluchten betaalt, want je hebt geen tijd meer om verlopen documenten in orde te brengen als de reis eenmaal is geboekt. Als iemands paspoort binnen 12 maanden vervalt, start het vernieuwingsproces onmiddellijk in plaats van hopen dat je het er later nog in kunt persen.
 
-## Fysieke back-ups en noodtoegang
+## Bewaar een fysieke back-up uit de buurt van je originelen
 
 Digitale opslag is handig, maar apparaten vallen uit en apps kunnen problemen hebben. Elk gezin moet ook één fysieke back-up van essentiële paspoortkopieën houden – bewaar deze op een andere locatie dan de originals.
 
@@ -59,7 +61,7 @@ Als je in het buitenland bent en een verloren of gestolen paspoort moet vervange
 
 Voor internationale reizen: draag nooit alle familiepaspoorten samen in dezelfde tas. Elk gezinslid draagt zijn eigen document. Als je handbagage op een luchthaven wordt gestolen, ben je niet vijf jaar planning kwijtgeraakt. Alleen het paspoort van één gezinslid loopt onmiddellijk risico en je hebt digitale kopieën om de status van iedereen anders te bewijzen.
 
-## Dubbele paspoorten en complexe gezinnen
+## Bij dubbele nationaliteit hangt het juiste paspoort af van waar je heen gaat
 
 Voor gezinnen waar een of beide ouders dubbele nationaliteit hebben, wordt het systeem iets complexer maar nog belangrijker om voorzichtig te beheren.
 
@@ -77,6 +79,8 @@ Buiten het paspoort zelf verdienen verschillende andere documenten een plaats in
 - **Rijbewijzen.** Als je een auto huurt, heb je rijbewijzen nodig van alle bestuurders in je groep. Deze hebben ook vervaldatums die gezinnen kunnen overrompelen.
 
 Bewaar al dit op één toegankelijke plaats. Het paniek van rommelen in je telefoon of tas bij de balie op het vliegveld, tuuren naar wazig foto's van visumpagina's – dat is precies wat dit systeem voorkomt.
+
+Heb je dit nog niet ingesteld, begin dan vandaag: scan de fotopagina van elk paspoort in huis, ook die met nog jaren geldigheid, en zet de kopieën op één versleutelde plek voordat je de volgende reis boekt.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

@@ -16,23 +16,25 @@ Source: https://traveldocumentvault.com/fr/blog/digital-passport-copy-valid/
 - Les demandes de visa exigent **des formats spécifiques** (copies certifiées ou numérisations notariées) plutôt que des photos informelles de téléphone. Consultez d'abord le site Web de l'ambassade.
 - Si votre passeport est perdu à l'étranger, une **copie numérique accélère considérablement le remplacement d'urgence** à votre ambassade.
 
-Lorsque vous planifiez un voyage, de nombreux voyageurs se demandent s'ils peuvent stocker une copie numérique de leur passeport sur leur téléphone plutôt que de porter l'original. La réponse courte : une copie numérique est véritablement utile, mais seulement dans des situations spécifiques. Vous devez savoir exactement où elle fonctionne et où elle ne fonctionne pas, pour ne pas vous retrouver mal à l'aise lors de l'enregistrement.
+Lorsque vous planifiez un voyage, de nombreux voyageurs se demandent s'ils peuvent stocker une copie numérique de leur passeport sur leur téléphone plutôt que de porter l'original. Vous devez savoir exactement où elle fonctionne et où elle ne fonctionne pas, pour ne pas vous retrouver mal à l'aise lors de l'enregistrement.
+
+La réponse courte : une copie numérique est véritablement utile, mais seulement dans des situations spécifiques.
 
 ## Où les copies numériques du passeport sont acceptées
 
-### Enregistrement à l'hôtel
+### Beaucoup d'hôtels acceptent une copie, mais dans certaines régions d'Europe on voudra généralement l'original
 
 La plupart des hôtels du monde acceptent les copies numériques de passeport pour l'enregistrement — un PDF sur votre téléphone, envoyé par email à l'avance, ou imprimé. C'est particulièrement utile si vous vous enregistrez tard ou si vous vous déplacez entre plusieurs propriétés et que vous ne voulez pas porter votre passeport physique pendant tout le voyage. Certains petits hôtels, notamment dans les régions disposant d'une infrastructure numérique moins développée, préfèrent toujours l'original. Dans certaines parties de l'Europe — l'Espagne, la France et l'Italie notamment — les hôtels doivent enregistrer vos informations auprès des autorités et voudront généralement consulter le passeport physique pour le faire, même si les conseils de protection des données disent qu'ils ne devraient généralement pas conserver une copie. Contactez votre hébergement à l'avance pour confirmer.
 
-### Réservations de vols et enregistrement en ligne
+### Une copie numérique accélère l'enregistrement, pas l'embarquement
 
 Les compagnies aériennes exigent vos informations de passeport lors de la réservation, et beaucoup vous permettent de télécharger une copie numérique pour vérifier votre identité pour l'enregistrement en ligne — cela accélère le processus à l'aéroport. Vous devrez toujours présenter le passeport original à la porte. Le rôle de la copie numérique est la vérification avant le voyage, pas la documentation d'embarquement.
 
-### Agences de location de voitures
+### Une copie suffit pour réserver la voiture, mais l'original reste exigé au retrait
 
 Les entreprises de location de voitures acceptent généralement les copies numériques de passeport pour la réservation et la vérification de dépôt. Lorsque vous arrivez pour retirer le véhicule, vous présenterez le passeport original ainsi que votre permis de conduire. La copie numérique est utile pendant la phase de réservation.
 
-### Assistance consulaire d'urgence
+### Si votre passeport est perdu, la copie accélère les démarches
 
 Si votre passeport est perdu ou volé en voyageant, une copie numérique peut considérablement accélérer le processus de document de voyage d'urgence à votre ambassade. Elle prouve l'existence de votre passeport et fournit vos informations biographiques, votre photographie et votre numéro de passeport, tous éléments que l'ambassade doit délivrer un document de remplacement. C'est l'une des raisons les plus fortes de toujours avoir une sauvegarde numérique.
 
@@ -69,9 +71,13 @@ Les copies de passeport contiennent des informations d'identité sensibles : vot
 - **Ne partagez jamais inutilement**. Fournissez votre copie de passeport uniquement aux entreprises légitimes avec lesquelles vous effectuez activement des transactions.
 - **Gardez les copies séparées de votre passeport physique**. Si votre sac est volé, vous voulez que la sauvegarde soit ailleurs.
 
+Si vous ne deviez changer qu'une seule habitude, remplacez le PDF envoyé par email ou la photo dans la pellicule par une application chiffrée : cette copie improvisée est celle qui a le plus de chances de tomber entre de mauvaises mains si votre téléphone ou votre messagerie est un jour compromis.
+
 **Travel Document Vault** stocke les copies chiffrées de tous vos documents de voyage sur l'appareil. Chiffrées en AES-256 sur votre téléphone, aucun compte requis. Sauvegarde chiffrée optionnelle sur votre propre iCloud ou Google Drive (Pro) scellée avec un code de récupération que seul vous détenez. [Disponible sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 Si vous vous demandez si le stockage en nuage est sûr pour les copies de passeport, consultez notre guide pour [stocker les passeports dans Google Photos](https://traveldocumentvault.com/fr/blog/is-it-safe-to-store-passport-in-google-photos/). Il explique pourquoi une application chiffrée dédiée offre une protection plus forte.
+
+Si vous n'en avez pas encore fait, scannez dès aujourd'hui la page photo de votre passeport, avant de vous retrouver devant un comptoir d'enregistrement ou d'ambassade où vous en auriez besoin.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 

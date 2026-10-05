@@ -38,7 +38,7 @@ Viser Schengen-regler, visumgyldighed tidsrum og lokale skikke. Alt opdateret me
 
 Spor hvor mange dage hvert familiemedlem har tilbragt i et land ved at oprette perioder (Schengen-år, visumvindue, skatteår) og linke godtgørelsesregler til dem – derefter se en opdeling pr. medlem på et blik.
 
-Bygget til Schengen 90/180-sporing, britiske 183-dages regler og eventuelle brugerdefinerede visum- eller opholdsvinduer. Dage brugt opdateres automatisk når rejser registreres.
+Bygget til rullende grænser i stil med 90/180 i ét land, britiske 183-dages regler og eventuelle brugerdefinerede visum- eller opholdsvinduer. Dage brugt opdateres automatisk når rejser registreres.
 
 ## Plus meget mere
 

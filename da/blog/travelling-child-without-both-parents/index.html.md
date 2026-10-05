@@ -22,7 +22,9 @@ Indtjekningspersonale i lufthavne og grænsevagter kigger to gange på et barn, 
 
 To forskellige personer kigger på de samme papirer af to forskellige grunde, og at vide det forebygger forvirring ved skranken. Indtjekningspersonalet afgør ikke, om dit barn må rejse ind i destinationslandet. De tjekker, om flyselskabet er sikre på, at I bliver lukket ind, for under langvarige aftaler mellem luftfartsselskaber og regeringer kan et flyselskab holdes ansvarligt for at flyve en passager hjem, som destinationen senere afviser. Det er derfor, indtjekningspersonalet nogle gange spørger om mere, end grænsevagten i sidste ende gør: de beskytter flyselskabet mod dets eget ansvar.
 
-Grænsevagten, du møder efter landing, træffer en helt separat beslutning, uafhængig af, hvad flyselskabet besluttede tidligere. Nogle lande gentager kontrollen ved udrejse også, ikke kun ved ankomst, så en smidig ankomst siger intet om, hvordan udrejsekontrollen vil forløbe to uger senere. At opfylde det ene krav binder ikke det andet, og det er det mest nyttige at forstå, før du rejser med et barn og kun én voksen i din række.
+Grænsevagten, du møder efter landing, træffer en helt separat beslutning, uafhængig af, hvad flyselskabet besluttede tidligere. Nogle lande gentager kontrollen ved udrejse også, ikke kun ved ankomst, så en smidig ankomst siger intet om, hvordan udrejsekontrollen vil forløbe to uger senere.
+
+At opfylde det ene krav binder ikke det andet.
 
 ## At Rejse med Kun Én Forælder: Start med Samtykkebrevet
 
@@ -36,7 +38,7 @@ Eneforældremyndighed ændrer, hvilket dokument der betyder noget, i stedet for 
 
 Rejs med afgørelsen, eller en bekræftet kopi af den. Den gør ingen gavn i et arkivskab derhjemme. Betjente, der spørger, leder som regel efter et enkelt svar på ét spørgsmål: har denne voksne den juridiske ret til at træffe denne beslutning for dette barn. En bekræftet kopi svarer på det på få sekunder, og hvis din forældremyndighedsordning for nylig er ændret, er det værd at tjekke, om din destination forventer en mere aktuel kopi end den, du har haft med i årevis.
 
-## Når Den Anden Forælder Er Død
+## Når den anden forælder er død: dødsattesten erstatter brevet
 
 Der er intet samtykkebrev at skrive, når den anden forælder er død, og ingen grænsevagt forventer et. Det, du medbringer i stedet, er en kopi af dødsattesten, som besvarer det spørgsmål, et samtykkebrev ellers ville besvare: hvorfor kun én forælder er med.
 
@@ -46,13 +48,13 @@ Det praktiske svar forbliver kort: ét dokument, holdt tæt ved hånden, og en p
 
 Det her er vores vurdering af, hvad flyselskaber og grænsemyndigheder oftest beder om, ikke en juridisk tjekliste. Kravene varierer fra rejsemål til rejsemål og fra selskab til selskab – tjek derfor med indvandringsmyndighederne på dit rejsemål og med dit flyselskab inden afrejse.
 
-## Et Andet Efternavn End Dit Barns
+## Et andet efternavn end dit barns: fødselsattesten svarer som regel på det
 
 Et efternavn, der ikke matcher dit barns, er almindeligt og skaber sjældent problemer, når du har det rigtige papir ved hånden, selvom det er værd at medbringe det frem for at håbe på, at ingen spørger. Ægteskab, skilsmisse, nyt ægteskab, og bare det at vælge ikke at dele efternavn ved fødslen er alle almindelige grunde til uoverensstemmelsen, og en betjent, der spørger om det, gennemgår som regel den samme korte mentale tjekliste snarere end at mistænke noget bestemt.
 
 Dit barns fulde fødselsattest, den der navngiver dig som forælder, afslutter spørgsmålet hurtigst. Hvis dit eget navn er ændret, siden den attest blev udstedt, bygger en vielses- eller skilsmisseattest bro over forskellen mellem navnet på dit pas og dit barns. Pak begge med, selv til en rutinetur til et sted, du har besøgt før, for den samme uoverensstemmelse, der bliver vinket igennem ved ét besøg, kan give en længere samtale ved det næste, afhængigt af hvilken betjent der tilfældigvis har vagt den dag.
 
-## Bedsteforældre, Slægtninge og Værger: Ingen af Forældrene Rejser Med
+## Bedsteforældre, slægtninge og værger: begge forældre skal som regel give samtykke
 
 Når en bedsteforælder, tante, onkel eller familieven rejser med et barn, og ingen af forældrene er med på turen, bliver papirerne tungere, fordi de fleste lande forventer bevis for, at begge forældre, eller begge værger, har givet samtykke til rejsen, ikke kun én. Formatet er det samme [samtykkebrev](https://traveldocumentvault.com/da/blog/child-travel-consent-letter/), som vi gennemgår fuldt ud andetsteds, men her kræves som regel begge forældres underskrifter i stedet for kun én, sammen med kontaktoplysninger for hver.
 
@@ -66,7 +68,7 @@ Hvis et telefonnummer står på et samtykkebrev eller en afgørelse om forældre
 
 ## Én Bundt Papirer Per Situation
 
-Hver situation ovenfor kræver sit eget lille bundt papirer, og det er let at miste overblikket over, hvilket dokument der hører til hvilken tur, når en families omstændigheder er ændret mere end én gang. Brug dette som et udgangspunkt frem for en erstatning for at tjekke din destinations egne krav, hvilket er værd at gøre hver gang frem for at antage, at sidste års tur stadig gælder.
+Hver situation ovenfor kræver sit eget lille bundt papirer, og det er let at miste overblikket over, hvilket dokument der hører til hvilken tur, når en families omstændigheder er ændret mere end én gang. Brug dette som et udgangspunkt frem for en erstatning for at tjekke din destinations egne krav, hvilket er værd at gøre hver gang frem for at antage, at sidste års tur stadig gælder, og hvis du nogensinde er i tvivl om, hvilket bundt der passer, ville vi medbringe det ekstra dokument frem for at lade det blive hjemme.
 
 | Situation | Dokumenter at medbringe |
 |---|---|
@@ -76,7 +78,7 @@ Hver situation ovenfor kræver sit eget lille bundt papirer, og det er let at mi
 | Andet efternavn end dit barns | Barnets fulde fødselsattest, vielses- eller skilsmisseattest hvis relevant |
 | Bedsteforælder, slægtning eller værge rejser med, ingen af forældrene til stede | Samtykkebrev underskrevet af begge forældre eller værger, barnets fødselsattest |
 
-Uanset hvilket bundt der gælder for din familie, er det praktiske problem det samme: at holde det samlet, holde det opdateret, og kunne finde det ved indtjekningsskranken frem for i bunden af en taske. Vores bredere [tjekliste til rejsedokumenter](https://traveldocumentvault.com/da/blog/travel-document-checklist/) gennemgår, hvad du skal pakke ud over denne specifikke situation, og vores guide til [at organisere familiens rejsedokumenter](https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-documents/) gennemgår, hvordan du holder hvert familiemedlems papirer i orden mellem rejser, ikke kun den, du pakker til lige nu.
+Vores bredere [tjekliste til rejsedokumenter](https://traveldocumentvault.com/da/blog/travel-document-checklist/) gennemgår, hvad du skal pakke ud over denne specifikke situation, og vores guide til [at organisere familiens rejsedokumenter](https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-documents/) gennemgår, hvordan du holder hvert familiemedlems papirer i orden mellem rejser, ikke kun den, du pakker til lige nu. Uanset hvilket bundt der gælder for din familie, så saml det i dag: sæt hvert dokument i tabellen ovenfor sammen med dit barns fødselsattest, og læg hele sættet ét sted, før din næste rejse bliver booket.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du handler.
 

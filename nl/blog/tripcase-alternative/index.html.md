@@ -20,7 +20,7 @@ TripCase was twaalf jaar lang het stille werkpaard onder de reisapps. Stuur een 
 
 Vijftien maanden later zoeken voormalige gebruikers nog steeds naar een vervanging. Het eerlijke antwoord is dat geen enkele app hem volledig vervangt. Maar het echte verhaal gaat niet over welke app je moet kiezen – het gaat over waar je documenten zouden moeten leven.
 
-## De opkomst en het einde van TripCase
+## TripCase was jarenlang de standaard, tot Sabre de stekker eruit trok
 
 TripCase bestond al sinds 2013, een gratis reisbegeleider van Sabre Corporation – het bedrijf dat een groot deel van de wereldwijde boekingssystemen voor luchtvaartmaatschappijen en reisbureaus draait. Dankzij die connectie verschenen reizen vaak automatisch in de app. Meer dan tien jaar lang vertrouwden zakenreizigers en gezinnen erop om vluchten, hotels en huurauto's in één chronologisch overzicht samen te brengen. Niet spectaculair, maar het werkte.
 
@@ -36,9 +36,11 @@ De kern was **het verwerken van bevestigingsmails naar reisplannen** – stuur e
 
 Die vluchten, hotels en grondvervoer leefden allemaal in **de reistijdlijn** – één scrollbare stapel per reis. Simpel, maar als je ooit een meerstedenreis van een week hebt moeten jongleren op basis van een dozijn bevestigingsmails, begrijp je waarom dat belangrijk was. In forumdraden op FlyerTalk en elders noemen voormalige gebruikers steevast de **Document Vault** als het meest gemiste onderdeel – die ene veilige plek voor instapkaarten, visa, paspoorten en bevestigingen. Tot slot liet **reisdeling** familieleden of collega's meekijken zonder doorgestuurde mails.
 
-## De ongemakkelijke les
+## Een cloud-app laat je gegevens op andermans klok staan
 
-Als je je reisleven opbouwt rond een gratis cloud-app, huur je ruimte die de eigenaar op elk moment kan terugnemen. TripCase bestond lang genoeg dat mensen het als permanente infrastructuur behandelden, met jarenlang uploaden van gegevens en documenten in de veronderstelling dat het er altijd zou zijn. Toen maakte Sabre de rekensom, besloot dat de app niet tot de kernactiviteiten behoorde, en verdween tien jaar aan gebruikersgegevens volgens een tijdpad dat Sabre zelf koos.
+Als je je reisleven opbouwt rond een gratis cloud-app, huur je ruimte die de eigenaar op elk moment kan terugnemen.
+
+TripCase bestond lang genoeg dat mensen het als permanente infrastructuur behandelden, met jarenlang uploaden van gegevens en documenten in de veronderstelling dat het er altijd zou zijn. Toen maakte Sabre de rekensom, besloot dat de app niet tot de kernactiviteiten behoorde, en verdween tien jaar aan gebruikersgegevens volgens een tijdpad dat Sabre zelf koos.
 
 Niets hiervan komt voort uit kwade bedoelingen; het is gewoon hoe zakelijke beslissingen werken. Reisapps stoppen regelmatig, gratis niveaus verdwijnen achter betaalmuren, en diensten worden stopgezet. De persoon die geen inspraak heeft in de timing, ben jij.
 
@@ -70,9 +72,9 @@ Offline-first opslag elimineert alle drie de risico's in één keer. De document
 
 Het verstandige antwoord op de ondergang van TripCase is niet om cloudtools helemaal af te zweren; het is om te lagen. Houd de handige cloud-apps voor planning en meldingen, want die verdienen hun plek, en houd de documenten die je reisidentiteit bepalen offline, waar geen bedrijfsbeslissing ze kan raken.
 
-Begin met een eenvoudige inventarisatie: waar leeft elke scan van je paspoort, elk visum-PDF, elk ID van je kind op dit moment, en wat gebeurt daarmee als die dienst met 60 dagen kennisgeving verdwijnt? Onze [checklist voor reisdocumenten](https://traveldocumentvault.com/nl/blog/travel-document-checklist/) is een praktisch startpunt.
-
 TripCase is verdwenen, en de functies ervan zijn nu verspreid over andere apps. Maar er is één les die het onthouden waard is: je reisdocumenten horen niet te sterven met andermans server.
+
+Begin vandaag nog met een eenvoudige inventarisatie: waar leeft elke scan van je paspoort, elk visum-PDF, elk ID van je kind op dit moment, en wat gebeurt daarmee als die dienst met 60 dagen kennisgeving verdwijnt? Onze [checklist voor reisdocumenten](https://traveldocumentvault.com/nl/blog/travel-document-checklist/) is een praktisch startpunt.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

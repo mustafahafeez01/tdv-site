@@ -29,15 +29,17 @@ Perbedaan yang paling penting, dan yang jarang dibahas tuntas dalam ulasan, adal
 - **Penyimpanan di perangkat:** Hasil pindaian dan detail paspor Anda disimpan terenkripsi di ponsel Anda. Perusahaan pembuat aplikasi tidak bisa mengaksesnya. Tidak ada akun yang bisa dibobol. Jika Anda kehilangan ponsel, instalasi baru tidak otomatis memulihkan data Anda (meski Anda bisa mencadangkannya melalui iCloud atau secara lokal).
 - **Penyimpanan cloud:** Hasil pindaian Anda diunggah ke server. Anda bisa mengaksesnya dari beberapa perangkat dan memulihkannya dengan mudah. Namun Anda mempercayakan data paspor Anda kepada keamanan server perusahaan tersebut, serta rencana penanganan kebocoran data mereka.
 
-Tidak ada satu pun pendekatan yang selalu "salah", tetapi untuk dokumen identitas sesensitif paspor, model penyimpanan di perangkat jauh lebih aman. Kebocoran pada aplikasi berbasis perangkat tidak membocorkan apa pun dari server mereka, karena memang tidak ada apa pun di sana untuk dibocorkan.
+Tidak ada satu pun pendekatan yang selalu "salah", tetapi untuk dokumen identitas sesensitif paspor, model penyimpanan di perangkat jauh lebih aman.
 
-## Fitur yang Benar-Benar Penting
+Kebocoran pada aplikasi berbasis perangkat tidak membocorkan apa pun dari server mereka, karena memang tidak ada apa pun di sana untuk dibocorkan.
 
-### Pengingat kedaluwarsa dengan waktu yang bisa disesuaikan
+## Fitur-Fitur Ini Menentukan Apakah Aplikasi Layak Dipakai
+
+### Waktu tenggang pengingat adalah pengaturan yang layak Anda sesuaikan
 
 Ini adalah fitur paling berharga. Pengingat 6 bulan sebelumnya adalah standar minimum — banyak negara mensyaratkan paspor tetap berlaku setidaknya 6 bulan setelah tanggal perjalanan Anda, seperti dijelaskan dalam artikel kami tentang [aturan paspor 6 bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/). Untuk keluarga dengan anak-anak, yang paspornya kedaluwarsa setelah 5 tahun alih-alih 10 tahun, pengingat lebih awal, misalnya 9 bulan sebelumnya, memberi waktu perencanaan yang lebih nyaman.
 
-### Menyimpan paspor beberapa anggota keluarga dengan aman dalam satu aplikasi
+### Satu aplikasi bisa menampung seluruh keluarga, dengan aman
 
 Keluarga beranggotakan empat orang tidak ingin menggunakan empat aplikasi terpisah. Aplikasi pengatur paspor terbaik memperlakukan setiap orang sebagai profil terpisah, dengan dokumen, tanggal kedaluwarsa, dan pengingatnya masing-masing. Kedengarannya sudah jelas, tetapi cukup banyak aplikasi yang justru dirancang hanya untuk dokumen satu orang.
 
@@ -45,15 +47,15 @@ Namun hal itu hanya benar jika aplikasi menyimpan semuanya di perangkat dan di b
 
 Jika yang sebenarnya Anda butuhkan adalah sebuah sistem untuk seluruh rumah tangga, bukan sekadar daftar pendek aplikasi, kami membahas [cara menyimpan paspor beberapa anggota keluarga dengan aman](https://traveldocumentvault.com/id/blog/family-passport-management/) secara lebih mendalam di artikel tersebut.
 
-### Akses luring
+### Akses luring bukan fitur opsional
 
 Anda memerlukan detail paspor justru pada saat-saat koneksi internet tidak bisa diandalkan: di perbatasan internasional, zona transit, daerah terpencil, atau setelah kehilangan kartu SIM di luar negeri. Jika aplikasi memerlukan koneksi jaringan untuk menampilkan dokumen Anda, aplikasi itu gagal justru pada momen paling kritis.
 
-### Cakupan jenis dokumen
+### Aplikasi yang baik harus mencakup lebih dari sekadar paspor
 
 Paspor jelas menjadi titik awal, tetapi pengatur dokumen yang baik juga menangani visa (yang kedaluwarsanya terpisah dari paspor Anda), kartu identitas nasional, asuransi perjalanan, catatan vaksinasi, SIM (surat izin mengemudi), dan (bagi keluarga) surat izin perjalanan anak. Semakin banyak jenis dokumen yang didukung, semakin sedikit aplikasi yang Anda perlukan.
 
-### Model privasi
+### Kebijakan privasi yang samar adalah alasan untuk menolak
 
 Sebelum mengunduh, periksa apakah aplikasi mengharuskan akun, mengunggah hasil pindaian ke server, atau memiliki kebijakan privasi yang jelas tentang data apa saja yang dikumpulkannya. Aplikasi gratis yang mengandalkan iklan umumnya tidak cocok untuk menyimpan dokumen identitas, karena datanya sendiri yang menjadi produknya.
 
@@ -72,7 +74,7 @@ Apa artinya ini dalam praktik
 
 Anda sedang berada di pos perbatasan, ponsel dalam keadaan luring, dan petugas imigrasi meminta melihat detail visa Anda. Aplikasi yang mengharuskan koneksi internet akan gagal total, Anda tidak bisa mengakses dokumen Anda. Aplikasi berbasis perangkat tanpa akun bekerja dengan sempurna. Inilah justru saat Anda paling membutuhkan aplikasi itu berfungsi.
 
-## Pembelian Sekali Bayar vs. Langganan
+## Periksa Apa yang Terjadi pada Dokumen Anda Jika Langganan Berakhir
 
 Ada alasan praktis untuk memilih aplikasi dengan pembelian sekali bayar dibandingkan langganan, khususnya untuk penyimpanan dokumen. Jika Anda lupa memperpanjang langganan, atau memutuskan untuk berhenti, Anda kehilangan akses ke dokumen yang tersimpan. Ini pengaturan yang berisiko untuk sesuatu yang mungkin baru Anda butuhkan bertahun-tahun kemudian.
 
@@ -97,6 +99,8 @@ Saat mengevaluasi aplikasi pengatur paspor mana pun, tanyakan pada diri Anda sem
 - Apakah data dienkripsi saat tersimpan di perangkat?
 
 Jika sembilan jawaban ini semuanya "ya", Anda sudah mendapat aplikasi yang benar-benar bisa dipercaya. Untuk setiap jawaban "tidak", pertimbangkan apakah kompromi itu penting bagi Anda. Untuk lebih banyak tips soal pengorganisasian dokumen, kunjungi [blog](https://traveldocumentvault.com/id/blog/) kami untuk tips tentang apa yang perlu disimpan dan kapan.
+
+Buka aplikasi yang benar-benar sedang Anda pertimbangkan dan cocokkan dengan daftar ini sebelum Anda memindai satu halaman paspor pun.
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 

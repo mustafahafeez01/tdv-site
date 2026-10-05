@@ -16,23 +16,25 @@ Source: https://traveldocumentvault.com/es/blog/digital-passport-copy-valid/
 - Las solicitudes de visa requieren **formatos específicos** (copias certificadas o escaneos notariados) en lugar de fotos casuales de teléfono. Consulta primero el sitio web de la embajada.
 - Si tu pasaporte se pierde en el extranjero, una **copia digital acelera significativamente el reemplazo de emergencia** en tu embajada.
 
-Cuando planificas un viaje, muchos viajeros se preguntan si pueden guardar una copia digital de su pasaporte en el teléfono en lugar de llevar el original. La respuesta corta: una copia digital es genuinamente útil, pero solo en situaciones específicas. Necesitas saber exactamente dónde funciona y dónde no, para no quedar atrapado en el check-in.
+Cuando planificas un viaje, muchos viajeros se preguntan si pueden guardar una copia digital de su pasaporte en el teléfono en lugar de llevar el original. Necesitas saber exactamente dónde funciona y dónde no, para no quedar atrapado en el check-in.
+
+La respuesta corta: una copia digital es genuinamente útil, pero solo en situaciones específicas.
 
 ## Dónde Se Aceptan las Copias Digitales del Pasaporte
 
-### Check-in en el Hotel
+### Muchos hoteles aceptan una copia, pero en parte de Europa suelen querer el original
 
 La mayoría de los hoteles en el mundo aceptan copias digitales del pasaporte para el check-in —un PDF en tu teléfono, enviado por correo electrónico con anticipación, o impreso. Esto es particularmente útil si te registras tarde o te mueves entre propiedades y no deseas llevar tu pasaporte físico durante todo el viaje. Algunos hoteles más pequeños, particularmente en regiones con menos infraestructura digital, aún prefieren el original. En partes de Europa —España, Francia e Italia entre ellas— los hoteles deben registrar tus datos para las autoridades y generalmente desearán ver el pasaporte físico para hacerlo, aunque la guía de protección de datos dice que típicamente no deberían guardar una copia. Contacta a tu alojamiento con anticipación para confirmar.
 
-### Reservas de Vuelo y Check-in en Línea
+### Una copia digital agiliza el check-in, no el embarque
 
 Las aerolíneas requieren tu información de pasaporte al hacer una reserva, y muchas te permiten cargar una copia digital para verificar tu identidad en el check-in en línea —esto acelera el proceso en el aeropuerto. Aún necesitarás presentar el pasaporte original en la puerta. El rol de la copia digital es verificación previa al viaje, no documentación de embarque.
 
-### Agencias de Alquiler de Coches
+### La copia sirve para reservar el coche, pero el original sigue haciendo falta para recogerlo
 
 Las empresas de alquiler de coches típicamente aceptan copias digitales del pasaporte para reserva y verificación de depósito. Cuando llegues para recoger el vehículo, presentarás el pasaporte original junto con tu licencia de conducir. La copia digital es útil durante la fase de reserva.
 
-### Asistencia Consular de Emergencia
+### Si pierdes el pasaporte, la copia acelera los trámites
 
 Si tu pasaporte se pierde o es robado mientras viajas, una copia digital puede acelerar significativamente el proceso de documento de viaje de emergencia en tu embajada. Demuestra la existencia de tu pasaporte y proporciona tu información biográfica, fotografía y número de pasaporte, todo lo cual la embajada necesita para emitir un reemplazo. Esta es una de las razones más sólidas para llevar siempre una copia de seguridad digital.
 
@@ -69,9 +71,13 @@ Las copias del pasaporte contienen información de identidad sensible: tu nombre
 - **Nunca compartas innecesariamente**. Solo proporciona tu copia del pasaporte a empresas legítimas con las que estés transaccionando activamente.
 - **Mantén las copias separadas de tu pasaporte físico**. Si tu bolsa es robada, deseas que la copia de seguridad esté en otro lugar.
 
+Si solo vas a corregir un hábito, cambia el PDF enviado por correo o la foto del carrete por una aplicación cifrada: esa copia improvisada es la que más probabilidades tiene de acabar en manos equivocadas si alguien accede a tu teléfono o a tu bandeja de entrada.
+
 **Travel Document Vault** almacena copias cifradas de todos tus documentos de viaje en el dispositivo. Cifrado AES-256 en tu teléfono, sin cuenta requerida. Copia de seguridad cifrada opcional a tu propio iCloud o Google Drive (Pro) sellada con un código de recuperación solo que tú tienes. [Disponible en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 Si te preguntas si el almacenamiento en nube es seguro para copias del pasaporte, consulta nuestra guía sobre [almacenar pasaportes en Google Photos](https://traveldocumentvault.com/es/blog/is-it-safe-to-store-passport-in-google-photos/). Explica por qué una aplicación cifrada dedicada ofrece una protección más fuerte.
+
+Si todavía no tienes una, escanea hoy la página de la foto de tu pasaporte, antes de encontrarte frente a un mostrador de facturación o de una embajada necesitándola.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

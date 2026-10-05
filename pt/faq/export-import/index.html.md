@@ -20,7 +20,7 @@ O ficheiro exportado é encriptado com a mesma segurança que o seu cofre no dis
 
 ### Abra Definições e navegue até à Exportação
 
-Abra o Travel Document Vault e toque no ícone Definições (símbolo de engrenagem) na parte inferior do ecrã. Deslize para baixo até ver a secção Cópia de Segurança e Dados. Toque em Exportar Cofre.
+Abra o Travel Document Vault e toque no ícone Definições (símbolo de engrenagem) na parte inferior do ecrã. Deslize para baixo até ver a secção Backup e dados. Toque em Exportar cofre.
 
 2
 
@@ -48,9 +48,9 @@ Se estiver a importar noutro dispositivo, torne o ficheiro exportado acessível 
 
 6
 
-### No dispositivo de destino, abra Definições e toque em Importar Cofre
+### No dispositivo de destino, abra Definições e toque em Importar backup
 
-Abra o Travel Document Vault no dispositivo onde deseja importar. Vá a Definições, deslize até Cópia de Segurança e Dados e toque em Importar Cofre. A aplicação pede-lhe para selecionar o ficheiro de cópia de segurança exportado (.tdvault).
+Abra o Travel Document Vault no dispositivo onde deseja importar. Vá a Definições, deslize até Backup e dados e toque em Importar backup. A aplicação pede-lhe para selecionar o ficheiro de cópia de segurança exportado (.tdvault).
 
 7
 
@@ -62,11 +62,11 @@ Navegue até onde guardou o ficheiro do cofre exportado, selecione-o e confirme.
 
 ### Verifique se todos os dados estão presentes
 
-Após a importação, verifique o separador Perfis para confirmar que todos os perfis aparecem. Abra alguns documentos para verificar se os anexos estão intactos. O processo de importação é não-destrutivo e funde-se com qualquer dado existente.
+Após a importação, verifique o separador Perfis para confirmar que todos os perfis aparecem. Abra alguns documentos para verificar se os anexos estão intactos. O processo de importação substitui quaisquer dados existentes neste dispositivo.
 
 ### Notas importantes
 
-- **Não-destrutivo:** A importação adiciona aos dados existentes. Se já tiver perfis no dispositivo de destino, os perfis importados são adicionados sem eliminar os existentes.
+- **Substitui os dados existentes:** A importação apaga primeiro o que está no dispositivo de destino. Se já tiver perfis no dispositivo de destino, exporte-os antes de importar.
 - **Fidelidade completa:** Tudo é preservado exatamente: nomes dos documentos, datas, alertas de expiração, cores personalizadas, anexos e notas.
 - **Encriptado do início ao fim:** O ficheiro exportado é encriptado com a palavra-passe que escolhe ao exportá-lo, usando AES-256-GCM com derivação de chave PBKDF2. Apenas essa palavra-passe pode desencriptá-lo, por isso guarde-a num local seguro — sem ela, o ficheiro não pode ser recuperado.
 - **Melhor prática de cópia de segurança:** Mantenha o ficheiro exportado num local seguro. Elimine-o após uma importação bem-sucedida se preferir, ou guarde-o como uma cópia de segurança offline.

@@ -38,7 +38,7 @@ Affiche les règles Schengen, les fenêtres de validité des visas et les coutum
 
 Suivez le nombre de jours que chaque membre de la famille a passé dans un pays en créant des périodes (année Schengen, fenêtre de visa, année fiscale) et en liant les règles de franchise à ces périodes — puis consultez une ventilation par membre en un coup d'œil.
 
-Conçu pour le suivi Schengen 90/180, les règles de 183 jours au Royaume-Uni et toute fenêtre de visa ou de résidence personnalisée. Les jours utilisés se mettent à jour automatiquement au fur et à mesure que les voyages sont enregistrés.
+Conçu pour les limites glissantes de type 90/180 dans un pays, les règles de 183 jours au Royaume-Uni et toute fenêtre de visa ou de résidence personnalisée. Les jours utilisés se mettent à jour automatiquement au fur et à mesure que les voyages sont enregistrés.
 
 ## Et bien d'autres choses
 

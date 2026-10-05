@@ -22,7 +22,9 @@ El personal de facturación de las aerolíneas y los agentes de fronteras se fij
 
 Dos personas distintas examinan los mismos documentos por dos motivos distintos, y saberlo evita confusiones en el mostrador. El personal de facturación no decide si tu hijo podrá entrar en el país de destino. Comprueba si la aerolínea confía en que se te permitirá la entrada, porque, según acuerdos de larga data entre aerolíneas y gobiernos, una aerolínea puede ser responsable de repatriar a un pasajero al que el destino acaba rechazando. Por eso el personal de facturación a veces pregunta más que el agente de fronteras que encontrarás después: está protegiendo a la aerolínea de su propia responsabilidad.
 
-El agente de fronteras que encuentras al aterrizar toma una decisión totalmente independiente, sin relación con lo que decidiera antes la aerolínea. Algunos países repiten el control también a la salida, no solo a la entrada, así que una llegada sin incidentes no garantiza nada sobre cómo irá el control de salida dos semanas después. Satisfacer a uno no vincula al otro, y esto es lo más útil que puedes entender antes de viajar con un niño siendo el único adulto en tu fila.
+El agente de fronteras que encuentras al aterrizar toma una decisión totalmente independiente, sin relación con lo que decidiera antes la aerolínea. Algunos países repiten el control también a la salida, no solo a la entrada, así que una llegada sin incidentes no garantiza nada sobre cómo irá el control de salida dos semanas después.
+
+Satisfacer a uno no vincula al otro.
 
 ## Viaja Un Solo Progenitor: Empieza por la Carta de Consentimiento
 
@@ -36,7 +38,7 @@ La custodia exclusiva cambia qué documento importa, en lugar de eliminar la nec
 
 Viaja con la orden, o con una copia certificada de esta. De nada sirve guardada en un archivador en casa. Los agentes que preguntan suelen buscar una respuesta sencilla a una sola cuestión: si este adulto tiene la potestad legal para tomar esta decisión por este niño. Una copia certificada responde a eso en cuestión de segundos, y si tu situación de custodia ha cambiado recientemente, conviene comprobar si tu destino espera una copia más reciente que la que llevas usando desde hace años.
 
-## Cuando el Otro Progenitor Ha Fallecido
+## Cuando el Otro Progenitor Ha Fallecido: el Certificado de Defunción Sustituye a la Carta
 
 No hay carta de consentimiento que escribir cuando el otro progenitor ha fallecido, y ningún agente de fronteras espera una. Lo que llevas en su lugar es una copia del certificado de defunción, que responde a la pregunta que respondería una carta de consentimiento: por qué solo está aquí un progenitor.
 
@@ -46,13 +48,13 @@ La respuesta práctica sigue siendo breve: un documento, guardado a mano, y un t
 
 Esta es nuestra lectura de lo que las aerolíneas y los agentes de fronteras suelen pedir, no una lista legal. Los requisitos varían según el destino y la aerolínea, así que consulta a las autoridades de inmigración de tu destino y a tu aerolínea antes de viajar.
 
-## Un Apellido Distinto al de Tu Hijo
+## Un Apellido Distinto al de Tu Hijo: el Certificado de Nacimiento Suele Resolverlo
 
 Un apellido que no coincide con el de tu hijo es habitual y raras veces causa problemas una vez que tienes el papel adecuado a mano, aunque merece la pena llevarlo en lugar de confiar en que nadie pregunte. Matrimonio, divorcio, segundas nupcias, o simplemente elegir no compartir apellido al nacer, son razones corrientes de ese desajuste, y un agente que pregunta suele estar siguiendo la misma lista mental breve, sin sospechar nada en particular.
 
 El certificado de nacimiento completo de tu hijo, el que te nombra como progenitor, resuelve la pregunta más rápido que nada. Si tu propio nombre ha cambiado desde que se emitió ese certificado, un certificado de matrimonio o divorcio conecta el nombre de tu pasaporte con el de tu hijo. Lleva ambos incluso para un viaje habitual a un lugar que ya has visitado antes, porque el mismo desajuste que un día pasa sin más puede dar lugar a una conversación más larga la próxima vez, según qué agente esté de servicio ese día.
 
-## Abuelos, Familiares y Tutores: Ningún Progenitor Viaja
+## Abuelos, Familiares y Tutores: Normalmente Hace Falta el Consentimiento de Ambos Progenitores
 
 Cuando un abuelo, una tía, un tío o un amigo de la familia viaja con un niño y ninguno de los dos progenitores participa en el viaje, los documentos necesarios aumentan, porque la mayoría de los países espera pruebas de que ambos progenitores, o ambos tutores legales, han dado su consentimiento, no solo uno. El formato es el mismo de la [carta de consentimiento](https://traveldocumentvault.com/es/blog/child-travel-consent-letter/) que explicamos en detalle en otra guía, pero aquí normalmente necesita la firma de ambos progenitores en lugar de uno solo, junto con los datos de contacto de cada uno.
 
@@ -66,7 +68,7 @@ Si aparece un número de teléfono en una carta de consentimiento o en una orden
 
 ## Un Conjunto de Documentos por Cada Situación
 
-Cada situación anterior necesita su propio conjunto pequeño de papeles, y es fácil perder de vista qué documento corresponde a qué viaje una vez que las circunstancias de una familia han cambiado más de una vez. Usa esto como punto de partida, no como sustituto de comprobar los requisitos propios de tu destino, algo que merece la pena hacer siempre, en lugar de suponer que el viaje del año pasado sigue siendo válido.
+Cada situación anterior necesita su propio conjunto pequeño de papeles, y es fácil perder de vista qué documento corresponde a qué viaje una vez que las circunstancias de una familia han cambiado más de una vez. Usa esto como punto de partida, no como sustituto de comprobar los requisitos propios de tu destino, algo que merece la pena hacer siempre, en lugar de suponer que el viaje del año pasado sigue siendo válido, y si alguna vez dudas de qué conjunto te corresponde, nosotros llevaríamos el documento de más antes que dejarlo en casa.
 
 | Situación | Documentos que llevar |
 |---|---|
@@ -76,7 +78,7 @@ Cada situación anterior necesita su propio conjunto pequeño de papeles, y es f
 | Apellido distinto al de tu hijo | Certificado de nacimiento completo del niño, certificado de matrimonio o divorcio si procede |
 | Viaja un abuelo, familiar o tutor, ningún progenitor está presente | Carta de consentimiento firmada por ambos progenitores o tutores, certificado de nacimiento del niño |
 
-Sea cual sea el conjunto que se aplique a tu familia, el problema práctico es el mismo: mantenerlo junto, mantenerlo actualizado, y poder encontrarlo en el mostrador de facturación en lugar de en el fondo de una maleta. Nuestra [lista de verificación de documentos de viaje](https://traveldocumentvault.com/es/blog/travel-document-checklist/) cubre qué llevar más allá de esta situación concreta, y nuestra guía para [organizar los documentos de viaje de la familia](https://traveldocumentvault.com/es/blog/how-to-organise-family-travel-documents/) explica cómo mantener ordenados los papeles de cada miembro de la familia entre viaje y viaje, no solo el que estás preparando ahora.
+Nuestra [lista de verificación de documentos de viaje](https://traveldocumentvault.com/es/blog/travel-document-checklist/) cubre qué llevar más allá de esta situación concreta, y nuestra guía para [organizar los documentos de viaje de la familia](https://traveldocumentvault.com/es/blog/how-to-organise-family-travel-documents/) explica cómo mantener ordenados los papeles de cada miembro de la familia entre viaje y viaje, no solo el que estás preparando ahora. Sea cual sea el conjunto que se aplique a tu familia, reúnelo hoy: combina cada documento de la tabla de arriba con el certificado de nacimiento de tu hijo y guarda el conjunto completo en un solo lugar antes de reservar tu próximo viaje.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

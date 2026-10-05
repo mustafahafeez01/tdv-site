@@ -36,7 +36,7 @@ Ta reda på om ditt medborgarskap kräver visum för inresa, transit, eller båd
 
 Boka reseförsäkring samtidigt som du bokar flyget, inte en vecka innan avresa. Försäkring som tecknas efter att du redan har identifierat en risk kan undanta just den frågan. Se till att försäkringen täcker alla resenärer, alla destinationer, och de aktiviteter du planerar att göra.
 
-## Tre månader innan: förnyelse- och visumfönster
+## Tre månader innan: är förnyelse eller visum nära, börja nu
 
 Vid den här tidpunkten har du fortfarande tid att åtgärda saker. Handläggningstider ändras, och varje myndighet publicerar sin egen aktuella siffra: det amerikanska utrikesdepartementet, brittiska passmyndigheten (HM Passport Office), och den australiska passmyndigheten. Kontrollera alltid den officiella webbplatsen för aktuella tider innan du ansöker.
 
@@ -73,7 +73,9 @@ För affärsresenärer: om du har två pass, bekräfta vilket pass ditt företag
 
 ## Kvällen innan: sista bekräftelsen
 
-Det här är bekräftelser, inte upptäckter. Om något saknas nu har du timmar på dig att lösa det, inte veckor.
+Det här är bekräftelser, inte upptäckter.
+
+Om något saknas nu har du timmar på dig att lösa det, inte veckor.
 
 ### Kvällen innan
 
@@ -93,9 +95,9 @@ Innan du lämnar hemmet, fotografera varje handling och spara den i en krypterad
 
 **Travel Document Vault** lagrar krypterade kopior av varje handling på den här listan, organiserade per familjemedlem, med automatiska påminnelser om utgångsdatum. Skanna en gång, leta aldrig i sista sekunden igen. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
-## Checklista per resetyp
+## Så ändras din handlingslista beroende på resetyp
 
-Olika resor kräver olika uppsättningar handlingar.
+Olika resor kräver olika uppsättningar handlingar, vilket tabellen nedan visar för resor på egen hand, med familj och i tjänsten.
 
 | Handling | Ensam | Familj | Affär | Anteckningar |
 |---|---|---|---|---|
@@ -106,6 +108,8 @@ Olika resor kräver olika uppsättningar handlingar.
 | Samtyckesbrev för barn | N/A | ✅ om tillämpligt | N/A | Krävs i många länder om en förälder saknas |
 | Födelsebevis | N/A | ✅ om det krävs | N/A | Vissa länder kräver detta för barn under 18 år |
 | Arbetstillståndsbrev | N/A | N/A | ✅ om det krävs | Vissa destinationer kräver arbetsgivarbrev för affärsresenärer |
+
+Är en resa redan bokad är det enda som är värt att göra i dag att ta fram alla pass som berörs och kontrollera utgångsdatumet mot resmålets krav, inte bara mot dina resdatum.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 

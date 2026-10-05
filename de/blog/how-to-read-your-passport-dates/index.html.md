@@ -38,7 +38,7 @@ Der Ausdruck stammt aus dem Spanischen und Portugiesischen. *Fecha de expedició
 
 Sie alle bedeuten dasselbe, und keines davon bedeutet Ablauf. Fragt ein Formular nach einem expedition date, will es das frühere Ihrer beiden Daten.
 
-## Das Datumsformat soll genau das verhindern
+## Der Monat wird ausgeschrieben, damit Datumsformate nicht verwechselt werden
 
 Schauen Sie genauer hin, und Sie werden bemerken, dass viele Reisepässe ihre Daten nicht nur in Ziffern drucken. Der Monat wird meist in Buchstaben statt in Zahlen angegeben.
 
@@ -48,7 +48,7 @@ Die Mehrdeutigkeit kehrt zurück, sobald Sie das Datum in ein Formular übertrag
 
 ## Vier Reisepässe, vier verschiedene Uhren
 
-All das vervielfacht sich innerhalb einer Familie ganz still. Reisepässe werden meist ausgestellt, wenn sie gebraucht werden, statt gemeinsam, sodass die Ausstellungsdaten in einem Haushalt selten übereinstimmen – und die Ablaufdaten ebenso wenig.
+Kommt ein zweiter oder dritter Reisepass hinzu, wie in den meisten Familien, passt nichts mehr zusammen. Reisepässe werden meist ausgestellt, wenn sie gebraucht werden, statt gemeinsam, sodass die Ausstellungsdaten in einem Haushalt selten übereinstimmen – und die Ablaufdaten ebenso wenig.
 
 Kinder vergrößern diese Streuung noch. Die meisten Kinderreisepässe laufen halb so lange wie die von Erwachsenen, sodass ein im selben Monat wie der eines Elternteils ausgestellter Pass etwa fünf Jahre früher abläuft. Gerade Eltern mit noch reichlich Restgültigkeit werden am ehesten vom Dokument eines Kindes überrascht, weil es keinen Grund gibt, daran zu denken, bevor ein Formular danach fragt. Wie Sie bei mehreren Reisepässen in einem Haushalt den Überblick behalten, erklären wir in [mehrere Reisepässe gleichzeitig verwalten](https://traveldocumentvault.com/de/blog/family-passport-management/).
 
@@ -60,13 +60,17 @@ Kürzlich ausgestellte britische Reisepässe tragen diese zusätzlichen Monate n
 
 Schengen-Länder wenden an der Grenze zwei getrennte Prüfungen auf einen Reisepass aus einem Nicht-EU-Land an: Er muss weniger als zehn Jahre vor Ihrer Ankunft ausgestellt worden sein, und er muss mindestens drei Monate über Ihre geplante Abreise hinaus gültig bleiben. Ein Pass mit neun zusätzlichen Monaten kann die zweite Prüfung mühelos bestehen und an der ersten scheitern – ein unangenehmes Gespräch an einem Schalter in Madrid mit einem Dokument, das gar nicht abgelaufen ist.
 
-Prüfen Sie vor einer Europareise beide Daten, nicht nur das untere.
+Wir würden vor einer Europareise beide Daten prüfen, nicht nur das untere.
 
 ## Ausstellendes Land und ausstellende Behörde sind zwei verschiedene Felder
 
 Nahe dem oberen Rand der Datenseite steht ein dreistelliger Code für das ausstellende Land. Weiter unten, meist in einem eigenen Feld, steht die ausstellende Behörde: die Stelle oder Abteilung, die den Pass tatsächlich hergestellt hat.
 
-Das Land ist wichtiger, als man erwartet. Es entscheidet, an welches Konsularnetz Sie sich wenden, wenn ein Reisepass verloren geht oder gestohlen wird, und das ist selten das Land, in dem Sie sich gerade befinden. Es entscheidet außerdem, welche Einreisebestimmungen für Sie gelten – der ganze Grund, warum Doppelstaatler sorgfältig überlegen, welchen Reisepass sie vorzeigen. Die praktische Seite davon behandeln wir in [Was tun, wenn ein Reisepass im Ausland verloren geht](https://traveldocumentvault.com/de/blog/lost-passport-abroad/).
+Das Land ist wichtiger, als man erwartet. Es entscheidet, an welches Konsularnetz Sie sich wenden, wenn ein Reisepass verloren geht oder gestohlen wird.
+
+Und das ist selten das Land, in dem Sie sich gerade befinden.
+
+Es entscheidet außerdem, welche Einreisebestimmungen für Sie gelten – der ganze Grund, warum Doppelstaatler sorgfältig überlegen, welchen Reisepass sie vorzeigen. Die praktische Seite davon behandeln wir in [Was tun, wenn ein Reisepass im Ausland verloren geht](https://traveldocumentvault.com/de/blog/lost-passport-abroad/).
 
 Das Feld der ausstellenden Behörde ist vor allem für Formulare nützlich. Manche Anträge wollen es wortwörtlich, manche akzeptieren das Land, und es genau abzuschreiben geht schneller als zu raten.
 
@@ -78,13 +82,15 @@ Bereits im alten Reisepass gestempelte oder eingedruckte Visa bleiben dort, und 
 
 Für sich genommen ist das alles nicht dramatisch. Dramatisch wird es, wenn eine Bordkarte und ein Reisepass am Check-in-Schalter nicht übereinstimmen – deshalb lohnt sich nach einer Verlängerung eine ruhige halbe Stunde, um die Handvoll Stellen zu aktualisieren, die die Nummer gespeichert haben.
 
-## Wo all das auf der Seite steht
+## Die Datenseite ist standardisiert, doch die maschinenlesbare Zone lässt ein Datum aus
 
 Die Datenseite ist die steife, laminierte Seite mit Ihrem Foto, und ihr Layout ist international standardisiert statt von jedem Land selbst erfunden. Deshalb ist ein Reisepass von überall für einen Grenzbeamten überall lesbar, und deshalb können Sie, sobald Sie einen lesen können, sie alle lesen.
 
 Die beiden Zeilen aus Zeichen und Chevrons am unteren Rand bilden die maschinenlesbare Zone. Sie wiederholt einen Teil der Angaben von der Seite darüber in einem Format, das ein Scanner in einem Durchgang erfassen kann, allerdings nicht alle: Das Ablaufdatum steht darin, das Ausstellungsdatum nicht. Schäden dort werden deutlich ernster genommen als ein Kratzer auf dem Einband. Wo genau diese Grenze verläuft, behandeln wir in [Reisen mit einem beschädigten Reisepass](https://traveldocumentvault.com/de/blog/damaged-passport-travel/).
 
 Sind die Beschriftungen auf Ihrer eigenen Datenseite nicht auf Deutsch, hilft die Anordnung trotzdem: Die beiden Daten stehen zusammen, im selben Format, und das Ablaufdatum ist das spätere der beiden.
+
+Nehmen Sie sich heute fünf Minuten Zeit, beide Daten in Ihrem eigenen Reisepass zu finden, und wenn Sie mit der Familie reisen, auch in dem jedes Kindes, damit Sie schon wissen, welches welches ist, wenn ein Formular oder eine Grenzkontrolle danach fragt.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 

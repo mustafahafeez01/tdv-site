@@ -34,7 +34,9 @@ L'unica eccezione è un documento di viaggio d'emergenza britannico, emesso dall
 
 ## Può prenotare una vacanza con un passaporto scaduto?
 
-Prenotare non è la stessa cosa che imbarcarsi. Niente le impedisce di pagare voli e un hotel mentre il suo passaporto è scaduto, perché nessuno controlla il documento al momento dell'acquisto. Il controllo avviene in aeroporto, e a quel punto il passaporto deve essere valido.
+Prenotare non è la stessa cosa che imbarcarsi.
+
+Niente le impedisce di pagare voli e un hotel mentre il suo passaporto è scaduto, perché nessuno controlla il documento al momento dell'acquisto. Il controllo avviene in aeroporto, e a quel punto il passaporto deve essere valido.
 
 Quindi la domanda giusta da porsi non è se può prenotare, ma se il rinnovo arriverà prima della partenza. Gli uffici passaporti pubblicano i loro tempi di elaborazione attuali, che variano in base alla domanda, quindi controlli la cifra il giorno stesso invece di affidarsi a quella dell'anno scorso.
 
@@ -42,7 +44,7 @@ Se i tempi sembrano stretti, l'ordine più sicuro è rinnovare prima e prenotare
 
 Un rinnovo già in corso è una questione diversa, e dipende dal fatto che abbia consegnato o meno il vecchio passaporto. Rispondiamo a questo punto in una pagina dedicata: [se può viaggiare con il vecchio passaporto mentre è in corso il rinnovo](https://traveldocumentvault.com/it/blog/travel-while-passport-renewal-pending/).
 
-## Rinnovare un passaporto del Regno Unito già scaduto
+## Un passaporto scaduto si rinnova, non si ricomincia da zero
 
 Un passaporto scaduto si rinnova, non si ricomincia da zero. GOV.UK elenca il passaporto scaduto come uno dei due motivi per cui deve rinnovare prima di viaggiare, insieme al non avere abbastanza validità residua, quindi per la maggior parte delle persone il percorso è il normale servizio di rinnovo per adulti.
 
@@ -60,13 +62,13 @@ I viaggi nazionali all'interno del Regno Unito e dell'Irlanda differiscono dai v
 
 Se sta considerando un viaggio nazionale con un passaporto scaduto, contatti la sua compagnia aerea con sufficiente anticipo rispetto al suo volo e chieda esplicitamente: "Il mio passaporto del Regno Unito è scaduto. Accetterà la mia patente di guida del Regno Unito invece?". Ottenga una conferma scritta se possibile, poiché arrivare al check-in con un documento d'identità alternativo senza conferma precedente è come perdere il volo.
 
-## Rinnovo d'emergenza: Percorso del servizio Premium
+## Rinnovo d'emergenza: servizio Premium, se riesce a ottenere un appuntamento
 
 Se il suo viaggio è imminente e il suo passaporto è scaduto, l'Ufficio passaporti di Sua Maestà offre un servizio Premium progettato proprio per questo scenario, con un appuntamento lo stesso giorno o il giorno lavorativo successivo a seconda della disponibilità. HM Passport Office pubblica la tariffa attuale su gov.uk, che copre insieme appuntamento e rinnovo invece di sommarsi alla tariffa standard. Ottiene il passaporto molto più velocemente rispetto al percorso standard, anche se la rapidità esatta dipende dall'appuntamento disponibile. Si noti che il servizio Premium online è solo per rinnovi, non per i primi passaporti per adulti.
 
 Questo è il percorso ufficiale di emergenza per i vincoli di viaggio genuini. HM Passport Office pubblica il suo tempo di elaborazione standard attuale su gov.uk, ed è utile controllarlo prima di supporre di avere tempo di attesa. Quando un viaggio genuinamente non può attendere, l'opzione Premium rimuove l'incertezza.
 
-Il difetto è che deve disporre di uno slot di appuntamento disponibile, che si riempiono rapidamente durante le vacanze estive e le pause scolastiche. Se scopre che il suo passaporto è scaduto venerdì prima di un viaggio lunedì potrebbe non trovare slot Premium disponibili, poiché la prenotazione avviene online su gov.uk con disponibilità dal vivo. Quando la Sua data preferita non mostra slot ha genuinamente nessun'altra opzione quel giorno.
+Il vero vincolo sono gli slot di appuntamento: si riempiono rapidamente durante le vacanze estive e le pause scolastiche, e la prenotazione avviene online su gov.uk con disponibilità dal vivo. Se scopre che il suo passaporto è scaduto venerdì prima di un viaggio lunedì, potrebbe non trovare alcuno slot Premium, e quando la Sua data preferita non ne mostra, non ha davvero nessun'altra opzione quel giorno.
 
 Avrà anche bisogno del suo vecchio passaporto per fare domanda indipendentemente dalla sua data di scadenza, e se è perso o rubato avrà bisogno di cancellarlo presso l'Ufficio passaporti di Sua Maestà (può farlo su gov.uk) prima di rinnovare; un rapporto di polizia è generalmente necessario solo per scopi assicurativi. Pianifichi di conseguenza se il suo passaporto è danneggiato oltre che scaduto.
 
@@ -76,9 +78,9 @@ Le compagnie aeree utilizzano Timatic, un sistema IATA che incrocia il numero de
 
 Il controllo alle frontiere fa lo stesso controllo quando arriva — a volte anche controllando due volte, una volta quando esce dal Regno Unito e di nuovo quando entra nella sua destinazione. Un passaporto scaduto sarà scoperto non importa quanto sia attento.
 
-L'unica zona grigia che esiste è come le compagnie aeree e il controllo alle frontiere gestiscono i passaporti che "stanno per scadere" ma non ancora scaduti, dove alcuni agenti sono severi sulla regola dei 6 mesi per determinate destinazioni e altri no. Ma una volta che il suo passaporto ha superato la data di scadenza non c'è zona grigia affatto.
+Dove la situazione diventa davvero sfumata è con i passaporti che "stanno per scadere" ma non sono ancora scaduti: alcuni agenti sono severi sulla regola dei 6 mesi per determinate destinazioni e altri no. Ma una volta che il suo passaporto ha superato la data di scadenza non c'è zona grigia affatto.
 
-## Assicurazione di viaggio e documenti scaduti
+## La maggior parte delle assicurazioni di viaggio non copre un passaporto scaduto
 
 La maggior parte delle polizze di assicurazione di viaggio include una clausola di nullità per documenti di viaggio scaduti o non validi. Gli assicuratori possono rifiutare l'intero Suo sinistro se ha viaggiato con un passaporto scaduto — il linguaggio in genere recita qualcosa come: "Questa polizza è nulla se l'assicurato ha viaggiato con un documento di viaggio non valido o scaduto."
 
@@ -96,13 +98,15 @@ Il processo è lento e burocratico. Avrà bisogno di fornire una prova di identi
 
 Imposti promemoria mesi in anticipo piuttosto che il giorno prima del viaggio, poiché i promemoria a partire da otto mesi prima della scadenza, e di nuovo mano a mano che si avvicina, Le danno tempo di rinnovare con elaborazione standard invece di pagare per appuntamenti di emergenza. Se il suo passaporto scade entro 6 mesi dal suo viaggio, inizi il processo di rinnovo ora prima di impegnarsi nelle date di viaggio.
 
-## Malintesi comuni sulla validità del passaporto
+## La scadenza del passaporto non coincide con la validità aggiuntiva richiesta da una destinazione
 
 I viaggiatori spesso confondono la data di validità del loro passaporto con le regole specifiche della destinazione. Il suo passaporto è valido fino alla data stampata in esso — quello è il baseline. Ma alcuni paesi richiedono che rimanga valido per un periodo specifico oltre la sua data di arrivo, e quello è un requisito separato dalla scadenza stessa.
 
 [Molti paesi applicano una regola di sei mesi che richiede che il suo passaporto rimanga valido per almeno sei mesi oltre la data di partenza pianificata](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/), mentre alcuni applicano tre mesi e altri applicano un mese. Nessuna di queste regole consente di viaggiare con un passaporto scaduto perché stabiliscono uno standard più severo dove il rinnovo deve avvenire ancora prima della data di scadenza del passaporto stesso.
 
 Non presuma di poter viaggiare "perché starà tornando prima che scada" — il suo passaporto deve essere valido nel giorno in cui sale sul suo volo in partenza e se scade il giorno dopo il suo ritorno comunque non può viaggiare. Le compagnie aeree non consentono viaggi se il suo passaporto è scaduto nel giorno della partenza.
+
+Il modo più semplice per evitare tutto questo: tiri fuori oggi il passaporto e controlli la data rispetto al suo prossimo viaggio, non il contrario. Se i tempi sono stretti, avvii il rinnovo adesso invece di aspettare.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 

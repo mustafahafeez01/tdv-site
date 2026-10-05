@@ -21,7 +21,7 @@ Apakah penerbangan lanjutan Anda memerlukan visa transit atau tidak bergantung p
 
 Visa transit adalah dokumen yang bisa menjebak bahkan pelancong paling teliti sekalipun, karena keberadaannya terpisah dari dokumen lain dalam berkas perjalanan Anda. Masa berlaku paspor Anda tidak memengaruhinya, dan visa masuk ke negara tujuan Anda pun tidak bisa menggantikannya - visa transit ada semata-mata karena di mana pesawat Anda kebetulan mendarat untuk mengisi bahan bakar. Namun banyak pelancong baru memeriksa apakah mereka membutuhkannya ketika semuanya sudah jauh terlambat.
 
-## Transit Airside vs Transit Landside - Perbedaan Utamanya
+## Transit Airside Sering Tidak Memerlukan Visa, tetapi Landside Berarti Melewati Imigrasi
 
 Perlu atau tidaknya Anda memiliki visa sering kali bergantung pada satu perbedaan: airside atau landside. Sebagian besar negara memberikan transit bebas visa di satu sisi garis ini, tetapi tidak di sisi lainnya.
 
@@ -53,13 +53,13 @@ Ini berlaku bahkan untuk kewarganegaraan yang mirip dalam kawasan yang sama. Pel
 
 Inilah sebabnya IATA Travel Centre (basis data yang sama yang digunakan maskapai di gerbang keberangkatan) menjadi satu-satunya sumber yang bisa diandalkan: Anda memasukkan kewarganegaraan dan tujuan Anda, lalu sistem ini memberi tahu Anda persyaratan pasti untuk kombinasi tersebut. Jangan pernah berasumsi Anda sudah tahu berdasarkan pengalaman pelancong lain atau ingatan Anda dari perjalanan sebelumnya.
 
-## Menyadari Anda Membutuhkan Visa Transit Setelah Memesan Tiket
+## Jika Baru Sadar Perlu Visa Setelah Memesan, Hubungi Maskapai Anda Lebih Dulu
 
 Ini terjadi lebih sering dari yang Anda kira: Anda memesan penerbangan, lalu baru menyadari bahwa layover tersebut membutuhkan visa transit yang belum Anda miliki. Jika ini terjadi, perlakukan sebagai hal mendesak, karena waktu pemrosesan sangat bervariasi, mulai dari hari yang sama hingga beberapa minggu tergantung negara dan waktu dalam setahun.
 
 Mulailah dengan menghubungi maskapai Anda, karena mereka mungkin mengetahui waktu pemrosesan dan terkadang memiliki pengalaman dengan rute-rute umum. Selanjutnya, hubungi kedutaan besar atau konsulat terdekat dari negara transit untuk mengetahui berapa lama visa tersebut akan diproses. Banyak konsulat menawarkan pemrosesan cepat untuk keadaan darurat perjalanan, meskipun Anda mungkin perlu membayar biaya tambahan.
 
-Jika waktu pemrosesan tidak memungkinkan sebelum tanggal keberangkatan Anda, Anda memiliki tiga pilihan: memesan ulang penerbangan untuk menghindari negara transit tersebut sepenuhnya, memesan ulang melalui hub yang berbeda, atau menunda perjalanan Anda. Mencoba naik pesawat tanpa visa yang diwajibkan akan mengakibatkan penerbangan terlewat dan potensi masalah dengan maskapai Anda.
+Jika waktu pemrosesan tidak memungkinkan sebelum tanggal keberangkatan Anda, Anda memiliki tiga pilihan: memesan ulang penerbangan untuk menghindari negara transit tersebut sepenuhnya, memesan ulang melalui hub yang berbeda, atau menunda perjalanan Anda, jadi pesan rute baru begitu Anda menyadari masalahnya, jangan menunggu sambil berharap dokumennya selesai tepat waktu. Mencoba naik pesawat tanpa visa yang diwajibkan akan mengakibatkan penerbangan terlewat dan potensi masalah dengan maskapai Anda.
 
 ## Cara Memeriksa Sebelum Memesan Tiket
 
@@ -70,6 +70,8 @@ Saat alat tersebut menandai bahwa Anda memerlukan visa transit, catat dua hal se
 Masukkan setiap visa transit yang Anda butuhkan ke dalam jadwal perencanaan Anda, bersama visa masuk utama. Sebagian membutuhkan waktu berminggu-minggu; Anda perlu mengetahui informasi ini sebelum memesan penerbangan. Simpan konfirmasinya bersama dokumen perjalanan lain agar mudah diakses di gerbang keberangkatan, karena di sanalah maskapai, bukan petugas perbatasan, yang memeriksanya terlebih dahulu.
 
 Jika Anda bepergian bersama keluarga, periksa paspor setiap anggota keluarga satu per satu. Satu orang saja yang tidak memiliki pengecualian bisa menggagalkan seluruh perjalanan.
+
+Sebelum memesan, periksa seluruh rute Anda, bukan hanya tujuan akhir, lewat IATA Travel Centre. Itulah pemeriksaan yang paling mungkin menangkap persyaratan yang terlewat selagi pemesanan masih bisa diubah.
 
 ## Pertanyaan yang Sering Diajukan
 

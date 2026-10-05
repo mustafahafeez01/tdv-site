@@ -108,7 +108,7 @@ Non. Le EES est en vigueur maintenant et enregistre votre entrée et sortie à l
 
 ### Comment Travel Document Vault aide-t-il avec la règle 90/180?
 
-L'application compte les jours par personne, par pays, sur tous vos voyages, et projette votre fenêtre glissante avant que vous réserviez. Elle ne lit pas votre dossier EES — aucune application ne peut le faire — mais elle applique le calcul officiel 90/180 à vos dates de voyage, de sorte que les jours restants de chaque membre de la famille sont visibles d'un coup d'œil.
+L'application compte les jours par personne, par pays, sur tous vos voyages dans ce pays, et projette votre fenêtre glissante avant que vous réserviez. Elle ne lit pas votre dossier EES — aucune application ne peut le faire — mais avec Pro, elle applique un décompte glissant 90/180 à vos voyages dans chaque pays pour lequel vous définissez une limite, de sorte que les jours restants de chaque membre de la famille dans ce pays sont visibles d'un coup d'œil.
 
 ## Articles connexes
 

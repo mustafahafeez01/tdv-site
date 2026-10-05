@@ -38,7 +38,7 @@ Mostra le regole Schengen, le finestre di validità dei visti e i costumi locali
 
 Traccia quanti giorni ogni membro della famiglia ha trascorso in un paese creando periodi (anno Schengen, finestra di visto, anno fiscale) e collegando le regole di franchisia ad essi — poi vedi un'analisi per membro a colpo d'occhio.
 
-Realizzato per il tracciamento Schengen 90/180, le regole del Regno Unito di 183 giorni e qualsiasi finestra di visto o residenza personalizzata. I giorni utilizzati si aggiornano automaticamente mentre i viaggi vengono registrati.
+Realizzato per limiti mobili in stile 90/180 in un paese, le regole del Regno Unito di 183 giorni e qualsiasi finestra di visto o residenza personalizzata. I giorni utilizzati si aggiornano automaticamente mentre i viaggi vengono registrati.
 
 ## E molto altro ancora
 

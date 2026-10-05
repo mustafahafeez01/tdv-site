@@ -18,13 +18,13 @@ Source: https://traveldocumentvault.com/sv/blog/national-id-card-travel-europe/
 
 Om du är EU-medborgare och planerar en resa till ett annat europeiskt land äger du förmodligen ett nationellt ID-kort. Och du har förmodligen funderat på om du ska packa det, passet, eller båda. Det enkla svaret är: inom EU och EES räcker ID-kortet ensamt för resan, eftersom det här inlägget är skrivet specifikt för EU- och EES-medborgare. En brittisk eller amerikansk läsare har inget nationellt ID-kort för resor, så om det är du som läser är passet ditt enda alternativ ändå.
 
-För resten av Europa är reglerna tydliga och enklare än de flesta tror. Förvirringen kommer inte från lagen, utan från flygbolagen, som lägger på sina egna krav ovanpå den. Att förstå skillnaden mellan vad Europa juridiskt kräver och vad ditt flygbolag vill ha sparar dig stress i sista minuten vid incheckningen.
+För resten av Europa är reglerna tydliga och enklare än de flesta tror. Förvirringen kommer oftast från flygbolagen, som lägger på sina egna krav ovanpå lagen. Att förstå skillnaden mellan vad Europa juridiskt kräver och vad ditt flygbolag vill ha sparar dig stress i sista minuten vid incheckningen.
 
 ## När ett EU-ID-kort räcker
 
 Inom EU och EES är ett giltigt nationellt ID-kort en fullständig resehandling. Du kan korsa gränser mellan EU:s medlemsländer, Norge, Island, Liechtenstein och Schweiz enbart med ditt ID-kort. Du behöver inte ditt pass. Kortet måste vara giltigt den dag du anländer – till skillnad från pass för vissa resmål finns ingen "6-månadersregel" för ID-kortsresor inom Europa.
 
-Ett kort som går ut i morgon är tekniskt sett fortfarande en giltig resehandling i dag. Ändå är det **smart att förnya i god tid**, eftersom ett kort som närmar sig sitt utgångsdatum löper större risk att ifrågasättas vid gränsen, och skadade kort nekas även när de inte har gått ut än.
+Ett kort som går ut i morgon är tekniskt sett fortfarande en giltig resehandling i dag. Ändå är det fortfarande smart att förnya i god tid, eftersom ett kort som närmar sig sitt utgångsdatum löper större risk att ifrågasättas vid gränsen, och skadade kort nekas även när de inte har gått ut än.
 
 Schengenområdet är där den här flexibiliteten spelar störst roll. Som EU-medborgare med ett giltigt ID-kort kan du röra dig fritt över öppna gränser mellan Schengen-länder utan passkontroll. Samma rättighet gäller vid EU-gränser utanför Schengen – kortet fungerar tack vare EU:s regler om fri rörlighet, inte på grund av Schengen-medlemskap.
 
@@ -57,7 +57,9 @@ Vi går igenom det här i detalj i vår guide om [familjepasshantering](https://
 
 Nekas ditt ID-kort beror dina alternativ på vad du mer har med dig. Har du även ett pass kan du oftast resa med det i stället, förutsatt att det är giltigt och uppfyller resmålets inresekrav. Har du bara ID-kortet i handen finns det ingen reserv: du kan inte passera, och gränstjänstemän är inte skyldiga att godta någon alternativ handling.
 
-**Det mest praktiska är att ha med både ID-kortet och passet** vid internationella resor, även inom Europa. Ingen av handlingarna tar särskilt stor plats, och att ha båda innebär att en skadad eller ifrågasatt handling inte sätter stopp för resan. Nekas ditt ID-kort för att det är oläsligt blir passet din reserv.
+Det mest praktiska är att ha med både ID-kortet och passet vid internationella resor, även inom Europa.
+
+Ingen av handlingarna tar särskilt stor plats, och att ha båda innebär att en skadad eller ifrågasatt handling inte sätter stopp för resan. Nekas ditt ID-kort för att det är oläsligt blir passet din reserv.
 
 ## Två handlingar, två utgångsdatum
 
@@ -66,6 +68,8 @@ Den praktiska utmaningen med att hålla koll på resehandlingar är den här: di
 Det svårare är att **ingen av handlingarna skickar dig en påminnelse.** Du förväntas kontrollera dem själv. De flesta gör inte det, förrän de står vid incheckningsdisken och personalen säger att en av dem är för nära sitt utgångsdatum för att godtas.
 
 Det som hjälper är en enda plats för båda handlingarna, som fångar upp varje utgångsdatum när du skannar den och påminner dig separat för var och en, enligt det schema som passar den typen av handling. Se vår guide om [att bygga en komplett koll av resehandlingar före avresa](https://traveldocumentvault.com/sv/blog/travel-document-checklist/) för hela bilden av vad du bör kontrollera innan du reser.
+
+Börja i dag: ta fram ditt ID-kort, kontrollera utgångsdatumet och titta efter sprickor, blekt tryck eller skev plast. Är det på gränsen, boka förnyelsen innan du bokar resan.
 
 ## Vanliga frågor
 

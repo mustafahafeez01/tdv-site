@@ -38,7 +38,7 @@ Muestra reglas Schengen, ventanas de validez de visa y costumbres locales. Todas
 
 Controla cuántos días ha pasado cada miembro de la familia en un país creando períodos (año Schengen, ventana de visa, año fiscal) y vinculando las reglas de límites a ellos —luego ve un desglose por miembro de un vistazo.
 
-Diseñado para seguimiento de Schengen 90/180, reglas del Reino Unido de 183 días, y cualquier ventana de visa o residencia personalizada. Los días se actualizan automáticamente según se registran viajes.
+Diseñado para límites móviles de estilo 90/180 en un país, reglas del Reino Unido de 183 días, y cualquier ventana de visa o residencia personalizada. Los días se actualizan automáticamente según se registran viajes.
 
 ## Más Características
 

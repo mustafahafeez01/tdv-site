@@ -20,7 +20,7 @@ De flesta passskador är kosmetiska. Ett nött omslag, ett mjuknat hörn, en fra
 
 Var den gränsen går är värt att känna till innan du reser, för ett pass kan vara tekniskt giltigt och ändå nekas. Det här går igenom vad som räknas som skada, vad tjänstemän i allmänhet accepterar, och vad du ska göra om ditt redan är i dåligt skick.
 
-## Vad som faktiskt räknas som passskada
+## Kosmetiskt slitage är väntat, skada på säkerhetsdetaljer är det inte
 
 Det är här de flesta panikar i onödan: ett böjt hörn på omslaget är ingen skada, och inte heller en liten skrynkla efter att ha legat i bakfickan. Flygbolag och gränspoliser vet att pass används, så mindre kosmetiskt slitage är väntat.
 
@@ -30,7 +30,9 @@ Viktigast av allt är att den maskinläsbara zonen – det svartvita fältet lä
 
 Anledningen till att detta spelar roll är att **flygbolagen bär ansvaret om de släpper ombord någon med en oacceptabel handling.** Går du ombord med ett skadat pass och nekas inresa vid ankomsten kan myndigheterna bötfälla flygbolaget för att ha transporterat dig. Flygbolaget måste även stå för kostnaden att flyga hem dig.
 
-Ingen personal vid gaten vill ha det pappersarbetet, så de väljer hellre att vara försiktiga. Ett pass som ser tveksamt ut blir nekat, punkt slut.
+Ingen personal vid gaten vill ha det pappersarbetet, så de väljer hellre att vara försiktiga.
+
+Ett pass som ser tveksamt ut blir nekat, punkt slut.
 
 ## Du upptäcker skadan dagar eller veckor före resan
 
@@ -42,9 +44,9 @@ Några saker att kontrollera innan du går dit. Snabbspår och expresstjänster 
 
 Ett skadat pass innebär också oftast att du måste ansöka personligen i stället för per post. I vissa länder är det ett helt annat kontor som hanterar brådskande ärenden än det som bara tar emot ansökningar, och dyker du upp vid fel disk kostar det dig en dag du förmodligen inte har.
 
-Sätt igång processen i samma stund du upptäcker skadan. Att boka flyg och hoppas att förnyelsen hinner klart i tid är ett vad som ofta går fel, särskilt på sommaren när passmyndigheterna är hårt belastade.
+Sätt igång processen i samma stund du upptäcker skadan. **Vi skulle inte vänta ens en dag med det samtalet.** Att boka flyg och hoppas att förnyelsen hinner klart i tid är ett vad som ofta går fel, särskilt på sommaren när passmyndigheterna är hårt belastade.
 
-## Skada som upptäcks på flygplatsen
+## Vid gaten håller ärlighet dina alternativ öppna
 
 Nu till den svårare versionen: du står i incheckningskön eller vid gaten och upptäcker en skada du missat tidigare, eller så ser personalen den i samma stund du lämnar över passet.
 
@@ -60,7 +62,7 @@ När ombordstigningen väl är nekad har du begränsade alternativ:
 
 Säger personalen vid gaten nej, argumentera inte och försök inte gå ombord ändå. Det skapar bara större problem. Flygbolaget kan neka dig framtida resor, gränsmyndigheter kan bötfälla dig, och i vissa länder kan du åtalas för att ha försökt resa på en handling de redan bedömt som ogiltig.
 
-## Handläggningstider för akut passersättning
+## Kontrollera tidsramen hos källan innan du bokar
 
 Publicerade handläggningstider förändras under året och stiger på sommaren när passmyndigheterna har som mest att göra. Lita inte på en siffra du läst någonstans – kontrollera den aktuella tiden hos källan innan du bestämmer ett resedatum:
 
@@ -71,7 +73,7 @@ Publicerade handläggningstider förändras under året och stiger på sommaren 
 
 Mönstret håller dock överallt. Ju närmare avresan du är, desto färre vägar finns kvar, och de som återstår kräver att du dyker upp personligen med det skadade passet och bevis på din resa. Att upptäcka skadan tre veckor innan är besvärligt. Att upptäcka den tre dagar innan är ett helt annat problem.
 
-## Varför digitala kopior räddar situationen
+## En skanning av passet gör en ersättning snabbare
 
 När du brådskande behöver ersätta ett skadat pass är det en sak som saktar ner allt: att bevisa vem du är. Passmyndigheten behöver verifiera att ersättningen går till den rättmätiga ägaren, inte till någon med en stulen identitet.
 
@@ -80,6 +82,8 @@ Ett tydligt digitalt foto av passet hjälper dig här. Spara datasidan, framsida
 Det är särskilt värdefullt om du är utomlands när passet skadas och behöver ett nödresedokument från din ambassad. Konsulära tjänstemän arbetar snabbare när de har en skanning av ditt ursprungliga pass framför sig.
 
 Förvara dina digitala kopior någonstans krypterat och offline – inte i Google Foto eller ett iCloud-konto som delas med andra. Travel Document Vault är byggt exakt för det här ändamålet: passfoton krypterade enbart på din enhet, tillgängliga direkt om något går fel.
+
+Skanna ditt pass i dag, innan du behöver det.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 

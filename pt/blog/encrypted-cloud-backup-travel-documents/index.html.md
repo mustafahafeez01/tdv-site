@@ -38,7 +38,9 @@ Aqui está a parte que a maioria dos artigos evita, e merece ser dita sem rodeio
 
 A consequência é inevitável. **Se perder esse código de recuperação, a cópia de segurança nunca mais poderá ser aberta.** Nem por si, nem pela Apple ou pela Google, nem por nós. Não existe uma ligação de reposição, porque não há conta a que a associar. Não existe um pedido de suporte que a recupere, porque nunca a tivemos e não temos forma de a adivinhar.
 
-Isto soa duro por escrito, e vale mais ser honesto sobre o assunto do que escondê-lo num ecrã de definições. É a mesma troca que faz com a chave de casa: a fechadura só vale a pena porque nenhum chaveiro do mundo guarda uma cópia, e é exatamente por isso que perder a sua é um problema seu. Uma empresa que consegue restaurar os seus documentos depois de se esquecer de tudo é uma empresa que sempre os conseguiu ler.
+Isto soa duro por escrito, e vale mais ser honesto sobre o assunto do que escondê-lo num ecrã de definições. É a mesma troca que faz com a chave de casa: a fechadura só vale a pena porque nenhum chaveiro do mundo guarda uma cópia, e é exatamente por isso que perder a sua é um problema seu.
+
+Uma empresa que consegue restaurar os seus documentos depois de se esquecer de tudo é uma empresa que sempre os conseguiu ler.
 
 Por isso, trate o código como a única coisa que tem mesmo de acertar:
 
@@ -55,7 +57,7 @@ Uma fotografia do seu passaporte numa biblioteca de fotos comum ou numa pasta si
 
 Um cofre encriptado no dispositivo antes do envio chega como texto cifrado. Quem invadir a conta na cloud encontra um ficheiro que não consegue abrir. A proteção viaja com o ficheiro, em vez de depender da conta onde este acaba por ficar.
 
-É por isso que a versão honesta de "a cloud é segura" é esta: a cloud é um endereço de entrega, não um modelo de segurança. O que importa é o estado em que o ficheiro chega até lá. A nossa [comparação dos principais sítios onde as pessoas guardam digitalizações do passaporte](https://traveldocumentvault.com/pt/blog/safest-way-to-store-passport-digitally/) percorre as vantagens e desvantagens de cada um.
+É por isso que a versão honesta de "a cloud é segura" é esta: a cloud é um endereço de entrega, não um modelo de segurança. O que importa é o estado em que o ficheiro chega até lá. Se tivéssemos de escolher uma opção por defeito, escolheríamos a configuração que encripta o ficheiro antes de ele sair do telemóvel. A nossa [comparação dos principais sítios onde as pessoas guardam digitalizações do passaporte](https://traveldocumentvault.com/pt/blog/safest-way-to-store-passport-digitally/) percorre as vantagens e desvantagens de cada um.
 
 | O que guarda | Estado à chegada | Quem o consegue ler | Se a conta for comprometida |
 |---|---|---|---|
@@ -72,7 +74,7 @@ Há três coisas que ficam deliberadamente no telemóvel, e o código de recuper
 
 Este último ponto apanha muita gente desprevenida, por isso aqui fica a versão direta. **Uma cópia de segurança do sistema do telemóvel reinstala a aplicação mas não consegue restaurar os seus documentos.** A chave de encriptação nunca saiu do telemóvel antigo, por isso o novo não tem nada com que desencriptar. Se quer que o seu cofre sobreviva ao telemóvel, precisa de ter a cópia de segurança na cloud ativada, ou um ficheiro exportado guardado nalgum sítio.
 
-## Restaurar num Telemóvel Novo
+## O Restauro É Curto e Não Substitui o Que Já Lá Está
 
 O processo de restauro é rápido, e é precisamente essa a razão de fazer a preparação antecipadamente.
 
@@ -80,7 +82,7 @@ Instale a aplicação no telemóvel novo e inicie sessão na mesma conta iCloud 
 
 A aplicação também verifica antes de escrever. Se a cópia de segurança na cloud detetar uma cópia já existente nessa conta, pede-lhe para escolher entre restaurar ou começar do zero. Um telemóvel novo não consegue substituir silenciosamente o que já lá está.
 
-### Mudar Entre iPhone e Android
+### Mudar Entre iPhone e Android Significa Usar a Exportação do Cofre
 
 A cópia de segurança na cloud fica confinada a uma só plataforma, porque usa o seu próprio iCloud em dispositivos Apple e o seu próprio Google Drive no Android. Passar de um para o outro exige a outra via.
 
@@ -98,9 +100,9 @@ Vinte minutos, uma vez, antes da próxima viagem:
 - Exporte o cofre uma vez e guarde o ficheiro nalgum sítio que controle, como uma via que não depende de nenhuma conta na cloud.
 - Verifique se a aplicação mostra uma cópia de segurança recente antes de voar, da mesma forma que verificaria se os passaportes estão na mala.
 
-Nada disto é dramático, e essa é precisamente a ideia. As famílias que lidam bem com um telemóvel roubado no estrangeiro quase nunca são as que reagiram de forma brilhante. São as que passaram vinte minutos sem grande importância à mesa da cozinha duas semanas antes.
-
 Uma última nota sobre expectativas. A cópia de segurança é uma camada de proteção, e não garante nada: contas na cloud ficam bloqueadas, códigos são esquecidos, os serviços de armazenamento têm dias maus. Para documentos que realmente importam, mantenha também algo independente, seja uma cópia impressa numa gaveta em casa ou uma segunda exportação num disco.
+
+Nada disto é dramático, e essa é precisamente a ideia. As famílias que lidam bem com um telemóvel roubado no estrangeiro quase nunca são as que reagiram de forma brilhante. São as que passaram vinte minutos sem grande importância à mesa da cozinha duas semanas antes. Se ainda não o fez, configure hoje a sua cópia de segurança e escreva onde guarda o código de recuperação.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

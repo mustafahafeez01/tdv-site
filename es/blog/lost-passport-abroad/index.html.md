@@ -24,7 +24,9 @@ Si estás leyendo esto antes de tu viaje, dedica los próximos cinco minutos a e
 
 Cuando llegues a tu embajada, te preguntarán tu número de pasaporte, fecha de emisión, lugar de emisión y fecha de vencimiento. Sin una copia, estás intentando recordar estos detalles bajo estrés. Con una, los entregas en segundos. **El personal consular emite documentos de reemplazo más rápido cuando llegas con los detalles ya anotados.**
 
-Una copia en el teléfono es un registro, no una identificación, y a menudo se confunden las dos cosas. Conviene saber de antemano [dónde se acepta una copia digital del pasaporte y dónde sigue haciendo falta el original](https://traveldocumentvault.com/es/blog/digital-passport-copy-valid/).
+Una copia en el teléfono es un registro, no una identificación.
+
+Conviene saber de antemano [dónde se acepta una copia digital del pasaporte y dónde sigue haciendo falta el original](https://traveldocumentvault.com/es/blog/digital-passport-copy-valid/).
 
 ## Paso 1: Confirma que el Pasaporte Realmente Se Fue
 
@@ -32,7 +34,7 @@ Busca en todas partes antes de asumir lo peor —bolsillos de chaqueta, cada com
 
 ## Paso 2: Presenta una Denuncia Policial Inmediatamente
 
-Dirígete a la comisaría de policía más cercana y reporta el pasaporte perdido o robado. Necesitas este reporte tanto para tu solicitud de embajada como para tu reclamación de seguros.
+Dirígete a la comisaría de policía más cercana y reporta el pasaporte perdido o robado. Necesitas este reporte tanto para tu solicitud de embajada como para tu reclamación de seguros. Nosotros lo haríamos en la primera hora si es posible, mientras los detalles aún están frescos en tu memoria.
 
 Solicita una copia escrita con un número de caso. Pide una versión en inglés o traducción si es posible. Toma una foto de la misma y mantén varias copias seguras.
 
@@ -60,7 +62,7 @@ Qué típicamente necesitarás (confirma con tu embajada antes de visitar):
 - Prueba de viaje de continuación —reserva de vuelo, confirmación de hotel
 - Tarifa de documento de emergencia —ten disponibles tanto efectivo como tarjeta
 
-**Travel Document Vault** almacena una copia cifrada de tu pasaporte en tu teléfono —accesible sin internet, sin inicio de sesión. Es exactamente lo que tu embajada te pedirá. [Descargar en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** almacena una copia cifrada de tu pasaporte en tu teléfono —accesible sin internet, sin inicio de sesión. Guarda todos los datos del pasaporte que aparecen en esa lista. [Descargar en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Paso 5: Notifica a tu Asegurador de Viaje
 
@@ -78,7 +80,7 @@ Si pierdes un pasaporte en Tailandia que contiene una visa válida de entrada m�
 
 ## Paso 7: Regresa a Casa y Reemplaza tu Pasaporte
 
-Una vez que tengas tu documento de viaje de emergencia, confirma los requisitos de salida con la inmigración local si es necesario, luego reserva de nuevo o confirma tu viaje a casa. Cuando regreses: solicita un pasaporte de reemplazo completo a través de tu autoridad de pasaportes oficial y configura una copia digital cifrada de todos tus documentos de viaje antes de tu próximo viaje.
+Una vez que tengas tu documento de viaje de emergencia, confirma los requisitos de salida con la inmigración local si es necesario, luego reserva de nuevo o confirma tu viaje a casa. Una vez de vuelta, solicita un pasaporte de reemplazo completo a través de tu autoridad de pasaportes oficial y escanéalo, junto con el resto de tus documentos de viaje, en una copia de seguridad cifrada el mismo día en que llegue.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

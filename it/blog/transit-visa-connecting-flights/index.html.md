@@ -21,7 +21,7 @@ Il fatto che un volo in coincidenza richieda un visto di transito dipende da tre
 
 I visti di transito sono il documento che coglie impreparati anche i viaggiatori più attenti, perché sono slegati da tutto il resto dei documenti. La validità del tuo passaporto non li influenza, e il visto di ingresso della tua destinazione non li sostituisce — esistono soltanto per via del paese in cui il tuo aereo si ferma a fare rifornimento. Eppure molti viaggiatori non verificano mai se ne hanno bisogno finché non è ormai troppo tardi.
 
-## Transito airside e transito landside: la distinzione fondamentale
+## Il transito airside spesso non richiede visto, ma quello landside implica passare l'immigrazione
 
 Il fatto che tu abbia bisogno di un visto dipende spesso da una sola distinzione: airside oppure landside. La maggior parte dei paesi concede il transito senza visto da un lato di questa linea, ma non dall'altro.
 
@@ -53,13 +53,13 @@ Questo vale anche per nazionalità simili all'interno della stessa area geografi
 
 Per questo l'IATA Travel Centre (lo stesso database che le compagnie aeree usano al gate) è l'unica fonte affidabile: inserisci la tua nazionalità e la tua destinazione, e ti indica il requisito esatto per quella combinazione. Non dare mai per scontato di sapere già la risposta basandoti su quanto vissuto da un altro viaggiatore o su quanto ricordi di un viaggio precedente.
 
-## Scoprire di aver bisogno di un visto di transito dopo aver prenotato
+## Se scopri di aver bisogno di un visto dopo aver prenotato, chiama prima la compagnia aerea
 
 Succede più spesso di quanto si creda: prenoti i voli, e poi ti accorgi che lo scalo richiede un visto di transito che non hai. Quando succede, trattalo come urgente, perché i tempi di elaborazione variano enormemente, dal giorno stesso a diverse settimane a seconda del paese e del periodo dell'anno.
 
 Comincia dalla tua compagnia aerea, perché può conoscere i tempi di elaborazione e a volte ha esperienza con le rotte più comuni. Poi contatta l'ambasciata o il consolato più vicino del paese di transito per sapere quanto tempo richiederà il visto vero e proprio. Molti consolati offrono procedure accelerate per le emergenze di viaggio, anche se potrebbe essere richiesta una tariffa aggiuntiva.
 
-Se i tempi di elaborazione non sono compatibili con la data di partenza, hai tre opzioni: riprenotare i voli per evitare del tutto il paese di transito, riprenotare passando per un altro hub, oppure rimandare il viaggio. Cercare di imbarcarsi senza il visto richiesto comporterà voli persi e possibili complicazioni con la compagnia aerea.
+Se i tempi di elaborazione non sono compatibili con la data di partenza, hai tre opzioni: riprenotare i voli per evitare del tutto il paese di transito, riprenotare passando per un altro hub, oppure rimandare il viaggio. Cercare di imbarcarsi senza il visto richiesto comporterà voli persi e possibili complicazioni con la compagnia aerea. Per questo conviene prenotare il nuovo itinerario appena ti accorgi del problema, invece di aspettare sperando che le pratiche si sblocchino in tempo.
 
 ## Come verificare prima di prenotare
 
@@ -70,6 +70,8 @@ Quando lo strumento segnala un visto di transito, annota due cose oltre al fatto
 Aggiungi ogni visto di transito necessario alla tua tabella di marcia insieme al visto di ingresso principale. Alcuni richiedono settimane; ti serve saperlo prima di prenotare i voli. Conserva la conferma insieme agli altri documenti di viaggio, così è a portata di mano al gate, dove è la compagnia aerea, non la frontiera, a controllarla per prima.
 
 Se viaggi in famiglia, controlla il passaporto di ogni componente della famiglia singolarmente. Una sola persona senza esenzione può far saltare l'intero viaggio.
+
+Prima di prenotare, passa l'intero percorso, non solo la destinazione, nell'IATA Travel Centre. È il controllo che ha più probabilità di far emergere un requisito mancante quando puoi ancora modificare la prenotazione.
 
 ## Domande frequenti
 

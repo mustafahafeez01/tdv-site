@@ -24,7 +24,9 @@ Hvis du læser dette før din rejse, så brug de næste fem minutter på det her
 
 Når du kommer til ambassaden, vil de spørge om dit pasnummer, udstedelsesdato, udstedelsessted og udløbsdato. Uden en kopi prøver du at huske det under stress. Med en kopi giver du oplysningerne videre på få sekunder. **Ambassadepersonale udsteder erstatningsdokumenter hurtigere, når du møder op med oplysningerne allerede skrevet ned.**
 
-En kopi på din telefon er en optegnelse frem for legitimation, og de to bliver let forvekslet. Det er værd at vide på forhånd, [hvor en digital paskopi bliver accepteret, og hvor du stadig skal bruge originalen](https://traveldocumentvault.com/da/blog/digital-passport-copy-valid/).
+En kopi på din telefon er en optegnelse frem for legitimation.
+
+De to bliver let forvekslet. Det er værd at vide på forhånd, [hvor en digital paskopi bliver accepteret, og hvor du stadig skal bruge originalen](https://traveldocumentvault.com/da/blog/digital-passport-copy-valid/).
 
 ## Trin 1: Bekræft at passet virkelig er væk
 
@@ -32,7 +34,7 @@ Tjek overalt, før du antager det værste – jakkelommer, alle rum i tasken, ho
 
 ## Trin 2: Indgiv en politianmeldelse med det samme
 
-Gå til den nærmeste politistation, og anmeld passet som tabt eller stjålet. Du skal bruge denne anmeldelse både til din ansøgning hos ambassaden og til din forsikringssag.
+Gå til den nærmeste politistation, og anmeld passet som tabt eller stjålet. Du skal bruge denne anmeldelse både til din ansøgning hos ambassaden og til din forsikringssag. Vi ville gøre det inden for en time, hvis det er muligt, mens detaljerne stadig står klart for dig.
 
 Bed om en skriftlig kopi med et sagsnummer, og spørg om en engelsk oversættelse, hvis der er en tilgængelig. Tag et billede af den, og opbevar flere kopier et sikkert sted.
 
@@ -60,7 +62,7 @@ Hvad du normalt skal bruge (bekræft med din ambassade, før du møder op):
 - Bevis for videre rejse – flybooking, hotelbekræftelse
 - Gebyr for nøddokumentet – hav både kontanter og kort klar
 
-**Travel Document Vault** opbevarer en krypteret kopi af dit pas på din telefon – tilgængelig uden internet, uden login. Det er præcis det, din ambassade vil bede om. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** opbevarer en krypteret kopi af dit pas på din telefon – tilgængelig uden internet, uden login. Den rummer alle pasoplysningerne på den liste. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Trin 5: Giv besked til dit rejseforsikringsselskab
 
@@ -78,7 +80,7 @@ Hvis du mister et pas i Thailand, der indeholder et gyldigt flergangsvisum til e
 
 ## Trin 7: Kom hjem, og få et nyt pas
 
-Når du har dit nødpas, skal du bekræfte udrejsekravene hos de lokale myndigheder, hvis det er nødvendigt, og derefter ombooke eller bekræfte din rejse hjem. Når du er hjemme igen: ansøg om et fuldt erstatningspas hos din officielle pasmyndighed, og opret en krypteret digital sikkerhedskopi af alle dine rejsedokumenter, før din næste rejse.
+Når du har dit nødpas, skal du bekræfte udrejsekravene hos de lokale myndigheder, hvis det er nødvendigt, og derefter ombooke eller bekræfte din rejse hjem. Når du er hjemme igen, så ansøg om et fuldt erstatningspas hos din officielle pasmyndighed, og scan det sammen med resten af dine rejsedokumenter ind i en krypteret backup samme dag, som det kommer.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 

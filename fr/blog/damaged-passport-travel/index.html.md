@@ -20,7 +20,7 @@ La plupart des dommages sur un passeport sont purement esthétiques. Une couvert
 
 Savoir où se situe cette limite avant de partir vaut la peine, car un passeport peut être techniquement valide et pourtant être refusé. Cet article détaille ce qui constitue un dommage, ce que les autorités acceptent généralement, et la marche à suivre si le vôtre est déjà en mauvais état.
 
-## Qu'est-ce qui constitue vraiment un dommage sur un passeport
+## L'usure cosmétique est attendue ; l'atteinte aux dispositifs de sécurité, non
 
 C'est là que la plupart des gens paniquent inutilement : un coin corné sur la couverture n'est pas un dommage, pas plus qu'un léger pli causé par le fait de garder son passeport dans une poche arrière. Les compagnies aériennes et les agents frontaliers savent qu'un passeport sert au quotidien, une usure cosmétique mineure est donc normale.
 
@@ -30,7 +30,9 @@ Plus important encore, la zone de lecture optique — la bande noire et blanche 
 
 Cela compte parce que **les compagnies aériennes portent la responsabilité si elles font embarquer une personne munie d'un document inacceptable.** Embarquez avec un passeport endommagé, voyez-vous refuser l'entrée à destination, et les autorités peuvent infliger une amende à la compagnie pour vous avoir transporté. La compagnie doit également couvrir le coût de votre rapatriement.
 
-Aucun agent d'embarquement ne souhaite cette paperasse, il préfère donc nettement la prudence. Un passeport qui paraît douteux est refusé, un point c'est tout.
+Aucun agent d'embarquement ne souhaite cette paperasse, il préfère donc nettement la prudence.
+
+Un passeport qui paraît douteux est refusé, un point c'est tout.
 
 ## Vous repérez un dommage plusieurs jours ou semaines avant le voyage
 
@@ -42,9 +44,9 @@ Quelques points à vérifier avant de vous déplacer. Des services d'urgence et 
 
 Un passeport endommagé implique aussi souvent de déposer une demande en personne plutôt que par courrier. Dans certains pays, le bureau qui traite les cas urgents est un endroit complètement différent de celui qui reçoit simplement les demandes, et se présenter au mauvais guichet vous coûte une journée que vous n'avez probablement pas.
 
-Commencez la démarche dès que vous découvrez le dommage. Réserver des vols en espérant que le renouvellement arrive à temps est un pari qui échoue constamment, surtout en été quand les bureaux des passeports sont débordés.
+Commencez la démarche dès que vous découvrez le dommage. **Nous n'attendrions pas même un jour pour passer cet appel.** Réserver des vols en espérant que le renouvellement arrive à temps est un pari qui échoue constamment, surtout en été quand les bureaux des passeports sont débordés.
 
-## Dommage découvert à l'aéroport
+## À la porte d'embarquement, l'honnêteté préserve vos options
 
 Passons maintenant au scénario plus difficile : vous êtes dans la file d'enregistrement ou à la porte d'embarquement et vous remarquez un dommage qui vous avait échappé, ou l'agent le repère dès que vous lui tendez votre passeport.
 
@@ -60,7 +62,7 @@ Une fois l'embarquement refusé, vos options sont limitées :
 
 Si l'agent d'embarquement refuse, ne discutez pas et n'essayez pas d'embarquer quand même. Cela ne fait que créer des problèmes plus graves. La compagnie aérienne peut vous interdire de vols futurs, les autorités de l'immigration peuvent vous infliger une amende, et dans certains pays, elles peuvent vous poursuivre pour avoir tenté de voyager avec un document déjà jugé invalide.
 
-## Délais de remplacement d'urgence du passeport
+## Vérifiez les délais à la source avant de réserver
 
 Les délais de traitement publiés varient au fil de l'année, et ils augmentent en été quand les bureaux des passeports sont les plus sollicités. Plutôt que de vous fier à un chiffre lu quelque part, vérifiez le chiffre actuel à la source avant de vous engager sur une date de voyage :
 
@@ -71,7 +73,7 @@ Les délais de traitement publiés varient au fil de l'année, et ils augmentent
 
 Le schéma reste toutefois le même partout. Plus vous vous rapprochez du départ, moins il reste d'options ouvertes, et celles qui restent exigent de vous présenter en personne avec votre passeport endommagé et une preuve de voyage. Découvrir un dommage trois semaines avant est un désagrément. Le découvrir trois jours avant est un tout autre problème.
 
-## Pourquoi les copies numériques sauvent la situation
+## Un scan de votre passeport accélère un remplacement
 
 Quand vous devez remplacer d'urgence un passeport endommagé, un élément ralentit tout : prouver qui vous êtes. Le bureau des passeports doit vérifier que le remplacement est bien destiné au propriétaire légitime, et non à quelqu'un ayant volé une identité.
 
@@ -80,6 +82,8 @@ Une photo numérique nette de votre passeport aide beaucoup ici. Conservez la pa
 Cela s'avère particulièrement précieux si vous êtes à l'étranger quand votre passeport est endommagé et que vous avez besoin d'un document de voyage d'urgence de la part de votre ambassade. Les agents consulaires travaillent plus vite lorsqu'ils ont sous les yeux un scan de votre passeport original.
 
 Stockez vos copies numériques quelque part de chiffré et hors ligne — pas dans Google Photos ou un iCloud partagé avec d'autres personnes. Travel Document Vault est conçu exactement pour cet usage : des photos de passeport chiffrées uniquement sur votre appareil, accessibles instantanément si quelque chose tourne mal.
+
+Numérisez votre passeport dès aujourd'hui, avant d'en avoir besoin.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 

@@ -38,7 +38,7 @@ A expressão vem do espanhol e do português. *Fecha de expedición* e *data de 
 
 Todas significam a mesma coisa, e nenhuma delas significa validade. Se um formulário pedir uma «expedition date», quer a mais antiga das suas duas datas.
 
-## O Formato da Data Foi Pensado Para Evitar Exatamente Isto
+## O Mês Escrito por Extenso Evita Confusões no Formato da Data
 
 Repare com atenção e vai notar que muitos passaportes não imprimem as datas apenas em números. O mês é geralmente escrito por extenso, em letras, em vez de algarismos.
 
@@ -48,7 +48,7 @@ A ambiguidade regressa no momento em que transcreve a data para um formulário, 
 
 ## Quatro Passaportes, Quatro Relógios Diferentes
 
-Tudo isto multiplica-se discretamente numa família. Os passaportes tendem a ser emitidos quando são necessários, e não todos ao mesmo tempo, por isso as datas de emissão de uma casa raramente coincidem, e as datas de validade também não.
+Junte um segundo ou terceiro passaporte à mistura, como acontece na maioria das famílias, e nada bate certo. Os passaportes tendem a ser emitidos quando são necessários, e não todos ao mesmo tempo, por isso as datas de emissão de uma casa raramente coincidem, e as datas de validade também não.
 
 As crianças alargam ainda mais essa diferença. A maioria dos passaportes de crianças tem metade da duração de um passaporte de adulto, por isso um passaporte emitido no mesmo mês que o de um dos pais caduca cerca de cinco anos mais cedo. Os pais que têm anos de validade pela frente são os que mais facilmente são apanhados desprevenidos pelo documento de um filho, porque não há motivo para pensar nisso até um formulário perguntar. Explicamos como manter em dia os passaportes de toda a família em [gerir vários passaportes ao mesmo tempo](https://traveldocumentvault.com/pt/blog/family-passport-management/).
 
@@ -60,13 +60,17 @@ Os passaportes britânicos emitidos mais recentemente já não têm esses meses 
 
 Os países do Espaço Schengen aplicam dois testes distintos a um passaporte não pertencente à UE, na fronteira: tem de ter sido emitido há menos de dez anos a contar da data de chegada, e tem de continuar válido durante pelo menos três meses depois da data prevista de partida. Um passaporte com nove meses extra pode passar facilmente no segundo teste e falhar no primeiro, o que é uma conversa difícil de ter junto a um balcão em Madrid com um documento que ainda não expirou.
 
-Verifique as duas datas antes de uma viagem à Europa, não apenas a que está no fundo da página.
+Nós verificaríamos as duas datas antes de uma viagem à Europa, não apenas a que está no fundo da página.
 
 ## País Emissor e Autoridade Emissora São Campos Diferentes
 
 Perto do topo da página de dados está um código de três letras para o país emissor. Mais abaixo, geralmente no seu próprio campo, está a autoridade emissora: o organismo ou departamento que efetivamente produziu o passaporte.
 
-O país importa mais do que se costuma pensar. É ele que decide a que rede consular recorre se o passaporte se perder ou for roubado, e raramente é o país onde vive. Também decide que regras de entrada se aplicam a si, que é a razão pela qual quem tem dupla nacionalidade pensa cuidadosamente sobre qual dos passaportes apresenta. Se quiser a versão prática disso, percorremos o tema em [o que fazer quando um passaporte desaparece no estrangeiro](https://traveldocumentvault.com/pt/blog/lost-passport-abroad/).
+O país importa mais do que se costuma pensar. É ele que decide a que rede consular recorre se o passaporte se perder ou for roubado.
+
+Raramente é o país onde se encontra nesse momento.
+
+O país também decide que regras de entrada se aplicam a si, que é a razão pela qual quem tem dupla nacionalidade pensa cuidadosamente sobre qual dos passaportes apresenta. Se quiser a versão prática disso, percorremos o tema em [o que fazer quando um passaporte desaparece no estrangeiro](https://traveldocumentvault.com/pt/blog/lost-passport-abroad/).
 
 O campo da autoridade é sobretudo útil para formulários. Algumas candidaturas pedem-no exatamente como está escrito, outras aceitam o país, e copiá-lo tal e qual é mais rápido do que adivinhar.
 
@@ -78,13 +82,15 @@ Os vistos já carimbados ou impressos no passaporte anterior ficam lá, e os voo
 
 Nada disto é dramático por si só. Torna-se dramático quando um cartão de embarque e um passaporte não coincidem num balcão de check-in, por isso vale a pena dedicar meia hora, com calma, depois de uma renovação, para atualizar os poucos sítios onde o número fica registado.
 
-## Onde Fica Tudo Isto na Página
+## A Página de Dados É Normalizada, mas a Zona de Leitura Ótica Omite Uma Data
 
 A página de dados é a página rígida e laminada que tem a sua fotografia, e a sua disposição é normalizada internacionalmente, e não inventada por cada país. É por isso que um passaporte de qualquer parte do mundo é legível para um agente de fronteira em qualquer parte do mundo, e por isso que, depois de saber ler um, sabe ler todos.
 
 As duas linhas de carateres e setas na parte inferior são a zona de leitura ótica. Repete parte da informação da página acima num formato que um scanner consegue captar de uma só vez, mas não toda: a data de validade está lá, a data de emissão não. Um dano nessa zona é levado muito mais a sério do que um risco na capa. Explicamos onde essa linha fica em [viajar com um passaporte danificado](https://traveldocumentvault.com/pt/blog/damaged-passport-travel/).
 
 Se os campos da sua própria página de dados não estiverem em português, a disposição continua a ajudar: as duas datas estão impressas juntas, no mesmo formato, e a data de validade é a mais tardia das duas.
+
+Dedique cinco minutos hoje a encontrar as duas datas no seu passaporte, e no de cada filho se viajar em família, para já saber qual é qual quando um formulário ou uma fronteira lho perguntar.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

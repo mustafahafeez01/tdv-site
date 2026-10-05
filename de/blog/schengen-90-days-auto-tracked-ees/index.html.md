@@ -108,7 +108,7 @@ Nein. Das EES ist jetzt aktiv und erfasst Ihre Ein- und Ausreise an der Grenze. 
 
 ### Wie hilft Travel Document Vault bei der 90/180-Regel?
 
-Die App zählt Tage pro Person, pro Land und über alle Ihre Reisen hinweg und projiziert Ihr rollierendes Fenster voraus, bevor Sie buchen. Sie kann Ihr EES-Profil nicht auslesen – keine App kann das – aber sie wendet die offizielle 90/180-Berechnung auf Ihre Reisedaten an, sodass die verbleibenden Tage jedes Familienmitglieds auf einen Blick sichtbar sind.
+Die App zählt Tage pro Person, pro Land und über alle Ihre Reisen in dieses Land hinweg und projiziert Ihr rollierendes Fenster voraus, bevor Sie buchen. Sie kann Ihr EES-Profil nicht auslesen – keine App kann das – aber mit Pro wendet sie eine rollierende 90/180-Zählung auf Ihre Reisen in jedes Land an, für das Sie ein Limit festlegen, sodass die verbleibenden Tage jedes Familienmitglieds dort auf einen Blick sichtbar sind.
 
 ## Verwandte Artikel
 

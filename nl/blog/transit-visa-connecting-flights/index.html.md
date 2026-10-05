@@ -21,7 +21,7 @@ Of een aansluitende vlucht een transitvisum vereist, hangt af van drie dingen: w
 
 Het transitvisum is het document waar zelfs zorgvuldige reizigers over struikelen, omdat het losstaat van de rest van je reisdossier. De geldigheid van je paspoort heeft er geen invloed op, en het inreisvisum voor je bestemming vervangt het ook niet - het bestaat puur omdat je vliegtuig toevallig ergens landt om bij te tanken. Toch controleren veel reizigers pas veel te laat of ze er een nodig hebben.
 
-## Airside- versus landside-transit: het kernonderscheid
+## Airside-transit vraagt vaak geen visum, maar bij landside moet je door de immigratiecontrole
 
 Of je een visum nodig hebt, komt vaak neer op één onderscheid: airside versus landside. De meeste landen bieden visumvrije doorreis aan één kant van die grens, maar niet aan de andere.
 
@@ -53,13 +53,13 @@ Dit geldt zelfs voor vergelijkbare nationaliteiten binnen dezelfde regio. Reizig
 
 Daarom is het IATA Travel Centre (dezelfde database die luchtvaartmaatschappijen bij de gate gebruiken) de enige betrouwbare bron: je voert je nationaliteit en bestemming in, en het vertelt je precies wat de vereiste is voor die combinatie. Ga er nooit vanuit dat je het weet op basis van de ervaring van een andere reiziger of wat je je herinnert van een eerdere reis.
 
-## Pas na het boeken ontdekken dat je een transitvisum nodig hebt
+## Merk je na het boeken dat je een visum nodig hebt, bel dan eerst je luchtvaartmaatschappij
 
 Het gebeurt vaker dan je zou denken: je boekt de vluchten, en ontdekt daarna dat de tussenlanding een transitvisum vereist dat je niet hebt. Beschouw het dan als urgent, want verwerkingstijden lopen enorm uiteen, van dezelfde dag tot enkele weken, afhankelijk van het land en de tijd van het jaar.
 
 Begin bij je luchtvaartmaatschappij, want die kent mogelijk de verwerkingstijden en heeft soms ervaring met veelvoorkomende routes. Neem vervolgens contact op met de dichtstbijzijnde ambassade of het consulaat van het transitland om te achterhalen hoe lang het visum zelf duurt. Veel consulaten bieden versnelde verwerking voor reisnoodgevallen, al betaal je daarvoor mogelijk een extra toeslag.
 
-Lukt de verwerking niet meer voor je vertrekdatum, dan heb je drie opties: je vluchten omboeken om het transitland helemaal te vermijden, omboeken via een ander overstappunt, of je reis uitstellen. Proberen in te stappen zonder het vereiste visum leidt tot gemiste vluchten en mogelijke complicaties met je luchtvaartmaatschappij.
+Lukt de verwerking niet meer voor je vertrekdatum, dan heb je drie opties: je vluchten omboeken om het transitland helemaal te vermijden, omboeken via een ander overstappunt, of je reis uitstellen. Boek de nieuwe route daarom zodra je het probleem ziet, in plaats van af te wachten en te hopen dat de papieren op tijd rond komen. Proberen in te stappen zonder het vereiste visum leidt tot gemiste vluchten en mogelijke complicaties met je luchtvaartmaatschappij.
 
 ## Hoe je het controleert voordat je boekt
 
@@ -70,6 +70,8 @@ Geeft de tool aan dat je een transitvisum nodig hebt, let dan op twee dingen naa
 Neem elk transitvisum dat je nodig hebt op in je planning, naast je hoofdinreisvisum. Sommige duren weken; die informatie heb je nodig voordat je de vluchten boekt. Bewaar de bevestiging bij je andere reisdocumenten zodat je hem bij de hand hebt bij de gate, waar de luchtvaartmaatschappij - niet de grens - hem als eerste controleert.
 
 Reis je met het gezin, controleer dan het paspoort van elk gezinslid afzonderlijk. Eén persoon zonder vrijstelling kan de hele reis in de war schoppen.
+
+Controleer voordat je boekt je hele route, niet alleen de bestemming, in het IATA Travel Centre. Die controle vangt een ontbrekende vereiste het vaakst op zolang je de boeking nog kunt wijzigen.
 
 ## Veelgestelde vragen
 

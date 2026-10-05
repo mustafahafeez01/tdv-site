@@ -33,7 +33,9 @@ Antes de hablar sobre el riesgo, seamos específicos sobre lo que realmente est�
 - Tu fotografía
 - La zona legible por máquina (MRZ) —las dos filas de texto en la parte inferior que codifican todo lo anterior en un formato estándar
 
-Eso es mucho datos personales en una imagen. Tu nombre, fecha de nacimiento y número de pasaporte juntos son suficientes para intentar fraude de identidad, ejecutar un ataque de phishing convincente usando tus detalles reales, o abrir crédito a tu nombre en algunas jurisdicciones. **La foto lo hace aún más útil para alguien que no debería tenerlo.**
+Eso es mucho datos personales en una imagen. Tu nombre, fecha de nacimiento y número de pasaporte juntos son suficientes para intentar fraude de identidad, ejecutar un ataque de phishing convincente usando tus detalles reales, o abrir crédito a tu nombre en algunas jurisdicciones.
+
+La foto lo hace aún más útil para alguien que no debería tenerlo.
 
 ## ¿Cuáles son los riesgos reales del almacenamiento en Google Photos?
 
@@ -41,7 +43,7 @@ Los riesgos realmente no tienen que ver con Google haciendo algo siniestro. Son 
 
 **Compromiso de cuenta**
 
-Alguien accede a tu cuenta de Google —a través de phishing, una contraseña reutilizada de otro incumplimiento, o simplemente una contraseña débil— y tienen acceso a todo: cada foto, cada documento, todo en Google Drive. Esta es la amenaza real más probable para la mayoría de las personas, y es exactamente por qué la seguridad de las fotos del pasaporte importa más de lo que la mayoría de las personas se da cuenta.
+Alguien accede a tu cuenta de Google —a través de phishing, una contraseña reutilizada de otro incumplimiento, o simplemente una contraseña débil— y tienen acceso a todo: cada foto, cada documento, todo en Google Drive. Esta es la amenaza real más probable para la mayoría de las personas, y es exactamente por qué la seguridad de las fotos del pasaporte importa más de lo que la mayoría de las personas se da cuenta. Nosotros daríamos por comprometida cualquier contraseña que se repita en más de un sitio.
 
 **Acceso compartido**
 
@@ -103,7 +105,7 @@ Las aplicaciones construidas específicamente para esto —como [Travel Document
 
 Tresorit y Proton Drive ofrecen cifrado del lado del cliente para almacenamiento en la nube. Como gestores de contraseñas, el proveedor no puede leer tus archivos. Obtienes conveniencia en la nube con seguridad de foto del pasaporte sustancialmente más fuerte que Google Photos.
 
-## Mejores prácticas si continúas usando Google Photos
+## Si sigues con Google Photos, la autenticación de dos factores hace la mayor parte del trabajo
 
 Muchas personas seguirán usando Google Photos por esto —la conveniencia es real. Si ese eres tú, estos pasos realmente mueven la aguja en el riesgo:
 
@@ -114,6 +116,8 @@ Muchas personas seguirán usando Google Photos por esto —la conveniencia es re
 - **Crea un álbum privado para documentos sensibles** en lugar de dejarlos sueltos en tu flujo de fotos principal. No detendrá un incumplimiento, pero reduce la exposición accidental cuando alguien está mirando por encima de tu hombro.
 
 Para una mirada más amplia a mantener tus documentos de viaje organizados y seguros, consulta nuestros [consejos de documentos de viaje](https://traveldocumentvault.com/es/) en el blog —incluyendo una guía práctica sobre [cómo organizar documentos de viaje familiar](https://traveldocumentvault.com/es/blog/how-to-organise-family-travel-documents/) antes de tu próximo viaje.
+
+Abre hoy mismo los ajustes de seguridad de tu cuenta de Google, activa la autenticación de dos factores si aún no lo está y cambia cualquier contraseña que hayas usado en otro sitio. Es el cambio que más probabilidades tiene de mantener este escaneo, y todo lo demás de tu cuenta, fuera de manos ajenas.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

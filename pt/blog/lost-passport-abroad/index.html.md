@@ -22,9 +22,11 @@ Todos os dias há pessoas a substituir passaportes perdidos no estrangeiro, e as
 
 Se está a ler isto antes da sua viagem, dedique os próximos cinco minutos a isto. Tire uma foto clara da página de dados principal de cada passaporte com que vai viajar. Guarde-a numa aplicação encriptada que funciona offline — muito mais segura do que o seu rolo de câmara e mantida totalmente privada.
 
-Quando chegar à sua embaixada, pedir-lhe-ão o número do passaporte, data de emissão, local de emissão e data de validade. Sem uma cópia, está a tentar lembrar-se destes detalhes sob stress. Com uma, entregar-lhos-á em segundos. **O pessoal consular emite documentos de substituição mais rapidamente quando chega com os detalhes já escritos.**
+Quando chegar à sua embaixada, pedir-lhe-ão o número do passaporte, data de emissão, local de emissão e data de validade. Sem uma cópia, está a tentar lembrar-se destes detalhes sob stress. Com uma, entregar-lhos-á em segundos. O pessoal consular emite documentos de substituição mais rapidamente quando **chega com os detalhes já escritos**.
 
-Uma cópia no telemóvel é um registo, não uma identificação, e os dois conceitos confundem-se com facilidade. Vale a pena saber de antemão [onde uma cópia digital do passaporte é aceite e onde ainda precisa do original](https://traveldocumentvault.com/pt/blog/digital-passport-copy-valid/).
+Uma cópia no telemóvel é um registo, não uma identificação.
+
+Vale a pena saber de antemão [onde uma cópia digital do passaporte é aceite e onde ainda precisa do original](https://traveldocumentvault.com/pt/blog/digital-passport-copy-valid/).
 
 ## Passo 1: Confirme Que o Passaporte Realmente Desapareceu
 
@@ -32,7 +34,7 @@ Procure em todo o lado antes de assumir o pior — bolsos do casaco, todos os co
 
 ## Passo 2: Apresente um Relatório de Polícia Imediatamente
 
-Vá à esquadra de polícia mais próxima e apresente queixa por passaporte perdido ou roubado. Precisa deste relatório tanto para a sua candidatura à embaixada como para a sua reclamação de seguro.
+Vá à esquadra de polícia mais próxima e apresente queixa por passaporte perdido ou roubado. Precisa deste relatório tanto para a sua candidatura à embaixada como para a sua reclamação de seguro. Nós fá-lo-íamos dentro da hora, se possível, enquanto os pormenores ainda estão frescos na memória.
 
 Peça uma cópia escrita com número de caso. Solicite uma versão em inglês ou tradução se possível. Tire uma foto e mantenha várias cópias guardadas em segurança.
 
@@ -60,7 +62,7 @@ O que normalmente vai precisar (confirme com a sua embaixada antes de visitar):
 - Prova de viagem de continuação — reserva de voo, confirmação de hotel
 - Taxa de documento de emergência — tenha dinheiro e cartão disponível
 
-**Travel Document Vault** armazena uma cópia encriptada do seu passaporte no seu telemóvel — acessível sem internet, sem login. É exatamente o que a sua embaixada lhe pedirá. [Transferir na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** armazena uma cópia encriptada do seu passaporte no seu telemóvel — acessível sem internet, sem login. Contém todos os dados do passaporte que constam dessa lista. [Transferir na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Passo 5: Notifique a Sua Seguradora de Viagem
 
@@ -78,7 +80,7 @@ Se perder um passaporte na Tailândia que contenha um visto multi-entrada válid
 
 ## Passo 7: Chegue a Casa e Substitua o Seu Passaporte
 
-Quando tiver o seu documento de viagem de emergência, confirme requisitos de saída com imigração local se necessário, depois remaque ou confirme a sua viagem para casa. Quando estiver de volta: solicite um passaporte de substituição completo através da sua autoridade de passaportes oficial e configure uma cópia digital encriptada de todos os seus documentos de viagem antes da sua próxima viagem.
+Quando tiver o seu documento de viagem de emergência, confirme requisitos de saída com imigração local se necessário, depois remaque ou confirme a sua viagem para casa. Quando estiver de volta, solicite um passaporte de substituição completo através da sua autoridade de passaportes oficial e digitalize-o, juntamente com os restantes documentos de viagem, para uma cópia de segurança encriptada no mesmo dia em que o receber.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

@@ -18,13 +18,13 @@ Source: https://traveldocumentvault.com/da/blog/national-id-card-travel-europe/
 
 Er du EU-borger og planlægger en rejse til et andet europæisk land, ejer du sandsynligvis et nationalt ID-kort. Og du har nok spekuleret på, om du skal medbringe kortet, passet, eller begge dele. Det korte svar er: inden for EU og EØS er ID-kortet alene nok til at rejse. En britisk eller amerikansk læser har ikke et nationalt ID-kort, der kan bruges til at rejse – dette indlæg gælder kun EU- og EØS-borgere – så hvis det er dig, er dit pas din eneste mulighed.
 
-For resten af Europa er reglerne klare og enklere, end de fleste tror. Forvirringen kommer ikke fra loven, men fra flyselskaberne, som lægger deres egne krav oven på den. At kende forskellen på, hvad Europa lovmæssigt kræver, og hvad dit flyselskab ønsker, sparer dig for et problem i sidste øjeblik ved check-in.
+For resten af Europa er reglerne klare og enklere, end de fleste tror. Forvirringen kommer som regel fra flyselskaberne, som lægger deres egne krav oven på loven. At kende forskellen på, hvad Europa lovmæssigt kræver, og hvad dit flyselskab ønsker, sparer dig for et problem i sidste øjeblik ved check-in.
 
 ## Hvornår et EU-ID-kort er nok
 
 Inden for EU og EØS er et gyldigt nationalt ID-kort et fuldgyldigt rejsedokument. Du kan krydse grænser mellem EU-medlemsstater, Norge, Island, Liechtenstein og Schweiz med kun dit ID-kort. Du skal ikke bruge dit pas. Kortet skal være gyldigt den dag, du ankommer – i modsætning til pas til visse rejsemål findes der ingen "6-måneders-regel" for rejser i Europa med ID-kort.
 
-Et kort, der udløber i morgen, er teknisk set stadig et gyldigt rejsedokument i dag. Alligevel er det **klogt at forny i god tid**, fordi der lettere bliver sat spørgsmålstegn ved et kort tæt på udløb i grænsekontrollen, og beskadigede kort afvises, selv hvis de endnu ikke er udløbet.
+Et kort, der udløber i morgen, er teknisk set stadig et gyldigt rejsedokument i dag. Alligevel er det klogt at forny i god tid, fordi der lettere bliver sat spørgsmålstegn ved et kort tæt på udløb i grænsekontrollen, og beskadigede kort afvises, selv hvis de endnu ikke er udløbet.
 
 Det er i Schengenområdet, at denne fleksibilitet betyder mest. Som EU-borger med et gyldigt ID-kort kan du bevæge dig frit mellem Schengenlande uden paskontrol. Den samme ret gælder ved grænser til EU-lande uden for Schengen – kortet fungerer på grund af EU's ret til fri bevægelighed, ikke på grund af Schengen-medlemskab.
 
@@ -57,7 +57,9 @@ Vi gennemgår det i detaljer i vores guide om [at styre familiens pas](https://t
 
 Bliver dit ID-kort afvist, afhænger dine muligheder af, hvad du ellers har med dig. Et ekstra pas lader dig som regel rejse alligevel, forudsat det er gyldigt og opfylder rejsemålets indrejsekrav. Med kun ID-kortet i hånden er der derimod intet sikkerhedsnet: du kan ikke krydse grænsen, og grænsemyndighederne har ingen pligt til at acceptere et andet dokument.
 
-**Den mest praktiske løsning:** medbring både ID-kort og pas ved internationale rejser, også inden for Europa. Ingen af dokumenterne fylder meget, og at have begge betyder, at et beskadiget eller anfægtet dokument ikke behøver at stoppe din rejse. Bliver dit kort afvist, fordi det er ulæseligt, bliver passet din reserve.
+Den mest praktiske løsning er at medbringe både ID-kort og pas ved internationale rejser, også inden for Europa.
+
+Ingen af dokumenterne fylder meget, og at have begge betyder, at et beskadiget eller anfægtet dokument ikke behøver at stoppe din rejse. Bliver dit kort afvist, fordi det er ulæseligt, bliver passet din reserve.
 
 ## To dokumenter, to udløbsdatoer
 
@@ -66,6 +68,8 @@ Den reelle udfordring ved at styre rejsedokumenter er denne: dit ID-kort og dit 
 Det sværeste er, at **ingen af dokumenterne sender dig en påmindelse.** Du forventes at tjekke dem selv. De fleste gør det ikke, før de står ved check-in-skranken, og en medarbejder fortæller dem, at et af dem er for tæt på udløb til at blive accepteret.
 
 Det hjælper at have ét sted for begge dokumenter – et sted, der registrerer hver udløbsdato, når du scanner det, og minder dig om hvert dokument separat, efter den tidsplan der passer til den dokumenttype. Se vores guide om [at opbygge et komplet dokumenttjek før afrejse](https://traveldocumentvault.com/da/blog/travel-document-checklist/) for det fulde overblik over, hvad du bør kontrollere, før du rejser.
+
+Start i dag: tag dit ID-kort frem, tjek udløbsdatoen, og se det efter for revner, falmning eller skæv plast. Er det på grænsen, så bestil fornyelsen, før du booker rejsen.
 
 ## Ofte stillede spørgsmål
 

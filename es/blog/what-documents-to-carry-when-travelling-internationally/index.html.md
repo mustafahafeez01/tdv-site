@@ -20,9 +20,9 @@ Los viajeros frecuentemente descubren que han pasado por alto cartas de consenti
 
 Para la lista completa de todos los documentos que podrías necesitar por tipo de viaje y etapa, ve a [la lista completa de documentos de viaje](https://traveldocumentvault.com/es/blog/travel-document-checklist/). Este artículo profundiza en lo que se olvida y cómo prepararse para perder documentos en el extranjero.
 
-## Los Documentos Que Comúnmente Olvidas
+## Cinco documentos que la gente olvida cuando ya tiene el pasaporte en la maleta
 
-Tu pasaporte y visa se sienten urgentes, así que se empacan primero. Pero los oficiales de inmigración en la puerta verifican cinco otros documentos que la mayoría de la gente pasa por alto.
+Tu pasaporte y visa se sienten urgentes, así que se empacan primero. Los cinco documentos que la gente realmente olvida vienen después: prueba de viaje posterior, confirmaciones de alojamiento, certificados de vacunación, detalles del seguro y la carta de consentimiento de un niño.
 
 ### Prueba de viaje posterior
 
@@ -42,7 +42,9 @@ Necesitarás acceso inmediato a tu número de póliza, detalles de contacto del 
 
 ### Cartas de consentimiento de viaje infantil
 
-Cuando un niño viaja internacionalmente con solo un padre (o con ninguno de los padres), muchos países esperan consentimiento por escrito del padre ausente, y la notarización se recomienda encarecidamente. Los oficiales fronterizos en países incluyendo Canadá y Sudáfrica rutinariamente preguntan por uno, y el personal de la aerolínea puede rehusar embarque sin uno. Es el documento más comúnmente olvidado en viajes familiares, así que verifica antes de llegar a la puerta.
+Cuando un niño viaja internacionalmente con solo un padre (o con ninguno de los padres), muchos países esperan consentimiento por escrito del padre ausente, y la notarización se recomienda encarecidamente. Los oficiales fronterizos en países incluyendo Canadá y Sudáfrica rutinariamente preguntan por uno, y el personal de la aerolínea puede rehusar embarque sin uno.
+
+Es el documento más comúnmente olvidado en viajes familiares, así que verifica antes de llegar a la puerta.
 
 ## Qué Llevar versus Qué Guardar Digitalmente
 
@@ -81,13 +83,13 @@ Detalles específicos a tener a mano, tanto en papel como digitalmente:
 - Límites de cobertura para evacuación médica, que normalmente aparecen por separado de la cobertura médica general
 - Cualesquiera exclusiones o condiciones que apliquen a tu viaje
 
-El número de emergencia debe guardarse en tus contactos de teléfono por separado de los documentos físicos. Si tu bolsa se pierde o roba, esto asegura que aún puedas acceder a ayuda sin tu documento de póliza física.
+Nosotros guardaríamos el número de emergencia en los contactos del teléfono, por separado de los documentos físicos. Si tu bolsa se pierde o roba, esto asegura que aún puedas acceder a ayuda sin tu documento de póliza física.
 
 ## Lo Que Las Familias Con Niños Necesitan Agregar
 
 Cada niño necesita su propio pasaporte para viajes internacionales, sin importar cuan joven sean. Muchos países también escrutinizan viajes infantiles de cerca para proteger contra rapto parental, así que espera preguntas extra cuando un niño viaja con solo un padre.
 
-**Carta de consentimiento de viaje infantil:** Si un niño está viajando internacionalmente con solo un padre, muchos oficiales fronterizos pedirán consentimiento por escrito del padre ausente, preferiblemente notarizado. Si viaja con ninguno de los padres (con abuelos, por ejemplo), típicamente se requiere consentimiento de ambos padres. Los requisitos cambian y varían por nacionalidad, así que verifica con la autoridad de inmigración oficial de tu destino.
+Aquí rige la misma regla: cuando un niño viaja internacionalmente con solo un padre, muchos oficiales fronterizos pedirán consentimiento por escrito del padre ausente, preferiblemente notarizado. Si viaja con ninguno de los padres (con abuelos, por ejemplo), típicamente se requiere consentimiento de ambos padres. Los requisitos cambian y varían por nacionalidad, así que verifica con la autoridad de inmigración oficial de tu destino.
 
 Una carta de consentimiento típicamente debe incluir el nombre completo del niño y fecha de nacimiento, detalles del pasaporte, fechas y destinos de viaje, y detalles de contacto del padre(s) ausente(s). Algunos destinos tienen plantillas específicas; el gobierno canadiense, por ejemplo, proporciona un formato de muestra de carta de consentimiento.
 
@@ -95,11 +97,13 @@ Qué significa esto en la práctica
 
 Estás abordando un vuelo a Canadá con tu hijo de 8 años y tu pareja no está viajando. El personal de check-in puede rehusar embarcar a tu hijo si no puedes mostrar consentimiento por escrito de tu pareja ausente, preferiblemente notarizado. Si tu hijo está viajando con sus abuelos en lugar de contigo, típicamente ambos padres necesitan firmar la carta de consentimiento —el permiso de un solo padre generalmente no es suficiente. Siempre verifica los requisitos exactos para tu destino bien antes de tu fecha de salida.
 
-## El Caso de Las Copias Digitales Sin Conexión
+## Guarda una copia sin conexión que no viaje en tu maleta
 
 Los documentos físicos ayudan hasta que un ladrón se lleva tu bolsa —y generalmente se lleva las copias junto con los originales. Una copia de seguridad cifrada separada en tu teléfono —guardada sin conexión— es tu verdadero seguro si los originales desaparecen.
 
 Cuando tu embajada necesita emitir un documento de viaje de emergencia, una copia de seguridad segura les da tu número de pasaporte, fecha de emisión, lugar de emisión y fecha de expiración instantáneamente, sin acceso a internet. Para más información sobre las opciones disponibles, ve nuestra descripción general de [cómo guardar copias de pasaporte de forma segura](https://traveldocumentvault.com/es/blog/is-it-safe-to-store-passport-in-google-photos/) y los compromisos entre diferentes enfoques.
+
+Elige el documento de esta lista del que todavía no tengas copia de seguridad, sea tu carta de consentimiento, el número de tu póliza de seguro o la página de datos de tu pasaporte, y guarda una copia cifrada y sin conexión en tu teléfono antes de tu próximo viaje.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

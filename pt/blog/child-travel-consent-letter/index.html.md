@@ -16,7 +16,9 @@ Source: https://traveldocumentvault.com/pt/blog/child-travel-consent-letter/
 - As rejeições comuns resultam de informações em falta, falta de autenticação, assinaturas desatualizadas, ou números não verificáveis.
 - Transporte uma cópia impressa como documento principal, e guarde uma cópia de segurança digital encriptada para emergências.
 
-Uma carta de consentimento cumpre uma única função no balcão da companhia aérea: mostra que o adulto que viaja com a criança tem o acordo do progenitor ausente. A maioria é aceite sem comentários. As que causam atrasos falham normalmente num pormenor e não no essencial, sendo o mais comum um número de passaporte alterado na última renovação da criança.
+Uma carta de consentimento cumpre uma única função no balcão da companhia aérea: mostra que o adulto que viaja com a criança tem o acordo do progenitor ausente. A maioria é aceite sem comentários. As que causam atrasos raramente falham no essencial.
+
+Falham num pormenor, normalmente um número de passaporte que mudou na última renovação da criança.
 
 Esse cenário — e milhares como ele — acontece porque as cartas de consentimento de viagem para crianças são um dos documentos de viagem mais mal compreendidos. As regras variam muito por país, e uma carta que funciona bem numa viagem pode falhar na fronteira na próxima. Saber exactamente quando é necessária, o que deve conter, e como mantê-la válida previne as razões mais comuns pelas quais as famílias são paradas na fronteira.
 
@@ -35,7 +37,7 @@ Uma carta é comummente necessária nessas situações:
 
 Verifique sempre os requisitos directamente com a autoridade de imigração do seu país de destino específico antes de viajar. Use o IATA Travel Centre para verificar requisitos de entrada, ou contacte a embaixada do seu país de destino. Se estiver incerto, ter a carta é melhor do que a alternativa: ser parado no check-in ou na fronteira.
 
-## O Que a Carta Deve Incluir
+## O Que a Carta Deve Dizer para Ser Aceite
 
 Uma carta de consentimento de viagem para crianças não é uma nota casual — é um documento formal, frequentemente autenticado, que deve conter informações específicas. Cada carta deve incluir:
 
@@ -53,7 +55,7 @@ Escreva a carta em linguagem formal — evite frases vagas como "a minha crianç
 
 Alguns agentes fronteiriços telefonarão para o número de contacto fornecido para verificar o consentimento. Certifique-se de que esse número está correcto, é respondido pela pessoa nomeada, e que podem confirmar a permissão na chamada. Se não conseguir garantir que alguém responderá durante o horário das fronteiras, liste um contacto alternativo e anote-o na carta.
 
-## Autenticação e Certificação Oficial
+## As Regras de Autenticação Variam Consoante o Destino
 
 Na maioria dos casos, a carta deve ser autenticada, o que significa que um notário público ou solicitor a assina e carimba, verificando que o progenitor ausente a assinou na sua presença. Em algumas jurisdições, uma assinatura certificada por um solicitor é aceitável em vez disso.
 
@@ -80,7 +82,7 @@ Mesmo as famílias bem preparadas cometem erros que levam à rejeição na front
 7. **Lista de destinos incompleta.** Se a carta diz "Europa" mas não nomeia países específicos, pode ser rejeitada.
 8. **Sem declaração de permissão explícita.** A carta deve claramente afirmar que o progenitor ausente consente nesta viagem.
 
-## Requisitos Específicos por País
+## Os Requisitos Vão do Recomendado ao Estritamente Aplicado
 
 | País | Requisito | Autenticação | Fonte oficial |
 |---|---|---|---|
@@ -92,9 +94,9 @@ Mesmo as famílias bem preparadas cometem erros que levam à rejeição na front
 | **União Europeia** | Varia por país | Varia por país | IATA Travel Centre |
 | **Nova Zelândia** | Recomendada | Verifique com imigração | Immigration NZ |
 
-**Verifique sempre os requisitos actuais directamente com a autoridade de imigração oficial do seu país de destino.** As regras mudam frequentemente, e websites de governo oficiais são a sua fonte mais fiável. Blogues de viagem e páginas de companhias aéreas são úteis para contexto, mas podem ficar atrás dos requisitos mais recentes.
+Encare esta tabela como um ponto de partida, não como a palavra final. As regras mudam frequentemente, e a própria autoridade de imigração do destino é a sua fonte mais fiável. Blogues de viagem e páginas de companhias aéreas são úteis para contexto, mas podem ficar atrás dos requisitos mais recentes.
 
-## Guardar e Transportar a Carta
+## Leve uma Cópia Impressa e Guarde uma Cópia Digital de Segurança
 
 Uma vez que a carta é assinada e autenticada, o próximo desafio é mantê-la segura e acessível durante a viagem. Mantenha três versões:
 
@@ -106,7 +108,7 @@ As cópias digitais são cada vez mais aceites, mas as práticas variam. Alguns 
 
 Se também [organizar os documentos de viagem da sua família centralmente](https://traveldocumentvault.com/pt/blog/how-to-organise-family-travel-documents/), a carta de consentimento fica ao lado de passaportes, vistos, e registos de vacinação, pronta para qualquer viagem.
 
-## Lista de Verificação Final Antes de Viajar
+## Passe por Isto Antes de Viajar
 
 Nos dias antes da partida, passe por esta lista de verificação:
 
@@ -120,7 +122,7 @@ Nos dias antes da partida, passe por esta lista de verificação:
 - Se o passaporte da sua criança for renovado antes de viajar, obtenha uma carta nova mostrando o novo número de passaporte.
 - Não lamine uma carta autenticada. A laminação pode invalidar a certificação.
 
-Uma carta de consentimento bem preparada é o salvaguarda da sua família contra perturbações de viagem. O tempo gasto agora compensa-se em passagens fronteiriças suaves e paz de espírito.
+Passe por esta lista antes de sair de casa e não ao balcão do check-in, porque um número de passaporte alterado é o pormenor que as famílias mais vezes deixam escapar.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

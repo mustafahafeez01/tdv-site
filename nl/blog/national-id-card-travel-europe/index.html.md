@@ -18,13 +18,13 @@ Source: https://traveldocumentvault.com/nl/blog/national-id-card-travel-europe/
 
 Ben je EU-burger en plan je een reis naar een ander Europees land, dan heb je waarschijnlijk een nationale identiteitskaart. En je hebt je vast afgevraagd of je die moet inpakken, je paspoort, of allebei. Het eenvoudige antwoord is dit: binnen de EU en de EER is je identiteitskaart alleen voldoende om te reizen, want dit artikel is specifiek geschreven voor EU- en EER-burgers. Een Britse of Amerikaanse lezer heeft geen nationale identiteitskaart voor reizen, dus als dat voor jou geldt, is je paspoort sowieso je enige optie.
 
-Voor de rest van Europa zijn de regels duidelijk en eenvoudiger dan de meeste mensen denken. De verwarring komt niet voort uit de wet, maar uit luchtvaartmaatschappijen, die er hun eigen vereisten bovenop leggen. Als je het verschil begrijpt tussen wat Europa wettelijk vereist en wat je luchtvaartmaatschappij wil, voorkom je paniek op het laatste moment bij de incheckbalie.
+Voor de rest van Europa zijn de regels duidelijk en eenvoudiger dan de meeste mensen denken. De verwarring komt meestal van luchtvaartmaatschappijen, die er bovenop de wet hun eigen vereisten bij leggen. Als je het verschil begrijpt tussen wat Europa wettelijk vereist en wat je luchtvaartmaatschappij wil, voorkom je paniek op het laatste moment bij de incheckbalie.
 
 ## Wanneer een EU-identiteitskaart genoeg is
 
 Binnen de EU en de EER is een geldige nationale identiteitskaart een volwaardig reisdocument. Je kunt grenzen oversteken tussen EU-lidstaten, Noorwegen, IJsland, Liechtenstein en Zwitserland met alleen je identiteitskaart. Je hebt je paspoort niet nodig. De kaart moet geldig zijn op de dag van aankomst – in tegenstelling tot paspoorten voor sommige bestemmingen geldt er geen "6-maandenregel" voor reizen binnen Europa met een identiteitskaart.
 
-Een kaart die morgen verloopt, is vandaag technisch gezien nog een geldig reisdocument. Toch is het slim om **ruim op tijd te verlengen**, want een kaart die bijna verloopt, wordt eerder ter discussie gesteld aan de grens, en beschadigde kaarten worden geweigerd, ook als ze nog niet zijn verlopen.
+Een kaart die morgen verloopt, is vandaag technisch gezien nog een geldig reisdocument. Toch is het slim om ruim op tijd te verlengen, want een kaart die bijna verloopt, wordt eerder ter discussie gesteld aan de grens, en beschadigde kaarten worden geweigerd, ook als ze nog niet zijn verlopen.
 
 In het Schengengebied is deze flexibiliteit het belangrijkst. Als EU-burger met een geldige identiteitskaart kun je vrij over de open grenzen tussen Schengenlanden reizen, zonder paspoortcontrole. Hetzelfde recht geldt aan de grenzen van EU-landen die niet bij Schengen horen – de kaart werkt vanwege de EU-wetgeving voor vrij verkeer, niet vanwege het Schengenlidmaatschap.
 
@@ -57,7 +57,9 @@ We behandelen dit uitgebreid in onze gids over [het beheer van familiepaspoorten
 
 Wordt je identiteitskaart geweigerd, dan hangen je opties af van wat je verder bij je hebt. Heb je ook een paspoort, dan kun je daarmee meestal alsnog reizen, mits het geldig is en voldoet aan de inreisvereisten van je bestemming. Heb je alleen je identiteitskaart bij je, dan is er geen alternatief: je kunt de grens niet over, en grensbeambten zijn niet verplicht een ander document te accepteren.
 
-**De meest praktische aanpak:** neem zowel je identiteitskaart als je paspoort mee als je internationaal reist, zelfs binnen Europa. Geen van beide documenten neemt veel ruimte in, en met allebei zorgt een beschadigd of betwist document er niet voor dat je reis in het water valt. Wordt je identiteitskaart geweigerd omdat hij onleesbaar is, dan is je paspoort je back-up.
+De meest praktische aanpak is om zowel je identiteitskaart als je paspoort mee te nemen als je internationaal reist, zelfs binnen Europa.
+
+Geen van beide documenten neemt veel ruimte in, en met allebei zorgt een beschadigd of betwist document er niet voor dat je reis in het water valt. Wordt je identiteitskaart geweigerd omdat hij onleesbaar is, dan is je paspoort je back-up.
 
 ## Twee documenten, twee vervaldata
 
@@ -66,6 +68,8 @@ De praktische uitdaging bij het beheren van reisdocumenten is dit: je identiteit
 Het lastigste is dat **geen van beide documenten je een herinnering stuurt.** Je wordt geacht ze zelf te controleren. De meeste mensen doen dat niet, totdat ze bij de incheckbalie staan en een medewerker hen vertelt dat een van de documenten te dicht bij de vervaldatum zit om te worden geaccepteerd.
 
 Wat helpt, is één plek voor beide documenten, die elke vervaldatum herkent zodra je scant en je apart herinnert voor elk document, op het schema dat bij dat type document past. Bekijk onze gids over [het opstellen van een complete documentencontrole voor je vertrek](https://traveldocumentvault.com/nl/blog/travel-document-checklist/) voor het volledige overzicht van wat je moet controleren voordat je reist.
+
+Begin vandaag: pak je identiteitskaart erbij, controleer de vervaldatum en kijk of er barsten, vervaging of een kromgetrokken kaart te zien zijn. Zit hij op het randje, boek dan de verlenging voordat je de reis boekt.
 
 ## Veelgestelde vragen
 

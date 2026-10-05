@@ -30,7 +30,7 @@ Seberapa mendesak Anda harus bertindak menentukan apa yang harus dilakukan:
 - **Keberangkatan semakin mepet:** telepon langsung kantor imigrasi Anda alih-alih hanya mengandalkan situs web — saluran bantuan HM Passport Office di Inggris, atau US National Passport Information Center di Amerika Serikat.
 - **Keberangkatan sudah sangat dekat:** tanyakan soal janji temu darurat dan bawa bukti tanggal perjalanan Anda. Inggris menawarkan layanan Premium hari yang sama di kantor paspor tertentu, dan Amerika Serikat menawarkan janji temu di kantor paspor regional.
 
-Semua kantor imigrasi besar menyimpan slot janji temu darurat yang tidak terlihat secara daring. Jika waktu Anda mepet, telepon langsung alih-alih hanya mengandalkan situs web.
+Semua kantor imigrasi besar menyimpan slot janji temu darurat yang tidak terlihat secara daring. Jika waktu Anda mepet, **kami akan selalu menelepon, bukan hanya mengandalkan situs web.**
 
 **Atur pengingatnya sekarang** agar hal ini tidak pernah terjadi lagi — Travel Document Vault mulai memberi tahu Anda delapan bulan sebelum setiap paspor di rumah tangga Anda kedaluwarsa, lalu mengingatkan lagi saat tanggalnya semakin dekat. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
@@ -52,7 +52,9 @@ Skenario ini lebih sering terjadi daripada yang orang kira, dan langkah-langkahn
 
 ## Masalah Paspor Lain yang Membuat Pelancong Ditolak
 
-Kedaluwarsa adalah alasan paling umum sebuah paspor gagal di bandara, tetapi masalah lain juga menyebabkan hasil yang sama. Yang membuatnya lebih mudah terlewat adalah, berbeda dengan tanggal kedaluwarsa, masalah-masalah ini tidak disertai hitungan mundur yang terlihat.
+Kedaluwarsa adalah alasan paling umum sebuah paspor gagal di bandara, tetapi masalah lain juga menyebabkan hasil yang sama.
+
+Yang membuatnya lebih mudah terlewat adalah, berbeda dengan tanggal kedaluwarsa, masalah-masalah ini tidak disertai hitungan mundur yang terlihat.
 
 ### 1. Paspor yang rusak
 
@@ -68,7 +70,7 @@ Bahkan perbedaan kecil seperti inisial nama tengah yang hilang atau huruf yang t
 
 ### 3. Paspor yang belum ditandatangani
 
-Sebagian besar paspor memiliki kolom tanda tangan. Beberapa negara, termasuk Amerika Serikat, mewajibkan paspor ditandatangani agar dianggap sah untuk bepergian. Paspor yang belum ditandatangani bisa ditolak di perbatasan. Ini paling sering terjadi pada paspor yang diterbitkan untuk anak-anak yang masih terlalu kecil untuk menandatangani, atau paspor baru yang pemiliknya lupa menandatanganinya sebelum bepergian. Periksa kolom tanda tangan sebelum meninggalkan rumah.
+Sebagian besar paspor memiliki kolom tanda tangan. Beberapa negara, termasuk Amerika Serikat, mewajibkan paspor ditandatangani agar dianggap sah untuk bepergian. Paspor yang belum ditandatangani bisa ditolak di perbatasan. Ini paling sering terjadi pada paspor yang diterbitkan untuk anak-anak yang masih terlalu kecil untuk menandatangani, atau paspor baru yang pemiliknya lupa menandatanganinya sebelum bepergian. Sekilas memeriksa kolom tanda tangan sebelum meninggalkan rumah akan menangkap masalah ini lebih awal.
 
 ### 4. Sisa masa berlaku yang tidak cukup untuk negara tujuan
 
@@ -82,11 +84,11 @@ Persyaratan visa dan otorisasi perjalanan elektronik (ETA) sering berubah dan be
 
 Sebelum setiap perjalanan, periksa persyaratan masuk resmi untuk negara tujuan Anda lewat layanan informasi perjalanan negara Anda: gov.uk/foreign-travel-advice untuk pemegang paspor Inggris, travel.state.gov untuk pemegang paspor Amerika Serikat, atau smartraveller.gov.au untuk pemegang paspor Australia. Jangan mengandalkan informasi dari perjalanan terakhir Anda.
 
-## Cara Memastikan Hal Ini Tidak Terjadi Lagi
+## Atur Pengingat Setahun Sebelumnya, Bukan Enam Bulan
 
 Akar masalahnya biasanya sama: tidak ada pengingat yang terpasang. Atur pengingat kedaluwarsa setidaknya **12 bulan sebelum tanggal kedaluwarsa**, bukan 6 bulan. Ini memberi Anda waktu untuk memperpanjang dengan proses standar tanpa harus membayar layanan percepatan, dan tanpa tekanan waktu yang mepet.
 
-Lakukan ini untuk setiap paspor di rumah tangga Anda secara terpisah. Paspor anak-anak kedaluwarsa lebih cepat, 5 tahun di sebagian besar negara dibandingkan 10 tahun untuk orang dewasa, dan paling sering terlewat.
+Lakukan ini untuk setiap paspor di rumah tangga Anda secara terpisah. Paspor anak-anak kedaluwarsa lebih cepat, 5 tahun di sebagian besar negara dibandingkan 10 tahun untuk orang dewasa, dan paling sering terlewat. **Keluarkan setiap paspor hari ini dan periksa tanggal kedaluwarsanya, bukan hanya halaman fotonya.**
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 

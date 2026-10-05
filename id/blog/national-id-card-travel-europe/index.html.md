@@ -24,7 +24,7 @@ Untuk wilayah Eropa lainnya, aturannya jelas dan lebih sederhana daripada yang d
 
 Di dalam UE dan EEA, kartu identitas nasional yang masih berlaku adalah dokumen perjalanan yang lengkap. Anda dapat melintasi perbatasan antara negara anggota UE, Norwegia, Islandia, Liechtenstein, dan Swiss hanya dengan kartu ID. Anda tidak memerlukan paspor. Kartu harus masih berlaku pada hari Anda tiba - berbeda dengan paspor untuk sebagian tujuan, tidak ada "aturan 6 bulan" untuk bepergian dengan kartu ID di dalam Eropa.
 
-Kartu yang kedaluwarsa besok secara teknis masih menjadi dokumen perjalanan yang sah hari ini. Meski begitu, **memperpanjang jauh-jauh hari tetap langkah yang bijak**, karena kartu yang mendekati kedaluwarsa lebih mungkin dipertanyakan di perbatasan, dan kartu yang rusak bisa ditolak meskipun belum kedaluwarsa.
+Kartu yang kedaluwarsa besok secara teknis masih menjadi dokumen perjalanan yang sah hari ini. Meski begitu, memperpanjang jauh-jauh hari tetap langkah yang bijak, karena kartu yang mendekati kedaluwarsa lebih mungkin dipertanyakan di perbatasan, dan kartu yang rusak bisa ditolak meskipun belum kedaluwarsa.
 
 Fleksibilitas ini paling terasa di wilayah Schengen. Sebagai warga negara UE dengan kartu ID yang masih berlaku, Anda dapat bergerak bebas melintasi perbatasan terbuka antarnegara Schengen tanpa pemeriksaan paspor. Hak yang sama berlaku di perbatasan UE non-Schengen - kartu ini berfungsi karena hukum kebebasan bergerak UE, bukan karena keanggotaan Schengen.
 
@@ -57,7 +57,9 @@ Kami membahas ini secara lebih rinci dalam panduan [manajemen paspor keluarga](h
 
 Jika kartu ID Anda ditolak, pilihan Anda tergantung pada apa lagi yang Anda bawa. Paspor sebagai cadangan biasanya tetap memungkinkan Anda bepergian, asalkan masih berlaku dan memenuhi persyaratan masuk tujuan Anda. Namun, jika hanya kartu ID yang Anda bawa, tidak ada cadangan: Anda tidak dapat melintas, dan petugas perbatasan tidak berkewajiban menerima dokumen alternatif.
 
-**Pendekatan paling praktis:** bawalah kartu ID dan paspor Anda saat bepergian secara internasional, bahkan di dalam Eropa sekalipun. Kedua dokumen tidak memakan banyak tempat, dan membawa keduanya berarti dokumen yang rusak atau dipertanyakan tidak akan mengakhiri perjalanan Anda. Jika kartu ID Anda ditolak karena tidak terbaca, paspor Anda menjadi cadangan.
+Pendekatan paling praktis adalah membawa kartu ID dan paspor Anda saat bepergian secara internasional, bahkan di dalam Eropa sekalipun.
+
+Kedua dokumen tidak memakan banyak tempat, dan membawa keduanya berarti dokumen yang rusak atau dipertanyakan tidak akan mengakhiri perjalanan Anda. Jika kartu ID Anda ditolak karena tidak terbaca, paspor Anda menjadi cadangan.
 
 ## Dua Dokumen, Dua Tanggal Kedaluwarsa
 
@@ -66,6 +68,8 @@ Tantangan praktis dalam mengelola dokumen perjalanan adalah ini: kartu ID dan pa
 Bagian yang lebih sulit adalah **tidak ada dokumen yang mengirimkan pengingat kepada Anda.** Anda harus memeriksanya sendiri. Kebanyakan orang tidak melakukannya, sampai mereka berada di meja check-in dan petugas memberi tahu bahwa salah satu dokumen terlalu dekat dengan kedaluwarsa untuk diterima.
 
 Yang membantu adalah satu tempat untuk kedua dokumen, yang membaca masing-masing tanggal kedaluwarsa saat Anda memindainya dan mengingatkan Anda secara terpisah untuk setiap dokumen, sesuai jadwal yang berlaku untuk jenis dokumen tersebut. Lihat panduan kami tentang [menyusun daftar periksa dokumen lengkap sebelum bepergian](https://traveldocumentvault.com/id/blog/travel-document-checklist/) untuk gambaran selengkapnya tentang apa yang perlu diverifikasi sebelum Anda bepergian.
+
+Mulailah hari ini: ambil kartu ID Anda, periksa tanggal kedaluwarsanya, dan amati apakah ada retak, pudar, atau plastik yang melengkung. Kalau kondisinya mendekati batas, ajukan perpanjangan sebelum Anda memesan perjalanan.
 
 ## Pertanyaan yang Sering Diajukan
 

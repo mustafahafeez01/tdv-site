@@ -33,7 +33,9 @@ Avant de parler de risque, soyons précis sur ce qui se trouve réellement dans 
 - Votre photographie
 - La zone lisible par machine (MRZ) — les deux rangées de texte au bas qui codent tout ce qui précède dans un format standard
 
-C'est beaucoup de données personnelles dans une seule image. Votre nom, votre date de naissance et votre numéro de passeport ensemble suffisent pour tenter une fraude d'identité, mener une attaque par hameçonnage convaincante en utilisant vos vrais détails ou ouvrir un crédit à votre nom dans certaines juridictions. **La photo la rend encore plus utile à quelqu'un qui ne devrait pas l'avoir.**
+C'est beaucoup de données personnelles dans une seule image. Votre nom, votre date de naissance et votre numéro de passeport ensemble suffisent pour tenter une fraude d'identité, mener une attaque par hameçonnage convaincante en utilisant vos vrais détails ou ouvrir un crédit à votre nom dans certaines juridictions.
+
+La photo la rend encore plus utile à quelqu'un qui ne devrait pas l'avoir.
 
 ## Quels sont les vrais risques du stockage dans Google Photos
 
@@ -41,7 +43,7 @@ Les risques ne concernent pas vraiment Google faisant quelque chose de sinistre.
 
 **Compromission du compte**
 
-Quelqu'un accède à votre compte Google — via l'hameçonnage, un mot de passe réutilisé d'une autre violation ou simplement un mot de passe faible — et il a accès à tout : chaque photo, chaque document, tout dans Google Drive. C'est la menace la plus probable dans le monde réel pour la plupart des gens, et c'est exactement pourquoi la sécurité des photos de passeport est plus importante que la plupart ne le réalisent.
+Quelqu'un accède à votre compte Google — via l'hameçonnage, un mot de passe réutilisé d'une autre violation ou simplement un mot de passe faible — et il a accès à tout : chaque photo, chaque document, tout dans Google Drive. C'est la menace la plus probable dans le monde réel pour la plupart des gens, et c'est exactement pourquoi la sécurité des photos de passeport est plus importante que la plupart ne le réalisent. Nous considérerions tout mot de passe réutilisé sur plusieurs sites comme déjà compromis.
 
 **Accès partagé**
 
@@ -103,7 +105,7 @@ Les applications construites spécifiquement pour cela — comme [Travel Documen
 
 Tresorit et Proton Drive offrent un chiffrement côté client pour le stockage cloud. Comme les gestionnaires de mots de passe, le fournisseur ne peut pas lire vos fichiers. Vous obtenez la commodité du cloud avec une sécurité de photo de passeport substantiellement plus forte que Google Photos.
 
-## Meilleures pratiques si vous continuez à utiliser Google Photos
+## Si vous restez sur Google Photos, l'authentification à deux facteurs fait l'essentiel du travail
 
 Beaucoup de gens vont continuer à utiliser Google Photos pour cela — la commodité est réelle. Si c'est vous, ces étapes déplacent réellement l'aiguille sur le risque :
 
@@ -114,6 +116,8 @@ Beaucoup de gens vont continuer à utiliser Google Photos pour cela — la commo
 - **Créez un album privé pour les documents sensibles** plutôt que de les laisser dans votre flux de photos principal. Cela n'arrêtera pas une violation, mais cela réduit l'exposition accidentelle quand quelqu'un regarde par-dessus votre épaule.
 
 Pour une vision plus large de l'organisation et de la sécurité de vos documents de voyage, consultez nos [conseils sur les documents de voyage](https://traveldocumentvault.com/fr/blog/) sur le blog — y compris un guide pratique sur [comment organiser les documents de voyage familiaux](https://traveldocumentvault.com/fr/blog/how-to-organise-family-travel-documents/) avant votre prochain voyage.
+
+Ouvrez dès aujourd'hui les paramètres de sécurité de votre compte Google, activez l'authentification à deux facteurs si ce n'est pas déjà fait, et remplacez tout mot de passe que vous utilisez ailleurs. C'est le changement le plus susceptible de garder ce scan, et tout le reste de votre compte, hors de portée de quelqu'un d'autre.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 

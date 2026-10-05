@@ -38,7 +38,7 @@ Visar Schengen-regler, visum-giltighets fönster och lokala traditioner. Allt up
 
 Spåra hur många dagar varje familjemedlem har tillbringat i ett land genom att skapa perioder (Schengenår, visumfönster, skatteår) och länka tillståndsregler till dem – se sedan en uppdelning per medlem på en blick.
 
-Byggt för Schengen 90/180-spårning, brittiska 183-dagarsregler och anpassade visum- eller uppehållsfönster. Använda dagar uppdateras automatiskt när resor registreras.
+Byggt för rullande gränser i stil med 90/180 i ett land, brittiska 183-dagarsregler och anpassade visum- eller uppehållsfönster. Använda dagar uppdateras automatiskt när resor registreras.
 
 ## Och mycket mer
 

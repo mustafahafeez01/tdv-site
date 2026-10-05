@@ -33,7 +33,9 @@ Sebelum membahas risikonya, mari kita bahas secara konkret apa saja yang sebenar
 - Foto Anda
 - Zona yang dapat dibaca mesin (MRZ) - dua baris teks di bagian bawah yang mengodekan semua data di atas dalam format standar
 
-Itu banyak sekali data pribadi dalam satu gambar. Nama, tanggal lahir, dan nomor paspor Anda bersama-sama sudah cukup untuk mencoba penipuan identitas, melancarkan serangan phishing yang meyakinkan dengan data asli Anda, atau di beberapa yurisdiksi, membuka kredit atas nama Anda. **Fotonya membuat semua ini makin berguna bagi orang yang seharusnya tidak memilikinya.**
+Itu banyak sekali data pribadi dalam satu gambar. Nama, tanggal lahir, dan nomor paspor Anda bersama-sama sudah cukup untuk mencoba penipuan identitas, melancarkan serangan phishing yang meyakinkan dengan data asli Anda, atau di beberapa yurisdiksi, membuka kredit atas nama Anda.
+
+Fotonya membuat semua ini makin berguna bagi orang yang seharusnya tidak memilikinya.
 
 ## Apa Saja Risiko Sebenarnya dari Menyimpan di Google Foto?
 
@@ -41,7 +43,7 @@ Risikonya sebenarnya bukan soal Google melakukan sesuatu yang jahat; risikonya j
 
 **Akun diretas**
 
-Seseorang berhasil masuk ke akun Google Anda — lewat phishing, kata sandi yang dipakai ulang dari kebocoran data lain, atau sekadar kata sandi yang lemah — dan mereka mendapatkan akses ke segalanya: setiap foto, setiap dokumen, semua yang ada di Google Drive. Ini adalah ancaman paling realistis di dunia nyata bagi kebanyakan orang, dan itulah tepatnya mengapa keamanan foto paspor lebih penting dari yang disadari kebanyakan orang.
+Seseorang berhasil masuk ke akun Google Anda — lewat phishing, kata sandi yang dipakai ulang dari kebocoran data lain, atau sekadar kata sandi yang lemah — dan mereka mendapatkan akses ke segalanya: setiap foto, setiap dokumen, semua yang ada di Google Drive. Ini adalah ancaman paling realistis di dunia nyata bagi kebanyakan orang, dan itulah tepatnya mengapa keamanan foto paspor lebih penting dari yang disadari kebanyakan orang. Kami akan menganggap kata sandi apa pun yang dipakai di lebih dari satu situs sebagai sudah bocor.
 
 **Akses bersama**
 
@@ -101,7 +103,7 @@ Aplikasi yang dibuat khusus untuk ini, seperti [Travel Document Vault](https://t
 
 Tresorit dan Proton Drive menawarkan enkripsi sisi klien untuk penyimpanan cloud, sehingga penyedia tidak bisa membaca berkas Anda, sama seperti pengelola kata sandi. Anda mendapat kenyamanan cloud dengan keamanan foto paspor yang jauh lebih kuat daripada Google Foto.
 
-## Praktik Terbaik Jika Anda Tetap Menggunakan Google Foto
+## Jika Anda Tetap Memakai Google Foto, Autentikasi Dua Faktor Menyelesaikan Sebagian Besar Pekerjaannya
 
 Banyak orang akan tetap memakai Google Foto untuk ini, kenyamanannya memang nyata. Jika itu Anda, langkah-langkah berikut benar-benar membuat perbedaan pada risikonya:
 
@@ -112,6 +114,8 @@ Banyak orang akan tetap memakai Google Foto untuk ini, kenyamanannya memang nyat
 - **Buat album pribadi untuk dokumen sensitif** alih-alih membiarkannya tersebar di aliran foto utama Anda. Ini tidak akan menghentikan kebocoran data, tetapi mengurangi paparan tidak sengaja saat seseorang mengintip dari balik bahu Anda.
 
 Untuk lebih banyak tips menjaga dokumen perjalanan Anda tetap teratur dan aman, lihat [tips dokumen perjalanan kami di blog](https://traveldocumentvault.com/id/blog/), termasuk panduan praktis tentang [cara mengatur dokumen perjalanan keluarga](https://traveldocumentvault.com/id/blog/how-to-organise-family-travel-documents/) sebelum perjalanan berikutnya.
+
+Buka pengaturan keamanan akun Google Anda hari ini, aktifkan autentikasi dua faktor jika belum aktif, dan ganti kata sandi apa pun yang pernah Anda pakai di tempat lain. Itulah satu perubahan yang paling mungkin menjaga pindaian ini, dan semua hal lain di akun Anda, tetap jauh dari tangan orang lain.
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 

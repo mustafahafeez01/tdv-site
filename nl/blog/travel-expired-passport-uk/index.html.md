@@ -34,7 +34,9 @@ De enige uitzondering is een Brits noodreisdocument, uitgegeven door het ministe
 
 ## Kun je een vakantie boeken met een verlopen paspoort?
 
-Boeken is niet hetzelfde als aan boord gaan. Niets houdt je tegen om vluchten en een hotel te betalen terwijl je paspoort verlopen is, want niemand controleert het document op het moment van aankoop. De controle vindt plaats op de luchthaven, en dan moet het paspoort geldig zijn.
+Boeken is niet hetzelfde als aan boord gaan.
+
+Niets houdt je tegen om vluchten en een hotel te betalen terwijl je paspoort verlopen is, want niemand controleert het document op het moment van aankoop. De controle vindt plaats op de luchthaven, en dan moet het paspoort geldig zijn.
 
 De vraag die er dus toe doet, is niet of je kunt boeken, maar of de verlenging op tijd klaar is voor je vertrek. Paspoortkantoren publiceren hun actuele verwerkingstijden, en die veranderen met de vraag, dus controleer het cijfer op de dag zelf in plaats van te vertrouwen op dat van vorig jaar.
 
@@ -42,7 +44,7 @@ Lijkt de tijd krap, dan is de veiligere volgorde om eerst te verlengen en pas te
 
 Een verlenging die al loopt, is een andere kwestie, en die hangt ervan af of je je oude paspoort hebt ingeleverd. Dat beantwoorden we op een eigen pagina: [of je met je oude paspoort kunt reizen terwijl de verlenging loopt](https://traveldocumentvault.com/nl/blog/travel-while-passport-renewal-pending/).
 
-## Een al verlopen Brits paspoort verlengen
+## Een verlopen paspoort wordt verlengd, niet helemaal opnieuw aangevraagd
 
 Een verlopen paspoort wordt verlengd, niet helemaal opnieuw aangevraagd. GOV.UK noemt een verlopen paspoort een van de twee redenen waarom je moet verlengen voordat je reist, naast onvoldoende resterende geldigheid, dus voor de meeste mensen is de standaard verlengingsservice voor volwassenen de juiste route.
 
@@ -60,13 +62,13 @@ Binnenlandse reizen binnen het VK en Ierland werken iets anders: luchtvaartmaats
 
 Overweeg je een binnenlandse reis met een verlopen paspoort, neem dan minstens 48 uur voor je vlucht contact op met je luchtvaartmaatschappij en vraag expliciet: "Mijn Britse paspoort is verlopen. Accepteren jullie in plaats daarvan mijn Britse rijbewijs?" Zorg indien mogelijk voor een schriftelijke bevestiging, want mensen missen hun vlucht juist doordat ze met een alternatief identiteitsbewijs en zonder voorafgaande bevestiging bij het inchecken verschijnen.
 
-## Noodverlenging: de Premium-service
+## Noodverlenging: Premium-service, als je een plek kunt krijgen
 
 Als je reis op korte termijn is en je paspoort is verlopen, biedt His Majesty's Passport Office een Premium-service die precies voor dit scenario is ontworpen, met een garantie op een afspraak dezelfde dag of de eerstvolgende werkdag, afhankelijk van beschikbaarheid. His Majesty's Passport Office publiceert de actuele kosten op gov.uk, en die dekken de afspraak en de verlenging samen, in plaats van een toeslag bovenop het standaardtarief. Je verlengde paspoort komt aanzienlijk sneller aan dan via de standaardroute, al hangt hoeveel sneller af van de afspraak die je kunt krijgen. Let op: de online Premium-service is alleen voor verlengingen, niet voor eerste paspoorten voor volwassenen.
 
 Dit is de officiële noodroute voor echte reisbeperkingen. De officiële richtlijn is momenteel om rekening te houden met ongeveer 3 weken voor een standaardverlenging, en bijna alle aanvragen worden binnen die termijn verwerkt, maar wanneer een reis echt niet kan wachten, neemt de Premium-optie de onzekerheid weg.
 
-Het addertje onder het gras is dat je een beschikbare afspraak nodig hebt, en die raken snel volgeboekt tijdens de zomervakantie en schoolvakanties. Ontdek je op een vrijdag voorafgaand aan een reis op maandag dat je paspoort verlopen is, dan kan het zijn dat er geen Premium-plekken meer beschikbaar zijn, aangezien het boeken online gebeurt met actuele beschikbaarheid. Toont je gewenste datum geen beschikbare plekken, dan heb je die dag echt geen andere optie.
+Afspraakplekken vormen de echte beperking: ze raken snel volgeboekt tijdens de zomervakantie en schoolvakanties, en het boeken gebeurt online met actuele beschikbaarheid. Ontdek je op een vrijdag voorafgaand aan een reis op maandag dat je paspoort verlopen is, dan zijn er misschien helemaal geen Premium-plekken meer, en als je gewenste datum er geen toont, heb je die dag echt geen andere optie.
 
 Je hebt ook je oude paspoort nodig om aan te vragen, ongeacht de vervaldatum, en als het verloren of gestolen is, moet je het annuleren bij His Majesty's Passport Office (dat kun je doen op gov.uk) voordat je verlengt; een politierapport is over het algemeen alleen nodig voor verzekeringsdoeleinden. Houd hier rekening mee als je paspoort zowel beschadigd als verlopen is.
 
@@ -76,9 +78,9 @@ Luchtvaartmaatschappijen gebruiken Timatic, een IATA-systeem dat je paspoortnumm
 
 De grensbewaking herhaalt de controle bij aankomst, soms zelfs twee keer: één keer wanneer je het VK verlaat en opnieuw wanneer je je bestemming binnenkomt. Een verlopen paspoort wordt opgemerkt, hoe voorzichtig je ook bent.
 
-Het enige grijze gebied is hoe luchtvaartmaatschappijen en grensbewaking omgaan met paspoorten die "binnenkort verlopen" maar nog niet verlopen zijn, waarbij sommige medewerkers streng zijn met de 6-maandenregel voor bepaalde bestemmingen en andere niet. Zodra je paspoort daadwerkelijk de vervaldatum is gepasseerd, valt er echter niets meer te bespreken.
+Echt vaag wordt het bij paspoorten die "binnenkort verlopen" maar nog niet verlopen zijn: sommige medewerkers zijn streng met de 6-maandenregel voor bepaalde bestemmingen en andere niet. Zodra je paspoort daadwerkelijk de vervaldatum is gepasseerd, valt er echter niets meer te bespreken.
 
-## Reisverzekering en verlopen documenten
+## De meeste reisverzekeringen dekken een verlopen paspoort niet
 
 De meeste reisverzekeringen bevatten een clausule die de dekking ongeldig maakt bij verlopen of ongeldige reisdocumenten. Verzekeraars kunnen je hele claim afwijzen als je met een verlopen paspoort reisde – de formulering luidt doorgaans iets als: "Deze polis is ongeldig als de verzekerde reisde met een ongeldig of verlopen reisdocument."
 
@@ -96,13 +98,15 @@ Het proces is traag en bureaucratisch. Je moet identiteitsbewijs overleggen en d
 
 Herinneringen maanden van tevoren instellen, in plaats van de week voor je vlucht in paniek te raken, is wat dit in eerste instantie voorkomt. Verloopt je paspoort binnen 6 maanden na je reis, begin dan nu met het verlengingsproces voordat je je vastlegt op reisdata.
 
-## Veelvoorkomende misvattingen over paspoortgeldigheid
+## De vervaldatum van je paspoort is niet hetzelfde als de extra geldigheidseis van een bestemming
 
 Reizigers verwarren de eigen geldigheidsdatum van hun paspoort vaak met bestemmingsspecifieke regels. Je paspoort is geldig tot de datum die erin staat afgedrukt – dat is de basis. Maar sommige landen eisen dat het geldig blijft gedurende een bepaalde periode na je aankomstdatum, en dat is een aparte eis, los van de vervaldatum zelf.
 
 [Veel landen hanteren een zesmaandenregel die vereist dat je paspoort minstens zes maanden na je geplande vertrekdatum geldig blijft](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/), terwijl sommige drie maanden hanteren en andere één maand. Geen van deze regels staat reizen met een verlopen paspoort toe, omdat ze een strengere norm stellen waarbij verlenging nog eerder moet plaatsvinden dan de eigenlijke vervaldatum van het paspoort.
 
 Ga er niet van uit dat je kunt reizen "omdat je terugkomt voordat het verloopt": je paspoort moet geldig zijn op de dag dat je aan boord gaat van je uitgaande vlucht, en verloopt het de dag nadat je terugkeert, dan kun je nog steeds niet reizen.
+
+De eenvoudigste manier om dit allemaal te voorkomen: haal vandaag je paspoort tevoorschijn en leg de datum naast je volgende reis, niet andersom. Valt het krap uit, begin dan nu met verlengen in plaats van te wachten.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

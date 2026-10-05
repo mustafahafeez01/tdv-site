@@ -51,7 +51,7 @@ The validity trap
 
 Your passport expires next year. Plenty of time, right?
 
-Wrong. Passports for Schengen travel must be issued within the last 10 years, and many countries enforce a 6-month validity rule. Airlines use official databases like [IATA Timatic](https://www.iata.org/en/publications/directories/code-search/timatic/) and [U.S. State Department travel rules](https://www.travel.state.gov/) at the gate to enforce these rules. Also track days spent abroad for Schengen 90/180 limits and tax residency rules. A simple expiry check isn't enough.
+Wrong. Passports for Schengen travel must be issued within the last 10 years, and many countries enforce a 6-month validity rule. Airlines use official databases like [IATA Timatic](https://www.iata.org/en/publications/directories/code-search/timatic/) and [U.S. State Department travel rules](https://www.travel.state.gov/) at the gate to enforce these rules. With Pro, also track days spent abroad for 90/180-style limits and tax residency rules. A simple expiry check isn't enough.
 
 If this is you: frequent traveller, tax-conscious, or multi-country resident.
 

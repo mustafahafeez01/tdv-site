@@ -108,7 +108,7 @@ Nee. EES is nu actief en registreert je in- en uitreis bij de grens. ETIAS is ee
 
 ### Hoe helpt Travel Document Vault met de 90/180-regel?
 
-De app telt dagen per persoon, per land, over al je reizen heen, en projecteert je voortschrijdende venster vooruit voordat je boekt. Hij leest je EES-registratie niet uit – dat kan geen enkele app – maar past de officiële 90/180-berekening toe op je reisdata, zodat de resterende dagen van elk gezinslid in één oogopslag zichtbaar zijn.
+De app telt dagen per persoon, per land, over al je reizen naar dat land, en projecteert je voortschrijdende venster vooruit voordat je boekt. Hij leest je EES-registratie niet uit – dat kan geen enkele app – maar past met Pro een voortschrijdende 90/180-telling toe op je reizen naar elk land waarvoor je een limiet instelt, zodat de resterende dagen daar van elk gezinslid in één oogopslag zichtbaar zijn.
 
 ## Gerelateerde artikelen
 

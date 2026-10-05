@@ -16,23 +16,25 @@ Source: https://traveldocumentvault.com/id/blog/digital-passport-copy-valid/
 - Permohonan visa memerlukan **format khusus** (salinan yang dilegalisasi atau hasil pindaian bernotaris), bukan foto ponsel biasa. Periksa dulu situs web kedutaan.
 - Jika paspor Anda hilang di luar negeri, **salinan digital secara signifikan mempercepat proses penggantian darurat** di kedutaan Anda.
 
-Saat merencanakan perjalanan, banyak pelancong bertanya-tanya apakah mereka bisa menyimpan salinan digital paspor di ponsel, alih-alih membawa dokumen aslinya. Jawaban singkatnya: salinan digital memang berguna, tetapi hanya dalam situasi tertentu. Anda perlu tahu persis di mana salinan itu berfungsi dan di mana tidak, agar tidak mengalami masalah saat check-in.
+Saat merencanakan perjalanan, banyak pelancong bertanya-tanya apakah mereka bisa menyimpan salinan digital paspor di ponsel, alih-alih membawa dokumen aslinya. Anda perlu tahu persis di mana salinan itu berfungsi dan di mana tidak, agar tidak mengalami masalah saat check-in.
+
+Jawaban singkatnya: salinan digital memang berguna, tetapi hanya dalam situasi tertentu.
 
 ## Di Mana Salinan Digital Paspor Diterima
 
-### Check-in Hotel
+### Banyak Hotel Menerima Salinan, tetapi Sebagian Eropa Biasanya Meminta yang Asli
 
 Sebagian besar hotel di seluruh dunia menerima salinan digital paspor untuk check-in — PDF di ponsel, dikirim lewat email sebelumnya, atau dicetak. Ini sangat berguna jika Anda check-in larut malam atau berpindah antar-akomodasi dan tidak ingin membawa paspor fisik sepanjang perjalanan. Beberapa hotel kecil, terutama di wilayah dengan infrastruktur digital yang kurang berkembang, masih lebih memilih dokumen asli. Di beberapa bagian Eropa — termasuk Spanyol, Prancis, dan Italia — hotel wajib mencatat data Anda untuk otoritas setempat dan umumnya ingin melihat paspor fisik untuk melakukannya, meski panduan perlindungan data menyatakan mereka biasanya tidak boleh menyimpan salinannya. Hubungi tempat menginap Anda terlebih dahulu untuk memastikan.
 
-### Pemesanan Penerbangan dan Check-in Daring
+### Salinan Digital Mempercepat Check-in, Bukan Boarding
 
 Maskapai penerbangan meminta informasi paspor Anda saat pemesanan, dan banyak yang mengizinkan Anda mengunggah salinan digital untuk memverifikasi identitas saat check-in daring, ini mempercepat proses di bandara. Anda tetap harus menunjukkan paspor asli di gerbang keberangkatan. Peran salinan digital adalah untuk verifikasi sebelum perjalanan, bukan sebagai dokumen naik pesawat.
 
-### Perusahaan Sewa Mobil
+### Salinan Cukup untuk Memesan Mobil, tetapi Pengambilannya Tetap Memerlukan yang Asli
 
 Perusahaan sewa mobil biasanya menerima salinan digital paspor untuk pemesanan dan verifikasi deposit. Saat Anda mengambil kendaraan, Anda akan menunjukkan paspor asli bersama SIM Anda. Salinan digital berguna selama tahap pemesanan.
 
-### Bantuan Konsuler Darurat
+### Jika Paspor Hilang, Salinan Digital Mempercepat Urusannya
 
 Jika paspor Anda hilang atau dicuri saat bepergian, salinan digital dapat secara signifikan mempercepat proses penerbitan dokumen perjalanan darurat di kedutaan Anda. Salinan ini membuktikan keberadaan paspor Anda dan memberikan data biografis, foto, dan nomor paspor Anda, yang semuanya diperlukan kedutaan untuk menerbitkan dokumen pengganti. Ini salah satu alasan terkuat untuk selalu membawa cadangan digital.
 
@@ -69,9 +71,13 @@ Salinan paspor berisi informasi identitas yang sensitif, termasuk nama lengkap, 
 - **Jangan pernah membagikannya tanpa keperluan jelas**. Berikan salinan paspor Anda hanya kepada bisnis sah yang sedang benar-benar Anda ajak bertransaksi.
 - **Simpan salinan terpisah dari paspor fisik Anda**. Jika tas Anda dicuri, Anda ingin cadangannya ada di tempat lain.
 
+Kalau Anda hanya mau memperbaiki satu kebiasaan, ganti PDF yang dikirim lewat email atau foto di galeri ponsel dengan aplikasi terenkripsi. Salinan yang disimpan sembarangan itulah yang paling mungkin jatuh ke tangan yang salah jika ponsel atau kotak masuk email Anda diretas.
+
 **Travel Document Vault** menyimpan salinan terenkripsi dari semua dokumen perjalanan Anda langsung di perangkat. Terenkripsi AES-256 di ponsel Anda, tanpa perlu akun. Cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri (fitur Pro), disegel dengan kode pemulihan yang hanya Anda miliki. [Tersedia di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 Jika Anda bertanya-tanya apakah penyimpanan cloud aman untuk salinan paspor, lihat panduan kami tentang [menyimpan paspor di Google Foto](https://traveldocumentvault.com/id/blog/is-it-safe-to-store-passport-in-google-photos/). Panduan ini menjelaskan mengapa aplikasi terenkripsi khusus memberikan perlindungan yang lebih kuat. Untuk perbandingan berdampingan antara iCloud, Google Foto, dan aplikasi terenkripsi, baca [cara teraman menyimpan paspor secara digital](https://traveldocumentvault.com/id/blog/safest-way-to-store-passport-digitally/).
+
+Kalau Anda belum membuatnya, pindai halaman foto paspor Anda hari ini, sebelum Anda berdiri di meja check-in atau loket kedutaan dan membutuhkannya.
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 

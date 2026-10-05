@@ -20,7 +20,7 @@ Den exporterade filen krypteras med samma säkerhet som ditt valv på enheten. B
 
 ### Öppna Inställningar och gå till Exportera
 
-Starta Travel Document Vault och tryck på ikonen Inställningar (kugghjulssymbolen) längst ner på skärmen. Bläddra ner tills du ser avsnittet Säkerhetskopiering och data. Tryck på Exportera valv.
+Starta Travel Document Vault och tryck på ikonen Inställningar (kugghjulssymbolen) längst ner på skärmen. Bläddra ner tills du ser avsnittet Säkerhetskopia och data. Tryck på Exportera valv.
 
 2
 
@@ -48,9 +48,9 @@ Om du importerar på en annan enhet, se till att den exporterade filen är tillg
 
 6
 
-### Öppna Inställningar på målenheten och tryck på Importera valv
+### Öppna Inställningar på målenheten och tryck på Importera säkerhetskopia
 
-Starta Travel Document Vault på enheten du vill importera till. Gå till Inställningar, bläddra till Säkerhetskopiering och data, och tryck på Importera valv. Appen ber dig välja den exporterade säkerhetskopieringsfilen (.tdvault).
+Starta Travel Document Vault på enheten du vill importera till. Gå till Inställningar, bläddra till Säkerhetskopia och data, och tryck på Importera säkerhetskopia. Appen ber dig välja den exporterade säkerhetskopieringsfilen (.tdvault).
 
 7
 
@@ -62,11 +62,11 @@ Gå till där du sparade den exporterade valvfilen, välj den och bekräfta. App
 
 ### Kontrollera att all data finns med
 
-Efter importen, kontrollera fliken Profiler för att bekräfta att alla profiler visas. Öppna några dokument för att verifiera att bilagorna är intakta. Importprocessen är icke-destruktiv och slås samman med befintlig data.
+Efter importen, kontrollera fliken Profiler för att bekräfta att alla profiler visas. Öppna några dokument för att verifiera att bilagorna är intakta. Importprocessen ersätter all befintlig data på den här enheten.
 
 ### Viktigt att veta
 
-- **Icke-destruktiv:** Import lägger till befintlig data. Om du redan har profiler på målenheten läggs importerade profiler till utan att befintliga tas bort.
+- **Ersätter befintlig data:** Import rensar först det som finns på målenheten. Om du redan har profiler på målenheten, exportera dem innan du importerar.
 - **Fullständig återgivning:** Allt bevaras exakt: dokumentnamn, datum, påminnelser om utgångsdatum, anpassade färger, bilagor och anteckningar.
 - **Krypterad hela vägen:** Den exporterade filen krypteras med lösenordet du väljer när du exporterar den, med AES-256-GCM och PBKDF2-nyckelderivering. Bara det lösenordet kan dekryptera filen, så förvara det på ett säkert ställe – utan det går filen inte att återställa.
 - **God praxis för säkerhetskopior:** Förvara din exporterade fil på en säker plats. Ta bort den efter en lyckad import om du vill, eller behåll den som en offline-säkerhetskopia.

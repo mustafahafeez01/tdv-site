@@ -18,13 +18,13 @@ Source: https://traveldocumentvault.com/fr/blog/national-id-card-travel-europe/
 
 Si vous êtes citoyen de l'UE et prévoyez un voyage dans un autre pays européen, vous possédez probablement une carte d'identité nationale. Et vous vous êtes sans doute demandé s'il fallait emporter votre carte, votre passeport, ou les deux. La réponse est simple : à l'intérieur de l'UE et de l'EEE, votre carte d'identité suffit à elle seule pour voyager. Un lecteur britannique ou américain n'a pas de carte d'identité nationale utilisable pour voyager — cet article concerne uniquement les citoyens de l'UE et de l'EEE — donc si c'est votre cas, votre passeport reste votre seule option.
 
-Pour le reste de l'Europe, les règles sont claires et plus simples qu'on ne le pense généralement. La confusion ne vient pas de la loi, mais des compagnies aériennes, qui ajoutent leurs propres exigences par-dessus. Comprendre la différence entre ce que l'Europe exige légalement et ce que demande votre compagnie vous évite une mauvaise surprise de dernière minute à l'enregistrement.
+Pour le reste de l'Europe, les règles sont claires et plus simples qu'on ne le pense généralement. La confusion vient généralement des compagnies aériennes, qui ajoutent leurs propres exigences par-dessus la loi. Comprendre la différence entre ce que l'Europe exige légalement et ce que demande votre compagnie vous évite une mauvaise surprise de dernière minute à l'enregistrement.
 
 ## Quand une carte d'identité de l'UE suffit
 
 À l'intérieur de l'UE et de l'EEE, une carte d'identité nationale valide constitue un document de voyage à part entière. Vous pouvez franchir les frontières entre États membres de l'UE, la Norvège, l'Islande, le Liechtenstein et la Suisse avec votre seule carte d'identité. Vous n'avez pas besoin de votre passeport. La carte doit être valide le jour de votre arrivée — contrairement aux passeports pour certaines destinations, il n'existe pas de « règle des 6 mois » pour voyager en Europe avec une carte d'identité.
 
-Une carte qui expire demain reste techniquement un document de voyage valide aujourd'hui. Cela dit, **la renouveler bien à l'avance reste une bonne idée**, car une carte proche de l'expiration est plus susceptible d'être questionnée à la frontière, et une carte endommagée peut être refusée même si elle n'a pas encore expiré.
+Une carte qui expire demain reste techniquement un document de voyage valide aujourd'hui. Cela dit, la renouveler bien à l'avance reste une bonne idée, car une carte proche de l'expiration est plus susceptible d'être questionnée à la frontière, et une carte endommagée peut être refusée même si elle n'a pas encore expiré.
 
 C'est dans l'espace Schengen que cette flexibilité compte le plus. En tant que citoyen de l'UE muni d'une carte d'identité valide, vous pouvez circuler librement entre les pays Schengen sans contrôle de passeport. Le même droit s'applique aux frontières des pays de l'UE hors Schengen — la carte fonctionne grâce au droit de libre circulation de l'UE, et non parce qu'un pays appartient à l'espace Schengen.
 
@@ -57,7 +57,9 @@ Nous en parlons en détail dans notre guide sur [la gestion des passeports en fa
 
 Si votre carte d'identité est refusée, vos options dépendent de ce que vous avez d'autre sur vous. Un passeport en plus vous permet généralement de voyager quand même, à condition qu'il soit valide et réponde aux exigences d'entrée de la destination. Avec seulement la carte d'identité en main, en revanche, il n'y a pas de solution de repli : vous ne pouvez pas franchir la frontière, et les agents frontaliers n'ont aucune obligation d'accepter un autre document.
 
-**L'approche la plus pratique :** emportez à la fois votre carte d'identité et votre passeport lors de vos voyages internationaux, même au sein de l'Europe. Aucun des deux documents ne prend beaucoup de place, et avoir les deux évite qu'un document endommagé ou contesté ne mette fin à votre voyage. Si votre carte est refusée parce qu'elle est illisible, votre passeport devient votre solution de secours.
+L'approche la plus pratique consiste à emporter à la fois votre carte d'identité et votre passeport lors de vos voyages internationaux, même au sein de l'Europe.
+
+Aucun des deux documents ne prend beaucoup de place, et avoir les deux évite qu'un document endommagé ou contesté ne mette fin à votre voyage. Si votre carte est refusée parce qu'elle est illisible, votre passeport devient votre solution de secours.
 
 ## Deux documents, deux dates d'expiration
 
@@ -66,6 +68,8 @@ Le vrai défi dans la gestion des documents de voyage, c'est que votre carte d'i
 Ce qui complique les choses, c'est qu'**aucun des deux documents ne vous envoie de rappel.** Vous êtes censé les vérifier vous-même. La plupart des gens ne le font pas, jusqu'à ce qu'un agent leur dise au comptoir d'enregistrement que l'un des deux est trop proche de l'expiration pour être accepté.
 
 Ce qui aide, c'est d'avoir un seul endroit pour les deux documents, un outil qui retient chaque date d'expiration dès que vous scannez le document et vous alerte séparément pour chacun, selon le calendrier propre à ce type de pièce d'identité. Consultez notre guide sur [la constitution d'une vérification complète des documents avant le départ](https://traveldocumentvault.com/fr/blog/travel-document-checklist/) pour une vue d'ensemble de ce qu'il faut contrôler avant de voyager.
+
+Commencez dès aujourd'hui : sortez votre carte d'identité, vérifiez la date d'expiration et examinez-la à la recherche de fissures, de décoloration ou de plastique déformé. Si elle est limite, réservez le renouvellement avant de réserver le voyage.
 
 ## Questions fréquemment posées
 

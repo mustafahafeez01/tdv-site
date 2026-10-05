@@ -38,7 +38,7 @@ L'expression vient de l'espagnol et du portugais. *Fecha de expedición* et *dat
 
 Elles signifient toutes la même chose, et aucune ne signifie expiration. Si un formulaire demande une date d'expédition, il veut la plus ancienne de vos deux dates.
 
-## Le format de la date est conçu pour éviter exactement cela
+## Le mois est écrit en lettres pour éviter les confusions de format de date
 
 Regardez de plus près et vous remarquerez que de nombreux passeports n'impriment pas leurs dates uniquement en chiffres. Le mois est généralement écrit en lettres plutôt qu'en chiffres.
 
@@ -48,7 +48,7 @@ L'ambiguïté revient dès que vous retranscrivez la date dans un formulaire, ca
 
 ## Quatre passeports, quatre horloges différentes
 
-Tout cela se multiplie discrètement au sein d'une famille. Les passeports sont généralement délivrés au fur et à mesure des besoins plutôt qu'ensemble, si bien que les dates de délivrance dans un même foyer coïncident rarement, et les dates d'expiration non plus.
+Ajoutez un deuxième ou un troisième passeport, comme dans la plupart des familles, et plus rien ne concorde. Les passeports sont généralement délivrés au fur et à mesure des besoins plutôt qu'ensemble, si bien que les dates de délivrance dans un même foyer coïncident rarement, et les dates d'expiration non plus.
 
 Les enfants élargissent encore l'écart. La plupart des passeports d'enfants ont une durée deux fois plus courte que ceux des adultes, si bien qu'un carnet délivré le même mois que celui d'un parent expire environ cinq ans plus tôt. Ce sont les parents disposant encore de plusieurs années de validité qui se font le plus souvent surprendre par le document d'un enfant, car rien ne les pousse à y penser avant qu'un formulaire ne le demande. Nous détaillons comment garder une trace claire de tous les passeports d'un foyer dans [gérer plusieurs passeports à la fois](https://traveldocumentvault.com/fr/blog/family-passport-management/).
 
@@ -60,13 +60,17 @@ Les passeports britanniques délivrés plus récemment ne comportent plus ces mo
 
 Les pays Schengen appliquent deux tests distincts à un passeport hors UE à la frontière : il doit avoir été délivré moins de dix ans avant la date de votre arrivée, et il doit rester valable au moins trois mois après la date prévue de votre départ. Un carnet portant neuf mois supplémentaires peut satisfaire le second test sans difficulté et échouer au premier, ce qui donne lieu à une conversation délicate au guichet à Madrid avec un document qui n'a pourtant pas expiré.
 
-Vérifiez les deux dates avant un voyage en Europe, pas seulement celle du bas.
+Nous vérifierions les deux dates avant un voyage en Europe, pas seulement celle du bas.
 
 ## Pays émetteur et autorité de délivrance sont deux champs distincts
 
 Près du haut de la page d'identité figure un code à trois lettres correspondant au pays émetteur. Plus bas, généralement dans son propre champ, se trouve l'autorité de délivrance : le bureau ou le service qui a effectivement produit le carnet.
 
-Le pays compte plus qu'on ne le pense. Il détermine vers quel réseau consulaire vous vous tournez en cas de perte ou de vol du passeport, et ce n'est presque jamais le pays où vous vous trouvez au moment des faits. Il détermine aussi quelles règles d'entrée s'appliquent à vous, ce qui explique pourquoi les binationaux réfléchissent soigneusement au passeport qu'ils présentent. Pour la version pratique de tout cela, nous l'expliquons dans [que faire quand un passeport disparaît à l'étranger](https://traveldocumentvault.com/fr/blog/lost-passport-abroad/).
+Le pays compte plus qu'on ne le pense. Il détermine vers quel réseau consulaire vous vous tournez en cas de perte ou de vol du passeport.
+
+Ce n'est presque jamais le pays où vous vous trouvez au moment des faits.
+
+Il détermine aussi quelles règles d'entrée s'appliquent à vous, ce qui explique pourquoi les binationaux réfléchissent soigneusement au passeport qu'ils présentent. Pour la version pratique de tout cela, nous l'expliquons dans [que faire quand un passeport disparaît à l'étranger](https://traveldocumentvault.com/fr/blog/lost-passport-abroad/).
 
 Le champ de l'autorité de délivrance est surtout utile pour les formulaires. Certaines demandes veulent qu'il soit recopié mot pour mot, d'autres acceptent simplement le nom du pays, et le recopier exactement est plus rapide que de deviner.
 
@@ -78,13 +82,15 @@ Les visas déjà tamponnés ou imprimés dans l'ancien passeport y restent, et l
 
 Rien de tout cela n'est dramatique en soi. Cela le devient quand une carte d'embarquement et un passeport ne concordent pas au comptoir d'enregistrement, si bien qu'il vaut la peine de consacrer une demi-heure tranquille après un renouvellement pour mettre à jour les quelques endroits qui détiennent ce numéro.
 
-## Où tout cela se trouve sur la page
+## La page d'identité est normalisée, mais la zone de lecture optique omet une date
 
 La page d'identité est la page rigide et plastifiée qui porte votre photo, et sa mise en page est normalisée à l'échelle internationale plutôt qu'inventée par chaque pays. C'est pourquoi un passeport, quel qu'il soit, est lisible par un agent frontalier où qu'il se trouve, et pourquoi, une fois qu'on sait en lire un, on sait tous les lire.
 
 Les deux lignes de caractères et de chevrons en bas de page constituent la zone de lecture optique. Elle reprend une partie des informations de la page au-dessus dans un format qu'un scanner peut lire en une seule fois, mais pas tout : la date d'expiration s'y trouve, la date de délivrance non. Un dommage à cet endroit est traité beaucoup plus sérieusement qu'une éraflure sur la couverture. Nous détaillons où se situe cette limite dans [voyager avec un passeport endommagé](https://traveldocumentvault.com/fr/blog/damaged-passport-travel/).
 
 Si les mentions de votre propre page d'identité ne sont pas en français, la disposition reste utile : les deux dates sont imprimées ensemble, dans le même format, et la date d'expiration est toujours la plus tardive des deux.
+
+Prenez cinq minutes aujourd'hui pour repérer les deux dates sur votre propre passeport, et sur celui de chaque enfant si vous voyagez en famille, afin de savoir déjà laquelle est laquelle avant qu'un formulaire ou une frontière ne le demande.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
