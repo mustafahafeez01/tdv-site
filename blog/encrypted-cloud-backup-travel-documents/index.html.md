@@ -1,6 +1,6 @@
 # Encrypted Cloud Backup for Travel Documents: Who Holds the Key
 
-> What encrypted backup really means for passport scans, why a recovery code cannot be reset by anyone, and how to keep a copy you can actually restore.
+> What encrypted backup really means for passport scans, why a recovery code cannot be reset by us, and how to keep a copy you can actually restore.
 
 Source: https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/
 
@@ -12,9 +12,9 @@ Source: https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-docum
 
 - **"Encrypted backup" only means something once you know who holds the key.** If the company can read your documents, the encryption is guarding them from strangers, not from the company.
 - A backup encrypted on your phone before upload reaches the cloud as unreadable data. The storage provider holds ciphertext, not your passport.
-- **No account means no password reset.** Lose the recovery code and the backup cannot be opened by anyone, us included. That is the deliberate trade.
+- **No account means no password reset.** Lose the recovery code and access to every device that can still open the vault and we cannot recover the encrypted backup. That is the deliberate trade.
 - Write the code down before you depend on the backup, keep it away from the phone, and read it back once to check it is legible.
-- A system device backup reinstalls the app but cannot bring your documents back, because the encryption key never left the old phone.
+- A system device backup reinstalls the app but cannot bring your documents back, because system backups do not transfer the device-bound encryption key.
 
 You've scanned four passports, two visas and the children's birth certificates into an app that keeps everything on your phone. Good. Then the obvious worry arrives: what happens when the phone goes in the sea, or gets lifted from a café table in Lisbon.
 
@@ -34,11 +34,11 @@ So the question worth asking of any app is short: **who holds the key?** Everyth
 
 ![Two columns compared side by side: a photo backup arriving in the cloud still readable with the company holding the key, next to an encrypted backup arriving as scrambled blocks with the key staying on the phone](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/encrypted-backup-figure.jpg) Same cloud, different answer. The file goes up either way; what changes is who can open it.
 
-## The Recovery Code, and Why Nobody Can Reset It
+## The Recovery Code, and Why We Can't Reset It
 
-Here is the part most articles skip, and it deserves saying plainly: Travel Document Vault has no accounts. You never gave us an email address, we never set you a password, and there is no record of you on any server we run. When you turn on [cloud backup](https://traveldocumentvault.com/cloud-backup/), the app generates a 24-character recovery code and derives the encryption key from it. The encrypted vault then goes to **your own iCloud** on iPhone and iPad, or **your own Google Drive** on Android, rather than to us.
+Travel Document Vault needs no app account to store documents on your device. Its optional [cloud backup](https://traveldocumentvault.com/cloud-backup/) requires Pro and your recovery code to unlock the cloud encryption key. The app creates this 24-character code when you set your PIN. The encrypted vault then goes to **your own iCloud** on iPhone and iPad, or **your own Google Drive** on Android, rather than to us.
 
-The consequence is unavoidable. If you lose that recovery code, **the backup can never be opened again**. Not by you, not by Apple or Google, and not by us. There is no reset link, because there is no account to attach it to. There is no support ticket that recovers it, because we have never held it and cannot begin to guess it.
+The consequence is unavoidable. If you lose the recovery code and access to every device that can still open the vault, **we cannot recover the encrypted backup**. There is no reset link, because there is no account to attach it to. There is no support ticket that recovers it, because we have never held it and cannot begin to guess it.
 
 That sounds harsh written down, and it is worth being honest about it rather than burying it in a settings screen. It is the same trade you make with a house key: the lock is only worth having because no locksmith on earth keeps a spare, and that is exactly why losing yours is your problem.
 
@@ -70,17 +70,17 @@ Which is why the honest version of "is the cloud safe" is: the cloud is a delive
 
 ## What Goes Into the Backup, and What Stays Behind
 
-The backup carries an encrypted copy of the vault: every profile, every scan, expiry dates, reminders, notes and attachments. Restore it and the app looks the way you left it.
+The backup includes profiles, scans, attachments, expiry dates, notes and reminder history that can move to a new device. The app encrypts them before upload. Restore brings back this vault content; device settings stay separate, and the app rebuilds notifications.
 
-Three things deliberately stay on the phone, and the recovery code comes first: it never leaves the device, which is the whole point. Your app lock stays local too, so Face ID, Touch ID or your PIN keeps other people out of the phone while the encryption keeps them out of the file. And the automatic local snapshots the app takes while you work stay on the device only.
+Three things deliberately stay on the phone, and the recovery code comes first: it is not uploaded with the backup. Your app lock stays local too, so Face ID, Touch ID or your PIN keeps other people out of the app while the encryption keeps them out of the file. And the automatic local snapshots the app takes while you work stay on the device only.
 
-That last one catches people out, so here's the blunt version. **A system-level device backup reinstalls the app but cannot restore your documents.** The encryption key never left the old phone, so the new one has nothing to decrypt with. If you want your vault to survive the phone, you need either cloud backup switched on or an exported file saved somewhere.
+That last one catches people out, so here's the blunt version. **A system-level device backup reinstalls the app but cannot restore your documents.** System backups do not transfer the device-bound encryption key, so the new phone needs cloud restore (Pro) or an exported vault file. If you want your vault to survive the phone, you need either cloud backup switched on or an exported file saved somewhere.
 
-## The Restore Is Short and Won't Overwrite What's Already There
+## Restoring Your Vault, and Starting Fresh Never Touches the Old Backup
 
-The restore is short, which is the point of doing the preparation earlier.
+Restore time depends on your vault size and connection.
 
-Install the app on the new phone and sign in to the same iCloud or Google account you used before. Open Settings, then Cloud Backup, then Restore from Backup, and enter your recovery code. The vault comes back with its profiles, expiry dates and reminders intact.
+Install the app on the new phone and sign in to the same iCloud or Google account you used before. With Pro and cloud backup off on the receiving device, open Settings, Cloud Backup, then Restore from Backup. Choose the existing vault, enter your recovery code and confirm restoration, which replaces local vault content. Profiles, documents and expiry dates are restored; notifications are rebuilt on the receiving device.
 
 The app also checks before it writes. If cloud backup detects an existing backup in that account, it prompts you to choose between restoring and starting fresh. A new phone cannot quietly overwrite what's already there.
 
@@ -88,7 +88,7 @@ The app also checks before it writes. If cloud backup detects an existing backup
 
 Cloud backup stays on one platform, because it uses your own iCloud on Apple devices and your own Google Drive on Android. Going from one to the other needs the other route.
 
-Use Vault Export: Settings, Export Vault produces a single password-protected file containing everything, and you choose where it goes - the Files app, a drive, an email to yourself. On the new phone, Settings, Import Vault reads it back. It works in both directions and keeps names, dates, reminders, colours, notes and attachments as they were.
+Vault Export is free. In Settings, Export vault creates one password-protected file with profiles, documents, trips, supported settings and readable attachments. You choose where to save it: the Files app, a drive or an email to yourself. On the new phone, Settings, Import backup reads it back, replacing whatever is already there. It supports both platforms. Review imported documents, notes and attachments, recheck reminders and keep the original export. Notifications are rebuilt on the receiving device.
 
 That exported file is also the answer for anyone who wants a copy that doesn't depend on a cloud account at all. It's a sensible thing to keep on a drive at home regardless of which phone you carry.
 
@@ -116,23 +116,23 @@ It means the copy is scrambled on your phone before it goes anywhere, using a ke
 
 ### What happens if I lose my backup key?
 
-The backup stays encrypted and nobody can open it, including us. There is no account, no password reset, and no support route that recovers it, because the recovery code never reaches us in the first place. That is the deliberate trade for nobody else being able to read your documents either. Write the code down before you rely on the backup, keep it somewhere separate from your phone, and read it back once to check you can.
+If you lose the recovery code and access to every device that can still open the vault, we cannot recover the encrypted backup. There is no account, no password reset, and no support route that recovers it, because the recovery code never reaches us in the first place. That is the deliberate trade for nobody else being able to read your documents either. Write the code down before you rely on the backup, keep it somewhere separate from your phone, and read it back once to check you can.
 
 ### Is cloud backup safe for passport scans?
 
-It depends entirely on what reaches the cloud. A photo of your passport in a normal photo library or file sync folder arrives readable, and anyone who gets into that account can read it. A backup encrypted on the device before upload arrives as ciphertext, so the storage provider holds something it cannot open. Travel Document Vault encrypts the vault on your phone with AES-256-GCM and sends the encrypted file to your own iCloud or Google Drive rather than to a company server.
+It depends entirely on what reaches the cloud. A photo of your passport in a normal photo library or file sync folder arrives readable, and anyone who gets into that account can read it. A backup encrypted on the device before upload arrives as ciphertext, so the storage provider holds something it cannot open. With Pro, Travel Document Vault encrypts the vault on your phone with AES-256-GCM and sends the encrypted file to your own iCloud or Google Drive rather than to a TDV server.
 
 ### Can I restore my documents on a different phone?
 
-Yes. Install the app on the new phone, sign in to the same iCloud or Google account, then open Settings, Cloud Backup, Restore from Backup and enter your recovery code. Your profiles, documents, expiry dates and reminders come back as they were. Note that a system-level device backup does not do this on its own: it reinstalls the app but cannot decrypt your documents, because the encryption key never leaves your original device.
+Yes, with Pro. Install the app on the new phone and sign in to the same iCloud or Google account. With cloud backup off on the receiving device, open Settings, Cloud Backup, then Restore from Backup. Choose the existing vault, enter your recovery code and confirm restoration, which replaces local vault content. Profiles, documents and expiry dates are restored; notifications are rebuilt on the receiving device. Note that a system-level device backup does not do this on its own: it reinstalls the app but cannot decrypt your documents, because system backups do not transfer the device-bound encryption key.
 
 ### Does the backup work between iPhone and Android?
 
-Cloud backup itself stays on one platform, since it uses your own iCloud on iPhone and iPad and your own Google Drive on Android. To move between them, use Vault Export instead: Settings, Export Vault creates a single password-protected .tdvault file that you can send to yourself however you like, then Settings, Import Vault on the new phone reads it back. Import works across platforms in both directions and keeps names, dates, reminders, notes and attachments intact.
+Cloud backup stays on one platform: your own iCloud on iPhone and iPad, or your own Google Drive on Android. To move between them, use free Vault Export. In Settings, Export vault creates a password-protected .tdvault file that you can send to yourself. On the new phone, Settings, Import backup reads it back and replaces the data already there. Import supports both platforms. Review imported documents, notes and attachments, recheck reminders and keep the original export. Notifications are rebuilt on the receiving device.
 
 ### What is stored in the backup and what stays on the device?
 
-The backup holds an encrypted copy of your vault: every profile, document scan, expiry date, reminder and note. Your recovery code is not in it, and never leaves your device. Neither does your app lock, so Face ID, Touch ID or your PIN protects the phone while the encryption protects the file. Automatic local snapshots also stay on the device only, which is why they cannot bring your vault back on a replacement phone.
+The backup includes profiles, readable scans and attachments, expiry dates, notes and portable reminder history, encrypted before upload. Your recovery code is not uploaded with the backup. Neither does your app lock, so Face ID, Touch ID or your PIN protects the app while the encryption protects the file. Automatic local snapshots also stay on the device only, which is why they cannot bring your vault back on a replacement phone.
 
 ## Related Articles
 

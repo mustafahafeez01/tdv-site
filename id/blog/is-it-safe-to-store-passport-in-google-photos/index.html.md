@@ -72,7 +72,7 @@ Misalkan kata sandi Google Anda pernah dipakai ulang di situs yang mengalami keb
 | Google Foto | Server cloud Google | Saat transit + diam (kunci dikelola Google) | Sedang | Dapat diterima dengan 2FA yang kuat |
 | iCloud Photos | Server cloud Apple | Saat transit + diam (kunci dikelola Apple) | Sedang | Dapat diterima dengan 2FA yang kuat |
 | Pengelola kata sandi terenkripsi (1Password, Bitwarden) | Cloud (zero-knowledge) | End-to-end; penyedia tidak bisa membaca konten | Rendah | Pilihan yang baik |
-| Aplikasi terenkripsi di perangkat (cadangan cloud sendiri opsional) | Hanya ponsel Anda | Terenkripsi di perangkat; tidak ada salinan di server | Terendah | Terbaik untuk dokumen sensitif |
+| Aplikasi terenkripsi di perangkat (cadangan cloud sendiri opsional) | Ponsel Anda; cadangan terenkripsi opsional ke cloud Anda sendiri (Pro) | Terenkripsi di perangkat; salinan terenkripsi opsional di cloud sendiri (Pro) | Terendah | Terbaik untuk dokumen sensitif |
 | Galeri kamera / folder tanpa enkripsi | Perangkat Anda | Hanya enkripsi perangkat | Lebih tinggi | Tidak disarankan |
 
 ### iCloud Photos vs Google Foto: Apakah Apple Lebih Aman?
@@ -97,7 +97,7 @@ Ada dua hal yang perlu dipisahkan lebih dulu: menyimpan salinan untuk referensi 
 
 **Aplikasi terenkripsi di perangkat**
 
-Aplikasi yang dibuat khusus untuk ini, seperti [Travel Document Vault](https://traveldocumentvault.com), menyimpan semuanya di ponsel Anda dengan enkripsi kuat dan tanpa perlu akun. Anda mendapat cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri (Pro), dan tidak ada server yang bisa dibobol karena salinan digital paspor Anda tidak pernah meninggalkan perangkat. Satu-satunya kompromi adalah jika Anda kehilangan ponsel tanpa cadangan, salinan digitalnya ikut hilang, meski paspor fisik Anda tetap ada bersama Anda.
+Aplikasi yang dibuat khusus untuk ini, seperti [Travel Document Vault](https://traveldocumentvault.com), menyimpan dokumen secara terenkripsi di ponsel Anda tanpa akun aplikasi. Anda bisa membagikan atau mengekspor salinan, atau menggunakan Pro untuk mencadangkan salinan terenkripsi ke iCloud atau Google Drive Anda sendiri. Aplikasi ini tidak mengunggah dokumen Anda ke server kami. Satu-satunya kompromi adalah jika Anda kehilangan ponsel tanpa cadangan, salinan digitalnya ikut hilang, meski paspor fisik Anda tetap ada bersama Anda.
 
 **Penyimpanan cloud terenkripsi dengan kunci sisi klien**
 
@@ -131,7 +131,7 @@ Ya. Sistem otomatis memproses foto Anda untuk hal-hal seperti pengenalan wajah, 
 
 ### Apa cara paling aman menyimpan salinan digital paspor?
 
-Penyimpanan terenkripsi di perangkat adalah pilihan teraman Anda, aplikasi yang menyimpan pindaian Anda di ponsel dengan enkripsi kuat dan tanpa unggahan ke cloud. Tidak ada server pihak ketiga yang pernah menyentuh data paspor Anda. Jika Anda juga ingin akses cloud, pengelola kata sandi terenkripsi zero-knowledge seperti 1Password atau Bitwarden adalah jalan tengah yang solid.
+Penyimpanan terenkripsi di perangkat adalah pilihan teraman Anda, aplikasi yang menyimpan pindaian Anda di ponsel dengan enkripsi kuat secara default. Salinan bisa keluar melalui berbagi, ekspor, atau cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri (Pro). Jika Anda juga ingin akses cloud, pengelola kata sandi terenkripsi zero-knowledge seperti 1Password atau Bitwarden adalah jalan tengah yang solid.
 
 ### Bisakah seseorang mencuri identitas saya dari pindaian paspor?
 

@@ -62,7 +62,7 @@ Yang biasanya Anda perlukan (konfirmasikan dengan kedutaan Anda sebelum datang):
 - Bukti perjalanan lanjutan - pemesanan penerbangan, konfirmasi hotel
 - Biaya dokumen darurat - siapkan uang tunai dan kartu
 
-**Travel Document Vault** menyimpan salinan terenkripsi paspor Anda di ponsel - dapat diakses tanpa internet, tanpa login. Ini memuat setiap detail paspor yang ada dalam daftar di atas. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** menyimpan salinan terenkripsi paspor Anda di ponsel - dapat diakses tanpa internet, tanpa login. Gambar halaman data paspor yang terenkripsi itu adalah salinan digital dalam daftar di atas. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Langkah 5: Beri Tahu Perusahaan Asuransi Perjalanan Anda
 

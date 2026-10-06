@@ -94,7 +94,7 @@ Flighty is de meest directe vervanger voor realtime vluchtmeldingen. De app volg
 
 ### Is er één app die alles van TripCase vervangt?
 
-Geen enkele app doet alles wat TripCase deed. De meeste voormalige gebruikers eindigen met twee of drie tools: TripIt of Tripsy voor het verwerken van reisplannen en tijdlijnweergaven, Flighty voor vluchtmeldingen, en een aparte offline app zoals Travel Document Vault voor documentopslag. Dat zijn meer onderdelen, maar het betekent ook dat je niet afhankelijk bent van het voortbestaan van één bedrijf.
+Je hebt mogelijk aparte hulpmiddelen nodig voor het verwerken van reisplannen, vluchtmeldingen en documentopslag. Travel Document Vault bewaart documentkopieën versleuteld op je telefoon en laat je ze offline bekijken.
 
 ### Moet ik mijn reisdocumenten in een cloud-app bewaren?
 

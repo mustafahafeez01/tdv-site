@@ -52,7 +52,7 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
-[FamilienreisenFamilienpassverwaltung: Mehrere Reisepässe sicher speichernSo organisieren und speichern Sie mehrere Familienpässe an einem sicheren Ort. Verfolgen Sie die Ablaufdaten aller Familienmitglieder mit Erinnerungen vor jeder Erneuerung.16. Juli 20267 Min. Lesedauer](https://traveldocumentvault.com/de/blog/family-passport-management/)
+[FamilienreisenFamilienpassverwaltung: Mehrere Reisepässe sicher speichernOrganisieren Sie die Reisepässe Ihrer Familie an einem verschlüsselten Ort. Fügen Sie Familienprofile mit Pro hinzu und planen Sie Erneuerungen mithilfe von Ablaufdaten und Erinnerungen.16. Juli 20267 Min. Lesedauer](https://traveldocumentvault.com/de/blog/family-passport-management/)
 
 ##
 
@@ -142,9 +142,9 @@ Source: https://traveldocumentvault.com/de/blog/
 
 [Reisepass-RegelnDie Sechsmonats-Reisepass-Regel: Welche Länder sie durchsetzen und wie Sie nie überraschend betroffen sind Ihr Reisepass könnte gültig sein – aber Sie immer noch abweisen. Erfahren Sie, welche Länder die 6-Monats-Regel durchsetzen, wie Fluggesellschaften sie überprüfen und wie Sie sicherstellen, dass Ihre ganze Familie vor der Buchung versichert ist. 1. Feb. 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/)
 
-## Das letzte Mal, dass Sie vor einer Reise durcheinander geraten
+## Bewahren Sie Ihre Passangaben zusammen auf
 
-Scannen Sie die Reisepässe Ihrer Familie heute Abend. Ablauf-Erinnerungen stellen sich selbst ein. Sicher verschlüsselt, speichert nur auf Ihrem Gerät.
+Scannen Sie Ihren Reisepass heute Abend und bestätigen Sie sein Ablaufdatum oder geben Sie es ein. Erinnerungen sind standardmäßig aktiviert, und Ihre Dokumente werden auf Ihrem Gerät verschlüsselt. Sie können Kopien teilen oder exportieren. Pro ergänzt Familienprofile und optionale verschlüsselte Backups in Ihrer eigenen Cloud.
 
 ![Im App Store laden](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

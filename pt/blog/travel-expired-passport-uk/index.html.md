@@ -88,7 +88,7 @@ Isto aplica-se quer o seu passaporte tenha expirado antes de sair do Reino Unido
 
 [Se o seu passaporte já expirou e está à procura do que fazer a seguir, o nosso artigo complementar cobre isso passo a passo](https://traveldocumentvault.com/pt/blog/passport-expired-what-to-do/). Se tem uma viagem em breve e o seu passaporte está a aproximar-se da expiração, este é o momento para renovar em vez de esperar até expirar, o que significa pagar pelo serviço Premium em vez da taxa padrão. Verifique os passaportes da sua família agora antes de marcar qualquer viagem.
 
-**Coloque lembretes de expiração meses em avanço, não semanas.** [Travel Document Vault rastreia datas de expiração para cada passaporte na sua casa e envia lembretes a partir de oito meses antes, e novamente à medida que a expiração se aproxima](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/), portanto renova no processamento padrão e evita taxas de emergência.
+**Coloque lembretes de expiração meses em avanço, não semanas.** [Travel Document Vault acompanha a validade do seu passaporte e envia lembretes a partir de oito meses antes por predefinição, e novamente à medida que o fim da validade se aproxima](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/). Adicione todos os passaportes da família com Pro. Use os lembretes para ajudar a planear as renovações.
 
 ## Se Já Está no Estrangeiro e o Seu Passaporte Expira
 

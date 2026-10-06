@@ -81,7 +81,7 @@ Una foto digitale nitida del tuo passaporto aiuta proprio in questo. Conserva la
 
 È particolarmente utile se ti trovi all'estero quando il passaporto si danneggia e hai bisogno di un documento di viaggio d'emergenza dalla tua ambasciata. I funzionari consolari lavorano più in fretta quando hanno davanti la scansione del tuo passaporto originale.
 
-Conserva le tue copie digitali in un posto crittografato e offline — non su Google Photos o su iCloud condiviso con altri. Travel Document Vault è pensato esattamente per questo: foto del passaporto crittografate solo sul tuo dispositivo, accessibili all'istante se qualcosa va storto.
+Conserva le tue copie digitali in un posto crittografato e offline — non su Google Photos o su iCloud condiviso con altri. Travel Document Vault conserva le foto dei passaporti crittografate sul tuo dispositivo per consultarle offline. Puoi condividere o esportare copie, oppure usare il backup cloud crittografato con Pro.
 
 Scansiona il passaporto oggi, prima di averne bisogno.
 

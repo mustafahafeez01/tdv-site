@@ -1,6 +1,6 @@
 # Beheer van familiepaspoorten: Bewaar meerdere paspoorten veilig
 
-> Alle gezinspaspoorten op één veilige plek, de vervaldatum van elk gezinslid in beeld en een melding vóór elke verlenging.
+> Orden gezinspaspoorten op één versleutelde plek. Voeg met Pro gezinsprofielen toe en plan vernieuwingen met vervaldatums en herinneringen.
 
 Source: https://traveldocumentvault.com/nl/blog/family-passport-management/
 

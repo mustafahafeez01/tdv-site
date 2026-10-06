@@ -1,6 +1,6 @@
 # Pourquoi j'ai créé Travel Document Vault : pour le parent qui se souvient de tout
 
-> Pourquoi j'ai créé Travel Document Vault après une vérification de passeport à 3h du matin, et pourquoi tout reste sur votre appareil.
+> Pourquoi j'ai créé Travel Document Vault après un contrôle de passeport à 3h du matin, et pourquoi vos documents restent sur votre appareil par défaut.
 
 Source: https://traveldocumentvault.com/fr/blog/why-i-built-travel-document-vault/
 
@@ -48,13 +48,13 @@ Et cela devait fonctionner hors ligne. Parce que je serais à l'aéroport, ou bl
 
 ## Alors j'ai créé exactement ce dont j'avais besoin
 
-Travel Document Vault fait une seule chose : mettre tout au même endroit, afin que vous n'y pensiez plus jamais jusqu'à ce que l'application vous le dise.
+Travel Document Vault regroupe vos documents et dates d’expiration enregistrés, avec des rappels pour vous aider à prévoir les renouvellements.
 
-Numérisez un document une fois. L'application lit la date d'expiration (vous la vérifiez). Les rappels se programment automatiquement : six mois avant, puis trois mois, six semaines, un mois, deux semaines, tout le long jusqu'à la veille de l'expiration.
+Numérisez un document une fois. L’application essaie de lire la date d’expiration ; confirmez-la ou saisissez-la manuellement. Les rappels sont activés par défaut lorsque vous enregistrez une date d’expiration. Pour un passeport, les rappels commencent huit mois à l’avance, puis six mois, trois mois, six semaines, un mois, deux semaines, jusqu’au jour de l’expiration.
 
-Un profil par membre de la famille. Chaque document au même endroit. Quand vous devez vérifier si vous pouvez voyager, vous ouvrez l'application et vous savez. Immédiatement. Pas « probablement » ou « je pense que oui » — **vous savez vraiment**.
+Ajoutez toute la famille avec Pro, avec un profil par personne. Avant un voyage, vous pouvez vérifier **les documents et dates d’expiration enregistrés de la famille**.
 
-Quand un hôtel demande votre copie de passeport, une ambassade a besoin de vos détails, ou le guichet de location de voiture veut votre permis, vous le partagez en un seul tap. Pas de fouille. Pas de Wi-Fi requis. Tout ensemble, juste là.
+Quand un hôtel demande votre copie de passeport, une ambassade a besoin de vos détails, ou le guichet de location de voiture veut votre permis, vous pouvez ouvrir la feuille de partage et choisir comment l’envoyer. La consultation des copies enregistrées fonctionne hors ligne ; l’e-mail et la messagerie nécessitent une connexion.
 
 C'est là que réside la vraie récompense : vous récupérez votre espace mental. La charge mentale invisible — ce bourdonnement constant de « est-ce que j'oublie quelque chose ? » — elle disparaît. L'application se souvient pour que vous n'ayez pas à le faire.
 
@@ -81,10 +81,10 @@ Au début, j'ai pris une décision ferme : vos documents vous appartiennent, et 
 Travel Document Vault est autonome :
 
 - Aucun compte à créer
-- Aucun téléchargement sur serveur
+- Sauvegarde cloud chiffrée facultative (Pro)
 - Chiffré sur votre appareil
 
-Quand vous numérisez un document, la reconnaissance de texte s'exécute sur votre appareil. Tout reste sur votre téléphone. **Rien n'est jamais téléchargé sur aucun serveur.**
+Quand vous numérisez un document, la reconnaissance de texte s'exécute sur votre appareil. Les documents restent sur votre téléphone par défaut ; la sauvegarde chiffrée facultative (Pro) enregistre une copie sur votre propre iCloud ou Google Drive. **Vous pouvez aussi exporter ou partager des copies.**
 
 Certains veulent des applications qui se synchronisent partout. Pour les passeports et les pièces d'identité, je voulais un modèle plus simple : votre téléphone est le coffre. Vous pouvez exporter vos copies quand vous en avez besoin. Elles vous appartiennent, après tout.
 
@@ -94,9 +94,9 @@ Un coffre de documents de voyage est quelque chose que vous configurez une fois 
 
 Un abonnement n'a aucun sens pour cela. Si j'arrêtais de payer, je devrais exporter tout, trouver une autre application, migrer mes documents, reconstruire tous mes rappels. Et si j'oubliais de renouveler ? Je perdrais l'accès exactement quand j'en ai besoin — à la borne d'enregistrement réalisant que l'expiration du passeport de mon enfant est dans quatre mois et je ne peux pas accéder à la numérisation que j'avais stockée.
 
-Quand vous achetez cette application, elle est à vous. Les documents restent sur votre appareil. Les rappels continuent à fonctionner. Aucun renouvellement. Aucune exportation. Aucun verrouillage. Cela fonctionne simplement, tranquillement en arrière-plan, jusqu'à ce que vous en ayez besoin.
+Vos documents enregistrés et vos rappels fonctionnent dans la version gratuite. Pro ajoute un nombre illimité de profils et de documents avec un achat unique : aucun abonnement à renouveler.
 
-La version gratuite vous donne un profil, cinq documents, OCR, rappels, et un verrou PIN. Pro déverrouille les profils et documents illimités avec un seul paiement. Payez une fois, toutes les mises à jour v1.x incluses, pour toujours. C'est tout.
+La version gratuite vous donne un profil, cinq documents, la détection automatique des dates, rappels, et un verrou PIN. Pro déverrouille les profils et documents illimités avec un seul paiement. Payez une fois, toutes les mises à jour v1.x incluses, pour toujours. C'est tout.
 
 [À propos de notre politique de version →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -110,7 +110,7 @@ Si vous êtes la personne dans votre famille qui double-vérifie tout, qui garde
 
 **Une préoccupation de moins.**
 
-Créé pour un usage personnel d'abord. Pas de comptes. Pas de téléchargement sur serveur.
+Créé pour un usage personnel d'abord. Pas de comptes. Sauvegarde cloud chiffrée facultative (Pro).
 
 Mustafa
 

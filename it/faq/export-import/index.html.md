@@ -1,18 +1,18 @@
 # Come esportare e importare il Vault | Travel Document Vault
 
-> Come esportare l'intero Vault in un file crittografato e importarlo su un nuovo dispositivo, passo dopo passo. I tuoi dati restano tuoi.
+> Esporta i dati supportati del vault, crittografati, e importali su un nuovo dispositivo. Passaggi per un backup portatile sotto il tuo controllo.
 
 Source: https://traveldocumentvault.com/it/faq/export-import/
 
 ---
 
-Ogni utente può esportare l'intero Vault come file di backup crittografato e protetto da password (.tdvault) e importarlo su qualsiasi dispositivo. Questa guida mostra ogni fase con spiegazioni dettagliate.
+L’esportazione e l’importazione del vault sono gratuite per tutti. Esporta i dati supportati del vault in un file crittografato e protetto da password (.tdvault), entro il limite di dimensioni. Importalo su un altro dispositivo iOS o Android supportato seguendo i passaggi qui sotto.
 
 ## Perché esportare e importare?
 
-L'esportazione-importazione garantisce che i Suoi dati siano portabili e che Lei non rimanga mai vincolato all'app. Sia che Lei stia cambiando dispositivo, configurando un nuovo telefono, o semplicemente desideri una copia di backup che controlla, il processo di esportazione-importazione preserva tutto esattamente come è.
+Usi esportazione e importazione quando cambia telefono o vuole conservare un backup indipendente. Il file contiene i dati supportati del vault, gli allegati disponibili e alcune impostazioni. Controlli i documenti e i promemoria importati; il blocco dell’app e altre impostazioni del dispositivo restano locali.
 
-Il file esportato è crittografato con la stessa sicurezza del Vault locale. Solo Lei può decifarlo.
+Il file esportato è crittografato con la stessa sicurezza del Vault locale. Chiunque conosca la password di esportazione può decifrarlo: la mantenga riservata.
 
 ## Guida passo dopo passo
 
@@ -24,27 +24,27 @@ Avvia Travel Document Vault e tocca l'icona Impostazioni (simbolo dell'ingranagg
 
 2
 
-### Esamina cosa verrà esportato
+### Crea una password per l’esportazione
 
-L'app mostra un riepilogo: numero totale di profili, numero totale di documenti e numero totale di allegati. Questo conferma che tutto quello che desideri è incluso. Tocca Continua o Conferma esportazione.
+L’app ti chiede di creare una password per proteggere il backup. Scegline una di almeno 8 caratteri, digitala di nuovo per confermarla e conservala al sicuro. Ti serve per importare il file: il PIN o il codice di recupero non lo aprono.
 
 3
 
 ### Attendere il completamento della crittografia
 
-L'app cripta tutti i Suoi dati in un unico file di backup (.tdvault). Su un Vault tipico con centinaia di documenti, questo richiede pochi secondi. Non chiuda l'app durante questo passaggio.
+L’app crittografa i dati supportati del vault e gli allegati disponibili in un unico file di backup (.tdvault). Non chiuda l’app durante questo passaggio.
 
 4
 
 ### Scegliere una destinazione e salvare
 
-Si apre il selettore di file del sistema. Scelga dove salvare il file: iCloud Drive, Google Drive, Dropbox o il computer. Consigliamo un servizio crittografato o archiviazione offline per la massima sicurezza.
+Si apre il menu di condivisione del telefono. Scelga dove salvare il file: iCloud Drive, Google Drive, Dropbox o il computer. Consigliamo un servizio crittografato o archiviazione offline per la massima sicurezza.
 
 5
 
 ### Trasferire il file al nuovo dispositivo (se importa su un altro telefono)
 
-Se sta importando su un dispositivo diverso, renda il file esportato accessibile lì. Carichi su un'unità condivisa, lo invii a se stesso via email o usi AirDrop. Le dimensioni del file sono tipicamente di 50-500 MB a seconda delle dimensioni del Vault e del numero di allegati.
+Se sta importando su un dispositivo diverso, renda il file esportato accessibile lì. Carichi su un'unità condivisa, lo invii a se stesso via email o usi AirDrop. Le dimensioni del file dipendono dalle dimensioni del vault e dal numero di allegati, fino a un limite di 500 MB per esportazione.
 
 6
 
@@ -56,18 +56,18 @@ Avvii Travel Document Vault sul dispositivo in cui desidera importare. Vada a Im
 
 ### Selezionare il file esportato e confermare
 
-Naviga verso il file del Vault esportato, selezionalo e conferma. L'app decripta e importa tutti i profili, i documenti e gli allegati. Questo processo richiede pochi secondi.
+Trova il file del vault esportato e selezionalo. L’app avvisa che l’importazione sostituisce tutti i dati su questo dispositivo. Tocca Importa per procedere, poi inserisci la password impostata durante l’esportazione. L’app decrittografa e importa i profili, i documenti e gli allegati inclusi nel backup.
 
 8
 
 ### Verificare che tutti i dati siano presenti
 
-Dopo l'importazione, controlla la scheda Profili per confermare che tutti i profili siano visualizzati. Apri alcuni documenti per verificare che gli allegati siano intatti. Il processo di importazione sostituisce tutti i dati esistenti su questo dispositivo.
+Dopo l'importazione, controlla la scheda Famiglia per confermare che tutti i profili siano visualizzati. Apri alcuni documenti per verificare che gli allegati siano intatti. Il processo di importazione sostituisce tutti i dati esistenti su questo dispositivo.
 
 ### Note importanti
 
 - **Sostituisce i dati esistenti:** L'importazione cancella prima ciò che si trova sul dispositivo di destinazione. Se hai già profili sul dispositivo di destinazione, esportali prima di importare.
-- **Fedeltà round-trip:** Tutto è preservato esattamente: nomi dei documenti, date, avvisi di scadenza, colori personalizzati, allegati e note.
+- **Fedeltà round-trip:** Il file trasferisce i campi supportati del vault e alcune impostazioni. Gli allegati mancanti o le note illeggibili possono essere omessi. Controlli i documenti e i promemoria importati. Il blocco dell’app e altre impostazioni del dispositivo restano locali.
 - **Crittografato in tutto:** Il file esportato è crittografato con la password che scegli al momento dell'esportazione, tramite AES-256-GCM con derivazione della chiave PBKDF2. Solo quella password può decifrarlo, quindi conservala in un luogo sicuro — senza di essa il file non può essere recuperato.
 - **Migliore pratica di backup:** Mantieni il file esportato in una posizione sicura. Eliminalo dopo un'importazione riuscita se preferisci, o conservalo come backup offline.
 

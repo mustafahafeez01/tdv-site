@@ -1,6 +1,6 @@
 # Planificateur de voyage pour les familles | Travel Document Vault
 
-> Planifiez des voyages en famille : feu de disponibilité, listes de colisage et suivi des jours par pays, membre par membre. Entièrement hors ligne.
+> Avec Pro, planifiez les voyages familiaux : feu de disponibilité, listes de colisage et suivi des jours par pays et par membre. Entièrement hors ligne.
 
 Source: https://traveldocumentvault.com/fr/trip-planner/
 
@@ -12,7 +12,7 @@ Cinq fonctionnalités qui rendent la planification des voyages en famille sans s
 
 ### Feu tricolore de disponibilité
 
-Le vert signifie que tout le monde est prêt, tandis que l'orange signale qui a des documents expirant bientôt — plus de surprises la veille du voyage.
+Le vert signifie que les documents associés passent les vérifications que vous avez définies pour les dates de voyage enregistrées. L’orange signale les éléments à examiner.
 
 Chaque membre de la famille reçoit son propre statut de disponibilité basé sur les dates d'expiration des documents et le contexte du voyage.
 
@@ -24,21 +24,21 @@ Conçu pour les familles de 2 à 10+ membres. Fonctionne pour les conjoints, enf
 
 ### Liste de colisage
 
-Liste de colisage adaptée à la durée et à la destination du voyage que vous cochez au fur et à mesure que vous emballez — plus d'oublis de crème solaire.
+Une liste de bagages pour les voyages de loisirs ou d’affaires, à cocher au fur et à mesure que vous préparez vos affaires pour ne plus oublier l’adaptateur de prise.
 
-Les listes s'adaptent en fonction de la météo, de la durée du voyage et du type de voyage (plage, ville, ski, etc.).
+Les listes partent d’un modèle pour les loisirs ou les affaires, et vous pouvez ajouter ou retirer des éléments pour chaque voyage.
 
 ### Soyez informé avant de partir
 
-Panneau de destination avec conditions d'entrée, règles de visa et conseils de voyage pour chaque pays — pas de surprises à l'immigration.
+Un panneau de destination indiquant la monnaie, la langue, le type de prise, la tension électrique et le côté de conduite pour les destinations populaires, afin d’éviter les surprises à l’arrivée.
 
-Affiche les règles Schengen, les fenêtres de validité des visas et les coutumes locales. Tout mis à jour pour les réglementations de voyage actuelles.
+Couvre près de 60 des destinations les plus fréquentées, avec des informations intégrées à l’application pour fonctionner hors ligne.
 
 ### Franchises limites de jours par pays
 
-Suivez le nombre de jours que chaque membre de la famille a passé dans un pays en créant des périodes (année Schengen, fenêtre de visa, année fiscale) et en liant les règles de franchise à ces périodes — puis consultez une ventilation par membre en un coup d'œil.
+Suivez le nombre de jours que chaque membre de la famille a passé dans un pays en créant des périodes (fenêtre de visa, année fiscale) et en liant les règles de franchise à ces périodes — puis consultez une ventilation par membre en un coup d'œil.
 
-Conçu pour les limites glissantes de type 90/180 dans un pays, les règles de 183 jours au Royaume-Uni et toute fenêtre de visa ou de résidence personnalisée. Les jours utilisés se mettent à jour automatiquement au fur et à mesure que les voyages sont enregistrés.
+Définissez une période fixe ou glissante pour chaque pays, avec votre propre limite de jours de visa ou de résidence. Vérifiez séparément les règles officielles. Les jours utilisés se mettent à jour automatiquement au fur et à mesure que les voyages sont enregistrés.
 
 ## Et bien d'autres choses
 
@@ -60,7 +60,7 @@ Pro : synchronisation avec votre propre iCloud ou Google Drive. Accès multi-app
 
 ## Prêt à mieux planifier
 
-Téléchargez gratuitement. Pas de compte. Commencez à planifier aujourd'hui.
+Téléchargez gratuitement. Pas de compte. Commencez à planifier aujourd’hui avec Pro.
 
 ![Télécharger sur l'App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

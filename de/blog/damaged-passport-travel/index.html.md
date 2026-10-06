@@ -81,7 +81,7 @@ Ein klares digitales Foto Ihres Passes hilft hier. Bewahren Sie die Datenseite, 
 
 Das ist besonders wertvoll, wenn Ihr Pass im Ausland beschädigt wird und Sie ein Notreisedokument von Ihrer Botschaft brauchen. Konsularbeamte arbeiten schneller, wenn sie einen Scan Ihres Originalpasses direkt vor sich haben.
 
-Bewahren Sie Ihre digitalen Kopien verschlüsselt und offline auf – nicht in Google Fotos oder in einem mit anderen geteilten iCloud-Ordner. Travel Document Vault ist genau für diesen Fall gebaut: Passfotos, die ausschließlich auf Ihrem Gerät verschlüsselt sind und sofort verfügbar, wenn etwas schiefgeht.
+Bewahren Sie Ihre digitalen Kopien verschlüsselt und offline auf – nicht in Google Fotos oder in einem mit anderen geteilten iCloud-Ordner. Travel Document Vault speichert Passfotos verschlüsselt auf Ihrem Gerät, sodass Sie sie offline ansehen können. Sie können Kopien teilen oder exportieren oder mit Pro verschlüsselte Cloud-Backups nutzen.
 
 Scannen Sie Ihren Pass heute, bevor Sie ihn brauchen.
 

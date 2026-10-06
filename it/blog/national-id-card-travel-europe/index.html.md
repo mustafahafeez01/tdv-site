@@ -67,7 +67,7 @@ La difficoltà pratica nel gestire i documenti di viaggio è questa: la carta d'
 
 La parte più difficile è che **nessuno dei due documenti ti manda un promemoria.** Dovresti controllarli da solo. La maggior parte delle persone non lo fa, finché non si ritrova al banco del check-in e un agente le dice che uno dei due è troppo vicino alla scadenza per essere accettato.
 
-Ciò che aiuta davvero è avere un unico posto per entrambi i documenti, che riconosce ogni data di scadenza al momento della scansione e ti avvisa separatamente per ciascuno, con la tempistica adatta a quel tipo di documento. Consulta la nostra guida su [come costruire un controllo completo dei documenti prima del viaggio](https://traveldocumentvault.com/it/blog/travel-document-checklist/) per il quadro completo di cosa verificare prima di partire.
+Ciò che aiuta davvero è avere un unico posto per entrambi i documenti, che conserva ogni data di scadenza e ti avvisa separatamente per ciascuno, con la tempistica adatta a quel tipo di documento. Consulta la nostra guida su [come costruire un controllo completo dei documenti prima del viaggio](https://traveldocumentvault.com/it/blog/travel-document-checklist/) per il quadro completo di cosa verificare prima di partire.
 
 Comincia oggi: prendi la tua carta d'identità, controlla la data di scadenza ed esaminala per vedere se ci sono crepe, sbiadimenti o plastica deformata. Se è al limite, prenota il rinnovo prima di prenotare il viaggio.
 

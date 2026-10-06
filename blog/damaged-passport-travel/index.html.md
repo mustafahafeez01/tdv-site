@@ -81,7 +81,7 @@ When you need to replace a damaged passport urgently, one thing slows everything
 
 A clear digital photo of your passport helps here. Keep the data page, the front cover and the back cover, and you can hand over your passport number and identity details on the spot instead of hunting for them. This is especially valuable if you are abroad when your passport is damaged and need an emergency travel document from your embassy. Consular officers work faster when they can see a scan of your original passport right in front of them.
 
-Store your digital copies somewhere encrypted and offline, not Google Photos or iCloud shared with others. Travel Document Vault is built for exactly this use case: passport photos encrypted on your device only, accessible instantly if something goes wrong. Scan your passport today, before you need it.
+Store your digital copies somewhere encrypted and offline, not Google Photos or iCloud shared with others. Travel Document Vault stores passport photos encrypted on your device for offline viewing. You can share or export copies, or use encrypted cloud backup with Pro. Scan your passport today, before you need it.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 

@@ -72,7 +72,7 @@ Stel dat je Google-wachtwoord twee jaar geleden werd hergebruikt op een site die
 | Google Foto's | Google-cloudservers | Onderweg + in rust (door Google beheerde sleutels) | Gemiddeld | Acceptabel met sterke 2FA |
 | iCloud-foto's | Apple-cloudservers | Onderweg + in rust (door Apple beheerde sleutels) | Gemiddeld | Acceptabel met sterke 2FA |
 | Versleutelde wachtwoordmanager (1Password, Bitwarden) | Cloud (zero-knowledge) | End-to-end; provider kan inhoud niet lezen | Laag | Goede keuze |
-| Versleutelde app op toestel (optionele eigen cloudback-up) | Alleen je telefoon | Versleuteld op toestel; geen serverkopie | Laagst | Beste voor gevoelige documenten |
+| Versleutelde app op toestel (optionele eigen cloudback-up) | Je telefoon; optionele versleutelde back-up naar je eigen cloud (Pro) | Versleuteld op toestel; optionele versleutelde kopie in je eigen cloud (Pro) | Laagst | Beste voor gevoelige documenten |
 | Camerarol / onversleutelde map | Je toestel | Alleen toestelversleuteling | Hoger | Niet aanbevolen |
 
 ### iCloud-foto's versus Google Foto's: Is Apple veiliger?
@@ -97,7 +97,7 @@ Twee dingen zijn goed om eerst uit elkaar te houden: een kopie bewaren voor jeze
 
 **Versleutelde apps op je toestel**
 
-Apps die specifiek hiervoor gebouwd zijn – zoals [Travel Document Vault](https://traveldocumentvault.com) – houden alles op je telefoon met sterke versleuteling en zonder account. Je krijgt optionele versleutelde back-up naar je eigen iCloud of Google Drive (Pro), en er is geen server om te kraken omdat je digitale paspoortkopie het toestel nooit verlaat. De enige afweging: raak je je telefoon kwijt zonder back-up, dan verdwijnt de digitale kopie ermee, ook al heb je je fysieke paspoort nog steeds bij je.
+Apps die specifiek hiervoor gebouwd zijn – zoals [Travel Document Vault](https://traveldocumentvault.com) – bewaren documenten versleuteld op je telefoon zonder app-account. Je kunt kopieën delen of exporteren, of met Pro een versleutelde kopie opslaan in je eigen iCloud of Google Drive. De app uploadt je documenten niet naar onze servers. De enige afweging: raak je je telefoon kwijt zonder back-up, dan verdwijnt de digitale kopie ermee, ook al heb je je fysieke paspoort nog steeds bij je.
 
 **Versleutelde cloudopslag met sleutels aan de clientzijde**
 
@@ -131,7 +131,7 @@ Ja. Geautomatiseerde systemen verwerken je foto's voor zaken als gezichtsherkenn
 
 ### Wat is de veiligste manier om een digitale kopie van een paspoort te bewaren?
 
-Versleutelde opslag op je toestel is je veiligste optie – apps die je scans op je telefoon bewaren met sterke versleuteling en zonder cloud-upload. Geen enkele server van derden raakt ooit je paspoortgegevens aan. Wil je ook cloudtoegang, dan is een zero-knowledge versleutelde wachtwoordmanager zoals 1Password of Bitwarden een solide middenweg.
+Versleutelde opslag op je toestel is je veiligste optie – apps die je scans standaard met sterke versleuteling op je telefoon bewaren. Kopieën kunnen het toestel verlaten via delen, exporteren of een optionele versleutelde back-up naar je eigen iCloud of Google Drive (Pro). Wil je ook cloudtoegang, dan is een zero-knowledge versleutelde wachtwoordmanager zoals 1Password of Bitwarden een solide middenweg.
 
 ### Kan iemand mijn identiteit stelen uit een paspoortscan?
 

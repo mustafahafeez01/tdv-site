@@ -52,7 +52,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
-[家庭旅行家庭护照管理：安全存储多本护照了解如何在一个地方组织和安全存储多本家庭护照。跟踪每个家庭成员的到期日期，并在续期前收到提醒。2026年7月16日7 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/family-passport-management/)
+[家庭旅行家庭护照管理：安全存储多本护照将全家的护照整理在一个加密的地方。通过 Pro 添加家庭档案，并利用到期日和提醒规划换发。2026年7月16日7 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/family-passport-management/)
 
 ##
 
@@ -140,9 +140,9 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 [护照规则护照6个月有效期规则：哪些国家执行以及如何避免被卡在机场 护照有效但仍被拒绝入境？这种事确实存在。了解哪些国家执行 6 个月规则、航空公司如何核查，以及订票前如何保障全家人万无一失。 2026 年 2 月 1 日7 分钟读完](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)
 
-## 最后一次在旅行前手忙脚乱
+## 将护照信息放在一起
 
-今晚扫描您家人的护照。过期提醒自动设置。安全加密，仅存储在您的设备上。
+今晚扫描护照并确认或输入到期日。提醒默认开启，文档加密保存在您的设备上。您可以分享或导出副本。Pro 提供家庭档案和可选的加密备份，保存到您自己的云账户。
 
 ![在 App Store 上下载](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

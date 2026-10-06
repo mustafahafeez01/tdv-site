@@ -1,6 +1,6 @@
 # Travel Document Vault | Una cosa in meno di cui preoccuparsi
 
-> Conserva passaporti, visti e ID della famiglia sul telefono. Promemoria di scadenza mesi prima. Accesso offline, backup crittografato, nessun account.
+> Passaporti, visti e ID cifrati offline sul telefono; famiglia con Pro. Promemoria mesi prima della scadenza. Pro: acquisto una tantum, senza abbonamento.
 
 Source: https://traveldocumentvault.com/it/
 
@@ -24,11 +24,11 @@ Una cosa in meno di cui preoccuparsi.
 
 ## I Suoi Documenti Rimangono Con Lei
 
-Costruito da un genitore che ne aveva bisogno. I Suoi documenti rimangono sul Suo dispositivo — crittografati, privati e mai caricati da nessuna parte.
+Costruito da un genitore che ne aveva bisogno. I documenti salvati sono crittografati sul Suo dispositivo. Il backup facoltativo va sul Suo iCloud o Google Drive, protetto da un codice di recupero che solo Lei possiede.
 
 ### Costruito da un Genitore
 
-Ho costruito questa app perché ne avevo bisogno per la mia famiglia. Ha profili separati per ogni membro della famiglia e promemoria di scadenza automatici mesi prima che il rinnovo sia urgente. Non c'è finanziamento VC che mi spinga a vendere i Suoi dati e nessuna roadmap guidata da metriche di crescita; è semplicemente uno strumento che risolve un problema, bene.
+Ho costruito questa app perché ne avevo bisogno per la mia famiglia. Ha promemoria di scadenza automatici mesi prima che il rinnovo sia urgente e, con Pro, profili separati per ogni familiare. Non c'è finanziamento VC che mi spinga a vendere i Suoi dati e nessuna roadmap guidata da metriche di crescita; è semplicemente uno strumento che risolve un problema, bene.
 
 ### Offline per Progettazione
 
@@ -36,19 +36,19 @@ Il server più sicuro per le scansioni dei passaporti è nessun server, ecco per
 
 ### Crittografia Su Dispositivo
 
-I documenti vengono crittografati sul Suo dispositivo con AES-256-GCM, utilizzando chiavi custodite nel Secure Enclave del Suo dispositivo. È una crittografia forte e moderna, e dovrebbe comunque proteggere il Suo telefono con una passcode robusta e il Blocco App.
+I documenti vengono crittografati sul Suo dispositivo con AES-256-GCM, utilizzando chiavi custodite nell’archiviazione sicura delle chiavi del dispositivo. È una crittografia forte e moderna, e dovrebbe comunque proteggere il Suo telefono con una passcode robusta e il Blocco App.
 
 ### Il Vostro Cloud. La Vostra Chiave.
 
-Backup crittografato opzionale nel Vostro iCloud o Google Drive. Lei tiene il codice di recupero. Noi non lo vediamo mai. Sincronizzate tra i Vostri dispositivi, ma rimangono sotto il Vostro controllo.
+L’esportazione e l’importazione del vault sono gratuite. Pro aggiunge il backup cloud crittografato sul Suo iCloud o Google Drive. Ripristini con il codice di recupero su un telefono compatibile della stessa piattaforma, usando lo stesso account cloud. Non conserviamo il Suo codice.
 
 ### Promemoria Intelligenti
 
-I passaporti La avvisano già otto mesi prima, poi i promemoria si avvicinano — sei mesi, tre, sei settimane, un mese — fino al giorno della scadenza. Ogni tipo di documento ha il proprio calendario, pronto appena lo aggiunge.
+I passaporti La avvisano già otto mesi prima, poi i promemoria si avvicinano — sei mesi, tre, sei settimane, un mese — fino al giorno della scadenza. I promemoria sono attivi per impostazione predefinita quando salva una data di scadenza. Per carte d’identità, visti, assicurazioni e altri documenti iniziano tre mesi prima.
 
 ### Logica Consapevole della Famiglia
 
-Tracciamo le regole per Lei. Paesi diversi, requisiti diversi, i passaporti dei bambini si rinnovano più velocemente. L'app comprende. Non deve farlo.
+Con Pro, l’app controlla i passaporti collegati rispetto alle date di viaggio, applicando un margine predefinito di 180 giorni dopo la fine del viaggio. Verifichi separatamente la regola effettiva della destinazione.
 
 ### Ecco la verità su quello che posso vedere
 
@@ -60,7 +60,7 @@ Archiviate solo sul Suo dispositivo. Non posso vederle.
 
 I dettagli dei Suoi documenti
 
-Nomi, numeri, date di scadenza. Solo sul Suo dispositivo.
+Date di scadenza, paesi di rilascio, titoli e note. Sul Suo dispositivo; le copie possono uscire se le condivide, le esporta o attiva il backup cloud crittografato (Pro).
 
 I profili della Sua famiglia
 
@@ -70,13 +70,13 @@ Notifiche di promemoria
 
 Pianificate localmente sul Suo dispositivo. Non conosco le Sue date di scadenza.
 
-Anche se qualcuno hackerasse i miei server... non ci sono server. Non c'è niente da trovare.
+Nessun server Travel Document Vault conserva i Suoi documenti. Non c’è niente da trovare.
 
 [Leggi la storia del fondatore: perché ho costruito un'app per portare una cosa in meno nella mia testa →](https://traveldocumentvault.com/it/blog/)
 
 ## Pronti Quando Ne Ha Bisogno
 
-- **In Aeroporto:** Visualizza passaporti, ID e dettagli imbarco per tutta la famiglia in pochi secondi.
+- **In Aeroporto:** Visualizza passaporti, ID e dettagli imbarco per tutta la famiglia (Pro) in pochi secondi.
 - **Compilare Moduli:** Numeri di passaporto, dettagli ID, informazioni assicurative. Sempre a portata di mano.
 - **Domande di Visto:** Esporta immagini di documenti come PDF per la stampa o la condivisione. Rivedi e regola le immagini prima dell'esportazione.
 
@@ -88,7 +88,7 @@ Realizzato per le famiglie che viaggiano ovunque.
 
 Pro
 
-Semaforo della disponibilità familiare. Vedi chi è pronto per viaggiare e i cui documenti stanno per scadere.
+Semaforo della prontezza familiare. Veda quali documenti collegati richiedono attenzione rispetto alle date di viaggio salvate.
 
 ### Tuo Cloud. Tua Chiave.
 
@@ -100,7 +100,7 @@ Backup crittografato nel Suo iCloud o Google Drive. Lei detiene il codice di rip
 
 Pro
 
-Registri i giorni che la Sua famiglia passa in ogni paese. Imposti limiti di giorni personalizzati e sappia esattamente dove si trova.
+Registri i giorni trascorsi in ogni paese per familiare. Confronti i giorni dei viaggi salvati con i limiti per paese che inserisce.
 
 ### Profili familiari illimitati
 
@@ -120,7 +120,7 @@ Avvisi passaporto da 8 mesi prima
 
 Guide per inquadrare passaporti e ID
 
-### Esportazioni Combinate
+### Esportazioni Combinate (Pro)
 
 Combina documenti in un PDF per la stampa
 
@@ -132,7 +132,7 @@ Disponibile in oltre 40 lingue
 
 ### Per Tutta la Famiglia
 
-È Lei che ricorda tutto. Questo fardello non deve ricadere interamente su di Lei. Organizzi coniugi, bambini e nonni in un unico luogo sicuro.
+È Lei che ricorda tutto. Questo fardello non deve ricadere interamente su di Lei. Con Pro, organizzi coniugi, bambini e nonni in un unico luogo sicuro.
 
 ### Tranquillità, Automatizzata
 
@@ -154,11 +154,11 @@ English, Español, Français, Deutsch, Italiano, Português (BR), Português (PT
 
 ### Lascia che l'App Faccia la Digitazione
 
-Il rilevamento della data istantanea La salva dall'immissione di dati noiosa. Veloce, conveniente e mantenuto 100% privato sul Suo telefono.
+L’app prova a leggere la data di scadenza sul dispositivo. Confermi la data rilevata o la inserisca prima di salvare.
 
 ### Il Suo Archivio Privato
 
-Ciò che accade sul Suo telefono rimane sul Suo telefono. Non è coinvolto nessun server cloud e nessuno che guarda oltre la Sua spalla.
+I file dei documenti restano sul Suo telefono, salvo quando li condivide, li esporta o attiva il backup crittografato (Pro). Non è coinvolto un nostro server cloud e nessuno guarda oltre la Sua spalla.
 
 ### Sempre Lì Quando Ne Ha Bisogno
 
@@ -179,15 +179,15 @@ Acquisto unico. Nessun abbonamento. Nessun costo nascosto. Nessun raccolta di da
 Sempre gratuito
 
 - Passaporti, visti, ID e altro
-- Scansiona documenti, date compilate per Lei
+- Scansiona documenti e conferma le date di scadenza rilevate
 - Promemoria di scadenza
 - Condividi i singoli documenti
 - Blocco PIN + Biometrico (Face ID / Touch ID)
 - 1 profilo
 - Fino a 5 documenti
-- Eliminato di recente — finestra di annullamento di 30 giorni
+- Eliminato di Recente — ripristino entro 30 giorni
 
-Tutti i dati rimangono sul Suo dispositivo. Sempre.
+Salvi sul dispositivo. Condivida, esporti o usi il backup cloud Pro.
 
 Miglior Valore
 
@@ -218,15 +218,15 @@ Tutto ciò di cui ha bisogno per i viaggi in solitario
 Gratuito
 
 - Passaporti, visti, ID e altro
-- Scansiona documenti, date compilate per Lei
+- Scansiona documenti e conferma le date di scadenza rilevate
 - Promemoria di scadenza
 - Condividi i singoli documenti
 - Blocco PIN + Biometrico (Face ID / Touch ID)
 - 1 profilo
 - Fino a 5 documenti
-- Eliminato di recente — finestra di annullamento di 30 giorni
+- Eliminato di Recente — ripristino entro 30 giorni
 
-Tutti i dati rimangono sul Suo dispositivo. Sempre.
+Salvi sul dispositivo. Condivida, esporti o usi il backup cloud Pro.
 
 Per le famiglie
 
@@ -258,7 +258,7 @@ Ripristina gli acquisti in qualsiasi momento con l'account App Store o Google Pl
 
 ## Domande Comuni
 
-È davvero privato? Sì. Tutto è archiviato al 100% sul Suo dispositivo. Non abbiamo accesso ai Suoi documenti e non c'è alcun database cloud. Non si fidi solo della nostra parola — [verifichi Lei stesso](https://traveldocumentvault.com/it/privacy-verification/). E se perdo il mio telefono? Il Suo caveau è archiviato sul Suo dispositivo. Se cambia telefono, ripristini utilizzando il solito backup del telefono. [Vedi tutte le risposte su privacy e dati](https://traveldocumentvault.com/it/faq/)
+È davvero privato? Sì. Per impostazione predefinita, tutto è archiviato sul Suo dispositivo. Non abbiamo server che conservano i documenti né accesso ai documenti. Se attiva il backup facoltativo (Pro), il vault crittografato viene salvato sul Suo iCloud o Google Drive, protetto da un codice di recupero che solo Lei possiede. Non possiamo leggerlo. Nemmeno Apple o Google. Non si fidi solo della nostra parola — [verifichi Lei stesso](https://traveldocumentvault.com/it/privacy-verification/). E se perdo il mio telefono? I Suoi documenti sono crittografati sul dispositivo. La chiave locale resta nell’archiviazione sicura ed è esclusa dai normali backup del telefono. L’esportazione del vault include una copia di quella chiave crittografata con una password. Un normale backup del telefono reinstalla l’app ma non ripristina i documenti. Il backup cloud Pro si ripristina con il codice di recupero su un telefono supportato della stessa piattaforma, usando lo stesso account cloud. Oppure usi l’esportazione e l’importazione gratuite del vault. Il ripristino o l’importazione sostituiscono il vault locale. [Vedi tutte le risposte su privacy e dati](https://traveldocumentvault.com/it/faq/)
 
 **Importante:** Travel Document Vault è uno strumento di organizzazione personale per archiviare copie digitali dei Suoi documenti. **Le copie digitali archiviate in questa app NON sono valide per i viaggi.** Non verifica l'autenticità dei documenti né fornisce consulenza legale o di viaggio. Porti sempre documenti originali e verifichi tutti i requisiti di viaggio con le fonti governative ufficiali.
 

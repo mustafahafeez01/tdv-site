@@ -1,6 +1,6 @@
 # Why I Built Travel Document Vault: For the Parent Who Remembers Everything
 
-> Why I built Travel Document Vault after a 3am passport check before a family trip, and why it stores everything on your own device instead of a server.
+> Why I built Travel Document Vault after a 3am passport check before a family trip, and why it stores documents on your own device by default.
 
 Source: https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/
 
@@ -22,7 +22,7 @@ That pit-in-your-stomach moment - realising you nearly wrecked a family trip wit
 
 If you're the person in your family who manages documents, you already know this feeling.
 
-You're not just storing files. You carry an invisible checklist in your head: which passports expire when, who needs what for school enrollment, which countries have the six-month rule, whether the travel insurance actually got renewed or just meant to be.
+You're not just storing files. You carry an invisible checklist in your head: which passports expire when, who needs what for school enrolment, which countries have the six-month rule, whether the travel insurance actually got renewed or just meant to be.
 
 No single check takes that long. Finding a passport scan, reading the expiry date, checking it clears your trip by six months - maybe two or three minutes. But multiply that by four family members, add the insurance policy buried in email, the driver's licence you're not sure is still current, and you've burned fifteen or twenty minutes at 11pm the night before a flight.
 
@@ -48,13 +48,13 @@ And it had to work offline. Because I'd be at the airport, or stuck in a hotel l
 
 ## So I built exactly what I needed
 
-Travel Document Vault does one thing: puts everything in one place, so you never think about it again until the app tells you to.
+Travel Document Vault puts your saved documents and expiry dates in one place, with reminders to help you plan renewals.
 
-Scan a document once. The app reads the expiry date (you double-check it). Reminders schedule themselves automatically: six months out, then three months, six weeks, one month, two weeks, all the way down to the day before it expires.
+Scan a document once. The app tries to read the expiry date; confirm it or enter it manually. Reminders are on by default when you save an expiry date. Passport reminders start eight months out for a passport, then six months, three months, six weeks, one month, two weeks, all the way down to expiry day.
 
-One profile per family member, every document in one spot - so when you need to check if you're good to travel, you open the app and you know immediately, not probably, not I think so, but **you actually know**.
+Add the whole family with Pro, with a profile for each person. Before a trip, you can **review the family's saved documents and expiry dates**.
 
-When a hotel asks for your passport copy, an embassy needs your details, or the car hire desk wants your licence, you share it in one tap - no digging, no Wi-Fi, everything together, right there.
+When a hotel asks for your passport copy, an embassy needs your details, or the car hire desk wants your licence, you can open the share sheet and choose how to send it. Viewing saved copies works offline; email and messaging need a connection.
 
 That's the real payoff: you get your brain space back. The invisible mental load - that constant low-level hum of "am I forgetting something?" - it disappears. The app remembers so you don't have to.
 
@@ -83,10 +83,10 @@ Early on, I made a firm decision: your documents belong to you, and they stay wi
 Travel Document Vault is self-contained:
 
 - No accounts to create
-- No server upload
+- Optional encrypted cloud backup (Pro)
 - Encrypted on your device
 
-When you scan a document, text recognition runs on your device, so everything stays on your phone and **nothing gets uploaded to any server.**
+When you scan a document, text recognition runs on your device. Documents stay on your phone by default; **optional encrypted backup (Pro) saves a copy to your own iCloud or Google Drive.** You can also export or share copies.
 
 Some people want apps that sync everywhere. For passports and IDs, I wanted a simpler model: your phone is the vault. You can export your copies whenever you need to. They're yours, after all.
 
@@ -96,9 +96,9 @@ A travel document vault is something you set up once and forget about. It sits t
 
 A subscription makes no sense for that. If I stop paying, I'd need to export everything, find another app, migrate my documents, rebuild all my reminders. And if I forget to renew? I lose access exactly when I need it most - standing at check-in realising my kid's passport expiry is four months out and I can't reach the scan I stored.
 
-When you buy this app, it's yours - documents stay on your device, reminders keep working, no renewals, no exports, no lock-in. It just works quietly in the background until you need it.
+Your saved documents and reminders work in the free version. Pro adds unlimited profiles and documents with a one-time purchase, so there's no subscription to renew.
 
-The free version gives you one profile, five documents, OCR, reminders, and a PIN lock. Pro unlocks unlimited profiles and documents with a single payment. Pay once, all v1.x updates included, forever. That's it.
+The free version gives you one profile, five documents, automatic date detection, reminders, and a PIN lock. Pro unlocks unlimited profiles and documents with a single payment. Pay once, all v1.x updates included, forever. That's it.
 
 [About our version policy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -112,7 +112,7 @@ If you're the person in your family who double-checks everything, keeps the fold
 
 **One less thing to worry about.**
 
-Built for personal use first. No accounts. No server upload.
+Built for personal use first. No accounts. Optional encrypted cloud backup (Pro).
 
 Mustafa
 

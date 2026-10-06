@@ -81,7 +81,7 @@ Cosa significa nella pratica
 
 Se il tuo telefono viene rubato e il ladro accede alla tua libreria fotografica, ha una scansione chiara della pagina dati del tuo passaporto: il tuo nome, la data di nascita, il numero del passaporto e la tua foto. È sufficiente per il furto di identità. Conservare le scansioni del passaporto in un'app crittografata che richiede un PIN separato o un'autenticazione biometrica è significativamente più sicuro rispetto a una libreria fotografica, anche se entrambi sono sullo stesso dispositivo.
 
-[Travel Document Vault](https://traveldocumentvault.com) conserva tutto sul dispositivo con crittografia forte (backup crittografato facoltativo nel tuo iCloud o Google Drive con Pro). Ogni membro della famiglia ha il suo profilo e le date di scadenza vengono monitorate automaticamente. Se preferisci farlo da solo, una cartella crittografata in un gestore password affidabile funziona ugualmente — non ti ricorderà semplicemente quando qualcosa sta per scadere.
+[Travel Document Vault](https://traveldocumentvault.com) conserva i tuoi documenti crittografati sul dispositivo e tiene traccia delle date di scadenza salvate. Puoi condividere o esportare copie. Pro aggiunge i profili familiari e il backup crittografato facoltativo sul tuo iCloud o Google Drive. Se preferisci farlo da solo, una cartella crittografata in un gestore password affidabile funziona ugualmente — non ti ricorderà semplicemente quando qualcosa sta per scadere.
 
 ## Monitorare le date di scadenza: la parte più trascurata
 
@@ -93,11 +93,11 @@ Ecco il modello di fallimento che cattura le famiglie: rinnovi il tuo passaporto
 
 - **Promemoria del calendario:** Impostane uno 12 mesi prima di ogni scadenza del documento e un altro a 6 mesi. Dovrai ricordare di aggiornare questi quando i documenti vengono rinnovati e hai bisogno che le date di scadenza siano accessibili in primo luogo.
 - **Foglio di calcolo:** Funziona bene se lo manterrai effettivamente. Una riga per documento per persona, la data di scadenza e una formula che evidenzia tutto ciò che scade entro 12 mesi.
-- **App dedicata:** Strumenti come Travel Document Vault gestiscono i promemoria automaticamente — scansiona il documento, conferma la data di scadenza e programma avvisi a partire da otto mesi prima, e di nuovo man mano che si avvicina, senza che tu debba pensarci.
+- **App dedicata:** Travel Document Vault programma promemoria per i passaporti a partire da otto mesi prima della scadenza, con avvisi a intervalli più ravvicinati. Scansiona un passaporto e conferma o inserisci la data di scadenza; i promemoria sono attivi per impostazione predefinita.
 
 Uno qualsiasi di questi tre approcci funziona, ma noi useremmo di default quello che manda il promemoria in automatico, perché un foglio di calcolo serve solo se ti ricordi di aprirlo. Ciò che conta di più è sceglierne uno che si adatti al tuo modo di operare e rispettarlo davvero.
 
-**Travel Document Vault** gestisce il monitoraggio delle scadenze per ogni membro della famiglia automaticamente — scansiona ogni passaporto una volta e ricevi promemoria a partire da otto mesi prima della scadenza. Nessun foglio di calcolo, nessun rinnovo dimenticato. [Scarica dall'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** tiene traccia delle date di scadenza salvate, con promemoria per i passaporti a partire da otto mesi prima. Scansiona ogni passaporto e conferma o inserisci la data di scadenza. Aggiungi tutta la famiglia con Pro per raccogliere le date di rinnovo in un unico posto. [Scarica dall'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Elenco di controllo dei documenti pre-viaggio per le famiglie
 

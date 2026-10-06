@@ -1,6 +1,6 @@
 # Porque Criei o Travel Document Vault: Para o Pai que se Lembra de Tudo
 
-> Porque criei o Travel Document Vault depois de verificar um passaporte às 3 da manhã, e porque tudo fica no seu próprio dispositivo.
+> Porque criei o Travel Document Vault após verificar um passaporte às 3 da manhã e porque guarda documentos no seu dispositivo por predefinição.
 
 Source: https://traveldocumentvault.com/pt/blog/why-i-built-travel-document-vault/
 
@@ -48,13 +48,13 @@ E tinha de funcionar offline. Porque estaria no aeroporto, ou preso num lobby de
 
 ## Então criei exatamente o que precisava
 
-O Travel Document Vault faz uma coisa: coloca tudo num único lugar, para nunca mais ter de pensar nisso até a aplicação o avisar.
+O Travel Document Vault reúne os documentos e as datas de validade guardados num só lugar, com lembretes para ajudar a planear as renovações.
 
-Digitalize um documento uma vez. A aplicação lê a data de validade (o utilizador verifica-a). Os lembretes programam-se automaticamente: seis meses antes, depois três meses, seis semanas, um mês, duas semanas, até ao dia anterior à expiração.
+Digitalize um documento uma vez. A aplicação tenta ler a data de validade; confirme-a ou introduza-a manualmente. Os lembretes estão ativados por predefinição quando guarda uma data de validade. Os lembretes para passaportes começam oito meses antes, depois seis meses, três meses, seis semanas, um mês, duas semanas, até ao dia em que expira.
 
-Um perfil por membro da família. Cada documento num único lugar. Quando precisa de verificar se pode viajar, abre a aplicação e sabe. Imediatamente. Não "provavelmente" ou "acho que sim", **sabe mesmo**.
+Adicione toda a família com Pro, com um perfil para cada pessoa. Antes de uma viagem, pode consultar **os documentos e as datas de validade guardados da família**.
 
-Quando um hotel pede uma cópia do passaporte, uma embaixada precisa dos seus dados, ou o balcão de aluguer de carros quer a sua carta de condução, partilha-a com um toque. Sem buscas. Sem Wi-Fi necessário. Tudo junto, mesmo ali.
+Quando um hotel pede uma cópia do passaporte, uma embaixada precisa dos seus dados, ou o balcão de aluguer de carros quer a sua carta de condução, pode abrir o menu de partilha e escolher como enviá-la. A consulta de cópias guardadas funciona offline; o e-mail e as mensagens precisam de ligação à internet.
 
 Esse é o verdadeiro benefício: recupera o seu espaço mental. A carga mental invisível, aquele zumbido constante de "estou a esquecer-me de algo?", desaparece. A aplicação lembra-se para que não tenha de o fazer.
 
@@ -81,10 +81,10 @@ Desde o início, tomei uma decisão firme: os seus documentos pertencem-lhe, e f
 O Travel Document Vault é autónomo:
 
 - Sem contas para criar
-- Sem envio para servidor
+- Cópia de segurança encriptada opcional na nuvem (Pro)
 - Encriptado no seu dispositivo
 
-Quando digitaliza um documento, o reconhecimento de texto é executado no seu dispositivo. Tudo fica no seu telemóvel. **Nada é enviado para qualquer servidor.**
+Quando digitaliza um documento, o reconhecimento de texto é executado no seu dispositivo. Os documentos ficam no telemóvel por predefinição; a cópia de segurança encriptada opcional (Pro) guarda uma cópia no seu próprio iCloud ou Google Drive. **Também pode exportar ou partilhar cópias.**
 
 Algumas pessoas querem aplicações que sincronizem em todo o lado. Para passaportes e documentos de identidade, quis um modelo mais simples: o seu telemóvel é o cofre. Pode exportar as suas cópias quando precisar. São suas, afinal de contas.
 
@@ -94,9 +94,9 @@ Um cofre de documentos de viagem é algo que se configura uma vez e esquece. Fic
 
 Uma subscrição não faz sentido para isso. Se deixar de pagar, teria de exportar tudo, encontrar outra aplicação, migrar os meus documentos, recriar todos os meus lembretes. E se me esquecer de renovar? Perco o acesso exatamente quando mais preciso, parado no balcão de check-in a perceber que o passaporte do meu filho expira daqui a quatro meses e não consigo aceder à digitalização que guardei.
 
-Quando compra esta aplicação, é sua. Os documentos ficam no seu dispositivo. Os lembretes continuam a funcionar. Sem renovações. Sem exportações. Sem bloqueios. Simplesmente funciona, silenciosamente em segundo plano, até precisar dela.
+Os documentos guardados e os lembretes funcionam na versão gratuita. Pro acrescenta perfis e documentos ilimitados com uma compra única, pelo que não há subscrição para renovar.
 
-A versão gratuita oferece-lhe um perfil, cinco documentos, OCR, lembretes e um bloqueio por PIN. A versão Pro desbloqueia perfis e documentos ilimitados com um único pagamento. Pague uma vez, todas as atualizações v1.x incluídas, para sempre. É tudo.
+A versão gratuita oferece-lhe um perfil, cinco documentos, deteção automática de datas, lembretes e um bloqueio por PIN. A versão Pro desbloqueia perfis e documentos ilimitados com um único pagamento. Pague uma vez, todas as atualizações v1.x incluídas, para sempre. É tudo.
 
 [Sobre a nossa política de versões →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -110,7 +110,7 @@ Se é a pessoa na sua família que verifica tudo duas vezes, mantém a pasta, se
 
 **Uma preocupação a menos.**
 
-Criado para uso pessoal primeiro. Sem contas. Sem envio para servidor.
+Criado para uso pessoal primeiro. Sem contas. Cópia de segurança encriptada opcional na nuvem (Pro).
 
 Mustafa
 

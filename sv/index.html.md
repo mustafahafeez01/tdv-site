@@ -24,11 +24,11 @@ En sak mindre att oroa sig för.
 
 ## Dina dokument stannar hos dig
 
-Byggd av en förälder som behövde det. Dina dokument förblir på din enhet och läsbara endast för dig. Valfri krypterad säkerhetskopia går till ditt eget iCloud eller Google Drive, förseglat med en återställningskod endast du har.
+Byggd av en förälder som behövde det. Dina sparade dokument är krypterade på din enhet. Valfri krypterad säkerhetskopia går till ditt eget iCloud eller Google Drive, förseglat med en återställningskod endast du har.
 
 ### Byggd av en förälder
 
-Jag byggde den här appen för att jag behövde den för min egen familj. Den har separata profiler för varje familjemedlem och automatiska utgångspåminnelser månader innan förnyelse är brådskande. Det finns ingen VC-finansiering som pressar mig att sälja dina data och ingen väg framåt driven av tillväxtmått – det är helt enkelt ett verktyg som löser ett problem på rätt sätt.
+Jag byggde den här appen för att jag behövde den för min egen familj. Den har automatiska utgångspåminnelser månader innan förnyelse är brådskande och, med Pro, separata profiler för varje familjemedlem. Det finns ingen VC-finansiering som pressar mig att sälja dina data och ingen väg framåt driven av tillväxtmått – det är helt enkelt ett verktyg som löser ett problem på rätt sätt.
 
 ### Offline av design
 
@@ -36,7 +36,7 @@ Den säkeraste servern för passkanningar finns inte alls – vilket är varför
 
 ### Kryptering på enheten
 
-Dokument är krypterade på din enhet med AES-256-GCM, med nycklar som förvaras i din enhets Secure Enclave. Det är stark, modern kryptering, och du bör fortfarande skydda din telefon med ett starkt lösenord och App Lock.
+Dokument är krypterade på din enhet med AES-256-GCM, med nycklar som förvaras i din enhets säkra nyckellagring. Det är stark, modern kryptering, och du bör fortfarande skydda din telefon med ett starkt lösenord och App Lock.
 
 ### Din molnlagring. Din nyckel.
 
@@ -44,11 +44,11 @@ Valfri krypterad säkerhetskopia i ditt eget iCloud eller Google Drive. Du håll
 
 ### Smarta påminnelser
 
-Pass varnar dig redan åtta månader i förväg, sedan kommer påminnelserna tätare – sex månader, tre, sex veckor, en månad – fram till utgångsdagen. Varje dokumenttyp har sitt eget schema, klart så snart du lägger till den.
+Pass varnar dig redan åtta månader i förväg, sedan kommer påminnelserna tätare – sex månader, tre, sex veckor, en månad – fram till utgångsdagen. Påminnelser är aktiverade som standard när du sparar ett utgångsdatum. ID-handlingar, visum, försäkring och andra dokument börjar tre månader i förväg.
 
 ### Familjemedveten logik
 
-Vi följer reglerna åt dig. Olika länder, olika krav, barnpass förnyas snabbare. Appen förstår. Du behöver inte.
+Med Pro kontrollerar appen länkade pass mot dina resdatum med en standardmarginal på 180 dagar efter resans slut. Kontrollera destinationens faktiska regel separat.
 
 ### Här är sanningen om vad jag kan se
 
@@ -60,7 +60,7 @@ På din enhet. Med valfri säkerhetskopia förseglad i ditt eget moln före uppl
 
 Dina dokumentdetaljer
 
-Namn, nummer, utgångsdatum. Endast på din enhet.
+Utgångsdatum, utfärdandeländer, titlar och anteckningar. På din enhet; kopior kan lämna den om du delar eller exporterar dem, eller aktiverar krypterad molnsäkerhetskopiering (Pro).
 
 Dina familjeprofiler
 
@@ -70,13 +70,13 @@ Påminnelsemeddelanden
 
 Schemalagd lokalt på din enhet. Jag känner inte till dina utgångsdatum.
 
-Även om någon hackade mina servrar ... det finns inga servrar. Det finns ingenting att hitta.
+Ingen Travel Document Vault-server lagrar dina dokument. Det finns ingenting att hitta.
 
 [Läs grundarens berättelse: Varför jag byggde en app för att bära en mindre sak i mitt huvud →](https://traveldocumentvault.com/sv/blog/)
 
 ## Redo när du behöver dem
 
-- **På flygplatsen:** Dra upp pass, ID och reseuppgifter för hela familjen på sekunder.
+- **På flygplatsen:** Dra upp pass, ID och reseuppgifter för hela familjen (Pro) på sekunder.
 - **Fylla formulär:** Passnummer, ID-detaljer, försäkringsinformation. Alltid till hands.
 - **Visumansökningar:** Exportera dokumentbilder som PDF för utskrift eller delning. Granska och justera bilder innan export.
 
@@ -88,7 +88,7 @@ Byggd för familjer som reser överallt.
 
 Pro
 
-Beredskapstrafikljus för familjen. Se vem som är redo att resa och vems dokument som snart upphör.
+Beredskapstrafikljus för familjen. Se vilka länkade dokument som behöver ses över mot dina sparade resdatum.
 
 ### Din molnlagring. Din nyckel.
 
@@ -100,7 +100,7 @@ Krypterad säkerhetskopia i ditt iCloud eller Google Drive. Du håller återstä
 
 Pro
 
-Logga dagar som tillbringats i vilket land som helst per familjemedlem. Ställ in anpassade daggränsmål och vet exakt var du står.
+Logga dagar som tillbringats i vilket land som helst per familjemedlem. Jämför dina sparade resdagar med de dagsgränser du anger för landet.
 
 ### Resekvoter utan matematik
 
@@ -120,7 +120,7 @@ Passvarningar redan 8 månader i förväg
 
 Guider för att rama in pass och ID
 
-### Kombinerade exporter
+### Kombinerade exporter (Pro)
 
 Kombinera dokument till en PDF för utskrift
 
@@ -132,7 +132,7 @@ Tillgänglig på över 40 språk. Appen känns naturlig var du än är.
 
 ### För hela familjen
 
-Du är den som kommer ihåg allt. Den bördan behöver inte vila helt på dig. Organisera makar, barn och morföräldrar på ett säkert ställe.
+Du är den som kommer ihåg allt. Den bördan behöver inte vila helt på dig. Med Pro kan du organisera makar, barn och morföräldrar på ett säkert ställe.
 
 ### Sinnesro på autopilot
 
@@ -154,11 +154,11 @@ English, Español, Français, Deutsch, Italiano, Português (BR), Português (PT
 
 ### Låt appen göra skrivandet
 
-Omedelbar datumdetektering sparar dig från mödosam datainmatning. Snabbt, bekvämt och hållet 100% privat på din telefon.
+Appen försöker läsa utgångsdatumet på din enhet. Bekräfta datumet den hittar eller ange det innan du sparar.
 
 ### Ditt privata valv
 
-Det som händer på din telefon stannar på din telefon. Det finns ingen molnserver involverad och ingen som tittar över din axel.
+Dina dokumentfiler stannar på telefonen om du inte delar eller exporterar dem, eller aktiverar krypterad säkerhetskopiering (Pro). Ingen av våra molnservrar är inblandad och ingen tittar över din axel.
 
 ### Alltid där när du behöver det
 
@@ -179,15 +179,15 @@ Engångsköp. Inga prenumerationer. Inga dolda avgifter. Ingen datainsamling.
 Alltid gratis
 
 - Pass, visum, ID och mer
-- Skanna dokument, datum ifyllda för dig
+- Skanna dokument och bekräfta avlästa utgångsdatum
 - Utgångspåminnelser
 - Dela enskilda dokument
 - PIN + biometriskt lås (Face ID / Touch ID)
 - 1 profil
 - Upp till 5 dokument
-- Nyligen raderat – 30-dagars ångerfönster
+- Nyligen raderad – återställ inom 30 dagar
 
-Alla data stannar på din enhet. Alltid.
+Spara på din enhet. Dela, exportera eller använd molnsäkerhetskopiering med Pro.
 
 Bäst värde
 
@@ -214,15 +214,15 @@ Allt du behöver för ensamresor
 Gratis
 
 - Pass, visum, ID och mer
-- Skanna dokument, datum ifyllda för dig
+- Skanna dokument och bekräfta avlästa utgångsdatum
 - Utgångspåminnelser
 - Dela enskilda dokument
 - PIN + biometriskt lås (Face ID / Touch ID)
 - 1 profil
 - Upp till 5 dokument
-- Nyligen raderat – 30-dagars ångerfönster
+- Nyligen raderad – återställ inom 30 dagar
 
-Alla data stannar på din enhet. Alltid.
+Spara på din enhet. Dela, exportera eller använd molnsäkerhetskopiering med Pro.
 
 För familjer
 
@@ -250,7 +250,7 @@ Allt i kostnadsfritt plus:
 
 ## Vanliga frågor
 
-Är det verkligen privat? Ja. Allt lagras 100% på din enhet. Vi har ingen åtkomst till dina dokument och det finns ingen molndatabas. Ta inte bara vårt ord för det – [kontrollera själv](https://traveldocumentvault.com/sv/privacy-verification/). Vad händer om jag tappar bort min telefon? Ditt valv lagras på din enhet. Om du byter telefon, återställ med din vanliga telefonbackup. Kan jag synkronisera mellan enheter? Ja. Med Pro, aktivera din molnlagring för att synkronisera ditt krypterade valv till ditt iCloud eller Google Drive. Du håller återställningskoden. Vi har aldrig åtkomst till dina data. Vad är reseplaneringen? Reseplaneringen grupperar familjens dokument efter resa och visar ett beredskapstrafikljus – grönt när alla är klara, gult om någons pass upphör snart. Planera resor tillsammans med självförtroende. [Se alla svar om sekretess och data](https://traveldocumentvault.com/sv/faq/)
+Är det verkligen privat? Ja. Allt lagras 100% på din enhet. Vi har ingen åtkomst till dina dokument och det finns ingen molndatabas. Ta inte bara vårt ord för det – [kontrollera själv](https://traveldocumentvault.com/sv/privacy-verification/). Vad händer om jag tappar bort min telefon? Ditt valv lagras på din enhet. Om du byter telefon, återställ med din vanliga telefonbackup. Kan jag synkronisera mellan enheter? Ja. Med Pro, aktivera din molnlagring för att synkronisera ditt krypterade valv till ditt iCloud eller Google Drive. Du håller återställningskoden. Vi har aldrig åtkomst till dina data. Vad är reseplaneringen? Reseplaneraren (Pro) grupperar familjens dokument efter resa och visar ett beredskapstrafikljus – grönt när inställda dokumentkontroller är godkända, gult när ett länkat dokument behöver ses över. Planera resor tillsammans med självförtroende. [Se alla svar om sekretess och data](https://traveldocumentvault.com/sv/faq/)
 
 **Viktigt:** Travel Document Vault är ett verktyg för personlig organisation för lagring av digitala kopior av dina dokument. **Digitala kopior som lagras i den här appen är INTE giltiga för resa.** Det verifierar inte dokumentets äkthet och ger inte juridisk eller reserådgivning. Bär alltid originaldokument och verifiera alla resekrav hos officiella myndigheter.
 

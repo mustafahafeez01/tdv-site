@@ -67,25 +67,25 @@ Hvis din Google-konto bliver kompromitteret, kan en person med adgang hente dine
 
 ## Mulighed 3: Dedikerede krypterede apps
 
-En dedikeret krypteret app bygget til rejsedokumenter fungerer udelukkende på din enhed og uploader aldrig data til eksterne servere.
+Travel Document Vault gemmer som standard dokumenter på din telefon. Du kan dele eller eksportere kopier eller tage backup til din egen iCloud eller Google Drive med Pro.
 
 ### Sådan fungerer det
 
-Når du tilføjer din paskopi i appen, krypteres den med AES-256 og gemmes udelukkende på din telefon. Appen virker helt offline – ingen konto er nødvendig, ingen server er nødvendig. Hvis du ønsker adgang på tværs af enheder, tager en valgfri Pro-funktion backup af en krypteret kopi til din egen iCloud eller Google Drive, forseglet med en gendannelseskode, som kun du besidder.
+Når du tilføjer din paskopi i appen, krypteres den med AES-256 og gemmes udelukkende på din telefon. Appen virker helt offline – ingen konto er nødvendig, ingen server er nødvendig. Med Pro kan du tage backup af en krypteret kopi til din egen iCloud eller Google Drive og synkronisere den mellem konfigurerede enheder på samme platform. Du skal bruge din gendannelseskode til at gendanne en cloud-backup.
 
 ### Sikkerhedsegenskaber
 
-- **AES-256-kryptering på enheden:** Ja. Data forlader aldrig din telefon.
-- **Kræver konto:** Nej. Ingen konto, ingen server, ingen login.
-- **Cloud-upload:** Nej. Slet ingen.
+- **AES-256-kryptering på enheden:** Ja. Data bliver på din telefon, medmindre du deler eller eksporterer dem eller slår krypteret backup til din egen iCloud eller Google Drive til (Pro).
+- **Kræver konto:** Nej. Ingen TDV-konto eller login; valgfri krypteret backup til din egen iCloud eller Google Drive (Pro) bruger din skykonto.
+- **Cloud-upload:** Valgfri krypteret backup til din egen iCloud eller Google Drive (Pro); du kan også dele eller eksportere kopier.
 - **Virker offline:** Ja, fuldt ud.
 - **Designet til identitetsdokumenter:** Ja. Hele arkitekturen er optimeret til at holde følsomme dokumenter private.
 
 ### Afvejninger
 
-Sikkerhedsfordelene er betydelige: dine pasdata bliver aldrig overført eller gemt på en fjernserver, så de er aldrig tilgængelige for andre, og der er ingen fjernserver at kompromittere, hvis nogen skulle få uautoriseret adgang til appfirmaets systemer. Det betyder, at du bevarer fuld kontrol og ejerskab over dine dokumenter til enhver tid.
+Travel Document Vault gemmer som standard dine dokumenter på din telefon. Deling og eksport er valgfrie, ligesom krypteret backup til din egen iCloud eller Google Drive med Pro.
 
-Ulempen er mindre bekvemmelighed: du kan ikke automatisk tilgå din paskopi på tværs af flere enheder, og hvis du mister telefonen, gendanner appen ikke selv dine dokumenter – du skal gendanne manuelt fra en backup. For de fleste familier, der rejser sammen, er det alligevel tilstrækkeligt at opbevare dokumenter på én forælders telefon, og mange apps understøtter manuel synkronisering via backup, hvilket giver ekstra fleksibilitet uden at kræve automatisk cloud-upload.
+Med Pro kan du synkronisere dokumenter mellem konfigurerede enheder på samme platform. Hvis du mister telefonen, kan du gendanne en gemt backup. Gendannelse fra skyen kræver din gendannelseskode. For de fleste familier, der rejser sammen, er det alligevel tilstrækkeligt at opbevare dokumenter på én forælders telefon, og mange apps understøtter manuel synkronisering via backup, hvilket giver ekstra fleksibilitet uden at kræve automatisk cloud-upload.
 
 ## Direkte sammenligning
 
@@ -95,8 +95,8 @@ Ulempen er mindre bekvemmelighed: du kan ikke automatisk tilgå din paskopi på 
 | Ende-til-ende-krypteret | Valgfrit (Avanceret databeskyttelse) | Nej | Ja (altid) |
 | Kræver konto | Ja (Apple-ID) | Ja (Google-konto) | Nej |
 | Virker fuldt offline | Nej (kræver synkronisering) | Nej (kræver synkronisering) | Ja |
-| Risiko for fjernbrud | Middel (Apples servere) | Middel til høj (Googles servere + indholdsscanning) | Ingen (ingen fjernlagring) |
-| Adgang på tværs af enheder | Automatisk | Automatisk | Kun manuel backup |
+| Risiko for fjernbrud | Middel (Apples servere) | Middel til høj (Googles servere + indholdsscanning) | Valgfri krypteret backup til din egen iCloud eller Google Drive (Pro) |
+| Adgang på tværs af enheder | Automatisk | Automatisk | Manuel eksport af hvælving; valgfri automatisk cloud-backup og synkronisering (Pro) |
 | Pris | Gratis (200 GB), derefter betalt | Gratis (15 GB), derefter betalt | Typisk et engangskøb, intet abonnement |
 | Designet til identitetsdokumenter | Nej | Nej | Ja |
 
@@ -130,7 +130,7 @@ Google Photos er ikke ende-til-ende-krypteret som standard. Google indekserer og
 
 ### Hvad er fordelene ved en dedikeret krypteret app til opbevaring af pas?
 
-En dedikeret krypteret app, der er bygget specifikt til rejsedokumenter, gemmer typisk data lokalt på enheden med AES-256-kryptering, kræver hverken konto eller cloud-upload, virker offline og har en langt mindre sårbarhedsflade. Fordi dine pasoplysninger aldrig forlader telefonen, er der ingen fjernserver at bryde ind i. Ulempen er mindre bekvemmelighed ved adgang på tværs af enheder, men for sikkerhedsbevidste brugere er det den mest sikre opbevaringsmetode, der findes.
+Travel Document Vault krypterer dine originale dokumentfiler med AES-256 og lader dig se dem offline uden en appkonto. Du kan dele eller eksportere kopier. Pro tilføjer valgfri krypteret backup til din egen iCloud eller Google Drive samt synkronisering mellem konfigurerede enheder på samme platform.
 
 ### Kan jeg bruge flere opbevaringsmetoder til det samme pas?
 

@@ -10,16 +10,16 @@ Source: https://traveldocumentvault.com/pt/accessibility/
 
 ### Suporte VoiceOver
 
-Cada ecrã no Travel Document Vault é completamente narrado com VoiceOver. Navegue, digitalize documentos, defina lembretes e gira o seu cofre usando gestos, teclado, braille e saída de fala.
+Travel Document Vault foi concebida para funcionar com VoiceOver. A aplicação inclui etiquetas de acessibilidade e anúncios para leitores de ecrã.
 
-- Etiquetas descritivas para todos os elementos interativos
+- Etiquetas descritivas para elementos interativos
 - Hierarquia de títulos apropriada para navegação fácil
 - Descrições significativas de botões e controlos
 - Anúncios de estado para mudanças importantes
 
 ### Texto Maior (Tipo Dinâmico)
 
-Todo o texto na aplicação escala com as suas preferências de tamanho de texto do sistema. Aumente o tamanho do texto até 200% ou mais, e o layout da aplicação adapta-se automaticamente.
+O texto da aplicação acompanha as preferências de tamanho de texto do sistema. Os limites de ampliação variam consoante o elemento.
 
 Ajuste o tamanho do texto em **Definições → Acessibilidade → Ecrã e Tamanho do Texto → Texto Maior** no seu dispositivo.
 
@@ -27,17 +27,17 @@ Ajuste o tamanho do texto em **Definições → Acessibilidade → Ecrã e Taman
 
 Travel Document Vault suporta os modos Claro e Escuro. A aplicação corresponde automaticamente à aparência do seu sistema ou pode definir o seu tema preferido nas Definições.
 
-Opções: **Sistema (Automático)**, **Claro**, ou **Escuro**.
+Opções: **Automático (Sistema)**, **Claro**, ou **Escuro**.
 
 ### Contraste Suficiente
 
-Todo o texto e elementos interativos cumprem os padrões de contraste WCAG AAA (4.5:1 para texto normal, 3:1 para texto grande). As cores de elevado contraste garantem legibilidade em todas as condições de iluminação.
+As cores predefinidas do texto foram escolhidas para oferecer um contraste legível. As cores de elevado contraste ajudam a ler em ambientes com muita ou pouca luz.
 
-O nosso sistema de cores fornece rácios de contraste 15:1+ para texto principal em temas claro e escuro.
+O texto principal tem um contraste forte sobre os fundos predefinidos dos temas claro e escuro.
 
-### Diferenciar Sem Apenas Cor
+### O estado não depende apenas da cor
 
-Informações importantes nunca são transmitidas apenas por cor. Os indicadores de estado utilizam ícones, formas e etiquetas de texto além da cor.
+O estado dos documentos nunca é indicado apenas pela cor. Os indicadores de estado utilizam ícones, formas e etiquetas de texto além da cor.
 
 - Marcas de seleção verdes para documentos válidos (não apenas cor verde)
 - Ícones de aviso para documentos a expirar (não apenas cor amarela/laranja)
@@ -45,7 +45,7 @@ Informações importantes nunca são transmitidas apenas por cor. Os indicadores
 
 ### Movimento Reduzido
 
-Todas as animações e efeitos de movimento respeitam a sua preferência de Reduzir Movimento. Quando ativado, as animações são minimizadas ou removidas para prevenir enjoos e desconforto.
+Algumas animações respeitam a preferência Reduzir Movimento. Quando está ativada, as animações compatíveis são reduzidas ou removidas.
 
 Ative em **Definições → Acessibilidade → Movimento → Reduzir Movimento** no seu dispositivo.
 
@@ -53,19 +53,15 @@ Ative em **Definições → Acessibilidade → Movimento → Reduzir Movimento**
 
 Alvo Tátil de 44pt
 
-Todos os elementos interativos cumprem o tamanho de alvo tátil mínimo de 44pt da Apple para toque fácil.
-
-Navegação por Teclado
-
-Navegue toda a aplicação usando um teclado ligado ao seu dispositivo.
+Os estilos partilhados dos controlos visam áreas de toque de 44pt no iOS e 48dp no Android; alguns controlos são mais pequenos.
 
 Fontes Legíveis
 
-Fontes do sistema otimizadas para legibilidade em todos os tamanhos.
+Fontes do sistema com tamanhos de texto definidos para os diferentes elementos.
 
 Mensagens de Erro Claras
 
-Estados de erro são anunciados ao VoiceOver e apresentados com texto claro e acionável.
+As principais mensagens de erro, como um formulário que ainda não pode ser guardado, são anunciadas ao VoiceOver e apresentadas com texto claro que indica como proceder.
 
 ## Estamos Sempre a Melhorar
 

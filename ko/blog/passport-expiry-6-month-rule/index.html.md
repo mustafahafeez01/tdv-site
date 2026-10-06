@@ -64,7 +64,7 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/
 
 항상 IATA Travel Centre를 사용하여 특정 요구사항을 확인하십시오. 이것은 항공사가 실시간으로 승객 서류를 확인하는 데 사용하는 시스템입니다.
 
-**Travel Document Vault**는 여행이 끝나는 시점에 유효기간이 6개월 미만으로 남는 여권이 있으면 가족 구성원 전원에 대해 자동으로 표시해 드립니다. [App Store에서 다운로드하세요.](https://apps.apple.com/kr/app/travel-document-vault/id6757014877?ct=blog&mt=8) [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog)에서도 받을 수 있습니다.
+**Travel Document Vault**는 Pro에서 연결된 여권을 저장된 여행 종료일 이후 기본 180일의 여유 기간과 대조합니다. 별도의 유효기간 여유를 설정하면 그 값을 적용합니다. 목적지의 실제 유효기간 규정은 따로 확인하십시오. [App Store에서 다운로드하세요.](https://apps.apple.com/kr/app/travel-document-vault/id6757014877?ct=blog&mt=8) [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog)에서도 받을 수 있습니다.
 
 ## 6개월 규칙이 적용되지 않는 경우
 
@@ -104,7 +104,7 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/
 
 어떤 여행이든 목적지를 떠나는 날로부터 6개월을 앞으로 계산하십시오. 이는 더 늦은 날짜이므로 규칙의 어느 버전도 만족시킵니다. 단순히 여행 날짜가 아니라 그 날짜를 기준으로 여권 만료를 확인하십시오.
 
-서로 다른 만료 날짜를 가진 가족 전체에 걸쳐 여러 여권을 관리하는 것은 복잡합니다. [Travel Document Vault](https://traveldocumentvault.com/ko)는 이것을 자동으로 추적합니다. 각 가족 구성원의 여권 만료를 저장하고 만료 8개월 전부터 알림을 보내며 만료일이 가까워지면 다시 알려줍니다. 모든 예약 전에 직접 계산할 필요가 없습니다. 또한 블로그에서 더 많은 실용적인 [여행 서류 팁](https://traveldocumentvault.com/ko/)을 찾을 수 있습니다.
+서로 다른 만료 날짜를 가진 가족 전체에 걸쳐 여러 여권을 관리하는 것은 복잡합니다. [Travel Document Vault](https://traveldocumentvault.com/ko)는 여권 만료일을 추적하며 Pro로 온 가족을 추가할 수 있습니다. 여권 알림은 기본으로 만료 8개월 전부터 시작되고 만료일이 가까워지면 반복됩니다. 예약 전에 목적지의 유효기간 규정을 확인하십시오. 또한 블로그에서 더 많은 실용적인 [여행 서류 팁](https://traveldocumentvault.com/ko/)을 찾을 수 있습니다.
 
 ## 여행 전 요구사항 확인에 대한 참고
 
@@ -144,7 +144,7 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/
 
 ### 내 여권이 6개월 규칙을 충족하는지 확인하려면 어떻게 합니까?
 
-목적지를 떠나는 날로부터 6개월을 앞으로 계산한 다음 여권이 그 날짜 이후에 만료되는지 확인하십시오. 이는 각국이 사용하는 두 기준일 중 더 늦은 날짜이므로 어느 쪽도 만족시킵니다. 8월 1일에 출국하면 여권은 최소한 다음 해 2월 1일까지 유효해야 합니다. Travel Document Vault 같은 앱이 모든 가족 구성원을 위해 자동으로 추적하므로 매 여행 전에 계산할 필요가 없습니다.
+목적지를 떠나는 날로부터 6개월을 앞으로 계산한 다음 여권이 그 날짜 이후에 만료되는지 확인하십시오. 이는 각국이 사용하는 두 기준일 중 더 늦은 날짜이므로 어느 쪽도 만족시킵니다. 8월 1일에 출국하면 여권은 최소한 다음 해 2월 1일까지 유효해야 합니다. Pro에서는 Travel Document Vault가 연결된 여권을 저장된 여행 종료일 이후 기본 180일의 여유 기간과 대조합니다. 별도의 유효기간 여유를 설정하면 그 값을 적용합니다. 목적지의 실제 규정은 따로 확인하십시오. 180일이 항상 달력상 6개월과 같지는 않습니다.
 
 ### 유럽 여행에 여권 유효기간이 6개월 필요합니까?
 
@@ -152,7 +152,7 @@ Source: https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/
 
 ### 한 가족 구성원의 여권은 규칙을 충족하지만 다른 구성원의 여권은 충족하지 않으면 어떻게 됩니까?
 
-각 가족 구성원의 여권은 개별적으로 평가됩니다. 그룹 규칙은 없습니다. 이는 한 여권이 6개월 요구사항을 충족할 수 있지만 다른 여권은 부족할 수 있으므로 그 사람이 여행하지 못하는 상황이 발생할 수 있습니다. 예약 전에 목적지의 유효기간 요구사항에 대해 그룹의 모든 여권을 확인하십시오. Travel Document Vault 같은 앱이 각 가족 구성원의 여권 만료를 따로 추적하므로 체크인이 발견하기 전에 이 격차를 발견할 수 있습니다.
+각 가족 구성원의 여권은 개별적으로 평가됩니다. 그룹 규칙은 없습니다. 이는 한 여권이 6개월 요구사항을 충족할 수 있지만 다른 여권은 부족할 수 있으므로 그 사람이 여행하지 못하는 상황이 발생할 수 있습니다. 예약 전에 목적지의 유효기간 요구사항에 대해 그룹의 모든 여권을 확인하십시오. Travel Document Vault는 여권 만료일을 추적하며 Pro로 가족 구성원을 추가할 수 있습니다. 예약 전에 각 만료일을 목적지 규정과 대조하십시오.
 
 ### 여권이 3개월 후에 만료되어도 여행할 수 있나요?
 

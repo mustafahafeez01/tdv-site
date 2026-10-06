@@ -30,9 +30,9 @@ Du behöver inte tro på oss. Du kan bekräfta alla påståenden ovan med kostna
 
 ### 1. Nätverkstrafiktest
 
-Installera en nätverksövervakare som **mitmproxy** (gratis, öppen källkod), **Wireshark** (gratis, öppen källkod) eller **Charles Proxy**. Öppna Travel Document Vault, skanna ett dokument, bläddra i ditt valv och ställ in en påminnelse. Du ska inte se att dina dokument, skanningar, utgångsdatum eller valvinnehåll skickas till Travel Document Vault. Nätverkstrafiken bör vara begränsad till specifika funktioner: valfri kraschrapportering via Sentry, köpverifieringar via App Store eller Google Play, valfri molnsäkerhetskopiering till ditt eget iCloud- eller Google Drive-konto, och en manuell kontroll av felkorrigeringar som förklaras nedan.
+Installera en nätverksövervakare som **mitmproxy** (gratis, öppen källkod), **Wireshark** (gratis, öppen källkod) eller **Charles Proxy**. Öppna Travel Document Vault, skanna ett dokument, bläddra i ditt valv och ställ in en påminnelse. Du ska inte se att dina dokument, skanningar, utgångsdatum eller valvinnehåll skickas till Travel Document Vault. Nätverkstrafiken bör vara begränsad till specifika funktioner: valfri kraschrapportering via Sentry, köpverifieringar via App Store eller Google Play, valfri molnsäkerhetskopiering till ditt eget iCloud- eller Google Drive-konto, och en kontroll av felkorrigeringar som förklaras nedan.
 
-Inställningar har en knapp för **Check for Updates**. Det är en manuell kontroll, aldrig automatisk – den körs bara när du själv trycker på den, aldrig i bakgrunden och aldrig av sig själv. Kontrollen kontaktar **updates.traveldocumentvault.com** – vår egen uppdateringsserver, som drivs av oss på Google Cloud och som tillhandahåller kryptografiskt signerade uppdateringsfiler från en lagringsbucket. Vi registrerar inte kontrollen: förfrågningsloggar är inaktiverade på vår sida, så inga IP-adresser lagras. Varje uppdatering är signerad med en nyckel som bara vi har, och appen avvisar allt vars signatur inte motsvarar det certifikat som är inbyggt i den. Samma tryck kontrollerar också om en nyare version av appen finns på **App Store** eller **Google Play**. Funktionen finns så att vissa felkorrigeringar kan nå dig snabbare än att vänta på en helt ny release i App Store eller Google Play, användbart för brådskande korrigeringar, beroende på typ av korrigering. Samma regel som för allt annat på den här sidan gäller: inget nätverksanrop utan att du begär det.
+Inställningar har en knapp för **Sök efter uppdateringar**. Kontrollen är avstängd som standard: den körs när du trycker på knappen, eller en gång per appstart om du aktiverar Sök efter uppdateringar vid öppning. En pågående nedladdning kan fortsätta när appen går till bakgrunden. Kontrollen kontaktar **updates.traveldocumentvault.com** – vår egen uppdateringsserver, som drivs av oss på Google Cloud och som tillhandahåller kryptografiskt signerade uppdateringsfiler från en lagringsbucket. Uppdateringshanteraren skriver inga förfrågningsloggar för applikationen. Varje uppdatering är signerad med en nyckel som bara vi har, och appen avvisar allt vars signatur inte motsvarar det certifikat som är inbyggt i den. Samma tryck kontrollerar också om en nyare version av appen finns på **App Store** eller **Google Play**. Funktionen finns så att vissa felkorrigeringar kan nå dig snabbare än att vänta på en helt ny release i App Store eller Google Play, användbart för brådskande korrigeringar, beroende på typ av korrigering. Dokumentlagring kräver inget nätverk; köpverifieringar och aktiverade valfria funktioner kan göra automatiska nätverksanrop.
 
 ### 2. iOS App Privacy Report
 
@@ -42,7 +42,7 @@ På iPhone går du till **Inställningar > Integritet och säkerhet > Integritet
 
 Android har ingen enda inbyggd integritetsrapport som iPhone. Två enkla sätt att kontrollera själv: titta på appens egen **Data Safety**-sektion på dess Google Play-sida (den anger tydligt vad som samlas in, vad som delas, att dina data krypteras under överföring och att de inte kan raderas) – eller använd en nätverksövervakare enligt beskrivningen i steg 1 ovan.
 
-Om du har aktiverat molnsäkerhetskopiering kan du märka viss aktivitet mot Googles servrar (webbadresser som slutar på **googleapis.com**). Det är förväntat och säkert: det är bara din låsta, krypterade säkerhetskopieringsfil och en inloggningskontroll som skickas direkt till **ditt eget** Google Drive-konto – samma konto du redan använder för foton eller Gmail. Vi ser aldrig, tar aldrig emot och sparar aldrig en kopia någonstans. Bara du har återställningsnyckeln som kan låsa upp den.
+Om du har aktiverat molnsäkerhetskopiering kan du märka viss aktivitet mot Googles servrar (webbadresser som slutar på **googleapis.com**). Dessa anslutningar skickar dina krypterade valvfiler, inloggningskontroller och okrypterade metadata för säkerhetskopian, som enhetsnamn, antal och tidsstämplar, till **ditt eget** Google Drive-konto – samma konto du redan använder för foton eller Gmail. Vi ser aldrig, tar aldrig emot och sparar aldrig en kopia någonstans. Bara du har återställningsnyckeln som kan låsa upp den.
 
 ### 4. App Store och Play Store integritetsetiketter
 
@@ -52,17 +52,17 @@ Apple och Google kräver att utvecklare deklarerar vilka data deras app samlar i
 
 Vi nöjer oss inte med att säga att appen är säker. Vi kontrollerar det, med samma öppna verktyg och offentliga standarder som säkerhetsbranschen använder.
 
-### Vi håller appen mot en offentlig standard
+### Jämför appen med en offentlig standard
 
-Vi granskar Travel Document Vault mot [OWASP Mobile Application Security Verification Standard (MASVS)](https://mas.owasp.org/MASVS/), branschens checklista för hur en mobilapp bör lagra data, använda kryptering, låsas bakom Face ID eller en PIN-kod, och hantera länkar från andra appar. Vem som helst kan läsa standarden och jämföra den med hur appen faktiskt beter sig.
+Du kan jämföra Travel Document Vault med [OWASP Mobile Application Security Verification Standard (MASVS)](https://mas.owasp.org/MASVS/), branschens checklista för hur en mobilapp bör lagra data, använda kryptering, låsas bakom Face ID eller en PIN-kod, och hantera länkar från andra appar. Vem som helst kan läsa standarden och jämföra den med hur appen faktiskt beter sig.
 
-### Vi skannar vår egen kod
+### Analys av källkoden
 
-Innan en version släpps kör vi statisk analys av vår kod med [Semgrep](https://semgrep.dev/), ett öppet källkodsverktyg som flaggar osäkra mönster, till exempel svag kryptering eller osäker datahantering, så att vi kan åtgärda dem tidigt.
+Verktyg för statisk analys, som [Semgrep](https://semgrep.dev/), kan flagga osäkra mönster, till exempel svag kryptering eller osäker datahantering. Detta beskriver en kontrollmetod, inte ett bevis på att varje version har klarat en skanning.
 
-### Vi skannar den färdiga appen
+### Den färdiga appens beteende
 
-Vi granskar också våra publicerade byggen med säkerhetsskanningsverktyg för mobilappar och kontrollerar hur bygget lagrar data, vad det får åtkomst till och hur det är signerat.
+Appen krypterar dokumentfiler på din enhet, och dess uppdateringskonfiguration kräver ett certifikat för kodsignering. Du kan kontrollera nätverksbeteendet med stegen ovan.
 
 ### Har du hittat ett problem? Berätta för oss
 
@@ -88,7 +88,7 @@ iOS och Android
 
 iOS och Android
 
-**Varför vi frågar:** Så att du kan importera ett befintligt foto av ett dokument och så att appen kan exportera krypterade säkerhetskopieringsfiler (.tdvault) när du begär det. På äldre Android-versioner krävs READ_EXTERNAL_STORAGE och WRITE_EXTERNAL_STORAGE. På Android 13+ används READ_MEDIA_IMAGES istället.
+**Varför vi frågar:** Så att du kan importera ett befintligt foto av ett dokument. På Android använder appen systemets fotoväljare, så READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE och READ_MEDIA_IMAGES tas bort från det slutliga bygget. Krypterade säkerhetskopieringsfiler (.tdvault) exporteras via telefonens delningsmeny, som inte kräver lagringsbehörighet.
 
 **Vad vi aldrig gör:** Appen läser bara den bild du väljer. Den skannar aldrig, indexerar aldrig eller bläddrar aldrig igenom ditt fotobibliotek eller filsystem.
 
@@ -104,7 +104,7 @@ iOS och Android
 
 Android
 
-**Varför vi frågar:** För att skicka påminnelser om giltighetstid on-device som du ställer in själv. RECEIVE_BOOT_COMPLETED planerar om dina påminnelser efter en enhetsomstart. WAKE_LOCK säkerställer att påminnelser startas pålitligt även när telefonen sover. VIBRATE följer meddelandesleverans.
+**Varför vi frågar:** För att skicka påminnelser om dokumentens utgångsdatum på din enhet. RECEIVE_BOOT_COMPLETED planerar om dina påminnelser efter en enhetsomstart. WAKE_LOCK stöder aviseringshantering. VIBRATE följer meddelandesleverans.
 
 **Vad vi aldrig gör:** Vi skickar aldrig marknadsförings-, kampanj- eller tredjepartsmeddelanden. Påminnelser schemaläggs helt på din enhet.
 
@@ -112,7 +112,7 @@ Android
 
 Android
 
-**Varför dessa visas:** De behövs för nätverksberoende funktioner: **Sentry-kraschrapportering** (opt-in, inaktiverad som standard), **App Store- eller Google Play-fakturering** för Pro-uppgraderingen, **Pro-molnsäkerhetskopiering** (valfritt), som synkroniserar ditt krypterade valv till ditt eget iCloud eller Google Drive, och den manuella knappen **Check for Updates** i Inställningar (körs bara när du trycker på den). ACCESS_NETWORK_STATE och ACCESS_WIFI_STATE låter dessa funktioner kontrollera om en anslutning är tillgänglig innan de försöker skicka.
+**Varför dessa visas:** De behövs för nätverksberoende funktioner: **Sentry-kraschrapportering** (opt-in, inaktiverad som standard), **App Store- eller Google Play-fakturering** för Pro-uppgraderingen, **Pro-molnsäkerhetskopiering** (valfritt), som synkroniserar ditt krypterade valv till ditt eget iCloud eller Google Drive, och knappen **Sök efter uppdateringar** i Inställningar (körs när du trycker på den, eller vid öppning om du aktiverar det). ACCESS_NETWORK_STATE och ACCESS_WIFI_STATE låter dessa funktioner kontrollera om en anslutning är tillgänglig innan de försöker skicka.
 
 **Vad vi inte gör:** Appen laddar inte upp dina dokument, skanningar, utgångsdatum, foton eller valvinnehåll till Travel Document Vault. Den fungerar helt offline för vanlig dokumentlagring och påminnelser.
 
@@ -122,9 +122,9 @@ Android-appar innehåller bibliotek från tredje part för funktioner som köp i
 
 ### Spela in ljud
 
-Ärvd, aldrig använd
+Ärvd, borttagen
 
-**Varför det visas:** Denna behörighet deklareras av ett bibliotek från tredje part som ingår i versionen (vanligtvis camera eller media-insticksprogram). Det visas i Android-manifestet men utlöses aldrig av vår kod. Appen spelar aldrig in ljud eller video under några omständigheter.
+**Varför det visas:** Denna behörighet deklareras av kamerabiblioteken i bygget. Travel Document Vault tar bort den från det slutliga Android-manifestet, eftersom appen tar stillbilder av dokument och aldrig spelar in ljud eller video.
 
 **Hur du kan bekräfta:** Appen frågar aldrig dig om mikrofontillåtelse. När du kontrollerar enhetsens behörighetshanterare ser du att ljudinspelning inte har getts till Travel Document Vault.
 
@@ -138,7 +138,7 @@ Deklarerad av Flutter-ramverket för utveckling och felsökningsöverlagringar. 
 
 Ärvd
 
-Deklarerad av ett ramverksberoende. Appen detekterar, blockerar eller svarar inte på skärmbilder. Denna behörighet påverkar inte din användning.
+Deklarerad av ett ramverksberoende. Travel Document Vault aktiverar skydd mot skärmbilder och skärminspelning som standard på dokumentskärmar där det stöds. Du kan ändra detta i Inställningar.
 
 ### Behörigheter för badgeantal
 
@@ -156,7 +156,7 @@ Deklarerad av Google Play Billing-biblioteket (för Pro-uppgraderingen) och bibl
 
 Ärvd
 
-Deklarerad av ett ramverksberoende. Appen laddar aldrig ner filer i bakgrunden.
+Deklarerad av ett ramverksberoende. En uppdateringsnedladdning som startats i appen kan fortsätta när appen går till bakgrunden, och iCloud kan hantera filöverföringar via operativsystemet.
 
 ### Behörigheter som vi inte frågar om
 

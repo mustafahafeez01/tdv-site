@@ -67,7 +67,7 @@ Den reelle udfordring ved at styre rejsedokumenter er denne: dit ID-kort og dit 
 
 Det sværeste er, at **ingen af dokumenterne sender dig en påmindelse.** Du forventes at tjekke dem selv. De fleste gør det ikke, før de står ved check-in-skranken, og en medarbejder fortæller dem, at et af dem er for tæt på udløb til at blive accepteret.
 
-Det hjælper at have ét sted for begge dokumenter – et sted, der registrerer hver udløbsdato, når du scanner det, og minder dig om hvert dokument separat, efter den tidsplan der passer til den dokumenttype. Se vores guide om [at opbygge et komplet dokumenttjek før afrejse](https://traveldocumentvault.com/da/blog/travel-document-checklist/) for det fulde overblik over, hvad du bør kontrollere, før du rejser.
+Det hjælper at have ét sted for begge dokumenter – et sted, der gemmer hver udløbsdato og minder dig om hvert dokument separat, efter den tidsplan der passer til den dokumenttype. Se vores guide om [at opbygge et komplet dokumenttjek før afrejse](https://traveldocumentvault.com/da/blog/travel-document-checklist/) for det fulde overblik over, hvad du bør kontrollere, før du rejser.
 
 Start i dag: tag dit ID-kort frem, tjek udløbsdatoen, og se det efter for revner, falmning eller skæv plast. Er det på grænsen, så bestil fornyelsen, før du booker rejsen.
 

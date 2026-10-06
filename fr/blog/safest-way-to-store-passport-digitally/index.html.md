@@ -67,25 +67,25 @@ Si votre compte Google est compromis, quelqu'un ayant accès peut récupérer vo
 
 ## Option 3 : Applications chiffrées dédiées
 
-Une application chiffrée dédiée conçue pour les documents de voyage fonctionne entièrement sur votre appareil et ne télécharge jamais les données sur des serveurs externes.
+Travel Document Vault stocke les documents sur votre téléphone par défaut. Vous pouvez partager ou exporter des copies, ou les sauvegarder sur votre propre iCloud ou Google Drive avec Pro.
 
 ### Comment cela fonctionne
 
-Lorsque vous ajoutez votre scan de passeport à l'application, il est chiffré à l'aide d'AES-256 et stocké entièrement sur votre téléphone. L'application fonctionne complètement hors ligne — aucun compte requis, aucun serveur nécessaire. Si vous souhaitez un accès multi-appareils, une fonctionnalité Pro optionnelle sauvegarde une copie chiffrée sur votre propre iCloud ou Google Drive, scellée avec un code de récupération que seul vous détenez.
+Lorsque vous ajoutez votre scan de passeport à l'application, il est chiffré à l'aide d'AES-256 et stocké entièrement sur votre téléphone. L'application fonctionne complètement hors ligne — aucun compte requis, aucun serveur nécessaire. Avec Pro, vous pouvez sauvegarder une copie chiffrée sur votre propre iCloud ou Google Drive et la synchroniser entre les appareils configurés sur la même plateforme. Votre code de récupération sera nécessaire pour restaurer une sauvegarde cloud.
 
 ### Propriétés de sécurité
 
-- **Chiffrement AES-256 sur l'appareil :** Oui. Les données ne quittent jamais votre téléphone.
-- **Nécessite un compte :** Non. Aucun compte, aucun serveur, aucune connexion.
-- **Téléchargement cloud :** Non. Aucun.
+- **Chiffrement AES-256 sur l'appareil :** Oui. Les données restent sur votre téléphone, sauf si vous les partagez ou les exportez, ou activez la sauvegarde chiffrée sur votre propre iCloud ou Google Drive (Pro).
+- **Nécessite un compte :** Non. Aucun compte ni connexion TDV ; la sauvegarde chiffrée facultative sur votre propre iCloud ou Google Drive (Pro) utilise votre compte cloud.
+- **Téléchargement cloud :** Sauvegarde chiffrée facultative sur votre propre iCloud ou Google Drive (Pro) ; vous pouvez aussi partager ou exporter des copies.
 - **Fonctionne hors ligne :** Oui, entièrement.
 - **Conçu pour les documents d'identité :** Oui. Toute l'architecture est optimisée pour garder les documents sensibles privés.
 
 ### Compromis
 
-Les avantages en matière de sécurité sont importants : vos données de passeport ne sont jamais transmises ou stockées sur un serveur distant, donc elles ne sont jamais accessibles à quelqu'un d'autre, et il n'y a pas de serveur distant à compromettre si quelqu'un accède sans autorisation aux systèmes de la société d'applications. Cela signifie que vous conservez un contrôle et une propriété complets de vos documents à tout moment.
+Travel Document Vault conserve vos documents sur votre téléphone par défaut. Le partage et l’exportation sont facultatifs, tout comme la sauvegarde chiffrée sur votre propre iCloud ou Google Drive avec Pro.
 
-Cependant, cette conception s'accompagne d'une commodité réduite puisque vous ne pouvez pas accéder automatiquement à votre copie de passeport sur plusieurs appareils. Si vous perdez votre téléphone, l'application ne restaurera pas automatiquement vos documents — vous auriez besoin de restaurer manuellement à partir d'une sauvegarde. Pour la plupart des familles voyageant ensemble, stocker les documents sur le téléphone d'un parent est suffisant, et de nombreuses applications prennent en charge la synchronisation manuelle via sauvegarde, ce qui ajoute un niveau de flexibilité sans nécessiter un téléchargement cloud automatique.
+Avec Pro, vous pouvez synchroniser les documents entre les appareils configurés sur la même plateforme. Si vous perdez votre téléphone, restaurez une sauvegarde enregistrée. La restauration cloud nécessite votre code de récupération. Pour la plupart des familles voyageant ensemble, stocker les documents sur le téléphone d'un parent est suffisant, et de nombreuses applications prennent en charge la synchronisation manuelle via sauvegarde, ce qui ajoute un niveau de flexibilité sans nécessiter un téléchargement cloud automatique.
 
 ## Tableau de comparaison direct
 
@@ -95,8 +95,8 @@ Cependant, cette conception s'accompagne d'une commodité réduite puisque vous 
 | Chiffré de bout en bout | Optionnel (Protection avancée des données) | Non | Oui (toujours) |
 | Compte requis | Oui (identifiant Apple) | Oui (compte Google) | Non |
 | Fonctionne complètement hors ligne | Non (synchronisation nécessaire) | Non (synchronisation nécessaire) | Oui |
-| Risque de violation distante | Moyen (serveurs d'Apple) | Moyen-Élevé (serveurs de Google + analyse de contenu) | Aucun (pas de stockage distant) |
-| Accès multi-appareils | Automatique | Automatique | Sauvegarde manuelle uniquement |
+| Risque de violation distante | Moyen (serveurs d'Apple) | Moyen-Élevé (serveurs de Google + analyse de contenu) | Sauvegarde chiffrée facultative sur votre propre iCloud ou Google Drive (Pro) |
+| Accès multi-appareils | Automatique | Automatique | Exportation manuelle du coffre ; sauvegarde cloud et synchronisation automatiques facultatives (Pro) |
 | Coût | Gratuit (200 Go), puis payant | Gratuit (15 Go), puis payant | Généralement un achat unique, sans abonnement |
 | Conçu pour les documents d'identité | Non | Non | Oui |
 
@@ -130,7 +130,7 @@ Google Photos n'est pas chiffré de bout en bout par défaut. Google indexe et s
 
 ### Quels sont les avantages d'une application chiffrée dédiée pour le stockage de passeports ?
 
-Une application chiffrée dédiée conçue spécifiquement pour les documents de voyage stocke généralement les données sur l'appareil en utilisant le chiffrement AES-256, ne nécessite pas de compte ou de téléchargement cloud, fonctionne hors ligne et a une surface de faille beaucoup plus petite. Comme vos données de passeport ne quittent jamais votre téléphone, il n'y a pas de serveur distant à violer. Le compromis est une commodité réduite pour l'accès multi-appareils, mais pour les utilisateurs axés sur la sécurité, c'est la méthode de stockage la plus sûre disponible.
+Travel Document Vault chiffre vos fichiers de documents originaux avec AES-256 et vous permet de les consulter hors ligne sans compte dans l’application. Vous pouvez partager ou exporter des copies. Pro ajoute la sauvegarde chiffrée facultative sur votre propre iCloud ou Google Drive, ainsi que la synchronisation entre les appareils configurés sur la même plateforme.
 
 ### Puis-je utiliser plusieurs méthodes de stockage pour le même passeport ?
 

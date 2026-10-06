@@ -62,7 +62,7 @@ Tabellen er et øjebliksbillede, ikke det fulde overblik: kravene varierer også
 
 Paskrav efter land ændrer sig uden varsel, og en bilateral aftale kan stille og roligt ændre reglerne for netop dit pas, hvilket er grunden til, at det ikke er paranoia at tjekke en opdateret officiel kilde før hver international rejse – det er bare god praksis: brug IATA Travel Centre, det samme system flyselskaberne bruger til at tjekke passagerdokumenter i realtid.
 
-**Travel Document Vault** markerer ethvert pas, der ikke længere har seks måneders gyldighed tilbage, når din rejse slutter – for hvert familiemedlem, automatisk. [Hent fra App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) og [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
+**Travel Document Vault** tjekker med Pro tilknyttede pas med en standardbuffer på 180 dage efter din gemte rejses afslutning, medmindre du angiver en brugerdefineret gyldighedsbuffer. Tjek destinationens faktiske regel separat. [Hent fra App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) og [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
 
 ## Hvornår 6-måneders-reglen ikke gælder
 
@@ -102,7 +102,7 @@ Behandl dit pas som et bildæk, og vent ikke, til det er fladt: forny det, så s
 
 Tæl seks måneder frem fra den dag, du forlader destinationen, før enhver rejse – det er den seneste dato og opfylder dermed begge versioner af reglen. Tjek dit pas' udløbsdato mod den dato – ikke bare dine rejsedatoer.
 
-At holde styr på flere pas i en familie med forskellige udløbsdatoer er der, hvor det bliver rodet. Travel Document Vault sporer det automatisk – gemmer hvert familiemedlems pasudløb og sender påmindelser fra otte måneder før, og igen efterhånden som datoen nærmer sig, så der ikke er nogen hovedregning før hver booking. Du kan også finde flere praktiske tips om rejsedokumenter på [bloggen](https://traveldocumentvault.com/da/blog/).
+At holde styr på flere pas i en familie med forskellige udløbsdatoer er der, hvor det bliver rodet. Travel Document Vault holder styr på dit pasudløb, og du kan tilføje hele familien med Pro. Paspåmindelser starter som standard otte måneder før udløb og gentages, efterhånden som datoen nærmer sig. Tjek destinationens gyldighedsregel, før du booker. Du kan også finde flere praktiske tips om rejsedokumenter på [bloggen](https://traveldocumentvault.com/da/blog/).
 
 ## En bemærkning om at tjekke krav, før du rejser
 
@@ -142,7 +142,7 @@ Ja. Flyselskaber tjekker pasgyldighed ved hjælp af en brancheomfattende databas
 
 ### Hvordan tjekker jeg, om mit pas overholder 6-måneders-reglen?
 
-Tæl seks måneder frem fra den dag, du forlader destinationen, og tjek derefter, om dit pas udløber efter den dato. Det er den seneste af de to datoer, lande bruger, så den dækker begge tilfælde. Skal du rejse den 1. august, skal passet være gyldigt til mindst den 1. februar året efter. Apps som Travel Document Vault sporer det automatisk for hvert familiemedlem, så du ikke selv skal regne det ud før hver rejse.
+Tæl seks måneder frem fra den dag, du forlader destinationen, og tjek derefter, om dit pas udløber efter den dato. Det er den seneste af de to datoer, lande bruger, så den dækker begge tilfælde. Skal du rejse den 1. august, skal passet være gyldigt til mindst den 1. februar året efter. Med Pro tjekker Travel Document Vault tilknyttede pas med en standardbuffer på 180 dage efter din gemte rejses afslutning, medmindre du angiver en brugerdefineret gyldighedsbuffer. Tjek destinationens faktiske regel separat; 180 dage er ikke altid seks kalendermåneder.
 
 ### Skal jeg have seks måneders gyldighed på mit pas for at rejse til Europa?
 
@@ -150,7 +150,7 @@ Nej, men du skal bruge mere end blot opholdets varighed. Det britiske udenrigsmi
 
 ### Hvad hvis ét familiemedlems pas overholder reglen, men et andets ikke gør?
 
-Hvert familiemedlems pas vurderes individuelt – der findes ingen gruppregel. Det betyder, at ét pas kan opfylde 6-måneders-kravet, mens et andet ikke gør, hvilket potentielt kan forhindre den person i at rejse. Tjek hvert pas i gruppen mod destinationens gyldighedskrav, før I booker. Apps som Travel Document Vault lader dig spore hvert familiemedlems pasudløb separat, så du fanger den slags huller, før indtjekningen gør.
+Hvert familiemedlems pas vurderes individuelt – der findes ingen gruppregel. Det betyder, at ét pas kan opfylde 6-måneders-kravet, mens et andet ikke gør, hvilket potentielt kan forhindre den person i at rejse. Tjek hvert pas i gruppen mod destinationens gyldighedskrav, før I booker. Travel Document Vault holder styr på dit pasudløb, og du kan tilføje hvert familiemedlem med Pro. Tjek deres datoer op mod destinationens regel, før I booker.
 
 ### Kan jeg rejse, hvis mit pas udløber om 3 måneder?
 

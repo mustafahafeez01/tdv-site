@@ -1,6 +1,6 @@
 # Mengapa Saya Membangun Travel Document Vault: Untuk Orang Tua yang Selalu Ingat Segalanya
 
-> Mengapa saya membangun Travel Document Vault setelah memeriksa paspor pukul 3 pagi, dan mengapa semuanya tetap di perangkat Anda sendiri.
+> Mengapa saya membangun Travel Document Vault setelah memeriksa paspor pukul 3 pagi, dan mengapa dokumen disimpan di perangkat Anda sendiri secara default.
 
 Source: https://traveldocumentvault.com/id/blog/why-i-built-travel-document-vault/
 
@@ -48,13 +48,13 @@ Dan harus bisa bekerja offline. Karena saya akan berada di bandara, atau terjeba
 
 ## Maka saya membangun tepat apa yang saya butuhkan
 
-Travel Document Vault melakukan satu hal: meletakkan segalanya di satu tempat, sehingga Anda tidak perlu memikirkannya lagi sampai aplikasi memberitahu Anda.
+Travel Document Vault menyimpan dokumen dan tanggal kedaluwarsa Anda di satu tempat, dengan pengingat untuk membantu merencanakan perpanjangan.
 
-Scan dokumen sekali. Aplikasi membaca tanggal kedaluwarsa (Anda memverifikasinya). Pengingat dijadwalkan secara otomatis: enam bulan sebelumnya, kemudian tiga bulan, enam minggu, satu bulan, dua minggu, hingga sehari sebelum kedaluwarsa.
+Scan dokumen sekali. Aplikasi mencoba membaca tanggal kedaluwarsa; konfirmasi atau masukkan secara manual. Pengingat aktif secara default saat Anda menyimpan tanggal kedaluwarsa. Pengingat paspor dimulai delapan bulan sebelumnya, lalu enam bulan, tiga bulan, enam minggu, satu bulan, dua minggu, hingga hari kedaluwarsa.
 
-Satu profil per anggota keluarga. Setiap dokumen di satu tempat. Ketika Anda perlu memeriksa apakah Anda bisa bepergian, Anda membuka aplikasi dan langsung tahu. Seketika itu juga. Bukan "mungkin" atau "sepertinya iya", **Anda benar-benar tahu**.
+Tambahkan seluruh keluarga dengan Pro, dengan profil untuk setiap orang. Sebelum perjalanan, Anda bisa **meninjau dokumen dan tanggal kedaluwarsa keluarga yang tersimpan**.
 
-Ketika hotel meminta salinan paspor Anda, kedutaan membutuhkan data Anda, atau meja rental mobil ingin melihat SIM Anda, Anda membagikannya dengan satu ketukan. Tidak perlu mencari-cari. Tidak perlu Wi-Fi. Semuanya bersama, tepat di sana.
+Ketika hotel meminta salinan paspor Anda, kedutaan membutuhkan data Anda, atau meja rental mobil ingin melihat SIM Anda, Anda bisa membuka menu berbagi dan memilih cara mengirimkannya. Melihat salinan yang tersimpan bisa dilakukan secara offline; email dan pesan memerlukan koneksi.
 
 Itulah keuntungan sesungguhnya: Anda mendapatkan kembali ruang pikiran Anda. Beban mental tak kasat mata, dengungan rendah yang terus-menerus "apakah saya melupakan sesuatu?", hilang. Aplikasi yang mengingat sehingga Anda tidak perlu melakukannya.
 
@@ -81,10 +81,10 @@ Sejak awal, saya membuat keputusan tegas: dokumen Anda adalah milik Anda, dan te
 Travel Document Vault bersifat mandiri:
 
 - Tidak ada akun yang perlu dibuat
-- Tidak ada unggahan ke server
+- Cadangan cloud terenkripsi opsional (Pro)
 - Terenkripsi di perangkat Anda
 
-Ketika Anda men-scan dokumen, pengenalan teks berjalan di perangkat Anda. Segalanya tetap di ponsel Anda. **Tidak ada yang diunggah ke server mana pun.**
+Ketika Anda men-scan dokumen, pengenalan teks berjalan di perangkat Anda. Dokumen tetap di ponsel secara default; **cadangan terenkripsi opsional (Pro) menyimpan salinan ke iCloud atau Google Drive Anda sendiri.** Anda juga bisa mengekspor atau membagikan salinan.
 
 Ada orang yang menginginkan aplikasi yang tersinkronisasi di mana-mana. Untuk paspor dan KTP, saya menginginkan model yang lebih sederhana: ponsel Anda adalah vault-nya. Anda bisa mengekspor salinan Anda kapan pun dibutuhkan. Itu milik Anda, bagaimanapun juga.
 
@@ -94,9 +94,9 @@ Vault dokumen perjalanan adalah sesuatu yang Anda siapkan sekali dan lupakan. Ia
 
 Langganan tidak masuk akal untuk itu. Jika saya berhenti membayar, saya harus mengekspor semuanya, mencari aplikasi lain, memindahkan dokumen saya, membangun ulang semua pengingat saya. Dan jika saya lupa memperbarui? Saya kehilangan akses tepat saat paling membutuhkannya, berdiri di konter check-in menyadari kedaluwarsa paspor anak saya tinggal empat bulan lagi dan saya tidak bisa mengakses scan yang sudah saya simpan.
 
-Ketika Anda membeli aplikasi ini, itu milik Anda. Dokumen tetap di perangkat Anda. Pengingat terus bekerja. Tidak ada pembaruan langganan. Tidak ada ekspor. Tidak ada keterikatan. Ia hanya bekerja, diam-diam di latar belakang, sampai Anda membutuhkannya.
+Dokumen yang tersimpan dan pengingat Anda bekerja dalam versi gratis. Pro menambahkan profil dan dokumen tak terbatas melalui pembelian sekali bayar, sehingga tidak ada langganan yang perlu diperpanjang.
 
-Versi gratis memberi Anda satu profil, lima dokumen, OCR, pengingat, dan kunci PIN. Pro membuka profil dan dokumen tak terbatas dengan satu kali pembayaran. Bayar sekali, semua pembaruan v1.x disertakan, selamanya. Hanya itu.
+Versi gratis memberi Anda satu profil, lima dokumen, deteksi tanggal otomatis, pengingat, dan kunci PIN. Pro membuka profil dan dokumen tak terbatas dengan satu kali pembayaran. Bayar sekali, semua pembaruan v1.x disertakan, selamanya. Hanya itu.
 
 [Tentang kebijakan versi kami →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -110,7 +110,7 @@ Jika Anda adalah orang dalam keluarga yang memeriksa segalanya dua kali, menyimp
 
 **Satu hal yang tidak perlu dikhawatirkan lagi.**
 
-Dibangun untuk penggunaan pribadi terlebih dahulu. Tanpa akun. Tanpa unggahan ke server.
+Dibangun untuk penggunaan pribadi terlebih dahulu. Tanpa akun. Cadangan cloud terenkripsi opsional (Pro).
 
 Mustafa
 

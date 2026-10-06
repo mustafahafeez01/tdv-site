@@ -1,6 +1,6 @@
 # Warum ich Travel Document Vault entwickelt habe: Für Eltern, die an alles denken
 
-> Warum ich Travel Document Vault nach einer Passkontrolle um 3 Uhr morgens entwickelt habe, und warum alles auf Ihrem eigenen Gerät bleibt.
+> Warum ich Travel Document Vault nach einer Passkontrolle um 3 Uhr morgens entwickelte und warum die App Dokumente standardmäßig auf Ihrem Gerät speichert.
 
 Source: https://traveldocumentvault.com/de/blog/why-i-built-travel-document-vault/
 
@@ -48,13 +48,13 @@ Und es musste offline funktionieren. Denn ich wäre am Flughafen oder in einer H
 
 ## Also habe ich genau das entwickelt, was ich brauchte
 
-Travel Document Vault macht eine Sache: alles an einem Ort zusammenbringen, sodass Sie nie wieder daran denken müssen – bis die App es Ihnen sagt.
+Travel Document Vault bringt Ihre gespeicherten Dokumente und Ablaufdaten an einem Ort zusammen, mit Erinnerungen, die Ihnen helfen, Erneuerungen zu planen.
 
-Scannen Sie ein Dokument einmal. Die App liest das Ablaufdatum (Sie überprüfen es). Erinnerungen werden automatisch eingeplant: sechs Monate vorher, dann drei Monate, sechs Wochen, ein Monat, zwei Wochen – bis zum Tag vor dem Ablauf.
+Scannen Sie ein Dokument einmal. Die App versucht, das Ablaufdatum auszulesen; bestätigen Sie es oder geben Sie es manuell ein. Erinnerungen sind standardmäßig aktiviert, wenn Sie ein Ablaufdatum speichern. Pass-Erinnerungen beginnen acht Monate vor Ablauf, dann folgen sechs Monate, drei Monate, sechs Wochen, ein Monat, zwei Wochen – bis zum Ablauftag.
 
-Ein Profil pro Familienmitglied. Alle Dokumente an einem Ort. Wenn Sie prüfen möchten, ob Sie reisefähig sind, öffnen Sie die App – und wissen es. Sofort. Nicht „wahrscheinlich" oder „ich glaube schon" – **Sie wissen es tatsächlich**.
+Fügen Sie die ganze Familie mit Pro hinzu, mit einem Profil für jede Person. Vor einer Reise können Sie **die gespeicherten Dokumente und Ablaufdaten der Familie prüfen**.
 
-Wenn ein Hotel Ihre Reisepasskopie verlangt, eine Botschaft Ihre Daten braucht oder der Autovermieter Ihren Führerschein sehen möchte, teilen Sie ihn mit einem Tipp. Kein Suchen. Kein WLAN nötig. Alles zusammen, direkt zur Hand.
+Wenn ein Hotel Ihre Reisepasskopie verlangt, eine Botschaft Ihre Daten braucht oder der Autovermieter Ihren Führerschein sehen möchte, können Sie das Teilen-Menü öffnen und wählen, wie Sie die Kopie senden. Gespeicherte Kopien können Sie offline ansehen; E-Mail und Nachrichten benötigen eine Verbindung.
 
 Das ist der eigentliche Gewinn: Sie bekommen Ihren mentalen Freiraum zurück. Die unsichtbare mentale Last – dieses ständige leise „Habe ich etwas vergessen?" – verschwindet. Die App erinnert sich, damit Sie es nicht müssen.
 
@@ -81,10 +81,10 @@ Früh habe ich eine klare Entscheidung getroffen: Ihre Dokumente gehören Ihnen 
 Travel Document Vault ist in sich geschlossen:
 
 - Keine Kontoerstellung nötig
-- Kein Server-Upload
+- Optionales verschlüsseltes Cloud-Backup (Pro)
 - Auf Ihrem Gerät verschlüsselt
 
-Wenn Sie ein Dokument scannen, läuft die Texterkennung auf Ihrem Gerät. Alles bleibt auf Ihrem Telefon. **Nichts wird auf einen Server hochgeladen.**
+Wenn Sie ein Dokument scannen, läuft die Texterkennung auf Ihrem Gerät. Dokumente bleiben standardmäßig auf Ihrem Telefon; optionale verschlüsselte Backups (Pro) speichern eine Kopie in Ihrem eigenen iCloud oder Google Drive. **Sie können Kopien auch exportieren oder teilen.**
 
 Manche Menschen möchten Apps, die überall synchronisieren. Für Reisepässe und Ausweise wollte ich ein einfacheres Modell: Ihr Telefon ist der Tresor. Sie können Ihre Kopien jederzeit exportieren. Sie gehören Ihnen, schließlich.
 
@@ -94,9 +94,9 @@ Ein Reisedokumenten-Tresor ist etwas, das man einmal einrichtet und dann vergiss
 
 Ein Abonnement ergibt dafür keinen Sinn. Wenn ich aufhöre zu zahlen, müsste ich alles exportieren, eine andere App finden, meine Dokumente migrieren und alle Erinnerungen neu einrichten. Und wenn ich vergesse zu verlängern? Ich verliere den Zugang genau dann, wenn ich ihn am meisten brauche – wenn ich am Check-in steht und bemerke, dass der Reisepass meines Kindes in vier Monaten abläuft und ich keinen Zugriff auf den gespeicherten Scan habe.
 
-Wenn Sie diese App kaufen, gehört sie Ihnen. Dokumente bleiben auf Ihrem Gerät. Erinnerungen funktionieren weiterhin. Keine Verlängerungen. Keine Exporte. Kein Lock-in. Sie funktioniert einfach, still im Hintergrund, bis Sie sie brauchen.
+Ihre gespeicherten Dokumente und Erinnerungen funktionieren in der kostenlosen Version. Pro ergänzt unbegrenzte Profile und Dokumente durch einen einmaligen Kauf, sodass es kein Abonnement zu verlängern gibt.
 
-Die kostenlose Version gibt Ihnen ein Profil, fünf Dokumente, OCR, Erinnerungen und einen PIN-Schutz. Pro schaltet unbegrenzte Profile und Dokumente mit einer einmaligen Zahlung frei. Einmal bezahlen, alle v1.x-Updates inbegriffen, für immer. Das war's.
+Die kostenlose Version gibt Ihnen ein Profil, fünf Dokumente, automatische Datumserkennung, Erinnerungen und einen PIN-Schutz. Pro schaltet unbegrenzte Profile und Dokumente mit einer einmaligen Zahlung frei. Einmal bezahlen, alle v1.x-Updates inbegriffen, für immer. Das war's.
 
 [Zu unserer Versionsrichtlinie →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -110,7 +110,7 @@ Wenn Sie die Person in Ihrer Familie sind, die alles doppelt überprüft, den Or
 
 **Eine Sorge weniger.**
 
-Zunächst für den persönlichen Gebrauch entwickelt. Keine Konten. Kein Server-Upload.
+Zunächst für den persönlichen Gebrauch entwickelt. Keine Konten. Optionales verschlüsseltes Cloud-Backup (Pro).
 
 Mustafa
 

@@ -88,7 +88,7 @@ A one-time purchase app, by contrast, remains fully functional indefinitely. You
 
 ## How Travel Document Vault Approaches This
 
-**Travel Document Vault** takes the privacy-first, offline-first approach described above. Data stays on your device, encrypted with AES-256, and no account is required, though you can optionally back up encrypted data to your own iCloud or Google Drive (Pro feature). It supports multiple travellers and passport and visa expiry tracking, works fully offline, and is available on the App Store as a [one-time purchase, no subscription](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8).
+**Travel Document Vault** stores your documents on your device with AES-256 encryption and no app account. Your saved documents are available offline, as are passport and visa expiry reminders. You can share or export copies, or use encrypted cloud backup to your own iCloud or Google Drive with Pro. Pro also lets you add the whole family. The app is free to download; Pro is a [one-time in-app purchase, no subscription](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8).
 
 ## A Practical Checklist Before You Download
 
@@ -519,7 +519,7 @@ When you need to replace a damaged passport urgently, one thing slows everything
 
 A clear digital photo of your passport helps here. Keep the data page, the front cover and the back cover, and you can hand over your passport number and identity details on the spot instead of hunting for them. This is especially valuable if you are abroad when your passport is damaged and need an emergency travel document from your embassy. Consular officers work faster when they can see a scan of your original passport right in front of them.
 
-Store your digital copies somewhere encrypted and offline, not Google Photos or iCloud shared with others. Travel Document Vault is built for exactly this use case: passport photos encrypted on your device only, accessible instantly if something goes wrong. Scan your passport today, before you need it.
+Store your digital copies somewhere encrypted and offline, not Google Photos or iCloud shared with others. Travel Document Vault stores passport photos encrypted on your device for offline viewing. You can share or export copies, or use encrypted cloud backup with Pro. Scan your passport today, before you need it.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
@@ -672,7 +672,7 @@ Use an encrypted app designed for document storage rather than regular cloud sto
 
 # Encrypted Cloud Backup for Travel Documents: Who Holds the Key
 
-> What encrypted backup really means for passport scans, why a recovery code cannot be reset by anyone, and how to keep a copy you can actually restore.
+> What encrypted backup really means for passport scans, why a recovery code cannot be reset by us, and how to keep a copy you can actually restore.
 
 Source: https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/
 
@@ -684,9 +684,9 @@ Source: https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-docum
 
 - **"Encrypted backup" only means something once you know who holds the key.** If the company can read your documents, the encryption is guarding them from strangers, not from the company.
 - A backup encrypted on your phone before upload reaches the cloud as unreadable data. The storage provider holds ciphertext, not your passport.
-- **No account means no password reset.** Lose the recovery code and the backup cannot be opened by anyone, us included. That is the deliberate trade.
+- **No account means no password reset.** Lose the recovery code and access to every device that can still open the vault and we cannot recover the encrypted backup. That is the deliberate trade.
 - Write the code down before you depend on the backup, keep it away from the phone, and read it back once to check it is legible.
-- A system device backup reinstalls the app but cannot bring your documents back, because the encryption key never left the old phone.
+- A system device backup reinstalls the app but cannot bring your documents back, because system backups do not transfer the device-bound encryption key.
 
 You've scanned four passports, two visas and the children's birth certificates into an app that keeps everything on your phone. Good. Then the obvious worry arrives: what happens when the phone goes in the sea, or gets lifted from a café table in Lisbon.
 
@@ -706,11 +706,11 @@ So the question worth asking of any app is short: **who holds the key?** Everyth
 
 ![Two columns compared side by side: a photo backup arriving in the cloud still readable with the company holding the key, next to an encrypted backup arriving as scrambled blocks with the key staying on the phone](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/encrypted-backup-figure.jpg) Same cloud, different answer. The file goes up either way; what changes is who can open it.
 
-## The Recovery Code, and Why Nobody Can Reset It
+## The Recovery Code, and Why We Can't Reset It
 
-Here is the part most articles skip, and it deserves saying plainly: Travel Document Vault has no accounts. You never gave us an email address, we never set you a password, and there is no record of you on any server we run. When you turn on [cloud backup](https://traveldocumentvault.com/cloud-backup/), the app generates a 24-character recovery code and derives the encryption key from it. The encrypted vault then goes to **your own iCloud** on iPhone and iPad, or **your own Google Drive** on Android, rather than to us.
+Travel Document Vault needs no app account to store documents on your device. Its optional [cloud backup](https://traveldocumentvault.com/cloud-backup/) requires Pro and your recovery code to unlock the cloud encryption key. The app creates this 24-character code when you set your PIN. The encrypted vault then goes to **your own iCloud** on iPhone and iPad, or **your own Google Drive** on Android, rather than to us.
 
-The consequence is unavoidable. If you lose that recovery code, **the backup can never be opened again**. Not by you, not by Apple or Google, and not by us. There is no reset link, because there is no account to attach it to. There is no support ticket that recovers it, because we have never held it and cannot begin to guess it.
+The consequence is unavoidable. If you lose the recovery code and access to every device that can still open the vault, **we cannot recover the encrypted backup**. There is no reset link, because there is no account to attach it to. There is no support ticket that recovers it, because we have never held it and cannot begin to guess it.
 
 That sounds harsh written down, and it is worth being honest about it rather than burying it in a settings screen. It is the same trade you make with a house key: the lock is only worth having because no locksmith on earth keeps a spare, and that is exactly why losing yours is your problem.
 
@@ -742,17 +742,17 @@ Which is why the honest version of "is the cloud safe" is: the cloud is a delive
 
 ## What Goes Into the Backup, and What Stays Behind
 
-The backup carries an encrypted copy of the vault: every profile, every scan, expiry dates, reminders, notes and attachments. Restore it and the app looks the way you left it.
+The backup includes profiles, scans, attachments, expiry dates, notes and reminder history that can move to a new device. The app encrypts them before upload. Restore brings back this vault content; device settings stay separate, and the app rebuilds notifications.
 
-Three things deliberately stay on the phone, and the recovery code comes first: it never leaves the device, which is the whole point. Your app lock stays local too, so Face ID, Touch ID or your PIN keeps other people out of the phone while the encryption keeps them out of the file. And the automatic local snapshots the app takes while you work stay on the device only.
+Three things deliberately stay on the phone, and the recovery code comes first: it is not uploaded with the backup. Your app lock stays local too, so Face ID, Touch ID or your PIN keeps other people out of the app while the encryption keeps them out of the file. And the automatic local snapshots the app takes while you work stay on the device only.
 
-That last one catches people out, so here's the blunt version. **A system-level device backup reinstalls the app but cannot restore your documents.** The encryption key never left the old phone, so the new one has nothing to decrypt with. If you want your vault to survive the phone, you need either cloud backup switched on or an exported file saved somewhere.
+That last one catches people out, so here's the blunt version. **A system-level device backup reinstalls the app but cannot restore your documents.** System backups do not transfer the device-bound encryption key, so the new phone needs cloud restore (Pro) or an exported vault file. If you want your vault to survive the phone, you need either cloud backup switched on or an exported file saved somewhere.
 
-## The Restore Is Short and Won't Overwrite What's Already There
+## Restoring Your Vault, and Starting Fresh Never Touches the Old Backup
 
-The restore is short, which is the point of doing the preparation earlier.
+Restore time depends on your vault size and connection.
 
-Install the app on the new phone and sign in to the same iCloud or Google account you used before. Open Settings, then Cloud Backup, then Restore from Backup, and enter your recovery code. The vault comes back with its profiles, expiry dates and reminders intact.
+Install the app on the new phone and sign in to the same iCloud or Google account you used before. With Pro and cloud backup off on the receiving device, open Settings, Cloud Backup, then Restore from Backup. Choose the existing vault, enter your recovery code and confirm restoration, which replaces local vault content. Profiles, documents and expiry dates are restored; notifications are rebuilt on the receiving device.
 
 The app also checks before it writes. If cloud backup detects an existing backup in that account, it prompts you to choose between restoring and starting fresh. A new phone cannot quietly overwrite what's already there.
 
@@ -760,7 +760,7 @@ The app also checks before it writes. If cloud backup detects an existing backup
 
 Cloud backup stays on one platform, because it uses your own iCloud on Apple devices and your own Google Drive on Android. Going from one to the other needs the other route.
 
-Use Vault Export: Settings, Export Vault produces a single password-protected file containing everything, and you choose where it goes - the Files app, a drive, an email to yourself. On the new phone, Settings, Import Vault reads it back. It works in both directions and keeps names, dates, reminders, colours, notes and attachments as they were.
+Vault Export is free. In Settings, Export vault creates one password-protected file with profiles, documents, trips, supported settings and readable attachments. You choose where to save it: the Files app, a drive or an email to yourself. On the new phone, Settings, Import backup reads it back, replacing whatever is already there. It supports both platforms. Review imported documents, notes and attachments, recheck reminders and keep the original export. Notifications are rebuilt on the receiving device.
 
 That exported file is also the answer for anyone who wants a copy that doesn't depend on a cloud account at all. It's a sensible thing to keep on a drive at home regardless of which phone you carry.
 
@@ -788,23 +788,23 @@ It means the copy is scrambled on your phone before it goes anywhere, using a ke
 
 ### What happens if I lose my backup key?
 
-The backup stays encrypted and nobody can open it, including us. There is no account, no password reset, and no support route that recovers it, because the recovery code never reaches us in the first place. That is the deliberate trade for nobody else being able to read your documents either. Write the code down before you rely on the backup, keep it somewhere separate from your phone, and read it back once to check you can.
+If you lose the recovery code and access to every device that can still open the vault, we cannot recover the encrypted backup. There is no account, no password reset, and no support route that recovers it, because the recovery code never reaches us in the first place. That is the deliberate trade for nobody else being able to read your documents either. Write the code down before you rely on the backup, keep it somewhere separate from your phone, and read it back once to check you can.
 
 ### Is cloud backup safe for passport scans?
 
-It depends entirely on what reaches the cloud. A photo of your passport in a normal photo library or file sync folder arrives readable, and anyone who gets into that account can read it. A backup encrypted on the device before upload arrives as ciphertext, so the storage provider holds something it cannot open. Travel Document Vault encrypts the vault on your phone with AES-256-GCM and sends the encrypted file to your own iCloud or Google Drive rather than to a company server.
+It depends entirely on what reaches the cloud. A photo of your passport in a normal photo library or file sync folder arrives readable, and anyone who gets into that account can read it. A backup encrypted on the device before upload arrives as ciphertext, so the storage provider holds something it cannot open. With Pro, Travel Document Vault encrypts the vault on your phone with AES-256-GCM and sends the encrypted file to your own iCloud or Google Drive rather than to a TDV server.
 
 ### Can I restore my documents on a different phone?
 
-Yes. Install the app on the new phone, sign in to the same iCloud or Google account, then open Settings, Cloud Backup, Restore from Backup and enter your recovery code. Your profiles, documents, expiry dates and reminders come back as they were. Note that a system-level device backup does not do this on its own: it reinstalls the app but cannot decrypt your documents, because the encryption key never leaves your original device.
+Yes, with Pro. Install the app on the new phone and sign in to the same iCloud or Google account. With cloud backup off on the receiving device, open Settings, Cloud Backup, then Restore from Backup. Choose the existing vault, enter your recovery code and confirm restoration, which replaces local vault content. Profiles, documents and expiry dates are restored; notifications are rebuilt on the receiving device. Note that a system-level device backup does not do this on its own: it reinstalls the app but cannot decrypt your documents, because system backups do not transfer the device-bound encryption key.
 
 ### Does the backup work between iPhone and Android?
 
-Cloud backup itself stays on one platform, since it uses your own iCloud on iPhone and iPad and your own Google Drive on Android. To move between them, use Vault Export instead: Settings, Export Vault creates a single password-protected .tdvault file that you can send to yourself however you like, then Settings, Import Vault on the new phone reads it back. Import works across platforms in both directions and keeps names, dates, reminders, notes and attachments intact.
+Cloud backup stays on one platform: your own iCloud on iPhone and iPad, or your own Google Drive on Android. To move between them, use free Vault Export. In Settings, Export vault creates a password-protected .tdvault file that you can send to yourself. On the new phone, Settings, Import backup reads it back and replaces the data already there. Import supports both platforms. Review imported documents, notes and attachments, recheck reminders and keep the original export. Notifications are rebuilt on the receiving device.
 
 ### What is stored in the backup and what stays on the device?
 
-The backup holds an encrypted copy of your vault: every profile, document scan, expiry date, reminder and note. Your recovery code is not in it, and never leaves your device. Neither does your app lock, so Face ID, Touch ID or your PIN protects the phone while the encryption protects the file. Automatic local snapshots also stay on the device only, which is why they cannot bring your vault back on a replacement phone.
+The backup includes profiles, readable scans and attachments, expiry dates, notes and portable reminder history, encrypted before upload. Your recovery code is not uploaded with the backup. Neither does your app lock, so Face ID, Touch ID or your PIN protects the app while the encryption protects the file. Automatic local snapshots also stay on the device only, which is why they cannot bring your vault back on a replacement phone.
 
 ## Related Articles
 
@@ -968,7 +968,7 @@ Yes. ETIAS is not yet mandatory. While ETIAS is not yet required, visa-exempt tr
 
 # Family Passport Management: Store Multiple Passports Safely
 
-> How to organise and securely store multiple family passports in one place. Track every family member's expiry dates, with reminders before each renewal.
+> Organise your family's passports in one encrypted place. Add family profiles with Pro, and use expiry dates and reminders to plan renewals.
 
 Source: https://traveldocumentvault.com/blog/family-passport-management/
 
@@ -1168,7 +1168,7 @@ In most countries, yes - provided your current passport is still valid and you h
 
 You've got travel booked soon and your passport is about to expire. Don't panic, but do move fast: call your passport authority directly instead of just browsing the website, since all four countries covered here have urgent and emergency appointment routes that a real person can walk you through. Pull your documents together first (proof of imminent travel, your current passport, photos, and completed forms) because urgent appointments move quickly once they're booked. Check your travel insurance policy too; some cover extra costs from urgent renewal, though most exclude situations where the renewal was foreseeable. And it costs nothing to ask your airline or hotel about rescheduling, even if there's no guarantee they'll waive the fee.
 
-**The best fix is avoiding the situation entirely.** If you're managing passports for multiple family members, an app like [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) sends you expiry reminders well ahead of time, so you're renewing with plenty of room to spare instead of scrambling at the last minute. It's also worth reading up on the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) before you renew, since a freshly renewed passport still needs to meet your destination country's validity requirements, and plenty of travellers get caught out by it. Check out more [travel document tips](https://traveldocumentvault.com/blog/) on this blog for other ways to keep everything in order.
+**The best fix is avoiding the situation entirely.** If you're managing passports for multiple family members, an app like [Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) lets you add the whole family with Pro. Save their expiry dates and reminders help you plan renewals. It's also worth reading up on the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) before you renew, since a freshly renewed passport still needs to meet your destination country's validity requirements, and plenty of travellers get caught out by it. Check out more [travel document tips](https://traveldocumentvault.com/blog/) on this blog for other ways to keep everything in order.
 
 Pull out your own passport today and check how many months it's actually got left against your next trip. If that gap looks tight, treat it as your sign to start the renewal now rather than closer to departure.
 
@@ -1414,7 +1414,7 @@ What this means in practice
 
 If your phone is stolen and the thief gets into your photo library, they have a clear scan of your passport data page: your name, date of birth, passport number, and your photo. That's enough for identity fraud. Storing passport scans in [an encrypted app that requires a separate PIN or biometric](https://traveldocumentvault.com/blog/best-passport-organizer-app/) is meaningfully safer than a photo library, even if both are on the same device.
 
-[Travel Document Vault](https://traveldocumentvault.com) stores everything on-device with strong encryption (optional encrypted backup to your own iCloud or Google Drive with Pro). Each family member gets their own profile, and expiry dates get tracked automatically. If you'd rather do it yourself, an encrypted folder in a trusted password manager works too, though it won't remind you when something's about to expire.
+[Travel Document Vault](https://traveldocumentvault.com) stores your documents encrypted on your device and tracks saved expiry dates. You can share or export copies. Pro adds family profiles and optional encrypted backup to your own iCloud or Google Drive. If you'd rather do it yourself, an encrypted folder in a trusted password manager works too, though it won't remind you when something's about to expire.
 
 ## Tracking Expiry Dates: The Most Overlooked Part
 
@@ -1426,11 +1426,11 @@ Here's the failure pattern that catches families out. You renew your own passpor
 
 - **Calendar reminders:** Set one 12 months before each document expires and another at 6 months. You'll need to remember to update these when documents get renewed, and you need the expiry dates accessible in the first place.
 - **Spreadsheet:** Works well if you'll actually maintain it. One row per document per person, the expiry date, and a formula that highlights anything expiring within 12 months.
-- **Dedicated app:** Tools like Travel Document Vault handle the reminders automatically - scan the document, confirm the expiry date, and it schedules alerts from eight months out and again at closer intervals, without you having to think about it.
+- **Dedicated app:** Travel Document Vault schedules passport reminders from eight months before expiry, with alerts at closer intervals. Scan a passport and confirm or enter its expiry date; reminders are on by default.
 
 Any of these three approaches will work, but we'd default to whichever one sends the reminder automatically, since a spreadsheet only helps if you remember to open it. What matters most is picking one that fits how you already operate and actually sticking with it.
 
-**Travel Document Vault** handles expiry tracking for every family member automatically: scan each passport once and get reminders starting eight months out. No spreadsheet, no forgotten renewals. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** tracks saved expiry dates, with passport reminders starting eight months before expiry. Scan each passport and confirm or enter its expiry date. Add the whole family with Pro to keep renewal dates together. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Pre-Trip Document Checklist for Families
 
@@ -1691,7 +1691,7 @@ Nothing tells you when the shortest of those runs out. Your licensing authority 
 
 The passport is usually the date people do track, and there's a reason for that: the rules attached to it are stricter and better known. If you want the detail on that clock specifically, our guide to [how long a passport stays valid for travel](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/) covers the months-of-validity requirements that catch people out at check-in. The licence and the permit rarely get the same attention, which is why they're the ones that lapse.
 
-That's the practical argument for keeping all three dates in one place. Travel Document Vault, on the [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) and [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), stores the documents on your device and tracks each expiry on its own, so the permit doesn't lapse quietly while you're keeping an eye on the passport.
+That's the practical argument for keeping all three dates in one place. Travel Document Vault, on the [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) and [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog), stores the documents on your device and tracks each saved expiry date separately. You can check the permit’s expiry alongside your licence and passport.
 
 ## Check Your Licence Date Before Your Permit Date
 
@@ -1829,7 +1829,7 @@ The attacker now has your full legal name, date of birth, nationality, passport 
 | Google Photos | Google cloud servers | In transit + at rest (Google-managed keys) | Moderate | Acceptable with strong 2FA |
 | iCloud Photos | Apple cloud servers | In transit + at rest (Apple-managed keys) | Moderate | Acceptable with strong 2FA |
 | Encrypted password manager (1Password, Bitwarden) | Cloud (zero-knowledge) | End-to-end; provider cannot read content | Low | Good choice |
-| On-device encrypted app (optional own-cloud backup) | Your phone only | Encrypted on-device; no server copy | Lowest | Best for sensitive docs |
+| On-device encrypted app (optional own-cloud backup) | Your phone; optional encrypted backup to your own cloud (Pro) | Encrypted on-device; optional encrypted own-cloud copy (Pro) | Lowest | Best for sensitive docs |
 | Camera roll / unencrypted folder | Your device | Device encryption only | Higher | Not recommended |
 
 ### iCloud Photos vs Google Photos: Is Apple Any Safer?
@@ -1842,7 +1842,7 @@ The same account-compromise risk applies to both platforms. A weak Apple ID pass
 
 If you're an iPhone user, enabling **Advanced Data Protection in iCloud** is worth doing. A purpose-built encrypted app with no cloud upload remains the strongest option for passport storage regardless of which platform you're on.
 
-**Travel Document Vault** stores your passport scans on-device with strong encryption and no account required. Optional encrypted backup to your own iCloud or Google Drive (Pro) is sealed with a recovery code only you hold. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** stores your passport scans on-device with strong encryption and no account required. With Pro, you can back up an encrypted copy to your own iCloud or Google Drive. Keep your recovery code safe: you'll need it to restore that backup. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ![Hand-drawn diagram of what a passport photo gives away - name, date of birth, passport number and photo - flowing into three risks: account breach, third-party access and data indexing, with three safer options below: iCloud with ADP, an encrypted app, or an offline copy](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/passport-data-risks.jpg) One photo, four data points, and three calmer places to keep them.
 
@@ -1854,7 +1854,7 @@ Two things are worth separating first: keeping a copy for your own reference, an
 
 1Password and Bitwarden, two well-known **encrypted password managers**, let you store document scans as attachments. They use zero-knowledge encryption, so the provider can't read your content even if they wanted to. Your documents get encrypted on your device before anything goes to their servers, a real step up from a general cloud photo library.
 
-Apps built specifically for this, **on-device encrypted apps** like [Travel Document Vault](https://traveldocumentvault.com), keep everything on your phone with strong encryption and no account required. You get optional encrypted backup to your own iCloud or Google Drive (Pro), and there's no server to breach because your digital passport copy never leaves the device. The one trade-off: if you lose your phone without a backup, the digital copy goes with it, though your physical passport is still with you.
+Apps built specifically for this, **on-device encrypted apps** like [Travel Document Vault](https://traveldocumentvault.com), store documents encrypted on your phone without an app account. You can share or export copies, or use Pro to back up an encrypted copy to your own iCloud or Google Drive. The app doesn't upload your documents to our servers. The one trade-off: if you lose your phone without a backup, the digital copy goes with it, though your physical passport is still with you.
 
 Tresorit and Proton Drive take a third route, **encrypted cloud storage with client-side keys**, where the provider can't read your files any more than a password manager can. You get cloud convenience with substantially stronger passport photo security than Google Photos.
 
@@ -1886,7 +1886,7 @@ Yes. Automated systems process your photos for things like face recognition, obj
 
 ### What is the safest way to store a digital copy of a passport?
 
-On-device encrypted storage is your safest bet - apps that keep your scans on your phone with strong encryption and zero cloud upload. No third-party server ever touches your passport data. If you want cloud access too, a zero-knowledge encrypted password manager like 1Password or Bitwarden is a solid middle ground.
+On-device encrypted storage is your safest bet - apps that keep your scans on your phone with strong encryption by default. Copies can leave through sharing, export or optional encrypted backup to your own iCloud or Google Drive (Pro). If you want cloud access too, a zero-knowledge encrypted password manager like 1Password or Bitwarden is a solid middle ground.
 
 ### Can someone steal my identity from a passport scan?
 
@@ -1972,7 +1972,7 @@ What you will typically need (confirm with your embassy before visiting):
 - Proof of onward travel - flight booking, hotel confirmation
 - Emergency document fee - have both cash and card available
 
-**Travel Document Vault** stores an encrypted copy of your passport on your phone, accessible without internet and without a login. It holds every passport detail on that list. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** stores an encrypted copy of your passport on your phone, accessible without internet and without a login. Its encrypted image of your passport's data page is the digital copy on that list. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Step 5: Notify Your Travel Insurer
 
@@ -2097,7 +2097,7 @@ The practical challenge of managing travel documents is this: your ID card and y
 
 The harder part is that **neither document sends you a reminder.** You're supposed to check them yourself. Most people don't, until they're at the check-in desk and an agent tells them one is too close to expiry to be accepted.
 
-What helps is a single place for both documents, one that picks up each expiry date when you scan it and reminds you separately for each, on the schedule that suits that type of document. See our guide on [building a complete pre-trip document check](https://traveldocumentvault.com/blog/travel-document-checklist/) for the full picture of what to verify before you travel.
+What helps is a single place for both documents, one that keeps each expiry date and reminds you separately for each, on the schedule that suits that type of document. See our guide on [building a complete pre-trip document check](https://traveldocumentvault.com/blog/travel-document-checklist/) for the full picture of what to verify before you travel.
 
 Start today: pull out your ID card, check the expiry date, and look it over for cracks, fading, or warped plastic. If it's borderline, book the renewal before you book the trip.
 
@@ -2335,7 +2335,7 @@ This table is a snapshot, not the full picture: requirements vary by your nation
 
 Passport validity requirements by country change without notice, and a bilateral agreement can quietly shift the rules for your specific passport, which is why checking an up-to-date official source before every international trip isn't paranoia, it's just good practice: use the IATA Travel Centre, the same system airlines use to check passenger documents in real time.
 
-**Travel Document Vault** flags any passport that will not still have six months left when your trip ends - for every family member, automatically. [Download on the App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) and [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
+With Pro, **Travel Document Vault** checks linked passports against a default 180-day buffer after your saved trip ends, unless you set a custom validity buffer. Check your destination’s actual rule separately. [Download on the App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) and [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
 
 ## When the 6-Month Rule Does Not Apply
 
@@ -2375,7 +2375,7 @@ Treat your passport like a car tyre and don't wait until it's flat: renew as soo
 
 Before any trip, count six months forward from the day you leave the destination, which is the later date and so satisfies either version of the rule. Check your passport expiry against that date - not just your travel dates.
 
-Managing multiple passports across a family with different expiry dates is where it gets messy. [Travel Document Vault](https://traveldocumentvault.com) tracks this automatically - storing each family member's passport expiry and sending reminders from eight months out and again as the date closes in, so there's no mental arithmetic before every booking. You can also find more practical [travel document tips](https://traveldocumentvault.com/blog/) on the blog.
+Managing multiple passports across a family with different expiry dates is where it gets messy. [Travel Document Vault](https://traveldocumentvault.com) tracks your passport expiry, and you can add the whole family with Pro. Passport reminders start eight months before expiry by default and repeat as the date approaches. Check your destination’s validity rule before booking. You can also find more practical [travel document tips](https://traveldocumentvault.com/blog/) on the blog.
 
 ## A Note on Checking Requirements Before You Travel
 
@@ -2415,7 +2415,7 @@ Yes. Airlines check passport validity using an industry-wide database of entry r
 
 ### How do I check if my passport meets the 6-month rule?
 
-Count six months forward from the day you leave the destination, then check whether your passport expires after that date. That is the later of the two dates countries use, so it covers both. If you're due to leave on 1 August, your passport needs to be valid until at least 1 February the following year. Apps like Travel Document Vault track this automatically for every family member, so you don't have to do the maths before every trip.
+Count six months forward from the day you leave the destination, then check whether your passport expires after that date. That is the later of the two dates countries use, so it covers both. If you're due to leave on 1 August, your passport needs to be valid until at least 1 February the following year. With Pro, Travel Document Vault checks linked passports against a default 180-day buffer after your saved trip ends, unless you set a custom validity buffer. Check the destination’s actual rule separately; 180 days is not always six calendar months.
 
 ### Do I need six months on my passport to travel to Europe?
 
@@ -2423,7 +2423,7 @@ No, but you do need more than duration of stay. The UK Foreign Office states tha
 
 ### What if one family member's passport meets the rule but another's doesn't?
 
-Each family member's passport is assessed individually - there's no group rule. This means one passport could meet the 6-month requirement while another falls short, potentially preventing that person from travelling. Check every passport in the group against the destination's validity requirements before booking. Apps like Travel Document Vault let you track each family member's passport expiry separately so you catch these gaps before check-in does.
+Each family member's passport is assessed individually - there's no group rule. This means one passport could meet the 6-month requirement while another falls short, potentially preventing that person from travelling. Check every passport in the group against the destination's validity requirements before booking. Travel Document Vault tracks your passport expiry, and you can add each family member with Pro. Check their dates against the destination's rule before booking.
 
 ### Can I travel if my passport expires in 3 months?
 
@@ -2677,25 +2677,25 @@ If your Google account is compromised, someone with access can retrieve your pas
 
 ## Option 3: Dedicated Encrypted Apps
 
-A dedicated encrypted app designed for travel documents works entirely on your device and never uploads data to external servers.
+Travel Document Vault stores documents on your phone by default. You can share or export copies, or back them up to your own iCloud or Google Drive with Pro.
 
 ### How it works
 
-When you add your passport scan to the app, it's encrypted using AES-256 and stored entirely on your phone. The app works fully offline - no account required, no server needed. If you want multi-device access, an optional Pro feature backs up an encrypted copy to your own iCloud or Google Drive, sealed with a recovery code only you hold.
+When you add your passport scan to the app, it's encrypted using AES-256 and stored entirely on your phone. The app works fully offline - no account required, no server needed. With Pro, you can back up an encrypted copy to your own iCloud or Google Drive and sync it across configured devices on the same platform. You'll need your recovery code to restore a cloud backup.
 
 ### Security properties
 
-- **On-device AES-256 encryption:** Yes. Data never leaves your phone.
-- **Requires account:** No. No account, no server, no login.
-- **Cloud upload:** No. None.
+- **On-device AES-256 encryption:** Yes. Data stays on your phone unless you share or export it, or enable encrypted backup to your own iCloud or Google Drive (Pro).
+- **Requires account:** No. No TDV account or login; optional encrypted backup to your own iCloud or Google Drive (Pro) uses your cloud account.
+- **Cloud upload:** Optional encrypted backup to your own iCloud or Google Drive (Pro); you can also share or export copies.
 - **Works offline:** Yes, fully.
 - **Designed for identity documents:** Yes. The entire architecture is optimised for keeping sensitive documents private.
 
 ### Trade-offs
 
-The security advantages are substantial: your passport data is never transmitted or stored on a remote server, so it's never accessible to anyone else, and there's no remote server to compromise if someone gains unauthorised access to the app company's systems. This means you maintain complete control and ownership of your documents at all times.
+Travel Document Vault keeps your documents on your phone by default. Sharing and export are optional, as is encrypted backup to your own iCloud or Google Drive with Pro.
 
-The catch is reduced convenience: you can't automatically access your passport copy across multiple devices, and if you lose your phone, the app won't restore your documents on its own - you'd need to manually restore from a backup. For most families travelling together, storing documents on one parent's phone is sufficient anyway, and many apps support manual syncing via backup, which adds a layer of flexibility without requiring automatic cloud upload.
+With Pro, you can sync documents across configured devices on the same platform. If you lose your phone, restore a saved backup. Cloud restore needs your recovery code. For most families travelling together, storing documents on one parent's phone is sufficient anyway, and many apps support manual syncing via backup, which adds a layer of flexibility without requiring automatic cloud upload.
 
 ## Direct Comparison Table
 
@@ -2705,8 +2705,8 @@ The catch is reduced convenience: you can't automatically access your passport c
 | End-to-end encrypted | Optional (Advanced Data Protection) | No | Yes (always) |
 | Account required | Yes (Apple ID) | Yes (Google account) | No |
 | Works fully offline | No (needs sync) | No (needs sync) | Yes |
-| Remote breach risk | Medium (Apple's servers) | Medium-High (Google's servers + content scanning) | None (no remote storage) |
-| Cross-device access | Automatic | Automatic | Manual backup only |
+| Remote breach risk | Medium (Apple's servers) | Medium-High (Google's servers + content scanning) | Optional encrypted backup to your own iCloud or Google Drive (Pro) |
+| Cross-device access | Automatic | Automatic | Manual vault export; optional automatic cloud backup and sync (Pro) |
 | Cost | Free (200GB), then paid | Free (15GB), then paid | Typically a one-time purchase, no subscription |
 | Designed for identity docs | No | No | Yes |
 
@@ -2742,7 +2742,7 @@ Google Photos is not end-to-end encrypted by default. Google indexes and scans t
 
 ### What are the advantages of a dedicated encrypted app for passport storage?
 
-A dedicated encrypted app designed specifically for travel documents typically stores data on-device using AES-256 encryption, requires no account or cloud upload, works offline, and has a much smaller breach surface area. Because your passport data never leaves your phone, there is no remote server to breach. The trade-off is reduced convenience for cross-device access, but for security-first users, this is the most secure storage method available.
+Travel Document Vault encrypts your original document files with AES-256 and lets you view them offline without an app account. You can share or export copies. Pro adds optional encrypted backup to your own iCloud or Google Drive, plus sync across configured devices on the same platform.
 
 ### Can I use multiple storage methods for the same passport?
 
@@ -2840,7 +2840,7 @@ The manual method comes first, because it's free and official: take today's date
 
 For one person taking a holiday or two a year, that's entirely manageable. It gets harder when trips overlap and people multiply: a business traveller doing short hops every month, or a family where one child is on a school exchange, another has summer camp dates, and a partner flies home early. Each person carries their own rolling window, and the windows don't line up. This is the situation where a tracking tool stops being a gadget and starts being how you avoid an expensive mistake - our [guide to visa and entry tracking](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/) covers the wider problem.
 
-One honesty note: no app can read your EES record, ours included. What a tracker does is apply the official 90/180 arithmetic to the trip dates you give it, continuously, for every traveller you add. The border counts what happened; a good tracker shows what you can still do.
+Travel Document Vault doesn't read your EES record. With Pro, it counts saved trips against the per-country day limits you set. It doesn't calculate a combined Schengen-wide 90/180 allowance, so check your total time across the area separately.
 
 ## Three Things EES Is Not
 
@@ -2876,7 +2876,7 @@ No. EES is live now and registers your entry and exit at the border. ETIAS is a 
 
 ### How does Travel Document Vault help with the 90/180 rule?
 
-The app counts days per person, per country, across all your trips to that country, and projects your rolling window forward before you book. It does not read your EES record - no app can - but with Pro it applies a rolling 90/180 count to your trips to each country you set a limit for, so every family member's remaining days there are visible at a glance.
+With Pro, the app counts saved trip days per person, per country, and projects the rolling window forward for the limits you set. It doesn't read your EES record or calculate a combined Schengen-wide 90/180 allowance. You can see each family member's remaining days for a country, but must check the Schengen total separately.
 
 ## Related Articles
 
@@ -3203,7 +3203,7 @@ Keep these in your carry-on at all times, not in checked luggage. That means pas
 
 Before you leave home, take a photo of every document and store it in an encrypted app - not your camera roll. If your bag is lost or stolen, you'll want your passport number, insurance policy number, and booking references somewhere you can still access them at an embassy or police station. A secure digital backup saves hours when you're trying to get help.
 
-**Travel Document Vault** stores encrypted copies of every document on this list - organised by family member, with automatic expiry reminders. Scan once, never scramble again. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** stores encrypted copies of your travel documents. Scan each one and confirm or enter its expiry date for automatic reminders. Pro lets you store more than five documents and organise them by family member. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## How Your Document List Changes by Trip Type
 
@@ -3345,7 +3345,7 @@ Most travel insurance policies include a void clause for expired or invalid trav
 
 [If your passport has already expired and you are searching for what to do next, our companion article covers that step-by-step](https://traveldocumentvault.com/blog/passport-expired-what-to-do/). If you have a trip coming up and your passport is approaching expiry, this is the moment to renew rather than wait until it expires, which means paying for the Premium service instead of the standard fee. Check your family's passports now before booking any trip.
 
-**Set expiry reminders months in advance, not weeks.** [Travel Document Vault tracks expiry dates for every passport in your household and sends reminders from eight months out, then again as expiry approaches](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/), so you renew on standard processing and avoid emergency fees.
+**Set expiry reminders months in advance, not weeks.** [Travel Document Vault tracks your passport expiry and sends reminders from eight months out by default, then again as expiry approaches. Add every passport in your household with Pro](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/). Use the reminders to help you plan renewals.
 
 ## If You're Already Abroad and Your Passport Expires
 
@@ -3915,7 +3915,7 @@ Flighty is the most direct replacement for real-time flight alerts. It tracks de
 
 ### Is there one app that replaces all of TripCase?
 
-No single app does everything TripCase did. Most ex-users end up with two or three tools: TripIt or Tripsy for itinerary parsing and timeline views, Flighty for flight alerts, and a separate offline app such as Travel Document Vault for document storage. That is more pieces, but it also means you are not relying on a single company's survival.
+You may need separate tools for itinerary parsing, flight alerts and document storage. Travel Document Vault stores document copies encrypted on your phone and lets you view them offline.
 
 ### Should I keep my travel documents in a cloud app?
 
@@ -4122,7 +4122,7 @@ With all that complexity in mind, a good visa expiry tracker app needs to handle
 - **Privacy model:** Visa details are identity-linked sensitive data. As with passport storage, on-device encryption with no cloud upload is the safest architecture.
 - **Passport + visa tracking together:** A common but overlooked mistake is having a valid visa but a passport that expires during your planned stay. Having both tracked in the same place prevents this mismatch.
 
-**Travel Document Vault** tracks both passport and visa expiry dates in one place, with separate per-document reminders and support for multiple travellers. Your data stays on-device and AES-256 encrypted, no account required, with optional encrypted backup to your own iCloud or Google Drive (Pro). [It's available on the App Store and Google Play as a one-time purchase, no subscription.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** tracks passport and visa expiry dates with separate reminders for each document. Add multiple travellers with Pro. Your documents stay encrypted on your phone by default, with no app account required. You can share or export copies, or back them up to your own iCloud or Google Drive with Pro. [It's free to download on the App Store and Google Play. Pro is a one-time purchase, no subscription.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Practical Steps to Track Your Visa Properly
 
@@ -4486,7 +4486,7 @@ Forgetting your passport means you cannot board. For missing supporting document
 
 # Why I Built Travel Document Vault: For the Parent Who Remembers Everything
 
-> Why I built Travel Document Vault after a 3am passport check before a family trip, and why it stores everything on your own device instead of a server.
+> Why I built Travel Document Vault after a 3am passport check before a family trip, and why it stores documents on your own device by default.
 
 Source: https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/
 
@@ -4508,7 +4508,7 @@ That pit-in-your-stomach moment - realising you nearly wrecked a family trip wit
 
 If you're the person in your family who manages documents, you already know this feeling.
 
-You're not just storing files. You carry an invisible checklist in your head: which passports expire when, who needs what for school enrollment, which countries have the six-month rule, whether the travel insurance actually got renewed or just meant to be.
+You're not just storing files. You carry an invisible checklist in your head: which passports expire when, who needs what for school enrolment, which countries have the six-month rule, whether the travel insurance actually got renewed or just meant to be.
 
 No single check takes that long. Finding a passport scan, reading the expiry date, checking it clears your trip by six months - maybe two or three minutes. But multiply that by four family members, add the insurance policy buried in email, the driver's licence you're not sure is still current, and you've burned fifteen or twenty minutes at 11pm the night before a flight.
 
@@ -4534,13 +4534,13 @@ And it had to work offline. Because I'd be at the airport, or stuck in a hotel l
 
 ## So I built exactly what I needed
 
-Travel Document Vault does one thing: puts everything in one place, so you never think about it again until the app tells you to.
+Travel Document Vault puts your saved documents and expiry dates in one place, with reminders to help you plan renewals.
 
-Scan a document once. The app reads the expiry date (you double-check it). Reminders schedule themselves automatically: six months out, then three months, six weeks, one month, two weeks, all the way down to the day before it expires.
+Scan a document once. The app tries to read the expiry date; confirm it or enter it manually. Reminders are on by default when you save an expiry date. Passport reminders start eight months out for a passport, then six months, three months, six weeks, one month, two weeks, all the way down to expiry day.
 
-One profile per family member, every document in one spot - so when you need to check if you're good to travel, you open the app and you know immediately, not probably, not I think so, but **you actually know**.
+Add the whole family with Pro, with a profile for each person. Before a trip, you can **review the family's saved documents and expiry dates**.
 
-When a hotel asks for your passport copy, an embassy needs your details, or the car hire desk wants your licence, you share it in one tap - no digging, no Wi-Fi, everything together, right there.
+When a hotel asks for your passport copy, an embassy needs your details, or the car hire desk wants your licence, you can open the share sheet and choose how to send it. Viewing saved copies works offline; email and messaging need a connection.
 
 That's the real payoff: you get your brain space back. The invisible mental load - that constant low-level hum of "am I forgetting something?" - it disappears. The app remembers so you don't have to.
 
@@ -4569,10 +4569,10 @@ Early on, I made a firm decision: your documents belong to you, and they stay wi
 Travel Document Vault is self-contained:
 
 - No accounts to create
-- No server upload
+- Optional encrypted cloud backup (Pro)
 - Encrypted on your device
 
-When you scan a document, text recognition runs on your device, so everything stays on your phone and **nothing gets uploaded to any server.**
+When you scan a document, text recognition runs on your device. Documents stay on your phone by default; **optional encrypted backup (Pro) saves a copy to your own iCloud or Google Drive.** You can also export or share copies.
 
 Some people want apps that sync everywhere. For passports and IDs, I wanted a simpler model: your phone is the vault. You can export your copies whenever you need to. They're yours, after all.
 
@@ -4582,9 +4582,9 @@ A travel document vault is something you set up once and forget about. It sits t
 
 A subscription makes no sense for that. If I stop paying, I'd need to export everything, find another app, migrate my documents, rebuild all my reminders. And if I forget to renew? I lose access exactly when I need it most - standing at check-in realising my kid's passport expiry is four months out and I can't reach the scan I stored.
 
-When you buy this app, it's yours - documents stay on your device, reminders keep working, no renewals, no exports, no lock-in. It just works quietly in the background until you need it.
+Your saved documents and reminders work in the free version. Pro adds unlimited profiles and documents with a one-time purchase, so there's no subscription to renew.
 
-The free version gives you one profile, five documents, OCR, reminders, and a PIN lock. Pro unlocks unlimited profiles and documents with a single payment. Pay once, all v1.x updates included, forever. That's it.
+The free version gives you one profile, five documents, automatic date detection, reminders, and a PIN lock. Pro unlocks unlimited profiles and documents with a single payment. Pay once, all v1.x updates included, forever. That's it.
 
 [About our version policy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -4598,7 +4598,7 @@ If you're the person in your family who double-checks everything, keeps the fold
 
 **One less thing to worry about.**
 
-Built for personal use first. No accounts. No server upload.
+Built for personal use first. No accounts. Optional encrypted cloud backup (Pro).
 
 Mustafa
 

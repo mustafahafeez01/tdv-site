@@ -24,11 +24,11 @@ Ingen ser dette arbejde. Nu har det et sted at høre til, denne rejse og alle de
 
 ## Dine Dokumenter Forbliver Hos Dig
 
-Bygget af en forælder der havde brug for det. Dine dokumenter forbliver læsbare kun af dig. Valgfri krypteret sikkerhedskopi til din iCloud eller Google Drive er forseglede med en gendannelseskode som kun du har.
+Bygget af en forælder der havde brug for det. Dine gemte dokumenter er krypteret på din enhed. Valgfri krypteret sikkerhedskopi til din iCloud eller Google Drive er forseglede med en gendannelseskode som kun du har.
 
 ### Bygget af en forælder
 
-Jeg byggede denne app fordi jeg havde brug for den til min egen familie. Den har separate profiler for hvert familiemedlem og automatiske udløbsmeddelelser måneder før fornyelse bliver presserende. Der er ingen VC-finansiering der presser mig til at sælge dine data, og ingen køreplan styret af væksthyg; det er simpelthen et værktøj der løser ét problem rigtigt.
+Jeg byggede denne app fordi jeg havde brug for den til min egen familie. Den har automatiske udløbspåmindelser måneder før fornyelse bliver presserende og med Pro separate profiler for hvert familiemedlem. Der er ingen VC-finansiering der presser mig til at sælge dine data, og ingen køreplan styret af væksthyg; det er simpelthen et værktøj der løser ét problem rigtigt.
 
 ### Offline efter design
 
@@ -36,15 +36,15 @@ Den sikreste server til paskopiering er slet ingen server, og det er grunden til
 
 ### Kryptering på enheden
 
-Dokumenter er krypteret på din enhed med AES-256-GCM ved hjælp af nøgler som holdes i din enheds Secure Enclave. Det er stærk, moderne kryptering, og du bør stadig beskytte din telefon med en stærk adgangskode og App Lock.
+Dokumenter er krypteret på din enhed med AES-256-GCM ved hjælp af nøgler, der opbevares i din enheds sikre nøglelager. Det er stærk, moderne kryptering, og du bør stadig beskytte din telefon med en stærk adgangskode og App Lock.
 
 ### Din Sky. Din Nøgle.
 
-Valgfri krypteret sikkerhedskopi til din egen iCloud eller Google Drive, med engangsgenoprettelse på en ny telefon – du holder gendannelseskoden, så vi ser den aldrig. Gratis Vault Export er altid inkluderet.
+Vault Export og Import er gratis. Pro tilføjer krypteret cloud-backup til din egen iCloud eller Google Drive. Gendan med din gendannelseskode på en kompatibel telefon på samme platform med samme skykonto. Vi opbevarer ikke din kode.
 
 ### Smarte påmindelser
 
-Pas advarer dig allerede otte måneder før, og derefter kommer påmindelserne tættere – seks måneder, tre, seks uger, en måned – frem til udløbsdagen. Hver dokumenttype har sin egen plan, klar så snart du tilføjer den.
+Pas advarer dig allerede otte måneder før, og derefter kommer påmindelserne tættere – seks måneder, tre, seks uger, en måned – frem til udløbsdagen. Påmindelser er slået til som standard, når du gemmer en udløbsdato. ID-kort, visa, forsikring og andre dokumenter starter tre måneder før udløb.
 
 ### Familieopdelt logik
 
@@ -60,7 +60,7 @@ Lagret kun på din enhed. Jeg kan ikke se dem.
 
 Dine dokument-detaljer
 
-Navne, numre, udløbsdatoer. Kun på din enhed.
+Udløbsdatoer, udstedelseslande, titler og noter. På din enhed; kopier kan forlade den, hvis du deler eller eksporterer dem eller slår krypteret cloud-backup til (Pro).
 
 Dine familieprofile
 
@@ -70,7 +70,7 @@ Påmindelses-notifikationer
 
 Planlagt lokalt på din enhed. Jeg kender ikke dine udløbsdatoer.
 
-Selvom nogen hackede mine servere... der er ingen servere. Der er ikke noget at finde.
+Ingen Travel Document Vault-server opbevarer dine dokumenter. Der er ikke noget at finde.
 
 [Læs stifterens historie: Hvorfor jeg byggede en app til at bære en ting mindre i mit hoved →](https://traveldocumentvault.com/da/blog/)
 
@@ -82,7 +82,7 @@ Bygget til familier der rejser overalt.
 
 Pro
 
-Familiens beredskapstrafiklygt. Se hvem der er klar til at rejse, og hvis dokumenter snart udløber.
+Trafiklys for familiens rejseberedskab. Se, hvilke tilknyttede dokumenter der kræver opmærksomhed i forhold til dine gemte rejsedatoer.
 
 ### Din Sky. Din Nøgle.
 
@@ -94,7 +94,7 @@ Krypteret sikkerhedskopi til din iCloud eller Google Drive. Du holder gendannels
 
 Pro
 
-Log dage brugt i ethvert land pr. familiemedlem. Indstil brugerdefinerede dagsgrænsemål og ved præcist hvor du står.
+Log dage brugt i ethvert land pr. familiemedlem. Sammenlign dine gemte rejsedage med de dagsgrænser, du angiver for landet.
 
 ### Toldfriomsætning Uden Matematik
 
@@ -104,7 +104,7 @@ Spor toldfriomsætninger per familiemedlem per rejse. Gæt aldrig igen på bagag
 
 ## Klar når du har brug for dem
 
-- **I lufthavnen:** Få pas, id-kort og boardingdetaljer op for hele familien på få sekunder.
+- **I lufthavnen:** Få pas, id-kort og boardingdetaljer frem for hele familien (Pro) på få sekunder.
 - **Udfyldelse af formularer:** Pasnumre, id-detaljer, forsikringsoplysninger. Altid ved dine fingerspidser.
 - **Visa-ansøgninger:** Eksporter dokument billeder som PDF'er til udskrivning eller deling. Gennemgå og juster billeder før eksport.
 
@@ -120,7 +120,7 @@ Pasadvarsler allerede 8 måneder før
 
 Guider til at ramme pas og id-kort
 
-### Kombinerede eksporter
+### Kombinerede eksporter (Pro)
 
 Kombiner dokumenter til en PDF til udskrivning
 
@@ -132,7 +132,7 @@ Tilgængelig på over 40 sprog
 
 ### For hele familien
 
-Du er den der husker alt. Den byrde behøver ikke hele tiden ligge på dine skuldre. Organiser ægtefæller, børn og bedsteforældre på ét sikkert sted.
+Du er den der husker alt. Den byrde behøver ikke hele tiden ligge på dine skuldre. Med Pro kan du organisere ægtefæller, børn og bedsteforældre på ét sikkert sted.
 
 ### Sindsro, automatiseret
 
@@ -154,11 +154,11 @@ English, Español, Français, Deutsch, Italiano, Português (BR), Português (PT
 
 ### Lad appen skrive for dig
 
-Øjeblikkelig datoregistrering sparer dig for besværlig dataindtastning. Hurtig, praktisk og 100% privat på din telefon.
+Appen forsøger at aflæse udløbsdatoen på din enhed. Bekræft den dato, den finder, eller indtast den, før du gemmer.
 
 ### Dit private pengeskab
 
-Det der sker på din telefon, bliver på din telefon. Ingen cloud-servere. Ingen nysgerrige øjne. Kun dig.
+Dine dokumentfiler bliver på din telefon, medmindre du deler eller eksporterer dem eller slår krypteret backup til (Pro). Ingen af vores cloud-servere er involveret, og ingen kigger dig over skulderen.
 
 ### Altid der, når du har brug for det
 
@@ -179,14 +179,14 @@ Engangskøb. Ingen abonnementer. Ingen skjulte gebyrer. Ingen dataindsamling.
 Altid gratis
 
 - Pas, visa, id-kort og mere
-- Scan dokumenter, datoer udfyldes for dig
+- Scan dokumenter, og bekræft registrerede udløbsdatoer
 - Udløbspåmindelser
 - Del individuelle dokumenter
 - PIN + biometrisk lås (Face ID / Touch ID)
 - 1 profil
 - Op til 5 dokumenter
 
-Alle data forbliver på din enhed. Altid.
+Gem på din enhed. Del, eksportér eller brug Pro-cloud-backup.
 
 Bedste værdi
 
@@ -217,15 +217,15 @@ Alt hvad du behøver til solorejser
 Gratis
 
 - Pas, visa, id-kort og mere
-- Scan dokumenter, datoer udfyldes for dig
+- Scan dokumenter, og bekræft registrerede udløbsdatoer
 - Udløbspåmindelser
 - Del individuelle dokumenter
 - PIN + biometrisk lås (Face ID / Touch ID)
 - 1 profil
 - Op til 5 dokumenter
-- Nylig slettet - 30-dagers fortryd vindue
+- Senest slettet - gendan inden for 30 dage
 
-Alle data forbliver på din enhed. Altid.
+Gem på din enhed. Del, eksportér eller brug Pro-cloud-backup.
 
 Til familier
 
@@ -257,7 +257,7 @@ Gendan køb når som helst med den App Store eller Google Play-konto, du købte 
 
 ## Ofte stillede spørgsmål
 
-Er det virkelig privat? Ja. Alt lagres 100% på din enhed. Vi har ingen adgang til dine dokumenter, og der er ingen cloud-database. Tag ikke bare vores ord for det – [tjek det selv](https://traveldocumentvault.com/da/privacy-verification/). Hvad hvis jeg mister min telefon? Dit vault er gemt på din enhed. Almindelige telefonsikkerhedskopier (iCloud/Google Backup) genopretter ikke app-data, fordi krypteringsnøglen aldrig forlader din enhed. I stedet eksporterer du en krypteret .tdvault-fil (gratis) eller bruger Pro-Cloud Backup til dit eget iCloud/Google Drive. Kan jeg synkronisere mellem enheder? Ja. Med Pro skal du aktivere Din Cloud-sikkerhedskopi for at synkronisere din krypterede boks til din iCloud eller Google Drive. Du holder gendannelseskoden. Vi får aldrig adgang til dine data. Hvad er rejseplanlæggeren? Rejseplanlæggeren grupperer familien dokumenter efter rejse og viser en beredelsestrafiklygt – grøn når alle er klar, gul hvis nogen's pas snart udløber. Planlæg rejser sammen med selvtillid. [Se alle svar om privatliv og data](https://traveldocumentvault.com/da/faq/)
+Er det virkelig privat? Ja. Alt lagres 100% på din enhed. Vi har ingen adgang til dine dokumenter, og der er ingen cloud-database. Tag ikke bare vores ord for det – [tjek det selv](https://traveldocumentvault.com/da/privacy-verification/). Hvad hvis jeg mister min telefon? Din hvælving er krypteret på din enhed. Den lokale nøgle opbevares i sikkert lager og indgår ikke i almindelige telefonbackups. Vault Export indeholder en adgangskodekrypteret kopi af nøglen. Almindelige telefonsikkerhedskopier (iCloud/Google Backup) genopretter ikke app-data, fordi de ikke overfører den enhedsbundne krypteringsnøgle. I stedet eksporterer du en krypteret .tdvault-fil (gratis) eller bruger Pro-Cloud Backup til dit eget iCloud/Google Drive. Kan jeg synkronisere mellem enheder? Ja. Med Pro skal du aktivere Din Cloud-sikkerhedskopi for at synkronisere din krypterede boks til din iCloud eller Google Drive. Du holder gendannelseskoden. Vi får aldrig adgang til dine data. Hvad er rejseplanlæggeren? Rejseplanlæggeren (Pro) grupperer familiens dokumenter efter rejse og viser et trafiklys for beredskab – grønt, når de konfigurerede dokumenttjek er bestået, og gult, når et tilknyttet dokument skal gennemgås. Planlæg rejser sammen med selvtillid. [Se alle svar om privatliv og data](https://traveldocumentvault.com/da/faq/)
 
 **Vigtigt:** Travel Document Vault er et personligt organisationsværktøj til opbevaring af digitale kopier af dine dokumenter. **Digitale kopier gemt i denne app er IKKE gyldige til rejse.** Den verificerer ikke dokumenters ægthed og yder ikke juridisk eller rejserelateret rådgivning. Medbring altid originale dokumenter og bekræft alle rejsekrav hos officielle myndigheder.
 

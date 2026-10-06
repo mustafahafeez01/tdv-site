@@ -6,11 +6,11 @@ Source: https://traveldocumentvault.com/sv/features/
 
 ---
 
-Integritetsfokuserad. Endast på enheten. Inga konton behövs.
+Integritetsfokuserad. På enheten som standard. Inga konton behövs.
 
 # Håll koll på allt. Kom ihåg ingenting.
 
-En dokumentorganiser för oroliga föräldrar, frekventa resenärer och förstagångsflygare: dokument på ett ställe, utgångspåminnelser aktiverade, sinnesfrid intakt.
+Du kan lagra pass, visum, körkort, nationella ID-kort, reseförsäkringshandlingar och andra resehandlingar. Med Pro stöder appen flera profiler så att du kan samla hela familjens dokument på ett ställe.
 
 ![Ladda ned på App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
@@ -18,7 +18,7 @@ En dokumentorganiser för oroliga föräldrar, frekventa resenärer och förstag
 
 [Om vår versionspolicy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
-## Missa aldrig ett resedatum
+## Planera resor och håll koll på dagsgränser
 
 Byggd för familjer som reser överallt.
 
@@ -26,37 +26,37 @@ Pro
 
 ### Alla Klara, En Blick Bort
 
-Gruppera dokument efter resa. Se familjeberedskap på en blick med trafikljusvy. Identifiera problem veckor innan, inte på flygplatsen.
+Gruppera dokument efter resa. Trafikljusvyn visar direkt vilka länkade dokument som behöver ses över mot dina sparade resdatum. Identifiera problem veckor innan, inte på flygplatsen.
 
 Pro
 
 ### Din molnlagring. Din nyckel.
 
-Valfri krypterad säkerhetskopia på ditt personliga iCloud eller Google Drive. Du håller återställningskoden. Vi kommer aldrig åt den. Synkronisering mellan enheter utan att behöva lita på oss.
+Valfri krypterad säkerhetskopia (Pro) till ditt personliga iCloud eller Google Drive. Återställ med din återställningskod. Aktivera synkronisering för att använda samma valv på enheter som stöds på samma plattform.
 
 Pro
 
 ### Spåra Dagar Utomlands
 
-Spåra dagar i varje land, per resa och per familjemedlem. Ställ anpassade daggränser så du alltid vet var du står med visum och inresevillkor. Verifiera reglerna på [IATA Travel Centre](https://www.iatatravelcentre.com/) för din destination.
+Med Pro kan du spåra dagar i varje land, per resa och familjemedlem. Jämför dina sparade resdagar med de dagsgränser du anger för landet. Verifiera reglerna på [IATA Travel Centre](https://www.iatatravelcentre.com/) för din destination.
 
 Pro
 
 ### Resekvoter
 
-Definiera anpassade daggränser per land och per familjemedlem. Ställ dina egna mål för att vara medveten om hur många dagar du har tillbringat utomlands – oavsett hur dina reiseregler fungerar.
+Med Pro kan du ange egna dagsgränser per land och familjemedlem. Ställ in egna mål för att hålla koll på hur många dagar dina sparade resor omfattar, med ett fast eller rullande beräkningsfönster.
 
 Pro
 
 ### Resans PDF-export
 
-Exportera en resa som en enda vacker PDF: försättsblad, deltarnas pass, schema, aktiviteter och dokument i ordning. Pro-exporterna ser professionella ut och är klara att dela med flygbolag, ambassader eller familj.
+Med Pro kan du exportera en resa som en enda vacker PDF: försättsblad, deltarnas pass, schema, aktiviteter och dokument i ordning. Exporterna ser professionella ut och är klara att dela med flygbolag, ambassader eller familj.
 
 Pro
 
 ### Grindbered
 
-Bifoga flugnummer, hotellbekräftelser och bokningsreferenser till en resa. Dokument och bokningar på ett ställe – tryck en gång under incheckning. Inget att leta efter.
+Med Pro kan du bifoga flygnummer, hotellbekräftelser och bokningsreferenser till en resa. Dokument och bokningar på ett ställe – tryck en gång under incheckning. Inget att leta efter.
 
 Dokumenthantering
 
@@ -64,7 +64,7 @@ Dokumenthantering
 
 ### Pass
 
-Fotografera både fotosidan och datasidan. MRZ-skanning läser den maskinläsbara zonen och fyller automatiskt i namn, nummer och utgångsdatum direkt.
+Fotografera det öppna passuppslaget i en bild. MRZ-skanning läser den maskinläsbara zonen för att fylla i utgångsdatum och utfärdandeland när det går. Bekräfta resultaten eller ange dem manuellt. Textigenkänning körs på din enhet.
 
 ### Krypterad lagring
 
@@ -76,11 +76,11 @@ Fotografera fram- och baksida i ett enda dokument. Perfekt för körkort, nation
 
 ### Försäkrings- och hälsokort
 
-Spara sjukförsäkringskort, reseförsäkringspolicyer och återkommande recept med påminnelser om utgångsdatum. Missa aldrig en förnyelse eller bli tagen på sängen.
+Spara sjukförsäkringskort, reseförsäkringspolicyer och återkommande recept med påminnelser om utgångsdatum. Påminnelser börjar tre månader före utgångsdatumet som standard.
 
 ### Visum och dokument
 
-Specialiserat A5/halvsidesstöd för viseringsstämplar och klistermärken. Fullt A4-stöd för e-visum, reseförsäkringspolicyer och stora dokument. Stöder flersidiga filer.
+Specialiserat A5/halvsidesstöd för viseringsstämplar och klistermärken. Fullt A4-stöd för e-visum, reseförsäkringspolicyer och stora dokument. Stöder flersidiga filer med Pro.
 
 ### Flygbiljetter
 
@@ -88,7 +88,7 @@ Spara boardingkort och e-biljetter med mycket frekventa nedräkningspåminnelser
 
 ### Flexibel import
 
-Importera befintliga PDF-filer eller bilder från ditt fotobibliotek. Befintliga skanningar importeras direkt.
+Importera befintliga PDF-filer eller bilder från ditt fotobibliotek. Öppna dina sparade skanningar utan att skanna igen.
 
 ### Redigera Sparade Dokument
 
@@ -118,17 +118,17 @@ Spara presentkort, rabattkoder, evenemangsbiljetter och attraktion-pass. Få på
 
 ### Snooze Påminnelser
 
-Pausa valfri förfallopåminnelse utan att redigera dokumentet. Snooze en dag, en vecka eller en månad – påminnelsen återupptas automatiskt när snooze-perioden slutar.
+Pausa valfri förfallopåminnelse utan att redigera dokumentet. Schemalägg en vald påminnelse på nytt till om en timme, tre timmar, imorgon eller nästa vecka.
 
 ### Färgkoda Dokument
 
-Tilldela en färg till vilken dokumenttyp eller enskilt dokument som helst för omedelbar visuell igenkänning. Åsidosätt färger per profil så att hela familjens arkiv är lätt att navigera på ett ögonkast.
+Med Pro kan du tilldela en färg till vilken dokumenttyp eller enskilt dokument som helst för omedelbar visuell igenkänning. Åsidosätt färger per profil så att hela familjens arkiv är lätt att navigera på ett ögonkast.
 
 ### Exportera, säkerhetskopiera och återställ
 
 PRO
 
-Generera kombinerade PDF:er från flera dokument och säkerhetskopiera ditt krypterade valv till ditt eget iCloud eller Google Drive, med återställning med ett tryck på valfri enhet. Gratis Vault Export och återställning ingår alltid.
+Valvexport och import är gratis för alla. Pro ger kombinerade PDF-filer och krypterad molnsäkerhetskopiering till ditt eget iCloud eller Google Drive. Återställ molnsäkerhetskopior med din återställningskod på en kompatibel enhet på samma plattform och med samma molnkonto.
 
 Smart skanning
 
@@ -156,7 +156,7 @@ Smarta påminnelser
 
 ## Alltid före utgångsdatum
 
-En genomsnittlig passförnyelse tar **6-8 veckor**. Vi påminner dig **8 månader i förväg**, inte 6 dagar.
+Påminnelser startar automatiskt, anpassade efter dokumenttypen. Pass börjar **8 månader före utgångsdatumet**, sedan 6 månader, 3 månader, 6 veckor, 1 månad, 2 veckor och 1 vecka, med fler påminnelser på utgångsdagen och efteråt. Visum, nationella ID-kort och reseförsäkring börjar **3 månader i förväg**. Flygbiljetter, hotellbokningar och vouchers börjar en vecka i förväg. Pro-användare kan välja en annan startpunkt för varje dokument.
 
 #### Passpåminnelser
 
@@ -168,7 +168,7 @@ En genomsnittlig passförnyelse tar **6-8 veckor**. Vi påminner dig **8 månade
 
 #### Flygbiljettpåminnelser
 
-1 vecka 2 dagar 1 dag 24 timmar Resdagen
+1 vecka 2 dagar 1 dag 24 timmar
 
 **Påminnelser efter utgång** (visas i orange) hjälper dig hålla koll på utgångna dokument. Även om du missade utgångsdatumet får du fortfarande påminnelser om att förnya, vilket gör dem perfekta för att fånga upp dokument som gått ut medan du reser.
 
@@ -178,7 +178,7 @@ Familjeprofiler
 
 ### Separata profiler
 
-Skapa en profil för varje familjemedlem. Håll allas dokument organiserade och lätta att hitta.
+Med Pro kan du skapa en profil för varje familjemedlem. Håll allas dokument organiserade och lätta att hitta.
 
 ### Profilanpassade vyer
 
@@ -206,7 +206,7 @@ Anpassar sig till dina systeminställningar. Vacker i båda utseendena.
 
 Svep mellan dokumentsidor. Nyp för att zooma upp till 5x för detaljerad granskning.
 
-### Quick Look
+### Inbyggd PDF-visare
 
 Inbyggd PDF-visning. Snabb, välbekant och funktionsrik.
 
@@ -218,11 +218,11 @@ Tillgänglig på över 40 språk så att appen känns naturlig var du än är.
 
 ### Tillgänglighet som standard
 
-Fullt stöd för VoiceOver och TalkBack. Dynamic Type skalar alla etiketter med din systemteckenstorlek. Varje knapp uppfyller minimikravet på 44pt pekmål.
+Utformad för VoiceOver och TalkBack. Text skalas med systemets teckenstorlek och de gemensamma kontrollstilarna har tryckytor på 44pt som mål (48dp på Android).
 
 ### Genomtänkt haptik
 
-Subtil haptisk återkoppling bekräftar varje åtgärd. Sparningar, raderingar och skanningar har alla distinkta taktila responser så att du alltid vet att något fungerade.
+Viktiga åtgärder använder haptisk återkoppling där din enhet stöder det.
 
 Integritet och säkerhet
 
@@ -230,11 +230,11 @@ Integritet och säkerhet
 
 ### Din data förblir din
 
-Vi designade detta så att du inte behöver lita på oss med din data. Vi har inga servrar och ingen åtkomst. Det är bara du och din enhet.
+Vi designade detta så att du inte behöver lita på oss med din data. Vi har inga servrar som lagrar dina dokument och ingen åtkomst till dem. Det är bara du och din enhet.
 
 ### Fungerar offline
 
-Inget internet krävs. Fungerar helt offline.
+Valvdata är krypterade på din enhet; dokumentfiler använder AES-256-GCM. Sparade dokument, utgångsdatum och schemalagda påminnelser fungerar offline.
 
 ### Ingen spårning
 
@@ -242,11 +242,11 @@ Ingen analys. Inga annonser. Inga dolda SDK:er som skördar din data.
 
 ### Privata aviseringar
 
-Påminnelser avslöjar aldrig dokumentdetaljer. Bara "Ett dokument löper snart ut."
+Påminnelser innehåller inte skannade bilder eller ett separat fält för dokumentnummer. Påminnelsetexten kan innehålla den sparade dokumenttiteln, så undvik att ange känsliga nummer i den.
 
 ### Du kontrollerar delning
 
-Data lämnar enheten bara när du aktivt väljer att dela via systemets delningsblad. Inkluderar varningar om känsligt innehåll.
+Dokumentfiler lämnar enheten när du väljer att dela dem via systemets delningsmeny, exportera dem eller aktivera krypterad säkerhetskopiering (Pro). Inkluderar varningar om känsligt innehåll.
 
 ### PIN-lås
 
@@ -258,11 +258,11 @@ Lås upp med Face ID eller Touch ID istället för PIN. Gratis för alla använd
 
 ### Skärmdumpsskydd
 
-Dokumentskärmar skyddas automatiskt från skärmdumpar och skärminspelningar. Din känsliga information stannar på skärmen, inte i någons kamerarulle.
+Skärminspelnings- och skärmbildsskydd är aktiverat som standard på dokumentskärmar där det stöds. Det hjälper till att minska oavsiktliga kopior.
 
 ### Krypterad lagring
 
-Dokument krypteras på din enhet med branschstandard-kryptering. Din data är skyddad även om din enhet komprometteras.
+Dokument krypteras på din enhet med branschstandard-kryptering. Krypterade dokumentfiler kräver sin krypteringsnyckel för att läsas; delade original är läsbara.
 
 Batchåtgärder
 
@@ -276,17 +276,17 @@ Håll in på ett dokumentkort för att direkt komma åt snabbåtgärder: Exporte
 
 PRO
 
-Tryck på "Markera" för att välja flera dokument samtidigt. Använd den samlade åtgärdsmenyn för att batchexportera, dela eller radera urvalet.
+Tryck på "Välj" för att välja flera dokument samtidigt. Använd den samlade åtgärdsmenyn för att exportera eller dela flera dokument (Pro), eller radera urvalet.
 
 ### Batchdelning
 
 PRO
 
-Dela flera originalfiler på en gång via enhetens delningsblad (e-post, meddelanden och mer). Filer dekrypteras säkert enbart under delning.
+Med Pro kan du dela flera originalfiler genom delningsmenyer som öppnas efter varandra (e-post, meddelanden och mer). Appen dekrypterar original för delning, och även för visning och redigering.
 
 #### Säker radering med ångra
 
-Råkade du radera ett dokument? Trycka på Ångra omedelbar för att återställa det. Missade du fönstret? Det flyttas till Nyligen borttaget, där det stannar i 30 dagar innan permanent borttagning – vilket ger dig ett skyddsnät utan att äventyra din integritet.
+Råkade du radera ett dokument? Trycka på Ångra omedelbar för att återställa det. Missade du fönstret? Det flyttas till Nyligen raderad. När molnsäkerhetskopiering är avstängd rensar appen det automatiskt efter 30 dagar; med molnsäkerhetskopiering på stannar det tills du raderar det permanent. Du kan också radera det permanent tidigare.
 
 **Viktigt:** Travel Document Vault är ett personligt organiseringsverktyg för att lagra digitala kopior av dina dokument. **Digitala kopior lagrade i denna app är INTE giltiga för resor.** Den verifierar inte dokumentens äkthet eller ger juridiska råd eller reseråd. Bär alltid originalhandlingar och verifiera alla resekrav med officiella statliga källor.
 

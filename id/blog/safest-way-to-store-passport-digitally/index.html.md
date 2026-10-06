@@ -67,25 +67,25 @@ Jika akun Google Anda diretas, seseorang dengan akses tersebut dapat mengambil h
 
 ## Opsi 3: Aplikasi terenkripsi khusus
 
-Aplikasi terenkripsi khusus yang dirancang untuk dokumen perjalanan bekerja sepenuhnya di perangkat Anda dan tidak pernah mengunggah data ke server eksternal.
+Travel Document Vault menyimpan dokumen di ponsel Anda secara default. Anda bisa membagikan atau mengekspor salinan, atau mencadangkannya ke iCloud atau Google Drive Anda sendiri dengan Pro.
 
 ### Cara kerjanya
 
-Saat Anda menambahkan hasil pindaian paspor ke aplikasi, data tersebut dienkripsi menggunakan AES-256 dan disimpan sepenuhnya di ponsel Anda. Aplikasi bekerja sepenuhnya secara luring — tidak perlu akun, tidak perlu server. Jika Anda ingin akses lintas perangkat, fitur Pro opsional mencadangkan salinan terenkripsi ke iCloud atau Google Drive Anda sendiri, disegel dengan kode pemulihan yang hanya Anda miliki.
+Saat Anda menambahkan hasil pindaian paspor ke aplikasi, data tersebut dienkripsi menggunakan AES-256 dan disimpan sepenuhnya di ponsel Anda. Aplikasi bekerja sepenuhnya secara luring — tidak perlu akun, tidak perlu server. Dengan Pro, Anda bisa mencadangkan salinan terenkripsi ke iCloud atau Google Drive Anda sendiri dan menyinkronkannya antarperangkat yang sudah dikonfigurasi pada platform yang sama. Anda memerlukan kode pemulihan untuk memulihkan cadangan cloud.
 
 ### Karakteristik keamanan
 
-- **Enkripsi AES-256 di perangkat:** Ya. Data tidak pernah meninggalkan ponsel Anda.
-- **Memerlukan akun:** Tidak. Tidak ada akun, tidak ada server, tidak ada login.
-- **Unggahan ke cloud:** Tidak. Sama sekali tidak ada.
+- **Enkripsi AES-256 di perangkat:** Ya. Data tetap di ponsel kecuali jika Anda membagikan atau mengekspornya, atau mengaktifkan cadangan terenkripsi ke iCloud atau Google Drive Anda sendiri (Pro).
+- **Memerlukan akun:** Tidak. Tanpa akun atau login TDV; cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri (Pro) menggunakan akun cloud Anda.
+- **Unggahan ke cloud:** Cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri (Pro); Anda juga bisa membagikan atau mengekspor salinan.
 - **Bekerja secara luring:** Ya, sepenuhnya.
 - **Dirancang untuk dokumen identitas:** Ya. Seluruh arsitekturnya dioptimalkan untuk menjaga privasi dokumen sensitif.
 
 ### Kompromi
 
-Keunggulan keamanannya besar: data paspor Anda tidak pernah dikirim atau disimpan di server jarak jauh, sehingga tidak pernah bisa diakses oleh siapa pun, dan tidak ada server jarak jauh yang bisa dibobol jika seseorang mendapatkan akses tanpa izin ke sistem perusahaan aplikasi tersebut. Ini berarti Anda tetap memegang kendali dan kepemilikan penuh atas dokumen Anda setiap saat.
+Travel Document Vault menyimpan dokumen di ponsel Anda secara default. Berbagi dan ekspor bersifat opsional, begitu juga dengan cadangan terenkripsi ke iCloud atau Google Drive Anda sendiri dengan Pro.
 
-Kekurangannya adalah berkurangnya kenyamanan: Anda tidak bisa otomatis mengakses salinan paspor dari beberapa perangkat, dan jika ponsel Anda hilang, aplikasi tidak akan memulihkan dokumen Anda dengan sendirinya, Anda perlu memulihkannya secara manual dari cadangan. Bagi kebanyakan keluarga yang bepergian bersama, menyimpan dokumen di ponsel salah satu orang tua sudah cukup, dan banyak aplikasi mendukung sinkronisasi manual melalui cadangan, yang memberi fleksibilitas tambahan tanpa mengharuskan unggahan otomatis ke cloud.
+Dengan Pro, Anda bisa menyinkronkan dokumen antarperangkat yang sudah dikonfigurasi pada platform yang sama. Jika ponsel Anda hilang, pulihkan cadangan yang tersimpan. Pemulihan dari cloud memerlukan kode pemulihan Anda. Bagi kebanyakan keluarga yang bepergian bersama, menyimpan dokumen di ponsel salah satu orang tua sudah cukup, dan banyak aplikasi mendukung sinkronisasi manual melalui cadangan, yang memberi fleksibilitas tambahan tanpa mengharuskan unggahan otomatis ke cloud.
 
 ## Perbandingan langsung
 
@@ -95,8 +95,8 @@ Kekurangannya adalah berkurangnya kenyamanan: Anda tidak bisa otomatis mengakses
 | Terenkripsi ujung ke ujung | Opsional (Perlindungan Data Lanjutan) | Tidak | Ya (selalu) |
 | Memerlukan akun | Ya (Apple ID) | Ya (akun Google) | Tidak |
 | Berfungsi penuh secara offline | Tidak (perlu sinkronisasi) | Tidak (perlu sinkronisasi) | Ya |
-| Risiko kebocoran jarak jauh | Sedang (server Apple) | Sedang hingga tinggi (server Google + pemindaian konten) | Tidak ada (tanpa penyimpanan jarak jauh) |
-| Akses lintas perangkat | Otomatis | Otomatis | Hanya cadangan manual |
+| Risiko kebocoran jarak jauh | Sedang (server Apple) | Sedang hingga tinggi (server Google + pemindaian konten) | Cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri (Pro) |
+| Akses lintas perangkat | Otomatis | Otomatis | Ekspor vault manual; cadangan cloud otomatis dan sinkronisasi opsional (Pro) |
 | Biaya | Gratis (200 GB), lalu berbayar | Gratis (15 GB), lalu berbayar | Umumnya pembelian sekali bayar, tanpa langganan |
 | Dirancang untuk dokumen identitas | Tidak | Tidak | Ya |
 
@@ -130,7 +130,7 @@ Google Photos tidak terenkripsi ujung ke ujung secara bawaan. Google mengindeks 
 
 ### Apa keunggulan aplikasi terenkripsi khusus untuk menyimpan paspor?
 
-Aplikasi terenkripsi khusus yang dirancang untuk dokumen perjalanan biasanya menyimpan data di perangkat menggunakan enkripsi AES-256, tidak memerlukan akun atau unggahan ke cloud, bekerja secara luring, dan memiliki permukaan kerentanan yang jauh lebih kecil. Karena data paspor Anda tidak pernah meninggalkan ponsel, tidak ada server jarak jauh yang bisa dibobol. Kompromi yang harus diterima adalah berkurangnya kenyamanan untuk akses lintas perangkat, tetapi bagi pengguna yang mengutamakan keamanan, ini adalah metode penyimpanan paling aman yang tersedia.
+Travel Document Vault mengenkripsi berkas dokumen asli Anda dengan AES-256 dan memungkinkan Anda melihatnya secara luring tanpa akun aplikasi. Anda bisa membagikan atau mengekspor salinan. Pro menambahkan cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri, serta sinkronisasi antarperangkat yang sudah dikonfigurasi pada platform yang sama.
 
 ### Bisakah saya menggunakan beberapa metode penyimpanan untuk paspor yang sama?
 

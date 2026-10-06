@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/da/why-us/
 
 ---
 
-Privatlivsfokuseret. Kun på enheden. Ingen konti krævet.
+Privatlivsfokuseret. På enheden som standard. Ingen konti krævet.
 
 # Altid parat
 når du har brug for det.
@@ -111,20 +111,20 @@ Det er alle fornuftige valg. Hvert enkelt virker – til en vis grad.
 
 ## Sådan klarer den sig
 
-Hvert alternativ gør én eller to ting godt. Kun én gør dem alle.
+Travel Document Vault gemmer dokumenter, holder styr på udløbsdatoer og tilføjer med Pro familieprofiler og rejseplanlægning.
 
 | Funktion | Travel Document Vault | Wallet-app | Fotobibliotek / cloud-lagring | Adgangskodeadministrator |
 |---|---|---|---|---|
-| Udløbspåmindelser | ✓6 mdr. i forvejen | ✗ | ✗ | ✗ |
+| Udløbspåmindelser (pr. dokumenttype) | ✓8 mdr. før pasudløb | ✗ | ✗ | ✗ |
 | Familieprofiler | ✓Ubegrænset (Pro) | ✗ | ✗ | ~Kun delte pengeskabe |
-| Ingen cloud-synkronisering | ✓Kun på enheden | ✗Cloud-synk | ✗Cloud-først | ✗Cloud-først |
+| På enheden som standard | ✓Backup valgfri (Pro) | ✗Cloud-synk | ✗Cloud-først | ✗Cloud-først |
 | Rejsespecifikke dokumenttyper | ✓Pas, visum, ID... | ~Kun boardingkort | ✗ | ✗ |
 | Virker offline | ✓ | ✓ | ~Kræver forudgående cache | ✓ |
 | Ingen konto krævet | ✓ | ~Platformskonto nødvendig | ✗ | ✗ |
 | Intet abonnement | ✓engangs | ✓ | ~Gratis, reklamefinansierede niveauer varierer | ✗typisk 30-40 $/år |
-| Beredskabstjekliste (pr. rejse) | ✓Ja | ✗ | ✗ | ✗ |
+| Beredskabstjekliste (pr. rejse) | ✓Ja (Pro) | ✗ | ✗ | ✗ |
 | Tilpassede dagsgrænser per land (dage-i / dage-væk) | ✓ | ✗ | ✗ | ✗ |
-| Krypteret cloud-synkronisering (dit eget cloud) | ✓Din egen cloud | ~Kun platformskonto | ~Kun cloud-udbyder | ~Udbyderens servere |
+| Krypteret cloud-synkronisering (dit eget cloud) | ✓Din egen cloud (Pro) | ~Kun platformskonto | ~Kun cloud-udbyder | ~Udbyderens servere |
 
 ✓ Understøttet ~ Delvist ✗ Ikke understøttet
 
@@ -138,7 +138,7 @@ Jeg kunne have bygget cloud-synkronisering. Alle andre apps gør det.
 
 Men ville jeg stole på en fremmed servers fotos af mine børns pas? **Aldrig.**
 
-Læsbar kun af dig. Altid.
+Krypteret på din enhed som standard.
 
 Cloud-synkronisering er som standard slået fra. Hvis du aktiverer det (Pro), krypteres dit lager på din enhed, før noget uploades, og går til dit eget iCloud eller Google Drive, forsealet med en nøglekode, som kun du har. Ingen – heller ikke os, Apple eller Google – kan læse det. Løftet håndhæves ved kode, ikke ved politik.
 
@@ -156,19 +156,19 @@ Virker for pas, visa, kørekort, forsikring – alt med en udløbsdato.
 
 Du er den, der husker, hvilket barns pas udløber først. Om forsikringen dækker alle. Hvornår visaerne skal fornyes.
 
-**Én profil per familiemedlem.** Ét tryk for at se alt. Bygget til den person, der bærer det hele.
+**Med Pro: én profil pr. familiemedlem.** Ét tryk for at se alt. Bygget til den person, der bærer det hele.
 
 ### Virker offline. Overalt.
 
 Ustabilt lufthavns-Wi-Fi? Udenlandsk ambassade uden signal? Flytilstand?
 
-Dine dokumenter er altid på din enhed, altid tilgængelige. Intet internet krævet, nogensinde.
+Lokalt gemte dokumenter er tilgængelige offline. Lokal dokumentvisning og påmindelser virker offline; køb, opdateringstjek og skyfunktioner kræver internet.
 
 ### Betal én gang. Intet abonnement.
 
-**Start gratis.** Gem op til 5 dokumenter med fulde påmindelser og sikkerhed. Opgrader når som helst til ubegrænset lagerplads.
+**Start gratis.** Gem op til 5 dokumenter med fulde påmindelser og sikkerhed. Pro fjerner grænsen for antallet af dokumenter. Den tilgængelige plads afhænger stadig af din enhed.
 
-Travel Document Vault er et **engangskøb** på $9.99. Ubegrænsede profiler og dokumenter, ingen tilbagevendende gebyrer og ingen fornyelsesdato at huske.
+Pro er et **engangskøb** på $9.99. Ubegrænsede profiler og dokumenter, ingen tilbagevendende gebyrer og ingen fornyelsesdato at huske.
 
 Prissat i amerikanske dollar. Vi fastsætter hvert lands pris lokalt i stedet for at omregne fra dollar, og App Store eller Google Play viser din pris, før du betaler.
 
@@ -176,11 +176,11 @@ Prissat i amerikanske dollar. Vi fastsætter hvert lands pris lokalt i stedet fo
 
 ### Flersidessupport
 
-Support for op til 10 sider pr. dokument. Uundværligt for rejseforsikringspolicer og flersidede visa, som generelle pengeskabe ofte afskærer.
+Med Pro kan du tage op til 10 sider for flybilletter, gavekort og andre dokumenter, herunder rejseforsikringspolicer.
 
 ### Professionel PDF-eksport
 
-Kombiner flere dokumenter i én PDF-fil til deling med ambassader, flyselskaber eller til fysisk udskrivning.
+Med Pro kan du kombinere flere dokumenter i én PDF-fil til deling med ambassader, flyselskaber eller til fysisk udskrivning.
 
 Lavet af en forælder, der havde brug for dette. Privatlivsfokuseret af design.
 
@@ -192,7 +192,7 @@ Moderne funktioner til moderne rejser.
 
 Pro
 
-Family readiness traffic light. See who's ready to travel.
+Family readiness traffic light. Tjek tilknyttede dokumenter op mod gemte rejsedatoer (Pro).
 
 ### Your Cloud. Your Key.
 
@@ -220,7 +220,7 @@ Separate profiles. Each person's documents organised on their own.
 
 ### 30-Day Undo
 
-Accidentally deleted. Recover anytime.
+Accidentally deleted. Gendan inden for 30 dage.
 
 Start gratis. Opgrader når som helst.
 
@@ -240,7 +240,7 @@ Tjek alles dokumentstatus øjeblikkeligt
 
 Klar til din rejse
 
-Alle personer, alle dokumenter, verificeret
+Tilknyttede dokumenter tjekket op mod gemte rejsedatoer (Pro)
 
 ![Document types including passport, visa, ID, airline ticket](https://traveldocumentvault.com/assets/images/screenshots-appstore/04.webp)
 
@@ -252,7 +252,7 @@ Smarte påmindelser med 6 ugers forudvarsel
 
 Dage tilbage i hvert land
 
-Spor alles tid i udlandet
+Spor alles tid i udlandet med Pro
 
 Family profiles for Emma, Lucas, Oliver, and Sophie
 
@@ -278,7 +278,7 @@ Scan. Indstil. Glem.
 
 Åbn kameraet, brug den vejledte overlay, og optag dit dokument. Eller importer et eksisterende fra dit fotoalbum.
 
-Appen registrerer udløbsdatoen – du bekræfter blot.
+Appen aflæser udløbsdatoen, når det er muligt – du bekræfter den eller indtaster den selv.
 
 2
 
@@ -286,7 +286,7 @@ Appen registrerer udløbsdatoen – du bekræfter blot.
 
 Appen planlægger kaskadepåmindelser automatisk.
 
-Seks måneder, tre måneder, seks uger... helt frem til udløbsdagen og videre.
+Pas starter otte måneder før udløb. ID-kort, visa, forsikring og andre dokumenter starter tre måneder før med påmindelser frem til udløbsdagen og bagefter.
 
 3
 
@@ -296,11 +296,11 @@ Ved indvandring, udfyldning af formularer, ansøgning om visa. Dine dokumenter e
 
 ## Bygget til rejsende
 
-Denne app er designet til praktiske virkeligheder, ikke generisk fillagring.
+Gem dokumentkopier og udløbsdatoer ét sted med påmindelser slået til som standard.
 
-- **Familier:** Administrer flere profiler til børn og ægtefæller på ét sted. Bær den mentale byrde for hele husstanden uden at skifte mellem mapper.
+- **Familier:** Med Pro kan du administrere flere profiler til børn og ægtefæller på ét sted. Bær den mentale byrde for hele husstanden uden at skifte mellem mapper.
 - **Digitale nomader og expats:** Spor opholdstilladelser, lokale ID-kort og arbejdsvisa ved siden af pas, mens du bevæger dig mellem lande.
-- **6-måneders-reglen:** Vores påmindelser tager højde for strenge internationale indrejsekrav, som generalistapps ignorerer, og advarer dig, før dit pas bliver ugyldigt til rejse.
+- **6-måneders-reglen:** Paspåmindelser starter som standard otte måneder før udløb. Tjek destinationens indrejsekrav separat.
 - **Fremtidsklar:** Forbliv organiseret midt i kommende EU-administrative ændringer som EES og ETIAS. Sikr, at dine dokumenter er klar, før reglerne ændrer sig.
 - **Privatlivsbevidste personer:** Gem dokumenter uden at stole på cloud-servere. Alt forbliver på din enhed.
 - **Budgetbevidste købere:** Undgå abonnementer. Betal et simpelt enganggebyr frem for at leje dine egne data.
@@ -309,11 +309,11 @@ Denne app er designet til praktiske virkeligheder, ikke generisk fillagring.
 
 De spørgsmål vi oftest hører.
 
-Hvad sker der, hvis jeg mister min telefon? Dit vault er gemt på din enhed og ikke inkluderet i almindelige telefonsikkerhedskopier (iCloud eller Google Backup), fordi krypteringsnøglen aldrig forlader din enhed. I stedet kan du bruge gratis Vault Export (en krypteret .tdvault-fil) til at importere på en anden enhed, eller aktivere Pro-Cloud Backup til krypteret sikkerhedskopi til dit eget iCloud eller Google Drive med en gendannelseskode som kun du har. Fungerer det uden internet? Fuldstændigt. Appen gemmer alt på din enhed og behøver aldrig en internetforbindelse. OCR-behandling, påmindelser og dokumentvisning fungerer alle offline. Er mine data virkelig sikre? Dine dokumenter er stærkt krypteret på din enhed og beskyttet af din telefons indbyggede sikkerhedschip. Designet betyder, at jeg ikke kan læse dine data, og heller ikke Apple eller Google. Du kan selv kontrollere privatlivsmodellen på siden [Privatlivsverifikation](https://traveldocumentvault.com/da/privacy-verification/). PIN-lås og biometrisk lås (Face ID/Touch ID) er begge gratis. Er det virkelig et engangskøb? Ja. Pro er $9.99 én gang, i amerikanske dollar. Hvert land fastsætter sin pris lokalt i stedet for at omregne den fra dollar, og butikken viser din pris, før du betaler.* Intet abonnement, ingen tilbagevendende gebyrer, ingen "din prøveperiode slutter"-e-mails. Gratisniveauet er ægte gratis – 1 profil, 5 dokumenter, alle funktioner inkl. OCR og påmindelser.
+Hvad sker der, hvis jeg mister min telefon? Dine dokumenter er krypteret på din enhed. Den lokale nøgle bliver i det sikre nøglelager og indgår ikke i almindelige telefonbackups. Vault Export indeholder en adgangskodekrypteret kopi af den nøgle. Pro-cloud-backup gendannes med din gendannelseskode på en understøttet telefon på samme platform med samme skykonto. Du kan også bruge gratis Vault Export og Import. Gendannelse eller import erstatter den lokale hvælving. Fungerer det uden internet? Fuldstændigt. Appen gemmer alt på din enhed og behøver ingen internetforbindelse til daglig brug. Påmindelser og visning af lokalt gemte dokumenter virker offline. OCR-behandling foregår på din enhed. Er mine data virkelig sikre? Dine dokumenter er krypteret med AES-256-GCM på din enhed, og nøglen opbevares i telefonens sikre nøglelager og indgår aldrig i en telefonbackup. Designet betyder, at jeg ikke kan læse dine data, og heller ikke Apple eller Google. Du kan selv kontrollere privatlivsmodellen på siden [Privatlivsverifikation](https://traveldocumentvault.com/da/privacy-verification/). PIN-lås og biometrisk lås (Face ID/Touch ID) er begge gratis. Er det virkelig et engangskøb? Ja. Pro er $9.99 én gang, i amerikanske dollar. Hvert land fastsætter sin pris lokalt i stedet for at omregne den fra dollar, og butikken viser din pris, før du betaler.* Intet abonnement, ingen tilbagevendende gebyrer, ingen "din prøveperiode slutter"-e-mails. Gratisniveauet er ægte gratis – 1 profil, 5 dokumenter, alle kernefunktioner inkl. OCR og påmindelser.
 
 * For v1.x. Se [Prispolitik](https://traveldocumentvault.com/pricing-policy/#version-policy).
 
-Kan jeg bruge det til mere end pas? Ja. Den understøtter pas, visa, ID-kort, kørekort, forsikringskort, flybilletter og enhver dokumenttype, du har brug for. Hver type har sin egen vejledte optagelsesoverlay. [Se alle ofte stillede spørgsmål →](https://traveldocumentvault.com/da/faq/)
+Kan jeg bruge det til mere end pas? Ja. Den understøtter pas, visa, ID-kort, kørekort, forsikringskort, flybilletter og enhver dokumenttype, du har brug for. Hver dokumentform har sin egen vejledte optagelsesramme. [Se alle ofte stillede spørgsmål →](https://traveldocumentvault.com/da/faq/)
 
 **Vigtigt:** Travel Document Vault er et personligt organisationsværktøj til opbevaring af digitale kopier af dine dokumenter. **Digitale kopier gemt i denne app er IKKE gyldige til rejse.** Den verificerer ikke dokumenters ægthed og yder ikke juridisk eller rejserelateret rådgivning. Medbring altid originale dokumenter og bekræft alle rejsekrav hos officielle myndigheder.
 

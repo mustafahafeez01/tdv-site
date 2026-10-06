@@ -52,7 +52,7 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 ##
 
-[Voyages en familleGestion des passeports familiaux : stocker plusieurs passeports en toute sécuritéComment organiser et stocker en toute sécurité les passeports familiaux dans un seul endroit. Suivez les dates d'expiration de chaque membre de la famille, avec des rappels avant chaque renouvellement.16 juillet 20267 min de lecture](https://traveldocumentvault.com/fr/blog/family-passport-management/)
+[Voyages en familleGestion des passeports familiaux : stocker plusieurs passeports en toute sécuritéRegroupez les passeports de votre famille dans un espace chiffré. Ajoutez des profils familiaux avec Pro, et utilisez les dates d’expiration et les rappels pour prévoir les renouvellements.16 juillet 20267 min de lecture](https://traveldocumentvault.com/fr/blog/family-passport-management/)
 
 ##
 
@@ -142,9 +142,9 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 [Règles de passeportLa règle des 6 mois de validité du passeport : quels pays l'appliquent et comment l'éviter Votre passeport pourrait être valide — mais vous faire refuser quand même. Découvrez quels pays appliquent la règle des 6 mois, comment les compagnies aériennes la vérifient et comment vous assurer que toute votre famille est couverte avant de réserver. 1er février 20267 min de lecture](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)
 
-## La dernière fois que vous vous débattez avant un voyage
+## Regroupez les informations de votre passeport
 
-Scannez les passeports de votre famille ce soir. Les rappels d'expiration se configurent automatiquement. Chiffré de manière sécurisée, stocké uniquement sur votre appareil.
+Scannez votre passeport ce soir et confirmez ou saisissez sa date d’expiration. Les rappels sont activés par défaut, et vos documents sont chiffrés sur votre appareil. Vous pouvez partager ou exporter des copies. Pro ajoute les profils familiaux et la sauvegarde chiffrée facultative sur votre propre cloud.
 
 ![Télécharger sur l'App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

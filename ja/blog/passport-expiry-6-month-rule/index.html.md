@@ -64,7 +64,7 @@ Source: https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/
 
 常に IATA Travel Centre を使用して確認してください。これは航空会社が乗客ドキュメントをリアルタイムでチェックするシステムです。
 
-**Travel Document Vault** は、旅行終了時点でパスポートの有効期間が6か月を切っている場合に、家族全員分を自動的に警告表示します。[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)と[Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog)でダウンロードできます。
+**Travel Document Vault**はProで、紐付けたパスポートを保存した旅行の終了日から初期設定で180日間の有効期間の余裕を基準に確認します。この余裕は変更できます。渡航先の実際の規則は別途確認してください。[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)と[Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog)でダウンロードできます。
 
 ## 6ヶ月ルールが適用されない場合
 
@@ -104,7 +104,7 @@ Source: https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/
 
 どの旅行の前でも、目的地を出国する日から6ヶ月先を数えてください。これは基準となる2つの日付のうち遅い方なので、ルールのどちらのバージョンも満たせます。旅行日そのものではなく、その日付を基準にパスポートの失効日を確認してください。
 
-異なる失効日を持つ家族全体で複数のパスポートを管理することは、混乱になりやすいです。[Travel Document Vault](https://traveldocumentvault.com/ja/) は自動追跡します。各家族成員のパスポート失効期限を記録し、失効8か月前から通知を送信し、期限が近づくと再度お知らせします。毎回の予約前に計算の必要はありません。また、[ブログ](https://traveldocumentvault.com/ja/)で実践的な旅行ドキュメントのヒントを見つけることもできます。
+異なる失効日を持つ家族全体で複数のパスポートを管理することは、混乱になりやすいです。[Travel Document Vault](https://traveldocumentvault.com/ja/)はパスポートの有効期限を管理し、Proなら家族全員を追加できます。パスポートのリマインダーは初期設定で有効期限の8か月前から始まり、期限が近づくと繰り返し通知します。予約前に渡航先の有効期間の規則を確認してください。また、[ブログ](https://traveldocumentvault.com/ja/)で実践的な旅行ドキュメントのヒントを見つけることもできます。
 
 ## 旅行前にご要件をご確認ください
 
@@ -144,7 +144,7 @@ Source: https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/
 
 ### パスポートが6ヶ月ルールを満たしているかどうかを確認するにはどうすればよいですか？
 
-目的地を出国する日から6ヶ月先を数えて、パスポートがその日より後に期限切れになるかどうかを確認してください。これは各国が使う2つの基準日のうち遅い方なので、どちらの基準も満たせます。8月1日に出国する場合、パスポートは翌年の2月1日までに有効である必要があります。Travel Document Vault などのアプリは、家族全員のパスポート失効期限を自動追跡できるため、毎回の旅行前に計算する必要がありません。
+目的地を出国する日から6ヶ月先を数えて、パスポートがその日より後に期限切れになるかどうかを確認してください。これは各国が使う2つの基準日のうち遅い方なので、どちらの基準も満たせます。8月1日に出国する場合、パスポートは翌年の2月1日までに有効である必要があります。Proでは、Travel Document Vaultが紐付けたパスポートを、保存した旅行の終了日から初期設定で180日間の有効期間の余裕を基準に確認します。この余裕は変更できます。渡航先の実際の規則は別途確認してください。180日が暦の6ヶ月と同じとは限りません。
 
 ### ヨーロッパ渡航にはパスポートの残り有効期限が6ヶ月必要ですか？
 
@@ -152,7 +152,7 @@ Source: https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/
 
 ### 1人の家族成員のパスポートはルールを満たすが、別の人のパスポートは満たしない場合？
 
-各家族成員のパスポートは個別に評価されます。グループルールはありません。これは、1つのパスポートが6ヶ月要件を満たす一方で、別のパスポートが不足し、その人の旅行を妨げる可能性があることを意味します。予約前に、家族全員のパスポートを目的地の有効期限要件に対してチェックしてください。Travel Document Vault などのアプリを使用すると、各家族成員のパスポート失効期限を別々に追跡できるため、チェックインする前にこれらのギャップを検出できます。
+各家族成員のパスポートは個別に評価されます。グループルールはありません。これは、1つのパスポートが6ヶ月要件を満たす一方で、別のパスポートが不足し、その人の旅行を妨げる可能性があることを意味します。予約前に、家族全員のパスポートを目的地の有効期限要件に対してチェックしてください。Travel Document Vaultはパスポートの有効期限を管理し、Proなら家族一人ひとりを追加できます。予約前に、各自の有効期限を渡航先の規則と照らし合わせて確認してください。
 
 ### パスポートの残り期限が3ヶ月でも渡航できますか？
 

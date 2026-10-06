@@ -1,6 +1,6 @@
 # Backup Cloud Crittografato per i Documenti di Viaggio: Chi Ha la Chiave
 
-> Cosa cifra davvero un backup delle scansioni del passaporto, e perché nessuno può reimpostare il tuo codice di recupero.
+> Cosa cifra davvero un backup delle scansioni del passaporto, e perché non possiamo reimpostare il tuo codice di recupero.
 
 Source: https://traveldocumentvault.com/it/blog/encrypted-cloud-backup-travel-documents/
 
@@ -12,9 +12,9 @@ Source: https://traveldocumentvault.com/it/blog/encrypted-cloud-backup-travel-do
 
 - **"Backup crittografato" ha senso solo quando sai chi ha la chiave.** Se l'azienda può leggere i tuoi documenti, la cifratura li protegge dagli estranei, non dall'azienda.
 - Un backup cifrato sul telefono prima del caricamento arriva nel cloud come dati illeggibili. Il fornitore di archiviazione conserva testo cifrato, non il tuo passaporto.
-- **Nessun account significa nessun reset della password.** Perdi il codice di recupero e il backup non può essere aperto da nessuno, noi compresi. È lo scambio deliberato.
+- **Nessun account significa nessun reset della password.** Perdi il codice di recupero e l’accesso a tutti i dispositivi che possono ancora aprire il vault e non possiamo recuperare il backup crittografato. È lo scambio deliberato.
 - Scrivi il codice prima di dipendere dal backup, tienilo lontano dal telefono, e rileggilo una volta per verificare che sia leggibile.
-- Un backup di sistema del dispositivo reinstalla l'app ma non può riportare indietro i tuoi documenti, perché la chiave di cifratura non ha mai lasciato il vecchio telefono.
+- Un backup di sistema del dispositivo reinstalla l'app ma non può riportare indietro i tuoi documenti, perché i backup di sistema non trasferiscono la chiave di cifratura legata al dispositivo.
 
 Hai scansionato quattro passaporti, due visti e i certificati di nascita dei bambini in un'app che conserva tutto sul tuo telefono. Bene. Poi arriva la preoccupazione ovvia: cosa succede se il telefono finisce in mare, o viene sfilato da un tavolino di un caffè a Lisbona.
 
@@ -32,11 +32,11 @@ L'altra configurazione cifra il file sul tuo telefono prima ancora che venga inv
 
 Quindi la domanda da porsi a qualsiasi app è breve: **chi ha la chiave?** Tutto il resto del marketing discende da questa risposta.
 
-## Il Codice di Recupero, e Perché Nessuno Può Reimpostarlo
+## Il codice di recupero e perché non possiamo reimpostarlo
 
-Ecco la parte che la maggior parte degli articoli salta, e merita di essere detta chiaramente: Travel Document Vault non ha account. Non ci hai mai dato un indirizzo email, non ti abbiamo mai impostato una password, e non esiste alcuna traccia di te su nessun server che gestiamo. Quando attivi il [backup cloud](https://traveldocumentvault.com/it/cloud-backup/), l'app genera un codice di recupero di 24 caratteri e da esso deriva la chiave di cifratura. Il vault cifrato va poi al tuo **iCloud personale su iPhone e iPad, o al tuo Google Drive personale su Android**, non a noi.
+Travel Document Vault non richiede un account per conservare documenti sul dispositivo. Il [backup cloud](https://traveldocumentvault.com/it/cloud-backup/) facoltativo richiede Pro e il codice di recupero per sbloccare la chiave di cifratura cloud. L’app crea questo codice di 24 caratteri quando imposti il PIN. Il vault cifrato va poi al tuo **iCloud personale su iPhone e iPad, o al tuo Google Drive personale su Android**, non a noi.
 
-La conseguenza è inevitabile. **Se perdi quel codice di recupero, il backup non potrà mai più essere aperto.** Non da te, non da Apple o Google, e non da noi. Non esiste un link per il reset, perché non esiste un account a cui collegarlo. Non esiste un ticket di assistenza che possa recuperarlo, perché non l'abbiamo mai avuto e non possiamo nemmeno iniziare a indovinarlo.
+La conseguenza è inevitabile. **Se perdi il codice di recupero e l’accesso a tutti i dispositivi che possono ancora aprire il vault, non possiamo recuperare il backup crittografato.** Non esiste un link per il reset, perché non esiste un account a cui collegarlo. Non esiste un ticket di assistenza che possa recuperarlo, perché non l'abbiamo mai avuto e non possiamo nemmeno iniziare a indovinarlo.
 
 Detta così suona dura, ed è meglio essere onesti piuttosto che nasconderla in una schermata delle impostazioni. È lo stesso scambio che fai con la chiave di casa: la serratura vale qualcosa solo perché nessun fabbro al mondo tiene una copia di riserva, ed è proprio per questo che perdere la tua è un problema tuo.
 
@@ -68,17 +68,17 @@ Ecco perché la versione onesta di "il cloud è sicuro" è: il cloud è un indir
 
 ## Cosa Va Nel Backup, e Cosa Resta Fuori
 
-Il backup contiene una copia cifrata del vault: ogni profilo, ogni scansione, scadenze, promemoria, note e allegati. Ripristinandolo, l'app torna esattamente come l'avevi lasciata.
+Il backup include profili, scansioni, allegati, date di scadenza, note e cronologia dei promemoria trasferibile su un nuovo dispositivo. L’app li cifra prima del caricamento. Il ripristino recupera questi contenuti del vault; le impostazioni del dispositivo restano separate e l’app ricrea le notifiche.
 
-Tre cose restano deliberatamente sul telefono, e il codice di recupero viene prima di tutto: non lascia mai il dispositivo, ed è proprio questo il punto. Anche il blocco dell'app resta locale, quindi Face ID, Touch ID o il tuo PIN tengono fuori dal telefono le altre persone, mentre la cifratura le tiene fuori dal file. E gli snapshot locali automatici che l'app crea mentre lavori restano solo sul dispositivo.
+Tre cose restano deliberatamente sul telefono, e il codice di recupero viene prima di tutto: non viene caricato insieme al backup. Anche il blocco dell'app resta locale, quindi Face ID, Touch ID o il tuo PIN tengono fuori dall’app le altre persone, mentre la cifratura le tiene fuori dal file. E gli snapshot locali automatici che l'app crea mentre lavori restano solo sul dispositivo.
 
-Quest'ultimo punto trae in inganno molte persone, quindi ecco la versione senza giri di parole. **Un backup di sistema del dispositivo reinstalla l'app ma non può ripristinare i tuoi documenti.** La chiave di cifratura non ha mai lasciato il vecchio telefono, quindi quello nuovo non ha nulla con cui decifrare. Se vuoi che il tuo vault sopravviva al telefono, ti serve il backup cloud attivo oppure un file esportato salvato da qualche parte.
+Quest'ultimo punto trae in inganno molte persone, quindi ecco la versione senza giri di parole. **Un backup di sistema del dispositivo reinstalla l'app ma non può ripristinare i tuoi documenti.** I backup di sistema non trasferiscono la chiave di cifratura legata al dispositivo, quindi sul nuovo telefono serve il ripristino dal cloud (Pro) o un file del vault esportato. Se vuoi che il tuo vault sopravviva al telefono, ti serve il backup cloud attivo oppure un file esportato salvato da qualche parte.
 
-## Il Ripristino È Breve e Non Sovrascrive Ciò Che C'è Già
+## Ripristinare il vault: ricominciare da zero non modifica mai il vecchio backup
 
-Il ripristino è breve, ed è proprio questo il senso di fare la preparazione in anticipo.
+Il tempo di ripristino dipende dalle dimensioni del vault e dalla connessione.
 
-Installa l'app sul nuovo telefono e accedi allo stesso account iCloud o Google che usavi prima. Apri Impostazioni, poi Backup Cloud, poi Ripristina da Backup, e inserisci il tuo codice di recupero. Il vault torna con profili, scadenze e promemoria intatti.
+Installa l’app sul nuovo telefono e accedi allo stesso account iCloud o Google che usavi prima. Con Pro e il backup cloud disattivato sul dispositivo di destinazione, apri Impostazioni, Backup su Cloud, poi Ripristina da Backup. Scegli il vault esistente, inserisci il codice di recupero e conferma il ripristino, che sostituisce il contenuto locale del vault. Vengono ripristinati profili, documenti e date di scadenza; le notifiche vengono ricreate sul dispositivo di destinazione.
 
 L'app controlla anche prima di scrivere. Se il backup cloud rileva un backup già esistente in quell'account, ti chiede di scegliere tra ripristinarlo e ricominciare da zero. Un telefono nuovo non può sovrascrivere silenziosamente ciò che è già presente.
 
@@ -88,7 +88,7 @@ Il backup cloud resta su un'unica piattaforma, perché usa il tuo iCloud persona
 
 Usa l'Esportazione Vault. Impostazioni, Esporta Vault produce un unico file protetto da password che contiene tutto, e scegli tu dove farlo finire: l'app File, un drive, un'email a te stesso. Sul nuovo telefono, Impostazioni, Importa Vault lo rilegge. Funziona in entrambe le direzioni e mantiene nomi, date, promemoria, colori, note e allegati come erano.
 
-Quel file esportato è anche la risposta per chi vuole una copia che non dipenda affatto da un account cloud. È sensato tenerne una su un drive a casa, indipendentemente dal telefono che usi.
+L’esportazione del vault è gratuita. In Impostazioni, Esporta vault crea un file protetto da password con profili, documenti, viaggi, impostazioni supportate e allegati leggibili. Scegli dove salvarlo: l’app File, un drive o un’email a te stesso. Sul nuovo telefono, Impostazioni, Importa backup lo rilegge e sostituisce i dati già presenti. Supporta entrambe le piattaforme. Controlla documenti, note e allegati importati, ricontrolla i promemoria e conserva il file esportato originale. Le notifiche vengono ricreate sul dispositivo di destinazione.
 
 ## Una Routine di Backup Che Sopravvive a un Telefono Perso
 
@@ -114,23 +114,23 @@ Significa che la copia viene cifrata sul tuo telefono prima ancora di essere inv
 
 ### Cosa succede se perdo la mia chiave di backup?
 
-Il backup resta cifrato e nessuno può aprirlo, noi compresi. Non esiste un account, non esiste un reset della password, e non esiste un canale di assistenza che possa recuperarlo, perché il codice di recupero non arriva mai fino a noi. È lo scambio deliberato per garantire che nessun altro possa leggere i tuoi documenti. Scrivi il codice prima di fare affidamento sul backup, conservalo in un posto separato dal telefono, e rileggilo una volta per verificare che tu riesca davvero a farlo.
+Se perdi il codice di recupero e l’accesso a tutti i dispositivi che possono ancora aprire il vault, non possiamo recuperare il backup crittografato. Non esiste un account, non esiste un reset della password, e non esiste un canale di assistenza che possa recuperarlo, perché il codice di recupero non arriva mai fino a noi. È lo scambio deliberato per garantire che nessun altro possa leggere i tuoi documenti. Scrivi il codice prima di fare affidamento sul backup, conservalo in un posto separato dal telefono, e rileggilo una volta per verificare che tu riesca davvero a farlo.
 
 ### Il backup cloud è sicuro per le scansioni del passaporto?
 
-Dipende interamente da cosa arriva effettivamente nel cloud. Una foto del passaporto in una normale libreria fotografica o in una cartella sincronizzata arriva leggibile, e chiunque acceda a quell'account può leggerla. Un backup cifrato sul dispositivo prima del caricamento arriva come testo cifrato, quindi il fornitore di archiviazione conserva qualcosa che non può aprire. Travel Document Vault cifra il vault sul tuo telefono con AES-256-GCM e invia il file cifrato al tuo iCloud o Google Drive personale, non a un server dell'azienda.
+Dipende interamente da cosa arriva effettivamente nel cloud. Una foto del passaporto in una normale libreria fotografica o in una cartella sincronizzata arriva leggibile, e chiunque acceda a quell'account può leggerla. Un backup cifrato sul dispositivo prima del caricamento arriva come testo cifrato, quindi il fornitore di archiviazione conserva qualcosa che non può aprire. Con Pro, Travel Document Vault cifra il vault sul tuo telefono con AES-256-GCM e invia il file cifrato al tuo iCloud o Google Drive personale, non a un server TDV.
 
 ### Posso ripristinare i miei documenti su un telefono diverso?
 
-Sì. Installa l'app sul nuovo telefono, accedi allo stesso account iCloud o Google, poi apri Impostazioni, Backup Cloud, Ripristina da Backup e inserisci il tuo codice di recupero. I tuoi profili, documenti, scadenze e promemoria tornano esattamente come li avevi lasciati. Tieni presente che un backup di sistema del dispositivo non fa questo da solo: reinstalla l'app ma non può decifrare i tuoi documenti, perché la chiave di cifratura non lascia mai il dispositivo originale.
+Sì, con Pro. Installa l’app sul nuovo telefono e accedi allo stesso account iCloud o Google. Con il backup cloud disattivato sul dispositivo di destinazione, apri Impostazioni, Backup su Cloud, poi Ripristina da Backup. Scegli il vault esistente, inserisci il codice di recupero e conferma il ripristino, che sostituisce il contenuto locale del vault. Vengono ripristinati profili, documenti e date di scadenza; le notifiche vengono ricreate sul dispositivo di destinazione. Un backup di sistema reinstalla l’app ma non può decifrare i documenti, perché non trasferisce la chiave di cifratura legata al dispositivo.
 
 ### Il backup funziona tra iPhone e Android?
 
-Il backup cloud in sé resta su un'unica piattaforma, perché usa il tuo iCloud personale su iPhone e iPad e il tuo Google Drive personale su Android. Per passare dall'uno all'altro, usa invece l'Esportazione Vault: Impostazioni, Esporta Vault crea un unico file .tdvault protetto da password che puoi inviarti come preferisci, poi Impostazioni, Importa Vault sul nuovo telefono lo rilegge. L'importazione funziona tra piattaforme diverse in entrambe le direzioni e mantiene intatti nomi, date, promemoria, note e allegati.
+Il backup cloud resta su un’unica piattaforma: il tuo iCloud su iPhone e iPad o il tuo Google Drive su Android. Per passare da una all’altra, usa l’esportazione gratuita del vault. In Impostazioni, Esporta vault crea un file .tdvault protetto da password che puoi inviarti. Sul nuovo telefono, Impostazioni, Importa backup lo rilegge e sostituisce i dati già presenti. L’importazione supporta entrambe le piattaforme. Controlla documenti, note e allegati importati, ricontrolla i promemoria e conserva il file esportato originale. Le notifiche vengono ricreate sul dispositivo di destinazione.
 
 ### Cosa viene salvato nel backup e cosa resta sul dispositivo?
 
-Il backup contiene una copia cifrata del tuo vault: ogni profilo, scansione, scadenza, promemoria e nota. Il tuo codice di recupero non è incluso e non lascia mai il dispositivo. Lo stesso vale per il blocco dell'app, quindi Face ID, Touch ID o il tuo PIN proteggono il telefono mentre la cifratura protegge il file. Anche gli snapshot locali automatici restano solo sul dispositivo, ed è per questo che non possono riportare indietro il tuo vault su un telefono sostitutivo.
+Il backup include profili, scansioni e allegati leggibili, date di scadenza, note e cronologia dei promemoria trasferibile, cifrati prima del caricamento. Il codice di recupero non viene caricato insieme al backup. Anche il blocco dell’app resta locale: Face ID, Touch ID o il PIN proteggono l’app mentre la cifratura protegge il file. Anche gli snapshot locali automatici restano solo sul dispositivo, ed è per questo che non possono riportare indietro il tuo vault su un telefono sostitutivo.
 
 ## Articoli Correlati
 

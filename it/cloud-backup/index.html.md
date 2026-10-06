@@ -1,6 +1,6 @@
 # Backup Cloud Crittografato | Suo Cloud. Sua Chiave. | Travel Document Vault
 
-> Backup crittografato end-to-end nel tuo iCloud o Google Drive. Il codice di ripristino ce l'hai solo tu, quindi nessun altro può aprirlo. Nemmeno noi.
+> Backup crittografato (Pro) sul tuo iCloud o Google Drive. Ripristina con il codice di recupero, che non conserviamo. Il vault salvato funziona offline.
 
 Source: https://traveldocumentvault.com/it/cloud-backup/
 
@@ -8,15 +8,15 @@ Source: https://traveldocumentvault.com/it/cloud-backup/
 
 ## Come funziona il backup crittografato
 
-Vera privacy significa che solo Lei e nessun altro può leggere i Suoi dati.
+I contenuti dei Suoi documenti vengono crittografati prima del caricamento nel cloud.
 
 1
 
 ### Crittografia sul Dispositivo
 
-Il Suo caveau viene crittografato sul Suo dispositivo con AES-256-GCM. La chiave di crittografia è derivata dal Suo codice di ripristino con PBKDF2 e 600.000 iterazioni.
+I contenuti dei Suoi documenti vengono crittografati sul dispositivo con AES-256-GCM. PBKDF2 con 600.000 iterazioni deriva la chiave che sblocca la chiave principale del vault, generata casualmente.
 
-AES-256-GCM è una crittografia forte e moderna, e il codice di recupero non lascia mai le Sue mani. Dovrebbe comunque proteggere il Suo telefono con una passcode robusta e il Blocco App. La crittografia protegge il file; la Sua passcode protegge il telefono.
+AES-256-GCM crittografa i contenuti dei documenti. L’app non carica il codice di recupero sui nostri server né su quelli di Apple o Google. Protegga comunque il telefono con un codice di accesso robusto e il Blocco PIN dell’app: la crittografia protegge il file, il codice di accesso protegge il telefono.
 
 2
 
@@ -24,23 +24,23 @@ AES-256-GCM è una crittografia forte e moderna, e il codice di recupero non las
 
 Il backup crittografato va al Suo account iCloud o Google Drive personale, non ai nostri server — è il Suo cloud e il Suo account.
 
-Può visualizzare e gestire i Suoi backup direttamente nel Suo iCloud o Google Drive. Ha il pieno controllo.
+Su iPhone e iPad può vedere i file di backup in iCloud Drive. Su Android si trovano in una cartella nascosta dell’app nel Suo Google Drive. Ha il pieno controllo.
 
 3
 
 ### Solo Lei detiene la Chiave
 
-Il Suo codice di ripristino è la chiave per decrittare i Suoi backup, e non lascia mai il Suo dispositivo — mai mandato a noi, Apple o Google.
+Il codice di recupero sblocca le chiavi di crittografia cloud. L’app non carica il codice sui nostri server né su quelli di Apple o Google; mantenga riservate le copie che crea.
 
 Conservi il Suo codice di ripristino in un luogo sicuro, perché senza di esso nemmeno noi possiamo ripristinare i Suoi dati — questo è intenzionale, non un bug.
 
 4
 
-### Ripristina su Qualsiasi Dispositivo
+### Ripristina su un nuovo dispositivo
 
-Cambia telefono? Ripristina il Suo backup con il Suo codice di ripristino. Lo stesso per nuovo iPad, Mac o altri dispositivi.
+Cambia telefono? Ripristini il backup con il codice di recupero. Vale anche per un nuovo iPad o un altro dispositivo supportato sulla stessa piattaforma, usando lo stesso account cloud.
 
-Scarica l'app, ripristina dal backup e inserisci il codice di ripristino per ottenere l'intero Suo caveau indietro, crittografato e pronto.
+Sul nuovo dispositivo apra Impostazioni, Backup su Cloud e scelga Ripristina da Backup. Selezioni il backup, inserisca il codice di recupero e confermi. Il ripristino sostituisce il vault locale.
 
 ## Come Protegge i Suoi Dati
 
@@ -48,35 +48,35 @@ Diversi livelli di sicurezza si interpongono tra un tocco accidentale e i dati p
 
 **Conservazione indefinita dei file eliminati.** I documenti eliminati rimangono nei File Eliminati di recente finché il backup cloud è attivo. Nessuna eliminazione automatica dopo 30 giorni.
 
-**L'eliminazione permanente richiede conferma.** Un prompt separato La avverte che il documento sarà rimosso anche dal Suo backup cloud. Nessuna eliminazione accidentale.
+**L'eliminazione permanente richiede conferma.** Un prompt separato La avverte che il documento sarà rimosso anche dal Suo backup cloud.
 
-**Finestra di grazia della cronologia di backup.** Anche dopo l'eliminazione permanente, il backup conserva i dati del Suo documento per diversi altri cicli di sincronizzazione come rete di sicurezza.
+****
 
 **Scelga la finestra di cronologia.** Decida fino a quanti giorni si estende la cronologia dei backup giornalieri: 7, 30, 90 o 180 giorni. Ripristini il Suo caveau a un giorno precedente all'interno di quella finestra. Gli snapshot più vecchi vengono eliminati automaticamente.
 
-**Salta sincronizzazione caveau vuoto.** L'app non sincronizza mai un caveau vuoto al cloud. Un'eliminazione in massa non può cancellare il Suo backup esistente.
+**Protezione per il backup di un vault vuoto.** Una protezione salta alcuni tentativi di backup di un vault vuoto; esistono eccezioni per il primo backup e per le procedure di ripristino e sincronizzazione. I documenti eliminati in massa restano in Eliminato di Recente mentre il backup cloud è attivo, finché non li elimina definitivamente.
 
 **Prompt di sicurezza per nuovo dispositivo.** L'abilitazione del backup cloud su un nuovo dispositivo rileva i backup esistenti e chiede se ripristinare o ricominciare da capo. Nessuna sovrascrittura silenziosa.
 
-**Eliminazione bloccata biometricamente.** L'eliminazione del Suo backup cloud richiede Face ID, Touch ID o il Suo PIN. Un singolo tocco accidentale non può cancellare il Suo backup.
+**Eliminazione del backup cloud con conferma.** L’eliminazione del backup cloud richiede Face ID, Touch ID o il PIN se il relativo blocco dell’app è attivo, seguiti da una conferma. Un singolo tocco accidentale non può cancellare il Suo backup.
 
-**Ripristino con un tocco dalle Impostazioni.** Ripristini il Suo backup in qualsiasi momento dalla schermata delle impostazioni del Backup Cloud. Nessuna necessità di reinstallare o seguire il flusso di onboarding.
+**Ripristino da Impostazioni.** Su un dispositivo supportato sulla stessa piattaforma e con lo stesso account cloud, apra la schermata Backup su Cloud con il backup disattivato, selezioni il backup, inserisca il codice di recupero e confermi il ripristino. Questo sostituisce il contenuto locale del vault. Nessuna necessità di reinstallare o seguire il flusso di onboarding.
 
-**Ripristina e risincronizza.** Se i Suoi dati locali e il backup cloud non fossero mai sincronizzati, un pulsante forza un ricaricamento pulito del Suo intero caveau in modo che tutto rimanga coerente.
+**Reimposta e risincronizza.** Se i dati locali e il backup cloud non sono più sincronizzati, usi Reimposta e risincronizza per caricare una nuova copia del vault.
 
 ### ⚠ Il Suo Codice di Ripristino È Critico
 
-Il Suo codice di ripristino è l'unica chiave per decrittare il Suo backup. Abbiamo un design zero-knowledge, il che significa che non possiamo ripristinarlo per Lei. Se lo perde, il Suo backup diventa irrecuperabile.
+Il codice di recupero sblocca le chiavi di crittografia cloud necessarie per ripristinare il backup. Non possiamo reimpostarlo per Lei. Se perde tutte le copie e l’accesso a tutti i dispositivi che possono ancora sbloccare il vault, non possiamo recuperare il backup crittografato.
 
 Conservi il Suo codice di ripristino in un luogo sicuro prima di affidarsi al backup cloud — o un gestore di password, o una copia stampata in un luogo sicuro, o entrambi — e verifichi di poterlo rileggere prima di memorizzarlo come unica copia.
 
 ### Requisiti del Dispositivo
 
-Il backup cloud su iPhone e iPad utilizza Apple iCloud. Funziona su tutti i dispositivi che accedono con un Apple ID.
+Il backup cloud su iPhone e iPad utilizza Apple iCloud. Richiede un iPhone o iPad supportato con iCloud Drive disponibile e attivato per l’app.
 
 Il backup cloud su Android utilizza Google Drive. Richiede Google Play Services, che è installato per impostazione predefinita su Google, Samsung, OnePlus, Sony, Motorola, Xiaomi global, Oppo global, Vivo global, Nokia, Asus, Realme e la maggior parte degli altri principali brand Android.
 
-I dispositivi senza Google Play Services (come i dispositivi Huawei rilasciati dopo il 2019, i tablet Amazon Fire e le varianti AOSP-only) non possono utilizzare il backup cloud. Il resto dell'app, inclusa l'archiviazione locale e la crittografia on-device, continua a funzionare su ogni dispositivo.
+I dispositivi senza Google Play Services (come i dispositivi Huawei rilasciati dopo il 2019, i tablet Amazon Fire e le varianti AOSP-only) non possono utilizzare il backup cloud. Il resto dell'app, inclusa l'archiviazione locale e la crittografia on-device, continua a funzionare sui dispositivi supportati, ma anche la lettura automatica delle date richiede Google Play Services.
 
 ### Importante: Conservi Sempre Copie Indipendenti
 
@@ -86,45 +86,45 @@ Per i documenti critici, conservi sempre una copia indipendente, come una copia 
 
 Lei è responsabile del mantenimento dei Suoi backup di documenti e della sicurezza del Suo codice di ripristino. L'app, Apple, Google e lo sviluppatore non sono responsabili della perdita di dati derivante da codici di ripristino persi, problemi di account cloud o affidamento al backup cloud come unica copia.
 
-## Sicurezza di cui fidarsi
+## Crittografia e recupero
 
 #### AES-256-GCM
 
-Standard industriale per la crittografia autenticata. Utilizzato da NIST, NSA e sistemi bancari globali.
+Crittografia autenticata per i contenuti dei documenti.
 
 #### PBKDF2 600k Iterazioni
 
-Derivazione della chiave computazionalmente intensiva. Gli attacchi a forza bruta diventano impraticabili.
+Derivazione della chiave computazionalmente intensiva. Questo aumenta il costo dei tentativi di indovinare il codice di recupero.
 
 #### Espansione Chiave HKDF
 
-Chiave di crittografia per dispositivo. Ogni ripristino genera una chiave unica. Il compromesso di un dispositivo non compromette gli altri.
+Chiavi separate per ciascun file di backup; il ripristino crittografa di nuovo i documenti con la chiave del nuovo dispositivo. Un dispositivo autorizzato compromesso o un codice di recupero compromesso possono esporre il vault cloud condiviso.
 
 #### Design Zero-Knowledge
 
-Non abbiamo accesso ai Suoi dati. Non crittografati sui nostri server. Non memorizzati sui nostri server. Vera Zero-Knowledge.
+Il backup crittografato resta nel Suo account cloud. Non lo riceviamo e non possediamo le chiavi necessarie per leggerne i documenti.
 
 #### Cosa vede Apple
 
-Blob crittografati nel Suo iCloud. Apple li archivia. Apple non può leggerli. Lo stesso per Google Drive.
+I contenuti dei documenti sono crittografati nel Suo iCloud o Google Drive. I metadati del backup, come nomi dei dispositivi, conteggi e date e orari, non sono crittografati.
 
 #### Perdita del Codice di Ripristino
 
-Se perde il Suo codice di ripristino, i Suoi backup non possono essere decriptati. Nessuna backdoor. Nessuna chiave master. Così progettato.
+Se perde tutte le copie del codice di recupero e l’accesso a tutti i dispositivi che possono ancora sbloccare il vault, non possiamo decrittografare i backup. Non possediamo le chiavi di crittografia cloud.
 
 ## Privacy e Conformità
 
-**GDPR-Conforme:** Non elaboriamo dati personali. Non abbiamo accesso ai Suoi dati. Nessun dato, nessuna elaborazione, nessun onere di conformità.
+**Segnalazione facoltativa degli arresti anomali:** La segnalazione degli arresti anomali è disattivata per impostazione predefinita. I contenuti dei documenti non vengono caricati sui nostri server.
 
-**Nessun Deposito di Backup:** A differenza di alcuni fornitori, non conserviamo copie del Suo codice di ripristino, chiavi private o chiavi di crittografia. La custodia del backup è 100% nelle Sue mani.
+**Nessun Deposito di Backup:** Non conserviamo copie del codice di recupero o delle chiavi di crittografia. Conservi il codice al sicuro.
 
-**Disabilitato per Impostazione Predefinita:** Il backup cloud è disabilitato per impostazione predefinita. Lei lo attiva esplicitamente. Lei decide.
+**Disabilitato per Impostazione Predefinita:** Il backup cloud è disattivato per impostazione predefinita. Lo attivi in Impostazioni quando desidera usarlo.
 
 Scopri di più nella nostra [completa Informativa sulla Privacy](https://traveldocumentvault.com/privacy-policy/).
 
 ## Sperimenta vera privacy
 
-Scarica gratis. Attiva il backup quando è pronto. Nessun account. Solo Lei.
+Scarica gratis. Attiva il backup con Pro quando è pronto. Nessun account. Solo Lei.
 
 ![Scarica su App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

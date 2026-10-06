@@ -67,25 +67,25 @@ Als je Google-account wordt gecompromitteerd, kan iemand met toegang je paspoort
 
 ## Optie 3: Speciale versleutelde apps
 
-Een speciale versleutelde app die is ontworpen voor reisdocumenten werkt volledig op je toestel en uploadt nooit gegevens naar externe servers.
+Travel Document Vault bewaart documenten standaard op je telefoon. Je kunt kopieën delen of exporteren, of met Pro een back-up naar je eigen iCloud of Google Drive maken.
 
 ### Hoe het werkt
 
-Wanneer je je paspoortscan toevoegt aan de app, wordt deze versleuteld met AES-256 en volledig op je telefoon opgeslagen. De app werkt volledig offline – geen account nodig, geen server nodig. Als je toegang op meerdere apparaten wilt, maakt een optionele Pro-functie een versleutelde back-up naar je eigen iCloud of Google Drive, verzegeld met een herstelcode die alleen jij bezit.
+Wanneer je je paspoortscan toevoegt aan de app, wordt deze versleuteld met AES-256 en volledig op je telefoon opgeslagen. De app werkt volledig offline – geen account nodig, geen server nodig. Met Pro kun je een versleutelde kopie opslaan in je eigen iCloud of Google Drive en die synchroniseren tussen ingestelde apparaten op hetzelfde platform. Je hebt je herstelcode nodig om een cloudback-up te herstellen.
 
 ### Beveiligingseigenschappen
 
-- **AES-256-versleuteling op het toestel:** Ja. Gegevens verlaten je telefoon nooit.
-- **Account vereist:** Nee. Geen account, geen server, geen login.
-- **Cloud-upload:** Nee. Geen enkele.
+- **AES-256-versleuteling op het toestel:** Ja. Gegevens blijven op je telefoon, tenzij je ze deelt of exporteert, of een versleutelde back-up naar je eigen iCloud of Google Drive inschakelt (Pro).
+- **Account vereist:** Nee. Geen TDV-account of login; een optionele versleutelde back-up naar je eigen iCloud of Google Drive (Pro) gebruikt je cloudaccount.
+- **Cloud-upload:** Optionele versleutelde back-up naar je eigen iCloud of Google Drive (Pro); je kunt ook kopieën delen of exporteren.
 - **Werkt offline:** Ja, volledig.
 - **Ontworpen voor identiteitsdocumenten:** Ja. De hele architectuur is geoptimaliseerd om gevoelige documenten privé te houden.
 
 ### Afwegingen
 
-De veiligheidsvoordelen zijn aanzienlijk: je paspoortgegevens worden nooit verzonden naar of opgeslagen op een externe server, dus ze zijn nooit toegankelijk voor iemand anders, en er is geen externe server om te compromitteren als iemand ongeautoriseerde toegang krijgt tot de systemen van het appbedrijf. Dit betekent dat je te allen tijde volledige controle en eigendom over je documenten behoudt.
+Travel Document Vault bewaart je documenten standaard op je telefoon. Delen en exporteren zijn optioneel, net als een versleutelde back-up naar je eigen iCloud of Google Drive met Pro.
 
-Het nadeel is minder gemak: je kunt niet automatisch je paspoortkopie op meerdere apparaten benaderen, en als je je telefoon kwijtraakt, herstelt de app je documenten niet automatisch – je moet handmatig herstellen vanaf een back-up. Voor de meeste gezinnen die samen reizen, is het bewaren van documenten op de telefoon van één ouder sowieso voldoende, en veel apps ondersteunen handmatige synchronisatie via back-up, wat extra flexibiliteit biedt zonder automatische cloud-upload te vereisen.
+Met Pro kun je documenten synchroniseren tussen ingestelde apparaten op hetzelfde platform. Als je je telefoon kwijtraakt, herstel je een opgeslagen back-up. Voor cloudherstel heb je je herstelcode nodig. Voor de meeste gezinnen die samen reizen, is het bewaren van documenten op de telefoon van één ouder sowieso voldoende, en veel apps ondersteunen handmatige synchronisatie via back-up, wat extra flexibiliteit biedt zonder automatische cloud-upload te vereisen.
 
 ## Directe vergelijking
 
@@ -95,8 +95,8 @@ Het nadeel is minder gemak: je kunt niet automatisch je paspoortkopie op meerder
 | End-to-end versleuteld | Optioneel (Geavanceerde gegevensbescherming) | Nee | Ja (altijd) |
 | Account vereist | Ja (Apple ID) | Ja (Google-account) | Nee |
 | Werkt volledig offline | Nee (vereist synchronisatie) | Nee (vereist synchronisatie) | Ja |
-| Risico op extern datalek | Gemiddeld (Apple's servers) | Gemiddeld tot hoog (Google's servers + contentscanning) | Geen (geen externe opslag) |
-| Toegang op meerdere apparaten | Automatisch | Automatisch | Alleen handmatige back-up |
+| Risico op extern datalek | Gemiddeld (Apple's servers) | Gemiddeld tot hoog (Google's servers + contentscanning) | Optionele versleutelde back-up naar je eigen iCloud of Google Drive (Pro) |
+| Toegang op meerdere apparaten | Automatisch | Automatisch | Handmatige kluisexport; optionele automatische cloudback-up en synchronisatie (Pro) |
 | Kosten | Gratis (200 GB), daarna betaald | Gratis (15 GB), daarna betaald | Doorgaans een eenmalige aankoop, geen abonnement |
 | Ontworpen voor identiteitsdocumenten | Nee | Nee | Ja |
 
@@ -130,7 +130,7 @@ Google Photos is standaard niet end-to-end versleuteld. Google indexeert en scan
 
 ### Wat zijn de voordelen van een speciale versleutelde app voor het bewaren van paspoorten?
 
-Een speciale versleutelde app die specifiek is gebouwd voor reisdocumenten bewaart gegevens doorgaans op het toestel met AES-256-versleuteling, vereist geen account of cloud-upload, werkt offline en heeft een veel kleiner aanvalsoppervlak. Omdat je paspoortgegevens je telefoon nooit verlaten, is er geen externe server om in te breken. De afweging is minder gemak bij toegang op meerdere apparaten, maar voor gebruikers die veiligheid vooropstellen, is dit de veiligste beschikbare opslagmethode.
+Travel Document Vault versleutelt je originele documentbestanden met AES-256 en laat je ze offline bekijken zonder app-account. Je kunt kopieën delen of exporteren. Pro voegt een optionele versleutelde back-up naar je eigen iCloud of Google Drive toe, plus synchronisatie tussen ingestelde apparaten op hetzelfde platform.
 
 ### Kan ik meerdere opslagmethoden gebruiken voor hetzelfde paspoort?
 

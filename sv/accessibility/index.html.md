@@ -10,16 +10,16 @@ Source: https://traveldocumentvault.com/sv/accessibility/
 
 ### VoiceOver-stöd
 
-Varje skärm i Travel Document Vault är fullt uppläst med VoiceOver. Navigera, skanna dokument, ange påminnelser och hantera ditt valv med gester, tangentbord, punktskrift och talutmatning.
+Travel Document Vault är byggd för att fungera med VoiceOver. Appen har tillgänglighetsetiketter och meddelanden för skärmläsare.
 
-- Beskrivande etiketter för alla interaktiva element
+- Beskrivande etiketter för interaktiva element
 - Korrekt rubrikhierarki för enkel navigering
 - Meningsfulla knapp- och kontrollbeskrivningar
 - Statusmeddelanden vid viktiga förändringar
 
 ### Större text (dynamisk text)
 
-All text i appen skalas med dina systemtextstorleksinställningar. Öka textstorleken upp till 200 % eller mer, och applayout anpassas automatiskt.
+Text i appen skalas efter systemets inställningar för textstorlek. Gränserna för textskalning varierar mellan olika element.
 
 Justera textstorlek under **Inställningar → Tillgänglighet → Skärm och textstorlek → Större text** på din enhet.
 
@@ -27,17 +27,17 @@ Justera textstorlek under **Inställningar → Tillgänglighet → Skärm och te
 
 Travel Document Vault stöder både ljust och mörkt läge. Appen anpassar sig automatiskt till ditt systemutseende, eller så kan du ange önskat tema under Inställningar.
 
-Alternativ: **System (automatiskt)**, **Ljust** eller **Mörkt**.
+Alternativ: **Automatisk (System)**, **Ljust** eller **Mörkt**.
 
 ### Tillräcklig kontrast
 
-All text och alla interaktiva element uppfyller WCAG AAA-kontrastnormer (4,5:1 för normal text, 3:1 för stor text). Kontrastrika färger säkerställer läsbarhet under alla ljusförhållanden.
+Standardfärgerna för text är valda för att ge läsbar kontrast. Kontrastrika färger gör texten lättare att läsa i starkt och svagt ljus.
 
-Vårt färgsystem ger 15:1+ kontrastförhållanden för primär text i både ljusa och mörka teman.
+Den primära texten har stark kontrast mot standardbakgrunderna i både ljust och mörkt läge.
 
-### Differentiera utan färg
+### Status visas med mer än färg
 
-Viktig information förmedlas aldrig enbart via färg. Statusindikatorer använder ikoner, former och textetiketter utöver färg.
+Dokumentstatus visas aldrig enbart med färg. Statusindikatorer använder ikoner, former och textetiketter utöver färg.
 
 - Gröna bockar för giltiga dokument (inte bara grön färg)
 - Varningsikoner för dokument som håller på att löpa ut (inte bara gul/orange färg)
@@ -45,7 +45,7 @@ Viktig information förmedlas aldrig enbart via färg. Statusindikatorer använd
 
 ### Minskad rörelse
 
-Alla animationer och rörelseffekter respekterar dina inställningar för minskad rörelse. När det är aktiverat minimeras eller tas animationer bort för att förhindra åksjuka och obehag.
+Vissa animationer följer din inställning för minskad rörelse. När den är aktiverad minskas eller tas de animationer som stöder inställningen bort.
 
 Aktivera under **Inställningar → Tillgänglighet → Rörelse → Minska rörelse** på din enhet.
 
@@ -53,19 +53,15 @@ Aktivera under **Inställningar → Tillgänglighet → Rörelse → Minska rör
 
 44pt tryckytor
 
-Alla interaktiva element uppfyller Apples minimikrav på 44pt tryckytor för enkel tryckning.
-
-Tangentbordsnavigering
-
-Navigera hela appen med ett tangentbord anslutet till din enhet.
+De gemensamma kontrollstilarna har 44pt på iOS och 48dp på Android som mål; vissa kontroller är mindre.
 
 Lättlästa typsnitt
 
-Systemtypsnitt optimerade för läsbarhet i alla storlekar.
+Systemtypsnitt med textstorlekar anpassade för olika element.
 
 Tydliga felmeddelanden
 
-Felstillstånd meddelas till VoiceOver och visas med tydlig, handlingsbar text.
+Viktiga felmeddelanden, till exempel när ett formulär ännu inte kan sparas, läses upp av VoiceOver och visas med tydlig text som hjälper dig vidare.
 
 ## Vi förbättrar oss ständigt
 

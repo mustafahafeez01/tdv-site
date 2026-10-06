@@ -1,6 +1,6 @@
 # Verschlüsselte Cloud-Sicherung | Ihre Cloud. Ihr Schlüssel. | Travel Document Vault
 
-> Ende-zu-Ende-verschlüsselte Sicherung in Ihrer iCloud oder Google Drive. Sie halten den Wiederherstellungscode, wir greifen nie darauf zu.
+> Verschlüsseltes Backup (Pro) in Ihrem iCloud oder Google Drive. Wiederherstellung per Code, den wir nicht haben. Gespeicherter Tresor offline nutzbar.
 
 Source: https://traveldocumentvault.com/de/cloud-backup/
 
@@ -8,15 +8,15 @@ Source: https://traveldocumentvault.com/de/cloud-backup/
 
 ## So funktioniert verschlüsselte Sicherung
 
-Echte Privatsphäre bedeutet, dass Sie und nur Sie Ihre Daten lesen können.
+Ihre Dokumentinhalte werden vor dem Hochladen in die Cloud verschlüsselt.
 
 1
 
 ### Verschlüsselung auf dem Gerät
 
-Ihr Tresor wird auf Ihrem Gerät mit AES-256-GCM verschlüsselt. Der Verschlüsselungsschlüssel wird aus Ihrem Wiederherstellungscode mit PBKDF2 und 600.000 Iterationen abgeleitet.
+Ihre Dokumentinhalte werden auf Ihrem Gerät mit AES-256-GCM verschlüsselt. PBKDF2 mit 600.000 Iterationen leitet den Schlüssel ab, der den zufällig erzeugten Hauptschlüssel Ihres Tresors entsperrt.
 
-AES-256-GCM ist starke, moderne Verschlüsselung, und der Wiederherstellungscode verlässt nie Ihre Hände. Sie sollten Ihr Telefon dennoch mit einem starken Passcode und App Lock schützen. Verschlüsselung schützt die Datei; Ihr Passcode schützt das Telefon.
+AES-256-GCM verschlüsselt Ihre Dokumentinhalte. Die App lädt Ihren Wiederherstellungscode nicht zu uns, Apple oder Google hoch. Schützen Sie Ihr Telefon dennoch mit einem starken Gerätecode und der PIN-Sperre der App. Verschlüsselung schützt die Datei; Ihr Passcode schützt das Telefon.
 
 2
 
@@ -24,23 +24,23 @@ AES-256-GCM ist starke, moderne Verschlüsselung, und der Wiederherstellungscode
 
 Die verschlüsselte Sicherung gelangt in Ihr persönliches iCloud- oder Google Drive-Konto, nicht auf unsere Server – es ist Ihre Cloud und Ihr Konto.
 
-Sie können Ihre Sicherungen direkt in Ihrer iCloud oder Google Drive einsehen und verwalten. Sie haben die volle Kontrolle.
+Auf iPhone und iPad können Sie Ihre Sicherungsdateien in iCloud Drive sehen. Unter Android liegen sie in einem versteckten App-Ordner in Ihrem eigenen Google Drive. Sie haben die volle Kontrolle.
 
 3
 
 ### Nur Sie halten den Schlüssel
 
-Ihr Wiederherstellungscode ist der Schlüssel zur Entschlüsselung Ihrer Sicherungen, und er verlässt nie Ihr Gerät – nie an uns gesendet, Apple oder Google.
+Ihr Wiederherstellungscode entsperrt Ihre Cloud-Verschlüsselungsschlüssel. Die App lädt ihn nicht zu uns, Apple oder Google hoch; halten Sie alle von Ihnen erstellten Kopien privat.
 
 Speichern Sie Ihren Wiederherstellungscode an einem sicheren Ort, weil ohne ihn selbst wir Ihre Daten nicht wiederherstellen können – das ist beabsichtigt, kein Fehler.
 
 4
 
-### Wiederherstellen auf jedem Gerät
+### Wiederherstellen auf einem neuen Gerät
 
-Wechsel zu einem neuen Telefon? Stellen Sie Ihre Sicherung mit Ihrem Wiederherstellungscode wieder her. Dasselbe für neues iPad, Mac oder andere Geräte.
+Wechsel zu einem neuen Telefon? Stellen Sie Ihre Sicherung mit Ihrem Wiederherstellungscode wieder her. Dasselbe gilt für ein neues iPad oder ein anderes unterstütztes Gerät derselben Plattform mit demselben Cloud-Konto.
 
-Laden Sie die App herunter, stellen Sie aus der Sicherung wieder her, und geben Sie Ihren Wiederherstellungscode ein, um Ihren gesamten Tresor zurück zu bekommen, verschlüsselt und bereit.
+Öffnen Sie auf dem neuen Gerät „Einstellungen“, dann „Cloud-Sicherung“ und wählen Sie „Aus Sicherung wiederherstellen“. Wählen Sie Ihr Backup, geben Sie Ihren Wiederherstellungscode ein und bestätigen Sie. Die Wiederherstellung ersetzt den lokalen Tresor.
 
 ## Wie es Ihre Daten schützt
 
@@ -48,35 +48,35 @@ Mehrere Schutzebenen stehen zwischen einem versehentlichen Antippen und Datenver
 
 **Unbegrenzte Aufbewahrung im Papierkorb.** Gelöschte Dokumente bleiben in Zuletzt gelöscht, solange die Cloud-Sicherung aktiv ist. Keine automatische 30-Tage-Bereinigung.
 
-**Endgültig löschen erfordert Bestätigung.** Eine separate Aufforderung warnt Sie, dass das Dokument auch aus Ihrer Cloud-Sicherung entfernt wird. Keine versehentlichen Löschungen.
+**„Für immer löschen“ erfordert eine Bestätigung.** Eine separate Aufforderung warnt Sie, dass das Dokument auch aus Ihrer Cloud-Sicherung entfernt wird.
 
-**Sicherungsverlauf-Schonfrist.** Selbst nach endgültigem Löschen behält die Sicherung Ihre Dokumentdaten für mehrere weitere Synchronisierungszyklen als Sicherheitsnetz.
+****
 
 **Verlaufszeitraum wählen.** Legen Sie fest, wie weit Ihr täglicher Sicherungsverlauf zurückreicht: 7, 30, 90 oder 180 Tage. Stellen Sie Ihren Tresor auf einen früheren Tag innerhalb dieses Zeitraums wieder her. Ältere Momentaufnahmen werden automatisch gelöscht.
 
-**Leerer Tresor – Synchronisierung übersprungen.** Die App synchronisiert niemals einen leeren Tresor mit der Cloud. Ein Massenlöschung kann Ihre vorhandene Sicherung nicht löschen.
+**Schutz bei leerem Tresor.** Ein Schutzmechanismus überspringt einige Sicherungsversuche bei leerem Tresor; für erste Backups sowie Wiederherstellungs- und Synchronisierungsabläufe gibt es Ausnahmen. Durch Massenlöschung entfernte Dokumente bleiben bei aktivierter Cloud-Sicherung in „Kürzlich gelöscht“, bis Sie sie endgültig löschen.
 
 **Sicherheitsaufforderung bei neuem Gerät.** Das Aktivieren der Cloud-Sicherung auf einem neuen Gerät erkennt vorhandene Sicherungen und fragt, ob wiederhergestellt oder neu gestartet werden soll. Keine stille Überschreibung.
 
-**Biometrisch gesicherte Löschung.** Das Löschen Ihrer Cloud-Sicherung erfordert Face ID, Touch ID oder Ihre PIN. Ein einziger versehentlicher Tippen kann Ihre Sicherung nicht löschen.
+**Bestätigte Löschung der Cloud-Sicherung.** Das Löschen Ihrer Cloud-Sicherung erfordert Face ID, Touch ID oder Ihre PIN, wenn die entsprechende App-Sperre aktiviert ist, und anschließend eine Bestätigung. Ein einziger versehentlicher Tippen kann Ihre Sicherung nicht löschen.
 
-**One-Tap-Wiederherstellung aus Einstellungen.** Stellen Sie Ihre Sicherung jederzeit vom Cloud-Sicherungs-Einstellungsbildschirm wieder her. Keine Neuinstallation oder Durchlaufen des Onboarding-Ablaufs erforderlich.
+**Wiederherstellung über „Einstellungen“.** Öffnen Sie auf einem unterstützten Gerät derselben Plattform mit demselben Cloud-Konto bei ausgeschaltetem Backup „Cloud-Sicherung“, wählen Sie Ihr Backup, geben Sie Ihren Wiederherstellungscode ein und bestätigen Sie die Wiederherstellung. Dabei wird der lokale Tresorinhalt ersetzt. Keine Neuinstallation oder Durchlaufen des Onboarding-Ablaufs erforderlich.
 
-**Zurücksetzen und erneut synchronisieren.** Wenn Ihre lokalen Daten und Cloud-Sicherung jemals nicht synchron sind, erzwingt ein Schaltfläche einen sauberen Neuupload Ihres gesamten Tresors, damit alles konsistent bleibt.
+**Zurücksetzen und erneut synchronisieren.** Wenn Ihre lokalen Daten und die Cloud-Sicherung nicht mehr synchron sind, verwenden Sie „Zurücksetzen und erneut synchronisieren“, um eine neue Kopie Ihres Tresors hochzuladen.
 
 ### ⚠ Ihr Wiederherstellungscode ist kritisch
 
-Ihr Wiederherstellungscode ist der einzige Schlüssel zur Entschlüsselung Ihrer Sicherung. Wir haben ein Zero-Knowledge-Design, was bedeutet, dass wir ihn nicht für Sie zurücksetzen können. Wenn Sie ihn verlieren, wird Ihre Sicherung nicht wiederherstellbar.
+Ihr Wiederherstellungscode entsperrt die Cloud-Verschlüsselungsschlüssel, die zur Wiederherstellung Ihres Backups nötig sind. Wir können ihn nicht für Sie zurücksetzen. Wenn Sie jede Kopie und den Zugang zu allen Geräten verlieren, die den Tresor noch entsperren können, können wir das verschlüsselte Backup nicht wiederherstellen.
 
 Speichern Sie Ihren Wiederherstellungscode an einem sicheren Ort, bevor Sie sich auf Cloud-Sicherung verlassen – entweder ein Passwort-Manager, eine gedruckte Kopie an einem sicheren Ort, oder beide – und überprüfen Sie, ob Sie ihn lesen können, bevor Sie ihn als einzige Kopie speichern.
 
 ### Gerätevoraussetzungen
 
-Cloud-Sicherung auf iPhone und iPad nutzt Apple iCloud. Sie funktioniert auf jedem Gerät, das sich mit einer Apple ID anmeldet.
+Cloud-Sicherung auf iPhone und iPad nutzt Apple iCloud. Sie erfordert ein unterstütztes iPhone oder iPad, auf dem iCloud Drive verfügbar und für die App aktiviert ist.
 
 Cloud-Sicherung auf Android nutzt Google Drive. Sie benötigt Google Play Services, das standardmäßig auf Google, Samsung, OnePlus, Sony, Motorola, Xiaomi global, Oppo global, Vivo global, Nokia, Asus, Realme und den meisten anderen großen Android-Marken vorinstalliert ist.
 
-Geräte ohne Google Play Services (wie Huawei-Geräte nach 2019, Amazon Fire-Tablets und AOSP-only-Varianten) können Cloud-Sicherung nicht nutzen. Der Rest der App, einschließlich lokalem Speicher und On-Device-Verschlüsselung, funktioniert auf jedem Gerät weiterhin.
+Geräte ohne Google Play Services (wie Huawei-Geräte nach 2019, Amazon Fire-Tablets und AOSP-only-Varianten) können Cloud-Sicherung nicht nutzen. Der Rest der App, einschließlich lokalem Speicher und Verschlüsselung auf dem Gerät, funktioniert weiterhin auf unterstützten Geräten; die automatische Datumserkennung benötigt jedoch ebenfalls Google Play Services.
 
 ### Wichtig: Bewahren Sie immer unabhängige Kopien auf
 
@@ -86,45 +86,45 @@ Für wichtige Dokumente sollten Sie immer eine unabhängige Kopie haben, wie bei
 
 Sie sind verantwortlich für die Aufrechterhaltung Ihrer eigenen Dokument-Sicherungen und für die Sicherung Ihres Wiederherstellungscodes. Die App, Apple, Google und der Entwickler haften nicht für Datenverluste, die durch verlorene Wiederherstellungscodes, Cloud-Kontoprobleme oder Abhängigkeit von Cloud-Sicherung als einzige Kopie entstehen.
 
-## Sicherheit, der Sie vertrauen können
+## Verschlüsselung und Wiederherstellung
 
 #### AES-256-GCM
 
-Industriestandard für authentifizierte Verschlüsselung. Verwendet von NIST, NSA und globalen Bankensystemen.
+Authentifizierte Verschlüsselung für Dokumentinhalte.
 
 #### PBKDF2 600k Iterationen
 
-Schlüsselableitung, die rechenintensiv ist. Brute-Force-Angriffe werden undurchführbar.
+Schlüsselableitung, die rechenintensiv ist. Das erhöht den Aufwand, den Wiederherstellungscode zu erraten.
 
 #### HKDF-Schlüsselerweiterung
 
-Pro-Gerät-Verschlüsselungsschlüssel. Jede Wiederherstellung erzeugt einen einzigartigen Schlüssel. Die Kompromittierung eines Geräts kompromittiert nicht andere.
+Separate Schlüssel für jede Sicherungsdatei; bei einer Wiederherstellung werden Ihre Dokumente mit dem eigenen Schlüssel des neuen Geräts erneut verschlüsselt. Ein kompromittiertes autorisiertes Gerät oder ein kompromittierter Wiederherstellungscode kann den gemeinsamen Cloud-Tresor offenlegen.
 
 #### Zero-Knowledge-Design
 
-Wir haben keinen Zugriff auf Ihre Daten. Nicht verschlüsselt auf unseren Servern. Nicht auf unseren Servern gespeichert. Echtes Zero-Knowledge.
+Ihr verschlüsseltes Backup bleibt in Ihrem eigenen Cloud-Konto. Wir erhalten es nicht und besitzen nicht die Schlüssel, die zum Lesen seiner Dokumentinhalte nötig sind.
 
 #### Was Apple sieht
 
-Verschlüsselte Blobs in Ihrer iCloud. Apple speichert sie. Apple kann sie nicht lesen. Dasselbe für Google Drive.
+Dokumentinhalte sind in Ihrem iCloud oder Google Drive verschlüsselt. Backup-Metadaten wie Gerätenamen, Anzahlen und Zeitstempel sind nicht verschlüsselt.
 
 #### Verlust des Wiederherstellungscodes
 
-Wenn Sie Ihren Wiederherstellungscode verlieren, können Ihre Sicherungen nicht entschlüsselt werden. Keine Hintertür. Kein Hauptschlüssel. So konzipiert.
+Wenn Sie jede Kopie Ihres Wiederherstellungscodes und den Zugang zu allen Geräten verlieren, die den Tresor noch entsperren können, können wir Ihre Backups nicht entschlüsseln. Wir besitzen Ihre Cloud-Verschlüsselungsschlüssel nicht.
 
 ## Datenschutz und Compliance
 
-**DSGVO-konform:** Wir verarbeiten keine personenbezogenen Daten. Wir haben keinen Zugriff auf Ihre Daten. Keine Daten, keine Verarbeitung, keine Compliance-Last.
+**Optionale Absturzberichte:** Absturzberichte sind standardmäßig deaktiviert. Ihre Dokumentinhalte werden nicht auf unsere Server hochgeladen.
 
-**Keine Backup-Hinterlegung:** Anders als manche Anbieter bewahren wir keine Kopien Ihres Wiederherstellungscodes, privater Schlüssel oder Verschlüsselungsschlüssel auf. Die Verwahrung der Sicherung liegt zu 100 % bei Ihnen.
+**Keine Backup-Hinterlegung:** Wir bewahren keine Kopien Ihres Wiederherstellungscodes oder Ihrer Verschlüsselungsschlüssel auf. Bewahren Sie Ihren Code an einem sicheren Ort auf.
 
-**Standardmäßig deaktiviert:** Cloud-Sicherung ist standardmäßig deaktiviert. Sie aktivieren sie ausdrücklich. Sie entscheiden.
+**Standardmäßig deaktiviert:** Cloud-Sicherung ist standardmäßig deaktiviert. Aktivieren Sie sie in „Einstellungen“, wenn Sie sie nutzen möchten.
 
 Erfahren Sie mehr in unserer [vollständigen Datenschutzerklärung](https://traveldocumentvault.com/privacy-policy/).
 
 ## Erleben Sie echte Privatsphäre
 
-Kostenlos herunterladen. Sicherung aktivieren, wann Sie bereit sind. Kein Konto. Nur Sie.
+Kostenlos herunterladen. Sicherung mit Pro aktivieren, wann Sie bereit sind. Kein Konto. Nur Sie.
 
 ![Im App Store laden](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

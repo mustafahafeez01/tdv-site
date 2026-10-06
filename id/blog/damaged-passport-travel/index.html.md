@@ -81,7 +81,7 @@ Foto digital paspor yang jelas sangat membantu di sini. Simpan halaman data, sam
 
 Ini sangat berguna jika paspor Anda rusak saat berada di luar negeri dan Anda memerlukan dokumen perjalanan darurat dari kedutaan. Petugas konsuler bekerja lebih cepat ketika mereka bisa melihat hasil scan paspor asli Anda secara langsung.
 
-Simpan salinan digital Anda di tempat yang terenkripsi dan offline, bukan di Google Photos atau iCloud yang dibagikan dengan orang lain. Travel Document Vault dibuat khusus untuk kebutuhan ini: foto paspor terenkripsi hanya di perangkat Anda, dan bisa diakses seketika jika terjadi sesuatu.
+Simpan salinan digital Anda di tempat yang terenkripsi dan offline, bukan di Google Photos atau iCloud yang dibagikan dengan orang lain. Travel Document Vault menyimpan foto paspor secara terenkripsi di perangkat Anda agar bisa dilihat secara offline. Anda bisa membagikan atau mengekspor salinan, atau menggunakan cadangan cloud terenkripsi dengan Pro.
 
 Pindai paspor Anda hari ini, sebelum Anda membutuhkannya.
 

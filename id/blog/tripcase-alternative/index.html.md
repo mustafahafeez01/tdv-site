@@ -94,7 +94,7 @@ Flighty adalah pengganti paling langsung untuk notifikasi penerbangan secara rea
 
 ### Apakah ada satu aplikasi yang menggantikan semua fungsi TripCase?
 
-Tidak ada satu aplikasi pun yang melakukan semua hal yang dilakukan TripCase. Kebanyakan mantan pengguna akhirnya menggunakan dua atau tiga alat: TripIt atau Tripsy untuk mem-parsing itinerary dan tampilan garis waktu, Flighty untuk notifikasi penerbangan, dan aplikasi luring terpisah seperti Travel Document Vault untuk penyimpanan dokumen. Itu berarti lebih banyak bagian, tetapi juga berarti Anda tidak bergantung pada kelangsungan satu perusahaan saja.
+Anda mungkin memerlukan alat terpisah untuk mengolah rencana perjalanan, menerima notifikasi penerbangan, dan menyimpan dokumen. Travel Document Vault menyimpan salinan dokumen secara terenkripsi di ponsel Anda dan memungkinkan Anda melihatnya secara luring.
 
 ### Haruskah saya menyimpan dokumen perjalanan di aplikasi cloud?
 

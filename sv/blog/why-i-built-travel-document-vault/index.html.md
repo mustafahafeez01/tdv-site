@@ -1,6 +1,6 @@
 # Varför jag byggde Travel Document Vault: För föräldern som håller koll på allt
 
-> Varför jag byggde Travel Document Vault efter en passkontroll klockan 3 på natten, och varför allt sparas på din egen enhet i stället för en server.
+> Varför jag byggde Travel Document Vault efter en passkontroll klockan 3 på natten, och varför dokument sparas på din egen enhet som standard.
 
 Source: https://traveldocumentvault.com/sv/blog/why-i-built-travel-document-vault/
 
@@ -48,13 +48,13 @@ Och det måste fungera offline. För jag skulle vara på flygplatsen, eller fast
 
 ## Så jag byggde exakt det jag behövde
 
-Travel Document Vault gör en sak: samlar allt på ett ställe, så att du aldrig behöver tänka på det förrän appen talar om för dig att göra det.
+Travel Document Vault samlar dina sparade dokument och utgångsdatum på ett ställe, med påminnelser som hjälper dig att planera förnyelser.
 
-Skanna ett dokument en gång. Appen läser utgångsdatumet (du dubbelkollar det). Påminnelser schemaläggs automatiskt: sex månader i förväg, sedan tre månader, sex veckor, en månad, två veckor, ända ner till dagen innan det löper ut.
+Skanna ett dokument en gång. Appen försöker läsa utgångsdatumet; bekräfta det eller ange det manuellt. Påminnelser är aktiverade som standard när du sparar ett utgångsdatum. Passpåminnelser börjar åtta månader i förväg, sedan sex månader, tre månader, sex veckor, en månad, två veckor, ända fram till utgångsdagen.
 
-En profil per familjemedlem. Alla dokument på ett ställe. När du behöver kontrollera om du är redo att resa öppnar du appen och vet det. Omedelbart. Inte "troligen" eller "jag tror det" – **du vet faktiskt**.
+Lägg till hela familjen med Pro, med en profil för varje person. Inför en resa kan du granska **familjens sparade dokument och utgångsdatum**.
 
-När ett hotell ber om din passkopia, en ambassad behöver dina uppgifter, eller biluthyrningsdisken vill se körkortet delar du det med ett tryck. Inget letande. Ingen Wi-Fi behövs. Allt samlat, precis där.
+När ett hotell ber om din passkopia, en ambassad behöver dina uppgifter eller biluthyrningsdisken vill se körkortet kan du öppna delningsmenyn och välja hur du vill skicka det. Sparade kopior kan visas offline; e-post och meddelanden behöver en anslutning.
 
 Det är den verkliga vinsten: du får tillbaka din hjärnkapacitet. Den osynliga mentala belastningen – det ständiga lågfrekventa bruset av "glömmer jag något?" – försvinner. Appen kommer ihåg så att du slipper.
 
@@ -81,10 +81,10 @@ Tidigt fattade jag ett fast beslut: dina dokument tillhör dig och stannar hos d
 Travel Document Vault är självständig:
 
 - Inga konton att skapa
-- Ingen uppladdning till server
+- Valfri krypterad molnsäkerhetskopiering (Pro)
 - Krypterat på din enhet
 
-När du skannar ett dokument körs textigenkänning på din enhet. Allt stannar på din telefon. **Inget laddas upp till någon server.**
+När du skannar ett dokument körs textigenkänning på din enhet. Dokument stannar på telefonen som standard; **valfri krypterad säkerhetskopiering (Pro) sparar en kopia i ditt eget iCloud eller Google Drive.** Du kan också exportera eller dela kopior.
 
 En del vill ha appar som synkar överallt. För pass och id-handlingar ville jag ha en enklare modell: din telefon är valvet. Du kan exportera dina kopior när du behöver. De är dina, trots allt.
 
@@ -94,9 +94,9 @@ Ett dokumentvalv för resor är något du ställer in en gång och glömmer bort
 
 En prenumeration är meningslös för det. Om jag slutar betala måste jag exportera allt, hitta en annan app, migrera mina dokument, återskapa alla påminnelser. Och om jag glömmer att förnya? Jag förlorar åtkomst precis när jag behöver den som mest – stående vid incheckningen och inser att mitt barns pass löper ut om fyra månader och jag inte kan nå skanningen jag sparade.
 
-När du köper den här appen är den din. Dokumenten stannar på din enhet. Påminnelserna fortsätter att fungera. Inga förnyelser. Inga exporter. Ingen inlåsning. Den fungerar bara, tyst i bakgrunden, tills du behöver den.
+Dina sparade dokument och påminnelser fungerar i gratisversionen. Pro ger obegränsade profiler och dokument med ett engångsköp, så det finns ingen prenumeration att förnya.
 
-Gratisversionen ger dig en profil, fem dokument, OCR, påminnelser och ett PIN-lås. Pro låser upp obegränsade profiler och dokument mot en engångsbetalning. Betala en gång, alla v1.x-uppdateringar ingår, för alltid. Det är allt.
+Gratisversionen ger dig en profil, fem dokument, automatisk datumavläsning, påminnelser och ett PIN-lås. Pro låser upp obegränsade profiler och dokument mot en engångsbetalning. Betala en gång, alla v1.x-uppdateringar ingår, för alltid. Det är allt.
 
 [Om vår versionspolicy →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -110,7 +110,7 @@ Om du är den personen i din familj som dubbelkollar allt, håller i mappen, oro
 
 **En sak mindre att oroa sig för.**
 
-Byggt för personligt bruk först. Inga konton. Ingen uppladdning till server.
+Byggt för personligt bruk först. Inga konton. Valfri krypterad molnsäkerhetskopiering (Pro).
 
 Mustafa
 

@@ -1,16 +1,16 @@
 # Travel Document Vault Features: Reminders, OCR, Offline
 
-> Scan a passport with OCR, get expiry reminders months ahead, add a profile for each family member, track visa day limits. Works offline, no account needed.
+> Scan passports and get expiry reminders offline, no account needed. Pro adds family profiles and country day limits based on the rules you enter.
 
 Source: https://traveldocumentvault.com/features/
 
 ---
 
-Privacy-first. On-device only. No accounts needed.
+Privacy-first. On-device by default. No accounts needed.
 
 # Track Everything. Remember Nothing.
 
-A travel document organiser for anxious parents, frequent travellers, and first-time flyers: documents in one place, expiry alerts on, peace of mind intact.
+You can store passports, visas, driving licences, national ID cards, travel insurance documents, and any other travel-related document. With Pro, the app supports multiple profiles, so you can manage documents for your whole family in one place.
 
 ![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
@@ -20,45 +20,45 @@ A travel document organiser for anxious parents, frequent travellers, and first-
 
 For trips and travel days
 
-## Never Slip a Travel Date
+## Plan Trips and Track Day Limits
 
-Plan trips together, track allowances, know your visa limits.
+With Pro, plan trips together, track allowances, know your visa limits.
 
 ### Everyone Ready, At a Glance
 
 Pro
 
-Group all family documents by trip. Traffic light readiness shows at a glance who's cleared and whose documents expire before departure. Catch problems weeks ahead - not at the airport.
+Group all family documents by trip. Traffic light readiness shows at a glance which linked documents need attention against your saved trip dates. Catch problems weeks ahead - not at the airport.
 
 ### Your Cloud. Your Key.
 
 Pro
 
-Optional encrypted backup to your personal iCloud or Google Drive. You hold the recovery code. We never access it. Multi-device sync with zero trust required. See [UK ICO data protection principles](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/) for backup best practices.
+Optional encrypted backup (Pro) to your personal iCloud or Google Drive. Restore with your recovery code. Turn on sync to use the same vault across supported devices on the same platform. See [UK ICO data protection principles](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/) for backup best practices.
 
 ### Track Days Out of Country
 
 Pro
 
-Track days spent in each country, per trip and per family member. Set custom day-limit targets so you always know where you stand with visa durations and entry requirements. Verify rules with [IATA Travel Centre](https://www.iatatravelcentre.com/) for your destination.
+With Pro, track days spent in each country, per trip and per family member. Compare your saved trip days with the country day limits you enter. Verify rules with [IATA Travel Centre](https://www.iatatravelcentre.com/) for your destination.
 
 ### Custom Allowance Rules
 
 Pro
 
-Define custom day-limit thresholds per country and per family member. Set your own targets to stay aware of how many days you've spent abroad - however your travel rules work.
+With Pro, define custom day-limit thresholds per country and per family member. Set your own targets to track how many days your saved trips cover, using a fixed or rolling counting window.
 
 ### Trip PDF Export
 
 Pro
 
-Export any trip as a single polished PDF: cover page, member passports, itinerary, activities, and documents in order. Pro exports are clean and unbranded, ready to share with airlines, embassies, or family.
+With Pro, export any trip as a single polished PDF: cover page, member passports, itinerary, activities, and documents in order. Exports are clean and unbranded, ready to share with airlines, embassies, or family.
 
 ### Gate Ready
 
 Pro
 
-Attach flight numbers, hotel confirmations, and booking refs to any trip. Documents and bookings in one place - tap once at check-in. Nothing to hunt for at the gate.
+With Pro, attach flight numbers, hotel confirmations, and booking refs to any trip. Documents and bookings in one place - tap once at check-in. Nothing to hunt for at the gate.
 
 Document Management
 
@@ -66,23 +66,23 @@ Document Management
 
 ### Passports
 
-Capture both the photo page and data page. MRZ scanning reads the machine-readable zone to auto-fill name, number, and expiry date instantly.
+Capture the open passport spread in one shot. MRZ scanning reads the machine-readable zone to fill in the expiry date and issuing country when it can. Confirm the results or enter them manually. Text recognition runs on your device.
 
 ### Encrypted Storage
 
 Documents are encrypted on disk with AES-256-GCM. Files are unreadable without your decryption keys - even if someone gets physical access to your device.
 
-### IDs & Driver's Licenses
+### IDs & Driving Licences
 
-Front and back capture in a single document. Perfect for driver's licenses, national IDs, and work badges.
+Front and back capture in a single document. Perfect for driving licences, national IDs, and work badges.
 
 ### Insurance & Health Cards
 
-Store health insurance cards, travel insurance policies, and repeat prescriptions with expiry reminders. Never miss a renewal or run out without warning.
+Store health insurance cards, travel insurance policies, and repeat prescriptions with expiry reminders. Reminders start three months before expiry by default.
 
 ### Visas & Documents
 
-Specialized A5 / half-page support for visa stamps and stickers. Full A4 support for e-visas, travel insurance policies, and large documents. Supports multi-page files.
+Specialised A5 / half-page support for visa stamps and stickers. Full A4 support for e-visas, travel insurance policies, and large documents. Supports multi-page files with Pro.
 
 ### Airline Tickets
 
@@ -90,7 +90,7 @@ Store boarding passes and e-tickets with ultra-frequent countdown reminders.
 
 ### Flexible Import
 
-Import existing PDF files or images from your photo library. Your scans load instantly without re-scanning.
+Import existing PDF files or images from your photo library. Open your saved scans without re-scanning.
 
 ### Edit Saved Documents
 
@@ -114,17 +114,17 @@ Store gift cards, discount codes, event tickets, and attraction passes. Get expi
 
 ### Snooze Reminders
 
-Pause any expiry reminder without editing the document. Snooze for a day, a week, or a month - the reminder resumes automatically when the snooze period ends.
+Pause any expiry reminder without editing the document. Reschedule a selected reminder for one hour, three hours, tomorrow or next week.
 
 ### Colour-Code Documents
 
-Assign a colour to any document type or individual document for instant visual recognition. Override colours per profile so your whole family's vault is easy to scan at a glance.
+With Pro, assign a colour to any document type or individual document for instant visual recognition. Override colours per profile so your whole family's vault is easy to scan at a glance.
 
 ### Export, Backup & Restore
 
 Pro
 
-Generate combined PDFs from multiple documents and back up your encrypted vault to your own iCloud or Google Drive, with one-tap restore on any device. Free vault export and restore are always included.
+Vault Export and Import are free for everyone. Pro adds combined PDFs and encrypted cloud backup to your own iCloud or Google Drive. Restore cloud backups with your recovery code on a compatible device on the same platform, using the same cloud account.
 
 Smart Capture
 
@@ -134,7 +134,7 @@ Smart Capture
 
 On-screen guides help you align your documents precisely. Different templates for different document types:
 
-- **Passport**: with center divider line for open spreads
+- **Passport**: with centre divider line for open spreads
 - **ID card**: credit card sized frame
 - **Visa / Permit**: A5 / half-page guide for stamps & stickers
 - **Full Page**: A4 guide for e-visas, insurance, & tickets
@@ -152,7 +152,7 @@ Smart Reminders
 
 ## Stay Ahead of Deadlines
 
-The average passport renewal takes **6-8 weeks**. We remind you **8 months early**, not 6 days.
+Reminders start on their own, timed to the document type. Passports begin **8 months** before expiry, then step down through 6 months, 3 months, 6 weeks, 1 month, 2 weeks and 1 week, with further reminders on the expiry day and afterwards. Visas, national IDs and travel insurance start **3 months out**. Airline tickets, hotel bookings and vouchers start a week out. Pro users can choose a different starting point for any document.
 
 #### Passport Reminders
 
@@ -164,11 +164,11 @@ The average passport renewal takes **6-8 weeks**. We remind you **8 months early
 
 #### Airline Ticket Reminders
 
-1 week 2 days 1 day 24 hours Travel day
+1 week 2 days 1 day 24 hours
 
-**Post-expiry reminders** (shown in orange) help you stay on top of expired documents. Even if you missed the expiry date, you'll still get reminders to renew, making them perfect for catching documents that expire while you're traveling.
+**Post-expiry reminders** (shown in orange) help you stay on top of expired documents. Even if you missed the expiry date, you'll still get reminders to renew, making them perfect for catching documents that expire while you're travelling.
 
-**Snooze any reminder** right from the notification or inside the app. Choose 1 hour, later today, tomorrow, or next week, and the app reschedules it automatically.
+**Snooze document expiry reminders** right from the notification or inside the app. Choose 1 hour, 3 hours, tomorrow, or next week, and the app reschedules it automatically.
 
 Family Profiles
 
@@ -176,7 +176,7 @@ Family Profiles
 
 ### Separate Profiles
 
-Create a profile for each family member. Keep everyone's documents organized and easy to find.
+With Pro, create a profile for each family member. Keep everyone's documents organised and easy to find.
 
 ### Profile-Scoped Views
 
@@ -204,7 +204,7 @@ Adapts to your system settings. Beautiful in both appearances.
 
 Swipe between document sides. Pinch to zoom up to 5x for detailed inspection.
 
-### Quick Look
+### Built-in PDF Viewer
 
 Native PDF viewing integration. Fast, familiar, and feature-rich.
 
@@ -216,11 +216,11 @@ Available in over 40 languages, so the app feels native wherever you are.
 
 ### Accessible by Design
 
-Full VoiceOver and TalkBack support. Dynamic Type scales every label with your system font size. Every button meets the 44pt minimum touch target.
+Designed for VoiceOver and TalkBack. Text scales with your system font size, and shared control styles target 44pt touch areas (48dp on Android).
 
 ### Thoughtful Haptics
 
-Subtle haptic feedback confirms every action. Saves, deletes, and scans all have distinct tactile responses so you always know something worked.
+Key actions use haptic feedback where supported by your device.
 
 Personalise
 
@@ -228,11 +228,11 @@ Personalise
 
 ### Colour-Code by Type
 
-Assign a unique colour to each document type. Passports, visas, IDs, and tickets each get their own colour. Every card and icon updates instantly.
+With Pro, assign a unique colour to each document type. Passports, visas, IDs, and tickets each get their own colour. Every card and icon updates instantly.
 
 ### Per-Profile Colour Overrides
 
-Override the global colour for any document type within a specific profile. Each family member's documents can have their own colour scheme.
+With Pro, override the global colour for any document type within a specific profile. Each family member's documents can have their own colour scheme.
 
 ### Accent Colour
 
@@ -242,15 +242,15 @@ Privacy & Security
 
 ## Your Data, Your Device
 
-No servers, no accounts, no tracking. Built by Mustafa Hafeez with privacy-first architecture. [Privacy Policy](https://traveldocumentvault.com/privacy-policy/) and [Verification](https://traveldocumentvault.com/privacy-policy/) link.
+No servers that hold your documents, no accounts, no tracking. Built by Mustafa Hafeez with privacy-first architecture. [Privacy Policy](https://traveldocumentvault.com/privacy-policy/) and [Verification](https://traveldocumentvault.com/privacy-policy/) link.
 
 ### Your Data Stays Yours
 
-We designed this so you don't have to trust us with your data - we have no servers and no access, so by default your vault stays on your device. If you choose optional Pro backup to your own iCloud or Google Drive, it's sealed with a recovery code only you hold, one we still cannot read.
+We designed this so you don't have to trust us with your data - we have no servers that hold your documents and no access to them, so by default your vault stays on your device. If you choose optional Pro backup to your own iCloud or Google Drive, it's sealed with a recovery code only you hold, one we still cannot read.
 
 ### Works Offline
 
-No internet required. Works entirely offline.
+Vault data is encrypted on your device; document files use AES-256-GCM. Saved documents, expiry dates and scheduled reminders work offline.
 
 ### No Tracking
 
@@ -258,11 +258,11 @@ No analytics. No ads. No hidden SDKs harvesting your data.
 
 ### Private Notifications
 
-Reminders never reveal document details. Just "A document is expiring soon."
+Reminders do not include scan images or a separate document-number field. Reminder text can include the saved document title, so avoid putting sensitive numbers in it.
 
 ### You Control Sharing
 
-Data only leaves when you explicitly choose to share via the system share sheet. Includes sensitive content warnings.
+Document files leave when you choose to share them via the system share sheet, export them, or turn on encrypted backup (Pro). Includes sensitive content warnings.
 
 ### PIN Lock
 
@@ -274,23 +274,23 @@ Unlock with Face ID or Touch ID instead of PIN. Free for all users. Requires PIN
 
 ### Screen Capture Protection
 
-Document screens are automatically protected from screenshots and screen recordings. Your sensitive information stays on-screen, not in someone's camera roll.
+Screen-capture protection is enabled by default on document screens where supported. It helps reduce accidental copies.
 
 ### Encrypted Storage
 
-Documents are encrypted on your device using industry-standard encryption. Your data is protected even if your device is compromised.
+Documents are encrypted on your device using industry-standard encryption. Encrypted document files need their encryption key to be read; shared originals are readable.
 
 ### Show to Another Person
 
-Need to show a document at a border or hotel desk? Protected viewing mode displays the document while preventing screenshots, screen recording, and multitasking. Lock it when you're done.
+Need to show a document at a border or hotel desk? Protected viewing mode displays the document with screen-capture protection on by default, where supported. If you've set a PIN, the app locks when you close it.
 
 ### Recovery Code
 
-Forgot your PIN? Your recovery code lets you disable it and regain access without losing any data. Generate one in Settings and store it somewhere safe.
+Forgot your PIN? Your recovery code helps you regain access without deleting your documents. The app creates one when you set your PIN; store it somewhere safe.
 
 ### Auto-Erase
 
-Optionally enable auto-erase in Settings. After too many failed PIN attempts, the vault wipes itself completely. Your data cannot be brute-forced.
+Auto-Erase is on by default once you set a PIN. You can turn it off in Settings. It is intended to erase the local vault after repeated incorrect PIN attempts. PIN attempts are rate-limited. Keep an independent backup before relying on it.
 
 Batch Operations
 
@@ -302,17 +302,17 @@ Long-press any document card to instantly access quick actions: Export PDF, Shar
 
 ### Select Mode
 
-Tap "Select" to pick multiple documents at once. Use the unified Actions menu to batch export, share, or delete your selection.
+Tap "Select" to pick multiple documents at once. Use the unified Actions menu to batch export or share (Pro), or delete your selection.
 
 ### Batch Share
 
-Share multiple original document files at once via your device's share sheet (email, messaging, and more). Files are securely decrypted only during sharing.
+With Pro, share multiple original document files through successive share sheets (email, messaging, and more). The app decrypts originals for sharing, and also for viewing and editing.
 
 #### Safe Delete with Undo
 
-Accidentally deleted a document? Tap Undo immediately to restore it. Miss the window? It moves to Recently Deleted, where it stays for 30 days before permanently deleting - giving you a safety net without compromising your privacy.
+Accidentally deleted a document? Tap Undo immediately to restore it. Miss the window? It moves to Recently Deleted. When cloud backup is off, the app automatically purges it after 30 days; with cloud backup on, it stays until you delete it permanently. You can also delete it permanently sooner.
 
-**Important:** Travel Document Vault is a personal organization tool for storing digital copies of your documents. **Digital copies stored in this app are NOT valid for travel.** It does not verify document authenticity or provide legal or travel advice. Always carry original documents and verify all travel requirements with official government sources.
+**Important:** Travel Document Vault is a personal organisation tool for storing digital copies of your documents. **Digital copies stored in this app are NOT valid for travel.** It does not verify document authenticity or provide legal or travel advice. Always carry original documents and verify all travel requirements with official government sources.
 
 ## Download Free. No Subscription.
 

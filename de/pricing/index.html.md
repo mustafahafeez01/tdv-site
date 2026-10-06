@@ -1,6 +1,6 @@
 # Travel Document Vault Preise - Einmalig, Kein Abo
 
-> Travel Document Vault kostet einmalig. Kein Abo, keine versteckten Gebühren. Ein Kauf deckt die ganze Familie ab. Kostenlose Stufe verfügbar.
+> Pro kostet einmalig. Kein Abo, keine versteckten Gebühren. Ein Kauf deckt die ganze Familie ab. Kostenlose Stufe verfügbar.
 
 Source: https://traveldocumentvault.com/de/pricing/
 
@@ -10,7 +10,7 @@ $9.99, einmalig. Keine Abos, keine versteckten Gebühren, keine Datenernte.
 
 Der Preis ist in US-Dollar angegeben. Wir legen den Preis für jedes Land lokal fest, statt ihn aus Dollar umzurechnen, und der App Store oder Google Play zeigt Ihnen Ihren Preis, bevor Sie bezahlen.
 
-Wir betreiben keine Server, die jemals Ihre Dokumente halten oder lesen können. Alles bleibt auf Ihrem Gerät. Deshalb können wir einen einmaligen Preis statt endloser Abos anbieten.
+Wir betreiben keine Server, die jemals Ihre Dokumente halten oder lesen können. Ihre Dokumentdateien bleiben auf Ihrem Gerät, sofern Sie sie nicht teilen oder exportieren oder verschlüsselte Backups (Pro) aktivieren. Deshalb können wir einen einmaligen Preis statt endloser Abos anbieten.
 
 ## Wählen Sie Ihren Plan
 
@@ -19,15 +19,15 @@ Wir betreiben keine Server, die jemals Ihre Dokumente halten oder lesen können.
 Immer kostenlos
 
 - Reisepässe, Visa, Ausweise und mehr
-- Dokumente scannen, Daten automatisch ausfüllen
+- Dokumente scannen und erkannte Ablaufdaten bestätigen
 - Ablauferinnerungen
 - Einzelne Dokumente freigeben
 - PIN + Biometrisches Schließen (Face ID / Touch ID)
 - 1 Profil
 - Bis zu 5 Dokumente
-- Zuletzt gelöschte Elemente - 30-Tage-Wiederherstellungsfenster
+- Kürzlich gelöscht - 30 Tage zur Wiederherstellung
 
-Alle Daten bleiben auf Ihrem Gerät. Immer.
+Ihre Dokumentdateien bleiben auf Ihrem Gerät, sofern Sie sie nicht exportieren oder teilen oder verschlüsselte Cloud-Backups (Pro) aktivieren.
 
 Beste Wahl
 
@@ -58,15 +58,15 @@ Alles, was Sie für Einzelreisen brauchen
 Kostenlos
 
 - Reisepässe, Visa, Ausweise und mehr
-- Dokumente scannen, Daten automatisch ausfüllen
+- Dokumente scannen und erkannte Ablaufdaten bestätigen
 - Ablauferinnerungen
 - Einzelne Dokumente freigeben
 - PIN + Biometrisches Schließen (Face ID / Touch ID)
 - 1 Profil
 - Bis zu 5 Dokumente
-- Zuletzt gelöschte Elemente - 30-Tage-Wiederherstellungsfenster
+- Kürzlich gelöscht - 30 Tage zur Wiederherstellung
 
-Alle Daten bleiben auf Ihrem Gerät. Immer.
+Ihre Dokumentdateien bleiben auf Ihrem Gerät, sofern Sie sie nicht exportieren oder teilen oder verschlüsselte Cloud-Backups (Pro) aktivieren.
 
 Für Familien
 
@@ -102,13 +102,13 @@ Reisebereitschaft, Visa und Steuertags-Zählerfunktionen sind nur Hilfsmittel �
 
 ## Warum einmalig und nicht als Abo?
 
-Viele Dokumenten-Apps berechnen ein Jahresabonnement, weil ihr Geschäftsmodell auf wiederkehrenden Einnahmen angewiesen ist. Wir nicht. Wir betreiben keine Server, die Ihre Daten jemals halten oder lesen können. Ihre Dokumente bleiben auf Ihrem Gerät. Wir haben keine laufenden Server-Kosten, die wir an Sie weitergeben.
+Pro ist ein einmaliger Kauf. Wir betreiben keine Server, die Ihre Dokumente speichern oder lesen. Ihre Dokumentdateien bleiben auf Ihrem Gerät, sofern Sie sie nicht teilen oder exportieren oder verschlüsselte Backups in Ihrer eigenen Cloud (Pro) aktivieren. Pro hat keine wiederkehrenden Abonnementgebühren.
 
 Ein einmaliger Preis ist fair, nachhaltig und ehrlich. Sie zahlen einmal. Wir hören auf zu fragen.
 
 ## Was ist kostenlos enthalten, für immer
 
-Die kostenlose Stufe ist keine Testversion. Es ist eine echte, permanente Stufe mit Kernfunktionen, die Sie tatsächlich nutzen werden: ein Profil, 5 Dokumente, Ablauferinnerungen, Dokumentfreigabe, biometrisches Schließen und Verschlüsselung auf dem Gerät. Wenn Sie allein reisen oder einfach testen, kostenlos ist alles, was Sie brauchen.
+Die kostenlose Stufe ist keine Testversion. Es ist eine echte, permanente Stufe mit Kernfunktionen, die Sie tatsächlich nutzen werden: ein Profil, 5 Dokumente, Ablauferinnerungen, Dokumentfreigabe, biometrisches Schließen, Verschlüsselung auf dem Gerät sowie Tresor-Export und -Import. Wenn Sie allein reisen oder einfach testen, kostenlos ist alles, was Sie brauchen.
 
 Keine Zeitlimits. Keine Funktionen, die mysteriös verschwinden. Keine dunkel gemusterten Tricks, die Sie zum Upgrade drängen.
 
@@ -126,7 +126,7 @@ Keine Abos. Keine sitzplatzbasierte Preisgestaltung. Keine Gebühren pro Familie
 
 ## Preis-Fragen
 
-Wie viel kostet Travel Document Vault? Travel Document Vault bietet eine kostenlose Stufe für immer – 1 Profil mit bis zu 5 Dokumenten, einschließlich aller Kernfunktionen wie Ablauferinnerungen, Dokumentfreigabe und Verschlüsselung. Pro kostet einmalig und entsperrt unbegrenzte Profile, unbegrenzte Dokumente, verschlüsselte Cloud-Sicherung, Reiseplaner und Tage-im-Ausland-Tracker. Ist Travel Document Vault ein Abo? Nein. Travel Document Vault ist ein Einmalkauf. Sie zahlen einmalig für Pro und besitzen es für immer. Keine wiederkehrenden Gebühren, keine Kündigung von Abos erforderlich und keine Testversionen, die Sie stillschweigend belasten. Die kostenlose Stufe ist auch für immer kostenlos. Was ist in kostenlos versus Pro? Kostenlos: 1 Profil, bis zu 5 Dokumente, Ablauferinnerungen, Dokumentfreigabe, PIN und biometrisches Schließen, Verschlüsselung auf dem Gerät, Offline-Zugriff. Pro bietet: unbegrenzte Profile für Ihre Familie, unbegrenzte Dokumente, Reiseplaner mit Familienbereitschafts-Ampel, verschlüsselte Cloud-Sicherung auf Ihrer eigenen iCloud oder Google Drive, Tage-im-Ausland-Tracker für Visa- und Steuergrenzen sowie benutzerdefinierte Erinnerungszeiten. Muss ich pro Familienmitglied oder pro Gerät bezahlen? Nein. Pro ist ein Einmalkauf für Ihr Konto. Nach dem Kauf können Sie unbegrenzte Familienmitglieder (Profile) hinzufügen und die App auf mehreren Geräten unter demselben App Store- oder Google Play-Konto nutzen. Ein Kauf. Ganze Familie. Was bedeutet 'Alle v1.x-Updates enthalten'? Ihr Einmalkauf deckt jedes Update innerhalb der aktuellen Hauptversion (v1.x) ab, einschließlich Fehlerbehebungen, Sicherheitspatches und neuer Funktionen. Dies gilt, solange Sie die App nutzen. Wenn wir jemals v2.0 mit wesentlichen architektonischen Änderungen veröffentlichen, erhalten frühe Anwender bevorzugte Upgrade-Preise und die Möglichkeit, v1.x Pro für immer zu behalten. Weitere Informationen finden Sie in unserer vollständigen [Versionierungsrichtlinie](https://traveldocumentvault.com/pricing-policy/#version-policy).
+Wie viel kostet Travel Document Vault? Travel Document Vault bietet eine kostenlose Stufe für immer – 1 Profil mit bis zu 5 Dokumenten, einschließlich aller Kernfunktionen wie Ablauferinnerungen, Dokumentfreigabe und Verschlüsselung. Pro kostet einmalig und entsperrt unbegrenzte Profile, unbegrenzte Dokumente, verschlüsselte Cloud-Sicherung, Reiseplaner und Tage-im-Ausland-Tracker. Ist Travel Document Vault ein Abo? Nein. Pro ist ein Einmalkauf. Sie zahlen einmalig für Pro und besitzen es für immer. Keine wiederkehrenden Gebühren, keine Kündigung von Abos erforderlich und keine Testversionen, die Sie stillschweigend belasten. Die kostenlose Stufe ist auch für immer kostenlos. Was ist in kostenlos versus Pro? Kostenlos: 1 Profil, bis zu 5 Dokumente, Ablauferinnerungen, Dokumentfreigabe, PIN und biometrisches Schließen, Verschlüsselung auf dem Gerät, Offline-Zugriff. Pro bietet: unbegrenzte Profile für Ihre Familie, unbegrenzte Dokumente, Reiseplaner mit Familienbereitschafts-Ampel, verschlüsselte Cloud-Sicherung auf Ihrer eigenen iCloud oder Google Drive, Tage-im-Ausland-Tracker für Visa- und Steuergrenzen sowie benutzerdefinierte Erinnerungszeiten. Muss ich pro Familienmitglied oder pro Gerät bezahlen? Nein. Pro ist ein Einmalkauf für Ihr Konto. Nach dem Kauf können Sie unbegrenzte Familienmitglieder (Profile) hinzufügen und die App auf mehreren Geräten unter demselben App Store- oder Google Play-Konto nutzen. Ein Kauf. Ganze Familie. Was bedeutet 'Alle v1.x-Updates enthalten'? Ihr Einmalkauf deckt jedes Update innerhalb der aktuellen Hauptversion (v1.x) ab, einschließlich Fehlerbehebungen, Sicherheitspatches und neuer Funktionen. Dies gilt, solange Sie die App nutzen. Wenn wir jemals v2.0 mit wesentlichen architektonischen Änderungen veröffentlichen, erhalten frühe Anwender bevorzugte Upgrade-Preise und die Möglichkeit, v1.x Pro für immer zu behalten. Weitere Informationen finden Sie in unserer vollständigen [Versionierungsrichtlinie](https://traveldocumentvault.com/pricing-policy/#version-policy).
 
 ## Bereit, sich weniger Sorgen zu machen?
 

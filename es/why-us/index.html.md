@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/es/why-us/
 
 ---
 
-Privada. Solo en el dispositivo. Sin cuentas necesarias.
+Privada. En el dispositivo por defecto. Sin cuentas necesarias.
 
 # Siempre Listos
 Cuando Los Necesites
@@ -69,7 +69,7 @@ Todas son opciones razonables. Cada una funciona —hasta cierto punto.
 
 **Funciona:** Seguridad alta y acceso sin conexión.
 
-**Falla:** Tratan un pasaporte como un recibo de compra y carecen de lógica específica para viajes. Construimos esto específicamente para viajeros, ofreciendo un generoso nivel gratuito de 5 documentos y un precio único y directo sin suscripciones recurrentes.
+**Falla:** Tratan un pasaporte como un recibo de compra y carecen de lógica específica para viajes. Travel Document Vault incluye un perfil y hasta 5 documentos gratis. Pro es una compra única sin suscripción.
 
 ### Galería de fotos
 
@@ -103,13 +103,13 @@ Todas son opciones razonables. Cada una funciona —hasta cierto punto.
 
 ## Cómo se compara
 
-Cada alternativa hace una o dos cosas bien. Solo una las hace todas.
+Travel Document Vault guarda documentos, controla fechas de vencimiento y, con Pro, añade perfiles familiares y planificación de viajes.
 
 | Característica | Travel Document Vault | App de tipo wallet | Fototeca / nube | Gestor de contraseñas |
 |---|---|---|---|---|
-| Recordatorios de vencimiento | ✓6 meses antes | ✗ | ✗ | ✗ |
+| Recordatorios de vencimiento | ✓8 meses antes para pasaportes | ✗ | ✗ | ✗ |
 | Perfiles familiares | ✓Ilimitado (Pro) | ✗ | ✗ | ~Solo bóvedas compartidas |
-| Sin sincronización en la nube | ✓Solo en el dispositivo | ✗Sincronización en la nube | ✗Primera nube | ✗Primera nube |
+| En el dispositivo por defecto | ✓Copia de seguridad opcional (Pro) | ✗Sincronización en la nube | ✗Primera nube | ✗Primera nube |
 | Tipos de documentos específicos de viaje | ✓Pasaporte, visa, ID... | ~Solo boletos de embarque | ✗ | ✗ |
 | Funciona sin conexión | ✓ | ✓ | ~Necesita caché anterior | ✓ |
 | Sin cuenta requerida | ✓ | ~Requiere cuenta de la plataforma | ✗ | ✗ |
@@ -123,11 +123,11 @@ Construida por un padre que necesitaba alivio, no otra lista que gestionar.
 
 ### Tu Dispositivo. Tus Documentos. Nadie Más.
 
-Podría haber construido sincronización en la nube. Todas las otras aplicaciones lo hacen.
+Elegí guardar los documentos en tu dispositivo por defecto. La copia opcional de Pro usa tu propia cuenta en la nube.
 
 Pero ¿confiaría en el servidor de un extraño con fotos de los pasaportes de mis hijos? **Nunca.**
 
-Todo se queda en tu dispositivo. Punto.
+Cifrado en tu dispositivo por defecto.
 
 La sincronización en la nube está desactivada por defecto. Si la activas (Pro), tu bóveda se cifra en tu dispositivo antes de que se cargue nada, y va a tu propio iCloud o Google Drive, sellada con un código de recuperación que solo tú posees. Nadie, ni siquiera nosotros, Apple ni Google, puede leerlo. La promesa se cumple por código, no por política.
 
@@ -145,19 +145,19 @@ Funciona para pasaportes, visas, licencias, seguros, cualquier cosa con fecha de
 
 Eres el que recuerda cuál pasaporte de los niños caduca primero, si el seguro cubre a todos, y cuándo necesitan renovarse las visas.
 
-**Un perfil por miembro de la familia.** Un toque para ver todo. Construido para la persona que lo lleva todo.
+**Con Pro, un perfil por miembro de la familia.** Un toque para ver todo. Construido para la persona que lo lleva todo.
 
 ### Funciona Sin Conexión. En Todas Partes.
 
 ¿Wi-Fi deficiente en el aeropuerto? ¿Embajada extranjera sin señal? ¿Modo avión?
 
-Tus documentos siempre están en tu dispositivo, siempre accesibles. Sin internet requerido, nunca.
+Los documentos guardados localmente están disponibles sin conexión. La consulta local de documentos y los recordatorios funcionan sin conexión; las compras, las comprobaciones de actualizaciones y las funciones en la nube necesitan internet.
 
 ### Paga Una Sola Vez. Sin Suscripción.
 
-**Comienza gratis.** Almacena hasta 5 documentos con recordatorios completos y cifrado. Mejora en cualquier momento a almacenamiento ilimitado.
+**Comienza gratis.** Almacena hasta 5 documentos con recordatorios completos y cifrado. Pro elimina el límite de cantidad de documentos. El espacio disponible sigue dependiendo de tu dispositivo.
 
-Travel Document Vault es una **compra única** de $9.99. Perfiles y documentos ilimitados, sin cargos recurrentes, y sin fecha de renovación que recordar.
+Pro es una **compra única** de $9.99. Perfiles y documentos ilimitados, sin cargos recurrentes, y sin fecha de renovación que recordar.
 
 Precio en dólares estadounidenses. Fijamos el precio de cada país localmente en lugar de convertirlo desde el dólar, y la App Store o Google Play te muestra el tuyo antes de comprar.
 
@@ -165,11 +165,11 @@ Precio en dólares estadounidenses. Fijamos el precio de cada país localmente e
 
 ### Soporte de Múltiples Páginas
 
-Soporte para hasta 10 páginas por documento. Esencial para pólizas de seguros de viaje y visas de múltiples páginas que las bóvedas generales a menudo cortan.
+Con Pro, captura hasta 10 páginas para billetes de avión, cupones y otros documentos, incluidas las pólizas de seguros de viaje.
 
 ### Exportación Profesional a PDF
 
-Combina múltiples documentos en un único archivo PDF para compartir con embajadas, aerolíneas o para impresión física.
+Con Pro, combina múltiples documentos en un único archivo PDF para compartir con embajadas, aerolíneas o para impresión física.
 
 Hecha por un padre que necesitaba esto. Privacidad en primer lugar por diseño.
 
@@ -177,7 +177,7 @@ Hecha por un padre que necesitaba esto. Privacidad en primer lugar por diseño.
 
 Pro
 
-Semáforo de preparación familiar. Ve quién está listo para viajar.
+Semáforo de preparación familiar. Comprueba los documentos vinculados frente a las fechas de viaje guardadas (Pro).
 
 ### Tu Nube. Tu Clave.
 
@@ -199,7 +199,7 @@ Rastrea asignaciones por miembro por viaje.
 
 ### Deshacer 30 Días
 
-Eliminado accidentalmente. Recuperar en cualquier momento.
+Eliminado accidentalmente. Recupera durante 30 días.
 
 ### Cada Miembro Familiar
 
@@ -219,7 +219,7 @@ Comprueba el estado de documentos al instante
 
 Listo para tu viaje
 
-Cada persona, cada documento, verificado
+Documentos vinculados comprobados frente a las fechas de viaje guardadas (Pro)
 
 ![Trip readiness view confirming all documents are valid and up to date](https://traveldocumentvault.com/assets/images/screenshots-appstore/02.webp)
 
@@ -231,7 +231,7 @@ Documentos, viajes, recordatorios juntos
 
 Días restantes en cada país
 
-Controla el tiempo de cada persona en el extranjero
+Controla el tiempo de cada persona en el extranjero con Pro
 
 ![Visa tracker showing days remaining in each country for each traveller](https://traveldocumentvault.com/assets/images/screenshots-appstore/04.webp)
 
@@ -257,7 +257,7 @@ Escanea. Configura. Olvida.
 
 Abre la cámara, usa el overlay guiado y captura tu documento. O importa uno existente de tu galería de fotos.
 
-La aplicación detecta la fecha de vencimiento —solo confirma.
+La app lee la fecha de vencimiento cuando puede —confírmala o introdúcela tú mismo.
 
 2
 
@@ -265,7 +265,7 @@ La aplicación detecta la fecha de vencimiento —solo confirma.
 
 La aplicación programa recordatorios en cascada automáticamente.
 
-Seis meses, tres meses, seis semanas... todo el camino hasta el día de vencimiento y más allá.
+Los pasaportes empiezan ocho meses antes. Los documentos de identidad, visados, seguros y otros documentos empiezan tres meses antes, con recordatorios hasta el día del vencimiento y después.
 
 3
 
@@ -275,11 +275,11 @@ En inmigración, completando formularios, solicitando visas. Tus documentos est�
 
 ## Construida para Viajeros
 
-Esta aplicación está diseñada para realidades prácticas, no para almacenamiento genérico de archivos.
+Guarda copias de documentos y fechas de vencimiento en un solo lugar, con recordatorios activados por defecto.
 
-- **Familias:** Gestiona múltiples perfiles para hijos y cónyuges en un lugar. Carga el peso mental de toda la familia sin cambiar entre carpetas.
+- **Familias:** Con Pro, gestiona múltiples perfiles para hijos y cónyuges en un lugar. Carga el peso mental de toda la familia sin cambiar entre carpetas.
 - **Nómadas Digitales y Expatriados:** Rastrea permisos de residencia, IDs locales y visas de trabajo junto a pasaportes mientras te mueves entre países.
-- **La Regla de 6 Meses:** Nuestros recordatorios cuentan con requisitos de entrada internacional estrictos que las aplicaciones generalistas ignoran, advirtiéndote antes de que tu pasaporte se vuelva inválido para viajar.
+- **La Regla de 6 Meses:** Los recordatorios de pasaporte empiezan por defecto ocho meses antes del vencimiento. Comprueba por separado los requisitos de entrada de tu destino.
 - **Preparado para el Futuro:** Mantente organizado en medio de cambios administrativos europeos próximos como EES y ETIAS. Asegura que tus documentos estén listos antes de que las reglas cambien.
 - **Individuos conscientes de la privacidad:** Almacena documentos sin confiar en servidores en la nube. Todo se queda en tu dispositivo.
 - **Compradores conscientes del presupuesto:** Evita suscripciones. Paga una tarifa única simple en lugar de alquilar tus propios datos.
@@ -288,11 +288,11 @@ Esta aplicación está diseñada para realidades prácticas, no para almacenamie
 
 Las preguntas que escuchamos más a menudo.
 
-¿Qué pasa si pierdo mi teléfono? Tus documentos viven en tu dispositivo. Las copias de seguridad del sistema (iCloud o Google) reinstalan la aplicación, pero no restauran tus documentos porque la clave de cifrado nunca sale de tu dispositivo original. Exporta tu bóveda desde Ajustes antes de cambiar de teléfono. Los usuarios Pro también pueden usar copia de seguridad cifrada en tu propio iCloud o Google Drive para restauración con un toque en cualquier dispositivo nuevo. ¿Funciona sin internet? Completamente. La aplicación almacena todo en tu dispositivo y nunca necesita una conexión a internet. El procesamiento OCR, recordatorios y visualización de documentos funcionan todos sin conexión. ¿Mis datos están realmente seguros? Tus documentos están protegidos usando cifrado AES-256-GCM en tu dispositivo. No hay servidores y sin cuentas. Si activas copia de seguridad Pro en la nube, tu bóveda se cifra de extremo a extremo en tu dispositivo antes de la carga a tu propio iCloud o Google Drive, sellada con un código de recuperación que solo tú tienes. El diseño significa que no puedo leer tus datos, y tampoco pueden Apple o Google —puedes verificar el modelo de privacidad tú mismo en la [página de Verificación de Privacidad](https://traveldocumentvault.com/es/privacy-verification/). ¿Es realmente una compra única? Sí. Pro cuesta $9.99 una sola vez, en dólares estadounidenses. Cada país fija su precio localmente en lugar de convertirlo desde el dólar, y la tienda muestra el tuyo antes de pagar.* Sin suscripción, sin cargos recurrentes, sin correos electrónicos "tu prueba está terminando". El nivel gratuito es genuinamente gratuito —1 perfil, 5 documentos, todas las características incluyendo OCR y recordatorios.
+¿Qué pasa si pierdo mi teléfono? Tus documentos se cifran en tu dispositivo. La clave local permanece en el almacenamiento seguro y se excluye de las copias normales del teléfono. La exportación de la bóveda incluye una copia de esa clave cifrada con contraseña. Una copia normal del teléfono reinstala la app pero no restaura tus documentos. La copia en la nube de Pro se restaura con tu código de recuperación en un teléfono compatible de la misma plataforma y con la misma cuenta en la nube. También puedes usar la exportación e importación gratuitas de la bóveda. Restaurar o importar reemplaza la bóveda local. ¿Funciona sin internet? Completamente. La app guarda todo en tu dispositivo y no necesita internet para el uso cotidiano. Los recordatorios y la consulta de documentos guardados localmente funcionan sin conexión. El procesamiento OCR se ejecuta en tu dispositivo. ¿Mis datos están realmente seguros? Tus documentos se cifran con AES-256-GCM en tu dispositivo y la clave permanece en el almacenamiento seguro de claves del teléfono, sin incluirse nunca en una copia del teléfono. No hay cuenta que crear ni un servidor de Travel Document Vault que guarde tus documentos. Si activas copia de seguridad Pro en la nube, tu bóveda se cifra de extremo a extremo en tu dispositivo antes de la carga a tu propio iCloud o Google Drive, sellada con un código de recuperación que solo tú tienes. El diseño significa que no puedo leer tus datos, y tampoco pueden Apple o Google —puedes verificar el modelo de privacidad tú mismo en la [página de Verificación de Privacidad](https://traveldocumentvault.com/es/privacy-verification/). ¿Es realmente una compra única? Sí. Pro cuesta $9.99 una sola vez, en dólares estadounidenses. Cada país fija su precio localmente en lugar de convertirlo desde el dólar, y la tienda muestra el tuyo antes de pagar.* Sin suscripción, sin cargos recurrentes, sin correos electrónicos "tu prueba está terminando". El nivel gratuito es genuinamente gratuito —1 perfil, 5 documentos, todas las características básicas incluyendo OCR y recordatorios.
 
 * Corresponde a la v1.x. Ve [Política de Precios](https://traveldocumentvault.com/pricing-policy/#version-policy).
 
-¿Puedo usarlo para más que pasaportes? Sí. Soporta pasaportes, visas, identificaciones, licencias de conducir, tarjetas de seguro, boletos de avión y cualquier tipo de documento que necesites. Cada tipo tiene su propio overlay de captura guiado. [Ver todas las FAQs →](https://traveldocumentvault.com/es/faq/)
+¿Puedo usarlo para más que pasaportes? Sí. Soporta pasaportes, visas, identificaciones, licencias de conducir, tarjetas de seguro, boletos de avión y cualquier tipo de documento que necesites. Cada formato de documento tiene su propia guía de captura. [Ver todas las FAQs →](https://traveldocumentvault.com/es/faq/)
 
 **Importante:** Travel Document Vault es una herramienta de organización personal para almacenar copias digitales de tus documentos. **Las copias digitales almacenadas en esta aplicación NO son válidas para viajes.** No verifica la autenticidad de documentos ni proporciona asesoramiento legal o de viajes. Siempre lleva documentos originales y verifica todos los requisitos de viajes con fuentes oficiales del gobierno.
 

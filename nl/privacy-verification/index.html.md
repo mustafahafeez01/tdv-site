@@ -30,9 +30,9 @@ Je hoeft ons niet te vertrouwen. Je kunt elke bewering hierboven bevestigen met 
 
 ### 1. Netwerkverkeerstest
 
-Installeer een netwerkmonitor zoals **mitmproxy** (gratis, open source), **Wireshark** (gratis, open source) of **Charles Proxy**. Open Travel Document Vault, scan een document, blader door je kluis en stel een herinnering in. Je zou niet moeten zien dat je documenten, scans, vervaldata of kluisinhoud naar Travel Document Vault worden gestuurd. Het netwerkverkeer zou beperkt moeten blijven tot specifieke functies: optionele Sentry-crashrapportage, aankoopcontroles via App Store of Google Play, optionele cloudback-up naar je eigen iCloud of Google Drive-account, en een handmatige bugfixcontrole die hieronder wordt uitgelegd.
+Installeer een netwerkmonitor zoals **mitmproxy** (gratis, open source), **Wireshark** (gratis, open source) of **Charles Proxy**. Open Travel Document Vault, scan een document, blader door je kluis en stel een herinnering in. Je zou niet moeten zien dat je documenten, scans, vervaldata of kluisinhoud naar Travel Document Vault worden gestuurd. Het netwerkverkeer zou beperkt moeten blijven tot specifieke functies: optionele Sentry-crashrapportage, aankoopcontroles via App Store of Google Play, optionele cloudback-up naar je eigen iCloud of Google Drive-account, en een bugfixcontrole die hieronder wordt uitgelegd.
 
-Instellingen heeft een knop **Check for Updates**. Dit is een handmatige controle, nooit automatisch – deze wordt alleen uitgevoerd wanneer je er zelf op tikt, nooit op de achtergrond en nooit uit zichzelf. De controle neemt contact op met **updates.traveldocumentvault.com** – onze eigen updateserver, beheerd door ons op Google Cloud, die cryptografisch ondertekende updatebestanden van een opslagbucket levert. Wij registreren de controle niet: aanvraaglogboeken zijn aan onze kant uitgeschakeld, dus geen IP-adressen worden bewaard. Elke update is ondertekend met een sleutel die alleen wij hebben, en de app weigert alles waarvan de handtekening niet overeenkomt met het certificaat dat erin is ingebouwd. Dezelfde tik controleert ook of er een nieuwere versie van de app beschikbaar is in de **App Store** of op **Google Play**. Deze functie bestaat zodat bepaalde bugfixes je sneller kunnen bereiken dan wanneer je moet wachten op een volledig nieuwe release in de App Store of Google Play, handig bij dringende fixes, afhankelijk van de aard van de fix. Dezelfde regel als voor de rest van deze pagina: geen netwerkverzoek zonder dat jij erom vraagt.
+Instellingen heeft een knop **Controleren op updates**. Deze controle staat standaard uit: ze wordt uitgevoerd wanneer je erop tikt, of eenmaal per appstart als je Controleer updates bij openen inschakelt. Een lopende download kan doorgaan nadat de app naar de achtergrond gaat. De controle neemt contact op met **updates.traveldocumentvault.com** – onze eigen updateserver, beheerd door ons op Google Cloud, die cryptografisch ondertekende updatebestanden van een opslagbucket levert. De updatehandler schrijft geen aanvraaglogboeken van de applicatie. Elke update is ondertekend met een sleutel die alleen wij hebben, en de app weigert alles waarvan de handtekening niet overeenkomt met het certificaat dat erin is ingebouwd. Dezelfde tik controleert ook of er een nieuwere versie van de app beschikbaar is in de **App Store** of op **Google Play**. Deze functie bestaat zodat bepaalde bugfixes je sneller kunnen bereiken dan wanneer je moet wachten op een volledig nieuwe release in de App Store of Google Play, handig bij dringende fixes, afhankelijk van de aard van de fix. Documentopslag heeft geen netwerk nodig; aankoopcontroles via de winkels en ingeschakelde optionele functies kunnen automatische netwerkverzoeken doen.
 
 ### 2. iOS App Privacy Report
 
@@ -42,7 +42,7 @@ Ga op iPhone naar **Instellingen > Privacy en beveiliging > App Privacy Report**
 
 Android heeft geen enkel ingebouwd privacyrapport zoals de iPhone. Twee simpele manieren om het zelf te controleren: bekijk de eigen **Data Safety**-sectie van deze app op de Google Play-pagina (deze geeft duidelijk aan wat er wordt verzameld, wat er wordt gedeeld, dat je gegevens versleuteld worden verzonden en dat ze niet kunnen worden verwijderd) – of gebruik een netwerkmonitor zoals beschreven bij stap 1 hierboven.
 
-Als je cloud backup hebt ingeschakeld, merk je mogelijk wat activiteit richting de servers van Google (webadressen die eindigen op **googleapis.com**). Dat is normaal en veilig: het gaat alleen om je vergrendelde, versleutelde back-upbestand en een inlogcontrole die rechtstreeks naar **je eigen** Google Drive-account wordt gestuurd – hetzelfde account dat je al gebruikt voor foto's of Gmail. Wij zien het nooit, ontvangen het nooit en bewaren er nergens een kopie van. Alleen jij hebt de herstelsleutel die het kan ontgrendelen.
+Als je cloud backup hebt ingeschakeld, merk je mogelijk wat activiteit richting de servers van Google (webadressen die eindigen op **googleapis.com**). Deze verbindingen sturen je versleutelde kluisbestanden, inlogcontroles en onversleutelde back-upmetadata, zoals apparaatnaam, aantallen en tijdstempels, rechtstreeks naar **je eigen** Google Drive-account – hetzelfde account dat je al gebruikt voor foto's of Gmail. Wij zien het nooit, ontvangen het nooit en bewaren er nergens een kopie van. Alleen jij hebt de herstelsleutel die het kan ontgrendelen.
 
 ### 4. App Store en Play Store privacylabels
 
@@ -52,17 +52,17 @@ Apple en Google vereisen dat ontwikkelaars aangeven welke gegevens hun app verza
 
 We zeggen niet zomaar dat de app veilig is. We controleren het, met dezelfde open tools en publieke standaarden die de beveiligingsindustrie zelf gebruikt.
 
-### We toetsen de app aan een publieke standaard
+### Vergelijk de app met een publieke standaard
 
-We beoordelen Travel Document Vault aan de hand van de [OWASP Mobile Application Security Verification Standard (MASVS)](https://mas.owasp.org/MASVS/), de checklist die de branche hanteert voor hoe een mobiele app gegevens moet opslaan, versleuteling moet gebruiken, vergrendeld moet zijn achter Face ID of een pincode, en hoe deze moet omgaan met links vanuit andere apps. Iedereen kan de standaard lezen en vergelijken met het daadwerkelijke gedrag van de app.
+Je kunt Travel Document Vault vergelijken met de [OWASP Mobile Application Security Verification Standard (MASVS)](https://mas.owasp.org/MASVS/), de checklist die de branche hanteert voor hoe een mobiele app gegevens moet opslaan, versleuteling moet gebruiken, vergrendeld moet zijn achter Face ID of een PIN, en hoe deze moet omgaan met links vanuit andere apps. Iedereen kan de standaard lezen en vergelijken met het daadwerkelijke gedrag van de app.
 
-### We scannen onze eigen code
+### Analyse van de broncode
 
-Voordat een build wordt uitgebracht, voeren we statische analyse uit op onze code met [Semgrep](https://semgrep.dev/), een opensourcetool die onveilige patronen signaleert, zoals zwakke versleuteling of onveilige gegevensverwerking, zodat we ze vroegtijdig kunnen opsporen.
+Statische analysetools zoals [Semgrep](https://semgrep.dev/) kunnen onveilige patronen signaleren, zoals zwakke versleuteling of onveilige gegevensverwerking. Dit beschrijft een controlemethode, geen bewijs dat elke release een scan heeft doorstaan.
 
-### We scannen de gebouwde app
+### Gedrag van de gebouwde app
 
-We beoordelen ook onze uitgebrachte builds met beveiligingsscantools voor mobiele apps, waarbij we controleren hoe de build gegevens opslaat, waar deze toegang toe heeft en hoe deze is ondertekend.
+De app versleutelt documentbestanden op je apparaat en de updateconfiguratie vereist een certificaat voor codeondertekening. Je kunt het netwerkgedrag controleren met de bovenstaande stappen.
 
 ### Een probleem gevonden? Laat het ons weten
 
@@ -88,7 +88,7 @@ iOS en Android
 
 iOS en Android
 
-**Waarom we vragen:** Zodat je een bestaande foto van een document kunt importeren en zodat de app versleutelde back-upbestanden (.tdvault) kan exporteren wanneer je daar om vraagt. Op oudere Android-versies zijn READ_EXTERNAL_STORAGE en WRITE_EXTERNAL_STORAGE vereist. Op Android 13+ wordt in plaats daarvan READ_MEDIA_IMAGES gebruikt.
+**Waarom we vragen:** Zodat je een bestaande foto van een document kunt importeren. Op Android gebruikt de app de systeemfotokiezer, dus READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE en READ_MEDIA_IMAGES worden uit de uiteindelijke build verwijderd. Versleutelde back-upbestanden (.tdvault) worden via het deelmenu van je telefoon geëxporteerd, waarvoor geen opslagtoestemming nodig is.
 
 **Wat we nooit doen:** De app leest alleen de afbeelding die je selecteert. Het scant, indexeert of bladert nooit door je fotobibliotheek of bestandssysteem.
 
@@ -104,7 +104,7 @@ iOS en Android
 
 Android
 
-**Waarom we vragen:** Zodat je herinneringen voor vervaldatum die je zelf instelt, on-device worden bezorgd. RECEIVE_BOOT_COMPLETED plant je herinneringen opnieuw in na een apparaatherstarten. WAKE_LOCK zorgt ervoor dat herinneringen betrouwbaar worden geactiveerd, zelfs als de telefoon slaapt. VIBRATE begeleidt meldingsbezorging.
+**Waarom we vragen:** Zodat herinneringen voor de vervaldatums van je documenten op je apparaat worden bezorgd. RECEIVE_BOOT_COMPLETED plant je herinneringen opnieuw in na een apparaatherstarten. WAKE_LOCK ondersteunt de verwerking van meldingen. VIBRATE begeleidt meldingsbezorging.
 
 **Wat we nooit doen:** We sturen nooit marketing-, promotie- of meldingen van derden. Herinneringen worden volledig op je apparaat ingedeeld.
 
@@ -112,7 +112,7 @@ Android
 
 Android
 
-**Waarom deze verschijnen:** Ze zijn nodig voor netwerkafhankelijke functies: **Sentry-crashrapportage** (opt-in, standaard uitgeschakeld), **facturatie via App Store of Google Play** voor de aankoop van de Pro-upgrade, **Pro cloud backup** (optioneel), die je versleutelde kluis synchroniseert met je eigen iCloud of Google Drive, en de handmatige knop **Check for Updates** in Instellingen (wordt alleen uitgevoerd wanneer je erop tikt). ACCESS_NETWORK_STATE en ACCESS_WIFI_STATE laten deze functies controleren of er een verbinding beschikbaar is voordat ze proberen te verzenden.
+**Waarom deze verschijnen:** Ze zijn nodig voor netwerkafhankelijke functies: **Sentry-crashrapportage** (opt-in, standaard uitgeschakeld), **facturatie via App Store of Google Play** voor de aankoop van de Pro-upgrade, **Pro cloud backup** (optioneel), die je versleutelde kluis synchroniseert met je eigen iCloud of Google Drive, en de knop **Controleren op updates** in Instellingen (wordt uitgevoerd wanneer je erop tikt, of bij het openen als je dat inschakelt). ACCESS_NETWORK_STATE en ACCESS_WIFI_STATE laten deze functies controleren of er een verbinding beschikbaar is voordat ze proberen te verzenden.
 
 **Wat we niet doen:** De app uploadt je documenten, scans, vervaldata, foto's of kluisinhoud niet naar Travel Document Vault. Voor normale documentopslag en herinneringen werkt de app volledig offline.
 
@@ -122,9 +122,9 @@ Android-apps omvatten bibliotheken van derden voor functies zoals in-app aankope
 
 ### Opnemen van audio
 
-Geërfd, nooit gebruikt
+Geërfd, verwijderd
 
-**Waarom het verschijnt:** Deze toestemming wordt gedeclareerd door een bibliotheek van derden in de build (meestal de camera- of mediaplug-in). Het verschijnt in het Android-manifest maar wordt nooit geactiveerd door onze code. De app neemt nooit audio of video op onder welke omstandigheden dan ook.
+**Waarom het verschijnt:** Deze toestemming wordt gedeclareerd door de camerabibliotheken in de build. Travel Document Vault verwijdert deze uit het uiteindelijke Android-manifest, omdat de app stilstaande afbeeldingen van documenten vastlegt en nooit audio of video opneemt.
 
 **Hoe je het kunt bevestigen:** De app vraagt je nooit om microfoontoegang. Wanneer je de permissiemanager van je apparaat controleert, zie je dat audioopname niet aan Travel Document Vault is verleend.
 
@@ -132,13 +132,13 @@ Geërfd, nooit gebruikt
 
 Geërfd
 
-Verklaarde door het Flutter-raamwerk voor overlays voor ontwikkeling en foutopsporing. Deze toestemming wordt niet gebruikt in de releaseversie van de app en heeft geen effect op je privacy.
+Gedeclareerd door een afhankelijkheid van het React Native-framework voor overlays bij ontwikkeling en foutopsporing. Travel Document Vault verwijdert deze uit het uiteindelijke Android-manifest en gebruikt geen overlayvensters.
 
 ### Schermafbeelding detecteren
 
 Geërfd
 
-Verklaarde door een raamwerkafhankelijkheid. De app detecteert, blokkeert of reageert niet op screenshots. Deze toestemming heeft geen effect op je gebruik.
+Gedeclareerd door een frameworkafhankelijkheid. Travel Document Vault schakelt bescherming tegen schermopnamen standaard in op documentschermen waar dit wordt ondersteund. Je kunt dit wijzigen in Instellingen.
 
 ### Badge-notificatietoestemmingen
 
@@ -156,7 +156,7 @@ Verklaard door de Google Play Billing-bibliotheek (voor de Pro-upgrade) en de Pl
 
 Geërfd
 
-Verklaard door een raamwerkafhankelijkheid. De app downloadt geen bestanden op de achtergrond.
+Gedeclareerd door een frameworkafhankelijkheid. Een updatedownload die in de app is gestart, kan doorgaan nadat de app naar de achtergrond gaat, en iCloud kan bestandsoverdrachten via het besturingssysteem beheren.
 
 ### Toestemmingen die we niet vragen
 

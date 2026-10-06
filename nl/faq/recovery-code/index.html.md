@@ -1,54 +1,54 @@
 # Wat is mijn herstelcode? | Travel Document Vault
 
-> Uw herstelcode is de hoofdsleutel voor uw versleutelde cloudback-ups. Wat het is, waarom u het nodig hebt en hoe u het veilig bewaart.
+> Uw herstelcode ontgrendelt uw versleutelde cloudback-ups. Wat het is, waarom u het nodig hebt en hoe u het veilig bewaart.
 
 Source: https://traveldocumentvault.com/nl/faq/recovery-code/
 
 ---
 
-Uw herstelcode is een 24-karakters wachtwoordzin die uw cloudback-ups versleutelt. Als u deze verliest, worden die back-ups onherstelbaar. Wij bewaren of resetten deze niet, dus bewaar hem op een veilige plek.
+Uw herstelcode is een wachtwoordzin van 24 tekens die uw cloudversleutelingssleutels ontgrendelt. Als u elke kopie van de code en toegang tot elk apparaat dat de kluis nog kan ontgrendelen verliest, kunnen wij die back-ups niet herstellen. Wij bewaren of resetten deze niet, dus bewaar hem op een veilige plek.
 
 ## Hoe het werkt
 
 ### Wat het is
 
-Uw herstelcode is een 24-karakters wachtwoordzin die wordt gegenereerd wanneer u Cloudback-up inschakelt. Deze ziet er zo uit:
+Uw herstelcode is een wachtwoordzin van 24 tekens die wordt gegenereerd wanneer u uw PIN instelt. Deze ziet er zo uit:
 
 XXXX-XXXX-XXXX-XXXX-XXXX-XXXX
 
-Deze code wordt wiskundig afgeleid van uw back-upinstellingen en is de enige sleutel die uw versleutelde kluis in de cloud kan ontsleutelen. Wij genereren hem eenmalig en tonen hem eenmalig aan u. Daarna is het bewaren ervan uw eigen verantwoordelijkheid.
+Uw herstelcode ontgrendelt de versleutelingssleutels die nodig zijn om uw cloudback-up met Pro te herstellen. De app genereert de code wanneer u uw PIN instelt en toont deze eenmalig. Bewaar een kopie op een veilige plek.
 
 ### Waarom u deze nodig hebt
 
-Wanneer u Cloudback-up inschakelt, wordt uw volledige kluis op uw apparaat versleuteld met AES-256-GCM voordat deze uw telefoon verlaat. De versleutelingssleutel wordt afgeleid van uw herstelcode. Zonder de herstelcode is de back-up cryptografisch ontoegankelijk, ook voor ons.
+Met Pro-cloudback-up versleutelt de app de inhoud van uw documenten op uw apparaat met AES-256-GCM voordat deze wordt geüpload. Uw herstelcode ontgrendelt de cloudversleutelingssleutels. U hebt deze nodig om een back-up te herstellen. Wij bewaren geen kopie.
 
-Dit is een privacygarantie. Wij kunnen uw back-ups letterlijk niet lezen, op verzoek ontsleutelen, of voor u resetten. Als uw herstelcode verloren gaat, is die back-up voorgoed weg. Dit klinkt hard, maar het is precies wat u wilt: uw privacy is niet zomaar een belofte die wij doen, het is een technisch feit dat wij niet kunnen schenden.
+Wij kunnen uw cloudback-up niet voor u ontsleutelen of resetten. Als u elke kopie van uw herstelcode en toegang tot elk apparaat dat de kluis nog kan ontgrendelen verliest, kunnen wij die back-up niet herstellen.
 
 ### Als u deze verliest
 
-Als u uw herstelcode vergeet, kan uw bestaande cloudback-up niet worden hersteld. U hebt twee opties:
+Als u uw herstelcode vergeet, hangt wat u kunt doen ervan af of u nog een apparaat hebt dat de kluis kan ontgrendelen en de PIN daarvan kent:
 
-- **Herstellen vanaf uw telefoon:** Als de code nog is opgeslagen in de app (controleer Instellingen - Cloudback-up), kopieer deze dan naar een veilige plek en bewaar hem.
-- **Genereer een nieuwe:** Schakel Cloudback-up uit en weer in. Dit maakt een nieuwe herstelcode aan en verwijdert de bestaande back-up. U begint opnieuw.
+- **Genereer een nieuwe op uw telefoon:** Laat Cloud Backup ingeschakeld en maak verbinding met internet. Open Instellingen, Beveiliging, Herstelcode, bevestig en voer uw PIN in. Bewaar de nieuwe code op een veilige plek en tik vervolgens op de bevestiging dat u de code hebt opgeslagen om deze te activeren. Volg eventuele aanwijzingen om opnieuw verbinding te maken of te synchroniseren.
+- **Ook uw telefoon kwijt:** Als u geen kopie van de herstelcode en geen ander apparaat hebt dat de kluis nog kan ontgrendelen, kunnen wij de bestaande back-up niet openen. Schakel Cloud Backup in op uw nieuwe telefoon en kies om opnieuw te beginnen.
 
 ### Waar u deze bewaart
 
 Uw herstelcode is net zo gevoelig als uw hoofdwachtwoord. Bewaar hem op een van de volgende manieren:
 
-- **Wachtwoordmanager:** Bitwarden, 1Password, Apple Keychain, of vergelijkbaar. Dit is de meest praktische optie.
+- **Wachtwoordmanager:** Gebruik een wachtwoordmanager die u vertrouwt.
 - **Fysieke back-up:** Schrijf hem op papier en bewaar deze in een kluis, kluisje, of veilige plek thuis.
 - **Offline document:** Sla op op een versleutelde externe schijf of USB-stick (nooit gesynchroniseerd met de cloud).
 - **Vermijd:** E-mail, de Notities-app, onversleutelde clouddiensten, of schermafbeeldingen.
 
 ### Uw code opnieuw genereren
 
-Als u denkt dat uw herstelcode gecompromitteerd is, schakelt u Cloudback-up uit en weer in. De app genereert een nieuwe herstelcode. Uw oude versleutelde back-up wordt verwijderd. Dit is met opzet zo ontworpen: het roteren van de herstelcode is bewust zeldzaam en gaat gepaard met verlies, zodat u dit niet lichtvaardig doet.
+Als u denkt dat uw herstelcode gecompromitteerd is, laat Cloud Backup dan ingeschakeld en maak verbinding met internet. Open Instellingen, Beveiliging, Herstelcode, bevestig en voer uw PIN in. Bewaar de nieuwe code die de app toont en tik vervolgens op de bevestiging dat u de code hebt opgeslagen om deze te activeren. Volg eventuele aanwijzingen om opnieuw verbinding te maken of te synchroniseren.
 
-**Disclaimer:** Uw herstelcode is uw eigen verantwoordelijkheid. Travel Document Vault kan deze niet herstellen, resetten, of opnieuw genereren als deze verloren gaat. Bewaar hem veilig. Vertrouw niet uitsluitend op deze app als enig back-upsysteem voor kritieke documenten.
+**Disclaimer:** Uw herstelcode is uw eigen verantwoordelijkheid. Travel Document Vault kan deze niet voor u herstellen of resetten als deze verloren gaat. Bewaar hem veilig. Vertrouw niet uitsluitend op deze app als enig back-upsysteem voor kritieke documenten.
 
 ## Klaar om uw kluis te beschermen?
 
-Download Travel Document Vault en schakel Cloudback-up in om uw documenten veilig te houden.
+Download Travel Document Vault gratis. Pro voegt een versleutelde back-up naar uw eigen iCloud of Google Drive toe. Bewaar uw herstelcode voordat u deze inschakelt.
 
 ![Download van de App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

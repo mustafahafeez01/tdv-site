@@ -64,7 +64,7 @@ Los requisitos de validez del pasaporte por país cambian sin previo aviso —un
 
 Siempre verifica tus requisitos específicos usando el IATA Travel Centre, el sistema que las aerolíneas usan para verificar documentos de pasajeros en tiempo real.
 
-**Travel Document Vault** señala cualquier pasaporte que se quede sin seis meses de validez para cuando termine tu viaje —para cada miembro de la familia, automáticamente. [Descárgalo en App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) y [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
+**Travel Document Vault** comprueba con Pro los pasaportes vinculados usando un margen predeterminado de 180 días después del final del viaje guardado, salvo que configures un margen de validez personalizado. Comprueba por separado la norma real de tu destino. [Descárgalo en App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) y [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
 
 ## Cuándo No Se Aplica la Regla de los 6 Meses
 
@@ -104,7 +104,7 @@ Trata tu pasaporte como un neumático de coche —no esperes hasta que esté des
 
 Antes de cualquier viaje, cuenta seis meses hacia adelante desde el día que sales del destino, que es la fecha más tardía y por tanto satisface cualquier versión de la regla. Comprueba el vencimiento de tu pasaporte contra esa fecha —no solo tus fechas de viaje.
 
-Administrar múltiples pasaportes en toda una familia con diferentes fechas de vencimiento es donde se pone desordenado. [Travel Document Vault](https://traveldocumentvault.com) rastrea esto automáticamente —almacenando el vencimiento del pasaporte de cada miembro de la familia y enviando recordatorios desde ocho meses antes, y de nuevo a medida que se acerca la fecha. Sin aritmética mental antes de cada reserva. También puedes encontrar más [consejos prácticos sobre documentos de viaje](https://traveldocumentvault.com/es/blog/) en el blog.
+Administrar múltiples pasaportes en toda una familia con diferentes fechas de vencimiento es donde se pone desordenado. [Travel Document Vault](https://traveldocumentvault.com) controla el vencimiento de tu pasaporte, y puedes añadir a toda la familia con Pro. Los recordatorios de pasaporte empiezan por defecto ocho meses antes del vencimiento y se repiten a medida que se acerca la fecha. Comprueba la norma de validez de tu destino antes de reservar. También puedes encontrar más [consejos prácticos sobre documentos de viaje](https://traveldocumentvault.com/es/blog/) en el blog.
 
 ## Una Nota Sobre la Verificación de Requisitos Antes de Viajar
 
@@ -144,7 +144,7 @@ Sí. Las aerolíneas verifican la validez del pasaporte usando una base de datos
 
 ### ¿Cómo verifico si mi pasaporte cumple la regla de los 6 meses?
 
-Cuenta seis meses hacia adelante desde el día que sales del destino, luego comprueba si tu pasaporte vence después de esa fecha. Esa es la más tardía de las dos fechas que usan los países, así que cubre ambos casos. Si sales el 1 de agosto, tu pasaporte necesita ser válido hasta por lo menos el 1 de febrero del año siguiente. Apps como Travel Document Vault rastrean esto automáticamente para cada miembro de la familia, para que no tengas que hacer las matemáticas antes de cada viaje.
+Cuenta seis meses hacia adelante desde el día que sales del destino, luego comprueba si tu pasaporte vence después de esa fecha. Esa es la más tardía de las dos fechas que usan los países, así que cubre ambos casos. Si sales el 1 de agosto, tu pasaporte necesita ser válido hasta por lo menos el 1 de febrero del año siguiente. Con Pro, Travel Document Vault comprueba los pasaportes vinculados usando un margen predeterminado de 180 días después del final del viaje guardado, salvo que configures un margen de validez personalizado. Comprueba por separado la norma real del destino; 180 días no siempre equivalen a seis meses naturales.
 
 ### ¿Necesito seis meses de validez en mi pasaporte para viajar a Europa?
 
@@ -152,7 +152,7 @@ No, pero sí necesitas más que la duración de tu estancia. El Foreign Office d
 
 ### ¿Qué pasa si el pasaporte de un miembro de la familia cumple la regla pero el de otro no?
 
-El pasaporte de cada miembro de la familia se evalúa individualmente —no hay regla de grupo. Esto significa que un pasaporte podría cumplir el requisito de 6 meses mientras que otro no, potencialmente impidiendo que esa persona viaje. Verifica cada pasaporte del grupo contra los requisitos de validez del destino antes de reservar. Apps como Travel Document Vault te permiten rastrear el vencimiento del pasaporte de cada miembro de la familia por separado para que detectes estas brechas antes de que lo haga el check-in.
+El pasaporte de cada miembro de la familia se evalúa individualmente —no hay regla de grupo. Esto significa que un pasaporte podría cumplir el requisito de 6 meses mientras que otro no, potencialmente impidiendo que esa persona viaje. Verifica cada pasaporte del grupo contra los requisitos de validez del destino antes de reservar. Travel Document Vault controla el vencimiento de tu pasaporte, y puedes añadir a cada miembro de la familia con Pro. Comprueba sus fechas frente a la norma del destino antes de reservar.
 
 ### ¿Puedo viajar si mi pasaporte vence en 3 meses?
 

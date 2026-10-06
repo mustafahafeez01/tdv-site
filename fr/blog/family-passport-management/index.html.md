@@ -1,6 +1,6 @@
 # Gestion des passeports familiaux : stocker plusieurs passeports en toute sécurité
 
-> Réunir les passeports de la famille au même endroit, suivre la date d'expiration de chacun, et recevoir un rappel avant chaque renouvellement.
+> Passeports familiaux dans un coffre chiffré. Avec Pro, ajoutez des profils familiaux ; dates d’expiration et rappels pour prévoir les renouvellements.
 
 Source: https://traveldocumentvault.com/fr/blog/family-passport-management/
 

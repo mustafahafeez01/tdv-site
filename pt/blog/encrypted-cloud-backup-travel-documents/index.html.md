@@ -1,6 +1,6 @@
 # Cópia de Segurança Encriptada na Cloud para Documentos de Viagem: Quem Guarda a Chave
 
-> O que uma cópia de segurança encriptada protege mesmo, e porque ninguém pode repor o seu código de recuperação.
+> O que uma cópia de segurança encriptada protege mesmo, e porque não podemos repor o seu código de recuperação.
 
 Source: https://traveldocumentvault.com/pt/blog/encrypted-cloud-backup-travel-documents/
 
@@ -12,9 +12,9 @@ Source: https://traveldocumentvault.com/pt/blog/encrypted-cloud-backup-travel-do
 
 - **"Cópia de segurança encriptada" só significa alguma coisa quando sabe quem tem a chave.** Se a empresa conseguir ler os seus documentos, a encriptação está a protegê-los de estranhos, não da empresa.
 - Uma cópia de segurança encriptada no telemóvel antes do envio chega à cloud como dados ilegíveis. O fornecedor de armazenamento fica com texto cifrado, não com o seu passaporte.
-- **Sem conta significa sem reposição de palavra-passe.** Perca o código de recuperação e a cópia de segurança não pode ser aberta por ninguém, nós incluídos. Essa é a troca deliberada.
+- **Sem conta significa sem reposição de palavra-passe.** Se perder o código de recuperação e o acesso a todos os dispositivos que ainda conseguem abrir o cofre, não podemos recuperar a cópia de segurança encriptada. Essa é a troca deliberada.
 - Escreva o código antes de depender da cópia de segurança, guarde-o longe do telemóvel, e releia-o uma vez para confirmar que está legível.
-- Uma cópia de segurança do sistema do dispositivo reinstala a aplicação mas não consegue trazer de volta os seus documentos, porque a chave de encriptação nunca saiu do telemóvel antigo.
+- Uma cópia de segurança do sistema do dispositivo reinstala a aplicação mas não consegue trazer de volta os seus documentos, porque as cópias de segurança do sistema não transferem a chave de encriptação vinculada ao dispositivo.
 
 Digitalizou quatro passaportes, dois vistos e as certidões de nascimento dos filhos numa aplicação que guarda tudo no seu telemóvel. Ótimo. Depois surge a preocupação óbvia: o que acontece quando o telemóvel cai ao mar, ou desaparece da mesa de um café em Lisboa.
 
@@ -32,11 +32,11 @@ A outra configuração embaralha o ficheiro no seu telemóvel antes de ele ir pa
 
 Por isso a pergunta que vale a pena fazer a qualquer aplicação é curta: **quem tem a chave?** Tudo o resto no marketing decorre dessa resposta.
 
-## O Código de Recuperação, e Porque É Que Ninguém o Consegue Repor
+## O código de recuperação e porque não o podemos repor
 
-Aqui está a parte que a maioria dos artigos evita, e merece ser dita sem rodeios: o [Travel Document Vault](https://traveldocumentvault.com/pt/) não tem contas. Nunca nos deu um endereço de email, nunca lhe definimos uma palavra-passe, e não existe qualquer registo seu em nenhum servidor nosso. Quando ativa a [cópia de segurança na cloud](https://traveldocumentvault.com/pt/cloud-backup/), a aplicação gera um código de recuperação de 24 carateres e deriva dele a chave de encriptação. O cofre encriptado vai depois para **o seu próprio iCloud no iPhone e iPad, ou para o seu próprio Google Drive no Android**, e não para nós.
+O [Travel Document Vault](https://traveldocumentvault.com/pt/) não exige conta na aplicação para guardar documentos no dispositivo. A [cópia de segurança na nuvem](https://traveldocumentvault.com/pt/cloud-backup/) opcional exige Pro e o código de recuperação para desbloquear a chave de encriptação da nuvem. A aplicação cria este código de 24 carateres quando define o PIN. O cofre encriptado vai depois para **o seu próprio iCloud no iPhone e iPad, ou para o seu próprio Google Drive no Android**, e não para nós.
 
-A consequência é inevitável. **Se perder esse código de recuperação, a cópia de segurança nunca mais poderá ser aberta.** Nem por si, nem pela Apple ou pela Google, nem por nós. Não existe uma ligação de reposição, porque não há conta a que a associar. Não existe um pedido de suporte que a recupere, porque nunca a tivemos e não temos forma de a adivinhar.
+A consequência é inevitável. **Se perder o código de recuperação e o acesso a todos os dispositivos que ainda conseguem abrir o cofre, não podemos recuperar a cópia de segurança encriptada.** Não existe uma ligação de reposição, porque não há conta a que a associar. Não existe um pedido de suporte que a recupere, porque nunca a tivemos e não temos forma de a adivinhar.
 
 Isto soa duro por escrito, e vale mais ser honesto sobre o assunto do que escondê-lo num ecrã de definições. É a mesma troca que faz com a chave de casa: a fechadura só vale a pena porque nenhum chaveiro do mundo guarda uma cópia, e é exatamente por isso que perder a sua é um problema seu.
 
@@ -68,17 +68,17 @@ Um cofre encriptado no dispositivo antes do envio chega como texto cifrado. Quem
 
 ## O Que Vai na Cópia de Segurança, e O Que Fica de Fora
 
-A cópia de segurança contém uma cópia encriptada do cofre: todos os perfis, todas as digitalizações, datas de validade, lembretes, notas e anexos. Ao restaurá-la, a aplicação fica exatamente como a deixou.
+A cópia de segurança inclui perfis, digitalizações, anexos, datas de validade, notas e histórico de lembretes que pode ser transferido para um novo dispositivo. A aplicação encripta-os antes do envio. A restauração recupera este conteúdo do cofre; as definições do dispositivo mantêm-se separadas, e a aplicação recria as notificações.
 
-Há três coisas que ficam deliberadamente no telemóvel, e o código de recuperação é a primeira: nunca sai do dispositivo, e essa é precisamente a questão. O bloqueio da aplicação também fica local, por isso o Face ID, o Touch ID ou o PIN mantêm outras pessoas fora do telemóvel enquanto a encriptação as mantém fora do ficheiro. E as cópias de segurança automáticas locais que a aplicação cria enquanto trabalha ficam apenas no dispositivo.
+Há três coisas que ficam deliberadamente no telemóvel, e o código de recuperação é a primeira: não é enviado com a cópia de segurança. O bloqueio da aplicação também fica local, por isso o Face ID, o Touch ID ou o PIN mantêm outras pessoas fora da aplicação enquanto a encriptação as mantém fora do ficheiro. E as cópias de segurança automáticas locais que a aplicação cria enquanto trabalha ficam apenas no dispositivo.
 
-Este último ponto apanha muita gente desprevenida, por isso aqui fica a versão direta. **Uma cópia de segurança do sistema do telemóvel reinstala a aplicação mas não consegue restaurar os seus documentos.** A chave de encriptação nunca saiu do telemóvel antigo, por isso o novo não tem nada com que desencriptar. Se quer que o seu cofre sobreviva ao telemóvel, precisa de ter a cópia de segurança na cloud ativada, ou um ficheiro exportado guardado nalgum sítio.
+Este último ponto apanha muita gente desprevenida, por isso aqui fica a versão direta. **Uma cópia de segurança do sistema do telemóvel reinstala a aplicação mas não consegue restaurar os seus documentos.** As cópias de segurança do sistema não transferem a chave de encriptação vinculada ao dispositivo, pelo que o novo telemóvel precisa de restauração da nuvem (Pro) ou de um ficheiro exportado do cofre. Se quer que o seu cofre sobreviva ao telemóvel, precisa de ter a cópia de segurança na cloud ativada, ou um ficheiro exportado guardado nalgum sítio.
 
-## O Restauro É Curto e Não Substitui o Que Já Lá Está
+## Restaurar o cofre e começar do zero sem alterar a cópia de segurança antiga
 
-O processo de restauro é rápido, e é precisamente essa a razão de fazer a preparação antecipadamente.
+O tempo de restauração depende do tamanho do cofre e da ligação à internet.
 
-Instale a aplicação no telemóvel novo e inicie sessão na mesma conta iCloud ou Google que usava antes. Abra Definições, depois Cópia de Segurança na Cloud, depois Restaurar Cópia de Segurança, e introduza o seu código de recuperação. O cofre regressa com os perfis, datas de validade e lembretes intactos.
+Instale a aplicação no telemóvel novo e inicie sessão na mesma conta iCloud ou Google que usava antes. Com Pro e a cópia de segurança na nuvem desativada no dispositivo de destino, abra Definições, Cópia de Segurança na Nuvem e depois Restaurar da Cópia de Segurança. Escolha o cofre existente, introduza o código de recuperação e confirme a restauração, que substitui o conteúdo local do cofre. Os perfis, documentos e datas de validade são restaurados; as notificações são recriadas no dispositivo de destino.
 
 A aplicação também verifica antes de escrever. Se a cópia de segurança na cloud detetar uma cópia já existente nessa conta, pede-lhe para escolher entre restaurar ou começar do zero. Um telemóvel novo não consegue substituir silenciosamente o que já lá está.
 
@@ -86,7 +86,7 @@ A aplicação também verifica antes de escrever. Se a cópia de segurança na c
 
 A cópia de segurança na cloud fica confinada a uma só plataforma, porque usa o seu próprio iCloud em dispositivos Apple e o seu próprio Google Drive no Android. Passar de um para o outro exige a outra via.
 
-Use a Exportação do Cofre. Definições, Exportar Cofre produz um único ficheiro protegido por palavra-passe com tudo lá dentro, e escolhe para onde vai: a aplicação Ficheiros, um disco, um email para si próprio. No telemóvel novo, Definições, Importar Cofre lê-o de volta. Funciona nos dois sentidos e mantém nomes, datas, lembretes, cores, notas e anexos tal como estavam.
+A exportação do cofre é gratuita. Em Definições, Exportar cofre cria um ficheiro protegido por palavra-passe com perfis, documentos, viagens, definições suportadas e anexos legíveis. Escolha onde guardá-lo: a aplicação Ficheiros, um disco ou um e-mail para si próprio. No telemóvel novo, Definições, Importar backup lê o ficheiro e substitui os dados que já lá estão. Suporta ambas as plataformas. Reveja os documentos, notas e anexos importados, verifique novamente os lembretes e guarde a exportação original. As notificações são recriadas no dispositivo de destino.
 
 Esse ficheiro exportado é também a resposta para quem quer uma cópia que não dependa de todo de uma conta na cloud. É sensato guardá-lo num disco em casa, independentemente do telemóvel que use.
 
@@ -114,23 +114,23 @@ Significa que a cópia é embaralhada no seu telemóvel antes de ir para qualque
 
 ### O que acontece se perder a minha chave de cópia de segurança?
 
-A cópia de segurança permanece encriptada e ninguém a consegue abrir, nós incluídos. Não existe conta, não existe reposição de palavra-passe, e não existe via de suporte que a recupere, porque o código de recuperação nunca chega até nós. Essa é a troca deliberada para que também mais ninguém consiga ler os seus documentos. Escreva o código antes de confiar na cópia de segurança, guarde-o num sítio separado do telemóvel, e releia-o uma vez para confirmar que consegue.
+Se perder o código de recuperação e o acesso a todos os dispositivos que ainda conseguem abrir o cofre, não podemos recuperar a cópia de segurança encriptada. Não existe conta, não existe reposição de palavra-passe, e não existe via de suporte que a recupere, porque o código de recuperação nunca chega até nós. Essa é a troca deliberada para que também mais ninguém consiga ler os seus documentos. Escreva o código antes de confiar na cópia de segurança, guarde-o num sítio separado do telemóvel, e releia-o uma vez para confirmar que consegue.
 
 ### A cópia de segurança na cloud é segura para digitalizações de passaporte?
 
-Depende inteiramente do que chega à cloud. Uma fotografia do seu passaporte numa biblioteca de fotos comum ou numa pasta de sincronização de ficheiros chega legível, e qualquer pessoa que entre nessa conta consegue lê-la. Uma cópia de segurança encriptada no dispositivo antes do envio chega como texto cifrado, por isso o fornecedor de armazenamento fica com algo que não consegue abrir. O Travel Document Vault encripta o cofre no seu telemóvel com AES-256-GCM e envia o ficheiro encriptado para o seu próprio iCloud ou Google Drive, e não para um servidor da empresa.
+Depende inteiramente do que chega à cloud. Uma fotografia do seu passaporte numa biblioteca de fotos comum ou numa pasta de sincronização de ficheiros chega legível, e qualquer pessoa que entre nessa conta consegue lê-la. Uma cópia de segurança encriptada no dispositivo antes do envio chega como texto cifrado, por isso o fornecedor de armazenamento fica com algo que não consegue abrir. Com Pro, o Travel Document Vault encripta o cofre no telemóvel com AES-256-GCM e envia o ficheiro encriptado para o seu próprio iCloud ou Google Drive, e não para um servidor TDV.
 
 ### Consigo restaurar os meus documentos noutro telemóvel?
 
-Sim. Instale a aplicação no telemóvel novo, inicie sessão na mesma conta iCloud ou Google, depois abra Definições, Cópia de Segurança na Cloud, Restaurar Cópia de Segurança e introduza o seu código de recuperação. Os seus perfis, documentos, datas de validade e lembretes regressam tal como estavam. Note que uma cópia de segurança do sistema do telemóvel não faz isto sozinha: reinstala a aplicação mas não consegue desencriptar os seus documentos, porque a chave de encriptação nunca sai do dispositivo original.
+Sim, com Pro. Instale a aplicação no telemóvel novo e inicie sessão na mesma conta iCloud ou Google. Com a cópia de segurança na nuvem desativada no dispositivo de destino, abra Definições, Cópia de Segurança na Nuvem e depois Restaurar da Cópia de Segurança. Escolha o cofre existente, introduza o código de recuperação e confirme a restauração, que substitui o conteúdo local do cofre. Os perfis, documentos e datas de validade são restaurados; as notificações são recriadas no dispositivo de destino. Note que uma cópia de segurança do sistema do telemóvel não faz isto sozinha: reinstala a aplicação mas não consegue desencriptar os documentos, porque as cópias de segurança do sistema não transferem a chave de encriptação vinculada ao dispositivo.
 
 ### A cópia de segurança funciona entre iPhone e Android?
 
-A cópia de segurança na cloud fica confinada a uma só plataforma, já que usa o seu próprio iCloud no iPhone e iPad e o seu próprio Google Drive no Android. Para mudar entre eles, use antes a Exportação do Cofre: Definições, Exportar Cofre cria um único ficheiro .tdvault protegido por palavra-passe que pode enviar a si próprio da forma que preferir, e depois Definições, Importar Cofre no telemóvel novo lê-o de volta. A importação funciona entre plataformas nos dois sentidos e mantém nomes, datas, lembretes, notas e anexos intactos.
+A cópia de segurança na nuvem fica numa só plataforma: o seu próprio iCloud no iPhone e iPad, ou o seu próprio Google Drive no Android. Para mudar entre plataformas, use a exportação gratuita do cofre. Em Definições, Exportar cofre cria um ficheiro .tdvault protegido por palavra-passe que pode enviar a si próprio. No telemóvel novo, Definições, Importar backup lê o ficheiro e substitui os dados que já lá estão. A importação suporta ambas as plataformas. Reveja os documentos, notas e anexos importados, verifique novamente os lembretes e guarde a exportação original. As notificações são recriadas no dispositivo de destino.
 
 ### O que fica guardado na cópia de segurança e o que permanece no dispositivo?
 
-A cópia de segurança contém uma cópia encriptada do seu cofre: todos os perfis, digitalizações de documentos, datas de validade, lembretes e notas. O seu código de recuperação não está lá dentro, e nunca sai do dispositivo. O mesmo acontece com o bloqueio da aplicação, por isso o Face ID, o Touch ID ou o PIN protegem o telemóvel enquanto a encriptação protege o ficheiro. As cópias de segurança locais automáticas também ficam apenas no dispositivo, e é por isso que não conseguem trazer de volta o seu cofre num telemóvel de substituição.
+A cópia de segurança inclui perfis, digitalizações e anexos legíveis, datas de validade, notas e histórico de lembretes que pode ser transferido, encriptados antes do envio. O código de recuperação não é enviado com a cópia de segurança. O bloqueio da aplicação também fica no dispositivo, pelo que Face ID, Touch ID ou o PIN protegem a aplicação enquanto a encriptação protege o ficheiro. As cópias de segurança locais automáticas também ficam apenas no dispositivo, e é por isso que não conseguem trazer de volta o seu cofre num telemóvel de substituição.
 
 ## Artigos Relacionados
 

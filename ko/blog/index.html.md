@@ -52,7 +52,7 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[가족 여행가족 여권 관리: 여러 여권을 안전하게 보관하기가족 여권 여러 개를 한 곳에 정리하고 안전하게 보관하는 방법. 모든 가족 구성원의 만료일을 추적하고 갱신 전에 알림을 받으세요.2026년 7월 16일7분 읽기](https://traveldocumentvault.com/ko/blog/family-passport-management/)
+[가족 여행가족 여권 관리: 여러 여권을 안전하게 보관하기가족의 여권을 한곳에 암호화하여 보관하십시오. Pro로 가족 프로필을 추가하고 만료일과 알림을 활용하여 갱신을 계획하십시오.2026년 7월 16일7분 읽기](https://traveldocumentvault.com/ko/blog/family-passport-management/)
 
 ##
 
@@ -140,9 +140,9 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 [여권 규칙6개월 여권 유효기간 규칙: 어느 국가가 시행하고 어떻게 대비할까 여권이 유효할 수 있지만 여전히 통과하지 못할 수 있습니다. 어느 국가가 6개월 규칙을 시행하는지, 항공사가 어떻게 확인하는지, 예약 전에 전체 가족을 보장하는 방법을 알아보세요. 2026년 2월 1일7분 읽기](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)
 
-## 여행 전에 마지막으로 서두를 시간
+## 여권 정보를 한곳에서 관리하십시오
 
-오늘 밤 가족의 여권을 스캔하세요. 만료 미리 알림은 스스로 설정됩니다. 안전하게 암호화되어 기기에만 저장됩니다.
+오늘 밤 여권을 스캔한 뒤 만료일을 확인하거나 입력하십시오. 알림은 기본으로 켜져 있으며 문서는 기기에 암호화하여 저장됩니다. 사본을 공유하거나 내보낼 수 있습니다. Pro는 가족 프로필과 자신의 클라우드로의 선택적 암호화 백업을 제공합니다.
 
 ![App Store에서 다운로드](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

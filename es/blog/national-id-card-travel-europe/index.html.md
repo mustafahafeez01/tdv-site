@@ -67,7 +67,7 @@ El reto práctico de gestionar documentos de viaje es este: tu documento de iden
 
 Lo más difícil es que **ninguno de los dos documentos te avisa.** Se supone que tienes que comprobarlos tú mismo. La mayoría no lo hace, hasta que está en el mostrador de facturación y un agente le dice que uno de los dos está demasiado cerca de caducar para ser aceptado.
 
-Lo que ayuda es tener un único lugar para ambos documentos, que registre cada fecha de caducidad al escanearlo y te avise por separado para cada uno, con el calendario que corresponde a ese tipo de documento. Consulta nuestra guía sobre [cómo preparar una lista de verificación completa antes de viajar](https://traveldocumentvault.com/es/blog/travel-document-checklist/) para ver todo lo que hay que comprobar antes de salir.
+Lo que ayuda es tener un único lugar para ambos documentos, que guarde cada fecha de caducidad y te avise por separado para cada uno, con el calendario que corresponde a ese tipo de documento. Consulta nuestra guía sobre [cómo preparar una lista de verificación completa antes de viajar](https://traveldocumentvault.com/es/blog/travel-document-checklist/) para ver todo lo que hay que comprobar antes de salir.
 
 Empieza hoy: saca tu documento de identidad, comprueba la fecha de caducidad y revisa que no tenga grietas, desteñidos ni el plástico deformado. Si está en el límite, solicita la renovación antes de reservar el viaje.
 

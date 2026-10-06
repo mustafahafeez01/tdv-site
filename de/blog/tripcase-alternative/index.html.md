@@ -94,7 +94,7 @@ Flighty ist der direkteste Ersatz für Echtzeit-Flugwarnungen. Die App verfolgt 
 
 ### Gibt es eine App, die TripCase vollständig ersetzt?
 
-Es gibt keine einzelne App, die alles macht, was TripCase konnte. Die meisten Ex-Nutzer verwenden zwei oder drei Tools: TripIt oder Tripsy zum Analysieren von Reiseplänen und für Zeitachsen-Ansichten, Flighty für Flugwarnungen und eine separate Offline-App wie Travel Document Vault für die Speicherung von Dokumenten. Das sind mehr Teile, aber Sie verlassen sich nicht auf das Überleben eines einzelnen Unternehmens.
+Möglicherweise brauchen Sie getrennte Tools für die Auswertung von Reiseplänen, Flugbenachrichtigungen und die Dokumentenspeicherung. Travel Document Vault speichert Dokumentkopien verschlüsselt auf Ihrem Telefon und ermöglicht Ihnen, sie offline anzusehen.
 
 ### Sollte ich meine Reisedokumente in einer Cloud-App speichern?
 

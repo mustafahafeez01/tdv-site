@@ -88,7 +88,7 @@ His Majesty's Passport Office는 명확합니다. 여권은 여행하는 날짜�
 
 [여권이 이미 만료되었고 다음 단계를 찾고 있다면, 당사의 관련 기사가 단계별로 설명합니다](https://traveldocumentvault.com/ko/blog/passport-expired-what-to-do/). 여행이 예정되어 있고 여권이 만료 임박이면, 지금이 갱신할 시간입니다. 만료될 때까지 기다리는 것이 아니라. 이것은 표준 수수료 대신 Premium 서비스를 위해 비용을 지불하는 것을 의미합니다. 여행 예약 전에 지금 가족의 여권을 확인하세요.
 
-**주 단위가 아닌 개월 단위로 사전에 만료 알림을 설정하세요.** [Travel Document Vault는 가정 내 모든 여권의 만료 날짜를 추적하고 만료 8개월 전부터 알림을 보내며, 만료일이 가까워지면 다시 알려줍니다](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/). 따라서 표준 처리 중에 갱신하고 긴급 수수료를 피할 수 있습니다.
+**주 단위가 아닌 개월 단위로 사전에 만료 알림을 설정하세요.** [Travel Document Vault는 여권 만료일을 추적하고 기본으로 만료 8개월 전부터 알림을 보내며, 만료일이 가까워지면 다시 알려드립니다](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/). Pro로 가정 내 모든 여권을 추가할 수 있습니다. 알림을 활용하여 갱신을 계획하십시오.
 
 ## 이미 해외에 있고 여권이 만료되었을 때
 

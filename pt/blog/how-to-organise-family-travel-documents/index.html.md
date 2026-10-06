@@ -81,7 +81,7 @@ O que isto significa na prática
 
 Se o seu telemóvel for roubado e o ladrão chegar à sua biblioteca de fotos, tem uma digitalização clara da sua página de dados de passaporte: seu nome, data de nascimento, número de passaporte e sua foto. Isto é suficiente para fraude de identidade. Armazenar digitalizações de passaporte numa aplicação encriptada que requer um PIN separado ou biometria é significativamente mais seguro do que uma biblioteca de fotos, mesmo que ambas estejam no mesmo dispositivo.
 
-[Travel Document Vault](https://traveldocumentvault.com) armazena tudo no dispositivo com encriptação forte (cópia de segurança encriptada opcional para o seu próprio iCloud ou Google Drive com Pro). Cada membro da família obtém o seu próprio perfil e as datas de validade são rastreadas automaticamente. Se preferir fazê-lo você mesmo, uma pasta encriptada num gestor de palavras-passe confiável funciona também — apenas não o lembrará quando algo está prestes a expirar.
+[Travel Document Vault](https://traveldocumentvault.com) guarda os seus documentos encriptados no dispositivo e acompanha as datas de validade guardadas. Pode partilhar ou exportar cópias. Pro acrescenta perfis familiares e cópia de segurança encriptada opcional para o seu próprio iCloud ou Google Drive. Se preferir fazê-lo você mesmo, uma pasta encriptada num gestor de palavras-passe confiável funciona também — apenas não o lembrará quando algo está prestes a expirar.
 
 ## Rastreamento de Datas de Validade: A Parte Mais Negligenciada
 
@@ -93,11 +93,11 @@ Aqui está o padrão de falha que apanha famílias: renova o seu próprio passap
 
 - **Lembretes no calendário:** Defina um 12 meses antes de cada documento expirar e outro aos 6 meses. Precisará lembrar-se de atualizar estes quando documentos forem renovados, e precisa ter as datas de validade acessíveis em primeiro lugar.
 - **Folha de cálculo:** Funciona bem se realmente vai mantê-la. Uma linha por documento por pessoa, a data de validade, e uma fórmula que realça qualquer coisa expirando nos próximos 12 meses.
-- **Aplicação dedicada:** Ferramentas como Travel Document Vault lidam com os lembretes automaticamente — digitalize o documento, confirme a data de validade e agenda alertas a partir de oito meses antes e novamente em intervalos mais próximos, sem que tenha de pensar nisso.
+- **Aplicação dedicada:** Travel Document Vault agenda lembretes para passaportes a partir de oito meses antes do fim da validade, com alertas em intervalos mais próximos. Digitalize um passaporte e confirme ou introduza a data de validade; os lembretes estão ativados por predefinição.
 
 Qualquer uma destas três abordagens funcionará, mas por defeito escolheríamos a que envia o lembrete automaticamente, já que uma folha de cálculo só ajuda se se lembrar de a abrir. O que mais importa é escolher uma que se adeque à forma como já opera e realmente cumprir com ela.
 
-**Travel Document Vault** lida com rastreamento de validade para cada membro da família automaticamente — digitalize cada passaporte uma vez e receba lembretes a partir de oito meses antes. Sem folha de cálculo, sem renovações esquecidas. [Transfira na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** acompanha as datas de validade guardadas, com lembretes para passaportes a partir de oito meses antes do fim da validade. Digitalize cada passaporte e confirme ou introduza a data de validade. Adicione toda a família com Pro para manter as datas de renovação juntas. [Transfira na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Lista de Verificação de Documentos Pré-Viagem para Famílias
 

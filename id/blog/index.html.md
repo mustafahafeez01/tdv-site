@@ -52,7 +52,7 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
-[Perjalanan Keluarga Manajemen Paspor Keluarga: Simpan Banyak Paspor dengan Aman Cara mengatur dan menyimpan paspor seluruh keluarga dengan aman di satu tempat. Lacak tanggal kedaluwarsa setiap anggota keluarga, lengkap dengan pengingat sebelum setiap perpanjangan. 16 Juli 20267 mnt baca](https://traveldocumentvault.com/id/blog/family-passport-management/)
+[Perjalanan Keluarga Manajemen Paspor Keluarga: Simpan Banyak Paspor dengan Aman Simpan paspor keluarga Anda dengan rapi di satu tempat yang terenkripsi. Tambahkan profil keluarga dengan Pro, lalu gunakan tanggal kedaluwarsa dan pengingat untuk merencanakan perpanjangan. 16 Juli 20267 mnt baca](https://traveldocumentvault.com/id/blog/family-passport-management/)
 
 ##
 
@@ -142,9 +142,9 @@ Source: https://traveldocumentvault.com/id/blog/
 
 [Aturan Paspor Aturan Paspor 6 Bulan: Negara Mana yang Menerapkannya dan Cara Menghindari Masalah Paspor Anda bisa saja masih berlaku, tapi tetap bisa ditolak di gerbang. Pelajari negara mana yang menerapkan aturan 6 bulan, bagaimana maskapai memeriksanya, dan cara memastikan seluruh keluarga Anda aman sebelum memesan tiket. Feb 1, 20267 mnt baca](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
 
-## Kali Terakhir Anda Panik Sebelum Perjalanan
+## Simpan Detail Paspor Anda Bersama
 
-Pindai paspor keluarga Anda malam ini. Pengingat kedaluwarsa mengatur diri mereka sendiri. Terenkripsi dengan aman, disimpan hanya di perangkat Anda.
+Pindai paspor Anda malam ini lalu konfirmasi atau masukkan tanggal kedaluwarsanya. Pengingat aktif secara default, dan dokumen Anda terenkripsi di perangkat. Anda bisa membagikan atau mengekspor salinan. Pro menambahkan profil keluarga dan cadangan terenkripsi opsional ke cloud Anda sendiri.
 
 ![Unduh dari App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

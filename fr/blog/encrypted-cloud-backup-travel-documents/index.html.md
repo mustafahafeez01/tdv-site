@@ -1,6 +1,6 @@
 # Sauvegarde cloud chiffrée pour vos documents de voyage : qui détient la clé
 
-> Ce que chiffre vraiment une sauvegarde de vos scans de passeport, et pourquoi personne ne peut réinitialiser votre code de récupération.
+> Ce que chiffre vraiment une sauvegarde de vos scans de passeport, et pourquoi nous ne pouvons pas réinitialiser votre code de récupération.
 
 Source: https://traveldocumentvault.com/fr/blog/encrypted-cloud-backup-travel-documents/
 
@@ -12,9 +12,9 @@ Source: https://traveldocumentvault.com/fr/blog/encrypted-cloud-backup-travel-do
 
 - **Une « sauvegarde chiffrée » ne veut dire quelque chose que si vous savez qui détient la clé.** Si l'entreprise peut lire vos documents, le chiffrement les protège des inconnus, pas de l'entreprise.
 - Une sauvegarde chiffrée sur votre téléphone avant l'envoi arrive dans le cloud sous forme de données illisibles. Le fournisseur de stockage détient du texte chiffré, pas votre passeport.
-- **Pas de compte signifie pas de réinitialisation de mot de passe.** Perdez le code de récupération et la sauvegarde ne pourra être ouverte par personne, nous y compris. C'est un compromis voulu.
+- **Pas de compte signifie pas de réinitialisation de mot de passe.** Perdez le code de récupération et l’accès à tous les appareils capables d’ouvrir encore le coffre, et nous ne pouvons pas récupérer la sauvegarde chiffrée. C'est un compromis voulu.
 - Notez le code avant de dépendre de la sauvegarde, gardez-le loin du téléphone, et relisez-le une fois pour vérifier qu'il est lisible.
-- Une sauvegarde système de l'appareil réinstalle l'application, mais ne peut pas récupérer vos documents, car la clé de chiffrement n'a jamais quitté l'ancien téléphone.
+- Une sauvegarde système de l'appareil réinstalle l'application, mais ne peut pas récupérer vos documents, car les sauvegardes système ne transfèrent pas la clé de chiffrement liée à l’appareil.
 
 Vous avez scanné quatre passeports, deux visas et les actes de naissance des enfants dans une application qui garde tout sur votre téléphone. Bien. Puis l'inquiétude évidente arrive : que se passe-t-il si le téléphone tombe à l'eau, ou disparaît d'une table de café à Lisbonne.
 
@@ -32,11 +32,11 @@ Le second système brouille le fichier sur votre téléphone avant qu'il n'aille
 
 La question à poser à n'importe quelle application tient donc en peu de mots : **qui détient la clé ?** Tout le reste du discours marketing en découle.
 
-## Le code de récupération, et pourquoi personne ne peut le réinitialiser
+## Le code de récupération, et pourquoi nous ne pouvons pas le réinitialiser
 
-Voici la partie que la plupart des articles évitent, et elle mérite d'être dite clairement : Travel Document Vault n'a pas de comptes. Vous ne nous avez jamais donné d'adresse e-mail, nous ne vous avons jamais défini de mot de passe, et il n'existe aucune trace de vous sur le moindre serveur que nous exploitons. Quand vous activez la [sauvegarde cloud](https://traveldocumentvault.com/fr/cloud-backup/), l'application génère un code de récupération de 24 caractères et en dérive la clé de chiffrement. Le coffre chiffré est ensuite envoyé vers **votre propre iCloud sur iPhone et iPad, ou votre propre Google Drive sur Android**, plutôt que vers nous.
+Travel Document Vault ne nécessite aucun compte dans l’application pour stocker des documents sur votre appareil. Sa [sauvegarde cloud](https://traveldocumentvault.com/fr/cloud-backup/) facultative nécessite Pro et votre code de récupération pour déverrouiller la clé de chiffrement cloud. L’application crée ce code de 24 caractères lorsque vous définissez votre PIN. Le coffre chiffré est ensuite envoyé vers **votre propre iCloud sur iPhone et iPad, ou votre propre Google Drive sur Android**, plutôt que vers nous.
 
-La conséquence est inévitable. **Si vous perdez ce code de récupération, la sauvegarde ne pourra plus jamais être ouverte.** Ni par vous, ni par Apple ou Google, ni par nous. Il n'existe aucun lien de réinitialisation, car il n'y a aucun compte auquel le rattacher. Il n'existe aucun ticket d'assistance qui puisse le récupérer, car nous ne l'avons jamais détenu et sommes incapables de le deviner.
+La conséquence est inévitable. **Si vous perdez le code de récupération et l’accès à tous les appareils capables d’ouvrir encore le coffre, nous ne pouvons pas récupérer la sauvegarde chiffrée.** Il n'existe aucun lien de réinitialisation, car il n'y a aucun compte auquel le rattacher. Il n'existe aucun ticket d'assistance qui puisse le récupérer, car nous ne l'avons jamais détenu et sommes incapables de le deviner.
 
 Écrit noir sur blanc, cela peut sembler dur, et il vaut mieux être honnête à ce sujet plutôt que de l'enterrer dans un écran de paramètres. C'est le même compromis qu'avec la clé de votre maison : la serrure n'a de valeur que parce qu'aucun serrurier au monde n'en garde un double, et c'est exactement pour cela que perdre la vôtre devient votre problème.
 
@@ -68,17 +68,17 @@ C'est pourquoi la version honnête de « le cloud est-il sûr » est la suivante
 
 ## Ce qui va dans la sauvegarde, et ce qui reste sur l'appareil
 
-La sauvegarde contient une copie chiffrée du coffre : chaque profil, chaque scan, les dates d'expiration, les rappels, les notes et les pièces jointes. Restaurez-la et l'application retrouve exactement l'état où vous l'aviez laissée.
+La sauvegarde comprend les profils, les scans, les pièces jointes, les dates d’expiration, les notes et l’historique des rappels transférable vers un nouvel appareil. L’application les chiffre avant l’envoi. La restauration récupère ce contenu du coffre ; les réglages de l’appareil restent séparés, et l’application recrée les notifications.
 
-Trois choses restent volontairement sur le téléphone, et le code de récupération vient en premier : il ne quitte jamais l'appareil, c'est tout l'intérêt. Le verrouillage de l'application reste local lui aussi, donc Face ID, Touch ID ou votre code PIN empêche les autres d'accéder au téléphone pendant que le chiffrement les empêche d'accéder au fichier. Et les instantanés locaux automatiques que l'application prend pendant que vous travaillez restent uniquement sur l'appareil.
+Trois choses restent volontairement sur le téléphone, et le code de récupération vient en premier : il n’est pas téléversé avec la sauvegarde. Le verrouillage de l'application reste local lui aussi, donc Face ID, Touch ID ou votre code PIN empêche les autres d’accéder à l’application pendant que le chiffrement les empêche d'accéder au fichier. Et les instantanés locaux automatiques que l'application prend pendant que vous travaillez restent uniquement sur l'appareil.
 
-Ce dernier point piège beaucoup de gens, alors voici la version sans détour. **Une sauvegarde système de l'appareil réinstalle l'application, mais ne peut pas restaurer vos documents.** La clé de chiffrement n'a jamais quitté l'ancien téléphone, donc le nouveau n'a rien avec quoi déchiffrer. Si vous voulez que votre coffre survive au téléphone, il vous faut soit la sauvegarde cloud activée, soit un fichier exporté enregistré quelque part.
+Ce dernier point piège beaucoup de gens, alors voici la version sans détour. **Une sauvegarde système de l'appareil réinstalle l'application, mais ne peut pas restaurer vos documents.** Les sauvegardes système ne transfèrent pas la clé de chiffrement liée à l’appareil : le nouveau téléphone a donc besoin d’une restauration cloud (Pro) ou d’un fichier de coffre exporté. Si vous voulez que votre coffre survive au téléphone, il vous faut soit la sauvegarde cloud activée, soit un fichier exporté enregistré quelque part.
 
-## La restauration est courte et n'écrase pas ce qui se trouve déjà là
+## Restaurer votre coffre : repartir de zéro ne touche jamais à l’ancienne sauvegarde
 
-La restauration est rapide, et c'est justement l'intérêt d'avoir fait la préparation en amont.
+Le temps de restauration dépend de la taille de votre coffre et de votre connexion.
 
-Installez l'application sur le nouveau téléphone et connectez-vous au même compte iCloud ou Google que celui utilisé auparavant. Ouvrez Réglages, puis Sauvegarde cloud, puis Restaurer depuis la sauvegarde, et saisissez votre code de récupération. Le coffre revient avec ses profils, dates d'expiration et rappels intacts.
+Installez l'application sur le nouveau téléphone et connectez-vous au même compte iCloud ou Google que celui utilisé auparavant. Avec Pro et la sauvegarde cloud désactivée sur l’appareil de destination, ouvrez Réglages, Sauvegarde cloud, puis Restaurer à partir de la sauvegarde. Choisissez le coffre existant, saisissez votre code de récupération et confirmez la restauration, qui remplace le contenu local du coffre. Les profils, documents et dates d’expiration sont restaurés ; les notifications sont recréées sur l’appareil de destination.
 
 L'application vérifie aussi avant d'écrire quoi que ce soit. Si la sauvegarde cloud détecte une sauvegarde existante dans ce compte, elle vous demande de choisir entre restaurer ou repartir de zéro. Un nouveau téléphone ne peut pas écraser discrètement ce qui existe déjà.
 
@@ -86,7 +86,7 @@ L'application vérifie aussi avant d'écrire quoi que ce soit. Si la sauvegarde 
 
 La sauvegarde cloud reste propre à une plateforme, car elle utilise votre propre iCloud sur les appareils Apple et votre propre Google Drive sur Android. Passer de l'un à l'autre nécessite une autre méthode.
 
-Utilisez l'export du coffre. Réglages, Exporter le coffre produit un seul fichier protégé par mot de passe contenant tout, et vous choisissez sa destination : l'application Fichiers, un drive, un e-mail à vous-même. Sur le nouveau téléphone, Réglages, Importer le coffre le relit. Cela fonctionne dans les deux sens et conserve les noms, dates, rappels, couleurs, notes et pièces jointes tels qu'ils étaient.
+L’exportation du coffre est gratuite. Dans Réglages, Exporter le coffre crée un fichier protégé par mot de passe comprenant les profils, documents, voyages, réglages pris en charge et pièces jointes lisibles. Vous choisissez où l’enregistrer : l’application Fichiers, un drive ou un e-mail à vous-même. Sur le nouveau téléphone, Réglages, Importer une sauvegarde le relit et remplace les données déjà présentes. L’importation prend en charge les deux plateformes. Vérifiez les documents, notes et pièces jointes importés, revérifiez les rappels et conservez l’export original. Les notifications sont recréées sur l’appareil de destination.
 
 Ce fichier exporté est aussi la solution pour quiconque veut une copie qui ne dépend d'aucun compte cloud. C'est une bonne chose à garder sur un disque à la maison, quel que soit le téléphone que vous utilisez.
 
@@ -114,23 +114,23 @@ Cela signifie que la copie est brouillée sur votre téléphone avant d'aller o�
 
 ### Que se passe-t-il si je perds ma clé de sauvegarde ?
 
-La sauvegarde reste chiffrée et personne ne peut l'ouvrir, nous y compris. Il n'y a ni compte, ni réinitialisation de mot de passe, ni aucune voie d'assistance capable de la récupérer, car le code de récupération ne nous parvient jamais. C'est le compromis voulu pour que personne d'autre ne puisse non plus lire vos documents. Notez le code avant de compter sur la sauvegarde, gardez-le à part de votre téléphone, et relisez-le une fois pour vérifier que vous le pouvez.
+Si vous perdez le code de récupération et l’accès à tous les appareils capables d’ouvrir encore le coffre, nous ne pouvons pas récupérer la sauvegarde chiffrée. Il n'y a ni compte, ni réinitialisation de mot de passe, ni aucune voie d'assistance capable de la récupérer, car le code de récupération ne nous parvient jamais. C'est le compromis voulu pour que personne d'autre ne puisse non plus lire vos documents. Notez le code avant de compter sur la sauvegarde, gardez-le à part de votre téléphone, et relisez-le une fois pour vérifier que vous le pouvez.
 
 ### La sauvegarde cloud est-elle sûre pour les scans de passeport ?
 
-Cela dépend entièrement de ce qui arrive dans le cloud. Une photo de votre passeport dans une bibliothèque de photos classique ou un dossier de synchronisation de fichiers arrive lisible, et quiconque accède à ce compte peut la lire. Une sauvegarde chiffrée sur l'appareil avant l'envoi arrive sous forme de texte chiffré, donc le fournisseur de stockage détient quelque chose qu'il ne peut pas ouvrir. Travel Document Vault chiffre le coffre sur votre téléphone avec AES-256-GCM et envoie le fichier chiffré vers votre propre iCloud ou Google Drive plutôt que vers un serveur d'entreprise.
+Cela dépend entièrement de ce qui arrive dans le cloud. Une photo de votre passeport dans une bibliothèque de photos classique ou un dossier de synchronisation de fichiers arrive lisible, et quiconque accède à ce compte peut la lire. Une sauvegarde chiffrée sur l'appareil avant l'envoi arrive sous forme de texte chiffré, donc le fournisseur de stockage détient quelque chose qu'il ne peut pas ouvrir. Avec Pro, Travel Document Vault chiffre le coffre sur votre téléphone avec AES-256-GCM et envoie le fichier chiffré vers votre propre iCloud ou Google Drive plutôt que vers un serveur TDV.
 
 ### Puis-je restaurer mes documents sur un autre téléphone ?
 
-Oui. Installez l'application sur le nouveau téléphone, connectez-vous au même compte iCloud ou Google, puis ouvrez Réglages, Sauvegarde cloud, Restaurer depuis la sauvegarde et saisissez votre code de récupération. Vos profils, documents, dates d'expiration et rappels reviennent tels qu'ils étaient. Notez qu'une sauvegarde système de l'appareil ne fait pas cela toute seule : elle réinstalle l'application mais ne peut pas déchiffrer vos documents, car la clé de chiffrement ne quitte jamais votre appareil d'origine.
+Oui, avec Pro. Installez l’application sur le nouveau téléphone et connectez-vous au même compte iCloud ou Google. Avec la sauvegarde cloud désactivée sur l’appareil de destination, ouvrez Réglages, Sauvegarde cloud, puis Restaurer à partir de la sauvegarde. Choisissez le coffre existant, saisissez votre code de récupération et confirmez la restauration, qui remplace le contenu local du coffre. Les profils, documents et dates d’expiration sont restaurés ; les notifications sont recréées sur l’appareil de destination. Notez qu’une sauvegarde système de l’appareil ne fait pas cela toute seule : elle réinstalle l’application mais ne peut pas déchiffrer vos documents, car les sauvegardes système ne transfèrent pas la clé de chiffrement liée à l’appareil.
 
 ### La sauvegarde fonctionne-t-elle entre iPhone et Android ?
 
-La sauvegarde cloud en elle-même reste propre à une plateforme, puisqu'elle utilise votre propre iCloud sur iPhone et iPad et votre propre Google Drive sur Android. Pour passer de l'une à l'autre, utilisez plutôt l'export du coffre : Réglages, Exporter le coffre crée un seul fichier .tdvault protégé par mot de passe que vous pouvez vous envoyer comme bon vous semble, puis Réglages, Importer le coffre sur le nouveau téléphone le relit. L'import fonctionne dans les deux sens entre plateformes et conserve intacts les noms, dates, rappels, notes et pièces jointes.
+La sauvegarde cloud reste propre à une plateforme : votre propre iCloud sur iPhone et iPad, ou votre propre Google Drive sur Android. Pour passer de l’une à l’autre, utilisez l’exportation gratuite du coffre. Dans Réglages, Exporter le coffre crée un fichier .tdvault protégé par mot de passe que vous pouvez vous envoyer. Sur le nouveau téléphone, Réglages, Importer une sauvegarde relit ce fichier et remplace les données déjà présentes. L’importation prend en charge les deux plateformes. Vérifiez les documents, notes et pièces jointes importés, revérifiez les rappels et conservez l’export original. Les notifications sont recréées sur l’appareil de destination.
 
 ### Que contient la sauvegarde et que reste-t-il sur l'appareil ?
 
-La sauvegarde contient une copie chiffrée de votre coffre : chaque profil, chaque scan de document, date d'expiration, rappel et note. Votre code de récupération n'y figure pas, et ne quitte jamais votre appareil. Le verrouillage de l'application non plus, donc Face ID, Touch ID ou votre code PIN protège le téléphone pendant que le chiffrement protège le fichier. Les instantanés locaux automatiques restent eux aussi uniquement sur l'appareil, c'est pourquoi ils ne peuvent pas ramener votre coffre sur un téléphone de remplacement.
+La sauvegarde comprend les profils, les scans et pièces jointes lisibles, les dates d’expiration, les notes et l’historique des rappels transférable, chiffrés avant l’envoi. Votre code de récupération n’est pas téléversé avec la sauvegarde. Le verrouillage de l'application non plus, donc Face ID, Touch ID ou votre code PIN protège l’application pendant que le chiffrement protège le fichier. Les instantanés locaux automatiques restent eux aussi uniquement sur l'appareil, c'est pourquoi ils ne peuvent pas ramener votre coffre sur un téléphone de remplacement.
 
 ## Articles connexes
 

@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/sv/faq/
 
 ---
 
-Integritetsfokuserad. Endast på enheten. Inga konton behövs.
+Integritetsfokuserad. På enheten som standard. Inga konton behövs.
 
 # Vanliga frågor
 
@@ -20,11 +20,11 @@ Allt du behöver veta om Travel Document Vault.
 
 Kan utvecklaren se mina dokument?
 
-Nej. Vi har inga servrar och inga konton. Dina dokument sparas som standard på din enhet. Om du väljer att slå på den valfria Pro-molnsäkerhetskopian krypteras ditt valv från början till slut på enheten innan det laddas upp till ditt eget iCloud (iOS) eller ditt eget Google Drive (Android), förseglat med en återställningskod som bara du har. Vi tar aldrig emot dina data och kan inte läsa den krypterade säkerhetskopian. Inte Apple eller Google heller. Arkitekturen byggdes så från början.
+Nej. Det lokala valvet kräver inget Travel Document Vault-konto eller någon server. Dina dokument sparas som standard på din enhet. Om du väljer att slå på den valfria Pro-molnsäkerhetskopian krypteras ditt valv från början till slut på enheten innan det laddas upp till ditt eget iCloud (iOS) eller ditt eget Google Drive (Android), förseglat med en återställningskod som bara du har. Vi tar inte emot din molnsäkerhetskopia och kan inte läsa dess krypterade dokumentinnehåll. Inte Apple eller Google heller.
 
 Vad samlar Sentry-kraschrapportering in och kan jag stänga av det?
 
-Sentry är ett kraschrapporteringsverktyg som hjälper oss hitta och åtgärda buggar. Det är **inaktiverat som standard** och skickar absolut ingenting när det är avstängt. Om du väljer att aktivera det i Inställningar skickar det bara teknisk kraschdiagnostik som din enhetstyp och vad appen höll på med när den kraschade. Det skickar aldrig dina dokument, namn, passnummer eller något från ditt valv.
+Sentry är ett kraschrapporteringsverktyg som hjälper oss hitta och åtgärda buggar. Det är **inaktiverat som standard** och skickar absolut ingenting när det är avstängt. Om du väljer att aktivera det i Inställningar skickar det teknisk kraschdiagnostik där personuppgifter har filtrerats bort. Sessionsåterspelning aktiveras separat. Kraschrapporter filtreras för att minska personuppgifter, och dokumentfiler bifogas inte avsiktligt.
 
 Vad ingår i Pro-uppgraderingen?
 
@@ -40,7 +40,7 @@ Eftersom vi inte lagrar din data kan vi inte återställa den åt dig. Om du åt
 
 Fungerar appen utan internetanslutning?
 
-Ja, helt. Själva appen har ingen server och behöver inte internet för att fungera. Skanning, visning, export och påminnelser fungerar alla offline. Bara två saker kräver uppkoppling: att återställa ditt Pro-köp på en ny enhet via App Store eller Google Play, och den valfria säkerhetskopian till ditt eget moln, som använder ditt eget iCloud- eller Google Drive-konto.
+Ja, helt. Själva appen har ingen server och behöver inte internet för att fungera. Skanning, visning, export och påminnelser fungerar alla offline. Funktioner som kräver uppkoppling omfattar köp och återställning via butiken, uppdateringskontroller och nedladdningar samt valfri molnsäkerhetskopiering (Pro) till ditt eget iCloud- eller Google Drive-konto. Att ändra återställningskoden medan molnsäkerhetskopiering är på kräver också uppkoppling.
 
 Vilka språk stöder appen?
 
@@ -48,11 +48,11 @@ Appen är tillgänglig på över 40 språk, inklusive full höger-till-vänster-
 
 Vad händer om ni slutar utveckla appen?
 
-Dina dokument finns på din enhet, inte på våra servrar, så de försvinner inte om vi slutar släppa uppdateringar. Appen fortsätter att fungera som den gör idag. Du kan också exportera allt när som helst med de inbyggda exportverktygen, så du är aldrig inlåst.
+Dina dokument finns på din enhet, inte på våra servrar, så de försvinner inte om vi slutar släppa uppdateringar. Åtkomst till ditt sparade valv är inte beroende av en Travel Document Vault-server; kompatibilitet med framtida operativsystem kan inte garanteras. Du kan också exportera en krypterad kopia av valvet, inom exportens storleksgränser och med läsbara bilagefiler.
 
 Vem byggde den här appen och varför är den integritetsfokuserad?
 
-Travel Document Vault byggdes av Mustafa Hafeez, en senior mjukvaruutvecklare med många års yrkeserfarenhet av att bygga integritetsrespekterande applikationer, och en förälder som behövde appen till sin egen familj. Integritet är ingen marknadsföringsfras. Appen designades från första dagen så att inga konton behövs, så att inga servrar från Travel Document Vault någonsin är inblandade och så att dina dokument bara går att läsa av dig. Den valfria molnsäkerhetskopian använder ditt eget iCloud eller Google Drive, krypterad från början till slut med en återställningskod som bara du har. Det är ett medvetet tekniskt beslut, inte en policy som kan ändras med ett reglage.
+Travel Document Vault byggdes av Mustafa Hafeez, en senior mjukvaruutvecklare med många års yrkeserfarenhet av att bygga integritetsrespekterande applikationer, och en förälder som behövde appen till sin egen familj. Integritet är ingen marknadsföringsfras. Det lokala valvet kräver inget Travel Document Vault-konto eller någon server. Aktivera applås för att begränsa åtkomsten på en upplåst telefon. Den valfria molnsäkerhetskopian använder ditt eget iCloud eller Google Drive, krypterad från början till slut med en återställningskod som bara du har. Det är ett medvetet tekniskt beslut, inte en policy som kan ändras med ett reglage.
 
 Vill du verifiera dessa påståenden själv? Se vår [sida för integritetsverifiering](https://traveldocumentvault.com/sv/privacy-verification/) för oberoende bevis och en fullständig genomgång av alla appbehörigheter.
 
@@ -60,7 +60,7 @@ Vill du verifiera dessa påståenden själv? Se vår [sida för integritetsverif
 
 Var lagras min data?
 
-All din data lagras **uteslutande på din enhet**. Vi har inga molnservrar, inga användarkonton och inget sätt att komma åt dina dokument. När du sparar ett dokument stannar det i telefonens säkra lagringsutrymme.
+All din data lagras **uteslutande på din enhet**. Vi har inga servrar som lagrar dina dokument och inga Travel Document Vault-användarkonton. När du sparar ett dokument stannar det i telefonens säkra lagringsutrymme.
 
 Säkerhetskopieras min data till molnet?
 
@@ -80,24 +80,24 @@ Vad händer om någon stjäl min telefon? Är mina dokument skyddade?
 
 Ja. Dina dokument är **krypterade på disk** i appens lagringsutrymme. Detta skyddar mot direkt filextraktion (om någon kommer åt enhetens fysiska lagring är råfilerna oläsbara utan dekrypteringsnycklarna).
 
-- **Kryptering på disk:** Varje dokumentbild och PDF scrambles innan den sparas.
+- **Kryptering på disk:** Lagrade originalbilagor i valvet är krypterade; visning, skanning och delning kan skapa tillfälliga läsbara kopior.
 - **App-lås:** Lägg till ett extra skyddslager genom att aktivera PIN, Face ID eller Touch ID i appinställningarna.
 
 **Viktigt:** Maximal säkerhet kräver ett starkt enhetslösenord. Om din enhet är olåst kan krypteringsnycklarna vara åtkomliga för den som håller i telefonen.
 
 Samlar ni in analytik- eller spårningsdata?
 
-**Nej.** Vi använder inga analytik-SDK:er, annonsnätverk eller spårningstjänster. Den enda externa tjänsten vi använder är **Sentry** för kraschrapportering (som kan inaktiveras i inställningarna). Kraschrapporter innehåller bara teknisk information. Aldrig dina dokument eller personuppgifter.
+**Nej.** Vi använder inga analytik-SDK:er, annonsnätverk eller spårningstjänster. Valfri kraschrapportering med **Sentry** är avstängd tills du aktiverar den i inställningarna. Molnsäkerhetskopiering (Pro), köp och uppdateringar använder också externa tjänster. Kraschrapporter innehåller filtrerad teknisk diagnostik. Rapporter filtreras för att minska personuppgifter och dokumentfiler bifogas inte avsiktligt.
 
 Vad händer när jag raderar appen?
 
-All din data **raderas permanent** när du avinstallerar appen. Det går inte att återställa den efteråt eftersom vi inte lagrar något externt. **Innan du raderar:** Exportera dina dokument eller skapa en .tdvault-säkerhetskopia för att spara dem någon annanstans.
+All din data **raderas permanent** när du avinstallerar appen. Det går inte att återställa den efteråt om du inte har gjort en valvexport eller aktiverat molnsäkerhetskopiering, eftersom vi inte lagrar något externt. **Innan du raderar:** Exportera dina dokument eller skapa en .tdvault-säkerhetskopia för att spara dem någon annanstans.
 
 ## Ytterligare säkerhet
 
 Är mina dokumentbilder krypterade?
 
-**Ja.** Alla dokumentbilder och PDF:er krypteras innan de sparas på din enhet. Det innebär att även om någon får tillgång till din telefons filer kan de inte se dina dokument.
+**Ja.** Originalbilderna och PDF-filerna som lagras i ditt valv är krypterade. Visning, skanning och delning kan skapa tillfälliga läsbara kopior. Krypterade lagrade original kan inte läsas utan sina dekrypteringsnycklar.
 
 **För maximal säkerhet:** Vi rekommenderar att du aktiverar App-lås och använder ett starkt enhetslösenord. Se vår [Integritetspolicy](https://traveldocumentvault.com/privacy-policy/) för fullständiga uppgifter.
 
@@ -115,29 +115,29 @@ Om du återställer från en säkerhetskopia fungerar dina dokument automatiskt 
 
 Vad är "Visa för en annan person"?
 
-"Visa för en annan person" är ett skyddat visningsläge för när en gränskontrollant, hotellreceptionist eller flygplanscrew behöver se ett dokument på din skärm. Tryck på ikonen och appen går in i en ren, helskärmsvyn som **blockerar skärmbilder och skärminspelningar.** När de ger din telefon tillbaka, en enda tryckning för dig tillbaka till ditt valv.
+"Visa för en annan person" är ett skyddat visningsläge för när en gränskontrollant, hotellreceptionist eller flygplanscrew behöver se ett dokument på din skärm. Med PIN-lås inställt trycker du på ikonen för att öppna en helskärmsvy med **skydd mot skärmbilder och skärminspelningar aktiverat som standard, beroende på enhetsstöd och dina inställningar.** Stäng den skyddade vyn och lås sedan upp valvet med din PIN eller aktiverad biometri.
 
-Dina dokument lämnar aldrig din enhet. Det här läget ger dig bara ett säkert, kontrollerat sätt att presentera dem för någon annan utan att ge tillgång till ditt hela valv.
+Detta visningsläge laddar inte upp dina dokument. Ställ in PIN-lås först så att valvet låses när du stänger den skyddade vyn. Utan PIN-lås begränsar visaren inte åtkomsten till resten av valvet.
 
 Vad är en återställningskod och varför behöver jag en?
 
 När du ställer in App-lås genererar appen en unik återställningskod som är ditt försäkringsläge om du någonsin glömmer din PIN. Spara den någonstans säkert – din lösenordshanterare, en tryckt anteckning, eller var som helst du litar på.
 
-Om du glömmer din PIN, ange din återställningskod på PIN-skärmen. App-lås är inaktiverat och du återfår **fullständig åtkomst utan att förlora ett enda dokument.**
+Om du glömmer din PIN, ange din återställningskod på PIN-skärmen. Återställningskoden låser upp appen **utan att radera dina dokument; applåset förblir aktiverat.**
 
-Utan en återställningskod är det enda alternativet att ta bort och installera om appen, vilket permanent raderar ditt valv. Spara din kod när du uppmanas. Du får ingen andra chans.
+Om varken din PIN eller aktiverad biometri kan låsa upp appen och du saknar återställningskod kan du behöva radera det lokala valvet och återställa en sparad säkerhetskopia. Spara koden när du uppmanas. Medan du fortfarande kan din PIN kan du generera en ny kod i Inställningar → Säkerhet.
 
 Vad är Auto-Erase?
 
-Auto-Erase raderar ditt valv permanent om för många felaktiga PIN-försök görs. Det är **inaktiverat som standard.** Aktivera det i Inställningar → App-lås om du vill ha maximalt skydd mot en stulen telefon. När för många felaktiga försök görs raderas varje dokument och kan inte återställas.
+Automatisk radering är avsedd att radera telefonens valv efter upprepade felaktiga PIN-försök. Förlita dig inte på den som ett garanterat skydd. Den är **aktiverad som standard när du har ställt in en PIN.** Stäng av den i Inställningar → Säkerhet om du hellre vill behålla dina data efter misslyckade försök. En slutförd lokal radering tar bort telefonens valv; återställning kräver en oberoende användbar säkerhetskopia.
 
-**Viktigt:** Aktivera endast Auto-Erase efter att ha skapat en valvexportöversikt. På det sättet, om det någonsin aktiveras av misstag, kan du återställa från din säkerhetskopia. Att använda det tillsammans med en återställningskod ger dig både maximal säkerhet och en tydlig väg tillbaka in.
+**Viktigt:** Skapa en valvexport innan du förlitar dig på Automatisk radering. På det sättet, om det någonsin aktiveras av misstag, kan du återställa från din säkerhetskopia. Ha en oberoende säkerhetskopia och dess lösenord eller återställningskod innan du förlitar dig på Automatisk radering.
 
 ## Funktioner
 
 Vilka dokumenttyper kan jag lagra?
 
-Appen stöder **Pass**, **Nationella ID-handlingar** (fram och bak), **Visum/uppehållstillstånd**, **Flygbiljetter**, **Voucher och inträdesbiljetter** (presentkort, kampanjkoder, evenemangsbiljetter, med påminnelser om utgångsdatum så de inte går till spillo), **Övriga dokument** (reseförsäkring, sjukförsäkring, vaccinationsintyg, medlemskap, recept, allt med ett utgångsdatum), och **Anteckningar** (textbaserade för deadlines och påminnelser). Du kan ta dokument med kameran, importera från fotobiblioteket eller importera PDF-filer. Pro-användare kan ta flersidiga dokument för Flygbiljetter, Voucher och Övriga dokument.
+Appen stöder **Pass**, **Nationella ID-handlingar** (fram och bak), **Visum/uppehållstillstånd**, **Flygbiljetter**, **Voucher och inträdesbiljetter** (presentkort, kampanjkoder, evenemangsbiljetter, med påminnelser om utgångsdatum så de inte går till spillo), **Övriga dokument** (reseförsäkring, sjukförsäkring, vaccinationsintyg, medlemskap, recept, allt med ett utgångsdatum), och **Anteckningar** (text med valfria bildbilagor och påminnelser). Du kan ta dokument med kameran, importera från fotobiblioteket eller importera PDF-filer. Pro-användare kan ta flersidiga dokument för Flygbiljetter, Voucher och Övriga dokument.
 
 Hur fungerar påminnelser om utgångsdatum?
 
@@ -145,11 +145,11 @@ Påminnelser startar automatiskt, tidsanpassade för dokumenttypen. Ett pass bö
 
 Vad är OCR och hur fungerar det?
 
-OCR (optisk teckenigenkänning) detekterar automatiskt utgångsdatum från dina dokument. Rikta kameran mot ett dokument och appen försöker läsa utgångsdatumet. All bearbetning sker på din telefon, inget laddas upp. Detekterade datum märks "Detekterat: vänligen verifiera" och kräver din bekräftelse innan de sparas.
+OCR (optisk teckenigenkänning) detekterar automatiskt utgångsdatum från dina dokument. Rikta kameran mot ett dokument och appen försöker läsa utgångsdatumet. All bearbetning sker på din telefon, inget laddas upp. Markera kryssrutan "Jag bekräftar att detta datum är korrekt" för att godkänna det detekterade datumet, eller ändra datumet manuellt innan du sparar.
 
 Kan jag exportera mina dokument?
 
-Ja. Gratisanvändare kan dela enskilda dokument. Pro-användare får kraftfulla batchverktyg: välj specifika dokument (eller allas profiler) och generera en **enda kombinerad PDF** optimerad för utskrift. Du kan till och med ange anpassade filnamn för dina exporter för att hålla dina digitala uppgifter organiserade.
+Ja. Gratisanvändare kan dela enskilda dokument. Pro ger kombinerad PDF-export: välj specifika dokument (eller allas profiler) och generera en **enda kombinerad PDF** för utskrift. Du kan ange egna filnamn för att hålla dina exporter organiserade.
 
 Hur säkerhetskopieras min data?
 
@@ -161,13 +161,13 @@ Appen använder **profiler** för att organisera dokument per familjemedlem, men
 
 Fungerar appen offline?
 
-**Ja.** Appen fungerar helt offline. Du kan lägga till dokument, se dem och ta emot påminnelser utan internetanslutning. Perfekt för resor.
+**Ja.** Du kan lägga till dokument, visa sparade kopior och få påminnelser om utgångsdatum offline. Molnsäkerhetskopiering, köp och uppdateringar kräver uppkoppling.
 
 Hur aktiverar jag App-lås med PIN eller Face ID/Touch ID?
 
-För att aktivera App-lås, gå till **Inställningar → App-lås** i appen:
+För att aktivera App-lås, gå till **Inställningar → Säkerhet** i appen:
 
-- **PIN-lås (gratis):** Ange en 4-siffrig PIN-kod. Appen kräver denna PIN varje gång du öppnar den.
+- **PIN-lås (gratis):** Ange en 6-siffrig PIN-kod. Applåset ber dig autentisera när det behövs; aktiverad biometri kan ersätta PIN-inmatning och korta appbyten har en frist på fem sekunder.
 - **Biometriskt lås:** Aktivera Face ID (iPhone med Face ID), Touch ID (iPhone med fingeravtryck) eller fingeravtrycksupplåsning (Android). Gratis för alla användare, för säkerhet bör inte vara bakom en betalvägg.
 
 **Bästa praxis:** Aktivera App-lås + ställ in enheten att låsa sig automatiskt efter 30 sekunder. Detta skapar flera skyddslager: enhetslås, sedan app-lås, sedan krypterade filer.
@@ -181,31 +181,31 @@ För att aktivera App-lås, gå till **Inställningar → App-lås** i appen:
 
 Skapar appen automatiska säkerhetskopior?
 
-**Ja, appen skapar automatiska lokala säkerhetskopior med några minuters mellanrum** (när appen är öppen och ändringar görs). Dessa säkerhetskopior lagras på din enhet och ingår i din iCloud (iOS) eller Google (Android) enhetssäkerhetskopia om du har dessa tjänster aktiverade.
+**Ja, appen skapar automatiska lokala säkerhetskopior med några minuters mellanrum** (när appen är öppen och ändringar görs). Dessa säkerhetskopior lagras på din enhet. En enhetssäkerhetskopia (iCloud eller Google) kan inte återställa dina dokument från dem, eftersom systemsäkerhetskopior inte överför den enhetsbundna krypteringsnyckeln.
 
 **Så här fungerar det:**
 
-- Appen behåller **10 rullande säkerhetskopior** på din enhet. När en 11:e säkerhetskopia skapas raderas den äldsta automatiskt.
-- Säkerhetskopior är **krypterade** med samma skydd som dina dokument.
-- Om appen kraschar eller du råkar radera ett dokument kan du återställa från den senaste säkerhetskopian via **Inställningar → Importera valv**.
+- Appen behåller **några rullande säkerhetskopior** på din enhet. Äldre säkerhetskopior byts ut när den lokala lagringsgränsen nås.
+- Säkerhetskopior stannar i **appens privata lagringsutrymme** på din enhet.
+- En giltig lokal säkerhetskopia kan återställa tidigare valvposter via **Inställningar → Återställ lokal säkerhetskopia**, men kan inte återskapa permanent raderade bilagefiler. Använd Nyligen raderad för vanliga raderingar.
 
 **Vault Export:** Du kan exportera en krypterad .tdvault-fil och spara den i Filer, iCloud Drive eller dela den via AirDrop/e-post för lagring utanför enheten. Detta rekommenderas innan stora uppdateringar eller enhetsbyten.
 
 Vad betyder "Senaste säkerhetskopia: för 2 timmar sedan, 12 dokument" i Inställningar?
 
-Den raden visar appens senaste automatiska lokala säkerhetskopia: hur länge sedan den sparades och hur många dokument den innehåller. Det ger dig trygghet att det finns en återställningsbar kopia på din enhet. Tryck på Återställ lokal säkerhetskopia för att rulla tillbaka till den.
+Den raden visar appens senaste automatiska lokala säkerhetskopia: hur länge sedan den sparades och hur många dokument den innehåller. Den visar den senaste lokala ögonblicksbilden. Tryck på Återställ lokal säkerhetskopia för att återställa dess sparade poster. Lokala ögonblicksbilder innehåller inte oberoende kopior av bilagefiler.
 
 Hur återställer jag mitt valv från en lokal säkerhetskopia?
 
-Gå till Inställningar och tryck på Återställ lokal säkerhetskopia. Appen visar en lista med tillgängliga säkerhetskopior med tidsstämplar. Välj den du vill ha och bekräfta. För att återställa från en .tdvault-fil som du exporterat trycker du istället på Importera valv och väljer filen. Båda alternativen är gratis för alla. Återställning ersätter din aktuella data med innehållet i säkerhetskopian.
+Gå till Inställningar och tryck på Återställ lokal säkerhetskopia. Appen visar en lista med tillgängliga säkerhetskopior med tidsstämplar. Välj den du vill ha och bekräfta. För att återställa från en .tdvault-fil som du exporterat trycker du istället på Importera säkerhetskopia och väljer filen. Båda alternativen är gratis för alla. Återställning ersätter din aktuella data med innehållet i säkerhetskopian.
 
 Appen visar en återställningsskärm eller meddelar att mina data inte kunde laddas. Vad gör jag?
 
-Appen raderar aldrig din data tyst. Om den inte kan läsa det lokala lagret visas en återställningsskärm istället för att ta bort något. Tryck på Återställ lokal säkerhetskopia för att återhämta dig från den senaste automatiska säkerhetskopian, eller tryck på Importera valv för att återställa från en .tdvault-fil som du tidigare exporterat. Säkerhetskopior skapade innan en nylig appuppdatering kan också återställas. Dina dokument är återställningsbara och ingenting har raderats.
+Om appen inte kan läsa det lokala lagret visar den en återställningsskärm och behåller de oläsbara data. Tryck på Återställ för att återställa från en av dina automatiska lokala säkerhetskopior, eller gå till Inställningar och tryck på Importera säkerhetskopia för att återställa från en .tdvault-fil som du tidigare exporterat. Säkerhetskopior skapade före en nylig appuppdatering kan också återställas. Dina tidigare data behålls, inte raderas.
 
 Varför skapade appen en säkerhetskopia innan uppdateringen?
 
-Inför en större uppgradering av dataformatet tar appen automatiskt en ögonblicksbild av ditt valv så att den kan rulla tillbaka om något går fel. Processen är automatisk och gratis för alla.
+Inför en större uppgradering av dataformatet tar appen automatiskt en ögonblicksbild av ditt valv. Om en giltig, läsbar ögonblicksbild från före uppgraderingen finns tillgänglig kan du försöka återställa den från Inställningar. Processen är automatisk och gratis för alla.
 
 Kan jag anpassa påminnelsetimingen?
 
@@ -217,7 +217,7 @@ För att anpassa påminnelser, tryck på ett dokument → Redigera → Påminnel
 
 Hur väljer jag flera dokument?
 
-Pro-användare kan trycka på **"Markera"** längst upp till höger i dokumentlistan för att gå in i markeringsläget. Tryck på dokument för att markera eller avmarkera dem, använd sedan knappen **Åtgärder** för att exportera en kombinerad PDF, dela originalfiler eller radera de valda dokumenten. Du kan också **hålla in** på ett dokumentkort för en snabb snabbmeny med samma alternativ för det enskilda dokumentet.
+Öppna dokumentlistans meny och tryck på **"Välj dokument"** för att gå in i markeringsläget. Tryck på dokument för att markera eller avmarkera dem. Använd sedan reglagen **Radera, Dela eller PDF** längst ned för att radera de valda dokumenten, dela originalfiler eller exportera en kombinerad PDF (Pro). Du kan också **hålla in** på ett dokumentkort för en snabb snabbmeny med samma alternativ för det enskilda dokumentet.
 
 Kan jag ångra en massborttagning?
 
@@ -229,11 +229,11 @@ Håll in (tryck och håll) på ett dokumentkort i listan för att öppna en snab
 
 Kan jag lagra medicinska dokument eller recept?
 
-Ja. Du kan lagra sjukförsäkringskort, återkommande recept, vaccinationsintyg och alla andra hälsorelaterade dokument. Använd typen **Anteckning** eller **Dokument**, lägg till ett utgångsdatum och appen skickar påminnelser innan förnyelsen är dags, på samma sätt som för pass och visum. Allt stannar på din enhet, krypterat och laddas aldrig upp någonstans.
+Ja. Du kan lagra sjukförsäkringskort, återkommande recept, vaccinationsintyg och alla andra hälsorelaterade dokument. Välj **Anteckning** eller **Övriga** och spara ett utgångsdatum. Påminnelser är aktiverade som standard, med tider som beror på dokumenttypen. Allt stannar på din enhet, krypterat och laddas aldrig upp någonstans.
 
 Kan jag skjuta upp en påminnelse?
 
-Ja. När en påminnelse aktiveras, tryck **Skjut upp** direkt från meddelandet. Välj 1 timme, senare idag, imorgon eller nästa vecka. Appen omplanerar det automatiskt. Du kan också skjuta upp från inuti appen på dokumentdetaljskärmen. Påminnelsen kommer tillbaka vid exakt den tid du valde. Inget behov av att manuellt kontrollera.
+Ja. När en påminnelse aktiveras, skjut upp den **direkt från meddelandet**. Välj 1 timme, 3 timmar, imorgon eller nästa vecka. Appen schemalägger den automatiskt på nytt. Du kan också skjuta upp påminnelser i appen på fliken Påminnelser. Appen schemalägger den uppskjutna påminnelsen till den tid du väljer.
 
 Kan jag färgkoda mina dokument?
 
@@ -251,31 +251,31 @@ När blir Android-versionen tillgänglig?
 
 **Android-versionen kommer i början av 2026.** Vi befinner oss för närvarande i sluten testning för att säkerställa att samma integritetsfokuserade, enhetsinterna lagringsupplevelse fungerar perfekt på Android-enheter.
 
-Android-versionen kommer att ha funktionsparitet med iOS, inklusive krypterad lagring på enheten, OCR-skanning, påminnelser om utgångsdatum och alla Pro-funktioner (obegränsat antal profiler, batchexport av dokument och anpassad påminnelsetiming).
+Android stöder krypterad lagring på enheten, OCR-skanning och påminnelser om utgångsdatum. Med Pro kan du använda obegränsat antal profiler, PDF-export i grupp och anpassade påminnelsetider.
 
 Kan jag överföra min data från iPhone till Android (eller tvärtom)?
 
-**Ja, med krypterad Vault Export.** Exportera en krypterad .tdvault-fil från din nuvarande enhet (Inställningar → Exportera valv), överför den till din nya enhet (via e-post, molnlagring eller direkt överföring), använd sedan Inställningar → Importera valv för att återställa dina dokument.
+**Ja, med krypterad Vault Export.** Exportera en krypterad .tdvault-fil från din nuvarande enhet (Inställningar → Exportera valv), överför den till din nya enhet (via e-post, molnlagring eller direkt överföring), använd sedan Inställningar → Importera säkerhetskopia för att återställa dina dokument, vilket ersätter allt som redan finns på den nya enheten.
 
-Detta fungerar plattformsoberoende eftersom krypteringsformatet är universellt. Du behöver samma lösenord som du använde när du exporterade valvet. Ditt Pro-köp behöver också återställas på den nya enheten (se "Kan jag återställa mitt köp på en ny enhet?" nedan).
+Detta fungerar plattformsoberoende eftersom krypteringsformatet är universellt. Du behöver samma lösenord som du använde när du exporterade valvet. Pro-köp återställs inom samma plattform och butikskonto; byte mellan iOS och Android kräver ett separat Pro-köp (se "Kan jag återställa mitt köp på en ny enhet?" nedan).
 
 Hur mycket lagringsutrymme använder appen?
 
-Appen i sig är liten (~15 MB nedladdning). **Lagringsutnyttjandet beror helt på hur många dokument du lagrar och deras fotokvalitet.** Ett typiskt passfoto (hög kvalitet) är 2–4 MB. Med 20 dokument kan du förvänta dig ungefär 40–80 MB lagring.
+**Lagringsutrymmet beror på antalet dokument och filstorlekarna**, samt valvmetadata, säkerhetskopior och tillfälliga filer.
 
-Appen inkluderar 10 automatiska säkerhetskopior, som är komprimerade kopior av dina dokument och lägger till minimalt extra utrymme (~10–20 % mer). Det finns ingen hård gräns för antalet dokument (Pro-användare får obegränsat), men praktiska gränser beror på enhetens tillgängliga lagring.
+Appen innehåller några automatiska säkerhetskopior av dina valvdata. Gratisanvändare kan lägga till upp till fem dokument. Med Pro finns ingen gräns för antalet dokument, inom enhetens tillgängliga lagringsutrymme.
 
 Varför behöver appen tillgång till kameran och fotobiblioteket?
 
 **Kamera:** För att ta foton av dina dokument direkt i appen. **Fotobibliotek:** För att importera befintliga dokumentfoton som du redan tagit.
 
-Vi **laddar aldrig upp** dina foton någonstans. All bearbetning (inklusive OCR-skanning) sker på din enhet. Du kan neka dessa behörigheter, men du kan inte lägga till dokument (appens primära funktion). Om du av misstag nekade behörigheter kan du återaktivera dem i enhetens Inställningar → Integritet → Kamera / Foton → Travel Document Vault.
+Vi **laddar aldrig upp** dina foton någonstans. All bearbetning (inklusive OCR-skanning) sker på din enhet. Du kan fortfarande lägga till dokumentuppgifter manuellt eller importera en PDF om du nekar kamera- och fotobehörigheter. Om du av misstag nekade behörigheter kan du återaktivera dem i enhetens Inställningar → Integritet → Kamera / Foton → Travel Document Vault.
 
 ## Priser och köp
 
 Vad är skillnaden mellan Gratis och Pro?
 
-**Gratis** inkluderar 1 profil och upp till 5 dokument med full funktionalitet, inklusive OCR-skanning, påminnelser om utgångsdatum, dokumentdelning, PIN-lås och biometriskt lås (Face ID / Touch ID). **Pro** (engångsköp*) låser upp obegränsat antal profiler, obegränsat antal dokument, kombinerad PDF-export, batchexport (.tdvault), anpassad påminnelsetiming och flersidigt foto för Flygbiljetter och Övriga dokument.
+**Gratis** inkluderar 1 profil och upp till 5 dokument med grundläggande verktyg, inklusive OCR-skanning, påminnelser om utgångsdatum, dokumentdelning, PIN-lås och biometriskt lås (Face ID / Touch ID). **Pro** (engångsköp*) låser upp obegränsat antal profiler, obegränsat antal dokument, kombinerad PDF-export, krypterad molnsäkerhetskopiering, anpassad påminnelsetiming och flersidigt foto för Flygbiljetter och Övriga dokument.
 
 * Se [Prispolicy](https://traveldocumentvault.com/pricing-policy/#version-policy) för versionsinformation.
 
@@ -287,7 +287,7 @@ Vad är skillnaden mellan Gratis och Pro?
 
 Kan jag återställa mitt köp på en ny enhet?
 
-**Ja.** Gå till Inställningar i appen och tryck på "Återställ köp". Så länge du är inloggad med samma Apple ID eller Google-konto återställs ditt Pro-köp. Obs: dina dokument överförs inte. Bara Pro-upplåsningen.
+**Ja.** Gå till Inställningar i appen och tryck på "Återställ köp". Använd på samma plattform det butikskonto som köpte Pro; återställning kräver uppkoppling och en giltig köprättighet från butiken. Obs: dina dokument överförs inte. Bara Pro-upplåsningen.
 
 Får jag framtida uppdateringar om jag köper Pro?
 
@@ -319,7 +319,7 @@ OCR fungerar bäst med bra belysning och ett platt dokument. Försök justera vi
 
 Varför är min dokumentbild suddig eller av låg kvalitet?
 
-Dokumentkvaliteten beror helt på din kamera och ljusförhållandena. Vi modifierar, förbättrar eller förstärker inte bilder. Det du fångar är det du får. För bästa resultat: använd bra belysning (naturligt ljus fungerar bra), håll telefonen stilla, se till att dokumentet är plant och helt synligt i bildrutan och rengör kameralinsen. Detsamma gäller exporterade PDF:er. Utskriftskvaliteten återspeglar din ursprungliga upptagningskvalitet.
+Dokumentkvaliteten beror på källbilden, belysningen och appens beskärning, storleksanpassning och komprimering. Sparade foton kan beskäras, ändra storlek och komprimeras; OCR kan förbättra en tillfällig kopia för textigenkänning. För bästa resultat: använd bra belysning (naturligt ljus fungerar bra), håll telefonen stilla, se till att dokumentet är plant och helt synligt i bildrutan och rengör kameralinsen. Detsamma gäller exporterade PDF:er. Utskriftskvaliteten återspeglar din ursprungliga upptagningskvalitet.
 
 Appen kraschade. Förlorade jag min data?
 
@@ -345,7 +345,7 @@ Din PIN är ett dagligt lås. Face ID är en snabb genväg för att låsa upp.
 
 Hur exporterar och importerar jag mitt valv?
 
-Alla användare kan exportera hela sitt valv som en krypterad, lösenordsskyddad säkerhetskopieringsfil (.tdvault) via Inställningar. Spara den i Filer, mejla den till dig själv eller förvara den på ett USB-minne. Importera den på valfri enhet via Inställningar → Importera valv. Hela round-trip bevarar allt exakt. (Kombinerad PDF-export av flera dokument samtidigt är en separat Pro-funktion.) Se exportera/importera-guiden för stegvisa instruktioner med skärmdumpar.
+Alla användare kan exportera valvposter som stöds och tillgängliga bilagor som en krypterad, lösenordsskyddad säkerhetskopieringsfil (.tdvault) via Inställningar, inom storleksgränsen. Spara den i Filer, mejla den till dig själv eller förvara den på ett USB-minne. Importera den i en kompatibel installation av appen via Inställningar → Importera säkerhetskopia. Export och import överför valvposter som stöds och tillgängliga bilagor; säkerhetsinställningar på enheten, preferenser och vissa interna tillstånd kopieras inte exakt. (Kombinerad PDF-export av flera dokument samtidigt är en separat Pro-funktion.) Se exportera/importera-guiden för stegvisa instruktioner med skärmdumpar.
 
 [Läs hela guiden →](https://traveldocumentvault.com/sv/faq/export-import/)
 
@@ -355,7 +355,7 @@ Ställ dig en fråga: är du gäst i det här landet, eller är det ditt hem? G�
 
 Vad är familjeprofiler?
 
-Varje familjemedlem har en separat profil med sina egna dokument, foton och påminnelser.
+Med Pro hjälper profiler dig att organisera varje familjemedlems dokument, foton och påminnelser i samma valv.
 
 Vad händer när jag tar bort något?
 
@@ -379,15 +379,15 @@ Radering flyttar det till Nyligen raderade (papperskorgen). Det ligger kvar där
 
 Vad händer om jag raderar alla mina dokument?
 
-Appen synkroniserar inte ett tomt valv till molnet. Din befintliga säkerhetskopia bevaras. Du kan återställa från den via Inställningar, Molnsäkerhetskopiering, Återställ från säkerhetskopia.
+Appen blockerar vissa uppladdningar av tomma valv för att skydda befintliga säkerhetskopior; raderade poster och andra valvdata kan fortfarande synkroniseras. Återställning beror på en användbar sparad säkerhetskopia. Du kan återställa från den via Inställningar, Molnsäkerhetskopia, Återställ från säkerhetskopia.
 
 Hur ställer jag in molnsäkerhetskopiering på en andra enhet?
 
-När du slår på molnsäkerhetskopiering på en ny enhet som är inloggad på samma iCloud- eller Google-konto upptäcker appen din befintliga säkerhetskopia och frågar om den ska återställas eller om du vill börja om. Välj Återställ från säkerhetskopia och ange din återställningskod. Båda enheterna delar sedan samma säkerhetskopia. Att börja om ersätter den befintliga säkerhetskopian – välj bara det om du är säker.
+När du slår på molnsäkerhetskopiering på en ny enhet som är inloggad på samma iCloud- eller Google-konto upptäcker appen din befintliga säkerhetskopia och frågar om du vill återställa den eller starta en ny säkerhetskopia. Välj din säkerhetskopia, tryck på Återställ och ange din återställningskod. Båda enheterna delar sedan samma säkerhetskopia. Att starta en ny säkerhetskopia lämnar i stället den befintliga orörd.
 
 Kan jag använda molnsäkerhetskopiering på flera enheter samtidigt?
 
-Molnsäkerhetskopiering är tänkt som säkerhetskopiering från en enhet med återställning på flera. En enhet är den primära källan. För att byta till en ny enhet återställer du från din säkerhetskopia där. Att redigera samtidigt på två enheter som synkroniserar mot samma säkerhetskopia stöds inte – den enhet som synkroniserar sist vinner.
+Ja, med Synkronisera mellan enheter aktiverat i Inställningar → Molnsäkerhetskopia. Enheter på samma plattform söker efter ändringar medan appen är öppen och ansluten. Vissa ändringar slås ihop automatiskt; vissa konflikter låter dig välja version, men anteckningstext visas inte i jämförelsen. För att byta till en ny enhet återställer du från säkerhetskopian där.
 
 Vad händer om jag slår på molnsäkerhetskopiering utan uppkoppling?
 
@@ -395,7 +395,7 @@ Du behöver en internetanslutning för att slå på molnsäkerhetskopiering. Und
 
 Är min säkerhetskopia skyddad om jag råkar radera något?
 
-Ja, flera lager skyddar dig. Raderade dokument ligger kvar i Nyligen raderade på obestämd tid (ingen automatisk rensning med molnsäkerhetskopiering på). Permanent radering kräver en egen bekräftelse som varnar för effekten i molnet. Även efter permanent radering behåller säkerhetskopian dokumentets data i ytterligare några synkroniseringscykler som skyddsnät. Och ett tomt valv synkroniseras aldrig till molnet, så en massradering av misstag kan inte tömma din säkerhetskopia.
+Ja, flera lager skyddar dig. Raderade dokument ligger kvar i Nyligen raderade på obestämd tid (ingen automatisk rensning med molnsäkerhetskopiering på). Permanent radering kräver en egen bekräftelse som varnar för effekten i molnet. Tidigare säkerhetskopieversioner kan behålla dokumentet tills historikens lagringstid eller rensning tar bort det. Skydd mot tomma uppladdningar och sparade säkerhetskopieversioner kan hjälpa efter oavsiktlig radering; behåll också en oberoende export.
 
 Bör jag behålla egna kopior också?
 
@@ -403,7 +403,7 @@ Ja. Molnsäkerhetskopiering är ett skyddslager, men inget system är perfekt. M
 
 Vad händer om jag förlorar min återställningskod?
 
-Din återställningskod är den enda nyckeln som kan dekryptera din molnsäkerhetskopia. Vi har en nollkunskapsdesign, vilket innebär att vi inte kan återställa, hämta eller återskapa den åt dig. Det kan inte Apple eller Google heller. Om du förlorar din återställningskod blir din krypterade säkerhetskopia permanent oåterkallelig. Lägg undan din återställningskod på ett säkert ställe innan du börjar förlita dig på molnsäkerhetskopiering: en lösenordshanterare, en utskrift på en säker plats, eller båda. Kontrollera att du verkligen kan läsa den innan du sparar den som enda kopia.
+Din återställningskod låser upp molnsäkerhetskopians krypteringsnyckel; konfigurerade enheter behåller den för automatisk säkerhetskopiering. Vi har en nollkunskapsdesign, vilket innebär att vi inte kan återställa, hämta eller återskapa den åt dig. Det kan inte Apple eller Google heller. Om du förlorar återställningskoden och tillgången till alla konfigurerade enheter som behåller den blir din krypterade molnsäkerhetskopia omöjlig att återställa. Lägg undan din återställningskod på ett säkert ställe innan du börjar förlita dig på molnsäkerhetskopiering: en lösenordshanterare, en utskrift på en säker plats, eller båda. Kontrollera att du verkligen kan läsa den innan du sparar den som enda kopia.
 
 [För en fullständig jämförelse, se varför familjer väljer Travel Document Vault →](https://traveldocumentvault.com/sv/why-us/)
 

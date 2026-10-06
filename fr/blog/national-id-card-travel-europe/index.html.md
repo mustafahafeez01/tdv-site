@@ -67,7 +67,7 @@ Le vrai défi dans la gestion des documents de voyage, c'est que votre carte d'i
 
 Ce qui complique les choses, c'est qu'**aucun des deux documents ne vous envoie de rappel.** Vous êtes censé les vérifier vous-même. La plupart des gens ne le font pas, jusqu'à ce qu'un agent leur dise au comptoir d'enregistrement que l'un des deux est trop proche de l'expiration pour être accepté.
 
-Ce qui aide, c'est d'avoir un seul endroit pour les deux documents, un outil qui retient chaque date d'expiration dès que vous scannez le document et vous alerte séparément pour chacun, selon le calendrier propre à ce type de pièce d'identité. Consultez notre guide sur [la constitution d'une vérification complète des documents avant le départ](https://traveldocumentvault.com/fr/blog/travel-document-checklist/) pour une vue d'ensemble de ce qu'il faut contrôler avant de voyager.
+Ce qui aide, c'est d'avoir un seul endroit pour les deux documents, un outil qui conserve chaque date d’expiration et vous alerte séparément pour chacun, selon le calendrier propre à ce type de pièce d'identité. Consultez notre guide sur [la constitution d'une vérification complète des documents avant le départ](https://traveldocumentvault.com/fr/blog/travel-document-checklist/) pour une vue d'ensemble de ce qu'il faut contrôler avant de voyager.
 
 Commencez dès aujourd'hui : sortez votre carte d'identité, vérifiez la date d'expiration et examinez-la à la recherche de fissures, de décoloration ou de plastique déformé. Si elle est limite, réservez le renouvellement avant de réserver le voyage.
 

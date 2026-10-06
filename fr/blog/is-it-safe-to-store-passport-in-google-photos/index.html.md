@@ -72,7 +72,7 @@ Disons que votre mot de passe Google a été réutilisé sur un site qui a subi 
 | Google Photos | Serveurs cloud Google | En transit + au repos (clés gérées par Google) | Modéré | Acceptable avec authentification 2FA forte |
 | iCloud Photos | Serveurs cloud Apple | En transit + au repos (clés gérées par Apple) | Modéré | Acceptable avec authentification 2FA forte |
 | Gestionnaire de mots de passe chiffré (1Password, Bitwarden) | Cloud (sans connaissance) | Bout à bout; le fournisseur ne peut pas lire le contenu | Faible | Bon choix |
-| Application chiffrée sur l'appareil (sauvegarde cloud optionnelle) | Votre téléphone uniquement | Chiffré sur l'appareil; pas de copie serveur | Le plus faible | Meilleur pour les documents sensibles |
+| Application chiffrée sur l'appareil (sauvegarde cloud optionnelle) | Votre téléphone ; sauvegarde chiffrée facultative sur votre propre cloud (Pro) | Chiffré sur l’appareil ; copie chiffrée facultative sur votre propre cloud (Pro) | Le plus faible | Meilleur pour les documents sensibles |
 | Galerie / dossier non chiffré | Votre appareil | Chiffrement d'appareil uniquement | Plus élevé | Non recommandé |
 
 ### iCloud Photos vs Google Photos : Apple est-il plus sûr ?
@@ -85,7 +85,7 @@ Le même risque de compromission de compte s'applique aux deux plateformes. Un m
 
 Si vous êtes un utilisateur iPhone, activer **Advanced Data Protection dans iCloud** vaut le coup. Une application chiffrée construite à cet effet sans téléchargement vers le cloud reste l'option la plus forte pour le stockage de passeport indépendamment de la plateforme sur laquelle vous vous trouvez.
 
-**Travel Document Vault** stocke vos scans de passeport sur l'appareil avec un chiffrement fort. Aucun compte requis. Sauvegarde chiffrée optionnelle vers votre propre iCloud ou Google Drive (Pro), scellée avec un code de récupération que seul vous connaissez. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** stocke vos scans de passeport sur l'appareil avec un chiffrement fort. Aucun compte requis. Avec Pro, vous pouvez sauvegarder une copie chiffrée sur votre propre iCloud ou Google Drive. Conservez votre code de récupération en lieu sûr : il vous sera nécessaire pour restaurer cette sauvegarde. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Quelles sont les alternatives plus sûres
 
@@ -99,7 +99,7 @@ Deux choses méritent d'être distinguées d'emblée : garder une copie pour vot
 
 **Applications chiffrées sur l'appareil**
 
-Les applications construites spécifiquement pour cela — comme [Travel Document Vault](https://traveldocumentvault.com) — gardent tout sur votre téléphone avec un chiffrement fort et aucun compte requis. Vous bénéficiez d'une sauvegarde chiffrée optionnelle vers votre propre iCloud ou Google Drive (Pro), et il n'y a pas de serveur à violer car votre copie numérique de passeport ne quitte jamais l'appareil. Le seul compromis est que si vous perdez votre téléphone sans sauvegarde, la copie numérique part avec lui, bien que votre passeport physique soit toujours avec vous.
+Les applications construites spécifiquement pour cela — comme [Travel Document Vault](https://traveldocumentvault.com) — stockent les documents chiffrés sur votre téléphone sans compte dans l’application. Vous pouvez partager ou exporter des copies, ou utiliser Pro pour sauvegarder une copie chiffrée sur votre propre iCloud ou Google Drive. L’application ne téléverse pas vos documents sur nos serveurs. Le seul compromis est que si vous perdez votre téléphone sans sauvegarde, la copie numérique part avec lui, bien que votre passeport physique soit toujours avec vous.
 
 **Stockage cloud chiffré avec clés côté client**
 
@@ -133,7 +133,7 @@ Oui. Les systèmes automatisés traitent vos photos pour des choses comme la rec
 
 ### Quel est le moyen le plus sûr de stocker une copie numérique d'un passeport ?
 
-Le stockage chiffré sur l'appareil est votre meilleur pari — des applications qui gardent vos scans sur votre téléphone avec un chiffrement fort et zéro téléchargement vers le cloud. Aucun serveur tiers ne touche jamais vos données de passeport. Si vous voulez aussi un accès au cloud, un gestionnaire de mots de passe chiffré sans connaissance comme 1Password ou Bitwarden est une excellente alternative.
+Le stockage chiffré sur l'appareil est votre meilleur pari — des applications qui gardent vos scans sur votre téléphone avec un chiffrement fort par défaut. Des copies peuvent quitter l’appareil par le partage, l’exportation ou la sauvegarde chiffrée facultative sur votre propre iCloud ou Google Drive (Pro). Si vous voulez aussi un accès au cloud, un gestionnaire de mots de passe chiffré sans connaissance comme 1Password ou Bitwarden est une excellente alternative.
 
 ### Quelqu'un peut-il voler mon identité à partir d'un scan de passeport ?
 

@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/pt/why-us/
 
 ---
 
-Privado em primeiro lugar. Apenas no dispositivo. Sem contas necessárias.
+Privado em primeiro lugar. No dispositivo por predefinição. Sem contas necessárias.
 
 # Sempre Prontos
 Quando Necessita
@@ -85,7 +85,7 @@ Todas são escolhas razoáveis. Cada uma funciona, até certo ponto.
 
 **Funciona:** Alta segurança e acesso offline.
 
-**Falha:** Tratam um passaporte como um talão de compras e carecem de lógica específica para viagens. Construímos isto especificamente para viajantes, oferecendo um generoso plano gratuito de 5 documentos e um preço único e direto sem subscrições recorrentes.
+**Falha:** Tratam um passaporte como um talão de compras e carecem de lógica específica para viagens. O Travel Document Vault inclui um perfil e até 5 documentos gratuitamente. Pro é uma compra única, sem subscrição.
 
 ### Rolo de Câmara / Fotos
 
@@ -119,20 +119,20 @@ Todas são escolhas razoáveis. Cada uma funciona, até certo ponto.
 
 ## Como Se Compara
 
-Cada alternativa faz uma ou duas coisas bem. Só uma faz todas.
+O Travel Document Vault guarda documentos, acompanha as datas de validade e, com Pro, acrescenta perfis de família e planeamento de viagens.
 
 | Funcionalidade | Travel Document Vault | App de wallet | Fototeca / nuvem | Gestor de palavras-passe |
 |---|---|---|---|---|
-| Lembretes de expiração | ✓6 meses antes | ✗ | ✗ | ✗ |
+| Lembretes de expiração | ✓8 meses antes para passaportes | ✗ | ✗ | ✗ |
 | Perfis de família | ✓Ilimitados (Pro) | ✗ | ✗ | ~Apenas cofres partilhados |
-| Sem sincronização na nuvem | ✓Apenas no dispositivo | ✗Sincroniza com a nuvem | ✗Nuvem em primeiro | ✗Nuvem em primeiro |
+| No dispositivo por predefinição | ✓Cópia de segurança opcional (Pro) | ✗Sincroniza com a nuvem | ✗Nuvem em primeiro | ✗Nuvem em primeiro |
 | Tipos de doc. específicos de viagem | ✓Passaporte, visto, BI... | ~Só cartões de embarque | ✗ | ✗ |
 | Funciona offline | ✓ | ✓ | ~Requer cache prévia | ✓ |
 | Sem conta necessária | ✓ | ~Requer conta da plataforma | ✗ | ✗ |
 | Sem subscrição | ✓pagamento único | ✓ | ~Gratuito, com níveis com anúncios variáveis | ✗normalmente $30-40/ano |
-| Lista de verificação de preparação (por viagem) | ✓Sim | ✗ | ✗ | ✗ |
-| Limites de dias personalizados por país (dias-dentro / dias-fora) | ✓ | ✗ | ✗ | ✗ |
-| Sincronização na nuvem encriptada (a sua própria nuvem) | ✓A sua própria nuvem | ~Apenas conta da plataforma | ~Apenas fornecedor de nuvem | ~Servidores do fornecedor |
+| Lista de verificação de preparação (por viagem) | ✓Sim (Pro) | ✗ | ✗ | ✗ |
+| Limites de dias personalizados por país (dias-dentro / dias-fora) | ✓ Pro | ✗ | ✗ | ✗ |
+| Sincronização na nuvem encriptada (a sua própria nuvem) | ✓A sua própria nuvem (Pro) | ~Apenas conta da plataforma | ~Apenas fornecedor de nuvem | ~Servidores do fornecedor |
 
 ✓ Suportado ~ Parcial ✗ Não suportado
 
@@ -148,11 +148,11 @@ Construído por um pai cansado de procurar em Fotos, e-mail e Drive antes de cad
 
 ### O Seu Dispositivo. Os Seus Documentos. Mais Ninguém.
 
-Poderia ter construído sincronização na nuvem. Todas as outras apps fazem-no.
+Escolhi manter os documentos no seu dispositivo por predefinição. A cópia de segurança opcional Pro usa a sua própria conta na nuvem.
 
 Mas confiaria num servidor de um estranho com fotos dos passaportes dos meus filhos? **Nunca.**
 
-Legível apenas por si. Sempre.
+Encriptado no seu dispositivo por predefinição.
 
 A sincronização na nuvem está desativada por predefinição. Se a ativar (Pro), o seu cofre é encriptado no seu dispositivo antes de ser carregado, e vai para o seu próprio iCloud ou Google Drive, selado com um código de recuperação apenas seu. Ninguém, incluindo nós, Apple ou Google, pode lê-lo. A promessa é reforçada por código, não por política.
 
@@ -170,19 +170,19 @@ Funciona para passaportes, vistos, cartas de condução, seguros e tudo o que te
 
 É o utilizador que se lembra de qual passaporte do filho expira primeiro, se o seguro cobre toda a gente, e quando os vistos precisam de ser renovados.
 
-**Um perfil por membro da família.** Um toque para ver tudo. Feito para quem carrega com tudo.
+**Com Pro, um perfil por membro da família.** Um toque para ver tudo. Feito para quem carrega com tudo.
 
 ### Funciona Offline. Em Todo o Lado.
 
 Wi-Fi fraco no aeroporto? Embaixada estrangeira sem sinal? Modo avião?
 
-Os seus documentos estão sempre no dispositivo, sempre acessíveis. Sem internet necessária, nunca.
+Os documentos guardados localmente ficam disponíveis offline. A visualização e os lembretes funcionam sem internet. As compras, as atualizações e a cópia de segurança opcional na nuvem precisam de ligação.
 
 ### Pague Uma Vez. Sem Subscrição.
 
-**Comece gratuitamente.** Guarde até 5 documentos com lembretes completos e encriptação. Faça upgrade a qualquer momento para armazenamento ilimitado.
+**Comece gratuitamente.** Guarde até 5 documentos com lembretes completos e encriptação. Pro remove o limite de quantidade de documentos. O espaço disponível no seu dispositivo continua a limitar o armazenamento.
 
-O Travel Document Vault é uma **compra única** de $9.99. Perfis e documentos ilimitados, sem cobranças recorrentes, e sem data de renovação a lembrar.
+Pro é uma **compra única** de $9.99. Perfis e documentos ilimitados, sem cobranças recorrentes, e sem data de renovação a lembrar.
 
 Preço em dólares americanos. Definimos o preço de cada país localmente em vez de o converter a partir do dólar, e a App Store ou a Google Play mostra o seu antes da compra.
 
@@ -190,11 +190,11 @@ Preço em dólares americanos. Definimos o preço de cada país localmente em ve
 
 ### Suporte para Várias Páginas
 
-Suporte para até 10 páginas por documento. Essencial para apólices de seguro de viagem e vistos de várias páginas que os cofres gerais muitas vezes cortam.
+Com Pro, capture até 10 páginas para bilhetes de avião, vales e outros documentos, incluindo apólices de seguro de viagem.
 
 ### Exportação Profissional em PDF
 
-Combine vários documentos num único ficheiro PDF para partilhar com embaixadas, companhias aéreas ou para impressão física.
+Com Pro, combine vários documentos num único ficheiro PDF para partilhar com embaixadas, companhias aéreas ou para impressão física.
 
 Feito por um pai que precisava disto. Privacidade em primeiro lugar por design.
 
@@ -206,7 +206,7 @@ Construída para famílias que viajam em qualquer lugar.
 
 Pro
 
-Semáforo de preparação familiar. Veja quem está pronto para viajar.
+Semáforo de preparação familiar. Verifique os documentos associados face às datas de viagem guardadas (Pro).
 
 ### A Sua Nuvem. A Sua Chave.
 
@@ -228,7 +228,7 @@ Defina regras de limite de dias por país e por membro.
 
 ### Desfazer em 30 Dias
 
-Apagado acidentalmente. Recupere a qualquer momento.
+Apagado acidentalmente. Recupere no prazo de 30 dias.
 
 ### Cada Membro da Família
 
@@ -254,7 +254,7 @@ Veja o estado dos documentos de todos de imediato
 
 Pronto para a sua viagem
 
-Cada pessoa, cada documento, verificado
+Documentos associados verificados face às datas de viagem guardadas (Pro)
 
 ![Trip readiness view confirming all documents are valid and up to date](https://traveldocumentvault.com/assets/images/screenshots-appstore/02.webp)
 
@@ -266,7 +266,7 @@ Documentos, viagens, lembretes juntos
 
 Dias restantes em cada país
 
-Acompanhe o tempo de cada pessoa no estrangeiro
+Acompanhe o tempo de cada pessoa no estrangeiro com Pro
 
 ![Visa tracker showing days remaining in each country for each traveller](https://traveldocumentvault.com/assets/images/screenshots-appstore/04.webp)
 
@@ -292,7 +292,7 @@ Digitalize. Defina. Esqueça.
 
 Abra a câmara, use a sobreposição guiada e capture o documento. Ou importe um existente da sua biblioteca de fotos.
 
-A app deteta a data de expiração, apenas confirme.
+A app lê a data de validade quando consegue. Confirme-a ou introduza-a manualmente.
 
 2
 
@@ -300,7 +300,7 @@ A app deteta a data de expiração, apenas confirme.
 
 A app agenda lembretes em cascata automaticamente.
 
-Seis meses, três meses, seis semanas... até ao dia de expiração e além.
+Para passaportes, os lembretes começam oito meses antes da validade terminar. Para cartões de identidade, vistos, seguros e outros documentos, começam três meses antes e continuam até ao dia em que a validade termina e depois.
 
 3
 
@@ -310,11 +310,11 @@ Na imigração, a preencher formulários, a pedir vistos. Os seus documentos est
 
 ## Construída para Viajantes
 
-Esta app foi concebida para realidades práticas, não para armazenamento genérico de ficheiros.
+Guarde cópias dos documentos e datas de validade num só lugar, com os lembretes ativados por predefinição.
 
-- **Famílias:** Gira vários perfis para filhos e cônjuges num só lugar. Carregue com a carga mental de toda a família sem mudar entre pastas.
+- **Famílias:** Com Pro, gira vários perfis para filhos e cônjuges num só lugar. Carregue com a carga mental de toda a família sem mudar entre pastas.
 - **Nómadas Digitais e Expatriados:** Rastreie autorizações de residência, BI locais e vistos de trabalho juntamente com passaportes enquanto se move entre países.
-- **A Regra dos 6 Meses:** Os nossos lembretes têm em conta os rigorosos requisitos internacionais de entrada que as apps generalistas ignoram, avisando-o antes de o passaporte se tornar inválido para viagens.
+- **A Regra dos 6 Meses:** Os lembretes de passaporte começam oito meses antes da validade terminar, por predefinição. Verifique separadamente os requisitos de entrada do seu destino.
 - **Preparado para o Futuro:** Mantenha-se organizado perante as próximas mudanças administrativas da UE como o EES e o ETIAS. Certifique-se de que os seus documentos estão preparados antes de as regras mudarem.
 - **Indivíduos conscientes da privacidade:** Guarde documentos sem confiar em servidores na nuvem. Tudo fica no seu dispositivo.
 - **Compradores conscientes do orçamento:** Evite subscrições. Pague uma taxa única e simples em vez de alugar os seus próprios dados.
@@ -323,11 +323,11 @@ Esta app foi concebida para realidades práticas, não para armazenamento genér
 
 As perguntas que ouvimos com mais frequência.
 
-O que acontece se perder o meu telemóvel? Os seus documentos residem no seu dispositivo. As cópias de segurança do sistema (iCloud ou Google Backup) reinstalam a aplicação mas NÃO restauram os documentos — a chave de encriptação nunca sai do seu dispositivo original. Para transferir documentos para um novo telefone, exporte o seu cofre (gratuito). Se tiver Pro, pode usar a cópia de segurança encriptada na nuvem com o seu código de recuperação para restaurar num toque. Funciona sem internet? Completamente. A app armazena tudo no seu dispositivo e nunca precisa de uma ligação à internet. O processamento OCR, os lembretes e a visualização de documentos funcionam todos offline. Os meus dados estão realmente seguros? Os seus documentos são fortemente encriptados no dispositivo e protegidos pelo chip de segurança integrado do telemóvel. Não há servidores na nuvem nem contas. O design significa que eu não consigo ler os seus dados, e nem a Apple nem a Google conseguem — pode verificar o modelo de privacidade na [página de Verificação de Privacidade](https://traveldocumentvault.com/pt/privacy-verification/). O bloqueio por PIN e o bloqueio biométrico (Face ID/Touch ID) são ambos gratuitos. É realmente uma compra única? Sim. O Pro custa $9.99 uma única vez, em dólares americanos. Cada país define o seu preço localmente em vez de o converter a partir do dólar, e a loja mostra o seu preço antes da compra.* Sem subscrição, sem cobranças recorrentes, sem e-mails de "o seu período de avaliação está a terminar". O plano gratuito é genuinamente gratuito, 1 perfil, 5 documentos, todas as funcionalidades incluindo OCR e lembretes.
+O que acontece se perder o meu telemóvel? Os seus documentos são encriptados no seu dispositivo. A chave local fica no armazenamento seguro e é excluída das cópias de segurança habituais do telemóvel. Exportar cofre inclui uma cópia dessa chave encriptada com palavra-passe. Uma cópia de segurança habitual do telemóvel reinstala a aplicação, mas não restaura os seus documentos. A cópia de segurança na nuvem Pro permite restaurar com o seu código de recuperação num telemóvel compatível da mesma plataforma, usando a mesma conta na nuvem. Pode também usar gratuitamente Exportar cofre e Importar backup. Restaurar ou importar substitui o cofre local. Funciona sem internet? Completamente. A app armazena tudo no seu dispositivo e não precisa de ligação à internet para a utilização quotidiana. Os lembretes e a visualização de documentos guardados localmente funcionam offline. O processamento OCR decorre no seu dispositivo. Os meus dados estão realmente seguros? Os seus documentos são encriptados com AES-256-GCM no dispositivo, e a chave fica no armazenamento seguro de chaves do telemóvel, sem ser incluída numa cópia de segurança do telemóvel. Não precisa de criar uma conta, e nenhum servidor do Travel Document Vault guarda os seus documentos. O design significa que eu não consigo ler os seus dados, e nem a Apple nem a Google conseguem — pode verificar o modelo de privacidade na [página de Verificação de Privacidade](https://traveldocumentvault.com/pt/privacy-verification/). O bloqueio por PIN e o bloqueio biométrico (Face ID/Touch ID) são ambos gratuitos. É realmente uma compra única? Sim. O Pro custa $9.99 uma única vez, em dólares americanos. Cada país define o seu preço localmente em vez de o converter a partir do dólar, e a loja mostra o seu preço antes da compra.* Sem subscrição, sem cobranças recorrentes, sem e-mails de "o seu período de avaliação está a terminar". O plano gratuito é genuinamente gratuito, 1 perfil, 5 documentos, todas as funcionalidades essenciais incluindo OCR e lembretes.
 
 * Aplica-se à v1.x. Ver [Política de Preços](https://traveldocumentvault.com/pricing-policy/#version-policy).
 
-Posso usá-la para mais do que passaportes? Sim. Suporta passaportes, vistos, BI, cartas de condução, cartões de seguro, bilhetes de avião e qualquer tipo de documento que precise. Cada tipo tem a sua própria sobreposição de captura guiada. [Ver todas as perguntas frequentes →](https://traveldocumentvault.com/pt/faq/)
+Posso usá-la para mais do que passaportes? Sim. Suporta passaportes, vistos, BI, cartas de condução, cartões de seguro, bilhetes de avião e qualquer tipo de documento que precise. Cada formato de documento tem a sua própria sobreposição de captura guiada. [Ver todas as perguntas frequentes →](https://traveldocumentvault.com/pt/faq/)
 
 **Importante:** O Travel Document Vault é uma ferramenta de organização pessoal para armazenar cópias digitais dos seus documentos. **As cópias digitais armazenadas nesta app NÃO são válidas para viagens.** Não verifica a autenticidade dos documentos nem fornece aconselhamento jurídico ou de viagem. Transporte sempre documentos originais e verifique todos os requisitos de viagem junto de fontes governamentais oficiais.
 

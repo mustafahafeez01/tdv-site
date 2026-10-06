@@ -94,7 +94,7 @@ Flighty er den mest direkte erstatning for flyalarmer i realtid. Appen sporer fo
 
 ### Er der én app, der erstatter alt, hvad TripCase kunne?
 
-Ingen enkelt app gør alt det, TripCase gjorde. De fleste tidligere brugere ender med to eller tre værktøjer: TripIt eller Tripsy til rejseplan-aflæsning og tidslinjevisninger, Flighty til flyalarmer og en separat offline-app som Travel Document Vault til dokumentopbevaring. Det er flere dele, men det betyder også, at du ikke er afhængig af, at ét enkelt firma overlever.
+Du kan have brug for separate værktøjer til at aflæse rejseplaner, få flyalarmer og opbevare dokumenter. Travel Document Vault gemmer dokumentkopier krypteret på din telefon og lader dig se dem offline.
 
 ### Bør jeg opbevare mine rejsedokumenter i en cloud-app?
 

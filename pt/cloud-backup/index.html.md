@@ -1,6 +1,6 @@
 # Cópia de Segurança Encriptada | A Sua Nuvem. A Sua Chave. | Travel Document Vault
 
-> Cópia de segurança encriptada de ponta a ponta no seu iCloud ou Google Drive. Só você tem o código de recuperação e nunca lhe acedemos.
+> Backup encriptado (Pro) no seu iCloud ou Google Drive. Restaure com o seu código, que não guardamos. O cofre guardado funciona offline.
 
 Source: https://traveldocumentvault.com/pt/cloud-backup/
 
@@ -8,15 +8,15 @@ Source: https://traveldocumentvault.com/pt/cloud-backup/
 
 ## Como a Cópia de Segurança Encriptada Funciona
 
-Privacidade verdadeira significa que você, e apenas você, consegue ler os seus dados.
+O conteúdo dos documentos é encriptado antes do envio para a nuvem.
 
 1
 
 ### Encripte no Dispositivo
 
-O seu cofre é encriptado no seu dispositivo usando AES-256-GCM. A chave de encriptação é derivada do seu código de recuperação usando PBKDF2 com 600.000 iterações.
+O conteúdo dos documentos é encriptado no dispositivo com AES-256-GCM. PBKDF2 com 600.000 iterações deriva a chave usada para desbloquear a chave mestra do cofre, gerada aleatoriamente.
 
-AES-256-GCM é encriptação forte e moderna, e o código de recuperação nunca sai das suas mãos. Deve ainda proteger o seu telemóvel com uma senha forte e Bloqueio da App. A encriptação protege o ficheiro; a sua senha protege o telemóvel.
+AES-256-GCM encripta o conteúdo dos documentos. A aplicação não envia o código de recuperação para nós, para a Apple ou para a Google. Deve ainda proteger o telemóvel com um código de acesso forte e o bloqueio por PIN da aplicação. A encriptação protege o ficheiro; o código de acesso protege o telemóvel.
 
 2
 
@@ -24,23 +24,23 @@ AES-256-GCM é encriptação forte e moderna, e o código de recuperação nunca
 
 A cópia de segurança encriptada vai para a sua conta pessoal do iCloud ou Google Drive, não para os nossos servidores — é a sua nuvem e a sua conta.
 
-Pode ver e gerir as suas cópias de segurança diretamente no seu iCloud ou Google Drive. Está completamente no controlo.
+No iPhone e iPad, pode ver os ficheiros de cópia de segurança no iCloud Drive. No Android, ficam numa pasta oculta da aplicação no seu próprio Google Drive. Está completamente no controlo.
 
 3
 
 ### Apenas Você Detém a Chave
 
-O seu código de recuperação é a chave para desencriptar as suas cópias de segurança, e nunca sai do seu dispositivo — nunca enviado para nós, Apple, ou Google.
+O código de recuperação desbloqueia as chaves de encriptação da nuvem. A aplicação não envia o código para nós, para a Apple ou para a Google; mantenha privadas as cópias que fizer.
 
 Guarde o seu código de recuperação num local seguro, porque sem ele nem nós conseguimos recuperar os seus dados — isto é intencional, não um erro.
 
 4
 
-### Restaurar em Qualquer Dispositivo
+### Restaurar num novo dispositivo
 
-Mude para um telemóvel novo? Restaure a sua cópia de segurança com o seu código de recuperação. O mesmo para iPad novo, Mac ou outro dispositivo.
+Mude para um telemóvel novo? Restaure a sua cópia de segurança com o seu código de recuperação. O mesmo se aplica a um novo iPad ou a outro dispositivo suportado na mesma plataforma, usando a mesma conta na nuvem.
 
-Descarregue a app, restaure a partir da cópia de segurança, e introduza o seu código de recuperação para obter todo o seu cofre de volta, encriptado e pronto.
+No novo dispositivo, abra Definições, Cópia de Segurança na Nuvem e escolha Restaurar da Cópia de Segurança. Selecione a cópia de segurança, introduza o código de recuperação e confirme. A restauração substitui o cofre local.
 
 ## Como Protege os Seus Dados
 
@@ -48,35 +48,35 @@ Várias camadas de segurança estão entre um toque acidental e dados perdidos.
 
 **Retenção indefinida de lixo.** Documentos eliminados ficam em Eliminado Recentemente enquanto a cópia de segurança nuvem estiver ativa. Sem limpeza automática de 30 dias.
 
-**Eliminação permanente requer confirmação.** Um aviso separado alerta-o de que o documento também será removido da sua cópia de segurança nuvem. Sem eliminações acidentais.
+**Eliminação permanente requer confirmação.** Um aviso separado alerta-o de que o documento também será removido da sua cópia de segurança nuvem.
 
-**Janela de tolerância do historial de cópias de segurança.** Mesmo após eliminação permanente, a cópia de segurança mantém os dados do seu documento por mais alguns ciclos de sincronização como rede de segurança.
+****
 
 **Escolha a sua janela de historial.** Defina até onde remonta o historial das suas cópias de segurança diárias: 7, 30, 90 ou 180 dias. Restaure o seu cofre para um dia anterior dentro dessa janela. Os instantâneos mais antigos são eliminados automaticamente.
 
-**Salte sincronização de cofre vazio.** A aplicação nunca sincroniza um cofre vazio para a nuvem. Uma eliminação em massa não pode limpar a sua cópia de segurança existente.
+**Proteção contra cópias de segurança de um cofre vazio.** Uma proteção impede algumas tentativas de cópia de segurança de um cofre vazio; as primeiras cópias de segurança e os processos de restauração e sincronização têm exceções. Os documentos eliminados em massa ficam em Eliminado Recentemente enquanto a cópia de segurança na nuvem estiver ativa, até os eliminar permanentemente.
 
 **Aviso de segurança do novo dispositivo.** Ativar a cópia de segurança nuvem num novo dispositivo deteta cópias de segurança existentes e pergunta se restaurar ou começar do zero. Sem sobrescrita silenciosa.
 
-**Eliminação controlada biometricamente.** Eliminar a sua cópia de segurança nuvem requer Face ID, Touch ID ou o seu PIN. Um único toque acidental não pode apagar a sua cópia de segurança.
+**Eliminação da cópia de segurança na nuvem com confirmação.** Eliminar a cópia de segurança na nuvem requer Face ID, Touch ID ou o PIN se o bloqueio correspondente da aplicação estiver ativado, seguido de confirmação. Um único toque acidental não pode apagar a sua cópia de segurança.
 
-**Restaure com um toque das Definições.** Restaure a sua cópia de segurança em qualquer altura a partir do ecrã de definições da Cópia de Segurança Nuvem. Não precisa de reinstalar nem de passar pelo fluxo de embarque.
+**Restauração a partir de Definições.** Num dispositivo suportado na mesma plataforma e com a mesma conta na nuvem, abra o ecrã Cópia de Segurança na Nuvem com a cópia de segurança desativada, selecione a cópia de segurança, introduza o código de recuperação e confirme a restauração. Isto substitui o conteúdo local do cofre. Não precisa de reinstalar nem de passar pelo fluxo de embarque.
 
-**Repor e ressincronizar.** Se os seus dados locais e a cópia de segurança nuvem alguma vez se desincronizarem, um botão força um recarregamento limpo de todo o seu cofre, de modo a que tudo permaneça consistente.
+**Repor e ressincronizar.** Se os dados locais e a cópia de segurança na nuvem ficarem dessincronizados, use Repor e ressincronizar para enviar uma nova cópia do cofre.
 
 ### ⚠ O Seu Código de Recuperação É Crítico
 
-O seu código de recuperação é a única chave para desencriptar a sua cópia de segurança. Temos um design de conhecimento zero, o que significa que não conseguimos repor o seu. Se o perder, a sua cópia de segurança torna-se irrecuperável.
+O código de recuperação desbloqueia as chaves de encriptação da nuvem necessárias para restaurar a cópia de segurança. Não podemos repô-lo. Se perder todas as cópias do código e o acesso a todos os dispositivos que ainda conseguem desbloquear o cofre, não podemos recuperar a cópia de segurança encriptada.
 
 Guarde o seu código de recuperação num local seguro antes de confiar na cópia de segurança nuvem — quer um gestor de palavras-chave, uma cópia impressa num local seguro, ou ambas — e verifique que consegue lê-lo novamente antes de o guardar como única cópia.
 
 ### Requisitos do Dispositivo
 
-A cópia de segurança nuvem no iPhone e iPad utiliza o Apple iCloud. Funciona em todos os dispositivos que se ligam com um Apple ID.
+A cópia de segurança nuvem no iPhone e iPad utiliza o Apple iCloud. Requer um iPhone ou iPad suportado com iCloud Drive disponível e ativado para a aplicação.
 
 A cópia de segurança nuvem no Android utiliza o Google Drive. Requer Google Play Services, que é instalado por padrão em Google, Samsung, OnePlus, Sony, Motorola, Xiaomi global, Oppo global, Vivo global, Nokia, Asus, Realme e a maioria das outras grandes marcas Android.
 
-Os dispositivos sem Google Play Services (como dispositivos Huawei lançados após 2019, tablets Amazon Fire e variantes AOSP) não podem utilizar cópia de segurança nuvem. O resto da aplicação, incluindo armazenamento local e encriptação no dispositivo, continua a funcionar em todos os dispositivos.
+Os dispositivos sem Google Play Services (como dispositivos Huawei lançados após 2019, tablets Amazon Fire e variantes AOSP) não podem utilizar cópia de segurança nuvem. O resto da aplicação, incluindo armazenamento local e encriptação no dispositivo, continua a funcionar em dispositivos suportados, embora a leitura automática de datas também exija Google Play Services.
 
 ### Importante: Mantenha Sempre Cópias Independentes
 
@@ -86,45 +86,45 @@ Para documentos críticos, mantenha sempre uma cópia independente, tal como uma
 
 É responsável por manter as suas próprias cópias de segurança de documentos e por manter o seu código de recuperação seguro. A aplicação, Apple, Google e o programador não são responsáveis pela perda de dados decorrente de códigos de recuperação perdidos, problemas de conta nuvem ou confiança na cópia de segurança nuvem como única cópia.
 
-## Segurança em Que Pode Confiar
+## Encriptação e recuperação
 
 #### AES-256-GCM
 
-Encriptação autenticada de padrão industrial. Utilizada por NIST, NSA e sistemas bancários globais.
+Encriptação autenticada do conteúdo dos documentos.
 
 #### PBKDF2 600k Iterações
 
-Derivação de chave computacionalmente cara. Ataques de força bruta tornam-se inviáveis.
+Derivação de chave computacionalmente cara. Isto aumenta o custo das tentativas de adivinhar o código de recuperação.
 
 #### Expansão de Chave HKDF
 
-Chaves de encriptação por dispositivo. Cada restauração gera uma chave única. Comprometer um dispositivo não compromete os outros.
+Cada ficheiro de cópia de segurança usa uma chave separada, e a restauração volta a encriptar os documentos com a chave própria do novo dispositivo. Um dispositivo autorizado ou código de recuperação comprometido pode expor o cofre partilhado na nuvem.
 
 #### Design de Conhecimento Zero
 
-Não temos acesso aos seus dados. Não encriptado nos nossos servidores. Não armazenado nos nossos servidores. Verdadeiro conhecimento zero.
+A cópia de segurança encriptada fica na sua própria conta na nuvem. Não a recebemos nem guardamos as chaves necessárias para ler o conteúdo dos documentos.
 
 #### O Que Apple Vê
 
-Blobs encriptados no seu iCloud. Apple armazena-os. Apple não consegue lê-los. O mesmo para Google Drive.
+O conteúdo dos documentos fica encriptado no seu iCloud ou Google Drive. Os metadados da cópia de segurança, como nomes de dispositivos, contagens e datas e horas, não são encriptados.
 
 #### Perda de Código de Recuperação
 
-Se perder o seu código de recuperação, as suas cópias de segurança não podem ser desencriptadas. Sem porta dos fundos. Sem chave mestre. Por design.
+Se perder todas as cópias do código de recuperação e o acesso a todos os dispositivos que ainda conseguem desbloquear o cofre, não podemos desencriptar as cópias de segurança. Não guardamos as chaves de encriptação da nuvem.
 
 ## Privacidade e Conformidade
 
-**Em Conformidade com GDPR:** Não processamos dados pessoais. Não temos acesso aos seus dados. Sem dados, sem processamento, sem carga de conformidade.
+**Relatórios de falhas opcionais:** Os relatórios de falhas estão desativados por predefinição. O conteúdo dos documentos não é enviado para os nossos servidores.
 
-**Sem Depósito de Cópia de Segurança:** Ao contrário de alguns fornecedores, não guardamos cópias do seu código de recuperação, chaves privadas ou chaves de encriptação. A custódia de cópia de segurança é 100% sua.
+**Sem Depósito de Cópia de Segurança:** Não guardamos cópias do código de recuperação ou das chaves de encriptação. Guarde o código num local seguro.
 
-**Opt-In Por Defeito:** A cópia de segurança nuvem está desativada por defeito. Você ativa-a explicitamente. Você decide.
+**Opt-In Por Defeito:** A cópia de segurança na nuvem está desativada por predefinição. Ative-a em Definições quando quiser usá-la.
 
 Saiba mais na nossa [política completa de privacidade](https://traveldocumentvault.com/privacy-policy/).
 
 ## Experimente Privacidade Verdadeira
 
-Descarregue gratuitamente. Ative a cópia de segurança quando estiver pronto. Sem conta. Apenas você.
+Descarregue gratuitamente. Ative a cópia de segurança com Pro quando estiver pronto. Sem conta. Apenas você.
 
 ![Descarregue no App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

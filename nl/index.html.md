@@ -1,6 +1,6 @@
 # Travel Document Vault | Een zorg minder
 
-> Bewaar paspoorten, visa en id's op uw telefoon. Vervalherinnering maanden van tevoren. Offline, versleuteld, geen accounts, geen servers.
+> Paspoorten, visa en ID’s versleuteld offline op uw telefoon. Gezin met Pro, herinneringen maanden voor verval. Pro: eenmalig, zonder abonnement.
 
 Source: https://traveldocumentvault.com/nl/
 
@@ -24,11 +24,11 @@ Een zorg minder.
 
 ## Uw Documenten Blijven Bij U
 
-Gebouwd door een ouder die het nodig had. Uw documenten blijven op uw apparaat – versleuteld, privé, en nooit ergens anders heen geüpload.
+Gebouwd door een ouder die het nodig had. Uw opgeslagen documenten staan versleuteld op uw apparaat. Een optionele back-up gaat naar uw eigen iCloud of Google Drive, beveiligd met een herstelcode die alleen u hebt.
 
 ### Gebouwd door een Ouder
 
-Ik heb deze app gemaakt omdat ik het voor mijn eigen gezin nodig had. Het biedt aparte profielen voor elk gezinslid en automatische vervalherinnering maanden voordat verlenging nodig is. Er is geen VC-financiering die mij duwt uw gegevens te verkopen en geen roadmap gedreven door groeimetriek; het is gewoon een tool die één probleem goed oplost.
+Ik heb deze app gemaakt omdat ik het voor mijn eigen gezin nodig had. Het biedt automatische vervalherinneringen maanden voordat verlenging nodig is en, met Pro, aparte profielen voor elk gezinslid. Er is geen VC-financiering die mij duwt uw gegevens te verkopen en geen roadmap gedreven door groeimetriek; het is gewoon een tool die één probleem goed oplost.
 
 ### Offline van Nature
 
@@ -36,19 +36,19 @@ De veiligste server voor paspoortscannen is geen server. Daarom bewaart de app d
 
 ### Versleuteling op het Apparaat
 
-Documenten zijn versleuteld op uw apparaat met AES-256-GCM, met sleutels opgeslagen in uw apparaat's Secure Enclave. Dat is sterke, moderne versleuteling, en u moet uw telefoon nog steeds beschermen met een sterk wachtwoord en App Lock.
+Documenten zijn versleuteld op uw apparaat met AES-256-GCM, met sleutels opgeslagen in de beveiligde sleutelopslag van uw apparaat. Dat is sterke, moderne versleuteling, en u moet uw telefoon nog steeds beschermen met een sterk wachtwoord en App Lock.
 
 ### Uw cloud. Uw sleutel.
 
-Optionele versleutelde back-up naar uw eigen iCloud of Google Drive. U houdt de herstelcode. We raken het nooit aan. Multi-apparaat-synchronisatie, u blijft in controle.
+Vault Export en Import zijn gratis. Pro voegt een versleutelde cloudback-up naar uw eigen iCloud of Google Drive toe. Herstel met uw herstelcode op een compatibele telefoon op hetzelfde platform, met hetzelfde cloudaccount. Wij bewaren uw code niet.
 
 ### Slimme herinneringen
 
-Paspoorten waarschuwen u al acht maanden van tevoren, daarna komen de herinneringen dichterbij – zes maanden, drie, zes weken, een maand – tot de vervaldag. Elk documenttype heeft zijn eigen schema, klaar zodra u het toevoegt.
+Paspoorten waarschuwen u al acht maanden van tevoren, daarna komen de herinneringen dichterbij – zes maanden, drie, zes weken, een maand – tot de vervaldag. Herinneringen staan standaard aan wanneer u een vervaldatum opslaat. ID’s, visa, verzekeringen en andere documenten beginnen drie maanden van tevoren.
 
 ### Logica voor gezinnen
 
-We volgen de regels voor u. Verschillende landen, verschillende vereisten, kinderpassen vernieuwen sneller. De app begrijpt het. U hoeft het niet.
+Met Pro controleert de app gekoppelde paspoorten aan de hand van uw reisdatums, met een standaard geldigheidsmarge van 180 dagen na het einde van de reis. Controleer de daadwerkelijke regel van uw bestemming apart.
 
 ### Dit is de waarheid over wat ik kan zien
 
@@ -60,7 +60,7 @@ Alleen op uw apparaat opgeslagen. Ik kan ze niet zien.
 
 Uw documentdetails
 
-Namen, nummers, vervaldatums. Alleen op uw apparaat.
+Vervaldatums, landen van afgifte, titels en notities. Op uw apparaat; kopieën kunnen het verlaten als u ze deelt of exporteert, of een versleutelde cloudback-up inschakelt (Pro).
 
 Uw gezinsprofielen
 
@@ -70,13 +70,13 @@ Herinneringsmeldingen
 
 Lokaal gepland op uw apparaat. Ik ken uw vervaldatums niet.
 
-Zelfs als iemand mijn servers zou hacken... er zijn geen servers. Er is niets om te vinden.
+Geen Travel Document Vault-server slaat uw documenten op. Er is niets om te vinden.
 
 [Lees het verhaal van de oprichter: Waarom ik een app heb gemaakt om één zorg minder in mijn hoofd te hebben →](https://traveldocumentvault.com/nl/blog/)
 
 ## Klaar Wanneer U Ze Nodig Hebt
 
-- **Op het vliegveld:** Roep in seconden paspoorten, identiteitsbewijzen en boordingdetails voor het hele gezin op.
+- **Op het vliegveld:** Roep in seconden paspoorten, identiteitsbewijzen en boordingdetails voor het hele gezin (Pro) op.
 - **Formulieren Invullen:** Paspoortnummers, identiteitsgegevens, verzekeringsinformatie. Altijd bij de hand.
 - **Visumaanvragen:** Exporteer documentafbeeldingen als PDF's voor afdrukken of delen. Controleer en pas afbeeldingen aan voordat u ze exporteert.
 
@@ -88,7 +88,7 @@ Pro
 
 ### Iedereen Klaar, In Een Oogopslag
 
-Familiebereidschapsampel. Zie wie klaar is om te reizen en wiens documenten binnenkort vervallen.
+Familiebereidschapsampel. Zie welke gekoppelde documenten aandacht nodig hebben aan de hand van uw opgeslagen reisdatums.
 
 Pro
 
@@ -100,7 +100,7 @@ Pro
 
 ### Volg Dagen Buiten Het Land
 
-Registreer de dagen die uw gezin in elk land doorbrengt. Stel aangepaste daglimits in en weet precies waar u staat.
+Registreer de dagen die uw gezin in elk land doorbrengt. Vergelijk uw opgeslagen reisdagen met de daglimieten die u per land invoert.
 
 Pro
 
@@ -120,7 +120,7 @@ Paspoortwaarschuwingen vanaf 8 maanden vooraf
 
 Gidsen om paspoorten en identiteitsbewijzen in te kaderen
 
-### Gecombineerde Exports
+### Gecombineerde Exports (Pro)
 
 Combineer documenten in één PDF voor afdrukken
 
@@ -132,7 +132,7 @@ Beschikbaar in meer dan 40 talen
 
 ### Voor Het Hele Gezin
 
-U bent degene die alles onthoudt. Deze last hoeft niet helemaal op u te rusten. Organiseer partners, kinderen en grootouders op één veilige plek.
+U bent degene die alles onthoudt. Deze last hoeft niet helemaal op u te rusten. Organiseer met Pro partners, kinderen en grootouders op één veilige plek.
 
 ### Gemoedsrust, Geautomatiseerd
 
@@ -154,11 +154,11 @@ Engels, Español, Français, Deutsch, Italiano, Português, Русский, 中�
 
 ### Laat de App Typen
 
-Directe datumaflezingslaat u van vervelende gegevensinvoer. Snel, handig, en 100% privé op uw telefoon.
+De app probeert de vervaldatum op uw apparaat te lezen. Bevestig de gevonden datum of typ deze zelf in voordat u opslaat.
 
 ### Uw Privé Kluis
 
-Wat op uw telefoon gebeurt, blijft op uw telefoon. Er is geen cloudserver betrokken en niemand kijkt u over de schouder.
+Uw documentbestanden blijven op uw telefoon, tenzij u ze deelt of exporteert, of een versleutelde back-up inschakelt (Pro). Er is geen cloudserver van ons betrokken en niemand kijkt u over de schouder.
 
 ### Altijd Daar Wanneer U Het Nodig Hebt
 
@@ -179,15 +179,15 @@ Eenmalig betalen. Geen abonnementen. Geen verborgen kosten. Geen gegevensverzame
 Altijd gratis
 
 - Paspoorten, visa, id's en meer
-- Scan documenten, datums voor u ingevuld
+- Scan documenten en bevestig herkende vervaldatums
 - Vervalherinnering
 - Individuele documenten delen
 - PIN + Biometrisch slot (Face ID / Touch ID)
 - 1 profiel
 - Tot 5 documenten
-- Recent verwijderd - 30-daags ongedaan maken venster
+- Recent verwijderd - herstellen binnen 30 dagen
 
-Alle gegevens blijven op uw apparaat. Altijd.
+Bewaar op uw apparaat. Deel, exporteer of gebruik Pro-cloudback-up.
 
 Beste Waarde
 
@@ -218,15 +218,15 @@ Alles wat u nodig hebt voor solo reizen
 Gratis
 
 - Paspoorten, visa, id's en meer
-- Scan documenten, datums voor u ingevuld
+- Scan documenten en bevestig herkende vervaldatums
 - Vervalherinnering
 - Individuele documenten delen
 - PIN + Biometrisch slot (Face ID / Touch ID)
 - 1 profiel
 - Tot 5 documenten
-- Recent verwijderd - 30-daags ongedaan maken venster
+- Recent verwijderd - herstellen binnen 30 dagen
 
-Alle gegevens blijven op uw apparaat. Altijd.
+Bewaar op uw apparaat. Deel, exporteer of gebruik Pro-cloudback-up.
 
 Voor gezinnen
 
@@ -258,7 +258,7 @@ Aankopen altijd herstellen met het App Store- of Google Play-account waarmee u h
 
 ## Veelgestelde Vragen
 
-Is het echt privé? Ja. Alles wordt 100% op uw apparaat opgeslagen. We hebben geen toegang tot uw documenten, en er is geen clouddatabase. Neem het niet zomaar van ons aan – [controleer het zelf](https://traveldocumentvault.com/nl/privacy-verification/). Wat als ik mijn telefoon verlies? Uw kluis wordt op uw apparaat opgeslagen. Als u van telefoon wisselt, kunt u herstellen met uw gebruikelijke telefoonautomatie. Kan ik tussen apparaten synchroniseren? Ja. Met Pro kunt u Your Own Cloud back-up inschakelen om uw versleutelde kluis te synchroniseren met uw iCloud of Google Drive. U houdt de herstelcode. We hebben nooit toegang tot uw gegevens. Wat is de reisplanner? De reisplanner groepeert familiëdocumenten per reis en toont een bereidschapsampel – groen wanneer iedereen klaar is, geel wanneer iemands paspoort binnenkort vervalt. Plan reizen samen met vertrouwen. [Zie alle privacy- en gegevensantwoorden](https://traveldocumentvault.com/nl/faq/)
+Is het echt privé? Ja. Standaard wordt alles op uw apparaat opgeslagen. Wij hebben geen servers die uw documenten opslaan en geen toegang tot uw documenten. Als u optionele back-up (Pro) inschakelt, staat uw versleutelde kluis in uw eigen iCloud of Google Drive, beveiligd met een herstelcode die alleen u hebt. Wij kunnen deze nog steeds niet lezen. Apple en Google ook niet. Neem het niet zomaar van ons aan – [controleer het zelf](https://traveldocumentvault.com/nl/privacy-verification/). Wat als ik mijn telefoon verlies? Uw kluis staat versleuteld op uw apparaat. De lokale sleutel blijft in beveiligde opslag en wordt niet meegenomen in gewone telefoonback-ups. Vault Export bevat een met een wachtwoord versleutelde kopie van die sleutel. Een gewone telefoonback-up installeert de app opnieuw, maar kan uw documenten niet herstellen. Pro-cloudback-up herstelt met uw herstelcode op een ondersteunde telefoon op hetzelfde platform, met hetzelfde cloudaccount. Of gebruik de gratis Vault Export en Import. Herstellen of importeren vervangt de lokale kluis. Kan ik tussen apparaten synchroniseren? Ja. Met Pro kunt u Your Own Cloud back-up inschakelen om uw versleutelde kluis te synchroniseren met uw iCloud of Google Drive. U houdt de herstelcode. We hebben nooit toegang tot uw gegevens. Wat is de reisplanner? De reisplanner (Pro) groepeert familiëdocumenten per reis en toont een bereidschapsampel – groen wanneer ingestelde documentcontroles slagen, geel wanneer een gekoppeld document aandacht nodig heeft. Plan reizen samen met vertrouwen. [Zie alle privacy- en gegevensantwoorden](https://traveldocumentvault.com/nl/faq/)
 
 **Belangrijk:** Travel Document Vault is een persoonlijk organisatietool voor het opslaan van digitale kopieën van uw documenten. **Digitale kopieën die in deze app zijn opgeslagen, zijn NIET geldig voor reizen.** Het verifieert niet de authenticiteit van documenten en biedt geen juridisch of reisadvies. Zorg altijd dat u originele documenten bij u hebt en controleer alle reisvereisten bij officiële overheidsbronnen.
 

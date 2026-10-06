@@ -72,7 +72,7 @@ Digamos que tu contraseña de cuenta de Google se reutilizó en un sitio que suf
 | Google Photos | Servidores en la nube de Google | En tránsito + en reposo (claves gestionadas por Google) | Moderado | Aceptable con 2FA fuerte |
 | iCloud Photos | Servidores en la nube de Apple | En tránsito + en reposo (claves gestionadas por Apple) | Moderado | Aceptable con 2FA fuerte |
 | Gestor de contraseñas cifrado (1Password, Bitwarden) | Nube (conocimiento cero) | De extremo a extremo; el proveedor no puede leer el contenido | Bajo | Buena opción |
-| Aplicación cifrada en el dispositivo (copia de seguridad propia en la nube opcional) | Solo tu teléfono | Cifrado en el dispositivo; sin copia del servidor | Bajo | Mejor para documentos sensibles |
+| Aplicación cifrada en el dispositivo (copia de seguridad propia en la nube opcional) | Tu teléfono; copia de seguridad cifrada opcional en tu propia nube (Pro) | Cifrado en el dispositivo; copia cifrada opcional en tu propia nube (Pro) | Bajo | Mejor para documentos sensibles |
 | Rollo de cámara / carpeta sin cifrar | Tu dispositivo | Solo cifrado del dispositivo | Alto | No recomendado |
 
 ### iCloud Photos vs Google Photos: ¿Es Apple más seguro?
@@ -85,7 +85,7 @@ El mismo riesgo de compromiso de cuenta se aplica a ambas plataformas. Una contr
 
 Si eres un usuario de iPhone, habilitar **Advanced Data Protection en iCloud** vale la pena hacer. Una aplicación cifrada construida a propósito sin carga a la nube sigue siendo la opción más fuerte para almacenamiento de pasaportes independientemente de la plataforma en la que estés.
 
-**Travel Document Vault** almacena tus fotos del pasaporte en el dispositivo con cifrado fuerte. No se requiere cuenta. Copia de seguridad cifrada opcional a tu propio iCloud o Google Drive (Pro), sellada con un código de recuperación que solo tú posees. [Descargar en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** almacena tus fotos del pasaporte en el dispositivo con cifrado fuerte. No se requiere cuenta. Con Pro, puedes guardar una copia cifrada en tu propio iCloud o Google Drive. Conserva tu código de recuperación en un lugar seguro: lo necesitarás para restaurar esa copia. [Descargar en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## ¿Cuáles son las alternativas más seguras?
 
@@ -99,7 +99,7 @@ Primero conviene separar dos cosas: guardar una copia para tu propia referencia 
 
 **Aplicaciones cifradas en el dispositivo**
 
-Las aplicaciones construidas específicamente para esto —como [Travel Document Vault](https://traveldocumentvault.com)— mantienen todo en tu teléfono con cifrado fuerte y sin requerir cuenta. Obtienes copia de seguridad cifrada opcional a tu propio iCloud o Google Drive (Pro), y no hay servidor para infringir porque tu copia de pasaporte digital nunca deja el dispositivo. El único intercambio es que si pierdes tu teléfono sin una copia de seguridad, la copia digital desaparece con él, aunque tu pasaporte físico sigue estando contigo.
+Las aplicaciones construidas específicamente para esto —como [Travel Document Vault](https://traveldocumentvault.com)— guardan documentos cifrados en tu teléfono sin cuenta en la app. Puedes compartir o exportar copias, o usar Pro para guardar una copia cifrada en tu propio iCloud o Google Drive. La app no sube tus documentos a nuestros servidores. El único intercambio es que si pierdes tu teléfono sin una copia de seguridad, la copia digital desaparece con él, aunque tu pasaporte físico sigue estando contigo.
 
 **Almacenamiento en la nube cifrado con claves del lado del cliente**
 
@@ -133,7 +133,7 @@ Sí. Los sistemas automatizados procesan tus fotos para cosas como reconocimient
 
 ### ¿Cuál es la forma más segura de almacenar una copia digital de un pasaporte?
 
-El almacenamiento cifrado en el dispositivo es tu mejor opción —aplicaciones que mantienen tus escaneos en tu teléfono con cifrado fuerte y sin carga a la nube. Ningún servidor de terceros jamás toca los datos de tu pasaporte. Si también deseas acceso en la nube, un gestor de contraseñas cifrado de conocimiento cero como 1Password o Bitwarden es un medio término sólido.
+El almacenamiento cifrado en el dispositivo es tu mejor opción —aplicaciones que mantienen tus escaneos en tu teléfono con cifrado fuerte por defecto. Las copias pueden salir al compartirlas, exportarlas o usar la copia de seguridad cifrada opcional en tu propio iCloud o Google Drive (Pro). Si también deseas acceso en la nube, un gestor de contraseñas cifrado de conocimiento cero como 1Password o Bitwarden es un medio término sólido.
 
 ### ¿Puede alguien robar mi identidad de una foto del pasaporte?
 

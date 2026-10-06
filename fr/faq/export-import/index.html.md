@@ -1,18 +1,18 @@
 # Comment exporter et importer votre coffre-fort | Travel Document Vault
 
-> Guide pas à pas pour exporter votre coffre-fort dans un fichier chiffré et l'importer sur un autre appareil. Vos données restent portables.
+> Exportez les données compatibles du coffre, chiffrées, puis importez-les sur un nouvel appareil. Étapes pour une sauvegarde portable sous votre contrôle.
 
 Source: https://traveldocumentvault.com/fr/faq/export-import/
 
 ---
 
-Chaque utilisateur peut exporter l'intégralité de son coffre-fort sous la forme d'un fichier de sauvegarde chiffré et protégé par mot de passe (.tdvault) et l'importer sur n'importe quel appareil. Cette procédure détaillée vous montre chaque étape avec des explications.
+L’exportation et l’importation du coffre sont gratuites pour tous. Exportez les données du coffre prises en charge dans un fichier chiffré et protégé par mot de passe (.tdvault), dans la limite de taille autorisée. Importez-le sur un autre appareil iOS ou Android pris en charge en suivant les étapes ci-dessous.
 
 ## Pourquoi exporter et importer?
 
-L'exportation-importation garantit la portabilité de vos données et vous évite d'être enfermé dans l'application. Que vous changiez d'appareil, que vous configuriez un nouveau téléphone ou que vous souhaitiez simplement une copie de sauvegarde que vous contrôlez, le processus d'exportation-importation préserve tout exactement tel qu'il est.
+Utilisez l’exportation et l’importation pour changer de téléphone ou conserver une sauvegarde indépendante. Le fichier comprend les données du coffre prises en charge, les pièces jointes disponibles et certains réglages. Vérifiez les documents et rappels importés ; le verrouillage de l’application et les autres réglages de l’appareil restent locaux.
 
-Le fichier exporté est chiffré avec la même sécurité que votre coffre-fort local. Seul vous pouvez le déchiffrer.
+Le fichier exporté est chiffré avec la même sécurité que votre coffre-fort local. Toute personne connaissant le mot de passe d’exportation peut le déchiffrer : gardez donc ce mot de passe privé.
 
 ## Procédure pas à pas
 
@@ -24,27 +24,27 @@ Lancez Travel Document Vault et appuyez sur l'icône Paramètres (symbole d'engr
 
 2
 
-### Vérifier ce qui sera exporté
+### Créer un mot de passe d’exportation
 
-L'application affiche un résumé : nombre total de profils, nombre total de documents et nombre total de pièces jointes. Cela confirme que tout ce que vous souhaitez exporter est inclus. Appuyez sur Continuer ou Confirmer l'exportation.
+L’application vous demande de créer un mot de passe pour protéger la sauvegarde. Choisissez-en un d’au moins 8 caractères, saisissez-le à nouveau pour confirmer et conservez-le en lieu sûr. Vous avez besoin de ce mot de passe pour importer le fichier ; votre PIN ou votre code de récupération ne peut pas l’ouvrir.
 
 3
 
 ### Attendre la fin du chiffrement
 
-L'application chiffre l'ensemble de vos données en un seul fichier de sauvegarde (.tdvault). Pour un coffre-fort typique contenant des centaines de documents, cette opération prend quelques secondes. Ne fermez pas l'application au cours de cette étape.
+L’application chiffre les données du coffre prises en charge et les pièces jointes disponibles dans un seul fichier de sauvegarde (.tdvault). Ne fermez pas l'application au cours de cette étape.
 
 4
 
 ### Choisir une destination et enregistrer
 
-L'explorateur de fichiers de votre système s'ouvre. Choisissez où enregistrer le fichier : iCloud Drive, Google Drive, Dropbox ou votre ordinateur. Nous recommandons un service chiffré ou un stockage hors ligne pour une sécurité maximale.
+La feuille de partage de votre téléphone s’ouvre. Choisissez où enregistrer le fichier : iCloud Drive, Google Drive, Dropbox ou votre ordinateur. Nous recommandons un service chiffré ou un stockage hors ligne pour une sécurité maximale.
 
 5
 
 ### Transférer le fichier vers votre nouvel appareil (si vous importez sur un autre téléphone)
 
-Si vous importez sur un appareil différent, rendez le fichier exporté accessible à partir de cet appareil. Téléchargez-le sur un lecteur partagé, envoyez-le à votre adresse e-mail ou utilisez AirDrop. La taille du fichier est généralement comprise entre 50 et 500 Mo selon la taille de votre coffre-fort et le nombre de pièces jointes.
+Si vous importez sur un appareil différent, rendez le fichier exporté accessible à partir de cet appareil. Téléchargez-le sur un lecteur partagé, envoyez-le à votre adresse e-mail ou utilisez AirDrop. La taille du fichier dépend de celle du coffre et du nombre de pièces jointes, avec une limite de 500 Mo par exportation.
 
 6
 
@@ -56,18 +56,18 @@ Lancez Travel Document Vault sur l'appareil où vous souhaitez importer. Allez d
 
 ### Sélectionnez le fichier exporté et confirmez
 
-Accédez à l'emplacement où vous avez enregistré le fichier du coffre-fort exporté, sélectionnez-le et confirmez. L'application déchiffre et importe tous les profils, les documents et les pièces jointes. Ce processus prend quelques secondes.
+Accédez à l’emplacement où vous avez enregistré le fichier du coffre exporté et sélectionnez-le. L’application vous avertit que l’importation remplace tout sur cet appareil. Appuyez sur Importer pour continuer, puis saisissez le mot de passe défini lors de l’exportation. L’application déchiffre et importe les profils, documents et pièces jointes inclus dans la sauvegarde.
 
 8
 
 ### Vérifier que toutes les données sont présentes
 
-Après l'importation, vérifiez l'onglet Profils pour confirmer que tous les profils apparaissent. Ouvrez quelques documents pour vérifier que les pièces jointes sont intactes. Le processus d'importation remplace toutes les données existantes sur cet appareil.
+Après l'importation, vérifiez l’onglet Famille pour confirmer que tous les profils apparaissent. Ouvrez quelques documents pour vérifier que les pièces jointes sont intactes. Le processus d'importation remplace toutes les données existantes sur cet appareil.
 
 ### Remarques importantes
 
 - **Remplace les données existantes :** L'importation efface d'abord ce qui se trouve sur l'appareil cible. Si vous avez déjà des profils sur l'appareil cible, exportez-les avant d'importer.
-- **Fidélité de l'aller-retour :** Tout est préservé exactement : noms de documents, dates, alertes d'expiration, couleurs personnalisées, pièces jointes et notes.
+- **Fidélité de l'aller-retour :** Le fichier transfère les champs du coffre pris en charge et certains réglages. Les pièces jointes manquantes ou les notes illisibles peuvent être omises. Vérifiez vos documents et rappels importés. Le verrouillage de l’application et les autres réglages de l’appareil restent locaux.
 - **Chiffrement continu :** Le fichier exporté est chiffré avec le mot de passe que vous choisissez lors de l'exportation, à l'aide du chiffrement AES-256-GCM et d'une dérivation de clé PBKDF2. Seul ce mot de passe permet de le déchiffrer, alors conservez-le en lieu sûr — sans lui, le fichier ne peut pas être récupéré.
 - **Bonne pratique de sauvegarde :** Conservez votre fichier exporté dans un endroit sécurisé. Supprimez-le après une importation réussie si vous préférez, ou conservez-le comme sauvegarde hors ligne.
 

@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/why-us/
 
 ---
 
-Privacy-first. On-device only. No accounts needed.
+Privacy-first. On-device by default. No accounts needed.
 
 # Always Ready
 When You Need It
@@ -51,7 +51,7 @@ The validity trap
 
 Your passport expires next year. Plenty of time, right?
 
-Wrong. Passports for Schengen travel must be issued within the last 10 years, and many countries enforce a 6-month validity rule. Airlines use official databases like [IATA Timatic](https://www.iata.org/en/publications/directories/code-search/timatic/) and [U.S. State Department travel rules](https://www.travel.state.gov/) at the gate to enforce these rules. With Pro, also track days spent abroad for 90/180-style limits and tax residency rules. A simple expiry check isn't enough.
+Wrong. Passports for Schengen travel must be issued within the last 10 years, and many countries enforce a 6-month validity rule. Airlines use official databases like [IATA Timatic](https://www.iata.org/en/publications/directories/code-search/timatic/) and [U.S. State Department travel rules](https://www.travel.state.gov/) at the gate to enforce these rules. With Pro, count saved trip days against the country limits you enter. Check visa and tax residency rules separately. A simple expiry check isn't enough.
 
 If this is you: frequent traveller, tax-conscious, or multi-country resident.
 
@@ -63,7 +63,7 @@ If this is you: parent, guardian, or family trip organiser.
 
 Everything together
 
-Passport. Visa. Driver's license. Insurance. Travel bookings. Kids' documents.
+Passport. Visa. Driving licence. Insurance. Travel bookings. Kids' documents.
 
 All in one place at your fingertips, ready when you need them.
 
@@ -77,7 +77,7 @@ These are all reasonable choices. Each one works - up to a point.
 
 **Works:** High security and offline access.
 
-**Falls short:** They treat a passport like a grocery receipt and lack travel-specific logic. We built this specifically for travellers, offering a generous 5-document free tier and a straightforward one-time price without any recurring subscriptions.
+**Falls short:** They treat a passport like a grocery receipt and lack travel-specific logic. Travel Document Vault includes one profile and up to five documents free. Pro is a one-time purchase with no subscription.
 
 ### Camera Roll / Photos
 
@@ -111,20 +111,20 @@ These are all reasonable choices. Each one works - up to a point.
 
 ## How It Stacks Up
 
-Every alternative does one or two things well. Only one does all of them.
+Travel Document Vault stores documents, tracks expiry dates and, with Pro, adds family profiles and trip planning.
 
 | Feature | Travel Document Vault | Wallet app | Photo library / cloud drive | Password manager |
 |---|---|---|---|---|
-| Expiry reminders (per gov rules) | ✓6 mo ahead | ✗ | ✗ | ✗ |
+| Expiry reminders (per document type) | ✓8 mo ahead for passports | ✗ | ✗ | ✗ |
 | Family profiles | ✓Unlimited (Pro) | ✗ | ✗ | ~Shared vaults only |
-| No cloud sync | ✓On-device only | ✗Cloud sync | ✗Cloud-first | ✗Cloud-first |
+| On-device by default | ✓Backup optional (Pro) | ✗Cloud sync | ✗Cloud-first | ✗Cloud-first |
 | Travel-specific doc types | ✓Passport, visa, ID... | ~Boarding passes only | ✗ | ✗ |
 | Works offline | ✓ | ✓ | ~Needs prior cache | ✓ |
 | No account required | ✓ | ~Platform account needed | ✗ | ✗ |
 | No subscription | ✓one-time | ✓ | ~Free, ad-supported tiers vary | ✗typically $30-40/yr |
-| Readiness checklist (per trip) | ✓Yes | ✗ | ✗ | ✗ |
-| Custom country day-limits (days-in / days-away) | ✓ | ✗ | ✗ | ✗ |
-| Encrypted cloud sync (your own cloud) | ✓Your own cloud | ~Platform account only | ~Cloud provider only | ~Provider servers |
+| Readiness checklist (per trip) | ✓Yes (Pro) | ✗ | ✗ | ✗ |
+| Custom country day-limits (days-in / days-away) | ✓Pro | ✗ | ✗ | ✗ |
+| Encrypted cloud sync (your own cloud) | ✓Your own cloud (Pro) | ~Platform account only | ~Cloud provider only | ~Provider servers |
 
 ✓ Supported ~ Partial ✗ Not supported
 
@@ -134,11 +134,11 @@ Built by a parent who got tired of digging through Photos, email, and Drive befo
 
 ### Your Device. Your Documents. Nobody Else.
 
-I chose not to build cloud sync. Every other app does, and that's the problem.
+I chose to keep documents on your device by default. Optional Pro backup uses your own cloud account.
 
 But would I trust a stranger's server with photos of my kids' passports? **Never.**
 
-Readable only by you. Always.
+Encrypted on your device by default.
 
 Cloud sync is off by default. If you turn it on (Pro), your vault is encrypted on your device before anything is uploaded, and goes to your own iCloud or Google Drive, sealed with a recovery code only you hold. No one, including us, Apple, or Google, can read it. The promise is enforced by code, not policy.
 
@@ -150,25 +150,25 @@ Passport renewals take 6 to 8 weeks. **Reminders start 8 months early** and casc
 
 Reminders arrive at 6 months, 3 months, 6 weeks, and expiry day - helping you stay ahead of renewal deadlines.
 
-Works for passports, visas, licenses, insurance, anything with an expiry date.
+Works for passports, visas, licences, insurance, anything with an expiry date.
 
 ### Family Passport Organiser, One Tap Away
 
 You're the one who remembers which kid's passport expires first, whether the insurance covers everyone, and when visas need renewing.
 
-**One profile per family member.** One tap to see everything. Built for the person who carries it all.
+**With Pro, one profile per family member.** One tap to see everything. Built for the person who carries it all.
 
 ### Works Offline. Everywhere.
 
 Spotty airport Wi-Fi? Foreign embassy with no signal? Airplane mode?
 
-Your documents are always on your device, always accessible. No internet required, ever.
+Documents saved locally are available offline. Local document viewing and reminders work offline; purchases, update checks and cloud features need internet.
 
 ### Pay Once. No Subscription.
 
-**Start free.** Store up to 5 documents with full reminders and encryption. Upgrade anytime for unlimited storage.
+**Start free.** Store up to 5 documents with full reminders and encryption. Pro removes the document-count limit. Available space still depends on your device.
 
-Travel Document Vault is a **one-time purchase** of $9.99. Unlimited profiles and documents, no recurring charges, and no renewal date to forget.
+Pro is a **one-time purchase** of $9.99. Unlimited profiles and documents, no recurring charges, and no renewal date to forget.
 
 Priced in US dollars. We set each country’s price locally rather than converting from dollars, and the App Store or Google Play shows yours before you pay.
 
@@ -176,11 +176,11 @@ Priced in US dollars. We set each country’s price locally rather than converti
 
 ### Multi-page Support
 
-Support for up to 10 pages per document. Essential for travel insurance policies and multi-page visas that general vaults often cut off.
+With Pro, capture up to 10 pages for airline tickets, vouchers and other documents, including travel insurance policies.
 
 ### Professional PDF Export
 
-Combine multiple documents into a single PDF file for sharing with embassies, airlines, or for physical printing.
+With Pro, combine multiple documents into a single PDF file for sharing with embassies, airlines, or for physical printing.
 
 I made this because my own family needed it.
 
@@ -192,7 +192,7 @@ Modern features for modern travel.
 
 Pro
 
-Family readiness traffic light. See who's ready to travel.
+Family readiness traffic light. Check linked documents against saved trip dates (Pro).
 
 ### Your Cloud. Your Key.
 
@@ -214,7 +214,7 @@ Set day-limit rules per country per member.
 
 ### 30-Day Undo
 
-Accidentally deleted. Recover anytime.
+Accidentally deleted. Recover within 30 days.
 
 ### Every Family Member
 
@@ -236,11 +236,11 @@ Zero surprises at the airport
 
 Ready For Your Trip
 
-Every person, every document, verified
+Linked documents checked against saved trip dates (Pro)
 
-![Trip readiness view confirming all documents are valid and up to date](https://traveldocumentvault.com/assets/images/screenshots-appstore/02.webp)
+![Trip readiness view showing linked-document checks against saved trip dates](https://traveldocumentvault.com/assets/images/screenshots-appstore/02.webp)
 
-Family Profiles Synced
+Family Profiles Synced (Pro)
 
 All documents, all people, one app
 
@@ -248,7 +248,7 @@ All documents, all people, one app
 
 Days Left in Each Country
 
-Track every person's time abroad
+Track every person's time abroad with Pro
 
 ![Visa tracker showing days remaining in each country for each traveller](https://traveldocumentvault.com/assets/images/screenshots-appstore/04.webp)
 
@@ -274,7 +274,7 @@ Scan. Set. Forget.
 
 Open the camera, use the guided overlay, and capture your document. Or import an existing one from your photo library.
 
-The app detects the expiry date - you just confirm.
+The app reads the expiry date when it can - you confirm it or type it in.
 
 2
 
@@ -282,7 +282,7 @@ The app detects the expiry date - you just confirm.
 
 The app schedules cascading reminders automatically.
 
-Six months, three months, six weeks... all the way to expiry day and beyond.
+Passports start eight months out. IDs, visas, insurance and other documents start three months out, with reminders through expiry day and afterwards.
 
 3
 
@@ -292,11 +292,11 @@ At immigration, filling forms, applying for visas. Your documents are organised,
 
 ## Built for Travellers
 
-This app is designed for practical realities, not generic file storage.
+Store document copies and expiry dates in one place, with reminders on by default.
 
-- **Families:** Manage multiple profiles for children and spouses in one place. Carry the mental load for the whole household without switching between folders.
+- **Families:** With Pro, manage multiple profiles for children and spouses in one place. Carry the mental load for the whole household without switching between folders.
 - **Digital Nomads & Expats:** Track residency permits, local IDs, and work visas alongside passports as you move between countries.
-- **The 6-Month Rule:** Our reminders account for strict international entry requirements that generalist apps ignore, warning you before your passport becomes invalid for travel.
+- **The 6-Month Rule:** Passport reminders start eight months before expiry by default. Check your destination's entry requirements separately.
 - **Future-Ready:** Stay organised amidst upcoming EU administrative changes like EES and ETIAS. Ensure your documents are prepared before the rules shift.
 - **Privacy-conscious individuals:** No third-party servers ever hold your readable data. Optional backup goes to your own iCloud or Google Drive, sealed with a key only you hold.
 - **Budget-aware purchasers:** Avoid subscriptions. Pay a simple, one-time fee rather than renting your own data.
@@ -305,11 +305,11 @@ This app is designed for practical realities, not generic file storage.
 
 The questions we hear most often.
 
-What happens if I lose my phone? Your documents live on your device, encrypted with a key that never leaves it. A regular phone backup reinstalls the app but cannot restore your documents. To move to a new phone, turn on Your Own Cloud backup (Pro) for one-tap restore, or use the free Vault Export. Does it work without internet? Completely. The app stores everything on your device and never needs an internet connection. OCR processing, reminders, and document viewing all work offline. Is my data really safe? Your documents are strongly encrypted on your device and protected by your phone's built-in security chip. We have no servers and no accounts. If you turn on optional Pro cloud backup, your encrypted vault goes to your own iCloud or Google Drive, sealed with a recovery code only you hold. The design means I cannot read your data, and neither can Apple or Google - you can check the privacy model yourself on the [Privacy Verification page](https://traveldocumentvault.com/privacy-verification/). PIN lock and biometric lock (Face ID/Touch ID) are both free. Is it really a one-time purchase? Yes. Pro is $9.99 once, in US dollars. Each country's price is set locally rather than converted from dollars, and the store shows yours before you pay.* No subscription, no recurring charges, no "your trial is ending" emails. The free tier is genuinely free - 1 profile, 5 documents, all features including OCR and reminders.
+What happens if I lose my phone? Your documents are encrypted on your device. The local key stays in secure storage and is excluded from ordinary phone backups. Vault Export includes a password-encrypted copy of that key. A regular phone backup reinstalls the app but cannot restore your documents. Pro cloud backup restores with your recovery code on a supported phone on the same platform, using the same cloud account. Or use free Vault Export and Import. Restoring or importing replaces the local vault. Does it work without internet? Completely. The app stores everything on your device and needs no internet connection for everyday use. Reminders and locally saved document viewing work offline. OCR processing runs on your device. Is my data really safe? Your documents are encrypted with AES-256-GCM on your device, and the key is held in your phone's secure key storage, never included in a phone backup. There is no account to create and no Travel Document Vault server that holds your documents. If you turn on optional cloud backup (Pro), your vault is encrypted on your phone before upload and goes to your own iCloud or Google Drive, sealed with a recovery code only you hold. The design means I cannot read your data, and neither can Apple or Google - you can check the privacy model yourself on the [Privacy Verification page](https://traveldocumentvault.com/privacy-verification/). PIN lock and biometric lock (Face ID/Touch ID) are both free. Is it really a one-time purchase? Yes. Pro is $9.99 once, in US dollars. Each country's price is set locally rather than converted from dollars, and the store shows yours before you pay.* No subscription, no recurring charges, no "your trial is ending" emails. The free tier is genuinely free - 1 profile, 5 documents, all core features including OCR and reminders.
 
 * For v1.x. See [Pricing Policy](https://traveldocumentvault.com/pricing-policy/#version-policy).
 
-Can I use it for more than passports? Yes. It supports passports, visas, IDs, driver's licenses, insurance cards, airline tickets, and any document type you need. Each type has its own guided capture overlay. [See all FAQs →](https://traveldocumentvault.com/faq/)
+Can I use it for more than passports? Yes. It supports passports, visas, IDs, driving licences, insurance cards, airline tickets, and any document type you need. Each shape of document has its own guided capture overlay. [See all FAQs →](https://traveldocumentvault.com/faq/)
 
 **Important:** Travel Document Vault is a personal organisation tool for storing digital copies of your documents. **Digital copies stored in this app are NOT valid for travel.** It does not verify document authenticity or provide legal or travel advice. Always carry original documents and verify all travel requirements with official government sources.
 

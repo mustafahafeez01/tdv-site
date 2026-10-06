@@ -96,7 +96,7 @@ Flighty is the most direct replacement for real-time flight alerts. It tracks de
 
 ### Is there one app that replaces all of TripCase?
 
-No single app does everything TripCase did. Most ex-users end up with two or three tools: TripIt or Tripsy for itinerary parsing and timeline views, Flighty for flight alerts, and a separate offline app such as Travel Document Vault for document storage. That is more pieces, but it also means you are not relying on a single company's survival.
+You may need separate tools for itinerary parsing, flight alerts and document storage. Travel Document Vault stores document copies encrypted on your phone and lets you view them offline.
 
 ### Should I keep my travel documents in a cloud app?
 

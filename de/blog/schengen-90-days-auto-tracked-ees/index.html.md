@@ -72,7 +72,7 @@ Die manuelle Methode kommt zuerst, weil sie kostenlos und offiziell ist: Nehmen 
 
 Für eine Person, die ein- oder zweimal pro Jahr reist, ist das völlig machbar. Es wird schwieriger, wenn Reisen sich überschneiden und die Anzahl der Personen wächst: ein Geschäftsreisender mit monatlichen Kurzflügen, oder eine Familie, in der ein Kind einen Schüleraustausch macht, ein anderes zu Sommerlagerdaten reist, und ein Partner früher nach Hause fliegt. Jede Person hat ihr eigenes rollierendes Fenster, und die Fenster stimmen nicht überein. Dies ist die Situation, in der ein Tracking-Tool aufhört, ein Gadget zu sein, und anfängt, wie Sie einen teuren Fehler vermeiden – unser [Leitfaden zum Visa- und Einreise-Tracking](https://traveldocumentvault.com/de/blog/visa-expiry-tracker-app/) deckt das breitere Problem ab.
 
-Eine ehrliche Anmerkung: Keine App kann Ihren EES-Datensatz lesen, unsere eingeschlossen. Was ein Tracker macht, ist die offizielle 90/180-Arithmetik kontinuierlich auf die Reisedaten anzuwenden, die Sie ihm geben, für jeden Reisenden, den Sie hinzufügen. Die Grenze zählt, was passiert ist; ein guter Tracker zeigt, was Sie noch tun können.
+Travel Document Vault liest Ihren EES-Datensatz nicht aus. Mit Pro zählt die App gespeicherte Reisen anhand der von Ihnen festgelegten Tageslimits pro Land. Sie berechnet kein gemeinsames Schengen-weites Kontingent nach der 90/180-Regel; prüfen Sie deshalb Ihre Gesamtaufenthaltsdauer im Schengen-Raum gesondert.
 
 ## Drei Dinge, die EES nicht ist
 
@@ -108,7 +108,7 @@ Nein. Das EES ist jetzt aktiv und erfasst Ihre Ein- und Ausreise an der Grenze. 
 
 ### Wie hilft Travel Document Vault bei der 90/180-Regel?
 
-Die App zählt Tage pro Person, pro Land und über alle Ihre Reisen in dieses Land hinweg und projiziert Ihr rollierendes Fenster voraus, bevor Sie buchen. Sie kann Ihr EES-Profil nicht auslesen – keine App kann das – aber mit Pro wendet sie eine rollierende 90/180-Zählung auf Ihre Reisen in jedes Land an, für das Sie ein Limit festlegen, sodass die verbleibenden Tage jedes Familienmitglieds dort auf einen Blick sichtbar sind.
+Mit Pro zählt die App gespeicherte Reisetage pro Person und Land und berechnet das rollierende Zeitfenster für die von Ihnen festgelegten Limits voraus. Sie liest Ihren EES-Datensatz nicht aus und berechnet kein gemeinsames Schengen-weites Kontingent nach der 90/180-Regel. Sie können die verbleibenden Tage jedes Familienmitglieds für ein Land sehen, müssen aber die Schengen-Gesamtsumme gesondert prüfen.
 
 ## Verwandte Artikel
 

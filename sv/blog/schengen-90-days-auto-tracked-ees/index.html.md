@@ -72,7 +72,7 @@ Den manuella metoden kommer först, eftersom den är gratis och officiell: ta da
 
 För en enskild person som tar en eller två semestrar om året är det helt hanterbart. Det blir svårare när resor överlappar och personer blir fler: en affärsresenär som gör korta resor varje månad, eller en familj där ett barn är på skolutbyte, ett annat har lägervistelse och en partner flyger hem tidigare. Varje person har sitt eget rullande fönster, och fönstren stämmer inte överens. Det är i det läget ett spårningsverktyg slutar vara en pryl och blir sättet du undviker ett dyrt misstag på – vår [guide till visum- och inresespårning](https://traveldocumentvault.com/sv/blog/visa-expiry-tracker-app/) går igenom det bredare problemet.
 
-En ärlig notering: ingen app kan läsa ditt EES-register, vår inkluderad. Det ett spårningsverktyg gör är att tillämpa den officiella 90/180-beräkningen på de resedatum du matar in, kontinuerligt, för varje resenär du lägger till. Gränsen räknar vad som har hänt; ett bra spårningsverktyg visar vad du fortfarande kan göra.
+Travel Document Vault läser inte ditt EES-register. Med Pro räknar den sparade resor mot de dagsgränser du anger per land. Den beräknar inte en sammanlagd 90/180-gräns för hela Schengenområdet, så kontrollera din totala tid i området separat.
 
 ## Tre saker EES inte är
 
@@ -108,7 +108,7 @@ Nej. EES är i drift nu och registrerar din in- och utresa vid gränsen. ETIAS �
 
 ### Hur hjälper Travel Document Vault till med 90/180-regeln?
 
-Appen räknar dagar per person, per land, över alla dina resor till det landet, och projicerar ditt rullande fönster framåt innan du bokar. Den läser inte ditt EES-register – det kan ingen app göra – men med Pro tillämpar den en rullande 90/180-beräkning på dina resor till varje land du ställer in en gräns för, så att varje familjemedlems kvarvarande dagar där syns direkt.
+Med Pro räknar appen sparade resdagar per person och land och projicerar det rullande fönstret framåt för de gränser du anger. Den läser inte ditt EES-register och beräknar inte en sammanlagd 90/180-gräns för hela Schengenområdet. Du kan se varje familjemedlems kvarvarande dagar för ett land, men måste kontrollera Schengentotalen separat.
 
 ## Relaterade artiklar
 

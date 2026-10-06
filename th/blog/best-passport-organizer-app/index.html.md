@@ -82,7 +82,7 @@ Source: https://traveldocumentvault.com/th/blog/best-passport-organizer-app/
 
 ## แนวทางของ Travel Document Vault
 
-**Travel Document Vault** ใช้แนวทางเน้นความเป็นส่วนตัวและออฟไลน์เป็นหลักตามที่อธิบายไว้ข้างต้น ข้อมูลของคุณอยู่ในเครื่อง เข้ารหัสด้วย AES-256 ไม่ต้องสมัครบัญชี คุณเลือกสำรองข้อมูลที่เข้ารหัสไว้ขึ้น iCloud หรือ Google Drive ของคุณเองได้ (ฟีเจอร์ Pro) รองรับผู้เดินทางหลายคน ติดตามวันหมดอายุของพาสปอร์ตและวีซ่า และใช้งานได้แบบออฟไลน์เต็มรูปแบบ เป็นการซื้อครั้งเดียว ไม่มีค่าสมาชิกรายเดือน ดาวน์โหลดได้ทั้งบน [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) และ [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog)
+**Travel Document Vault** เก็บเอกสารของคุณไว้บนอุปกรณ์ด้วยการเข้ารหัส AES-256 โดยไม่ต้องมีบัญชีแอป เปิดดูเอกสารที่บันทึกไว้และรับการแจ้งเตือนวันหมดอายุพาสปอร์ตและวีซ่าได้แบบออฟไลน์ คุณแชร์หรือส่งออกสำเนาได้ หรือใช้ Pro เพื่อสำรองข้อมูลแบบเข้ารหัสไปยัง iCloud หรือ Google Drive ของคุณเอง Pro ยังเพิ่มสมาชิกทั้งครอบครัวได้ แอปดาวน์โหลดฟรี ส่วน Pro เป็นการซื้อในแอปครั้งเดียว ไม่มีค่าสมาชิกรายเดือน ดาวน์โหลดได้ทั้งบน [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) และ [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog)
 
 ## รายการตรวจสอบก่อนดาวน์โหลด
 

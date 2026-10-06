@@ -67,7 +67,7 @@ Tantangan praktis dalam mengelola dokumen perjalanan adalah ini: kartu ID dan pa
 
 Bagian yang lebih sulit adalah **tidak ada dokumen yang mengirimkan pengingat kepada Anda.** Anda harus memeriksanya sendiri. Kebanyakan orang tidak melakukannya, sampai mereka berada di meja check-in dan petugas memberi tahu bahwa salah satu dokumen terlalu dekat dengan kedaluwarsa untuk diterima.
 
-Yang membantu adalah satu tempat untuk kedua dokumen, yang membaca masing-masing tanggal kedaluwarsa saat Anda memindainya dan mengingatkan Anda secara terpisah untuk setiap dokumen, sesuai jadwal yang berlaku untuk jenis dokumen tersebut. Lihat panduan kami tentang [menyusun daftar periksa dokumen lengkap sebelum bepergian](https://traveldocumentvault.com/id/blog/travel-document-checklist/) untuk gambaran selengkapnya tentang apa yang perlu diverifikasi sebelum Anda bepergian.
+Yang membantu adalah satu tempat untuk kedua dokumen, yang menyimpan masing-masing tanggal kedaluwarsa dan mengingatkan Anda secara terpisah untuk setiap dokumen, sesuai jadwal yang berlaku untuk jenis dokumen tersebut. Lihat panduan kami tentang [menyusun daftar periksa dokumen lengkap sebelum bepergian](https://traveldocumentvault.com/id/blog/travel-document-checklist/) untuk gambaran selengkapnya tentang apa yang perlu diverifikasi sebelum Anda bepergian.
 
 Mulailah hari ini: ambil kartu ID Anda, periksa tanggal kedaluwarsanya, dan amati apakah ada retak, pudar, atau plastik yang melengkung. Kalau kondisinya mendekati batas, ajukan perpanjangan sebelum Anda memesan perjalanan.
 

@@ -64,7 +64,7 @@ This table is a snapshot, not the full picture: requirements vary by your nation
 
 Passport validity requirements by country change without notice, and a bilateral agreement can quietly shift the rules for your specific passport, which is why checking an up-to-date official source before every international trip isn't paranoia, it's just good practice: use the IATA Travel Centre, the same system airlines use to check passenger documents in real time.
 
-**Travel Document Vault** flags any passport that will not still have six months left when your trip ends - for every family member, automatically. [Download on the App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) and [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
+With Pro, **Travel Document Vault** checks linked passports against a default 180-day buffer after your saved trip ends, unless you set a custom validity buffer. Check your destination’s actual rule separately. [Download on the App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) and [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
 
 ## When the 6-Month Rule Does Not Apply
 
@@ -104,7 +104,7 @@ Treat your passport like a car tyre and don't wait until it's flat: renew as soo
 
 Before any trip, count six months forward from the day you leave the destination, which is the later date and so satisfies either version of the rule. Check your passport expiry against that date - not just your travel dates.
 
-Managing multiple passports across a family with different expiry dates is where it gets messy. [Travel Document Vault](https://traveldocumentvault.com) tracks this automatically - storing each family member's passport expiry and sending reminders from eight months out and again as the date closes in, so there's no mental arithmetic before every booking. You can also find more practical [travel document tips](https://traveldocumentvault.com/blog/) on the blog.
+Managing multiple passports across a family with different expiry dates is where it gets messy. [Travel Document Vault](https://traveldocumentvault.com) tracks your passport expiry, and you can add the whole family with Pro. Passport reminders start eight months before expiry by default and repeat as the date approaches. Check your destination’s validity rule before booking. You can also find more practical [travel document tips](https://traveldocumentvault.com/blog/) on the blog.
 
 ## A Note on Checking Requirements Before You Travel
 
@@ -144,7 +144,7 @@ Yes. Airlines check passport validity using an industry-wide database of entry r
 
 ### How do I check if my passport meets the 6-month rule?
 
-Count six months forward from the day you leave the destination, then check whether your passport expires after that date. That is the later of the two dates countries use, so it covers both. If you're due to leave on 1 August, your passport needs to be valid until at least 1 February the following year. Apps like Travel Document Vault track this automatically for every family member, so you don't have to do the maths before every trip.
+Count six months forward from the day you leave the destination, then check whether your passport expires after that date. That is the later of the two dates countries use, so it covers both. If you're due to leave on 1 August, your passport needs to be valid until at least 1 February the following year. With Pro, Travel Document Vault checks linked passports against a default 180-day buffer after your saved trip ends, unless you set a custom validity buffer. Check the destination’s actual rule separately; 180 days is not always six calendar months.
 
 ### Do I need six months on my passport to travel to Europe?
 
@@ -152,7 +152,7 @@ No, but you do need more than duration of stay. The UK Foreign Office states tha
 
 ### What if one family member's passport meets the rule but another's doesn't?
 
-Each family member's passport is assessed individually - there's no group rule. This means one passport could meet the 6-month requirement while another falls short, potentially preventing that person from travelling. Check every passport in the group against the destination's validity requirements before booking. Apps like Travel Document Vault let you track each family member's passport expiry separately so you catch these gaps before check-in does.
+Each family member's passport is assessed individually - there's no group rule. This means one passport could meet the 6-month requirement while another falls short, potentially preventing that person from travelling. Check every passport in the group against the destination's validity requirements before booking. Travel Document Vault tracks your passport expiry, and you can add each family member with Pro. Check their dates against the destination's rule before booking.
 
 ### Can I travel if my passport expires in 3 months?
 

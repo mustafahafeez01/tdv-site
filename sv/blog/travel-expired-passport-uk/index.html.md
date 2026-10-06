@@ -88,7 +88,7 @@ Det gäller oavsett om passet gick ut innan du lämnade Storbritannien eller med
 
 [Om ditt pass redan har gått ut och du letar efter vad du ska göra härnäst går vår kompletterande artikel igenom det steg för steg](https://traveldocumentvault.com/sv/blog/passport-expired-what-to-do/). Har du en resa på gång och ditt pass närmar sig utgångsdatumet är det här läget att förnya i stället för att vänta tills det går ut, vilket innebär att du betalar för Premiumtjänsten i stället för standardavgiften. Kontrollera familjens pass nu innan ni bokar någon resa.
 
-**Ställ in påminnelser om utgångsdatum flera månader i förväg, inte veckor.** [Travel Document Vault håller koll på utgångsdatum för varje pass i hushållet och skickar påminnelser från åtta månader innan, och sedan igen allteftersom utgångsdatumet närmar sig](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/), så att du kan förnya via standardhandläggning och slippa nödavgifter.
+**Ställ in påminnelser om utgångsdatum flera månader i förväg, inte veckor.** [Travel Document Vault håller koll på passets utgångsdatum och skickar påminnelser från åtta månader före utgångsdatumet som standard, och sedan igen när datumet närmar sig](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/). Lägg till varje pass i hushållet med Pro. Använd påminnelserna för att planera förnyelser.
 
 ## Om du redan är utomlands och passet går ut
 

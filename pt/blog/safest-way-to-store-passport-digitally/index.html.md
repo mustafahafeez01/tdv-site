@@ -67,25 +67,25 @@ Se a sua conta Google for comprometida, alguém com acesso pode recuperar as sua
 
 ## Opção 3: Aplicações Encriptadas Dedicadas
 
-Uma aplicação encriptada dedicada concebida para documentos de viagem funciona inteiramente no seu dispositivo e nunca envia dados para servidores externos.
+Travel Document Vault guarda os documentos no telemóvel por predefinição. Pode partilhar ou exportar cópias, ou fazer uma cópia de segurança para o seu próprio iCloud ou Google Drive com Pro.
 
 ### Como funciona
 
-Quando adiciona a sua digitalização de passaporte à aplicação, é encriptada usando AES-256 e armazenada inteiramente no seu telefone. A aplicação funciona totalmente offline — não é necessária conta, não é necessário servidor. Se deseja acesso entre dispositivos, uma funcionalidade Pro opcional faz cópia de segurança de uma cópia encriptada para o seu próprio iCloud ou Google Drive, selada com um código de recuperação que apenas você tem.
+Quando adiciona a sua digitalização de passaporte à aplicação, é encriptada usando AES-256 e armazenada inteiramente no seu telefone. A aplicação funciona totalmente offline — não é necessária conta, não é necessário servidor. Com Pro, pode fazer uma cópia de segurança encriptada para o seu próprio iCloud ou Google Drive e sincronizá-la entre dispositivos configurados na mesma plataforma. Vai precisar do código de recuperação para restaurar uma cópia de segurança na nuvem.
 
 ### Propriedades de segurança
 
-- **Encriptação AES-256 no dispositivo:** Sim. Os dados nunca saem do seu telemóvel.
-- **Requer conta:** Não. Nenhuma conta, nenhum servidor, nenhuma autenticação.
-- **Envio para a cloud:** Não. Nenhum.
+- **Encriptação AES-256 no dispositivo:** Sim. Os dados ficam no telemóvel, salvo se os partilhar ou exportar, ou ativar a cópia de segurança encriptada para o seu próprio iCloud ou Google Drive (Pro).
+- **Requer conta:** Não. Sem conta ou autenticação TDV; a cópia de segurança encriptada opcional para o seu próprio iCloud ou Google Drive (Pro) usa a sua conta na nuvem.
+- **Envio para a cloud:** Cópia de segurança encriptada opcional para o seu próprio iCloud ou Google Drive (Pro); também pode partilhar ou exportar cópias.
 - **Funciona offline:** Sim, totalmente.
 - **Concebido para documentos de identidade:** Sim. Toda a arquitetura é otimizada para manter documentos sensíveis privados.
 
 ### Compensações
 
-As vantagens de segurança são substanciais: os dados do seu passaporte nunca são transmitidos ou armazenados num servidor remoto, portanto nunca são acessíveis por mais ninguém, e não existe servidor remoto para comprometer se alguém ganha acesso não autorizado aos sistemas da empresa da aplicação. Isto significa que mantém controlo e propriedade completos dos seus documentos em todos os momentos.
+Travel Document Vault mantém os documentos no telemóvel por predefinição. A partilha e a exportação são opcionais, tal como a cópia de segurança encriptada para o seu próprio iCloud ou Google Drive com Pro.
 
-Contudo, este desenho vem com conveniência reduzida uma vez que não pode aceder automaticamente à sua cópia de passaporte entre vários dispositivos. Se perder o seu telemóvel, a aplicação não restaura automaticamente os seus documentos — teria de restaurar manualmente de uma cópia de segurança. Para a maioria das famílias a viajar juntas, guardar documentos no telemóvel de um progenitor é suficiente, e muitas aplicações suportam sincronização manual via cópia de segurança, o que adiciona uma camada de flexibilidade sem exigir envio automático para a cloud.
+Com Pro, pode sincronizar documentos entre dispositivos configurados na mesma plataforma. Se perder o telemóvel, restaure uma cópia de segurança guardada. A restauração na nuvem exige o código de recuperação. Para a maioria das famílias a viajar juntas, guardar documentos no telemóvel de um progenitor é suficiente, e muitas aplicações suportam sincronização manual via cópia de segurança, o que adiciona uma camada de flexibilidade sem exigir envio automático para a cloud.
 
 ## Tabela de Comparação Direta
 
@@ -95,8 +95,8 @@ Contudo, este desenho vem com conveniência reduzida uma vez que não pode acede
 | Encriptado de ponta a ponta | Opcional (Advanced Data Protection) | Não | Sim (sempre) |
 | Conta obrigatória | Sim (Apple ID) | Sim (conta Google) | Não |
 | Funciona totalmente offline | Não (precisa de sincronização) | Não (precisa de sincronização) | Sim |
-| Risco de violação remota | Médio (servidores da Apple) | Médio-Alto (servidores do Google + análise de conteúdo) | Nenhum (nenhum armazenamento remoto) |
-| Acesso entre dispositivos | Automático | Automático | Apenas cópia de segurança manual |
+| Risco de violação remota | Médio (servidores da Apple) | Médio-Alto (servidores do Google + análise de conteúdo) | Cópia de segurança encriptada opcional para o seu próprio iCloud ou Google Drive (Pro) |
+| Acesso entre dispositivos | Automático | Automático | Exportação manual do cofre; cópia de segurança automática na nuvem e sincronização opcionais (Pro) |
 | Custo | Grátis (200GB), depois pago | Grátis (15GB), depois pago | Normalmente compra única |
 | Concebido para documentos de identidade | Não | Não | Sim |
 
@@ -130,7 +130,7 @@ Google Photos não é encriptado de ponta a ponta por padrão. O Google indexa e
 
 ### Quais são as vantagens de uma aplicação encriptada dedicada para armazenamento de passaportes?
 
-Uma aplicação encriptada dedicada concebida especificamente para documentos de viagem normalmente guarda dados no dispositivo usando encriptação AES-256, não requer conta ou envio para a cloud, funciona offline, e tem uma área de superfície de falha muito menor. Porque os dados do seu passaporte nunca saem do seu telemóvel, não existe servidor remoto para ser comprometido. A compensação é conveniência reduzida para acesso entre dispositivos, mas para utilizadores focados em segurança, este é o método de armazenamento mais seguro disponível.
+Travel Document Vault encripta os ficheiros originais dos seus documentos com AES-256 e permite consultá-los offline sem conta na aplicação. Pode partilhar ou exportar cópias. Pro acrescenta cópia de segurança encriptada opcional para o seu próprio iCloud ou Google Drive e sincronização entre dispositivos configurados na mesma plataforma.
 
 ### Posso usar vários métodos de armazenamento para o mesmo passaporte?
 

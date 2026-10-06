@@ -1,16 +1,16 @@
 # Scan, Volg & Bescherm Documenten | Travel Document Vault
 
-> OCR-scan, vervalherinnering, reisplanner, gezinsprofielen, dagenteller per land, versleutelde backup. Geen accounts, geen servers.
+> Scan paspoorten: vervalherinneringen offline, zonder account. Pro: gezinsprofielen en daglimieten per land op basis van uw ingevoerde regels.
 
 Source: https://traveldocumentvault.com/nl/features/
 
 ---
 
-Privacy-first. Op het apparaat opgeslagen. Geen accounts nodig.
+Privacy-first. Standaard op het apparaat opgeslagen. Geen accounts nodig.
 
 # Volg Alles. Onthoud Niets.
 
-Een reisdocumentorganisator voor bezorgde ouders, zakenreizigers en eerstekeer vliegers: alle documenten op één plaats, vervaldatumwaarschuwingen aan, gemoedsrust behouden.
+U kunt paspoorten, visa, rijbewijzen, nationale identiteitskaarten, reisverzekeringsdocumenten en andere reisdocumenten opslaan. Met Pro ondersteunt de app meerdere profielen, zodat u documenten voor uw hele gezin op één plek kunt beheren.
 
 ![Download van de App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
@@ -18,47 +18,47 @@ Een reisdocumentorganisator voor bezorgde ouders, zakenreizigers en eerstekeer v
 
 [Over ons versiebeleid →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
-Voor reizen en reisdagen
+Plan reizen en houd daglimieten bij
 
 ## Mis Nooit een Reisdatum
 
-Plan reizen samen, volg toelages, ken je visumlimieten.
+Plan met Pro reizen samen, volg toelages en ken je visumlimieten.
 
 Pro
 
 ### Iedereen Klaar, In Een Oogopslag
 
-Groepeer documenten per reis. Zie familiebereidschap in één oogopslag met ampelweergave. Identificeer problemen weken van tevoren, niet op het vliegveld.
+Groepeer documenten per reis. Zie via de ampelweergave in één oogopslag welke gekoppelde documenten aandacht nodig hebben aan de hand van uw opgeslagen reisdatums. Identificeer problemen weken van tevoren, niet op het vliegveld.
 
 Pro
 
 ### Uw cloud. Uw sleutel.
 
-Optionele versleutelde back-up in uw persoonlijke iCloud of Google Drive. U houdt de herstelcode. We raken het nooit aan. Multi-apparaat-sync zonder vertrouwen.
+Optionele versleutelde back-up (Pro) in uw persoonlijke iCloud of Google Drive. Herstel met uw herstelcode. Schakel synchronisatie in om dezelfde kluis te gebruiken op ondersteunde apparaten op hetzelfde platform.
 
 Pro
 
 ### Volg Dagen Buiten Het Land
 
-Volg de dagen die in elk land zijn doorgebracht, per reis en per gezinslid. Stel aangepaste daglimieten in zodat u altijd weet hoe u ervoor staat met visaduur en inreisvoorwaarden. Controleer de regels op het [IATA Travel Centre](https://www.iatatravelcentre.com/) voor uw bestemming.
+Volg met Pro de dagen die in elk land zijn doorgebracht, per reis en per gezinslid. Vergelijk uw opgeslagen reisdagen met de daglimieten die u per land invoert. Controleer de regels op het [IATA Travel Centre](https://www.iatatravelcentre.com/) voor uw bestemming.
 
 Pro
 
 ### Reistoelages
 
-Bepaal aangepaste daglimieten per land en per gezinslid. Stel uw eigen doelen in om bewust te blijven van hoeveel dagen u in het buitenland hebt doorgebracht – wat uw reisregels ook zijn.
+Bepaal met Pro aangepaste daglimieten per land en per gezinslid. Stel uw eigen doelen in om bij te houden hoeveel dagen uw opgeslagen reizen beslaan, met een vaste of voortschrijdende telperiode.
 
 Pro
 
 ### Reis-PDF Exporteren
 
-Exporteer elke reis als één verzorgde PDF: omslag, paspoorten van deelnemers, itinerarium, activiteiten en documenten op volgorde. Pro-exports zien er professioneel uit en zijn gereed om te delen met luchtvaartmaatschappijen, ambassades of familie.
+Exporteer met Pro elke reis als één verzorgde PDF: omslag, paspoorten van deelnemers, itinerarium, activiteiten en documenten op volgorde. Exports zien er professioneel uit en zijn gereed om te delen met luchtvaartmaatschappijen, ambassades of familie.
 
 Pro
 
 ### Poort Klaar
 
-Bevestig vluchtnummers, hotelbevestigingen en boeking-referenties aan een reis. Documenten en boekingen op één plaats – tik eenmaal bij inchecken. Niets om te zoeken.
+Bevestig met Pro vluchtnummers, hotelbevestigingen en boeking-referenties aan een reis. Documenten en boekingen op één plaats – tik eenmaal bij inchecken. Niets om te zoeken.
 
 Documentbeheer
 
@@ -66,7 +66,7 @@ Documentbeheer
 
 ### Paspoorten
 
-Leg zowel de fotopagina als de gegevenspagina vast. MRZ-scanning leest de machineleesbare zone om naam, nummer en vervaldatum direct automatisch in te vullen.
+Leg het opengeslagen paspoort in één opname vast. MRZ-scanning leest de machineleesbare zone om de vervaldatum en het land van afgifte in te vullen wanneer dat lukt. Bevestig de resultaten of voer ze zelf in. Tekstherkenning vindt op uw apparaat plaats.
 
 ### Versleutelde Opslag
 
@@ -78,11 +78,11 @@ Voor- en achterkant vastleggen in één document. Perfect voor rijbewijzen, nati
 
 ### Verzekerings- en Zorgpassen
 
-Sla ziektekostenverzekeringspassen, reisverzekeringspolicies en herhaalde recepten op met vervalherinneringen. Mis nooit een verlenging en word altijd op tijd gewaarschuwd.
+Sla ziektekostenverzekeringspassen, reisverzekeringspolicies en herhaalde recepten op met vervalherinneringen. Herinneringen beginnen standaard drie maanden voor de vervaldatum.
 
 ### Visa en Documenten
 
-Gespecialiseerde A5 / halve pagina ondersteuning voor visum postzegels en stickers. Volledige A4-ondersteuning voor e-visa, reisverzekeringspolicies en grote documenten. Ondersteunt bestanden met meerdere pagina's.
+Gespecialiseerde A5 / halve pagina ondersteuning voor visum postzegels en stickers. Volledige A4-ondersteuning voor e-visa, reisverzekeringspolicies en grote documenten. Ondersteunt bestanden met meerdere pagina's met Pro.
 
 ### Vliegkaartjes
 
@@ -90,7 +90,7 @@ Sla instapkaarten en e-kaartjes op met veelvuldige afteltijdherinneringen.
 
 ### Flexibele Import
 
-Importeer bestaande PDF-bestanden of afbeeldingen uit uw fotobibliotheek. Bestaande scans worden moeiteloos geïmporteerd.
+Importeer bestaande PDF-bestanden of afbeeldingen uit uw fotobibliotheek. Open uw opgeslagen scans zonder opnieuw te scannen.
 
 ### Opgeslagen Documenten Bewerken
 
@@ -120,17 +120,17 @@ Sla cadeaukaarten, kortingscodes, evenemententickets en attractiepassen op. Ontv
 
 ### Herinneringen Uitstellen
 
-Stel een vervaldatum herinnering uit zonder het document te bewerken. Stel uit voor een dag, een week of een maand – de herinnering wordt automatisch hervat wanneer de uitstelperiode eindigt.
+Stel een vervaldatum herinnering uit zonder het document te bewerken. Plan een geselecteerde herinnering opnieuw voor over één uur, drie uur, morgen of volgende week.
 
 ### Documenten Kleurcoderen
 
-Wijs een kleur toe aan elk documenttype of individueel document voor directe visuele herkenning. Vervang kleuren per profiel, zodat u in één oogopslag de kluis van uw hele gezin kunt overzien.
+Wijs met Pro een kleur toe aan elk documenttype of individueel document voor directe visuele herkenning. Vervang kleuren per profiel, zodat u in één oogopslag de kluis van uw hele gezin kunt overzien.
 
 ### Exporteren, Back-up & Herstel
 
 PRO
 
-Genereer gecombineerde PDF's van meerdere documenten en maak een back-up van uw versleutelde kluis naar uw eigen iCloud of Google Drive, met herstel met één tik op elk apparaat. Gratis Vault Export en herstel zijn altijd inbegrepen.
+Vault Export en Import zijn gratis voor iedereen. Pro voegt gecombineerde PDF's en een versleutelde cloudback-up naar uw eigen iCloud of Google Drive toe. Herstel cloudback-ups met uw herstelcode op een compatibel apparaat op hetzelfde platform, met hetzelfde cloudaccount.
 
 Slim Scannen
 
@@ -158,7 +158,7 @@ Slimme Herinneringen
 
 ## Blijf Voor op Deadlines
 
-Een gemiddelde paspoortverlenging duurt **6-8 weken**. Wij herinneren u **8 maanden van tevoren**, niet 6 dagen.
+Herinneringen starten vanzelf, afgestemd op het documenttype. Paspoorten beginnen **8 maanden voor de vervaldatum**, met vervolgmomenten na 6 maanden, 3 maanden, 6 weken, 1 maand, 2 weken en 1 week, en verdere herinneringen op de vervaldag en daarna. Visa, nationale ID’s en reisverzekeringen beginnen **3 maanden van tevoren**. Vliegtickets, hotelboekingen en vouchers beginnen een week van tevoren. Pro-gebruikers kunnen voor elk document een ander startmoment kiezen.
 
 #### Paspoortherinneringen
 
@@ -170,7 +170,7 @@ Een gemiddelde paspoortverlenging duurt **6-8 weken**. Wij herinneren u **8 maan
 
 #### Vliegticketherinneringen
 
-1 week 2 dagen 1 dag 24 uur Reisdag
+1 week 2 dagen 1 dag 24 uur
 
 **Herinneringen na vervaldatum** (weergegeven in oranje) helpen u op de hoogte te blijven van verlopen documenten. Ook als u de vervaldatum heeft gemist, ontvangt u nog steeds herinneringen om te verlengen. Perfect voor documenten die verlopen tijdens uw reis.
 
@@ -180,7 +180,7 @@ Gezinsprofielen
 
 ### Afzonderlijke Profielen
 
-Maak een profiel voor elk gezinslid. Houd ieders documenten overzichtelijk en gemakkelijk terug te vinden.
+Maak met Pro een profiel voor elk gezinslid. Houd ieders documenten overzichtelijk en gemakkelijk terug te vinden.
 
 ### Profielspecifieke Weergaven
 
@@ -208,7 +208,7 @@ Past zich aan uw systeeminstellingen aan. Mooi in beide weergaven.
 
 Veeg tussen documentzijden. Knijp om tot 5x in te zoomen voor gedetailleerde inspectie.
 
-### Snelle Weergave
+### Ingebouwde PDF-viewer
 
 Native PDF-weergave-integratie. Snel, vertrouwd en veelzijdig.
 
@@ -220,11 +220,11 @@ Beschikbaar in meer dan 40 talen, zodat de app zich native voelt waar je ook ben
 
 ### Ontworpen voor Toegankelijkheid
 
-Volledige VoiceOver- en TalkBack-ondersteuning. Dynamic Type schaalt elk label mee met uw systeemlettergrootte. Elke knop voldoet aan het minimale aanraakdoel van 44pt.
+Ontworpen voor VoiceOver en TalkBack. Tekst schaalt mee met uw systeemlettergrootte en de gedeelde stijlen voor bedieningselementen mikken op aanraakvlakken van 44pt (48dp op Android).
 
 ### Doordachte Haptiek
 
-Subtiele haptische feedback bevestigt elke actie. Opslaan, verwijderen en scannen hebben allemaal een onderscheidende tactiele reactie zodat u altijd weet dat iets is gelukt.
+Belangrijke acties gebruiken haptische feedback waar uw apparaat dit ondersteunt.
 
 Privacy & Beveiliging
 
@@ -232,11 +232,11 @@ Privacy & Beveiliging
 
 ### Uw Gegevens Blijven van U
 
-We hebben dit zo ontworpen dat u ons uw gegevens niet hoeft te vertrouwen. We hebben geen servers en geen toegang. Alleen u en uw apparaat.
+We hebben dit zo ontworpen dat u ons uw gegevens niet hoeft toe te vertrouwen. Wij hebben geen servers die uw documenten bewaren en geen toegang tot uw documenten, dus standaard blijft uw kluis op uw apparaat. Als u de optionele Pro-back-up naar uw eigen iCloud of Google Drive kiest, is die beveiligd met een herstelcode die alleen u hebt en blijft die voor ons onleesbaar.
 
 ### Werkt Offline
 
-Geen internet vereist. Werkt volledig offline.
+Kluisgegevens worden op uw apparaat versleuteld; documentbestanden gebruiken AES-256-GCM. Opgeslagen documenten, vervaldatums en geplande herinneringen werken offline.
 
 ### Geen Tracking
 
@@ -244,11 +244,11 @@ Geen analytics. Geen advertenties. Geen verborgen SDK's die uw gegevens verzamel
 
 ### Privémeldingen
 
-Herinneringen onthullen nooit documentdetails. Slechts "Een document verloopt binnenkort."
+Herinneringen bevatten geen scanafbeeldingen of een apart veld voor het documentnummer. De herinneringstekst kan de opgeslagen documenttitel bevatten, dus zet daar geen gevoelige nummers in.
 
 ### U Bepaalt het Delen
 
-Gegevens verlaten het apparaat alleen wanneer u expliciet kiest om te delen via het systeemdeelvenster. Inclusief waarschuwingen voor gevoelige inhoud.
+Documentbestanden verlaten het apparaat wanneer u ze via het systeemdeelvenster deelt, exporteert of een versleutelde back-up inschakelt (Pro). Inclusief waarschuwingen voor gevoelige inhoud.
 
 ### PIN-vergrendeling
 
@@ -260,11 +260,11 @@ Ontgrendel met Face ID of Touch ID in plaats van PIN. Gratis voor alle gebruiker
 
 ### Schermopnamebescherming
 
-Documentschermen worden automatisch beschermd tegen screenshots en schermopnames. Uw gevoelige informatie blijft op het scherm, niet in iemands camera-opslag.
+Bescherming tegen schermopnamen staat standaard aan op documentschermen waar dit wordt ondersteund. Dit helpt onbedoelde kopieën te beperken.
 
 ### Versleutelde Opslag
 
-Documenten worden op uw apparaat versleuteld met industriestandaard versleuteling. Uw gegevens zijn beschermd, zelfs als uw apparaat gecompromitteerd is.
+Documenten worden op uw apparaat versleuteld met industriestandaard versleuteling. Versleutelde documentbestanden hebben hun versleutelingssleutel nodig om te worden gelezen; gedeelde originelen zijn leesbaar.
 
 Batchbewerkingen
 
@@ -278,17 +278,17 @@ Druk lang op een documentkaart voor direct toegang tot snelle acties: PDF export
 
 PRO
 
-Tik op "Selecteren" om meerdere documenten tegelijk te kiezen. Gebruik het gecombineerde actiemenu voor batchexport, delen of verwijderen van uw selectie.
+Tik op "Selecteer" om meerdere documenten tegelijk te kiezen. Gebruik het menu Acties om uw selectie in een batch te exporteren of te delen (Pro), of om deze te verwijderen.
 
 ### Batch Delen
 
 PRO
 
-Deel meerdere originele documentbestanden tegelijk via het deelvenster van uw apparaat (e-mail, berichten en meer). Bestanden worden alleen veilig ontsleuteld tijdens het delen.
+Deel met Pro meerdere originele documentbestanden via opeenvolgende deelvensters (e-mail, berichten en meer). De app ontsleutelt originelen om ze te delen, maar ook om ze te bekijken en te bewerken.
 
 #### Veilig Verwijderen met Ongedaan Maken
 
-Per ongeluk een document verwijderd? Tik onmiddellijk op Ongedaan maken om het te herstellen. Het venster gemist? Het gaat naar Onlangs verwijderd, waar het 30 dagen blijft voordat het permanent wordt verwijderd – u een veiligheidsnet geven zonder uw privacy in gevaar te brengen.
+Per ongeluk een document verwijderd? Tik onmiddellijk op Ongedaan maken om het te herstellen. Het venster gemist? Het gaat naar Recent verwijderd. Als cloudback-up uit staat, verwijdert de app het automatisch na 30 dagen; met cloudback-up aan blijft het staan totdat u het permanent verwijdert. U kunt het ook eerder permanent verwijderen.
 
 **Belangrijk:** Travel Document Vault is een persoonlijk organisatiehulpmiddel voor het opslaan van digitale kopieën van uw documenten. **Digitale kopieën die in deze app zijn opgeslagen zijn NIET geldig voor reizen.** De app verifieert geen documentauthenticiteit en geeft geen juridisch of reisadvies. Draag altijd originele documenten bij u en controleer alle reiseisen via officiële overheidsinstanties.
 

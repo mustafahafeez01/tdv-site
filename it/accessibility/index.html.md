@@ -10,16 +10,16 @@ Source: https://traveldocumentvault.com/it/accessibility/
 
 ### Supporto VoiceOver
 
-Ogni schermata di Travel Document Vault è completamente narrata con VoiceOver. Navighi, scandisca documenti, imposti promemoria e gestisca il Suo archivio con gesti, tastiera, braille e output vocale.
+Travel Document Vault è sviluppato per funzionare con VoiceOver. L’app include etichette di accessibilità e annunci per i lettori di schermo.
 
-- Etichette descrittive per tutti gli elementi interattivi
+- Etichette descrittive per gli elementi interattivi
 - Gerarchia di intestazioni corretta per una navigazione agevole
 - Descrizioni significative per pulsanti e controlli
 - Annunci di stato per le modifiche importanti
 
 ### Testo grande (Tipo dinamico)
 
-Tutto il testo nell'app si adatta alle preferenze di dimensione del testo di sistema. Aumenta la dimensione del testo fino al 200% o più e il layout dell'app si adatta automaticamente.
+Il testo nell’app si adatta alle preferenze di dimensione del testo di sistema. I limiti di ingrandimento variano da un elemento all’altro.
 
 Regoli la dimensione del testo in **Impostazioni → Accessibilità → Schermo e dimensioni testo → Testo più grande** sul Suo dispositivo.
 
@@ -27,17 +27,17 @@ Regoli la dimensione del testo in **Impostazioni → Accessibilità → Schermo 
 
 Travel Document Vault supporta sia la modalità chiara che quella scura. L'app adatta automaticamente l'aspetto di sistema, oppure è possibile impostare il tema preferito nelle Impostazioni.
 
-Opzioni: **Sistema (Auto)**, **Chiaro** o **Scuro**.
+Opzioni: **Automatico (Sistema)**, **Chiaro** o **Scuro**.
 
 ### Contrasto sufficiente
 
-Tutti i testi e gli elementi interattivi rispettano gli standard di contrasto WCAG AAA (4,5:1 per il testo normale, 3:1 per il testo grande). I colori ad alto contrasto garantiscono la leggibilità in qualsiasi condizione di illuminazione.
+I colori predefiniti del testo sono scelti per offrire un contrasto leggibile. I colori ad alto contrasto aiutano la lettura con molta o poca luce.
 
-Il nostro sistema di colori fornisce rapporti di contrasto superiori a 15:1 per il testo primario sia nei temi chiari che in quelli scuri.
+Il testo principale ha un contrasto elevato sugli sfondi predefiniti chiari e scuri.
 
-### Distinguere senza usare solo i colori
+### Lo stato usa più del solo colore
 
-Le informazioni importanti non vengono mai trasmesse solo tramite il colore. Gli indicatori di stato utilizzano icone, forme ed etichette di testo in aggiunta al colore.
+Lo stato dei documenti non viene mai indicato solo tramite il colore. Gli indicatori di stato utilizzano icone, forme ed etichette di testo in aggiunta al colore.
 
 - Segni di spunta verdi per i documenti validi (non solo il colore verde)
 - Icone di avviso per i documenti in scadenza (non solo il colore giallo/arancione)
@@ -45,7 +45,7 @@ Le informazioni importanti non vengono mai trasmesse solo tramite il colore. Gli
 
 ### Riduci movimento
 
-Tutte le animazioni e gli effetti di movimento rispettano le preferenze di riduzione del movimento. Se abilitato, le animazioni vengono ridotte o rimosse per prevenire la cinetosi e il disagio.
+Alcune animazioni rispettano la preferenza Riduci movimento. Quando è attiva, le animazioni supportate vengono ridotte o rimosse.
 
 Abilitare in **Impostazioni → Accessibilità → Movimento → Riduci movimento** sul proprio dispositivo.
 
@@ -53,19 +53,15 @@ Abilitare in **Impostazioni → Accessibilità → Movimento → Riduci moviment
 
 Aree di tocco da 44pt
 
-Tutti gli elementi interattivi rispettano la dimensione minima di 44pt di Apple per una pressione agevole.
-
-Navigazione tramite tastiera
-
-Naviga nell'intera app usando una tastiera collegata al dispositivo.
+Gli stili condivisi dei controlli puntano a 44pt su iOS e 48dp su Android; alcuni controlli sono più piccoli.
 
 Font leggibili
 
-Font di sistema ottimizzati per la leggibilità a qualsiasi dimensione.
+Font di sistema con dimensioni del testo impostate per i diversi elementi.
 
 Messaggi di errore chiari
 
-Gli stati di errore vengono annunciati a VoiceOver e visualizzati con testo chiaro e fruibile.
+I messaggi di errore principali, come un modulo che non può ancora essere salvato, vengono annunciati a VoiceOver e mostrati con un testo chiaro che indica cosa fare.
 
 ## Siamo sempre in miglioramento
 

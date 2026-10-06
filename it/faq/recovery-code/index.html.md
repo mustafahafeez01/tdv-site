@@ -6,49 +6,49 @@ Source: https://traveldocumentvault.com/it/faq/recovery-code/
 
 ---
 
-Il vostro codice di recupero è una passphrase di 24 caratteri che crittografa i vostri backup nel cloud. Se lo perdete, questi backup diventano inaccessibili. Non lo conserviamo e non possiamo ripristinarlo, quindi conservatelo in un luogo sicuro.
+Il vostro codice di recupero è una passphrase di 24 caratteri che sblocca le chiavi di crittografia cloud. Se perdete tutte le copie del codice e l’accesso a tutti i dispositivi che possono ancora sbloccare il vault, non possiamo recuperare quei backup. Non conserviamo il codice e non possiamo reimpostarlo: tenetelo al sicuro.
 
 ## Come funziona
 
 ### Cos'è
 
-Il vostro codice di recupero è una passphrase di 24 caratteri generata quando abilitate il backup nel cloud. Ha questo aspetto:
+Il vostro codice di recupero è una passphrase di 24 caratteri generata quando impostate il PIN. Ha questo aspetto:
 
 XXXX-XXXX-XXXX-XXXX-XXXX-XXXX
 
-Questo codice è derivato matematicamente dalle vostre impostazioni di backup ed è l'unica chiave che può decrittare il vostro vault crittografato nel cloud. Lo generiamo una volta e ve lo mostriamo una volta. Dopo di che, la responsabilità di mantenerlo al sicuro è vostra.
+Il codice di recupero sblocca le chiavi di crittografia necessarie per ripristinare il backup cloud con Pro. L’app lo genera quando impostate il PIN e lo mostra una sola volta. Conservatene una copia al sicuro.
 
 ### Perché vi serve
 
-Quando abilitate il backup nel cloud, l'intero vostro vault viene crittografato sul vostro dispositivo utilizzando AES-256-GCM prima che lasci il vostro telefono. La chiave di crittografia è derivata dal vostro codice di recupero. Senza il codice di recupero, il backup è crittograficamente inaccessibile, anche per noi.
+Con il backup cloud Pro, l’app crittografa i contenuti dei documenti sul dispositivo con AES-256-GCM prima del caricamento. Il codice di recupero sblocca le chiavi di crittografia cloud. Vi serve per ripristinare un backup. Non ne conserviamo una copia.
 
-Questa è una garanzia di privacy. Letteralmente non possiamo leggere i vostri backup, decrittarli su richiesta o ripristinarli per voi. Se il vostro codice di recupero viene perso, quel backup è perso per sempre. Sembra severo, ma è esattamente quello che desiderate: la vostra privacy non è solo una promessa che facciamo, è un fatto tecnico che non possiamo violare.
+Non possiamo decrittografare o reimpostare il backup cloud per voi. Se perdete tutte le copie del codice di recupero e l’accesso a tutti i dispositivi che possono ancora sbloccare il vault, non possiamo recuperare quel backup.
 
 ### Se lo perdete
 
-Se dimenticate il vostro codice di recupero, il vostro backup nel cloud esistente non può essere recuperato. Avete due opzioni:
+Se dimenticate il codice di recupero, ciò che potete fare dipende dalla disponibilità di un dispositivo che possa ancora sbloccare il vault e del relativo PIN:
 
-- **Ripristinare dal vostro telefono:** Se il codice è ancora conservato nell'app (controllate Impostazioni - Backup nel cloud), copiatelo in un luogo sicuro e salvatelo.
-- **Generare uno nuovo:** Disabilitate il backup nel cloud e riabilitatelo. Questo crea un nuovo codice di recupero e scarta il backup esistente. Ricomincerete da capo.
+- **Generare un nuovo codice sul telefono:** Mantenete attivo il backup cloud e connettetevi a internet. Aprite Impostazioni, Sicurezza, Codice di recupero, confermate e inserite il PIN. Salvate il nuovo codice al sicuro, poi toccate la conferma di salvataggio del codice per attivarlo. Seguite eventuali richieste di riconnessione o sincronizzazione.
+- **Avete perso anche il telefono:** Se non avete una copia del codice né un altro dispositivo che possa ancora sbloccare il vault, non possiamo aprire il backup esistente. Attivate il backup cloud sul nuovo telefono e scegliete di ricominciare da zero.
 
 ### Dove conservarlo
 
 Il vostro codice di recupero è delicato come la vostra password principale. Conservatelo in uno di questi modi:
 
-- **Gestore di password:** Bitwarden, 1Password, Apple Keychain o similare. Questa è l'opzione più comoda.
+- **Gestore di password:** Usate un gestore di password di cui vi fidate.
 - **Backup fisico:** Scrivetelo su carta e conservatelo in una cassaforte, cassetta di sicurezza bancaria o luogo sicuro a casa.
 - **Documento offline:** Salvate su un'unità esterna crittografata o su USB (mai sincronizzato nel cloud).
 - **Evitate:** Email, app Note, servizi cloud non crittografati o screenshot.
 
 ### Rigenerare il vostro codice
 
-Se pensate che il vostro codice di recupero sia compromesso, disabilitate il backup nel cloud e riabilitatelo. l'app genera un nuovo codice di recupero. Il vostro vecchio backup crittografato viene scartato. È una scelta di progettazione: la rotazione del codice di recupero è intenzionalmente rara e comporta la perdita dei dati, quindi non la fate leggermente.
+Se ritenete che il codice di recupero sia compromesso, mantenete attivo il backup cloud e connettetevi a internet. Aprite Impostazioni, Sicurezza, Codice di recupero, confermate e inserite il PIN. Salvate il nuovo codice mostrato dall’app, poi toccate la conferma di salvataggio del codice per attivarlo. Seguite eventuali richieste di riconnessione o sincronizzazione.
 
-**Dichiarazione di non responsabilità:** Il vostro codice di recupero è vostra esclusiva responsabilità. Travel Document Vault non può recuperare, ripristinare o rigenerare il codice se perduto. Conservatelo in sicurezza. Non affidate a questa app come unico sistema di backup per i documenti critici.
+**Dichiarazione di non responsabilità:** Il vostro codice di recupero è vostra esclusiva responsabilità. Travel Document Vault non può recuperare o reimpostare il codice per voi se viene perso. Conservatelo in sicurezza. Non affidate a questa app come unico sistema di backup per i documenti critici.
 
 ## Pronti a proteggere il vostro vault?
 
-Scaricate Travel Document Vault e abilitate il backup nel cloud per mantenere i vostri documenti al sicuro.
+Scaricate Travel Document Vault gratuitamente. Pro aggiunge il backup crittografato sul vostro iCloud o Google Drive. Salvate il codice di recupero prima di attivarlo.
 
 ![Scarica su App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

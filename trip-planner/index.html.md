@@ -1,6 +1,6 @@
 # Trip Planner for Families | Travel Document Vault
 
-> Plan family trips with confidence. Readiness traffic light, packing checklists, and country day-limits tracked per member. Works fully offline.
+> With Pro, plan family trips with confidence. Readiness traffic light, packing checklists, and country day-limits tracked per member. Works fully offline.
 
 Source: https://traveldocumentvault.com/trip-planner/
 
@@ -12,7 +12,7 @@ Five features that make family travel planning stress-free.
 
 ### Readiness Traffic Light
 
-Green means everyone's ready, while amber flags who has documents expiring soon - no more surprises the night before travel.
+Green means linked documents pass the checks you set for your saved trip dates. Amber highlights items to review.
 
 Each family member gets their own readiness status based on document expiry dates and trip context.
 
@@ -24,21 +24,21 @@ Built for families with 2 - 10+ members. Works for spouses, children, grandparen
 
 ### Packing Checklist
 
-Travel-specific checklist tailored by trip duration and destination which you check off as you pack - no forgetting sunscreen again.
+Travel-specific checklist for leisure or business trips which you check off as you pack - no forgetting the plug adapter again.
 
-Checklists adjust based on weather, trip length, and trip type (beach, city, ski, etc.).
+Checklists start from a leisure or business template, and you can add or remove items for each trip.
 
 ### Know Before You Go
 
-Destination panel with entry requirements, visa rules, and travel tips for each country - no surprises at immigration.
+Destination panel with currency, language, plug type, voltage and driving side for popular destinations - no surprises on arrival.
 
-Shows Schengen rules, visa validity windows, and local customs. All updated for current travel regulations.
+Covers close to 60 of the most-travelled destinations, built into the app so it works offline.
 
 ### Country Day-Limit Allowances
 
-Track how many days each family member has spent in a country by creating periods (Schengen year, visa window, tax year) and linking allowance rules to them - then see a per-member breakdown at a glance.
+Track how many days each family member has spent in a country by creating periods (visa window or tax year) and linking allowance rules to them - then see a per-member breakdown at a glance.
 
-Built for 90/180-style rolling limits in a country, UK 183-day rules, and any custom visa or residency window. Days used update automatically as trips are logged.
+Set a fixed or rolling window for each country, with your own visa or residency day limit. Check the official rules separately. Days used update automatically as trips are logged.
 
 ## Plus So Much More
 
@@ -60,7 +60,7 @@ Pro: sync to your own iCloud or Google Drive. Multi-device access. You hold the 
 
 ## Ready to Plan Better
 
-Download free. No account. Start planning today.
+Download free. No account. Start planning today with Pro.
 
 ![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

@@ -1,6 +1,6 @@
 # Versleutelde back-up in de cloud voor reisdocumenten: wie heeft de sleutel
 
-> Wat een versleutelde back-up van je paspoortscans echt betekent, en waarom niemand je herstelcode kan resetten.
+> Wat een versleutelde back-up van je paspoortscans echt betekent, en waarom wij je herstelcode niet kunnen resetten.
 
 Source: https://traveldocumentvault.com/nl/blog/encrypted-cloud-backup-travel-documents/
 
@@ -12,9 +12,9 @@ Source: https://traveldocumentvault.com/nl/blog/encrypted-cloud-backup-travel-do
 
 - **"Versleutelde back-up" betekent pas iets zodra je weet wie de sleutel heeft.** Kan het bedrijf je documenten lezen, dan beschermt de versleuteling ze tegen vreemden, niet tegen het bedrijf.
 - Een back-up die op je telefoon wordt versleuteld voordat hij wordt geüpload, komt in de cloud aan als onleesbare data. De opslagaanbieder bewaart cijfertekst, niet je paspoort.
-- **Geen account betekent geen wachtwoord resetten.** Verlies je de herstelcode, dan kan niemand de back-up meer openen, wij ook niet. Dat is de bewuste afweging.
+- **Geen account betekent geen wachtwoord resetten.** Verlies je de herstelcode en toegang tot elk apparaat dat de kluis nog kan openen, dan kunnen wij de versleutelde back-up niet herstellen. Dat is de bewuste afweging.
 - Schrijf de code op voordat je op de back-up vertrouwt, bewaar hem los van je telefoon, en lees hem één keer terug om te controleren of hij leesbaar is.
-- Een systeemback-up van je toestel herinstalleert de app, maar kan je documenten niet terugzetten, omdat de versleutelingssleutel nooit van de oude telefoon af is gegaan.
+- Een systeemback-up van je toestel herinstalleert de app, maar kan je documenten niet terugzetten, omdat systeemback-ups de apparaatgebonden versleutelingssleutel niet overzetten.
 
 Je hebt vier paspoorten, twee visa en de geboorteaktes van de kinderen ingescand in een app die alles op je telefoon bewaart. Mooi zo. Dan komt de voor de hand liggende zorg: wat gebeurt er als de telefoon in zee valt, of van een caféterras in Lissabon wordt gejat.
 
@@ -32,11 +32,11 @@ De andere opzet versleutelt het bestand al op je telefoon, voordat het ergens na
 
 De vraag die je bij elke app zou moeten stellen is kort: **wie heeft de sleutel?** Al het andere in de marketing volgt uit het antwoord daarop.
 
-## De herstelcode, en waarom niemand hem kan resetten
+## De herstelcode, en waarom wij hem niet kunnen resetten
 
-Dit is het deel dat de meeste artikelen overslaan, en het verdient het om gewoon eerlijk gezegd te worden: Travel Document Vault heeft geen accounts. Je hebt ons nooit een e-mailadres gegeven, wij hebben nooit een wachtwoord voor je ingesteld, en er staat nergens op een server van ons een gegeven over jou. Als je [Cloudback-up](https://traveldocumentvault.com/nl/cloud-backup/) inschakelt, genereert de app een herstelcode van 24 tekens en leidt daaruit de versleutelingssleutel af. De versleutelde kluis gaat vervolgens naar **je eigen iCloud op iPhone en iPad, of je eigen Google Drive op Android**, in plaats van naar ons.
+Travel Document Vault heeft geen app-account nodig om documenten op je toestel te bewaren. De optionele [Cloud Backup](https://traveldocumentvault.com/nl/cloud-backup/) vereist Pro en je herstelcode om de cloudversleutelingssleutel te ontgrendelen. De app maakt deze code van 24 tekens wanneer je je PIN instelt. De versleutelde kluis gaat vervolgens naar **je eigen iCloud op iPhone en iPad, of je eigen Google Drive op Android**, in plaats van naar ons.
 
-Het gevolg is onvermijdelijk. **Verlies je die herstelcode, dan kan de back-up nooit meer worden geopend.** Niet door jou, niet door Apple of Google, en niet door ons. Er is geen reset-link, want er is geen account om die aan te koppelen. Er is geen support-ticket dat hem terughaalt, want wij hebben hem nooit in bezit gehad en kunnen hem onmogelijk raden.
+Het gevolg is onvermijdelijk. **Verlies je de herstelcode en toegang tot elk apparaat dat de kluis nog kan openen, dan kunnen wij de versleutelde back-up niet herstellen.** Er is geen reset-link, want er is geen account om die aan te koppelen. Er is geen support-ticket dat hem terughaalt, want wij hebben hem nooit in bezit gehad en kunnen hem onmogelijk raden.
 
 Dat klinkt hard als je het zo opschrijft, en het is beter om daar eerlijk over te zijn dan het weg te stoppen in een instellingenscherm. Het is dezelfde afweging als bij een huissleutel: het slot heeft alleen waarde omdat geen enkele slotenmaker ter wereld een reservesleutel achter de hand houdt, en juist daarom is het jouw probleem als je hem kwijtraakt.
 
@@ -68,17 +68,17 @@ Daarom is het eerlijke antwoord op "is de cloud veilig" dit: de cloud is een afl
 
 ## Wat in de back-up zit, en wat achterblijft
 
-De back-up bevat een versleutelde kopie van de kluis: elk profiel, elke scan, vervaldatums, herinneringen, notities en bijlagen. Zet je hem terug, dan ziet de app er weer precies zo uit als je hem achterliet.
+De back-up bevat profielen, scans, bijlagen, vervaldatums, notities en herinneringsgeschiedenis die naar een nieuw apparaat kan worden overgezet. De app versleutelt deze voordat ze worden geüpload. Herstel brengt deze kluisinhoud terug; apparaatinstellingen blijven apart en de app bouwt meldingen opnieuw op.
 
-Drie dingen blijven bewust op de telefoon, en de herstelcode staat voorop: die verlaat het toestel nooit, en dat is precies de bedoeling. Ook je app-vergrendeling blijft lokaal, dus Face ID, Touch ID of je pincode houdt anderen buiten de telefoon, terwijl de versleuteling ze buiten het bestand houdt. En de automatische lokale momentopnamen die de app maakt terwijl je werkt, blijven alleen op het toestel.
+Drie dingen blijven bewust op de telefoon, en de herstelcode staat voorop: die wordt niet met de back-up geüpload. Ook je app-vergrendeling blijft lokaal, dus Face ID, Touch ID of je PIN houdt anderen buiten de app, terwijl de versleuteling ze buiten het bestand houdt. En de automatische lokale momentopnamen die de app maakt terwijl je werkt, blijven alleen op het toestel.
 
-Dat laatste punt verrast mensen vaak, dus hier is de botte versie. **Een systeemback-up van je toestel herinstalleert de app, maar kan je documenten niet terugzetten.** De versleutelingssleutel heeft de oude telefoon nooit verlaten, dus de nieuwe telefoon heeft niets om mee te ontsleutelen. Wil je dat je kluis de telefoon overleeft, dan heb je ofwel Cloudback-up ingeschakeld nodig, ofwel een geëxporteerd bestand dat je ergens hebt bewaard.
+Dat laatste punt verrast mensen vaak, dus hier is de botte versie. **Een systeemback-up van je toestel herinstalleert de app, maar kan je documenten niet terugzetten.** Systeemback-ups zetten de apparaatgebonden versleutelingssleutel niet over, dus de nieuwe telefoon heeft cloudherstel (Pro) of een geëxporteerd kluisbestand nodig. Wil je dat je kluis de telefoon overleeft, dan heb je ofwel Cloudback-up ingeschakeld nodig, ofwel een geëxporteerd bestand dat je ergens hebt bewaard.
 
-## Het terugzetten is kort en overschrijft niets wat er al staat
+## Je kluis herstellen; opnieuw beginnen laat de oude back-up intact
 
-Het terugzetten zelf is kort, en dat is precies de bedoeling van de voorbereiding die je eerder deed.
+De hersteltijd hangt af van de grootte van je kluis en je verbinding.
 
-Installeer de app op de nieuwe telefoon en log in met hetzelfde iCloud- of Google-account als voorheen. Open Instellingen, dan Cloudback-up, dan Herstellen vanuit back-up, en voer je herstelcode in. De kluis komt terug met profielen, vervaldatums en herinneringen intact.
+Installeer de app op de nieuwe telefoon en log in met hetzelfde iCloud- of Google-account als voorheen. Open met Pro Instellingen, Cloud Backup, dan Herstellen uit Back-up terwijl cloudback-up op het ontvangende apparaat uit staat. Kies de bestaande kluis, voer je herstelcode in en bevestig het herstel, dat de lokale kluisinhoud vervangt. Profielen, documenten en vervaldatums worden hersteld; meldingen worden opnieuw opgebouwd op het ontvangende apparaat.
 
 De app controleert ook voordat er iets wordt weggeschreven. Detecteert Cloudback-up een bestaande back-up in dat account, dan vraagt de app je te kiezen tussen terugzetten of opnieuw beginnen. Een nieuwe telefoon kan niet stiekem overschrijven wat er al staat.
 
@@ -86,7 +86,7 @@ De app controleert ook voordat er iets wordt weggeschreven. Detecteert Cloudback
 
 Cloudback-up blijft op één platform, omdat het je eigen iCloud gebruikt op Apple-toestellen en je eigen Google Drive op Android. Om van het ene naar het andere over te stappen, heb je de andere route nodig.
 
-Gebruik Kluis exporteren. Instellingen, Kluis exporteren maakt één met een wachtwoord beveiligd bestand met alles erin, en jij kiest waar het naartoe gaat: de Bestanden-app, een drive, een e-mail aan jezelf. Op de nieuwe telefoon leest Instellingen, Kluis importeren het weer in. Het werkt in beide richtingen en houdt namen, datums, herinneringen, kleuren, notities en bijlagen zoals ze waren.
+Vault Export is gratis. Via Instellingen, Kluis exporteren maak je één met een wachtwoord beveiligd bestand met profielen, documenten, reizen, ondersteunde instellingen en leesbare bijlagen. Je kiest waar je het opslaat: de Bestanden-app, een drive of een e-mail aan jezelf. Op de nieuwe telefoon leest Instellingen, Back-up importeren het weer in en vervangt wat er al staat. Het ondersteunt beide platforms. Controleer geïmporteerde documenten, notities en bijlagen, controleer herinneringen opnieuw en bewaar de oorspronkelijke export. Meldingen worden opnieuw opgebouwd op het ontvangende apparaat.
 
 Dat geëxporteerde bestand is ook het antwoord voor wie een kopie wil die helemaal niet van een cloud-account afhangt. Het is verstandig om er eentje op een drive thuis te bewaren, ongeacht welke telefoon je bij je draagt.
 
@@ -114,23 +114,23 @@ Het betekent dat de kopie op je telefoon wordt versleuteld voordat hij ergens na
 
 ### Wat gebeurt er als ik mijn back-upsleutel kwijtraak?
 
-De back-up blijft versleuteld en niemand kan hem openen, wij ook niet. Er is geen account, geen wachtwoord om te resetten, en geen supportroute die hem terughaalt, want de herstelcode bereikt ons om te beginnen al niet. Dat is de bewuste afweging tegenover het feit dat niemand anders je documenten kan lezen. Schrijf de code op voordat je op de back-up vertrouwt, bewaar hem los van je telefoon, en lees hem één keer terug om te checken of het lukt.
+Als je de herstelcode en toegang tot elk apparaat dat de kluis nog kan openen verliest, kunnen wij de versleutelde back-up niet herstellen. Er is geen account, geen wachtwoord om te resetten, en geen supportroute die hem terughaalt, want de herstelcode bereikt ons om te beginnen al niet. Dat is de bewuste afweging tegenover het feit dat niemand anders je documenten kan lezen. Schrijf de code op voordat je op de back-up vertrouwt, bewaar hem los van je telefoon, en lees hem één keer terug om te checken of het lukt.
 
 ### Is Cloudback-up veilig voor paspoortscans?
 
-Dat hangt volledig af van wat er in de cloud terechtkomt. Een foto van je paspoort in een gewone fotobibliotheek of gesynchroniseerde map komt leesbaar aan, en iedereen die toegang krijgt tot dat account kan hem lezen. Een back-up die op het toestel wordt versleuteld voordat hij wordt geüpload, komt aan als cijfertekst, zodat de opslagaanbieder iets in handen heeft wat hij niet kan openen. Travel Document Vault versleutelt de kluis op je telefoon met AES-256-GCM en stuurt het versleutelde bestand naar je eigen iCloud of Google Drive, niet naar een server van het bedrijf.
+Dat hangt volledig af van wat er in de cloud terechtkomt. Een foto van je paspoort in een gewone fotobibliotheek of gesynchroniseerde map komt leesbaar aan, en iedereen die toegang krijgt tot dat account kan hem lezen. Een back-up die op het toestel wordt versleuteld voordat hij wordt geüpload, komt aan als cijfertekst, zodat de opslagaanbieder iets in handen heeft wat hij niet kan openen. Met Pro versleutelt Travel Document Vault de kluis op je telefoon met AES-256-GCM en stuurt het versleutelde bestand naar je eigen iCloud of Google Drive, niet naar een TDV-server.
 
 ### Kan ik mijn documenten op een andere telefoon terugzetten?
 
-Ja. Installeer de app op de nieuwe telefoon, log in met hetzelfde iCloud- of Google-account, open dan Instellingen, Cloudback-up, Herstellen vanuit back-up, en voer je herstelcode in. Je profielen, documenten, vervaldatums en herinneringen komen terug zoals ze waren. Let op: een systeemback-up van je toestel doet dit niet vanzelf. Die herinstalleert de app, maar kan je documenten niet ontsleutelen, omdat de versleutelingssleutel je oorspronkelijke toestel nooit verlaat.
+Ja, met Pro. Installeer de app op de nieuwe telefoon en log in met hetzelfde iCloud- of Google-account. Open Instellingen, Cloud Backup, dan Herstellen uit Back-up terwijl cloudback-up op het ontvangende apparaat uit staat. Kies de bestaande kluis, voer je herstelcode in en bevestig het herstel, dat de lokale kluisinhoud vervangt. Profielen, documenten en vervaldatums worden hersteld; meldingen worden opnieuw opgebouwd op het ontvangende apparaat. Let op: een systeemback-up van je toestel doet dit niet vanzelf. Die herinstalleert de app, maar kan je documenten niet ontsleutelen, omdat systeemback-ups de apparaatgebonden versleutelingssleutel niet overzetten.
 
 ### Werkt de back-up tussen iPhone en Android?
 
-Cloudback-up zelf blijft op één platform, want het gebruikt je eigen iCloud op iPhone en iPad en je eigen Google Drive op Android. Om over te stappen gebruik je in plaats daarvan Kluis exporteren: Instellingen, Kluis exporteren maakt één met een wachtwoord beveiligd .tdvault-bestand dat je naar jezelf kunt sturen zoals je zelf wilt, waarna Instellingen, Kluis importeren op de nieuwe telefoon het weer inleest. Importeren werkt in beide richtingen tussen platforms, en houdt namen, datums, herinneringen, notities en bijlagen intact.
+Cloudback-up blijft op één platform: je eigen iCloud op iPhone en iPad, of je eigen Google Drive op Android. Gebruik de gratis Vault Export om over te stappen. Via Instellingen, Kluis exporteren maak je een met een wachtwoord beveiligd .tdvault-bestand dat je naar jezelf kunt sturen. Op de nieuwe telefoon leest Instellingen, Back-up importeren het weer in en vervangt de gegevens die er al staan. Importeren ondersteunt beide platforms. Controleer geïmporteerde documenten, notities en bijlagen, controleer herinneringen opnieuw en bewaar de oorspronkelijke export. Meldingen worden opnieuw opgebouwd op het ontvangende apparaat.
 
 ### Wat wordt er in de back-up opgeslagen en wat blijft op het toestel?
 
-De back-up bevat een versleutelde kopie van je kluis: elk profiel, elke documentscan, vervaldatum, herinnering en notitie. Je herstelcode zit er niet in, en verlaat je toestel nooit. Je app-vergrendeling ook niet, dus Face ID, Touch ID of je pincode beschermt de telefoon, terwijl de versleuteling het bestand beschermt. Automatische lokale momentopnamen blijven ook alleen op het toestel, en daarom kunnen ze je kluis niet terugbrengen op een vervangende telefoon.
+De back-up bevat profielen, leesbare scans en bijlagen, vervaldatums, notities en overdraagbare herinneringsgeschiedenis, versleuteld voordat ze worden geüpload. Je herstelcode wordt niet met de back-up geüpload. Je app-vergrendeling blijft ook lokaal, dus Face ID, Touch ID of je PIN beschermt de app, terwijl de versleuteling het bestand beschermt. Automatische lokale momentopnamen blijven ook alleen op het toestel, en daarom kunnen ze je kluis niet terugbrengen op een vervangende telefoon.
 
 ## Gerelateerde artikelen
 

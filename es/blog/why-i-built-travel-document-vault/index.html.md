@@ -1,6 +1,6 @@
 # Por qué creé Travel Document Vault: Para el padre que lo recuerda todo
 
-> Por qué creé Travel Document Vault tras comprobar un pasaporte a las 3 de la madrugada, y por qué guarda todo en tu dispositivo, no en un servidor.
+> Por qué creé Travel Document Vault tras comprobar un pasaporte a las 3 de la madrugada, y por qué guarda documentos en tu dispositivo por defecto.
 
 Source: https://traveldocumentvault.com/es/blog/why-i-built-travel-document-vault/
 
@@ -48,13 +48,13 @@ Y tenía que funcionar sin conexión. Porque estaría en el aeropuerto, o atrapa
 
 ## Así que construí exactamente lo que necesitaba
 
-Travel Document Vault hace una cosa: pone todo en un lugar, para que nunca tengas que pensar en ello de nuevo hasta que la aplicación te lo diga.
+Travel Document Vault reúne tus documentos y fechas de vencimiento guardados, con recordatorios para ayudarte a planificar las renovaciones.
 
-Escanea un documento una vez. La aplicación lee la fecha de vencimiento (tú la verificas). Los recordatorios se programan automáticamente: seis meses antes, luego tres meses, seis semanas, un mes, dos semanas, todo el camino hasta el día anterior al vencimiento.
+Escanea un documento una vez. La app intenta leer la fecha de vencimiento; confírmala o introdúcela manualmente. Los recordatorios están activados por defecto cuando guardas una fecha de vencimiento. Los recordatorios de pasaporte empiezan ocho meses antes, luego seis meses, tres meses, seis semanas, un mes, dos semanas, hasta el día del vencimiento.
 
-Un perfil por miembro de la familia. Cada documento en un lugar. Cuando necesites verificar si puedes viajar, abres la aplicación y sabes. Inmediatamente. No "probablemente" o "creo que sí", **realmente sabes**.
+Añade a toda la familia con Pro, con un perfil para cada persona. Antes de un viaje, puedes revisar **los documentos y fechas de vencimiento guardados de la familia**.
 
-Cuando un hotel te pide una copia del pasaporte, una embajada necesita tus datos, o la oficina de alquiler de autos quiere tu licencia, la compartes en un toque. Sin búsquedas. Sin Wi-Fi necesario. Todo junto, ahí mismo.
+Cuando un hotel te pide una copia del pasaporte, una embajada necesita tus datos o la oficina de alquiler de autos quiere tu licencia, puedes abrir la hoja para compartir y elegir cómo enviarla. Las copias guardadas se pueden consultar sin conexión; el correo electrónico y la mensajería necesitan conexión.
 
 Ese es el verdadero beneficio: recuperas tu espacio mental. La carga mental invisible, ese zumbido constante de "¿estoy olvidando algo?", desaparece. La aplicación recuerda para que no tengas que hacerlo tú.
 
@@ -81,10 +81,10 @@ Desde el principio, tomé una decisión firme: tus documentos te pertenecen a ti
 Travel Document Vault es autónomo:
 
 - Sin cuentas que crear
-- Sin subida a servidor
+- Copia de seguridad cifrada opcional en la nube (Pro)
 - Cifrada en tu dispositivo
 
-Cuando escaneas un documento, el reconocimiento de texto se ejecuta en tu dispositivo. Todo permanece en tu teléfono. **Nada se sube a ningún servidor.**
+Cuando escaneas un documento, el reconocimiento de texto se ejecuta en tu dispositivo. Los documentos se quedan en tu teléfono por defecto; **la copia de seguridad cifrada opcional (Pro) guarda una copia en tu propio iCloud o Google Drive.** También puedes exportar o compartir copias.
 
 Algunas personas quieren aplicaciones que se sincronicen en todas partes. Para pasaportes y DNIs, quería un modelo más simple: tu teléfono es la bóveda. Puedes exportar tus copias cuando las necesites. Son tuyas, después de todo.
 
@@ -94,9 +94,9 @@ Una bóveda de documentos de viaje es algo que se configura una vez y se olvida.
 
 Una suscripción no tiene sentido para eso. Si dejo de pagar, tendría que exportar todo, encontrar otra aplicación, migrar mis documentos, reconstruir todos mis recordatorios. ¿Y si olvido renovar? Pierdo acceso exactamente cuando lo necesito más: parado en el mostrador de facturación dándome cuenta de que el vencimiento del pasaporte de mi hijo es en cuatro meses y no puedo acceder al escaneo que guardé.
 
-Cuando compras esta aplicación, es tuya. Los documentos permanecen en tu dispositivo. Los recordatorios siguen funcionando. Sin renovaciones. Sin exportaciones. Sin bloqueo. Solo funciona, silenciosamente en el fondo, hasta que la necesitas.
+Tus documentos guardados y recordatorios funcionan en la versión gratuita. Pro añade perfiles y documentos ilimitados con una compra única, así que no hay suscripción que renovar.
 
-La versión gratuita te da un perfil, cinco documentos, OCR, recordatorios, y un bloqueo PIN. Pro desbloquea perfiles y documentos ilimitados con un único pago. Paga una vez, todas las actualizaciones v1.x incluidas, para siempre. Eso es todo.
+La versión gratuita te da un perfil, cinco documentos, detección automática de fechas, recordatorios, y un bloqueo PIN. Pro desbloquea perfiles y documentos ilimitados con un único pago. Paga una vez, todas las actualizaciones v1.x incluidas, para siempre. Eso es todo.
 
 [Sobre nuestra política de versiones →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -110,7 +110,7 @@ Si eres la persona en tu familia que lo verifica todo dos veces, mantiene la car
 
 **Una cosa menos de la que preocuparse.**
 
-Construido para uso personal primero. Sin cuentas. Sin subida a servidor.
+Construido para uso personal primero. Sin cuentas. Copia de seguridad cifrada opcional en la nube (Pro).
 
 Mustafa
 

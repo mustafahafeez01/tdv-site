@@ -83,7 +83,7 @@ What this means in practice
 
 If your phone is stolen and the thief gets into your photo library, they have a clear scan of your passport data page: your name, date of birth, passport number, and your photo. That's enough for identity fraud. Storing passport scans in [an encrypted app that requires a separate PIN or biometric](https://traveldocumentvault.com/blog/best-passport-organizer-app/) is meaningfully safer than a photo library, even if both are on the same device.
 
-[Travel Document Vault](https://traveldocumentvault.com) stores everything on-device with strong encryption (optional encrypted backup to your own iCloud or Google Drive with Pro). Each family member gets their own profile, and expiry dates get tracked automatically. If you'd rather do it yourself, an encrypted folder in a trusted password manager works too, though it won't remind you when something's about to expire.
+[Travel Document Vault](https://traveldocumentvault.com) stores your documents encrypted on your device and tracks saved expiry dates. You can share or export copies. Pro adds family profiles and optional encrypted backup to your own iCloud or Google Drive. If you'd rather do it yourself, an encrypted folder in a trusted password manager works too, though it won't remind you when something's about to expire.
 
 ## Tracking Expiry Dates: The Most Overlooked Part
 
@@ -95,11 +95,11 @@ Here's the failure pattern that catches families out. You renew your own passpor
 
 - **Calendar reminders:** Set one 12 months before each document expires and another at 6 months. You'll need to remember to update these when documents get renewed, and you need the expiry dates accessible in the first place.
 - **Spreadsheet:** Works well if you'll actually maintain it. One row per document per person, the expiry date, and a formula that highlights anything expiring within 12 months.
-- **Dedicated app:** Tools like Travel Document Vault handle the reminders automatically - scan the document, confirm the expiry date, and it schedules alerts from eight months out and again at closer intervals, without you having to think about it.
+- **Dedicated app:** Travel Document Vault schedules passport reminders from eight months before expiry, with alerts at closer intervals. Scan a passport and confirm or enter its expiry date; reminders are on by default.
 
 Any of these three approaches will work, but we'd default to whichever one sends the reminder automatically, since a spreadsheet only helps if you remember to open it. What matters most is picking one that fits how you already operate and actually sticking with it.
 
-**Travel Document Vault** handles expiry tracking for every family member automatically: scan each passport once and get reminders starting eight months out. No spreadsheet, no forgotten renewals. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** tracks saved expiry dates, with passport reminders starting eight months before expiry. Scan each passport and confirm or enter its expiry date. Add the whole family with Pro to keep renewal dates together. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Pre-Trip Document Checklist for Families
 

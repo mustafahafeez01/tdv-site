@@ -72,7 +72,7 @@ Sig, at dit Google-kodeord blev genbrugt på en side, der led et databrud for to
 | Google Fotos | Googles cloud-servere | Under overførsel + i hvile (Google-styrede nøgler) | Moderat | Acceptabelt med stærk 2FA |
 | iCloud-fotos | Apples cloud-servere | Under overførsel + i hvile (Apple-styrede nøgler) | Moderat | Acceptabelt med stærk 2FA |
 | Krypteret kodeordshåndtering (1Password, Bitwarden) | Cloud (zero-knowledge) | End-to-end; udbyderen kan ikke læse indholdet | Lav | Godt valg |
-| Krypteret app på enheden (valgfri egen cloud-backup) | Kun din telefon | Krypteret på enheden; ingen serverkopi | Lavest | Bedst til følsomme dokumenter |
+| Krypteret app på enheden (valgfri egen cloud-backup) | Din telefon; valgfri krypteret backup til din egen sky (Pro) | Krypteret på enheden; valgfri krypteret kopi i din egen sky (Pro) | Lavest | Bedst til følsomme dokumenter |
 | Kamerarulle / ukrypteret mappe | Din enhed | Kun enhedskryptering | Højere | Anbefales ikke |
 
 ### iCloud-fotos over for Google Fotos: Er Apple sikrere?
@@ -85,7 +85,7 @@ Den samme risiko for kontokompromittering gælder begge platforme. Et svagt Appl
 
 Er du iPhone-bruger, er det værd at slå **Avanceret databeskyttelse i iCloud** til. En app bygget specifikt til formålet uden cloud-upload forbliver den stærkeste løsning til pasopbevaring, uanset hvilken platform du bruger.
 
-**Travel Document Vault** gemmer dine passcanninger på enheden med stærk kryptering. Ingen konto påkrævet. Valgfri krypteret backup til din egen iCloud eller Google Drev (Pro), forseglet med en gendannelseskode, kun du har. [Hent den i App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** gemmer dine passcanninger på enheden med stærk kryptering. Ingen konto påkrævet. Med Pro kan du tage backup af en krypteret kopi til din egen iCloud eller Google Drive. Opbevar din gendannelseskode sikkert: du skal bruge den til at gendanne denne backup. [Hent den i App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Hvad er de sikrere alternativer?
 
@@ -99,7 +99,7 @@ To ting er værd at holde adskilt: at gemme en kopi til eget brug, og at forvent
 
 **Krypterede apps på enheden**
 
-Apps bygget specifikt til dette – som [Travel Document Vault](https://traveldocumentvault.com) – holder alt på din telefon med stærk kryptering og uden krav om konto. Du får valgfri krypteret backup til din egen iCloud eller Google Drev (Pro), og der er ingen server at bryde ind i, fordi din digitale paskopi aldrig forlader enheden. Den eneste afvejning er, at hvis du mister telefonen uden en backup, forsvinder den digitale kopi med den, selvom dit fysiske pas stadig er hos dig.
+Apps bygget specifikt til dette – som [Travel Document Vault](https://traveldocumentvault.com) – gemmer dokumenter krypteret på din telefon uden en appkonto. Du kan dele eller eksportere kopier eller bruge Pro til at tage backup af en krypteret kopi til din egen iCloud eller Google Drive. Appen uploader ikke dine dokumenter til vores servere. Den eneste afvejning er, at hvis du mister telefonen uden en backup, forsvinder den digitale kopi med den, selvom dit fysiske pas stadig er hos dig.
 
 **Krypteret cloud-lagring med klientsidige nøgler**
 
@@ -133,7 +133,7 @@ Ja. Automatiserede systemer behandler dine billeder til ting som ansigtsgenkende
 
 ### Hvad er den sikreste måde at opbevare en digital paskopi på?
 
-Krypteret opbevaring på enheden er dit sikreste valg – apps, der holder dine canninger på telefonen med stærk kryptering og uden cloud-upload. Ingen tredjepartsserver rører nogensinde dine pasoplysninger. Vil du også have cloud-adgang, er en zero-knowledge-krypteret kodeordshåndtering som 1Password eller Bitwarden et solidt mellemtrin.
+Krypteret opbevaring på enheden er dit sikreste valg – apps, der som standard gemmer dine scanninger på telefonen med stærk kryptering. Kopier kan forlade enheden via deling, eksport eller valgfri krypteret backup til din egen iCloud eller Google Drive (Pro). Vil du også have cloud-adgang, er en zero-knowledge-krypteret kodeordshåndtering som 1Password eller Bitwarden et solidt mellemtrin.
 
 ### Kan nogen stjæle min identitet fra en passcanning?
 

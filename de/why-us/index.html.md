@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/de/why-us/
 
 ---
 
-Datenschutz im Fokus. Nur auf dem Gerät. Keine Konten erforderlich.
+Datenschutz im Fokus. Standardmäßig auf dem Gerät. Keine Konten erforderlich.
 
 # Immer griffbereit.
 Wenn Sie sie brauchen.
@@ -77,7 +77,7 @@ Das sind alle vernünftige Wahlen. Jede funktioniert – bis zu einem Punkt.
 
 **Funktioniert:** Hohe Sicherheit und Offline-Zugriff.
 
-**Unzureichend:** Sie behandeln einen Pass wie eine Lebensmittelrechnung und haben keine reisespezifische Logik. Wir haben das speziell für Reisende gebaut und bieten einen großzügigen kostenlosen Plan mit 5 Dokumenten und einen unkomplizierten Einmalkauf ohne wiederkehrende Abos.
+**Unzureichend:** Sie behandeln einen Pass wie eine Lebensmittelrechnung und haben keine reisespezifische Logik. Travel Document Vault enthält kostenlos ein Profil und bis zu fünf Dokumente. Pro ist ein einmaliger Kauf ohne Abonnement.
 
 ### Kamerarolle / Fotos
 
@@ -111,20 +111,20 @@ Das sind alle vernünftige Wahlen. Jede funktioniert – bis zu einem Punkt.
 
 ## Wie es sich schlägt
 
-Jede Alternative macht eines oder zwei Dinge gut. Nur eine macht alle.
+Travel Document Vault speichert Dokumente, verfolgt Ablaufdaten und ergänzt mit Pro Familienprofile und Reiseplanung.
 
 | Funktion | Travel Document Vault | Wallet-App | Fotobibliothek / Cloud-Speicher | Passwort-Manager |
 |---|---|---|---|---|
 | Ablauferinnerungen | ✓6 Mo. im Voraus | ✗ | ✗ | ✗ |
 | Familienprofile | ✓Unbegrenzt (Pro) | ✗ | ✗ | ~Nur gemeinsame Tresore |
-| Keine Cloud-Synchronisierung | ✓Nur auf dem Gerät | ✗Cloud-Sync | ✗Cloud-zuerst | ✗Cloud-zuerst |
+| Standardmäßig auf dem Gerät | ✓Optionales Backup (Pro) | ✗Cloud-Sync | ✗Cloud-zuerst | ✗Cloud-zuerst |
 | Reisespezifische Dokumenttypen | ✓Pass, Visum, Ausweis... | ~Nur Bordkarten | ✗ | ✗ |
 | Funktioniert offline | ✓ | ✓ | ~Erfordert Vorab-Cache | ✓ |
 | Kein Konto erforderlich | ✓ | ~Plattform-Konto erforderlich | ✗ | ✗ |
 | Kein Abonnement | ✓einmalig | ✓ | ~Kostenlos, werbefinanzierte Stufen variieren | ✗meist 30-40 $/Jahr |
-| Reiseplaner-Checkliste (pro Reise) | ✓Ja | ✗ | ✗ | ✗ |
-| Anpassbare Tageslimits pro Land (Tage-im / Tage-außerhalb) | ✓ | ✗ | ✗ | ✗ |
-| Verschlüsselte Cloud-Sync (Ihre eigene Cloud) | ✓Ihre eigene Cloud | ~Nur Plattform-Konto | ~Nur Cloud-Anbieter | ~Server des Anbieters |
+| Reiseplaner-Checkliste (pro Reise) | ✓Ja (Pro) | ✗ | ✗ | ✗ |
+| Anpassbare Tageslimits pro Land (Tage-im / Tage-außerhalb) | ✓ Pro | ✗ | ✗ | ✗ |
+| Verschlüsselte Cloud-Sync (Ihre eigene Cloud) | ✓Ihre eigene Cloud (Pro) | ~Nur Plattform-Konto | ~Nur Cloud-Anbieter | ~Server des Anbieters |
 
 ✓ Unterstützt ~ Teilweise ✗ Nicht unterstützt
 
@@ -134,7 +134,7 @@ Gebaut von einem Elternteil, der Entlastung brauchte – keine weitere Liste zum
 
 ### Ihr Gerät. Ihre Dokumente. Sonst niemand.
 
-Ich hätte Cloud-Synchronisierung einbauen können. Jede andere App macht das.
+Ich habe mich entschieden, Dokumente standardmäßig auf Ihrem Gerät zu speichern. Optionale Pro-Backups nutzen Ihr eigenes Cloud-Konto.
 
 Aber würde ich den Fotos der Reisepässe meiner Kinder einem fremden Server anvertrauen? **Niemals.**
 
@@ -156,19 +156,19 @@ Funktioniert für Reisepässe, Visa, Führerscheine, Versicherungen – alles mi
 
 Sie sind derjenige, der sich merkt, welcher Pass des Kindes zuerst abläuft, ob die Versicherung alle abdeckt, und wann die Visa verlängert werden müssen.
 
-**Ein Profil pro Familienmitglied.** Ein Tipp, um alles zu sehen. Gebaut für die Person, die alles im Griff behält.
+**Mit Pro ein Profil pro Familienmitglied.** Ein Tipp, um alles zu sehen. Gebaut für die Person, die alles im Griff behält.
 
 ### Funktioniert offline. Überall.
 
 Instabiles Flughafen-WLAN? Ausländische Botschaft ohne Signal? Flugzeugmodus?
 
-Ihre Dokumente sind immer auf Ihrem Gerät, immer zugänglich. Kein Internet je erforderlich.
+Lokal gespeicherte Dokumente sind offline verfügbar. Die lokale Dokumentanzeige und Erinnerungen funktionieren offline; Käufe, Update-Prüfungen und Cloud-Funktionen benötigen Internet.
 
 ### Einmalkauf. Kein Abo.
 
-**Kostenlos starten.** Bis zu 5 Dokumente mit vollen Erinnerungen und Verschlüsselung speichern. Jederzeit auf unbegrenzten Speicher upgraden.
+**Kostenlos starten.** Bis zu 5 Dokumente mit vollen Erinnerungen und Verschlüsselung speichern. Pro hebt die Begrenzung der Dokumentanzahl auf. Der verfügbare Speicherplatz hängt weiterhin von Ihrem Gerät ab.
 
-Travel Document Vault ist ein **Einmalkauf** für $9.99. Unbegrenzt viele Profile und Dokumente, keine wiederkehrenden Kosten, und kein Verlängerungsdatum zum Merken.
+Pro ist ein **Einmalkauf** für $9.99. Unbegrenzt viele Profile und Dokumente, keine wiederkehrenden Kosten, und kein Verlängerungsdatum zum Merken.
 
 Preis in US-Dollar. Wir legen den Preis für jedes Land lokal fest, statt ihn vom Dollar umzurechnen, und der App Store oder Google Play zeigt Ihnen Ihren Preis vor dem Kauf an.
 
@@ -176,11 +176,11 @@ Preis in US-Dollar. Wir legen den Preis für jedes Land lokal fest, statt ihn vo
 
 ### Mehrseitige Unterstützung
 
-Unterstützung von bis zu 10 Seiten pro Dokument. Unverzichtbar für Reiseversicherungspolicen und mehrseitige Visa, die allgemeine Tresore oft abschneiden.
+Mit Pro können Sie bis zu 10 Seiten für Flugtickets, Gutscheine und andere Dokumente aufnehmen, einschließlich Reiseversicherungspolicen.
 
 ### Professioneller PDF-Export
 
-Mehrere Dokumente zu einer einzelnen PDF-Datei zusammenfassen – zum Teilen mit Botschaften, Airlines oder für den physischen Ausdruck.
+Mit Pro mehrere Dokumente zu einer einzelnen PDF-Datei zusammenfassen – zum Teilen mit Botschaften, Airlines oder für den physischen Ausdruck.
 
 Ich habe das gebaut, weil meine eigene Familie es brauchte.
 
@@ -192,7 +192,7 @@ Moderne Funktionen für modernes Reisen.
 
 Pro
 
-Ampel der Familienbereitschaft. Sehen Sie, wer reisefertig ist.
+Ampel der Familienbereitschaft. Prüfen Sie verknüpfte Dokumente anhand gespeicherter Reisedaten (Pro).
 
 ### Ihre Cloud. Ihr Schlüssel.
 
@@ -214,7 +214,7 @@ Kontingente pro Mitglied pro Reise verfolgen.
 
 ### 30-Tage-Rückgängig
 
-Versehentlich gelöscht. Jederzeit wiederherstellen.
+Versehentlich gelöscht. Innerhalb von 30 Tagen wiederherstellen.
 
 ### Jedes Familienmitglied
 
@@ -236,7 +236,7 @@ Dokumentenstatus aller Personen sofort prüfen
 
 Bereit für Ihre Reise
 
-Jede Person, jedes Dokument, geprüft
+Verknüpfte Dokumente anhand gespeicherter Reisedaten geprüft (Pro)
 
 ![Trip readiness view confirming all documents are valid and up to date](https://traveldocumentvault.com/assets/images/screenshots-appstore/02.webp)
 
@@ -248,7 +248,7 @@ Dokumente, Reisen, Erinnerungen zusammen
 
 Verbleibende Tage in jedem Land
 
-Auslandsaufenthalt jeder Person verfolgen
+Auslandsaufenthalt jeder Person mit Pro verfolgen
 
 ![Visa tracker showing days remaining in each country for each traveller](https://traveldocumentvault.com/assets/images/screenshots-appstore/04.webp)
 
@@ -274,7 +274,7 @@ Scannen. Einstellen. Vergessen.
 
 Kamera öffnen, die geführte Überlagerung verwenden und Ihr Dokument aufnehmen. Oder ein vorhandenes aus Ihrer Fotobibliothek importieren.
 
-Die App erkennt das Ablaufdatum – Sie bestätigen es einfach.
+Die App liest das Ablaufdatum aus, wenn es möglich ist – Sie bestätigen es oder geben es ein.
 
 2
 
@@ -282,7 +282,7 @@ Die App erkennt das Ablaufdatum – Sie bestätigen es einfach.
 
 Die App plant automatisch gestaffelte Erinnerungen.
 
-Sechs Monate, drei Monate, sechs Wochen... bis zum Ablauftag und darüber hinaus.
+Für Reisepässe beginnen die Erinnerungen acht Monate vorher. Für Ausweise, Visa, Versicherungen und andere Dokumente beginnen sie drei Monate vorher, mit Erinnerungen bis zum Ablauftag und danach.
 
 3
 
@@ -292,11 +292,11 @@ Bei der Einwanderung, beim Ausfüllen von Formularen, beim Beantragen von Visa. 
 
 ## Für Reisende gebaut
 
-Diese App ist für praktische Realitäten ausgelegt, nicht für allgemeine Dateispeicherung.
+Speichern Sie Dokumentkopien und Ablaufdaten an einem Ort, mit standardmäßig aktivierten Erinnerungen.
 
-- **Familien:** Mehrere Profile für Kinder und Partner an einem Ort verwalten. Die mentale Last des gesamten Haushalts tragen, ohne zwischen Ordnern wechseln zu müssen.
+- **Familien:** Mit Pro mehrere Profile für Kinder und Partner an einem Ort verwalten. Die mentale Last des gesamten Haushalts tragen, ohne zwischen Ordnern wechseln zu müssen.
 - **Digitale Nomaden & Expats:** Aufenthaltstitel, lokale Ausweise und Arbeitsvisa neben Reisepässen verfolgen, während Sie zwischen Ländern wechseln.
-- **Die 6-Monats-Regel:** Unsere Erinnerungen berücksichtigen strenge internationale Einreisevoraussetzungen, die generelle Apps ignorieren – und warnen Sie, bevor Ihr Pass für Reisen ungültig wird.
+- **Die 6-Monats-Regel:** Pass-Erinnerungen beginnen standardmäßig acht Monate vor Ablauf. Prüfen Sie die Einreisevoraussetzungen Ihres Ziellandes gesondert.
 - **Zukunftssicher:** Bleiben Sie organisiert inmitten bevorstehender EU-Verwaltungsänderungen wie EES und ETIAS. Stellen Sie sicher, dass Ihre Dokumente bereit sind, bevor die Regeln sich ändern.
 - **Datenschutzbewusste Personen:** Dokumente speichern, ohne Cloud-Servern zu vertrauen. Alles bleibt auf Ihrem Gerät.
 - **Preisbewusste Käufer:** Abonnements vermeiden. Einmalige Gebühr zahlen, anstatt die eigenen Daten zu mieten.
@@ -305,11 +305,11 @@ Diese App ist für praktische Realitäten ausgelegt, nicht für allgemeine Datei
 
 Die Fragen, die wir am häufigsten hören.
 
-Was passiert, wenn ich mein Telefon verliere? Ihre Dokumente befinden sich auf Ihrem Gerät, sodass ein reguläres Telefonbackup (iCloud oder Google Backup) sie enthält. Wenn Sie zu einem neuen Telefon wiederherstellen, kommt Ihr Tresor mit. Pro-Nutzer können auch jederzeit verschlüsselte Backups erstellen. Funktioniert es ohne Internet? Vollständig. Die App speichert alles auf Ihrem Gerät und benötigt nie eine Internetverbindung. OCR-Verarbeitung, Erinnerungen und Dokumentanzeige funktionieren alle offline. Sind meine Daten wirklich sicher? Das Design bedeutet, dass ich Ihre Daten nicht lesen kann, und weder kann Apple oder Google. Sie können das Datenschutzmodell selbst auf der [Datenschutzverifizierungsseite](https://traveldocumentvault.com/de/privacy-verification/) überprüfen. Ist es wirklich ein Einmalkauf? Ja. Pro kostet einmalig $9.99, in US-Dollar. Jedes Land legt seinen Preis lokal fest, statt ihn vom Dollar umzurechnen, und der Store zeigt Ihren Preis vor dem Kauf.* Kein Abo, keine wiederkehrenden Kosten, keine „Ihre Testphase endet"-E-Mails. Die kostenlose Version ist wirklich kostenlos – 1 Profil, 5 Dokumente, alle Funktionen inklusive OCR und Erinnerungen.
+Was passiert, wenn ich mein Telefon verliere? Ihre Dokumente befinden sich auf Ihrem Gerät, sodass ein reguläres Telefonbackup (iCloud oder Google Backup) sie enthält. Wenn Sie zu einem neuen Telefon wiederherstellen, kommt Ihr Tresor mit. Pro-Nutzer können auch jederzeit verschlüsselte Backups erstellen. Funktioniert es ohne Internet? Vollständig. Die App speichert alles auf Ihrem Gerät und benötigt für den Alltag keine Internetverbindung. Erinnerungen und die Anzeige lokal gespeicherter Dokumente funktionieren offline. Die OCR-Verarbeitung läuft auf Ihrem Gerät. Sind meine Daten wirklich sicher? Das Design bedeutet, dass ich Ihre Daten nicht lesen kann, und weder kann Apple oder Google. Sie können das Datenschutzmodell selbst auf der [Datenschutzverifizierungsseite](https://traveldocumentvault.com/de/privacy-verification/) überprüfen. Ist es wirklich ein Einmalkauf? Ja. Pro kostet einmalig $9.99, in US-Dollar. Jedes Land legt seinen Preis lokal fest, statt ihn vom Dollar umzurechnen, und der Store zeigt Ihren Preis vor dem Kauf.* Kein Abo, keine wiederkehrenden Kosten, keine „Ihre Testphase endet"-E-Mails. Die kostenlose Version ist wirklich kostenlos – 1 Profil, 5 Dokumente, alle Kernfunktionen inklusive OCR und Erinnerungen.
 
 * Gilt für v1.x. Siehe [Versionsrichtlinie](https://traveldocumentvault.com/pricing-policy/#version-policy).
 
-Kann ich es auch für andere Dokumente als Reisepässe nutzen? Ja. Die App unterstützt Reisepässe, Visa, Personalausweise, Führerscheine, Versicherungskarten, Flugtickets und alle weiteren Dokumenttypen, die Sie benötigen. Jeder Typ hat seine eigene geführte Aufnahme-Maske. [Alle FAQs ansehen →](https://traveldocumentvault.com/de/faq/)
+Kann ich es auch für andere Dokumente als Reisepässe nutzen? Ja. Die App unterstützt Reisepässe, Visa, Personalausweise, Führerscheine, Versicherungskarten, Flugtickets und alle weiteren Dokumenttypen, die Sie benötigen. Jede Dokumentform hat ihre eigene geführte Aufnahme-Maske. [Alle FAQs ansehen →](https://traveldocumentvault.com/de/faq/)
 
 **Wichtig:** Travel Document Vault ist ein persönliches Organisationstool zum Speichern digitaler Kopien Ihrer Dokumente. **Digitale Kopien in dieser App sind NICHT für Reisen gültig.** Die App überprüft weder die Echtheit von Dokumenten noch gibt sie rechtliche oder reisebezogene Ratschläge. Führen Sie stets Originaldokumente mit sich und überprüfen Sie alle Reiseanforderungen bei offiziellen Behördenquellen.
 

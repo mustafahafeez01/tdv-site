@@ -81,7 +81,7 @@ Ett tydligt digitalt foto av passet hjälper dig här. Spara datasidan, framsida
 
 Det är särskilt värdefullt om du är utomlands när passet skadas och behöver ett nödresedokument från din ambassad. Konsulära tjänstemän arbetar snabbare när de har en skanning av ditt ursprungliga pass framför sig.
 
-Förvara dina digitala kopior någonstans krypterat och offline – inte i Google Foto eller ett iCloud-konto som delas med andra. Travel Document Vault är byggt exakt för det här ändamålet: passfoton krypterade enbart på din enhet, tillgängliga direkt om något går fel.
+Förvara dina digitala kopior någonstans krypterat och offline – inte i Google Foto eller ett iCloud-konto som delas med andra. Travel Document Vault lagrar passfoton krypterade på din enhet för visning offline. Du kan dela eller exportera kopior, eller använda krypterad molnsäkerhetskopiering med Pro.
 
 Skanna ditt pass i dag, innan du behöver det.
 

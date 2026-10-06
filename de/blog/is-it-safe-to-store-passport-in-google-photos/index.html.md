@@ -72,7 +72,7 @@ Angenommen, Ihr Google-Kontopasswort wurde vor zwei Jahren auf einer Website wie
 | Google Photos | Google Cloud-Server | Im Transit + im Ruhezustand (Google-verwaltete Schlüssel) | Moderat | Akzeptabel mit starkem 2FA |
 | iCloud Photos | Apple Cloud-Server | Im Transit + im Ruhezustand (Apple-verwaltete Schlüssel) | Moderat | Akzeptabel mit starkem 2FA |
 | Verschlüsselter Passwort-Manager (1Password, Bitwarden) | Cloud (Zero-Knowledge) | End-to-End; Anbieter kann Inhalte nicht lesen | Niedrig | Gute Wahl |
-| Lokal verschlüsselte App (optional eigener Cloud-Backup) | Nur Ihr Telefon | Lokal auf dem Gerät verschlüsselt; kein Server-Exemplar | Niedrig | Best für sensible Dokumente |
+| Lokal verschlüsselte App (optional eigener Cloud-Backup) | Ihr Telefon; optionales verschlüsseltes Backup in Ihrer eigenen Cloud (Pro) | Auf dem Gerät verschlüsselt; optionale verschlüsselte Kopie in der eigenen Cloud (Pro) | Niedrig | Best für sensible Dokumente |
 | Fotobibliothek / unverschlüsselter Ordner | Ihr Gerät | Nur Geräteverschlüsselung | Hoch | Nicht empfohlen |
 
 ### iCloud Photos vs Google Photos: Ist Apple sicherer?
@@ -85,7 +85,7 @@ Das gleiche Kontorisiko gilt für beide Plattformen. Ein schwaches Apple ID-Pass
 
 Wenn Sie ein iPhone-Benutzer sind, ist das Aktivieren von **Advanced Data Protection in iCloud** einen Versuch wert. Eine speziell entwickelte verschlüsselte App ohne Cloud-Upload bleibt die stärkste Option für die Reisepass-Speicherung, egal auf welcher Plattform Sie sich befinden.
 
-**Travel Document Vault** speichert Ihre Reisepass-Scans lokal auf dem Gerät mit starker Verschlüsselung. Kein Konto erforderlich. Optionaler verschlüsselter Backup auf Ihr eigenes iCloud oder Google Drive (Pro), versiegelt mit einem Recovery-Code nur für Sie. [Herunterladen auf dem App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** speichert Ihre Reisepass-Scans lokal auf dem Gerät mit starker Verschlüsselung. Kein Konto erforderlich. Mit Pro können Sie eine verschlüsselte Kopie in Ihrem eigenen iCloud oder Google Drive sichern. Bewahren Sie Ihren Wiederherstellungscode sicher auf: Sie brauchen ihn, um dieses Backup wiederherzustellen. [Herunterladen auf dem App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Was sind die sichereren Alternativen?
 
@@ -99,7 +99,7 @@ Zwei Dinge sollten Sie zunächst auseinanderhalten: eine Kopie für den eigenen 
 
 **Lokal verschlüsselte Apps**
 
-Apps, die speziell dafür entwickelt wurden – wie [Travel Document Vault](https://traveldocumentvault.com) – halten alles auf Ihrem Telefon mit starker Verschlüsselung und ohne erforderliches Konto. Sie erhalten optionalen verschlüsselten Backup auf Ihr eigenes iCloud oder Google Drive (Pro), und es gibt keinen Server, der gehackt werden könnte, weil Ihre digitale Reisepasskopie nie das Gerät verlässt. Der einzige Kompromiss ist, dass wenn Sie Ihr Telefon ohne Backup verlieren, die digitale Kopie mit ihm geht, obwohl Ihr physischer Reisepass noch bei Ihnen ist.
+Apps, die speziell dafür entwickelt wurden – wie [Travel Document Vault](https://traveldocumentvault.com) – speichern Dokumente verschlüsselt auf Ihrem Telefon, ohne App-Konto. Sie können Kopien teilen oder exportieren oder mit Pro eine verschlüsselte Kopie in Ihrem eigenen iCloud oder Google Drive sichern. Die App lädt Ihre Dokumente nicht auf unsere Server hoch. Der einzige Kompromiss ist, dass wenn Sie Ihr Telefon ohne Backup verlieren, die digitale Kopie mit ihm geht, obwohl Ihr physischer Reisepass noch bei Ihnen ist.
 
 **Verschlüsselter Cloud-Speicher mit clientseitigen Schlüsseln**
 
@@ -133,7 +133,7 @@ Ja. Automatisierte Systeme verarbeiten Ihre Fotos für Dinge wie Gesichtserkennu
 
 ### Was ist der sicherste Weg, eine digitale Kopie eines Reisepasses zu speichern?
 
-Lokal verschlüsselter Speicher auf dem Gerät ist Ihre sicherste Wette – Apps, die Ihre Scans auf Ihrem Telefon mit starker Verschlüsselung und Nullwolken-Upload halten. Kein Drittanbieter-Server berührt je Ihre Reisepassdaten. Wenn Sie auch Cloud-Zugriff möchten, ist ein verschlüsselter Passwort-Manager ohne Wissenszugang wie 1Password oder Bitwarden ein solider Mittelweg.
+Lokal verschlüsselter Speicher auf dem Gerät ist Ihre sicherste Wette – Apps, die Ihre Scans auf Ihrem Telefon standardmäßig mit starker Verschlüsselung speichern. Kopien können durch Teilen, Export oder optionale verschlüsselte Backups in Ihrem eigenen iCloud oder Google Drive (Pro) das Gerät verlassen. Wenn Sie auch Cloud-Zugriff möchten, ist ein verschlüsselter Passwort-Manager ohne Wissenszugang wie 1Password oder Bitwarden ein solider Mittelweg.
 
 ### Kann jemand meine Identität aus einem Reisepass-Scan stehlen?
 

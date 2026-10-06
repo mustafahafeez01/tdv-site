@@ -1,16 +1,16 @@
 # Funcionalidades - Digitalizar e Proteger Documentos
 
-> Digitalização OCR, encriptação, lembretes de expiração, planeador de viagens, perfis familiares, cópia de segurança. Sem contas, sem servidores.
+> Digitalize passaportes: lembretes de validade offline, sem conta. Pro: perfis familiares e limites de dias por país pelas regras que introduzir.
 
 Source: https://traveldocumentvault.com/pt/features/
 
 ---
 
-Privacidade em primeiro lugar. Apenas no dispositivo. Nenhuma conta necessária.
+Privacidade em primeiro lugar. No dispositivo por predefinição. Nenhuma conta necessária.
 
 # Rastreie Tudo. Não Se Preocupe.
 
-Um organizador de documentos de viagem para pais ansiosos, viajantes frequentes e viajantes de primeira viagem: documentos num único lugar, alertas de expiração ligados, paz de espírito intacta.
+Pode guardar passaportes, vistos, cartas de condução, cartões de identidade nacionais, documentos de seguro de viagem e outros documentos relacionados com viagens. Com Pro, a aplicação suporta vários perfis, para gerir os documentos de toda a família num só lugar.
 
 ![Descarregue na App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
@@ -20,45 +20,45 @@ Um organizador de documentos de viagem para pais ansiosos, viajantes frequentes 
 
 Para viagens e dias no exterior
 
-## Nunca Perca uma Data de Viagem
+## Planeie viagens e acompanhe os limites de dias
 
-Planeie viagens em conjunto, rastreie abonos, conheça os seus limites de vistos.
+Com Pro, planeie viagens em conjunto, acompanhe os limites de estadia e conheça os limites dos seus vistos.
 
 Pro
 
 ### Todos Prontos, Num Relance
 
-Agrupar documentos por viagem. Ver preparação familiar à primeira vista com um indicador de semáforo. Identificar problemas semanas antes, não no aeroporto.
+Agrupar documentos por viagem. O indicador de preparação mostra num relance quais os documentos associados que precisam de atenção face às datas de viagem guardadas. Identificar problemas semanas antes, não no aeroporto.
 
 Pro
 
 ### A Sua Nuvem. A Sua Chave.
 
-Cópia de segurança encriptada opcional para o seu iCloud ou Google Drive pessoal. Você tem o código de recuperação. Nunca acedemos. Sincronização multi-dispositivo sem confiança necessária.
+Cópia de segurança encriptada opcional (Pro) para o seu iCloud ou Google Drive pessoal. Restaure com o código de recuperação. Ative a sincronização para usar o mesmo cofre em dispositivos suportados na mesma plataforma.
 
 Pro
 
 ### Rastreamento de Dias no Estrangeiro
 
-Rastreie os dias gastos em cada país, por viagem e por membro da família. Defina objetivos de limite de dias personalizados para saber sempre onde está com durações de visto e requisitos de entrada. Verifique regras com o [Centro de Viagens IATA](https://www.iatatravelcentre.com/) para seu destino.
+Com Pro, acompanhe os dias passados em cada país, por viagem e por membro da família. Compare os dias das viagens guardadas com os limites por país que introduzir. Verifique regras com o [Centro de Viagens IATA](https://www.iatatravelcentre.com/) para seu destino.
 
 Pro
 
 ### Regras de limite personalizadas
 
-Defina limites de dias personalizados por país e por membro da família. Configure seus próprios objetivos para estar ciente de quantos dias você passou no exterior — seja qual for a forma como suas regras de viagem funcionam.
+Com Pro, defina limites de dias personalizados por país e por membro da família. Defina os seus próprios objetivos para acompanhar quantos dias as viagens guardadas abrangem, usando uma janela de contagem fixa ou móvel.
 
 Pro
 
 ### Exportação de PDF de Viagem
 
-Exporte qualquer viagem como um PDF refinado: página de capa, passaportes dos membros, itinerário, atividades e documentos em ordem. As exportações Pro são limpas e sem marca, prontas para compartilhar com companhias aéreas, embaixadas ou família.
+Com Pro, exporte qualquer viagem como um PDF refinado: página de capa, passaportes dos membros, itinerário, atividades e documentos em ordem. As exportações são limpas e sem marca, prontas para compartilhar com companhias aéreas, embaixadas ou família.
 
 Pro
 
 ### Pronto para Embarque
 
-Anexe números de voo, confirmações de hotel e referências de reserva a qualquer viagem. Documentos e reservas em um único lugar — toque uma vez no check-in. Nada para procurar no portão de embarque.
+Com Pro, anexe números de voo, confirmações de hotel e referências de reserva a qualquer viagem. Documentos e reservas em um único lugar — toque uma vez no check-in. Nada para procurar no portão de embarque.
 
 ### Desfazer em 30 Dias
 
@@ -70,7 +70,7 @@ Gestão de Documentos
 
 ### Passaportes
 
-Capture tanto a página de fotografia como a página de dados. A leitura MRZ lê a zona de leitura óptica para preencher automaticamente o nome, número e data de expiração.
+Capture o passaporte aberto numa só imagem. A leitura MRZ lê a zona de leitura ótica para preencher a data de validade e o país emissor quando consegue. Confirme os resultados ou introduza-os manualmente. O reconhecimento de texto é feito no dispositivo.
 
 ### Armazenamento Encriptado
 
@@ -82,11 +82,11 @@ Captura de frente e verso num único documento. Ideal para cartas de condução,
 
 ### Seguros e Cartões de Saúde
 
-Guarde cartões de seguro de saúde, apólices de seguro de viagem e prescrições repetidas com lembretes de expiração. Nunca perca uma renovação nem fique sem aviso.
+Guarde cartões de seguro de saúde, apólices de seguro de viagem e prescrições repetidas com lembretes de expiração. Os lembretes começam três meses antes do fim da validade por predefinição.
 
 ### Vistos e Documentos
 
-Suporte especializado A5 / meia página para carimbos e autocolantes de visto. Suporte A4 completo para vistos eletrónicos, apólices de seguro de viagem e documentos grandes. Suporta ficheiros de várias páginas.
+Suporte especializado A5 / meia página para carimbos e autocolantes de visto. Suporte A4 completo para vistos eletrónicos, apólices de seguro de viagem e documentos grandes. Suporta ficheiros de várias páginas com Pro.
 
 ### Bilhetes de Avião
 
@@ -94,7 +94,7 @@ Guarde cartões de embarque e bilhetes eletrónicos com lembretes de contagem de
 
 ### Importação Flexível
 
-Importe ficheiros PDF existentes ou imagens da sua biblioteca de fotos. As digitalizações existentes importam-se sem problemas.
+Importe ficheiros PDF existentes ou imagens da sua biblioteca de fotos. Abra as digitalizações guardadas sem voltar a digitalizar.
 
 ### Editar Documentos Guardados
 
@@ -124,17 +124,17 @@ Guarde cartões de oferta, códigos de desconto, bilhetes de eventos e passes de
 
 ### Adiar Lembretes
 
-Pause qualquer lembrete de vencimento sem editar o documento. Adie por um dia, uma semana ou um mês — o lembrete retoma automaticamente quando o período de adiamento termina.
+Pause qualquer lembrete de vencimento sem editar o documento. Reagende um lembrete selecionado para uma hora depois, três horas depois, amanhã ou na próxima semana.
 
 ### Codificar Documentos por Cor
 
-Atribua uma cor a qualquer tipo de documento ou documento individual para reconhecimento visual instantâneo. Sobreponha cores por perfil para que o cofre de toda a sua família seja fácil de navegar à primeira vista.
+Com Pro, atribua uma cor a qualquer tipo de documento ou documento individual para reconhecimento visual instantâneo. Sobreponha cores por perfil para que o cofre de toda a sua família seja fácil de navegar à primeira vista.
 
 ### Exportar, Cópia de Segurança e Restauro
 
 PRO
 
-Gere PDFs combinados de vários documentos e faça cópia de segurança do seu cofre encriptado no seu próprio iCloud ou Google Drive, com restauro num toque em qualquer dispositivo. A exportação e o restauro gratuitos do cofre estão sempre incluídos.
+A exportação e importação do cofre são gratuitas para todos. Pro acrescenta PDFs combinados e cópia de segurança encriptada na nuvem para o seu próprio iCloud ou Google Drive. Restaure cópias de segurança na nuvem com o código de recuperação num dispositivo compatível na mesma plataforma, usando a mesma conta na nuvem.
 
 Captura Inteligente
 
@@ -162,7 +162,7 @@ Lembretes Inteligentes
 
 ## Fique à Frente dos Prazos
 
-A renovação média de passaporte demora **6-8 semanas**. Lembramos-lhe **8 meses antes**, não 6 dias.
+Os lembretes começam automaticamente, conforme o tipo de documento. Para passaportes, começam **8 meses antes do fim da validade** e continuam aos **6 meses, 3 meses, 6 semanas, 1 mês, 2 semanas e 1 semana**, com mais lembretes no dia em que expiram e depois. Vistos, cartões de identidade nacionais e seguros de viagem começam 3 meses antes. Bilhetes de avião, reservas de hotel e vouchers começam uma semana antes. Os utilizadores Pro podem escolher outro ponto de partida para qualquer documento.
 
 #### Lembretes de Passaporte
 
@@ -174,7 +174,7 @@ A renovação média de passaporte demora **6-8 semanas**. Lembramos-lhe **8 mes
 
 #### Lembretes de Bilhete de Avião
 
-1 semana 2 dias 1 dia 24 horas Dia de viagem
+1 semana 2 dias 1 dia 24 horas
 
 **Lembretes pós-expiração** (a laranja) ajudam-no a controlar documentos expirados. Mesmo que tenha perdido a data de expiração, continuará a receber lembretes para renovar, tornando-os ideais para documentos que expiram durante as viagens.
 
@@ -184,7 +184,7 @@ Perfis de Família
 
 ### Perfis Separados
 
-Crie um perfil para cada membro da família. Mantenha os documentos de todos organizados e fáceis de encontrar.
+Com Pro, crie um perfil para cada membro da família. Mantenha os documentos de todos organizados e fáceis de encontrar.
 
 ### Vistas por Perfil
 
@@ -212,7 +212,7 @@ Adapta-se às suas definições do sistema. Bonito em ambas as aparências.
 
 Deslize entre os lados do documento. Belisque para ampliar até 5x para inspeção detalhada.
 
-### Pré-visualização Rápida
+### Visualizador PDF integrado
 
 Integração nativa de visualização de PDF. Rápida, familiar e repleta de funcionalidades.
 
@@ -224,11 +224,11 @@ Disponível em mais de 40 idiomas, para que a aplicação pareça nativa onde qu
 
 ### Acessível por Design
 
-Suporte completo a VoiceOver e TalkBack. O Tipo Dinâmico escala cada rótulo com o tamanho de fonte do sistema. Cada botão cumpre o alvo de toque mínimo de 44pt.
+Concebido para VoiceOver e TalkBack. O texto acompanha o tamanho de letra do sistema, e os estilos partilhados dos controlos visam áreas de toque de 44pt (48dp no Android).
 
 ### Háptica Cuidadosa
 
-O feedback háptico subtil confirma cada ação. Guardar, eliminar e digitalizar têm respostas tácteis distintas para que saiba sempre que algo funcionou.
+As principais ações usam resposta háptica quando o dispositivo a suporta.
 
 Operações em Lote
 
@@ -242,31 +242,31 @@ Prima longamente qualquer cartão de documento para aceder instantaneamente a a�
 
 PRO
 
-Toque em "Selecionar" para escolher vários documentos de uma vez. Use o menu de Ações unificado para exportar, partilhar ou eliminar a sua seleção em lote.
+Toque em "Selecionar" para escolher vários documentos de uma vez. Use o menu Ações unificado para exportar ou partilhar a seleção em lote (Pro), ou eliminá-la.
 
 ### Partilha em Lote
 
 PRO
 
-Partilhe vários ficheiros de documentos originais de uma vez através do painel de partilha do dispositivo (e-mail, mensagens e mais). Os ficheiros são desencriptados de forma segura apenas durante a partilha.
+Com Pro, partilhe vários ficheiros originais de documentos através de menus de partilha sucessivos (e-mail, mensagens e mais). A aplicação desencripta os originais para partilhar e também para visualizar e editar.
 
 #### Eliminação Segura com Desfazer
 
-Eliminou um documento acidentalmente? Toque em Desfazer imediatamente para restaurá-lo. Perdeu a janela? Move-se para Eliminados Recentemente, onde fica durante 30 dias antes de ser eliminado permanentemente — proporcionando-lhe uma rede de segurança sem comprometer a sua privacidade.
+Eliminou um documento acidentalmente? Toque em Desfazer imediatamente para restaurá-lo. Perdeu a janela? O documento passa para Eliminado Recentemente. Com a cópia de segurança na nuvem desativada, a aplicação elimina-o automaticamente após 30 dias; com a cópia de segurança ativada, fica lá até o eliminar permanentemente. Também pode eliminá-lo permanentemente antes desse prazo.
 
 Privacidade e Segurança
 
 ## Os Seus Dados, O Seu Dispositivo
 
-Nenhum servidor, nenhuma conta, nenhum rastreamento. Construído por Mustafa Hafeez com arquitetura orientada para privacidade. [Política de Privacidade](https://traveldocumentvault.com/privacy-policy/) e [Verificação](https://traveldocumentvault.com/privacy-policy/).
+Nenhum servidor que guarde os seus documentos, nenhuma conta, nenhum rastreamento. Construído por Mustafa Hafeez com arquitetura orientada para privacidade. [Política de Privacidade](https://traveldocumentvault.com/privacy-policy/) e [Verificação](https://traveldocumentvault.com/privacy-policy/).
 
 ### Os Seus Dados Permanecem Seus
 
-Desenhámos isto para não ter de nos confiar com os seus dados — não temos servidores nem acesso, pelo que por predefinição o cofre fica no seu dispositivo. Se optar pela cópia de segurança Pro opcional para o seu iCloud ou Google Drive, fica selada com um código de recuperação apenas para si, que ainda não conseguimos ler.
+Desenhámos isto para não ter de nos confiar com os seus dados — não temos servidores que guardem os seus documentos nem acesso a eles, pelo que por predefinição o cofre fica no seu dispositivo. Se optar pela cópia de segurança Pro opcional para o seu iCloud ou Google Drive, fica selada com um código de recuperação apenas para si, que ainda não conseguimos ler.
 
 ### Funciona Offline
 
-Nenhuma internet necessária. Funciona completamente offline.
+Os dados do cofre são encriptados no dispositivo; os ficheiros de documentos usam AES-256-GCM. Os documentos guardados, as datas de validade e os lembretes agendados funcionam offline.
 
 ### Sem Rastreamento
 
@@ -274,11 +274,11 @@ Nenhuma análise. Nenhum anúncio. Nenhum SDK escondido a recolher dados.
 
 ### Notificações Privadas
 
-Os lembretes nunca revelam detalhes do documento. Apenas "Um documento está a expirar em breve."
+Os lembretes não incluem imagens digitalizadas nem um campo separado com o número do documento. O texto do lembrete pode incluir o título guardado do documento, pelo que deve evitar colocar números sensíveis no título.
 
 ### Controla a Partilha
 
-Os dados saem apenas quando escolhe explicitamente partilhar através da folha de partilha do sistema. Inclui avisos de conteúdo sensível.
+Os ficheiros de documentos saem quando escolhe partilhá-los através do menu de partilha do sistema, exportá-los ou ativar a cópia de segurança encriptada (Pro). Inclui avisos de conteúdo sensível.
 
 ### Bloqueio PIN
 
@@ -290,23 +290,23 @@ Desbloqueie com Face ID ou Touch ID em vez de PIN. Gratuito para todos os utiliz
 
 ### Proteção Contra Captura de Ecrã
 
-Os ecrãs do documento são automaticamente protegidos contra capturas de ecrã e gravações de ecrã. A sua informação sensível fica no ecrã, não no carrossel de câmara de alguém.
+A proteção contra capturas de ecrã está ativada por predefinição nos ecrãs de documentos quando é suportada. Ajuda a reduzir cópias acidentais.
 
 ### Código de Recuperação
 
-Esqueceu o PIN? O seu código de recuperação permite-lhe desativá-lo e recuperar acesso sem perder dados. Gere um em Definições e armazene-o num local seguro.
+Esqueceu o PIN? O código de recuperação ajuda a recuperar o acesso sem eliminar os documentos. A aplicação cria um quando define o PIN; guarde-o num local seguro.
 
 ### Mostrar a Outra Pessoa
 
-Precisa mostrar um documento na fronteira ou na receção do hotel? O modo de visualização protegido exibe o documento enquanto previne capturas de ecrã, gravações de ecrã e multitarefa. Bloqueie quando terminar.
+Precisa mostrar um documento na fronteira ou na receção do hotel? O modo de visualização protegido mostra o documento com proteção contra capturas de ecrã ativada por predefinição, quando é suportada. Se tiver definido um PIN, a aplicação bloqueia quando fecha a vista.
 
 ### Armazenamento Encriptado
 
-Os documentos são encriptados no seu dispositivo usando encriptação padrão da indústria. Os seus dados estão protegidos mesmo se o dispositivo for comprometido.
+Os documentos são encriptados no seu dispositivo usando encriptação padrão da indústria. Os ficheiros de documentos encriptados precisam da respetiva chave de encriptação para serem lidos; os originais partilhados são legíveis.
 
 ### Apagar Automaticamente
 
-Ative opcionalmente apagar automaticamente em Definições. Após demasiadas tentativas falhadas de PIN, o cofre limpa-se completamente. Os seus dados não podem ser forçados brutalmente.
+O Apagamento automático está ativado por predefinição depois de definir um PIN. Pode desativá-lo em Definições. Destina-se a apagar o cofre local após repetidas tentativas incorretas de PIN. As tentativas de PIN têm limites de frequência. Mantenha uma cópia de segurança independente antes de confiar nesta funcionalidade.
 
 **Importante:** O Travel Document Vault é uma ferramenta de organização pessoal para armazenar cópias digitais dos seus documentos. **As cópias digitais armazenadas nesta aplicação NÃO são válidas para viagens.** Não verifica a autenticidade dos documentos nem fornece aconselhamento jurídico ou de viagem. Transporte sempre documentos originais e verifique todos os requisitos de viagem junto de fontes governamentais oficiais.
 

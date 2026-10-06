@@ -67,25 +67,25 @@ Se il tuo account Google viene compromesso, qualcuno con accesso può recuperare
 
 ## Opzione 3: App Crittografate Dedicate
 
-Un'app crittografata dedicata progettata per documenti di viaggio funziona interamente sul tuo dispositivo e non carica mai i dati su server esterni.
+Travel Document Vault conserva i documenti sul telefono per impostazione predefinita. Puoi condividere o esportare copie, oppure eseguirne il backup sul tuo iCloud o Google Drive con Pro.
 
 ### Come funziona
 
-Quando aggiungi la scansione del tuo passaporto all'app, viene crittografata utilizzando AES-256 e archiviata interamente sul tuo telefono. L'app funziona completamente offline — nessun account richiesto, nessun server necessario. Se desideri l'accesso multi-dispositivo, una funzione Pro opzionale esegue il backup di una copia crittografata su iCloud o Google Drive, sigillata con un codice di recupero che solo tu conosci.
+Quando aggiungi la scansione del tuo passaporto all'app, viene crittografata utilizzando AES-256 e archiviata interamente sul tuo telefono. L'app funziona completamente offline — nessun account richiesto, nessun server necessario. Con Pro puoi eseguire il backup di una copia crittografata sul tuo iCloud o Google Drive e sincronizzarla tra dispositivi configurati sulla stessa piattaforma. Ti servirà il codice di recupero per ripristinare un backup cloud.
 
 ### Proprietà di sicurezza
 
-- **Crittografia AES-256 sul dispositivo:** Sì. I dati non lasciano mai il tuo telefono.
-- **Richiede account:** No. Nessun account, nessun server, nessun login.
-- **Caricamento nel cloud:** No. Nessuno.
+- **Crittografia AES-256 sul dispositivo:** Sì. I dati restano sul telefono, salvo quando li condividi, li esporti o attivi il backup crittografato sul tuo iCloud o Google Drive (Pro).
+- **Richiede account:** No. Nessun account TDV o accesso; il backup crittografato facoltativo sul tuo iCloud o Google Drive (Pro) usa il tuo account cloud.
+- **Caricamento nel cloud:** Backup crittografato facoltativo sul tuo iCloud o Google Drive (Pro); puoi anche condividere o esportare copie.
 - **Funziona offline:** Sì, completamente.
 - **Progettato per documenti di identità:** Sì. L'intera architettura è ottimizzata per mantenere i documenti sensibili privati.
 
 ### Compromessi
 
-I vantaggi di sicurezza sono sostanziali: i tuoi dati del passaporto non vengono mai trasmessi o archiviati su un server remoto, quindi non sono mai accessibili a nessun altro, e non c'è nessun server remoto da violare se qualcuno accede non autorizzato ai sistemi della società che sviluppa l'app. Ciò significa che mantieni il controllo completo e la proprietà dei tuoi documenti in ogni momento.
+Travel Document Vault conserva i documenti sul telefono per impostazione predefinita. Condivisione ed esportazione sono facoltative, come il backup crittografato sul tuo iCloud o Google Drive con Pro.
 
-Tuttavia, questo design comporta una praticità ridotta poiché non puoi accedere automaticamente alla tua copia del passaporto su più dispositivi. Se perdi il telefono, l'app non ripristinerà automaticamente i tuoi documenti — dovrai ripristinare manualmente da un backup. Per la maggior parte delle famiglie che viaggiano insieme, l'archiviazione dei documenti sul telefono di un genitore è sufficiente, e molte app supportano la sincronizzazione manuale tramite backup, il che aggiunge un livello di flessibilità senza richiedere il caricamento automatico nel cloud.
+Con Pro puoi sincronizzare i documenti tra dispositivi configurati sulla stessa piattaforma. Se perdi il telefono, ripristina un backup salvato. Per il ripristino dal cloud serve il codice di recupero. Per la maggior parte delle famiglie che viaggiano insieme, l'archiviazione dei documenti sul telefono di un genitore è sufficiente, e molte app supportano la sincronizzazione manuale tramite backup, il che aggiunge un livello di flessibilità senza richiedere il caricamento automatico nel cloud.
 
 ## Tabella di Confronto Diretto
 
@@ -95,8 +95,8 @@ Tuttavia, questo design comporta una praticità ridotta poiché non puoi acceder
 | Crittografato end-to-end | Opzionale (Advanced Data Protection) | No | Sì (sempre) |
 | Account richiesto | Sì (Apple ID) | Sì (account Google) | No |
 | Funziona completamente offline | No (necessita sincronizzazione) | No (necessita sincronizzazione) | Sì |
-| Rischio di violazione remota | Medio (server di Apple) | Medio-Alto (server di Google + scansione dei contenuti) | Nessuno (nessuna archiviazione remota) |
-| Accesso multi-dispositivo | Automatico | Automatico | Solo backup manuale |
+| Rischio di violazione remota | Medio (server di Apple) | Medio-Alto (server di Google + scansione dei contenuti) | Backup crittografato facoltativo sul tuo iCloud o Google Drive (Pro) |
+| Accesso multi-dispositivo | Automatico | Automatico | Esportazione manuale del vault; backup cloud e sincronizzazione automatici facoltativi (Pro) |
 | Costo | Gratuito (200GB), poi a pagamento | Gratuito (15GB), poi a pagamento | In genere acquisto una tantum |
 | Progettato per documenti di identità | No | No | Sì |
 
@@ -130,7 +130,7 @@ Google Photos non è crittografato end-to-end per impostazione predefinita. Goog
 
 ### Quali sono i vantaggi di un'app crittografata dedicata per l'archiviazione del passaporto?
 
-Un'app crittografata dedicata progettata specificamente per documenti di viaggio in genere archivia i dati sul dispositivo utilizzando la crittografia AES-256, non richiede account o caricamento nel cloud, funziona offline e ha un'area di violazione molto più piccola. Poiché i tuoi dati del passaporto non lasciano mai il telefono, non c'è nessun server remoto da violare. Il compromesso è una ridotta praticità per l'accesso multi-dispositivo, ma per gli utenti orientati alla sicurezza, questo è il metodo di archiviazione più sicuro disponibile.
+Travel Document Vault crittografa i file originali dei documenti con AES-256 e ti permette di consultarli offline senza un account per l’app. Puoi condividere o esportare copie. Pro aggiunge il backup crittografato facoltativo sul tuo iCloud o Google Drive e la sincronizzazione tra dispositivi configurati sulla stessa piattaforma.
 
 ### Posso usare più metodi di archiviazione per lo stesso passaporto?
 

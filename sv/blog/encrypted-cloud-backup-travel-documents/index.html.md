@@ -1,6 +1,6 @@
 # Krypterad molnsäkerhetskopiering för resehandlingar: Vem som har nyckeln
 
-> Vad krypterad säkerhetskopiering innebär för skannade pass, varför ingen kan återställa din återställningskod, och hur du sparar en kopia som fungerar.
+> Vad krypterad säkerhetskopiering innebär för skannade pass, varför vi inte kan återställa din återställningskod, och hur du sparar en kopia som fungerar.
 
 Source: https://traveldocumentvault.com/sv/blog/encrypted-cloud-backup-travel-documents/
 
@@ -12,9 +12,9 @@ Source: https://traveldocumentvault.com/sv/blog/encrypted-cloud-backup-travel-do
 
 - **"Krypterad säkerhetskopiering" betyder bara något när du vet vem som har nyckeln.** Om företaget kan läsa dina handlingar skyddar krypteringen dem från främlingar, inte från företaget.
 - En säkerhetskopia krypterad på din telefon före uppladdning når molnet som oläsbar data. Lagringsleverantören har krypterad text, inte ditt pass.
-- **Inget konto betyder ingen lösenordsåterställning.** Förlorar du återställningskoden kan säkerhetskopian inte öppnas av någon, oss inräknat. Det är den medvetna avvägningen.
+- **Inget konto betyder ingen lösenordsåterställning.** Förlorar du återställningskoden och tillgången till alla enheter som fortfarande kan öppna valvet kan vi inte återställa den krypterade säkerhetskopian. Det är den medvetna avvägningen.
 - Skriv ner koden innan du förlitar dig på säkerhetskopian, förvara den borta från telefonen, och läs upp den en gång för att kontrollera att den går att läsa.
-- En systembaserad enhetssäkerhetskopia installerar om appen men kan inte få tillbaka dina handlingar, eftersom krypteringsnyckeln aldrig lämnade den gamla telefonen.
+- En systembaserad enhetssäkerhetskopia installerar om appen men kan inte få tillbaka dina handlingar, eftersom systemsäkerhetskopior inte överför den enhetsbundna krypteringsnyckeln.
 
 Du har skannat in fyra pass, två visum och barnens födelsebevis i en app som sparar allt på din telefon. Bra. Sedan dyker den självklara oron upp: vad händer när telefonen hamnar i havet eller blir stulen från ett kafébord i Lissabon.
 
@@ -32,11 +32,11 @@ Det andra upplägget blandar ihop filen på din telefon innan den skickas någon
 
 Så frågan värd att ställa till vilken app som helst är kort: **vem har nyckeln?** Allt annat i marknadsföringen följer av svaret.
 
-## Återställningskoden, och varför ingen kan återställa den
+## Återställningskoden, och varför vi inte kan återställa den
 
-Här är den del de flesta artiklar hoppar över, och den förtjänar att sägas rakt ut: Travel Document Vault har inga konton. Du har aldrig gett oss en e-postadress, vi har aldrig satt upp ett lösenord åt dig, och det finns ingen uppgift om dig på någon server vi driver. När du slår på [molnsäkerhetskopiering](https://traveldocumentvault.com/sv/cloud-backup/) genererar appen en 24-tecken lång återställningskod och härleder krypteringsnyckeln från den. Det krypterade valvet skickas sedan till **din egen iCloud på iPhone och iPad, eller din egen Google Drive på Android**, i stället för till oss.
+Travel Document Vault kräver inget appkonto för att lagra dokument på din enhet. Valfri [molnsäkerhetskopiering](https://traveldocumentvault.com/sv/cloud-backup/) kräver Pro och din återställningskod för att låsa upp molnets krypteringsnyckel. Appen skapar denna 24-tecken långa kod när du ställer in din PIN. Det krypterade valvet skickas sedan till **din egen iCloud på iPhone och iPad, eller din egen Google Drive på Android**, i stället för till oss.
 
-Konsekvensen är oundviklig. **Om du förlorar återställningskoden kan säkerhetskopian aldrig öppnas igen.** Inte av dig, inte av Apple eller Google, och inte av oss. Det finns ingen återställningslänk, eftersom det inte finns något konto att koppla den till. Det finns inget supportärende som kan återställa den, eftersom vi aldrig har haft den och inte ens kan börja gissa oss till den.
+Konsekvensen är oundviklig. **Om du förlorar återställningskoden och tillgången till alla enheter som fortfarande kan öppna valvet kan vi inte återställa den krypterade säkerhetskopian.** Det finns ingen återställningslänk, eftersom det inte finns något konto att koppla den till. Det finns inget supportärende som kan återställa den, eftersom vi aldrig har haft den och inte ens kan börja gissa oss till den.
 
 Det låter hårt skrivet i klartext, och det är värt att vara ärlig om det i stället för att gömma undan det på en inställningsskärm. Det är samma avvägning du gör med en husnyckel: låset är bara värt något för att ingen låssmed på jorden har en reservnyckel, och det är precis därför att förlora din blir ditt eget problem.
 
@@ -68,17 +68,17 @@ Vilket är varför det ärliga svaret på "är molnet säkert" är: molnet är e
 
 ## Vad som ingår i säkerhetskopian, och vad som stannar kvar
 
-Säkerhetskopian innehåller en krypterad kopia av valvet: varje profil, varje skanning, utgångsdatum, påminnelser, anteckningar och bilagor. Återställ den och appen ser ut precis som du lämnade den.
+Säkerhetskopian innehåller profiler, skanningar, bilagor, utgångsdatum, anteckningar och påminnelsehistorik som kan flyttas till en ny enhet. Appen krypterar dem före uppladdning. Återställningen tar tillbaka detta valvinnehåll; enhetsinställningar hålls separat och appen skapar aviseringar på nytt.
 
-Tre saker stannar medvetet kvar på telefonen, och återställningskoden kommer först: den lämnar aldrig enheten, vilket är hela poängen. Ditt applås förblir också lokalt, så Face ID, Touch ID eller din PIN-kod håller andra borta från telefonen medan krypteringen håller dem borta från filen. Och de automatiska lokala ögonblicksbilderna som appen tar medan du arbetar stannar bara på enheten.
+Tre saker stannar medvetet kvar på telefonen, och återställningskoden kommer först: den laddas inte upp med säkerhetskopian. Ditt applås förblir också lokalt, så Face ID, Touch ID eller din PIN-kod håller andra borta från appen medan krypteringen håller dem borta från filen. Och de automatiska lokala ögonblicksbilderna som appen tar medan du arbetar stannar bara på enheten.
 
-Det sista brukar överraska folk, så här kommer den raka versionen. **En systemnivås enhetssäkerhetskopia installerar om appen men kan inte återställa dina handlingar.** Krypteringsnyckeln lämnade aldrig den gamla telefonen, så den nya har inget att dekryptera med. Om du vill att ditt valv ska överleva telefonen behöver du antingen ha molnsäkerhetskopiering påslagen eller en exporterad fil sparad någonstans.
+Det sista brukar överraska folk, så här kommer den raka versionen. **En systemnivås enhetssäkerhetskopia installerar om appen men kan inte återställa dina handlingar.** Systemsäkerhetskopior överför inte den enhetsbundna krypteringsnyckeln, så den nya telefonen behöver molnåterställning (Pro) eller en exporterad valvfil. Om du vill att ditt valv ska överleva telefonen behöver du antingen ha molnsäkerhetskopiering påslagen eller en exporterad fil sparad någonstans.
 
-## Återställningen går snabbt och skriver inte över det som redan finns
+## Återställ ditt valv – att börja från början påverkar aldrig den gamla säkerhetskopian
 
-Återställningen går snabbt, vilket är hela poängen med att göra förberedelserna i förväg.
+Återställningstiden beror på valvets storlek och din anslutning.
 
-Installera appen på den nya telefonen och logga in på samma iCloud- eller Google-konto som du använde tidigare. Öppna Inställningar, sedan Molnsäkerhetskopiering, sedan Återställ från säkerhetskopia, och ange din återställningskod. Valvet kommer tillbaka med profiler, utgångsdatum och påminnelser intakta.
+Installera appen på den nya telefonen och logga in på samma iCloud- eller Google-konto som du använde tidigare. Med Pro och molnsäkerhetskopiering avstängd på den mottagande enheten öppnar du Inställningar, Molnsäkerhetskopia och sedan Återställ från säkerhetskopia. Välj det befintliga valvet, ange din återställningskod och bekräfta återställningen, som ersätter det lokala valvets innehåll. Profiler, dokument och utgångsdatum återställs; aviseringar skapas på nytt på den mottagande enheten.
 
 Appen kontrollerar också innan den skriver. Om molnsäkerhetskopieringen upptäcker en befintlig säkerhetskopia i det kontot ber den dig välja mellan att återställa och börja om från början. En ny telefon kan inte tyst skriva över det som redan finns där.
 
@@ -86,7 +86,7 @@ Appen kontrollerar också innan den skriver. Om molnsäkerhetskopieringen upptä
 
 Molnsäkerhetskopiering stannar på en plattform, eftersom den använder din egen iCloud på Apple-enheter och din egen Google Drive på Android. Att gå från den ena till den andra kräver den andra vägen.
 
-Använd Exportera valv. Inställningar, Exportera valv skapar en enda lösenordsskyddad fil som innehåller allt, och du väljer var den ska hamna: Filer-appen, en molnenhet, ett mejl till dig själv. På den nya telefonen läser Inställningar, Importera säkerhetskopia in den igen. Det fungerar i båda riktningarna och behåller namn, datum, påminnelser, färger, anteckningar och bilagor som de var.
+Valvexport är kostnadsfri. Under Inställningar skapar Exportera valv en lösenordsskyddad fil med profiler, dokument, resor, inställningar som stöds och läsbara bilagor. Du väljer var den ska sparas: Filer-appen, en lagringsenhet eller ett mejl till dig själv. På den nya telefonen läser Inställningar, Importera säkerhetskopia in filen och ersätter det som redan finns där. Det stöder båda plattformarna. Granska importerade dokument, anteckningar och bilagor, kontrollera påminnelserna igen och behåll originalexporten. Aviseringar skapas på nytt på den mottagande enheten.
 
 Den exporterade filen är också svaret för alla som vill ha en kopia som inte alls beror på ett molnkonto. Det är förnuftigt att förvara den på en hårddisk hemma oavsett vilken telefon du bär på.
 
@@ -114,23 +114,23 @@ Det betyder att kopian blandas ihop på din telefon innan den skickas någonstan
 
 ### Vad händer om jag förlorar min säkerhetskopieringsnyckel?
 
-Säkerhetskopian förblir krypterad och ingen kan öppna den, inte ens vi. Det finns inget konto, ingen lösenordsåterställning och ingen supportväg som kan återställa den, eftersom återställningskoden aldrig når oss över huvud taget. Det är den medvetna avvägningen för att inte heller någon annan ska kunna läsa dina handlingar. Skriv ner koden innan du förlitar dig på säkerhetskopian, förvara den skilt från telefonen, och läs upp den en gång för att kontrollera att du kan.
+Om du förlorar återställningskoden och tillgången till alla enheter som fortfarande kan öppna valvet kan vi inte återställa den krypterade säkerhetskopian. Det finns inget konto, ingen lösenordsåterställning och ingen supportväg som kan återställa den, eftersom återställningskoden aldrig når oss över huvud taget. Det är den medvetna avvägningen för att inte heller någon annan ska kunna läsa dina handlingar. Skriv ner koden innan du förlitar dig på säkerhetskopian, förvara den skilt från telefonen, och läs upp den en gång för att kontrollera att du kan.
 
 ### Är molnsäkerhetskopiering säker för passkopior?
 
-Det beror helt på vad som når molnet. Ett foto av ditt pass i ett vanligt fotobibliotek eller en synkmapp anländer läsbart, och alla som tar sig in i det kontot kan läsa det. En säkerhetskopia krypterad på enheten före uppladdning anländer som krypterad text, så lagringsleverantören har något den inte kan öppna. Travel Document Vault krypterar valvet på din telefon med AES-256-GCM och skickar den krypterade filen till din egen iCloud eller Google Drive i stället för till en företagsserver.
+Det beror helt på vad som når molnet. Ett foto av ditt pass i ett vanligt fotobibliotek eller en synkmapp anländer läsbart, och alla som tar sig in i det kontot kan läsa det. En säkerhetskopia krypterad på enheten före uppladdning anländer som krypterad text, så lagringsleverantören har något den inte kan öppna. Med Pro krypterar Travel Document Vault valvet på din telefon med AES-256-GCM och skickar den krypterade filen till din egen iCloud eller Google Drive i stället för till en TDV-server.
 
 ### Kan jag återställa mina handlingar på en annan telefon?
 
-Ja. Installera appen på den nya telefonen, logga in på samma iCloud- eller Google-konto, öppna sedan Inställningar, Molnsäkerhetskopiering, Återställ från säkerhetskopia och ange din återställningskod. Dina profiler, handlingar, utgångsdatum och påminnelser kommer tillbaka som de var. Observera att en systemnivås enhetssäkerhetskopia inte gör det här på egen hand: den installerar om appen men kan inte dekryptera dina handlingar, eftersom krypteringsnyckeln aldrig lämnar din ursprungliga enhet.
+Ja, med Pro. Installera appen på den nya telefonen och logga in på samma iCloud- eller Google-konto. Med molnsäkerhetskopiering avstängd på den mottagande enheten öppnar du Inställningar, Molnsäkerhetskopia och sedan Återställ från säkerhetskopia. Välj det befintliga valvet, ange din återställningskod och bekräfta återställningen, som ersätter det lokala valvets innehåll. Profiler, dokument och utgångsdatum återställs; aviseringar skapas på nytt på den mottagande enheten. Observera att en systembaserad enhetssäkerhetskopia inte gör det här på egen hand: den installerar om appen men kan inte dekryptera dina handlingar, eftersom systemsäkerhetskopior inte överför den enhetsbundna krypteringsnyckeln.
 
 ### Fungerar säkerhetskopieringen mellan iPhone och Android?
 
-Molnsäkerhetskopieringen i sig stannar på en plattform, eftersom den använder din egen iCloud på iPhone och iPad och din egen Google Drive på Android. För att flytta mellan dem, använd Exportera valv i stället: Inställningar, Exportera valv skapar en enda lösenordsskyddad .tdvault-fil som du kan skicka till dig själv hur du vill, och sedan läser Inställningar, Importera säkerhetskopia på den nya telefonen in den igen. Import fungerar mellan plattformar i båda riktningarna och behåller namn, datum, påminnelser, anteckningar och bilagor intakta.
+Molnsäkerhetskopiering stannar på en plattform: din egen iCloud på iPhone och iPad, eller din egen Google Drive på Android. Använd den kostnadsfria valvexporten för att flytta mellan dem. Under Inställningar skapar Exportera valv en lösenordsskyddad .tdvault-fil som du kan skicka till dig själv. På den nya telefonen läser Inställningar, Importera säkerhetskopia in filen och ersätter de data som redan finns där. Import stöder båda plattformarna. Granska importerade dokument, anteckningar och bilagor, kontrollera påminnelserna igen och behåll originalexporten. Aviseringar skapas på nytt på den mottagande enheten.
 
 ### Vad lagras i säkerhetskopian och vad stannar på enheten?
 
-Säkerhetskopian innehåller en krypterad kopia av ditt valv: varje profil, dokumentskanning, utgångsdatum, påminnelse och anteckning. Din återställningskod finns inte med i den, och lämnar aldrig din enhet. Det gör inte heller ditt applås, så Face ID, Touch ID eller din PIN-kod skyddar telefonen medan krypteringen skyddar filen. Automatiska lokala ögonblicksbilder stannar också bara på enheten, vilket är varför de inte kan få tillbaka ditt valv på en ersättningstelefon.
+Säkerhetskopian innehåller profiler, läsbara skanningar och bilagor, utgångsdatum, anteckningar och påminnelsehistorik som kan överföras, krypterade före uppladdning. Din återställningskod laddas inte upp med säkerhetskopian. Det gör inte heller ditt applås, så Face ID, Touch ID eller din PIN-kod skyddar appen medan krypteringen skyddar filen. Automatiska lokala ögonblicksbilder stannar också bara på enheten, vilket är varför de inte kan få tillbaka ditt valv på en ersättningstelefon.
 
 ## Relaterade artiklar
 

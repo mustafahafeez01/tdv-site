@@ -1,54 +1,54 @@
 # Was ist mein Wiederherstellungscode? | Travel Document Vault
 
-> Ihr Wiederherstellungscode ist der Schlüssel zu Ihren verschlüsselten Cloud-Sicherungen. Was er ist, warum er zählt und wie Sie ihn sicher aufbewahren.
+> Ihr Wiederherstellungscode entsperrt Ihre verschlüsselten Cloud-Sicherungen. Was er ist, warum er zählt und wie Sie ihn sicher aufbewahren.
 
 Source: https://traveldocumentvault.com/de/faq/recovery-code/
 
 ---
 
-Ihr Wiederherstellungscode ist eine 24-stellige Passphrase, die Ihre Cloud-Sicherungen verschlüsselt. Wenn Sie ihn verlieren, werden diese Sicherungen unwiederherstellbar. Wir speichern ihn nicht und können ihn nicht zurücksetzen. Speichern Sie ihn also an einem sicheren Ort.
+Ihr Wiederherstellungscode ist eine 24-stellige Passphrase, die Ihre Cloud-Verschlüsselungsschlüssel entsperrt. Wenn Sie jede Kopie des Codes und den Zugang zu allen Geräten verlieren, die den Tresor noch entsperren können, können wir diese Backups nicht wiederherstellen. Wir speichern ihn nicht und können ihn nicht zurücksetzen. Speichern Sie ihn also an einem sicheren Ort.
 
 ## So funktioniert es
 
 ### Was ist es
 
-Ihr Wiederherstellungscode ist eine 24-stellige Passphrase, die generiert wird, wenn Sie Cloud-Sicherung aktivieren. Er sieht so aus:
+Ihr Wiederherstellungscode ist eine 24-stellige Passphrase, die erzeugt wird, wenn Sie Ihre PIN festlegen. Er sieht so aus:
 
 XXXX-XXXX-XXXX-XXXX-XXXX-XXXX
 
-Dieser Code wird mathematisch aus Ihren Sicherungseinstellungen abgeleitet und ist der einzige Schlüssel, der Ihren verschlüsselten Tresor in der Cloud entschlüsseln kann. Wir generieren ihn einmal und zeigen ihn Ihnen einmal. Danach liegt die Verantwortung für seine Sicherheit bei Ihnen.
+Ihr Wiederherstellungscode entsperrt die Verschlüsselungsschlüssel, die zur Wiederherstellung Ihres Cloud-Backups mit Pro nötig sind. Die App erzeugt ihn, wenn Sie Ihre PIN festlegen, und zeigt ihn einmal an. Bewahren Sie eine Kopie sicher auf.
 
 ### Warum Sie ihn benötigen
 
-Wenn Sie Cloud-Sicherung aktivieren, wird Ihr gesamter Tresor auf Ihrem Gerät mit AES-256-GCM verschlüsselt, bevor er Ihr Telefon verlässt. Der Verschlüsselungsschlüssel wird von Ihrem Wiederherstellungscode abgeleitet. Ohne den Wiederherstellungscode ist die Sicherung kryptographisch unzugänglich, selbst für uns.
+Bei der Cloud-Sicherung mit Pro verschlüsselt die App Ihre Dokumentinhalte auf Ihrem Gerät mit AES-256-GCM vor dem Hochladen. Ihr Wiederherstellungscode entsperrt die Cloud-Verschlüsselungsschlüssel. Sie benötigen ihn, um ein Backup wiederherzustellen. Wir besitzen keine Kopie.
 
-Dies ist eine Datenschutz-Garantie. Wir können Ihre Sicherungen buchstäblich nicht lesen, auf Anfrage entschlüsseln oder für Sie zurücksetzen. Wenn Ihr Wiederherstellungscode verloren geht, ist diese Sicherung auf Dauer weg. Das klingt streng, aber es ist genau das, was Sie wollen: Ihr Datenschutz ist nicht nur ein Versprechen, das wir machen, sondern eine technische Tatsache, die wir nicht verletzen können.
+Wir können Ihr Cloud-Backup nicht für Sie entschlüsseln oder zurücksetzen. Wenn Sie jede Kopie Ihres Wiederherstellungscodes und den Zugang zu allen Geräten verlieren, die den Tresor noch entsperren können, können wir dieses Backup nicht wiederherstellen.
 
 ### Wenn Sie ihn verlieren
 
-Falls Sie Ihren Wiederherstellungscode vergessen, kann Ihre bestehende Cloud-Sicherung nicht wiederhergestellt werden. Sie haben zwei Optionen:
+Falls Sie Ihren Wiederherstellungscode vergessen haben, hängen Ihre Möglichkeiten davon ab, ob Sie noch ein Gerät besitzen, das den Tresor entsperren kann, und dessen PIN kennen:
 
-- **Aus Ihrem Telefon wiederherstellen:** Falls der Code noch in der App gespeichert ist (überprüfen Sie Einstellungen - Cloud-Sicherung), kopieren Sie ihn an einen sicheren Ort und speichern Sie ihn.
-- **Einen neuen generieren:** Deaktivieren Sie Cloud-Sicherung und aktivieren Sie sie erneut. Dies erstellt einen neuen Wiederherstellungscode und verwirft die bestehende Sicherung. Sie beginnen von vorne.
+- **Einen neuen Code auf Ihrem Telefon erzeugen:** Lassen Sie die Cloud-Sicherung aktiviert und verbinden Sie sich mit dem Internet. Öffnen Sie „Einstellungen“, „Sicherheit“, „Wiederherstellungscode“, bestätigen Sie und geben Sie Ihre PIN ein. Bewahren Sie den neuen Code sicher auf und tippen Sie dann auf die Bestätigung, dass Sie den Code gespeichert haben, um ihn zu aktivieren. Folgen Sie gegebenenfalls den Aufforderungen zum erneuten Verbinden oder Synchronisieren.
+- **Auch das Telefon verloren:** Wenn Sie keine Kopie des Wiederherstellungscodes und kein anderes Gerät haben, das den Tresor noch entsperren kann, können wir das vorhandene Backup nicht öffnen. Aktivieren Sie die Cloud-Sicherung auf Ihrem neuen Telefon und wählen Sie einen Neustart.
 
 ### Wo Sie ihn aufbewahren
 
 Ihr Wiederherstellungscode ist so sensibel wie Ihr Master-Passwort. Speichern Sie ihn auf eine dieser Weisen:
 
-- **Passwort-Manager:** Bitwarden, 1Password, Apple Keychain oder ähnlich. Dies ist die bequemste Option.
+- **Passwort-Manager:** Verwenden Sie einen Passwort-Manager, dem Sie vertrauen.
 - **Physische Sicherung:** Schreiben Sie es auf Papier und speichern Sie es in einem Safe, Bankschließfach oder an einem sicheren Ort zu Hause.
 - **Offline-Dokument:** Speichern Sie es auf einem verschlüsselten externen Laufwerk oder USB-Stick (nie Cloud-synchronisiert).
 - **Vermeiden:** E-Mail, Notes-App, unverschlüsselte Cloud-Services oder Screenshots.
 
 ### Ihren Code neu generieren
 
-Falls Sie glauben, dass Ihr Wiederherstellungscode kompromittiert wurde, deaktivieren Sie Cloud-Sicherung und aktivieren Sie sie erneut. Die App generiert einen neuen Wiederherstellungscode. Ihre alte verschlüsselte Sicherung wird verworfen. Dies geschieht absichtlich: Rotation des Wiederherstellungscodes ist beabsichtigt selten und verlustbringend, damit Sie es nicht leichtfertig tun.
+Falls Sie glauben, dass Ihr Wiederherstellungscode kompromittiert wurde, lassen Sie die Cloud-Sicherung aktiviert und verbinden Sie sich mit dem Internet. Öffnen Sie „Einstellungen“, „Sicherheit“, „Wiederherstellungscode“, bestätigen Sie und geben Sie Ihre PIN ein. Bewahren Sie den neuen Code sicher auf und tippen Sie dann auf die Bestätigung, dass Sie den Code gespeichert haben, um ihn zu aktivieren. Folgen Sie gegebenenfalls den Aufforderungen zum erneuten Verbinden oder Synchronisieren.
 
-**Haftungsausschluss:** Ihr Wiederherstellungscode liegt in Ihrer alleinigen Verantwortung. Travel Document Vault kann ihn nicht wiederherstellen, zurücksetzen oder neu generieren, wenn er verloren geht. Speichern Sie ihn sicher. Verlassen Sie sich nicht auf diese App als einziges Sicherungssystem für wichtige Dokumente.
+**Haftungsausschluss:** Ihr Wiederherstellungscode liegt in Ihrer alleinigen Verantwortung. Travel Document Vault kann ihn nicht für Sie wiederherstellen oder zurücksetzen, wenn er verloren geht. Speichern Sie ihn sicher. Verlassen Sie sich nicht auf diese App als einziges Sicherungssystem für wichtige Dokumente.
 
 ## Bereit, Ihren Tresor zu schützen?
 
-Laden Sie Travel Document Vault herunter und aktivieren Sie Cloud-Sicherung, um Ihre Dokumente sicher zu halten.
+Laden Sie Travel Document Vault kostenlos herunter. Pro ergänzt verschlüsselte Backups in Ihrem eigenen iCloud oder Google Drive. Bewahren Sie Ihren Wiederherstellungscode sicher auf, bevor Sie die Sicherung aktivieren.
 
 ![Im App Store laden](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

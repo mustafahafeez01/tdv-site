@@ -52,7 +52,7 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
-[Viagens em FamíliaGestão de Passaportes Familiares: Guardar Múltiplos Passaportes em SegurançaComo organizar e guardar em segurança múltiplos passaportes familiares num único local. Acompanhe as datas de expiração de cada membro da família, com lembretes antes de cada renovação.16 de julho de 20267 min de leitura](https://traveldocumentvault.com/pt/blog/family-passport-management/)
+[Viagens em FamíliaGestão de Passaportes Familiares: Guardar Múltiplos Passaportes em SegurançaOrganize os passaportes da família num só lugar encriptado. Adicione perfis familiares com Pro e use as datas de validade e os lembretes para planear as renovações.16 de julho de 20267 min de leitura](https://traveldocumentvault.com/pt/blog/family-passport-management/)
 
 ##
 
@@ -142,9 +142,9 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 [Regras de PassaporteA Regra dos 6 Meses de Validade do Passaporte: Quais Países a Aplicam e Como Nunca Ficar Apanhado O seu passaporte pode ser válido, mas mesmo assim ser recusado. Saiba quais os países que aplicam a regra dos 6 meses, como as companhias aéreas a verificam e como garantir que toda a família está coberta antes de reservar. 1 fev 20267 min de leitura](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/)
 
-## A Última Vez Que Se Precipitará Antes de uma Viagem
+## Mantenha os dados do seu passaporte juntos
 
-Digitalize os passaportes da sua família esta noite. Os lembretes de expiração configuram-se sozinhos. Encriptado com segurança, guardado apenas no seu dispositivo.
+Digitalize o seu passaporte esta noite e confirme ou introduza a data de validade. Os lembretes estão ativados por predefinição e os documentos ficam encriptados no dispositivo. Pode partilhar ou exportar cópias. Pro acrescenta perfis familiares e cópia de segurança encriptada opcional para a sua própria nuvem.
 
 ![Descarregue na App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

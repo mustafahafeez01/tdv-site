@@ -64,7 +64,7 @@ Anforderungen zur Reisepass-Gültigkeit nach Land ändern sich ohne Vorankündig
 
 Überprüfen Sie Ihre spezifischen Anforderungen immer mit dem IATA Travel Centre, dem System, das Airlines verwenden, um Passagierdokumente in Echtzeit zu überprüfen.
 
-**Travel Document Vault** markiert jeden Reisepass, der zum Ende Ihrer Reise keine sechs Monate Gültigkeit mehr hat – für jedes Familienmitglied automatisch. [Im App Store herunterladen](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) und [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
+**Travel Document Vault** prüft mit Pro verknüpfte Reisepässe standardmäßig mit einem Puffer von 180 Tagen nach dem gespeicherten Reiseende, sofern Sie keinen eigenen Gültigkeitspuffer festlegen. Prüfen Sie die tatsächliche Regel Ihres Ziellandes gesondert. [Im App Store herunterladen](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) und [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
 
 ## Wann die Sechsmonats-Regel nicht gilt
 
@@ -104,7 +104,7 @@ Behandeln Sie Ihren Reisepass wie einen Autorreifen – warten Sie nicht, bis er
 
 Zählen Sie vor jeder Reise sechs Monate voraus ab dem Tag, an dem Sie das Ziel verlassen – das ist das spätere Datum und erfüllt damit beide Versionen der Regel. Überprüfen Sie das Ablaufdatum Ihres Reisepasses gegen dieses Datum – nicht nur gegen Ihre Reisedaten.
 
-Die Verwaltung mehrerer Reisepässe über eine Familie mit unterschiedlichen Ablaufdaten ist der Ort, an dem es unübersichtlich wird. [Travel Document Vault](https://traveldocumentvault.com) verfolgt dies automatisch – speichert das Ablaufdatum des Reisepasses jedes Familienmitglieds und sendet Erinnerungen ab acht Monaten vorher, dann erneut, je näher der Termin rückt. Kein mentales Rechnen vor jeder Buchung. Sie können auch weitere praktische [Reisedokumenttipps](https://traveldocumentvault.com/de/blog/) im Blog finden.
+Die Verwaltung mehrerer Reisepässe über eine Familie mit unterschiedlichen Ablaufdaten ist der Ort, an dem es unübersichtlich wird. [Travel Document Vault](https://traveldocumentvault.com) verfolgt Ihr Pass-Ablaufdatum, und mit Pro können Sie die ganze Familie hinzufügen. Pass-Erinnerungen beginnen standardmäßig acht Monate vor Ablauf und wiederholen sich, wenn das Datum näher rückt. Prüfen Sie die Gültigkeitsregel Ihres Ziellandes vor der Buchung. Sie können auch weitere praktische [Reisedokumenttipps](https://traveldocumentvault.com/de/blog/) im Blog finden.
 
 ## Ein Hinweis zum Überprüfen von Anforderungen vor Ihrer Reise
 
@@ -144,7 +144,7 @@ Ja. Airlines überprüfen die Reisepass-Gültigkeit mit einer branchenweit verbr
 
 ### Wie überprüfe ich, ob mein Reisepass die Sechsmonats-Regel erfüllt?
 
-Zählen Sie sechs Monate ab dem Tag, an dem Sie das Ziel verlassen, und überprüfen Sie, ob Ihr Reisepass nach diesem Datum abläuft. Das ist das spätere der beiden Daten, die Länder verwenden, daher deckt es beide Fälle ab. Wenn Sie beispielsweise am 1. August abreisen, muss Ihr Reisepass mindestens bis zum 1. Februar des folgenden Jahres gültig sein. Apps wie Travel Document Vault verfolgen dies automatisch für jedes Familienmitglied, sodass Sie nicht vor jeder Reise rechnen müssen.
+Zählen Sie sechs Monate ab dem Tag, an dem Sie das Ziel verlassen, und überprüfen Sie, ob Ihr Reisepass nach diesem Datum abläuft. Das ist das spätere der beiden Daten, die Länder verwenden, daher deckt es beide Fälle ab. Wenn Sie beispielsweise am 1. August abreisen, muss Ihr Reisepass mindestens bis zum 1. Februar des folgenden Jahres gültig sein. Mit Pro prüft Travel Document Vault verknüpfte Reisepässe standardmäßig mit einem Puffer von 180 Tagen nach dem gespeicherten Reiseende, sofern Sie keinen eigenen Gültigkeitspuffer festlegen. Prüfen Sie die tatsächliche Regel des Ziellandes gesondert; 180 Tage entsprechen nicht immer sechs Kalendermonaten.
 
 ### Brauche ich sechs Monate Gültigkeit auf meinem Reisepass, um nach Europa zu reisen?
 
@@ -152,7 +152,7 @@ Nein, aber Sie brauchen mehr als nur die Aufenthaltsdauer. Das britische Foreign
 
 ### Was ist, wenn der Reisepass eines Familienmitglieds die Regel erfüllt, der eines anderen aber nicht?
 
-Der Reisepass jedes Familienmitglieds wird einzeln bewertet – es gibt keine Gruppenregel. Dies bedeutet, dass ein Reisepass die Sechsmonats-Anforderung erfüllen könnte, während ein anderer zu kurz ist, was möglicherweise diese Person vom Reisen abhält. Überprüfen Sie jeden Reisepass in der Gruppe gegen die Gültigkeitsanforderungen des Ziellandes, bevor Sie buchen. Apps wie Travel Document Vault ermöglichen es Ihnen, das Ablaufdatum des Reisepasses jedes Familienmitglieds separat zu verfolgen, damit Sie diese Lücken fangen, bevor das Abfertigung es tut.
+Der Reisepass jedes Familienmitglieds wird einzeln bewertet – es gibt keine Gruppenregel. Dies bedeutet, dass ein Reisepass die Sechsmonats-Anforderung erfüllen könnte, während ein anderer zu kurz ist, was möglicherweise diese Person vom Reisen abhält. Überprüfen Sie jeden Reisepass in der Gruppe gegen die Gültigkeitsanforderungen des Ziellandes, bevor Sie buchen. Travel Document Vault verfolgt Ihr Pass-Ablaufdatum, und mit Pro können Sie jedes Familienmitglied hinzufügen. Prüfen Sie die Daten vor der Buchung anhand der Regel des Ziellandes.
 
 ### Kann ich reisen, wenn mein Reisepass in 3 Monaten abläuft?
 

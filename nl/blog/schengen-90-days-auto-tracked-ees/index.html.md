@@ -72,7 +72,7 @@ De handmatige methode komt eerst, omdat die gratis en officieel is: neem de datu
 
 Voor iemand die één of twee keer per jaar op vakantie gaat, is dat prima te overzien. Het wordt lastiger wanneer reizen overlappen en er meer mensen bijkomen: een zakenreiziger die elke maand korte tripjes maakt, of een gezin waarin het ene kind op schooluitwisseling is, het andere zomerkampdata heeft, en een partner eerder naar huis vliegt. Iedereen heeft zijn eigen voortschrijdende venster, en die vensters lopen niet gelijk. Dit is het moment waarop een trackingtool ophoudt een gadget te zijn en wordt hoe je een dure fout voorkomt – onze [gids over visum- en inreistracking](https://traveldocumentvault.com/nl/blog/visa-expiry-tracker-app/) behandelt het bredere vraagstuk.
 
-Eén eerlijke kanttekening: geen enkele app kan je EES-registratie uitlezen, de onze inbegrepen. Wat een trackingtool doet, is de officiële 90/180-berekening toepassen op de reisdata die jij invoert, doorlopend, voor elke reiziger die je toevoegt. De grens telt wat er is gebeurd; een goede tracker toont wat je nog kunt doen.
+Travel Document Vault leest je EES-registratie niet uit. Met Pro telt de app opgeslagen reizen aan de hand van de daglimieten die je per land instelt. Hij berekent geen gezamenlijke 90/180-toelage voor het hele Schengengebied, dus controleer je totale verblijfsduur in het gebied apart.
 
 ## Drie dingen die EES niet is
 
@@ -108,7 +108,7 @@ Nee. EES is nu actief en registreert je in- en uitreis bij de grens. ETIAS is ee
 
 ### Hoe helpt Travel Document Vault met de 90/180-regel?
 
-De app telt dagen per persoon, per land, over al je reizen naar dat land, en projecteert je voortschrijdende venster vooruit voordat je boekt. Hij leest je EES-registratie niet uit – dat kan geen enkele app – maar past met Pro een voortschrijdende 90/180-telling toe op je reizen naar elk land waarvoor je een limiet instelt, zodat de resterende dagen daar van elk gezinslid in één oogopslag zichtbaar zijn.
+Met Pro telt de app opgeslagen reisdagen per persoon en per land, en berekent het voortschrijdende venster voor de limieten die je instelt. Hij leest je EES-registratie niet uit en berekent geen gezamenlijke 90/180-toelage voor het hele Schengengebied. Je kunt de resterende dagen van elk gezinslid voor een land zien, maar moet het Schengentotaal apart controleren.
 
 ## Gerelateerde artikelen
 

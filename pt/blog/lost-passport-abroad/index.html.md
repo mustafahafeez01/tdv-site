@@ -62,7 +62,7 @@ O que normalmente vai precisar (confirme com a sua embaixada antes de visitar):
 - Prova de viagem de continuação — reserva de voo, confirmação de hotel
 - Taxa de documento de emergência — tenha dinheiro e cartão disponível
 
-**Travel Document Vault** armazena uma cópia encriptada do seu passaporte no seu telemóvel — acessível sem internet, sem login. Contém todos os dados do passaporte que constam dessa lista. [Transferir na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** armazena uma cópia encriptada do seu passaporte no seu telemóvel — acessível sem internet, sem login. A imagem encriptada da página de dados do seu passaporte é a cópia digital referida nessa lista. [Transferir na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Passo 5: Notifique a Sua Seguradora de Viagem
 

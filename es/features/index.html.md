@@ -1,16 +1,16 @@
 # Características: Escanea, rastrea y protege tus documentos
 
-> Escaneo OCR, recordatorios inteligentes, perfiles familiares, rastreador de días por país. Documentos cifrados en tu dispositivo, sin servidores.
+> Escanea pasaportes y recibe alertas de caducidad sin conexión ni cuenta. Pro añade perfiles familiares y límites de días por país que tú defines.
 
 Source: https://traveldocumentvault.com/es/features/
 
 ---
 
-Privado. Solo en el dispositivo. Sin necesidad de crear una cuenta.
+Privado. En el dispositivo por defecto. Sin necesidad de crear una cuenta.
 
 # Rastrea todo. No recuerdes nada.
 
-Un organizador de documentos de viaje para padres ansiosos, viajeros frecuentes y primeros viajeros: documentos en un solo lugar, alertas de vencimiento activas, tranquilidad intacta.
+Puedes guardar pasaportes, visados, carnés de conducir, documentos de identidad nacionales, seguros de viaje y cualquier otro documento relacionado con los viajes. Con Pro, la app admite varios perfiles para gestionar los documentos de toda tu familia en un solo lugar.
 
 ![Descargar en el App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
@@ -20,45 +20,45 @@ Un organizador de documentos de viaje para padres ansiosos, viajeros frecuentes 
 
 Para viajes y días de viaje
 
-## No Olvides tu Viaje
+## Planifica viajes y controla límites de días
 
-Planifica viajes juntos, rastrea asignaciones, conoce tus límites de visa.
+Con Pro, planifica viajes juntos, controla límites y conoce tus límites de visa.
 
 Pro
 
 ### Todos Listos, De Un Vistazo
 
-Agrupa todos los documentos familiares por viaje. Los indicadores de preparación muestran de un vistazo quién está listo y cuyos documentos vencen antes de la salida. Detecta problemas semanas antes, no en el aeropuerto.
+Agrupa todos los documentos familiares por viaje. Los indicadores de preparación muestran de un vistazo qué documentos vinculados necesitan atención frente a tus fechas de viaje guardadas. Detecta problemas semanas antes, no en el aeropuerto.
 
 Pro
 
 ### Tu Nube. Tu Clave.
 
-Copia de seguridad cifrada opcional a tu iCloud o Google Drive personal. Mantienes el código de recuperación. Nunca accedemos a él. Sincronización entre dispositivos sin requerimiento de confianza cero. Consulta los [principios de protección de datos del ICO del Reino Unido](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/) para mejores prácticas de copia de seguridad.
+Copia de seguridad cifrada opcional (Pro) en tu iCloud o Google Drive personal. Restaura con tu código de recuperación. Activa la sincronización para usar la misma bóveda en dispositivos compatibles de la misma plataforma. Consulta los [principios de protección de datos del ICO del Reino Unido](https://ico.org.uk/for-organisations/the-soa/accountability/data-protection-impact-assessments/) para mejores prácticas de copia de seguridad.
 
 Pro
 
 ### Seguimiento de Días Fuera del País
 
-Rastrea los días pasados en cada país, por viaje y por miembro de la familia. Establece objetivos de límites de días personalizados para saber siempre dónde estás respecto a las duraciones de visas y requisitos de entrada. Verifica las reglas con el [Centro de Viajes de IATA](https://www.iatatravelcentre.com/) para tu destino.
+Con Pro, controla los días pasados en cada país, por viaje y por miembro de la familia. Compara los días de viaje guardados con los límites por país que introduzcas. Verifica las reglas con el [Centro de Viajes de IATA](https://www.iatatravelcentre.com/) para tu destino.
 
 Pro
 
 ### Asignaciones de Viaje
 
-Define límites de días personalizados por país y por miembro de la familia. Establece tus propios objetivos para saber cuántos días has pasado en el extranjero —como sea que funcionen tus normas de viaje.
+Con Pro, define límites de días personalizados por país y por miembro de la familia. Configura tus propios objetivos para contar los días que abarcan tus viajes guardados, con una ventana de cálculo fija o móvil.
 
 Pro
 
 ### Exportación de PDF de Viajes
 
-Exporta cualquier viaje como un PDF pulido: página de portada, pasaportes de miembros, itinerario, actividades y documentos en orden. Las exportaciones Pro son limpias y sin marca, listas para compartir con aerolíneas, embajadas o familia.
+Con Pro, exporta cualquier viaje como un PDF pulido: página de portada, pasaportes de miembros, itinerario, actividades y documentos en orden. Las exportaciones son limpias y sin marca, listas para compartir con aerolíneas, embajadas o familia.
 
 Pro
 
 ### Listo para el Embarque
 
-Adjunta números de vuelo, confirmaciones de hotel y referencias de reservas a cualquier viaje. Documentos y reservas en un solo lugar —toca una vez al momento del check-in. Nada que buscar en la puerta de embarque.
+Con Pro, adjunta números de vuelo, confirmaciones de hotel y referencias de reservas a cualquier viaje. Documentos y reservas en un solo lugar —toca una vez al momento del check-in. Nada que buscar en la puerta de embarque.
 
 ### Listo para Dominar Tu Preparación para Viajes
 
@@ -72,7 +72,7 @@ Desbloquea planificación de viajes, copia de seguridad en la nube y perfiles il
 
 ### Pasaportes
 
-Captura tanto la página de foto como la página de datos. El escaneo MRZ lee la zona legible por máquina para rellenar automáticamente el nombre, número y fecha de vencimiento al instante.
+Captura el pasaporte abierto en una sola toma. El escaneo MRZ lee la zona de lectura mecánica para rellenar la fecha de vencimiento y el país emisor cuando puede. Confirma los resultados o introdúcelos manualmente. El reconocimiento de texto se ejecuta en tu dispositivo.
 
 ### Almacenamiento Cifrado
 
@@ -84,11 +84,11 @@ Captura frontal y trasera en un solo documento. Perfecto para licencias de condu
 
 ### Tarjetas de Seguro y Salud
 
-Almacena tarjetas de seguro médico, pólizas de seguro de viaje y recetas repetidas con recordatorios de vencimiento. Nunca pierdas una renovación ni te quedes sin advertencia.
+Almacena tarjetas de seguro médico, pólizas de seguro de viaje y recetas repetidas con recordatorios de vencimiento. Los recordatorios empiezan por defecto tres meses antes del vencimiento.
 
 ### Visas y Documentos
 
-Soporte especializado A5 / media página para sellos de visa y pegatinas. Soporte completo A4 para e-visas, pólizas de seguro de viaje y documentos grandes. Compatible con archivos multipágina.
+Soporte especializado A5 / media página para sellos de visa y pegatinas. Soporte completo A4 para e-visas, pólizas de seguro de viaje y documentos grandes. Admite archivos multipágina con Pro.
 
 ### Boletos Aéreos
 
@@ -126,17 +126,17 @@ Almacena tarjetas de regalo, códigos de descuento, entradas de eventos y pases 
 
 ### Posponer Recordatorios
 
-Pausa cualquier recordatorio de vencimiento sin editar el documento. Pospone durante un día, una semana o un mes —el recordatorio se reanuda automáticamente cuando termina el período de pausa.
+Pausa cualquier recordatorio de vencimiento sin editar el documento. Reprograma un recordatorio seleccionado para una hora, tres horas, mañana o la próxima semana.
 
 ### Código de Color en Documentos
 
-Asigna un color a cualquier tipo de documento o documento individual para un reconocimiento visual instantáneo. Anula los colores por perfil para que la bóveda de toda tu familia sea fácil de navegar de un vistazo.
+Con Pro, asigna un color a cualquier tipo de documento o documento individual para un reconocimiento visual instantáneo. Anula los colores por perfil para que la bóveda de toda tu familia sea fácil de navegar de un vistazo.
 
 ### Exportar, Respaldar y Restaurar
 
 PRO
 
-Genera PDFs combinados de varios documentos y realiza una copia de seguridad de tu bóveda cifrada en tu propio iCloud o Google Drive, con restauración en un toque desde cualquier dispositivo. La exportación y restauración gratuitas de bóveda siempre están incluidas.
+La exportación e importación de la bóveda son gratuitas para todos. Pro añade PDF combinados y copia de seguridad cifrada en tu propio iCloud o Google Drive. Restaura las copias en la nube con tu código de recuperación en un dispositivo compatible de la misma plataforma y con la misma cuenta en la nube.
 
 Captura Inteligente
 
@@ -164,7 +164,7 @@ Recordatorios Inteligentes
 
 ## Adelántate a los Plazos
 
-La renovación promedio de pasaporte toma **6-8 semanas**. Te recordamos **8 meses antes**, no 6 días.
+Los recordatorios se activan automáticamente, según el tipo de documento. Los pasaportes empiezan **8 meses antes del vencimiento**, luego 6 meses, 3 meses, 6 semanas, 1 mes, 2 semanas y 1 semana, con más recordatorios el día del vencimiento y después. Los visados, documentos de identidad nacionales y seguros de viaje empiezan **3 meses antes**. Los billetes de avión, reservas de hotel y cupones empiezan una semana antes. Los usuarios Pro pueden elegir otro punto de inicio para cualquier documento.
 
 #### Recordatorios de Pasaporte
 
@@ -176,7 +176,7 @@ La renovación promedio de pasaporte toma **6-8 semanas**. Te recordamos **8 mes
 
 #### Recordatorios de Boletos Aéreos
 
-1 semana 2 días 1 día 24 horas Día de viaje
+1 semana 2 días 1 día 24 horas
 
 **Recordatorios posteriores al vencimiento** (mostrados en naranja) te ayudan a mantenerte al tanto de documentos vencidos. Incluso si perdiste la fecha de vencimiento, seguirás recibiendo recordatorios para renovar, lo que los hace perfectos para detectar documentos que vencen mientras viajas.
 
@@ -186,7 +186,7 @@ Perfiles Familiares
 
 ### Perfiles Separados
 
-Crea un perfil para cada miembro de la familia. Mantén los documentos de todos organizados y fáciles de encontrar.
+Con Pro, crea un perfil para cada miembro de la familia. Mantén los documentos de todos organizados y fáciles de encontrar.
 
 ### Vistas Filtradas por Perfil
 
@@ -214,7 +214,7 @@ Se adapta a la configuración de tu sistema. Hermoso en ambas apariencias.
 
 Desliza entre lados de documentos. Pellizca para ampliar hasta 5x para inspección detallada.
 
-### Vistazo Rápido
+### Visor de PDF integrado
 
 Integración de visualización de PDF nativa. Rápido, familiar y con todas las funciones.
 
@@ -226,25 +226,25 @@ Disponible en más de 40 idiomas, para que la aplicación se sienta nativa donde
 
 ### Accesible por Diseño
 
-Soporte completo de VoiceOver y TalkBack. El tipo dinámico escala cada etiqueta con el tamaño de fuente de tu sistema. Cada botón cumple el mínimo de área táctil de 44pt.
+Diseñada para VoiceOver y TalkBack. El texto se adapta al tamaño de fuente del sistema, y los estilos de los controles compartidos tienen como objetivo áreas táctiles de 44 pt (48 dp en Android).
 
 ### Respuesta Háptica Precisa
 
-Una respuesta háptica sutil confirma cada acción. Guardar, eliminar y escanear tienen respuestas táctiles distintas para que siempre sepas que algo funcionó.
+Las acciones principales usan respuesta háptica donde tu dispositivo la admite.
 
 Privacidad y Seguridad
 
 ## Tus Datos, Tu Dispositivo
 
-Sin servidores, sin cuentas, sin seguimiento. Construido por Mustafa Hafeez con arquitectura privada. [Política de Privacidad](https://traveldocumentvault.com/privacy-policy/) y enlace de [Verificación](https://traveldocumentvault.com/privacy-policy/).
+Sin servidores que guarden tus documentos, sin cuentas, sin seguimiento. Construido por Mustafa Hafeez con arquitectura privada. [Política de Privacidad](https://traveldocumentvault.com/privacy-policy/) y enlace de [Verificación](https://traveldocumentvault.com/privacy-policy/).
 
 ### Tus Datos Siguen Siendo Tuyos
 
-Diseñamos esto para que no tengas que confiar en nosotros con tus datos —no tenemos servidores ni acceso, así que por defecto tu bóveda se queda en tu dispositivo. Si eliges una copia de seguridad Pro opcional a tu propio iCloud o Google Drive, está sellada con un código de recuperación que solo tú tienes, uno que seguimos sin poder leer.
+Diseñamos esto para que no tengas que confiar en nosotros con tus datos —no tenemos servidores que guarden tus documentos ni acceso a ellos, así que por defecto tu bóveda se queda en tu dispositivo. Si eliges una copia de seguridad Pro opcional a tu propio iCloud o Google Drive, está sellada con un código de recuperación que solo tú tienes, uno que seguimos sin poder leer.
 
 ### Funciona Sin Conexión
 
-No necesita conexión a internet. Funciona completamente sin conexión.
+Los datos de la bóveda se cifran en tu dispositivo; los archivos de documentos usan AES-256-GCM. Los documentos guardados, las fechas de vencimiento y los recordatorios programados funcionan sin conexión.
 
 ### Sin Rastreo
 
@@ -252,11 +252,11 @@ Sin analítica. Sin anuncios. Sin SDKs ocultos cosechando tus datos.
 
 ### Notificaciones Privadas
 
-Los recordatorios nunca revelan detalles de documentos. Solo "Un documento está próximo a vencer."
+Los recordatorios no incluyen imágenes escaneadas ni un campo separado con el número de documento. El texto puede incluir el título guardado del documento, así que evita poner números sensibles en él.
 
 ### Controlas el Compartir
 
-Los datos solo salen cuando explícitamente eliges compartir a través de la hoja de compartir del sistema. Incluye advertencias de contenido sensible.
+Los archivos de documentos salen cuando eliges compartirlos mediante la hoja del sistema, exportarlos o activar la copia de seguridad cifrada (Pro). Incluye advertencias de contenido sensible.
 
 ### Bloqueo con PIN
 
@@ -268,11 +268,11 @@ Desbloquea con Face ID o Touch ID en lugar de PIN. Gratis para todos los usuario
 
 ### Protección de Captura de Pantalla
 
-Las pantallas de documentos se protegen automáticamente de capturas de pantalla y grabaciones de pantalla. Tu información sensible permanece en la pantalla, no en la galería de fotos de alguien.
+La protección contra capturas de pantalla está activada por defecto en las pantallas de documentos donde es compatible. Ayuda a reducir las copias accidentales.
 
 ### Almacenamiento Cifrado
 
-Los documentos se encriptan en tu dispositivo usando cifrado estándar de la industria. Tus datos están protegidos incluso si tu dispositivo se ve comprometido.
+Los documentos se encriptan en tu dispositivo usando cifrado estándar de la industria. Los archivos de documentos cifrados necesitan su clave para leerse; los originales compartidos son legibles.
 
 Operaciones por Lote
 
@@ -286,17 +286,17 @@ Presiona y mantén cualquier tarjeta de documento para acceder instantáneamente
 
 PRO
 
-Toca "Seleccionar" para elegir múltiples documentos a la vez. Usa el menú de Acciones unificado para exportar en lote, compartir o eliminar los documentos seleccionados.
+Toca "Seleccionar" para elegir múltiples documentos a la vez. Usa el menú de Acciones unificado para exportar o compartir por lotes (Pro), o eliminar los documentos seleccionados.
 
 ### Compartir por Lote
 
 PRO
 
-Comparte múltiples archivos de documentos originales a la vez a través de la hoja de compartir de tu dispositivo (correo electrónico, mensajería y más). Los archivos se descifran de forma segura solo en el momento de compartirlos.
+Con Pro, comparte varios archivos de documentos originales mediante hojas para compartir sucesivas (correo electrónico, mensajería y más). La app descifra los originales al compartirlos, y también al consultarlos y editarlos.
 
 #### Eliminación Segura con Deshacer
 
-¿Eliminaste accidentalmente un documento? Toca Deshacer inmediatamente para recuperarlo. ¿Se te pasó la ventana? Se mueve a Eliminados Recientemente, donde se queda durante 30 días antes de eliminarse permanentemente —dándote una red de seguridad sin comprometer tu privacidad.
+¿Eliminaste accidentalmente un documento? Toca Deshacer inmediatamente para recuperarlo. ¿Se te pasó la ventana? Se mueve a Eliminado Recientemente. Con la copia en la nube desactivada, la app lo elimina automáticamente después de 30 días; con la copia activada, se queda hasta que lo elimines permanentemente. También puedes eliminarlo permanentemente antes.
 
 **Importante:** Travel Document Vault es una herramienta de organización personal para almacenar copias digitales de tus documentos. **Las copias digitales almacenadas en esta aplicación NO son válidas para viajes.** No verifica la autenticidad de documentos ni proporciona asesoramiento legal o de viaje. Siempre lleva documentos originales y verifica todos los requisitos de viaje con fuentes oficiales del gobierno.
 

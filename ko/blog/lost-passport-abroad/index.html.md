@@ -62,7 +62,7 @@ Source: https://traveldocumentvault.com/ko/blog/lost-passport-abroad/
 - 출발 증명, 항공권 예약, 호텔 확인
 - 긴급 증명서 수수료, 현금과 카드 모두 준비하세요
 
-**Travel Document Vault**는 당신의 휴대폰에 여권의 암호화 사본을 저장합니다. 인터넷 없이, 로그인 없이 접근할 수 있습니다. 위 목록에 있는 여권 정보가 모두 담겨 있습니다. [App Store에서 다운로드하세요.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault**는 당신의 휴대폰에 여권의 암호화 사본을 저장합니다. 인터넷 없이, 로그인 없이 접근할 수 있습니다. 여권 정보 페이지의 암호화된 이미지가 위 목록의 디지털 사본에 해당합니다. [App Store에서 다운로드하세요.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 5단계: 여행 보험사에 알리세요
 

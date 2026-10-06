@@ -52,7 +52,7 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
-[GezinsreizenBeheer van familiepaspoorten: Bewaar meerdere paspoorten veiligHoe je familiepaspoorten ordent en veilig op één plaats bewaart. Volg de vervaldatums van elk gezinslid en ontvang meldingen voordat ze vernieuwd moeten worden.16 juli 20267 min leestijd](https://traveldocumentvault.com/nl/blog/family-passport-management/)
+[GezinsreizenBeheer van familiepaspoorten: Bewaar meerdere paspoorten veiligOrden de paspoorten van je gezin op één versleutelde plek. Voeg gezinsprofielen toe met Pro en gebruik vervaldatums en herinneringen om vernieuwingen te plannen.16 juli 20267 min leestijd](https://traveldocumentvault.com/nl/blog/family-passport-management/)
 
 ##
 
@@ -142,9 +142,9 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 [Paspoortregels De 6 maanden-paspoortregel: welke landen die hanteren en hoe je nooit voor verrassingen komt te staan Je paspoort kan geldig zijn, maar toch geweigerd worden bij de gate. Ontdek welke landen de 6 maanden-regel hanteren, hoe luchtvaartmaatschappijen dit controleren en hoe je zorgt dat je hele gezin gedekt is voordat je boekt. 1 feb. 20267 min lezing](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/)
 
-## De laatste keer dat u panikkeert vóór een reis
+## Bewaar uw paspoortgegevens bij elkaar
 
-Scan de paspoorten van uw gezin vanavond. Vervalherinneringen stellen zichzelf in. Veilig versleuteld, alleen op uw apparaat opgeslagen.
+Scan uw paspoort vanavond en bevestig de vervaldatum of voer die zelf in. Herinneringen staan standaard aan en uw documenten staan versleuteld op uw apparaat. U kunt kopieën delen of exporteren. Pro voegt gezinsprofielen en een optionele versleutelde back-up naar uw eigen cloud toe.
 
 ![Download op de App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

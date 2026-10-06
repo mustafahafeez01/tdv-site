@@ -62,7 +62,7 @@ Deze tabel is een momentopname, niet het volledige beeld: vereisten verschillen 
 
 Vereisten voor paspoortgeldigheid per land veranderen zonder aankondiging, en een bilaterale overeenkomst kan stilletjes de regels voor jouw specifieke paspoort wijzigen. Daarom is het controleren van een actuele officiële bron voor elke internationale reis geen overdreven voorzichtigheid, maar gewoon goede gewoonte: gebruik het IATA Travel Centre, hetzelfde systeem dat luchtvaartmaatschappijen gebruiken om reisdocumenten in realtime te controleren.
 
-**Travel Document Vault** markeert elk paspoort dat aan het einde van je reis geen zes maanden geldigheid meer over heeft – voor elk gezinslid, automatisch. [Download in de App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) en [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
+**Travel Document Vault** controleert met Pro gekoppelde paspoorten op een standaard geldigheidsmarge van 180 dagen na het einde van je opgeslagen reis, tenzij je zelf een andere marge instelt. Controleer de daadwerkelijke regel van je bestemming apart. [Download in de App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) en [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
 
 ## Wanneer de 6 maanden-regel niet geldt
 
@@ -102,7 +102,7 @@ Behandel je paspoort als een autoband en wacht niet tot hij leeg is: vernieuw he
 
 Tel voor elke reis zes maanden vooruit vanaf de dag dat je de bestemming verlaat – dat is de latere datum en voldoet daarmee aan beide versies van de regel. Controleer de vervaldatum van je paspoort aan de hand van die datum – niet alleen je reisdata.
 
-Het beheren van meerdere paspoorten binnen een gezin met verschillende vervaldatums is waar het rommelig wordt. Travel Document Vault houdt dit automatisch bij – het bewaart de vervaldatum van elk gezinslid en stuurt herinneringen vanaf acht maanden van tevoren, en opnieuw naarmate de datum dichterbij komt, zodat je nooit meer zelf hoeft te rekenen voor een boeking. Meer praktische tips over reisdocumenten vind je op onze [blog](https://traveldocumentvault.com/nl/blog/).
+Het beheren van meerdere paspoorten binnen een gezin met verschillende vervaldatums is waar het rommelig wordt. Travel Document Vault houdt de vervaldatum van je paspoort bij en met Pro kun je het hele gezin toevoegen. Paspoortherinneringen beginnen standaard acht maanden voor de vervaldatum en worden herhaald naarmate die datum dichterbij komt. Controleer de geldigheidsregel van je bestemming voordat je boekt. Meer praktische tips over reisdocumenten vind je op onze [blog](https://traveldocumentvault.com/nl/blog/).
 
 ## Een opmerking over het controleren van vereisten voor je vertrekt
 
@@ -142,7 +142,7 @@ Ja. Luchtvaartmaatschappijen controleren de paspoortgeldigheid via een sectorbre
 
 ### Hoe controleer ik of mijn paspoort aan de 6 maanden-regel voldoet?
 
-Tel zes maanden vooruit vanaf de dag dat je de bestemming verlaat, en controleer dan of je paspoort na die datum verloopt. Dat is de latere van de twee data die landen gebruiken, dus het dekt beide gevallen. Vertrek je op 1 augustus, dan moet je paspoort geldig zijn tot minstens 1 februari van het jaar erna. Apps zoals Travel Document Vault houden dit automatisch bij voor elk gezinslid, zodat je dit niet voor elke reis zelf hoeft uit te rekenen.
+Tel zes maanden vooruit vanaf de dag dat je de bestemming verlaat, en controleer dan of je paspoort na die datum verloopt. Dat is de latere van de twee data die landen gebruiken, dus het dekt beide gevallen. Vertrek je op 1 augustus, dan moet je paspoort geldig zijn tot minstens 1 februari van het jaar erna. Met Pro controleert Travel Document Vault gekoppelde paspoorten op een standaard geldigheidsmarge van 180 dagen na het einde van je opgeslagen reis, tenzij je zelf een andere marge instelt. Controleer de daadwerkelijke regel van je bestemming apart; 180 dagen is niet altijd zes kalendermaanden.
 
 ### Heb ik zes maanden geldigheid nodig op mijn paspoort om naar Europa te reizen?
 
@@ -150,7 +150,7 @@ Nee, maar je hebt wel meer nodig dan alleen geldigheid voor de duur van je verbl
 
 ### Wat als het paspoort van één gezinslid aan de regel voldoet, maar dat van een ander niet?
 
-Het paspoort van elk gezinslid wordt afzonderlijk beoordeeld – er is geen groepsregel. Dit betekent dat het ene paspoort aan de 6 maanden-eis kan voldoen terwijl het andere tekortschiet, waardoor die persoon mogelijk niet mee kan reizen. Controleer elk paspoort in de groep aan de geldigheidsvereisten van de bestemming voordat je boekt. Apps zoals Travel Document Vault laten je de vervaldatum van elk gezinslid apart bijhouden, zodat je dit soort gaten opmerkt voordat de incheckbalie dat doet.
+Het paspoort van elk gezinslid wordt afzonderlijk beoordeeld – er is geen groepsregel. Dit betekent dat het ene paspoort aan de 6 maanden-eis kan voldoen terwijl het andere tekortschiet, waardoor die persoon mogelijk niet mee kan reizen. Controleer elk paspoort in de groep aan de geldigheidsvereisten van de bestemming voordat je boekt. Travel Document Vault houdt de vervaldatum van je paspoort bij en met Pro kun je elk gezinslid toevoegen. Controleer hun datums aan de hand van de regel van je bestemming voordat je boekt.
 
 ### Kan ik reizen als mijn paspoort over 3 maanden verloopt?
 

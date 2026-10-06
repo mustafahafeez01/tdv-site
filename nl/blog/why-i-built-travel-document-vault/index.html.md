@@ -1,6 +1,6 @@
 # Waarom ik Travel Document Vault heb gebouwd: Voor de ouder die alles onthoudt
 
-> Waarom ik Travel Document Vault bouwde na een paspoortcontrole om 3 uur 's nachts, en waarom alles op je eigen toestel blijft.
+> Waarom ik Travel Document Vault bouwde na een paspoortcontrole om 3 uur 's nachts, en waarom documenten standaard op je eigen toestel worden bewaard.
 
 Source: https://traveldocumentvault.com/nl/blog/why-i-built-travel-document-vault/
 
@@ -48,13 +48,13 @@ En het moest offline werken. Want ik zou op het vliegveld zijn, of vastzitten in
 
 ## Dus bouwde ik precies wat ik nodig had
 
-Travel Document Vault doet één ding: zet alles op één plek, zodat u er nooit meer aan hoeft te denken totdat de app het u zegt.
+Travel Document Vault bewaart uw opgeslagen documenten en vervaldatums op één plek, met herinneringen om u te helpen verlengingen te plannen.
 
-Scan een document één keer. De app leest de verloopdatum (u controleert hem nog even). Herinneringen plannen zichzelf automatisch in: zes maanden van tevoren, dan drie maanden, zes weken, één maand, twee weken, helemaal tot de dag ervoor dat het verloopt.
+Scan een document één keer. De app probeert de verloopdatum te lezen; bevestig die of voer die zelf in. Herinneringen staan standaard aan wanneer u een verloopdatum opslaat. Paspoortherinneringen beginnen acht maanden van tevoren, dan zes maanden, drie maanden, zes weken, één maand, twee weken, helemaal tot de vervaldag.
 
-Één profiel per gezinslid. Elk document op één plek. Wanneer u wilt controleren of u klaar bent om te reizen, opent u de app en weet u het. Direct. Niet "waarschijnlijk" of "ik denk het", **u weet het daadwerkelijk**.
+Voeg het hele gezin toe met Pro, met een profiel voor elke persoon. Voor een reis kunt u **de opgeslagen documenten en vervaldatums van het gezin bekijken**.
 
-Wanneer een hotel om uw paspoortkopie vraagt, een ambassade uw gegevens nodig heeft, of de autoverhuurbalie uw rijbewijs wil zien, deelt u het met één tik. Geen gezocht. Geen wifi nodig. Alles bij elkaar, direct bij de hand.
+Wanneer een hotel om uw paspoortkopie vraagt, een ambassade uw gegevens nodig heeft, of de autoverhuurbalie uw rijbewijs wil zien, kunt u het deelmenu openen en kiezen hoe u de kopie wilt versturen. Opgeslagen kopieën bekijken werkt offline; e-mail en berichten vereisen een verbinding.
 
 Dat is de echte winst: u krijgt uw mentale ruimte terug. De onzichtbare mentale last, dat constante, laagdrempelige gevoel van "vergeet ik iets?", verdwijnt. De app onthoudt zodat u dat niet hoeft te doen.
 
@@ -81,10 +81,10 @@ In een vroeg stadium nam ik een duidelijke beslissing: uw documenten zijn van u 
 Travel Document Vault is op zichzelf staand:
 
 - Geen accounts aanmaken
-- Geen upload naar server
+- Optionele versleutelde cloudback-up (Pro)
 - Versleuteld op uw apparaat
 
-Wanneer u een document scant, wordt tekstherkenning op uw apparaat uitgevoerd. Alles blijft op uw telefoon. **Er wordt niets geüpload naar een server.**
+Wanneer u een document scant, wordt tekstherkenning op uw apparaat uitgevoerd. Documenten blijven standaard op uw telefoon; **een optionele versleutelde back-up (Pro) slaat een kopie op in uw eigen iCloud of Google Drive.** U kunt ook kopieën exporteren of delen.
 
 Sommige mensen willen apps die overal synchroniseren. Voor paspoorten en ID's wilde ik een eenvoudiger model: uw telefoon is de kluis. U kunt uw kopieën exporteren wanneer u dat nodig heeft. Ze zijn tenslotte van u.
 
@@ -94,9 +94,9 @@ Een documentenkluis voor reizen is iets dat u eenmalig instelt en daarna vergeet
 
 Een abonnement slaat daarvoor nergens op. Als ik stop met betalen, moet ik alles exporteren, een andere app zoeken, mijn documenten overzetten en alle herinneringen opnieuw instellen. En als ik vergeet te verlengen? Dan verlies ik toegang precies wanneer ik het het meest nodig heb, terwijl ik bij de incheckbalie sta en besef dat het paspoort van mijn kind nog vier maanden geldig is en ik de scan die ik had opgeslagen niet kan bereiken.
 
-Wanneer u deze app koopt, is hij van u. Documenten blijven op uw apparaat. Herinneringen blijven werken. Geen verlengingen. Geen exports. Geen lock-in. Het werkt gewoon, stilletjes op de achtergrond, totdat u het nodig heeft.
+Uw opgeslagen documenten en herinneringen werken in de gratis versie. Pro voegt onbeperkte profielen en documenten toe via een eenmalige aankoop, dus er is geen abonnement om te verlengen.
 
-De gratis versie geeft u één profiel, vijf documenten, OCR, herinneringen en een PIN-vergrendeling. Pro ontgrendelt onbeperkte profielen en documenten met één eenmalige betaling. Eén keer betalen, alle v1.x-updates inbegrepen, voor altijd. Dat is alles.
+De gratis versie geeft u één profiel, vijf documenten, automatische datumherkenning, herinneringen en een PIN-vergrendeling. Pro ontgrendelt onbeperkte profielen en documenten met één eenmalige betaling. Eén keer betalen, alle v1.x-updates inbegrepen, voor altijd. Dat is alles.
 
 [Over ons versiebeleid →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -110,7 +110,7 @@ Als u degene bent in uw gezin die alles dubbel controleert, de map bijhoudt, sti
 
 **Één ding minder om u zorgen over te maken.**
 
-Eerst voor persoonlijk gebruik gebouwd. Geen accounts. Geen upload naar server.
+Eerst voor persoonlijk gebruik gebouwd. Geen accounts. Optionele versleutelde cloudback-up (Pro).
 
 Mustafa
 

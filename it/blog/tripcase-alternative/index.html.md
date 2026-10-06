@@ -94,7 +94,7 @@ Flighty è il sostituto più diretto per gli avvisi di volo in tempo reale. Trac
 
 ### C'è un'app che sostituisce completamente TripCase?
 
-Nessun'app singola fa tutto quello che faceva TripCase. La maggior parte degli ex utenti finisce con due o tre strumenti: TripIt o Tripsy per l'analisi dell'itinerario e le visualizzazioni della cronologia, Flighty per gli avvisi di volo e un'app offline separata come Travel Document Vault per l'archiviazione dei documenti. È più complesso, ma significa anche che non si affida alla sopravvivenza di un'unica azienda.
+Potrebbero servirle strumenti separati per analizzare gli itinerari, ricevere avvisi sui voli e conservare documenti. Travel Document Vault conserva copie dei documenti crittografate sul telefono e le permette di consultarle offline.
 
 ### Dovrei conservare i miei documenti di viaggio in un'app cloud?
 

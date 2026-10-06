@@ -64,7 +64,7 @@ What you will typically need (confirm with your embassy before visiting):
 - Proof of onward travel - flight booking, hotel confirmation
 - Emergency document fee - have both cash and card available
 
-**Travel Document Vault** stores an encrypted copy of your passport on your phone, accessible without internet and without a login. It holds every passport detail on that list. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** stores an encrypted copy of your passport on your phone, accessible without internet and without a login. Its encrypted image of your passport's data page is the digital copy on that list. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Step 5: Notify Your Travel Insurer
 

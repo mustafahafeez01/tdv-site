@@ -88,7 +88,7 @@ Questo si applica indipendentemente dal fatto che il suo passaporto sia scaduto 
 
 [Se il suo passaporto è già scaduto e sta cercando cosa fare dopo, il nostro articolo correlato copre questo passo dopo passo](https://traveldocumentvault.com/it/blog/passport-expired-what-to-do/). Se ha un viaggio in arrivo e il suo passaporto si avvicina alla scadenza, questo è il momento di rinnovare piuttosto che attendere fino a quando non scade, il che significa pagare il servizio Premium invece della tariffa standard. Controlli i passaporti della sua famiglia ora prima di prenotare qualsiasi viaggio.
 
-**Imposti promemoria di scadenza mesi in anticipo, non settimane.** [Travel Document Vault traccia le date di scadenza per ogni passaporto nella sua famiglia e invia promemoria a partire da otto mesi prima della scadenza, e di nuovo mano a mano che si avvicina](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/), così rinnova con elaborazione standard ed evita le spese di emergenza.
+**Imposti promemoria di scadenza mesi in anticipo, non settimane.** [Travel Document Vault tiene traccia della scadenza del suo passaporto e invia promemoria a partire da otto mesi prima per impostazione predefinita, e di nuovo man mano che si avvicina](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/). Aggiunga ogni passaporto della famiglia con Pro. Usi i promemoria per pianificare i rinnovi.
 
 ## Se è già all'estero e il suo passaporto scade
 

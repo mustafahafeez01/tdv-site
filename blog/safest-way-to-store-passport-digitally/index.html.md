@@ -67,25 +67,25 @@ If your Google account is compromised, someone with access can retrieve your pas
 
 ## Option 3: Dedicated Encrypted Apps
 
-A dedicated encrypted app designed for travel documents works entirely on your device and never uploads data to external servers.
+Travel Document Vault stores documents on your phone by default. You can share or export copies, or back them up to your own iCloud or Google Drive with Pro.
 
 ### How it works
 
-When you add your passport scan to the app, it's encrypted using AES-256 and stored entirely on your phone. The app works fully offline - no account required, no server needed. If you want multi-device access, an optional Pro feature backs up an encrypted copy to your own iCloud or Google Drive, sealed with a recovery code only you hold.
+When you add your passport scan to the app, it's encrypted using AES-256 and stored entirely on your phone. The app works fully offline - no account required, no server needed. With Pro, you can back up an encrypted copy to your own iCloud or Google Drive and sync it across configured devices on the same platform. You'll need your recovery code to restore a cloud backup.
 
 ### Security properties
 
-- **On-device AES-256 encryption:** Yes. Data never leaves your phone.
-- **Requires account:** No. No account, no server, no login.
-- **Cloud upload:** No. None.
+- **On-device AES-256 encryption:** Yes. Data stays on your phone unless you share or export it, or enable encrypted backup to your own iCloud or Google Drive (Pro).
+- **Requires account:** No. No TDV account or login; optional encrypted backup to your own iCloud or Google Drive (Pro) uses your cloud account.
+- **Cloud upload:** Optional encrypted backup to your own iCloud or Google Drive (Pro); you can also share or export copies.
 - **Works offline:** Yes, fully.
 - **Designed for identity documents:** Yes. The entire architecture is optimised for keeping sensitive documents private.
 
 ### Trade-offs
 
-The security advantages are substantial: your passport data is never transmitted or stored on a remote server, so it's never accessible to anyone else, and there's no remote server to compromise if someone gains unauthorised access to the app company's systems. This means you maintain complete control and ownership of your documents at all times.
+Travel Document Vault keeps your documents on your phone by default. Sharing and export are optional, as is encrypted backup to your own iCloud or Google Drive with Pro.
 
-The catch is reduced convenience: you can't automatically access your passport copy across multiple devices, and if you lose your phone, the app won't restore your documents on its own - you'd need to manually restore from a backup. For most families travelling together, storing documents on one parent's phone is sufficient anyway, and many apps support manual syncing via backup, which adds a layer of flexibility without requiring automatic cloud upload.
+With Pro, you can sync documents across configured devices on the same platform. If you lose your phone, restore a saved backup. Cloud restore needs your recovery code. For most families travelling together, storing documents on one parent's phone is sufficient anyway, and many apps support manual syncing via backup, which adds a layer of flexibility without requiring automatic cloud upload.
 
 ## Direct Comparison Table
 
@@ -95,8 +95,8 @@ The catch is reduced convenience: you can't automatically access your passport c
 | End-to-end encrypted | Optional (Advanced Data Protection) | No | Yes (always) |
 | Account required | Yes (Apple ID) | Yes (Google account) | No |
 | Works fully offline | No (needs sync) | No (needs sync) | Yes |
-| Remote breach risk | Medium (Apple's servers) | Medium-High (Google's servers + content scanning) | None (no remote storage) |
-| Cross-device access | Automatic | Automatic | Manual backup only |
+| Remote breach risk | Medium (Apple's servers) | Medium-High (Google's servers + content scanning) | Optional encrypted backup to your own iCloud or Google Drive (Pro) |
+| Cross-device access | Automatic | Automatic | Manual vault export; optional automatic cloud backup and sync (Pro) |
 | Cost | Free (200GB), then paid | Free (15GB), then paid | Typically a one-time purchase, no subscription |
 | Designed for identity docs | No | No | Yes |
 
@@ -132,7 +132,7 @@ Google Photos is not end-to-end encrypted by default. Google indexes and scans t
 
 ### What are the advantages of a dedicated encrypted app for passport storage?
 
-A dedicated encrypted app designed specifically for travel documents typically stores data on-device using AES-256 encryption, requires no account or cloud upload, works offline, and has a much smaller breach surface area. Because your passport data never leaves your phone, there is no remote server to breach. The trade-off is reduced convenience for cross-device access, but for security-first users, this is the most secure storage method available.
+Travel Document Vault encrypts your original document files with AES-256 and lets you view them offline without an app account. You can share or export copies. Pro adds optional encrypted backup to your own iCloud or Google Drive, plus sync across configured devices on the same platform.
 
 ### Can I use multiple storage methods for the same passport?
 

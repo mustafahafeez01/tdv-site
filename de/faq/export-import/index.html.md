@@ -1,18 +1,18 @@
 # So exportieren und importieren Sie Ihren Tresor | Travel Document Vault
 
-> Schritt für Schritt: den gesamten Tresor als verschlüsselte Datei exportieren und auf einem neuen Gerät importieren. Ihre Daten bleiben portabel.
+> Anleitung: Unterstützte Tresordaten als verschlüsselte Datei exportieren und auf neuem Gerät importieren. Portables Backup unter Ihrer Kontrolle.
 
 Source: https://traveldocumentvault.com/de/faq/export-import/
 
 ---
 
-Jeder Benutzer kann seinen gesamten Tresor als verschlüsselte, passwortgeschützte Sicherungsdatei (.tdvault) exportieren und auf jedem Gerät importieren. In dieser Anleitung wird jeder Schritt mit Erklärungen gezeigt.
+Tresor-Export und -Import sind für alle kostenlos. Exportieren Sie unterstützte Tresordaten als verschlüsselte, passwortgeschützte Datei (.tdvault) innerhalb der Größenbegrenzung. Importieren Sie sie mit den folgenden Schritten auf einem anderen unterstützten iOS- oder Android-Gerät.
 
 ## Warum exportieren und importieren?
 
-Export und Import stellen sicher, dass Ihre Daten portabel sind und Sie nicht an die App gebunden sind. Egal, ob Sie Geräte wechseln, ein neues Telefon einrichten oder einfach eine Sicherungskopie haben möchten, die Sie kontrollieren, der Export- und Importprozess behält alles genau so, wie es ist.
+Nutzen Sie Export und Import beim Telefonwechsel oder für ein unabhängiges Backup. Die Datei enthält unterstützte Tresordatensätze, verfügbare Anhänge und ausgewählte Einstellungen. Prüfen Sie die importierten Dokumente und Erinnerungen; die App-Sperre und andere Geräteeinstellungen bleiben lokal.
 
-Die exportierte Datei wird mit derselben Sicherheit wie Ihr lokaler Tresor verschlüsselt. Nur Sie können sie entschlüsseln.
+Die exportierte Datei wird mit derselben Sicherheit wie Ihr lokaler Tresor verschlüsselt. Jeder, der das Exportpasswort kennt, kann sie entschlüsseln. Halten Sie das Passwort deshalb privat.
 
 ## Schritt-für-Schritt-Anleitung
 
@@ -24,27 +24,27 @@ Starten Sie Travel Document Vault und tippen Sie unten auf dem Bildschirm auf da
 
 2
 
-### Überprüfen Sie, was exportiert wird
+### Erstellen Sie ein Exportpasswort
 
-Die App zeigt eine Zusammenfassung: Anzahl der Profile, Dokumente und Anhänge. Dies bestätigt, dass alles, was Sie brauchen, enthalten ist. Tippen Sie auf „Weiter" oder „Exportieren bestätigen".
+Die App fordert Sie auf, ein Passwort zum Schutz des Backups zu erstellen. Wählen Sie eines mit mindestens 8 Zeichen, geben Sie es zur Bestätigung erneut ein und bewahren Sie es sicher auf. Sie benötigen dieses Passwort zum Importieren der Datei; Ihre PIN oder Ihr Wiederherstellungscode können sie nicht öffnen.
 
 3
 
 ### Warten Sie, bis die Verschlüsselung abgeschlossen ist
 
-Die App verschlüsselt alle Ihre Daten in einer einzigen Sicherungsdatei (.tdvault). Bei einem typischen Tresor mit Hunderten von Dokumenten dauert dies einige Sekunden. Schließen Sie die App während dieses Schritts nicht.
+Die App verschlüsselt unterstützte Tresordaten und verfügbare Anhänge in einer einzigen Sicherungsdatei (.tdvault). Schließen Sie die App während dieses Schritts nicht.
 
 4
 
 ### Wählen Sie ein Ziel aus und speichern Sie
 
-Ihre Systemdateiauswahl wird geöffnet. Wählen Sie, wo Sie die Datei speichern möchten: iCloud Drive, Google Drive, Dropbox oder Ihr Computer. Wir empfehlen einen verschlüsselten Dienst oder offline gespeicherten Speicher für maximale Sicherheit.
+Das Teilen-Menü Ihres Telefons öffnet sich. Wählen Sie, wo Sie die Datei speichern möchten: iCloud Drive, Google Drive, Dropbox oder Ihr Computer. Wir empfehlen einen verschlüsselten Dienst oder offline gespeicherten Speicher für maximale Sicherheit.
 
 5
 
 ### Übertragen Sie die Datei auf Ihr neues Gerät (wenn Sie auf einem anderen Telefon importieren)
 
-Wenn Sie auf einem anderen Gerät importieren, machen Sie die exportierte Datei dort zugänglich. Laden Sie sie auf ein freigegebenes Laufwerk hoch, senden Sie sie sich selbst per E-Mail oder verwenden Sie AirDrop. Die Dateigröße liegt typischerweise zwischen 50 und 500 MB, abhängig von Ihrer Tresorgröße und Anzahl der Anhänge.
+Wenn Sie auf einem anderen Gerät importieren, machen Sie die exportierte Datei dort zugänglich. Laden Sie sie auf ein freigegebenes Laufwerk hoch, senden Sie sie sich selbst per E-Mail oder verwenden Sie AirDrop. Die Dateigröße hängt von der Tresorgröße und der Anzahl der Anhänge ab, mit einer Grenze von 500 MB pro Export.
 
 6
 
@@ -56,18 +56,18 @@ Starten Sie Travel Document Vault auf dem Gerät, auf dem Sie importieren möcht
 
 ### Wählen Sie die exportierte Datei aus und bestätigen Sie
 
-Navigieren Sie zu dem Ort, an dem Sie die exportierte Tresordatei gespeichert haben, wählen Sie sie aus und bestätigen Sie. Die App entschlüsselt und importiert alle Profile, Dokumente und Anhänge. Dieser Prozess dauert einige Sekunden.
+Navigieren Sie zum Speicherort der exportierten Tresordatei und wählen Sie sie aus. Die App warnt, dass der Import alles auf diesem Gerät ersetzt. Tippen Sie auf „Importieren“, um fortzufahren, und geben Sie dann das beim Export festgelegte Passwort ein. Die App entschlüsselt und importiert die im Backup enthaltenen Profile, Dokumente und Anhänge.
 
 8
 
 ### Überprüfen Sie, ob alle Daten vorhanden sind
 
-Überprüfen Sie nach dem Import die Registerkarte „Profile", um zu bestätigen, dass alle Profile angezeigt werden. Öffnen Sie ein paar Dokumente, um zu überprüfen, dass die Anhänge intakt sind. Der Importprozess ersetzt alle vorhandenen Daten auf diesem Gerät.
+Überprüfen Sie nach dem Import die Registerkarte „Familie", um zu bestätigen, dass alle Profile angezeigt werden. Öffnen Sie ein paar Dokumente, um zu überprüfen, dass die Anhänge intakt sind. Der Importprozess ersetzt alle vorhandenen Daten auf diesem Gerät.
 
 ### Wichtige Hinweise
 
 - **Ersetzt vorhandene Daten:** Beim Import wird zuerst geleert, was sich auf dem Zielgerät befindet. Wenn auf dem Zielgerät bereits Profile vorhanden sind, exportieren Sie diese, bevor Sie importieren.
-- **Wiederholungstreue:** Alles wird genau bewahrt: Dokumentnamen, Daten, Verfallswarnungen, benutzerdefinierte Farben, Anhänge und Notizen.
+- **Wiederholungstreue:** Die Datei überträgt unterstützte Tresorfelder und ausgewählte Einstellungen. Fehlende Anhänge oder unlesbare Notizen können ausgelassen werden. Prüfen Sie Ihre importierten Dokumente und Erinnerungen. Die App-Sperre und andere Geräteeinstellungen bleiben lokal.
 - **Durchgehend verschlüsselt:** Die exportierte Datei wird mit dem Passwort verschlüsselt, das Sie beim Exportieren wählen, unter Verwendung von AES-256-GCM mit PBKDF2-Schlüsselableitung. Nur dieses Passwort kann sie entschlüsseln, bewahren Sie es also an einem sicheren Ort auf – ohne dieses Passwort kann die Datei nicht wiederhergestellt werden.
 - **Best Practice für Sicherung:** Bewahren Sie Ihre exportierte Datei an einem sicheren Ort auf. Löschen Sie sie nach einem erfolgreichen Import, wenn Sie möchten, oder bewahren Sie sie als offline-Sicherung auf.
 

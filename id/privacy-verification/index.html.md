@@ -30,9 +30,9 @@ Anda tidak perlu mempercayai kami. Anda dapat mengonfirmasi setiap klaim di atas
 
 ### 1. Uji lalu lintas jaringan
 
-Instal pemantau jaringan seperti **mitmproxy** (gratis, sumber terbuka), **Wireshark** (gratis, sumber terbuka), atau **Charles Proxy**. Buka Travel Document Vault, pindai dokumen, telusuri brankas Anda, dan atur pengingat. Anda seharusnya tidak melihat dokumen, hasil pindai, tanggal kedaluwarsa, atau isi brankas Anda dikirim ke Travel Document Vault. Lalu lintas jaringan seharusnya terbatas pada fitur tertentu: pelaporan kerusakan Sentry opsional, pemeriksaan pembelian App Store atau Google Play, pencadangan cloud opsional ke akun iCloud atau Google Drive milik Anda sendiri, dan pemeriksaan perbaikan bug manual yang dijelaskan di bawah ini.
+Instal pemantau jaringan seperti **mitmproxy** (gratis, sumber terbuka), **Wireshark** (gratis, sumber terbuka), atau **Charles Proxy**. Buka Travel Document Vault, pindai dokumen, telusuri brankas Anda, dan atur pengingat. Anda seharusnya tidak melihat dokumen, hasil pindai, tanggal kedaluwarsa, atau isi brankas Anda dikirim ke Travel Document Vault. Lalu lintas jaringan seharusnya terbatas pada fitur tertentu: pelaporan kerusakan Sentry opsional, pemeriksaan pembelian App Store atau Google Play, pencadangan cloud opsional ke akun iCloud atau Google Drive milik Anda sendiri, dan pemeriksaan perbaikan bug yang dijelaskan di bawah ini.
 
-Pengaturan memiliki tombol **Check for Updates**. Ini adalah pemeriksaan manual, tidak pernah otomatis — hanya berjalan saat Anda sendiri menekannya, tidak pernah di latar belakang dan tidak pernah dengan sendirinya. Pemeriksaan menghubungi **updates.traveldocumentvault.com** — server pembaruan milik kami sendiri, dioperasikan oleh kami di Google Cloud, yang menyajikan file pembaruan yang ditandatangani secara kriptografi dari bucket penyimpanan. Kami tidak mencatat pemeriksaan: log permintaan dinonaktifkan di sisi kami, sehingga tidak ada alamat IP yang disimpan. Setiap pembaruan ditandatangani dengan kunci yang hanya kami miliki, dan aplikasi menolak apa pun yang tandatangannya tidak sesuai dengan sertifikat yang tertanam di dalamnya. Ketukan yang sama juga memeriksa apakah versi aplikasi yang lebih baru tersedia di **App Store** atau **Google Play**. Fitur ini ada agar perbaikan bug tertentu bisa sampai ke Anda lebih cepat daripada menunggu rilis penuh baru di App Store atau Google Play, berguna untuk perbaikan mendesak, tergantung sifat perbaikannya. Berlaku aturan yang sama seperti bagian lain di halaman ini: tidak ada permintaan jaringan tanpa Anda yang memintanya.
+Pengaturan memiliki tombol **Periksa Pembaruan**. Pemeriksaan ini nonaktif secara default: berjalan saat Anda menekannya, atau sekali setiap aplikasi dibuka jika Anda mengaktifkan Periksa pembaruan saat dibuka. Unduhan yang sedang berlangsung dapat berlanjut setelah aplikasi masuk ke latar belakang. Pemeriksaan menghubungi **updates.traveldocumentvault.com** — server pembaruan milik kami sendiri, dioperasikan oleh kami di Google Cloud, yang menyajikan file pembaruan yang ditandatangani secara kriptografi dari bucket penyimpanan. Penangan pembaruan tidak menulis log permintaan aplikasi. Setiap pembaruan ditandatangani dengan kunci yang hanya kami miliki, dan aplikasi menolak apa pun yang tandatangannya tidak sesuai dengan sertifikat yang tertanam di dalamnya. Ketukan yang sama juga memeriksa apakah versi aplikasi yang lebih baru tersedia di **App Store** atau **Google Play**. Fitur ini ada agar perbaikan bug tertentu bisa sampai ke Anda lebih cepat daripada menunggu rilis penuh baru di App Store atau Google Play, berguna untuk perbaikan mendesak, tergantung sifat perbaikannya. Penyimpanan dokumen tidak memerlukan jaringan; pemeriksaan pembelian di toko dan fitur opsional yang diaktifkan bisa melakukan panggilan jaringan otomatis.
 
 ### 2. Laporan Privasi Aplikasi iOS
 
@@ -42,7 +42,7 @@ Di iPhone, buka **Pengaturan > Privasi & Keamanan > Laporan Privasi Aplikasi**. 
 
 Android tidak memiliki satu laporan privasi bawaan seperti iPhone. Ada dua cara sederhana untuk memeriksanya sendiri: lihat bagian **Data Safety** milik aplikasi ini di halaman Google Play-nya (yang menyatakan dengan jelas apa yang dikumpulkan, apa yang dibagikan, bahwa data Anda dienkripsi saat transit, dan bahwa data tersebut tidak dapat dihapus), atau gunakan pemantau jaringan seperti yang dijelaskan pada langkah 1 di atas.
 
-Jika Anda telah mengaktifkan pencadangan cloud, Anda mungkin melihat sejumlah aktivitas menuju server Google (alamat web yang berakhiran **googleapis.com**). Itu wajar dan aman: yang dikirim hanyalah file cadangan Anda yang terkunci dan terenkripsi beserta pemeriksaan masuk, langsung ke akun Google Drive **milik Anda sendiri**, akun yang sama yang sudah Anda gunakan untuk foto atau Gmail. Kami tidak pernah melihatnya, menerimanya, atau menyimpan salinannya di mana pun. Hanya Anda yang memiliki kunci pemulihan yang dapat membukanya.
+Jika Anda telah mengaktifkan pencadangan cloud, Anda mungkin melihat sejumlah aktivitas menuju server Google (alamat web yang berakhiran **googleapis.com**). Koneksi ini mengirim file vault terenkripsi, pemeriksaan masuk, dan metadata cadangan yang tidak terenkripsi seperti nama perangkat, jumlah, dan cap waktu langsung ke akun Google Drive **milik Anda sendiri**, akun yang sama yang sudah Anda gunakan untuk foto atau Gmail. Kami tidak pernah melihatnya, menerimanya, atau menyimpan salinannya di mana pun. Hanya Anda yang memiliki kunci pemulihan yang dapat membukanya.
 
 ### 4. Label privasi App Store dan Google Play
 
@@ -52,17 +52,17 @@ Apple dan Google mengharuskan pengembang untuk mendeklarasikan data apa yang dik
 
 Kami tidak sekadar mengklaim bahwa aplikasi ini aman. Kami memeriksanya, menggunakan alat terbuka dan standar publik yang sama seperti yang digunakan industri keamanan.
 
-### Kami menilai aplikasi berdasarkan standar publik
+### Bandingkan aplikasi dengan standar publik
 
-Kami mengevaluasi Travel Document Vault berdasarkan [OWASP Mobile Application Security Verification Standard (MASVS)](https://mas.owasp.org/MASVS/), daftar acuan industri tentang bagaimana seharusnya aplikasi seluler menyimpan data, menggunakan enkripsi, mengunci layar dengan Face ID atau PIN, dan menangani tautan dari aplikasi lain. Siapa pun bisa membaca standar ini dan membandingkannya dengan perilaku aplikasi yang sebenarnya.
+Anda bisa membandingkan Travel Document Vault dengan [OWASP Mobile Application Security Verification Standard (MASVS)](https://mas.owasp.org/MASVS/), daftar acuan industri tentang bagaimana seharusnya aplikasi seluler menyimpan data, menggunakan enkripsi, mengunci layar dengan Face ID atau PIN, dan menangani tautan dari aplikasi lain. Siapa pun bisa membaca standar ini dan membandingkannya dengan perilaku aplikasi yang sebenarnya.
 
-### Kami memindai kode kami sendiri
+### Analisis kode sumber
 
-Sebelum sebuah build dirilis, kami menjalankan analisis statis pada kode kami dengan [Semgrep](https://semgrep.dev/), alat sumber terbuka yang menandai pola tidak aman seperti enkripsi lemah atau penanganan data yang tidak tepat, sehingga kami bisa memperbaikinya sejak dini.
+Alat analisis statis seperti [Semgrep](https://semgrep.dev/) dapat menandai pola tidak aman seperti enkripsi lemah atau penanganan data yang tidak tepat. Ini menjelaskan metode pemeriksaan, bukan bukti bahwa setiap rilis telah lolos pemindaian.
 
-### Kami memindai aplikasi yang sudah dibangun
+### Perilaku aplikasi yang sudah dibangun
 
-Kami juga meninjau build rilis kami dengan alat pemindai keamanan aplikasi seluler, memeriksa bagaimana build tersebut menyimpan data, apa saja yang bisa diaksesnya, dan bagaimana build itu ditandatangani.
+Aplikasi mengenkripsi file dokumen di perangkat Anda, dan konfigurasi pembaruannya memerlukan sertifikat penandatanganan kode. Anda bisa memeriksa perilaku jaringannya menggunakan langkah-langkah di atas.
 
 ### Menemukan masalah? Beri tahu kami
 
@@ -88,7 +88,7 @@ iOS + Android
 
 iOS + Android
 
-**Alasan kami meminta:** Agar Anda dapat mengimpor foto dokumen yang ada, dan agar aplikasi dapat mengekspor file cadangan terenkripsi (.tdvault) saat Anda memintanya. Pada versi Android yang lebih lama, READ_EXTERNAL_STORAGE dan WRITE_EXTERNAL_STORAGE diperlukan. Pada Android 13+, READ_MEDIA_IMAGES digunakan sebagai gantinya.
+**Alasan kami meminta:** Agar Anda dapat mengimpor foto dokumen yang ada. Di Android, aplikasi menggunakan pemilih foto sistem, sehingga READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE, dan READ_MEDIA_IMAGES dihapus dari build akhir. File cadangan terenkripsi (.tdvault) diekspor melalui menu berbagi ponsel Anda, yang tidak memerlukan izin penyimpanan.
 
 **Yang tidak pernah kami lakukan:** Aplikasi hanya membaca gambar yang Anda pilih. Tidak pernah memindai, mengindeks, atau menjelajahi perpustakaan foto atau sistem file Anda.
 
@@ -104,7 +104,7 @@ iOS + Android
 
 Android
 
-**Alasan kami meminta:** Untuk mengirimkan pengingat kedaluwarsa on-device yang Anda atur sendiri. RECEIVE_BOOT_COMPLETED menjadwalkan ulang pengingat Anda setelah restart perangkat. WAKE_LOCK memastikan pengingat mengirim dengan andal bahkan ketika telepon tidur. VIBRATE menyertai pengiriman notifikasi.
+**Alasan kami meminta:** Untuk mengirimkan pengingat kedaluwarsa dokumen di perangkat Anda. RECEIVE_BOOT_COMPLETED menjadwalkan ulang pengingat setelah perangkat dimulai ulang. WAKE_LOCK mendukung penanganan notifikasi. VIBRATE menyertai pengiriman notifikasi.
 
 **Yang tidak pernah kami lakukan:** Tidak ada notifikasi pemasaran, promosi, atau pihak ketiga yang pernah dikirim. Pengingat dijadwalkan sepenuhnya di perangkat Anda.
 
@@ -112,7 +112,7 @@ Android
 
 Android
 
-**Mengapa ini muncul:** Izin ini diperlukan untuk fitur yang menggunakan jaringan: **pelaporan kerusakan Sentry** (opt-in, dinonaktifkan secara bawaan), **penagihan App Store atau Google Play** untuk pembelian upgrade Pro, **pencadangan cloud Pro** (opsional), yang menyinkronkan brankas terenkripsi Anda ke iCloud atau Google Drive milik Anda sendiri, dan tombol manual **Check for Updates** di Pengaturan (hanya berjalan saat Anda menekannya). ACCESS_NETWORK_STATE dan ACCESS_WIFI_STATE memungkinkan fitur-fitur ini memeriksa apakah koneksi tersedia sebelum mencoba mengirim.
+**Mengapa ini muncul:** Izin ini diperlukan untuk fitur yang menggunakan jaringan: **pelaporan kerusakan Sentry** (opt-in, dinonaktifkan secara bawaan), **penagihan App Store atau Google Play** untuk pembelian upgrade Pro, **pencadangan cloud Pro** (opsional), yang menyinkronkan brankas terenkripsi Anda ke iCloud atau Google Drive milik Anda sendiri, dan tombol **Periksa Pembaruan** di Pengaturan (berjalan saat Anda menekannya, atau saat aplikasi dibuka jika Anda mengaktifkannya). ACCESS_NETWORK_STATE dan ACCESS_WIFI_STATE memungkinkan fitur-fitur ini memeriksa apakah koneksi tersedia sebelum mencoba mengirim.
 
 **Yang tidak kami lakukan:** Aplikasi tidak mengunggah dokumen, hasil pindai, tanggal kedaluwarsa, foto, atau isi brankas Anda ke Travel Document Vault. Aplikasi tetap berfungsi sepenuhnya offline untuk penyimpanan dokumen dan pengingat normal.
 
@@ -122,9 +122,9 @@ Aplikasi Android menyertakan perpustakaan pihak ketiga untuk fitur seperti pembe
 
 ### Rekam Audio
 
-Diwariskan, tidak digunakan
+Diwariskan, dihapus
 
-**Alasan ini muncul:** Izin ini dideklarasikan oleh perpustakaan pihak ketiga yang disertakan dalam pembuatan (biasanya plugin kamera atau media). Muncul dalam manifes Android tetapi tidak pernah dipicu oleh kode kami. Aplikasi tidak merekam audio atau video dalam keadaan apa pun.
+**Alasan ini muncul:** Izin ini dideklarasikan oleh pustaka kamera yang disertakan dalam build. Travel Document Vault menghapusnya dari manifes Android akhir, karena aplikasi mengambil gambar diam dokumen dan tidak pernah merekam audio atau video.
 
 **Bagaimana Anda dapat mengkonfirmasi:** Aplikasi tidak akan pernah meminta akses mikrofon. Jika Anda memeriksa pengelola izin perangkat Anda, Anda akan melihat bahwa perekaman audio tidak diberikan kepada Travel Document Vault.
 
@@ -132,13 +132,13 @@ Diwariskan, tidak digunakan
 
 Diwariskan
 
-Dideklarasikan oleh kerangka kerja Flutter untuk lapisan pengembangan dan debug. Izin ini tidak digunakan dalam build rilis aplikasi dan tidak berpengaruh pada privasi Anda.
+Dideklarasikan oleh dependensi kerangka kerja React Native untuk tampilan pengembangan dan debug. Travel Document Vault menghapusnya dari manifes Android akhir dan tidak menggunakan jendela overlay.
 
 ### Deteksi Tangkapan Layar
 
 Diwariskan
 
-Dideklarasikan oleh ketergantungan kerangka kerja. Aplikasi tidak mendeteksi, memblokir, atau merespons tangkapan layar. Izin ini tidak berpengaruh pada penggunaan Anda.
+Dideklarasikan oleh dependensi kerangka kerja. Travel Document Vault mengaktifkan perlindungan tangkapan layar secara default pada layar dokumen yang mendukungnya. Anda bisa mengubahnya di Pengaturan.
 
 ### Izin penghitungan badge
 
@@ -156,7 +156,7 @@ Dideklarasikan oleh perpustakaan Penagihan Google Play (untuk pembelian upgrade 
 
 Diwariskan
 
-Dideklarasikan oleh ketergantungan kerangka kerja. Aplikasi tidak mendownload file di latar belakang.
+Dideklarasikan oleh dependensi kerangka kerja. Unduhan pembaruan yang dimulai di aplikasi dapat berlanjut setelah aplikasi masuk ke latar belakang, dan iCloud bisa mengelola transfer file melalui sistem operasi.
 
 ### Izin yang tidak kami minta
 

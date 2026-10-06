@@ -81,7 +81,7 @@ Apa artinya ini dalam praktik
 
 Jika ponsel Anda dicuri dan pencuri membobol galeri foto, mereka mendapatkan pindaian jelas halaman data paspor Anda: nama, tanggal lahir, nomor paspor, dan foto Anda. Itu cukup untuk penipuan identitas. Menyimpan pindaian paspor dalam aplikasi terenkripsi yang mengharuskan PIN atau biometrik terpisah jauh lebih aman dibandingkan galeri foto, bahkan jika keduanya berada di perangkat yang sama.
 
-[Travel Document Vault](https://traveldocumentvault.com) menyimpan semuanya di perangkat dengan enkripsi kuat (cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri dengan Pro). Setiap anggota keluarga mendapat profil sendiri, dan tanggal kedaluwarsa dilacak otomatis. Jika lebih suka melakukannya sendiri, folder terenkripsi di pengelola kata sandi tepercaya juga bisa - hanya saja tidak akan mengingatkan Anda saat sesuatu akan kedaluwarsa.
+[Travel Document Vault](https://traveldocumentvault.com) menyimpan dokumen Anda secara terenkripsi di perangkat dan melacak tanggal kedaluwarsa yang tersimpan. Anda bisa membagikan atau mengekspor salinan. Pro menambahkan profil keluarga dan cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri. Jika lebih suka melakukannya sendiri, folder terenkripsi di pengelola kata sandi tepercaya juga bisa - hanya saja tidak akan mengingatkan Anda saat sesuatu akan kedaluwarsa.
 
 ## Melacak Tanggal Kedaluwarsa: Bagian yang Paling Sering Terabaikan
 
@@ -93,11 +93,11 @@ Ini pola kegagalan yang menjebak keluarga: Anda memperpanjang paspor sendiri, me
 
 - **Pengingat kalender:** Atur satu 12 bulan sebelum setiap dokumen kedaluwarsa dan satu lagi pada 6 bulan. Anda perlu ingat memperbarui ini saat dokumen diperpanjang, dan Anda perlu tanggal kedaluwarsa tersedia sejak awal.
 - **Spreadsheet:** Berfungsi baik jika Anda benar-benar memeliharanya. Satu baris per dokumen per orang, tanggal kedaluwarsa, dan rumus yang menyorot apa pun yang kedaluwarsa dalam 12 bulan.
-- **Aplikasi khusus:** Alat seperti Travel Document Vault menangani pengingat secara otomatis — pindai dokumen, konfirmasi tanggal kedaluwarsa, dan aplikasi menjadwalkan peringatan mulai dari delapan bulan sebelumnya, lalu kembali mengingatkan Anda saat tanggalnya semakin dekat, tanpa Anda perlu memikirkannya.
+- **Aplikasi khusus:** Travel Document Vault menjadwalkan pengingat paspor mulai delapan bulan sebelum kedaluwarsa, dengan peringatan yang semakin sering menjelang tanggalnya. Pindai paspor lalu konfirmasi atau masukkan tanggal kedaluwarsanya; pengingat aktif secara default.
 
 Ketiga pendekatan ini akan berhasil, tetapi kami akan memilih yang mengirim pengingat secara otomatis, karena spreadsheet hanya berguna jika Anda ingat membukanya. Yang paling penting adalah memilih salah satu yang sesuai dengan cara Anda sudah beroperasi dan benar-benar mempertahankannya.
 
-**Travel Document Vault** menangani pelacakan kedaluwarsa untuk setiap anggota keluarga secara otomatis, pindai setiap paspor sekali dan dapatkan pengingat mulai dari delapan bulan sebelumnya. Tanpa spreadsheet, tanpa perpanjangan yang terlupakan. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** melacak tanggal kedaluwarsa yang tersimpan, dengan pengingat paspor mulai delapan bulan sebelum kedaluwarsa. Pindai setiap paspor lalu konfirmasi atau masukkan tanggal kedaluwarsanya. Tambahkan seluruh keluarga dengan Pro agar tanggal perpanjangan tersimpan bersama. [Unduh di App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Daftar Periksa Dokumen Sebelum Perjalanan untuk Keluarga
 

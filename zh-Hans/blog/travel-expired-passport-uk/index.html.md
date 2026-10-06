@@ -88,7 +88,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-expired-passport-uk/
 
 [如果您的护照已经过期且您正在寻找接下来该做什么，我们的相关文章逐步说明](https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do/)。如果您有即将到来的旅行且护照即将过期，现在是更新而不是等待它过期的时候，这意味着支付高级服务费而不是标准费。现在检查您家人的护照，然后再预订任何旅行。
 
-**提前数月设置过期提醒，而不是数周。** [Travel Document Vault 追踪您家庭中每本护照的过期日期，从提前八个月开始发送提醒，并在临近到期时再次提醒](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)，所以您可以进行标准处理更新并避免应急费用。
+**提前数月设置过期提醒，而不是数周。** [Travel Document Vault 追踪您的护照到期日，默认从到期前八个月开始发送提醒，并在临近到期时再次提醒](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)。通过 Pro 添加家中的每本护照。利用提醒帮助您规划换发。
 
 ## 如果您已在国外且护照过期
 

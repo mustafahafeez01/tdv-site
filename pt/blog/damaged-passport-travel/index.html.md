@@ -81,7 +81,7 @@ Uma foto digital nítida do seu passaporte ajuda aqui. Guarde a página de dados
 
 Isto é especialmente valioso se estiver no estrangeiro quando o passaporte se danifica e precisar de um documento de viagem de emergência da sua embaixada. Os funcionários consulares trabalham mais depressa quando têm à frente uma digitalização do seu passaporte original.
 
-Guarde as suas cópias digitais num local encriptado e offline — não no Google Photos ou no iCloud partilhado com outras pessoas. O Travel Document Vault foi criado exatamente para este caso: fotos do passaporte encriptadas apenas no seu dispositivo, acessíveis num instante se algo correr mal.
+Guarde as suas cópias digitais num local encriptado e offline — não no Google Photos ou no iCloud partilhado com outras pessoas. O Travel Document Vault guarda fotografias do passaporte encriptadas no dispositivo para consulta offline. Pode partilhar ou exportar cópias, ou usar a cópia de segurança encriptada na nuvem com Pro.
 
 Digitalize o seu passaporte hoje, antes de precisar dele.
 

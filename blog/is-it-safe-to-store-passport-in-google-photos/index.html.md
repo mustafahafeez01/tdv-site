@@ -64,7 +64,7 @@ The attacker now has your full legal name, date of birth, nationality, passport 
 | Google Photos | Google cloud servers | In transit + at rest (Google-managed keys) | Moderate | Acceptable with strong 2FA |
 | iCloud Photos | Apple cloud servers | In transit + at rest (Apple-managed keys) | Moderate | Acceptable with strong 2FA |
 | Encrypted password manager (1Password, Bitwarden) | Cloud (zero-knowledge) | End-to-end; provider cannot read content | Low | Good choice |
-| On-device encrypted app (optional own-cloud backup) | Your phone only | Encrypted on-device; no server copy | Lowest | Best for sensitive docs |
+| On-device encrypted app (optional own-cloud backup) | Your phone; optional encrypted backup to your own cloud (Pro) | Encrypted on-device; optional encrypted own-cloud copy (Pro) | Lowest | Best for sensitive docs |
 | Camera roll / unencrypted folder | Your device | Device encryption only | Higher | Not recommended |
 
 ### iCloud Photos vs Google Photos: Is Apple Any Safer?
@@ -77,7 +77,7 @@ The same account-compromise risk applies to both platforms. A weak Apple ID pass
 
 If you're an iPhone user, enabling **Advanced Data Protection in iCloud** is worth doing. A purpose-built encrypted app with no cloud upload remains the strongest option for passport storage regardless of which platform you're on.
 
-**Travel Document Vault** stores your passport scans on-device with strong encryption and no account required. Optional encrypted backup to your own iCloud or Google Drive (Pro) is sealed with a recovery code only you hold. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** stores your passport scans on-device with strong encryption and no account required. With Pro, you can back up an encrypted copy to your own iCloud or Google Drive. Keep your recovery code safe: you'll need it to restore that backup. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ![Hand-drawn diagram of what a passport photo gives away - name, date of birth, passport number and photo - flowing into three risks: account breach, third-party access and data indexing, with three safer options below: iCloud with ADP, an encrypted app, or an offline copy](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/passport-data-risks.jpg) One photo, four data points, and three calmer places to keep them.
 
@@ -89,7 +89,7 @@ Two things are worth separating first: keeping a copy for your own reference, an
 
 1Password and Bitwarden, two well-known **encrypted password managers**, let you store document scans as attachments. They use zero-knowledge encryption, so the provider can't read your content even if they wanted to. Your documents get encrypted on your device before anything goes to their servers, a real step up from a general cloud photo library.
 
-Apps built specifically for this, **on-device encrypted apps** like [Travel Document Vault](https://traveldocumentvault.com), keep everything on your phone with strong encryption and no account required. You get optional encrypted backup to your own iCloud or Google Drive (Pro), and there's no server to breach because your digital passport copy never leaves the device. The one trade-off: if you lose your phone without a backup, the digital copy goes with it, though your physical passport is still with you.
+Apps built specifically for this, **on-device encrypted apps** like [Travel Document Vault](https://traveldocumentvault.com), store documents encrypted on your phone without an app account. You can share or export copies, or use Pro to back up an encrypted copy to your own iCloud or Google Drive. The app doesn't upload your documents to our servers. The one trade-off: if you lose your phone without a backup, the digital copy goes with it, though your physical passport is still with you.
 
 Tresorit and Proton Drive take a third route, **encrypted cloud storage with client-side keys**, where the provider can't read your files any more than a password manager can. You get cloud convenience with substantially stronger passport photo security than Google Photos.
 
@@ -121,7 +121,7 @@ Yes. Automated systems process your photos for things like face recognition, obj
 
 ### What is the safest way to store a digital copy of a passport?
 
-On-device encrypted storage is your safest bet - apps that keep your scans on your phone with strong encryption and zero cloud upload. No third-party server ever touches your passport data. If you want cloud access too, a zero-knowledge encrypted password manager like 1Password or Bitwarden is a solid middle ground.
+On-device encrypted storage is your safest bet - apps that keep your scans on your phone with strong encryption by default. Copies can leave through sharing, export or optional encrypted backup to your own iCloud or Google Drive (Pro). If you want cloud access too, a zero-knowledge encrypted password manager like 1Password or Bitwarden is a solid middle ground.
 
 ### Can someone steal my identity from a passport scan?
 

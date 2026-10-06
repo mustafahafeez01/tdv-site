@@ -52,7 +52,7 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
-[Family TravelFamily Passport Management: Store Multiple Passports SafelyHow to organise and securely store multiple family passports in one place. Track every family member's expiry dates, with reminders before each renewal.July 16, 20267 min read](https://traveldocumentvault.com/blog/family-passport-management/)
+[Family TravelFamily Passport Management: Store Multiple Passports SafelyOrganise your family's passports in one encrypted place. Add family profiles with Pro, and use expiry dates and reminders to plan renewals.July 16, 20267 min read](https://traveldocumentvault.com/blog/family-passport-management/)
 
 ##
 
@@ -142,9 +142,9 @@ Source: https://traveldocumentvault.com/blog/
 
 [Passport Rules The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out Your passport might be valid - but still get you turned away. Learn which countries enforce the 6-month rule, how airlines check it, and how to make sure your whole family is covered before booking. Feb 1, 20267 min read](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
-## The Last Time You'll Scramble Before a Trip
+## Keep Your Passport Details Together
 
-Scan your family's passports tonight. Expiry reminders set themselves. Securely encrypted, stored only on your device.
+Scan your passport tonight and confirm or enter its expiry date. Reminders are on by default, and your documents are encrypted on your device. You can share or export copies. Pro adds family profiles and optional encrypted backup to your own cloud.
 
 ![Download on the App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

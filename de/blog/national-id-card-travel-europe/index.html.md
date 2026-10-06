@@ -67,7 +67,7 @@ Die eigentliche Herausforderung bei der Verwaltung von Reisedokumenten ist: Ihr 
 
 Der schwierigere Teil ist, dass **keines der beiden Dokumente Ihnen eine Erinnerung schickt.** Sie sollen sie selbst überprüfen. Die meisten Menschen tun das nicht, bis sie am Check-in-Schalter stehen und ein Mitarbeiter ihnen sagt, dass eines davon zu kurz vor Ablauf steht, um akzeptiert zu werden.
 
-Hilfreich ist ein einziger Ort für beide Dokumente: einer, der beim Scannen jedes Ablaufdatum übernimmt und Sie für jedes Dokument einzeln erinnert, nach dem für diesen Dokumenttyp passenden Zeitplan. Den vollständigen Überblick, was Sie vor der Reise prüfen sollten, finden Sie in unserem Leitfaden zur [vollständigen Reisedokument-Checkliste vor der Abreise](https://traveldocumentvault.com/de/blog/travel-document-checklist/).
+Hilfreich ist ein einziger Ort für beide Dokumente: einer, der jedes Ablaufdatum speichert und Sie für jedes Dokument einzeln erinnert, nach dem für diesen Dokumenttyp passenden Zeitplan. Den vollständigen Überblick, was Sie vor der Reise prüfen sollten, finden Sie in unserem Leitfaden zur [vollständigen Reisedokument-Checkliste vor der Abreise](https://traveldocumentvault.com/de/blog/travel-document-checklist/).
 
 Fangen Sie heute an: Holen Sie Ihren Personalausweis hervor, prüfen Sie das Ablaufdatum und sehen Sie ihn auf Risse, Verblassen oder verzogenen Kunststoff durch. Wenn es knapp ist, beantragen Sie die Erneuerung, bevor Sie die Reise buchen.
 

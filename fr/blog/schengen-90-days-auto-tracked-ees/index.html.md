@@ -72,7 +72,7 @@ La méthode manuelle vient en premier, car elle est gratuite et officielle: pren
 
 Pour une personne prenant une vacances ou deux par an, c'est tout à fait gérable. Cela devient plus difficile quand les voyages se chevauchent et que les gens se multiplient: un voyageur d'affaires faisant de courts sauts chaque mois, ou une famille où un enfant est en échange scolaire, un autre a des dates de camp d'été, et un partenaire rentre plus tôt. Chaque personne porte sa propre fenêtre glissante, et les fenêtres ne s'alignent pas. C'est la situation où un outil de suivi cesse d'être un gadget et commence à être comment vous évitez une erreur coûteuse — notre [guide du suivi des visas et des entrées](https://traveldocumentvault.com/fr/blog/visa-expiry-tracker-app/) couvre le problème plus largement.
 
-Une note d'honnêteté: aucune application ne peut lire votre dossier EES, y compris la nôtre. Ce qu'un suivi fait, c'est appliquer l'arithmétique officielle 90/180 aux dates de voyage que vous lui donnez, continuellement, pour chaque voyageur que vous ajoutez. La frontière compte ce qui s'est passé; un bon suivi montre ce que vous pouvez encore faire.
+Travel Document Vault ne lit pas votre dossier EES. Avec Pro, l’application compte les jours des voyages enregistrés selon les limites que vous définissez pour chaque pays. Elle ne calcule pas une durée de séjour 90/180 cumulée pour tout l’espace Schengen : vérifiez donc séparément votre durée totale dans cet espace.
 
 ## Trois choses que le EES n'est pas
 
@@ -108,7 +108,7 @@ Non. Le EES est en vigueur maintenant et enregistre votre entrée et sortie à l
 
 ### Comment Travel Document Vault aide-t-il avec la règle 90/180?
 
-L'application compte les jours par personne, par pays, sur tous vos voyages dans ce pays, et projette votre fenêtre glissante avant que vous réserviez. Elle ne lit pas votre dossier EES — aucune application ne peut le faire — mais avec Pro, elle applique un décompte glissant 90/180 à vos voyages dans chaque pays pour lequel vous définissez une limite, de sorte que les jours restants de chaque membre de la famille dans ce pays sont visibles d'un coup d'œil.
+Avec Pro, l’application compte les jours des voyages enregistrés par personne et par pays, et projette la fenêtre glissante selon les limites que vous définissez. Elle ne lit pas votre dossier EES et ne calcule pas une durée de séjour 90/180 cumulée pour tout l’espace Schengen. Vous pouvez voir les jours restants de chaque membre de la famille pour un pays, mais devez vérifier séparément le total Schengen.
 
 ## Articles connexes
 

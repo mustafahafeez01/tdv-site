@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/de/faq/
 
 ---
 
-Datenschutz zuerst. Nur auf dem Gerät. Keine Konten erforderlich.
+Datenschutz zuerst. Standardmäßig auf dem Gerät. Keine Konten erforderlich.
 
 # Häufig gestellte Fragen
 
@@ -20,11 +20,11 @@ Alles, was Sie über Travel Document Vault wissen müssen.
 
 Kann der Entwickler meine Dokumente sehen?
 
-Nein. Wir haben keine Server und keine Konten. Ihre Dokumente werden standardmäßig auf Ihrem Gerät gespeichert. Wenn Sie das optionale Pro-Cloud-Backup aktivieren, wird Ihr Tresor auf dem Gerät Ende-zu-Ende verschlüsselt, bevor er in Ihre eigene iCloud (iOS) oder Ihren eigenen Google Drive (Android) hochgeladen wird, versiegelt mit einem Wiederherstellungscode, den nur Sie besitzen. Wir erhalten Ihre Daten nie und können das verschlüsselte Backup nicht lesen. Apple und Google ebenso wenig. Die Architektur wurde von Anfang an so gebaut.
+Nein. Der lokale Tresor benötigt kein Travel Document Vault-Konto und keinen Server. Ihre Dokumente werden standardmäßig auf Ihrem Gerät gespeichert. Wenn Sie das optionale Pro-Cloud-Backup aktivieren, wird Ihr Tresor auf dem Gerät Ende-zu-Ende verschlüsselt, bevor er in Ihre eigene iCloud (iOS) oder Ihren eigenen Google Drive (Android) hochgeladen wird, versiegelt mit einem Wiederherstellungscode, den nur Sie besitzen. Wir erhalten Ihr Cloud-Backup nicht und können seine verschlüsselten Dokumentinhalte nicht lesen. Apple und Google ebenso wenig.
 
 Was erfasst die Sentry-Absturzberichterstattung, und kann ich sie deaktivieren?
 
-Sentry ist ein Absturzbericht-Tool, das uns hilft, Fehler zu finden und zu beheben. Es ist **standardmäßig deaktiviert** und sendet bei Deaktivierung absolut nichts. Wenn Sie es in den Einstellungen aktivieren, sendet es nur technische Absturzdiagnosen wie Ihren Gerätetyp und was die App beim Absturz tat. Es sendet niemals Ihre Dokumente, Namen, Passnummern oder irgendetwas aus Ihrem Tresor.
+Sentry ist ein Absturzbericht-Tool, das uns hilft, Fehler zu finden und zu beheben. Es ist **standardmäßig deaktiviert** und sendet bei Deaktivierung absolut nichts. Wenn Sie es in „Einstellungen“ aktivieren, sendet es bereinigte technische Absturzdiagnosen. Die Sitzungsaufzeichnung erfordert eine separate Zustimmung. Absturzberichte werden bereinigt, um personenbezogene Daten zu reduzieren; Dokumentdateien werden nicht absichtlich angehängt.
 
 Was beinhaltet das Pro-Upgrade?
 
@@ -36,11 +36,11 @@ Ja. Ihr Kauf umfasst alle Updates innerhalb der aktuellen Hauptversion (v1.x), e
 
 Was passiert, wenn ich mein Telefon verliere oder zu einem neuen wechsle?
 
-Da wir Ihre Daten nicht speichern, können wir sie nicht für Sie wiederherstellen. Ein System-Backup (iCloud oder Google Backup) reinstalliert die App, aber es KANN Ihre Dokumente nicht wiederherstellen, da der Verschlüsselungsschlüssel niemals Ihr Originalgerät verlässt. Wir empfehlen dringend, die Export-Funktion zu nutzen, um eine separate verschlüsselte Kopie Ihrer wichtigen Dokumente zu erstellen, bevor Sie Ihre Telefone wechseln.
+Da wir Ihre Daten nicht speichern, können wir sie nicht für Sie wiederherstellen. Ein System-Backup (iCloud oder Google Backup) reinstalliert die App, aber es KANN Ihre Dokumente nicht wiederherstellen, da Systemsicherungen den an das Gerät gebundenen Verschlüsselungsschlüssel nicht übertragen. Wir empfehlen dringend, die Export-Funktion zu nutzen, um eine separate verschlüsselte Kopie Ihrer wichtigen Dokumente zu erstellen, bevor Sie Ihre Telefone wechseln.
 
 Funktioniert die App ohne Internetverbindung?
 
-Ja, vollständig. Die App selbst hat keinen Server und benötigt kein Internet, um zu funktionieren. Scannen, Ansehen, Exportieren und Erinnerungen laufen alle offline. Eine Verbindung brauchen nur zwei Dinge: das Wiederherstellen Ihres Pro-Kaufs auf einem neuen Gerät über den App Store oder Google Play, und das optionale Backup in Ihrer eigenen Cloud, das Ihr eigenes iCloud- oder Google-Drive-Konto verwendet.
+Ja, vollständig. Die App selbst hat keinen Server und benötigt kein Internet, um zu funktionieren. Scannen, Ansehen, Exportieren und Erinnerungen laufen alle offline. Eine Verbindung benötigen unter anderem Käufe und deren Wiederherstellung in den Stores, Update-Prüfungen und -Downloads sowie optionale Cloud-Backups (Pro) in Ihrem eigenen iCloud- oder Google-Drive-Konto. Auch das Ändern Ihres Wiederherstellungscodes bei aktivierter Cloud-Sicherung benötigt eine Verbindung.
 
 Welche Sprachen unterstützt die App?
 
@@ -48,11 +48,11 @@ Die App ist in über 40 Sprachen verfügbar, einschließlich vollständiger Unte
 
 Was passiert, wenn Sie die App-Entwicklung einstellen?
 
-Ihre Dokumente befinden sich auf Ihrem Gerät, nicht auf unseren Servern – sie verschwinden also nicht, wenn wir keine Updates mehr veröffentlichen. Die App wird weiterhin so funktionieren wie heute. Sie können jederzeit alles mit den integrierten Export-Tools exportieren, sodass Sie nie eingesperrt sind.
+Ihre Dokumente befinden sich auf Ihrem Gerät, nicht auf unseren Servern – sie verschwinden also nicht, wenn wir keine Updates mehr veröffentlichen. Der Zugang zu Ihrem gespeicherten Tresor hängt nicht von einem Travel Document Vault-Server ab; die Kompatibilität mit künftigen Betriebssystemen kann nicht garantiert werden. Sie können eine verschlüsselte Kopie Ihres Tresors exportieren, innerhalb der Export-Größenbegrenzung und mit lesbaren Anhangsdateien.
 
 Wer hat diese App entwickelt, und warum steht Datenschutz an erster Stelle?
 
-Travel Document Vault wurde von Mustafa Hafeez entwickelt, einem erfahrenen Softwareentwickler mit langjähriger Berufserfahrung im Bau datenschutzfreundlicher Anwendungen, und einem Vater, der diese App für seine eigene Familie brauchte. Datenschutz ist keine Marketingzeile. Die App wurde vom ersten Tag an so entworfen, dass keine Konten nötig sind, nie Server von Travel Document Vault beteiligt sind und Ihre Dokumente nur für Sie lesbar bleiben. Das optionale Cloud-Backup nutzt Ihre eigene iCloud oder Ihren eigenen Google Drive, Ende-zu-Ende verschlüsselt mit einem Wiederherstellungscode, den nur Sie besitzen. Das ist eine bewusste technische Entscheidung, keine Richtlinie, die sich per Schalter ändern ließe.
+Travel Document Vault wurde von Mustafa Hafeez entwickelt, einem erfahrenen Softwareentwickler mit langjähriger Berufserfahrung im Bau datenschutzfreundlicher Anwendungen, und einem Vater, der diese App für seine eigene Familie brauchte. Datenschutz ist keine Marketingzeile. Der lokale Tresor benötigt kein Travel Document Vault-Konto und keinen Server. Aktivieren Sie die App-Sperre, um den Zugriff auf einem entsperrten Telefon zu beschränken. Das optionale Cloud-Backup nutzt Ihre eigene iCloud oder Ihren eigenen Google Drive, Ende-zu-Ende verschlüsselt mit einem Wiederherstellungscode, den nur Sie besitzen. Das ist eine bewusste technische Entscheidung, keine Richtlinie, die sich per Schalter ändern ließe.
 
 Möchten Sie diese Angaben selbst überprüfen? Sehen Sie sich unsere [Datenschutz-Verifizierung](https://traveldocumentvault.com/de/privacy-verification/) Seite für unabhängige Nachweise und eine vollständige Aufschlüsselung aller App-Berechtigungen an.
 
@@ -60,7 +60,7 @@ Möchten Sie diese Angaben selbst überprüfen? Sehen Sie sich unsere [Datenschu
 
 Wo werden meine Daten gespeichert?
 
-Alle Ihre Daten werden **ausschließlich auf Ihrem Gerät** gespeichert. Wir haben keine Cloud-Server, keine Nutzerkonten und keinen Zugang zu Ihren Dokumenten. Wenn Sie ein Dokument speichern, verbleibt es im sicheren Speicherbereich Ihres Telefons.
+Alle Ihre Daten werden **ausschließlich auf Ihrem Gerät** gespeichert. Wir haben keine Server, die Ihre Dokumente speichern, und keine Travel Document Vault-Nutzerkonten. Wenn Sie ein Dokument speichern, verbleibt es im sicheren Speicherbereich Ihres Telefons.
 
 Wie sichert die App meine Daten?
 
@@ -80,24 +80,24 @@ Was, wenn jemand mein Telefon stiehlt? Sind meine Dokumente geschützt?
 
 Ja. Ihre Dokumente sind **auf dem Datenträger verschlüsselt** im App-Speicher. Dies schützt vor direkter Dateiextraktion (wenn jemand auf den physischen Speicher des Geräts zugreift, sind die Rohdateien ohne die Entschlüsselungsschlüssel unlesbar).
 
-- **Verschlüsselung auf dem Datenträger:** Jedes Dokumentbild und jede PDF-Datei wird vor dem Speichern verschlüsselt.
+- **Verschlüsselung auf dem Datenträger:** Gespeicherte Originalanhänge im Tresor sind verschlüsselt; beim Anzeigen, Scannen und Teilen können vorübergehend lesbare Kopien entstehen.
 - **App-Sperre:** Fügen Sie eine zweite Schutzschicht hinzu, indem Sie PIN, Face ID oder Touch ID in den App-Einstellungen aktivieren.
 
 **Wichtig:** Maximale Sicherheit erfordert einen starken Gerätesperrcode. Wenn Ihr Gerät entsperrt ist, könnten die Verschlüsselungsschlüssel für denjenigen zugänglich sein, der das Telefon hält.
 
 Sammeln Sie Analytics- oder Tracking-Daten?
 
-**Nein.** Wir verwenden keine Analytics-SDKs, Werbenetzwerke oder Tracking-Dienste. Der einzige externe Dienst, den wir verwenden, ist **Sentry** für Absturzberichte (kann in den Einstellungen deaktiviert werden). Absturzberichte enthalten nur technische Informationen – niemals Ihre Dokumente oder persönliche Daten.
+**Nein.** Wir verwenden keine Analytics-SDKs, Werbenetzwerke oder Tracking-Dienste. Die optionale **Sentry**-Absturzberichterstattung bleibt ausgeschaltet, bis Sie sie in „Einstellungen“ aktivieren. Cloud-Backups (Pro), Store-Käufe und Updates verwenden ebenfalls externe Dienste. Absturzberichte enthalten bereinigte technische Diagnosedaten. Sie werden bereinigt, um personenbezogene Daten zu reduzieren; Dokumentdateien werden nicht absichtlich angehängt.
 
 Was passiert, wenn ich die App lösche?
 
-Alle Ihre Daten werden **dauerhaft gelöscht**, wenn Sie die App deinstallieren. Es gibt danach keine Möglichkeit zur Wiederherstellung, da wir nichts extern speichern. **Vor dem Löschen:** Exportieren Sie Ihre Dokumente oder erstellen Sie eine .tdvault-Sicherungsdatei aus den Einstellungen, um sie anderweitig zu speichern.
+Alle Ihre Daten auf diesem Telefon werden **dauerhaft gelöscht**, wenn Sie die App deinstallieren. Eine Wiederherstellung ist nur möglich, wenn Sie einen Tresor-Export erstellt oder die Cloud-Sicherung aktiviert haben, da wir nichts extern speichern. **Vor dem Löschen:** Exportieren Sie Ihre Dokumente oder erstellen Sie eine .tdvault-Sicherungsdatei aus den Einstellungen, um sie anderweitig zu speichern.
 
 ## Zusätzliche Sicherheit
 
 Sind meine Dokumentbilder verschlüsselt?
 
-**Ja.** Alle Dokumentbilder und PDFs werden vor dem Speichern auf Ihrem Gerät verschlüsselt. Das bedeutet, dass selbst wenn jemand Zugang zu den Dateien Ihres Telefons erhält, er Ihre Dokumente nicht ansehen kann.
+**Ja.** Die in Ihrem Tresor gespeicherten Originalbilder und PDFs sind verschlüsselt. Beim Anzeigen, Scannen und Teilen können vorübergehend lesbare Kopien entstehen. Verschlüsselte gespeicherte Originale können ohne ihre Entschlüsselungsschlüssel nicht gelesen werden.
 
 **Für maximale Sicherheit:** Wir empfehlen, die App-Sperre zu aktivieren und einen starken Gerätesperrcode zu verwenden. Vollständige Details finden Sie in unserer [Datenschutzerklärung](https://traveldocumentvault.com/privacy-policy/).
 
@@ -111,33 +111,33 @@ Sind Backups ebenfalls verschlüsselt?
 
 **Ja.** Automatische Backups werden über das integrierte Backup-System Ihres Geräts (iCloud/Google) verschlüsselt. Tresor-Exporte (.tdvault-Dateien) sind **passwortgeschützt** mit starker Verschlüsselung. Sie legen beim Exportieren ein Passwort fest und benötigen es zur Wiederherstellung.
 
-Ein System-Backup reinstalliert die App, aber Ihre verschlüsselten Dokumente können nicht wiederhergestellt werden, da der Schlüssel auf Ihrem Originalgerät verbleibt. Pro-Nutzer können ein Backup mit ihrem Wiederherstellungscode exportieren und auf einem neuen Gerät mit diesem Code importieren. Alle anderen sollten die Export-Funktion verwenden, um .tdvault-Dateien mit Passwortschutz zu erstellen.
+Ein System-Backup reinstalliert die App, aber Ihre verschlüsselten Dokumente können nicht wiederhergestellt werden, da Systemsicherungen den an das Gerät gebundenen Verschlüsselungsschlüssel nicht übertragen. Pro-Nutzer können ein Backup mit ihrem Wiederherstellungscode exportieren und auf einem neuen Gerät mit diesem Code importieren. Alle anderen sollten die Export-Funktion verwenden, um .tdvault-Dateien mit Passwortschutz zu erstellen.
 
 Was ist "Anderen zeigen"?
 
-"Anderen zeigen" ist ein geschützter Anzeigemodus für Momente, in denen ein Grenzbeamter, Hotelrezeptionist oder Flugbegleiter ein Dokument auf Ihrem Bildschirm sehen muss. Tippen Sie auf das Symbol und die App wechselt zu einer sauberen Vollbildansicht, die **Screenshots und Bildschirmaufzeichnungen blockiert.** Wenn sie Ihnen Ihr Telefon zurückgeben, bringt Sie ein Tipp zurück in Ihren Tresor.
+„Einer anderen Person zeigen“ ist ein geschützter Anzeigemodus für Momente, in denen ein Grenzbeamter, Hotelrezeptionist oder Flugbegleiter ein Dokument auf Ihrem Bildschirm sehen muss. Wenn Sie eine PIN-Sperre eingerichtet haben, öffnen Sie über das Symbol eine Vollbildansicht mit **standardmäßig aktiviertem Schutz vor Screenshots und Bildschirmaufzeichnungen**, abhängig von der Geräteunterstützung und Ihren Einstellungen. Schließen Sie die geschützte Ansicht und entsperren Sie den Tresor mit Ihrer PIN oder aktivierter Biometrie.
 
-Ihre Dokumente verlassen Ihr Gerät nie. Dieser Modus gibt Ihnen einfach eine sichere, kontrollierte Möglichkeit, sie jemandem zu präsentieren, ohne ihm Zugriff auf Ihren gesamten Tresor zu geben.
+Dieser Anzeigemodus lädt Ihre Dokumente nicht hoch. Richten Sie zuerst die PIN-Sperre ein, damit das Schließen der geschützten Ansicht den Zugang zum Tresor sperrt. Ohne PIN-Sperre schränkt die Ansicht den Zugang zum restlichen Tresor nicht ein.
 
 Was ist ein Wiederherstellungscode und warum brauche ich ihn?
 
 Wenn Sie App-Sperre einrichten, generiert die App einen eindeutigen Wiederherstellungscode, der Ihr Sicherheitsnetz ist, falls Sie jemals Ihren PIN vergessen. Speichern Sie ihn an einem sicheren Ort – in Ihrem Passwort-Manager, auf einem gedruckten Zettel, überall wo Sie vertrauen.
 
-Wenn Sie Ihren PIN vergessen, geben Sie Ihren Wiederherstellungscode auf dem PIN-Bildschirm ein. Die App-Sperre wird deaktiviert und Sie haben wieder **vollen Zugriff, ohne ein einziges Dokument zu verlieren.**
+Wenn Sie Ihren PIN vergessen, geben Sie Ihren Wiederherstellungscode auf dem PIN-Bildschirm ein. Der Wiederherstellungscode **entsperrt die App, ohne Ihre Dokumente zu löschen.** Die App-Sperre bleibt aktiviert.
 
-Ohne Wiederherstellungscode ist die einzige Option, die App zu löschen und neu zu installieren, was Ihren Tresor dauerhaft löscht. Speichern Sie Ihren Code, wenn Sie dazu aufgefordert werden. Sie bekommen keine zweite Chance.
+Wenn weder Ihre PIN noch aktivierte Biometrie die App entsperren können und Sie keinen Wiederherstellungscode haben, müssen Sie möglicherweise den lokalen Tresor löschen und ein gespeichertes Backup wiederherstellen. Speichern Sie Ihren Code, wenn Sie dazu aufgefordert werden. Solange Sie Ihre PIN noch kennen, können Sie unter „Einstellungen“ → „Sicherheit“ einen neuen Code erzeugen.
 
 Was ist automatisches Löschen?
 
-Automatisches Löschen löscht Ihren Tresor dauerhaft, wenn zu viele falsche PIN-Versuche unternommen werden. Es ist **standardmäßig deaktiviert.** Aktivieren Sie es unter Einstellungen → App-Sperre, wenn Sie maximalen Schutz vor einem gestohlenen Telefon möchten. Sobald zu viele falsche Versuche unternommen werden, wird jedes Dokument gelöscht und kann nicht wiederhergestellt werden.
+„Auto-Löschung“ soll den Tresor auf diesem Telefon nach wiederholten falschen PIN-Eingaben löschen. Verlassen Sie sich nicht darauf als garantierte Schutzmaßnahme. Sobald Sie eine PIN festlegen, ist sie **standardmäßig aktiviert**. Deaktivieren Sie sie unter „Einstellungen“ → „Sicherheit“, wenn Sie Ihre Daten nach Fehlversuchen behalten möchten. Eine abgeschlossene lokale Löschung entfernt den Tresor dieses Telefons; eine Wiederherstellung erfordert ein unabhängiges nutzbares Backup.
 
-**Wichtig:** Aktivieren Sie automatisches Löschen nur nach der Erstellung einer Tresor-Export-Sicherung. Auf diese Weise können Sie, wenn es versehentlich ausgelöst wird, aus Ihrer Sicherung wiederherstellen. Die Verwendung zusammen mit einem Wiederherstellungscode gibt Ihnen maximale Sicherheit und einen klaren Weg zurück.
+**Wichtig:** Erstellen Sie eine Tresor-Export-Sicherung, bevor Sie sich auf „Auto-Löschung“ verlassen. Auf diese Weise können Sie, wenn es versehentlich ausgelöst wird, aus Ihrer Sicherung wiederherstellen. Bewahren Sie ein unabhängiges Backup samt benötigtem Passwort oder Wiederherstellungscode auf, bevor Sie sich auf „Auto-Löschung“ verlassen.
 
 ## Funktionen
 
 Welche Dokumenttypen kann ich speichern?
 
-Die App unterstützt **Reisepässe**, **Personalausweise** (Vorder- und Rückseite), **Visa/Aufenthaltstitel**, **Flugtickets**, **Gutscheine & Eintrittskarten** (Geschenkkarten, Promo-Codes, Veranstaltungstickets – mit Ablauferinnerungen, damit sie nicht verfallen), **Sonstige Dokumente** (Reiseversicherung, Krankenversicherung, Impfnachweise, Mitgliedschaften, Rezepte – alles mit Ablaufdatum) und **Notizen** (nur Text für Fristen und Erinnerungen). Sie können Dokumente mit Ihrer Kamera aufnehmen, aus Ihrer Fotobibliothek importieren oder PDF-Dateien importieren. Pro-Nutzer können mehrseitige Dokumente für Flugtickets, Gutscheine und Sonstige Dokumente aufnehmen.
+Die App unterstützt **Reisepässe**, **Personalausweise** (Vorder- und Rückseite), **Visa/Aufenthaltstitel**, **Flugtickets**, **Gutscheine & Eintrittskarten** (Geschenkkarten, Promo-Codes, Veranstaltungstickets – mit Ablauferinnerungen, damit sie nicht verfallen), **Sonstige Dokumente** (Reiseversicherung, Krankenversicherung, Impfnachweise, Mitgliedschaften, Rezepte – alles mit Ablaufdatum) und **Notizen** (Text mit optionalen Bildanhängen und Erinnerungen). Sie können Dokumente mit Ihrer Kamera aufnehmen, aus Ihrer Fotobibliothek importieren oder PDF-Dateien importieren. Pro-Nutzer können mehrseitige Dokumente für Flugtickets, Gutscheine und Sonstige Dokumente aufnehmen.
 
 Wie funktionieren Ablauferinnerungen?
 
@@ -145,7 +145,7 @@ Erinnerungen werden automatisch gesendet und sind auf den Dokumenttyp abgestimmt
 
 Was ist OCR und wie funktioniert es?
 
-OCR (Optische Zeichenerkennung) erkennt automatisch Ablaufdaten aus Ihren Dokumenten. Richten Sie Ihre Kamera auf ein Dokument, und die App versucht, das Ablaufdatum zu lesen. Die gesamte Verarbeitung findet auf Ihrem Telefon statt – nichts wird hochgeladen. Erkannte Daten werden als „Erkannt: bitte überprüfen" markiert und erfordern Ihre Bestätigung vor dem Speichern.
+OCR (Optische Zeichenerkennung) erkennt automatisch Ablaufdaten aus Ihren Dokumenten. Richten Sie Ihre Kamera auf ein Dokument, und die App versucht, das Ablaufdatum zu lesen. Die gesamte Verarbeitung findet auf Ihrem Telefon statt – nichts wird hochgeladen. Aktivieren Sie „Ich bestätige, dass dieses Datum korrekt ist“, um das erkannte Datum zu übernehmen, oder bearbeiten Sie es vor dem Speichern manuell.
 
 Kann ich meine Dokumente exportieren?
 
@@ -153,7 +153,7 @@ Ja! Kostenlose Nutzer können einzelne Dokumente teilen. Pro-Nutzer erhalten lei
 
 Was ist mit Backup?
 
-Die App speichert alles auf Ihrem Gerät. Wenn Sie iCloud (iOS) oder Google Backup (Android) aktiviert haben, sind Ihre Dokumente bereits über Ihr Geräteback gesichert. Pro-Nutzer können ein **passwortgeschütztes verschlüsseltes Backup** zur sicheren Aufbewahrung exportieren, und alle Nutzer können jederzeit über Einstellungen → Tresor importieren ein **Backup wiederherstellen**. Dabei werden alle aktuellen Daten durch den Backup-Inhalt ersetzt. Wir synchronisieren bewusst nicht mit unseren Servern, um Ihre Privatsphäre zu schützen.
+Die App speichert alles auf Ihrem Gerät. Wenn Sie iCloud (iOS) oder Google Backup (Android) aktiviert haben, sind Ihre Dokumente bereits über Ihr Geräteback gesichert. Pro-Nutzer können ein **passwortgeschütztes verschlüsseltes Backup** zur sicheren Aufbewahrung exportieren, und alle Nutzer können jederzeit über Einstellungen → Sicherung importieren ein **Backup wiederherstellen**. Dabei werden alle aktuellen Daten durch den Backup-Inhalt ersetzt. Wir synchronisieren bewusst nicht mit unseren Servern, um Ihre Privatsphäre zu schützen.
 
 Kann ich Dokumente mit Familienmitgliedern teilen?
 
@@ -161,13 +161,13 @@ Die App verwendet **Profile**, um Dokumente nach Familienmitglied zu organisiere
 
 Funktioniert die App offline?
 
-**Ja!** Die App funktioniert vollständig offline. Sie können Dokumente hinzufügen, ansehen und Erinnerungen empfangen – ohne Internetverbindung. Perfekt für Reisen.
+**Ja.** Sie können Dokumente hinzufügen, gespeicherte Kopien ansehen und Ablauferinnerungen offline erhalten. Cloud-Backups, Käufe und Updates benötigen eine Verbindung.
 
 Wie aktiviere ich die App-Sperre mit PIN oder Face ID/Touch ID?
 
-Um die App-Sperre zu aktivieren, gehen Sie in der App zu **Einstellungen → App-Sperre**:
+Um die App-Sperre zu aktivieren, gehen Sie in der App zu **Einstellungen → Sicherheit**:
 
-- **PIN-Sperre (Kostenlos):** Legen Sie einen 4-stelligen PIN-Code fest. Die App fordert diesen PIN bei jedem Öffnen.
+- **PIN-Sperre (Kostenlos):** Legen Sie einen 6-stelligen PIN-Code fest. Die App-Sperre fordert eine Authentifizierung an, wenn sie erforderlich ist; aktivierte Biometrie kann die PIN-Eingabe ersetzen, und kurze App-Wechsel haben eine Schonfrist von fünf Sekunden.
 - **Biometrische Sperre:** Aktivieren Sie Face ID (iPhone mit Face ID), Touch ID (iPhone mit Fingerabdruck) oder Fingerabdruckentsperrung (Android). Kostenlos für alle Nutzer – denn Sicherheit sollte nicht hinter einer Bezahlschranke stehen.
 
 **Empfehlung:** App-Sperre aktivieren + Gerät auf automatische Sperrung nach 30 Sekunden einstellen. Dies erzeugt mehrere Schutzschichten: Gerätesperre, dann App-Sperre, dann verschlüsselte Dateien.
@@ -181,31 +181,31 @@ Um die App-Sperre zu aktivieren, gehen Sie in der App zu **Einstellungen → App
 
 Erstellt die App automatische Backups?
 
-**Ja, die App erstellt alle paar Minuten automatische lokale Backups** (wenn die App geöffnet ist und Änderungen vorgenommen werden). Diese Backups werden auf Ihrem Gerät gespeichert und in Ihrem iCloud- (iOS) oder Google- (Android) Gerätesicherung eingeschlossen, wenn Sie diese Dienste aktiviert haben.
+**Ja, die App erstellt alle paar Minuten automatische lokale Backups** (wenn die App geöffnet ist und Änderungen vorgenommen werden). Diese Backups werden auf Ihrem Gerät gespeichert. Eine Gerätesicherung (iCloud oder Google) kann Ihre Dokumente daraus nicht wiederherstellen, da Systemsicherungen den an das Gerät gebundenen Verschlüsselungsschlüssel nicht übertragen.
 
 **So funktioniert es:**
 
-- Die App bewahrt **10 rotierende Backups** auf Ihrem Gerät. Wenn ein 11. Backup erstellt wird, wird das älteste automatisch gelöscht.
-- Backups sind **verschlüsselt** mit demselben Schutz wie Ihre Dokumente.
-- Wenn die App abstürzt oder Sie versehentlich ein Dokument löschen, können Sie über **Einstellungen → Tresor importieren** das neueste Backup wiederherstellen.
+- Die App bewahrt **einige rotierende Backups** auf Ihrem Gerät. Ältere Backups werden entfernt, sobald die lokale Aufbewahrungsgrenze erreicht ist.
+- Backups bleiben im **privaten Speicherbereich der App** auf Ihrem Gerät.
+- Ein gültiges lokales Backup kann über **Einstellungen → Lokale Sicherung wiederherstellen** frühere Tresordatensätze wiederherstellen, jedoch keine endgültig gelöschten Anhangsdateien neu erzeugen. Verwenden Sie für gewöhnliche Löschungen „Kürzlich gelöscht“.
 
 **Vault Export:** Jeder Nutzer kann auch manuell verschlüsselte .tdvault-Sicherungen erstellen und in Dateien, iCloud Drive speichern oder per AirDrop/E-Mail für externe Aufbewahrung teilen. Dies wird vor wichtigen Updates oder Gerätewechseln empfohlen. Pro fügt die automatische Cloud-Sicherung auf iCloud oder Google Drive hinzu.
 
 Was bedeutet 'Letzte Sicherung: vor 2 Stunden, 12 Dokumente' in den Einstellungen?
 
-Diese Zeile zeigt an, wann Ihre letzte automatische lokale Sicherung erstellt wurde und wie viele Dokumente sie enthält. Die App speichert **alle paar Minuten** eine lokale Sicherung auf Ihrem Gerät, während Sie die App verwenden. Diese Sicherungen werden auf Ihrem Gerät aufbewahrt und sind unabhängig von der Pro-Cloud-Sicherung. Wenn Sie eine Wiederherstellung benötigen, gehen Sie zu den **Einstellungen** und wählen Sie die gewünschte Sicherung.
+Diese Zeile zeigt an, wann Ihre letzte automatische lokale Sicherung erstellt wurde und wie viele Dokumente sie enthält. Die App speichert **alle paar Minuten** eine lokale Sicherung auf Ihrem Gerät, während Sie die App verwenden. Diese Sicherungen werden auf Ihrem Gerät aufbewahrt und sind unabhängig von der Pro-Cloud-Sicherung. Sie zeigt den neuesten lokalen Snapshot. Tippen Sie unter **Einstellungen** auf „Lokale Sicherung wiederherstellen“, um seine gespeicherten Datensätze wiederherzustellen. Lokale Snapshots enthalten keine unabhängigen Kopien der Anhangsdateien.
 
 Wie stelle ich meinen Tresor aus einer lokalen Sicherung wieder her?
 
-Gehen Sie zu den **Einstellungen** und scrollen Sie zum Abschnitt Sicherung und Wiederherstellung. Dort sehen Sie eine Liste Ihrer verfügbaren lokalen Sicherungen mit Datum und Dokumentenanzahl. Tippen Sie auf die gewünschte, bestätigen Sie, und die App ersetzt die aktuellen Daten durch die der Sicherung. Wenn Sie aus einer manuell exportierten .tdvault-Datei wiederherstellen, verwenden Sie stattdessen **Einstellungen und dann Tresor importieren** und wählen Sie die Datei aus.
+Gehen Sie zu **Einstellungen** und tippen Sie auf „Lokale Sicherung wiederherstellen“. Dort sehen Sie eine Liste Ihrer verfügbaren lokalen Sicherungen mit Datum und Dokumentenanzahl. Tippen Sie auf die gewünschte, bestätigen Sie, und die App ersetzt die aktuellen Daten durch die der Sicherung. Wenn Sie aus einer manuell exportierten .tdvault-Datei wiederherstellen, verwenden Sie stattdessen **Einstellungen und dann Sicherung importieren** und wählen Sie die Datei aus.
 
 Die App zeigt einen Wiederherstellungsbildschirm oder meldet, dass meine Daten nicht geladen werden konnten. Was soll ich tun?
 
-**Löschen Sie die App nicht.** Dieser Bildschirm erscheint, wenn die App den Haupttresor nicht laden kann – in der Regel nach einem unterbrochenen Update, einem unerwarteten Neustart oder einem Speicherfehler. Die App hat kurz vor dem Problem automatisch eine Sicherung erstellt. Tippen Sie auf **Sicherungen anzeigen**, wählen Sie die neueste und stellen Sie wieder her. Wenn Sie eine manuell exportierte .tdvault-Datei haben, verwenden Sie stattdessen **Tresor importieren**. Im Zweifelsfall kontaktieren Sie [support@traveldocumentvault.com](mailto:support@traveldocumentvault.com), bevor Sie etwas löschen.
+**Löschen Sie die App nicht.** Dieser Bildschirm erscheint, wenn die App den Haupttresor nicht laden kann – in der Regel nach einem unterbrochenen Update, einem unerwarteten Neustart oder einem Speicherfehler. Die App behält die nicht lesbaren Daten. Tippen Sie auf **Wiederherstellen**, um eines Ihrer automatischen lokalen Backups wiederherzustellen. Wenn Sie eine zuvor exportierte .tdvault-Datei haben, gehen Sie stattdessen zu „Einstellungen“ und verwenden Sie **Sicherung importieren**. Im Zweifelsfall kontaktieren Sie [support@traveldocumentvault.com](mailto:support@traveldocumentvault.com), bevor Sie etwas löschen.
 
 Warum hat die App vor dem Update eine Sicherung erstellt?
 
-Bevor ein Update die Datenstruktur ändern könnte, erstellt die App automatisch eine lokale Sicherungskopie. Wenn das Update reibungslos verläuft, bemerken Sie es nicht einmal. Sollte etwas schiefgehen, können Sie über die **Einstellungen** zu diesem Snapshot zurückkehren. Es handelt sich um eine stille Sicherheitsmaßnahme zum Schutz Ihrer Daten.
+Bevor ein Update die Datenstruktur ändern könnte, erstellt die App automatisch eine lokale Sicherungskopie. Wenn das Update reibungslos verläuft, bemerken Sie es nicht einmal. Wenn ein gültiger, lesbarer Snapshot von vor dem Update verfügbar ist, können Sie versuchen, ihn über **Einstellungen** wiederherzustellen. Es handelt sich um eine stille Sicherheitsmaßnahme zum Schutz Ihrer Daten.
 
 Kann ich die Erinnerungszeiten anpassen?
 
@@ -217,7 +217,7 @@ Um Erinnerungen anzupassen, tippen Sie auf ein Dokument → Bearbeiten → Absch
 
 Wie wähle ich mehrere Dokumente aus?
 
-Pro-Nutzer können oben rechts in der Dokumentenliste auf **„Auswählen"** tippen, um den Auswahlmodus zu aktivieren. Tippen Sie auf Dokumente, um sie auszuwählen oder abzuwählen, und verwenden Sie dann die Schaltfläche **Aktionen**, um eine kombinierte PDF zu exportieren, Originaldateien zu teilen oder die ausgewählten Dokumente zu löschen. Sie können auch **gedrückt halten** auf einer Dokumentkarte, um ein schnelles Kontextmenü mit denselben Optionen für dieses einzelne Dokument zu öffnen.
+Öffnen Sie das Menü der Dokumentenliste und tippen Sie auf **„Dokumente auswählen“**, um den Auswahlmodus zu aktivieren. Tippen Sie auf Dokumente, um sie auszuwählen oder abzuwählen, und verwenden Sie unten die Steuerelemente **Löschen, Teilen oder PDF**, um ausgewählte Dokumente zu löschen, Originaldateien zu teilen oder eine kombinierte PDF zu exportieren (Pro). Sie können auch **gedrückt halten** auf einer Dokumentkarte, um ein schnelles Kontextmenü mit denselben Optionen für dieses einzelne Dokument zu öffnen.
 
 Kann ich eine Massenlöschung rückgängig machen?
 
@@ -229,11 +229,11 @@ Halten Sie eine beliebige Dokumentkarte in Ihrer Liste gedrückt, um ein Schnell
 
 Kann ich medizinische Dokumente oder Rezepte speichern?
 
-Ja. Sie können Krankenversicherungskarten, Dauerrezepte, Impfnachweise und andere gesundheitsbezogene Dokumente speichern. Verwenden Sie den Typ **Notiz** oder **Dokument**, fügen Sie ein Ablaufdatum hinzu, und die App sendet Ihnen Erinnerungen vor der Verlängerung – genauso wie bei Reisepässen und Visa. Alles verbleibt auf Ihrem Gerät, verschlüsselt und wird nirgendwo hochgeladen.
+Ja. Sie können Krankenversicherungskarten, Dauerrezepte, Impfnachweise und andere gesundheitsbezogene Dokumente speichern. Wählen Sie **Notiz** oder **Sonstiges** und speichern Sie ein Ablaufdatum. Erinnerungen sind standardmäßig aktiviert; die Zeitpunkte richten sich nach dem Dokumenttyp. Alles verbleibt auf Ihrem Gerät, verschlüsselt und wird nirgendwo hochgeladen.
 
 Kann ich eine Erinnerung verschieben?
 
-Ja. Wenn eine Erinnerung ausgelöst wird, tippen Sie direkt von der Benachrichtigung auf **Verschieben**. Wählen Sie 1 Stunde, später heute, morgen oder nächste Woche. Die App plant es automatisch neu. Sie können es auch innerhalb der App auf dem Dokumentdetail-Bildschirm verschieben. Die Erinnerung kommt genau zu der Uhrzeit zurück, die Sie gewählt haben. Es ist nicht nötig, manuell zu überprüfen.
+Ja. Wenn eine Erinnerung ausgelöst wird, tippen Sie direkt von der Benachrichtigung auf **Verschieben**. Wählen Sie 1 Stunde, 3 Stunden, morgen oder nächste Woche. Die App plant es automatisch neu. Sie können Erinnerungen auch in der App auf dem Tab „Alarme“ verschieben. Die App plant die verschobene Erinnerung für Ihre gewählte Uhrzeit.
 
 Kann ich meine Dokumente farblich kodieren?
 
@@ -251,31 +251,31 @@ Wann wird die Android-Version verfügbar sein?
 
 **Die Android-Version erscheint Anfang 2026.** Wir befinden uns derzeit in geschlossenen Tests, um sicherzustellen, dass das gleiche datenschutzfreundliche Erlebnis mit Gerätespeicherung auf Android-Geräten einwandfrei funktioniert.
 
-Die Android-Version wird Funktionsparität mit iOS haben, einschließlich verschlüsselter Gerätespeicherung, OCR-Scanning, Ablauferinnerungen und allen Pro-Funktionen (unbegrenzte Profile, Stapelexport von Dokumenten und benutzerdefinierte Erinnerungszeiten).
+Android unterstützt verschlüsselte Speicherung auf dem Gerät, OCR-Scanning und Ablauferinnerungen. Mit Pro können Sie unbegrenzte Profile, PDF-Stapelexport und benutzerdefinierte Erinnerungszeiten verwenden.
 
 Kann ich meine Daten vom iPhone auf Android übertragen (oder umgekehrt)?
 
-**Ja, mit verschlüsseltem Vault Export.** Exportieren Sie ein verschlüsseltes Backup von Ihrem aktuellen Gerät (Einstellungen → Tresor exportieren), übertragen Sie es auf Ihr neues Gerät (per E-Mail, Cloud-Speicher oder direkte Übertragung), dann verwenden Sie Einstellungen → Tresor importieren, um Ihre Dokumente wiederherzustellen.
+**Ja, mit verschlüsseltem Vault Export.** Exportieren Sie ein verschlüsseltes Backup von Ihrem aktuellen Gerät (Einstellungen → Tresor exportieren), übertragen Sie es auf Ihr neues Gerät (per E-Mail, Cloud-Speicher oder direkte Übertragung), dann verwenden Sie Einstellungen → Sicherung importieren, um Ihre Dokumente wiederherzustellen. Dabei werden alle bereits auf dem neuen Gerät vorhandenen Tresordaten ersetzt.
 
-Dies funktioniert plattformübergreifend, da das Verschlüsselungsformat universell ist. Sie benötigen dasselbe Passwort, das Sie beim Exportieren des Tresors verwendet haben. Ihr Pro-Kauf muss ebenfalls auf dem neuen Gerät wiederhergestellt werden (siehe „Kann ich meinen Kauf auf einem neuen Gerät wiederherstellen?" unten).
+Dies funktioniert plattformübergreifend, da das Verschlüsselungsformat universell ist. Sie benötigen dasselbe Passwort, das Sie beim Exportieren des Tresors verwendet haben. Pro-Käufe lassen sich innerhalb derselben Plattform und desselben Store-Kontos wiederherstellen; für einen Wechsel zwischen iOS und Android ist ein separater Pro-Kauf erforderlich (siehe „Kann ich meinen Kauf auf einem neuen Gerät wiederherstellen?" unten).
 
 Wie viel Speicherplatz benötigt die App?
 
-Die App selbst ist klein (~15 MB Download). **Der Speicherbedarf hängt vollständig davon ab, wie viele Dokumente Sie speichern und deren Fotoqualität.** Ein typisches Passfoto (hohe Qualität) ist 2–4 MB. Bei 20 Dokumenten sind etwa 40–80 MB zu erwarten.
+**Der Speicherbedarf hängt von Dokumentenanzahl und Dateigrößen sowie Tresormetadaten, Backups und temporären Dateien ab.**
 
-Die App umfasst 10 automatische Backups, komprimierte Kopien Ihrer Dokumente, die minimalen zusätzlichen Speicherplatz benötigen (~10–20 % mehr). Es gibt keine feste Begrenzung der Dokumentenanzahl (Pro-Nutzer erhalten unbegrenzt), aber praktische Grenzen hängen vom verfügbaren Speicher Ihres Geräts ab.
+Die App enthält einige automatische Backups Ihrer Tresordaten. Kostenlose Nutzer können bis zu fünf Dokumente hinzufügen. Mit Pro gibt es keine Begrenzung der Dokumentenanzahl, abhängig vom verfügbaren Speicher Ihres Geräts.
 
 Warum benötigt die App Kamera- und Fotobibliotheks-Zugriff?
 
 **Kamera:** Um Fotos Ihrer Dokumente direkt in der App aufzunehmen. **Fotobibliothek:** Um bereits vorhandene Dokumentfotos zu importieren.
 
-Wir **laden Ihre Fotos niemals** irgendwo hoch. Die gesamte Verarbeitung (einschließlich OCR-Scanning) findet auf Ihrem Gerät statt. Sie können diese Berechtigungen verweigern, können aber keine Dokumente hinzufügen (die Hauptfunktion der App). Wenn Sie Berechtigungen versehentlich verweigert haben, können Sie diese in den Geräteeinstellungen → Datenschutz → Kamera / Fotos → Travel Document Vault erneut aktivieren.
+Wir **laden Ihre Fotos niemals** auf unsere Server hoch. Wir haben keine Server, die Ihre Dokumente speichern. Die gesamte Verarbeitung (einschließlich OCR-Scanning) findet auf Ihrem Gerät statt. Sie können Kamera- und Fotoberechtigungen verweigern und Dokumente weiterhin manuell hinzufügen oder PDFs importieren. Nur Funktionen, die diese Berechtigungen benötigen, sind dann nicht verfügbar. Wenn Sie Berechtigungen versehentlich verweigert haben, können Sie diese in den Geräteeinstellungen → Datenschutz → Kamera / Fotos → Travel Document Vault erneut aktivieren.
 
 ## Preise & Käufe
 
 Was ist der Unterschied zwischen Kostenlos und Pro?
 
-**Kostenlos** umfasst 1 Profil und bis zu 5 Dokumente mit vollem Funktionsumfang, einschließlich OCR-Scanning, Ablauferinnerungen, Dokumententeilen, PIN-Sperre, Biometrischer Sperre (Face ID / Touch ID) und dem Export des gesamten Tresors (.tdvault). **Pro** (einmaliger Kauf*) schaltet unbegrenzte Profile, unbegrenzte Dokumente, kombinierten PDF-Export, verschlüsselte Cloud-Sicherung, benutzerdefinierte Erinnerungszeiten und mehrseitige Aufnahme für Flugtickets und Sonstige Dokumente frei.
+**Kostenlos** umfasst 1 Profil und bis zu 5 Dokumente mit den grundlegenden Werkzeugen, einschließlich OCR-Scanning, Ablauferinnerungen, Dokumententeilen, PIN-Sperre, Biometrischer Sperre (Face ID / Touch ID) und dem Export des gesamten Tresors (.tdvault). **Pro** (einmaliger Kauf*) schaltet unbegrenzte Profile, unbegrenzte Dokumente, kombinierten PDF-Export, verschlüsselte Cloud-Sicherung, benutzerdefinierte Erinnerungszeiten und mehrseitige Aufnahme für Flugtickets und Sonstige Dokumente frei.
 
 * Siehe [Preisrichtlinie](https://traveldocumentvault.com/pricing-policy/#version-policy) für Versionierungsdetails.
 
@@ -287,13 +287,13 @@ Ist Pro ein Abonnement?
 
 Kann ich meinen Kauf auf einem neuen Gerät wiederherstellen?
 
-**Ja.** Gehen Sie in der App zu Einstellungen und tippen Sie auf „Käufe wiederherstellen". Solange Sie bei derselben Apple ID oder demselben Google-Konto angemeldet sind, wird Ihr Pro-Kauf wiederhergestellt. Hinweis: Ihre Dokumente werden nicht übertragen – nur die Pro-Freischaltung.
+**Ja.** Gehen Sie in der App zu Einstellungen und tippen Sie auf „Käufe wiederherstellen". Verwenden Sie dieselbe Plattform und dasselbe Store-Konto, mit dem Sie Pro gekauft haben; die Wiederherstellung erfordert eine Verbindung und eine gültige, vom Store zurückgegebene Kaufberechtigung. Hinweis: Ihre Dokumente werden nicht übertragen – nur die Pro-Freischaltung.
 
 Erhalten Sie zukünftige Updates, wenn Sie Pro kaufen?
 
 **Ja.** Pro ist ein Einmalkauf für die **aktuelle Hauptversion** (v1.x). Sie erhalten alle Fehlerbehebungen, Sicherheitsupdates und neue Funktionen kostenlos innerhalb dieser Version.
 
-Wenn wir in Zukunft eine Hauptversion 2.0 mit wesentlichen neuen Funktionen veröffentlichen, könnte das einen separaten Upgrade-Kauf erfordern. Wir werden bestehende Pro-Nutzer vorab informieren und Frühbucherpreise anbieten. Diese Richtlinie stellt sicher, dass wir die App weiter verbessern können, während der Einstiegspreis erschwinglich bleibt.
+Wenn wir in Zukunft eine Hauptversion 2.0 mit wesentlichen neuen Funktionen veröffentlichen, könnte das einen separaten Upgrade-Kauf erfordern. Wir werden bestehende Pro-Nutzer vorab informieren und Frühbucherpreise anbieten. Diese Richtlinie unterstützt weitere Verbesserungen der App mit einem einmaligen Kauf.
 
 Erfahren Sie mehr in unserer [Preisrichtlinie](https://traveldocumentvault.com/pricing-policy/).
 
@@ -319,7 +319,7 @@ OCR funktioniert am besten bei guter Beleuchtung und einem flachen Dokument. Ver
 
 Warum ist mein Dokumentbild unscharf oder von schlechter Qualität?
 
-Die Dokumentqualität hängt vollständig von Ihrer Kamera und den Lichtverhältnissen ab. Wir modifizieren, verbessern oder optimieren Bilder nicht. Was Sie aufnehmen, ist was Sie bekommen. Für beste Ergebnisse: gute Beleuchtung verwenden (natürliches Licht funktioniert gut), Telefon ruhig halten, sicherstellen, dass das Dokument flach und vollständig im Bildausschnitt sichtbar ist, und das Kameraobjektiv reinigen. Das gilt auch für exportierte PDFs – die Druckqualität spiegelt Ihre ursprüngliche Aufnahmequalität wider.
+Die Dokumentqualität hängt vom Ausgangsbild, den Lichtverhältnissen und dem Zuschneiden, Skalieren und Komprimieren durch die App ab. Gespeicherte Fotos können zugeschnitten, skaliert und komprimiert werden; OCR kann eine temporäre Kopie für die Texterkennung verbessern. Für beste Ergebnisse: gute Beleuchtung verwenden (natürliches Licht funktioniert gut), Telefon ruhig halten, sicherstellen, dass das Dokument flach und vollständig im Bildausschnitt sichtbar ist, und das Kameraobjektiv reinigen. Das gilt auch für exportierte PDFs – die Druckqualität spiegelt Ihre ursprüngliche Aufnahmequalität wider.
 
 Die App ist abgestürzt. Habe ich meine Daten verloren?
 
@@ -335,17 +335,17 @@ Ihr Wiederherstellungscode ist eine 24-stellige Passphrase, die Ihre Cloud-Siche
 
 Wie wird meine Cloud-Sicherung verschlüsselt?
 
-Ihr Tresor wird mit AES-256-GCM end-to-end verschlüsselt, bevor er Ihr Gerät auf dem Gerät selbst verlässt. Der Schlüssel wird von Ihrem Wiederherstellungscode abgeleitet. Apple und Google können die verschlüsselte Datei auf ihren Servern sehen, können sie aber nicht entschlüsseln. Wir auch nicht. Nur Ihr Wiederherstellungscode entriegelt ihn.
+Ihr Tresor wird mit AES-256-GCM end-to-end verschlüsselt, bevor er Ihr Gerät auf dem Gerät selbst verlässt. Ein aus Ihrem Wiederherstellungscode abgeleiteter Schlüssel schützt den zufällig erzeugten Tresor-Verschlüsselungsschlüssel. Apple und Google können die verschlüsselte Datei auf ihren Servern sehen, können sie aber nicht entschlüsseln. Wir auch nicht. Ihr Wiederherstellungscode entsperrt den Cloud-Verschlüsselungsschlüssel; eingerichtete Geräte behalten den Zugang für automatische Backups.
 
 [Vollständiges Handbuch →](https://traveldocumentvault.com/de/faq/backup-explained/)
 
 Wie arbeiten PIN, Face ID und Wiederherstellungscode zusammen?
 
-Ihr PIN ist das alltägliche Schloss. Face ID ist eine schnelle Verknüpfung zum Entsperren. Der Wiederherstellungscode ist der Hauptschlüssel für den Fall, dass Sie Ihre PIN vollständig vergessen. Wenn Face ID fehlschlägt, versuchen Sie Ihre PIN. Wenn Sie Ihre PIN vergessen, geben Sie Ihren Wiederherstellungscode ein. Wenn Sie den Wiederherstellungscode verlieren, müssen Sie die App neu installieren und aus der Cloud-Sicherung wiederherstellen.
+Ihr PIN ist das alltägliche Schloss. Face ID ist eine schnelle Verknüpfung zum Entsperren. Der Wiederherstellungscode ist der Hauptschlüssel für den Fall, dass Sie Ihre PIN vollständig vergessen. Wenn Face ID fehlschlägt, versuchen Sie Ihre PIN. Wenn Sie Ihre PIN vergessen, geben Sie Ihren Wiederherstellungscode ein. Wenn keine Entsperrmethode funktioniert, müssen Sie möglicherweise den lokalen Tresor zurücksetzen und anschließend einen Export oder ein Cloud-Backup wiederherstellen, für das Sie noch den Wiederherstellungscode haben.
 
 Wie exportiere und importiere ich meinen Tresor?
 
-Pro ermöglicht es Ihnen, Ihren gesamten Tresor als verschlüsselte .tdvault-Datei zu exportieren, die Sie kontrollieren, und ihn dann auf jedem Gerät oder bei einer Neuinstallation zu importieren. Der Roundtrip Export-Import behält alles exakt wie es ist. Für Schritt-für-Schritt-Anweisungen mit Screenshots siehe die Export-Import-Anleitung.
+Sie können unterstützte Tresordatensätze und verfügbare Anhänge über „Einstellungen“ als verschlüsselte, passwortgeschützte Sicherungsdatei (.tdvault) innerhalb der Größenbegrenzung exportieren und in eine kompatible App-Installation importieren. Export und Import übertragen unterstützte Tresordatensätze und verfügbare Anhänge; Gerätesicherheitseinstellungen, Präferenzen und Teile des internen Zustands werden nicht exakt kopiert. Für Schritt-für-Schritt-Anweisungen mit Screenshots siehe die Export-Import-Anleitung.
 
 [Vollständiges Handbuch →](https://traveldocumentvault.com/de/faq/export-import/)
 
@@ -355,11 +355,11 @@ Stellen Sie sich eine Frage: Sind Sie Gast in diesem Land, oder ist es Ihr Zuhau
 
 Was sind Familienprofile?
 
-Jedes Familienmitglied ist ein separates Profil mit seinen eigenen Dokumenten, Fotos und Erinnerungen – Ihre Daten gehören Ihnen, die des Partners gehören ihnen, und Profile sind nur lokal, daher synchronisieren sie sich nie zwischen Geräten oder Personen. Dieses Design wahrt die Privatsphäre und verhindert versehentliche Vermischung sensibler Dokumente.
+Mit Pro helfen Profile Ihnen, die Dokumente, Fotos und Erinnerungen jedes Familienmitglieds im selben Tresor zu organisieren. Sie haben keine getrennten Zugriffssperren. Bei aktivierter Cloud-Sicherung werden Profile mit Geräten synchronisiert, die mit demselben Cloud-Tresor verbunden sind.
 
 Was passiert, wenn ich etwas lösche?
 
-Gelöschte Elemente gehen für 30 Tage in den Papierkorb. Sie können sie jederzeit während dieses Zeitfensters wiederherstellen. Nach 30 Tagen sind sie endgültig von Ihrem Gerät und den Cloud-Sicherungen gelöscht. Das Leeren des Papierkorbs oder das Zurücksetzen Ihres Telefons auf Werkseinstellungen ist nicht umkehrbar.
+Gelöschte Elemente gehen für 30 Tage in den Papierkorb. Sie können sie jederzeit während dieses Zeitfensters wiederherstellen. Nach 30 Tagen sind sie endgültig von Ihrem Gerät und den Cloud-Sicherungen gelöscht. Das Leeren des Papierkorbs oder das Zurücksetzen Ihres Telefons auf Werkseinstellungen entfernt lokale Daten; eine Wiederherstellung erfordert ein nutzbares unabhängiges Backup.
 
 ## Rechtliches & Haftungsausschlüsse
 
@@ -379,15 +379,15 @@ Löschen verschiebt es in Zuletzt gelöscht (Papierkorb). Es bleibt dort unbegre
 
 Was passiert, wenn ich alle meine Dokumente lösche?
 
-Die App synchronisiert keinen leeren Tresor in die Cloud. Ihr vorhandenes Backup bleibt erhalten. Sie können es über Einstellungen, Cloud-Backup, Aus Backup wiederherstellen zurückholen.
+Die App blockiert einige Uploads leerer Tresore, um vorhandene Backups zu schützen; gelöschte Datensätze und andere Tresordaten können dennoch synchronisiert werden. Eine Wiederherstellung hängt von einem nutzbaren aufbewahrten Backup ab. Sie können es über „Einstellungen“, „Cloud-Sicherung“, „Aus Sicherung wiederherstellen“ zurückholen.
 
 Wie richte ich das Cloud-Backup auf einem zweiten Gerät ein?
 
-Wenn Sie das Cloud-Backup auf einem neuen Gerät aktivieren, das mit demselben iCloud- oder Google-Konto angemeldet ist, erkennt die App Ihr vorhandenes Backup und fragt, ob sie es wiederherstellen oder neu beginnen soll. Wählen Sie Aus Backup wiederherstellen und geben Sie Ihren Wiederherstellungscode ein. Beide Geräte teilen sich danach dasselbe Backup. Neu beginnen ersetzt das vorhandene Backup – wählen Sie das nur, wenn Sie sicher sind.
+Wenn Sie das Cloud-Backup auf einem neuen Gerät aktivieren, das mit demselben iCloud- oder Google-Konto angemeldet ist, erkennt die App Ihr vorhandenes Backup und fragt, ob sie es wiederherstellen oder ein neues Backup beginnen soll. Wählen Sie Ihr Backup, tippen Sie auf „Wiederherstellen“ und geben Sie Ihren Wiederherstellungscode ein. Beide Geräte teilen sich danach dasselbe Backup. Ein neues Backup lässt das vorhandene unangetastet.
 
 Kann ich das Cloud-Backup auf mehreren Geräten gleichzeitig nutzen?
 
-Das Cloud-Backup ist als Backup für ein Gerät mit Wiederherstellung auf mehreren Geräten ausgelegt. Ein Gerät ist die primäre Backup-Quelle. Um auf ein neues Gerät zu wechseln, stellen Sie dort aus Ihrem Backup wieder her. Gleichzeitiges Bearbeiten auf zwei Geräten, die in dasselbe Backup synchronisieren, wird nicht unterstützt – das zuletzt synchronisierte Gerät gewinnt.
+Ja, wenn „Geräteübergreifend synchronisieren“ unter „Einstellungen“, „Cloud-Sicherung“ aktiviert ist. Geräte derselben Plattform prüfen auf Änderungen, während die App geöffnet und mit dem Internet verbunden ist. Einige Änderungen werden automatisch zusammengeführt; bei manchen Konflikten können Sie zwischen Versionen wählen, wobei Notiztext im Vergleich nicht angezeigt wird. Um auf ein neues Gerät zu wechseln, stellen Sie dort aus Ihrem Backup wieder her.
 
 Was, wenn ich das Cloud-Backup ohne Internetverbindung aktiviere?
 
@@ -395,7 +395,7 @@ Zum Aktivieren des Cloud-Backups brauchen Sie eine Internetverbindung. Die App p
 
 Ist mein Backup geschützt, wenn ich versehentlich etwas lösche?
 
-Ja, mehrere Ebenen schützen Sie. Gelöschte Dokumente bleiben unbegrenzt in Zuletzt gelöscht (bei aktivem Cloud-Backup wird nichts automatisch entfernt). Endgültiges Löschen erfordert eine eigene Bestätigung, die auf die Auswirkung auf die Cloud hinweist. Selbst nach dem endgültigen Löschen behält das Backup die Dokumentdaten noch mehrere Synchronisierungszyklen lang als Sicherheitsnetz. Und ein leerer Tresor wird nie in die Cloud synchronisiert, sodass ein versehentliches Massenlöschen Ihr Backup nicht auslöschen kann.
+Ja, mehrere Ebenen schützen Sie. Gelöschte Dokumente bleiben unbegrenzt in Zuletzt gelöscht (bei aktivem Cloud-Backup wird nichts automatisch entfernt). Endgültiges Löschen erfordert eine eigene Bestätigung, die auf die Auswirkung auf die Cloud hinweist. Frühere Backup-Versionen können das Dokument behalten, bis es durch die Verlaufsaufbewahrung oder Backup-Bereinigung entfernt wird. Schutzmechanismen gegen leere Uploads und aufbewahrte Backup-Versionen können nach versehentlichem Löschen helfen; bewahren Sie auch einen unabhängigen Export auf.
 
 Sollte ich zusätzlich eigene Sicherungskopien behalten?
 
@@ -403,7 +403,7 @@ Ja. Das Cloud-Backup ist eine Sicherheitsebene, aber kein System ist perfekt. Cl
 
 Was passiert, wenn ich meinen Wiederherstellungscode verliere?
 
-Ihr Wiederherstellungscode ist der einzige Schlüssel, um Ihr Cloud-Backup zu entschlüsseln. Wir arbeiten nach dem Zero-Knowledge-Prinzip, das heißt, wir können ihn nicht zurücksetzen, nicht auslesen und nicht für Sie wiederherstellen. Apple und Google können das ebenso wenig. Wenn Sie Ihren Wiederherstellungscode verlieren, wird Ihr verschlüsseltes Backup dauerhaft unwiederbringlich. Sichern Sie Ihren Wiederherstellungscode an einem sicheren Ort, bevor Sie sich auf das Cloud-Backup verlassen. Ein Passwort-Manager, ein Ausdruck an einem sicheren Ort, oder beides. Prüfen Sie, dass Sie ihn wirklich lesen können, bevor Sie ihn als einzige Kopie aufbewahren.
+Ihr Wiederherstellungscode entsperrt den Verschlüsselungsschlüssel Ihres Cloud-Backups; eingerichtete Geräte behalten ihn für automatische Backups. Wir arbeiten nach dem Zero-Knowledge-Prinzip, das heißt, wir können ihn nicht zurücksetzen, nicht auslesen und nicht für Sie wiederherstellen. Apple und Google können das ebenso wenig. Wenn Sie den Wiederherstellungscode und den Zugang zu allen eingerichteten Geräten verlieren, die ihn behalten, wird Ihr verschlüsseltes Cloud-Backup unwiederherstellbar. Sichern Sie Ihren Wiederherstellungscode an einem sicheren Ort, bevor Sie sich auf das Cloud-Backup verlassen. Ein Passwort-Manager, ein Ausdruck an einem sicheren Ort, oder beides. Prüfen Sie, dass Sie ihn wirklich lesen können, bevor Sie ihn als einzige Kopie aufbewahren.
 
 [Für einen vollständigen Vergleich: Warum Familien Travel Document Vault wählen →](https://traveldocumentvault.com/de/why-us/)
 

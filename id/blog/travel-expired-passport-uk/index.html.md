@@ -88,7 +88,7 @@ Ini berlaku baik paspor Anda kedaluwarsa sebelum Anda meninggalkan Inggris maupu
 
 Jika paspor Anda sudah kedaluwarsa dan Anda mencari tahu langkah selanjutnya, [artikel pendamping kami membahasnya langkah demi langkah](https://traveldocumentvault.com/id/blog/passport-expired-what-to-do/). Jika Anda punya perjalanan yang akan datang dan paspor Anda mendekati masa kedaluwarsa, inilah saatnya untuk memperpanjang alih-alih menunggu sampai kedaluwarsa, yang berarti Anda harus membayar layanan Premium alih-alih biaya standar. Periksa paspor keluarga Anda sekarang sebelum memesan perjalanan apa pun.
 
-**Atur pengingat kedaluwarsa berbulan-bulan sebelumnya, bukan hanya berminggu-minggu.** [Travel Document Vault melacak tanggal kedaluwarsa setiap paspor di keluarga Anda dan mengirimkan pengingat mulai dari delapan bulan sebelumnya, lalu kembali mengingatkan saat tanggalnya semakin dekat](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/), sehingga Anda dapat memperpanjang melalui proses standar dan menghindari biaya darurat.
+**Atur pengingat kedaluwarsa berbulan-bulan sebelumnya, bukan hanya berminggu-minggu.** [Travel Document Vault melacak tanggal kedaluwarsa paspor Anda dan mengirimkan pengingat mulai dari delapan bulan sebelumnya secara default, lalu kembali mengingatkan saat tanggalnya semakin dekat. Tambahkan setiap paspor di keluarga Anda dengan Pro](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/). Gunakan pengingat untuk membantu merencanakan perpanjangan.
 
 ## Jika Anda Sudah Berada di Luar Negeri dan Paspor Anda Kedaluwarsa
 

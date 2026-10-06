@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/sv/why-us/
 
 ---
 
-Integritet i fokus. Endast på enheten. Inga konton behövs.
+Integritet i fokus. På enheten som standard. Inga konton behövs.
 
 # Alltid redo när
 du behöver dem
@@ -77,7 +77,7 @@ Det här är alla rimliga val. De fungerar alla upp till en viss gräns.
 
 **Fungerar:** Hög säkerhet och offline-åtkomst.
 
-**Begränsningar:** De behandlar ett pass som ett kvitto och saknar resespecifik logik. Vi byggde detta specifikt för resenärer och erbjuder en gratis version med 5 dokument och ett enkelt engångspris utan återkommande prenumerationer.
+**Begränsningar:** De behandlar ett pass som ett kvitto och saknar resespecifik logik. Travel Document Vault ger en profil och upp till 5 dokument gratis. Pro är ett engångsköp utan prenumeration.
 
 ### Fotobibliotek / Foton
 
@@ -111,20 +111,20 @@ Det här är alla rimliga val. De fungerar alla upp till en viss gräns.
 
 ## Hur det mäter sig
 
-Varje alternativ kan en eller två saker bra. Bara en gör allt.
+Travel Document Vault lagrar dokument, håller koll på utgångsdatum och ger med Pro familjeprofiler och reseplanering.
 
 | Funktion | Travel Document Vault | Wallet-app | Fotobibliotek / molnlagring | Lösenordshanterare |
 |---|---|---|---|---|
-| Utgångspåminnelser | ✓6 mån i förväg | ✗ | ✗ | ✗ |
+| Utgångspåminnelser | ✓8 mån i förväg för pass | ✗ | ✗ | ✗ |
 | Familjeprofiler | ✓Obegränsat (Pro) | ✗ | ✗ | ~Delade valv endast |
-| Ingen molnsynk | ✓Endast på enheten | ✗Molnsynk | ✗Moln-baserat | ✗Moln-baserat |
+| På enheten som standard | ✓Valfri säkerhetskopia (Pro) | ✗Molnsynk | ✗Moln-baserat | ✗Moln-baserat |
 | Resespecifika dokumenttyper | ✓Pass, visum, ID... | ~Boardingkort endast | ✗ | ✗ |
 | Fungerar offline | ✓ | ✓ | ~Kräver cachning | ✓ |
 | Inget konto krävs | ✓ | ~Plattformskonto krävs | ✗ | ✗ |
 | Ingen prenumeration | ✓engångspris | ✓ | ~Gratis, annonsfinansierade nivåer varierar | ✗vanligtvis 30-40 $/år |
-| Reseplaneringschecklista (per resa) | ✓Ja | ✗ | ✗ | ✗ |
-| Anpassade dagsgränser per land (dagar-i / dagar-borta) | ✓ | ✗ | ✗ | ✗ |
-| Krypterad molnsynk (ditt eget moln) | ✓Ditt eget moln | ~Endast plattformskonto | ~Endast molnleverantör | ~Leverantörens servrar |
+| Reseplaneringschecklista (per resa) | ✓Ja (Pro) | ✗ | ✗ | ✗ |
+| Anpassade dagsgränser per land (dagar-i / dagar-borta) | ✓ Pro | ✗ | ✗ | ✗ |
+| Krypterad molnsynk (ditt eget moln) | ✓Ditt eget moln (Pro) | ~Endast plattformskonto | ~Endast molnleverantör | ~Leverantörens servrar |
 
 ✓ Stöds ~ Delvis ✗ Stöds ej
 
@@ -156,19 +156,19 @@ Fungerar för pass, visum, körkort, försäkring, allt med ett utgångsdatum.
 
 Du är den som kommer ihåg vilket barns pass löper ut först, om försäkringen täcker alla, och när visumen behöver förnyas.
 
-**En profil per familjemedlem.** Ett tryck för att se allt. Byggd för den som bär allt.
+**Med Pro, en profil per familjemedlem.** Ett tryck för att se allt. Byggd för den som bär allt.
 
 ### Fungerar offline. Överallt.
 
 Instabilt flygplats-Wi-Fi? Utländsk ambassad utan signal? Flygplansläge?
 
-Dina dokument är alltid på din enhet, alltid tillgängliga. Inget internet krävs, någonsin.
+Lokalt sparade dokument är tillgängliga offline. Lokal dokumentvisning och påminnelser fungerar offline; köp, uppdateringskontroller och molnfunktioner kräver internet.
 
 ### Betala en gång. Ingen prenumeration.
 
-**Börja gratis.** Lagra upp till 5 dokument med full påminnelse- och säkerhetsfunktionalitet. Uppgradera när som helst för obegränsad lagring.
+**Börja gratis.** Lagra upp till 5 dokument med full påminnelse- och säkerhetsfunktionalitet. Pro tar bort gränsen för antalet dokument. Tillgängligt utrymme beror fortfarande på din enhet.
 
-Travel Document Vault är ett **engångsköp** på $9.99. Obegränsat med profiler och dokument, inga återkommande avgifter och inget förnyelsedatum att hålla koll på.
+Pro är ett **engångsköp** på $9.99. Obegränsat med profiler och dokument, inga återkommande avgifter och inget förnyelsedatum att hålla koll på.
 
 Prissatt i amerikanska dollar. Vi sätter varje lands pris lokalt i stället för att räkna om från dollar, och App Store eller Google Play visar ditt pris innan du betalar.
 
@@ -176,11 +176,11 @@ Prissatt i amerikanska dollar. Vi sätter varje lands pris lokalt i stället fö
 
 ### Flersidigt stöd
 
-Stöd för upp till 10 sidor per dokument. Väsentligt för reseförsäkringspoliser och flersidiga visum som allmänna valv ofta skär av.
+Med Pro kan du fotografera upp till 10 sidor för flygbiljetter, vouchers och andra dokument, inklusive reseförsäkringar.
 
 ### Professionell PDF-export
 
-Kombinera flera dokument till en enda PDF-fil för delning med ambassader, flygbolag eller för fysisk utskrift.
+Med Pro kan du kombinera flera dokument till en enda PDF-fil för delning med ambassader, flygbolag eller för fysisk utskrift.
 
 Skapad av en förälder som behövde detta. Integritet i design från grunden.
 
@@ -196,7 +196,7 @@ Kontrollera allas dokumentstatus direkt
 
 Redo för din resa
 
-Varje person, varje dokument, verifierat
+Länkade dokument kontrollerade mot sparade resdatum (Pro)
 
 ![Dokumenttyper inklusive pass, visum, ID, flygbiljett](https://traveldocumentvault.com/assets/images/screenshots-appstore/04.webp)
 
@@ -208,7 +208,7 @@ Smarta påminnelser med 6 veckors förvarning
 
 Dagar kvar i varje land
 
-Spåra varje persons tid utomlands
+Spåra varje persons tid utomlands med Pro
 
 Familjeprofiler för Emma, Lucas, Oliver och Sophie
 
@@ -234,7 +234,7 @@ Skanna. Ange. Glöm.
 
 Öppna kameran, använd det guidade överlägget och fotografera ditt dokument. Eller importera ett befintligt från ditt fotobibliotek.
 
-Appen identifierar utgångsdatumet, du bekräftar bara.
+Appen läser utgångsdatumet när det går – du bekräftar det eller anger det själv.
 
 2
 
@@ -242,7 +242,7 @@ Appen identifierar utgångsdatumet, du bekräftar bara.
 
 Appen schemalägger kaskaderade påminnelser automatiskt.
 
-Sex månader, tre månader, sex veckor... hela vägen till utgångsdagen och bortom.
+Pass börjar åtta månader i förväg. ID-handlingar, visum, försäkring och andra dokument börjar tre månader i förväg, med påminnelser fram till utgångsdagen och efteråt.
 
 3
 
@@ -252,11 +252,11 @@ Vid immigrationen, vid ifyllning av blanketter, vid visumansökningar. Dina doku
 
 ## Byggd för resenärer
 
-Den här appen är utformad för praktiska verkligheter, inte generisk fillagring.
+Samla dokumentkopior och utgångsdatum på ett ställe, med påminnelser aktiverade som standard.
 
-- **Familjer:** Hantera flera profiler för barn och partner på ett ställe. Bär familjens mentala last utan att växla mellan mappar.
+- **Familjer:** Med Pro kan du hantera flera profiler för barn och partner på ett ställe. Bär familjens mentala last utan att växla mellan mappar.
 - **Digitala nomader & expats:** Spåra uppehållstillstånd, lokala ID och arbetstillstånd tillsammans med pass när du flyttar mellan länder.
-- **6-månadsregeln:** Våra påminnelser tar hänsyn till strikta internationella inresekrav som generalistappar ignorerar, du varnas innan ditt pass blir ogiltigt för resor.
+- **6-månadsregeln:** Passpåminnelser börjar åtta månader före utgångsdatumet som standard. Kontrollera destinationens inresekrav separat.
 - **Framtidssäkrad:** Håll dig organiserad inför kommande EU-administrativa förändringar som EES och ETIAS. Se till att dina dokument är förberedda innan reglerna ändras.
 - **Integritetsmedvetna individer:** Lagra dokument utan att lita på molnservrar. Allt stannar på din enhet.
 - **Budgetmedvetna köpare:** Undvik prenumerationer. Betala en enkel engångsavgift istället för att hyra dina egna data.
@@ -265,11 +265,11 @@ Den här appen är utformad för praktiska verkligheter, inte generisk fillagrin
 
 Frågorna vi hör mest.
 
-Vad händer om jag tappar bort min telefon? Vi lagrar inte din data, så vi kan inte återställa den åt dig. En systemsäkerhetskopia (iCloud/Google) installerar om appen men hämtar inte dokumenten – krypteringsnycklarna lämnade aldrig din ursprungliga enhet. Exportera en kopia med Vault Export (gratis). Pro-användare kan också skapa krypterad molnsäkerhetskopia till sitt eget iCloud eller Google Drive med en återställningskod endast de har. Fungerar det utan internet? Helt och hållet. Appen lagrar allt på din enhet och behöver aldrig en internetanslutning. OCR-bearbetning, påminnelser och dokumentvisning fungerar alla offline. Är mina data verkligen säkra? Dina dokument är starkt krypterade på din enhet och skyddas av telefonens inbyggda säkerhetschip. Vi har inga servrar och inga konton. Om du aktiverar valfri Pro-molnsäkerhetskopia går ditt krypterade valv till ditt eget iCloud eller Google Drive, förseglat med en återställningskod som endast du har. Designen innebär att jag inte kan läsa dina data, och inte heller Apple eller Google – du kan kontrollera integritetskonstruktionen själv på [sidan Privacy Verification](https://traveldocumentvault.com/sv/privacy-verification/). PIN-lås och biometriskt lås (Face ID/Touch ID) är båda gratis. Är det verkligen ett engångsköp? Ja. Pro kostar $9.99 en gång, i amerikanska dollar. Varje land sätter sitt pris lokalt snarare än att omvandla det från dollar, och butiken visar ditt pris innan du betalar.* Ingen prenumeration, inga återkommande avgifter, inga "din provperiod slutar"-mejl. Gratisversionen är genuint gratis, 1 profil, 5 dokument, alla funktioner inklusive OCR och påminnelser.
+Vad händer om jag tappar bort min telefon? Vi lagrar inte din data, så vi kan inte återställa den åt dig. En systemsäkerhetskopia (iCloud/Google) installerar om appen men hämtar inte dokumenten – krypteringsnycklarna lämnade aldrig din ursprungliga enhet. Exportera en kopia med Vault Export (gratis). Pro-användare kan också skapa krypterad molnsäkerhetskopia till sitt eget iCloud eller Google Drive med en återställningskod endast de har. Fungerar det utan internet? Helt och hållet. Appen lagrar allt på din enhet och behöver ingen internetanslutning för daglig användning. Påminnelser och visning av lokalt sparade dokument fungerar offline. OCR-bearbetning körs på din enhet. Är mina data verkligen säkra? Dina dokument är krypterade med AES-256-GCM på din enhet, och nyckeln förvaras i telefonens säkra nyckellagring och ingår aldrig i en telefonsäkerhetskopia. Det finns inget konto att skapa och ingen Travel Document Vault-server som lagrar dina dokument. Om du aktiverar valfri molnsäkerhetskopiering (Pro) krypteras valvet på telefonen före uppladdning och går till ditt eget iCloud eller Google Drive, förseglat med en återställningskod som endast du har. Designen innebär att jag inte kan läsa dina data, och inte heller Apple eller Google – du kan kontrollera integritetskonstruktionen själv på [sidan Privacy Verification](https://traveldocumentvault.com/sv/privacy-verification/). PIN-lås och biometriskt lås (Face ID/Touch ID) är båda gratis. Är det verkligen ett engångsköp? Ja. Pro kostar $9.99 en gång, i amerikanska dollar. Varje land sätter sitt pris lokalt snarare än att omvandla det från dollar, och butiken visar ditt pris innan du betalar.* Ingen prenumeration, inga återkommande avgifter, inga "din provperiod slutar"-mejl. Gratisversionen är genuint gratis, 1 profil, 5 dokument, alla kärnfunktioner inklusive OCR och påminnelser.
 
 * För v1.x. Se [prispolicyn](https://traveldocumentvault.com/pricing-policy/#version-policy).
 
-Kan jag använda det för mer än pass? Ja. Det stöder pass, visum, ID, körkort, försäkringskort, flygbiljetter och alla dokumenttyper du behöver. Varje typ har ett eget guidat skanningsfönster. [Se alla vanliga frågor →](https://traveldocumentvault.com/sv/faq/)
+Kan jag använda det för mer än pass? Ja. Det stöder pass, visum, ID, körkort, försäkringskort, flygbiljetter och alla dokumenttyper du behöver. Varje dokumentformat har ett eget guidat skanningsfönster. [Se alla vanliga frågor →](https://traveldocumentvault.com/sv/faq/)
 
 **Viktigt:** Travel Document Vault är ett personligt organisationsverktyg för lagring av digitala kopior av dina dokument. **Digitala kopior lagrade i den här appen är INTE giltiga för resor.** Det verifierar inte dokuments äkthet och ger inte juridisk rådgivning eller reserådgivning. Bär alltid originalhandlingar och verifiera alla resekrav med officiella statliga källor.
 

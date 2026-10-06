@@ -68,7 +68,7 @@ Angesichts der oben genannten Komplexität braucht eine gute Visa-Ablauf-Tracker
 - **Datenschutzmodell:** Visumdetails sind identitätsgebundene vertrauliche Daten. Wie bei der Passpeicherung ist Verschlüsselung auf dem Gerät ohne Cloud-Upload die sicherste Architektur.
 - **Pass- + Visa-Tracking zusammen:** Ein häufig übersehener Fehler ist ein gültiges Visum, aber ein Passstatus, der während Ihres geplanten Aufenthalts abläuft. Wenn beide an einem Ort verfolgt werden, verhindert dies diesen Mismatch.
 
-**Travel Document Vault** verfolgt Passstatus- und Visumablaufdaten an einem Ort, mit separaten pro-Dokumenteninnerungen und Unterstützung für mehrere Reisende. Ihre Daten bleiben auf dem Gerät und sind AES-256 verschlüsselt, kein Konto erforderlich, mit optionaler verschlüsselter Sicherung zu Ihrem eigenen iCloud oder Google Drive (Pro). [Es ist im App Store als einmaliger Kauf ohne Abonnement verfügbar.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** verfolgt Pass- und Visa-Ablaufdaten mit getrennten Erinnerungen für jedes Dokument. Fügen Sie mehrere Reisende mit Pro hinzu. Ihre Dokumente bleiben standardmäßig verschlüsselt auf Ihrem Telefon, ohne App-Konto. Sie können Kopien teilen oder exportieren oder mit Pro in Ihrem eigenen iCloud oder Google Drive sichern. Die App lässt sich kostenlos herunterladen: [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8). Pro ist ein einmaliger Kauf ohne Abonnement.
 
 ## Praktische Schritte zur korrekten Visumverfolgung
 

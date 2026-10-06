@@ -72,7 +72,7 @@ Säg att ditt Google-lösenord återanvändes på en sajt som drabbades av ett i
 | Google Foto | Googles molnservrar | Under överföring + i vila (Google hanterar nycklarna) | Måttlig | Acceptabelt med stark tvåfaktor |
 | iCloud-foton | Apples molnservrar | Under överföring + i vila (Apple hanterar nycklarna) | Måttlig | Acceptabelt med stark tvåfaktor |
 | Krypterad lösenordshanterare (1Password, Bitwarden) | Moln (nollkunskap) | Totalsträcka; leverantören kan inte läsa innehållet | Låg | Bra val |
-| Krypterad app på enheten (valfri egen molnbackup) | Enbart din telefon | Krypterad på enheten; ingen serverkopia | Lägst | Bäst för känsliga handlingar |
+| Krypterad app på enheten (valfri egen molnbackup) | Din telefon; valfri krypterad säkerhetskopia i ditt eget moln (Pro) | Krypterad på enheten; valfri krypterad kopia i eget moln (Pro) | Lägst | Bäst för känsliga handlingar |
 | Kamerarulle / okrypterad mapp | Din enhet | Endast enhetskryptering | Högre | Rekommenderas inte |
 
 ### iCloud-foton jämfört med Google Foto: Är Apple säkrare?
@@ -85,7 +85,7 @@ Samma risk för kontokompromettering gäller båda plattformarna. Ett svagt Appl
 
 Är du iPhone-användare är det värt att aktivera **Avancerat dataskydd i iCloud**. En specialbyggd krypterad app utan molnuppladdning förblir det starkaste alternativet för passlagring oavsett vilken plattform du använder.
 
-**Travel Document Vault** sparar dina passkopior på enheten med stark kryptering. Inget konto krävs. Valfri krypterad säkerhetskopiering till ditt eget iCloud eller Google Drive (Pro), skyddad med en återställningskod som bara du har. [Ladda ner på App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** sparar dina passkopior på enheten med stark kryptering. Inget konto krävs. Med Pro kan du säkerhetskopiera en krypterad kopia till ditt eget iCloud eller Google Drive. Förvara din återställningskod säkert: du behöver den för att återställa säkerhetskopian. [Ladda ner på App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Vilka är de säkrare alternativen?
 
@@ -99,7 +99,7 @@ Två saker är värda att hålla isär först: att spara en kopia för eget bruk
 
 **Krypterade appar på enheten**
 
-Appar byggda specifikt för det här – som [Travel Document Vault](https://traveldocumentvault.com) – håller allt på telefonen med stark kryptering och utan krav på konto. Du får valfri krypterad säkerhetskopiering till ditt eget iCloud eller Google Drive (Pro), och det finns ingen server att bryta sig in i eftersom din digitala passkopia aldrig lämnar enheten. Den enda avvägningen är att om du tappar telefonen utan en backup försvinner den digitala kopian med den, även om det fysiska passet fortfarande finns hos dig.
+Appar byggda specifikt för det här – som [Travel Document Vault](https://traveldocumentvault.com) – lagrar dokument krypterade på telefonen utan appkonto. Du kan dela eller exportera kopior, eller använda Pro för att säkerhetskopiera en krypterad kopia till ditt eget iCloud eller Google Drive. Appen laddar inte upp dina dokument till våra servrar. Den enda avvägningen är att om du tappar telefonen utan en backup försvinner den digitala kopian med den, även om det fysiska passet fortfarande finns hos dig.
 
 **Krypterad molnlagring med klientsidiga nycklar**
 
@@ -133,7 +133,7 @@ Ja. Automatiserade system bearbetar dina foton för sådant som ansiktsigenkänn
 
 ### Vad är det säkraste sättet att spara en digital passkopia?
 
-Krypterad lagring på enheten är ditt säkraste val – appar som håller skanningarna på telefonen med stark kryptering och utan molnuppladdning. Ingen tredjepartsserver rör någonsin dina passuppgifter. Vill du även ha molnåtkomst är en krypterad lösenordshanterare med nollkunskapsarkitektur, som 1Password eller Bitwarden, ett bra mellanting.
+Krypterad lagring på enheten är ditt säkraste val – appar som håller skanningarna på telefonen med stark kryptering som standard. Kopior kan lämna enheten genom delning, export eller valfri krypterad säkerhetskopiering till ditt eget iCloud eller Google Drive (Pro). Vill du även ha molnåtkomst är en krypterad lösenordshanterare med nollkunskapsarkitektur, som 1Password eller Bitwarden, ett bra mellanting.
 
 ### Kan någon stjäla min identitet från en passkopia?
 

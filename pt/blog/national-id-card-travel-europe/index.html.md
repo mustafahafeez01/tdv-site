@@ -67,7 +67,7 @@ O verdadeiro desafio na gestão de documentos de viagem é este: o seu cartão d
 
 A parte mais difícil é que **nenhum dos dois documentos lhe envia um lembrete.** Supõe-se que os verifique você mesmo. A maioria das pessoas não o faz, até estar no balcão de check-in e um agente lhe dizer que um deles está demasiado perto de expirar para ser aceite.
 
-O que ajuda é ter um único lugar para os dois documentos, um que capta a data de validade de cada um ao digitalizá-lo e que o avisa separadamente para cada documento, de acordo com o calendário próprio desse tipo de documento. Consulte o nosso guia sobre [como construir uma verificação completa de documentos antes de viajar](https://traveldocumentvault.com/pt/blog/travel-document-checklist/) para ter a visão completa do que verificar antes de partir.
+O que ajuda é ter um único lugar para os dois documentos, um que guarda a data de validade de cada um e que o avisa separadamente para cada documento, de acordo com o calendário próprio desse tipo de documento. Consulte o nosso guia sobre [como construir uma verificação completa de documentos antes de viajar](https://traveldocumentvault.com/pt/blog/travel-document-checklist/) para ter a visão completa do que verificar antes de partir.
 
 Comece hoje: pegue no seu cartão de identidade, verifique a data de validade e examine-o à procura de fissuras, desbotamento ou plástico deformado. Se estiver no limite, marque a renovação antes de reservar a viagem.
 

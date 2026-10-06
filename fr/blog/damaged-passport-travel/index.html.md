@@ -81,7 +81,7 @@ Une photo numérique nette de votre passeport aide beaucoup ici. Conservez la pa
 
 Cela s'avère particulièrement précieux si vous êtes à l'étranger quand votre passeport est endommagé et que vous avez besoin d'un document de voyage d'urgence de la part de votre ambassade. Les agents consulaires travaillent plus vite lorsqu'ils ont sous les yeux un scan de votre passeport original.
 
-Stockez vos copies numériques quelque part de chiffré et hors ligne — pas dans Google Photos ou un iCloud partagé avec d'autres personnes. Travel Document Vault est conçu exactement pour cet usage : des photos de passeport chiffrées uniquement sur votre appareil, accessibles instantanément si quelque chose tourne mal.
+Stockez vos copies numériques quelque part de chiffré et hors ligne — pas dans Google Photos ou un iCloud partagé avec d'autres personnes. Travel Document Vault stocke les photos de passeport chiffrées sur votre appareil pour les consulter hors ligne. Vous pouvez partager ou exporter des copies, ou utiliser la sauvegarde cloud chiffrée avec Pro.
 
 Numérisez votre passeport dès aujourd'hui, avant d'en avoir besoin.
 

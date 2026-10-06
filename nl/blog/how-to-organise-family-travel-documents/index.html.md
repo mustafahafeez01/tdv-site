@@ -81,7 +81,7 @@ Wat dit in de praktijk betekent
 
 Als je telefoon gestolen wordt en de dief toegang krijgt tot je fotobibliotheek, heeft hij een duidelijke scan van de gegevenspagina van je paspoort: je naam, geboortedatum, paspoortnummer en foto. Dat is genoeg voor identiteitsfraude. Paspoortscans bewaren in een versleutelde app die een aparte pincode of biometrie vereist, is aanzienlijk veiliger dan een fotobibliotheek, zelfs als beide op hetzelfde toestel staan.
 
-[Travel Document Vault](https://traveldocumentvault.com) bewaart alles op het toestel met sterke versleuteling (optionele versleutelde back-up naar je eigen iCloud of Google Drive met Pro). Elk gezinslid krijgt een eigen profiel, en vervaldatums worden automatisch bijgehouden. Wil je het liever zelf doen, dan werkt een versleutelde map in een betrouwbare wachtwoordmanager ook – die herinnert je alleen niet als er iets bijna verloopt.
+[Travel Document Vault](https://traveldocumentvault.com) bewaart je documenten versleuteld op je toestel en houdt opgeslagen vervaldatums bij. Je kunt kopieën delen of exporteren. Pro voegt gezinsprofielen en een optionele versleutelde back-up naar je eigen iCloud of Google Drive toe. Wil je het liever zelf doen, dan werkt een versleutelde map in een betrouwbare wachtwoordmanager ook – die herinnert je alleen niet als er iets bijna verloopt.
 
 ## Vervaldatums bijhouden: het meest over het hoofd geziene onderdeel
 
@@ -93,11 +93,11 @@ Dit is het patroon dat gezinnen te pakken krijgt: je vernieuwt je eigen paspoort
 
 - **Agendaherinneringen:** Stel er één in 12 maanden voor elk document verloopt en nog één bij 6 maanden. Je moet ze zelf bijwerken zodra documenten worden vernieuwd, en je moet de vervaldatums om te beginnen al bij de hand hebben.
 - **Spreadsheet:** Werkt prima als je het daadwerkelijk bijhoudt. Eén rij per document per persoon, de vervaldatum, en een formule die alles markeert wat binnen 12 maanden verloopt.
-- **Speciale app:** Tools zoals Travel Document Vault regelen de herinneringen automatisch – scan het document, bevestig de vervaldatum, en het plant waarschuwingen vanaf acht maanden van tevoren en opnieuw bij kortere intervallen zonder dat je erover na hoeft te denken.
+- **Speciale app:** Travel Document Vault plant paspoortherinneringen vanaf acht maanden voor de vervaldatum, met meldingen op kortere intervallen. Scan een paspoort en bevestig de vervaldatum of voer die zelf in; herinneringen staan standaard aan.
 
 Alle drie de methoden werken, maar wij zouden de methode kiezen die de herinnering automatisch stuurt, want een spreadsheet helpt alleen als je eraan denkt hem te openen. Waar het het meest op aankomt, is er een kiezen die past bij hoe je al werkt en er ook echt aan vasthouden.
 
-**Travel Document Vault** houdt de vervaldatums voor elk gezinslid automatisch bij – scan elk paspoort één keer en krijg herinneringen vanaf acht maanden voor de vervaldatum. Geen spreadsheet, geen vergeten verlengingen. [Download in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** houdt opgeslagen vervaldatums bij, met paspoortherinneringen vanaf acht maanden voor de vervaldatum. Scan elk paspoort en bevestig de vervaldatum of voer die zelf in. Voeg het hele gezin toe met Pro om vernieuwingsdatums bij elkaar te houden. [Download in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Checklist voor gezinnen voor vertrek
 

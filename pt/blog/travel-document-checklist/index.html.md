@@ -93,7 +93,7 @@ Mantenha estes na sua mala de cabine sempre — não coloque em bagagem de porã
 
 Antes de sair de casa, fotografe cada documento e guarde-o numa aplicação encriptada — não no seu rolo de câmara. Se a sua mala for perdida ou roubada, vai querer o seu número de passaporte, número de apólice de seguro e referências de reserva em algum lugar onde ainda possa aceder num consulado ou esquadra de polícia. Uma cópia de segurança digital segura poupa horas quando está a tentar obter ajuda.
 
-**Travel Document Vault** armazena cópias encriptadas de cada documento nesta lista — organizado por membro da família, com lembretes de expiração automáticos. Digitalize uma vez, nunca se veja em apuros novamente. [Descarregar na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** guarda cópias encriptadas dos seus documentos de viagem. Digitalize cada um e confirme ou introduza a data de validade para receber lembretes automáticos. Pro permite guardar mais de cinco documentos e organizá-los por membro da família. [Descarregar na App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Como a Sua Lista de Documentos Muda Consoante o Tipo de Viagem
 

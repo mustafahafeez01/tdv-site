@@ -69,7 +69,7 @@ The practical challenge of managing travel documents is this: your ID card and y
 
 The harder part is that **neither document sends you a reminder.** You're supposed to check them yourself. Most people don't, until they're at the check-in desk and an agent tells them one is too close to expiry to be accepted.
 
-What helps is a single place for both documents, one that picks up each expiry date when you scan it and reminds you separately for each, on the schedule that suits that type of document. See our guide on [building a complete pre-trip document check](https://traveldocumentvault.com/blog/travel-document-checklist/) for the full picture of what to verify before you travel.
+What helps is a single place for both documents, one that keeps each expiry date and reminds you separately for each, on the schedule that suits that type of document. See our guide on [building a complete pre-trip document check](https://traveldocumentvault.com/blog/travel-document-checklist/) for the full picture of what to verify before you travel.
 
 Start today: pull out your ID card, check the expiry date, and look it over for cracks, fading, or warped plastic. If it's borderline, book the renewal before you book the trip.
 

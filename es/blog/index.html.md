@@ -52,7 +52,7 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
-[Viajes en FamiliaGestión de Pasaportes Familiares: Guarda Múltiples Pasaportes de Forma SeguraCómo organizar y guardar de forma segura múltiples pasaportes familiares en un único lugar. Realiza un seguimiento de las fechas de vencimiento de cada miembro de la familia, con recordatorios antes de cada renovación.16 de julio de 20267 min de lectura](https://traveldocumentvault.com/es/blog/family-passport-management/)
+[Viajes en FamiliaGestión de Pasaportes Familiares: Guarda Múltiples Pasaportes de Forma SeguraOrganiza los pasaportes de tu familia en un solo lugar cifrado. Añade perfiles familiares con Pro y usa las fechas de vencimiento y los recordatorios para planificar renovaciones.16 de julio de 20267 min de lectura](https://traveldocumentvault.com/es/blog/family-passport-management/)
 
 ##
 
@@ -142,9 +142,9 @@ Source: https://traveldocumentvault.com/es/blog/
 
 [Normas de pasaporteLa Regla de los 6 Meses del Pasaporte: Qué Países la Aplican y Cómo Nunca Quedarte Atrapado Tu pasaporte puede ser válido pero aun así te impedirán embarcar. Descubre qué países aplican la regla de los 6 meses, cómo la comprueban las aerolíneas y cómo asegurarte de que toda tu familia esté cubierta antes de reservar. 1 feb. 20267 min de lectura](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/)
 
-## La última vez que correrás antes de un viaje
+## Reúne los datos de tu pasaporte
 
-Escanea los pasaportes de tu familia esta noche. Los recordatorios de caducidad se configuran solos. Cifrado y almacenado solo en tu dispositivo.
+Escanea tu pasaporte esta noche y confirma o introduce su fecha de caducidad. Los recordatorios están activados por defecto y tus documentos se cifran en tu dispositivo. Puedes compartir o exportar copias. Pro añade perfiles familiares y copia de seguridad cifrada opcional en tu propia nube.
 
 ![Descargar en el App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

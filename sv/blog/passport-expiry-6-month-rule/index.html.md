@@ -62,7 +62,7 @@ Tabellen är en ögonblicksbild, inte den fullständiga bilden: kraven varierar 
 
 Passkrav per land ändras utan förvarning, och ett bilateralt avtal kan i tysthet ändra reglerna för just ditt pass, vilket är varför det inte är överdrivet försiktigt att kontrollera en aktuell officiell källa inför varje internationell resa – det är bara god vana: använd IATA Travel Centre, samma system flygbolagen använder för att kontrollera resenärers handlingar i realtid.
 
-**Travel Document Vault** flaggar varje pass som inte har sex månaders giltighet kvar när resan tar slut – för varje familjemedlem, automatiskt. [Ladda ner på App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) och [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
+**Travel Document Vault** kontrollerar med Pro länkade pass mot en standardmarginal på 180 dagar efter den sparade resans slut, om du inte anger en egen giltighetsmarginal. Kontrollera destinationens faktiska regel separat. [Ladda ner på App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) och [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
 
 ## När 6-månadersregeln inte gäller
 
@@ -102,7 +102,7 @@ Behandla passet som ett bildäck och vänta inte tills det är platt: förnya s�
 
 Räkna sex månader framåt från den dag du lämnar destinationen inför varje resa – det är det senare datumet och uppfyller därmed båda versionerna av regeln. Kontrollera passets utgångsdatum mot det datumet – inte bara mot resedatumen.
 
-Att hålla koll på flera pass i en familj med olika utgångsdatum är där det blir rörigt. Travel Document Vault håller reda på detta automatiskt – lagrar varje familjemedlems passutgång och skickar påminnelser från åtta månader innan, och sedan igen allteftersom datumet närmar sig, så du slipper huvudräkning inför varje bokning. Du hittar även fler praktiska tips om resedokument på [bloggen](https://traveldocumentvault.com/sv/blog/).
+Att hålla koll på flera pass i en familj med olika utgångsdatum är där det blir rörigt. Travel Document Vault håller koll på passets utgångsdatum, och med Pro kan du lägga till hela familjen. Passpåminnelser börjar som standard åtta månader före utgångsdatumet och upprepas när datumet närmar sig. Kontrollera destinationens giltighetsregel före bokning. Du hittar även fler praktiska tips om resedokument på [bloggen](https://traveldocumentvault.com/sv/blog/).
 
 ## En anmärkning om att kontrollera kraven innan du reser
 
@@ -142,7 +142,7 @@ Ja. Flygbolag kontrollerar passets giltighet med hjälp av en branschomfattande 
 
 ### Hur kontrollerar jag om mitt pass uppfyller 6-månadersregeln?
 
-Räkna sex månader framåt från den dag du lämnar destinationen, och kontrollera sedan om passet går ut efter det datumet. Det är det senare av de två datum länder använder, så det täcker båda fallen. Ska du resa den 1 augusti måste passet vara giltigt till minst den 1 februari året därpå. Appar som Travel Document Vault håller reda på detta automatiskt för varje familjemedlem, så du slipper räkna ut det själv inför varje resa.
+Räkna sex månader framåt från den dag du lämnar destinationen, och kontrollera sedan om passet går ut efter det datumet. Det är det senare av de två datum länder använder, så det täcker båda fallen. Ska du resa den 1 augusti måste passet vara giltigt till minst den 1 februari året därpå. Med Pro kontrollerar Travel Document Vault länkade pass mot en standardmarginal på 180 dagar efter den sparade resans slut, om du inte anger en egen giltighetsmarginal. Kontrollera destinationens faktiska regel separat; 180 dagar är inte alltid sex kalendermånader.
 
 ### Behöver jag sex månader på passet för att resa till Europa?
 
@@ -150,7 +150,7 @@ Nej, men du behöver mer än bara giltighet under vistelsen. Brittiska utrikesde
 
 ### Vad händer om en familjemedlems pass uppfyller regeln men en annans inte gör det?
 
-Varje familjemedlems pass bedöms individuellt – det finns ingen gruppregel. Det betyder att ett pass kan uppfylla 6-månaderskravet medan ett annat inte gör det, vilket kan hindra just den personen från att resa. Kontrollera varje pass i gruppen mot destinationens giltighetskrav innan ni bokar. Appar som Travel Document Vault låter dig hålla koll på varje familjemedlems passutgång separat, så du upptäcker sådana luckor innan incheckningen gör det.
+Varje familjemedlems pass bedöms individuellt – det finns ingen gruppregel. Det betyder att ett pass kan uppfylla 6-månaderskravet medan ett annat inte gör det, vilket kan hindra just den personen från att resa. Kontrollera varje pass i gruppen mot destinationens giltighetskrav innan ni bokar. Travel Document Vault håller koll på passets utgångsdatum, och med Pro kan du lägga till varje familjemedlem. Kontrollera deras datum mot destinationens regel före bokning.
 
 ### Kan jag resa om passet går ut om 3 månader?
 

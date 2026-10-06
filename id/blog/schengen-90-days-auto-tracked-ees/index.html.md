@@ -72,7 +72,7 @@ Metode manual didahulukan karena gratis dan resmi: ambil tanggal hari ini dan li
 
 Bagi satu orang yang berlibur satu atau dua kali setahun, ini sepenuhnya bisa dikelola. Ini menjadi lebih sulit ketika perjalanan tumpang tindih dan orangnya bertambah: pelancong bisnis yang melakukan perjalanan singkat setiap bulan, atau keluarga di mana satu anak mengikuti pertukaran pelajar, yang lain punya jadwal kemah musim panas, dan pasangan pulang lebih awal. Setiap orang punya jendela bergulirnya sendiri, dan jendela-jendela itu tidak sejajar. Inilah situasi di mana alat pelacak berhenti menjadi sekadar gadget dan mulai menjadi cara Anda menghindari kesalahan mahal, [panduan kami tentang pelacakan visa dan masuk](https://traveldocumentvault.com/id/blog/visa-expiry-tracker-app/) membahas masalah yang lebih luas ini.
 
-Satu catatan jujur: tidak ada aplikasi yang bisa membaca catatan EES Anda, termasuk aplikasi kami. Yang dilakukan alat pelacak adalah menerapkan perhitungan resmi 90/180 pada tanggal perjalanan yang Anda masukkan, secara berkelanjutan, untuk setiap pelancong yang Anda tambahkan. Perbatasan menghitung apa yang telah terjadi; pelacak yang baik menunjukkan apa yang masih bisa Anda lakukan.
+Travel Document Vault tidak membaca catatan EES Anda. Dengan Pro, aplikasi ini menghitung perjalanan yang tersimpan terhadap batas hari per negara yang Anda tetapkan. Aplikasi ini tidak menghitung kuota gabungan 90/180 untuk seluruh wilayah Schengen, jadi periksa total waktu Anda di wilayah tersebut secara terpisah.
 
 ## Tiga Hal yang Bukan EES
 
@@ -108,7 +108,7 @@ Tidak. EES sudah aktif sekarang dan mendaftarkan masuk serta keluar Anda di perb
 
 ### Bagaimana Travel Document Vault membantu dengan aturan 90/180?
 
-Aplikasi ini menghitung hari per orang, per negara, di semua perjalanan Anda ke negara tersebut, dan memproyeksikan jendela bergulir Anda ke depan sebelum Anda memesan. Aplikasi ini tidak membaca catatan EES Anda, tidak ada aplikasi yang bisa melakukannya, tapi dengan Pro aplikasi ini menerapkan hitungan bergulir 90/180 pada perjalanan Anda ke setiap negara yang Anda beri batas, sehingga sisa hari setiap anggota keluarga di sana terlihat sekilas.
+Dengan Pro, aplikasi ini menghitung hari perjalanan yang tersimpan per orang, per negara, dan memproyeksikan jendela bergulir berdasarkan batas yang Anda tetapkan. Aplikasi ini tidak membaca catatan EES Anda atau menghitung kuota gabungan 90/180 untuk seluruh wilayah Schengen. Anda bisa melihat sisa hari setiap anggota keluarga untuk suatu negara, tetapi harus memeriksa total Schengen secara terpisah.
 
 ## Artikel Terkait
 

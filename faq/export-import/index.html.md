@@ -1,18 +1,18 @@
 # How to Export and Import Your Vault | Travel Document Vault
 
-> Step-by-step walkthrough for exporting your entire vault as an encrypted file and importing it on a new device. Preserve your data and ensure portability.
+> Export supported vault data as an encrypted file and import it on a new device. Follow the steps to make a portable backup you control.
 
 Source: https://traveldocumentvault.com/faq/export-import/
 
 ---
 
-Every user can export their entire vault as an encrypted, password-protected backup file (.tdvault) and import it on any device. This walkthrough shows each step with explanations.
+Vault Export and Import are free for everyone. Export supported vault data as an encrypted, password-protected file (.tdvault), within the size limit. Import it on another supported iOS or Android device using the steps below.
 
 ## Why export and import?
 
-Export-import ensures your data is portable and you are never locked into the app. Whether you are switching devices, setting up a new phone, or simply want a backup copy you control, the export-import process preserves everything exactly as it is.
+Use export and import when switching phones or keeping an independent backup. The file contains supported vault records, available attachments and selected settings. Check the imported documents and reminders; app lock and other device settings remain local.
 
-The exported file is encrypted with the same security as your on-device vault. Only you can decrypt it.
+The exported file is encrypted with the same security as your on-device vault. Anyone who knows the export password can decrypt it, so keep the password private.
 
 ## Step-by-step walkthrough
 
@@ -24,27 +24,27 @@ Launch Travel Document Vault and tap the Settings icon (gear symbol) at the bott
 
 2
 
-### Review what will be exported
+### Create an export password
 
-The app shows a summary: total profiles, total documents, and total attachments. This confirms that everything you want is included. Tap Continue or Confirm Export.
+The app asks you to create a password to protect the backup. Choose one of at least 8 characters, type it again to confirm, and store it somewhere safe. You need this password to import the file, and your PIN or recovery code will not open it.
 
 3
 
 ### Wait for encryption to complete
 
-The app encrypts all your data into a single backup file (.tdvault). On a typical vault with hundreds of documents, this takes a few seconds. Do not close the app during this step.
+The app encrypts supported vault data and available attachments into a single backup file (.tdvault). Do not close the app during this step.
 
 4
 
 ### Choose a destination and save
 
-Your system file picker opens. Choose where to save the file: iCloud Drive, Google Drive, Dropbox, or your computer. We recommend an encrypted service or offline storage for maximum security.
+Your phone's share sheet opens. Choose where to save the file: iCloud Drive, Google Drive, Dropbox, or your computer. We recommend an encrypted service or offline storage for maximum security.
 
 5
 
 ### Transfer the file to your new device (if importing on another phone)
 
-If you are importing on a different device, make the exported file accessible there. Upload to a shared drive, email it to yourself, or use AirDrop. The file size is typically 50-500 MB depending on your vault size and attachment count.
+If you are importing on a different device, make the exported file accessible there. Upload to a shared drive, email it to yourself, or use AirDrop. The file size depends on your vault size and attachment count, up to a limit of 500 MB per export.
 
 6
 
@@ -56,18 +56,18 @@ Launch Travel Document Vault on the device where you want to import. Go to Setti
 
 ### Select the exported file and confirm
 
-Navigate to where you saved the exported vault file, select it, and confirm. The app decrypts and imports all profiles, documents, and attachments. This process takes a few seconds.
+Navigate to where you saved the exported vault file and select it. The app warns that importing replaces everything on this device. Tap Import to go ahead, then enter the password you set when you exported. The app decrypts and imports the profiles, documents and attachments included in the backup.
 
 8
 
 ### Verify all data is present
 
-After import, check the Profiles tab to confirm all profiles appear. Open a few documents to verify attachments are intact. The import process replaces any existing data on this device.
+After import, check the Family tab to confirm all profiles appear. Open a few documents to verify attachments are intact. The import process replaces any existing data on this device.
 
 ### Important notes
 
 - **Replaces existing data:** Import clears what is on the target device first. If you already have profiles on the target device, export them before you import.
-- **Round-trip fidelity:** Everything is preserved exactly: document names, dates, expiry alerts, custom colours, attachments, and notes.
+- **Round-trip fidelity:** The file transfers supported vault fields and selected settings. Missing attachments or unreadable notes may be omitted. Check your imported documents and reminders. App lock and other device settings stay local.
 - **Encrypted throughout:** The exported file is encrypted with the password you choose when you export it, using AES-256-GCM with PBKDF2 key derivation. Only that password can decrypt it, so store it somewhere safe - without it the file cannot be recovered.
 - **Backup best practice:** Keep your exported file in a secure location. Delete it after a successful import if you prefer, or keep it as an offline backup.
 

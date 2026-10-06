@@ -1,54 +1,54 @@
 # ¿Cuál es mi código de recuperación? | Travel Document Vault
 
-> Tu código de recuperación es la clave maestra de tus copias cifradas en la nube. Qué es, por qué lo necesitas y cómo guardarlo de forma segura.
+> Tu código de recuperación desbloquea tus copias cifradas en la nube. Qué es, por qué lo necesitas y cómo guardarlo de forma segura.
 
 Source: https://traveldocumentvault.com/es/faq/recovery-code/
 
 ---
 
-Tu código de recuperación es una frase de 24 caracteres que encripta tus copias de seguridad en la nube. Si lo pierdes, esas copias de seguridad se vuelven irrecuperables. No lo guardamos ni lo reiniciamos, así que guárdalo en un lugar seguro.
+Tu código de recuperación es una frase de 24 caracteres que desbloquea tus claves de cifrado de la nube. Si pierdes todas las copias del código y el acceso a todos los dispositivos que aún pueden desbloquear la bóveda, no podemos recuperar esas copias de seguridad. No lo guardamos ni lo reiniciamos, así que guárdalo en un lugar seguro.
 
 ## Cómo funciona
 
 ### Qué es
 
-Tu código de recuperación es una frase de 24 caracteres generada cuando activas la copia de seguridad en la nube. Se ve así:
+Tu código de recuperación es una frase de 24 caracteres generada cuando configuras tu PIN. Se ve así:
 
 XXXX-XXXX-XXXX-XXXX-XXXX-XXXX
 
-Este código está derivado matemáticamente de tus configuraciones de copia de seguridad y es la única clave que puede descifrar tu bóveda cifrada en la nube. Lo generamos una sola vez y te lo mostramos una sola vez. Después, la responsabilidad de mantenerlo seguro es tuya.
+Tu código de recuperación desbloquea las claves de cifrado necesarias para restaurar tu copia de seguridad en la nube con Pro. La app lo genera cuando configuras tu PIN y lo muestra una sola vez. Guarda una copia en un lugar seguro.
 
 ### Por qué lo necesitas
 
-Cuando activas la copia de seguridad en la nube, toda tu bóveda se encripta en tu dispositivo usando AES-256-GCM antes de que salga de tu teléfono. La clave de cifrado se deriva de tu código de recuperación. Sin el código de recuperación, la copia de seguridad es criptográficamente inaccesible, incluso para nosotros.
+Con la copia de seguridad en la nube de Pro, la app cifra el contenido de tus documentos en tu dispositivo usando AES-256-GCM antes de subirlo. Tu código de recuperación desbloquea las claves de cifrado de la nube. Lo necesitas para restaurar una copia. No guardamos una copia del código.
 
-Esta es una garantía de privacidad. Literalmente no podemos leer tus copias de seguridad, descifrarlas bajo demanda, o reiniciarlas por ti. Si se pierde tu código de recuperación, esa copia de seguridad se ha ido para siempre. Suena duro, pero es exactamente lo que quieres: tu privacidad no es solo una promesa que hacemos, es un hecho técnico que no podemos violar.
+No podemos descifrar ni restablecer tu copia de seguridad en la nube por ti. Si pierdes todas las copias de tu código de recuperación y el acceso a todos los dispositivos que aún pueden desbloquear la bóveda, no podemos recuperar esa copia.
 
 ### Si lo pierdes
 
-Si olvidas tu código de recuperación, tu copia de seguridad en la nube existente no puede ser recuperada. Tienes dos opciones:
+Si olvidas tu código de recuperación, lo que puedes hacer depende de si aún tienes un dispositivo que puede desbloquear la bóveda y su PIN:
 
-- **Restaurar desde tu teléfono:** Si el código aún está guardado en la aplicación (comprueba Configuración - Copia de seguridad en la nube), cópialo a un lugar seguro y guárdalo.
-- **Generar uno nuevo:** Desactiva la copia de seguridad en la nube y reactivala. Esto crea un nuevo código de recuperación y descarta la copia de seguridad existente. Comienzas de nuevo.
+- **Generar uno nuevo en tu teléfono:** Mantén la copia de seguridad en la nube activada y conéctate a internet. Abre Ajustes, Seguridad, Código de recuperación, confirma e introduce tu PIN. Guarda el código nuevo que muestra la app y toca Ya lo he anotado para activarlo. Sigue las indicaciones para volver a conectar o sincronizar.
+- **Si también perdiste el teléfono:** Si no tienes ninguna copia del código de recuperación ni otro dispositivo que aún pueda desbloquear la bóveda, no podemos abrir la copia existente. Activa la copia de seguridad en la nube en tu teléfono nuevo y elige empezar de cero.
 
 ### Dónde guardarlo
 
 Tu código de recuperación es tan sensible como tu contraseña maestra. Guárdalo de una de estas formas:
 
-- **Gestor de contraseñas:** Bitwarden, 1Password, Apple Keychain, o similar. Esta es la opción más conveniente.
+- **Gestor de contraseñas:** Usa un gestor de contraseñas en el que confíes.
 - **Copia de seguridad física:** Escríbelo en papel y guárdalo en una caja fuerte, caja de seguridad, o lugar seguro en casa.
 - **Documento sin conexión:** Guarda en una unidad externa cifrada o USB (nunca sincronizado en la nube).
 - **Evitar:** Correo electrónico, aplicación Notas, servicios en la nube sin cifrar, o capturas de pantalla.
 
 ### Regenerar tu código
 
-Si crees que tu código de recuperación está comprometido, desactiva la copia de seguridad en la nube y reactivala. La aplicación genera un nuevo código de recuperación. Tu copia de seguridad cifrada antigua se descarta. Esto es intencional: la rotación del código de recuperación es deliberadamente rara y con pérdida de datos, así que no la haces sin pensar bien.
+Si crees que tu código de recuperación está comprometido, mantén la copia de seguridad en la nube activada y conéctate a internet. Abre Ajustes, Seguridad, Código de recuperación, confirma e introduce tu PIN. Guarda el código nuevo que muestra la app y toca Ya lo he anotado para activarlo. Sigue las indicaciones para volver a conectar o sincronizar.
 
-**Descargo de responsabilidad:** Tu código de recuperación es tu única responsabilidad. Travel Document Vault no puede recuperarlo, reiniciarlo ni regenerarlo si se pierde. Guárdalo de forma segura. No confíes en esta aplicación como tu único sistema de copia de seguridad para documentos críticos.
+**Descargo de responsabilidad:** Tu código de recuperación es tu única responsabilidad. Travel Document Vault no puede recuperarlo ni restablecerlo por ti si se pierde. Guárdalo de forma segura. No confíes en esta aplicación como tu único sistema de copia de seguridad para documentos críticos.
 
 ## ¿Listo para proteger tu bóveda?
 
-Descarga Travel Document Vault y activa la copia de seguridad en la nube para mantener tus documentos seguros.
+Descarga Travel Document Vault gratis. Pro añade copia de seguridad cifrada en tu propio iCloud o Google Drive. Guarda tu código de recuperación antes de activarla.
 
 ![Descarga en App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

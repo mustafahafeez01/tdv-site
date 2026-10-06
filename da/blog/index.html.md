@@ -52,7 +52,7 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[FamilierejserStyring af familiens pas – opbevar flere pas sikkertSådan organiserer og opbevarer du flere familiemedlemmers pas på ét sikkert sted. Spor udløbsdatoer for alle familiemedlemmer og modtag påmindelser før fornyelse.16. juli 20267 min læsning](https://traveldocumentvault.com/da/blog/family-passport-management/)
+[FamilierejserStyring af familiens pas – opbevar flere pas sikkertSaml familiens pas ét krypteret sted. Tilføj familieprofiler med Pro, og brug udløbsdatoer og påmindelser til at planlægge fornyelser.16. juli 20267 min læsning](https://traveldocumentvault.com/da/blog/family-passport-management/)
 
 ##
 
@@ -142,9 +142,9 @@ Source: https://traveldocumentvault.com/da/blog/
 
 [Pasregler 6-måneders-reglen for pas: hvilke lande håndhæver den, og sådan undgår du at blive taget på sengen Dit pas kan være gyldigt – og stadig blive afvist ved gaten. Se hvilke lande håndhæver 6-måneders-reglen, hvordan flyselskaberne tjekker den, og hvordan du sikrer, at hele familien er dækket, inden I booker. 1. feb. 20267 min. læsning](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)
 
-## Sidste gang du stresser inden en rejse
+## Saml dine pasoplysninger
 
-Scan din families pas i aften. Udløbspåmindelser indstiller sig selv. Sikkert krypteret, gemt kun på din enhed.
+Scan dit pas i aften, og bekræft eller indtast udløbsdatoen. Påmindelser er slået til som standard, og dine dokumenter er krypteret på din enhed. Du kan dele eller eksportere kopier. Pro tilføjer familieprofiler og valgfri krypteret backup til din egen sky.
 
 ![Hent på App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

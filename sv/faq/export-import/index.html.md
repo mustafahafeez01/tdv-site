@@ -1,18 +1,18 @@
 # Så exporterar och importerar du ditt valv | Travel Document Vault
 
-> Steg-för-steg-guide för att exportera hela ditt valv som en krypterad fil och importera den på en ny enhet. Bevara din data och säkerställ portabilitet.
+> Exportera stödda valvdata som en krypterad fil och importera på en ny enhet. Följ stegen för att skapa en portabel säkerhetskopia som du kontrollerar.
 
 Source: https://traveldocumentvault.com/sv/faq/export-import/
 
 ---
 
-Alla användare kan exportera hela sitt valv som en krypterad, lösenordsskyddad säkerhetskopieringsfil (.tdvault) och importera den på valfri enhet. Den här guiden visar varje steg med förklaringar.
+Valvexport och import är gratis för alla. Exportera valvdata som stöds som en krypterad, lösenordsskyddad fil (.tdvault), inom storleksgränsen. Importera den på en annan iOS- eller Android-enhet som stöds med stegen nedan.
 
 ## Varför exportera och importera?
 
-Export och import säkerställer att din data är portabel och att du aldrig blir låst till appen. Oavsett om du byter enhet, ställer in en ny telefon, eller bara vill ha en säkerhetskopia du själv kontrollerar, bevarar export- och importprocessen allt precis som det är.
+Använd export och import när du byter telefon eller vill ha en oberoende säkerhetskopia. Filen innehåller valvposter som stöds, tillgängliga bilagor och utvalda inställningar. Kontrollera importerade dokument och påminnelser; applås och andra enhetsinställningar förblir lokala.
 
-Den exporterade filen krypteras med samma säkerhet som ditt valv på enheten. Bara du kan dekryptera den.
+Den exporterade filen krypteras med samma säkerhet som ditt valv på enheten. Alla som känner till exportlösenordet kan dekryptera den, så håll lösenordet privat.
 
 ## Steg-för-steg-guide
 
@@ -24,27 +24,27 @@ Starta Travel Document Vault och tryck på ikonen Inställningar (kugghjulssymbo
 
 2
 
-### Granska vad som kommer att exporteras
+### Skapa ett exportlösenord
 
-Appen visar en sammanfattning: totalt antal profiler, dokument och bilagor. Det bekräftar att allt du vill ha med är inkluderat. Tryck på Fortsätt eller Bekräfta export.
+Appen ber dig skapa ett lösenord för att skydda säkerhetskopian. Välj ett med minst 8 tecken, skriv det igen för att bekräfta och förvara det säkert. Du behöver lösenordet för att importera filen; din PIN eller återställningskod kan inte öppna den.
 
 3
 
 ### Vänta tills krypteringen är klar
 
-Appen krypterar all din data till en enda säkerhetskopieringsfil (.tdvault). För ett typiskt valv med hundratals dokument tar detta några sekunder. Stäng inte appen under det här steget.
+Appen krypterar valvdata som stöds och tillgängliga bilagor till en enda säkerhetskopieringsfil (.tdvault). Stäng inte appen under det här steget.
 
 4
 
 ### Välj en destination och spara
 
-Systemets filväljare öppnas. Välj var du vill spara filen: iCloud Drive, Google Drive, Dropbox, eller din dator. Vi rekommenderar en krypterad tjänst eller offline-lagring för maximal säkerhet.
+Telefonens delningsmeny öppnas. Välj var du vill spara filen: iCloud Drive, Google Drive, Dropbox, eller din dator. Vi rekommenderar en krypterad tjänst eller offline-lagring för maximal säkerhet.
 
 5
 
 ### Överför filen till din nya enhet (om du importerar på en annan telefon)
 
-Om du importerar på en annan enhet, se till att den exporterade filen är tillgänglig där. Ladda upp den till en delad enhet, skicka den till dig själv via e-post, eller använd AirDrop. Filstorleken ligger vanligtvis mellan 50 och 500 MB beroende på valvets storlek och antalet bilagor.
+Om du importerar på en annan enhet, se till att den exporterade filen är tillgänglig där. Ladda upp den till en delad enhet, skicka den till dig själv via e-post, eller använd AirDrop. Filstorleken beror på valvets storlek och antalet bilagor, upp till en gräns på 500 MB per export.
 
 6
 
@@ -56,18 +56,18 @@ Starta Travel Document Vault på enheten du vill importera till. Gå till Instä
 
 ### Välj den exporterade filen och bekräfta
 
-Gå till där du sparade den exporterade valvfilen, välj den och bekräfta. Appen dekrypterar och importerar alla profiler, dokument och bilagor. Processen tar några sekunder.
+Gå till platsen där du sparade den exporterade valvfilen och välj den. Appen varnar för att importen ersätter allt på denna enhet. Tryck på Importera för att fortsätta och ange sedan lösenordet du valde vid exporten. Appen dekrypterar och importerar de profiler, dokument och bilagor som ingår i säkerhetskopian.
 
 8
 
 ### Kontrollera att all data finns med
 
-Efter importen, kontrollera fliken Profiler för att bekräfta att alla profiler visas. Öppna några dokument för att verifiera att bilagorna är intakta. Importprocessen ersätter all befintlig data på den här enheten.
+Efter importen, kontrollera fliken Familj för att bekräfta att alla profiler visas. Öppna några dokument för att verifiera att bilagorna är intakta. Importprocessen ersätter all befintlig data på den här enheten.
 
 ### Viktigt att veta
 
 - **Ersätter befintlig data:** Import rensar först det som finns på målenheten. Om du redan har profiler på målenheten, exportera dem innan du importerar.
-- **Fullständig återgivning:** Allt bevaras exakt: dokumentnamn, datum, påminnelser om utgångsdatum, anpassade färger, bilagor och anteckningar.
+- **Fullständig återgivning:** Filen överför valvfält som stöds och utvalda inställningar. Saknade bilagor eller oläsbara anteckningar kan utelämnas. Kontrollera dina importerade dokument och påminnelser. Applås och andra enhetsinställningar förblir lokala.
 - **Krypterad hela vägen:** Den exporterade filen krypteras med lösenordet du väljer när du exporterar den, med AES-256-GCM och PBKDF2-nyckelderivering. Bara det lösenordet kan dekryptera filen, så förvara det på ett säkert ställe – utan det går filen inte att återställa.
 - **God praxis för säkerhetskopior:** Förvara din exporterade fil på en säker plats. Ta bort den efter en lyckad import om du vill, eller behåll den som en offline-säkerhetskopia.
 

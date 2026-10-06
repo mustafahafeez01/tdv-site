@@ -67,25 +67,25 @@ Wenn Ihr Google-Konto kompromittiert ist, kann jemand mit Zugriff Ihre Reisepass
 
 ## Möglichkeit 3: Dedizierte verschlüsselte Apps
 
-Eine dedizierte verschlüsselte App, die speziell für Reisedokumente entwickelt wurde, funktioniert vollständig auf Ihrem Gerät und lädt Daten niemals auf externe Server hoch.
+Travel Document Vault speichert Dokumente standardmäßig auf Ihrem Telefon. Sie können Kopien teilen oder exportieren oder mit Pro in Ihrem eigenen iCloud oder Google Drive sichern.
 
 ### Funktionsweise
 
-Wenn Sie einen Reisepass-Scan zur App hinzufügen, wird er mit AES-256 verschlüsselt und vollständig auf Ihrem Telefon gespeichert. Die App funktioniert vollständig offline – kein Konto erforderlich, kein Server erforderlich. Wenn Sie Geräteübergreifenden Zugriff wünschen, sichert eine optionale Pro-Funktion eine verschlüsselte Kopie in Ihrem eigenen iCloud oder Google Drive, versiegelt mit einem Recovery-Code, den nur Sie halten.
+Wenn Sie einen Reisepass-Scan zur App hinzufügen, wird er mit AES-256 verschlüsselt und vollständig auf Ihrem Telefon gespeichert. Die App funktioniert vollständig offline – kein Konto erforderlich, kein Server erforderlich. Mit Pro können Sie eine verschlüsselte Kopie in Ihrem eigenen iCloud oder Google Drive sichern und zwischen eingerichteten Geräten derselben Plattform synchronisieren. Sie benötigen Ihren Wiederherstellungscode, um ein Cloud-Backup wiederherzustellen.
 
 ### Sicherheitseigenschaften
 
-- **AES-256-Verschlüsselung auf dem Gerät:** Ja. Daten verlassen Ihr Telefon niemals.
-- **Konto erforderlich:** Nein. Kein Konto, kein Server, keine Anmeldung.
-- **Cloud-Upload:** Nein. Keine.
+- **AES-256-Verschlüsselung auf dem Gerät:** Ja. Die Daten bleiben auf Ihrem Telefon, sofern Sie sie nicht teilen oder exportieren oder verschlüsselte Backups in Ihrem eigenen iCloud oder Google Drive (Pro) aktivieren.
+- **Konto erforderlich:** Nein. Kein TDV-Konto und keine Anmeldung; optionale verschlüsselte Backups in Ihrem eigenen iCloud oder Google Drive (Pro) nutzen Ihr Cloud-Konto.
+- **Cloud-Upload:** Optionale verschlüsselte Backups in Ihrem eigenen iCloud oder Google Drive (Pro); Sie können Kopien auch teilen oder exportieren.
 - **Funktioniert offline:** Ja, vollständig.
 - **Für Identitätsdokumente konzipiert:** Ja. Die gesamte Architektur ist optimiert, um sensible Dokumente privat zu halten.
 
 ### Kompromisse
 
-Die Sicherheitsvorteile sind erheblich: Ihre Reisepassdaten werden niemals auf einem Remote-Server übertragen oder gespeichert, daher ist es niemals für jemand anderen zugänglich, und es gibt keinen Remote-Server zum Kompromittieren, wenn jemand unbefugten Zugriff auf die Systeme des App-Unternehmens erhält. Dies bedeutet, dass Sie jederzeit vollständige Kontrolle und Eigentum an Ihren Dokumenten behalten.
+Travel Document Vault bewahrt Ihre Dokumente standardmäßig auf Ihrem Telefon auf. Teilen und Export sind optional, ebenso wie verschlüsselte Backups in Ihrem eigenen iCloud oder Google Drive mit Pro.
 
-Dieser Entwurf bringt jedoch reduzierte Bequemlichkeit mit sich, da Sie nicht automatisch auf Ihre Reisepasskopie über mehrere Geräte hinweg zugreifen können. Wenn Sie Ihr Telefon verlieren, stellt die App Ihre Dokumente nicht automatisch wieder her – Sie müssten manuell aus einer Sicherung wiederherstellen. Für die meisten Familien, die zusammen reisen, ist das Speichern von Dokumenten auf dem Telefon eines Elternteils ausreichend, und viele Apps unterstützen manuelles Syncing über Sicherung, was eine Ebene der Flexibilität hinzufügt, ohne dass automatischer Cloud-Upload erforderlich ist.
+Mit Pro können Sie Dokumente zwischen eingerichteten Geräten derselben Plattform synchronisieren. Wenn Sie Ihr Telefon verlieren, stellen Sie ein gespeichertes Backup wieder her. Für die Cloud-Wiederherstellung benötigen Sie Ihren Wiederherstellungscode. Für die meisten Familien, die zusammen reisen, ist das Speichern von Dokumenten auf dem Telefon eines Elternteils ausreichend, und viele Apps unterstützen manuelles Syncing über Sicherung, was eine Ebene der Flexibilität hinzufügt, ohne dass automatischer Cloud-Upload erforderlich ist.
 
 ## Direkter Vergleich
 
@@ -95,8 +95,8 @@ Dieser Entwurf bringt jedoch reduzierte Bequemlichkeit mit sich, da Sie nicht au
 | End-zu-End-verschlüsselt | Optional (Advanced Data Protection) | Nein | Ja (immer) |
 | Konto erforderlich | Ja (Apple ID) | Ja (Google-Konto) | Nein |
 | Funktioniert vollständig offline | Nein (benötigt Synchronisierung) | Nein (benötigt Synchronisierung) | Ja |
-| Risiko einer Remote-Datenpanne | Mittel (Apples Server) | Mittel bis hoch (Googles Server und Inhaltsanalyse) | Keine (kein Remote-Speicher) |
-| Geräteübergreifender Zugriff | Automatisch | Automatisch | Nur manuelle Sicherung |
+| Risiko einer Remote-Datenpanne | Mittel (Apples Server) | Mittel bis hoch (Googles Server und Inhaltsanalyse) | Optionales verschlüsseltes Backup in Ihrem eigenen iCloud oder Google Drive (Pro) |
+| Geräteübergreifender Zugriff | Automatisch | Automatisch | Manueller Tresor-Export; optionale automatische Cloud-Sicherung und Synchronisierung (Pro) |
 | Kosten | Kostenlos (200 GB), dann bezahlt | Kostenlos (15 GB), dann bezahlt | Normalerweise einmaliger Kauf |
 | Für Identitätsdokumente konzipiert | Nein | Nein | Ja |
 
@@ -130,7 +130,7 @@ Google Fotos ist standardmäßig nicht End-zu-End-verschlüsselt. Google indexie
 
 ### Welche Vorteile hat eine dedizierte verschlüsselte App zum Speichern von Reisepässen?
 
-Eine dedizierte verschlüsselte App, die speziell für Reisedokumente entwickelt wurde, speichert Daten normalerweise auf dem Gerät mit AES-256-Verschlüsselung, benötigt kein Konto oder Cloud-Upload, funktioniert offline und hat eine viel kleinere Angriffsfläche. Da Ihre Reisepassdaten Ihr Telefon nie verlassen, gibt es keinen Remote-Server zum Kompromittieren. Der Kompromiss besteht in reduzierter Bequemlichkeit für Geräteübergreifenden Zugriff, aber für sicherheitsorientierte Benutzer ist dies die sicherste verfügbare Speichermethode.
+Travel Document Vault verschlüsselt Ihre Original-Dokumentdateien mit AES-256 und ermöglicht Ihnen, sie offline ohne App-Konto anzusehen. Sie können Kopien teilen oder exportieren. Pro ergänzt optionale verschlüsselte Backups in Ihrem eigenen iCloud oder Google Drive sowie die Synchronisierung zwischen eingerichteten Geräten derselben Plattform.
 
 ### Kann ich mehrere Speichermethoden für denselben Reisepass verwenden?
 

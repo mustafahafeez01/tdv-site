@@ -82,7 +82,7 @@ Un'app con acquisto una tantum, al contrario, rimane completamente funzionale in
 
 ## Come Travel Document Vault Affronta Questo
 
-**Travel Document Vault** incarna l'approccio incentrato sulla privacy e offline-first descritto sopra. I dati rimangono sul tuo dispositivo, crittografati con AES-256 — nessun account richiesto. Puoi facoltativamente eseguire il backup di dati crittografati sul tuo iCloud o Google Drive (funzionalità Pro). Supporta più viaggiatori, tracciamento della scadenza di passaporti e visti e funziona completamente offline. Disponibile su App Store come [acquisto una tantum, senza abbonamento](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8).
+**Travel Document Vault** conserva i tuoi documenti sul dispositivo con crittografia AES-256, senza un account per l’app. I documenti salvati e i promemoria di scadenza di passaporti e visti sono disponibili offline. Puoi condividere o esportare copie, oppure usare il backup cloud crittografato sul tuo iCloud o Google Drive con Pro. Pro ti permette anche di aggiungere tutta la famiglia. L’app si scarica gratuitamente; Pro è un [acquisto in-app una tantum, senza abbonamento](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8).
 
 ## Una Checklist Pratica Prima del Download
 

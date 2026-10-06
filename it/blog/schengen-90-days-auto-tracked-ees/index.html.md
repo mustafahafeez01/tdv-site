@@ -72,7 +72,7 @@ Il metodo manuale viene prima, perché è gratuito e ufficiale: prenda oggi e gu
 
 Per una persona che fa una vacanza o due all'anno, è interamente gestibile. Diventa più difficile quando i viaggi si sovrappongono e le persone si moltiplicano: un viaggiatore d'affari che fa piccoli salti ogni mese, o una famiglia dove un bambino è in uno scambio scolastico, un altro ha date di campo estivo, e un partner vola via prima. Ogni persona porta la Sua propria finestra mobile, e le finestre non si allineano. Questa è la situazione dove uno strumento di tracciamento smette di essere un gadget e inizia a essere come evita un errore costoso — la Nostra [guida al tracciamento di visti e ingressi](https://traveldocumentvault.com/it/blog/visa-expiry-tracker-app/) copre il problema più ampio.
 
-Una nota di onestà: nessuna app può leggere il Suo record EES, neppure la nostra. Quello che fa un tracker è applicare l'aritmetica ufficiale 90/180 alle date di viaggio che Le fornisce, continuamente, per ogni viaggiatore che aggiunge. La frontiera conta quello che è successo; un buon tracker mostra quello che può ancora fare.
+Travel Document Vault non legge il Suo record EES. Con Pro conta i viaggi salvati rispetto ai limiti di giorni per paese che imposta. Non calcola un totale 90/180 per l’intera area Schengen: verifichi separatamente il tempo complessivo trascorso nell’area.
 
 ## Tre Cose che EES Non È
 
@@ -108,7 +108,7 @@ No. EES è attivo adesso e registra il Suo ingresso e uscita alla frontiera. ETI
 
 ### Come Travel Document Vault aiuta con la regola 90/180?
 
-L'app conta i giorni per persona, per paese, in tutti i Suoi viaggi verso quel paese, e proietta la Sua finestra mobile in avanti così può vedere cosa può ancora prenotare. Non legge il Suo record EES — nessuna app può — ma con Pro applica un conteggio mobile 90/180 ai Suoi viaggi verso ogni paese per cui imposta un limite, così i giorni rimasti lì di ogni membro della famiglia sono visibili a colpo d'occhio.
+Con Pro, l’app conta i giorni dei viaggi salvati per persona e per paese e proietta in avanti la finestra mobile per i limiti impostati. Non legge il Suo record EES e non calcola un totale 90/180 per l’intera area Schengen. Può vedere i giorni rimanenti di ogni familiare per un paese, ma deve verificare separatamente il totale Schengen.
 
 ## Articoli Correlati
 

@@ -1,16 +1,16 @@
 # Scansiona, Monitora, Proteggi i Tuoi Documenti
 
-> Scansione OCR, promemoria di scadenza, trip planner, profili famiglia, tracciamento limiti giorni, backup crittografato. Nessun account, nessun server.
+> Scansiona passaporti, ricevi promemoria di scadenza offline senza account. Pro: profili familiari, limiti di giorni per paese secondo le tue regole.
 
 Source: https://traveldocumentvault.com/it/features/
 
 ---
 
-Privacy prima di tutto. Solo sul dispositivo. Nessun account necessario.
+Privacy prima di tutto. Sul dispositivo per impostazione predefinita. Nessun account necessario.
 
 # Monitora Tutto. Non Ricordare Nulla.
 
-Un organizzatore di documenti di viaggio per genitori ansiosi, viaggiatori frequenti e chi vola per la prima volta: documenti in un unico posto, avvisi di scadenza attivi, tranquillità intatta.
+Puoi conservare passaporti, visti, patenti di guida, carte d’identità nazionali, documenti di assicurazione viaggio e qualsiasi altro documento di viaggio. Con Pro, l’app supporta più profili per gestire i documenti di tutta la famiglia in un unico posto.
 
 ![Scarica su App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 
@@ -18,45 +18,45 @@ Un organizzatore di documenti di viaggio per genitori ansiosi, viaggiatori frequ
 
 [Informazioni sulla nostra politica delle versioni →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
-## Non Perdere Mai una Data di Viaggio
+## Pianifica i viaggi e tieni traccia dei limiti di giorni
 
-Funzionalità pensate per ogni famiglia che viaggia.
+Con Pro, pianifica insieme i viaggi, tieni traccia delle franchigie e dei limiti dei visti.
 
 Pro
 
 ### Tutti Pronti, A Colpo d'Occhio
 
-Raggruppa i documenti per viaggio. Vedi la disponibilità della famiglia a colpo d'occhio con il semaforo. Identifica i problemi settimane prima, non in aeroporto.
+Raggruppa i documenti della famiglia per viaggio. Il semaforo mostra a colpo d’occhio quali documenti collegati richiedono attenzione rispetto alle date di viaggio salvate. Identifica i problemi settimane prima, non in aeroporto.
 
 Pro
 
 ### Tuo Cloud. Tua Chiave.
 
-Backup crittografato opzionale nel Suo iCloud o Google Drive personale. Lei detiene il codice di ripristino. Non vi accediamo mai. Sincronizzazione multi-dispositivo senza fiducia necessaria.
+Backup crittografato facoltativo (Pro) sul Suo iCloud o Google Drive. Ripristini con il codice di recupero. Attivi la sincronizzazione per usare lo stesso vault su dispositivi supportati della stessa piattaforma.
 
 Pro
 
 ### Traccia Giorni all'Estero
 
-Traccia i giorni trascorsi in ogni paese, per viaggio e per membro della famiglia. Imposta obiettivi di limite giornaliero personalizzati in modo da sapere sempre dove stai con le durate dei visti e i requisiti di ingresso. Verifica le regole con il [Centro Viaggi IATA](https://www.iatatravelcentre.com/) per la tua destinazione.
+Con Pro, tieni traccia dei giorni trascorsi in ogni paese, per viaggio e per familiare. Confronta i giorni dei viaggi salvati con i limiti per paese che inserisci. Verifica le regole con il [Centro Viaggi IATA](https://www.iatatravelcentre.com/) per la tua destinazione.
 
 Pro
 
 ### Franchigie di Viaggio
 
-Definisci soglie limite di giorni personalizzate per paese e per membro della famiglia. Imposta i tuoi obiettivi per stare al corrente di quanti giorni hai trascorso all'estero — come funzionano le tue regole di viaggio.
+Con Pro, definisci limiti di giorni personalizzati per paese e per familiare. Imposta i tuoi obiettivi per tenere traccia dei giorni coperti dai viaggi salvati, usando una finestra di conteggio fissa o mobile.
 
 Pro
 
 ### Esportazione PDF Viaggio
 
-Esporta qualsiasi viaggio come PDF raffinato: pagina di copertina, passaporti dei membri, itinerario, attività e documenti in ordine. Le esportazioni Pro sono pulite e non marcate, pronte per condividere con compagnie aeree, ambasciate o famiglia.
+Con Pro, esporta qualsiasi viaggio come PDF raffinato: pagina di copertina, passaporti dei membri, itinerario, attività e documenti in ordine. Le esportazioni sono pulite e non marcate, pronte per condividere con compagnie aeree, ambasciate o famiglia.
 
 Pro
 
 ### Pronto all'Imbarco
 
-Allega numeri di volo, conferme hotel e riferimenti prenotazione a qualsiasi viaggio. Documenti e prenotazioni in un unico posto — tocca una volta al check-in. Nulla da cercare al gate.
+Con Pro, allega numeri di volo, conferme hotel e riferimenti prenotazione a qualsiasi viaggio. Documenti e prenotazioni in un unico posto — tocca una volta al check-in. Nulla da cercare al gate.
 
 Gestione documenti
 
@@ -64,7 +64,7 @@ Gestione documenti
 
 ### Passaporti
 
-Acquisisci sia la pagina foto che la pagina dati. La scansione MRZ legge la zona leggibile dalla macchina per compilare automaticamente nome, numero e data di scadenza all'istante.
+Acquisisci il passaporto aperto in un’unica foto. La scansione MRZ legge la zona a lettura ottica per compilare la data di scadenza e il paese di rilascio quando riesce. Conferma i risultati o inseriscili manualmente. Il riconoscimento del testo avviene sul dispositivo.
 
 ### Archiviazione crittografata
 
@@ -76,11 +76,11 @@ Acquisizione fronte/retro in un unico documento. Perfetto per patenti di guida, 
 
 ### Assicurazioni e tessere sanitarie
 
-Conserva tessere sanitarie, polizze di assicurazione di viaggio e ricette ripetute con promemoria di scadenza. Non perdere mai un rinnovo o rimanere senza preavviso.
+Conserva tessere sanitarie, polizze di assicurazione di viaggio e ricette ripetute con promemoria di scadenza. I promemoria iniziano tre mesi prima della scadenza per impostazione predefinita.
 
 ### Visti e documenti
 
-Supporto speciale A5 / mezza pagina per timbri e adesivi di visto. Supporto completo A4 per e-visa, polizze di assicurazione di viaggio e documenti di grandi dimensioni. Supporta file multipagina.
+Supporto speciale A5 / mezza pagina per timbri e adesivi di visto. Supporto completo A4 per e-visa, polizze di assicurazione di viaggio e documenti di grandi dimensioni. Supporta file multipagina con Pro.
 
 ### Biglietti aerei
 
@@ -118,17 +118,17 @@ Conserva carte regalo, codici sconto, biglietti per eventi e pass per attrazioni
 
 ### Posticipa Promemoria
 
-Sospendi qualsiasi promemoria di scadenza senza modificare il documento. Rimanda il promemoria per un giorno, una settimana o un mese — il promemoria riprende automaticamente quando il periodo di rinvio termina.
+Sospendi qualsiasi promemoria di scadenza senza modificare il documento. Riprogramma un promemoria selezionato tra un’ora, tre ore, domani o la prossima settimana.
 
 ### Codice Colore per i Documenti
 
-Assegna un colore a qualsiasi tipo di documento o a un documento individuale per il riconoscimento visivo istantaneo. Sovrascrivi i colori per profilo in modo che l'insieme dei documenti di tutta la famiglia sia facile da navigare a colpo d'occhio.
+Con Pro, assegna un colore a qualsiasi tipo di documento o a un documento individuale per il riconoscimento visivo istantaneo. Sovrascrivi i colori per profilo in modo che l'insieme dei documenti di tutta la famiglia sia facile da navigare a colpo d'occhio.
 
 ### Esportazione, backup e ripristino
 
 PRO
 
-Genera PDF combinati da più documenti e salva il Suo caveau crittografato sul proprio iCloud o Google Drive, con ripristino in un tocco su qualsiasi dispositivo. L'esportazione e il ripristino gratuiti del caveau sono sempre inclusi.
+L’esportazione e l’importazione del vault sono gratuite per tutti. Pro aggiunge PDF combinati e backup cloud crittografato sul Suo iCloud o Google Drive. Ripristini i backup cloud con il codice di recupero su un dispositivo compatibile della stessa piattaforma, usando lo stesso account cloud.
 
 Acquisizione intelligente
 
@@ -156,7 +156,7 @@ Promemoria intelligenti
 
 ## Rimani Sempre Avanti Sulle Scadenze
 
-Il rinnovo medio del passaporto richiede **6-8 settimane**. La avvisiamo **8 mesi prima**, non 6 giorni.
+I promemoria si attivano automaticamente, con un calendario diverso per ciascun tipo di documento. Per i passaporti iniziano **8 mesi prima della scadenza**, poi **6 mesi**, 3 mesi, 6 settimane, 1 mese, 2 settimane e 1 settimana, con ulteriori promemoria il giorno della scadenza e dopo. Per visti, carte d’identità nazionali e assicurazioni viaggio iniziano 3 mesi prima. Per biglietti aerei, prenotazioni alberghiere e voucher iniziano una settimana prima. Gli utenti Pro possono scegliere un momento di inizio diverso per ogni documento.
 
 #### Promemoria per il passaporto
 
@@ -168,7 +168,7 @@ Il rinnovo medio del passaporto richiede **6-8 settimane**. La avvisiamo **8 mes
 
 #### Promemoria per biglietti aerei
 
-1 settimana 2 giorni 1 giorno 24 ore Giorno di partenza
+1 settimana 2 giorni 1 giorno 24 ore
 
 I **promemoria post-scadenza** (mostrati in arancione) aiutano a tenere traccia dei documenti scaduti. Anche se si è persa la data di scadenza, si riceveranno comunque promemoria per il rinnovo, perfetti per i documenti che scadono durante un viaggio.
 
@@ -178,7 +178,7 @@ Profili familiari
 
 ### Profili separati
 
-Crea un profilo per ogni membro della famiglia. Mantieni i documenti di tutti organizzati e facili da trovare.
+Con Pro, crea un profilo per ogni membro della famiglia. Mantieni i documenti di tutti organizzati e facili da trovare.
 
 ### Visualizzazioni per profilo
 
@@ -206,7 +206,7 @@ Si adatta alle impostazioni di sistema. Splendido in entrambe le modalità.
 
 Scorri tra i lati del documento. Pizzica per ingrandire fino a 5x per un'ispezione dettagliata.
 
-### Anteprima rapida
+### Visualizzatore PDF integrato
 
 Integrazione nativa per la visualizzazione di PDF. Veloce, familiare e ricca di funzionalità.
 
@@ -218,11 +218,11 @@ Disponibile in oltre 40 lingue, così l'app sembra nativa ovunque Lei si trovi.
 
 ### Accessibile per progettazione
 
-Supporto completo VoiceOver e TalkBack. Il tipo dinamico adatta ogni etichetta alla dimensione del font di sistema. Ogni pulsante rispetta il target di tocco minimo di 44pt.
+Progettato per VoiceOver e TalkBack. Il testo si adatta alla dimensione del font di sistema e gli stili condivisi dei controlli puntano ad aree di tocco di 44pt (48dp su Android).
 
 ### Feedback aptico curato
 
-Un feedback aptico sottile conferma ogni azione. Salvataggi, eliminazioni e scansioni hanno tutti risposte tattili distinte così sa sempre che qualcosa ha funzionato.
+Le azioni principali usano il feedback aptico quando è supportato dal dispositivo.
 
 Privacy e sicurezza
 
@@ -230,11 +230,11 @@ Privacy e sicurezza
 
 ### I Suoi dati rimangono Suoi
 
-Abbiamo progettato questa app affinché non sia necessario affidarci i propri dati. Non abbiamo server né accesso. Solo Lei e il Suo dispositivo.
+Abbiamo progettato questa app affinché non sia necessario affidarci i propri dati. Non abbiamo server che conservano i documenti né accesso ai documenti. Solo Lei e il Suo dispositivo.
 
 ### Funziona offline
 
-Nessuna connessione Internet richiesta. Funziona completamente offline.
+I dati del vault sono crittografati sul dispositivo; i file dei documenti usano AES-256-GCM. I documenti salvati, le date di scadenza e i promemoria programmati funzionano offline.
 
 ### Nessun tracciamento
 
@@ -242,11 +242,11 @@ Nessuna analisi. Nessuna pubblicità. Nessun SDK nascosto che raccoglie i dati.
 
 ### Notifiche private
 
-I promemoria non rivelano mai i dettagli del documento. Solo "Un documento sta per scadere."
+I promemoria non includono immagini delle scansioni né un campo separato per il numero del documento. Il testo può includere il titolo salvato del documento: eviti di inserirvi numeri sensibili.
 
 ### È Lei a controllare la condivisione
 
-I dati escono solo quando si sceglie esplicitamente di condividerli tramite il foglio di condivisione di sistema. Include avvisi per contenuti sensibili.
+I file dei documenti lasciano il dispositivo quando sceglie di condividerli tramite il menu di condivisione del sistema, esportarli o attivare il backup crittografato (Pro). Include avvisi per contenuti sensibili.
 
 ### Blocco PIN
 
@@ -258,11 +258,11 @@ Sblocchi con Face ID o Touch ID invece del PIN. Gratuito per tutti gli utenti. R
 
 ### Protezione da cattura schermo
 
-Le schermate dei documenti sono automaticamente protette da screenshot e registrazioni dello schermo. Le informazioni sensibili rimangono sullo schermo, non nel rullino di qualcun altro.
+La protezione dalle acquisizioni dello schermo è attiva per impostazione predefinita nelle schermate dei documenti, dove supportata. Aiuta a ridurre le copie accidentali.
 
 ### Archiviazione crittografata
 
-I documenti vengono crittografati sul dispositivo con crittografia standard del settore. I dati sono protetti anche se il dispositivo viene compromesso.
+I documenti vengono crittografati sul dispositivo con crittografia standard del settore. Per leggere i file dei documenti crittografati serve la loro chiave di crittografia; gli originali condivisi sono leggibili.
 
 Operazioni in batch
 
@@ -276,17 +276,17 @@ Premi a lungo su qualsiasi scheda documento per accedere istantaneamente alle az
 
 PRO
 
-Tocca "Seleziona" per scegliere più documenti contemporaneamente. Usa il menu Azioni unificato per esportare in batch, condividere o eliminare la selezione.
+Tocca "Seleziona" per scegliere più documenti contemporaneamente. Usa il menu Azioni unificato per esportare o condividere in batch (Pro), oppure eliminare la selezione.
 
 ### Condivisione batch
 
 PRO
 
-Condividi più file di documenti originali contemporaneamente tramite il foglio di condivisione del dispositivo (email, messaggistica e altro). I file vengono decrittografati in modo sicuro solo durante la condivisione.
+Con Pro, condivida più file originali tramite menu di condivisione successivi del dispositivo (email, messaggistica e altro). L’app decrittografa gli originali per condividerli, ma anche per consultarli e modificarli.
 
 #### Eliminazione sicura con annullamento
 
-Eliminato accidentalmente un documento? Tocca Annulla immediatamente per ripristinarlo. Hai perso la finestra? Si sposta in Eliminati di recente, dove rimane per 30 giorni prima dell'eliminazione permanente — dandoti una rete di sicurezza senza compromettere la tua privacy.
+Eliminato accidentalmente un documento? Tocca Annulla immediatamente per ripristinarlo. Hai perso la finestra? Si sposta in Eliminato di Recente. Quando il backup cloud è disattivato, l’app lo elimina automaticamente dopo 30 giorni; con il backup attivo resta finché non lo elimini definitivamente. Puoi anche eliminarlo definitivamente prima.
 
 **Importante:** Travel Document Vault è uno strumento di organizzazione personale per archiviare copie digitali dei propri documenti. **Le copie digitali archiviate in questa app NON sono valide per viaggiare.** Non verifica l'autenticità dei documenti né fornisce consulenza legale o di viaggio. Portare sempre i documenti originali e verificare tutti i requisiti di viaggio con le fonti governative ufficiali.
 

@@ -30,9 +30,9 @@ Non devi fidarti di noi. Puoi confermare ogni affermazione qui sopra con strumen
 
 ### 1. Test del traffico di rete
 
-Installa un monitor di rete come **mitmproxy** (gratuito, open source), **Wireshark** (gratuito, open source), o **Charles Proxy**. Apri Travel Document Vault, scansiona un documento, sfoglia il tuo vault e imposta un promemoria. Non dovresti vedere i tuoi documenti, scansioni, date di scadenza o contenuti del vault inviati a Travel Document Vault. Il traffico di rete dovrebbe limitarsi a funzioni specifiche: rapporti di arresto di Sentry opzionali, controlli di acquisto dell'App Store o di Google Play, backup cloud opzionale sul tuo account iCloud o Google Drive personale, e un controllo manuale delle correzioni di bug spiegato di seguito.
+Installa un monitor di rete come **mitmproxy** (gratuito, open source), **Wireshark** (gratuito, open source), o **Charles Proxy**. Apri Travel Document Vault, scansiona un documento, sfoglia il tuo vault e imposta un promemoria. Non dovresti vedere i tuoi documenti, scansioni, date di scadenza o contenuti del vault inviati a Travel Document Vault. Il traffico di rete dovrebbe limitarsi a funzioni specifiche: rapporti di arresto di Sentry opzionali, controlli di acquisto dell'App Store o di Google Play, backup cloud opzionale sul tuo account iCloud o Google Drive personale, e un controllo delle correzioni di bug spiegato di seguito.
 
-Le impostazioni hanno un pulsante **Check for Updates**. È un controllo manuale, mai automatico — viene eseguito solo quando lo tocchi tu stesso, mai in background e mai da solo. Il controllo contatta **updates.traveldocumentvault.com** — il nostro server di aggiornamenti, gestito da noi su Google Cloud, che fornisce file di aggiornamento firmati crittograficamente da un bucket di archiviazione. Non registriamo il controllo: i registri di richiesta sono disabilitati da parte nostra, quindi nessun indirizzo IP viene conservato. Ogni aggiornamento è firmato con una chiave che solo noi possediamo, e l'app rifiuta tutto ciò la cui firma non corrisponde al certificato integrato in essa. Lo stesso tocco verifica anche se sull'**App Store** o su **Google Play** è disponibile una versione più recente dell'app. Questa funzione esiste per permettere ad alcune correzioni di bug di raggiungerti più rapidamente rispetto ad attendere una release completamente nuova sull'App Store o Google Play, utile per correzioni urgenti, a seconda della natura della correzione. Vale la stessa regola di tutto il resto di questa pagina: nessuna chiamata di rete senza che tu la richieda.
+Impostazioni ha un pulsante **Verifica aggiornamenti**. Questo controllo è disattivato per impostazione predefinita: viene eseguito quando lo tocchi, oppure una volta a ogni avvio dell’app se attivi Verifica gli aggiornamenti all’apertura. Un download già iniziato può continuare quando l’app passa in background. Il controllo contatta **updates.traveldocumentvault.com** — il nostro server di aggiornamenti, gestito da noi su Google Cloud, che fornisce file di aggiornamento firmati crittograficamente da un bucket di archiviazione. Il gestore degli aggiornamenti non scrive registri applicativi delle richieste. Ogni aggiornamento è firmato con una chiave che solo noi possediamo, e l'app rifiuta tutto ciò la cui firma non corrisponde al certificato integrato in essa. Lo stesso tocco verifica anche se sull'**App Store** o su **Google Play** è disponibile una versione più recente dell'app. Questa funzione esiste per permettere ad alcune correzioni di bug di raggiungerti più rapidamente rispetto ad attendere una release completamente nuova sull'App Store o Google Play, utile per correzioni urgenti, a seconda della natura della correzione. L’archiviazione dei documenti non richiede la rete; i controlli degli acquisti e le funzioni facoltative attivate possono effettuare chiamate di rete automatiche.
 
 ### 2. Rapporto sulla privacy dell'app iOS
 
@@ -42,7 +42,7 @@ Su iPhone, vai a **Impostazioni > Privacy e sicurezza > Rapporto sulla privacy d
 
 Android non ha un unico rapporto sulla privacy integrato come l'iPhone. Due modi semplici per verificarlo tu stesso: guarda la sezione **Data Safety** di questa app nella sua pagina di Google Play (indica chiaramente cosa viene raccolto, cosa viene condiviso, che i tuoi dati sono crittografati in transito e che non possono essere eliminati) — oppure usa un monitor di rete come descritto al passaggio 1 sopra.
 
-Se hai attivato il backup cloud, potresti notare un po' di attività verso i server di Google (indirizzi web che terminano in **googleapis.com**). È normale e sicuro: si tratta solo del tuo file di backup bloccato e crittografato e di un controllo di accesso, inviati direttamente al **tuo** account Google Drive personale — lo stesso che usi già per foto o Gmail. Non lo vediamo mai, non lo riceviamo mai e non ne conserviamo mai una copia da nessuna parte. Solo tu possiedi la chiave di recupero che può sbloccarlo.
+Se hai attivato il backup cloud, potresti notare un po' di attività verso i server di Google (indirizzi web che terminano in **googleapis.com**). Queste connessioni inviano i file crittografati del vault, i controlli di accesso e metadati di backup non crittografati, come nome del dispositivo, conteggi e date e orari, direttamente al **tuo** account Google Drive personale — lo stesso che usi già per foto o Gmail. Non lo vediamo mai, non lo riceviamo mai e non ne conserviamo mai una copia da nessuna parte. Solo tu possiedi la chiave di recupero che può sbloccarlo.
 
 ### 4. Etichette sulla privacy dell'App Store e del Play Store
 
@@ -52,17 +52,17 @@ Sia Apple che Google richiedono agli sviluppatori di dichiarare quali dati racco
 
 Non ci limitiamo a dire che l'app è sicura. Lo verifichiamo, usando gli stessi strumenti aperti e gli stessi standard pubblici adottati dal settore della sicurezza.
 
-### Sottoponiamo l'app a uno standard pubblico
+### Confronta l’app con uno standard pubblico
 
-Valutiamo Travel Document Vault rispetto all'[OWASP Mobile Application Security Verification Standard (MASVS)](https://mas.owasp.org/MASVS/), la checklist di riferimento del settore su come un'app mobile dovrebbe archiviare i dati, utilizzare la crittografia, bloccarsi dietro Face ID o un PIN, e gestire i link provenienti da altre app. Chiunque può leggere lo standard e confrontarlo con il comportamento reale dell'app.
+Puoi confrontare Travel Document Vault con lo standard [OWASP Mobile Application Security Verification Standard (MASVS)](https://mas.owasp.org/MASVS/), la checklist di riferimento del settore su come un'app mobile dovrebbe archiviare i dati, utilizzare la crittografia, bloccarsi dietro Face ID o un PIN, e gestire i link provenienti da altre app. Chiunque può leggere lo standard e confrontarlo con il comportamento reale dell'app.
 
-### Analizziamo il nostro codice
+### Analisi del codice sorgente
 
-Prima di ogni rilascio eseguiamo un'analisi statica del nostro codice con [Semgrep](https://semgrep.dev/), uno strumento open source che segnala schemi non sicuri, come crittografia debole o gestione impropria dei dati, così da correggerli per tempo.
+Strumenti di analisi statica come [Semgrep](https://semgrep.dev/) possono segnalare schemi non sicuri, come crittografia debole o gestione impropria dei dati. È una descrizione del metodo di controllo, non la prova che ogni versione abbia superato una scansione.
 
-### Analizziamo l'app compilata
+### Comportamento dell’app compilata
 
-Esaminiamo anche le nostre build pubblicate con strumenti di scansione della sicurezza per app mobili, verificando come la build archivia i dati, a cosa può accedere e come è firmata.
+L’app crittografa i file dei documenti sul dispositivo e la configurazione degli aggiornamenti richiede un certificato di firma del codice. Puoi verificarne il comportamento in rete con i passaggi sopra.
 
 ### Hai trovato un problema? Segnalacelo
 
@@ -88,7 +88,7 @@ iOS + Android
 
 iOS + Android
 
-**Perché chiediamo:** Per permetterti di importare una foto esistente di un documento e per permettere all'app di esportare file di backup crittografati (.tdvault) quando li richiedi. Su versioni Android più vecchie, READ_EXTERNAL_STORAGE e WRITE_EXTERNAL_STORAGE sono necessari. Su Android 13+, READ_MEDIA_IMAGES viene utilizzato invece.
+**Perché chiediamo:** Per permetterti di importare una foto esistente di un documento. Su Android l’app usa il selettore di foto del sistema, quindi READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE e READ_MEDIA_IMAGES vengono rimossi dalla build finale. I file di backup crittografati (.tdvault) vengono esportati tramite il menu di condivisione del telefono, che non richiede permessi di archiviazione.
 
 **Cosa non facciamo mai:** L'app legge solo l'immagine che selezioni. Non scansiona, indicizza o sfoglia mai la tua libreria fotografica o il file system.
 
@@ -104,7 +104,7 @@ iOS + Android
 
 Android
 
-**Perché chiediamo:** Per fornire i promemoria di scadenza sul dispositivo che hai impostato tu stesso. RECEIVE_BOOT_COMPLETED riprogramma i tuoi promemoria dopo un riavvio del dispositivo. WAKE_LOCK garantisce che i promemoria si attivino in modo affidabile anche quando il telefono è in standby. VIBRATE accompagna la consegna delle notifiche.
+**Perché chiediamo:** Per fornire i promemoria di scadenza dei documenti sul dispositivo. RECEIVE_BOOT_COMPLETED riprogramma i tuoi promemoria dopo un riavvio del dispositivo. WAKE_LOCK supporta la gestione delle notifiche. VIBRATE accompagna la consegna delle notifiche.
 
 **Cosa non facciamo mai:** Non vengono mai inviate notifiche di marketing, promozionali o di terze parti. I promemoria sono interamente programmati sul tuo dispositivo.
 
@@ -112,7 +112,7 @@ Android
 
 Android
 
-**Perché compaiono:** Sono necessari per funzioni che usano la rete: **rapporti di arresto di Sentry** (opt-in, disabilitati per impostazione predefinita), **fatturazione App Store o Google Play** per l'acquisto dell'upgrade Pro, **backup cloud Pro** (opzionale), che sincronizza il tuo vault crittografato con il tuo iCloud o Google Drive personale, e il pulsante manuale **Check for Updates** nelle impostazioni (si attiva solo quando lo tocchi). ACCESS_NETWORK_STATE e ACCESS_WIFI_STATE permettono a queste funzioni di verificare se una connessione è disponibile prima di tentare l'invio.
+**Perché compaiono:** Sono necessari per funzioni che usano la rete: **rapporti di arresto di Sentry** (opt-in, disabilitati per impostazione predefinita), **fatturazione App Store o Google Play** per l'acquisto dell'upgrade Pro, **backup cloud Pro** (opzionale), che sincronizza il tuo vault crittografato con il tuo iCloud o Google Drive personale, e il pulsante **Verifica aggiornamenti** in Impostazioni (si attiva quando lo tocchi o all’apertura se attivi questa opzione). ACCESS_NETWORK_STATE e ACCESS_WIFI_STATE permettono a queste funzioni di verificare se una connessione è disponibile prima di tentare l'invio.
 
 **Cosa non facciamo:** L'app non carica i tuoi documenti, scansioni, date di scadenza, foto o contenuti del vault su Travel Document Vault. Funziona completamente offline per il normale archivio documenti e i promemoria.
 
@@ -122,9 +122,9 @@ Le app Android includono librerie di terze parti per funzioni come acquisti in-a
 
 ### Registra audio
 
-Ereditata, mai utilizzata
+Ereditata, rimossa
 
-**Perché appare:** Questa autorizzazione è dichiarata da una libreria di terze parti inclusa nella compilazione (comunemente il plug-in della fotocamera o dei media). Appare nel manifesto di Android ma non viene mai attivata dal nostro codice. L'app non registra mai audio o video in nessuna circostanza.
+**Perché appare:** Questa autorizzazione è dichiarata dalle librerie della fotocamera incluse nella build. Travel Document Vault la rimuove dal manifesto Android finale, perché l’app acquisisce immagini statiche dei documenti e non registra mai audio o video.
 
 **Come puoi confermare:** L'app non ti chiederà mai l'accesso al microfono. Se controlli il gestore dei permessi del tuo dispositivo, vedrai che la registrazione audio non è concessa a Travel Document Vault.
 
@@ -132,13 +132,13 @@ Ereditata, mai utilizzata
 
 Ereditata
 
-Dichiarata dal framework Flutter per i sovrapposti di sviluppo e debug. Questa autorizzazione non viene utilizzata nella build di rilascio dell'app e non ha alcun effetto sulla tua privacy.
+Dichiarata da una dipendenza del framework React Native per le finestre sovrapposte di sviluppo e debug. Travel Document Vault la rimuove dal manifesto Android finale e non usa finestre sovrapposte.
 
 ### Rileva cattura dello schermo
 
 Ereditata
 
-Dichiarata da una dipendenza del framework. L'app non rileva, blocca o risponde agli screenshot. Questa autorizzazione non ha alcun effetto sul tuo utilizzo.
+Dichiarata da una dipendenza del framework. Travel Document Vault attiva per impostazione predefinita la protezione dalle acquisizioni dello schermo nelle schermate dei documenti, dove supportata. Puoi modificarla in Impostazioni.
 
 ### Autorizzazioni del conteggio dei badge
 
@@ -156,7 +156,7 @@ Dichiarato dalla libreria di fatturazione Google Play (per l'acquisto dell'upgra
 
 Ereditata
 
-Dichiarato da una dipendenza del framework. L'app non scarica file in background.
+Dichiarata da una dipendenza del framework. Un download di aggiornamento iniziato nell’app può continuare quando questa passa in background e iCloud può gestire i trasferimenti di file tramite il sistema operativo.
 
 ### Autorizzazioni che non richiediamo
 

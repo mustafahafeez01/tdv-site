@@ -24,7 +24,7 @@ Un souci de moins.
 
 ## Vos Documents Restent Avec Vous
 
-Je l'ai créé parce que ma propre famille en avait besoin. Vos documents ne peuvent être lus que par vous. Une sauvegarde optionnelle va vers votre propre iCloud ou Google Drive, scellée par un code de récupération que vous seul avez.
+Je l'ai créé parce que ma propre famille en avait besoin. Vos documents enregistrés sont chiffrés sur votre appareil. Une sauvegarde optionnelle va vers votre propre iCloud ou Google Drive, scellée par un code de récupération que vous seul avez.
 
 ### Créé par un Parent
 
@@ -36,19 +36,19 @@ Le serveur le plus sûr pour les scans de passeport n'existe pas du tout. C'est 
 
 ### Chiffrement sur l'Appareil
 
-Les documents sont chiffrés sur votre appareil avec AES-256-GCM, en utilisant des clés conservées dans le Secure Enclave de votre appareil. C'est un chiffrement solide et moderne — et vous devriez toujours protéger votre téléphone avec un code d'accès fort et App Lock.
+Les documents sont chiffrés sur votre appareil avec AES-256-GCM, en utilisant des clés conservées dans le stockage sécurisé des clés de votre appareil. C'est un chiffrement solide et moderne — et vous devriez toujours protéger votre téléphone avec un code d'accès fort et App Lock.
 
 ### Votre Cloud. Votre Clé.
 
-Sauvegarde chiffrée optionnelle (Pro) vers votre iCloud ou Google Drive personnel, avec restauration en un geste sur un nouvel appareil — vous détenez le code de récupération de sorte que nous ne le voyons jamais. L'export gratuit du coffre est toujours inclus.
+L’exportation et l’importation du coffre sont gratuites. Pro ajoute la sauvegarde cloud chiffrée sur votre propre iCloud ou Google Drive. Restaurez-la avec votre code de récupération sur un téléphone compatible de la même plateforme, utilisant le même compte cloud. Nous ne détenons pas votre code.
 
 ### Rappels Intelligents
 
-Les passeports vous alertent dès huit mois avant, puis les rappels se rapprochent — six mois, trois, six semaines, un mois — jusqu'au jour de l'expiration. Chaque type de document a son propre calendrier, prêt dès que vous l'ajoutez.
+Les passeports vous alertent dès huit mois avant, puis les rappels se rapprochent — six mois, trois, six semaines, un mois — jusqu'au jour de l'expiration. Les rappels sont activés par défaut lorsque vous enregistrez une date d’expiration. Pour les pièces d’identité, visas, assurances et autres documents, ils commencent trois mois à l’avance.
 
 ### Logique Intelligente pour les Familles
 
-Nous suivons les règles à votre place. Pays différents, exigences différentes, passeports des enfants qui se renouvellent plus vite. L'application comprend. Vous n'avez pas à le faire.
+Avec Pro, l’application vérifie les passeports associés en fonction de vos dates de voyage, avec une marge de validité de 180 jours après la fin du voyage par défaut. Vérifiez séparément la règle réelle de votre destination.
 
 ### Voici la vérité sur ce que je peux voir
 
@@ -60,7 +60,7 @@ Stockés sur votre appareil uniquement. Je ne peux pas les voir.
 
 Vos détails de document
 
-Noms, numéros, dates d'expiration. Sur votre appareil uniquement.
+Dates d’expiration, pays émetteurs, titres et notes. Sur votre appareil ; des copies peuvent en sortir si vous les partagez ou les exportez, ou activez la sauvegarde cloud chiffrée (Pro).
 
 Vos profils familiaux
 
@@ -70,13 +70,13 @@ Notifications de rappel
 
 Programmées localement sur votre appareil. Je ne connais pas vos dates d'expiration.
 
-Même si quelqu'un piratait mes serveurs... il n'y a pas de serveurs. Il n'y a rien à trouver.
+Aucun serveur Travel Document Vault ne stocke vos documents. Il n'y a rien à trouver.
 
 [Lisez l'histoire du fondateur : Pourquoi j'ai créé une application pour porter une chose de moins dans ma tête →](https://traveldocumentvault.com/fr/blog/)
 
 ## Prêts Quand Vous en Avez Besoin
 
-- **À l'Aéroport :** Affichez les passeports, pièces d'identité et détails de vol pour toute la famille en quelques secondes.
+- **À l'Aéroport :** Affichez les passeports, pièces d'identité et détails de vol pour toute la famille (Pro) en quelques secondes.
 - **Remplir des Formulaires :** Numéros de passeport, détails d'identité, informations d'assurance. Toujours à portée de main.
 - **Demandes de Visa :** Exportez les images de document au format PDF pour l'impression ou le partage. Examinez et ajustez les images avant l'exportation.
 
@@ -88,7 +88,7 @@ Conçu pour les familles qui voyagent partout.
 
 Pro
 
-Feu tricolore de disponibilité familiale. Voyez qui est prêt à voyager et dont les documents arrivent bientôt à expiration.
+Feu tricolore de disponibilité familiale. Voyez quels documents associés nécessitent votre attention en fonction des dates de voyage enregistrées.
 
 ### Votre Cloud. Votre Clé.
 
@@ -100,13 +100,13 @@ Sauvegarde chiffrée dans votre iCloud ou Google Drive. Vous détenez le code de
 
 Pro
 
-Enregistrez les jours que votre famille passe dans chaque pays. Définissez des limites de jours personnalisées et savez exactement où vous en êtes.
+Enregistrez les jours que votre famille passe dans chaque pays. Comparez les jours de voyage enregistrés aux limites de jours par pays que vous saisissez.
 
 ### Profils Illimités pour la Famille
 
 Pro
 
-Ajoutez un profil pour chaque membre de la famille. La version gratuite inclut 1 profil ; Pro déverrouille les profils illimités.
+Ajoutez un profil pour chaque membre de la famille. La version gratuite inclut 1 profil. Pro ajoute des profils familiaux illimités.
 
 ## Pour les Voyages. Pour la Vie. Pour Tout Ce Qui Est Important.
 
@@ -120,7 +120,7 @@ Alertes passeport dès 8 mois avant
 
 Guides pour cadrer les passeports et pièces d'identité
 
-### Exportations Combinées
+### Exportations Combinées (Pro)
 
 Combinez les documents en un seul PDF pour l'impression
 
@@ -132,7 +132,7 @@ Disponible en plus de 40 langues. L'application s'intègre naturellement, où qu
 
 ### Pour Toute la Famille
 
-Vous êtes celui qui se souvient de tout. Ce fardeau ne doit pas peser entièrement sur vous. Organisez les conjoints, les enfants et les grands-parents en un seul endroit sûr.
+Vous êtes celui qui se souvient de tout. Ce fardeau ne doit pas peser entièrement sur vous. Avec Pro, organisez les conjoints, les enfants et les grands-parents en un seul endroit sûr.
 
 ### Tranquillité d'Esprit, Automatisée
 
@@ -154,11 +154,11 @@ Anglais, Español, Français, Deutsch, Italiano, Português (BR), Português (PT
 
 ### Laissez l'Application Taper
 
-La détection automatique de la date vous épargne une saisie fastidieuse. Rapide, pratique et conservé à 100 % en privé sur votre téléphone.
+L’application essaie de lire la date d’expiration sur votre appareil. Confirmez la date détectée ou saisissez-la avant l’enregistrement.
 
 ### Votre Coffre-Fort Privé
 
-Ce qui se passe sur votre téléphone reste sur votre téléphone. Il n'y a pas de serveur cloud impliqué et personne ne regarde par-dessus votre épaule.
+Vos fichiers de documents restent sur votre téléphone, sauf si vous les partagez ou les exportez, ou activez la sauvegarde chiffrée (Pro). Aucun de nos serveurs cloud n’est impliqué et personne ne regarde par-dessus votre épaule.
 
 ### Toujours Là Quand Vous en Avez Besoin
 
@@ -179,15 +179,15 @@ Achat unique. Pas d'abonnements. Pas de frais cachés. Pas d'extraction de donn�
 Toujours gratuit
 
 - Passeports, visas, pièces d'identité et plus
-- Scannez les documents, dates remplies pour vous
+- Scannez les documents et confirmez les dates d’expiration lues
 - Rappels d'expiration
 - Partager des documents individuels
 - PIN + Verrouillage Biométrique (Face ID / Touch ID)
 - 1 profil
 - Jusqu'à 5 documents
-- Récemment supprimés — fenêtre d'annulation de 30 jours
+- Récemment supprimé — restauration pendant 30 jours
 
-Toutes les données restent sur votre appareil. Toujours.
+Enregistrez sur votre appareil. Partagez, exportez ou utilisez la sauvegarde cloud Pro.
 
 Meilleure Valeur
 
@@ -195,9 +195,9 @@ Meilleure Valeur
 
 Achat unique
 
-Pour toute votre famille. Payez une fois. Toutes les mises à jour v1.x incluses, à jamais.
+Pour toute la famille. Un paiement. Mises à jour v1.x incluses à jamais.
 
-[À propos de notre politique de version →](https://traveldocumentvault.com/pricing-policy/#version-policy)
+[Notre politique de version →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
 - Planificateur de voyage avec feu tricolore de disponibilité familiale
 - Sauvegarde Votre Cloud (iCloud ou Google Drive, chiffrement de bout en bout)
@@ -208,25 +208,25 @@ Pour toute votre famille. Payez une fois. Toutes les mises à jour v1.x incluses
 - Tableau de bord d'expiration familial complet
 - Documents multi-pages (jusqu'à 10 pages)
 - Minutage de rappel personnalisé
-- Exportation PDF combinée pour l'impression
-- Exportation par lots de documents
+- Export PDF combiné pour l'impression
+- Export de documents par lots
 
 ### Gratuit
 
-Tout ce dont vous avez besoin pour voyager en solo
+Tout le nécessaire pour voyager en solo
 
 Gratuit
 
 - Passeports, visas, pièces d'identité et plus
-- Scannez les documents, dates remplies pour vous
+- Scannez les documents et confirmez les dates d’expiration lues
 - Rappels d'expiration
 - Partager des documents individuels
 - PIN + Verrouillage Biométrique (Face ID / Touch ID)
 - 1 profil
 - Jusqu'à 5 documents
-- Récemment supprimés — fenêtre d'annulation de 30 jours
+- Récemment supprimé — restauration pendant 30 jours
 
-Toutes les données restent sur votre appareil. Toujours.
+Enregistrez sur votre appareil. Partagez, exportez ou utilisez la sauvegarde cloud Pro.
 
 Pour les familles
 
@@ -234,9 +234,9 @@ Pour les familles
 
 Déverrouillez le coffre-fort complet pour votre famille
 
-Achat unique paiement unique Pour toute votre famille. Payez une fois. Toutes les mises à jour v1.x incluses, à jamais.
+Achat unique paiement unique Pour toute la famille. Un paiement. Mises à jour v1.x incluses à jamais.
 
-[À propos de notre politique de version →](https://traveldocumentvault.com/pricing-policy/#version-policy)
+[Notre politique de version →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
 Tout en Gratuit, plus :
 
@@ -249,8 +249,8 @@ Tout en Gratuit, plus :
 - Tableau de bord d'expiration familial complet
 - Documents multi-pages (jusqu'à 10 pages)
 - Minutage de rappel personnalisé
-- Exportation PDF combinée pour l'impression
-- Exportation par lots de documents
+- Export PDF combiné pour l'impression
+- Export de documents par lots
 
 Restaurez vos achats à tout moment avec le compte App Store ou Google Play avec lequel vous avez acheté.
 
@@ -258,7 +258,7 @@ Restaurez vos achats à tout moment avec le compte App Store ou Google Play avec
 
 ## Questions Courantes
 
-Est-ce vraiment privé ? Oui. Tout est stocké à 100% sur votre appareil. Nous n'avons accès à aucun de vos documents, et il n'y a pas de base de données cloud. Ne nous croyez pas sur parole — [vérifiez par vous-même](https://traveldocumentvault.com/fr/privacy-verification/). Et si je perds mon téléphone ? Votre coffre-fort est stocké sur votre appareil. Si vous changez de téléphone, restaurez à l'aide de votre sauvegarde habituelle du téléphone. Pouvez-vous synchroniser entre les appareils ? Oui. Avec Pro, activez la sauvegarde Votre Cloud pour synchroniser votre coffre-fort chiffré avec votre iCloud ou Google Drive. Vous détenez le code de récupération. Nous n'avons jamais accès à vos données. Qu'est-ce que le planificateur de voyage ? Le planificateur de voyage regroupe les documents de la famille par voyage et affiche un feu tricolore de disponibilité — vert quand tout le monde est prêt, orange si le passeport de quelqu'un arrive bientôt à expiration. Planifiez les voyages ensemble en confiance. [Voir toutes les réponses sur la confidentialité et les données](https://traveldocumentvault.com/fr/faq/)
+Est-ce vraiment privé ? Oui. Tout est stocké à 100% sur votre appareil. Nous n'avons accès à aucun de vos documents, et il n'y a pas de base de données cloud. Ne nous croyez pas sur parole — [vérifiez par vous-même](https://traveldocumentvault.com/fr/privacy-verification/). Et si je perds mon téléphone ? Votre coffre est chiffré sur votre appareil. La clé locale reste dans le stockage sécurisé et est exclue des sauvegardes ordinaires du téléphone. L’exportation du coffre inclut une copie de cette clé chiffrée par mot de passe. Une sauvegarde ordinaire du téléphone réinstalle l’application mais ne peut pas restaurer vos documents. La sauvegarde cloud Pro se restaure avec votre code de récupération sur un téléphone pris en charge de la même plateforme, utilisant le même compte cloud. Vous pouvez aussi utiliser l’exportation et l’importation gratuites du coffre. La restauration ou l’importation remplace le coffre local. Pouvez-vous synchroniser entre les appareils ? Oui. Avec Pro, activez la sauvegarde Votre Cloud pour synchroniser votre coffre-fort chiffré avec votre iCloud ou Google Drive. Vous détenez le code de récupération. Nous n'avons jamais accès à vos données. Qu'est-ce que le planificateur de voyage ? Le planificateur de voyage (Pro) regroupe les documents de la famille par voyage et affiche un feu tricolore de disponibilité : vert lorsque les vérifications de documents configurées sont satisfaites, orange lorsqu’un document associé doit être examiné. Planifiez les voyages ensemble en confiance. [Voir toutes les réponses sur la confidentialité et les données](https://traveldocumentvault.com/fr/faq/)
 
 **Important :** Travel Document Vault est un outil d'organisation personnelle pour stocker des copies numériques de vos documents. **Les copies numériques stockées dans cette application ne sont PAS valides pour voyager.** Il ne vérifie pas l'authenticité des documents et ne fournit pas de conseil juridique ou de voyage. Portez toujours les documents originaux et vérifiez toutes les exigences de voyage auprès des sources gouvernementales officielles.
 

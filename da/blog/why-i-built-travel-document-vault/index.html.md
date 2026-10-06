@@ -1,6 +1,6 @@
 # Hvorfor jeg byggede Travel Document Vault: For den forælder, der husker alt
 
-> Hvorfor jeg byggede Travel Document Vault efter et pastjek klokken 3 om natten, og hvorfor alt bliver på din egen enhed i stedet for en server.
+> Hvorfor jeg byggede Travel Document Vault efter et pastjek klokken 3 om natten, og hvorfor dokumenter som standard gemmes på din egen enhed.
 
 Source: https://traveldocumentvault.com/da/blog/why-i-built-travel-document-vault/
 
@@ -48,13 +48,13 @@ Og det skulle virke offline. For jeg ville være i lufthavnen eller sidde fast i
 
 ## Så jeg byggede præcis det, jeg havde brug for
 
-Travel Document Vault gør én ting: samler alt ét sted, så du aldrig behøver at tænke på det igen, før appen fortæller dig, at du skal.
+Travel Document Vault samler dine gemte dokumenter og udløbsdatoer ét sted med påmindelser, der hjælper dig med at planlægge fornyelser.
 
-Scan et dokument én gang. Appen læser udløbsdatoen (du dobbelttjekker den). Påmindelserne planlægges automatisk: seks måneder ud, derefter tre måneder, seks uger, én måned, to uger, helt ned til dagen før det udløber.
+Scan et dokument én gang. Appen forsøger at aflæse udløbsdatoen; bekræft den, eller indtast den manuelt. Påmindelser er slået til som standard, når du gemmer en udløbsdato. Paspåmindelser starter otte måneder før udløb, derefter seks måneder, tre måneder, seks uger, én måned og to uger, helt frem til udløbsdagen.
 
-Én profil per familiemedlem. Alle dokumenter ét sted. Når du skal tjekke, om I er klar til at rejse, åbner du appen og ved det. Straks. Ikke "sandsynligvis" eller "jeg tror det" – **du ved det faktisk**.
+Tilføj hele familien med Pro med en profil for hver person. Før en rejse kan du **gennemgå familiens gemte dokumenter og udløbsdatoer**.
 
-Når et hotel beder om en kopi af dit pas, en ambassade har brug for dine oplysninger, eller biludlejningen vil se dit kørekort, deler du det med ét tryk. Intet roderi. Intet Wi-Fi nødvendigt. Alt samlet, lige ved hånden.
+Når et hotel beder om en kopi af dit pas, en ambassade har brug for dine oplysninger, eller biludlejningen vil se dit kørekort, kan du åbne delingsmenuen og vælge, hvordan du vil sende det. Gemte kopier kan ses offline; e-mail og beskeder kræver forbindelse.
 
 Det er den virkelige gevinst: du får din hjerneplads tilbage. Den usynlige mentale byrde – den konstante, lave summen af "glemmer jeg noget?" – forsvinder. Appen husker, så du ikke behøver.
 
@@ -81,10 +81,10 @@ Tidligt traf jeg en klar beslutning: dine dokumenter tilhører dig, og de bliver
 Travel Document Vault er selvstændig:
 
 - Ingen konti at oprette
-- Ingen server-upload
+- Valgfri krypteret cloud-backup (Pro)
 - Krypteret på din enhed
 
-Når du scanner et dokument, kører tekstgenkendelse på din enhed. Alt forbliver på din telefon. **Intet uploades til nogen server.**
+Når du scanner et dokument, kører tekstgenkendelse på din enhed. Dokumenter bliver som standard på din telefon; **valgfri krypteret backup (Pro) gemmer en kopi i din egen iCloud eller Google Drive.** Du kan også eksportere eller dele kopier.
 
 Nogen ønsker apps, der synkroniserer overalt. For pas og id-kort ville jeg have en enklere model: din telefon er pengeskabet. Du kan eksportere dine kopier, når du har brug for det. De er jo dine.
 
@@ -94,9 +94,9 @@ En vault til rejsedokumenter er noget, du sætter op én gang og glemmer alt om.
 
 Et abonnement giver ingen mening til det formål. Hvis jeg stopper med at betale, skal jeg eksportere alt, finde en anden app, migrere mine dokumenter og genopbygge alle mine påmindelser. Og hvis jeg glemmer at forny? Mister jeg adgang præcis, når jeg har mest brug for den – idet jeg står ved check-in og indser, at mit barns pas udløber om fire måneder, og jeg ikke kan nå den scanning, jeg har gemt.
 
-Når du køber denne app, er den din. Dokumenterne forbliver på din enhed. Påmindelserne bliver ved med at virke. Ingen fornyelser. Ingen eksport. Ingen binding. Den fungerer bare stille i baggrunden, indtil du har brug for den.
+Dine gemte dokumenter og påmindelser virker i gratisversionen. Pro tilføjer ubegrænsede profiler og dokumenter med et engangskøb, så der er intet abonnement at forny.
 
-Gratisversionen giver dig én profil, fem dokumenter, OCR, påmindelser og PIN-lås. Pro låser op for ubegrænsede profiler og dokumenter med én enkelt betaling. Betal én gang, alle v1.x-opdateringer inkluderet, for evigt. Det er det hele.
+Gratisversionen giver dig én profil, fem dokumenter, automatisk datoregistrering, påmindelser og PIN-lås. Pro låser op for ubegrænsede profiler og dokumenter med én enkelt betaling. Betal én gang, alle v1.x-opdateringer inkluderet, for evigt. Det er det hele.
 
 [Om vores versionspolitik →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -110,7 +110,7 @@ Hvis du er den person i din familie, der dobbelttjekker alt, holder styr på map
 
 **Én ting mindre at bekymre sig om.**
 
-Bygget til personlig brug først. Ingen konti. Ingen server-upload.
+Bygget til personlig brug først. Ingen konti. Valgfri krypteret cloud-backup (Pro).
 
 Mustafa
 

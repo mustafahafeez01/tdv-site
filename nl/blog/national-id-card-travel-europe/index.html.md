@@ -67,7 +67,7 @@ De praktische uitdaging bij het beheren van reisdocumenten is dit: je identiteit
 
 Het lastigste is dat **geen van beide documenten je een herinnering stuurt.** Je wordt geacht ze zelf te controleren. De meeste mensen doen dat niet, totdat ze bij de incheckbalie staan en een medewerker hen vertelt dat een van de documenten te dicht bij de vervaldatum zit om te worden geaccepteerd.
 
-Wat helpt, is één plek voor beide documenten, die elke vervaldatum herkent zodra je scant en je apart herinnert voor elk document, op het schema dat bij dat type document past. Bekijk onze gids over [het opstellen van een complete documentencontrole voor je vertrek](https://traveldocumentvault.com/nl/blog/travel-document-checklist/) voor het volledige overzicht van wat je moet controleren voordat je reist.
+Wat helpt, is één plek voor beide documenten, die elke vervaldatum bewaart en je apart herinnert voor elk document, op het schema dat bij dat type document past. Bekijk onze gids over [het opstellen van een complete documentencontrole voor je vertrek](https://traveldocumentvault.com/nl/blog/travel-document-checklist/) voor het volledige overzicht van wat je moet controleren voordat je reist.
 
 Begin vandaag: pak je identiteitskaart erbij, controleer de vervaldatum en kijk of er barsten, vervaging of een kromgetrokken kaart te zien zijn. Zit hij op het randje, boek dan de verlenging voordat je de reis boekt.
 

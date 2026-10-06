@@ -94,7 +94,7 @@ Flighty är den mest direkta ersättningen för flygaviseringar i realtid. Appen
 
 ### Finns det en app som ersätter allt TripCase gjorde?
 
-Ingen enskild app gör allt TripCase gjorde. De flesta tidigare användare hamnar med två eller tre verktyg: TripIt eller Tripsy för resplansparsning och tidslinjevyer, Flighty för flygaviseringar, och en separat offline-app som Travel Document Vault för dokumentförvaring. Det är fler delar, men det betyder också att du inte är beroende av ett enda företags fortlevnad.
+Du kan behöva separata verktyg för att tolka resplaner, få flygaviseringar och lagra dokument. Travel Document Vault lagrar dokumentkopior krypterade på din telefon och låter dig visa dem offline.
 
 ### Bör jag förvara mina resehandlingar i en molnapp?
 

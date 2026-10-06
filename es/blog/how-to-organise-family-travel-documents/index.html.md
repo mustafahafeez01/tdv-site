@@ -81,7 +81,7 @@ Qué significa esto en la práctica
 
 Si tu teléfono es robado y el ladrón accede a tu galería de fotos, tiene un escaneo claro de tu página de datos del pasaporte: tu nombre, fecha de nacimiento, número de pasaporte, y tu foto. Eso es suficiente para fraude de identidad. Almacenar escaneos de pasaporte en una aplicación cifrada que requiere un PIN separado o biometría es significativamente más seguro que una galería de fotos, incluso si ambas están en el mismo dispositivo.
 
-[Travel Document Vault](https://traveldocumentvault.com) almacena todo en el dispositivo con cifrado fuerte (copia de seguridad cifrada opcional en tu propio iCloud o Google Drive con Pro). Cada miembro de la familia obtiene su propio perfil, y las fechas de vencimiento se rastrean automáticamente. Si prefieres hacerlo tú mismo, una carpeta cifrada en un gestor de contraseñas confiable también funciona —simplemente no te recordará cuando algo está a punto de vencer.
+[Travel Document Vault](https://traveldocumentvault.com) guarda tus documentos cifrados en tu dispositivo y controla las fechas de vencimiento guardadas. Puedes compartir o exportar copias. Pro añade perfiles familiares y copia de seguridad cifrada opcional en tu propio iCloud o Google Drive. Si prefieres hacerlo tú mismo, una carpeta cifrada en un gestor de contraseñas confiable también funciona —simplemente no te recordará cuando algo está a punto de vencer.
 
 ## Seguimiento de fechas de vencimiento. La parte más pasada por alto
 
@@ -93,11 +93,11 @@ Aquí está el patrón de fallo que atrapa a las familias: renuevas tu propio pa
 
 - **Recordatorios de calendario:** Establece uno 12 meses antes de que cada documento venza y otro a los 6 meses. Necesitarás recordar actualizar estos cuando los documentos se renueven, y necesitas que las fechas de vencimiento sean accesibles en primer lugar.
 - **Hoja de cálculo:** Funciona bien si realmente la mantienes. Una fila por documento por persona, la fecha de vencimiento, y una fórmula que destaque cualquier cosa que venza dentro de 12 meses.
-- **Aplicación dedicada:** Herramientas como Travel Document Vault manejan los recordatorios automáticamente —escanea el documento, confirma la fecha de vencimiento, y programa alertas desde ocho meses antes, y de nuevo a intervalos más cercanos, sin que tengas que pensar en ello.
+- **Aplicación dedicada:** Travel Document Vault programa recordatorios de pasaporte desde ocho meses antes del vencimiento, con alertas a intervalos más cercanos. Escanea un pasaporte y confirma o introduce su fecha de vencimiento; los recordatorios están activados por defecto.
 
 Cualquiera de estos tres enfoques funcionará, pero nosotros elegiríamos por defecto el que envía el recordatorio automáticamente, porque una hoja de cálculo solo sirve si te acuerdas de abrirla. Lo más importante es elegir uno que se ajuste a cómo ya operas y realmente adherirse a él.
 
-**Travel Document Vault** maneja el seguimiento de vencimiento para cada miembro de la familia automáticamente —escanea cada pasaporte una vez y obtén recordatorios desde ocho meses antes. Sin hoja de cálculo, sin renovaciones olvidadas. [Descargar en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** controla las fechas de vencimiento guardadas, con recordatorios de pasaporte desde ocho meses antes del vencimiento. Escanea cada pasaporte y confirma o introduce su fecha de vencimiento. Añade a toda la familia con Pro para reunir las fechas de renovación. [Descargar en App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Lista de verificación de documentos previo al viaje para familias
 

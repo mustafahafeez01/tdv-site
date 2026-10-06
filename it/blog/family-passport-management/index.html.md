@@ -1,6 +1,6 @@
 # Gestione dei Passaporti Familiari: Conservare Più Passaporti in Sicurezza
 
-> Tutti i passaporti di famiglia in un unico posto sicuro, le scadenze di ciascuno sotto controllo e un promemoria prima di ogni rinnovo.
+> Passaporti di famiglia in un vault crittografato. Con Pro, aggiungi profili familiari e pianifica i rinnovi con date di scadenza e promemoria.
 
 Source: https://traveldocumentvault.com/it/blog/family-passport-management/
 

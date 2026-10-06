@@ -1,6 +1,6 @@
 # Travel Document Vault Priser - Engangskøb, ingen abonnement
 
-> Travel Document Vault koster en gang. Ingen abonnement, ingen skjulte gebyrer. Ét køb dækker hele din familie. Gratis niveau tilgængeligt.
+> Pro er et engangskøb. Ingen abonnement, ingen skjulte gebyrer. Ét køb dækker hele din familie. Gratis niveau tilgængeligt.
 
 Source: https://traveldocumentvault.com/da/pricing/
 
@@ -10,7 +10,7 @@ $9.99, engangskøb. Ingen abonnementer, ingen skjulte gebyrer, ingen dataindsaml
 
 Prisen er angivet i amerikanske dollar. Vi fastsætter prisen for hvert land lokalt i stedet for at omregne den fra dollar, og App Store eller Google Play viser din pris, før du betaler.
 
-Vi driver ingen servere, der nogensinde kan holde eller læse dine dokumenter. Alt bliver på din enhed. Det er derfor vi kan tilbyde en engangspris i stedet for endeløse abonnementer.
+Vi driver ingen servere, der nogensinde kan holde eller læse dine dokumenter. Dine dokumentfiler bliver på din enhed, medmindre du deler eller eksporterer dem eller slår krypteret backup til (Pro). Det er derfor vi kan tilbyde en engangspris i stedet for endeløse abonnementer.
 
 ## Vælg din plan
 
@@ -19,7 +19,7 @@ Vi driver ingen servere, der nogensinde kan holde eller læse dine dokumenter. A
 Altid gratis
 
 - Pas, visa, id-kort og mere
-- Scan dokumenter, datoer udfyldes for dig
+- Scan dokumenter, og bekræft registrerede udløbsdatoer
 - Udløbspåmindelser
 - Del individuelle dokumenter
 - PIN + Biometrisk lås (Face ID / Touch ID)
@@ -27,7 +27,7 @@ Altid gratis
 - Op til 5 dokumenter
 - For nylig slettet – 30-dages gendannelses-vindue
 
-Alle data er på din enhed. Altid.
+Dine dokumentfiler bliver på din enhed, medmindre du eksporterer eller deler dem eller slår krypteret cloud-backup til (Pro).
 
 Bedste værdi
 
@@ -58,7 +58,7 @@ Alt hvad du behøver til solo-rejse
 Gratis
 
 - Pas, visa, id-kort og mere
-- Scan dokumenter, datoer udfyldes for dig
+- Scan dokumenter, og bekræft registrerede udløbsdatoer
 - Udløbspåmindelser
 - Del individuelle dokumenter
 - PIN + Biometrisk lås (Face ID / Touch ID)
@@ -66,7 +66,7 @@ Gratis
 - Op til 5 dokumenter
 - For nylig slettet – 30-dages gendannelses-vindue
 
-Alle data er på din enhed. Altid.
+Dine dokumentfiler bliver på din enhed, medmindre du eksporterer eller deler dem eller slår krypteret cloud-backup til (Pro).
 
 For familier
 
@@ -102,13 +102,13 @@ Rejseparathed, visum- og skattedagsfunktioner er kun vejledende – verificer al
 
 ## Hvorfor engangskøb og ikke et abonnement?
 
-Mange dokument-apps opkræver et årligt abonnement, fordi deres forretningsmodel afhænger af tilbagevendende omsætning. Det er ikke sådan vi er bygget. Vi driver ingen servere, der nogensinde kan holde eller læse dine data. Dine dokumenter bliver på din enhed. Vi har ingen løbende serveromkostninger, som vi skal føre videre til dig.
+Pro er et engangskøb. Vi driver ingen servere, der opbevarer eller læser dine dokumenter. Dine dokumentfiler bliver på din enhed, medmindre du deler eller eksporterer dem eller slår krypteret backup til din egen sky til (Pro). Pro har ingen løbende abonnementsbetalinger.
 
 En engangspris er fair, bæredygtig og ærlig. Du betaler én gang. Vi holder op med at spørge.
 
 ## Hvad der er inkluderet gratis, for altid
 
-Det gratis niveau er ikke en prøveperiode. Det er et virkeligt, permanent niveau med kernefunktioner, du faktisk vil bruge: en profil, 5 dokumenter, udløbspåmindelser, dokumentdeling, biometrisk lås og on-device-kryptering. Hvis du er solo eller blot tester, er gratis alt hvad du behøver.
+Det gratis niveau er ikke en prøveperiode. Det er et virkeligt, permanent niveau med kernefunktioner, du faktisk vil bruge: en profil, 5 dokumenter, udløbspåmindelser, dokumentdeling, biometrisk lås, kryptering på enheden samt Vault Export og Import. Hvis du er solo eller blot tester, er gratis alt hvad du behøver.
 
 Ingen tidsgrænser. Ingen funktioner, der på mystisk vis forsvinder. Ingen mørke mønstre, der presser dig til at opgradere.
 
@@ -116,7 +116,7 @@ Ingen tidsgrænser. Ingen funktioner, der på mystisk vis forsvinder. Ingen mør
 
 Pro er til familier. Ubegrænsede profiler til hele din familie, ubegrænsede dokumenter, rejseplanlægger med en visuelt parathed-tjeckliste, krypteret cloud-backup til dit eget iCloud eller Google Drive, og en dage-i-udlandet-tracker til dagsgrænser pr. land og skatte-residens-sporing.
 
-Ét køb på din konto. En familie. Fungerer på alle dine enheder.
+Ét køb på din konto. En familie. Fungerer på alle dine enheder, der bruger samme App Store- eller Google Play-konto.
 
 ## Ét køb, hele familien
 
@@ -126,7 +126,7 @@ Ingen abonnementer. Ingen sæde-baseret prissætning. Ingen pr-familiemedlem-geb
 
 ## Spørgsmål om prissætning
 
-Hvor meget koster Travel Document Vault? Travel Document Vault tilbyder et gratis niveau for altid – 1 profil med op til 5 dokumenter, herunder alle kernefunktioner som udløbspåmindelser, dokumentdeling og kryptering. Pro er et engangskøb og låser op for ubegrænsede profiler, ubegrænsede dokumenter, krypteret cloud-backup, rejseplanlægger og dage-i-udlandet-tracker. Er Travel Document Vault et abonnement? Nej. Travel Document Vault er et engangskøb. Du betaler en gang for Pro og ejer det for altid. Ingen tilbagevendende gebyrer, ingen abonnementskancellation nødvendig, og ingen prøveperioder som stille begynder at opkræve. Det gratis niveau er også gratis for altid. Hvad får jeg i gratis versus Pro? Gratis: 1 profil, op til 5 dokumenter, udløbspåmindelser, dokumentdeling, PIN og biometrisk lås, on-device-kryptering, offline-adgang. Pro tilføjer: ubegrænsede profiler til din familie, ubegrænsede dokumenter, rejseplanlægger med trafiklys for familiens parathed, krypteret cloud-backup til dit eget iCloud eller Google Drive, dage-i-udlandet-tracker til visa- og skattelimitter, og brugerdefineret påmindelses-timing. Skal jeg betale pr. familiemedlem eller pr. enhed? Nej. Pro er et engangskøb for din konto. Når købt, kan du tilføje ubegrænsede familiemedlemmer (profiler) og bruge appen på flere enheder under samme App Store eller Google Play-konto. Ét køb. Hele familien. Hvad betyder 'alle v1.x-opdateringer inkluderet'? Dit engangskøb dækker alle opdateringer inden for den nuværende hovedversion (v1.x), herunder fejlrettelser, sikkerhedsopdateringer og nye funktioner. Dette gælder så længe du bruger appen. Hvis vi nogensinde frigiver v2.0 med væsentlige arkitektoniske ændringer, får tidlige brugere præferencemæssig opgraderingspriser og mulighed for at blive på v1.x Pro for altid. Se vores fulde [versionspolitik](https://traveldocumentvault.com/pricing-policy/#version-policy) for detaljer.
+Hvor meget koster Travel Document Vault? Travel Document Vault tilbyder et gratis niveau for altid – 1 profil med op til 5 dokumenter, herunder alle kernefunktioner som udløbspåmindelser, dokumentdeling og kryptering. Pro er et engangskøb og låser op for ubegrænsede profiler, ubegrænsede dokumenter, krypteret cloud-backup, rejseplanlægger og dage-i-udlandet-tracker. Er Travel Document Vault et abonnement? Nej. Pro er et engangskøb. Du betaler en gang for Pro og ejer det for altid. Ingen tilbagevendende gebyrer, ingen abonnementskancellation nødvendig, og ingen prøveperioder som stille begynder at opkræve. Det gratis niveau er også gratis for altid. Hvad får jeg i gratis versus Pro? Gratis: 1 profil, op til 5 dokumenter, udløbspåmindelser, dokumentdeling, PIN og biometrisk lås, on-device-kryptering, offline-adgang. Pro tilføjer: ubegrænsede profiler til din familie, ubegrænsede dokumenter, rejseplanlægger med trafiklys for familiens parathed, krypteret cloud-backup til dit eget iCloud eller Google Drive, dage-i-udlandet-tracker til visa- og skattelimitter, og brugerdefineret påmindelses-timing. Skal jeg betale pr. familiemedlem eller pr. enhed? Nej. Pro er et engangskøb for din konto. Når købt, kan du tilføje ubegrænsede familiemedlemmer (profiler) og bruge appen på flere enheder under samme App Store eller Google Play-konto. Ét køb. Hele familien. Hvad betyder 'alle v1.x-opdateringer inkluderet'? Dit engangskøb dækker alle opdateringer inden for den nuværende hovedversion (v1.x), herunder fejlrettelser, sikkerhedsopdateringer og nye funktioner. Dette gælder så længe du bruger appen. Hvis vi nogensinde frigiver v2.0 med væsentlige arkitektoniske ændringer, får tidlige brugere præferencemæssig opgraderingspriser og mulighed for at blive på v1.x Pro for altid. Se vores fulde [versionspolitik](https://traveldocumentvault.com/pricing-policy/#version-policy) for detaljer.
 
 ## Klar til at holde op med at bekymre dig?
 

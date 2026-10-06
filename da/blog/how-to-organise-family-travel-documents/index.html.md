@@ -81,7 +81,7 @@ Hvad det betyder i praksis
 
 Bliver telefonen stjålet, og tyven kommer ind i fotobiblioteket, har de en tydelig scanning af passets dataside: navn, fødselsdato, pasnummer og foto. Det er nok til identitetstyveri. At opbevare passcanninger i en krypteret app, der kræver en separat PIN-kode eller biometri, er markant sikrere end et fotobibliotek, selv hvis begge dele ligger på samme enhed.
 
-[Travel Document Vault](https://traveldocumentvault.com) gemmer alt på enheden med stærk kryptering (valgfri krypteret backup til jeres eget iCloud eller Google Drive med Pro). Hvert familiemedlem får sin egen profil, og udløbsdatoer spores automatisk. Vil I hellere gøre det selv, virker en krypteret mappe i en pålidelig password manager også – den minder jer bare ikke om, når noget snart udløber.
+[Travel Document Vault](https://traveldocumentvault.com) gemmer jeres dokumenter krypteret på enheden og holder styr på gemte udløbsdatoer. I kan dele eller eksportere kopier. Pro tilføjer familieprofiler og valgfri krypteret backup til jeres egen iCloud eller Google Drive. Vil I hellere gøre det selv, virker en krypteret mappe i en pålidelig password manager også – den minder jer bare ikke om, når noget snart udløber.
 
 ## Overblik over udløbsdatoer: den mest oversete del
 
@@ -93,11 +93,11 @@ Her er mønstret, der fanger familier: I fornyer jeres eget pas, opdaterer kalen
 
 - **Kalenderpåmindelser:** Indstil én 12 måneder før hvert dokument udløber og en til ved 6 måneder. I skal huske at opdatere dem, når dokumenter fornyes, og I skal have udløbsdatoerne tilgængelige i første omgang.
 - **Regneark:** Virker godt, hvis I rent faktisk vedligeholder det. Én række pr. dokument pr. person, udløbsdatoen, og en formel, der markerer alt, der udløber inden for 12 måneder.
-- **Dedikeret app:** Værktøjer som Travel Document Vault klarer påmindelserne automatisk – scan dokumentet, bekræft udløbsdatoen, og appen planlægger advarsler fra otte måneder før, og igen med tættere intervaller, uden at I skal tænke på det.
+- **Dedikeret app:** Travel Document Vault planlægger paspåmindelser fra otte måneder før udløb med advarsler med tættere intervaller. Scan et pas, og bekræft eller indtast udløbsdatoen; påmindelser er slået til som standard.
 
 Alle tre metoder virker, men vi ville som udgangspunkt vælge den, der sender påmindelsen automatisk, for et regneark hjælper kun, hvis I husker at åbne det. Det vigtigste er at vælge den, der passer til, hvordan I allerede gør tingene, og rent faktisk holde fast i den.
 
-**Travel Document Vault** klarer overblikket over udløbsdatoer for hvert familiemedlem automatisk – scan hvert pas én gang, og få påmindelser fra otte måneder før udløb. Intet regneark, ingen glemte fornyelser. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** holder styr på gemte udløbsdatoer med paspåmindelser fra otte måneder før udløb. Scan hvert pas, og bekræft eller indtast udløbsdatoen. Tilføj hele familien med Pro for at samle fornyelsesdatoerne. [Hent fra App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Tjekliste før afrejse for familier
 

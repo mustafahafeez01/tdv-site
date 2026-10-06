@@ -1,18 +1,18 @@
 # Cara Mengekspor dan Mengimpor Vault Anda | Travel Document Vault
 
-> Panduan langkah demi langkah untuk mengekspor seluruh vault sebagai file terenkripsi dan mengimpornya di perangkat baru. Data Anda tetap utuh.
+> Ekspor data vault yang didukung ke file terenkripsi, lalu impor di perangkat baru. Ikuti langkahnya untuk membuat cadangan portabel milik Anda.
 
 Source: https://traveldocumentvault.com/id/faq/export-import/
 
 ---
 
-Setiap pengguna dapat mengekspor seluruh vault mereka sebagai file cadangan (.tdvault) yang terenkripsi dan dilindungi kata sandi, lalu mengimpornya di perangkat mana pun. Panduan ini menunjukkan setiap langkah beserta penjelasannya.
+Ekspor dan impor vault gratis untuk semua orang. Ekspor data vault yang didukung sebagai file terenkripsi yang dilindungi kata sandi (.tdvault), sesuai batas ukuran. Impor di perangkat iOS atau Android lain yang didukung dengan langkah-langkah berikut.
 
 ## Mengapa mengekspor dan mengimpor?
 
-Ekspor-impor memastikan data Anda portabel dan Anda tidak pernah terkunci pada aplikasi ini. Baik Anda berpindah perangkat, menyiapkan ponsel baru, atau sekadar ingin salinan cadangan yang Anda kendalikan sendiri, proses ekspor-impor menjaga semuanya persis seperti aslinya.
+Gunakan ekspor dan impor saat berpindah ponsel atau menyimpan cadangan terpisah. File berisi data vault yang didukung, lampiran yang tersedia, dan pengaturan tertentu. Periksa dokumen dan pengingat yang diimpor; kunci aplikasi dan pengaturan perangkat lainnya tetap lokal.
 
-File yang diekspor dienkripsi dengan keamanan yang sama seperti vault di perangkat Anda. Hanya Anda yang dapat mendekripsinya.
+File yang diekspor dienkripsi dengan keamanan yang sama seperti vault di perangkat Anda. Siapa pun yang mengetahui kata sandi ekspor dapat mendekripsinya, jadi jaga kerahasiaan kata sandi tersebut.
 
 ## Panduan langkah demi langkah
 
@@ -24,27 +24,27 @@ Buka Travel Document Vault dan ketuk ikon Pengaturan (simbol roda gigi) di bagia
 
 2
 
-### Periksa apa yang akan diekspor
+### Buat kata sandi ekspor
 
-Aplikasi menampilkan ringkasan: total profil, total dokumen, dan total lampiran. Ini memastikan semua yang Anda inginkan sudah tercakup. Ketuk Lanjutkan atau Konfirmasi Ekspor.
+Aplikasi meminta Anda membuat kata sandi untuk melindungi cadangan. Pilih kata sandi dengan setidaknya 8 karakter, ketik ulang untuk mengonfirmasi, dan simpan di tempat yang aman. Anda memerlukan kata sandi ini untuk mengimpor file; PIN atau kode pemulihan Anda tidak bisa membukanya.
 
 3
 
 ### Tunggu hingga enkripsi selesai
 
-Aplikasi mengenkripsi semua data Anda menjadi satu file cadangan (.tdvault). Untuk vault umum dengan ratusan dokumen, proses ini memakan waktu beberapa detik. Jangan tutup aplikasi selama langkah ini.
+Aplikasi mengenkripsi data vault yang didukung dan lampiran yang tersedia menjadi satu file cadangan (.tdvault). Jangan tutup aplikasi selama langkah ini.
 
 4
 
 ### Pilih tujuan dan simpan
 
-Pemilih file sistem Anda akan terbuka. Pilih tempat menyimpan file: iCloud Drive, Google Drive, Dropbox, atau komputer Anda. Kami menyarankan layanan terenkripsi atau penyimpanan offline untuk keamanan maksimum.
+Menu berbagi ponsel Anda akan terbuka. Pilih tempat menyimpan file: iCloud Drive, Google Drive, Dropbox, atau komputer Anda. Kami menyarankan layanan terenkripsi atau penyimpanan offline untuk keamanan maksimum.
 
 5
 
 ### Pindahkan file ke perangkat baru Anda (jika mengimpor di ponsel lain)
 
-Jika Anda mengimpor di perangkat yang berbeda, buat file yang diekspor dapat diakses di sana. Unggah ke drive bersama, kirim melalui email ke diri sendiri, atau gunakan AirDrop. Ukuran file biasanya 50-500 MB tergantung ukuran vault dan jumlah lampiran Anda.
+Jika Anda mengimpor di perangkat yang berbeda, buat file yang diekspor dapat diakses di sana. Unggah ke drive bersama, kirim melalui email ke diri sendiri, atau gunakan AirDrop. Ukuran file bergantung pada ukuran vault dan jumlah lampiran Anda, dengan batas 500 MB per ekspor.
 
 6
 
@@ -56,18 +56,18 @@ Buka Travel Document Vault di perangkat tempat Anda ingin mengimpor. Buka Pengat
 
 ### Pilih file yang diekspor dan konfirmasi
 
-Buka ke lokasi tempat Anda menyimpan file vault yang diekspor, pilih file tersebut, lalu konfirmasi. Aplikasi mendekripsi dan mengimpor semua profil, dokumen, dan lampiran. Proses ini memakan waktu beberapa detik.
+Buka lokasi tempat Anda menyimpan file vault yang diekspor lalu pilih file tersebut. Aplikasi memperingatkan bahwa impor menggantikan semua data di perangkat ini. Ketuk Impor untuk melanjutkan, lalu masukkan kata sandi yang Anda buat saat mengekspor. Aplikasi mendekripsi dan mengimpor profil, dokumen, dan lampiran yang disertakan dalam cadangan.
 
 8
 
 ### Pastikan semua data sudah ada
 
-Setelah impor, periksa tab Profil untuk memastikan semua profil muncul. Buka beberapa dokumen untuk memastikan lampiran utuh. Proses impor menggantikan semua data yang ada di perangkat ini.
+Setelah impor, periksa tab Keluarga untuk memastikan semua profil muncul. Buka beberapa dokumen untuk memastikan lampiran utuh. Proses impor menggantikan semua data yang ada di perangkat ini.
 
 ### Catatan penting
 
 - **Menggantikan data yang ada:** Impor mengosongkan isi perangkat tujuan terlebih dahulu. Jika Anda sudah memiliki profil di perangkat tujuan, ekspor profil tersebut sebelum Anda mengimpor.
-- **Ketepatan bolak-balik:** Semuanya dipertahankan persis sama: nama dokumen, tanggal, pengingat kedaluwarsa, warna kustom, lampiran, dan catatan.
+- **Ketepatan bolak-balik:** File memindahkan data vault yang didukung dan pengaturan tertentu. Lampiran yang hilang atau catatan yang tidak bisa dibaca mungkin tidak disertakan. Periksa dokumen dan pengingat yang diimpor. Kunci aplikasi dan pengaturan perangkat lainnya tetap lokal.
 - **Terenkripsi sepenuhnya:** File yang diekspor dienkripsi dengan kata sandi yang Anda pilih saat mengekspornya, menggunakan AES-256-GCM dengan derivasi kunci PBKDF2. Hanya kata sandi itu yang dapat mendekripsinya, jadi simpan di tempat yang aman, tanpanya, file tidak dapat dipulihkan.
 - **Praktik terbaik pencadangan:** Simpan file yang diekspor di lokasi yang aman. Hapus setelah impor berhasil jika Anda mau, atau simpan sebagai cadangan offline.
 

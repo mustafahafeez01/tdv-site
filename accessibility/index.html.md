@@ -10,16 +10,16 @@ Source: https://traveldocumentvault.com/accessibility/
 
 ### VoiceOver Support
 
-Every screen in Travel Document Vault is fully narrated with VoiceOver. Navigate, scan documents, set reminders, and manage your vault using gestures, keyboard, braille, and speech output.
+Travel Document Vault is built to work with VoiceOver. The app includes accessibility labels and screen-reader announcements.
 
-- Descriptive labels for all interactive elements
+- Descriptive labels for interactive elements
 - Proper heading hierarchy for easy navigation
 - Meaningful button and control descriptions
 - Status announcements for important changes
 
 ### Larger Text (Dynamic Type)
 
-All text in the app scales with your system text size preferences. Increase text size up to 200% or more, and the app layout adapts automatically.
+Text in the app scales with your system text size preferences. Text scaling limits vary by element.
 
 Adjust text size in **Settings → Accessibility → Display & Text Size → Larger Text** on your device.
 
@@ -27,25 +27,25 @@ Adjust text size in **Settings → Accessibility → Display & Text Size → Lar
 
 Travel Document Vault supports both Light and Dark modes. The app automatically matches your system appearance, or you can set your preferred theme in Settings.
 
-Options: **System (Auto)**, **Light**, or **Dark**.
+Options: **Automatic (System)**, **Light**, or **Dark**.
 
 ### Sufficient Contrast
 
-All text and interactive elements meet WCAG AAA contrast standards (4.5:1 for normal text, 3:1 for large text). High contrast colors ensure readability in all lighting conditions.
+Default text colours are chosen for readable contrast. High-contrast colours help readability in bright and dim light.
 
-Our color system provides 15:1+ contrast ratios for primary text in both light and dark themes.
+Primary text has strong contrast on the default light and dark backgrounds.
 
-### Differentiate Without Color Alone
+### Status Uses More Than Colour
 
-Important information is never conveyed by color alone. Status indicators use icons, shapes, and text labels in addition to color.
+Document status is never shown by colour alone. Status indicators use icons, shapes, and text labels in addition to colour.
 
-- Green checkmarks for valid documents (not just green color)
-- Warning icons for expiring documents (not just yellow/orange color)
-- Error indicators with X icons (not just red color)
+- Green checkmarks for valid documents (not just green colour)
+- Warning icons for expiring documents (not just yellow/orange colour)
+- Error indicators with X icons (not just red colour)
 
 ### Reduced Motion
 
-All animations and motion effects respect your Reduce Motion preference. When enabled, animations are minimized or removed to prevent motion sickness and discomfort.
+Some animations respect your Reduce Motion preference. When enabled, supported animations are reduced or removed.
 
 Enable in **Settings → Accessibility → Motion → Reduce Motion** on your device.
 
@@ -53,19 +53,15 @@ Enable in **Settings → Accessibility → Motion → Reduce Motion** on your de
 
 44pt Touch Targets
 
-All interactive elements meet Apple's minimum 44pt touch target size for easy tapping.
-
-Keyboard Navigation
-
-Navigate the entire app using a keyboard connected to your device.
+The shared control styles target 44pt on iOS and 48dp on Android; some controls are smaller.
 
 Readable Fonts
 
-System fonts optimized for legibility at all sizes.
+System fonts with text sizes set for different elements.
 
 Clear Error Messages
 
-Error states are announced to VoiceOver and displayed with clear, actionable text.
+Key error messages, such as a form that can't be saved yet, are announced to VoiceOver and shown with clear, actionable text.
 
 ## We're Always Improving
 

@@ -81,7 +81,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/damaged-passport-travel/
 
 如果您在海外遇到护照损坏，需要向使领馆申请紧急旅行证件，这一点就更加重要。领事官员在能直接看到原护照扫描件的情况下，办事速度会快得多。
 
-把数字副本存放在加密且离线的地方——不要用与他人共享的 Google Photos 或 iCloud。Travel Document Vault 正是为这种情况而生：护照照片只加密保存在您自己的设备上，一旦出事可以立即调用。
+把数字副本存放在加密且离线的地方——不要用与他人共享的 Google Photos 或 iCloud。Travel Document Vault 将护照照片加密保存在您的设备上，供离线查看。您可以分享或导出副本，或通过 Pro 使用加密云备份。
 
 今天就扫描您的护照，别等到需要时才动手。
 

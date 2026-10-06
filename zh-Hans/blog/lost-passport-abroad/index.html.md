@@ -62,7 +62,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/lost-passport-abroad/
 - 往返旅行证明——航班预订、酒店确认
 - 紧急证件费用——准备现金和卡
 
-**Travel Document Vault**在您的手机上存储护照的加密副本——无需互联网就可以访问，无需登录。清单上的每一项护照信息，它都有。[在App Store上下载。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault**在您的手机上存储护照的加密副本——无需互联网就可以访问，无需登录。清单上所说的数字副本，就是应用加密保存的护照资料页图像。[在App Store上下载。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 步骤5：通知您的旅行保险公司
 

@@ -88,7 +88,7 @@ Esto se aplica sin importar si tu pasaporte expiró antes de que salieras del Re
 
 [Si tu pasaporte ya ha expirado y estás buscando qué hacer a continuación, nuestro artículo complementario cubre eso paso a paso](https://traveldocumentvault.com/es/blog/passport-expired-what-to-do/). Si tienes un viaje próximo y tu pasaporte se está acercando a la expiración, este es el momento para renovar en lugar de esperar a que expire, lo que significa pagar por el servicio Premium en lugar de la tarifa estándar. Verifica los pasaportes de tu familia ahora antes de reservar cualquier viaje.
 
-**Establece recordatorios de expiración meses con anticipación, no semanas.** [Travel Document Vault rastrea fechas de expiración para cada pasaporte en tu hogar y envía recordatorios desde ocho meses antes, y de nuevo a medida que se acerca la expiración](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/), para que renueves en procesamiento estándar y evites tarifas de emergencia.
+**Establece recordatorios de expiración meses con anticipación, no semanas.** [Travel Document Vault controla la fecha de expiración de tu pasaporte y envía recordatorios desde ocho meses antes por defecto, y de nuevo a medida que se acerca la expiración](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/). Añade todos los pasaportes de tu hogar con Pro. Usa los recordatorios para ayudarte a planificar las renovaciones.
 
 ## Si ya estás en el extranjero y tu pasaporte expira
 

@@ -119,7 +119,7 @@ HM Passport Office负责处理英国的护照更新，并在其网站上公布�
 3. **检查您的旅行保险政策。**某些政策涵盖加急护照更新的额外费用。大多数排除更新可预见的情况——但在花钱前值得看一下。
 4. **询问重新安排您的旅行。**航空公司和酒店各不相同，但许多人将免除已记录护照紧急情况的改签费。不能保证，但询问不需要任何费用。
 
-**最好的修复是完全避免这种情况。**如果您管理多个家庭成员的护照，像[Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)这样的应用会在护照过期前6个月、3个月和1个月向您发送过期提醒——所以您会有充足的时间进行更新，而不是在最后一刻匆忙。查看本博客上的更多[旅行文件提示](https://traveldocumentvault.com/zh-Hans/blog/)了解保持一切井然有序的策略。还有一件事值得阅读：[6个月护照规则](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)。一本新更新的护照仍然需要满足您目的地国家的有效期要求——许多旅客会因此被抓住。
+**最好的修复是完全避免这种情况。**如果您管理多个家庭成员的护照，像[Travel Document Vault](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)这样的应用可通过 Pro 添加全家成员。保存他们的到期日，提醒可帮助您规划换发。查看本博客上的更多[旅行文件提示](https://traveldocumentvault.com/zh-Hans/blog/)了解保持一切井然有序的策略。还有一件事值得阅读：[6个月护照规则](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)。一本新更新的护照仍然需要满足您目的地国家的有效期要求——许多旅客会因此被抓住。
 
 今天就拿出您自己的护照，对照下一次出行，看看它实际还剩几个月有效期。如果这个差距看起来很紧，就把它当作信号，现在就开始办理更新，而不是等到临近出发。
 

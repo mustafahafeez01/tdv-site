@@ -1,6 +1,6 @@
 # 家庭护照管理：安全存储多本护照
 
-> 了解如何在一个地方组织和安全存储多本家庭护照。跟踪每个家庭成员的到期日期，并在续期前收到提醒。
+> 将全家的护照整理在一个加密的地方。通过 Pro 添加家庭档案，并利用到期日和提醒规划换发。
 
 Source: https://traveldocumentvault.com/zh-Hans/blog/family-passport-management/
 

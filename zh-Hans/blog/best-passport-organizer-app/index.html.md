@@ -82,7 +82,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/best-passport-organizer-app
 
 ## Travel Document Vault如何处理这个问题
 
-**Travel Document Vault**体现了上述隐私优先、离线优先的方法。数据保持在您的设备上，使用AES-256加密——无需帐户。您可以选择将加密数据备份到您自己的iCloud或Google Drive（专业版功能）。它支持多个旅行者、护照和签证有效期跟踪，并完全离线工作。在App Store上可作为[一次性购买](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)获取，无需订阅。
+**Travel Document Vault** 使用 AES-256 加密，将文档保存在您的设备上，无需应用账户。已保存的文档可离线查看，护照和签证到期提醒也可离线运行。您可以分享或导出副本，或通过 Pro 使用加密云备份，将副本保存到您自己的 iCloud 或 Google Drive。Pro 还支持添加全家成员。应用可免费下载；Pro 为应用内[一次性购买](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)，无需订阅。
 
 ## 下载前的实用检查清单
 

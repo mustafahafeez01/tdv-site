@@ -62,7 +62,7 @@ Was Sie normalerweise brauchen (bestätigen Sie dies mit Ihrer Botschaft, bevor 
 - Nachweis der weiteren Reise – Flugbuchung, Hotelbestätigung
 - Notfall-Dokumentgebühr – haben Sie sowohl Bargeld als auch Karte verfügbar
 
-**Travel Document Vault** speichert eine verschlüsselte Kopie Ihres Passes auf Ihrem Telefon – ohne Internet zugänglich, ohne Login. Sie enthält jede Passangabe von dieser Liste. [Im App Store laden.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** speichert eine verschlüsselte Kopie Ihres Passes auf Ihrem Telefon – ohne Internet zugänglich, ohne Login. Das verschlüsselte Bild Ihrer Pass-Datenseite ist die digitale Kopie auf dieser Liste. [Im App Store laden.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Schritt 5: Benachrichtigen Sie Ihren Reiseversicherer
 

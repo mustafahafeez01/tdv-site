@@ -72,7 +72,7 @@ Supponiamo che la password dell'account Google sia stata riutilizzata su un sito
 | Google Photos | Server cloud di Google | In transito + a riposo (chiavi gestite da Google) | Moderato | Accettabile con autenticazione a due fattori forte |
 | iCloud Photos | Server cloud di Apple | In transito + a riposo (chiavi gestite da Apple) | Moderato | Accettabile con autenticazione a due fattori forte |
 | Gestore di password crittografato (1Password, Bitwarden) | Cloud (zero-knowledge) | End-to-end; il provider non può leggere i contenuti | Basso | Buona scelta |
-| App crittografata sul dispositivo (backup opzionale nel cloud personale) | Solo il telefono | Crittografata sul dispositivo; nessuna copia del server | Minimo | Migliore per documenti sensibili |
+| App crittografata sul dispositivo (backup opzionale nel cloud personale) | Il tuo telefono; backup crittografato facoltativo sul tuo cloud (Pro) | Crittografata sul dispositivo; copia crittografata facoltativa sul tuo cloud (Pro) | Minimo | Migliore per documenti sensibili |
 | Rullino fotografico / cartella non crittografata | Dispositivo personale | Solo crittografia del dispositivo | Più alto | Non consigliato |
 
 ### iCloud Photos vs Google Photos: Apple è più sicuro?
@@ -85,7 +85,7 @@ Lo stesso rischio di compromissione dell'account si applica a entrambe le piatta
 
 Se sei un utente iPhone, abilitare **Advanced Data Protection in iCloud** vale la pena. Un'app crittografata costruita a tale scopo, senza caricamento nel cloud, rimane l'opzione più forte per l'archiviazione di passaporti indipendentemente dalla piattaforma.
 
-**Travel Document Vault** archivia le scansioni del passaporto sul dispositivo con crittografia forte. Nessun account richiesto. Backup crittografato opzionale nel proprio iCloud o Google Drive (Pro), sigillato con un codice di recupero che solo tu possiedi. [Scarica da App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** archivia le scansioni del passaporto sul dispositivo con crittografia forte. Nessun account richiesto. Con Pro puoi eseguire il backup di una copia crittografata sul tuo iCloud o Google Drive. Conserva il codice di recupero al sicuro: ti servirà per ripristinare il backup. [Scarica da App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Quali sono le alternative più sicure?
 
@@ -99,7 +99,7 @@ Prima di tutto vale la pena distinguere due cose: conservare una copia per uso p
 
 **App crittografate sul dispositivo**
 
-Le app costruite specificamente per questo — come [Travel Document Vault](https://traveldocumentvault.com) — mantengono tutto sul telefono con crittografia forte e nessun account richiesto. Ricevi backup crittografato opzionale nel tuo iCloud o Google Drive personale (Pro), e non esiste un server da violare perché la copia digitale del passaporto non lascia mai il dispositivo. L'unico compromesso è che se perdi il telefono senza un backup, la copia digitale scompare insieme, sebbene il passaporto fisico sia ancora con te.
+Le app costruite specificamente per questo — come [Travel Document Vault](https://traveldocumentvault.com) — conservano i documenti crittografati sul telefono senza un account per l’app. Puoi condividere o esportare copie, oppure usare Pro per eseguire il backup di una copia crittografata sul tuo iCloud o Google Drive. L’app non carica i tuoi documenti sui nostri server. L'unico compromesso è che se perdi il telefono senza un backup, la copia digitale scompare insieme, sebbene il passaporto fisico sia ancora con te.
 
 **Archiviazione cloud crittografata con chiavi lato client**
 
@@ -133,7 +133,7 @@ Sì. I sistemi automatizzati elaborano le foto per cose come il riconoscimento f
 
 ### Qual è il modo più sicuro per archiviare una copia digitale di un passaporto?
 
-L'archiviazione crittografata sul dispositivo è la tua migliore scommessa — app che mantengono le scansioni sul telefono con crittografia forte e zero caricamento nel cloud. Nessun server di terze parti tocca mai i dati del passaporto. Se desideri l'accesso al cloud, un gestore di password crittografato zero-knowledge come 1Password o Bitwarden è una valida alternativa.
+L'archiviazione crittografata sul dispositivo è la tua migliore scommessa — app che mantengono le scansioni sul telefono con crittografia forte per impostazione predefinita. Le copie possono uscire dal dispositivo tramite condivisione, esportazione o backup crittografato facoltativo sul tuo iCloud o Google Drive (Pro). Se desideri l'accesso al cloud, un gestore di password crittografato zero-knowledge come 1Password o Bitwarden è una valida alternativa.
 
 ### Qualcuno può rubare la mia identità da una scansione del passaporto?
 

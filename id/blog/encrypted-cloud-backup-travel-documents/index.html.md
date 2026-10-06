@@ -1,6 +1,6 @@
 # Cadangan Cloud Terenkripsi untuk Dokumen Perjalanan: Siapa yang Memegang Kuncinya
 
-> Apa arti sebenarnya cadangan terenkripsi untuk pindaian paspor, dan mengapa kode pemulihan Anda tidak bisa direset siapa pun.
+> Apa arti sebenarnya cadangan terenkripsi untuk pindaian paspor, dan mengapa kode pemulihan Anda tidak bisa direset oleh kami.
 
 Source: https://traveldocumentvault.com/id/blog/encrypted-cloud-backup-travel-documents/
 
@@ -12,9 +12,9 @@ Source: https://traveldocumentvault.com/id/blog/encrypted-cloud-backup-travel-do
 
 - **"Cadangan terenkripsi" baru berarti sesuatu setelah Anda tahu siapa yang memegang kuncinya.** Jika perusahaan bisa membaca dokumen Anda, enkripsi itu hanya menjaga dokumen dari orang asing, bukan dari perusahaan itu sendiri.
 - Cadangan yang dienkripsi di ponsel Anda sebelum diunggah akan sampai ke cloud sebagai data yang tidak bisa dibaca. Penyedia penyimpanan hanya memegang ciphertext, bukan paspor Anda.
-- **Tanpa akun berarti tanpa reset kata sandi.** Kehilangan kode pemulihan berarti cadangan tidak bisa dibuka oleh siapa pun, termasuk kami. Itu adalah kompromi yang memang disengaja.
+- **Tanpa akun berarti tanpa reset kata sandi.** Jika Anda kehilangan kode pemulihan dan akses ke semua perangkat yang masih bisa membuka vault, kami tidak bisa memulihkan cadangan terenkripsi. Itu adalah kompromi yang memang disengaja.
 - Tulis kode itu sebelum Anda bergantung pada cadangan, simpan jauh dari ponsel, dan baca ulang sekali untuk memastikan tulisannya masih jelas terbaca.
-- Cadangan bawaan sistem ponsel memasang ulang aplikasi tetapi tidak bisa mengembalikan dokumen Anda, karena kunci enkripsi tidak pernah meninggalkan ponsel lama.
+- Cadangan bawaan sistem ponsel memasang ulang aplikasi tetapi tidak bisa mengembalikan dokumen Anda, karena cadangan sistem tidak memindahkan kunci enkripsi yang terikat pada perangkat.
 
 Anda sudah memindai empat paspor, dua visa, dan akta lahir anak-anak ke dalam aplikasi yang menyimpan semuanya di ponsel Anda. Bagus. Lalu muncul kekhawatiran yang jelas: bagaimana kalau ponsel itu tercebur ke laut, atau diambil orang dari meja kafe di Lisbon.
 
@@ -32,11 +32,11 @@ Model kedua mengacak file di ponsel Anda sebelum dikirim ke mana pun, menggunaka
 
 Jadi pertanyaan yang layak diajukan pada aplikasi mana pun cukup singkat: **siapa yang memegang kuncinya?** Semua hal lain dalam materi pemasarannya mengikuti jawaban itu.
 
-## Kode Pemulihan, dan Mengapa Tidak Ada yang Bisa Mereset-nya
+## Kode Pemulihan, dan Mengapa Kami Tidak Bisa Meresetnya
 
-Berikut bagian yang dilewatkan sebagian besar artikel, dan layak dikatakan dengan jelas: Travel Document Vault tidak punya akun. Anda tidak pernah memberi kami alamat email, kami tidak pernah membuatkan Anda kata sandi, dan tidak ada catatan tentang Anda di server mana pun yang kami jalankan. Saat Anda mengaktifkan [cadangan cloud](https://traveldocumentvault.com/id/cloud-backup/), aplikasi membuat kode pemulihan 24 karakter dan menurunkan kunci enkripsi darinya. Vault terenkripsi itu kemudian dikirim ke **iCloud Anda sendiri di iPhone dan iPad, atau Google Drive Anda sendiri di Android**, bukan ke kami.
+Travel Document Vault tidak memerlukan akun aplikasi untuk menyimpan dokumen di perangkat Anda. Fitur opsional [cadangan cloud](https://traveldocumentvault.com/id/cloud-backup/) memerlukan Pro dan kode pemulihan Anda untuk membuka kunci enkripsi cloud. Aplikasi membuat kode 24 karakter ini saat Anda mengatur PIN. Vault terenkripsi itu kemudian dikirim ke **iCloud Anda sendiri di iPhone dan iPad, atau Google Drive Anda sendiri di Android**, bukan ke kami.
 
-Konsekuensinya tidak terelakkan. **Jika Anda kehilangan kode pemulihan itu, cadangan tidak akan pernah bisa dibuka lagi.** Bukan oleh Anda, bukan oleh Apple atau Google, dan bukan oleh kami. Tidak ada tautan reset, karena tidak ada akun untuk menautkannya. Tidak ada tiket dukungan yang bisa memulihkannya, karena kami memang tidak pernah memegangnya dan sama sekali tidak bisa menebaknya.
+Konsekuensinya tidak terelakkan. **Jika Anda kehilangan kode pemulihan dan akses ke semua perangkat yang masih bisa membuka vault, kami tidak bisa memulihkan cadangan terenkripsi.** Tidak ada tautan reset, karena tidak ada akun untuk menautkannya. Tidak ada tiket dukungan yang bisa memulihkannya, karena kami memang tidak pernah memegangnya dan sama sekali tidak bisa menebaknya.
 
 Itu terdengar keras kalau dituliskan, dan lebih baik jujur soal ini daripada menguburnya di halaman pengaturan. Ini kompromi yang sama seperti kunci rumah: gembok baru berguna karena tidak ada tukang kunci mana pun di dunia yang menyimpan cadangannya, dan itulah tepatnya alasan mengapa kehilangan kunci Anda menjadi masalah Anda sendiri.
 
@@ -68,17 +68,17 @@ Itu sebabnya versi jujur dari pertanyaan "apakah cloud aman" adalah: cloud itu h
 
 ## Apa yang Masuk ke Cadangan, dan Apa yang Tetap Tertinggal
 
-Cadangan membawa salinan terenkripsi dari vault: setiap profil, setiap pindaian, tanggal kedaluwarsa, pengingat, catatan, dan lampiran. Pulihkan cadangan itu, dan aplikasi akan tampak seperti saat Anda meninggalkannya.
+Cadangan mencakup profil, pindaian, lampiran, tanggal kedaluwarsa, catatan, dan riwayat pengingat yang bisa dipindahkan ke perangkat baru. Aplikasi mengenkripsinya sebelum diunggah. Pemulihan mengembalikan isi vault ini; pengaturan perangkat tetap terpisah, dan aplikasi membuat ulang notifikasi.
 
-Ada tiga hal yang sengaja tetap tinggal di ponsel, dan kode pemulihan menjadi yang pertama: kode itu tidak pernah meninggalkan perangkat, dan itulah inti dari desainnya. Kunci aplikasi Anda juga tetap lokal, sehingga Face ID, Touch ID, atau PIN Anda menjaga orang lain agar tidak bisa masuk ke ponsel, sementara enkripsi menjaga mereka agar tidak bisa membuka filenya. Dan snapshot lokal otomatis yang dibuat aplikasi saat Anda bekerja juga hanya tetap ada di perangkat.
+Ada tiga hal yang sengaja tetap tinggal di ponsel, dan kode pemulihan menjadi yang pertama: kode itu tidak diunggah bersama cadangan. Kunci aplikasi Anda juga tetap lokal, sehingga Face ID, Touch ID, atau PIN Anda menjaga orang lain agar tidak bisa masuk ke aplikasi, sementara enkripsi menjaga mereka agar tidak bisa membuka filenya. Dan snapshot lokal otomatis yang dibuat aplikasi saat Anda bekerja juga hanya tetap ada di perangkat.
 
-Poin terakhir ini yang sering membuat orang terkejut, jadi ini versi terus terangnya. **Cadangan bawaan sistem ponsel memasang ulang aplikasi, tetapi tidak bisa memulihkan dokumen Anda.** Kunci enkripsi tidak pernah meninggalkan ponsel lama, sehingga ponsel baru tidak punya apa pun untuk mendekripsinya. Jika Anda ingin vault Anda bertahan melampaui usia ponsel, Anda perlu mengaktifkan cadangan cloud atau menyimpan file ekspor di suatu tempat.
+Poin terakhir ini yang sering membuat orang terkejut, jadi ini versi terus terangnya. **Cadangan bawaan sistem ponsel memasang ulang aplikasi, tetapi tidak bisa memulihkan dokumen Anda.** Cadangan sistem tidak memindahkan kunci enkripsi yang terikat pada perangkat, sehingga ponsel baru memerlukan pemulihan dari cloud (Pro) atau file ekspor vault. Jika Anda ingin vault Anda bertahan melampaui usia ponsel, Anda perlu mengaktifkan cadangan cloud atau menyimpan file ekspor di suatu tempat.
 
-## Pemulihannya Singkat dan Tidak Menimpa Apa yang Sudah Ada
+## Memulihkan Vault, dan Memulai dari Awal Tanpa Mengubah Cadangan Lama
 
-Proses pemulihannya singkat, dan itulah tujuan dari melakukan persiapan lebih awal.
+Waktu pemulihan bergantung pada ukuran vault dan koneksi Anda.
 
-Pasang aplikasi di ponsel baru dan masuk dengan akun iCloud atau Google yang sama seperti sebelumnya. Buka Settings, lalu Cloud Backup, lalu Restore from Backup, dan masukkan kode pemulihan Anda. Vault akan kembali lengkap dengan profil, tanggal kedaluwarsa, dan pengingatnya.
+Pasang aplikasi di ponsel baru dan masuk dengan akun iCloud atau Google yang sama seperti sebelumnya. Dengan Pro dan cadangan cloud nonaktif di perangkat penerima, buka Pengaturan, Cadangan Awan, lalu Pulihkan dari Cadangan. Pilih vault yang sudah ada, masukkan kode pemulihan Anda, dan konfirmasi pemulihan yang akan menggantikan isi vault lokal. Profil, dokumen, dan tanggal kedaluwarsa dipulihkan; notifikasi dibuat ulang di perangkat penerima.
 
 Aplikasi juga memeriksa sebelum menulis apa pun. Jika cadangan cloud mendeteksi ada cadangan yang sudah ada di akun itu, aplikasi akan meminta Anda memilih antara memulihkan atau memulai dari awal. Ponsel baru tidak bisa diam-diam menimpa apa yang sudah ada di sana.
 
@@ -86,7 +86,7 @@ Aplikasi juga memeriksa sebelum menulis apa pun. Jika cadangan cloud mendeteksi 
 
 Cadangan cloud tetap berada di satu platform, karena menggunakan iCloud Anda sendiri di perangkat Apple dan Google Drive Anda sendiri di Android. Berpindah dari satu ke yang lain memerlukan jalur yang berbeda.
 
-Gunakan Vault Export. Settings, Export Vault akan menghasilkan satu file yang dilindungi kata sandi berisi semuanya, dan Anda yang menentukan ke mana file itu pergi: aplikasi Files, sebuah drive, atau email ke diri sendiri. Di ponsel baru, Settings, Import Vault akan membacanya kembali. Fitur ini bekerja ke dua arah dan menjaga nama, tanggal, pengingat, warna, catatan, dan lampiran tetap seperti semula.
+Ekspor vault gratis. Di Pengaturan, Ekspor vault membuat satu file yang dilindungi kata sandi berisi profil, dokumen, perjalanan, pengaturan yang didukung, dan lampiran yang bisa dibaca. Anda memilih tempat menyimpannya: aplikasi Files, sebuah drive, atau email ke diri sendiri. Di ponsel baru, Pengaturan, Impor cadangan membacanya kembali dan menggantikan data yang sudah ada. Fitur ini mendukung kedua platform. Tinjau dokumen, catatan, dan lampiran yang diimpor, periksa kembali pengingat, dan simpan file ekspor asli. Notifikasi dibuat ulang di perangkat penerima.
 
 File ekspor itu juga menjadi jawaban bagi siapa pun yang ingin memiliki salinan yang sama sekali tidak bergantung pada akun cloud. Menyimpannya di sebuah drive di rumah adalah hal yang masuk akal, terlepas dari ponsel apa pun yang Anda bawa.
 
@@ -114,23 +114,23 @@ Artinya salinan diacak di ponsel Anda sebelum dikirim ke mana pun, menggunakan k
 
 ### Apa yang terjadi jika saya kehilangan kunci cadangan saya?
 
-Cadangan itu tetap terenkripsi dan tidak ada yang bisa membukanya, termasuk kami. Tidak ada akun, tidak ada reset kata sandi, dan tidak ada jalur dukungan yang bisa memulihkannya, karena kode pemulihan memang tidak pernah sampai ke kami sejak awal. Itu adalah kompromi yang sengaja dipilih, agar tidak ada pihak lain pun yang bisa membaca dokumen Anda. Tulis kode itu sebelum Anda mengandalkan cadangan, simpan di tempat yang terpisah dari ponsel Anda, dan baca ulang sekali untuk memastikan Anda benar-benar bisa membacanya.
+Jika Anda kehilangan kode pemulihan dan akses ke semua perangkat yang masih bisa membuka vault, kami tidak bisa memulihkan cadangan terenkripsi. Tidak ada akun, tidak ada reset kata sandi, dan tidak ada jalur dukungan yang bisa memulihkannya, karena kode pemulihan memang tidak pernah sampai ke kami sejak awal. Itu adalah kompromi yang sengaja dipilih, agar tidak ada pihak lain pun yang bisa membaca dokumen Anda. Tulis kode itu sebelum Anda mengandalkan cadangan, simpan di tempat yang terpisah dari ponsel Anda, dan baca ulang sekali untuk memastikan Anda benar-benar bisa membacanya.
 
 ### Apakah cadangan cloud aman untuk pindaian paspor?
 
-Semuanya tergantung pada bentuk file yang sampai ke cloud. Foto paspor Anda di galeri foto biasa atau folder sinkronisasi file akan sampai dalam bentuk yang bisa dibaca, dan siapa pun yang berhasil masuk ke akun itu bisa membacanya. Cadangan yang dienkripsi di perangkat sebelum diunggah akan sampai sebagai ciphertext, sehingga penyedia penyimpanan hanya memegang sesuatu yang tidak bisa dibukanya. Travel Document Vault mengenkripsi vault di ponsel Anda dengan AES-256-GCM dan mengirim file terenkripsi itu ke iCloud atau Google Drive milik Anda sendiri, bukan ke server perusahaan.
+Semuanya tergantung pada bentuk file yang sampai ke cloud. Foto paspor Anda di galeri foto biasa atau folder sinkronisasi file akan sampai dalam bentuk yang bisa dibaca, dan siapa pun yang berhasil masuk ke akun itu bisa membacanya. Cadangan yang dienkripsi di perangkat sebelum diunggah akan sampai sebagai ciphertext, sehingga penyedia penyimpanan hanya memegang sesuatu yang tidak bisa dibukanya. Dengan Pro, Travel Document Vault mengenkripsi vault di ponsel Anda dengan AES-256-GCM dan mengirim file terenkripsi itu ke iCloud atau Google Drive milik Anda sendiri, bukan ke server TDV.
 
 ### Bisakah saya memulihkan dokumen saya di ponsel yang berbeda?
 
-Bisa. Pasang aplikasi di ponsel baru, masuk dengan akun iCloud atau Google yang sama, lalu buka Settings, Cloud Backup, Restore from Backup, dan masukkan kode pemulihan Anda. Profil, dokumen, tanggal kedaluwarsa, dan pengingat Anda akan kembali seperti semula. Perlu diketahui, cadangan bawaan sistem ponsel tidak melakukan ini dengan sendirinya: cadangan itu memasang ulang aplikasi tetapi tidak bisa mendekripsi dokumen Anda, karena kunci enkripsi tidak pernah meninggalkan ponsel asli Anda.
+Bisa, dengan Pro. Pasang aplikasi di ponsel baru dan masuk dengan akun iCloud atau Google yang sama. Dengan cadangan cloud nonaktif di perangkat penerima, buka Pengaturan, Cadangan Awan, lalu Pulihkan dari Cadangan. Pilih vault yang sudah ada, masukkan kode pemulihan Anda, dan konfirmasi pemulihan yang akan menggantikan isi vault lokal. Profil, dokumen, dan tanggal kedaluwarsa dipulihkan; notifikasi dibuat ulang di perangkat penerima. Perlu diketahui, cadangan bawaan sistem ponsel tidak melakukan ini dengan sendirinya: cadangan itu memasang ulang aplikasi tetapi tidak bisa mendekripsi dokumen Anda, karena cadangan sistem tidak memindahkan kunci enkripsi yang terikat pada perangkat.
 
 ### Apakah cadangan ini berfungsi antara iPhone dan Android?
 
-Cadangan cloud sendiri tetap berada di satu platform, karena menggunakan iCloud Anda sendiri di iPhone dan iPad, serta Google Drive Anda sendiri di Android. Untuk berpindah di antara keduanya, gunakan Vault Export: Settings, Export Vault akan membuat satu file .tdvault yang dilindungi kata sandi, yang bisa Anda kirim ke diri sendiri dengan cara apa pun yang Anda suka, lalu Settings, Import Vault di ponsel baru akan membacanya kembali. Import berfungsi lintas platform ke dua arah dan menjaga nama, tanggal, pengingat, catatan, dan lampiran tetap utuh.
+Cadangan cloud tetap berada di satu platform: iCloud Anda sendiri di iPhone dan iPad, atau Google Drive Anda sendiri di Android. Untuk berpindah di antara keduanya, gunakan ekspor vault gratis. Di Pengaturan, Ekspor vault membuat file .tdvault yang dilindungi kata sandi, yang bisa Anda kirim ke diri sendiri. Di ponsel baru, Pengaturan, Impor cadangan membacanya kembali dan menggantikan data yang sudah ada. Impor mendukung kedua platform. Tinjau dokumen, catatan, dan lampiran yang diimpor, periksa kembali pengingat, dan simpan file ekspor asli. Notifikasi dibuat ulang di perangkat penerima.
 
 ### Apa yang disimpan dalam cadangan dan apa yang tetap ada di perangkat?
 
-Cadangan menyimpan salinan terenkripsi dari vault Anda: setiap profil, pindaian dokumen, tanggal kedaluwarsa, pengingat, dan catatan. Kode pemulihan Anda tidak termasuk di dalamnya, dan tidak pernah meninggalkan perangkat Anda. Begitu juga dengan kunci aplikasi Anda, sehingga Face ID, Touch ID, atau PIN Anda melindungi ponsel, sementara enkripsi melindungi filenya. Snapshot lokal otomatis juga hanya tetap ada di perangkat, itulah sebabnya snapshot tidak bisa mengembalikan vault Anda di ponsel pengganti.
+Cadangan mencakup profil, pindaian dan lampiran yang bisa dibaca, tanggal kedaluwarsa, catatan, dan riwayat pengingat yang bisa dipindahkan, semuanya dienkripsi sebelum diunggah. Kode pemulihan Anda tidak diunggah bersama cadangan. Kunci aplikasi Anda juga tetap lokal, sehingga Face ID, Touch ID, atau PIN Anda melindungi aplikasi, sementara enkripsi melindungi filenya. Snapshot lokal otomatis juga hanya tetap ada di perangkat, itulah sebabnya snapshot tidak bisa mengembalikan vault Anda di ponsel pengganti.
 
 ## Artikel Terkait
 

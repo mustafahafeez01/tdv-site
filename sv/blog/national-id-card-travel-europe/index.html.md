@@ -67,7 +67,7 @@ Den praktiska utmaningen med att hålla koll på resehandlingar är den här: di
 
 Det svårare är att **ingen av handlingarna skickar dig en påminnelse.** Du förväntas kontrollera dem själv. De flesta gör inte det, förrän de står vid incheckningsdisken och personalen säger att en av dem är för nära sitt utgångsdatum för att godtas.
 
-Det som hjälper är en enda plats för båda handlingarna, som fångar upp varje utgångsdatum när du skannar den och påminner dig separat för var och en, enligt det schema som passar den typen av handling. Se vår guide om [att bygga en komplett koll av resehandlingar före avresa](https://traveldocumentvault.com/sv/blog/travel-document-checklist/) för hela bilden av vad du bör kontrollera innan du reser.
+Det som hjälper är en enda plats för båda handlingarna, som sparar varje utgångsdatum och påminner dig separat för var och en, enligt det schema som passar den typen av handling. Se vår guide om [att bygga en komplett koll av resehandlingar före avresa](https://traveldocumentvault.com/sv/blog/travel-document-checklist/) för hela bilden av vad du bör kontrollera innan du reser.
 
 Börja i dag: ta fram ditt ID-kort, kontrollera utgångsdatumet och titta efter sprickor, blekt tryck eller skev plast. Är det på gränsen, boka förnyelsen innan du bokar resan.
 

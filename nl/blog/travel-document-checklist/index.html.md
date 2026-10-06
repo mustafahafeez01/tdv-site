@@ -93,7 +93,7 @@ Houd deze altijd in je handbagage, stop ze nooit in de ruimbagage: paspoorten, i
 
 Maak voordat je thuis vertrekt een foto van elk document en bewaar die in een versleutelde app, niet in je camerarol. Als je tas kwijtraakt of gestolen wordt, wil je je paspoortnummer, polisnummer van je verzekering, en boekingsreferenties ergens hebben waar je nog bij kunt op een ambassade of politiebureau. Een veilige digitale back-up scheelt uren als je probeert hulp te krijgen.
 
-**Travel Document Vault** bewaart versleutelde kopieën van elk document op deze lijst, georganiseerd per gezinslid, met automatische vervalherinneringen. Eén keer scannen, nooit meer op het laatste moment zoeken. [Download in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** bewaart versleutelde kopieën van je reisdocumenten. Scan elk document en bevestig de vervaldatum of voer die zelf in voor automatische herinneringen. Met Pro kun je meer dan vijf documenten opslaan en ze per gezinslid ordenen. [Download in de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Hoe je documentenlijst verandert per reistype
 

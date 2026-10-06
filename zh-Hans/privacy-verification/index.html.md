@@ -30,9 +30,9 @@ Source: https://traveldocumentvault.com/zh-Hans/privacy-verification/
 
 ### 1. 网络流量测试
 
-安装网络监控工具，如 **mitmproxy**（免费、开源）、**Wireshark**（免费、开源）或 **Charles Proxy**。打开 Travel Document Vault，扫描文档，浏览您的保险库，并设置提醒。您不应该看到您的文档、扫描件、到期日期或保险库内容被发送到 Travel Document Vault。网络流量应仅限于特定功能：可选的 Sentry 崩溃报告、App Store 或 Google Play 的购买检查、同步到您自己 iCloud 或 Google Drive 账户的可选云备份，以及下文说明的手动错误修复检查。
+安装网络监控工具，如 **mitmproxy**（免费、开源）、**Wireshark**（免费、开源）或 **Charles Proxy**。打开 Travel Document Vault，扫描文档，浏览您的保险库，并设置提醒。您不应该看到您的文档、扫描件、到期日期或保险库内容被发送到 Travel Document Vault。网络流量应仅限于特定功能：可选的 Sentry 崩溃报告、App Store 或 Google Play 的购买检查、同步到您自己 iCloud 或 Google Drive 账户的可选云备份，以及下文说明的错误修复检查。
 
-设置中有一个 **Check for Updates** 按钮。这是手动检查，绝不会自动进行——只有当您自己点按它时才会运行，绝不会在后台，也绝不会自行运行。此检查联系 **updates.traveldocumentvault.com**——我们自己的更新服务器，由我们在 Google Cloud 上运营，从存储桶提供加密签名的更新文件。我们不会记录此检查：我们这边已禁用请求日志，因此不会保留任何 IP 地址。每项更新都用我们唯一持有的密钥进行签名，应用将拒绝任何签名与内置证书不匹配的内容。同一次点按还会检查 **App Store** 或 **Google Play** 上是否有更新版本的应用。设置这个按钮是为了让某些错误修复能比等待 App Store 或 Google Play 全新发布更快送达给您，对紧急修复很有用，具体取决于修复的性质。本页其他部分同样的规则依然适用：未经您主动请求，绝不会发起任何网络请求。
+设置中有一个 **检查更新** 按钮。此检查默认关闭：点击时运行，或在开启“打开时检查更新”后，每次启动应用时运行一次。正在进行的下载可能在应用进入后台后继续。此检查联系 **updates.traveldocumentvault.com**——我们自己的更新服务器，由我们在 Google Cloud 上运营，从存储桶提供加密签名的更新文件。更新处理程序不会写入应用请求日志。每项更新都用我们唯一持有的密钥进行签名，应用将拒绝任何签名与内置证书不匹配的内容。同一次点按还会检查 **App Store** 或 **Google Play** 上是否有更新版本的应用。设置这个按钮是为了让某些错误修复能比等待 App Store 或 Google Play 全新发布更快送达给您，对紧急修复很有用，具体取决于修复的性质。文档存储无需联网；商店购买检查和已启用的可选功能可能自动发起网络请求。
 
 ### 2. iOS 应用隐私报告
 
@@ -42,7 +42,7 @@ Source: https://traveldocumentvault.com/zh-Hans/privacy-verification/
 
 Android 没有像 iPhone 那样单一的内置隐私报告。有两种简单的方法可以自行检查：查看此应用在 Google Play 页面上自己的 **Data Safety** 部分（其中明确说明了收集了哪些内容、共享了哪些内容、您的数据在传输中是加密的，以及无法被删除）- 或者使用上文第 1 步中描述的网络监控工具。
 
-如果您已开启云备份，您可能会注意到一些流向 Google 服务器的活动（以 **googleapis.com** 结尾的网址）。这是正常且安全的：发送的只是您已锁定、已加密的备份文件以及一次登录检查，直接发送到**您自己的** Google Drive 账户——就是您已经用于照片或 Gmail 的那个账户。我们从不查看它、接收它，也不会在任何地方保存它的副本。只有您持有能够解锁它的恢复密钥。
+如果您已开启云备份，您可能会注意到一些流向 Google 服务器的活动（以 **googleapis.com** 结尾的网址）。这些连接会将加密保险库文件、登录检查，以及设备名称、数量和时间戳等未加密备份元数据发送到**您自己的** Google Drive 账户——就是您已经用于照片或 Gmail 的那个账户。我们从不查看它、接收它，也不会在任何地方保存它的副本。只有您持有能够解锁它的恢复密钥。
 
 ### 4. App Store 和 Google Play 隐私标签
 
@@ -52,17 +52,17 @@ Apple 和 Google 要求开发者声明他们的应用收集什么数据。检查
 
 我们不会只是声称这款应用是安全的，而是会去实际核查，使用的正是安全行业本身所采用的开放工具和公开标准。
 
-### 我们以公开标准来衡量应用
+### 将应用与公开标准对照
 
-我们依据[OWASP Mobile Application Security Verification Standard (MASVS)](https://mas.owasp.org/MASVS/)对Travel Document Vault进行评估，这是业界公认的检查清单，规定了移动应用应如何存储数据、使用加密、通过Face ID或PIN锁定，以及如何处理来自其他应用的链接。任何人都可以查阅该标准，并将其与应用的实际表现进行对比。
+您可以依据[OWASP Mobile Application Security Verification Standard (MASVS)](https://mas.owasp.org/MASVS/)对 Travel Document Vault 进行比较，这是业界公认的检查清单，规定了移动应用应如何存储数据、使用加密、通过Face ID或PIN锁定，以及如何处理来自其他应用的链接。任何人都可以查阅该标准，并将其与应用的实际表现进行对比。
 
-### 我们扫描自己的代码
+### 源代码分析
 
-在每次发布之前，我们都会使用开源工具[Semgrep](https://semgrep.dev/)对代码进行静态分析。Semgrep能够标记不安全的模式，例如弱加密或不安全的数据处理方式，帮助我们及早发现问题。
+静态分析工具，例如[Semgrep](https://semgrep.dev/)，可以标记弱加密或不安全的数据处理等模式。这说明的是一种检查方法，并不能证明每个发布版本都通过了扫描。
 
-### 我们扫描已构建完成的应用
+### 构建后应用的行为
 
-我们还会使用移动应用安全扫描工具对发布版本进行审查，检查该版本如何存储数据、可以访问哪些内容，以及签名方式。
+应用在设备上加密文档文件，其更新配置要求代码签名证书。您可以通过上面的步骤检查网络行为。
 
 ### 发现问题？请告诉我们
 
@@ -88,7 +88,7 @@ iOS + Android
 
 iOS + Android
 
-**我们请求的原因：** 以便您可以导入现有文档照片，并且应用可以在您请求时导出加密的备份文件 (.tdvault)。在较旧的 Android 版本中，需要 READ_EXTERNAL_STORAGE 和 WRITE_EXTERNAL_STORAGE。在 Android 13 以上，改用 READ_MEDIA_IMAGES。
+**我们请求的原因：** 用于导入现有文档照片。Android 使用系统照片选择器，因此 READ_EXTERNAL_STORAGE、WRITE_EXTERNAL_STORAGE 和 READ_MEDIA_IMAGES 已从最终构建中移除。加密备份文件（.tdvault）通过手机分享菜单导出，无需存储权限。
 
 **我们从不做的事：** 应用仅读取您选择的图像。永远不会扫描、索引或浏览您的照片库或文件系统。
 
@@ -104,7 +104,7 @@ iOS + Android
 
 Android
 
-**我们请求的原因：** 传递您自己设置的设备内到期提醒。RECEIVE_BOOT_COMPLETED 在设备重启后重新安排您的提醒。WAKE_LOCK 确保提醒即使在手机睡眠时也能可靠地发送。VIBRATE 伴随通知传递。
+**我们请求的原因：** 为文档提供设备端到期提醒。RECEIVE_BOOT_COMPLETED 在设备重启后重新安排您的提醒。WAKE_LOCK 支持通知处理。VIBRATE 伴随通知传递。
 
 **我们从不做的事：** 不会发送任何营销、促销或第三方通知。提醒完全在您的设备上安排。
 
@@ -112,7 +112,7 @@ Android
 
 Android
 
-**为什么会出现这些：** 它们是网络相关功能所必需的：**Sentry 崩溃报告**（可选加入，默认禁用）、用于购买 Pro 升级的 **App Store 或 Google Play 计费**、**Pro 云备份**（可选，会把您的加密保险库同步到您自己的 iCloud 或 Google Drive），以及设置中手动的 **Check for Updates** 按钮（仅在您点按时运行）。ACCESS_NETWORK_STATE 和 ACCESS_WIFI_STATE 让这些功能在尝试发送前检查连接是否可用。
+**为什么会出现这些：** 它们是网络相关功能所必需的：**Sentry 崩溃报告**（可选加入，默认禁用）、用于购买 Pro 升级的 **App Store 或 Google Play 计费**、**Pro 云备份**（可选，会把您的加密保险库同步到您自己的 iCloud 或 Google Drive），以及设置中的 **检查更新** 按钮（点按时运行，或开启相应选项后在打开应用时运行）。ACCESS_NETWORK_STATE 和 ACCESS_WIFI_STATE 让这些功能在尝试发送前检查连接是否可用。
 
 **我们不会做的事：** 应用不会把您的文档、扫描件、到期日期、照片或保险库内容上传到 Travel Document Vault。对于正常的文档存储和提醒，它完全可以离线工作。
 
@@ -122,9 +122,9 @@ Android 应用包含用于应用内购买、崩溃报告和通知等功能的第
 
 ### 录制音频
 
-继承的，未使用
+继承的，已移除
 
-**这出现的原因：** 此权限由构建中包含的第三方库（通常是相机或媒体插件）声明。它在 Android 清单中出现，但从不由我们的代码触发。应用在任何情况下都不会录制音频或视频。
+**这出现的原因：** 此权限由构建中的相机库声明。Travel Document Vault 会将其从最终 Android 清单中移除，因为应用只拍摄文档静态图像，从不录制音频或视频。
 
 **您如何确认：** 应用不会要求麦克风访问权限。如果您检查设备的权限管理器，您会看到未授予 Travel Document Vault 音频录制权限。
 
@@ -132,13 +132,13 @@ Android 应用包含用于应用内购买、崩溃报告和通知等功能的第
 
 继承的
 
-由 Flutter 框架为开发和调试覆盖层声明。此权限在应用的发布版本中不使用，不会影响您的隐私。
+由 React Native 框架依赖项为开发和调试覆盖层声明。Travel Document Vault 会将其从最终 Android 清单中移除，且不使用覆盖窗口。
 
 ### 检测屏幕捕获
 
 继承的
 
-由框架依赖项声明。应用不检测、阻止或响应屏幕截图。此权限不会影响您的使用。
+由框架依赖项声明。Travel Document Vault 在受支持的文档页面上默认启用屏幕捕获保护。您可以在“设置”中更改。
 
 ### 徽章计数权限
 
@@ -156,7 +156,7 @@ Google Play
 
 继承的
 
-由框架依赖项声明。应用不在后台下载文件。
+由框架依赖项声明。在应用内启动的更新下载可能在应用进入后台后继续，iCloud 也可通过操作系统管理文件传输。
 
 ### 我们不请求的权限
 

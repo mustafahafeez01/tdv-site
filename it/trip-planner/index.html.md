@@ -1,6 +1,6 @@
 # Pianificatore di Viaggio per Famiglie | Travel Document Vault
 
-> Pianifica i viaggi in famiglia: semaforo di prontezza per ogni viaggiatore, liste per la valigia e limiti di giorni per paese. Tutto offline.
+> Con Pro, pianifica i viaggi in famiglia: semaforo di prontezza per ogni viaggiatore, liste per la valigia e limiti di giorni per paese. Tutto offline.
 
 Source: https://traveldocumentvault.com/it/trip-planner/
 
@@ -12,7 +12,7 @@ Cinque funzionalità che rendono la pianificazione dei viaggi in famiglia senza 
 
 ### Semaforo di Disponibilità
 
-Verde significa che tutti sono pronti, mentre l'ambra segnala chi ha i documenti in scadenza — nessuna sorpresa la notte prima del viaggio.
+Il verde indica che i documenti collegati superano i controlli impostati per le date di viaggio salvate. L’ambra evidenzia gli elementi da verificare.
 
 Ogni membro della famiglia ha il proprio status di disponibilità basato sulle date di scadenza dei documenti e il contesto del viaggio.
 
@@ -24,21 +24,21 @@ Costruito per famiglie con 2 - 10+ membri. Funziona per coniugi, figli, nonni e 
 
 ### Lista di Imballaggio
 
-Checklist specifica per il viaggio, personalizzata in base alla durata e alla destinazione che spuntate mentre imballate — non dimenticate più la crema solare.
+Checklist per viaggi di piacere o di lavoro da spuntare mentre prepara la valigia, per non dimenticare di nuovo l’adattatore per la presa.
 
-Le checklist si adattano al meteo, alla durata del viaggio e al tipo di viaggio (spiaggia, città, sci, ecc.).
+Le checklist partono da un modello per viaggi di piacere o di lavoro e può aggiungere o rimuovere elementi per ogni viaggio.
 
 ### Sappia Prima di Partire
 
-Pannello della destinazione con requisiti di ingresso, regole sui visti e suggerimenti di viaggio per ogni paese — nessuna sorpresa all'ingresso.
+Pannello della destinazione con valuta, lingua, tipo di presa, tensione e lato di guida per le destinazioni più popolari, per evitare sorprese all’arrivo.
 
-Mostra le regole Schengen, le finestre di validità dei visti e i costumi locali. Tutto aggiornato per i requisiti di viaggio attuali.
+Copre quasi 60 delle destinazioni più visitate, con informazioni integrate nell’app per funzionare offline.
 
 ### Franchigie Limite di Giorni per Paese
 
-Traccia quanti giorni ogni membro della famiglia ha trascorso in un paese creando periodi (anno Schengen, finestra di visto, anno fiscale) e collegando le regole di franchisia ad essi — poi vedi un'analisi per membro a colpo d'occhio.
+Traccia quanti giorni ogni membro della famiglia ha trascorso in un paese creando periodi (finestra di visto o anno fiscale) e collegando le regole di franchisia ad essi — poi vedi un'analisi per membro a colpo d'occhio.
 
-Realizzato per limiti mobili in stile 90/180 in un paese, le regole del Regno Unito di 183 giorni e qualsiasi finestra di visto o residenza personalizzata. I giorni utilizzati si aggiornano automaticamente mentre i viaggi vengono registrati.
+Imposti una finestra fissa o mobile per ogni paese, con il Suo limite di giorni per visto o residenza. Verifichi separatamente le regole ufficiali. I giorni utilizzati si aggiornano automaticamente quando registra i viaggi.
 
 ## E molto altro ancora
 
@@ -60,7 +60,7 @@ Pro: Sincronizzazione con il Suo iCloud o Google Drive personale. Accesso multi-
 
 ## Pronto a pianificare meglio
 
-Scarica gratis. Nessun account. Iniziate a pianificare oggi.
+Scarica gratis. Nessun account. Iniziate a pianificare oggi con Pro.
 
 ![Scarica su App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

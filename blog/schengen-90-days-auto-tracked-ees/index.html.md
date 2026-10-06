@@ -74,7 +74,7 @@ The manual method comes first, because it's free and official: take today's date
 
 For one person taking a holiday or two a year, that's entirely manageable. It gets harder when trips overlap and people multiply: a business traveller doing short hops every month, or a family where one child is on a school exchange, another has summer camp dates, and a partner flies home early. Each person carries their own rolling window, and the windows don't line up. This is the situation where a tracking tool stops being a gadget and starts being how you avoid an expensive mistake - our [guide to visa and entry tracking](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/) covers the wider problem.
 
-One honesty note: no app can read your EES record, ours included. What a tracker does is apply the official 90/180 arithmetic to the trip dates you give it, continuously, for every traveller you add. The border counts what happened; a good tracker shows what you can still do.
+Travel Document Vault doesn't read your EES record. With Pro, it counts saved trips against the per-country day limits you set. It doesn't calculate a combined Schengen-wide 90/180 allowance, so check your total time across the area separately.
 
 ## Three Things EES Is Not
 
@@ -110,7 +110,7 @@ No. EES is live now and registers your entry and exit at the border. ETIAS is a 
 
 ### How does Travel Document Vault help with the 90/180 rule?
 
-The app counts days per person, per country, across all your trips to that country, and projects your rolling window forward before you book. It does not read your EES record - no app can - but with Pro it applies a rolling 90/180 count to your trips to each country you set a limit for, so every family member's remaining days there are visible at a glance.
+With Pro, the app counts saved trip days per person, per country, and projects the rolling window forward for the limits you set. It doesn't read your EES record or calculate a combined Schengen-wide 90/180 allowance. You can see each family member's remaining days for a country, but must check the Schengen total separately.
 
 ## Related Articles
 

@@ -72,7 +72,7 @@ Digamos que a sua palavra-passe de conta do Google foi reutilizada num site que 
 | Google Photos | Servidores de nuvem do Google | Em trânsito + em repouso (chaves geridas pelo Google) | Moderado | Aceitável com autenticação de dois fatores forte |
 | iCloud Photos | Servidores de nuvem da Apple | Em trânsito + em repouso (chaves geridas pela Apple) | Moderado | Aceitável com autenticação de dois fatores forte |
 | Gestor de palavras-passe encriptado (1Password, Bitwarden) | Nuvem (conhecimento zero) | Ponta a ponta; fornecedor não consegue ler conteúdo | Baixo | Boa escolha |
-| Aplicação encriptada no dispositivo (backup opcional na própria nuvem) | Apenas o seu telemóvel | Encriptado no dispositivo; nenhuma cópia no servidor | Baixo | Melhor para documentos sensíveis |
+| Aplicação encriptada no dispositivo (backup opcional na própria nuvem) | O seu telemóvel; cópia de segurança encriptada opcional para a sua própria nuvem (Pro) | Encriptado no dispositivo; cópia encriptada opcional na sua própria nuvem (Pro) | Baixo | Melhor para documentos sensíveis |
 | Câmara roll / pasta não encriptada | O seu dispositivo | Apenas encriptação de dispositivo | Alto | Não recomendado |
 
 ### iCloud Photos vs Google Photos: É a Apple Mais Segura?
@@ -85,7 +85,7 @@ O mesmo risco de compromisso de conta aplica-se a ambas as plataformas. Uma pala
 
 Se for um utilizador de iPhone, ativar **Advanced Data Protection no iCloud** vale a pena fazer. Uma aplicação encriptada construída propositadamente sem upload de nuvem permanece a opção mais forte para armazenamento de passaportes independentemente da plataforma em que está.
 
-**Travel Document Vault** armazena as suas fotografias de passaporte no dispositivo com encriptação forte. Nenhuma conta necessária. Backup encriptado opcional para o seu próprio iCloud ou Google Drive (Pro), selado com um código de recuperação apenas seu. [Transferir da App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** armazena as suas fotografias de passaporte no dispositivo com encriptação forte. Nenhuma conta necessária. Com Pro, pode fazer uma cópia de segurança encriptada para o seu próprio iCloud ou Google Drive. Guarde o código de recuperação em segurança: vai precisar dele para restaurar essa cópia de segurança. [Transferir da App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Quais São as Alternativas Mais Seguras?
 
@@ -99,7 +99,7 @@ Vale a pena separar duas coisas à partida: guardar uma cópia para sua própria
 
 **Aplicações encriptadas no dispositivo**
 
-Aplicações construídas especificamente para isto — como [Travel Document Vault](https://traveldocumentvault.com) — mantêm tudo no seu telemóvel com encriptação forte e nenhuma conta necessária. Obtém backup encriptado opcional para o seu próprio iCloud ou Google Drive (Pro), e não existe servidor para violar porque a sua cópia de passaporte digital nunca deixa o dispositivo. A troca única é que se perder o seu telemóvel sem uma cópia de segurança, a cópia digital vai com ele, embora o seu passaporte físico ainda esteja consigo.
+Aplicações construídas especificamente para isto — como [Travel Document Vault](https://traveldocumentvault.com) — guardam os documentos encriptados no telemóvel, sem conta na aplicação. Pode partilhar ou exportar cópias, ou usar Pro para fazer uma cópia de segurança encriptada para o seu próprio iCloud ou Google Drive. A aplicação não envia os documentos para os nossos servidores. A troca única é que se perder o seu telemóvel sem uma cópia de segurança, a cópia digital vai com ele, embora o seu passaporte físico ainda esteja consigo.
 
 **Armazenamento na nuvem encriptado com chaves do lado do cliente**
 
@@ -133,7 +133,7 @@ Sim. Sistemas automatizados processam as suas fotos para coisas como reconhecime
 
 ### Qual é a forma mais segura de guardar uma cópia digital de um passaporte?
 
-O armazenamento encriptado no dispositivo é a sua melhor aposta — aplicações que mantêm as suas fotografias no seu telemóvel com encriptação forte e zero upload de nuvem. Nenhum servidor de terceiros toca os seus dados de passaporte. Se deseja acesso na nuvem também, um gestor de palavras-passe encriptado de conhecimento zero como 1Password ou Bitwarden é um meio termo sólido.
+O armazenamento encriptado no dispositivo é a sua melhor aposta — aplicações que mantêm as suas fotografias no telemóvel com encriptação forte por predefinição. As cópias podem sair através de partilha, exportação ou cópia de segurança encriptada opcional para o seu próprio iCloud ou Google Drive (Pro). Se deseja acesso na nuvem também, um gestor de palavras-passe encriptado de conhecimento zero como 1Password ou Bitwarden é um meio termo sólido.
 
 ### Pode alguém roubar a minha identidade a partir de uma fotografia de passaporte?
 

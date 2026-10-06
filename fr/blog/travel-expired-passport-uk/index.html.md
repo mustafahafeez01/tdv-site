@@ -88,7 +88,7 @@ Cela s'applique, que votre passeport ait expiré avant que vous quittiez le Roya
 
 [Si votre passeport a déjà expiré et vous recherchez quoi faire ensuite, notre article complémentaire le couvre étape par étape](https://traveldocumentvault.com/fr/blog/passport-expired-what-to-do/). Si vous avez un voyage à venir et votre passeport approche l'expiration, c'est le moment de renouveler plutôt que d'attendre jusqu'à ce qu'il expire, ce qui signifie payer le service Premium au lieu de la taxe standard. Vérifiez les passeports de votre famille maintenant avant de réserver un voyage.
 
-**Définissez des rappels d'expiration des mois à l'avance, pas des semaines.** [Travel Document Vault suit les dates d'expiration de chaque passeport de votre ménage et envoie des rappels dès huit mois avant l'échéance, puis à nouveau à l'approche de l'expiration](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/), afin que vous renouveliez le traitement standard et évitiez les frais d'urgence.
+**Définissez des rappels d'expiration des mois à l'avance, pas des semaines.** [Travel Document Vault suit l’expiration de votre passeport et envoie des rappels dès huit mois avant l’échéance par défaut, puis à nouveau à l’approche de l’expiration](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/). Ajoutez tous les passeports de votre foyer avec Pro. Utilisez les rappels pour vous aider à prévoir les renouvellements.
 
 ## Si vous êtes déjà à l'étranger et votre passeport expire
 

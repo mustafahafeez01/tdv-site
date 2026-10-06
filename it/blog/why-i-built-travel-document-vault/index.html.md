@@ -1,6 +1,6 @@
 # Perché ho creato Travel Document Vault: Per il genitore che ricorda tutto
 
-> Perché ho creato Travel Document Vault dopo un controllo del passaporto alle 3 del mattino, e perché tutto resta sul tuo dispositivo.
+> Perché ho creato Travel Document Vault dopo un controllo del passaporto alle 3 di notte e perché i documenti restano sul dispositivo per default.
 
 Source: https://traveldocumentvault.com/it/blog/why-i-built-travel-document-vault/
 
@@ -48,13 +48,13 @@ E doveva funzionare offline. Perché mi sarei trovato in aeroporto, o bloccato i
 
 ## Così ho creato esattamente ciò di cui avevo bisogno
 
-Travel Document Vault fa una cosa sola: mette tutto in un unico posto, così non ci si pensa più fino a quando l'app non lo segnala.
+Travel Document Vault raccoglie i documenti e le date di scadenza salvate in un unico posto, con promemoria per aiutarLa a pianificare i rinnovi.
 
-Si scansiona un documento una volta. L'app legge la data di scadenza (Lei la controlla). I promemoria si programmano automaticamente: sei mesi prima, poi tre mesi, sei settimane, un mese, due settimane, fino al giorno prima della scadenza.
+Scansioni un documento una volta. L’app prova a leggere la data di scadenza: la confermi o la inserisca manualmente. I promemoria sono attivi per impostazione predefinita quando salva una data di scadenza. Per i passaporti iniziano otto mesi prima, poi sei mesi, tre mesi, sei settimane, un mese, due settimane, fino al giorno della scadenza.
 
-Un profilo per ogni membro della famiglia. Tutti i documenti in un unico posto. Quando deve verificare di essere pronto a viaggiare, apre l'app e lo sa. Immediatamente. Non "probabilmente" o "credo di sì", **lo sa davvero**.
+Aggiunga tutta la famiglia con Pro, con un profilo per ciascuno. Prima di un viaggio può **controllare i documenti e le date di scadenza salvate della famiglia**.
 
-Quando un hotel chiede la copia del passaporto, un'ambasciata ha bisogno dei suoi dati, o il noleggio auto vuole la patente, li condivide con un solo tocco. Nessuna ricerca affannosa. Nessun Wi-Fi necessario. Tutto insieme, lì a portata di mano.
+Quando un hotel chiede la copia del passaporto, un’ambasciata ha bisogno dei Suoi dati o il noleggio auto vuole la patente, può aprire il menu di condivisione e scegliere come inviarli. La consultazione delle copie salvate funziona offline; email e messaggi richiedono una connessione.
 
 Questo è il vero vantaggio: recupera spazio mentale. Il carico mentale invisibile, quel costante brusio di sottofondo che chiede "mi sto dimenticando qualcosa?", scompare. L'app ricorda al posto suo.
 
@@ -81,10 +81,10 @@ Sin dall'inizio ho preso una decisione ferma: i Suoi documenti appartengono a Le
 Travel Document Vault è autonomo:
 
 - Nessun account da creare
-- Nessun caricamento su server
+- Backup cloud crittografato facoltativo (Pro)
 - Crittografato sul suo dispositivo
 
-Quando si scansiona un documento, il riconoscimento del testo viene eseguito sul dispositivo. Tutto rimane sul suo telefono. **Nulla viene caricato su alcun server.**
+Quando scansiona un documento, il riconoscimento del testo viene eseguito sul dispositivo. I documenti restano sul telefono per impostazione predefinita; **il backup crittografato facoltativo (Pro) salva una copia sul Suo iCloud o Google Drive.** Può anche esportare o condividere copie.
 
 Alcune persone preferiscono app che sincronizzano ovunque. Per passaporti e documenti d'identità, ho voluto un modello più semplice: il suo telefono è l'archivio. Può esportare le sue copie ogni volta che ne ha bisogno. Sono sue, dopotutto.
 
@@ -94,9 +94,9 @@ Un archivio per i documenti di viaggio è qualcosa che si configura una volta e 
 
 Un abbonamento non ha senso per questo. Se smettessi di pagare, dovrei esportare tutto, trovare un'altra app, migrare i documenti, ricostruire tutti i promemoria. E se mi dimenticassi di rinnovare? Perderei l'accesso esattamente quando ne ho più bisogno, fermo al check-in a rendermi conto che il passaporto di mio figlio scade tra quattro mesi e non riesco a raggiungere la scansione che avevo salvato.
 
-Quando acquista questa app, è sua. I documenti rimangono sul suo dispositivo. I promemoria continuano a funzionare. Nessun rinnovo. Nessuna esportazione. Nessun vincolo. Funziona e basta, in silenzio in sottofondo, fino a quando ne ha bisogno.
+I documenti e i promemoria salvati funzionano nella versione gratuita. Pro aggiunge profili e documenti illimitati con un acquisto una tantum, quindi non c’è un abbonamento da rinnovare.
 
-La versione gratuita offre un profilo, cinque documenti, OCR, promemoria e blocco con PIN. Pro sblocca profili e documenti illimitati con un unico pagamento. Si paga una volta, tutti gli aggiornamenti v1.x inclusi, per sempre. Tutto qui.
+La versione gratuita offre un profilo, cinque documenti, rilevamento automatico delle date, promemoria e blocco con PIN. Pro sblocca profili e documenti illimitati con un unico pagamento. Si paga una volta, tutti gli aggiornamenti v1.x inclusi, per sempre. Tutto qui.
 
 [Informazioni sulla nostra politica delle versioni →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
@@ -110,7 +110,7 @@ Se è Lei la persona in famiglia che controlla tutto due volte, tiene la cartell
 
 **Una cosa in meno di cui preoccuparsi.**
 
-Creata prima per uso personale. Nessun account. Nessun caricamento su server.
+Creata prima per uso personale. Nessun account. Backup cloud crittografato facoltativo (Pro).
 
 Mustafa
 

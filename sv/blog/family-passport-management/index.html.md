@@ -1,6 +1,6 @@
 # Familjepasshantering: Förvara flera familjepass på ett säkert sätt
 
-> Hur du organiserar och säkert förvarar flera familjepass på ett ställe. Spåra utgångsdatum för alla familjemedlemmar med påminnelser före varje förnyelse.
+> Samla familjens pass på ett krypterat ställe. Lägg till familjeprofiler med Pro och använd utgångsdatum och påminnelser för att planera förnyelser.
 
 Source: https://traveldocumentvault.com/sv/blog/family-passport-management/
 

@@ -67,7 +67,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-eur
 
 更麻烦的是，**这两份证件都不会主动提醒您。**按理说，您需要自己定期检查。但大多数人并不会这样做，直到在值机柜台被工作人员告知，某份证件已经临近到期、无法被接受。
 
-更好的办法是把两份证件放在同一个地方集中管理：扫描时自动识别各自的到期日期，并按照各自证件类型适用的时间表分别提醒。想全面了解出行前需要核实的事项，请参阅我们关于[如何建立完整的出行前证件检查清单](https://traveldocumentvault.com/zh-Hans/blog/travel-document-checklist/)的指南。
+更好的办法是把两份证件放在同一个地方集中管理：保存各自的到期日期，并按照各自证件类型适用的时间表分别提醒。想全面了解出行前需要核实的事项，请参阅我们关于[如何建立完整的出行前证件检查清单](https://traveldocumentvault.com/zh-Hans/blog/travel-document-checklist/)的指南。
 
 今天就开始：把身份证拿出来，查看到期日期，再仔细看看有没有裂纹、褪色或塑料变形。如果已经处于临界状态，请先办理续换，再订行程。
 

@@ -62,7 +62,7 @@ Tabel ini hanyalah gambaran sekilas, bukan gambaran lengkap: persyaratan juga be
 
 Persyaratan masa berlaku paspor per negara bisa berubah tanpa pemberitahuan, dan perjanjian bilateral bisa diam-diam mengubah aturan untuk paspor Anda secara spesifik. Itulah sebabnya memeriksa sumber resmi terbaru sebelum setiap perjalanan internasional bukanlah sikap berlebihan, melainkan sekadar kebiasaan baik: gunakan IATA Travel Centre, sistem yang sama yang digunakan maskapai untuk memeriksa dokumen penumpang secara real-time.
 
-**Travel Document Vault** akan menandai paspor mana pun yang masa berlakunya kurang dari enam bulan saat perjalanan Anda berakhir — untuk setiap anggota keluarga, secara otomatis. [Unduh di App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) dan [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
+**Travel Document Vault** memeriksa paspor yang ditautkan menggunakan batas tambahan default 180 hari setelah perjalanan yang Anda simpan berakhir, kecuali jika Anda menetapkan batas masa berlaku khusus. Periksa aturan sebenarnya dari negara tujuan secara terpisah. Fitur ini memerlukan Pro. [Unduh di App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) dan [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
 
 ## Kapan Aturan 6 Bulan Tidak Berlaku
 
@@ -102,7 +102,7 @@ Perlakukan paspor Anda seperti ban mobil dan jangan menunggu sampai kempes: perb
 
 Sebelum perjalanan apa pun, hitung enam bulan ke depan dari hari Anda meninggalkan negara tujuan, yang merupakan tanggal lebih akhir sehingga memenuhi versi mana pun dari aturan ini. Periksa tanggal kedaluwarsa paspor Anda terhadap tanggal itu, bukan hanya tanggal perjalanan Anda.
 
-Mengelola beberapa paspor dalam satu keluarga dengan tanggal kedaluwarsa yang berbeda-beda adalah saat semuanya jadi rumit. Travel Document Vault melacak ini secara otomatis — menyimpan tanggal kedaluwarsa paspor setiap anggota keluarga dan mengirimkan pengingat mulai dari delapan bulan sebelumnya, lalu kembali mengingatkan saat tanggalnya semakin dekat, sehingga tidak perlu hitung-hitungan manual sebelum setiap pemesanan. Anda juga bisa menemukan lebih banyak tips praktis tentang dokumen perjalanan di [blog](https://traveldocumentvault.com/id/blog/) kami.
+Mengelola beberapa paspor dalam satu keluarga dengan tanggal kedaluwarsa yang berbeda-beda adalah saat semuanya jadi rumit. Travel Document Vault melacak tanggal kedaluwarsa paspor Anda, dan Anda bisa menambahkan seluruh keluarga dengan Pro. Pengingat paspor secara default dimulai delapan bulan sebelum kedaluwarsa dan berulang saat tanggalnya semakin dekat. Periksa aturan masa berlaku negara tujuan sebelum memesan. Anda juga bisa menemukan lebih banyak tips praktis tentang dokumen perjalanan di [blog](https://traveldocumentvault.com/id/blog/) kami.
 
 ## Catatan tentang Memeriksa Persyaratan Sebelum Anda Bepergian
 
@@ -142,7 +142,7 @@ Ya. Maskapai memeriksa masa berlaku paspor menggunakan basis data persyaratan ma
 
 ### Bagaimana cara memeriksa apakah paspor saya memenuhi aturan 6 bulan?
 
-Hitung enam bulan ke depan dari hari Anda meninggalkan negara tujuan, lalu periksa apakah paspor Anda kedaluwarsa setelah tanggal tersebut. Itu adalah tanggal yang lebih akhir dari dua tanggal yang digunakan berbagai negara, sehingga mencakup keduanya. Jika Anda dijadwalkan berangkat pada 1 Agustus, paspor Anda harus tetap berlaku hingga setidaknya 1 Februari tahun berikutnya. Aplikasi seperti Travel Document Vault melacak ini secara otomatis untuk setiap anggota keluarga, sehingga Anda tidak perlu menghitung sendiri sebelum setiap perjalanan.
+Hitung enam bulan ke depan dari hari Anda meninggalkan negara tujuan, lalu periksa apakah paspor Anda kedaluwarsa setelah tanggal tersebut. Itu adalah tanggal yang lebih akhir dari dua tanggal yang digunakan berbagai negara, sehingga mencakup keduanya. Jika Anda dijadwalkan berangkat pada 1 Agustus, paspor Anda harus tetap berlaku hingga setidaknya 1 Februari tahun berikutnya. Dengan Pro, Travel Document Vault memeriksa paspor yang ditautkan menggunakan batas tambahan default 180 hari setelah perjalanan yang Anda simpan berakhir, kecuali jika Anda menetapkan batas masa berlaku khusus. Periksa aturan sebenarnya dari negara tujuan secara terpisah; 180 hari tidak selalu sama dengan enam bulan kalender.
 
 ### Apakah saya perlu sisa 6 bulan di paspor untuk bepergian ke Eropa?
 
@@ -150,7 +150,7 @@ Tidak, tapi Anda tetap memerlukan lebih dari sekadar durasi kunjungan. Kantor Lu
 
 ### Bagaimana jika paspor satu anggota keluarga memenuhi aturan tapi anggota lain tidak?
 
-Paspor setiap anggota keluarga dinilai secara individual, tidak ada aturan kelompok. Ini berarti satu paspor bisa memenuhi persyaratan 6 bulan sementara paspor lain tidak, yang berpotensi menghalangi orang tersebut untuk bepergian. Periksa setiap paspor dalam kelompok terhadap persyaratan masa berlaku negara tujuan sebelum memesan. Aplikasi seperti Travel Document Vault memungkinkan Anda melacak tanggal kedaluwarsa paspor setiap anggota keluarga secara terpisah, sehingga Anda menemukan celah semacam ini sebelum petugas check-in menemukannya.
+Paspor setiap anggota keluarga dinilai secara individual, tidak ada aturan kelompok. Ini berarti satu paspor bisa memenuhi persyaratan 6 bulan sementara paspor lain tidak, yang berpotensi menghalangi orang tersebut untuk bepergian. Periksa setiap paspor dalam kelompok terhadap persyaratan masa berlaku negara tujuan sebelum memesan. Travel Document Vault melacak tanggal kedaluwarsa paspor Anda, dan Anda bisa menambahkan setiap anggota keluarga dengan Pro. Periksa tanggal mereka terhadap aturan negara tujuan sebelum memesan.
 
 ### Bisakah saya bepergian jika masa berlaku paspor saya tersisa 3 bulan?
 

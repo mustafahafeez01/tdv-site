@@ -1,54 +1,54 @@
 # Apa Itu Kode Pemulihan Saya? | Travel Document Vault
 
-> Kode pemulihan adalah kunci utama untuk cadangan cloud terenkripsi Anda. Apa itu, mengapa Anda memerlukannya, dan cara menyimpannya dengan aman.
+> Kode pemulihan membuka cadangan cloud terenkripsi Anda. Apa itu, mengapa Anda memerlukannya, dan cara menyimpannya dengan aman.
 
 Source: https://traveldocumentvault.com/id/faq/recovery-code/
 
 ---
 
-Kode pemulihan Anda adalah frasa sandi 24 karakter yang mengenkripsi cadangan cloud Anda. Jika Anda kehilangannya, cadangan tersebut tidak dapat dipulihkan lagi. Kami tidak menyimpan atau mengatur ulang kode ini, jadi simpan di tempat yang aman.
+Kode pemulihan Anda adalah frasa sandi 24 karakter yang membuka kunci enkripsi cloud. Jika Anda kehilangan semua salinan kode dan akses ke semua perangkat yang masih bisa membuka vault, kami tidak bisa memulihkan cadangan tersebut. Kami tidak memegang atau meresetnya, jadi simpan di tempat yang aman.
 
 ## Cara kerjanya
 
 ### Apa itu kode pemulihan
 
-Kode pemulihan Anda adalah frasa sandi 24 karakter yang dibuat saat Anda mengaktifkan cadangan cloud. Bentuknya seperti ini:
+Kode pemulihan Anda adalah frasa sandi 24 karakter yang dibuat saat Anda mengatur PIN. Bentuknya seperti ini:
 
 XXXX-XXXX-XXXX-XXXX-XXXX-XXXX
 
-Kode ini diturunkan secara matematis dari pengaturan cadangan Anda dan merupakan satu-satunya kunci yang dapat mendekripsi vault terenkripsi Anda di cloud. Kami membuatnya satu kali dan menampilkannya kepada Anda satu kali. Setelah itu, tanggung jawab untuk menjaga keamanannya ada di tangan Anda.
+Kode pemulihan Anda membuka kunci enkripsi yang diperlukan untuk memulihkan cadangan cloud dengan Pro. Aplikasi membuatnya saat Anda mengatur PIN dan menampilkannya sekali. Simpan salinan di tempat yang aman.
 
 ### Mengapa Anda membutuhkannya
 
-Saat Anda mengaktifkan cadangan cloud, seluruh vault Anda dienkripsi di perangkat Anda menggunakan AES-256-GCM sebelum meninggalkan ponsel Anda. Kunci enkripsinya diturunkan dari kode pemulihan Anda. Tanpa kode pemulihan, cadangan tersebut tidak dapat diakses secara kriptografis, bahkan oleh kami.
+Dengan cadangan cloud Pro, aplikasi mengenkripsi isi dokumen di perangkat Anda menggunakan AES-256-GCM sebelum diunggah. Kode pemulihan Anda membuka kunci enkripsi cloud. Anda memerlukannya untuk memulihkan cadangan. Kami tidak memegang salinannya.
 
-Ini adalah jaminan privasi. Kami secara harfiah tidak dapat membaca cadangan Anda, mendekripsinya sesuai permintaan, atau mengatur ulangnya untuk Anda. Jika kode pemulihan Anda hilang, cadangan tersebut hilang selamanya. Ini mungkin terdengar berat, tetapi ini justru yang Anda inginkan: privasi Anda bukan sekadar janji yang kami buat, melainkan fakta teknis yang tidak dapat kami langgar.
+Kami tidak bisa mendekripsi atau mereset cadangan cloud untuk Anda. Jika Anda kehilangan semua salinan kode pemulihan dan akses ke semua perangkat yang masih bisa membuka vault, kami tidak bisa memulihkan cadangan tersebut.
 
 ### Jika Anda kehilangannya
 
-Jika Anda lupa kode pemulihan, cadangan cloud Anda yang ada tidak dapat dipulihkan. Anda memiliki dua pilihan:
+Jika Anda lupa kode pemulihan, pilihan Anda bergantung pada apakah Anda masih memiliki perangkat yang bisa membuka vault dan PIN-nya:
 
-- **Pulihkan dari ponsel Anda:** Jika kode masih tersimpan di aplikasi (periksa Pengaturan - Cadangan Cloud), salin ke lokasi yang aman dan simpan.
-- **Buat kode baru:** Nonaktifkan cadangan cloud lalu aktifkan kembali. Ini membuat kode pemulihan baru dan menghapus cadangan yang ada. Anda mulai dari awal.
+- **Buat kode baru di ponsel Anda:** Biarkan cadangan cloud aktif dan hubungkan ke internet. Buka Pengaturan, Keamanan, Kode Pemulihan, konfirmasi, lalu masukkan PIN Anda. Simpan kode baru di tempat yang aman, lalu ketuk konfirmasi bahwa kode sudah disimpan untuk mengaktifkannya. Ikuti petunjuk untuk menghubungkan kembali atau menyinkronkan jika muncul.
+- **Ponsel juga hilang:** Jika Anda tidak memiliki salinan kode pemulihan maupun perangkat lain yang masih bisa membuka vault, kami tidak bisa membuka cadangan yang sudah ada. Aktifkan cadangan cloud di ponsel baru dan pilih untuk memulai dari awal.
 
 ### Tempat menyimpannya
 
 Kode pemulihan Anda sama sensitifnya dengan kata sandi utama Anda. Simpan dengan salah satu cara berikut:
 
-- **Pengelola kata sandi:** Bitwarden, 1Password, Apple Keychain, atau sejenisnya. Ini adalah pilihan yang paling praktis.
+- **Pengelola kata sandi:** Gunakan pengelola kata sandi yang Anda percayai.
 - **Cadangan fisik:** Tulis di atas kertas dan simpan di brankas, kotak simpanan bank, atau lokasi aman di rumah.
 - **Dokumen offline:** Simpan ke drive eksternal terenkripsi atau USB (tidak pernah disinkronkan ke cloud).
 - **Hindari:** Email, aplikasi Notes, layanan cloud yang tidak terenkripsi, atau tangkapan layar.
 
 ### Membuat ulang kode Anda
 
-Jika Anda merasa kode pemulihan Anda telah disusupi, matikan cadangan cloud lalu nyalakan kembali. Aplikasi akan membuat kode pemulihan baru. Cadangan terenkripsi lama Anda akan dihapus. Ini memang disengaja: penggantian kode pemulihan sengaja dibuat jarang dan berisiko kehilangan data, sehingga Anda tidak melakukannya dengan sembarangan.
+Jika Anda merasa kode pemulihan telah disusupi, biarkan cadangan cloud aktif dan hubungkan ke internet. Buka Pengaturan, Keamanan, Kode Pemulihan, konfirmasi, lalu masukkan PIN Anda. Simpan kode baru yang ditampilkan aplikasi, lalu ketuk konfirmasi bahwa kode sudah disimpan untuk mengaktifkannya. Ikuti petunjuk untuk menghubungkan kembali atau menyinkronkan jika muncul.
 
-**Penafian:** Kode pemulihan Anda sepenuhnya menjadi tanggung jawab Anda. Travel Document Vault tidak dapat memulihkan, mengatur ulang, atau membuat ulang kode ini jika hilang. Simpan dengan aman. Jangan mengandalkan aplikasi ini sebagai satu-satunya sistem cadangan untuk dokumen penting Anda.
+**Penafian:** Kode pemulihan Anda sepenuhnya menjadi tanggung jawab Anda. Travel Document Vault tidak dapat memulihkan atau mereset kode ini untuk Anda jika hilang. Simpan dengan aman. Jangan mengandalkan aplikasi ini sebagai satu-satunya sistem cadangan untuk dokumen penting Anda.
 
 ## Siap melindungi vault Anda?
 
-Unduh Travel Document Vault dan aktifkan cadangan cloud untuk menjaga keamanan dokumen Anda.
+Unduh Travel Document Vault gratis. Pro menambahkan cadangan terenkripsi ke iCloud atau Google Drive Anda sendiri. Simpan kode pemulihan sebelum mengaktifkannya.
 
 ![Unduh di App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

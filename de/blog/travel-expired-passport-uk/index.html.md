@@ -88,7 +88,7 @@ Dies gilt, unabhängig davon, ob Ihr Pass vor Ihrer Abreise aus der UK oder wäh
 
 [Wenn Ihr Pass bereits abgelaufen ist und Sie suchen, was Sie als Nächstes tun können, behandelt unser Begleitartikel das Schritt für Schritt](https://traveldocumentvault.com/de/blog/passport-expired-what-to-do/). Wenn Sie eine Reise planen und Ihr Pass dem Ablaufdatum näher kommt, ist jetzt der Moment zu erneuern, anstatt zu warten, bis es abläuft, was bedeutet, für den Premium-Service zu bezahlen, anstatt für die Standardgebühr. Überprüfen Sie die Pässe Ihrer Familie jetzt, bevor Sie eine Reise buchen.
 
-**Stellen Sie Ablauferinnerungen Monate im Voraus ein, nicht Wochen.** [Travel Document Vault verfolgt Ablaufdaten für jeden Pass in Ihrem Haushalt und sendet Erinnerungen ab acht Monaten vorher, dann erneut, je näher der Ablauf rückt](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/), damit Sie mit Standardverarbeitung erneuern und Notfallgebühren vermeiden.
+**Stellen Sie Ablauferinnerungen Monate im Voraus ein, nicht Wochen.** [Travel Document Vault verfolgt Ihr Pass-Ablaufdatum und sendet standardmäßig Erinnerungen ab acht Monaten vorher, dann erneut, je näher der Ablauf rückt](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/). Fügen Sie mit Pro jeden Reisepass Ihres Haushalts hinzu. Nutzen Sie die Erinnerungen, um Erneuerungen zu planen.
 
 ## Wenn Sie bereits im Ausland sind und Ihr Pass abläuft
 

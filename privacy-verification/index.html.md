@@ -30,9 +30,9 @@ You do not need to take this on trust. These checks show the important parts: wh
 
 ### 1. Network traffic test
 
-Install a network monitor such as **mitmproxy** (free, open source), **Wireshark** (free, open source), or **Charles Proxy**. Open Travel Document Vault, scan a document, browse your vault, and set a reminder. You should not see your documents, scans, expiry dates, or vault contents sent to Travel Document Vault. Network traffic should be limited to specific features: optional Sentry crash reporting, App Store or Google Play purchase checks, optional cloud backup to your own iCloud or Google Drive account, and a manual bug-fix check explained below.
+Install a network monitor such as **mitmproxy** (free, open source), **Wireshark** (free, open source), or **Charles Proxy**. Open Travel Document Vault, scan a document, browse your vault, and set a reminder. You should not see your documents, scans, expiry dates, or vault contents sent to Travel Document Vault. Network traffic should be limited to specific features: optional Sentry crash reporting, App Store or Google Play purchase checks, optional cloud backup to your own iCloud or Google Drive account, and a bug-fix check explained below.
 
-Settings has a **Check for Updates** button. This is a manual check, never automatic, it runs only when you tap it yourself, never in the background and never on its own. The check contacts **updates.traveldocumentvault.com** - our own update server, run by us on Google Cloud, which serves cryptographically signed update files from a storage bucket. We keep no record of the check: request logs are disabled on our side, so no IP addresses are retained. Every update is signed with a key only we hold, and the app refuses anything whose signature does not match the certificate built into it. The same tap also checks the **App Store** or **Google Play** for a newer version of the app. It exists so that certain bug fixes can reach you faster than waiting for a whole new App Store or Google Play release, useful for urgent fixes, depending on the nature of the fix. Same rule as everything else on this page: no network call without you asking for it.
+Settings has a **Check for Updates** button. This check is off by default: it runs when you tap it, or once per app launch if you turn on Check for updates on open. An in-progress download may continue after the app moves to the background. The check contacts **updates.traveldocumentvault.com** - our own update server, run by us on Google Cloud, which serves cryptographically signed update files from a storage bucket. The update handler does not write application request logs. Every update is signed with a key only we hold, and the app refuses anything whose signature does not match the certificate built into it. The same tap also checks the **App Store** or **Google Play** for a newer version of the app. It exists so that certain bug fixes can reach you faster than waiting for a whole new App Store or Google Play release, useful for urgent fixes, depending on the nature of the fix. Document storage needs no network; store purchase checks and enabled optional features can make automatic network calls.
 
 ### 2. iOS App Privacy Report
 
@@ -42,7 +42,7 @@ On iPhone, go to **Settings > Privacy & Security > App Privacy Report**. This bu
 
 Android does not have a single built-in privacy report like iPhone. Two simple ways to check for yourself: look at this app's own **Data Safety** section on its Google Play page (it plainly states what is collected, what is shared, that your data is encrypted in transit, and that it cannot be deleted) - or use a network monitor as described in step 1 above.
 
-If you have turned on Cloud Backup, you may notice some activity going to Google's servers (web addresses ending in **googleapis.com**). That is expected and safe: it is only your locked, encrypted backup file and a sign-in check being sent straight to **your own** Google Drive account - the same one you already use for photos or Gmail. We never see it, receive it, or keep a copy anywhere. Only you hold the recovery code that can unlock it.
+If you have turned on Cloud Backup, you may notice some activity going to Google's servers (web addresses ending in **googleapis.com**). These connections carry your encrypted vault files, sign-in checks and unencrypted backup metadata such as device name, counts and timestamps to **your own** Google Drive account - the same one you already use for photos or Gmail. We never see it, receive it, or keep a copy anywhere. Only you hold the recovery code that can unlock it.
 
 ### 4. App Store and Play Store privacy labels
 
@@ -52,17 +52,17 @@ Apple and Google require developers to declare what data their app collects. Che
 
 We do not just say the app is safe. We check it, using the same open tools and public standards the security industry uses.
 
-### We hold the app to a public standard
+### Compare the app with a public standard
 
-We review Travel Document Vault against the [OWASP Mobile Application Security Verification Standard (MASVS)](https://mas.owasp.org/MASVS/), the industry checklist for how a mobile app should store data, use encryption, lock behind Face ID or a PIN, and handle links from other apps. Anyone can read the standard and compare it with how the app behaves.
+You can compare Travel Document Vault with the [OWASP Mobile Application Security Verification Standard (MASVS)](https://mas.owasp.org/MASVS/), the industry checklist for how a mobile app should store data, use encryption, lock behind Face ID or a PIN, and handle links from other apps. Anyone can read the standard and compare it with how the app behaves.
 
-### We scan our own code
+### Source code analysis
 
-Before a build ships we run static analysis on our code with [Semgrep](https://semgrep.dev/), an open source tool that flags insecure patterns such as weak encryption or unsafe data handling, so we catch them early.
+Static analysis tools such as [Semgrep](https://semgrep.dev/) can flag insecure patterns such as weak encryption or unsafe data handling. This describes a checking method, not proof that every release has passed a scan.
 
-### We scan the built app
+### Built app behaviour
 
-We also review our release builds with mobile app security scanning tools, checking how the build stores data, what it is allowed to reach, and how it is signed.
+The app encrypts document files on your device, and its update configuration requires a code-signing certificate. You can check its network behaviour using the steps above.
 
 ### Found a problem? Tell us
 
@@ -88,7 +88,7 @@ iOS + Android
 
 iOS + Android
 
-**Why we ask:** So you can import an existing photo of a document, and so the app can export encrypted backup files (.tdvault) when you request them. On older Android versions, READ_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE are required for this. On Android 13+, READ_MEDIA_IMAGES is used instead.
+**Why we ask:** So you can import an existing photo of a document. On Android the app uses the system photo picker, so READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE and READ_MEDIA_IMAGES are removed from the final build. Encrypted backup files (.tdvault) are exported through your phone's share sheet, which needs no storage permission.
 
 **What we do not do:** The app reads only the image you select. It does not scan, index, or browse your photo library or file system.
 
@@ -104,7 +104,7 @@ iOS + Android
 
 Android
 
-**Why we ask:** To deliver on-device expiry reminders that you set yourself. RECEIVE_BOOT_COMPLETED re-schedules your reminders after a device restart. WAKE_LOCK ensures reminders fire reliably even when the phone is asleep. VIBRATE accompanies notification delivery.
+**Why we ask:** To deliver on-device expiry reminders for your documents. RECEIVE_BOOT_COMPLETED re-schedules your reminders after a device restart. WAKE_LOCK supports notification handling. VIBRATE accompanies notification delivery.
 
 **What we do not do:** We do not send marketing, promotional, or third-party notifications. Reminders are scheduled entirely on your device.
 
@@ -112,7 +112,7 @@ Android
 
 Android
 
-**Why these appear:** These are required for network-aware features: **Sentry crash reporting** (opt-in, disabled by default), **App Store or Google Play billing** for the Pro upgrade purchase, **Pro cloud backup** (optional) which syncs your encrypted vault to your own iCloud or Google Drive, and the manual **Check for Updates** button in Settings (only runs when you tap it). ACCESS_NETWORK_STATE and ACCESS_WIFI_STATE let these features check whether a connection is available before attempting to send.
+**Why these appear:** These are required for network-aware features: **Sentry crash reporting** (opt-in, disabled by default), **App Store or Google Play billing** for the Pro upgrade purchase, **Pro cloud backup** (optional) which syncs your encrypted vault to your own iCloud or Google Drive, and the **Check for Updates** button in Settings (runs only when you tap it, or on opening if you turn that on). ACCESS_NETWORK_STATE and ACCESS_WIFI_STATE let these features check whether a connection is available before attempting to send.
 
 **What we do not do:** The app does not upload your documents, scans, expiry dates, photos, or vault contents to Travel Document Vault. It works fully offline for normal document storage and reminders.
 
@@ -122,9 +122,9 @@ Android apps include third-party libraries for features like in-app purchases, c
 
 ### Record Audio
 
-Inherited, never used
+Inherited, removed
 
-**Why it appears:** This permission is declared by a third-party library included in the build. It appears in the Android manifest but is not used by Travel Document Vault features. The app is designed for still document capture, not audio or video recording.
+**Why it appears:** This permission is declared by the camera libraries included in the build. Travel Document Vault removes it from the final Android manifest, because the app captures still images of documents and never records audio or video.
 
 **How you can confirm:** The app should not prompt you for microphone access. You can also check your device's permission manager to confirm microphone access has not been granted to Travel Document Vault.
 
@@ -132,13 +132,13 @@ Inherited, never used
 
 Inherited
 
-Declared by a React Native framework dependency for development and debugging overlays. Travel Document Vault does not use overlay windows as a product feature.
+Declared by a React Native framework dependency for development and debugging overlays. Travel Document Vault removes it from the final Android manifest and does not use overlay windows.
 
 ### Detect Screen Capture
 
 Inherited
 
-Declared by a framework dependency. Travel Document Vault does not detect, block, or respond to screenshots as a product feature.
+Declared by a framework dependency. Travel Document Vault enables screen-capture protection by default on document screens where supported. You can change this in Settings.
 
 ### Badge count permissions
 
@@ -156,7 +156,7 @@ Declared by the Google Play Billing library for the Pro upgrade purchase and by 
 
 Inherited
 
-Declared by a framework dependency. The app does not download files in the background.
+Declared by a framework dependency. An update download started in the app may continue after it moves to the background, and iCloud can manage file transfers through the operating system.
 
 ### Permissions we do not request
 

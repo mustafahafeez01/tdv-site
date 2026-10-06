@@ -1,18 +1,18 @@
 # Uw kluis exporteren en importeren | Travel Document Vault
 
-> Stap voor stap uw volledige kluis exporteren als versleuteld bestand en importeren op een nieuw apparaat. Uw gegevens blijven overdraagbaar.
+> Stappen: exporteer ondersteunde kluisdata als versleuteld bestand en importeer op een nieuw apparaat. Een draagbare back-up die u zelf beheert.
 
 Source: https://traveldocumentvault.com/nl/faq/export-import/
 
 ---
 
-Elke gebruiker kan zijn volledige kluis exporteren als een versleuteld, met een wachtwoord beveiligd back-upbestand (.tdvault) en dit op elk apparaat importeren. Deze handleiding laat elke stap zien met uitleg.
+Vault Export en Import zijn gratis voor iedereen. Exporteer ondersteunde kluisgegevens als een versleuteld, met een wachtwoord beveiligd bestand (.tdvault), binnen de maximale bestandsgrootte. Importeer het op een ander ondersteund iOS- of Android-apparaat met de onderstaande stappen.
 
 ## Waarom exporteren en importeren?
 
-Export-import zorgt ervoor dat uw gegevens overdraagbaar zijn en u nooit vastzit aan de app. Of u nu van apparaat wisselt, een nieuwe telefoon instelt, of gewoon een back-upkopie wilt die u zelf beheert, het export-importproces bewaart alles precies zoals het is.
+Gebruik exporteren en importeren wanneer u van telefoon wisselt of een onafhankelijke back-up wilt bewaren. Het bestand bevat ondersteunde kluisgegevens, beschikbare bijlagen en bepaalde instellingen. Controleer de geïmporteerde documenten en herinneringen; appvergrendeling en andere apparaatinstellingen blijven lokaal.
 
-Het geëxporteerde bestand wordt versleuteld met dezelfde beveiliging als uw kluis op het apparaat. Alleen u kunt het ontsleutelen.
+Het geëxporteerde bestand wordt versleuteld met dezelfde beveiliging als uw kluis op het apparaat. Iedereen die het exportwachtwoord kent, kan het ontsleutelen, dus houd het wachtwoord privé.
 
 ## Stap-voor-stap handleiding
 
@@ -24,27 +24,27 @@ Open Travel Document Vault en tik onderaan het scherm op het instellingenpictogr
 
 2
 
-### Controleer wat er wordt geëxporteerd
+### Maak een exportwachtwoord aan
 
-De app toont een overzicht: het totaal aantal profielen, documenten en bijlagen. Zo weet u zeker dat alles wat u wilt is inbegrepen. Tik op Doorgaan of Export bevestigen.
+De app vraagt u een wachtwoord aan te maken om de back-up te beveiligen. Kies er een van minstens 8 tekens, typ het opnieuw ter bevestiging en bewaar het op een veilige plek. U hebt dit wachtwoord nodig om het bestand te importeren; uw PIN of herstelcode kan het niet openen.
 
 3
 
 ### Wacht tot de versleuteling is voltooid
 
-De app versleutelt al uw gegevens in een enkel back-upbestand (.tdvault). Bij een gemiddelde kluis met honderden documenten duurt dit een paar seconden. Sluit de app niet tijdens deze stap.
+De app versleutelt ondersteunde kluisgegevens en beschikbare bijlagen in één back-upbestand (.tdvault). Sluit de app niet tijdens deze stap.
 
 4
 
 ### Kies een bestemming en sla op
 
-De bestandskiezer van uw systeem opent. Kies waar u het bestand opslaat: iCloud Drive, Google Drive, Dropbox of uw computer. Voor maximale beveiliging raden we een versleutelde dienst of offline opslag aan.
+Het deelmenu van uw telefoon opent. Kies waar u het bestand opslaat: iCloud Drive, Google Drive, Dropbox of uw computer. Voor maximale beveiliging raden we een versleutelde dienst of offline opslag aan.
 
 5
 
 ### Zet het bestand over naar uw nieuwe apparaat (bij importeren op een andere telefoon)
 
-Als u importeert op een ander apparaat, zorg dan dat het geëxporteerde bestand daar toegankelijk is. Upload het naar een gedeelde schijf, e-mail het naar uzelf, of gebruik AirDrop. De bestandsgrootte is doorgaans 50-500 MB, afhankelijk van de grootte van uw kluis en het aantal bijlagen.
+Als u importeert op een ander apparaat, zorg dan dat het geëxporteerde bestand daar toegankelijk is. Upload het naar een gedeelde schijf, e-mail het naar uzelf, of gebruik AirDrop. De bestandsgrootte hangt af van de grootte van uw kluis en het aantal bijlagen, met een maximum van 500 MB per export.
 
 6
 
@@ -56,18 +56,18 @@ Open Travel Document Vault op het apparaat waar u wilt importeren. Ga naar Inste
 
 ### Selecteer het geëxporteerde bestand en bevestig
 
-Ga naar de locatie waar u het geëxporteerde kluisbestand hebt opgeslagen, selecteer het en bevestig. De app ontsleutelt en importeert alle profielen, documenten en bijlagen. Dit proces duurt een paar seconden.
+Ga naar de locatie waar u het geëxporteerde kluisbestand hebt opgeslagen en selecteer het. De app waarschuwt dat importeren alles op dit apparaat vervangt. Tik op Importeren om verder te gaan en voer vervolgens het wachtwoord in dat u bij het exporteren hebt ingesteld. De app ontsleutelt en importeert de profielen, documenten en bijlagen in de back-up.
 
 8
 
 ### Controleer of alle gegevens aanwezig zijn
 
-Controleer na het importeren het tabblad Profielen om te bevestigen dat alle profielen worden weergegeven. Open een paar documenten om te controleren of bijlagen intact zijn. Het importproces vervangt alle bestaande gegevens op dit apparaat.
+Controleer na het importeren het tabblad Familie om te bevestigen dat alle profielen worden weergegeven. Open een paar documenten om te controleren of bijlagen intact zijn. Het importproces vervangt alle bestaande gegevens op dit apparaat.
 
 ### Belangrijke opmerkingen
 
 - **Vervangt bestaande gegevens:** Importeren wist eerst wat er op het doelapparaat staat. Als u al profielen hebt op het doelapparaat, exporteer die dan voordat u importeert.
-- **Volledige betrouwbaarheid:** Alles blijft precies bewaard: documentnamen, data, vervalmeldingen, aangepaste kleuren, bijlagen en notities.
+- **Behoud bij export en import:** Het bestand zet ondersteunde kluisvelden en bepaalde instellingen over. Ontbrekende bijlagen of onleesbare notities kunnen worden weggelaten. Controleer uw geïmporteerde documenten en herinneringen. Appvergrendeling en andere apparaatinstellingen blijven lokaal.
 - **Volledig versleuteld:** Het geëxporteerde bestand wordt versleuteld met het wachtwoord dat u kiest bij het exporteren, met AES-256-GCM en PBKDF2-sleutelafleiding. Alleen dat wachtwoord kan het ontsleutelen, bewaar het dus op een veilige plek – zonder dat wachtwoord kan het bestand niet worden hersteld.
 - **Beste back-uppraktijk:** Bewaar uw geëxporteerde bestand op een veilige plek. Verwijder het na een geslaagde import als u dat wilt, of bewaar het als offline back-up.
 

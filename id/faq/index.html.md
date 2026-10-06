@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/id/faq/
 
 ---
 
-Mengutamakan privasi. Hanya di perangkat. Tanpa akun.
+Mengutamakan privasi. Di perangkat secara default. Tanpa akun.
 
 # Pertanyaan yang Sering Ditanyakan
 
@@ -20,11 +20,11 @@ Semua yang perlu Anda ketahui tentang Travel Document Vault.
 
 Apakah pengembang dapat melihat dokumen saya?
 
-Tidak. Kami tidak punya server dan tidak punya sistem akun. Secara bawaan, dokumen Anda disimpan di perangkat Anda. Jika Anda memilih mengaktifkan cadangan cloud Pro yang bersifat opsional, brankas Anda dienkripsi ujung ke ujung di perangkat sebelum diunggah ke iCloud milik Anda sendiri (iOS) atau Google Drive milik Anda sendiri (Android), disegel dengan kode pemulihan yang hanya Anda miliki. Kami tidak pernah menerima data Anda dan tidak dapat membaca cadangan terenkripsi itu. Apple dan Google juga tidak bisa. Arsitekturnya dibangun seperti ini sejak awal.
+Tidak. Vault lokal tidak memerlukan akun atau server Travel Document Vault. Secara bawaan, dokumen Anda disimpan di perangkat Anda. Jika Anda memilih mengaktifkan cadangan cloud Pro yang bersifat opsional, brankas Anda dienkripsi ujung ke ujung di perangkat sebelum diunggah ke iCloud milik Anda sendiri (iOS) atau Google Drive milik Anda sendiri (Android), disegel dengan kode pemulihan yang hanya Anda miliki. Kami tidak menerima cadangan cloud Anda dan tidak bisa membaca isi dokumennya yang terenkripsi. Apple dan Google juga tidak bisa.
 
 Apa yang dikumpulkan pelaporan kerusakan Sentry, dan bisakah saya menonaktifkannya?
 
-Sentry adalah alat pelaporan kerusakan yang membantu kami menemukan dan memperbaiki bug. Alat ini **dinonaktifkan secara default** dan tidak mengirimkan apa pun ketika dimatikan. Jika Anda memilih untuk mengaktifkannya di Pengaturan, alat ini hanya mengirimkan diagnostik kerusakan teknis seperti jenis perangkat Anda dan apa yang dilakukan aplikasi saat terjadi kerusakan. Alat ini tidak pernah mengirimkan dokumen, nama, nomor paspor, atau apa pun dari vault Anda.
+Sentry adalah alat pelaporan kerusakan yang membantu kami menemukan dan memperbaiki bug. Alat ini **dinonaktifkan secara default** dan tidak mengirimkan apa pun ketika dimatikan. Jika Anda memilih untuk mengaktifkannya di Pengaturan, alat ini mengirim diagnostik kerusakan teknis yang sudah dibersihkan dari data sensitif. Perekaman ulang sesi memerlukan persetujuan terpisah. Laporan kerusakan dibersihkan untuk mengurangi data pribadi, dan file dokumen bukan lampiran yang sengaja disertakan.
 
 Apa yang termasuk dalam upgrade Pro?
 
@@ -36,11 +36,11 @@ Ya. Pembelian Anda mencakup setiap pembaruan dalam versi mayor saat ini (v1.x), 
 
 Apa yang terjadi jika saya kehilangan ponsel atau beralih ke ponsel baru?
 
-Karena kami tidak menyimpan data Anda, kami tidak dapat memulihkannya untuk Anda. Jika Anda memulihkan ponsel baru dari cadangan iCloud atau Google, dokumen Anda seharusnya terbawa secara otomatis. Kami menyarankan menggunakan fitur Ekspor untuk menyimpan salinan terpisah dari dokumen penting Anda, untuk berjaga-jaga.
+Pengguna Pro: Aktifkan cadangan cloud terenkripsi di Pengaturan - Cadangan Awan. Vault Anda dienkripsi di perangkat dengan kode pemulihan sebelum mencapai iCloud (iOS) atau Google Drive (Android). Pada perangkat yang didukung di platform yang sama, gunakan akun cloud yang sama. Buka Cadangan Awan di Pengaturan, pilih cadangan, dan pulihkan dengan kode pemulihan Anda. Pemulihan menggantikan vault lokal. Isi dokumen dienkripsi; penyedia cloud bisa melihat metadata cadangan seperti jumlah, cap waktu, dan informasi perangkat. Kami tidak melihatnya. Semua pengguna: Gunakan ekspor vault gratis (.tdvault) di Pengaturan dan impor di perangkat lain. Cadangan sistem (iCloud atau Google) menginstal ulang aplikasi tetapi tidak bisa memulihkan dokumen Anda - cadangan sistem tidak memindahkan kunci enkripsi yang terikat pada perangkat, jadi ekspor sebelum berpindah ponsel.
 
 Apakah aplikasi bekerja tanpa koneksi internet?
 
-Ya, sepenuhnya. Aplikasinya sendiri tidak punya server dan tidak butuh internet untuk berjalan. Memindai, melihat, mengekspor, dan pengingat semuanya bekerja luring. Hanya dua hal yang perlu koneksi: memulihkan pembelian Pro Anda di perangkat baru melalui App Store atau Google Play, dan cadangan opsional ke cloud Anda sendiri, yang memakai akun iCloud atau Google Drive milik Anda.
+Ya, sepenuhnya. Aplikasinya sendiri tidak punya server dan tidak butuh internet untuk berjalan. Memindai, melihat, mengekspor, dan pengingat semuanya bekerja luring. Fitur yang memerlukan koneksi mencakup pembelian dan pemulihan pembelian di toko, pemeriksaan dan unduhan pembaruan, serta cadangan cloud opsional (Pro) ke akun iCloud atau Google Drive Anda sendiri. Mengganti kode pemulihan saat cadangan cloud aktif juga memerlukan koneksi.
 
 Bahasa apa yang didukung aplikasi?
 
@@ -48,11 +48,11 @@ Aplikasi tersedia dalam lebih dari 40 bahasa, termasuk dukungan penuh kanan-ke-k
 
 Apa yang terjadi jika Anda berhenti mengembangkan aplikasi?
 
-Dokumen Anda ada di perangkat Anda, bukan di server kami, sehingga tidak akan hilang jika kami berhenti merilis pembaruan. Aplikasi akan terus bekerja seperti saat ini. Anda juga dapat mengekspor segalanya kapan saja menggunakan alat ekspor bawaan, sehingga Anda tidak pernah terkunci.
+Dokumen Anda ada di perangkat Anda, bukan di server kami, sehingga tidak akan hilang jika kami berhenti merilis pembaruan. Akses ke vault yang tersimpan tidak bergantung pada server Travel Document Vault; kompatibilitas sistem operasi di masa depan tidak bisa dijamin. Anda juga bisa mengekspor salinan terenkripsi vault, sesuai batas ukuran ekspor dan ketersediaan file lampiran yang bisa dibaca.
 
 Siapa yang membangun aplikasi ini, dan mengapa mengutamakan privasi?
 
-Travel Document Vault dibuat oleh Mustafa Hafeez, seorang pengembang perangkat lunak senior dengan pengalaman bertahun-tahun membangun aplikasi yang menghormati privasi, sekaligus orang tua yang membutuhkan aplikasi ini untuk keluarganya sendiri. Privasi bukan kalimat pemasaran. Aplikasi ini dirancang sejak hari pertama agar tidak memerlukan akun, agar server Travel Document Vault tidak pernah terlibat, dan agar dokumen Anda tetap hanya bisa dibaca oleh Anda. Cadangan cloud opsional memakai iCloud atau Google Drive milik Anda sendiri, dienkripsi ujung ke ujung dengan kode pemulihan yang hanya Anda miliki. Itu keputusan teknik yang disengaja, bukan kebijakan yang bisa diubah lewat sebuah sakelar.
+Travel Document Vault dibuat oleh Mustafa Hafeez, seorang pengembang perangkat lunak senior dengan pengalaman bertahun-tahun membangun aplikasi yang menghormati privasi, sekaligus orang tua yang membutuhkan aplikasi ini untuk keluarganya sendiri. Privasi bukan kalimat pemasaran. Vault lokal tidak memerlukan akun atau server Travel Document Vault. Aktifkan kunci aplikasi untuk membatasi akses pada ponsel yang tidak terkunci. Cadangan cloud opsional memakai iCloud atau Google Drive milik Anda sendiri, dienkripsi ujung ke ujung dengan kode pemulihan yang hanya Anda miliki. Itu keputusan teknik yang disengaja, bukan kebijakan yang bisa diubah lewat sebuah sakelar.
 
 Ingin memverifikasi klaim ini sendiri? Lihat halaman [Kebijakan Privasi](https://traveldocumentvault.com/privacy-policy/) kami untuk detail lengkap.
 
@@ -60,15 +60,15 @@ Ingin memverifikasi klaim ini sendiri? Lihat halaman [Kebijakan Privasi](https:/
 
 Di mana data saya disimpan?
 
-Semua data Anda disimpan **secara eksklusif di perangkat Anda**. Kami tidak memiliki server cloud, akun pengguna, atau cara apa pun untuk mengakses dokumen Anda. Saat Anda menyimpan dokumen, dokumen tersebut tetap berada di area penyimpanan aman ponsel Anda.
+Semua data Anda disimpan **di perangkat Anda secara default**. Kami tidak memiliki server yang menyimpan dokumen Anda atau akun pengguna Travel Document Vault. Saat Anda menyimpan dokumen, dokumen tersebut tetap berada di area penyimpanan aman ponsel Anda.
 
 Apakah data saya dicadangkan ke cloud?
 
-Aplikasi tidak memiliki database cloud. Kami tidak melihat data Anda. Jika Anda menggunakan **iCloud Backup** (iOS) atau **Google Backup** (Android) untuk seluruh ponsel Anda, aplikasi akan diinstal ulang tetapi **tidak dapat memulihkan dokumen Anda** karena kunci enkripsi tidak pernah meninggalkan perangkat asli Anda. Semua orang dapat mengekspor vault sebagai file .tdvault terenkripsi gratis dari Pengaturan. Pengguna Pro dapat membuat cadangan cloud terenkripsi ke iCloud atau Google Drive pribadi mereka dengan pemulihan satu ketukan di perangkat baru menggunakan kode pemulihan mereka.
+Pengguna Pro bisa mengaktifkan cadangan cloud terenkripsi ke iCloud atau Google Drive sendiri. Kami tidak memiliki akses ke data Anda. Isi dokumen disimpan secara terenkripsi; sebagian metadata cadangan tetap bisa dibaca. Jika Anda menggunakan **iCloud Backup** (iOS) atau **Google Backup** (Android) untuk seluruh ponsel Anda, aplikasi akan diinstal ulang tetapi **tidak dapat memulihkan dokumen Anda** karena cadangan sistem tidak memindahkan kunci enkripsi yang terikat pada perangkat. Semua orang dapat mengekspor vault sebagai file .tdvault terenkripsi gratis dari Pengaturan. Pengguna Pro bisa memulihkan cadangan cloud pada perangkat yang didukung di platform yang sama dengan akun cloud yang sama, menggunakan kode pemulihan. Pemulihan menggantikan isi vault lokal.
 
 Apa yang terjadi jika saya kehilangan ponsel?
 
-Karena kami tidak memiliki data Anda, kami tidak dapat memulihkannya untuk Anda. Jika Anda memulihkan ponsel baru dari cadangan sistem (iCloud/Google), aplikasi akan diinstal ulang tetapi dokumen Anda tidak akan dimulihkan karena kunci enkripsi tidak pernah meninggalkan perangkat asli.
+Karena kami tidak memiliki data Anda, kami tidak dapat memulihkannya untuk Anda. Jika Anda memulihkan ponsel baru dari cadangan sistem (iCloud/Google), aplikasi akan diinstal ulang tetapi dokumen Anda tidak akan dimulihkan karena cadangan sistem tidak memindahkan kunci enkripsi yang terikat pada perangkat. Untuk memindahkan vault ke ponsel baru, gunakan cadangan cloud (Pro) atau ekspor vault gratis.
 
 **Rekomendasi:** Gunakan fitur Ekspor untuk menyimpan salinan vault Anda sebagai file .tdvault terenkripsi. Pengguna Pro juga dapat membuat cadangan cloud terenkripsi ke iCloud atau Google Drive pribadi mereka.
 
@@ -76,24 +76,24 @@ Bagaimana jika seseorang mencuri ponsel saya? Apakah dokumen saya terlindungi?
 
 Ya. Dokumen Anda **dienkripsi di disk** dalam penyimpanan aplikasi. Ini melindungi terhadap ekstraksi file langsung.
 
-- **Enkripsi di Disk:** Setiap gambar dokumen dan PDF diacak sebelum disimpan.
+- **Enkripsi di Disk:** File lampiran asli yang tersimpan di vault dienkripsi; melihat, memindai, dan berbagi dapat membuat salinan sementara yang bisa dibaca.
 - **Kunci Aplikasi:** Tambahkan lapisan pertahanan kedua dengan mengaktifkan PIN, Face ID, atau Touch ID di pengaturan aplikasi.
 
 **Penting:** Keamanan maksimum memerlukan kode sandi perangkat yang kuat. Jika perangkat Anda tidak terkunci, kunci enkripsi mungkin dapat diakses oleh siapa pun yang memegang ponsel.
 
 Apakah Anda mengumpulkan data analitik atau pelacakan?
 
-**Tidak.** Kami tidak menggunakan SDK analitik, jaringan iklan, atau layanan pelacakan apa pun. Satu-satunya layanan eksternal yang kami gunakan adalah **Sentry** untuk pelaporan kerusakan (yang dapat dinonaktifkan di pengaturan). Laporan kerusakan hanya berisi informasi teknis. Bukan dokumen atau data pribadi Anda.
+**Tidak.** Kami tidak menggunakan SDK analitik, jaringan iklan, atau layanan pelacakan apa pun. Pelaporan kerusakan opsional melalui **Sentry** tetap nonaktif kecuali jika Anda mengaktifkannya di pengaturan. Cadangan cloud (Pro), pembelian di toko, dan pembaruan juga menggunakan layanan eksternal. Laporan kerusakan berisi diagnostik teknis yang sudah dibersihkan dari data sensitif. Laporan dibersihkan untuk mengurangi data pribadi; file dokumen bukan lampiran yang sengaja disertakan.
 
 Apa yang terjadi ketika saya menghapus aplikasi?
 
-Semua data Anda **dihapus secara permanen** ketika Anda menghapus instalan aplikasi. Tidak ada cara untuk memulihkannya setelahnya karena kami tidak menyimpan apa pun secara eksternal. **Sebelum menghapus:** Ekspor vault Anda sebagai file .tdvault dari Pengaturan, atau pulihkan cadangan lokal terlebih dahulu lalu ekspor.
+Semua data Anda di ponsel ini **dihapus secara permanen** ketika Anda menghapus instalan aplikasi. Tidak ada cara untuk memulihkannya setelahnya kecuali jika Anda membuat ekspor vault atau mengaktifkan cadangan cloud, karena kami tidak menyimpan apa pun secara eksternal. **Sebelum menghapus:** Ekspor vault Anda sebagai file .tdvault dari Pengaturan, atau pulihkan cadangan lokal terlebih dahulu lalu ekspor.
 
 ## Keamanan Tambahan
 
 Apakah gambar dokumen saya dienkripsi?
 
-**Ya.** Semua gambar dokumen dan PDF dienkripsi sebelum disimpan ke perangkat Anda. Ini berarti bahkan jika seseorang mendapatkan akses ke file ponsel Anda, mereka tidak dapat melihat dokumen Anda.
+**Ya.** Gambar asli dan PDF yang tersimpan di vault dienkripsi. Melihat, memindai, dan berbagi dapat membuat salinan sementara yang bisa dibaca. File asli yang tersimpan secara terenkripsi tidak bisa dibaca tanpa kunci dekripsinya.
 
 **Untuk keamanan maksimum:** Kami menyarankan mengaktifkan Kunci Aplikasi dan menggunakan kode sandi perangkat yang kuat. Lihat [Kebijakan Privasi](https://traveldocumentvault.com/privacy-policy/) kami untuk detail lengkap.
 
@@ -111,29 +111,29 @@ Jika Anda memulihkan dari cadangan, dokumen Anda akan otomatis bekerja di perang
 
 Apa itu "Tunjukkan kepada Orang Lain"?
 
-"Tunjukkan kepada Orang Lain" adalah mode tampilan yang dilindungi untuk saat-saat ketika pejabat perbatasan, resepsionis hotel, atau staf maskapai perlu melihat dokumen di layar Anda. Ketuk ikon dan aplikasi masuk ke tampilan layar penuh yang bersih yang **memblokir tangkapan layar dan perekaman layar.** Ketika mereka mengembalikan ponsel Anda, satu ketukan membawa Anda kembali ke vault Anda.
+"Tampilkan ke orang lain" adalah mode tampilan yang dilindungi saat petugas perbatasan, resepsionis hotel, atau staf maskapai perlu melihat dokumen di layar Anda. Dengan kunci PIN sudah diatur, ketuk ikon untuk membuka tampilan layar penuh dengan **perlindungan tangkapan layar dan perekaman layar aktif secara default** sesuai dukungan perangkat dan pengaturan Anda. Tutup tampilan terlindungi, lalu buka kunci vault dengan PIN atau biometrik yang aktif.
 
-Dokumen Anda tidak pernah meninggalkan perangkat Anda. Mode ini hanya memberi Anda cara yang aman dan terkontrol untuk menyajikannya kepada orang lain tanpa memberikan akses ke seluruh vault Anda.
+Mode tampilan ini tidak mengunggah dokumen Anda. Atur kunci PIN terlebih dahulu agar menutup tampilan terlindungi mengunci akses ke vault. Tanpa kunci PIN, penampil tidak membatasi akses ke bagian lain vault Anda.
 
 Apa itu kode pemulihan dan mengapa saya membutuhkannya?
 
 Saat Anda mengatur App Lock, aplikasi menghasilkan kode pemulihan unik yang merupakan jaring pengaman Anda jika Anda pernah lupa PIN Anda. Simpan di tempat yang aman — pengelola sandi Anda, catatan yang dicetak, di mana pun Anda mempercayai.
 
-Jika Anda lupa PIN, masukkan kode pemulihan Anda di layar PIN. App Lock dinonaktifkan dan Anda mendapatkan **akses penuh tanpa kehilangan satu dokumen pun.**
+Jika Anda lupa PIN, masukkan kode pemulihan di layar PIN. Kode pemulihan **membuka aplikasi tanpa menghapus dokumen Anda**; kunci aplikasi tetap aktif.
 
-Tanpa kode pemulihan, satu-satunya opsi adalah menghapus dan menginstal ulang aplikasi, yang secara permanen menghapus vault Anda. Simpan kode Anda saat diminta. Anda tidak akan mendapat kesempatan kedua.
+Jika PIN maupun biometrik yang aktif tidak bisa membuka aplikasi dan Anda tidak memiliki kode pemulihan, Anda mungkin perlu menghapus vault lokal dan memulihkan cadangan yang tersimpan. Simpan kode saat diminta. Selagi Anda masih mengetahui PIN, Anda bisa membuat kode baru di Pengaturan → Keamanan.
 
 Apa itu Auto-Erase?
 
-Auto-Erase menghapus vault Anda secara permanen jika terlalu banyak percobaan PIN yang salah dilakukan. Ini **dinonaktifkan secara default.** Aktifkan di Pengaturan → App Lock jika Anda menginginkan perlindungan maksimal terhadap ponsel yang dicuri. Setelah terlalu banyak percobaan yang salah, setiap dokumen dihapus dan tidak dapat dipulihkan.
+Penghapusan Otomatis dimaksudkan untuk menghapus vault di ponsel ini setelah percobaan PIN salah berulang kali. Jangan mengandalkannya sebagai perlindungan yang dijamin. Fitur ini **aktif secara default** setelah Anda mengatur PIN. Nonaktifkan di Pengaturan → Keamanan jika Anda ingin mempertahankan data setelah percobaan yang gagal. Penghapusan lokal yang selesai menghapus vault di ponsel ini; pemulihan memerlukan cadangan terpisah yang bisa digunakan.
 
-**Penting:** Hanya aktifkan Auto-Erase setelah membuat cadangan ekspor vault. Dengan cara ini, jika pernah diaktifkan secara tidak sengaja, Anda dapat memulihkan dari cadangan Anda. Menggunakannya bersama dengan kode pemulihan memberi Anda keamanan maksimum dan jalan yang jelas untuk masuk kembali.
+**Penting:** Buat cadangan ekspor vault sebelum mengandalkan Penghapusan Otomatis. Dengan cara ini, jika pernah diaktifkan secara tidak sengaja, Anda dapat memulihkan dari cadangan Anda. Simpan cadangan terpisah beserta kata sandi atau kode pemulihan yang diperlukan sebelum mengandalkan Penghapusan Otomatis.
 
 ## Fitur
 
 Jenis dokumen apa yang dapat saya simpan?
 
-Aplikasi mendukung **Paspor**, **KTP Nasional** (depan + belakang), **Visa/Izin Tinggal**, **Tiket Pesawat**, **Voucher & Tiket Masuk** (kartu hadiah, kode promo, tiket acara, dengan pengingat kedaluwarsa agar tidak terbuang sia-sia), **Dokumen Lainnya** (asuransi perjalanan, asuransi kesehatan, catatan vaksinasi, keanggotaan, resep, apa pun dengan tanggal kedaluwarsa), dan **Catatan** (hanya teks untuk tenggat waktu dan pengingat). Anda dapat mengambil dokumen menggunakan kamera, mengimpor dari perpustakaan foto, atau mengimpor file PDF. Pengguna Pro dapat mengambil dokumen multi-halaman untuk Tiket Pesawat, Voucher, dan Dokumen Lainnya.
+Aplikasi mendukung **Paspor**, **KTP Nasional** (depan + belakang), **Visa/Izin Tinggal**, **Tiket Pesawat**, **Voucher & Tiket Masuk** (kartu hadiah, kode promo, tiket acara, dengan pengingat kedaluwarsa agar tidak terbuang sia-sia), **Dokumen Lainnya** (asuransi perjalanan, asuransi kesehatan, catatan vaksinasi, keanggotaan, resep, apa pun dengan tanggal kedaluwarsa), dan **Catatan** (teks dengan lampiran gambar opsional dan pengingat). Anda dapat mengambil dokumen menggunakan kamera, mengimpor dari perpustakaan foto, atau mengimpor file PDF. Pengguna Pro dapat mengambil dokumen multi-halaman untuk Tiket Pesawat, Voucher, dan Dokumen Lainnya.
 
 Bagaimana pengingat kedaluwarsa bekerja?
 
@@ -141,42 +141,42 @@ Pengingat dimulai secara otomatis, dijadwalkan sesuai jenis dokumen. Paspor dimu
 
 Apa itu OCR dan bagaimana cara kerjanya?
 
-OCR (Optical Character Recognition) secara otomatis mendeteksi tanggal kedaluwarsa dari dokumen Anda. Arahkan kamera ke dokumen, dan aplikasi akan mencoba membaca tanggal kedaluwarsa. Semua pemrosesan terjadi di ponsel Anda, tidak ada yang diunggah. Tanggal yang terdeteksi diberi label "Terdeteksi: harap verifikasi" dan memerlukan konfirmasi Anda sebelum disimpan.
+OCR (Optical Character Recognition) secara otomatis mendeteksi tanggal kedaluwarsa dari dokumen Anda. Arahkan kamera ke dokumen, dan aplikasi akan mencoba membaca tanggal kedaluwarsa. Semua pemrosesan terjadi di ponsel Anda, tidak ada yang diunggah. Centang kotak "Saya mengonfirmasi tanggal ini benar" untuk menerima tanggal yang terdeteksi, atau edit tanggal secara manual sebelum menyimpan.
 
 Bisakah saya mengekspor dokumen saya?
 
-Pengguna gratis dapat berbagi dokumen individual. Pengguna Pro mendapatkan alat batch yang andal: pilih dokumen tertentu (atau profil semua orang) dan buat **PDF gabungan tunggal** yang dioptimalkan untuk dicetak. Anda bahkan dapat menetapkan nama file kustom untuk ekspor Anda agar catatan digital Anda tetap terorganisir.
+Pengguna gratis dapat berbagi dokumen individual. Pro menambahkan ekspor PDF gabungan: pilih dokumen tertentu (atau profil semua orang) dan buat **PDF gabungan tunggal** untuk dicetak. Anda bisa menetapkan nama file kustom agar ekspor tetap teratur.
 
 Bagaimana dengan cadangan?
 
-Aplikasi menyimpan segalanya di perangkat Anda. Jika Anda memiliki iCloud (iOS) atau Google Backup (Android) yang diaktifkan, dokumen Anda sudah terlindungi melalui cadangan perangkat Anda. Pengguna Pro dapat mengekspor **cadangan terenkripsi yang dilindungi kata sandi** untuk disimpan, dan semua pengguna dapat **memulihkan dari cadangan** kapan saja melalui Pengaturan → Impor Vault. Kami sengaja tidak menyinkronkan ke server kami untuk melindungi privasi Anda.
+Aktifkan cadangan cloud terenkripsi ke iCloud (iOS) atau Google Drive (Android) Anda sendiri. Vault dienkripsi di perangkat dengan kode pemulihan sebelum diunggah. Kami tidak melihat data Anda. Isi dokumen dienkripsi; penyedia cloud bisa melihat metadata cadangan seperti jumlah, cap waktu, dan informasi perangkat. Cadangan berjalan otomatis saat aplikasi terbuka dan terhubung. Pulihkan dengan kode pemulihan di perangkat yang didukung pada platform yang sama, menggunakan akun cloud yang sama. Pemulihan menggantikan vault lokal. Semua pengguna bisa mengekspor **cadangan terenkripsi yang dilindungi kata sandi** untuk disimpan, dan semua pengguna dapat **mengimpor cadangan** melalui Pengaturan → Impor cadangan. Kami sengaja tidak menyinkronkan ke server kami untuk melindungi privasi Anda.
 
 Bisakah saya berbagi dokumen dengan anggota keluarga?
 
-Aplikasi menggunakan **profil** untuk mengorganisir dokumen berdasarkan anggota keluarga, tetapi semua data tetap di perangkat Anda. Tidak ada akses bersama atau sinkronisasi antara perangkat. Jika Anda perlu berbagi dokumen, Anda dapat mengekspornya menggunakan lembar berbagi sistem dan mengirimkannya melalui AirDrop, email, atau pesan.
+Dengan Pro, **profil** membantu Anda mengatur dokumen, foto, dan pengingat setiap anggota keluarga dalam vault yang sama. Profil tidak memiliki kunci akses terpisah. Saat cadangan cloud aktif, profil disinkronkan ke perangkat yang terhubung ke vault cloud yang sama.
 
 Apakah aplikasi bekerja secara offline?
 
-**Ya!** Aplikasi bekerja sepenuhnya secara offline. Anda dapat menambahkan dokumen, melihatnya, dan menerima pengingat tanpa koneksi internet apa pun. Sempurna untuk perjalanan.
+**Ya.** Anda bisa menambahkan dokumen, melihat salinan yang tersimpan, dan menerima pengingat kedaluwarsa secara offline. Cadangan cloud, pembelian, dan pembaruan memerlukan koneksi.
 
 Bagaimana cara mengaktifkan Kunci Aplikasi dengan PIN atau Face ID/Touch ID?
 
-Untuk mengaktifkan Kunci Aplikasi, buka **Pengaturan → Kunci Aplikasi** di aplikasi:
+Untuk mengaktifkan Kunci Aplikasi, buka **Pengaturan → Keamanan** di aplikasi:
 
-- **Kunci PIN (Gratis):** Tetapkan kode PIN 4 digit. Aplikasi akan memerlukan PIN ini setiap kali Anda membukanya.
+- **Kunci PIN (Gratis):** Tetapkan kode PIN 6 digit. Kunci aplikasi meminta autentikasi saat diperlukan; biometrik yang aktif bisa menggantikan entri PIN, dan perpindahan aplikasi singkat memiliki masa tenggang lima detik.
 - **Kunci Biometrik:** Aktifkan Face ID (iPhone dengan Face ID), Touch ID (iPhone dengan sidik jari), atau buka kunci sidik jari (Android). Gratis untuk semua pengguna, karena keamanan tidak boleh berbayar.
 
 **Praktik terbaik:** Aktifkan Kunci Aplikasi + atur perangkat Anda untuk mengunci otomatis setelah 30 detik. Ini menciptakan beberapa lapisan perlindungan.
 
-**Penting, PIN Terlupakan:** Jika Anda melupakan PIN, satu-satunya cara untuk mendapatkan kembali akses adalah menghapus dan menginstal ulang aplikasi, yang **menghapus semua data Anda secara permanen**. Ekspor cadangan terenkripsi sebelum mengaktifkan Kunci Aplikasi untuk perlindungan.
+**Penting, PIN Terlupakan:** Simpan kode pemulihan saat mengatur kunci aplikasi. Masukkan di layar PIN untuk membuka aplikasi **tanpa menghapus dokumen Anda**. Lihat "Apa itu kode pemulihan?" di bawah untuk detail lengkap.
 
 Apakah aplikasi membuat cadangan otomatis?
 
-**Ya, aplikasi membuat cadangan lokal otomatis setiap beberapa menit** (ketika aplikasi terbuka dan perubahan dibuat). Cadangan ini disimpan di perangkat Anda dan termasuk dalam cadangan perangkat iCloud (iOS) atau Google (Android) jika Anda mengaktifkan layanan tersebut.
+**Ya, aplikasi membuat cadangan lokal otomatis setiap beberapa menit** (ketika aplikasi terbuka dan perubahan dibuat). Cadangan ini disimpan di perangkat Anda. Cadangan perangkat (iCloud atau Google) tidak bisa mengembalikan dokumen Anda dari snapshot tersebut, karena cadangan sistem tidak memindahkan kunci enkripsi yang terikat pada perangkat.
 
-- Aplikasi menyimpan **10 cadangan bergulir** di perangkat Anda. Ketika cadangan ke-11 dibuat, yang paling lama secara otomatis dihapus.
-- Cadangan **dienkripsi** menggunakan perlindungan yang sama dengan dokumen Anda.
-- Jika aplikasi macet atau Anda tidak sengaja menghapus dokumen, Anda dapat memulihkan dari cadangan terbaru melalui **Pengaturan → Pulihkan Cadangan Lokal**.
+- Aplikasi menyimpan **beberapa cadangan bergulir** di perangkat Anda. Cadangan lama diganti setelah batas penyimpanan lokal tercapai.
+- Cadangan berada dalam **penyimpanan pribadi** aplikasi di perangkat Anda.
+- Cadangan lokal yang valid bisa memulihkan data vault sebelumnya melalui **Pengaturan → Pulihkan Cadangan Lokal**, tetapi tidak bisa membuat ulang file lampiran yang sudah dihapus secara permanen. Gunakan Dihapus Baru-baru Ini untuk penghapusan biasa.
 
 **Vault Export:** Buka Pengaturan untuk mengekspor file .tdvault terenkripsi kapan saja. Simpan ke Files, iCloud Drive, atau bagikan melalui AirDrop/email untuk penyimpanan di luar perangkat. Gratis untuk semua pengguna.
 
@@ -190,7 +190,7 @@ Untuk menyesuaikan pengingat, ketuk dokumen mana saja → Edit → bagian Pengin
 
 Bagaimana cara memilih beberapa dokumen?
 
-Pengguna Pro dapat mengetuk **"Pilih"** di kanan atas daftar dokumen untuk masuk ke mode pilih. Ketuk dokumen untuk memilih atau membatalkan pilihan, lalu gunakan tombol **Tindakan** untuk mengekspor PDF gabungan, berbagi file asli, atau menghapus dokumen yang dipilih. Anda juga dapat **tekan lama** kartu dokumen mana pun untuk menu konteks cepat dengan opsi yang sama untuk dokumen tunggal tersebut.
+Buka menu tambahan daftar dokumen lalu ketuk **"Pilih dokumen"** untuk masuk ke mode pilih. Ketuk dokumen untuk memilih atau membatalkan pilihan, lalu gunakan kontrol **Hapus, Bagikan, atau PDF** di bagian bawah untuk menghapus dokumen yang dipilih, berbagi file asli, atau mengekspor PDF gabungan (Pro). Anda juga dapat **tekan lama** kartu dokumen mana pun untuk menu konteks cepat dengan opsi yang sama untuk dokumen tunggal tersebut.
 
 Bisakah saya membatalkan penghapusan massal?
 
@@ -202,11 +202,11 @@ Tekan lama (tekan dan tahan) kartu dokumen mana pun di daftar Anda untuk membuka
 
 Bisakah saya menyimpan dokumen medis atau resep?
 
-Ya. Anda dapat menyimpan kartu asuransi kesehatan, resep berulang, catatan vaksinasi, dan dokumen terkait kesehatan lainnya. Gunakan jenis **Catatan** atau **Dokumen**, tambahkan tanggal kedaluwarsa, dan aplikasi akan mengirimkan pengingat sebelum pembaruan jatuh tempo, sama seperti yang dilakukan untuk paspor dan visa. Segalanya tetap di perangkat Anda, terenkripsi, dan tidak pernah diunggah ke mana pun.
+Ya. Anda dapat menyimpan kartu asuransi kesehatan, resep berulang, catatan vaksinasi, dan dokumen terkait kesehatan lainnya. Pilih jenis **Lainnya** atau **Catatan**, lalu simpan tanggal kedaluwarsa. Pengingat aktif secara default, dengan jadwal berdasarkan jenis dokumen. Segalanya tetap di perangkat Anda, terenkripsi, dan tidak pernah diunggah ke mana pun.
 
 Bisakah saya menunda pengingat?
 
-Ya. Ketika pengingat aktif, ketuk **Snooze** langsung dari pemberitahuan. Pilih 1 jam, nanti hari ini, besok, atau minggu depan. Aplikasi akan menjadwalkan ulang secara otomatis. Anda juga dapat menunda dari dalam aplikasi di layar detail dokumen. Pengingat muncul kembali pada waktu yang tepat yang Anda pilih. Tidak perlu memeriksa secara manual.
+Ya. Ketika pengingat aktif, **tunda** langsung dari pemberitahuan. Pilih 1 jam, 3 jam, besok, atau minggu depan. Aplikasi akan menjadwalkan ulang secara otomatis. Anda juga bisa menunda dari dalam aplikasi pada tab Pengingat. Aplikasi menjadwalkan pengingat yang ditunda untuk waktu pilihan Anda.
 
 Bisakah saya memberi kode warna pada dokumen saya?
 
@@ -224,31 +224,31 @@ Kapan versi Android akan tersedia?
 
 **Versi Android akan hadir awal 2026.** Kami saat ini dalam pengujian tertutup untuk memastikan pengalaman penyimpanan di perangkat yang mengutamakan privasi bekerja dengan sempurna di perangkat Android.
 
-Versi Android akan memiliki paritas fitur dengan iOS, termasuk penyimpanan terenkripsi di perangkat, pemindaian OCR, pengingat kedaluwarsa, dan semua fitur Pro (profil tak terbatas, ekspor dokumen batch, dan pengaturan waktu pengingat kustom).
+Android mendukung penyimpanan terenkripsi di perangkat, pemindaian OCR, dan pengingat kedaluwarsa. Dengan Pro, Anda bisa menggunakan profil tak terbatas, ekspor PDF batch, dan pengaturan waktu pengingat kustom.
 
 Bisakah saya mentransfer data dari iPhone ke Android (atau sebaliknya)?
 
-**Ya, menggunakan Vault Export terenkripsi.** Ekspor file .tdvault dari perangkat Anda saat ini (Pengaturan → Ekspor Vault), transfer ke perangkat baru (melalui email, penyimpanan cloud, atau transfer langsung), lalu gunakan Pengaturan → Impor Vault untuk memulihkan dokumen Anda.
+**Ya, menggunakan Vault Export terenkripsi.** Ekspor cadangan terenkripsi dari perangkat Anda saat ini (Pengaturan, Ekspor vault), transfer ke perangkat baru (melalui email, penyimpanan cloud, atau transfer langsung), lalu gunakan Pengaturan, Impor cadangan untuk memulihkan dokumen Anda, yang menggantikan data yang sudah ada di perangkat baru.
 
-Ini bekerja lintas platform karena format enkripsi bersifat universal. Anda memerlukan kata sandi yang sama yang Anda gunakan saat mengekspor vault. Pembelian Pro Anda juga perlu dipulihkan di perangkat baru.
+Ini bekerja lintas platform karena format enkripsi bersifat universal. Anda memerlukan kata sandi yang sama yang Anda gunakan saat mengekspor vault. Pembelian Pro dipulihkan pada platform dan akun toko yang sama; berpindah antara iOS dan Android memerlukan pembelian Pro terpisah (lihat "Bisakah saya memulihkan pembelian di perangkat baru?" di bawah).
 
 Berapa banyak ruang penyimpanan yang digunakan aplikasi?
 
-Aplikasi itu sendiri kecil (~15MB unduhan). **Penggunaan penyimpanan sepenuhnya bergantung pada berapa banyak dokumen yang Anda simpan dan kualitas fotonya.** Foto paspor tipikal (kualitas tinggi) adalah 2-4MB. Dengan 20 dokumen, perkirakan sekitar 40-80MB penyimpanan.
+**Penggunaan penyimpanan bergantung pada jumlah dokumen dan ukuran file, serta metadata vault, cadangan, dan file sementara.**
 
-Aplikasi menyertakan 10 cadangan otomatis, yang merupakan salinan terkompresi dari dokumen Anda, menambahkan ruang ekstra minimal (~10-20% lebih). Tidak ada batas keras pada jumlah dokumen (pengguna Pro mendapatkan tak terbatas), tetapi batas praktis bergantung pada penyimpanan perangkat yang tersedia.
+Aplikasi menyertakan beberapa cadangan otomatis data vault Anda. Pengguna gratis bisa menambahkan hingga lima dokumen. Dengan Pro, tidak ada batas jumlah dokumen, sesuai ruang penyimpanan perangkat yang tersedia.
 
 Mengapa aplikasi memerlukan akses kamera dan perpustakaan foto?
 
 **Kamera:** Untuk mengambil foto dokumen Anda langsung di aplikasi. **Perpustakaan Foto:** Untuk mengimpor foto dokumen yang sudah Anda ambil.
 
-Kami **tidak pernah mengunggah** foto Anda ke mana pun. Semua pemrosesan (termasuk pemindaian OCR) terjadi di perangkat Anda. Jika Anda menolak izin ini, Anda tidak akan dapat menambahkan dokumen. Jika Anda tidak sengaja menolak izin, Anda dapat mengaktifkannya kembali di Pengaturan perangkat Anda → Privasi → Kamera / Foto → Travel Document Vault.
+Kami **tidak pernah mengunggah** foto Anda ke server kami. Kami tidak memiliki server yang menyimpan dokumen Anda. Semua pemrosesan (termasuk pemindaian OCR) terjadi di perangkat Anda. Jika Anda mengaktifkan cadangan cloud Pro opsional, vault terenkripsi dikirim ke iCloud atau Google Drive Anda sendiri, disegel dengan kode pemulihan yang hanya Anda pegang. Anda masih bisa menambahkan detail dokumen secara manual atau mengimpor PDF jika menolak izin kamera dan foto. Jika Anda tidak sengaja menolak izin, Anda dapat mengaktifkannya kembali di Pengaturan perangkat Anda → Privasi → Kamera / Foto → Travel Document Vault.
 
 ## Harga & Pembelian
 
 Apa perbedaan antara Gratis dan Pro?
 
-**Gratis** mencakup 1 profil dan hingga 5 dokumen dengan fungsionalitas penuh, termasuk pemindaian OCR, pengingat kedaluwarsa, berbagi dokumen, Kunci PIN, dan Kunci Biometrik (Face ID / Touch ID). **Pro** (sekali bayar*) membuka profil tak terbatas, dokumen tak terbatas, ekspor PDF gabungan, ekspor batch (.tdvault), pengaturan waktu pengingat kustom, dan pengambilan multi-halaman untuk Tiket Pesawat dan Dokumen Lainnya.
+**Gratis** mencakup 1 profil dan hingga 5 dokumen dengan alat inti, termasuk pemindaian OCR, pengingat kedaluwarsa, berbagi dokumen, Kunci PIN, dan Kunci Biometrik (Face ID / Touch ID). **Pro** (sekali bayar*) membuka profil tak terbatas, dokumen tak terbatas, ekspor PDF gabungan, ekspor batch (.tdvault), pengaturan waktu pengingat kustom, dan pengambilan multi-halaman untuk Tiket Pesawat dan Dokumen Lainnya.
 
 * Lihat [Kebijakan Harga](https://traveldocumentvault.com/pricing-policy/#version-policy) untuk detail versi.
 
@@ -260,7 +260,7 @@ Apakah Pro berupa langganan?
 
 Bisakah saya memulihkan pembelian di perangkat baru?
 
-**Ya.** Buka Pengaturan di aplikasi dan ketuk "Pulihkan Pembelian." Selama Anda masuk ke Apple ID atau Akun Google yang sama, pembelian Pro Anda akan dipulihkan. Catatan: dokumen Anda tidak akan ditransfer. Hanya kunci Pro.
+**Ya.** Buka Pengaturan di aplikasi dan ketuk "Pulihkan pembelian." Pada platform yang sama, gunakan akun toko yang membeli Pro; pemulihan memerlukan koneksi dan hak pembelian yang valid dari toko. Catatan: dokumen Anda tidak akan ditransfer. Hanya kunci Pro.
 
 Apakah saya akan mendapatkan pembaruan di masa mendatang jika membeli Pro?
 
@@ -292,7 +292,7 @@ OCR bekerja paling baik dengan pencahayaan yang baik dan dokumen yang rata. Coba
 
 Mengapa gambar dokumen saya buram atau berkualitas rendah?
 
-Kualitas dokumen sepenuhnya bergantung pada kamera dan kondisi pencahayaan Anda. Kami tidak memodifikasi, menyempurnakan, atau meningkatkan gambar. Apa yang Anda ambil itulah yang Anda dapatkan. Untuk hasil terbaik: gunakan pencahayaan yang baik (cahaya alami bekerja dengan baik), pegang ponsel Anda dengan stabil, pastikan dokumen rata dan terlihat penuh dalam bingkai, dan bersihkan lensa kamera Anda. Kualitas cetak juga mencerminkan kualitas pengambilan asli Anda.
+Kualitas dokumen bergantung pada gambar sumber, pencahayaan, serta pemotongan, perubahan ukuran, dan kompresi aplikasi. Foto yang tersimpan bisa dipotong, diubah ukurannya, dan dikompresi; OCR bisa menyempurnakan salinan sementara untuk pengenalan teks. Untuk hasil terbaik: gunakan pencahayaan yang baik (cahaya alami bekerja dengan baik), pegang ponsel Anda dengan stabil, pastikan dokumen rata dan terlihat penuh dalam bingkai, dan bersihkan lensa kamera Anda. Kualitas cetak juga mencerminkan kualitas pengambilan asli Anda.
 
 Aplikasi macet. Apakah data saya hilang?
 
@@ -302,7 +302,7 @@ Kemungkinan tidak. Data Anda disimpan secara otomatis saat Anda menambahkan atau
 
 Apa itu kode pemulihan saya dan apa yang terjadi jika saya kehilangannya?
 
-Kode pemulihan Anda adalah frasa sandi 24 karakter yang mengenkripsi cadangan cloud Anda.
+Kode pemulihan Anda membuka kunci enkripsi cadangan cloud; perangkat yang sudah dikonfigurasi menyimpannya untuk pencadangan otomatis.
 
 Bagaimana cadangan cloud saya dienkripsi?
 
@@ -318,29 +318,29 @@ PIN Anda adalah kunci harian. Face ID adalah jalan pintas cepat untuk membuka ku
 
 Bagaimana cara mengekspor dan mengimpor brankas saya?
 
-Setiap pengguna dapat mengekspor seluruh vault mereka sebagai file cadangan terenkripsi dan dilindungi kata sandi (.tdvault) dari Pengaturan, lalu mengimpornya di perangkat mana pun atau setelah instal ulang. Ekspor dan impor bolak-balik mempertahankan semuanya persis sama, sehingga data Anda portabel dan Anda tidak pernah terkunci. (Ekspor PDF multi-dokumen gabungan adalah fitur Pro terpisah.)
+Anda bisa mengekspor data vault yang didukung dan lampiran yang tersedia sebagai file cadangan terenkripsi yang dilindungi kata sandi (.tdvault) dari Pengaturan, sesuai batas ukuran, lalu mengimpornya ke instalasi aplikasi yang kompatibel. Ekspor dan impor memindahkan data vault yang didukung dan lampiran yang tersedia; pengaturan keamanan perangkat, preferensi, dan sebagian status internal tidak disalin persis. Untuk petunjuk langkah demi langkah, lihat panduan ekspor dan impor. (Ekspor PDF multi-dokumen gabungan adalah fitur Pro terpisah.)
 
 [Baca panduan lengkap →](https://traveldocumentvault.com/id/faq/export-import/)
 
 Bisakah saya mencadangkan data secara gratis?
 
-Ya. Vault Export (file cadangan terenkripsi .tdvault) gratis untuk semua orang. Aplikasi juga menyimpan cadangan lokal otomatis di perangkat Anda setiap beberapa menit, tanpa biaya. Pencadangan cloud ke iCloud atau Google Drive Anda sendiri adalah opsi Pro. Tidak ada fitur cadangan yang mengunci data Anda.
+Ya. Ekspor vault (file cadangan terenkripsi .tdvault) gratis untuk semua orang. Buka Pengaturan, Ekspor vault, dan aplikasi membuat file yang dilindungi kata sandi untuk disimpan ke Files, iCloud Drive, atau dibagikan ke luar perangkat. Aplikasi juga menyimpan cadangan lokal otomatis di perangkat Anda setiap beberapa menit, tanpa biaya. Pencadangan cloud ke iCloud atau Google Drive Anda sendiri adalah opsi Pro. Tidak ada fitur cadangan yang mengunci data Anda.
 
 Apa arti "Cadangan terakhir: 2 jam lalu, 12 dokumen" di Pengaturan?
 
-Baris tersebut menunjukkan cadangan lokal otomatis terbaru aplikasi, berapa lama sejak disimpan, dan berapa banyak dokumen yang dikandungnya. Ini meyakinkan Anda bahwa salinan yang dapat dipulihkan ada di perangkat Anda. Ketuk Pulihkan Cadangan Lokal untuk kembali ke versi tersebut.
+Baris tersebut menunjukkan cadangan lokal otomatis terbaru aplikasi, berapa lama sejak disimpan, dan berapa banyak dokumen yang dikandungnya. Ini menunjukkan snapshot lokal terbaru. Ketuk Pulihkan Cadangan Lokal untuk memulihkan data yang tersimpan di dalamnya. Snapshot lokal tidak menyimpan salinan file lampiran tersendiri.
 
 Bagaimana cara memulihkan vault dari cadangan lokal?
 
-Buka Pengaturan, lalu ketuk Pulihkan Cadangan Lokal. Aplikasi menampilkan daftar cadangan yang tersedia beserta cap waktunya. Pilih yang Anda inginkan, lalu konfirmasi. Untuk memulihkan dari file .tdvault yang Anda ekspor, ketuk Impor Vault sebagai gantinya dan pilih file tersebut. Kedua opsi gratis untuk semua orang. Pemulihan menggantikan data Anda saat ini dengan isi cadangan.
+Buka Pengaturan, lalu ketuk Pulihkan Cadangan Lokal. Aplikasi menampilkan daftar cadangan yang tersedia beserta cap waktunya. Pilih yang Anda inginkan, lalu konfirmasi. Untuk memulihkan dari file .tdvault yang Anda ekspor, ketuk Impor cadangan sebagai gantinya dan pilih file tersebut. Kedua opsi gratis untuk semua orang. Pemulihan menggantikan data Anda saat ini dengan isi cadangan.
 
 Aplikasi menampilkan layar pemulihan atau mengatakan data tidak dapat dimuat. Apa yang harus dilakukan?
 
-Aplikasi tidak pernah diam-diam menghapus data Anda. Jika tidak dapat membaca penyimpanan lokal, aplikasi menampilkan layar pemulihan alih-alih membuang apa pun. Ketuk Pulihkan Cadangan Lokal untuk memulihkan dari cadangan otomatis terbaru, atau ketuk Impor Vault untuk memulihkan dari file .tdvault yang sebelumnya Anda ekspor. Cadangan yang dibuat sebelum pembaruan aplikasi terbaru juga dapat dipulihkan. Dokumen Anda dapat dipulihkan dan tidak ada yang dihapus.
+Jika aplikasi tidak bisa membaca penyimpanan lokal, aplikasi menampilkan layar pemulihan dan mempertahankan data yang tidak bisa dibaca. Ketuk Pulihkan untuk memulihkan dari salah satu cadangan lokal otomatis, atau buka Pengaturan dan ketuk Impor cadangan untuk memulihkan dari file .tdvault yang sebelumnya Anda ekspor. Cadangan yang dibuat sebelum pembaruan aplikasi terbaru juga dapat dipulihkan. Data sebelumnya dipertahankan, bukan dihapus.
 
 Mengapa aplikasi membuat cadangan sebelum memperbarui?
 
-Sebelum pembaruan format data besar, aplikasi secara otomatis membuat snapshot vault Anda sehingga dapat melakukan rollback jika terjadi masalah. Prosesnya otomatis dan gratis untuk semua orang.
+Sebelum pembaruan format data besar, aplikasi secara otomatis membuat snapshot vault Anda. Jika snapshot sebelum pembaruan yang valid dan bisa dibaca tersedia, Anda bisa mencoba memulihkannya dari Pengaturan. Prosesnya otomatis dan gratis untuk semua orang.
 
 Hari di dalam atau hari di luar negara: mana yang harus saya pilih?
 
@@ -348,7 +348,7 @@ Tanyakan satu hal pada diri Anda: apakah Anda tamu di negara ini, atau ini rumah
 
 Apa itu profil keluarga?
 
-Setiap anggota keluarga memiliki profil terpisah dengan dokumen, foto, dan pengingat mereka sendiri.
+Dengan Pro, profil membantu Anda mengatur dokumen, foto, dan pengingat setiap anggota keluarga dalam vault yang sama.
 
 Apa yang terjadi ketika saya menghapus sesuatu?
 
@@ -372,15 +372,15 @@ Menghapus akan memindahkannya ke Baru Dihapus (tempat sampah). Dokumen itu tetap
 
 Apa yang terjadi jika saya menghapus semua dokumen saya?
 
-Aplikasi tidak menyinkronkan brankas kosong ke cloud. Cadangan Anda yang sudah ada tetap terjaga. Anda bisa memulihkannya lewat Pengaturan, Cadangan Cloud, Pulihkan dari Cadangan.
+Aplikasi memblokir sebagian unggahan vault kosong untuk melindungi cadangan yang ada; data yang dihapus dan data vault lainnya tetap bisa disinkronkan. Pemulihan bergantung pada cadangan tersimpan yang bisa digunakan. Anda bisa memulihkannya lewat Pengaturan, Cadangan Awan, Pulihkan dari Cadangan.
 
 Bagaimana menyiapkan cadangan cloud di perangkat kedua?
 
-Saat Anda mengaktifkan cadangan cloud di perangkat baru yang masuk dengan akun iCloud atau Google yang sama, aplikasi mendeteksi cadangan Anda yang sudah ada dan menanyakan apakah akan memulihkannya atau memulai dari awal. Pilih Pulihkan dari cadangan lalu masukkan kode pemulihan Anda. Setelah itu kedua perangkat berbagi cadangan yang sama. Memulai dari awal akan menggantikan cadangan yang ada, pilih ini hanya jika Anda yakin.
+Saat Anda mengaktifkan cadangan cloud di perangkat baru yang masuk dengan akun iCloud atau Google yang sama, aplikasi mendeteksi cadangan Anda yang sudah ada dan menanyakan apakah akan memulihkannya atau memulai dari awal. Pilih cadangan Anda, ketuk Pulihkan, lalu masukkan kode pemulihan. Setelah itu kedua perangkat berbagi cadangan yang sama. Memulai cadangan baru membiarkan cadangan yang sudah ada tetap utuh.
 
 Bisakah saya memakai cadangan cloud di beberapa perangkat sekaligus?
 
-Cadangan cloud dirancang sebagai cadangan satu perangkat dengan pemulihan di banyak perangkat. Satu perangkat menjadi sumber utama. Untuk pindah ke perangkat baru, pulihkan dari cadangan Anda di perangkat itu. Menyunting bersamaan di dua perangkat yang menyinkron ke cadangan yang sama tidak didukung: perangkat yang menyinkron terakhir yang menang.
+Ya, dengan Sinkronkan antar perangkat aktif di Pengaturan - Cadangan Awan. Perangkat pada platform yang sama memeriksa perubahan saat aplikasi terbuka dan terhubung. Sebagian perubahan digabungkan secara otomatis; sebagian konflik menawarkan pilihan versi, meskipun teks catatan tidak ditampilkan dalam perbandingan. Untuk pindah ke perangkat baru, pulihkan dari cadangan Anda di perangkat itu.
 
 Bagaimana jika saya mengaktifkan cadangan cloud saat luring?
 
@@ -388,7 +388,7 @@ Anda perlu koneksi internet untuk mengaktifkan cadangan cloud. Saat penyiapan, a
 
 Apakah cadangan saya terlindungi jika saya tidak sengaja menghapus sesuatu?
 
-Ya, ada beberapa lapis perlindungan. Dokumen yang dihapus tetap berada di Baru Dihapus tanpa batas waktu (tidak ada pembersihan otomatis saat cadangan cloud aktif). Penghapusan permanen memerlukan konfirmasi tersendiri yang memperingatkan dampaknya pada cloud. Bahkan setelah penghapusan permanen, cadangan masih menyimpan data dokumen selama beberapa siklus sinkronisasi berikutnya sebagai jaring pengaman. Dan brankas kosong tidak pernah disinkronkan ke cloud, sehingga penghapusan massal yang tidak disengaja tidak bisa menghapus cadangan Anda.
+Ya, ada beberapa lapis perlindungan. Dokumen yang dihapus tetap berada di Baru Dihapus tanpa batas waktu (tidak ada pembersihan otomatis saat cadangan cloud aktif). Penghapusan permanen memerlukan konfirmasi tersendiri yang memperingatkan dampaknya pada cloud. Versi cadangan sebelumnya mungkin mempertahankan dokumen hingga batas penyimpanan riwayat atau pembersihan cadangan menghapusnya. Perlindungan unggahan kosong dan versi cadangan yang tersimpan dapat membantu setelah penghapusan tidak sengaja; simpan juga ekspor terpisah.
 
 Apakah saya perlu menyimpan salinan sendiri juga?
 
@@ -396,7 +396,7 @@ Ya. Cadangan cloud adalah satu lapis pengaman, tetapi tidak ada sistem yang semp
 
 Apa yang terjadi jika saya kehilangan kode pemulihan?
 
-Kode pemulihan Anda adalah satu-satunya kunci untuk mendekripsi cadangan cloud Anda. Rancangan kami bersifat tanpa pengetahuan, artinya kami tidak bisa menyetel ulang, mengambil, atau memulihkannya untuk Anda. Apple dan Google juga tidak bisa. Jika Anda kehilangan kode pemulihan, cadangan terenkripsi Anda menjadi tidak dapat dipulihkan selamanya. Simpan kode pemulihan Anda di tempat aman sebelum Anda bergantung pada cadangan cloud: pengelola kata sandi, salinan cetak di tempat terlindungi, atau keduanya. Pastikan Anda benar-benar bisa membacanya sebelum menyimpannya sebagai satu-satunya salinan.
+Kode pemulihan Anda membuka kunci enkripsi cadangan cloud; perangkat yang sudah dikonfigurasi menyimpannya untuk pencadangan otomatis. Rancangan kami bersifat tanpa pengetahuan, artinya kami tidak bisa menyetel ulang, mengambil, atau memulihkannya untuk Anda. Apple dan Google juga tidak bisa. Jika Anda kehilangan kode pemulihan dan akses ke semua perangkat yang sudah dikonfigurasi yang masih menyimpannya, cadangan cloud terenkripsi Anda menjadi tidak dapat dipulihkan. Simpan kode pemulihan Anda di tempat aman sebelum Anda bergantung pada cadangan cloud: pengelola kata sandi, salinan cetak di tempat terlindungi, atau keduanya. Pastikan Anda benar-benar bisa membacanya sebelum menyimpannya sebagai satu-satunya salinan.
 
 [Untuk perbandingan lengkap, lihat mengapa keluarga memilih Travel Document Vault →](https://traveldocumentvault.com/id/why-us/)
 

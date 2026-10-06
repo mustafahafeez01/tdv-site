@@ -1,6 +1,6 @@
 # Planeador de Viagens para Famílias | Travel Document Vault
 
-> Planeie viagens em família: semáforo de prontidão, listas de bagagem e controlo de dias por país, membro a membro. Totalmente offline.
+> Com Pro, planeie viagens em família: semáforo de prontidão, listas de bagagem e controlo de dias por país, membro a membro. Totalmente offline.
 
 Source: https://traveldocumentvault.com/pt/trip-planner/
 
@@ -12,7 +12,7 @@ Cinco funcionalidades que tornam o planeamento de viagens em família sem stress
 
 ### Semáforo de Prontidão
 
-Verde significa que todos estão prontos, enquanto que âmbar sinaliza quem tem documentos prestes a expirar — sem mais surpresas na noite anterior à viagem.
+Verde significa que os documentos associados passam as verificações que definiu para as datas de viagem guardadas. Âmbar destaca os elementos a rever.
 
 Cada membro da família recebe o seu próprio status de prontidão baseado nas datas de expiração dos documentos e contexto da viagem.
 
@@ -24,21 +24,21 @@ Construído para famílias com 2 a 10+ membros. Funciona para cônjuges, filhos,
 
 ### Lista de Verificação de Embalagem
 
-Lista de verificação específica de viagens personalizada por duração e destino que marca conforme emala — sem mais esquecer protetor solar.
+Lista de bagagem para viagens de lazer ou de negócios, que assinala à medida que faz a mala — para não voltar a esquecer o adaptador de tomadas.
 
-As listas de verificação ajustam-se com base no clima, duração da viagem e tipo de viagem (praia, cidade, esqui, etc.).
+As listas de bagagem partem de um modelo de lazer ou de negócios, e pode adicionar ou remover itens para cada viagem.
 
 ### Saiba Antes de Partir
 
-Painel de destino com requisitos de entrada, regras de visto e dicas de viagem para cada país — sem surpresas na imigração.
+Painel de destino com moeda, língua, tipo de tomada, tensão elétrica e lado de condução para destinos populares — sem surpresas à chegada.
 
-Mostra regras de Schengen, períodos de validade do visto e costumes locais. Tudo atualizado para regulamentos de viagem atuais.
+Abrange perto de 60 dos destinos mais visitados, com informação integrada na aplicação para funcionar offline.
 
 ### Subsídios Limite de Dias por País
 
-Rastreie quantos dias cada membro da família passou em um país criando períodos (ano Schengen, janela de visto, ano fiscal) e vinculando as regras de subsídio a eles — depois veja um detalhamento por membro num relance.
+Rastreie quantos dias cada membro da família passou em um país criando períodos (janela de visto ou ano fiscal) e vinculando as regras de subsídio a eles — depois veja um detalhamento por membro num relance.
 
-Construído para limites móveis do tipo 90/180 num país, regras de 183 dias do Reino Unido e qualquer janela de visto ou residência personalizada. Os dias usados atualizam automaticamente conforme as viagens são registradas.
+Defina uma janela fixa ou móvel para cada país, com o seu próprio limite de dias de visto ou residência. Verifique separadamente as regras oficiais. Os dias usados atualizam automaticamente conforme as viagens são registradas.
 
 ## Muito Mais
 
@@ -60,7 +60,7 @@ Pro: sincronize com o seu próprio iCloud ou Google Drive. Acesso multi-disposit
 
 ## Pronto para Planear Melhor
 
-Descarregue gratuitamente. Sem conta. Comece a planear hoje.
+Descarregue gratuitamente. Sem conta. Comece a planear hoje com Pro.
 
 ![Descarregue no App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

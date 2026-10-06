@@ -1,6 +1,6 @@
 # Copia de Seguridad Cifrada en la Nube para Documentos de Viaje: Quién Tiene la Clave
 
-> Qué significa cifrar una copia de tus escaneos, por qué nadie puede restablecer un código de recuperación y cómo conservar una copia restaurable.
+> Qué significa cifrar una copia de tus escaneos, por qué no podemos restablecer tu código de recuperación y cómo conservar una copia restaurable.
 
 Source: https://traveldocumentvault.com/es/blog/encrypted-cloud-backup-travel-documents/
 
@@ -12,9 +12,9 @@ Source: https://traveldocumentvault.com/es/blog/encrypted-cloud-backup-travel-do
 
 - **«Copia de seguridad cifrada» solo significa algo cuando sabes quién tiene la clave.** Si la empresa puede leer tus documentos, el cifrado los protege de terceros, no de la empresa.
 - Una copia de seguridad cifrada en tu teléfono antes de subirla llega a la nube como datos ilegibles. El proveedor de almacenamiento guarda texto cifrado, no tu pasaporte.
-- **Sin cuenta no hay restablecimiento de contraseña.** Pierde el código de recuperación y nadie podrá abrir la copia de seguridad, nosotros incluidos. Es la contrapartida deliberada.
+- **Sin cuenta no hay restablecimiento de contraseña.** Si pierdes el código de recuperación y el acceso a todos los dispositivos que aún pueden abrir la bóveda, no podemos recuperar la copia de seguridad cifrada. Es la contrapartida deliberada.
 - Anota el código antes de depender de la copia de seguridad, guárdalo lejos del teléfono y léelo una vez para comprobar que es legible.
-- Una copia de seguridad del sistema del dispositivo reinstala la app, pero no puede recuperar tus documentos, porque la clave de cifrado nunca salió del teléfono anterior.
+- Una copia de seguridad del sistema del dispositivo reinstala la app, pero no puede recuperar tus documentos, porque las copias del sistema no transfieren la clave de cifrado vinculada al dispositivo.
 
 Has escaneado cuatro pasaportes, dos visados y los certificados de nacimiento de los niños en una app que guarda todo en tu teléfono. Bien. Entonces llega la preocupación obvia: qué pasa si el teléfono cae al mar, o desaparece de la mesa de una cafetería en Lisboa.
 
@@ -32,11 +32,11 @@ La otra configuración revuelve el archivo en tu teléfono antes de que vaya a n
 
 Así que la pregunta que vale la pena hacerle a cualquier app es corta: **¿quién tiene la clave?** Todo lo demás en el marketing se deriva de la respuesta.
 
-## El Código de Recuperación, y Por Qué Nadie Puede Restablecerlo
+## El código de recuperación y por qué no podemos restablecerlo
 
-Aquí está la parte que la mayoría de los artículos se saltan, y merece decirse sin rodeos: Travel Document Vault no tiene cuentas. Nunca nos diste una dirección de correo, nunca te pusimos una contraseña, y no hay ningún registro tuyo en ningún servidor que operemos. Cuando activas la [copia de seguridad en la nube](https://traveldocumentvault.com/es/cloud-backup/), la app genera un código de recuperación de 24 caracteres y deriva de él la clave de cifrado. La bóveda cifrada va entonces a **tu propio iCloud en iPhone y iPad, o tu propio Google Drive en Android**, en lugar de a nosotros.
+Travel Document Vault no necesita una cuenta en la app para guardar documentos en tu dispositivo. Su [copia de seguridad en la nube](https://traveldocumentvault.com/es/cloud-backup/) opcional requiere Pro y tu código de recuperación para desbloquear la clave de cifrado de la nube. La app crea este código de 24 caracteres cuando configuras tu PIN. La bóveda cifrada va entonces a **tu propio iCloud en iPhone y iPad, o tu propio Google Drive en Android**, en lugar de a nosotros.
 
-La consecuencia es inevitable. **Si pierdes ese código de recuperación, la copia de seguridad no podrá volver a abrirse nunca.** Ni tú, ni Apple o Google, ni nosotros. No hay enlace de restablecimiento, porque no hay cuenta a la que vincularlo. No hay ticket de soporte que lo recupere, porque nunca lo hemos tenido y no podemos siquiera adivinarlo.
+La consecuencia es inevitable. Si pierdes el código de recuperación y el acceso a todos los dispositivos que aún pueden abrir la bóveda, **no podemos recuperar la copia de seguridad cifrada**. No hay enlace de restablecimiento, porque no hay cuenta a la que vincularlo. No hay ticket de soporte que lo recupere, porque nunca lo hemos tenido y no podemos siquiera adivinarlo.
 
 Suena duro escrito así, y merece la pena ser honestos al respecto en lugar de esconderlo en una pantalla de ajustes. Es la misma contrapartida que aceptas con la llave de tu casa: la cerradura solo vale la pena porque ningún cerrajero del mundo guarda una copia de repuesto, y por eso perder la tuya es problema tuyo.
 
@@ -68,17 +68,17 @@ Por eso la versión honesta de «¿es segura la nube?» es esta: la nube es una 
 
 ## Qué Va en la Copia de Seguridad, y Qué se Queda Atrás
 
-La copia de seguridad lleva una copia cifrada de la bóveda: cada perfil, cada escaneo, fechas de vencimiento, recordatorios, notas y archivos adjuntos. Restáurala y la app queda como la dejaste.
+La copia de seguridad incluye perfiles, escaneos, adjuntos, fechas de vencimiento, notas e historial de recordatorios que se pueden transferir a un dispositivo nuevo. La app los cifra antes de subirlos. La restauración recupera este contenido de la bóveda; los ajustes del dispositivo se mantienen aparte y la app vuelve a crear las notificaciones.
 
-Tres cosas se quedan deliberadamente en el teléfono, y el código de recuperación es la primera: nunca sale del dispositivo, que es precisamente el objetivo. El bloqueo de la app también permanece local, así que Face ID, Touch ID o tu PIN mantienen fuera del teléfono a otras personas mientras el cifrado las mantiene fuera del archivo. Y las instantáneas locales automáticas que la app toma mientras trabajas se quedan solo en el dispositivo.
+Tres cosas se quedan deliberadamente en el teléfono, y el código de recuperación es la primera: no se sube con la copia de seguridad. El bloqueo de la app también permanece local, así que Face ID, Touch ID o tu PIN mantienen fuera de la app a otras personas mientras el cifrado las mantiene fuera del archivo. Y las instantáneas locales automáticas que la app toma mientras trabajas se quedan solo en el dispositivo.
 
-Ese último punto sorprende a mucha gente, así que va la versión directa. **Una copia de seguridad del sistema del dispositivo reinstala la app pero no puede restaurar tus documentos.** La clave de cifrado nunca salió del teléfono anterior, así que el nuevo no tiene con qué descifrar nada. Si quieres que tu bóveda sobreviva al teléfono, necesitas tener activada la copia de seguridad en la nube o un archivo exportado guardado en algún lugar.
+Ese último punto sorprende a mucha gente, así que va la versión directa. **Una copia de seguridad del sistema del dispositivo reinstala la app pero no puede restaurar tus documentos.** Las copias del sistema no transfieren la clave de cifrado vinculada al dispositivo, así que el teléfono nuevo necesita restaurar desde la nube (Pro) o importar un archivo de bóveda exportado. Si quieres que tu bóveda sobreviva al teléfono, necesitas tener activada la copia de seguridad en la nube o un archivo exportado guardado en algún lugar.
 
-## La Restauración Es Breve y No Sobrescribe Lo Que Ya Hay
+## Restaura tu bóveda; empezar de cero nunca afecta a la copia anterior
 
-La restauración es breve, que es precisamente el objetivo de hacer la preparación con antelación.
+El tiempo de restauración depende del tamaño de tu bóveda y de la conexión.
 
-Instala la app en el teléfono nuevo e inicia sesión con la misma cuenta de iCloud o Google que usabas antes. Abre Ajustes, luego Copia de Seguridad en la Nube, luego Restaurar Copia de Seguridad, e introduce tu código de recuperación. La bóveda vuelve con sus perfiles, fechas de vencimiento y recordatorios intactos.
+Instala la app en el teléfono nuevo e inicia sesión con la misma cuenta de iCloud o Google que usabas antes. Con Pro y la copia de seguridad en la nube desactivada en el dispositivo de destino, abre Ajustes, Copia de Seguridad en la Nube y Restaurar desde Copia de Seguridad. Elige la bóveda existente, introduce tu código de recuperación y confirma la restauración, que reemplaza el contenido local de la bóveda. Se restauran los perfiles, los documentos y las fechas de vencimiento; las notificaciones se vuelven a crear en el dispositivo de destino.
 
 La app también verifica antes de escribir. Si la copia de seguridad en la nube detecta una copia existente en esa cuenta, te pide que elijas entre restaurarla o empezar de cero. Un teléfono nuevo no puede sobrescribir en silencio lo que ya hay ahí.
 
@@ -86,7 +86,7 @@ La app también verifica antes de escribir. Si la copia de seguridad en la nube 
 
 La copia de seguridad en la nube se queda en una sola plataforma, porque usa tu propio iCloud en dispositivos Apple y tu propio Google Drive en Android. Pasar de una a otra necesita la otra vía.
 
-Usa Exportar Bóveda. Ajustes, Exportar Bóveda genera un único archivo protegido con contraseña que contiene todo, y eliges a dónde va: la app Archivos, una unidad, un correo a ti mismo. En el teléfono nuevo, Ajustes, Importar Bóveda lo vuelve a leer. Funciona en ambas direcciones y conserva nombres, fechas, recordatorios, colores, notas y archivos adjuntos tal como estaban.
+La exportación de la bóveda es gratuita. En Ajustes, Exportar bóveda crea un archivo protegido con contraseña con perfiles, documentos, viajes, ajustes compatibles y adjuntos legibles. Tú eliges dónde guardarlo: la app Archivos, una unidad o un correo a ti mismo. En el teléfono nuevo, Ajustes, Importar copia de seguridad lo lee y reemplaza los datos que ya haya. Admite ambas plataformas. Revisa los documentos, las notas y los adjuntos importados, vuelve a comprobar los recordatorios y conserva la exportación original. Las notificaciones se vuelven a crear en el dispositivo de destino.
 
 Ese archivo exportado también es la respuesta para quien quiera una copia que no dependa en absoluto de una cuenta en la nube. Es sensato guardarlo en una unidad en casa, sea cual sea el teléfono que lleves.
 
@@ -114,23 +114,23 @@ Significa que la copia se revuelve en tu teléfono antes de ir a ninguna parte, 
 
 ### ¿Qué pasa si pierdo mi clave de copia de seguridad?
 
-La copia de seguridad se queda cifrada y nadie puede abrirla, nosotros incluidos. No hay cuenta, ni restablecimiento de contraseña, ni una vía de soporte que la recupere, porque el código de recuperación nunca llega hasta nosotros en primer lugar. Es la contrapartida deliberada para que nadie más pueda leer tus documentos tampoco. Anota el código antes de depender de la copia de seguridad, guárdalo en un lugar separado de tu teléfono, y léelo una vez para comprobar que puedes.
+Si pierdes el código de recuperación y el acceso a todos los dispositivos que aún pueden abrir la bóveda, no podemos recuperar la copia de seguridad cifrada. No hay cuenta, ni restablecimiento de contraseña, ni una vía de soporte que la recupere, porque el código de recuperación nunca llega hasta nosotros en primer lugar. Es la contrapartida deliberada para que nadie más pueda leer tus documentos tampoco. Anota el código antes de depender de la copia de seguridad, guárdalo en un lugar separado de tu teléfono, y léelo una vez para comprobar que puedes.
 
 ### ¿Es segura la copia de seguridad en la nube para escaneos de pasaporte?
 
-Depende por completo de lo que llega a la nube. Una foto de tu pasaporte en una biblioteca de fotos normal o una carpeta sincronizada llega legible, y cualquiera que entre en esa cuenta puede leerla. Una copia de seguridad cifrada en el dispositivo antes de subirla llega como texto cifrado, así que el proveedor de almacenamiento tiene algo que no puede abrir. Travel Document Vault cifra la bóveda en tu teléfono con AES-256-GCM y envía el archivo cifrado a tu propio iCloud o Google Drive en lugar de a un servidor de la empresa.
+Depende por completo de lo que llega a la nube. Una foto de tu pasaporte en una biblioteca de fotos normal o una carpeta sincronizada llega legible, y cualquiera que entre en esa cuenta puede leerla. Una copia de seguridad cifrada en el dispositivo antes de subirla llega como texto cifrado, así que el proveedor de almacenamiento tiene algo que no puede abrir. Con Pro, Travel Document Vault cifra la bóveda en tu teléfono con AES-256-GCM y envía el archivo cifrado a tu propio iCloud o Google Drive en lugar de a un servidor de TDV.
 
 ### ¿Puedo restaurar mis documentos en un teléfono distinto?
 
-Sí. Instala la app en el teléfono nuevo, inicia sesión con la misma cuenta de iCloud o Google, luego abre Ajustes, Copia de Seguridad en la Nube, Restaurar Copia de Seguridad e introduce tu código de recuperación. Tus perfiles, documentos, fechas de vencimiento y recordatorios vuelven tal como estaban. Ten en cuenta que una copia de seguridad del sistema del dispositivo no hace esto por sí sola: reinstala la app pero no puede descifrar tus documentos, porque la clave de cifrado nunca sale de tu dispositivo original.
+Sí, con Pro. Instala la app en el teléfono nuevo e inicia sesión con la misma cuenta de iCloud o Google. Con la copia de seguridad en la nube desactivada en el dispositivo de destino, abre Ajustes, Copia de Seguridad en la Nube y Restaurar desde Copia de Seguridad. Elige la bóveda existente, introduce tu código de recuperación y confirma la restauración, que reemplaza el contenido local de la bóveda. Se restauran los perfiles, los documentos y las fechas de vencimiento; las notificaciones se vuelven a crear en el dispositivo de destino. Ten en cuenta que una copia de seguridad del sistema del dispositivo no hace esto por sí sola: reinstala la app pero no puede descifrar tus documentos, porque las copias del sistema no transfieren la clave de cifrado vinculada al dispositivo.
 
 ### ¿Funciona la copia de seguridad entre iPhone y Android?
 
-La copia de seguridad en la nube en sí se queda en una sola plataforma, ya que usa tu propio iCloud en iPhone y iPad y tu propio Google Drive en Android. Para moverte entre ambas, usa Exportar Bóveda en su lugar: Ajustes, Exportar Bóveda crea un único archivo .tdvault protegido con contraseña que puedes enviarte como prefieras, y luego Ajustes, Importar Bóveda en el teléfono nuevo lo vuelve a leer. La importación funciona entre plataformas en ambas direcciones y conserva nombres, fechas, recordatorios, notas y archivos adjuntos intactos.
+La copia de seguridad en la nube se queda en una sola plataforma: tu propio iCloud en iPhone y iPad, o tu propio Google Drive en Android. Para pasar de una a otra, usa la exportación gratuita de la bóveda. En Ajustes, Exportar bóveda crea un archivo .tdvault protegido con contraseña que puedes enviarte. En el teléfono nuevo, Ajustes, Importar copia de seguridad lo lee y reemplaza los datos que ya haya. La importación admite ambas plataformas. Revisa los documentos, las notas y los adjuntos importados, vuelve a comprobar los recordatorios y conserva la exportación original. Las notificaciones se vuelven a crear en el dispositivo de destino.
 
 ### ¿Qué se guarda en la copia de seguridad y qué se queda en el dispositivo?
 
-La copia de seguridad guarda una copia cifrada de tu bóveda: cada perfil, escaneo de documento, fecha de vencimiento, recordatorio y nota. Tu código de recuperación no está en ella, y nunca sale de tu dispositivo. Tampoco lo hace el bloqueo de tu app, así que Face ID, Touch ID o tu PIN protegen el teléfono mientras el cifrado protege el archivo. Las instantáneas locales automáticas también se quedan solo en el dispositivo, por lo que no pueden devolverte la bóveda en un teléfono de repuesto.
+La copia de seguridad incluye perfiles, escaneos y adjuntos legibles, fechas de vencimiento, notas e historial de recordatorios transferible, cifrados antes de subirlos. Tu código de recuperación no se sube con la copia de seguridad. El bloqueo de la app también se queda en el dispositivo, así que Face ID, Touch ID o tu PIN protegen la app mientras el cifrado protege el archivo. Las instantáneas locales automáticas también se quedan solo en el dispositivo, por lo que no pueden devolverte la bóveda en un teléfono de repuesto.
 
 ## Artículos Relacionados
 

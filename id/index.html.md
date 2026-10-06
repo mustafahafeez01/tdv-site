@@ -1,6 +1,6 @@
 # Travel Document Vault | Paspor Aman, Offline Selalu
 
-> Simpan paspor, visa, KTP di ponsel. Pengingat kedaluwarsa berbulan-bulan sebelumnya. Akses offline, cadangan terenkripsi, tanpa akun, tanpa server.
+> Paspor, visa, KTP terenkripsi dan offline di ponsel. Keluarga dengan Pro. Pengingat berbulan-bulan sebelum kedaluwarsa. Pro sekali bayar, tanpa langganan.
 
 Source: https://traveldocumentvault.com/id/
 
@@ -24,11 +24,11 @@ Satu hal lagi yang tidak perlu dikhawatirkan.
 
 ## Dokumen Anda Tetap Bersama Anda
 
-Dibangun untuk keluarga yang membutuhkannya. Dokumen Anda tetap dapat dibaca hanya oleh Anda. Cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri, disegel dengan kode pemulihan yang hanya Anda pegang.
+Dibangun oleh orang tua yang membutuhkannya. Dokumen yang tersimpan terenkripsi di perangkat Anda. Cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri, disegel dengan kode pemulihan yang hanya Anda pegang.
 
 ### Dibangun oleh Orang Tua
 
-Saya membangun aplikasi ini karena saya membutuhkannya untuk keluarga saya. Aplikasi ini memiliki profil terpisah untuk setiap anggota keluarga dan pengingat kedaluwarsa otomatis berbulan-bulan sebelum pembaruan menjadi mendesak. Tidak ada pendanaan VC yang mendorong saya untuk menjual data Anda dan tidak ada peta jalan yang didorong oleh metrik pertumbuhan; ini semata-mata alat yang menyelesaikan satu masalah dengan baik.
+Saya membangun aplikasi ini karena saya membutuhkannya untuk keluarga saya. Aplikasi ini memiliki pengingat kedaluwarsa otomatis berbulan-bulan sebelum perpanjangan menjadi mendesak dan, dengan Pro, profil terpisah untuk setiap anggota keluarga. Tidak ada pendanaan VC yang mendorong saya untuk menjual data Anda dan tidak ada peta jalan yang didorong oleh metrik pertumbuhan; ini semata-mata alat yang menyelesaikan satu masalah dengan baik.
 
 ### Offline Secara Desain
 
@@ -36,19 +36,19 @@ Server teraman untuk pemindaian paspor adalah tanpa server sama sekali, itulah m
 
 ### Enkripsi Di Perangkat
 
-Dokumen dienkripsi di perangkat Anda dengan AES-256-GCM, menggunakan kunci yang disimpan di Secure Enclave perangkat Anda. Itu enkripsi yang kuat dan modern, dan Anda tetap harus melindungi ponsel Anda dengan sandi yang kuat dan App Lock.
+Dokumen dienkripsi di perangkat Anda dengan AES-256-GCM, menggunakan kunci yang disimpan di penyimpanan kunci aman perangkat Anda. Itu enkripsi yang kuat dan modern, dan Anda tetap harus melindungi ponsel Anda dengan sandi yang kuat dan App Lock.
 
 ### Cloud Anda. Kunci Anda.
 
-Cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri. Anda memegang kode pemulihan. Kami tidak pernah melihatnya. Sinkronkan di perangkat Anda, tetapi Anda tetap mengendalikan.
+Ekspor dan impor vault gratis. Pro menambahkan cadangan cloud terenkripsi ke iCloud atau Google Drive Anda sendiri. Pulihkan dengan kode pemulihan di ponsel yang kompatibel pada platform yang sama, menggunakan akun cloud yang sama. Kami tidak memegang kode Anda.
 
 ### Pengingat Pintar
 
-Paspor mulai mengingatkan Anda delapan bulan sebelumnya, lalu semakin rapat — enam bulan, tiga bulan, enam minggu, satu bulan — sampai hari kedaluwarsa. Setiap jenis dokumen punya jadwalnya sendiri, siap begitu Anda menambahkannya.
+Paspor mulai mengingatkan Anda delapan bulan sebelumnya, lalu semakin rapat — enam bulan, tiga bulan, enam minggu, satu bulan — sampai hari kedaluwarsa. Pengingat aktif secara default saat Anda menyimpan tanggal kedaluwarsa. KTP, visa, asuransi, dan dokumen lainnya dimulai tiga bulan sebelumnya.
 
 ### Logika Sadar Keluarga
 
-Kami melacak aturan untuk Anda. Negara berbeda, persyaratan berbeda, paspor anak-anak diperbarui lebih cepat. Aplikasi memahami. Anda tidak perlu.
+Dengan Pro, aplikasi memeriksa paspor yang ditautkan terhadap tanggal perjalanan Anda dengan batas tambahan default 180 hari setelah perjalanan berakhir. Periksa aturan sebenarnya dari negara tujuan secara terpisah.
 
 ### Inilah yang sebenarnya dapat saya lihat
 
@@ -60,7 +60,7 @@ Disimpan hanya di perangkat Anda. Saya tidak dapat melihatnya.
 
 Detail dokumen Anda
 
-Nama, nomor, tanggal kedaluwarsa. Hanya di perangkat Anda.
+Tanggal kedaluwarsa, negara penerbit, judul, dan catatan. Di perangkat Anda; salinan bisa keluar jika Anda membagikan atau mengekspornya, atau mengaktifkan cadangan cloud terenkripsi (Pro).
 
 Profil keluarga Anda
 
@@ -70,13 +70,13 @@ Notifikasi pengingat
 
 Dijadwalkan secara lokal di perangkat Anda. Saya tidak tahu tanggal kedaluwarsa Anda.
 
-Bahkan jika seseorang meretas server saya... tidak ada server. Tidak ada yang perlu ditemukan.
+Tidak ada server Travel Document Vault yang menyimpan dokumen Anda. Tidak ada yang perlu ditemukan.
 
 [Baca cerita pendiri: Mengapa saya membuat aplikasi untuk membawa satu hal lebih sedikit di kepala saya →](https://traveldocumentvault.com/id/blog/)
 
 ## Siap Saat Anda Membutuhkannya
 
-- **Di Bandara:** Keluarkan paspor, KTP, dan detail penerbangan untuk seluruh keluarga dalam hitungan detik.
+- **Di Bandara:** Keluarkan paspor, KTP, dan detail penerbangan untuk seluruh keluarga (Pro) dalam hitungan detik.
 - **Mengisi Formulir:** Nomor paspor, detail KTP, informasi asuransi. Selalu di ujung jari Anda.
 - **Aplikasi Visa:** Ekspor gambar dokumen sebagai PDF untuk dicetak atau dibagikan. Tinjau dan sesuaikan gambar sebelum diekspor.
 
@@ -88,7 +88,7 @@ Dibangun untuk keluarga yang bepergian di mana saja.
 
 Pro
 
-Lampu lalu lintas kesiapan keluarga. Lihat siapa yang siap bepergian dan dokumen siapa yang akan segera kedaluwarsa.
+Lampu lalu lintas kesiapan keluarga. Lihat dokumen tertaut yang perlu diperhatikan berdasarkan tanggal perjalanan yang tersimpan.
 
 ### Cloud Anda. Kunci Anda.
 
@@ -96,7 +96,7 @@ Cadangan terenkripsi di iCloud atau Google Drive Anda. Anda memegang kode pemuli
 
 ### Pelacakan Hari di Luar Negeri
 
-Catat hari yang dihabiskan di negara mana pun per anggota keluarga. Tetapkan target batas hari khusus dan ketahui posisi Anda dengan tepat.
+Catat hari yang dihabiskan di negara mana pun per anggota keluarga. Bandingkan hari perjalanan yang tersimpan dengan batas hari per negara yang Anda masukkan.
 
 ### Bea Bebas Tanpa Matematika
 
@@ -114,7 +114,7 @@ Peringatan paspor mulai 8 bulan sebelumnya
 
 Panduan untuk membingkai paspor dan KTP
 
-### Ekspor Gabungan
+### Ekspor Gabungan (Pro)
 
 Gabungkan dokumen menjadi satu PDF untuk dicetak
 
@@ -126,7 +126,7 @@ Tersedia dalam lebih dari 40 bahasa. Aplikasi terasa asli di mana pun Anda berad
 
 ### Untuk Seluruh Keluarga
 
-Anda adalah orang yang mengingat segalanya. Beban itu tidak harus sepenuhnya di atas bahu Anda. Atur pasangan, anak-anak, dan kakek-nenek di satu tempat yang aman.
+Anda adalah orang yang mengingat segalanya. Beban itu tidak harus sepenuhnya di atas bahu Anda. Dengan Pro, atur pasangan, anak-anak, dan kakek-nenek di satu tempat yang aman.
 
 ### Ketenangan Pikiran, Otomatis
 
@@ -148,11 +148,11 @@ English, Español, Français, Deutsch, Italiano, Português (BR), Português (PT
 
 ### Biarkan Aplikasi Mengetik
 
-Deteksi tanggal instan menghemat Anda dari entri data yang membosankan. Cepat, nyaman, dan disimpan 100% pribadi di ponsel Anda.
+Aplikasi mencoba membaca tanggal kedaluwarsa di perangkat Anda. Konfirmasi tanggal yang ditemukan atau masukkan sendiri sebelum menyimpan.
 
 ### Lemari Pribadi Anda
 
-Apa yang terjadi di ponsel Anda tetap di ponsel Anda. Tidak ada server cloud yang terlibat dan tidak ada orang yang mengintip di atas bahu Anda.
+File dokumen Anda tetap di ponsel kecuali jika Anda membagikan atau mengekspornya, atau mengaktifkan cadangan terenkripsi (Pro). Tidak ada server cloud milik kami yang terlibat dan tidak ada orang yang mengintip di atas bahu Anda.
 
 ### Selalu Ada Saat Anda Membutuhkannya
 
@@ -173,15 +173,15 @@ Pembelian sekali. Tidak ada langganan. Tidak ada biaya tersembunyi. Tidak ada pe
 Selalu gratis
 
 - Paspor, visa, KTP & lainnya
-- Pindai dokumen, tanggal diisi untuk Anda
+- Pindai dokumen dan konfirmasi tanggal kedaluwarsa yang terdeteksi
 - Pengingat kedaluwarsa
 - Bagikan dokumen individual
 - Kunci PIN + Biometrik (Face ID / Touch ID)
 - 1 profil
 - Hingga 5 dokumen
-- Baru saja dihapus - jendela pemulihan 30 hari
+- Dihapus Baru-baru Ini - pulihkan selama 30 hari
 
-Semua data tetap ada di perangkat Anda. Selalu.
+Simpan di perangkat Anda. Bagikan, ekspor, atau gunakan cadangan cloud Pro.
 
 Nilai Terbaik
 
@@ -208,15 +208,15 @@ Semua yang Anda butuhkan untuk perjalanan solo
 Gratis
 
 - Paspor, visa, KTP & lainnya
-- Pindai dokumen, tanggal diisi untuk Anda
+- Pindai dokumen dan konfirmasi tanggal kedaluwarsa yang terdeteksi
 - Pengingat kedaluwarsa
 - Bagikan dokumen individual
 - Kunci PIN + Biometrik (Face ID / Touch ID)
 - 1 profil
 - Hingga 5 dokumen
-- Baru saja dihapus - jendela pemulihan 30 hari
+- Dihapus Baru-baru Ini - pulihkan selama 30 hari
 
-Semua data tetap ada di perangkat Anda. Selalu.
+Simpan di perangkat Anda. Bagikan, ekspor, atau gunakan cadangan cloud Pro.
 
 Untuk keluarga
 
@@ -248,7 +248,7 @@ Pulihkan pembelian kapan saja dengan akun App Store atau Google Play tempat Anda
 
 ## Pertanyaan Umum
 
-Apakah benar-benar pribadi? Ya. Semuanya disimpan 100% di perangkat Anda. Kami tidak memiliki akses ke dokumen Anda, dan tidak ada database cloud. Jangan hanya percaya pada kata-kata kami, [verifikasi sendiri](https://traveldocumentvault.com/id/privacy-verification/). Bagaimana jika saya kehilangan ponsel saya? Lemari Anda disimpan di perangkat Anda. Jika Anda beralih ponsel, pulihkan menggunakan cadangan ponsel biasa Anda. Bisakah saya menyinkronkan antar perangkat? Ya. Dengan Pro, Anda mengaktifkan Cloud Anda sendiri untuk menyinkronkan lemari Anda yang terenkripsi dengan iCloud atau Google Drive Anda. Anda memegang kode pemulihan. Kami tidak pernah mengakses data Anda. Apa itu Perencana Perjalanan? Perencana Perjalanan mengelompokkan dokumen keluarga berdasarkan perjalanan dan menampilkan lampu lalu lintas kesiapan — hijau saat semuanya siap, kuning saat paspor seseorang akan segera kedaluwarsa. Rencanakan perjalanan bersama dengan percaya diri. [Lihat semua jawaban privasi dan data](https://traveldocumentvault.com/id/faq/)
+Apakah benar-benar pribadi? Ya. Secara default, semuanya disimpan hanya di perangkat Anda. Kami tidak memiliki server yang menyimpan dokumen Anda dan tidak memiliki akses ke dokumen tersebut. Jika Anda mengaktifkan cadangan opsional (Pro), vault terenkripsi disimpan di iCloud atau Google Drive Anda sendiri, disegel dengan kode pemulihan yang hanya Anda pegang. Kami tetap tidak bisa membacanya. Apple dan Google juga tidak bisa. Jangan hanya percaya pada kata-kata kami, [verifikasi sendiri](https://traveldocumentvault.com/id/privacy-verification/). Bagaimana jika saya kehilangan ponsel saya? Vault Anda dienkripsi di perangkat. Kunci lokal tetap di penyimpanan aman dan tidak disertakan dalam cadangan ponsel biasa. Ekspor vault menyertakan salinan kunci itu yang dienkripsi dengan kata sandi. Cadangan ponsel biasa menginstal ulang aplikasi tetapi tidak bisa memulihkan dokumen Anda. Cadangan cloud Pro dipulihkan dengan kode pemulihan Anda pada ponsel yang didukung di platform yang sama, menggunakan akun cloud yang sama. Atau gunakan ekspor dan impor vault gratis. Pemulihan atau impor menggantikan vault lokal. Bisakah saya menyinkronkan antar perangkat? Ya. Dengan Pro, Anda mengaktifkan Cloud Anda sendiri untuk menyinkronkan lemari Anda yang terenkripsi dengan iCloud atau Google Drive Anda. Anda memegang kode pemulihan. Kami tidak pernah mengakses data Anda. Apa itu Perencana Perjalanan? Perencana perjalanan (Pro) mengelompokkan dokumen keluarga berdasarkan perjalanan dan menampilkan lampu lalu lintas kesiapan - hijau saat pemeriksaan dokumen yang dikonfigurasi lolos, kuning saat dokumen tertaut perlu ditinjau. Rencanakan perjalanan bersama dengan percaya diri. [Lihat semua jawaban privasi dan data](https://traveldocumentvault.com/id/faq/)
 
 **Penting:** Travel Document Vault adalah alat organisasi pribadi untuk menyimpan salinan digital dokumen Anda. **Salinan digital yang disimpan dalam aplikasi ini TIDAK sah untuk perjalanan.** Ini tidak memverifikasi keaslian dokumen atau memberikan saran hukum atau perjalanan. Selalu bawa dokumen asli dan verifikasi semua persyaratan perjalanan dengan sumber pemerintah resmi.
 

@@ -93,7 +93,7 @@ Source: https://traveldocumentvault.com/ja/blog/travel-document-checklist/
 
 家に帰る前に、すべての書類の写真を撮り、暗号化アプリ(カメラロールではなく)に保存してください。バッグが紛失または盗難された場合、パスポート番号、保険契約番号、および予約参照がまだアクセス可能な場所にある必要があります。安全なデジタルバックアップは、大使館または警察署で支援を求めようとしているときに数時間を節約します。
 
-**Travel Document Vault**は、このリストのすべての書類の暗号化されたコピーを保存します。家族構成員で整理され、自動的な有効期限リマインダーがあります。1回スキャンして、もう決してパニックする必要がありません。[App Storeでダウンロードしてください。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault**は旅行書類のコピーを暗号化して保存します。各書類をスキャンし、有効期限を確認するか入力すると、自動でリマインダーが届きます。Proなら5件を超える書類を保存し、家族ごとに整理できます。[App Storeでダウンロードしてください。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 旅行タイプによって書類リストはどう変わるか
 

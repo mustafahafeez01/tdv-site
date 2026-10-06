@@ -10,16 +10,16 @@ Source: https://traveldocumentvault.com/da/accessibility/
 
 ### VoiceOver-understøttelse
 
-Hver skærm i Travel Document Vault er fuldt oplæst med VoiceOver. Navigér, scan dokumenter, sæt påmindelser og administrer din vault ved hjælp af bevægelser, tastatur, braille og stemmebetjening.
+Travel Document Vault er bygget til at fungere med VoiceOver. Appen har tilgængelighedsetiketter og meddelelser til skærmlæsere.
 
-- Beskrivende etiketter for alle interaktive elementer
+- Beskrivende etiketter for interaktive elementer
 - Korrekt overordnet hierarki for nem navigation
 - Meningsfulde knap- og kontrolbeskrivelser
 - Statusmeddelelser for vigtige ændringer
 
 ### Større tekst (dynamisk type)
 
-Al tekst i appen skaleres med dine systemtekststørrelse-præferencer. Øg tekststørrelsen op til 200% eller mere, og applayoutet tilpasses automatisk.
+Tekst i appen skaleres efter systemets indstilling for tekststørrelse. Grænserne for tekstskalering varierer mellem elementerne.
 
 Juster tekststørrelse i **Indstillinger → Tilgængelighed → Skærm og tekststørrelse → Større tekst** på din enhed.
 
@@ -27,17 +27,17 @@ Juster tekststørrelse i **Indstillinger → Tilgængelighed → Skærm og tekst
 
 Travel Document Vault understøtter både lyse og mørke tilstande. Appen matcher automatisk dit systemudseende, eller du kan indstille dit foretrukne tema i Indstillinger.
 
-Indstillinger: **System (Auto)**, **Lys** eller **Mørk**.
+Indstillinger: **Automatisk (system)**, **Lyst** eller **Mørkt**.
 
 ### Tilstrækkelig kontrast
 
-Al tekst og interaktive elementer opfylder WCAG AAA-kontraststandarder (4,5:1 for normal tekst, 3:1 for stor tekst). Høje kontrastfarver sikrer læsbarhed under alle lysforhold.
+Standardfarverne for tekst er valgt for at give læsbar kontrast. Farver med høj kontrast hjælper læsbarheden i stærkt og svagt lys.
 
-Vores farvesystem giver 15:1+ kontrastforhold for primær tekst i både lette og mørke temaer.
+Primær tekst har stærk kontrast mod de lyse og mørke standardbaggrunde.
 
-### Differentier uden farve alene
+### Status vises med mere end farve
 
-Vigtige oplysninger formidles aldrig kun ved farve. Statusindikatorer bruger ikoner, former og tekstetiketter ud over farve.
+Dokumentstatus vises aldrig kun med farve. Statusindikatorer bruger ikoner, former og tekstetiketter ud over farve.
 
 - Grønne flueben for gyldige dokumenter (ikke kun grøn farve)
 - Advarselsikoner for udløbende dokumenter (ikke kun gul/orange farve)
@@ -45,7 +45,7 @@ Vigtige oplysninger formidles aldrig kun ved farve. Statusindikatorer bruger iko
 
 ### Reduceret bevægelse
 
-Alle animationer og bevægelseseffekter respekterer din Reduce Motion-præference. Når det er aktiveret, minimeres eller fjernes animationer for at forhindre bevægelsessyge og ubehag.
+Nogle animationer respekterer din indstilling for reduceret bevægelse. Når den er slået til, reduceres eller fjernes de animationer, der understøtter den.
 
 Aktivér i **Indstillinger → Tilgængelighed → Bevægelse → Reducer bevægelse** på din enhed.
 
@@ -53,19 +53,15 @@ Aktivér i **Indstillinger → Tilgængelighed → Bevægelse → Reducer bevæg
 
 44pt berøringsmål
 
-Alle interaktive elementer opfylder Apples minimale 44pt berøringsmål for let tappen.
-
-Tastaturnavigation
-
-Navigér hele appen ved hjælp af et tastatur forbundet til din enhed.
+De fælles kontroltypografier sigter mod 44pt på iOS og 48dp på Android; nogle kontroller er mindre.
 
 Læsbare fonte
 
-Systemskrifter optimeret til læsbarhed i alle størrelser.
+Systemskrifter med tekststørrelser tilpasset de forskellige elementer.
 
 Klare fejlmeddelelser
 
-Fejltilstande meddeles til VoiceOver og vises med klar, handlingsparat tekst.
+Vigtige fejlmeddelelser, f.eks. om en formular, der endnu ikke kan gemmes, læses op af VoiceOver og vises med klar tekst, der fortæller dig, hvad du kan gøre.
 
 ## Vi forbedrer os altid
 

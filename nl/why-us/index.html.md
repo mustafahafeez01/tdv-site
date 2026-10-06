@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/nl/why-us/
 
 ---
 
-Privacy voorop. Alleen op uw apparaat. Geen accounts nodig.
+Privacy voorop. Standaard op uw apparaat. Geen accounts nodig.
 
 # Altijd Klaar
 Wanneer U Het Nodig Hebt
@@ -51,7 +51,7 @@ De geldigheidsval
 
 Uw paspoort verloopt volgend jaar. Genoeg tijd, toch?
 
-Mis. Paspoorten voor Schengenreizen moeten zijn uitgegeven in de afgelopen 10 jaar, en veel landen hanteren een 6-maandsregel voor geldigheid. Airlines gebruiken officiële databases zoals IATA Timatic bij de gate. U moet ook controle houden op dagen in het buitenland voor Schengen 90/180-limieten en woonplaatsregels. Een eenvoudige vervaldatumcontrole is niet genoeg.
+Mis. Paspoorten voor Schengenreizen moeten zijn uitgegeven in de afgelopen 10 jaar, en veel landen hanteren een 6-maandsregel voor geldigheid. Airlines gebruiken officiële databases zoals IATA Timatic bij de gate. Tel met Pro opgeslagen reisdagen aan de hand van de landlimieten die u invoert. Controleer visum- en fiscale woonplaatsregels apart. Een eenvoudige vervaldatumcontrole is niet genoeg.
 
 Als dit op u van toepassing is: frequente reiziger, belastingbewust of woonachtig in meerdere landen.
 
@@ -77,7 +77,7 @@ Dit zijn allemaal redelijke keuzes. Elk werkt, tot op zekere hoogte.
 
 **Werkt:** Hoge beveiliging en offline toegang.
 
-**Tekortkoming:** Ze behandelen een paspoort als een boodschappenlijstje en missen reisspecifieke logica. We hebben dit speciaal voor reizigers gebouwd, met een gratis laag van 5 documenten en een eenvoudige eenmalige prijs zonder abonnementen.
+**Tekortkoming:** Ze behandelen een paspoort als een boodschappenlijstje en missen reisspecifieke logica. Travel Document Vault biedt één profiel en maximaal vijf documenten gratis. Pro is een eenmalige aankoop zonder abonnement.
 
 ### Fotocamera / Foto's
 
@@ -111,20 +111,20 @@ Dit zijn allemaal redelijke keuzes. Elk werkt, tot op zekere hoogte.
 
 ## Hoe het scoort
 
-Elk alternatief doet één of twee dingen goed. Slechts één doet ze allemaal.
+Travel Document Vault bewaart documenten, houdt vervaldatums bij en voegt met Pro gezinsprofielen en reisplanning toe.
 
 | Functie | Travel Document Vault | Wallet-app | Fotobibliotheek / cloudopslag | Wachtwoordmanager |
 |---|---|---|---|---|
-| Vervalherinneringen | ✓6 mnd vooruit | ✗ | ✗ | ✗ |
+| Vervalherinneringen | ✓8 mnd vooruit voor paspoorten | ✗ | ✗ | ✗ |
 | Gezinsprofielen | ✓Onbeperkt (Pro) | ✗ | ✗ | ~Alleen gedeelde kluizen |
-| Geen cloudsynchronisatie | ✓Alleen op apparaat | ✗Cloudsync | ✗Cloud eerst | ✗Cloud eerst |
+| Standaard op het apparaat | ✓Back-up optioneel (Pro) | ✗Cloudsync | ✗Cloud eerst | ✗Cloud eerst |
 | Reisspecifieke documenttypen | ✓Paspoort, visum, ID... | ~Alleen instapkaarten | ✗ | ✗ |
 | Werkt offline | ✓ | ✓ | ~Vereist eerdere cache | ✓ |
 | Geen account vereist | ✓ | ~Platformaccount vereist | ✗ | ✗ |
 | Geen abonnement | ✓eenmalig | ✓ | ~Gratis, niveaus met advertenties variëren | ✗doorgaans $30-40/jaar |
-| Reisplanner-checklist (per reis) | ✓Ja | ✗ | ✗ | ✗ |
-| Aangepaste daglimieten per land (dagen-in / dagen-uit) | ✓ | ✗ | ✗ | ✗ |
-| Versleutelde cloudsync (uw eigen cloud) | ✓Uw eigen cloud | ~Alleen platformaccount | ~Alleen cloudprovider | ~Servers van de provider |
+| Reisplanner-checklist (per reis) | ✓Ja (Pro) | ✗ | ✗ | ✗ |
+| Aangepaste daglimieten per land (dagen-in / dagen-uit) | ✓ Pro | ✗ | ✗ | ✗ |
+| Versleutelde cloudsync (uw eigen cloud) | ✓Uw eigen cloud (Pro) | ~Alleen platformaccount | ~Alleen cloudprovider | ~Servers van de provider |
 
 ✓ Ondersteund ~ Gedeeltelijk ✗ Niet ondersteund
 
@@ -134,11 +134,11 @@ Gebouwd door een ouder die verlichting nodig had, niet nog een lijst om te beher
 
 ### Uw apparaat. Uw documenten. Van niemand anders.
 
-Ik had cloudsynchronisatie kunnen bouwen. Elke andere app doet dat.
+Ik heb ervoor gekozen documenten standaard op uw apparaat te bewaren. De optionele Pro-back-up gebruikt uw eigen cloudaccount.
 
 Maar zou ik een vreemde server vertrouwen met foto's van de paspoorten van mijn kinderen? **Nooit.**
 
-Alleen voor u leesbaar. Altijd.
+Standaard versleuteld op uw apparaat.
 
 Cloudsynchronisatie is standaard uitgeschakeld. Als u deze inschakelt (Pro), wordt uw kluis op uw apparaat versleuteld voordat iets wordt geüpload, en gaat deze naar uw eigen iCloud of Google Drive, verzegeld met een herstelcode die alleen u heeft. Niemand – niet wij, Apple of Google – kan het lezen. De belofte wordt afdwingbaar gemaakt door code, niet door beleid.
 
@@ -156,19 +156,19 @@ Werkt voor paspoorten, visa, rijbewijzen, verzekeringen en alles met een vervald
 
 U bent degene die onthoudt welk kind als eerste een verlopen paspoort heeft, of de verzekering iedereen dekt, en wanneer visa's verlengd moeten worden.
 
-**Één profiel per gezinslid.** Één tik om alles te zien. Gebouwd voor de persoon die alles draagt.
+**Met Pro: één profiel per gezinslid.** Één tik om alles te zien. Gebouwd voor de persoon die alles draagt.
 
 ### Werkt offline. Overal.
 
 Slecht wifi op de luchthaven? Buitenlandse ambassade zonder signaal? Vliegtuigmodus?
 
-Uw documenten staan altijd op uw apparaat, altijd toegankelijk. Nooit internet nodig.
+Lokaal opgeslagen documenten zijn offline beschikbaar. Documenten lokaal bekijken en herinneringen werken offline; aankopen, updatecontroles en cloudfuncties vereisen internet.
 
 ### Eenmalig betalen. Geen abonnement.
 
-**Begin gratis.** Sla tot 5 documenten op met volledige herinneringen en encryptie. Upgrade op elk moment voor onbeperkte opslag.
+**Begin gratis.** Sla tot 5 documenten op met volledige herinneringen en encryptie. Pro verwijdert de limiet op het aantal documenten. De beschikbare ruimte hangt nog steeds af van uw apparaat.
 
-Travel Document Vault is een **eenmalige aankoop** van $9.99. Onbeperkt profielen en documenten, geen terugkerende kosten en geen verlengdatum om te onthouden.
+Pro is een **eenmalige aankoop** van $9.99. Onbeperkt profielen en documenten, geen terugkerende kosten en geen verlengdatum om te onthouden.
 
 Geprijsd in Amerikaanse dollar. We stellen de prijs per land lokaal vast in plaats van te converteren vanuit dollars, en de App Store of Google Play toont uw prijs voordat u betaalt.
 
@@ -176,11 +176,11 @@ Geprijsd in Amerikaanse dollar. We stellen de prijs per land lokaal vast in plaa
 
 ### Ondersteuning voor meerdere pagina's
 
-Ondersteuning voor maximaal 10 pagina's per document. Essentieel voor reisverzekeringen en meerpaginale visa die algemene kluizen vaak afkappen.
+Leg met Pro maximaal 10 pagina's vast voor vliegtickets, vouchers en andere documenten, waaronder reisverzekeringspolissen.
 
 ### Professionele PDF-export
 
-Combineer meerdere documenten in één PDF-bestand om te delen met ambassades, airlines of voor fysiek afdrukken.
+Combineer met Pro meerdere documenten in één PDF-bestand om te delen met ambassades, airlines of voor fysiek afdrukken.
 
 Ik heb dit gemaakt omdat mijn eigen gezin het nodig had.
 
@@ -192,7 +192,7 @@ Moderne functies voor modern reizen.
 
 Pro
 
-Gezinsreisbereïdheidsindicator. Zie wie reisklaar is.
+Gezinsreisbereïdheidsindicator. Controleer gekoppelde documenten aan de hand van opgeslagen reisdatums (Pro).
 
 ### Uw cloud. Uw sleutel.
 
@@ -214,7 +214,7 @@ Stel daglimietregels per land per lid in.
 
 ### 30 dagen ongedaan maken
 
-Per ongeluk verwijderd. Herstellen wanneer u maar wilt.
+Per ongeluk verwijderd. Herstellen binnen 30 dagen.
 
 ### Every Family Member
 
@@ -240,7 +240,7 @@ Check ieders documentstatus direct
 
 Klaar voor je reis
 
-Elke persoon, elk document, geverifieerd
+Gekoppelde documenten gecontroleerd aan de hand van opgeslagen reisdatums (Pro)
 
 ![Documenttypen inclusief paspoort, visum, ID en vliegticket](https://traveldocumentvault.com/assets/images/screenshots-appstore/04.webp)
 
@@ -252,7 +252,7 @@ Slimme herinneringen met 6 weken van tevoren melding
 
 Dagen over in elk land
 
-Volg ieders verblijf in het buitenland
+Volg ieders verblijf in het buitenland met Pro
 
 Gezinsprofielen voor Emma, Lucas, Oliver en Sophie
 
@@ -278,7 +278,7 @@ Scannen. Instellen. Vergeten.
 
 Open de camera, gebruik de begeleide overlay en scan uw document. Of importeer een bestaand document uit uw fotobibliotheek.
 
-De app detecteert de vervaldatum, u bevestigt alleen.
+De app leest de vervaldatum wanneer dat lukt; u bevestigt die of typt die zelf in.
 
 2
 
@@ -286,7 +286,7 @@ De app detecteert de vervaldatum, u bevestigt alleen.
 
 De app plant automatisch gecascadeerde herinneringen in.
 
-Zes maanden, drie maanden, zes weken... helemaal tot de vervaldatum en daarna.
+Paspoorten beginnen acht maanden van tevoren. ID’s, visa, verzekeringen en andere documenten beginnen drie maanden van tevoren, met herinneringen tot en met de vervaldag en daarna.
 
 3
 
@@ -296,11 +296,11 @@ Bij immigratie, het invullen van formulieren, het aanvragen van visa. Uw documen
 
 ## Gebouwd voor reizigers
 
-Deze app is ontworpen voor praktische realiteiten, niet voor generieke bestandsopslag.
+Bewaar documentkopieën en vervaldatums op één plek, met herinneringen standaard aan.
 
-- **Gezinnen:** Beheer meerdere profielen voor kinderen en partners op één plek. Draag de mentale last voor het hele huishouden zonder tussen mappen te wisselen.
+- **Gezinnen:** Beheer met Pro meerdere profielen voor kinderen en partners op één plek. Draag de mentale last voor het hele huishouden zonder tussen mappen te wisselen.
 - **Digitale nomaden & expats:** Volg verblijfsvergunningen, lokale ID's en werkvisums naast paspoorten terwijl u tussen landen beweegt.
-- **De 6-maandsregel:** Onze herinneringen houden rekening met strikte internationale inreiseisen die generalistische apps negeren, waardoor u gewaarschuwd wordt voordat uw paspoort ongeldig wordt voor reizen.
+- **De 6-maandsregel:** Paspoortherinneringen beginnen standaard acht maanden voor de vervaldatum. Controleer de inreisvereisten van uw bestemming apart.
 - **Toekomstbestendig:** Blijf georganiseerd te midden van aankomende EU-administratieve wijzigingen zoals EES en ETIAS. Zorg dat uw documenten klaar zijn voordat de regels veranderen.
 - **Privacybewuste gebruikers:** Sla documenten op zonder cloudservers te vertrouwen. Alles blijft op uw apparaat.
 - **Budgetbewuste kopers:** Vermijd abonnementen. Betaal een eenvoudige, eenmalige vergoeding in plaats van uw eigen gegevens te huren.
@@ -309,11 +309,11 @@ Deze app is ontworpen voor praktische realiteiten, niet voor generieke bestandso
 
 De vragen die we het vaakst horen.
 
-Wat gebeurt er als ik mijn telefoon verlies? Uw documenten staan op uw apparaat. Een systeemback-up (iCloud of Google Backup) zal de app opnieuw installeren, maar kan uw versleutelde documenten niet herstellen omdat de versleutelingssleutel nooit uw apparaat verlaat. Gebruik de gratis Vault Export-functie om een versleuteld .tdvault-bestand te maken en dit op uw nieuw apparaat te importeren. Pro-gebruikers kunnen ook versleutelde back-ups naar hun persoonlijke iCloud of Google Drive aanmaken. Werkt de app zonder internet? Volledig. De app slaat alles op uw apparaat op en heeft nooit een internetverbinding nodig. OCR-verwerking, herinneringen en het bekijken van documenten werken allemaal offline. Zijn mijn gegevens echt veilig? Het ontwerp betekent dat ik uw gegevens niet kan lezen, en Apple of Google evenmin. U kunt het privacymodel zelf controleren op de [Privacyverificatiepagina](https://traveldocumentvault.com/nl/privacy-verification/). Is het echt een eenmalige aankoop? Ja. Pro kost eenmalig $9.99, in Amerikaanse dollar. Elk land bepaalt zijn prijs lokaal in plaats van deze om te rekenen vanuit de dollar, en de winkel toont uw prijs voordat u betaalt.* Geen abonnement, geen terugkerende kosten, geen "uw proefperiode loopt af"-e-mails. De gratis versie is echt gratis, 1 profiel, 5 documenten, alle functies inclusief OCR en herinneringen.
+Wat gebeurt er als ik mijn telefoon verlies? Uw documenten staan versleuteld op uw apparaat. De lokale sleutel blijft in beveiligde opslag en wordt niet meegenomen in gewone telefoonback-ups. Vault Export bevat een met een wachtwoord versleutelde kopie van die sleutel. Een gewone telefoonback-up installeert de app opnieuw, maar kan uw documenten niet herstellen. Pro-cloudback-up herstelt met uw herstelcode op een ondersteunde telefoon op hetzelfde platform, met hetzelfde cloudaccount. Of gebruik de gratis Vault Export en Import. Herstellen of importeren vervangt de lokale kluis. Werkt de app zonder internet? Volledig. De app slaat alles op uw apparaat op en heeft geen internetverbinding nodig voor dagelijks gebruik. Herinneringen en het bekijken van lokaal opgeslagen documenten werken offline. OCR-verwerking vindt op uw apparaat plaats. Zijn mijn gegevens echt veilig? Het ontwerp betekent dat ik uw gegevens niet kan lezen, en Apple of Google evenmin. U kunt het privacymodel zelf controleren op de [Privacyverificatiepagina](https://traveldocumentvault.com/nl/privacy-verification/). Is het echt een eenmalige aankoop? Ja. Pro kost eenmalig $9.99, in Amerikaanse dollar. Elk land bepaalt zijn prijs lokaal in plaats van deze om te rekenen vanuit de dollar, en de winkel toont uw prijs voordat u betaalt.* Geen abonnement, geen terugkerende kosten, geen "uw proefperiode loopt af"-e-mails. De gratis versie is echt gratis, 1 profiel, 5 documenten, alle kernfuncties inclusief OCR en herinneringen.
 
 * Voor v1.x. Zie [Prijsbeleid](https://traveldocumentvault.com/pricing-policy/#version-policy).
 
-Kan ik de app ook voor andere documenten dan paspoorten gebruiken? Ja. De app ondersteunt paspoorten, visa, identiteitsbewijzen, rijbewijzen, verzekeringskaarten, vliegtickets en elk ander documenttype dat u nodig heeft. Elk type heeft zijn eigen begeleide scanoverlay. [Alle FAQ's bekijken →](https://traveldocumentvault.com/nl/faq/)
+Kan ik de app ook voor andere documenten dan paspoorten gebruiken? Ja. De app ondersteunt paspoorten, visa, identiteitsbewijzen, rijbewijzen, verzekeringskaarten, vliegtickets en elk ander documenttype dat u nodig heeft. Elke documentvorm heeft zijn eigen begeleide scanoverlay. [Alle FAQ's bekijken →](https://traveldocumentvault.com/nl/faq/)
 
 **Belangrijk:** Travel Document Vault is een persoonlijk organisatietools voor het opslaan van digitale kopieën van uw documenten. **Digitale kopieën die in deze app zijn opgeslagen, zijn NIET geldig voor reizen.** De app verifieert geen documentauthenticiteit en verstrekt geen juridisch of reisadvies. Draag altijd originele documenten en verifieer alle reisbenodigdheden bij officiële overheidsbronnen.
 

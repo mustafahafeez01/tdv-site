@@ -93,7 +93,7 @@ Tenere questi nel bagaglio a mano in ogni momento — non metterli nel bagaglio 
 
 Prima di partire da casa, scatti una foto di ogni documento e la conservi in un'app crittografata — non nel suo rullino fotografico. Se la sua borsa si perde o viene rubata, avrà voglia il numero del passaporto, il numero della polizza assicurativa e i riferimenti di prenotazione in un luogo dove può ancora accedervi presso un'ambasciata o una stazione di polizia. Una copia di backup digitale sicura fa risparmiare ore quando sta cercando di ottenere aiuto.
 
-**Travel Document Vault** archivia copie crittografate di ogni documento in questo elenco — organizzate per membro della famiglia, con promemoria di scadenza automatica. Scansiona una volta, non fatica mai più. [Scarica su App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** conserva copie crittografate dei tuoi documenti di viaggio. Scansiona ciascun documento e conferma o inserisci la data di scadenza per ricevere promemoria automatici. Pro ti permette di conservare più di cinque documenti e organizzarli per familiare. [Scarica su App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Come Cambia l'Elenco dei Documenti a Seconda del Tipo di Viaggio
 

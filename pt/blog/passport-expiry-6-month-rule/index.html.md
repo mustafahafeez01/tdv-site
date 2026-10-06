@@ -64,7 +64,7 @@ Os requisitos de validade do passaporte por país mudam sem aviso prévio — um
 
 Sempre verifique os seus requisitos específicos utilizando o Centro de Viagens IATA, o sistema que as companhias aéreas utilizam para verificar documentos de passageiros em tempo real.
 
-**Travel Document Vault** assinala qualquer passaporte que já não tenha seis meses de validade no final da sua viagem — para cada membro da família, automaticamente. [Descarregar na App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) e [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
+Com Pro, **Travel Document Vault** verifica os passaportes associados com uma margem predefinida de 180 dias após o fim da viagem guardada, salvo se definir uma margem de validade personalizada. Verifique separadamente a regra efetiva do destino. [Descarregar na App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) e [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
 
 ## Quando a Regra dos 6 Meses Não se Aplica
 
@@ -104,7 +104,7 @@ Trate o seu passaporte como um pneu de carro — não espere até estar furado. 
 
 Antes de qualquer viagem, conte seis meses para a frente a partir do dia em que sai do destino, que é a data mais tardia e por isso satisfaz qualquer versão da regra. Verifique a expiração do seu passaporte contra essa data — não apenas as suas datas de viagem.
 
-Gerir múltiplos passaportes em toda uma família com diferentes datas de expiração é onde fica complicado. [Travel Document Vault](https://traveldocumentvault.com) rastreia isto automaticamente — armazenando a expiração do passaporte de cada membro da família e enviando lembretes a partir de oito meses antes, e novamente à medida que a data se aproxima. Nenhuma aritmética mental antes de cada reserva. Também pode encontrar mais dicas práticas [de documentos de viagem](https://traveldocumentvault.com/pt/blog/) no blogue.
+Gerir múltiplos passaportes em toda uma família com diferentes datas de expiração é onde fica complicado. [Travel Document Vault](https://traveldocumentvault.com) acompanha a validade do seu passaporte, e pode adicionar toda a família com Pro. Os lembretes para passaportes começam oito meses antes do fim da validade por predefinição e repetem-se à medida que a data se aproxima. Verifique a regra de validade do destino antes de reservar. Também pode encontrar mais dicas práticas [de documentos de viagem](https://traveldocumentvault.com/pt/blog/) no blogue.
 
 ## Uma Nota Sobre Verificar Requisitos Antes de Viajar
 
@@ -144,7 +144,7 @@ Sim. As companhias aéreas verificam a validade do passaporte utilizando uma bas
 
 ### Como verifíco se o meu passaporte cumpre a regra dos 6 meses?
 
-Conte seis meses para a frente a partir do dia em que sai do destino, depois verifique se o seu passaporte expira depois dessa data. Essa é a mais tardia das duas datas usadas pelos países, por isso cobre ambos os casos. Se partir a 1 de agosto, o seu passaporte precisa estar válido até pelo menos 1 de fevereiro do ano seguinte. Aplicações como Travel Document Vault rastreiam isto automaticamente para cada membro da família, para que não tenha de fazer as contas antes de cada viagem.
+Conte seis meses para a frente a partir do dia em que sai do destino, depois verifique se o seu passaporte expira depois dessa data. Essa é a mais tardia das duas datas usadas pelos países, por isso cobre ambos os casos. Se partir a 1 de agosto, o seu passaporte precisa estar válido até pelo menos 1 de fevereiro do ano seguinte. Com Pro, Travel Document Vault verifica os passaportes associados com uma margem predefinida de 180 dias após o fim da viagem guardada, salvo se definir uma margem de validade personalizada. Verifique separadamente a regra efetiva do destino; 180 dias nem sempre equivalem a seis meses de calendário.
 
 ### Preciso de seis meses de validade no meu passaporte para viajar para a Europa?
 
@@ -152,7 +152,7 @@ Não, mas precisa de mais do que a duração da estadia. O Ministério dos Negó
 
 ### E se o passaporte de um membro da família cumpre a regra mas outro não?
 
-O passaporte de cada membro da família é avaliado individualmente — não existe regra em grupo. Isto significa que um passaporte poderia cumprir o requisito dos 6 meses enquanto outro fica aquém, podendo impedir essa pessoa de viajar. Verifique cada passaporte do grupo contra os requisitos de validade do destino antes de fazer a reserva. Aplicações como Travel Document Vault deixam-o rastrear a expiração do passaporte de cada membro da família separadamente para que apanhe estas lacunas antes do check-in.
+O passaporte de cada membro da família é avaliado individualmente — não existe regra em grupo. Isto significa que um passaporte poderia cumprir o requisito dos 6 meses enquanto outro fica aquém, podendo impedir essa pessoa de viajar. Verifique cada passaporte do grupo contra os requisitos de validade do destino antes de fazer a reserva. Travel Document Vault acompanha a validade do seu passaporte, e pode adicionar cada membro da família com Pro. Verifique as datas de cada um face à regra do destino antes de reservar.
 
 ### Posso viajar se o meu passaporte expira dentro de 3 meses?
 

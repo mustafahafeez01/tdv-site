@@ -81,7 +81,7 @@ Et tydeligt digitalt foto af dit pas hjælper her. Gem data-siden, forsiden og b
 
 Det er særligt værdifuldt, hvis du er i udlandet, når dit pas bliver beskadiget, og har brug for et nødrejsedokument fra din ambassade. Konsulære medarbejdere arbejder hurtigere, når de kan se en scanning af dit oprindelige pas direkte foran sig.
 
-Opbevar dine digitale kopier et krypteret og offline sted – ikke i Google Photos eller iCloud delt med andre. Travel Document Vault er bygget netop til dette formål: pasfotos krypteret udelukkende på din enhed, tilgængelige med det samme, hvis noget går galt.
+Opbevar dine digitale kopier et krypteret og offline sted – ikke i Google Photos eller iCloud delt med andre. Travel Document Vault gemmer pasfotos krypteret på din enhed, så du kan se dem offline. Du kan dele eller eksportere kopier eller bruge krypteret cloud-backup med Pro.
 
 Scan dit pas i dag, før du får brug for det.
 

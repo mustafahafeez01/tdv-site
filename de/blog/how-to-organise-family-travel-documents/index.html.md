@@ -81,7 +81,7 @@ Was dies praktisch bedeutet
 
 Wenn Ihr Telefon gestohlen wird und der Dieb in Ihre Fotobibliothek gelangt, hat er einen klaren Scan Ihrer Reisepass-Datenseite: Ihren Namen, Geburtsdatum, Reisepassnummer und Ihr Foto. Das reicht für Identitätsdiebstahl. Das Speichern von Reisepass-Scans in einer verschlüsselten App, die eine separate PIN oder Biometrie erfordert, ist aussagekräftig sicherer als eine Fotobibliothek, auch wenn sich beide auf demselben Gerät befinden.
 
-[Travel Document Vault](https://traveldocumentvault.com) speichert alles auf dem Gerät mit starker Verschlüsselung (optionale verschlüsselte Sicherung auf Ihrem eigenen iCloud oder Google Drive mit Pro). Jedes Familienmitglied erhält sein eigenes Profil, und Ablaufdaten werden automatisch nachverfolgt. Wenn Sie es lieber selbst tun möchten, funktioniert ein verschlüsselter Ordner in einem vertrauenswürdigen Passwort-Manager auch – er wird Sie nur nicht daran erinnern, wenn etwas bald abläuft.
+[Travel Document Vault](https://traveldocumentvault.com) speichert Ihre Dokumente verschlüsselt auf Ihrem Gerät und verfolgt gespeicherte Ablaufdaten. Sie können Kopien teilen oder exportieren. Pro ergänzt Familienprofile und optionale verschlüsselte Backups in Ihrem eigenen iCloud oder Google Drive. Wenn Sie es lieber selbst tun möchten, funktioniert ein verschlüsselter Ordner in einem vertrauenswürdigen Passwort-Manager auch – er wird Sie nur nicht daran erinnern, wenn etwas bald abläuft.
 
 ## Ablaufdaten verfolgen: Der am meisten übersehene Teil
 
@@ -93,11 +93,11 @@ Hier ist das Fehlermuster, das Familien überrascht: Sie erneuern Ihren eigenen 
 
 - **Kalendereinstellungen:** Setzen Sie eine 12 Monate vor Ablauf jedes Dokuments und eine weitere 6 Monate davor. Sie müssen sich daran erinnern, diese zu aktualisieren, wenn Dokumente erneuert werden, und Sie müssen die Ablaufdaten überhaupt zugänglich haben.
 - **Tabellenkalkulation:** Funktioniert gut, wenn Sie sie tatsächlich aktualisieren werden. Eine Zeile pro Dokument pro Person, das Ablaufdatum und eine Formel, die alles hervorhebt, das in 12 Monaten abläuft.
-- **Spezielle App:** Werkzeuge wie Travel Document Vault verwalten Erinnerungen automatisch – scannen Sie das Dokument, bestätigen Sie das Ablaufdatum, und es plant Benachrichtigungen ab acht Monaten vorher und erneut in kürzeren Abständen, ohne dass Sie daran denken müssen.
+- **Spezielle App:** Travel Document Vault plant Pass-Erinnerungen ab acht Monaten vor Ablauf, mit weiteren Benachrichtigungen in kürzeren Abständen. Scannen Sie einen Reisepass und bestätigen Sie sein Ablaufdatum oder geben Sie es ein; Erinnerungen sind standardmäßig aktiviert.
 
 Jeder dieser drei Ansätze funktioniert, aber wir würden uns standardmäßig für den entscheiden, der die Erinnerung automatisch schickt, denn eine Tabellenkalkulation hilft nur, wenn Sie daran denken, sie zu öffnen. Am wichtigsten ist, einen auszuwählen, der zu Ihrer bereits bestehenden Arbeitsweise passt, und ihn tatsächlich durchzuhalten.
 
-**Travel Document Vault** verwaltet das Ablaufdatum-Tracking für jedes Familienmitglied automatisch – scannen Sie jeden Reisepass einmal und erhalten Sie Erinnerungen ab acht Monaten vorher. Keine Tabellenkalkulation, keine vergessenen Erneuerungen. [Im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** verfolgt gespeicherte Ablaufdaten, mit Pass-Erinnerungen ab acht Monaten vor Ablauf. Scannen Sie jeden Reisepass und bestätigen Sie sein Ablaufdatum oder geben Sie es ein. Fügen Sie die ganze Familie mit Pro hinzu, um die Erneuerungstermine zusammenzuhalten. [Im App Store herunterladen.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Checkliste vor der Reise für Familien
 

@@ -10,16 +10,16 @@ Source: https://traveldocumentvault.com/fr/accessibility/
 
 ### Support VoiceOver
 
-Chaque écran de Travel Document Vault est entièrement commenté avec VoiceOver. Naviguez, scannez des documents, réglez des rappels et gérez votre coffre-fort en utilisant des gestes, le clavier, le braille et la synthèse vocale.
+Travel Document Vault est conçu pour fonctionner avec VoiceOver. L’application comprend des libellés d’accessibilité et des annonces pour les lecteurs d’écran.
 
-- Étiquettes descriptives pour tous les éléments interactifs
+- Étiquettes descriptives pour les éléments interactifs
 - Hiérarchie des titres appropriée pour une navigation facile
 - Descriptions significatives des boutons et contrôles
 - Annonces d'état pour les changements importants
 
 ### Texte plus grand (Dynamic Type)
 
-Tout le texte de l'application s'adapte à vos préférences de taille de texte système. Augmentez la taille du texte jusqu'à 200% ou plus, et la mise en page de l'application s'adapte automatiquement.
+Le texte de l’application s’adapte aux préférences de taille de texte du système. Les limites d’agrandissement varient selon l’élément.
 
 Ajustez la taille du texte dans **Paramètres → Accessibilité → Affichage et taille du texte → Texte plus grand** sur votre appareil.
 
@@ -27,17 +27,17 @@ Ajustez la taille du texte dans **Paramètres → Accessibilité → Affichage e
 
 Travel Document Vault supporte les modes clair et sombre. L'application s'adapte automatiquement à votre apparence système, ou vous pouvez définir votre thème préféré dans Paramètres.
 
-Options : **Système (Auto)**, **Clair** ou **Sombre**.
+Options : **Automatique (système)**, **Clair** ou **Sombre**.
 
 ### Contraste suffisant
 
-Tout le texte et les éléments interactifs respectent les normes de contraste WCAG AAA (4,5:1 pour le texte normal, 3:1 pour le texte de grande taille). Les couleurs à contraste élevé garantissent la lisibilité dans toutes les conditions d'éclairage.
+Les couleurs de texte par défaut sont choisies pour offrir un contraste lisible. Les couleurs à contraste élevé facilitent la lecture dans une lumière vive ou faible.
 
-Notre système de couleurs fournit des rapports de contraste de 15:1+ pour le texte principal dans les thèmes clair et sombre.
+Le texte principal offre un contraste élevé sur les arrière-plans clairs et sombres par défaut.
 
-### Différenciation sans couleur seule
+### L’état ne se limite pas à la couleur
 
-Les informations importantes ne sont jamais communiquées par la couleur seule. Les indicateurs d'état utilisent des icônes, des formes et des étiquettes de texte en plus de la couleur.
+L’état des documents n’est jamais indiqué par la couleur seule. Les indicateurs d'état utilisent des icônes, des formes et des étiquettes de texte en plus de la couleur.
 
 - Coches vertes pour les documents valides (pas seulement la couleur verte)
 - Icônes d'avertissement pour les documents expirés (pas seulement la couleur jaune/orange)
@@ -45,7 +45,7 @@ Les informations importantes ne sont jamais communiquées par la couleur seule. 
 
 ### Mouvement réduit
 
-Toutes les animations et les effets de mouvement respectent votre préférence Réduire le mouvement. Lorsqu'activée, les animations sont minimisées ou supprimées pour prévenir le mal des transports et l'inconfort.
+Certaines animations respectent votre préférence Réduire le mouvement. Lorsqu’elle est activée, les animations prises en charge sont réduites ou supprimées.
 
 Activez dans **Paramètres → Accessibilité → Mouvement → Réduire le mouvement** sur votre appareil.
 
@@ -53,19 +53,15 @@ Activez dans **Paramètres → Accessibilité → Mouvement → Réduire le mouv
 
 Zones tactiles de 44pt
 
-Tous les éléments interactifs respectent la taille minimale de zone tactile d'Apple de 44pt pour un tapotement facile.
-
-Navigation au clavier
-
-Naviguez dans l'application entière en utilisant un clavier connecté à votre appareil.
+Les styles communs des commandes visent 44pt sur iOS et 48dp sur Android ; certaines commandes sont plus petites.
 
 Polices lisibles
 
-Polices système optimisées pour la lisibilité à toutes les tailles.
+Polices système avec des tailles de texte définies selon les éléments.
 
 Messages d'erreur clairs
 
-Les états d'erreur sont annoncés à VoiceOver et affichés avec un texte clair et exploitable.
+Les principaux messages d’erreur, par exemple lorsqu’un formulaire ne peut pas encore être enregistré, sont annoncés à VoiceOver et affichés avec un texte clair indiquant quoi faire.
 
 ## Nous nous améliorons toujours
 

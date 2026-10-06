@@ -52,7 +52,7 @@ Source: https://traveldocumentvault.com/it/blog/
 
 ##
 
-[Viaggi in FamigliaGestione dei Passaporti Familiari: Conservare Più Passaporti in SicurezzaCome organizzare e conservare in sicurezza più passaporti familiari in un unico luogo. Traccia le date di scadenza di ogni membro della famiglia, con promemoria prima di ogni rinnovo.16 luglio 20267 min di lettura](https://traveldocumentvault.com/it/blog/family-passport-management/)
+[Viaggi in FamigliaGestione dei Passaporti Familiari: Conservare Più Passaporti in SicurezzaOrganizza i passaporti della tua famiglia in un unico posto crittografato. Aggiungi profili familiari con Pro e usa le date di scadenza e i promemoria per pianificare i rinnovi.16 luglio 20267 min di lettura](https://traveldocumentvault.com/it/blog/family-passport-management/)
 
 ##
 
@@ -142,9 +142,9 @@ Source: https://traveldocumentvault.com/it/blog/
 
 [Regole sul passaportoLa Regola dei 6 Mesi di Validità del Passaporto: Quali Paesi la Applicano e Come Non Farsi Sorprendere Il passaporto potrebbe essere valido, eppure venire respinti. Scopri quali paesi applicano la regola dei 6 mesi, come le compagnie aeree la verificano e come assicurarsi che tutta la famiglia sia in regola prima di prenotare. 1 feb 20267 min di lettura](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/)
 
-## L'Ultima Volta Che Si Farà Prendere dal Panico Prima di un Viaggio
+## Tenga insieme i dati del passaporto
 
-Scansiona i passaporti di tutta la famiglia stanotte. I promemoria di scadenza si impostano da soli. Crittografati in modo sicuro, archiviati solo sul Suo dispositivo.
+Scansioni il passaporto stasera e confermi o inserisca la data di scadenza. I promemoria sono attivi per impostazione predefinita e i documenti sono crittografati sul Suo dispositivo. Può condividere o esportare copie. Pro aggiunge profili familiari e backup crittografato facoltativo sul Suo cloud.
 
 ![Scarica su App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

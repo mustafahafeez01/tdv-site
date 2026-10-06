@@ -81,7 +81,7 @@ Vad det innebär i praktiken
 
 Blir telefonen stulen och tjuven kommer åt fotobiblioteket har de en tydlig skanning av passets datasida: namn, födelsedatum, passnummer och foto. Det räcker för identitetsbedrägeri. Att förvara passkanningar i en krypterad app som kräver en separat PIN-kod eller biometri är märkbart säkrare än ett fotobibliotek, även om båda finns på samma enhet.
 
-[Travel Document Vault](https://traveldocumentvault.com) lagrar allt på enheten med stark kryptering (valfri krypterad säkerhetskopia till ert eget iCloud eller Google Drive med Pro). Varje familjemedlem får sin egen profil, och utgångsdatum spåras automatiskt. Vill ni göra det själva fungerar även en krypterad mapp i en pålitlig lösenordshanterare – den påminner er bara inte när något snart går ut.
+[Travel Document Vault](https://traveldocumentvault.com) lagrar era dokument krypterade på er enhet och håller koll på sparade utgångsdatum. Ni kan dela eller exportera kopior. Pro ger familjeprofiler och valfri krypterad säkerhetskopiering till ert eget iCloud eller Google Drive. Vill ni göra det själva fungerar även en krypterad mapp i en pålitlig lösenordshanterare – den påminner er bara inte när något snart går ut.
 
 ## Att hålla koll på utgångsdatum: den mest förbisedda delen
 
@@ -93,11 +93,11 @@ Här är mönstret som fångar familjer på sängen: ni förnyar ert eget pass, 
 
 - **Kalenderpåminnelser:** Ställ in en 12 månader innan varje handling går ut och en till vid 6 månader. Ni behöver komma ihåg att uppdatera dessa när handlingar förnyas, och ni behöver ha utgångsdatumen tillgängliga från början.
 - **Kalkylblad:** Fungerar bra om ni faktiskt underhåller det. En rad per handling per person, utgångsdatumet, och en formel som markerar allt som går ut inom 12 månader.
-- **Dedikerad app:** Verktyg som Travel Document Vault sköter påminnelserna automatiskt – skanna handlingen, bekräfta utgångsdatumet, så schemaläggs varningar från åtta månader innan, och sedan igen med tätare intervall, utan att ni behöver tänka på det.
+- **Dedikerad app:** Travel Document Vault schemalägger passpåminnelser från åtta månader före utgångsdatumet, med tätare intervall när datumet närmar sig. Skanna ett pass och bekräfta eller ange utgångsdatumet; påminnelser är aktiverade som standard.
 
 Alla tre metoderna fungerar, men vi skulle välja den som skickar påminnelsen automatiskt, eftersom ett kalkylblad bara hjälper om ni kommer ihåg att öppna det. Viktigast är att välja en som passar hur ni redan gör saker och faktiskt hålla fast vid den.
 
-**Travel Document Vault** sköter bevakningen av utgångsdatum för varje familjemedlem automatiskt – skanna varje pass en gång och få påminnelser från åtta månader innan utgångsdatumet. Inget kalkylblad, inga missade förnyelser. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** håller koll på sparade utgångsdatum, med passpåminnelser från åtta månader före utgångsdatumet. Skanna varje pass och bekräfta eller ange utgångsdatumet. Lägg till hela familjen med Pro för att samla förnyelsedatumen. [Ladda ner från App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Checklista inför resan för familjer
 

@@ -72,7 +72,7 @@ Den manuelle metode kommer først, fordi den er gratis og officiel: tag dagens d
 
 For én person, der tager en ferie eller to om året, er det helt til at overskue. Det bliver sværere, når rejser overlapper, og personer bliver flere: en forretningsrejsende, der tager korte ture hver måned, eller en familie, hvor ét barn er på skoleudveksling, et andet har lejrophold, og en partner flyver hjem tidligere. Hver person har sit eget rullende vindue, og vinduerne stemmer ikke overens. Det er her, et sporingsværktøj holder op med at være en gadget og bliver måden, du undgår en dyr fejl på – vores [guide til visum- og indrejsesporing](https://traveldocumentvault.com/da/blog/visa-expiry-tracker-app/) dækker det bredere problem.
 
-En ærlig bemærkning: ingen app kan læse dit EES-register, heller ikke vores. Det, et sporingsværktøj gør, er at anvende den officielle 90/180-beregning på de rejsedatoer, du angiver, løbende, for hver rejsende du tilføjer. Grænsen tæller, hvad der er sket; et godt sporingsværktøj viser, hvad du stadig kan gøre.
+Travel Document Vault læser ikke dit EES-register. Med Pro tæller appen gemte rejser op mod de dagsgrænser, du angiver pr. land. Den beregner ikke en samlet 90/180-kvote for hele Schengenområdet, så tjek din samlede tid i området separat.
 
 ## Tre ting EES ikke er
 
@@ -108,7 +108,7 @@ Nej. EES er i drift nu og registrerer din ind- og udrejse ved grænsen. ETIAS er
 
 ### Hvordan hjælper Travel Document Vault med 90/180-reglen?
 
-Appen tæller dage pr. person, pr. land, på tværs af alle dine rejser til det land, og fremskriver dit rullende vindue, før du booker. Den læser ikke dit EES-register – det kan ingen app – men med Pro anvender den en rullende 90/180-optælling på dine rejser til hvert land, du har sat en grænse for, så alle familiemedlemmers resterende dage dér kan ses med det samme.
+Med Pro tæller appen gemte rejsedage pr. person og pr. land og fremskriver det rullende vindue for de grænser, du angiver. Den læser ikke dit EES-register og beregner ikke en samlet 90/180-kvote for hele Schengenområdet. Du kan se hvert familiemedlems resterende dage i et land, men skal tjekke det samlede antal Schengen-dage separat.
 
 ## Relaterede artikler
 

@@ -72,7 +72,7 @@ O método manual vem primeiro, porque é gratuito e oficial: pegue na data de ho
 
 Para uma pessoa que passa férias uma ou duas vezes por ano, isto é inteiramente geável. Fica mais complicado quando as viagens se sobrepõem e as pessoas se multiplicam: um viajante de negócios fazendo pequenos saltos cada mês, ou uma família onde um filho está num intercâmbio escolar, outro tem datas de acampamento de verão, e um parceiro voa para casa mais cedo. Cada pessoa tem a sua própria janela móvel, e as janelas não alinham. Esta é a situação em que uma ferramenta de acompanhamento deixa de ser um gadget e passa a ser a forma de evitar um erro dispendioso — o nosso [guia para acompanhamento de vistos e entrada](https://traveldocumentvault.com/pt/blog/visa-expiry-tracker-app/) cobre o problema mais amplo.
 
-Uma nota de honestidade: nenhuma aplicação pode ler o seu registo EES, a nossa incluída. O que um rastreador faz é aplicar a aritmética oficial 90/180 às datas de viagem que fornece, continuamente, para cada viajante que adiciona. A fronteira conta o que aconteceu; um bom rastreador mostra o que ainda pode fazer.
+Travel Document Vault não lê o seu registo EES. Com Pro, conta as viagens guardadas de acordo com os limites de dias por país que definir. Não calcula uma estadia total permitida pela regra 90/180 em todo o Espaço Schengen, pelo que deve verificar separadamente o tempo total passado no espaço.
 
 ## Três Coisas Que o EES Não É
 
@@ -108,7 +108,7 @@ Não. O EES está ativo agora e regista a sua entrada e saída na fronteira. O E
 
 ### Como é que o Travel Document Vault ajuda com a regra 90/180?
 
-A aplicação conta dias por pessoa, por país, em todas as suas viagens a esse país, e projeta a sua janela móvel para o futuro antes de reservar. Não lê o seu registo EES — nenhuma aplicação pode fazê-lo — mas, com o Pro, aplica uma contagem móvel 90/180 às suas viagens a cada país para o qual defina um limite, para que os dias restantes de cada membro da família nesse país fiquem visíveis de uma olhada.
+Com Pro, a aplicação conta os dias das viagens guardadas por pessoa e por país e projeta a janela móvel para o futuro segundo os limites que definir. Não lê o seu registo EES nem calcula uma estadia total permitida pela regra 90/180 em todo o Espaço Schengen. Pode consultar os dias restantes de cada membro da família para um país, mas deve verificar separadamente o total Schengen.
 
 ## Artigos Relacionados
 

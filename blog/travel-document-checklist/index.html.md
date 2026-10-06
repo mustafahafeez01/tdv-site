@@ -95,7 +95,7 @@ Keep these in your carry-on at all times, not in checked luggage. That means pas
 
 Before you leave home, take a photo of every document and store it in an encrypted app - not your camera roll. If your bag is lost or stolen, you'll want your passport number, insurance policy number, and booking references somewhere you can still access them at an embassy or police station. A secure digital backup saves hours when you're trying to get help.
 
-**Travel Document Vault** stores encrypted copies of every document on this list - organised by family member, with automatic expiry reminders. Scan once, never scramble again. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** stores encrypted copies of your travel documents. Scan each one and confirm or enter its expiry date for automatic reminders. Pro lets you store more than five documents and organise them by family member. [Download on the App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## How Your Document List Changes by Trip Type
 

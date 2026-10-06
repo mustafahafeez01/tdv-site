@@ -1,6 +1,6 @@
 # Reiseplaner für Familien | Travel Document Vault
 
-> Planen Sie Familienreisen: Bereitschaftsampel, Packlisten und Aufenthaltstage pro Land, aufgeschlüsselt pro Person. Komplett offline.
+> Planen Sie mit Pro Familienreisen: Bereitschaftsampel, Packlisten und Aufenthaltstage pro Land, aufgeschlüsselt pro Person. Komplett offline.
 
 Source: https://traveldocumentvault.com/de/trip-planner/
 
@@ -12,7 +12,7 @@ Fünf Funktionen, die die Familienreiseplanung stressfrei machen.
 
 ### Bereitschaftsampel
 
-Grün bedeutet, alle sind bereit, während Gelb markiert, wessen Dokumente bald ablaufen – keine Überraschungen mehr in der Nacht vor der Reise.
+Grün bedeutet, dass verknüpfte Dokumente die von Ihnen eingerichteten Prüfungen für Ihre gespeicherten Reisedaten bestehen. Gelb weist auf zu prüfende Einträge hin.
 
 Jedes Familienmitglied erhält seinen eigenen Bereitschaftsstatus basierend auf Ablaufdaten der Dokumente und Reisekontext.
 
@@ -24,21 +24,21 @@ Gebaut für Familien mit 2 - 10+ Mitgliedern. Funktioniert für Ehepartner, Kind
 
 ### Packliste
 
-Reisespezifische Checkliste, abgestimmt auf Reisedauer und Reiseziel, die Sie abhaken, während Sie packen – vergessen Sie nie wieder Sonnencreme.
+Reisespezifische Checkliste für Urlaubs- oder Geschäftsreisen, die Sie beim Packen abhaken – damit Sie den Steckdosenadapter nicht wieder vergessen.
 
-Checklisten passen sich an Wetter, Reisedauer und Reisetyp an (Strand, Stadt, Skifahren etc.).
+Checklisten beginnen mit einer Vorlage für Urlaubs- oder Geschäftsreisen, und Sie können für jede Reise Einträge hinzufügen oder entfernen.
 
 ### Wissen vor der Abreise
 
-Reiseziel-Panel mit Einreisebestimmungen, Visa-Regeln und Reisetipps für jedes Land – keine Überraschungen bei der Einreise.
+Reiseziel-Panel mit Währung, Sprache, Steckertyp, Spannung und Verkehrsseite für beliebte Reiseziele – keine Überraschungen bei der Ankunft.
 
-Zeigt Schengen-Regeln, Visa-Gültigkeitsfenster und lokale Bräuche. Alles aktualisiert für aktuelle Reisebestimmungen.
+Deckt knapp 60 der meistbesuchten Reiseziele ab, mit direkt in der App gespeicherten Informationen, die offline verfügbar sind.
 
 ### Aufenthaltsfreigaben für Länder
 
-Verfolgen Sie, wie viele Tage jedes Familienmitglied in einem Land verbracht hat, indem Sie Zeiträume (Schengen-Jahr, Visa-Fenster, Geschäftsjahr) erstellen und Freigaberegeln damit verknüpfen – dann sehen Sie auf einen Blick eine Aufschlüsselung pro Familienmitglied.
+Verfolgen Sie, wie viele Tage jedes Familienmitglied in einem Land verbracht hat, indem Sie Zeiträume (Visa-Fenster oder Steuerjahr) erstellen und Freigaberegeln damit verknüpfen – dann sehen Sie auf einen Blick eine Aufschlüsselung pro Familienmitglied.
 
-Entwickelt für rollierende Limits im Stil von 90/180 in einem Land, UK-183-Tage-Regeln und benutzerdefinierte Visa- oder Residenzfenster. Verwendete Tage werden automatisch aktualisiert, wenn Reisen protokolliert werden.
+Legen Sie für jedes Land ein festes oder rollierendes Zeitfenster mit Ihrem eigenen Tageslimit für Visa oder Aufenthalte fest. Prüfen Sie die offiziellen Regeln gesondert. Verwendete Tage werden automatisch aktualisiert, wenn Reisen protokolliert werden.
 
 ## Und vieles mehr
 
@@ -60,7 +60,7 @@ Pro: Sync mit Ihrer eigenen iCloud oder Google Drive. Multi-Device-Zugriff. Sie 
 
 ## Bereit, besser zu planen
 
-Kostenlos herunterladen. Kein Konto. Beginnen Sie heute mit der Planung.
+Kostenlos herunterladen. Kein Konto. Beginnen Sie heute mit der Planung mit Pro.
 
 ![Im App Store laden](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

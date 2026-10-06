@@ -10,7 +10,7 @@ Travel Document Vault vous offre trois niveaux de protection. Voici exactement c
 
 ## Trois mécanismes, un objectif
 
-Vos documents résident sur votre appareil. Ils ne vont pas sur nos serveurs. Les trois mécanismes de sauvegarde servent chacun un objectif différent, et vous pouvez les utiliser tous les trois en même temps.
+Travel Document Vault offre trois niveaux de protection : (1) Sauvegardes locales automatiques, créées toutes les quelques minutes sur votre appareil sans frais. (2) Vault Export, un fichier de sauvegarde chiffré gratuit (.tdvault) que vous enregistrez où vous le souhaitez. (3) Cloud Backup, une option Pro qui maintient une copie chiffrée de bout en bout dans votre propre iCloud ou Google Drive.
 
 - **Sauvegardes locales automatiques** — se font discrètement en arrière-plan, aucune action requise.
 - **Vault Export (.tdvault)** — un fichier chiffré portable que vous enregistrez où vous le souhaitez.
@@ -21,50 +21,50 @@ Vos documents résident sur votre appareil. Ils ne vont pas sur nos serveurs. Le
 | Mécanisme | Niveau | Automatique ? | Où il réside | Comment restaurer |
 |---|---|---|---|---|
 | **Sauvegardes locales automatiques** | Gratuit | Oui, toutes les quelques minutes | Sur votre appareil | Paramètres, Restaurer la sauvegarde locale |
-| **Vault Export (.tdvault)** | Gratuit | Non, manuel | Où vous l'enregistrez : Fichiers, iCloud Drive, Google Drive, e-mail | Paramètres, Importer le coffre-fort |
+| **Vault Export (.tdvault)** | Gratuit | Non, manuel | Où vous l'enregistrez : Fichiers, iCloud Drive, Google Drive, e-mail | Réglages, Importer une sauvegarde |
 | **Cloud Backup** | Pro | Oui, automatique | Votre propre iCloud (iOS) ou Google Drive (Android) | Paramètres, Cloud Backup, Restaurer à partir de la sauvegarde |
 
 ## Sauvegardes locales automatiques
 
-Pendant que l'application est ouverte et que vous apportez des modifications, elle prend discrètement un instantané de votre coffre-fort toutes les quelques minutes. Vous n'avez rien à faire. L'application conserve les 10 instantanés les plus récents et supprime les anciens pour économiser de l'espace.
+Pendant que l’application est ouverte et que vous apportez des modifications, elle prend discrètement un instantané de votre coffre-fort toutes les quelques minutes. Vous n’avez rien à faire. L’application conserve quelques instantanés récents et supprime les anciens pour économiser de l’espace. L’exportation du coffre crée un fichier chiffré portable que vous pouvez enregistrer hors de l’appareil.
 
-Dans les paramètres, vous verrez une ligne comme *Dernière sauvegarde : il y a 2 heures, 12 documents*. Cela vous indique l'âge de l'instantané le plus récent et le nombre de documents qu'il a capturés. C'est là pour vous rassurer qu'une copie récupérable est toujours à proximité.
+Dans les paramètres, vous verrez une ligne comme *Dernière sauvegarde : il y a 2 heures, 12 documents*. Cela vous indique l'âge de l'instantané le plus récent et le nombre de documents qu'il a capturés. Cela indique le dernier instantané local disponible. Les instantanés locaux ne contiennent pas de copies indépendantes des fichiers joints.
 
 **Pour restaurer :** Paramètres, puis Restaurer la sauvegarde locale. Choisissez un instantané dans la liste et confirmez. La restauration remplace vos données actuelles par le contenu de l'instantané.
 
-Ces instantanés locaux restent sur votre appareil. Une sauvegarde système (sauvegarde iCloud, Google Backup) réinstalle l'application mais ne peut pas les restaurer sur un nouveau téléphone, car la clé de chiffrement ne quitte jamais votre appareil d'origine. Pour déplacer votre coffre-fort, utilisez la sauvegarde cloud (Pro) ou Vault Export gratuit.
+Ces instantanés locaux restent sur votre appareil. Une sauvegarde système (sauvegarde iCloud, Google Backup) réinstalle l'application mais ne peut pas les restaurer sur un nouveau téléphone, car les sauvegardes ordinaires du téléphone ne transfèrent pas la clé de chiffrement liée à l’appareil. L’exportation du coffre inclut une copie de cette clé chiffrée par mot de passe. Pour déplacer votre coffre-fort, utilisez la sauvegarde cloud (Pro) ou Vault Export gratuit.
 
 ## Vault Export (.tdvault) — gratuit pour tous
 
-Vault Export crée un seul fichier chiffré et protégé par mot de passe contenant tous les profils, documents et pièces jointes dans votre coffre-fort. Vous choisissez où l'enregistrer : application Fichiers, iCloud Drive, Google Drive, ou le partager via AirDrop ou par e-mail.
+L’exportation du coffre regroupe les données du coffre prises en charge et les pièces jointes disponibles dans un seul fichier chiffré et protégé par mot de passe. Chaque exportation est soumise à une limite de taille. Vous choisissez où l'enregistrer : application Fichiers, iCloud Drive, Google Drive, ou le partager via AirDrop ou par e-mail.
 
 Le fichier est chiffré sur l'appareil avant de quitter l'application. Seul le mot de passe que vous définissez au moment de l'export peut le déverrouiller.
 
-**Pour exporter :** Paramètres, Exporter le coffre-fort, puis suivez les invites et choisissez une destination.
+**Pour exporter :** Réglages, Exporter le coffre, puis suivez les invites et choisissez une destination.
 
-**Pour restaurer :** Paramètres, Importer le coffre-fort, puis sélectionnez votre fichier .tdvault et entrez le mot de passe. L'importation fonctionne sur n'importe quel appareil, y compris entre les plateformes (iOS vers Android ou vice versa). La fidélité aller-retour est complète : tous les noms de documents, les dates, les alertes d'expiration, les couleurs, les pièces jointes et les notes sont préservés exactement.
+**Pour restaurer :** Réglages, Importer une sauvegarde, puis sélectionnez votre fichier .tdvault, confirmez et saisissez le mot de passe. L’importation remplace toutes les données déjà présentes sur ce téléphone. L’importation fonctionne sur les appareils pris en charge, y compris entre les plateformes (iOS vers Android ou vice versa). Les exportations préservent les champs du coffre pris en charge et certains réglages. Les pièces jointes manquantes ou les notes illisibles peuvent être omises. Vérifiez vos documents et rappels importés. Le verrouillage de l’application et les autres réglages de l’appareil restent locaux.
 
-C'est gratuit pour tous les utilisateurs. Aucun abonnement Pro requis.
+C’est gratuit pour tous les utilisateurs. Aucun achat Pro requis.
 
 ## Cloud Backup (Pro)
 
-Cloud Backup est l'option Pro. Une fois activé, l'application maintient automatiquement une copie continuellement mise à jour de votre coffre-fort dans votre propre compte iCloud (iOS) ou votre propre Google Drive (Android). Nous ne voyons jamais ces données. Apple et Google ne voient que du texte chiffré.
+La sauvegarde cloud est une fonctionnalité Pro. Activez-la pour conserver une copie automatique dans votre propre iCloud (iOS) ou Google Drive (Android). L’application la met à jour lorsqu’elle est ouverte et connectée. Nous ne la recevons pas. Le contenu des documents est chiffré. Les métadonnées de sauvegarde, comme les noms des appareils, les nombres d’éléments et les horodatages, ne le sont pas.
 
-Le coffre-fort est chiffré de bout en bout sur votre appareil à l'aide d'AES-256-GCM avant le téléchargement. La clé est dérivée de votre code de récupération, une phrase de passe de 24 caractères que l'application génère lorsque vous activez la sauvegarde cloud. Gardez votre code de récupération quelque part en sécurité. Si vous le perdez, la sauvegarde chiffrée devient irrécouvrable.
+Le contenu des documents est chiffré de bout en bout sur votre appareil avec AES-256-GCM avant l’envoi. Les clés de chiffrement cloud sont déverrouillées avec votre code de récupération, une phrase de passe de 24 caractères générée lorsque vous définissez votre PIN. Gardez votre code de récupération en lieu sûr. Si vous perdez toutes les copies du code et l’accès à tous les appareils capables de déverrouiller encore le coffre, nous ne pouvons pas récupérer la sauvegarde chiffrée.
 
-**Pour restaurer :** Sur un nouvel appareil connecté au même Apple ID ou compte Google, ouvrez l'application, allez à Paramètres, Cloud Backup, Restaurer à partir de la sauvegarde, et entrez votre code de récupération.
+**Pour restaurer :** Utilisez un appareil pris en charge sur la même plateforme et le même Apple ID ou compte Google. Avec la sauvegarde désactivée, ouvrez Réglages, Sauvegarde cloud. Choisissez Restaurer à partir de la sauvegarde, sélectionnez votre sauvegarde, saisissez votre code de récupération et confirmez. La restauration remplace le contenu du coffre local.
 
-Cloud Backup est l'option la plus sans intervention : elle fonctionne automatiquement une fois activée, et la restauration sur un nouveau téléphone ne prend qu'un clic plus votre code de récupération.
+La sauvegarde cloud s’exécute automatiquement lorsque l’application est ouverte et connectée. Restaurez-la depuis Réglages avec votre code de récupération, en utilisant le même compte cloud et un appareil pris en charge sur la même plateforme.
 
 ## Laquelle dois-je utiliser ?
 
 La réponse courte : utilisez les trois.
 
-Les sauvegardes locales automatiques vous protègent contre les suppressions accidentelles ou les problèmes d'application en ce moment, sans que vous ayez besoin d'y penser. Elles sont toujours activées.
+Les sauvegardes locales automatiques peuvent aider à récupérer les données récentes du coffre lorsque des instantanés sont disponibles. Elles s’exécutent lorsque l’application est ouverte et ne remplacent pas une sauvegarde indépendante des documents.
 
 Vault Export est le bon choix avant un changement d'appareil, une mise à jour majeure d'application, ou chaque fois que vous voulez une copie portable enregistrée quelque part indépendante de votre téléphone. Faites-le au moins une fois et stockez le fichier dans un endroit sûr.
 
-Cloud Backup (Pro) est le bon choix si vous voulez une protection automatique hors appareil sans gérer les fichiers manuellement. C'est particulièrement précieux lors du passage à un nouveau téléphone : installez l'application, entrez votre code de récupération, et votre coffre-fort est restauré en quelques secondes.
+Cloud Backup (Pro) est le bon choix si vous voulez une protection automatique hors appareil sans gérer les fichiers manuellement. Lors du passage à un téléphone pris en charge sur la même plateforme, utilisez le même compte cloud, sélectionnez votre sauvegarde dans la procédure de restauration, saisissez votre code de récupération et confirmez. La restauration remplace le contenu du coffre local.
 
 Aucune couche simple n'est une raison de sauter les autres. Les comptes cloud peuvent être perdus, les codes de récupération peuvent être oubliés, et les téléphones peuvent être volés avant l'exécution d'une sauvegarde locale. La combinaison des trois vous offre la protection la plus forte.
 

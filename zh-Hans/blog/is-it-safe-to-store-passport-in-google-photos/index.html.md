@@ -72,7 +72,7 @@ Google 有很强的安全记录，但没有云提供商能承诺您的数据永�
 | Google Photos | Google 云服务器 | 传输中 + 静止时（Google 管理密钥） | 中等 | 具有强 2FA 可接受 |
 | iCloud Photos | Apple 云服务器 | 传输中 + 静止时（Apple 管理密钥） | 中等 | 具有强 2FA 可接受 |
 | 加密密码管理器（1Password、Bitwarden） | 云（零知识） | 端到端，提供商无法读取内容 | 低 | 好选择 |
-| 设备端加密应用（可选自有云备份） | 仅您的手机 | 设备端加密，无服务器副本 | 最低 | 敏感文件的最佳选择 |
+| 设备端加密应用（可选自有云备份） | 您的手机；可选的加密备份到您自己的云账户（Pro） | 设备端加密；可选的加密副本保存到您自己的云账户（Pro） | 最低 | 敏感文件的最佳选择 |
 | 相机胶卷 / 未加密文件夹 | 您的设备 | 仅设备加密 | 更高 | 不建议 |
 
 ### iCloud Photos vs Google Photos：Apple 是否更安全
@@ -85,7 +85,7 @@ Apple 的 Advanced Data Protection（iOS 16.2+ 中提供）确实提高了门槛
 
 如果您是 iPhone 用户，在 iCloud 中启用**Advanced Data Protection** 是值得做的事情。无论您在哪个平台上，具有零云上传的专用加密应用都是护照存储的最强选择。
 
-**Travel Document Vault** 使用强加密在设备端存储您的护照扫描件。无需账户。可选的加密备份到您自己的 iCloud 或 Google Drive（Pro），仅由您持有的恢复码封闭。[在 App Store 上下载。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** 使用强加密在设备端存储您的护照扫描件。无需账户。通过 Pro，您可以将加密副本备份到自己的 iCloud 或 Google Drive。请妥善保存恢复码：恢复备份时需要它。[在 App Store 上下载。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 更安全的替代方案是什么
 
@@ -99,7 +99,7 @@ Apple 的 Advanced Data Protection（iOS 16.2+ 中提供）确实提高了门槛
 
 **设备端加密应用**
 
-专门为此构建的应用——如[Travel Document Vault](https://traveldocumentvault.com)——将所有内容保存在您的手机上，采用强加密，无需账户。您可以获得可选的加密备份到您自己的 iCloud 或 Google Drive（Pro），并且没有服务器可被破坏，因为您的数字护照副本从不离开设备。一个折衷是，如果您在没有备份的情况下丢失手机，数字副本会随之消失，尽管您的物理护照仍然与您一起。
+专门为此构建的应用——如[Travel Document Vault](https://traveldocumentvault.com)——将文档加密保存在您的手机上，无需应用账户。您可以分享或导出副本，或通过 Pro 将加密副本备份到您自己的 iCloud 或 Google Drive。应用不会将文档上传到我们的服务器。一个折衷是，如果您在没有备份的情况下丢失手机，数字副本会随之消失，尽管您的物理护照仍然与您一起。
 
 **具有客户端密钥的加密云存储**
 
@@ -133,7 +133,7 @@ Tresorit 和 Proton Drive 为云存储提供客户端加密。与密码管理器
 
 ### 存储护照数字副本的最安全方式是什么
 
-设备端加密存储是您最安全的选择——应用程序将您的扫描件保存在手机上，采用强加密和零云上传。没有第三方服务器会接触您的护照数据。如果您也想要云访问，像 1Password 或 Bitwarden 这样的零知识加密密码管理器是一个很好的折衷。
+设备端加密存储是您最安全的选择——应用程序将您的扫描件保存在手机上，默认采用强加密。副本可通过分享、导出或可选的加密备份（Pro）离开设备，保存到您自己的 iCloud 或 Google Drive。如果您也想要云访问，像 1Password 或 Bitwarden 这样的零知识加密密码管理器是一个很好的折衷。
 
 ### 有人能从护照扫描件中窃取我的身份吗
 

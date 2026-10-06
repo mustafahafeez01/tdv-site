@@ -81,7 +81,7 @@ Cela signifie en pratique
 
 Si votre téléphone est volé et que le voleur accède à votre galerie de photos, il a une numérisation claire de la page de données de votre passeport: votre nom, date de naissance, numéro de passeport et votre photo. C'est suffisant pour la fraude d'identité. Stocker les numérisations de passeport dans une application chiffrée qui nécessite un PIN séparé ou une biométrie est sensiblement plus sûr qu'une galerie de photos, même si les deux se trouvent sur le même appareil.
 
-[Travel Document Vault](https://traveldocumentvault.com) stocke tout sur l'appareil avec un chiffrement fort (sauvegarde chiffrée optionnelle vers votre propre iCloud ou Google Drive avec Pro). Chaque membre de la famille obtient son propre profil, et les dates d'expiration sont suivies automatiquement. Si vous préférez le faire vous-même, un dossier chiffré dans un gestionnaire de mots de passe de confiance fonctionne aussi — il vous rappellera juste quand quelque chose est sur le point d'expirer.
+[Travel Document Vault](https://traveldocumentvault.com) stocke vos documents chiffrés sur votre appareil et suit les dates d’expiration enregistrées. Vous pouvez partager ou exporter des copies. Pro ajoute les profils familiaux et la sauvegarde chiffrée facultative sur votre propre iCloud ou Google Drive. Si vous préférez le faire vous-même, un dossier chiffré dans un gestionnaire de mots de passe de confiance fonctionne aussi — il vous rappellera juste quand quelque chose est sur le point d'expirer.
 
 ## Suivi des dates d'expiration: la partie la plus négligée
 
@@ -93,11 +93,11 @@ Voici le modèle d'échec qui attrape les familles: vous renouvelez votre propre
 
 - **Rappels de calendrier:** Définissez-en un 12 mois avant chaque expiration de document et un autre à 6 mois. Vous devrez vous souvenir de mettre à jour ces derniers lorsque les documents sont renouvelés, et vous devez avoir accès aux dates d'expiration en premier lieu.
 - **Feuille de calcul:** Fonctionne bien si vous la maintenez réellement. Une ligne par document par personne, la date d'expiration, et une formule qui met en évidence tout ce qui expire dans les 12 mois.
-- **Application dédiée:** Des outils comme Travel Document Vault gèrent les rappels automatiquement — numérisez le document, confirmez la date d'expiration, et il planifie des alertes dès huit mois avant l'échéance, puis à intervalles plus rapprochés, sans que vous ayez à y penser.
+- **Application dédiée:** Travel Document Vault programme des rappels de passeport dès huit mois avant l’expiration, puis à intervalles plus rapprochés. Scannez un passeport et confirmez ou saisissez sa date d’expiration ; les rappels sont activés par défaut.
 
 N'importe laquelle de ces trois approches fonctionne, mais nous choisirions par défaut celle qui envoie le rappel automatiquement, car une feuille de calcul n'aide que si vous pensez à l'ouvrir. Ce qui compte avant tout est de choisir celle qui correspond à votre fonctionnement et de vous y tenir réellement.
 
-**Travel Document Vault** gère le suivi de l'expiration pour tous les membres de la famille automatiquement — numérisez chaque passeport une fois et recevez des rappels dès huit mois avant l'échéance. Pas de feuille de calcul, pas de renouvellements oubliés. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** suit les dates d’expiration enregistrées, avec des rappels de passeport dès huit mois avant l’expiration. Scannez chaque passeport et confirmez ou saisissez sa date d’expiration. Ajoutez toute la famille avec Pro pour regrouper les dates de renouvellement. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Liste de contrôle pré-voyage pour les familles
 

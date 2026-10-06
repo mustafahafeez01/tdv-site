@@ -81,7 +81,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-trav
 
 如果你的手机被盗，小偷进入你的照片库，他们拥有护照数据页的清晰扫描：你的名字、出生日期、护照号和你的照片。这足以进行身份欺诈。在需要单独PIN或生物识别的加密应用中存储护照扫描比照片库更安全，即使两者都在同一设备中。
 
-[Travel Document Vault](https://traveldocumentvault.com) 使用强加密（可选加密备份到你自己的iCloud或Google Drive与Pro）在设备上存储所有内容。每位家庭成员都获得自己的个人资料，过期日期会自动跟踪。如果你更愿意自己做，受信任的密码管理器中的加密文件夹也可以工作——它只是不会在某些东西即将过期时提醒你。
+[Travel Document Vault](https://traveldocumentvault.com) 将文档加密保存在您的设备上，并追踪已保存的到期日。您可以分享或导出副本。Pro 提供家庭档案和可选的加密备份，保存到您自己的 iCloud 或 Google Drive。如果你更愿意自己做，受信任的密码管理器中的加密文件夹也可以工作——它只是不会在某些东西即将过期时提醒你。
 
 ## 跟踪过期日期：最被忽视的部分
 
@@ -93,11 +93,11 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-trav
 
 - **日历提醒：** 在每个文件过期前12个月设置一个，在6个月时再设置一个。你需要记得在文件更新时更新这些，你需要首先可以访问过期日期。
 - **电子表格：** 如果你实际维护它，效果很好。每个文件每个人一行、过期日期以及突出显示任何在12个月内过期的任何东西的公式。
-- **专用应用：** Travel Document Vault 等工具自动处理提醒——扫描文件、确认过期日期，它会从提前八个月开始安排提醒，并在临近到期时再次提醒，完全不用你操心。
+- **专用应用：** Travel Document Vault 从护照到期前八个月开始安排提醒，临近到期时提醒间隔会缩短。扫描护照并确认或输入到期日；提醒默认开启。
 
 这三种方法中的任何一种都行得通，不过我们会默认选能自动发出提醒的那一种，因为电子表格只有在你记得打开它的时候才有用。最重要的是选择一种符合你已经如何操作的方式，并实际坚持它。
 
-**Travel Document Vault** 自动为每位家庭成员处理过期跟踪——扫描每本护照一次，从提前八个月开始获得提醒。没有电子表格，没有被遗忘的续期。[从 App Store 下载。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** 追踪已保存的到期日，护照提醒从到期前八个月开始。扫描每本护照并确认或输入到期日。通过 Pro 添加全家成员，将换发日期集中管理。[从 App Store 下载。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## 行前文件检查表
 

@@ -67,25 +67,25 @@ Si tu cuenta de Google es comprometida, alguien con acceso puede recuperar tus c
 
 ## Opción 3: Aplicaciones Cifradas Dedicadas
 
-Una aplicación cifrada dedicada diseñada para documentos de viaje funciona enteramente en tu dispositivo y nunca carga datos en servidores externos.
+Travel Document Vault guarda documentos en tu teléfono por defecto. Puedes compartir o exportar copias, o guardarlas en tu propio iCloud o Google Drive con Pro.
 
 ### Cómo funciona
 
-Cuando añades tu copia de pasaporte a la aplicación, se encripta usando AES-256 y se almacena enteramente en tu teléfono. La aplicación funciona completamente sin conexión —sin cuenta requerida, sin servidor necesario. Si deseas acceso entre dispositivos, una característica Pro opcional respalda una copia cifrada a tu propio iCloud o Google Drive, sellada con un código de recuperación que solo tú tienes.
+Cuando añades tu copia de pasaporte a la aplicación, se encripta usando AES-256 y se almacena enteramente en tu teléfono. La aplicación funciona completamente sin conexión —sin cuenta requerida, sin servidor necesario. Con Pro, puedes guardar una copia cifrada en tu propio iCloud o Google Drive y sincronizarla entre dispositivos configurados de la misma plataforma. Necesitarás tu código de recuperación para restaurar una copia de seguridad en la nube.
 
 ### Propiedades de seguridad
 
-- **Cifrado AES-256 en el dispositivo:** Sí. Los datos nunca salen de tu teléfono.
-- **Requiere cuenta:** No. Sin cuenta, sin servidor, sin login.
-- **Carga a la nube:** No. Ninguna.
+- **Cifrado AES-256 en el dispositivo:** Sí. Los datos se quedan en tu teléfono salvo que los compartas, exportes o actives la copia de seguridad cifrada en tu propio iCloud o Google Drive (Pro).
+- **Requiere cuenta:** No. Sin cuenta ni inicio de sesión en TDV; la copia de seguridad cifrada opcional en tu propio iCloud o Google Drive (Pro) usa tu cuenta en la nube.
+- **Carga a la nube:** Copia de seguridad cifrada opcional en tu propio iCloud o Google Drive (Pro); también puedes compartir o exportar copias.
 - **Funciona sin conexión:** Sí, completamente.
 - **Diseñado para documentos de identidad:** Sí. Toda la arquitectura está optimizada para mantener documentos sensibles privados.
 
 ### Compromisos
 
-Las ventajas de seguridad son sustanciales: tus datos de pasaporte nunca se transmiten ni se almacenan en un servidor remoto, por lo que nunca son accesibles para otro, y no hay un servidor remoto para comprometer si alguien obtiene acceso no autorizado a los sistemas de la empresa de aplicaciones. Esto significa que mantienes control completo y propiedad de tus documentos en todo momento.
+Travel Document Vault guarda tus documentos en tu teléfono por defecto. Compartir y exportar son opcionales, al igual que la copia de seguridad cifrada en tu propio iCloud o Google Drive con Pro.
 
-Sin embargo, este diseño viene con comodidad reducida ya que no puedes acceder automáticamente a tu copia de pasaporte entre múltiples dispositivos. Si pierdes tu teléfono, la aplicación no restaurará automáticamente tus documentos —deberías restaurar manualmente desde una copia de seguridad. Para la mayoría de las familias que viajan juntas, almacenar documentos en el teléfono de un padre es suficiente, y muchas aplicaciones soportan sincronización manual vía copia de seguridad, lo que añade una capa de flexibilidad sin requerir carga automática a la nube.
+Con Pro, puedes sincronizar documentos entre dispositivos configurados de la misma plataforma. Si pierdes tu teléfono, restaura una copia de seguridad guardada. La restauración desde la nube requiere tu código de recuperación. Para la mayoría de las familias que viajan juntas, almacenar documentos en el teléfono de un padre es suficiente, y muchas aplicaciones soportan sincronización manual vía copia de seguridad, lo que añade una capa de flexibilidad sin requerir carga automática a la nube.
 
 ## Tabla de Comparación Directa
 
@@ -95,8 +95,8 @@ Sin embargo, este diseño viene con comodidad reducida ya que no puedes acceder 
 | Cifrada de extremo a extremo | Opcional (Advanced Data Protection) | No | Sí (siempre) |
 | Cuenta requerida | Sí (Apple ID) | Sí (Cuenta de Google) | No |
 | Funciona completamente sin conexión | No (necesita sincronización) | No (necesita sincronización) | Sí |
-| Riesgo de incumplimiento remoto | Medio (servidores de Apple) | Medio-Alto (servidores de Google + escaneo de contenido) | Ninguno (sin almacenamiento remoto) |
-| Acceso entre dispositivos | Automático | Automático | Solo copia de seguridad manual |
+| Riesgo de incumplimiento remoto | Medio (servidores de Apple) | Medio-Alto (servidores de Google + escaneo de contenido) | Copia de seguridad cifrada opcional en tu propio iCloud o Google Drive (Pro) |
+| Acceso entre dispositivos | Automático | Automático | Exportación manual de la bóveda; copia de seguridad automática en la nube y sincronización opcionales (Pro) |
 | Costo | Gratis (200GB), luego pago | Gratis (15GB), luego pago | Generalmente compra única |
 | Diseñado para documentos de identidad | No | No | Sí |
 
@@ -130,7 +130,7 @@ Google Photos no está cifrado de extremo a extremo por defecto. Google indexa y
 
 ### ¿Cuáles son las ventajas de una aplicación cifrada dedicada para almacenamiento de pasaporte?
 
-Una aplicación cifrada dedicada diseñada específicamente para documentos de viaje generalmente almacena datos en el dispositivo usando cifrado AES-256, no requiere cuenta o carga a la nube, funciona sin conexión y tiene una superficie de incumplimiento mucho más pequeña. Como tus datos de pasaporte nunca salen de tu teléfono, no hay servidor remoto que sea incumplido. El compromiso es comodidad reducida para acceso entre dispositivos, pero para usuarios que priorizan seguridad, este es el método de almacenamiento más seguro disponible.
+Travel Document Vault cifra tus archivos de documentos originales con AES-256 y permite consultarlos sin conexión y sin cuenta en la app. Puedes compartir o exportar copias. Pro añade copia de seguridad cifrada opcional en tu propio iCloud o Google Drive, además de sincronización entre dispositivos configurados de la misma plataforma.
 
 ### ¿Puedo usar múltiples métodos de almacenamiento para el mismo pasaporte?
 

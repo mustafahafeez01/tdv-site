@@ -62,7 +62,7 @@ Ce dont vous aurez généralement besoin (confirmez avec votre ambassade avant d
 - Preuve de voyage ultérieur — réservation de vol, confirmation d'hôtel
 - Frais de document d'urgence — ayez à la fois du liquide et une carte disponibles
 
-**Travel Document Vault** conserve une copie chiffrée de votre passeport sur votre téléphone — accessible sans Internet, sans connexion. Elle contient chaque détail du passeport figurant sur cette liste. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** conserve une copie chiffrée de votre passeport sur votre téléphone — accessible sans Internet, sans connexion. L’image chiffrée de la page d’identité de votre passeport constitue la copie numérique mentionnée dans cette liste. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Étape 5 — Notifiez votre assureur voyage
 

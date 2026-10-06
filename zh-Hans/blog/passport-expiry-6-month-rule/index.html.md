@@ -64,7 +64,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rul
 
 在任何国际旅行前，请始终使用IATA Travel Centre验证您的具体要求，这是航空公司实时检查乘客文件所使用的系统。
 
-**Travel Document Vault**会在您的护照在行程结束时有效期不足六个月时自动标记提醒，为每位家庭成员自动完成。在 [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)、[Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog) 均可下载。
+**Travel Document Vault** 通过 Pro 按已保存的行程结束后默认180天的缓冲期检查关联护照，除非您设置了自定义有效期缓冲。请另行核实目的地的实际规定。在 [App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)、[Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog) 均可下载。
 
 ## 6个月规则不适用的情况
 
@@ -104,7 +104,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rul
 
 在任何旅行前，从您离开该目的地的当天起向前数6个月，这是较晚的日期，因此能满足该规则的两种版本。检查您的护照过期日期与该日期的关系，而不仅仅是您的旅行日期。
 
-管理一个家庭中多本护照且过期日期不同的情况变得很复杂。[Travel Document Vault](https://traveldocumentvault.com)自动跟踪这一点，为每个家庭成员存储护照有效期，从提前八个月开始发送提醒，并在临近到期时再次提醒。在每次预订前无需进行心算。您也可以在博客上找到更多实用的[旅行文件提示](https://traveldocumentvault.com/zh-Hans/blog/)。
+管理一个家庭中多本护照且过期日期不同的情况变得很复杂。[Travel Document Vault](https://traveldocumentvault.com) 追踪您的护照到期日，Pro 支持添加全家成员。护照提醒默认从到期前八个月开始，并在临近到期时再次提醒。预订前请核实目的地的有效期规定。您也可以在博客上找到更多实用的[旅行文件提示](https://traveldocumentvault.com/zh-Hans/blog/)。
 
 ## 关于在出行前检查要求的说明
 
@@ -144,7 +144,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rul
 
 ### 如何检查我的护照是否符合6个月规则
 
-从您离开目的地的当天起向前数6个月，然后检查您的护照是否在该日期之后过期。这是各国使用的两个日期中较晚的一个，因此能同时满足两种情况。如果您计划在8月1日离开，您的护照需要至少有效至第二年的2月1日。Travel Document Vault等应用程序会为每个家庭成员自动跟踪这一点，因此您在每次旅行前不必进行数学计算。
+从您离开目的地的当天起向前数6个月，然后检查您的护照是否在该日期之后过期。这是各国使用的两个日期中较晚的一个，因此能同时满足两种情况。如果您计划在8月1日离开，您的护照需要至少有效至第二年的2月1日。通过 Pro，Travel Document Vault 会按已保存的行程结束后默认180天的缓冲期检查关联护照，除非您设置了自定义有效期缓冲。请另行核实目的地的实际规定；180天不一定等于六个日历月。
 
 ### 护照有效期是否需要满6个月才能前往欧洲旅行？
 
@@ -152,7 +152,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rul
 
 ### 如果一个家庭成员的护照符合规则，但另一个不符合怎么办
 
-每个家庭成员的护照根据目的地的有效期要求单独进行评估，没有群体规则。这意味着一个护照可能符合6个月要求，而另一个则不符合，这可能会阻止该人出国旅行。在预订前检查该群体中每个人的护照是否符合目的地的有效期要求。Travel Document Vault等应用程序让您单独跟踪每个家庭成员的护照有效期，以便您在办理登机手续前发现这些差距。
+每个家庭成员的护照根据目的地的有效期要求单独进行评估，没有群体规则。这意味着一个护照可能符合6个月要求，而另一个则不符合，这可能会阻止该人出国旅行。在预订前检查该群体中每个人的护照是否符合目的地的有效期要求。Travel Document Vault 追踪您的护照到期日，Pro 支持添加每位家庭成员。预订前，请按目的地的规定核实他们的日期。
 
 ### 如果我的护照将在3个月后过期，还能出行吗？
 

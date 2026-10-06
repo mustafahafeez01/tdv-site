@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/nl/faq/
 
 ---
 
-Privacy-first. Op het apparaat opgeslagen. Geen accounts nodig.
+Privacy-first. Standaard op het apparaat opgeslagen. Geen accounts nodig.
 
 # Veelgestelde Vragen
 
@@ -20,11 +20,11 @@ Alles wat u moet weten over Travel Document Vault.
 
 Kan de ontwikkelaar mijn documenten zien?
 
-Nee. Wij hebben geen servers en geen accounts. Uw documenten worden standaard op uw apparaat bewaard. Als u de optionele Pro-cloudback-up inschakelt, wordt uw kluis op het apparaat end-to-end versleuteld voordat hij naar uw eigen iCloud (iOS) of uw eigen Google Drive (Android) gaat, verzegeld met een herstelcode die alleen u heeft. Wij ontvangen uw gegevens nooit en kunnen de versleutelde back-up niet lezen. Apple en Google evenmin. De architectuur is vanaf het begin zo gebouwd.
+Nee. De lokale kluis heeft geen Travel Document Vault-account of -server nodig. Uw documenten worden standaard op uw apparaat bewaard. Als u de optionele Pro-cloudback-up inschakelt, wordt uw kluis op het apparaat end-to-end versleuteld voordat hij naar uw eigen iCloud (iOS) of uw eigen Google Drive (Android) gaat, verzegeld met een herstelcode die alleen u heeft. Wij ontvangen uw cloudback-up niet en kunnen de versleutelde documentinhoud ervan niet lezen. Apple en Google evenmin.
 
 Wat verzamelt Sentry-crashrapportage en kan ik het uitschakelen?
 
-Sentry is een crashrapportagetool die ons helpt bugs te vinden en te repareren. Het is **standaard uitgeschakeld** en verzendt helemaal niets wanneer het is uitgeschakeld. Als u ervoor kiest het in Instellingen in te schakelen, verzendt het alleen technische crashdiagnostiek zoals uw apparaattype en wat de app deed toen het crashte. Het verzendt nooit uw documenten, namen, paspoortnummers of iets uit uw kluis.
+Sentry is een crashrapportagetool die ons helpt bugs te vinden en te repareren. Het is **standaard uitgeschakeld** en verzendt helemaal niets wanneer het is uitgeschakeld. Als u ervoor kiest het in Instellingen in te schakelen, verzendt het opgeschoonde technische crashdiagnostiek. Sessieherhaling is een afzonderlijke opt-in. Crashrapporten worden opgeschoond om persoonsgegevens te beperken en documentbestanden worden niet bewust bijgevoegd.
 
 Wat bevat de Pro-upgrade?
 
@@ -36,11 +36,11 @@ Ja. Uw aankoop dekt elke update binnen de huidige hoofdversie (v1.x), inclusief 
 
 Wat gebeurt er als ik mijn telefoon verlies of naar een nieuwe overstap?
 
-Omdat we uw gegevens niet opslaan, kunnen we deze voor u niet herstellen. Systeemback-ups (iCloud of Google Backup) slaan het app-installatiebestand op, maar niet uw versleutelde documenten, aangezien de versleutelingssleutel nooit uw apparaat verlaat. Gebruik de gratis Vault Export-functie om een versleuteld .tdvault-bestand te maken en dit op uw nieuw apparaat te importeren. Pro-gebruikers kunnen ook versleutelde back-ups naar hun persoonlijke iCloud of Google Drive aanmaken.
+Pro-gebruikers: Schakel versleutelde cloudback-up in via Instellingen - Cloud Backup. Uw kluis wordt op uw apparaat versleuteld met uw herstelcode voordat deze iCloud (iOS) of Google Drive (Android) bereikt. Gebruik een ondersteund apparaat op hetzelfde platform en hetzelfde cloudaccount. Open Cloud Backup in Instellingen, kies uw back-up en herstel deze met uw herstelcode. Herstellen vervangt de lokale kluis. Documentinhoud is versleuteld; de cloudprovider kan back-upmetadata zien, zoals aantallen, tijdstempels en apparaatgegevens. Wij zien niets. Iedereen: Gebruik de gratis Vault Export (.tdvault) in Instellingen en importeer deze op een apparaat. Systeemback-ups (iCloud of Google) installeren de app opnieuw, maar kunnen uw documenten niet herstellen: ze zetten de apparaatgebonden versleutelingssleutel niet over, dus exporteer voordat u van telefoon wisselt.
 
 Werkt de app zonder internetverbinding?
 
-Ja, volledig. De app zelf heeft geen server en heeft geen internet nodig om te werken. Scannen, bekijken, exporteren en herinneringen werken allemaal offline. Slechts twee dingen hebben verbinding nodig: het herstellen van uw Pro-aankoop op een nieuw apparaat via de App Store of Google Play, en de optionele back-up naar uw eigen cloud, die uw eigen iCloud- of Google Drive-account gebruikt.
+Ja, volledig. De app zelf heeft geen server en heeft geen internet nodig om te werken. Scannen, bekijken, exporteren en herinneringen werken allemaal offline. Functies die een verbinding nodig hebben zijn onder andere aankopen en aankoopherstel via de winkels, updatecontroles en downloads, en optionele cloudback-up (Pro) naar uw eigen iCloud- of Google Drive-account. Uw herstelcode wijzigen terwijl cloudback-up aan staat vereist ook een verbinding.
 
 Welke talen ondersteunt de app?
 
@@ -48,11 +48,11 @@ De app is beschikbaar in meer dan 40 talen, inclusief volledige ondersteuning va
 
 Wat gebeurt er als u stopt met het ontwikkelen van de app?
 
-Uw documenten bevinden zich op uw apparaat, niet op onze servers, dus ze verdwijnen niet als we stoppen met het uitbrengen van updates. De app zal blijven werken zoals vandaag. U kunt ook op elk moment alles exporteren met behulp van ingebouwde exporttools, dus u zit nooit vast.
+Uw documenten bevinden zich op uw apparaat, niet op onze servers, dus ze verdwijnen niet als we stoppen met het uitbrengen van updates. Toegang tot uw opgeslagen kluis is niet afhankelijk van een Travel Document Vault-server; compatibiliteit met toekomstige besturingssystemen kan niet worden gegarandeerd. U kunt ook een versleutelde kopie van uw kluis exporteren, binnen de maximale exportgrootte en met leesbare bijlagebestanden.
 
 Wie heeft deze app gebouwd en waarom is het privacy-first?
 
-Travel Document Vault is gemaakt door Mustafa Hafeez, een senior softwareontwikkelaar met jarenlange professionele ervaring in het bouwen van privacyvriendelijke applicaties, en een ouder die deze app voor zijn eigen gezin nodig had. Privacy is geen marketingzin. De app is vanaf dag één zo ontworpen dat er geen accounts nodig zijn, dat er nooit servers van Travel Document Vault bij betrokken zijn en dat uw documenten alleen voor u leesbaar blijven. De optionele cloudback-up gebruikt uw eigen iCloud of Google Drive, end-to-end versleuteld met een herstelcode die alleen u heeft. Dat is een bewuste technische keuze, geen beleid dat met een schakelaar te veranderen is.
+Travel Document Vault is gemaakt door Mustafa Hafeez, een senior softwareontwikkelaar met jarenlange professionele ervaring in het bouwen van privacyvriendelijke applicaties, en een ouder die deze app voor zijn eigen gezin nodig had. Privacy is geen marketingzin. De lokale kluis heeft geen Travel Document Vault-account of -server nodig. Schakel appvergrendeling in om de toegang op een ontgrendelde telefoon te beperken. De optionele cloudback-up gebruikt uw eigen iCloud of Google Drive, end-to-end versleuteld met een herstelcode die alleen u heeft. Dat is een bewuste technische keuze, geen beleid dat met een schakelaar te veranderen is.
 
 Wilt u deze beweringen zelf verifiëren? Zie onze [Privacyverklaring](https://traveldocumentvault.com/privacy-policy/) voor volledige details over elk app-recht.
 
@@ -60,11 +60,11 @@ Wilt u deze beweringen zelf verifiëren? Zie onze [Privacyverklaring](https://tr
 
 Waar worden mijn gegevens opgeslagen?
 
-Al uw gegevens worden **uitsluitend op uw apparaat** opgeslagen. We hebben geen cloudservers, gebruikersaccounts of een manier om uw documenten in te zien. Wanneer u een document opslaat, blijft het in het beveiligde opslaggebied van uw telefoon.
+Standaard worden al uw gegevens **uitsluitend op uw apparaat** opgeslagen. Wij hebben geen servers die uw documenten bewaren en geen Travel Document Vault-gebruikersaccounts. Wanneer u een document opslaat, blijft het in het beveiligde opslaggebied van uw telefoon. Pro-gebruikers kunnen een optionele back-up naar hun eigen cloud inschakelen, die een end-to-end versleutelde kopie van hun kluis naar hun eigen iCloud- of Google Drive-account stuurt. Wij kunnen deze nog steeds niet lezen.
 
 Worden mijn gegevens in de cloud opgeslagen?
 
-De app heeft geen clouddatabase. We zien uw gegevens niet. Als u **iCloud-back-up** (iOS) of **Google Back-up** (Android) gebruikt voor uw hele telefoon, zijn de gegevens van deze app daarin opgenomen. **Uw gegevens blijven versleuteld binnen die back-ups.** Dit proces wordt beheerd door uw besturingssysteem, niet door ons.
+**Pro-gebruikers** kunnen versleutelde cloudback-up inschakelen in de app (Instellingen - Cloud Backup). Uw kluis wordt op uw apparaat versleuteld met uw herstelcode voordat deze naar **uw eigen iCloud** (iOS) of **uw eigen Google Drive AppFolder** (Android) wordt geüpload. Wij hebben geen toegang tot uw gegevens. De documentinhoud wordt versleuteld opgeslagen; sommige back-upmetadata blijven leesbaar.
 
 Kan ik gratis een back-up maken van mijn gegevens?
 
@@ -72,7 +72,7 @@ Ja. Vault Export (versleuteld .tdvault-back-upbestand) is gratis voor iedereen. 
 
 Wat gebeurt er als ik mijn telefoon verlies?
 
-Omdat we uw gegevens niet hebben, kunnen we deze voor u niet herstellen. Als u een nieuwe telefoon van een systeemback-up (iCloud/Google) herstelt, zouden uw gegevens opnieuw moeten verschijnen. Als u geen systeemback-ups gebruikt, zijn uw gegevens verloren.
+Een systeemback-up (iCloud-back-up, Google-back-up) installeert de app opnieuw, maar herstelt uw documenten niet: systeemback-ups zetten de apparaatgebonden versleutelingssleutel niet over. Gebruik cloudback-up (Pro) of de gratis Vault Export om uw kluis naar een nieuwe telefoon over te zetten.
 
 **Aanbeveling:** Gebruik de Exportfunctie om een kopie van uw belangrijke documenten elders op te slaan.
 
@@ -80,24 +80,24 @@ Wat als iemand mijn telefoon steelt? Zijn mijn documenten beschermd?
 
 Ja. Uw documenten zijn **versleuteld op schijf** in de opslag van de app. Dit beschermt tegen directe bestandsextractie (als iemand toegang krijgt tot de fysieke opslag van het apparaat, zijn de onbewerkte bestanden onleesbaar zonder de ontsleutelingssleutels).
 
-- **Versleuteling op schijf:** Elke documentafbeelding en PDF wordt versleuteld voordat het wordt opgeslagen.
+- **Versleuteling op schijf:** Opgeslagen originele kluisbijlagen zijn versleuteld; bekijken, scannen en delen kunnen tijdelijke leesbare kopieën maken.
 - **App-vergrendeling:** Voeg een tweede verdedigingslaag toe door PIN, Face ID of Touch ID in te schakelen in de app-instellingen.
 
 **Belangrijk:** Maximale beveiliging vereist een sterk apparaatwachtwoord. Als uw apparaat ontgrendeld is, zijn de versleutelingssleutels mogelijk toegankelijk voor degene die de telefoon vasthoudt.
 
 Verzamelt u analytics- of trackinggegevens?
 
-**Nee.** We gebruiken geen analytics-SDK's, advertentienetwerken of trackingdiensten. De enige externe dienst die we gebruiken is **Sentry** voor crashrapportage (die kan worden uitgeschakeld in instellingen). Crashrapporten bevatten alleen technische informatie. Nooit uw documenten of persoonlijke gegevens.
+**Nee.** We gebruiken geen analytics-SDK's, advertentienetwerken of trackingdiensten. Optionele **Sentry**-crashrapportage blijft uit totdat u deze in de instellingen inschakelt. Cloudback-up (Pro), winkelaankopen en updates gebruiken ook externe diensten. Crashrapporten bevatten opgeschoonde technische diagnostiek. Rapporten worden opgeschoond om persoonsgegevens te beperken en documentbestanden worden niet bewust bijgevoegd.
 
 Wat gebeurt er als ik de app verwijder?
 
-Al uw gegevens worden **definitief verwijderd** wanneer u de app verwijdert. Er is geen manier om ze daarna te herstellen, omdat we niets extern opslaan. **Voordat u verwijdert:** Exporteer uw documenten of maak een .tdvault-back-upbestand om ze elders op te slaan.
+Al uw gegevens op deze telefoon worden **definitief verwijderd** wanneer u de app verwijdert. Daarna kunnen ze niet worden hersteld, tenzij u een Vault Export hebt gemaakt of cloudback-up hebt ingeschakeld, omdat wij niets extern opslaan. **Voordat u verwijdert:** Exporteer uw documenten of maak een .tdvault-back-upbestand om ze elders op te slaan.
 
 ## Aanvullende Beveiliging
 
 Zijn mijn documentafbeeldingen versleuteld?
 
-**Ja.** Alle documentafbeeldingen en PDF's worden versleuteld voordat ze op uw apparaat worden opgeslagen. Dit betekent dat zelfs als iemand toegang krijgt tot de bestanden van uw telefoon, ze uw documenten niet kunnen bekijken.
+**Ja.** De originele afbeeldingen en PDF's in uw kluis zijn versleuteld. Bekijken, scannen en delen kunnen tijdelijke leesbare kopieën maken. Versleutelde opgeslagen originelen kunnen niet zonder hun ontsleutelingssleutels worden gelezen.
 
 **Voor maximale beveiliging:** We raden aan om App-vergrendeling in te schakelen en een sterk apparaatwachtwoord te gebruiken. Zie onze [Privacyverklaring](https://traveldocumentvault.com/privacy-policy/) voor volledige details.
 
@@ -115,29 +115,29 @@ Als u van een back-up herstelt, zullen uw documenten automatisch werken op uw ni
 
 Wat is "Tonen aan een ander persoon"?
 
-"Tonen aan een ander persoon" is een beschermde weergavemodus voor momenten waarop een grensbewaker, hotelreceptionist of vliegmaatschappijbediende een document op uw scherm moet zien. Tik op het pictogram en de app gaat in een schone, volledig schermweergave die **screenshots en schermopnamen blokkeert.** Wanneer ze uw telefoon teruggeven, brengt een enkele tik u terug naar uw kluis.
+"Toon aan een andere persoon" is een beschermde weergavemodus voor momenten waarop een grensbewaker, hotelreceptionist of vliegmaatschappijbediende een document op uw scherm moet zien. Stel eerst PIN-slot in en tik op het pictogram om een schermvullende weergave te openen waarin **bescherming tegen screenshots en schermopnamen standaard is ingeschakeld**, afhankelijk van uw apparaat en instellingen. Sluit de beschermde weergave en ontgrendel daarna de kluis met uw PIN of ingeschakelde biometrie.
 
-Uw documenten verlaten uw apparaat nooit. Deze modus geeft u gewoon een veilige, gecontroleerde manier om ze aan iemand anders te presenteren zonder toegang tot uw hele kluis te geven.
+Deze weergavemodus uploadt uw documenten niet. Stel eerst PIN-slot in, zodat het sluiten van de beschermde weergave de toegang tot uw kluis vergrendelt. Zonder PIN-slot beperkt de weergave de toegang tot de rest van uw kluis niet.
 
 Wat is een herstelcode en waarom heb ik er een nodig?
 
 Wanneer u App Lock instelt, genereert de app een unieke herstelcode die uw vangnet is als u uw PIN ooit vergeet. Sla deze op een veilige plaats op – uw wachtwoordmanager, een afgedrukte notitie, waar u dan ook vertrouwen hebt.
 
-Als u uw PIN vergeet, voert u uw herstelcode in op het PIN-scherm. App Lock wordt uitgeschakeld en u krijgt **volledige toegang zonder een enkel document kwijt te raken.**
+Als u uw PIN vergeet, voert u uw herstelcode in op het PIN-scherm. De herstelcode **ontgrendelt de app zonder uw documenten te verwijderen**; de app-vergrendeling blijft ingeschakeld.
 
-Zonder een herstelcode is de enige optie om de app te verwijderen en opnieuw te installeren, waardoor uw kluis permanent wordt verwijderd. Sla uw code op wanneer u hierom wordt gevraagd. U krijgt geen tweede kans.
+Als uw PIN en ingeschakelde biometrie de app niet kunnen ontgrendelen en u geen herstelcode hebt, moet u mogelijk de lokale kluis wissen en een opgeslagen back-up herstellen. Sla uw code op wanneer u hierom wordt gevraagd. Zolang u uw PIN nog weet, kunt u via Instellingen → Beveiliging een nieuwe code genereren.
 
 Wat is Auto-Erase?
 
-Auto-Erase wist uw kluis permanent als er te veel onjuiste PIN-pogingen worden gedaan. Het is **standaard uitgeschakeld.** Schakel het in via Instellingen → App Lock als u maximale bescherming tegen een gestolen telefoon wilt. Zodra er te veel onjuiste pogingen zijn gedaan, wordt elk document gewist en kan niet worden hersteld.
+Automatisch wissen is bedoeld om de kluis op deze telefoon te wissen na herhaaldelijk invoeren van een onjuiste PIN. Vertrouw er niet op als gegarandeerde beveiliging. Het is **standaard ingeschakeld** zodra u een PIN instelt. Schakel het uit via Instellingen → Beveiliging als u uw gegevens liever behoudt na mislukte pogingen. Als het lokale wissen is voltooid, is de kluis op deze telefoon verwijderd; herstel vereist een bruikbare, onafhankelijke back-up.
 
-**Belangrijk:** Schakel Auto-Erase alleen in nadat u een back-up voor kluisexport hebt gemaakt. Op deze manier kunt u, als deze per ongeluk wordt ingeschakeld, uit uw back-up herstellen. Het gebruik ervan samen met een herstelcode geeft u zowel maximale veiligheid als een duidelijk pad om terug naar binnen te gaan.
+**Belangrijk:** Maak een kluisexport als back-up voordat u op Automatisch wissen vertrouwt. Als de functie per ongeluk wordt geactiveerd, kunt u daarmee herstellen. Bewaar een onafhankelijke back-up met het benodigde wachtwoord of de herstelcode voordat u op Automatisch wissen vertrouwt.
 
 ## Functies
 
 Welke documenttypen kan ik opslaan?
 
-De app ondersteunt **Paspoorten**, **Nationale ID's** (voor- en achterkant), **Visa/Verblijfsvergunningen**, **Vliegkaartjes**, **Vouchers & Ingangskaartjes** (cadeaukaarten, promocodes, evenemententickets, met vervalherinneringen zodat ze niet verspild worden), **Overige Documenten** (reisverzekering, ziektekostenverzekering, vaccinatiebewijzen, lidmaatschappen, recepten, alles met een vervaldatum), en **Notities** (alleen tekst voor deadlines en herinneringen). U kunt documenten vastleggen via uw camera, importeren vanuit uw fotobibliotheek of PDF-bestanden importeren. Pro-gebruikers kunnen meerdere pagina's vastleggen voor Vliegkaartjes, Vouchers en Overige Documenten.
+De app ondersteunt **Paspoorten**, **Nationale ID's** (voor- en achterkant), **Visa/Verblijfsvergunningen**, **Vliegkaartjes**, **Vouchers & Ingangskaartjes** (cadeaukaarten, promocodes, evenemententickets, met vervalherinneringen zodat ze niet verspild worden), **Overige Documenten** (reisverzekering, ziektekostenverzekering, vaccinatiebewijzen, lidmaatschappen, recepten, alles met een vervaldatum), en **Notities** (tekst met optionele afbeeldingsbijlagen en herinneringen). U kunt documenten vastleggen via uw camera, importeren vanuit uw fotobibliotheek of PDF-bestanden importeren. Pro-gebruikers kunnen meerdere pagina's vastleggen voor Vliegkaartjes, Vouchers en Overige Documenten.
 
 Hoe werken vervalherinneringen?
 
@@ -145,15 +145,15 @@ Herinneringen starten vanzelf, afgestemd op het documenttype. Een paspoort ontva
 
 Wat is OCR en hoe werkt het?
 
-OCR (Optical Character Recognition) detecteert automatisch vervaldatums van uw documenten. Richt uw camera op een document en de app probeert de vervaldatum te lezen. Alle verwerking vindt plaats op uw telefoon, er wordt niets geüpload. Gedetecteerde datums worden gelabeld als "Gedetecteerd: controleer alstublieft" en vereisen uw bevestiging voordat ze worden opgeslagen.
+OCR (Optical Character Recognition) detecteert automatisch vervaldatums van uw documenten. Richt uw camera op een document en de app probeert de vervaldatum te lezen. Alle verwerking vindt plaats op uw telefoon, er wordt niets geüpload. Vink "Ik bevestig dat deze datum correct is" aan om de gedetecteerde datum te accepteren, of pas de datum handmatig aan voordat u opslaat.
 
 Kan ik mijn documenten exporteren?
 
-Ja! Gratis gebruikers kunnen individuele documenten delen. Pro-gebruikers krijgen krachtige batchtools: selecteer specifieke documenten (of ieders profielen) en genereer een **gecombineerde PDF** geoptimaliseerd voor afdrukken. U kunt zelfs aangepaste bestandsnamen instellen voor uw exports om uw digitale administratie overzichtelijk te houden.
+Ja. Gratis gebruikers kunnen individuele documenten delen. Pro voegt gecombineerde PDF-export toe: selecteer specifieke documenten (of ieders profielen) en genereer één **gecombineerde PDF** om af te drukken. U kunt aangepaste bestandsnamen instellen om uw exports overzichtelijk te houden.
 
 Hoe maakt de app een back-up van mijn gegevens?
 
-De app slaat alles op uw apparaat op. Als u iCloud (iOS) of Google Back-up (Android) hebt ingeschakeld, zijn uw documenten al beschermd via uw apparaatback-up. Pro-gebruikers kunnen een **met wachtwoord beveiligde versleutelde back-up** exporteren voor veilige opslag, en alle gebruikers kunnen op elk moment **herstellen vanuit een back-up** via Instellingen → Kluis importeren. We synchroniseren bewust niet met onze servers om uw privacy te beschermen.
+De app bewaart uw gegevens op uw apparaat. Met Pro kunt u versleutelde cloudback-up naar uw eigen iCloud (iOS) of Google Drive (Android) inschakelen. Uw kluis wordt vóór het uploaden op uw apparaat versleuteld met uw herstelcode. Wij zien uw gegevens nooit. Documentinhoud is versleuteld; de cloudprovider kan back-upmetadata zien, zoals aantallen, tijdstippen en apparaatinformatie. Back-ups worden automatisch gemaakt zolang de app open is en er verbinding is. Herstel met uw herstelcode op een ondersteund apparaat op hetzelfde platform en met hetzelfde cloudaccount. Herstellen vervangt de lokale kluis. De app bewaart ook gratis automatische lokale back-ups op uw apparaat. Systeemback-ups van iCloud of Google installeren de app opnieuw, maar herstellen uw documenten niet, omdat de apparaatgebonden versleutelingssleutel niet wordt overgezet. Alle gebruikers kunnen een **versleutelde kluisexport** maken via Instellingen → Kluis exporteren en die **herstellen via Instellingen → Back-up importeren**.
 
 Kan ik documenten delen met familieleden?
 
@@ -161,18 +161,18 @@ De app gebruikt **profielen** om documenten per gezinslid te organiseren, maar a
 
 Werkt de app offline?
 
-**Ja!** De app werkt volledig offline. U kunt documenten toevoegen, bekijken en herinneringen ontvangen zonder internetverbinding. Perfect voor reizen.
+**Ja.** U kunt offline documenten toevoegen, opgeslagen kopieën bekijken en vervalherinneringen ontvangen. Cloudback-up, aankopen en updates hebben een verbinding nodig.
 
 Hoe schakel ik App-vergrendeling in met PIN of Face ID/Touch ID?
 
-Ga naar **Instellingen → App-vergrendeling** om App-vergrendeling in te schakelen:
+Ga naar **Instellingen → Beveiliging** om de app-vergrendeling in te schakelen:
 
-- **PIN-vergrendeling (Gratis):** Stel een 4-cijferige PIN-code in. De app vereist deze PIN elke keer dat u hem opent.
+- **PIN-slot (Gratis):** Stel een 6-cijferige PIN-code in. De app-vergrendeling vraagt om authenticatie wanneer dat nodig is; ingeschakelde biometrie kan het invoeren van de PIN vervangen, en bij kort wisselen tussen apps geldt een respijtperiode van vijf seconden.
 - **Biometrische vergrendeling:** Schakel Face ID (iPhone met Face ID), Touch ID (iPhone met vingerafdruk) of vingerafdrukontgrendeling (Android) in. Gratis voor alle gebruikers, omdat beveiliging niet achter een betaalmuur hoort.
 
 **Beste praktijk:** Schakel App-vergrendeling in + stel uw apparaat in op automatisch vergrendelen na 30 seconden. Dit creëert meerdere beveiligingslagen: apparaatvergrendeling, dan app-vergrendeling, dan versleutelde bestanden.
 
-**Belangrijk: Vergeten PIN:** Als u uw PIN vergeet, is de enige manier om weer toegang te krijgen de app verwijderen en opnieuw installeren, wat **alle uw gegevens definitief verwijdert**. Ter bescherming van uzelf:
+**Belangrijk: Vergeten PIN:** Bewaar uw herstelcode wanneer u de app-vergrendeling instelt. Voer de code in op het PIN-scherm om de app te ontgrendelen **zonder uw documenten te verwijderen**. Zie "Wat is een herstelcode en waarom heb ik er een nodig?" voor meer informatie.
 
 - Exporteer een versleutelde back-up **voordat** u App-vergrendeling inschakelt (Instellingen → Kluis exporteren)
 - Bewaar uw PIN op een veilige plek (bijv. de wachtwoordmanager van uw apparaat)
@@ -180,31 +180,31 @@ Ga naar **Instellingen → App-vergrendeling** om App-vergrendeling in te schake
 
 Maakt de app automatische back-ups?
 
-**Ja, de app maakt elke paar minuten automatische lokale back-ups** (wanneer de app open is en wijzigingen worden aangebracht). Deze back-ups worden op uw apparaat opgeslagen en zijn opgenomen in uw iCloud (iOS) of Google (Android) apparaatback-up als u die diensten hebt ingeschakeld.
+**Ja, de app maakt elke paar minuten automatische lokale back-ups** (wanneer de app open is en wijzigingen worden aangebracht). Deze back-ups worden op uw apparaat opgeslagen. Een apparaatback-up van iCloud of Google kan uw documenten daaruit niet herstellen, omdat systeemback-ups de apparaatgebonden versleutelingssleutel niet overzetten.
 
 **Hoe het werkt:**
 
-- De app bewaart **10 roterende back-ups** op uw apparaat. Wanneer een 11e back-up wordt gemaakt, wordt de oudste automatisch verwijderd.
-- Back-ups zijn **versleuteld** met dezelfde bescherming als uw documenten.
-- Als de app crasht of u per ongeluk een document verwijdert, kunt u herstellen vanuit de meest recente back-up via **Instellingen → Kluis importeren**.
+- De app bewaart **enkele roterende back-ups** op uw apparaat. Oudere back-ups worden verwijderd zodra de lokale bewaarlimiet is bereikt.
+- Back-ups blijven in de **privéopslag** van de app op uw apparaat.
+- Een geldige lokale back-up kan eerdere kluisgegevens herstellen via **Instellingen → Lokale back-up herstellen**, maar kan definitief verwijderde bijlagebestanden niet terughalen. Gebruik Recent verwijderd voor gewone verwijderingen.
 
 **Vault Export:** U kunt een versleuteld .tdvault-bestand exporteren en opslaan in Bestanden, iCloud Drive, of delen via AirDrop/e-mail voor opslag buiten het apparaat. Dit wordt aanbevolen vóór grote updates of apparaatwijzigingen.
 
 Wat betekent "Laatste back-up: 2 uur geleden, 12 documenten" in Instellingen?
 
-Die regel toont de meest recente automatische lokale back-up van de app: hoe lang geleden die werd opgeslagen en hoeveel documenten die bevat. Het geeft u de zekerheid dat er een herstelbare kopie op uw apparaat bestaat. Tik op Lokale back-up herstellen om ernaar terug te keren.
+Die regel toont de meest recente automatische lokale back-up van de app: hoe lang geleden die werd opgeslagen en hoeveel documenten die bevat. Het toont de laatst beschikbare lokale momentopname. Tik op Lokale back-up herstellen om de opgeslagen gegevens te herstellen. Lokale momentopnamen bevatten geen onafhankelijke kopieën van bijlagebestanden.
 
 Hoe herstel ik mijn kluis vanuit een lokale back-up?
 
-Ga naar Instellingen en tik op Lokale back-up herstellen. De app toont een lijst met beschikbare back-ups met tijdstempels. Kies degene die u wilt en bevestig. Om te herstellen vanuit een .tdvault-bestand dat u hebt geëxporteerd, tikt u in plaats daarvan op Kluis importeren en selecteert u het bestand. Beide opties zijn gratis voor iedereen. Herstellen vervangt uw huidige gegevens door de inhoud van de back-up.
+Ga naar Instellingen en tik op Lokale back-up herstellen. De app toont een lijst met beschikbare back-ups met tijdstempels. Kies degene die u wilt en bevestig. Om te herstellen vanuit een .tdvault-bestand dat u hebt geëxporteerd, tikt u in plaats daarvan op Back-up importeren en selecteert u het bestand. Beide opties zijn gratis voor iedereen. Herstellen vervangt uw huidige gegevens door de inhoud van de back-up.
 
 De app toont een herstelscherm of meldt dat mijn gegevens niet konden worden geladen. Wat moet ik doen?
 
-De app wist uw gegevens nooit stilletjes. Als de lokale opslag niet kan worden gelezen, toont de app een herstelscherm in plaats van iets te verwijderen. Tik op Lokale back-up herstellen om te herstellen vanuit de meest recente automatische back-up, of tik op Kluis importeren om te herstellen vanuit een .tdvault-bestand dat u eerder hebt geëxporteerd. Back-ups die zijn gemaakt vóór een recente app-update kunnen ook worden hersteld. Uw documenten zijn herstelbaar en er is niets verwijderd.
+Als de app de lokale opslag niet kan lezen, toont deze een herstelscherm en bewaart de onleesbare gegevens. Tik op Herstellen om gegevens uit een van uw automatische lokale back-ups terug te zetten, of ga naar Instellingen en tik op Back-up importeren om een eerder geëxporteerd .tdvault-bestand te herstellen. Back-ups die zijn gemaakt vóór een recente app-update kunnen ook worden hersteld. Uw eerdere gegevens worden bewaard, niet verwijderd.
 
 Waarom heeft de app een back-up gemaakt vóór het bijwerken?
 
-Vóór een grote upgrade van het gegevensformaat maakt de app automatisch een momentopname van uw kluis, zodat er teruggerold kan worden als er iets misgaat. Het proces is automatisch en gratis voor iedereen.
+Vóór een grote upgrade van het gegevensformaat maakt de app automatisch een momentopname van uw kluis. Als er een geldige, leesbare momentopname van vóór de upgrade beschikbaar is, kunt u proberen deze via Instellingen te herstellen. Het proces is automatisch en gratis voor iedereen.
 
 Kan ik de herinneringstiming aanpassen?
 
@@ -216,7 +216,7 @@ Tik op een willekeurig document → Bewerken → Sectie Herinneringen (alleen Pr
 
 Hoe selecteer ik meerdere documenten?
 
-Pro-gebruikers kunnen op **"Selecteren"** tikken rechtsboven in de documentenlijst om de selectiemodus in te gaan. Tik op documenten om ze te selecteren of deselecteren, en gebruik vervolgens de knop **Acties** om een gecombineerde PDF te exporteren, originele bestanden te delen of de geselecteerde documenten te verwijderen. U kunt ook **lang indrukken** op een documentkaart voor een snel contextmenu met dezelfde opties voor dat ene document.
+Open het menu met extra opties in de documentenlijst en tik op **"Documenten selecteren"** om de selectiemodus te openen. Tik op documenten om ze te selecteren of deselecteren. Gebruik daarna de knoppen **Verwijderen, Delen of PDF** onderaan om de geselecteerde documenten te verwijderen, originele bestanden te delen of een gecombineerde PDF te exporteren (Pro). U kunt ook **lang drukken** op een documentkaart voor een snel contextmenu met dezelfde opties voor dat ene document.
 
 Kan ik een bulkverwijdering ongedaan maken?
 
@@ -228,11 +228,11 @@ Druk lang (ingedrukt houden) op een willekeurige documentkaart in uw lijst om ee
 
 Kan ik medische documenten of recepten opslaan?
 
-Ja. U kunt ziektekostenverzekeringspassen, herhalingsrecepten, vaccinatiebewijzen en alle andere gezondheidsgerelateerde documenten opslaan. Gebruik het type **Notitie** of **Document**, voeg een vervaldatum toe en de app stuurt u herinneringen vóór de verlenging, op dezelfde manier als voor paspoorten en visa. Alles blijft op uw apparaat, versleuteld en nooit ergens naartoe geüpload.
+Ja. U kunt ziektekostenverzekeringspassen, herhalingsrecepten, vaccinatiebewijzen en alle andere gezondheidsgerelateerde documenten opslaan. Kies **Notitie** of **Overige** en sla een vervaldatum op. Herinneringen staan standaard aan, met een schema op basis van het documenttype. Alles blijft versleuteld op uw apparaat. Als u optionele cloudback-up met Pro inschakelt, gaat de versleutelde kopie naar uw eigen iCloud of Google Drive, beveiligd met een herstelcode die alleen u hebt.
 
 Kan ik een herinnering uitstellen?
 
-Ja. Wanneer een herinnering afgaat, tikt u **Uitstellen** rechtstreeks van de melding. Kies 1 uur, later vandaag, morgen of volgende week. De app zal het automatisch opnieuw indelen. U kunt dit ook uitstellen vanuit de app op het scherm met documentdetails. De herinnering komt op het exacte moment dat u hebt gekozen. Geen noodzaak om handmatig te controleren.
+Ja. Wanneer een herinnering verschijnt, kunt u die rechtstreeks vanuit de melding **uitstellen**. Kies 1 uur, 3 uur, morgen of volgende week. De app plant de herinnering automatisch opnieuw in. U kunt een herinnering ook vanuit de app uitstellen op het tabblad Meldingen. De app plant de uitgestelde herinnering voor het door u gekozen tijdstip.
 
 Kan ik mijn documenten kleurcoderen?
 
@@ -250,31 +250,31 @@ Wanneer is de Android-versie beschikbaar?
 
 **De Android-versie komt begin 2026.** We bevinden ons momenteel in gesloten tests om te zorgen dat dezelfde privacy-first ervaring met opslag op het apparaat perfect werkt op Android-apparaten.
 
-De Android-versie heeft gelijke functies met iOS, inclusief versleutelde opslag op het apparaat, OCR-scanning, vervalherinneringen en alle Pro-functies (onbeperkte profielen, batchexport van documenten en aangepaste herinneringstiming).
+Android ondersteunt versleutelde opslag op het apparaat, OCR-scanning en vervalherinneringen. Met Pro kunt u onbeperkte profielen, batchexport naar PDF en aangepaste herinneringstiming gebruiken.
 
 Kan ik mijn gegevens overdragen van iPhone naar Android (of omgekeerd)?
 
-**Ja, via versleutelde Vault Export.** Exporteer een versleuteld .tdvault-bestand van uw huidige apparaat (Instellingen → Kluis exporteren), breng het over naar uw nieuwe apparaat (via e-mail, cloudopslag of directe overdracht), en gebruik vervolgens Instellingen → Kluis importeren om uw documenten te herstellen.
+**Ja, via versleutelde Vault Export.** Exporteer een versleuteld .tdvault-bestand van uw huidige apparaat (Instellingen → Kluis exporteren), breng het over naar uw nieuwe apparaat (via e-mail, cloudopslag of directe overdracht), en gebruik vervolgens Instellingen → Back-up importeren om uw documenten te herstellen. Dit vervangt alle gegevens die al op het nieuwe apparaat staan.
 
-Dit werkt platformonafhankelijk omdat het versleutelingsformaat universeel is. U hebt het wachtwoord nodig dat u gebruikte bij het exporteren van de kluis.
+Dit werkt platformonafhankelijk omdat het versleutelingsformaat universeel is. U hebt het wachtwoord nodig dat u gebruikte bij het exporteren van de kluis. Pro-aankopen kunnen binnen hetzelfde platform en winkelaccount worden hersteld; overstappen tussen iOS en Android vereist een afzonderlijke Pro-aankoop.
 
 Hoeveel opslagruimte gebruikt de app?
 
-De app zelf is klein (~15 MB download). **Het gebruik van de opslagruimte hangt volledig af van hoeveel documenten u opslaat en hun fotokwaliteit.** Een typische paspoortfoto (hoge kwaliteit) is 2-4 MB. Met 20 documenten kunt u ongeveer 40-80 MB aan opslag verwachten.
+**Het opslaggebruik hangt af van het aantal documenten en de bestandsgrootte, plus kluismetadata, back-ups en tijdelijke bestanden.**
 
-De app bevat 10 automatische back-ups, gecomprimeerde kopieën van uw documenten, die minimale extra ruimte toevoegen (~10-20% meer). Er is geen harde limiet op het aantal documenten (Pro-gebruikers krijgen onbeperkt), maar praktische limieten zijn afhankelijk van de beschikbare opslag van uw apparaat.
+De app bewaart enkele automatische back-ups van uw kluisgegevens. Gratis gebruikers kunnen maximaal vijf documenten toevoegen. Met Pro is er geen limiet aan het aantal documenten, afhankelijk van de beschikbare opslagruimte op uw apparaat.
 
 Waarom heeft de app toegang nodig tot camera en fotobibliotheek?
 
 **Camera:** Om foto's van uw documenten direct in de app te maken. **Fotobibliotheek:** Om bestaande documentfoto's die u al heeft gemaakt te importeren.
 
-We **uploaden nooit** uw foto's ergens naartoe. Alle verwerking (inclusief OCR-scanning) vindt plaats op uw apparaat. U kunt deze rechten weigeren, maar dan kunt u geen documenten toevoegen (de primaire functie van de app). Als u rechten per ongeluk heeft geweigerd, kunt u ze opnieuw inschakelen via Instellingen van uw apparaat → Privacy → Camera / Foto's → Travel Document Vault.
+We **uploaden uw foto's nooit naar onze servers**. We hebben geen servers die uw documenten opslaan. Alle verwerking (inclusief OCR-scanning) vindt plaats op uw apparaat. Als u optionele cloudback-up met Pro inschakelt, gaat de versleutelde kluis naar uw eigen iCloud of Google Drive, beveiligd met een herstelcode die alleen u hebt. Ook als u camera- en fotorechten weigert, kunt u documentgegevens handmatig toevoegen of een PDF importeren. Als u rechten per ongeluk heeft geweigerd, kunt u ze opnieuw inschakelen via Instellingen van uw apparaat → Privacy → Camera / Foto's → Travel Document Vault.
 
 ## Prijzen & Aankopen
 
 Wat is het verschil tussen Gratis en Pro?
 
-**Gratis** bevat 1 profiel en maximaal 5 documenten met volledige functionaliteit, inclusief OCR-scanning, vervalherinneringen, documenten delen, PIN-vergrendeling en biometrische vergrendeling (Face ID / Touch ID). **Pro** (eenmalige aankoop*) ontgrendelt onbeperkte profielen, onbeperkte documenten, gecombineerde PDF-export, batchexport (.tdvault), aangepaste herinneringstiming en meerpagina vastlegging voor Vliegkaartjes en Overige Documenten.
+**Gratis** bevat 1 profiel en maximaal 5 documenten met de basisfuncties, inclusief OCR-scanning, vervalherinneringen, documenten delen, PIN-vergrendeling en biometrische vergrendeling (Face ID / Touch ID). **Pro** (eenmalige aankoop*) ontgrendelt onbeperkte profielen, onbeperkte documenten, gecombineerde PDF-export, versleutelde cloudback-up, aangepaste herinneringstiming en meerpagina vastlegging voor Vliegkaartjes en Overige Documenten.
 
 * Zie [Prijsbeleid](https://traveldocumentvault.com/pricing-policy/#version-policy) voor versioneringdetails.
 
@@ -286,13 +286,13 @@ Is Pro een abonnement?
 
 Kan ik mijn aankoop herstellen op een nieuw apparaat?
 
-**Ja.** Ga naar Instellingen in de app en tik op "Aankopen herstellen." Zolang u bent aangemeld met dezelfde Apple ID of Google-account, wordt uw Pro-aankoop hersteld. Opmerking: uw documenten worden niet overgedragen. Alleen de Pro-ontgrendeling.
+**Ja.** Ga naar Instellingen in de app en tik op "Aankopen herstellen". Gebruik op hetzelfde platform het winkelaccount waarmee u Pro hebt gekocht; herstel vereist een verbinding en een geldig aankooprecht dat de winkel teruggeeft. Opmerking: uw documenten worden niet overgedragen. Alleen de Pro-ontgrendeling.
 
 Krijg ik toekomstige updates als ik Pro koop?
 
 **Ja.** Pro is een eenmalige aankoop voor de **huidige hoofdversie** (v1.x). U ontvangt gratis alle bugfixes, beveiligingsupdates en functietoevoegingen binnen die versie.
 
-Als we in de toekomst een grote versie 2.0 uitbrengen met aanzienlijk nieuwe functies, kan dat een afzonderlijke upgrade-aankoop vereisen. We geven vooraf bericht en vroegboekersprijs aan bestaande Pro-gebruikers. Dit beleid zorgt ervoor dat we de app kunnen blijven verbeteren terwijl de initiële prijs betaalbaar blijft.
+Als we in de toekomst een grote versie 2.0 uitbrengen met aanzienlijk nieuwe functies, kan dat een afzonderlijke upgrade-aankoop vereisen. We geven vooraf bericht en vroegboekersprijs aan bestaande Pro-gebruikers. Dit beleid ondersteunt verdere verbeteringen aan de app met een eenmalige aankoop.
 
 Lees meer in ons [Prijsbeleid](https://traveldocumentvault.com/pricing-policy/).
 
@@ -318,7 +318,7 @@ OCR werkt het beste bij goede belichting en een vlak document. Probeer de hoek o
 
 Waarom is mijn documentafbeelding wazig of van lage kwaliteit?
 
-Documentkwaliteit hangt volledig af van uw camera en lichtomstandigheden. We wijzigen, verbeteren of verbeteren afbeeldingen niet. Wat u vastlegt, is wat u krijgt. Voor beste resultaten: gebruik goede belichting (daglicht werkt goed), houd uw telefoon stil, zorg ervoor dat het document plat is en volledig zichtbaar in het kader, en reinig uw cameralens. Hetzelfde geldt voor geëxporteerde PDF's. Afdrukkwaliteit weerspiegelt uw originele opnamekwaliteit.
+De documentkwaliteit hangt af van de bronafbeelding, de belichting en het bijsnijden, schalen en comprimeren door de app. Opgeslagen foto’s kunnen worden bijgesneden, verkleind en gecomprimeerd; OCR kan een tijdelijke kopie verbeteren voor tekstherkenning. Voor beste resultaten: gebruik goede belichting (daglicht werkt goed), houd uw telefoon stil, zorg ervoor dat het document plat is en volledig zichtbaar in het kader, en reinig uw cameralens. Hetzelfde geldt voor geëxporteerde PDF's. Afdrukkwaliteit weerspiegelt uw originele opnamekwaliteit.
 
 De app is gecrasht. Ben ik mijn gegevens kwijt?
 
@@ -334,17 +334,17 @@ Uw herstelcode is een 24-karakters wachtwoordzin die uw cloudbacking versleutelt
 
 Hoe is mijn cloudbacking versleuteld?
 
-Uw kluis wordt end-to-end versleuteld met AES-256-GCM op uw apparaat voordat het uw telefoon verlaat. De sleutel is afgeleid van uw herstelcode. Apple en Google kunnen het versleutelde bestand op hun servers zien, maar kunnen het niet ontsleutelen. Dat kunnen wij ook niet. Alleen uw herstelcode ontgrendelt het.
+Uw kluis wordt end-to-end versleuteld met AES-256-GCM op uw apparaat voordat het uw telefoon verlaat. Een sleutel die van uw herstelcode is afgeleid, beschermt de willekeurig gegenereerde kluisversleutelingssleutel. Apple en Google kunnen het versleutelde bestand op hun servers zien, maar kunnen het niet ontsleutelen. Dat kunnen wij ook niet. Uw herstelcode ontgrendelt de cloudversleutelingssleutel; ingestelde apparaten behouden toegang voor automatische back-ups.
 
 [Lees volledige gids →](https://traveldocumentvault.com/nl/faq/backup-explained/)
 
 Hoe werken PIN, Face ID en herstelcode samen?
 
-Uw PIN is de dagelijkse vergrendeling. Face ID is een snelle snelkoppeling om te ontgrendelen. De herstelcode is de hoofdsleutel voor wanneer u uw PIN volledig bent vergeten. Als Face ID mislukt, probeert u uw PIN. Als u uw PIN bent vergeten, voert u uw herstelcode in. Als u de herstelcode verliest, moet u de app opnieuw installeren en herstellen vanuit de cloudbacking.
+Uw PIN is de dagelijkse vergrendeling. Face ID is een snelle snelkoppeling om te ontgrendelen. De herstelcode is de hoofdsleutel voor wanneer u uw PIN volledig bent vergeten. Als Face ID mislukt, probeert u uw PIN. Als u uw PIN bent vergeten, voert u uw herstelcode in. Als geen enkele ontgrendelmethode werkt, moet u mogelijk de lokale kluis resetten en vervolgens een export of een cloudback-up herstellen waarvoor u de herstelcode nog hebt.
 
 Hoe kan ik mijn kluis exporteren en importeren?
 
-Elke gebruiker kan zijn volledige kluis exporteren als een versleuteld, met een wachtwoord beveiligd back-upbestand (.tdvault) via Instellingen. Sla het op in Bestanden, e-mail het naar uzelf, of bewaar het op een USB-stick. Importeer het op elk apparaat via Instellingen → Kluis importeren. Het round-trip behoudt alles precies. (Gecombineerde PDF-export van meerdere documenten tegelijk is een afzonderlijke Pro-functie.) Zie de handleiding voor exporteren/importeren voor stapsgewijze instructies met schermafbeeldingen.
+U kunt ondersteunde kluisgegevens en beschikbare bijlagen via Instellingen exporteren als een versleuteld, met een wachtwoord beveiligd back-upbestand (.tdvault), binnen de maximale bestandsgrootte, en dit importeren in een compatibele installatie van de app. Exporteren en importeren dragen ondersteunde kluisgegevens en beschikbare bijlagen over; beveiligingsinstellingen, voorkeuren en sommige interne gegevens worden niet exact gekopieerd. (Gecombineerde PDF-export van meerdere documenten tegelijk is een afzonderlijke Pro-functie.) Zie de handleiding voor exporteren/importeren voor stapsgewijze instructies met schermafbeeldingen.
 
 [Lees volledige gids →](https://traveldocumentvault.com/nl/faq/export-import/)
 
@@ -354,11 +354,11 @@ Stel uzelf één vraag: bent u te gast in dit land, of is het uw thuis? Gasten t
 
 Wat zijn gezinsprofielen?
 
-Elk gezinslid is een afzonderlijk profiel met hun eigen documenten, foto's en herinneringen – uw gegevens zijn van u, die van uw partner zijn van hen, en profielen zijn alleen lokaal zodat ze nooit worden gesynchroniseerd tussen apparaten of personen. Dit ontwerp respecteert privacy en zorgt ervoor dat geen gevoelige documenten per ongeluk worden gemengd.
+Met Pro helpen profielen u de documenten, foto's en herinneringen van elk gezinslid binnen dezelfde kluis te ordenen. Ze hebben geen afzonderlijke toegangsvergrendelingen. Met cloudback-up aan synchroniseren profielen naar apparaten die met dezelfde cloudkluis verbonden zijn.
 
 Wat gebeurt er wanneer ik iets verwijder?
 
-Verwijderde items gaan 30 dagen naar de prullenmand. U kunt deze op elk moment tijdens dat venster herstellen. Na 30 dagen zijn ze permanent weg van uw apparaat en cloudbacking. Het legen van de prullenmand of het resetten naar fabrieksinstellingen van uw telefoon is onomkeerbaar.
+Zonder cloudback-up gaan verwijderde items 30 dagen naar de prullenmand en worden daarna definitief van uw apparaat verwijderd. U kunt ze op elk moment tijdens die 30 dagen herstellen. Met cloudback-up blijven items onbeperkt in Recent verwijderd totdat u op Voor altijd verwijderen tikt. Zie de sectie over cloudback-up hieronder voor meer informatie. De prullenmand legen of uw telefoon terugzetten naar de fabrieksinstellingen verwijdert lokale gegevens; herstel vereist een bruikbare, onafhankelijke back-up.
 
 ## Juridisch & Disclaimers
 
@@ -378,15 +378,15 @@ Verwijderen verplaatst het naar Onlangs verwijderd (prullenbak). Het blijft daar
 
 Wat gebeurt er als ik al mijn documenten verwijder?
 
-De app synchroniseert een lege kluis niet naar de cloud. Uw bestaande back-up blijft bewaard. U kunt hem terugzetten via Instellingen, Cloudback-up, Herstellen vanaf back-up.
+De app blokkeert sommige uploads van lege kluizen om bestaande back-ups te beschermen; verwijderde records en andere kluisgegevens kunnen nog steeds synchroniseren. Herstel is afhankelijk van een bruikbare, bewaarde back-up. U kunt die herstellen via Instellingen, Cloud Backup, Herstellen uit Back-up.
 
 Hoe stel ik cloudback-up in op een tweede apparaat?
 
-Als u cloudback-up inschakelt op een nieuw apparaat dat is aangemeld bij hetzelfde iCloud- of Google-account, herkent de app uw bestaande back-up en vraagt of die hersteld moet worden of dat u opnieuw wilt beginnen. Kies Herstellen vanaf back-up en voer uw herstelcode in. Beide apparaten delen daarna dezelfde back-up. Opnieuw beginnen vervangt de bestaande back-up: kies dat alleen als u het zeker weet.
+Als u cloudback-up inschakelt op een nieuw apparaat dat is aangemeld bij hetzelfde iCloud- of Google-account, herkent de app uw bestaande back-up en vraagt of u die wilt herstellen of een nieuwe back-up wilt maken. Kies uw back-up, tik op Herstellen en voer uw herstelcode in. Beide apparaten delen daarna dezelfde back-up. Een nieuwe back-up maken laat de bestaande back-up intact.
 
 Kan ik cloudback-up op meerdere apparaten tegelijk gebruiken?
 
-Cloudback-up is bedoeld als back-up van één apparaat met herstel op meerdere. Eén apparaat is de primaire bron. Om over te stappen op een nieuw apparaat, herstelt u daar vanaf uw back-up. Tegelijk bewerken op twee apparaten die naar dezelfde back-up synchroniseren wordt niet ondersteund: het laatst gesynchroniseerde apparaat wint.
+Ja, met Synchroniseren tussen apparaten ingeschakeld via Instellingen → Cloud Backup. Apparaten op hetzelfde platform controleren op wijzigingen zolang de app open is en er verbinding is. Sommige wijzigingen worden automatisch samengevoegd; bij sommige conflicten kunt u een versie kiezen, hoewel notitietekst niet in de vergelijking wordt getoond. Om over te stappen op een nieuw apparaat, herstelt u daar vanaf uw back-up.
 
 Wat als ik cloudback-up inschakel terwijl ik offline ben?
 
@@ -394,7 +394,7 @@ U hebt een internetverbinding nodig om cloudback-up in te schakelen. Tijdens het
 
 Is mijn back-up beschermd als ik per ongeluk iets verwijder?
 
-Ja, meerdere lagen beschermen u. Verwijderde documenten blijven onbeperkt in Onlangs verwijderd staan (geen automatische opruiming met cloudback-up aan). Definitief verwijderen vraagt om een aparte bevestiging die waarschuwt voor het effect op de cloud. Zelfs na definitief verwijderen bewaart de back-up de documentgegevens nog enkele synchronisatierondes als vangnet. En een lege kluis wordt nooit naar de cloud gesynchroniseerd, dus een massale vergissing kan uw back-up niet wissen.
+Ja, meerdere lagen beschermen u. Verwijderde documenten blijven onbeperkt in Onlangs verwijderd staan (geen automatische opruiming met cloudback-up aan). Definitief verwijderen vraagt om een aparte bevestiging die waarschuwt voor het effect op de cloud. Eerdere back-upversies kunnen het document bewaren totdat de bewaartermijn verstrijkt of de back-up wordt opgeschoond. Beveiliging tegen lege uploads en bewaarde back-upversies kunnen helpen na onbedoeld verwijderen; bewaar ook een onafhankelijke export.
 
 Moet ik ook eigen kopieën bewaren?
 
@@ -402,7 +402,7 @@ Ja. Cloudback-up is één beveiligingslaag, maar geen enkel systeem is perfect. 
 
 Wat gebeurt er als ik mijn herstelcode kwijtraak?
 
-Uw herstelcode is de enige sleutel om uw cloudback-up te ontsleutelen. Ons ontwerp is zero-knowledge, wat betekent dat wij hem niet kunnen resetten, opvragen of voor u herstellen. Apple en Google evenmin. Raakt u uw herstelcode kwijt, dan wordt uw versleutelde back-up definitief onherstelbaar. Bewaar uw herstelcode op een veilige plek voordat u op cloudback-up gaat vertrouwen: een wachtwoordmanager, een afdruk op een beveiligde plaats, of allebei. Controleer of u hem echt kunt teruglezen voordat u hem als enige kopie bewaart.
+Uw herstelcode ontgrendelt de versleutelingssleutel van uw cloudback-up; ingestelde apparaten bewaren die voor automatische back-ups. Ons ontwerp is zero-knowledge, wat betekent dat wij hem niet kunnen resetten, opvragen of voor u herstellen. Apple en Google evenmin. Als u uw herstelcode kwijtraakt en geen toegang meer hebt tot enig ingesteld apparaat dat de sleutel bewaart, wordt uw versleutelde cloudback-up onherstelbaar. Bewaar uw herstelcode op een veilige plek voordat u op cloudback-up gaat vertrouwen: een wachtwoordmanager, een afdruk op een beveiligde plaats, of allebei. Controleer of u hem echt kunt teruglezen voordat u hem als enige kopie bewaart.
 
 [Voor een volledige vergelijking, zie waarom gezinnen kiezen voor Travel Document Vault →](https://traveldocumentvault.com/nl/why-us/)
 

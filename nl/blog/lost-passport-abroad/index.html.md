@@ -62,7 +62,7 @@ Wat je meestal nodig hebt (bevestig dit met je ambassade voordat je langsgaat):
 - Bewijs van doorreis - vluchtboeking, hotelbevestiging
 - Vergoeding voor het nooddocument - houd zowel contant geld als een kaart bij de hand
 
-**Travel Document Vault** bewaart een versleutelde kopie van je paspoort op je telefoon – toegankelijk zonder internet, zonder inloggen. Alle paspoortgegevens op die lijst staan erin. [Download van de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** bewaart een versleutelde kopie van je paspoort op je telefoon – toegankelijk zonder internet, zonder inloggen. De versleutelde afbeelding van de gegevenspagina van je paspoort is de digitale kopie op die lijst. [Download van de App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Stap 5: Meld het bij je reisverzekeraar
 

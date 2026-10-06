@@ -1,6 +1,6 @@
 # Reisplanner voor gezinnen | Travel Document Vault
 
-> Plan gezinsreizen met zekerheid: stoplicht voor reisgereedheid, paklijsten en dagenteller per land, per gezinslid. Volledig offline.
+> Plan met Pro gezinsreizen met zekerheid: stoplicht voor reisgereedheid, paklijsten en dagenteller per land, per gezinslid. Volledig offline.
 
 Source: https://traveldocumentvault.com/nl/trip-planner/
 
@@ -12,7 +12,7 @@ Vijf functies die familievakantieplanning stressloos maken.
 
 ### Bereïdheidsampeul
 
-Groen betekent dat iedereen klaar is, terwijl geel markeert wiens documenten binnenkort verlopen – geen verrassingen meer de avond voor de reis.
+Groen betekent dat gekoppelde documenten slagen voor de controles die u instelt voor uw opgeslagen reisdatums. Geel markeert zaken die aandacht nodig hebben.
 
 Elk gezinslid krijgt zijn eigen bereïdheidsstatus op basis van vervaldatums van documenten en reiscontext.
 
@@ -24,21 +24,21 @@ Gebouwd voor gezinnen met 2 - 10+ leden. Werkt voor partners, kinderen, grootoud
 
 ### Packlist
 
-Reispakket-checklist afgestemd op reisduur en bestemming die u afvinkt terwijl u inpakt – u zult nooit meer zonnebrandcrème vergeten.
+Reischecklist voor vakantie- of zakenreizen die u afvinkt terwijl u inpakt – zo vergeet u de stekkeradapter niet meer.
 
-Checklists passen zich aan weer, reisduur en reistype aan (strand, stad, skiën, enz.).
+Checklists beginnen met een vakantie- of zakensjabloon en u kunt per reis items toevoegen of verwijderen.
 
 ### Weet wat u mag verwachten
 
-Bestemmingspanel met inreisbepalingen, visumregels en reistips voor elk land – geen verrassingen bij het instappen.
+Bestemmingspaneel met valuta, taal, stekkertype, netspanning en verkeerskant voor populaire bestemmingen – geen verrassingen bij aankomst.
 
-Toont Schengen-regels, visum-geldigheidsvensfers en lokale gewoonten. Alles bijgewerkt voor huidige reisbepalingen.
+Bevat bijna 60 van de meest bezochte bestemmingen, ingebouwd in de app zodat het offline werkt.
 
 ### Dagenlimieten per land
 
-Volg hoeveel dagen elk gezinslid in een land heeft doorgebracht door perioden te creëren (Schengengebied-jaar, visumvenster, belastingjaar) en toelagenregels eraan te koppelen – zie dan een uitsplitsing per lid in één oogopslag.
+Volg hoeveel dagen elk gezinslid in een land heeft doorgebracht door perioden te creëren (visumvenster of belastingjaar) en toelagenregels eraan te koppelen – zie dan een uitsplitsing per lid in één oogopslag.
 
-Ontworpen voor voortschrijdende limieten zoals 90/180 in één land, Britse 183-dagenregels en aangepaste visum- of verblijfsvensters. Gebruikte dagen worden automatisch bijgewerkt terwijl reizen worden geregistreerd.
+Stel een vaste of voortschrijdende periode per land in met uw eigen daglimiet voor visa of verblijf. Controleer de officiële regels apart. Gebruikte dagen worden automatisch bijgewerkt terwijl reizen worden geregistreerd.
 
 ## En nog veel meer
 
@@ -60,7 +60,7 @@ Pro: synchronisatie naar uw eigen iCloud of Google Drive. Multi-apparaat-toegang
 
 ## Klaar om beter te plannen
 
-Download gratis. Geen account. Begin vandaag met plannen.
+Download gratis. Geen account. Begin vandaag met plannen met Pro.
 
 ![Download in de App Store](https://traveldocumentvault.com/assets/images/app-store-badge-black.svg)
 

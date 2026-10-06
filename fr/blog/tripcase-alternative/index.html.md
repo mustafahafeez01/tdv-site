@@ -94,7 +94,7 @@ Flighty est le remplacement le plus direct pour les alertes de vol en temps rée
 
 ### Y a-t-il une seule application qui remplace TripCase ?
 
-Non. Aucune application ne fait tout ce que TripCase faisait. La plupart des anciens utilisateurs finissent avec deux ou trois outils : TripIt ou Tripsy pour l'analyse des itinéraires et les vues chronologiques, Flighty pour les alertes de vol, et une application hors ligne distincte comme Travel Document Vault pour le stockage des documents. C'est plus de pièces, mais cela signifie aussi que vous ne dépendez pas de la survie d'une seule entreprise.
+Vous pouvez avoir besoin d’outils distincts pour l’analyse des itinéraires, les alertes de vol et le stockage des documents. Travel Document Vault stocke des copies de documents chiffrées sur votre téléphone et vous permet de les consulter hors ligne.
 
 ### Dois-je conserver mes documents de voyage dans une application cloud ?
 

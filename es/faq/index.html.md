@@ -6,7 +6,7 @@ Source: https://traveldocumentvault.com/es/faq/
 
 ---
 
-Privacidad primero. Solo en dispositivo. Sin cuentas requeridas.
+Privacidad primero. En el dispositivo por defecto. Sin cuentas requeridas.
 
 # Preguntas Frecuentes
 
@@ -20,11 +20,11 @@ Todo lo que necesitas saber sobre Travel Document Vault.
 
 ¿Puede el desarrollador ver mis documentos?
 
-No. No tenemos servidores ni cuentas. Tus documentos se guardan en tu dispositivo de forma predeterminada. Si eliges activar la copia de seguridad en la nube de Pro, opcional, tu bóveda se cifra de extremo a extremo en el dispositivo antes de subirse a tu propio iCloud (iOS) o a tu propio Google Drive (Android), sellada con un código de recuperación que solo tú tienes. Nunca recibimos tus datos y no podemos leer la copia cifrada. Apple y Google tampoco. La arquitectura se construyó así desde el principio.
+No. La bóveda local no necesita una cuenta ni un servidor de Travel Document Vault. Tus documentos se guardan en tu dispositivo de forma predeterminada. Si eliges activar la copia de seguridad en la nube de Pro, opcional, tu bóveda se cifra de extremo a extremo en el dispositivo antes de subirse a tu propio iCloud (iOS) o a tu propio Google Drive (Android), sellada con un código de recuperación que solo tú tienes. No recibimos tu copia en la nube ni podemos leer el contenido cifrado de sus documentos. Apple y Google tampoco.
 
 ¿Qué recopila el informe de fallos de Sentry y puedo desactivarlo?
 
-Sentry es una herramienta de informe de fallos que nos ayuda a encontrar y corregir errores. Está **deshabilitada de forma predeterminada** y no envía absolutamente nada cuando está desactivada. Si eliges habilitarla en Configuración, solo envía diagnósticos técnicos de fallos como el tipo de dispositivo y qué estaba haciendo la aplicación cuando se bloqueó. Nunca envía tus documentos, nombres, números de pasaporte, o nada de tu bóveda.
+Sentry es una herramienta de informe de fallos que nos ayuda a encontrar y corregir errores. Está **deshabilitada de forma predeterminada** y no envía absolutamente nada cuando está desactivada. Si eliges activarla en Ajustes, envía diagnósticos técnicos de fallos depurados. La reproducción de sesiones requiere una activación aparte. Los informes se depuran para reducir los datos personales y no se adjuntan archivos de documentos de forma intencionada.
 
 ¿Qué incluye la actualización Pro?
 
@@ -36,11 +36,11 @@ Sí. Tu compra cubre todas las actualizaciones dentro de la versión principal a
 
 ¿Qué pasa si pierdo mi teléfono o cambio a uno nuevo?
 
-Como no almacenamos tus datos en servidores, no podemos restaurarlos para ti. Las copias de seguridad del sistema (iCloud o Google) no restauran tus documentos porque la clave de cifrado nunca sale de tu dispositivo original. Usa la función Exportar (gratuita) para crear una copia de seguridad de tu bóveda cifrada antes de cambiar de teléfono, o activa la copia de seguridad cifrada en tu propio iCloud o Google Drive (Pro) para restauración con un toque.
+Como no almacenamos tus datos en servidores, no podemos restaurarlos para ti. Las copias de seguridad del sistema (iCloud o Google) no restauran tus documentos porque las copias del sistema no transfieren la clave de cifrado vinculada al dispositivo. Usa la función Exportar (gratuita) para crear una copia de seguridad de tu bóveda cifrada antes de cambiar de teléfono, o activa la copia de seguridad cifrada en tu propio iCloud o Google Drive (Pro) para restaurarla con tu código de recuperación en un dispositivo compatible de la misma plataforma y con la misma cuenta en la nube. Abre Copia de Seguridad en la Nube en Ajustes, elige tu copia y confirma la restauración, que reemplaza la bóveda local.
 
 ¿Funciona la aplicación sin conexión a internet?
 
-Sí, completamente. La app en sí no tiene servidor y no necesita internet para funcionar. Escanear, ver, exportar y los recordatorios funcionan sin conexión. Solo dos cosas necesitan conexión: restaurar tu compra Pro en un dispositivo nuevo a través de App Store o Google Play, y la copia de seguridad opcional en tu propia nube, que usa tu propia cuenta de iCloud o Google Drive.
+Sí, completamente. La app en sí no tiene servidor y no necesita internet para funcionar. Escanear, ver, exportar y los recordatorios funcionan sin conexión. Las funciones que necesitan conexión incluyen las compras y su restauración en las tiendas, las comprobaciones y descargas de actualizaciones y la copia de seguridad opcional en la nube (Pro) en tu propia cuenta de iCloud o Google Drive. Cambiar tu código de recuperación mientras la copia en la nube está activada también necesita conexión.
 
 ¿Qué idiomas soporta la aplicación?
 
@@ -48,11 +48,11 @@ La aplicación está disponible en más de 40 idiomas, incluida la compatibilida
 
 ¿Qué pasa si dejas de desarrollar la aplicación?
 
-Tus documentos viven en tu dispositivo, no en nuestros servidores, por lo que no desaparecen si dejamos de lanzar actualizaciones. La aplicación seguirá funcionando como lo hace hoy. También puedes exportar todo en cualquier momento usando las herramientas de exportación integradas, así que nunca estás atrapado.
+Tus documentos viven en tu dispositivo, no en nuestros servidores, por lo que no desaparecen si dejamos de lanzar actualizaciones. El acceso a tu bóveda guardada no depende de un servidor de Travel Document Vault; no se puede garantizar la compatibilidad con futuros sistemas operativos. También puedes exportar una copia cifrada de tu bóveda, sujeta a los límites de tamaño de exportación y a que los adjuntos sean legibles.
 
 ¿Quién construyó esta aplicación y por qué es de privacidad primero?
 
-Travel Document Vault lo creó Mustafa Hafeez, un desarrollador de software sénior con años de experiencia profesional construyendo aplicaciones que respetan la privacidad, y padre que necesitaba esta app para su propia familia. La privacidad no es una frase de marketing. La app se diseñó desde el primer día para que no hagan falta cuentas, para que nunca intervenga ningún servidor de Travel Document Vault y para que tus documentos solo los puedas leer tú. La copia de seguridad opcional en la nube usa tu propio iCloud o Google Drive, cifrada de extremo a extremo con un código de recuperación que solo tú tienes. Es una decisión de ingeniería deliberada, no una política que pudiera cambiarse con un interruptor.
+Travel Document Vault lo creó Mustafa Hafeez, un desarrollador de software sénior con años de experiencia profesional construyendo aplicaciones que respetan la privacidad, y padre que necesitaba esta app para su propia familia. La privacidad no es una frase de marketing. La bóveda local no necesita una cuenta ni un servidor de Travel Document Vault. Activa el bloqueo de la app para restringir el acceso en un teléfono desbloqueado. La copia de seguridad opcional en la nube usa tu propio iCloud o Google Drive, cifrada de extremo a extremo con un código de recuperación que solo tú tienes. Es una decisión de ingeniería deliberada, no una política que pudiera cambiarse con un interruptor.
 
 ¿Quieres verificar estas afirmaciones tú mismo? Consulta nuestra página de [Verificación de Privacidad](https://traveldocumentvault.com/es/privacy-verification/) para prueba independiente y un desglose completo de cada permiso de aplicación.
 
@@ -60,7 +60,7 @@ Travel Document Vault lo creó Mustafa Hafeez, un desarrollador de software sén
 
 ¿Dónde se almacenan mis datos?
 
-Todos tus datos se almacenan **exclusivamente en tu dispositivo**. No tenemos servidores en la nube, cuentas de usuario, o ninguna forma de acceder a tus documentos. Cuando guardas un documento, permanece en el área de almacenamiento seguro de tu teléfono.
+Todos tus datos se almacenan **exclusivamente en tu dispositivo**. No tenemos servidores que guarden tus documentos ni cuentas de usuario de Travel Document Vault. Cuando guardas un documento, permanece en el área de almacenamiento seguro de tu teléfono.
 
 ¿Se hace copia de seguridad de mis datos en la nube?
 
@@ -68,7 +68,7 @@ La aplicación no tiene base de datos en la nube. No vemos tus datos. Si usas **
 
 ¿Puedo hacer una copia de seguridad de mis datos gratis?
 
-Sí. La Exportación de Bóveda (archivo de copia de seguridad cifrado .tdvault) es gratuita para todos. Ve a Ajustes, Exportar Bóveda, y la aplicación crea un archivo protegido con contraseña que puedes guardar en Archivos, iCloud Drive, o compartir fuera del dispositivo. La aplicación también mantiene **copias de seguridad locales automáticas** en tu dispositivo cada pocos minutos, sin coste. La copia de seguridad en la nube en tu propio iCloud o Google Drive es la opción Pro. Ninguna función de copia de seguridad retiene tus datos.
+Sí. La Exportación de Bóveda (archivo de copia de seguridad cifrado .tdvault) es gratuita para todos. Ve a Ajustes, Exportar bóveda, y la aplicación crea un archivo protegido con contraseña que puedes guardar en Archivos, iCloud Drive, o compartir fuera del dispositivo. La aplicación también mantiene **copias de seguridad locales automáticas** en tu dispositivo cada pocos minutos, sin coste. La copia de seguridad en la nube en tu propio iCloud o Google Drive es la opción Pro. Ninguna función de copia de seguridad retiene tus datos.
 
 ¿Qué pasa si pierdo mi teléfono?
 
@@ -80,24 +80,24 @@ Como no tenemos tus datos, no podemos restaurarlos para ti. Si restauras un nuev
 
 Sí. Tus documentos están **cifrados en el disco** dentro del almacenamiento de la aplicación. Esto protege contra la extracción directa de archivos (si alguien accede al almacenamiento físico del dispositivo, los archivos sin procesar son ilegibles sin las claves de descifrado).
 
-- **Cifrado en el disco:** Cada imagen de documento y PDF se codifica antes de guardarse.
+- **Cifrado en el disco:** Los archivos adjuntos originales guardados en la bóveda están cifrados; al consultar, escanear y compartir se pueden crear copias legibles temporales.
 - **Bloqueo de aplicación:** Agrega una segunda capa de defensa habilitando PIN, Face ID, o Touch ID en la configuración de la aplicación.
 
 **Importante:** La máxima seguridad requiere un código de acceso fuerte del dispositivo. Si tu dispositivo está desbloqueado, las claves de cifrado pueden ser accesibles para quien tenga el teléfono.
 
 ¿Recopilan datos de análisis o seguimiento?
 
-**No.** No usamos SDKs de análisis, redes publicitarias, o servicios de seguimiento. El único servicio externo que usamos es **Sentry** para informes de fallos (que puede desactivarse en la configuración). Los informes de fallos contienen solo información técnica. Nunca tus documentos o datos personales.
+**No.** No usamos SDKs de análisis, redes publicitarias, o servicios de seguimiento. Los informes de fallos opcionales de **Sentry** permanecen desactivados salvo que los actives en los ajustes. La copia en la nube (Pro), las compras y las actualizaciones también usan servicios externos. Los informes contienen diagnósticos técnicos depurados. Se depuran para reducir los datos personales y no adjuntan archivos de documentos de forma intencionada.
 
 ¿Qué pasa cuando elimino la aplicación?
 
-Todos tus datos se **eliminan permanentemente** cuando desinstales la aplicación. No hay forma de recuperarlos después ya que no almacenamos nada externamente. **Antes de eliminar:** Exporta tus documentos o crea un archivo .tdvault de copia de seguridad desde Ajustes para guardarlos en otro lugar.
+Todos los datos de este teléfono se **eliminan permanentemente** cuando desinstalas la app. No hay forma de recuperarlos después salvo que hayas exportado la bóveda o activado la copia en la nube, ya que no guardamos nada externamente. **Antes de eliminar:** Exporta tus documentos o crea un archivo .tdvault de copia de seguridad desde Ajustes para guardarlos en otro lugar.
 
 ## Seguridad Adicional
 
 ¿Están cifradas mis imágenes de documentos?
 
-**Sí.** Todas las imágenes de documentos y PDF están cifrados antes de guardarse en tu dispositivo. Esto significa que incluso si alguien obtiene acceso a los archivos de tu teléfono, no puede ver tus documentos.
+**Sí.** Las imágenes originales y los PDF guardados en tu bóveda están cifrados. Al consultar, escanear y compartir pueden crearse copias temporales legibles. Los originales guardados y cifrados no se pueden leer sin sus claves de descifrado.
 
 **Para máxima seguridad:** Recomendamos habilitar Bloqueo de Aplicación y usar un código de acceso fuerte del dispositivo. Consulta nuestra [Política de Privacidad](https://traveldocumentvault.com/privacy-policy/) para obtener detalles completos.
 
@@ -115,29 +115,29 @@ Si restauras desde una copia de seguridad, tus documentos funcionarán automáti
 
 ¿Qué es "Mostrar a otra persona"?
 
-Mostrar a otra persona es un modo de visualización protegido para momentos en los que un oficial de aduanas, un recepcionista de hotel o un agente de aerolínea necesita ver un documento en tu pantalla. Toca el icono y la aplicación entra en una vista limpia, a pantalla completa que **bloquea capturas de pantalla y grabaciones de pantalla.** Cuando te devuelvan el teléfono, un toque regresa a tu bóveda.
+Mostrar a otra persona es un modo de visualización protegido para momentos en los que un oficial de aduanas, un recepcionista de hotel o un agente de aerolínea necesita ver un documento en tu pantalla. Con el bloqueo PIN configurado, toca el icono para abrir una vista a pantalla completa con **protección contra capturas y grabaciones de pantalla activada por defecto, según la compatibilidad del dispositivo y tus ajustes.** Cierra la vista protegida y desbloquea la bóveda con tu PIN o la biometría activada.
 
-Tus documentos nunca abandonan tu dispositivo. Este modo simplemente te da una forma segura y controlada de presentarlos a alguien sin darle acceso a toda tu bóveda.
+Este modo de visualización no sube tus documentos. Configura primero el bloqueo PIN para que cerrar la vista protegida bloquee el acceso a la bóveda. Sin bloqueo PIN, el visor no restringe el acceso al resto de la bóveda.
 
 ¿Qué es un código de recuperación y por qué lo necesito?
 
 Cuando configuras Bloqueo de aplicación, la aplicación genera un código de recuperación único que es tu red de seguridad si olvidas tu PIN. Guárdalo en algún lugar seguro —tu gestor de contraseñas, una nota impresa, en cualquier lugar que confíes.
 
-Si olvidas tu PIN, ingresa tu código de recuperación en la pantalla PIN. El Bloqueo de aplicación se desactiva y recuperas **acceso completo sin perder un solo documento.**
+Si olvidas tu PIN, ingresa tu código de recuperación en la pantalla PIN. El código de recuperación desbloquea la app **sin eliminar tus documentos; el bloqueo de la app sigue activado.**
 
-Sin un código de recuperación, la única opción es eliminar y reinstalar la aplicación, lo que borra permanentemente tu bóveda. Guarda tu código cuando se te pida. No tendrás una segunda oportunidad.
+Si ni tu PIN ni la biometría activada pueden desbloquear la app y no tienes código de recuperación, puede que debas borrar la bóveda local y restaurar una copia guardada. Guarda tu código cuando se te pida. Mientras aún sepas tu PIN, puedes generar uno nuevo en Ajustes → Seguridad.
 
 ¿Qué es Borrado automático?
 
-Borrado automático borra permanentemente tu bóveda si se realizan demasiados intentos de PIN incorrectos. Está **desactivado por defecto.** Actívalo en Configuración → Bloqueo de aplicación si quieres máxima protección contra un teléfono robado. Una vez que se realizan demasiados intentos incorrectos, cada documento se borra y no se puede recuperar.
+Borrado automático está pensado para borrar la bóveda de este teléfono tras intentos repetidos de PIN incorrecto. No dependas de él como protección garantizada. Está **activado por defecto una vez que configuras un PIN.** Desactívalo en Ajustes → Seguridad si prefieres conservar los datos tras intentos fallidos. Un borrado local completado elimina la bóveda de este teléfono; recuperarla requiere una copia independiente utilizable.
 
-**Importante:** Activa Borrado automático solo después de crear una copia de seguridad de exportación de bóveda. De esa manera, si se dispara accidentalmente, puedes restaurar desde tu copia de seguridad. Usarlo junto con un código de recuperación te da máxima seguridad y un camino claro de regreso.
+**Importante:** Crea una copia exportada de la bóveda antes de depender de Borrado automático. De esa manera, si se dispara accidentalmente, puedes restaurar desde tu copia de seguridad. Conserva una copia independiente y su contraseña o código de recuperación antes de depender de Borrado automático.
 
 ## Características
 
 ¿Qué tipos de documentos puedo almacenar?
 
-La aplicación soporta **Pasaportes**, **Documentos de Identificación Nacional** (frente + dorso), **Visas/Permisos de Residencia**, **Boletos Aéreos**, **Cupones y Entradas** (tarjetas de regalo, códigos promocionales, entradas de eventos —con recordatorios de vencimiento para que no se pierdan), **Otros Documentos** (seguros de viaje, seguro médico, registros de vacunación, membresías, recetas —cualquier cosa con fecha de vencimiento), y **Notas** (solo texto para plazos y recordatorios). Puedes capturar documentos usando tu cámara, importar desde tu galería de fotos, o importar archivos PDF. Los usuarios Pro pueden capturar documentos de varias páginas para Boletos Aéreos, Cupones y Otros Documentos.
+La aplicación soporta **Pasaportes**, **Documentos de Identificación Nacional** (frente + dorso), **Visas/Permisos de Residencia**, **Boletos Aéreos**, **Cupones y Entradas** (tarjetas de regalo, códigos promocionales, entradas de eventos —con recordatorios de vencimiento para que no se pierdan), **Otros Documentos** (seguros de viaje, seguro médico, registros de vacunación, membresías, recetas —cualquier cosa con fecha de vencimiento), y **Notas** (texto con adjuntos de imagen opcionales y recordatorios). Puedes capturar documentos usando tu cámara, importar desde tu galería de fotos, o importar archivos PDF. Los usuarios Pro pueden capturar documentos de varias páginas para Boletos Aéreos, Cupones y Otros Documentos.
 
 ¿Cómo funcionan los recordatorios de vencimiento?
 
@@ -145,11 +145,11 @@ Los recordatorios comienzan automáticamente, programados según el tipo de docu
 
 ¿Qué es OCR y cómo funciona?
 
-OCR (Reconocimiento Óptico de Caracteres) detecta automáticamente fechas de vencimiento de tus documentos. Apunta tu cámara a un documento y la aplicación intentará leer la fecha de vencimiento. Todo el procesamiento sucede en tu teléfono —nada se carga. Las fechas detectadas se etiquetan como "Detectado: por favor verifica" y requieren tu confirmación antes de guardarse.
+OCR (Reconocimiento Óptico de Caracteres) detecta automáticamente fechas de vencimiento de tus documentos. Apunta tu cámara a un documento y la aplicación intentará leer la fecha de vencimiento. Todo el procesamiento sucede en tu teléfono —nada se carga. Marca la casilla «Confirmo que esta fecha es correcta» para aceptar la fecha detectada o edítala manualmente antes de guardar.
 
 ¿Puedo exportar mis documentos?
 
-¡Sí! Los usuarios gratuitos pueden compartir documentos individuales. Los usuarios Pro obtienen herramientas potentes: selecciona documentos específicos (o los perfiles de todos) y genera un **PDF combinado único** optimizado para impresión. Incluso puedes establecer nombres de archivo personalizados para tus exportaciones para mantener tus registros digitales organizados.
+Sí. Los usuarios gratuitos pueden compartir documentos individuales. Pro añade la exportación combinada a PDF: selecciona documentos específicos (o los perfiles de todos) y genera un **PDF combinado único** para imprimir. Puedes elegir nombres de archivo personalizados para organizar tus exportaciones.
 
 ¿Cómo respalda la aplicación mis datos?
 
@@ -161,13 +161,13 @@ La aplicación usa **perfiles** para organizar documentos por miembro de la fami
 
 ¿Funciona la aplicación sin conexión?
 
-**¡Sí!** La aplicación funciona completamente sin conexión. Puedes agregar documentos, verlos, y recibir recordatorios sin ninguna conexión a internet. Perfecto para viajar.
+**Sí.** Puedes añadir documentos, consultar copias guardadas y recibir recordatorios de vencimiento sin conexión. La copia en la nube, las compras y las actualizaciones necesitan conexión.
 
 ¿Cómo habilito Bloqueo de Aplicación con PIN o Face ID/Touch ID?
 
-Para habilitar Bloqueo de Aplicación, ve a **Configuración → Bloqueo de Aplicación** en la aplicación:
+Para habilitar Bloqueo de Aplicación, ve a **Ajustes → Seguridad** en la aplicación:
 
-- **Bloqueo PIN (Gratuito):** Establece un código PIN de 4 dígitos. La aplicación requiere este PIN cada vez que la abres.
+- **Bloqueo PIN (Gratuito):** Configura un PIN de 6 dígitos. El bloqueo de la app pide autenticación cuando es necesario; la biometría activada puede sustituir al PIN y los cambios breves entre apps tienen un margen de cinco segundos.
 - **Bloqueo Biométrico:** Habilita Face ID (iPhone con Face ID), Touch ID (iPhone con huella), o desbloqueo de huella (Android). Gratuito para todos los usuarios, porque la seguridad no debe estar tras un muro de pago.
 
 **Mejor práctica:** Habilita Bloqueo de Aplicación + configura tu dispositivo para auto-bloqueo después de 30 segundos. Esto crea múltiples capas de protección: bloqueo de dispositivo, luego bloqueo de aplicación, luego archivos cifrados.
@@ -181,31 +181,31 @@ Para habilitar Bloqueo de Aplicación, ve a **Configuración → Bloqueo de Apli
 
 ¿Crea la aplicación copias de seguridad automáticas?
 
-**Sí, la aplicación crea copias de seguridad locales automáticas cada pocos minutos** (cuando la aplicación está abierta y se realizan cambios). Estas copias de seguridad se almacenan en tu dispositivo y se incluyen en tu copia de seguridad de iCloud (iOS) o Google (Android) si tienes esos servicios habilitados.
+**Sí, la aplicación crea copias de seguridad locales automáticas cada pocos minutos** (cuando la aplicación está abierta y se realizan cambios). Estas copias se guardan en tu dispositivo. Una copia del dispositivo (iCloud o Google) no puede recuperar tus documentos a partir de ellas, porque las copias del sistema no transfieren la clave de cifrado vinculada al dispositivo.
 
 **Cómo funciona:**
 
-- La aplicación mantiene **10 copias de seguridad rodantes** en tu dispositivo. Cuando se crea una 11ª copia de seguridad, la más antigua se elimina automáticamente.
-- Las copias de seguridad están **cifradas** usando la misma protección que tus documentos.
-- Si la aplicación se bloquea o accidentalmente eliminas un documento, puedes restaurar desde la copia de seguridad más reciente a través de **Configuración → Importar Bóveda**.
+- La app mantiene **unas pocas copias de seguridad rotativas** en tu dispositivo. Las antiguas se eliminan al alcanzar el límite de conservación local.
+- Las copias de seguridad se quedan en **el almacenamiento privado de la app** en tu dispositivo.
+- Una copia local válida puede restaurar registros anteriores de la bóveda desde **Ajustes → Restaurar copia de seguridad local**, pero no puede recrear adjuntos eliminados permanentemente. Usa Eliminado Recientemente para eliminaciones normales.
 
 **Exportación de Bóveda:** Cualquier usuario puede exportar un archivo de copia de seguridad cifrado (.tdvault) y guardarlo en Archivos, iCloud Drive, o compartirlo a través de AirDrop/correo para almacenamiento fuera del dispositivo. Esto se recomienda antes de actualizaciones mayores o cambios de dispositivo.
 
 ¿Qué significa "Última copia de seguridad: hace 2 horas, 12 documentos" en Ajustes?
 
-Esa línea muestra la copia de seguridad local automática más reciente de la aplicación, cuánto tiempo hace que se guardó y cuántos documentos contiene. Está ahí para confirmarte que existe una copia recuperable en tu dispositivo. Toca **Restaurar copia de seguridad local** para volver a ella si alguna vez lo necesitas.
+Esa línea muestra la copia de seguridad local automática más reciente de la aplicación, cuánto tiempo hace que se guardó y cuántos documentos contiene. Muestra la última instantánea local. Toca **Restaurar copia de seguridad local** para restaurar sus registros guardados. Las instantáneas locales no contienen copias independientes de los archivos adjuntos.
 
 ¿Cómo restauro mi bóveda desde una copia de seguridad local?
 
-Ve a **Ajustes** y toca **Restaurar copia de seguridad local**. La aplicación muestra una lista de copias de seguridad disponibles con marcas de tiempo. Elige la que quieras y confirma. Para restaurar desde un archivo .tdvault que exportaste, toca **Importar bóveda** y selecciona el archivo. Ambas opciones son gratuitas para todos. Ten en cuenta que restaurar reemplaza tus datos actuales con el contenido de la copia de seguridad.
+Ve a **Ajustes** y toca **Restaurar copia de seguridad local**. La aplicación muestra una lista de copias de seguridad disponibles con marcas de tiempo. Elige la que quieras y confirma. Para restaurar desde un archivo .tdvault que exportaste, toca **Importar copia de seguridad** y selecciona el archivo. Ambas opciones son gratuitas para todos. Ten en cuenta que restaurar reemplaza tus datos actuales con el contenido de la copia de seguridad.
 
 La aplicación muestra una pantalla de recuperación o dice que no se pueden cargar mis datos. ¿Qué hago?
 
-No te preocupes. La aplicación nunca borra tus datos en silencio. Si no puede leer el almacén local, muestra una pantalla de recuperación en lugar de descartar nada. Toca **Restaurar copia de seguridad local** para recuperar desde la copia de seguridad automática más reciente, o toca **Importar bóveda** para restaurar desde un archivo .tdvault que exportaste anteriormente. También se pueden restaurar copias de seguridad creadas antes de una actualización reciente de la aplicación. Tus documentos son recuperables y nada ha sido eliminado.
+Si la app no puede leer el almacenamiento local, muestra una pantalla de recuperación y conserva los datos ilegibles. Toca **Restaurar** para recuperar desde una de tus copias locales automáticas, o ve a Ajustes y toca **Importar copia de seguridad** para restaurar desde un archivo .tdvault que exportaste anteriormente. También se pueden restaurar copias de seguridad creadas antes de una actualización reciente de la aplicación. Tus datos anteriores se conservan, no se eliminan.
 
 ¿Por qué la aplicación creó una copia de seguridad antes de actualizar?
 
-Antes de una actualización importante del formato de datos, la aplicación crea automáticamente una instantánea de tu bóveda. Si algo sale mal durante la actualización, puedes revertir a esa instantánea. El proceso es automático y gratuito para todos.
+Antes de una actualización importante del formato de datos, la aplicación crea automáticamente una instantánea de tu bóveda. Si hay una instantánea anterior a la actualización válida y legible, puedes intentar restaurarla desde Ajustes. El proceso es automático y gratuito para todos.
 
 ¿Puedo personalizar el tiempo de recordatorio?
 
@@ -217,7 +217,7 @@ Para personalizar recordatorios, toca cualquier documento → Editar → secció
 
 ¿Cómo selecciono múltiples documentos?
 
-Los usuarios Pro pueden tocar **"Seleccionar"** en la parte superior derecha de la lista de documentos para entrar en modo selección. Toca documentos para seleccionar o deseleccionar, luego usa el botón **Acciones** para exportar un PDF combinado, compartir archivos originales, o eliminar los documentos seleccionados. También puedes **presionar largo** cualquier tarjeta de documento para un menú contextual rápido con las mismas opciones para ese documento individual.
+Abre el menú de más opciones de la lista y toca **«Seleccionar documentos»** para entrar en modo selección. Toca documentos para seleccionarlos o deseleccionarlos y usa los controles inferiores **Eliminar, Compartir o PDF** para eliminar los seleccionados, compartir archivos originales o exportar un PDF combinado (Pro). También puedes **presionar largo** cualquier tarjeta de documento para un menú contextual rápido con las mismas opciones para ese documento individual.
 
 ¿Puedo deshacer una eliminación masiva?
 
@@ -229,11 +229,11 @@ Presiona largo (presiona y mantén) cualquier tarjeta de documento en tu lista p
 
 ¿Puedo almacenar documentos médicos o recetas?
 
-Sí. Puedes almacenar tarjetas de seguro médico, recetas repetidas, registros de vacunación, y cualquier otro documento relacionado con la salud. Usa el tipo **Nota** o **Documento**, agrega una fecha de vencimiento, y la aplicación te enviará recordatorios antes de que la renovación sea vencida, de la misma manera que lo hace para pasaportes y visas. Todo permanece en tu dispositivo, cifrado, y nunca se carga a ningún lugar.
+Sí. Puedes almacenar tarjetas de seguro médico, recetas repetidas, registros de vacunación, y cualquier otro documento relacionado con la salud. Elige **Nota** u **Otro** y guarda una fecha de vencimiento. Los recordatorios están activados por defecto, con un calendario según el tipo de documento. Todo permanece en tu dispositivo, cifrado, y nunca se carga a ningún lugar.
 
 ¿Puedo posponer un recordatorio?
 
-Sí. Cuando se dispara un recordatorio, toca **Posponer** directamente desde la notificación. Elige 1 hora, más tarde hoy, mañana, o la próxima semana. La aplicación lo reprograma automáticamente. También puedes posponer desde dentro de la aplicación en la pantalla de detalle del documento. El recordatorio vuelve exactamente a la hora que elegiste. No es necesario recordar comprobar manualmente.
+Sí. Cuando se dispara un recordatorio, toca **Posponer** directamente desde la notificación. Elige 1 hora, 3 horas, mañana o la próxima semana. La aplicación lo reprograma automáticamente. También puedes posponer desde dentro de la app en la pestaña Alertas. La app programa el recordatorio pospuesto para la hora que elijas.
 
 ¿Puedo codificar mis documentos por color?
 
@@ -251,31 +251,31 @@ Sí. Las notas y los comprobantes admiten múltiples adjuntos de imagen. Los usu
 
 **La versión de Android viene a principios de 2026.** Actualmente estamos en pruebas cerradas para asegurar que la experiencia de privacidad primero, almacenamiento en dispositivo solamente, funcione perfectamente en dispositivos Android.
 
-La versión de Android tendrá paridad de características con iOS, incluyendo almacenamiento cifrado en dispositivo, escaneo OCR, recordatorios de vencimiento, y todas las características Pro (perfiles ilimitados, documentos de exportación lote, y tiempo de recordatorio personalizado).
+Android admite almacenamiento cifrado en el dispositivo, escaneo OCR y recordatorios de vencimiento. Con Pro, puedes usar perfiles ilimitados, exportación de PDF por lotes y tiempos de recordatorio personalizados.
 
 ¿Puedo transferir mis datos de iPhone a Android (o viceversa)?
 
-**Sí, usando la Exportación de Bóveda cifrada.** Exporta una copia de seguridad cifrada desde tu dispositivo actual (Configuración, Exportar Bóveda), transfierela a tu nuevo dispositivo (a través de correo, almacenamiento en la nube, o transferencia directa), luego usa Configuración, Importar Bóveda para restaurar tus documentos.
+**Sí, usando la Exportación de Bóveda cifrada.** Exporta una copia cifrada desde tu dispositivo actual (Ajustes, Exportar bóveda), transfiérela al dispositivo nuevo (por correo, almacenamiento en la nube o transferencia directa) y usa Ajustes, Importar copia de seguridad para restaurar tus documentos, reemplazando lo que ya haya en el dispositivo nuevo.
 
-Esto funciona a través de plataformas porque el formato de cifrado es universal. Necesitarás la misma contraseña que usaste cuando exportaste la bóveda. Tu compra Pro también necesitará ser restaurada en el nuevo dispositivo (ver "¿Puedo restaurar mi compra en un nuevo dispositivo?" abajo).
+Esto funciona a través de plataformas porque el formato de cifrado es universal. Necesitarás la misma contraseña que usaste cuando exportaste la bóveda. Las compras Pro se restauran en la misma plataforma y con la misma cuenta de la tienda; pasar de iOS a Android o viceversa requiere una compra Pro aparte (ver «¿Puedo restaurar mi compra en un nuevo dispositivo?» abajo).
 
 ¿Cuánto espacio de almacenamiento usa la aplicación?
 
-La aplicación misma es pequeña (~15MB de descarga). **El uso de almacenamiento depende completamente de cuántos documentos almacenes y su calidad de foto.** Una foto de pasaporte típica (alta calidad) es 2-4MB. Con 20 documentos, espera alrededor de 40-80MB de almacenamiento.
+**El uso de almacenamiento depende del número de documentos y del tamaño de sus archivos**, además de los metadatos de la bóveda, las copias de seguridad y los archivos temporales.
 
-La aplicación incluye 10 copias de seguridad automáticas, que son copias comprimidas de tus documentos, agregando espacio mínimo extra (~10-20% más). No hay límite duro en la cantidad de documentos (los usuarios Pro obtienen ilimitados), pero los límites prácticos dependen del almacenamiento disponible de tu dispositivo.
+La app incluye unas pocas copias automáticas de los datos de tu bóveda. Los usuarios gratuitos pueden añadir hasta cinco documentos. Con Pro, no hay límite de cantidad de documentos, sujeto al espacio disponible en tu dispositivo.
 
 ¿Por qué la aplicación necesita acceso a cámara y galería de fotos?
 
 **Cámara:** Para capturar fotos de tus documentos directamente en la aplicación. **Galería de Fotos:** Para importar fotos de documentos existentes que ya hayas tomado.
 
-Nunca **cargamos** tus fotos a ningún lado. Todo el procesamiento (incluyendo escaneo OCR) sucede en tu dispositivo. Puedes negar estos permisos, pero no podrás agregar documentos (la función principal de la aplicación). Si accidentalmente negaste permisos, puedes rehablitarlos en la Configuración de tu dispositivo → Privacidad → Cámara / Fotos → Travel Document Vault.
+Nunca **cargamos** tus fotos a ningún lado. Todo el procesamiento (incluyendo escaneo OCR) sucede en tu dispositivo. Si deniegas los permisos de cámara y fotos, aún puedes añadir los datos de un documento manualmente o importar un PDF. Si accidentalmente negaste permisos, puedes rehablitarlos en la Configuración de tu dispositivo → Privacidad → Cámara / Fotos → Travel Document Vault.
 
 ## Precios y Compras
 
 ¿Cuál es la diferencia entre Gratuito y Pro?
 
-**Gratuito** incluye 1 perfil y hasta 5 documentos con funcionalidad completa, incluyendo escaneo OCR, recordatorios de vencimiento, compartir documentos, Bloqueo PIN, y Bloqueo Biométrico (Face ID / Touch ID). **Pro** (compra única*) desbloquea perfiles ilimitados, documentos ilimitados, exportación combinada de PDF, copia de seguridad en la nube cifrada, tiempo de recordatorio personalizado, y captura de múltiples páginas para Boletos Aéreos y Otros Documentos.
+**Gratuito** incluye 1 perfil y hasta 5 documentos con herramientas básicas, incluyendo escaneo OCR, recordatorios de vencimiento, compartir documentos, Bloqueo PIN, y Bloqueo Biométrico (Face ID / Touch ID). **Pro** (compra única*) desbloquea perfiles ilimitados, documentos ilimitados, exportación combinada de PDF, copia de seguridad en la nube cifrada, tiempo de recordatorio personalizado, y captura de múltiples páginas para Boletos Aéreos y Otros Documentos.
 
 * Ver [Política de Precios](https://traveldocumentvault.com/pricing-policy/#version-policy) para detalles de versión.
 
@@ -287,13 +287,13 @@ Nunca **cargamos** tus fotos a ningún lado. Todo el procesamiento (incluyendo e
 
 ¿Puedo restaurar mi compra en un nuevo dispositivo?
 
-**Sí.** Ve a Configuración en la aplicación y toca "Restaurar Compras." Mientras estés registrado con la misma Apple ID o Cuenta de Google, tu compra Pro será restaurada. Nota: tus documentos no se transferirán. Solo el desbloqueo Pro.
+**Sí.** Ve a Ajustes en la app y toca «Restaurar compras». En la misma plataforma, usa la cuenta de la tienda que compró Pro; la restauración necesita conexión y que la tienda devuelva un derecho de compra válido. Nota: tus documentos no se transferirán. Solo el desbloqueo Pro.
 
 ¿Recibiré actualizaciones futuras si compro Pro?
 
 **Sí.** Pro es una compra única para la **versión principal actual** (v1.x). Recibirás todas las correcciones de errores, actualizaciones de seguridad, y adiciones de características gratuitamente dentro de esa versión.
 
-Si lanzamos una versión principal 2.0 en el futuro con características significativamente nuevas, eso puede requerir una compra de actualización separada. Daremos notificación previa y precios de usuario temprano a los usuarios Pro existentes. Esta política asegura que podamos continuar mejorando la aplicación mientras mantenemos el precio inicial asequible.
+Si lanzamos una versión principal 2.0 en el futuro con características significativamente nuevas, eso puede requerir una compra de actualización separada. Daremos notificación previa y precios de usuario temprano a los usuarios Pro existentes. Esta política permite seguir mejorando la app con una compra única.
 
 Aprende más en nuestra [Política de Precios](https://traveldocumentvault.com/pricing-policy/).
 
@@ -319,7 +319,7 @@ OCR funciona mejor con buena iluminación y un documento plano. Intenta ajustar 
 
 ¿Por qué mi imagen de documento es borrosa o baja calidad?
 
-La calidad del documento depende completamente de tu cámara y condiciones de iluminación. No modificamos, mejoramos, o perfeccionamos imágenes. Lo que capturas es lo que obtienes. Para mejores resultados: usa buena iluminación (la luz natural funciona bien), sostén tu teléfono firme, asegúrate de que el documento sea plano y completamente visible en el encuadre, y limpia tu lente de cámara. Lo mismo se aplica a PDF exportados. La calidad de impresión refleja tu calidad de captura original.
+La calidad del documento depende de la imagen original, la iluminación y el recorte, redimensionado y compresión de la app. Las fotos guardadas pueden recortarse, redimensionarse y comprimirse; el OCR puede mejorar una copia temporal para reconocer el texto. Para mejores resultados: usa buena iluminación (la luz natural funciona bien), sostén tu teléfono firme, asegúrate de que el documento sea plano y completamente visible en el encuadre, y limpia tu lente de cámara. Lo mismo se aplica a PDF exportados. La calidad de impresión refleja tu calidad de captura original.
 
 La aplicación se bloqueó. ¿Perdí mis datos?
 
@@ -329,23 +329,23 @@ Probablemente no. Tus datos se guardan automáticamente cuando agregas o editas 
 
 ¿Qué es mi código de recuperación y qué sucede si lo pierdo?
 
-Tu código de recuperación es una contraseña de 24 caracteres que cifra tu copia de seguridad en la nube. Si la pierdes, esas copias de seguridad se vuelven irrecuperables. No la guardamos ni la restablecemos. Para los detalles completos sobre qué significa esto, por qué lo diseñamos así, y qué hacer si lo olvidas, consulta la guía del código de recuperación.
+Tu código de recuperación es una contraseña de 24 caracteres que cifra tu copia de seguridad en la nube. Si pierdes el código de recuperación y el acceso a todos los dispositivos configurados que conservan la clave maestra de la nube, no podemos descifrar tu copia cifrada. No la guardamos ni la restablecemos. Para los detalles completos sobre qué significa esto, por qué lo diseñamos así, y qué hacer si lo olvidas, consulta la guía del código de recuperación.
 
 [Leer guía completa →](https://traveldocumentvault.com/es/faq/recovery-code/)
 
 ¿Cómo se cifra mi copia de seguridad en la nube?
 
-Tu bóveda se cifra de extremo a extremo usando AES-256-GCM en tu dispositivo antes de que salga de tu teléfono. La clave se deriva de tu código de recuperación. Apple y Google pueden ver el archivo cifrado en sus servidores, pero no pueden descifrarlo. Tampoco podemos nosotros. Solo tu código de recuperación lo desbloquea.
+Tu bóveda se cifra de extremo a extremo usando AES-256-GCM en tu dispositivo antes de que salga de tu teléfono. Una clave derivada de tu código de recuperación protege la clave de cifrado de la bóveda, generada aleatoriamente. Apple y Google pueden ver el archivo cifrado en sus servidores, pero no pueden descifrarlo. Tampoco podemos nosotros. Tu código de recuperación desbloquea la clave de cifrado de la nube; los dispositivos configurados conservan el acceso para las copias automáticas.
 
 [Leer guía completa →](https://traveldocumentvault.com/es/faq/backup-explained/)
 
 ¿Cómo funcionan juntos el PIN, Face ID y el código de recuperación?
 
-Tu PIN es el bloqueo del día a día. Face ID es un atajo rápido para desbloquear. El código de recuperación es la clave maestra para cuando olvidas completamente tu PIN. Si Face ID falla, intenta tu PIN. Si olvidas tu PIN, ingresa tu código de recuperación. Si pierdes el código de recuperación, debes reinstalar la aplicación y restaurar desde la copia de seguridad en la nube.
+Tu PIN es el bloqueo del día a día. Face ID es un atajo rápido para desbloquear. El código de recuperación es la clave maestra para cuando olvidas completamente tu PIN. Si Face ID falla, intenta tu PIN. Si olvidas tu PIN, ingresa tu código de recuperación. Si no funciona ningún método de desbloqueo, puede que tengas que restablecer la bóveda local y después restaurar una exportación o una copia en la nube de la que aún tengas el código de recuperación.
 
 ¿Cómo exporto e importo mi bóveda?
 
-Pro te permite exportar toda tu bóveda como un archivo .tdvault cifrado que controlas, luego importarlo en cualquier dispositivo o instalación nueva. La exportación e importación de ida y vuelta preservan todo exactamente. Para instrucciones paso a paso con capturas de pantalla, consulta el tutorial de exportación e importación.
+Puedes exportar registros compatibles de la bóveda y adjuntos disponibles desde Ajustes como archivo de copia cifrado y protegido con contraseña (.tdvault), sujeto a límites de tamaño, e importarlo en una instalación compatible de la app. La exportación e importación transfieren registros compatibles y adjuntos disponibles; los ajustes de seguridad del dispositivo, las preferencias y parte del estado interno no se copian exactamente. Para instrucciones paso a paso con capturas de pantalla, consulta el tutorial de exportación e importación.
 
 [Leer guía completa →](https://traveldocumentvault.com/es/faq/export-import/)
 
@@ -355,11 +355,11 @@ Hazte una pregunta: ¿eres un huésped en este país o es tu hogar? Los huésped
 
 ¿Qué son los perfiles familiares?
 
-Cada miembro de la familia es un perfil separado con sus propios documentos, fotos y recordatorios —tus datos son tuyos, los de tu pareja son suyos, y los perfiles son solo locales para que nunca se sincronicen entre dispositivos o personas. Este diseño respeta la privacidad y garantiza que no haya mezcla accidental de documentos sensibles.
+Con Pro, los perfiles ayudan a organizar los documentos, fotos y recordatorios de cada miembro de la familia dentro de la misma bóveda. No tienen bloqueos de acceso separados. Con la copia en la nube activada, los perfiles se sincronizan con los dispositivos conectados a la misma bóveda en la nube.
 
 ¿Qué sucede cuando elimino algo?
 
-Los elementos eliminados van a la papelera durante 30 días. Puedes restaurarlos en cualquier momento durante esa ventana. Después de 30 días, se han ido permanentemente de tu dispositivo y copias de seguridad en la nube. Vaciar la papelera o hacer un restablecimiento de fábrica en tu teléfono es irreversible.
+Los elementos eliminados van a la papelera durante 30 días. Puedes restaurarlos en cualquier momento durante esa ventana. Después de 30 días, se han ido permanentemente de tu dispositivo y copias de seguridad en la nube. Vaciar la papelera o restablecer de fábrica tu teléfono elimina los datos locales; recuperarlos requiere una copia independiente utilizable.
 
 ## Legales y Disclaimers
 
@@ -379,15 +379,15 @@ Al borrarlo pasa a Eliminados recientemente (papelera). Se queda ahí indefinida
 
 ¿Qué pasa si borro todos mis documentos?
 
-La app no sincroniza una bóveda vacía con la nube. Tu copia existente se conserva. Puedes restaurarla desde Ajustes, Copia en la nube, Restaurar desde copia.
+La app bloquea algunas subidas de bóvedas vacías para proteger las copias existentes; los registros eliminados y otros datos de la bóveda pueden seguir sincronizándose. La recuperación depende de una copia conservada utilizable. Puedes restaurarla desde Ajustes, Copia de Seguridad en la Nube, Restaurar desde Copia de Seguridad.
 
 ¿Cómo configuro la copia en la nube en un segundo dispositivo?
 
-Cuando activas la copia en la nube en un dispositivo nuevo con la misma cuenta de iCloud o Google, la app detecta tu copia existente y pregunta si quieres restaurarla o empezar de cero. Elige Restaurar desde copia e introduce tu código de recuperación. A partir de ahí ambos dispositivos comparten la misma copia. Empezar de cero reemplaza la copia existente: elígelo solo si estás seguro.
+Cuando activas la copia en la nube en un dispositivo nuevo con la misma cuenta de iCloud o Google, la app detecta tu copia existente y pregunta si quieres restaurarla o crear una copia nueva. Elige tu copia, toca Restaurar e introduce tu código de recuperación. Ambos dispositivos comparten entonces la misma copia. Crear una copia nueva deja intacta la existente.
 
 ¿Puedo usar la copia en la nube en varios dispositivos a la vez?
 
-La copia en la nube está pensada como copia de un solo dispositivo con restauración en varios. Un dispositivo es la fuente principal. Para pasar a uno nuevo, restaura desde tu copia en ese dispositivo. Editar a la vez en dos dispositivos que sincronizan con la misma copia no está admitido: gana el último que sincroniza.
+Sí, con Sincronizar entre dispositivos activado en Ajustes - Copia de Seguridad en la Nube. Los dispositivos de la misma plataforma comprueban los cambios mientras la app está abierta y conectada. Algunos cambios se fusionan automáticamente; algunos conflictos permiten elegir entre versiones, aunque el texto de las notas no se muestra en la comparación. Para pasar a un dispositivo nuevo, restaura tu copia en él.
 
 ¿Y si activo la copia en la nube sin conexión?
 
@@ -395,7 +395,7 @@ Necesitas conexión a internet para activar la copia en la nube. Durante la conf
 
 ¿Está protegida mi copia si borro algo sin querer?
 
-Sí, te protegen varias capas. Los documentos borrados se quedan en Eliminados recientemente indefinidamente (sin purga automática con la copia en la nube activada). El borrado definitivo pide una confirmación aparte que avisa del efecto en la nube. Incluso después del borrado definitivo, la copia conserva los datos del documento durante varios ciclos de sincronización más, como red de seguridad. Y una bóveda vacía nunca se sincroniza con la nube, así que un borrado masivo accidental no puede vaciar tu copia.
+Sí, te protegen varias capas. Los documentos borrados se quedan en Eliminados recientemente indefinidamente (sin purga automática con la copia en la nube activada). El borrado definitivo pide una confirmación aparte que avisa del efecto en la nube. Las versiones anteriores de la copia pueden conservar el documento hasta que la conservación del historial o la limpieza de copias lo eliminen. Las protecciones contra subidas vacías y las versiones conservadas pueden ayudar tras un borrado accidental; mantén también una exportación independiente.
 
 ¿Debo guardar también mis propias copias?
 
@@ -403,7 +403,7 @@ Sí. La copia en la nube es una capa de seguridad, pero ningún sistema es perfe
 
 ¿Qué pasa si pierdo mi código de recuperación?
 
-Tu código de recuperación es la única llave para descifrar tu copia en la nube. Nuestro diseño es de conocimiento cero, lo que significa que no podemos restablecerlo, recuperarlo ni obtenerlo por ti. Apple y Google tampoco. Si pierdes tu código de recuperación, tu copia cifrada queda permanentemente irrecuperable. Guarda tu código en un lugar seguro antes de depender de la copia en la nube: un gestor de contraseñas, una copia impresa en un sitio seguro, o ambas cosas. Comprueba que puedes leerlo antes de dejarlo como tu única copia.
+Tu código de recuperación desbloquea la clave de cifrado de tu copia en la nube; los dispositivos configurados la conservan para las copias automáticas. Nuestro diseño es de conocimiento cero, lo que significa que no podemos restablecerlo, recuperarlo ni obtenerlo por ti. Apple y Google tampoco. Si pierdes el código de recuperación y el acceso a todos los dispositivos configurados que conservan la clave, tu copia cifrada en la nube queda irrecuperable. Guarda tu código en un lugar seguro antes de depender de la copia en la nube: un gestor de contraseñas, una copia impresa en un sitio seguro, o ambas cosas. Comprueba que puedes leerlo antes de dejarlo como tu única copia.
 
 [Para una comparación completa, ver por qué familias eligen Travel Document Vault →](https://traveldocumentvault.com/es/why-us/)
 

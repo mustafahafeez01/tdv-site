@@ -1,6 +1,6 @@
 # Prix Travel Document Vault - Achat Unique, Sans Abonnement
 
-> Travel Document Vault est un achat unique. Pas d'abonnement, pas de frais cachés. Un achat couvre toute votre famille. Tier gratuit disponible.
+> Pro est un achat unique. Pas d'abonnement, pas de frais cachés. Un achat couvre toute votre famille. Tier gratuit disponible.
 
 Source: https://traveldocumentvault.com/fr/pricing/
 
@@ -10,7 +10,7 @@ $9.99, une seule fois. Pas d'abonnement, pas de frais cachés, pas d'extraction 
 
 Prix en dollars américains. Nous fixons le prix de chaque pays localement plutôt que de le convertir depuis le dollar, et l'App Store ou Google Play affiche votre prix avant que vous ne payiez.
 
-Nous n'avons pas de serveurs qui conservent ou peuvent lire vos documents. Tout reste sur votre appareil. C'est pourquoi nous pouvons offrir un prix unique au lieu d'abonnements sans fin.
+Nous n'avons pas de serveurs qui conservent ou peuvent lire vos documents. Vos fichiers de documents restent sur votre appareil, sauf si vous les partagez ou les exportez, ou activez la sauvegarde chiffrée (Pro). C'est pourquoi nous pouvons offrir un prix unique au lieu d'abonnements sans fin.
 
 ## Choisissez Votre Plan
 
@@ -19,15 +19,15 @@ Nous n'avons pas de serveurs qui conservent ou peuvent lire vos documents. Tout 
 Toujours gratuit
 
 - Passeports, visas, pièces d'identité et plus
-- Scannez les documents, les dates remplies automatiquement
+- Scannez les documents et confirmez les dates d’expiration lues
 - Rappels d'expiration
 - Partager les documents individuels
 - Verrou PIN + Biométrique (Face ID / Touch ID)
 - 1 profil
 - Jusqu'à 5 documents
-- Supprimé récemment — fenêtre d'annulation de 30 jours
+- Récemment supprimé — restauration pendant 30 jours
 
-Toutes les données restent sur votre appareil. Toujours.
+Vos fichiers restent sur votre appareil, sauf si vous les exportez, les partagez ou activez la sauvegarde cloud chiffrée (Pro).
 
 Meilleure Valeur
 
@@ -35,13 +35,13 @@ Meilleure Valeur
 
 $9.99, achat unique
 
-Pour toute votre famille. Payez une fois. Toutes les mises à jour v1.x incluses, pour toujours.
+Pour toute la famille. Un paiement. Mises à jour v1.x incluses à jamais.
 
-[À propos de notre politique de version →](https://traveldocumentvault.com/pricing-policy/#version-policy)
+[Notre politique de version →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
-- Planificateur de voyage avec feu tricolore de disponibilité familiale
-- Sauvegarde sur votre propre cloud (iCloud ou Google Drive, chiffrée de bout en bout)
-- Suivi des jours à l'étranger pour les limites de visa et de fiscalité
+- Planificateur de voyage : feu tricolore de disponibilité familiale
+- Sauvegarde sur votre cloud (iCloud ou Google Drive, chiffrée de bout en bout)
+- Jours à l'étranger : suivi des limites de visa et fiscales
 - Allocations de limites par pays par membre de la famille
 - Chaque membre de la famille, un coffre-fort
 - **Documents** illimités
@@ -53,40 +53,40 @@ Pour toute votre famille. Payez une fois. Toutes les mises à jour v1.x incluses
 
 ### Gratuit
 
-Tout ce dont vous avez besoin pour voyager seul
+Tout le nécessaire pour voyager seul
 
 Gratuit
 
 - Passeports, visas, pièces d'identité et plus
-- Scannez les documents, les dates remplies automatiquement
+- Scannez les documents et confirmez les dates d’expiration lues
 - Rappels d'expiration
 - Partager les documents individuels
 - Verrou PIN + Biométrique (Face ID / Touch ID)
 - 1 profil
 - Jusqu'à 5 documents
-- Supprimé récemment — fenêtre d'annulation de 30 jours
+- Récemment supprimé — restauration pendant 30 jours
 
-Toutes les données restent sur votre appareil. Toujours.
+Vos fichiers restent sur votre appareil, sauf si vous les exportez, les partagez ou activez la sauvegarde cloud chiffrée (Pro).
 
 Pour les familles
 
 ### Pro
 
-Déverrouiller le coffre-fort complet pour votre famille
+Déverrouiller le coffre familial complet
 
 $9.99 une seule fois
 
 USD. Le prix de votre pays est fixé localement plutôt que converti depuis le dollar, et l'App Store ou Google Play l'affiche avant que vous ne payiez.
 
-Pour toute votre famille. Payez une fois. Toutes les mises à jour v1.x incluses, pour toujours.
+Pour toute la famille. Un paiement. Mises à jour v1.x incluses à jamais.
 
-[À propos de notre politique de version →](https://traveldocumentvault.com/pricing-policy/#version-policy)
+[Notre politique de version →](https://traveldocumentvault.com/pricing-policy/#version-policy)
 
-Tout ce qui est en Gratuit, plus :
+Tout en Gratuit, plus :
 
-- Planificateur de voyage avec feu tricolore de disponibilité familiale
-- Sauvegarde sur votre propre cloud (iCloud ou Google Drive, chiffrée de bout en bout)
-- Suivi des jours à l'étranger pour les limites de visa et de fiscalité
+- Planificateur de voyage : feu tricolore de disponibilité familiale
+- Sauvegarde sur votre cloud (iCloud ou Google Drive, chiffrée de bout en bout)
+- Jours à l'étranger : suivi des limites de visa et fiscales
 - Allocations de limites par pays par membre de la famille
 - Chaque membre de la famille, un coffre-fort
 - **Documents** illimités
@@ -96,19 +96,19 @@ Tout ce qui est en Gratuit, plus :
 - Export PDF combiné pour l'impression
 - Exporter les documents en lot
 
-Restaurez vos achats à tout moment avec le compte App Store ou Google Play avec lequel vous avez acheté.
+Restaurez vos achats à tout moment avec le compte App Store ou Google Play utilisé pour l'achat.
 
-Les fonctionnalités de disponibilité pour les voyages, de visa et de calcul des jours fiscaux sont à titre informatif uniquement — toujours vérifier auprès des sources officielles.
+Disponibilité des voyages, visas et calcul des jours fiscaux : à titre informatif uniquement — vérifiez toujours les sources officielles.
 
 ## Pourquoi Achat Unique et Pas Abonnement ?
 
-De nombreuses applications de documents facturent un abonnement annuel parce que leur modèle commercial dépend des revenus récurrents. Ce n'est pas ainsi que nous sommes construits. Nous n'avons pas de serveurs qui conservent ou peuvent lire vos données. Vos documents restent sur votre appareil. Nous n'avons pas de frais de serveur continus à vous transmettre.
+Pro est un achat unique. Nous n’avons pas de serveurs qui conservent ou lisent vos documents. Vos fichiers de documents restent sur votre appareil, sauf si vous les partagez ou les exportez, ou activez la sauvegarde chiffrée sur votre propre cloud (Pro). Pro n’entraîne aucun abonnement récurrent.
 
 Un prix unique est juste, durable et honnête. Vous payez une fois. Nous arrêtons de demander.
 
 ## Ce Qui Est Inclus Gratuitement, Pour Toujours
 
-Le tier gratuit n'est pas un essai. C'est un vrai tier permanent avec des fonctionnalités essentielles que vous utiliserez réellement : un profil, 5 documents, rappels d'expiration, partage de documents, verrou biométrique et chiffrement sur l'appareil. Si vous voyagez seul ou simplement en test, gratuit c'est tout ce dont vous avez besoin.
+Le tier gratuit n'est pas un essai. C'est un vrai tier permanent avec des fonctionnalités essentielles que vous utiliserez réellement : un profil, 5 documents, rappels d'expiration, partage de documents, verrou biométrique, chiffrement sur l’appareil, exportation et importation du coffre. Si vous voyagez seul ou simplement en test, gratuit c'est tout ce dont vous avez besoin.
 
 Pas de limites de temps. Pas de fonctionnalités qui disparaissent mystérieusement. Pas de motifs sombres vous poussant à passer à la version payante.
 
@@ -116,7 +116,7 @@ Pas de limites de temps. Pas de fonctionnalités qui disparaissent mystérieusem
 
 Pro est pour les familles. Profils illimités pour toute votre famille, documents illimités, planificateur de voyage avec liste de contrôle de disponibilité visuelle, sauvegarde cloud chiffrée vers votre propre iCloud ou Google Drive, et un suivi des jours à l'étranger pour les limites de jours par pays et le suivi de résidence fiscale.
 
-Un achat sur votre compte. Une famille. Fonctionne sur tous vos appareils.
+Un achat sur votre compte. Une famille. Fonctionne sur tous vos appareils utilisant le même compte App Store ou Google Play.
 
 ## Un Achat, Toute la Famille
 
@@ -126,7 +126,7 @@ Pas d'abonnements. Pas de tarification par siège. Pas de frais par membre de la
 
 ## Questions sur la Tarification
 
-Combien coûte Travel Document Vault ? Travel Document Vault propose un tier gratuit à jamais — 1 profil avec jusqu'à 5 documents, incluant toutes les fonctionnalités essentielles comme les rappels d'expiration, le partage de documents et le chiffrement. Pro coûte une seule fois et déverrouille les profils illimités, les documents illimités, la sauvegarde cloud chiffrée, le planificateur de voyage et le suivi des jours à l'étranger. Travel Document Vault est-il un abonnement ? Non. Travel Document Vault est un achat unique. Vous payez une seule fois pour Pro et le possédez pour toujours. Aucun frais récurrent, aucune annulation d'abonnement nécessaire, et aucun essai qui commence silencieusement à vous facturer. Le tier gratuit est également gratuit pour toujours. Que dois-je obtenir en gratuit par rapport à Pro ? Gratuit : 1 profil, jusqu'à 5 documents, rappels d'expiration, partage de documents, verrou PIN et biométrique, chiffrement sur l'appareil, accès hors ligne. Pro ajoute : profils illimités pour votre famille, documents illimités, planificateur de voyage avec feu tricolore de disponibilité familiale, sauvegarde cloud chiffrée vers votre propre iCloud ou Google Drive, suivi des jours à l'étranger pour les limites de visa et de fiscalité, et rappels de temps personnalisés. Dois-je payer par membre de la famille ou par appareil ? Non. Pro est un achat unique pour votre compte. Une fois acheté, vous pouvez ajouter des membres de la famille illimités (profils) et utiliser l'application sur plusieurs appareils sous le même compte App Store ou Google Play. Un achat. Toute la famille. Que signifie « toutes les mises à jour v1.x incluses » ? Votre achat couvre chaque mise à jour de la version majeure actuelle (v1.x), y compris les correctifs de bogues, les correctifs de sécurité et les nouvelles fonctionnalités. Ceci s'applique tant que vous utilisez l'application. Si nous publions jamais v2.0 avec des changements architecturaux substantiels, les premiers utilisateurs obtiennent une tarification de mise à niveau préférentielle et la possibilité de rester sur v1.x Pro pour toujours. Consultez notre [politique de version](https://traveldocumentvault.com/pricing-policy/#version-policy) complète pour plus de détails.
+Combien coûte Travel Document Vault ? Travel Document Vault propose un tier gratuit à jamais — 1 profil avec jusqu'à 5 documents, incluant toutes les fonctionnalités essentielles comme les rappels d'expiration, le partage de documents et le chiffrement. Pro coûte une seule fois et déverrouille les profils illimités, les documents illimités, la sauvegarde cloud chiffrée, le planificateur de voyage et le suivi des jours à l'étranger. Travel Document Vault est-il un abonnement ? Non. Pro est un achat unique. Vous payez une seule fois pour Pro et le possédez pour toujours. Aucun frais récurrent, aucune annulation d'abonnement nécessaire, et aucun essai qui commence silencieusement à vous facturer. Le tier gratuit est également gratuit pour toujours. Que dois-je obtenir en gratuit par rapport à Pro ? Gratuit : 1 profil, jusqu'à 5 documents, rappels d'expiration, partage de documents, verrou PIN et biométrique, chiffrement sur l'appareil, accès hors ligne. Pro ajoute : profils illimités pour votre famille, documents illimités, planificateur de voyage avec feu tricolore de disponibilité familiale, sauvegarde cloud chiffrée vers votre propre iCloud ou Google Drive, suivi des jours à l'étranger pour les limites de visa et de fiscalité, et rappels de temps personnalisés. Dois-je payer par membre de la famille ou par appareil ? Non. Pro est un achat unique pour votre compte. Une fois acheté, vous pouvez ajouter des membres de la famille illimités (profils) et utiliser l'application sur plusieurs appareils sous le même compte App Store ou Google Play. Un achat. Toute la famille. Que signifie « toutes les mises à jour v1.x incluses » ? Votre achat couvre chaque mise à jour de la version majeure actuelle (v1.x), y compris les correctifs de bogues, les correctifs de sécurité et les nouvelles fonctionnalités. Ceci s'applique tant que vous utilisez l'application. Si nous publions jamais v2.0 avec des changements architecturaux substantiels, les premiers utilisateurs obtiennent une tarification de mise à niveau préférentielle et la possibilité de rester sur v1.x Pro pour toujours. Consultez notre [politique de version](https://traveldocumentvault.com/pricing-policy/#version-policy) complète pour plus de détails.
 
 ## Prêt à Arrêter de Vous Inquiéter ?
 

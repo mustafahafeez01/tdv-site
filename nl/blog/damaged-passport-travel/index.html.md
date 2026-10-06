@@ -81,7 +81,7 @@ Een duidelijke digitale foto van je paspoort helpt hierbij. Bewaar de gegevenspa
 
 Dit is vooral waardevol als je in het buitenland bent wanneer je paspoort beschadigd raakt en een nooddocument van je ambassade nodig hebt. Consulaire medewerkers werken sneller als ze een scan van je originele paspoort direct voor zich hebben.
 
-Bewaar je digitale kopieën ergens versleuteld en offline – niet in Google Foto's of een gedeelde iCloud. Travel Document Vault is precies hiervoor gebouwd: paspoortfoto's versleuteld op alleen jouw apparaat, direct beschikbaar als er iets misgaat.
+Bewaar je digitale kopieën ergens versleuteld en offline – niet in Google Foto's of een gedeelde iCloud. Travel Document Vault bewaart paspoortfoto's versleuteld op je apparaat om ze offline te bekijken. Je kunt kopieën delen of exporteren, of met Pro een versleutelde cloudback-up maken.
 
 Scan je paspoort vandaag, voordat je het nodig hebt.
 

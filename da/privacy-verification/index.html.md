@@ -30,9 +30,9 @@ Du behøver ikke tro på os. Du kan bekræfte hvert påstand ovenfor med gratis,
 
 ### 1. Netværkstrafik test
 
-Installér en netværksovervågning som **mitmproxy** (gratis, open source), **Wireshark** (gratis, open source) eller **Charles Proxy**. Åbn Travel Document Vault, scan et dokument, gennemse din boks og indstil en påmindelse. Du bør ikke se dine dokumenter, scanninger, udløbsdatoer eller indholdet af din boks blive sendt til Travel Document Vault. Netværkstrafikken bør være begrænset til bestemte funktioner: valgfri Sentry-crashrapportering, købskontrol via App Store eller Google Play, valgfri cloud backup til din egen iCloud- eller Google Drive-konto, og et manuelt tjek for fejlrettelser, som forklares nedenfor.
+Installér en netværksovervågning som **mitmproxy** (gratis, open source), **Wireshark** (gratis, open source) eller **Charles Proxy**. Åbn Travel Document Vault, scan et dokument, gennemse din boks og indstil en påmindelse. Du bør ikke se dine dokumenter, scanninger, udløbsdatoer eller indholdet af din boks blive sendt til Travel Document Vault. Netværkstrafikken bør være begrænset til bestemte funktioner: valgfri Sentry-crashrapportering, købskontrol via App Store eller Google Play, valgfri cloud backup til din egen iCloud- eller Google Drive-konto, og et tjek for fejlrettelser, som forklares nedenfor.
 
-Indstillinger har en knap kaldet **Check for Updates**. Dette er et manuelt tjek, aldrig automatisk – den kører kun når du selv trykker på den, aldrig i baggrunden og aldrig af sig selv. Tjekket kontakter **updates.traveldocumentvault.com** – vores egen opdateringsserver, drevet af os på Google Cloud, som tilbyder kryptografisk signerede opdateringsfiler fra en lagerbeholder. Vi registrerer ikke tjekket: anmodningslogfiler er deaktiveret på vores side, så der gemmes ingen IP-adresser. Hver opdatering er signeret med en nøgle, som kun vi har, og appen afviser alt, hvis signatur ikke matcher det certifikat, der er indbygget i den. Det samme tryk tjekker også **App Store** eller **Google Play** for en nyere version af appen. Den findes, så visse fejlrettelser kan nå dig hurtigere end at vente på en helt ny udgivelse i App Store eller Google Play, nyttigt for hastende rettelser, afhængigt af rettelsens art. Samme regel som for alt andet på denne side: ingen netværksopkald uden at du har bedt om det.
+Indstillinger har en knap kaldet **Søg efter opdateringer**. Tjekket er slået fra som standard: det kører, når du trykker på knappen, eller én gang pr. appstart, hvis du slår Søg efter opdateringer ved åbning til. En igangværende download kan fortsætte, efter appen går i baggrunden. Tjekket kontakter **updates.traveldocumentvault.com** – vores egen opdateringsserver, drevet af os på Google Cloud, som tilbyder kryptografisk signerede opdateringsfiler fra en lagerbeholder. Opdateringshåndteringen skriver ikke applikationslogfiler for anmodninger. Hver opdatering er signeret med en nøgle, som kun vi har, og appen afviser alt, hvis signatur ikke matcher det certifikat, der er indbygget i den. Det samme tryk tjekker også **App Store** eller **Google Play** for en nyere version af appen. Den findes, så visse fejlrettelser kan nå dig hurtigere end at vente på en helt ny udgivelse i App Store eller Google Play, nyttigt for hastende rettelser, afhængigt af rettelsens art. Dokumentlagring kræver ikke netværk; købskontrol og aktiverede valgfrie funktioner kan foretage automatiske netværksopkald.
 
 ### 2. iOS App Privacy Report
 
@@ -42,7 +42,7 @@ På iPhone skal du gå til **Indstillinger > Privatliv og sikkerhed > App Privac
 
 Android har ikke én samlet indbygget privatlivsrapport som iPhone. To enkle måder at tjekke det selv på: se appens egen **Data Safety**-sektion på dens Google Play-side (den angiver tydeligt, hvad der indsamles, hvad der deles, at dine data krypteres under overførsel, og at de ikke kan slettes) – eller brug en netværksovervågning som beskrevet i trin 1 ovenfor.
 
-Hvis du har slået cloud backup til, kan du bemærke noget aktivitet mod Googles servere (webadresser, der ender på **googleapis.com**). Det er forventet og sikkert: det er kun din låste, krypterede sikkerhedskopifil og et logintjek, der sendes direkte til **din egen** Google Drive-konto – den samme konto, du allerede bruger til fotos eller Gmail. Vi ser den aldrig, modtager den aldrig og gemmer aldrig en kopi nogen steder. Kun du har gendannelsesnøglen, der kan låse den op.
+Hvis du har slået cloud backup til, kan du bemærke noget aktivitet mod Googles servere (webadresser, der ender på **googleapis.com**). Disse forbindelser sender dine krypterede hvælvingsfiler, logintjek og ukrypterede backupmetadata såsom enhedsnavn, antal og tidsstempler til **din egen** Google Drive-konto – den samme konto, du allerede bruger til fotos eller Gmail. Vi ser den aldrig, modtager den aldrig og gemmer aldrig en kopi nogen steder. Kun du har gendannelsesnøglen, der kan låse den op.
 
 ### 4. App Store og Play Store privatlivsmærkater
 
@@ -52,17 +52,17 @@ Apple og Google kræver, at udviklere erklærer, hvilke data deres app indsamler
 
 Vi nøjes ikke med at sige, at appen er sikker. Vi undersøger det, med de samme åbne værktøjer og offentlige standarder, som sikkerhedsbranchen selv bruger.
 
-### Vi holder appen op mod en offentlig standard
+### Sammenlign appen med en offentlig standard
 
-Vi vurderer Travel Document Vault ud fra [OWASP Mobile Application Security Verification Standard (MASVS)](https://mas.owasp.org/MASVS/), branchens tjekliste for, hvordan en mobilapp bør gemme data, bruge kryptering, låse sig bag Face ID eller en PIN-kode, og håndtere links fra andre apps. Alle kan læse standarden og sammenligne den med, hvordan appen rent faktisk opfører sig.
+Du kan sammenligne Travel Document Vault med [OWASP Mobile Application Security Verification Standard (MASVS)](https://mas.owasp.org/MASVS/), branchens tjekliste for, hvordan en mobilapp bør gemme data, bruge kryptering, låse sig bag Face ID eller en PIN-kode, og håndtere links fra andre apps. Alle kan læse standarden og sammenligne den med, hvordan appen rent faktisk opfører sig.
 
-### Vi scanner vores egen kode
+### Analyse af kildekoden
 
-Før en ny version udgives, kører vi statisk analyse af vores kode med [Semgrep](https://semgrep.dev/), et open source-værktøj, der markerer usikre mønstre som svag kryptering eller usikker datahåndtering, så vi kan rette dem tidligt.
+Værktøjer til statisk analyse som [Semgrep](https://semgrep.dev/) kan markere usikre mønstre som svag kryptering eller usikker datahåndtering. Det beskriver en kontrolmetode og er ikke bevis for, at hver udgivelse har bestået en scanning.
 
-### Vi scanner den færdige app
+### Den færdige apps adfærd
 
-Vi gennemgår også vores udgivne builds med sikkerhedsscanningsværktøjer til mobilapps, hvor vi tjekker, hvordan builden gemmer data, hvad den har adgang til, og hvordan den er signeret.
+Appen krypterer dokumentfiler på din enhed, og dens opdateringskonfiguration kræver et certifikat til kodesignering. Du kan tjekke dens netværksadfærd med trinene ovenfor.
 
 ### Fundet et problem? Sig til
 
@@ -88,7 +88,7 @@ iOS og Android
 
 iOS og Android
 
-**Hvorfor vi anmoder:** Så du kan importere et eksisterende foto af et dokument, og så appen kan eksportere krypterede sikkerhedskopifiler (.tdvault), når du anmoder det. På ældre Android-versioner er READ_EXTERNAL_STORAGE og WRITE_EXTERNAL_STORAGE påkrævet. På Android 13+ bruges READ_MEDIA_IMAGES i stedet.
+**Hvorfor vi anmoder:** Så du kan importere et eksisterende foto af et dokument. På Android bruger appen systemets fotovælger, så READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE og READ_MEDIA_IMAGES fjernes fra den endelige version. Krypterede backupfiler (.tdvault) eksporteres via telefonens delingsmenu, som ikke kræver lagertilladelse.
 
 **Hvad vi aldrig gør:** Appen læser kun det billede, du vælger. Den scanner, indekserer eller gennemser aldrig dit fotobibliotek eller filsystem.
 
@@ -104,7 +104,7 @@ iOS og Android
 
 Android
 
-**Hvorfor vi anmoder:** For at levere på-enhed udløbspåmindelser, som du selv indstiller. RECEIVE_BOOT_COMPLETED omdisponerer dine påmindelser efter en enhed genstart. WAKE_LOCK sikrer, at påmindelser udløses pålideligt, selv når telefonen sover. VIBRATE ledsager meddelelsesforsendelse.
+**Hvorfor vi anmoder:** For at levere lokale udløbspåmindelser for dine dokumenter. RECEIVE_BOOT_COMPLETED omdisponerer dine påmindelser efter en enhed genstart. WAKE_LOCK understøtter håndtering af notifikationer. VIBRATE ledsager meddelelsesforsendelse.
 
 **Hvad vi aldrig gør:** Vi sender aldrig marketing-, kampagne- eller tredjepartsmeddelser. Påmindelser planlægges helt på din enhed.
 
@@ -112,7 +112,7 @@ Android
 
 Android
 
-**Hvorfor disse vises:** De er nødvendige for netværksafhængige funktioner: **Sentry-crashrapportering** (opt-in, deaktiveret som standard), **fakturering via App Store eller Google Play** til køb af Pro-opgraderingen, **Pro cloud backup** (valgfrit), som synkroniserer din krypterede boks til din egen iCloud eller Google Drive, og den manuelle knap **Check for Updates** i Indstillinger (kører kun, når du trykker på den). ACCESS_NETWORK_STATE og ACCESS_WIFI_STATE lader disse funktioner kontrollere, om en forbindelse er tilgængelig, før de forsøger at sende.
+**Hvorfor disse vises:** De er nødvendige for netværksafhængige funktioner: **Sentry-crashrapportering** (opt-in, deaktiveret som standard), **fakturering via App Store eller Google Play** til køb af Pro-opgraderingen, **Pro cloud backup** (valgfrit), som synkroniserer din krypterede boks til din egen iCloud eller Google Drive, og knappen **Søg efter opdateringer** i Indstillinger (kører, når du trykker på den, eller ved åbning, hvis du slår det til). ACCESS_NETWORK_STATE og ACCESS_WIFI_STATE lader disse funktioner kontrollere, om en forbindelse er tilgængelig, før de forsøger at sende.
 
 **Hvad vi ikke gør:** Appen uploader ikke dine dokumenter, scanninger, udløbsdatoer, fotos eller indholdet af din boks til Travel Document Vault. Den fungerer helt offline til normal dokumentopbevaring og påmindelser.
 
@@ -122,9 +122,9 @@ Android-apps inkluderer tredjepartsbiblioteker til funktioner som in-app-køb, k
 
 ### Optag lyd
 
-Nedarvet, aldrig brugt
+Nedarvet, fjernet
 
-**Hvorfor det fremgår:** Denne tilladelse erklæres af et tredjepartsbibliotek, der er inkluderet i versionen (typisk kamera eller medie-plugin). Det vises i Android-manifestet, men udløses aldrig af vores kode. Appen optager aldrig lyd eller video under nogen omstændigheder.
+**Hvorfor det fremgår:** Denne tilladelse erklæres af kamerabibliotekerne i versionen. Travel Document Vault fjerner den fra det endelige Android-manifest, fordi appen tager stillbilleder af dokumenter og aldrig optager lyd eller video.
 
 **Hvordan du kan bekræfte:** Appen anmoder dig aldrig om mikrofontilladelse. Når du kontrollerer enhedens tilladelseshåndterings, vil du se, at lydoptagelse ikke er givet til Travel Document Vault.
 
@@ -138,7 +138,7 @@ Erklæret af Flutter-rammeværket til udviklings- og fejlfindingsoverlay. Denne 
 
 Nedarvet
 
-Erklæret af en rammeværksafhængighed. Appen registrerer, blokerer eller reagerer ikke på skærmbilleder. Denne tilladelse påvirker ikke din brug.
+Erklæret af en rammeværksafhængighed. Travel Document Vault slår beskyttelse mod skærmoptagelse til som standard på dokumentskærme, hvor det understøttes. Du kan ændre dette i Indstillinger.
 
 ### Tilladelser for badge-antal
 
@@ -156,7 +156,7 @@ Erklæret af Google Play Billing-biblioteket (til Pro-opgraderingen) og Play Ins
 
 Nedarvet
 
-Erklæret af en rammeværksafhængighed. Appen downloader ikke filer i baggrunden.
+Erklæret af en rammeværksafhængighed. En opdateringsdownload, der er startet i appen, kan fortsætte, efter den går i baggrunden, og iCloud kan håndtere filoverførsler via operativsystemet.
 
 ### Tilladelser, som vi ikke anmoder om
 

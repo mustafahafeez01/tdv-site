@@ -1,6 +1,6 @@
 # Verschlüsseltes Cloud-Backup für Reisedokumente: Wer hält den Schlüssel
 
-> Was ein verschlüsseltes Backup Ihrer Passscans wirklich bedeutet, und warum niemand Ihren Wiederherstellungscode zurücksetzen kann.
+> Was ein verschlüsseltes Backup Ihrer Passscans wirklich bedeutet, und warum wir Ihren Wiederherstellungscode nicht zurücksetzen können.
 
 Source: https://traveldocumentvault.com/de/blog/encrypted-cloud-backup-travel-documents/
 
@@ -12,9 +12,9 @@ Source: https://traveldocumentvault.com/de/blog/encrypted-cloud-backup-travel-do
 
 - **„Verschlüsseltes Backup" bedeutet erst dann etwas, wenn Sie wissen, wer den Schlüssel hält.** Kann das Unternehmen Ihre Dokumente lesen, schützt die Verschlüsselung sie vor Fremden, nicht vor dem Unternehmen.
 - Ein Backup, das vor dem Hochladen auf Ihrem Telefon verschlüsselt wird, erreicht die Cloud als unlesbare Daten. Der Speicheranbieter hält Chiffretext, nicht Ihren Pass.
-- **Kein Konto bedeutet kein Zurücksetzen des Passworts.** Verlieren Sie den Wiederherstellungscode, kann das Backup von niemandem geöffnet werden, auch nicht von uns. Das ist der bewusste Tausch.
+- **Kein Konto bedeutet kein Zurücksetzen des Passworts.** Verlieren Sie den Wiederherstellungscode und den Zugang zu allen Geräten, die den Tresor noch öffnen können, können wir das verschlüsselte Backup nicht wiederherstellen. Das ist der bewusste Tausch.
 - Schreiben Sie den Code auf, bevor Sie sich auf das Backup verlassen, bewahren Sie ihn getrennt vom Telefon auf und lesen Sie ihn einmal vor, um zu prüfen, ob er lesbar ist.
-- Ein System-Gerätebackup installiert die App neu, kann Ihre Dokumente aber nicht zurückbringen, weil der Verschlüsselungsschlüssel das alte Telefon nie verlassen hat.
+- Ein System-Gerätebackup installiert die App neu, kann Ihre Dokumente aber nicht zurückbringen, weil Systemsicherungen den an das Gerät gebundenen Verschlüsselungsschlüssel nicht übertragen.
 
 Sie haben vier Pässe, zwei Visa und die Geburtsurkunden der Kinder in eine App gescannt, die alles auf Ihrem Telefon behält. Gut so. Dann kommt die naheliegende Sorge: Was passiert, wenn das Telefon im Meer landet oder von einem Café-Tisch in Lissabon gestohlen wird.
 
@@ -32,11 +32,11 @@ Beim anderen Ansatz wird die Datei auf Ihrem Telefon verschlüsselt, bevor sie i
 
 Die Frage, die sich bei jeder App lohnt, ist kurz: **Wer hält den Schlüssel?** Alles andere im Marketing ergibt sich aus der Antwort.
 
-## Der Wiederherstellungscode, und warum ihn niemand zurücksetzen kann
+## Der Wiederherstellungscode, und warum wir ihn nicht zurücksetzen können
 
-Hier kommt der Teil, den die meisten Artikel auslassen, und er verdient es, klar ausgesprochen zu werden: Travel Document Vault hat keine Konten. Sie haben uns nie eine E-Mail-Adresse gegeben, wir haben nie ein Passwort für Sie festgelegt, und es gibt auf keinem Server, den wir betreiben, einen Eintrag über Sie. Wenn Sie das [Cloud-Backup](https://traveldocumentvault.com/de/cloud-backup/) aktivieren, erzeugt die App einen 24-stelligen Wiederherstellungscode und leitet daraus den Verschlüsselungsschlüssel ab. Der verschlüsselte Tresor geht dann an **Ihr eigenes iCloud-Konto auf iPhone und iPad oder Ihr eigenes Google-Drive-Konto auf Android** und nicht an uns.
+Travel Document Vault benötigt kein App-Konto, um Dokumente auf Ihrem Gerät zu speichern. Das optionale [Cloud-Backup](https://traveldocumentvault.com/de/cloud-backup/) erfordert Pro und Ihren Wiederherstellungscode, um den Cloud-Verschlüsselungsschlüssel zu entsperren. Die App erstellt diesen 24-stelligen Code, wenn Sie Ihre PIN festlegen. Der verschlüsselte Tresor geht dann an **Ihr eigenes iCloud-Konto auf iPhone und iPad oder Ihr eigenes Google-Drive-Konto auf Android** und nicht an uns.
 
-Die Konsequenz lässt sich nicht umgehen. **Verlieren Sie diesen Wiederherstellungscode, lässt sich das Backup nie wieder öffnen.** Nicht von Ihnen, nicht von Apple oder Google und nicht von uns. Es gibt keinen Link zum Zurücksetzen, weil es kein Konto gibt, an das er sich hängen ließe. Es gibt kein Support-Ticket, das ihn wiederherstellt, weil wir ihn nie besessen haben und ihn unmöglich erraten könnten.
+Die Konsequenz lässt sich nicht umgehen. **Wenn Sie den Wiederherstellungscode und den Zugang zu allen Geräten verlieren, die den Tresor noch öffnen können, können wir das verschlüsselte Backup nicht wiederherstellen.** Es gibt keinen Link zum Zurücksetzen, weil es kein Konto gibt, an das er sich hängen ließe. Es gibt kein Support-Ticket, das ihn wiederherstellt, weil wir ihn nie besessen haben und ihn unmöglich erraten könnten.
 
 Schriftlich klingt das hart, und es lohnt sich, ehrlich damit umzugehen, statt es in einem Einstellungsbildschirm zu verstecken. Es ist derselbe Tausch, den Sie mit einem Haustürschlüssel eingehen: Das Schloss lohnt sich nur, weil kein Schlüsseldienst der Welt einen Ersatzschlüssel aufbewahrt, und genau deshalb ist ein verlorener Schlüssel Ihr Problem.
 
@@ -68,17 +68,17 @@ Deshalb lautet die ehrliche Version von „ist die Cloud sicher": Die Cloud ist 
 
 ## Was ins Backup einfließt, und was zurückbleibt
 
-Das Backup enthält eine verschlüsselte Kopie des Tresors: jedes Profil, jeden Scan, Ablaufdaten, Erinnerungen, Notizen und Anhänge. Stellen Sie es wieder her, sieht die App genauso aus, wie Sie sie verlassen haben.
+Das Backup enthält Profile, Scans, Anhänge, Ablaufdaten, Notizen und Erinnerungsverläufe, die auf ein neues Gerät übertragen werden können. Die App verschlüsselt sie vor dem Hochladen. Bei der Wiederherstellung kommt dieser Tresorinhalt zurück; Geräteeinstellungen bleiben getrennt, und die App erstellt Benachrichtigungen neu.
 
-Drei Dinge bleiben bewusst auf dem Telefon, und der Wiederherstellungscode steht an erster Stelle: Er verlässt das Gerät nie, das ist der ganze Sinn der Sache. Auch Ihre App-Sperre bleibt lokal, sodass Face ID, Touch ID oder Ihre PIN andere aus dem Telefon fernhält, während die Verschlüsselung sie aus der Datei fernhält. Und die automatischen lokalen Sicherungspunkte, die die App während der Nutzung anlegt, bleiben ausschließlich auf dem Gerät.
+Drei Dinge bleiben bewusst auf dem Telefon, und der Wiederherstellungscode steht an erster Stelle: Er wird nicht mit dem Backup hochgeladen. Auch Ihre App-Sperre bleibt lokal, sodass Face ID, Touch ID oder Ihre PIN andere aus der App fernhält, während die Verschlüsselung sie aus der Datei fernhält. Und die automatischen lokalen Sicherungspunkte, die die App während der Nutzung anlegt, bleiben ausschließlich auf dem Gerät.
 
-Der letzte Punkt überrascht viele, deshalb hier die unverblümte Version. **Ein systemweites Gerätebackup installiert die App neu, kann Ihre Dokumente aber nicht wiederherstellen.** Der Verschlüsselungsschlüssel hat das alte Telefon nie verlassen, also hat das neue nichts, womit es entschlüsseln könnte. Soll Ihr Tresor das Telefon überleben, brauchen Sie entweder ein eingeschaltetes Cloud-Backup oder eine exportierte Datei, die irgendwo gespeichert ist.
+Der letzte Punkt überrascht viele, deshalb hier die unverblümte Version. **Ein systemweites Gerätebackup installiert die App neu, kann Ihre Dokumente aber nicht wiederherstellen.** Systemsicherungen übertragen den an das Gerät gebundenen Verschlüsselungsschlüssel nicht; das neue Telefon benötigt deshalb eine Cloud-Wiederherstellung (Pro) oder eine exportierte Tresordatei. Soll Ihr Tresor das Telefon überleben, brauchen Sie entweder ein eingeschaltetes Cloud-Backup oder eine exportierte Datei, die irgendwo gespeichert ist.
 
-## Die Wiederherstellung ist kurz und überschreibt nichts, was bereits da ist
+## Ihren Tresor wiederherstellen – ein Neustart lässt das alte Backup unangetastet
 
-Die Wiederherstellung ist kurz, und genau das ist der Sinn der früheren Vorbereitung.
+Die Dauer der Wiederherstellung hängt von der Tresorgröße und Ihrer Verbindung ab.
 
-Installieren Sie die App auf dem neuen Telefon und melden Sie sich beim gleichen iCloud- oder Google-Konto an, das Sie zuvor genutzt haben. Öffnen Sie Einstellungen, dann Cloud-Backup, dann Backup wiederherstellen, und geben Sie Ihren Wiederherstellungscode ein. Der Tresor kommt mit intakten Profilen, Ablaufdaten und Erinnerungen zurück.
+Installieren Sie die App auf dem neuen Telefon und melden Sie sich beim gleichen iCloud- oder Google-Konto an, das Sie zuvor genutzt haben. Öffnen Sie mit Pro bei ausgeschalteter Cloud-Sicherung auf dem Zielgerät „Einstellungen“, „Cloud-Sicherung“ und dann „Aus Sicherung wiederherstellen“. Wählen Sie den vorhandenen Tresor, geben Sie Ihren Wiederherstellungscode ein und bestätigen Sie die Wiederherstellung, die den lokalen Tresorinhalt ersetzt. Profile, Dokumente und Ablaufdaten werden wiederhergestellt; Benachrichtigungen werden auf dem Zielgerät neu erstellt.
 
 Die App prüft außerdem, bevor sie schreibt. Erkennt das Cloud-Backup ein bestehendes Backup in diesem Konto, fragt es Sie, ob Sie es wiederherstellen oder neu beginnen möchten. Ein neues Telefon kann nicht stillschweigend überschreiben, was bereits vorhanden ist.
 
@@ -86,7 +86,7 @@ Die App prüft außerdem, bevor sie schreibt. Erkennt das Cloud-Backup ein beste
 
 Das Cloud-Backup bleibt auf einer Plattform, weil es auf Apple-Geräten Ihr eigenes iCloud-Konto und auf Android Ihr eigenes Google-Drive-Konto nutzt. Der Wechsel von einer Plattform zur anderen braucht den anderen Weg.
 
-Nutzen Sie den Tresor-Export. Einstellungen, Tresor exportieren erzeugt eine einzelne passwortgeschützte Datei mit allem darin, und Sie entscheiden, wohin sie geht: die Dateien-App, ein Laufwerk, eine E-Mail an sich selbst. Auf dem neuen Telefon liest Einstellungen, Tresor importieren die Datei wieder ein. Das funktioniert in beide Richtungen und erhält Namen, Daten, Erinnerungen, Farben, Notizen und Anhänge so, wie sie waren.
+Der Tresor-Export ist kostenlos. Unter „Einstellungen“ erstellt „Tresor exportieren“ eine passwortgeschützte Datei mit Profilen, Dokumenten, Reisen, unterstützten Einstellungen und lesbaren Anhängen. Sie wählen den Speicherort: die Dateien-App, ein Laufwerk oder eine E-Mail an sich selbst. Auf dem neuen Telefon liest „Einstellungen“, „Sicherung importieren“ die Datei wieder ein und ersetzt die dort vorhandenen Daten. Beide Plattformen werden unterstützt. Prüfen Sie importierte Dokumente, Notizen und Anhänge, kontrollieren Sie die Erinnerungen erneut und behalten Sie den ursprünglichen Export. Benachrichtigungen werden auf dem Zielgerät neu erstellt.
 
 Diese exportierte Datei ist auch die Antwort für alle, die eine Kopie wollen, die überhaupt nicht von einem Cloud-Konto abhängt. Es ist sinnvoll, sie unabhängig vom eigenen Telefon auf einem Laufwerk zu Hause aufzubewahren.
 
@@ -114,23 +114,23 @@ Es bedeutet, dass die Kopie auf Ihrem Telefon verschlüsselt wird, bevor sie irg
 
 ### Was passiert, wenn ich meinen Backup-Schlüssel verliere?
 
-Das Backup bleibt verschlüsselt, und niemand kann es öffnen, auch wir nicht. Es gibt kein Konto, kein Zurücksetzen des Passworts und keinen Support-Weg, der es wiederherstellt, weil der Wiederherstellungscode uns von vornherein nie erreicht. Das ist der bewusste Tausch dafür, dass auch sonst niemand Ihre Dokumente lesen kann. Schreiben Sie den Code auf, bevor Sie sich auf das Backup verlassen, bewahren Sie ihn getrennt von Ihrem Telefon auf und lesen Sie ihn einmal zur Kontrolle vor.
+Wenn Sie den Wiederherstellungscode und den Zugang zu allen Geräten verlieren, die den Tresor noch öffnen können, können wir das verschlüsselte Backup nicht wiederherstellen. Es gibt kein Konto, kein Zurücksetzen des Passworts und keinen Support-Weg, der es wiederherstellt, weil der Wiederherstellungscode uns von vornherein nie erreicht. Das ist der bewusste Tausch dafür, dass auch sonst niemand Ihre Dokumente lesen kann. Schreiben Sie den Code auf, bevor Sie sich auf das Backup verlassen, bewahren Sie ihn getrennt von Ihrem Telefon auf und lesen Sie ihn einmal zur Kontrolle vor.
 
 ### Ist Cloud-Backup sicher für Passscans?
 
-Das hängt vollständig davon ab, was in der Cloud ankommt. Ein Foto Ihres Passes in einer normalen Fotobibliothek oder einem synchronisierten Ordner kommt lesbar an, und jeder, der sich Zugang zu diesem Konto verschafft, kann es lesen. Ein Backup, das vor dem Hochladen auf dem Gerät verschlüsselt wird, kommt als Chiffretext an, sodass der Speicheranbieter etwas hält, das er nicht öffnen kann. Travel Document Vault verschlüsselt den Tresor auf Ihrem Telefon mit AES-256-GCM und sendet die verschlüsselte Datei an Ihr eigenes iCloud- oder Google-Drive-Konto statt an einen Unternehmensserver.
+Das hängt vollständig davon ab, was in der Cloud ankommt. Ein Foto Ihres Passes in einer normalen Fotobibliothek oder einem synchronisierten Ordner kommt lesbar an, und jeder, der sich Zugang zu diesem Konto verschafft, kann es lesen. Ein Backup, das vor dem Hochladen auf dem Gerät verschlüsselt wird, kommt als Chiffretext an, sodass der Speicheranbieter etwas hält, das er nicht öffnen kann. Mit Pro verschlüsselt Travel Document Vault den Tresor auf Ihrem Telefon mit AES-256-GCM und sendet die verschlüsselte Datei an Ihr eigenes iCloud- oder Google-Drive-Konto statt an einen TDV-Server.
 
 ### Kann ich meine Dokumente auf einem anderen Telefon wiederherstellen?
 
-Ja. Installieren Sie die App auf dem neuen Telefon, melden Sie sich beim selben iCloud- oder Google-Konto an, öffnen Sie dann Einstellungen, Cloud-Backup, Backup wiederherstellen und geben Sie Ihren Wiederherstellungscode ein. Ihre Profile, Dokumente, Ablaufdaten und Erinnerungen kommen so zurück, wie sie waren. Beachten Sie, dass ein systemweites Gerätebackup das nicht von sich aus leistet: Es installiert die App neu, kann Ihre Dokumente aber nicht entschlüsseln, weil der Verschlüsselungsschlüssel Ihr ursprüngliches Gerät nie verlässt.
+Ja, mit Pro. Installieren Sie die App auf dem neuen Telefon und melden Sie sich beim selben iCloud- oder Google-Konto an. Öffnen Sie bei ausgeschalteter Cloud-Sicherung auf dem Zielgerät „Einstellungen“, „Cloud-Sicherung“ und dann „Aus Sicherung wiederherstellen“. Wählen Sie den vorhandenen Tresor, geben Sie Ihren Wiederherstellungscode ein und bestätigen Sie die Wiederherstellung, die den lokalen Tresorinhalt ersetzt. Profile, Dokumente und Ablaufdaten werden wiederhergestellt; Benachrichtigungen werden auf dem Zielgerät neu erstellt. Beachten Sie, dass ein systemweites Gerätebackup das nicht von sich aus leistet: Es installiert die App neu, kann Ihre Dokumente aber nicht entschlüsseln, weil Systemsicherungen den an das Gerät gebundenen Verschlüsselungsschlüssel nicht übertragen.
 
 ### Funktioniert das Backup zwischen iPhone und Android?
 
-Das Cloud-Backup selbst bleibt auf einer Plattform, da es auf dem iPhone und iPad Ihr eigenes iCloud-Konto und auf Android Ihr eigenes Google-Drive-Konto nutzt. Um zwischen den Plattformen zu wechseln, nutzen Sie stattdessen den Tresor-Export: Einstellungen, Tresor exportieren erstellt eine einzelne passwortgeschützte .tdvault-Datei, die Sie sich auf beliebigem Weg selbst zusenden können. Anschließend liest Einstellungen, Tresor importieren auf dem neuen Telefon die Datei wieder ein. Der Import funktioniert plattformübergreifend in beide Richtungen und erhält Namen, Daten, Erinnerungen, Notizen und Anhänge.
+Cloud-Backups bleiben auf einer Plattform: Ihr eigenes iCloud auf iPhone und iPad oder Ihr eigenes Google Drive unter Android. Für einen Wechsel nutzen Sie den kostenlosen Tresor-Export. Unter „Einstellungen“ erstellt „Tresor exportieren“ eine passwortgeschützte .tdvault-Datei, die Sie sich selbst senden können. Auf dem neuen Telefon liest „Einstellungen“, „Sicherung importieren“ sie wieder ein und ersetzt die dort vorhandenen Daten. Der Import unterstützt beide Plattformen. Prüfen Sie importierte Dokumente, Notizen und Anhänge, kontrollieren Sie die Erinnerungen erneut und behalten Sie den ursprünglichen Export. Benachrichtigungen werden auf dem Zielgerät neu erstellt.
 
 ### Was wird im Backup gespeichert, und was bleibt auf dem Gerät?
 
-Das Backup enthält eine verschlüsselte Kopie Ihres Tresors: jedes Profil, jeden Dokumentenscan, jedes Ablaufdatum, jede Erinnerung und Notiz. Ihr Wiederherstellungscode ist nicht darin enthalten und verlässt Ihr Gerät nie. Das Gleiche gilt für Ihre App-Sperre, sodass Face ID, Touch ID oder Ihre PIN das Telefon schützt, während die Verschlüsselung die Datei schützt. Auch die automatischen lokalen Sicherungspunkte bleiben ausschließlich auf dem Gerät, weshalb sie Ihren Tresor auf einem Ersatztelefon nicht zurückbringen können.
+Das Backup enthält Profile, lesbare Scans und Anhänge, Ablaufdaten, Notizen und übertragbare Erinnerungsverläufe, die vor dem Hochladen verschlüsselt werden. Ihr Wiederherstellungscode wird nicht mit dem Backup hochgeladen. Das Gleiche gilt für Ihre App-Sperre, sodass Face ID, Touch ID oder Ihre PIN die App schützt, während die Verschlüsselung die Datei schützt. Auch die automatischen lokalen Sicherungspunkte bleiben ausschließlich auf dem Gerät, weshalb sie Ihren Tresor auf einem Ersatztelefon nicht zurückbringen können.
 
 ## Verwandte Artikel
 
