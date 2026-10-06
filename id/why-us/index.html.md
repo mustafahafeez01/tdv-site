@@ -61,61 +61,102 @@ Paspor. Visa. SIM. Asuransi. Pemesanan perjalanan. Dokumen anak-anak.
 
 Semuanya dalam satu tempat di tangan Anda, siap kapan pun Anda membutuhkannya.
 
-## Yang Mungkin Anda Gunakan Sekarang
+## Di mana dokumen Anda kemungkinan disimpan sekarang
 
-Ini semua pilihan yang wajar. Masing-masing bekerja, hingga batas tertentu.
-
-### Vault Serbaguna
-
-**Keunggulan:** Keamanan tinggi dan akses offline.
-
-**Kekurangan:** Mereka memperlakukan paspor seperti kuitansi belanja dan tidak memiliki logika khusus perjalanan. Travel Document Vault menyediakan satu profil dan hingga lima dokumen gratis. Pro tersedia sebagai pembelian sekali bayar tanpa langganan.
+Kebanyakan dari kita sudah menyimpan salinan di suatu tempat. Begini cara memanfaatkan masing-masing dengan lebih baik.
 
 ### Galeri / Foto
 
-**Keunggulan:** Selalu ada bersama Anda.
-
-**Kekurangan:** Terkubur di antara ribuan foto tanpa pelacakan kedaluwarsa, tanpa organisasi, dan tanpa keamanan selain kunci layar ponsel.
+Selalu ada bersama Anda. Simpan foto paspor di album tersendiri agar Anda tidak perlu menggulir melewati foto liburan di konter check-in.
 
 ### Penyimpanan Cloud
 
-**Keunggulan:** Ada mode offline dan sinkronisasi antar perangkat.
-
-**Kekurangan:** Anda menyimpan paspor, mengecek kedaluwarsa, beralih ke aplikasi kalender untuk membuat pengingat, lalu mengingat folder mana yang berisi dokumen pasangan. Tiga aplikasi untuk pekerjaan satu, dan tidak ada yang tahu bahwa itu paspor yang kedaluwarsa.
+Praktis di berbagai perangkat. Buat satu folder bernama jelas untuk tiap orang bagi dokumen perjalanan, dan aktifkan perlindungan login terkuat yang ditawarkan penyedia Anda.
 
 ### Manajer Kata Sandi
 
-**Keunggulan:** Hebat untuk kata sandi.
-
-**Kekurangan:** Tidak dirancang untuk gambar dokumen, pelacakan kedaluwarsa, atau pengaturan keluarga. Foto paspor di kolom kata sandi adalah solusi sementara, bukan solusi nyata.
+Tempat yang masuk akal untuk nomor paspor jika Anda sudah memakainya. Pastikan halaman foto sama mudah dijangkau di bandara.
 
 ### Aplikasi Catatan
 
-**Keunggulan:** Fleksibel dan familiar.
-
-**Kekurangan:** Tidak ada pengingat kedaluwarsa, tidak ada panduan pengambilan gambar, dan foto paspor Anda berdampingan dengan daftar belanja tanpa enkripsi.
+Fleksibel dan sudah akrab. Jika nomor paspor ada di sebuah catatan, kunci catatan itu bila aplikasi Anda mendukungnya.
 
 ### Spreadsheet
 
-**Keunggulan:** Sangat baik untuk merencanakan itinerari dan mengetikkan detail.
+Bagus untuk menyatukan tanggal kedaluwarsa seluruh keluarga dalam satu tabel. Tambahkan kolom “perbarui sebelum”, dan tenggat berikutnya langsung terlihat.
 
-**Kekurangan:** Tidak ada lampiran gambar aman, tampilan buruk di layar ponsel di bandara, dan tidak ada pengingat kedaluwarsa otomatis sebelum perjalanan.
+### Salinan Kertas
 
-## Perbandingan Lengkap
+Tetap berguna. Salinan cetak setiap halaman foto, dibawa terpisah dari paspor, sangat membantu jika salah satunya hilang di luar negeri.
 
-Travel Document Vault menyimpan dokumen, melacak tanggal kedaluwarsa, dan, dengan Pro, menambahkan profil keluarga serta perencanaan perjalanan.
+## Brankas Anda sekilas
 
-| Fitur | Travel Document Vault | Aplikasi wallet | Galeri foto / penyimpanan cloud | Pengelola kata sandi |
-|---|---|---|---|---|
-| Pengingat kedaluwarsa | ✓8 bln lebih awal untuk paspor | ✗ | ✗ | ✗ |
-| Profil keluarga | ✓Tak terbatas (Pro) | ✗ | ✗ | ~Vault bersama saja |
-| Di perangkat secara default | ✓Cadangan opsional (Pro) | ✗Sinkronisasi cloud | ✗Berbasis cloud | ✗Berbasis cloud |
-| Jenis dokumen perjalanan | ✓Paspor, visa, KTP... | ~Hanya boarding pass | ✗ | ✗ |
-| Bekerja offline | ✓ | ✓ | ~Perlu cache dulu | ✓ |
-| Tanpa akun | ✓ | ~Butuh akun platform | ✗ | ✗ |
-| Tanpa langganan | ✓sekali bayar | ✓ | ~Gratis, tingkatan berlanjut iklan bervariasi | ✗umumnya $30-40/thn |
+Travel Document Vault menyimpan dokumen dan melacak tanggal kedaluwarsa. Pro menambahkan profil keluarga tanpa batas dan perencanaan perjalanan.
 
-✓ Didukung ~ Sebagian ✗ Tidak didukung
+### Pengingat kedaluwarsa
+
+8 bulan
+
+Secara default, pengingat paspor dimulai sejauh ini sebelumnya, lalu berulang seiring tanggalnya mendekat. Dokumen lain diatur waktunya sesuai jenisnya.
+
+1. 8 bln
+2. 6 bln
+3. 3 bln
+4. 6 mgg
+5. 1 bln
+6. 2 mgg
+7. 1 mgg
+8. Habis
+
+### Enkripsi
+
+AES-256
+
+File dokumen dienkripsi di ponsel Anda, begitu juga basis data yang menyimpan detail Anda.
+
+### Akun aplikasi
+
+Tidak perlu
+
+Tanpa pendaftaran dan tanpa login untuk aplikasinya. Cadangan cloud opsional memakai akun iCloud atau Google milik Anda sendiri.
+
+### Offline
+
+Tanpa sinyal
+
+Dokumen tersimpan dan pengingat tetap berfungsi tanpa koneksi, bahkan di antrean paspor.
+
+### Pro
+
+Bayar sekali
+
+Pembelian satu kali, tanpa langganan.
+
+### Dengan Pro
+
+#### Profil keluarga tanpa batas
+
+Satu profil untuk setiap anggota keluarga, masing-masing dengan dokumennya sendiri.
+
+#### Tanpa batas dokumen
+
+Tambahkan paspor, visa, dan kartu identitas sebanyak yang dibutuhkan keluarga.
+
+#### Daftar periksa kesiapan perjalanan
+
+Rencanakan perjalanan dan lihat dokumen mana yang sudah siap serta apa yang masih perlu dilakukan.
+
+#### Batas hari per negara
+
+Tetapkan sendiri batas hari, lalu perjalanan Anda menghitung hari di dalam atau di luar negara itu terhadap batas tersebut.
+
+#### Waktu pengingat sesuai keinginan Anda
+
+Pilih seberapa awal pengingat dimulai untuk setiap dokumen.
+
+#### Cadangan cloud terenkripsi
+
+Salinan terenkripsi di iCloud (iOS) atau Google Drive (Android) milik Anda sendiri, dipulihkan dengan kode pemulihan Anda.
 
 ## Satu Aplikasi. Semua Terorganisir.
 

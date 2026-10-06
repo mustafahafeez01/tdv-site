@@ -57,9 +57,9 @@ Was auch immer der Grenzbeamte tolerieren könnte, Sie treffen die Regeln frühe
 
 Ein fehlgeschlagener Reisepass strandet selten eine Person; er sperrt die Familie. Wenige Eltern werden drei Mitglieder weiterfliegen und einen an der Theke lassen, daher wird in der Praxis normalerweise die gesamte Buchung umgebucht oder storniert.
 
-## Die fünfminütige Familienprüfung
+## Prüfen Sie jeden Reisepass am Tag der Buchung
 
-Die Lösung ist einfach und dauert nur Minuten. Sammeln Sie am Tag der Buchung jeden Reisepass im Haushalt und notieren Sie jeweils das Verfallsdatum und das Ausstellungsdatum. Beantworten Sie dann zwei Fragen für jeden: Wird er noch drei Monate nach Ihrer Rückkehr gültig sein und wurde er vor weniger als zehn Jahren ausgestellt? Alles, das einen dieser Tests nicht besteht, geht in dieser Woche in die Erneuerungswarteschlange – an dem Punkt können Sie noch erneuern, die Reise umleiten oder Ihre Daten ohne Strafe verschieben.
+Die Lösung ist einfach und dauert nur Minuten. Sammeln Sie am Tag der Buchung jeden Reisepass im Haushalt und notieren Sie jeweils das Verfallsdatum und das Ausstellungsdatum. Beantworten Sie dann zwei Fragen für jeden: Wird er noch drei Monate nach Ihrer Rückkehr gültig sein und wurde er vor weniger als zehn Jahren ausgestellt? Alles, das einen dieser Tests nicht besteht, geht in dieser Woche in die Erneuerungswarteschlange – an dem Punkt können Sie noch erneuern, die Reise umleiten oder Ihre Daten ohne Strafe verschieben, und wir würden immer das Erneuern wählen, statt abzuwarten, ob sich die Daten verschieben.
 
 Kinder benötigen denselben Puffer wie Erwachsene. Es gibt keine Kindervergünstigung für die Gültigkeitsregeln – ein fünfjähriger Reisepass erhält die gleiche Timatic-Behandlung wie Ihrer. Ein Nebenaspekt für britische und irische Reisen: Irland ist überhaupt nicht im Schengen-Raum. UK-Irland-Reisen laufen unter dem separaten Common Travel Area, also verallgemeinern Sie nicht von einer Dublin-Reise zu einer Paris-Reise.
 

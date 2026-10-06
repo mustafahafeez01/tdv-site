@@ -74,6 +74,10 @@ Vault Export 将受支持的保险库记录和可用附件打包到一个加密�
 - [我的恢复代码是什么？——安全存储的完整指南](https://traveldocumentvault.com/zh-Hans/faq/recovery-code/)
 - [云备份——端到端加密如何工作](https://traveldocumentvault.com/zh-Hans/cloud-backup/)
 
+## 快速解答
+
+Travel Document Vault 提供哪些备份选项？ Travel Document Vault 提供三层保护：(1) 自动本地备份，每隔几分钟在您的设备上创建，无需付费。(2) Vault Export，一个免费的手动加密备份文件 (.tdvault)，您可以保存在任何选择的位置。(3) 云备份，一个 Pro 选项，可以在您自己的 iCloud 或 Google Drive 中保留端到端加密副本。 Vault Export 是免费的吗？ 这对所有用户都是免费的。无需购买 Pro。 本地备份和 Vault Export 之间有什么区别？ 当应用打开且您进行更改时，应用会每隔几分钟静默创建保险库快照。您无需操作。应用保留最近的几个快照，并删除旧快照以节省空间。Vault Export 会创建可移出设备保存的便携加密文件。 什么是云备份，谁需要它？ 云备份是 Pro 功能。开启后，会在您自己的 iCloud（iOS）或 Google Drive（Android）中保留自动备份。应用在打开且联网时更新备份。我们不接收备份。文档内容已加密；设备名称、数量和时间戳等备份元数据未加密。
+
 ## 获取 Travel Document Vault
 
 免费下载。Vault Export 和本地备份对所有人都包括在内。Pro 添加了云备份、无限配置文件、组合 PDF 导出等。一次性购买，无订阅。

@@ -14,9 +14,9 @@ Source: https://traveldocumentvault.com/blog/safest-way-to-store-passport-digita
 - **Google Photos** is not end-to-end encrypted by default and indexes your content, making it less suitable for sensitive identity documents.
 - **Dedicated encrypted apps** store passport data on-device with AES-256 encryption, require no account or cloud upload, and work offline. This is the most secure option.
 - Each approach involves trade-offs between convenience and security that you should understand before choosing.
-- The safest method depends on your personal risk tolerance and how you balance cross-device access against data isolation.
+- The safest method depends on your personal risk tolerance, but a digital copy of your passport deserves the same care as the original.
 
-A passport is one of the most sensitive documents you own, containing your full name, date of birth, passport number, and biometric data. Losing access to it at a border is stressful, but losing control of a digital copy through a breach is a more serious concern that most people don't properly consider. Yet that's exactly why most people should think more carefully about where they store digital copies rather than simply choosing whatever feels most convenient.
+A passport is one of the most sensitive documents you own: full name, date of birth, passport number, and biometric data, all in one file. Losing access to it at a border is stressful, but losing control of a digital copy through a breach does more lasting damage, and it's the risk most people haven't properly weighed. That's worth doing before you pick whatever storage option feels easiest.
 
 The three most common approaches (iCloud Photos, Google Photos, and dedicated encrypted apps) each offer a different balance of convenience and security. This article explains what each does, how they differ in protecting your data, and which might be right for your situation.
 
@@ -24,32 +24,32 @@ The three most common approaches (iCloud Photos, Google Photos, and dedicated en
 
 iCloud Photos automatically syncs your photos across your iPhone, iPad, and Mac, making passport copies accessible from any device.
 
-### How it works
+### It Syncs Automatically, but End-to-End Encryption Is Opt-In
 
 Photos you take upload to iCloud and encrypt with a key derived from your Apple ID. If you enable Advanced Data Protection (Apple's optional end-to-end encryption layer), your photos are encrypted on Apple's servers using keys only you hold. Even Apple cannot decrypt them.
 
-### Security properties
+### What's Protected, and What Still Depends on Apple
 
 - **End-to-end encrypted with Advanced Data Protection:** Yes, if you enable it. Without Advanced Data Protection, iCloud uses encryption in transit but Apple retains decryption keys.
 - **Requires account:** Yes, your Apple ID.
 - **Cloud upload:** Yes, automatic.
 - **Designed for identity documents:** No. iCloud Photos is designed for personal photography, not sensitive documents.
 
-### Trade-offs
+### Convenient Everywhere, One Point of Failure: Your Apple ID
 
 For convenience, iCloud Photos shines: your passport copy automatically syncs across all your Apple devices and persists if you lose your phone. Enabling Advanced Data Protection adds end-to-end encryption that even Apple cannot bypass, which significantly improves security compared to standard iCloud storage.
 
-However, your passport copy becomes linked to your Apple ID account, creating a potential single point of failure that extends across all your iCloud data. If someone compromises your Apple ID through a weak password, credential reuse, or social engineering, they gain access to everything in your iCloud account, including your passport scans. You're also trusting Apple's operational security, which means any breach of their systems would expose your data on their servers, though Apple is generally considered a strong security steward.
+However, your passport copy becomes linked to your Apple ID account, creating a potential single point of failure that extends across all your iCloud data. If someone compromises your Apple ID through a weak password, credential reuse, or social engineering, they gain access to everything in your iCloud account, including your passport scans. You're also trusting Apple's operational security, which means any breach of their systems would expose your data on their servers, though Apple generally has a strong security record.
 
 ## Option 2: Google Photos
 
 Google Photos is Google's equivalent service, offering automatic backup and organisation of photos across devices.
 
-### How it works
+### Google Analyses Your Photos to Power Search and Lens
 
 Photos upload to Google's servers and are encrypted in transit. Google processes the photos for features like Search, Lens, and recommendations, which requires analysing image content.
 
-### Security properties
+### No End-to-End Encryption by Default
 
 - **End-to-end encrypted by default:** No. Google Photos uses encryption in transit but not end-to-end. Google can decrypt and view your photos.
 - **Content scanning:** Google indexes and analyses photo content for features and recommendations.
@@ -57,7 +57,7 @@ Photos upload to Google's servers and are encrypted in transit. Google processes
 - **Cloud upload:** Yes, automatic.
 - **Designed for identity documents:** No.
 
-### Trade-offs
+### Strong Integration, Weaker Protection for Sensitive Documents
 
 Google Photos offers deep integration with Android, free storage options, and powerful search capabilities, which is appealing for convenience. But the security disadvantages for sensitive documents are more significant: Google Photos does not use end-to-end encryption by default, meaning Google can technically access your photos, and your passport scans are processed by Google's content analysis systems. Google has also experienced security incidents in the past, and identity documents need especially careful protection, so Google Photos ends up a lower-security choice than alternatives when safeguarding sensitive data is your priority.
 
@@ -69,11 +69,11 @@ If your Google account is compromised, someone with access can retrieve your pas
 
 Travel Document Vault stores documents on your phone by default. You can share or export copies, or back them up to your own iCloud or Google Drive with Pro.
 
-### How it works
+### Encrypted and Stored on Your Phone, Offline by Default
 
 When you add your passport scan to the app, it's encrypted using AES-256 and stored entirely on your phone. The app works fully offline - no account required, no server needed. With Pro, you can back up an encrypted copy to your own iCloud or Google Drive and sync it across configured devices on the same platform. You'll need your recovery code to restore a cloud backup.
 
-### Security properties
+### No Account, No Cloud Upload, Unless You Choose Backup
 
 - **On-device AES-256 encryption:** Yes. Data stays on your phone unless you share or export it, or enable encrypted backup to your own iCloud or Google Drive (Pro).
 - **Requires account:** No. No TDV account or login; optional encrypted backup to your own iCloud or Google Drive (Pro) uses your cloud account.
@@ -81,13 +81,13 @@ When you add your passport scan to the app, it's encrypted using AES-256 and sto
 - **Works offline:** Yes, fully.
 - **Designed for identity documents:** Yes. The entire architecture is optimised for keeping sensitive documents private.
 
-### Trade-offs
+### Stronger Isolation, With Cloud Backup Only If You Turn It On
 
 Travel Document Vault keeps your documents on your phone by default. Sharing and export are optional, as is encrypted backup to your own iCloud or Google Drive with Pro.
 
 With Pro, you can sync documents across configured devices on the same platform. If you lose your phone, restore a saved backup. Cloud restore needs your recovery code. For most families travelling together, storing documents on one parent's phone is sufficient anyway, and many apps support manual syncing via backup, which adds a layer of flexibility without requiring automatic cloud upload.
 
-## Direct Comparison Table
+## Encryption, Account and Cost at a Glance
 
 | Feature | iCloud Photos | Google Photos | Encrypted App |
 |---|---|---|---|
@@ -106,13 +106,13 @@ With Pro, you can sync documents across configured devices on the same platform.
 
 The answer depends on your personal risk tolerance and use case.
 
-**Choose iCloud Photos if:** You're already deeply embedded in Apple's ecosystem, want automatic cross-device access, and accept that your Apple ID is a single point of failure. Enabling Advanced Data Protection adds end-to-end encryption that improves security significantly, and for most iPhone users, it remains the most convenient option.
+**Choose iCloud Photos if:** You're already deeply embedded in Apple's ecosystem, want automatic cross-device access, and accept that your Apple ID is a single point of failure. Enabling Advanced Data Protection adds end-to-end encryption that improves security significantly, and for most iPhone users, it remains the most convenient option. If you haven't turned it on yet, do that tonight: it's the one setting that closes the biggest gap here.
 
 **Avoid Google Photos for passport storage.** The lack of default end-to-end encryption combined with content scanning makes it less suitable for sensitive identity documents than alternatives. If you use Google Photos, consider keeping a backup elsewhere.
 
-**Choose a dedicated encrypted app if:** Security is your primary concern, you want to reduce the number of third parties holding your data, and you are comfortable with manual backup and less convenient cross-device access. This approach offers stronger isolation and is specifically designed for travel documents. For families, apps that support multiple family members under one app (with no cloud upload) offer good balance.
+**Choose a dedicated encrypted app if:** Security is your primary concern, you want to reduce the number of third parties holding your data, and you are comfortable with manual backup and less convenient cross-device access. This approach offers stronger isolation and is specifically designed for travel documents. For families, apps that support multiple family members under one app (with no cloud upload) offer good balance. If we were choosing just for a passport, we'd lean this way, even if our everyday photos stayed in the cloud.
 
-## A Balanced Approach
+## You Don't Have to Choose Just One
 
 Many people use a hybrid approach: keeping a copy in iCloud or Google Photos for everyday access across devices, and a second copy in a dedicated encrypted app as a secure backup. This provides both convenience and redundancy. The key is understanding the trade-offs of each method and choosing consciously.
 

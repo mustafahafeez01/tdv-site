@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/pt/blog/travel-while-passport-renewal-pe
 
 Viajar enquanto uma renovação está a decorrer depende de um único facto: se o passaporte antigo continua em mão ou já foi entregue às autoridades. Essa única diferença decide se a viagem pode avançar. Varia também consoante o país e, no caso do Reino Unido, consoante o método de renovação utilizado.
 
-## A Regra Principal
+## Uma renovação em curso não o leva através do controlo de fronteira
 
 Não pode viajar internacionalmente sem um passaporte válido fisicamente em sua posse. Uma candidatura de renovação em curso não conta, e uma carta de confirmação do seu serviço de passaportes também não. O único documento que o coloca através de check-in e controlo de fronteira é um passaporte válido que pode entregar quando solicitado.
 
@@ -86,9 +86,9 @@ Não espere para contactar o serviço de passaportes do seu país por telefone �
 
 Ao mesmo tempo, contacte a sua companhia aérea sobre remarcação. Algumas transportadoras irão dispensar taxas de mudança quando um problema genuíno de documento é a razão. Obtenha qualquer acordo por escrito. Se tem seguro de viagem, verifique a sua apólice para cobertura de custos resultantes de atrasos de passaporte ou problemas de documentos.
 
-## Como Evitar Esta Situação
+## Renovar cedo elimina por completo a pressão do tempo
 
-A resposta simples é renovar o seu passaporte bem antes de o precisar para viagens. Candidatar-se 6 a 9 meses antes de qualquer viagem internacional planeada remove inteiramente a pressão de tempo e deixa margem para processamento padrão sem taxas expedidas.
+A resposta simples é renovar o seu passaporte bem antes de o precisar para viagens. Candidatar-se 6 a 9 meses antes de qualquer viagem internacional planeada remove inteiramente a pressão de tempo e deixa margem para processamento padrão sem taxas expedidas. Nós candidatávamo-nos mais perto dos nove meses do que dos seis, para que o processamento padrão não se arraste contra uma viagem já marcada. Se ainda não sabe a data de expiração do seu passaporte, verifique-a hoje, antes de reservar o que quer que seja.
 
 A razão pela qual as pessoas acabam nesta situação não é ignorância das regras. Os passaportes expiram silenciosamente sem lembrança automática, portanto as pessoas tendem a lembrar apenas que o seu passaporte é válido, não quando expira. Definir um lembrete 12 meses antes da sua data de expiração dá-lhe tempo para renovar ao seu próprio ritmo, no processamento padrão, sem pressão.
 

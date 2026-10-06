@@ -69,64 +69,102 @@ Alt på ét sted ved hånden, klar når du har brug for dem.
 
 Er du dette: organiseret person, der bare har brug for én app at stole på.
 
-## Hvad du sandsynligvis bruger nu
+## Hvor dine dokumenter sandsynligvis ligger i dag
 
-Det er alle fornuftige valg. Hvert enkelt virker – til en vis grad.
-
-### Generelle pengeskabe
-
-**Virker:** Høj sikkerhed og offline-adgang.
-
-**Mangler:** De behandler et pas som en kassebon og mangler rejsespecifik logik. Vi har bygget dette specifikt til rejsende med et gratisniveau på 5 dokumenter og en enkel engangspris uden tilbagevendende abonnementer.
+De fleste af os har allerede kopier et sted. Sådan får du mere ud af hver enkelt.
 
 ### Kamerarulle / Fotos
 
-**Virker:** Altid med dig.
-
-**Mangler:** Begravet i tusindvis af fotos uden udløbssporing, ingen organisering og ingen sikkerhed udover din telefonlås.
+Altid ved hånden. Læg pasfotos i et album for sig, så du ikke skal scrolle forbi feriebilleder ved check-in-skranken.
 
 ### Cloud-lagring
 
-**Virker:** Har offline-tilstand og synkroniserer på tværs af enheder.
-
-**Mangler:** Du gemmer dit pas, tjekker udløbsdatoen, skifter til en kalenderapp for at indstille en påmindelse, og forsøger derefter at huske, hvilken mappe der had ægtefællens dokumenter. Det er tre apps, der udfører én apps arbejde – og ingen af dem ved, at det er et pas, der udløber.
+Praktisk på tværs af enheder. Giv rejsedokumenterne en tydeligt navngivet mappe pr. person, og slå den stærkeste login-beskyttelse til, som din udbyder tilbyder.
 
 ### Adgangskodeadministratorer
 
-**Virker:** Fremragende til adgangskoder.
-
-**Mangler:** Ikke designet til dokumentbilleder, udløbssporing eller familieorganisering. Et pasfoto i et adgangskodefeldt er en nødløsning, ikke en løsning.
+Et fornuftigt sted til et pasnummer, hvis du allerede bruger en. Sørg for, at fotosiden er lige så nem at komme til i lufthavnen.
 
 ### Note-apps
 
-**Virker:** Fleksibel og velkendt.
-
-**Mangler:** Ingen udløbspåmindelser, ingen vejledt optagelse, og dit pasfoto ligger ved siden af din indkøbsliste uden kryptering.
+Fleksible og velkendte. Står et pasnummer i en note, så lås den note, hvor din app tillader det.
 
 ### Regneark
 
-**Virker:** Fremragende til planlægning af rejseplaner og indtastning af detaljer.
+Gode til at samle hele familiens udløbsdatoer i én tabel. Tilføj en kolonne »forny senest«, så ser du næste frist med det samme.
 
-**Mangler:** Ingen sikre billedvedhæftninger, forfærdelig formatering på mobilskærme i lufthavnen og ingen automatiserede udløbspåmindelser før din rejse.
+### Papirkopier
 
-## Sådan klarer den sig
+Stadig værd at have. En udskrevet kopi af hver fotoside, pakket adskilt fra pasene, hjælper, hvis et forsvinder i udlandet.
 
-Travel Document Vault gemmer dokumenter, holder styr på udløbsdatoer og tilføjer med Pro familieprofiler og rejseplanlægning.
+## Dit pengeskab på et øjeblik
 
-| Funktion | Travel Document Vault | Wallet-app | Fotobibliotek / cloud-lagring | Adgangskodeadministrator |
-|---|---|---|---|---|
-| Udløbspåmindelser (pr. dokumenttype) | ✓8 mdr. før pasudløb | ✗ | ✗ | ✗ |
-| Familieprofiler | ✓Ubegrænset (Pro) | ✗ | ✗ | ~Kun delte pengeskabe |
-| På enheden som standard | ✓Backup valgfri (Pro) | ✗Cloud-synk | ✗Cloud-først | ✗Cloud-først |
-| Rejsespecifikke dokumenttyper | ✓Pas, visum, ID... | ~Kun boardingkort | ✗ | ✗ |
-| Virker offline | ✓ | ✓ | ~Kræver forudgående cache | ✓ |
-| Ingen konto krævet | ✓ | ~Platformskonto nødvendig | ✗ | ✗ |
-| Intet abonnement | ✓engangs | ✓ | ~Gratis, reklamefinansierede niveauer varierer | ✗typisk 30-40 $/år |
-| Beredskabstjekliste (pr. rejse) | ✓Ja (Pro) | ✗ | ✗ | ✗ |
-| Tilpassede dagsgrænser per land (dage-i / dage-væk) | ✓ | ✗ | ✗ | ✗ |
-| Krypteret cloud-synkronisering (dit eget cloud) | ✓Din egen cloud (Pro) | ~Kun platformskonto | ~Kun cloud-udbyder | ~Udbyderens servere |
+Travel Document Vault gemmer dine dokumenter og holder styr på udløbsdatoer. Pro tilføjer ubegrænsede familieprofiler og rejseplanlægning.
 
-✓ Understøttet ~ Delvist ✗ Ikke understøttet
+### Udløbspåmindelser
+
+8 måneder
+
+Som standard starter påmindelser om pas så tidligt og følges op, jo tættere datoen kommer. Andre dokumenter tidsættes efter deres type.
+
+1. 8 md.
+2. 6 md.
+3. 3 md.
+4. 6 u.
+5. 1 md.
+6. 2 u.
+7. 1 u.
+8. Udløb
+
+### Kryptering
+
+AES-256
+
+Dokumentfilerne krypteres på din telefon, og det gør databasen med dine oplysninger også.
+
+### App-konto
+
+Intet
+
+Ingen tilmelding og intet login til appen. Den valgfrie cloud-backup bruger din egen iCloud- eller Google-konto.
+
+### Offline
+
+Ingen dækning
+
+Gemte dokumenter og påmindelser virker uden forbindelse, også i paskøen.
+
+### Pro
+
+Betal én gang
+
+Et engangskøb, intet abonnement.
+
+### Med Pro
+
+#### Ubegrænsede familieprofiler
+
+En profil til hvert familiemedlem, hver med sine egne dokumenter.
+
+#### Ingen grænse for dokumenter
+
+Tilføj så mange pas, visa og id-kort, som familien har brug for.
+
+#### Tjekliste til rejseklarhed
+
+Planlæg en rejse, og se hvilke dokumenter der er klar, og hvad der stadig mangler.
+
+#### Dagsgrænser pr. land
+
+Sæt selv en dagsgrænse, så tæller dine rejser dagene i landet eller væk fra det op mod den.
+
+#### Din egen timing af påmindelser
+
+Vælg, hvor tidligt påmindelserne starter for hvert dokument.
+
+#### Krypteret cloud-backup
+
+En krypteret kopi i din egen iCloud (iOS) eller Google Drive (Android), gendannet med din gendannelseskode.
 
 ## Én app. Alt organiseret.
 

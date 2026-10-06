@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/id/blog/passport-photo-at-home/
 
 Foto yang diambil di rumah bisa lolos semudah foto dari studio, asalkan memenuhi daftar aturan singkat yang sama. Sebagian besar penolakan disebabkan oleh tiga hal: bayangan di wajah atau latar belakang, ukuran kepala yang tidak sesuai proporsi dalam bingkai, dan kacamata. Perbaiki tiga hal ini, dan sisanya jadi mudah.
 
-## Persyaratan Umum di Berbagai Negara
+## Sebagian Besar Negara Memiliki Persyaratan Foto Inti yang Sama
 
 Meski aturan spesifik berbeda tiap otoritas paspor, sebagian besar negara memiliki persyaratan dasar yang sama untuk foto paspor. Memahami dasar-dasar ini akan membuat Anda siap, apa pun negara penerbit paspor Anda.
 
@@ -95,7 +95,7 @@ Ponsel pintar modern memotret dengan 12 megapiksel atau lebih, yang lebih dari c
 - **Latar belakang salah:** Latar belakang berwarna, bermotif, atau putih yang tidak merata. Papan poster atau sprei putih polos atau putih gading paling baik, pastikan tidak ada tekstur atau bayangan yang terlihat.
 - **Ruang kepala berlebihan atau kurang:** Wajah terlalu kecil atau posisinya salah dalam bingkai. Aturan negara Anda menetapkan secara pasti berapa besar wajah harus mengisi bingkai, biasanya sebagai ukuran dari dagu ke ubun-ubun, bukan persentase — sesuaikan dengan angka tersebut, bukan dengan yang "terlihat pas".
 
-## Dari Foto Ponsel Pintar ke Foto Resmi: Prosesnya
+## Potong Foto Ponsel Pintar Anda, Lalu Cetak atau Unggah
 
 Foto dari ponsel pintar Anda jarang langsung berukuran tepat. Setelah memotret, Anda perlu memotongnya sesuai spesifikasi pasti negara Anda, lalu memutuskan apakah akan mencetaknya atau mengunggahnya secara digital.
 
@@ -119,7 +119,7 @@ Sebelum mengambil foto Anda, pastikan Anda telah menyiapkan hal berikut:
 - Aplikasi pemotong foto yang telah diunduh dan siap digunakan
 - Rencana untuk mencetak atau mengajukan secara digital berdasarkan persyaratan negara Anda
 
-Beberapa menit persiapan yang tepat sekarang akan menghindarkan Anda dari harus mengajukan ulang di kemudian hari.
+Kalau Anda punya cahaya jendela yang cukup baik dan beberapa menit luang, ambil foto sendiri hari ini: gratis dan langsung jadi. Kalau Anda kurang yakin dengan pengaturannya, atau sedang dikejar tenggat, apotek atau toko cetak foto bisa menekan risiko itu hingga nyaris nol dengan biaya yang wajar. Cukup periksa dulu spesifikasi terbaru negara Anda sendiri, bukan angka yang Anda lihat di tempat lain.
 
 **Sebelum Anda mengandalkan ini:** ini adalah blog, bukan sumber resmi. Aturan dan detailnya berubah, dan situasi Anda bisa berbeda. Kami memeriksa apa yang kami terbitkan, dan tetap bisa keliru atau ketinggalan zaman. Kalau ada hal di sini yang penting bagi rencana Anda, pastikan dulu ke instansi yang menanganinya sebelum bertindak.
 

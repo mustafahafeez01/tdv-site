@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/es/blog/travel-while-passport-renewal-pe
 
 Viajar mientras una renovación está en curso depende de un solo hecho: si el pasaporte antiguo sigue en mano o ya se ha entregado a las autoridades. Esa única diferencia decide si el viaje puede seguir adelante. También varía según el país y, en el caso del Reino Unido, según el método de renovación empleado.
 
-## La regla principal
+## Una renovación en curso no te hará pasar el control fronterizo
 
 No puedes viajar internacionalmente sin un pasaporte válido físicamente en tu posesión. Una solicitud de renovación en curso no cuenta, y una carta de reconocimiento de tu oficina de pasaportes tampoco. El único documento que te permite pasar el mostrador de facturación y el control fronterizo es un pasaporte válido que puedas entregar cuando te lo pidan.
 
@@ -86,9 +86,9 @@ No esperes a contactar por teléfono al servicio de pasaportes de tu país —pr
 
 Al mismo tiempo, contacta a tu aerolínea sobre reprogramación. Algunos transportistas renunciarán a las tarifas de cambio cuando un problema genuino de documentos es la razón. Obtén cualquier acuerdo por escrito. Si tienes seguro de viaje, consulta tu póliza por cobertura de costos que surjan de retrasos de pasaportes o problemas de documentos.
 
-## Cómo evitar esta situación
+## Renovar con tiempo elimina por completo la presión del plazo
 
-La respuesta sencilla es renovar tu pasaporte bien antes de necesitarlo para viajar. Solicitar de 6 a 9 meses antes de cualquier viaje internacional planificado elimina completamente la presión de tiempo y deja espacio para procesamiento estándar sin tarifas expedidas.
+La respuesta sencilla es renovar tu pasaporte bien antes de necesitarlo para viajar. Solicitar de 6 a 9 meses antes de cualquier viaje internacional planificado elimina completamente la presión de tiempo y deja espacio para procesamiento estándar sin tarifas expedidas. Nosotros solicitaríamos más cerca de los nueve meses que de los seis, para que no haya riesgo de que el procesamiento estándar se alargue frente a un viaje ya reservado. Si aún no sabes cuándo vence tu pasaporte, compruébalo hoy, antes de reservar nada.
 
 La razón por la que las personas terminan en esta situación no es ignorancia de las reglas. Los pasaportes expiran silenciosamente sin recordatorio automático, así que la gente tiende a recordar solo que su pasaporte es válido, no cuándo expira. Establecer un recordatorio 12 meses antes de tu fecha de expiración te da tiempo para renovar a tu propio ritmo, con procesamiento estándar, sin presión.
 

@@ -74,6 +74,10 @@ Inget enskilt lager är ett skäl att hoppa över de andra. Molnkonton kan gå f
 - [Vad är min återställningskod? – fullständig guide till hur du förvarar den säkert](https://traveldocumentvault.com/sv/faq/recovery-code/)
 - [Molnsäkerhetskopia – så fungerar ände-till-ände-kryptering](https://traveldocumentvault.com/sv/cloud-backup/)
 
+## Snabba svar
+
+Vilka säkerhetskopieringsalternativ erbjuder Travel Document Vault? Travel Document Vault erbjuder tre skyddslager: (1) Automatiska lokala säkerhetskopior, som skapas med några minuters mellanrum på din enhet utan kostnad. (2) Vault Export, en gratis manuell krypterad säkerhetskopieringsfil (.tdvault) som du sparar var du vill. (3) Molnsäkerhetskopia, ett Pro-alternativ som håller en ände-till-ände-krypterad kopia i ditt eget iCloud eller Google Drive. Är Vault Export gratis? Detta är gratis för alla användare. Inget Pro-köp krävs. Vad är skillnaden mellan lokala säkerhetskopior och Vault Export? Medan appen är öppen och du gör ändringar tar den tyst en ögonblicksbild av ditt valv med några minuters mellanrum. Du behöver inte göra något. Appen sparar några av de senaste ögonblicksbilderna och tar bort äldre för att spara utrymme. Vault Export skapar en portabel krypterad fil som du kan spara utanför enheten. Vad är molnsäkerhetskopia och vem behöver den? Molnsäkerhetskopia är en Pro-funktion. Aktivera den för att hålla en automatisk kopia i ditt eget iCloud (iOS) eller Google Drive (Android). Appen uppdaterar den medan den är öppen och ansluten. Vi tar inte emot den. Dokumentinnehållet är krypterat. Säkerhetskopians metadata, som enhetsnamn, antal och tidsstämplar, är inte krypterade.
+
 ## Skaffa Travel Document Vault
 
 Gratis nedladdning. Vault Export och lokala säkerhetskopior ingår för alla. Pro lägger till molnsäkerhetskopia, obegränsat antal profiler, kombinerad PDF-export och mer. Engångsköp, ingen prenumeration.

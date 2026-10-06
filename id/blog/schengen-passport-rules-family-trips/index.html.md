@@ -57,9 +57,9 @@ Apa pun yang mungkin ditoleransi perbatasan, Anda akan menghadapi aturan lebih a
 
 Satu paspor yang gagal jarang hanya membuat satu orang tertahan; itu menghentikan seluruh keluarga. Sedikit orang tua yang mengirim tiga anggota keluarga lanjut dan meninggalkan satu di meja, jadi dalam praktiknya seluruh pemesanan biasanya dijadwal ulang atau hilang.
 
-## Pemeriksaan Lima Menit untuk Seluruh Keluarga
+## Periksa Setiap Paspor pada Hari Anda Memesan
 
-Solusinya sederhana dan hanya butuh beberapa menit. Pada hari Anda memesan, kumpulkan semua paspor di rumah dan catat setiap tanggal kedaluwarsa dan tanggal penerbitan. Lalu ajukan dua pertanyaan untuk setiap paspor: apakah masih berlaku tiga bulan setelah tanggal kepulangan Anda, dan apakah diterbitkan kurang dari sepuluh tahun lalu? Apa pun yang gagal salah satu uji itu masuk antrean perpanjangan minggu itu juga — saat itu Anda masih bisa memperpanjang, mengatur ulang perjalanan, atau menggeser tanggal tanpa konsekuensi.
+Solusinya sederhana dan hanya butuh beberapa menit. Pada hari Anda memesan, kumpulkan semua paspor di rumah dan catat setiap tanggal kedaluwarsa dan tanggal penerbitan. Lalu ajukan dua pertanyaan untuk setiap paspor: apakah masih berlaku tiga bulan setelah tanggal kepulangan Anda, dan apakah diterbitkan kurang dari sepuluh tahun lalu? Apa pun yang gagal salah satu uji itu masuk antrean perpanjangan minggu itu juga — saat itu Anda masih bisa memperpanjang, mengatur ulang perjalanan, atau menggeser tanggal tanpa konsekuensi, dan kami akan selalu memilih memperpanjang daripada menunggu untuk melihat apakah tanggalnya bergeser.
 
 Anak-anak membutuhkan jeda yang sama seperti orang dewasa. Tidak ada pengecualian anak dari aturan masa berlaku, paspor anak berusia lima tahun mendapat perlakuan Timatic yang sama dengan milik Anda. Satu catatan tambahan untuk perjalanan Inggris dan Irlandia: Irlandia sama sekali bukan bagian dari Schengen. Perjalanan antara Inggris dan Irlandia berjalan di bawah Common Travel Area yang terpisah, jadi jangan menggeneralisasi dari perjalanan ke Dublin ke perjalanan ke Paris.
 

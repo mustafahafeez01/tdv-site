@@ -69,64 +69,102 @@ All in one place at your fingertips, ready when you need them.
 
 If this is you: organised person who just needs one app to trust.
 
-## What You're Probably Using Now
+## Where Your Documents Probably Live Now
 
-These are all reasonable choices. Each one works - up to a point.
-
-### General-Purpose Vaults
-
-**Works:** High security and offline access.
-
-**Falls short:** They treat a passport like a grocery receipt and lack travel-specific logic. Travel Document Vault includes one profile and up to five documents free. Pro is a one-time purchase with no subscription.
+Most of us already keep copies somewhere. Here's how to get more out of each one.
 
 ### Camera Roll / Photos
 
-**Works:** Always with you.
-
-**Falls short:** Buried in thousands of photos with no expiry tracking, no organisation, and no security beyond your phone lock.
+Always with you. Put passport photos in their own album so you're not scrolling past holiday snaps at the check-in desk.
 
 ### Cloud Storage
 
-**Works:** Has offline mode and syncs across devices.
-
-**Falls short:** You store your passport, check the expiry date, switch to a calendar app to set a reminder, then remember which folder had your spouse's documents. It's three apps doing the job of one, and none of them know it's a passport that expires.
+Handy across devices. Give travel documents one clearly named folder per person, and turn on the strongest sign-in protection your provider offers.
 
 ### Password Managers
 
-**Works:** Great for passwords.
-
-**Falls short:** Not designed for document images, expiry tracking, or family organisation. A passport photo in a password field is a workaround, not a solution.
+A sensible home for a passport number if you already use one. Keep the photo page just as easy to reach for the airport.
 
 ### Note-Taking Apps
 
-**Works:** Flexible and familiar.
-
-**Falls short:** No expiry reminders, no guided capture, and your passport photo sits next to your grocery list with no encryption.
+Flexible and familiar. If a passport number lives in a note, lock that note where your app allows it.
 
 ### Spreadsheets
 
-**Works:** Excellent for planning itineraries and typing out details.
+Good for putting the whole family's expiry dates in one table. Add a "renew by" column and you'll see the next deadline at a glance.
 
-**Falls short:** No secure image attachments, terrible formatting on mobile screens at the airport, and no automated expiry reminders before your trip.
+### Paper Copies
 
-## How It Stacks Up
+Still worth having. A printed copy of each photo page, packed separately from the passports, helps if one goes missing abroad.
 
-Travel Document Vault stores documents, tracks expiry dates and, with Pro, adds family profiles and trip planning.
+## Your Vault at a Glance
 
-| Feature | Travel Document Vault | Wallet app | Photo library / cloud drive | Password manager |
-|---|---|---|---|---|
-| Expiry reminders (per document type) | ✓8 mo ahead for passports | ✗ | ✗ | ✗ |
-| Family profiles | ✓Unlimited (Pro) | ✗ | ✗ | ~Shared vaults only |
-| On-device by default | ✓Backup optional (Pro) | ✗Cloud sync | ✗Cloud-first | ✗Cloud-first |
-| Travel-specific doc types | ✓Passport, visa, ID... | ~Boarding passes only | ✗ | ✗ |
-| Works offline | ✓ | ✓ | ~Needs prior cache | ✓ |
-| No account required | ✓ | ~Platform account needed | ✗ | ✗ |
-| No subscription | ✓one-time | ✓ | ~Free, ad-supported tiers vary | ✗typically $30-40/yr |
-| Readiness checklist (per trip) | ✓Yes (Pro) | ✗ | ✗ | ✗ |
-| Custom country day-limits (days-in / days-away) | ✓Pro | ✗ | ✗ | ✗ |
-| Encrypted cloud sync (your own cloud) | ✓Your own cloud (Pro) | ~Platform account only | ~Cloud provider only | ~Provider servers |
+Travel Document Vault stores documents and tracks expiry dates. Pro adds unlimited family profiles and trip planning.
 
-✓ Supported ~ Partial ✗ Not supported
+### Expiry reminders
+
+8 months
+
+By default, passport reminders start this far ahead, then follow up as the date gets closer. Other documents are timed to their type.
+
+1. 8 mo
+2. 6 mo
+3. 3 mo
+4. 6 wk
+5. 1 mo
+6. 2 wk
+7. 1 wk
+8. Expiry
+
+### Encryption
+
+AES-256
+
+Document files are encrypted on your phone, and so is the database that holds your details.
+
+### App account
+
+None
+
+No sign-up and no login for the app. Optional cloud backup uses your own iCloud or Google account.
+
+### Offline
+
+No signal
+
+Saved documents and reminders work without a connection, even in the passport queue.
+
+### Pro
+
+Pay once
+
+A one-time purchase, no subscription.
+
+### With Pro
+
+#### Unlimited family profiles
+
+A profile for everyone in the family, each with their own documents.
+
+#### No document limit
+
+Add as many passports, visas and ID cards as the family needs.
+
+#### Trip readiness checklist
+
+Plan a trip and see which documents are ready and what still needs doing.
+
+#### Day limits per country
+
+Set a day limit yourself, and your trips count the days in or away against it.
+
+#### Your own reminder timing
+
+Choose how early reminders start for each document.
+
+#### Encrypted cloud backup
+
+An encrypted copy in your own iCloud (iOS) or Google Drive (Android), restored with your recovery code.
 
 ## One App. Everything Organised.
 

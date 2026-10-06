@@ -14,7 +14,7 @@ Source: https://traveldocumentvault.com/id/blog/safest-way-to-store-passport-dig
 - **Google Photos** tidak terenkripsi ujung ke ujung secara bawaan dan mengindeks konten Anda, sehingga kurang cocok untuk dokumen identitas yang sensitif.
 - **Aplikasi terenkripsi khusus** menyimpan data paspor di perangkat dengan enkripsi AES-256, tidak memerlukan akun atau unggahan ke cloud, dan bekerja secara luring. Ini adalah opsi paling aman.
 - Setiap pendekatan melibatkan kompromi antara kenyamanan dan keamanan yang perlu Anda pahami sebelum memilih.
-- Metode paling aman bergantung pada toleransi risiko pribadi Anda dan bagaimana Anda menyeimbangkan akses lintas perangkat dengan isolasi data.
+- Metode paling aman bergantung pada toleransi risiko pribadi Anda, tetapi salinan digital paspor Anda layak dijaga sama cermatnya dengan aslinya.
 
 Paspor adalah salah satu dokumen paling sensitif yang Anda miliki, memuat nama lengkap, tanggal lahir, nomor paspor, dan data biometrik Anda. Kehilangan akses ke paspor di perbatasan memang membuat stres, tetapi kehilangan kendali atas salinan digitalnya akibat kebocoran data adalah masalah yang lebih serius dan jarang dipikirkan secara memadai. Justru karena itulah kebanyakan orang perlu memikirkan lebih cermat di mana mereka menyimpan salinan digital, bukan sekadar memilih cara yang paling praktis.
 
@@ -24,18 +24,18 @@ Tiga pendekatan paling umum — iCloud Photos, Google Photos, dan aplikasi teren
 
 iCloud Photos secara otomatis menyinkronkan foto Anda di iPhone, iPad, dan Mac, sehingga salinan paspor dapat diakses dari perangkat mana pun.
 
-### Cara kerjanya
+### Tersinkronisasi Otomatis, tetapi Enkripsi Ujung ke Ujung Bersifat Opsional
 
 Foto yang Anda ambil diunggah ke iCloud dan dienkripsi dengan kunci yang diturunkan dari Apple ID Anda. Jika Anda mengaktifkan Perlindungan Data Lanjutan (lapisan enkripsi ujung ke ujung opsional dari Apple), foto Anda dienkripsi di server Apple menggunakan kunci yang hanya Anda miliki. Bahkan Apple pun tidak bisa mendekripsinya.
 
-### Karakteristik keamanan
+### Apa yang Terlindungi, dan Apa yang Masih Bergantung pada Apple
 
 - **Terenkripsi ujung ke ujung dengan Perlindungan Data Lanjutan:** Ya, jika Anda mengaktifkannya. Tanpa Perlindungan Data Lanjutan, iCloud menggunakan enkripsi saat transmisi, tetapi Apple tetap menyimpan kunci dekripsinya.
 - **Memerlukan akun:** Ya, Apple ID Anda.
 - **Unggahan ke cloud:** Ya, otomatis.
 - **Dirancang untuk dokumen identitas:** Tidak. iCloud Photos dirancang untuk foto pribadi, bukan dokumen sensitif.
 
-### Kompromi
+### Nyaman di Mana Saja, tetapi Ada Satu Titik Kegagalan: Apple ID Anda
 
 Dari segi kenyamanan, iCloud Photos unggul: salinan paspor Anda otomatis tersinkronisasi di semua perangkat Apple Anda dan tetap ada meski Anda kehilangan ponsel. Mengaktifkan Perlindungan Data Lanjutan menambahkan enkripsi ujung ke ujung yang bahkan tidak bisa dilewati oleh Apple, sehingga secara signifikan meningkatkan keamanan dibandingkan penyimpanan iCloud standar.
 
@@ -45,11 +45,11 @@ Namun, salinan paspor Anda menjadi terhubung dengan akun Apple ID Anda, mencipta
 
 Google Photos adalah layanan setara dari Google, menawarkan pencadangan otomatis dan pengorganisasian foto di berbagai perangkat.
 
-### Cara kerjanya
+### Google Menganalisis Foto Anda untuk Menjalankan Search dan Lens
 
 Foto diunggah ke server Google dan dienkripsi saat transmisi. Google memproses foto untuk fitur seperti Search, Lens, dan rekomendasi, yang mengharuskan analisis konten gambar.
 
-### Karakteristik keamanan
+### Tanpa Enkripsi Ujung ke Ujung Secara Bawaan
 
 - **Terenkripsi ujung ke ujung secara bawaan:** Tidak. Google Photos menggunakan enkripsi saat transmisi, tetapi bukan ujung ke ujung. Google bisa mendekripsi dan melihat foto Anda.
 - **Pemindaian konten:** Google mengindeks dan menganalisis konten foto untuk fitur dan rekomendasi.
@@ -57,7 +57,7 @@ Foto diunggah ke server Google dan dienkripsi saat transmisi. Google memproses f
 - **Unggahan ke cloud:** Ya, otomatis.
 - **Dirancang untuk dokumen identitas:** Tidak.
 
-### Kompromi
+### Integrasi yang Kuat, Perlindungan yang Lebih Lemah untuk Dokumen Sensitif
 
 Google Photos menawarkan integrasi mendalam dengan Android, opsi penyimpanan gratis, dan kemampuan pencarian yang kuat, yang menarik dari segi kenyamanan. Namun kerugian keamanan untuk dokumen sensitif lebih signifikan: Google Photos tidak menggunakan enkripsi ujung ke ujung secara bawaan, yang berarti Google secara teknis bisa mengakses foto Anda, dan hasil pindaian paspor Anda diproses oleh sistem analisis konten Google. Google juga pernah mengalami insiden keamanan di masa lalu, dan dokumen identitas memerlukan perlindungan yang sangat cermat, sehingga menjadikan Google Photos pilihan yang kurang aman dibandingkan alternatif lain jika melindungi data sensitif adalah prioritas Anda.
 
@@ -69,11 +69,11 @@ Jika akun Google Anda diretas, seseorang dengan akses tersebut dapat mengambil h
 
 Travel Document Vault menyimpan dokumen di ponsel Anda secara default. Anda bisa membagikan atau mengekspor salinan, atau mencadangkannya ke iCloud atau Google Drive Anda sendiri dengan Pro.
 
-### Cara kerjanya
+### Terenkripsi dan Disimpan di Ponsel Anda, Luring Secara Bawaan
 
 Saat Anda menambahkan hasil pindaian paspor ke aplikasi, data tersebut dienkripsi menggunakan AES-256 dan disimpan sepenuhnya di ponsel Anda. Aplikasi bekerja sepenuhnya secara luring — tidak perlu akun, tidak perlu server. Dengan Pro, Anda bisa mencadangkan salinan terenkripsi ke iCloud atau Google Drive Anda sendiri dan menyinkronkannya antarperangkat yang sudah dikonfigurasi pada platform yang sama. Anda memerlukan kode pemulihan untuk memulihkan cadangan cloud.
 
-### Karakteristik keamanan
+### Tanpa Akun, Tanpa Unggahan ke Cloud, Kecuali Anda Memilih Cadangan
 
 - **Enkripsi AES-256 di perangkat:** Ya. Data tetap di ponsel kecuali jika Anda membagikan atau mengekspornya, atau mengaktifkan cadangan terenkripsi ke iCloud atau Google Drive Anda sendiri (Pro).
 - **Memerlukan akun:** Tidak. Tanpa akun atau login TDV; cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri (Pro) menggunakan akun cloud Anda.
@@ -81,13 +81,13 @@ Saat Anda menambahkan hasil pindaian paspor ke aplikasi, data tersebut dienkrips
 - **Bekerja secara luring:** Ya, sepenuhnya.
 - **Dirancang untuk dokumen identitas:** Ya. Seluruh arsitekturnya dioptimalkan untuk menjaga privasi dokumen sensitif.
 
-### Kompromi
+### Isolasi yang Lebih Kuat, dengan Cadangan Cloud Hanya Jika Anda Mengaktifkannya
 
 Travel Document Vault menyimpan dokumen di ponsel Anda secara default. Berbagi dan ekspor bersifat opsional, begitu juga dengan cadangan terenkripsi ke iCloud atau Google Drive Anda sendiri dengan Pro.
 
 Dengan Pro, Anda bisa menyinkronkan dokumen antarperangkat yang sudah dikonfigurasi pada platform yang sama. Jika ponsel Anda hilang, pulihkan cadangan yang tersimpan. Pemulihan dari cloud memerlukan kode pemulihan Anda. Bagi kebanyakan keluarga yang bepergian bersama, menyimpan dokumen di ponsel salah satu orang tua sudah cukup, dan banyak aplikasi mendukung sinkronisasi manual melalui cadangan, yang memberi fleksibilitas tambahan tanpa mengharuskan unggahan otomatis ke cloud.
 
-## Perbandingan langsung
+## Enkripsi, Akun, dan Biaya dalam Sekilas
 
 | Fitur | iCloud Photos | Google Photos | Aplikasi terenkripsi |
 |---|---|---|---|
@@ -104,13 +104,13 @@ Dengan Pro, Anda bisa menyinkronkan dokumen antarperangkat yang sudah dikonfigur
 
 Jawabannya bergantung pada toleransi risiko pribadi dan kebutuhan Anda.
 
-**Pilih iCloud Photos jika:** Anda sudah terikat erat dengan ekosistem Apple, menginginkan akses otomatis lintas perangkat, dan menerima bahwa Apple ID Anda menjadi satu titik kegagalan. Mengaktifkan Perlindungan Data Lanjutan menambahkan enkripsi ujung ke ujung yang meningkatkan keamanan secara signifikan, dan bagi kebanyakan pengguna iPhone, ini tetap menjadi opsi paling praktis.
+**Pilih iCloud Photos jika:** Anda sudah terikat erat dengan ekosistem Apple, menginginkan akses otomatis lintas perangkat, dan menerima bahwa Apple ID Anda menjadi satu titik kegagalan. Mengaktifkan Perlindungan Data Lanjutan menambahkan enkripsi ujung ke ujung yang meningkatkan keamanan secara signifikan, dan bagi kebanyakan pengguna iPhone, ini tetap menjadi opsi paling praktis. Jika Anda belum mengaktifkannya, lakukan malam ini: itu satu-satunya pengaturan yang menutup celah terbesar di sini.
 
 **Hindari Google Photos untuk menyimpan paspor.** Tidak adanya enkripsi ujung ke ujung secara bawaan, dikombinasikan dengan pemindaian konten, membuatnya kurang cocok untuk dokumen identitas sensitif dibandingkan alternatif lain. Jika Anda tetap menggunakan Google Photos, pertimbangkan untuk menyimpan cadangan di tempat lain.
 
-**Pilih aplikasi terenkripsi khusus jika:** keamanan adalah prioritas utama Anda, Anda ingin mengurangi jumlah pihak ketiga yang menyimpan data Anda, dan Anda tidak keberatan dengan pencadangan manual serta akses lintas perangkat yang kurang praktis. Pendekatan ini memberikan isolasi yang lebih kuat dan dirancang khusus untuk dokumen perjalanan. Bagi keluarga, aplikasi yang mendukung beberapa anggota keluarga dalam satu aplikasi (tanpa unggahan ke cloud) menawarkan keseimbangan yang baik.
+**Pilih aplikasi terenkripsi khusus jika:** keamanan adalah prioritas utama Anda, Anda ingin mengurangi jumlah pihak ketiga yang menyimpan data Anda, dan Anda tidak keberatan dengan pencadangan manual serta akses lintas perangkat yang kurang praktis. Pendekatan ini memberikan isolasi yang lebih kuat dan dirancang khusus untuk dokumen perjalanan. Bagi keluarga, aplikasi yang mendukung beberapa anggota keluarga dalam satu aplikasi (tanpa unggahan ke cloud) menawarkan keseimbangan yang baik. Kalau kami memilih hanya untuk paspor, kami condong ke arah ini, meskipun foto sehari-hari tetap disimpan di cloud.
 
-## Pendekatan yang seimbang
+## Anda Tidak Harus Memilih Salah Satu Saja
 
 Banyak orang menggunakan pendekatan hibrida: menyimpan salinan di iCloud atau Google Photos untuk akses sehari-hari lintas perangkat, dan salinan kedua di aplikasi terenkripsi khusus sebagai cadangan yang aman. Pendekatan ini memberikan kenyamanan sekaligus redundansi. Kuncinya adalah memahami kompromi dari setiap metode dan memilih secara sadar.
 

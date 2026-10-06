@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/it/blog/passport-photo-at-home/
 
 Una foto scattata a casa viene accettata con la stessa facilità di una scattata in cabina, purché rispetti la stessa breve lista di regole. La maggior parte dei rifiuti si riduce a tre cose: ombra sul viso o sullo sfondo, la testa con la dimensione sbagliata nell'inquadratura, e gli occhiali. Sistema questi punti e il resto è semplice.
 
-## Requisiti Universali in Tutti i Paesi
+## La Maggior Parte dei Paesi Condivide gli Stessi Requisiti di Base per la Foto
 
 Anche se le regole specifiche variano a seconda dell'autorità passaporti, la maggior parte dei paesi condivide i requisiti fondamentali per le foto passaporto. Comprendere questi fondamenti ti mette su un terreno solido indipendentemente da quale paese emetta il tuo passaporto.
 
@@ -95,7 +95,7 @@ Gli smartphone moderni scattano a 12 megapixel o superiore, il che è più che s
 - **Sfondo sbagliato:** Sfondo colorato, motivo o sfondo bianco non uniforme. Un cartoncino bianco o bianco sporco o un lenzuolo funzionano meglio — assicurati che non ci sia trama visibile o ombre.
 - **Spazio di testa eccessivo o ritaglio:** Viso troppo piccolo o posizionato in modo errato nel fotogramma. Le regole del tuo paese diranno esattamente quanto del fotogramma il tuo viso dovrebbe riempire, solitamente come misura da mento a corona piuttosto che come percentuale — lavora a quella figura, non a quello che sembra giusto.
 
-## Da Smartphone a Foto Ufficiale: Il Processo
+## Ritaglia la Foto dello Smartphone, Poi Stampala o Caricala
 
 La tua foto dello smartphone raramente ha le dimensioni giuste subito. Dopo aver scattato, dovrai ritagliarla alle specifiche esatte del tuo paese, quindi decidere se stamparla o caricarla digitalmente.
 
@@ -119,7 +119,7 @@ Prima di scattare la foto, assicurati di avere quanto segue in posto:
 - Un'app di ritaglio scaricata e pronta all'uso
 - Piano per la stampa o la presentazione digitale in base ai requisiti del tuo paese
 
-Pochi minuti spesi a configurare correttamente ora ti salva dall'inviare di nuovo in seguito — che significa che la tua domanda non viene ritardata.
+Se hai una buona luce da finestra e qualche minuto a disposizione, scatta la foto da solo oggi stesso: è gratis e subito pronta. Se non ti senti sicuro della tua configurazione, o hai una scadenza che incalza, la farmacia o la posta riduce quel rischio quasi a zero a fronte di un costo modesto. Controlla solo le specifiche attuali del tuo paese, non un numero letto altrove.
 
 **Prima di farci affidamento:** questo è un blog, non una fonte ufficiale. Le regole e i dettagli cambiano, e la tua situazione può essere diversa. Controlliamo quello che pubblichiamo, e possiamo comunque sbagliare o essere superati. Se qualcosa qui conta per i tuoi programmi, confermalo con l'autorità competente prima di agire.
 

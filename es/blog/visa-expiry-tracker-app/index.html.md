@@ -13,16 +13,16 @@ Source: https://traveldocumentvault.com/es/blog/visa-expiry-tracker-app/
 - El seguimiento de visados es **más complejo** que el seguimiento de pasaportes —un visado tiene una fecha de validez de entrada, una duración máxima de estancia, y a veces límites de número de entradas, todo lo cual necesita supervisión separada.
 - Excederse en un visado tiene consecuencias graves: multas, prohibiciones de reentrada de años o más, y en algunos países, cargos criminales.
 - Las mejores aplicaciones rastreadoras de visados funcionan sin conexión, admiten múltiples tipos de visados, y permiten tiempos de recordatorio personalizados por documento.
-- Los visitantes del Área de Schengen deben rastrear una ventana móvil de 90/180 días, no solo una única fecha de vencimiento —la mayoría de aplicaciones de viaje genéricas no lo manejan correctamente.
+- Los visitantes del Área de Schengen deben rastrear una ventana móvil de 90/180 días, no solo una única fecha de vencimiento, porque el cómputo avanza con tu historial real de viajes, no con el calendario.
 - Rastrear visados y pasaportes juntos en un mismo lugar reduce el riesgo de un desajuste: entrar con un visado válido pero con un pasaporte que vence antes de que termine tu estancia planeada.
 
 Excederse en el tiempo permitido de un visado es uno de los errores de viaje más significativos que una persona puede cometer. A diferencia de un vuelo perdido —estresante pero en última instancia soluciona— un exceso crea un registro formal de inmigración que puede seguirte durante años. En Estados Unidos, un exceso de solo 180 días desencadena una prohibición automática de 3 años en la reentrada bajo la sección INA 212(a)(9)(B)(i), y un exceso de un año desencadena una prohibición de 10 años. Estas consecuencias no son ampliamente conocidas, pero están documentadas por el Servicio de Ciudadanía e Inmigración de Estados Unidos.
 
-Una aplicación rastreadora de visados previene esto. Supervisa múltiples fechas a la vez —validez de entrada, estancia máxima, y número de entradas— de una manera que las aplicaciones genéricas de pasaportes no pueden.
+Una aplicación rastreadora de visados está pensada para prevenir esto: tiene que supervisar múltiples fechas a la vez, validez de entrada, estancia máxima y número de entradas, cada una con su propio plazo.
 
 ## Por Qué el Seguimiento de Visados Es Más Complejo Que el Seguimiento de Pasaportes
 
-A diferencia de un pasaporte con una única fecha significativa (su vencimiento), un visado tiene varios campos distintos relacionados con el tiempo que cada uno necesita supervisión:
+Un pasaporte tiene una única fecha que importa: su vencimiento. Un visado normalmente tiene varias, y pasar por alto una de ellas es como se produce un exceso de estancia accidental.
 
 Qué significa esto en la práctica
 
@@ -41,9 +41,7 @@ Un rastreador que solo supervisa la fecha de validez de entrada se pierde la cau
 
 Para viajeros que visitan múltiples países europeos, la regla de 90/180 días del Área de Schengen es la condición de entrada más ampliamente incomprendida en viajes internacionales. Ciudadanos de países con acceso libre de visado a Schengen (incluyendo el Reino Unido, Estados Unidos, Canadá, y Australia, entre muchos otros) pueden pasar un máximo de 90 días en el Área de Schengen dentro de cualquier ventana móvil de 180 días.
 
-La Comisión Europea proporciona una calculadora oficial de estancia en Schengen para ayudar a viajeros a calcular sus días permitidos. El punto crítico es que esta es una *ventana móvil*, no un reinicio de año calendario. Los días pasados en Schengen hace seis meses aún cuentan contra tu asignación actual.
-
-La mayoría de aplicaciones genéricas de pasaportes o documentos no lo manejan correctamente. Una aplicación que simplemente muestre una fecha de vencimiento de visado no puede gestionar el cumplimiento de Schengen —requiere calcular días a través de una ventana móvil basada en fechas reales de entrada y salida.
+La Comisión Europea proporciona una calculadora oficial de estancia en Schengen para ayudar a viajeros a calcular sus días permitidos. El punto crítico es que esta es una *ventana móvil*, no un reinicio de año calendario. Los días pasados en Schengen hace seis meses aún cuentan contra tu asignación actual, así que mirar una sola fecha de vencimiento no te avisará de un exceso de estancia. Lo que importa es tu historial real de entradas y salidas, no la fecha impresa en el visado.
 
 ## Qué Sucede Cuando Te Excedes
 
@@ -78,7 +76,7 @@ Dada la complejidad anterior, una buena aplicación rastreadora de visados neces
 4. **Para viajes a Schengen, mantén un registro de fechas de entrada y salida.** Usa la calculadora oficial de la Comisión Europea para verificar tus días restantes antes de cualquier viaje que siga a viajes recientes a Schengen.
 5. **Establece un recordatorio al menos 2 semanas antes de tu fecha límite de estancia máxima.** Esto te da tiempo para organizar una partida sin prisa, especialmente si las opciones de transporte en tu destino son limitadas.
 
-Reglas relacionadas que interactúan con el seguimiento de visados: ve nuestra guía a la [regla de pasaporte de 6 meses](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/), que puede prevenirte de entrar incluso con un visado válido si tu pasaporte vence demasiado pronto después de tu salida planeada.
+Comprueba hoy la fecha de vencimiento de tu pasaporte frente a las fechas de tu visado: incluso un visado válido no te hará pasar si tu pasaporte vence demasiado pronto después de tu salida planeada, que es justo el desajuste que explica nuestra guía sobre la [regla de pasaporte de 6 meses](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/).
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 
@@ -102,7 +100,7 @@ Las mejores sí. El acceso sin conexión importa en fronteras y en áreas con in
 
 ### ¿Con cuánta anticipación debo recibir un recordatorio antes de que mi visado venza?
 
-Depende del tipo de visado. Para visados de larga estancia que requieren renovación, 90 días es un mínimo razonable. Para visados de turista con duraciones de estancia máxima fijas, un recordatorio con suficiente antelación a tu última fecha de salida permitida da tiempo para organizar la partida sin prisa. Busca aplicaciones que te dejen establecer tiempos personalizados por documento.
+Depende del tipo de visado. Para visados de larga estancia que necesitan renovación, nosotros pondríamos el recordatorio a 90 días, no más cerca. Para visados de turista con duraciones de estancia máxima fijas, un recordatorio con suficiente antelación a tu última fecha de salida permitida da tiempo para organizar la partida sin prisa. Busca aplicaciones que te dejen establecer tiempos personalizados por documento.
 
 ## Artículos Relacionados
 

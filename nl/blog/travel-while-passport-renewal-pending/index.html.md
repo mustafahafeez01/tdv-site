@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/nl/blog/travel-while-passport-renewal-pe
 
 Reizen terwijl een verlenging loopt, hangt af van één feit: is het oude paspoort nog in bezit of al ingeleverd bij de autoriteiten. Dat ene verschil bepaalt of de reis door kan gaan. Het verschilt daarnaast per land en, in het geval van het Verenigd Koninkrijk, per gebruikte verlengingsmethode.
 
-## De hoofdregel
+## Een lopende verlenging brengt je niet door de grenscontrole
 
 Je kunt niet internationaal reizen zonder een geldig paspoort fysiek in je bezit. Een lopende verlengingsaanvraag telt niet mee, en een ontvangstbevestiging van je paspoortinstantie ook niet. Het enige document waarmee je door de incheckbalie en grenscontrole komt, is een geldig paspoort dat je kunt overhandigen wanneer daarom wordt gevraagd.
 
@@ -86,9 +86,9 @@ Wacht niet met telefonisch contact opnemen met de paspoortinstantie van je land 
 
 Neem tegelijkertijd contact op met je luchtvaartmaatschappij over ombooking. Sommige maatschappijen laten wijzigingskosten vervallen wanneer een echt documentprobleem de reden is. Zorg dat elke afspraak op schrift staat. Heb je een reisverzekering, controleer dan je polis op dekking van kosten die voortvloeien uit paspoortvertragingen of documentproblemen.
 
-## Hoe je deze situatie voorkomt
+## Vroeg verlengen haalt de tijdsdruk volledig weg
 
-Het eenvoudige antwoord is om je paspoort ruim op tijd te verlengen voordat je het nodig hebt om te reizen. Door 6 tot 9 maanden voor een geplande internationale reis een aanvraag in te dienen, verdwijnt de tijdsdruk volledig en is er ruimte voor standaardverwerking zonder spoedkosten.
+Het eenvoudige antwoord is om je paspoort ruim op tijd te verlengen voordat je het nodig hebt om te reizen. Door 6 tot 9 maanden voor een geplande internationale reis een aanvraag in te dienen, verdwijnt de tijdsdruk volledig en is er ruimte voor standaardverwerking zonder spoedkosten. Wij zouden eerder negen maanden dan zes maanden vooraf aanvragen, zodat standaardverwerking nooit uitloopt ten opzichte van een geboekte reis. Weet je je eigen vervaldatum nog niet, controleer die dan vandaag nog, voordat je iets boekt.
 
 De reden waarom mensen in deze situatie terechtkomen, is geen onwetendheid over de regels. Paspoorten verlopen in stilte zonder automatische herinnering, waardoor mensen vooral onthouden dat hun paspoort geldig is, niet wanneer het verloopt. Door 12 maanden voor je vervaldatum een herinnering in te stellen, heb je de tijd om in je eigen tempo te verlengen, met standaardverwerking, zonder druk.
 

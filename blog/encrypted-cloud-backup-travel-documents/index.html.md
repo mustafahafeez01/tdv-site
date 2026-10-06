@@ -36,7 +36,7 @@ So the question worth asking of any app is short: **who holds the key?** Everyth
 
 ## The Recovery Code, and Why We Can't Reset It
 
-Travel Document Vault needs no app account to store documents on your device. Its optional [cloud backup](https://traveldocumentvault.com/cloud-backup/) requires Pro and your recovery code to unlock the cloud encryption key. The app creates this 24-character code when you set your PIN. The encrypted vault then goes to **your own iCloud** on iPhone and iPad, or **your own Google Drive** on Android, rather than to us.
+Travel Document Vault needs no app account to store documents on your device. Its optional [cloud backup](https://traveldocumentvault.com/cloud-backup/) requires Pro and your recovery code, which protects the cloud encryption key. The app creates this 24-character code when you set your PIN. The encrypted vault then goes to **your own iCloud** on iPhone and iPad, or **your own Google Drive** on Android, rather than to us.
 
 The consequence is unavoidable. If you lose the recovery code and access to every device that can still open the vault, **we cannot recover the encrypted backup**. There is no reset link, because there is no account to attach it to. There is no support ticket that recovers it, because we have never held it and cannot begin to guess it.
 

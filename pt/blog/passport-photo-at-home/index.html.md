@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/pt/blog/passport-photo-at-home/
 
 Uma foto tirada em casa é aceite tão facilmente como uma de fotógrafo, desde que cumpra a mesma lista curta de regras. A maioria das rejeições resume-se a três coisas: sombra no rosto ou no fundo, a cabeça com o tamanho errado no enquadramento, e óculos. Acerte nisso e o resto é simples.
 
-## Requisitos Universais em Todos os Países
+## A maioria dos países partilha os mesmos requisitos essenciais para a fotografia
 
 Embora as regras específicas variem por autoridade de passaportes, a maioria dos países partilha requisitos centrais para fotos de passaporte. Compreender estes fundamentos o colocará em terreno sólido independentemente de qual país emite o seu passaporte.
 
@@ -95,7 +95,7 @@ Os smartphones modernos fotografam em 12 megapixéis ou superior, o que é sufic
 - **Fundo errado:** Fundo colorido, padrão, ou fundo branco desigual. Cartolina branca simples ou lençol funciona melhor — certifique-se de que não há textura visível ou sombras.
 - **Espaço excessivo de cabeça ou corte:** Rosto demasiado pequeno ou posicionado incorretamente no quadro. As regras do seu país indicarão exatamente quanto do quadro o seu rosto deve preencher, normalmente como uma medição do queixo ao topo da cabeça em vez de uma percentagem — trabalhe com essa figura, não com o que parece correto.
 
-## De Smartphone a Foto Oficial: O Processo
+## Corte a fotografia do smartphone e depois imprima-a ou envie-a
 
 A sua foto de smartphone raramente fica no tamanho certo logo. Depois de fotografar, terá que cortar para as especificações exatas do seu país, depois decidir se quer imprimi-la ou carregá-la digitalmente.
 
@@ -119,7 +119,7 @@ Antes de tirar a sua foto, certifique-se de que tem o seguinte em lugar:
 - Uma aplicação de corte descarregada e pronta a usar
 - Plano para impressão ou submissão digital com base nos requisitos do seu país
 
-Alguns minutos gastos a configurar adequadamente agora poupa-o de reenviar mais tarde — o que significa que a sua candidatura não fica atrasada.
+Se tem boa luz natural de janela e uns minutos livres, tire a fotografia você mesmo hoje: é gratuito e fica pronta de imediato. Se não confia na sua configuração, ou se tem um prazo apertado, uma loja de fotografia ou os correios reduzem esse risco para quase nada por um custo modesto. Só tem de verificar primeiro as especificações atuais do seu próprio país, não um valor que viu noutro sítio.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 

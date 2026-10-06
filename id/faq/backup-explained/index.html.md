@@ -74,6 +74,10 @@ Tidak ada satu lapisan pun yang menjadi alasan untuk melewatkan yang lain. Akun 
 - [Apa Itu Kode Pemulihan Saya? - panduan lengkap untuk menyimpannya dengan aman](https://traveldocumentvault.com/id/faq/recovery-code/)
 - [Cadangan Cloud - cara kerja enkripsi ujung ke ujung](https://traveldocumentvault.com/id/cloud-backup/)
 
+## Jawaban Cepat
+
+Opsi cadangan apa saja yang ditawarkan Travel Document Vault? Travel Document Vault menawarkan tiga lapisan perlindungan: (1) Cadangan lokal otomatis, dibuat setiap beberapa menit di perangkat Anda tanpa biaya. (2) Ekspor Vault, file cadangan terenkripsi manual gratis (.tdvault) yang dapat Anda simpan di mana pun Anda pilih. (3) Cadangan Cloud, opsi Pro yang menyimpan salinan terenkripsi ujung ke ujung di iCloud atau Google Drive milik Anda sendiri. Apakah Ekspor Vault gratis? Ini gratis untuk semua pengguna. Tidak memerlukan pembelian Pro. Apa perbedaan antara cadangan lokal dan Ekspor Vault? Selagi aplikasi terbuka dan Anda membuat perubahan, aplikasi diam-diam mengambil snapshot vault Anda setiap beberapa menit. Anda tidak perlu melakukan apa pun. Aplikasi menyimpan beberapa snapshot terbaru dan menghapus yang lebih lama untuk menghemat ruang penyimpanan. Ekspor vault membuat file terenkripsi portabel yang bisa Anda simpan di luar perangkat. Apa itu cadangan cloud dan siapa yang membutuhkannya? Cadangan Awan adalah fitur Pro. Aktifkan untuk menyimpan salinan otomatis di iCloud (iOS) atau Google Drive (Android) Anda sendiri. Aplikasi memperbaruinya saat terbuka dan terhubung. Kami tidak menerimanya. Isi dokumen dienkripsi. Metadata cadangan, seperti nama perangkat, jumlah, dan cap waktu, tidak dienkripsi.
+
 ## Dapatkan Travel Document Vault
 
 Unduh gratis. Ekspor Vault dan cadangan lokal disertakan untuk semua orang. Pro menambahkan cadangan cloud, profil tak terbatas, ekspor PDF gabungan, dan lainnya. Pembelian satu kali, tanpa langganan.

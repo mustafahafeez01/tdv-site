@@ -74,6 +74,10 @@ Vault Export는 기기를 변경하기 전, 주요 앱 업데이트 전, 또는 
 - [복구 코드란? - 안전하게 보관하는 방법](https://traveldocumentvault.com/ko/faq/recovery-code/)
 - [클라우드 백업 - 엔드 투 엔드 암호화 방식](https://traveldocumentvault.com/ko/cloud-backup/)
 
+## 빠른 답변
+
+Travel Document Vault에서 제공하는 백업 옵션은 어떤 것들입니까? Travel Document Vault는 세 가지 보호 계층을 제공합니다. (1) 자동 로컬 백업: 비용 없이 몇 분마다 기기에 생성됩니다. (2) Vault Export: 무료 수동 암호화 백업 파일(.tdvault)로 원하는 위치에 저장할 수 있습니다. (3) 클라우드 백업: Pro 옵션으로 고유한 iCloud 또는 Google Drive에 엔드 투 엔드 암호화 사본을 유지합니다. Vault Export는 무료입니까? 이는 모든 사용자에게 무료입니다. Pro를 구매할 필요가 없습니다. 로컬 백업과 Vault Export의 차이점은 무엇입니까? 앱이 열려 있고 변경이 발생할 때 매 몇 분마다 보관소를 조용히 스냅샷으로 저장합니다. 아무것도 할 필요가 없습니다. 앱은 최근 스냅샷 몇 개를 유지하고 공간 절약을 위해 더 오래된 것을 제거합니다. Vault Export는 기기 밖에 저장할 수 있는 휴대 가능한 암호화 파일을 만듭니다. 클라우드 백업이란 무엇이며 누가 필요합니까? 클라우드 백업은 Pro 기능입니다. 켜면 자신의 iCloud(iOS) 또는 Google Drive(Android)에 자동으로 사본을 보관합니다. 앱이 열려 있고 연결되어 있을 때 백업을 업데이트합니다. 저희는 백업을 받지 않습니다. 문서 내용은 암호화됩니다. 기기 이름, 개수, 타임스탬프 같은 백업 메타데이터는 암호화되지 않습니다.
+
 ## Travel Document Vault 다운로드
 
 무료 다운로드. Vault Export와 로컬 백업은 모두에게 포함됩니다. Pro는 클라우드 백업, 무제한 프로필, 결합 PDF 내보내기 등을 추가합니다. 일회성 구매, 구독 없음.

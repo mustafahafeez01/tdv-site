@@ -61,61 +61,102 @@ Pasaporte. Visa. Licencia de conducir. Seguro. Reservaciones de viaje. Documento
 
 Todo en un lugar a tu alcance, listo cuando lo necesites.
 
-## Lo que probablemente estés usando ahora
+## Dónde suelen estar ahora tus documentos
 
-Todas son opciones razonables. Cada una funciona —hasta cierto punto.
-
-### Bóvedas de propósito general
-
-**Funciona:** Seguridad alta y acceso sin conexión.
-
-**Falla:** Tratan un pasaporte como un recibo de compra y carecen de lógica específica para viajes. Travel Document Vault incluye un perfil y hasta 5 documentos gratis. Pro es una compra única sin suscripción.
+La mayoría ya guardamos copias en algún sitio. Así puedes sacarle más partido a cada una.
 
 ### Galería de fotos
 
-**Funciona:** Siempre contigo.
-
-**Falla:** Enterrada en miles de fotos sin seguimiento de vencimiento, sin organización y sin seguridad más allá del bloqueo de tu teléfono.
+Siempre contigo. Guarda las fotos del pasaporte en un álbum propio y no tendrás que pasar entre fotos de vacaciones en el mostrador de facturación.
 
 ### Almacenamiento en la nube
 
-**Funciona:** Tiene modo sin conexión y se sincroniza entre dispositivos.
-
-**Falla:** Guardas tu pasaporte, verificas la fecha de vencimiento, cambias a una aplicación de calendario para establecer un recordatorio, luego recuerdas qué carpeta tenía los documentos de tu cónyuge. Son tres aplicaciones haciendo el trabajo de una —y ninguna sabe que es un pasaporte que caduca.
+Cómodo entre dispositivos. Crea una carpeta con nombre claro para los documentos de viaje de cada persona y activa la protección de inicio de sesión más fuerte que ofrezca tu proveedor.
 
 ### Gestores de contraseñas
 
-**Funciona:** Excelente para contraseñas.
-
-**Falla:** No diseñado para imágenes de documentos, seguimiento de vencimiento u organización familiar. Una foto de pasaporte en un campo de contraseña es un arreglo temporal, no una solución.
+Un buen sitio para el número de pasaporte si ya usas uno. Procura que la página de la foto sea igual de fácil de abrir en el aeropuerto.
 
 ### Aplicaciones de toma de notas
 
-**Funciona:** Flexible y familiar.
-
-**Falla:** Sin recordatorios de vencimiento, sin captura guiada, y tu foto de pasaporte está junto a tu lista de compras sin cifrado.
+Flexibles y conocidas. Si el número de pasaporte está en una nota, bloquea esa nota donde tu aplicación lo permita.
 
 ### Hojas de cálculo
 
-**Funciona:** Excelente para planificar itinerarios e ingresar detalles.
+Perfectas para reunir en una sola tabla las fechas de caducidad de toda la familia. Añade una columna «renovar antes de» y verás la próxima fecha límite de un vistazo.
 
-**Falla:** Sin adjuntos de imagen seguros, formato terrible en pantallas móviles en el aeropuerto, y sin recordatorios automáticos de vencimiento antes de tu viaje.
+### Copias en papel
 
-## Cómo se compara
+Siguen siendo útiles. Una copia impresa de cada página de la foto, guardada aparte de los pasaportes, te saca de un apuro si uno se pierde en el extranjero.
 
-Travel Document Vault guarda documentos, controla fechas de vencimiento y, con Pro, añade perfiles familiares y planificación de viajes.
+## Tu bóveda de un vistazo
 
-| Característica | Travel Document Vault | App de tipo wallet | Fototeca / nube | Gestor de contraseñas |
-|---|---|---|---|---|
-| Recordatorios de vencimiento | ✓8 meses antes para pasaportes | ✗ | ✗ | ✗ |
-| Perfiles familiares | ✓Ilimitado (Pro) | ✗ | ✗ | ~Solo bóvedas compartidas |
-| En el dispositivo por defecto | ✓Copia de seguridad opcional (Pro) | ✗Sincronización en la nube | ✗Primera nube | ✗Primera nube |
-| Tipos de documentos específicos de viaje | ✓Pasaporte, visa, ID... | ~Solo boletos de embarque | ✗ | ✗ |
-| Funciona sin conexión | ✓ | ✓ | ~Necesita caché anterior | ✓ |
-| Sin cuenta requerida | ✓ | ~Requiere cuenta de la plataforma | ✗ | ✗ |
-| Sin suscripción | ✓única vez | ✓ | ~Gratis, planes con anuncios variables | ✗normalmente $30-40/año |
+Travel Document Vault guarda tus documentos y controla sus fechas de caducidad. Pro añade perfiles familiares ilimitados y planificación de viajes.
 
-✓ Soportado ~ Parcial ✗ No soportado
+### Avisos de caducidad
+
+8 meses
+
+De forma predeterminada, los avisos del pasaporte empiezan con tanta antelación y se repiten a medida que se acerca la fecha. Los demás documentos se ajustan a su tipo.
+
+1. 8 m
+2. 6 m
+3. 3 m
+4. 6 sem
+5. 1 m
+6. 2 sem
+7. 1 sem
+8. Caduca
+
+### Cifrado
+
+AES-256
+
+Los archivos de tus documentos se cifran en tu teléfono, igual que la base de datos que guarda tus datos.
+
+### Cuenta de la app
+
+Ninguna
+
+Sin registro ni inicio de sesión en la app. La copia de seguridad en la nube, opcional, usa tu propia cuenta de iCloud o Google.
+
+### Sin conexión
+
+Sin señal
+
+Los documentos guardados y los avisos funcionan sin conexión, incluso en la cola del pasaporte.
+
+### Pro
+
+Pago único
+
+Una compra única, sin suscripción.
+
+### Con Pro
+
+#### Perfiles familiares ilimitados
+
+Un perfil para cada miembro de la familia, cada uno con sus propios documentos.
+
+#### Sin límite de documentos
+
+Añade todos los pasaportes, visados y documentos de identidad que necesite la familia.
+
+#### Lista de preparación del viaje
+
+Planifica un viaje y comprueba qué documentos están listos y qué falta por hacer.
+
+#### Límites de días por país
+
+Fija tú mismo un límite de días: tus viajes cuentan los días pasados en el país, o fuera de él, frente a ese límite.
+
+#### Tus propios plazos de aviso
+
+Elige con cuánta antelación empiezan los avisos de cada documento.
+
+#### Copia de seguridad cifrada en la nube
+
+Una copia cifrada en tu propio iCloud (iOS) o Google Drive (Android), que se restaura con tu código de recuperación.
 
 ## Una Aplicación. Todo Organizado.
 

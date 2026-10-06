@@ -74,6 +74,10 @@ Keine einzelne Ebene ist ein Grund, die anderen zu überspringen. Cloud-Konten k
 - [Was ist mein Wiederherstellungscode? – Vollständiger Leitfaden zum sicheren Speichern](https://traveldocumentvault.com/de/faq/recovery-code/)
 - [Cloud-Sicherung – wie Ende-zu-Ende-Verschlüsselung funktioniert](https://traveldocumentvault.com/de/cloud-backup/)
 
+## Schnelle Antworten
+
+Welche Sicherungsoptionen bietet Travel Document Vault? Travel Document Vault bietet drei Schutzebenen: (1) Automatische lokale Sicherungen, die alle paar Minuten kostenlos auf Ihrem Gerät erstellt werden. (2) Vault-Export, eine kostenlose manuelle verschlüsselte Sicherungsdatei (.tdvault), die Sie überall speichern können. (3) Cloud-Sicherung, eine Pro-Option, die eine Ende-zu-Ende verschlüsselte Kopie in Ihrem eigenen iCloud oder Google Drive führt. Ist Vault-Export kostenlos? Dies ist kostenlos für alle Benutzer. Kein Pro-Kauf erforderlich. Was ist der Unterschied zwischen lokalen Sicherungen und Vault-Export? Während die App geöffnet ist und Sie Änderungen vornehmen, erstellt sie alle paar Minuten automatisch Snapshots Ihres Tresors. Sie brauchen nichts zu tun. Die App behält einige der neuesten Snapshots und entfernt ältere, um Platz zu sparen. Der Tresor-Export erstellt eine portable verschlüsselte Datei, die Sie außerhalb des Geräts speichern können. Was ist Cloud-Sicherung und wer braucht sie? Cloud-Sicherung ist eine Pro-Funktion. Aktivieren Sie sie, um eine automatische Kopie in Ihrem eigenen iCloud (iOS) oder Google Drive (Android) aufzubewahren. Die App aktualisiert sie, während sie geöffnet und mit dem Internet verbunden ist. Wir erhalten sie nicht. Dokumentinhalte sind verschlüsselt. Backup-Metadaten wie Gerätenamen, Anzahlen und Zeitstempel sind es nicht.
+
 ## Travel Document Vault herunterladen
 
 Kostenloser Download. Vault-Export und lokale Sicherungen sind für alle enthalten. Pro fügt Cloud-Sicherung, unbegrenzte Profile, kombinierter PDF-Export und mehr hinzu. Einmaliger Kauf, kein Abonnement.

@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/nl/blog/passport-photo-at-home/
 
 Een foto die je thuis maakt wordt net zo makkelijk geaccepteerd als een uit een fotohokje, mits hij aan dezelfde korte lijst met regels voldoet. De meeste afwijzingen komen neer op drie dingen: schaduw op het gezicht of de achtergrond, een verkeerde grootte van het hoofd in het kader, en een bril. Krijg je die goed, dan is de rest eenvoudig.
 
-## Universele eisen tussen landen
+## De meeste landen delen dezelfde kerneisen voor de foto
 
 Hoewel de specifieke regels per paspoortinstantie verschillen, delen de meeste landen dezelfde kerneisen voor paspoortfoto's. Als je deze basisprincipes begrijpt, sta je stevig in je schoenen, ongeacht welk land je paspoort uitgeeft.
 
@@ -95,7 +95,7 @@ Moderne smartphones fotograferen met 12 megapixels of meer, wat ruim voldoende i
 - **Verkeerde achtergrond:** Gekleurde achtergrond, patroon of ongelijke witte achtergrond. Effen wit of gebroken wit posterbord of laken werkt het best – zorg dat er geen zichtbare textuur of schaduwen zijn.
 - **Te veel of te weinig ruimte rond het hoofd:** Gezicht te klein of verkeerd gepositioneerd in het kader. De regels van je land geven precies aan hoeveel van het kader je gezicht moet vullen, meestal als een maat van kin tot kruin in plaats van een percentage – werk naar dat cijfer toe, niet naar wat er "goed uitziet".
 
-## Van smartphonefoto naar officiële foto: het proces
+## Snijd je smartphonefoto bij en print of upload hem daarna
 
 Je smartphonefoto heeft zelden meteen de juiste afmeting. Na het fotograferen moet je hem bijsnijden naar de exacte specificaties van je land en vervolgens beslissen of je hem print of digitaal uploadt.
 
@@ -119,7 +119,7 @@ Voordat je je foto neemt, zorg dat je het volgende klaar hebt staan:
 - Een gedownloade en klaargezette bijsnij-app
 - Een plan voor printen of digitaal indienen op basis van de eisen van je land
 
-Een paar minuten goede voorbereiding nu bespaart je later een nieuwe indiening.
+Heb je goed daglicht bij een raam en een paar minuten over, maak de foto dan vandaag nog zelf: het is gratis en direct klaar. Ben je niet zeker van je opstelling, of zit je krap in de tijd, dan brengt de drogist of apotheek dat risico tegen een bescheiden bedrag terug tot bijna nul. Controleer wel eerst de actuele eisen van je eigen land, en niet een getal dat je ergens anders zag.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

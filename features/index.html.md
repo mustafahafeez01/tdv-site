@@ -314,6 +314,10 @@ Accidentally deleted a document? Tap Undo immediately to restore it. Miss the wi
 
 **Important:** Travel Document Vault is a personal organisation tool for storing digital copies of your documents. **Digital copies stored in this app are NOT valid for travel.** It does not verify document authenticity or provide legal or travel advice. Always carry original documents and verify all travel requirements with official government sources.
 
+## Quick Answers
+
+Does Travel Document Vault work without an internet connection? Vault data is encrypted on your device; document files use AES-256-GCM. Saved documents, expiry dates and scheduled reminders work offline. What documents can I store in Travel Document Vault? You can store passports, visas, driving licences, national ID cards, travel insurance documents, and any other travel-related document. With Pro, the app supports multiple profiles, so you can manage documents for your whole family in one place. How does the OCR scanning feature work? Capture the open passport spread in one shot. MRZ scanning reads the machine-readable zone to fill in the expiry date and issuing country when it can. Confirm the results or enter them manually. Text recognition runs on your device. How far in advance does Travel Document Vault send expiry reminders? Reminders start on their own, timed to the document type. Passports begin 8 months before expiry, then step down through 6 months, 3 months, 6 weeks, 1 month, 2 weeks and 1 week, with further reminders on the expiry day and afterwards. Visas, national IDs and travel insurance start 3 months out. Airline tickets, hotel bookings and vouchers start a week out. Pro users can choose a different starting point for any document.
+
 ## Download Free. No Subscription.
 
 Set it up tonight. Let the app remember so you don't have to.

@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/fr/blog/passport-photo-at-home/
 
 Une photo prise chez vous est acceptée aussi facilement qu'une photo de cabine, à condition de respecter la même courte liste de règles. La plupart des rejets tiennent à trois choses : une ombre sur le visage ou l'arrière-plan, une tête mal proportionnée dans le cadre, et les lunettes. Une fois ces trois points réglés, le reste est simple.
 
-## Exigences universelles dans tous les pays
+## La plupart des pays partagent les mêmes exigences de base pour la photo
 
 Bien que les règles spécifiques varient selon l'autorité de passeport, la plupart des pays partagent des exigences fondamentales pour les photos de passeport. Comprendre ces principes fondamentaux vous mettra sur la bonne voie, quel que soit le pays qui émet votre passeport.
 
@@ -95,7 +95,7 @@ Les smartphones modernes prennent des photos à 12 mégapixels ou plus, ce qui e
 - **Mauvais arrière-plan :** Arrière-plan coloré, motif ou arrière-plan blanc inégal. Du carton blanc ou blanc cassé uni ou un drap fonctionne mieux — assurez-vous qu'aucune texture ou ombre visible.
 - **Espace excessif au-dessus de la tête ou recadrage :** Visage trop petit ou mal positionné dans le cadre. Les règles de votre pays indiqueront exactement la quantité de cadre que votre visage doit remplir, généralement sous forme de mesure du menton à la couronne plutôt qu'un pourcentage — travaillez sur ce chiffre, pas sur ce qui semble correct.
 
-## Du smartphone à la photo officielle : le processus
+## Recadrez votre photo de smartphone, puis imprimez-la ou téléversez-la
 
 Votre photo de smartphone n'a rarement la bonne taille dès le départ. Après avoir tourné, vous devrez la recadrer selon les spécifications exactes de votre pays, puis décider de l'imprimer ou de la télécharger numériquement.
 
@@ -119,7 +119,7 @@ Avant de prendre votre photo, assurez-vous que vous avez ce qui suit en place :
 - Une application de recadrage téléchargée et prête à l'emploi
 - Un plan pour l'impression ou la soumission numérique en fonction des exigences de votre pays
 
-Quelques minutes passées à bien configurer maintenant vous évite d'avoir à soumettre à nouveau plus tard — ce qui signifie que votre demande ne sera pas retardée.
+Si vous disposez d'une bonne lumière de fenêtre et de quelques minutes, prenez la photo vous-même dès aujourd'hui : c'est gratuit et immédiatement prêt. Si vous n'êtes pas sûr de votre installation, ou si vous êtes pressé par une échéance, la pharmacie ou l'atelier d'impression réduit ce risque à presque rien pour un coût modeste. Vérifiez simplement les spécifications actuelles de votre propre pays, et non un chiffre vu ailleurs.
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 

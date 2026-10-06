@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/fr/blog/travel-while-passport-renewal-pe
 
 Voyager pendant qu'un renouvellement est en cours tient à un seul fait : l'ancien passeport est-il toujours en main, ou a-t-il déjà été remis aux autorités. Cette seule différence décide si le voyage peut avoir lieu. Cela varie aussi selon les pays et, au Royaume-Uni, selon la méthode de renouvellement utilisée.
 
-## La règle fondamentale
+## Un renouvellement en cours ne vous fera pas passer le contrôle aux frontières
 
 Vous ne pouvez pas voyager à l'étranger sans un passeport valide en votre possession. Une demande de renouvellement en cours ne compte pas, et une lettre d'accusé de réception de votre bureau des passeports non plus. Le seul document qui vous permet de passer l'enregistrement et le contrôle des frontières est un passeport valide que vous pouvez présenter quand on vous le demande.
 
@@ -86,9 +86,9 @@ Ne perdez pas de temps en contactant par téléphone le service des passeports d
 
 En même temps, contactez votre compagnie aérienne pour reporter votre vol. Certains transporteurs renonceront aux frais de modification lorsqu'un problème de document véritable en est la raison. Obtenez tout accord par écrit. Si vous avez une assurance voyage, vérifiez votre police pour la couverture des frais découlant des retards de passeport ou de problèmes de documents.
 
-## Comment éviter cette situation
+## Renouveler tôt supprime complètement la pression des délais
 
-La réponse simple est de renouveler votre passeport bien avant d'en avoir besoin pour voyager. Postuler 6 à 9 mois avant un voyage international prévu élimine complètement la pression des délais et laisse de la place pour un traitement standard sans frais accélérés.
+La réponse simple est de renouveler votre passeport bien avant d'en avoir besoin pour voyager. Postuler 6 à 9 mois avant un voyage international prévu élimine complètement la pression des délais et laisse de la place pour un traitement standard sans frais accélérés. Nous déposerions plutôt la demande vers neuf mois qu'à six, pour qu'un traitement standard qui s'éternise ne risque pas de menacer un voyage déjà réservé. Si vous ne connaissez pas encore votre date d'expiration, vérifiez-la aujourd'hui, avant de réserver quoi que ce soit.
 
 La raison pour laquelle les gens se retrouvent dans cette situation n'est pas l'ignorance des règles. Les passeports expirent silencieusement sans rappel automatique, donc les gens ont tendance à se souvenir seulement que leur passeport est valide, pas quand il expire. Fixer un rappel 12 mois avant votre date d'expiration vous donne le temps de renouveler à votre rythme, avec un traitement standard, sans pression.
 

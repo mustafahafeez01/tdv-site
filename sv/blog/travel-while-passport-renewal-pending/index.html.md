@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/sv/blog/travel-while-passport-renewal-pe
 
 Att resa medan en förnyelse pågår hänger på ett enda faktum: finns det gamla passet kvar i handen eller har det redan lämnats in till myndigheterna. Den enda skillnaden avgör om resan kan bli av. Det varierar dessutom mellan länder och, i Storbritanniens fall, med vilken förnyelsemetod som användes.
 
-## Grundregeln
+## En pågående förnyelse tar dig inte förbi gränskontrollen
 
 Du kan inte resa utomlands utan ett giltigt pass fysiskt i din besittning. En pågående förnyelseansökan räknas inte, och ett mottagningsbevis från din passmyndighet gör det inte heller. Det enda dokument som tar dig igenom incheckning och gränskontroll är ett giltigt pass som du kan lämna över när du blir ombedd.
 
@@ -86,9 +86,9 @@ Vänta inte med att kontakta ditt lands passmyndighet per telefon – fråga spe
 
 Kontakta samtidigt ditt flygbolag om ombokning. Vissa flygbolag avstår från ombokningsavgifter när ett genuint dokumentproblem är orsaken. Få eventuell överenskommelse skriftligt. Om du har en reseförsäkring, kontrollera din försäkring för täckning av kostnader som uppstår på grund av passförseningar eller dokumentproblem.
 
-## Så undviker du att hamna i den här situationen
+## Att förnya i god tid tar bort tidspressen helt
 
-Det enkla svaret är att förnya ditt pass god tid innan du behöver det för resa. Att ansöka 6 till 9 månader före en planerad utrikesresa tar bort tidspressen helt och lämnar utrymme för standardhandläggning utan expedieringsavgifter.
+Det enkla svaret är att förnya ditt pass god tid innan du behöver det för resa. Att ansöka 6 till 9 månader före en planerad utrikesresa tar bort tidspressen helt och lämnar utrymme för standardhandläggning utan expedieringsavgifter. Vi skulle ansöka närmare nio månader före än sex, så att det inte finns någon risk att standardhandläggningen drar över mot en bokad resa. Om du inte redan vet när ditt pass går ut, kontrollera det i dag, innan du bokar något.
 
 Anledningen till att människor hamnar i den här situationen är inte okunskap om reglerna. Pass går ut i tysthet utan automatisk påminnelse, så man tenderar bara att komma ihåg att passet är giltigt, inte när det går ut. Att ställa in en påminnelse 12 månader före ditt utgångsdatum ger dig tid att förnya i din egen takt, med standardhandläggning, utan press.
 

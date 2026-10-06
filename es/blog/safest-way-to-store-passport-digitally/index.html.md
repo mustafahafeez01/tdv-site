@@ -14,7 +14,7 @@ Source: https://traveldocumentvault.com/es/blog/safest-way-to-store-passport-dig
 - **Google Photos** no está cifrado de extremo a extremo por defecto e indexa tu contenido, lo que lo hace menos adecuado para documentos de identidad sensibles.
 - **Las aplicaciones cifradas dedicadas** almacenan datos de pasaporte en el dispositivo con cifrado AES-256, no requieren cuenta ni carga a la nube y funcionan sin conexión. Esta es la opción más segura.
 - Cada enfoque implica compromisos entre comodidad y seguridad que deberías entender antes de elegir.
-- El método más seguro depende de tu tolerancia personal al riesgo y cómo equilibres el acceso entre dispositivos contra el aislamiento de datos.
+- El método más seguro depende de tu tolerancia personal al riesgo, pero una copia digital de tu pasaporte merece el mismo cuidado que el original.
 
 Un pasaporte es uno de los documentos más sensibles que posees, que contiene tu nombre completo, fecha de nacimiento, número de pasaporte y datos biométricos. Perder acceso a él en una frontera es estresante, pero perder el control de una copia digital a través de un incumplimiento es una preocupación más seria que la mayoría de las personas no considera adecuadamente. Sin embargo, esa es exactamente la razón por la que la mayoría de las personas deberían pensar más cuidadosamente sobre dónde almacenan copias digitales en lugar de simplemente elegir lo que parece más conveniente.
 
@@ -24,18 +24,18 @@ Los tres enfoques más comunes (iCloud Photos, Google Photos y aplicaciones cifr
 
 iCloud Photos sincroniza automáticamente tus fotos en tu iPhone, iPad y Mac, haciendo que las copias de pasaporte sean accesibles desde cualquier dispositivo.
 
-### Cómo funciona
+### Se Sincroniza Automáticamente, pero el Cifrado de Extremo a Extremo es Opcional
 
 Las fotos que tomas se cargan en iCloud y se encriptan con una clave derivada de tu Apple ID. Si habilitas Advanced Data Protection (la capa de cifrado de extremo a extremo opcional de Apple), tus fotos se encriptan en los servidores de Apple usando claves que solo tú posees. Ni siquiera Apple puede descifrarlas.
 
-### Propiedades de seguridad
+### Qué Está Protegido y Qué Sigue Dependiendo de Apple
 
 - **Cifrado de extremo a extremo con Advanced Data Protection:** Sí, si lo habilitas. Sin Advanced Data Protection, iCloud usa cifrado en tránsito pero Apple retiene las claves de descifrado.
 - **Requiere cuenta:** Sí, tu Apple ID.
 - **Carga a la nube:** Sí, automática.
 - **Diseñado para documentos de identidad:** No. iCloud Photos está diseñado para fotografía personal, no para documentos sensibles.
 
-### Compromisos
+### Cómodo en Todas Partes, con un Único Punto de Fallo: tu Apple ID
 
 Para comodidad, iCloud Photos brilla: tu copia de pasaporte se sincroniza automáticamente en todos tus dispositivos Apple y persiste si pierdes tu teléfono. Habilitar Advanced Data Protection añade cifrado de extremo a extremo que ni siquiera Apple puede eludir, lo que mejora significativamente la seguridad comparado con el almacenamiento estándar de iCloud.
 
@@ -45,11 +45,11 @@ Sin embargo, tu copia de pasaporte se vincula a tu cuenta de Apple ID, creando u
 
 Google Photos es el servicio equivalente de Google, ofreciendo respaldo automático y organización de fotos entre dispositivos.
 
-### Cómo funciona
+### Google Analiza tus Fotos para Impulsar la Búsqueda y Lens
 
 Las fotos se cargan en los servidores de Google y se encriptan en tránsito. Google procesa las fotos para características como Búsqueda, Lens y recomendaciones, lo que requiere analizar el contenido de la imagen.
 
-### Propiedades de seguridad
+### Sin Cifrado de Extremo a Extremo por Defecto
 
 - **Cifrado de extremo a extremo por defecto:** No. Google Photos usa cifrado en tránsito pero no de extremo a extremo. Google puede descifrar y ver tus fotos.
 - **Escaneo de contenido:** Google indexa y analiza el contenido de fotos para características y recomendaciones.
@@ -57,7 +57,7 @@ Las fotos se cargan en los servidores de Google y se encriptan en tránsito. Goo
 - **Carga a la nube:** Sí, automática.
 - **Diseñado para documentos de identidad:** No.
 
-### Compromisos
+### Buena Integración, Menor Protección para Documentos Sensibles
 
 Google Photos ofrece integración profunda con Android, opciones de almacenamiento gratuito y capacidades de búsqueda poderosas, lo cual es atractivo para comodidad. Sin embargo, las desventajas de seguridad para documentos sensibles son más significativas: Google Photos no usa cifrado de extremo a extremo por defecto, lo que significa que Google puede acceder técnicamente a tus fotos, y tus copias de pasaporte son procesadas por los sistemas de análisis de contenido de Google. Dado que Google ha experimentado incidentes de seguridad en el pasado, y considerando que los documentos de identidad requieren protección especialmente cuidadosa, Google Photos se convierte en una opción de menor seguridad que las alternativas cuando priorizas salvaguardar datos sensibles.
 
@@ -69,11 +69,11 @@ Si tu cuenta de Google es comprometida, alguien con acceso puede recuperar tus c
 
 Travel Document Vault guarda documentos en tu teléfono por defecto. Puedes compartir o exportar copias, o guardarlas en tu propio iCloud o Google Drive con Pro.
 
-### Cómo funciona
+### Cifrada y Guardada en tu Teléfono, Sin Conexión por Defecto
 
 Cuando añades tu copia de pasaporte a la aplicación, se encripta usando AES-256 y se almacena enteramente en tu teléfono. La aplicación funciona completamente sin conexión —sin cuenta requerida, sin servidor necesario. Con Pro, puedes guardar una copia cifrada en tu propio iCloud o Google Drive y sincronizarla entre dispositivos configurados de la misma plataforma. Necesitarás tu código de recuperación para restaurar una copia de seguridad en la nube.
 
-### Propiedades de seguridad
+### Sin Cuenta, Sin Carga a la Nube, Salvo que Elijas la Copia de Seguridad
 
 - **Cifrado AES-256 en el dispositivo:** Sí. Los datos se quedan en tu teléfono salvo que los compartas, exportes o actives la copia de seguridad cifrada en tu propio iCloud o Google Drive (Pro).
 - **Requiere cuenta:** No. Sin cuenta ni inicio de sesión en TDV; la copia de seguridad cifrada opcional en tu propio iCloud o Google Drive (Pro) usa tu cuenta en la nube.
@@ -81,13 +81,13 @@ Cuando añades tu copia de pasaporte a la aplicación, se encripta usando AES-25
 - **Funciona sin conexión:** Sí, completamente.
 - **Diseñado para documentos de identidad:** Sí. Toda la arquitectura está optimizada para mantener documentos sensibles privados.
 
-### Compromisos
+### Mayor Aislamiento, con Copia en la Nube Solo si la Activas
 
 Travel Document Vault guarda tus documentos en tu teléfono por defecto. Compartir y exportar son opcionales, al igual que la copia de seguridad cifrada en tu propio iCloud o Google Drive con Pro.
 
 Con Pro, puedes sincronizar documentos entre dispositivos configurados de la misma plataforma. Si pierdes tu teléfono, restaura una copia de seguridad guardada. La restauración desde la nube requiere tu código de recuperación. Para la mayoría de las familias que viajan juntas, almacenar documentos en el teléfono de un padre es suficiente, y muchas aplicaciones soportan sincronización manual vía copia de seguridad, lo que añade una capa de flexibilidad sin requerir carga automática a la nube.
 
-## Tabla de Comparación Directa
+## Cifrado, Cuenta y Coste de un Vistazo
 
 | Característica | iCloud Photos | Google Photos | Aplicación Cifrada |
 |---|---|---|---|
@@ -104,13 +104,13 @@ Con Pro, puedes sincronizar documentos entre dispositivos configurados de la mis
 
 La respuesta depende de tu tolerancia personal al riesgo y caso de uso.
 
-**Elige iCloud Photos si:** Ya estás profundamente inmerso en el ecosistema de Apple, deseas acceso automático entre dispositivos y aceptas que tu Apple ID es un único punto de fallo. Habilitar Advanced Data Protection añade cifrado de extremo a extremo que mejora significativamente la seguridad, y para la mayoría de usuarios de iPhone, sigue siendo la opción más conveniente.
+**Elige iCloud Photos si:** Ya estás profundamente inmerso en el ecosistema de Apple, deseas acceso automático entre dispositivos y aceptas que tu Apple ID es un único punto de fallo. Habilitar Advanced Data Protection añade cifrado de extremo a extremo que mejora significativamente la seguridad, y para la mayoría de usuarios de iPhone, sigue siendo la opción más conveniente. Si aún no lo has activado, hazlo esta noche: es el ajuste que cierra la mayor brecha de todas.
 
 **Evita Google Photos para almacenamiento de pasaporte.** La falta de cifrado de extremo a extremo por defecto combinada con escaneo de contenido la hace menos adecuada para documentos de identidad sensibles que alternativas. Si usas Google Photos, considera mantener una copia de seguridad en otro lugar.
 
-**Elige una aplicación cifrada dedicada si:** La seguridad es tu preocupación principal, deseas reducir el número de terceros que tienen tus datos y estás cómodo con respaldo manual y acceso menos conveniente entre dispositivos. Este enfoque ofrece aislamiento más fuerte y está diseñado específicamente para documentos de viaje. Para familias, las aplicaciones que soportan múltiples miembros de la familia bajo una aplicación (sin carga a la nube) ofrecen buen equilibrio.
+**Elige una aplicación cifrada dedicada si:** La seguridad es tu preocupación principal, deseas reducir el número de terceros que tienen tus datos y estás cómodo con respaldo manual y acceso menos conveniente entre dispositivos. Este enfoque ofrece aislamiento más fuerte y está diseñado específicamente para documentos de viaje. Para familias, las aplicaciones que soportan múltiples miembros de la familia bajo una aplicación (sin carga a la nube) ofrecen buen equilibrio. Si eligiéramos solo para un pasaporte, nos inclinaríamos por esta opción, aunque tus fotos de siempre siguieran en la nube.
 
-## Un Enfoque Equilibrado
+## No Tienes que Elegir Solo Uno
 
 Muchas personas usan un enfoque híbrido: mantienen una copia en iCloud o Google Photos para acceso diario entre dispositivos, y una segunda copia en una aplicación cifrada dedicada como respaldo seguro. Esto proporciona tanto comodidad como redundancia. La clave es entender los compromisos de cada método y elegir conscientemente.
 

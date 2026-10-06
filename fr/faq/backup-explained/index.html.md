@@ -74,6 +74,10 @@ Aucune couche simple n'est une raison de sauter les autres. Les comptes cloud pe
 - [Quel est mon code de récupération ? — guide complet pour le stocker en sécurité](https://traveldocumentvault.com/fr/faq/recovery-code/)
 - [Cloud Backup — comment le chiffrement de bout en bout fonctionne](https://traveldocumentvault.com/fr/cloud-backup/)
 
+## Réponses rapides
+
+Quelles options de sauvegarde Travel Document Vault offre-t-il ? Travel Document Vault offre trois niveaux de protection : (1) Sauvegardes locales automatiques, créées toutes les quelques minutes sur votre appareil sans frais. (2) Vault Export, un fichier de sauvegarde chiffré gratuit (.tdvault) que vous enregistrez où vous le souhaitez. (3) Cloud Backup, une option Pro qui maintient une copie chiffrée de bout en bout dans votre propre iCloud ou Google Drive. Vault Export est-il gratuit ? C’est gratuit pour tous les utilisateurs. Aucun achat Pro requis. Quelle est la différence entre les sauvegardes locales et Vault Export ? Pendant que l’application est ouverte et que vous apportez des modifications, elle prend discrètement un instantané de votre coffre-fort toutes les quelques minutes. Vous n’avez rien à faire. L’application conserve quelques instantanés récents et supprime les anciens pour économiser de l’espace. L’exportation du coffre crée un fichier chiffré portable que vous pouvez enregistrer hors de l’appareil. Qu'est-ce que la sauvegarde cloud et qui en a besoin ? La sauvegarde cloud est une fonctionnalité Pro. Activez-la pour conserver une copie automatique dans votre propre iCloud (iOS) ou Google Drive (Android). L’application la met à jour lorsqu’elle est ouverte et connectée. Nous ne la recevons pas. Le contenu des documents est chiffré. Les métadonnées de sauvegarde, comme les noms des appareils, les nombres d’éléments et les horodatages, ne le sont pas.
+
 ## Obtenir Travel Document Vault
 
 Téléchargement gratuit. Vault Export et les sauvegardes locales sont inclus pour tous. Pro ajoute la sauvegarde cloud, les profils illimités, l'export PDF combiné et plus. Achat unique, pas d'abonnement.

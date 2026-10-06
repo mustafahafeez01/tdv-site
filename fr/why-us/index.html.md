@@ -61,61 +61,102 @@ Passeport. Visa. Permis de conduire. Assurance. Réservations de voyage. Documen
 
 Tout en un seul endroit à votre portée, prêts quand vous en avez besoin.
 
-## Que vous utilisez probablement en ce moment
+## Où se trouvent probablement vos documents aujourd'hui
 
-Ce sont tous des choix raisonnables. Chacun fonctionne — jusqu'à un certain point.
-
-### Coffres-forts généraux
-
-**Avantages :** Sécurité élevée et accès hors ligne.
-
-**Inconvénients :** Ils traitent un passeport comme un reçu d'épicerie et manquent de logique spécifique aux voyages. Travel Document Vault inclut un profil et jusqu’à cinq documents gratuits. Pro est un achat unique sans abonnement.
+La plupart d'entre nous gardent déjà des copies quelque part. Voici comment tirer davantage de chacune.
 
 ### Galerie photos / Photos
 
-**Avantages :** Toujours avec vous.
-
-**Inconvénients :** Noyés dans des milliers de photos sans suivi d'expiration, aucune organisation et aucune sécurité au-delà du verrouillage de votre téléphone.
+Toujours à portée de main. Rangez les photos de passeport dans un album à part, pour ne pas faire défiler vos photos de vacances au comptoir d'enregistrement.
 
 ### Stockage en nuage
 
-**Avantages :** Mode hors ligne et synchronisation entre appareils.
-
-**Inconvénients :** Vous stockez votre passeport, vérifiez la date d'expiration, basculez vers une application calendrier pour définir un rappel, puis vous souvenez du dossier contenant les documents de votre conjoint. C'est trois applications qui font le travail d'une seule, et aucune ne sait que c'est un passeport qui expire.
+Pratique d'un appareil à l'autre. Créez un dossier clairement nommé par personne pour les documents de voyage, et activez la protection de connexion la plus forte que propose votre fournisseur.
 
 ### Gestionnaires de mots de passe
 
-**Avantages :** Parfait pour les mots de passe.
-
-**Inconvénients :** Non conçu pour les images de documents, le suivi d'expiration ou l'organisation familiale. Une photo de passeport dans un champ de mot de passe est une solution de contournement, pas une solution.
+Un endroit sensé pour un numéro de passeport si vous en utilisez déjà un. Gardez la page de la photo tout aussi facile d'accès pour l'aéroport.
 
 ### Applications de prise de notes
 
-**Avantages :** Flexible et familier.
-
-**Inconvénients :** Pas de rappels d'expiration, pas de capture guidée, et votre photo de passeport se trouve à côté de votre liste d'épicerie sans chiffrement.
+Souples et familières. Si un numéro de passeport se trouve dans une note, verrouillez cette note là où votre appli le permet.
 
 ### Feuilles de calcul
 
-**Avantages :** Excellent pour planifier les itinéraires et saisir les détails.
+Idéales pour réunir les dates d'expiration de toute la famille dans un seul tableau. Ajoutez une colonne « renouveler avant » et la prochaine échéance saute aux yeux.
 
-**Inconvénients :** Aucune pièce jointe d'image sécurisée, mise en forme terrible sur les écrans mobiles à l'aéroport, et aucun rappel d'expiration automatisé avant votre voyage.
+### Copies papier
 
-## Comment ça se compare
+Toujours utiles. Une copie imprimée de chaque page de photo, rangée à part des passeports, dépanne si l'un d'eux disparaît à l'étranger.
 
-Travel Document Vault conserve les documents, suit les dates d’expiration et, avec Pro, ajoute les profils familiaux et la planification de voyages.
+## Votre coffre en un coup d'œil
 
-| Fonctionnalité | Travel Document Vault | Application Wallet | Photothèque / stockage cloud | Gestionnaire de mots de passe |
-|---|---|---|---|---|
-| Rappels d’expiration (selon le type de document) | ✓8 mois avant pour les passeports | ✗ | ✗ | ✗ |
-| Profils familiaux | ✓Illimité (Pro) | ✗ | ✗ | ~Seulement coffres partagés |
-| Sur l’appareil par défaut | ✓Sauvegarde facultative (Pro) | ✗Synchronisation cloud | ✗Cloud d'abord | ✗Cloud d'abord |
-| Types de documents spécifiques aux voyages | ✓Passeport, visa, ID... | ~Billets d'embarquement uniquement | ✗ | ✗ |
-| Fonctionne hors ligne | ✓ | ✓ | ~Nécessite cache préalable | ✓ |
-| Aucun compte requis | ✓ | ~Compte de la plateforme requis | ✗ | ✗ |
-| Pas d'abonnement | ✓une fois | ✓ | ~Gratuit, formules avec publicité variables | ✗généralement 30-40 $/an |
+Travel Document Vault range vos documents et suit leurs dates d'expiration. Pro ajoute des profils familiaux illimités et la planification de voyages.
 
-✓ Supporté ~ Partiel ✗ Non supporté
+### Rappels d'expiration
+
+8 mois
+
+Par défaut, les rappels de passeport commencent aussi tôt, puis reviennent à mesure que la date approche. Les autres documents suivent un calendrier propre à leur type.
+
+1. 8 mois
+2. 6 mois
+3. 3 mois
+4. 6 sem.
+5. 1 mois
+6. 2 sem.
+7. 1 sem.
+8. Expiration
+
+### Chiffrement
+
+AES-256
+
+Les fichiers de vos documents sont chiffrés sur votre téléphone, tout comme la base de données qui contient vos informations.
+
+### Compte de l'app
+
+Aucun
+
+Ni inscription ni connexion pour l'app. La sauvegarde cloud facultative utilise votre propre compte iCloud ou Google.
+
+### Hors ligne
+
+Sans réseau
+
+Les documents enregistrés et les rappels fonctionnent sans connexion, même dans la file d'attente du passeport.
+
+### Pro
+
+Un seul achat
+
+Un achat unique, sans abonnement.
+
+### Avec Pro
+
+#### Profils familiaux illimités
+
+Un profil pour chaque membre de la famille, avec ses propres documents.
+
+#### Aucune limite de documents
+
+Ajoutez autant de passeports, de visas et de cartes d'identité que la famille en a besoin.
+
+#### Checklist de préparation du voyage
+
+Planifiez un voyage et voyez quels documents sont prêts et ce qu'il reste à faire.
+
+#### Limites de jours par pays
+
+Fixez vous-même une limite de jours : vos voyages comptent les jours passés dans le pays, ou en dehors, par rapport à cette limite.
+
+#### Vos propres délais de rappel
+
+Choisissez, pour chaque document, combien de temps à l'avance les rappels commencent.
+
+#### Sauvegarde cloud chiffrée
+
+Une copie chiffrée sur votre propre iCloud (iOS) ou Google Drive (Android), restaurée avec votre code de récupération.
 
 ## Une application. Tout organisé.
 

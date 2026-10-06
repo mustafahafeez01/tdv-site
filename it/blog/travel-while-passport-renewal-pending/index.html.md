@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/it/blog/travel-while-passport-renewal-pe
 
 Viaggiare mentre un rinnovo è in corso dipende da un solo fatto: se il vecchio passaporto è ancora in mano oppure è già stato consegnato alle autorità. Questa sola differenza decide se il viaggio possa procedere. Varia inoltre da paese a paese e, nel caso del Regno Unito, in base al metodo di rinnovo utilizzato.
 
-## La regola fondamentale
+## Un rinnovo in corso non vi farà passare il controllo di frontiera
 
 Non potete viaggiare internazionalmente senza un passaporto valido fisicamente in vostro possesso. Una richiesta di rinnovo in corso non conta, così come una lettera di ricevuta dal vostro ufficio passaporti. L'unico documento che vi permette di superare il check-in e il controllo delle frontiere è un passaporto valido che potete consegnare quando vi viene richiesto.
 
@@ -86,9 +86,9 @@ Non aspettate a contattare il servizio passaporti del vostro paese per telefono 
 
 Contemporaneamente, contattate la vostra compagnia aerea in merito alla riprogrammazione. Alcuni vettori rinunceranno alle spese di modifica quando un problema genuino di documento è il motivo. Ottenete qualsiasi accordo per iscritto. Se avete un'assicurazione di viaggio, controllate la vostra polizza per la copertura dei costi derivanti da ritardi del passaporto o problemi di documenti.
 
-## Come evitare questa situazione
+## Rinnovare in anticipo elimina del tutto la pressione dei tempi
 
-La risposta semplice è rinnovare il vostro passaporto ben prima di averne bisogno per i viaggi. Fare domanda 6-9 mesi prima di qualsiasi viaggio internazionale programmato elimina completamente la pressione dei tempi e lascia spazio per l'elaborazione standard senza commissioni accelerate.
+La risposta semplice è rinnovare il vostro passaporto ben prima di averne bisogno per i viaggi. Fare domanda 6-9 mesi prima di qualsiasi viaggio internazionale programmato elimina completamente la pressione dei tempi e lascia spazio per l'elaborazione standard senza commissioni accelerate. Noi faremmo domanda più vicino ai nove mesi che ai sei, così non c'è alcun rischio che l'elaborazione standard si prolunghi rispetto a un viaggio già prenotato. Se non conoscete già la data di scadenza del vostro passaporto, controllatela oggi, prima di prenotare qualsiasi cosa.
 
 Il motivo per cui le persone finiscono in questa situazione non è l'ignoranza delle norme. I passaporti scadono silenziosamente senza ricordatorio automatico, quindi le persone tendono a ricordare solo che il loro passaporto è valido, non quando scade. Impostare un ricordatorio 12 mesi prima della vostra data di scadenza vi dà il tempo di rinnovare al vostro ritmo, su elaborazione standard, senza pressione.
 

@@ -14,7 +14,7 @@ Source: https://traveldocumentvault.com/it/blog/safest-way-to-store-passport-dig
 - **Google Photos** non è crittografato end-to-end per impostazione predefinita e indicizza i tuoi contenuti, rendendolo meno adatto per documenti di identità sensibili.
 - **App crittografate dedicate** archiviano i dati del passaporto sul dispositivo con crittografia AES-256, non richiedono account o caricamento nel cloud e funzionano offline. Questa è l'opzione più sicura.
 - Ogni approccio comporta compromessi tra praticità e sicurezza che dovresti comprendere prima di scegliere.
-- Il metodo più sicuro dipende dalla tua tolleranza personale al rischio e da come bilanci l'accesso multi-dispositivo rispetto all'isolamento dei dati.
+- Il metodo più sicuro dipende dalla tua tolleranza personale al rischio, ma una copia digitale del tuo passaporto merita la stessa cura dell'originale.
 
 Un passaporto è uno dei documenti più sensibili che possiedi, contenente il tuo nome completo, data di nascita, numero del passaporto e dati biometrici. Perdere l'accesso al confine è stressante, ma perdere il controllo di una copia digitale a causa di una violazione è una preoccupazione molto più seria che la maggior parte delle persone non considera adeguatamente. Eppure è esattamente per questo che la maggior parte delle persone dovrebbe pensare più attentamente a dove archivia le copie digitali piuttosto che semplicemente scegliere quello che sembra più conveniente.
 
@@ -24,18 +24,18 @@ I tre approcci più comuni (iCloud Photos, Google Photos e app crittografate ded
 
 iCloud Photos sincronizza automaticamente le tue foto su iPhone, iPad e Mac, rendendo le copie del passaporto accessibili da qualsiasi dispositivo.
 
-### Come funziona
+### Si sincronizza automaticamente, ma la crittografia end-to-end è facoltativa
 
 Le foto che scatti si caricano su iCloud e vengono crittografate con una chiave derivata dal tuo Apple ID. Se abiliti Advanced Data Protection (il livello di crittografia end-to-end opzionale di Apple), le tue foto sono crittografate sui server di Apple utilizzando chiavi che solo tu possiedi. Nemmeno Apple può decifrarle.
 
-### Proprietà di sicurezza
+### Cosa è protetto e cosa dipende ancora da Apple
 
 - **Crittografato end-to-end con Advanced Data Protection:** Sì, se lo abiliti. Senza Advanced Data Protection, iCloud utilizza la crittografia in transito ma Apple conserva le chiavi di decrittografia.
 - **Richiede account:** Sì, il tuo Apple ID.
 - **Caricamento nel cloud:** Sì, automatico.
 - **Progettato per documenti di identità:** No. iCloud Photos è progettato per la fotografia personale, non per documenti sensibili.
 
-### Compromessi
+### Comodo ovunque, con un unico punto di guasto: il tuo Apple ID
 
 Per praticità, iCloud Photos eccelle: la tua copia del passaporto si sincronizza automaticamente su tutti i tuoi dispositivi Apple e persiste se perdi il telefono. Abilitare Advanced Data Protection aggiunge la crittografia end-to-end che nemmeno Apple può bypassare, il che migliora significativamente la sicurezza rispetto alla memoria iCloud standard.
 
@@ -45,11 +45,11 @@ Tuttavia, la tua copia del passaporto diventa collegata al tuo account Apple ID,
 
 Google Photos è il servizio equivalente di Google, offrendo backup automatico e organizzazione delle foto su più dispositivi.
 
-### Come funziona
+### Google analizza le tue foto per alimentare Ricerca e Lens
 
 Le foto si caricano sui server di Google e vengono crittografate in transito. Google elabora le foto per funzioni come Ricerca, Lens e consigli, il che richiede l'analisi del contenuto dell'immagine.
 
-### Proprietà di sicurezza
+### Nessuna crittografia end-to-end per impostazione predefinita
 
 - **Crittografato end-to-end per impostazione predefinita:** No. Google Photos utilizza la crittografia in transito ma non end-to-end. Google può decrittare e visualizzare le tue foto.
 - **Scansione dei contenuti:** Google indicizza e analizza il contenuto delle foto per funzioni e consigli.
@@ -57,7 +57,7 @@ Le foto si caricano sui server di Google e vengono crittografate in transito. Go
 - **Caricamento nel cloud:** Sì, automatico.
 - **Progettato per documenti di identità:** No.
 
-### Compromessi
+### Ottima integrazione, protezione più debole per i documenti sensibili
 
 Google Photos offre una profonda integrazione con Android, opzioni di archiviazione gratuita e potenti capacità di ricerca, il che è attraente per la praticità. Tuttavia, gli svantaggi di sicurezza per i documenti sensibili sono più significativi: Google Photos non utilizza la crittografia end-to-end per impostazione predefinita, il che significa che Google può tecnicamente accedere alle tue foto, e le tue copie del passaporto vengono elaborate dai sistemi di analisi dei contenuti di Google. Dato che Google ha subito incidenti di sicurezza in passato, e considerando che i documenti di identità richiedono una protezione particolarmente attenta, Google Photos diventa una scelta di sicurezza inferiore rispetto alle alternative quando dai priorità alla salvaguardia dei dati sensibili.
 
@@ -69,11 +69,11 @@ Se il tuo account Google viene compromesso, qualcuno con accesso può recuperare
 
 Travel Document Vault conserva i documenti sul telefono per impostazione predefinita. Puoi condividere o esportare copie, oppure eseguirne il backup sul tuo iCloud o Google Drive con Pro.
 
-### Come funziona
+### Crittografato e archiviato sul tuo telefono, offline per impostazione predefinita
 
 Quando aggiungi la scansione del tuo passaporto all'app, viene crittografata utilizzando AES-256 e archiviata interamente sul tuo telefono. L'app funziona completamente offline — nessun account richiesto, nessun server necessario. Con Pro puoi eseguire il backup di una copia crittografata sul tuo iCloud o Google Drive e sincronizzarla tra dispositivi configurati sulla stessa piattaforma. Ti servirà il codice di recupero per ripristinare un backup cloud.
 
-### Proprietà di sicurezza
+### Nessun account, nessun caricamento nel cloud, a meno che tu non scelga il backup
 
 - **Crittografia AES-256 sul dispositivo:** Sì. I dati restano sul telefono, salvo quando li condividi, li esporti o attivi il backup crittografato sul tuo iCloud o Google Drive (Pro).
 - **Richiede account:** No. Nessun account TDV o accesso; il backup crittografato facoltativo sul tuo iCloud o Google Drive (Pro) usa il tuo account cloud.
@@ -81,13 +81,13 @@ Quando aggiungi la scansione del tuo passaporto all'app, viene crittografata uti
 - **Funziona offline:** Sì, completamente.
 - **Progettato per documenti di identità:** Sì. L'intera architettura è ottimizzata per mantenere i documenti sensibili privati.
 
-### Compromessi
+### Isolamento più forte, con backup nel cloud solo se lo attivi
 
 Travel Document Vault conserva i documenti sul telefono per impostazione predefinita. Condivisione ed esportazione sono facoltative, come il backup crittografato sul tuo iCloud o Google Drive con Pro.
 
 Con Pro puoi sincronizzare i documenti tra dispositivi configurati sulla stessa piattaforma. Se perdi il telefono, ripristina un backup salvato. Per il ripristino dal cloud serve il codice di recupero. Per la maggior parte delle famiglie che viaggiano insieme, l'archiviazione dei documenti sul telefono di un genitore è sufficiente, e molte app supportano la sincronizzazione manuale tramite backup, il che aggiunge un livello di flessibilità senza richiedere il caricamento automatico nel cloud.
 
-## Tabella di Confronto Diretto
+## Crittografia, Account e Costo in Sintesi
 
 | Funzionalità | iCloud Photos | Google Photos | App Crittografata |
 |---|---|---|---|
@@ -104,13 +104,13 @@ Con Pro puoi sincronizzare i documenti tra dispositivi configurati sulla stessa 
 
 La risposta dipende dalla tua tolleranza personale al rischio e dal tuo caso d'uso.
 
-**Scegli iCloud Photos se:** Sei già profondamente immerso nell'ecosistema Apple, desideri l'accesso multi-dispositivo automatico e accetti che il tuo Apple ID sia un singolo punto di guasto. Abilitare Advanced Data Protection aggiunge la crittografia end-to-end che migliora significativamente la sicurezza, e per la maggior parte degli utenti iPhone, rimane l'opzione più conveniente.
+**Scegli iCloud Photos se:** Sei già profondamente immerso nell'ecosistema Apple, desideri l'accesso multi-dispositivo automatico e accetti che il tuo Apple ID sia un singolo punto di guasto. Abilitare Advanced Data Protection aggiunge la crittografia end-to-end che migliora significativamente la sicurezza, e per la maggior parte degli utenti iPhone, rimane l'opzione più conveniente. Se non l'hai ancora attivata, fallo stasera: è l'unica impostazione che chiude la lacuna più grande qui.
 
 **Evita Google Photos per l'archiviazione del passaporto.** La mancanza di crittografia end-to-end predefinita combinata con la scansione dei contenuti la rende meno adatta ai documenti di identità sensibili rispetto alle alternative. Se utilizzi Google Photos, considera di mantenere un backup altrove.
 
-**Scegli un'app crittografata dedicata se:** La sicurezza è la tua preoccupazione primaria, desideri ridurre il numero di terze parti che detengono i tuoi dati e sei a tuo agio con il backup manuale e l'accesso multi-dispositivo meno conveniente. Questo approccio offre un isolamento più forte ed è specificamente progettato per documenti di viaggio. Per le famiglie, le app che supportano più membri della famiglia in un'unica app (senza caricamento nel cloud) offrono un buon equilibrio.
+**Scegli un'app crittografata dedicata se:** La sicurezza è la tua preoccupazione primaria, desideri ridurre il numero di terze parti che detengono i tuoi dati e sei a tuo agio con il backup manuale e l'accesso multi-dispositivo meno conveniente. Questo approccio offre un isolamento più forte ed è specificamente progettato per documenti di viaggio. Per le famiglie, le app che supportano più membri della famiglia in un'unica app (senza caricamento nel cloud) offrono un buon equilibrio. Se dovessimo scegliere solo per un passaporto, noi propenderemmo per questa strada, anche se le foto di tutti i giorni restassero nel cloud.
 
-## Un Approccio Equilibrato
+## Non Devi Sceglierne Solo Uno
 
 Molte persone utilizzano un approccio ibrido: mantenendo una copia in iCloud o Google Photos per l'accesso quotidiano su più dispositivi, e una seconda copia in un'app crittografata dedicata come backup sicuro. Questo fornisce sia praticità che ridondanza. La chiave è comprendere i compromessi di ogni metodo e scegliere consapevolmente.
 

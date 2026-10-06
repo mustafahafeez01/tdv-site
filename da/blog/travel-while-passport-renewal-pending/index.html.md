@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/da/blog/travel-while-passport-renewal-pe
 
 At rejse, mens en fornyelse er i gang, afhænger af én ting: om det gamle pas stadig er i hånden, eller om det allerede er afleveret til myndighederne. Netop den forskel afgør, om rejsen kan gennemføres. Det varierer desuden fra land til land og i Storbritanniens tilfælde med, hvilken fornyelsesmetode der blev brugt.
 
-## Grundreglen
+## En igangværende fornyelse får dig ikke gennem grænsekontrollen
 
 Du kan ikke rejse internationalt uden et gyldigt pas fysisk i din besiddelse. En igangværende fornyelsesansøgning tæller ikke, og det gør et kvitteringsbrev fra din pasmyndighed heller ikke. Det eneste dokument, der bringer dig gennem check-in og grænsekontrol, er et gyldigt pas, som du kan udlevere, når du bliver bedt om det.
 
@@ -86,9 +86,9 @@ Vent ikke med at kontakte dit lands pasmyndighed telefonisk – spørg specifikt
 
 Kontakt samtidig dit flyselskab om ombooking. Nogle luftfartsselskaber vil frafalde ombookingsgebyrer, når et reelt dokumentproblem er årsagen. Få enhver aftale på skrift. Har du en rejseforsikring, så tjek din police for dækning af omkostninger, der opstår som følge af pasforsinkelser eller dokumentproblemer.
 
-## Sådan undgår du situationen
+## Tidlig fornyelse fjerner tidspresset helt
 
-Det ligetil svar er at forny dit pas i god tid, før du skal bruge det til rejse. At ansøge 6 til 9 måneder før en planlagt udenrigsrejse fjerner tidspresset helt og giver plads til standardbehandling uden ekspederingsgebyrer.
+Det ligetil svar er at forny dit pas i god tid, før du skal bruge det til rejse. At ansøge 6 til 9 måneder før en planlagt udenrigsrejse fjerner tidspresset helt og giver plads til standardbehandling uden ekspederingsgebyrer. Vi ville ansøge tættere på ni måneder end seks, så standardbehandlingen ikke risikerer at trække ud i forhold til en booket rejse. Hvis du ikke allerede kender din egen udløbsdato, så tjek den i dag, før du booker noget.
 
 Grunden til, at folk havner i denne situation, er ikke uvidenhed om reglerne. Pas udløber i stilhed uden automatisk påmindelse, så man har tendens til kun at huske, at passet er gyldigt, ikke hvornår det udløber. At sætte en påmindelse 12 måneder før din udløbsdato giver dig tid til at forny i dit eget tempo, med standardbehandling, uden pres.
 

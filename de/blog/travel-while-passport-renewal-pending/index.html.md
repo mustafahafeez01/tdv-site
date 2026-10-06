@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/de/blog/travel-while-passport-renewal-pe
 
 Ob eine Reise während einer laufenden Verlängerung möglich ist, hängt an einer einzigen Tatsache: Ist der alte Pass noch vorhanden oder bereits bei den Behörden abgegeben. Dieser eine Unterschied entscheidet, ob die Reise stattfinden kann. Es variiert außerdem je nach Land und im Fall des Vereinigten Königreichs je nach gewähltem Verlängerungsweg.
 
-## Die Grundregel
+## Eine laufende Erneuerung bringt Sie nicht durch die Grenzkontrolle
 
 Sie können nicht international reisen, ohne einen gültigen Pass physisch in Ihrem Besitz zu haben. Eine laufende Erneuerungsanfrage zählt nicht, und ein Bestätigungsschreiben von Ihrem Passamt auch nicht. Das einzige Dokument, das Sie durch die Gepäckabfertigung und die Grenzkontrollen bringt, ist ein gültiger Pass, den Sie bei Bedarf vorzeigen können.
 
@@ -86,9 +86,9 @@ Warten Sie nicht, sondern kontaktieren Sie die Passbehörde Ihres Landes telefon
 
 Kontaktieren Sie gleichzeitig Ihre Fluggesellschaft bezüglich der Umplanung. Einige Fluggesellschaften verzichten auf Änderungsgebühren, wenn ein echtes Dokumentproblem der Grund ist. Schriftlich bestätigen lassen. Wenn Sie eine Reiseversicherung haben, überprüfen Sie Ihre Police auf Deckung von Kosten, die sich aus Passverzögerungen oder Dokumentproblemen ergeben.
 
-## So vermeiden Sie diese Situation
+## Frühes Erneuern nimmt den Zeitdruck vollständig weg
 
-Die einfache Antwort ist, Ihren Pass lange vor dem Reisen zu erneuern. Einen Antrag 6 bis 9 Monate vor geplanten internationalen Reisen zu stellen, beseitigt die zeitliche Belastung vollständig und lässt Raum für Standardbearbeitung ohne beschleunigte Gebühren.
+Die einfache Antwort ist, Ihren Pass lange vor dem Reisen zu erneuern. Einen Antrag 6 bis 9 Monate vor geplanten internationalen Reisen zu stellen, beseitigt die zeitliche Belastung vollständig und lässt Raum für Standardbearbeitung ohne beschleunigte Gebühren. Wir würden eher neun Monate vorher beantragen als sechs, damit die Standardbearbeitung bei einer gebuchten Reise auf keinen Fall zu lange dauert. Wenn Sie Ihr eigenes Ablaufdatum nicht kennen, prüfen Sie es heute, bevor Sie irgendetwas buchen.
 
 Der Grund, warum Menschen in diese Situation geraten, ist nicht Unkenntnis der Regeln. Pässe laufen geräuschlos aus, ohne automatische Erinnerung, daher erinnern sich Menschen normalerweise nur daran, dass ihr Pass gültig ist, nicht wann er abläuft. Das Setzen einer Erinnerung 12 Monate vor dem Ablaufdatum gibt Ihnen Zeit, in Ihrem eigenen Tempo zu erneuern, mit Standardbearbeitung, ohne Druck.
 

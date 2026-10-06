@@ -13,16 +13,16 @@ Source: https://traveldocumentvault.com/blog/visa-expiry-tracker-app/
 - Visa expiry tracking is **more complex** than passport tracking - a visa has an entry validity date, a maximum stay duration, and sometimes entry count limits, all of which need separate monitoring.
 - Overstaying a visa carries serious consequences: fines, re-entry bans of years or longer, and in some countries, criminal charges.
 - The best visa expiry tracker apps work offline, support multiple visa types, and allow custom reminder timings per document.
-- Schengen Area visitors must track a rolling 90/180-day window, not just a single expiry date - most generic travel apps do not handle this correctly.
+- Schengen Area visitors must track a rolling 90/180-day window, not just a single expiry date, because the count rolls with your actual travel history, not the calendar.
 - Tracking visas and passports together in one place reduces the risk of a mismatch: entering on a valid visa but with a passport that expires before your planned stay ends.
 
-A visa overstay is one of the most consequential travel mistakes a person can make. Unlike a missed flight - stressful but ultimately fixable - an overstay creates a formal immigration record that can follow you for years. In the United States, an overstay of just 180 days triggers an automatic 3-year bar on re-entry under INA section 212(a)(9)(B)(i), and an overstay of a year triggers a 10-year bar. These consequences are not widely known, but they are documented by the US Citizenship and Immigration Services.
+A visa overstay is one of the most consequential travel mistakes a person can make. Unlike a missed flight, which is stressful but ultimately fixable, an overstay creates a formal immigration record that can follow you for years. In the United States, an overstay of just 180 days triggers an automatic 3-year bar on re-entry under INA section 212(a)(9)(B)(i), and an overstay of a year triggers a 10-year bar. These consequences are not widely known, but they are documented by the US Citizenship and Immigration Services.
 
-A visa expiry tracker app is built to prevent this, because it monitors multiple dates at once - entry validity, maximum stay, and entry count - in a way that generic passport apps cannot.
+A visa expiry tracker app is built to prevent this: it needs to monitor multiple dates at once, entry validity, maximum stay, and entry count, each a separate deadline.
 
 ## Why Visa Tracking Is More Complex Than Passport Tracking
 
-Unlike a passport with one meaningful date (its expiry), a visa has several distinct time-related fields that each need monitoring. If the [difference between a visa and a passport](https://traveldocumentvault.com/blog/visa-vs-passport/) is not yet clear, that explainer is worth reading first:
+A passport has one meaningful date: its expiry. A visa typically has several, and missing one of them is how an accidental overstay happens. If the [difference between a visa and a passport](https://traveldocumentvault.com/blog/visa-vs-passport/) is not yet clear, that explainer is worth reading first:
 
 What this means in practice
 
@@ -35,7 +35,9 @@ A traveller enters Vietnam on a visa stamped "valid until 30 June" with "30-day 
 | **Number of entries** | Single, double, or multiple entries allowed | A single-entry visa is voided the moment you exit, even if the entry validity date hasn't passed |
 | **Rolling window rules** | Some visa regimes (notably Schengen) calculate permitted days within a rolling window | Schengen: maximum 90 days in any 180-day rolling window, not per calendar year |
 
-A tracker that only monitors the entry validity date misses this exact trap: exceeding the maximum stay duration after a perfectly legal entry. It's the field most travellers fail to track, because the date is not stamped anywhere in the passport - you have to work it out from your own date of entry.
+A tracker that only monitors the entry validity date misses this exact trap: exceeding the maximum stay duration after a perfectly legal entry.
+
+It's the field most travellers fail to track, because the date is not stamped anywhere in the passport, so you have to work it out from your own date of entry.
 
 ![Hand-drawn diagram of the three clocks on one visa: entry validity (enter before this date), maximum stay (how long you may remain), and entry count (single or multiple entries) - with a note that Schengen adds a fourth, the rolling 90/180 window, and that overstays can mean fines and re-entry bans](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/visa-three-clocks-figure.jpg) A visa is not one date. It is three separate clocks, and sometimes a fourth.
 
@@ -43,9 +45,7 @@ A tracker that only monitors the entry validity date misses this exact trap: exc
 
 For travellers who visit multiple European countries, the Schengen Area's 90/180-day rule is one of the most widely misunderstood entry conditions in international travel. Citizens of countries with visa-free access to Schengen (including the UK, US, Canada, and Australia, among many others) may spend a maximum of 90 days in the Schengen Area within any 180-day rolling window.
 
-The European Commission provides an official Schengen stay calculator to help travellers work out their allowed days, which matters because this is a *rolling window*, not a calendar-year reset. Days spent in Schengen six months ago still count against your current allowance.
-
-Most generic passport or document apps do not handle this correctly. An app that simply displays a visa expiry date cannot manage Schengen compliance - it requires calculating days across a rolling window based on actual entry and exit dates.
+The European Commission provides an official Schengen stay calculator to help travellers work out their allowed days, which matters because this is a *rolling window*, not a calendar-year reset. Days spent in Schengen six months ago still count against your current allowance, so checking a single expiry date will not catch an overstay. What matters is your actual entry and exit history, not the date printed on the visa.
 
 ## What Happens When You Overstay
 
@@ -70,7 +70,9 @@ With all that complexity in mind, a good visa expiry tracker app needs to handle
 - **Privacy model:** Visa details are identity-linked sensitive data. As with passport storage, on-device encryption with no cloud upload is the safest architecture.
 - **Passport + visa tracking together:** A common but overlooked mistake is having a valid visa but a passport that expires during your planned stay. Having both tracked in the same place prevents this mismatch.
 
-**Travel Document Vault** tracks passport and visa expiry dates with separate reminders for each document. Add multiple travellers with Pro. Your documents stay encrypted on your phone by default, with no app account required. You can share or export copies, or back them up to your own iCloud or Google Drive with Pro. [It's free to download on the App Store and Google Play. Pro is a one-time purchase, no subscription.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
+**Travel Document Vault** tracks passport and visa expiry dates with separate reminders for each document. Add multiple travellers with Pro. Your documents stay encrypted on your phone by default, with no app account required.
+
+You can share or export copies, or back them up to your own iCloud or Google Drive with Pro. [It's free to download on the App Store and Google Play. Pro is a one-time purchase, no subscription.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
 ## Practical Steps to Track Your Visa Properly
 
@@ -80,7 +82,7 @@ With all that complexity in mind, a good visa expiry tracker app needs to handle
 4. **For Schengen travel, keep a log of entry and exit dates.** Use the European Commission's official calculator to verify your remaining days before any trip that follows recent Schengen travel.
 5. **Set a reminder well before your maximum stay deadline.** This gives you time to arrange a departure without rushing, especially if transport options in your destination are limited.
 
-Related rules that interact with visa tracking: see our guide to the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/), which can prevent you from entering even with a valid visa if your passport expires too soon after your planned departure.
+Check your passport's expiry against your visa dates today: even a valid visa will not get you through if your passport expires too soon after your planned departure, which is exactly the mismatch our guide to the [6-month passport rule](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) walks through.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 
@@ -104,7 +106,7 @@ The best ones do. Offline access matters at borders and in areas with unreliable
 
 ### How far in advance should I get a reminder before my visa expires?
 
-It depends on the visa type. For long-stay visas requiring renewal, 90 days is a reasonable minimum. For tourist visas with fixed maximum stay durations, give yourself enough notice before your latest permitted exit date to arrange departure without rushing. Look for apps that let you set custom timings per document.
+It depends on the visa type. For long-stay visas needing renewal, we'd set the reminder at 90 days, not closer. For tourist visas with fixed maximum stay durations, give yourself enough notice before your latest permitted exit date to arrange departure without rushing. Look for apps that let you set custom timings per document.
 
 ## Related Articles
 

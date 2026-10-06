@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/sv/blog/passport-photo-at-home/
 
 Ett foto taget hemma godkänns lika lätt som ett från en fotoautomat, förutsatt att det uppfyller samma korta lista med regler. De flesta avslag beror på tre saker: skugga i ansiktet eller på bakgrunden, fel storlek på huvudet i bilden, och glasögon. Får du de rätt är resten okomplicerat.
 
-## Krav som gäller i de flesta länder
+## De flesta länder delar samma grundkrav på foto
 
 Även om de exakta reglerna varierar mellan passmyndigheter delar de flesta länder samma grundläggande krav på passfoto. Förstår du dessa grunder står du på stabil mark oavsett vilket land som utfärdar ditt pass.
 
@@ -98,7 +98,7 @@ Moderna mobiler fotograferar med 12 megapixlar eller mer, vilket är gott och v�
 - **Fel bakgrund:** Färgad bakgrund, mönster eller ojämn vit bakgrund. Enfärgad vit eller benvit affischkartong eller lakan fungerar bäst – se till att ingen synlig textur eller skugga finns.
 - **För mycket eller för lite marginal:** Ansiktet för litet eller felplacerat i bilden. Ditt lands regler anger exakt hur stor del av bilden ansiktet ska fylla, oftast som ett mått från haka till hjässa snarare än en procentandel – jobba mot den siffran, inte mot vad som ser rätt ut.
 
-## Från mobilfoto till officiellt foto: processen
+## Beskär mobilfotot och skriv sedan ut det eller ladda upp det
 
 Mobilfotot har sällan rätt storlek direkt. Efter att du tagit bilden behöver du beskära den till ditt lands exakta specifikation och sedan avgöra om du ska skriva ut den eller ladda upp den digitalt.
 
@@ -122,7 +122,7 @@ Innan du tar ditt foto, se till att du har följande på plats:
 - En beskärningsapp nedladdad och redo att använda
 - Plan för utskrift eller digital inlämning utifrån ditt lands krav
 
-Några minuters ordentlig förberedelse nu sparar dig från att behöva skicka in på nytt senare.
+Har du hyfsat fönsterljus och några minuter över, ta fotot själv i dag: det är gratis och klart direkt. Känner du dig osäker på din uppsättning, eller har du bråttom mot en deadline, minskar apoteket eller postkontoret risken till nästan noll mot en mindre avgift. Kontrollera bara ditt eget lands aktuella specifikation först, inte ett mått du sett någon annanstans.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 

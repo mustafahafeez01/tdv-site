@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/id/blog/travel-while-passport-renewal-pe
 
 Bepergian saat perpanjangan sedang berjalan bergantung pada satu hal: apakah paspor lama masih dipegang atau sudah diserahkan kepada pihak berwenang. Perbedaan tunggal itulah yang menentukan apakah perjalanan bisa tetap dilakukan. Ketentuannya juga berbeda antarnegara dan, khusus Inggris, tergantung metode perpanjangan yang dipakai.
 
-## Aturan Dasarnya
+## Perpanjangan yang Sedang Berjalan Tidak Akan Meloloskan Anda di Imigrasi
 
 Anda tidak bisa bepergian internasional tanpa paspor yang sah secara fisik ada di tangan Anda. Permohonan perpanjangan yang masih diproses tidak dihitung, begitu juga surat tanda terima dari kantor paspor Anda. Satu-satunya dokumen yang membawa Anda melewati check-in dan pemeriksaan imigrasi adalah paspor sah yang bisa Anda serahkan ketika diminta.
 
@@ -86,9 +86,9 @@ Jangan menunda menghubungi kantor paspor negara Anda lewat telepon — tanyakan 
 
 Bersamaan dengan itu, hubungi maskapai Anda soal penjadwalan ulang. Sebagian maskapai membebaskan biaya perubahan jadwal jika alasannya benar-benar masalah dokumen. Pastikan setiap kesepakatan tertulis. Jika Anda punya asuransi perjalanan, periksa polis Anda untuk cakupan biaya akibat keterlambatan paspor atau masalah dokumen.
 
-## Cara Menghindari Situasi Ini
+## Memperpanjang Lebih Awal Menghilangkan Tekanan Waktu Sepenuhnya
 
-Jawaban sederhananya adalah memperpanjang paspor Anda jauh sebelum Anda membutuhkannya untuk bepergian. Mengajukan 6 hingga 9 bulan sebelum perjalanan internasional yang direncanakan sepenuhnya menghilangkan tekanan waktu dan memberi ruang untuk pemrosesan standar tanpa biaya percepatan.
+Jawaban sederhananya adalah memperpanjang paspor Anda jauh sebelum Anda membutuhkannya untuk bepergian. Mengajukan 6 hingga 9 bulan sebelum perjalanan internasional yang direncanakan sepenuhnya menghilangkan tekanan waktu dan memberi ruang untuk pemrosesan standar tanpa biaya percepatan. Kami sendiri akan mengajukan mendekati sembilan bulan sebelumnya, bukan enam, supaya pemrosesan standar yang molor tidak sampai bentrok dengan perjalanan yang sudah dipesan. Kalau Anda belum tahu tanggal kedaluwarsa paspor Anda sendiri, periksa hari ini, sebelum memesan apa pun.
 
 Alasan orang berakhir dalam situasi ini bukan karena tidak tahu aturannya. Paspor kedaluwarsa secara diam-diam tanpa pengingat otomatis, sehingga orang cenderung hanya ingat bahwa paspornya masih berlaku, bukan kapan paspor itu kedaluwarsa. Mengatur pengingat 12 bulan sebelum tanggal kedaluwarsa memberi Anda waktu untuk memperpanjang sesuai kecepatan Anda sendiri, dengan pemrosesan standar, tanpa tekanan.
 

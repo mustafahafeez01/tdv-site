@@ -13,16 +13,16 @@ Source: https://traveldocumentvault.com/sv/blog/visa-expiry-tracker-app/
 - Visumbevakning är **mer komplext** än passbevakning – ett visum har ett inresedatum, en maximal vistelsetid och ibland en gräns för antal inresor, och allt detta måste bevakas separat.
 - En overstay på ett visum får allvarliga följder: böter, återinreseförbud på flera år eller längre, och i vissa länder även åtal.
 - De bästa apparna för visumbevakning fungerar offline, stödjer flera visumtyper och låter dig ställa in egna påminnelsetider per dokument.
-- Besökare i Schengenområdet måste bevaka ett rullande 90/180-dagarsfönster, inte bara ett enda utgångsdatum – de flesta generiska reseappar hanterar inte detta korrekt.
+- Besökare i Schengenområdet måste bevaka ett rullande 90/180-dagarsfönster, inte bara ett enda utgångsdatum, eftersom räkningen följer din faktiska reshistorik och inte kalendern.
 - Att bevaka visum och pass tillsammans på samma ställe minskar risken för en krock: att resa in på ett giltigt visum men med ett pass som går ut innan den planerade vistelsen är slut.
 
 En overstay på visumet är ett av de mest konsekvensrika misstag en resenär kan göra. Till skillnad från ett missat flyg, stressande men i grunden lösbart, skapar en overstay ett formellt register hos migrationsmyndigheterna som kan följa dig i flera år. I USA utlöser en overstay på bara 180 dagar ett automatiskt 3-årigt återinreseförbud enligt INA-avsnitt 212(a)(9)(B)(i), och en overstay på ett år utlöser ett 10-årigt förbud. Dessa konsekvenser är inte allmänt kända, men de är dokumenterade av amerikanska USCIS.
 
-En app för visumbevakning är byggd för att förhindra just detta, eftersom den bevakar flera datum samtidigt – inresans giltighet, maximal vistelsetid och antal inresor – på ett sätt som generiska passappar inte klarar.
+En app för visumbevakning är byggd för att förhindra just detta: den behöver bevaka flera datum samtidigt – inresans giltighet, maximal vistelsetid och antal inresor – där vart och ett är en separat deadline.
 
 ## Varför visumbevakning är mer komplext än passbevakning
 
-Till skillnad från ett pass som bara har ett datum av betydelse (utgångsdatumet) har ett visum flera separata tidsrelaterade fält som var och en måste bevakas. Om [skillnaden mellan ett visum och ett pass](https://traveldocumentvault.com/sv/blog/visa-vs-passport/) ännu inte är helt klar är den artikeln värd att läsa först:
+Ett pass har ett enda datum av betydelse: utgångsdatumet. Ett visum har vanligtvis flera, och att missa ett av dem är hur en oavsiktlig overstay uppstår. Om [skillnaden mellan ett visum och ett pass](https://traveldocumentvault.com/sv/blog/visa-vs-passport/) ännu inte är helt klar är den artikeln värd att läsa först:
 
 Vad det betyder i praktiken
 
@@ -41,9 +41,7 @@ En bevakning som bara följer inresans giltighetsdatum missar precis den här f�
 
 För resenärer som besöker flera europeiska länder är Schengenområdets 90/180-dagarsregel ett av de mest missförstådda inresevillkoren inom internationellt resande. Medborgare i länder med visumfri tillgång till Schengen (bland andra Storbritannien, USA, Kanada och Australien) får vistas högst 90 dagar i Schengenområdet under en rullande period på 180 dagar.
 
-EU-kommissionen tillhandahåller en officiell kalkylator för Schengenvistelser som hjälper resenärer att räkna ut sina tillåtna dagar, vilket spelar roll eftersom det handlar om ett *rullande fönster*, inte en nollställning varje kalenderår. Dagar som spenderades i Schengen för sex månader sedan räknas fortfarande mot din nuvarande gräns.
-
-De flesta generiska pass- eller dokumentappar hanterar inte detta korrekt. En app som bara visar ett visums utgångsdatum kan inte hantera Schengen-efterlevnad – det krävs beräkning av dagar inom ett rullande fönster baserat på faktiska in- och utresedatum.
+EU-kommissionen tillhandahåller en officiell kalkylator för Schengenvistelser som hjälper resenärer att räkna ut sina tillåtna dagar, vilket spelar roll eftersom det handlar om ett *rullande fönster*, inte en nollställning varje kalenderår. Dagar som spenderades i Schengen för sex månader sedan räknas fortfarande mot din nuvarande gräns, så att kontrollera ett enda utgångsdatum fångar inte upp en overstay. Det som räknas är din faktiska in- och utresehistorik, inte datumet som står tryckt på visumet.
 
 ## Vad som händer när du gör en overstay
 
@@ -78,7 +76,7 @@ Med all denna komplexitet i åtanke behöver en bra app för visumbevakning hant
 4. **För resor i Schengen, för en logg över in- och utresedatum.** Använd EU-kommissionens officiella kalkylator för att kontrollera dina återstående dagar innan varje resa som följer på tidigare Schengenresor.
 5. **Ställ in en påminnelse i god tid före din maximala vistelsedeadline.** Det ger dig tid att ordna en avresa utan stress, särskilt om transportmöjligheterna på din resmål är begränsade.
 
-Regler som samspelar med visumbevakning: se vår guide om [6-månadersregeln för pass](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/), som kan hindra dig från att resa in även med ett giltigt visum om passet går ut för nära din planerade avresa.
+Kontrollera passets utgångsdatum mot dina visumdatum i dag: även ett giltigt visum räcker inte om passet går ut för nära din planerade avresa, och just den bristande överensstämmelsen går vår guide om [6-månadersregeln för pass](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/) igenom.
 
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
@@ -102,7 +100,7 @@ De bästa apparna gör det. Offlineåtkomst spelar störst roll vid gränser och
 
 ### Hur långt i förväg bör jag få en påminnelse innan visumet går ut?
 
-Det beror på visumtypen. För långtidsvisum som kräver förnyelse är 90 dagar en rimlig minimigräns. För turistvisum med fast maximal vistelsetid, ge dig själv tillräckligt med tid före det sista tillåtna utresedatumet för att kunna ordna avresan utan stress. Leta efter appar som låter dig ställa in egna tidsintervall per dokument.
+Det beror på visumtypen. För långtidsvisum som kräver förnyelse skulle vi ställa in påminnelsen på 90 dagar, inte närmare. För turistvisum med fast maximal vistelsetid, ge dig själv tillräckligt med tid före det sista tillåtna utresedatumet för att kunna ordna avresan utan stress. Leta efter appar som låter dig ställa in egna tidsintervall per dokument.
 
 ## Relaterade artiklar
 

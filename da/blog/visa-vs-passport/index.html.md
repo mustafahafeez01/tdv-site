@@ -16,13 +16,13 @@ Source: https://traveldocumentvault.com/da/blog/visa-vs-passport/
 - Visumkrav **varierer efter statsborgerskab og destination**, så tjek altid kravene, før du rejser.
 - **Hold styr på visummets udløbsdato adskilt fra dit pas'** – det er med til at forhindre rejseforstyrrelser.
 
-Når du planlægger en international rejse, støder du konstant på to udtryk: pas og visum. Mange førstegangsrejsende går ud fra, at ordene dækker det samme, men de er faktisk to forskellige dokumenter med hver sit formål. Det er vigtigt at forstå forskellen, før du booker din næste rejse, for forveksler du dem, kan det forsinke eller ligefrem forhindre dine rejseplaner.
+Pas og visum lyder næsten som det samme, men de gør hver sit arbejde: det ene identificerer dig, det andet lukker dig ind, og de fleste internationale rejser kræver begge dele. Førstegangsrejsende går ofte ud fra, at det ene dækker det andet, og den antagelse kan give reelle problemer ved check-in eller i grænsekontrollen, når der ikke er tid tilbage til at rette op på det.
 
 ## Hvad er et pas
 
-Dit pas indeholder dit navn, din fødselsdato, dit foto og et unikt pasnummer – udstedt af din regering og anerkendt verden over som bevis på dit statsborgerskab. Det er et af de vigtigste dokumenter, du nogensinde kommer til at eje.
+Dit pas indeholder dit navn, din fødselsdato, dit foto og et unikt pasnummer – udstedt af din regering og anerkendt verden over som bevis på dit statsborgerskab.
 
-Tænk på dit pas som dit officielle identitetskort til international rejse. Uden det kan du ikke lovligt forlade dit land eller rejse ind i de fleste udenlandske destinationer. Grænsevagter undersøger det ved grænserne, luftfartsselskaber kræver det til internationale flyvninger, og toldmyndighederne kontrollerer det, når du ankommer.
+Det fungerer som din officielle legitimation til international rejse. Uden det kan du ikke lovligt forlade dit land eller rejse ind i de fleste udenlandske destinationer. Grænsevagter undersøger det ved grænserne, luftfartsselskaber kræver det til internationale flyvninger, og toldmyndighederne kontrollerer det, når du ankommer.
 
 Pas er typisk gyldige i flere år (ofte 10 år for voksne, 5 år for børn), selvom gyldighedsperioden varierer efter land. Når dit pas udløber, kan du ikke rejse internationalt og skal søge om fornyelse. At holde styr på den dato betyder mere, end de fleste forventer, for mange lande kræver mindst 6 måneders resterende gyldighed, før de lader dig komme ind – så et pas, der ikke er udløbet endnu, kan stadig blive afvist ved grænsen. Din destinations ambassade kan bekræfte den præcise regel, den anvender.
 
@@ -50,7 +50,7 @@ Den anden er visumfri rejse. Når en destination lader dit statsborgerskab komme
 
 Paset er altså dit og følger dig overalt. Tilladelsen gives separat af hver destination og kan nægtes, selv når dit pas er i perfekt stand.
 
-## Typer af visum
+## Visumtyper varierer efter formål og varighed
 
 De fleste lande udsteder visum i disse kategorier:
 
@@ -73,7 +73,7 @@ Kravene inden for hver kategori varierer meget. Et turistvisum til ét land kan 
 | **Sagsbehandlingstid** | Uger til måneder afhængigt af land | Dage til måneder afhængigt af destination og type |
 | **Pris** | Fast offentligt gebyr | Varierer meget efter land og visumtype |
 
-## Almindelig forvirring: visumstempler vs. e-visum
+## Visumstempler og e-visum gør det samme arbejde
 
 En kilde til forvirring er forskellen mellem et traditionelt visumstempel og et moderne e-visum. Tidligere stemplede eller skrev myndighederne godkendelsen direkte i dit pas – du kunne se officielle mærker, datoer og godkendelsesnotater trykt på siderne. E-visum fungerer anderledes: du ansøger online, betaler et gebyr og modtager godkendelsen via e-mail i stedet for et fysisk stempel.
 
@@ -93,27 +93,27 @@ Tre steder kan fortælle dig, hvad du reelt skal bruge, og det er værd at tjekk
 
 Vi har bevidst ikke linket til nogen af dem. Indrejsereglerne ændrer sig ofte nok til, at et link gemt i dag kan pege på forældet vejledning, når du læser det, så gå direkte til myndigheden og læs, hvad den siger lige nu.
 
-Det bringer os til det ærlige forbehold ved denne artikel. Den forklarer, hvordan pas og visum adskiller sig i generelle vendinger, og generelle vendinger er alt, hvad nogen blog kan tilbyde – denne inklusive. Intet her erstatter det, den udstedende myndighed fortæller dig om dit statsborgerskab, din destination og dine rejsedatoer. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Betragt dette som baggrundsviden, der hjælper dig med at stille bedre spørgsmål, og bekræft derefter svarene hos ambassaden eller din regerings rejsevejledning.
+Ét ærligt forbehold ved denne artikel: den forklarer, hvordan pas og visum adskiller sig i generelle vendinger, og generelle vendinger er alt, hvad nogen blog kan tilbyde – denne inklusive. Intet her erstatter det, den udstedende myndighed fortæller dig om dit statsborgerskab, din destination og dine rejsedatoer. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Betragt dette som baggrundsviden, der hjælper dig med at stille bedre spørgsmål, og bekræft derefter svarene hos ambassaden eller din regerings rejsevejledning.
 
-Start 2-3 måneder før din rejse, hvis det ser ud til, at du skal bruge visum, så der er tid til en ansøgning. Og er noget uklart, eller har du dobbelt statsborgerskab, så kontakt destinationslandets ambassade direkte i stedet for at gætte, hvilket pas du skal bruge.
+Vi ville starte ansøgningen 2-3 måneder før din rejse, hvis det ser ud til, at du skal bruge visum, så der er plads, hvis det går langsomt. Og er noget uklart, eller har du dobbelt statsborgerskab, så kontakt destinationslandets ambassade direkte i stedet for at gætte, hvilket pas du skal bruge.
 
 ## Faldgruben med udløbet pas: visumgyldighed vs. pasgyldighed
 
 En almindelig misforståelse er, at et visum udløber, når dit pas udløber, men sådan fungerer det ikke. Et visums gyldighed er helt adskilt fra dit pas' gyldighed. Udløber dit pas, før dit visum gør, forbliver visummet gyldigt.
 
-Her er scenariet: dit pas udløber, så du søger om et nyt, men du har stadig et gyldigt turistvisum til en destination – måske med seks måneders gyldighed tilbage – stemplet i dit udløbne pas. Du kan stadig rejse med dette visum. Medbring blot både dit gamle (udløbne) pas med visummet og dit nye pas, så vil grænsemyndighederne undersøge begge dokumenter, når du rejser ind.
+Sig, at dit pas udløber, så du søger om et nyt, men du har stadig et gyldigt turistvisum til en destination – måske med seks måneders gyldighed tilbage – stemplet i dit udløbne pas. Du kan stadig rejse med dette visum. Medbring blot både dit gamle (udløbne) pas med visummet og dit nye pas, så vil grænsemyndighederne undersøge begge dokumenter, når du rejser ind.
 
 Nogle lande kræver, at visummet overføres til dit nye pas. Det skal ske hos det udstedende lands ambassade eller konsulat, før du rejser. Kravene varierer efter destination, og derfor skal du bekræfte dem på det pågældende lands officielle ambassadehjemmeside eller ved at kontakte dem direkte.
 
-Forvirringen opstår, fordi visummet står i dit gamle pas, som er udløbet som rejsedokument, mens selve visummet – tilladelsen fra destinationslandet – forbliver gyldigt i henhold til sin egen udløbsdato. Før du rejser, bør du afklare de specifikke krav med destinationslandets indrejsemyndighed, da nogle lande kræver, at du overfører visummet til dit nye pas først.
+Forvirringen er, at dit gamle pas er udløbet som rejsedokument, mens visummet i det er en separat tilladelse fra destinationslandet, der løber efter sin egen udløbsdato.
 
-## Visumfri rejse: et komplekst billede
+## Visumfri rejse har stadig grænser
 
 Mange lande har visumfritagelses- eller visumfri aftaler med hinanden, som lader deres borgere krydse grænser uden at skaffe visum på forhånd. Schengenområdet i Europa er det mest kendte eksempel – pasindehavere fra medlemslandene kan bevæge sig frit på tværs af de 29 medlemsstater uden visumkontrol. Medlemskabet ændrer sig, så Europa-Kommissionens egne Schengen-sider er stedet at bekræfte, hvem der aktuelt er med. Sydøstasien, Caribien og dele af Afrika har lignende ordninger.
 
 Visumfri rejse har dog sine grænser. Det gælder som regel kun turisme eller korte ophold, ikke arbejde eller studier. Visumfri perioder er også begrænsede, ofte 30 til 90 dage afhængigt af landet. Overskrider du den tilladte periode, bliver du ulovligt opholdende og risikerer sanktioner som bøder, udvisning eller fremtidige indrejseforbud.
 
-Visumfri adgang afhænger også udelukkende af dit statsborgerskab. To personer, der rejser sammen, kan have forskellige visumkrav afhængigt af deres pas. Den ene kan måske besøge landet visumfrit, mens den anden skal søge om visum. Derfor er det vigtigt at tjekke netop dit statsborgerskab, når du undersøger kravene.
+Visumfri adgang afhænger også udelukkende af dit statsborgerskab. To personer, der rejser sammen, kan have helt forskellige krav afhængigt af deres pas, hvor den ene krydser grænsen visumfrit, mens den anden skal søge om visum, så det er dit eget statsborgerskab, der tæller her, ikke en rejsekammerats erfaring.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 

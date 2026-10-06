@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/es/blog/passport-photo-at-home/
 
 Una foto tomada en casa se acepta con la misma facilidad que una de cabina, siempre que cumpla la misma lista breve de reglas. La mayoría de los rechazos se reducen a tres cosas: sombra en la cara o en el fondo, la cabeza con un tamaño incorrecto en el encuadre, y las gafas. Si resuelves esos tres puntos, el resto es sencillo.
 
-## Requisitos Universales Entre Países
+## La Mayoría de los Países Comparten los Mismos Requisitos Básicos de Foto
 
 Aunque las reglas específicas varían según la autoridad de pasaportes, la mayoría de los países comparten requisitos fundamentales para fotos de pasaporte. Entender estos principios básicos te pondrá en terreno firme sin importar qué país emita tu pasaporte.
 
@@ -95,7 +95,7 @@ Los teléfonos inteligentes modernos disparan a 12 megapíxeles o superior, lo c
 - **Fondo incorrecto:** Fondo coloreado, patrón o fondo blanco desigual. El cartón o sábana blanco o beige plano funciona mejor, asegúrate de que no haya textura visible o sombras.
 - **Espacio de cabeza excesivo o recorte:** La cara demasiado pequeña o posicionada incorrectamente en el marco. Las reglas de tu país establecerán exactamente cuánto del marco tu cara debe llenar, usualmente como una medida de barbilla a coronilla en lugar de un porcentaje, trabaja con esa cifra, no con lo que se ve correcto.
 
-## De Teléfono Inteligente a Foto Oficial: El Proceso
+## Recorta la Foto de tu Teléfono y Luego Imprímela o Súbela
 
 Tu foto de teléfono inteligente rara vez tiene el tamaño correcto directamente. Después de disparar, necesitarás recortarla a las especificaciones exactas de tu país, luego decidir si imprimirla o cargarla digitalmente.
 
@@ -119,7 +119,7 @@ Antes de tomar tu foto, asegúrate de tener lo siguiente en su lugar:
 - Una app de recorte descargada y lista para usar
 - Plan para imprimir o presentación digital basado en los requisitos de tu país
 
-Unos pocos minutos configurando correctamente ahora te ahorran de volver a presentar después, lo que significa que tu solicitud no sufre retrasos.
+Si tienes buena luz de ventana y unos minutos libres, hazte la foto tú mismo hoy: es gratis y la tienes al instante. Si no confías en tu montaje, o vas con el plazo justo, la farmacia o la oficina de correos reduce ese riesgo casi a nada por una tarifa modesta. Eso sí, comprueba antes las especificaciones actuales de tu propio país, no una cifra que hayas visto por ahí.
 
 **Antes de fiarte de esto:** es un blog, no una fuente oficial. Las reglas y los detalles cambian, y tu situación puede ser distinta. Revisamos lo que publicamos, y aun así podemos equivocarnos o quedarnos desactualizados. Si algo de esto importa para tus planes, confírmalo con la autoridad correspondiente antes de actuar.
 

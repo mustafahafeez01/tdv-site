@@ -69,64 +69,102 @@ Tutto in un posto a portata di mano, pronto quando ne ha bisogno.
 
 Se è Lei: persona organizzata che ha bisogno di una sola app di cui fidarsi.
 
-## Cosa Sta Probabilmente Usando Ora
+## Dove tieni probabilmente i tuoi documenti oggi
 
-Queste sono tutte scelte ragionevoli. Ognuna funziona, fino a un certo punto.
-
-### Archivi Generici
-
-**Funziona:** Alta sicurezza e accesso offline.
-
-**Limite:** Trattano un passaporto come uno scontrino della spesa e mancano della logica specifica per i viaggi. Travel Document Vault include un profilo e fino a cinque documenti gratuiti. Pro è un acquisto una tantum senza abbonamento.
+Quasi tutti abbiamo già delle copie da qualche parte. Ecco come ottenere di più da ciascuna.
 
 ### Rullino / Foto
 
-**Funziona:** Sempre con Lei.
-
-**Limite:** Sepolto tra migliaia di foto senza tracciamento delle scadenze, nessuna organizzazione e nessuna sicurezza oltre al blocco del telefono.
+Sempre con te. Metti le foto del passaporto in un album a parte, così al banco del check-in non devi scorrere tra le foto delle vacanze.
 
 ### Archiviazione Cloud
 
-**Funziona:** Ha modalità offline e sincronizza tra dispositivi.
-
-**Limite:** Archivia il passaporto, controlla la data di scadenza, passa a un'app calendario, poi ricorda in quale cartella si trovavano i documenti del coniuge. Sono tre app che fanno il lavoro di una, e nessuna sa che è un passaporto che scade.
+Comoda su tutti i dispositivi. Crea una cartella con un nome chiaro per ogni persona e attiva la protezione di accesso più forte offerta dal tuo fornitore.
 
 ### Gestori di Password
 
-**Funziona:** Ottimi per le password.
-
-**Limite:** Non progettati per immagini di documenti, tracciamento delle scadenze o organizzazione familiare. Una foto del passaporto in un campo password è un espediente, non una soluzione.
+Un posto sensato per il numero del passaporto, se ne usi già uno. Tieni la pagina con la foto altrettanto facile da raggiungere in aeroporto.
 
 ### App per Note
 
-**Funziona:** Flessibili e familiari.
-
-**Limite:** Nessun promemoria di scadenza, nessuna acquisizione guidata e la foto del passaporto si trova accanto alla lista della spesa senza crittografia.
+Flessibili e familiari. Se un numero di passaporto sta in una nota, blocca quella nota dove la tua app lo permette.
 
 ### Fogli di Calcolo
 
-**Funziona:** Eccellenti per pianificare itinerari e inserire dettagli.
+Ottimi per mettere in un'unica tabella le scadenze di tutta la famiglia. Aggiungi una colonna «rinnovare entro» e vedi la prossima scadenza a colpo d'occhio.
 
-**Limite:** Nessun allegato immagine sicuro, formattazione pessima sugli schermi mobile in aeroporto e nessun promemoria automatico prima del viaggio.
+### Copie Cartacee
 
-## Come Si Confronta
+Sono ancora utili. Una copia stampata di ogni pagina con la foto, messa in valigia separata dai passaporti, aiuta se uno va perso all'estero.
 
-Travel Document Vault conserva documenti, tiene traccia delle date di scadenza e, con Pro, aggiunge profili familiari e pianificazione dei viaggi.
+## Il tuo vault in breve
 
-| Funzionalità | Travel Document Vault | App wallet | Libreria foto / cloud | Gestore password |
-|---|---|---|---|---|
-| Promemoria di scadenza (per tipo di documento) | ✓8 mesi prima per i passaporti | ✗ | ✗ | ✗ |
-| Profili famiglia | ✓Illimitati (Pro) | ✗ | ✗ | ~Solo archivi condivisi |
-| Sul dispositivo per impostazione predefinita | ✓Backup facoltativo (Pro) | ✗Sync cloud | ✗Cloud-first | ✗Cloud-first |
-| Tipi documenti specifici | ✓Passaporto, visto, ID... | ~Solo carte imbarco | ✗ | ✗ |
-| Funziona offline | ✓ | ✓ | ~Serve cache precedente | ✓ |
-| Nessun account richiesto | ✓ | ~Richiede account della piattaforma | ✗ | ✗ |
-| Nessun abbonamento | ✓una tantum | ✓ | ~Gratuito, livelli con pubblicità variabili | ✗generalmente $30-40/anno |
-| Checklist preparazione (per viaggio) | ✓Sì (Pro) | ✗ | ✗ | ✗ |
-| Limiti giornalieri personalizzati per paese (giorni-in / giorni-fuori) | ✓ Pro | ✗ | ✗ | ✗ |
-| Sync cloud crittografato (vostro cloud) | ✓Il vostro cloud (Pro) | ~Solo account della piattaforma | ~Solo fornitore cloud | ~Server del fornitore |
+Travel Document Vault conserva i tuoi documenti e tiene traccia delle scadenze. Pro aggiunge profili famiglia illimitati e pianificazione dei viaggi.
 
-✓ Supportato ~ Parziale ✗ Non supportato
+### Promemoria di scadenza
+
+8 mesi
+
+Per impostazione predefinita, i promemoria del passaporto partono con questo anticipo e si ripetono man mano che la data si avvicina. Gli altri documenti seguono i tempi del loro tipo.
+
+1. 8 mesi
+2. 6 mesi
+3. 3 mesi
+4. 6 sett.
+5. 1 mese
+6. 2 sett.
+7. 1 sett.
+8. Scadenza
+
+### Crittografia
+
+AES-256
+
+I file dei documenti sono crittografati sul tuo telefono, così come il database che contiene i tuoi dati.
+
+### Account dell'app
+
+Nessuno
+
+Nessuna registrazione e nessun accesso per l'app. Il backup cloud facoltativo usa il tuo account iCloud o Google.
+
+### Offline
+
+Senza rete
+
+Documenti salvati e promemoria funzionano senza connessione, anche in coda per il passaporto.
+
+### Pro
+
+Un solo acquisto
+
+Un acquisto una tantum, nessun abbonamento.
+
+### Con Pro
+
+#### Profili famiglia illimitati
+
+Un profilo per ogni membro della famiglia, ciascuno con i propri documenti.
+
+#### Nessun limite di documenti
+
+Aggiungi tutti i passaporti, i visti e le carte d'identità che servono alla famiglia.
+
+#### Checklist di preparazione al viaggio
+
+Pianifica un viaggio e controlla quali documenti sono pronti e cosa resta da fare.
+
+#### Limiti di giorni per paese
+
+Imposta tu un limite di giorni: i tuoi viaggi conteggiano i giorni trascorsi nel paese, o fuori, rispetto a quel limite.
+
+#### Tempi dei promemoria a modo tuo
+
+Scegli con quanto anticipo iniziano i promemoria per ogni documento.
+
+#### Backup cloud crittografato
+
+Una copia crittografata sul tuo iCloud (iOS) o Google Drive (Android), ripristinata con il tuo codice di recupero.
 
 ## Un'App. Tutto Organizzato.
 

@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/da/blog/passport-photo-at-home/
 
 Et billede taget derhjemme bliver godkendt lige så let som et fra en fotoboks, forudsat at det opfylder den samme korte liste af regler. De fleste afvisninger skyldes tre ting: skygge i ansigtet eller på baggrunden, forkert størrelse på hovedet i billedet, og briller. Får du styr på dem, er resten ligetil.
 
-## Krav der gælder i de fleste lande
+## De fleste lande deler de samme grundlæggende krav til pasfoto
 
 Selvom de konkrete regler varierer fra pasmyndighed til pasmyndighed, deler de fleste lande de samme grundlæggende krav til pasfoto. Forstår du disse grundprincipper, står du på sikker grund, uanset hvilket land der udsteder dit pas.
 
@@ -98,7 +98,7 @@ Moderne smartphones optager med 12 megapixel eller mere, hvilket er rigeligt til
 - **Forkert baggrund:** Farvet baggrund, mønster eller ujævn hvid baggrund. Ensfarvet hvid eller råhvid plakatplade eller lagen fungerer bedst – sørg for, at der ikke er synlig struktur eller skygger.
 - **For meget eller for lidt margin:** Ansigtet er for lille eller placeret forkert i billedet. Dit lands regler angiver præcis, hvor stor en del af billedet ansigtet skal fylde, som regel som et mål fra hage til isse frem for en procentdel – arbejd efter det tal, ikke efter hvad der "ser rigtigt ud".
 
-## Fra mobilbillede til officielt pasfoto: processen
+## Beskær dit mobilbillede, og print eller upload det derefter
 
 Billedet fra din mobil har sjældent den rigtige størrelse med det samme. Efter optagelsen skal du beskære det til dit lands præcise specifikationer og derefter beslutte, om du vil printe det eller uploade det digitalt.
 
@@ -122,7 +122,7 @@ Før du tager dit foto, skal du sikre dig, at du har følgende klar:
 - En beskæringsapp downloadet og klar til brug
 - Plan for print eller digital indsendelse ud fra dit lands krav
 
-Nogle få minutters ordentlig forberedelse nu sparer dig for at skulle indsende igen senere.
+Har du ordentligt vinduslys og et par minutter til overs, så tag billedet selv i dag: det er gratis og klar med det samme. Er du ikke sikker på din opsætning, eller har du travlt med en frist, skærer apoteket eller en professionel fotograf risikoen ned til næsten ingenting for et beskedent gebyr. Tjek bare dit eget lands aktuelle spec først, ikke et tal, du har set et andet sted.
 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 

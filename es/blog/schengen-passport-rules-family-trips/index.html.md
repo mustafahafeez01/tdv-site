@@ -57,9 +57,9 @@ Independientemente de lo que la frontera podría tolerar, te encontrarás con la
 
 Un pasaporte fallido rara vez deja varado a una persona; deja en tierra a toda la familia. Pocos padres enviarán a tres miembros adelante y dejarán a uno en el mostrador, así que en la práctica toda la reserva se reescribe o se pierde.
 
-## La Auditoría Familiar de Cinco Minutos
+## Audita Cada Pasaporte el Día que Reservas
 
-La solución es simple y solo toma minutos. El día que reservas, reúne cada pasaporte en el hogar y anota cada fecha de caducidad y fecha de emisión. Luego haz dos preguntas para cada uno: ¿seguirá siendo válido tres meses después de tu regreso, y fue emitido hace menos de diez años. Cualquier cosa que no pase ninguna de las dos pruebas entra en la cola de renovación esa semana —en ese punto, aún puedes renovar, redirigir el viaje, o cambiar tus fechas sin penalización.
+La solución es simple y solo toma minutos. El día que reservas, reúne cada pasaporte en el hogar y anota cada fecha de caducidad y fecha de emisión. Luego haz dos preguntas para cada uno: ¿seguirá siendo válido tres meses después de tu regreso, y fue emitido hace menos de diez años. Cualquier cosa que no pase ninguna de las dos pruebas entra en la cola de renovación esa semana —en ese punto, aún puedes renovar, redirigir el viaje, o cambiar tus fechas sin penalización, y nosotros siempre elegiríamos renovar antes que esperar a ver si las fechas se mueven.
 
 Los niños necesitan el mismo amortiguador que los adultos. No hay excepción infantil para las normas de validez —el pasaporte de un niño de cinco años obtiene el mismo tratamiento de Timatic que el tuyo. Una observación para los viajes británicos e irlandeses: Irlanda no está en Schengen en absoluto. Los viajes UK-Irlanda se rigen por el Área de Viaje Común separada, así que no generalices desde un viaje a Dublín a uno a París.
 

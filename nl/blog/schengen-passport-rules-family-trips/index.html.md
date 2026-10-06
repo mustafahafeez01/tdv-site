@@ -57,9 +57,9 @@ Wat de grens ook zou tolereren, je komt de regels eerder tegen – bij het inche
 
 Eén afgekeurd paspoort strandt zelden slechts één persoon; het zet het hele gezin vast. Weinig ouders sturen drie familieleden verder en laten er één bij de balie achter, dus in de praktijk wordt de hele boeking omgeboekt of verloren.
 
-## De vijf-minuten-check voor het hele gezin
+## Controleer elk paspoort op de dag dat je boekt
 
-De oplossing is simpel en kost maar een paar minuten. Verzamel op de dag dat je boekt alle paspoorten van het huishouden en noteer elke vervaldatum en afgiftedatum. Stel dan twee vragen per paspoort: is het nog geldig drie maanden na je terugreisdatum, en is het minder dan tien jaar geleden afgegeven? Alles wat een van beide tests niet doorstaat, gaat diezelfde week de verlengingswachtrij in – op dat moment kun je nog verlengen, de reis omleggen of de data verschuiven zonder gevolgen.
+De oplossing is simpel en kost maar een paar minuten. Verzamel op de dag dat je boekt alle paspoorten van het huishouden en noteer elke vervaldatum en afgiftedatum. Stel dan twee vragen per paspoort: is het nog geldig drie maanden na je terugreisdatum, en is het minder dan tien jaar geleden afgegeven? Alles wat een van beide tests niet doorstaat, gaat diezelfde week de verlengingswachtrij in – op dat moment kun je nog verlengen, de reis omleggen of de data verschuiven zonder gevolgen, en wij kiezen altijd voor verlengen in plaats van afwachten of de data nog opschuiven.
 
 Kinderen hebben dezelfde marge nodig als volwassenen. Er is geen kinderuitzondering op de geldigheidsregels – het paspoort van een vijfjarige krijgt dezelfde Timatic-behandeling als dat van jou. Nog een kanttekening voor Britse en Ierse reizen: Ierland maakt helemaal geen deel uit van Schengen. Reizen tussen het VK en Ierland vallen onder de aparte Common Travel Area, dus generaliseer niet van een reis naar Dublin naar een reis naar Parijs.
 

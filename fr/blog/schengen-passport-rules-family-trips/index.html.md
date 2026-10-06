@@ -57,9 +57,9 @@ Quoi que la frontière tolère, vous rencontrerez les règles plus tôt que cela
 
 Un passeport défaillant isole rarement une personne ; il immobilise la famille. Peu de parents enverront trois membres en avant et laisseront quelqu'un au comptoir, donc en pratique l'ensemble de la réservation se fait rebooker ou annuler.
 
-## L'audit familial de cinq minutes
+## Vérifiez chaque passeport le jour où vous réservez
 
-Le correctif est simple et ne prend que quelques minutes. Le jour de la réservation, rassemblez tous les passeports du foyer et notez chaque date d'expiration et date d'émission. Posez ensuite deux questions pour chacun : sera-t-il toujours valide trois mois après votre retour, et a-t-il été émis il y a moins de dix ans ? Tout ce qui échoue à l'un ou l'autre test entre dans la file d'attente de renouvellement cette semaine — à ce stade, vous pouvez toujours renouveler, réacheminer le voyage ou décaler vos dates sans pénalité.
+Le correctif est simple et ne prend que quelques minutes. Le jour de la réservation, rassemblez tous les passeports du foyer et notez chaque date d'expiration et date d'émission. Posez ensuite deux questions pour chacun : sera-t-il toujours valide trois mois après votre retour, et a-t-il été émis il y a moins de dix ans ? Tout ce qui échoue à l'un ou l'autre test entre dans la file d'attente de renouvellement cette semaine — à ce stade, vous pouvez toujours renouveler, réacheminer le voyage ou décaler vos dates sans pénalité, et nous choisirions toujours de renouveler plutôt que d'attendre pour voir si les dates bougent.
 
 Les enfants ont besoin du même délai que les adultes. Il n'y a pas d'exception pour enfants aux règles de validité — le passeport d'un enfant de cinq ans reçoit le même traitement Timatic que le vôtre. Une remarque à part pour les voyages en Grande-Bretagne et en Irlande : l'Irlande n'est pas du tout à Schengen. Les voyages GB-Irlande se font selon la Zone de voyage commune distincte, alors ne généralisez pas d'un voyage à Dublin à un voyage à Paris.
 

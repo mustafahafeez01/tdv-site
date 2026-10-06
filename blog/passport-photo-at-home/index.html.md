@@ -18,17 +18,17 @@ Source: https://traveldocumentvault.com/blog/passport-photo-at-home/
 
 A photo taken at home passes just as readily as one from a booth, provided it meets the same short list of rules. Most rejections come down to three things: shadow on the face or the background, the head being the wrong size in the frame, and glasses. Get those right and the rest is straightforward.
 
-## Universal Requirements Across Countries
+## Most Countries Share the Same Core Photo Requirements
 
 Although specific rules vary by passport authority, most countries share core requirements for passport photos. Understanding these fundamentals will put you on solid ground regardless of which country issues your passport.
 
 ### Background and Composition
 
-You need a plain white or off-white background - nothing else works. No patterns, shadows, blurred backgrounds, or colours. The reasoning is straightforward: officials need a clean, uncluttered view of your face to compare against future documents. Most people use a white bedsheet, poster board, or even paint a small section of wall. The key is keeping it bright and uniform throughout.
+You need a plain white or off-white background: nothing else works. No patterns, shadows, blurred backgrounds, or colours. The reasoning is straightforward: officials need a clean, uncluttered view of your face to compare against future documents. Most people use a white bedsheet, poster board, or even paint a small section of wall. The key is keeping it bright and uniform throughout.
 
 ### Expression and Pose
 
-Your face needs to fill the frame to the proportion your passport authority specifies, with eyes open and clearly visible - most countries prohibit smiling, and squinting will disqualify the shot. Look straight ahead at the camera with a neutral expression, tilting your head slightly if that feels more natural, but generally keeping your head square to the lens. Your ears should ideally be visible on both sides of your face.
+Your face needs to fill the frame to the proportion your passport authority specifies, with eyes open and clearly visible. Most countries prohibit smiling, and squinting will disqualify the shot. Look straight ahead at the camera with a neutral expression, tilting your head slightly if that feels more natural, but generally keeping your head square to the lens. Your ears should ideally be visible on both sides of your face.
 
 ## Can You Wear Glasses in Your Passport Photo?
 
@@ -44,7 +44,7 @@ Digital submissions swap millimetres for pixels, and every authority publishes i
 
 ### Where to Check Your Country’s Size Requirements
 
-Size is where most people stumble - if your photo doesn't match your country's requirements, rejection is almost certain. Every country sets its own, some in inches and some in millimetres, and they get revised from time to time.
+Size is where most people stumble: if your photo doesn't match your country's requirements, rejection is almost certain. Every country sets its own, some in inches and some in millimetres, and they get revised from time to time.
 
 We deliberately don't reprint those numbers here. A figure copied into a blog post is a figure that can quietly go out of date, and this post is not the authority on it. Check your own passport office directly.
 
@@ -55,7 +55,7 @@ We deliberately don't reprint those numbers here. A figure copied into a blog po
 | Australia | Australian Passport Office photo guidance |
 | Canada | Government of Canada passport photos |
 
-Whatever your country specifies, it is exact - even a few millimetres off means rejection. Your smartphone's raw photo will typically be much larger than what you need to submit, which is why cropping apps exist. Free or low-cost tools like those available on iOS and Android let you input your country and automatically resize to the exact spec.
+Whatever your country specifies, it is exact, so even a few millimetres off means rejection. Your smartphone's raw photo will typically be much larger than what you need to submit, which is why cropping apps exist. Free or low-cost tools like those available on iOS and Android let you input your country and automatically resize to the exact spec.
 
 ### Photo Submission Methods Comparison
 
@@ -83,27 +83,27 @@ Use a tripod or prop your phone against a stable object so you have both hands f
 
 ### Resolution and Focus
 
-Modern smartphones shoot at 12 megapixels or higher, which is plenty for passport photos. Before you shoot, make sure your phone is in focus mode - tap on your face on the screen, and most phones will lock focus there. Your final image should be sharp and clear.
+Modern smartphones shoot at 12 megapixels or higher, which is plenty for passport photos. Before you shoot, make sure your phone is in focus mode: tap on your face on the screen, and most phones will lock focus there. Your final image should be sharp and clear.
 
 ## Common Rejection Reasons and How to Avoid Them
 
-- **Shadows on the face:** Caused by side lighting or harsh light sources. Position yourself perpendicular to a window for even illumination, and check that your ears and cheekbones are evenly lit.
+- **Shadows on the face:** side lighting or a harsh light source is usually the cause, so position yourself perpendicular to a window for even illumination and check that your ears and cheekbones are lit evenly.
 - **Incorrect photo dimensions:** Photo does not match your country's specifications (requirements vary by country). Use a passport photo cropping app and double-check dimensions against your authority's official spec before printing or uploading - not another country's standards.
-- **Smiling or unusual expression:** Most countries require a neutral expression. Practice a calm, straight-ahead look in a mirror beforehand - aim for serious, not stern.
+- **Smiling or unusual expression:** most countries require a neutral expression, so practice a calm, straight-ahead look in a mirror beforehand: aim for serious, not stern.
 - **Glasses with glare:** Glare on lenses obscures your eyes. Either remove your glasses or adjust the angle to eliminate reflection. Many countries now prohibit glasses entirely unless medically necessary, so check your authority's current rules first.
 - **Blurry or out-of-focus image:** Motion or focus issues during capture. Use a tripod or stable object to prop your phone, tap the screen to focus on your face, and avoid any movement during the shot.
-- **Wrong background:** Coloured background, pattern, or uneven white background. Plain white or off-white poster board or bedsheet works best - ensure no visible texture or shadows.
+- **Wrong background:** the usual culprit is a coloured background, a pattern, or an uneven white, so switch to a plain white or off-white poster board or bedsheet with no visible texture or shadow.
 - **Excessive head room or cropping:** Face too small or positioned incorrectly in frame. Your country's rules will state exactly how much of the frame your face should fill, usually as a chin-to-crown measurement rather than a percentage - work to that figure, not to what looks right.
 
 ![Hand-drawn sketchnote of six rejected passport photos - shadow behind the head, smiling, glasses glare, hair across the eyes, patterned background and photo taken too close - beside one accepted photo on a plain background with a neutral face and even light](https://traveldocumentvault.com/blog/passport-photo-at-home/passport-photo-figure.jpg) Six ways a photo gets sent back, and the one setup that passes.
 
-## From Smartphone to Official Photo: The Process
+## Crop Your Smartphone Photo, Then Print or Upload It
 
 Your smartphone photo is rarely the right size straight away. After shooting, you'll need to crop it to your country's exact specifications, then decide whether to print it or upload it digitally.
 
 ### Cropping Tools
 
-Cropping apps take the guesswork out of resizing. Look for tools like Passport Photo Online or ID Photo Studio on iOS and Android - they let you select your country and automatically crop to spec whilst checking that your face dimensions are correct. Many apps go further by providing feedback if your lighting or background falls short.
+Cropping apps take the guesswork out of resizing. Look for tools like Passport Photo Online or ID Photo Studio on iOS and Android, which let you select your country and automatically crop to spec whilst checking that your face dimensions are correct. Many apps go further by providing feedback if your lighting or background falls short.
 
 ### Printing vs. Digital Submission
 
@@ -121,7 +121,7 @@ Before you take your photo, ensure you have the following in place:
 - A cropping app downloaded and ready to use
 - Plan for printing or digital submission based on your country's requirements
 
-A few minutes spent setting up properly now saves you from resubmitting later.
+If you've got decent window light and a few minutes to spare, take the photo yourself today: it's free and ready immediately. If you're not confident in your setup, or you're racing a deadline, the chemist or Post Office cuts that risk to almost nothing for a modest fee. Just check your own country's current spec first, not a number you saw somewhere else.
 
 **Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
 

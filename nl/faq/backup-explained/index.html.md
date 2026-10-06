@@ -74,6 +74,10 @@ Geen enkele laag is een reden om de andere over te slaan. Cloud-accounts kunnen 
 - [Wat is mijn herstelcode? - volledige handleiding voor veilige opslag](https://traveldocumentvault.com/nl/faq/recovery-code/)
 - [Cloudback-up - hoe end-to-end versleuteling werkt](https://traveldocumentvault.com/nl/cloud-backup/)
 
+## Snelle antwoorden
+
+Welke back-upopties biedt Travel Document Vault? Travel Document Vault biedt drie beschermingslagen: (1) Automatische lokale back-ups, die elke paar minuten gratis op uw apparaat worden gemaakt. (2) Vault Export, een gratis handmatig versleuteld back-upbestand (.tdvault) dat u opslaat waar u zelf kiest. (3) Cloudback-up, een Pro-optie die een end-to-end versleutelde kopie bewaart in uw eigen iCloud of Google Drive. Is Vault Export gratis? Dit is gratis voor alle gebruikers. Geen Pro-aankoop vereist. Wat is het verschil tussen lokale back-ups en Vault Export? Terwijl de app geopend is en u wijzigingen aanbrengt, maakt deze stilletjes elke paar minuten een momentopname van uw kluis. U hoeft niets te doen. De app bewaart enkele recente momentopnamen en verwijdert oudere om ruimte te besparen. Vault Export maakt een draagbaar versleuteld bestand dat u buiten het apparaat kunt opslaan. Wat is Cloudback-up en wie heeft het nodig? Cloud Backup is een Pro-functie. Schakel deze in om automatisch een kopie te bewaren in uw eigen iCloud (iOS) of Google Drive (Android). De app werkt deze bij terwijl hij geopend is en verbinding heeft. Wij ontvangen de back-up niet. De documentinhoud is versleuteld. Back-upmetadata, zoals apparaatnamen, aantallen en tijdstempels, zijn dat niet.
+
 ## Travel Document Vault downloaden
 
 Gratis download. Vault Export en lokale back-ups zijn voor iedereen inbegrepen. Pro voegt Cloudback-up, onbeperkte profielen, gecombineerde PDF-export en meer toe. Eenmalige aankoop, geen abonnement.

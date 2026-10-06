@@ -57,9 +57,9 @@ Uanset hvad grænsen måtte tolerere, møder du reglerne tidligere end det – v
 
 Ét underkendt pas strander sjældent kun én person; det sætter hele familien fast. Få forældre sender tre familiemedlemmer videre og efterlader én ved skranken, så i praksis bliver hele bookingen ombooket eller tabt.
 
-## Familiens fem-minutters-tjek
+## Tjek alle pas samme dag, du booker
 
-Løsningen er enkel og tager kun få minutter. Den dag du booker, samler du alle husstandens pas og noterer hver udløbsdato og udstedelsesdato. Stil derefter to spørgsmål for hvert pas: er det stadig gyldigt tre måneder efter din hjemrejse, og blev det udstedt for mindre end ti år siden? Alt, der dumper en af de to test, går i fornyelseskøen samme uge – på det tidspunkt kan du stadig forny, omlægge turen eller flytte datoerne uden straf.
+Løsningen er enkel og tager kun få minutter. Den dag du booker, samler du alle husstandens pas og noterer hver udløbsdato og udstedelsesdato. Stil derefter to spørgsmål for hvert pas: er det stadig gyldigt tre måneder efter din hjemrejse, og blev det udstedt for mindre end ti år siden? Alt, der dumper en af de to test, går i fornyelseskøen samme uge – på det tidspunkt kan du stadig forny, omlægge turen eller flytte datoerne uden straf, og vi ville altid vælge at forny frem for at vente og se, om datoerne rykker sig.
 
 Børn har brug for samme margen som voksne. Der er ingen børneundtagelse fra gyldighedsreglerne – et femårigt barns pas får samme Timatic-behandling som dit eget. En sidebemærkning til britiske og irske rejser: Irland er slet ikke med i Schengen. Rejser mellem Storbritannien og Irland foregår under det separate Common Travel Area, så generalisér ikke fra en Dublin-tur til en Paris-tur.
 

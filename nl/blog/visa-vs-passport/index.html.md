@@ -16,13 +16,13 @@ Source: https://traveldocumentvault.com/nl/blog/visa-vs-passport/
 - Visumvereisten **verschillen per nationaliteit en bestemming**, dus controleer de vereisten altijd voordat je vertrekt.
 - **De vervaldatum van je visum apart bijhouden van je paspoort** helpt reisonderbrekingen te voorkomen.
 
-Bij het plannen van een internationale reis hoor je voortdurend twee termen: paspoort en visum. Veel mensen die voor het eerst internationaal reizen, denken dat het om hetzelfde gaat, maar het zijn twee aparte documenten met elk een eigen functie. Dat verschil ken je het best voordat je je volgende reis boekt: verwarring tussen de twee kan je reisplannen vertragen of zelfs onmogelijk maken.
+Paspoort en visum klinken bijna inwisselbaar, maar ze doen een ander werk: het ene identificeert jou, het andere geeft je toegang, en de meeste internationale reizen vragen om allebei. Wie voor het eerst internationaal reist, gaat er vaak van uit dat het ene het andere dekt, en die aanname kan bij het inchecken of aan de grens echt voor problemen zorgen, op een moment dat er geen tijd meer is om het recht te zetten.
 
 ## Wat is een paspoort
 
-Je paspoort bevat je naam, geboortedatum, foto en een uniek paspoortnummer – uitgegeven door je overheid en wereldwijd erkend als bewijs van je nationaliteit. Het is een van de belangrijkste documenten die je ooit zult bezitten.
+Je paspoort bevat je naam, geboortedatum, foto en een uniek paspoortnummer – uitgegeven door je overheid en wereldwijd erkend als bewijs van je nationaliteit.
 
-Zie je paspoort als je officiële identiteitsbewijs voor internationale reizen. Zonder paspoort kun je je eigen land niet legaal verlaten en de meeste andere landen niet binnenkomen. Grensbeambten controleren het aan de grens, luchtvaartmaatschappijen vragen het voor internationale vluchten, en douanebeambten controleren het bij aankomst.
+Het werkt als je officiële identiteitsbewijs voor internationale reizen. Zonder paspoort kun je je eigen land niet legaal verlaten en de meeste andere landen niet binnenkomen. Grensbeambten controleren het aan de grens, luchtvaartmaatschappijen vragen het voor internationale vluchten, en douanebeambten controleren het bij aankomst.
 
 Paspoorten zijn doorgaans meerdere jaren geldig (vaak 10 jaar voor volwassenen, 5 jaar voor kinderen), al verschilt de geldigheidsduur per land. Zodra je paspoort is verlopen, kun je niet internationaal reizen en moet je een vernieuwing aanvragen. Die datum in de gaten houden is belangrijker dan de meeste mensen denken: veel landen eisen bij binnenkomst nog minstens 6 maanden geldigheid, dus een paspoort dat nog niet is verlopen, kan je alsnog aan de grens worden geweigerd. De ambassade van je bestemming bevestigt de exacte regel die daar geldt.
 
@@ -50,7 +50,7 @@ Het tweede is visumvrij reizen. Wanneer een bestemming jouw nationaliteit zonder
 
 Het paspoort is dus van jou en reist overal met je mee. De toestemming wordt door elke bestemming apart verleend, en kan worden geweigerd zelfs als je paspoort volledig in orde is.
 
-## Soorten visa
+## Visa verschillen naar doel en duur
 
 De meeste landen geven visa uit in deze categorieën:
 
@@ -73,7 +73,7 @@ Visumvereisten binnen elke categorie lopen sterk uiteen. Een toeristenvisum voor
 | **Verwerkingstijd** | Weken tot maanden, afhankelijk van het land | Dagen tot maanden, afhankelijk van bestemming en type |
 | **Kosten** | Vaste overheidsvergoeding | Verschilt sterk per land en visumtype |
 
-## Veelvoorkomende verwarring: visumstempels versus e-visa's
+## Visumstempels en e-visa's doen hetzelfde werk
 
 Een bron van verwarring is het verschil tussen een traditioneel visumstempel en een modern e-visum. Vroeger stempelden of schreven functionarissen goedkeuring rechtstreeks in je paspoort – je zag officiële markeringen, data en goedkeuringsnotities op de pagina's. E-visa's werken anders: je vraagt ze online aan, betaalt een vergoeding en ontvangt goedkeuring per e-mail in plaats van een fysiek stempel.
 
@@ -93,27 +93,27 @@ Drie bronnen vertellen je wat je daadwerkelijk nodig hebt, en het loont om alle 
 
 We hebben bewust geen van deze bronnen gelinkt. Inreisregels veranderen vaak genoeg dat een link die je vandaag bewaart, tegen de tijd dat je hem leest naar verouderde informatie kan verwijzen, dus ga rechtstreeks naar de instantie en lees wat er nu staat.
 
-Dat brengt ons bij de eerlijke kanttekening bij dit artikel. Het legt uit hoe paspoorten en visa in algemene termen verschillen, en algemene termen zijn alles wat een blog kan bieden – deze inbegrepen. Niets hier vervangt wat de uitgevende instantie je vertelt over jouw nationaliteit, jouw bestemming en jouw reisdata. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Zie dit als achtergrondinformatie waarmee je betere vragen kunt stellen, en bevestig de antwoorden vervolgens bij de ambassade of de reisadviesdienst van je overheid.
+Een eerlijke kanttekening bij dit artikel: het legt uit hoe paspoorten en visa in algemene termen verschillen, en algemene termen zijn alles wat een blog kan bieden – deze inbegrepen. Niets hier vervangt wat de uitgevende instantie je vertelt over jouw nationaliteit, jouw bestemming en jouw reisdata. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Zie dit als achtergrondinformatie waarmee je betere vragen kunt stellen, en bevestig de antwoorden vervolgens bij de ambassade of de reisadviesdienst van je overheid.
 
-Begin 2-3 maanden voor vertrek als een visum waarschijnlijk nodig is, zodat er ruimte is voor de aanvraag. Is iets onduidelijk, of heb je een dubbele nationaliteit, neem dan rechtstreeks contact op met de ambassade van het bestemmingsland in plaats van te gokken welk paspoort je moet gebruiken.
+Wij zouden de aanvraag 2-3 maanden voor vertrek starten als een visum waarschijnlijk nodig is, zodat er ruimte is als het traag verloopt. Is iets onduidelijk, of heb je een dubbele nationaliteit, neem dan rechtstreeks contact op met de ambassade van het bestemmingsland in plaats van te gokken welk paspoort je moet gebruiken.
 
 ## De valkuil van een verlopen paspoort: visumgeldigheid versus paspoortgeldigheid
 
 Een veelvoorkomend misverstand is dat een visum verloopt zodra je paspoort verloopt, maar zo werkt het niet. De geldigheid van een visum staat volledig los van de geldigheid van je paspoort. Verloopt je paspoort voordat je visum dat doet, dan blijft je visum geldig.
 
-Dit is het scenario: je paspoort verloopt, dus je vraagt een nieuw paspoort aan, maar je hebt nog een geldig toeristenvisum voor een bestemming – misschien nog zes maanden geldig – gestempeld in je verlopen paspoort. Je kunt nog steeds met dit visum reizen. Neem gewoon zowel je oude (verlopen) paspoort met het visum als je nieuwe paspoort mee; grensbeambten controleren bij binnenkomst beide documenten.
+Stel dat je paspoort verloopt en je een nieuw paspoort aanvraagt, maar je nog een geldig toeristenvisum voor een bestemming hebt – misschien nog zes maanden geldig – gestempeld in je verlopen paspoort. Je kunt nog steeds met dit visum reizen. Neem gewoon zowel je oude (verlopen) paspoort met het visum als je nieuwe paspoort mee; grensbeambten controleren bij binnenkomst beide documenten.
 
 Sommige landen eisen dat het visum wordt overgezet naar je nieuwe paspoort. Dit moet gebeuren bij de ambassade of het consulaat van het uitgevende land, voordat je vertrekt. De vereisten verschillen per bestemming, dus controleer dit bij de officiële ambassadewebsite van dat specifieke land of neem rechtstreeks contact op.
 
-De verwarring ontstaat omdat het visum in je oude paspoort staat, dat als reisdocument is verlopen, terwijl het visum zelf – de toestemming die het bestemmingsland heeft verleend – geldig blijft volgens zijn eigen vervaldatum. Verduidelijk de specifieke vereisten bij de immigratiedienst van het bestemmingsland voordat je vertrekt, want sommige landen eisen dat je het visum eerst overzet naar je nieuwe paspoort.
+De verwarring is dat je oude paspoort als reisdocument is verlopen, terwijl het visum erin een aparte toestemming van het bestemmingsland is, met een eigen vervaldatum.
 
-## Visumvrij reizen: een complex landschap
+## Visumvrij reizen kent nog steeds grenzen
 
 Veel landen hebben onderling visumvrijstellings- of visumvrije afspraken, waardoor hun burgers de grens kunnen oversteken zonder vooraf een visum aan te vragen. Het Schengengebied in Europa is het bekendste voorbeeld – paspoorthouders uit lidstaten kunnen vrij reizen door de 29 lidstaten zonder visumcontrole. Het lidmaatschap verandert weleens, dus de eigen Schengenpagina's van de Europese Commissie zijn de plek om te bevestigen wie er op dit moment bij hoort. Zuidoost-Azië, het Caribisch gebied en delen van Afrika kennen vergelijkbare regelingen.
 
 Visumvrij reizen kent echter grenzen. Het geldt doorgaans alleen voor toerisme of kort verblijf, niet voor werk of studie. Ook de visumvrije periode is beperkt, vaak 30 tot 90 dagen, afhankelijk van het land. Overschrijd je de toegestane termijn, dan word je een illegale verblijver en riskeer je sancties zoals boetes, uitzetting of een toekomstig inreisverbod.
 
-Visumvrije toegang hangt ook volledig af van je nationaliteit. Twee mensen die samen reizen, kunnen op basis van hun paspoort verschillende visumvereisten hebben. De een mag misschien visumvrij binnen, terwijl de ander een visum moet aanvragen. Daarom is het essentieel om je eigen nationaliteit te checken bij het onderzoeken van de vereisten.
+Visumvrije toegang hangt ook volledig af van je nationaliteit. Twee mensen die samen reizen, kunnen op basis van hun paspoort totaal verschillende vereisten hebben: de een reist visumvrij binnen terwijl de ander een visum moet aanvragen, dus het gaat om jouw eigen nationaliteit, niet om de ervaring van een reisgenoot.
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 

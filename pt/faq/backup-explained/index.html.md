@@ -74,6 +74,10 @@ Nenhuma camada única é razão para saltar as outras. As contas na nuvem podem 
 - [O Que É o Meu Código de Recuperação? — guia completo para o armazenar com segurança](https://traveldocumentvault.com/pt/faq/recovery-code/)
 - [Cópia de Segurança na Nuvem — como funciona a encriptação de ponta a ponta](https://traveldocumentvault.com/pt/cloud-backup/)
 
+## Respostas Rápidas
+
+Que opções de cópia de segurança oferece Travel Document Vault? Travel Document Vault oferece três camadas de proteção: (1) Cópias de segurança locais automáticas, criadas a cada poucos minutos no seu dispositivo sem custo. (2) Exportação do Cofre, um ficheiro de cópia de segurança manual encriptado e gratuito (.tdvault) que guarda onde desejar. (3) Cópia de Segurança na Nuvem, uma opção Pro que mantém uma cópia encriptada de ponta a ponta no seu próprio iCloud ou Google Drive. A Exportação do Cofre é gratuita? Isto é gratuito para todos os utilizadores. Sem compra Pro necessária. Qual é a diferença entre cópias de segurança locais e Exportação do Cofre? Enquanto a aplicação está aberta e faz alterações, faz silenciosamente uma fotografia do seu cofre a cada poucos minutos. Não precisa fazer nada. A aplicação mantém os instantâneos mais recentes e remove os mais antigos para poupar espaço. A Exportação do Cofre cria um ficheiro encriptado portátil que pode guardar fora do dispositivo. O que é a cópia de segurança na nuvem e quem a precisa? A Cópia de Segurança na Nuvem é uma funcionalidade Pro. Ative-a para manter uma cópia automática no seu próprio iCloud (iOS) ou Google Drive (Android). A aplicação atualiza-a enquanto está aberta e ligada à internet. Não a recebemos. O conteúdo dos documentos é encriptado. Os metadados da cópia de segurança, como nomes de dispositivos, contagens e datas e horas, não são.
+
 ## Obter Travel Document Vault
 
 Transferência gratuita. Exportação do Cofre e cópias de segurança locais estão incluídas para todos. Pro adiciona cópia de segurança na nuvem, perfis ilimitados, exportação PDF combinada e muito mais. Compra única, sem subscrição.

@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/de/blog/passport-photo-at-home/
 
 Ein zu Hause aufgenommenes Foto wird genauso zuverlässig akzeptiert wie eines aus dem Fotoautomaten, solange es dieselbe kurze Liste von Regeln erfüllt. Die meisten Ablehnungen laufen auf drei Dinge hinaus: Schatten im Gesicht oder im Hintergrund, ein falsch proportionierter Kopf im Bild, und die Brille. Stimmen diese drei, ist der Rest einfach.
 
-## Universelle Anforderungen länderübergreifend
+## Die meisten Länder teilen dieselben grundlegenden Fotoanforderungen
 
 Obwohl spezifische Regeln je nach Passbehörde unterschiedlich sind, teilen die meisten Länder grundlegende Anforderungen für Passfotos. Das Verständnis dieser Grundlagen bringt Sie auf sicheren Boden, unabhängig davon, welches Land Ihren Pass ausstellt.
 
@@ -95,7 +95,7 @@ Moderne Smartphones schießen mit 12 Megapixeln oder höher, was für Passfotos 
 - **Falscher Hintergrund:** Farbiger Hintergrund, Muster oder ungleichmäßiger weißer Hintergrund. Einfacher weißer oder cremefarbener Plakatwand oder Bettlaken funktioniert am besten – stellen Sie sicher, dass keine sichtbare Textur oder Schatten vorhanden sind.
 - **Übermäßiger Kopfplatz oder Beschnitt:** Gesicht zu klein oder falsch im Rahmen positioniert. Die Regeln Ihres Landes geben genau an, wie viel des Rahmens Ihr Gesicht ausfüllen sollte, normalerweise als Messung vom Kinn bis zur Scheitelkante, nicht als Prozentsatz – arbeiten Sie nach dieser Zahl, nicht nach dem, was richtig aussieht.
 
-## Vom Smartphone zum offiziellen Foto: Der Prozess
+## Smartphone-Foto zuschneiden, dann drucken oder hochladen
 
 Ihr Smartphone-Foto hat die richtige Größe selten sofort. Nach der Aufnahme müssen Sie es auf die genauen Spezifikationen Ihres Landes zuschneiden, dann entscheiden, ob Sie es drucken oder digital hochladen möchten.
 
@@ -119,7 +119,7 @@ Bevor Sie Ihr Foto machen, stellen Sie sicher, dass Sie Folgendes zur Hand haben
 - Eine Zuschneidungs-App heruntergeladen und bereit
 - Plan zum Drucken oder digitalen Einreichen basierend auf den Anforderungen Ihres Landes
 
-Ein paar Minuten richtig zu richten spart Sie vor einem späteren erneuten Einreichen – was bedeutet, dass Ihr Antrag nicht verzögert wird.
+Wenn Sie gutes Fensterlicht haben und ein paar Minuten Zeit, machen Sie das Foto heute selbst: Es ist kostenlos und sofort fertig. Wenn Sie sich bei Ihrem Aufbau nicht sicher sind oder unter Zeitdruck stehen, senkt eine Drogerie oder Postfiliale dieses Risiko gegen eine geringe Gebühr auf fast null. Prüfen Sie nur zuerst die aktuellen Vorgaben Ihres eigenen Landes, nicht eine Zahl, die Sie irgendwo anders gesehen haben.
 
 **Bevor Sie sich darauf verlassen:** Das ist ein Blog, keine offizielle Quelle. Regeln und Details ändern sich, und Ihre Situation kann anders sein. Wir prüfen, was wir veröffentlichen, und können trotzdem falsch liegen oder veraltet sein. Wenn etwas davon für Ihre Pläne wichtig ist, lassen Sie es von der zuständigen Stelle bestätigen, bevor Sie handeln.
 

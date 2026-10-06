@@ -13,16 +13,16 @@ Source: https://traveldocumentvault.com/pt/blog/visa-expiry-tracker-app/
 - O rastreamento de visto é **mais complexo** do que o rastreamento de passaporte — um visto tem uma data de validade de entrada, uma duração máxima de permanência, e por vezes limites de contagem de entrada, todos os quais precisam de monitorização separada.
 - Ultrapassar a duração de um visto tem consequências sérias: multas, proibições de reentrada de anos ou mais, e nalguns países acusações criminais.
 - As melhores aplicações de rastreamento de visto funcionam sem ligação à internet, suportam múltiplos tipos de visto, e permitem lembretes personalizados por documento.
-- Os visitantes da Área de Schengen devem rastrear uma janela móvel de 90/180 dias, não apenas uma única data de validade — a maioria das aplicações de viagem genéricas não lidam com isto corretamente.
+- Os visitantes da Área de Schengen devem rastrear uma janela móvel de 90/180 dias, não apenas uma única data de validade, porque a contagem acompanha o seu histórico real de viagens, não o calendário.
 - O rastreamento de vistos e passaportes juntos num só local reduz o risco de uma discrepância: entrar com um visto válido mas com um passaporte que expira antes do final da sua permanência planeada.
 
 Uma ultrapassagem de visto é um dos erros de viagem mais consequentes que uma pessoa pode cometer. Ao contrário de um voo perdido — stressante mas fundamentalmente reparável — uma ultrapassagem cria um registo formal de imigração que pode segui-lo durante anos. Nos Estados Unidos, uma ultrapassagem de apenas 180 dias desencadeia uma barra automática de 3 anos de reentrada sob a secção INA 212(a)(9)(B)(i), e uma ultrapassagem de um ano desencadeia uma barra de 10 anos. Estas consequências não são amplamente conhecidas, mas estão documentadas pelo US Citizenship and Immigration Services.
 
-Uma aplicação de rastreamento de visto previne isto. Monitoriza múltiplas datas em simultâneo — validade de entrada, permanência máxima, e contagem de entrada — de uma forma que as aplicações de passaporte genéricas não conseguem.
+Uma aplicação de rastreamento de visto previne isto: tem de monitorizar múltiplas datas em simultâneo, validade de entrada, permanência máxima e contagem de entradas, cada uma com o seu próprio prazo.
 
 ## Por Que o Rastreamento de Visto É Mais Complexo do Que o Rastreamento de Passaporte
 
-Ao contrário de um passaporte com uma data significativa (a sua validade), um visto tem vários campos distintos relacionados com o tempo que cada um precisa de monitorização:
+Um passaporte tem uma data que importa: a sua validade. Um visto tem tipicamente várias, e falhar uma delas é como acontece um excesso de permanência acidental:
 
 O que isto significa na prática
 
@@ -41,9 +41,7 @@ Um rastreador que apenas monitoriza a data de validade de entrada perde a causa 
 
 Para viajantes que visitam múltiplos países europeus, a regra de 90/180 dias da Área de Schengen é a condição de entrada mais amplamente mal compreendida em viagens internacionais. Os cidadãos de países com acesso isento de visto a Schengen (incluindo o Reino Unido, EUA, Canadá e Austrália, entre muitos outros) podem passar um máximo de 90 dias na Área de Schengen dentro de qualquer janela móvel de 180 dias.
 
-A Comissão Europeia fornece uma calculadora oficial de permanência em Schengen para ajudar os viajantes a calcular os seus dias permitidos. O ponto crítico é que isto é uma *janela móvel*, não um reset de ano de calendário. Os dias passados em Schengen há seis meses ainda contam contra a sua autorização atual.
-
-A maioria das aplicações de passaporte ou documentos genéricos não lidam com isto corretamente. Uma aplicação que simplesmente exibe uma data de validade de visto não consegue gerir conformidade Schengen — necessita de calcular dias através de uma janela móvel com base em datas reais de entrada e saída.
+A Comissão Europeia fornece uma calculadora oficial de permanência em Schengen para ajudar os viajantes a calcular os seus dias permitidos. O ponto crítico é que isto é uma *janela móvel*, não um reset de ano de calendário. Os dias passados em Schengen há seis meses ainda contam contra a sua autorização atual, pelo que verificar uma única data de validade não detetará um excesso de permanência. O que importa é o seu histórico real de entradas e saídas, não a data impressa no visto.
 
 ## O Que Acontece Quando Ultrapassa a Duração
 
@@ -78,7 +76,7 @@ Dada a complexidade acima, uma boa aplicação de rastreamento de visto precisa 
 4. **Para viagem Schengen, mantenha um registo de datas de entrada e saída.** Utilize a calculadora oficial da Comissão Europeia para verificar os seus dias restantes antes de qualquer viagem que se siga a viagem recente em Schengen.
 5. **Defina um lembrete pelo menos 2 semanas antes do seu prazo de permanência máxima.** Isto dá-lhe tempo para arranjar uma partida sem pressa, especialmente se as opções de transporte no seu destino são limitadas.
 
-Regras relacionadas que interagem com rastreamento de visto: veja o nosso guia para a [regra do passaporte de 6 meses](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/), que pode impedi-lo de entrar mesmo com um visto válido se o seu passaporte expirar demasiado cedo após a sua partida planeada.
+Verifique hoje a validade do seu passaporte face às datas do seu visto: mesmo um visto válido não o fará passar se o seu passaporte expirar demasiado cedo após a sua partida planeada, que é exatamente a incompatibilidade que o nosso guia para a [regra do passaporte de 6 meses](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/) explica.
 
 **Antes de confiar nisto:** isto é um blogue, não uma fonte oficial. As regras e os detalhes mudam, e a sua situação pode ser diferente. Verificamos o que publicamos e ainda assim podemos estar errados ou desatualizados. Se algo aqui for importante para os seus planos, confirme-o junto da autoridade competente antes de agir.
 
@@ -102,7 +100,7 @@ As melhores conseguem. O acesso sem ligação à internet importa nas fronteiras
 
 ### Quanto tempo antes devo receber um lembrete antes do meu visto expirar?
 
-Depende do tipo de visto. Para vistos de permanência longa que requerem renovação, 90 dias é um mínimo razoável. Para vistos de turismo com durações máximas de permanência fixas, um lembrete com antecedência suficiente à sua data de saída permitida mais recente dá tempo para arranjar partida sem pressa. Procure aplicações que permitam definir tempos personalizados por documento.
+Depende do tipo de visto. Para vistos de permanência longa que requerem renovação, definiríamos o lembrete aos 90 dias, não mais perto. Para vistos de turismo com durações máximas de permanência fixas, um lembrete com antecedência suficiente à sua data de saída permitida mais recente dá tempo para arranjar partida sem pressa. Procure aplicações que permitam definir tempos personalizados por documento.
 
 ## Artigos Relacionados
 

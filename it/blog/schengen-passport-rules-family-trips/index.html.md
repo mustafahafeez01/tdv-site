@@ -57,9 +57,9 @@ Qualunque cosa la frontiera potrebbe tollerare, la incontrerete prima di allora 
 
 Un passaporto fallito raramente blocca una persona; blocca la famiglia. Pochi genitori invieranno tre membri in avanti e lasceranno uno alla scrivania, quindi nella pratica l'intera prenotazione viene riprogrammata o persa.
 
-## L'audit familiare di cinque minuti
+## Controllate ogni passaporto il giorno in cui prenotate
 
-La soluzione è semplice e richiede solo minuti. Il giorno della prenotazione, raccogliete ogni passaporto in casa e annotate ogni data di scadenza e data di rilascio. Quindi ponetevi due domande per ognuno: sarà ancora valido tre mesi dopo il vostro ritorno, ed è stato rilasciato meno di dieci anni fa? Qualunque cosa che fallisce uno dei due test va nella coda di rinnovo quella settimana — a quel punto, potete ancora rinnovare, riorinare il viaggio, o spostare le vostre date senza penalità.
+La soluzione è semplice e richiede solo minuti. Il giorno della prenotazione, raccogliete ogni passaporto in casa e annotate ogni data di scadenza e data di rilascio. Quindi ponetevi due domande per ognuno: sarà ancora valido tre mesi dopo il vostro ritorno, ed è stato rilasciato meno di dieci anni fa? Qualunque cosa che fallisce uno dei due test va nella coda di rinnovo quella settimana — a quel punto, potete ancora rinnovare, riorinare il viaggio, o spostare le vostre date senza penalità, e noi sceglieremmo sempre di rinnovare piuttosto che aspettare per vedere se le date si spostano.
 
 I bambini hanno bisogno dello stesso buffer degli adulti. Non c'è eccezione per i bambini alle regole di validità — il passaporto di un bambino di cinque anni riceve lo stesso trattamento Timatic del vostro. Un aparte per i viaggi britannici e irlandesi: l'Irlanda non è in Schengen affatto. I viaggi UK-Irlanda vengono eseguiti secondo l'Area di viaggio comune separata, quindi non generalizzate da un viaggio a Dublino a uno a Parigi.
 

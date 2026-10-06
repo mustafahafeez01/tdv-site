@@ -57,9 +57,9 @@ Oavsett vad gränsen skulle tolerera möter du reglerna tidigare än så – vid
 
 Ett underkänt pass stannar sällan bara en person; det stoppar hela familjen. Få föräldrar skickar iväg tre familjemedlemmar och lämnar en kvar vid disken, så i praktiken blir hela bokningen ombokad eller förlorad.
 
-## Femminutersgranskningen för hela familjen
+## Granska varje pass samma dag som du bokar
 
-Lösningen är enkel och tar bara några minuter. Samma dag du bokar samlar du in alla pass i hushållet och antecknar varje utgångsdatum och utfärdandedatum. Ställ sedan två frågor för varje pass: kommer det fortfarande vara giltigt tre månader efter din hemresa, och utfärdades det för mindre än tio år sedan? Allt som misslyckas med endera testet går in i förnyelsekön samma vecka – då kan du fortfarande förnya, planera om resan eller flytta datumen utan påföljd.
+Lösningen är enkel och tar bara några minuter. Samma dag du bokar samlar du in alla pass i hushållet och antecknar varje utgångsdatum och utfärdandedatum. Ställ sedan två frågor för varje pass: kommer det fortfarande vara giltigt tre månader efter din hemresa, och utfärdades det för mindre än tio år sedan? Allt som misslyckas med endera testet går in i förnyelsekön samma vecka – då kan du fortfarande förnya, planera om resan eller flytta datumen utan påföljd, och vi skulle alltid välja att förnya i stället för att vänta och se om datumen flyttar sig.
 
 Barn behöver samma marginal som vuxna. Det finns inget barnundantag från giltighetsreglerna – ett femårigt barns pass får samma Timatic-behandling som ditt eget. En sidonotering för brittiska och irländska resor: Irland ingår inte i Schengen alls. Resor mellan Storbritannien och Irland går under det separata Common Travel Area-avtalet, så dra inga generella slutsatser från en resa till Dublin baserat på en resa till Paris.
 

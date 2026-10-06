@@ -13,16 +13,16 @@ Source: https://traveldocumentvault.com/fr/blog/visa-expiry-tracker-app/
 - Le suivi de l'expiration des visas est **plus complexe** que le suivi des passeports — un visa a une date de validité d'entrée, une durée maximale de séjour, et parfois des limites de nombre d'entrées, tous nécessitant un suivi séparé.
 - Le dépassement d'un visa entraîne des conséquences graves: amendes, interdictions de réentrée de plusieurs années, et dans certains pays, des accusations criminelles.
 - Les meilleures applications de suivi des visas fonctionnent hors ligne, prennent en charge plusieurs types de visas, et permettent des rappels personnalisés par document.
-- Les visiteurs de l'espace Schengen doivent suivre une fenêtre glissante de 90/180 jours, pas seulement une seule date d'expiration — la plupart des applications de voyage génériques ne le gèrent pas correctement.
+- Les visiteurs de l'espace Schengen doivent suivre une fenêtre glissante de 90/180 jours, pas seulement une seule date d'expiration, car le compte avance avec votre historique de voyage réel, pas avec le calendrier.
 - Suivre les visas et les passeports ensemble au même endroit réduit le risque d'une incohérence: entrer avec un visa valide mais avec un passeport qui expire avant la fin de votre séjour prévu.
 
 Un dépassement de visa est l'une des erreurs de voyage les plus graves qu'une personne puisse commettre. Contrairement à un vol manqué — stressant mais finalement réparable — un dépassement crée un dossier formel d'immigration qui peut vous suivre pendant des années. Aux États-Unis, un dépassement de seulement 180 jours déclenche une interdiction automatique de 3 ans de réentrée en vertu de la section INA 212(a)(9)(B)(i), et un dépassement d'un an déclenche une interdiction de 10 ans. Ces conséquences ne sont pas largement connues, mais elles sont documentées par le Service de la citoyenneté et de l'immigration des États-Unis.
 
-Une application de suivi des visas empêche cela. Elle surveille plusieurs dates à la fois — validité d'entrée, séjour maximal et nombre d'entrées — d'une manière que les applications de passeport génériques ne peuvent pas.
+Une application de suivi des visas empêche cela : elle doit surveiller plusieurs dates à la fois, validité d'entrée, séjour maximal et nombre d'entrées, chacune étant une échéance distincte.
 
 ## Pourquoi le suivi des visas est plus complexe que le suivi des passeports
 
-Contrairement à un passeport avec une seule date significative (son expiration), un visa a plusieurs champs distincts liés au temps qui nécessitent chacun une surveillance:
+Un passeport n'a qu'une seule date qui compte : son expiration. Un visa en a généralement plusieurs, et en rater une est exactement ainsi qu'arrive un dépassement involontaire :
 
 Ce que cela signifie en pratique
 
@@ -41,9 +41,7 @@ Un suivi qui ne surveille que la date de validité d'entrée manque la cause la 
 
 Pour les voyageurs qui visitent plusieurs pays européens, la règle Schengen 90/180 jours est la condition d'entrée la plus largement incomprise dans les voyages internationaux. Les citoyens de pays ayant un accès sans visa à Schengen (y compris le Royaume-Uni, les États-Unis, le Canada et l'Australie, entre autres) peuvent passer un maximum de 90 jours dans l'espace Schengen au cours de toute fenêtre glissante de 180 jours.
 
-La Commission européenne fournit un calculateur officiel de séjour Schengen pour aider les voyageurs à déterminer leurs jours autorisés. Le point essentiel est que c'est une *fenêtre glissante*, pas une réinitialisation d'année civile. Les jours passés à Schengen il y a six mois comptent toujours contre votre allocation actuelle.
-
-La plupart des applications de passeport ou de document génériques ne gèrent pas cela correctement. Une application qui affiche simplement une date d'expiration du visa ne peut pas gérer la conformité Schengen — elle nécessite de calculer les jours sur une fenêtre glissante basée sur les dates d'entrée et de sortie réelles.
+La Commission européenne fournit un calculateur officiel de séjour Schengen pour aider les voyageurs à déterminer leurs jours autorisés. Le point essentiel est que c'est une *fenêtre glissante*, pas une réinitialisation d'année civile. Les jours passés à Schengen il y a six mois comptent toujours contre votre allocation actuelle, donc vérifier une seule date d'expiration ne vous évitera pas un dépassement. Ce qui compte, c'est votre historique réel d'entrées et de sorties, pas la date imprimée sur le visa.
 
 ## Ce qui se passe quand vous dépassez
 
@@ -78,7 +76,7 @@ Compte tenu de la complexité ci-dessus, une bonne application de suivi des visa
 4. **Pour les voyages Schengen, tenez un registre des dates d'entrée et de sortie.** Utilisez le calculateur officiel de la Commission européenne pour vérifier vos jours restants avant de voyager après d'autres voyages à Schengen.
 5. **Définissez un rappel au moins 2 semaines avant votre date limite de séjour maximal.** Cela vous donne le temps d'organiser votre départ sans vous précipiter, surtout si les options de transport dans votre destination sont limitées.
 
-Règles connexes qui interagissent avec le suivi des visas: consultez notre guide sur la [règle des 6 mois du passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/), qui peut vous empêcher d'entrer même avec un visa valide si votre passeport expire trop tôt après votre départ prévu.
+Comparez dès aujourd'hui la date d'expiration de votre passeport à celles de votre visa : même un visa valide ne vous fera pas passer si votre passeport expire trop tôt après votre départ prévu, exactement le décalage que décrit notre guide sur la [règle des 6 mois du passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/).
 
 **Avant de vous y fier :** c'est un blog, pas une source officielle. Les règles et les détails changent, et votre situation peut être différente. Nous vérifions ce que nous publions, et nous pouvons quand même nous tromper ou être dépassés. Si un point compte pour vos projets, confirmez-le auprès de l'autorité compétente avant d'agir.
 
@@ -102,7 +100,7 @@ Les meilleures le font. L'accès hors ligne est important aux frontières et dan
 
 ### Combien de temps avant l'expiration de mon visa dois-je recevoir un rappel?
 
-Cela dépend du type de visa. Pour les visas de long terme nécessitant un renouvellement, 90 jours est un minimum raisonnable. Pour les visas touristiques avec des durées de séjour maximal fixes, un rappel avec suffisamment d'avance sur votre dernière date de sortie autorisée donne le temps d'organiser le départ sans se précipiter. Recherchez les applications qui vous permettent de définir des délais personnalisés par document.
+Cela dépend du type de visa. Pour les visas de long terme nécessitant un renouvellement, nous placerions le rappel à 90 jours, pas plus près. Pour les visas touristiques avec des durées de séjour maximal fixes, un rappel avec suffisamment d'avance sur votre dernière date de sortie autorisée donne le temps d'organiser le départ sans se précipiter. Recherchez les applications qui vous permettent de définir des délais personnalisés par document.
 
 ## Articles connexes
 

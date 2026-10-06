@@ -18,7 +18,7 @@ Source: https://traveldocumentvault.com/blog/travel-while-passport-renewal-pendi
 
 Travelling while a renewal is in progress turns on one fact: whether the old passport is still in hand or has already gone to the authorities. That single difference decides whether the trip can go ahead. It also varies by country, and in the UK's case by which renewal method was used.
 
-## The Core Rule
+## A Renewal in Progress Won't Get You Through Border Control
 
 You cannot travel internationally without a valid passport physically in your possession. A renewal application in progress doesn't count, and an acknowledgement letter from your passport office doesn't either. The only document that gets you through check-in and border control is a valid passport that you can hand over when asked.
 
@@ -46,15 +46,13 @@ The UK has two renewal paths, and they have completely different implications fo
 
 ## Australia: Surrender and Wait
 
-Australian passport renewal requires you to surrender your current passport at the point of application. From that moment, you have no valid travel document until the new passport is issued and delivered.
-
-You can't travel internationally during this period. Domestic air travel within Australia may also be affected if you have no other valid photo ID, as airlines require identity verification at check-in.
+Australian passport renewal requires you to surrender your current passport at the point of application. From that moment, you have no valid travel document until the new passport is issued and delivered. You can't travel internationally during this period, and domestic air travel within Australia may also be affected if you have no other valid photo ID, as airlines require identity verification at check-in.
 
 The Australian Passport Office publishes its current processing times and recommends applying well ahead of any travel date. If you have genuine and imminent travel, faster processing options are available for additional fees, including fast-track and priority services. Emergency options exist for truly imminent travel. Check current times and apply at passports.gov.au.
 
 ## Canada: Surrendered on Application
 
-Canada requires you to surrender your existing passport when you apply for renewal. Your old passport is held until your new one is ready, so you can't travel internationally during this period - though domestic travel within Canada doesn't require a passport.
+Canada works much the same way: you surrender your existing passport when you apply for renewal, and it's held until your new one is ready, so you can't travel internationally during that period, though domestic travel within Canada doesn't need a passport.
 
 Service Canada publishes its current processing standards, which differ depending on whether you apply in person, by mail, or at a Service Canada Centre, plus mailing time either way. For urgent travel, express service and urgent pickup options exist for additional fees. Check current processing times and apply at canada.ca.
 
@@ -88,9 +86,9 @@ Don't wait to contact your country's passport service by phone - ask specificall
 
 At the same time, contact your airline about rescheduling. Some carriers will waive change fees when a genuine document issue is the reason. Get any agreement in writing. If you have travel insurance, check your policy for coverage of costs arising from passport delays or document problems.
 
-## How to Avoid This Situation
+## Renewing Early Removes the Timing Pressure Entirely
 
-The straightforward answer is to renew your passport well before you need it for travel. Applying 6 to 9 months before any planned international travel removes the timing pressure entirely and leaves room for standard processing without expedited fees.
+The straightforward answer is to renew your passport well before you need it for travel. Applying 6 to 9 months before any planned international travel removes the timing pressure entirely and leaves room for standard processing without expedited fees. We'd apply nearer nine months out than six, so standard processing has room to run long without touching a booked trip. If you don't already know your own expiry date, check it today, before you book anything.
 
 The reason people end up in this situation is not ignorance of the rules. Passports expire quietly with no automatic reminder, so people tend to remember only that their passport is valid, not when it expires. Setting a reminder 12 months before your expiry date gives you time to renew at your own pace, on standard processing, without pressure.
 

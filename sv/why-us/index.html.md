@@ -69,64 +69,102 @@ Allt på ett ställe på fingertopparna, redo när du behöver det.
 
 Om det är du: Organiserad person som bara behöver en betrodd app.
 
-## Det du förmodligen använder nu
+## Var dina dokument förmodligen finns i dag
 
-Det här är alla rimliga val. De fungerar alla upp till en viss gräns.
-
-### Allmänna valv
-
-**Fungerar:** Hög säkerhet och offline-åtkomst.
-
-**Begränsningar:** De behandlar ett pass som ett kvitto och saknar resespecifik logik. Travel Document Vault ger en profil och upp till 5 dokument gratis. Pro är ett engångsköp utan prenumeration.
+De flesta av oss har redan kopior någonstans. Så får du ut mer av varje alternativ.
 
 ### Fotobibliotek / Foton
 
-**Fungerar:** Alltid med dig.
-
-**Begränsningar:** Begravt i tusentals foton utan utgångsspårning, ingen organisation och ingen säkerhet bortom telefonens lås.
+Alltid med dig. Lägg passfoton i ett eget album, så slipper du bläddra förbi semesterbilder i incheckningsdisken.
 
 ### Molnlagring
 
-**Fungerar:** Har offline-läge och synkroniseras mellan enheter.
-
-**Begränsningar:** Du lagrar ditt pass, kontrollerar utgångsdatumet, byter till en kalenderapp för att ställa in en påminnelse, och sedan kommer du ihåg vilken mapp som hade din partners dokument. Det är tre appar som gör jobbet för en, och ingen av dem vet att det är ett pass som slutar gälla.
+Praktiskt mellan olika enheter. Ge resehandlingarna en tydligt namngiven mapp per person och slå på det starkaste inloggningsskydd som din leverantör erbjuder.
 
 ### Lösenordshanterare
 
-**Fungerar:** Utmärkt för lösenord.
-
-**Begränsningar:** Inte utformad för dokumentbilder, utgångsspårning eller familjeorganisation. Ett passfoto i ett lösenordsfält är en omväg, inte en lösning.
+Ett förnuftigt ställe för passnumret om du redan använder en. Se till att fotosidan är lika lätt att nå på flygplatsen.
 
 ### Anteckningsappar
 
-**Fungerar:** Flexibel och bekant.
-
-**Begränsningar:** Ingen utgångsspårning, ingen guidning för skanning, och ditt passfoto sitter bredvid din matvarolista utan kryptering.
+Flexibelt och välbekant. Om ett passnummer finns i en anteckning, lås den anteckningen där din app tillåter det.
 
 ### Kalkylark
 
-**Fungerar:** Utmärkt för reseplaneringoch att skriva in detaljer.
+Bra för att samla hela familjens utgångsdatum i en tabell. Lägg till en kolumn ”förnya senast” så ser du nästa deadline direkt.
 
-**Begränsningar:** Inga säkra bildbilagor, fruktansvärd formatering på mobila skärmar på flygplatsen och inga automatiserade utgångspåminnelser innan din resa.
+### Papperskopior
 
-## Hur det mäter sig
+Fortfarande värt att ha. En utskriven kopia av varje fotosida, packad separat från passen, hjälper om ett försvinner utomlands.
 
-Travel Document Vault lagrar dokument, håller koll på utgångsdatum och ger med Pro familjeprofiler och reseplanering.
+## Ditt valv i korthet
 
-| Funktion | Travel Document Vault | Wallet-app | Fotobibliotek / molnlagring | Lösenordshanterare |
-|---|---|---|---|---|
-| Utgångspåminnelser | ✓8 mån i förväg för pass | ✗ | ✗ | ✗ |
-| Familjeprofiler | ✓Obegränsat (Pro) | ✗ | ✗ | ~Delade valv endast |
-| På enheten som standard | ✓Valfri säkerhetskopia (Pro) | ✗Molnsynk | ✗Moln-baserat | ✗Moln-baserat |
-| Resespecifika dokumenttyper | ✓Pass, visum, ID... | ~Boardingkort endast | ✗ | ✗ |
-| Fungerar offline | ✓ | ✓ | ~Kräver cachning | ✓ |
-| Inget konto krävs | ✓ | ~Plattformskonto krävs | ✗ | ✗ |
-| Ingen prenumeration | ✓engångspris | ✓ | ~Gratis, annonsfinansierade nivåer varierar | ✗vanligtvis 30-40 $/år |
-| Reseplaneringschecklista (per resa) | ✓Ja (Pro) | ✗ | ✗ | ✗ |
-| Anpassade dagsgränser per land (dagar-i / dagar-borta) | ✓ Pro | ✗ | ✗ | ✗ |
-| Krypterad molnsynk (ditt eget moln) | ✓Ditt eget moln (Pro) | ~Endast plattformskonto | ~Endast molnleverantör | ~Leverantörens servrar |
+Travel Document Vault lagrar dina dokument och bevakar utgångsdatum. Pro lägger till obegränsat antal familjeprofiler och reseplanering.
 
-✓ Stöds ~ Delvis ✗ Stöds ej
+### Utgångspåminnelser
+
+8 månader
+
+Som standard börjar påminnelser för pass så här långt i förväg och följs upp ju närmare datumet kommer. Övriga dokument tidsätts efter sin typ.
+
+1. 8 mån
+2. 6 mån
+3. 3 mån
+4. 6 v
+5. 1 mån
+6. 2 v
+7. 1 v
+8. Utgång
+
+### Kryptering
+
+AES-256
+
+Dokumentfilerna krypteras på din telefon, och det gör databasen med dina uppgifter också.
+
+### Appkonto
+
+Inget
+
+Ingen registrering och ingen inloggning i appen. Den valfria molnbackupen använder ditt eget iCloud- eller Google-konto.
+
+### Offline
+
+Ingen täckning
+
+Sparade dokument och påminnelser fungerar utan uppkoppling, även i passkön.
+
+### Pro
+
+Betala en gång
+
+Ett engångsköp, ingen prenumeration.
+
+### Med Pro
+
+#### Obegränsat antal familjeprofiler
+
+En profil för varje familjemedlem, var och en med sina egna dokument.
+
+#### Ingen dokumentgräns
+
+Lägg till så många pass, visum och ID-kort som familjen behöver.
+
+#### Checklista för reseberedskap
+
+Planera en resa och se vilka dokument som är klara och vad som återstår.
+
+#### Dagsgränser per land
+
+Sätt en dagsgräns själv, så räknar dina resor dagarna i eller borta från landet mot den.
+
+#### Egen tidpunkt för påminnelser
+
+Välj hur tidigt påminnelserna börjar för varje dokument.
+
+#### Krypterad molnbackup
+
+En krypterad kopia i din egen iCloud (iOS) eller Google Drive (Android), som återställs med din återställningskod.
 
 ## En app. Allt organiserat.
 

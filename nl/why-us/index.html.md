@@ -69,64 +69,102 @@ Alles op één plek, altijd bij de hand, klaar wanneer u het nodig heeft.
 
 Als dit op u van toepassing is: georganiseerde persoon die gewoon één betrouwbare app nodig heeft.
 
-## Wat u waarschijnlijk nu gebruikt
+## Waar uw documenten nu waarschijnlijk worden bewaard
 
-Dit zijn allemaal redelijke keuzes. Elk werkt, tot op zekere hoogte.
-
-### Algemene kluizen
-
-**Werkt:** Hoge beveiliging en offline toegang.
-
-**Tekortkoming:** Ze behandelen een paspoort als een boodschappenlijstje en missen reisspecifieke logica. Travel Document Vault biedt één profiel en maximaal vijf documenten gratis. Pro is een eenmalige aankoop zonder abonnement.
+De meesten van ons bewaren al ergens kopieën. Zo haalt u meer uit elke optie.
 
 ### Fotocamera / Foto's
 
-**Werkt:** Altijd bij je.
-
-**Tekortkoming:** Verdwenen in duizenden foto's zonder vervaldatumtrack, geen organisatie en geen beveiliging buiten je telefoonvergrendeling.
+Altijd bij u. Zet paspoortfoto's in een eigen album, zodat u bij de incheckbalie niet langs vakantiefoto's hoeft te scrollen.
 
 ### Cloudopslag
 
-**Werkt:** Heeft offlinemode en synct tussen apparaten.
-
-**Tekortkoming:** Je slaat je paspoort op, controleert de vervaldatum, schakelt naar een agenda-app om een herinnering in te stellen, en herinnert je dan welke map je documenten van je partner had. Het zijn drie apps die één taak doen, en geen van hen weet dat het een paspoort is dat verloopt.
+Handig op al uw apparaten. Geef reisdocumenten per persoon één duidelijk benoemde map en schakel de sterkste inlogbeveiliging in die uw aanbieder biedt.
 
 ### Wachtwoordbeheerders
 
-**Werkt:** Prima voor wachtwoorden.
-
-**Tekortkoming:** Niet ontworpen voor documentafbeeldingen, vervaldatumtrack of gezinsorganisatie. Een pasfoto in een wachtwoordveld is een omweg, geen oplossing.
+Een verstandige plek voor een paspoortnummer als u er al een gebruikt. Zorg dat de pagina met de foto op het vliegveld even gemakkelijk bereikbaar is.
 
 ### Notitie-apps
 
-**Werkt:** Flexibel en vertrouwd.
-
-**Tekortkoming:** Geen vervaldatumherinneringen, geen begeleide capture, en uw pasfoto zit naast uw boodschappenlijstje zonder versleuteling.
+Flexibel en vertrouwd. Staat een paspoortnummer in een notitie, vergrendel die notitie dan waar uw app dat toestaat.
 
 ### Spreadsheets
 
-**Werkt:** Uitstekend voor het plannen van reisroutes en het uittypen van details.
+Handig om de vervaldata van het hele gezin in één tabel te zetten. Voeg een kolom “verlengen vóór” toe en u ziet de eerstvolgende deadline in één oogopslag.
 
-**Tekortkoming:** Geen veilige afbeeldingsbijlagen, vreselijk opmaak op mobiele schermen op het vliegveld, en geen geautomatiseerde vervaldatumherinneringen vóór uw reis.
+### Papieren kopieën
 
-## Hoe het scoort
+Nog altijd de moeite waard. Een uitgeprinte kopie van elke fotopagina, apart van de paspoorten ingepakt, helpt als er een zoekraakt in het buitenland.
 
-Travel Document Vault bewaart documenten, houdt vervaldatums bij en voegt met Pro gezinsprofielen en reisplanning toe.
+## Uw kluis in één oogopslag
 
-| Functie | Travel Document Vault | Wallet-app | Fotobibliotheek / cloudopslag | Wachtwoordmanager |
-|---|---|---|---|---|
-| Vervalherinneringen | ✓8 mnd vooruit voor paspoorten | ✗ | ✗ | ✗ |
-| Gezinsprofielen | ✓Onbeperkt (Pro) | ✗ | ✗ | ~Alleen gedeelde kluizen |
-| Standaard op het apparaat | ✓Back-up optioneel (Pro) | ✗Cloudsync | ✗Cloud eerst | ✗Cloud eerst |
-| Reisspecifieke documenttypen | ✓Paspoort, visum, ID... | ~Alleen instapkaarten | ✗ | ✗ |
-| Werkt offline | ✓ | ✓ | ~Vereist eerdere cache | ✓ |
-| Geen account vereist | ✓ | ~Platformaccount vereist | ✗ | ✗ |
-| Geen abonnement | ✓eenmalig | ✓ | ~Gratis, niveaus met advertenties variëren | ✗doorgaans $30-40/jaar |
-| Reisplanner-checklist (per reis) | ✓Ja (Pro) | ✗ | ✗ | ✗ |
-| Aangepaste daglimieten per land (dagen-in / dagen-uit) | ✓ Pro | ✗ | ✗ | ✗ |
-| Versleutelde cloudsync (uw eigen cloud) | ✓Uw eigen cloud (Pro) | ~Alleen platformaccount | ~Alleen cloudprovider | ~Servers van de provider |
+Travel Document Vault bewaart uw documenten en houdt vervaldata bij. Pro voegt onbeperkt gezinsprofielen en reisplanning toe.
 
-✓ Ondersteund ~ Gedeeltelijk ✗ Niet ondersteund
+### Verloopherinneringen
+
+8 maanden
+
+Standaard beginnen paspoortherinneringen zo ver vooruit en volgen daarna op naarmate de datum dichterbij komt. Andere documenten krijgen een timing die bij hun type past.
+
+1. 8 mnd
+2. 6 mnd
+3. 3 mnd
+4. 6 wk
+5. 1 mnd
+6. 2 wk
+7. 1 wk
+8. Verloopt
+
+### Versleuteling
+
+AES-256
+
+Documentbestanden worden op uw telefoon versleuteld, net als de database met uw gegevens.
+
+### App-account
+
+Geen
+
+Geen registratie en geen login voor de app. De optionele cloudback-up gebruikt uw eigen iCloud- of Google-account.
+
+### Offline
+
+Geen bereik
+
+Opgeslagen documenten en herinneringen werken zonder verbinding, zelfs in de rij bij de paspoortcontrole.
+
+### Pro
+
+Eenmalig betalen
+
+Een eenmalige aankoop, geen abonnement.
+
+### Met Pro
+
+#### Onbeperkte gezinsprofielen
+
+Een profiel voor elk gezinslid, elk met eigen documenten.
+
+#### Geen limiet op documenten
+
+Voeg zoveel paspoorten, visa en identiteitskaarten toe als het gezin nodig heeft.
+
+#### Checklist reisbereidheid
+
+Plan een reis en zie welke documenten klaar zijn en wat er nog moet gebeuren.
+
+#### Daglimieten per land
+
+Stel zelf een daglimiet in. Uw reizen houden bij hoeveel dagen u in het land of erbuiten doorbrengt, afgezet tegen die limiet.
+
+#### Uw eigen herinneringstiming
+
+Kies per document hoe vroeg de herinneringen beginnen.
+
+#### Versleutelde cloudback-up
+
+Een versleutelde kopie in uw eigen iCloud (iOS) of Google Drive (Android), terug te zetten met uw herstelcode.
 
 ## Uw gezin. Beschermd. Altijd.
 

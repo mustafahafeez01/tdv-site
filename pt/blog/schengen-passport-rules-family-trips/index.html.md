@@ -57,9 +57,9 @@ Qualquer que seja a fronteira que tolere, encontrará as regras mais cedo do que
 
 Um passaporte falhado raramente deixa uma pessoa presa; deixa a família no chão. Poucos pais enviarão três membros adiante e deixarão um no balcão, portanto na prática toda a reserva é remarcar ou perdida.
 
-## O Audit de Cinco Minutos da Família
+## Verifique cada passaporte no dia em que reserva
 
-A correção é simples e leva apenas minutos. No dia em que marca, reúna cada passaporte da casa e note cada data de expiração e data de emissão. Depois faça duas perguntas para cada um: ainda terá validade três meses depois do seu regresso, e foi emitido há menos de dez anos. Tudo o que falhar qualquer teste vai para a fila de renovação essa semana — nesse ponto, pode ainda renovar, rerrotear a viagem ou deslocar as suas datas sem penalidade.
+A correção é simples e leva apenas minutos. No dia em que marca, reúna cada passaporte da casa e note cada data de expiração e data de emissão. Depois faça duas perguntas para cada um: ainda terá validade três meses depois do seu regresso, e foi emitido há menos de dez anos. Tudo o que falhar qualquer teste vai para a fila de renovação essa semana — nesse ponto, pode ainda renovar, rerrotear a viagem ou deslocar as suas datas sem penalidade, e nós escolheríamos sempre renovar em vez de esperar para ver se as datas mudam.
 
 As crianças precisam do mesmo espaço de manobra do que os adultos. Há nenhuma exceção infantil às regras de validade — um passaporte de cinco anos fica com o mesmo tratamento Timatic do que o seu. Uma nota de lado para viagens britânicas e irlandesas: a Irlanda não está em Schengen. As viagens Reino Unido-Irlanda funcionam sob a Área de Viagem Comum separada, portanto não generalize a partir de uma viagem a Dublin para uma a Paris.
 

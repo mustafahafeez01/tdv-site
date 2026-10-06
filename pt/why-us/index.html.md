@@ -77,64 +77,102 @@ Configure-a esta noite. Deixe a app recordar para que não tenha de fazer. Comec
 
 ![Obtenha em Google Play](https://traveldocumentvault.com/assets/images/google-play-badge.svg)
 
-## O Que Provavelmente Usa Agora
+## Onde estarão provavelmente os seus documentos hoje
 
-Todas são escolhas razoáveis. Cada uma funciona, até certo ponto.
-
-### Cofres de Uso Geral
-
-**Funciona:** Alta segurança e acesso offline.
-
-**Falha:** Tratam um passaporte como um talão de compras e carecem de lógica específica para viagens. O Travel Document Vault inclui um perfil e até 5 documentos gratuitamente. Pro é uma compra única, sem subscrição.
+A maioria de nós já guarda cópias em algum lado. Eis como tirar mais partido de cada uma.
 
 ### Rolo de Câmara / Fotos
 
-**Funciona:** Sempre consigo.
-
-**Falha:** Enterrado em milhares de fotos sem rastreamento de expiração, sem organização e sem segurança além do bloqueio do telemóvel.
+Sempre consigo. Ponha as fotografias do passaporte num álbum só delas, para não ter de passar por fotos de férias ao balcão do check-in.
 
 ### Armazenamento na Nuvem
 
-**Funciona:** Tem modo offline e sincroniza entre dispositivos.
-
-**Falha:** Guarda o passaporte, verifica a data de expiração, muda para uma app de calendário para definir um lembrete, depois lembra-se em que pasta estavam os documentos do cônjuge. São três apps a fazer o trabalho de uma, e nenhuma sabe que é um passaporte que expira.
+Prático em todos os dispositivos. Crie uma pasta com nome bem claro por pessoa para os documentos de viagem e ative a proteção de início de sessão mais forte que o seu fornecedor oferecer.
 
 ### Gestores de Palavras-passe
 
-**Funciona:** Excelente para palavras-passe.
-
-**Falha:** Não foi concebido para imagens de documentos, rastreamento de expiração ou organização familiar. Uma foto de passaporte num campo de palavra-passe é uma solução alternativa, não uma solução.
+Um sítio sensato para o número do passaporte, se já usa um. Mantenha a página da fotografia igualmente fácil de alcançar no aeroporto.
 
 ### Apps de Notas
 
-**Funciona:** Flexível e familiar.
-
-**Falha:** Sem lembretes de expiração, sem captura guiada e a foto do passaporte fica ao lado da lista de compras sem encriptação.
+Flexíveis e familiares. Se o número do passaporte estiver numa nota, bloqueie essa nota onde a sua app o permitir.
 
 ### Folhas de Cálculo
 
-**Funciona:** Excelente para planear itinerários e registar detalhes.
+Ótimas para reunir numa só tabela as datas de validade da família toda. Junte uma coluna «renovar até» e vê o próximo prazo num instante.
 
-**Falha:** Sem anexos de imagem seguros, formatação terrível em ecrãs móveis no aeroporto e sem lembretes automáticos de expiração antes da viagem.
+### Cópias em Papel
 
-## Como Se Compara
+Continuam a valer a pena. Uma cópia impressa de cada página da fotografia, levada separada dos passaportes, ajuda se um se perder no estrangeiro.
 
-O Travel Document Vault guarda documentos, acompanha as datas de validade e, com Pro, acrescenta perfis de família e planeamento de viagens.
+## O seu cofre num relance
 
-| Funcionalidade | Travel Document Vault | App de wallet | Fototeca / nuvem | Gestor de palavras-passe |
-|---|---|---|---|---|
-| Lembretes de expiração | ✓8 meses antes para passaportes | ✗ | ✗ | ✗ |
-| Perfis de família | ✓Ilimitados (Pro) | ✗ | ✗ | ~Apenas cofres partilhados |
-| No dispositivo por predefinição | ✓Cópia de segurança opcional (Pro) | ✗Sincroniza com a nuvem | ✗Nuvem em primeiro | ✗Nuvem em primeiro |
-| Tipos de doc. específicos de viagem | ✓Passaporte, visto, BI... | ~Só cartões de embarque | ✗ | ✗ |
-| Funciona offline | ✓ | ✓ | ~Requer cache prévia | ✓ |
-| Sem conta necessária | ✓ | ~Requer conta da plataforma | ✗ | ✗ |
-| Sem subscrição | ✓pagamento único | ✓ | ~Gratuito, com níveis com anúncios variáveis | ✗normalmente $30-40/ano |
-| Lista de verificação de preparação (por viagem) | ✓Sim (Pro) | ✗ | ✗ | ✗ |
-| Limites de dias personalizados por país (dias-dentro / dias-fora) | ✓ Pro | ✗ | ✗ | ✗ |
-| Sincronização na nuvem encriptada (a sua própria nuvem) | ✓A sua própria nuvem (Pro) | ~Apenas conta da plataforma | ~Apenas fornecedor de nuvem | ~Servidores do fornecedor |
+O Travel Document Vault guarda os seus documentos e acompanha as datas de validade. O Pro acrescenta perfis de família ilimitados e planeamento de viagens.
 
-✓ Suportado ~ Parcial ✗ Não suportado
+### Lembretes de validade
+
+8 meses
+
+Por predefinição, os lembretes do passaporte começam com esta antecedência e repetem-se à medida que a data se aproxima. Os outros documentos seguem o prazo do seu tipo.
+
+1. 8 m
+2. 6 m
+3. 3 m
+4. 6 sem
+5. 1 m
+6. 2 sem
+7. 1 sem
+8. Expira
+
+### Encriptação
+
+AES-256
+
+Os ficheiros dos documentos são encriptados no seu telemóvel, tal como a base de dados que guarda os seus dados.
+
+### Conta da app
+
+Nenhuma
+
+Sem registo nem início de sessão na app. A cópia de segurança opcional na nuvem usa a sua própria conta iCloud ou Google.
+
+### Offline
+
+Sem rede
+
+Os documentos guardados e os lembretes funcionam sem ligação, até na fila do passaporte.
+
+### Pro
+
+Pague uma vez
+
+Uma compra única, sem subscrição.
+
+### Com o Pro
+
+#### Perfis de família ilimitados
+
+Um perfil para cada pessoa da família, cada um com os seus próprios documentos.
+
+#### Sem limite de documentos
+
+Adicione quantos passaportes, vistos e cartões de identificação a família precisar.
+
+#### Lista de verificação de preparação da viagem
+
+Planeie uma viagem e veja que documentos estão prontos e o que ainda falta fazer.
+
+#### Limites de dias por país
+
+Defina o seu próprio limite de dias: as suas viagens contam os dias passados no país, ou fora dele, para esse limite.
+
+#### Prazos de lembrete à sua medida
+
+Escolha, para cada documento, com que antecedência os lembretes começam.
+
+#### Cópia de segurança encriptada na nuvem
+
+Uma cópia encriptada no seu próprio iCloud (iOS) ou Google Drive (Android), restaurada com o seu código de recuperação.
 
 Pronto para parar de se preocupar?
 

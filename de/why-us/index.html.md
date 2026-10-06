@@ -69,64 +69,102 @@ Alles an einem Ort griffbereit, parat, wenn Sie es brauchen.
 
 Wenn das auf Sie zutrifft: Organisierte Person, die einfach eine vertrauenswürdige App braucht.
 
-## Was Sie wahrscheinlich jetzt nutzen
+## Wo Ihre Dokumente heute wahrscheinlich liegen
 
-Das sind alle vernünftige Wahlen. Jede funktioniert – bis zu einem Punkt.
-
-### Allgemeine Tresore
-
-**Funktioniert:** Hohe Sicherheit und Offline-Zugriff.
-
-**Unzureichend:** Sie behandeln einen Pass wie eine Lebensmittelrechnung und haben keine reisespezifische Logik. Travel Document Vault enthält kostenlos ein Profil und bis zu fünf Dokumente. Pro ist ein einmaliger Kauf ohne Abonnement.
+Die meisten von uns haben schon irgendwo Kopien. So holen Sie aus jeder Variante mehr heraus.
 
 ### Kamerarolle / Fotos
 
-**Funktioniert:** Immer bei Ihnen.
-
-**Unzureichend:** Verloren in tausenden Fotos – ohne Ablaufverfolgung, ohne Organisation und nur mit Telefonsperrensicherheit.
+Immer dabei. Legen Sie Passfotos in ein eigenes Album, damit Sie am Check-in-Schalter nicht durch Urlaubsbilder scrollen müssen.
 
 ### Cloud-Speicher
 
-**Funktioniert:** Hat Offline-Modus und synchronisiert über Geräte.
-
-**Unzureichend:** Sie speichern Ihren Pass, prüfen das Ablaufdatum, wechseln zu einer Kalender-App für eine Erinnerung, dann erinnern Sie sich an den Ordner mit den Dokumenten Ihres Partners. Das sind drei Apps für eine Aufgabe, und keine weiß, dass es ein ablaufender Pass ist.
+Praktisch auf allen Geräten. Legen Sie für Reisedokumente pro Person einen klar benannten Ordner an und aktivieren Sie den stärksten Anmeldeschutz, den Ihr Anbieter bietet.
 
 ### Passwort-Manager
 
-**Funktioniert:** Hervorragend für Passwörter.
-
-**Unzureichend:** Nicht für Dokumentbilder, Ablaufverfolgung oder Familienorganisation ausgelegt. Ein Passfoto in einem Passwortfeld ist ein Notbehelf, keine Lösung.
+Ein vernünftiger Platz für eine Passnummer, wenn Sie ohnehin einen nutzen. Die Seite mit dem Foto sollte am Flughafen genauso leicht erreichbar sein.
 
 ### Notiz-Apps
 
-**Funktioniert:** Flexibel und vertraut.
-
-**Unzureichend:** Keine Ablauferinnerungen, keine geführte Erfassung, und Ihr Passfoto sitzt neben Ihrer Einkaufsliste ohne Verschlüsselung.
+Flexibel und vertraut. Steht eine Passnummer in einer Notiz, sperren Sie diese Notiz, wo Ihre App das erlaubt.
 
 ### Tabellenkalkulationen
 
-**Funktioniert:** Hervorragend zum Planen von Reiserouten und zum Tippen von Details.
+Praktisch, um die Ablaufdaten der ganzen Familie in einer Tabelle zu sammeln. Mit einer Spalte „Erneuern bis“ sehen Sie die nächste Frist auf einen Blick.
 
-**Unzureichend:** Keine sicheren Bildanhänge, schreckliche Formatierung auf mobilen Bildschirmen am Flughafen und keine automatisierten Ablauferinnerungen vor Ihrer Reise.
+### Papierkopien
 
-## Wie es sich schlägt
+Nach wie vor sinnvoll. Ein Ausdruck jeder Fotoseite, getrennt von den Pässen eingepackt, hilft, wenn einer im Ausland abhandenkommt.
 
-Travel Document Vault speichert Dokumente, verfolgt Ablaufdaten und ergänzt mit Pro Familienprofile und Reiseplanung.
+## Ihr Tresor auf einen Blick
 
-| Funktion | Travel Document Vault | Wallet-App | Fotobibliothek / Cloud-Speicher | Passwort-Manager |
-|---|---|---|---|---|
-| Ablauferinnerungen | ✓6 Mo. im Voraus | ✗ | ✗ | ✗ |
-| Familienprofile | ✓Unbegrenzt (Pro) | ✗ | ✗ | ~Nur gemeinsame Tresore |
-| Standardmäßig auf dem Gerät | ✓Optionales Backup (Pro) | ✗Cloud-Sync | ✗Cloud-zuerst | ✗Cloud-zuerst |
-| Reisespezifische Dokumenttypen | ✓Pass, Visum, Ausweis... | ~Nur Bordkarten | ✗ | ✗ |
-| Funktioniert offline | ✓ | ✓ | ~Erfordert Vorab-Cache | ✓ |
-| Kein Konto erforderlich | ✓ | ~Plattform-Konto erforderlich | ✗ | ✗ |
-| Kein Abonnement | ✓einmalig | ✓ | ~Kostenlos, werbefinanzierte Stufen variieren | ✗meist 30-40 $/Jahr |
-| Reiseplaner-Checkliste (pro Reise) | ✓Ja (Pro) | ✗ | ✗ | ✗ |
-| Anpassbare Tageslimits pro Land (Tage-im / Tage-außerhalb) | ✓ Pro | ✗ | ✗ | ✗ |
-| Verschlüsselte Cloud-Sync (Ihre eigene Cloud) | ✓Ihre eigene Cloud (Pro) | ~Nur Plattform-Konto | ~Nur Cloud-Anbieter | ~Server des Anbieters |
+Travel Document Vault speichert Ihre Dokumente und behält Ablaufdaten im Blick. Pro bietet zusätzlich unbegrenzt viele Familienprofile und Reiseplanung.
 
-✓ Unterstützt ~ Teilweise ✗ Nicht unterstützt
+### Ablauf-Erinnerungen
+
+8 Monate
+
+Standardmäßig beginnen Passerinnerungen so früh und folgen, je näher das Datum rückt. Andere Dokumente werden passend zu ihrem Typ terminiert.
+
+1. 8 Mon.
+2. 6 Mon.
+3. 3 Mon.
+4. 6 Wo.
+5. 1 Mon.
+6. 2 Wo.
+7. 1 Wo.
+8. Ablauf
+
+### Verschlüsselung
+
+AES-256
+
+Dokumentdateien werden auf Ihrem Telefon verschlüsselt, ebenso die Datenbank mit Ihren Angaben.
+
+### App-Konto
+
+Keins
+
+Keine Registrierung und kein Login für die App. Das optionale Cloud-Backup nutzt Ihr eigenes iCloud- oder Google-Konto.
+
+### Offline
+
+Kein Netz
+
+Gespeicherte Dokumente und Erinnerungen funktionieren ohne Verbindung, sogar in der Schlange bei der Passkontrolle.
+
+### Pro
+
+Einmal zahlen
+
+Ein einmaliger Kauf, kein Abo.
+
+### Mit Pro
+
+#### Unbegrenzt viele Familienprofile
+
+Ein Profil für jedes Familienmitglied, jeweils mit eigenen Dokumenten.
+
+#### Keine Dokumentengrenze
+
+Fügen Sie so viele Pässe, Visa und Ausweise hinzu, wie die Familie braucht.
+
+#### Checkliste zur Reisebereitschaft
+
+Planen Sie eine Reise und sehen Sie, welche Dokumente bereit sind und was noch zu tun ist.
+
+#### Tageslimits pro Land
+
+Legen Sie selbst ein Tageslimit fest: Ihre Reisen rechnen die Tage im Land oder außerhalb davon auf dieses Limit an.
+
+#### Eigener Erinnerungsvorlauf
+
+Legen Sie für jedes Dokument fest, wie früh die Erinnerungen beginnen.
+
+#### Verschlüsseltes Cloud-Backup
+
+Eine verschlüsselte Kopie in Ihrer eigenen iCloud (iOS) oder Google Drive (Android), wiederhergestellt mit Ihrem Wiederherstellungscode.
 
 ## Eine App. Alles organisiert.
 

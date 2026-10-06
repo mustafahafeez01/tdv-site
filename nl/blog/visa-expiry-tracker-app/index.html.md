@@ -13,16 +13,16 @@ Source: https://traveldocumentvault.com/nl/blog/visa-expiry-tracker-app/
 - Visumbeheer is **complexer** dan paspoortbeheer – een visum heeft een geldigheidsdatum voor inreis, een maximale verblijfsduur en soms een limiet op het aantal inreizen, en dat moet allemaal apart worden bijgehouden.
 - Een overstay op een visum heeft serieuze gevolgen: boetes, inreisverboden van jaren of langer, en in sommige landen strafrechtelijke vervolging.
 - De beste apps voor visumvervaldatums werken offline, ondersteunen meerdere visumtypen en laten je zelf herinneringstijden per document instellen.
-- Bezoekers van het Schengengebied moeten een voortschrijdend venster van 90/180 dagen bijhouden, niet slechts één enkele vervaldatum – de meeste algemene reisapps doen dit niet correct.
+- Bezoekers van het Schengengebied moeten een voortschrijdend venster van 90/180 dagen bijhouden, niet slechts één enkele vervaldatum, omdat de telling meeloopt met je werkelijke reisgeschiedenis, niet met de kalender.
 - Visa en paspoorten samen op één plek bijhouden verkleint het risico op een mismatch: inreizen op een geldig visum maar met een paspoort dat verloopt voordat het geplande verblijf eindigt.
 
 Een visumoverstay is een van de meest verstrekkende reisfouten die iemand kan maken. In tegenstelling tot een gemiste vlucht – stressvol maar uiteindelijk oplosbaar – laat een overstay een formeel immigratiedossier achter dat je jarenlang kan achtervolgen. In de Verenigde Staten leidt een overstay van slechts 180 dagen tot een automatisch inreisverbod van 3 jaar op grond van INA-sectie 212(a)(9)(B)(i), en een overstay van een jaar leidt tot een verbod van 10 jaar. Deze gevolgen zijn niet algemeen bekend, maar worden gedocumenteerd door de Amerikaanse immigratiedienst USCIS.
 
-Een app voor visumvervaldatums is gebouwd om precies dit te voorkomen, omdat hij meerdere datums tegelijk bijhoudt – geldigheid voor inreis, maximale verblijfsduur en aantal inreizen – op een manier die algemene paspoort-apps niet kunnen.
+Een app voor visumvervaldatums is gebouwd om precies dit te voorkomen: hij moet meerdere datums tegelijk bijhouden, geldigheid voor inreis, maximale verblijfsduur en aantal inreizen, elk een aparte deadline.
 
 ## Waarom visumbeheer complexer is dan paspoortbeheer
 
-In tegenstelling tot een paspoort met één relevante datum (de vervaldatum), heeft een visum meerdere afzonderlijke tijdsgebonden velden die elk bijgehouden moeten worden. Als [het verschil tussen een visum en een paspoort](https://traveldocumentvault.com/nl/blog/visa-vs-passport/) nog niet helemaal duidelijk is, is die uitleg het lezen waard:
+Een paspoort heeft één relevante datum: de vervaldatum. Een visum heeft er doorgaans meerdere, en het missen van één ervan is precies hoe een onbedoelde overstay ontstaat. Als [het verschil tussen een visum en een paspoort](https://traveldocumentvault.com/nl/blog/visa-vs-passport/) nog niet helemaal duidelijk is, is die uitleg het lezen waard:
 
 Wat dit in de praktijk betekent
 
@@ -41,9 +41,7 @@ Een app die alleen de geldigheidsdatum voor inreis bijhoudt, mist precies deze v
 
 Voor reizigers die meerdere Europese landen bezoeken, is de 90/180-dagenregel van het Schengengebied een van de meest verkeerd begrepen inreisvoorwaarden in het internationale reizen. Burgers van landen met visumvrije toegang tot Schengen (waaronder het VK, de VS, Canada en Australië, naast vele andere) mogen maximaal 90 dagen in het Schengengebied verblijven binnen elke voortschrijdende periode van 180 dagen.
 
-De Europese Commissie biedt een officiële Schengen-verblijfscalculator om reizigers te helpen hun toegestane dagen te berekenen, wat belangrijk is omdat het om een *voortschrijdend venster* gaat, niet om een reset per kalenderjaar. Dagen die zes maanden geleden in Schengen zijn doorgebracht, tellen nog steeds mee voor je huidige limiet.
-
-De meeste algemene paspoort- of documentapps doen dit niet correct. Een app die simpelweg een visumvervaldatum toont, kan geen Schengen-naleving beheren – dat vereist het berekenen van dagen binnen een voortschrijdend venster op basis van daadwerkelijke in- en uitreisdatums.
+De Europese Commissie biedt een officiële Schengen-verblijfscalculator om reizigers te helpen hun toegestane dagen te berekenen, wat belangrijk is omdat het om een *voortschrijdend venster* gaat, niet om een reset per kalenderjaar. Dagen die zes maanden geleden in Schengen zijn doorgebracht, tellen nog steeds mee voor je huidige limiet, dus één enkele vervaldatum controleren vangt een overstay niet op. Wat telt is je werkelijke in- en uitreisgeschiedenis, niet de datum die op het visum staat.
 
 ## Wat er gebeurt als je een visum overschrijdt
 
@@ -78,7 +76,7 @@ Met al deze complexiteit in gedachten moet een goede app voor visumvervaldatums 
 4. **Houd voor Schengenreizen een logboek bij van in- en uitreisdatums.** Gebruik de officiële calculator van de Europese Commissie om je resterende dagen te controleren vóór elke reis die volgt op recente Schengenreizen.
 5. **Stel ruim vóór je maximale verblijfsdeadline een herinnering in.** Dat geeft je tijd om een vertrek zonder haast te regelen, vooral als de vervoersmogelijkheden op je bestemming beperkt zijn.
 
-Regels die samenhangen met visumbeheer: bekijk onze gids over [de 6 maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/), die je kan tegenhouden bij inreis, zelfs met een geldig visum, als je paspoort te snel na je geplande vertrek verloopt.
+Vergelijk vandaag nog de vervaldatum van je paspoort met je visumdata: zelfs een geldig visum brengt je er niet doorheen als je paspoort te snel na je geplande vertrek verloopt, en precies die mismatch behandelt onze gids over [de 6 maanden-paspoortregel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/).
 
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
@@ -102,7 +100,7 @@ De beste apps kunnen dat. Offline toegang is het belangrijkst bij grenzen en op 
 
 ### Hoe ver van tevoren moet ik een herinnering krijgen voordat mijn visum verloopt?
 
-Dat hangt af van het type visum. Voor langetermijnvisa die verlenging vereisen, is 90 dagen een redelijk minimum. Voor toeristenvisa met een vaste maximale verblijfsduur geef je jezelf genoeg tijd vóór de laatst toegestane vertrekdatum om je vertrek zonder haast te regelen. Zoek naar apps waarmee je zelf de timing per document kunt instellen.
+Dat hangt af van het type visum. Voor langetermijnvisa die verlenging vereisen, zouden wij de herinnering op 90 dagen zetten, niet korter. Voor toeristenvisa met een vaste maximale verblijfsduur geef je jezelf genoeg tijd vóór de laatst toegestane vertrekdatum om je vertrek zonder haast te regelen. Zoek naar apps waarmee je zelf de timing per document kunt instellen.
 
 ## Gerelateerde artikelen
 

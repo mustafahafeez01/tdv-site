@@ -74,6 +74,10 @@ Nessun singolo livello è un motivo per saltare gli altri. Gli account cloud pos
 - [Che cos'è il mio codice di ripristino? - guida completa al suo archiviazione sicura](https://traveldocumentvault.com/it/faq/recovery-code/)
 - [Cloud Backup - come funziona la crittografia da capo a capo](https://traveldocumentvault.com/it/cloud-backup/)
 
+## Risposte Rapide
+
+Quali opzioni di backup offre Travel Document Vault? Travel Document Vault offre tre livelli di protezione: (1) Backup locali automatici, creati ogni pochi minuti sul dispositivo senza costi. (2) Vault Export, un file di backup crittografato gratuito (.tdvault) che salva dove sceglie. (3) Cloud Backup, un'opzione Pro che conserva una copia crittografata da capo a capo nel Suo iCloud o Google Drive personale. Vault Export è gratuito? Questo è gratuito per tutti gli utenti. Non è necessario acquistare Pro. Qual è la differenza tra backup locali e Vault Export? Mentre l’app è aperta e apporta modifiche, crea snapshot del Suo vault ogni pochi minuti. Non deve fare nulla. L’app conserva alcuni degli snapshot più recenti e rimuove quelli più vecchi per risparmiare spazio. L’esportazione del vault crea un file crittografato portatile che può salvare fuori dal dispositivo. Che cos'è il cloud backup e chi ne ha bisogno? Backup su Cloud è una funzione Pro. La attivi per conservare una copia automatica nel Suo iCloud (iOS) o Google Drive (Android). L’app la aggiorna mentre è aperta e connessa. Non la riceviamo. I contenuti dei documenti sono crittografati. I metadati del backup, come nomi dei dispositivi, conteggi e date e orari, non lo sono.
+
 ## Ottieni Travel Document Vault
 
 Download gratuito. Vault Export e backup locali sono inclusi per tutti. Pro aggiunge cloud backup, profili illimitati, esportazione PDF combinata, e altro ancora. Acquisto una tantum, nessun abbonamento.

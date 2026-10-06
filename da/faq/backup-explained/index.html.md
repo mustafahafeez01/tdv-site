@@ -74,6 +74,10 @@ Intet enkelt lag er en grund til at springe de andre over. Cloud-konti kan miste
 - [Hvad er min gendannelseskode? - fuld guide til sikker opbevaring](https://traveldocumentvault.com/da/faq/recovery-code/)
 - [Cloud Backup - sådan fungerer ende-til-ende-kryptering](https://traveldocumentvault.com/da/cloud-backup/)
 
+## Hurtige svar
+
+Hvilke sikkerhedskopieringsmuligheder tilbyder Travel Document Vault? Travel Document Vault tilbyder tre beskyttelseslag: (1) Automatiske lokale sikkerhedskopier, der oprettes hvert par minutter på din enhed uden beregning. (2) Vault Export, en gratis manuel krypteret sikkerhedskopifil (.tdvault), du gemmer, hvor du vil. (3) Cloud Backup, en Pro-mulighed, der holder en ende-til-ende-krypteret kopi i din egen iCloud eller Google Drive. Er Vault Export gratis? Dette er gratis for alle brugere. Intet Pro-køb er nødvendigt. Hvad er forskellen på lokale sikkerhedskopier og Vault Export? Mens appen er åben, og du foretager ændringer, tager den stille et øjebliksbillede af dit vault hvert par minutter. Du behøver ikke gøre noget. Appen beholder de seneste få øjebliksbilleder og fjerner ældre for at spare plads. Vault Export opretter en transportabel krypteret fil, du kan gemme uden for enheden. Hvad er cloud-sikkerhedskopiering, og hvem har brug for det? Cloud Backup er en Pro-funktion. Slå den til for at gemme en automatisk kopi i din egen iCloud (iOS) eller Google Drive (Android). Appen opdaterer den, mens den er åben og har forbindelse. Vi modtager den ikke. Dokumentindhold er krypteret. Backupmetadata, såsom enhedsnavne, antal og tidsstempler, er ikke krypteret.
+
 ## Hent Travel Document Vault
 
 Gratis download. Vault Export og lokale sikkerhedskopier er inkluderet for alle. Pro tilføjer cloud-sikkerhedskopiering, ubegrænsede profiler, kombineret PDF-eksport og mere. Engangskøb, intet abonnement.
