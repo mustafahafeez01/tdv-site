@@ -42,6 +42,8 @@ Source: https://traveldocumentvault.com/ja/blog/proof-of-onward-travel/
 
 両者が重なるのは、渡航先自体のルールにおいてです。例えばシェンゲン国境規則は、国境警備官が訪問者に提示を求めてよい書類の一つとして、帰国または往復チケットを挙げています。ニュージーランドは、訪問者に出国手段を持つことを義務付けています。渡航先がこのような仕組みになっている場合、チェックインで航空会社が確認しているのは、独自のルールを作っているわけではなく、渡航先のルールを数時間早く適用しているにすぎません。
 
+![航空会社がチェックイン時に渡航先のルールを適用して搭乗を判断する確認と、到着時に入国を許可するか判断する国境での確認を比較した図](https://traveldocumentvault.com/blog/proof-of-onward-travel/two-checks-ja.jpg) 航空会社は搭乗前に確認し、国境職員は到着時に入国を判断する
+
 確認する範囲も異なります。航空会社が出国用チケットを受け入れたとしても、パスポートの有効性や必要な[ビザ](https://traveldocumentvault.com/ja/blog/visa-vs-passport/)など、入国に関わる他の事項を保証したわけではありません。国境職員は出国手段についてまったく確認しないこともあります。持っておくべき書類の全体像については、[海外旅行で持ち歩くべき書類](https://traveldocumentvault.com/ja/blog/what-documents-to-carry-when-travelling-internationally/)のガイドをご覧ください。
 
 **Travel Document Vault**は、航空券とホテルの予約情報を端末上に暗号化して保存し、電波がなくてもアクセスできます。求められたときにいつでもゲートで証明を提示できます。[App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)または[Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog)からダウンロードできます。

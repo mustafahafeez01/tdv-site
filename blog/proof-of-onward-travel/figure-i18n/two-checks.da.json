@@ -1,0 +1,24 @@
+{
+ "da": {
+  "eyebrow": "BEVIS FOR VIDERE REJSE",
+  "title": "To tjek, to spørgsmål",
+  "l_step": "TRIN 1 · VED CHECK-IN",
+  "l_name": "Flyselskabet",
+  "l_q": "Bliver du afvist ved ankomst?",
+  "l_rows": [
+   "Anvender rejsemålets regler",
+   "Afgør, om du må boarde"
+  ],
+  "r_step": "TRIN 2 · VED ANKOMST",
+  "r_name": "Grænsen",
+  "r_q": "Opfylder du indrejsebetingelserne?",
+  "r_rows": [
+   "Kan spørge, hvordan du rejser ud",
+   "Afgør, om du kommer ind"
+  ],
+  "arrow": "SÅ",
+  "focal": "Tæller normalt: en bestilt billet ud",
+  "alt": "Diagram, der sammenligner flyselskabets tjek ved check-in, som anvender rejsemålets regler og afgør, om du boarder, med grænsetjekket ved ankomst, som afgør, om du kommer ind",
+  "caption": "Flyselskabet tjekker, før du boarder; grænsevagten afgør det ved ankomst."
+ }
+}

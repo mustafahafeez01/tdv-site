@@ -1,0 +1,24 @@
+{
+ "id": {
+  "eyebrow": "BUKTI PERJALANAN LANJUTAN",
+  "title": "Dua pemeriksaan, dua pertanyaan",
+  "l_step": "LANGKAH 1 · SAAT CHECK-IN",
+  "l_name": "Maskapai",
+  "l_q": "Apakah Anda akan ditolak saat tiba?",
+  "l_rows": [
+   "Menerapkan aturan negara tujuan",
+   "Memutuskan apakah Anda naik pesawat"
+  ],
+  "r_step": "LANGKAH 2 · SAAT TIBA",
+  "r_name": "Perbatasan",
+  "r_q": "Apakah Anda memenuhi syarat masuk?",
+  "r_rows": [
+   "Bisa menanyakan cara Anda pergi",
+   "Memutuskan apakah Anda masuk"
+  ],
+  "arrow": "LALU",
+  "focal": "Biasanya dihitung: tiket keluar yang sudah dipesan",
+  "alt": "Diagram yang membandingkan pemeriksaan maskapai saat check-in, yang menerapkan aturan negara tujuan dan memutuskan apakah Anda naik pesawat, dengan pemeriksaan perbatasan saat tiba, yang memutuskan apakah Anda masuk",
+  "caption": "Maskapai memeriksa sebelum Anda naik pesawat; petugas perbatasan memutuskan saat tiba."
+ }
+}

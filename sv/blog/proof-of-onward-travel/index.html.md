@@ -42,6 +42,8 @@ Flygbolaget vill veta om du riskerar att nekas inresa vid ankomsten, vilket läm
 
 Där de överlappar är resmålets egna regler. Schengens gränskodex listar till exempel en retur- eller tur- och returbiljett bland de handlingar en gränsvakt kan be en besökare visa. Nya Zeeland kräver att besökare har möjlighet att lämna landet. När ett resmål fungerar så tillämpar flygbolaget, genom att fråga vid incheckningen, vanligtvis resmålets regel några timmar tidigare, inte en egen regel.
 
+![Ett diagram som jämför flygbolagets kontroll vid incheckning, som tillämpar resmålets regler och avgör om du får gå ombord, med gränskontrollen vid ankomst, som avgör om du får resa in i landet](https://traveldocumentvault.com/blog/proof-of-onward-travel/two-checks-sv.jpg) Flygbolaget kontrollerar innan du går ombord, gränskontrollen avgör vid ankomst.
+
 Kontrollerna täcker också olika saker. Ett flygbolag som godtar din vidarebiljett har inte intygat resten av din inresa, som passets giltighet eller ett [visum du kan behöva](https://traveldocumentvault.com/sv/blog/visa-vs-passport/). En gränstjänsteman kanske inte frågar om vidare resa alls. Se vår guide om [vilka handlingar du bör ha med dig vid internationella resor](https://traveldocumentvault.com/sv/blog/what-documents-to-carry-when-travelling-internationally/) för hela listan över vad som är värt att ha med sig.
 
 **Travel Document Vault** lagrar dina flygbiljetter och hotellbokningar på din enhet, krypterat och tillgängligt utan signal, så att du kan visa bevis vid gaten när du blir tillfrågad. [Ladda ner i App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) och [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault).

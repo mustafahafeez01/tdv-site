@@ -42,6 +42,8 @@ Flyselskabet vil vide, om du sandsynligvis bliver nægtet indrejse ved ankomsten
 
 Overlappet ligger i rejsemålets egne regler. Schengengrænsekodeksen nævner for eksempel en retur- eller rundrejsebillet blandt de dokumenter, en grænsevagt kan bede en besøgende om at vise. New Zealand kræver, at besøgende har midlerne til at rejse ud igen. Når et rejsemål fungerer sådan, anvender flyselskabet ved check-in som regel bare rejsemålets regel nogle timer tidligere – det opfinder ikke sin egen.
 
+![Diagram, der sammenligner flyselskabets tjek ved check-in, som anvender rejsemålets regler og afgør, om du boarder, med grænsetjekket ved ankomst, som afgør, om du kommer ind](https://traveldocumentvault.com/blog/proof-of-onward-travel/two-checks-da.jpg) Flyselskabet tjekker, før du boarder; grænsevagten afgør det ved ankomst.
+
 Kontrollerne dækker også forskellige ting. Et flyselskab, der accepterer din videre billet, har ikke stået inde for resten af din indrejse, f.eks. passets gyldighed eller et [visum, du måske skal bruge](https://traveldocumentvault.com/da/blog/visa-vs-passport/). En grænsebetjent spørger måske slet ikke om videre rejse. Se vores guide til [hvilke dokumenter du skal have med på internationale rejser](https://traveldocumentvault.com/da/blog/what-documents-to-carry-when-travelling-internationally/) for det fulde sæt dokumenter, det er værd at have med.
 
 **Travel Document Vault** gemmer dine flybilletter og hotelreservationer på din enhed, krypteret og tilgængelige uden mobilsignal – så du kan vise bevis ved gaten, uanset hvornår du bliver spurgt. [Hent på App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) og [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault).

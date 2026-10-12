@@ -42,6 +42,8 @@ Source: https://traveldocumentvault.com/ko/blog/proof-of-onward-travel/
 
 두 질문이 겹치는 지점은 목적지 자체의 규정입니다. 예를 들어 셍겐 국경 규정(Schengen Borders Code)은 국경 직원이 방문객에게 요구할 수 있는 서류 중 하나로 귀국 또는 왕복 항공권을 명시하고 있습니다. 뉴질랜드는 방문객에게 출국할 수단을 갖추도록 요구합니다. 목적지가 이런 방식으로 운영될 때, 체크인에서 항공사가 묻는 것은 대개 자체 규정을 만든 것이 아니라 목적지의 규정을 몇 시간 앞서 적용하는 것뿐입니다.
 
+![체크인에서 항공사가 목적지의 규정을 적용해 탑승 여부를 결정하는 확인과, 도착 시 입국을 허용할지 결정하는 국경 확인을 비교한 다이어그램](https://traveldocumentvault.com/blog/proof-of-onward-travel/two-checks-ko.jpg) 항공사는 탑승 전에 확인하고, 국경 직원은 도착 시 입국을 결정합니다
+
 확인 범위도 서로 다릅니다. 출국 항공권을 받아준 항공사가 나머지 입국 요건, 예를 들어 여권 유효기간이나 필요할 수 있는 [비자](https://traveldocumentvault.com/ko/blog/visa-vs-passport/)까지 보증해 준 것은 아닙니다. 국경 직원은 출국 예정 증빙을 전혀 묻지 않을 수도 있습니다. 챙겨 둘 만한 서류 전체 목록은 [국제 여행 시 챙겨야 할 서류 가이드](https://traveldocumentvault.com/ko/blog/what-documents-to-carry-when-travelling-internationally/)를 참고하세요.
 
 **Travel Document Vault**는 항공권과 호텔 예약 내역을 기기에 암호화하여 저장하며, 신호 없이도 열어볼 수 있습니다. 탑승구에서 요구받을 때 언제든 증빙을 보여줄 수 있습니다. [App Store에서 다운로드](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)하고 [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog)에서도 받으세요.

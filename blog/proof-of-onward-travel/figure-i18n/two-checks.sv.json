@@ -1,0 +1,24 @@
+{
+ "sv": {
+  "eyebrow": "BEVIS PÅ VIDARE RESA",
+  "title": "Två kontroller, två frågor",
+  "l_step": "STEG 1 · VID INCHECKNING",
+  "l_name": "Flygbolaget",
+  "l_q": "Nekas du inresa?",
+  "l_rows": [
+   "Tillämpar resmålets regler",
+   "Avgör om du får gå ombord"
+  ],
+  "r_step": "STEG 2 · VID ANKOMST",
+  "r_name": "Gränsen",
+  "r_q": "Uppfyller du inresevillkoren?",
+  "r_rows": [
+   "Kan fråga hur du ska lämna landet",
+   "Avgör om du får resa in"
+  ],
+  "arrow": "SEDAN",
+  "focal": "Räknas oftast: en bokad biljett ut",
+  "alt": "Ett diagram som jämför flygbolagets kontroll vid incheckning, som tillämpar resmålets regler och avgör om du får gå ombord, med gränskontrollen vid ankomst, som avgör om du får resa in i landet",
+  "caption": "Flygbolaget kontrollerar innan du går ombord, gränskontrollen avgör vid ankomst."
+ }
+}

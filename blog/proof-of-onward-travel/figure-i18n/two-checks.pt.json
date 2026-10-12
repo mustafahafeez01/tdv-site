@@ -1,0 +1,24 @@
+{
+ "pt": {
+  "eyebrow": "PROVA DE CONTINUAÇÃO DE VIAGEM",
+  "title": "Duas verificações, duas perguntas",
+  "l_step": "PASSO 1 · NO CHECK-IN",
+  "l_name": "A companhia aérea",
+  "l_q": "Pode ser recusado na chegada?",
+  "l_rows": [
+   "Aplica as regras do destino",
+   "Decide se pode embarcar"
+  ],
+  "r_step": "PASSO 2 · NA CHEGADA",
+  "r_name": "A fronteira",
+  "r_q": "Cumpre as condições de entrada?",
+  "r_rows": [
+   "Pode perguntar como vai sair",
+   "Decide se pode entrar"
+  ],
+  "arrow": "DEPOIS",
+  "focal": "Normalmente basta: um bilhete de saída reservado",
+  "alt": "Diagrama que compara a verificação da companhia aérea no check-in, que aplica as regras do destino e decide se pode embarcar, com a verificação na fronteira à chegada, que decide se pode entrar",
+  "caption": "A companhia aérea verifica antes do embarque; o agente de fronteira decide à chegada."
+ }
+}

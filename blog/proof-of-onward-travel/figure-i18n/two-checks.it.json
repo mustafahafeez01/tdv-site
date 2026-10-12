@@ -1,0 +1,24 @@
+{
+ "it": {
+  "eyebrow": "PROVA DI PROSECUZIONE DEL VIAGGIO",
+  "title": "Due controlli, due domande",
+  "l_step": "FASE 1 · AL CHECK-IN",
+  "l_name": "La compagnia aerea",
+  "l_q": "Ti negheranno l'ingresso all'arrivo?",
+  "l_rows": [
+   "Applica le regole della destinazione",
+   "Decide se puoi salire a bordo"
+  ],
+  "r_step": "FASE 2 · ALL'ARRIVO",
+  "r_name": "La frontiera",
+  "r_q": "Soddisfi le condizioni d'ingresso?",
+  "r_rows": [
+   "Può chiederti come lascerai il paese",
+   "Decide se puoi entrare"
+  ],
+  "arrow": "POI",
+  "focal": "Di solito basta un biglietto di partenza prenotato",
+  "alt": "Diagramma che confronta il controllo della compagnia aerea al check-in, che applica le regole della destinazione e decide se sali a bordo, con il controllo di frontiera all'arrivo, che decide se entri nel paese",
+  "caption": "La compagnia aerea controlla prima dell'imbarco; l'agente di frontiera decide all'arrivo."
+ }
+}

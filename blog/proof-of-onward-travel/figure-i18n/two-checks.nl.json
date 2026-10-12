@@ -1,0 +1,24 @@
+{
+ "nl": {
+  "eyebrow": "BEWIJS VAN VERDER REIZEN",
+  "title": "Twee controles, twee vragen",
+  "l_step": "STAP 1 · BIJ INCHECKEN",
+  "l_name": "Luchtvaartmaatschappij",
+  "l_q": "Word je bij aankomst geweigerd?",
+  "l_rows": [
+   "Past de regels van de bestemming toe",
+   "Beslist of je aan boord mag"
+  ],
+  "r_step": "STAP 2 · BIJ AANKOMST",
+  "r_name": "Grens",
+  "r_q": "Voldoe je aan de toelatingsvoorwaarden?",
+  "r_rows": [
+   "Kan vragen hoe je vertrekt",
+   "Beslist of je wordt toegelaten"
+  ],
+  "arrow": "DAN",
+  "focal": "Telt meestal: een geboekt vertrekticket",
+  "alt": "Diagram dat de controle door de luchtvaartmaatschappij bij het inchecken, die de regels van de bestemming toepast en beslist of je aan boord mag, vergelijkt met de grenscontrole bij aankomst, die beslist of je wordt toegelaten",
+  "caption": "De luchtvaartmaatschappij controleert voor je instapt; de grensbeambte beslist bij aankomst."
+ }
+}

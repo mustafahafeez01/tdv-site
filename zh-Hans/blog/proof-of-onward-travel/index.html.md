@@ -42,6 +42,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/proof-of-onward-travel/
 
 两者重叠的地方，就是目的地自身的规定。比如《申根边境法典》就把返程或往返机票列为边境警察可能要求访客出示的文件之一。新西兰则要求访客具备离境的能力。当目的地有这样的规定时，航空公司在值机时提出的要求，往往只是提前几个小时执行了目的地自己的规定，而不是自创了一条新规则。
 
+![一张图表比较了值机时的航空公司核查，它执行目的地规定并决定你能否登机，和抵达后的边境核查，它决定你能否入境](https://traveldocumentvault.com/blog/proof-of-onward-travel/two-checks-zh-Hans.jpg) 航空公司在登机前核查，边境官员在抵达时决定。
+
 两种核查覆盖的范围也不一样。航空公司接受了你的后续机票，并不代表它为你入境所需的其他条件做了担保，比如护照的有效期，或者你可能需要的[签证](https://traveldocumentvault.com/zh-Hans/blog/visa-vs-passport/)。边境官员也可能根本不会问到后续行程。关于出行时值得携带的完整证件清单，请参阅我们的[国际旅行应携带哪些文件指南](https://traveldocumentvault.com/zh-Hans/blog/what-documents-to-carry-when-travelling-internationally/)。
 
 **Travel Document Vault** 将你的机票和酒店预订加密存储在设备上，无需信号即可访问——无论何时被要求，都能在登机口出示证明。[在 App Store 下载](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)，也可以在 [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog) 获取。

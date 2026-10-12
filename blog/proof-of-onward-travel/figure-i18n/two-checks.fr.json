@@ -1,0 +1,24 @@
+{
+ "fr": {
+  "eyebrow": "PREUVE DE CONTINUATION DE VOYAGE",
+  "title": "Deux contrôles, deux questions",
+  "l_step": "ÉTAPE 1 · À L'ENREGISTREMENT",
+  "l_name": "La compagnie aérienne",
+  "l_q": "Serez-vous refusé à l'arrivée ?",
+  "l_rows": [
+   "Applique les règles de la destination",
+   "Décide si vous embarquez"
+  ],
+  "r_step": "ÉTAPE 2 · À L'ARRIVÉE",
+  "r_name": "La frontière",
+  "r_q": "Remplissez-vous les conditions d'entrée ?",
+  "r_rows": [
+   "Peut demander comment vous repartez",
+   "Décide si vous êtes admis"
+  ],
+  "arrow": "PUIS",
+  "focal": "Compte généralement : un billet de sortie réservé",
+  "alt": "Diagramme comparant le contrôle de la compagnie aérienne à l'enregistrement, qui applique les règles de la destination et décide si vous embarquez, au contrôle frontalier à l'arrivée, qui décide si vous êtes admis",
+  "caption": "La compagnie aérienne vérifie avant l'embarquement ; l'agent frontalier décide à l'arrivée."
+ }
+}

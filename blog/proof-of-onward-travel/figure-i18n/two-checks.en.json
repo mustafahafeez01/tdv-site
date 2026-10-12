@@ -1,0 +1,24 @@
+{
+ "en": {
+  "eyebrow": "PROOF OF ONWARD TRAVEL",
+  "title": "Two Checks, Two Questions",
+  "l_step": "STEP 1 · AT CHECK-IN",
+  "l_name": "The airline",
+  "l_q": "Will you be refused on arrival?",
+  "l_rows": [
+   "Applies the destination's rules",
+   "Decides whether you board"
+  ],
+  "r_step": "STEP 2 · ON ARRIVAL",
+  "r_name": "The border",
+  "r_q": "Do you meet the entry conditions?",
+  "r_rows": [
+   "May ask how you will leave",
+   "Decides whether you enter"
+  ],
+  "arrow": "THEN",
+  "focal": "Usually counts: a booked ticket out",
+  "alt": "Sketchnote comparing the airline check at check-in, which applies the destination's rules and decides whether you board, with the border check on arrival, which decides whether you enter",
+  "caption": "The airline checks before you board; the border officer decides on arrival."
+ }
+}

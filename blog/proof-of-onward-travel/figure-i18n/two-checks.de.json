@@ -1,0 +1,24 @@
+{
+ "de": {
+  "eyebrow": "NACHWEIS DER WEITERREISE",
+  "title": "Zwei Prüfungen, zwei Fragen",
+  "l_step": "SCHRITT 1 · BEIM CHECK-IN",
+  "l_name": "Die Fluggesellschaft",
+  "l_q": "Wird Ihnen die Einreise verweigert?",
+  "l_rows": [
+   "Wendet die Regeln des Ziellands an",
+   "Entscheidet über das Boarding"
+  ],
+  "r_step": "SCHRITT 2 · BEI DER ANKUNFT",
+  "r_name": "Die Grenze",
+  "r_q": "Erfüllen Sie die Einreisebedingungen?",
+  "r_rows": [
+   "Fragt eventuell, wie Sie ausreisen",
+   "Entscheidet über die Einreise"
+  ],
+  "arrow": "DANN",
+  "focal": "Zählt meist: ein gebuchtes Ticket zur Ausreise",
+  "alt": "Diagramm, das die Prüfung der Fluggesellschaft beim Check-in, die die Regeln des Ziellands anwendet und über das Boarding entscheidet, mit der Grenzkontrolle bei der Ankunft vergleicht, die über die Einreise entscheidet",
+  "caption": "Die Fluggesellschaft prüft vor dem Boarding; der Grenzbeamte entscheidet bei der Ankunft."
+ }
+}
