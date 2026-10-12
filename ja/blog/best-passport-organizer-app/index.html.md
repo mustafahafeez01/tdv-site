@@ -33,6 +33,8 @@ Source: https://traveldocumentvault.com/ja/blog/best-passport-organizer-app/
 
 デバイス上のアプリの侵害は、彼らのサーバーから何も漏らしません。漏らすものがありません。
 
+![パスポート整理アプリの2つの保存方式を比較する図。デバイス内ならデータは自分の手元に残り、クラウドアップロードはサーバーを信頼することになる。デバイス内ならオフラインでも使える](https://traveldocumentvault.com/blog/best-passport-organizer-app/app-storage-compare-ja.jpg) パスポートアプリのほかすべてを決める、たった一つの設計上の選択
+
 ## アプリが使う価値のあるものかどうかは、これらの機能で決まります
 
 ### カスタマイズする価値があるのは、リマインダーのリード時間です

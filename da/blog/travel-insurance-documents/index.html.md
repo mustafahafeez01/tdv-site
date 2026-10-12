@@ -62,6 +62,8 @@ Opbevar en fysisk kopi – eller et højkvalitets-foto af vigtige sider – samm
 
 Et håndskrevet kort gør samme nytte som et udprint: policenummer, forsikringsselskabets navn, nødtelefonnummer. Stik det ind i paslommen, og det overlever et fladt batteri, en mistet telefon og en hotelsafe, du ikke kan åbne.
 
+![To identiske telefoner side om side: den venstre lyser med forsikringspolicen gemt på enheden, den højre står grå med en loading-spinner og intet signal](https://traveldocumentvault.com/blog/travel-insurance-documents/saved-vs-searching-figure.jpg) Downloadet og lige ved hånden, eller stadig liggende i en indbakke, du ikke kan tilgå. Forskellen viser sig i det værst tænkelige øjeblik.
+
 ### Sammenligning af dokumentopbevaring
 
 | Opbevaringssted | Adgang uden internet | I en nødsituation | Sikkerhedskopi hvis telefon går tabt |

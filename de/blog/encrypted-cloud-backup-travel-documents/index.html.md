@@ -32,6 +32,8 @@ Beim anderen Ansatz wird die Datei auf Ihrem Telefon verschlüsselt, bevor sie i
 
 Die Frage, die sich bei jeder App lohnt, ist kurz: **Wer hält den Schlüssel?** Alles andere im Marketing ergibt sich aus der Antwort.
 
+![Diagramm, das eine Fotosicherung vergleicht, lesbar in der Cloud mit dem Schlüssel beim Anbieter, und ein verschlüsseltes Backup, nutzlos ohne den Schlüssel, der auf Ihrem Telefon bleibt](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/encrypted-backup-figure-de.jpg) Gleiche Cloud, andere Antwort. Die Datei geht in beiden Fällen hoch; was sich ändert, ist, wer sie öffnen kann.
+
 ## Der Wiederherstellungscode, und warum wir ihn nicht zurücksetzen können
 
 Travel Document Vault benötigt kein App-Konto, um Dokumente auf Ihrem Gerät zu speichern. Das optionale [Cloud-Backup](https://traveldocumentvault.com/de/cloud-backup/) erfordert Pro und Ihren Wiederherstellungscode, um den Cloud-Verschlüsselungsschlüssel zu entsperren. Die App erstellt diesen 24-stelligen Code, wenn Sie Ihre PIN festlegen. Der verschlüsselte Tresor geht dann an **Ihr eigenes iCloud-Konto auf iPhone und iPad oder Ihr eigenes Google-Drive-Konto auf Android** und nicht an uns.

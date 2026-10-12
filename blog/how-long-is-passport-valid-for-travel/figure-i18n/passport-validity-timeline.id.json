@@ -1,0 +1,33 @@
+{
+ "id": {
+  "template": "matrix",
+  "title": "Masa berlaku paspor",
+  "columns": [
+   "Paspor dewasa",
+   "Paspor anak"
+  ],
+  "rows": [
+   {
+    "label": "Berlaku selama",
+    "cells": [
+     "10 tahun",
+     "5 tahun"
+    ]
+   },
+   {
+    "label": "Jarak aman 6 bulan di akhir",
+    "cells": [
+     "tick",
+     "tick"
+    ]
+   }
+  ],
+  "focal": "Banyak negara mensyaratkan jarak aman 6 bulan ini",
+  "alt": "Diagram masa berlaku paspor: paspor dewasa berlaku 10 tahun, paspor anak 5 tahun, dan jarak aman 6 bulan berada di akhir keduanya karena banyak negara mensyaratkannya",
+  "caption": "Dua jam, satu syarat tersembunyi: jarak aman 6 bulan yang disyaratkan banyak negara sebelum tanggal kedaluwarsa Anda.",
+  "placement": {
+   "h2": 2,
+   "para": 2
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "es": {
+  "template": "matrix",
+  "title": "Validez del pasaporte",
+  "columns": [
+   "Pasaporte de adulto",
+   "Pasaporte de niño"
+  ],
+  "rows": [
+   {
+    "label": "Validez",
+    "cells": [
+     "10 años",
+     "5 años"
+    ]
+   },
+   {
+    "label": "Margen de 6 meses al final",
+    "cells": [
+     "tick",
+     "tick"
+    ]
+   }
+  ],
+  "focal": "Muchos países exigen el margen de 6 meses",
+  "alt": "Diagrama de la validez del pasaporte: un pasaporte de adulto dura 10 años, uno de niño 5, y un margen de 6 meses se añade al final de ambos porque muchos países lo exigen",
+  "caption": "Dos relojes, una trampa: el margen de 6 meses que muchos países esperan antes de tu fecha de caducidad.",
+  "placement": {
+   "h2": 2,
+   "para": 2
+  }
+ }
+}

@@ -92,6 +92,8 @@ Kelompok keluarga harus mengajukan setiap permohonan secara terpisah, bukan seba
 
 Jika Anda ditolak dan tetap perlu bepergian, alternatif Anda adalah mengajukan visa tinggal lama tradisional melalui kedutaan atau konsulat terkait, yang biasanya memungkinkan lebih banyak kali masuk dan masa tinggal lebih lama dibandingkan perjalanan bebas visa. Karena persyaratan berbeda menurut tujuan dan kewarganegaraan, hubungi kedutaan secara langsung untuk mengetahui apa yang Anda perlukan.
 
+![Diagram yang membandingkan EES dan ETIAS: EES terjadi di perbatasan dengan sidik jari dan foto, tanpa permohonan, dan mulai diterapkan di titik-titik masuk; ETIAS terjadi sebelum Anda terbang, diajukan secara daring dengan biaya kecil, dan belum ada tanggal wajib yang dipastikan; Anda pada akhirnya akan memerlukan keduanya, dan keduanya bukan visa](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure-id.jpg) Dua gerbang yang berbeda: EES mendaftarkan Anda saat kedatangan; ETIAS memberi izin sebelum keberangkatan.
+
 ## Paspor dan Asuransi Anda Tetap Penting Setelah ETIAS
 
 Persetujuan ETIAS tidak menggantikan paspor Anda, asuransi perjalanan, atau [persyaratan masa berlaku paspor](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/). Anda tetap memerlukan:

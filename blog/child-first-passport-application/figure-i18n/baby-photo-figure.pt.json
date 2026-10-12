@@ -1,0 +1,50 @@
+{
+ "pt": {
+  "template": "cards",
+  "title": "Fotos de passaporte para bebés",
+  "cards": [
+   {
+    "heading": "O que se mantém igual",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Olhos abertos, a olhar para a câmara",
+      "mark": "tick"
+     },
+     {
+      "text": "Fundo liso detrás da cabeça",
+      "mark": "tick"
+     },
+     {
+      "text": "Mais nada na imagem",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "O que muda com a idade",
+    "items": [
+     {
+      "text": "Até 6 meses: deitado num lençol liso",
+      "mark": "dot"
+     },
+     {
+      "text": "6 meses a 2 anos: ao colo, sem o adulto",
+      "mark": "dot"
+     },
+     {
+      "text": "2+ anos: sentado, olhar acima da lente",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "focal": "Rejeição mais comum: mão de apoio, chupeta ou brinquedo",
+  "alt": "Diagrama do que se mantém igual numa foto de passaporte de bebé (olhos abertos, fundo liso, mais nada na imagem) e do que muda por faixa etária, de menos de 6 meses a partir dos 2 anos, com as causas mais comuns de rejeição",
+  "caption": "",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

@@ -87,6 +87,8 @@ Moderne Smartphones schießen mit 12 Megapixeln oder höher, was für Passfotos 
 
 ## Häufige Ablehnungsgründe und wie Sie diese vermeiden
 
+![Diagramm mit sechs abgelehnten Passfotos, Schatten hinter dem Kopf, Lächeln, Reflexion auf der Brille, Haare über den Augen, gemusterter Hintergrund und zu nah aufgenommen, neben einem akzeptierten Foto mit einfarbigem Hintergrund, neutralem Gesichtsausdruck und gleichmäßigem Licht](https://traveldocumentvault.com/blog/passport-photo-at-home/passport-photo-figure-de.jpg) Sechs Arten, wie ein Foto zurückgeschickt wird, und das eine Setup, das durchkommt.
+
 - **Schatten im Gesicht:** Verursacht durch Seitenlicht oder harte Lichtquellen. Positionieren Sie sich senkrecht zum Fenster für gleichmäßige Beleuchtung, und überprüfen Sie, dass Ihre Ohren und Wangenknochen gleichmäßig beleuchtet sind.
 - **Falsche Fotodimensionen:** Das Foto entspricht nicht den Spezifikationen Ihres Landes (Anforderungen unterscheiden sich je nach Land). Verwenden Sie eine Passfoto-Zuschneidungs-App und überprüfen Sie die Abmessungen doppelt gegen die offizielle Spezifikation Ihrer Behörde vor dem Drucken oder Hochladen – nicht die Standards eines anderen Landes.
 - **Lächeln oder ungewöhnlicher Ausdruck:** Die meisten Länder erfordern einen neutralen Ausdruck. Üben Sie einen ruhigen, geradeaus gerichteten Blick in einem Spiegel – zielen Sie auf ernst, nicht streng.

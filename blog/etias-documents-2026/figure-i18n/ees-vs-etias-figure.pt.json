@@ -1,0 +1,51 @@
+{
+ "pt": {
+  "template": "cards",
+  "title": "EES e ETIAS não são a mesma coisa",
+  "cards": [
+   {
+    "heading": "EES",
+    "items": [
+     {
+      "text": "Acontece na fronteira",
+      "mark": "dot"
+     },
+     {
+      "text": "Impressões digitais e foto, sem pedido",
+      "mark": "dot"
+     },
+     {
+      "text": "Em expansão pelos pontos de entrada",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "ETIAS",
+    "items": [
+     {
+      "text": "Acontece antes de voar",
+      "mark": "dot"
+     },
+     {
+      "text": "Pedido online, taxa reduzida",
+      "mark": "dot"
+     },
+     {
+      "text": "Ainda não obrigatório, sem data",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "and",
+  "note": "Vai acabar por precisar de ambos",
+  "focal": "Nenhum deles é um visto",
+  "alt": "Diagrama que compara o EES e a ETIAS: o EES acontece na fronteira, com impressões digitais e foto, sem pedido, e está em expansão pelos pontos de entrada; a ETIAS acontece antes de voar, pedida online com uma taxa reduzida, ainda sem data obrigatória definida; vai acabar por precisar de ambos, e nenhum deles é um visto",
+  "caption": "Duas portas diferentes: o EES regista-o à chegada; a ETIAS autoriza-o antes da partida.",
+  "placement": {
+   "h2": 7,
+   "para": 3
+  }
+ }
+}

@@ -50,6 +50,8 @@ Source: https://traveldocumentvault.com/ko/blog/visa-vs-passport/
 
 결국 여권은 당신의 것이며 어디를 가든 함께합니다. 입국 허가는 목적지마다 따로 부여되는 것이며, 여권에 아무 문제가 없어도 거부될 수 있습니다.
 
+![여권과 비자를 비교하는 다이어그램: 본국이 발급하는 여권은 신원을 증명하고 출국을 허가하며, 목적지 국가가 발급하는 비자는 입국을 허가하고 그 나라에만 적용된다. 대부분의 여행은 둘 다 필요하며, 유효한 여권이 입국 허가는 아니다](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-ko.jpg) 두 서류, 두 가지 역할. 유효한 여권만으로는 입국이 허가되지 않습니다.
+
 ## 비자 종류는 목적과 기간에 따라 다릅니다
 
 대부분의 국가는 다음 범주로 비자를 발급합니다:

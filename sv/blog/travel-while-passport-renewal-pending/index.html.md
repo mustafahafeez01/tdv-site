@@ -24,6 +24,8 @@ Du kan inte resa utomlands utan ett giltigt pass fysiskt i din besittning. En p�
 
 Om du fortfarande har det passet beror helt på ditt land och din förnyelsemetod.
 
+![Beslutsträd: är passet fortfarande i din hand? Ja - res på det medan det är giltigt (USA:s postförnyelse, Storbritanniens digitala förnyelse). Nej - inlämnat, du väntar på det nya (Storbritanniens postförnyelse, Australien, Kanada). Inget land låter dig flyga internationellt utan ett pass i handen](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-sv.jpg) En fråga avgör allt: om ditt gamla pass fortfarande är i din ägo.
+
 ## USA: Förnyelse per post
 
 Standardförnyelse av amerikanskt pass per post kräver inte att du lämnar in ditt nuvarande pass innan det nya kommer. Du fyller i formulär DS-82, bifogar ditt befintliga pass och skickar allt till National Passport Processing Center. Ditt gamla pass returneras till dig tillsammans med det nya, vanligtvis makulerat med ett hål.

@@ -44,6 +44,8 @@ Quando renova o passaporte, a autoridade responsável pelo seu passaporte emite 
 
 Eis a linha temporal a ter em conta:
 
+![Diagrama comparativo: o passaporte usado no pedido mantém a ETA ligada a esse caderno, por isso viaja normalmente, enquanto um passaporte novo ou renovado não transfere a ligação e precisa de uma nova ETA antes de voar, e cada viajante precisa da sua própria, crianças incluídas](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-pt.jpg) A autorização está ligada ao caderno, não a si - e cada viajante tem a sua própria.
+
 1. A data de validade do seu passaporte está a aproximar-se.
 2. Candidata-se à renovação do passaporte no seu país de origem.
 3. O novo passaporte chega (os prazos de processamento variam, consulte o [guia sobre prazos de renovação de passaporte](https://traveldocumentvault.com/pt/blog/how-long-does-passport-renewal-take/)).

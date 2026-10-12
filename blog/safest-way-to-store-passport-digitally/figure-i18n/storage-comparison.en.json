@@ -1,0 +1,52 @@
+{
+ "en": {
+  "template": "matrix",
+  "title": "Where should your passport live?",
+  "columns": [
+   "iCloud Photos",
+   "Google Photos",
+   "Encrypted vault"
+  ],
+  "highlight_col": 2,
+  "rows": [
+   {
+    "label": "End-to-end encrypted",
+    "cells": [
+     "optional",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "No account needed",
+    "cells": [
+     "cross",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "Works offline",
+    "cells": [
+     "tick",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "AES-256",
+    "cells": [
+     "optional",
+     "cross",
+     "tick"
+    ]
+   }
+  ],
+  "alt": "Hand-drawn comparison chart asking where should your passport live: iCloud Photos offers optional end-to-end encryption but needs an account and sync, Google Photos misses all four criteria, an encrypted vault ticks end-to-end, no account, works offline and AES-256",
+  "caption": "The comparison table above, redrawn at a glance.",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

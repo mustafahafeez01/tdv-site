@@ -31,6 +31,8 @@ Logiken är enkel: länder vill vara säkra på att du inte stannar kvar efter v
 
 **Regeln är inte universell.** Varje land sätter sina egna villkor, och kraven kan skilja sig åt beroende på din nationalitet. Ett bilateralt avtal mellan två länder kan göra undantag för medborgare i det ena landet men inte det andra. Det är precis det som gör det så lätt att missa om du inte kontrollerar det inför varje resa.
 
+![Tidslinjediagram över 6-månadersregeln för pass: du anländer, din resa, du flyger hem, därefter sex ytterligare månader som passet måste förbli giltigt genom; de flesta länder räknar från ankomstdagen och några från avresedagen, så att räkna från det senare datumet täcker båda](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/six-month-rule-figure-sv.jpg) De flesta länder räknar de sex månaderna från ankomstdagen - att räkna från det senare datumet täcker dig i båda fallen.
+
 ## Kan du resa med ett pass som går ut om 6 månader?
 
 Ibland, ja. Om ditt resmål bara kräver att passet är giltigt under vistelsen räcker fem månaders giltighet vanligtvis för att du ska släppas in. Storbritannien fungerar så för de flesta besökare, och Schengenländer kräver i allmänhet tre månader utöver din planerade avresa i stället för sex.

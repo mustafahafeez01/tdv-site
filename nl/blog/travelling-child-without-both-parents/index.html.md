@@ -46,6 +46,8 @@ Bewaar de gewaarmerkte kopie bij je paspoorten in plaats van in een apart dossie
 
 Het praktische antwoord blijft kort: één document, dicht bij de hand, en een proces dat meestal snel verdergaat zodra het is getoond.
 
+![Beslisboom die laat zien welk document je meeneemt afhankelijk van wie er niet meereist: een toestemmingsbrief voor de andere ouder, een voogdij- of gezagsbeschikking voor een ex zonder contact, een kopie van de overlijdensakte voor een overleden ouder, of toestemming van beiden plus een geboorteakte als beide ouders niet meereizen, met de aantekening om in elk geval de geboorteakte van het kind mee te nemen](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/who-is-missing-figure-nl.jpg) Vier situaties, vier documenten, en één geboorteakte die in alle gevallen helpt. Dit is onze inschatting van wat luchtvaartmaatschappijen en grensbeambten meestal vragen, geen juridische checklist. Vereisten verschillen per bestemming en maatschappij, controleer dus de immigratiedienst van je bestemming en je luchtvaartmaatschappij voordat je vertrekt.
+
 Dit is onze lezing van wat luchtvaartmaatschappijen en grensbeambten het vaakst vragen, geen juridische checklist. De eisen verschillen per bestemming en per maatschappij, dus controleer dit vóór vertrek bij de immigratiedienst van je bestemming en bij je luchtvaartmaatschappij.
 
 ## Een Andere Achternaam dan Je Kind: de Geboorteakte Beantwoordt Meestal de Vraag

@@ -36,6 +36,8 @@ Sommige EU-lidstaten hebben bilaterale afspraken met bepaalde niet-Europese land
 
 Binnen Europa hebben sommige landen bilaterale overeenkomsten die de acceptatie van identiteitskaarten verruimen ten opzichte van het standaard EU-kader. Deze overeenkomsten bestaan, maar ze kunnen complex zijn, dus het is vaak eenvoudiger om je paspoort mee te nemen naast je identiteitskaart wanneer je buiten je eigen land reist, zelfs als de wet zegt dat je kaart alleen voldoende is.
 
+![Diagram dat vergelijkt wanneer een nationale identiteitskaart meestal werkt, voor reizen binnen de EU en EER en Zwitserland, met wanneer je het paspoort meeneemt: de meeste reizen buiten Europa, een beschadigde kaart, of een luchtvaartmaatschappij die erom vraagt](https://traveldocumentvault.com/blog/national-id-card-travel-europe/id-card-or-passport-nl.jpg) Binnen de EU en EER werkt de kaart meestal; buiten Europa neem je het paspoort.
+
 ## Wat je moet controleren aan de kaart voordat je reist
 
 Een geldige vervaldatum is noodzakelijk, maar niet voldoende, want grensbeambten zijn getraind om documenten te weigeren die ze niet duidelijk kunnen lezen. Controleer je identiteitskaart voordat je gaat inpakken op dezelfde manier als grenspersoneel dat doet:

@@ -30,6 +30,8 @@ Alla registreras inte. EU-medborgare, personer bosatta i Schengenländer och inn
 
 Själva regeln har inte ändrats: du får vistas högst 90 dagar i Schengenområdet inom vilket rullande 180-dagarsfönster som helst. Det är inte 90 dagar per kalenderår, och fönstret nollställs inte när du lämnar området. För varje dag du befinner dig där får de föregående 180 dagarna inte innehålla mer än 90 dagars vistelse.
 
+![Tidslinjediagram över Schengens rullande 90/180-fönster: från 180 dagar sedan till i dag använder två resor på 30 och 45 dagar 75 av 90 dagar, vilket lämnar 15; fönstret glider varje dag och både ankomst- och avresedagen räknas](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-sv.jpg) Fönstret återställs aldrig: för varje enskild dag får de föregående 180 dagarna innehålla högst 90 dagars vistelse.
+
 Det som har förändrats är kontrollen. Med passtämplar innebar det att bevisa en överstigning att tyda blekt bläck, och gränspoliser hade eget bedömningsutrymme. Nu är datumen exakta, och systemet flaggar en överstigning i samma ögonblick den sker. Räkna med nekad inresa nästa gång, och i många fall ett inreseförbud på ett till fem år, som myndigheterna registrerar i Schengens informationssystem. Felmarginalen har gått från oskarp till obefintlig.
 
 ## Haken: EES kontrollerar, det planerar inte

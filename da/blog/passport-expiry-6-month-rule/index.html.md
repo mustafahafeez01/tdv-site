@@ -31,6 +31,8 @@ Logikken er enkel: lande vil have sikkerhed for, at du ikke overskrider dit visu
 
 **Reglen er ikke universel.** Hvert land sætter sine egne betingelser, og kravene kan variere afhængigt af din nationalitet. En bilateral aftale mellem to lande kan give dispensation for statsborgere i det ene land, men ikke det andet. Det er præcis, hvad der gør det så let at tage fejl uden at tjekke det før hver rejse.
 
+![Tidslinjediagram over 6-måneders-reglen for pas: du ankommer, din rejse, du flyver hjem, og derefter seks måneder mere, hvor passet skal forblive gyldigt; de fleste lande regner fra ankomstdagen, og nogle fra afrejsedagen, så det dækker begge at regne fra den seneste dato](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/six-month-rule-figure-da.jpg) De fleste lande regner de seks måneder fra ankomstdagen – at regne fra den seneste dato dækker dig begge veje.
+
 ## Kan du rejse med et pas, der udløber om 6 måneder?
 
 Nogle gange, ja. Hvis dit rejsemål kun kræver, at passet er gyldigt i opholdets varighed, er fem måneders gyldighed som regel nok til at komme ind. Storbritannien fungerer sådan for de fleste besøgende, og Schengenlande kræver generelt tre måneder ud over din planlagte afrejse i stedet for seks.

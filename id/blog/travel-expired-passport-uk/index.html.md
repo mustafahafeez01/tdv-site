@@ -32,6 +32,8 @@ Aturan ini berlaku untuk semua perjalanan internasional, baik penerbangan ke Ero
 
 Satu-satunya pengecualian adalah dokumen perjalanan darurat Inggris, yang diterbitkan oleh Kementerian Luar Negeri saat Anda sudah berada di luar negeri dalam keadaan darurat yang sebenarnya, dan bahkan pada saat itu dokumen tersebut hanya berfungsi untuk memulangkan Anda, bukan untuk mengizinkan perjalanan lebih lanjut.
 
+![Diagram pohon keputusan untuk paspor kedaluwarsa: perjalanan internasional ditandai tidak diperbolehkan dan mengarah ke pengajuan perpanjangan darurat, perjalanan domestik mengarah ke pemeriksaan dengan maskapai Anda dan menghubunginya sebelum bepergian, dengan catatan untuk selalu memastikan sebelum keberangkatan](https://traveldocumentvault.com/blog/travel-expired-passport-uk/passport-expiry-decision-tree-id.jpg) Dua jalan dari paspor kedaluwarsa - dan tidak satu pun berujung di gerbang keberangkatan.
+
 ## Bisakah Anda Memesan Liburan dengan Paspor yang Kedaluwarsa?
 
 Memesan tidak sama dengan naik pesawat.

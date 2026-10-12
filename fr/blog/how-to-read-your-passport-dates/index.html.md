@@ -30,6 +30,8 @@ La date d'expiration est la limite absolue, et c'est elle que mesurent les règl
 
 Si vous ne devez retenir qu'une chose de cette page, retenez cette asymétrie : la date de délivrance décrit le document, et la date d'expiration décrit combien de temps vous pouvez encore voyager avec.
 
+![Diagramme d'une page d'identité de passeport avec quatre champs : date de délivrance, date d'expiration, pays émetteur et numéro de passeport, avec la date d'expiration mise en avant car c'est à partir d'elle que se comptent la validité et la règle des 6 mois](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/data-page-figure-fr.jpg) Quatre champs, dont un seul mesure vraiment chaque règle d'entrée.
+
 ## Pourquoi votre passeport parle parfois de « date d'expédition »
 
 Beaucoup de gens cherchent ce que signifie « date d'expédition » sur un passeport, et la réponse est rassurante tant elle est banale : cela veut dire date de délivrance.

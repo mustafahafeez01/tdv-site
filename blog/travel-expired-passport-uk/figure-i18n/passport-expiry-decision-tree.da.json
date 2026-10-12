@@ -1,0 +1,40 @@
+{
+ "da": {
+  "template": "tree",
+  "title": "At rejse på et udløbet pas",
+  "root": {
+   "heading": "Rejsetype?"
+  },
+  "branches": [
+   {
+    "edge": "International",
+    "edge_mark": "cross",
+    "heading": "Ikke tilladt",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Ansøg om akut fornyelse"
+     }
+    ]
+   },
+   {
+    "edge": "Indenrigs",
+    "edge_mark": "question",
+    "heading": "Tjek med dit flyselskab",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Ring før din rejse"
+     }
+    ]
+   }
+  ],
+  "focal": "Bekræft altid før afrejse",
+  "alt": "Beslutningsdiagram for et udløbet pas: international rejse er markeret ikke tilladt og peger mod at ansøge om akut fornyelse, indenrigsrejse peger mod at tjekke med dit flyselskab og ringe før din rejse, med en note om altid at bekræfte før afrejse",
+  "caption": "De to veje fra et udløbet pas – og ingen af dem fører til afgangsgaten.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

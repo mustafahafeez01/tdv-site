@@ -33,6 +33,8 @@ A maioria dos países não exige visto de trânsito para o trânsito exclusivame
 
 A armadilha está no meio. Uma escala que parece airside no papel pode tornar-se landside na prática sem que dê por isso. Se a ligação for de um dia para o outro, o hotel do aeroporto costuma ficar fora da zona segura, por isso recolher a bagagem e fazer o check-in significa passar pela imigração. O mesmo acontece quando tem de mudar de terminal e não há ligação airside entre eles - sai e volta a passar pela segurança do outro lado. Em qualquer dos casos, uma ligação que presumia não exigir visto pode de repente passar a exigir um, por isso compensa verificar como a transferência funciona na prática, não apenas quanto tempo dura.
 
+![Diagrama que compara o trânsito airside, onde fica depois da segurança e não passa pela imigração, embora alguns países ainda exijam visto de trânsito, com o trânsito landside, onde sai da zona segura, passa pela imigração e geralmente precisa de visto](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/airside-vs-landside-pt.jpg) Airside fica no terminal; landside significa entrar no país.
+
 ## Quando Precisa Definitivamente de um Visto de Trânsito
 
 Os vistos de trânsito são obrigatórios em várias circunstâncias, e os requisitos variam significativamente consoante a sua nacionalidade e o país de trânsito.

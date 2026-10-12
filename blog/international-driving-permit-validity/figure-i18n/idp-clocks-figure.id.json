@@ -1,0 +1,47 @@
+{
+ "id": {
+  "template": "cards",
+  "title": "Jam mana yang habis lebih dulu?",
+  "cards": [
+   {
+    "heading": "Paspor",
+    "items": [
+     {
+      "text": "Biasanya 10 tahun",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "SIM",
+    "items": [
+     {
+      "text": "Berbeda tiap negara",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Izin mengemudi internasional",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "1 tahun, atau sampai 3",
+      "mark": "none"
+     },
+     {
+      "text": "Berakhir lebih cepat jika SIM kedaluwarsa dulu",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "focal": "Yang paling pendek yang menentukan",
+  "alt": "Diagram yang membandingkan tiga masa berlaku dokumen: paspor biasanya 10 tahun, SIM berbeda tiap negara, dan izin mengemudi internasional 1 tahun atau sampai 3, berakhir lebih cepat jika SIM kedaluwarsa dulu, sehingga yang paling pendek yang menentukan",
+  "caption": "Tiga dokumen, tiga jam. Izin ini dibatasi oleh yang mana pun yang habis lebih dulu.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

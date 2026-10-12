@@ -1,0 +1,49 @@
+{
+ "es": {
+  "template": "tree",
+  "title": "Renovación en curso: ¿puedes seguir viajando?",
+  "root": {
+   "heading": "¿Tienes el pasaporte en tu poder?"
+  },
+  "branches": [
+   {
+    "edge": "Sí",
+    "edge_mark": "tick",
+    "heading": "Viaja con él mientras siga siendo válido",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Renovación por correo en EE.UU."
+     },
+     {
+      "text": "Renovación digital del Reino Unido"
+     }
+    ]
+   },
+   {
+    "edge": "No",
+    "edge_mark": "cross",
+    "heading": "Entregado: esperas el nuevo",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Renovación postal del Reino Unido"
+     },
+     {
+      "text": "Australia"
+     },
+     {
+      "text": "Canadá"
+     }
+    ]
+   }
+  ],
+  "focal": "Ningún país te deja volar internacionalmente sin el pasaporte en mano",
+  "alt": "Árbol de decisión: ¿tienes el pasaporte en tu poder? Sí: viaja con él mientras siga siendo válido (renovación por correo en EE.UU., renovación digital del Reino Unido). No: entregado, esperas el nuevo (renovación postal del Reino Unido, Australia, Canadá). Ningún país te deja volar internacionalmente sin el pasaporte en mano",
+  "caption": "Una sola pregunta lo decide todo: si tu pasaporte antiguo sigue en tu poder.",
+  "placement": {
+   "h2": 2,
+   "para": 2
+  }
+ }
+}

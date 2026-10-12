@@ -58,6 +58,8 @@ Quand un hôtel demande votre copie de passeport, une ambassade a besoin de vos 
 
 C'est là que réside la vraie récompense : vous récupérez votre espace mental. La charge mentale invisible — ce bourdonnement constant de « est-ce que j'oublie quelque chose ? » — elle disparaît. L'application se souvient pour que vous n'ayez pas à le faire.
 
+![Diagramme de cinq applications éparpillées - photos, cloud, notes, e-mail, calendrier - convergeant vers un seul coffre, qui redonne des rappels d'expiration, le chiffrement et l'accès hors ligne : une application au lieu de cinq](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/scattered-to-single-vault-fr.jpg) Ce que le contrôle de 23h impliquait avant — et ce qu'il implique maintenant.
+
 ## Ce ne sont pas que les passeports
 
 Une fois que j'ai commencé à l'utiliser, j'ai remarqué combien d'autres documents expirent discrètement en arrière-plan.

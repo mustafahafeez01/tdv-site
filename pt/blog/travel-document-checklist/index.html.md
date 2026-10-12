@@ -36,6 +36,8 @@ Descubra se a nacionalidade do seu passaporte requer um visto para entrada, trâ
 
 Reserve o seguro de viagem quando reserva voos, não uma semana antes da partida. O seguro contratado após já ter identificado um risco pode excluir esse problema específico. Certifique-se de que a apólice cobre todos os viajantes, todos os destinos e as atividades que planeia fazer.
 
+![Diagrama cronológico de verificações de documentos de viagem: verifique as datas de validade na reserva, renove se necessário três meses antes, confirme e consolide um mês antes, verificação final na noite anterior](https://traveldocumentvault.com/blog/travel-document-checklist/checklist-timeline-pt.jpg) Quatro pontos de controlo entre a reserva e o embarque - cada um pequeno se começar com antecedência.
+
 ## Três Meses Antes: Se a Renovação ou um Visto Estiver Próximo, Comece Já
 
 Neste ponto ainda tem tempo para corrigir as coisas. Os tempos de renovação mudam, e cada autoridade publica a sua própria cifra atual: o Departamento de Estado dos EUA, o HM Passport Office e o Australian Passport Office. Sempre verifique o site oficial para os tempos actuais antes de candidatar-se.

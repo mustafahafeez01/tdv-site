@@ -1,0 +1,47 @@
+{
+ "nl": {
+  "template": "cards",
+  "title": "Welke klok loopt het eerst af?",
+  "cards": [
+   {
+    "heading": "Paspoort",
+    "items": [
+     {
+      "text": "Meestal 10 jaar",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Rijbewijs",
+    "items": [
+     {
+      "text": "Verschilt per land",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Internationaal rijbewijs",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "1 jaar, of tot 3",
+      "mark": "none"
+     },
+     {
+      "text": "Loopt eerder af als je rijbewijs eerst verloopt",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "focal": "De kortste bepaalt",
+  "alt": "Diagram dat drie geldigheidsperiodes vergelijkt: paspoort meestal 10 jaar, rijbewijs verschilt per land, en internationaal rijbewijs 1 jaar of tot 3, eerder afgelopen als het rijbewijs eerst verloopt, dus de kortste bepaalt",
+  "caption": "Drie documenten, drie klokken. Het internationale rijbewijs wordt begrensd door wat het eerst afloopt.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

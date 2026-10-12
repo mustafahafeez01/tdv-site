@@ -1,0 +1,45 @@
+{
+ "en": {
+  "template": "cards",
+  "title": "One identifies you, the other admits you",
+  "cards": [
+   {
+    "heading": "Passport",
+    "items": [
+     {
+      "text": "Your own country issues it"
+     },
+     {
+      "text": "Proves who you are"
+     },
+     {
+      "text": "Lets you leave home"
+     }
+    ]
+   },
+   {
+    "heading": "Visa",
+    "items": [
+     {
+      "text": "The destination issues it"
+     },
+     {
+      "text": "Grants permission to enter"
+     },
+     {
+      "text": "Only for that one country"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "note": "Most trips need both",
+  "focal": "A valid passport is not permission to enter",
+  "alt": "Comparison diagram of a passport and a visa: your own country issues the passport, it proves who you are and lets you leave home, while the destination issues the visa, which grants permission to enter and covers only that one country, with a note that most trips need both",
+  "caption": "Two documents, two jobs - and a valid passport on its own is not permission to enter.",
+  "placement": {
+   "h2": 5,
+   "para": 4
+  }
+ }
+}

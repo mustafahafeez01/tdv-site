@@ -1,0 +1,52 @@
+{
+ "it": {
+  "template": "cards",
+  "title": "Quattro campi sulla pagina dati",
+  "cards": [
+   {
+    "heading": "Data di rilascio",
+    "items": [
+     {
+      "text": "Il giorno in cui è stato stampato",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Data di scadenza",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "La validità si misura da qui",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Paese di rilascio",
+    "items": [
+     {
+      "text": "Chi lo sostituisce se va perso",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Numero di passaporto",
+    "items": [
+     {
+      "text": "Un nuovo libretto significa un nuovo numero",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagramma della pagina dati di un passaporto con quattro campi: data di rilascio, data di scadenza, paese di rilascio e numero di passaporto, con la data di scadenza evidenziata come quella da cui si contano la validità e la regola dei 6 mesi",
+  "caption": "Quattro campi, e uno solo è quello che ogni regola d'ingresso misura davvero.",
+  "focal": "La regola dei 6 mesi si conta a ritroso dalla data di scadenza",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

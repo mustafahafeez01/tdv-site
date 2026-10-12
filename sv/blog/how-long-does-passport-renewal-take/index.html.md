@@ -46,6 +46,8 @@ En brasklapp: behörighet för de snabbare vägarna beror oftast på din situati
 
 De flesta förseningar beror inte på att systemet generellt är långsamt. De beror på en liten uppsättning situationer som skjuter en ansökan ut ur snabbfilen och in i extra granskning, och det gäller oavsett vilket land du ansöker i.
 
+![Diagram över en ansökan som färdas till ett klart pass förbi sex fördröjningar: namnbyte, första vuxenpasset, en ansökan för ett barn, förlorat eller skadat, extra kontroller eller en intervju, och att ansöka från utlandet](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/passport-renewal-timeline-sv.jpg) Sex situationer drar en ansökan ur snabbfilen. En okomplicerad förnyelse undviker dem alla.
+
 - **Ett namnbyte.** Giftermål, skilsmässa eller ett juridiskt namnbyte innebär oftast extra dokumentation och ytterligare verifiering innan det nya passet kan utfärdas.
 - **Ett första vuxenpass.** Om det är första gången du ansöker som vuxen, eller du går från ett barnpass, kör de flesta myndigheter extra identitetskontroller eftersom det inte finns någon tidigare vuxenpasspost att stämma av mot.
 - **Ett barns pass.** Krav på föräldrars samtycke, personbevis och, i vissa länder, personlig närvaro från båda föräldrarna lägger till steg som vuxenförnyelser inte behöver.

@@ -1,0 +1,31 @@
+{
+ "es": {
+  "template": "sequence",
+  "title": "La regla de los 6 meses",
+  "subtitle": "Las aerolíneas lo comprueban en el check-in",
+  "steps": [
+   {
+    "text": "Llegas"
+   },
+   {
+    "text": "Tu viaje"
+   },
+   {
+    "text": "Vuelves a casa"
+   },
+   {
+    "label": "+ 6 meses",
+    "text": "Tu pasaporte debe seguir siendo válido hasta aquí"
+   }
+  ],
+  "highlight": 3,
+  "note": "La mayoría de los países cuentan desde el día que llegas, algunos desde el día que te vas",
+  "focal": "Cuenta desde la fecha más tardía: cubre ambos casos",
+  "alt": "Diagrama de la línea de tiempo de la regla de los 6 meses del pasaporte: llegas, tu viaje, vuelves a casa, y luego seis meses más durante los que el pasaporte debe seguir siendo válido; la mayoría de los países cuentan desde el día que llegas y algunos desde el día que te vas, así que contar desde la fecha más tardía cubre ambos casos",
+  "caption": "La mayoría de los países cuentan los seis meses desde el día que llegas: contar desde la fecha más tardía te cubre en cualquier caso.",
+  "placement": {
+   "h2": 2,
+   "para": 3
+  }
+ }
+}

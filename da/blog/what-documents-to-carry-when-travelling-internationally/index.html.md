@@ -46,6 +46,8 @@ Når et barn rejser internationalt med kun én forælder (eller med ingen af for
 
 Det er det oftest oversete dokument ved familierejser, så dobbelttjek det, før I når gaten.
 
+![Delt diagram: medbring i din håndbagage passet, visa og godkendelser, boardingkort og et samtykkebrev, hvis nødvendigt; gem offline på din telefon pasoplysninger, forsikringspolice og nødtelefonnummer, bookingreferencer og vaccinationscertifikater, fordi den ene er sikkerhedskopi for den anden, og hvis tasken forsvinder, får telefonkopien dig hjem](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/carry-or-store-figure-da.jpg) Originalerne rejser i din håndbagage; deres krypterede tvillinger ligger offline på din telefon.
+
 ## Hvad I skal have på jer kontra opbevare digitalt
 
 Grænserne vil se originaldokumenter, men forsvinder de originaler, er det sikre digitale backups, der bringer jer hjem.

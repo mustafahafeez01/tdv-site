@@ -1,0 +1,49 @@
+{
+ "en": {
+  "template": "tree",
+  "title": "Renewing: can you still travel?",
+  "root": {
+   "heading": "Is the passport still in your hands?"
+  },
+  "branches": [
+   {
+    "edge": "Yes",
+    "edge_mark": "tick",
+    "heading": "Travel on it while it stays valid",
+    "tone": "good",
+    "items": [
+     {
+      "text": "US mail-in renewal"
+     },
+     {
+      "text": "UK digital renewal"
+     }
+    ]
+   },
+   {
+    "edge": "No",
+    "edge_mark": "cross",
+    "heading": "Surrendered: you wait for the new one",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "UK postal renewal"
+     },
+     {
+      "text": "Australia"
+     },
+     {
+      "text": "Canada"
+     }
+    ]
+   }
+  ],
+  "focal": "No country lets you fly internationally without a passport in hand",
+  "alt": "Hand-drawn decision tree: is the passport still in your hands? Yes - travel on it while it stays valid (US mail-in renewal, UK digital renewal). No - surrendered, you wait for the new one (UK postal renewal, Australia, Canada). No country lets you fly internationally without a passport in hand",
+  "caption": "One question decides everything: whether your old passport is still in your possession.",
+  "placement": {
+   "h2": 2,
+   "para": 2
+  }
+ }
+}

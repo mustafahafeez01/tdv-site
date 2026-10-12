@@ -38,6 +38,8 @@ Autoverhuurbedrijven accepteren doorgaans digitale paspoortkopieën voor boeking
 
 Raakt je paspoort kwijt of wordt het gestolen tijdens je reis, dan kan een digitale kopie de procedure voor een nooddocument bij je ambassade aanzienlijk versnellen. Hij bewijst het bestaan van je paspoort en toont je persoonsgegevens, foto en paspoortnummer – alles wat de ambassade nodig heeft om een vervangend document uit te geven. Dit is een van de sterkste redenen om altijd een digitale back-up bij je te hebben.
 
+![Diagram van waar een digitale paspoortkopie werkt: meestal geen probleem bij inchecken in het hotel, vluchtboeking en autoverhuur; origineel vereist bij grenscontrole en instappen bij de luchtvaartmaatschappij](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-nl.jpg) Kort gezegd: een kopie opent deuren, alleen het origineel steekt de grens over.
+
 ## Waar je fysieke paspoort altijd vereist is
 
 Een digitale kopie is geen vervanging voor je fysieke paspoort bij immigratie, bij luchtvaartmaatschappijen of bij de politie. In deze situaties is het originele document simpelweg verplicht – daar is geen ontkomen aan.

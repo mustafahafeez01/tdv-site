@@ -35,6 +35,8 @@ O período de validade padrão para um passaporte de adulto é 10 anos a partir 
 
 A data exata de expiração está impressa na página de dados ao lado da sua fotografia. Essa data é o limite absoluto — o seu passaporte deixa de ser um documento de viagem válido em qualquer lugar do mundo após essa data.
 
+![Diagrama da validade do passaporte: um passaporte de adulto dura 10 anos, um de criança 5, e uma margem de 6 meses fica no final de ambos porque muitos países a exigem](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/passport-validity-timeline-pt.jpg) Dois relógios, uma pegadinha: a margem de 6 meses que muitos países exigem antes da data de validade.
+
 ## Válido e Válido para a Sua Viagem São Duas Coisas Diferentes
 
 Um passaporte pode ser tecnicamente válido — não expirado — e mesmo assim ser-lhe recusado o embarque. Há duas razões principais para isto acontecer.

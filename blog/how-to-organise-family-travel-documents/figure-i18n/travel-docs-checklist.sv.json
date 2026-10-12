@@ -1,0 +1,63 @@
+{
+ "sv": {
+  "template": "cards",
+  "title": "Familjens reselista",
+  "cards": [
+   {
+    "items": [
+     {
+      "text": "Pass",
+      "mark": "tick"
+     },
+     {
+      "text": "Visum",
+      "mark": "tick"
+     },
+     {
+      "text": "ID-kort",
+      "mark": "tick"
+     },
+     {
+      "text": "Reseförsäkring",
+      "mark": "tick"
+     },
+     {
+      "text": "Bokningar",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "items": [
+     {
+      "text": "Vaccinationer",
+      "mark": "tick"
+     },
+     {
+      "text": "Returbiljett",
+      "mark": "tick"
+     },
+     {
+      "text": "Födelsebevis",
+      "mark": "tick"
+     },
+     {
+      "text": "Samtyckesbrev",
+      "mark": "tick"
+     },
+     {
+      "text": "Vårdnadsbeslut",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "3+ månader före resan",
+  "alt": "Checklistediagram över tio resehandlingar för familjen: pass, visum, ID-kort, reseförsäkring, bokningar, vaccinationer, returbiljett, födelsebevis, samtyckesbrev och vårdnadsbeslut, med en notering om att börja 3+ månader före resan",
+  "caption": "Hela familjens lista - börja beta av den tre månader innan, inte veckan innan.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

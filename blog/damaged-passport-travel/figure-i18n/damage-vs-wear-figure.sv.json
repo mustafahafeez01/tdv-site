@@ -1,0 +1,13 @@
+{
+ "sv": {
+  "reuse": "/blog/damaged-passport-travel/damage-vs-wear-figure.jpg",
+  "width": 1536,
+  "height": 1024,
+  "alt": "Diagram med två öppna pass sida vid sida: ett slitet men plant och användbart, ett vattenskadat med buckliga sidor och lossnande laminering",
+  "caption": "Mindre skrynklor på omslaget: acceptabelt. Vattenskada på datasidan: ett problem.",
+  "placement": {
+   "h2": 2,
+   "para": 3
+  }
+ }
+}

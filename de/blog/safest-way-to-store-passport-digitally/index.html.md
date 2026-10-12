@@ -89,6 +89,8 @@ Mit Pro können Sie Dokumente zwischen eingerichteten Geräten derselben Plattfo
 
 ## Verschlüsselung, Konto und Kosten auf einen Blick
 
+![Vergleichsdiagramm zur Frage, wo Ihr Reisepass leben sollte: iCloud Fotos bietet optionale Ende-zu-Ende-Verschlüsselung, braucht aber ein Konto und Synchronisierung, Google Fotos erfüllt keines der vier Kriterien, ein verschlüsselter Tresor erfüllt Ende-zu-Ende, kein Konto, funktioniert offline und AES-256](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/storage-comparison-de.jpg) Die Vergleichstabelle von oben, noch einmal auf einen Blick.
+
 | Funktionalität | iCloud Fotos | Google Fotos | Verschlüsselte App |
 |---|---|---|---|
 | Verschlüsselung im Ruhezustand | Ja (AES-128) | Ja (AES-128) | Ja (AES-256) |

@@ -46,6 +46,8 @@ Source: https://traveldocumentvault.com/ja/blog/how-long-does-passport-renewal-t
 
 HM Passport Officeが英国のパスポート更新を処理しており、現在の処理時間をウェブサイトで公表しています。
 
+![申請から完成までの間にある6つの遅延要因を示す図:姓の変更、成人として初めての申請、子どもの申請、紛失または破損、追加確認や面談、海外からの申請](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/passport-renewal-timeline-ja.jpg) 6つの状況が申請を順調な流れから外す。通常の更新ならそのすべてを避けられる
+
 | サービスの種類 | 内容 |
 |---|---|
 | 標準(オンライン) | 追加の情報やインタビューが必要な場合はさらに長くなります。現在の時間はGOV.UKでご確認ください |

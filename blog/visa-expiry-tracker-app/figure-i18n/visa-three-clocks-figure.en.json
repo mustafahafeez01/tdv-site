@@ -1,0 +1,43 @@
+{
+ "en": {
+  "template": "matrix",
+  "title": "One visa, three different clocks",
+  "columns": [
+   "What it tells you"
+  ],
+  "rows": [
+   {
+    "label": "Entry validity",
+    "cells": [
+     "Enter before this date"
+    ]
+   },
+   {
+    "label": "Maximum stay",
+    "cells": [
+     "How long you may remain"
+    ]
+   },
+   {
+    "label": "Entry count",
+    "cells": [
+     "Single or multiple entries"
+    ]
+   },
+   {
+    "label": "Schengen adds a fourth",
+    "cells": [
+     "The rolling 90/180 window"
+    ]
+   }
+  ],
+  "note": "Track all of them per person, in one place",
+  "focal": "Overstays can mean fines and re-entry bans",
+  "alt": "Diagram of the three clocks on one visa: entry validity (enter before this date), maximum stay (how long you may remain), and entry count (single or multiple entries), with a note that Schengen adds a fourth, the rolling 90/180 window, and that overstays can mean fines and re-entry bans",
+  "caption": "A visa is not one date. It is three separate clocks, and sometimes a fourth.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

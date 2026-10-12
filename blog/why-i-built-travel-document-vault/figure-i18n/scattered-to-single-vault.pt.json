@@ -1,0 +1,27 @@
+{
+ "pt": {
+  "template": "hub",
+  "inputs": [
+   "Fotos",
+   "Nuvem",
+   "Notas",
+   "Email",
+   "Calendário"
+  ],
+  "hub": {
+   "heading": "Um cofre"
+  },
+  "outputs": [
+   "Avisos de validade",
+   "Encriptado",
+   "Offline"
+  ],
+  "focal": "Uma aplicação em vez de cinco",
+  "alt": "Diagrama de cinco aplicações dispersas - fotos, nuvem, notas, email, calendário - a convergir num só cofre, que devolve avisos de validade, encriptação e acesso offline: uma aplicação em vez de cinco",
+  "caption": "O que a verificação às 23h costumava envolver - e o que envolve agora.",
+  "placement": {
+   "h2": 3,
+   "para": 5
+  }
+ }
+}

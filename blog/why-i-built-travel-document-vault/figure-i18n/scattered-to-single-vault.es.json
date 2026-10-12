@@ -1,0 +1,27 @@
+{
+ "es": {
+  "template": "hub",
+  "inputs": [
+   "Fotos",
+   "Nube",
+   "Notas",
+   "Correo",
+   "Calendario"
+  ],
+  "hub": {
+   "heading": "Una bóveda"
+  },
+  "outputs": [
+   "Avisos de vencimiento",
+   "Cifrado",
+   "Sin conexión"
+  ],
+  "focal": "Una app en vez de cinco",
+  "alt": "Diagrama de cinco apps dispersas -fotos, nube, notas, correo, calendario- que convergen en una sola bóveda, de la que salen avisos de vencimiento, cifrado y acceso sin conexión: una app en vez de cinco",
+  "caption": "Lo que antes implicaba la comprobación de las 11 de la noche, y lo que implica ahora.",
+  "placement": {
+   "h2": 3,
+   "para": 5
+  }
+ }
+}

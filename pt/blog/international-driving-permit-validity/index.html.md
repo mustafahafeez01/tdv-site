@@ -36,6 +36,8 @@ Uma carta emitida ao abrigo da Convenção de Genebra de 1949 é válida durante
 
 Esta divisão importa por duas razões. Determina a duração da sua carta e decide onde é reconhecida. Um país que só ratificou uma das convenções não é obrigado a reconhecer uma carta emitida ao abrigo da outra, e é assim que uma carta aceite na viagem do ano passado é recusada nesta.
 
+![Diagrama que compara três prazos de validade: o passaporte normalmente 10 anos, a carta de condução varia por país, e a Carta de Condução Internacional 1 ano ou até 3, encurtada se a carta expirar primeiro, pelo que o mais curto decide](https://traveldocumentvault.com/blog/international-driving-permit-validity/idp-clocks-figure-pt.jpg) Três documentos, três relógios. A carta internacional fica limitada pelo que acabar primeiro.
+
 | Tipo de carta | Duração | O que a limita |
 |---|---|---|
 | **Convenção de Paris de 1926** | Um ano | A data de emissão. Raramente necessária atualmente |

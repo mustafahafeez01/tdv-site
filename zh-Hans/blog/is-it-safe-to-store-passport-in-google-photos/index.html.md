@@ -87,6 +87,8 @@ Apple 的 Advanced Data Protection（iOS 16.2+ 中提供）确实提高了门槛
 
 **Travel Document Vault** 使用强加密在设备端存储您的护照扫描件。无需账户。通过 Pro，您可以将加密副本备份到自己的 iCloud 或 Google Drive。请妥善保存恢复码：恢复备份时需要它。[在 App Store 上下载。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
+![示意图：护照照片暴露的信息包括姓名、出生日期、护照号码和照片，对应三项风险——账户被盗、第三方访问、数据索引，以及三种更安全的存放方式——开启ADP的iCloud、加密应用或离线副本](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/passport-data-risks-zh-Hans.jpg) 一张照片，四项数据，三个更安心的存放之处。
+
 ## 更安全的替代方案是什么
 
 如果您想在旅行时随时准备好数字护照副本——作为物理护照丢失或被盗的备份——有些选项可以为您提供真正的安全性而不会造成太多不便。

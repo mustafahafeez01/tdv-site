@@ -1,0 +1,33 @@
+{
+ "it": {
+  "template": "matrix",
+  "title": "Validità del passaporto",
+  "columns": [
+   "Passaporto adulto",
+   "Passaporto bambino"
+  ],
+  "rows": [
+   {
+    "label": "Validità",
+    "cells": [
+     "10 anni",
+     "5 anni"
+    ]
+   },
+   {
+    "label": "Margine di 6 mesi alla fine",
+    "cells": [
+     "tick",
+     "tick"
+    ]
+   }
+  ],
+  "focal": "Molti paesi richiedono il margine di 6 mesi",
+  "alt": "Diagramma della validità del passaporto: un passaporto adulto dura 10 anni, un passaporto bambino 5, e alla fine di entrambi c'è un margine di 6 mesi perché molti paesi lo richiedono",
+  "caption": "Due orologi, un'insidia: il margine di 6 mesi che molti paesi vogliono prima della tua data di scadenza.",
+  "placement": {
+   "h2": 2,
+   "para": 2
+  }
+ }
+}

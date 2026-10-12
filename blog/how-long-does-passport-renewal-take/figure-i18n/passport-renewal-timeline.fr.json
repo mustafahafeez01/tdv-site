@@ -1,0 +1,38 @@
+{
+ "fr": {
+  "template": "sequence",
+  "title": "Ce qui ralentit un renouvellement",
+  "subtitle": "Un renouvellement simple évite les six",
+  "steps": [
+   {
+    "text": "Changement de nom"
+   },
+   {
+    "text": "Premier passeport adulte"
+   },
+   {
+    "text": "Demande pour un enfant"
+   },
+   {
+    "text": "Perdu ou endommagé"
+   },
+   {
+    "text": "Vérifications ou entretien supplémentaires"
+   },
+   {
+    "text": "Demande depuis l'étranger"
+   }
+  ],
+  "start": "Demande",
+  "end": "Passeport",
+  "note": "Calculez à rebours depuis votre date de départ",
+  "focal": "Votre autorité de délivrance publie le délai actuel",
+  "alt": "Diagramme d'une demande qui avance vers un passeport finalisé en évitant six causes de retard : changement de nom, premier passeport adulte, demande pour un enfant, perte ou dommage, vérifications ou entretien supplémentaires, et demande depuis l'étranger",
+  "caption": "Six situations font sortir une demande de la voie rapide. Un renouvellement simple les évite toutes.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  },
+  "numbered": false
+ }
+}

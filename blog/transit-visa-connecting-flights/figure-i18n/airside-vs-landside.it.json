@@ -1,0 +1,52 @@
+{
+ "it": {
+  "template": "cards",
+  "title": "Airside o landside?",
+  "cards": [
+   {
+    "heading": "Airside",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Rimani oltre i controlli di sicurezza",
+      "mark": "dot"
+     },
+     {
+      "text": "Non passi per l'immigrazione",
+      "mark": "dot"
+     },
+     {
+      "text": "Alcuni paesi richiedono comunque un visto di transito",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Landside",
+    "items": [
+     {
+      "text": "Esci dalla zona sicura",
+      "mark": "dot"
+     },
+     {
+      "text": "Passi per l'immigrazione",
+      "mark": "dot"
+     },
+     {
+      "text": "Di solito serve un visto",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "o",
+  "focal": "Verifica il paese in cui fai lo scalo",
+  "alt": "Diagramma che confronta il transito airside, in cui rimani oltre i controlli di sicurezza e non passi per l'immigrazione anche se alcuni paesi richiedono comunque un visto di transito, con il transito landside, in cui esci dalla zona sicura, passi per l'immigrazione e di solito serve un visto",
+  "caption": "Airside resta nel terminal; landside significa entrare nel paese.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

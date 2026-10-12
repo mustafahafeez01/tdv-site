@@ -1,0 +1,30 @@
+{
+ "en": {
+  "template": "sequence",
+  "title": "Four checkpoints, booking to boarding",
+  "steps": [
+   {
+    "label": "Booking",
+    "text": "Check expiry dates"
+   },
+   {
+    "label": "3 months before",
+    "text": "Renew if needed"
+   },
+   {
+    "label": "1 month before",
+    "text": "Confirm and consolidate"
+   },
+   {
+    "label": "Night before",
+    "text": "Final check"
+   }
+  ],
+  "alt": "Timeline diagram of travel document checks: check expiry dates at booking, renew if needed three months before, confirm and consolidate one month before, final check the night before",
+  "caption": "Four checkpoints between booking and boarding - each one small if you start early.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

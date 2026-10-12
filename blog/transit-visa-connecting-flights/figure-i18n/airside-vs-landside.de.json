@@ -1,0 +1,52 @@
+{
+ "de": {
+  "template": "cards",
+  "title": "Airside oder Landside?",
+  "cards": [
+   {
+    "heading": "Airside",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Sie bleiben hinter der Sicherheitskontrolle",
+      "mark": "dot"
+     },
+     {
+      "text": "Sie durchlaufen keine Einreisekontrolle",
+      "mark": "dot"
+     },
+     {
+      "text": "Manche Länder verlangen trotzdem ein Transitvisum",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Landside",
+    "items": [
+     {
+      "text": "Sie verlassen die Sicherheitszone",
+      "mark": "dot"
+     },
+     {
+      "text": "Sie durchlaufen die Einreisekontrolle",
+      "mark": "dot"
+     },
+     {
+      "text": "Ein Visum ist meist erforderlich",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "oder",
+  "focal": "Prüfen Sie das Transitland",
+  "alt": "Diagramm, das Airside-Transit, bei dem Sie hinter der Sicherheitskontrolle bleiben und keine Einreisekontrolle durchlaufen, obwohl manche Länder trotzdem ein Transitvisum verlangen, mit Landside-Transit vergleicht, bei dem Sie die Sicherheitszone verlassen, die Einreisekontrolle durchlaufen und meist ein Visum brauchen",
+  "caption": "Airside bleibt im Terminal; Landside bedeutet, ins Land einzureisen.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

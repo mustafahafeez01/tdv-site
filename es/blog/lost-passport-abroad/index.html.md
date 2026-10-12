@@ -28,6 +28,8 @@ Una copia en el teléfono es un registro, no una identificación.
 
 Conviene saber de antemano [dónde se acepta una copia digital del pasaporte y dónde sigue haciendo falta el original](https://traveldocumentvault.com/es/blog/digital-passport-copy-valid/).
 
+![Diagrama de los siete pasos tras perder un pasaporte en el extranjero: confirma que se ha perdido, presenta una denuncia policial, contacta con tu embajada, documento de viaje de emergencia, notifica a tu asegurador, revisa la situación de tu visado, vuelve a casa y luego renuévalo -con una nota para fotografiar tu pasaporte hoy, porque una copia de seguridad agiliza mucho el paso 4](https://traveldocumentvault.com/blog/lost-passport-abroad/lost-passport-7-steps-figure-es.jpg) Siete pasos tranquilos, en orden, y lo único que hay que hacer hoy, antes de necesitarlos.
+
 ## Paso 1: Confirma que el Pasaporte Realmente Se Fue
 
 Busca en todas partes antes de asumir lo peor —bolsillos de chaqueta, cada compartimento de bolsa, caja fuerte del hotel, el último taxi o restaurante. Si realmente se fue o fue robado, sigue con los pasos restantes sin demora.

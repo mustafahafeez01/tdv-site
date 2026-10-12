@@ -46,6 +46,8 @@ Als een kind internationaal met slechts één ouder reist (of met geen van beide
 
 Het is het meest over het hoofd geziene document bij gezinsreizen, dus controleer het dubbel voordat je bij de gate staat.
 
+![Gesplitst diagram: neem in je handbagage het paspoort, visa en goedkeuringen, instapkaarten en een toestemmingsbrief indien nodig; bewaar offline op je telefoon paspoortgegevens, verzekeringspolis en hulplijn, boekingsreferenties en vaccinatiebewijzen, omdat het ene de back-up is van het andere en als de tas kwijt is, de telefoonkopie je thuis brengt](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/carry-or-store-figure-nl.jpg) Originelen reizen in je handbagage; hun versleutelde tweelingen leven offline op je telefoon.
+
 ## Wat je meeneemt versus wat je digitaal bewaart
 
 Grenzen willen originele documenten zien, maar als die originelen kwijtraken, zijn het veilige digitale back-ups die je thuisbrengen.

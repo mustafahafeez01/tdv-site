@@ -1,0 +1,63 @@
+{
+ "de": {
+  "template": "cards",
+  "title": "Die Checkliste für den Zustimmungsbrief",
+  "cards": [
+   {
+    "heading": "Der Brief",
+    "items": [
+     {
+      "text": "Vollständiger Name des Kindes",
+      "mark": "tick"
+     },
+     {
+      "text": "Geburtsdatum",
+      "mark": "tick"
+     },
+     {
+      "text": "Reisepassnummer",
+      "mark": "tick"
+     },
+     {
+      "text": "Genaue Reisedaten",
+      "mark": "tick"
+     },
+     {
+      "text": "Reiseziele",
+      "mark": "tick"
+     },
+     {
+      "text": "Kontaktdaten des abwesenden Elternteils",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Häufigste Ablehnungsgründe",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Fehlende Angaben",
+      "mark": "cross"
+     },
+     {
+      "text": "Keine notarielle Beglaubigung",
+      "mark": "cross"
+     },
+     {
+      "text": "Veraltete Unterschriften",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "note": "Notariell beglaubigen lassen: viele Grenzen erwarten es",
+  "focal": "Ausdrucken und eine digitale Sicherung aufbewahren",
+  "alt": "Checklisten-Diagramm dazu, was ein Zustimmungsbrief für Kinderreisen enthalten muss: vollständiger Name des Kindes, Geburtsdatum, Reisepassnummer, genaue Reisedaten, Reiseziele und Kontaktdaten des abwesenden Elternteils, mit Hinweisen zur notariellen Beglaubigung, den häufigsten Ablehnungsgründen und dazu, ihn auszudrucken und eine digitale Sicherung aufzubewahren",
+  "caption": "Sechs Angaben, eine notarielle Beglaubigung und eine ausgedruckte Kopie erfüllen fast jede Grenzanforderung.",
+  "placement": {
+   "h2": 3,
+   "para": 4
+  }
+ }
+}

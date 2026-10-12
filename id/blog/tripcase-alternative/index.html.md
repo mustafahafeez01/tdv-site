@@ -50,6 +50,8 @@ Dokumen perjalanan memiliki bobot yang berbeda dibanding daftar putar musik yang
 
 TripCase menggabungkan beberapa tugas berbeda dalam satu aplikasi gratis. Tidak ada aplikasi saat ini yang mengerjakan semuanya dengan baik, jadi langkah jujurnya adalah memisahkan tugas-tugas tersebut dan memilih alat terbaik untuk masing-masing.
 
+![Diagram empat tugas TripCase setelah penghentian operasinya pada 1 April 2025: pemberitahuan penerbangan ke Flighty, itinerary ke TripIt, dokumen ke Travel Document Vault, berbagi perjalanan ke folder bersama](https://traveldocumentvault.com/blog/tripcase-alternative/tripcase-timeline-alternatives-id.jpg) Peta penggantinya sekilas: empat tugas, empat alat, masing-masing mengerjakan satu hal dengan baik.
+
 | Tugas | Yang dilakukan TripCase | Pengganti terbaik saat ini | Biaya |
 |---|---|---|---|
 | Notifikasi penerbangan | Keterlambatan, perubahan gerbang, pembatalan secara real-time | Flighty | Paket gratis; langganan berbayar tersedia |

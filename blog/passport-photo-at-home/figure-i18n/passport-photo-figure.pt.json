@@ -1,0 +1,64 @@
+{
+ "pt": {
+  "template": "cards",
+  "title": "Porque rejeitam fotos de passaporte",
+  "cards": [
+   {
+    "heading": "Rejeitadas",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Sombra detrás da cabeça",
+      "mark": "cross"
+     },
+     {
+      "text": "A sorrir",
+      "mark": "cross"
+     },
+     {
+      "text": "Brilho dos óculos",
+      "mark": "cross"
+     },
+     {
+      "text": "Cabelo sobre os olhos",
+      "mark": "cross"
+     },
+     {
+      "text": "Fundo estampado",
+      "mark": "cross"
+     },
+     {
+      "text": "Foto tirada muito perto",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Aceites",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Fundo liso",
+      "mark": "tick"
+     },
+     {
+      "text": "Expressão neutra",
+      "mark": "tick"
+     },
+     {
+      "text": "Luz uniforme",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "O seu gabinete de passaportes publica o tamanho exato",
+  "alt": "Diagrama de seis fotos de passaporte rejeitadas - sombra detrás da cabeça, a sorrir, brilho dos óculos, cabelo sobre os olhos, fundo estampado e foto tirada muito perto - ao lado de uma foto aceite com fundo liso, expressão neutra e luz uniforme",
+  "caption": "Seis formas de uma foto ser devolvida, e a única configuração que passa.",
+  "placement": {
+   "h2": 6,
+   "para": 0
+  }
+ }
+}

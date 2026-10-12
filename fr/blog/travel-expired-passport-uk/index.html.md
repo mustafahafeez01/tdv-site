@@ -32,6 +32,8 @@ Cette règle s'applique à tous les voyages internationaux, qu'il s'agisse de vo
 
 La seule exception est un document de voyage d'urgence britannique, émis par le Ministère des Affaires étrangères quand vous êtes déjà à l'étranger dans une situation véritablement urgente, et même dans ce cas, il n'existe que pour vous permettre de rentrer — pas de voyager ailleurs.
 
+![Arbre de décision pour un passeport expiré : le voyage international est marqué non autorisé et renvoie vers une demande de renouvellement urgent, le voyage national renvoie vers une vérification avec votre compagnie aérienne et un appel avant le départ, avec une note pour toujours vérifier avant le départ](https://traveldocumentvault.com/blog/travel-expired-passport-uk/passport-expiry-decision-tree-fr.jpg) Les deux chemins à partir d'un passeport expiré — et aucun des deux ne passe par la porte d'embarquement.
+
 ## Peut-on réserver des vacances avec un passeport expiré ?
 
 Réserver n'est pas la même chose qu'embarquer.

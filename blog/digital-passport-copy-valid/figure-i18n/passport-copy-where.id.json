@@ -1,0 +1,48 @@
+{
+ "id": {
+  "template": "cards",
+  "title": "Salinan digital: di mana ini berlaku",
+  "cards": [
+   {
+    "heading": "Biasanya diterima",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Check-in hotel",
+      "mark": "tick"
+     },
+     {
+      "text": "Pemesanan penerbangan",
+      "mark": "tick"
+     },
+     {
+      "text": "Sewa mobil",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Dokumen asli diperlukan",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Kontrol perbatasan",
+      "mark": "cross"
+     },
+     {
+      "text": "Naik pesawat",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "Salinan mendukung, paspor yang bepergian",
+  "alt": "Diagram tentang di mana salinan digital paspor berlaku: biasanya diterima untuk check-in hotel, pemesanan penerbangan, dan sewa mobil; dokumen asli diperlukan di kontrol perbatasan dan saat naik pesawat",
+  "caption": "Singkatnya - salinan membuka pintu, hanya yang asli yang melintasi perbatasan.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

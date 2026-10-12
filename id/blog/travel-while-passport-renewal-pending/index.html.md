@@ -24,6 +24,8 @@ Anda tidak bisa bepergian internasional tanpa paspor yang sah secara fisik ada d
 
 Apakah Anda masih memegang paspor itu sepenuhnya bergantung pada negara dan metode perpanjangan Anda.
 
+![Diagram pohon keputusan: apakah paspor masih ada di tangan Anda? Ya - bepergian dengannya selama masih berlaku (perpanjangan lewat pos AS, perpanjangan digital Inggris). Tidak - diserahkan, Anda menunggu yang baru (perpanjangan pos Inggris, Australia, Kanada). Tidak ada negara yang mengizinkan Anda terbang internasional tanpa paspor di tangan](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-id.jpg) Satu pertanyaan yang menentukan segalanya: apakah paspor lama Anda masih Anda pegang.
+
 ## Amerika Serikat: Perpanjangan Lewat Pos
 
 Perpanjangan paspor AS standar lewat pos tidak mengharuskan Anda menyerahkan paspor Anda saat ini sebelum paspor baru tiba. Anda mengisi formulir DS-82, menyertakan paspor Anda yang masih berlaku, dan mengirim semuanya ke National Passport Processing Center. Paspor lama Anda dikembalikan bersama paspor baru, biasanya sudah dilubangi sebagai tanda dibatalkan.

@@ -36,6 +36,8 @@ Ein nach dem Genfer Abkommen von 1949 ausgestellter Führerschein ist ein Jahr g
 
 Dieser Unterschied zählt doppelt. Er legt fest, wie lange Ihr Führerschein gilt, und er bestimmt, wo der Führerschein anerkannt wird. Ein Land, das nur ein Abkommen ratifiziert hat, ist nicht verpflichtet, einen nach dem anderen ausgestellten Führerschein anzuerkennen – so kommt es, dass ein Führerschein, der letztes Jahr funktioniert hat, dieses Jahr abgelehnt wird.
 
+![Diagramm, das drei Gültigkeitsdauern vergleicht: Reisepass meist 10 Jahre, Führerschein je nach Land unterschiedlich, und Internationaler Führerschein 1 Jahr oder bis zu 3, verkürzt, falls der Führerschein zuerst abläuft, sodass die kürzeste Frist entscheidet](https://traveldocumentvault.com/blog/international-driving-permit-validity/idp-clocks-figure-de.jpg) Drei Dokumente, drei Uhren. Der internationale Führerschein wird von der Frist begrenzt, die zuerst abläuft.
+
 | Art des Führerscheins | Gültigkeitsdauer | Was sie begrenzt |
 |---|---|---|
 | **Pariser Abkommen von 1926** | Ein Jahr | Das Ausstellungsdatum. Heute selten benötigt |

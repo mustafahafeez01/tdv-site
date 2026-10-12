@@ -28,6 +28,8 @@ Una copia sul telefono è una registrazione, non un documento d'identità.
 
 Vale la pena sapere in anticipo [dove viene accettata una copia digitale del passaporto e dove serve ancora l'originale](https://traveldocumentvault.com/it/blog/digital-passport-copy-valid/).
 
+![Diagramma dei sette passi da seguire dopo aver perso il passaporto all'estero: confermare che sia davvero perso, presentare una denuncia alla polizia, contattare l'ambasciata, richiedere un documento di viaggio d'emergenza, informare l'assicurazione, verificare la situazione del visto, tornare a casa e poi sostituirlo - con la nota di fotografare il passaporto oggi, perché una copia di backup rende il quarto passo molto più rapido](https://traveldocumentvault.com/blog/lost-passport-abroad/lost-passport-7-steps-figure-it.jpg) Sette passi ordinati, in ordine - e la cosa da fare oggi, prima che servano.
+
 ## Passo 1: Conferma che il passaporto è davvero scomparso
 
 Controlli dappertutto prima di assumere il peggio — tasche della giacca, ogni scomparto della borsa, cassaforte dell'hotel, l'ultimo taxi o ristorante. Se è davvero scomparso o rubato, proceda attraverso i passaggi rimanenti senza ritardo.

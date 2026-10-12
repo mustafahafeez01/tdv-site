@@ -32,6 +32,8 @@ L'altra configurazione cifra il file sul tuo telefono prima ancora che venga inv
 
 Quindi la domanda da porsi a qualsiasi app è breve: **chi ha la chiave?** Tutto il resto del marketing discende da questa risposta.
 
+![Diagramma che confronta un backup foto, leggibile sul cloud perché l'azienda ha la chiave, e un backup cifrato, inutile senza la chiave che resta sul tuo telefono](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/encrypted-backup-figure-it.jpg) Stesso cloud, risposta diversa. Il file sale in entrambi i casi; cambia solo chi può aprirlo.
+
 ## Il codice di recupero e perché non possiamo reimpostarlo
 
 Travel Document Vault non richiede un account per conservare documenti sul dispositivo. Il [backup cloud](https://traveldocumentvault.com/it/cloud-backup/) facoltativo richiede Pro e il codice di recupero per sbloccare la chiave di cifratura cloud. L’app crea questo codice di 24 caratteri quando imposti il PIN. Il vault cifrato va poi al tuo **iCloud personale su iPhone e iPad, o al tuo Google Drive personale su Android**, non a noi.

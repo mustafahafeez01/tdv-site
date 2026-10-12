@@ -62,6 +62,8 @@ Almacena una copia física —o una foto de alta calidad de las páginas crític
 
 Una tarjeta escrita a mano funciona tan bien como una impresión: número de póliza, nombre del asegurador, línea de emergencia. Métela en la cartera del pasaporte y sobrevivirá a una batería agotada, un teléfono perdido y una caja fuerte del hotel que no puedes abrir.
 
+![Dos teléfonos idénticos uno junto al otro: el de la izquierda se ilumina con la póliza de seguro guardada en el dispositivo, el de la derecha está en gris con una rueda de carga y sin señal](https://traveldocumentvault.com/blog/travel-insurance-documents/saved-vs-searching-figure.jpg) Descargada y a mano, o todavía esperando en una bandeja de entrada a la que no puedes acceder. La diferencia se nota en el peor momento.
+
 ### Comparación de Almacenamiento de Documentos
 
 | Ubicación de Almacenamiento | Acceso Sin Internet | En una Emergencia | Respaldo si Pierdes el Teléfono |

@@ -1,0 +1,31 @@
+{
+ "id": {
+  "template": "sequence",
+  "title": "Aturan 6 bulan",
+  "subtitle": "Maskapai memeriksa ini saat check-in",
+  "steps": [
+   {
+    "text": "Anda tiba"
+   },
+   {
+    "text": "Perjalanan Anda"
+   },
+   {
+    "text": "Anda terbang pulang"
+   },
+   {
+    "label": "+ 6 bulan",
+    "text": "Paspor Anda harus masih berlaku sampai di sini"
+   }
+  ],
+  "highlight": 3,
+  "note": "Sebagian besar negara menghitung dari hari Anda tiba, sebagian dari hari Anda berangkat",
+  "focal": "Hitung dari tanggal yang paling akhir: ini memenuhi keduanya",
+  "alt": "Diagram garis waktu aturan paspor 6 bulan: Anda tiba, perjalanan Anda, Anda terbang pulang, lalu enam bulan lagi yang harus dilalui paspor Anda dalam keadaan masih berlaku; sebagian besar negara menghitung dari hari Anda tiba dan sebagian dari hari Anda berangkat, sehingga menghitung dari tanggal yang paling akhir memenuhi keduanya",
+  "caption": "Sebagian besar negara menghitung enam bulan itu dari hari Anda tiba - menghitung dari tanggal yang paling akhir melindungi Anda dalam kedua kasus.",
+  "placement": {
+   "h2": 2,
+   "para": 3
+  }
+ }
+}

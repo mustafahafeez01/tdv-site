@@ -28,6 +28,8 @@ Hier slaan de meeste mensen onnodig in paniek: een omgekrulde hoek van de kaft i
 
 Het belangrijkste is dat de machineleesbare zone – de zwart-witte strook onderaan je gegevenspagina – intact blijft. Grensscanners kunnen deze mogelijk niet meer lezen zodra hij beschadigd is.
 
+![Twee open paspoorten naast elkaar: één versleten maar vlak en bruikbaar, één waterbeschadigd met gegolfde pagina's en loslatende lamineerlaag](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Kleine vouwen op de kaft: geen probleem. Waterschade op de gegevenspagina: wel een probleem.
+
 De reden dat dit ertoe doet, is dat **luchtvaartmaatschappijen aansprakelijk zijn als ze iemand met een ongeldig document laten instappen.** Stap je in met een beschadigd paspoort en word je aan de andere kant de toegang geweigerd, dan kunnen de autoriteiten de luchtvaartmaatschappij beboeten voor het vervoeren van jou. De maatschappij moet dan ook de kosten dragen om je terug naar huis te vliegen.
 
 Geen enkele gate agent zit te wachten op die rompslomp, dus ze kiezen resoluut voor de veilige kant.

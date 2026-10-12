@@ -1,0 +1,42 @@
+{
+ "it": {
+  "template": "cards",
+  "title": "La tua ETA è legata a un passaporto",
+  "cards": [
+   {
+    "heading": "Il passaporto con cui hai fatto domanda",
+    "tone": "good",
+    "items": [
+     {
+      "text": "L'ETA è collegata a questo libretto"
+     },
+     {
+      "text": "Viaggia normalmente",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Un passaporto nuovo o rinnovato",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Il collegamento non si trasferisce"
+     },
+     {
+      "text": "Richiedi una nuova ETA prima di volare"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "note": "Il rinnovo rompe il collegamento",
+  "focal": "Ogni persona in viaggio ne ha bisogno di una propria, bambini compresi",
+  "alt": "Diagramma di confronto: il passaporto con cui hai fatto domanda mantiene l'ETA collegata a quel libretto, così viaggi normalmente, mentre un passaporto nuovo o rinnovato non trasferisce il collegamento e serve una nuova ETA prima di volare, e ogni persona in viaggio ne ha bisogno di una propria, bambini compresi",
+  "caption": "L'autorizzazione è legata al libretto, non a te - e ogni viaggiatore porta la propria.",
+  "placement": {
+   "h2": 4,
+   "para": 3
+  }
+ }
+}

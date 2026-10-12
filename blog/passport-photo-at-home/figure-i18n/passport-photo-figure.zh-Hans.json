@@ -1,0 +1,64 @@
+{
+ "zh-Hans": {
+  "template": "cards",
+  "title": "护照照片为什么会被拒",
+  "cards": [
+   {
+    "heading": "被拒原因",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "头部后方有阴影",
+      "mark": "cross"
+     },
+     {
+      "text": "面带微笑",
+      "mark": "cross"
+     },
+     {
+      "text": "眼镜反光",
+      "mark": "cross"
+     },
+     {
+      "text": "头发遮住眼睛",
+      "mark": "cross"
+     },
+     {
+      "text": "背景有图案",
+      "mark": "cross"
+     },
+     {
+      "text": "拍摄距离太近",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "合格标准",
+    "tone": "good",
+    "items": [
+     {
+      "text": "纯色背景",
+      "mark": "tick"
+     },
+     {
+      "text": "表情自然",
+      "mark": "tick"
+     },
+     {
+      "text": "光线均匀",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "护照机构会公布确切尺寸",
+  "alt": "手绘速写图：六张被拒的护照照片——头部后方有阴影、面带微笑、眼镜反光、头发遮住眼睛、背景有图案、拍摄距离太近——与一张合格照片对比，合格照片采用纯色背景、表情自然、光线均匀",
+  "caption": "六种被退回的原因，以及唯一能通过的拍摄方式。",
+  "placement": {
+   "h2": 6,
+   "para": 0
+  }
+ }
+}

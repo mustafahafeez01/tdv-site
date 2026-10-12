@@ -31,6 +31,8 @@ A lógica é simples: os países querem garantia de que não se ficará além do
 
 **A regra não é universal.** Cada país define os seus próprios termos, e os requisitos podem diferir com base na sua nacionalidade. Um acordo bilateral entre dois países pode dispensar a regra para cidadãos de um mas não do outro. É isto que torna tão fácil enganar-se sem verificar antes de cada viagem.
 
+![Diagrama cronológico da regra dos 6 meses do passaporte: chega, a sua viagem, volta para casa, e depois mais seis meses durante os quais o passaporte tem de continuar válido; a maioria dos países conta a partir do dia de chegada e alguns a partir do dia de partida, por isso contar a partir da data mais tardia cobre as duas situações](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/six-month-rule-figure-pt.jpg) A maioria dos países conta os seis meses a partir do dia de chegada - contar a partir da data mais tardia cobre-o de qualquer forma.
+
 ## Pode Viajar com um Passaporte Que Expira Dentro de 6 Meses?
 
 Às vezes, sim. Se o seu destino apenas exigir que o passaporte se mantenha válido durante a sua estadia, cinco meses de validade normalmente são suficientes para entrar. O Reino Unido funciona assim para a maioria dos visitantes, e os países Schengen geralmente pedem três meses além da partida planeada, em vez de seis.

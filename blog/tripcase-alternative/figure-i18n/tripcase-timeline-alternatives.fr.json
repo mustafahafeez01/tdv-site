@@ -1,0 +1,58 @@
+{
+ "fr": {
+  "template": "tree",
+  "title": "Une application devenue quatre tâches",
+  "root": {
+   "heading": "TripCase",
+   "text": "Fermé le 1er avril 2025"
+  },
+  "branches": [
+   {
+    "heading": "Alertes de vol",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Flighty",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Itinéraire",
+    "tone": "good",
+    "items": [
+     {
+      "text": "TripIt",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Documents",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Travel Document Vault",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Partage de voyage",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Dossier partagé",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagramme des quatre tâches de TripCase après sa fermeture le 1er avril 2025 : alertes de vol vers Flighty, itinéraire vers TripIt, documents vers Travel Document Vault, partage de voyage vers un dossier partagé",
+  "caption": "La carte de remplacement en un coup d'œil : quatre tâches, quatre outils, chacun excellant dans son rôle.",
+  "placement": {
+   "h2": 5,
+   "para": 1
+  }
+ }
+}

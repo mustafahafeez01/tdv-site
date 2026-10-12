@@ -1,0 +1,49 @@
+{
+ "da": {
+  "template": "tree",
+  "root": {
+   "heading": "Hvem rejser ikke med?"
+  },
+  "branches": [
+   {
+    "heading": "Den anden forælder",
+    "items": [
+     {
+      "text": "Samtykkebrev"
+     }
+    ]
+   },
+   {
+    "heading": "En eks uden kontakt",
+    "items": [
+     {
+      "text": "Forældremyndighed eller retsafgørelse"
+     }
+    ]
+   },
+   {
+    "heading": "En forælder, der er død",
+    "items": [
+     {
+      "text": "Kopi af dødsattest"
+     }
+    ]
+   },
+   {
+    "heading": "Begge forældre",
+    "items": [
+     {
+      "text": "Samtykke fra begge, plus fødselsattest"
+     }
+    ]
+   }
+  ],
+  "focal": "Medbring barnets fødselsattest uanset hvad",
+  "alt": "Beslutningsdiagram, der viser, hvilket dokument der skal medbringes afhængigt af, hvem der ikke rejser med: et samtykkebrev for den anden forælder, en forældremyndighedsafgørelse eller retsafgørelse for en eks uden kontakt, en kopi af dødsattesten for en forælder, der er død, eller samtykke fra begge plus en fødselsattest, når begge forældre ikke rejser med, med en note om at medbringe barnets fødselsattest uanset hvad",
+  "caption": "Fire situationer, fire dokumenter, og én fødselsattest, der hjælper i alle af dem. Dette er vores vurdering af, hvad flyselskaber og grænsemyndigheder oftest spørger efter, ikke en juridisk tjekliste. Kravene varierer efter destination og luftfartsselskab, så tjek destinationens indvandringsmyndighed og dit flyselskab, før du rejser.",
+  "placement": {
+   "h2": 5,
+   "para": 3
+  }
+ }
+}

@@ -33,6 +33,8 @@ Tidak ada satu pun pendekatan yang selalu "salah", tetapi untuk dokumen identita
 
 Kebocoran pada aplikasi berbasis perangkat tidak membocorkan apa pun dari server mereka, karena memang tidak ada apa pun di sana untuk dibocorkan.
 
+![Diagram yang membandingkan dua model penyimpanan untuk aplikasi pengatur paspor: di perangkat berarti data Anda tetap bersama Anda, unggah ke cloud berarti mempercayai server, dan penyimpanan di perangkat juga berfungsi offline](https://traveldocumentvault.com/blog/best-passport-organizer-app/app-storage-compare-id.jpg) Satu pilihan arsitektur yang menentukan segalanya tentang aplikasi paspor.
+
 ## Fitur-Fitur Ini Menentukan Apakah Aplikasi Layak Dipakai
 
 ### Waktu tenggang pengingat adalah pengaturan yang layak Anda sesuaikan

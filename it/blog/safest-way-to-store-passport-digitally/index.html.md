@@ -89,6 +89,8 @@ Con Pro puoi sincronizzare i documenti tra dispositivi configurati sulla stessa 
 
 ## Crittografia, Account e Costo in Sintesi
 
+![Diagramma di confronto su dove dovrebbe stare il tuo passaporto: iCloud Photos offre crittografia end-to-end opzionale ma richiede account e sincronizzazione, Google Photos non soddisfa nessuno dei quattro criteri, un vault crittografato soddisfa end-to-end, nessun account, funziona offline e AES-256](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/storage-comparison-it.jpg) La tabella di confronto qui sopra, in un colpo d'occhio.
+
 | Funzionalità | iCloud Photos | Google Photos | App Crittografata |
 |---|---|---|---|
 | Crittografia a riposo | Sì (AES-128) | Sì (AES-128) | Sì (AES-256) |

@@ -24,6 +24,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-while-passport-renew
 
 你是否仍然拥有该护照完全取决于你的国家和你的更新方法。
 
+![手绘决策树：护照是否仍在您手中？是——有效期内可继续使用（美国邮寄续签、英国数字续签）。否——已上交，等待新护照签发（英国邮寄续签、澳大利亚、加拿大）。没有国家允许在没有护照在手的情况下进行国际飞行](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-zh-Hans.jpg) 一个问题决定一切：旧护照是否还在您手中。
+
 ## 美国：邮件更新
 
 通过邮件进行的标准美国护照更新不要求你在新护照到达之前上交现有护照。你填写 DS-82 表格，附上你现有的护照，并将所有内容寄到国家护照处理中心。你的旧护照与新护照一起归还给你，通常用打孔标记作废。

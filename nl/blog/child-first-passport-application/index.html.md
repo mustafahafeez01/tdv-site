@@ -48,6 +48,8 @@ Paspoortinstanties willen drie dingen zien als je het eerste paspoort van een ki
 
 ## Baby's kunnen de fotoregels voor volwassenen niet volgen, dus pas je ze aan
 
+![Diagram van wat gelijk blijft op een babypaspoortfoto (ogen open, effen achtergrond, niets anders in beeld) en wat verandert per leeftijdsgroep, van onder 6 maanden tot 2 jaar en ouder, met de meest voorkomende afwijzingsredenen](https://traveldocumentvault.com/blog/child-first-passport-application/baby-photo-figure-nl.jpg)
+
 Dit is waar veel eerste aanvragen misgaan. Een baby of klein kind kan de fotoregels niet volgen zoals een volwassene: baby's kunnen niet zelf rechtop zitten, peuters kunnen niet stilzitten of instructies begrijpen, en pasgeborenen kunnen niet op commando naar de camera kijken. De paspoortfotostandaarden zijn geschreven voor volwassenen, en je moet begrijpen hoe je ze aanpast als het onderwerp een kind is dat 5 kilo weegt en voortdurend beweegt.
 
 **De basisregels blijven hetzelfde:** de ogen van het kind moeten duidelijk open zijn en naar de camera kijken, met een effen achtergrond achter het hoofd en verder niets in beeld. Wat verandert, is hoe je dat voor elkaar krijgt.

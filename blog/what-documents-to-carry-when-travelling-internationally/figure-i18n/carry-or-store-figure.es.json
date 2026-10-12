@@ -1,0 +1,59 @@
+{
+ "es": {
+  "template": "cards",
+  "title": "¿Llevarlo o guardarlo?",
+  "cards": [
+   {
+    "heading": "En tu equipaje de mano",
+    "items": [
+     {
+      "text": "Pasaporte",
+      "mark": "tick"
+     },
+     {
+      "text": "Visados y autorizaciones",
+      "mark": "tick"
+     },
+     {
+      "text": "Tarjetas de embarque",
+      "mark": "tick"
+     },
+     {
+      "text": "Carta de consentimiento si procede",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Sin conexión en tu teléfono",
+    "items": [
+     {
+      "text": "Datos del pasaporte",
+      "mark": "tick"
+     },
+     {
+      "text": "Póliza de seguro y teléfono de emergencia",
+      "mark": "tick"
+     },
+     {
+      "text": "Referencias de reserva",
+      "mark": "tick"
+     },
+     {
+      "text": "Certificados de vacunación",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "and",
+  "note": "Uno respalda al otro",
+  "focal": "Si pierdes la maleta, la copia del teléfono te lleva a casa",
+  "alt": "Diagrama dividido: en tu equipaje de mano lleva el pasaporte, visados y autorizaciones, tarjetas de embarque y una carta de consentimiento si procede; sin conexión en tu teléfono guarda los datos del pasaporte, la póliza de seguro y el teléfono de emergencia, las referencias de reserva y los certificados de vacunación, porque uno respalda al otro y si pierdes la maleta la copia del teléfono te lleva a casa",
+  "caption": "Los originales viajan en tu equipaje de mano; sus copias cifradas viven sin conexión en tu teléfono.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

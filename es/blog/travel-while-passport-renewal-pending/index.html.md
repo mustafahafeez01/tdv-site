@@ -24,6 +24,8 @@ No puedes viajar internacionalmente sin un pasaporte válido físicamente en tu 
 
 Si aún tienes ese pasaporte depende enteramente de tu país y tu método de renovación.
 
+![Árbol de decisión: ¿tienes el pasaporte en tu poder? Sí: viaja con él mientras siga siendo válido (renovación por correo en EE.UU., renovación digital del Reino Unido). No: entregado, esperas el nuevo (renovación postal del Reino Unido, Australia, Canadá). Ningún país te deja volar internacionalmente sin el pasaporte en mano](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-es.jpg) Una sola pregunta lo decide todo: si tu pasaporte antiguo sigue en tu poder.
+
 ## Estados Unidos: Renovación por correo
 
 La renovación estándar de pasaporte estadounidense por correo no requiere que entregues tu pasaporte actual antes de que llegue el nuevo. Completas el formulario DS-82, incluyes tu pasaporte existente y envías todo por correo al National Passport Processing Center. Tu pasaporte antiguo te es devuelto junto con el nuevo, típicamente cancelado con un agujero de perforación.

@@ -19,6 +19,8 @@ Source: https://traveldocumentvault.com/es/blog/passport-expired-what-to-do/
 
 Descubrir que tu pasaporte está caducado es uno de esos momentos en los que el tiempo se vuelve repentinamente muy real. Ya sea que lo hayas visto tres meses antes de un viaje o que estés de pie en el mostrador de facturación del aeropuerto en este momento, lo que sucede después depende completamente de en cuál situación te encuentres.
 
+![Diagrama de ramas para un pasaporte caducado: en casa con un viaje próximo, reserva una renovación urgente ya que hay citas el mismo día en Reino Unido y de emergencia en EE.UU.; en el aeropuerto, llama primero a tu aerolínea porque algunas reprograman gratis en emergencias. La solución real es un aviso a los 12 meses, no a los 6, porque caducado significa que no vuelas](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-es.jpg) El mismo problema, dos planes muy distintos: todo depende de dónde estés cuando te enteras.
+
 ## Escenario A: Lo Descubriste en Casa, con un Viaje Próximo
 
 Esta situación es recuperable —pero qué tan recuperable depende de cuánto tiempo tengas antes de viajar.

@@ -38,6 +38,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/digital-passport-copy-valid
 
 如果您的护照在旅行时丢失或被盗，数字副本可以大大加快您大使馆的紧急旅行证件流程。它证明了您的护照存在，并提供了大使馆签发替代证件所需的您的生物信息、照片和护照号码。这是始终携带数字备份的最强理由之一。
 
+![数字护照副本适用范围示意图：酒店入住、机票预订和租车通常可以使用，边境过境和航空公司登机则需要原件](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-zh-Hans.jpg) 简单说：副本能开门，只有原件能过境。
+
 ## 您的实体护照始终是必需的地方
 
 数字副本不是您在移民、航空公司或执法部门的实体护照的替代品。在这些情况下，原始证件是简单的强制性——没有办法绕过它。

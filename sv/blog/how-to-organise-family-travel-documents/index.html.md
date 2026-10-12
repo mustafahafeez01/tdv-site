@@ -53,6 +53,8 @@ Ett giltigt samtyckesbrev bör innehålla: barnets fullständiga namn och födel
 
 **Andra handlingar värda att ha nära till hands**
 
+![Checklistediagram över tio resehandlingar för familjen: pass, visum, ID-kort, reseförsäkring, bokningar, vaccinationer, returbiljett, födelsebevis, samtyckesbrev och vårdnadsbeslut, med en notering om att börja 3+ månader före resan](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/travel-docs-checklist-sv.jpg) Hela familjens lista - börja beta av den tre månader innan, inte veckan innan.
+
 - Internationellt körkort (om ni hyr bil utomlands)
 - Journaler eller receptuppgifter för pågående behandlingar
 - Europeiskt sjukförsäkringskort (EHIC) för EU-resenärer

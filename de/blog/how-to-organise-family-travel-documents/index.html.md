@@ -53,6 +53,8 @@ Ein gültiges Zustimmungsschreiben sollte folgende Angaben enthalten: den vollst
 
 **Andere Dokumente, die es wert sind, leicht zugänglich zu sein**
 
+![Checklisten-Diagramm zu zehn Reisedokumenten für Familien: Reisepässe, Visa, Personalausweise, Reiseversicherung, Buchungen, Impfungen, Rückflugticket, Geburtsurkunden, Zustimmungsbrief und Sorgerechtsbeschlüsse, mit dem Hinweis, 3+ Monate vor der Reise zu beginnen](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/travel-docs-checklist-de.jpg) Die vollständige Familienliste – fangen Sie drei Monate vorher an abzuhaken, nicht erst die Woche davor.
+
 - Internationaler Führerschein (wenn Sie einen Wagen im Ausland mieten)
 - Medizinische Unterlagen oder Rezeptdetails für laufende Erkrankungen
 - Europäische Krankenversicherungskarte (EHIC) für EU-Reisende

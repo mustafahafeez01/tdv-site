@@ -1,0 +1,41 @@
+{
+ "fr": {
+  "template": "tree",
+  "root": {
+   "heading": "Qui détient la clé ?"
+  },
+  "branches": [
+   {
+    "edge": "Leur clé",
+    "edge_mark": "cross",
+    "heading": "Sauvegarde photo",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Lisible par qui accède au compte",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "edge": "Votre clé, reste sur le téléphone",
+    "edge_mark": "tick",
+    "heading": "Sauvegarde chiffrée",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Inutilisable sans la clé",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Même cloud, réponse différente",
+  "alt": "Diagramme comparant une sauvegarde photo, lisible dans le cloud car l'entreprise détient la clé, et une sauvegarde chiffrée, inutilisable sans la clé qui reste sur votre téléphone",
+  "caption": "Même cloud, réponse différente. Le fichier part dans les deux cas ; ce qui change, c'est qui peut l'ouvrir.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

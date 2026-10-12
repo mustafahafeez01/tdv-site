@@ -34,6 +34,8 @@ Sebagian besar wisatawan sudah menyerap gagasan bahwa paspor perlu masa berlaku 
 
 Panduan kami tentang [aturan 6 bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/) membahas negara mana yang benar-benar menerapkannya. [Penjelasan masa berlaku paspor](https://traveldocumentvault.com/id/blog/how-long-is-passport-valid-for-travel/) kami membahas kasus umum. Di sini kami tetap fokus pada Schengen, karena di situlah keluarga paling sering salah hitung secara halus.
 
+![Diagram empat tanggal kedaluwarsa paspor satu keluarga secara berurutan: anak 2 berlaku sampai 2027, anak 1 sampai 2028, ibu sampai 2030, ayah sampai 2032; tanggal paling awal yang menentukan perjalanan, paspor anak berlaku 5 tahun bukan 10, dan Schengen mensyaratkan sisa 3 bulan setelah Anda berangkat](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/family-expiry-dates-figure-id.jpg) Empat paspor, empat jam - dan yang paling pendek yang menentukan tenggat waktu sesungguhnya bagi keluarga.
+
 ## Paspor Anak Berjalan dengan Jam yang Lebih Cepat
 
 Paspor dewasa biasanya berlaku 10 tahun; paspor anak hanya lima. Ketidaksimetrisan itulah tempat rencana yang sebenarnya hati-hati jadi berantakan.

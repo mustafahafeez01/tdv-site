@@ -1,0 +1,49 @@
+{
+ "da": {
+  "template": "tree",
+  "title": "Fornyelse: kan du stadig rejse?",
+  "root": {
+   "heading": "Har du stadig passet i hånden?"
+  },
+  "branches": [
+   {
+    "edge": "Ja",
+    "edge_mark": "tick",
+    "heading": "Rejs på det, så længe det er gyldigt",
+    "tone": "good",
+    "items": [
+     {
+      "text": "USA's fornyelse via post"
+     },
+     {
+      "text": "Storbritanniens digitale fornyelse"
+     }
+    ]
+   },
+   {
+    "edge": "Nej",
+    "edge_mark": "cross",
+    "heading": "Afleveret: du venter på det nye",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Storbritanniens postfornyelse"
+     },
+     {
+      "text": "Australien"
+     },
+     {
+      "text": "Canada"
+     }
+    ]
+   }
+  ],
+  "focal": "Intet land lader dig flyve internationalt uden et pas i hånden",
+  "alt": "Beslutningsdiagram: har du stadig passet i hånden? Ja – rejs på det, så længe det er gyldigt (USA's fornyelse via post, Storbritanniens digitale fornyelse). Nej – afleveret, du venter på det nye (Storbritanniens postfornyelse, Australien, Canada). Intet land lader dig flyve internationalt uden et pas i hånden",
+  "caption": "Ét spørgsmål afgør alt: om du stadig har dit gamle pas i din besiddelse.",
+  "placement": {
+   "h2": 2,
+   "para": 2
+  }
+ }
+}

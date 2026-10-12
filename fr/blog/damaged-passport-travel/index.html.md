@@ -28,6 +28,8 @@ C'est là que la plupart des gens paniquent inutilement : un coin corné sur la 
 
 Plus important encore, la zone de lecture optique — la bande noire et blanche en bas de votre page d'identité — doit rester intacte. Les scanners frontaliers peuvent devenir incapables de la lire une fois endommagée.
 
+![Deux passeports ouverts côte à côte : l'un usé mais plat et utilisable, l'autre taché par l'eau avec des pages gondolées et le laminage qui se décolle](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Pliures légères sur la couverture : acceptable. Dégât des eaux sur la page d'identité : un problème.
+
 Cela compte parce que **les compagnies aériennes portent la responsabilité si elles font embarquer une personne munie d'un document inacceptable.** Embarquez avec un passeport endommagé, voyez-vous refuser l'entrée à destination, et les autorités peuvent infliger une amende à la compagnie pour vous avoir transporté. La compagnie doit également couvrir le coût de votre rapatriement.
 
 Aucun agent d'embarquement ne souhaite cette paperasse, il préfère donc nettement la prudence.

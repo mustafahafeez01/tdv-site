@@ -34,6 +34,8 @@ EU の要件は明確です。パスポートは出国予定日から3ヶ月以�
 
 当社の[6ヶ月ルールガイド](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)は、どの国が実際にそれを実施しているかを説明しています。当社の[パスポート有効期間説明](https://traveldocumentvault.com/ja/blog/how-long-is-passport-valid-for-travel/)は一般的なケースを扱っています。ここではシェンゲン圏に焦点を当てています。これは家族がしばしば数学を微妙に誤解する場所です。
 
+![家族4人分のパスポート有効期限を順に示す図:子2は2027年まで、子1は2028年まで、母は2030年まで、父は2032年まで。最も早い日付が旅程を決め、子どものパスポートは5年で切れ、シェンゲンは出国後も3ヶ月の余裕を求めるという注記付き](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/family-expiry-dates-figure-ja.jpg) 4冊のパスポート、4つの時計。一番短いものが家族全体の本当の期限になる
+
 ## 子どものパスポートはより早く期限切れになる
 
 成人向けパスポートは一般的に10年間有効です。子ども向けは5年のみです。この非対称性は、多くの慎重に計画された計画がうまくいかない場所です。

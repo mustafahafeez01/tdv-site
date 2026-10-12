@@ -38,6 +38,8 @@ As empresas de aluguel de automóvel tipicamente aceitam cópias digitais de pas
 
 Se o seu passaporte for perdido ou roubado durante a viagem, uma cópia digital pode acelerar significativamente o processo de documento de viagem de emergência na sua embaixada. Prova a existência do seu passaporte e fornece a sua informação biográfica, fotografia e número de passaporte, tudo o que a embaixada precisa para emitir uma substituição. Esta é uma das razões mais fortes para sempre levar uma cópia de segurança digital.
 
+![Diagrama de onde funciona uma cópia digital do passaporte: geralmente aceite para check-in no hotel, reserva de voo e aluguer de carro; original exigido no controlo de fronteira e no embarque na companhia aérea](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-pt.jpg) Resumindo - uma cópia abre portas, só o original atravessa fronteiras.
+
 ## Onde o Seu Passaporte Físico É Sempre Obrigatório
 
 Uma cópia digital não é um substituto para o seu passaporte físico na imigração, com as companhias aéreas, ou com a aplicação da lei. Nestos cenários, o documento original é simplesmente obrigatório — não há forma de contornar isto.

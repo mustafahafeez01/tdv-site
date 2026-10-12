@@ -1,0 +1,33 @@
+{
+ "fr": {
+  "template": "matrix",
+  "title": "Durée de validité du passeport",
+  "columns": [
+   "Passeport adulte",
+   "Passeport enfant"
+  ],
+  "rows": [
+   {
+    "label": "Durée de validité",
+    "cells": [
+     "10 ans",
+     "5 ans"
+    ]
+   },
+   {
+    "label": "Marge de 6 mois à la fin",
+    "cells": [
+     "tick",
+     "tick"
+    ]
+   }
+  ],
+  "focal": "Beaucoup de pays exigent cette marge de 6 mois",
+  "alt": "Diagramme de la validité d'un passeport : un passeport adulte dure 10 ans, un passeport enfant 5 ans, et une marge de 6 mois s'ajoute à la fin des deux car de nombreux pays l'exigent",
+  "caption": "Deux horloges, un même piège : la marge de 6 mois que de nombreux pays attendent avant votre date d'expiration.",
+  "placement": {
+   "h2": 2,
+   "para": 2
+  }
+ }
+}

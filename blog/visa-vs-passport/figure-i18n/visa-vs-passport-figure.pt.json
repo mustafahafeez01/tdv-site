@@ -1,0 +1,45 @@
+{
+ "pt": {
+  "template": "cards",
+  "title": "Um identifica-o, o outro admite-o",
+  "cards": [
+   {
+    "heading": "Passaporte",
+    "items": [
+     {
+      "text": "Emitido pelo seu próprio país"
+     },
+     {
+      "text": "Prova quem é"
+     },
+     {
+      "text": "Permite sair do seu país"
+     }
+    ]
+   },
+   {
+    "heading": "Visto",
+    "items": [
+     {
+      "text": "Emitido pelo destino"
+     },
+     {
+      "text": "Dá permissão para entrar"
+     },
+     {
+      "text": "Só para esse país"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "note": "A maioria das viagens precisa de ambos",
+  "focal": "Um passaporte válido não é permissão para entrar",
+  "alt": "Diagrama comparativo entre um passaporte e um visto: o seu próprio país emite o passaporte, que prova quem é e permite sair do país, enquanto o destino emite o visto, que dá permissão para entrar e cobre só esse país, com uma nota de que a maioria das viagens precisa de ambos",
+  "caption": "Dois documentos, duas funções - e um passaporte válido por si só não é permissão para entrar.",
+  "placement": {
+   "h2": 5,
+   "para": 4
+  }
+ }
+}

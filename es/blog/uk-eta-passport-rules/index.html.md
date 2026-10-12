@@ -44,6 +44,8 @@ Cuando renuevas tu pasaporte, la autoridad de pasaportes de tu país te expide u
 
 Este es el calendario a tener en cuenta:
 
+![Diagrama comparativo: el pasaporte con el que solicitaste la ETA la mantiene vinculada a ese documento, así que viajas con normalidad; un pasaporte nuevo o renovado no mantiene el vínculo y necesita una ETA nueva antes de volar, y cada viajero necesita la suya, niños incluidos](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-es.jpg) La aprobación está vinculada al pasaporte, no a la persona, y cada viajero lleva la suya.
+
 1. Se acerca la fecha de caducidad de tu pasaporte.
 2. Solicitas la renovación de tu pasaporte en tu país.
 3. Llega tu nuevo pasaporte (los plazos de tramitación varían, consulta la [guía sobre los plazos de renovación de pasaporte](https://traveldocumentvault.com/es/blog/how-long-does-passport-renewal-take/)).

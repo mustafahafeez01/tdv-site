@@ -38,6 +38,8 @@ Le agenzie di auto a noleggio generalmente accettano copie digitali del passapor
 
 Se il Suo passaporto viene perso o rubato durante i Suoi viaggi, una copia digitale può accelerare significativamente il processo di documento di viaggio di emergenza presso la Sua ambasciata. Prova l'esistenza del Suo passaporto e fornisce i Suoi dati biografici, fotografia e numero del passaporto, tutto ciò di cui l'ambasciata ha bisogno per emettere un documento sostitutivo. Questo è uno dei motivi più forti per portare sempre con sé un backup digitale.
 
+![Diagramma di dove funziona una copia digitale del passaporto: di solito va bene per il check-in in hotel, la prenotazione del volo e l'autonoleggio; serve l'originale al controllo di frontiera e per l'imbarco aereo](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-it.jpg) In breve: la copia apre le porte, solo l'originale attraversa le frontiere.
+
 ## Dove il Suo Passaporto Fisico È Sempre Richiesto
 
 Una copia digitale non è un sostituto per il Suo passaporto fisico all'immigrazione, con le compagnie aeree, o con le forze dell'ordine. In questi scenari, il documento originale è semplicemente obbligatorio — non c'è via d'uscita.

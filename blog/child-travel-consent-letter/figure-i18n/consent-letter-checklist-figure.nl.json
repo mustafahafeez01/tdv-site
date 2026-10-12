@@ -1,0 +1,63 @@
+{
+ "nl": {
+  "template": "cards",
+  "title": "De checklist voor de toestemmingsbrief",
+  "cards": [
+   {
+    "heading": "De brief",
+    "items": [
+     {
+      "text": "Volledige naam van het kind",
+      "mark": "tick"
+     },
+     {
+      "text": "Geboortedatum",
+      "mark": "tick"
+     },
+     {
+      "text": "Paspoortnummer",
+      "mark": "tick"
+     },
+     {
+      "text": "Exacte reisdata",
+      "mark": "tick"
+     },
+     {
+      "text": "Bestemmingen",
+      "mark": "tick"
+     },
+     {
+      "text": "Contactgegevens van de afwezige ouder",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Belangrijkste afwijzingsredenen",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Ontbrekende gegevens",
+      "mark": "cross"
+     },
+     {
+      "text": "Geen notarisatie",
+      "mark": "cross"
+     },
+     {
+      "text": "Oude handtekeningen",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "note": "Laat hem notarieel vastleggen: veel grenzen verwachten dit",
+  "focal": "Print hem uit en bewaar een digitale back-up",
+  "alt": "Checklistdiagram van wat een toestemmingsbrief voor kinderreizen moet bevatten: volledige naam van het kind, geboortedatum, paspoortnummer, exacte reisdata, bestemmingen en de contactgegevens van de afwezige ouder, met aantekeningen om hem notarieel te laten vastleggen, de belangrijkste afwijzingsredenen, en om hem uit te printen en een digitale back-up te bewaren",
+  "caption": "Zes gegevens, één notarisatie en een geprinte kopie dekken bijna elke grensverwachting.",
+  "placement": {
+   "h2": 3,
+   "para": 4
+  }
+ }
+}

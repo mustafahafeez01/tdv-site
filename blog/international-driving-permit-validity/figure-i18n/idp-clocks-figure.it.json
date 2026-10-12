@@ -1,0 +1,47 @@
+{
+ "it": {
+  "template": "cards",
+  "title": "Quale orologio si ferma prima?",
+  "cards": [
+   {
+    "heading": "Passaporto",
+    "items": [
+     {
+      "text": "Di solito 10 anni",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Patente di guida",
+    "items": [
+     {
+      "text": "Varia da paese a paese",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Permesso di guida internazionale",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "1 anno, o fino a 3",
+      "mark": "none"
+     },
+     {
+      "text": "Finisce prima se la tua patente scade prima",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "focal": "Decide il più corto",
+  "alt": "Diagramma che confronta tre periodi di validità: il passaporto, di solito 10 anni, la patente di guida, che varia da paese a paese, e il permesso di guida internazionale, 1 anno o fino a 3, interrotto prima se la patente scade prima, quindi decide il più corto",
+  "caption": "Tre documenti, tre orologi. Il permesso è limitato da qualunque dei due finisca prima.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

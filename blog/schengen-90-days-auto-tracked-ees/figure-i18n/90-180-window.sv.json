@@ -1,0 +1,30 @@
+{
+ "sv": {
+  "template": "sequence",
+  "title": "Det rullande 90/180-fönstret",
+  "subtitle": "Fönstret glider varje dag",
+  "start": "180 dagar sedan",
+  "steps": [
+   {
+    "label": "Resa 1",
+    "text": "30 dagar"
+   },
+   {
+    "label": "Resa 2",
+    "text": "45 dagar"
+   },
+   {
+    "label": "I dag",
+    "text": "30 + 45 = 75 dagar använda, 15 av dina 90 kvar"
+   }
+  ],
+  "highlight": 2,
+  "focal": "Både ankomst- och avresedagen räknas",
+  "alt": "Tidslinjediagram över Schengens rullande 90/180-fönster: från 180 dagar sedan till i dag använder två resor på 30 och 45 dagar 75 av 90 dagar, vilket lämnar 15; fönstret glider varje dag och både ankomst- och avresedagen räknas",
+  "caption": "Fönstret återställs aldrig: för varje enskild dag får de föregående 180 dagarna innehålla högst 90 dagars vistelse.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  }
+ }
+}

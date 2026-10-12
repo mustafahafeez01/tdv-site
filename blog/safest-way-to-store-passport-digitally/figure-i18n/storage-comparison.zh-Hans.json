@@ -1,0 +1,52 @@
+{
+ "zh-Hans": {
+  "template": "matrix",
+  "title": "护照该存放在哪里？",
+  "columns": [
+   "iCloud Photos",
+   "Google Photos",
+   "加密保险库"
+  ],
+  "highlight_col": 2,
+  "rows": [
+   {
+    "label": "端到端加密",
+    "cells": [
+     "可选",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "无需账户",
+    "cells": [
+     "cross",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "离线可用",
+    "cells": [
+     "tick",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "AES-256",
+    "cells": [
+     "可选",
+     "cross",
+     "tick"
+    ]
+   }
+  ],
+  "alt": "手绘对比图，询问护照该存放在哪里：iCloud Photos提供可选的端到端加密，但需要账户并同步；Google Photos四项标准均未达到；加密保险库同时满足端到端加密、无需账户、离线可用和AES-256",
+  "caption": "上方对比表格的一目了然版。",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

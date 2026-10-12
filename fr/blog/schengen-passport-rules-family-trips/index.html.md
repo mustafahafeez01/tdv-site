@@ -34,6 +34,8 @@ La plupart des voyageurs absorbent l'idée que les passeports ont besoin de six 
 
 Notre guide sur [la règle des 6 mois](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/) couvre les pays qui l'appliquent réellement. Notre [expliquant sur la validité du passeport](https://traveldocumentvault.com/fr/blog/how-long-is-passport-valid-for-travel/) traite du cas général. Nous restons sur Schengen ici parce que c'est là que les familles se trompent le plus souvent sur les calculs.
 
+![Diagramme des quatre dates d'expiration d'une famille, dans l'ordre : enfant 2 valide jusqu'en 2027, enfant 1 jusqu'en 2028, maman jusqu'en 2030, papa jusqu'en 2032 ; la date la plus proche décide du voyage, les passeports d'enfants durent 5 ans et non 10, et Schengen exige 3 mois de validité restante après le retour](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/family-expiry-dates-figure-fr.jpg) Quatre passeports, quatre horloges — et la plus courte fixe la vraie limite de la famille.
+
 ## Les passeports des enfants fonctionnent sur une horloge plus rapide
 
 Les passeports pour adultes durent généralement 10 ans ; pour les enfants, seulement cinq ans. Cette asymétrie est l'endroit où de nombreux plans par ailleurs soigneux s'effondrent.

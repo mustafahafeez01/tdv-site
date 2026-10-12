@@ -1,0 +1,31 @@
+{
+ "nl": {
+  "template": "sequence",
+  "title": "De 6 maanden-regel",
+  "subtitle": "Luchtvaartmaatschappijen controleren dit bij het inchecken",
+  "steps": [
+   {
+    "text": "Je komt aan"
+   },
+   {
+    "text": "Je reis"
+   },
+   {
+    "text": "Je vliegt naar huis"
+   },
+   {
+    "label": "+ 6 maanden",
+    "text": "Je paspoort moet hier nog geldig zijn"
+   }
+  ],
+  "highlight": 3,
+  "note": "De meeste landen tellen vanaf de dag dat je aankomt, sommige vanaf de dag dat je vertrekt",
+  "focal": "Tel vanaf de latere datum: dat dekt beide",
+  "alt": "Tijdlijndiagram van de 6 maanden-paspoortregel: je komt aan, je reis, je vliegt naar huis, en dan nog zes maanden waarin het paspoort geldig moet blijven; de meeste landen tellen vanaf de dag van aankomst en sommige vanaf de dag van vertrek, dus tellen vanaf de latere datum dekt beide",
+  "caption": "De meeste landen tellen de zes maanden vanaf de dag dat je aankomt - tellen vanaf de latere datum dekt je in elk geval.",
+  "placement": {
+   "h2": 2,
+   "para": 3
+  }
+ }
+}

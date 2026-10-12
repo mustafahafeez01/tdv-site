@@ -1,0 +1,31 @@
+{
+ "fr": {
+  "template": "sequence",
+  "title": "La règle des 6 mois",
+  "subtitle": "Les compagnies aériennes vérifient à l'enregistrement",
+  "steps": [
+   {
+    "text": "Vous arrivez"
+   },
+   {
+    "text": "Votre séjour"
+   },
+   {
+    "text": "Vous rentrez"
+   },
+   {
+    "label": "+ 6 mois",
+    "text": "Votre passeport doit encore être valide ici"
+   }
+  ],
+  "highlight": 3,
+  "note": "La plupart des pays comptent depuis l'arrivée, certains depuis le départ",
+  "focal": "Comptez depuis la date la plus tardive : elle couvre les deux cas",
+  "alt": "Diagramme de la règle des 6 mois : vous arrivez, votre séjour, vous rentrez, puis six mois supplémentaires pendant lesquels le passeport doit rester valide ; la plupart des pays comptent depuis l'arrivée et certains depuis le départ, donc compter depuis la date la plus tardive couvre les deux cas",
+  "caption": "La plupart des pays comptent les six mois depuis l'arrivée - compter depuis la date la plus tardive vous couvre dans tous les cas.",
+  "placement": {
+   "h2": 2,
+   "para": 3
+  }
+ }
+}

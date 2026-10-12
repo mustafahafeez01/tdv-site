@@ -28,6 +28,8 @@ Source: https://traveldocumentvault.com/ko/blog/lost-passport-abroad/
 
 이 둘은 종종 혼동됩니다. [디지털 여권 사본이 인정되는 곳과 여전히 원본이 필요한 곳](https://traveldocumentvault.com/ko/blog/digital-passport-copy-valid/)을 미리 알아 두는 것이 좋습니다.
 
+![해외에서 여권을 분실했을 때 밟는 일곱 단계 경로를 보여주는 다이어그램: 정말 없는지 확인, 경찰에 신고, 대사관에 연락, 긴급 여행 증명서, 보험사에 통지, 비자 상황 확인, 귀국 후 재발급. 그 전에 오늘 여권을 사진으로 남겨두면 백업 사본으로 4단계가 훨씬 빨라진다는 메모가 있다](https://traveldocumentvault.com/blog/lost-passport-abroad/lost-passport-7-steps-figure-ko.jpg) 차분하게 밟는 일곱 단계, 그리고 그중 무엇도 필요하기 전에 오늘 해둘 단 한 가지.
+
 ## 1단계: 여권이 정말로 없는지 확인하세요
 
 최악을 가정하기 전에 모든 곳을 확인하세요. 재킷 주머니, 모든 가방 칸막이, 호텔 금고, 마지막으로 탔던 택시 또는 식당입니다. 정말로 없거나 도난당했다면, 나머지 단계를 지체하지 말고 진행하세요.

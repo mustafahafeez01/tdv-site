@@ -1,0 +1,29 @@
+{
+ "sv": {
+  "template": "tree",
+  "root": {
+   "heading": "Lagringsval"
+  },
+  "branches": [
+   {
+    "edge": "På enheten",
+    "edge_mark": "tick",
+    "heading": "Din data stannar hos dig",
+    "tone": "good"
+   },
+   {
+    "edge": "Molnuppladdning",
+    "heading": "Lita på servern",
+    "tone": "warn",
+    "edge_mark": "question"
+   }
+  ],
+  "focal": "På enheten fungerar även offline",
+  "alt": "Diagram som jämför de två lagringsmodellerna för en passapp: på enheten betyder att din data stannar hos dig, molnuppladdning betyder att lita på servern, och på enheten fungerar även offline",
+  "caption": "Det enda arkitekturvalet som avgör allt annat i en passapp.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

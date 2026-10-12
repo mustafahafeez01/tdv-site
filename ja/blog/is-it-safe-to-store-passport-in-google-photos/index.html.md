@@ -87,6 +87,8 @@ iPhoneユーザーの場合は、**iCloudの Advanced Data Protection**を有効
 
 **Travel Document Vault**はパスポートスキャンを強力な暗号化を使用してデバイスに保存します。アカウントは不要です。Proなら、ご自身のiCloudまたはGoogle Driveに暗号化コピーをバックアップできます。復元には回復コードが必要なので、安全に保管してください。[App Storeからダウンロード。](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
+![パスポート写真が明かす情報(氏名、生年月日、パスポート番号、顔写真)と、アカウント侵害、第三者によるアクセス、データのインデックス化という3つのリスク、そしてADP付きのiCloud、暗号化アプリ、オフラインコピーという3つの安全な保管先を示す図](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/passport-data-risks-ja.jpg) 1枚の写真に4つの情報、そしてより安心できる3つの保管先
+
 ## より安全な選択肢は何ですか
 
 旅行中にデジタルパスポートコピーが必要な場合（物理的なパスポートが紛失または盗難されたときのバックアップとして）手間なしで実際のセキュリティを提供するオプションがあります。

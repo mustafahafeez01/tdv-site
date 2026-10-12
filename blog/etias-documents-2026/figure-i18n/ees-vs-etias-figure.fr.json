@@ -1,0 +1,51 @@
+{
+ "fr": {
+  "template": "cards",
+  "title": "Le EES et l'ETIAS ne sont pas la même chose",
+  "cards": [
+   {
+    "heading": "EES",
+    "items": [
+     {
+      "text": "Se passe à la frontière",
+      "mark": "dot"
+     },
+     {
+      "text": "Empreintes et photo, sans demande",
+      "mark": "dot"
+     },
+     {
+      "text": "Déploiement progressif aux frontières",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "ETIAS",
+    "items": [
+     {
+      "text": "Se passe avant le départ",
+      "mark": "dot"
+     },
+     {
+      "text": "Demande en ligne, frais modeste",
+      "mark": "dot"
+     },
+     {
+      "text": "Pas encore obligatoire, aucune date fixée",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "and",
+  "note": "Vous aurez besoin des deux, à terme",
+  "focal": "Aucun des deux n'est un visa",
+  "alt": "Diagramme comparant l'EES et l'ETIAS : l'EES se passe à la frontière, avec empreintes et photo sans demande préalable, et se déploie progressivement ; l'ETIAS se passe avant le départ, se demande en ligne pour des frais modestes, sans date d'obligation fixée ; vous aurez besoin des deux à terme, et aucun des deux n'est un visa",
+  "caption": "Deux portails différents : l'EES vous enregistre à l'arrivée, l'ETIAS vous valide avant le départ.",
+  "placement": {
+   "h2": 7,
+   "para": 3
+  }
+ }
+}

@@ -35,6 +35,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-long-is-passport-valid-
 
 您的确切过期日期印在您护照的身份页上，位于您的照片旁边。该日期是硬性限制，一旦超过，您的护照在世界任何地方都不再是有效的旅行证件。
 
+![示意图：成人护照有效期10年，儿童护照5年，两者末尾都有6个月缓冲期，因为许多国家都有此要求](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/passport-validity-timeline-zh-Hans.jpg) 两个时钟，一个共同的关卡：许多国家要求到期日前留足6个月缓冲期。
+
 ## "有效"和"对您的旅行有效"是两回事
 
 护照在技术上可能有效（未过期）但仍会被拒绝登机。这种情况发生有两个主要原因。

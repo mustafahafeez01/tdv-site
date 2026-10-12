@@ -31,6 +31,8 @@ La logica è semplice: i paesi vogliono assicurazioni che non vi tratterrete olt
 
 **La regola non è universale.** Ogni paese stabilisce i suoi termini, e i requisiti possono variare in base alla vostra nazionalità. Un accordo bilaterale tra due paesi può rinunciare alla regola per i cittadini di uno ma non dell'altro. Ecco perché è così facile sbagliare senza controllare prima di ogni viaggio.
 
+![Diagramma a linea temporale della regola dei 6 mesi del passaporto: arrivate, il vostro viaggio, tornate a casa, poi altri sei mesi durante i quali il passaporto deve restare valido; la maggior parte dei paesi conta dal giorno di arrivo e alcuni dal giorno di partenza, quindi contare dalla data più tardiva copre entrambi i casi](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/six-month-rule-figure-it.jpg) La maggior parte dei paesi conta i sei mesi dal giorno dell'arrivo - contare dalla data più tardiva vi tutela comunque.
+
 ## Potete Viaggiare con un Passaporto che Scade tra Meno di 6 Mesi?
 
 A volte sì. Se la vostra destinazione richiede solo che il passaporto resti valido per la durata del soggiorno, cinque mesi di validità residua di solito bastano per entrare. Il Regno Unito funziona così per la maggior parte dei visitatori, e i paesi Schengen generalmente chiedono tre mesi oltre la partenza prevista, non sei.

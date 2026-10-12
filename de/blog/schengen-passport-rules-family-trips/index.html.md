@@ -34,6 +34,8 @@ Die meisten Reisenden nehmen die Idee auf, dass Reisepässe überall 6 Monate G�
 
 Unser Leitfaden zu [der 6-Monats-Regel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/) behandelt, welche Länder sie tatsächlich durchsetzen. Unser [Erklärung zur Reisepassgültigkeit](https://traveldocumentvault.com/de/blog/how-long-is-passport-valid-for-travel/) behandelt den allgemeinen Fall. Wir bleiben hier bei Schengen, weil das dort ist, wo Familien die Mathematik am häufigsten subtil falsch machen.
 
+![Diagramm der vier Ablaufdaten einer Familie, der Reihe nach: Kind 2 gültig bis 2027, Kind 1 bis 2028, Mama bis 2030, Papa bis 2032; das früheste Datum entscheidet über die Reise, Kinderreisepässe gelten 5 Jahre statt 10, und Schengen verlangt 3 Monate Restgültigkeit nach der Ausreise](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/family-expiry-dates-figure-de.jpg) Vier Reisepässe, vier Uhren – und die kürzeste setzt die tatsächliche Deadline der Familie.
+
 ## Kinderreisepässe laufen auf einer schnelleren Uhr
 
 Erwachsenenreisepässe haben normalerweise eine Gültigkeit von 10 Jahren, Kinderreisepässe nur 5 Jahren. Diese Asymmetrie ist es, wo viele sonst sorgfältige Pläne Schiffbruch erleiden.

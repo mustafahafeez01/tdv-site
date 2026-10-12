@@ -28,6 +28,8 @@ Une copie sur votre téléphone est une trace et non une pièce d'identité.
 
 Mieux vaut savoir à l'avance [où une copie numérique de passeport est acceptée et où l'original reste indispensable](https://traveldocumentvault.com/fr/blog/digital-passport-copy-valid/).
 
+![Parcours des sept étapes après la perte d'un passeport à l'étranger : confirmer qu'il est vraiment perdu, déposer une plainte à la police, contacter son ambassade, obtenir un document de voyage d'urgence, prévenir son assurance, vérifier sa situation de visa, rentrer puis le remplacer — avec une note pour photographier son passeport dès aujourd'hui, car une copie de sauvegarde accélère nettement l'étape 4](https://traveldocumentvault.com/blog/lost-passport-abroad/lost-passport-7-steps-figure-fr.jpg) Sept étapes à suivre calmement, dans l'ordre — et la seule chose à faire aujourd'hui, avant même d'en avoir besoin.
+
 ## Étape 1 — Confirmez que le passeport a vraiment disparu
 
 Vérifiez partout avant de supposer le pire — les poches de votre veste, chaque compartiment du sac, le coffre de l'hôtel, le dernier taxi ou restaurant. S'il a vraiment disparu ou a été volé, passez aux étapes suivantes sans tarder.

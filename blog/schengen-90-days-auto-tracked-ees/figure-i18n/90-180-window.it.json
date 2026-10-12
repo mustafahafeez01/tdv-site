@@ -1,0 +1,30 @@
+{
+ "it": {
+  "template": "sequence",
+  "title": "La finestra mobile 90/180",
+  "subtitle": "La finestra si sposta ogni giorno",
+  "start": "180 giorni fa",
+  "steps": [
+   {
+    "label": "Viaggio 1",
+    "text": "30 giorni"
+   },
+   {
+    "label": "Viaggio 2",
+    "text": "45 giorni"
+   },
+   {
+    "label": "Oggi",
+    "text": "30 + 45 = 75 giorni usati, quindi Le restano 15 dei Suoi 90"
+   }
+  ],
+  "highlight": 2,
+  "focal": "I giorni di arrivo e di partenza contano entrambi",
+  "alt": "Diagramma a linea temporale della finestra mobile Schengen 90/180: da 180 giorni fa a oggi, due viaggi di 30 e 45 giorni usano 75 dei 90 giorni disponibili, ne restano 15; la finestra si sposta ogni giorno e i giorni di arrivo e di partenza contano entrambi",
+  "caption": "La finestra non si azzera mai: per ogni singolo giorno, i 180 giorni precedenti possono contenere al massimo 90 giorni di soggiorno.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  }
+ }
+}

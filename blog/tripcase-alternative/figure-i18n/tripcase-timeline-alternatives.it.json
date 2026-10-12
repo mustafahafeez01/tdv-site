@@ -1,0 +1,58 @@
+{
+ "it": {
+  "template": "tree",
+  "title": "Un'app diventata quattro compiti",
+  "root": {
+   "heading": "TripCase",
+   "text": "Chiusa il 1 aprile 2025"
+  },
+  "branches": [
+   {
+    "heading": "Avvisi di volo",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Flighty",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Itinerario",
+    "tone": "good",
+    "items": [
+     {
+      "text": "TripIt",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Documenti",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Travel Document Vault",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Condivisione del viaggio",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Cartella condivisa",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagramma dei quattro compiti di TripCase dopo la sua chiusura del 1 aprile 2025: avvisi di volo a Flighty, itinerario a TripIt, documenti a Travel Document Vault, condivisione del viaggio a una cartella condivisa",
+  "caption": "La mappa dei sostituti in breve: quattro compiti, quattro strumenti, ognuno bravo in una cosa.",
+  "placement": {
+   "h2": 5,
+   "para": 1
+  }
+ }
+}

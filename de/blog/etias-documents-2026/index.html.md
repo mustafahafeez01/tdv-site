@@ -92,6 +92,8 @@ Familiengruppen müssen jeden Antrag separat einreichen statt als eine einzelne 
 
 Wenn Sie verweigert werden und dennoch reisen müssen, ist Ihr Ausweg die Beantragung eines traditionellen Langzeitvisums durch die relevante Botschaft oder das Konsulat, das normalerweise mehrere Einreisen und längere Aufenthalte als visumfreie Reisen ermöglicht. Da sich die Anforderungen je nach Ziel und Nationalität erheblich unterscheiden, kontaktieren Sie die Botschaft direkt, um zu verstehen, was Sie benötigen.
 
+![Diagramm, das EES und ETIAS vergleicht: EES erfolgt an der Grenze mit Fingerabdrücken und Foto, keine Anmeldung, und wird schrittweise an Grenzübergängen eingeführt; ETIAS erfolgt vor dem Flug, online beantragt mit geringer Gebühr, ohne bestätigtes Pflichtdatum; beides werden Sie irgendwann benötigen, und keines von beiden ist ein Visum](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure-de.jpg) Zwei verschiedene Tore: EES registriert Sie bei der Einreise, ETIAS gibt vorab grünes Licht.
+
 ## Reisepass und Versicherung bleiben auch nach ETIAS wichtig
 
 ETIAS-Genehmigung ersetzt nicht Ihren Reisepass, Reiseversicherung oder [Reisepass-Gültigkeitsanforderungen](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/). Sie benötigen dennoch:

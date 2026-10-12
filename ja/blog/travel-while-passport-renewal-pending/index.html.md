@@ -24,6 +24,8 @@ Source: https://traveldocumentvault.com/ja/blog/travel-while-passport-renewal-pe
 
 そのパスポートがまだ手元にあるかどうかは、完全に国と更新方法によって決まります。
 
+![判断図:パスポートは今も手元にあるか。はいの場合は有効な間はそれで渡航できる(米国の郵送更新、英国のデジタル更新)。いいえの場合は提出済みで新しいものを待つ(英国の郵送更新、オーストラリア、カナダ)。パスポートを手元に持たずに国際線に乗れる国はないという注記付き](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-ja.jpg) すべてを決める一つの問い:古いパスポートが今も自分の手元にあるかどうか
+
 ## アメリカ合衆国の郵送更新
 
 アメリカの標準的なパスポート更新は郵送で行われます。新しいパスポートが到着する前に現在のパスポートを提出する必要はありません。DS-82フォームに記入し、既存のパスポートを同封して、National Passport Processing Centerに郵送します。旧パスポートは新しいパスポートと一緒に返送され、通常は穴あけによって無効にされます。

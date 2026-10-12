@@ -1,0 +1,43 @@
+{
+ "da": {
+  "template": "matrix",
+  "title": "Ét visum, tre forskellige ure",
+  "columns": [
+   "Det, det fortæller dig"
+  ],
+  "rows": [
+   {
+    "label": "Indrejsegyldighed",
+    "cells": [
+     "Indrejse før denne dato"
+    ]
+   },
+   {
+    "label": "Maksimalt ophold",
+    "cells": [
+     "Hvor længe du må blive"
+    ]
+   },
+   {
+    "label": "Antal indrejser",
+    "cells": [
+     "Én eller flere indrejser"
+    ]
+   },
+   {
+    "label": "Schengen tilføjer et fjerde",
+    "cells": [
+     "Det glidende 90/180-vindue"
+    ]
+   }
+  ],
+  "note": "Hold styr på dem alle per person, ét sted",
+  "focal": "Overskridelser kan betyde bøder og indrejseforbud",
+  "alt": "Diagram over de tre ure på ét visum: indrejsegyldighed (indrejse før denne dato), maksimalt ophold (hvor længe du må blive), og antal indrejser (én eller flere indrejser), med en note om, at Schengen tilføjer et fjerde, det glidende 90/180-vindue, og at overskridelser kan betyde bøder og indrejseforbud",
+  "caption": "Et visum er ikke én dato. Det er tre separate ure, og nogle gange et fjerde.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

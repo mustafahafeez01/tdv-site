@@ -1,0 +1,33 @@
+{
+ "de": {
+  "template": "matrix",
+  "title": "Passgültigkeit",
+  "columns": [
+   "Erwachsenenreisepass",
+   "Kinderreisepass"
+  ],
+  "rows": [
+   {
+    "label": "Gültig für",
+    "cells": [
+     "10 Jahre",
+     "5 Jahre"
+    ]
+   },
+   {
+    "label": "6-Monats-Puffer am Ende",
+    "cells": [
+     "tick",
+     "tick"
+    ]
+   }
+  ],
+  "focal": "Viele Länder verlangen den 6-Monats-Puffer",
+  "alt": "Diagramm zur Passgültigkeit: ein Erwachsenenreisepass gilt 10 Jahre, ein Kinderreisepass 5, und am Ende beider steht ein 6-Monats-Puffer, den viele Länder verlangen",
+  "caption": "Zwei Uhren, ein Haken: der 6-Monats-Puffer, den viele Länder vor dem Ablaufdatum erwarten.",
+  "placement": {
+   "h2": 2,
+   "para": 2
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "nl": {
+  "template": "cards",
+  "title": "Je ETA is gekoppeld aan één paspoort",
+  "cards": [
+   {
+    "heading": "Het paspoort waarmee je hebt aangevraagd",
+    "tone": "good",
+    "items": [
+     {
+      "text": "De ETA is gekoppeld aan dit paspoort"
+     },
+     {
+      "text": "Reis zoals gewoonlijk",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Een nieuw of vernieuwd paspoort",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "De koppeling gaat niet mee"
+     },
+     {
+      "text": "Vraag een nieuwe ETA aan voor je vliegt"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "note": "Vernieuwen verbreekt de koppeling",
+  "focal": "Iedereen die reist heeft een eigen ETA nodig, kinderen inbegrepen",
+  "alt": "Vergelijkingsdiagram: het paspoort waarmee je hebt aangevraagd houdt de ETA gekoppeld aan dit paspoort, zodat je gewoon kunt reizen, terwijl een nieuw of vernieuwd paspoort de koppeling niet meeneemt en een nieuwe ETA nodig heeft voor je vliegt, en iedereen die reist een eigen ETA nodig heeft, kinderen inbegrepen",
+  "caption": "De goedkeuring is gekoppeld aan het paspoort, niet aan jou - en elke reiziger heeft zijn eigen ETA.",
+  "placement": {
+   "h2": 4,
+   "para": 3
+  }
+ }
+}

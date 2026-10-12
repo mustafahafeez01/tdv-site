@@ -1,0 +1,59 @@
+{
+ "de": {
+  "template": "cards",
+  "title": "Mitnehmen oder speichern?",
+  "cards": [
+   {
+    "heading": "Im Handgepäck",
+    "items": [
+     {
+      "text": "Reisepass",
+      "mark": "tick"
+     },
+     {
+      "text": "Visa und Genehmigungen",
+      "mark": "tick"
+     },
+     {
+      "text": "Bordkarten",
+      "mark": "tick"
+     },
+     {
+      "text": "Zustimmungsbrief, falls nötig",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Offline auf dem Telefon",
+    "items": [
+     {
+      "text": "Reisepassdaten",
+      "mark": "tick"
+     },
+     {
+      "text": "Versicherungspolice und Hotline",
+      "mark": "tick"
+     },
+     {
+      "text": "Buchungsreferenzen",
+      "mark": "tick"
+     },
+     {
+      "text": "Impfzertifikate",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "and",
+  "note": "Eines sichert das andere ab",
+  "focal": "Geht die Tasche verloren, bringt Sie die Telefonkopie heim",
+  "alt": "Geteiltes Diagramm: im Handgepäck mitnehmen – Reisepass, Visa und Genehmigungen, Bordkarten und bei Bedarf einen Zustimmungsbrief; offline auf dem Telefon speichern – Reisepassdaten, Versicherungspolice und Hotline, Buchungsreferenzen und Impfzertifikate, weil eines das andere absichert und die Telefonkopie Sie heimbringt, falls die Tasche verloren geht",
+  "caption": "Originale reisen im Handgepäck; ihre verschlüsselten Zwillinge leben offline auf dem Telefon.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

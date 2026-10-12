@@ -1,0 +1,52 @@
+{
+ "it": {
+  "template": "matrix",
+  "title": "Dove dovrebbe stare il tuo passaporto?",
+  "columns": [
+   "iCloud Photos",
+   "Google Photos",
+   "Vault crittografato"
+  ],
+  "highlight_col": 2,
+  "rows": [
+   {
+    "label": "Crittografia end-to-end",
+    "cells": [
+     "opzionale",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "Nessun account necessario",
+    "cells": [
+     "cross",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "Funziona offline",
+    "cells": [
+     "tick",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "AES-256",
+    "cells": [
+     "opzionale",
+     "cross",
+     "tick"
+    ]
+   }
+  ],
+  "alt": "Diagramma di confronto su dove dovrebbe stare il tuo passaporto: iCloud Photos offre crittografia end-to-end opzionale ma richiede account e sincronizzazione, Google Photos non soddisfa nessuno dei quattro criteri, un vault crittografato soddisfa end-to-end, nessun account, funziona offline e AES-256",
+  "caption": "La tabella di confronto qui sopra, in un colpo d'occhio.",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

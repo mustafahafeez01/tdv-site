@@ -33,6 +33,8 @@ La maggior parte dei paesi non richiede un visto di transito per il transito sol
 
 La trappola sta nel mezzo. Uno scalo che sulla carta sembra airside può silenziosamente diventare landside nella pratica. Se la coincidenza dura tutta la notte, l'hotel dell'aeroporto si trova di solito fuori dalla zona sicura, quindi ritirare i bagagli e fare il check-in significa passare per l'immigrazione. Lo stesso accade quando devi cambiare terminal e non esiste un collegamento airside tra i due — esci, e poi rientri nei controlli di sicurezza dall'altra parte. In entrambi i casi, una coincidenza che pensavi non richiedesse alcun visto può improvvisamente richiederne uno, quindi conviene verificare come funziona davvero il trasferimento, non solo quanto dura.
 
+![Diagramma che confronta il transito airside, in cui rimani oltre i controlli di sicurezza e non passi per l'immigrazione anche se alcuni paesi richiedono comunque un visto di transito, con il transito landside, in cui esci dalla zona sicura, passi per l'immigrazione e di solito serve un visto](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/airside-vs-landside-it.jpg) Airside resta nel terminal; landside significa entrare nel paese.
+
 ## Quando serve sicuramente un visto di transito
 
 I visti di transito sono obbligatori in diverse circostanze, e i requisiti variano molto in base alla tua nazionalità e al paese di transito.

@@ -46,6 +46,8 @@ Opbevar den bekræftede kopi sammen med jeres pas frem for i en separat mappe de
 
 Det praktiske svar forbliver kort: ét dokument, holdt tæt ved hånden, og en proces, der som regel går hurtigt videre, når den først er blevet vist.
 
+![Beslutningsdiagram, der viser, hvilket dokument der skal medbringes afhængigt af, hvem der ikke rejser med: et samtykkebrev for den anden forælder, en forældremyndighedsafgørelse eller retsafgørelse for en eks uden kontakt, en kopi af dødsattesten for en forælder, der er død, eller samtykke fra begge plus en fødselsattest, når begge forældre ikke rejser med, med en note om at medbringe barnets fødselsattest uanset hvad](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/who-is-missing-figure-da.jpg) Fire situationer, fire dokumenter, og én fødselsattest, der hjælper i alle af dem. Dette er vores vurdering af, hvad flyselskaber og grænsemyndigheder oftest spørger efter, ikke en juridisk tjekliste. Kravene varierer efter destination og luftfartsselskab, så tjek destinationens indvandringsmyndighed og dit flyselskab, før du rejser.
+
 Det her er vores vurdering af, hvad flyselskaber og grænsemyndigheder oftest beder om, ikke en juridisk tjekliste. Kravene varierer fra rejsemål til rejsemål og fra selskab til selskab – tjek derfor med indvandringsmyndighederne på dit rejsemål og med dit flyselskab inden afrejse.
 
 ## Et andet efternavn end dit barns: fødselsattesten svarer som regel på det

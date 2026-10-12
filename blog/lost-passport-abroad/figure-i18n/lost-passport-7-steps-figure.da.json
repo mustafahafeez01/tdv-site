@@ -1,0 +1,38 @@
+{
+ "da": {
+  "template": "sequence",
+  "title": "Mistet pas i udlandet: de 7 trin",
+  "steps": [
+   {
+    "text": "Bekræft, at det virkelig er væk"
+   },
+   {
+    "text": "Indgiv en politianmeldelse"
+   },
+   {
+    "text": "Kontakt din ambassade"
+   },
+   {
+    "text": "Nødpas"
+   },
+   {
+    "text": "Giv besked til dit forsikringsselskab"
+   },
+   {
+    "text": "Tjek din visumsituation"
+   },
+   {
+    "text": "Kom hjem, erstat det derefter"
+   }
+  ],
+  "highlight": 3,
+  "note": "Før noget af dette: fotografer dit pas i dag",
+  "focal": "En sikkerhedskopi gør trin 4 meget hurtigere",
+  "alt": "Diagram af de syv trin efter at have mistet et pas i udlandet: bekræft, at det virkelig er væk, indgiv en politianmeldelse, kontakt din ambassade, nødpas, giv besked til dit forsikringsselskab, tjek din visumsituation, kom hjem og erstat det derefter – med en note om at fotografere dit pas i dag, fordi en sikkerhedskopi gør trin fire meget hurtigere",
+  "caption": "Syv rolige trin, i rækkefølge – og den ene ting, du bør gøre i dag, før nogen af dem bliver nødvendige.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

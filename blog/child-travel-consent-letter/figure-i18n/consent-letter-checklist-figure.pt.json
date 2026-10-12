@@ -1,0 +1,63 @@
+{
+ "pt": {
+  "template": "cards",
+  "title": "A checklist da carta de consentimento",
+  "cards": [
+   {
+    "heading": "A carta",
+    "items": [
+     {
+      "text": "Nome completo da criança",
+      "mark": "tick"
+     },
+     {
+      "text": "Data de nascimento",
+      "mark": "tick"
+     },
+     {
+      "text": "Número do passaporte",
+      "mark": "tick"
+     },
+     {
+      "text": "Datas exatas da viagem",
+      "mark": "tick"
+     },
+     {
+      "text": "Destinos",
+      "mark": "tick"
+     },
+     {
+      "text": "Contactos do progenitor ausente",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Principais motivos de rejeição",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Dados em falta",
+      "mark": "cross"
+     },
+     {
+      "text": "Sem reconhecimento notarial",
+      "mark": "cross"
+     },
+     {
+      "text": "Assinaturas antigas",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "note": "Reconheça-a notarialmente: muitas fronteiras exigem-no",
+  "focal": "Imprima-a e mantenha uma cópia digital",
+  "alt": "Diagrama da checklist de uma carta de consentimento de viagem para crianças: nome completo da criança, data de nascimento, número do passaporte, datas exatas da viagem, destinos e contactos do progenitor ausente, com notas para a reconhecer notarialmente, os principais motivos de rejeição, e para a imprimir e manter uma cópia digital",
+  "caption": "Seis dados, um reconhecimento notarial e uma cópia impressa cobrem quase todas as exigências de fronteira.",
+  "placement": {
+   "h2": 3,
+   "para": 4
+  }
+ }
+}

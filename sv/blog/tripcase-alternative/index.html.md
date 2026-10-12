@@ -50,6 +50,8 @@ Resehandlingar väger annorlunda än förlorade spellistor. En passskanning, ett
 
 TripCase packade ihop flera olika uppgifter i en gratis app. Ingen app i dag gör alla dem bra, så det ärliga draget är att dela upp uppgifterna och välja det bästa verktyget för varje.
 
+![Diagram över TripCases fyra uppgifter efter nedstängningen 1 april 2025: flygaviseringar till Flighty, resplan till TripIt, handlingar till Travel Document Vault, resedelning till en delad mapp](https://traveldocumentvault.com/blog/tripcase-alternative/tripcase-timeline-alternatives-sv.jpg) Ersättningskartan i ett ögonkast: fyra uppgifter, fyra verktyg, var och en gör en sak bra.
+
 | Uppgiften | Vad TripCase gjorde | Bästa ersättning nu | Kostnad |
 |---|---|---|---|
 | Flygaviseringar | Förseningar, gateändringar, inställda flyg i realtid | Flighty | Gratisnivå; betald prenumeration tillgänglig |

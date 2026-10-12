@@ -32,6 +32,8 @@ Denne regel gælder al international rejse, både flyrejser til Europa og færge
 
 Den eneste undtagelse er et britisk nødrejsedokument, udstedt af udenrigsministeriet, når du allerede er i udlandet i en reel nødsituation, og selv da findes det kun for at få dig hjem – ikke for at tillade yderligere rejse.
 
+![Beslutningsdiagram for et udløbet pas: international rejse er markeret ikke tilladt og peger mod at ansøge om akut fornyelse, indenrigsrejse peger mod at tjekke med dit flyselskab og ringe før din rejse, med en note om altid at bekræfte før afrejse](https://traveldocumentvault.com/blog/travel-expired-passport-uk/passport-expiry-decision-tree-da.jpg) De to veje fra et udløbet pas – og ingen af dem fører til afgangsgaten.
+
 ## Kan du booke en ferie med et udløbet pas?
 
 At booke er ikke det samme som at gå om bord.

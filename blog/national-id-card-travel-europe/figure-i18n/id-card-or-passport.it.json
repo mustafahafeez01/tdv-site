@@ -1,0 +1,52 @@
+{
+ "it": {
+  "template": "cards",
+  "title": "Carta d'identità o passaporto?",
+  "cards": [
+   {
+    "heading": "La carta d'identità di solito basta",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Viaggi all'interno dell'UE e del SEE",
+      "mark": "tick"
+     },
+     {
+      "text": "Anche la Svizzera",
+      "mark": "tick"
+     },
+     {
+      "text": "Carta valida il giorno del tuo viaggio",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Porta il passaporto",
+    "items": [
+     {
+      "text": "La maggior parte dei viaggi fuori dall'Europa",
+      "mark": "dot"
+     },
+     {
+      "text": "Carta danneggiata o difficile da leggere",
+      "mark": "dot"
+     },
+     {
+      "text": "La tua compagnia aerea lo richiede",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "o",
+  "focal": "Due documenti, due date di scadenza",
+  "alt": "Diagramma che confronta quando basta la carta d'identità, per i viaggi nell'UE, nel SEE e in Svizzera, con quando portare il passaporto: la maggior parte dei viaggi fuori dall'Europa, una carta danneggiata, o una compagnia aerea che lo richiede",
+  "caption": "Dentro l'UE e il SEE la carta di solito basta; fuori dall'Europa, porta il passaporto.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

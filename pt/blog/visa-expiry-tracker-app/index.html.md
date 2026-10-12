@@ -37,6 +37,8 @@ Um viajante entra no Vietname com um visto carimbado "válido até 30 de junho" 
 
 Um rastreador que apenas monitoriza a data de validade de entrada perde a causa mais comum de ultrapassagens acidentais: exceder a duração máxima de permanência após uma entrada perfeitamente legal. Este é o campo que a maioria dos viajantes falha no rastreamento, porque a data não é carimbada no passaporte — tem de a calcular a partir da data de entrada.
 
+![Diagrama dos três relógios de um visto: validade de entrada (entre antes desta data), estadia máxima (quanto tempo pode ficar) e número de entradas (entrada única ou múltipla), com uma nota de que o Schengen adiciona um quarto, a janela móvel 90/180, e que exceder o prazo pode trazer multas e proibições de entrada](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/visa-three-clocks-figure-pt.jpg) Um visto não é uma data. São três relógios separados, e às vezes um quarto.
+
 ## A Regra Schengen de 90/180 Dias
 
 Para viajantes que visitam múltiplos países europeus, a regra de 90/180 dias da Área de Schengen é a condição de entrada mais amplamente mal compreendida em viagens internacionais. Os cidadãos de países com acesso isento de visto a Schengen (incluindo o Reino Unido, EUA, Canadá e Austrália, entre muitos outros) podem passar um máximo de 90 dias na Área de Schengen dentro de qualquer janela móvel de 180 dias.

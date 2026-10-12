@@ -33,6 +33,8 @@ La plupart des pays n'exigent pas de visa de transit pour un transit limité à 
 
 Le piège se situe entre les deux. Une escale qui semble se dérouler en zone internationale sur le papier peut discrètement basculer en zone publique dans les faits. Si votre correspondance dure toute la nuit, l'hôtel de l'aéroport se trouve généralement hors de la zone sécurisée, si bien que récupérer vos bagages et vous enregistrer implique de passer l'immigration. La même chose se produit lorsque vous devez changer de terminal sans liaison directe en zone internationale entre les deux - vous sortez, puis repassez la sécurité de l'autre côté. Dans les deux cas, une correspondance que vous pensiez sans visa peut soudain en exiger un, d'où l'intérêt de vérifier comment le transfert se déroule réellement, pas seulement sa durée.
 
+![Diagramme comparant le transit en zone internationale, où vous restez après le contrôle de sécurité sans passer l'immigration bien que certains pays exigent tout de même un visa de transit, et le transit en zone publique, où vous sortez de la zone sécurisée, passez l'immigration et avez généralement besoin d'un visa](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/airside-vs-landside-fr.jpg) La zone internationale reste dans le terminal ; la zone publique signifie entrer dans le pays.
+
 ## Quand un visa de transit devient obligatoire
 
 Le visa de transit est obligatoire dans plusieurs cas de figure, et les règles varient fortement selon votre nationalité et le pays de transit.

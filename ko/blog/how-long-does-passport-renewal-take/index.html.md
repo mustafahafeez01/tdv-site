@@ -46,6 +46,8 @@ Source: https://traveldocumentvault.com/ko/blog/how-long-does-passport-renewal-t
 
 HM Passport Office가 영국 갱신을 처리하며, 현재 처리 시간을 웹사이트에 공개하고 있습니다.
 
+![신청에서 완성된 패스포트까지 여섯 가지 지연 요인을 지나는 다이어그램: 이름 변경, 첫 성인 패스포트, 자녀 신청, 분실 또는 손상, 추가 심사나 인터뷰, 해외에서 신청](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/passport-renewal-timeline-ko.jpg) 여섯 가지 상황이 신청을 빠른 차선에서 벗어나게 합니다. 단순 갱신이라면 모두 건너뜁니다.
+
 | 서비스 유형 | 내용 |
 |---|---|
 | 표준 (온라인) | 추가 정보나 인터뷰가 필요하면 더 길어집니다. 현재 시간은 GOV.UK에서 확인하세요 |

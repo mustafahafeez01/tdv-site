@@ -1,0 +1,52 @@
+{
+ "es": {
+  "template": "matrix",
+  "title": "¿Dónde debería vivir tu pasaporte?",
+  "columns": [
+   "Fotos de iCloud",
+   "Google Fotos",
+   "Bóveda cifrada"
+  ],
+  "highlight_col": 2,
+  "rows": [
+   {
+    "label": "Cifrado de extremo a extremo",
+    "cells": [
+     "opcional",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "No necesita cuenta",
+    "cells": [
+     "cross",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "Funciona sin conexión",
+    "cells": [
+     "tick",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "AES-256",
+    "cells": [
+     "opcional",
+     "cross",
+     "tick"
+    ]
+   }
+  ],
+  "alt": "Diagrama comparativo de dónde debería vivir tu pasaporte: Fotos de iCloud ofrece cifrado de extremo a extremo opcional pero necesita cuenta y sincronización, Google Fotos no cumple ninguno de los cuatro criterios, una bóveda cifrada cumple los cuatro: extremo a extremo, sin cuenta, funciona sin conexión y AES-256",
+  "caption": "La tabla comparativa de arriba, de un vistazo.",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

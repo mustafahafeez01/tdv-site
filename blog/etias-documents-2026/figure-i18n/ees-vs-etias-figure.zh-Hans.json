@@ -1,0 +1,51 @@
+{
+ "zh-Hans": {
+  "template": "cards",
+  "title": "EES和ETIAS不是一回事",
+  "cards": [
+   {
+    "heading": "EES",
+    "items": [
+     {
+      "text": "在边境发生",
+      "mark": "dot"
+     },
+     {
+      "text": "采集指纹和照片，无需申请",
+      "mark": "dot"
+     },
+     {
+      "text": "正在各入境口岸分阶段推行",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "ETIAS",
+    "items": [
+     {
+      "text": "在出发前完成",
+      "mark": "dot"
+     },
+     {
+      "text": "在线申请，费用不高",
+      "mark": "dot"
+     },
+     {
+      "text": "尚未强制，日期未定",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "and",
+  "note": "两者您最终都需要",
+  "focal": "两者都不是签证",
+  "alt": "图表比较EES和ETIAS：EES在边境发生，采集指纹和照片，无需申请，正在各入境口岸分阶段推行；ETIAS在出发前完成，在线申请且费用不高，尚未强制也没有确定日期；两者您最终都需要，且都不是签证",
+  "caption": "两道不同的关口：EES在您抵达时登记，ETIAS在您出发前放行。",
+  "placement": {
+   "h2": 7,
+   "para": 3
+  }
+ }
+}

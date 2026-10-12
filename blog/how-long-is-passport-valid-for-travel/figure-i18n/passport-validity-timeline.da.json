@@ -1,0 +1,33 @@
+{
+ "da": {
+  "template": "matrix",
+  "title": "Pas-gyldighed",
+  "columns": [
+   "Voksenpas",
+   "Børnepas"
+  ],
+  "rows": [
+   {
+    "label": "Gyldigt i",
+    "cells": [
+     "10 år",
+     "5 år"
+    ]
+   },
+   {
+    "label": "6 måneders buffer til sidst",
+    "cells": [
+     "tick",
+     "tick"
+    ]
+   }
+  ],
+  "focal": "Mange lande kræver 6 måneders buffer",
+  "alt": "Diagram over pas-gyldighed: et voksenpas gælder i 10 år, et børnepas i 5, og en 6-måneders buffer ligger til sidst for begge, fordi mange lande kræver det",
+  "caption": "To ure, én hage: 6-måneders bufferen, mange lande forventer før din udløbsdato.",
+  "placement": {
+   "h2": 2,
+   "para": 2
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "de": {
+  "template": "cards",
+  "title": "Passfotos für ein Baby",
+  "cards": [
+   {
+    "heading": "Was gleich bleibt",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Augen offen, Blick zur Kamera",
+      "mark": "tick"
+     },
+     {
+      "text": "Einfarbiger Hintergrund hinter dem Kopf",
+      "mark": "tick"
+     },
+     {
+      "text": "Nichts sonst im Bild",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Was sich mit dem Alter ändert",
+    "items": [
+     {
+      "text": "Unter 6 Monaten: liegend auf einfarbigem Tuch",
+      "mark": "dot"
+     },
+     {
+      "text": "6 Monate bis 2 Jahre: auf dem Schoß, Erwachsener außen",
+      "mark": "dot"
+     },
+     {
+      "text": "2 Jahre und älter: sitzend, Blick knapp über die Linse",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "focal": "Häufigste Ablehnung: stützende Hand, Schnuller oder Spielzeug im Hintergrund",
+  "alt": "Diagramm dazu, was bei einem Babypassfoto gleich bleibt, offene Augen, einfarbiger Hintergrund, nichts sonst im Bild, und was sich je Altersgruppe ändert, von unter 6 Monaten bis 2 Jahre und älter, mit den häufigsten Ablehnungsgründen",
+  "caption": "",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

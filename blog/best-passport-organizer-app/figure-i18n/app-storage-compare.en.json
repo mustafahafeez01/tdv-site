@@ -1,0 +1,29 @@
+{
+ "en": {
+  "template": "tree",
+  "root": {
+   "heading": "Storage choice"
+  },
+  "branches": [
+   {
+    "edge": "On-device",
+    "edge_mark": "tick",
+    "heading": "Your data stays with you",
+    "tone": "good"
+   },
+   {
+    "edge": "Cloud upload",
+    "heading": "Trust the server",
+    "tone": "warn",
+    "edge_mark": "question"
+   }
+  ],
+  "focal": "On-device works offline too",
+  "alt": "Diagram comparing the two storage models for a passport organizer app: on-device means your data stays with you, cloud upload means trusting the server, and on-device works offline too",
+  "caption": "The one architectural choice that decides everything else about a passport app.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

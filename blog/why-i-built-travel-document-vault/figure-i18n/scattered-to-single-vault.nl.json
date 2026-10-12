@@ -1,0 +1,27 @@
+{
+ "nl": {
+  "template": "hub",
+  "inputs": [
+   "Foto's",
+   "Cloud",
+   "Notities",
+   "E-mail",
+   "Agenda"
+  ],
+  "hub": {
+   "heading": "Één kluis"
+  },
+  "outputs": [
+   "Vervalherinneringen",
+   "Versleuteld",
+   "Offline"
+  ],
+  "focal": "Eén app in plaats van vijf",
+  "alt": "Diagram van vijf verspreide apps - foto's, cloud, notities, e-mail, agenda - die samenkomen in één kluis, die daarvoor vervalherinneringen, versleuteling en offline toegang teruggeeft: één app in plaats van vijf",
+  "caption": "Wat de controle om 23:00 uur vroeger inhield - en wat het nu inhoudt.",
+  "placement": {
+   "h2": 3,
+   "para": 5
+  }
+ }
+}

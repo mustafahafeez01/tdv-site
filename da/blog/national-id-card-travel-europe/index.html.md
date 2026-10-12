@@ -36,6 +36,8 @@ Nogle EU-medlemsstater har bilaterale aftaler med visse ikke-europæiske lande, 
 
 Inden for Europa har visse lande bilaterale aftaler, der udvider accepten af ID-kort ud over EU's standardramme. Disse aftaler findes, men de kan være komplekse, så det er ofte enklere at medbringe passet sammen med ID-kortet, hver gang du rejser uden for dit hjemland, selv hvis loven siger, at kortet alene er nok.
 
+![Diagram, der sammenligner, hvornår et nationalt ID-kort normalt virker, til rejser inden for EU og EØS samt Schweiz, med hvornår man skal tage passet med: de fleste rejser uden for Europa, et beskadiget kort, eller et flyselskab, der beder om det](https://traveldocumentvault.com/blog/national-id-card-travel-europe/id-card-or-passport-da.jpg) Inden for EU og EØS virker kortet normalt; uden for Europa, tag passet med.
+
 ## Hvad du bør tjekke på kortet før en rejse
 
 En gyldig udløbsdato er nødvendig, men ikke tilstrækkelig. Grænsemyndigheder er trænet i at afvise dokumenter, de ikke kan læse tydeligt. Før du pakker, så inspicér dit ID-kort, som grænsepersonalet vil gøre:

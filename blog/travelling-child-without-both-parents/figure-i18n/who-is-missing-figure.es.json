@@ -1,0 +1,49 @@
+{
+ "es": {
+  "template": "tree",
+  "root": {
+   "heading": "¿Quién no viaja?"
+  },
+  "branches": [
+   {
+    "heading": "El otro progenitor",
+    "items": [
+     {
+      "text": "Carta de consentimiento"
+     }
+    ]
+   },
+   {
+    "heading": "Un ex sin contacto",
+    "items": [
+     {
+      "text": "Orden de custodia o resolución judicial"
+     }
+    ]
+   },
+   {
+    "heading": "Un progenitor que ha fallecido",
+    "items": [
+     {
+      "text": "Copia del certificado de defunción"
+     }
+    ]
+   },
+   {
+    "heading": "Ambos progenitores",
+    "items": [
+     {
+      "text": "Consentimiento de ambos, más certificado de nacimiento"
+     }
+    ]
+   }
+  ],
+  "focal": "Lleva el certificado de nacimiento del menor en cualquier caso",
+  "alt": "Árbol de decisión que muestra qué documento llevar según quién no viaja: una carta de consentimiento para el otro progenitor, una orden de custodia o resolución judicial para un ex sin contacto, una copia del certificado de defunción para un progenitor que ha fallecido, o consentimiento de ambos más certificado de nacimiento cuando ninguno de los dos progenitores viaja, con una nota para llevar el certificado de nacimiento del menor en cualquier caso",
+  "caption": "Cuatro situaciones, cuatro documentos, y un certificado de nacimiento que ayuda en todas ellas. Esto es nuestra interpretación de lo que suelen pedir las aerolíneas y los agentes de fronteras, no una lista legal. Los requisitos varían según el destino y la compañía, así que consulta a la autoridad de inmigración de tu destino y a tu aerolínea antes de viajar.",
+  "placement": {
+   "h2": 5,
+   "para": 3
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "sv": {
+  "template": "sequence",
+  "title": "Det som bromsar en förnyelse",
+  "subtitle": "En okomplicerad förnyelse undviker alla sex",
+  "steps": [
+   {
+    "text": "Namnbyte"
+   },
+   {
+    "text": "Första vuxenpasset"
+   },
+   {
+    "text": "En ansökan för ett barn"
+   },
+   {
+    "text": "Förlorat eller skadat"
+   },
+   {
+    "text": "Extra kontroller eller en intervju"
+   },
+   {
+    "text": "Ansöka från utlandet"
+   }
+  ],
+  "start": "Ansök",
+  "end": "Pass",
+  "note": "Räkna bakåt från ditt resdatum",
+  "focal": "Din passmyndighet publicerar aktuell handläggningstid",
+  "alt": "Diagram över en ansökan som färdas till ett klart pass förbi sex fördröjningar: namnbyte, första vuxenpasset, en ansökan för ett barn, förlorat eller skadat, extra kontroller eller en intervju, och att ansöka från utlandet",
+  "caption": "Sex situationer drar en ansökan ur snabbfilen. En okomplicerad förnyelse undviker dem alla.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  },
+  "numbered": false
+ }
+}

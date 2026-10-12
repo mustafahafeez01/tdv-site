@@ -30,6 +30,8 @@ Source: https://traveldocumentvault.com/ko/blog/how-to-read-your-passport-dates/
 
 이 페이지에서 딱 하나만 기억한다면 바로 이 비대칭성입니다. 발급일은 서류 자체를 설명하는 날짜이고, 만료일은 그 서류로 앞으로 얼마나 더 여행할 수 있는지를 설명하는 날짜입니다.
 
+![여권 데이터 페이지에 표시된 네 가지 항목을 보여주는 다이어그램: 발급일, 만료일, 발급국, 여권 번호. 만료일은 유효기간과 6개월 규정의 기준이 되는 항목으로 강조되어 있다](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/data-page-figure-ko.jpg) 네 가지 항목 중, 모든 입국 규정이 실제로 기준 삼는 것은 하나뿐입니다.
+
 ## 여권에 'Expedition'이라고 적혀 있는 이유
 
 여권의 'date of expedition'이 무슨 뜻인지 검색하는 사람이 많은데, 답은 안심이 될 정도로 단순합니다. 바로 발급일을 의미합니다.

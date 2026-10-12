@@ -1,0 +1,51 @@
+{
+ "de": {
+  "template": "cards",
+  "title": "EES und ETIAS sind nicht dasselbe",
+  "cards": [
+   {
+    "heading": "EES",
+    "items": [
+     {
+      "text": "Erfolgt an der Grenze",
+      "mark": "dot"
+     },
+     {
+      "text": "Fingerabdrücke und Foto, keine Anmeldung",
+      "mark": "dot"
+     },
+     {
+      "text": "Wird schrittweise an Grenzübergängen eingeführt",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "ETIAS",
+    "items": [
+     {
+      "text": "Erfolgt vor dem Flug",
+      "mark": "dot"
+     },
+     {
+      "text": "Online beantragen, geringe Gebühr",
+      "mark": "dot"
+     },
+     {
+      "text": "Noch nicht verpflichtend, kein Datum festgelegt",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "and",
+  "note": "Beides werden Sie irgendwann benötigen",
+  "focal": "Keines von beiden ist ein Visum",
+  "alt": "Diagramm, das EES und ETIAS vergleicht: EES erfolgt an der Grenze mit Fingerabdrücken und Foto, keine Anmeldung, und wird schrittweise an Grenzübergängen eingeführt; ETIAS erfolgt vor dem Flug, online beantragt mit geringer Gebühr, ohne bestätigtes Pflichtdatum; beides werden Sie irgendwann benötigen, und keines von beiden ist ein Visum",
+  "caption": "Zwei verschiedene Tore: EES registriert Sie bei der Einreise, ETIAS gibt vorab grünes Licht.",
+  "placement": {
+   "h2": 7,
+   "para": 3
+  }
+ }
+}

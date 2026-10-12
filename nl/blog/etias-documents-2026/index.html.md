@@ -92,6 +92,8 @@ Gezinsgroepen moeten elke aanvraag apart indienen in plaats van als één gezame
 
 Word je geweigerd en moet je toch reizen, dan is je alternatief het aanvragen van een traditioneel langverblijfvisum via de betreffende ambassade of het consulaat, wat doorgaans meer inreizen en langer verblijf toestaat dan visumvrij reizen. Omdat de vereisten per bestemming en nationaliteit verschillen, neem je het beste rechtstreeks contact op met de ambassade om te weten wat je nodig hebt.
 
+![Diagram dat EES en ETIAS vergelijkt: EES gebeurt aan de grens met vingerafdrukken en foto, zonder aanvraag, en wordt stap voor stap ingevoerd; ETIAS gebeurt voordat je vliegt, wordt online aangevraagd tegen een klein bedrag, en is nog niet verplicht zonder vastgestelde datum; je hebt uiteindelijk beide nodig, en geen van beide is een visum](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure-nl.jpg) Twee verschillende poorten: EES registreert je bij aankomst, ETIAS geeft je vooraf toestemming voor vertrek.
+
 ## Je paspoort en verzekering blijven belangrijk na ETIAS
 
 Een ETIAS-goedkeuring vervangt niet je paspoort, je reisverzekering of de [vereisten voor paspoortgeldigheid](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/). Je hebt nog steeds nodig:

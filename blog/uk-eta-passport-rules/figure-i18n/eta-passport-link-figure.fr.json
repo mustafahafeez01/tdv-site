@@ -1,0 +1,42 @@
+{
+ "fr": {
+  "template": "cards",
+  "title": "Votre ETA est liée à un seul passeport",
+  "cards": [
+   {
+    "heading": "Le passeport utilisé pour la demande",
+    "tone": "good",
+    "items": [
+     {
+      "text": "L'ETA reste liée à ce carnet"
+     },
+     {
+      "text": "Voyagez normalement",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Un passeport nouveau ou renouvelé",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Le lien ne se transfère pas"
+     },
+     {
+      "text": "Demandez une nouvelle ETA avant le départ"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "note": "Renouveler rompt le lien",
+  "focal": "Chaque voyageur a besoin de sa propre ETA, enfants compris",
+  "alt": "Diagramme comparatif : le passeport utilisé pour la demande garde l'ETA liée à ce carnet, donc vous voyagez normalement, tandis qu'un passeport nouveau ou renouvelé ne conserve pas ce lien et nécessite une nouvelle ETA avant le départ, chaque voyageur ayant besoin de sa propre ETA, enfants compris",
+  "caption": "L'autorisation est liée au carnet, pas à vous — et chaque voyageur porte la sienne.",
+  "placement": {
+   "h2": 4,
+   "para": 3
+  }
+ }
+}

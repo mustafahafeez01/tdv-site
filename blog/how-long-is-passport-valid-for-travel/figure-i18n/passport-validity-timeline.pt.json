@@ -1,0 +1,33 @@
+{
+ "pt": {
+  "template": "matrix",
+  "title": "Validade do passaporte",
+  "columns": [
+   "Passaporte de adulto",
+   "Passaporte de criança"
+  ],
+  "rows": [
+   {
+    "label": "Válido durante",
+    "cells": [
+     "10 anos",
+     "5 anos"
+    ]
+   },
+   {
+    "label": "Margem de 6 meses no final",
+    "cells": [
+     "tick",
+     "tick"
+    ]
+   }
+  ],
+  "focal": "Muitos países exigem a margem de 6 meses",
+  "alt": "Diagrama da validade do passaporte: um passaporte de adulto dura 10 anos, um de criança 5, e uma margem de 6 meses fica no final de ambos porque muitos países a exigem",
+  "caption": "Dois relógios, uma pegadinha: a margem de 6 meses que muitos países exigem antes da data de validade.",
+  "placement": {
+   "h2": 2,
+   "para": 2
+  }
+ }
+}

@@ -46,6 +46,8 @@ Lorsqu'un enfant voyage à l'international avec un seul parent (ou sans aucun pa
 
 C'est le document le plus couramment oublié dans les voyages en famille, alors vérifiez-le bien avant d'atteindre la porte d'embarquement.
 
+![Diagramme en deux volets : dans votre bagage à main, le passeport, les visas et autorisations, les cartes d'embarquement, et une lettre de consentement si besoin ; hors ligne sur votre téléphone, les informations du passeport, la police d'assurance et le numéro d'urgence, les références de réservation, et les certificats de vaccination, car l'un sauvegarde l'autre et si le bagage est perdu, la copie sur le téléphone vous ramène](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/carry-or-store-figure-fr.jpg) Les originaux voyagent dans votre bagage à main ; leurs doubles chiffrés vivent hors ligne sur votre téléphone.
+
 ## Ce qu'il Faut Conserver par Rapport à Ce qu'il Faut Stocker Numériquement
 
 Les frontières veulent des documents originaux, mais si ces originaux disparaissent, les sauvegardes numériques sécurisées vous ramèneront chez vous.

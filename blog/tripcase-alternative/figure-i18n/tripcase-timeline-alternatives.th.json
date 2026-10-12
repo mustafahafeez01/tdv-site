@@ -1,0 +1,58 @@
+{
+ "th": {
+  "template": "tree",
+  "title": "แอปเดียวกลายเป็นสี่หน้าที่",
+  "root": {
+   "heading": "TripCase",
+   "text": "ปิดตัวเมื่อ 1 เมษายน 2025"
+  },
+  "branches": [
+   {
+    "heading": "แจ้งเตือนเที่ยวบิน",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Flighty",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "แผนการเดินทาง",
+    "tone": "good",
+    "items": [
+     {
+      "text": "TripIt",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "เอกสาร",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Travel Document Vault",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "แชร์ทริป",
+    "tone": "good",
+    "items": [
+     {
+      "text": "โฟลเดอร์ที่แชร์ร่วมกัน",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "แผนภาพสี่หน้าที่ของ TripCase หลังปิดตัวเมื่อ 1 เมษายน 2025 แจ้งเตือนเที่ยวบินไปที่ Flighty แผนการเดินทางไปที่ TripIt เอกสารไปที่ Travel Document Vault และแชร์ทริปไปที่โฟลเดอร์ที่แชร์ร่วมกัน",
+  "caption": "แผนที่แทนที่โดยสรุป สี่หน้าที่ สี่เครื่องมือ แต่ละตัวทำหน้าที่เดียวให้ดี",
+  "placement": {
+   "h2": 5,
+   "para": 1
+  }
+ }
+}

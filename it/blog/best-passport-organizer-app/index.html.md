@@ -33,6 +33,8 @@ Nessun approccio è universalmente "sbagliato", ma per documenti di identità se
 
 Una violazione di un'app sul dispositivo non fa trapelare nulla dai loro server — non c'è nulla lì da trapelare.
 
+![Diagramma che confronta i due modelli di archiviazione per un'app di organizzazione passaporti: sul dispositivo i tuoi dati restano con te, il caricamento sul cloud richiede di fidarti del server, e la versione sul dispositivo funziona anche offline](https://traveldocumentvault.com/blog/best-passport-organizer-app/app-storage-compare-it.jpg) L'unica scelta architetturale che decide tutto il resto di un'app per passaporti.
+
 ## Queste Funzionalità Decidono se l'App Vale la Pena
 
 ### Il tempo di preavviso è l'impostazione da personalizzare

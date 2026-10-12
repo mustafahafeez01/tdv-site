@@ -33,6 +33,8 @@ Nenhuma abordagem é universalmente "errada," mas para documentos de identidade 
 
 Uma violação de uma aplicação no dispositivo não revela nada dos seus servidores — não há nada lá para vazar.
 
+![Diagrama que compara os dois modelos de armazenamento de uma aplicação para organizar passaportes: no dispositivo os seus dados ficam consigo, no carregamento para a nuvem está a confiar no servidor, e o armazenamento no dispositivo também funciona offline](https://traveldocumentvault.com/blog/best-passport-organizer-app/app-storage-compare-pt.jpg) A única escolha de arquitetura que decide tudo o resto numa aplicação de passaportes.
+
 ## Estas Funcionalidades Decidem se a Aplicação Merece o Seu Lugar
 
 ### O tempo de antecedência dos avisos é a definição que vale a pena personalizar

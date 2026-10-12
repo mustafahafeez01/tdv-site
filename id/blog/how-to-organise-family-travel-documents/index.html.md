@@ -53,6 +53,8 @@ Surat izin yang sah sebaiknya mencakup: nama lengkap dan tanggal lahir anak, nam
 
 **Dokumen lain yang perlu mudah diakses**
 
+![Diagram daftar periksa sepuluh dokumen perjalanan keluarga: paspor, visa, kartu identitas, asuransi perjalanan, pemesanan, vaksinasi, tiket pulang, akta kelahiran, surat izin, dan putusan hak asuh, dengan catatan untuk mulai 3+ bulan sebelum keberangkatan](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/travel-docs-checklist-id.jpg) Daftar lengkap untuk keluarga - mulai mencentangnya tiga bulan sebelumnya, bukan seminggu sebelumnya.
+
 - SIM internasional (jika menyewa mobil di luar negeri)
 - Catatan medis atau resep untuk kondisi yang sedang berlangsung
 - Kartu Asuransi Kesehatan Eropa (EHIC) untuk pelancong UE

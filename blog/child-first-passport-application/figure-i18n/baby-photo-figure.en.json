@@ -1,0 +1,50 @@
+{
+ "en": {
+  "template": "cards",
+  "title": "Passport photos for a baby",
+  "cards": [
+   {
+    "heading": "What stays the same",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Eyes open, looking at the camera",
+      "mark": "tick"
+     },
+     {
+      "text": "A plain background behind the head",
+      "mark": "tick"
+     },
+     {
+      "text": "Nothing else in frame",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "What changes with age",
+    "items": [
+     {
+      "text": "Under 6 months: lying on a plain sheet",
+      "mark": "dot"
+     },
+     {
+      "text": "6 months to 2 years: on a lap, adult not in frame",
+      "mark": "dot"
+     },
+     {
+      "text": "2 years and older: seated, looking just above the lens",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "focal": "Most rejections: a supporting hand, a dummy or a toy in the background",
+  "alt": "Diagram of what stays the same in a baby passport photo (eyes open, plain background, nothing else in frame) and what changes by age band from under 6 months to 2 years and older, with the most common rejection causes",
+  "caption": "",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

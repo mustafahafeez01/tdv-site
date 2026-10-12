@@ -44,6 +44,8 @@ Når du fornyer dit pas, udsteder din pasmyndighed et nyt dokument med et nyt pa
 
 Her er den tidslinje, du skal planlægge efter:
 
+![Sammenligningsdiagram: det pas, du søgte med, holder ETA'et bundet til dette pas, så du rejser som normalt, mens et nyt eller fornyet pas ikke fører bindingen med og kræver et nyt ETA, før du flyver, og alle, der rejser, skal have deres eget, børn inklusive](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-da.jpg) Godkendelsen er bundet til passet, ikke til dig – og hver rejsende har sit eget.
+
 1. Dit pas' udløbsdato nærmer sig.
 2. Du søger om at forny dit pas i dit hjemland.
 3. Dit nye pas ankommer (behandlingstider varierer, se [guiden om behandlingstider for pasfornyelse](https://traveldocumentvault.com/da/blog/how-long-does-passport-renewal-take/)).

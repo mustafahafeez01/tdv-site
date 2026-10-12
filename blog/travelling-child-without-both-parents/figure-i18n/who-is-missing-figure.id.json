@@ -1,0 +1,49 @@
+{
+ "id": {
+  "template": "tree",
+  "root": {
+   "heading": "Siapa yang tidak ikut bepergian?"
+  },
+  "branches": [
+   {
+    "heading": "Orang tua lainnya",
+    "items": [
+     {
+      "text": "Surat izin"
+     }
+    ]
+   },
+   {
+    "heading": "Mantan tanpa kontak",
+    "items": [
+     {
+      "text": "Putusan hak asuh atau pengadilan"
+     }
+    ]
+   },
+   {
+    "heading": "Orang tua yang telah meninggal",
+    "items": [
+     {
+      "text": "Salinan akta kematian"
+     }
+    ]
+   },
+   {
+    "heading": "Kedua orang tua",
+    "items": [
+     {
+      "text": "Persetujuan dari keduanya, plus akta kelahiran"
+     }
+    ]
+   }
+  ],
+  "focal": "Bawa akta kelahiran anak dalam kasus apa pun",
+  "alt": "Diagram pohon keputusan tentang dokumen yang harus dibawa sesuai siapa yang tidak ikut bepergian: surat izin untuk orang tua lainnya, putusan hak asuh atau pengadilan untuk mantan tanpa kontak, salinan akta kematian untuk orang tua yang telah meninggal, atau persetujuan dari keduanya ditambah akta kelahiran saat kedua orang tua tidak ikut bepergian, dengan catatan untuk tetap membawa akta kelahiran anak dalam kasus apa pun",
+  "caption": "Empat situasi, empat dokumen, dan satu akta kelahiran yang membantu dalam semuanya. Ini adalah pembacaan kami atas apa yang paling sering diminta maskapai dan petugas perbatasan, bukan daftar hukum resmi. Persyaratan berbeda menurut destinasi dan maskapai, jadi periksa otoritas imigrasi destinasi Anda dan maskapai Anda sebelum bepergian.",
+  "placement": {
+   "h2": 5,
+   "para": 3
+  }
+ }
+}

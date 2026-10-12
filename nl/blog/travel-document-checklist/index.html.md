@@ -36,6 +36,8 @@ Zoek uit of je nationaliteit een visum nodig heeft voor inreis, transit, of beid
 
 Boek je reisverzekering wanneer je je vluchten boekt, niet een week voor vertrek. Een verzekering die je afsluit nadat je al een risico hebt geïdentificeerd, kan precies dat probleem uitsluiten. Zorg dat de polis alle reizigers, alle bestemmingen, en de activiteiten die je van plan bent te doen, dekt.
 
+![Tijdlijndiagram van reisdocumentcontroles: controleer vervaldatums bij het boeken, verleng indien nodig drie maanden vooraf, bevestig en verzamel alles één maand vooraf, laatste controle de avond ervoor](https://traveldocumentvault.com/blog/travel-document-checklist/checklist-timeline-nl.jpg) Vier controlemomenten tussen boeken en instappen - elk klein als je op tijd begint.
+
 ## Drie maanden van tevoren: zit verlenging of een visum dicht op de reis, begin dan nu
 
 Op dit moment heb je nog tijd om dingen op te lossen. Verwerkingstijden veranderen, en elke instantie publiceert haar eigen actuele cijfer: het Amerikaanse ministerie van Buitenlandse Zaken, HM Passport Office, en de Australische paspoortinstantie. Controleer altijd de officiële website voor actuele tijden voordat je aanvraagt.

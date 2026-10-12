@@ -1,0 +1,41 @@
+{
+ "id": {
+  "template": "tree",
+  "root": {
+   "heading": "Siapa yang memegang kuncinya?"
+  },
+  "branches": [
+   {
+    "edge": "Kunci mereka",
+    "edge_mark": "cross",
+    "heading": "Cadangan foto",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Bisa dibaca siapa pun yang berhasil masuk",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "edge": "Kunci Anda, tetap di ponsel",
+    "edge_mark": "tick",
+    "heading": "Cadangan terenkripsi",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Tidak berguna tanpa kunci",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Cloud yang sama, jawaban yang berbeda",
+  "alt": "Diagram yang membandingkan cadangan foto, yang bisa dibaca di cloud karena perusahaan memegang kuncinya, dengan cadangan terenkripsi, yang tidak berguna tanpa kunci yang tetap berada di ponsel Anda",
+  "caption": "Cloud yang sama, jawaban yang berbeda. Berkasnya tetap terunggah, yang berubah adalah siapa yang bisa membukanya.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

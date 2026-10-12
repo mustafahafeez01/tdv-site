@@ -30,6 +30,8 @@ Source: https://traveldocumentvault.com/ja/blog/how-to-read-your-passport-dates/
 
 このページから一つだけ覚えておくとしたら、この非対称性です。発行日は書類そのものを説明する日付であり、有効期限はあとどれだけその書類で渡航できるかを説明する日付です。
 
+![パスポートのデータページにある4つの項目を示す図:発行日、有効期限、発行国、パスポート番号。有効期限が、有効性と6ヶ月ルールの両方が逆算の起点とする項目として強調されている](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/data-page-figure-ja.jpg) 4つの項目のうち、入国ルールが実際に測っているのは一つだけ
+
 ## パスポートに「Expedition」と書かれている理由
 
 「date of expedition」とはパスポートで何を意味するのか、検索する人は少なくありません。その答えは拍子抜けするほど単純です。これは発行日を意味します。

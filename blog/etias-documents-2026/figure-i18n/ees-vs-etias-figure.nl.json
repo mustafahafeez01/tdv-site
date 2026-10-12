@@ -1,0 +1,51 @@
+{
+ "nl": {
+  "template": "cards",
+  "title": "EES en ETIAS zijn niet hetzelfde",
+  "cards": [
+   {
+    "heading": "EES",
+    "items": [
+     {
+      "text": "Gebeurt aan de grens",
+      "mark": "dot"
+     },
+     {
+      "text": "Vingerafdrukken en foto, geen aanvraag",
+      "mark": "dot"
+     },
+     {
+      "text": "Wordt stap voor stap ingevoerd",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "ETIAS",
+    "items": [
+     {
+      "text": "Gebeurt voordat je vliegt",
+      "mark": "dot"
+     },
+     {
+      "text": "Online aanvragen, klein bedrag",
+      "mark": "dot"
+     },
+     {
+      "text": "Nog niet verplicht, geen datum vastgesteld",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "and",
+  "note": "Je hebt uiteindelijk beide nodig",
+  "focal": "Geen van beide is een visum",
+  "alt": "Diagram dat EES en ETIAS vergelijkt: EES gebeurt aan de grens met vingerafdrukken en foto, zonder aanvraag, en wordt stap voor stap ingevoerd; ETIAS gebeurt voordat je vliegt, wordt online aangevraagd tegen een klein bedrag, en is nog niet verplicht zonder vastgestelde datum; je hebt uiteindelijk beide nodig, en geen van beide is een visum",
+  "caption": "Twee verschillende poorten: EES registreert je bij aankomst, ETIAS geeft je vooraf toestemming voor vertrek.",
+  "placement": {
+   "h2": 7,
+   "para": 3
+  }
+ }
+}

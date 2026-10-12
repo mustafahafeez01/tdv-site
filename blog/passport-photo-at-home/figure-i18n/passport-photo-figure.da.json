@@ -1,0 +1,64 @@
+{
+ "da": {
+  "template": "cards",
+  "title": "Derfor bliver pasfotos afvist",
+  "cards": [
+   {
+    "heading": "Afvist",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Skygge bag hovedet",
+      "mark": "cross"
+     },
+     {
+      "text": "Smil",
+      "mark": "cross"
+     },
+     {
+      "text": "Reflekser i brillerne",
+      "mark": "cross"
+     },
+     {
+      "text": "Hår over øjnene",
+      "mark": "cross"
+     },
+     {
+      "text": "Mønstret baggrund",
+      "mark": "cross"
+     },
+     {
+      "text": "Foto taget for tæt på",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Godkendt",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Ensfarvet baggrund",
+      "mark": "tick"
+     },
+     {
+      "text": "Neutralt ansigtsudtryk",
+      "mark": "tick"
+     },
+     {
+      "text": "Jævnt lys",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "Din pasmyndighed offentliggør de præcise mål",
+  "alt": "Diagram af seks afviste pasfotos – skygge bag hovedet, smil, reflekser i brillerne, hår over øjnene, mønstret baggrund og foto taget for tæt på – ved siden af ét godkendt foto med ensfarvet baggrund, neutralt ansigtsudtryk og jævnt lys",
+  "caption": "Seks måder, et foto bliver sendt tilbage på, og den ene opsætning, der godkendes.",
+  "placement": {
+   "h2": 6,
+   "para": 0
+  }
+ }
+}

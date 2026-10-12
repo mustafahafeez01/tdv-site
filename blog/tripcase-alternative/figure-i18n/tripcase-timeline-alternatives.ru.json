@@ -1,0 +1,58 @@
+{
+ "ru": {
+  "template": "tree",
+  "title": "Одно приложение превратилось в четыре задачи",
+  "root": {
+   "heading": "TripCase",
+   "text": "Закрылся 1 апреля 2025"
+  },
+  "branches": [
+   {
+    "heading": "Уведомления о рейсах",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Flighty",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Маршрут",
+    "tone": "good",
+    "items": [
+     {
+      "text": "TripIt",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Документы",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Travel Document Vault",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Совместный доступ к поездке",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Общая папка",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Диаграмма четырёх задач TripCase после закрытия 1 апреля 2025: уведомления о рейсах перешли к Flighty, маршрут — к TripIt, документы — к Travel Document Vault, совместный доступ к поездке — к общей папке",
+  "caption": "Карта замены одним взглядом: четыре задачи, четыре инструмента, каждый делает своё дело хорошо.",
+  "placement": {
+   "h2": 5,
+   "para": 1
+  }
+ }
+}

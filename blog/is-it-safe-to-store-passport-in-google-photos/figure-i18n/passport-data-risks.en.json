@@ -1,0 +1,71 @@
+{
+ "en": {
+  "template": "cards",
+  "title": "What a passport photo gives away",
+  "cards": [
+   {
+    "heading": "What it shows",
+    "items": [
+     {
+      "text": "Name",
+      "mark": "dot"
+     },
+     {
+      "text": "Date of birth",
+      "mark": "dot"
+     },
+     {
+      "text": "Passport number",
+      "mark": "dot"
+     },
+     {
+      "text": "Photo",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "The risks",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Account breach",
+      "mark": "cross"
+     },
+     {
+      "text": "Third-party access",
+      "mark": "cross"
+     },
+     {
+      "text": "Data indexing",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Safer places",
+    "tone": "good",
+    "items": [
+     {
+      "text": "iCloud with ADP",
+      "mark": "tick"
+     },
+     {
+      "text": "Encrypted app",
+      "mark": "tick"
+     },
+     {
+      "text": "Offline copy",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagram of what a passport photo gives away - name, date of birth, passport number and photo - next to three risks, account breach, third-party access and data indexing, and three safer options: iCloud with ADP, an encrypted app, or an offline copy",
+  "caption": "One photo, four data points, and three calmer places to keep them.",
+  "placement": {
+   "h2": 4,
+   "para": 5
+  }
+ }
+}

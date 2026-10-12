@@ -1,0 +1,42 @@
+{
+ "pt": {
+  "template": "cards",
+  "title": "A sua ETA está ligada a um passaporte",
+  "cards": [
+   {
+    "heading": "O passaporte usado no pedido",
+    "tone": "good",
+    "items": [
+     {
+      "text": "A ETA está ligada a este caderno"
+     },
+     {
+      "text": "Viaje normalmente",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Um passaporte novo ou renovado",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "A ligação não se transfere"
+     },
+     {
+      "text": "Peça uma nova ETA antes de voar"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "note": "Renovar quebra a ligação",
+  "focal": "Cada viajante precisa da sua própria, até crianças",
+  "alt": "Diagrama comparativo: o passaporte usado no pedido mantém a ETA ligada a esse caderno, por isso viaja normalmente, enquanto um passaporte novo ou renovado não transfere a ligação e precisa de uma nova ETA antes de voar, e cada viajante precisa da sua própria, crianças incluídas",
+  "caption": "A autorização está ligada ao caderno, não a si - e cada viajante tem a sua própria.",
+  "placement": {
+   "h2": 4,
+   "para": 3
+  }
+ }
+}

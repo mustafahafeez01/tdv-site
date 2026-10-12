@@ -1,0 +1,38 @@
+{
+ "da": {
+  "template": "sequence",
+  "title": "Det, der forsinker en fornyelse",
+  "subtitle": "En ligetil fornyelse springer alle seks over",
+  "steps": [
+   {
+    "text": "Navneskift"
+   },
+   {
+    "text": "Første voksenpas"
+   },
+   {
+    "text": "En ansøgning for et barn"
+   },
+   {
+    "text": "Bortkommet eller beskadiget"
+   },
+   {
+    "text": "Ekstra kontrol eller en samtale"
+   },
+   {
+    "text": "Ansøgning fra udlandet"
+   }
+  ],
+  "start": "Ansøg",
+  "end": "Pas",
+  "note": "Regn baglæns fra din rejsedato",
+  "focal": "Din pasmyndighed offentliggør aktuel sagsbehandlingstid",
+  "alt": "Diagram af en ansøgning, der bevæger sig mod et færdigt pas forbi seks forsinkelser: navneskift, første voksenpas, en ansøgning for et barn, bortkommet eller beskadiget, ekstra kontrol eller en samtale, og ansøgning fra udlandet",
+  "caption": "Seks situationer trækker en ansøgning ud af hurtigsporet. En ligetil fornyelse springer dem alle over.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  },
+  "numbered": false
+ }
+}

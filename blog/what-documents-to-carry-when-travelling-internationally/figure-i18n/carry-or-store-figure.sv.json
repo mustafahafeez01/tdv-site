@@ -1,0 +1,59 @@
+{
+ "sv": {
+  "template": "cards",
+  "title": "Bär det, eller förvara det?",
+  "cards": [
+   {
+    "heading": "I handbagaget",
+    "items": [
+     {
+      "text": "Pass",
+      "mark": "tick"
+     },
+     {
+      "text": "Visum och tillstånd",
+      "mark": "tick"
+     },
+     {
+      "text": "Boardingkort",
+      "mark": "tick"
+     },
+     {
+      "text": "Samtyckesbrev om det behövs",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Offline i telefonen",
+    "items": [
+     {
+      "text": "Passuppgifter",
+      "mark": "tick"
+     },
+     {
+      "text": "Försäkringsbrev och hotline",
+      "mark": "tick"
+     },
+     {
+      "text": "Bokningsreferenser",
+      "mark": "tick"
+     },
+     {
+      "text": "Vaccinationsbevis",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "and",
+  "note": "Den ena säkerhetskopierar den andra",
+  "focal": "Om väskan går förlorad tar telefonkopian dig hem",
+  "alt": "Delat diagram: i handbagaget bär du passet, visum och tillstånd, boardingkort, och ett samtyckesbrev om det behövs; offline i telefonen förvarar du passuppgifter, försäkringsbrev och hotline, bokningsreferenser, och vaccinationsbevis, eftersom den ena säkerhetskopierar den andra och om väskan går förlorad tar telefonkopian dig hem",
+  "caption": "Originalen reser i handbagaget, deras krypterade kopior finns offline i telefonen.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

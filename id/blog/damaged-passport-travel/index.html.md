@@ -28,6 +28,8 @@ Di sinilah kebanyakan orang panik secara tidak perlu: sudut sampul yang sedikit 
 
 Yang paling penting, zona yang bisa dibaca mesin, garis hitam putih di bagian bawah halaman data Anda, harus tetap utuh. Pemindai di perbatasan mungkin tidak bisa membacanya begitu bagian ini rusak.
 
+![Dua paspor terbuka berdampingan: satu using tapi rata dan masih bisa dipakai, satu lagi bernoda air dengan halaman bergelombang dan laminasi terkelupas](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Lipatan kecil pada sampul: masih bisa diterima. Kerusakan air pada halaman data: masalah.
+
 Alasan ini penting adalah karena **maskapai menanggung tanggung jawab jika memberangkatkan penumpang dengan dokumen yang tidak layak.** Jika Anda berangkat dengan paspor rusak lalu ditolak masuk di negara tujuan, otoritas setempat bisa mengenakan denda kepada maskapai karena membawa Anda. Maskapai juga harus menanggung biaya memulangkan Anda.
 
 Tidak ada petugas gerbang yang ingin mengurus semua itu, jadi mereka memilih untuk berhati-hati secara tegas.

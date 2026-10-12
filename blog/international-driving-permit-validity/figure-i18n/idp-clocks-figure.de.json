@@ -1,0 +1,47 @@
+{
+ "de": {
+  "template": "cards",
+  "title": "Welche Uhr läuft zuerst ab?",
+  "cards": [
+   {
+    "heading": "Reisepass",
+    "items": [
+     {
+      "text": "Meist 10 Jahre",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Führerschein",
+    "items": [
+     {
+      "text": "Variiert je nach Land",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Internationaler Führerschein",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "1 Jahr, oder bis zu 3",
+      "mark": "none"
+     },
+     {
+      "text": "Endet früher, wenn der Führerschein zuerst abläuft",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "focal": "Die kürzeste Frist entscheidet",
+  "alt": "Diagramm, das drei Gültigkeitsdauern vergleicht: Reisepass meist 10 Jahre, Führerschein je nach Land unterschiedlich, und Internationaler Führerschein 1 Jahr oder bis zu 3, verkürzt, falls der Führerschein zuerst abläuft, sodass die kürzeste Frist entscheidet",
+  "caption": "Drei Dokumente, drei Uhren. Der internationale Führerschein wird von der Frist begrenzt, die zuerst abläuft.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

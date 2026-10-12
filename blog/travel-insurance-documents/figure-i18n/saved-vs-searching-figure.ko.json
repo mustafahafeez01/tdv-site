@@ -1,0 +1,13 @@
+{
+ "ko": {
+  "reuse": "/blog/travel-insurance-documents/saved-vs-searching-figure.jpg",
+  "width": 1536,
+  "height": 1024,
+  "alt": "나란히 놓인 똑같은 두 휴대폰을 보여주는 그림. 왼쪽은 보험증권이 기기에 저장되어 화면이 밝게 켜져 있고, 오른쪽은 신호 없이 로딩 아이콘만 도는 회색 화면이다",
+  "caption": "미리 내려받아 손에 쥔 것과, 아직 접속되지 않는 메일함에 남아 있는 것. 그 차이는 가장 안 좋은 순간에 드러납니다.",
+  "placement": {
+   "h2": 4,
+   "para": 7
+  }
+ }
+}

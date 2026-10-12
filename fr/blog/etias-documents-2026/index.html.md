@@ -92,6 +92,8 @@ Les groupes familiaux doivent soumettre chaque demande séparément plutôt que 
 
 Si vous êtes refusé et que vous avez toujours besoin de voyager, votre solution de repli est de demander un visa traditionnel de longue durée par le biais de l'ambassade ou du consulat concerné, qui permet généralement les entrées multiples et les séjours plus longs que les voyages sans visa. Étant donné que les exigences varient considérablement selon la destination et votre nationalité, contactez l'ambassade directement pour comprendre ce dont vous aurez besoin.
 
+![Diagramme comparant l'EES et l'ETIAS : l'EES se passe à la frontière, avec empreintes et photo sans demande préalable, et se déploie progressivement ; l'ETIAS se passe avant le départ, se demande en ligne pour des frais modestes, sans date d'obligation fixée ; vous aurez besoin des deux à terme, et aucun des deux n'est un visa](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure-fr.jpg) Deux portails différents : l'EES vous enregistre à l'arrivée, l'ETIAS vous valide avant le départ.
+
 ## Votre passeport et votre assurance comptent toujours après l'ETIAS
 
 L'approbation ETIAS ne remplace pas votre passeport, l'assurance voyage, ou [les exigences de validité du passeport](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/). Vous avez toujours besoin de :

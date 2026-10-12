@@ -1,0 +1,52 @@
+{
+ "de": {
+  "template": "cards",
+  "title": "Personalausweis oder Reisepass?",
+  "cards": [
+   {
+    "heading": "Personalausweis reicht meist",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Reisen innerhalb der EU und des EWR",
+      "mark": "tick"
+     },
+     {
+      "text": "Auch in die Schweiz",
+      "mark": "tick"
+     },
+     {
+      "text": "Ausweis muss am Reisetag gültig sein",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Reisepass mitnehmen",
+    "items": [
+     {
+      "text": "Die meisten Reisen außerhalb Europas",
+      "mark": "dot"
+     },
+     {
+      "text": "Ausweis beschädigt oder schwer lesbar",
+      "mark": "dot"
+     },
+     {
+      "text": "Ihre Airline verlangt einen",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "oder",
+  "focal": "Zwei Dokumente, zwei Ablaufdaten",
+  "alt": "Diagramm, das vergleicht, wann ein Personalausweis innerhalb der EU, des EWR und der Schweiz meist reicht, mit Situationen, in denen der Reisepass mitgenommen werden sollte: die meisten Reisen außerhalb Europas, ein beschädigter Ausweis oder eine Airline, die einen verlangt",
+  "caption": "Innerhalb der EU und des EWR reicht der Ausweis meist; außerhalb Europas den Reisepass mitnehmen.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

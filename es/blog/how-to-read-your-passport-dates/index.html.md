@@ -30,6 +30,8 @@ La fecha de caducidad es el límite definitivo, y es lo que miden las normas de 
 
 Si solo te quedas con una cosa de esta página, que sea esa asimetría: la fecha de expedición describe el documento, y la fecha de caducidad describe cuánto tiempo más puedes viajar con él.
 
+![Diagrama de la página de datos de un pasaporte con cuatro campos señalados: fecha de expedición, fecha de caducidad, país emisor y número de pasaporte, con la fecha de caducidad destacada como la que cuenta para la validez y la regla de los 6 meses](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/data-page-figure-es.jpg) Cuatro campos, y solo uno es el que de verdad mide cada norma de entrada.
+
 ## Por Qué Algunos Formularios Dicen "Date of Expedition"
 
 Mucha gente busca qué significa "date of expedition" en un pasaporte, y la respuesta es tranquilizadoramente simple: significa fecha de expedición, tal cual la conoces en español.

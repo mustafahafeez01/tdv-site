@@ -1,0 +1,49 @@
+{
+ "sv": {
+  "template": "tree",
+  "root": {
+   "heading": "Vem reser inte?"
+  },
+  "branches": [
+   {
+    "heading": "Den andra föräldern",
+    "items": [
+     {
+      "text": "Samtyckesbrev"
+     }
+    ]
+   },
+   {
+    "heading": "En ex-partner utan kontakt",
+    "items": [
+     {
+      "text": "Vårdnadsbeslut eller domstolsbeslut"
+     }
+    ]
+   },
+   {
+    "heading": "En förälder som har avlidit",
+    "items": [
+     {
+      "text": "Kopia av dödsattest"
+     }
+    ]
+   },
+   {
+    "heading": "Båda föräldrarna",
+    "items": [
+     {
+      "text": "Samtycke från båda, plus födelsebevis"
+     }
+    ]
+   }
+  ],
+  "focal": "Ta med barnets födelsebevis i båda fallen",
+  "alt": "Beslutsträd som visar vilken handling som ska tas med beroende på vem som inte reser: ett samtyckesbrev för den andra föräldern, ett vårdnads- eller domstolsbeslut för en ex-partner utan kontakt, en kopia av dödsattesten för en förälder som har avlidit, eller samtycke från båda plus ett födelsebevis när båda föräldrarna inte reser, med en notering om att ta med barnets födelsebevis i båda fallen",
+  "caption": "Fyra situationer, fyra handlingar, och ett födelsebevis som hjälper i alla. Det här är vår tolkning av vad flygbolag och gränstjänstemän oftast efterfrågar, inte en juridisk checklista. Kraven varierar beroende på resmål och flygbolag, så kontrollera resmålets migrationsmyndighet och ditt flygbolag innan du reser.",
+  "placement": {
+   "h2": 5,
+   "para": 3
+  }
+ }
+}

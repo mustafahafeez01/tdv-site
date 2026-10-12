@@ -1,0 +1,64 @@
+{
+ "fr": {
+  "template": "cards",
+  "title": "Pourquoi les photos de passeport sont refusées",
+  "cards": [
+   {
+    "heading": "Refusée",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Ombre derrière la tête",
+      "mark": "cross"
+     },
+     {
+      "text": "Sourire",
+      "mark": "cross"
+     },
+     {
+      "text": "Reflet sur les lunettes",
+      "mark": "cross"
+     },
+     {
+      "text": "Cheveux sur les yeux",
+      "mark": "cross"
+     },
+     {
+      "text": "Fond à motifs",
+      "mark": "cross"
+     },
+     {
+      "text": "Photo prise trop près",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Acceptée",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Fond uni",
+      "mark": "tick"
+     },
+     {
+      "text": "Expression neutre",
+      "mark": "tick"
+     },
+     {
+      "text": "Lumière homogène",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "Votre service des passeports publie la taille exacte",
+  "alt": "Diagramme de six photos de passeport refusées - ombre derrière la tête, sourire, reflet sur les lunettes, cheveux sur les yeux, fond à motifs et photo prise trop près - à côté d'une photo acceptée sur fond uni, avec une expression neutre et une lumière homogène",
+  "caption": "Six façons d'être refusé, et le seul réglage qui passe.",
+  "placement": {
+   "h2": 6,
+   "para": 0
+  }
+ }
+}

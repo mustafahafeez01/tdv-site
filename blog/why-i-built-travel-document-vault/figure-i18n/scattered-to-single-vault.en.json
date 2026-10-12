@@ -1,0 +1,27 @@
+{
+ "en": {
+  "template": "hub",
+  "inputs": [
+   "Photos",
+   "Cloud",
+   "Notes",
+   "Email",
+   "Calendar"
+  ],
+  "hub": {
+   "heading": "One vault"
+  },
+  "outputs": [
+   "Expiry reminders",
+   "Encrypted",
+   "Offline"
+  ],
+  "focal": "One app instead of five",
+  "alt": "Diagram of five scattered apps - photos, cloud, notes, email, calendar - converging into one vault, which gives back expiry reminders, encryption and offline access: one app instead of five",
+  "caption": "What the 11pm check used to involve - and what it involves now.",
+  "placement": {
+   "h2": 3,
+   "para": 5
+  }
+ }
+}

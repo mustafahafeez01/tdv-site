@@ -1,0 +1,63 @@
+{
+ "it": {
+  "template": "cards",
+  "title": "La checklist della lettera di consenso",
+  "cards": [
+   {
+    "heading": "La lettera",
+    "items": [
+     {
+      "text": "Nome completo del minore",
+      "mark": "tick"
+     },
+     {
+      "text": "Data di nascita",
+      "mark": "tick"
+     },
+     {
+      "text": "Numero di passaporto",
+      "mark": "tick"
+     },
+     {
+      "text": "Date esatte del viaggio",
+      "mark": "tick"
+     },
+     {
+      "text": "Destinazioni",
+      "mark": "tick"
+     },
+     {
+      "text": "Contatti del genitore assente",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Principali motivi di rifiuto",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Dettagli mancanti",
+      "mark": "cross"
+     },
+     {
+      "text": "Nessuna autenticazione notarile",
+      "mark": "cross"
+     },
+     {
+      "text": "Firme non recenti",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "note": "Fattela autenticare: molte frontiere se la aspettano",
+  "focal": "Stampala e conserva una copia digitale di backup",
+  "alt": "Diagramma a checklist di cosa deve contenere una lettera di consenso per il viaggio di un minore: nome completo, data di nascita, numero di passaporto, date esatte del viaggio, destinazioni e contatti del genitore assente, con le note di farla autenticare, i principali motivi di rifiuto, e di stamparla conservando anche una copia digitale di backup",
+  "caption": "Sei dettagli, un'autenticazione e una copia stampata bastano per quasi ogni frontiera.",
+  "placement": {
+   "h2": 3,
+   "para": 4
+  }
+ }
+}

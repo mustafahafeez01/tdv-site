@@ -87,6 +87,8 @@ Os smartphones modernos fotografam em 12 megapixéis ou superior, o que é sufic
 
 ## Motivos de Rejeição Comuns e Como Evitá-los
 
+![Diagrama de seis fotos de passaporte rejeitadas - sombra detrás da cabeça, a sorrir, brilho dos óculos, cabelo sobre os olhos, fundo estampado e foto tirada muito perto - ao lado de uma foto aceite com fundo liso, expressão neutra e luz uniforme](https://traveldocumentvault.com/blog/passport-photo-at-home/passport-photo-figure-pt.jpg) Seis formas de uma foto ser devolvida, e a única configuração que passa.
+
 - **Sombras no rosto:** Causadas por iluminação lateral ou fontes de luz fortes. Posicione-se perpendicular a uma janela para iluminação uniforme, e verifique que as suas orelhas e maçãs do rosto são uniformemente iluminadas.
 - **Dimensões de foto incorretas:** A foto não corresponde aos specs do seu país (os requisitos variam por país). Use uma aplicação de corte de foto de passaporte e verifique duas vezes as dimensões contra a spec oficial da sua autoridade antes de imprimir ou carregar — não aos specs de outro país.
 - **Sorriso ou expressão incomum:** A maioria dos países requer uma expressão neutra. Pratique um olhar calmo em linha reta num espelho previamente — aim para sério, não severo.

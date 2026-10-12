@@ -1,0 +1,64 @@
+{
+ "es": {
+  "template": "cards",
+  "title": "Por qué se rechazan las fotos de pasaporte",
+  "cards": [
+   {
+    "heading": "Rechazada",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Sombra detrás de la cabeza",
+      "mark": "cross"
+     },
+     {
+      "text": "Sonreír",
+      "mark": "cross"
+     },
+     {
+      "text": "Reflejo en las gafas",
+      "mark": "cross"
+     },
+     {
+      "text": "Pelo sobre los ojos",
+      "mark": "cross"
+     },
+     {
+      "text": "Fondo con patrones",
+      "mark": "cross"
+     },
+     {
+      "text": "Foto tomada muy de cerca",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Aceptada",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Fondo liso",
+      "mark": "tick"
+     },
+     {
+      "text": "Expresión neutral",
+      "mark": "tick"
+     },
+     {
+      "text": "Luz uniforme",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "Tu oficina de pasaportes publica el tamaño exacto",
+  "alt": "Diagrama de seis fotos de pasaporte rechazadas -sombra detrás de la cabeza, sonreír, reflejo en las gafas, pelo sobre los ojos, fondo con patrones y foto tomada muy de cerca- junto a una foto aceptada con fondo liso, expresión neutral y luz uniforme",
+  "caption": "Seis motivos por los que una foto se rechaza, y la única configuración que la aprueba.",
+  "placement": {
+   "h2": 6,
+   "para": 0
+  }
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "id": {
+  "template": "cards",
+  "title": "Apa yang diungkap oleh foto paspor",
+  "cards": [
+   {
+    "heading": "Yang ditunjukkan",
+    "items": [
+     {
+      "text": "Nama",
+      "mark": "dot"
+     },
+     {
+      "text": "Tanggal lahir",
+      "mark": "dot"
+     },
+     {
+      "text": "Nomor paspor",
+      "mark": "dot"
+     },
+     {
+      "text": "Foto",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Risikonya",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Pembobolan akun",
+      "mark": "cross"
+     },
+     {
+      "text": "Akses pihak ketiga",
+      "mark": "cross"
+     },
+     {
+      "text": "Pengindeksan data",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Tempat yang lebih aman",
+    "tone": "good",
+    "items": [
+     {
+      "text": "iCloud dengan ADP",
+      "mark": "tick"
+     },
+     {
+      "text": "Aplikasi terenkripsi",
+      "mark": "tick"
+     },
+     {
+      "text": "Salinan offline",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagram tentang yang diungkap oleh foto paspor - nama, tanggal lahir, nomor paspor, dan foto - di samping tiga risiko, pembobolan akun, akses pihak ketiga, dan pengindeksan data, serta tiga pilihan yang lebih aman: iCloud dengan ADP, aplikasi terenkripsi, atau salinan offline",
+  "caption": "Satu foto, empat data, dan tiga tempat yang lebih tenang untuk menyimpannya.",
+  "placement": {
+   "h2": 4,
+   "para": 5
+  }
+ }
+}

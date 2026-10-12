@@ -1,0 +1,31 @@
+{
+ "sv": {
+  "template": "sequence",
+  "title": "6-månadersregeln",
+  "subtitle": "Flygbolag kontrollerar detta vid incheckningen",
+  "steps": [
+   {
+    "text": "Du anländer"
+   },
+   {
+    "text": "Din resa"
+   },
+   {
+    "text": "Du flyger hem"
+   },
+   {
+    "label": "+ 6 månader",
+    "text": "Passet måste fortfarande vara giltigt här ute"
+   }
+  ],
+  "highlight": 3,
+  "note": "De flesta länder räknar från ankomstdagen, några från avresedagen",
+  "focal": "Räkna från det senare datumet, det täcker båda",
+  "alt": "Tidslinjediagram över 6-månadersregeln för pass: du anländer, din resa, du flyger hem, därefter sex ytterligare månader som passet måste förbli giltigt genom; de flesta länder räknar från ankomstdagen och några från avresedagen, så att räkna från det senare datumet täcker båda",
+  "caption": "De flesta länder räknar de sex månaderna från ankomstdagen - att räkna från det senare datumet täcker dig i båda fallen.",
+  "placement": {
+   "h2": 2,
+   "para": 3
+  }
+ }
+}

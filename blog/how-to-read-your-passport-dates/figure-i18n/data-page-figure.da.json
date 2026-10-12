@@ -1,0 +1,52 @@
+{
+ "da": {
+  "template": "cards",
+  "title": "Fire felter på datasiden",
+  "cards": [
+   {
+    "heading": "Udstedelsesdato",
+    "items": [
+     {
+      "text": "Den dag, det blev printet",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Udløbsdato",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "Gyldigheden måles herfra",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Udstedelsesland",
+    "items": [
+     {
+      "text": "Hvem der erstatter det, hvis det bortkommer",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Pasnummer",
+    "items": [
+     {
+      "text": "Et nyt pas betyder et nyt nummer",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagram af en pas-dataside med fire markerede felter: udstedelsesdato, udløbsdato, udstedelsesland og pasnummer, hvor udløbsdatoen er markeret som den dato, gyldigheden og 6-måneders-reglen regnes fra",
+  "caption": "Fire felter, hvoraf det ene er det, enhver indrejseregel faktisk måler ud fra.",
+  "focal": "6-måneders-reglen regnes bagud fra udløbsdatoen",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

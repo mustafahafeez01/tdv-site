@@ -1,0 +1,71 @@
+{
+ "ko": {
+  "template": "cards",
+  "title": "여권 사진이 노출하는 정보",
+  "cards": [
+   {
+    "heading": "담긴 정보",
+    "items": [
+     {
+      "text": "이름",
+      "mark": "dot"
+     },
+     {
+      "text": "생년월일",
+      "mark": "dot"
+     },
+     {
+      "text": "여권 번호",
+      "mark": "dot"
+     },
+     {
+      "text": "사진",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "위험",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "계정 침해",
+      "mark": "cross"
+     },
+     {
+      "text": "제3자 접근",
+      "mark": "cross"
+     },
+     {
+      "text": "데이터 색인",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "더 안전한 곳",
+    "tone": "good",
+    "items": [
+     {
+      "text": "iCloud(ADP 적용)",
+      "mark": "tick"
+     },
+     {
+      "text": "암호화 앱",
+      "mark": "tick"
+     },
+     {
+      "text": "오프라인 사본",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "alt": "여권 사진이 노출하는 정보(이름, 생년월일, 여권 번호, 사진)와 세 가지 위험(계정 침해, 제3자 접근, 데이터 색인), 그리고 세 가지 더 안전한 보관 방법(ADP를 적용한 iCloud, 암호화 앱, 오프라인 사본)을 보여주는 다이어그램",
+  "caption": "사진 한 장, 정보 네 가지, 그리고 마음 편히 보관할 수 있는 세 곳.",
+  "placement": {
+   "h2": 4,
+   "para": 5
+  }
+ }
+}

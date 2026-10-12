@@ -1,0 +1,52 @@
+{
+ "nl": {
+  "template": "cards",
+  "title": "Identiteitskaart of paspoort?",
+  "cards": [
+   {
+    "heading": "Identiteitskaart werkt meestal",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Reizen binnen de EU en EER",
+      "mark": "tick"
+     },
+     {
+      "text": "Ook Zwitserland",
+      "mark": "tick"
+     },
+     {
+      "text": "Kaart geldig op de dag dat je reist",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Neem het paspoort mee",
+    "items": [
+     {
+      "text": "De meeste reizen buiten Europa",
+      "mark": "dot"
+     },
+     {
+      "text": "Kaart beschadigd of moeilijk leesbaar",
+      "mark": "dot"
+     },
+     {
+      "text": "Je luchtvaartmaatschappij vraagt erom",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "of",
+  "focal": "Twee documenten, twee vervaldatums",
+  "alt": "Diagram dat vergelijkt wanneer een nationale identiteitskaart meestal werkt, voor reizen binnen de EU en EER en Zwitserland, met wanneer je het paspoort meeneemt: de meeste reizen buiten Europa, een beschadigde kaart, of een luchtvaartmaatschappij die erom vraagt",
+  "caption": "Binnen de EU en EER werkt de kaart meestal; buiten Europa neem je het paspoort.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

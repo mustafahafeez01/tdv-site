@@ -1,0 +1,59 @@
+{
+ "it": {
+  "template": "cards",
+  "title": "Portarlo con te, o conservarlo?",
+  "cards": [
+   {
+    "heading": "Nel tuo bagaglio a mano",
+    "items": [
+     {
+      "text": "Passaporto",
+      "mark": "tick"
+     },
+     {
+      "text": "Visti e autorizzazioni",
+      "mark": "tick"
+     },
+     {
+      "text": "Carte d'imbarco",
+      "mark": "tick"
+     },
+     {
+      "text": "Lettera di consenso se necessaria",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Offline sul tuo telefono",
+    "items": [
+     {
+      "text": "Dati del passaporto",
+      "mark": "tick"
+     },
+     {
+      "text": "Polizza assicurativa e numero di emergenza",
+      "mark": "tick"
+     },
+     {
+      "text": "Codici di prenotazione",
+      "mark": "tick"
+     },
+     {
+      "text": "Certificati di vaccinazione",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "and",
+  "note": "Uno fa da backup per l'altro",
+  "focal": "Se perdi la borsa, la copia sul telefono ti porta a casa",
+  "alt": "Diagramma diviso: nel bagaglio a mano porta il passaporto, visti e autorizzazioni, carte d'imbarco e una lettera di consenso se necessaria; offline sul telefono conserva i dati del passaporto, la polizza assicurativa e il numero di emergenza, i codici di prenotazione e i certificati di vaccinazione, perché uno fa da backup per l'altro e se perdi la borsa la copia sul telefono ti porta a casa",
+  "caption": "Gli originali viaggiano nel bagaglio a mano; i loro gemelli cifrati vivono offline sul telefono.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

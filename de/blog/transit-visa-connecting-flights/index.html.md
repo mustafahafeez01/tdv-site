@@ -33,6 +33,8 @@ Die meisten Länder verlangen für reinen Airside-Transit kein Transitvisum, bes
 
 Die Falle liegt in der Mitte. Ein Zwischenstopp, der auf dem Papier wie Airside-Transit aussieht, kann in der Praxis unbemerkt zu Landside-Transit werden. Läuft Ihre Verbindung über Nacht, liegt das Flughafenhotel meist außerhalb der Sicherheitszone, sodass das Abholen Ihres Gepäcks und das Einchecken eine Einreisekontrolle bedeuten. Dasselbe passiert, wenn Sie das Terminal wechseln müssen und es keine Airside-Verbindung dazwischen gibt - Sie verlassen die Zone und durchlaufen die Sicherheitskontrolle auf der anderen Seite erneut. So oder so kann eine Verbindung, bei der Sie kein Visum erwartet hatten, plötzlich eines erfordern. Es lohnt sich also zu prüfen, wie der Umstieg tatsächlich abläuft, nicht nur, wie lange er dauert.
 
+![Diagramm, das Airside-Transit, bei dem Sie hinter der Sicherheitskontrolle bleiben und keine Einreisekontrolle durchlaufen, obwohl manche Länder trotzdem ein Transitvisum verlangen, mit Landside-Transit vergleicht, bei dem Sie die Sicherheitszone verlassen, die Einreisekontrolle durchlaufen und meist ein Visum brauchen](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/airside-vs-landside-de.jpg) Airside bleibt im Terminal; Landside bedeutet, ins Land einzureisen.
+
 ## Wann Sie definitiv ein Transitvisum brauchen
 
 In einigen Fällen ist ein Transitvisum zwingend erforderlich, und die Anforderungen unterscheiden sich erheblich je nach Ihrer Staatsangehörigkeit und dem Transitland.

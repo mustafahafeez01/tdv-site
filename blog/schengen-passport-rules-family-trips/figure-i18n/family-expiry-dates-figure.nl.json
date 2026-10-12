@@ -1,0 +1,34 @@
+{
+ "nl": {
+  "template": "sequence",
+  "title": "Één gezin, vier vervaldatums",
+  "subtitle": "De vroegste datum bepaalt de reis",
+  "steps": [
+   {
+    "label": "Kind 2",
+    "text": "Geldig tot 2027"
+   },
+   {
+    "label": "Kind 1",
+    "text": "Geldig tot 2028"
+   },
+   {
+    "label": "Mama",
+    "text": "Geldig tot 2030"
+   },
+   {
+    "label": "Papa",
+    "text": "Geldig tot 2032"
+   }
+  ],
+  "highlight": 0,
+  "note": "Paspoorten van kinderen gaan 5 jaar mee, niet 10. Schengen wil nog 3 maanden geldigheid na vertrek.",
+  "focal": "Controleer elk paspoort op de dag dat je boekt",
+  "alt": "Diagram van de vier vervaldatums van paspoorten in één gezin, op volgorde: kind 2 geldig tot 2027, kind 1 tot 2028, mama tot 2030, papa tot 2032; de vroegste datum bepaalt de reis, paspoorten van kinderen gaan 5 jaar mee in plaats van 10, en Schengen wil nog 3 maanden geldigheid na vertrek",
+  "caption": "Vier paspoorten, vier klokken - en de kortste bepaalt de echte deadline van het gezin.",
+  "placement": {
+   "h2": 3,
+   "para": 2
+  }
+ }
+}

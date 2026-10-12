@@ -33,6 +33,8 @@ Inget av alternativen är fel rakt av, men för identitetshandlingar så känsli
 
 Ett dataintrång hos en app med lagring på enheten läcker ingenting från deras servrar – där finns helt enkelt inget att läcka.
 
+![Diagram som jämför de två lagringsmodellerna för en passapp: på enheten betyder att din data stannar hos dig, molnuppladdning betyder att lita på servern, och på enheten fungerar även offline](https://traveldocumentvault.com/blog/best-passport-organizer-app/app-storage-compare-sv.jpg) Det enda arkitekturvalet som avgör allt annat i en passapp.
+
 ## De här funktionerna avgör om appen är värd att ha
 
 ### Förvarningstiden är den inställning som är värd att anpassa

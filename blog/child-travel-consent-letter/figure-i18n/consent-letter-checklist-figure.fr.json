@@ -1,0 +1,63 @@
+{
+ "fr": {
+  "template": "cards",
+  "title": "Lettre de consentement : la liste de vérification",
+  "cards": [
+   {
+    "heading": "La lettre",
+    "items": [
+     {
+      "text": "Nom complet de l'enfant",
+      "mark": "tick"
+     },
+     {
+      "text": "Date de naissance",
+      "mark": "tick"
+     },
+     {
+      "text": "Numéro de passeport",
+      "mark": "tick"
+     },
+     {
+      "text": "Dates exactes du voyage",
+      "mark": "tick"
+     },
+     {
+      "text": "Destinations",
+      "mark": "tick"
+     },
+     {
+      "text": "Coordonnées du parent absent",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Principaux motifs de refus",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Informations manquantes",
+      "mark": "cross"
+     },
+     {
+      "text": "Document non notarié",
+      "mark": "cross"
+     },
+     {
+      "text": "Signatures périmées",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "note": "Faites-la notarier : beaucoup de frontières l'exigent",
+  "focal": "Imprimez-la, et gardez une copie numérique",
+  "alt": "Diagramme de ce que doit contenir une lettre de consentement pour voyage d'enfant : nom complet de l'enfant, date de naissance, numéro de passeport, dates exactes du voyage, destinations et coordonnées du parent absent, avec des notes pour la faire notarier, les principaux motifs de refus, et l'imprimer en gardant une copie numérique",
+  "caption": "Six informations, une notarisation et une copie imprimée couvrent presque toutes les attentes des frontières.",
+  "placement": {
+   "h2": 3,
+   "para": 4
+  }
+ }
+}

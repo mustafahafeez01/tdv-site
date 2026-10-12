@@ -1,0 +1,52 @@
+{
+ "pt": {
+  "template": "matrix",
+  "title": "Onde deve viver o seu passaporte?",
+  "columns": [
+   "iCloud Photos",
+   "Google Photos",
+   "Cofre encriptado"
+  ],
+  "highlight_col": 2,
+  "rows": [
+   {
+    "label": "Encriptação ponto a ponto",
+    "cells": [
+     "opcional",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "Sem conta necessária",
+    "cells": [
+     "cross",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "Funciona offline",
+    "cells": [
+     "tick",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "AES-256",
+    "cells": [
+     "opcional",
+     "cross",
+     "tick"
+    ]
+   }
+  ],
+  "alt": "Diagrama comparativo sobre onde deve viver o seu passaporte: o iCloud Photos oferece encriptação ponto a ponto opcional mas precisa de conta e sincronização, o Google Photos não cumpre nenhum dos quatro critérios, um cofre encriptado cumpre ponto a ponto, sem conta, funciona offline e AES-256",
+  "caption": "A tabela comparativa acima, redesenhada num só olhar.",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

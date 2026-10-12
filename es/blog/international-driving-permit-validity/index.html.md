@@ -36,6 +36,8 @@ Un permiso emitido bajo el Convenio de Ginebra de 1949 es válido durante un añ
 
 Esa división importa por partida doble. Determina cuánto dura tu permiso, y también decide dónde se reconoce. Un país que solo ratificó uno de los convenios no está obligado a reconocer un permiso emitido bajo el otro, y así es como un permiso que sirvió en el viaje del año pasado puede ser rechazado en este.
 
+![Diagrama que compara tres periodos de validez: pasaporte normalmente 10 años, carné de conducir según el país, y permiso de conducir internacional 1 año o hasta 3, que termina antes si el carné caduca primero, así que el más corto decide](https://traveldocumentvault.com/blog/international-driving-permit-validity/idp-clocks-figure-es.jpg) Tres documentos, tres relojes. El permiso queda limitado por el que se agote antes.
+
 | Tipo de permiso | Cuánto dura | Qué lo limita |
 |---|---|---|
 | **Convenio de París de 1926** | Un año | La fecha de emisión. Rara vez se necesita hoy |

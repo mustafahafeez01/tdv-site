@@ -28,6 +28,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/lost-passport-abroad/
 
 这两者很容易被混为一谈。事先了解清楚[数字护照副本在哪些场合被接受、哪些场合仍需出示原件](https://traveldocumentvault.com/zh-Hans/blog/digital-passport-copy-valid/)，会很有帮助。
 
+![护照境外丢失后七个步骤的示意路径：确认确实丢失、报警并取得报告、联系大使馆、申请应急旅行证件、通知保险公司、核实签证情况、回国后再补办护照，并提示今天就拍下护照照片，因为备份副本能让第4步快得多](https://traveldocumentvault.com/blog/lost-passport-abroad/lost-passport-7-steps-figure-zh-Hans.jpg) 七个按顺序进行的冷静步骤——以及今天就该做的那件事，在真正用到之前。
+
 ## 步骤1：确认护照真的丢失了
 
 在假设最坏情况之前检查所有地方——夹克口袋、每个包隔间、酒店保险箱、最后坐的出租车或餐厅。如果它真的丢失或被盗，请毫不延迟地进行剩余步骤。

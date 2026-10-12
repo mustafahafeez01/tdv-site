@@ -1,0 +1,29 @@
+{
+ "de": {
+  "template": "tree",
+  "root": {
+   "heading": "Speicherwahl"
+  },
+  "branches": [
+   {
+    "edge": "Auf dem Gerät",
+    "edge_mark": "tick",
+    "heading": "Ihre Daten bleiben bei Ihnen",
+    "tone": "good"
+   },
+   {
+    "edge": "Cloud-Upload",
+    "heading": "Vertrauen in den Server",
+    "tone": "warn",
+    "edge_mark": "question"
+   }
+  ],
+  "focal": "Auf dem Gerät funktioniert auch offline",
+  "alt": "Diagramm, das zwei Speichermodelle für eine Reisepass-Organizer-App vergleicht: auf dem Gerät bedeutet, Ihre Daten bleiben bei Ihnen, Cloud-Upload bedeutet Vertrauen in den Server, und auf dem Gerät funktioniert auch offline",
+  "caption": "Die eine architektonische Entscheidung, die alles andere bei einer Reisepass-App bestimmt.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "de": {
+  "template": "cards",
+  "title": "Ihre ETA ist an einen Reisepass gebunden",
+  "cards": [
+   {
+    "heading": "Der Reisepass, mit dem Sie beantragt haben",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Die ETA bleibt an dieses Heft gebunden"
+     },
+     {
+      "text": "Reisen Sie wie gewohnt",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Ein neuer oder erneuerter Reisepass",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Die Bindung geht nicht über"
+     },
+     {
+      "text": "Vor dem Flug eine neue ETA beantragen"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "note": "Eine Erneuerung löst die Bindung",
+  "focal": "Jeder Reisende braucht seine eigene, auch Kinder",
+  "alt": "Vergleichsdiagramm: Der Reisepass, mit dem Sie beantragt haben, hält die ETA an dieses Heft gebunden, sodass Sie wie gewohnt reisen, während ein neuer oder erneuerter Reisepass die Bindung nicht übernimmt und vor dem Flug eine neue ETA braucht, und jeder Reisende seine eigene benötigt, auch Kinder",
+  "caption": "Die Genehmigung ist an das Heft gebunden, nicht an Sie – und jeder Reisende trägt seine eigene.",
+  "placement": {
+   "h2": 4,
+   "para": 3
+  }
+ }
+}

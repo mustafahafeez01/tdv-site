@@ -1,0 +1,38 @@
+{
+ "id": {
+  "template": "sequence",
+  "title": "Paspor hilang di luar negeri: 7 langkah",
+  "steps": [
+   {
+    "text": "Pastikan benar-benar hilang"
+   },
+   {
+    "text": "Buat laporan polisi"
+   },
+   {
+    "text": "Hubungi kedutaan Anda"
+   },
+   {
+    "text": "Dokumen perjalanan darurat"
+   },
+   {
+    "text": "Beri tahu perusahaan asuransi Anda"
+   },
+   {
+    "text": "Periksa situasi visa Anda"
+   },
+   {
+    "text": "Pulang, lalu gantikan paspornya"
+   }
+  ],
+  "highlight": 3,
+  "note": "Sebelum semua ini: foto paspor Anda hari ini",
+  "focal": "Salinan cadangan membuat langkah 4 jauh lebih cepat",
+  "alt": "Diagram jalur tujuh langkah setelah paspor hilang di luar negeri: pastikan benar-benar hilang, buat laporan polisi, hubungi kedutaan Anda, dokumen perjalanan darurat, beri tahu perusahaan asuransi Anda, periksa situasi visa Anda, pulang lalu gantikan paspornya - dengan catatan untuk memfoto paspor Anda hari ini karena salinan cadangan membuat langkah empat jauh lebih cepat",
+  "caption": "Tujuh langkah tenang, berurutan - dan satu hal yang perlu dilakukan hari ini, sebelum semuanya benar-benar dibutuhkan.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

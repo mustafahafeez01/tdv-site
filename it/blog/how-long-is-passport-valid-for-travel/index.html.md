@@ -35,6 +35,8 @@ Il periodo di validità standard per un passaporto per adulti è 10 anni dalla d
 
 La tua data esatta di scadenza è stampata sulla pagina dati accanto alla tua foto. Quella data è il limite assoluto — il tuo passaporto smette di essere un documento di viaggio valido da qualsiasi parte del mondo una volta che la supera.
 
+![Diagramma della validità del passaporto: un passaporto adulto dura 10 anni, un passaporto bambino 5, e alla fine di entrambi c'è un margine di 6 mesi perché molti paesi lo richiedono](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/passport-validity-timeline-it.jpg) Due orologi, un'insidia: il margine di 6 mesi che molti paesi vogliono prima della tua data di scadenza.
+
 ## "Valido" e "Valido per il tuo viaggio" sono due cose diverse
 
 Un passaporto può essere tecnicamente valido — non scaduto — e comunque farti negare l'imbarco. Ci sono due ragioni principali per cui questo accade.

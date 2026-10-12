@@ -1,0 +1,44 @@
+{
+ "fr": {
+  "template": "tree",
+  "root": {
+   "heading": "Passeport expiré : où êtes-vous ?"
+  },
+  "branches": [
+   {
+    "heading": "Chez vous, voyage à venir",
+    "items": [
+     {
+      "text": "Réservez un renouvellement urgent",
+      "mark": "dot"
+     },
+     {
+      "text": "Créneaux le jour même au Royaume-Uni, urgences aux États-Unis",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "À l'aéroport",
+    "items": [
+     {
+      "text": "Appelez d'abord votre compagnie aérienne",
+      "mark": "dot"
+     },
+     {
+      "text": "Certaines reprogramment gratuitement en urgence",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "note": "La vraie solution : un rappel à 12 mois, pas 6",
+  "focal": "Aucune exception : expiré signifie pas d'embarquement",
+  "alt": "Diagramme pour un passeport expiré : chez vous avec un voyage à venir, réservez un renouvellement urgent car des créneaux le jour même existent au Royaume-Uni et en urgence aux États-Unis ; à l'aéroport, appelez d'abord votre compagnie aérienne car certaines reprogramment gratuitement en urgence. La vraie solution est un rappel à 12 mois, pas 6, car expiré signifie pas d'embarquement",
+  "caption": "Même problème, deux stratégies très différentes — tout dépend d'où vous êtes quand vous le découvrez.",
+  "placement": {
+   "h2": 1,
+   "para": 1
+  }
+ }
+}

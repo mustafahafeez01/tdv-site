@@ -1,0 +1,52 @@
+{
+ "es": {
+  "template": "cards",
+  "title": "¿Documento de identidad o pasaporte?",
+  "cards": [
+   {
+    "heading": "El documento de identidad suele valer",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Viajar dentro de la UE y el EEE",
+      "mark": "tick"
+     },
+     {
+      "text": "También a Suiza",
+      "mark": "tick"
+     },
+     {
+      "text": "Válido el día del viaje",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Lleva el pasaporte",
+    "items": [
+     {
+      "text": "La mayoría de viajes fuera de Europa",
+      "mark": "dot"
+     },
+     {
+      "text": "Documento dañado o ilegible",
+      "mark": "dot"
+     },
+     {
+      "text": "Tu aerolínea lo exige",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "o",
+  "focal": "Dos documentos, dos fechas de caducidad",
+  "alt": "Diagrama que compara cuándo suele valer un documento de identidad nacional -para viajar dentro de la UE, el EEE y Suiza- con cuándo hay que llevar el pasaporte: la mayoría de viajes fuera de Europa, un documento dañado, o una aerolínea que lo exige",
+  "caption": "Dentro de la UE y el EEE el documento de identidad suele valer; fuera de Europa, lleva el pasaporte.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

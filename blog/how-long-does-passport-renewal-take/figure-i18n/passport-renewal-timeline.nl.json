@@ -1,0 +1,38 @@
+{
+ "nl": {
+  "template": "sequence",
+  "title": "Wat een verlenging vertraagt",
+  "subtitle": "Een gewone verlenging slaat alle zes over",
+  "steps": [
+   {
+    "text": "Naamswijziging"
+   },
+   {
+    "text": "Eerste volwassen paspoort"
+   },
+   {
+    "text": "Aanvraag voor een kind"
+   },
+   {
+    "text": "Verloren of beschadigd"
+   },
+   {
+    "text": "Extra controles of een gesprek"
+   },
+   {
+    "text": "Aanvragen vanuit het buitenland"
+   }
+  ],
+  "start": "Aanvraag",
+  "end": "Paspoort",
+  "note": "Reken terug vanaf je reisdatum",
+  "focal": "Je paspoortinstantie publiceert de actuele verwerkingstijd",
+  "alt": "Diagram van een aanvraag op weg naar een voltooid paspoort langs zes vertragingen: naamswijziging, eerste volwassen paspoort, aanvraag voor een kind, verloren of beschadigd, extra controles of een gesprek, en aanvragen vanuit het buitenland",
+  "caption": "Zes situaties halen een aanvraag uit de snelle baan. Een gewone verlenging slaat ze allemaal over.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  },
+  "numbered": false
+ }
+}

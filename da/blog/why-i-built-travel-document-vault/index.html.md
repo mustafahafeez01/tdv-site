@@ -58,6 +58,8 @@ Når et hotel beder om en kopi af dit pas, en ambassade har brug for dine oplysn
 
 Det er den virkelige gevinst: du får din hjerneplads tilbage. Den usynlige mentale byrde – den konstante, lave summen af "glemmer jeg noget?" – forsvinder. Appen husker, så du ikke behøver.
 
+![Diagram af fem spredte apps – fotos, cloud, noter, e-mail, kalender – der samles ét sted, som til gengæld giver udløbspåmindelser, kryptering og offline adgang: én app i stedet for fem](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/scattered-to-single-vault-da.jpg) Det, kl. 23-tjekket før involverede – og det, det involverer nu.
+
 ## Det er ikke kun pas
 
 Da jeg begyndte at bruge den, lagde jeg mærke til, hvor mange andre dokumenter der stille og roligt udløber i baggrunden.

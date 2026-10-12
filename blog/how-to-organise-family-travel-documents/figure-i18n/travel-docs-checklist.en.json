@@ -1,0 +1,63 @@
+{
+ "en": {
+  "template": "cards",
+  "title": "Family travel checklist",
+  "cards": [
+   {
+    "items": [
+     {
+      "text": "Passports",
+      "mark": "tick"
+     },
+     {
+      "text": "Visas",
+      "mark": "tick"
+     },
+     {
+      "text": "ID cards",
+      "mark": "tick"
+     },
+     {
+      "text": "Travel insurance",
+      "mark": "tick"
+     },
+     {
+      "text": "Bookings",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "items": [
+     {
+      "text": "Vaccinations",
+      "mark": "tick"
+     },
+     {
+      "text": "Return ticket",
+      "mark": "tick"
+     },
+     {
+      "text": "Birth certificates",
+      "mark": "tick"
+     },
+     {
+      "text": "Consent letter",
+      "mark": "tick"
+     },
+     {
+      "text": "Custody orders",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "3+ months before travel",
+  "alt": "Checklist diagram of ten family travel documents: passports, visas, ID cards, travel insurance, bookings, vaccinations, return ticket, birth certificates, consent letter and custody orders, with a note to start 3+ months before travel",
+  "caption": "The full family list - start ticking it three months out, not the week before.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

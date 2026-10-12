@@ -1,0 +1,30 @@
+{
+ "sv": {
+  "template": "sequence",
+  "title": "Fyra kontrollpunkter, från bokning till ombordstigning",
+  "steps": [
+   {
+    "label": "Bokning",
+    "text": "Kontrollera utgångsdatum"
+   },
+   {
+    "label": "3 månader innan",
+    "text": "Förnya om det behövs"
+   },
+   {
+    "label": "1 månad innan",
+    "text": "Bekräfta och samla ihop"
+   },
+   {
+    "label": "Kvällen innan",
+    "text": "Sista kontroll"
+   }
+  ],
+  "alt": "Tidslinjediagram över kontroller av resehandlingar: kontrollera utgångsdatum vid bokning, förnya om det behövs tre månader innan, bekräfta och samla ihop en månad innan, sista kontroll kvällen innan",
+  "caption": "Fyra kontrollpunkter mellan bokning och ombordstigning - var och en liten om du börjar tidigt.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

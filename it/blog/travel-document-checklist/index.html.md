@@ -36,6 +36,8 @@ Scopra se la nazionalità del suo passaporto richiede un visto per l'ingresso, i
 
 Prenota l'assicurazione di viaggio quando prenota i voli, non una settimana prima della partenza. L'assicurazione stipulata dopo aver già identificato un rischio potrebbe escludere quel problema specifico. Assicurati che la polizza copra tutti i viaggiatori, tutte le destinazioni e le attività che ha in programma di svolgere.
 
+![Diagramma a linea temporale dei controlli sui documenti di viaggio: controllare le date di scadenza alla prenotazione, rinnovare se necessario tre mesi prima, confermare e raccogliere tutto un mese prima, controllo finale la notte prima](https://traveldocumentvault.com/blog/travel-document-checklist/checklist-timeline-it.jpg) Quattro controlli tra la prenotazione e l'imbarco, piccoli se inizi per tempo.
+
 ## Tre Mesi Prima: Se Rinnovo o Visto Sono Vicini, Parti Subito
 
 A questo punto ha ancora tempo per risolvere le cose. I tempi di rinnovo cambiano, e ogni autorità pubblica la propria cifra attuale: il Dipartimento di Stato americano, l'HM Passport Office e l'Ufficio Passaporti Australiano. Controlli sempre il sito ufficiale per i tempi attuali prima di presentare la domanda.

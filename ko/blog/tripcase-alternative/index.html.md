@@ -50,6 +50,8 @@ TripCase는 충분히 오래 존재해서 사람들이 그것을 영구적인 �
 
 TripCase는 여러 다른 작업을 하나의 무료 앱에 묶었습니다. 현재 어떤 앱도 모든 작업을 잘 하지 못하므로, 현명한 방법은 작업을 나누고 각각에 가장 좋은 도구를 선택하는 것입니다.
 
+![TripCase가 2025년 4월 1일 서비스를 종료한 뒤 네 가지 역할이 나뉘는 모습을 보여주는 다이어그램: 항공편 알림은 Flighty로, 일정 관리는 TripIt으로, 서류 보관은 Travel Document Vault로, 일정 공유는 공유 폴더로 이동한다](https://traveldocumentvault.com/blog/tripcase-alternative/tripcase-timeline-alternatives-ko.jpg) 대체 서비스를 한눈에 보는 지도. 네 가지 역할을 네 개의 도구가 각각 잘해냅니다.
+
 | 작업 | TripCase의 기능 | 현재 최고의 대체 서비스 | 비용 |
 |---|---|---|---|
 | 비행 알림 | 실시간 지연, 게이트 변경, 취소 | Flighty | 무료 티어; 유료 구독(가격 변동) |

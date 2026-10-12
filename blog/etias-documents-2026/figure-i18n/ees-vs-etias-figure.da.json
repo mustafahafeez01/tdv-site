@@ -1,0 +1,51 @@
+{
+ "da": {
+  "template": "cards",
+  "title": "EES og ETIAS er ikke det samme",
+  "cards": [
+   {
+    "heading": "EES",
+    "items": [
+     {
+      "text": "Sker ved grænsen",
+      "mark": "dot"
+     },
+     {
+      "text": "Fingeraftryk og foto, ingen ansøgning",
+      "mark": "dot"
+     },
+     {
+      "text": "Rulles gradvist ud ved indrejsesteder",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "ETIAS",
+    "items": [
+     {
+      "text": "Sker, før du flyver",
+      "mark": "dot"
+     },
+     {
+      "text": "Ansøg online, lille gebyr",
+      "mark": "dot"
+     },
+     {
+      "text": "Endnu ikke obligatorisk, ingen dato",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "and",
+  "note": "Du får i sidste ende brug for begge",
+  "focal": "Ingen af dem er et visum",
+  "alt": "Diagram, der sammenligner EES og ETIAS: EES sker ved grænsen med fingeraftryk og foto uden ansøgning og rulles gradvist ud ved indrejsesteder, mens ETIAS sker, før du flyver, med online ansøgning og et lille gebyr, uden at der endnu er fastsat en obligatorisk dato; du får i sidste ende brug for begge, og ingen af dem er et visum",
+  "caption": "To forskellige porte: EES registrerer dig ved ankomst, ETIAS godkender dig før afrejse.",
+  "placement": {
+   "h2": 7,
+   "para": 3
+  }
+ }
+}

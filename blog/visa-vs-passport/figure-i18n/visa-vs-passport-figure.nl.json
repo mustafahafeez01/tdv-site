@@ -1,0 +1,45 @@
+{
+ "nl": {
+  "template": "cards",
+  "title": "Het ene identificeert je, het andere laat je toe",
+  "cards": [
+   {
+    "heading": "Paspoort",
+    "items": [
+     {
+      "text": "Je eigen land geeft het uit"
+     },
+     {
+      "text": "Bewijst wie je bent"
+     },
+     {
+      "text": "Laat je vertrekken uit eigen land"
+     }
+    ]
+   },
+   {
+    "heading": "Visum",
+    "items": [
+     {
+      "text": "De bestemming geeft het uit"
+     },
+     {
+      "text": "Geeft toestemming om binnen te komen"
+     },
+     {
+      "text": "Alleen voor dat ene land"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "note": "De meeste reizen hebben beide nodig",
+  "focal": "Een geldig paspoort is geen toestemming om binnen te komen",
+  "alt": "Vergelijkingsdiagram van een paspoort en een visum: je eigen land geeft het paspoort uit, het bewijst wie je bent en laat je vertrekken uit eigen land, terwijl de bestemming het visum uitgeeft, dat toestemming geeft om binnen te komen en alleen voor dat ene land geldt, met de aantekening dat de meeste reizen beide nodig hebben",
+  "caption": "Twee documenten, twee functies - en een geldig paspoort alleen is geen toestemming om binnen te komen.",
+  "placement": {
+   "h2": 5,
+   "para": 4
+  }
+ }
+}

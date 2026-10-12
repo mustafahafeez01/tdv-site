@@ -35,6 +35,8 @@ Masa berlaku standar untuk paspor dewasa adalah 10 tahun sejak tanggal penerbita
 
 Tanggal kedaluwarsa Anda yang tepat tercetak pada halaman data di samping foto Anda. Tanggal itu adalah batas mutlak, paspor Anda berhenti menjadi dokumen perjalanan yang sah di mana pun di dunia begitu tanggal itu terlewati.
 
+![Diagram masa berlaku paspor: paspor dewasa berlaku 10 tahun, paspor anak 5 tahun, dan jarak aman 6 bulan berada di akhir keduanya karena banyak negara mensyaratkannya](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/passport-validity-timeline-id.jpg) Dua jam, satu syarat tersembunyi: jarak aman 6 bulan yang disyaratkan banyak negara sebelum tanggal kedaluwarsa Anda.
+
 ## "Berlaku" dan "Berlaku untuk Perjalanan Anda" Adalah Dua Hal yang Berbeda
 
 Sebuah paspor bisa secara teknis masih berlaku, belum kedaluwarsa, dan tetap membuat Anda ditolak naik pesawat. Ada dua alasan utama untuk ini.

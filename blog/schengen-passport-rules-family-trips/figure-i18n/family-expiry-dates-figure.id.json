@@ -1,0 +1,34 @@
+{
+ "id": {
+  "template": "sequence",
+  "title": "Satu keluarga, empat tanggal kedaluwarsa",
+  "subtitle": "Tanggal paling awal yang menentukan perjalanan",
+  "steps": [
+   {
+    "label": "Anak 2",
+    "text": "Berlaku sampai 2027"
+   },
+   {
+    "label": "Anak 1",
+    "text": "Berlaku sampai 2028"
+   },
+   {
+    "label": "Ibu",
+    "text": "Berlaku sampai 2030"
+   },
+   {
+    "label": "Ayah",
+    "text": "Berlaku sampai 2032"
+   }
+  ],
+  "highlight": 0,
+  "note": "Paspor anak berlaku 5 tahun, bukan 10. Schengen mensyaratkan sisa 3 bulan setelah Anda berangkat.",
+  "focal": "Periksa setiap paspor pada hari Anda memesan",
+  "alt": "Diagram empat tanggal kedaluwarsa paspor satu keluarga secara berurutan: anak 2 berlaku sampai 2027, anak 1 sampai 2028, ibu sampai 2030, ayah sampai 2032; tanggal paling awal yang menentukan perjalanan, paspor anak berlaku 5 tahun bukan 10, dan Schengen mensyaratkan sisa 3 bulan setelah Anda berangkat",
+  "caption": "Empat paspor, empat jam - dan yang paling pendek yang menentukan tenggat waktu sesungguhnya bagi keluarga.",
+  "placement": {
+   "h2": 3,
+   "para": 2
+  }
+ }
+}

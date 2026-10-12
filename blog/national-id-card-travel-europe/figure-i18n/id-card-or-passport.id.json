@@ -1,0 +1,52 @@
+{
+ "id": {
+  "template": "cards",
+  "title": "Kartu identitas atau paspor?",
+  "cards": [
+   {
+    "heading": "Kartu identitas biasanya cukup",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Perjalanan di dalam UE dan EEA",
+      "mark": "tick"
+     },
+     {
+      "text": "Swiss juga",
+      "mark": "tick"
+     },
+     {
+      "text": "Kartu masih berlaku saat Anda bepergian",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Bawa paspor",
+    "items": [
+     {
+      "text": "Sebagian besar perjalanan di luar Eropa",
+      "mark": "dot"
+     },
+     {
+      "text": "Kartu rusak atau sulit dibaca",
+      "mark": "dot"
+     },
+     {
+      "text": "Maskapai Anda memintanya",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "atau",
+  "focal": "Dua dokumen, dua tanggal kedaluwarsa",
+  "alt": "Diagram yang membandingkan kapan kartu identitas nasional biasanya cukup, untuk perjalanan di dalam UE, EEA, dan Swiss, dengan kapan harus membawa paspor: sebagian besar perjalanan di luar Eropa, kartu yang rusak, atau maskapai yang memintanya",
+  "caption": "Di dalam UE dan EEA kartu biasanya cukup; di luar Eropa, bawa paspor.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

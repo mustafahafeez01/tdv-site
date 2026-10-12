@@ -1,0 +1,63 @@
+{
+ "it": {
+  "template": "cards",
+  "title": "Checklist di viaggio in famiglia",
+  "cards": [
+   {
+    "items": [
+     {
+      "text": "Passaporti",
+      "mark": "tick"
+     },
+     {
+      "text": "Visti",
+      "mark": "tick"
+     },
+     {
+      "text": "Carte d'identità",
+      "mark": "tick"
+     },
+     {
+      "text": "Assicurazione di viaggio",
+      "mark": "tick"
+     },
+     {
+      "text": "Prenotazioni",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "items": [
+     {
+      "text": "Vaccinazioni",
+      "mark": "tick"
+     },
+     {
+      "text": "Biglietto di ritorno",
+      "mark": "tick"
+     },
+     {
+      "text": "Certificati di nascita",
+      "mark": "tick"
+     },
+     {
+      "text": "Lettera di consenso",
+      "mark": "tick"
+     },
+     {
+      "text": "Provvedimenti di affidamento",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "3+ mesi prima del viaggio",
+  "alt": "Diagramma a checklist di dieci documenti di viaggio per la famiglia: passaporti, visti, carte d'identità, assicurazione di viaggio, prenotazioni, vaccinazioni, biglietto di ritorno, certificati di nascita, lettera di consenso e provvedimenti di affidamento, con la nota di iniziare 3+ mesi prima del viaggio",
+  "caption": "La lista completa per la famiglia: comincia a spuntarla tre mesi prima, non la settimana prima.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

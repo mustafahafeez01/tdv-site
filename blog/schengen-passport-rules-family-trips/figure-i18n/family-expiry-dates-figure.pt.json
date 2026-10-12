@@ -1,0 +1,34 @@
+{
+ "pt": {
+  "template": "sequence",
+  "title": "Uma família, quatro datas de validade",
+  "subtitle": "A data mais próxima decide a viagem",
+  "steps": [
+   {
+    "label": "Filho 2",
+    "text": "Válido até 2027"
+   },
+   {
+    "label": "Filho 1",
+    "text": "Válido até 2028"
+   },
+   {
+    "label": "Mãe",
+    "text": "Válido até 2030"
+   },
+   {
+    "label": "Pai",
+    "text": "Válido até 2032"
+   }
+  ],
+  "highlight": 0,
+  "note": "Os passaportes de crianças duram 5 anos, não 10. O Schengen exige 3 meses de validade após a saída.",
+  "focal": "Verifique todos os passaportes no dia da reserva",
+  "alt": "Diagrama das quatro datas de validade dos passaportes de uma família, por ordem: filho 2 válido até 2027, filho 1 até 2028, mãe até 2030, pai até 2032; a data mais próxima decide a viagem, os passaportes de crianças duram 5 anos e não 10, e o Schengen exige 3 meses de validade depois de sair",
+  "caption": "Quatro passaportes, quatro relógios - e o mais curto define o verdadeiro prazo da família.",
+  "placement": {
+   "h2": 3,
+   "para": 2
+  }
+ }
+}

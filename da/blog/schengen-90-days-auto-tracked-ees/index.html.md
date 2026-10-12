@@ -30,6 +30,8 @@ Ikke alle registreres. EU-borgere, beboere i Schengenlande og indehavere af lang
 
 Selve reglen er ikke ændret: du må opholde dig højst 90 dage i Schengenområdet inden for et rullende 180-dages vindue. Det er ikke 90 dage pr. kalenderår, og vinduet nulstilles ikke, når du rejser ud. For hver dag, du er til stede, må de forudgående 180 dage ikke indeholde mere end 90 dages ophold.
 
+![Tidslinjediagram over Schengens glidende 90/180-vindue: fra 180 dage siden til i dag bruger to rejser på 30 og 45 dage 75 af de 90 dage, hvilket efterlader 15; vinduet forskyder sig hver dag, og både ankomst- og afrejsedag tæller](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-da.jpg) Vinduet nulstilles aldrig: for hver enkelt dag kan de foregående 180 dage højst indeholde 90 dages ophold.
+
 Det, der har ændret sig, er håndhævelsen. Med passtempler betød det at bevise en overskridelse, at man skulle tyde falmet blæk, og grænsebetjente havde skøn. Nu er datoerne præcise, og systemet markerer en overskridelse i samme øjeblik, den sker. Forvent afvisning ved din næste indrejse, og i mange tilfælde et indrejseforbud på et til fem år, som myndighederne registrerer i Schengeninformationssystemet. Fejlmarginen er gået fra uklar til nul.
 
 ## Faldgruben: EES håndhæver, det planlægger ikke

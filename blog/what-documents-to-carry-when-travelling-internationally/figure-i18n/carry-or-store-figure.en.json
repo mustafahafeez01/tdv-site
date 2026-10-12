@@ -1,0 +1,59 @@
+{
+ "en": {
+  "template": "cards",
+  "title": "Carry it, or store it?",
+  "cards": [
+   {
+    "heading": "In your hand baggage",
+    "items": [
+     {
+      "text": "Passport",
+      "mark": "tick"
+     },
+     {
+      "text": "Visas and approvals",
+      "mark": "tick"
+     },
+     {
+      "text": "Boarding passes",
+      "mark": "tick"
+     },
+     {
+      "text": "Consent letter if needed",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Offline on your phone",
+    "items": [
+     {
+      "text": "Passport details",
+      "mark": "tick"
+     },
+     {
+      "text": "Insurance policy and hotline",
+      "mark": "tick"
+     },
+     {
+      "text": "Booking references",
+      "mark": "tick"
+     },
+     {
+      "text": "Vaccination certificates",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "and",
+  "note": "One backs up the other",
+  "focal": "If the bag is lost, the phone copy gets you home",
+  "alt": "Split diagram: in your hand baggage carry the passport, visas and approvals, boarding passes, and a consent letter if needed; offline on your phone store passport details, insurance policy and hotline, booking references, and vaccination certificates, because one backs up the other and if the bag is lost the phone copy gets you home",
+  "caption": "Originals travel in your hand baggage; their encrypted twins live offline on your phone.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

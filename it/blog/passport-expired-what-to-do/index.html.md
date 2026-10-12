@@ -19,6 +19,8 @@ Source: https://traveldocumentvault.com/it/blog/passport-expired-what-to-do/
 
 Scoprire che il Suo passaporto è scaduto è uno di quei momenti in cui il tempo improvvisamente diventa molto reale. Che l'abbia notato tre mesi prima di un viaggio o che stia in piedi al bancone del check-in dell'aeroporto in questo momento, quello che accade dopo dipende interamente da quale situazione si trova.
 
+![Diagramma a rami per un passaporto scaduto: a casa con un viaggio in arrivo, si prenota un rinnovo urgente perché esistono appuntamenti lo stesso giorno nel Regno Unito e d'emergenza negli USA; in aeroporto, si chiama prima la compagnia aerea perché alcune riprogrammano gratis in caso di emergenza. La vera soluzione è un promemoria a 12 mesi, non a 6, perché scaduto significa che non si vola](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-it.jpg) Stesso problema, due soluzioni molto diverse - dipende tutto da dove ci si trova quando lo si scopre.
+
 ## Scenario A: Ha scoperto a casa, con un viaggio in programma
 
 Questa situazione è recuperabile, ma quanto è recuperabile dipende da quanto tempo ha prima di viaggiare.

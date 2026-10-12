@@ -1,0 +1,13 @@
+{
+ "zh-Hans": {
+  "reuse": "/blog/travel-insurance-documents/saved-vs-searching-figure.jpg",
+  "width": 1536,
+  "height": 1024,
+  "alt": "两部相同的手机并排对比：左边屏幕亮起，保单已保存在设备上；右边屏幕灰暗，显示加载圈且无信号",
+  "caption": "已下载在手边，还是仍困在打不开的收件箱里。差别会在最糟的时刻显现出来。",
+  "placement": {
+   "h2": 4,
+   "para": 7
+  }
+ }
+}

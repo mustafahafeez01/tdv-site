@@ -33,6 +33,8 @@ Geen van beide benaderingen is per definitie "fout", maar voor identiteitsdocume
 
 Bij een datalek bij een app die alles op het toestel bewaart, lekt er niets van hun servers – er staat daar simpelweg niets om te lekken.
 
+![Diagram dat de twee opslagmodellen van een paspoortorganizer-app vergelijkt: op je toestel betekent dat je gegevens bij jou blijven, cloud-upload betekent dat je de server vertrouwt, en op je toestel werkt ook offline](https://traveldocumentvault.com/blog/best-passport-organizer-app/app-storage-compare-nl.jpg) De ene architecturale keuze die alles bepaalt voor een paspoortorganizer-app.
+
 ## Deze functies bepalen of de app zijn plek verdient
 
 ### De voorlooptijd van herinneringen is de instelling die je zelf wilt kunnen aanpassen

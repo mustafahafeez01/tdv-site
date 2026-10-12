@@ -1,0 +1,48 @@
+{
+ "pt": {
+  "template": "cards",
+  "title": "Cópia digital: onde funciona",
+  "cards": [
+   {
+    "heading": "Geralmente aceite",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Check-in no hotel",
+      "mark": "tick"
+     },
+     {
+      "text": "Reserva de voo",
+      "mark": "tick"
+     },
+     {
+      "text": "Aluguer de carro",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Original exigido",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Controlo de fronteira",
+      "mark": "cross"
+     },
+     {
+      "text": "Embarque na companhia aérea",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "A cópia apoia, o passaporte viaja",
+  "alt": "Diagrama de onde funciona uma cópia digital do passaporte: geralmente aceite para check-in no hotel, reserva de voo e aluguer de carro; original exigido no controlo de fronteira e no embarque na companhia aérea",
+  "caption": "Resumindo - uma cópia abre portas, só o original atravessa fronteiras.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

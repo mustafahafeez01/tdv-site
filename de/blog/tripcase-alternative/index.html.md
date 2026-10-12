@@ -50,6 +50,8 @@ Reisedokumente tragen ein anderes Gewicht als verlorene Playlists. Ein Reisepass
 
 TripCase bündelte mehrere verschiedene Aufgaben in einer kostenlosen App. Keine aktuelle App macht alle davon gut, also ist der ehrliche Schritt, die Aufgaben zu teilen und das beste Werkzeug für jede auszuwählen:
 
+![Diagramm zu TripCases vier Aufgaben nach der Einstellung am 1. April 2025: Flugbenachrichtigungen zu Flighty, Reiseplan zu TripIt, Dokumente zu Travel Document Vault, Reise teilen über einen geteilten Ordner](https://traveldocumentvault.com/blog/tripcase-alternative/tripcase-timeline-alternatives-de.jpg) Die Ersatzübersicht auf einen Blick: vier Aufgaben, vier Tools, jedes gut in seinem Bereich.
+
 | Die Aufgabe | Was TripCase tat | Bester Ersatz jetzt | Kosten |
 |---|---|---|---|
 | Flugwarnungen | Echtzeit-Verspätungen, Torwechsel, Stornierungen | Flighty | Kostenloser Plan; kostenpflichtiges Abonnement verfügbar |

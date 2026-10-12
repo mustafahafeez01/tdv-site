@@ -46,6 +46,8 @@ Wenn ein Kind mit nur einem Elternteil (oder mit keinem Elternteil) internationa
 
 Es ist das am häufigsten übersehene Dokument im Familienreisen, überprüfen Sie also vorher doppelt.
 
+![Geteiltes Diagramm: im Handgepäck mitnehmen – Reisepass, Visa und Genehmigungen, Bordkarten und bei Bedarf einen Zustimmungsbrief; offline auf dem Telefon speichern – Reisepassdaten, Versicherungspolice und Hotline, Buchungsreferenzen und Impfzertifikate, weil eines das andere absichert und die Telefonkopie Sie heimbringt, falls die Tasche verloren geht](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/carry-or-store-figure-de.jpg) Originale reisen im Handgepäck; ihre verschlüsselten Zwillinge leben offline auf dem Telefon.
+
 ## Was Sie mitnehmen sollten versus was Sie digital speichern sollten
 
 Grenzen erfordern Original-Dokumente, aber wenn diese verschwinden, helfen sichere digitale Kopien, Sie nach Hause zu bringen.

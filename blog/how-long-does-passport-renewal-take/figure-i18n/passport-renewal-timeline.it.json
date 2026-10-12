@@ -1,0 +1,38 @@
+{
+ "it": {
+  "template": "sequence",
+  "title": "Cosa rallenta un rinnovo",
+  "subtitle": "Un rinnovo semplice evita tutti e sei",
+  "steps": [
+   {
+    "text": "Cambio di nome"
+   },
+   {
+    "text": "Primo passaporto da adulto"
+   },
+   {
+    "text": "Domanda per un minore"
+   },
+   {
+    "text": "Perso o danneggiato"
+   },
+   {
+    "text": "Controlli aggiuntivi o un colloquio"
+   },
+   {
+    "text": "Domanda dall'estero"
+   }
+  ],
+  "start": "Domanda",
+  "end": "Passaporto",
+  "note": "Calcolate a ritroso dalla vostra data di viaggio",
+  "focal": "La vostra autorità passaporti pubblica i tempi attuali",
+  "alt": "Diagramma di una domanda che arriva a un passaporto pronto superando sei possibili ritardi: cambio di nome, primo passaporto da adulto, domanda per un minore, perso o danneggiato, controlli aggiuntivi o un colloquio, e domanda dall'estero",
+  "caption": "Sei situazioni tolgono una domanda dalla corsia rapida. Un rinnovo semplice le evita tutte.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  },
+  "numbered": false
+ }
+}

@@ -33,6 +33,8 @@ Source: https://traveldocumentvault.com/ko/blog/best-passport-organizer-app/
 
 기기 저장소 앱의 침해는 서버에서 아무것도 유출하지 않습니다. 거기에 유출할 것이 없기 때문입니다.
 
+![여권 보관 앱의 두 저장 방식을 비교하는 다이어그램. 기기 저장은 데이터가 내 손에 남고, 클라우드 업로드는 서버를 믿어야 하며, 기기 저장은 오프라인에서도 작동한다는 내용을 보여준다](https://traveldocumentvault.com/blog/best-passport-organizer-app/app-storage-compare-ko.jpg) 이 앱의 모든 것을 결정하는 단 하나의 구조적 선택.
+
 ## 이런 기능이 그 앱이 쓸 만한지를 가릅니다
 
 ### 알림 선행 시간은 직접 조정할 가치가 있는 설정입니다

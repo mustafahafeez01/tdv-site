@@ -28,6 +28,8 @@ Salinan di ponsel Anda adalah sebuah catatan, bukan identitas resmi.
 
 Ada baiknya mengetahui sejak awal [di mana salinan digital paspor diterima dan di mana Anda tetap memerlukan dokumen aslinya](https://traveldocumentvault.com/id/blog/digital-passport-copy-valid/).
 
+![Diagram jalur tujuh langkah setelah paspor hilang di luar negeri: pastikan benar-benar hilang, buat laporan polisi, hubungi kedutaan Anda, dokumen perjalanan darurat, beri tahu perusahaan asuransi Anda, periksa situasi visa Anda, pulang lalu gantikan paspornya - dengan catatan untuk memfoto paspor Anda hari ini karena salinan cadangan membuat langkah empat jauh lebih cepat](https://traveldocumentvault.com/blog/lost-passport-abroad/lost-passport-7-steps-figure-id.jpg) Tujuh langkah tenang, berurutan - dan satu hal yang perlu dilakukan hari ini, sebelum semuanya benar-benar dibutuhkan.
+
 ## Langkah 1: Pastikan Paspor Benar-Benar Hilang
 
 Periksa semua tempat sebelum menyimpulkan yang terburuk — kantong jaket, setiap kompartemen tas, brankas hotel, taksi atau restoran terakhir yang dikunjungi. Jika memang benar-benar hilang atau dicuri, lanjutkan ke langkah berikutnya tanpa menunda.

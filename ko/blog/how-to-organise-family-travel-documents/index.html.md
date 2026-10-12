@@ -53,6 +53,8 @@ Source: https://traveldocumentvault.com/ko/blog/how-to-organise-family-travel-do
 
 **접근하기 좋은 기타 서류**
 
+![가족 여행에 필요한 열 가지 서류를 보여주는 체크리스트 다이어그램: 여권, 비자, 신분증, 여행 보험, 예약 확인서, 예방 접종, 귀국 항공권, 출생증명서, 동의서, 양육권 명령서. 여행 3개월 전부터 시작하라는 메모가 있다](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/travel-docs-checklist-ko.jpg) 가족용 전체 목록입니다. 출발 일주일 전이 아니라 3개월 전부터 하나씩 확인하세요.
+
 - 국제 운전면허증 (해외에서 렌터카를 빌리는 경우)
 - 지속적인 상태의 의료 기록 또는 처방약 세부 정보
 - 유럽 건강 보험 카드 (EHIC) (EU 여행자용)

@@ -38,6 +38,8 @@ Biluthyrningsföretag accepterar vanligtvis digitala passkopior för bokning och
 
 Tappar du passet eller blir det stulet under resan kan en digital kopia väsentligt snabba upp processen för ett provisoriskt resedokument hos din ambassad. Den styrker att passet finns och ger dina personuppgifter, foto och passnummer – allt ambassaden behöver för att utfärda en ersättningshandling. Det här är ett av de starkaste skälen till att alltid bära en digital backup.
 
+![Diagram över var en digital passkopia fungerar: vanligtvis okej för hotellincheckning, flygbokning och biluthyrning, original krävs vid gränskontroll och ombordstigning](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-sv.jpg) Kortversionen - en kopia öppnar dörrar, bara originalet passerar gränser.
+
 ## Var ditt fysiska pass alltid krävs
 
 En digital kopia ersätter inte ditt fysiska pass vid gränskontroll, hos flygbolag eller hos polisen. I de här situationerna är originalhandlingen helt enkelt obligatorisk – det finns inget sätt runt det.

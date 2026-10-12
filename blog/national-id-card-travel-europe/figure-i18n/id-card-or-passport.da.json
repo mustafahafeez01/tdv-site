@@ -1,0 +1,52 @@
+{
+ "da": {
+  "template": "cards",
+  "title": "ID-kort eller pas?",
+  "cards": [
+   {
+    "heading": "ID-kort virker normalt",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Rejser inden for EU og EØS",
+      "mark": "tick"
+     },
+     {
+      "text": "Også Schweiz",
+      "mark": "tick"
+     },
+     {
+      "text": "Kortet gyldigt på afrejsedagen",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Tag passet med",
+    "items": [
+     {
+      "text": "De fleste rejser uden for Europa",
+      "mark": "dot"
+     },
+     {
+      "text": "Kortet beskadiget eller svært at læse",
+      "mark": "dot"
+     },
+     {
+      "text": "Dit flyselskab beder om det",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "eller",
+  "focal": "To dokumenter, to udløbsdatoer",
+  "alt": "Diagram, der sammenligner, hvornår et nationalt ID-kort normalt virker, til rejser inden for EU og EØS samt Schweiz, med hvornår man skal tage passet med: de fleste rejser uden for Europa, et beskadiget kort, eller et flyselskab, der beder om det",
+  "caption": "Inden for EU og EØS virker kortet normalt; uden for Europa, tag passet med.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

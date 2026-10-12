@@ -1,0 +1,41 @@
+{
+ "de": {
+  "template": "tree",
+  "root": {
+   "heading": "Wer hält den Schlüssel?"
+  },
+  "branches": [
+   {
+    "edge": "Schlüssel beim Anbieter",
+    "edge_mark": "cross",
+    "heading": "Fotosicherung",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Lesbar für jeden, der Zugriff bekommt",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "edge": "Ihr Schlüssel, bleibt auf dem Telefon",
+    "edge_mark": "tick",
+    "heading": "Verschlüsseltes Backup",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Nutzlos ohne den Schlüssel",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Gleiche Cloud, andere Antwort",
+  "alt": "Diagramm, das eine Fotosicherung vergleicht, lesbar in der Cloud mit dem Schlüssel beim Anbieter, und ein verschlüsseltes Backup, nutzlos ohne den Schlüssel, der auf Ihrem Telefon bleibt",
+  "caption": "Gleiche Cloud, andere Antwort. Die Datei geht in beiden Fällen hoch; was sich ändert, ist, wer sie öffnen kann.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

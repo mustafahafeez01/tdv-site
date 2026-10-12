@@ -1,0 +1,52 @@
+{
+ "nl": {
+  "template": "cards",
+  "title": "Airside of landside?",
+  "cards": [
+   {
+    "heading": "Airside",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Je blijft na de beveiliging",
+      "mark": "dot"
+     },
+     {
+      "text": "Je gaat niet door de grenscontrole",
+      "mark": "dot"
+     },
+     {
+      "text": "Sommige landen vragen toch een transitvisum",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Landside",
+    "items": [
+     {
+      "text": "Je verlaat de beveiligde zone",
+      "mark": "dot"
+     },
+     {
+      "text": "Je gaat door de grenscontrole",
+      "mark": "dot"
+     },
+     {
+      "text": "Meestal is een visum vereist",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "of",
+  "focal": "Controleer het land van je overstap",
+  "alt": "Diagram dat airside-transit vergelijkt, waarbij je na de beveiliging blijft en niet door de grenscontrole gaat, al vragen sommige landen toch een transitvisum, met landside-transit, waarbij je de beveiligde zone verlaat, door de grenscontrole gaat en meestal een visum nodig hebt",
+  "caption": "Airside blijft in de terminal; landside betekent het land binnengaan.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

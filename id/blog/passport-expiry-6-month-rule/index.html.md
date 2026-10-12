@@ -31,6 +31,8 @@ Logikanya sederhana: negara ingin memastikan Anda tidak melebihi masa izin tingg
 
 **Aturan ini tidak berlaku universal.** Setiap negara menetapkan ketentuannya sendiri, dan persyaratannya bisa berbeda tergantung kewarganegaraan Anda. Perjanjian bilateral antara dua negara bisa membebaskan aturan ini untuk warga negara satu pihak tapi tidak untuk pihak lain. Itulah yang membuatnya begitu mudah keliru jika Anda tidak memeriksanya sebelum setiap perjalanan.
 
+![Diagram garis waktu aturan paspor 6 bulan: Anda tiba, perjalanan Anda, Anda terbang pulang, lalu enam bulan lagi yang harus dilalui paspor Anda dalam keadaan masih berlaku; sebagian besar negara menghitung dari hari Anda tiba dan sebagian dari hari Anda berangkat, sehingga menghitung dari tanggal yang paling akhir memenuhi keduanya](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/six-month-rule-figure-id.jpg) Sebagian besar negara menghitung enam bulan itu dari hari Anda tiba - menghitung dari tanggal yang paling akhir melindungi Anda dalam kedua kasus.
+
 ## Bisakah Bepergian dengan Paspor yang Habis Masa Berlakunya dalam 6 Bulan?
 
 Terkadang, bisa. Jika negara tujuan hanya mensyaratkan paspor tetap berlaku selama masa kunjungan Anda, sisa lima bulan biasanya sudah cukup untuk masuk. Inggris menerapkan aturan seperti ini untuk sebagian besar pengunjung, dan negara-negara Schengen umumnya mensyaratkan masa berlaku tiga bulan setelah tanggal keberangkatan yang direncanakan, bukan enam bulan.

@@ -48,6 +48,8 @@ Passmyndigheter vill ha tre saker när du ansöker om ett barns första pass: be
 
 ## Bebisar kan inte följa vuxnas fotoregler, så du anpassar dem
 
+![Diagram över vad som är samma på ett babypassfoto (öppna ögon, enfärgad bakgrund, inget annat i bild) och vad som ändras per åldersgrupp, från under 6 månader till 2 år och äldre, med de vanligaste avslagsorsakerna](https://traveldocumentvault.com/blog/child-first-passport-application/baby-photo-figure-sv.jpg)
+
 Det är här många förstagångsansökningar misslyckas. En baby eller ett litet barn kan inte följa fotoreglerna som en vuxen kan: bebisar kan inte sitta upp, småbarn kan inte sitta stilla eller förstå instruktioner, och nyfödda kan inte titta in i kameran på kommando. Passfotostandarder är skrivna för vuxna, och du behöver förstå hur du anpassar dem när motivet är ett barn som väger 5 kilo och rör sig hela tiden.
 
 **Grundreglerna är desamma:** barnets ögon måste vara tydligt öppna och rikta sig mot kameran, med en enfärgad bakgrund bakom huvudet och inget annat i bild. Det som ändras är hur du får det att hända.

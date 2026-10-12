@@ -89,6 +89,8 @@ Met Pro kun je documenten synchroniseren tussen ingestelde apparaten op hetzelfd
 
 ## Versleuteling, account en kosten in één oogopslag
 
+![Vergelijkingsdiagram over waar je paspoort het best staat: iCloud-foto's bieden optionele end-to-end versleuteling maar vragen een account en synchronisatie, Google Foto's voldoet aan geen van de vier criteria, een versleutelde kluis vinkt end-to-end, geen account, werkt offline en AES-256 allemaal aan](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/storage-comparison-nl.jpg) De vergelijkingstabel hierboven, in één overzicht.
+
 | Functie | iCloud Photos | Google Photos | Versleutelde app |
 |---|---|---|---|
 | Versleuteling in rust | Ja (AES-128) | Ja (AES-128) | Ja (AES-256) |

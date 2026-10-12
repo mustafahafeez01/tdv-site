@@ -1,0 +1,63 @@
+{
+ "nl": {
+  "template": "cards",
+  "title": "Checklist voor gezinsreizen",
+  "cards": [
+   {
+    "items": [
+     {
+      "text": "Paspoorten",
+      "mark": "tick"
+     },
+     {
+      "text": "Visa",
+      "mark": "tick"
+     },
+     {
+      "text": "ID-kaarten",
+      "mark": "tick"
+     },
+     {
+      "text": "Reisverzekering",
+      "mark": "tick"
+     },
+     {
+      "text": "Boekingen",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "items": [
+     {
+      "text": "Vaccinaties",
+      "mark": "tick"
+     },
+     {
+      "text": "Retourticket",
+      "mark": "tick"
+     },
+     {
+      "text": "Geboorteaktes",
+      "mark": "tick"
+     },
+     {
+      "text": "Toestemmingsbrief",
+      "mark": "tick"
+     },
+     {
+      "text": "Voogdijbeschikkingen",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "3+ maanden voor vertrek",
+  "alt": "Checklistdiagram van tien reisdocumenten voor het gezin: paspoorten, visa, ID-kaarten, reisverzekering, boekingen, vaccinaties, retourticket, geboorteaktes, toestemmingsbrief en voogdijbeschikkingen, met een aantekening om 3+ maanden voor vertrek te beginnen",
+  "caption": "De volledige gezinslijst - begin drie maanden van tevoren met afvinken, niet de week ervoor.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

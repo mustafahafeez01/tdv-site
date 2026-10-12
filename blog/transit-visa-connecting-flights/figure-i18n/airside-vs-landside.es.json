@@ -1,0 +1,52 @@
+{
+ "es": {
+  "template": "cards",
+  "title": "¿Lado aire o lado tierra?",
+  "cards": [
+   {
+    "heading": "Lado aire",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Te quedas tras el control de seguridad",
+      "mark": "dot"
+     },
+     {
+      "text": "No pasas por inmigración",
+      "mark": "dot"
+     },
+     {
+      "text": "Algunos países aún exigen visado de tránsito",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Lado tierra",
+    "items": [
+     {
+      "text": "Sales de la zona segura",
+      "mark": "dot"
+     },
+     {
+      "text": "Pasas por inmigración",
+      "mark": "dot"
+     },
+     {
+      "text": "Normalmente se exige visado",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "o",
+  "focal": "Comprueba el país de tu escala",
+  "alt": "Diagrama que compara el tránsito en lado aire, donde te quedas tras el control de seguridad y no pasas por inmigración aunque algunos países aún exigen visado de tránsito, con el tránsito en lado tierra, donde sales de la zona segura, pasas por inmigración y normalmente se exige visado",
+  "caption": "El lado aire se queda en la terminal; el lado tierra significa entrar en el país.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

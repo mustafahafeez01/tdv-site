@@ -1,0 +1,34 @@
+{
+ "da": {
+  "template": "sequence",
+  "title": "Én familie, fire udløbsdatoer",
+  "subtitle": "Den tidligste dato afgør rejsen",
+  "steps": [
+   {
+    "label": "Barn 2",
+    "text": "Gyldigt til 2027"
+   },
+   {
+    "label": "Barn 1",
+    "text": "Gyldigt til 2028"
+   },
+   {
+    "label": "Mor",
+    "text": "Gyldigt til 2030"
+   },
+   {
+    "label": "Far",
+    "text": "Gyldigt til 2032"
+   }
+  ],
+  "highlight": 0,
+  "note": "Børnepas holder 5 år, ikke 10. Schengen kræver 3 måneder tilbage efter afrejse.",
+  "focal": "Tjek alle pas den dag, du booker",
+  "alt": "Diagram over en families fire pas-udløbsdatoer i rækkefølge: barn 2 gyldigt til 2027, barn 1 til 2028, mor til 2030, far til 2032; den tidligste dato afgør rejsen, børnepas holder 5 år, ikke 10, og Schengen kræver 3 måneder tilbage efter afrejse",
+  "caption": "Fire pas, fire ure – og det korteste sætter familiens reelle deadline.",
+  "placement": {
+   "h2": 3,
+   "para": 2
+  }
+ }
+}

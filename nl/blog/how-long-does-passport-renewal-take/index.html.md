@@ -46,6 +46,8 @@ Eén kanttekening: toelating tot de snellere routes hangt meestal af van je situ
 
 De meeste vertragingen komen niet doordat het systeem over het algemeen traag is. Ze komen door een klein aantal situaties die een aanvraag uit de snelle baan duwen en in extra beoordeling, en dat geldt ongeacht in welk land je aanvraagt.
 
+![Diagram van een aanvraag op weg naar een voltooid paspoort langs zes vertragingen: naamswijziging, eerste volwassen paspoort, aanvraag voor een kind, verloren of beschadigd, extra controles of een gesprek, en aanvragen vanuit het buitenland](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/passport-renewal-timeline-nl.jpg) Zes situaties halen een aanvraag uit de snelle baan. Een gewone verlenging slaat ze allemaal over.
+
 - **Een naamswijziging.** Huwelijk, scheiding of een wettelijke naamswijziging betekent meestal extra documentatie en aanvullende verificatie voordat het nieuwe paspoort kan worden uitgegeven.
 - **Een eerste volwassen paspoort.** Als dit de eerste keer is dat je als volwassene aanvraagt, of je gaat over van een kinderpaspoort, voeren de meeste instanties extra identiteitscontroles uit omdat er geen eerder volwassenenpaspoort is om tegen te toetsen.
 - **Een paspoort voor een kind.** Eisen rond ouderlijke toestemming, geboorteakten en, in sommige landen, persoonlijke aanwezigheid van beide ouders voegen stappen toe die volwassenenverlengingen niet nodig hebben.

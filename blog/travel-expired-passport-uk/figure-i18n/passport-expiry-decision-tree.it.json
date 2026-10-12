@@ -1,0 +1,40 @@
+{
+ "it": {
+  "template": "tree",
+  "title": "Viaggiare con un passaporto scaduto",
+  "root": {
+   "heading": "Tipo di viaggio?"
+  },
+  "branches": [
+   {
+    "edge": "Internazionale",
+    "edge_mark": "cross",
+    "heading": "Non consentito",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Richieda un rinnovo urgente"
+     }
+    ]
+   },
+   {
+    "edge": "Nazionale",
+    "edge_mark": "question",
+    "heading": "Verifichi con la sua compagnia aerea",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Chiami prima di viaggiare"
+     }
+    ]
+   }
+  ],
+  "focal": "Verifichi sempre prima della partenza",
+  "alt": "Albero decisionale per un passaporto scaduto: il viaggio internazionale è segnato come non consentito e porta a richiedere un rinnovo urgente, il viaggio nazionale porta a verificare con la propria compagnia aerea e a chiamare prima di viaggiare, con la nota di verificare sempre prima della partenza",
+  "caption": "I due percorsi da un passaporto scaduto - e nessuno dei due passa per il gate d'imbarco.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

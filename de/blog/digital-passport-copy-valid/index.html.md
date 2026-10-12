@@ -38,6 +38,8 @@ Mietwagenvermietungen akzeptieren in der Regel digitale Reisepasskopien für Buc
 
 Wenn Ihr Reisepass während einer Reise verloren geht oder gestohlen wird, kann eine digitale Kopie den Prozess für ein Notfall-Reisedokument bei Ihrer Botschaft erheblich beschleunigen. Sie belegt das Vorhandensein Ihres Reisepasses und liefert Ihre biografischen Daten, Ihr Foto und Ihre Passnummer, die die Botschaft benötigt, um einen Ersatz auszustellen. Dies ist einer der stärksten Gründe, immer eine digitale Sicherung mitzuführen.
 
+![Diagramm dazu, wo eine digitale Reisepasskopie funktioniert: in der Regel kein Problem bei Hotel-Check-in, Flugbuchung und Mietwagen, Original erforderlich bei Grenzkontrolle und Boarding](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-de.jpg) Kurz gesagt – eine Kopie öffnet Türen, nur das Original überquert Grenzen.
+
 ## Wo Ihr physischer Reisepass immer erforderlich ist
 
 Eine digitale Kopie ist kein Ersatz für Ihren physischen Reisepass an der Einwanderung, bei Fluggesellschaften oder bei Strafverfolgungsbehörden. In diesen Szenarien ist das Originaldokument einfach obligatorisch – es gibt keine Umgehung.

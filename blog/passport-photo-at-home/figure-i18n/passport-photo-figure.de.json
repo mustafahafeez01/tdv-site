@@ -1,0 +1,64 @@
+{
+ "de": {
+  "template": "cards",
+  "title": "Warum Passfotos abgelehnt werden",
+  "cards": [
+   {
+    "heading": "Abgelehnt",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Schatten hinter dem Kopf",
+      "mark": "cross"
+     },
+     {
+      "text": "Lächeln",
+      "mark": "cross"
+     },
+     {
+      "text": "Reflexion auf der Brille",
+      "mark": "cross"
+     },
+     {
+      "text": "Haare über den Augen",
+      "mark": "cross"
+     },
+     {
+      "text": "Gemusterter Hintergrund",
+      "mark": "cross"
+     },
+     {
+      "text": "Foto zu nah aufgenommen",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Akzeptiert",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Einfarbiger Hintergrund",
+      "mark": "tick"
+     },
+     {
+      "text": "Neutraler Gesichtsausdruck",
+      "mark": "tick"
+     },
+     {
+      "text": "Gleichmäßiges Licht",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "Ihre Passbehörde veröffentlicht die genaue Größe",
+  "alt": "Diagramm mit sechs abgelehnten Passfotos, Schatten hinter dem Kopf, Lächeln, Reflexion auf der Brille, Haare über den Augen, gemusterter Hintergrund und zu nah aufgenommen, neben einem akzeptierten Foto mit einfarbigem Hintergrund, neutralem Gesichtsausdruck und gleichmäßigem Licht",
+  "caption": "Sechs Arten, wie ein Foto zurückgeschickt wird, und das eine Setup, das durchkommt.",
+  "placement": {
+   "h2": 6,
+   "para": 0
+  }
+ }
+}

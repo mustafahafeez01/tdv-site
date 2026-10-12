@@ -1,0 +1,43 @@
+{
+ "it": {
+  "template": "matrix",
+  "title": "Un visto, tre orologi diversi",
+  "columns": [
+   "Cosa Le dice"
+  ],
+  "rows": [
+   {
+    "label": "Validità d'ingresso",
+    "cells": [
+     "Entri prima di questa data"
+    ]
+   },
+   {
+    "label": "Durata massima di soggiorno",
+    "cells": [
+     "Per quanto tempo può restare"
+    ]
+   },
+   {
+    "label": "Numero di ingressi",
+    "cells": [
+     "Ingresso singolo o multiplo"
+    ]
+   },
+   {
+    "label": "Schengen ne aggiunge un quarto",
+    "cells": [
+     "La finestra mobile 90/180"
+    ]
+   }
+  ],
+  "note": "Tenga traccia di tutti, per ogni persona, in un unico posto",
+  "focal": "I superamenti possono comportare multe e divieti di rientro",
+  "alt": "Diagramma dei tre orologi di un visto: validità d'ingresso (entrare prima di questa data), durata massima di soggiorno (per quanto tempo si può restare), e numero di ingressi (singolo o multiplo), con la nota che Schengen ne aggiunge un quarto, la finestra mobile 90/180, e che i superamenti possono comportare multe e divieti di rientro",
+  "caption": "Un visto non è una sola data. Sono tre orologi separati, e a volte un quarto.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

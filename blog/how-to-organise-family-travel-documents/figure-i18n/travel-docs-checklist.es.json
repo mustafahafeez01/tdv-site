@@ -1,0 +1,63 @@
+{
+ "es": {
+  "template": "cards",
+  "title": "Lista de documentos familiares",
+  "cards": [
+   {
+    "items": [
+     {
+      "text": "Pasaportes",
+      "mark": "tick"
+     },
+     {
+      "text": "Visados",
+      "mark": "tick"
+     },
+     {
+      "text": "Documentos de identidad",
+      "mark": "tick"
+     },
+     {
+      "text": "Seguro de viaje",
+      "mark": "tick"
+     },
+     {
+      "text": "Reservas",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "items": [
+     {
+      "text": "Vacunas",
+      "mark": "tick"
+     },
+     {
+      "text": "Billete de vuelta",
+      "mark": "tick"
+     },
+     {
+      "text": "Certificados de nacimiento",
+      "mark": "tick"
+     },
+     {
+      "text": "Carta de consentimiento",
+      "mark": "tick"
+     },
+     {
+      "text": "Órdenes de custodia",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Más de 3 meses antes de viajar",
+  "alt": "Lista de comprobación de diez documentos de viaje en familia: pasaportes, visados, documentos de identidad, seguro de viaje, reservas, vacunas, billete de vuelta, certificados de nacimiento, carta de consentimiento y órdenes de custodia, con una nota para empezar más de 3 meses antes de viajar",
+  "caption": "La lista completa para la familia: empieza a marcarla tres meses antes, no la semana previa.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

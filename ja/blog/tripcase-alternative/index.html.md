@@ -50,6 +50,8 @@ TripCase は長い間存在していたため、人々はそれを永続的な�
 
 TripCase は複数の異なるジョブを 1 つの無料アプリにバンドルしました。現在のアプリはそれらを上手く実行しないため、正直な動きは、ジョブを分割して各ジョブの最適なツールを選択することです。
 
+![TripCaseが2025年4月1日のシャットダウン後に分かれた四つの役割を示す図:フライト通知はFlightyへ、旅程管理はTripItへ、書類管理はTravel Document Vaultへ、旅程の共有は共有フォルダへ](https://traveldocumentvault.com/blog/tripcase-alternative/tripcase-timeline-alternatives-ja.jpg) 乗り換え先が一目でわかる図:四つの役割、四つのツール、それぞれが一つのことを得意とする
+
 | ジョブ | TripCase が実行した内容 | 今の最良の代替案 | 価格 |
 |---|---|---|---|
 | フライト アラート | リアルタイムの遅延、ゲート変更、キャンセル | Flighty | 無料レベル。有料サブスクリプション (価格は異なる) |

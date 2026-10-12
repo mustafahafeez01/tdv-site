@@ -1,0 +1,52 @@
+{
+ "id": {
+  "template": "matrix",
+  "title": "Di mana seharusnya paspor Anda tersimpan?",
+  "columns": [
+   "iCloud Photos",
+   "Google Photos",
+   "Vault terenkripsi"
+  ],
+  "highlight_col": 2,
+  "rows": [
+   {
+    "label": "Terenkripsi ujung ke ujung",
+    "cells": [
+     "opsional",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "Tidak perlu akun",
+    "cells": [
+     "cross",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "Berfungsi offline",
+    "cells": [
+     "tick",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "AES-256",
+    "cells": [
+     "opsional",
+     "cross",
+     "tick"
+    ]
+   }
+  ],
+  "alt": "Diagram perbandingan tentang di mana seharusnya paspor Anda tersimpan: iCloud Photos menawarkan enkripsi end-to-end opsional tapi butuh akun dan sinkronisasi, Google Photos tidak memenuhi satu pun dari keempat kriteria, vault terenkripsi memenuhi end-to-end, tanpa akun, berfungsi offline, dan AES-256",
+  "caption": "Tabel perbandingan di atas, digambar ulang agar mudah dilihat.",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

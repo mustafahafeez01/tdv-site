@@ -53,6 +53,8 @@ Una lettera di consenso valida dovrebbe includere: il nome completo e la data di
 
 **Altri documenti utili da avere a portata di mano**
 
+![Diagramma a checklist di dieci documenti di viaggio per la famiglia: passaporti, visti, carte d'identità, assicurazione di viaggio, prenotazioni, vaccinazioni, biglietto di ritorno, certificati di nascita, lettera di consenso e provvedimenti di affidamento, con la nota di iniziare 3+ mesi prima del viaggio](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/travel-docs-checklist-it.jpg) La lista completa per la famiglia: comincia a spuntarla tre mesi prima, non la settimana prima.
+
 - Patente internazionale (se stai noleggiando un'auto all'estero)
 - Cartelle cliniche o dettagli dei farmaci per condizioni continuative
 - Tessera sanitaria europea (EHIC) per i viaggiatori dell'UE

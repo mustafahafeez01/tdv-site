@@ -89,6 +89,8 @@ Med Pro kan du synkronisere dokumenter mellem konfigurerede enheder på samme pl
 
 ## Kryptering, konto og pris i overblik
 
+![Sammenligningsdiagram, der spørger, hvor dit pas bør opbevares: iCloud Photos har valgfri ende-til-ende-kryptering, men kræver konto og synkronisering, Google Photos opfylder ingen af de fire kriterier, en krypteret app opfylder ende-til-ende, ingen konto, virker offline og AES-256](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/storage-comparison-da.jpg) Sammenligningstabellen ovenfor, gentegnet til et hurtigt overblik.
+
 | Funktion | iCloud Photos | Google Photos | Krypteret app |
 |---|---|---|---|
 | Kryptering i hvile | Ja (AES-128) | Ja (AES-128) | Ja (AES-256) |

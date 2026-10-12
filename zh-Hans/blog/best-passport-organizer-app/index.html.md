@@ -33,6 +33,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/best-passport-organizer-app
 
 设备上应用的违规不会泄露其服务器中的任何内容——那里没有可泄露的内容。
 
+![图表比较护照整理应用的两种存储方式：设备端存储让数据留在您身边，云端上传则需要信任服务器，设备端还能离线使用](https://traveldocumentvault.com/blog/best-passport-organizer-app/app-storage-compare-zh-Hans.jpg) 这一个架构选择，决定了护照应用的其他一切。
+
 ## 这些功能决定了一款应用值不值得用
 
 ### 提醒的提前期，才是值得自定义的设置

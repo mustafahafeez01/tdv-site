@@ -1,0 +1,52 @@
+{
+ "da": {
+  "template": "cards",
+  "title": "Airside eller landside?",
+  "cards": [
+   {
+    "heading": "Airside",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Du bliver efter sikkerhedskontrollen",
+      "mark": "dot"
+     },
+     {
+      "text": "Du passerer ikke paskontrol",
+      "mark": "dot"
+     },
+     {
+      "text": "Nogle lande kræver stadig transitvisum",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Landside",
+    "items": [
+     {
+      "text": "Du forlader den sikrede zone",
+      "mark": "dot"
+     },
+     {
+      "text": "Du passerer paskontrol",
+      "mark": "dot"
+     },
+     {
+      "text": "Et visum er normalt påkrævet",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "eller",
+  "focal": "Tjek det land, du har mellemlanding i",
+  "alt": "Diagram, der sammenligner airside-transit, hvor du bliver efter sikkerhedskontrollen og ikke passerer paskontrol, selvom nogle lande stadig kræver transitvisum, med landside-transit, hvor du forlader den sikrede zone, passerer paskontrol og normalt skal bruge visum",
+  "caption": "Airside bliver i terminalen; landside betyder, at du rejser ind i landet.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

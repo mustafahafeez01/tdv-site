@@ -1,0 +1,29 @@
+{
+ "nl": {
+  "template": "tree",
+  "root": {
+   "heading": "Opslagkeuze"
+  },
+  "branches": [
+   {
+    "edge": "Op je toestel",
+    "edge_mark": "tick",
+    "heading": "Je gegevens blijven bij jou",
+    "tone": "good"
+   },
+   {
+    "edge": "Cloud-upload",
+    "heading": "De server vertrouwen",
+    "tone": "warn",
+    "edge_mark": "question"
+   }
+  ],
+  "focal": "Op je toestel werkt ook offline",
+  "alt": "Diagram dat de twee opslagmodellen van een paspoortorganizer-app vergelijkt: op je toestel betekent dat je gegevens bij jou blijven, cloud-upload betekent dat je de server vertrouwt, en op je toestel werkt ook offline",
+  "caption": "De ene architecturale keuze die alles bepaalt voor een paspoortorganizer-app.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

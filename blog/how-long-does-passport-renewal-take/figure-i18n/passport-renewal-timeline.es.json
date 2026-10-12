@@ -1,0 +1,38 @@
+{
+ "es": {
+  "template": "sequence",
+  "title": "Qué ralentiza una renovación",
+  "subtitle": "Una renovación sencilla evita los seis",
+  "steps": [
+   {
+    "text": "Cambio de nombre"
+   },
+   {
+    "text": "Primer pasaporte de adulto"
+   },
+   {
+    "text": "Solicitud infantil"
+   },
+   {
+    "text": "Perdido o dañado"
+   },
+   {
+    "text": "Comprobaciones extra o entrevista"
+   },
+   {
+    "text": "Solicitar desde el extranjero"
+   }
+  ],
+  "start": "Solicitar",
+  "end": "Pasaporte",
+  "note": "Calcula hacia atrás desde tu fecha de viaje",
+  "focal": "Tu autoridad de pasaportes publica el tiempo actual",
+  "alt": "Diagrama de una solicitud que avanza hacia un pasaporte terminado pasando seis posibles retrasos: cambio de nombre, primer pasaporte de adulto, solicitud infantil, perdido o dañado, comprobaciones extra o entrevista, y solicitar desde el extranjero",
+  "caption": "Seis situaciones sacan una solicitud del carril rápido. Una renovación sencilla las evita todas.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  },
+  "numbered": false
+ }
+}

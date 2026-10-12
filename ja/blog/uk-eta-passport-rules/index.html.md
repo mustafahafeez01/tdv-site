@@ -44,6 +44,8 @@ UK ETAは、人ではなくパスポート番号に紐づいています。申�
 
 計画すべきタイムラインは次のとおりです。
 
+![比較図:申請時のパスポートはETAがその冊子に紐づいたままで通常通り渡航できるが、新規または更新後のパスポートは紐づきが引き継がれず渡航前に新しいETAが必要。渡航する全員が自分のETAを持つ必要があり、子どもも例外ではない](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-ja.jpg) 認可は冊子に紐づくものであり、人には紐づかない。渡航者それぞれが自分のETAを持つ
+
 1. パスポートの有効期限が近づいている。
 2. 自国でパスポートの更新を申請する。
 3. 新しいパスポートが届く（処理期間は状況によって異なります。[パスポート更新期間のガイド](https://traveldocumentvault.com/ja/blog/how-long-does-passport-renewal-take/)を参照してください）。

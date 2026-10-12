@@ -1,0 +1,30 @@
+{
+ "da": {
+  "template": "sequence",
+  "title": "Fire stop fra booking til boarding",
+  "steps": [
+   {
+    "label": "Booking",
+    "text": "Tjek udløbsdatoer"
+   },
+   {
+    "label": "3 måneder før",
+    "text": "Forny, hvis nødvendigt"
+   },
+   {
+    "label": "1 måned før",
+    "text": "Bekræft og saml alt"
+   },
+   {
+    "label": "Aftenen før",
+    "text": "Sidste tjek"
+   }
+  ],
+  "alt": "Tidslinjediagram over tjek af rejsedokumenter: tjek udløbsdatoer ved booking, forny hvis nødvendigt tre måneder før, bekræft og saml alt en måned før, sidste tjek aftenen før",
+  "caption": "Fire kontrolpunkter mellem booking og boarding – hver af dem lille, hvis du starter i god tid.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

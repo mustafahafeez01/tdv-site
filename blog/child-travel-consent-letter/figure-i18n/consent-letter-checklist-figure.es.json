@@ -1,0 +1,63 @@
+{
+ "es": {
+  "template": "cards",
+  "title": "Lista de la carta de consentimiento",
+  "cards": [
+   {
+    "heading": "La carta",
+    "items": [
+     {
+      "text": "Nombre completo del menor",
+      "mark": "tick"
+     },
+     {
+      "text": "Fecha de nacimiento",
+      "mark": "tick"
+     },
+     {
+      "text": "Número de pasaporte",
+      "mark": "tick"
+     },
+     {
+      "text": "Fechas exactas de viaje",
+      "mark": "tick"
+     },
+     {
+      "text": "Destinos",
+      "mark": "tick"
+     },
+     {
+      "text": "Datos de contacto del progenitor ausente",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Motivos de rechazo frecuentes",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Datos incompletos",
+      "mark": "cross"
+     },
+     {
+      "text": "Sin autenticación notarial",
+      "mark": "cross"
+     },
+     {
+      "text": "Firmas desactualizadas",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "note": "Notarízala: muchas fronteras la esperan",
+  "focal": "Imprímela y guarda una copia digital",
+  "alt": "Lista de comprobación de lo que debe incluir una carta de consentimiento de viaje de menores: nombre completo del menor, fecha de nacimiento, número de pasaporte, fechas exactas de viaje, destinos y datos de contacto del progenitor ausente, con notas para autenticarla ante notario, los motivos de rechazo más frecuentes, y para imprimirla y guardar una copia digital",
+  "caption": "Seis datos, una autenticación notarial y una copia impresa cubren casi todo lo que piden las fronteras.",
+  "placement": {
+   "h2": 3,
+   "para": 4
+  }
+ }
+}

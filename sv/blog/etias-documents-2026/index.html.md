@@ -92,6 +92,8 @@ Familjegrupper måste skicka in varje ansökan separat i stället för som en ge
 
 Blir du nekad och behöver ändå resa är din reservlösning att ansöka om ett traditionellt långtidsvisum via relevant ambassad eller konsulat, vilket vanligtvis tillåter fler inresor och längre vistelser än viseringsfri resa. Eftersom kraven varierar efter resmål och medborgarskap bör du kontakta ambassaden direkt för att ta reda på vad som krävs.
 
+![Diagram som jämför EES och ETIAS: EES sker vid gränsen med fingeravtryck och foto, ingen ansökan, och rullas ut vid fler gränsövergångar; ETIAS sker innan du flyger, ansöks online mot en liten avgift, inget obligatoriskt datum bekräftat än; du kommer till slut behöva båda, och ingen av dem är ett visum](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure-sv.jpg) Två olika grindar: EES registrerar dig vid ankomst, ETIAS klarerar dig före avresa.
+
 ## Pass och försäkring spelar fortfarande roll efter ETIAS
 
 Ett ETIAS-godkännande ersätter inte ditt pass, din reseförsäkring eller [kraven på passets giltighetstid](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/). Du behöver fortfarande:

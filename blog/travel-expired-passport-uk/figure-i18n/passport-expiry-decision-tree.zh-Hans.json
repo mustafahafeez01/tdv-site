@@ -1,0 +1,40 @@
+{
+ "zh-Hans": {
+  "template": "tree",
+  "title": "持过期护照出行",
+  "root": {
+   "heading": "旅行类型？"
+  },
+  "branches": [
+   {
+    "edge": "国际旅行",
+    "edge_mark": "cross",
+    "heading": "不允许",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "申请紧急续签"
+     }
+    ]
+   },
+   {
+    "edge": "国内旅行",
+    "edge_mark": "question",
+    "heading": "向航空公司核实",
+    "tone": "good",
+    "items": [
+     {
+      "text": "出行前先致电确认"
+     }
+    ]
+   }
+  ],
+  "focal": "出发前务必核实",
+  "alt": "护照过期决策树示意图：国际旅行标注为不允许，指向申请紧急续签；国内旅行指向向航空公司核实并出行前先致电确认，提示出发前务必核实",
+  "caption": "护照过期后的两条路径——都通不到登机口。",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

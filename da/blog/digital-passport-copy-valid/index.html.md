@@ -38,6 +38,8 @@ Biludlejningsselskaber accepterer typisk digitale paskopier til booking og depos
 
 Bliver dit pas væk eller stjålet under rejsen, kan en digital kopi markant fremskynde processen for et nødpas hos din ambassade. Den beviser passets eksistens og dokumenterer dine personoplysninger, foto og pasnummer – alt det, ambassaden skal bruge for at udstede et erstatningsdokument. Det er en af de stærkeste grunde til altid at have en digital backup med.
 
+![Diagram over, hvor en digital paskopi virker: normalt fint til indtjekning på hotel, flybooking og biludlejning, men original er påkrævet ved grænsekontrol og boarding hos flyselskabet](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-da.jpg) Kort fortalt – en kopi åbner døre, kun originalen passerer grænser.
+
 ## Hvor dit fysiske pas altid kræves
 
 En digital kopi er ikke en erstatning for dit fysiske pas ved indrejse, hos flyselskaber eller hos politiet. I disse situationer er originaldokumentet simpelthen obligatorisk – der er ingen vej udenom.

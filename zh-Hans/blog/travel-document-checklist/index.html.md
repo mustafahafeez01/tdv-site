@@ -36,6 +36,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-document-checklist/
 
 在预订航班时预订旅行保险，而不是提前一周。在您已经识别出风险后购买的保险可能不包括该特定问题。确保该政策涵盖所有旅客、所有目的地以及您计划进行的活动。
 
+![旅行文件检查时间线示意图：预订时检查到期日期，出发前3个月需要则续签，出发前1个月确认并整理文件，出发前一晚进行最后检查](https://traveldocumentvault.com/blog/travel-document-checklist/checklist-timeline-zh-Hans.jpg) 预订到登机之间的四个检查点——提前开始，每一步都很轻松。
+
 ## 提前三个月：续期或签证时间紧迫，现在就开始
 
 此时您仍然有时间解决问题。续期所需时间会不断变动，美国国务院、英国护照办公室和澳大利亚护照办公室都会各自公布最新数字。在申请前始终检查官方网站以了解当前时间。

@@ -1,0 +1,64 @@
+{
+ "nl": {
+  "template": "cards",
+  "title": "Waarom paspoortfoto's worden afgewezen",
+  "cards": [
+   {
+    "heading": "Afgewezen",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Schaduw achter het hoofd",
+      "mark": "cross"
+     },
+     {
+      "text": "Glimlachen",
+      "mark": "cross"
+     },
+     {
+      "text": "Reflectie in de bril",
+      "mark": "cross"
+     },
+     {
+      "text": "Haar over de ogen",
+      "mark": "cross"
+     },
+     {
+      "text": "Achtergrond met patroon",
+      "mark": "cross"
+     },
+     {
+      "text": "Foto te dichtbij genomen",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Geaccepteerd",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Effen achtergrond",
+      "mark": "tick"
+     },
+     {
+      "text": "Neutrale gezichtsuitdrukking",
+      "mark": "tick"
+     },
+     {
+      "text": "Gelijkmatig licht",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "Je paspoortinstantie publiceert de exacte afmetingen",
+  "alt": "Diagram van zes afgewezen paspoortfoto's - schaduw achter het hoofd, glimlachen, reflectie in de bril, haar over de ogen, achtergrond met patroon en foto te dichtbij genomen - naast één geaccepteerde foto op een effen achtergrond met neutrale gezichtsuitdrukking en gelijkmatig licht",
+  "caption": "Zes manieren waarop een foto wordt teruggestuurd, en de ene opstelling die slaagt.",
+  "placement": {
+   "h2": 6,
+   "para": 0
+  }
+ }
+}

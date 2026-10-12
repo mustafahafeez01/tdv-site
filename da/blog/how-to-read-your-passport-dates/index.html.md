@@ -30,6 +30,8 @@ Udløbsdatoen er stopdatoen, og det er den, de velkendte gyldighedsregler måler
 
 Hvis du kun tager én ting med fra denne side, så lad det være denne skævhed: udstedelsesdatoen beskriver dokumentet, og udløbsdatoen beskriver, hvor længe du stadig kan rejse på det.
 
+![Diagram af en pas-dataside med fire markerede felter: udstedelsesdato, udløbsdato, udstedelsesland og pasnummer, hvor udløbsdatoen er markeret som den dato, gyldigheden og 6-måneders-reglen regnes fra](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/data-page-figure-da.jpg) Fire felter, hvoraf det ene er det, enhver indrejseregel faktisk måler ud fra.
+
 ## Hvorfor dit pas måske siger "expedition"
 
 Mange søger efter, hvad "date of expedition" betyder på et pas, og svaret er beroligende kedeligt: det betyder udstedelsesdato.

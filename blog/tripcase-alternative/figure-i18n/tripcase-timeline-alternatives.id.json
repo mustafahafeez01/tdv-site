@@ -1,0 +1,58 @@
+{
+ "id": {
+  "template": "tree",
+  "title": "Satu aplikasi menjadi empat tugas",
+  "root": {
+   "heading": "TripCase",
+   "text": "Berhenti beroperasi 1 April 2025"
+  },
+  "branches": [
+   {
+    "heading": "Pemberitahuan penerbangan",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Flighty",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Itinerary",
+    "tone": "good",
+    "items": [
+     {
+      "text": "TripIt",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Dokumen",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Travel Document Vault",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Berbagi perjalanan",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Folder bersama",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagram empat tugas TripCase setelah penghentian operasinya pada 1 April 2025: pemberitahuan penerbangan ke Flighty, itinerary ke TripIt, dokumen ke Travel Document Vault, berbagi perjalanan ke folder bersama",
+  "caption": "Peta penggantinya sekilas: empat tugas, empat alat, masing-masing mengerjakan satu hal dengan baik.",
+  "placement": {
+   "h2": 5,
+   "para": 1
+  }
+ }
+}

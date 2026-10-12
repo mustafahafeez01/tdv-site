@@ -1,0 +1,63 @@
+{
+ "de": {
+  "template": "cards",
+  "title": "Checkliste für Familienreisen",
+  "cards": [
+   {
+    "items": [
+     {
+      "text": "Reisepässe",
+      "mark": "tick"
+     },
+     {
+      "text": "Visa",
+      "mark": "tick"
+     },
+     {
+      "text": "Personalausweise",
+      "mark": "tick"
+     },
+     {
+      "text": "Reiseversicherung",
+      "mark": "tick"
+     },
+     {
+      "text": "Buchungen",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "items": [
+     {
+      "text": "Impfungen",
+      "mark": "tick"
+     },
+     {
+      "text": "Rückflugticket",
+      "mark": "tick"
+     },
+     {
+      "text": "Geburtsurkunden",
+      "mark": "tick"
+     },
+     {
+      "text": "Zustimmungsbrief",
+      "mark": "tick"
+     },
+     {
+      "text": "Sorgerechtsbeschlüsse",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "3+ Monate vor der Reise",
+  "alt": "Checklisten-Diagramm zu zehn Reisedokumenten für Familien: Reisepässe, Visa, Personalausweise, Reiseversicherung, Buchungen, Impfungen, Rückflugticket, Geburtsurkunden, Zustimmungsbrief und Sorgerechtsbeschlüsse, mit dem Hinweis, 3+ Monate vor der Reise zu beginnen",
+  "caption": "Die vollständige Familienliste – fangen Sie drei Monate vorher an abzuhaken, nicht erst die Woche davor.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

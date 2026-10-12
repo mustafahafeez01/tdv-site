@@ -1,0 +1,38 @@
+{
+ "de": {
+  "template": "sequence",
+  "title": "Was eine Erneuerung verzögert",
+  "subtitle": "Eine unkomplizierte Erneuerung überspringt alle sechs",
+  "steps": [
+   {
+    "text": "Namenswechsel"
+   },
+   {
+    "text": "Erster Reisepass als Erwachsener"
+   },
+   {
+    "text": "Antrag für ein Kind"
+   },
+   {
+    "text": "Verloren oder beschädigt"
+   },
+   {
+    "text": "Zusätzliche Prüfungen oder ein Interview"
+   },
+   {
+    "text": "Antrag aus dem Ausland"
+   }
+  ],
+  "start": "Antrag",
+  "end": "Reisepass",
+  "note": "Rechnen Sie vom Reisedatum rückwärts",
+  "focal": "Ihre Passbehörde veröffentlicht die aktuelle Bearbeitungszeit",
+  "alt": "Diagramm eines Antrags auf dem Weg zum fertigen Reisepass über sechs mögliche Verzögerungen: Namenswechsel, erster Erwachsenenreisepass, Antrag für ein Kind, verloren oder beschädigt, zusätzliche Prüfungen oder ein Interview, und Antrag aus dem Ausland",
+  "caption": "Sechs Situationen bremsen einen Antrag aus. Eine unkomplizierte Erneuerung überspringt sie alle.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  },
+  "numbered": false
+ }
+}

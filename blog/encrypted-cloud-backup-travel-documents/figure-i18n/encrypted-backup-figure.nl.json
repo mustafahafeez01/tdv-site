@@ -1,0 +1,41 @@
+{
+ "nl": {
+  "template": "tree",
+  "root": {
+   "heading": "Wie heeft de sleutel?"
+  },
+  "branches": [
+   {
+    "edge": "Hun sleutel",
+    "edge_mark": "cross",
+    "heading": "Fotoback-up",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Leesbaar voor wie binnenkomt",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "edge": "Jouw sleutel, blijft op de telefoon",
+    "edge_mark": "tick",
+    "heading": "Versleutelde back-up",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Onbruikbaar zonder de sleutel",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Zelfde cloud, ander antwoord",
+  "alt": "Diagram dat een fotoback-up vergelijkt, leesbaar in de cloud waarbij het bedrijf de sleutel heeft, met een versleutelde back-up, onbruikbaar zonder de sleutel die op je telefoon blijft",
+  "caption": "Zelfde cloud, ander antwoord. Het bestand gaat in beide gevallen omhoog; wat verschilt, is wie het kan openen.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

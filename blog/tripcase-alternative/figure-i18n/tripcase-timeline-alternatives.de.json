@@ -1,0 +1,58 @@
+{
+ "de": {
+  "template": "tree",
+  "title": "Eine App wurde zu vier Aufgaben",
+  "root": {
+   "heading": "TripCase",
+   "text": "Eingestellt am 1. April 2025"
+  },
+  "branches": [
+   {
+    "heading": "Flugbenachrichtigungen",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Flighty",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Reiseplan",
+    "tone": "good",
+    "items": [
+     {
+      "text": "TripIt",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Dokumente",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Travel Document Vault",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Reise teilen",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Geteilter Ordner",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagramm zu TripCases vier Aufgaben nach der Einstellung am 1. April 2025: Flugbenachrichtigungen zu Flighty, Reiseplan zu TripIt, Dokumente zu Travel Document Vault, Reise teilen über einen geteilten Ordner",
+  "caption": "Die Ersatzübersicht auf einen Blick: vier Aufgaben, vier Tools, jedes gut in seinem Bereich.",
+  "placement": {
+   "h2": 5,
+   "para": 1
+  }
+ }
+}

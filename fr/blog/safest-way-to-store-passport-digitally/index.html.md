@@ -89,6 +89,8 @@ Avec Pro, vous pouvez synchroniser les documents entre les appareils configurés
 
 ## Chiffrement, compte et coût en un coup d'œil
 
+![Tableau comparatif pour savoir où votre passeport devrait vivre : iCloud Photos propose un chiffrement de bout en bout optionnel mais exige un compte et une synchronisation, Google Photos ne remplit aucun des quatre critères, un coffre chiffré coche chiffrement de bout en bout, sans compte, fonctionnement hors ligne et AES-256](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/storage-comparison-fr.jpg) Le tableau comparatif ci-dessus, résumé en un coup d'œil.
+
 | Fonctionnalité | iCloud Photos | Google Photos | Application chiffrée |
 |---|---|---|---|
 | Chiffrement au repos | Oui (AES-128) | Oui (AES-128) | Oui (AES-256) |

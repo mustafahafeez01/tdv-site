@@ -50,6 +50,8 @@ Het tweede is visumvrij reizen. Wanneer een bestemming jouw nationaliteit zonder
 
 Het paspoort is dus van jou en reist overal met je mee. De toestemming wordt door elke bestemming apart verleend, en kan worden geweigerd zelfs als je paspoort volledig in orde is.
 
+![Vergelijkingsdiagram van een paspoort en een visum: je eigen land geeft het paspoort uit, het bewijst wie je bent en laat je vertrekken uit eigen land, terwijl de bestemming het visum uitgeeft, dat toestemming geeft om binnen te komen en alleen voor dat ene land geldt, met de aantekening dat de meeste reizen beide nodig hebben](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-nl.jpg) Twee documenten, twee functies - en een geldig paspoort alleen is geen toestemming om binnen te komen.
+
 ## Visa verschillen naar doel en duur
 
 De meeste landen geven visa uit in deze categorieën:

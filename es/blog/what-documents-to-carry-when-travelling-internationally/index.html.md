@@ -46,6 +46,8 @@ Cuando un niño viaja internacionalmente con solo un padre (o con ninguno de los
 
 Es el documento más comúnmente olvidado en viajes familiares, así que verifica antes de llegar a la puerta.
 
+![Diagrama dividido: en tu equipaje de mano lleva el pasaporte, visados y autorizaciones, tarjetas de embarque y una carta de consentimiento si procede; sin conexión en tu teléfono guarda los datos del pasaporte, la póliza de seguro y el teléfono de emergencia, las referencias de reserva y los certificados de vacunación, porque uno respalda al otro y si pierdes la maleta la copia del teléfono te lleva a casa](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/carry-or-store-figure-es.jpg) Los originales viajan en tu equipaje de mano; sus copias cifradas viven sin conexión en tu teléfono.
+
 ## Qué Llevar versus Qué Guardar Digitalmente
 
 Las fronteras quieren documentos originales, pero si esos originales desaparecen, las copias de seguridad digitales seguras son lo que te trae a casa.

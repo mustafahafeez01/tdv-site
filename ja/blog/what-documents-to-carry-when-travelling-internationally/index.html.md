@@ -46,6 +46,8 @@ Source: https://traveldocumentvault.com/ja/blog/what-documents-to-carry-when-tra
 
 これは家族旅行で最も一般的に見落とされる書類なので、ゲートに到着する前に必ず確認してください。
 
+![持ち歩くものと保管するものを分けた図。手荷物にはパスポート、ビザと認可書、搭乗券、必要なら同意書。スマートフォンにオフラインで保存するのはパスポートの詳細、保険証券とホットライン、予約確認番号、予防接種証明書。一方がもう一方のバックアップになり、バッグを失くしてもスマートフォンのコピーがあれば帰れるという注記付き](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/carry-or-store-figure-ja.jpg) 原本は手荷物の中、その暗号化された分身はスマートフォンにオフラインで控える
+
 ## 何を携帯して何を電子的に保管するか
 
 国境はオリジナル書類を必要としていますが、オリジナルが消えた場合は、安全な電子バックアップがあなたを家に連れて帰ります。

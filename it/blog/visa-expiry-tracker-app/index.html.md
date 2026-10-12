@@ -37,6 +37,8 @@ Un viaggiatore entra in Vietnam con un visto timbrato "valido fino al 30 giugno"
 
 Un tracciatore che monitora solo la data di validità dell'ingresso perde la causa più comune di superamenti accidentali: superare la durata massima di soggiorno dopo un ingresso perfettamente legale. Questo è il campo che la maggior parte dei viaggiatori non traccia, perché la data non è timbrata nel passaporto — deve calcolarlo dalla data di ingresso.
 
+![Diagramma dei tre orologi di un visto: validità d'ingresso (entrare prima di questa data), durata massima di soggiorno (per quanto tempo si può restare), e numero di ingressi (singolo o multiplo), con la nota che Schengen ne aggiunge un quarto, la finestra mobile 90/180, e che i superamenti possono comportare multe e divieti di rientro](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/visa-three-clocks-figure-it.jpg) Un visto non è una sola data. Sono tre orologi separati, e a volte un quarto.
+
 ## La Regola Schengen dei 90/180 Giorni
 
 Per i viaggiatori che visitano molteplici paesi europei, la regola dei 90/180 giorni dell'Area Schengen è la condizione di ingresso più fraintesa nei viaggi internazionali. I cittadini di paesi con accesso senza visto a Schengen (inclusi il Regno Unito, gli Stati Uniti, il Canada e l'Australia, tra molti altri) possono trascorrere un massimo di 90 giorni nell'Area Schengen entro qualsiasi finestra mobile di 180 giorni.

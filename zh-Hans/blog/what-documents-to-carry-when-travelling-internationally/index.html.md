@@ -46,6 +46,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/what-documents-to-carry-whe
 
 这是家庭旅行中最常被忽视的文件，所以在到达登机口前务必再次核实。
 
+![分栏示意图：随身行李携带护照、签证和许可、登机牌，以及需要时的同意书；手机离线存储护照信息、保单和紧急热线、预订编号、疫苗接种证明，两者互为备份，行李丢失时手机副本能帮您回家](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/carry-or-store-figure-zh-Hans.jpg) 原件放在随身行李里；加密的副本离线存在手机上。
+
 ## 应该携带什么，应该数字存储什么
 
 边境需要原件，但如果这些原件消失了，安全的数字备份是让您回家的关键。

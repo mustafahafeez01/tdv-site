@@ -28,6 +28,8 @@ Her går de fleste unødvendigt i panik: et bøjet hjørne på forsiden er ikke 
 
 Allervigtigst er det, at den maskinlæsbare zone – den sort-hvide stribe nederst på din data-side – forbliver intakt. Grænsescannere kan have svært ved at læse den, når den først er beskadiget.
 
+![To åbne pas side om side: ét slidt, men fladt og brugbart, og ét vandskadet med bølgede sider og løsnet laminering](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Små folder i omslaget: accepteret. Vandskade på datasiden: et problem.
+
 Grunden til, at dette betyder noget, er, at **luftfartsselskaberne hæfter, hvis de lader nogen boarde med et uacceptabelt dokument.** Boarder du med et beskadiget pas og bliver nægtet indrejse i den anden ende, kan myndighederne bøde luftfartsselskabet for at have fragtet dig. Luftfartsselskabet skal også betale for at flyve dig hjem igen.
 
 Ingen gateopvartere ønsker det papirarbejde, så de vælger klart forsigtighed.

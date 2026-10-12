@@ -1,0 +1,43 @@
+{
+ "nl": {
+  "template": "matrix",
+  "title": "Eén visum, drie verschillende klokken",
+  "columns": [
+   "Wat het je vertelt"
+  ],
+  "rows": [
+   {
+    "label": "Inreisgeldigheid",
+    "cells": [
+     "Kom binnen voor deze datum"
+    ]
+   },
+   {
+    "label": "Maximale verblijfsduur",
+    "cells": [
+     "Hoe lang je mag blijven"
+    ]
+   },
+   {
+    "label": "Aantal inreizen",
+    "cells": [
+     "Eén of meerdere inreizen"
+    ]
+   },
+   {
+    "label": "Schengen voegt een vierde toe",
+    "cells": [
+     "Het voortschrijdende 90/180-venster"
+    ]
+   }
+  ],
+  "note": "Houd ze allemaal per persoon op één plek bij",
+  "focal": "Overstays kunnen boetes en inreisverboden betekenen",
+  "alt": "Diagram van de drie klokken van één visum: inreisgeldigheid (kom binnen voor deze datum), maximale verblijfsduur (hoe lang je mag blijven), en aantal inreizen (één of meerdere inreizen), met de aantekening dat Schengen een vierde klok toevoegt, het voortschrijdende 90/180-venster, en dat overstays boetes en inreisverboden kunnen betekenen",
+  "caption": "Een visum is niet één datum. Het zijn drie afzonderlijke klokken, en soms een vierde.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

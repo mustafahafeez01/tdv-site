@@ -1,0 +1,38 @@
+{
+ "id": {
+  "template": "sequence",
+  "title": "Apa yang memperlambat perpanjangan",
+  "subtitle": "Perpanjangan yang sederhana melewati keenamnya",
+  "steps": [
+   {
+    "text": "Perubahan nama"
+   },
+   {
+    "text": "Paspor dewasa pertama"
+   },
+   {
+    "text": "Permohonan untuk anak"
+   },
+   {
+    "text": "Hilang atau rusak"
+   },
+   {
+    "text": "Pemeriksaan tambahan atau wawancara"
+   },
+   {
+    "text": "Mengajukan dari luar negeri"
+   }
+  ],
+  "start": "Ajukan",
+  "end": "Paspor",
+  "note": "Hitung mundur dari tanggal keberangkatan Anda",
+  "focal": "Otoritas paspor Anda mempublikasikan waktu proses saat ini",
+  "alt": "Diagram permohonan yang berjalan menuju paspor jadi melewati enam potensi penundaan: perubahan nama, paspor dewasa pertama, permohonan untuk anak, hilang atau rusak, pemeriksaan tambahan atau wawancara, dan mengajukan dari luar negeri",
+  "caption": "Enam situasi menarik permohonan keluar dari jalur cepat. Perpanjangan yang sederhana melewati semuanya.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  },
+  "numbered": false
+ }
+}

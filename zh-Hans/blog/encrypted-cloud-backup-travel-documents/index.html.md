@@ -32,6 +32,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/encrypted-cloud-backup-trav
 
 所以，面对任何一款应用，真正值得问的问题很简单：**密钥掌握在谁手中？**其余那些营销话术，答案一出来就都清楚了。
 
+![图表比较照片备份与加密备份：照片备份的密钥在对方手中，谁能登录就能读取；加密备份的密钥留在您手机上，没有密钥就是一堆乱码](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/encrypted-backup-figure-zh-Hans.jpg) 同一个云，不同的答案。文件都会上传，区别在于谁能打开它。
+
 ## 恢复码，以及为什么我们无法重置它
 
 Travel Document Vault 将文档保存在设备上，无需应用账户。可选的[云备份](https://traveldocumentvault.com/zh-Hans/cloud-backup/)需要 Pro，并使用恢复码解锁云端加密密钥。应用在您设置 PIN 时生成这个24位恢复码。加密后的保险库随后会发送到**您自己的 iCloud（iPhone 和 iPad）或您自己的 Google Drive（Android）**，而不是发送给我们。

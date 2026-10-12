@@ -1,0 +1,28 @@
+{
+ "fr": {
+  "template": "hub",
+  "title": "Une famille, un système",
+  "inputs": [
+   "Papa",
+   "Maman",
+   "Enfant 1",
+   "Enfant 2"
+  ],
+  "hub": {
+   "heading": "Un coffre chiffré"
+  },
+  "outputs": [
+   "Rappels d'expiration",
+   "Accès hors ligne",
+   "Sauvegarde chiffrée"
+  ],
+  "focal": "Les passeports des enfants expirent en 5 ans, pas 10",
+  "alt": "Diagramme d'un système familial de passeports : quatre passeports (papa, maman, enfant 1, enfant 2) convergeant vers un coffre chiffré, avec en sortie des rappels d'expiration, un accès hors ligne et une sauvegarde chiffrée, et une note indiquant que les passeports d'enfants expirent en 5 ans, pas 10",
+  "caption": "Un système familial : chaque passeport au même endroit, avec un suivi automatisé pour chaque date d'expiration",
+  "placement": {
+   "h2": 3,
+   "para": 2,
+   "in_figure_element": true
+  }
+ }
+}

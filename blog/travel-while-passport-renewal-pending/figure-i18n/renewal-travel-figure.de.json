@@ -1,0 +1,49 @@
+{
+ "de": {
+  "template": "tree",
+  "title": "Erneuerung läuft: können Sie noch reisen?",
+  "root": {
+   "heading": "Ist der Reisepass noch in Ihrem Besitz?"
+  },
+  "branches": [
+   {
+    "edge": "Ja",
+    "edge_mark": "tick",
+    "heading": "Reisen Sie damit, solange er gültig bleibt",
+    "tone": "good",
+    "items": [
+     {
+      "text": "US-Erneuerung per Post"
+     },
+     {
+      "text": "UK-digitale Erneuerung"
+     }
+    ]
+   },
+   {
+    "edge": "Nein",
+    "edge_mark": "cross",
+    "heading": "Abgegeben: Sie warten auf den neuen",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "UK-Erneuerung per Post"
+     },
+     {
+      "text": "Australien"
+     },
+     {
+      "text": "Kanada"
+     }
+    ]
+   }
+  ],
+  "focal": "Kein Land erlaubt internationale Flüge ohne Reisepass in der Hand",
+  "alt": "Entscheidungsbaum-Diagramm: Ist der Reisepass noch in Ihrem Besitz? Ja – reisen Sie damit, solange er gültig bleibt (US-Erneuerung per Post, UK-digitale Erneuerung). Nein – abgegeben, Sie warten auf den neuen (UK-Erneuerung per Post, Australien, Kanada). Kein Land erlaubt internationale Flüge ohne Reisepass in der Hand",
+  "caption": "Eine Frage entscheidet alles: ob Ihr alter Reisepass noch in Ihrem Besitz ist.",
+  "placement": {
+   "h2": 2,
+   "para": 2
+  }
+ }
+}

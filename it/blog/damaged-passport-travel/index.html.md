@@ -28,6 +28,8 @@ Vale la pena sapere dove passa questo confine prima di partire, perché un passa
 
 Soprattutto, la zona a lettura ottica — la striscia bianca e nera in fondo alla pagina dei dati — deve rimanere intatta. Una volta danneggiata, gli scanner di frontiera potrebbero non riuscire più a leggerla.
 
+![Diagramma di due passaporti aperti affiancati: uno usurato ma piatto e utilizzabile, l'altro macchiato d'acqua con pagine ondulate e laminazione che si stacca](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Piccole pieghe sulla copertina: accettabili. Danni da acqua sulla pagina dati: un problema.
+
 Il motivo per cui questo conta è che **le compagnie aeree si assumono la responsabilità se fanno imbarcare qualcuno con un documento non accettabile.** Se sali a bordo con un passaporto danneggiato e all'arrivo ti viene negato l'ingresso, le autorità possono multare la compagnia aerea per averti trasportato. La compagnia deve anche coprire il costo del volo di rientro.
 
 Nessun agente del gate vuole occuparsi di quella burocrazia, quindi preferisce agire con decisa cautela.

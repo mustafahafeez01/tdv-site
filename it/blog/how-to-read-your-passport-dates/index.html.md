@@ -30,6 +30,8 @@ La data di scadenza è il limite invalicabile, ed è ciò che misurano le regole
 
 Se c'è una cosa da ricordare di questa pagina, è questa asimmetria: la data di rilascio descrive il documento, e la data di scadenza descrive per quanto tempo puoi ancora viaggiare con esso.
 
+![Diagramma della pagina dati di un passaporto con quattro campi: data di rilascio, data di scadenza, paese di rilascio e numero di passaporto, con la data di scadenza evidenziata come quella da cui si contano la validità e la regola dei 6 mesi](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/data-page-figure-it.jpg) Quattro campi, e uno solo è quello che ogni regola d'ingresso misura davvero.
+
 ## Perché il Tuo Passaporto Potrebbe Dire «Data di Spedizione»
 
 Molti cercano cosa significhi «date of expedition» su un modulo o un passaporto in inglese, e la risposta è rassicurante nella sua semplicità: significa data di rilascio.

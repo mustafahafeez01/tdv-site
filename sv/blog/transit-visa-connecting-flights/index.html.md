@@ -33,6 +33,8 @@ De flesta länder kräver inte transitvisum för ren airside-transit, särskilt 
 
 Fällan ligger mittemellan. En mellanlandning som ser ut som airside på papperet kan i praktiken visa sig vara landside. Går din anslutning över natten ligger flygplatshotellet oftast utanför den säkra zonen, så att hämta bagaget och checka in betyder att du måste passera gränskontrollen. Samma sak händer om du måste byta terminal och det saknas airside-förbindelse mellan dem – du går ut och passerar säkerhetskontrollen igen på andra sidan. I båda fallen kan en anslutning som du trodde var visumfri plötsligt kräva visum, så det lönar sig att kontrollera hur bytet faktiskt fungerar, inte bara hur länge det varar.
 
+![Diagram som jämför airside-transit, där du stannar innanför säkerhetskontrollen och inte passerar gränskontroll även om vissa länder ändå kräver transitvisum, med landside-transit, där du lämnar den säkra zonen, passerar gränskontroll och oftast behöver visum](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/airside-vs-landside-sv.jpg) Airside stannar i terminalen, landside innebär att du reser in i landet.
+
 ## När du definitivt behöver transitvisum
 
 Transitvisum är obligatoriskt i flera situationer, och kraven varierar kraftigt beroende på din nationalitet och transitlandet.

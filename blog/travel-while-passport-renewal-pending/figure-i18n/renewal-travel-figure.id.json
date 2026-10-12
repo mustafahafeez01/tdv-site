@@ -1,0 +1,49 @@
+{
+ "id": {
+  "template": "tree",
+  "title": "Perpanjangan: apakah Anda masih bisa bepergian?",
+  "root": {
+   "heading": "Apakah paspor masih ada di tangan Anda?"
+  },
+  "branches": [
+   {
+    "edge": "Ya",
+    "edge_mark": "tick",
+    "heading": "Bepergian dengannya selama masih berlaku",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Perpanjangan lewat pos AS"
+     },
+     {
+      "text": "Perpanjangan digital Inggris"
+     }
+    ]
+   },
+   {
+    "edge": "Tidak",
+    "edge_mark": "cross",
+    "heading": "Diserahkan: Anda menunggu yang baru",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Perpanjangan pos Inggris"
+     },
+     {
+      "text": "Australia"
+     },
+     {
+      "text": "Kanada"
+     }
+    ]
+   }
+  ],
+  "focal": "Tidak ada negara yang mengizinkan Anda terbang internasional tanpa paspor di tangan",
+  "alt": "Diagram pohon keputusan: apakah paspor masih ada di tangan Anda? Ya - bepergian dengannya selama masih berlaku (perpanjangan lewat pos AS, perpanjangan digital Inggris). Tidak - diserahkan, Anda menunggu yang baru (perpanjangan pos Inggris, Australia, Kanada). Tidak ada negara yang mengizinkan Anda terbang internasional tanpa paspor di tangan",
+  "caption": "Satu pertanyaan yang menentukan segalanya: apakah paspor lama Anda masih Anda pegang.",
+  "placement": {
+   "h2": 2,
+   "para": 2
+  }
+ }
+}

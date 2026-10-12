@@ -1,0 +1,52 @@
+{
+ "pt": {
+  "template": "cards",
+  "title": "Quatro campos na página de dados",
+  "cards": [
+   {
+    "heading": "Data de emissão",
+    "items": [
+     {
+      "text": "O dia em que foi impresso",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Data de validade",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "A validade conta-se a partir daqui",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "País emissor",
+    "items": [
+     {
+      "text": "Quem o substitui se se perder",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Número do passaporte",
+    "items": [
+     {
+      "text": "Caderno novo, número novo",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagrama da página de dados de um passaporte com quatro campos identificados: data de emissão, data de validade, país emissor e número do passaporte, com a data de validade destacada como a que conta para a validade e para a regra dos 6 meses",
+  "caption": "Quatro campos, e é só um deles que toda a regra de entrada realmente mede.",
+  "focal": "A regra dos 6 meses conta a partir da data de validade",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

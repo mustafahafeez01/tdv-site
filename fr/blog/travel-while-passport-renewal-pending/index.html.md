@@ -24,6 +24,8 @@ Vous ne pouvez pas voyager à l'étranger sans un passeport valide en votre poss
 
 Si vous conservez toujours ce passeport dépend entièrement de votre pays et de votre méthode de renouvellement.
 
+![Arbre de décision : avez-vous toujours votre passeport en main ? Oui - voyagez avec tant qu'il reste valide (renouvellement postal aux États-Unis, renouvellement numérique au Royaume-Uni). Non - remis, vous attendez le nouveau (renouvellement postal au Royaume-Uni, Australie, Canada). Aucun pays n'autorise un vol international sans passeport en main](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-fr.jpg) Une seule question décide de tout : si vous avez toujours votre ancien passeport en main.
+
 ## États-Unis : Renouvellement par courrier
 
 Le renouvellement standard du passeport américain par courrier n'exige pas que vous remettiez votre passeport actuel avant que celui-ci arrive. Vous remplissez le formulaire DS-82, joignez votre passeport existant et envoyez le tout par la poste au Centre national de traitement des passeports. Votre ancien passeport vous est retourné aux côtés du nouveau, généralement annulé par un trou d'aiguille.

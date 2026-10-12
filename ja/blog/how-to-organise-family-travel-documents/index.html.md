@@ -53,6 +53,8 @@ Source: https://traveldocumentvault.com/ja/blog/how-to-organise-family-travel-do
 
 **保管しておく価値があるその他の書類**
 
+![家族旅行に必要な10の書類を示すチェックリスト図:パスポート、ビザ、IDカード、旅行保険、予約確認書、予防接種記録、帰りの航空券、出生証明書、同意書、親権命令書。渡航3ヶ月以上前から準備を始めるという注記付き](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/travel-docs-checklist-ja.jpg) 家族の全項目リスト。前の週ではなく、3ヶ月前からチェックを始める
+
 - 国際運転免許証（海外でレンタカーする場合）
 - 継続的な状態の医療記録または処方箋詳細
 - EU旅行者のためのヨーロッパ健康保険証（EHIC）

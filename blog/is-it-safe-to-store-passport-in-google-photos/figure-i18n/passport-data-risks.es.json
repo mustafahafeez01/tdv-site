@@ -1,0 +1,71 @@
+{
+ "es": {
+  "template": "cards",
+  "title": "Lo que revela una foto de pasaporte",
+  "cards": [
+   {
+    "heading": "Lo que muestra",
+    "items": [
+     {
+      "text": "Nombre",
+      "mark": "dot"
+     },
+     {
+      "text": "Fecha de nacimiento",
+      "mark": "dot"
+     },
+     {
+      "text": "Número de pasaporte",
+      "mark": "dot"
+     },
+     {
+      "text": "Foto",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Los riesgos",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Brecha de cuenta",
+      "mark": "cross"
+     },
+     {
+      "text": "Acceso de terceros",
+      "mark": "cross"
+     },
+     {
+      "text": "Indexación de datos",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Lugares más seguros",
+    "tone": "good",
+    "items": [
+     {
+      "text": "iCloud con ADP",
+      "mark": "tick"
+     },
+     {
+      "text": "App cifrada",
+      "mark": "tick"
+     },
+     {
+      "text": "Copia sin conexión",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagrama de lo que revela una foto de pasaporte -nombre, fecha de nacimiento, número de pasaporte y foto- junto a tres riesgos, brecha de cuenta, acceso de terceros e indexación de datos, y tres opciones más seguras: iCloud con ADP, una app cifrada o una copia sin conexión",
+  "caption": "Una foto, cuatro datos, y tres lugares más tranquilos para guardarlos.",
+  "placement": {
+   "h2": 4,
+   "para": 5
+  }
+ }
+}

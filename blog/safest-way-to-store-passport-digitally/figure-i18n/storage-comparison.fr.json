@@ -1,0 +1,52 @@
+{
+ "fr": {
+  "template": "matrix",
+  "title": "Où votre passeport devrait-il vivre ?",
+  "columns": [
+   "iCloud Photos",
+   "Google Photos",
+   "Coffre chiffré"
+  ],
+  "highlight_col": 2,
+  "rows": [
+   {
+    "label": "Chiffré de bout en bout",
+    "cells": [
+     "optionnel",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "Sans compte requis",
+    "cells": [
+     "cross",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "Fonctionne hors ligne",
+    "cells": [
+     "tick",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "AES-256",
+    "cells": [
+     "optionnel",
+     "cross",
+     "tick"
+    ]
+   }
+  ],
+  "alt": "Tableau comparatif pour savoir où votre passeport devrait vivre : iCloud Photos propose un chiffrement de bout en bout optionnel mais exige un compte et une synchronisation, Google Photos ne remplit aucun des quatre critères, un coffre chiffré coche chiffrement de bout en bout, sans compte, fonctionnement hors ligne et AES-256",
+  "caption": "Le tableau comparatif ci-dessus, résumé en un coup d'œil.",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

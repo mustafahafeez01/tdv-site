@@ -53,6 +53,8 @@ Une lettre de consentement valide doit inclure: le nom complet et la date de nai
 
 **Autres documents utiles à garder accessibles**
 
+![Diagramme de dix documents de voyage en famille : passeports, visas, cartes d'identité, assurance voyage, réservations, vaccinations, billet retour, actes de naissance, lettre de consentement et ordonnances de garde, avec une note pour commencer 3 mois ou plus avant le départ](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/travel-docs-checklist-fr.jpg) La liste complète pour la famille : à cocher dès trois mois avant, pas la semaine précédente.
+
 - Permis de conduire international (si vous louez une voiture à l'étranger)
 - Dossiers médicaux ou détails de prescription pour les conditions chroniques
 - Carte d'assurance maladie européenne (EHIC) pour les voyageurs européens

@@ -1,0 +1,58 @@
+{
+ "es": {
+  "template": "tree",
+  "title": "Una app se convirtió en cuatro tareas",
+  "root": {
+   "heading": "TripCase",
+   "text": "Cerró el 1 de abril de 2025"
+  },
+  "branches": [
+   {
+    "heading": "Alertas de vuelo",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Flighty",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Itinerario",
+    "tone": "good",
+    "items": [
+     {
+      "text": "TripIt",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Documentos",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Travel Document Vault",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Compartir el viaje",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Carpeta compartida",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagrama de las cuatro tareas de TripCase tras su cierre el 1 de abril de 2025: alertas de vuelo a Flighty, itinerario a TripIt, documentos a Travel Document Vault, compartir el viaje a una carpeta compartida",
+  "caption": "El mapa de sustitución de un vistazo: cuatro tareas, cuatro herramientas, cada una haciendo bien lo suyo.",
+  "placement": {
+   "h2": 5,
+   "para": 1
+  }
+ }
+}

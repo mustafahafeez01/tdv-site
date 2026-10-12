@@ -32,6 +32,8 @@ Regeln gäller alla internationella resor – flygningar till Europa eller färj
 
 Det enda undantaget är ett brittiskt nödresedokument, utfärdat av utrikesdepartementet när du redan befinner dig utomlands i en verklig nödsituation, och även då finns det bara för att ta dig hem – inte för att tillåta fortsatt resa.
 
+![Beslutsträd för ett utgånget pass: internationell resa är markerad som inte tillåten och leder till att ansöka om brådskande förnyelse, inrikes resa leder till att kontrollera med flygbolaget och ringa innan du reser, med en notering om att alltid kontrollera före avresa](https://traveldocumentvault.com/blog/travel-expired-passport-uk/passport-expiry-decision-tree-sv.jpg) De två vägarna från ett utgånget pass - och ingen av dem går via gaten.
+
 ## Kan du boka en semester med ett utgånget pass?
 
 Att boka är inte samma sak som att gå ombord.

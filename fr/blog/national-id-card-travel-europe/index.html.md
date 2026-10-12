@@ -36,6 +36,8 @@ Certains États membres de l'UE ont des accords bilatéraux avec certains pays n
 
 En Europe, certains pays ont des accords bilatéraux qui étendent l'acceptation de la carte d'identité au-delà du cadre européen standard. Ces accords existent, mais ils peuvent être complexes — c'est pourquoi il est souvent plus simple d'emporter votre passeport en plus de votre carte d'identité dès que vous voyagez hors de votre pays d'origine, même si la loi dit que votre carte seule suffit.
 
+![Diagramme comparant quand une carte d'identité nationale suffit, pour voyager dans l'UE, l'EEE et la Suisse, et quand prendre le passeport : la plupart des voyages hors Europe, une carte endommagée, ou une compagnie aérienne qui l'exige](https://traveldocumentvault.com/blog/national-id-card-travel-europe/id-card-or-passport-fr.jpg) Dans l'UE et l'EEE, la carte suffit généralement ; hors d'Europe, prenez le passeport.
+
 ## Ce qu'il faut vérifier sur la carte avant de voyager
 
 Une date de validité correcte est nécessaire mais pas suffisante. Les agents frontaliers sont formés pour refuser les documents qu'ils ne peuvent pas lire clairement. Avant de faire vos valises, inspectez votre carte d'identité comme le feraient les agents frontaliers :

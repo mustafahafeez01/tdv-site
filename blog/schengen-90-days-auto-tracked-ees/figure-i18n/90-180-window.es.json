@@ -1,0 +1,30 @@
+{
+ "es": {
+  "template": "sequence",
+  "title": "La ventana móvil de 90/180",
+  "subtitle": "La ventana se desplaza cada día",
+  "start": "Hace 180 días",
+  "steps": [
+   {
+    "label": "Viaje 1",
+    "text": "30 días"
+   },
+   {
+    "label": "Viaje 2",
+    "text": "45 días"
+   },
+   {
+    "label": "Hoy",
+    "text": "30 + 45 = 75 días usados, quedan 15 de tus 90"
+   }
+  ],
+  "highlight": 2,
+  "focal": "El día de llegada y el de salida cuentan",
+  "alt": "Diagrama de la ventana móvil 90/180 de Schengen: desde hace 180 días hasta hoy, dos viajes de 30 y 45 días usan 75 de 90 días, dejando 15; la ventana se desplaza cada día y el día de llegada y el de salida cuentan",
+  "caption": "La ventana nunca se reinicia: cada día, los 180 anteriores no pueden contener más de 90 días de estancia.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  }
+ }
+}

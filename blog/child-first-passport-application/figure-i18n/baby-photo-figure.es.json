@@ -1,0 +1,50 @@
+{
+ "es": {
+  "template": "cards",
+  "title": "Fotos de pasaporte para un bebé",
+  "cards": [
+   {
+    "heading": "Lo que no cambia",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Ojos abiertos, mirando a la cámara",
+      "mark": "tick"
+     },
+     {
+      "text": "Fondo liso detrás de la cabeza",
+      "mark": "tick"
+     },
+     {
+      "text": "Nada más en el encuadre",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Lo que cambia con la edad",
+    "items": [
+     {
+      "text": "Menos de 6 meses: tumbado sobre una sábana lisa",
+      "mark": "dot"
+     },
+     {
+      "text": "6 meses a 2 años: en brazos, sin adulto visible",
+      "mark": "dot"
+     },
+     {
+      "text": "2 años o más: sentado, mirando por encima del objetivo",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "focal": "Causa habitual de rechazo: mano, chupete o juguete en el fondo",
+  "alt": "Diagrama de lo que no cambia en una foto de pasaporte de un bebé (ojos abiertos, fondo liso, nada más en el encuadre) y de lo que cambia según la edad, desde menos de 6 meses hasta 2 años o más, con las causas más frecuentes de rechazo",
+  "caption": "",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

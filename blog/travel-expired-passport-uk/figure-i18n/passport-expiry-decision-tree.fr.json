@@ -1,0 +1,40 @@
+{
+ "fr": {
+  "template": "tree",
+  "title": "Voyager avec un passeport expiré",
+  "root": {
+   "heading": "Quel type de voyage ?"
+  },
+  "branches": [
+   {
+    "edge": "International",
+    "edge_mark": "cross",
+    "heading": "Non autorisé",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Demandez un renouvellement urgent"
+     }
+    ]
+   },
+   {
+    "edge": "National",
+    "edge_mark": "question",
+    "heading": "Vérifiez avec votre compagnie aérienne",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Appelez avant de partir"
+     }
+    ]
+   }
+  ],
+  "focal": "Vérifiez toujours avant le départ",
+  "alt": "Arbre de décision pour un passeport expiré : le voyage international est marqué non autorisé et renvoie vers une demande de renouvellement urgent, le voyage national renvoie vers une vérification avec votre compagnie aérienne et un appel avant le départ, avec une note pour toujours vérifier avant le départ",
+  "caption": "Les deux chemins à partir d'un passeport expiré — et aucun des deux ne passe par la porte d'embarquement.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "nl": {
+  "template": "sequence",
+  "title": "Vier controlemomenten, van boeken tot instappen",
+  "steps": [
+   {
+    "label": "Boeken",
+    "text": "Controleer vervaldatums"
+   },
+   {
+    "label": "3 maanden vooraf",
+    "text": "Verleng indien nodig"
+   },
+   {
+    "label": "1 maand vooraf",
+    "text": "Bevestig en verzamel alles"
+   },
+   {
+    "label": "Avond vooraf",
+    "text": "Laatste controle"
+   }
+  ],
+  "alt": "Tijdlijndiagram van reisdocumentcontroles: controleer vervaldatums bij het boeken, verleng indien nodig drie maanden vooraf, bevestig en verzamel alles één maand vooraf, laatste controle de avond ervoor",
+  "caption": "Vier controlemomenten tussen boeken en instappen - elk klein als je op tijd begint.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "en": {
+  "template": "tree",
+  "root": {
+   "heading": "Who holds the key?"
+  },
+  "branches": [
+   {
+    "edge": "Their key",
+    "edge_mark": "cross",
+    "heading": "Photo backup",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Readable by whoever gets in",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "edge": "Your key, stays on the phone",
+    "edge_mark": "tick",
+    "heading": "Encrypted backup",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Useless without the key",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Same cloud, different answer",
+  "alt": "Diagram comparing a photo backup, readable in the cloud with the company holding the key, and an encrypted backup, useless without the key that stays on your phone",
+  "caption": "Same cloud, different answer. The file goes up either way; what changes is who can open it.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

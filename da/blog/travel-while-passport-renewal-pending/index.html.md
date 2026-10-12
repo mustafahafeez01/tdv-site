@@ -24,6 +24,8 @@ Du kan ikke rejse internationalt uden et gyldigt pas fysisk i din besiddelse. En
 
 Om du stadig har det pas, afhænger helt af dit land og din fornyelsesmetode.
 
+![Beslutningsdiagram: har du stadig passet i hånden? Ja – rejs på det, så længe det er gyldigt (USA's fornyelse via post, Storbritanniens digitale fornyelse). Nej – afleveret, du venter på det nye (Storbritanniens postfornyelse, Australien, Canada). Intet land lader dig flyve internationalt uden et pas i hånden](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-da.jpg) Ét spørgsmål afgør alt: om du stadig har dit gamle pas i din besiddelse.
+
 ## USA: Fornyelse med post
 
 Standard amerikansk pasfornyelse med post kræver ikke, at du afleverer dit nuværende pas, før det nye ankommer. Du udfylder formular DS-82, vedlægger dit eksisterende pas og sender det hele til National Passport Processing Center. Dit gamle pas returneres til dig sammen med det nye, typisk annulleret med et hulslag.

@@ -1,0 +1,30 @@
+{
+ "id": {
+  "template": "sequence",
+  "title": "Jendela bergulir 90/180",
+  "subtitle": "Jendelanya bergeser setiap hari",
+  "start": "180 hari lalu",
+  "steps": [
+   {
+    "label": "Perjalanan 1",
+    "text": "30 hari"
+   },
+   {
+    "label": "Perjalanan 2",
+    "text": "45 hari"
+   },
+   {
+    "label": "Hari ini",
+    "text": "30 + 45 = 75 hari terpakai, sisa 15 dari 90 hari Anda"
+   }
+  ],
+  "highlight": 2,
+  "focal": "Hari kedatangan dan keberangkatan sama-sama dihitung",
+  "alt": "Diagram garis waktu jendela bergulir 90/180 Schengen: dari 180 hari lalu sampai hari ini, dua perjalanan 30 dan 45 hari memakai 75 dari 90 hari, menyisakan 15; jendelanya bergeser setiap hari dan hari kedatangan serta keberangkatan sama-sama dihitung",
+  "caption": "Jendelanya tidak pernah direset: untuk setiap hari, 180 hari sebelumnya paling banyak boleh berisi 90 hari masa tinggal.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  }
+ }
+}

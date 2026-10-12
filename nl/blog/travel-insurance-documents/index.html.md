@@ -62,6 +62,8 @@ Bewaar een fysieke kopie – of een foto van goede kwaliteit van de cruciale pag
 
 Een handgeschreven kaartje doet net zo goed dienst als een afdruk: polisnummer, naam van de verzekeraar, noodlijn. Stop het in je paspoorthoesje en het overleeft een lege batterij, een verloren telefoon en een hotelkluis die je niet open krijgt.
 
+![Twee identieke telefoons naast elkaar: de linker licht op met de verzekeringspolis opgeslagen op het toestel, de rechter is grijs met een laadspinner en geen signaal](https://traveldocumentvault.com/blog/travel-insurance-documents/saved-vs-searching-figure.jpg) Gedownload en binnen handbereik, of nog steeds in een inbox die je niet kunt bereiken. Het verschil blijkt op het slechtste moment.
+
 ### Vergelijking van documentopslag
 
 | Opslaglocatie | Benadering zonder internet | In een noodsituatie | Back-up als telefoon verloren |

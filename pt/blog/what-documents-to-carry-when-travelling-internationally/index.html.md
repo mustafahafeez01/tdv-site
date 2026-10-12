@@ -46,6 +46,8 @@ Quando uma criança viaja internacionalmente com apenas um progenitor (ou sem am
 
 É o documento mais frequentemente esquecido em viagens familiares, portanto verifique duas vezes antes de chegar à porta.
 
+![Diagrama dividido: na bagagem de mão leve o passaporte, vistos e autorizações, cartões de embarque, e uma carta de consentimento se necessário; offline no telemóvel guarde dados do passaporte, apólice de seguro e linha de apoio, referências de reserva, e certificados de vacinação, porque um é a cópia de segurança do outro, e se perder a mala, a cópia no telemóvel leva-o a casa](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/carry-or-store-figure-pt.jpg) Os originais viajam na bagagem de mão; as suas cópias encriptadas vivem offline no telemóvel.
+
 ## O Que Transportar Versus O Que Guardar Digitalmente
 
 As fronteiras querem documentos originais, mas se esses originais desaparecerem, cópias de segurança digitais seguras é o que o traz de volta a casa.

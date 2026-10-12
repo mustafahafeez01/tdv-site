@@ -87,6 +87,8 @@ iPhone 사용자라면 **iCloud의 고급 데이터 보호 활성화**는 가치
 
 **Travel Document Vault**는 강력한 암호화로 온디바이스에 여권 스캔본을 저장합니다. 계정이 필요하지 않습니다. Pro로 자신의 iCloud 또는 Google Drive에 암호화된 사본을 백업할 수 있습니다. 백업을 복원하려면 복구 코드가 필요하므로 안전하게 보관하십시오. [App Store에서 다운로드](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
+![여권 사진이 노출하는 정보(이름, 생년월일, 여권 번호, 사진)와 세 가지 위험(계정 침해, 제3자 접근, 데이터 색인), 그리고 세 가지 더 안전한 보관 방법(ADP를 적용한 iCloud, 암호화 앱, 오프라인 사본)을 보여주는 다이어그램](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/passport-data-risks-ko.jpg) 사진 한 장, 정보 네 가지, 그리고 마음 편히 보관할 수 있는 세 곳.
+
 ## 더 안전한 대안은 무엇입니까
 
 여행할 때 손에 들어올 수 있는 디지털 여권 사본을 원한다면(물리적 여권이 분실되거나 도난당한 경우를 위한 백업) 불편함 없이 실제 보안을 제공하는 선택지가 있습니다.

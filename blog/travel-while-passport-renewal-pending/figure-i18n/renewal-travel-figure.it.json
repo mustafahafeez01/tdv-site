@@ -1,0 +1,49 @@
+{
+ "it": {
+  "template": "tree",
+  "title": "Rinnovo: potete ancora viaggiare?",
+  "root": {
+   "heading": "Il passaporto è ancora nelle vostre mani?"
+  },
+  "branches": [
+   {
+    "edge": "Sì",
+    "edge_mark": "tick",
+    "heading": "Viaggiate con quello finché resta valido",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Rinnovo postale USA"
+     },
+     {
+      "text": "Rinnovo digitale UK"
+     }
+    ]
+   },
+   {
+    "edge": "No",
+    "edge_mark": "cross",
+    "heading": "Consegnato: aspettate quello nuovo",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Rinnovo postale UK"
+     },
+     {
+      "text": "Australia"
+     },
+     {
+      "text": "Canada"
+     }
+    ]
+   }
+  ],
+  "focal": "Nessun paese vi fa volare a livello internazionale senza un passaporto in mano",
+  "alt": "Albero decisionale: il passaporto è ancora nelle vostre mani? Sì - viaggiate con quello finché resta valido (rinnovo postale USA, rinnovo digitale UK). No - consegnato, aspettate quello nuovo (rinnovo postale UK, Australia, Canada). Nessun paese vi fa volare a livello internazionale senza un passaporto in mano",
+  "caption": "Una sola domanda decide tutto: se il vostro vecchio passaporto è ancora in vostro possesso.",
+  "placement": {
+   "h2": 2,
+   "para": 2
+  }
+ }
+}

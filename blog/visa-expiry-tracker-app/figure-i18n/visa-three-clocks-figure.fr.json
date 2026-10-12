@@ -1,0 +1,43 @@
+{
+ "fr": {
+  "template": "matrix",
+  "title": "Un visa, trois horloges différentes",
+  "columns": [
+   "Ce que ça indique"
+  ],
+  "rows": [
+   {
+    "label": "Validité d'entrée",
+    "cells": [
+     "Entrez avant cette date"
+    ]
+   },
+   {
+    "label": "Durée maximale de séjour",
+    "cells": [
+     "Combien de temps vous pouvez rester"
+    ]
+   },
+   {
+    "label": "Nombre d'entrées",
+    "cells": [
+     "Entrée unique ou multiple"
+    ]
+   },
+   {
+    "label": "Schengen ajoute une quatrième",
+    "cells": [
+     "La fenêtre glissante 90/180"
+    ]
+   }
+  ],
+  "note": "Suivez-les toutes, par personne, au même endroit",
+  "focal": "Un dépassement peut entraîner amendes et interdictions de réentrée",
+  "alt": "Diagramme des trois horloges d'un visa : validité d'entrée (entrez avant cette date), durée maximale de séjour (combien de temps vous pouvez rester), et nombre d'entrées (unique ou multiple), avec une note que Schengen ajoute une quatrième horloge, la fenêtre glissante 90/180, et qu'un dépassement peut entraîner amendes et interdictions de réentrée",
+  "caption": "Un visa n'est pas une seule date. Ce sont trois horloges distinctes, et parfois une quatrième.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

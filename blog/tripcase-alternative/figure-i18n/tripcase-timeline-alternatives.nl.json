@@ -1,0 +1,58 @@
+{
+ "nl": {
+  "template": "tree",
+  "title": "Eén app werd vier taken",
+  "root": {
+   "heading": "TripCase",
+   "text": "Ging op 1 april 2025 offline"
+  },
+  "branches": [
+   {
+    "heading": "Vluchtwaarschuwingen",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Flighty",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Reisschema",
+    "tone": "good",
+    "items": [
+     {
+      "text": "TripIt",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Documenten",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Travel Document Vault",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Reis delen",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Gedeelde map",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagram van de vier taken van TripCase na de stopzetting op 1 april 2025: vluchtwaarschuwingen naar Flighty, reisschema naar TripIt, documenten naar Travel Document Vault, reis delen naar een gedeelde map",
+  "caption": "De vervangkaart in één overzicht: vier taken, vier tools, elk goed in één ding.",
+  "placement": {
+   "h2": 5,
+   "para": 1
+  }
+ }
+}

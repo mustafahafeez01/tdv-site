@@ -1,0 +1,71 @@
+{
+ "nl": {
+  "template": "cards",
+  "title": "Wat een paspoortfoto verklapt",
+  "cards": [
+   {
+    "heading": "Wat het laat zien",
+    "items": [
+     {
+      "text": "Naam",
+      "mark": "dot"
+     },
+     {
+      "text": "Geboortedatum",
+      "mark": "dot"
+     },
+     {
+      "text": "Paspoortnummer",
+      "mark": "dot"
+     },
+     {
+      "text": "Foto",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "De risico's",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Accountinbreuk",
+      "mark": "cross"
+     },
+     {
+      "text": "Toegang door derden",
+      "mark": "cross"
+     },
+     {
+      "text": "Data-indexering",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Veiligere plekken",
+    "tone": "good",
+    "items": [
+     {
+      "text": "iCloud met ADP",
+      "mark": "tick"
+     },
+     {
+      "text": "Versleutelde app",
+      "mark": "tick"
+     },
+     {
+      "text": "Offline kopie",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagram van wat een paspoortfoto verklapt - naam, geboortedatum, paspoortnummer en foto - naast drie risico's, accountinbreuk, toegang door derden en data-indexering, en drie veiligere opties: iCloud met ADP, een versleutelde app, of een offline kopie",
+  "caption": "Eén foto, vier gegevens, en drie rustigere plekken om ze te bewaren.",
+  "placement": {
+   "h2": 4,
+   "para": 5
+  }
+ }
+}

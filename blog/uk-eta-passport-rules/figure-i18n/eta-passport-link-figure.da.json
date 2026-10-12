@@ -1,0 +1,42 @@
+{
+ "da": {
+  "template": "cards",
+  "title": "Dit ETA er bundet til ét pas",
+  "cards": [
+   {
+    "heading": "Det pas, du søgte med",
+    "tone": "good",
+    "items": [
+     {
+      "text": "ETA'et er bundet til dette pas"
+     },
+     {
+      "text": "Rejs som normalt",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Et nyt eller fornyet pas",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Bindingen følger ikke med"
+     },
+     {
+      "text": "Søg om et nyt ETA, før du flyver"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "note": "Fornyelse bryder bindingen",
+  "focal": "Alle, der rejser, skal have deres eget, børn inklusive",
+  "alt": "Sammenligningsdiagram: det pas, du søgte med, holder ETA'et bundet til dette pas, så du rejser som normalt, mens et nyt eller fornyet pas ikke fører bindingen med og kræver et nyt ETA, før du flyver, og alle, der rejser, skal have deres eget, børn inklusive",
+  "caption": "Godkendelsen er bundet til passet, ikke til dig – og hver rejsende har sit eget.",
+  "placement": {
+   "h2": 4,
+   "para": 3
+  }
+ }
+}

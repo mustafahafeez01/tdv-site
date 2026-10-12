@@ -34,6 +34,8 @@ Det første skridt er at centralisere, hvor familiemedlemmers pas opbevares. Det
 
 Krypteret opbevaring betyder noget, fordi pas indeholder dit fulde navn, fødselsdag og pasnummer – information nok til identitetsstyveri. Almene fotoopbevaringsapps som Google Photos eller iCloud behandler dine dokumenter som snapshots snarere end følsom identitetsdata. En password-beskyttet PDF-mappe på din enhed, eller en app specifikt bygget til at håndtere rejsedokumenter, giver dig det krypteringslag, du har brug for.
 
+![Diagram af ét familiepas-system: fire pas (far, mor, barn 1, barn 2) samles ét krypteret sted, hvorfra udløbspåmindelser, offline adgang og krypteret backup går ud, med en note om, at børnepas udløber efter 5 år, ikke 10](https://traveldocumentvault.com/blog/family-passport-management/family-system-figure-da.jpg) Ét familiesystem: alle pas ét sted, med automatisk sporing af hver udløbsdato
+
 **Kun digitale kopier.** Scan fotoidentitetssiden af alle familiemedlemmers pas. Et klart billede af siden, der viser foto, navn, fødselsdag, pasnummer og udløbsdato, er nok. Dette bør tage 30 sekunder per person.
 
 Når de er skannet, opbevares disse kopier i dit krypterede hvælv – tilgængeligt når som helst, du skal kontrollere en gyldighedsdato, bevise, at du har dokumenter, når du booker rejser, eller give nødoplysninger til et konsulat, hvis noget går galt i udlandet.

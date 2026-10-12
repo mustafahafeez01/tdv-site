@@ -1,0 +1,13 @@
+{
+ "ja": {
+  "reuse": "/blog/travel-insurance-documents/saved-vs-searching-figure.jpg",
+  "width": 1536,
+  "height": 1024,
+  "alt": "同じスマートフォンを2台並べた図。左は保険証券が端末に保存されていて明るく表示され、右は読み込み中でグレーのまま電波もない",
+  "caption": "ダウンロードして手元にあるか、まだ届いていない受信箱の中か。その差は一番困る瞬間に表れる",
+  "placement": {
+   "h2": 4,
+   "para": 7
+  }
+ }
+}

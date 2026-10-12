@@ -1,0 +1,50 @@
+{
+ "id": {
+  "template": "cards",
+  "title": "Foto paspor untuk bayi",
+  "cards": [
+   {
+    "heading": "Yang tetap sama",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Mata terbuka, menghadap kamera",
+      "mark": "tick"
+     },
+     {
+      "text": "Latar belakang polos di belakang kepala",
+      "mark": "tick"
+     },
+     {
+      "text": "Tidak ada hal lain dalam bingkai",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Yang berubah sesuai usia",
+    "items": [
+     {
+      "text": "Di bawah 6 bulan: berbaring di sprei polos",
+      "mark": "dot"
+     },
+     {
+      "text": "6 bulan - 2 tahun: di pangkuan, orang dewasa tidak dalam bingkai",
+      "mark": "dot"
+     },
+     {
+      "text": "2 tahun ke atas: duduk, menatap sedikit di atas lensa",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "focal": "Penyebab penolakan terbanyak: tangan penyangga, empeng, atau mainan",
+  "alt": "Diagram tentang yang tetap sama pada foto paspor bayi (mata terbuka, latar belakang polos, tidak ada hal lain dalam bingkai) dan yang berubah menurut kelompok usia dari di bawah 6 bulan sampai 2 tahun ke atas, dengan penyebab penolakan paling umum",
+  "caption": "",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

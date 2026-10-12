@@ -28,6 +28,8 @@ En kopia i telefonen är ett underlag snarare än en giltig legitimation, och de
 
 Det är bra att veta i förväg [var en digital passkopia godtas och var du fortfarande behöver originalet](https://traveldocumentvault.com/sv/blog/digital-passport-copy-valid/).
 
+![Diagram över de sju stegen efter att ha förlorat ett pass utomlands: bekräfta att det verkligen är borta, gör en polisanmälan, kontakta din ambassad, nödpass, meddela ditt försäkringsbolag, kontrollera din visumsituation, ta dig hem och sedan ersätt det - med en notering om att fotografera passet i dag, eftersom en säkerhetskopia gör steg fyra mycket snabbare](https://traveldocumentvault.com/blog/lost-passport-abroad/lost-passport-7-steps-figure-sv.jpg) Sju lugna steg, i ordning - och den enda sak du bör göra i dag, innan något av dem behövs.
+
 ## Steg 1: Bekräfta att passet verkligen är borta
 
 Leta överallt innan du drar den värsta slutsatsen – jackfickor, alla fack i väskan, hotellkassaskåpet, senaste taxin eller restaurangen. Om det verkligen är borta eller stulet, gå vidare genom de återstående stegen utan dröjsmål.

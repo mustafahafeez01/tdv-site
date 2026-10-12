@@ -1,0 +1,27 @@
+{
+ "id": {
+  "template": "hub",
+  "inputs": [
+   "Foto",
+   "Cloud",
+   "Catatan",
+   "Email",
+   "Kalender"
+  ],
+  "hub": {
+   "heading": "Satu vault"
+  },
+  "outputs": [
+   "Pengingat kedaluwarsa",
+   "Terenkripsi",
+   "Offline"
+  ],
+  "focal": "Satu aplikasi dibanding lima",
+  "alt": "Diagram lima aplikasi yang terpisah - foto, cloud, catatan, email, kalender - menyatu ke dalam satu vault, yang menghasilkan pengingat kedaluwarsa, enkripsi, dan akses offline: satu aplikasi dibanding lima",
+  "caption": "Yang dulu terlibat dalam pengecekan pukul 11 malam - dan yang terlibat sekarang.",
+  "placement": {
+   "h2": 3,
+   "para": 5
+  }
+ }
+}

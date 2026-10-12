@@ -46,6 +46,8 @@ Simpan salinan resmi itu bersama paspor Anda, bukan di berkas terpisah di rumah,
 
 Jawaban praktisnya tetap singkat: satu dokumen, disimpan dekat dengan Anda, dan sebuah proses yang umumnya berjalan cepat begitu dokumen itu ditunjukkan.
 
+![Diagram pohon keputusan tentang dokumen yang harus dibawa sesuai siapa yang tidak ikut bepergian: surat izin untuk orang tua lainnya, putusan hak asuh atau pengadilan untuk mantan tanpa kontak, salinan akta kematian untuk orang tua yang telah meninggal, atau persetujuan dari keduanya ditambah akta kelahiran saat kedua orang tua tidak ikut bepergian, dengan catatan untuk tetap membawa akta kelahiran anak dalam kasus apa pun](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/who-is-missing-figure-id.jpg) Empat situasi, empat dokumen, dan satu akta kelahiran yang membantu dalam semuanya. Ini adalah pembacaan kami atas apa yang paling sering diminta maskapai dan petugas perbatasan, bukan daftar hukum resmi. Persyaratan berbeda menurut destinasi dan maskapai, jadi periksa otoritas imigrasi destinasi Anda dan maskapai Anda sebelum bepergian.
+
 Ini adalah pandangan kami tentang apa yang paling sering diminta maskapai dan petugas imigrasi, bukan daftar persyaratan hukum. Ketentuannya berbeda-beda menurut negara tujuan dan maskapai, jadi periksa dulu ke otoritas imigrasi negara tujuan dan maskapai Anda sebelum berangkat.
 
 ## Nama Keluarga yang Berbeda dari Anak Anda: Akta Kelahiran Biasanya Menjawabnya

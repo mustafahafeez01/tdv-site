@@ -19,6 +19,8 @@ Source: https://traveldocumentvault.com/de/blog/passport-expired-what-to-do/
 
 Wenn Sie feststellen, dass Ihr Reisepass abgelaufen ist, ist das einer dieser Momente, in denen die Zeit plötzlich sehr real wird. Egal ob Sie es drei Monate vor einer Reise entdeckten oder ob Sie gerade am Flughafenschalter stehen – was als nächstes kommt, hängt ganz davon ab, in welcher Situation Sie sich befinden.
 
+![Verzweigungsdiagramm für einen abgelaufenen Reisepass: zu Hause mit anstehender Reise, dringende Erneuerung buchen, da UK Termine am selben Tag und die USA Notfalltermine bieten; am Flughafen zuerst die Airline anrufen, da manche bei Notfällen kostenlos umbuchen. Die eigentliche Lösung ist eine Erinnerung nach 12 Monaten, nicht 6, weil abgelaufen heißt, Sie fliegen nicht](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-de.jpg) Gleiches Problem, zwei völlig unterschiedliche Vorgehensweisen – es hängt davon ab, wo Sie stehen, wenn Sie es merken.
+
 ## Szenario A: Sie haben es zu Hause entdeckt und eine Reise steht bevor
 
 Diese Situation ist lösbar – aber wie gut sie gelöst werden kann, hängt davon ab, wie viel Zeit Sie vor der Reise noch haben.

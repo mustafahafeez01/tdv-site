@@ -44,6 +44,8 @@ Quand vous renouvelez votre passeport, l'autorité compétente de votre pays vou
 
 Voici le calendrier à prévoir :
 
+![Diagramme comparatif : le passeport utilisé pour la demande garde l'ETA liée à ce carnet, donc vous voyagez normalement, tandis qu'un passeport nouveau ou renouvelé ne conserve pas ce lien et nécessite une nouvelle ETA avant le départ, chaque voyageur ayant besoin de sa propre ETA, enfants compris](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-fr.jpg) L'autorisation est liée au carnet, pas à vous — et chaque voyageur porte la sienne.
+
 1. La date d'expiration de votre passeport approche.
 2. Vous faites une demande de renouvellement de passeport dans votre pays.
 3. Votre nouveau passeport arrive (les délais de traitement varient, voir le [guide sur les délais de renouvellement de passeport](https://traveldocumentvault.com/fr/blog/how-long-does-passport-renewal-take/)).

@@ -1,0 +1,59 @@
+{
+ "nl": {
+  "template": "cards",
+  "title": "Meenemen of opslaan?",
+  "cards": [
+   {
+    "heading": "In je handbagage",
+    "items": [
+     {
+      "text": "Paspoort",
+      "mark": "tick"
+     },
+     {
+      "text": "Visa en goedkeuringen",
+      "mark": "tick"
+     },
+     {
+      "text": "Instapkaarten",
+      "mark": "tick"
+     },
+     {
+      "text": "Toestemmingsbrief indien nodig",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Offline op je telefoon",
+    "items": [
+     {
+      "text": "Paspoortgegevens",
+      "mark": "tick"
+     },
+     {
+      "text": "Verzekeringspolis en hulplijn",
+      "mark": "tick"
+     },
+     {
+      "text": "Boekingsreferenties",
+      "mark": "tick"
+     },
+     {
+      "text": "Vaccinatiebewijzen",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "and",
+  "note": "Het ene is de back-up van het andere",
+  "focal": "Als de tas kwijt is, brengt de telefoonkopie je thuis",
+  "alt": "Gesplitst diagram: neem in je handbagage het paspoort, visa en goedkeuringen, instapkaarten en een toestemmingsbrief indien nodig; bewaar offline op je telefoon paspoortgegevens, verzekeringspolis en hulplijn, boekingsreferenties en vaccinatiebewijzen, omdat het ene de back-up is van het andere en als de tas kwijt is, de telefoonkopie je thuis brengt",
+  "caption": "Originelen reizen in je handbagage; hun versleutelde tweelingen leven offline op je telefoon.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

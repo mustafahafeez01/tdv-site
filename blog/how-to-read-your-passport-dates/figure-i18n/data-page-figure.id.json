@@ -1,0 +1,52 @@
+{
+ "id": {
+  "template": "cards",
+  "title": "Empat kolom pada halaman data",
+  "cards": [
+   {
+    "heading": "Tanggal penerbitan",
+    "items": [
+     {
+      "text": "Hari saat paspor dicetak",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Tanggal kedaluwarsa",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "Masa berlaku diukur dari sini",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Negara penerbit",
+    "items": [
+     {
+      "text": "Yang menggantinya jika hilang",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Nomor paspor",
+    "items": [
+     {
+      "text": "Buku paspor baru berarti nomor baru",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagram halaman data paspor dengan empat kolom berlabel: tanggal penerbitan, tanggal kedaluwarsa, negara penerbit, dan nomor paspor, dengan tanggal kedaluwarsa ditandai sebagai satu-satunya yang benar-benar dihitung oleh masa berlaku dan aturan 6 bulan",
+  "caption": "Empat kolom, dan hanya satu yang sebenarnya dihitung oleh setiap aturan masuk.",
+  "focal": "Aturan 6 bulan dihitung mundur dari tanggal kedaluwarsa",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

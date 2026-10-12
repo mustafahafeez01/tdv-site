@@ -34,6 +34,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/schengen-passport-rules-fam
 
 我们的[6个月规则指南](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)涵盖了哪些国家实际执行它。我们的[护照有效期解释器](https://traveldocumentvault.com/zh-Hans/blog/how-long-is-passport-valid-for-travel/)处理一般情况。我们在这里坚持申根，因为这是家庭最容易在数学上出错的地方。
 
+![一个家庭四本护照到期日示意图，按顺序排列：孩子2有效期至2027年，孩子1至2028年，妈妈至2030年，爸爸至2032年；最早的到期日决定整个行程，儿童护照有效期5年不是10年，申根要求离境后还剩3个月有效期](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/family-expiry-dates-figure-zh-Hans.jpg) 四本护照，四个时钟——最短的那个才是全家的真正截止日期。
+
 ## 儿童护照的有效期更短
 
 成人护照通常有效期为10年，而儿童护照只有5年。这种不对称的设置是许多其他精心计划的事情出问题的地方。

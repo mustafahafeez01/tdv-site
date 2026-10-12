@@ -48,6 +48,8 @@ Passbehörden verlangen drei Dinge, wenn Sie den ersten Reisepass eines Kindes b
 
 ## Babys können Fotoregeln für Erwachsene nicht befolgen, also passen Sie sie an
 
+![Diagramm dazu, was bei einem Babypassfoto gleich bleibt, offene Augen, einfarbiger Hintergrund, nichts sonst im Bild, und was sich je Altersgruppe ändert, von unter 6 Monaten bis 2 Jahre und älter, mit den häufigsten Ablehnungsgründen](https://traveldocumentvault.com/blog/child-first-passport-application/baby-photo-figure-de.jpg)
+
 Genau hier scheitern viele Erstanträge. Ein Baby oder Kleinkind kann Fotoregeln nicht so befolgen wie ein Erwachsener: Babys können nicht selbst sitzen, Kleinkinder können weder stillhalten noch Anweisungen verstehen, und Neugeborene schauen nicht auf Kommando in die Kamera. Die Passfoto-Standards wurden für Erwachsene geschrieben, und Sie müssen verstehen, wie man sie anpasst, wenn das Motiv ein 5 Kilo schweres Kind ist, das sich ständig bewegt.
 
 **Die Grundregeln bleiben gleich:** Die Augen des Kindes müssen deutlich geöffnet sein und in die Kamera schauen, mit einem einfarbigen Hintergrund hinter dem Kopf und nichts sonst im Bild. Was sich ändert, ist der Weg dorthin.

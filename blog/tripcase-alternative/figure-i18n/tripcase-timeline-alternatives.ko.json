@@ -1,0 +1,58 @@
+{
+ "ko": {
+  "template": "tree",
+  "title": "하나의 앱이 네 가지 역할로 나뉘다",
+  "root": {
+   "heading": "TripCase",
+   "text": "2025년 4월 1일 서비스 종료"
+  },
+  "branches": [
+   {
+    "heading": "항공편 알림",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Flighty",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "일정 관리",
+    "tone": "good",
+    "items": [
+     {
+      "text": "TripIt",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "서류 보관",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Travel Document Vault",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "일정 공유",
+    "tone": "good",
+    "items": [
+     {
+      "text": "공유 폴더",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "TripCase가 2025년 4월 1일 서비스를 종료한 뒤 네 가지 역할이 나뉘는 모습을 보여주는 다이어그램: 항공편 알림은 Flighty로, 일정 관리는 TripIt으로, 서류 보관은 Travel Document Vault로, 일정 공유는 공유 폴더로 이동한다",
+  "caption": "대체 서비스를 한눈에 보는 지도. 네 가지 역할을 네 개의 도구가 각각 잘해냅니다.",
+  "placement": {
+   "h2": 5,
+   "para": 1
+  }
+ }
+}

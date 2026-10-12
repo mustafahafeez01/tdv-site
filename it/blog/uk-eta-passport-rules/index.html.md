@@ -44,6 +44,8 @@ Quando rinnovi il passaporto, l'autorità che rilascia il tuo passaporto ti forn
 
 Ecco la sequenza da pianificare:
 
+![Diagramma di confronto: il passaporto con cui hai fatto domanda mantiene l'ETA collegata a quel libretto, così viaggi normalmente, mentre un passaporto nuovo o rinnovato non trasferisce il collegamento e serve una nuova ETA prima di volare, e ogni persona in viaggio ne ha bisogno di una propria, bambini compresi](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-it.jpg) L'autorizzazione è legata al libretto, non a te - e ogni viaggiatore porta la propria.
+
 1. La data di scadenza del tuo passaporto si avvicina.
 2. Fai domanda per rinnovare il passaporto nel tuo paese di origine.
 3. Il nuovo passaporto arriva (i tempi di elaborazione variano, consulta la [guida sui tempi di rinnovo del passaporto](https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-take/)).

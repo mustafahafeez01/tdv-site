@@ -30,6 +30,8 @@ Tidak semua orang didaftarkan. Warga negara UE, penduduk negara Schengen, dan pe
 
 Aturannya sendiri tidak berubah: Anda boleh berada di kawasan Schengen paling lama 90 hari dalam jendela bergulir 180 hari mana pun. Itu bukan 90 hari per tahun kalender, dan jendelanya tidak direset saat Anda keluar. Untuk setiap hari Anda berada di sana, 180 hari sebelumnya tidak boleh berisi lebih dari 90 hari masa tinggal.
 
+![Diagram garis waktu jendela bergulir 90/180 Schengen: dari 180 hari lalu sampai hari ini, dua perjalanan 30 dan 45 hari memakai 75 dari 90 hari, menyisakan 15; jendelanya bergeser setiap hari dan hari kedatangan serta keberangkatan sama-sama dihitung](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-id.jpg) Jendelanya tidak pernah direset: untuk setiap hari, 180 hari sebelumnya paling banyak boleh berisi 90 hari masa tinggal.
+
 Yang berubah adalah penegakannya. Dengan stempel paspor, membuktikan kelebihan tinggal berarti menerjemahkan tinta yang memudar, dan petugas perbatasan punya keleluasaan. Sekarang tanggalnya tepat, dan sistem menandai kelebihan tinggal pada saat itu juga terjadi. Bersiaplah menghadapi penolakan pada kunjungan berikutnya, dan dalam banyak kasus larangan masuk selama satu hingga lima tahun, yang dicatat pihak berwenang dalam Sistem Informasi Schengen. Margin kesalahan telah berubah dari kabur menjadi nol.
 
 ## Masalahnya: EES Menegakkan Aturan, Bukan Merencanakan

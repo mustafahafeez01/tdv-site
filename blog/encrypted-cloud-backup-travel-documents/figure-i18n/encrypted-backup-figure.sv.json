@@ -1,0 +1,41 @@
+{
+ "sv": {
+  "template": "tree",
+  "root": {
+   "heading": "Vem har nyckeln?"
+  },
+  "branches": [
+   {
+    "edge": "Deras nyckel",
+    "edge_mark": "cross",
+    "heading": "Fotosäkerhetskopia",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Läsbar för den som kommer in",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "edge": "Din nyckel, stannar i telefonen",
+    "edge_mark": "tick",
+    "heading": "Krypterad säkerhetskopia",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Värdelös utan nyckeln",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Samma moln, olika svar",
+  "alt": "Diagram som jämför en fotosäkerhetskopia, läsbar i molnet där företaget har nyckeln, med en krypterad säkerhetskopia, värdelös utan nyckeln som stannar i telefonen",
+  "caption": "Samma moln, olika svar. Filen laddas upp i båda fallen, det som ändras är vem som kan öppna den.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

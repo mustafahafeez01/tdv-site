@@ -1,0 +1,50 @@
+{
+ "it": {
+  "template": "cards",
+  "title": "Foto passaporto per un neonato",
+  "cards": [
+   {
+    "heading": "Cosa resta uguale",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Occhi aperti, verso la fotocamera",
+      "mark": "tick"
+     },
+     {
+      "text": "Sfondo neutro dietro la testa",
+      "mark": "tick"
+     },
+     {
+      "text": "Nient'altro nell'inquadratura",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Cosa cambia con l'età",
+    "items": [
+     {
+      "text": "Sotto i 6 mesi: steso su un lenzuolo neutro",
+      "mark": "dot"
+     },
+     {
+      "text": "Da 6 mesi a 2 anni: in braccio, adulto fuori inquadratura",
+      "mark": "dot"
+     },
+     {
+      "text": "Dai 2 anni: seduto, sguardo appena sopra l'obiettivo",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "focal": "Motivo più comune di rifiuto: una mano di supporto, un ciuccio o un giocattolo sullo sfondo",
+  "alt": "Diagramma di cosa resta uguale in una foto passaporto di un neonato (occhi aperti, sfondo neutro, nient'altro nell'inquadratura) e cosa cambia in base all'età, da sotto i 6 mesi a oltre i 2 anni, con i motivi di rifiuto più comuni",
+  "caption": "",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

@@ -19,6 +19,8 @@ Source: https://traveldocumentvault.com/da/blog/passport-expired-what-to-do/
 
 At opdage, at dit pas er udløbet, er et af de øjeblikke, hvor tiden pludselig føles meget virkelig. Uanset om du opdagede det tre måneder før en rejse, eller du står ved check-in-skranken i lufthavnen lige nu, afhænger det næste skridt helt af, hvilken situation du befinder dig i.
 
+![Forgrenet diagram for et udløbet pas: hjemme med en rejse i vente, book en akut fornyelse, da Storbritannien har samme-dags og USA har nødtider; i lufthavnen, ring til dit flyselskab først, da nogle omlægger gratis i nødsituationer. Den rigtige løsning er en påmindelse ved 12 måneder, ikke 6, fordi udløbet betyder, at du ikke flyver](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-da.jpg) Samme problem, to meget forskellige fremgangsmåder – det afhænger helt af, hvor du står, når du finder ud af det.
+
 ## Scenarie A: Du opdagede det hjemme, med en rejse på vej
 
 Denne situation kan løses – men hvor let afhænger af, hvor meget tid du har tilbage, før du rejser.

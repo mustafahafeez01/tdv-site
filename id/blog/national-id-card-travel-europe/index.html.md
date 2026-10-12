@@ -36,6 +36,8 @@ Beberapa negara anggota UE memang memiliki perjanjian bilateral dengan negara-ne
 
 Di dalam Eropa, beberapa negara memiliki perjanjian bilateral yang memperluas penerimaan kartu ID di luar kerangka standar UE. Perjanjian ini memang ada, tetapi bisa rumit, sehingga sering kali lebih sederhana untuk tetap membawa paspor bersama kartu ID setiap kali bepergian ke luar negara asal Anda, meskipun secara hukum kartu ID saja sudah cukup.
 
+![Diagram yang membandingkan kapan kartu identitas nasional biasanya cukup, untuk perjalanan di dalam UE, EEA, dan Swiss, dengan kapan harus membawa paspor: sebagian besar perjalanan di luar Eropa, kartu yang rusak, atau maskapai yang memintanya](https://traveldocumentvault.com/blog/national-id-card-travel-europe/id-card-or-passport-id.jpg) Di dalam UE dan EEA kartu biasanya cukup; di luar Eropa, bawa paspor.
+
 ## Yang Harus Diperiksa pada Kartu Sebelum Bepergian
 
 Tanggal kedaluwarsa yang masih berlaku memang perlu, tetapi tidak cukup, karena petugas perbatasan dilatih untuk menolak dokumen yang tidak dapat mereka baca dengan jelas. Sebelum mengemas barang, periksa kartu ID Anda dengan cara yang sama seperti petugas perbatasan akan memeriksanya:

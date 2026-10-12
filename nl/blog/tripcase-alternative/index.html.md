@@ -50,6 +50,8 @@ Reisdocumenten wegen anders dan verloren afspeellijsten. Een paspoortscan, een v
 
 TripCase bundelde verschillende taken in één gratis app. Geen enkele huidige app doet ze allemaal goed, dus is de eerlijke aanpak om de taken te splitsen en voor elk het beste gereedschap te kiezen.
 
+![Diagram van de vier taken van TripCase na de stopzetting op 1 april 2025: vluchtwaarschuwingen naar Flighty, reisschema naar TripIt, documenten naar Travel Document Vault, reis delen naar een gedeelde map](https://traveldocumentvault.com/blog/tripcase-alternative/tripcase-timeline-alternatives-nl.jpg) De vervangkaart in één overzicht: vier taken, vier tools, elk goed in één ding.
+
 | De taak | Wat TripCase deed | Beste vervanging nu | Kosten |
 |---|---|---|---|
 | Vluchtmeldingen | Realtime vertragingen, gatewijzigingen, annuleringen | Flighty | Gratis niveau; betaald abonnement beschikbaar |

@@ -32,6 +32,8 @@ La otra configuración revuelve el archivo en tu teléfono antes de que vaya a n
 
 Así que la pregunta que vale la pena hacerle a cualquier app es corta: **¿quién tiene la clave?** Todo lo demás en el marketing se deriva de la respuesta.
 
+![Diagrama que compara una copia de seguridad de fotos, legible en la nube porque la empresa tiene la clave, con una copia de seguridad cifrada, inútil sin la clave que se queda en tu teléfono](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/encrypted-backup-figure-es.jpg) Misma nube, respuesta distinta. El archivo sube igual en los dos casos; lo que cambia es quién puede abrirlo.
+
 ## El código de recuperación y por qué no podemos restablecerlo
 
 Travel Document Vault no necesita una cuenta en la app para guardar documentos en tu dispositivo. Su [copia de seguridad en la nube](https://traveldocumentvault.com/es/cloud-backup/) opcional requiere Pro y tu código de recuperación para desbloquear la clave de cifrado de la nube. La app crea este código de 24 caracteres cuando configuras tu PIN. La bóveda cifrada va entonces a **tu propio iCloud en iPhone y iPad, o tu propio Google Drive en Android**, en lugar de a nosotros.

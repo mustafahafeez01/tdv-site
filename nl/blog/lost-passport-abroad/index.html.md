@@ -28,6 +28,8 @@ Een kopie op je telefoon is een vastlegging van de gegevens, geen identiteitsbew
 
 Het is goed om vooraf te weten [waar een digitale paspoortkopie wordt geaccepteerd en waar je nog steeds het origineel nodig hebt](https://traveldocumentvault.com/nl/blog/digital-passport-copy-valid/).
 
+![Diagram van de zeven stappen na het kwijtraken van een paspoort in het buitenland: bevestig dat het echt kwijt is, doe aangifte bij de politie, neem contact op met je ambassade, noodpaspoort, meld het bij je verzekeraar, controleer je visumsituatie, kom thuis en vervang het dan - met de aantekening om vandaag een foto van je paspoort te maken, omdat een back-upkopie stap vier veel sneller maakt](https://traveldocumentvault.com/blog/lost-passport-abroad/lost-passport-7-steps-figure-nl.jpg) Zeven rustige stappen, op volgorde - en het ene dat je vandaag al doet, voordat je het ooit nodig hebt.
+
 ## Stap 1: Bevestig dat het paspoort echt weg is
 
 Kijk overal na voordat je het ergste aanneemt – jaszakken, elk vak van je tas, de hotelkluis, de laatste taxi of het laatste restaurant. Als het echt weg of gestolen is, ga dan zonder uitstel verder met de volgende stappen.

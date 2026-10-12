@@ -1,0 +1,64 @@
+{
+ "id": {
+  "template": "cards",
+  "title": "Mengapa foto paspor ditolak",
+  "cards": [
+   {
+    "heading": "Ditolak",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Bayangan di belakang kepala",
+      "mark": "cross"
+     },
+     {
+      "text": "Tersenyum",
+      "mark": "cross"
+     },
+     {
+      "text": "Silau di kacamata",
+      "mark": "cross"
+     },
+     {
+      "text": "Rambut menutupi mata",
+      "mark": "cross"
+     },
+     {
+      "text": "Latar belakang bermotif",
+      "mark": "cross"
+     },
+     {
+      "text": "Foto diambil terlalu dekat",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Diterima",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Latar belakang polos",
+      "mark": "tick"
+     },
+     {
+      "text": "Ekspresi netral",
+      "mark": "tick"
+     },
+     {
+      "text": "Cahaya merata",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "Kantor paspor Anda mempublikasikan ukuran yang tepat",
+  "alt": "Diagram enam foto paspor yang ditolak - bayangan di belakang kepala, tersenyum, silau di kacamata, rambut menutupi mata, latar belakang bermotif, dan foto diambil terlalu dekat - di samping satu foto yang diterima dengan latar belakang polos, ekspresi netral, dan cahaya merata",
+  "caption": "Enam cara foto dikembalikan, dan satu pengaturan yang lolos.",
+  "placement": {
+   "h2": 6,
+   "para": 0
+  }
+ }
+}

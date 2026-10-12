@@ -1,0 +1,30 @@
+{
+ "en": {
+  "template": "sequence",
+  "title": "The 90/180 rolling window",
+  "subtitle": "The window slides every day",
+  "start": "180 days ago",
+  "steps": [
+   {
+    "label": "Trip 1",
+    "text": "30 days"
+   },
+   {
+    "label": "Trip 2",
+    "text": "45 days"
+   },
+   {
+    "label": "Today",
+    "text": "30 + 45 = 75 days used, so 15 of your 90 remain"
+   }
+  ],
+  "highlight": 2,
+  "focal": "Arrival and departure days both count",
+  "alt": "Timeline diagram of the Schengen 90/180 rolling window: from 180 days ago to today, two trips of 30 and 45 days use 75 of 90 days, leaving 15; the window slides every day and arrival and departure days both count",
+  "caption": "The window never resets: for every single day, the previous 180 days may hold at most 90 days of stay.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  }
+ }
+}

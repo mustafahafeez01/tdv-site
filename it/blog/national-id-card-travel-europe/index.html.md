@@ -36,6 +36,8 @@ Alcuni stati membri UE hanno accordi bilaterali con alcuni paesi extraeuropei ch
 
 All'interno dell'Europa, alcuni paesi hanno accordi bilaterali che estendono l'accettazione della carta d'identità oltre il quadro UE standard. Questi accordi esistono, ma possono essere complessi, quindi spesso è più semplice portare con sé il passaporto insieme alla carta ogni volta che si viaggia fuori dal proprio paese, anche se la legge dice che la sola carta è sufficiente.
 
+![Diagramma che confronta quando basta la carta d'identità, per i viaggi nell'UE, nel SEE e in Svizzera, con quando portare il passaporto: la maggior parte dei viaggi fuori dall'Europa, una carta danneggiata, o una compagnia aerea che lo richiede](https://traveldocumentvault.com/blog/national-id-card-travel-europe/id-card-or-passport-it.jpg) Dentro l'UE e il SEE la carta di solito basta; fuori dall'Europa, porta il passaporto.
+
 ## Cosa controllare sulla carta prima di partire
 
 Una data di scadenza valida è necessaria ma non sufficiente, perché gli agenti di frontiera sono addestrati a rifiutare i documenti che non riescono a leggere chiaramente. Prima di fare la valigia, controlla la carta come farebbe un agente di frontiera:

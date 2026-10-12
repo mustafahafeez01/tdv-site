@@ -1,0 +1,45 @@
+{
+ "de": {
+  "template": "cards",
+  "title": "Das eine weist Sie aus, das andere lässt Sie ein",
+  "cards": [
+   {
+    "heading": "Reisepass",
+    "items": [
+     {
+      "text": "Ihr eigenes Land stellt ihn aus"
+     },
+     {
+      "text": "Belegt, wer Sie sind"
+     },
+     {
+      "text": "Lässt Sie Ihr Land verlassen"
+     }
+    ]
+   },
+   {
+    "heading": "Visum",
+    "items": [
+     {
+      "text": "Das Zielland stellt es aus"
+     },
+     {
+      "text": "Gewährt die Einreiseerlaubnis"
+     },
+     {
+      "text": "Nur für dieses eine Land"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "note": "Die meisten Reisen brauchen beides",
+  "focal": "Ein gültiger Reisepass ist keine Einreiseerlaubnis",
+  "alt": "Vergleichsdiagramm von Reisepass und Visum: Ihr eigenes Land stellt den Reisepass aus, er belegt, wer Sie sind, und lässt Sie Ihr Land verlassen, während das Zielland das Visum ausstellt, das die Einreiseerlaubnis gewährt und nur für dieses eine Land gilt, mit dem Hinweis, dass die meisten Reisen beides brauchen",
+  "caption": "Zwei Dokumente, zwei Aufgaben – und ein gültiger Reisepass allein ist keine Einreiseerlaubnis.",
+  "placement": {
+   "h2": 5,
+   "para": 4
+  }
+ }
+}

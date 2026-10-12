@@ -1,0 +1,71 @@
+{
+ "de": {
+  "template": "cards",
+  "title": "Was ein Passfoto verrät",
+  "cards": [
+   {
+    "heading": "Was es zeigt",
+    "items": [
+     {
+      "text": "Name",
+      "mark": "dot"
+     },
+     {
+      "text": "Geburtsdatum",
+      "mark": "dot"
+     },
+     {
+      "text": "Reisepassnummer",
+      "mark": "dot"
+     },
+     {
+      "text": "Foto",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Die Risiken",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Account-Einbruch",
+      "mark": "cross"
+     },
+     {
+      "text": "Zugriff durch Dritte",
+      "mark": "cross"
+     },
+     {
+      "text": "Datenindexierung",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Sicherere Orte",
+    "tone": "good",
+    "items": [
+     {
+      "text": "iCloud mit ADP",
+      "mark": "tick"
+     },
+     {
+      "text": "Verschlüsselte App",
+      "mark": "tick"
+     },
+     {
+      "text": "Offline-Kopie",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagramm dazu, was ein Passfoto verrät, Name, Geburtsdatum, Reisepassnummer und Foto, neben drei Risiken, Account-Einbruch, Zugriff durch Dritte und Datenindexierung, und drei sichereren Optionen: iCloud mit ADP, eine verschlüsselte App, oder eine Offline-Kopie",
+  "caption": "Ein Foto, vier Datenpunkte und drei ruhigere Orte, um sie aufzubewahren.",
+  "placement": {
+   "h2": 4,
+   "para": 5
+  }
+ }
+}

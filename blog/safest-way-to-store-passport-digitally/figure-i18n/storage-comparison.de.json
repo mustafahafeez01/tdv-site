@@ -1,0 +1,52 @@
+{
+ "de": {
+  "template": "matrix",
+  "title": "Wo sollte Ihr Reisepass leben?",
+  "columns": [
+   "iCloud Fotos",
+   "Google Fotos",
+   "Verschlüsselter Tresor"
+  ],
+  "highlight_col": 2,
+  "rows": [
+   {
+    "label": "Ende-zu-Ende verschlüsselt",
+    "cells": [
+     "optional",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "Kein Konto erforderlich",
+    "cells": [
+     "cross",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "Funktioniert offline",
+    "cells": [
+     "tick",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "AES-256",
+    "cells": [
+     "optional",
+     "cross",
+     "tick"
+    ]
+   }
+  ],
+  "alt": "Vergleichsdiagramm zur Frage, wo Ihr Reisepass leben sollte: iCloud Fotos bietet optionale Ende-zu-Ende-Verschlüsselung, braucht aber ein Konto und Synchronisierung, Google Fotos erfüllt keines der vier Kriterien, ein verschlüsselter Tresor erfüllt Ende-zu-Ende, kein Konto, funktioniert offline und AES-256",
+  "caption": "Die Vergleichstabelle von oben, noch einmal auf einen Blick.",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

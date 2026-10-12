@@ -87,6 +87,8 @@ Gli smartphone moderni scattano a 12 megapixel o superiore, il che è più che s
 
 ## Motivi di Rifiuto Comuni e Come Evitarli
 
+![Diagramma di sei foto passaporto rifiutate - ombra dietro la testa, sorriso, riflesso sugli occhiali, capelli sugli occhi, sfondo con motivi e foto scattata troppo da vicino - accanto a una foto accettata con sfondo neutro, espressione neutra e luce uniforme](https://traveldocumentvault.com/blog/passport-photo-at-home/passport-photo-figure-it.jpg) Sei motivi per cui una foto viene respinta, e l'unica configurazione che passa.
+
 - **Ombre sul viso:** Causate da illuminazione laterale o fonti di luce dura. Posizionati perpendicolarmente a una finestra per un'illuminazione uniforme, e controlla che le tue orecchie e gli zigomi siano illuminati uniformemente.
 - **Dimensioni foto errate:** La foto non corrisponde alle specifiche del tuo paese (i requisiti variano in base al paese). Usa un'app di ritaglio foto passaporto e ricontrolla le dimensioni rispetto alla specifica ufficiale della tua autorità prima di stampare o caricare — non gli standard di un altro paese.
 - **Sorriso o espressione insolita:** La maggior parte dei paesi richiede un'espressione neutra. Pratica uno sguardo calmo e dritto in uno specchio in anticipo — punta a serio, non aspro.

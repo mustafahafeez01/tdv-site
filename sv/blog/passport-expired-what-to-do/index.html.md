@@ -19,6 +19,8 @@ Source: https://traveldocumentvault.com/sv/blog/passport-expired-what-to-do/
 
 Att upptäcka att passet har gått ut är ett av de ögonblick då tiden plötsligt känns väldigt verklig. Oavsett om du upptäckte det tre månader före en resa eller står vid incheckningsdisken på flygplatsen just nu, beror nästa steg helt på vilken situation du befinner dig i.
 
+![Grendiagram för ett utgånget pass: hemma med en resa på gång, boka en brådskande förnyelse eftersom Storbritannien erbjuder samma-dag-tider och USA akuttider; på flygplatsen, ring flygbolaget först eftersom vissa ombokar gratis i nödfall. Den riktiga lösningen är en påminnelse vid 12 månader, inte 6, eftersom utgånget pass betyder att du inte flyger](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-sv.jpg) Samma problem, två helt olika tillvägagångssätt - allt beror på var du står när du upptäcker det.
+
 ## Scenario A: Du upptäckte det hemma, med en resa på gång
 
 Den här situationen går att lösa – men hur lätt beror på hur mycket tid du har kvar innan du reser.

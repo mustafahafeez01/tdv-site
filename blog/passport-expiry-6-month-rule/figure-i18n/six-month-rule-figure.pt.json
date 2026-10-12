@@ -1,0 +1,31 @@
+{
+ "pt": {
+  "template": "sequence",
+  "title": "A regra dos 6 meses",
+  "subtitle": "As companhias aéreas verificam isto no check-in",
+  "steps": [
+   {
+    "text": "Chega"
+   },
+   {
+    "text": "A sua viagem"
+   },
+   {
+    "text": "Volta para casa"
+   },
+   {
+    "label": "+ 6 meses",
+    "text": "O passaporte tem de ser válido até aqui"
+   }
+  ],
+  "highlight": 3,
+  "note": "A maioria dos países conta a partir da chegada, alguns a partir da partida",
+  "focal": "Conte a partir da data mais tardia: cobre as duas",
+  "alt": "Diagrama cronológico da regra dos 6 meses do passaporte: chega, a sua viagem, volta para casa, e depois mais seis meses durante os quais o passaporte tem de continuar válido; a maioria dos países conta a partir do dia de chegada e alguns a partir do dia de partida, por isso contar a partir da data mais tardia cobre as duas situações",
+  "caption": "A maioria dos países conta os seis meses a partir do dia de chegada - contar a partir da data mais tardia cobre-o de qualquer forma.",
+  "placement": {
+   "h2": 2,
+   "para": 3
+  }
+ }
+}

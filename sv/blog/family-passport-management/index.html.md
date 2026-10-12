@@ -34,6 +34,8 @@ Det första steget är att centralisera var familjepass förvaras. Det betyder e
 
 Krypterad lagring är viktig eftersom pass innehåller ditt fullständiga juridiska namn, födelsedatum och passnummer – information nog för identitetsstöld. Allmänna fotolageringsappar som Google Foton eller iCloud behandlar dina handlingar som ögonblicksbilder snarare än känslig identitetsdata. En lösenordsskyddad PDF-mapp på din enhet, eller en app specifikt byggd för att hantera reshandlingar, ger dig krypteringsskiktet du behöver.
 
+![Diagram över ett familjepasssystem: fyra pass (pappa, mamma, barn 1, barn 2) flödar in i ett krypterat valv, med utgångspåminnelser, offline-åtkomst och krypterad säkerhetskopia som flödar ut, samt en notering om att barnpass går ut efter 5 år, inte 10](https://traveldocumentvault.com/blog/family-passport-management/family-system-figure-sv.jpg) Ett familjesystem: alla pass på ett ställe, med automatisk bevakning av varje utgångsdatum
+
 **Endast digitala kopior.** Skanna fotoidentitetssidan på varje familjemedlems pass. En tydlig bild av sidan som visar foto, namn, födelsedatum, passnummer och utgångsdatum räcker. Det bör ta 30 sekunder per person.
 
 När de är skannade, förvaras dessa kopior i ditt krypterade valv – tillgängliga när du behöver kontrollera ett gültighetsdatum, bevisa att du har handlingar när du bokar resor, eller ge nödinformation till en konsulat om något går fel utomlands.

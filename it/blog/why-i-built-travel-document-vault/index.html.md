@@ -58,6 +58,8 @@ Quando un hotel chiede la copia del passaporto, un’ambasciata ha bisogno dei S
 
 Questo è il vero vantaggio: recupera spazio mentale. Il carico mentale invisibile, quel costante brusio di sottofondo che chiede "mi sto dimenticando qualcosa?", scompare. L'app ricorda al posto suo.
 
+![Diagramma di cinque app sparse - foto, cloud, note, email, calendario - che confluiscono in un unico vault, da cui escono promemoria di scadenza, crittografia e accesso offline: un'app invece di cinque](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/scattered-to-single-vault-it.jpg) Cosa comportava il controllo delle 23 - e cosa comporta adesso.
+
 ## Non sono solo i passaporti
 
 Da quando ho iniziato a usarla, ho notato quanti altri documenti scadono in silenzio in sottofondo.

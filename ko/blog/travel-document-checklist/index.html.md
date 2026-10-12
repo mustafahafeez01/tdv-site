@@ -36,6 +36,8 @@ Source: https://traveldocumentvault.com/ko/blog/travel-document-checklist/
 
 출발 1주일 전이 아니라 항공편을 예약할 때 여행 보험을 예약합니다. 이미 위험을 파악한 후 가입한 보험은 해당 특정 문제를 제외할 수 있습니다. 정책이 모든 여행자, 모든 목적지, 계획 중인 활동을 포함하는지 확인합니다.
 
+![예약부터 탑승까지 여행 서류를 확인하는 타임라인 다이어그램: 예약 시 만료일 확인, 3개월 전 필요하면 갱신, 1개월 전 확인하고 정리, 전날 밤 최종 확인](https://traveldocumentvault.com/blog/travel-document-checklist/checklist-timeline-ko.jpg) 예약과 탑승 사이의 네 번의 확인. 일찍 시작하면 하나하나가 작은 일이 됩니다.
+
 ## 3개월 전: 갱신이나 비자가 임박했다면 지금 시작하세요
 
 이 시점에서 문제를 수정할 시간이 여전히 있습니다. 갱신에 걸리는 시간은 계속 변동하므로, 미국 국무부, HM Passport Office, 호주 여권청 등 각 당국이 최신 수치를 공개합니다. 신청하기 전에 항상 공식 사이트에서 현재 시간을 확인합니다.

@@ -1,0 +1,29 @@
+{
+ "pt": {
+  "template": "tree",
+  "root": {
+   "heading": "Escolha de armazenamento"
+  },
+  "branches": [
+   {
+    "edge": "No dispositivo",
+    "edge_mark": "tick",
+    "heading": "Os seus dados ficam consigo",
+    "tone": "good"
+   },
+   {
+    "edge": "Carregamento na nuvem",
+    "heading": "Confiar no servidor",
+    "tone": "warn",
+    "edge_mark": "question"
+   }
+  ],
+  "focal": "No dispositivo funciona também offline",
+  "alt": "Diagrama que compara os dois modelos de armazenamento de uma aplicação para organizar passaportes: no dispositivo os seus dados ficam consigo, no carregamento para a nuvem está a confiar no servidor, e o armazenamento no dispositivo também funciona offline",
+  "caption": "A única escolha de arquitetura que decide tudo o resto numa aplicação de passaportes.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

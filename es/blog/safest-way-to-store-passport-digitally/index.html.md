@@ -89,6 +89,8 @@ Con Pro, puedes sincronizar documentos entre dispositivos configurados de la mis
 
 ## Cifrado, Cuenta y Coste de un Vistazo
 
+![Diagrama comparativo de dónde debería vivir tu pasaporte: Fotos de iCloud ofrece cifrado de extremo a extremo opcional pero necesita cuenta y sincronización, Google Fotos no cumple ninguno de los cuatro criterios, una bóveda cifrada cumple los cuatro: extremo a extremo, sin cuenta, funciona sin conexión y AES-256](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/storage-comparison-es.jpg) La tabla comparativa de arriba, de un vistazo.
+
 | Característica | iCloud Photos | Google Photos | Aplicación Cifrada |
 |---|---|---|---|
 | Cifrado en reposo | Sí (AES-128) | Sí (AES-128) | Sí (AES-256) |

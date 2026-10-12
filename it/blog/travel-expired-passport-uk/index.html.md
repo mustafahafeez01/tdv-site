@@ -32,6 +32,8 @@ Questa regola si applica a tutti i viaggi internazionali — voli verso l'Europa
 
 L'unica eccezione è un documento di viaggio d'emergenza britannico, emesso dall'Ufficio estero quando Lei è già all'estero in una vera emergenza, e anche allora esiste solo per farla tornare a casa — non per permettere ulteriori viaggi.
 
+![Albero decisionale per un passaporto scaduto: il viaggio internazionale è segnato come non consentito e porta a richiedere un rinnovo urgente, il viaggio nazionale porta a verificare con la propria compagnia aerea e a chiamare prima di viaggiare, con la nota di verificare sempre prima della partenza](https://traveldocumentvault.com/blog/travel-expired-passport-uk/passport-expiry-decision-tree-it.jpg) I due percorsi da un passaporto scaduto - e nessuno dei due passa per il gate d'imbarco.
+
 ## Può prenotare una vacanza con un passaporto scaduto?
 
 Prenotare non è la stessa cosa che imbarcarsi.

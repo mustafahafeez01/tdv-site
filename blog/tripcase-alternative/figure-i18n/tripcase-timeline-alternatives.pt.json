@@ -1,0 +1,58 @@
+{
+ "pt": {
+  "template": "tree",
+  "title": "Uma aplicação tornou-se quatro tarefas",
+  "root": {
+   "heading": "TripCase",
+   "text": "Encerrada a 1 de abril de 2025"
+  },
+  "branches": [
+   {
+    "heading": "Alertas de voo",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Flighty",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Itinerário",
+    "tone": "good",
+    "items": [
+     {
+      "text": "TripIt",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Documentos",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Travel Document Vault",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Partilha da viagem",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Pasta partilhada",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagrama das quatro tarefas da TripCase depois do seu encerramento a 1 de abril de 2025: alertas de voo para a Flighty, itinerário para a TripIt, documentos para a Travel Document Vault, partilha da viagem para uma pasta partilhada",
+  "caption": "O mapa de substituição num só olhar: quatro tarefas, quatro ferramentas, cada uma a fazer bem uma coisa.",
+  "placement": {
+   "h2": 5,
+   "para": 1
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "fr": {
+  "template": "cards",
+  "title": "Copie numérique : où ça marche",
+  "cards": [
+   {
+    "heading": "Généralement accepté",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Enregistrement à l'hôtel",
+      "mark": "tick"
+     },
+     {
+      "text": "Réservation de vol",
+      "mark": "tick"
+     },
+     {
+      "text": "Location de voiture",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Original exigé",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Contrôle aux frontières",
+      "mark": "cross"
+     },
+     {
+      "text": "Embarquement",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "La copie facilite, le passeport voyage",
+  "alt": "Diagramme des usages d'une copie numérique de passeport : généralement accepté pour l'enregistrement à l'hôtel, la réservation de vol et la location de voiture ; original exigé au contrôle aux frontières et à l'embarquement",
+  "caption": "En bref : une copie ouvre des portes, seul l'original traverse les frontières.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

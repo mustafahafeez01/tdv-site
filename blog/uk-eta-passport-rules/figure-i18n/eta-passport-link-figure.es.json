@@ -1,0 +1,42 @@
+{
+ "es": {
+  "template": "cards",
+  "title": "Tu ETA está vinculada a un pasaporte",
+  "cards": [
+   {
+    "heading": "El pasaporte con el que la solicitaste",
+    "tone": "good",
+    "items": [
+     {
+      "text": "La ETA está vinculada a este pasaporte"
+     },
+     {
+      "text": "Viaja con normalidad",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Un pasaporte nuevo o renovado",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "El vínculo no se mantiene"
+     },
+     {
+      "text": "Solicita una ETA nueva antes de volar"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "note": "Renovar rompe el vínculo",
+  "focal": "Cada viajero necesita la suya, niños incluidos",
+  "alt": "Diagrama comparativo: el pasaporte con el que solicitaste la ETA la mantiene vinculada a ese documento, así que viajas con normalidad; un pasaporte nuevo o renovado no mantiene el vínculo y necesita una ETA nueva antes de volar, y cada viajero necesita la suya, niños incluidos",
+  "caption": "La aprobación está vinculada al pasaporte, no a la persona, y cada viajero lleva la suya.",
+  "placement": {
+   "h2": 4,
+   "para": 3
+  }
+ }
+}

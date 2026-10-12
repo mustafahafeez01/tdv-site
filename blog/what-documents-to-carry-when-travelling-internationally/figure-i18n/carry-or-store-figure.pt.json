@@ -1,0 +1,59 @@
+{
+ "pt": {
+  "template": "cards",
+  "title": "Levar ou guardar?",
+  "cards": [
+   {
+    "heading": "Na bagagem de mão",
+    "items": [
+     {
+      "text": "Passaporte",
+      "mark": "tick"
+     },
+     {
+      "text": "Vistos e autorizações",
+      "mark": "tick"
+     },
+     {
+      "text": "Cartões de embarque",
+      "mark": "tick"
+     },
+     {
+      "text": "Carta de consentimento se necessário",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Offline no telemóvel",
+    "items": [
+     {
+      "text": "Dados do passaporte",
+      "mark": "tick"
+     },
+     {
+      "text": "Apólice de seguro e linha de apoio",
+      "mark": "tick"
+     },
+     {
+      "text": "Referências de reserva",
+      "mark": "tick"
+     },
+     {
+      "text": "Certificados de vacinação",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "and",
+  "note": "Um é a cópia de segurança do outro",
+  "focal": "Se perder a mala, a cópia no telemóvel leva-o a casa",
+  "alt": "Diagrama dividido: na bagagem de mão leve o passaporte, vistos e autorizações, cartões de embarque, e uma carta de consentimento se necessário; offline no telemóvel guarde dados do passaporte, apólice de seguro e linha de apoio, referências de reserva, e certificados de vacinação, porque um é a cópia de segurança do outro, e se perder a mala, a cópia no telemóvel leva-o a casa",
+  "caption": "Os originais viajam na bagagem de mão; as suas cópias encriptadas vivem offline no telemóvel.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

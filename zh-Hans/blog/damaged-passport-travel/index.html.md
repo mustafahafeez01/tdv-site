@@ -28,6 +28,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/damaged-passport-travel/
 
 最关键的是，机读区——也就是资料页底部那条黑白条纹——必须保持完整。一旦受损，边检扫描设备可能就无法读取。
 
+![两本打开的护照并排对比：一本虽有磨损但平整可用，另一本因水渍导致内页起皱、层压翘起](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) 封面的小褶皱：可以接受。资料页的水渍损坏：有问题。
+
 这一点之所以重要，是因为**如果航空公司让持有不合格证件的乘客登机，需要自行承担责任。** 拿着受损护照登机，到了目的地被拒绝入境，当地当局可以因为承运了您而处罚航空公司，航空公司还得自费送您回国。
 
 没有哪个登机口工作人员愿意惹上这种麻烦，所以他们会果断从严处理。

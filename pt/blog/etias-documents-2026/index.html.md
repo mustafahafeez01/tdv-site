@@ -92,6 +92,8 @@ Grupos familiares devem submeter cada candidatura separadamente em vez de como u
 
 Se for recusado e ainda precisar de viajar, o seu alternativa é candidatar-se a um visto de longa duração tradicional através da embaixada ou consulado relevante, que tipicamente permite múltiplas entradas e estadias mais longas do que viagem sem visto. Como os requisitos variam significativamente por destino e a sua nacionalidade, contacte a embaixada diretamente para compreender o que vai precisar.
 
+![Diagrama que compara o EES e a ETIAS: o EES acontece na fronteira, com impressões digitais e foto, sem pedido, e está em expansão pelos pontos de entrada; a ETIAS acontece antes de voar, pedida online com uma taxa reduzida, ainda sem data obrigatória definida; vai acabar por precisar de ambos, e nenhum deles é um visto](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure-pt.jpg) Duas portas diferentes: o EES regista-o à chegada; a ETIAS autoriza-o antes da partida.
+
 ## O Passaporte e o Seguro Continuam a Contar Depois do ETIAS
 
 Aprovação de ETIAS não substitui o seu passaporte, seguro de viagem ou [requisitos de validade de passaporte](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/). Ainda vai precisar de:

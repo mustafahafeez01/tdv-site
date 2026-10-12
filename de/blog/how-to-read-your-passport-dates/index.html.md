@@ -30,6 +30,8 @@ Das Ablaufdatum ist die endgültige Grenze, und genau das messen die gängigen G
 
 Wenn Sie sich nur eine Sache von dieser Seite merken, dann diese Asymmetrie: Das Ausstellungsdatum beschreibt das Dokument, das Ablaufdatum beschreibt, wie lange Sie damit noch reisen können.
 
+![Diagramm einer Reisepass-Datenseite mit vier beschrifteten Feldern: Ausstellungsdatum, Ablaufdatum, ausstellendes Land und Reisepassnummer, mit dem Ablaufdatum hervorgehoben als das Datum, von dem aus die Gültigkeit und die 6-Monats-Regel gezählt werden](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/data-page-figure-de.jpg) Vier Felder, von denen eines tatsächlich jede Einreiseregel misst.
+
 ## Warum manchmal von „Expedition“ die Rede ist
 
 Viele Menschen suchen, was „date of expedition" auf einem Reisepass bedeutet, und die Antwort ist beruhigend banal: Es bedeutet Ausstellungsdatum.

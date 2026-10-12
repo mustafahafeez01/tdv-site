@@ -1,0 +1,29 @@
+{
+ "es": {
+  "template": "tree",
+  "root": {
+   "heading": "La elección de almacenamiento"
+  },
+  "branches": [
+   {
+    "edge": "En el dispositivo",
+    "edge_mark": "tick",
+    "heading": "Tus datos se quedan contigo",
+    "tone": "good"
+   },
+   {
+    "edge": "Subida a la nube",
+    "heading": "Confías en el servidor",
+    "tone": "warn",
+    "edge_mark": "question"
+   }
+  ],
+  "focal": "En el dispositivo también funciona sin conexión",
+  "alt": "Diagrama que compara los dos modelos de almacenamiento de una app organizadora de pasaportes: en el dispositivo tus datos se quedan contigo, la subida a la nube implica confiar en el servidor, y en el dispositivo también funciona sin conexión",
+  "caption": "La única decisión de arquitectura que determina todo lo demás en una app de pasaportes.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

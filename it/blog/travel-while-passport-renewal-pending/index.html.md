@@ -24,6 +24,8 @@ Non potete viaggiare internazionalmente senza un passaporto valido fisicamente i
 
 Se avete ancora quel passaporto dipende interamente dal vostro paese e dal vostro metodo di rinnovo.
 
+![Albero decisionale: il passaporto è ancora nelle vostre mani? Sì - viaggiate con quello finché resta valido (rinnovo postale USA, rinnovo digitale UK). No - consegnato, aspettate quello nuovo (rinnovo postale UK, Australia, Canada). Nessun paese vi fa volare a livello internazionale senza un passaporto in mano](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-it.jpg) Una sola domanda decide tutto: se il vostro vecchio passaporto è ancora in vostro possesso.
+
 ## Stati Uniti: Rinnovo per posta
 
 Il rinnovo standard del passaporto americano per posta non richiede di consegnare il vostro passaporto attuale prima dell'arrivo di quello nuovo. Completate il modulo DS-82, allegato il vostro passaporto esistente, e spedite tutto al National Passport Processing Center. Il vostro vecchio passaporto viene restituito insieme a quello nuovo, tipicamente annullato con un foro di punzone.

@@ -36,6 +36,8 @@ Algunos estados miembros de la UE tienen acuerdos bilaterales con ciertos paíse
 
 Dentro de Europa, algunos países tienen acuerdos bilaterales que amplían la aceptación del documento de identidad más allá del marco estándar de la UE. Estos acuerdos existen, pero pueden ser complejos, así que suele ser más sencillo llevar el pasaporte junto con el documento de identidad siempre que viajes fuera de tu país, aunque la ley diga que el documento basta por sí solo.
 
+![Diagrama que compara cuándo suele valer un documento de identidad nacional -para viajar dentro de la UE, el EEE y Suiza- con cuándo hay que llevar el pasaporte: la mayoría de viajes fuera de Europa, un documento dañado, o una aerolínea que lo exige](https://traveldocumentvault.com/blog/national-id-card-travel-europe/id-card-or-passport-es.jpg) Dentro de la UE y el EEE el documento de identidad suele valer; fuera de Europa, lleva el pasaporte.
+
 ## Qué comprobar en el documento antes de viajar
 
 Una fecha de caducidad válida es necesaria pero no suficiente, porque los funcionarios de fronteras están formados para rechazar documentos que no pueden leer con claridad. Antes de hacer la maleta, inspecciona tu documento de identidad igual que lo hará el personal de frontera:

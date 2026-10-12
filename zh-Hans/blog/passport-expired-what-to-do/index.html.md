@@ -19,6 +19,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do
 
 发现护照已过期是时间突然变得非常真实的时刻之一。无论你是在旅行前三个月发现它，还是现在就站在机场值机台前，接下来发生的完全取决于你所处的情况。
 
+![护照过期分支示意图：在家中且即将出行，应预约紧急续签，英国当日和美国紧急预约均有提供；在机场则应先联系航空公司，部分公司紧急情况下免费改期；真正的解决办法是提前12个月设提醒而不是6个月，因为过期就不能飞](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-zh-Hans.jpg) 同样的问题，两套完全不同的应对方式——取决于您发现时身处何地。
+
 ## 情景A：你在家中发现护照已过期，并有即将到来的出行
 
 这种情况是可以解决的——但解决程度取决于你出行前还有多少时间。

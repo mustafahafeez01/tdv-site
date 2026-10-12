@@ -1,0 +1,48 @@
+{
+ "it": {
+  "template": "cards",
+  "title": "Copia digitale: dove funziona",
+  "cards": [
+   {
+    "heading": "Di solito va bene",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Check-in in hotel",
+      "mark": "tick"
+     },
+     {
+      "text": "Prenotazione del volo",
+      "mark": "tick"
+     },
+     {
+      "text": "Autonoleggio",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Serve l'originale",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Controllo di frontiera",
+      "mark": "cross"
+     },
+     {
+      "text": "Imbarco aereo",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "La copia supporta, il passaporto viaggia",
+  "alt": "Diagramma di dove funziona una copia digitale del passaporto: di solito va bene per il check-in in hotel, la prenotazione del volo e l'autonoleggio; serve l'originale al controllo di frontiera e per l'imbarco aereo",
+  "caption": "In breve: la copia apre le porte, solo l'originale attraversa le frontiere.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

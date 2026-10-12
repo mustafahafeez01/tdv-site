@@ -89,6 +89,8 @@ Pro에서는 같은 플랫폼에서 설정된 기기 간에 문서를 동기화�
 
 ## 암호화, 계정, 비용을 한눈에
 
+![여권은 어디에 보관해야 할지 비교하는 다이어그램: iCloud 사진은 종단 간 암호화가 선택 사항이며 계정과 동기화가 필요하고, Google 포토는 네 가지 기준을 모두 충족하지 못하며, 암호화 보관함은 종단 간 암호화, 계정 불필요, 오프라인 작동, AES-256을 모두 충족한다](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/storage-comparison-ko.jpg) 위 비교표를 한눈에 다시 그린 그림입니다.
+
 | 기능 | iCloud Photos | Google Photos | 암호화 앱 |
 |---|---|---|---|
 | 저장 시 암호화 | 네 (AES-128) | 네 (AES-128) | 네 (AES-256) |

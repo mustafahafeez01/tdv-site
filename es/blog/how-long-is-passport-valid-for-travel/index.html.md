@@ -35,6 +35,8 @@ El período de validez estándar para un pasaporte de adulto es de 10 años desd
 
 Tu fecha exacta de vencimiento está impresa en la página de datos junto a tu foto. Esa fecha es el límite máximo —tu pasaporte deja de ser un documento de viaje válido en cualquier lugar del mundo una vez que pasa.
 
+![Diagrama de la validez del pasaporte: un pasaporte de adulto dura 10 años, uno de niño 5, y un margen de 6 meses se añade al final de ambos porque muchos países lo exigen](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/passport-validity-timeline-es.jpg) Dos relojes, una trampa: el margen de 6 meses que muchos países esperan antes de tu fecha de caducidad.
+
 ## "Válido" y "Válido para Tu Viaje" Son Dos Cosas Diferentes
 
 Un pasaporte puede ser técnicamente válido —no vencido— y aun así te pueden negar el embarque. Hay dos razones principales por las que esto sucede.

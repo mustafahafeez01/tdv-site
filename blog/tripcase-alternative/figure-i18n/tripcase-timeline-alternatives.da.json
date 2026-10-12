@@ -1,0 +1,58 @@
+{
+ "da": {
+  "template": "tree",
+  "title": "Én app blev til fire opgaver",
+  "root": {
+   "heading": "TripCase",
+   "text": "Lukkede 1. april 2025"
+  },
+  "branches": [
+   {
+    "heading": "Flyadvarsler",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Flighty",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Rejseplan",
+    "tone": "good",
+    "items": [
+     {
+      "text": "TripIt",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Dokumenter",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Travel Document Vault",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Deling af rejse",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Delt mappe",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagram over TripCases fire opgaver efter lukningen 1. april 2025: flyadvarsler til Flighty, rejseplan til TripIt, dokumenter til Travel Document Vault, deling af rejse til en delt mappe",
+  "caption": "Erstatningskortet i overblik: fire opgaver, fire værktøjer, der hver gør én ting godt.",
+  "placement": {
+   "h2": 5,
+   "para": 1
+  }
+ }
+}

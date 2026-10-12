@@ -1,0 +1,47 @@
+{
+ "pt": {
+  "template": "cards",
+  "title": "Que relógio acaba primeiro?",
+  "cards": [
+   {
+    "heading": "Passaporte",
+    "items": [
+     {
+      "text": "Normalmente 10 anos",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Carta de condução",
+    "items": [
+     {
+      "text": "Varia por país",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Carta de Condução Internacional",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "1 ano, ou até 3",
+      "mark": "none"
+     },
+     {
+      "text": "Termina antes se a carta expirar antes",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "focal": "O mais curto decide",
+  "alt": "Diagrama que compara três prazos de validade: o passaporte normalmente 10 anos, a carta de condução varia por país, e a Carta de Condução Internacional 1 ano ou até 3, encurtada se a carta expirar primeiro, pelo que o mais curto decide",
+  "caption": "Três documentos, três relógios. A carta internacional fica limitada pelo que acabar primeiro.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

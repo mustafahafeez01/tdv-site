@@ -1,0 +1,58 @@
+{
+ "en": {
+  "template": "tree",
+  "title": "One app became four jobs",
+  "root": {
+   "heading": "TripCase",
+   "text": "Shut down 1 April 2025"
+  },
+  "branches": [
+   {
+    "heading": "Flight alerts",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Flighty",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Itinerary",
+    "tone": "good",
+    "items": [
+     {
+      "text": "TripIt",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Documents",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Travel Document Vault",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Trip sharing",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Shared folder",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagram of TripCase's four jobs after its 1 April 2025 shutdown: flight alerts to Flighty, itinerary to TripIt, documents to Travel Document Vault, trip sharing to a shared folder",
+  "caption": "The replacement map at a glance: four jobs, four tools, each doing one thing well.",
+  "placement": {
+   "h2": 5,
+   "para": 1
+  }
+ }
+}

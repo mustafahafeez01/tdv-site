@@ -1,0 +1,38 @@
+{
+ "pt": {
+  "template": "sequence",
+  "title": "Passaporte perdido: os 7 passos",
+  "steps": [
+   {
+    "text": "Confirme que se perdeu mesmo"
+   },
+   {
+    "text": "Apresente um relatório de polícia"
+   },
+   {
+    "text": "Contacte a sua embaixada"
+   },
+   {
+    "text": "Documento de viagem de emergência"
+   },
+   {
+    "text": "Notifique a sua seguradora"
+   },
+   {
+    "text": "Verifique a situação do seu visto"
+   },
+   {
+    "text": "Chegue a casa, depois substitua-o"
+   }
+  ],
+  "highlight": 3,
+  "note": "Antes de tudo isto: fotografe o seu passaporte hoje",
+  "focal": "Uma cópia de segurança acelera muito o passo 4",
+  "alt": "Diagrama dos sete passos depois de perder o passaporte no estrangeiro: confirme que se perdeu mesmo, apresente um relatório de polícia, contacte a sua embaixada, documento de viagem de emergência, notifique a sua seguradora, verifique a situação do seu visto, chegue a casa e depois substitua-o - com uma nota para fotografar o passaporte hoje, porque uma cópia de segurança torna o passo 4 muito mais rápido",
+  "caption": "Sete passos calmos, em ordem - e a única coisa a fazer hoje, antes de alguma vez precisar deles.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

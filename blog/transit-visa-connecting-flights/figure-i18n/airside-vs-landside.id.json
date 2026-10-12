@@ -1,0 +1,52 @@
+{
+ "id": {
+  "template": "cards",
+  "title": "Airside atau landside?",
+  "cards": [
+   {
+    "heading": "Airside",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Anda tetap di belakang pos keamanan",
+      "mark": "dot"
+     },
+     {
+      "text": "Anda tidak melewati imigrasi",
+      "mark": "dot"
+     },
+     {
+      "text": "Sebagian negara tetap mensyaratkan visa transit",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Landside",
+    "items": [
+     {
+      "text": "Anda meninggalkan zona aman",
+      "mark": "dot"
+     },
+     {
+      "text": "Anda melewati imigrasi",
+      "mark": "dot"
+     },
+     {
+      "text": "Visa biasanya diperlukan",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "atau",
+  "focal": "Periksa negara tempat Anda transit",
+  "alt": "Diagram yang membandingkan transit airside, yaitu Anda tetap di belakang pos keamanan dan tidak melewati imigrasi meski sebagian negara tetap mensyaratkan visa transit, dengan transit landside, yaitu Anda meninggalkan zona aman, melewati imigrasi, dan biasanya memerlukan visa",
+  "caption": "Airside tetap di dalam terminal; landside berarti memasuki negara tersebut.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

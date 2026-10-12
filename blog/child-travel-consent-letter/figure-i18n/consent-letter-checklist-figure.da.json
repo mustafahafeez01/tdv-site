@@ -1,0 +1,63 @@
+{
+ "da": {
+  "template": "cards",
+  "title": "Checkliste til samtykkebrevet",
+  "cards": [
+   {
+    "heading": "Brevet",
+    "items": [
+     {
+      "text": "Barnets fulde navn",
+      "mark": "tick"
+     },
+     {
+      "text": "Fødselsdato",
+      "mark": "tick"
+     },
+     {
+      "text": "Pasnummer",
+      "mark": "tick"
+     },
+     {
+      "text": "Præcise rejsedatoer",
+      "mark": "tick"
+     },
+     {
+      "text": "Rejsemål",
+      "mark": "tick"
+     },
+     {
+      "text": "Fraværende forælders kontakt",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Mest almindelige afvisningsgrunde",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Manglende oplysninger",
+      "mark": "cross"
+     },
+     {
+      "text": "Ingen notarbekræftelse",
+      "mark": "cross"
+     },
+     {
+      "text": "Forældede underskrifter",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "note": "Få det notarbekræftet: mange grænser forventer det",
+  "focal": "Print det, og gem en digital sikkerhedskopi",
+  "alt": "Tjeklistediagram over, hvad et samtykkebrev til børns rejser skal indeholde: barnets fulde navn, fødselsdato, pasnummer, præcise rejsedatoer, rejsemål og den fraværende forælders kontaktoplysninger, med noter om at få det notarbekræftet, de mest almindelige afvisningsgrunde, og at printe det og gemme en digital sikkerhedskopi",
+  "caption": "Seks oplysninger, én notarbekræftelse og en printet kopi dækker næsten alle grænsers forventninger.",
+  "placement": {
+   "h2": 3,
+   "para": 4
+  }
+ }
+}

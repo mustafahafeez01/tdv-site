@@ -87,6 +87,8 @@ Samma risk för kontokompromettering gäller båda plattformarna. Ett svagt Appl
 
 **Travel Document Vault** sparar dina passkopior på enheten med stark kryptering. Inget konto krävs. Med Pro kan du säkerhetskopiera en krypterad kopia till ditt eget iCloud eller Google Drive. Förvara din återställningskod säkert: du behöver den för att återställa säkerhetskopian. [Ladda ner på App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
+![Diagram över vad ett passfoto avslöjar - namn, födelsedatum, passnummer och foto - bredvid tre risker, kontointrång, tredjepartsåtkomst och dataindexering, samt tre säkrare alternativ: iCloud med ADP, en krypterad app, eller en offline-kopia](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/passport-data-risks-sv.jpg) Ett foto, fyra datapunkter, och tre lugnare ställen att förvara dem.
+
 ## Vilka är de säkrare alternativen?
 
 Vill du ha en digital passkopia till hands när du reser – som en reserv om det fysiska passet skulle tappas bort eller stjälas – finns det alternativ som ger verklig säkerhet utan större besvär.

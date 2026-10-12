@@ -32,6 +32,8 @@ Det andra upplägget blandar ihop filen på din telefon innan den skickas någon
 
 Så frågan värd att ställa till vilken app som helst är kort: **vem har nyckeln?** Allt annat i marknadsföringen följer av svaret.
 
+![Diagram som jämför en fotosäkerhetskopia, läsbar i molnet där företaget har nyckeln, med en krypterad säkerhetskopia, värdelös utan nyckeln som stannar i telefonen](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/encrypted-backup-figure-sv.jpg) Samma moln, olika svar. Filen laddas upp i båda fallen, det som ändras är vem som kan öppna den.
+
 ## Återställningskoden, och varför vi inte kan återställa den
 
 Travel Document Vault kräver inget appkonto för att lagra dokument på din enhet. Valfri [molnsäkerhetskopiering](https://traveldocumentvault.com/sv/cloud-backup/) kräver Pro och din återställningskod för att låsa upp molnets krypteringsnyckel. Appen skapar denna 24-tecken långa kod när du ställer in din PIN. Det krypterade valvet skickas sedan till **din egen iCloud på iPhone och iPad, eller din egen Google Drive på Android**, i stället för till oss.

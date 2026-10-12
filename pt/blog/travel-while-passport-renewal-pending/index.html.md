@@ -24,6 +24,8 @@ Não pode viajar internacionalmente sem um passaporte válido fisicamente em sua
 
 Se ainda tem esse passaporte depende inteiramente do seu país e do seu método de renovação.
 
+![Árvore de decisão: o passaporte ainda está consigo? Sim - viaje com ele enquanto for válido (renovação por correio nos EUA, renovação digital no Reino Unido). Não - entregue, espera pelo novo (renovação por correio no Reino Unido, Austrália, Canadá). Nenhum país permite voar internacionalmente sem um passaporte em mãos](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-pt.jpg) Uma pergunta decide tudo: se o seu passaporte antigo ainda está na sua posse.
+
 ## Estados Unidos: Renovação por Correio
 
 A renovação de passaporte dos EUA por correio padrão não requer que entregue o seu passaporte atual antes da chegada do novo. Completa o formulário DS-82, anexa o seu passaporte existente e envia tudo por correio para o Centro Nacional de Processamento de Passaportes. O seu antigo passaporte é devolvido a si juntamente com o novo, normalmente cancelado com um furo de perfurador.

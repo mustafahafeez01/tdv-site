@@ -50,6 +50,8 @@ TripCase 存在的时间足够长，以至于人们将其视为永久基础设�
 
 TripCase 将几个不同的工作捆绑到一个免费应用中。目前没有应用能很好地完成所有工作，所以诚实的做法是分割工作并为每个工作选择最佳工具：
 
+![示意图：TripCase在2025年4月1日关闭后拆分出的四项任务——航班提醒交给Flighty，行程管理交给TripIt，文件存储交给Travel Document Vault，行程共享交给共享文件夹](https://traveldocumentvault.com/blog/tripcase-alternative/tripcase-timeline-alternatives-zh-Hans.jpg) 一目了然的替代方案图：四项任务，四款工具，各自专注做好一件事。
+
 | 工作 | TripCase 做了什么 | 现在最佳替代品 | 成本 |
 |---|---|---|---|
 | 航班提醒 | 实时延误、登机口变更、取消 | Flighty | 免费级别；付费订阅（价格各异） |

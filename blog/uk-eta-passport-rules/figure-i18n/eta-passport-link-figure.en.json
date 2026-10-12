@@ -1,0 +1,42 @@
+{
+ "en": {
+  "template": "cards",
+  "title": "Your ETA is linked to one passport",
+  "cards": [
+   {
+    "heading": "The passport you applied with",
+    "tone": "good",
+    "items": [
+     {
+      "text": "The ETA is linked to this booklet"
+     },
+     {
+      "text": "Travel as normal",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "A new or renewed passport",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "The link does not carry over"
+     },
+     {
+      "text": "Apply for a new ETA before you fly"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "note": "Renewing breaks the link",
+  "focal": "Everyone travelling needs their own, children included",
+  "alt": "Comparison diagram: the passport you applied with keeps the ETA linked to that booklet so you travel as normal, while a new or renewed passport does not carry the link over and needs a new ETA before you fly, and everyone travelling needs their own, children included",
+  "caption": "The approval is tied to the booklet, not to you - and each traveller carries their own.",
+  "placement": {
+   "h2": 4,
+   "para": 3
+  }
+ }
+}

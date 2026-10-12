@@ -1,0 +1,13 @@
+{
+ "ja": {
+  "reuse": "/blog/damaged-passport-travel/damage-vs-wear-figure.jpg",
+  "width": 1536,
+  "height": 1024,
+  "alt": "開いたパスポートを2冊並べた図。一冊は使い込まれているが平らで使用可能、もう一冊は水濡れでページが波打ち、ラミネートが剥がれている",
+  "caption": "表紙の軽い折れ目は問題なし。データページの水濡れは問題あり",
+  "placement": {
+   "h2": 2,
+   "para": 3
+  }
+ }
+}

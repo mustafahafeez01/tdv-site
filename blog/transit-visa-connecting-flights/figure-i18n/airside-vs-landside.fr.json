@@ -1,0 +1,52 @@
+{
+ "fr": {
+  "template": "cards",
+  "title": "Zone internationale ou zone publique ?",
+  "cards": [
+   {
+    "heading": "Zone internationale",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Vous restez après le contrôle de sécurité",
+      "mark": "dot"
+     },
+     {
+      "text": "Vous ne passez pas l'immigration",
+      "mark": "dot"
+     },
+     {
+      "text": "Certains pays exigent tout de même un visa de transit",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Zone publique",
+    "items": [
+     {
+      "text": "Vous sortez de la zone sécurisée",
+      "mark": "dot"
+     },
+     {
+      "text": "Vous passez l'immigration",
+      "mark": "dot"
+     },
+     {
+      "text": "Un visa est généralement nécessaire",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "ou",
+  "focal": "Vérifiez le pays de votre escale",
+  "alt": "Diagramme comparant le transit en zone internationale, où vous restez après le contrôle de sécurité sans passer l'immigration bien que certains pays exigent tout de même un visa de transit, et le transit en zone publique, où vous sortez de la zone sécurisée, passez l'immigration et avez généralement besoin d'un visa",
+  "caption": "La zone internationale reste dans le terminal ; la zone publique signifie entrer dans le pays.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

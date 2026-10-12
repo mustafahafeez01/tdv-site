@@ -1,0 +1,63 @@
+{
+ "pt": {
+  "template": "cards",
+  "title": "Checklist de viagem em família",
+  "cards": [
+   {
+    "items": [
+     {
+      "text": "Passaportes",
+      "mark": "tick"
+     },
+     {
+      "text": "Vistos",
+      "mark": "tick"
+     },
+     {
+      "text": "Cartões de identidade",
+      "mark": "tick"
+     },
+     {
+      "text": "Seguro de viagem",
+      "mark": "tick"
+     },
+     {
+      "text": "Reservas",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "items": [
+     {
+      "text": "Vacinas",
+      "mark": "tick"
+     },
+     {
+      "text": "Bilhete de regresso",
+      "mark": "tick"
+     },
+     {
+      "text": "Certidões de nascimento",
+      "mark": "tick"
+     },
+     {
+      "text": "Carta de consentimento",
+      "mark": "tick"
+     },
+     {
+      "text": "Decisões de guarda",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "3+ meses antes da viagem",
+  "alt": "Diagrama de dez documentos de viagem em família: passaportes, vistos, cartões de identidade, seguro de viagem, reservas, vacinas, bilhete de regresso, certidões de nascimento, carta de consentimento e decisões de guarda, com uma nota para começar 3 ou mais meses antes da viagem",
+  "caption": "A lista completa da família - comece a marcar itens três meses antes, não na semana anterior.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

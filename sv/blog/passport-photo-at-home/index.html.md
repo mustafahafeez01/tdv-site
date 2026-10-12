@@ -90,6 +90,8 @@ Moderna mobiler fotograferar med 12 megapixlar eller mer, vilket är gott och v�
 
 ## Vanliga avslagsorsaker och hur du undviker dem
 
+![Diagram över sex avslagna passfoton - skugga bakom huvudet, leende, reflex i glasögonen, hår över ögonen, mönstrad bakgrund och fotot taget för nära - bredvid ett godkänt foto med enfärgad bakgrund, neutralt ansiktsuttryck och jämnt ljus](https://traveldocumentvault.com/blog/passport-photo-at-home/passport-photo-figure-sv.jpg) Sex sätt ett foto skickas tillbaka på, och den enda uppsättningen som godkänns.
+
 - **Skuggor i ansiktet:** Orsakas av sidobelysning eller hårda ljuskällor. Stå vinkelrätt mot ett fönster för jämn belysning, och kontrollera att öron och kindben är jämnt belysta.
 - **Fel fotomått:** Fotot matchar inte ditt lands specifikation (kraven varierar mellan länder). Använd en beskärningsapp för passfoto och dubbelkolla måtten mot din egen myndighets officiella spec innan du skriver ut eller laddar upp – inte ett annat lands standard.
 - **Leende eller ovanligt uttryck:** De flesta länder kräver ett neutralt uttryck. Öva på en lugn blick rakt fram i en spegel i förväg – sikta på allvarlig, inte sträng.

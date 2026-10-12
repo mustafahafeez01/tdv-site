@@ -31,6 +31,8 @@ Die Logik ist einfach: Länder möchten Sicherheit haben, dass Sie Ihren Aufenth
 
 **Die Regel ist nicht universell.** Jedes Land setzt seine eigenen Bedingungen fest, und die Anforderungen können je nach Ihrer Nationalität unterschiedlich sein. Ein bilaterales Abkommen zwischen zwei Ländern kann die Regel für Bürger des einen, nicht aber des anderen verzeihen. Deshalb ist es so leicht, es falsch zu machen, ohne vorher jede Reise zu überprüfen.
 
+![Zeitstrahl-Diagramm zur 6-Monats-Passregel: Sie reisen ein, Ihre Reise, Sie fliegen zurück, dann sechs weitere Monate, in denen der Reisepass gültig bleiben muss; die meisten Länder zählen vom Einreisetag, manche vom Ausreisetag, daher deckt das Zählen vom späteren Datum beides ab](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/six-month-rule-figure-de.jpg) Die meisten Länder zählen die sechs Monate vom Einreisetag – vom späteren Datum zu zählen deckt Sie in beiden Fällen ab.
+
 ## Können Sie mit einem Reisepass reisen, der in 6 Monaten abläuft?
 
 Manchmal ja. Wenn Ihr Zielland nur verlangt, dass der Reisepass für die Dauer Ihres Aufenthalts gültig bleibt, reichen fünf Monate Restgültigkeit in der Regel für die Einreise. So handhabt es das Vereinigte Königreich für die meisten Besucher, und Schengen-Länder verlangen in der Regel drei statt sechs Monate über die geplante Abreise hinaus.

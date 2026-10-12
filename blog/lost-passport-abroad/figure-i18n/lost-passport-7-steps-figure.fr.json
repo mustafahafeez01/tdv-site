@@ -1,0 +1,38 @@
+{
+ "fr": {
+  "template": "sequence",
+  "title": "Passeport perdu à l'étranger : les 7 étapes",
+  "steps": [
+   {
+    "text": "Confirmez qu'il est vraiment perdu"
+   },
+   {
+    "text": "Déposez une plainte à la police"
+   },
+   {
+    "text": "Contactez votre ambassade"
+   },
+   {
+    "text": "Document de voyage d'urgence"
+   },
+   {
+    "text": "Prévenez votre assurance"
+   },
+   {
+    "text": "Vérifiez votre situation de visa"
+   },
+   {
+    "text": "Rentrez, puis remplacez-le"
+   }
+  ],
+  "highlight": 3,
+  "note": "Avant tout cela : photographiez votre passeport dès aujourd'hui",
+  "focal": "Une copie de sauvegarde accélère nettement l'étape 4",
+  "alt": "Parcours des sept étapes après la perte d'un passeport à l'étranger : confirmer qu'il est vraiment perdu, déposer une plainte à la police, contacter son ambassade, obtenir un document de voyage d'urgence, prévenir son assurance, vérifier sa situation de visa, rentrer puis le remplacer — avec une note pour photographier son passeport dès aujourd'hui, car une copie de sauvegarde accélère nettement l'étape 4",
+  "caption": "Sept étapes à suivre calmement, dans l'ordre — et la seule chose à faire aujourd'hui, avant même d'en avoir besoin.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

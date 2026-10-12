@@ -90,6 +90,8 @@ Moderne smartphones optager med 12 megapixel eller mere, hvilket er rigeligt til
 
 ## Almindelige afvisningsgrunde, og hvordan du undgår dem
 
+![Diagram af seks afviste pasfotos – skygge bag hovedet, smil, reflekser i brillerne, hår over øjnene, mønstret baggrund og foto taget for tæt på – ved siden af ét godkendt foto med ensfarvet baggrund, neutralt ansigtsudtryk og jævnt lys](https://traveldocumentvault.com/blog/passport-photo-at-home/passport-photo-figure-da.jpg) Seks måder, et foto bliver sendt tilbage på, og den ene opsætning, der godkendes.
+
 - **Skygger i ansigtet:** Skyldes sidelys eller hårde lyskilder. Stil dig vinkelret på et vindue for jævn belysning, og tjek at ører og kindben er jævnt oplyst.
 - **Forkerte fotomål:** Billedet matcher ikke dit lands specifikation (kravene varierer fra land til land). Brug en beskæringsapp til pasfoto, og dobbelttjek målene mod din egen myndigheds officielle spec, før du printer eller uploader – ikke et andet lands standard.
 - **Smil eller usædvanligt udtryk:** De fleste lande kræver et neutralt udtryk. Øv et roligt blik lige frem foran et spejl på forhånd – sigt efter alvorligt, ikke strengt.

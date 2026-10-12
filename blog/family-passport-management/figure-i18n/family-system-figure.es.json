@@ -1,0 +1,28 @@
+{
+ "es": {
+  "template": "hub",
+  "title": "Una familia, un sistema",
+  "inputs": [
+   "Papá",
+   "Mamá",
+   "Hijo 1",
+   "Hijo 2"
+  ],
+  "hub": {
+   "heading": "Una bóveda cifrada"
+  },
+  "outputs": [
+   "Avisos de vencimiento",
+   "Acceso sin conexión",
+   "Copia de seguridad cifrada"
+  ],
+  "focal": "Los pasaportes de los niños vencen en 5 años, no en 10",
+  "alt": "Diagrama de un sistema familiar de pasaportes: cuatro pasaportes (papá, mamá, hijo 1, hijo 2) que llegan a una sola bóveda cifrada, de la que salen avisos de vencimiento, acceso sin conexión y copia de seguridad cifrada, con una nota de que los pasaportes de los niños vencen en 5 años y no en 10",
+  "caption": "Un sistema familiar: todos los pasaportes en un solo lugar, con seguimiento automático de cada fecha de vencimiento",
+  "placement": {
+   "h2": 3,
+   "para": 2,
+   "in_figure_element": true
+  }
+ }
+}

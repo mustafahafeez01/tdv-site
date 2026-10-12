@@ -35,6 +35,8 @@ Source: https://traveldocumentvault.com/ko/blog/how-long-is-passport-valid-for-t
 
 정확한 만료 날짜는 사진 옆의 신분 페이지에 인쇄되어 있습니다. 그 날짜가 기한입니다. 패스포트는 그 날짜가 지나면 세계 어디에서도 더 이상 유효한 여행 서류가 아닙니다.
 
+![패스포트 유효기간을 보여주는 다이어그램: 성인 패스포트는 10년, 어린이 패스포트는 5년이며, 많은 국가가 요구하는 6개월 여유가 끝에 붙는다](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/passport-validity-timeline-ko.jpg) 두 개의 시계, 하나의 함정. 많은 국가가 만료일 전 6개월의 여유를 요구합니다.
+
 ## "유효"와 "여행에 유효"는 두 가지 다른 개념입니다
 
 패스포트는 기술적으로 유효합니다, 만료되지 않았습니다, 그렇지만 여전히 탑승을 거부받을 수 있습니다. 이런 일이 발생하는 주된 이유는 두 가지입니다.

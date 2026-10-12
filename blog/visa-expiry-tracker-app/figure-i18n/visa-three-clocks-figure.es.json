@@ -1,0 +1,43 @@
+{
+ "es": {
+  "template": "matrix",
+  "title": "Un visado, tres relojes distintos",
+  "columns": [
+   "Qué te indica"
+  ],
+  "rows": [
+   {
+    "label": "Validez de entrada",
+    "cells": [
+     "Entra antes de esta fecha"
+    ]
+   },
+   {
+    "label": "Estancia máxima",
+    "cells": [
+     "Cuánto tiempo puedes permanecer"
+    ]
+   },
+   {
+    "label": "Número de entradas",
+    "cells": [
+     "Entrada única o múltiple"
+    ]
+   },
+   {
+    "label": "Schengen suma un cuarto",
+    "cells": [
+     "La ventana móvil 90/180"
+    ]
+   }
+  ],
+  "note": "Controla todos, por persona, en un solo lugar",
+  "focal": "Excederte puede implicar multas y prohibiciones de reentrada",
+  "alt": "Diagrama de los tres relojes de un visado: validez de entrada (entra antes de esta fecha), estancia máxima (cuánto tiempo puedes permanecer) y número de entradas (única o múltiple), con una nota de que Schengen suma un cuarto, la ventana móvil 90/180, y que excederte puede implicar multas y prohibiciones de reentrada",
+  "caption": "Un visado no es una sola fecha. Son tres relojes distintos, y a veces un cuarto.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": {
+  "template": "sequence",
+  "title": "Empat titik pemeriksaan, pemesanan sampai naik pesawat",
+  "steps": [
+   {
+    "label": "Pemesanan",
+    "text": "Periksa tanggal kedaluwarsa"
+   },
+   {
+    "label": "3 bulan sebelumnya",
+    "text": "Perpanjang jika perlu"
+   },
+   {
+    "label": "1 bulan sebelumnya",
+    "text": "Konfirmasi dan konsolidasi"
+   },
+   {
+    "label": "Malam sebelumnya",
+    "text": "Pemeriksaan terakhir"
+   }
+  ],
+  "alt": "Diagram garis waktu pemeriksaan dokumen perjalanan: periksa tanggal kedaluwarsa saat pemesanan, perpanjang jika perlu tiga bulan sebelumnya, konfirmasi dan konsolidasi satu bulan sebelumnya, pemeriksaan terakhir malam sebelumnya",
+  "caption": "Empat titik pemeriksaan antara pemesanan dan naik pesawat - masing-masing kecil kalau Anda mulai lebih awal.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

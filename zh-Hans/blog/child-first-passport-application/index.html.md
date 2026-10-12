@@ -48,6 +48,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/child-first-passport-applic
 
 ## 婴儿没法遵守成人的拍照规则，所以要灵活调整
 
+![婴儿护照照片要求示意图：睁眼、纯色背景、画面干净等不变要求，以及按年龄段变化的拍摄方式，从6个月以下到2岁以上，并标注常见拒绝原因](https://traveldocumentvault.com/blog/child-first-passport-application/baby-photo-figure-zh-Hans.jpg)
+
 许多首次申请正是在这一步失败。婴儿或幼儿无法像成人那样遵守拍照规则：婴儿无法坐起，幼童无法保持静止或听懂指示，新生儿更不可能按指令看向镜头。护照照片标准是按成人制定的，当拍摄对象是一个体重五公斤、动个不停的孩子时，您需要理解该如何调整。
 
 **核心规则并没有变：**孩子的眼睛必须清楚睁开并看向镜头，头部后方是纯色背景，画面中不能出现其他任何内容。变化的是实现这一点的方法。

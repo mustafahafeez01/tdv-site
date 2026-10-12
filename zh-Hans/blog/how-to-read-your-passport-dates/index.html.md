@@ -30,6 +30,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-to-read-your-passport-d
 
 如果只从这一页记住一件事，那就是这种不对称性：签发日期描述的是这本证件本身，到期日描述的是您还能拿着它旅行多久。
 
+![护照资料页四个标注字段示意图：签发日期、到期日期、签发国和护照号码，并标出到期日期是有效期和6个月规则的计算起点](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/data-page-figure-zh-Hans.jpg) 四个字段，入境规则实际只看其中一个。
+
 ## 为什么您的护照上会写「Expedition」
 
 很多人会搜索护照上「date of expedition」是什么意思，答案其实平淡无奇：它指的就是签发日期。

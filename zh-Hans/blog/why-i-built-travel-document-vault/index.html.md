@@ -58,6 +58,8 @@ Travel Document Vault 将已保存的文档和到期日放在一起，利用提�
 
 这才是真正的回报：你找回了脑子里的空间。那种隐形的精神负担——那种持续的低频焦虑"我是不是忘了什么？"——消失了。应用替你记着，你不用再操心。
 
+![示意图：照片、云端、笔记、邮件、日历五个分散的应用汇聚成一个保险库，输出到期提醒、加密和离线访问：一个应用取代五个](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/scattered-to-single-vault-zh-Hans.jpg) 过去晚上11点的检查要经历什么，现在又变成了什么。
+
 ## 不只是护照
 
 开始使用之后，我发现有太多其他证件也在悄悄地到期。

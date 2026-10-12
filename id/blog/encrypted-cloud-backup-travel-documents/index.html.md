@@ -32,6 +32,8 @@ Model kedua mengacak file di ponsel Anda sebelum dikirim ke mana pun, menggunaka
 
 Jadi pertanyaan yang layak diajukan pada aplikasi mana pun cukup singkat: **siapa yang memegang kuncinya?** Semua hal lain dalam materi pemasarannya mengikuti jawaban itu.
 
+![Diagram yang membandingkan cadangan foto, yang bisa dibaca di cloud karena perusahaan memegang kuncinya, dengan cadangan terenkripsi, yang tidak berguna tanpa kunci yang tetap berada di ponsel Anda](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/encrypted-backup-figure-id.jpg) Cloud yang sama, jawaban yang berbeda. Berkasnya tetap terunggah, yang berubah adalah siapa yang bisa membukanya.
+
 ## Kode Pemulihan, dan Mengapa Kami Tidak Bisa Meresetnya
 
 Travel Document Vault tidak memerlukan akun aplikasi untuk menyimpan dokumen di perangkat Anda. Fitur opsional [cadangan cloud](https://traveldocumentvault.com/id/cloud-backup/) memerlukan Pro dan kode pemulihan Anda untuk membuka kunci enkripsi cloud. Aplikasi membuat kode 24 karakter ini saat Anda mengatur PIN. Vault terenkripsi itu kemudian dikirim ke **iCloud Anda sendiri di iPhone dan iPad, atau Google Drive Anda sendiri di Android**, bukan ke kami.

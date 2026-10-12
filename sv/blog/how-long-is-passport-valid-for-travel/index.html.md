@@ -35,6 +35,8 @@ Standardgiltigheten för ett vuxenpass är 10 år från utfärdandedatumet i de 
 
 Ditt exakta utgångsdatum finns tryckt på datasidan bredvid ditt foto. Det datumet är den absoluta gränsen – ditt pass slutar vara en giltig resehandling överallt i världen så snart det passeras.
 
+![Diagram över passets giltighet: ett vuxenpass gäller i 10 år, ett barnpass i 5, och en 6-månadersbuffert ligger i slutet av båda eftersom många länder kräver det](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/passport-validity-timeline-sv.jpg) Två klockor, en hake: 6-månadersbufferten som många länder förväntar sig före ditt utgångsdatum.
+
 ## "Giltigt" och "giltigt för din resa" är två olika saker
 
 Ett pass kan vara tekniskt giltigt – inte utgånget – och ändå leda till att du nekas ombordstigning. Det finns två huvudsakliga skäl till det.

@@ -1,0 +1,52 @@
+{
+ "de": {
+  "template": "cards",
+  "title": "Vier Felder auf der Datenseite",
+  "cards": [
+   {
+    "heading": "Ausstellungsdatum",
+    "items": [
+     {
+      "text": "Der Tag, an dem er gedruckt wurde",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Ablaufdatum",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "Die Gültigkeit wird von hier aus gemessen",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Ausstellendes Land",
+    "items": [
+     {
+      "text": "Wer ihn bei Verlust ersetzt",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Reisepassnummer",
+    "items": [
+     {
+      "text": "Ein neues Heft bedeutet eine neue Nummer",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagramm einer Reisepass-Datenseite mit vier beschrifteten Feldern: Ausstellungsdatum, Ablaufdatum, ausstellendes Land und Reisepassnummer, mit dem Ablaufdatum hervorgehoben als das Datum, von dem aus die Gültigkeit und die 6-Monats-Regel gezählt werden",
+  "caption": "Vier Felder, von denen eines tatsächlich jede Einreiseregel misst.",
+  "focal": "Die 6-Monats-Regel zählt rückwärts vom Ablaufdatum",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

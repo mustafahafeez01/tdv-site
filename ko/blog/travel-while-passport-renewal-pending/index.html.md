@@ -24,6 +24,8 @@ Source: https://traveldocumentvault.com/ko/blog/travel-while-passport-renewal-pe
 
 여전히 그 여권을 보유하고 있는지는 전적으로 당신의 국가와 갱신 방법에 달려 있습니다.
 
+![여권이 아직 손에 있는지 묻는 결정 트리 다이어그램. 있으면 유효한 동안 그 여권으로 여행할 수 있고(미국 우편 갱신, 영국 디지털 갱신), 없으면 제출한 상태로 새 여권을 기다려야 하며(영국 우편 갱신, 호주, 캐나다), 여권 없이 국제선을 탈 수 있는 나라는 없다](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-ko.jpg) 모든 것을 가르는 질문 하나. 기존 여권이 아직 내 손에 있는가입니다.
+
 ## 미국: 우편 갱신
 
 미국 여권 표준 우편 갱신은 새 여권이 도착하기 전에 현재 여권을 제출하도록 요구하지 않습니다. DS-82 양식을 작성하고, 기존 여권을 동봉하고, 모든 것을 국립 여권 처리 센터로 보냅니다. 기존 여권은 새 여권과 함께 반환되며, 일반적으로 천공으로 취소됩니다.

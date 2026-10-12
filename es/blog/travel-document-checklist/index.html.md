@@ -36,6 +36,8 @@ Averigua si tu nacionalidad de pasaporte requiere visado para entrada, tránsito
 
 Reserva el seguro de viaje cuando reservas vuelos, no una semana antes de la salida. El seguro contratado después de que ya hayas identificado un riesgo puede excluir ese problema específico. Asegúrate de que la póliza cubre todos los viajeros, todos los destinos y las actividades que planeas hacer.
 
+![Diagrama de línea de tiempo de las comprobaciones de documentos de viaje: comprueba las fechas de caducidad al reservar, renueva si es necesario tres meses antes, confirma y consolida un mes antes, última comprobación la noche antes](https://traveldocumentvault.com/blog/travel-document-checklist/checklist-timeline-es.jpg) Cuatro puntos de control entre la reserva y el embarque, cada uno pequeño si empiezas con tiempo.
+
 ## Tres meses antes: si la renovación o un visado están cerca, empieza ya
 
 En este punto todavía tienes tiempo para arreglarlo. Los tiempos de renovación cambian, y cada autoridad publica su propia cifra actualizada: el Departamento de Estado de EE.UU., el HM Passport Office y la Oficina de Pasaportes Australiana. Siempre verifica el sitio oficial para los tiempos actuales antes de solicitar.

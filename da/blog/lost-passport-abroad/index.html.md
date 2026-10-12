@@ -28,6 +28,8 @@ En kopi på din telefon er en optegnelse frem for legitimation.
 
 De to bliver let forvekslet. Det er værd at vide på forhånd, [hvor en digital paskopi bliver accepteret, og hvor du stadig skal bruge originalen](https://traveldocumentvault.com/da/blog/digital-passport-copy-valid/).
 
+![Diagram af de syv trin efter at have mistet et pas i udlandet: bekræft, at det virkelig er væk, indgiv en politianmeldelse, kontakt din ambassade, nødpas, giv besked til dit forsikringsselskab, tjek din visumsituation, kom hjem og erstat det derefter – med en note om at fotografere dit pas i dag, fordi en sikkerhedskopi gør trin fire meget hurtigere](https://traveldocumentvault.com/blog/lost-passport-abroad/lost-passport-7-steps-figure-da.jpg) Syv rolige trin, i rækkefølge – og den ene ting, du bør gøre i dag, før nogen af dem bliver nødvendige.
+
 ## Trin 1: Bekræft at passet virkelig er væk
 
 Tjek overalt, før du antager det værste – jakkelommer, alle rum i tasken, hotellets pengeskab, den sidste taxa eller restaurant. Hvis det virkelig er væk eller stjålet, så gå videre til de næste trin uden forsinkelse.

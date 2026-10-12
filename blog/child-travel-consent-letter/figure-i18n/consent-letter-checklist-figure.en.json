@@ -1,0 +1,63 @@
+{
+ "en": {
+  "template": "cards",
+  "title": "The consent letter checklist",
+  "cards": [
+   {
+    "heading": "The letter",
+    "items": [
+     {
+      "text": "Child's full name",
+      "mark": "tick"
+     },
+     {
+      "text": "Date of birth",
+      "mark": "tick"
+     },
+     {
+      "text": "Passport number",
+      "mark": "tick"
+     },
+     {
+      "text": "Exact travel dates",
+      "mark": "tick"
+     },
+     {
+      "text": "Destinations",
+      "mark": "tick"
+     },
+     {
+      "text": "Absent parent's contact details",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Top rejection reasons",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Missing details",
+      "mark": "cross"
+     },
+     {
+      "text": "No notarisation",
+      "mark": "cross"
+     },
+     {
+      "text": "Old signatures",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "note": "Get it notarised: many borders expect it",
+  "focal": "Print it, and keep a digital backup",
+  "alt": "Checklist diagram of what a child travel consent letter must include: child's full name, date of birth, passport number, exact travel dates, destinations and the absent parent's contact details, with notes to get it notarised, the top rejection reasons, and to print it and keep a digital backup",
+  "caption": "Six details, one notarisation, and a printed copy cover almost every border's expectations.",
+  "placement": {
+   "h2": 3,
+   "para": 4
+  }
+ }
+}

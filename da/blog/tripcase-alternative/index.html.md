@@ -50,6 +50,8 @@ Rejsedokumenter vejer anderledes end tabte playlister. En passcanning, et bevilg
 
 TripCase bundtede flere forskellige opgaver i én gratis app. Ingen nuværende app løser dem alle godt, så det ærlige træk er at splitte opgaverne op og vælge det bedste værktøj til hver enkelt.
 
+![Diagram over TripCases fire opgaver efter lukningen 1. april 2025: flyadvarsler til Flighty, rejseplan til TripIt, dokumenter til Travel Document Vault, deling af rejse til en delt mappe](https://traveldocumentvault.com/blog/tripcase-alternative/tripcase-timeline-alternatives-da.jpg) Erstatningskortet i overblik: fire opgaver, fire værktøjer, der hver gør én ting godt.
+
 | Opgaven | Hvad TripCase gjorde | Bedste erstatning nu | Pris |
 |---|---|---|---|
 | Flyalarmer | Forsinkelser, gateændringer, aflysninger i realtid | Flighty | Gratis niveau; betalt abonnement tilgængeligt |

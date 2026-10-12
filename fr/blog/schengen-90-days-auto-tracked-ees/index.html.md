@@ -30,6 +30,8 @@ Pas tout le monde est enregistré. Les citoyens de l'UE, les résidents des pays
 
 La règle elle-même n'a pas changé: vous pouvez passer au maximum 90 jours à l'intérieur de la zone Schengen dans toute fenêtre glissante de 180 jours. Ce n'est pas 90 jours par année civile, et la fenêtre ne se réinitialise pas lorsque vous partez. Pour chaque jour où vous êtes présent, les 180 jours précédents ne doivent pas contenir plus de 90 jours de séjour.
 
+![Diagramme de la fenêtre glissante Schengen 90/180 : d'il y a 180 jours à aujourd'hui, deux voyages de 30 et 45 jours utilisent 75 des 90 jours, il en reste 15 ; la fenêtre se déplace chaque jour et les jours d'arrivée et de départ comptent tous les deux](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-fr.jpg) La fenêtre ne se réinitialise jamais : pour chaque jour, les 180 jours précédents ne peuvent contenir plus de 90 jours de séjour.
+
 Ce qui a changé, c'est l'application. Avec les tampons de passeport, prouver un dépassement signifiait déchiffrer de l'encre fanée, et les agents frontaliers avaient une certaine discrétion. Maintenant, les dates sont exactes, et le système signale un dépassement au moment où il se produit. Attendez-vous à un refus à votre prochaine entrée, et dans de nombreux cas, une interdiction d'entrée de un à cinq ans, que les autorités enregistrent dans le Système d'information Schengen. La marge d'erreur est passée de floue à zéro.
 
 ## Le hic: le EES applique, il ne planifie pas

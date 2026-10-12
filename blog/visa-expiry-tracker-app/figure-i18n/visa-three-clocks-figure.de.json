@@ -1,0 +1,43 @@
+{
+ "de": {
+  "template": "matrix",
+  "title": "Ein Visum, drei verschiedene Uhren",
+  "columns": [
+   "Was es Ihnen sagt"
+  ],
+  "rows": [
+   {
+    "label": "Einreisegültigkeit",
+    "cells": [
+     "Vor diesem Datum einreisen"
+    ]
+   },
+   {
+    "label": "Maximale Aufenthaltsdauer",
+    "cells": [
+     "Wie lange Sie bleiben dürfen"
+    ]
+   },
+   {
+    "label": "Anzahl der Einreisen",
+    "cells": [
+     "Einfach- oder Mehrfacheinreise"
+    ]
+   },
+   {
+    "label": "Schengen fügt eine vierte hinzu",
+    "cells": [
+     "Das rollierende 90/180-Fenster"
+    ]
+   }
+  ],
+  "note": "Alle pro Person an einem Ort verfolgen",
+  "focal": "Überschreitungen können Bußgelder und Einreiseverbote bedeuten",
+  "alt": "Diagramm zu den drei Uhren eines Visums: Einreisegültigkeit (vor diesem Datum einreisen), maximale Aufenthaltsdauer (wie lange Sie bleiben dürfen) und Anzahl der Einreisen (einfach oder mehrfach), mit dem Hinweis, dass Schengen eine vierte hinzufügt, das rollierende 90/180-Fenster, und dass Überschreitungen Bußgelder und Einreiseverbote bedeuten können",
+  "caption": "Ein Visum ist nicht ein Datum. Es sind drei getrennte Uhren, manchmal eine vierte.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

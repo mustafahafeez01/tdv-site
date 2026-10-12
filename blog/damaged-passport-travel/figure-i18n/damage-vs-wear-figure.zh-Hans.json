@@ -1,0 +1,13 @@
+{
+ "zh-Hans": {
+  "reuse": "/blog/damaged-passport-travel/damage-vs-wear-figure.jpg",
+  "width": 1536,
+  "height": 1024,
+  "alt": "两本打开的护照并排对比：一本虽有磨损但平整可用，另一本因水渍导致内页起皱、层压翘起",
+  "caption": "封面的小褶皱：可以接受。资料页的水渍损坏：有问题。",
+  "placement": {
+   "h2": 2,
+   "para": 3
+  }
+ }
+}

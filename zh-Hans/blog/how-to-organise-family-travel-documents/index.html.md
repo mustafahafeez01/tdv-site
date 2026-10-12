@@ -53,6 +53,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-trav
 
 **其他值得保持可访问的文件**
 
+![家庭旅行十项文件检查清单示意图：护照、签证、身份证、旅行保险、预订确认、疫苗接种记录、返程机票、出生证明、同意书和监护令，并提示出行前3个月以上就要开始准备](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/travel-docs-checklist-zh-Hans.jpg) 完整的家庭清单——提前三个月就开始打勾，而不是等到出发前一周。
+
 - 国际驾驶执照（如果你在国外租车）
 - 持续病症的医疗记录或处方详情
 - 欧洲健康保险卡（EHIC）供欧盟旅行者使用

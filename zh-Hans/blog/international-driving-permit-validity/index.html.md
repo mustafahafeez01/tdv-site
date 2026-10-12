@@ -36,6 +36,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/international-driving-permi
 
 这个区分很关键，而且关键在两个层面：既决定了许可证能用多久，也决定了它在哪些地方会被承认。如果一个国家只批准了其中一份公约，就没有义务承认根据另一份公约签发的许可证——这也是为什么去年那趟旅行还能用的许可证，这次却被挡在了门外。
 
+![示意图比较三种证件有效期：护照通常10年，驾照因国家而异，国际驾驶许可证1年或最长3年，若驾照先到期则提前失效，最短的时钟决定一切](https://traveldocumentvault.com/blog/international-driving-permit-validity/idp-clocks-figure-zh-Hans.jpg) 三份证件，三个时钟。许可证的有效期以先到期的那个为上限。
+
 | 许可证类型 | 有效期 | 受什么限制 |
 |---|---|---|
 | **1926年《巴黎公约》** | 一年 | 签发日期。如今很少需要 |

@@ -48,6 +48,8 @@ Las oficinas de pasaportes piden tres cosas cuando solicitas el primer pasaporte
 
 ## Los Bebés No Pueden Seguir las Normas de Adultos, Así Que las Adaptas
 
+![Diagrama de lo que no cambia en una foto de pasaporte de un bebé (ojos abiertos, fondo liso, nada más en el encuadre) y de lo que cambia según la edad, desde menos de 6 meses hasta 2 años o más, con las causas más frecuentes de rechazo](https://traveldocumentvault.com/blog/child-first-passport-application/baby-photo-figure-es.jpg)
+
 Aquí es donde muchas primeras solicitudes fracasan. Un bebé o un niño pequeño no puede seguir las normas de la foto como lo haría un adulto: los bebés no se sientan solos, los pequeños no se quedan quietos ni entienden instrucciones, y los recién nacidos no miran a la cámara a la orden. Las normas de las fotos de pasaporte se redactaron pensando en adultos, y hay que entender cómo adaptarlas cuando el sujeto es un niño que pesa 5 kilos y no para de moverse.
 
 **Las normas básicas son las mismas:** los ojos del niño deben estar claramente abiertos y mirando a la cámara, con un fondo liso detrás de la cabeza y nada más en el encuadre. Lo que cambia es cómo lo consigues.

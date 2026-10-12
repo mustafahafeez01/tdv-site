@@ -1,0 +1,63 @@
+{
+ "id": {
+  "template": "cards",
+  "title": "Daftar periksa surat izin anak",
+  "cards": [
+   {
+    "heading": "Isi surat",
+    "items": [
+     {
+      "text": "Nama lengkap anak",
+      "mark": "tick"
+     },
+     {
+      "text": "Tanggal lahir",
+      "mark": "tick"
+     },
+     {
+      "text": "Nomor paspor",
+      "mark": "tick"
+     },
+     {
+      "text": "Tanggal perjalanan pasti",
+      "mark": "tick"
+     },
+     {
+      "text": "Tujuan",
+      "mark": "tick"
+     },
+     {
+      "text": "Kontak orang tua yang tidak ikut",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Alasan penolakan teratas",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Informasi yang hilang",
+      "mark": "cross"
+     },
+     {
+      "text": "Tidak ada notarisasi",
+      "mark": "cross"
+     },
+     {
+      "text": "Tanda tangan usang",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "note": "Notariskan surat ini: banyak perbatasan mengharapkannya",
+  "focal": "Cetak, dan simpan cadangan digital",
+  "alt": "Diagram daftar periksa yang harus dicantumkan surat izin perjalanan anak: nama lengkap anak, tanggal lahir, nomor paspor, tanggal perjalanan pasti, tujuan, dan detail kontak orang tua yang tidak ikut serta, dengan catatan untuk menotariskannya, alasan penolakan teratas, dan untuk mencetaknya serta menyimpan cadangan digital",
+  "caption": "Enam detail, satu notarisasi, dan satu salinan cetak memenuhi ekspektasi hampir semua perbatasan.",
+  "placement": {
+   "h2": 3,
+   "para": 4
+  }
+ }
+}

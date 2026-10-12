@@ -1,0 +1,63 @@
+{
+ "sv": {
+  "template": "cards",
+  "title": "Checklista för samtyckesbrevet",
+  "cards": [
+   {
+    "heading": "Brevet",
+    "items": [
+     {
+      "text": "Barnets fullständiga namn",
+      "mark": "tick"
+     },
+     {
+      "text": "Födelsedatum",
+      "mark": "tick"
+     },
+     {
+      "text": "Passnummer",
+      "mark": "tick"
+     },
+     {
+      "text": "Exakta resdatum",
+      "mark": "tick"
+     },
+     {
+      "text": "Resmål",
+      "mark": "tick"
+     },
+     {
+      "text": "Frånvarande förälders kontaktuppgifter",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Vanligaste avslagsorsakerna",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Saknade uppgifter",
+      "mark": "cross"
+     },
+     {
+      "text": "Ingen bestyrkning",
+      "mark": "cross"
+     },
+     {
+      "text": "Föråldrade underskrifter",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "note": "Få det bestyrkt: många gränser förväntar sig det",
+  "focal": "Skriv ut det, och spara en digital säkerhetskopia",
+  "alt": "Checklistediagram över vad ett samtyckesbrev för barns resa måste innehålla: barnets fullständiga namn, födelsedatum, passnummer, exakta resdatum, resmål och den frånvarande förälderns kontaktuppgifter, med noter om att få det bestyrkt, de vanligaste avslagsorsakerna, och att skriva ut det och spara en digital säkerhetskopia",
+  "caption": "Sex uppgifter, en bestyrkning och en utskriven kopia täcker nästan alla gränsers förväntningar.",
+  "placement": {
+   "h2": 3,
+   "para": 4
+  }
+ }
+}

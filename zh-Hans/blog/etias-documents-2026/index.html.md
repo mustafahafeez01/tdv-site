@@ -92,6 +92,8 @@ ETIAS将要求提供**安全和个人信息**——您的全名、出生日期�
 
 如果您被拒绝但仍需旅行，您的备用方案是通过相关大使馆或领事馆申请传统长期签证，这通常允许多次进入和比免签旅行更长的停留。由于要求因目的地和您的国籍而大不相同，请直接联系大使馆以了解您需要什么。
 
+![图表比较EES和ETIAS：EES在边境发生，采集指纹和照片，无需申请，正在各入境口岸分阶段推行；ETIAS在出发前完成，在线申请且费用不高，尚未强制也没有确定日期；两者您最终都需要，且都不是签证](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure-zh-Hans.jpg) 两道不同的关口：EES在您抵达时登记，ETIAS在您出发前放行。
+
 ## 有了ETIAS，护照和保险依然重要
 
 ETIAS批准不会替代您的护照、旅行保险或[护照有效期要求](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)。您仍需要：

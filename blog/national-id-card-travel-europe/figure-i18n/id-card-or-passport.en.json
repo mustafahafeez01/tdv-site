@@ -1,0 +1,52 @@
+{
+ "en": {
+  "template": "cards",
+  "title": "ID card or passport?",
+  "cards": [
+   {
+    "heading": "ID card usually works",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Travel within the EU and EEA",
+      "mark": "tick"
+     },
+     {
+      "text": "Switzerland too",
+      "mark": "tick"
+     },
+     {
+      "text": "Card valid on the day you travel",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Take the passport",
+    "items": [
+     {
+      "text": "Most trips outside Europe",
+      "mark": "dot"
+     },
+     {
+      "text": "Card damaged or hard to read",
+      "mark": "dot"
+     },
+     {
+      "text": "Your airline asks for one",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "or",
+  "focal": "Two documents, two expiry dates",
+  "alt": "Diagram comparing when a national ID card usually works, for travel within the EU and EEA and Switzerland, with when to take the passport: most trips outside Europe, a damaged card, or an airline that asks for one",
+  "caption": "Inside the EU and EEA the card usually works; beyond Europe, take the passport.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

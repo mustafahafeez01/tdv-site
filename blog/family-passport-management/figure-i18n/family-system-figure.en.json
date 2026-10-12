@@ -1,0 +1,28 @@
+{
+ "en": {
+  "template": "hub",
+  "title": "One family, one system",
+  "inputs": [
+   "Dad",
+   "Mum",
+   "Kid 1",
+   "Kid 2"
+  ],
+  "hub": {
+   "heading": "One encrypted vault"
+  },
+  "outputs": [
+   "Expiry reminders",
+   "Offline access",
+   "Encrypted backup"
+  ],
+  "focal": "Kids' passports expire in 5 years, not 10",
+  "alt": "Hand-drawn diagram of one family passport system: four passports (Dad, Mum, Kid 1, Kid 2) flowing into one encrypted vault, with expiry reminders, offline access and encrypted backup flowing out, and a note that kids' passports expire in 5 years not 10",
+  "caption": "One family system: every passport in one place, with automated tracking for each expiry date",
+  "placement": {
+   "h2": 3,
+   "para": 2,
+   "in_figure_element": true
+  }
+ }
+}

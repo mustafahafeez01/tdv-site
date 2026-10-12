@@ -19,6 +19,8 @@ Source: https://traveldocumentvault.com/pt/blog/passport-expired-what-to-do/
 
 Descobrir que o seu passaporte expirou é um daqueles momentos em que o tempo de repente se torna muito real. Quer o tenha visto três meses antes de uma viagem ou esteja de pé no balcão de check-in do aeroporto neste momento, o que acontece a seguir depende inteiramente de qual cenário se encontra.
 
+![Diagrama de ramos para um passaporte expirado: em casa com uma viagem a chegar, marque uma renovação urgente pois há vagas de emergência no Reino Unido e nos EUA; no aeroporto, ligue primeiro à companhia aérea pois algumas reagendam grátis em emergências. A solução real é um aviso aos 12 meses, não 6, porque expirado significa que não voa](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-pt.jpg) O mesmo problema, dois planos muito diferentes - tudo depende de onde está quando descobre.
+
 ## Cenário A: Descobriu em Casa, com uma Viagem Marcada
 
 Esta situação é recuperável — mas o quão recuperável depende de quanto tempo tem antes de viajar.

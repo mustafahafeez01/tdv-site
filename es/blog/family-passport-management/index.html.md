@@ -34,6 +34,8 @@ El primer paso es centralizar dónde viven los pasaportes familiares. Esto signi
 
 El almacenamiento cifrado es importante porque los pasaportes contienen tu nombre legal completo, fecha de nacimiento y número de pasaporte —información suficiente para robo de identidad. Las apps generales de almacenamiento de fotos como Google Photos o iCloud tratan tus documentos como instantáneas en lugar de datos de identidad sensibles. Una carpeta PDF protegida por contraseña en tu dispositivo, o una app construida específicamente para manejar documentos de viaje, te da la capa de cifrado que necesitas.
 
+![Diagrama de un sistema familiar de pasaportes: cuatro pasaportes (papá, mamá, hijo 1, hijo 2) que llegan a una sola bóveda cifrada, de la que salen avisos de vencimiento, acceso sin conexión y copia de seguridad cifrada, con una nota de que los pasaportes de los niños vencen en 5 años y no en 10](https://traveldocumentvault.com/blog/family-passport-management/family-system-figure-es.jpg) Un sistema familiar: todos los pasaportes en un solo lugar, con seguimiento automático de cada fecha de vencimiento
+
 **Solo copias digitales.** Escanea la página de identificación con foto de cada pasaporte de los miembros de la familia. Una imagen clara de la página que muestre la foto, nombre, fecha de nacimiento, número de pasaporte y fecha de vencimiento es suficiente. Esto debería tomar 30 segundos por persona.
 
 Una vez escaneadas, estas copias viven en tu bóveda cifrada —accesible en cualquier momento que necesites verificar una fecha de validez, demostrar que tienes documentos al reservar viajes, o proporcionar información de emergencia a un consulado si algo sale mal en el extranjero.

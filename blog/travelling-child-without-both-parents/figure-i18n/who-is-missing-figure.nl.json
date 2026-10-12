@@ -1,0 +1,49 @@
+{
+ "nl": {
+  "template": "tree",
+  "root": {
+   "heading": "Wie reist er niet mee?"
+  },
+  "branches": [
+   {
+    "heading": "De andere ouder",
+    "items": [
+     {
+      "text": "Toestemmingsbrief"
+     }
+    ]
+   },
+   {
+    "heading": "Een ex zonder contact",
+    "items": [
+     {
+      "text": "Voogdij- of gezagsbeschikking"
+     }
+    ]
+   },
+   {
+    "heading": "Een overleden ouder",
+    "items": [
+     {
+      "text": "Kopie van de overlijdensakte"
+     }
+    ]
+   },
+   {
+    "heading": "Beide ouders",
+    "items": [
+     {
+      "text": "Toestemming van beiden, plus geboorteakte"
+     }
+    ]
+   }
+  ],
+  "focal": "Neem in elk geval de geboorteakte van het kind mee",
+  "alt": "Beslisboom die laat zien welk document je meeneemt afhankelijk van wie er niet meereist: een toestemmingsbrief voor de andere ouder, een voogdij- of gezagsbeschikking voor een ex zonder contact, een kopie van de overlijdensakte voor een overleden ouder, of toestemming van beiden plus een geboorteakte als beide ouders niet meereizen, met de aantekening om in elk geval de geboorteakte van het kind mee te nemen",
+  "caption": "Vier situaties, vier documenten, en één geboorteakte die in alle gevallen helpt. Dit is onze inschatting van wat luchtvaartmaatschappijen en grensbeambten meestal vragen, geen juridische checklist. Vereisten verschillen per bestemming en maatschappij, controleer dus de immigratiedienst van je bestemming en je luchtvaartmaatschappij voordat je vertrekt.",
+  "placement": {
+   "h2": 5,
+   "para": 3
+  }
+ }
+}

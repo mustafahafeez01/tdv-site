@@ -1,0 +1,64 @@
+{
+ "it": {
+  "template": "cards",
+  "title": "Perché le foto passaporto vengono rifiutate",
+  "cards": [
+   {
+    "heading": "Rifiutate",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Ombra dietro la testa",
+      "mark": "cross"
+     },
+     {
+      "text": "Sorriso",
+      "mark": "cross"
+     },
+     {
+      "text": "Riflesso sugli occhiali",
+      "mark": "cross"
+     },
+     {
+      "text": "Capelli sugli occhi",
+      "mark": "cross"
+     },
+     {
+      "text": "Sfondo con motivi",
+      "mark": "cross"
+     },
+     {
+      "text": "Foto scattata troppo da vicino",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Accettate",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Sfondo neutro",
+      "mark": "tick"
+     },
+     {
+      "text": "Espressione neutra",
+      "mark": "tick"
+     },
+     {
+      "text": "Luce uniforme",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "Il tuo ufficio passaporti pubblica le dimensioni esatte",
+  "alt": "Diagramma di sei foto passaporto rifiutate - ombra dietro la testa, sorriso, riflesso sugli occhiali, capelli sugli occhi, sfondo con motivi e foto scattata troppo da vicino - accanto a una foto accettata con sfondo neutro, espressione neutra e luce uniforme",
+  "caption": "Sei motivi per cui una foto viene respinta, e l'unica configurazione che passa.",
+  "placement": {
+   "h2": 6,
+   "para": 0
+  }
+ }
+}

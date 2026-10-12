@@ -1,0 +1,41 @@
+{
+ "zh-Hans": {
+  "template": "tree",
+  "root": {
+   "heading": "密钥在谁手中？"
+  },
+  "branches": [
+   {
+    "edge": "对方的密钥",
+    "edge_mark": "cross",
+    "heading": "照片备份",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "谁能登录就能读取",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "edge": "您的密钥，留在手机上",
+    "edge_mark": "tick",
+    "heading": "加密备份",
+    "tone": "good",
+    "items": [
+     {
+      "text": "没有密钥就是一堆乱码",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "同一个云，不同的答案",
+  "alt": "图表比较照片备份与加密备份：照片备份的密钥在对方手中，谁能登录就能读取；加密备份的密钥留在您手机上，没有密钥就是一堆乱码",
+  "caption": "同一个云，不同的答案。文件都会上传，区别在于谁能打开它。",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

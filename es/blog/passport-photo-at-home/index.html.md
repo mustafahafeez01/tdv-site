@@ -87,6 +87,8 @@ Los teléfonos inteligentes modernos disparan a 12 megapíxeles o superior, lo c
 
 ## Motivos Comunes de Rechazo y Cómo Evitarlos
 
+![Diagrama de seis fotos de pasaporte rechazadas -sombra detrás de la cabeza, sonreír, reflejo en las gafas, pelo sobre los ojos, fondo con patrones y foto tomada muy de cerca- junto a una foto aceptada con fondo liso, expresión neutral y luz uniforme](https://traveldocumentvault.com/blog/passport-photo-at-home/passport-photo-figure-es.jpg) Seis motivos por los que una foto se rechaza, y la única configuración que la aprueba.
+
 - **Sombras en la cara:** Causadas por iluminación lateral o fuentes de luz dura. Posiciónate perpendicular a una ventana para iluminación uniforme, y verifica que tus orejas y pómulos estén uniformemente iluminados.
 - **Dimensiones de foto incorrectas:** La foto no coincide con las especificaciones de tu país (los requisitos varían según el país). Usa una app de recorte de foto de pasaporte y verifica dos veces las dimensiones contra la especificación oficial de tu autoridad antes de imprimir o cargar, no los estándares de otro país.
 - **Sonrisa o expresión inusual:** La mayoría de los países requieren una expresión neutral. Practica una mirada tranquila y directa en un espejo de antemano, apunta a serio, no severo.

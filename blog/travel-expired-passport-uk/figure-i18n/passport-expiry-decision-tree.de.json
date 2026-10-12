@@ -1,0 +1,40 @@
+{
+ "de": {
+  "template": "tree",
+  "title": "Reisen mit abgelaufenem Reisepass",
+  "root": {
+   "heading": "Welche Art von Reise?"
+  },
+  "branches": [
+   {
+    "edge": "International",
+    "edge_mark": "cross",
+    "heading": "Nicht erlaubt",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Dringende Erneuerung beantragen"
+     }
+    ]
+   },
+   {
+    "edge": "Inland",
+    "edge_mark": "question",
+    "heading": "Bei der Fluggesellschaft nachfragen",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Vor der Reise anrufen"
+     }
+    ]
+   }
+  ],
+  "focal": "Immer vor der Abreise bestätigen",
+  "alt": "Entscheidungsbaum für einen abgelaufenen Reisepass: internationale Reisen sind als nicht erlaubt markiert und führen zur dringenden Erneuerung, inländische Reisen führen zur Nachfrage bei der Airline und dazu, vor der Reise anzurufen, mit dem Hinweis, immer vor der Abreise zu bestätigen",
+  "caption": "Die zwei Wege ab einem abgelaufenen Reisepass – und keiner davon führt zum Gate.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

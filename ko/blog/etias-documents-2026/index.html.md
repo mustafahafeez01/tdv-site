@@ -92,6 +92,8 @@ ETIAS는 **보안 및 개인정보**를 요청할 것입니다. 전체 이름, �
 
 거부되었지만 여전히 여행이 필요하면 관련 대사관 또는 영사관을 통해 기존 장기 비자를 신청하는 것이 대체 방법입니다. 일반적으로 비자면제 여행보다 여러 입국 및 더 긴 체류를 허용합니다. 요구사항이 목적지와 국적에 따라 크게 다르므로 [대사관에 직접 문의](https://traveldocumentvault.com/privacy-policy/)하여 필요한 것을 이해하세요.
 
+![EES와 ETIAS를 비교하는 다이어그램: EES는 국경에서 지문과 사진으로 진행되며 신청이 필요 없고 입국 지점별로 순차 도입되는 반면, ETIAS는 출발 전 온라인으로 신청하고 소액 수수료가 들며 아직 의무 시행일이 정해지지 않았다. 결국 둘 다 필요하며, 둘 다 비자는 아니다](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure-ko.jpg) 서로 다른 두 관문. EES는 도착할 때 등록하고, ETIAS는 출발 전에 승인합니다.
+
 ## ETIAS를 받은 뒤에도 여권과 보험은 여전히 중요합니다
 
 ETIAS 승인은 여권, [여행보험](https://traveldocumentvault.com/privacy-policy/), 또는 [여권 유효기간 요구사항](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)을 대체하지 않습니다. 여전히 필요합니다:

@@ -28,6 +28,8 @@ Det är här de flesta panikar i onödan: ett böjt hörn på omslaget är ingen
 
 Viktigast av allt är att den maskinläsbara zonen – det svartvita fältet längst ner på din datasida – måste förbli intakt. Gränsläsare kan misslyckas med att läsa den när den är skadad.
 
+![Diagram med två öppna pass sida vid sida: ett slitet men plant och användbart, ett vattenskadat med buckliga sidor och lossnande laminering](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Mindre skrynklor på omslaget: acceptabelt. Vattenskada på datasidan: ett problem.
+
 Anledningen till att detta spelar roll är att **flygbolagen bär ansvaret om de släpper ombord någon med en oacceptabel handling.** Går du ombord med ett skadat pass och nekas inresa vid ankomsten kan myndigheterna bötfälla flygbolaget för att ha transporterat dig. Flygbolaget måste även stå för kostnaden att flyga hem dig.
 
 Ingen personal vid gaten vill ha det pappersarbetet, så de väljer hellre att vara försiktiga.

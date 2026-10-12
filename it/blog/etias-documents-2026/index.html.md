@@ -92,6 +92,8 @@ I gruppi familiari devono inviare ogni domanda separatamente piuttosto che come 
 
 Se vieni rifiutato e hai ancora bisogno di viaggiare, il tuo fallback è richiedere un visto di lungo soggiorno tradizionale tramite l'ambasciata o il consolato pertinente, che generalmente consente più voci e soggiorni più lunghi rispetto ai viaggi senza visto. Poiché i requisiti variano significativamente in base alla destinazione e alla tua nazionalità, contatta direttamente l'ambasciata per capire di cosa avrai bisogno.
 
+![Diagramma che confronta EES e ETIAS: EES accade alla frontiera con impronte e foto, nessuna domanda, in fase di introduzione nei punti di ingresso; ETIAS accade prima di volare, si richiede online con una piccola tassa, senza data ancora fissata per l'obbligatorietà; alla fine serviranno entrambi, e nessuno dei due è un visto](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure-it.jpg) Due porte diverse: EES ti registra all'arrivo, ETIAS ti autorizza prima della partenza.
+
 ## Passaporto e assicurazione contano ancora dopo ETIAS
 
 L'approvazione di ETIAS non sostituisce il tuo passaporto, l'assicurazione di viaggio o i [requisiti di validità del passaporto](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/). Hai ancora bisogno di:

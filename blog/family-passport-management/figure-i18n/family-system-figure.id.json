@@ -1,0 +1,28 @@
+{
+ "id": {
+  "template": "hub",
+  "title": "Satu keluarga, satu sistem",
+  "inputs": [
+   "Ayah",
+   "Ibu",
+   "Anak 1",
+   "Anak 2"
+  ],
+  "hub": {
+   "heading": "Satu vault terenkripsi"
+  },
+  "outputs": [
+   "Pengingat kedaluwarsa",
+   "Akses offline",
+   "Cadangan terenkripsi"
+  ],
+  "focal": "Paspor anak kedaluwarsa dalam 5 tahun, bukan 10",
+  "alt": "Diagram sistem paspor satu keluarga: empat paspor (Ayah, Ibu, Anak 1, Anak 2) masuk ke satu vault terenkripsi, dengan pengingat kedaluwarsa, akses offline, dan cadangan terenkripsi yang dihasilkan, serta catatan bahwa paspor anak kedaluwarsa dalam 5 tahun bukan 10",
+  "caption": "Satu sistem untuk keluarga: setiap paspor di satu tempat, dengan pelacakan otomatis untuk setiap tanggal kedaluwarsa",
+  "placement": {
+   "h2": 3,
+   "para": 2,
+   "in_figure_element": true
+  }
+ }
+}

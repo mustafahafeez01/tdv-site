@@ -1,0 +1,38 @@
+{
+ "pt": {
+  "template": "sequence",
+  "title": "O que atrasa uma renovação",
+  "subtitle": "Uma renovação simples evita todos os seis",
+  "steps": [
+   {
+    "text": "Mudança de nome"
+   },
+   {
+    "text": "Primeiro passaporte de adulto"
+   },
+   {
+    "text": "Pedido de uma criança"
+   },
+   {
+    "text": "Perdido ou danificado"
+   },
+   {
+    "text": "Verificações extra ou entrevista"
+   },
+   {
+    "text": "Pedido feito no estrangeiro"
+   }
+  ],
+  "start": "Pedir",
+  "end": "Passaporte",
+  "note": "Calcule a partir da data da viagem",
+  "focal": "A sua autoridade de passaportes publica o tempo atual",
+  "alt": "Diagrama de um pedido a percorrer o caminho até um passaporte emitido, passando por seis atrasos possíveis: mudança de nome, primeiro passaporte de adulto, pedido de uma criança, perdido ou danificado, verificações extra ou entrevista, e pedido feito no estrangeiro",
+  "caption": "Seis situações tiram um pedido da via rápida. Uma renovação simples evita todas elas.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  },
+  "numbered": false
+ }
+}

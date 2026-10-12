@@ -1,0 +1,52 @@
+{
+ "en": {
+  "template": "cards",
+  "title": "Four fields on the data page",
+  "cards": [
+   {
+    "heading": "Date of issue",
+    "items": [
+     {
+      "text": "The day it was printed",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Date of expiry",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "Validity is measured from here",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Issuing country",
+    "items": [
+     {
+      "text": "Who replaces it if it is lost",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Passport number",
+    "items": [
+     {
+      "text": "A new booklet means a new number",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagram of a passport data page with four labelled fields: date of issue, date of expiry, issuing country and passport number, with the expiry date highlighted as the one validity and the 6-month rule count from",
+  "caption": "Four fields, one of which every entry rule is actually measuring.",
+  "focal": "The 6-month rule counts back from the expiry date",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

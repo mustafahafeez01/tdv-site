@@ -32,6 +32,8 @@ Le second système brouille le fichier sur votre téléphone avant qu'il n'aille
 
 La question à poser à n'importe quelle application tient donc en peu de mots : **qui détient la clé ?** Tout le reste du discours marketing en découle.
 
+![Diagramme comparant une sauvegarde photo, lisible dans le cloud car l'entreprise détient la clé, et une sauvegarde chiffrée, inutilisable sans la clé qui reste sur votre téléphone](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/encrypted-backup-figure-fr.jpg) Même cloud, réponse différente. Le fichier part dans les deux cas ; ce qui change, c'est qui peut l'ouvrir.
+
 ## Le code de récupération, et pourquoi nous ne pouvons pas le réinitialiser
 
 Travel Document Vault ne nécessite aucun compte dans l’application pour stocker des documents sur votre appareil. Sa [sauvegarde cloud](https://traveldocumentvault.com/fr/cloud-backup/) facultative nécessite Pro et votre code de récupération pour déverrouiller la clé de chiffrement cloud. L’application crée ce code de 24 caractères lorsque vous définissez votre PIN. Le coffre chiffré est ensuite envoyé vers **votre propre iCloud sur iPhone et iPad, ou votre propre Google Drive sur Android**, plutôt que vers nous.

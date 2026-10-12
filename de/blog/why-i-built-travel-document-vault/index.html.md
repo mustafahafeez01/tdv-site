@@ -58,6 +58,8 @@ Wenn ein Hotel Ihre Reisepasskopie verlangt, eine Botschaft Ihre Daten braucht o
 
 Das ist der eigentliche Gewinn: Sie bekommen Ihren mentalen Freiraum zurück. Die unsichtbare mentale Last – dieses ständige leise „Habe ich etwas vergessen?" – verschwindet. Die App erinnert sich, damit Sie es nicht müssen.
 
+![Diagramm zu fünf verstreuten Apps, Fotos, Cloud, Notizen, E-Mail, Kalender, die in einem Tresor zusammenlaufen, der Ablauferinnerungen, Verschlüsselung und Offline-Zugriff zurückgibt: eine App statt fünf](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/scattered-to-single-vault-de.jpg) Was die Kontrolle um 23 Uhr früher bedeutete – und was sie jetzt bedeutet.
+
 ## Es geht nicht nur um Reisepässe
 
 Als ich anfing, die App zu nutzen, bemerkte ich, wie viele andere Dokumente still im Hintergrund ablaufen.

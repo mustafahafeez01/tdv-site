@@ -87,6 +87,8 @@ Ponsel pintar modern memotret dengan 12 megapiksel atau lebih, yang lebih dari c
 
 ## Alasan Penolakan yang Umum dan Cara Menghindarinya
 
+![Diagram enam foto paspor yang ditolak - bayangan di belakang kepala, tersenyum, silau di kacamata, rambut menutupi mata, latar belakang bermotif, dan foto diambil terlalu dekat - di samping satu foto yang diterima dengan latar belakang polos, ekspresi netral, dan cahaya merata](https://traveldocumentvault.com/blog/passport-photo-at-home/passport-photo-figure-id.jpg) Enam cara foto dikembalikan, dan satu pengaturan yang lolos.
+
 - **Bayangan di wajah:** Disebabkan oleh pencahayaan dari samping atau sumber cahaya yang tajam. Posisikan diri tegak lurus terhadap jendela untuk pencahayaan merata, dan periksa apakah telinga dan tulang pipi Anda tersinari secara merata.
 - **Dimensi foto yang salah:** Foto tidak sesuai dengan spesifikasi negara Anda (persyaratan berbeda tiap negara). Gunakan aplikasi pemotong foto paspor dan periksa ulang dimensinya terhadap spesifikasi resmi otoritas Anda sendiri sebelum mencetak atau mengunggah, bukan standar negara lain.
 - **Tersenyum atau ekspresi tidak biasa:** Sebagian besar negara mensyaratkan ekspresi netral. Berlatihlah tatapan tenang lurus ke depan di depan cermin terlebih dahulu — usahakan terlihat serius, bukan galak.

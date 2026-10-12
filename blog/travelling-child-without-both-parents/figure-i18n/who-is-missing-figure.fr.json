@@ -1,0 +1,49 @@
+{
+ "fr": {
+  "template": "tree",
+  "root": {
+   "heading": "Qui ne voyage pas ?"
+  },
+  "branches": [
+   {
+    "heading": "L'autre parent",
+    "items": [
+     {
+      "text": "Lettre de consentement"
+     }
+    ]
+   },
+   {
+    "heading": "Un ex sans contact",
+    "items": [
+     {
+      "text": "Ordonnance de garde ou décision de justice"
+     }
+    ]
+   },
+   {
+    "heading": "Un parent décédé",
+    "items": [
+     {
+      "text": "Copie de l'acte de décès"
+     }
+    ]
+   },
+   {
+    "heading": "Les deux parents",
+    "items": [
+     {
+      "text": "Consentement des deux, plus l'acte de naissance"
+     }
+    ]
+   }
+  ],
+  "focal": "Emportez l'acte de naissance de l'enfant dans tous les cas",
+  "alt": "Arbre de décision indiquant quel document emporter selon qui ne voyage pas : une lettre de consentement pour l'autre parent, une ordonnance de garde ou décision de justice pour un ex sans contact, une copie de l'acte de décès pour un parent décédé, ou le consentement des deux parents plus l'acte de naissance quand les deux ne voyagent pas, avec une note pour emporter l'acte de naissance de l'enfant dans tous les cas",
+  "caption": "Quatre situations, quatre documents, et un acte de naissance qui aide dans tous les cas. Ceci reflète notre lecture de ce que demandent le plus souvent les compagnies aériennes et les agents frontaliers, pas une liste légale. Les exigences varient selon la destination et le transporteur, donc vérifiez auprès de l'autorité d'immigration de votre destination et de votre compagnie aérienne avant de voyager.",
+  "placement": {
+   "h2": 5,
+   "para": 3
+  }
+ }
+}

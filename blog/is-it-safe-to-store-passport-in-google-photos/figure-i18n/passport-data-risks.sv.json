@@ -1,0 +1,71 @@
+{
+ "sv": {
+  "template": "cards",
+  "title": "Det ett passfoto avslöjar",
+  "cards": [
+   {
+    "heading": "Det som syns",
+    "items": [
+     {
+      "text": "Namn",
+      "mark": "dot"
+     },
+     {
+      "text": "Födelsedatum",
+      "mark": "dot"
+     },
+     {
+      "text": "Passnummer",
+      "mark": "dot"
+     },
+     {
+      "text": "Foto",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Riskerna",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Kontointrång",
+      "mark": "cross"
+     },
+     {
+      "text": "Tredjepartsåtkomst",
+      "mark": "cross"
+     },
+     {
+      "text": "Dataindexering",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Säkrare förvaring",
+    "tone": "good",
+    "items": [
+     {
+      "text": "iCloud med ADP",
+      "mark": "tick"
+     },
+     {
+      "text": "Krypterad app",
+      "mark": "tick"
+     },
+     {
+      "text": "Offline-kopia",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagram över vad ett passfoto avslöjar - namn, födelsedatum, passnummer och foto - bredvid tre risker, kontointrång, tredjepartsåtkomst och dataindexering, samt tre säkrare alternativ: iCloud med ADP, en krypterad app, eller en offline-kopia",
+  "caption": "Ett foto, fyra datapunkter, och tre lugnare ställen att förvara dem.",
+  "placement": {
+   "h2": 4,
+   "para": 5
+  }
+ }
+}

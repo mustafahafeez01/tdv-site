@@ -1,0 +1,29 @@
+{
+ "fr": {
+  "template": "tree",
+  "root": {
+   "heading": "Choix du mode de stockage"
+  },
+  "branches": [
+   {
+    "edge": "Sur l'appareil",
+    "edge_mark": "tick",
+    "heading": "Vos données restent avec vous",
+    "tone": "good"
+   },
+   {
+    "edge": "Envoi vers le cloud",
+    "heading": "Faire confiance au serveur",
+    "tone": "warn",
+    "edge_mark": "question"
+   }
+  ],
+  "focal": "Sur l'appareil fonctionne aussi hors ligne",
+  "alt": "Diagramme comparant les deux modèles de stockage d'une application d'organisation de passeport : sur l'appareil, les données restent avec vous ; envoi vers le cloud signifie faire confiance au serveur ; et le stockage sur l'appareil fonctionne aussi hors ligne",
+  "caption": "Le seul choix d'architecture qui décide de tout le reste pour une application passeport.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

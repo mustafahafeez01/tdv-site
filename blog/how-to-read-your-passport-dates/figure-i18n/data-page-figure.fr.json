@@ -1,0 +1,52 @@
+{
+ "fr": {
+  "template": "cards",
+  "title": "Quatre champs sur la page d'identité",
+  "cards": [
+   {
+    "heading": "Date de délivrance",
+    "items": [
+     {
+      "text": "Le jour où il a été imprimé",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Date d'expiration",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "La validité se compte à partir d'ici",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Pays émetteur",
+    "items": [
+     {
+      "text": "Qui le remplace en cas de perte",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Numéro de passeport",
+    "items": [
+     {
+      "text": "Un nouveau carnet, un nouveau numéro",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagramme d'une page d'identité de passeport avec quatre champs : date de délivrance, date d'expiration, pays émetteur et numéro de passeport, avec la date d'expiration mise en avant car c'est à partir d'elle que se comptent la validité et la règle des 6 mois",
+  "caption": "Quatre champs, dont un seul mesure vraiment chaque règle d'entrée.",
+  "focal": "La règle des 6 mois se compte à rebours depuis la date d'expiration",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

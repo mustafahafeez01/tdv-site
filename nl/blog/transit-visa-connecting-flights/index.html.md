@@ -33,6 +33,8 @@ De meeste landen eisen geen transitvisum voor transit die volledig airside verlo
 
 De valkuil zit ertussenin. Een tussenlanding die op papier airside lijkt, kan in de praktijk stilletjes landside worden. Loopt je overstap door tot de volgende ochtend, dan ligt het luchthavenhotel meestal buiten de beveiligde zone, waardoor je je bagage moet ophalen en opnieuw inchecken, en dus door de grenscontrole moet. Hetzelfde gebeurt als je van terminal moet wisselen en er geen airside-verbinding tussen beide is - je gaat naar buiten en weer door de beveiliging aan de andere kant. Hoe dan ook, een overstap waarvan je dacht dat er geen visum nodig was, kan er plotseling toch een vereisen, dus het loont om te controleren hoe de overstap precies werkt, niet alleen hoe lang die duurt.
 
+![Diagram dat airside-transit vergelijkt, waarbij je na de security blijft en niet door de grenscontrole gaat, al vragen sommige landen toch een transitvisum, met landside-transit, waarbij je de beveiligde zone verlaat, door de grenscontrole gaat en meestal een visum nodig hebt](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/airside-vs-landside-nl.jpg) Airside blijft in de terminal; landside betekent het land binnengaan.
+
 ## Wanneer je zeker een transitvisum nodig hebt
 
 In verschillende gevallen is een transitvisum verplicht, en de vereisten verschillen sterk per nationaliteit en transitland.

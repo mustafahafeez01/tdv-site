@@ -50,6 +50,8 @@ La segunda es la exención de visado. Cuando un destino deja entrar a tu naciona
 
 Así que el pasaporte es tuyo y te acompaña a todas partes. El permiso lo concede cada destino por separado, y puede denegarse aunque tu pasaporte esté en perfecto estado.
 
+![Diagrama comparativo de un pasaporte y una visa: tu propio país emite el pasaporte, que demuestra quién eres y te permite salir de tu país, mientras que el país de destino emite la visa, que te da permiso para entrar y solo sirve para ese país, con una nota de que la mayoría de los viajes necesitan ambos](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-es.jpg) Dos documentos, dos funciones: un pasaporte válido, por sí solo, no es permiso para entrar.
+
 ## Los Tipos de Visa Varían según el Propósito y la Duración
 
 La mayoría de los países emiten visas en estas categorías:

@@ -1,0 +1,48 @@
+{
+ "da": {
+  "template": "cards",
+  "title": "Digital kopi: hvor den virker",
+  "cards": [
+   {
+    "heading": "Normalt fint",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Indtjekning på hotel",
+      "mark": "tick"
+     },
+     {
+      "text": "Flybooking",
+      "mark": "tick"
+     },
+     {
+      "text": "Biludlejning",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Original påkrævet",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Grænsekontrol",
+      "mark": "cross"
+     },
+     {
+      "text": "Boarding hos flyselskabet",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "Kopien er støtten, passet rejser med",
+  "alt": "Diagram over, hvor en digital paskopi virker: normalt fint til indtjekning på hotel, flybooking og biludlejning, men original er påkrævet ved grænsekontrol og boarding hos flyselskabet",
+  "caption": "Kort fortalt – en kopi åbner døre, kun originalen passerer grænser.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

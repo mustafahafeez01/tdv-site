@@ -1,0 +1,47 @@
+{
+ "da": {
+  "template": "cards",
+  "title": "Hvilket ur løber tør først?",
+  "cards": [
+   {
+    "heading": "Pas",
+    "items": [
+     {
+      "text": "Normalt 10 år",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Kørekort",
+    "items": [
+     {
+      "text": "Varierer efter land",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Internationalt kørekort",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "1 år, eller op til 3",
+      "mark": "none"
+     },
+     {
+      "text": "Udløber tidligere, hvis kørekortet gør",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "focal": "Det korteste afgør",
+  "alt": "Diagram, der sammenligner tre dokumenters gyldighedsperioder: pas normalt 10 år, kørekort varierer efter land, og internationalt kørekort 1 år eller op til 3, afkortet hvis kørekortet udløber først, så det korteste afgør",
+  "caption": "Tre dokumenter, tre ure. Tilladelsen er begrænset af det, der løber tør først.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

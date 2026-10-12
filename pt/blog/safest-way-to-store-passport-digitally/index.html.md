@@ -89,6 +89,8 @@ Com Pro, pode sincronizar documentos entre dispositivos configurados na mesma pl
 
 ## Encriptação, conta e custo num relance
 
+![Diagrama comparativo sobre onde deve viver o seu passaporte: o iCloud Photos oferece encriptação ponto a ponto opcional mas precisa de conta e sincronização, o Google Photos não cumpre nenhum dos quatro critérios, um cofre encriptado cumpre ponto a ponto, sem conta, funciona offline e AES-256](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/storage-comparison-pt.jpg) A tabela comparativa acima, redesenhada num só olhar.
+
 | Funcionalidade | iCloud Photos | Google Photos | Aplicação Encriptada |
 |---|---|---|---|
 | Encriptação em repouso | Sim (AES-128) | Sim (AES-128) | Sim (AES-256) |

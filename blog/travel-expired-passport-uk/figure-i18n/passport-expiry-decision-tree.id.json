@@ -1,0 +1,40 @@
+{
+ "id": {
+  "template": "tree",
+  "title": "Bepergian dengan paspor kedaluwarsa",
+  "root": {
+   "heading": "Jenis perjalanan?"
+  },
+  "branches": [
+   {
+    "edge": "Internasional",
+    "edge_mark": "cross",
+    "heading": "Tidak diperbolehkan",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Ajukan perpanjangan darurat"
+     }
+    ]
+   },
+   {
+    "edge": "Domestik",
+    "edge_mark": "question",
+    "heading": "Periksa dengan maskapai Anda",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Hubungi sebelum Anda bepergian"
+     }
+    ]
+   }
+  ],
+  "focal": "Selalu pastikan sebelum keberangkatan",
+  "alt": "Diagram pohon keputusan untuk paspor kedaluwarsa: perjalanan internasional ditandai tidak diperbolehkan dan mengarah ke pengajuan perpanjangan darurat, perjalanan domestik mengarah ke pemeriksaan dengan maskapai Anda dan menghubunginya sebelum bepergian, dengan catatan untuk selalu memastikan sebelum keberangkatan",
+  "caption": "Dua jalan dari paspor kedaluwarsa - dan tidak satu pun berujung di gerbang keberangkatan.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

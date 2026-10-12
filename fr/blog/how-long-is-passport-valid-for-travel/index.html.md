@@ -35,6 +35,8 @@ La période de validité standard d'un passeport pour adulte est de 10 ans à co
 
 Votre date d'expiration exacte est imprimée sur la page de données à côté de votre photo. Cette date est la limite ferme — votre passeport cesse d'être un document de voyage valable n'importe où dans le monde une fois qu'il passe.
 
+![Diagramme de la validité d'un passeport : un passeport adulte dure 10 ans, un passeport enfant 5 ans, et une marge de 6 mois s'ajoute à la fin des deux car de nombreux pays l'exigent](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/passport-validity-timeline-fr.jpg) Deux horloges, un même piège : la marge de 6 mois que de nombreux pays attendent avant votre date d'expiration.
+
 ## "Valide" et "Valide pour votre voyage" sont deux choses différentes
 
 Un passeport peut être techniquement valide — pas expiré — et vous faire refuser l'embarquement. Il y a deux raisons principales pour lesquelles cela se produit.

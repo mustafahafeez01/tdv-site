@@ -30,6 +30,8 @@ Tanggal kedaluwarsa adalah batas akhir yang tegas, dan inilah yang diukur oleh a
 
 Jika Anda hanya mengingat satu hal dari halaman ini, ingatlah ketidaksimetrisan ini: tanggal penerbitan menjelaskan dokumen itu sendiri, sedangkan tanggal kedaluwarsa menjelaskan berapa lama lagi Anda bisa bepergian dengan dokumen itu.
 
+![Diagram halaman data paspor dengan empat kolom berlabel: tanggal penerbitan, tanggal kedaluwarsa, negara penerbit, dan nomor paspor, dengan tanggal kedaluwarsa ditandai sebagai satu-satunya yang benar-benar dihitung oleh masa berlaku dan aturan 6 bulan](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/data-page-figure-id.jpg) Empat kolom, dan hanya satu yang sebenarnya dihitung oleh setiap aturan masuk.
+
 ## Mengapa Paspor Anda Mungkin Tertulis 'Expedition'
 
 Banyak orang mencari arti 'date of expedition' pada paspor, dan jawabannya cukup sederhana dan melegakan: artinya tanggal penerbitan.

@@ -1,0 +1,31 @@
+{
+ "da": {
+  "template": "sequence",
+  "title": "6-måneders-reglen",
+  "subtitle": "Flyselskaber kontrollerer dette ved indtjekning",
+  "steps": [
+   {
+    "text": "Du ankommer"
+   },
+   {
+    "text": "Din rejse"
+   },
+   {
+    "text": "Du flyver hjem"
+   },
+   {
+    "label": "+ 6 måneder",
+    "text": "Dit pas skal stadig være gyldigt herude"
+   }
+  ],
+  "highlight": 3,
+  "note": "De fleste lande regner fra ankomstdagen, nogle fra afrejsedagen",
+  "focal": "Regn fra den seneste dato: den dækker begge",
+  "alt": "Tidslinjediagram over 6-måneders-reglen for pas: du ankommer, din rejse, du flyver hjem, og derefter seks måneder mere, hvor passet skal forblive gyldigt; de fleste lande regner fra ankomstdagen, og nogle fra afrejsedagen, så det dækker begge at regne fra den seneste dato",
+  "caption": "De fleste lande regner de seks måneder fra ankomstdagen – at regne fra den seneste dato dækker dig begge veje.",
+  "placement": {
+   "h2": 2,
+   "para": 3
+  }
+ }
+}

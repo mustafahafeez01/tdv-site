@@ -35,6 +35,8 @@ De standaardgeldigheid voor een paspoort van een volwassene is in de meeste land
 
 Je exacte vervaldatum staat afgedrukt op de gegevenspagina naast je foto. Die datum is de harde grens – je paspoort houdt overal ter wereld op een geldig reisdocument te zijn zodra die datum verstrijkt.
 
+![Diagram van paspoortgeldigheid: een paspoort voor volwassenen loopt 10 jaar, een kinderpaspoort 5, en aan het einde van beide staat een 6 maanden-buffer omdat veel landen die vereisen](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/passport-validity-timeline-nl.jpg) Twee klokken, één addertje: de 6 maanden-buffer die veel landen voor je vervaldatum verwachten.
+
 ## "Geldig" en "geldig voor je reis" zijn twee verschillende dingen
 
 Een paspoort kan technisch geldig zijn – niet verlopen – en toch leiden tot een weigering bij het instappen. Daar zijn twee hoofdredenen voor.

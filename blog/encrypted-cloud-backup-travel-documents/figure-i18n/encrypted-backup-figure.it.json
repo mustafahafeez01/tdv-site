@@ -1,0 +1,41 @@
+{
+ "it": {
+  "template": "tree",
+  "root": {
+   "heading": "Chi ha la chiave?"
+  },
+  "branches": [
+   {
+    "edge": "La loro chiave",
+    "edge_mark": "cross",
+    "heading": "Backup foto",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Leggibile da chiunque riesca a entrare",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "edge": "La tua chiave, resta sul telefono",
+    "edge_mark": "tick",
+    "heading": "Backup cifrato",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Inutile senza la chiave",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Stesso cloud, risposta diversa",
+  "alt": "Diagramma che confronta un backup foto, leggibile sul cloud perché l'azienda ha la chiave, e un backup cifrato, inutile senza la chiave che resta sul tuo telefono",
+  "caption": "Stesso cloud, risposta diversa. Il file sale in entrambi i casi; cambia solo chi può aprirlo.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

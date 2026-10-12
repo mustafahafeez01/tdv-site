@@ -35,6 +35,8 @@ Die standardmäßige Gültigkeitsdauer für einen Reisepass für Erwachsene betr
 
 Ihr genaues Verfallsdatum ist auf der Datenseite neben Ihrem Foto aufgedruckt. Dieses Datum ist die harte Grenze – Ihr Reisepass ist kein gültiges Reisedokument mehr, wenn es diesen Punkt überschreitet.
 
+![Diagramm zur Passgültigkeit: ein Erwachsenenreisepass gilt 10 Jahre, ein Kinderreisepass 5, und am Ende beider steht ein 6-Monats-Puffer, den viele Länder verlangen](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/passport-validity-timeline-de.jpg) Zwei Uhren, ein Haken: der 6-Monats-Puffer, den viele Länder vor dem Ablaufdatum erwarten.
+
 ## "Gültig" und "Gültig für Ihre Reise" sind zwei verschiedene Dinge
 
 Ein Reisepass kann technisch gültig sein – nicht abgelaufen – und Sie trotzdem beim Einchecken ablehnen. Es gibt zwei Hauptgründe dafür.

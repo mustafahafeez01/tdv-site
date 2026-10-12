@@ -53,6 +53,8 @@ Uma carta de consentimento válida deve incluir: o nome completo e data de nasci
 
 **Outros documentos que vale a pena manter acessíveis**
 
+![Diagrama de dez documentos de viagem em família: passaportes, vistos, cartões de identidade, seguro de viagem, reservas, vacinas, bilhete de regresso, certidões de nascimento, carta de consentimento e decisões de guarda, com uma nota para começar 3 ou mais meses antes da viagem](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/travel-docs-checklist-pt.jpg) A lista completa da família - comece a marcar itens três meses antes, não na semana anterior.
+
 - Carta de condução internacional (se estiver a alugar um carro no estrangeiro)
 - Registos médicos ou detalhes de prescrição para condições contínuas
 - Cartão Europeu de Seguro de Doença (EHIC) para viajantes da UE

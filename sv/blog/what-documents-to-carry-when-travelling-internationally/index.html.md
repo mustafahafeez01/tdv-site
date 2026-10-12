@@ -46,6 +46,8 @@ När ett barn reser internationellt med bara en förälder (eller med ingen av f
 
 Det är den mest förbisedda handlingen vid familjeresor, så dubbelkolla innan ni når gaten.
 
+![Delat diagram: i handbagaget bär du passet, visum och tillstånd, boardingkort, och ett samtyckesbrev om det behövs; offline i telefonen förvarar du passuppgifter, försäkringsbrev och hotline, bokningsreferenser, och vaccinationsbevis, eftersom den ena säkerhetskopierar den andra och om väskan går förlorad tar telefonkopian dig hem](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/carry-or-store-figure-sv.jpg) Originalen reser i handbagaget, deras krypterade kopior finns offline i telefonen.
+
 ## Vad ni ska bära med er kontra vad ni ska förvara digitalt
 
 Gränskontrollen vill se originalhandlingar, men om de originalen försvinner är det säkra digitala säkerhetskopior som tar er hem.

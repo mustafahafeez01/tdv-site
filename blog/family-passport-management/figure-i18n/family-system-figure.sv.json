@@ -1,0 +1,28 @@
+{
+ "sv": {
+  "template": "hub",
+  "title": "En familj, ett system",
+  "inputs": [
+   "Pappa",
+   "Mamma",
+   "Barn 1",
+   "Barn 2"
+  ],
+  "hub": {
+   "heading": "Ett krypterat valv"
+  },
+  "outputs": [
+   "Utgångspåminnelser",
+   "Offline-åtkomst",
+   "Krypterad säkerhetskopia"
+  ],
+  "focal": "Barnpass går ut efter 5 år, inte 10",
+  "alt": "Diagram över ett familjepasssystem: fyra pass (pappa, mamma, barn 1, barn 2) flödar in i ett krypterat valv, med utgångspåminnelser, offline-åtkomst och krypterad säkerhetskopia som flödar ut, samt en notering om att barnpass går ut efter 5 år, inte 10",
+  "caption": "Ett familjesystem: alla pass på ett ställe, med automatisk bevakning av varje utgångsdatum",
+  "placement": {
+   "h2": 3,
+   "para": 2,
+   "in_figure_element": true
+  }
+ }
+}

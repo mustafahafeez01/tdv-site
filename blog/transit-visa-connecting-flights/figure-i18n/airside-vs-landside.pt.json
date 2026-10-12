@@ -1,0 +1,52 @@
+{
+ "pt": {
+  "template": "cards",
+  "title": "Airside ou landside?",
+  "cards": [
+   {
+    "heading": "Airside",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Fica depois da segurança",
+      "mark": "dot"
+     },
+     {
+      "text": "Não passa pela imigração",
+      "mark": "dot"
+     },
+     {
+      "text": "Alguns exigem visto de trânsito",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Landside",
+    "items": [
+     {
+      "text": "Sai da zona segura",
+      "mark": "dot"
+     },
+     {
+      "text": "Passa pela imigração",
+      "mark": "dot"
+     },
+     {
+      "text": "Geralmente exige visto",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "ou",
+  "focal": "Verifique o país da escala",
+  "alt": "Diagrama que compara o trânsito airside, onde fica depois da segurança e não passa pela imigração, embora alguns países ainda exijam visto de trânsito, com o trânsito landside, onde sai da zona segura, passa pela imigração e geralmente precisa de visto",
+  "caption": "Airside fica no terminal; landside significa entrar no país.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

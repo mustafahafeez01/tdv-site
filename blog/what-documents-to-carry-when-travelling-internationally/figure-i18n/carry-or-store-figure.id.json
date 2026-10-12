@@ -1,0 +1,59 @@
+{
+ "id": {
+  "template": "cards",
+  "title": "Dibawa, atau disimpan?",
+  "cards": [
+   {
+    "heading": "Di tas tangan Anda",
+    "items": [
+     {
+      "text": "Paspor",
+      "mark": "tick"
+     },
+     {
+      "text": "Visa dan izin masuk",
+      "mark": "tick"
+     },
+     {
+      "text": "Boarding pass",
+      "mark": "tick"
+     },
+     {
+      "text": "Surat izin jika diperlukan",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Offline di ponsel Anda",
+    "items": [
+     {
+      "text": "Detail paspor",
+      "mark": "tick"
+     },
+     {
+      "text": "Polis asuransi dan hotline",
+      "mark": "tick"
+     },
+     {
+      "text": "Referensi pemesanan",
+      "mark": "tick"
+     },
+     {
+      "text": "Sertifikat vaksinasi",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "and",
+  "note": "Satu menjadi cadangan untuk yang lain",
+  "focal": "Jika tas hilang, salinan di ponsel yang membawa Anda pulang",
+  "alt": "Diagram terbagi: di tas tangan Anda bawa paspor, visa dan izin masuk, boarding pass, dan surat izin jika diperlukan; offline di ponsel Anda simpan detail paspor, polis asuransi dan hotline, referensi pemesanan, dan sertifikat vaksinasi, karena satu menjadi cadangan untuk yang lain dan jika tas hilang, salinan di ponsel yang membawa Anda pulang",
+  "caption": "Dokumen asli bepergian di tas tangan Anda; salinan terenkripsinya tersimpan offline di ponsel Anda.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

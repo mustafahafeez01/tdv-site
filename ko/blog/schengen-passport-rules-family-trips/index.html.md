@@ -34,6 +34,8 @@ EU의 요구 사항은 정확합니다. 여권은 솅겐 지역을 떠날 날짜
 
 저희 [6개월 규정](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/) 가이드는 실제로 적용하는 국가를 다룹니다. [여권 유효성 설명서](https://traveldocumentvault.com/ko/blog/how-long-is-passport-valid-for-travel/)는 일반적인 경우를 처리합니다. 우리는 가족이 가장 자주 수학을 미묘하게 틀리게 하는 곳이므로 솅겐에 머물고 있습니다.
 
+![한 가족의 네 여권 만료일을 순서대로 보여주는 다이어그램: 둘째는 2027년, 첫째는 2028년, 엄마는 2030년, 아빠는 2032년까지 유효하며, 가장 빠른 날짜가 여행을 결정한다. 자녀 여권은 10년이 아닌 5년이고, 솅겐은 출국 후 3개월의 여유를 요구한다](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/family-expiry-dates-figure-ko.jpg) 네 개의 여권, 네 개의 시계. 가장 짧은 것이 가족의 실제 기한이 됩니다.
+
 ## 어린이 여권은 더 빠른 시계로 실행됩니다
 
 성인 여권은 일반적으로 10년 지속됩니다. 어린이 여권은 5년만 지속됩니다. 그 비대칭이 많은 다른 세심한 계획이 실패하는 곳입니다.

@@ -1,0 +1,34 @@
+{
+ "es": {
+  "template": "sequence",
+  "title": "Una familia, cuatro fechas de caducidad",
+  "subtitle": "La fecha más temprana decide el viaje",
+  "steps": [
+   {
+    "label": "Hijo 2",
+    "text": "Válido hasta 2027"
+   },
+   {
+    "label": "Hijo 1",
+    "text": "Válido hasta 2028"
+   },
+   {
+    "label": "Mamá",
+    "text": "Válido hasta 2030"
+   },
+   {
+    "label": "Papá",
+    "text": "Válido hasta 2032"
+   }
+  ],
+  "highlight": 0,
+  "note": "Los pasaportes de los niños duran 5 años, no 10. Schengen exige 3 meses de margen tras la salida.",
+  "focal": "Revisa todos los pasaportes el día que reserves",
+  "alt": "Diagrama de las cuatro fechas de caducidad de los pasaportes de una familia, en orden: hijo 2 válido hasta 2027, hijo 1 hasta 2028, mamá hasta 2030, papá hasta 2032; la fecha más temprana decide el viaje, los pasaportes de los niños duran 5 años y no 10, y Schengen exige 3 meses de margen tras la salida",
+  "caption": "Cuatro pasaportes, cuatro relojes: el más corto marca el verdadero plazo de la familia.",
+  "placement": {
+   "h2": 3,
+   "para": 2
+  }
+ }
+}

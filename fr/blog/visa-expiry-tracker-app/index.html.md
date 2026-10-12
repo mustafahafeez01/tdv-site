@@ -37,6 +37,8 @@ Un voyageur entre au Vietnam sur un visa estampillé « valide jusqu'au 30 juin 
 
 Un suivi qui ne surveille que la date de validité d'entrée manque la cause la plus courante de dépassements accidentels: dépasser la durée maximale du séjour après une entrée tout à fait légale. C'est le champ que la plupart des voyageurs ne suivent pas, car la date n'est pas estampillée dans le passeport — vous devez la calculer à partir de la date d'entrée.
 
+![Diagramme des trois horloges d'un visa : validité d'entrée (entrez avant cette date), durée maximale de séjour (combien de temps vous pouvez rester), et nombre d'entrées (unique ou multiple), avec une note que Schengen ajoute une quatrième horloge, la fenêtre glissante 90/180, et qu'un dépassement peut entraîner amendes et interdictions de réentrée](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/visa-three-clocks-figure-fr.jpg) Un visa n'est pas une seule date. Ce sont trois horloges distinctes, et parfois une quatrième.
+
 ## La règle Schengen 90/180 jours
 
 Pour les voyageurs qui visitent plusieurs pays européens, la règle Schengen 90/180 jours est la condition d'entrée la plus largement incomprise dans les voyages internationaux. Les citoyens de pays ayant un accès sans visa à Schengen (y compris le Royaume-Uni, les États-Unis, le Canada et l'Australie, entre autres) peuvent passer un maximum de 90 jours dans l'espace Schengen au cours de toute fenêtre glissante de 180 jours.

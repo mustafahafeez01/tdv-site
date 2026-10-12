@@ -44,6 +44,8 @@ Wenn Sie Ihren Reisepass erneuern, stellt Ihre Passbehörde Ihnen ein neues Doku
 
 So sieht der Zeitplan aus, den Sie einplanen sollten:
 
+![Vergleichsdiagramm: Der Reisepass, mit dem Sie beantragt haben, hält die ETA an dieses Heft gebunden, sodass Sie wie gewohnt reisen, während ein neuer oder erneuerter Reisepass die Bindung nicht übernimmt und vor dem Flug eine neue ETA braucht, und jeder Reisende seine eigene benötigt, auch Kinder](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-de.jpg) Die Genehmigung ist an das Heft gebunden, nicht an Sie – und jeder Reisende trägt seine eigene.
+
 1. Das Ablaufdatum Ihres Reisepasses rückt näher.
 2. Sie beantragen die Erneuerung Ihres Reisepasses in Ihrem Heimatland.
 3. Ihr neuer Reisepass trifft ein (die Bearbeitungszeiten variieren, siehe den [Leitfaden zu den Bearbeitungszeiten bei der Reisepasserneuerung](https://traveldocumentvault.com/de/blog/how-long-does-passport-renewal-take/)).

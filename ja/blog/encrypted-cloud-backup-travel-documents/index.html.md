@@ -32,6 +32,8 @@ Source: https://traveldocumentvault.com/ja/blog/encrypted-cloud-backup-travel-do
 
 つまり、どんなアプリに対しても尋ねるべき問いは短く済みます。**鍵を持っているのは誰か。**マーケティング文句のその他すべては、この答え次第で決まります。
 
+![写真バックアップ(クラウド上で読み取り可能で、鍵を会社が保持する)と暗号化バックアップ(鍵は端末に残り、それがなければ無意味)を比較する図](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/encrypted-backup-figure-ja.jpg) 同じクラウド、違う答え。ファイルはどちらも同じようにアップロードされるが、開けるのが誰かが変わる
+
 ## 回復コードと、当社がリセットできない理由
 
 Travel Document Vaultでは、書類を端末に保存するためのアプリ用アカウントは不要です。任意の[クラウドバックアップ](https://traveldocumentvault.com/ja/cloud-backup/)にはProと、クラウドの暗号鍵を解除する回復コードが必要です。アプリはPINを設定したときに24文字のコードを作成します。暗号化された金庫は当社ではなく、**iPhoneとiPadではご自身のiCloud、Androidではご自身のGoogle Drive**に送られます。

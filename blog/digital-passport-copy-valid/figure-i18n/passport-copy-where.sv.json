@@ -1,0 +1,48 @@
+{
+ "sv": {
+  "template": "cards",
+  "title": "Digital kopia: var den fungerar",
+  "cards": [
+   {
+    "heading": "Vanligtvis okej",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Hotellincheckning",
+      "mark": "tick"
+     },
+     {
+      "text": "Flygbokning",
+      "mark": "tick"
+     },
+     {
+      "text": "Biluthyrning",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Original krävs",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Gränskontroll",
+      "mark": "cross"
+     },
+     {
+      "text": "Ombordstigning",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "Kopian stödjer, passet reser",
+  "alt": "Diagram över var en digital passkopia fungerar: vanligtvis okej för hotellincheckning, flygbokning och biluthyrning, original krävs vid gränskontroll och ombordstigning",
+  "caption": "Kortversionen - en kopia öppnar dörrar, bara originalet passerar gränser.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

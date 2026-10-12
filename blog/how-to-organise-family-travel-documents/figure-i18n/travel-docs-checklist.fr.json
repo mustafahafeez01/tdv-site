@@ -1,0 +1,63 @@
+{
+ "fr": {
+  "template": "cards",
+  "title": "Checklist des documents de voyage en famille",
+  "cards": [
+   {
+    "items": [
+     {
+      "text": "Passeports",
+      "mark": "tick"
+     },
+     {
+      "text": "Visas",
+      "mark": "tick"
+     },
+     {
+      "text": "Cartes d'identité",
+      "mark": "tick"
+     },
+     {
+      "text": "Assurance voyage",
+      "mark": "tick"
+     },
+     {
+      "text": "Réservations",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "items": [
+     {
+      "text": "Vaccinations",
+      "mark": "tick"
+     },
+     {
+      "text": "Billet retour",
+      "mark": "tick"
+     },
+     {
+      "text": "Actes de naissance",
+      "mark": "tick"
+     },
+     {
+      "text": "Lettre de consentement",
+      "mark": "tick"
+     },
+     {
+      "text": "Ordonnances de garde",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "3 mois ou plus avant le départ",
+  "alt": "Diagramme de dix documents de voyage en famille : passeports, visas, cartes d'identité, assurance voyage, réservations, vaccinations, billet retour, actes de naissance, lettre de consentement et ordonnances de garde, avec une note pour commencer 3 mois ou plus avant le départ",
+  "caption": "La liste complète pour la famille : à cocher dès trois mois avant, pas la semaine précédente.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

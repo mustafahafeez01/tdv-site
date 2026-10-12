@@ -1,0 +1,30 @@
+{
+ "nl": {
+  "template": "sequence",
+  "title": "Het 90/180-venster",
+  "subtitle": "Het venster schuift elke dag",
+  "start": "180 dagen geleden",
+  "steps": [
+   {
+    "label": "Reis 1",
+    "text": "30 dagen"
+   },
+   {
+    "label": "Reis 2",
+    "text": "45 dagen"
+   },
+   {
+    "label": "Vandaag",
+    "text": "30 + 45 = 75 dagen gebruikt, dus 15 van je 90 resteren"
+   }
+  ],
+  "highlight": 2,
+  "focal": "Aankomst- en vertrekdag tellen allebei mee",
+  "alt": "Tijdlijndiagram van het Schengen 90/180-rollend venster: van 180 dagen geleden tot vandaag gebruiken twee reizen van 30 en 45 dagen 75 van de 90 dagen, waardoor er 15 overblijven; het venster schuift elke dag en aankomst- en vertrekdag tellen allebei mee",
+  "caption": "Het venster wordt nooit gereset: voor elke dag mogen de voorgaande 180 dagen niet meer dan 90 dagen verblijf bevatten.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  }
+ }
+}

@@ -62,6 +62,8 @@ Archivia una copia fisica — o una foto ad alta qualità delle pagine critiche 
 
 Una carta scritta a mano fa lo stesso lavoro di una stampa: numero di polizza, nome della compagnia di assicurazioni, linea di emergenza. Mettila nel portafoglio del passaporto e sopravvive a una batteria scarica, un telefono perso e una cassaforte dell'hotel che non puoi aprire.
 
+![Diagramma di due telefoni identici affiancati: quello a sinistra si illumina con la polizza assicurativa salvata sul dispositivo, quello a destra è spento, con una rotellina di caricamento e senza segnale](https://traveldocumentvault.com/blog/travel-insurance-documents/saved-vs-searching-figure.jpg) Scaricata e a portata di mano, oppure ancora in una casella di posta che non riesci a raggiungere. La differenza si vede nel momento peggiore.
+
 ### Confronto Archiviazione Documenti
 
 | Posizione di Archiviazione | Accesso Senza Internet | In un'Emergenza | Backup Se Telefono Perso |

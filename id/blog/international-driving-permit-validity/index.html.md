@@ -36,6 +36,8 @@ Izin yang diterbitkan berdasarkan Konvensi Jenewa 1949 berlaku selama satu tahun
 
 Perbedaan ini penting dalam dua hal sekaligus. Perbedaan itu menentukan berapa lama izin Anda berlaku, sekaligus menentukan di negara mana izin itu diakui. Negara yang hanya meratifikasi satu konvensi tidak berkewajiban mengakui izin yang diterbitkan berdasarkan konvensi yang lain, dan itulah sebabnya izin yang berhasil digunakan pada perjalanan tahun lalu bisa ditolak pada perjalanan tahun ini.
 
+![Diagram yang membandingkan tiga masa berlaku dokumen: paspor biasanya 10 tahun, SIM berbeda tiap negara, dan izin mengemudi internasional 1 tahun atau sampai 3, berakhir lebih cepat jika SIM kedaluwarsa dulu, sehingga yang paling pendek yang menentukan](https://traveldocumentvault.com/blog/international-driving-permit-validity/idp-clocks-figure-id.jpg) Tiga dokumen, tiga jam. Izin ini dibatasi oleh yang mana pun yang habis lebih dulu.
+
 | Jenis izin | Berapa lama berlaku | Apa yang membatasinya |
 |---|---|---|
 | **Konvensi Paris 1926** | Satu tahun | Tanggal penerbitan. Jarang dibutuhkan sekarang |

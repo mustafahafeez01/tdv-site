@@ -46,6 +46,8 @@ Ketika seorang anak bepergian internasional hanya dengan satu orang tua (atau ta
 
 Ini dokumen yang paling sering diabaikan dalam perjalanan keluarga, jadi periksa kembali sebelum Anda tiba di gerbang.
 
+![Diagram terbagi: di tas tangan Anda bawa paspor, visa dan izin masuk, boarding pass, dan surat izin jika diperlukan; offline di ponsel Anda simpan detail paspor, polis asuransi dan hotline, referensi pemesanan, dan sertifikat vaksinasi, karena satu menjadi cadangan untuk yang lain dan jika tas hilang, salinan di ponsel yang membawa Anda pulang](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/carry-or-store-figure-id.jpg) Dokumen asli bepergian di tas tangan Anda; salinan terenkripsinya tersimpan offline di ponsel Anda.
+
 ## Apa yang Dibawa versus Apa yang Disimpan Secara Digital
 
 Perbatasan ingin melihat dokumen asli, tapi jika dokumen asli itu hilang, cadangan digital yang aman adalah yang akan membawa Anda pulang.

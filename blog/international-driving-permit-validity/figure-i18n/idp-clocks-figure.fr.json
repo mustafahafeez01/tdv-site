@@ -1,0 +1,47 @@
+{
+ "fr": {
+  "template": "cards",
+  "title": "Quelle horloge s'arrête la première ?",
+  "cards": [
+   {
+    "heading": "Passeport",
+    "items": [
+     {
+      "text": "10 ans, en général",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Permis de conduire",
+    "items": [
+     {
+      "text": "Varie selon le pays",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Permis de conduire international",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "1 an, parfois jusqu'à 3",
+      "mark": "none"
+     },
+     {
+      "text": "Prend fin plus tôt si le permis expire d'abord",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "focal": "Le plus court des trois décide",
+  "alt": "Diagramme comparant trois durées de validité : passeport, 10 ans en général ; permis de conduire, selon le pays ; permis de conduire international, 1 an ou jusqu'à 3, interrompu plus tôt si le permis expire avant, donc le plus court décide",
+  "caption": "Trois documents, trois horloges. Le permis international est plafonné par celle qui s'arrête la première.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

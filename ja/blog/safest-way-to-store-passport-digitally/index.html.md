@@ -89,6 +89,8 @@ Proなら、同じプラットフォーム上で設定済みの端末間で書�
 
 ## 暗号化、アカウント、費用を一目で比較
 
+![パスポートの保管先を比較する図。iCloud Photosはオプションでエンドツーエンド暗号化できるが、アカウントと同期が必要。Google Photosは4つの条件すべてを満たさない。暗号化ボルトはエンドツーエンド暗号化、アカウント不要、オフライン利用、AES-256のすべてを満たす](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/storage-comparison-ja.jpg) 上の比較表を、一目で見られるように描き直したもの
+
 | 機能 | iCloud Photos | Google Photos | 暗号化アプリ |
 |---|---|---|---|
 | 保存中の暗号化 | はい（AES-128） | はい（AES-128） | はい（AES-256） |

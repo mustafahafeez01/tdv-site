@@ -1,0 +1,52 @@
+{
+ "sv": {
+  "template": "matrix",
+  "title": "Var bör ditt pass förvaras?",
+  "columns": [
+   "iCloud Photos",
+   "Google Photos",
+   "Krypterat valv"
+  ],
+  "highlight_col": 2,
+  "rows": [
+   {
+    "label": "Totalsträckskrypterat",
+    "cells": [
+     "valfritt",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "Inget konto krävs",
+    "cells": [
+     "cross",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "Fungerar offline",
+    "cells": [
+     "tick",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "AES-256",
+    "cells": [
+     "valfritt",
+     "cross",
+     "tick"
+    ]
+   }
+  ],
+  "alt": "Jämförelsediagram som frågar var ditt pass bör förvaras: iCloud Photos erbjuder valfri totalsträckskryptering men kräver konto och synk, Google Photos uppfyller inget av de fyra kriterierna, ett krypterat valv uppfyller totalsträckskryptering, inget konto, fungerar offline och AES-256",
+  "caption": "Jämförelsetabellen ovan, återgiven i ett ögonkast.",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

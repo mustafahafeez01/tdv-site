@@ -33,6 +33,8 @@ De fleste lande kræver ikke transitvisum til ren airside-transit, især ved kor
 
 Fælden ligger midt imellem. En mellemlanding, der på papiret ligner airside-transit, kan i praksis stille og roligt blive til landside-transit. Varer din forbindelse natten over, ligger lufthavnshotellet som regel uden for den sikrede zone, så du skal gennem paskontrollen for at hente bagagen og tjekke ind. Det samme sker, hvis du skal skifte terminal, og der ikke er nogen airside-forbindelse mellem dem – du går ud og skal ind gennem sikkerhedskontrollen igen i den anden ende. I begge tilfælde kan en forbindelse, du troede var visumfri, pludselig kræve et visum, så det betaler sig at undersøge, hvordan selve skiftet fungerer i praksis, ikke kun hvor længe det varer.
 
+![Diagram, der sammenligner airside-transit, hvor du bliver efter sikkerhedskontrollen og ikke passerer paskontrol, selvom nogle lande stadig kræver transitvisum, med landside-transit, hvor du forlader den sikrede zone, passerer paskontrol og normalt skal bruge visum](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/airside-vs-landside-da.jpg) Airside bliver i terminalen; landside betyder, at du rejser ind i landet.
+
 ## Når du med sikkerhed skal bruge et transitvisum
 
 Transitvisum er obligatorisk i en række situationer, og kravene varierer betydeligt afhængigt af din nationalitet og transitlandet.

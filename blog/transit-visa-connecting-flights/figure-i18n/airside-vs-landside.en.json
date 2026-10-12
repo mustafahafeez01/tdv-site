@@ -1,0 +1,52 @@
+{
+ "en": {
+  "template": "cards",
+  "title": "Airside or landside?",
+  "cards": [
+   {
+    "heading": "Airside",
+    "tone": "good",
+    "items": [
+     {
+      "text": "You stay past security",
+      "mark": "dot"
+     },
+     {
+      "text": "You do not pass immigration",
+      "mark": "dot"
+     },
+     {
+      "text": "Some countries still need a transit visa",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Landside",
+    "items": [
+     {
+      "text": "You leave the secure zone",
+      "mark": "dot"
+     },
+     {
+      "text": "You pass immigration",
+      "mark": "dot"
+     },
+     {
+      "text": "A visa is usually required",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "or",
+  "focal": "Check the country you connect through",
+  "alt": "Diagram comparing airside transit, where you stay past security and do not pass immigration though some countries still need a transit visa, with landside transit, where you leave the secure zone, pass immigration and usually need a visa",
+  "caption": "Airside stays in the terminal; landside means entering the country.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

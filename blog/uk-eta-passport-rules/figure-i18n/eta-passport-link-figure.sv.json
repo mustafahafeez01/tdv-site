@@ -1,0 +1,42 @@
+{
+ "sv": {
+  "template": "cards",
+  "title": "Ditt ETA är kopplat till ett pass",
+  "cards": [
+   {
+    "heading": "Passet du ansökte med",
+    "tone": "good",
+    "items": [
+     {
+      "text": "ETA:et är kopplat till detta pass"
+     },
+     {
+      "text": "Res som vanligt",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Ett nytt eller förnyat pass",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Kopplingen förs inte över"
+     },
+     {
+      "text": "Ansök om ett nytt ETA innan du flyger"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "note": "En förnyelse bryter kopplingen",
+  "focal": "Alla som reser behöver sitt eget, barn inkluderat",
+  "alt": "Jämförelsediagram: passet du ansökte med håller ETA:et kopplat till det passet så att du reser som vanligt, medan ett nytt eller förnyat pass inte för över kopplingen och behöver ett nytt ETA innan du flyger, och alla som reser behöver sitt eget, barn inkluderat",
+  "caption": "Godkännandet är knutet till passet, inte till dig - och varje resenär har sitt eget.",
+  "placement": {
+   "h2": 4,
+   "para": 3
+  }
+ }
+}

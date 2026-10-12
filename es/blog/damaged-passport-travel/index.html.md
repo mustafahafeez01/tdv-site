@@ -28,6 +28,8 @@ Aquí es donde la mayoría entra en pánico sin necesidad: una esquina doblada e
 
 Lo más crítico es que la zona de lectura mecánica —la franja en blanco y negro en la parte inferior de tu página de datos— tiene que permanecer intacta. Los escáneres fronterizos pueden no ser capaces de leerla una vez dañada.
 
+![Dos pasaportes abiertos uno junto al otro: uno desgastado pero plano y utilizable, el otro con manchas de agua, páginas onduladas y laminación levantada](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Arrugas leves en la portada: aceptable. Daño por agua en la página de datos: un problema.
+
 El motivo por el que esto importa es que **las aerolíneas asumen la responsabilidad si embarcan a alguien con un documento inaceptable.** Si embarcas con un pasaporte dañado y te deniegan la entrada al llegar, las autoridades pueden multar a la aerolínea por haberte transportado. La aerolínea también tiene que cubrir el coste de tu vuelo de vuelta.
 
 Ningún agente de puerta quiere ese papeleo, así que optan decididamente por la prudencia.

@@ -92,6 +92,8 @@ Los grupos familiares deben enviar cada solicitud por separado en lugar de como 
 
 Si eres rechazado y aún necesitas viajar, tu respuesta es solicitar un visado tradicional de larga duración a través de la embajada o consulado relevante, que típicamente permite múltiples entradas y estancias más largas que viajes sin visado. Dado que los requisitos varían significativamente según el destino y tu nacionalidad, contacta la embajada directamente para entender qué necesitarás.
 
+![Diagrama que compara EES y ETIAS: EES ocurre en la frontera, con huellas y foto y sin solicitud previa, y se despliega progresivamente en los puntos de entrada; ETIAS ocurre antes de volar, se solicita en línea con una tarifa, y aún no es obligatorio sin fecha fijada; con el tiempo necesitarás los dos, y ninguno de los dos es un visado](https://traveldocumentvault.com/blog/etias-documents-2026/ees-vs-etias-figure-es.jpg) Dos controles distintos: EES te registra al llegar; ETIAS te autoriza antes de salir.
+
 ## Tu pasaporte y tu seguro siguen importando después de ETIAS
 
 La aprobación de ETIAS no reemplaza tu pasaporte, seguro de viaje, o [requisitos de validez del pasaporte](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/). Todavía necesitas:

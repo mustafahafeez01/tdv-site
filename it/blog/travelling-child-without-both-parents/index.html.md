@@ -46,6 +46,8 @@ Tieni la copia autenticata insieme ai passaporti piuttosto che in un fascicolo s
 
 La risposta pratica resta breve: un documento, tenuto a portata di mano, e una procedura che in genere si conclude in fretta una volta mostrato.
 
+![Albero decisionale che mostra quale documento portare in base a chi non viaggia: una lettera di consenso per l'altro genitore, un provvedimento di affidamento o un'ordinanza del tribunale per un ex senza contatti, una copia del certificato di morte per un genitore deceduto, o il consenso di entrambi più il certificato di nascita quando entrambi i genitori non viaggiano, con la nota di portare sempre con sé il certificato di nascita del minore](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/who-is-missing-figure-it.jpg) Quattro situazioni, quattro documenti, e un certificato di nascita che aiuta in tutte. Questa è la nostra lettura di cosa chiedono più spesso le compagnie aeree e gli agenti di frontiera, non una checklist legale. I requisiti variano in base alla destinazione e alla compagnia, quindi verifica con l'autorità per l'immigrazione della tua destinazione e con la tua compagnia aerea prima di viaggiare.
+
 Questa è la nostra lettura di ciò che compagnie aeree e agenti di frontiera chiedono più spesso, non un elenco di obblighi di legge. I requisiti variano in base alla destinazione e al vettore, quindi verifica con le autorità per l'immigrazione della tua destinazione e con la tua compagnia aerea prima di partire.
 
 ## Un Cognome Diverso da Quello di Tuo Figlio: di Solito Risponde il Certificato di Nascita

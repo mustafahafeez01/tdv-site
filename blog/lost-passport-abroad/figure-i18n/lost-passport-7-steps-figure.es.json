@@ -1,0 +1,38 @@
+{
+ "es": {
+  "template": "sequence",
+  "title": "Pasaporte perdido en el extranjero: 7 pasos",
+  "steps": [
+   {
+    "text": "Confirma que se ha perdido"
+   },
+   {
+    "text": "Presenta una denuncia policial"
+   },
+   {
+    "text": "Contacta con tu embajada"
+   },
+   {
+    "text": "Documento de viaje de emergencia"
+   },
+   {
+    "text": "Notifica a tu asegurador"
+   },
+   {
+    "text": "Revisa la situación de tu visado"
+   },
+   {
+    "text": "Vuelve a casa y luego renuévalo"
+   }
+  ],
+  "highlight": 3,
+  "note": "Antes de todo esto: fotografía tu pasaporte hoy",
+  "focal": "Una copia de seguridad agiliza mucho el paso 4",
+  "alt": "Diagrama de los siete pasos tras perder un pasaporte en el extranjero: confirma que se ha perdido, presenta una denuncia policial, contacta con tu embajada, documento de viaje de emergencia, notifica a tu asegurador, revisa la situación de tu visado, vuelve a casa y luego renuévalo -con una nota para fotografiar tu pasaporte hoy, porque una copia de seguridad agiliza mucho el paso 4",
+  "caption": "Siete pasos tranquilos, en orden, y lo único que hay que hacer hoy, antes de necesitarlos.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

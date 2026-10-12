@@ -30,6 +30,8 @@ Niet iedereen wordt geregistreerd. EU-burgers, inwoners van Schengenlanden en ho
 
 De regel zelf is niet veranderd: je mag maximaal 90 dagen in het Schengengebied verblijven binnen elk voortschrijdend venster van 180 dagen. Dat zijn geen 90 dagen per kalenderjaar, en het venster wordt niet gereset wanneer je vertrekt. Voor elke dag dat je aanwezig bent, mogen de voorgaande 180 dagen niet meer dan 90 dagen verblijf bevatten.
 
+![Tijdlijndiagram van het Schengen 90/180-rollend venster: van 180 dagen geleden tot vandaag gebruiken twee reizen van 30 en 45 dagen 75 van de 90 dagen, waardoor er 15 overblijven; het venster schuift elke dag en aankomst- en vertrekdag tellen allebei mee](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-nl.jpg) Het venster wordt nooit gereset: voor elke dag mogen de voorgaande 180 dagen niet meer dan 90 dagen verblijf bevatten.
+
 Wat wel is veranderd, is de handhaving. Bij paspoortstempels betekende het bewijzen van een overschrijding het ontcijferen van vervaagde inkt, en grenswachters hadden speelruimte. Nu zijn de datums exact, en het systeem signaleert een overschrijding op het moment dat die zich voordoet. Reken op weigering bij je volgende inreis, en in veel gevallen een inreisverbod van één tot vijf jaar, dat autoriteiten vastleggen in het Schengeninformatiesysteem. De foutmarge is van vaag naar nul gegaan.
 
 ## De valkuil: EES handhaaft, het plant niet

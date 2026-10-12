@@ -89,6 +89,8 @@ Travel Document Vault 默认将文档保存在您的手机上。分享和导出�
 
 ## 加密、账户与成本一览
 
+![手绘对比图，询问护照该存放在哪里：iCloud Photos提供可选的端到端加密，但需要账户并同步；Google Photos四项标准均未达到；加密保险库同时满足端到端加密、无需账户、离线可用和AES-256](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/storage-comparison-zh-Hans.jpg) 上方对比表格的一目了然版。
+
 | 功能 | iCloud 照片 | Google 照片 | 加密应用 |
 |---|---|---|---|
 | 静止加密 | 是（AES-128） | 是（AES-128） | 是（AES-256） |

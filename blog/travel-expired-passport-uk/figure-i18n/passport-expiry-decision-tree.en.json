@@ -1,0 +1,40 @@
+{
+ "en": {
+  "template": "tree",
+  "title": "Travelling on an expired passport",
+  "root": {
+   "heading": "Travel type?"
+  },
+  "branches": [
+   {
+    "edge": "International",
+    "edge_mark": "cross",
+    "heading": "Not allowed",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Apply for urgent renewal"
+     }
+    ]
+   },
+   {
+    "edge": "Domestic",
+    "edge_mark": "question",
+    "heading": "Check with your airline",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Call before you travel"
+     }
+    ]
+   }
+  ],
+  "focal": "Always verify before departure",
+  "alt": "Decision tree for an expired passport: international travel is marked not allowed and points to applying for an urgent renewal, domestic travel points to checking with your airline and calling before you travel, with a note to always verify before departure",
+  "caption": "The two paths from an expired passport - and neither of them is the departure gate.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

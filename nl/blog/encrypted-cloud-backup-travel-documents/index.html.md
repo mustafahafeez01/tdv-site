@@ -32,6 +32,8 @@ De andere opzet versleutelt het bestand al op je telefoon, voordat het ergens na
 
 De vraag die je bij elke app zou moeten stellen is kort: **wie heeft de sleutel?** Al het andere in de marketing volgt uit het antwoord daarop.
 
+![Diagram dat een fotoback-up vergelijkt, leesbaar in de cloud waarbij het bedrijf de sleutel heeft, met een versleutelde back-up, onbruikbaar zonder de sleutel die op je telefoon blijft](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/encrypted-backup-figure-nl.jpg) Zelfde cloud, ander antwoord. Het bestand gaat in beide gevallen omhoog; wat verschilt, is wie het kan openen.
+
 ## De herstelcode, en waarom wij hem niet kunnen resetten
 
 Travel Document Vault heeft geen app-account nodig om documenten op je toestel te bewaren. De optionele [Cloud Backup](https://traveldocumentvault.com/nl/cloud-backup/) vereist Pro en je herstelcode om de cloudversleutelingssleutel te ontgrendelen. De app maakt deze code van 24 tekens wanneer je je PIN instelt. De versleutelde kluis gaat vervolgens naar **je eigen iCloud op iPhone en iPad, of je eigen Google Drive op Android**, in plaats van naar ons.

@@ -1,0 +1,49 @@
+{
+ "de": {
+  "template": "tree",
+  "root": {
+   "heading": "Wer reist nicht mit?"
+  },
+  "branches": [
+   {
+    "heading": "Der andere Elternteil",
+    "items": [
+     {
+      "text": "Zustimmungsbrief"
+     }
+    ]
+   },
+   {
+    "heading": "Ein Ex-Partner ohne Kontakt",
+    "items": [
+     {
+      "text": "Sorgerechts- oder Gerichtsbeschluss"
+     }
+    ]
+   },
+   {
+    "heading": "Ein verstorbener Elternteil",
+    "items": [
+     {
+      "text": "Kopie der Sterbeurkunde"
+     }
+    ]
+   },
+   {
+    "heading": "Beide Elternteile",
+    "items": [
+     {
+      "text": "Zustimmung beider, plus Geburtsurkunde"
+     }
+    ]
+   }
+  ],
+  "focal": "Die Geburtsurkunde des Kindes in jedem Fall mitnehmen",
+  "alt": "Entscheidungsbaum dazu, welches Dokument je nach fehlendem Elternteil mitzuführen ist: ein Zustimmungsbrief für den anderen Elternteil, ein Sorgerechts- oder Gerichtsbeschluss für einen Ex-Partner ohne Kontakt, eine Kopie der Sterbeurkunde für einen verstorbenen Elternteil, oder Zustimmung beider plus Geburtsurkunde, wenn beide Elternteile nicht mitreisen, mit dem Hinweis, die Geburtsurkunde des Kindes in jedem Fall mitzunehmen",
+  "caption": "Vier Situationen, vier Dokumente, und eine Geburtsurkunde, die in allen hilft. Das ist unsere Einschätzung, wonach Airlines und Grenzbeamte am häufigsten fragen, keine rechtliche Checkliste. Die Anforderungen variieren je nach Zielort und Fluggesellschaft, prüfen Sie daher vor der Reise die Einreisebehörde Ihres Zielorts und Ihre Airline.",
+  "placement": {
+   "h2": 5,
+   "para": 3
+  }
+ }
+}

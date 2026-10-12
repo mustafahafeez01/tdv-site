@@ -50,6 +50,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/visa-vs-passport/
 
 所以，护照是你自己的，无论去哪里都随身携带。入境许可则由每个目的地分别给予，即便你的护照完好无损，也可能被拒绝。
 
+![护照与签证对比示意图：护照由本国签发，证明您是谁，让您能离开本国；签证由目的地国签发，授予入境许可，仅对该国有效；大多数行程两者都需要](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-zh-Hans.jpg) 两份证件，两种作用——单凭有效护照并不等于获得入境许可。
+
 ## 签证类型因目的和时长而异
 
 大多数国家以这些类别颁发签证：

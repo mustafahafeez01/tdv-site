@@ -1,0 +1,45 @@
+{
+ "fr": {
+  "template": "cards",
+  "title": "L'un vous identifie, l'autre vous admet",
+  "cards": [
+   {
+    "heading": "Passeport",
+    "items": [
+     {
+      "text": "Délivré par votre propre pays"
+     },
+     {
+      "text": "Prouve qui vous êtes"
+     },
+     {
+      "text": "Vous permet de quitter votre pays"
+     }
+    ]
+   },
+   {
+    "heading": "Visa",
+    "items": [
+     {
+      "text": "Délivré par la destination"
+     },
+     {
+      "text": "Accorde la permission d'entrer"
+     },
+     {
+      "text": "Valable pour ce seul pays"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "note": "La plupart des voyages exigent les deux",
+  "focal": "Un passeport valide n'est pas une permission d'entrer",
+  "alt": "Diagramme comparatif d'un passeport et d'un visa : votre propre pays délivre le passeport, qui prouve qui vous êtes et vous permet de quitter votre pays, tandis que la destination délivre le visa, qui accorde la permission d'entrer et ne vaut que pour ce pays, avec une note que la plupart des voyages exigent les deux",
+  "caption": "Deux documents, deux rôles — et un passeport valide, à lui seul, n'est pas une permission d'entrer.",
+  "placement": {
+   "h2": 5,
+   "para": 4
+  }
+ }
+}

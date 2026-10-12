@@ -37,6 +37,8 @@ Seorang pelancong masuk ke Vietnam dengan visa berstempel "berlaku hingga 30 Jun
 
 Pelacak yang hanya memantau tanggal masa berlaku izin masuk akan melewatkan jebakan ini justru: melampaui batas maksimal lama tinggal setelah masuk secara sepenuhnya legal. Ini adalah kolom yang paling sering luput dilacak oleh pelancong, karena tanggalnya tidak tercetak di mana pun dalam paspor, Anda harus menghitungnya sendiri berdasarkan tanggal masuk Anda.
 
+![Diagram tiga jam pada satu visa: masa berlaku masuk (masuk sebelum tanggal ini), masa tinggal maksimum (berapa lama Anda boleh tinggal), dan jumlah kunjungan (kunjungan tunggal atau berkali-kali), dengan catatan bahwa Schengen menambahkan jam keempat, jendela bergulir 90/180, dan overstay bisa berarti denda dan larangan masuk kembali](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/visa-three-clocks-figure-id.jpg) Visa bukan satu tanggal. Ini adalah tiga jam yang terpisah, dan kadang ada jam keempat.
+
 ## Aturan 90/180 Hari Schengen
 
 Bagi pelancong yang mengunjungi beberapa negara Eropa, aturan 90/180 hari Wilayah Schengen adalah salah satu ketentuan masuk yang paling sering disalahpahami dalam perjalanan internasional. Warga negara dengan akses bebas visa ke Schengen (termasuk Inggris, AS, Kanada, dan Australia, di antara banyak negara lain) boleh tinggal maksimal 90 hari di Wilayah Schengen dalam periode bergulir 180 hari mana pun.

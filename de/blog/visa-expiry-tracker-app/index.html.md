@@ -37,6 +37,8 @@ Ein Reisender betritt Vietnam mit einem Visum, auf dem "gültig bis 30. Juni" mi
 
 Ein Tracker, der nur das Einreisegültigkeitsdatum überwacht, verpasst die häufigste Ursache für versehentliche Überschreitungen: Überschreitung der maximalen Aufenthaltsdauer nach einer perfekt legalen Einreise. Dies ist das Feld, das die meisten Reisenden nicht verfolgen, da das Datum nicht im Passstatus gestempelt ist – Sie müssen es aus dem Einreisedatum berechnen.
 
+![Diagramm zu den drei Uhren eines Visums: Einreisegültigkeit (vor diesem Datum einreisen), maximale Aufenthaltsdauer (wie lange Sie bleiben dürfen) und Anzahl der Einreisen (einfach oder mehrfach), mit dem Hinweis, dass Schengen eine vierte hinzufügt, das rollierende 90/180-Fenster, und dass Überschreitungen Bußgelder und Einreiseverbote bedeuten können](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/visa-three-clocks-figure-de.jpg) Ein Visum ist nicht ein Datum. Es sind drei getrennte Uhren, manchmal eine vierte.
+
 ## Die Schengen-90/180-Tage-Regel
 
 Für Reisende, die mehrere europäische Länder besuchen, ist die Schengen-90/180-Tage-Regel die am häufigsten missverstandene Einreisebedingung in der internationalen Reise. Bürger von Ländern mit visumfreiem Zugang zu Schengen (einschließlich Vereinigtes Königreich, USA, Kanada und Australien, unter vielen anderen) dürfen maximal 90 Tage im Schengen-Raum innerhalb eines beliebigen rollierenden 180-Tage-Fensters verbringen.

@@ -1,0 +1,27 @@
+{
+ "fr": {
+  "template": "hub",
+  "inputs": [
+   "Photos",
+   "Cloud",
+   "Notes",
+   "E-mail",
+   "Calendrier"
+  ],
+  "hub": {
+   "heading": "Un seul coffre"
+  },
+  "outputs": [
+   "Rappels d'expiration",
+   "Chiffré",
+   "Hors ligne"
+  ],
+  "focal": "Une application au lieu de cinq",
+  "alt": "Diagramme de cinq applications éparpillées - photos, cloud, notes, e-mail, calendrier - convergeant vers un seul coffre, qui redonne des rappels d'expiration, le chiffrement et l'accès hors ligne : une application au lieu de cinq",
+  "caption": "Ce que le contrôle de 23h impliquait avant — et ce qu'il implique maintenant.",
+  "placement": {
+   "h2": 3,
+   "para": 5
+  }
+ }
+}

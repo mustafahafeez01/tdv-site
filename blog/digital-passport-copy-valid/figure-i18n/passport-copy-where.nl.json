@@ -1,0 +1,48 @@
+{
+ "nl": {
+  "template": "cards",
+  "title": "Digitale kopie: waar werkt het",
+  "cards": [
+   {
+    "heading": "Meestal geen probleem",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Inchecken in het hotel",
+      "mark": "tick"
+     },
+     {
+      "text": "Vluchtboeking",
+      "mark": "tick"
+     },
+     {
+      "text": "Autoverhuur",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Origineel vereist",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Grenscontrole",
+      "mark": "cross"
+     },
+     {
+      "text": "Instappen",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "De kopie ondersteunt, het paspoort reist mee",
+  "alt": "Diagram van waar een digitale paspoortkopie werkt: meestal geen probleem bij inchecken in het hotel, vluchtboeking en autoverhuur; origineel vereist bij grenscontrole en instappen bij de luchtvaartmaatschappij",
+  "caption": "Kort gezegd: een kopie opent deuren, alleen het origineel steekt de grens over.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "nl": {
+  "template": "hub",
+  "title": "Één gezin, één systeem",
+  "inputs": [
+   "Papa",
+   "Mama",
+   "Kind 1",
+   "Kind 2"
+  ],
+  "hub": {
+   "heading": "Één versleutelde kluis"
+  },
+  "outputs": [
+   "Vervalherinneringen",
+   "Offline toegang",
+   "Versleutelde back-up"
+  ],
+  "focal": "Paspoorten van kinderen verlopen na 5 jaar, niet 10",
+  "alt": "Diagram van één gezinspaspoortsysteem: vier paspoorten (Papa, Mama, Kind 1, Kind 2) die binnenkomen in één versleutelde kluis, met vervalherinneringen, offline toegang en versleutelde back-up die eruit komen, en een aantekening dat paspoorten van kinderen na 5 jaar verlopen, niet 10",
+  "caption": "Eén gezinssysteem: elk paspoort op één plek, met automatische controle van elke vervaldatum",
+  "placement": {
+   "h2": 3,
+   "para": 2,
+   "in_figure_element": true
+  }
+ }
+}

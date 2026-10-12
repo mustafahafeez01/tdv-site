@@ -53,6 +53,8 @@ Een geldige toestemmingsverklaring bevat: de volledige naam en geboortedatum van
 
 **Andere documenten die het waard zijn om bij de hand te hebben**
 
+![Checklistdiagram van tien reisdocumenten voor het gezin: paspoorten, visa, ID-kaarten, reisverzekering, boekingen, vaccinaties, retourticket, geboorteaktes, toestemmingsbrief en voogdijbeschikkingen, met een aantekening om 3+ maanden voor vertrek te beginnen](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/travel-docs-checklist-nl.jpg) De volledige gezinslijst - begin drie maanden van tevoren met afvinken, niet de week ervoor.
+
 - Internationaal rijbewijs (als je in het buitenland een auto huurt)
 - Medische dossiers of receptgegevens voor doorlopende behandelingen
 - Europese zorgpas (EHIC) voor EU-reizigers

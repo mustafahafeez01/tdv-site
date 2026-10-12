@@ -32,6 +32,8 @@ Esta regra aplica-se a todas as viagens internacionais — voos para a Europa ou
 
 A única exceção é um documento de viagem de emergência britânico, emitido pelo Ministério dos Negócios Estrangeiros quando já está no estrangeiro numa emergência genuína, e mesmo assim existe apenas para o levar a casa — não para permitir viagens adicionais.
 
+![Árvore de decisão para um passaporte expirado: a viagem internacional está marcada como não permitida e aponta para pedir uma renovação urgente, a viagem nacional aponta para verificar com a companhia aérea e ligar antes de viajar, com uma nota para verificar sempre antes da partida](https://traveldocumentvault.com/blog/travel-expired-passport-uk/passport-expiry-decision-tree-pt.jpg) Os dois caminhos a partir de um passaporte expirado - e nenhum deles passa pela porta de embarque.
+
 ## Pode Reservar Férias com um Passaporte Expirado?
 
 Reservar não é o mesmo que embarcar.

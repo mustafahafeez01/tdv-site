@@ -89,6 +89,8 @@ Dengan Pro, Anda bisa menyinkronkan dokumen antarperangkat yang sudah dikonfigur
 
 ## Enkripsi, Akun, dan Biaya dalam Sekilas
 
+![Diagram perbandingan tentang di mana seharusnya paspor Anda tersimpan: iCloud Photos menawarkan enkripsi end-to-end opsional tapi butuh akun dan sinkronisasi, Google Photos tidak memenuhi satu pun dari keempat kriteria, vault terenkripsi memenuhi end-to-end, tanpa akun, berfungsi offline, dan AES-256](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/storage-comparison-id.jpg) Tabel perbandingan di atas, digambar ulang agar mudah dilihat.
+
 | Fitur | iCloud Photos | Google Photos | Aplikasi terenkripsi |
 |---|---|---|---|
 | Enkripsi saat disimpan | Ya (AES-128) | Ya (AES-128) | Ya (AES-256) |

@@ -37,6 +37,8 @@ En resenär reser in i Vietnam på ett visum stämplat "giltigt till 30 juni" me
 
 En bevakning som bara följer inresans giltighetsdatum missar precis den här fällan: att överskrida den maximala vistelsetiden efter en helt laglig inresa. Det är det fält som flest resenärer missar att bevaka, eftersom datumet inte är stämplat någonstans i passet – du måste själv räkna ut det utifrån ditt eget inresedatum.
 
+![Diagram över de tre klockorna på ett visum: inresans giltighet (resa in före detta datum), maximal vistelsetid (hur länge du får stanna), och antal inresor (enkel eller multipel inresa), med en notering om att Schengen lägger till en fjärde, det rullande 90/180-fönstret, och att overstay kan innebära böter och inreseförbud](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/visa-three-clocks-figure-sv.jpg) Ett visum är inte ett datum. Det är tre separata klockor, och ibland en fjärde.
+
 ## 90/180-dagarsregeln för Schengen
 
 För resenärer som besöker flera europeiska länder är Schengenområdets 90/180-dagarsregel ett av de mest missförstådda inresevillkoren inom internationellt resande. Medborgare i länder med visumfri tillgång till Schengen (bland andra Storbritannien, USA, Kanada och Australien) får vistas högst 90 dagar i Schengenområdet under en rullande period på 180 dagar.

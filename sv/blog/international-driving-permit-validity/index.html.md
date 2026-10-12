@@ -36,6 +36,8 @@ Ett tillstånd utfärdat enligt 1949 års Genèvekonvention gäller i ett år. E
 
 Uppdelningen spelar roll på två sätt. Den avgör hur länge ditt tillstånd gäller, och den avgör var tillståndet godtas. Ett land som bara har ratificerat en av konventionerna är inte skyldigt att erkänna ett tillstånd utfärdat enligt den andra, vilket är hur ett tillstånd som fungerade på förra årets resa blir avvisat på den här.
 
+![Diagram som jämför tre handlingars giltighetstider: pass vanligtvis 10 år, körkort varierar mellan länder, och internationellt körkort 1 år eller upp till 3, avkortat om körkortet går ut först, så den kortaste avgör](https://traveldocumentvault.com/blog/international-driving-permit-validity/idp-clocks-figure-sv.jpg) Tre handlingar, tre klockor. Tillståndet begränsas av vilken av dem som tar slut först.
+
 | Typ av tillstånd | Hur länge det gäller | Vad som begränsar det |
 |---|---|---|
 | **1926 års Pariskonvention** | Ett år | Utfärdandedatumet. Behövs sällan numera |

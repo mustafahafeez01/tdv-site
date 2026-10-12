@@ -1,0 +1,49 @@
+{
+ "nl": {
+  "template": "tree",
+  "title": "Verlengen: kun je nog reizen?",
+  "root": {
+   "heading": "Heb je het paspoort nog in handen?"
+  },
+  "branches": [
+   {
+    "edge": "Ja",
+    "edge_mark": "tick",
+    "heading": "Reis erop zolang het geldig blijft",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Amerikaanse verlenging per post"
+     },
+     {
+      "text": "Britse digitale verlenging"
+     }
+    ]
+   },
+   {
+    "edge": "Nee",
+    "edge_mark": "cross",
+    "heading": "Ingeleverd: je wacht op het nieuwe",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Britse postale verlenging"
+     },
+     {
+      "text": "Australië"
+     },
+     {
+      "text": "Canada"
+     }
+    ]
+   }
+  ],
+  "focal": "Geen land laat je internationaal vliegen zonder paspoort in handen",
+  "alt": "Beslisboom: heb je het paspoort nog in handen? Ja - reis erop zolang het geldig blijft (Amerikaanse verlenging per post, Britse digitale verlenging). Nee - ingeleverd, je wacht op het nieuwe (Britse postale verlenging, Australië, Canada). Geen land laat je internationaal vliegen zonder paspoort in handen",
+  "caption": "Eén vraag beslist alles: of je oude paspoort nog in je bezit is.",
+  "placement": {
+   "h2": 2,
+   "para": 2
+  }
+ }
+}

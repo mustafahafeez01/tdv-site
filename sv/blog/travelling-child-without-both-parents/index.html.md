@@ -46,6 +46,8 @@ Förvara den bestyrkta kopian tillsammans med passen snarare än i en separat p�
 
 Det praktiska svaret förblir kort: ett dokument, nära till hands, och en process som i regel går snabbt vidare när det väl har visats upp.
 
+![Beslutsträd som visar vilken handling som ska tas med beroende på vem som inte reser: ett samtyckesbrev för den andra föräldern, ett vårdnads- eller domstolsbeslut för en ex-partner utan kontakt, en kopia av dödsattesten för en förälder som har avlidit, eller samtycke från båda plus ett födelsebevis när båda föräldrarna inte reser, med en notering om att ta med barnets födelsebevis i båda fallen](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/who-is-missing-figure-sv.jpg) Fyra situationer, fyra handlingar, och ett födelsebevis som hjälper i alla. Det här är vår tolkning av vad flygbolag och gränstjänstemän oftast efterfrågar, inte en juridisk checklista. Kraven varierar beroende på resmål och flygbolag, så kontrollera resmålets migrationsmyndighet och ditt flygbolag innan du reser.
+
 Det här är vår tolkning av vad flygbolag och gränspolis oftast frågar efter, inte en juridisk checklista. Kraven varierar mellan destinationer och flygbolag – kontrollera därför med destinationens migrationsmyndighet och ditt flygbolag före resan.
 
 ## Ett Annat Efternamn än Ditt Barns: Födelsebeviset ger oftast svaret

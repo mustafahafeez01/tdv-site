@@ -1,0 +1,64 @@
+{
+ "ja": {
+  "template": "cards",
+  "title": "パスポート写真が却下される理由",
+  "cards": [
+   {
+    "heading": "却下",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "頭の後ろの影",
+      "mark": "cross"
+     },
+     {
+      "text": "笑顔",
+      "mark": "cross"
+     },
+     {
+      "text": "メガネの反射",
+      "mark": "cross"
+     },
+     {
+      "text": "髪が目にかかる",
+      "mark": "cross"
+     },
+     {
+      "text": "柄のある背景",
+      "mark": "cross"
+     },
+     {
+      "text": "近すぎる撮影",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "合格",
+    "tone": "good",
+    "items": [
+     {
+      "text": "無地の背景",
+      "mark": "tick"
+     },
+     {
+      "text": "無表情",
+      "mark": "tick"
+     },
+     {
+      "text": "均一な光",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "正確なサイズはパスポート当局が公表する",
+  "alt": "却下される6枚のパスポート写真(頭の後ろの影、笑顔、メガネの反射、髪が目にかかる、柄のある背景、近すぎる撮影)と、合格する1枚(無地の背景、無表情、均一な光)を並べた図",
+  "caption": "写真が送り返される6つの理由と、通過する一つの条件",
+  "placement": {
+   "h2": 6,
+   "para": 0
+  }
+ }
+}

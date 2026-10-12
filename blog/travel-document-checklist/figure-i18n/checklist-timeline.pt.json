@@ -1,0 +1,30 @@
+{
+ "pt": {
+  "template": "sequence",
+  "title": "Quatro pontos, da reserva ao embarque",
+  "steps": [
+   {
+    "label": "Reserva",
+    "text": "Verifique as datas de validade"
+   },
+   {
+    "label": "3 meses antes",
+    "text": "Renove se necessário"
+   },
+   {
+    "label": "1 mês antes",
+    "text": "Confirme e consolide"
+   },
+   {
+    "label": "Noite anterior",
+    "text": "Verificação final"
+   }
+  ],
+  "alt": "Diagrama cronológico de verificações de documentos de viagem: verifique as datas de validade na reserva, renove se necessário três meses antes, confirme e consolide um mês antes, verificação final na noite anterior",
+  "caption": "Quatro pontos de controlo entre a reserva e o embarque - cada um pequeno se começar com antecedência.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

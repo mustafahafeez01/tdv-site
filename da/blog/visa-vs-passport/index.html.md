@@ -50,6 +50,8 @@ Den anden er visumfri rejse. Når en destination lader dit statsborgerskab komme
 
 Paset er altså dit og følger dig overalt. Tilladelsen gives separat af hver destination og kan nægtes, selv når dit pas er i perfekt stand.
 
+![Sammenligningsdiagram af et pas og et visum: dit eget land udsteder passet, det beviser, hvem du er, og lader dig rejse ud fra dit hjemland, mens destinationen udsteder visummet, som giver tilladelse til indrejse og kun gælder for det ene land, med en note om, at de fleste rejser kræver begge](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-da.jpg) To dokumenter, to opgaver – og et gyldigt pas alene er ikke tilladelse til indrejse.
+
 ## Visumtyper varierer efter formål og varighed
 
 De fleste lande udsteder visum i disse kategorier:

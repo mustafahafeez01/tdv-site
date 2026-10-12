@@ -1,0 +1,52 @@
+{
+ "fr": {
+  "template": "cards",
+  "title": "Carte d'identité ou passeport ?",
+  "cards": [
+   {
+    "heading": "La carte d'identité suffit",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Voyage dans l'UE et l'EEE",
+      "mark": "tick"
+     },
+     {
+      "text": "La Suisse aussi",
+      "mark": "tick"
+     },
+     {
+      "text": "Carte valide le jour du voyage",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Prenez le passeport",
+    "items": [
+     {
+      "text": "La plupart des voyages hors Europe",
+      "mark": "dot"
+     },
+     {
+      "text": "Carte endommagée ou illisible",
+      "mark": "dot"
+     },
+     {
+      "text": "Votre compagnie aérienne l'exige",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "ou",
+  "focal": "Deux documents, deux dates d'expiration",
+  "alt": "Diagramme comparant quand une carte d'identité nationale suffit, pour voyager dans l'UE, l'EEE et la Suisse, et quand prendre le passeport : la plupart des voyages hors Europe, une carte endommagée, ou une compagnie aérienne qui l'exige",
+  "caption": "Dans l'UE et l'EEE, la carte suffit généralement ; hors d'Europe, prenez le passeport.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

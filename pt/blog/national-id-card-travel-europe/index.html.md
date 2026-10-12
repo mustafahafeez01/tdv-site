@@ -36,6 +36,8 @@ Alguns estados-membros da UE têm acordos bilaterais com certos países fora da 
 
 Dentro da Europa, alguns países têm acordos bilaterais que alargam a aceitação do cartão de identidade para além do quadro padrão da UE. Estes acordos existem e podem ser complexos — por isso é mais simples levar o passaporte junto com o cartão de identidade sempre que viaja fora do seu país de origem, mesmo que a lei diga que o cartão sozinho chega.
 
+![Diagrama que compara quando um cartão de identidade nacional geralmente serve, para viagens dentro da UE, do EEE e da Suíça, com quando levar o passaporte: a maioria das viagens fora da Europa, um cartão danificado, ou uma companhia aérea que pede um](https://traveldocumentvault.com/blog/national-id-card-travel-europe/id-card-or-passport-pt.jpg) Dentro da UE e do EEE o cartão geralmente serve; fora da Europa, leve o passaporte.
+
 ## O que verificar no cartão antes de viajar
 
 Uma data de validade correta é necessária, mas não suficiente. Os agentes de fronteira são treinados para recusar documentos que não conseguem ler com clareza. Antes de fazer as malas, inspecione o seu cartão da mesma forma que os agentes de fronteira o farão:

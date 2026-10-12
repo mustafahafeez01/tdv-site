@@ -53,6 +53,8 @@ Et gyldigt samtykkebrev bør indeholde: barnets fulde navn og fødselsdato, begg
 
 **Andre dokumenter, det er værd at have ved hånden**
 
+![Tjeklistediagram over ti familierejsedokumenter: pas, visa, ID-kort, rejseforsikring, bookinger, vaccinationer, returbillet, fødselsattester, samtykkebrev og forældremyndighedsafgørelser, med en note om at starte 3+ måneder før afrejse](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/travel-docs-checklist-da.jpg) Hele familielisten – begynd at tjekke af tre måneder før, ikke ugen inden.
+
 - Internationalt kørekort (hvis I lejer bil i udlandet)
 - Journaler eller receptoplysninger for igangværende behandlinger
 - Det Europæiske Sygesikringskort (EHIC) for EU-rejsende

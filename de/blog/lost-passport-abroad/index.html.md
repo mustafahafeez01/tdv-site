@@ -28,6 +28,8 @@ Eine Kopie auf Ihrem Telefon ist ein Nachweis, kein Ausweisdokument.
 
 Es lohnt sich, vorab zu wissen, [wo eine digitale Passkopie akzeptiert wird und wo Sie weiterhin das Original benötigen](https://traveldocumentvault.com/de/blog/digital-passport-copy-valid/).
 
+![Diagramm der sieben Schritte nach einem im Ausland verlorenen Reisepass: bestätigen, dass er wirklich weg ist, Polizeianzeige erstatten, Botschaft kontaktieren, Notfallreisedokument, Versicherer benachrichtigen, Visasituation prüfen, Heimreise dann ersetzen, mit dem Hinweis, den Reisepass noch heute zu fotografieren, weil eine Sicherungskopie Schritt vier deutlich schneller macht](https://traveldocumentvault.com/blog/lost-passport-abroad/lost-passport-7-steps-figure-de.jpg) Sieben ruhige Schritte, in der richtigen Reihenfolge – und die eine Sache, die Sie heute tun sollten, bevor Sie sie je brauchen.
+
 ## Schritt 1: Bestätigen Sie, dass der Pass wirklich weg ist
 
 Prüfen Sie überall, bevor Sie das Schlimmste annehmen – Jackentaschen, jedes Abteil der Reisetasche, Hotelsafe, das letzte Taxi oder Restaurant. Wenn er wirklich weg oder gestohlen ist, fahren Sie mit den verbleibenden Schritten ohne Verzögerung fort.

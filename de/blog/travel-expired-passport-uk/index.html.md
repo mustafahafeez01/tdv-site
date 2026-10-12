@@ -32,6 +32,8 @@ Diese Regel gilt für alle internationalen Reisen – Flüge nach Europa oder F�
 
 Die einzige Ausnahme ist ein britisches Notfalltravelsdokument, ausgestellt vom Foreign Office, wenn Sie bereits im Ausland in einem echten Notfall sind, und selbst dann existiert es nur, um Sie nach Hause zu bringen – nicht um weitere Reisen zu ermöglichen.
 
+![Entscheidungsbaum für einen abgelaufenen Reisepass: internationale Reisen sind als nicht erlaubt markiert und führen zur dringenden Erneuerung, inländische Reisen führen zur Nachfrage bei der Airline und dazu, vor der Reise anzurufen, mit dem Hinweis, immer vor der Abreise zu bestätigen](https://traveldocumentvault.com/blog/travel-expired-passport-uk/passport-expiry-decision-tree-de.jpg) Die zwei Wege ab einem abgelaufenen Reisepass – und keiner davon führt zum Gate.
+
 ## Können Sie mit einem abgelaufenen Pass einen Urlaub buchen?
 
 Buchen ist nicht dasselbe wie Boarding.

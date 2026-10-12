@@ -1,0 +1,48 @@
+{
+ "de": {
+  "template": "cards",
+  "title": "Digitale Kopie: wo sie funktioniert",
+  "cards": [
+   {
+    "heading": "In der Regel kein Problem",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Hotel-Check-in",
+      "mark": "tick"
+     },
+     {
+      "text": "Flugbuchung",
+      "mark": "tick"
+     },
+     {
+      "text": "Mietwagen",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Original erforderlich",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Grenzkontrolle",
+      "mark": "cross"
+     },
+     {
+      "text": "Boarding",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "Die Kopie unterstützt, der Reisepass reist",
+  "alt": "Diagramm dazu, wo eine digitale Reisepasskopie funktioniert: in der Regel kein Problem bei Hotel-Check-in, Flugbuchung und Mietwagen, Original erforderlich bei Grenzkontrolle und Boarding",
+  "caption": "Kurz gesagt – eine Kopie öffnet Türen, nur das Original überquert Grenzen.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

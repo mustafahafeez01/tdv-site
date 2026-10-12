@@ -44,6 +44,8 @@ När du förnyar passet utfärdar din passmyndighet en ny handling med ett nytt 
 
 Så här ser tidslinjen ut att planera efter:
 
+![Jämförelsediagram: passet du ansökte med håller ETA:et kopplat till det passet så att du reser som vanligt, medan ett nytt eller förnyat pass inte för över kopplingen och behöver ett nytt ETA innan du flyger, och alla som reser behöver sitt eget, barn inkluderat](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-sv.jpg) Godkännandet är knutet till passet, inte till dig - och varje resenär har sitt eget.
+
 1. Passets utgångsdatum närmar sig.
 2. Du ansöker om att förnya passet i ditt hemland.
 3. Ditt nya pass anländer (handläggningstiderna varierar, se [guiden om handläggningstider för passförnyelse](https://traveldocumentvault.com/sv/blog/how-long-does-passport-renewal-take/)).

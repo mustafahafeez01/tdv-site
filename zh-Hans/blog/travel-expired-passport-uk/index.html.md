@@ -32,6 +32,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-expired-passport-uk/
 
 唯一的例外是英国应急旅行证件，由外交部在您已经在海外处于真正紧急情况下颁发，即使如此它的存在也只是为了让您返回——而不是允许进一步旅行。
 
+![护照过期决策树示意图：国际旅行标注为不允许，指向申请紧急续签；国内旅行指向向航空公司核实并出行前先致电确认，提示出发前务必核实](https://traveldocumentvault.com/blog/travel-expired-passport-uk/passport-expiry-decision-tree-zh-Hans.jpg) 护照过期后的两条路径——都通不到登机口。
+
 ## 护照过期后还能预订假期吗？
 
 预订和登机是两回事。

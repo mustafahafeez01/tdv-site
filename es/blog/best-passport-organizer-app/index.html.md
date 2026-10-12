@@ -33,6 +33,8 @@ Ninguno de estos enfoques es universalmente "incorrecto", pero para documentos d
 
 Una brecha de una aplicación en el dispositivo no filtra nada de sus servidores —no hay nada allí para filtrarse.
 
+![Diagrama que compara los dos modelos de almacenamiento de una app organizadora de pasaportes: en el dispositivo tus datos se quedan contigo, la subida a la nube implica confiar en el servidor, y en el dispositivo también funciona sin conexión](https://traveldocumentvault.com/blog/best-passport-organizer-app/app-storage-compare-es.jpg) La única decisión de arquitectura que determina todo lo demás en una app de pasaportes.
+
 ## Estas funciones deciden si la aplicación merece la pena
 
 ### El tiempo de anticipación del recordatorio es el ajuste que merece la pena personalizar

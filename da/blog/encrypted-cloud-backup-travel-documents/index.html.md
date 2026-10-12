@@ -32,6 +32,8 @@ Den anden opsætning blander filen på din telefon, før den sendes nogen steder
 
 Så spørgsmålet, det er værd at stille til enhver app, er kort: **hvem har nøglen?** Alt andet i markedsføringen følger af svaret.
 
+![Diagram, der sammenligner en fotobackup, som kan læses i skyen, fordi virksomheden har nøglen, med en krypteret backup, som er ubrugelig uden nøglen, der forbliver på din telefon](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/encrypted-backup-figure-da.jpg) Samme sky, forskelligt svar. Filen bliver uploadet begge veje; det, der ændrer sig, er, hvem der kan åbne den.
+
 ## Gendannelseskoden – og hvorfor vi ikke kan nulstille den
 
 Travel Document Vault kræver ingen appkonto for at gemme dokumenter på din enhed. Valgfri [cloud-backup](https://traveldocumentvault.com/da/cloud-backup/) kræver Pro og din gendannelseskode for at låse krypteringsnøglen til skyen op. Appen opretter denne kode på 24 tegn, når du opsætter din PIN. Det krypterede arkiv sendes derefter til **din egen iCloud på iPhone og iPad, eller din egen Google Drive på Android** – ikke til os.

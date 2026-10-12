@@ -1,0 +1,31 @@
+{
+ "en": {
+  "template": "sequence",
+  "title": "The 6-month rule",
+  "subtitle": "Airlines check this at check-in",
+  "steps": [
+   {
+    "text": "You arrive"
+   },
+   {
+    "text": "Your trip"
+   },
+   {
+    "text": "You fly home"
+   },
+   {
+    "label": "+ 6 months",
+    "text": "Your passport must still be valid out here"
+   }
+  ],
+  "highlight": 3,
+  "note": "Most countries count from the day you arrive, some from the day you leave",
+  "focal": "Count from the later date: it covers both",
+  "alt": "Timeline diagram of the 6-month passport rule: you arrive, your trip, you fly home, then six more months through which the passport must stay valid; most countries count from the day you arrive and some from the day you leave, so counting from the later date covers both",
+  "caption": "Most countries count the six months from the day you arrive - counting from the later date covers you either way.",
+  "placement": {
+   "h2": 2,
+   "para": 3
+  }
+ }
+}

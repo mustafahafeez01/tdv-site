@@ -1,0 +1,34 @@
+{
+ "fr": {
+  "template": "sequence",
+  "title": "Une famille, quatre dates d'expiration",
+  "subtitle": "La date la plus proche décide du voyage",
+  "steps": [
+   {
+    "label": "Enfant 2",
+    "text": "Valide jusqu'en 2027"
+   },
+   {
+    "label": "Enfant 1",
+    "text": "Valide jusqu'en 2028"
+   },
+   {
+    "label": "Maman",
+    "text": "Valide jusqu'en 2030"
+   },
+   {
+    "label": "Papa",
+    "text": "Valide jusqu'en 2032"
+   }
+  ],
+  "highlight": 0,
+  "note": "Les passeports d'enfants durent 5 ans, pas 10. Schengen exige 3 mois de validité restante après le retour.",
+  "focal": "Vérifiez chaque passeport le jour de la réservation",
+  "alt": "Diagramme des quatre dates d'expiration d'une famille, dans l'ordre : enfant 2 valide jusqu'en 2027, enfant 1 jusqu'en 2028, maman jusqu'en 2030, papa jusqu'en 2032 ; la date la plus proche décide du voyage, les passeports d'enfants durent 5 ans et non 10, et Schengen exige 3 mois de validité restante après le retour",
+  "caption": "Quatre passeports, quatre horloges — et la plus courte fixe la vraie limite de la famille.",
+  "placement": {
+   "h2": 3,
+   "para": 2
+  }
+ }
+}

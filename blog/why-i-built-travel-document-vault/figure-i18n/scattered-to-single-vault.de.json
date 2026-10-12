@@ -1,0 +1,27 @@
+{
+ "de": {
+  "template": "hub",
+  "inputs": [
+   "Fotos",
+   "Cloud",
+   "Notizen",
+   "E-Mail",
+   "Kalender"
+  ],
+  "hub": {
+   "heading": "Ein Tresor"
+  },
+  "outputs": [
+   "Ablauferinnerungen",
+   "Verschlüsselt",
+   "Offline"
+  ],
+  "focal": "Eine App statt fünf",
+  "alt": "Diagramm zu fünf verstreuten Apps, Fotos, Cloud, Notizen, E-Mail, Kalender, die in einem Tresor zusammenlaufen, der Ablauferinnerungen, Verschlüsselung und Offline-Zugriff zurückgibt: eine App statt fünf",
+  "caption": "Was die Kontrolle um 23 Uhr früher bedeutete – und was sie jetzt bedeutet.",
+  "placement": {
+   "h2": 3,
+   "para": 5
+  }
+ }
+}

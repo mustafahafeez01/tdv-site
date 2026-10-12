@@ -31,6 +31,8 @@ De logica is simpel: landen willen zekerheid dat je je visum niet overschrijdt e
 
 **De regel is niet universeel.** Elk land stelt zijn eigen voorwaarden, en de vereisten kunnen verschillen op basis van je nationaliteit. Een bilaterale overeenkomst tussen twee landen kan de regel laten vervallen voor burgers van het ene land, maar niet van het andere. Dat maakt het zo makkelijk om het mis te hebben zonder het voor elke reis te controleren.
 
+![Tijdlijndiagram van de 6 maanden-paspoortregel: je komt aan, je reis, je vliegt naar huis, en dan nog zes maanden waarin het paspoort geldig moet blijven; de meeste landen tellen vanaf de dag van aankomst en sommige vanaf de dag van vertrek, dus tellen vanaf de latere datum dekt beide](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/six-month-rule-figure-nl.jpg) De meeste landen tellen de zes maanden vanaf de dag dat je aankomt - tellen vanaf de latere datum dekt je in elk geval.
+
 ## Kun je reizen met een paspoort dat over 6 maanden verloopt?
 
 Soms wel. Als je bestemming alleen vereist dat je paspoort geldig is voor de duur van je verblijf, is vijf maanden geldigheid meestal genoeg om binnen te komen. Het Verenigd Koninkrijk werkt zo voor de meeste bezoekers, en Schengenlanden vragen doorgaans drie maanden na je geplande vertrek in plaats van zes.

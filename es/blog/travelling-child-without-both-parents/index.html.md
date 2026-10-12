@@ -46,6 +46,8 @@ Guarda la copia certificada con tus pasaportes en lugar de en una carpeta aparte
 
 La respuesta práctica sigue siendo breve: un documento, guardado a mano, y un trámite que, una vez mostrado, suele avanzar rápido.
 
+![Árbol de decisión que muestra qué documento llevar según quién no viaja: una carta de consentimiento para el otro progenitor, una orden de custodia o resolución judicial para un ex sin contacto, una copia del certificado de defunción para un progenitor que ha fallecido, o consentimiento de ambos más certificado de nacimiento cuando ninguno de los dos progenitores viaja, con una nota para llevar el certificado de nacimiento del menor en cualquier caso](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/who-is-missing-figure-es.jpg) Cuatro situaciones, cuatro documentos, y un certificado de nacimiento que ayuda en todas ellas. Esto es nuestra interpretación de lo que suelen pedir las aerolíneas y los agentes de fronteras, no una lista legal. Los requisitos varían según el destino y la compañía, así que consulta a la autoridad de inmigración de tu destino y a tu aerolínea antes de viajar.
+
 Esta es nuestra lectura de lo que las aerolíneas y los agentes de fronteras suelen pedir, no una lista legal. Los requisitos varían según el destino y la aerolínea, así que consulta a las autoridades de inmigración de tu destino y a tu aerolínea antes de viajar.
 
 ## Un Apellido Distinto al de Tu Hijo: el Certificado de Nacimiento Suele Resolverlo

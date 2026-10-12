@@ -50,6 +50,8 @@ A segunda é a viagem sem visto. Quando um destino deixa a sua nacionalidade ent
 
 Portanto o passaporte é seu e viaja com você para todo o lado. A autorização é concedida por cada destino separadamente, e pode ser recusada mesmo quando o seu passaporte está em perfeitas condições.
 
+![Diagrama comparativo entre um passaporte e um visto: o seu próprio país emite o passaporte, que prova quem é e permite sair do país, enquanto o destino emite o visto, que dá permissão para entrar e cobre só esse país, com uma nota de que a maioria das viagens precisa de ambos](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-pt.jpg) Dois documentos, duas funções - e um passaporte válido por si só não é permissão para entrar.
+
 ## Os tipos de visto variam consoante o fim e a duração
 
 A maioria dos países emite vistos nestas categorias:

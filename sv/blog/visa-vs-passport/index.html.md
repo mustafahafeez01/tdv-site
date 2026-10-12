@@ -50,6 +50,8 @@ Den andra är visumfria resor. När ett resmål släpper in ditt medborgarskap u
 
 Passet är alltså ditt och följer med dig överallt. Tillståndet ges separat av varje resmål, och det kan nekas även när passet är i perfekt skick.
 
+![Jämförelsediagram över ett pass och ett visum: ditt eget land utfärdar passet, det bevisar vem du är och låter dig lämna hemlandet, medan resmålet utfärdar visumet, som ger tillstånd att resa in och bara gäller det landet, med en notering om att de flesta resor behöver båda](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-sv.jpg) Två handlingar, två uppgifter - och ett giltigt pass ensamt är inte tillstånd att resa in.
+
 ## Visumtyper varierar efter syfte och längd
 
 De flesta länder utfärdar visum i följande kategorier:

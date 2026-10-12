@@ -34,6 +34,8 @@ De fleste rejsende har fået den opfattelse, at pas skal have seks måneders gyl
 
 Vores guide til [6-månedersreglen](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/) gennemgår, hvilke lande der faktisk håndhæver den. Vores [forklaring om pasgyldighed](https://traveldocumentvault.com/da/blog/how-long-is-passport-valid-for-travel/) dækker det generelle tilfælde. Her holder vi os til Schengen, fordi det er der, familier oftest regner subtilt forkert.
 
+![Diagram over en families fire pas-udløbsdatoer i rækkefølge: barn 2 gyldigt til 2027, barn 1 til 2028, mor til 2030, far til 2032; den tidligste dato afgør rejsen, børnepas holder 5 år, ikke 10, og Schengen kræver 3 måneder tilbage efter afrejse](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/family-expiry-dates-figure-da.jpg) Fire pas, fire ure – og det korteste sætter familiens reelle deadline.
+
 ## Børnepas kører på et hurtigere ur
 
 Voksenpas gælder typisk i 10 år; børnepas kun i fem. Den asymmetri er, hvor ellers omhyggelige planer går skævt.

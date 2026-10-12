@@ -34,6 +34,8 @@ Il primo passo è centralizzare dove vivono i passaporti familiari. Questo signi
 
 La crittografia è importante perché i passaporti contengono il tuo nome legale completo, la data di nascita e il numero di passaporto — informazioni sufficienti per il furto di identità. Le app generiche di archiviazione foto come Google Photos o iCloud trattano i tuoi documenti come istantanee piuttosto che dati sensibili di identità. Una cartella PDF protetta da password sul tuo dispositivo, o un'app costruita specificamente per gestire i documenti di viaggio, ti dà il livello di crittografia di cui hai bisogno.
 
+![Diagramma di un sistema familiare per i passaporti: quattro passaporti (Papà, Mamma, Figlio 1, Figlio 2) confluiscono in un caveau crittografato, da cui escono promemoria di scadenza, accesso offline e backup crittografato, con la nota che i passaporti dei bambini scadono in 5 anni, non 10](https://traveldocumentvault.com/blog/family-passport-management/family-system-figure-it.jpg) Un sistema per tutta la famiglia: ogni passaporto in un unico posto, con un controllo automatico per ogni data di scadenza
+
 **Solo copie digitali.** Scansiona la pagina ID del passaporto di ogni membro della famiglia. Un'immagine chiara della pagina che mostra la foto, il nome, la data di nascita, il numero del passaporto e la data di scadenza è sufficiente. Questo dovrebbe richiedere 30 secondi per persona.
 
 Una volta scansionate, queste copie vivono nel tuo caveau crittografato — accessibili ogni volta che hai bisogno di controllare una data di validità, provare che hai documenti quando prenoti un viaggio, o fornire informazioni di emergenza a un consolato se qualcosa va storto all'estero.

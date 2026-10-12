@@ -28,6 +28,8 @@ Hier verfallen die meisten Menschen in unnötige Panik: Eine verbogene Ecke am E
 
 Am wichtigsten: Die maschinenlesbare Zone – der schwarz-weiße Streifen am unteren Rand Ihrer Datenseite – muss intakt bleiben. Grenzscanner können sie sonst möglicherweise nicht mehr lesen.
 
+![Diagramm zweier aufgeschlagener Reisepässe nebeneinander: einer abgenutzt, aber flach und nutzbar, der andere wasserfleckig mit gewellten Seiten und sich lösender Lamination](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Leichte Knicke am Einband: unproblematisch. Wasserschaden an der Datenseite: ein Problem.
+
 Der Grund, warum das zählt: **Fluggesellschaften haften, wenn sie jemanden mit einem nicht akzeptablen Dokument befördern.** Wer mit einem beschädigten Pass einsteigt und am Zielort die Einreise verweigert bekommt, sorgt dafür, dass die Behörden die Fluggesellschaft dafür belangen können. Die Airline muss dann auch die Kosten für den Rückflug übernehmen.
 
 Kein Gate-Mitarbeiter will diesen Papierkram, also wird lieber vorsichtshalber abgewiesen.

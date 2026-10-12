@@ -36,6 +36,8 @@ Un permis délivré au titre de la convention de Genève de 1949 est valable un 
 
 Cette distinction compte à double titre. Elle détermine la durée de validité de votre permis, et elle décide où ce permis est reconnu. Un pays n'ayant ratifié qu'une seule convention n'est pas tenu de reconnaître un permis délivré au titre de l'autre, ce qui explique qu'un permis accepté lors d'un voyage l'année dernière puisse être refusé cette année.
 
+![Diagramme comparant trois durées de validité : passeport, 10 ans en général ; permis de conduire, selon le pays ; permis de conduire international, 1 an ou jusqu'à 3, interrompu plus tôt si le permis expire avant, donc le plus court décide](https://traveldocumentvault.com/blog/international-driving-permit-validity/idp-clocks-figure-fr.jpg) Trois documents, trois horloges. Le permis international est plafonné par celle qui s'arrête la première.
+
 | Type de permis | Durée de validité | Ce qui le limite |
 |---|---|---|
 | **Convention de Paris de 1926** | Un an | La date de délivrance. Rarement nécessaire aujourd'hui |

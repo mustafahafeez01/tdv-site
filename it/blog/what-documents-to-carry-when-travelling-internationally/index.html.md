@@ -46,6 +46,8 @@ Quando un bambino viaggia internazionalmente solo con un genitore (o con nessuno
 
 È il documento più comunemente trascurato nei viaggi in famiglia, quindi verificare prima di raggiungere il gate.
 
+![Diagramma diviso: nel bagaglio a mano porta il passaporto, visti e autorizzazioni, carte d'imbarco e una lettera di consenso se necessaria; offline sul telefono conserva i dati del passaporto, la polizza assicurativa e il numero di emergenza, i codici di prenotazione e i certificati di vaccinazione, perché uno fa da backup per l'altro e se perdi la borsa la copia sul telefono ti porta a casa](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/carry-or-store-figure-it.jpg) Gli originali viaggiano nel bagaglio a mano; i loro gemelli cifrati vivono offline sul telefono.
+
 ## Cosa Portare rispetto a Cosa Conservare Digitalmente
 
 Le frontiere vogliono documenti originali, ma se questi originali scompaiono, i backup digitali sicuri sono ciò che fa tornare a casa.

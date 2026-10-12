@@ -1,0 +1,38 @@
+{
+ "sv": {
+  "template": "sequence",
+  "title": "Förlorat pass utomlands: de 7 stegen",
+  "steps": [
+   {
+    "text": "Bekräfta att det verkligen är borta"
+   },
+   {
+    "text": "Gör en polisanmälan"
+   },
+   {
+    "text": "Kontakta din ambassad"
+   },
+   {
+    "text": "Nödpass"
+   },
+   {
+    "text": "Meddela ditt försäkringsbolag"
+   },
+   {
+    "text": "Kontrollera din visumsituation"
+   },
+   {
+    "text": "Ta dig hem, sedan ersätt det"
+   }
+  ],
+  "highlight": 3,
+  "note": "Innan allt detta: fotografera passet i dag",
+  "focal": "En säkerhetskopia gör steg 4 mycket snabbare",
+  "alt": "Diagram över de sju stegen efter att ha förlorat ett pass utomlands: bekräfta att det verkligen är borta, gör en polisanmälan, kontakta din ambassad, nödpass, meddela ditt försäkringsbolag, kontrollera din visumsituation, ta dig hem och sedan ersätt det - med en notering om att fotografera passet i dag, eftersom en säkerhetskopia gör steg fyra mycket snabbare",
+  "caption": "Sju lugna steg, i ordning - och den enda sak du bör göra i dag, innan något av dem behövs.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

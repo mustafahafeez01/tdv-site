@@ -36,6 +36,8 @@ Et kort udstedt under Genèvekonventionen af 1949 gælder i ét år. Et kort uds
 
 Opdelingen har betydning to gange. Den afgør, hvor længe dit kort gælder, og den afgør, hvor kortet bliver anerkendt. Et land, der kun har ratificeret én konvention, er ikke forpligtet til at anerkende et kort udstedt under den anden, og det er grunden til, at et kort, der virkede på sidste års rejse, bliver afvist på denne.
 
+![Diagram, der sammenligner tre dokumenters gyldighedsperioder: pas normalt 10 år, kørekort varierer efter land, og internationalt kørekort 1 år eller op til 3, afkortet hvis kørekortet udløber først, så det korteste afgør](https://traveldocumentvault.com/blog/international-driving-permit-validity/idp-clocks-figure-da.jpg) Tre dokumenter, tre ure. Tilladelsen er begrænset af det, der løber tør først.
+
 | Korttype | Hvor længe det gælder | Hvad der begrænser det |
 |---|---|---|
 | **Pariserkonventionen 1926** | Ét år | Udstedelsesdatoen. Sjældent nødvendigt i dag |

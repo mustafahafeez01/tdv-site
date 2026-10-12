@@ -36,6 +36,8 @@ Een internationaal rijbewijs onder het Verdrag van Genève (1949) is een jaar ge
 
 Dat onderscheid is op twee manieren belangrijk. Het bepaalt hoe lang je rijbewijs geldig is, en het bepaalt waar het wordt erkend. Een land dat maar één verdrag heeft geratificeerd, is niet verplicht een rijbewijs onder het andere verdrag te erkennen, en zo kan een rijbewijs dat vorig jaar prima werkte dit jaar zonder pardon worden geweigerd.
 
+![Diagram dat drie geldigheidsperiodes vergelijkt: paspoort meestal 10 jaar, rijbewijs verschilt per land, en internationaal rijbewijs 1 jaar of tot 3, eerder afgelopen als het rijbewijs eerst verloopt, dus de kortste bepaalt](https://traveldocumentvault.com/blog/international-driving-permit-validity/idp-clocks-figure-nl.jpg) Drie documenten, drie klokken. Het internationale rijbewijs wordt begrensd door wat het eerst afloopt.
+
 | Type rijbewijs | Hoe lang het geldig is | Wat het begrenst |
 |---|---|---|
 | **Verdrag van Parijs (1926)** | Eén jaar | De afgiftedatum. Tegenwoordig zelden nodig |

@@ -1,0 +1,34 @@
+{
+ "sv": {
+  "template": "sequence",
+  "title": "En familj, fyra utgångsdatum",
+  "subtitle": "Det tidigaste datumet avgör resan",
+  "steps": [
+   {
+    "label": "Barn 2",
+    "text": "Giltigt till 2027"
+   },
+   {
+    "label": "Barn 1",
+    "text": "Giltigt till 2028"
+   },
+   {
+    "label": "Mamma",
+    "text": "Giltigt till 2030"
+   },
+   {
+    "label": "Pappa",
+    "text": "Giltigt till 2032"
+   }
+  ],
+  "highlight": 0,
+  "note": "Barnpass gäller 5 år, inte 10. Schengen vill ha 3 månader kvar efter att du lämnar området.",
+  "focal": "Kontrollera varje pass samma dag du bokar",
+  "alt": "Diagram över en familjs fyra passutgångsdatum i ordning: barn 2 giltigt till 2027, barn 1 till 2028, mamma till 2030, pappa till 2032; det tidigaste datumet avgör resan, barnpass gäller 5 år inte 10, och Schengen vill ha 3 månader kvar efter att du lämnar området",
+  "caption": "Fyra pass, fyra klockor - och den kortaste sätter familjens verkliga deadline.",
+  "placement": {
+   "h2": 3,
+   "para": 2
+  }
+ }
+}

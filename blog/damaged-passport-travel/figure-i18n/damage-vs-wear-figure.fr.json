@@ -1,0 +1,13 @@
+{
+ "fr": {
+  "reuse": "/blog/damaged-passport-travel/damage-vs-wear-figure.jpg",
+  "width": 1536,
+  "height": 1024,
+  "alt": "Deux passeports ouverts côte à côte : l'un usé mais plat et utilisable, l'autre taché par l'eau avec des pages gondolées et le laminage qui se décolle",
+  "caption": "Pliures légères sur la couverture : acceptable. Dégât des eaux sur la page d'identité : un problème.",
+  "placement": {
+   "h2": 2,
+   "para": 3
+  }
+ }
+}

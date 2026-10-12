@@ -46,6 +46,8 @@ Conservez la copie certifiée avec vos passeports plutôt que dans un dossier s�
 
 La réponse pratique reste courte : un seul document, gardé à portée de main, et une procédure qui, une fois ce document présenté, se conclut généralement assez vite.
 
+![Arbre de décision indiquant quel document emporter selon qui ne voyage pas : une lettre de consentement pour l'autre parent, une ordonnance de garde ou décision de justice pour un ex sans contact, une copie de l'acte de décès pour un parent décédé, ou le consentement des deux parents plus l'acte de naissance quand les deux ne voyagent pas, avec une note pour emporter l'acte de naissance de l'enfant dans tous les cas](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/who-is-missing-figure-fr.jpg) Quatre situations, quatre documents, et un acte de naissance qui aide dans tous les cas. Ceci reflète notre lecture de ce que demandent le plus souvent les compagnies aériennes et les agents frontaliers, pas une liste légale. Les exigences varient selon la destination et le transporteur, donc vérifiez auprès de l'autorité d'immigration de votre destination et de votre compagnie aérienne avant de voyager.
+
 Il s'agit de notre lecture de ce que les compagnies aériennes et la police aux frontières demandent le plus souvent, et non d'une liste réglementaire. Les exigences varient selon la destination et le transporteur : vérifiez auprès des autorités d'immigration de votre destination et de votre compagnie aérienne avant de partir.
 
 ## Un nom de famille différent de celui de votre enfant : l'acte de naissance y répond généralement

@@ -36,6 +36,8 @@ Manche EU-Mitgliedstaaten haben bilaterale Abkommen mit bestimmten außereuropä
 
 Innerhalb Europas haben manche Länder bilaterale Abkommen, die die Anerkennung des Personalausweises über den EU-Standardrahmen hinaus erweitern. Diese Abkommen existieren, können aber komplex sein, weshalb es oft einfacher ist, den Reisepass zusätzlich zum Ausweis mitzuführen, sobald Sie außerhalb Ihres Heimatlandes reisen – selbst wenn das Gesetz sagt, dass Ihr Ausweis allein ausreicht.
 
+![Diagramm, das vergleicht, wann ein Personalausweis innerhalb der EU, des EWR und der Schweiz meist reicht, mit Situationen, in denen der Reisepass mitgenommen werden sollte: die meisten Reisen außerhalb Europas, ein beschädigter Ausweis oder eine Airline, die einen verlangt](https://traveldocumentvault.com/blog/national-id-card-travel-europe/id-card-or-passport-de.jpg) Innerhalb der EU und des EWR reicht der Ausweis meist; außerhalb Europas den Reisepass mitnehmen.
+
 ## Was Sie vor der Reise am Ausweis prüfen sollten
 
 Ein gültiges Ablaufdatum ist notwendig, aber nicht ausreichend. Grenzbeamte sind darauf geschult, Dokumente abzulehnen, die sie nicht klar lesen können. Prüfen Sie Ihren Personalausweis vor dem Packen so, wie es die Grenzbeamten tun würden:

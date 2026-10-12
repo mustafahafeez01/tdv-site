@@ -58,6 +58,8 @@ Cuando un hotel te pide una copia del pasaporte, una embajada necesita tus datos
 
 Ese es el verdadero beneficio: recuperas tu espacio mental. La carga mental invisible, ese zumbido constante de "¿estoy olvidando algo?", desaparece. La aplicación recuerda para que no tengas que hacerlo tú.
 
+![Diagrama de cinco apps dispersas -fotos, nube, notas, correo, calendario- que convergen en una sola bóveda, de la que salen avisos de vencimiento, cifrado y acceso sin conexión: una app en vez de cinco](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/scattered-to-single-vault-es.jpg) Lo que antes implicaba la comprobación de las 11 de la noche, y lo que implica ahora.
+
 ## No es solo pasaportes
 
 Una vez que empecé a usarla, noté cuántos otros documentos vencen silenciosamente en el fondo.

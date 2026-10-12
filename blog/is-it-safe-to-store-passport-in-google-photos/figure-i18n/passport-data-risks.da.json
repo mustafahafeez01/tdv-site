@@ -1,0 +1,71 @@
+{
+ "da": {
+  "template": "cards",
+  "title": "Det, et pasfoto afslører",
+  "cards": [
+   {
+    "heading": "Det, det viser",
+    "items": [
+     {
+      "text": "Navn",
+      "mark": "dot"
+     },
+     {
+      "text": "Fødselsdato",
+      "mark": "dot"
+     },
+     {
+      "text": "Pasnummer",
+      "mark": "dot"
+     },
+     {
+      "text": "Foto",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Risiciene",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Kompromitteret konto",
+      "mark": "cross"
+     },
+     {
+      "text": "Tredjepartsadgang",
+      "mark": "cross"
+     },
+     {
+      "text": "Dataindeksering",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Sikrere steder",
+    "tone": "good",
+    "items": [
+     {
+      "text": "iCloud med ADP",
+      "mark": "tick"
+     },
+     {
+      "text": "Krypteret app",
+      "mark": "tick"
+     },
+     {
+      "text": "Offline kopi",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagram over, hvad et pasfoto afslører – navn, fødselsdato, pasnummer og foto – sammen med tre risici, kompromitteret konto, tredjepartsadgang og dataindeksering, og tre sikrere muligheder: iCloud med ADP, en krypteret app eller en offline kopi",
+  "caption": "Ét foto, fire datapunkter og tre mere trygge steder at opbevare dem.",
+  "placement": {
+   "h2": 4,
+   "para": 5
+  }
+ }
+}

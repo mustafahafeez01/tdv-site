@@ -1,0 +1,42 @@
+{
+ "id": {
+  "template": "cards",
+  "title": "ETA Anda terkait dengan satu paspor",
+  "cards": [
+   {
+    "heading": "Paspor yang Anda gunakan saat mengajukan",
+    "tone": "good",
+    "items": [
+     {
+      "text": "ETA terkait dengan buku paspor ini"
+     },
+     {
+      "text": "Bepergian seperti biasa",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Paspor baru atau yang diperpanjang",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Tautannya tidak ikut berpindah"
+     },
+     {
+      "text": "Ajukan ETA baru sebelum Anda terbang"
+     }
+    ]
+   }
+  ],
+  "link": "arrow",
+  "note": "Memperpanjang paspor memutus tautan ini",
+  "focal": "Setiap pelancong perlu ETA sendiri, termasuk anak-anak",
+  "alt": "Diagram perbandingan: paspor yang Anda gunakan saat mengajukan tetap menjaga tautan ETA ke buku paspor itu sehingga Anda bisa bepergian seperti biasa, sementara paspor baru atau yang diperpanjang tidak membawa tautan itu dan memerlukan ETA baru sebelum Anda terbang, dan setiap orang yang bepergian memerlukan ETA sendiri, termasuk anak-anak",
+  "caption": "Persetujuannya terikat pada buku paspor, bukan pada diri Anda - dan setiap pelancong membawa miliknya sendiri.",
+  "placement": {
+   "h2": 4,
+   "para": 3
+  }
+ }
+}

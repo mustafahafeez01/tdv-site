@@ -1,0 +1,40 @@
+{
+ "pt": {
+  "template": "tree",
+  "title": "Viajar com um passaporte expirado",
+  "root": {
+   "heading": "Tipo de viagem?"
+  },
+  "branches": [
+   {
+    "edge": "Internacional",
+    "edge_mark": "cross",
+    "heading": "Não permitido",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Peça uma renovação urgente"
+     }
+    ]
+   },
+   {
+    "edge": "Nacional",
+    "edge_mark": "question",
+    "heading": "Verifique com a companhia aérea",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Ligue antes de viajar"
+     }
+    ]
+   }
+  ],
+  "focal": "Verifique sempre antes da partida",
+  "alt": "Árvore de decisão para um passaporte expirado: a viagem internacional está marcada como não permitida e aponta para pedir uma renovação urgente, a viagem nacional aponta para verificar com a companhia aérea e ligar antes de viajar, com uma nota para verificar sempre antes da partida",
+  "caption": "Os dois caminhos a partir de um passaporte expirado - e nenhum deles passa pela porta de embarque.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

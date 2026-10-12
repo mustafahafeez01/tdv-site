@@ -1,0 +1,34 @@
+{
+ "de": {
+  "template": "sequence",
+  "title": "Eine Familie, vier Ablaufdaten",
+  "subtitle": "Das früheste Datum entscheidet über die Reise",
+  "steps": [
+   {
+    "label": "Kind 2",
+    "text": "Gültig bis 2027"
+   },
+   {
+    "label": "Kind 1",
+    "text": "Gültig bis 2028"
+   },
+   {
+    "label": "Mama",
+    "text": "Gültig bis 2030"
+   },
+   {
+    "label": "Papa",
+    "text": "Gültig bis 2032"
+   }
+  ],
+  "highlight": 0,
+  "note": "Kinderreisepässe gelten 5 Jahre, nicht 10. Schengen verlangt 3 Monate Restgültigkeit nach der Ausreise.",
+  "focal": "Prüfen Sie jeden Reisepass am Buchungstag",
+  "alt": "Diagramm der vier Ablaufdaten einer Familie, der Reihe nach: Kind 2 gültig bis 2027, Kind 1 bis 2028, Mama bis 2030, Papa bis 2032; das früheste Datum entscheidet über die Reise, Kinderreisepässe gelten 5 Jahre statt 10, und Schengen verlangt 3 Monate Restgültigkeit nach der Ausreise",
+  "caption": "Vier Reisepässe, vier Uhren – und die kürzeste setzt die tatsächliche Deadline der Familie.",
+  "placement": {
+   "h2": 3,
+   "para": 2
+  }
+ }
+}

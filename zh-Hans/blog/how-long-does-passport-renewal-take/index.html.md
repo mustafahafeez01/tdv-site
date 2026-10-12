@@ -46,6 +46,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-long-does-passport-rene
 
 HM Passport Office负责处理英国的护照更新，并在其网站上公布当前的处理时间。
 
+![示意图：一份申请经过六项常见拖慢因素，最终变成护照，这六项是姓名变更、首本成人护照、儿童申请、遗失或损坏、额外审核或面谈、境外申请](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/passport-renewal-timeline-zh-Hans.jpg) 六种情况会让申请脱离快速通道，顺利的续签能全部避开。
+
 | 服务类型 | 内容 |
 |---|---|
 | 标准（在线） | 如果需要更多信息或面试则更长——查看GOV.UK了解当前时间 |

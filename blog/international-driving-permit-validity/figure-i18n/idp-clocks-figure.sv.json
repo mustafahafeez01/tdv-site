@@ -1,0 +1,47 @@
+{
+ "sv": {
+  "template": "cards",
+  "title": "Vilken klocka tar slut först?",
+  "cards": [
+   {
+    "heading": "Pass",
+    "items": [
+     {
+      "text": "Vanligtvis 10 år",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Körkort",
+    "items": [
+     {
+      "text": "Varierar mellan länder",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Internationellt körkort",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "1 år, eller upp till 3",
+      "mark": "none"
+     },
+     {
+      "text": "Slutar tidigare om körkortet går ut först",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "focal": "Den kortaste avgör",
+  "alt": "Diagram som jämför tre handlingars giltighetstider: pass vanligtvis 10 år, körkort varierar mellan länder, och internationellt körkort 1 år eller upp till 3, avkortat om körkortet går ut först, så den kortaste avgör",
+  "caption": "Tre handlingar, tre klockor. Tillståndet begränsas av vilken av dem som tar slut först.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

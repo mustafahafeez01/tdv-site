@@ -1,0 +1,28 @@
+{
+ "de": {
+  "template": "hub",
+  "title": "Eine Familie, ein System",
+  "inputs": [
+   "Papa",
+   "Mama",
+   "Kind 1",
+   "Kind 2"
+  ],
+  "hub": {
+   "heading": "Ein verschlüsselter Tresor"
+  },
+  "outputs": [
+   "Ablauferinnerungen",
+   "Offline-Zugriff",
+   "Verschlüsselte Sicherung"
+  ],
+  "focal": "Kinderreisepässe laufen nach 5 Jahren ab, nicht 10",
+  "alt": "Diagramm eines Familien-Passsystems: vier Reisepässe (Papa, Mama, Kind 1, Kind 2) fließen in einen verschlüsselten Tresor, aus dem Ablauferinnerungen, Offline-Zugriff und verschlüsseltes Backup hervorgehen, mit dem Hinweis, dass Kinderreisepässe nach 5 Jahren ablaufen, nicht 10",
+  "caption": "Ein Familiensystem: jeder Reisepass an einem Ort, mit automatischer Verfolgung jedes Ablaufdatums",
+  "placement": {
+   "h2": 3,
+   "para": 2,
+   "in_figure_element": true
+  }
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "sv": {
+  "template": "hub",
+  "inputs": [
+   "Foton",
+   "Moln",
+   "Anteckningar",
+   "E-post",
+   "Kalender"
+  ],
+  "hub": {
+   "heading": "Ett valv"
+  },
+  "outputs": [
+   "Utgångspåminnelser",
+   "Krypterat",
+   "Offline"
+  ],
+  "focal": "En app i stället för fem",
+  "alt": "Diagram över fem spridda appar - foton, moln, anteckningar, e-post, kalender - som samlas i ett valv, vilket ger tillbaka utgångspåminnelser, kryptering och offline-åtkomst: en app i stället för fem",
+  "caption": "Det kontrollen klockan elva på kvällen brukade innebära - och det den innebär nu.",
+  "placement": {
+   "h2": 3,
+   "para": 5
+  }
+ }
+}

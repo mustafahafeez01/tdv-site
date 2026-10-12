@@ -1,0 +1,48 @@
+{
+ "zh-Hans": {
+  "template": "cards",
+  "title": "数字副本：哪里管用",
+  "cards": [
+   {
+    "heading": "通常可以",
+    "tone": "good",
+    "items": [
+     {
+      "text": "酒店入住",
+      "mark": "tick"
+     },
+     {
+      "text": "机票预订",
+      "mark": "tick"
+     },
+     {
+      "text": "租车",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "需要原件",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "边境过境",
+      "mark": "cross"
+     },
+     {
+      "text": "航空公司登机",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "副本辅助，护照才能通行",
+  "alt": "数字护照副本适用范围示意图：酒店入住、机票预订和租车通常可以使用，边境过境和航空公司登机则需要原件",
+  "caption": "简单说：副本能开门，只有原件能过境。",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

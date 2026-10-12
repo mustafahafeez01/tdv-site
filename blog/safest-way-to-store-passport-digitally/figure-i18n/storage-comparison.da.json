@@ -1,0 +1,52 @@
+{
+ "da": {
+  "template": "matrix",
+  "title": "Hvor bør dit pas opbevares?",
+  "columns": [
+   "iCloud Photos",
+   "Google Photos",
+   "Krypteret app"
+  ],
+  "highlight_col": 2,
+  "rows": [
+   {
+    "label": "Ende-til-ende-krypteret",
+    "cells": [
+     "valgfrit",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "Ingen konto nødvendig",
+    "cells": [
+     "cross",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "Virker offline",
+    "cells": [
+     "tick",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "AES-256",
+    "cells": [
+     "valgfrit",
+     "cross",
+     "tick"
+    ]
+   }
+  ],
+  "alt": "Sammenligningsdiagram, der spørger, hvor dit pas bør opbevares: iCloud Photos har valgfri ende-til-ende-kryptering, men kræver konto og synkronisering, Google Photos opfylder ingen af de fire kriterier, en krypteret app opfylder ende-til-ende, ingen konto, virker offline og AES-256",
+  "caption": "Sammenligningstabellen ovenfor, gentegnet til et hurtigt overblik.",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

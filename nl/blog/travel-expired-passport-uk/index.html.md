@@ -32,6 +32,8 @@ Deze regel geldt voor alle internationale reizen, zowel vluchten naar Europa als
 
 De enige uitzondering is een Brits noodreisdocument, uitgegeven door het ministerie van Buitenlandse Zaken wanneer je al in het buitenland bent in een echte noodsituatie, en zelfs dan bestaat het alleen om je thuis te krijgen – niet om verdere reizen mogelijk te maken.
 
+![Beslisboom voor een verlopen paspoort: internationale reizen zijn niet toegestaan en verwijzen naar het aanvragen van een spoedverlenging, binnenlandse reizen verwijzen naar overleg met je luchtvaartmaatschappij en bellen voor vertrek, met de aantekening om dit altijd voor vertrek te controleren](https://traveldocumentvault.com/blog/travel-expired-passport-uk/passport-expiry-decision-tree-nl.jpg) De twee paden vanaf een verlopen paspoort - en geen van beide loopt via de vertrekgate.
+
 ## Kun je een vakantie boeken met een verlopen paspoort?
 
 Boeken is niet hetzelfde als aan boord gaan.

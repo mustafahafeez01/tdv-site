@@ -53,6 +53,8 @@ Una carta de consentimiento válida debe incluir: el nombre completo del niño y
 
 **Otros documentos que vale la pena mantener accesibles**
 
+![Lista de comprobación de diez documentos de viaje en familia: pasaportes, visados, documentos de identidad, seguro de viaje, reservas, vacunas, billete de vuelta, certificados de nacimiento, carta de consentimiento y órdenes de custodia, con una nota para empezar más de 3 meses antes de viajar](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/travel-docs-checklist-es.jpg) La lista completa para la familia: empieza a marcarla tres meses antes, no la semana previa.
+
 - Licencia de conducir internacional (si vas a alquilar un coche en el extranjero)
 - Registros médicos o detalles de prescripción para condiciones crónicas
 - Tarjeta Sanitaria Europea (EHIC) para viajeros de la UE

@@ -1,0 +1,30 @@
+{
+ "da": {
+  "template": "sequence",
+  "title": "Det glidende 90/180-vindue",
+  "subtitle": "Vinduet forskyder sig hver dag",
+  "start": "180 dage siden",
+  "steps": [
+   {
+    "label": "Rejse 1",
+    "text": "30 dage"
+   },
+   {
+    "label": "Rejse 2",
+    "text": "45 dage"
+   },
+   {
+    "label": "I dag",
+    "text": "30 + 45 = 75 dage brugt, så 15 af dine 90 er tilbage"
+   }
+  ],
+  "highlight": 2,
+  "focal": "Både ankomst- og afrejsedag tæller",
+  "alt": "Tidslinjediagram over Schengens glidende 90/180-vindue: fra 180 dage siden til i dag bruger to rejser på 30 og 45 dage 75 af de 90 dage, hvilket efterlader 15; vinduet forskyder sig hver dag, og både ankomst- og afrejsedag tæller",
+  "caption": "Vinduet nulstilles aldrig: for hver enkelt dag kan de foregående 180 dage højst indeholde 90 dages ophold.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  }
+ }
+}

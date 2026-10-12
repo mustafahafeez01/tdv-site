@@ -1,0 +1,48 @@
+{
+ "en": {
+  "template": "cards",
+  "title": "Digital copy: where it works",
+  "cards": [
+   {
+    "heading": "Usually fine",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Hotel check-in",
+      "mark": "tick"
+     },
+     {
+      "text": "Flight booking",
+      "mark": "tick"
+     },
+     {
+      "text": "Car rental",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Original required",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Border control",
+      "mark": "cross"
+     },
+     {
+      "text": "Airline boarding",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "The copy supports, the passport travels",
+  "alt": "Diagram of where a digital passport copy works: usually fine for hotel check-in, flight booking and car rental; original required at border control and airline boarding",
+  "caption": "The short version - a copy opens doors, only the original crosses borders.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

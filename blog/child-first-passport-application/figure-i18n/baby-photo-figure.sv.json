@@ -1,0 +1,50 @@
+{
+ "sv": {
+  "template": "cards",
+  "title": "Passfoto för en baby",
+  "cards": [
+   {
+    "heading": "Det som är samma",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Öppna ögon riktade mot kameran",
+      "mark": "tick"
+     },
+     {
+      "text": "Enfärgad bakgrund bakom huvudet",
+      "mark": "tick"
+     },
+     {
+      "text": "Inget annat i bild",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Det som ändras med åldern",
+    "items": [
+     {
+      "text": "Under 6 månader: liggande på ett enfärgat lakan",
+      "mark": "dot"
+     },
+     {
+      "text": "6 månader till 2 år: i knät, vuxen inte i bild",
+      "mark": "dot"
+     },
+     {
+      "text": "2 år och äldre: sittande, blick strax ovanför linsen",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "focal": "Vanligaste avslagsorsaken: en stödjande hand, en napp eller en leksak i bakgrunden",
+  "alt": "Diagram över vad som är samma på ett babypassfoto (öppna ögon, enfärgad bakgrund, inget annat i bild) och vad som ändras per åldersgrupp, från under 6 månader till 2 år och äldre, med de vanligaste avslagsorsakerna",
+  "caption": "",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

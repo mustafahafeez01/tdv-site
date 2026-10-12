@@ -58,6 +58,8 @@ Ketika hotel meminta salinan paspor Anda, kedutaan membutuhkan data Anda, atau m
 
 Itulah keuntungan sesungguhnya: Anda mendapatkan kembali ruang pikiran Anda. Beban mental tak kasat mata, dengungan rendah yang terus-menerus "apakah saya melupakan sesuatu?", hilang. Aplikasi yang mengingat sehingga Anda tidak perlu melakukannya.
 
+![Diagram lima aplikasi yang terpisah - foto, cloud, catatan, email, kalender - menyatu ke dalam satu vault, yang menghasilkan pengingat kedaluwarsa, enkripsi, dan akses offline: satu aplikasi dibanding lima](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/scattered-to-single-vault-id.jpg) Yang dulu terlibat dalam pengecekan pukul 11 malam - dan yang terlibat sekarang.
+
 ## Bukan hanya paspor
 
 Setelah saya mulai menggunakannya, saya memperhatikan betapa banyak dokumen lain yang diam-diam kedaluwarsa di latar belakang.

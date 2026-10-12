@@ -1,0 +1,40 @@
+{
+ "sv": {
+  "template": "tree",
+  "title": "Resa med ett utgånget pass",
+  "root": {
+   "heading": "Typ av resa?"
+  },
+  "branches": [
+   {
+    "edge": "Internationell",
+    "edge_mark": "cross",
+    "heading": "Inte tillåtet",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Ansök om brådskande förnyelse"
+     }
+    ]
+   },
+   {
+    "edge": "Inrikes",
+    "edge_mark": "question",
+    "heading": "Kontrollera med flygbolaget",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Ring innan du reser"
+     }
+    ]
+   }
+  ],
+  "focal": "Kontrollera alltid före avresa",
+  "alt": "Beslutsträd för ett utgånget pass: internationell resa är markerad som inte tillåten och leder till att ansöka om brådskande förnyelse, inrikes resa leder till att kontrollera med flygbolaget och ringa innan du reser, med en notering om att alltid kontrollera före avresa",
+  "caption": "De två vägarna från ett utgånget pass - och ingen av dem går via gaten.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

@@ -32,6 +32,8 @@ Source: https://traveldocumentvault.com/ko/blog/encrypted-cloud-backup-travel-do
 
 그러므로 어떤 앱에 대해서든 물어볼 만한 질문은 짧습니다. **그 열쇠는 누가 쥐고 있는가?** 마케팅 문구의 나머지는 모두 이 답에서 갈립니다.
 
+![사진 백업과 암호화 백업을 비교하는 다이어그램: 사진 백업은 클라우드에서 읽을 수 있고 회사가 열쇠를 쥐고 있으며, 암호화 백업은 휴대폰에 남은 열쇠 없이는 무용지물이다](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/encrypted-backup-figure-ko.jpg) 같은 클라우드, 다른 답. 파일은 어차피 올라가지만, 그것을 열 수 있는 사람이 달라집니다.
+
 ## 복구 코드, 그리고 저희가 재설정할 수 없는 이유
 
 Travel Document Vault는 기기에 문서를 보관하는 데 앱 계정이 필요하지 않습니다. 선택적 [클라우드 백업](https://traveldocumentvault.com/ko/cloud-backup/)은 Pro와 클라우드 암호화 키를 잠금 해제할 복구 코드가 필요합니다. 앱은 PIN을 설정할 때 이 24자 코드를 생성합니다. 이후 암호화된 보관함은 저희가 아니라 **아이폰과 아이패드에서는 본인의 iCloud로, 안드로이드에서는 본인의 Google Drive로** 전송됩니다.

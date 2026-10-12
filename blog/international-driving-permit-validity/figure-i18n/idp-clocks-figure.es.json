@@ -1,0 +1,47 @@
+{
+ "es": {
+  "template": "cards",
+  "title": "¿Qué reloj se agota antes?",
+  "cards": [
+   {
+    "heading": "Pasaporte",
+    "items": [
+     {
+      "text": "Normalmente 10 años",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Carné de conducir",
+    "items": [
+     {
+      "text": "Varía según el país",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Permiso de conducir internacional",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "1 año, o hasta 3",
+      "mark": "none"
+     },
+     {
+      "text": "Termina antes si tu carné caduca primero",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "focal": "El más corto decide",
+  "alt": "Diagrama que compara tres periodos de validez: pasaporte normalmente 10 años, carné de conducir según el país, y permiso de conducir internacional 1 año o hasta 3, que termina antes si el carné caduca primero, así que el más corto decide",
+  "caption": "Tres documentos, tres relojes. El permiso queda limitado por el que se agote antes.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

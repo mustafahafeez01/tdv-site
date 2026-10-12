@@ -33,6 +33,8 @@ Aucune des deux approches n'est universellement "incorrecte", mais pour les docu
 
 Une violation d'une application sur l'appareil ne divulgue rien de leurs serveurs — il n'y a rien à divulguer.
 
+![Diagramme comparant les deux modèles de stockage d'une application d'organisation de passeport : sur l'appareil, les données restent avec vous ; envoi vers le cloud signifie faire confiance au serveur ; et le stockage sur l'appareil fonctionne aussi hors ligne](https://traveldocumentvault.com/blog/best-passport-organizer-app/app-storage-compare-fr.jpg) Le seul choix d'architecture qui décide de tout le reste pour une application passeport.
+
 ## Ces fonctionnalités décident si l'application mérite sa place
 
 ### Le délai de rappel est le réglage à personnaliser

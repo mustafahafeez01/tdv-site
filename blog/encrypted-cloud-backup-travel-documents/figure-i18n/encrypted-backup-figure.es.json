@@ -1,0 +1,41 @@
+{
+ "es": {
+  "template": "tree",
+  "root": {
+   "heading": "¿Quién tiene la clave?"
+  },
+  "branches": [
+   {
+    "edge": "Su clave",
+    "edge_mark": "cross",
+    "heading": "Copia de seguridad de fotos",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Legible para quien entre",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "edge": "Tu clave, se queda en el teléfono",
+    "edge_mark": "tick",
+    "heading": "Copia de seguridad cifrada",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Inútil sin la clave",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Misma nube, respuesta distinta",
+  "alt": "Diagrama que compara una copia de seguridad de fotos, legible en la nube porque la empresa tiene la clave, con una copia de seguridad cifrada, inútil sin la clave que se queda en tu teléfono",
+  "caption": "Misma nube, respuesta distinta. El archivo sube igual en los dos casos; lo que cambia es quién puede abrirlo.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

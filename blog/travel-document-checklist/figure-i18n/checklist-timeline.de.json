@@ -1,0 +1,30 @@
+{
+ "de": {
+  "template": "sequence",
+  "title": "Vier Kontrollpunkte, von Buchung bis Boarding",
+  "steps": [
+   {
+    "label": "Buchung",
+    "text": "Ablaufdaten prüfen"
+   },
+   {
+    "label": "3 Monate vorher",
+    "text": "Bei Bedarf erneuern"
+   },
+   {
+    "label": "1 Monat vorher",
+    "text": "Bestätigen und zusammenführen"
+   },
+   {
+    "label": "Abend davor",
+    "text": "Letzte Kontrolle"
+   }
+  ],
+  "alt": "Zeitstrahl-Diagramm zu Reisedokumenten-Kontrollen: Ablaufdaten prüfen bei der Buchung, bei Bedarf erneuern drei Monate vorher, bestätigen und zusammenführen einen Monat vorher, letzte Kontrolle am Abend davor",
+  "caption": "Vier Kontrollpunkte zwischen Buchung und Boarding – jeder klein, wenn Sie früh anfangen.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

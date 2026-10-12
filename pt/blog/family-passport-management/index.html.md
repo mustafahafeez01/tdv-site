@@ -34,6 +34,8 @@ O primeiro passo é centralizar onde os passaportes familiares residem. Isto sig
 
 O armazenamento encriptado é importante porque os passaportes contêm o seu nome completo legal, data de nascimento, e número de passaporte — informação suficiente para roubo de identidade. Aplicações gerais de armazenamento de fotos como Google Photos ou iCloud tratam os seus documentos como fotografias em vez de dados de identidade sensível. Uma pasta PDF protegida por palavra-passe no seu dispositivo, ou uma aplicação especificamente construída para lidar com documentos de viagem, dá-lhe a camada de encriptação que precisa.
 
+![Diagrama de um sistema de passaportes para uma família: quatro passaportes (pai, mãe, filho 1, filho 2) a entrar num único cofre encriptado, com avisos de validade, acesso offline e cópia de segurança encriptada à saída, e uma nota de que os passaportes de crianças expiram em 5 anos, não 10](https://traveldocumentvault.com/blog/family-passport-management/family-system-figure-pt.jpg) Um sistema familiar: todos os passaportes num só lugar, com acompanhamento automático de cada data de validade
+
 **Cópias digitais apenas.** Digitalize a página de ID de fotografia do passaporte de cada membro da família. Uma imagem clara da página que mostra a foto, nome, data de nascimento, número de passaporte, e data de expiração é suficiente. Isto deve levar 30 segundos por pessoa.
 
 Uma vez digitalizadas, estas cópias residem no seu cofre encriptado — acessíveis qualquer vez que precise verificar uma data de validade, provar que tem documentos ao reservar viagens, ou fornecer informações de emergência a um consulado se algo correr mal no estrangeiro.

@@ -30,6 +30,8 @@ Non tutti sono registrati. I cittadini UE, i residenti dei paesi Schengen e i ti
 
 La regola stessa non è cambiata: può stare al massimo 90 giorni all'interno dell'area Schengen in qualsiasi finestra mobile di 180 giorni. Non sono 90 giorni per anno solare, e la finestra non si azzera quando esce. Per ogni giorno che è presente, i 180 giorni precedenti non devono contenere più di 90 giorni di soggiorno.
 
+![Diagramma a linea temporale della finestra mobile Schengen 90/180: da 180 giorni fa a oggi, due viaggi di 30 e 45 giorni usano 75 dei 90 giorni disponibili, ne restano 15; la finestra si sposta ogni giorno e i giorni di arrivo e di partenza contano entrambi](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-it.jpg) La finestra non si azzera mai: per ogni singolo giorno, i 180 giorni precedenti possono contenere al massimo 90 giorni di soggiorno.
+
 Quello che è cambiato è l'applicazione. Sotto i timbri del passaporto, provare uno sforo significava decifrare inchiostro sbiadito, e i funzionari di frontiera avevano discrezionalità. Adesso le date sono esatte, e il sistema segnala uno sforo nel momento in cui accade. Può aspettarsi rifiuto al prossimo ingresso, e in molti casi un divieto di ingresso da uno a cinque anni, che i funzionari registrano nel Sistema di Informazione Schengen. Il margine di errore è passato da sfumato a zero.
 
 ## Il Problema: EES Fa Rispettare, Non Pianifica

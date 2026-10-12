@@ -1,0 +1,45 @@
+{
+ "da": {
+  "template": "cards",
+  "title": "Ét viser hvem du er, det andet lader dig ind",
+  "cards": [
+   {
+    "heading": "Pas",
+    "items": [
+     {
+      "text": "Dit eget land udsteder det"
+     },
+     {
+      "text": "Beviser, hvem du er"
+     },
+     {
+      "text": "Lader dig rejse ud fra dit hjemland"
+     }
+    ]
+   },
+   {
+    "heading": "Visum",
+    "items": [
+     {
+      "text": "Destinationen udsteder det"
+     },
+     {
+      "text": "Giver tilladelse til at rejse ind"
+     },
+     {
+      "text": "Kun gyldigt for det ene land"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "note": "De fleste rejser kræver begge",
+  "focal": "Et gyldigt pas er ikke tilladelse til indrejse",
+  "alt": "Sammenligningsdiagram af et pas og et visum: dit eget land udsteder passet, det beviser, hvem du er, og lader dig rejse ud fra dit hjemland, mens destinationen udsteder visummet, som giver tilladelse til indrejse og kun gælder for det ene land, med en note om, at de fleste rejser kræver begge",
+  "caption": "To dokumenter, to opgaver – og et gyldigt pas alene er ikke tilladelse til indrejse.",
+  "placement": {
+   "h2": 5,
+   "para": 4
+  }
+ }
+}

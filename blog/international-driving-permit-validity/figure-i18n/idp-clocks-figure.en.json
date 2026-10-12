@@ -1,0 +1,47 @@
+{
+ "en": {
+  "template": "cards",
+  "title": "Which clock runs out first?",
+  "cards": [
+   {
+    "heading": "Passport",
+    "items": [
+     {
+      "text": "Usually 10 years",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Driving licence",
+    "items": [
+     {
+      "text": "Varies by country",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "International driving permit",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "1 year, or up to 3",
+      "mark": "none"
+     },
+     {
+      "text": "Ends early if your licence expires first",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "focal": "The shortest one decides",
+  "alt": "Diagram comparing three document validity periods: passport usually 10 years, driving licence varies by country, and international driving permit 1 year or up to 3, cut short if the licence expires first, so the shortest one decides",
+  "caption": "Three documents, three clocks. The permit is capped by whichever runs out first.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

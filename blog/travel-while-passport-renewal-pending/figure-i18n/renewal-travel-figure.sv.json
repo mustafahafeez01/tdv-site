@@ -1,0 +1,49 @@
+{
+ "sv": {
+  "template": "tree",
+  "title": "Förnyelse: kan du fortfarande resa?",
+  "root": {
+   "heading": "Är passet fortfarande i din hand?"
+  },
+  "branches": [
+   {
+    "edge": "Ja",
+    "edge_mark": "tick",
+    "heading": "Res på det medan det är giltigt",
+    "tone": "good",
+    "items": [
+     {
+      "text": "USA:s postförnyelse"
+     },
+     {
+      "text": "Storbritanniens digitala förnyelse"
+     }
+    ]
+   },
+   {
+    "edge": "Nej",
+    "edge_mark": "cross",
+    "heading": "Inlämnat: du väntar på det nya",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Storbritanniens postförnyelse"
+     },
+     {
+      "text": "Australien"
+     },
+     {
+      "text": "Kanada"
+     }
+    ]
+   }
+  ],
+  "focal": "Inget land låter dig flyga internationellt utan ett pass i handen",
+  "alt": "Beslutsträd: är passet fortfarande i din hand? Ja - res på det medan det är giltigt (USA:s postförnyelse, Storbritanniens digitala förnyelse). Nej - inlämnat, du väntar på det nya (Storbritanniens postförnyelse, Australien, Kanada). Inget land låter dig flyga internationellt utan ett pass i handen",
+  "caption": "En fråga avgör allt: om ditt gamla pass fortfarande är i din ägo.",
+  "placement": {
+   "h2": 2,
+   "para": 2
+  }
+ }
+}

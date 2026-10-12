@@ -1,0 +1,48 @@
+{
+ "es": {
+  "template": "cards",
+  "title": "Copia digital: dónde funciona",
+  "cards": [
+   {
+    "heading": "Normalmente vale",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Check-in de hotel",
+      "mark": "tick"
+     },
+     {
+      "text": "Reserva de vuelo",
+      "mark": "tick"
+     },
+     {
+      "text": "Alquiler de coches",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Se exige el original",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Control de fronteras",
+      "mark": "cross"
+     },
+     {
+      "text": "Embarque en el avión",
+      "mark": "cross"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "La copia ayuda, el pasaporte viaja",
+  "alt": "Diagrama de dónde funciona una copia digital del pasaporte: normalmente vale para el check-in de hotel, la reserva de vuelo y el alquiler de coches; se exige el original en el control de fronteras y para el embarque en el avión",
+  "caption": "La versión corta: una copia abre puertas, solo el original cruza fronteras.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

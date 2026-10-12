@@ -1,0 +1,38 @@
+{
+ "de": {
+  "template": "sequence",
+  "title": "Reisepass im Ausland verloren: die 7 Schritte",
+  "steps": [
+   {
+    "text": "Bestätigen, dass er wirklich weg ist"
+   },
+   {
+    "text": "Polizeianzeige erstatten"
+   },
+   {
+    "text": "Botschaft kontaktieren"
+   },
+   {
+    "text": "Notfall-Reisedokument"
+   },
+   {
+    "text": "Versicherer benachrichtigen"
+   },
+   {
+    "text": "Visasituation prüfen"
+   },
+   {
+    "text": "Heimreise, dann ersetzen"
+   }
+  ],
+  "highlight": 3,
+  "note": "Vor all dem: fotografieren Sie Ihren Reisepass heute",
+  "focal": "Eine Sicherungskopie macht Schritt 4 deutlich schneller",
+  "alt": "Diagramm der sieben Schritte nach einem im Ausland verlorenen Reisepass: bestätigen, dass er wirklich weg ist, Polizeianzeige erstatten, Botschaft kontaktieren, Notfallreisedokument, Versicherer benachrichtigen, Visasituation prüfen, Heimreise dann ersetzen, mit dem Hinweis, den Reisepass noch heute zu fotografieren, weil eine Sicherungskopie Schritt vier deutlich schneller macht",
+  "caption": "Sieben ruhige Schritte, in der richtigen Reihenfolge – und die eine Sache, die Sie heute tun sollten, bevor Sie sie je brauchen.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

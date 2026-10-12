@@ -50,6 +50,8 @@ La seconda è il viaggio senza visto. Quando una destinazione lascia entrare la 
 
 Quindi il passaporto è tuo e viaggia con te ovunque. Il permesso viene concesso da ogni destinazione separatamente, e può essere rifiutato anche quando il tuo passaporto è perfettamente in regola.
 
+![Diagramma di confronto tra passaporto e visto: il tuo paese rilascia il passaporto, che dimostra chi sei e ti permette di partire, mentre la destinazione rilascia il visto, che concede il permesso di entrare e vale solo per quel paese, con la nota che la maggior parte dei viaggi richiede entrambi](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-it.jpg) Due documenti, due compiti - e un passaporto valido da solo non è un permesso di ingresso.
+
 ## I Tipi di Visto Variano per Scopo e Durata
 
 La maggior parte dei paesi emette visti in queste categorie:

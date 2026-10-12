@@ -1,0 +1,29 @@
+{
+ "da": {
+  "template": "tree",
+  "root": {
+   "heading": "Valg af lagring"
+  },
+  "branches": [
+   {
+    "edge": "På enheden",
+    "edge_mark": "tick",
+    "heading": "Dine data bliver hos dig",
+    "tone": "good"
+   },
+   {
+    "edge": "Cloud-upload",
+    "heading": "Du skal stole på serveren",
+    "tone": "warn",
+    "edge_mark": "question"
+   }
+  ],
+  "focal": "På enheden virker også offline",
+  "alt": "Diagram, der sammenligner de to lagringsmodeller for en app til opbevaring af pas: på enheden betyder, at dine data bliver hos dig, cloud-upload betyder, at du skal stole på serveren, og på enheden virker også offline",
+  "caption": "Det ene arkitekturvalg, der afgør alt andet ved en pas-app.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

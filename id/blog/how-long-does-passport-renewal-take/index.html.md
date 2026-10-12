@@ -46,6 +46,8 @@ Satu catatan penting: kelayakan untuk jalur yang lebih cepat biasanya bergantung
 
 Kebanyakan keterlambatan bukan karena sistem secara umum lambat. Keterlambatan itu berasal dari sekelompok kecil situasi yang mendorong permohonan keluar dari jalur cepat dan masuk ke tinjauan tambahan, dan ini berlaku tidak peduli negara mana tempat Anda mengajukan.
 
+![Diagram permohonan yang berjalan menuju paspor jadi melewati enam potensi penundaan: perubahan nama, paspor dewasa pertama, permohonan untuk anak, hilang atau rusak, pemeriksaan tambahan atau wawancara, dan mengajukan dari luar negeri](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/passport-renewal-timeline-id.jpg) Enam situasi menarik permohonan keluar dari jalur cepat. Perpanjangan yang sederhana melewati semuanya.
+
 - **Perubahan nama.** Pernikahan, perceraian, atau perubahan nama secara hukum biasanya berarti dokumentasi tambahan dan verifikasi lebih lanjut sebelum paspor baru bisa diterbitkan.
 - **Paspor dewasa pertama.** Jika ini pertama kalinya Anda mengajukan sebagai orang dewasa, atau Anda beralih dari paspor anak, sebagian besar otoritas menjalankan pemeriksaan identitas tambahan karena tidak ada catatan paspor dewasa sebelumnya untuk dicocokkan.
 - **Paspor anak.** Persyaratan persetujuan orang tua, akta kelahiran, dan, di beberapa negara, kehadiran langsung kedua orang tua menambah langkah yang tidak diperlukan untuk perpanjangan dewasa.

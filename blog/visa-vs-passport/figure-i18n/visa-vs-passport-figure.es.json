@@ -1,0 +1,45 @@
+{
+ "es": {
+  "template": "cards",
+  "title": "Uno te identifica, la otra te admite",
+  "cards": [
+   {
+    "heading": "Pasaporte",
+    "items": [
+     {
+      "text": "Lo emite tu propio país"
+     },
+     {
+      "text": "Demuestra quién eres"
+     },
+     {
+      "text": "Te permite salir de tu país"
+     }
+    ]
+   },
+   {
+    "heading": "Visa",
+    "items": [
+     {
+      "text": "La emite el país de destino"
+     },
+     {
+      "text": "Te da permiso para entrar"
+     },
+     {
+      "text": "Solo sirve para ese país"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "note": "La mayoría de los viajes necesitan ambos",
+  "focal": "Un pasaporte válido no es permiso para entrar",
+  "alt": "Diagrama comparativo de un pasaporte y una visa: tu propio país emite el pasaporte, que demuestra quién eres y te permite salir de tu país, mientras que el país de destino emite la visa, que te da permiso para entrar y solo sirve para ese país, con una nota de que la mayoría de los viajes necesitan ambos",
+  "caption": "Dos documentos, dos funciones: un pasaporte válido, por sí solo, no es permiso para entrar.",
+  "placement": {
+   "h2": 5,
+   "para": 4
+  }
+ }
+}

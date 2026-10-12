@@ -34,6 +34,8 @@ Der erste Schritt ist die Zentralisierung, wo Familienpässe leben. Das bedeutet
 
 Verschlüsselte Speicherung ist wichtig, da Pässe Ihren vollständigen Namen, Geburtsdatum und Passnummer enthalten – genug Informationen für Identitätsdiebstahl. Allgemeine Fotospeicher-Apps wie Google Photos oder iCloud behandeln Ihre Dokumente wie Schnappschüsse statt sensibler Identitätsdaten. Ein passwortgeschützter PDF-Ordner auf Ihrem Gerät oder eine speziell für Reisedokumente entwickelte App bietet die Verschlüsselungsebene, die Sie benötigen.
 
+![Diagramm eines Familien-Passsystems: vier Reisepässe (Papa, Mama, Kind 1, Kind 2) fließen in einen verschlüsselten Tresor, aus dem Ablauferinnerungen, Offline-Zugriff und verschlüsseltes Backup hervorgehen, mit dem Hinweis, dass Kinderreisepässe nach 5 Jahren ablaufen, nicht 10](https://traveldocumentvault.com/blog/family-passport-management/family-system-figure-de.jpg) Ein Familiensystem: jeder Reisepass an einem Ort, mit automatischer Verfolgung jedes Ablaufdatums
+
 **Nur digitale Kopien.** Scannen Sie die Foto-ID-Seite des Passes jedes Familienmitglieds. Ein klares Bild der Seite, auf dem das Foto, der Name, das Geburtsdatum, die Passnummer und das Ablaufdatum sichtbar sind, reicht aus. Dies sollte 30 Sekunden pro Person dauern.
 
 Nach dem Scannen leben diese Kopien in Ihrem verschlüsselten Tresor – jederzeit erreichbar, wenn Sie ein Gültigkeitsdatum überprüfen müssen, nachweisen möchten, dass Sie Dokumente haben, wenn Sie Reisen buchen, oder Notfallinformationen an ein Konsulat weitergeben müssen, wenn etwas im Ausland schiefgeht.

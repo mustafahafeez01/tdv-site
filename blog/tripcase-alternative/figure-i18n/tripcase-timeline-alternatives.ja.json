@@ -1,0 +1,58 @@
+{
+ "ja": {
+  "template": "tree",
+  "title": "一つのアプリが四つの役割に分かれた",
+  "root": {
+   "heading": "TripCase",
+   "text": "2025年4月1日にシャットダウン"
+  },
+  "branches": [
+   {
+    "heading": "フライト通知",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Flighty",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "旅程管理",
+    "tone": "good",
+    "items": [
+     {
+      "text": "TripIt",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "書類管理",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Travel Document Vault",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "旅程の共有",
+    "tone": "good",
+    "items": [
+     {
+      "text": "共有フォルダ",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "TripCaseが2025年4月1日のシャットダウン後に分かれた四つの役割を示す図：フライト通知はFlightyへ、旅程管理はTripItへ、書類管理はTravel Document Vaultへ、旅程の共有は共有フォルダへ",
+  "caption": "乗り換え先が一目でわかる図：四つの役割、四つのツール、それぞれが一つのことを得意とする",
+  "placement": {
+   "h2": 5,
+   "para": 1
+  }
+ }
+}

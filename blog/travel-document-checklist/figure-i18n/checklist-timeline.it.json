@@ -1,0 +1,30 @@
+{
+ "it": {
+  "template": "sequence",
+  "title": "Quattro controlli, dalla prenotazione all'imbarco",
+  "steps": [
+   {
+    "label": "Prenotazione",
+    "text": "Controlla le date di scadenza"
+   },
+   {
+    "label": "3 mesi prima",
+    "text": "Rinnova se necessario"
+   },
+   {
+    "label": "1 mese prima",
+    "text": "Conferma e raccogli tutto"
+   },
+   {
+    "label": "La notte prima",
+    "text": "Controllo finale"
+   }
+  ],
+  "alt": "Diagramma a linea temporale dei controlli sui documenti di viaggio: controllare le date di scadenza alla prenotazione, rinnovare se necessario tre mesi prima, confermare e raccogliere tutto un mese prima, controllo finale la notte prima",
+  "caption": "Quattro controlli tra la prenotazione e l'imbarco, piccoli se inizi per tempo.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

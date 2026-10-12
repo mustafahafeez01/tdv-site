@@ -34,6 +34,8 @@ De eerste stap is centraliseren waar familiepaspoorten zijn opgeslagen. Dit bete
 
 Versleutelde opslag is belangrijk omdat paspoorten je volledige wettelijke naam, geboortedatum en paspoortnummer bevatten – informatie genoeg voor identiteitsdiefstal. Algemene fotoopslag-apps zoals Google Foto's of iCloud behandelen je documenten als foto's in plaats van gevoelige identiteitsinformatie. Een met wachtwoord beveiligde PDF-map op je apparaat, of een app speciaal gebouwd om reisgidsen te verwerken, geeft je de versleutelingslaag die je nodig hebt.
 
+![Diagram van één gezinspaspoortsysteem: vier paspoorten (Papa, Mama, Kind 1, Kind 2) die binnenkomen in één versleutelde kluis, met vervalherinneringen, offline toegang en versleutelde back-up die eruit komen, en een aantekening dat paspoorten van kinderen na 5 jaar verlopen, niet 10](https://traveldocumentvault.com/blog/family-passport-management/family-system-figure-nl.jpg) Eén gezinssysteem: elk paspoort op één plek, met automatische controle van elke vervaldatum
+
 **Alleen digitale kopieën.** Scan de fotopagina van het identiteitsdocument van elk gezinslid. Eén duidelijke afbeelding van de pagina die de foto, naam, geboortedatum, paspoortnummer en vervaldatum toont is voldoende. Dit zou per persoon 30 seconden moeten duren.
 
 Na het scannen worden deze kopieën in je versleutelde kluis opgeslagen – toegankelijk wanneer je een geldigheidsdatum wilt controleren, je documenten wilt bewijzen bij het boeken van reizen, of noodgegevens naar een consulaat wilt geven als iets in het buitenland misgaat.

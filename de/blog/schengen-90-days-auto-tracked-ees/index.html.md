@@ -30,6 +30,8 @@ Nicht alle sind registriert. EU-Bürger, Bewohner von Schengen-Ländern und Inha
 
 Die Regel selbst hat sich nicht geändert: Sie dürfen sich maximal 90 Tage innerhalb des Schengen-Raums während eines beliebigen rollierenden 180-Tage-Fensters aufhalten. Das sind nicht 90 Tage pro Kalenderjahr, und das Fenster setzt sich nicht zurück, wenn Sie abreisen. Für jeden Tag, an dem Sie anwesend sind, dürfen die vorherigen 180 Tage nicht mehr als 90 Tage Aufenthalt enthalten.
 
+![Zeitstrahl-Diagramm zum rollierenden 90/180-Schengen-Fenster: von vor 180 Tagen bis heute verbrauchen zwei Reisen von 30 und 45 Tagen 75 der 90 Tage, es bleiben 15; das Fenster verschiebt sich jeden Tag, und An- und Abreisetag zählen beide](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-de.jpg) Das Fenster setzt sich nie zurück: für jeden einzelnen Tag dürfen die vorherigen 180 Tage höchstens 90 Aufenthaltstage enthalten.
+
 Was sich geändert hat, ist die Kontrolle. Unter Reisepassstempeln bedeutete der Nachweis einer Überschreitung, verwischte Tinte zu entziffern, und Grenzbeamte hatten einen gewissen Spielraum. Jetzt sind die Daten exakt, und das System flaggt eine Überschreitung in dem Moment, in dem sie passiert. Erwarten Sie Verweigerung bei Ihrer nächsten Einreise, und in vielen Fällen ein Einreiseverbot von ein bis fünf Jahren, das Beamte ins Schengen-Informationssystem eintragen. Der Spielraum für Fehler ist von unklar zu null gesunken.
 
 ## Der Haken: Das EES erzwingt, es plant nicht

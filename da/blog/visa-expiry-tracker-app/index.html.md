@@ -37,6 +37,8 @@ En rejsende rejser ind i Vietnam på et visum stemplet "gyldigt til 30. juni" me
 
 En overvågning, der kun følger indrejsens gyldighedsdato, misser netop denne fælde: at overskride den maksimale opholdstid efter en helt lovlig indrejse. Det er det felt, flest rejsende glemmer at overvåge, fordi datoen ikke er stemplet nogen steder i passet – du skal selv regne den ud ud fra din egen indrejsedato.
 
+![Diagram over de tre ure på ét visum: indrejsegyldighed (indrejse før denne dato), maksimalt ophold (hvor længe du må blive), og antal indrejser (én eller flere indrejser), med en note om, at Schengen tilføjer et fjerde, det glidende 90/180-vindue, og at overskridelser kan betyde bøder og indrejseforbud](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/visa-three-clocks-figure-da.jpg) Et visum er ikke én dato. Det er tre separate ure, og nogle gange et fjerde.
+
 ## Schengens 90/180-dages-regel
 
 For rejsende, der besøger flere europæiske lande, er Schengenområdets 90/180-dages-regel en af de mest misforståede indrejsebetingelser inden for international rejse. Statsborgere fra lande med visumfri adgang til Schengen (heriblandt Storbritannien, USA, Canada og Australien, blandt mange andre) må opholde sig højst 90 dage i Schengenområdet inden for et glidende vindue på 180 dage.

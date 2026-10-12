@@ -1,0 +1,30 @@
+{
+ "de": {
+  "template": "sequence",
+  "title": "Das rollierende 90/180-Fenster",
+  "subtitle": "Das Fenster verschiebt sich jeden Tag",
+  "start": "Vor 180 Tagen",
+  "steps": [
+   {
+    "label": "Reise 1",
+    "text": "30 Tage"
+   },
+   {
+    "label": "Reise 2",
+    "text": "45 Tage"
+   },
+   {
+    "label": "Heute",
+    "text": "30 + 45 = 75 Tage verbraucht, also bleiben 15 von 90"
+   }
+  ],
+  "highlight": 2,
+  "focal": "An- und Abreisetag zählen beide",
+  "alt": "Zeitstrahl-Diagramm zum rollierenden 90/180-Schengen-Fenster: von vor 180 Tagen bis heute verbrauchen zwei Reisen von 30 und 45 Tagen 75 der 90 Tage, es bleiben 15; das Fenster verschiebt sich jeden Tag, und An- und Abreisetag zählen beide",
+  "caption": "Das Fenster setzt sich nie zurück: für jeden einzelnen Tag dürfen die vorherigen 180 Tage höchstens 90 Aufenthaltstage enthalten.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  }
+ }
+}

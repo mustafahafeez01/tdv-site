@@ -1,0 +1,52 @@
+{
+ "ja": {
+  "template": "matrix",
+  "title": "パスポートはどこに置くべきか",
+  "columns": [
+   "iCloud Photos",
+   "Google Photos",
+   "暗号化ボルト"
+  ],
+  "highlight_col": 2,
+  "rows": [
+   {
+    "label": "エンドツーエンド暗号化",
+    "cells": [
+     "オプション",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "アカウント不要",
+    "cells": [
+     "cross",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "オフラインで使える",
+    "cells": [
+     "tick",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "AES-256",
+    "cells": [
+     "オプション",
+     "cross",
+     "tick"
+    ]
+   }
+  ],
+  "alt": "パスポートの保管先を比較する図。iCloud Photosはオプションでエンドツーエンド暗号化できるが、アカウントと同期が必要。Google Photosは4つの条件すべてを満たさない。暗号化ボルトはエンドツーエンド暗号化、アカウント不要、オフライン利用、AES-256のすべてを満たす",
+  "caption": "上の比較表を、一目で見られるように描き直したもの",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

@@ -37,6 +37,8 @@ Een reiziger reist Vietnam binnen op een visum met de stempel "geldig tot 30 jun
 
 Een app die alleen de geldigheidsdatum voor inreis bijhoudt, mist precies deze valkuil: de maximale verblijfsduur overschrijden na een volkomen legale inreis. Het is het veld dat de meeste reizigers vergeten bij te houden, omdat de datum nergens in het paspoort staat gestempeld – je moet hem zelf berekenen op basis van je eigen inreisdatum.
 
+![Diagram van de drie klokken van één visum: inreisgeldigheid (kom binnen voor deze datum), maximale verblijfsduur (hoe lang je mag blijven), en aantal inreizen (één of meerdere inreizen), met de aantekening dat Schengen een vierde klok toevoegt, het voortschrijdende 90/180-venster, en dat overstays boetes en inreisverboden kunnen betekenen](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/visa-three-clocks-figure-nl.jpg) Een visum is niet één datum. Het zijn drie afzonderlijke klokken, en soms een vierde.
+
 ## De 90/180-dagenregel van Schengen
 
 Voor reizigers die meerdere Europese landen bezoeken, is de 90/180-dagenregel van het Schengengebied een van de meest verkeerd begrepen inreisvoorwaarden in het internationale reizen. Burgers van landen met visumvrije toegang tot Schengen (waaronder het VK, de VS, Canada en Australië, naast vele andere) mogen maximaal 90 dagen in het Schengengebied verblijven binnen elke voortschrijdende periode van 180 dagen.

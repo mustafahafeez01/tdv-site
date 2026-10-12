@@ -1,0 +1,50 @@
+{
+ "nl": {
+  "template": "cards",
+  "title": "Paspoortfoto's voor een baby",
+  "cards": [
+   {
+    "heading": "Wat gelijk blijft",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Ogen open, kijkend naar de camera",
+      "mark": "tick"
+     },
+     {
+      "text": "Effen achtergrond achter het hoofd",
+      "mark": "tick"
+     },
+     {
+      "text": "Niets anders in beeld",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Wat verandert met de leeftijd",
+    "items": [
+     {
+      "text": "Onder 6 maanden: liggend op effen doek",
+      "mark": "dot"
+     },
+     {
+      "text": "6 mnd - 2 jaar: op schoot, volwassene niet in beeld",
+      "mark": "dot"
+     },
+     {
+      "text": "2 jaar en ouder: zittend, net boven de lens kijkend",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "focal": "Vaakst afgewezen: een hand, speen of speelgoed erbij",
+  "alt": "Diagram van wat gelijk blijft op een babypaspoortfoto (ogen open, effen achtergrond, niets anders in beeld) en wat verandert per leeftijdsgroep, van onder 6 maanden tot 2 jaar en ouder, met de meest voorkomende afwijzingsredenen",
+  "caption": "",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

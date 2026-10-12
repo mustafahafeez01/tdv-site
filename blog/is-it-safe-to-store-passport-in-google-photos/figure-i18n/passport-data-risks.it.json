@@ -1,0 +1,71 @@
+{
+ "it": {
+  "template": "cards",
+  "title": "Cosa rivela una foto del passaporto",
+  "cards": [
+   {
+    "heading": "Cosa mostra",
+    "items": [
+     {
+      "text": "Nome",
+      "mark": "dot"
+     },
+     {
+      "text": "Data di nascita",
+      "mark": "dot"
+     },
+     {
+      "text": "Numero di passaporto",
+      "mark": "dot"
+     },
+     {
+      "text": "Foto",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "I rischi",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Violazione dell'account",
+      "mark": "cross"
+     },
+     {
+      "text": "Accesso di terze parti",
+      "mark": "cross"
+     },
+     {
+      "text": "Indicizzazione dei dati",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Posti più sicuri",
+    "tone": "good",
+    "items": [
+     {
+      "text": "iCloud con ADP",
+      "mark": "tick"
+     },
+     {
+      "text": "App crittografata",
+      "mark": "tick"
+     },
+     {
+      "text": "Copia offline",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagramma di cosa rivela una foto del passaporto - nome, data di nascita, numero di passaporto e foto - insieme a tre rischi, violazione dell'account, accesso di terze parti e indicizzazione dei dati, e tre opzioni più sicure: iCloud con ADP, un'app crittografata, o una copia offline",
+  "caption": "Una foto, quattro dati personali, e tre posti più tranquilli dove conservarli.",
+  "placement": {
+   "h2": 4,
+   "para": 5
+  }
+ }
+}

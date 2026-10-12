@@ -1,0 +1,30 @@
+{
+ "fr": {
+  "template": "sequence",
+  "title": "La fenêtre glissante 90/180",
+  "subtitle": "La fenêtre se déplace chaque jour",
+  "start": "Il y a 180 jours",
+  "steps": [
+   {
+    "label": "Voyage 1",
+    "text": "30 jours"
+   },
+   {
+    "label": "Voyage 2",
+    "text": "45 jours"
+   },
+   {
+    "label": "Aujourd'hui",
+    "text": "30 + 45 = 75 jours utilisés, il en reste 15 sur 90"
+   }
+  ],
+  "highlight": 2,
+  "focal": "Les jours d'arrivée et de départ comptent tous les deux",
+  "alt": "Diagramme de la fenêtre glissante Schengen 90/180 : d'il y a 180 jours à aujourd'hui, deux voyages de 30 et 45 jours utilisent 75 des 90 jours, il en reste 15 ; la fenêtre se déplace chaque jour et les jours d'arrivée et de départ comptent tous les deux",
+  "caption": "La fenêtre ne se réinitialise jamais : pour chaque jour, les 180 jours précédents ne peuvent contenir plus de 90 jours de séjour.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  }
+ }
+}

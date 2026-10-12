@@ -1,0 +1,51 @@
+{
+ "id": {
+  "template": "cards",
+  "title": "EES dan ETIAS bukan hal yang sama",
+  "cards": [
+   {
+    "heading": "EES",
+    "items": [
+     {
+      "text": "Terjadi di perbatasan",
+      "mark": "dot"
+     },
+     {
+      "text": "Sidik jari dan foto, tanpa permohonan",
+      "mark": "dot"
+     },
+     {
+      "text": "Mulai diterapkan di titik masuk",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "ETIAS",
+    "items": [
+     {
+      "text": "Terjadi sebelum Anda terbang",
+      "mark": "dot"
+     },
+     {
+      "text": "Ajukan secara daring, biaya kecil",
+      "mark": "dot"
+     },
+     {
+      "text": "Belum wajib, belum ada tanggal pasti",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "and",
+  "note": "Pada akhirnya Anda akan memerlukan keduanya",
+  "focal": "Keduanya bukan visa",
+  "alt": "Diagram yang membandingkan EES dan ETIAS: EES terjadi di perbatasan dengan sidik jari dan foto, tanpa permohonan, dan mulai diterapkan di titik-titik masuk; ETIAS terjadi sebelum Anda terbang, diajukan secara daring dengan biaya kecil, dan belum ada tanggal wajib yang dipastikan; Anda pada akhirnya akan memerlukan keduanya, dan keduanya bukan visa",
+  "caption": "Dua gerbang yang berbeda: EES mendaftarkan Anda saat kedatangan; ETIAS memberi izin sebelum keberangkatan.",
+  "placement": {
+   "h2": 7,
+   "para": 3
+  }
+ }
+}

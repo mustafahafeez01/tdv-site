@@ -50,6 +50,8 @@ Los documentos de viaje tienen un peso diferente que las listas de reproducción
 
 TripCase empaquetaba varios trabajos diferentes en una sola aplicación gratuita. Ninguna aplicación actual hace todos bien, así que el movimiento honesto es dividir los trabajos y elegir la mejor herramienta para cada uno:
 
+![Diagrama de las cuatro tareas de TripCase tras su cierre el 1 de abril de 2025: alertas de vuelo a Flighty, itinerario a TripIt, documentos a Travel Document Vault, compartir el viaje a una carpeta compartida](https://traveldocumentvault.com/blog/tripcase-alternative/tripcase-timeline-alternatives-es.jpg) El mapa de sustitución de un vistazo: cuatro tareas, cuatro herramientas, cada una haciendo bien lo suyo.
+
 | El trabajo | Lo que TripCase hacía | Mejor reemplazo ahora | Costo |
 |---|---|---|---|
 | Alertas de vuelos | Retrasos en tiempo real, cambios de puerta, cancelaciones | Flighty | Nivel gratuito; suscripción de pago disponible |

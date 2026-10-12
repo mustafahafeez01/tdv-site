@@ -33,6 +33,8 @@ Ingen af tilgangene er forkert i sig selv, men for identitetsdokumenter så føl
 
 Et sikkerhedsbrud i en app med lokal lagring lækker intet fra deres servere – der er simpelthen intet at lække.
 
+![Diagram, der sammenligner de to lagringsmodeller for en app til opbevaring af pas: på enheden betyder, at dine data bliver hos dig, cloud-upload betyder, at du skal stole på serveren, og på enheden virker også offline](https://traveldocumentvault.com/blog/best-passport-organizer-app/app-storage-compare-da.jpg) Det ene arkitekturvalg, der afgør alt andet ved en pas-app.
+
 ## Disse funktioner afgør, om appen fortjener sin plads
 
 ### Varslingstiden er den indstilling, det er værd at tilpasse

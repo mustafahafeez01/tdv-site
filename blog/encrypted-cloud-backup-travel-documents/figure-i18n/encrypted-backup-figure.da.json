@@ -1,0 +1,41 @@
+{
+ "da": {
+  "template": "tree",
+  "root": {
+   "heading": "Hvem har nøglen?"
+  },
+  "branches": [
+   {
+    "edge": "Deres nøgle",
+    "edge_mark": "cross",
+    "heading": "Fotobackup",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Kan læses af alle, der får adgang",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "edge": "Din nøgle, forbliver på telefonen",
+    "edge_mark": "tick",
+    "heading": "Krypteret backup",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Ubrugelig uden nøglen",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Samme sky, forskelligt svar",
+  "alt": "Diagram, der sammenligner en fotobackup, som kan læses i skyen, fordi virksomheden har nøglen, med en krypteret backup, som er ubrugelig uden nøglen, der forbliver på din telefon",
+  "caption": "Samme sky, forskelligt svar. Filen bliver uploadet begge veje; det, der ændrer sig, er, hvem der kan åbne den.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

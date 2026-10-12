@@ -1,0 +1,52 @@
+{
+ "nl": {
+  "template": "matrix",
+  "title": "Waar bewaar je je paspoort het best?",
+  "columns": [
+   "iCloud-foto's",
+   "Google Foto's",
+   "Versleutelde kluis"
+  ],
+  "highlight_col": 2,
+  "rows": [
+   {
+    "label": "End-to-end versleuteld",
+    "cells": [
+     "optioneel",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "Geen account nodig",
+    "cells": [
+     "cross",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "Werkt offline",
+    "cells": [
+     "tick",
+     "cross",
+     "tick"
+    ]
+   },
+   {
+    "label": "AES-256",
+    "cells": [
+     "optioneel",
+     "cross",
+     "tick"
+    ]
+   }
+  ],
+  "alt": "Vergelijkingsdiagram over waar je paspoort het best staat: iCloud-foto's bieden optionele end-to-end versleuteling maar vragen een account en synchronisatie, Google Foto's voldoet aan geen van de vier criteria, een versleutelde kluis vinkt end-to-end, geen account, werkt offline en AES-256 allemaal aan",
+  "caption": "De vergelijkingstabel hierboven, in één overzicht.",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

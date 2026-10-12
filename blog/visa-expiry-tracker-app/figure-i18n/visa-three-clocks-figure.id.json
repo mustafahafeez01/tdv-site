@@ -1,0 +1,43 @@
+{
+ "id": {
+  "template": "matrix",
+  "title": "Satu visa, tiga jam yang berbeda",
+  "columns": [
+   "Yang diberitahukannya"
+  ],
+  "rows": [
+   {
+    "label": "Masa berlaku masuk",
+    "cells": [
+     "Masuk sebelum tanggal ini"
+    ]
+   },
+   {
+    "label": "Masa tinggal maksimum",
+    "cells": [
+     "Berapa lama Anda boleh tinggal"
+    ]
+   },
+   {
+    "label": "Jumlah kunjungan",
+    "cells": [
+     "Kunjungan tunggal atau berkali-kali"
+    ]
+   },
+   {
+    "label": "Schengen menambahkan jam keempat",
+    "cells": [
+     "Jendela bergulir 90/180"
+    ]
+   }
+  ],
+  "note": "Lacak semuanya per orang, di satu tempat",
+  "focal": "Overstay bisa berarti denda dan larangan masuk kembali",
+  "alt": "Diagram tiga jam pada satu visa: masa berlaku masuk (masuk sebelum tanggal ini), masa tinggal maksimum (berapa lama Anda boleh tinggal), dan jumlah kunjungan (kunjungan tunggal atau berkali-kali), dengan catatan bahwa Schengen menambahkan jam keempat, jendela bergulir 90/180, dan overstay bisa berarti denda dan larangan masuk kembali",
+  "caption": "Visa bukan satu tanggal. Ini adalah tiga jam yang terpisah, dan kadang ada jam keempat.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

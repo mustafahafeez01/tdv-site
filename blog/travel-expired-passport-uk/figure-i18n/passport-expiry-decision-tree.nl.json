@@ -1,0 +1,40 @@
+{
+ "nl": {
+  "template": "tree",
+  "title": "Reizen met een verlopen paspoort",
+  "root": {
+   "heading": "Type reis?"
+  },
+  "branches": [
+   {
+    "edge": "Internationaal",
+    "edge_mark": "cross",
+    "heading": "Niet toegestaan",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Vraag een spoedverlenging aan"
+     }
+    ]
+   },
+   {
+    "edge": "Binnenlands",
+    "edge_mark": "question",
+    "heading": "Overleg met je luchtvaartmaatschappij",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Bel voor vertrek"
+     }
+    ]
+   }
+  ],
+  "focal": "Controleer dit altijd voor vertrek",
+  "alt": "Beslisboom voor een verlopen paspoort: internationale reizen zijn niet toegestaan en verwijzen naar het aanvragen van een spoedverlenging, binnenlandse reizen verwijzen naar overleg met je luchtvaartmaatschappij en bellen voor vertrek, met de aantekening om dit altijd voor vertrek te controleren",
+  "caption": "De twee paden vanaf een verlopen paspoort - en geen van beide loopt via de vertrekgate.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

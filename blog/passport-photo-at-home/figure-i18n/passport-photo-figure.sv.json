@@ -1,0 +1,64 @@
+{
+ "sv": {
+  "template": "cards",
+  "title": "Varför passfoton avslås",
+  "cards": [
+   {
+    "heading": "Avslaget",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Skugga bakom huvudet",
+      "mark": "cross"
+     },
+     {
+      "text": "Leende",
+      "mark": "cross"
+     },
+     {
+      "text": "Reflex i glasögonen",
+      "mark": "cross"
+     },
+     {
+      "text": "Hår över ögonen",
+      "mark": "cross"
+     },
+     {
+      "text": "Mönstrad bakgrund",
+      "mark": "cross"
+     },
+     {
+      "text": "Fotot taget för nära",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Godkänt",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Enfärgad bakgrund",
+      "mark": "tick"
+     },
+     {
+      "text": "Neutralt ansiktsuttryck",
+      "mark": "tick"
+     },
+     {
+      "text": "Jämnt ljus",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "Din passmyndighet publicerar exakta måtten",
+  "alt": "Diagram över sex avslagna passfoton - skugga bakom huvudet, leende, reflex i glasögonen, hår över ögonen, mönstrad bakgrund och fotot taget för nära - bredvid ett godkänt foto med enfärgad bakgrund, neutralt ansiktsuttryck och jämnt ljus",
+  "caption": "Sex sätt ett foto skickas tillbaka på, och den enda uppsättningen som godkänns.",
+  "placement": {
+   "h2": 6,
+   "para": 0
+  }
+ }
+}

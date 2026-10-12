@@ -1,0 +1,71 @@
+{
+ "zh-Hans": {
+  "template": "cards",
+  "title": "一张护照照片会暴露什么",
+  "cards": [
+   {
+    "heading": "照片显示的内容",
+    "items": [
+     {
+      "text": "姓名",
+      "mark": "dot"
+     },
+     {
+      "text": "出生日期",
+      "mark": "dot"
+     },
+     {
+      "text": "护照号码",
+      "mark": "dot"
+     },
+     {
+      "text": "照片",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "风险",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "账户被盗",
+      "mark": "cross"
+     },
+     {
+      "text": "第三方访问",
+      "mark": "cross"
+     },
+     {
+      "text": "数据索引",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "更安全的存放方式",
+    "tone": "good",
+    "items": [
+     {
+      "text": "开启ADP的iCloud",
+      "mark": "tick"
+     },
+     {
+      "text": "加密应用",
+      "mark": "tick"
+     },
+     {
+      "text": "离线副本",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "alt": "示意图：护照照片暴露的信息包括姓名、出生日期、护照号码和照片，对应三项风险——账户被盗、第三方访问、数据索引，以及三种更安全的存放方式——开启ADP的iCloud、加密应用或离线副本",
+  "caption": "一张照片，四项数据，三个更安心的存放之处。",
+  "placement": {
+   "h2": 4,
+   "para": 5
+  }
+ }
+}

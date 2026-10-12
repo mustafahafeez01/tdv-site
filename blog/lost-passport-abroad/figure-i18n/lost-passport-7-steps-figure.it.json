@@ -1,0 +1,38 @@
+{
+ "it": {
+  "template": "sequence",
+  "title": "Passaporto perso all'estero: i 7 passi",
+  "steps": [
+   {
+    "text": "Confermi che sia davvero perso"
+   },
+   {
+    "text": "Presenti una denuncia alla polizia"
+   },
+   {
+    "text": "Contatti la Sua ambasciata"
+   },
+   {
+    "text": "Documento di viaggio d'emergenza"
+   },
+   {
+    "text": "Informi la Sua assicurazione"
+   },
+   {
+    "text": "Verifichi la situazione del Suo visto"
+   },
+   {
+    "text": "Torni a casa, poi lo sostituisca"
+   }
+  ],
+  "highlight": 3,
+  "note": "Prima di tutto questo: fotografi il Suo passaporto oggi",
+  "focal": "Una copia di backup rende il passo 4 molto più rapido",
+  "alt": "Diagramma dei sette passi da seguire dopo aver perso il passaporto all'estero: confermare che sia davvero perso, presentare una denuncia alla polizia, contattare l'ambasciata, richiedere un documento di viaggio d'emergenza, informare l'assicurazione, verificare la situazione del visto, tornare a casa e poi sostituirlo - con la nota di fotografare il passaporto oggi, perché una copia di backup rende il quarto passo molto più rapido",
+  "caption": "Sette passi ordinati, in ordine - e la cosa da fare oggi, prima che servano.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

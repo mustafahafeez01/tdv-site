@@ -24,6 +24,8 @@ Je kunt niet internationaal reizen zonder een geldig paspoort fysiek in je bezit
 
 Of je dat paspoort nog hebt, hangt volledig af van je land en je verlengingsmethode.
 
+![Beslisboom: heb je het paspoort nog in handen? Ja - reis erop zolang het geldig blijft (Amerikaanse verlenging per post, Britse digitale verlenging). Nee - ingeleverd, je wacht op het nieuwe (Britse postale verlenging, Australië, Canada). Geen land laat je internationaal vliegen zonder paspoort in handen](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-nl.jpg) Eén vraag beslist alles: of je oude paspoort nog in je bezit is.
+
 ## Verenigde Staten: verlenging per post
 
 Voor een standaard Amerikaanse paspoortverlenging per post hoef je je huidige paspoort niet in te leveren voordat het nieuwe aankomt. Je vult formulier DS-82 in, voegt je bestaande paspoort toe en stuurt alles naar het National Passport Processing Center. Je oude paspoort wordt samen met het nieuwe teruggestuurd, meestal ongeldig gemaakt met een gaatje.

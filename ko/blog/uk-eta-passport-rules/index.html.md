@@ -44,6 +44,8 @@ UK ETA는 사람이 아니라 여권 번호에 연결됩니다. 신청하면 내
 
 계획해야 할 일정은 다음과 같습니다.
 
+![ETA와 여권의 연결을 비교하는 다이어그램: 신청할 때 사용한 여권은 ETA가 연결되어 평소처럼 여행할 수 있지만, 새로 받거나 갱신한 여권은 연결이 이어지지 않아 출발 전 새 ETA를 신청해야 하며, 여행자 전원이 자녀를 포함해 각자 ETA가 필요하다](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-ko.jpg) 승인은 당신이 아니라 그 여권에 묶여 있습니다. 그리고 여행자마다 자신의 ETA를 따로 지닙니다.
+
 1. 여권 만료일이 다가온다.
 2. 자국에서 여권 갱신을 신청한다.
 3. 새 여권이 도착한다(처리 기간은 상황에 따라 다르므로 [여권 갱신 소요 기간 가이드](https://traveldocumentvault.com/ko/blog/how-long-does-passport-renewal-take/)를 참고하세요).

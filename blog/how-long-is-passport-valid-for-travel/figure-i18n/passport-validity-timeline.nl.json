@@ -1,0 +1,33 @@
+{
+ "nl": {
+  "template": "matrix",
+  "title": "Paspoortgeldigheid",
+  "columns": [
+   "Paspoort volwassene",
+   "Kinderpaspoort"
+  ],
+  "rows": [
+   {
+    "label": "Geldig voor",
+    "cells": [
+     "10 jaar",
+     "5 jaar"
+    ]
+   },
+   {
+    "label": "6 maanden-buffer aan het einde",
+    "cells": [
+     "tick",
+     "tick"
+    ]
+   }
+  ],
+  "focal": "Veel landen vereisen de 6 maanden-buffer",
+  "alt": "Diagram van paspoortgeldigheid: een paspoort voor volwassenen loopt 10 jaar, een kinderpaspoort 5, en aan het einde van beide staat een 6 maanden-buffer omdat veel landen die vereisen",
+  "caption": "Twee klokken, één addertje: de 6 maanden-buffer die veel landen voor je vervaldatum verwachten.",
+  "placement": {
+   "h2": 2,
+   "para": 2
+  }
+ }
+}

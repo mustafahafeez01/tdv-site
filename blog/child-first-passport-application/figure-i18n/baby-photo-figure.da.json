@@ -1,0 +1,50 @@
+{
+ "da": {
+  "template": "cards",
+  "title": "Pasfoto til en baby",
+  "cards": [
+   {
+    "heading": "Det, der er ens",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Øjnene åbne, kigger ind i kameraet",
+      "mark": "tick"
+     },
+     {
+      "text": "Ensfarvet baggrund bag hovedet",
+      "mark": "tick"
+     },
+     {
+      "text": "Intet andet i billedet",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Det, der ændrer sig med alderen",
+    "items": [
+     {
+      "text": "Under 6 måneder: liggende på et ensfarvet lagen",
+      "mark": "dot"
+     },
+     {
+      "text": "6 måneder til 2 år: på skødet, den voksne ikke med",
+      "mark": "dot"
+     },
+     {
+      "text": "2 år og ældre: sidder ned, kigger lige over linsen",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "focal": "Oftest afvist for: støttende hånd, sut eller legetøj i baggrunden",
+  "alt": "Diagram over, hvad der er ens i et pasfoto af en baby (øjnene åbne, ensfarvet baggrund, intet andet i billedet), og hvad der ændrer sig efter alder fra under 6 måneder til 2 år og ældre, samt de mest almindelige afvisningsgrunde",
+  "caption": "",
+  "placement": {
+   "h2": 5,
+   "para": 0
+  }
+ }
+}

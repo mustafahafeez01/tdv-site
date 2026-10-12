@@ -32,6 +32,8 @@ His Majesty's Passport Officeは明確に述べています。パスポートは
 
 唯一の例外は、Foreign Officeが海外の緊急時に発行する英国の緊急渡航文書であり、その場合でも帰国するためだけに存在し、さらなる旅行を許可しません。
 
+![失効したパスポートについての判断図。国際線は不可で緊急更新の申請につながり、国内線は航空会社への確認と渡航前の電話につながる。出発前には必ず確認するという注記付き](https://traveldocumentvault.com/blog/travel-expired-passport-uk/passport-expiry-decision-tree-ja.jpg) 失効したパスポートからの2つの道。どちらも出発ゲートには続かない
+
 ## 期限切れのパスポートで休暇を予約できますか
 
 予約と搭乗は別物です。

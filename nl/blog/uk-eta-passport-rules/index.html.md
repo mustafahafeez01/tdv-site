@@ -44,6 +44,8 @@ Wanneer je je paspoort vernieuwt, krijg je van de paspoortautoriteit in je eigen
 
 Dit is de tijdlijn om rekening mee te houden:
 
+![Vergelijkingsdiagram: het paspoort waarmee je hebt aangevraagd houdt de ETA gekoppeld aan dit paspoort, zodat je gewoon kunt reizen, terwijl een nieuw of vernieuwd paspoort de koppeling niet meeneemt en een nieuwe ETA nodig heeft voor je vliegt, en iedereen die reist een eigen ETA nodig heeft, kinderen inbegrepen](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-nl.jpg) De goedkeuring is gekoppeld aan het paspoort, niet aan jou - en elke reiziger heeft zijn eigen ETA.
+
 1. De vervaldatum van je paspoort komt dichterbij.
 2. Je vraagt in je thuisland een nieuw paspoort aan.
 3. Je nieuwe paspoort komt aan (verwerkingstijden verschillen, zie de [gids over paspoortvernieuwingstijden](https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-take/)).

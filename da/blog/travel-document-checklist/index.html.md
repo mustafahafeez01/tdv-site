@@ -36,6 +36,8 @@ Find ud af, om dit statsborgerskab kræver visum til indrejse, transit, eller be
 
 Book rejseforsikring, når du booker flyrejser, ikke en uge før afrejse. Forsikring tegnet efter du allerede har identificeret en risiko, kan udelukke netop det problem. Sørg for, at policen dækker alle rejsende, alle destinationer, og de aktiviteter, I planlægger at lave.
 
+![Tidslinjediagram over tjek af rejsedokumenter: tjek udløbsdatoer ved booking, forny hvis nødvendigt tre måneder før, bekræft og saml alt en måned før, sidste tjek aftenen før](https://traveldocumentvault.com/blog/travel-document-checklist/checklist-timeline-da.jpg) Fire kontrolpunkter mellem booking og boarding – hver af dem lille, hvis du starter i god tid.
+
 ## Tre måneder før: er fornyelse eller visum tæt på, så start nu
 
 På dette tidspunkt har du stadig tid til at ordne tingene. Sagsbehandlingstider ændrer sig, og hver myndighed offentliggør sit eget aktuelle tal: det amerikanske udenrigsministerium, HM Passport Office, og den australske pasmyndighed. Tjek altid den officielle hjemmeside for aktuelle tider, før du ansøger.

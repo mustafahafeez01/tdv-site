@@ -58,6 +58,8 @@ När ett hotell ber om din passkopia, en ambassad behöver dina uppgifter eller 
 
 Det är den verkliga vinsten: du får tillbaka din hjärnkapacitet. Den osynliga mentala belastningen – det ständiga lågfrekventa bruset av "glömmer jag något?" – försvinner. Appen kommer ihåg så att du slipper.
 
+![Diagram över fem spridda appar - foton, moln, anteckningar, e-post, kalender - som samlas i ett valv, vilket ger tillbaka utgångspåminnelser, kryptering och offline-åtkomst: en app i stället för fem](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/scattered-to-single-vault-sv.jpg) Det kontrollen klockan elva på kvällen brukade innebära - och det den innebär nu.
+
 ## Det är inte bara pass
 
 När jag väl började använda den märkte jag hur många andra dokument som tyst löper ut i bakgrunden.

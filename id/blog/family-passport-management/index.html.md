@@ -34,6 +34,8 @@ Langkah pertama adalah memusatkan tempat penyimpanan paspor keluarga. Artinya, s
 
 Penyimpanan terenkripsi itu penting karena paspor memuat nama lengkap sesuai identitas resmi, tanggal lahir, dan nomor paspor Anda, informasi yang sudah cukup untuk pencurian identitas. Aplikasi penyimpanan foto umum seperti Google Photos atau iCloud memperlakukan dokumen Anda sekadar sebagai jepretan foto biasa, bukan data identitas yang sensitif. Folder PDF yang dilindungi kata sandi di perangkat Anda, atau [aplikasi yang memang dirancang khusus untuk menangani dokumen perjalanan](https://traveldocumentvault.com/id/blog/best-passport-organizer-app/), memberi Anda lapisan enkripsi yang dibutuhkan.
 
+![Diagram sistem paspor satu keluarga: empat paspor (Ayah, Ibu, Anak 1, Anak 2) masuk ke satu vault terenkripsi, dengan pengingat kedaluwarsa, akses offline, dan cadangan terenkripsi yang dihasilkan, serta catatan bahwa paspor anak kedaluwarsa dalam 5 tahun bukan 10](https://traveldocumentvault.com/blog/family-passport-management/family-system-figure-id.jpg) Satu sistem untuk keluarga: setiap paspor di satu tempat, dengan pelacakan otomatis untuk setiap tanggal kedaluwarsa
+
 **Cukup salinan digital saja.** Pindai halaman identitas berfoto dari paspor setiap anggota keluarga. Satu gambar jelas dari halaman yang menampilkan foto, nama, tanggal lahir, nomor paspor, dan tanggal kedaluwarsa sudah cukup. Ini seharusnya hanya butuh 30 detik per orang.
 
 Setelah dipindai, salinan-salinan ini akan tersimpan di vault terenkripsi Anda — bisa diakses kapan saja Anda perlu memeriksa tanggal masa berlaku, membuktikan bahwa Anda memiliki dokumen saat memesan perjalanan, atau memberikan informasi darurat ke konsulat jika terjadi sesuatu di luar negeri.

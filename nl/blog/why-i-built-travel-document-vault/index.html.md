@@ -58,6 +58,8 @@ Wanneer een hotel om uw paspoortkopie vraagt, een ambassade uw gegevens nodig he
 
 Dat is de echte winst: u krijgt uw mentale ruimte terug. De onzichtbare mentale last, dat constante, laagdrempelige gevoel van "vergeet ik iets?", verdwijnt. De app onthoudt zodat u dat niet hoeft te doen.
 
+![Diagram van vijf verspreide apps - foto's, cloud, notities, e-mail, agenda - die samenkomen in één kluis, die daarvoor vervalherinneringen, versleuteling en offline toegang teruggeeft: één app in plaats van vijf](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/scattered-to-single-vault-nl.jpg) Wat de controle om 23:00 uur vroeger inhield - en wat het nu inhoudt.
+
 ## Het gaat niet alleen om paspoorten
 
 Zodra ik het begon te gebruiken, merkte ik hoeveel andere documenten stilletjes op de achtergrond verlopen.

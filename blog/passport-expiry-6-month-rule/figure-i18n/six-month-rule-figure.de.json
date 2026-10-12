@@ -1,0 +1,31 @@
+{
+ "de": {
+  "template": "sequence",
+  "title": "Die 6-Monats-Regel",
+  "subtitle": "Fluggesellschaften prüfen das beim Check-in",
+  "steps": [
+   {
+    "text": "Sie reisen ein"
+   },
+   {
+    "text": "Ihre Reise"
+   },
+   {
+    "text": "Sie fliegen zurück"
+   },
+   {
+    "label": "+ 6 Monate",
+    "text": "Ihr Reisepass muss hier noch gültig sein"
+   }
+  ],
+  "highlight": 3,
+  "note": "Die meisten Länder zählen vom Einreisetag, manche vom Ausreisetag",
+  "focal": "Vom späteren Datum zählen: das deckt beides ab",
+  "alt": "Zeitstrahl-Diagramm zur 6-Monats-Passregel: Sie reisen ein, Ihre Reise, Sie fliegen zurück, dann sechs weitere Monate, in denen der Reisepass gültig bleiben muss; die meisten Länder zählen vom Einreisetag, manche vom Ausreisetag, daher deckt das Zählen vom späteren Datum beides ab",
+  "caption": "Die meisten Länder zählen die sechs Monate vom Einreisetag – vom späteren Datum zu zählen deckt Sie in beiden Fällen ab.",
+  "placement": {
+   "h2": 2,
+   "para": 3
+  }
+ }
+}

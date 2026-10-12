@@ -1,0 +1,49 @@
+{
+ "pt": {
+  "template": "tree",
+  "title": "Renovação: ainda pode viajar?",
+  "root": {
+   "heading": "O passaporte ainda está consigo?"
+  },
+  "branches": [
+   {
+    "edge": "Sim",
+    "edge_mark": "tick",
+    "heading": "Viaje com ele enquanto for válido",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Renovação por correio nos EUA"
+     },
+     {
+      "text": "Renovação digital no Reino Unido"
+     }
+    ]
+   },
+   {
+    "edge": "Não",
+    "edge_mark": "cross",
+    "heading": "Entregue: espera pelo novo",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Renovação por correio no Reino Unido"
+     },
+     {
+      "text": "Austrália"
+     },
+     {
+      "text": "Canadá"
+     }
+    ]
+   }
+  ],
+  "focal": "Nenhum país permite voar sem passaporte em mãos",
+  "alt": "Árvore de decisão: o passaporte ainda está consigo? Sim - viaje com ele enquanto for válido (renovação por correio nos EUA, renovação digital no Reino Unido). Não - entregue, espera pelo novo (renovação por correio no Reino Unido, Austrália, Canadá). Nenhum país permite voar internacionalmente sem um passaporte em mãos",
+  "caption": "Uma pergunta decide tudo: se o seu passaporte antigo ainda está na sua posse.",
+  "placement": {
+   "h2": 2,
+   "para": 2
+  }
+ }
+}

@@ -30,6 +30,8 @@ A data de validade é o limite final, e é o que as regras de validade habituais
 
 Se há uma coisa a reter desta página, é essa assimetria: a data de emissão descreve o documento, e a data de validade descreve durante quanto tempo ainda pode viajar com ele.
 
+![Diagrama da página de dados de um passaporte com quatro campos identificados: data de emissão, data de validade, país emissor e número do passaporte, com a data de validade destacada como a que conta para a validade e para a regra dos 6 meses](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/data-page-figure-pt.jpg) Quatro campos, e é só um deles que toda a regra de entrada realmente mede.
+
 ## Porque É Que O Seu Passaporte Pode Dizer «Data de Expedição»
 
 Muita gente procura o que significa «date of expedition» num formulário ou passaporte em inglês, e a resposta é tranquilizadoramente simples: significa data de emissão.

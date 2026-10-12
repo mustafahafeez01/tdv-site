@@ -50,6 +50,8 @@ La seconde est le voyage sans visa. Quand une destination laisse entrer votre na
 
 Le passeport est donc le vôtre et vous accompagne partout. L'autorisation, elle, est accordée séparément par chaque destination, et elle peut être refusée même si votre passeport est en parfaite règle.
 
+![Diagramme comparatif d'un passeport et d'un visa : votre propre pays délivre le passeport, qui prouve qui vous êtes et vous permet de quitter votre pays, tandis que la destination délivre le visa, qui accorde la permission d'entrer et ne vaut que pour ce pays, avec une note que la plupart des voyages exigent les deux](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-fr.jpg) Deux documents, deux rôles — et un passeport valide, à lui seul, n'est pas une permission d'entrer.
+
 ## Les types de visas varient selon l'objet et la durée
 
 La plupart des pays délivrent des visas dans ces catégories :

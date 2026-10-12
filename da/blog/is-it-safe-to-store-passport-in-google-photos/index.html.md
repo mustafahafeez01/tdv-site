@@ -87,6 +87,8 @@ Er du iPhone-bruger, er det værd at slå **Avanceret databeskyttelse i iCloud**
 
 **Travel Document Vault** gemmer dine passcanninger på enheden med stærk kryptering. Ingen konto påkrævet. Med Pro kan du tage backup af en krypteret kopi til din egen iCloud eller Google Drive. Opbevar din gendannelseskode sikkert: du skal bruge den til at gendanne denne backup. [Hent den i App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
+![Diagram over, hvad et pasfoto afslører – navn, fødselsdato, pasnummer og foto – sammen med tre risici, kompromitteret konto, tredjepartsadgang og dataindeksering, og tre sikrere muligheder: iCloud med ADP, en krypteret app eller en offline kopi](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/passport-data-risks-da.jpg) Ét foto, fire datapunkter og tre mere trygge steder at opbevare dem.
+
 ## Hvad er de sikrere alternativer?
 
 Vil du gerne have en digital paskopi ved hånden, når du rejser – som backup, hvis dit fysiske pas bliver væk eller stjålet – findes der løsninger, der giver reel sikkerhed uden det store besvær.

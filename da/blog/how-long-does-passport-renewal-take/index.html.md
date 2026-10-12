@@ -46,6 +46,8 @@ Sig, at du rejser i et lands højsæson, og dit pas nærmer sig grænsen. At bet
 
 De fleste forsinkelser skyldes ikke, at systemet generelt er langsomt. De skyldes en lille gruppe situationer, der skubber en ansøgning ud af hurtigsporet og ind i ekstra gennemgang, og det gælder uanset hvilket land, du ansøger i.
 
+![Diagram af en ansøgning, der bevæger sig mod et færdigt pas forbi seks forsinkelser: navneskift, første voksenpas, en ansøgning for et barn, bortkommet eller beskadiget, ekstra kontrol eller en samtale, og ansøgning fra udlandet](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/passport-renewal-timeline-da.jpg) Seks situationer trækker en ansøgning ud af hurtigsporet. En ligetil fornyelse springer dem alle over.
+
 - **Et navneskift.** Ægteskab, skilsmisse eller et juridisk navneskift betyder som regel ekstra dokumentation og yderligere verifikation, før det nye pas kan udstedes.
 - **Et første voksenpas.** Hvis det er første gang, du ansøger som voksen, eller du går fra et barnepas, kører de fleste myndigheder ekstra identitetskontroller, fordi der ikke findes en tidligere voksenpasoptegnelse at sammenholde med.
 - **Et barns pas.** Krav om forældresamtykke, fødselsattester og, i nogle lande, personligt fremmøde fra begge forældre tilføjer trin, som voksenfornyelser ikke kræver.

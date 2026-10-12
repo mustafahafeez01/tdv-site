@@ -1,0 +1,64 @@
+{
+ "en": {
+  "template": "cards",
+  "title": "Why passport photos get rejected",
+  "cards": [
+   {
+    "heading": "Rejected",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Shadow behind the head",
+      "mark": "cross"
+     },
+     {
+      "text": "Smiling",
+      "mark": "cross"
+     },
+     {
+      "text": "Glasses glare",
+      "mark": "cross"
+     },
+     {
+      "text": "Hair across the eyes",
+      "mark": "cross"
+     },
+     {
+      "text": "Patterned background",
+      "mark": "cross"
+     },
+     {
+      "text": "Photo taken too close",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "heading": "Accepted",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Plain background",
+      "mark": "tick"
+     },
+     {
+      "text": "Neutral face",
+      "mark": "tick"
+     },
+     {
+      "text": "Even light",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "focal": "Your passport office publishes the exact size",
+  "alt": "Hand-drawn sketchnote of six rejected passport photos - shadow behind the head, smiling, glasses glare, hair across the eyes, patterned background and photo taken too close - beside one accepted photo on a plain background with a neutral face and even light",
+  "caption": "Six ways a photo gets sent back, and the one setup that passes.",
+  "placement": {
+   "h2": 6,
+   "para": 0
+  }
+ }
+}

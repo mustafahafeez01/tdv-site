@@ -34,6 +34,8 @@ De flesta resenärer har tagit till sig tanken att pass behöver sex månaders g
 
 Vår guide till [6-månadersregeln](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/) går igenom vilka länder som faktiskt tillämpar den. Vår [förklaring av passgiltighet](https://traveldocumentvault.com/sv/blog/how-long-is-passport-valid-for-travel/) täcker det allmänna fallet. Här håller vi oss till Schengen, eftersom det är där familjer oftast räknar fel på ett subtilt sätt.
 
+![Diagram över en familjs fyra passutgångsdatum i ordning: barn 2 giltigt till 2027, barn 1 till 2028, mamma till 2030, pappa till 2032; det tidigaste datumet avgör resan, barnpass gäller 5 år inte 10, och Schengen vill ha 3 månader kvar efter att du lämnar området](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/family-expiry-dates-figure-sv.jpg) Fyra pass, fyra klockor - och den kortaste sätter familjens verkliga deadline.
+
 ## Barnpass går på en snabbare klocka
 
 Vuxenpass gäller vanligtvis i 10 år; barns pass bara i fem. Den asymmetrin är där annars omsorgsfulla planer går snett.

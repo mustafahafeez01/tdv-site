@@ -1,0 +1,28 @@
+{
+ "it": {
+  "template": "hub",
+  "title": "Una famiglia, un sistema",
+  "inputs": [
+   "Papà",
+   "Mamma",
+   "Figlio 1",
+   "Figlio 2"
+  ],
+  "hub": {
+   "heading": "Un caveau crittografato"
+  },
+  "outputs": [
+   "Promemoria di scadenza",
+   "Accesso offline",
+   "Backup crittografato"
+  ],
+  "focal": "I passaporti dei bambini scadono in 5 anni, non 10",
+  "alt": "Diagramma di un sistema familiare per i passaporti: quattro passaporti (Papà, Mamma, Figlio 1, Figlio 2) confluiscono in un caveau crittografato, da cui escono promemoria di scadenza, accesso offline e backup crittografato, con la nota che i passaporti dei bambini scadono in 5 anni, non 10",
+  "caption": "Un sistema per tutta la famiglia: ogni passaporto in un unico posto, con un controllo automatico per ogni data di scadenza",
+  "placement": {
+   "h2": 3,
+   "para": 2,
+   "in_figure_element": true
+  }
+ }
+}

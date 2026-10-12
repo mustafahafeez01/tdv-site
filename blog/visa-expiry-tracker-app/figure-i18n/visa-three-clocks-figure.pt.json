@@ -1,0 +1,43 @@
+{
+ "pt": {
+  "template": "matrix",
+  "title": "Um visto, três relógios diferentes",
+  "columns": [
+   "O que lhe diz"
+  ],
+  "rows": [
+   {
+    "label": "Validade de entrada",
+    "cells": [
+     "Entre antes desta data"
+    ]
+   },
+   {
+    "label": "Estadia máxima",
+    "cells": [
+     "Quanto tempo pode ficar"
+    ]
+   },
+   {
+    "label": "Número de entradas",
+    "cells": [
+     "Entrada única ou múltipla"
+    ]
+   },
+   {
+    "label": "O Schengen adiciona um quarto",
+    "cells": [
+     "A janela móvel 90/180"
+    ]
+   }
+  ],
+  "note": "Acompanhe todos, por pessoa, num só lugar",
+  "focal": "Exceder o prazo pode trazer multas e proibições",
+  "alt": "Diagrama dos três relógios de um visto: validade de entrada (entre antes desta data), estadia máxima (quanto tempo pode ficar) e número de entradas (entrada única ou múltipla), com uma nota de que o Schengen adiciona um quarto, a janela móvel 90/180, e que exceder o prazo pode trazer multas e proibições de entrada",
+  "caption": "Um visto não é uma data. São três relógios separados, e às vezes um quarto.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

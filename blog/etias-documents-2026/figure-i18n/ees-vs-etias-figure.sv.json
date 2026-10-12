@@ -1,0 +1,51 @@
+{
+ "sv": {
+  "template": "cards",
+  "title": "EES och ETIAS är inte samma sak",
+  "cards": [
+   {
+    "heading": "EES",
+    "items": [
+     {
+      "text": "Sker vid gränsen",
+      "mark": "dot"
+     },
+     {
+      "text": "Fingeravtryck och foto, ingen ansökan",
+      "mark": "dot"
+     },
+     {
+      "text": "Rullas ut vid fler gränsövergångar",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "ETIAS",
+    "items": [
+     {
+      "text": "Sker innan du flyger",
+      "mark": "dot"
+     },
+     {
+      "text": "Ansök online, liten avgift",
+      "mark": "dot"
+     },
+     {
+      "text": "Inte obligatoriskt än, inget datum satt",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "and",
+  "note": "Du kommer till slut behöva båda",
+  "focal": "Ingen av dem är ett visum",
+  "alt": "Diagram som jämför EES och ETIAS: EES sker vid gränsen med fingeravtryck och foto, ingen ansökan, och rullas ut vid fler gränsövergångar; ETIAS sker innan du flyger, ansöks online mot en liten avgift, inget obligatoriskt datum bekräftat än; du kommer till slut behöva båda, och ingen av dem är ett visum",
+  "caption": "Två olika grindar: EES registrerar dig vid ankomst, ETIAS klarerar dig före avresa.",
+  "placement": {
+   "h2": 7,
+   "para": 3
+  }
+ }
+}

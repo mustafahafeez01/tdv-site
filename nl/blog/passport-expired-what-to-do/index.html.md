@@ -19,6 +19,8 @@ Source: https://traveldocumentvault.com/nl/blog/passport-expired-what-to-do/
 
 Ontdekken dat je paspoort is verlopen, is een van die momenten waarop de tijd plotseling heel echt aanvoelt. Of je het nu drie maanden voor een reis ontdekte of nu op dit moment bij de incheckbalie op het vliegveld staat, wat er hierna gebeurt hangt volledig af van je situatie.
 
+![Vertakkingsdiagram voor een verlopen paspoort: thuis met een reis op komst, vraag een spoedverlenging aan want het VK biedt dezelfde dag en de VS noodafspraken; op de luchthaven, bel eerst je luchtvaartmaatschappij want sommige boeken gratis om bij noodgevallen. De echte oplossing is een herinnering op 12 maanden, niet 6, want verlopen betekent niet vliegen](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-nl.jpg) Hetzelfde probleem, twee heel verschillende draaiboeken - het hangt allemaal af van waar je staat als je het ontdekt.
+
 ## Scenario A: je ontdekte het thuis, met een reis in het vooruitzicht
 
 Deze situatie is op te lossen, maar hoe gemakkelijk hangt af van hoeveel tijd je nog hebt voor je vertrek.

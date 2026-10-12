@@ -1,0 +1,28 @@
+{
+ "pt": {
+  "template": "hub",
+  "title": "Uma família, um sistema",
+  "inputs": [
+   "Pai",
+   "Mãe",
+   "Filho 1",
+   "Filho 2"
+  ],
+  "hub": {
+   "heading": "Um cofre encriptado"
+  },
+  "outputs": [
+   "Avisos de validade",
+   "Acesso offline",
+   "Cópia de segurança encriptada"
+  ],
+  "focal": "Passaportes de crianças expiram em 5 anos, não 10",
+  "alt": "Diagrama de um sistema de passaportes para uma família: quatro passaportes (pai, mãe, filho 1, filho 2) a entrar num único cofre encriptado, com avisos de validade, acesso offline e cópia de segurança encriptada à saída, e uma nota de que os passaportes de crianças expiram em 5 anos, não 10",
+  "caption": "Um sistema familiar: todos os passaportes num só lugar, com acompanhamento automático de cada data de validade",
+  "placement": {
+   "h2": 3,
+   "para": 2,
+   "in_figure_element": true
+  }
+ }
+}

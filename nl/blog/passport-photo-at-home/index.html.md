@@ -87,6 +87,8 @@ Moderne smartphones fotograferen met 12 megapixels of meer, wat ruim voldoende i
 
 ## Veelvoorkomende afwijzingsredenen en hoe je ze voorkomt
 
+![Diagram van zes afgewezen paspoortfoto's - schaduw achter het hoofd, glimlachen, reflectie in de bril, haar over de ogen, achtergrond met patroon en foto te dichtbij genomen - naast één geaccepteerde foto op een effen achtergrond met neutrale gezichtsuitdrukking en gelijkmatig licht](https://traveldocumentvault.com/blog/passport-photo-at-home/passport-photo-figure-nl.jpg) Zes manieren waarop een foto wordt teruggestuurd, en de ene opstelling die slaagt.
+
 - **Schaduwen op het gezicht:** Veroorzaakt door zijlicht of felle lichtbronnen. Ga loodrecht op een raam staan voor gelijkmatige belichting, en controleer of je oren en jukbeenderen gelijkmatig belicht zijn.
 - **Onjuiste fotoafmetingen:** De foto komt niet overeen met de specificatie van je land (eisen verschillen per land). Gebruik een bijsnij-app voor paspoortfoto's en controleer de afmetingen dubbel aan de officiële specificatie van je eigen instantie voordat je print of upload – niet aan de norm van een ander land.
 - **Glimlachen of een ongebruikelijke uitdrukking:** De meeste landen vereisen een neutrale gezichtsuitdrukking. Oefen vooraf een rustige, rechte blik voor een spiegel – streef naar serieus, niet streng.

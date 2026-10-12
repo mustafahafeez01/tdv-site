@@ -1,0 +1,58 @@
+{
+ "zh-Hans": {
+  "template": "tree",
+  "title": "一个应用拆成了四项任务",
+  "root": {
+   "heading": "TripCase",
+   "text": "2025年4月1日关闭"
+  },
+  "branches": [
+   {
+    "heading": "航班提醒",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Flighty",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "行程管理",
+    "tone": "good",
+    "items": [
+     {
+      "text": "TripIt",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "文件存储",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Travel Document Vault",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "行程共享",
+    "tone": "good",
+    "items": [
+     {
+      "text": "共享文件夹",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "示意图：TripCase在2025年4月1日关闭后拆分出的四项任务——航班提醒交给Flighty，行程管理交给TripIt，文件存储交给Travel Document Vault，行程共享交给共享文件夹",
+  "caption": "一目了然的替代方案图：四项任务，四款工具，各自专注做好一件事。",
+  "placement": {
+   "h2": 5,
+   "para": 1
+  }
+ }
+}

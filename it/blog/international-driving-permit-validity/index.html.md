@@ -36,6 +36,8 @@ Un permesso rilasciato secondo la Convenzione di Ginevra del 1949 è valido un a
 
 Questa distinzione conta due volte. Stabilisce quanto dura il tuo permesso, e decide dove viene riconosciuto. Un paese che ha ratificato solo una convenzione non è obbligato a riconoscere un permesso rilasciato secondo l'altra, ed è così che un permesso che ha funzionato nel viaggio dell'anno scorso viene respinto in quello di quest'anno.
 
+![Diagramma che confronta tre periodi di validità: il passaporto, di solito 10 anni, la patente di guida, che varia da paese a paese, e il permesso di guida internazionale, 1 anno o fino a 3, interrotto prima se la patente scade prima, quindi decide il più corto](https://traveldocumentvault.com/blog/international-driving-permit-validity/idp-clocks-figure-it.jpg) Tre documenti, tre orologi. Il permesso è limitato da qualunque dei due finisca prima.
+
 | Tipo di permesso | Quanto dura | Cosa lo limita |
 |---|---|---|
 | **Convenzione di Parigi del 1926** | Un anno | La data di rilascio. Oggi raramente richiesto |

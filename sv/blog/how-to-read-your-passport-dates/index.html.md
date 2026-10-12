@@ -30,6 +30,8 @@ Sista giltighetsdagen är stoppdatumet, och det är det de vanliga giltighetsreg
 
 Om du bara tar med dig en sak från den här sidan, låt det vara den skevheten: utfärdandedatumet beskriver handlingen, och sista giltighetsdagen beskriver hur länge du fortfarande kan resa på den.
 
+![Diagram över en passdatasida med fyra märkta fält: utfärdandedatum, sista giltighetsdag, utfärdandeland och passnummer, med sista giltighetsdag markerad som det datum giltigheten och 6-månadersregeln räknas från](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/data-page-figure-sv.jpg) Fyra fält, och det är bara ett av dem varje inreseregel faktiskt räknar från.
+
 ## Varför ditt pass kan säga "expedition"
 
 Många söker efter vad "date of expedition" betyder på ett pass, och svaret är skönt oskyldigt: det betyder utfärdandedatum.

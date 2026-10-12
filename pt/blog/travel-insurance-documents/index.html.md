@@ -62,6 +62,8 @@ Guarde uma cópia física — ou uma fotografia de alta qualidade das páginas c
 
 Um cartão escrito à mão funciona tão bem como uma impressão: número da apólice, nome da seguradora, linha de emergência. Coloque-o na carteira do passaporte e sobrevive a uma bateria fraca, um telemóvel perdido e um cofre do hotel que não consegue abrir.
 
+![Dois telemóveis idênticos lado a lado: o da esquerda brilha com a apólice de seguro guardada no dispositivo, o da direita está cinzento, com um indicador de carregamento e sem sinal](https://traveldocumentvault.com/blog/travel-insurance-documents/saved-vs-searching-figure.jpg) Descarregada e à mão, ou ainda à espera numa caixa de entrada a que não consegue aceder. A diferença aparece no pior momento.
+
 ### Comparação de Armazenamento de Documentos
 
 | Local de Armazenamento | Acesso Sem Internet | Numa Emergência | Cópia de Segurança se Telemóvel Perdido |

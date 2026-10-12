@@ -62,6 +62,8 @@ Lagra en fysisk kopia – eller ett högkvalitativt foto av de kritiska sidorna 
 
 Ett handskrivet kort fungerar lika bra som en utskrift: försäkringsnummer, försäkringsbolags namn, nödlinje. Stoppa in det i passhållaren och det överlevnad ett tömt batteri, en förlorad telefon och en hotellsafe du inte kan öppna.
 
+![Diagram med två identiska telefoner sida vid sida: den vänstra lyser med försäkringsdokumentet sparat på enheten, den högra är grå med en laddningssnurra och ingen signal](https://traveldocumentvault.com/blog/travel-insurance-documents/saved-vs-searching-figure.jpg) Nedladdat och nära till hands, eller fortfarande kvar i en inkorg du inte kan nå. Skillnaden visar sig i det värsta ögonblicket.
+
 ### Jämförelse av dokumentlagring
 
 | Lagringsplats | Åtkomst utan internet | I en nödsituation | Säkerhetskopia om telefon försvinner |

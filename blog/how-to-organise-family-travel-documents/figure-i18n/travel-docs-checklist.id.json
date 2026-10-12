@@ -1,0 +1,63 @@
+{
+ "id": {
+  "template": "cards",
+  "title": "Daftar periksa perjalanan keluarga",
+  "cards": [
+   {
+    "items": [
+     {
+      "text": "Paspor",
+      "mark": "tick"
+     },
+     {
+      "text": "Visa",
+      "mark": "tick"
+     },
+     {
+      "text": "Kartu identitas",
+      "mark": "tick"
+     },
+     {
+      "text": "Asuransi perjalanan",
+      "mark": "tick"
+     },
+     {
+      "text": "Pemesanan",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "items": [
+     {
+      "text": "Vaksinasi",
+      "mark": "tick"
+     },
+     {
+      "text": "Tiket pulang",
+      "mark": "tick"
+     },
+     {
+      "text": "Akta kelahiran",
+      "mark": "tick"
+     },
+     {
+      "text": "Surat izin",
+      "mark": "tick"
+     },
+     {
+      "text": "Putusan hak asuh",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "3+ bulan sebelum keberangkatan",
+  "alt": "Diagram daftar periksa sepuluh dokumen perjalanan keluarga: paspor, visa, kartu identitas, asuransi perjalanan, pemesanan, vaksinasi, tiket pulang, akta kelahiran, surat izin, dan putusan hak asuh, dengan catatan untuk mulai 3+ bulan sebelum keberangkatan",
+  "caption": "Daftar lengkap untuk keluarga - mulai mencentangnya tiga bulan sebelumnya, bukan seminggu sebelumnya.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

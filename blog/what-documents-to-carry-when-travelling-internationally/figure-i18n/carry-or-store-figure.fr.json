@@ -1,0 +1,59 @@
+{
+ "fr": {
+  "template": "cards",
+  "title": "À emporter, ou à stocker ?",
+  "cards": [
+   {
+    "heading": "Dans votre bagage à main",
+    "items": [
+     {
+      "text": "Passeport",
+      "mark": "tick"
+     },
+     {
+      "text": "Visas et autorisations",
+      "mark": "tick"
+     },
+     {
+      "text": "Cartes d'embarquement",
+      "mark": "tick"
+     },
+     {
+      "text": "Lettre de consentement si besoin",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Hors ligne sur votre téléphone",
+    "items": [
+     {
+      "text": "Informations du passeport",
+      "mark": "tick"
+     },
+     {
+      "text": "Police d'assurance et numéro d'urgence",
+      "mark": "tick"
+     },
+     {
+      "text": "Références de réservation",
+      "mark": "tick"
+     },
+     {
+      "text": "Certificats de vaccination",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "and",
+  "note": "L'un sauvegarde l'autre",
+  "focal": "Si le bagage est perdu, la copie sur le téléphone vous ramène",
+  "alt": "Diagramme en deux volets : dans votre bagage à main, le passeport, les visas et autorisations, les cartes d'embarquement, et une lettre de consentement si besoin ; hors ligne sur votre téléphone, les informations du passeport, la police d'assurance et le numéro d'urgence, les références de réservation, et les certificats de vaccination, car l'un sauvegarde l'autre et si le bagage est perdu, la copie sur le téléphone vous ramène",
+  "caption": "Les originaux voyagent dans votre bagage à main ; leurs doubles chiffrés vivent hors ligne sur votre téléphone.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

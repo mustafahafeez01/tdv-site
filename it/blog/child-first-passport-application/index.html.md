@@ -48,6 +48,8 @@ Gli uffici passaporti vogliono tre cose quando fai domanda per il primo passapor
 
 ## I neonati non possono seguire le regole delle foto per adulti, quindi le si adatta
 
+![Diagramma di cosa resta uguale in una foto passaporto di un neonato (occhi aperti, sfondo neutro, nient'altro nell'inquadratura) e cosa cambia in base all'età, da sotto i 6 mesi a oltre i 2 anni, con i motivi di rifiuto più comuni](https://traveldocumentvault.com/blog/child-first-passport-application/baby-photo-figure-it.jpg)
+
 È qui che molte domande per la prima volta falliscono. Un neonato o un bambino piccolo non può seguire le regole della foto come un adulto: i neonati non sanno stare seduti, i bambini piccoli non riescono a stare fermi o a capire le istruzioni, e i neonati appena nati non possono guardare la fotocamera a comando. Gli standard delle foto passaporto sono stati scritti per gli adulti, e devi capire come adattarli quando il soggetto è un bambino che pesa 5 chili e si muove di continuo.
 
 **Le regole di base sono le stesse:** gli occhi del bambino devono essere chiaramente aperti e rivolti verso la fotocamera, con uno sfondo semplice dietro la testa e nient'altro nell'inquadratura. Ciò che cambia è come riuscirci.

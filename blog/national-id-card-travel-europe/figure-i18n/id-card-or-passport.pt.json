@@ -1,0 +1,52 @@
+{
+ "pt": {
+  "template": "cards",
+  "title": "Cartão de identidade ou passaporte?",
+  "cards": [
+   {
+    "heading": "O cartão geralmente serve",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Viagens dentro da UE e do EEE",
+      "mark": "tick"
+     },
+     {
+      "text": "E também na Suíça",
+      "mark": "tick"
+     },
+     {
+      "text": "Cartão válido no dia da viagem",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Leve o passaporte",
+    "items": [
+     {
+      "text": "Maioria das viagens fora da Europa",
+      "mark": "dot"
+     },
+     {
+      "text": "Cartão danificado ou ilegível",
+      "mark": "dot"
+     },
+     {
+      "text": "A companhia aérea pede um",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "ou",
+  "focal": "Dois documentos, duas datas de validade",
+  "alt": "Diagrama que compara quando um cartão de identidade nacional geralmente serve, para viagens dentro da UE, do EEE e da Suíça, com quando levar o passaporte: a maioria das viagens fora da Europa, um cartão danificado, ou uma companhia aérea que pede um",
+  "caption": "Dentro da UE e do EEE o cartão geralmente serve; fora da Europa, leve o passaporte.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

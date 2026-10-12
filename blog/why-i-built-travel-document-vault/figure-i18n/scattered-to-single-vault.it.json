@@ -1,0 +1,27 @@
+{
+ "it": {
+  "template": "hub",
+  "inputs": [
+   "Foto",
+   "Cloud",
+   "Note",
+   "Email",
+   "Calendario"
+  ],
+  "hub": {
+   "heading": "Un unico vault"
+  },
+  "outputs": [
+   "Promemoria di scadenza",
+   "Crittografato",
+   "Offline"
+  ],
+  "focal": "Un'app invece di cinque",
+  "alt": "Diagramma di cinque app sparse - foto, cloud, note, email, calendario - che confluiscono in un unico vault, da cui escono promemoria di scadenza, crittografia e accesso offline: un'app invece di cinque",
+  "caption": "Cosa comportava il controllo delle 23 - e cosa comporta adesso.",
+  "placement": {
+   "h2": 3,
+   "para": 5
+  }
+ }
+}

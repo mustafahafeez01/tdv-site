@@ -1,0 +1,28 @@
+{
+ "da": {
+  "template": "hub",
+  "title": "Én familie, ét system",
+  "inputs": [
+   "Far",
+   "Mor",
+   "Barn 1",
+   "Barn 2"
+  ],
+  "hub": {
+   "heading": "Ét krypteret sted"
+  },
+  "outputs": [
+   "Udløbspåmindelser",
+   "Offline adgang",
+   "Krypteret backup"
+  ],
+  "focal": "Børnepas udløber efter 5 år, ikke 10",
+  "alt": "Diagram af ét familiepas-system: fire pas (far, mor, barn 1, barn 2) samles ét krypteret sted, hvorfra udløbspåmindelser, offline adgang og krypteret backup går ud, med en note om, at børnepas udløber efter 5 år, ikke 10",
+  "caption": "Ét familiesystem: alle pas ét sted, med automatisk sporing af hver udløbsdato",
+  "placement": {
+   "h2": 3,
+   "para": 2,
+   "in_figure_element": true
+  }
+ }
+}

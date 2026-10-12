@@ -38,6 +38,8 @@ Les entreprises de location de voitures acceptent généralement les copies num�
 
 Si votre passeport est perdu ou volé en voyageant, une copie numérique peut considérablement accélérer le processus de document de voyage d'urgence à votre ambassade. Elle prouve l'existence de votre passeport et fournit vos informations biographiques, votre photographie et votre numéro de passeport, tous éléments que l'ambassade doit délivrer un document de remplacement. C'est l'une des raisons les plus fortes de toujours avoir une sauvegarde numérique.
 
+![Diagramme des usages d'une copie numérique de passeport : généralement accepté pour l'enregistrement à l'hôtel, la réservation de vol et la location de voiture ; original exigé au contrôle aux frontières et à l'embarquement](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-fr.jpg) En bref : une copie ouvre des portes, seul l'original traverse les frontières.
+
 ## Où votre passeport physique est toujours requis
 
 Une copie numérique n'est pas un substitut à votre passeport physique à l'immigration, auprès des compagnies aériennes ou avec les forces de l'ordre. Dans ces scénarios, le document original est simplement obligatoire — il n'y a pas moyen de contourner cela.

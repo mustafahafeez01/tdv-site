@@ -33,6 +33,8 @@ La mayoría de los países no exige visado de tránsito cuando no sales del lado
 
 La trampa está en el punto intermedio. Una escala que sobre el papel parece quedarse en el lado aire puede pasar al lado tierra sin que te des cuenta. Si tu conexión te obliga a pasar la noche, el hotel del aeropuerto suele estar fuera de la zona segura, así que recoger el equipaje y hacer el check-in implica pasar por inmigración. Lo mismo ocurre cuando tienes que cambiar de terminal y no hay conexión interna entre ellas —sales y vuelves a pasar el control de seguridad al otro lado. En ambos casos, una conexión que dabas por hecho que no necesitaba visado puede necesitarlo de repente, así que conviene comprobar cómo funciona realmente el traslado, no solo cuánto dura.
 
+![Diagrama que compara el tránsito en lado aire, donde te quedas tras el control de seguridad y no pasas por inmigración aunque algunos países aún exigen visado de tránsito, con el tránsito en lado tierra, donde sales de la zona segura, pasas por inmigración y normalmente se exige visado](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/airside-vs-landside-es.jpg) El lado aire se queda en la terminal; el lado tierra significa entrar en el país.
+
 ## Cuándo Necesitas Sin Duda un Visado de Tránsito
 
 Los visados de tránsito son obligatorios en varias circunstancias, y los requisitos varían mucho según tu nacionalidad y el país de tránsito.

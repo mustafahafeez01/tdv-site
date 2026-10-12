@@ -1,0 +1,13 @@
+{
+ "ko": {
+  "reuse": "/blog/damaged-passport-travel/damage-vs-wear-figure.jpg",
+  "width": 1536,
+  "height": 1024,
+  "alt": "나란히 펼쳐진 두 여권을 보여주는 그림. 한쪽은 닳았지만 평평하고 사용 가능하며, 다른 쪽은 물에 젖어 페이지가 울고 코팅이 들떠 있다",
+  "caption": "표지의 가벼운 주름은 괜찮습니다. 데이터 페이지의 물 손상은 문제가 됩니다.",
+  "placement": {
+   "h2": 2,
+   "para": 3
+  }
+ }
+}

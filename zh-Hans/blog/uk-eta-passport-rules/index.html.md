@@ -44,6 +44,8 @@ UK ETA绑定的是护照号码，而不是您这个人。申请时，内政部�
 
 需要规划的时间线如下：
 
+![对比示意图：申请时使用的护照保持ETA绑定，可正常出行；新护照或续签后的护照不会自动转移绑定，出发前须重新申请ETA，且每位旅客都需各自申请，儿童也不例外](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-zh-Hans.jpg) 许可绑定的是护照本身，不是您这个人——每位旅客都要有自己的一份。
+
 1. 护照到期日临近。
 2. 您在本国申请更换护照。
 3. 新护照送达（办理时间因情况而异，请参阅[护照更换所需时间指南](https://traveldocumentvault.com/zh-Hans/blog/how-long-does-passport-renewal-take/)）。

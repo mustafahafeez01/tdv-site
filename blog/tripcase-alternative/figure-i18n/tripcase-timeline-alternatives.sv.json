@@ -1,0 +1,58 @@
+{
+ "sv": {
+  "template": "tree",
+  "title": "En app blev fyra uppgifter",
+  "root": {
+   "heading": "TripCase",
+   "text": "Stängde ner 1 april 2025"
+  },
+  "branches": [
+   {
+    "heading": "Flygaviseringar",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Flighty",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Resplan",
+    "tone": "good",
+    "items": [
+     {
+      "text": "TripIt",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Handlingar",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Travel Document Vault",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Resedelning",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Delad mapp",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagram över TripCases fyra uppgifter efter nedstängningen 1 april 2025: flygaviseringar till Flighty, resplan till TripIt, handlingar till Travel Document Vault, resedelning till en delad mapp",
+  "caption": "Ersättningskartan i ett ögonkast: fyra uppgifter, fyra verktyg, var och en gör en sak bra.",
+  "placement": {
+   "h2": 5,
+   "para": 1
+  }
+ }
+}

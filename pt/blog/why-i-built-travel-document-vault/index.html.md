@@ -58,6 +58,8 @@ Quando um hotel pede uma cópia do passaporte, uma embaixada precisa dos seus da
 
 Esse é o verdadeiro benefício: recupera o seu espaço mental. A carga mental invisível, aquele zumbido constante de "estou a esquecer-me de algo?", desaparece. A aplicação lembra-se para que não tenha de o fazer.
 
+![Diagrama de cinco aplicações dispersas - fotos, nuvem, notas, email, calendário - a convergir num só cofre, que devolve avisos de validade, encriptação e acesso offline: uma aplicação em vez de cinco](https://traveldocumentvault.com/blog/why-i-built-travel-document-vault/scattered-to-single-vault-pt.jpg) O que a verificação às 23h costumava envolver - e o que envolve agora.
+
 ## Não são só passaportes
 
 Assim que comecei a usá-la, reparei em quantos outros documentos expiram silenciosamente em segundo plano.

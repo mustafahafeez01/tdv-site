@@ -1,0 +1,38 @@
+{
+ "nl": {
+  "template": "sequence",
+  "title": "Paspoort kwijt in het buitenland: de 7 stappen",
+  "steps": [
+   {
+    "text": "Bevestig dat het echt kwijt is"
+   },
+   {
+    "text": "Doe aangifte bij de politie"
+   },
+   {
+    "text": "Neem contact op met je ambassade"
+   },
+   {
+    "text": "Noodpaspoort"
+   },
+   {
+    "text": "Meld het bij je verzekeraar"
+   },
+   {
+    "text": "Controleer je visumsituatie"
+   },
+   {
+    "text": "Kom thuis, vervang het dan"
+   }
+  ],
+  "highlight": 3,
+  "note": "Voor al het andere: maak vandaag een foto van je paspoort",
+  "focal": "Een back-upkopie maakt stap 4 veel sneller",
+  "alt": "Diagram van de zeven stappen na het kwijtraken van een paspoort in het buitenland: bevestig dat het echt kwijt is, doe aangifte bij de politie, neem contact op met je ambassade, noodpaspoort, meld het bij je verzekeraar, controleer je visumsituatie, kom thuis en vervang het dan - met de aantekening om vandaag een foto van je paspoort te maken, omdat een back-upkopie stap vier veel sneller maakt",
+  "caption": "Zeven rustige stappen, op volgorde - en het ene dat je vandaag al doet, voordat je het ooit nodig hebt.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

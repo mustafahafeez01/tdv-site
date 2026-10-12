@@ -1,0 +1,40 @@
+{
+ "es": {
+  "template": "tree",
+  "title": "Viajar con un pasaporte caducado",
+  "root": {
+   "heading": "¿Qué tipo de viaje?"
+  },
+  "branches": [
+   {
+    "edge": "Internacional",
+    "edge_mark": "cross",
+    "heading": "No permitido",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Solicita una renovación urgente"
+     }
+    ]
+   },
+   {
+    "edge": "Nacional",
+    "edge_mark": "question",
+    "heading": "Consulta con tu aerolínea",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Llama antes de viajar"
+     }
+    ]
+   }
+  ],
+  "focal": "Verifica siempre antes de salir",
+  "alt": "Árbol de decisión para un pasaporte caducado: el viaje internacional aparece como no permitido y lleva a solicitar una renovación urgente; el viaje nacional lleva a consultar con tu aerolínea y llamar antes de viajar, con una nota para verificar siempre antes de salir",
+  "caption": "Los dos caminos desde un pasaporte caducado, y ninguno pasa por la puerta de embarque.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

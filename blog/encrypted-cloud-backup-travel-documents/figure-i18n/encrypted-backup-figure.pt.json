@@ -1,0 +1,41 @@
+{
+ "pt": {
+  "template": "tree",
+  "root": {
+   "heading": "Quem guarda a chave?"
+  },
+  "branches": [
+   {
+    "edge": "A chave deles",
+    "edge_mark": "cross",
+    "heading": "Cópia de fotos",
+    "tone": "warn",
+    "items": [
+     {
+      "text": "Legível por quem conseguir entrar",
+      "mark": "cross"
+     }
+    ]
+   },
+   {
+    "edge": "A sua chave, fica no telemóvel",
+    "edge_mark": "tick",
+    "heading": "Cópia de segurança encriptada",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Inútil sem a chave",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Mesma nuvem, resposta diferente",
+  "alt": "Diagrama que compara uma cópia de fotos, legível na nuvem com a empresa a guardar a chave, e uma cópia de segurança encriptada, inútil sem a chave que fica no seu telemóvel",
+  "caption": "Mesma nuvem, resposta diferente. O ficheiro sobe de qualquer forma; o que muda é quem o consegue abrir.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

@@ -38,6 +38,8 @@ Perusahaan sewa mobil biasanya menerima salinan digital paspor untuk pemesanan d
 
 Jika paspor Anda hilang atau dicuri saat bepergian, salinan digital dapat secara signifikan mempercepat proses penerbitan dokumen perjalanan darurat di kedutaan Anda. Salinan ini membuktikan keberadaan paspor Anda dan memberikan data biografis, foto, dan nomor paspor Anda, yang semuanya diperlukan kedutaan untuk menerbitkan dokumen pengganti. Ini salah satu alasan terkuat untuk selalu membawa cadangan digital.
 
+![Diagram tentang di mana salinan digital paspor berlaku: biasanya diterima untuk check-in hotel, pemesanan penerbangan, dan sewa mobil; dokumen asli diperlukan di kontrol perbatasan dan saat naik pesawat](https://traveldocumentvault.com/blog/digital-passport-copy-valid/passport-copy-where-id.jpg) Singkatnya - salinan membuka pintu, hanya yang asli yang melintasi perbatasan.
+
 ## Di Mana Paspor Fisik Anda Selalu Diperlukan
 
 Salinan digital bukan pengganti paspor fisik Anda di imigrasi, pada maskapai, atau pada aparat penegak hukum. Dalam situasi ini, dokumen aslinya wajib mutlak, tidak ada cara untuk menghindarinya.

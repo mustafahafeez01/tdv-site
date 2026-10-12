@@ -33,6 +33,8 @@ Keiner dieser Ansätze ist universell "falsch", aber für so sensible Identität
 
 Ein Verstoß gegen eine auf dem Gerät installierte App sickert nichts von ihren Servern durch – es gibt dort nichts zu lecken.
 
+![Diagramm, das zwei Speichermodelle für eine Reisepass-Organizer-App vergleicht: auf dem Gerät bedeutet, Ihre Daten bleiben bei Ihnen, Cloud-Upload bedeutet Vertrauen in den Server, und auf dem Gerät funktioniert auch offline](https://traveldocumentvault.com/blog/best-passport-organizer-app/app-storage-compare-de.jpg) Die eine architektonische Entscheidung, die alles andere bei einer Reisepass-App bestimmt.
+
 ## Diese Funktionen entscheiden, ob sich die App lohnt
 
 ### Die Vorlaufzeit der Erinnerung ist die Einstellung, die sich anzupassen lohnt

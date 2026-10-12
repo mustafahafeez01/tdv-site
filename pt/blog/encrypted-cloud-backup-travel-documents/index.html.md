@@ -32,6 +32,8 @@ A outra configuração embaralha o ficheiro no seu telemóvel antes de ele ir pa
 
 Por isso a pergunta que vale a pena fazer a qualquer aplicação é curta: **quem tem a chave?** Tudo o resto no marketing decorre dessa resposta.
 
+![Diagrama que compara uma cópia de fotos, legível na nuvem com a empresa a guardar a chave, e uma cópia de segurança encriptada, inútil sem a chave que fica no seu telemóvel](https://traveldocumentvault.com/blog/encrypted-cloud-backup-travel-documents/encrypted-backup-figure-pt.jpg) Mesma nuvem, resposta diferente. O ficheiro sobe de qualquer forma; o que muda é quem o consegue abrir.
+
 ## O código de recuperação e porque não o podemos repor
 
 O [Travel Document Vault](https://traveldocumentvault.com/pt/) não exige conta na aplicação para guardar documentos no dispositivo. A [cópia de segurança na nuvem](https://traveldocumentvault.com/pt/cloud-backup/) opcional exige Pro e o código de recuperação para desbloquear a chave de encriptação da nuvem. A aplicação cria este código de 24 carateres quando define o PIN. O cofre encriptado vai depois para **o seu próprio iCloud no iPhone e iPad, ou para o seu próprio Google Drive no Android**, e não para nós.

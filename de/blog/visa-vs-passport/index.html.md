@@ -50,6 +50,8 @@ Das zweite ist visumfreies Reisen. Wenn ein Zielland Ihre Staatsangehörigkeit o
 
 Der Reisepass gehört also Ihnen und begleitet Sie überallhin. Die Erlaubnis wird von jedem Zielland gesondert erteilt, und sie kann verweigert werden, selbst wenn Ihr Reisepass völlig in Ordnung ist.
 
+![Vergleichsdiagramm von Reisepass und Visum: Ihr eigenes Land stellt den Reisepass aus, er belegt, wer Sie sind, und lässt Sie Ihr Land verlassen, während das Zielland das Visum ausstellt, das die Einreiseerlaubnis gewährt und nur für dieses eine Land gilt, mit dem Hinweis, dass die meisten Reisen beides brauchen](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-de.jpg) Zwei Dokumente, zwei Aufgaben – und ein gültiger Reisepass allein ist keine Einreiseerlaubnis.
+
 ## Visaarten unterscheiden sich nach Zweck und Dauer
 
 Die meisten Länder stellen Visa in diesen Kategorien aus:

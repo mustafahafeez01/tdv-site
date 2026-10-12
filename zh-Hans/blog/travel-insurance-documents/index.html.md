@@ -62,6 +62,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-insurance-documents/
 
 一张手写的卡片和打印件一样好用：保单号码、保险公司名称、紧急电话。塞进护照夹里，它会存活下来，经历手机没电、手机丢失，甚至打不开的酒店保险箱。
 
+![两部相同的手机并排对比：左边屏幕亮起，保单已保存在设备上；右边屏幕灰暗，显示加载圈且无信号](https://traveldocumentvault.com/blog/travel-insurance-documents/saved-vs-searching-figure.jpg) 已下载在手边，还是仍困在打不开的收件箱里。差别会在最糟的时刻显现出来。
+
 ### 文件存储对比
 
 | 存储位置 | 无互联网访问 | 在紧急情况下 | 手机丢失后的备份 |

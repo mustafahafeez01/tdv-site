@@ -31,6 +31,8 @@ La lógica es directa: los países quieren seguridad de que no te quedarás más
 
 **La regla no es universal.** Cada país establece sus propios términos, y los requisitos pueden variar según tu nacionalidad. Un acuerdo bilateral entre dos países puede renunciar a la regla para ciudadanos de uno pero no del otro. Eso es lo que la hace tan fácil de acertar sin verificar antes de cada viaje.
 
+![Diagrama de la línea de tiempo de la regla de los 6 meses del pasaporte: llegas, tu viaje, vuelves a casa, y luego seis meses más durante los que el pasaporte debe seguir siendo válido; la mayoría de los países cuentan desde el día que llegas y algunos desde el día que te vas, así que contar desde la fecha más tardía cubre ambos casos](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/six-month-rule-figure-es.jpg) La mayoría de los países cuentan los seis meses desde el día que llegas: contar desde la fecha más tardía te cubre en cualquier caso.
+
 ## ¿Puedes Viajar con un Pasaporte que Vence en 6 Meses?
 
 A veces, sí. Si tu destino solo exige que el pasaporte permanezca válido durante tu estancia, con cinco meses restantes normalmente podrás entrar. Así funciona el Reino Unido para la mayoría de visitantes, y los países Schengen generalmente piden tres meses más allá de tu salida prevista, no seis.

@@ -1,0 +1,29 @@
+{
+ "id": {
+  "template": "tree",
+  "root": {
+   "heading": "Pilihan penyimpanan"
+  },
+  "branches": [
+   {
+    "edge": "Di perangkat",
+    "edge_mark": "tick",
+    "heading": "Data Anda tetap bersama Anda",
+    "tone": "good"
+   },
+   {
+    "edge": "Unggah ke cloud",
+    "heading": "Mempercayai server",
+    "tone": "warn",
+    "edge_mark": "question"
+   }
+  ],
+  "focal": "Di perangkat juga berfungsi luring",
+  "alt": "Diagram yang membandingkan dua model penyimpanan untuk aplikasi pengatur paspor: di perangkat berarti data Anda tetap bersama Anda, unggah ke cloud berarti mempercayai server, dan penyimpanan di perangkat juga berfungsi luring",
+  "caption": "Satu pilihan arsitektur yang menentukan segalanya tentang aplikasi paspor.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

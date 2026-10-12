@@ -1,0 +1,52 @@
+{
+ "sv": {
+  "template": "cards",
+  "title": "Fyra fält på datasidan",
+  "cards": [
+   {
+    "heading": "Utfärdandedatum",
+    "items": [
+     {
+      "text": "Dagen det trycktes",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Sista giltighetsdag",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "Giltigheten räknas från här",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Utfärdandeland",
+    "items": [
+     {
+      "text": "Vem som ersätter det om det förloras",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Passnummer",
+    "items": [
+     {
+      "text": "Ett nytt pass innebär ett nytt nummer",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagram över en passdatasida med fyra märkta fält: utfärdandedatum, sista giltighetsdag, utfärdandeland och passnummer, med sista giltighetsdag markerad som det datum giltigheten och 6-månadersregeln räknas från",
+  "caption": "Fyra fält, och det är bara ett av dem varje inreseregel faktiskt räknar från.",
+  "focal": "6-månadersregeln räknar bakåt från sista giltighetsdag",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

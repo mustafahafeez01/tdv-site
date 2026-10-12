@@ -36,6 +36,8 @@ Finden Sie heraus, ob Ihre Passnationalität ein Visum für Einreise, Transit od
 
 Buchen Sie Reiseversicherung, wenn Sie Flüge buchen, nicht eine Woche vor der Abreise. Eine Versicherung, die abgeschlossen wird, nachdem Sie bereits ein Risiko identifiziert haben, könnte dieses spezifische Problem ausschließen. Stellen Sie sicher, dass die Police alle Reisenden, alle Ziele und die geplanten Aktivitäten abdeckt.
 
+![Zeitstrahl-Diagramm zu Reisedokumenten-Kontrollen: Ablaufdaten prüfen bei der Buchung, bei Bedarf erneuern drei Monate vorher, bestätigen und zusammenführen einen Monat vorher, letzte Kontrolle am Abend davor](https://traveldocumentvault.com/blog/travel-document-checklist/checklist-timeline-de.jpg) Vier Kontrollpunkte zwischen Buchung und Boarding – jeder klein, wenn Sie früh anfangen.
+
 ## Drei Monate vorher: Wenn Erneuerung oder Visum näher rücken, fangen Sie jetzt an
 
 Zu diesem Zeitpunkt haben Sie noch Zeit, Dinge zu beheben. Bearbeitungszeiten für Erneuerungen ändern sich, und jede Behörde veröffentlicht ihre eigene aktuelle Angabe: das US State Department, das HM Passport Office und das Australian Passport Office. Überprüfen Sie immer die offizielle Website auf aktuelle Zeiten, bevor Sie einen Antrag stellen.

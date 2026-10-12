@@ -36,6 +36,8 @@ Cari tahu apakah kewarganegaraan Anda memerlukan visa untuk masuk, transit, atau
 
 Pesan asuransi perjalanan saat Anda memesan penerbangan, bukan seminggu sebelum keberangkatan. Asuransi yang diambil setelah Anda mengetahui suatu risiko tertentu bisa mengecualikan masalah spesifik itu. Pastikan polis mencakup semua pelancong, semua destinasi, dan aktivitas yang Anda rencanakan.
 
+![Diagram garis waktu pemeriksaan dokumen perjalanan: periksa tanggal kedaluwarsa saat pemesanan, perpanjang jika perlu tiga bulan sebelumnya, konfirmasi dan konsolidasi satu bulan sebelumnya, pemeriksaan terakhir malam sebelumnya](https://traveldocumentvault.com/blog/travel-document-checklist/checklist-timeline-id.jpg) Empat titik pemeriksaan antara pemesanan dan naik pesawat - masing-masing kecil kalau Anda mulai lebih awal.
+
 ## Tiga Bulan Sebelumnya: Jika Perpanjangan atau Visa Sudah Dekat, Mulai Sekarang
 
 Pada titik ini Anda masih punya waktu untuk memperbaiki keadaan. Waktu pemrosesan berubah-ubah, dan setiap otoritas mempublikasikan angka terkininya sendiri: Departemen Luar Negeri AS, HM Passport Office, dan Kantor Paspor Australia. Selalu periksa situs resmi untuk waktu terkini sebelum mengajukan permohonan.

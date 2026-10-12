@@ -1,0 +1,30 @@
+{
+ "pt": {
+  "template": "sequence",
+  "title": "A janela móvel 90/180",
+  "subtitle": "A janela desliza todos os dias",
+  "start": "Há 180 dias",
+  "steps": [
+   {
+    "label": "Viagem 1",
+    "text": "30 dias"
+   },
+   {
+    "label": "Viagem 2",
+    "text": "45 dias"
+   },
+   {
+    "label": "Hoje",
+    "text": "30 + 45 = 75 dias usados, restam 15 dos 90"
+   }
+  ],
+  "highlight": 2,
+  "focal": "Os dias de chegada e de partida contam",
+  "alt": "Diagrama cronológico da janela móvel Schengen 90/180: de há 180 dias até hoje, duas viagens de 30 e 45 dias usam 75 dos 90 dias disponíveis, restando 15; a janela desliza todos os dias e os dias de chegada e de partida contam ambos",
+  "caption": "A janela nunca reinicia: para cada dia, os 180 dias anteriores não podem conter mais de 90 dias de estadia.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  }
+ }
+}

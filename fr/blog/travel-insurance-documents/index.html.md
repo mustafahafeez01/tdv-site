@@ -62,6 +62,8 @@ Stockez une copie physique — ou une photo de bonne qualité des pages critique
 
 Une carte manuscrite fait le même travail qu'une impression : numéro de police, nom de l'assureur, ligne d'urgence. Glissez-la dans le portefeuille du passeport et elle survivra à une batterie déchargée, un téléphone perdu et un coffre-fort de l'hôtel que vous ne pouvez pas ouvrir.
 
+![Deux téléphones identiques côte à côte : celui de gauche affiche la police d'assurance enregistrée sur l'appareil, celui de droite reste gris avec une roue de chargement et aucun signal](https://traveldocumentvault.com/blog/travel-insurance-documents/saved-vs-searching-figure.jpg) Téléchargée et à portée de main, ou encore coincée dans une boîte de réception inaccessible. La différence se voit au pire moment.
+
 ### Comparaison du stockage de documents
 
 | Lieu de stockage | Accès sans internet | En cas d'urgence | Sauvegarde si téléphone perdu |

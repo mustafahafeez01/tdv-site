@@ -1,0 +1,63 @@
+{
+ "da": {
+  "template": "cards",
+  "title": "Tjekliste til familierejser",
+  "cards": [
+   {
+    "items": [
+     {
+      "text": "Pas",
+      "mark": "tick"
+     },
+     {
+      "text": "Visa",
+      "mark": "tick"
+     },
+     {
+      "text": "ID-kort",
+      "mark": "tick"
+     },
+     {
+      "text": "Rejseforsikring",
+      "mark": "tick"
+     },
+     {
+      "text": "Bookinger",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "items": [
+     {
+      "text": "Vaccinationer",
+      "mark": "tick"
+     },
+     {
+      "text": "Returbillet",
+      "mark": "tick"
+     },
+     {
+      "text": "Fødselsattester",
+      "mark": "tick"
+     },
+     {
+      "text": "Samtykkebrev",
+      "mark": "tick"
+     },
+     {
+      "text": "Forældremyndighedsafgørelser",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "3+ måneder før afrejse",
+  "alt": "Tjeklistediagram over ti familierejsedokumenter: pas, visa, ID-kort, rejseforsikring, bookinger, vaccinationer, returbillet, fødselsattester, samtykkebrev og forældremyndighedsafgørelser, med en note om at starte 3+ måneder før afrejse",
+  "caption": "Hele familielisten – begynd at tjekke af tre måneder før, ikke ugen inden.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

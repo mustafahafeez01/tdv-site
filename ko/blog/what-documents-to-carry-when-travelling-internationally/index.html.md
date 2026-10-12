@@ -46,6 +46,8 @@ Source: https://traveldocumentvault.com/ko/blog/what-documents-to-carry-when-tra
 
 이것이 가족 여행에서 가장 흔히 간과되는 서류이므로 출국심사 전에 다시 한 번 확인하세요.
 
+![휴대할 서류와 보관할 서류를 나눈 다이어그램: 기내 수하물에는 여권, 비자와 허가서, 탑승권, 필요하면 동의서를 넣고, 휴대폰에는 여권 정보, 보험증권과 긴급 연락처, 예약 번호, 예방 접종 증명서를 오프라인으로 저장한다. 하나가 다른 하나를 받쳐주며, 짐을 잃어도 휴대폰 사본이 귀국을 돕는다](https://traveldocumentvault.com/blog/what-documents-to-carry-when-travelling-internationally/carry-or-store-figure-ko.jpg) 원본은 기내 수하물에, 암호화된 사본은 휴대폰 안에 오프라인으로 함께 다닙니다.
+
 ## 무엇을 휴대하고 무엇을 디지털로 보관할지
 
 국경에서는 원본 서류를 원하지만, 그 원본들이 사라지면, 안전한 디지털 백업이 당신을 집으로 돌려보내줍니다.

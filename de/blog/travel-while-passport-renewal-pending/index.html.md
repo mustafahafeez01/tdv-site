@@ -24,6 +24,8 @@ Sie können nicht international reisen, ohne einen gültigen Pass physisch in Ih
 
 Ob Sie diesen Pass noch haben, hängt ganz von Ihrem Land und Ihrer Erneuerungsmethode ab.
 
+![Entscheidungsbaum-Diagramm: Ist der Reisepass noch in Ihrem Besitz? Ja – reisen Sie damit, solange er gültig bleibt (US-Erneuerung per Post, UK-digitale Erneuerung). Nein – abgegeben, Sie warten auf den neuen (UK-Erneuerung per Post, Australien, Kanada). Kein Land erlaubt internationale Flüge ohne Reisepass in der Hand](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/renewal-travel-figure-de.jpg) Eine Frage entscheidet alles: ob Ihr alter Reisepass noch in Ihrem Besitz ist.
+
 ## Vereinigte Staaten: Erneuerung per Post
 
 Bei der Standard-Passerneuerung per Post in den USA ist es nicht erforderlich, Ihren aktuellen Pass abzugeben, bevor Ihr neuer ankommt. Sie füllen das Formular DS-82 aus, legen Ihren bestehenden Pass bei und schicken alles an das National Passport Processing Center. Ihr alter Pass wird Ihnen zusammen mit dem neuen zurückgegeben, normalerweise mit einem Loch gestanzt und ungültig gemacht.

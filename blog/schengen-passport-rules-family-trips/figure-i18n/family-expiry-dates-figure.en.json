@@ -1,0 +1,34 @@
+{
+ "en": {
+  "template": "sequence",
+  "title": "One family, four expiry dates",
+  "subtitle": "The earliest date decides the trip",
+  "steps": [
+   {
+    "label": "Child 2",
+    "text": "Valid to 2027"
+   },
+   {
+    "label": "Child 1",
+    "text": "Valid to 2028"
+   },
+   {
+    "label": "Mum",
+    "text": "Valid to 2030"
+   },
+   {
+    "label": "Dad",
+    "text": "Valid to 2032"
+   }
+  ],
+  "highlight": 0,
+  "note": "Kids' passports last 5 years, not 10. Schengen wants 3 months left after you leave.",
+  "focal": "Check every passport the day you book",
+  "alt": "Diagram of one family's four passport expiry dates in order: child 2 valid to 2027, child 1 to 2028, mum to 2030, dad to 2032; the earliest date decides the trip, kids' passports last 5 years not 10, and Schengen wants 3 months left after you leave",
+  "caption": "Four passports, four clocks - and the shortest one sets the family's real deadline.",
+  "placement": {
+   "h2": 3,
+   "para": 2
+  }
+ }
+}

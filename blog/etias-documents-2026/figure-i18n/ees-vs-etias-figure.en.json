@@ -1,0 +1,51 @@
+{
+ "en": {
+  "template": "cards",
+  "title": "EES and ETIAS are not the same thing",
+  "cards": [
+   {
+    "heading": "EES",
+    "items": [
+     {
+      "text": "Happens at the border",
+      "mark": "dot"
+     },
+     {
+      "text": "Fingerprints and photo, no application",
+      "mark": "dot"
+     },
+     {
+      "text": "Rolling out across entry points",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "ETIAS",
+    "items": [
+     {
+      "text": "Happens before you fly",
+      "mark": "dot"
+     },
+     {
+      "text": "Apply online, small fee",
+      "mark": "dot"
+     },
+     {
+      "text": "Not mandatory yet, no date set",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "and",
+  "note": "You will eventually need both",
+  "focal": "Neither one is a visa",
+  "alt": "Diagram comparing EES and ETIAS: EES happens at the border with fingerprints and photo, no application, and is rolling out across entry points; ETIAS happens before you fly, applied for online with a small fee, with no mandatory date confirmed yet; you will eventually need both, and neither one is a visa",
+  "caption": "Two different gates: EES registers you on arrival; ETIAS clears you before departure.",
+  "placement": {
+   "h2": 7,
+   "para": 3
+  }
+ }
+}

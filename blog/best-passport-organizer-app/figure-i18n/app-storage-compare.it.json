@@ -1,0 +1,29 @@
+{
+ "it": {
+  "template": "tree",
+  "root": {
+   "heading": "Scelta di archiviazione"
+  },
+  "branches": [
+   {
+    "edge": "Sul dispositivo",
+    "edge_mark": "tick",
+    "heading": "I tuoi dati restano con te",
+    "tone": "good"
+   },
+   {
+    "edge": "Caricamento sul cloud",
+    "heading": "Devi fidarti del server",
+    "tone": "warn",
+    "edge_mark": "question"
+   }
+  ],
+  "focal": "Sul dispositivo funziona anche offline",
+  "alt": "Diagramma che confronta i due modelli di archiviazione per un'app di organizzazione passaporti: sul dispositivo i tuoi dati restano con te, il caricamento sul cloud richiede di fidarti del server, e la versione sul dispositivo funziona anche offline",
+  "caption": "L'unica scelta architetturale che decide tutto il resto di un'app per passaporti.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

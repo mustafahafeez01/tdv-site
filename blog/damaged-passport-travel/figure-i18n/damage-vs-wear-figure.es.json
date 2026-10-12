@@ -1,0 +1,13 @@
+{
+ "es": {
+  "reuse": "/blog/damaged-passport-travel/damage-vs-wear-figure.jpg",
+  "width": 1536,
+  "height": 1024,
+  "alt": "Dos pasaportes abiertos uno junto al otro: uno desgastado pero plano y utilizable, el otro con manchas de agua, páginas onduladas y laminación levantada",
+  "caption": "Arrugas leves en la portada: aceptable. Daño por agua en la página de datos: un problema.",
+  "placement": {
+   "h2": 2,
+   "para": 3
+  }
+ }
+}

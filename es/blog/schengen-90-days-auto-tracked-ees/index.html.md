@@ -30,6 +30,8 @@ No todos están registrados. Los ciudadanos de la UE, residentes de países de S
 
 La regla en sí no ha cambiado: puedes pasar como máximo 90 días dentro del área de Schengen dentro de cualquier ventana móvil de 180 días. Eso no son 90 días por año calendario, y la ventana no se reinicia cuando te vas. Por cada día que estés presente, los 180 días anteriores no deben contener más de 90 días de estancia.
 
+![Diagrama de la ventana móvil 90/180 de Schengen: desde hace 180 días hasta hoy, dos viajes de 30 y 45 días usan 75 de 90 días, dejando 15; la ventana se desplaza cada día y el día de llegada y el de salida cuentan](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-es.jpg) La ventana nunca se reinicia: cada día, los 180 anteriores no pueden contener más de 90 días de estancia.
+
 Lo que ha cambiado es la aplicación. Con sellos de pasaporte, probar un exceso significaba descifrar tinta desvanecida, y los oficiales fronterizos tenían discreción. Ahora las fechas son exactas, y el sistema marca un exceso en el momento que sucede. Espera un rechazo en tu próxima entrada, y en muchos casos una prohibición de entrada de uno a cinco años, que los funcionarios registran en el Sistema de Información de Schengen. El margen de error ha pasado de borroso a cero.
 
 ## El Problema: EES Hace Cumplir, No Planifica

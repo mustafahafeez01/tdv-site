@@ -1,0 +1,43 @@
+{
+ "sv": {
+  "template": "matrix",
+  "title": "Ett visum, tre olika klockor",
+  "columns": [
+   "Vad det berättar"
+  ],
+  "rows": [
+   {
+    "label": "Inresans giltighet",
+    "cells": [
+     "Resa in före detta datum"
+    ]
+   },
+   {
+    "label": "Maximal vistelsetid",
+    "cells": [
+     "Hur länge du får stanna"
+    ]
+   },
+   {
+    "label": "Antal inresor",
+    "cells": [
+     "Enkel eller multipel inresa"
+    ]
+   },
+   {
+    "label": "Schengen lägger till en fjärde",
+    "cells": [
+     "Det rullande 90/180-fönstret"
+    ]
+   }
+  ],
+  "note": "Håll koll på alla per person, på ett ställe",
+  "focal": "Overstay kan innebära böter och inreseförbud",
+  "alt": "Diagram över de tre klockorna på ett visum: inresans giltighet (resa in före detta datum), maximal vistelsetid (hur länge du får stanna), och antal inresor (enkel eller multipel inresa), med en notering om att Schengen lägger till en fjärde, det rullande 90/180-fönstret, och att overstay kan innebära böter och inreseförbud",
+  "caption": "Ett visum är inte ett datum. Det är tre separata klockor, och ibland en fjärde.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

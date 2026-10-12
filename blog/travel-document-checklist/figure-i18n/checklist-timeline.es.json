@@ -1,0 +1,30 @@
+{
+ "es": {
+  "template": "sequence",
+  "title": "Cuatro puntos de control, de la reserva al embarque",
+  "steps": [
+   {
+    "label": "Reserva",
+    "text": "Comprueba las fechas de caducidad"
+   },
+   {
+    "label": "3 meses antes",
+    "text": "Renueva si es necesario"
+   },
+   {
+    "label": "1 mes antes",
+    "text": "Confirma y consolida"
+   },
+   {
+    "label": "La noche antes",
+    "text": "Última comprobación"
+   }
+  ],
+  "alt": "Diagrama de línea de tiempo de las comprobaciones de documentos de viaje: comprueba las fechas de caducidad al reservar, renueva si es necesario tres meses antes, confirma y consolida un mes antes, última comprobación la noche antes",
+  "caption": "Cuatro puntos de control entre la reserva y el embarque, cada uno pequeño si empiezas con tiempo.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

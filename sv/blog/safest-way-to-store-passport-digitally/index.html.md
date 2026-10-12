@@ -89,6 +89,8 @@ Med Pro kan du synkronisera dokument mellan konfigurerade enheter på samma plat
 
 ## Kryptering, konto och kostnad i överblick
 
+![Jämförelsediagram som frågar var ditt pass bör förvaras: iCloud Photos erbjuder valfri totalsträckskryptering men kräver konto och synk, Google Photos uppfyller inget av de fyra kriterierna, ett krypterat valv uppfyller totalsträckskryptering, inget konto, fungerar offline och AES-256](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/storage-comparison-sv.jpg) Jämförelsetabellen ovan, återgiven i ett ögonkast.
+
 | Funktion | iCloud Photos | Google Photos | Krypterad app |
 |---|---|---|---|
 | Kryptering i vila | Ja (AES-128) | Ja (AES-128) | Ja (AES-256) |

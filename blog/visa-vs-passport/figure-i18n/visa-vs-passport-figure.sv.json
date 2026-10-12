@@ -1,0 +1,45 @@
+{
+ "sv": {
+  "template": "cards",
+  "title": "Det ena identifierar dig, det andra släpper in dig",
+  "cards": [
+   {
+    "heading": "Pass",
+    "items": [
+     {
+      "text": "Ditt eget land utfärdar det"
+     },
+     {
+      "text": "Bevisar vem du är"
+     },
+     {
+      "text": "Låter dig lämna hemlandet"
+     }
+    ]
+   },
+   {
+    "heading": "Visum",
+    "items": [
+     {
+      "text": "Resmålet utfärdar det"
+     },
+     {
+      "text": "Ger tillstånd att resa in"
+     },
+     {
+      "text": "Bara för det landet"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "note": "De flesta resor behöver båda",
+  "focal": "Ett giltigt pass är inte tillstånd att resa in",
+  "alt": "Jämförelsediagram över ett pass och ett visum: ditt eget land utfärdar passet, det bevisar vem du är och låter dig lämna hemlandet, medan resmålet utfärdar visumet, som ger tillstånd att resa in och bara gäller det landet, med en notering om att de flesta resor behöver båda",
+  "caption": "Två handlingar, två uppgifter - och ett giltigt pass ensamt är inte tillstånd att resa in.",
+  "placement": {
+   "h2": 5,
+   "para": 4
+  }
+ }
+}

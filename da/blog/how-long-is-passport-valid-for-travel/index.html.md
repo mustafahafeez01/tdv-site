@@ -35,6 +35,8 @@ Standardgyldigheden for et voksenpas er 10 år fra udstedelsesdatoen i de fleste
 
 Din nøjagtige udløbsdato står trykt på datasiden ved siden af dit foto. Den dato er den absolutte grænse – dit pas ophører med at være et gyldigt rejsedokument overalt i verden, når den er overskredet.
 
+![Diagram over pas-gyldighed: et voksenpas gælder i 10 år, et børnepas i 5, og en 6-måneders buffer ligger til sidst for begge, fordi mange lande kræver det](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/passport-validity-timeline-da.jpg) To ure, én hage: 6-måneders bufferen, mange lande forventer før din udløbsdato.
+
 ## "Gyldigt" og "gyldigt til din rejse" er to forskellige ting
 
 Et pas kan være teknisk gyldigt – ikke udløbet – og stadig føre til, at du bliver afvist ved boarding. Der er to hovedårsager til det.

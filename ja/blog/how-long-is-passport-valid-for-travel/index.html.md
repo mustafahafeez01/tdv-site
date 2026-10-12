@@ -35,6 +35,8 @@ Source: https://traveldocumentvault.com/ja/blog/how-long-is-passport-valid-for-t
 
 正確な有効期限は、身分証ページの写真の隣に記載されています。その日付が絶対的な制限です。その日付を過ぎると、パスポートは世界中のどこでも有効な旅行書類ではなくなります。
 
+![パスポートの有効期間を示す図。成人用は10年、子ども用は5年で、どちらの末尾にも6ヶ月の余裕が設けられている。多くの国がこれを求めている](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/passport-validity-timeline-ja.jpg) 二つの時計、一つの落とし穴:多くの国が有効期限前に求める6ヶ月の余裕
+
 ## "有効"と"旅行で有効"は異なります
 
 パスポートは技術的に有効（期限切れではない）であっても、搭乗を拒否されることがあります。これが起こる主な理由は2つあります。

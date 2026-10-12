@@ -32,6 +32,8 @@ Esta norma se aplica a todos los viajes internacionales —vuelos a Europa o tra
 
 La única excepción es un documento de viaje de emergencia británico, emitido por la Oficina de Asuntos Exteriores cuando ya estás en el extranjero en una emergencia genuina, y aun así solo existe para llevarte a casa —no para permitir viajes posteriores.
 
+![Árbol de decisión para un pasaporte caducado: el viaje internacional aparece como no permitido y lleva a solicitar una renovación urgente; el viaje nacional lleva a consultar con tu aerolínea y llamar antes de viajar, con una nota para verificar siempre antes de salir](https://traveldocumentvault.com/blog/travel-expired-passport-uk/passport-expiry-decision-tree-es.jpg) Los dos caminos desde un pasaporte caducado, y ninguno pasa por la puerta de embarque.
+
 ## ¿Puedes reservar unas vacaciones con un pasaporte expirado?
 
 Reservar no es lo mismo que embarcar.

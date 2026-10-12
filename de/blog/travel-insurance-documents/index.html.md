@@ -62,6 +62,8 @@ Speichern Sie eine physische Kopie – oder ein hochauflösendes Foto der wichti
 
 Eine handgeschriebene Karte funktioniert genauso gut wie ein Ausdruck: Versicherungsnummer, Name des Versicherers, Notfallhotline. Stecken Sie sie in das Passmäppchen und sie überlebt einen leeren Akku, ein verlorenes Telefon und einen Hotelsafe, den Sie nicht öffnen können.
 
+![Zwei identische Telefone nebeneinander: das linke leuchtet mit der auf dem Gerät gespeicherten Versicherungspolice, das rechte zeigt grau einen Ladekreis ohne Empfang](https://traveldocumentvault.com/blog/travel-insurance-documents/saved-vs-searching-figure.jpg) Heruntergeladen und griffbereit, oder noch in einem Postfach, das Sie nicht erreichen. Der Unterschied zeigt sich im schlechtesten Moment.
+
 ### Vergleich der Dokumentspeicherung
 
 | Speicherort | Zugriff ohne Internet | Im Notfall | Sicherung bei Handyverlust |

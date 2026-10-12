@@ -34,6 +34,8 @@ De meeste reizigers hebben het idee overgenomen dat paspoorten zes maanden geldi
 
 Onze gids over [de 6 maanden-regel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/) behandelt welke landen die daadwerkelijk hanteren. Onze [uitleg over paspoortgeldigheid](https://traveldocumentvault.com/nl/blog/how-long-is-passport-valid-for-travel/) behandelt het algemene geval. Hier houden we het bij Schengen, omdat gezinnen daar het vaakst subtiel de mist ingaan met de berekening.
 
+![Diagram van de vier vervaldatums van paspoorten in één gezin, op volgorde: kind 2 geldig tot 2027, kind 1 tot 2028, mama tot 2030, papa tot 2032; de vroegste datum bepaalt de reis, paspoorten van kinderen gaan 5 jaar mee in plaats van 10, en Schengen wil nog 3 maanden geldigheid na vertrek](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/family-expiry-dates-figure-nl.jpg) Vier paspoorten, vier klokken - en de kortste bepaalt de echte deadline van het gezin.
+
 ## Paspoorten van kinderen lopen op een snellere klok
 
 Paspoorten van volwassenen gelden doorgaans 10 jaar; die van kinderen maar vijf. Die asymmetrie is waar anders zorgvuldige plannen misgaan.

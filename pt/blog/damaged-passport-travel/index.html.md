@@ -28,6 +28,8 @@ Vale a pena saber onde está esse limite antes de viajar, porque um passaporte p
 
 O mais crítico é que a zona de leitura ótica — a faixa a preto e branco na parte inferior da página de dados — tem de se manter intacta. Os leitores de fronteira podem não conseguir lê-la depois de danificada.
 
+![Dois passaportes abertos lado a lado: um desgastado mas liso e utilizável, outro manchado de água com páginas onduladas e laminação a descolar](https://traveldocumentvault.com/blog/damaged-passport-travel/damage-vs-wear-figure.jpg) Vincos ligeiros na capa: aceitável. Danos de água na página de dados: um problema.
+
 A razão pela qual isto importa é que **as companhias aéreas assumem a responsabilidade se embarcarem alguém com um documento inaceitável.** Embarque com um passaporte danificado, seja recusado à chegada, e as autoridades podem multar a companhia aérea por o ter transportado. A companhia aérea também tem de custear o seu voo de regresso.
 
 Nenhum agente de portão quer essa burocracia, por isso preferem, sem hesitar, pecar por excesso de cautela.

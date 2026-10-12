@@ -30,6 +30,8 @@ Nem toda a gente está registada. Cidadãos da UE, residentes de países Schenge
 
 A regra em si não mudou: pode passar no máximo 90 dias dentro do Espaço Schengen em qualquer janela móvel de 180 dias. Isto não é 90 dias por ano de calendário, e a janela não reseta quando sai. Para cada dia que está presente, os 180 dias anteriores não devem conter mais de 90 dias de estada.
 
+![Diagrama cronológico da janela móvel Schengen 90/180: de há 180 dias até hoje, duas viagens de 30 e 45 dias usam 75 dos 90 dias disponíveis, restando 15; a janela desliza todos os dias e os dias de chegada e de partida contam ambos](https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/90-180-window-pt.jpg) A janela nunca reinicia: para cada dia, os 180 dias anteriores não podem conter mais de 90 dias de estadia.
+
 O que mudou é a aplicação. Com carimbos no passaporte, provar uma ultrapassagem significava descodificar tinta desbotada, e os oficiais de fronteira tinham discrição. Agora as datas são exatas, e o sistema sinaliza uma ultrapassagem no momento em que acontece. Espere recusa na sua próxima entrada, e em muitos casos uma proibição de entrada de um a cinco anos, que os oficiais registam no Sistema de Informações Schengen. A margem para erro passou de confusa para zero.
 
 ## A Pegadinha: O EES Faz Cumprir, Não Planeia

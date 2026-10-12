@@ -1,0 +1,52 @@
+{
+ "sv": {
+  "template": "cards",
+  "title": "Airside eller landside?",
+  "cards": [
+   {
+    "heading": "Airside",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Du stannar innanför säkerhetskontrollen",
+      "mark": "dot"
+     },
+     {
+      "text": "Du passerar inte gränskontroll",
+      "mark": "dot"
+     },
+     {
+      "text": "Vissa länder kräver ändå transitvisum",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Landside",
+    "items": [
+     {
+      "text": "Du lämnar den säkra zonen",
+      "mark": "dot"
+     },
+     {
+      "text": "Du passerar gränskontroll",
+      "mark": "dot"
+     },
+     {
+      "text": "Visum krävs oftast",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "eller",
+  "focal": "Kontrollera landet du mellanlandar i",
+  "alt": "Diagram som jämför airside-transit, där du stannar innanför säkerhetskontrollen och inte passerar gränskontroll även om vissa länder ändå kräver transitvisum, med landside-transit, där du lämnar den säkra zonen, passerar gränskontroll och oftast behöver visum",
+  "caption": "Airside stannar i terminalen, landside innebär att du reser in i landet.",
+  "placement": {
+   "h2": 2,
+   "para": 5
+  }
+ }
+}

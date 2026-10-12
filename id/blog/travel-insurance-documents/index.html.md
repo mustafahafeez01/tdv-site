@@ -62,6 +62,8 @@ Simpan salinan fisik, atau foto berkualitas tinggi dari halaman penting, bersama
 
 Kartu tertulis tangan berhasil sama baiknya dengan cetakan: nomor polis, nama perusahaan asuransi, lini darurat. Masukkan ke dalam dompet paspor dan itu akan bertahan dari baterai yang habis, ponsel yang hilang, dan brankas hotel yang tidak bisa Anda buka.
 
+![Dua ponsel identik berdampingan: yang kiri menyala dengan polis asuransi yang sudah tersimpan di perangkat, yang kanan tampak abu-abu dengan indikator memuat dan tanpa sinyal](https://traveldocumentvault.com/blog/travel-insurance-documents/saved-vs-searching-figure.jpg) Sudah diunduh dan siap dipakai, atau masih tersimpan di kotak masuk yang tidak bisa Anda akses. Perbedaannya muncul di saat yang paling buruk.
+
 ### Perbandingan Penyimpanan Dokumen
 
 | Lokasi Penyimpanan | Akses Tanpa Internet | Saat Darurat | Cadangan jika Ponsel Hilang |

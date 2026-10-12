@@ -37,6 +37,8 @@ Un viajero entra en Vietnam con un visado sellado con "válido hasta el 30 de ju
 
 Un rastreador que solo supervisa la fecha de validez de entrada se pierde la causa más común de excedentes accidentales: exceder la duración máxima de estancia después de una entrada perfectamente legal. Este es el campo que la mayoría de viajeros no rastrean, porque la fecha no está sellada en el pasaporte —tienes que calcularla a partir de la fecha de entrada.
 
+![Diagrama de los tres relojes de un visado: validez de entrada (entra antes de esta fecha), estancia máxima (cuánto tiempo puedes permanecer) y número de entradas (única o múltiple), con una nota de que Schengen suma un cuarto, la ventana móvil 90/180, y que excederte puede implicar multas y prohibiciones de reentrada](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/visa-three-clocks-figure-es.jpg) Un visado no es una sola fecha. Son tres relojes distintos, y a veces un cuarto.
+
 ## La Regla de Schengen 90/180 Días
 
 Para viajeros que visitan múltiples países europeos, la regla de 90/180 días del Área de Schengen es la condición de entrada más ampliamente incomprendida en viajes internacionales. Ciudadanos de países con acceso libre de visado a Schengen (incluyendo el Reino Unido, Estados Unidos, Canadá, y Australia, entre muchos otros) pueden pasar un máximo de 90 días en el Área de Schengen dentro de cualquier ventana móvil de 180 días.

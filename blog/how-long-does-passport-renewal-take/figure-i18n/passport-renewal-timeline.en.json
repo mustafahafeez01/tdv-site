@@ -1,0 +1,38 @@
+{
+ "en": {
+  "template": "sequence",
+  "title": "What slows a renewal down",
+  "subtitle": "A straightforward renewal skips all six",
+  "steps": [
+   {
+    "text": "Name change"
+   },
+   {
+    "text": "First adult passport"
+   },
+   {
+    "text": "A child's application"
+   },
+   {
+    "text": "Lost or damaged"
+   },
+   {
+    "text": "Extra checks or an interview"
+   },
+   {
+    "text": "Applying from abroad"
+   }
+  ],
+  "start": "Apply",
+  "end": "Passport",
+  "note": "Work backwards from your travel date",
+  "focal": "Your passport authority publishes the current time",
+  "alt": "Diagram of an application travelling to a finished passport past six slowdowns: name change, first adult passport, a child's application, lost or damaged, extra checks or an interview, and applying from abroad",
+  "caption": "Six situations pull an application out of the fast lane. A straightforward renewal skips all of them.",
+  "placement": {
+   "h2": 3,
+   "para": 1
+  },
+  "numbered": false
+ }
+}

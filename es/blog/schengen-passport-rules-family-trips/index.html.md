@@ -34,6 +34,8 @@ La mayoría de los viajeros absorben la idea de que los pasaportes necesitan sei
 
 Nuestra guía sobre [la regla de 6 meses](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/) cubre qué países la aplican realmente. Nuestro [explicador de validez de pasaporte](https://traveldocumentvault.com/es/blog/how-long-is-passport-valid-for-travel/) maneja el caso general. Nos estamos quedando con Schengen aquí porque es donde las familias más a menudo se equivocan con las matemáticas de manera sutil.
 
+![Diagrama de las cuatro fechas de caducidad de los pasaportes de una familia, en orden: hijo 2 válido hasta 2027, hijo 1 hasta 2028, mamá hasta 2030, papá hasta 2032; la fecha más temprana decide el viaje, los pasaportes de los niños duran 5 años y no 10, y Schengen exige 3 meses de margen tras la salida](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/family-expiry-dates-figure-es.jpg) Cuatro pasaportes, cuatro relojes: el más corto marca el verdadero plazo de la familia.
+
 ## Los Pasaportes de Niños Funcionan en un Reloj Más Rápido
 
 Los pasaportes de adultos generalmente duran 10 años; los de niños solo cinco. Esa asimetría es donde muchos planes cuidadosos fracasan.

@@ -1,0 +1,38 @@
+{
+ "en": {
+  "template": "sequence",
+  "title": "Lost passport abroad: the 7 steps",
+  "steps": [
+   {
+    "text": "Confirm it's really gone"
+   },
+   {
+    "text": "File a police report"
+   },
+   {
+    "text": "Contact your embassy"
+   },
+   {
+    "text": "Emergency travel document"
+   },
+   {
+    "text": "Notify your insurer"
+   },
+   {
+    "text": "Check your visa situation"
+   },
+   {
+    "text": "Get home, then replace it"
+   }
+  ],
+  "highlight": 3,
+  "note": "Before any of this: photograph your passport today",
+  "focal": "A backup copy makes step 4 much faster",
+  "alt": "Hand-drawn path of the seven steps after losing a passport abroad: confirm it's really gone, file a police report, contact your embassy, emergency travel document, notify your insurer, check your visa situation, get home then replace it - with a note to photograph your passport today because a backup copy makes step four much faster",
+  "caption": "Seven calm steps, in order - and the one thing to do today, before any of them are ever needed.",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

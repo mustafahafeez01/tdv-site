@@ -87,6 +87,8 @@ Si vous êtes un utilisateur iPhone, activer **Advanced Data Protection dans iCl
 
 **Travel Document Vault** stocke vos scans de passeport sur l'appareil avec un chiffrement fort. Aucun compte requis. Avec Pro, vous pouvez sauvegarder une copie chiffrée sur votre propre iCloud ou Google Drive. Conservez votre code de récupération en lieu sûr : il vous sera nécessaire pour restaurer cette sauvegarde. [Télécharger sur l'App Store.](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8)
 
+![Diagramme de ce qu'une photo de passeport révèle - nom, date de naissance, numéro de passeport et photo - à côté de trois risques, piratage du compte, accès par un tiers et indexation des données, et de trois options plus sûres : iCloud avec ADP, une application chiffrée, ou une copie hors ligne](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/passport-data-risks-fr.jpg) Une photo, quatre données personnelles, et trois endroits plus sereins pour les conserver.
+
 ## Quelles sont les alternatives plus sûres
 
 Si vous souhaitez avoir une copie numérique de passeport à portée de main quand vous voyagez — comme sauvegarde si votre passeport physique est perdu ou volé — il existe des options qui vous donnent une véritable sécurité sans beaucoup d'inconvénients.

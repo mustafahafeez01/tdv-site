@@ -50,6 +50,8 @@ Kedua adalah perjalanan bebas visa. Ketika negara tujuan mengizinkan kewarganega
 
 Jadi, paspor adalah milik Anda dan menyertai Anda ke mana pun. Izin masuk diberikan oleh masing-masing negara tujuan secara terpisah, dan bisa ditolak meskipun paspor Anda dalam kondisi sepenuhnya berlaku.
 
+![Diagram perbandingan paspor dan visa: negara Anda sendiri menerbitkan paspor, yang membuktikan identitas Anda dan memungkinkan Anda meninggalkan negara sendiri, sementara negara tujuan menerbitkan visa, yang memberikan izin untuk masuk dan hanya berlaku untuk satu negara itu, dengan catatan bahwa sebagian besar perjalanan memerlukan keduanya](https://traveldocumentvault.com/blog/visa-vs-passport/visa-vs-passport-figure-id.jpg) Dua dokumen, dua fungsi - dan paspor yang berlaku saja bukan izin untuk masuk.
+
 ## Jenis Visa Berbeda-beda menurut Tujuan dan Lama Tinggal
 
 Sebagian besar negara menerbitkan visa dalam kategori berikut:

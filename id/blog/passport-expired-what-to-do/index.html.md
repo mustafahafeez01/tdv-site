@@ -19,6 +19,8 @@ Source: https://traveldocumentvault.com/id/blog/passport-expired-what-to-do/
 
 Menemukan bahwa paspor Anda sudah kedaluwarsa adalah salah satu momen ketika waktu tiba-tiba terasa sangat nyata. Baik Anda menyadarinya tiga bulan sebelum keberangkatan atau justru sedang berdiri di meja check-in bandara sekarang, langkah selanjutnya bergantung sepenuhnya pada situasi yang Anda hadapi.
 
+![Diagram cabang untuk paspor kedaluwarsa: di rumah dengan perjalanan yang akan datang, ajukan perpanjangan darurat karena Inggris menyediakan slot sehari jadi dan AS punya slot darurat; di bandara, hubungi maskapai Anda dulu karena sebagian menjadwalkan ulang gratis untuk keadaan darurat. Solusi sesungguhnya adalah pengingat di 12 bulan, bukan 6, karena kedaluwarsa berarti Anda tidak bisa terbang](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-id.jpg) Masalah yang sama, dua langkah yang sangat berbeda - semuanya bergantung pada di mana Anda berada saat menyadarinya.
+
 ## Skenario A: Anda Menemukannya di Rumah, dengan Rencana Perjalanan
 
 Situasi ini masih bisa diatasi, tetapi seberapa mudahnya tergantung berapa banyak waktu yang Anda miliki sebelum keberangkatan.

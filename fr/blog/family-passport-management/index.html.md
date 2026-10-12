@@ -34,6 +34,8 @@ La première étape consiste à centraliser le lieu de stockage des passeports f
 
 Le chiffrement est important car les passeports contiennent votre nom complet, votre date de naissance et votre numéro de passeport — suffisant pour l'usurpation d'identité. Les applications générales de stockage de photos comme Google Photos ou iCloud traitent vos documents comme des instantanés plutôt que comme des données d'identité sensibles. Un dossier PDF protégé par mot de passe sur votre appareil, ou une application spécialement conçue pour gérer les documents de voyage, vous donne la couche de chiffrement dont vous avez besoin.
 
+![Diagramme d'un système familial de passeports : quatre passeports (papa, maman, enfant 1, enfant 2) convergeant vers un coffre chiffré, avec en sortie des rappels d'expiration, un accès hors ligne et une sauvegarde chiffrée, et une note indiquant que les passeports d'enfants expirent en 5 ans, pas 10](https://traveldocumentvault.com/blog/family-passport-management/family-system-figure-fr.jpg) Un système familial : chaque passeport au même endroit, avec un suivi automatisé pour chaque date d'expiration
+
 **Copies numériques uniquement.** Scannez la page d'identité du passeport de chaque membre de la famille. Une image claire de la page montrant la photo, le nom, la date de naissance, le numéro de passeport et la date d'expiration suffit. Cela devrait prendre 30 secondes par personne.
 
 Une fois scannées, ces copies vivent dans votre coffre-fort chiffré — accessibles à tout moment quand vous avez besoin de vérifier une date de validité, de prouver que vous avez des documents lors de la réservation d'un voyage, ou de fournir des informations d'urgence à un consulat si quelque chose se passe mal à l'étranger.

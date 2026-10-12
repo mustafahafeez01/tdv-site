@@ -1,0 +1,44 @@
+{
+ "pt": {
+  "template": "tree",
+  "root": {
+   "heading": "Passaporte expirado: onde está?"
+  },
+  "branches": [
+   {
+    "heading": "Em casa, com viagem a chegar",
+    "items": [
+     {
+      "text": "Marque uma renovação urgente",
+      "mark": "dot"
+     },
+     {
+      "text": "Há vagas urgentes no Reino Unido e EUA",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "No aeroporto",
+    "items": [
+     {
+      "text": "Ligue primeiro à companhia aérea",
+      "mark": "dot"
+     },
+     {
+      "text": "Algumas reagendam grátis em emergências",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "note": "A solução real: um aviso aos 12 meses, não 6",
+  "focal": "Sem exceções: expirado significa que não voa",
+  "alt": "Diagrama de ramos para um passaporte expirado: em casa com uma viagem a chegar, marque uma renovação urgente pois há vagas de emergência no Reino Unido e nos EUA; no aeroporto, ligue primeiro à companhia aérea pois algumas reagendam grátis em emergências. A solução real é um aviso aos 12 meses, não 6, porque expirado significa que não voa",
+  "caption": "O mesmo problema, dois planos muito diferentes - tudo depende de onde está quando descobre.",
+  "placement": {
+   "h2": 1,
+   "para": 1
+  }
+ }
+}

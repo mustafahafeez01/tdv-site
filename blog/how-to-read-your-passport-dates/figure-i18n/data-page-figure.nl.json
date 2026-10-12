@@ -1,0 +1,52 @@
+{
+ "nl": {
+  "template": "cards",
+  "title": "Vier velden op de gegevenspagina",
+  "cards": [
+   {
+    "heading": "Afgiftedatum",
+    "items": [
+     {
+      "text": "De dag waarop het is afgedrukt",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Vervaldatum",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "Geldigheid wordt hiervanaf gemeten",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Land van afgifte",
+    "items": [
+     {
+      "text": "Wie het vervangt als het kwijt is",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Paspoortnummer",
+    "items": [
+     {
+      "text": "Een nieuw paspoort betekent een nieuw nummer",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagram van een paspoortgegevenspagina met vier gelabelde velden: afgiftedatum, vervaldatum, land van afgifte en paspoortnummer, met de vervaldatum gemarkeerd als de datum waarvanaf geldigheid en de 6 maanden-regel worden geteld",
+  "caption": "Vier velden, en één ervan is wat elke inreisregel eigenlijk meet.",
+  "focal": "De 6 maanden-regel telt terug vanaf de vervaldatum",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

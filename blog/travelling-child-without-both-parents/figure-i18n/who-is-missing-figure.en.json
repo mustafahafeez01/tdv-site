@@ -1,0 +1,49 @@
+{
+ "en": {
+  "template": "tree",
+  "root": {
+   "heading": "Who is not travelling?"
+  },
+  "branches": [
+   {
+    "heading": "The other parent",
+    "items": [
+     {
+      "text": "Consent letter"
+     }
+    ]
+   },
+   {
+    "heading": "An ex with no contact",
+    "items": [
+     {
+      "text": "Custody or court order"
+     }
+    ]
+   },
+   {
+    "heading": "A parent who has died",
+    "items": [
+     {
+      "text": "Death certificate copy"
+     }
+    ]
+   },
+   {
+    "heading": "Both parents",
+    "items": [
+     {
+      "text": "Consent from both, plus birth certificate"
+     }
+    ]
+   }
+  ],
+  "focal": "Carry the child's birth certificate either way",
+  "alt": "Decision tree showing which document to carry depending on who is not travelling: a consent letter for the other parent, a custody or court order for an ex with no contact, a death certificate copy for a parent who has died, or consent from both plus a birth certificate when both parents are not travelling, with a note to carry the child's birth certificate either way",
+  "caption": "Four situations, four documents, and one birth certificate that helps in all of them. This is our read of what airlines and border officers most often ask for, not a legal checklist. Requirements vary by destination and by carrier, so check your destination's immigration authority and your airline before you travel.",
+  "placement": {
+   "h2": 5,
+   "para": 3
+  }
+ }
+}

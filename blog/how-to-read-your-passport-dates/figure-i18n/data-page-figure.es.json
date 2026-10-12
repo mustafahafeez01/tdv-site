@@ -1,0 +1,52 @@
+{
+ "es": {
+  "template": "cards",
+  "title": "Cuatro campos en la página de datos",
+  "cards": [
+   {
+    "heading": "Fecha de expedición",
+    "items": [
+     {
+      "text": "El día en que se imprimió",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Fecha de caducidad",
+    "tone": "focal",
+    "items": [
+     {
+      "text": "La validez se cuenta desde aquí",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "País emisor",
+    "items": [
+     {
+      "text": "Quién lo sustituye si se pierde",
+      "mark": "none"
+     }
+    ]
+   },
+   {
+    "heading": "Número de pasaporte",
+    "items": [
+     {
+      "text": "Pasaporte nuevo, número nuevo",
+      "mark": "none"
+     }
+    ]
+   }
+  ],
+  "alt": "Diagrama de la página de datos de un pasaporte con cuatro campos señalados: fecha de expedición, fecha de caducidad, país emisor y número de pasaporte, con la fecha de caducidad destacada como la que cuenta para la validez y la regla de los 6 meses",
+  "caption": "Cuatro campos, y solo uno es el que de verdad mide cada norma de entrada.",
+  "focal": "La regla de los 6 meses cuenta hacia atrás desde la fecha de caducidad",
+  "placement": {
+   "h2": 2,
+   "para": 4
+  }
+ }
+}

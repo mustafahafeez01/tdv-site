@@ -30,6 +30,8 @@ De vervaldatum is de harde grens, en dat is wat de bekende geldigheidsregels met
 
 Als je één ding van deze pagina onthoudt, laat het die asymmetrie zijn: de afgiftedatum beschrijft het document, en de vervaldatum beschrijft hoe lang je er nog op kunt reizen.
 
+![Diagram van een paspoortgegevenspagina met vier gelabelde velden: afgiftedatum, vervaldatum, land van afgifte en paspoortnummer, met de vervaldatum gemarkeerd als de datum waarvanaf geldigheid en de 6 maanden-regel worden geteld](https://traveldocumentvault.com/blog/how-to-read-your-passport-dates/data-page-figure-nl.jpg) Vier velden, en één ervan is wat elke inreisregel eigenlijk meet.
+
 ## Waarom er 'datum van expeditie' op je paspoort kan staan
 
 Veel mensen zoeken op wat «date of expedition» op een Engelstalig formulier of paspoort betekent, en het antwoord is geruststellend saai: het betekent afgiftedatum.

@@ -1,0 +1,59 @@
+{
+ "da": {
+  "template": "cards",
+  "title": "Medbring det, eller gem det?",
+  "cards": [
+   {
+    "heading": "I din håndbagage",
+    "items": [
+     {
+      "text": "Pas",
+      "mark": "tick"
+     },
+     {
+      "text": "Visa og godkendelser",
+      "mark": "tick"
+     },
+     {
+      "text": "Boardingkort",
+      "mark": "tick"
+     },
+     {
+      "text": "Samtykkebrev, hvis nødvendigt",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Offline på din telefon",
+    "items": [
+     {
+      "text": "Pasoplysninger",
+      "mark": "tick"
+     },
+     {
+      "text": "Forsikringspolice og nødtelefonnummer",
+      "mark": "tick"
+     },
+     {
+      "text": "Bookingreferencer",
+      "mark": "tick"
+     },
+     {
+      "text": "Vaccinationscertifikater",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "link": "and",
+  "note": "Den ene er sikkerhedskopi for den anden",
+  "focal": "Hvis tasken forsvinder, får telefonkopien dig hjem",
+  "alt": "Delt diagram: medbring i din håndbagage passet, visa og godkendelser, boardingkort og et samtykkebrev, hvis nødvendigt; gem offline på din telefon pasoplysninger, forsikringspolice og nødtelefonnummer, bookingreferencer og vaccinationscertifikater, fordi den ene er sikkerhedskopi for den anden, og hvis tasken forsvinder, får telefonkopien dig hjem",
+  "caption": "Originalerne rejser i din håndbagage; deres krypterede tvillinger ligger offline på din telefon.",
+  "placement": {
+   "h2": 2,
+   "para": 7
+  }
+ }
+}

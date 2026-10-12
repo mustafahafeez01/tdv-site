@@ -44,6 +44,8 @@ Saat Anda memperpanjang paspor, otoritas paspor Anda sendiri menerbitkan dokumen
 
 Berikut ini garis waktu yang perlu direncanakan:
 
+![Diagram perbandingan: paspor yang Anda gunakan saat mengajukan tetap menjaga tautan ETA ke buku paspor itu sehingga Anda bisa bepergian seperti biasa, sementara paspor baru atau yang diperpanjang tidak membawa tautan itu dan memerlukan ETA baru sebelum Anda terbang, dan setiap orang yang bepergian memerlukan ETA sendiri, termasuk anak-anak](https://traveldocumentvault.com/blog/uk-eta-passport-rules/eta-passport-link-figure-id.jpg) Persetujuannya terikat pada buku paspor, bukan pada diri Anda - dan setiap pelancong membawa miliknya sendiri.
+
 1. Tanggal kedaluwarsa paspor Anda sudah dekat.
 2. Anda mengajukan perpanjangan paspor di negara asal Anda.
 3. Paspor baru Anda tiba (waktu pemrosesan bervariasi, lihat [panduan waktu perpanjangan paspor](https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-take/)).

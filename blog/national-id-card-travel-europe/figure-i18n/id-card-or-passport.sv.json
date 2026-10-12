@@ -1,0 +1,52 @@
+{
+ "sv": {
+  "template": "cards",
+  "title": "ID-kort eller pass?",
+  "cards": [
+   {
+    "heading": "ID-kort fungerar vanligtvis",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Resor inom EU och EES",
+      "mark": "tick"
+     },
+     {
+      "text": "Schweiz också",
+      "mark": "tick"
+     },
+     {
+      "text": "Kortet giltigt den dag du reser",
+      "mark": "tick"
+     }
+    ]
+   },
+   {
+    "heading": "Ta med passet",
+    "items": [
+     {
+      "text": "De flesta resor utanför Europa",
+      "mark": "dot"
+     },
+     {
+      "text": "Kortet skadat eller svårläst",
+      "mark": "dot"
+     },
+     {
+      "text": "Flygbolaget begär ett",
+      "mark": "dot"
+     }
+    ]
+   }
+  ],
+  "link": "vs",
+  "link_label": "eller",
+  "focal": "Två handlingar, två utgångsdatum",
+  "alt": "Diagram som jämför när ett nationellt ID-kort vanligtvis fungerar, för resor inom EU och EES samt Schweiz, med när du bör ta med passet: de flesta resor utanför Europa, ett skadat kort, eller ett flygbolag som begär ett",
+  "caption": "Inom EU och EES fungerar kortet vanligtvis, utanför Europa tar du med passet.",
+  "placement": {
+   "h2": 3,
+   "para": 3
+  }
+ }
+}

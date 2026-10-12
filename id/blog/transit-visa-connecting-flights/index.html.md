@@ -33,6 +33,8 @@ Sebagian besar negara tidak mewajibkan visa transit untuk transit yang sepenuhny
 
 Jebakannya ada di tengah-tengah. Layover yang terlihat airside di atas kertas bisa diam-diam berubah menjadi landside dalam praktiknya. Jika koneksi penerbangan Anda berlangsung semalaman, hotel bandara biasanya berada di luar zona aman, sehingga mengambil bagasi dan check-in berarti Anda harus melewati imigrasi. Hal yang sama terjadi saat Anda harus berpindah terminal dan tidak ada penghubung airside di antara keduanya - Anda keluar, lalu melewati pemeriksaan keamanan lagi di sisi lain. Bagaimanapun caranya, koneksi yang Anda kira tidak memerlukan visa bisa tiba-tiba membutuhkannya, jadi ada baiknya memeriksa bagaimana perpindahan itu sebenarnya berlangsung, bukan hanya berapa lama waktunya.
 
+![Diagram yang membandingkan transit airside, yaitu Anda tetap di belakang pos keamanan dan tidak melewati imigrasi meski sebagian negara tetap mensyaratkan visa transit, dengan transit landside, yaitu Anda meninggalkan zona aman, melewati imigrasi, dan biasanya memerlukan visa](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/airside-vs-landside-id.jpg) Airside tetap di dalam terminal; landside berarti memasuki negara tersebut.
+
 ## Kapan Anda Pasti Memerlukan Visa Transit
 
 Visa transit wajib dimiliki dalam beberapa keadaan, dan persyaratannya sangat bervariasi tergantung kewarganegaraan Anda dan negara transit.

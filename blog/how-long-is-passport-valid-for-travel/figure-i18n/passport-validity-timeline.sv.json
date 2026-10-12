@@ -1,0 +1,33 @@
+{
+ "sv": {
+  "template": "matrix",
+  "title": "Passets giltighet",
+  "columns": [
+   "Vuxenpass",
+   "Barnpass"
+  ],
+  "rows": [
+   {
+    "label": "Giltigt i",
+    "cells": [
+     "10 år",
+     "5 år"
+    ]
+   },
+   {
+    "label": "6-månadersbuffert i slutet",
+    "cells": [
+     "tick",
+     "tick"
+    ]
+   }
+  ],
+  "focal": "Många länder kräver 6-månadersbufferten",
+  "alt": "Diagram över passets giltighet: ett vuxenpass gäller i 10 år, ett barnpass i 5, och en 6-månadersbuffert ligger i slutet av båda eftersom många länder kräver det",
+  "caption": "Två klockor, en hake: 6-månadersbufferten som många länder förväntar sig före ditt utgångsdatum.",
+  "placement": {
+   "h2": 2,
+   "para": 2
+  }
+ }
+}

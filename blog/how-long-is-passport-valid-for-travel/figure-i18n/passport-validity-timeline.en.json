@@ -1,0 +1,33 @@
+{
+ "en": {
+  "template": "matrix",
+  "title": "Passport validity",
+  "columns": [
+   "Adult passport",
+   "Child passport"
+  ],
+  "rows": [
+   {
+    "label": "Valid for",
+    "cells": [
+     "10 years",
+     "5 years"
+    ]
+   },
+   {
+    "label": "6-month buffer at the end",
+    "cells": [
+     "tick",
+     "tick"
+    ]
+   }
+  ],
+  "focal": "Many countries require the 6-month buffer",
+  "alt": "Diagram of passport validity: an adult passport runs 10 years, a child passport 5, and a 6-month buffer sits at the end of both because many countries require it",
+  "caption": "Two clocks, one catch: the 6-month buffer many countries expect before your expiry date.",
+  "placement": {
+   "h2": 2,
+   "para": 2
+  }
+ }
+}

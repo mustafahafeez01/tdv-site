@@ -44,6 +44,8 @@ Bewahren Sie die beglaubigte Kopie bei Ihren Reisepässen auf statt in einer sep
 
 Die praktische Antwort bleibt kurz: ein Dokument, griffbereit aufbewahrt, und ein Vorgang, der, sobald es vorgezeigt wurde, meist zügig weitergeht.
 
+![Entscheidungsbaum dazu, welches Dokument je nach fehlendem Elternteil mitzuführen ist: ein Zustimmungsbrief für den anderen Elternteil, ein Sorgerechts- oder Gerichtsbeschluss für einen Ex-Partner ohne Kontakt, eine Kopie der Sterbeurkunde für einen verstorbenen Elternteil, oder Zustimmung beider plus Geburtsurkunde, wenn beide Elternteile nicht mitreisen, mit dem Hinweis, die Geburtsurkunde des Kindes in jedem Fall mitzunehmen](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/who-is-missing-figure-de.jpg) Vier Situationen, vier Dokumente, und eine Geburtsurkunde, die in allen hilft. Das ist unsere Einschätzung, wonach Airlines und Grenzbeamte am häufigsten fragen, keine rechtliche Checkliste. Die Anforderungen variieren je nach Zielort und Fluggesellschaft, prüfen Sie daher vor der Reise die Einreisebehörde Ihres Zielorts und Ihre Airline.
+
 Das ist unsere Einschätzung dessen, was Fluggesellschaften und Grenzbeamte am häufigsten verlangen, keine rechtliche Checkliste. Die Anforderungen unterscheiden sich je nach Zielland und Fluggesellschaft – prüfen Sie daher vor der Reise die Angaben der Einwanderungsbehörde Ihres Ziellandes und Ihrer Fluggesellschaft.
 
 ## Ein anderer Nachname als der Ihres Kindes: Die Geburtsurkunde klärt das meist
