@@ -4203,7 +4203,7 @@ A tracker that only monitors the entry validity date misses this exact trap: exc
 
 It's the field most travellers fail to track, because the date is not stamped anywhere in the passport, so you have to work it out from your own date of entry.
 
-![Hand-drawn diagram of the three clocks on one visa: entry validity (enter before this date), maximum stay (how long you may remain), and entry count (single or multiple entries) - with a note that Schengen adds a fourth, the rolling 90/180 window, and that overstays can mean fines and re-entry bans](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/visa-three-clocks-figure.jpg) A visa is not one date. It is three separate clocks, and sometimes a fourth.
+![Diagram of the three clocks on one visa: entry validity (enter before this date), maximum stay (how long you may remain), and entry count (single or multiple entries), with a note that Schengen adds a fourth, the rolling 90/180 window, and that overstays can mean fines and re-entry bans](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/visa-three-clocks-figure.jpg) A visa is not one date. It is three separate clocks, and sometimes a fourth.
 
 ## The Schengen 90/180-Day Rule
 
