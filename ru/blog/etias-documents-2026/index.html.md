@@ -136,6 +136,8 @@ ETIAS требуется для граждан не из ЕС, освобожд�
 
 ## Похожие статьи
 
+[Документы для путешествий7 мин чтенияПодтверждение дальнейшей поездки: что действительно подходит](https://traveldocumentvault.com/ru/blog/proof-of-onward-travel/)
+
 [Продление5 мин чтенияПриложение для отслеживания срока действия визы: на что обратить внимание](https://traveldocumentvault.com/ru/blog/visa-expiry-tracker-app/)
 
 [Правила паспорта6 мин чтенияСрок действия паспорта и правило шести месяцев](https://traveldocumentvault.com/ru/blog/passport-expiry-6-month-rule/)

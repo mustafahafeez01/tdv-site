@@ -136,6 +136,8 @@ ETIAS จำเป็นสำหรับพลเมืองนอกสห�
 
 ## บทความที่เกี่ยวข้อง
 
+[เอกสารการเดินทางอ่าน 7 นาทีหลักฐานการเดินทางต่อ: สิ่งที่ใช้ได้จริง](https://traveldocumentvault.com/th/blog/proof-of-onward-travel/)
+
 [การต่ออายุอ่าน 5 นาทีแอปติดตามวันหมดอายุวีซ่า: สิ่งที่ควรมองหา](https://traveldocumentvault.com/th/blog/visa-expiry-tracker-app/)
 
 [กฎเรื่องพาสปอร์ตอ่าน 6 นาทีอายุการใช้งานพาสปอร์ตกับกฎ 6 เดือน](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)

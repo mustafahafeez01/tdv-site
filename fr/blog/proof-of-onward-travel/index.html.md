@@ -1,110 +1,101 @@
 # Preuve de continuation de voyage : ce qui compte vraiment
 
-> La preuve de continuation de voyage varie selon la compagnie et la destination. Découvrez ce qui compte et que faire si vous voyagez avec un aller simple.
+> La preuve de continuation de voyage est généralement un billet de sortie. Ce qui compte, pourquoi la compagnie la demande, et quoi faire en aller simple.
 
 Source: https://traveldocumentvault.com/fr/blog/proof-of-onward-travel/
 
 ---
 
+![Un parent et un enfant à la fenêtre d'un aéroport tenant un passeport avec un billet de voyage glissé à l'intérieur, regardant un avion avant un départ](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
+
 ## Points clés à retenir
 
-- **Le contrôle de la compagnie et le contrôle frontalier répondent à deux questions différentes.** Une compagnie aérienne se protège contre sa propre responsabilité. Un agent frontalier décide s'il vous admet.
-- La preuve de continuation de voyage est généralement un vol retour, un vol de continuation, ou une réservation d'hôtel qui implique une continuation de voyage.
-- Un aller simple ne signifie pas automatiquement que l'embarquement vous sera refusé. La compagnie s'intéresse uniquement à votre capacité à entrer et sortir de votre destination par vos propres moyens.
-- Ce qui compte comme preuve varie selon la compagnie et la destination. Certaines acceptent les réservations d'hôtel, d'autres exigent uniquement un billet. Vérifiez avant de voyager.
-- Si l'embarquement vous est refusé, vous pouvez réserver un vol de continuation sur place ou contester la décision auprès de la compagnie.
-- Travel Document Vault stocke vos billets d'avion et réservations d'hôtel sur votre appareil, chiffrés et hors ligne — pour montrer votre preuve à la porte d'embarquement même sans réseau.
+- **La preuve de continuation de voyage, c'est généralement un billet réservé de sortie du pays où vous atterrissez,** soit vers votre domicile, soit vers un pays où vous êtes autorisé à entrer.
+- Deux contrôles distincts s'y intéressent. La compagnie aérienne vérifie avant l'embarquement car elle doit généralement vous ramener si l'entrée vous est refusée. L'agent frontalier décide s'il vous admet.
+- Certaines destinations inscrivent la continuation de voyage dans leurs règles d'entrée pour les visiteurs, donc une compagnie qui la demande applique souvent la règle de la destination un peu plus tôt.
+- Une réservation d'hôtel ou un relevé bancaire répondent à d'autres questions, où vous logerez et comment vous subviendrez à vos besoins, et ne remplacent généralement pas un billet de sortie.
+- Gardez la confirmation là où vous pourrez l'ouvrir au comptoir, sans réseau ni connexion à un compte.
 
-La preuve de continuation de voyage est une question posée par deux interlocuteurs différents, et savoir lequel se trouve face à vous répond à la majeure partie du problème. La compagnie aérienne au comptoir et l'agent à la frontière veulent des choses différentes, pour des raisons différentes, et un document qui satisfait l'un ne satisfait pas automatiquement l'autre.
+Dans la plupart des cas, la preuve de continuation de voyage est un billet réservé de sortie du pays où vous atterrissez. Un vol retour vers votre domicile compte, tout comme un billet vers un pays tiers où vous êtes autorisé à entrer. Si vous en avez déjà un, vous disposez de ce qui est généralement demandé.
 
-La réponse est moins simple que la règle elle-même. Les compagnies aériennes demandent une preuve de continuation de voyage principalement pour éviter le coût de vous rapatrier si vous ne pouvez pas entrer dans votre destination — pas pour surveiller votre itinéraire. Ce motif change ce qui les préoccupe réellement — et ce n'est presque jamais ce que pensent les voyageurs inquiets.
+Le reste de ce guide traite des cas moins évidents : un aller simple voulu, un plan ouvert, ou une question inattendue au comptoir. Tout se résume souvent à savoir qui pose la question, et pourquoi.
 
 ## Ce qu'est la preuve de continuation de voyage, et qui la demande vraiment
 
-La preuve de continuation de voyage est la preuve que vous avez organisé un moyen de quitter le pays de destination. Cela peut être un vol retour, un vol de continuation vers un pays tiers, ou une réservation d'hôtel suffisamment longue pour laisser entendre que vous prévoyez de partir.
+La preuve de continuation de voyage est une preuve que vous avez organisé un moyen de quitter votre destination avant la fin de votre séjour autorisé. Deux personnes différentes peuvent vous la demander, et pour des raisons différentes.
 
-La compagnie aérienne demande cette preuve avant l'embarquement pour se protéger de sa propre responsabilité. Si vous embarquez et que l'immigration refuse de vous laisser entrer, la compagnie est généralement responsable de vous ramener chez vous. Une réservation montrant que vous avez les moyens de rester quelque part puis de repartir est l'assurance, pour la compagnie, que vous ne deviendrez pas son problème financier.
+La première est la compagnie aérienne, à l'enregistrement ou à la porte d'embarquement. Si elle transporte un passager à qui l'entrée est ensuite refusée, c'est généralement à elle de le ramener, à ses propres frais. Donc avant l'embarquement, elle vérifie que vous semblez remplir les conditions d'entrée de votre destination.
 
-C'est là tout le calcul : non pas de savoir si votre voyage est légal ou si la frontière acceptera vos documents, mais si vous avez assez d'argent organisé pour éviter de rester bloqué indéfiniment.
+La seconde est l'agent frontalier à l'arrivée. Son rôle est de décider s'il vous admet, et dans certains endroits, la preuve que vous repartirez fait partie de cette décision.
 
 ## Ce qui compte généralement comme preuve
 
-Les détails varient selon la compagnie et la destination : certaines acceptent une réservation d'hôtel comme preuve, d'autres insistent sur un billet de vol de continuation, et quelques-unes demandent des relevés bancaires pour montrer que vous avez les fonds nécessaires pour repartir si la situation change.
+Un billet confirmé de sortie du pays est la forme la plus largement comprise. Il peut s'agir d'un vol retour ou d'un vol vers un pays tiers. Ce qui compte, c'est qu'il parte avant la fin de votre séjour autorisé et qu'il vous mène vers un endroit où vous êtes autorisé à entrer.
 
-Une **réservation de vol de continuation ou de retour** est la preuve la plus simple. Montrer à la compagnie votre billet pour un vol quittant le pays de destination constitue une preuve sans ambiguïté que vous avez organisé une sortie. C'est ce que la plupart des transporteurs préfèrent.
+Les indications d'Immigration New Zealand pour les visiteurs donnent un bon aperçu de cette variété. Elles citent des billets confirmés ou à date ouverte de sortie du pays, ou une confirmation écrite d'une compagnie aérienne ou d'une agence de voyage attestant que la suite du voyage est réservée et payée. Les voyageurs d'affaires peuvent aussi présenter une lettre de leur employeur garantissant que la continuation du voyage sera organisée. D'autres destinations établissent leurs propres listes, qui ne correspondent pas toutes.
 
-Une **réservation d'hôtel** se terminant bien avant l'expiration d'un éventuel visa peut aussi fonctionner, car la date de fin laisse supposer votre départ. Les compagnies l'interprètent ainsi, même si elles ne sont pas très pointilleuses à ce sujet — elles supposent simplement que vous partez à la date de fin du séjour à l'hôtel.
+Une **réservation d'hôtel** et un **relevé bancaire** reviennent souvent aussi, mais ils répondent à d'autres questions. L'un montre où vous allez loger, l'autre que vous pouvez subvenir à vos besoins. Un agent frontalier peut demander l'un ou l'autre, mais aucun ne remplace généralement un billet de sortie.
 
-Certains transporteurs acceptent aussi des **lettres d'employeur ou des contrats de location** montrant que vous vous installez dans le pays, ou des **relevés bancaires** prouvant que vous avez des économies pour subvenir à vos besoins si vos plans de voyage changent. Ce qui compte n'est pas de savoir si votre preuve est inattaquable, mais si elle suffit à convaincre la compagnie que vous ne représentez pas un risque de rester bloqué.
+## Le contrôle de la compagnie aérienne et le contrôle frontalier ne sont pas identiques
 
-## Le contrôle de la compagnie et le contrôle frontalier ne sont pas la même chose
+La compagnie aérienne veut savoir si vous risquez d'être refusé à l'arrivée, ce qui la laisserait avec le coût de votre retour. L'agent frontalier pose une question liée mais distincte : remplissez-vous les conditions d'entrée du pays ? Les deux questions se recoupent, mais ce n'est pas la même question.
 
-C'est là que naît la confusion, car la compagnie aérienne vérifie une chose et l'agent frontalier vérifie quelque chose de totalement différent. Comprendre l'écart entre les deux compte plus que comprendre la règle elle-même.
+Elles se recoupent au niveau des règles propres à la destination. Le code frontières Schengen, par exemple, cite un billet retour ou aller-retour parmi les documents qu'un garde-frontière peut demander à un visiteur. La Nouvelle-Zélande exige que les visiteurs disposent des moyens de repartir. Quand une destination fonctionne ainsi, la compagnie aérienne qui pose la question à l'enregistrement applique généralement la règle de la destination quelques heures plus tôt, sans en inventer une de son côté.
 
-**La compagnie aérienne se demande :** « ce passager va-t-il rester bloqué à destination et devenir mon problème financier ? » Sa préoccupation est purement financière — avez-vous les moyens de repartir ?
+Les contrôles ne portent pas non plus sur les mêmes éléments. Une compagnie aérienne qui accepte votre billet de continuation ne s'est pas prononcée sur le reste de votre entrée, comme la validité du passeport ou [un visa dont vous pourriez avoir besoin](https://traveldocumentvault.com/fr/blog/visa-vs-passport/). Un agent frontalier peut ne pas du tout demander la continuation de voyage. Pour l'ensemble des documents à avoir sur vous, consultez notre guide sur [les documents à emporter en voyage international](https://traveldocumentvault.com/fr/blog/what-documents-to-carry-when-travelling-internationally/).
 
-**L'agent frontalier se demande :** « cette personne remplit-elle les conditions d'entrée de mon pays, et représente-t-elle un risque de sécurité ? » Sa préoccupation est d'ordre légal — avez-vous le droit d'être ici ?
+**Travel Document Vault** conserve vos billets d'avion et réservations d'hôtel sur votre appareil, chiffrés et accessibles sans réseau — pour montrer votre preuve à la porte dès qu'on vous la demande. [Téléchargez-le sur l'App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) et sur [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
 
-Ce ne sont pas les mêmes questions. Vous pourriez avoir une preuve de continuation de voyage irréprochable et être quand même refusé à l'entrée si votre passeport ne répond pas aux exigences de validité de la destination, si vous n'avez pas le [visa que vous auriez dû obtenir](https://traveldocumentvault.com/fr/blog/visa-vs-passport/), ou si vous êtes signalé dans une base de données d'immigration. À l'inverse, un agent frontalier convaincu que vous avez le droit d'entrer pourrait ne jamais vous demander de preuve de continuation de voyage.
+## Si vous voyagez volontairement en aller simple
 
-La compagnie aérienne est votre premier point de contrôle. Si elle vous considère comme un risque de rester bloqué, elle refuse de vous faire embarquer avant même que vous n'atteigniez l'immigration. L'agent frontalier est le second. Si vous montez à bord de l'avion, il vérifie vos documents et vos antécédents — et sa décision repose sur la loi, pas sur votre capacité à acheter un billet de continuation.
+Un billet aller simple n'est pas un problème en soi. Les règles de continuation de voyage sont généralement écrites pour les visiteurs. Si vous vous installez à l'étranger avec un visa qui vous permet d'y vivre ou d'y travailler, ce visa remplit dans la plupart des cas le rôle qu'aurait joué un billet de continuation. Gardez-le à portée de main à l'enregistrement, avec toute lettre qui l'accompagnait.
 
-Cet écart change ce que vous devez réellement faire pour passer les deux contrôles. La preuve de continuation de voyage relève principalement de la compagnie aérienne, donc bien la préparer est ce qui vous fait monter à bord, même si cela ne garantit pas que la frontière vous laissera entrer. Pour les questions frontalières comme la validité du passeport et les exigences de visa, consultez notre guide sur [les documents à emporter en voyage international](https://traveldocumentvault.com/fr/blog/what-documents-to-carry-when-travelling-internationally/).
+Si vous êtes en visite avec un plan ouvert, les options honnêtes sont les plus simples. Réservez le trajet de continuation que vous comptez réellement effectuer. Si vos dates ne sont pas fixées, un tarif modifiable garde un vrai plan flexible sans en faire une fiction.
 
-**Travel Document Vault** stocke vos billets d'avion et réservations d'hôtel sur votre appareil, chiffrés et accessibles sans réseau — pour montrer votre preuve à la porte d'embarquement dès qu'on vous la demande. [Téléchargez-le sur l'App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) et sur [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault).
+Ce que nous déconseillons, c'est un billet que vous n'avez jamais l'intention d'utiliser, acheté uniquement pour le montrer au comptoir. Présenter cela à un agent frontalier comme votre plan peut s'apparenter à une fausse déclaration d'intentions, un problème bien plus grave qu'une réservation manquante.
 
-## Si vous voyagez sciemment avec un aller simple
+## Si on vous la demande et que vous ne pouvez pas la présenter
 
-Un billet aller simple ne signifie pas automatiquement que la compagnie vous refusera. La question pour la compagnie n'est pas « est-ce un aller simple » mais « ce passager peut-il repartir s'il reste bloqué ».
+Si un agent vous la demande et que vous n'avez rien à montrer, rappelez-vous qu'il applique les règles d'entrée de la destination. La réponse la plus utile consiste généralement à lui donner quelque chose que ces règles reconnaissent.
 
-Si vous partez vous installer à l'étranger, vous avez probablement un plan : une offre d'emploi, un contrat de location, un visa, ou des économies suffisantes. Ce n'est pas une preuve de continuation de voyage au sens où l'entend la compagnie, mais c'est la preuve que vous partez avec un projet réfléchi, et non les mains vides en espérant que tout se passera bien.
+En pratique, cela signifie souvent réserver la suite du voyage sur place, sur votre téléphone ou au comptoir de la compagnie. Cela peut coûter plus cher au dernier moment, ce qui est la principale raison de s'en occuper la veille. Si une agence de voyage a réservé la suite de votre voyage, sa confirmation écrite peut aider là où la destination l'accepte.
 
-Ce qu'il ne faut pas faire, c'est déformer vos intentions de voyage auprès de la compagnie. La tentation est de réserver un billet de continuation jetable, que vous n'avez jamais l'intention d'utiliser. Les conditions de transport de nombreuses compagnies interdisent cette pratique, et la présenter comme un plan réel dénature vos intentions auprès d'un agent frontalier. Si la compagnie découvre que vous avez réservé un billet annulé ou jamais utilisé, elle peut refuser vos réservations futures. Si un agent frontalier découvre que vous avez déformé vos plans de voyage, les conséquences sont plus graves.
+La décision au comptoir revient à la compagnie aérienne. Si vous ne pouvez pas la régler sur place, il vous faudra réserver à nouveau une fois en possession de ce que la destination demande.
 
-Les alternatives pratiques sont, elles, authentiques. Réservez un véritable voyage de continuation que vous comptez effectuer (même un vol low-cost quelques semaines plus tard si vous explorez réellement la région), fournissez une preuve de capacité financière via une réservation d'hôtel ou une lettre d'offre d'emploi, ou montrez des relevés bancaires prouvant que vous avez des économies. Ce ne sont pas des artifices — c'est la documentation de votre projet réel.
+## Garder la réservation accessible au moment voulu
 
-## Si on vous la demande et que vous ne pouvez pas la produire
+Une réservation que vous ne pouvez pas ouvrir ne vaut pas mieux que pas de réservation du tout. La demande arrive souvent à l'enregistrement ou à la porte, là où le réseau est capricieux et où une application exige une nouvelle connexion.
 
-La plupart du temps, personne ne demande de preuve de continuation de voyage, et vous embarquez sans que cela ne se pose jamais. Mais si vous arrivez à la porte d'embarquement et qu'un agent vous la demande, la conversation prend généralement l'une de deux tournures.
-
-**Vous proposez de réserver un vol sur place.** Cela peut coûter cher à la dernière minute et ajoute un vol que vous n'aviez pas prévu. Mais cela répond généralement à la préoccupation de la compagnie. Vous pouvez aussi demander à la compagnie de renoncer à cette exigence si vous pouvez démontrer votre capacité financière — une conversation avec un agent à l'aéroport, sans garantie que cela fonctionne.
-
-**Vous décidez de contester.** La compagnie peut refuser de vous faire embarquer, et c'est son droit. Vous ne pouvez pas la forcer à vous laisser monter à bord. Il vous faudra alors réserver un vol de continuation pour atteindre votre destination par un autre moyen.
-
-La compagnie a intérêt à vous laisser embarquer si vous pouvez montrer que vous ne représentez pas un risque de rester bloqué, mais la règle existe toujours et elle continue de l'appliquer. Si vous voyagez avec un aller simple, anticipez cette possibilité.
-
-## Garder la réservation accessible quand vous en avez besoin
-
-Si vous réservez un vol de continuation ou une réservation d'hôtel pour répondre à l'exigence d'une compagnie, assurez-vous de pouvoir y accéder facilement le moment venu. La plupart des compagnies vérifient à la porte d'embarquement, devant un agent, et non des jours à l'avance.
-
-Si votre réservation ne se trouve que dans un e-mail enfoui au fond de votre boîte de réception, ou n'est accessible que via une connexion nécessitant du réseau, vous pourriez vous retrouver incapable de produire une preuve pourtant existante. Cela arrive plus souvent que ne le pensent les voyageurs.
-
-**Prenez vos réservations en capture d'écran, enregistrez-les en PDF, ou utilisez une application** qui les stocke et ne nécessite pas de connexion internet. Travel Document Vault stocke vos billets d'avion et réservations d'hôtel et les rend accessibles sur votre appareil sans réseau — utile si vous êtes à la porte d'embarquement et que votre téléphone n'a aucun signal. Consultez notre guide pour [garder vos documents de voyage organisés et accessibles](https://traveldocumentvault.com/fr/blog/travel-document-checklist/).
+Gardez une copie hors ligne de la confirmation : un PDF, une capture d'écran montrant la référence et les dates, ou une copie dans une application qui fonctionne sans connexion. Travel Document Vault conserve les billets d'avion et réservations d'hôtel sur votre appareil, chiffrés et disponibles hors ligne. La confirmation est là au comptoir, avec ou sans réseau. Notre [liste de contrôle des documents de voyage](https://traveldocumentvault.com/fr/blog/travel-document-checklist/) couvre le reste de ce qu'il vaut la peine d'avoir prêt.
 
 ## Questions fréquemment posées
 
 ### Quelle preuve de continuation de voyage une compagnie aérienne accepte-t-elle réellement ?
 
-Cela varie selon la compagnie et la destination. La plupart acceptent un billet de vol de continuation ou de retour. Certaines acceptent une réservation d'hôtel. Quelques-unes demandent des relevés bancaires ou une lettre d'employeur. Vérifiez auprès de votre compagnie avant de voyager.
+Le plus souvent, un billet confirmé de sortie de votre destination, soit vers votre domicile, soit vers un pays tiers où vous êtes autorisé à entrer. Certaines destinations acceptent aussi d'autres preuves, comme une confirmation écrite d'une agence de voyage attestant que la suite du voyage est réservée et payée. La compagnie aérienne applique les règles de la destination, donc vérifiez-les pour votre trajet.
 
 ### Puis-je utiliser une réservation d'hôtel comme preuve de continuation de voyage ?
 
-Oui, si la compagnie l'accepte. Une réservation d'hôtel se terminant avant que vous ne dépassiez la durée de séjour autorisée constitue une preuve que vous prévoyez de partir. Toutes les compagnies ne l'acceptent pas — certaines exigent spécifiquement un billet d'avion — confirmez donc auprès de votre transporteur avant de réserver.
+Une réservation d'hôtel ne suffit généralement pas à elle seule. Elle montre où vous allez loger, ce qu'un agent frontalier peut aussi demander, mais pas comment vous allez repartir. Si votre destination demande une preuve de continuation, prévoyez un billet de sortie.
 
 ### Que faire si je n'ai pas de preuve de continuation de voyage ?
 
-Vous pouvez proposer de réserver un vol sur place, demander à la compagnie de renoncer à cette exigence si vous pouvez prouver votre capacité financière, ou accepter de ne peut-être pas être autorisé à embarquer. La compagnie a le droit de refuser l'embarquement.
+Si on vous la demande à l'enregistrement et que vous n'avez rien à montrer, la solution habituelle consiste à réserver la suite du voyage sur place, immédiatement. Cela peut coûter plus cher au dernier moment. La décision de vous laisser embarquer revient à la compagnie aérienne, donc mieux vaut régler cela avant d'arriver à l'aéroport.
 
-### Un billet aller simple pose-t-il problème ?
+### Un billet aller simple pose-t-il un problème ?
 
-Pas en soi. Ce qui préoccupe une compagnie aérienne n'est pas de savoir si vous avez un aller simple, mais si vous avez les moyens de repartir si vous ne pouvez pas entrer dans votre destination. Si vous pouvez le démontrer — par une réservation de continuation, une offre d'emploi, une réservation d'hôtel, ou un relevé bancaire — on ne vous en demandera généralement pas plus.
+Un billet aller simple n'est pas un problème en soi, car les règles de continuation de voyage visent généralement les visiteurs. Si vous vous installez avec un visa qui vous permet de vivre ou de travailler dans le pays, ce visa répond habituellement à la question. Si vous êtes en visite, un voyage de continuation réservé que vous comptez effectuer est la réponse la plus simple.
 
 ### Ai-je besoin d'une preuve de continuation de voyage pour la frontière ?
 
-Probablement pas. Les agents frontaliers se concentrent généralement sur les exigences d'entrée comme la validité du passeport et les visas. La continuation de voyage concerne principalement la compagnie aérienne, même si certains pays l'incluent dans leurs exigences d'entrée. Vérifiez les règles spécifiques de votre destination avant de voyager.
+Parfois, car certaines destinations l'incluent dans leurs conditions d'entrée pour les visiteurs. Le code frontières Schengen cite un billet retour ou aller-retour parmi les documents qu'un garde-frontière peut demander, et la Nouvelle-Zélande exige que les visiteurs disposent des moyens de repartir. Vérifiez les règles de votre destination avant de partir.
 
 ## Articles connexes
 
-[Documents de voyage8 min de lectureQuels documents emporter pour voyager à l'international](https://traveldocumentvault.com/fr/blog/what-documents-to-carry-when-travelling-internationally/)
+[Préparation de voyage7 min de lectureLes Documents de Voyage que Vous Oubliez (et Où les Conserver)](https://traveldocumentvault.com/fr/blog/what-documents-to-carry-when-travelling-internationally/)
 
 [Documents de voyage6 min de lectureListe de contrôle des documents de voyage : chaque membre de la famille, chaque voyage](https://traveldocumentvault.com/fr/blog/travel-document-checklist/)
+
+[Exigences de visa7 min de lectureAvez-vous besoin d'un visa de transit pour une escale ?](https://traveldocumentvault.com/fr/blog/transit-visa-connecting-flights/)
+
+[Visas & Entrée6 min de lectureQuelle est la différence entre un visa et un passeport ?](https://traveldocumentvault.com/fr/blog/visa-vs-passport/)

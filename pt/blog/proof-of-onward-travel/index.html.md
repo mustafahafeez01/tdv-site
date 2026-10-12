@@ -1,110 +1,101 @@
 # Prova de continuação de viagem: o que realmente conta
 
-> A prova de continuação de viagem varia consoante a companhia aérea e o destino. Veja o que conta e o que fazer se viajar só com bilhete de ida.
+> A prova de continuação de viagem costuma ser um bilhete de saída. Veja o que conta, por que pergunta a companhia aérea e o que fazer com bilhete só de ida.
 
 Source: https://traveldocumentvault.com/pt/blog/proof-of-onward-travel/
 
 ---
 
-## Pontos-Chave
+![Um pai e um filho junto a uma janela do aeroporto, a segurar um passaporte com um bilhete de viagem dentro, a olhar para um avião antes de uma viagem](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
 
-- **A verificação da companhia aérea e a verificação na fronteira respondem a perguntas diferentes.** Uma companhia aérea protege-se da sua própria responsabilidade. Um agente de fronteira decide se o admite.
-- A prova de continuação de viagem costuma ser um voo de regresso, um voo de continuação, ou uma reserva de hotel que implique continuar a viagem.
-- Um bilhete só de ida não significa automaticamente que lhe recusem o embarque. A companhia aérea só se preocupa se consegue entrar e sair do destino pelos seus próprios meios.
-- O que conta como prova varia consoante a companhia aérea e o destino. Algumas aceitam reservas de hotel, outras exigem só bilhetes. Confirme antes de viajar.
-- Se lhe recusarem o embarque, pode reservar um voo de continuação na hora ou reclamar junto da companhia aérea.
-- O Travel Document Vault guarda os seus bilhetes de avião e reservas de hotel no seu dispositivo, encriptados e offline — para mostrar a prova na porta de embarque mesmo sem rede.
+## Pontos-chave
 
-A prova de continuação de viagem é uma pergunta com dois interlocutores diferentes, e saber qual deles tem à sua frente resolve a maior parte da questão. A companhia aérea no balcão e o agente na fronteira querem coisas diferentes, por razões diferentes, e um documento que satisfaz um não satisfaz automaticamente o outro.
+- **A prova de continuação de viagem costuma ser um bilhete reservado para saída do país onde vai aterrar,** seja de regresso a casa seja para um país onde pode entrar.
+- Duas verificações diferentes perguntam por ela. A companhia aérea verifica antes de embarcar, porque é geralmente responsável por o trazer de volta se lhe recusarem a entrada. O agente de fronteira decide se o admite.
+- Alguns destinos incluem a continuação de viagem nas suas regras de entrada para visitantes, por isso a companhia aérea, ao perguntar, está muitas vezes a aplicar a regra do destino mais cedo.
+- Uma reserva de hotel ou um extrato bancário respondem a perguntas diferentes — onde vai ficar e como se vai sustentar — e normalmente não substituem um bilhete de saída.
+- Guarde a confirmação num sítio onde a consiga abrir sem rede ou sem precisar de iniciar sessão.
 
-A resposta é menos direta do que a própria regra. As companhias aéreas pedem prova de continuação de viagem sobretudo para evitar o custo de o trazer de volta caso não consiga entrar no destino — não para fiscalizar o seu itinerário. Esse motivo muda o que realmente lhes preocupa — e quase nunca é o que os viajantes preocupados pensam.
+Na maioria dos casos, a prova de continuação de viagem é um bilhete reservado para saída do país onde vai aterrar. Um voo de regresso a casa conta, assim como um bilhete para um terceiro país onde pode entrar. Se já tiver um destes, tem o que normalmente lhe é pedido.
+
+O resto deste guia cobre os casos menos simples: uma viagem só de ida por opção própria, um plano em aberto, ou uma pergunta inesperada ao balcão. No fundo, tudo se resume a saber quem está a perguntar, e porquê.
 
 ## O que é a prova de continuação de viagem, e quem pergunta na realidade
 
-A prova de continuação de viagem é a evidência de que organizou uma forma de sair do país de destino. Pode ser um voo de regresso a casa, um voo de continuação para um terceiro país, ou uma reserva de hotel suficientemente longa para sugerir que planeia sair.
+A prova de continuação de viagem é a evidência de que organizou uma forma de saída do seu destino antes de a estadia permitida terminar. Duas pessoas diferentes podem pedir para a ver, e fazem-no por razões diferentes.
 
-A companhia aérea pede esta prova antes de embarcar para se proteger da sua própria responsabilidade. Se embarcar e a imigração se recusar a deixá-lo entrar, a companhia aérea é geralmente responsável por o trazer de volta a casa. Uma reserva que mostre que tem meios para ficar algures e depois sair é, para a companhia aérea, a garantia de que não se vai tornar no seu problema financeiro.
+Uma é a companhia aérea, no check-in ou na porta de embarque. Se transportar um passageiro a quem depois é recusada a entrada, a companhia aérea é, de forma geral, responsável por o levar de volta, à sua própria custa. Por isso, antes de embarcar, a companhia aérea verifica se parece cumprir as regras de entrada do seu destino.
 
-É este o cálculo na íntegra: não se a sua viagem é legal ou se a fronteira vai aceitar os seus documentos, mas se tem dinheiro suficiente organizado para evitar ficar preso indefinidamente.
+A outra é o agente de fronteira, quando aterra. O trabalho dele é decidir se o admite, e em alguns locais a prova de que vai sair faz parte dessa decisão.
 
 ## O que costuma contar como prova
 
-Os detalhes variam consoante a companhia aérea e o destino: algumas aceitam uma reserva de hotel como prova, outras insistem num bilhete de voo de continuação, e poucas pedem extratos bancários para mostrar que tem fundos para sair se as circunstâncias mudarem.
+Um bilhete confirmado de saída do país é a forma mais amplamente reconhecida. Pode ser um voo de regresso ou um voo para um terceiro país. O que importa é que parta antes de a estadia permitida terminar e vá para um sítio onde pode entrar.
 
-Uma **reserva de voo de continuação ou de regresso** é a prova mais direta. Mostrar à companhia aérea o seu bilhete para um voo que parte do país de destino é uma prova inequívoca de que organizou uma saída. É o que a maioria das transportadoras prefere.
+As orientações da Immigration New Zealand para visitantes dão uma boa ideia do leque de opções. Incluem bilhetes confirmados ou com data aberta de saída do país, ou confirmação escrita de uma companhia aérea ou agência de viagens de que a continuação de viagem está reservada e paga. Os viajantes de negócios também podem usar uma carta do empregador a garantir que a continuação de viagem será organizada. Outros destinos têm as suas próprias listas, e nem todas coincidem.
 
-Uma **reserva de hotel** que termine bem antes de qualquer visto expirar também pode funcionar, porque a data de fim sugere a sua partida presumida. As companhias aéreas interpretam-no assim, embora não sejam muito rigorosas quanto a isso — assumem simplesmente que vai sair quando chegar a data de checkout do hotel.
-
-Algumas transportadoras também aceitam **cartas de emprego ou contratos de arrendamento** que mostrem que se está a mudar para o país, ou **extratos bancários** que comprovem que tem poupanças para se sustentar caso os planos de viagem mudem. O que importa não é se a sua prova é inatacável, mas se é suficiente para convencer a companhia aérea de que não é um risco de ficar preso.
+Uma **reserva de hotel** e um **extrato bancário** também surgem com frequência, mas respondem a perguntas diferentes. Uma mostra onde vai ficar, e o outro mostra que tem como se sustentar. Um agente de fronteira pode pedir qualquer um dos dois, embora normalmente nenhum substitua um bilhete de saída.
 
 ## A verificação da companhia aérea e a verificação na fronteira não são a mesma coisa
 
-É aqui que começa a confusão, porque a companhia aérea verifica uma coisa e o agente de fronteira verifica algo completamente diferente. Perceber a diferença entre os dois importa mais do que perceber a própria regra.
+A companhia aérea quer saber se é provável que lhe seja recusada a entrada à chegada, o que a deixaria com o custo de o trazer de volta. O agente de fronteira pergunta algo relacionado mas distinto: se cumpre as condições de entrada do país. As duas perguntas sobrepõem-se, mas não são a mesma.
 
-**A companhia aérea pergunta-se:** «este passageiro vai ficar preso no meu destino e tornar-se um encargo financeiro meu?» A sua preocupação é puramente financeira — consegue pagar a saída?
+O ponto onde se sobrepõem são as próprias regras do destino. O Código das Fronteiras Schengen, por exemplo, inclui um bilhete de ida e volta entre os documentos que um agente de fronteira pode pedir a um visitante. A Nova Zelândia exige que os visitantes tenham meios para sair. Quando um destino funciona assim, a companhia aérea, ao perguntar no check-in, está geralmente a aplicar a regra do destino algumas horas mais cedo, e não a inventar uma regra sua.
 
-**O agente de fronteira pergunta-se:** «esta pessoa cumpre os requisitos de entrada do meu país e representa um risco de segurança?» A sua preocupação é legal — tem o direito de estar aqui?
-
-Não são a mesma pergunta. Poderia ter uma prova de continuação de viagem perfeita e, ainda assim, ver a entrada recusada se o seu passaporte não cumprir os requisitos de validade do destino, se lhe faltar um [visto que devia ter obtido](https://traveldocumentvault.com/pt/blog/visa-vs-passport/), ou se estiver assinalado numa base de dados de imigração. Ao contrário, um agente de fronteira convencido de que tem direito a entrar pode nunca lhe pedir prova de continuação de viagem.
-
-A companhia aérea é o seu primeiro ponto de controlo. Se acreditar que é um risco de ficar preso, recusa embarcá-lo antes mesmo de chegar à imigração. O agente de fronteira é o segundo. Se embarcar no avião, ele verifica os seus documentos e antecedentes — e a decisão dele baseia-se na lei, não na sua capacidade de comprar um bilhete de continuação.
-
-Essa diferença muda o que realmente precisa de fazer para passar ambos os controlos. A prova de continuação de viagem é sobretudo uma questão da companhia aérea, por isso resolvê-la bem é o que o faz embarcar, ainda que não garanta que a fronteira o deixe entrar. Para questões de fronteira, como a validade do passaporte e os requisitos de visto, consulte o nosso guia sobre [que documentos levar em viagens internacionais](https://traveldocumentvault.com/pt/blog/what-documents-to-carry-when-travelling-internationally/).
+As verificações também cobrem terrenos diferentes. Uma companhia aérea que aceita o seu bilhete de continuação não garante o resto da sua entrada, como a validade do passaporte ou um [visto que possa precisar](https://traveldocumentvault.com/pt/blog/visa-vs-passport/). Um agente de fronteira pode nem perguntar pela continuação de viagem. Para o conjunto completo de documentos que vale a pena ter consigo, veja o nosso guia sobre [que documentos levar em viagens internacionais](https://traveldocumentvault.com/pt/blog/what-documents-to-carry-when-travelling-internationally/).
 
 **Travel Document Vault** guarda os seus bilhetes de avião e reservas de hotel no seu dispositivo, encriptados e acessíveis sem rede — para mostrar a prova na porta de embarque sempre que lhe for pedida. [Descarregar na App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) e [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault).
 
 ## Se viaja de propósito com bilhete só de ida
 
-Um bilhete só de ida não significa automaticamente que a companhia aérea o vá recusar. A pergunta para a companhia aérea não é «isto é só ida» mas «este passageiro consegue pagar a saída se ficar preso».
+Um bilhete só de ida não é um problema em si. As regras de continuação de viagem são geralmente pensadas para visitantes. Se está a mudar-se para o estrangeiro com um visto que lhe permite viver ou trabalhar lá, esse visto, na maioria dos casos, cumpre a função que um bilhete de continuação cumpriria. Tenha-o à mão no check-in, junto com qualquer carta que o acompanhe.
 
-Se está a mudar-se para o estrangeiro, provavelmente tem um plano: uma oferta de emprego, um contrato de arrendamento, um visto, ou poupanças suficientes. Isto não é prova de continuação de viagem no sentido que a companhia aérea lhe dá, mas é evidência de que se está a mudar de forma deliberada, e não a chegar sem nada à espera que corra bem.
+Se está a visitar com um plano em aberto, as opções honestas são as mais simples. Reserve a viagem de continuação que realmente espera fazer. Se as datas não estiverem fixas, uma tarifa que permita alterar a data mantém um plano real flexível sem o transformar em ficção.
 
-O que não deve fazer é deturpar as suas intenções de viagem junto da companhia aérea. A tentação é reservar um bilhete de continuação descartável, que nunca pretende usar. As condições de transporte de muitas companhias aéreas proíbem isto, e apresentá-lo como um plano genuíno deturpa as suas intenções junto de um agente de fronteira. Se a companhia aérea descobrir que reservou um bilhete que cancelou ou nunca usou, pode recusar reservas futuras. Se um agente de fronteira descobrir que deturpou os seus planos de viagem, as consequências são piores.
-
-As alternativas práticas são genuínas. Reserve uma viagem de continuação real que pretenda fazer (mesmo um voo económico semanas depois, se estiver genuinamente a explorar a região), forneça prova de capacidade financeira através de uma reserva de hotel ou de uma carta de oferta de emprego, ou mostre extratos bancários que comprovem que tem poupanças. Isto não são artifícios — é a documentação do seu plano real.
+O que evitaríamos é um bilhete que nunca pretende usar, comprado só para mostrar ao balcão. Apresentar isso a um agente de fronteira como o seu plano pode equivaler a falsear as suas intenções, o que é um problema muito maior do que a falta de uma reserva.
 
 ## Se lhe pedirem e não conseguir apresentá-la
 
-Na maioria das vezes, ninguém pergunta pela continuação de viagem, por isso embarca sem que o assunto surja. Mas se chegar à porta de embarque e um agente perguntar mesmo, a conversa costuma seguir um de dois caminhos.
+Se um agente perguntar e não tiver nada para mostrar, lembre-se de que ele está a trabalhar a partir das regras de entrada do destino. A resposta mais útil costuma ser dar-lhe algo que essas regras reconheçam.
 
-**Oferece-se para reservar um voo na hora.** Isto pode sair caro em cima da hora e acrescenta um voo que não tinha planeado. Mas normalmente resolve a preocupação da companhia aérea. Também pode pedir à companhia aérea que dispense o requisito se conseguir demonstrar capacidade financeira — uma conversa com um agente no aeroporto, embora não seja garantido que funcione.
+Na prática, isso costuma significar reservar a viagem de continuação ali mesmo, no telemóvel ou no balcão da companhia aérea. Pode custar mais em cima da hora, o que é a principal razão para resolver isto na noite anterior. Se uma agência de viagens reservou a sua viagem de continuação, a confirmação escrita dela pode ajudar onde o destino a aceitar.
 
-**Decide contestar.** A companhia aérea pode recusar-se a embarcá-lo, e está no seu direito. Não pode obrigá-la a deixá-lo entrar no avião. Nesse caso, teria de reservar um voo de continuação para chegar ao destino de outra forma.
-
-A companhia aérea tem interesse em deixá-lo embarcar se conseguir mostrar que não é um risco de ficar preso, mas a regra continua a existir e continua a ser aplicada. Se viaja com bilhete só de ida, prepare-se para essa possibilidade.
+A decisão ao balcão cabe à companhia aérea. Se não conseguir resolver ali, terá de reservar de novo depois de ter o que o destino pede.
 
 ## Manter a reserva acessível quando precisa dela
 
-Se reservar uma viagem de continuação ou uma reserva de hotel para satisfazer a exigência de uma companhia aérea, certifique-se de que consegue aceder-lhe facilmente quando lhe for pedido. A maioria das companhias aéreas verifica na porta de embarque, à frente de um agente, não com dias de antecedência.
+Uma reserva que não consegue abrir é tão inútil como não ter reserva nenhuma. O pedido costuma surgir no check-in ou na porta de embarque, que é muitas vezes onde o sinal é fraco e uma aplicação lhe pede para iniciar sessão outra vez.
 
-Se a sua reserva estiver apenas num e-mail perdido na caixa de entrada, ou só for acessível através de um início de sessão que exige rede, pode encontrar-se incapaz de apresentar a prova mesmo que a reserva exista. Isto acontece mais vezes do que os viajantes esperam.
-
-**Tire capturas de ecrã das suas reservas, guarde-as em PDF, ou use uma aplicação** que as armazene e não exija ligação à internet. O Travel Document Vault guarda os seus bilhetes de avião e reservas de hotel e torna-os acessíveis no seu dispositivo sem rede — útil se estiver na porta de embarque e o telemóvel não tiver sinal. Consulte o nosso guia para [manter os seus documentos de viagem organizados e acessíveis](https://traveldocumentvault.com/pt/blog/travel-document-checklist/).
+Guarde uma cópia offline da confirmação: um PDF, uma captura de ecrã com a referência da reserva e as datas, ou uma cópia numa aplicação que funcione sem ligação. O Travel Document Vault guarda bilhetes de avião e reservas de hotel no seu dispositivo, encriptados e disponíveis offline. A confirmação está ali ao balcão, tenha ou não sinal. A nossa [lista de verificação de documentos de viagem](https://traveldocumentvault.com/pt/blog/travel-document-checklist/) cobre o resto do que vale a pena ter pronto.
 
 ## Perguntas Frequentes
 
 ### Que prova de continuação de viagem é que uma companhia aérea aceita, na prática?
 
-Isto varia consoante a companhia aérea e o destino. A maioria aceita um bilhete de voo de continuação ou de regresso. Algumas aceitam uma reserva de hotel. Poucas pedem extratos bancários ou uma carta do empregador. Confirme com a sua companhia aérea antes de viajar.
+Mais comummente, um bilhete confirmado de saída do seu destino, seja de regresso a casa seja para um terceiro país onde pode entrar. Alguns destinos também aceitam outras provas, como confirmação escrita de uma agência de viagens de que a continuação de viagem está reservada e paga. A companhia aérea aplica as regras do destino, por isso confirme-as para a sua viagem.
 
 ### Posso usar uma reserva de hotel como prova de continuação de viagem?
 
-Sim, se a companhia aérea a aceitar. Uma reserva de hotel que termine antes de ultrapassar a estadia permitida é prova de que planeia sair. Nem todas as companhias a aceitam — algumas exigem especificamente um bilhete de avião — por isso confirme com a sua transportadora antes de reservar.
+Normalmente, uma reserva de hotel não serve por si só. Mostra onde vai ficar, algo que um agente de fronteira também pode perguntar, mas não como vai sair. Se o seu destino pedir continuação de viagem, conte com um bilhete de saída.
 
 ### E se eu não tiver prova de continuação de viagem?
 
-Pode oferecer-se para reservar um voo na hora, pedir à companhia aérea que dispense o requisito se conseguir provar capacidade financeira, ou aceitar que talvez não possa embarcar. A companhia aérea tem o direito de recusar o embarque.
+Se lhe perguntarem no check-in e não tiver nada para mostrar, a solução habitual é reservar a viagem de continuação ali mesmo. Isso pode custar mais em cima da hora. A decisão de o deixar embarcar cabe à companhia aérea, por isso vale a pena resolver isto antes de chegar ao aeroporto.
 
 ### Um bilhete só de ida é um problema?
 
-Não em si. O que preocupa a companhia aérea não é se o bilhete é só de ida, mas se tem meios para sair caso não consiga entrar no destino. Se conseguir demonstrar isso — através de uma reserva de continuação, uma oferta de emprego, uma reserva de hotel, ou um extrato bancário — normalmente não lhe pedem mais nada.
+Um bilhete só de ida não é um problema em si, porque as regras de continuação de viagem visam geralmente os visitantes. Se está a mudar-se com um visto que lhe permite viver ou trabalhar no país, esse visto normalmente resolve a questão. Se está a visitar, uma viagem de continuação reservada que pretenda fazer é a resposta mais simples.
 
-### Preciso de prova de continuação de viagem na fronteira?
+### Preciso de prova de continuação de viagem para a fronteira?
 
-Provavelmente não. Os agentes de fronteira costumam concentrar-se em requisitos de entrada como a validade do passaporte e os vistos. A continuação de viagem é sobretudo uma preocupação da companhia aérea, embora alguns países a incluam nos seus requisitos de entrada. Confirme as regras específicas do seu destino antes de viajar.
+Por vezes, porque alguns destinos a incluem nas suas condições de entrada para visitantes. O Código das Fronteiras Schengen inclui um bilhete de ida e volta entre os documentos que um agente de fronteira pode pedir, e a Nova Zelândia exige que os visitantes tenham meios para sair. Confirme as regras do seu destino antes de viajar.
 
 ## Artigos Relacionados
 
-[Documentos de Viagem8 min de leituraQue documentos levar em viagens internacionais](https://traveldocumentvault.com/pt/blog/what-documents-to-carry-when-travelling-internationally/)
+[Documentos de Viagem7 min de leituraOs Documentos de Viagem Que As Pessoas Esquecem (e Onde Guardar Cada Um)](https://traveldocumentvault.com/pt/blog/what-documents-to-carry-when-travelling-internationally/)
 
-[Documentos de Viagem6 min de leituraLista de verificação de documentos de viagem: cada membro da família, cada viagem](https://traveldocumentvault.com/pt/blog/travel-document-checklist/)
+[Documentos de Viagem9 min de leituraLista de Verificação de Documentos de Viagem Internacional: Tudo o Que Precisa Antes de Voar](https://traveldocumentvault.com/pt/blog/travel-document-checklist/)
+
+[Requisitos de Visto7 min de leituraPrecisa de visto de trânsito para uma escala?](https://traveldocumentvault.com/pt/blog/transit-visa-connecting-flights/)
+
+[Vistos & Entrada6 min de leituraQual é a diferença entre visto e passaporte?](https://traveldocumentvault.com/pt/blog/visa-vs-passport/)

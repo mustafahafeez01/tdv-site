@@ -26,7 +26,7 @@ Tu pasaporte y visa se sienten urgentes, así que se empacan primero. Los cinco 
 
 ### Prueba de viaje posterior
 
-Una cantidad sorprendente de países quiere evidencia de que planeas irte —un vuelo de regreso, una reserva posterior a otro país, o incluso un boleto de autocar o ferry generalmente sirve. Mantener una copia impresa o digital en tu equipaje de mano significa que no enfrentarás retrasos en la inmigración.
+Muchos destinos quieren evidencia de que planeas irte, normalmente un vuelo de regreso o un billete a otro país. Nuestra guía sobre la [prueba de viaje de continuación](https://traveldocumentvault.com/es/blog/proof-of-onward-travel/) explica qué cuenta, por qué la aerolínea suele preguntar primero y qué hacer si viajas con un billete solo de ida.
 
 ### Confirmaciones de alojamiento
 
@@ -130,6 +130,8 @@ Sí. Almacena copias cifradas sin conexión en tu teléfono —no en tu rollo de
 Olvidar tu pasaporte significa que no puedes embarcar. Para documentos de apoyo faltantes, el resultado varía: un certificado de vacunación faltante podría permitirte reservar nuevamente y regresar a casa para obtenerlo, mientras que una carta de consentimiento faltante puede resultar en embarque denegado para tu hijo. Algunos destinos ofrecen visa a la llegada, pero la mayoría de documentos de apoyo no se pueden obtener en las fronteras. Siempre verifica los requisitos 2-3 semanas antes de tu salida.
 
 ## Artículos Relacionados
+
+[Documentos de Viaje7 min de lectura · 13 oct, 2026Prueba de Viaje de Continuación: Qué Cuenta Realmente](https://traveldocumentvault.com/es/blog/proof-of-onward-travel/)
 
 [Documentos de Viaje6 min de lectura · 6 oct, 2026Documento de Identidad para Viajar: Cuándo Basta](https://traveldocumentvault.com/es/blog/national-id-card-travel-europe/)
 

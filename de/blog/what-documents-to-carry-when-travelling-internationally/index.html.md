@@ -26,7 +26,7 @@ Reisepass und Visum wirken dringend, also werden sie zuerst eingepackt. Die fün
 
 ### Nachweis der Weiterreise
 
-Überraschend viele Länder möchten einen Nachweis, dass Sie planen, das Land zu verlassen – ein Rückflug, eine Buchung zu einem anderen Land oder selbst ein Bus- oder Fährticket reicht normalerweise aus. Wenn Sie eine Kopie in Ihrem Handgepäck aufbewahren, vermeiden Sie Verzögerungen bei der Einwanderungskontrolle.
+Viele Zielländer möchten einen Nachweis, dass Sie planen, das Land zu verlassen, meist einen Rückflug oder ein Ticket weiter in ein anderes Land. Unser Leitfaden zum [Nachweis der Weiterreise](https://traveldocumentvault.com/de/blog/proof-of-onward-travel/) erklärt, was zählt, warum die Fluggesellschaft oft zuerst fragt, und was bei einem One-Way-Ticket gilt.
 
 ### Unterkunftsbestätigungen
 
@@ -130,6 +130,8 @@ Ja. Speichern Sie verschlüsselte Offline-Kopien auf Ihrem Telefon – nicht in 
 Wenn Sie Ihren Reisepass vergessen, können Sie nicht einsteigen. Bei fehlenden Begleitdokumenten variieren die Folgen: Ein fehlender Impfnachweis könnte Ihnen erlauben, später zu fliegen und nach Hause zurückzukehren, um ihn zu holen. Ein fehlender Zustimmungsbrief kann dazu führen, dass Ihr Kind nicht einsteigen darf. Einige Ziele bieten ein Visum bei der Ankunft an, aber die meisten Begleitdokumente können an der Grenze nicht erhalten. Überprüfen Sie immer die Anforderungen 2-3 Wochen vor der Abreise.
 
 ## Verwandte Artikel
+
+[Reisedokumente7 Min. LesezeitNachweis der Weiterreise: Was wirklich zählt](https://traveldocumentvault.com/de/blog/proof-of-onward-travel/)
 
 [Reisedokumente6 Min. LesezeitPersonalausweis auf Reisen: Wann er ausreicht](https://traveldocumentvault.com/de/blog/national-id-card-travel-europe/)
 

@@ -26,7 +26,7 @@ Jeres pas og visum føles presserende, så de bliver pakket først. De fem dokum
 
 ### Bevis på videre rejse
 
-Overraskende mange lande vil se bevis på, at I planlægger at forlade landet – en returflybillet, en videre booking til et andet land, eller endda en bus- eller færgebillet duer som regel. Har I en udskrift eller digital kopi i håndbagagen, undgår I forsinkelser ved grænsekontrollen.
+Mange rejsemål vil se bevis på, at I planlægger at rejse ud igen, som regel en returflybillet eller en billet videre til et andet land. Vores guide til [bevis for videre rejse](https://traveldocumentvault.com/da/blog/proof-of-onward-travel/) gennemgår, hvad der gælder, hvorfor flyselskabet ofte spørger først, og hvad I gør med en enkeltbillet.
 
 ### Indkvarteringsbekræftelser
 
@@ -130,6 +130,8 @@ Ja. Gem krypterede offline-kopier på telefonen – ikke i kamerarullen eller cl
 Glemmer I passet, kan I ikke gå ombord. Ved manglende støttedokumenter varierer udfaldet: et manglende vaccinationsbevis kan give jer mulighed for at ombooke og tage hjem efter det, mens et manglende samtykkebrev kan betyde nægtet ombordstigning for jeres barn. Nogle destinationer tilbyder visum ved ankomst, men de fleste støttedokumenter kan ikke skaffes ved grænsen. Bekræft altid kravene 2-3 uger før afrejse.
 
 ## Relaterede artikler
+
+[Rejsedokumenter7 min læsningBevis for videre rejse: hvad der faktisk gælder](https://traveldocumentvault.com/da/blog/proof-of-onward-travel/)
 
 [Rejsedokumenter6 min læsningNationalt ID-kort på rejsen: hvornår det er nok](https://traveldocumentvault.com/da/blog/national-id-card-travel-europe/)
 

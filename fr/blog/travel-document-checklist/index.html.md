@@ -137,6 +137,8 @@ Gardez toujours avec vous : passeports, cartes d'embarquement, certificat d'assu
 
 ## Articles connexes
 
+[Documents de voyage7 min de lecturePreuve de continuation de voyage : ce qui compte vraiment](https://traveldocumentvault.com/fr/blog/proof-of-onward-travel/)
+
 [Règles de passeport8 min de lecture · 1 février 2026La règle des 6 mois de passeport : Quels pays l'appliquent](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)
 
 [Organisation8 min de lecture · 5 février 2026Comment organiser les documents de voyage en famille (avant votre prochain voyage)](https://traveldocumentvault.com/fr/blog/how-to-organise-family-travel-documents/)

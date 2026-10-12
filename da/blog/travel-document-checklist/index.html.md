@@ -137,6 +137,8 @@ Hav disse med dig hele tiden: pas, boardingkort, rejseforsikringscertifikat, sam
 
 ## Relaterede artikler
 
+[Rejsedokumenter7 min læsningBevis for videre rejse: hvad der faktisk gælder](https://traveldocumentvault.com/da/blog/proof-of-onward-travel/)
+
 [Pasregler8 min læsning · 1. feb. 20266-måneders-reglen for pas: hvilke lande håndhæver den, og sådan undgår du at blive taget på sengen](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)
 
 [Organisering8 min læsning · 5. feb. 2026Sådan organiserer I familiens rejsedokumenter (inden næste rejse)](https://traveldocumentvault.com/da/blog/how-to-organise-family-travel-documents/)

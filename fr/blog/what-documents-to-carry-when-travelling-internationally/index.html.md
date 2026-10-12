@@ -26,7 +26,7 @@ Votre passeport et visa semblent urgents, donc ils sont emballés en premier. Le
 
 ### Preuve de voyage ultérieur
 
-Un nombre surprenant de pays veulent la preuve que vous prévoyez de partir — un vol retour, une réservation ultérieure dans un autre pays, ou même un billet de car ou de ferry suffira généralement. Conserver une impression ou une copie numérique dans votre bagage à main signifie que vous ne ferez pas face à des retards à l'immigration.
+De nombreuses destinations veulent la preuve que vous prévoyez de partir, généralement un vol retour ou un billet vers un autre pays. Notre guide sur la [preuve de continuation de voyage](https://traveldocumentvault.com/fr/blog/proof-of-onward-travel/) explique ce qui compte, pourquoi la compagnie aérienne la demande souvent en premier, et quoi faire avec un aller simple.
 
 ### Confirmations d'hébergement
 
@@ -130,6 +130,8 @@ Oui. Stockez des copies chiffrées hors ligne sur votre téléphone — pas dans
 Oublier votre passeport signifie que vous ne pouvez pas embarquer. Pour les documents d'appui manquants, le résultat varie : un certificat de vaccination manquant pourrait vous permettre de rebooker et de retourner chez vous pour l'obtenir, tandis qu'une lettre de consentement manquante peut entraîner le refus d'embarquement de votre enfant. Certaines destinations offrent un visa à l'arrivée, mais la plupart des documents d'appui ne peuvent pas être obtenus aux frontières. Vérifiez toujours les exigences 2 à 3 semaines avant le départ.
 
 ## Articles connexes
+
+[Documents de voyage7 min de lecturePreuve de continuation de voyage : ce qui compte vraiment](https://traveldocumentvault.com/fr/blog/proof-of-onward-travel/)
 
 [Documents de voyage6 min de lectureCarte d'identité nationale en voyage : quand elle suffit](https://traveldocumentvault.com/fr/blog/national-id-card-travel-europe/)
 

@@ -137,6 +137,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-document-checklist/
 
 ## 相关文章
 
+[旅行证件7分钟阅读 · 2026年10月13日后续行程证明：到底什么才算数](https://traveldocumentvault.com/zh-Hans/blog/proof-of-onward-travel/)
+
 [护照规则8分钟阅读 · 2026年2月1日六个月护照规则：哪些国家执行它](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)
 
 [组织8分钟阅读 · 2026年2月5日如何组织家庭旅行文件（在您的下一次旅行前）](https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-travel-documents/)

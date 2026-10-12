@@ -26,7 +26,7 @@ Source: https://traveldocumentvault.com/ko/blog/what-documents-to-carry-when-tra
 
 ### 귀국 또는 차기 목적지로의 여행 증명
 
-많은 국가에서 출국할 계획이 있다는 증거를 원합니다. 귀국 항공권, 다른 국가로의 차기 예약, 또는 버스나 페리 티켓이면 충분합니다. 탑승권의 사본이나 디지털 사본을 수하물에 보관하면 이민청에서 지연되지 않습니다.
+많은 목적지가 출국할 계획이 있다는 증거를 원하며, 대개 귀국 항공권이나 다른 국가로 향하는 차기 항공권을 뜻합니다. [출국 예정 증빙](https://traveldocumentvault.com/ko/blog/proof-of-onward-travel/) 가이드에서 무엇이 인정되는지, 왜 항공사가 먼저 묻는 경우가 많은지, 편도 티켓일 때 어떻게 해야 하는지 다룹니다.
 
 ### 숙박 확인증
 
@@ -130,6 +130,8 @@ Source: https://traveldocumentvault.com/ko/blog/what-documents-to-carry-when-tra
 여권을 잊으면 탑승할 수 없습니다. 서류 부재의 경우, 결과는 다양합니다. 백신 접종 증명서가 없으면 예약을 다시 하고 집으로 돌아가 획득하도록 허용될 수 있으며, 동의서가 없으면 자녀의 탑승이 거부될 수 있습니다. 일부 목적지는 도착 비자를 제공하지만 대부분의 서류는 국경에서 획득할 수 없습니다. 항상 출발 2-3주 전에 요건을 확인하세요.
 
 ## 관련 글
+
+[여행 서류7분 읽기출국 예정 증빙, 실제로 인정되는 것은 무엇일까](https://traveldocumentvault.com/ko/blog/proof-of-onward-travel/)
 
 [여행 서류6분 읽기국민 ID 카드로 하는 여행, 어디까지 통할까](https://traveldocumentvault.com/ko/blog/national-id-card-travel-europe/)
 

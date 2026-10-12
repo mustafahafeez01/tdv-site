@@ -26,7 +26,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/what-documents-to-carry-whe
 
 ### 继续旅行的证明
 
-令人惊讶的是，许多国家都希望看到您计划离开的证据——一张返程航班、到另一个国家的下一段旅程预订，或甚至一张长途汽车或渡轮票通常就足够了。在随身行李中保留打印件或数字副本意味着您不会在移民检查时面临延误。
+许多目的地都希望看到您计划离开的证据，通常是一张返程机票，或是前往另一个国家的后续行程机票。我们关于[后续行程证明](https://traveldocumentvault.com/zh-Hans/blog/proof-of-onward-travel/)的指南说明了什么才算数、为什么往往是航空公司最先问起，以及持单程机票时该怎么办。
 
 ### 住宿确认
 
@@ -130,6 +130,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/what-documents-to-carry-whe
 忘记护照意味着您无法登机。对于缺少的辅助文件，结果各不相同：缺少疫苗接种证书可能允许您改签机票并返回家中获取，而缺少同意信可能导致您的孩子被拒绝登机。某些目的地提供落地签证，但大多数辅助文件无法在边境获得。务必在出发前2-3周验证要求。
 
 ## 相关文章
+
+[旅行证件7 分钟阅读 · 2026年10月13日后续行程证明：到底什么才算数](https://traveldocumentvault.com/zh-Hans/blog/proof-of-onward-travel/)
 
 [旅行证件6 分钟阅读 · 2026年10月6日国民身份证能当旅行证件吗？什么时候够用](https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-europe/)
 

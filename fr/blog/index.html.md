@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 ##
 
+[Documents de voyagePreuve de continuation de voyage : ce qui compte vraimentLa preuve de continuation de voyage, c'est généralement un billet réservé de sortie de votre destination. Ce qui compte, pourquoi la compagnie aérienne demande avant la frontière, et quoi faire si vous voyagez en aller simple.12 octobre 20267 min de lecture](https://traveldocumentvault.com/fr/blog/proof-of-onward-travel/)
+
+##
+
 [Documents de voyageCarte d'identité nationale en voyage : quand elle suffitÀ l'intérieur de l'UE et de l'EEE, une carte d'identité nationale valide est généralement un document de voyage à part entière. Quand la carte suffit, quand prendre le passeport, et pourquoi les deux suivent des horloges d'expiration différentes.5 octobre 20266 min de lecture](https://traveldocumentvault.com/fr/blog/national-id-card-travel-europe/)
 
 ##

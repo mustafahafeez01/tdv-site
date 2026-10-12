@@ -1,6 +1,6 @@
 # A Sua Janela de 90 Dias no Espaço Schengen: Contando Dias na Era do EES
 
-> O EES regista automaticamente os seus dias no Espaço Schengen. Como funciona a regra 90/180 e o que o sistema não lhe mostra.
+> Quantos dias de Schengen lhe restam? A ferramenta online EES da UE já os mostra. Veja como consultar e calcular a janela 90/180 para as próximas viagens.
 
 Source: https://traveldocumentvault.com/pt/blog/schengen-90-days-auto-tracked-ees/
 
@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/pt/blog/schengen-90-days-auto-tracked-ee
 
 - **Os carimbos do passaporte desapareceram.** Desde 10 de abril de 2026 o Sistema de Entrada/Saída (EES) da UE regista digitalmente cada entrada e saída de viajantes não-UE no Espaço Schengen, com impressões digitais e imagem facial.
 - O EES agora **detecta ultrapassagens automaticamente**. Espere uma recusa na sua próxima entrada, e possivelmente uma proibição de entrada de um a cinco anos.
-- **O EES faz cumprir, não planeia.** Nenhum portal público mostra os seus dias restantes — contar a sua janela móvel de 90/180 continua a ser da sua responsabilidade.
+- **O EES faz cumprir, não planeia.** A ferramenta online do EES da UE mostra os dias que lhe restam, mas calcular se uma futura viagem se encaixa na sua janela móvel de 90/180 continua a ser da sua responsabilidade.
 - A UE publica uma **calculadora oficial de estadas curtas** que funciona bem, mas é manual — uma pessoa, uma janela, um cálculo de cada vez.
 - As famílias têm de lidar com **uma janela separada por pessoa**. É aí que o acompanhamento de limites de dias numa aplicação se torna importante.
 
@@ -34,7 +34,7 @@ O que mudou é a aplicação. Com carimbos no passaporte, provar uma ultrapassag
 
 ## A Pegadinha: O EES Faz Cumprir, Não Planeia
 
-O EES conta os seus dias para aplicação, mas não lhe diz o número. Não existe um portal público onde possa iniciar sessão e ver "47 dias restantes"; a aplicação Travel to Europe trata do pré-registo antes de voar, não da contagem de dias após chegar. O sistema regista o que fez; prever o que ainda pode fazer continua inteiramente seu problema.
+O EES regista os seus dias para aplicação, e a UE agora permite-lhe ver a sua situação. A ferramenta online do EES, no site oficial Travel to Europe, mostra o número de dias que ainda pode permanecer, e algumas fronteiras externas oferecem a mesma verificação. O que mostra é o seu registo até agora. Calcular se uma viagem que ainda não fez vai encaixar continua a ser da sua responsabilidade.
 
 A UE publica uma calculadora oficial de estadas curtas que vale a pena marcar como favorita. Introduz as suas datas anteriores de entrada e saída, e ela diz-lhe se uma estada planeada se encaixa dentro da sua janela. Funciona bem para um viajante que mantém bons registos. O atrito aparece quando os registos vivem na sua memória, ou quando está a fazer o exercício para quatro pessoas ao mesmo tempo.
 
@@ -42,7 +42,7 @@ A UE publica uma calculadora oficial de estadas curtas que vale a pena marcar co
 
 Nem todos estão sujeitos ao EES. O sistema regista os visitantes não-UE que chegam com a autorização de estada curta isenta de visto, e aqueles com vistos de curta duração. Se tem a nacionalidade dos Estados Unidos, Reino Unido, Canadá, Austrália, ou de dezenas de outros países, o EES aplica-se a si no momento em que entra no Espaço Schengen.
 
-Se é cidadão da UE, do EEE ou da Suíça, está isento - o seu passaporte não passa por nenhum processo especial de entrada, e o EES não regista as suas entradas e saídas. Da mesma forma, se tem um visto de longa duração (um ano ou mais), fica totalmente fora do alcance do EES, e o sistema não acompanha os seus movimentos dentro do Espaço Schengen. Esta distinção importa porque a sua janela de 90 dias só diminui se o EES o estiver a registar.
+Se é cidadão da UE, do EEE ou da Suíça, está isento - o seu passaporte não passa por nenhum processo especial de entrada, e o EES não regista as suas entradas e saídas. A lista oficial de isenções é mais longa, e inclui familiares não-UE de cidadãos da UE titulares de um cartão de residência. No entanto, estar isento do EES não é o mesmo que estar isento da regra 90/180. Se é um visitante não-UE em estada curta, a regra aplica-se quer uma fronteira já o tenha registado ou não. O tempo passado num país Schengen com uma autorização de residência ou um visto de longa duração (tipo D) desse país não conta para a regra, mas visitas curtas a outros países Schengen geralmente continuam a contar, por isso confirme com a autoridade que emitiu a sua autorização.
 
 ## O que acontece na sua primeira passagem pelo EES
 
@@ -52,9 +52,9 @@ Depois de registado, o sistema guarda a data e hora exatas da sua entrada. Se ma
 
 ## O que muda nas passagens seguintes
 
-A sua segunda entrada e as seguintes são mais rápidas. Em vez de um registo completo, o sistema verifica os seus dados face ao seu registo inicial - comparando a sua imagem facial com a guardada e confirmando que é a mesma pessoa. O sistema regista novamente a hora da sua entrada. O EES faz então uma contagem: soma esta entrada a todas as anteriores dentro da janela móvel de 180 dias e compara o total com 90.
+A sua segunda entrada e as seguintes são mais rápidas. Em vez de um registo completo, o sistema verifica os seus dados face ao seu registo inicial - comparando a sua imagem facial com a guardada e confirmando que é a mesma pessoa. O sistema regista novamente a hora da sua entrada. Como cada entrada e saída fica registada, os agentes de fronteira podem verificar as suas viagens recentes em relação à regra 90/180 em cada passagem.
 
-Se estiver dentro do seu limite, recebe uma entrada normal e passa. Se o ultrapassar, o sistema alerta o agente, e vai enfrentar uma recusa. Este cálculo acontece em cada passagem, automaticamente.
+Se as suas datas estiverem dentro da regra, a entrada decorre normalmente. Se mostrarem que ficou mais tempo do que o permitido, o sistema torna isso fácil de ver para o agente, e uma recusa é provável. A decisão continua a caber ao agente de fronteira.
 
 ## As crianças e o registo biométrico
 
@@ -68,7 +68,7 @@ Esta é uma mensagem típica desta fase de transição, mais comum quando entrou
 
 ## Como Acompanhar a Sua Janela na Prática
 
-O método manual vem primeiro, porque é gratuito e oficial: pegue na data de hoje e olhe para trás 180 dias. Some cada dia que esteve fisicamente dentro de qualquer país Schengen durante esse período — os dias de chegada e partida contam ambos. Subtraia o total a 90; é o que tem restante agora. Como a janela se move, amanhã o cálculo muda por um dia, razão pela qual a calculadora da UE pede o seu histórico de viagem completo em vez de um único número.
+Se já viajou sob o EES, a verificação mais rápida é a ferramenta online do EES da UE, que mostra os dias que ainda tem disponíveis a partir do seu registo. Para planear uma viagem, ou para confrontar esse registo com o seu próprio, conte à mão: pegue na data de hoje e olhe para trás 180 dias. Some cada dia que esteve fisicamente dentro de qualquer país Schengen durante esse período - os dias de chegada e partida contam ambos, e os dias em Cipre ou na Irlanda não contam. Subtraia o total a 90; é o que tem restante hoje. Como os dias mais antigos saem da contagem à medida que a janela avança, uma viagem futura mais longa pode por vezes encaixar, razão pela qual a calculadora de estadas curtas da UE confronta uma estada planeada com o seu histórico de viagem completo em vez de um único número.
 
 Para uma pessoa que passa férias uma ou duas vezes por ano, isto é inteiramente geável. Fica mais complicado quando as viagens se sobrepõem e as pessoas se multiplicam: um viajante de negócios fazendo pequenos saltos cada mês, ou uma família onde um filho está num intercâmbio escolar, outro tem datas de acampamento de verão, e um parceiro voa para casa mais cedo. Cada pessoa tem a sua própria janela móvel, e as janelas não alinham. Esta é a situação em que uma ferramenta de acompanhamento deixa de ser um gadget e passa a ser a forma de evitar um erro dispendioso — o nosso [guia para acompanhamento de vistos e entrada](https://traveldocumentvault.com/pt/blog/visa-expiry-tracker-app/) cobre o problema mais amplo.
 
@@ -96,7 +96,7 @@ O EES regista cada entrada e saída digitalmente, portanto até uma pequena ultr
 
 ### Posso verificar quantos dias Schengen me restam após entrar?
 
-Atualmente não existe um portal público onde os viajantes possam consultar o seu próprio registo EES ou dias restantes. Os dados do EES são mantidos pelas autoridades de fronteira. Precisa de acompanhar a sua própria janela móvel de 180 dias, quer com a calculadora oficial de estadas curtas da UE, quer com os seus próprios registos.
+Sim. A ferramenta online do EES, no site oficial Travel to Europe, mostra o número de dias que ainda pode permanecer, e algumas fronteiras externas oferecem a mesma verificação. Para planear uma futura viagem, utilize a calculadora de estadas curtas da UE com o seu histórico de viagem completo, e mantenha o seu próprio registo das datas de entrada e saída, para o caso de os dados do sistema estarem incompletos.
 
 ### Preciso de visto ou seguro de viagem por causa do EES?
 

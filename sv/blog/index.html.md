@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
+[ResehandlingarBevis på vidare resa: vad som faktiskt räknasBevis på vidare resa betyder oftast en bokad biljett ut ur resmålet. Vad som räknas, varför flygbolaget frågar innan gränsen gör det, och vad du gör om du reser med enkel biljett.12 oktober 20267 min läsning](https://traveldocumentvault.com/sv/blog/proof-of-onward-travel/)
+
+##
+
 [ResehandlingarNationellt ID-kort för resor: när det räckerInom EU och EES är ett giltigt nationellt ID-kort oftast en fullständig resehandling. När kortet räcker, när du ska ta med passet, och varför de två följer olika utgångsklockor.5 oktober 20266 min läsning](https://traveldocumentvault.com/sv/blog/national-id-card-travel-europe/)
 
 ##

@@ -26,7 +26,7 @@ Passet och visumet känns akuta, så de packas först. De fem handlingar som fol
 
 ### Bevis på vidareresa
 
-Förvånansvärt många länder vill se bevis på att ni planerar att lämna landet – en returflygbiljett, en bokning vidare till ett annat land, eller till och med en buss- eller färjebiljett duger oftast. Att ha en utskrift eller digital kopia i handbagaget innebär att ni slipper förseningar vid gränskontrollen.
+Många resmål vill se bevis på att ni planerar att lämna landet, oftast en returflygbiljett eller en biljett vidare till ett annat land. Vår guide om [bevis på vidare resa](https://traveldocumentvault.com/sv/blog/proof-of-onward-travel/) går igenom vad som räknas, varför flygbolaget ofta frågar först och vad ni gör med en enkel biljett.
 
 ### Boendebekräftelser
 
@@ -130,6 +130,8 @@ Ja. Förvara krypterade offline-kopior på telefonen – inte i kamerarullen ell
 Glömmer ni passet kommer ni inte ombord. Vid saknade stödjande handlingar varierar utfallet: ett saknat vaccinationsbevis kan innebära att ni får ombokas och åka hem för att skaffa det, medan ett saknat samtyckesbrev kan resultera i nekad ombordstigning för ert barn. Vissa destinationer erbjuder visum vid ankomst, men de flesta stödjande handlingar går inte att skaffa vid gränsen. Kontrollera alltid kraven 2-3 veckor före avresa.
 
 ## Relaterade artiklar
+
+[Resehandlingar7 min läsningBevis på vidare resa: vad som faktiskt räknas](https://traveldocumentvault.com/sv/blog/proof-of-onward-travel/)
 
 [Resehandlingar6 min läsningNationellt ID-kort för resor: när det räcker](https://traveldocumentvault.com/sv/blog/national-id-card-travel-europe/)
 

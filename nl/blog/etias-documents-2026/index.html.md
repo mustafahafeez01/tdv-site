@@ -136,6 +136,8 @@ Ja. ETIAS is nog niet verplicht. Zolang dat niet zo is, kunnen visumvrije reizig
 
 ## Gerelateerde artikelen
 
+[Reisdocumenten7 min leestijdBewijs van verder reizen: wat telt echt](https://traveldocumentvault.com/nl/blog/proof-of-onward-travel/)
+
 [Verlenging5 min leestijdVisumvervaldatum-app: waar je op moet letten](https://traveldocumentvault.com/nl/blog/visa-expiry-tracker-app/)
 
 [Paspoort6 min leestijdPaspoortgeldigheid en de 6 maanden-regel](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/)

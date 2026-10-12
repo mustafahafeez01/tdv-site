@@ -1,6 +1,6 @@
 # EES Days Left: How to Count Your Schengen 90/180 Window
 
-> How many Schengen days do you have left? The EES logs every entry and exit but shows no running total - you count the 90/180 window yourself. Here's how.
+> How many Schengen days do you have left? The EU's EES online tool now shows them. Here's how to check, and how to count your 90/180 window for trips ahead.
 
 Source: https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/
 
@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/blog/schengen-90-days-auto-tracked-ees/
 
 - **Passport stamps are gone.** Since 10 April 2026 the EU's Entry/Exit System records every non-EU traveller's Schengen entries and exits digitally, with fingerprints and a facial image.
 - EES now **detects overstays automatically**. Expect refusal at your next entry, and possibly an entry ban of one to five years.
-- **EES enforces, it doesn't plan.** No public portal shows your remaining days - counting your rolling 90/180 window is still your job.
+- **EES enforces, it doesn't plan.** The EU's EES online tool shows the days you have left, but working out whether a future trip fits your rolling 90/180 window is still your job.
 - The EU's **official short-stay calculator** works, but it's manual - one person, one window, one calculation at a time.
 - Families juggle **a separate window per person**. That's where day-limit tracking in an app earns its place.
 
@@ -36,7 +36,7 @@ What has changed is enforcement. Under passport stamps, proving an overstay mean
 
 ## The Catch: EES Enforces, It Doesn't Plan
 
-EES counts your days for enforcement, but it doesn't tell you the number. There's no public portal where you can log in and see "47 days remaining"; the Travel to Europe app handles pre-registration before you fly, not day counts after you arrive. The system records what you did; forecasting what you can still do remains entirely your problem.
+EES records your days for enforcement, and the EU now lets you see where you stand. Its EES online tool, on the official Travel to Europe website, shows the number of days you're still allowed to stay, and some external border crossings offer the same check. What it shows is your record so far. Working out whether a trip you haven't taken yet will fit is still up to you.
 
 The EU publishes an official short-stay calculator that's well worth bookmarking. You enter your past entry and exit dates, and it tells you whether a planned stay fits inside your window. It works well for one traveller who keeps good records. The friction appears when the records live in your memory, or when you're doing the exercise for four people at once.
 
@@ -44,7 +44,9 @@ The EU publishes an official short-stay calculator that's well worth bookmarking
 
 Not everyone meets EES. The system registers non-EU visitors who arrive on visa-free short-stay allowances, and those on short-stay visas. If you hold citizenship from the US, UK, Canada, Australia, or dozens of other countries, EES applies to you the moment you cross into Schengen.
 
-If you're an EU, EEA or Swiss citizen, you're exempt - your passport receives no special entry process, and EES does not log your entries and exits. Similarly, if you hold a long-stay visa (one year or longer), you bypass EES entirely, and the system does not track your movements inside the Schengen area. This distinction matters because your 90-day window only ticks down if EES is recording you.
+If you're an EU, EEA or Swiss citizen, you're exempt - your passport receives no special entry process, and EES does not log your entries and exits. The official list of exemptions is longer, and it includes non-EU family members of EU citizens who hold a residence card.
+
+Being exempt from EES isn't the same as being exempt from the 90/180 rule, though. If you're a non-EU visitor on a short stay, the rule applies whether or not a border has registered you yet. Time spent in a Schengen country on a residence permit or long-stay (type D) visa from that country doesn't count towards it. Short visits to other Schengen countries generally still do, so check with the authority that issued your permit.
 
 ## What Happens at Your First EES Crossing
 
@@ -54,9 +56,9 @@ Once registered, the system records your exact entry date and time. If you later
 
 ## What Changes on Later Crossings
 
-Your second and subsequent entries move faster. Instead of full registration, the system verifies your details against your first-time record - comparing your facial image to the stored one and confirming you're the same person. The system logs your entry time again. EES now runs a tally: it adds this entry to all previous entries in the rolling 180-day window and compares the total to 90.
+Your second and subsequent entries move faster. Instead of full registration, the system verifies your details against your first-time record - comparing your facial image to the stored one and confirming you're the same person. The system logs your entry time again. Because every entry and exit is on record, border officers can check your recent trips against the 90/180 rule at each crossing.
 
-If you're within your allowance, you receive a standard entry and pass through. If you're over, the system alerts the officer, and you'll face refusal. This calculation happens for every crossing, automatically.
+If your dates are within the rule, entry carries on as normal. If they show you've stayed longer than permitted, the system makes that easy for the officer to see, and refusal is likely. The decision still rests with the border officer.
 
 ## Children and Biometric Registration
 
@@ -70,7 +72,9 @@ This is a transition-era message, most common when you've entered Schengen very 
 
 ## How to Track Your Window in Practice
 
-The manual method comes first, because it's free and official: take today's date and look back 180 days. Tally every day you were physically inside any Schengen country during that period - arrival and departure days both count. Subtract the total from 90; that's what you have left right now. Because the window rolls, tomorrow the calculation shifts by a day, which is why the EU's calculator asks for your full trip history rather than a single number.
+If you've already travelled under EES, the quickest check is the EU's EES online tool, which shows the days you're still allowed from your record. To plan a trip, or to check that record against your own, count by hand: take today's date and look back 180 days. Tally every day you were physically inside any Schengen country during that period - arrival and departure days both count, and days in Cyprus or Ireland don't. Subtract the total from 90; that's what you have left today.
+
+Older days drop out as the window rolls, so a longer future trip can sometimes fit. That's why the EU's short-stay calculator checks a planned stay against your full trip history rather than a single number.
 
 For one person taking a holiday or two a year, that's entirely manageable. It gets harder when trips overlap and people multiply: a business traveller doing short hops every month, or a family where one child is on a school exchange, another has summer camp dates, and a partner flies home early. Each person carries their own rolling window, and the windows don't line up. This is the situation where a tracking tool stops being a gadget and starts being how you avoid an expensive mistake - our [guide to visa and entry tracking](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/) covers the wider problem.
 
@@ -98,7 +102,7 @@ EES records every entry and exit digitally, so even a short overstay is flagged 
 
 ### Can I check how many Schengen days I have left after entering?
 
-There is currently no public portal where travellers can look up their own EES record or remaining days. EES data is held by border authorities. You need to track your own rolling 180-day window, either with the EU's official short-stay calculator or your own records.
+Yes. The EU's EES online tool, on the official Travel to Europe website, shows the number of days you're still allowed to stay, and some external border crossings offer the same check. To plan a future trip, use the EU's short-stay calculator with your full trip history, and keep your own record of entry and exit dates in case the system's data is incomplete.
 
 ### Do I need a visa or travel insurance because of EES?
 

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
+[Travel Documents Proof of Onward Travel: What Actually Counts Proof of onward travel usually means a booked ticket out of your destination. What counts, why the airline asks before the border does, and what to do if you're flying one way. October 12, 20267 min read](https://traveldocumentvault.com/blog/proof-of-onward-travel/)
+
+##
+
 [Travel Documents National ID Card for Travel: When It Is Enough Inside the EU and EEA, a valid national ID card is usually a full travel document. When the card is enough, when to take the passport, and why the two run on different expiry clocks. October 5, 20266 min read](https://traveldocumentvault.com/blog/national-id-card-travel-europe/)
 
 ##

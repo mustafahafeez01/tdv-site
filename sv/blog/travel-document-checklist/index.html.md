@@ -137,6 +137,8 @@ Ha dessa med dig hela tiden: pass, boardingkort, försäkringsintyg, samtyckesbr
 
 ## Relaterade artiklar
 
+[Resehandlingar7 min läsningBevis på vidare resa: vad som faktiskt räknas](https://traveldocumentvault.com/sv/blog/proof-of-onward-travel/)
+
 [Passregler8 min läsning · 1 feb 20266-månadersregeln för pass: vilka länder tillämpar den och hur du aldrig blir tagen på sängen](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/)
 
 [Organisering8 min läsning · 5 feb 2026Så organiserar du familjens resehandlingar (inför nästa resa)](https://traveldocumentvault.com/sv/blog/how-to-organise-family-travel-documents/)

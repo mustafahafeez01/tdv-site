@@ -136,6 +136,8 @@ ETIAS适用于免签证的非欧盟公民，前往短期停留（180天内最多
 
 ## 相关文章
 
+[旅行证件7分钟阅读 · 2026年10月13日后续行程证明：到底什么才算数](https://traveldocumentvault.com/zh-Hans/blog/proof-of-onward-travel/)
+
 [更新5分钟读完 · 3月21日签证过期追踪应用：要寻找什么](https://traveldocumentvault.com/zh-Hans/blog/visa-expiry-tracker-app/)
 
 [护照6分钟读完 · 2月14日护照有效期与6个月规则](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)

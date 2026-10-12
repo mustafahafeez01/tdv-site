@@ -136,6 +136,8 @@ Ja. ETIAS ist noch nicht verpflichtend. Solange das der Fall ist, können visumf
 
 ## Verwandte Artikel
 
+[Reisedokumente7 Min. Lesezeit - 13. OktoberNachweis der Weiterreise: Was wirklich zählt](https://traveldocumentvault.com/de/blog/proof-of-onward-travel/)
+
 [Erneuerung5 Min. Lesezeit - 21. MärzVisa-Ablauf-Tracker-App: Worauf Sie achten sollten](https://traveldocumentvault.com/de/blog/visa-expiry-tracker-app/)
 
 [Reisepass6 Min. Lesezeit - 14. Feb.Reisepass-Gültigkeit und die Sechsmonats-Regel](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/)

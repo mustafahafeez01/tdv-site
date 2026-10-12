@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/it/blog/
 
 ##
 
+[Documenti di ViaggioProva di prosecuzione del viaggio: cosa conta davveroLa prova di prosecuzione del viaggio di solito significa un biglietto prenotato per uscire dalla destinazione. Cosa conta, perché la chiede la compagnia aerea prima della frontiera, e cosa fare se voli in sola andata.12 ottobre 20267 min di lettura](https://traveldocumentvault.com/it/blog/proof-of-onward-travel/)
+
+##
+
 [Documenti di ViaggioCarta d'identità per viaggiare: quando bastaAll'interno dell'UE e del SEE, una carta d'identità valida è di norma un documento di viaggio a tutti gli effetti. Quando la carta basta, quando serve il passaporto, e perché i due documenti scadono secondo orologi diversi.5 ottobre 20266 min di lettura](https://traveldocumentvault.com/it/blog/national-id-card-travel-europe/)
 
 ##

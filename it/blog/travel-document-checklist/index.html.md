@@ -137,6 +137,8 @@ Tenere con sé in ogni momento: passaporti, carte d'imbarco, certificato di assi
 
 ## Articoli Correlati
 
+[Documenti di Viaggio7 min di letturaProva di prosecuzione del viaggio: cosa conta davvero](https://traveldocumentvault.com/it/blog/proof-of-onward-travel/)
+
 [Regole del Passaporto8 min di lettura · 1 feb 2026La Regola del Passaporto di 6 Mesi: Quali Paesi la Applicano](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/)
 
 [Organizzazione8 min di lettura · 5 feb 2026Come Organizzare i Documenti di Viaggio Familiari (Prima del Tuo Prossimo Viaggio)](https://traveldocumentvault.com/it/blog/how-to-organise-family-travel-documents/)

@@ -26,7 +26,7 @@ Paspor dan visa Anda terasa mendesak, jadi biasanya dikemas lebih dulu. Lima dok
 
 ### Bukti perjalanan lanjutan
 
-Cukup banyak negara ingin bukti bahwa Anda berencana meninggalkan negara itu — tiket penerbangan kembali, pemesanan lanjutan ke negara lain, atau bahkan tiket bus atau feri biasanya cukup. Menyimpan cetakan atau salinan digital di tas jinjing berarti Anda tidak akan menghadapi penundaan di imigrasi.
+Banyak negara tujuan ingin bukti bahwa Anda berencana meninggalkan negara itu, biasanya tiket penerbangan pulang atau tiket lanjutan ke negara lain. Panduan kami tentang [bukti perjalanan lanjutan](https://traveldocumentvault.com/id/blog/proof-of-onward-travel/) membahas apa yang diterima, mengapa maskapai sering bertanya lebih dulu, dan apa yang harus dilakukan jika Anda memegang tiket sekali jalan.
 
 ### Konfirmasi akomodasi
 
@@ -130,6 +130,8 @@ Ya. Simpan salinan offline terenkripsi di ponsel Anda, bukan di galeri kamera at
 Lupa paspor berarti Anda tidak bisa naik pesawat. Untuk dokumen pendukung yang hilang, hasilnya bervariasi: sertifikat vaksinasi yang hilang mungkin memungkinkan Anda mengubah jadwal dan pulang untuk mendapatkannya, sementara surat izin yang hilang bisa mengakibatkan anak Anda ditolak naik pesawat. Beberapa destinasi menawarkan visa saat kedatangan, tapi sebagian besar dokumen pendukung tidak bisa diperoleh di perbatasan. Selalu verifikasi persyaratan 2-3 minggu sebelum keberangkatan.
 
 ## Artikel Terkait
+
+[Dokumen Perjalanan7 menit bacaBukti Perjalanan Lanjutan: Apa yang Sebenarnya Diterima](https://traveldocumentvault.com/id/blog/proof-of-onward-travel/)
 
 [Dokumen Perjalanan6 menit bacaKartu Identitas Nasional untuk Bepergian: Kapan Sudah Cukup](https://traveldocumentvault.com/id/blog/national-id-card-travel-europe/)
 

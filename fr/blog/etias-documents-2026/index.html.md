@@ -136,6 +136,8 @@ Oui. L'ETIAS n'est pas encore obligatoire. Tant qu'elle ne l'est pas, les voyage
 
 ## Articles connexes
 
+[Documents de voyage7 min de lecturePreuve de continuation de voyage : ce qui compte vraiment](https://traveldocumentvault.com/fr/blog/proof-of-onward-travel/)
+
 [Renouvellement5 min de lecture · 21 marVisa Expiry Tracker App : Ce qu'il faut chercher](https://traveldocumentvault.com/fr/blog/visa-expiry-tracker-app/)
 
 [Passeport6 min de lecture · 14 févValidité du passeport et la règle des 6 mois](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
+[Documentos de ViajePrueba de Viaje de Continuación: Qué Cuenta RealmenteLa prueba de viaje de continuación suele ser un billete reservado para salir de tu destino. Qué cuenta, por qué la pide la aerolínea antes que la frontera, y qué hacer si viajas solo de ida.12 de octubre de 20267 min de lectura](https://traveldocumentvault.com/es/blog/proof-of-onward-travel/)
+
+##
+
 [Documentos de ViajeDocumento de Identidad para Viajar: Cuándo BastaDentro de la UE y el EEE, un documento de identidad nacional válido suele ser un documento de viaje completo. Cuándo basta el documento, cuándo llevar el pasaporte y por qué los dos siguen relojes de caducidad distintos.5 de octubre de 20266 min de lectura](https://traveldocumentvault.com/es/blog/national-id-card-travel-europe/)
 
 ##

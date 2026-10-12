@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
+[旅行書類出国手段の証明:実際に認められるものとは出国手段の証明とは、通常、目的地から出る予約済みのチケットのことです。何が証明として認められるか、国境より先に航空会社が確認する理由、そして片道で渡航する場合の対処法を解説します。2026年10月12日読了時間 7分](https://traveldocumentvault.com/ja/blog/proof-of-onward-travel/)
+
+##
+
 [旅行書類国民IDカードでの渡航:それで十分な場合EUおよびEEA域内では、有効な国民IDカードは通常そのまま渡航書類として使えます。カードで十分な場合、パスポートが必要な場合、そして二つの書類の有効期限がまったく別に動く理由を解説します。2026年10月5日読了時間 6分](https://traveldocumentvault.com/ja/blog/national-id-card-travel-europe/)
 
 ##

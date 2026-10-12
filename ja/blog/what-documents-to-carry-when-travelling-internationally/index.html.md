@@ -26,7 +26,7 @@ Source: https://traveldocumentvault.com/ja/blog/what-documents-to-carry-when-tra
 
 ### 帰りまたは次の目的地への旅程書
 
-驚くほど多くの国が、出発の予定があることを示す証拠を必要とします。帰りのフライト、別の国への次の予約、またはコーチやフェリーのチケットでも通常は大丈夫です。機内持ち込み荷物に印刷またはデジタルコピーを保管することで、入国時の遅延を避けることができます。
+多くの渡航先が、出発する予定であることを示す証拠を求めます。通常は帰りの航空券か、別の国へ向かう次の便のチケットです。[出国手段の証明](https://traveldocumentvault.com/ja/blog/proof-of-onward-travel/)のガイドでは、何が認められるか、なぜ航空会社が先に確認することが多いのか、片道チケットの場合にどうすればよいかを解説しています。
 
 ### 宿泊確認書
 
@@ -130,6 +130,8 @@ Source: https://traveldocumentvault.com/ja/blog/what-documents-to-carry-when-tra
 パスポートを忘れるということは、搭乗できないことを意味します。補助書類がない場合、結果は異なります。ワクチン接種証明書がない場合は、再予約して取得するために家に帰ることが許可される場合があります。同意書がない場合、お子さんの搭乗が拒否される可能性があります。一部の目的地はビザオン到着を提供していますが、ほとんどの補助書類は国境では取得できません。常に出発の2～3週間前に要件を確認してください。
 
 ## 関連記事
+
+[旅行書類7分で読める出国手段の証明:実際に認められるものとは](https://traveldocumentvault.com/ja/blog/proof-of-onward-travel/)
 
 [旅行書類6分で読める国民IDカードでの渡航:それで十分な場合](https://traveldocumentvault.com/ja/blog/national-id-card-travel-europe/)
 

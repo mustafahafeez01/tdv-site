@@ -137,6 +137,8 @@ Halten Sie diese jederzeit griffbereit: Pässe, Bordkarten, Reiseversicherungsze
 
 ## Verwandte Artikel
 
+[Reisedokumente7 min Lesezeit · 13. Okt 2026Nachweis der Weiterreise: Was wirklich zählt](https://traveldocumentvault.com/de/blog/proof-of-onward-travel/)
+
 [Passregeln8 min Lesezeit · 1. Feb 2026Die 6-Monats-Passregel: Welche Länder sie durchsetzen](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/)
 
 [Organisation8 min Lesezeit · 5. Feb 2026Wie Sie Familien-Reisedokumente organisieren (vor Ihrer nächsten Reise)](https://traveldocumentvault.com/de/blog/how-to-organise-family-travel-documents/)

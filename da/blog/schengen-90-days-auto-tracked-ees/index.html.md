@@ -1,6 +1,6 @@
 # EES registrerer dine 90 Schengen-dage - men viser ikke antallet
 
-> EES registrerer hver ind- og udrejse automatisk, men ingen portal viser dine resterende dage. Sådan tæller du selv dit 90/180-vindue.
+> Hvor mange Schengen-dage har du tilbage? EU's EES-værktøj viser dem nu online. Se hvordan du tjekker, og hvordan du selv tæller dit 90/180-vindue.
 
 Source: https://traveldocumentvault.com/da/blog/schengen-90-days-auto-tracked-ees/
 
@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/da/blog/schengen-90-days-auto-tracked-ee
 
 - **Passtempler er fortid.** Siden den 10. april 2026 registrerer EU's ind- og udrejsesystem (EES) alle ikke-EU-rejsendes Schengen ind- og udrejser digitalt, med fingeraftryk og ansigtsbillede.
 - EES **opdager nu overskridelser automatisk**. Forvent afvisning ved din næste indrejse, og muligvis et indrejseforbud på et til fem år.
-- **EES håndhæver, det planlægger ikke.** Ingen offentlig portal viser dine resterende dage – at tælle dit rullende 90/180-vindue er stadig dit eget ansvar.
+- **EES håndhæver, det planlægger ikke.** EU's EES-onlineværktøj viser, hvor mange dage du har tilbage, men at regne ud, om en fremtidig rejse passer ind i dit rullende 90/180-vindue, er stadig dit eget ansvar.
 - EU's **officielle beregner til korte ophold** virker, men den er manuel – én person, ét vindue, én beregning ad gangen.
 - Familier skal håndtere **et separat vindue pr. person**. Det er der, dagstælling i en app for alvor gør en forskel.
 
@@ -34,7 +34,7 @@ Det, der har ændret sig, er håndhævelsen. Med passtempler betød det at bevis
 
 ## Faldgruben: EES håndhæver, det planlægger ikke
 
-EES tæller dine dage af hensyn til håndhævelse, men det fortæller dig ikke tallet. Der findes ingen offentlig portal, hvor du kan logge ind og se "47 dage tilbage"; appen Travel to Europe håndterer forhåndsregistrering, før du flyver, ikke dagstælling efter din ankomst. Systemet registrerer, hvad du har gjort; at forudse, hvad du stadig kan gøre, er helt og holdent dit eget problem.
+EES registrerer dine dage af hensyn til håndhævelse, og nu kan EU lade dig se, hvor du står. Systemets EES-onlineværktøj, på den officielle hjemmeside Travel to Europe, viser, hvor mange dage du stadig må blive, og nogle ydre grænseovergange tilbyder samme tjek. Hvad det viser, er din historik indtil nu. At regne ud, om en rejse, du endnu ikke har taget, kan passe ind, er stadig dit eget ansvar.
 
 EU udgiver en officiel beregner til korte ophold, som virkelig er værd at gemme som bogmærke. Du indtaster dine tidligere ind- og udrejsedatoer, og den fortæller dig, om et planlagt ophold passer inden for dit vindue. Den fungerer fint for én rejsende, der fører gode optegnelser. Friktionen opstår, når optegnelserne kun findes i hukommelsen, eller når du gør det samme for fire personer på én gang.
 
@@ -42,7 +42,7 @@ EU udgiver en officiel beregner til korte ophold, som virkelig er værd at gemme
 
 EES gælder ikke for alle. Systemet registrerer ikke-EU-besøgende, der ankommer på den visumfrie korttidstilladelse, samt personer med korttidsvisum. Har du statsborgerskab i USA, Storbritannien, Canada, Australien, eller et af snesevis af andre lande, gælder EES for dig, i det øjeblik du krydser ind i Schengenområdet.
 
-Er du EU-, EØS- eller schweizisk statsborger, er du undtaget - dit pas gennemgår ingen særlig indrejseprocedure, og EES registrerer ikke dine ind- og udrejser. Har du et langtidsvisum (et år eller mere), slipper du ligeledes helt uden om EES, og systemet sporer ikke dine bevægelser i Schengenområdet. Den forskel betyder noget, for dit 90-dages vindue tæller kun ned, hvis EES registrerer dig.
+Er du EU-, EØS- eller schweizisk statsborger, er du undtaget - dit pas gennemgår ingen særlig indrejseprocedure, og EES registrerer ikke dine ind- og udrejser. Den officielle liste over undtagelser er længere og omfatter blandt andet ikke-EU-familiemedlemmer til EU-borgere, der har et opholdskort. At være undtaget fra EES er dog ikke det samme som at være undtaget fra 90/180-reglen. Er du ikke-EU-besøgende på et kort ophold, gælder reglen, uanset om en grænse allerede har registreret dig. Tid tilbragt i et Schengenland på en opholdstilladelse eller et langtidsvisum (type D) fra det land tæller ikke med, men korte besøg i andre Schengenlande gør det som regel stadig, så tjek med den myndighed, der har udstedt din tilladelse.
 
 ## Hvad der sker ved din første EES-grænsepassage
 
@@ -52,9 +52,9 @@ Når du er registreret, gemmer systemet den præcise dato og det præcise klokke
 
 ## Hvad der ændrer sig ved senere grænsepassager
 
-Din anden og efterfølgende indrejser går hurtigere. I stedet for fuld registrering tjekker systemet dine oplysninger op mod din første registrering - det sammenligner dit ansigtsbillede med det gemte og bekræfter, at det er dig. Systemet registrerer igen din indrejsetid. EES foretager derefter en optælling: det lægger denne indrejse til alle tidligere indrejser inden for det rullende 180-dages vindue og sammenligner summen med 90.
+Din anden og efterfølgende indrejser går hurtigere. I stedet for fuld registrering tjekker systemet dine oplysninger op mod din første registrering - det sammenligner dit ansigtsbillede med det gemte og bekræfter, at det er dig. Systemet registrerer igen din indrejsetid. Fordi hver ind- og udrejse er registreret, kan grænsebetjentene tjekke dine seneste rejser mod 90/180-reglen ved hver grænsepassage.
 
-Er du inden for din grænse, får du en almindelig indrejse og går videre. Er du over, advarer systemet betjenten, og du bliver afvist. Denne beregning sker ved hver grænsepassage, automatisk.
+Er dine datoer inden for reglen, forløber indrejsen som normalt. Viser de, at du har opholdt dig længere end tilladt, gør systemet det let for betjenten at se, og afvisning er sandsynlig. Beslutningen ligger stadig hos grænsebetjenten.
 
 ## Børn og biometrisk registrering
 
@@ -68,7 +68,7 @@ Dette er en meddelelse, der hører til overgangsperioden, og som er mest alminde
 
 ## Sådan holder du styr på dit vindue i praksis
 
-Den manuelle metode kommer først, fordi den er gratis og officiel: tag dagens dato og se 180 dage tilbage. Tæl hver dag, du fysisk befandt dig i et Schengenland i den periode – både ankomst- og afrejsedag tæller. Træk summen fra 90; det er, hvad du har tilbage lige nu. Fordi vinduet ruller, rykker beregningen sig en dag i morgen, hvilket er grunden til, at EU's beregner beder om hele din rejsehistorik i stedet for et enkelt tal.
+Har du allerede rejst under EES, er den hurtigste måde at tjekke det EU's EES-onlineværktøj, som viser, hvor mange dage du stadig må blive ifølge dit register. Vil du planlægge en rejse, eller tjekke registret mod dine egne optegnelser, kan du tælle selv: tag dagens dato og se 180 dage tilbage. Tæl hver dag, du fysisk befandt dig i et Schengenland i den periode – både ankomst- og afrejsedag tæller, mens dage på Cypern eller Irland ikke gør. Træk summen fra 90; det er, hvad du har tilbage i dag. Fordi ældre dage falder ud, når vinduet ruller, kan en længere fremtidig rejse nogle gange passe alligevel, hvilket er grunden til, at EU's beregner til korte ophold tjekker et planlagt ophold mod hele din rejsehistorik i stedet for et enkelt tal.
 
 For én person, der tager en ferie eller to om året, er det helt til at overskue. Det bliver sværere, når rejser overlapper, og personer bliver flere: en forretningsrejsende, der tager korte ture hver måned, eller en familie, hvor ét barn er på skoleudveksling, et andet har lejrophold, og en partner flyver hjem tidligere. Hver person har sit eget rullende vindue, og vinduerne stemmer ikke overens. Det er her, et sporingsværktøj holder op med at være en gadget og bliver måden, du undgår en dyr fejl på – vores [guide til visum- og indrejsesporing](https://traveldocumentvault.com/da/blog/visa-expiry-tracker-app/) dækker det bredere problem.
 
@@ -96,7 +96,7 @@ EES registrerer hver ind- og udrejse digitalt, så selv en kort overskridelse ma
 
 ### Kan jeg se, hvor mange Schengen-dage jeg har tilbage, efter jeg er rejst ind?
 
-Der findes i øjeblikket ingen offentlig portal, hvor rejsende kan slå deres eget EES-register eller resterende dage op. EES-data opbevares af grænsemyndighederne. Du skal selv holde styr på dit rullende 180-dages vindue, enten med EU's officielle beregner til korte ophold eller dine egne optegnelser.
+Ja. EU's EES-onlineværktøj, på den officielle hjemmeside Travel to Europe, viser, hvor mange dage du stadig må blive, og nogle ydre grænseovergange tilbyder samme tjek. Vil du planlægge en kommende rejse, skal du bruge EU's beregner til korte ophold med hele din rejsehistorik, og du bør selv føre optegnelser over dine ind- og udrejsedatoer, hvis systemets data er ufuldstændige.
 
 ### Skal jeg bruge visum eller rejseforsikring på grund af EES?
 

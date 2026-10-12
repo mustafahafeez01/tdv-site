@@ -1,6 +1,6 @@
 # EES registreert je 90 Schengendagen maar toont het aantal niet
 
-> EES registreert elke in- en uitreis automatisch, maar geen portaal toont je resterende dagen. Zo tel je je eigen 90/180-venster.
+> Hoeveel Schengendagen heb je nog? De EES-onlinetool van de EU laat ze nu zien. Zo check je het, en zo tel je je 90/180-venster voor je volgende reizen.
 
 Source: https://traveldocumentvault.com/nl/blog/schengen-90-days-auto-tracked-ees/
 
@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/nl/blog/schengen-90-days-auto-tracked-ee
 
 - **Paspoortstempels zijn verleden tijd.** Sinds 10 april 2026 registreert het EU-inreis-uitreissysteem (EES) alle Schengen-in- en uitreizen van niet-EU-reizigers digitaal, met vingerafdrukken en een gezichtsopname.
 - EES **detecteert nu automatisch overschrijdingen**. Reken op weigering bij je volgende inreis, en mogelijk een inreisverbod van één tot vijf jaar.
-- **EES handhaaft, het plant niet.** Geen enkel openbaar portaal toont je resterende dagen – het bijhouden van je voortschrijdende 90/180-venster blijft jouw taak.
+- **EES handhaaft, het plant niet.** De online EES-tool van de EU toont de dagen die je nog over hebt, maar of een toekomstige reis past binnen je voortschrijdende 90/180-venster, moet je nog altijd zelf uitrekenen.
 - De **officiële rekentool van de EU** voor kort verblijf werkt, maar is handmatig – één persoon, één venster, één berekening tegelijk.
 - Gezinnen hebben te maken met **een apart venster per persoon**. Precies daar bewijst dagteller-tracking in een app zijn waarde.
 
@@ -34,7 +34,7 @@ Wat wel is veranderd, is de handhaving. Bij paspoortstempels betekende het bewij
 
 ## De valkuil: EES handhaaft, het plant niet
 
-EES telt je dagen voor handhaving, maar vertelt je het aantal niet. Er is geen openbaar portaal waar je kunt inloggen en "47 dagen resterend" kunt zien; de app Travel to Europe regelt voorregistratie voordat je vliegt, geen dagentelling na aankomst. Het systeem registreert wat je hebt gedaan; voorspellen wat je nog kunt doen blijft volledig jouw eigen probleem.
+EES registreert je dagen voor handhaving, en de EU laat je nu zien waar je staat. De online EES-tool, op de officiële website Travel to Europe, toont het aantal dagen dat je nog mag blijven, en bij sommige buitengrensovergangen kun je dezelfde check doen. Wat je ziet, is je registratie tot nu toe. Of een reis die je nog niet hebt gemaakt erin past, moet je nog altijd zelf uitrekenen.
 
 De EU publiceert een officiële rekentool voor kort verblijf die het zeker waard is om te bookmarken. Je voert je vorige in- en uitreisdatums in, en de tool vertelt je of een gepland verblijf binnen je venster past. Dat werkt goed voor één reiziger die goede administratie bijhoudt. De wrijving ontstaat wanneer die administratie alleen in je geheugen zit, of wanneer je dezelfde oefening voor vier mensen tegelijk doet.
 
@@ -42,7 +42,7 @@ De EU publiceert een officiële rekentool voor kort verblijf die het zeker waard
 
 EES geldt niet voor iedereen. Het systeem registreert niet-EU-bezoekers die aankomen met de visumvrije kortverblijfregeling, en mensen met een kortverblijfvisum. Heb je de nationaliteit van de VS, het VK, Canada, Australië, of tientallen andere landen, dan geldt EES voor jou zodra je het Schengengebied binnenkomt.
 
-Ben je EU-, EER- of Zwitsers staatsburger, dan ben je vrijgesteld - je paspoort doorloopt geen speciale inreisprocedure, en EES registreert je in- en uitreizen niet. Heb je een langdurig visum (een jaar of langer), dan ontwijk je EES volledig, en het systeem volgt je bewegingen binnen het Schengengebied niet. Dit onderscheid is belangrijk, want je 90-dagenvenster loopt alleen af als EES je registreert.
+Ben je EU-, EER- of Zwitsers staatsburger, dan ben je vrijgesteld - je paspoort doorloopt geen speciale inreisprocedure, en EES registreert je in- en uitreizen niet. De officiële lijst met vrijstellingen is langer en omvat ook niet-EU-familieleden van EU-burgers die een verblijfskaart hebben. Vrijgesteld zijn van EES is overigens niet hetzelfde als vrijgesteld zijn van de 90/180-regel. Ben je een niet-EU-bezoeker op kort verblijf, dan geldt de regel voor jou, of een grens je nu al heeft geregistreerd of niet. Tijd die je doorbrengt in een Schengenland op basis van een verblijfsvergunning of een langdurig visum (type D) van dat land telt daar niet voor mee, maar korte bezoeken aan andere Schengenlanden tellen daar doorgaans nog wel voor mee, dus controleer dit bij de instantie die je vergunning heeft afgegeven.
 
 ## Wat er gebeurt bij je eerste EES-grensovergang
 
@@ -52,9 +52,9 @@ Na registratie legt het systeem de exacte datum en tijd van je inreis vast. Over
 
 ## Wat er verandert bij latere grensovergangen
 
-Je tweede en volgende inreizen verlopen sneller. In plaats van een volledige registratie controleert het systeem je gegevens aan de hand van je eerste registratie - het vergelijkt je gezichtsopname met de opgeslagen versie en bevestigt dat je dezelfde persoon bent. Het systeem legt opnieuw je inreistijd vast. EES maakt dan een optelling: het telt deze inreis op bij alle eerdere inreizen binnen het voortschrijdende venster van 180 dagen en vergelijkt het totaal met 90.
+Je tweede en volgende inreizen verlopen sneller. In plaats van een volledige registratie controleert het systeem je gegevens aan de hand van je eerste registratie - het vergelijkt je gezichtsopname met de opgeslagen versie en bevestigt dat je dezelfde persoon bent. Het systeem legt opnieuw je inreistijd vast. Omdat elke in- en uitreis wordt geregistreerd, kunnen grensambtenaren bij elke overgang je recente reizen toetsen aan de 90/180-regel.
 
-Zit je binnen je toegestane aantal dagen, dan krijg je een standaard inreis en ga je door. Zit je erboven, dan waarschuwt het systeem de ambtenaar, en krijg je te maken met weigering. Deze berekening gebeurt bij elke grensovergang, automatisch.
+Vallen je data binnen de regel, dan verloopt je inreis zoals gewoonlijk. Blijkt dat je langer bent gebleven dan is toegestaan, dan maakt het systeem dat voor de ambtenaar makkelijk zichtbaar, en is weigering waarschijnlijk. De beslissing blijft bij de grensambtenaar liggen.
 
 ## Kinderen en biometrische registratie
 
@@ -68,7 +68,7 @@ Dit is een bericht dat hoort bij deze overgangsperiode, en het komt het vaakst v
 
 ## Zo houd je je venster in de praktijk bij
 
-De handmatige methode komt eerst, omdat die gratis en officieel is: neem de datum van vandaag en kijk 180 dagen terug. Tel elke dag dat je fysiek in een Schengenland was in die periode – zowel aankomst- als vertrekdag tellen mee. Trek het totaal af van 90; dat is wat je nu nog over hebt. Omdat het venster voortschrijdt, verschuift de berekening morgen met een dag, en daarom vraagt de rekentool van de EU om je volledige reisgeschiedenis in plaats van één getal.
+Heb je al onder EES gereisd, dan is de snelste check de online EES-tool van de EU, die aan de hand van je registratie laat zien hoeveel dagen je nog over hebt. Wil je een reis plannen, of die registratie naast je eigen gegevens leggen, tel dan handmatig: neem de datum van vandaag en kijk 180 dagen terug. Tel elke dag dat je fysiek in een Schengenland was in die periode – zowel aankomst- als vertrekdag tellen mee, en dagen in Cyprus of Ierland niet. Trek het totaal af van 90; dat is wat je vandaag nog over hebt. Omdat oudere dagen uit het venster vallen terwijl het voortschrijdt, past een langere toekomstige reis soms toch, en daarom toetst de rekentool van de EU voor kort verblijf een gepland verblijf aan je volledige reisgeschiedenis in plaats van aan één getal.
 
 Voor iemand die één of twee keer per jaar op vakantie gaat, is dat prima te overzien. Het wordt lastiger wanneer reizen overlappen en er meer mensen bijkomen: een zakenreiziger die elke maand korte tripjes maakt, of een gezin waarin het ene kind op schooluitwisseling is, het andere zomerkampdata heeft, en een partner eerder naar huis vliegt. Iedereen heeft zijn eigen voortschrijdende venster, en die vensters lopen niet gelijk. Dit is het moment waarop een trackingtool ophoudt een gadget te zijn en wordt hoe je een dure fout voorkomt – onze [gids over visum- en inreistracking](https://traveldocumentvault.com/nl/blog/visa-expiry-tracker-app/) behandelt het bredere vraagstuk.
 
@@ -96,7 +96,7 @@ EES registreert elke in- en uitreis digitaal, dus zelfs een korte overschrijding
 
 ### Kan ik zien hoeveel Schengendagen ik nog over heb na inreis?
 
-Er is momenteel geen openbaar portaal waar reizigers hun eigen EES-registratie of resterende dagen kunnen opzoeken. EES-gegevens worden beheerd door grensautoriteiten. Je moet zelf je voortschrijdende venster van 180 dagen bijhouden, met de officiële rekentool van de EU voor kort verblijf of met je eigen administratie.
+Ja. De online EES-tool van de EU, op de officiële website Travel to Europe, toont het aantal dagen dat je nog mag blijven, en bij sommige buitengrensovergangen kun je dezelfde check doen. Wil je een toekomstige reis plannen, gebruik dan de rekentool van de EU voor kort verblijf met je volledige reisgeschiedenis, en houd je eigen overzicht van in- en uitreisdatums bij voor het geval de gegevens van het systeem onvolledig zijn.
 
 ### Heb ik door EES een visum of reisverzekering nodig?
 

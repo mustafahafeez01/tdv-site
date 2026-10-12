@@ -26,7 +26,7 @@ Your [passport and visa](https://traveldocumentvault.com/blog/visa-vs-passport/)
 
 ### Proof of onward travel
 
-A surprising number of countries want evidence that you plan to leave, and a return flight, an onward booking to another country, or even a coach or ferry ticket will usually do, so keep a printout or digital copy in your carry-on to avoid delays at immigration.
+Many destinations want evidence that you plan to leave, usually a return flight or a ticket on to another country. Our guide to [proof of onward travel](https://traveldocumentvault.com/blog/proof-of-onward-travel/) covers what counts, why the airline often asks first, and what to do on a one-way ticket.
 
 ### Accommodation confirmations
 
@@ -132,6 +132,8 @@ Yes. Store encrypted offline copies on your phone - not in your camera roll or c
 Forgetting your passport means you cannot board. For missing supporting documents, the outcome varies: a missing vaccination certificate might allow you to rebook and return home to obtain it, whilst a missing consent letter can result in denied boarding for your child. Some destinations offer visa-on-arrival, but most supporting documents cannot be obtained at borders. Always verify requirements 2-3 weeks before departure.
 
 ## Related Articles
+
+[Travel Documents7 min readProof of Onward Travel: What Actually Counts](https://traveldocumentvault.com/blog/proof-of-onward-travel/)
 
 [Travel Documents6 min readNational ID Card for Travel: When It Is Enough](https://traveldocumentvault.com/blog/national-id-card-travel-europe/)
 

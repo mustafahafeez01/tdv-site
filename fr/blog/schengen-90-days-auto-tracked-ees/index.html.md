@@ -1,6 +1,6 @@
 # Votre fenêtre Schengen de 90 jours — Compter les jours à l'ère du EES
 
-> L'EES enregistre désormais vos jours Schengen automatiquement. Comment marche la règle 90/180 et ce que le système ne vous dit pas.
+> Combien de jours Schengen vous reste-t-il ? L'EES les affiche maintenant en ligne. Voici comment vérifier et calculer votre fenêtre 90/180.
 
 Source: https://traveldocumentvault.com/fr/blog/schengen-90-days-auto-tracked-ees/
 
@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/fr/blog/schengen-90-days-auto-tracked-ee
 
 - **Les tampons des passeports ont disparu.** Depuis le 10 avril 2026, le système d'entrée/sortie de l'UE enregistre numériquement les entrées et sorties Schengen de chaque voyageur non-UE, avec les empreintes digitales et une image faciale.
 - Le EES détecte désormais **les dépassements automatiquement**. Attendez-vous à un refus à votre prochaine entrée, et possiblement à une interdiction d'entrée de un à cinq ans.
-- **Le EES applique, il ne planifie pas.** Aucun portail public ne montre les jours restants — compter votre fenêtre glissante 90/180 est toujours votre responsabilité.
+- **Le EES applique, il ne planifie pas.** L'outil en ligne du EES de l'UE indique les jours qu'il vous reste, mais déterminer si un futur voyage s'inscrit dans votre fenêtre glissante 90/180 reste votre responsabilité.
 - La **calculatrice officielle de court séjour** de l'UE fonctionne, mais elle est manuelle — une personne, une fenêtre, un calcul à la fois.
 - Les familles jonglent avec **une fenêtre séparée par personne**. C'est là que le suivi des limites de jours dans une application trouve sa place.
 
@@ -34,7 +34,7 @@ Ce qui a changé, c'est l'application. Avec les tampons de passeport, prouver un
 
 ## Le hic: le EES applique, il ne planifie pas
 
-Le EES compte vos jours pour l'application, mais il ne vous dit pas le nombre. Il n'existe aucun portail public où vous pouvez vous connecter et voir "47 jours restants"; l'application Travel to Europe gère la pré-enregistrement avant votre vol, pas les comptages de jours après votre arrivée. Le système enregistre ce que vous avez fait; prévoir ce que vous pouvez encore faire reste entièrement votre problème.
+Le EES enregistre vos jours pour l'application de la règle, et l'UE vous permet désormais de voir où vous en êtes. Son outil en ligne, sur le site officiel Travel to Europe, indique le nombre de jours qu'il vous reste à séjourner, et certains postes-frontières extérieurs proposent la même vérification. Ce qu'il montre, c'est votre relevé jusqu'à présent. Déterminer si un voyage que vous n'avez pas encore effectué s'inscrira dans votre fenêtre reste votre responsabilité.
 
 L'UE publie une calculatrice officielle de court séjour qui vaut vraiment la peine d'être mise en signet. Vous entrez vos dates d'entrée et de sortie passées, et elle vous indique si un séjour prévu s'inscrit dans votre fenêtre. Elle fonctionne bien pour une personne qui tient de bons dossiers. Les frictions apparaissent quand les dossiers vivent dans votre mémoire, ou quand vous faites l'exercice pour quatre personnes à la fois.
 
@@ -42,7 +42,7 @@ L'UE publie une calculatrice officielle de court séjour qui vaut vraiment la pe
 
 Le EES ne concerne pas tout le monde. Le système enregistre les visiteurs non-UE qui arrivent avec l'autorisation de court séjour sans visa, ainsi que les titulaires de visas de court séjour. Si vous êtes citoyen des États-Unis, du Royaume-Uni, du Canada, de l'Australie, ou de dizaines d'autres pays, le EES s'applique à vous dès que vous entrez dans l'espace Schengen.
 
-Si vous êtes citoyen de l'UE, de l'EEE ou de la Suisse, vous en êtes exempté - votre passeport ne fait l'objet d'aucune procédure d'entrée particulière, et le EES n'enregistre pas vos entrées et sorties. De même, si vous détenez un visa de long séjour (un an ou plus), vous échappez entièrement au EES, et le système ne suit pas vos déplacements à l'intérieur de l'espace Schengen. Cette distinction compte, car votre fenêtre de 90 jours ne diminue que si le EES vous enregistre.
+Si vous êtes citoyen de l'UE, de l'EEE ou de la Suisse, vous en êtes exempté - votre passeport ne fait l'objet d'aucune procédure d'entrée particulière, et le EES n'enregistre pas vos entrées et sorties. La liste officielle des exemptions est plus longue, et elle inclut les membres de la famille non-UE de citoyens de l'UE titulaires d'une carte de séjour. Être exempté du EES n'équivaut cependant pas à être exempté de la règle 90/180. Si vous êtes un visiteur non-UE en court séjour, la règle s'applique, qu'une frontière vous ait déjà enregistré ou non. Le temps passé dans un pays Schengen au titre d'un titre de séjour ou d'un visa de long séjour (type D) délivré par ce pays ne compte pas dans ce calcul, mais les courts séjours effectués dans d'autres pays Schengen comptent généralement, donc vérifiez auprès de l'autorité qui a délivré votre titre.
 
 ## Ce qui se passe lors de votre premier passage EES
 
@@ -52,9 +52,9 @@ Une fois enregistré, le système note la date et l'heure exactes de votre entr�
 
 ## Ce qui change lors des passages suivants
 
-Vos entrées suivantes se déroulent plus vite. Au lieu d'un enregistrement complet, le système vérifie vos informations par rapport à votre dossier initial - en comparant votre image faciale à celle enregistrée et en confirmant qu'il s'agit bien de vous. Le système enregistre à nouveau l'heure de votre entrée. Le EES effectue alors un décompte: il ajoute cette entrée à toutes les entrées précédentes dans la fenêtre glissante de 180 jours et compare le total à 90.
+Vos entrées suivantes se déroulent plus vite. Au lieu d'un enregistrement complet, le système vérifie vos informations par rapport à votre dossier initial - en comparant votre image faciale à celle enregistrée et en confirmant qu'il s'agit bien de vous. Le système enregistre à nouveau l'heure de votre entrée. Comme chaque entrée et sortie est enregistrée, les agents frontaliers peuvent vérifier vos voyages récents au regard de la règle 90/180 à chaque passage.
 
-Si vous êtes dans les limites de votre autorisation, vous recevez une entrée standard et passez. Si vous les dépassez, le système alerte l'agent, et vous serez refusé. Ce calcul a lieu à chaque passage, automatiquement.
+Si vos dates respectent la règle, l'entrée se déroule normalement. Si elles montrent que vous êtes resté plus longtemps que permis, le système le signale clairement à l'agent, et un refus est probable. La décision reste toujours celle de l'agent frontalier.
 
 ## Les enfants et l'enregistrement biométrique
 
@@ -68,7 +68,7 @@ Il s'agit d'un message propre à la période de transition, le plus fréquent lo
 
 ## Comment suivre votre fenêtre en pratique
 
-La méthode manuelle vient en premier, car elle est gratuite et officielle: prenez la date d'aujourd'hui et remontez 180 jours. Comptez chaque jour où vous étiez physiquement à l'intérieur d'un pays Schengen pendant cette période — les jours d'arrivée et de départ comptent tous les deux. Soustrayez le total de 90; c'est ce qu'il vous reste en ce moment. Parce que la fenêtre glisse, demain le calcul se décale d'un jour, ce qui est pourquoi la calculatrice de l'UE demande l'historique complet de vos voyages plutôt qu'un seul chiffre.
+Si vous avez déjà voyagé sous le régime du EES, la vérification la plus rapide est l'outil en ligne du EES, qui indique, d'après votre dossier, les jours qu'il vous reste. Pour planifier un voyage, ou pour comparer ce relevé au vôtre, comptez à la main: prenez la date d'aujourd'hui et remontez 180 jours. Comptez chaque jour où vous étiez physiquement à l'intérieur d'un pays Schengen pendant cette période - les jours d'arrivée et de départ comptent tous les deux, et les jours passés à Chypre ou en Irlande ne comptent pas. Soustrayez le total de 90; c'est ce qu'il vous reste aujourd'hui. Parce que les jours les plus anciens sortent de la fenêtre au fur et à mesure qu'elle glisse, un futur voyage plus long peut parfois s'inscrire, ce qui explique pourquoi la calculatrice de court séjour de l'UE vérifie un séjour prévu par rapport à l'historique complet de vos voyages plutôt qu'à un seul chiffre.
 
 Pour une personne prenant une vacances ou deux par an, c'est tout à fait gérable. Cela devient plus difficile quand les voyages se chevauchent et que les gens se multiplient: un voyageur d'affaires faisant de courts sauts chaque mois, ou une famille où un enfant est en échange scolaire, un autre a des dates de camp d'été, et un partenaire rentre plus tôt. Chaque personne porte sa propre fenêtre glissante, et les fenêtres ne s'alignent pas. C'est la situation où un outil de suivi cesse d'être un gadget et commence à être comment vous évitez une erreur coûteuse — notre [guide du suivi des visas et des entrées](https://traveldocumentvault.com/fr/blog/visa-expiry-tracker-app/) couvre le problème plus largement.
 
@@ -96,7 +96,7 @@ Le EES enregistre chaque entrée et sortie numériquement, de sorte que même un
 
 ### Puis-je vérifier combien de jours Schengen il me reste après mon entrée?
 
-Il n'existe actuellement aucun portail public où les voyageurs peuvent consulter leur propre dossier EES ou les jours restants. Les données du EES sont détenues par les autorités frontalières. Vous devez suivre votre propre fenêtre glissante de 180 jours, soit avec la calculatrice officielle de court séjour de l'UE, soit avec vos propres enregistrements.
+Oui. L'outil en ligne du EES, sur le site officiel Travel to Europe, indique le nombre de jours qu'il vous reste à séjourner, et certains postes-frontières extérieurs proposent la même vérification. Pour planifier un futur voyage, utilisez la calculatrice officielle de court séjour de l'UE avec l'historique complet de vos voyages, et conservez votre propre relevé des dates d'entrée et de sortie au cas où les données du système seraient incomplètes.
 
 ### Ai-je besoin d'un visa ou d'une assurance voyage en raison du EES?
 

@@ -138,6 +138,8 @@ Yes. ETIAS is not yet mandatory. While ETIAS is not yet required, visa-exempt tr
 
 ## Related Articles
 
+[Travel Documents7 min readProof of Onward Travel: What Actually Counts](https://traveldocumentvault.com/blog/proof-of-onward-travel/)
+
 [Travel Rules6 min read · Sep 8UK ETA: Which Passport Is Yours Tied To?](https://traveldocumentvault.com/blog/uk-eta-passport-rules/)
 
 [Renewal5 min read · Mar 21Visa Expiry Tracker App: What to Look For](https://traveldocumentvault.com/blog/visa-expiry-tracker-app/)

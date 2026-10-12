@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
+[旅行证件后续行程证明：到底什么才算数后续行程证明通常是指一张预订好的离境机票。本文说明什么算数，航空公司为什么会在边境之前先问，以及持单程机票出行时该怎么办。2026年10月12日7 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/proof-of-onward-travel/)
+
+##
+
 [旅行证件国民身份证能当旅行证件吗？什么时候够用在欧盟和欧洲经济区内，有效的国民身份证通常就是完整的旅行证件。什么时候身份证就够用，什么时候该带护照，以及两者为何各走各的到期时钟。2026年10月5日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-europe/)
 
 ##

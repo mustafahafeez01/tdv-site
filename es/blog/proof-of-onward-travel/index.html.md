@@ -1,110 +1,101 @@
-# Prueba de continuación de viaje: qué cuenta realmente
+# Prueba de Viaje de Continuación: Qué Cuenta Realmente
 
-> La prueba de continuación de viaje varía según la aerolínea y el destino. Descubre qué cuenta y qué hacer si viajas con billete solo de ida.
+> La prueba de viaje de continuación suele ser un billete de salida del país. Qué cuenta, por qué la pide la aerolínea y qué hacer con un billete de ida.
 
 Source: https://traveldocumentvault.com/es/blog/proof-of-onward-travel/
 
 ---
 
-## Puntos Clave
+![Un padre y su hijo junto a una ventana del aeropuerto sujetando un pasaporte con un billete de avión guardado dentro, mirando un avión antes de un viaje](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
 
-- **El control de la aerolínea y el control fronterizo responden preguntas distintas.** Una aerolínea se protege a sí misma frente a responsabilidad. Un agente fronterizo decide si te admite.
-- La prueba de continuación de viaje suele ser un vuelo de vuelta, un vuelo de continuación, o una reserva de hotel que implique continuar el viaje.
-- Un billete solo de ida no significa automáticamente que te denieguen el embarque. A la aerolínea solo le importa si puedes entrar y salir de tu destino por tus propios medios.
-- Lo que cuenta como prueba varía según la aerolínea y el destino. Algunas aceptan reservas de hotel, otras exigen solo billetes. Comprueba antes de viajar.
-- Si te deniegan el embarque, puedes reservar un vuelo de continuación en el momento o reclamar a la aerolínea.
-- Travel Document Vault guarda tus billetes de avión y reservas de hotel en tu dispositivo, cifrados y sin conexión — para mostrar la prueba en la puerta de embarque incluso sin cobertura.
+## Puntos clave
 
-La prueba de continuación de viaje es una pregunta con dos interlocutores distintos, y saber cuál tienes delante resuelve casi todo el asunto. La aerolínea en el mostrador y el agente en la frontera quieren cosas distintas, por razones distintas, y un documento que satisface a uno no satisface automáticamente al otro.
+- **La prueba de viaje de continuación suele ser un billete reservado para salir del país al que vuelas,** ya sea de vuelta a casa o hacia un país al que puedas entrar.
+- Dos controles distintos la piden. La aerolínea comprueba antes de que embarques porque, por lo general, es responsable de llevarte de vuelta si te deniegan la entrada. El funcionario de fronteras decide si te admite.
+- Algunos destinos incluyen el viaje de continuación en sus normas de entrada para visitantes, así que cuando la aerolínea lo pide, a menudo solo está aplicando antes la norma del destino.
+- Una reserva de hotel o un extracto bancario responden a preguntas distintas, dónde te vas a alojar y cómo vas a mantenerte, y normalmente no sustituyen a un billete de salida.
+- Guarda la confirmación en un sitio donde puedas abrirla en el mostrador sin cobertura ni tener que iniciar sesión.
 
-La respuesta es menos directa que la norma en sí. Las aerolíneas piden prueba de continuación de viaje sobre todo para evitar el coste de traerte de vuelta si no puedes entrar en tu destino — no para vigilar tu itinerario. Ese motivo cambia lo que realmente les preocupa — y casi nunca es lo que piensan los viajeros preocupados.
+En la mayoría de los casos, la prueba de viaje de continuación es un billete reservado para salir del país al que vuelas. Cuenta un vuelo de vuelta a casa, y también un billete hacia un tercer país al que puedas entrar. Si ya tienes alguno de los dos, tienes lo que normalmente se pide.
 
-## Qué es la prueba de continuación de viaje, y quién la pide de verdad
+El resto de esta guía cubre los casos menos claros: un viaje solo de ida hecho a propósito, un plan sin fecha de vuelta, o una pregunta inesperada en el mostrador. Casi todo se reduce a saber quién pregunta, y por qué.
 
-La prueba de continuación de viaje es la evidencia de que has organizado una forma de salir del país de destino. Puede ser un vuelo de vuelta a casa, un vuelo de continuación a un tercer país, o una reserva de hotel que se extienda lo suficiente como para indicar que planeas marcharte.
+## Qué es la prueba de viaje de continuación y quién la pide en realidad
 
-La aerolínea pide esta prueba antes de embarcarte para protegerse de su propia responsabilidad. Si embarcas y la inmigración se niega a dejarte entrar, la aerolínea suele ser responsable de traerte de vuelta a casa. Una reserva que muestre que puedes permitirte quedarte en algún sitio y marcharte después es, para la aerolínea, la garantía de que no te convertirás en su problema financiero.
+La prueba de viaje de continuación demuestra que has organizado una forma de salir de tu destino antes de que termine tu estancia permitida. Dos personas distintas pueden pedírtela, y lo hacen por motivos diferentes.
 
-Ese es el cálculo completo: no si tu viaje es legal ni si la frontera aceptará tus documentos, sino si tienes organizado el dinero suficiente para evitar quedarte atrapado indefinidamente.
+Una es la aerolínea, en el check-in o en la puerta de embarque. Si transporta a un pasajero al que luego se le deniega la entrada, la aerolínea normalmente es responsable de llevarlo de vuelta, y a su propio coste. Por eso, antes de que embarques, la aerolínea comprueba que parezcas cumplir las normas de entrada de tu destino.
+
+La otra es el funcionario de fronteras cuando aterrizas. Su trabajo es decidir si te admite, y en algunos lugares la prueba de que vas a salir forma parte de esa decisión.
 
 ## Qué suele contar como prueba
 
-Los detalles varían según la aerolínea y el destino: algunas aceptan una reserva de hotel como prueba, otras insisten en un billete de vuelo de continuación, y unas pocas piden extractos bancarios para demostrar que tienes fondos para salir si cambian las circunstancias.
+Un billete confirmado para salir del país es la forma más reconocida. Puede ser un vuelo de vuelta o un vuelo hacia un tercer país. Lo importante es que salga antes de que termine tu estancia permitida y que vaya a un sitio al que puedas entrar.
 
-Una **reserva de vuelo de continuación o de vuelta** es la prueba más directa. Mostrar a la aerolínea tu billete para un vuelo que sale de tu país de destino es una prueba inequívoca de que has organizado una salida. Esto es lo que prefieren la mayoría de las compañías.
+La guía para visitantes de Immigration New Zealand (el servicio de inmigración de Nueva Zelanda) da una buena idea del abanico de opciones. Incluye billetes confirmados o de fecha abierta para salir del país, o una confirmación por escrito de una aerolínea o agencia de viajes de que el viaje de continuación está reservado y pagado. Los viajeros de negocios también pueden usar una carta de su empresa que garantice que se organizará el viaje de continuación. Otros destinos tienen sus propias listas, y no todas coinciden.
 
-Una **reserva de hotel** que termine bastante antes de que caduque cualquier visado también puede funcionar, porque la fecha de fin sugiere tu salida prevista. Las aerolíneas lo interpretan así, aunque no son muy meticulosas al respecto — simplemente asumen que te marchas cuando llega la fecha de salida del hotel.
+Una **reserva de hotel** y un **extracto bancario** también aparecen a menudo, pero responden a preguntas distintas. Uno muestra dónde te vas a alojar, y el otro que puedes pagarte el viaje. Un funcionario de fronteras puede pedir cualquiera de los dos, aunque normalmente ninguno sustituye a un billete de salida.
 
-Algunas compañías también aceptan **cartas de trabajo o contratos de alquiler** que muestren que te trasladas al país, o **extractos bancarios** que demuestren que tienes ahorros para mantenerte si cambian los planes de viaje. Lo que importa no es que tu prueba sea inatacable, sino si es suficiente para convencer a la aerolínea de que no eres un riesgo de quedarte varado.
+## El control de la aerolínea y el control de frontera no son lo mismo
 
-## El control de la aerolínea y el control fronterizo no son lo mismo
+La aerolínea quiere saber si es probable que te denieguen la entrada al llegar, lo que le dejaría a ella el coste de llevarte de vuelta. El funcionario de fronteras pregunta algo relacionado pero distinto: si cumples las condiciones de entrada del país. Las dos preguntas se solapan, pero no son la misma pregunta.
 
-Aquí es donde empieza la confusión, porque la aerolínea comprueba una cosa y el agente fronterizo comprueba algo completamente distinto. Entender la diferencia entre ambos importa más que entender la norma en sí.
+Se solapan en las propias normas del destino. El Código de Fronteras Schengen, por ejemplo, incluye un billete de vuelta o de ida y vuelta entre los documentos que un guardia de frontera puede pedirle a un visitante. Nueva Zelanda exige que los visitantes tengan medios para salir del país. Cuando un destino funciona así, que la aerolínea lo pida en el check-in suele significar que solo está aplicando unas horas antes la norma del destino, no inventándose una propia.
 
-**La aerolínea se pregunta:** «¿se quedará este pasajero varado en mi destino y se convertirá en mi problema financiero?» Su preocupación es puramente económica — ¿puedes permitirte salir?
+Los controles tampoco cubren lo mismo. Que la aerolínea acepte tu billete de continuación no significa que haya verificado el resto de tu entrada, como la validez del pasaporte o un [visado que puedas necesitar](https://traveldocumentvault.com/es/blog/visa-vs-passport/). Puede que el funcionario de fronteras ni siquiera pregunte por el viaje de continuación. Para ver el conjunto completo de documentos que conviene llevar, consulta nuestra guía sobre [qué documentos llevar al viajar internacionalmente](https://traveldocumentvault.com/es/blog/what-documents-to-carry-when-travelling-internationally/).
 
-**El agente fronterizo se pregunta:** «¿cumple esta persona los requisitos de entrada de mi país, y supone un riesgo de seguridad?» Su preocupación es legal — ¿tienes derecho a estar aquí?
+**Travel Document Vault** guarda tus billetes de avión y tus reservas de hotel en tu dispositivo, cifrados y accesibles sin cobertura — para que puedas mostrar la prueba en la puerta de embarque siempre que te la pidan. [Descárgala en la App Store](https://apps.apple.com/app/travel-document-vault/id6757014877?ct=blog&mt=8) y en [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault&referrer=utm_source%3Dtraveldocumentvault.com%26utm_medium%3Dweb%26utm_content%3Dblog).
 
-No son la misma pregunta. Podrías tener una prueba de continuación de viaje perfecta y aun así ver denegada la entrada si tu pasaporte no cumple los requisitos de validez del destino, si te falta un [visado que deberías haber obtenido](https://traveldocumentvault.com/es/blog/visa-vs-passport/), o si estás señalado en una base de datos de inmigración. Al contrario, un agente fronterizo convencido de que tienes derecho a entrar podría no pedirte nunca prueba de continuación de viaje.
+## Si viajas con un billete solo de ida a propósito
 
-La aerolínea es tu primer control. Si cree que eres un riesgo de quedarte varado, se niega a embarcarte antes incluso de que llegues a inmigración. El agente fronterizo es el segundo. Si subes al avión, comprueba tus documentos y tus antecedentes — y su decisión se basa en la ley, no en tu capacidad de comprar un billete de continuación.
+Un billete solo de ida no es un problema en sí mismo. Las normas de viaje de continuación suelen estar pensadas para visitantes. Si te mudas al extranjero con un visado que te permite vivir o trabajar allí, ese visado en la mayoría de los casos cumple la función que cumpliría un billete de continuación. Tenlo a mano en el check-in, junto con cualquier carta que lo acompañara.
 
-Esa diferencia cambia lo que realmente necesitas hacer para pasar ambos controles. La prueba de continuación de viaje es sobre todo asunto de la aerolínea, así que resolverla bien es lo que te permite subir al avión, aunque no garantiza que la frontera te deje entrar. Para las cuestiones fronterizas, como la validez del pasaporte y los requisitos de visado, consulta nuestra guía sobre [qué documentos llevar al viajar internacionalmente](https://traveldocumentvault.com/es/blog/what-documents-to-carry-when-travelling-internationally/).
+Si vas de visita con un plan sin fecha fija, las opciones más honestas son las más sencillas. Reserva el viaje de continuación que realmente piensas hacer. Si tus fechas no están fijadas, una tarifa que te permita cambiar la fecha mantiene un plan real flexible sin convertirlo en ficción.
 
-**Travel Document Vault** guarda tus billetes de avión y reservas de hotel en tu dispositivo, cifrados y accesibles sin conexión — para que puedas mostrar la prueba en la puerta de embarque siempre que te la pidan. [Descárgala en la App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) y en [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault).
+Lo que nosotros evitaríamos es un billete que nunca piensas usar, comprado solo para mostrarlo en el mostrador. Presentarlo a un funcionario de fronteras como tu plan puede equivaler a falsear tus intenciones, lo que es un problema mucho mayor que no tener una reserva.
 
-## Si viajas a propósito con billete solo de ida
+## Si te la piden y no puedes mostrarla
 
-Un billete solo de ida no significa automáticamente que la aerolínea te vaya a rechazar. La pregunta para la aerolínea no es «¿es esto solo ida?» sino «¿puede este pasajero permitirse salir si se queda atrapado?».
+Si un agente te la pide y no tienes nada que mostrar, recuerda que trabaja según las normas de entrada del destino. La respuesta más útil suele ser darle algo que esas normas reconozcan.
 
-Si te vas a vivir fuera, probablemente tengas un plan: una oferta de trabajo, un contrato de alquiler, un visado, o ahorros suficientes. Esto no es prueba de continuación de viaje en el sentido que le da la aerolínea, pero sí es evidencia de que te mudas de forma deliberada, no de que llegas sin nada esperando que salga bien.
+En la práctica, eso suele significar reservar el viaje de continuación en ese momento, desde el móvil o en el mostrador de la aerolínea. Puede costar más si lo haces con tan poca antelación, y esa es la principal razón para resolverlo la noche anterior. Si una agencia de viajes reservó tu viaje de continuación, su confirmación por escrito puede servir donde el destino la acepte.
 
-Lo que no debes hacer es tergiversar tus intenciones de viaje ante la aerolínea. La tentación es reservar un billete de continuación desechable, que nunca piensas usar. Las condiciones de transporte de muchas aerolíneas lo prohíben, y presentarlo como un plan real tergiversa tus intenciones ante un agente fronterizo. Si la aerolínea descubre que reservaste un billete que cancelaste o nunca usaste, puede negarte reservas futuras. Si un agente fronterizo descubre que tergiversaste tus planes de viaje, las consecuencias son peores.
+La decisión en el mostrador la toma la aerolínea. Si no puedes resolverlo allí, tendrás que reservar de nuevo en cuanto tengas lo que pide el destino.
 
-Las alternativas prácticas son las genuinas. Reserva un trayecto de continuación real que pienses hacer (incluso un vuelo económico semanas después si de verdad estás explorando), aporta prueba de capacidad financiera con una reserva de hotel o una carta de oferta de trabajo, o muestra extractos bancarios que demuestren que tienes ahorros. No son engaños — son la documentación de tu plan real.
+## Cómo tener la reserva a mano cuando la necesitas
 
-## Si te la piden y no puedes presentarla
+Una reserva que no puedes abrir es tan inútil como no tener reserva. La petición suele llegar en el check-in o en la puerta de embarque, que es a menudo donde la cobertura es irregular y una aplicación te pide que inicies sesión de nuevo.
 
-La mayoría de las veces, nadie pregunta por la continuación de viaje, así que embarcas sin que surja nunca el tema. Pero si llegas a la puerta de embarque y un agente sí te la pide, la conversación suele tomar uno de dos caminos.
+Guarda una copia sin conexión de la confirmación: un PDF, una captura de pantalla con la referencia de la reserva y las fechas, o una copia en una aplicación que funcione sin conexión. Travel Document Vault guarda los billetes de avión y las reservas de hotel en tu dispositivo, cifrados y disponibles sin conexión. La confirmación está ahí en el mostrador, tengas o no cobertura. Nuestra [lista de verificación de documentos de viaje](https://traveldocumentvault.com/es/blog/travel-document-checklist/) cubre el resto de lo que conviene tener listo.
 
-**Te ofreces a reservar un vuelo en el momento.** Esto puede salir caro a última hora y añade un vuelo que no habías planeado. Pero normalmente resuelve la preocupación de la aerolínea. También puedes pedir a la aerolínea que renuncie al requisito si puedes demostrar capacidad financiera — una conversación con un agente en el aeropuerto, aunque no está garantizado que funcione.
+## Preguntas frecuentes
 
-**Decides insistir.** La aerolínea puede negarse a embarcarte, y está en su derecho. No puedes obligarla a dejarte subir al avión. Entonces tendrías que reservar un vuelo de continuación para llegar a tu destino de otra manera.
+### ¿Qué prueba de viaje de continuación acepta realmente una aerolínea?
 
-A la aerolínea le interesa dejarte embarcar si puedes demostrar que no eres un riesgo de quedarte varado, pero la norma sigue existiendo y la siguen aplicando. Si viajas con billete solo de ida, prevé esta posibilidad.
+Lo más habitual es un billete confirmado para salir de tu destino, ya sea de vuelta a casa o hacia un tercer país al que puedas entrar. Algunos destinos también aceptan otras pruebas, como la confirmación por escrito de una agencia de viajes de que el viaje de continuación está reservado y pagado. La aerolínea aplica las normas del destino, así que compruébalas para tu viaje.
 
-## Mantener la reserva accesible cuando la necesitas
+### ¿Puedo usar una reserva de hotel como prueba de viaje de continuación?
 
-Si reservas un vuelo de continuación o una reserva de hotel para satisfacer la exigencia de una aerolínea, asegúrate de poder acceder a ella fácilmente cuando te la pidan. La mayoría de las aerolíneas comprueban en la puerta de embarque, delante de un agente, no días antes.
+Una reserva de hotel normalmente no sirve por sí sola. Muestra dónde te vas a alojar, algo que un funcionario de fronteras también puede preguntarte, pero no cómo vas a salir. Si tu destino pide prueba de viaje de continuación, cuenta con un billete de salida.
 
-Si tu reserva solo está en un correo electrónico enterrado en tu bandeja de entrada, o solo es accesible mediante un inicio de sesión que requiere conexión, podrías encontrarte sin poder presentar la prueba aunque la reserva exista. Esto pasa más a menudo de lo que esperan los viajeros.
+### ¿Qué pasa si no tengo prueba de viaje de continuación?
 
-**Haz capturas de pantalla de tus reservas, guárdalas como PDF, o usa una aplicación** que las almacene y no requiera conexión a internet. Travel Document Vault guarda tus billetes de avión y reservas de hotel y los hace accesibles en tu dispositivo sin conexión — útil si estás en la puerta de embarque y tu teléfono no tiene cobertura. Consulta nuestra guía para [mantener tus documentos de viaje organizados y accesibles](https://traveldocumentvault.com/es/blog/travel-document-checklist/).
+Si te la piden en el check-in y no tienes nada que mostrar, la solución habitual es reservar el viaje de continuación en ese momento. Eso puede costar más con tan poca antelación. La decisión de dejarte embarcar la toma la aerolínea, así que conviene resolverlo antes de llegar al aeropuerto.
 
-## Preguntas Frecuentes
+### ¿Es un problema un billete solo de ida?
 
-### ¿Qué prueba de continuación de viaje acepta realmente una aerolínea?
+Un billete solo de ida no es un problema en sí mismo, porque las normas de viaje de continuación suelen estar dirigidas a los visitantes. Si te mudas con un visado que te permite vivir o trabajar en el país, ese visado normalmente resuelve la cuestión. Si vas de visita, un viaje de continuación reservado que realmente piensas hacer es la respuesta más sencilla.
 
-Esto varía según la aerolínea y el destino. La mayoría acepta un billete de vuelo de continuación o de vuelta. Algunas aceptan una reserva de hotel. Unas pocas piden extractos bancarios o una carta del empleador. Comprueba con tu aerolínea concreta antes de viajar.
+### ¿Necesito prueba de viaje de continuación para la frontera?
 
-### ¿Puedo usar una reserva de hotel como prueba de continuación de viaje?
-
-Sí, si la aerolínea la acepta. Una reserva de hotel que termina antes de que se agote tu estancia permitida es una prueba de que planeas marcharte. No todas las aerolíneas la aceptan — algunas exigen específicamente un billete de avión — así que confirma con tu compañía antes de reservar.
-
-### ¿Qué pasa si no tengo prueba de continuación de viaje?
-
-Puedes ofrecerte a reservar un vuelo en el momento, pedir a la aerolínea que renuncie al requisito si puedes demostrar capacidad financiera, o aceptar que quizá no te dejen embarcar. La aerolínea tiene derecho a denegar el embarque.
-
-### ¿Es un problema tener un billete solo de ida?
-
-No en sí mismo. A la aerolínea no le preocupa si tienes un billete solo de ida, sino si tienes medios para salir en caso de no poder entrar en tu destino. Si puedes demostrarlo — con una reserva de continuación, una oferta de trabajo, una reserva de hotel, o un extracto bancario — normalmente no te pedirán nada más.
-
-### ¿Necesito prueba de continuación de viaje para la frontera?
-
-Probablemente no. Los agentes fronterizos suelen centrarse en requisitos de entrada como la validez del pasaporte y los visados. La continuación de viaje es sobre todo un asunto de la aerolínea, aunque algunos países sí la incluyen en sus requisitos de entrada. Comprueba las normas específicas de tu destino antes de viajar.
+A veces, porque algunos destinos la incluyen en sus condiciones de entrada para visitantes. El Código de Fronteras Schengen incluye un billete de vuelta o de ida y vuelta entre los documentos que un guardia de frontera puede pedir, y Nueva Zelanda exige que los visitantes tengan medios para salir del país. Comprueba las normas de tu destino antes de viajar.
 
 ## Artículos Relacionados
 
-[Documentos de Viaje8 min de lecturaQué documentos llevar al viajar internacionalmente](https://traveldocumentvault.com/es/blog/what-documents-to-carry-when-travelling-internationally/)
+[Preparación de Viaje7 min de lecturaLos Documentos de Viaje Que Olvidas (y Dónde Guardar Cada Uno)](https://traveldocumentvault.com/es/blog/what-documents-to-carry-when-travelling-internationally/)
 
-[Documentos de Viaje6 min de lecturaLista de comprobación de documentos de viaje: cada miembro de la familia, cada viaje](https://traveldocumentvault.com/es/blog/travel-document-checklist/)
+[Organización9 min de lecturaLista de verificación de documentos de viaje internacional: todo lo que necesitas antes de volar](https://traveldocumentvault.com/es/blog/travel-document-checklist/)
+
+[Requisitos de Visado7 min de lectura¿Necesitas un Visado de Tránsito para tu Escala?](https://traveldocumentvault.com/es/blog/transit-visa-connecting-flights/)
+
+[Visados y entrada6 min de lectura¿Cuál es la diferencia entre una visa y un pasaporte?](https://traveldocumentvault.com/es/blog/visa-vs-passport/)

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
+[ReisedokumenteNachweis der Weiterreise: Was wirklich zähltDer Nachweis der Weiterreise ist meist ein gebuchtes Ticket aus Ihrem Zielland. Was zählt, warum die Fluggesellschaft vor der Grenze fragt, und was zu tun ist, wenn Sie nur einen Hinflug haben.12. Oktober 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/proof-of-onward-travel/)
+
+##
+
 [ReisedokumentePersonalausweis auf Reisen: Wann er ausreichtInnerhalb der EU und des EWR ist ein gültiger Personalausweis meist ein vollwertiges Reisedokument. Wann der Ausweis ausreicht, wann Sie den Reisepass brauchen, und warum beide Dokumente unterschiedlich schnell ablaufen.5. Oktober 20266 Min. Lesezeit](https://traveldocumentvault.com/de/blog/national-id-card-travel-europe/)
 
 ##

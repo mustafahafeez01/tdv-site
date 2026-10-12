@@ -136,6 +136,8 @@ ETIASはビザ免除の非EU市民が短期滞在（180日間に90日まで）�
 
 ## 関連記事
 
+[旅行書類7分読了 · 10月13日出国手段の証明:実際に認められるものとは](https://traveldocumentvault.com/ja/blog/proof-of-onward-travel/)
+
 [更新5分読了 · 3月21日ビザ有効期限トラッカーアプリ: 選ぶべきポイント](https://traveldocumentvault.com/ja/blog/visa-expiry-tracker-app/)
 
 [パスポート6分読了 · 2月14日パスポート有効性と6ヶ月ルール](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
+[Dokumen PerjalananBukti Perjalanan Lanjutan: Apa yang Sebenarnya DiterimaBukti perjalanan lanjutan biasanya berarti tiket yang sudah dipesan keluar dari tujuan Anda. Apa yang diterima, mengapa maskapai bertanya sebelum perbatasan melakukannya, dan apa yang harus dilakukan jika Anda terbang satu arah.12 Oktober 20267 menit baca](https://traveldocumentvault.com/id/blog/proof-of-onward-travel/)
+
+##
+
 [Dokumen PerjalananKartu Identitas Nasional untuk Bepergian: Kapan Sudah CukupDi dalam UE dan EEA, kartu identitas nasional yang masih berlaku biasanya merupakan dokumen perjalanan yang lengkap. Kapan kartu itu cukup, kapan Anda perlu membawa paspor, dan mengapa keduanya berjalan pada siklus kedaluwarsa yang berbeda.5 Oktober 20266 menit baca](https://traveldocumentvault.com/id/blog/national-id-card-travel-europe/)
 
 ##

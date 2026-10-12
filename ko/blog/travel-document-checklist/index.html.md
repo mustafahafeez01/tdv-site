@@ -137,6 +137,8 @@ Source: https://traveldocumentvault.com/ko/blog/travel-document-checklist/
 
 ## 관련 기사
 
+[여행 서류7분 읽기출국 예정 증빙, 실제로 인정되는 것은 무엇일까](https://traveldocumentvault.com/ko/blog/proof-of-onward-travel/)
+
 [여권 규칙8분 읽음 · 2026년 2월 1일6개월 여권 규칙: 어느 국가에서 적용합니까](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)
 
 [정리8분 읽음 · 2026년 2월 5일가족 여행 문서를 정리하는 방법(다음 여행 전에)](https://traveldocumentvault.com/ko/blog/how-to-organise-family-travel-documents/)

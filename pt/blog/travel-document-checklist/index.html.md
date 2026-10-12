@@ -137,6 +137,8 @@ Mantenha estes consigo em todos os momentos: passaportes, cartões de embarque, 
 
 ## Artigos Relacionados
 
+[Documentos de Viagem7 min de leituraProva de continuação de viagem: o que realmente conta](https://traveldocumentvault.com/pt/blog/proof-of-onward-travel/)
+
 [Regras de Passaporte8 min de leitura · 1 fev 2026A Regra dos 6 Meses do Passaporte: Que Países a Implementam](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/)
 
 [Organização8 min de leitura · 5 fev 2026Como Organizar Documentos de Viagem Familiares (Antes da Sua Próxima Viagem)](https://traveldocumentvault.com/pt/blog/how-to-organise-family-travel-documents/)

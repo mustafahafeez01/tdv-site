@@ -137,6 +137,8 @@ Mantén esto contigo en todo momento: pasaportes, tarjetas de embarque, certific
 
 ## Artículos relacionados
 
+[Documentos de viajeLectura de 7 min - 13 de oct, 2026Prueba de Viaje de Continuación: Qué Cuenta Realmente](https://traveldocumentvault.com/es/blog/proof-of-onward-travel/)
+
 [Reglas de pasaporteLectura de 8 min - 1 de feb, 2026La regla de los 6 meses de pasaporte: qué países la aplican](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/)
 
 [OrganizaciónLectura de 8 min - 5 de feb, 2026Cómo organizar documentos de viaje en familia (antes de tu próximo viaje)](https://traveldocumentvault.com/es/blog/how-to-organise-family-travel-documents/)

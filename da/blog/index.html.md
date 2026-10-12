@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
+[RejsedokumenterBevis for videre rejse: hvad der faktisk gælderBevis for videre rejse betyder som regel en booket billet ud af dit rejsemål. Hvad der gælder, hvorfor flyselskabet spørger, før grænsen gør det, og hvad du gør, hvis du flyver med en enkeltbillet.12. oktober 20267 min læsning](https://traveldocumentvault.com/da/blog/proof-of-onward-travel/)
+
+##
+
 [RejsedokumenterNationalt ID-kort på rejsen: hvornår det er nokInden for EU og EØS er et gyldigt nationalt ID-kort som regel et fuldt gyldigt rejsedokument. Se, hvornår kortet er nok, hvornår du skal medbringe passet, og hvorfor de to følger hver sit udløbsur.5. oktober 20266 min læsning](https://traveldocumentvault.com/da/blog/national-id-card-travel-europe/)
 
 ##

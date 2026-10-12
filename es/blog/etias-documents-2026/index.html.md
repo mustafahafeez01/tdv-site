@@ -136,6 +136,8 @@ Sí. ETIAS aún no es obligatorio. Mientras no lo sea, los viajeros exentos de v
 
 ## Artículos Relacionados
 
+[Documentos de Viajelectura de 7 minutos - 13 de octPrueba de Viaje de Continuación: Qué Cuenta Realmente](https://traveldocumentvault.com/es/blog/proof-of-onward-travel/)
+
 [Renovaciónlectura de 5 minutos - 21 de marAplicación de Rastreo de Expiración de Visados: Qué Buscar](https://traveldocumentvault.com/es/blog/visa-expiry-tracker-app/)
 
 [Pasaportelectura de 6 minutos - 14 de febValidez del Pasaporte y la Regla de 6 Meses](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/)

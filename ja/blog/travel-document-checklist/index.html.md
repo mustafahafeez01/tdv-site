@@ -137,6 +137,8 @@ Source: https://traveldocumentvault.com/ja/blog/travel-document-checklist/
 
 ## 関連記事
 
+[旅行書類7分で読める · 2026年10月13日出国手段の証明:実際に認められるものとは](https://traveldocumentvault.com/ja/blog/proof-of-onward-travel/)
+
 [パスポート規則8分で読める · 2026年2月1日6ヶ月パスポートルール: どの国が施行しているか](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)
 
 [整理8分で読める · 2026年2月5日家族旅行書類の整理方法(次の旅行前に)](https://traveldocumentvault.com/ja/blog/how-to-organise-family-travel-documents/)

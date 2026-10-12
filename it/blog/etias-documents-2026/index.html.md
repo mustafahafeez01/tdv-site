@@ -136,6 +136,8 @@ Sì. ETIAS non è ancora obbligatorio. Finché non lo sarà, i viaggiatori esent
 
 ## Articoli correlati
 
+[Documenti di Viaggio7 min di letturaProva di prosecuzione del viaggio: cosa conta davvero](https://traveldocumentvault.com/it/blog/proof-of-onward-travel/)
+
 [Rinnovo5 min di lettura · 21 marzoApp di tracciamento della scadenza dei visti: cosa cercare](https://traveldocumentvault.com/it/blog/visa-expiry-tracker-app/)
 
 [Passaporto6 min di lettura · 14 febbraioValidità del passaporto e la regola dei 6 mesi](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/)

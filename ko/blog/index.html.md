@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
+[여행 서류출국 예정 증빙, 실제로 인정되는 것은 무엇일까출국 예정 증빙은 대개 목적지에서 나가는 예약된 티켓을 의미합니다. 무엇이 인정되는지, 국경보다 항공사가 먼저 묻는 이유, 편도로 여행할 때 어떻게 해야 하는지 정리했습니다.2026년 10월 12일7분 읽기](https://traveldocumentvault.com/ko/blog/proof-of-onward-travel/)
+
+##
+
 [여행 서류국민 ID 카드로 하는 여행, 어디까지 통할까EU 및 EEA 역내에서는 유효한 국민 ID 카드만으로 대개 완전한 여행 서류가 됩니다. ID 카드로 충분한 경우, 여권을 챙겨야 하는 경우, 그리고 두 서류가 서로 다른 만료 주기로 움직이는 이유를 정리했습니다.2026년 10월 5일6분 읽기](https://traveldocumentvault.com/ko/blog/national-id-card-travel-europe/)
 
 ##

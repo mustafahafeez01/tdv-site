@@ -26,7 +26,7 @@ Il passaporto e il visto sembrano urgenti, quindi vengono confezionati per primi
 
 ### Prova di viaggio in avanti
 
-Un numero sorprendente di paesi richiede prova che hai intenzione di partire — un volo di ritorno, una prenotazione in avanti a un altro paese, o anche un biglietto di autobus o traghetto di solito basterà. Mantenere una copia stampata o digitale nel bagaglio a mano significa non affrontare ritardi all'immigrazione.
+Molte destinazioni vogliono la prova che hai intenzione di partire, di solito un volo di ritorno o un biglietto verso un altro paese. La nostra guida alla [prova di prosecuzione del viaggio](https://traveldocumentvault.com/it/blog/proof-of-onward-travel/) spiega cosa conta, perché spesso è la compagnia aerea a chiederla per prima e cosa fare con un biglietto di sola andata.
 
 ### Conferme di alloggio
 
@@ -130,6 +130,8 @@ Sì. Conservare copie crittografate offline sul telefono — non nella galleria 
 Dimenticare il passaporto significa che non è possibile imbarcarsi. Per i documenti di supporto mancanti, l'esito varia: un certificato di vaccinazione mancante potrebbe consentire di riprenotare e tornare a casa per ottenerlo, mentre una lettera di consenso mancante può comportare il rifiuto dell'imbarco per il bambino. Alcune destinazioni offrono visto all'arrivo, ma la maggior parte dei documenti di supporto non può essere ottenuta alle frontiere. Verificare sempre i requisiti 2-3 settimane prima della partenza.
 
 ## Articoli Correlati
+
+[Documenti di Viaggio7 min di letturaProva di prosecuzione del viaggio: cosa conta davvero](https://traveldocumentvault.com/it/blog/proof-of-onward-travel/)
 
 [Documenti di Viaggio6 min di letturaCarta d'identità per viaggiare: quando basta](https://traveldocumentvault.com/it/blog/national-id-card-travel-europe/)
 

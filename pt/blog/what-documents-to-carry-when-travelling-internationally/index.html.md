@@ -26,7 +26,7 @@ O seu passaporte e visto parecem urgentes, por isso são embalados primeiro. Os 
 
 ### Comprovante de viagem continuada
 
-Um número surpreendente de países quer prova de que planeia sair — um voo de regresso, uma reserva para outro país ou até um bilhete de autocarro ou ferry costuma dar. Manter uma cópia impressa ou digital na sua bagagem de mão significa que não enfrentará atrasos na imigração.
+Muitos destinos querem prova de que planeia sair, normalmente um voo de regresso ou um bilhete para outro país. O nosso guia sobre [prova de continuação de viagem](https://traveldocumentvault.com/pt/blog/proof-of-onward-travel/) explica o que conta, por que pergunta primeiro a companhia aérea e o que fazer com um bilhete só de ida.
 
 ### Confirmações de alojamento
 
@@ -130,6 +130,8 @@ Sim. Guarde cópias encriptadas desligadas no seu telemóvel — não no seu rol
 Esquecer o seu passaporte significa que não pode embarcar. Para documentos de apoio em falta, o resultado varia: um certificado de vacinação em falta pode permitir-lhe remarcar e regressar a casa para o obter, enquanto uma carta de consentimento em falta pode resultar no embarque recusado para a sua criança. Alguns destinos oferecem visto na chegada, mas a maioria dos documentos de apoio não podem ser obtidos nas fronteiras. Verifique sempre os requisitos 2-3 semanas antes da partida.
 
 ## Artigos Relacionados
+
+[Documentos de Viagem7 min de leituraProva de continuação de viagem: o que realmente conta](https://traveldocumentvault.com/pt/blog/proof-of-onward-travel/)
 
 [Documentos de Viagem6 min de leituraCartão de identidade em viagem: quando é suficiente](https://traveldocumentvault.com/pt/blog/national-id-card-travel-europe/)
 

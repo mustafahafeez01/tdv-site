@@ -1,110 +1,101 @@
 # Prova di prosecuzione del viaggio: cosa conta davvero
 
-> La prova di prosecuzione varia per compagnia e destinazione. Cosa conta davvero, e cosa fare con un biglietto di sola andata.
+> La prova di prosecuzione è di norma un biglietto per uscire dalla destinazione: cosa conta, perché la chiedono le compagnie, cosa fare in sola andata.
 
 Source: https://traveldocumentvault.com/it/blog/proof-of-onward-travel/
 
 ---
 
-## Punti Chiave
+![Un genitore e un bambino davanti a una vetrata dell'aeroporto, con in mano un passaporto e un biglietto di viaggio, mentre guardano un aereo prima della partenza](https://traveldocumentvault.com/blog/proof-of-onward-travel/cover.jpg)
 
-- **Il controllo della compagnia aerea e il controllo di frontiera rispondono a domande diverse.** Una compagnia aerea si protegge dalla propria responsabilità. Un agente di frontiera decide se ammetterti.
-- La prova di prosecuzione del viaggio è di solito un volo di ritorno, un volo di prosecuzione, o una prenotazione alberghiera che implica la prosecuzione del viaggio.
-- Un biglietto di sola andata non significa automaticamente che ti verrà negato l'imbarco. Alla compagnia aerea interessa solo se puoi entrare e uscire dalla tua destinazione con i tuoi mezzi.
-- Ciò che conta come prova varia in base alla compagnia aerea e alla destinazione. Alcune accettano prenotazioni alberghiere, altre richiedono solo biglietti. Verifica prima di viaggiare.
-- Se ti viene negato l'imbarco, puoi prenotare un volo di prosecuzione sul momento o contestarlo con la compagnia aerea.
-- Travel Document Vault salva i tuoi biglietti aerei e le prenotazioni alberghiere sul tuo dispositivo, cifrati e offline — così puoi mostrare la prova al gate anche senza segnale.
+## Punti chiave
 
-La prova di prosecuzione del viaggio è una domanda con due interlocutori diversi, e sapere chi hai davanti risolve gran parte della questione. La compagnia aerea al banco e l'agente alla frontiera vogliono cose diverse, per ragioni diverse, e un documento che soddisfa uno non soddisfa automaticamente l'altro.
+- **La prova di prosecuzione del viaggio di solito significa un biglietto prenotato per uscire dal paese di destinazione,** verso casa o verso un paese in cui sei autorizzato a entrare.
+- Sono due controlli diversi a chiederla. La compagnia aerea la verifica prima dell'imbarco perché è generalmente responsabile di farti rientrare se ti viene negato l'ingresso. L'agente di frontiera decide invece se ammetterti.
+- Alcune destinazioni inseriscono la prosecuzione del viaggio tra le regole d'ingresso per i visitatori, quindi quando la compagnia aerea la chiede sta spesso applicando in anticipo la regola della destinazione.
+- Una prenotazione d'albergo o un estratto conto rispondono a domande diverse, dove alloggerai e come ti manterrai, e in genere non sostituiscono un biglietto per uscire.
+- Conserva la conferma in un posto che puoi aprire al banco anche senza segnale o accesso a un account.
 
-La risposta è meno diretta della regola stessa. Le compagnie aeree chiedono la prova di prosecuzione del viaggio soprattutto per evitare il costo di rimandarti a casa se non riesci a entrare nella tua destinazione — non per controllare il tuo itinerario. Questo motivo cambia ciò che davvero le preoccupa — e quasi mai è ciò che pensano i viaggiatori preoccupati.
+Nella maggior parte dei casi, la prova di prosecuzione del viaggio è un biglietto prenotato per uscire dal paese di destinazione. Un volo di ritorno verso casa è valido, così come un biglietto verso un paese terzo in cui sei autorizzato a entrare. Se possiedi già uno di questi, hai ciò che di solito viene richiesto.
+
+Il resto di questa guida copre i casi meno chiari: un viaggio di sola andata voluto, un programma senza date fisse, o una domanda inattesa al banco. Quasi tutto si riduce a sapere chi lo chiede e perché.
 
 ## Cos'è la prova di prosecuzione del viaggio, e chi la chiede davvero
 
-La prova di prosecuzione del viaggio è la dimostrazione che hai organizzato un modo per lasciare il paese di destinazione. Può essere un volo di ritorno a casa, un volo di prosecuzione verso un paese terzo, o una prenotazione alberghiera abbastanza lunga da suggerire che hai in programma di partire.
+La prova di prosecuzione del viaggio è la dimostrazione di aver organizzato un modo per lasciare la destinazione prima che scada il soggiorno consentito. Due persone diverse possono chiedere di vederla, e lo fanno per motivi diversi.
 
-La compagnia aerea chiede questa prova prima dell'imbarco per proteggersi dalla propria responsabilità. Se ti imbarchi e l'immigrazione si rifiuta di farti entrare, la compagnia aerea è generalmente responsabile di riportarti a casa. Una prenotazione che dimostra che puoi permetterti di restare da qualche parte e poi partire è, per la compagnia aerea, la garanzia che non diventerai un suo problema economico.
+La prima è la compagnia aerea, al check-in o al gate. Se trasporta un passeggero al quale viene poi negato l'ingresso, la compagnia aerea è generalmente responsabile di farlo rientrare, a proprie spese. Per questo, prima dell'imbarco, la compagnia verifica che tu sembri soddisfare le regole d'ingresso della destinazione.
 
-Questo è tutto il calcolo: non se il tuo viaggio è legale o se la frontiera accetterà i tuoi documenti, ma se hai organizzato abbastanza denaro per evitare di restare bloccato a tempo indeterminato.
+La seconda è l'agente di frontiera all'arrivo. Il suo compito è decidere se ammetterti, e in alcuni luoghi la prova che lascerai il paese fa parte di quella decisione.
 
 ## Cosa conta di solito come prova
 
-I dettagli variano in base alla compagnia aerea e alla destinazione: alcune accettano una prenotazione alberghiera come prova, altre insistono su un biglietto di volo di prosecuzione, e poche chiedono estratti conto bancari per dimostrare che hai i fondi per andartene se le circostanze cambiano.
+Un biglietto confermato per uscire dal paese è la forma più comunemente riconosciuta. Può essere un volo di ritorno o un volo verso un paese terzo. Ciò che conta è che parta prima della fine del soggiorno consentito e sia diretto verso un luogo in cui sei autorizzato a entrare.
 
-Una **prenotazione di volo di prosecuzione o di ritorno** è la prova più diretta. Mostrare alla compagnia aerea il tuo biglietto per un volo in partenza dal paese di destinazione è una prova inequivocabile che hai organizzato un'uscita. È ciò che la maggior parte dei vettori preferisce.
+Le indicazioni di Immigration New Zealand per i visitatori offrono un quadro utile della gamma possibile. Elencano biglietti confermati o a data aperta per uscire dal paese, oppure la conferma scritta di una compagnia aerea o di un'agenzia di viaggio che la prosecuzione è prenotata e pagata. I viaggiatori d'affari possono anche usare una lettera del datore di lavoro che garantisce che la prosecuzione sarà organizzata. Altre destinazioni stabiliscono le proprie liste, e non coincidono tutte.
 
-Una **prenotazione alberghiera** che termina ben prima della scadenza di un eventuale visto può funzionare anche lei, perché la data di fine segnala la tua presunta partenza. Le compagnie aeree la interpretano così, anche se non sono molto rigorose al riguardo — presumono semplicemente che tu parta quando arriva la data di check-out dell'hotel.
+Anche una **prenotazione d'albergo** e un **estratto conto bancario** compaiono spesso, ma rispondono a domande diverse. Una mostra dove alloggerai, l'altro mostra che puoi sostenere le spese. Un agente di frontiera può chiedere l'uno o l'altro, ma di solito nessuno dei due sostituisce un biglietto per uscire.
 
-Alcuni vettori accettano anche **lettere di lavoro o contratti di affitto** che dimostrano che ti stai trasferendo nel paese, o **estratti conto bancari** che provano di avere risparmi per mantenerti se i piani di viaggio cambiano. Ciò che conta non è se la tua prova è inattaccabile, ma se basta a convincere la compagnia aerea che non sei un rischio di restare bloccato.
+## Il controllo della compagnia aerea e quello di frontiera non sono la stessa cosa
 
-## Il controllo della compagnia aerea e il controllo di frontiera non sono la stessa cosa
+La compagnia aerea vuole sapere se è probabile che ti venga negato l'ingresso all'arrivo, lasciandola con il costo di farti rientrare. L'agente di frontiera chiede qualcosa di collegato ma distinto: se soddisfi le condizioni d'ingresso del paese. Le due domande si sovrappongono, ma non sono la stessa domanda.
 
-È qui che nasce la confusione, perché la compagnia aerea controlla una cosa e l'agente di frontiera controlla qualcosa di completamente diverso. Capire il divario tra i due conta più che capire la regola in sé.
+Il punto in cui si sovrappongono sono le regole della destinazione stessa. Il Codice frontiere Schengen, ad esempio, elenca un biglietto di ritorno o andata e ritorno tra i documenti che un agente di frontiera può chiedere a un visitatore di mostrare. La Nuova Zelanda richiede ai visitatori di disporre dei mezzi per lasciare il paese. Quando una destinazione funziona così, la compagnia aerea che lo chiede al check-in sta di solito applicando con qualche ora di anticipo la regola della destinazione, non inventandone una propria.
 
-**La compagnia aerea si chiede:** «questo passeggero resterà bloccato alla mia destinazione e diventerà un mio problema economico?» La sua preoccupazione è puramente economica — puoi permetterti di andartene?
+I controlli riguardano anche aspetti diversi. Una compagnia aerea che accetta il tuo biglietto di prosecuzione non garantisce per il resto del tuo ingresso, come la validità del passaporto o un [visto di cui potresti avere bisogno](https://traveldocumentvault.com/it/blog/visa-vs-passport/). Un agente di frontiera potrebbe non chiedere affatto la prova di prosecuzione. Per l'elenco completo dei documenti utili da portare con te, consulta la nostra guida su [quali documenti portare quando si viaggia a livello internazionale](https://traveldocumentvault.com/it/blog/what-documents-to-carry-when-travelling-internationally/).
 
-**L'agente di frontiera si chiede:** «questa persona soddisfa i requisiti di ingresso del mio paese ed è un rischio per la sicurezza?» La sua preoccupazione è legale — hai il diritto di essere qui?
+**Travel Document Vault** conserva i tuoi biglietti aerei e le prenotazioni d'albergo sul tuo dispositivo, cifrati e accessibili anche senza segnale — così puoi mostrare la prova al gate ogni volta che te la chiedono. [Scarica dall'App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) e [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault).
 
-Non sono la stessa domanda. Potresti avere una prova di prosecuzione del viaggio perfetta e comunque vederti negare l'ingresso se il tuo passaporto non soddisfa i requisiti di validità della destinazione, se ti manca un [visto che avresti dovuto ottenere](https://traveldocumentvault.com/it/blog/visa-vs-passport/), o se sei segnalato in un database dell'immigrazione. Al contrario, un agente di frontiera convinto che tu abbia diritto a entrare potrebbe non chiederti mai la prova di prosecuzione del viaggio.
+## Se stai viaggiando di proposito con un biglietto di sola andata
 
-La compagnia aerea è il tuo primo controllo. Se ritiene che tu sia un rischio di restare bloccato, ti nega l'imbarco ancora prima che tu raggiunga l'immigrazione. L'agente di frontiera è il secondo. Se sali sull'aereo, controlla i tuoi documenti e i tuoi precedenti — e la sua decisione si basa sulla legge, non sulla tua capacità di comprare un biglietto di prosecuzione.
+Un biglietto di sola andata non è un problema di per sé. Le regole sulla prosecuzione del viaggio sono generalmente scritte per i visitatori. Se ti stai trasferendo all'estero con un visto che ti permette di viverci o lavorarci, quel visto nella maggior parte dei casi svolge la funzione che avrebbe un biglietto di prosecuzione. Tienilo a portata di mano al check-in, insieme a qualsiasi lettera che lo accompagnava.
 
-Questo divario cambia ciò che devi davvero fare per superare entrambi i controlli. La prova di prosecuzione del viaggio riguarda soprattutto la compagnia aerea, quindi gestirla bene è ciò che ti fa salire sull'aereo, anche se non garantisce che la frontiera ti farà entrare. Per le questioni di frontiera come la validità del passaporto e i requisiti di visto, consulta la nostra guida su [quali documenti portare quando si viaggia a livello internazionale](https://traveldocumentvault.com/it/blog/what-documents-to-carry-when-travelling-internationally/).
+Se sei in visita con un programma senza date fisse, le opzioni più oneste sono anche le più semplici. Prenota il viaggio di prosecuzione che prevedi realmente di fare. Se le date non sono fisse, una tariffa che permette di cambiarle mantiene un piano reale flessibile senza trasformarlo in finzione.
 
-**Travel Document Vault** salva i tuoi biglietti aerei e le prenotazioni alberghiere sul tuo dispositivo, cifrati e accessibili senza segnale — così puoi mostrare la prova al gate ogni volta che ti viene richiesta. [Scaricalo dall'App Store](https://apps.apple.com/app/travel-document-vault/id6757014877) e su [Google Play](https://play.google.com/store/apps/details?id=com.mustafahafeez.traveldocumentvault).
+Quello che eviteremmo è un biglietto che non hai alcuna intenzione di usare, comprato solo per mostrarlo al banco. Presentarlo a un agente di frontiera come il tuo piano può equivalere a dichiarare il falso sulle tue intenzioni, un problema molto più grave di una prenotazione mancante.
 
-## Se viaggi di proposito con un biglietto di sola andata
+## Se te la chiedono e non riesci a mostrarla
 
-Un biglietto di sola andata non significa automaticamente che la compagnia aerea ti rifiuterà. La domanda per la compagnia aerea non è «questo è di sola andata» ma «questo passeggero può permettersi di andarsene se resta bloccato».
+Se un agente te la chiede e non hai nulla da mostrare, ricorda che sta applicando le regole d'ingresso della destinazione. La risposta più utile è di solito dargli qualcosa che quelle regole riconoscono.
 
-Se ti stai trasferendo all'estero, probabilmente hai un piano: un'offerta di lavoro, un contratto di affitto, un visto, o risparmi sufficienti. Questa non è prova di prosecuzione del viaggio nel senso inteso dalla compagnia aerea, ma è la dimostrazione che ti stai trasferendo deliberatamente, non che arrivi senza nulla sperando che vada bene.
+In pratica significa spesso prenotare il viaggio di prosecuzione sul momento, dal telefono o al banco della compagnia aerea. Con così poco anticipo può costare di più, motivo principale per risolverlo la sera prima. Se un'agenzia di viaggio ha prenotato il tuo viaggio di prosecuzione, la sua conferma scritta può aiutare dove la destinazione la accetta.
 
-Ciò che non devi fare è travisare le tue intenzioni di viaggio con la compagnia aerea. La tentazione è prenotare un biglietto di prosecuzione usa e getta, che non hai mai intenzione di usare. Le condizioni di trasporto di molte compagnie aeree lo vietano, e presentarlo come un piano genuino travisa le tue intenzioni davanti a un agente di frontiera. Se la compagnia aerea scopre che hai prenotato un biglietto che hai cancellato o mai usato, può rifiutarti prenotazioni future. Se un agente di frontiera scopre che hai travisato i tuoi piani di viaggio, le conseguenze sono peggiori.
+La decisione al banco spetta alla compagnia aerea. Se non riesci a risolverlo lì, dovrai riprenotare una volta ottenuto ciò che la destinazione richiede.
 
-Le alternative pratiche sono quelle autentiche. Prenota un vero viaggio di prosecuzione che intendi effettivamente fare (anche un volo economico settimane dopo, se stai davvero esplorando la zona), fornisci prova di capacità finanziaria tramite una prenotazione alberghiera o una lettera di offerta di lavoro, o mostra estratti conto bancari che provino di avere risparmi. Non sono inganni — sono la documentazione del tuo piano reale.
+## Tenere la prenotazione a portata di mano quando serve
 
-## Se te la chiedono e non puoi presentarla
+Una prenotazione che non riesci ad aprire è tanto inutile quanto nessuna prenotazione. La richiesta arriva spesso al check-in o al gate, dove il segnale è instabile e un'app ti chiede di accedere di nuovo.
 
-Il più delle volte, nessuno chiede della prosecuzione del viaggio, quindi ti imbarchi senza che l'argomento venga mai sollevato. Ma se arrivi al gate e un agente te la chiede davvero, la conversazione di solito prende una di due direzioni.
+Conserva una copia offline della conferma: un PDF, uno screenshot con il codice di prenotazione e le date, o una copia in un'app che funziona senza connessione. Travel Document Vault conserva biglietti aerei e prenotazioni d'albergo sul tuo dispositivo, cifrati e disponibili offline. La conferma è lì al banco, con o senza segnale. La nostra [lista di controllo dei documenti di viaggio](https://traveldocumentvault.com/it/blog/travel-document-checklist/) copre il resto di ciò che conviene avere pronto.
 
-**Ti offri di prenotare un volo sul momento.** Questo può essere costoso all'ultimo minuto e aggiunge un volo che non avevi pianificato. Ma in genere risolve la preoccupazione della compagnia aerea. Puoi anche chiedere alla compagnia aerea di rinunciare al requisito se puoi dimostrare capacità finanziaria — una conversazione con un agente in aeroporto, anche se non è garantito che funzioni.
-
-**Decidi di insistere.** La compagnia aerea può rifiutarsi di farti imbarcare, ed è nel suo diritto. Non puoi costringerla a farti salire su un aereo. A quel punto dovresti prenotare un volo di prosecuzione per raggiungere la tua destinazione in un altro modo.
-
-La compagnia aerea ha interesse a farti imbarcare se puoi dimostrare che non sei un rischio di restare bloccato, ma la regola esiste comunque e continua a essere applicata. Se viaggi con un biglietto di sola andata, pianifica questa possibilità.
-
-## Tenere la prenotazione raggiungibile quando ti serve
-
-Se prenoti un volo di prosecuzione o una prenotazione alberghiera per soddisfare il requisito di una compagnia aerea, assicurati di potervi accedere facilmente quando richiesto. La maggior parte delle compagnie aeree effettua il controllo al gate, davanti a un agente, non giorni prima.
-
-Se la tua prenotazione si trova solo in un'email sepolta nella posta in arrivo, o è accessibile solo tramite un login che richiede connessione, potresti trovarti impossibilitato a presentare la prova anche se la prenotazione esiste. Succede più spesso di quanto i viaggiatori si aspettino.
-
-**Fai screenshot delle tue prenotazioni, salvale come PDF, o usa un'app** che le memorizza e non richiede una connessione internet. Travel Document Vault salva i tuoi biglietti aerei e le prenotazioni alberghiere e li rende accessibili sul tuo dispositivo senza segnale — utile se sei al gate e il telefono non prende. Consulta la nostra guida per [tenere i tuoi documenti di viaggio organizzati e raggiungibili](https://traveldocumentvault.com/it/blog/travel-document-checklist/).
-
-## Domande Frequenti
+## Domande frequenti
 
 ### Quale prova di prosecuzione del viaggio accetta davvero una compagnia aerea?
 
-Dipende dalla compagnia aerea e dalla destinazione. La maggior parte accetta un biglietto di volo di prosecuzione o di ritorno. Alcune accettano una prenotazione alberghiera. Poche chiedono estratti conto bancari o una lettera del datore di lavoro. Verifica con la tua compagnia aerea prima di viaggiare.
+Più spesso, un biglietto confermato per uscire dalla destinazione, verso casa o verso un paese terzo in cui puoi entrare. Alcune destinazioni accettano anche altre prove, come la conferma scritta di un'agenzia di viaggio che la prosecuzione è prenotata e pagata. La compagnia aerea applica le regole della destinazione, quindi verificale per il tuo viaggio.
 
-### Posso usare una prenotazione alberghiera come prova di prosecuzione del viaggio?
+### Posso usare una prenotazione d'albergo come prova di prosecuzione del viaggio?
 
-Sì, se la compagnia aerea la accetta. Una prenotazione alberghiera che termina prima che tu superi il soggiorno consentito è prova che hai intenzione di partire. Non tutte le compagnie la accettano — alcune richiedono specificamente un biglietto aereo — quindi conferma con la tua compagnia prima di prenotare.
+Di solito una prenotazione d'albergo non basta da sola. Mostra dove alloggerai, cosa che un agente di frontiera può chiedere a sua volta, ma non come lascerai il paese. Se la destinazione richiede la prova di prosecuzione, prevedi un biglietto per uscire.
 
 ### Cosa succede se non ho la prova di prosecuzione del viaggio?
 
-Puoi offrirti di prenotare un volo sul momento, chiedere alla compagnia aerea di rinunciare al requisito se puoi dimostrare capacità finanziaria, o accettare che potresti non essere autorizzato all'imbarco. La compagnia aerea ha il diritto di rifiutare l'imbarco.
+Se te lo chiedono al check-in e non hai nulla da mostrare, la soluzione più comune è prenotare il viaggio di prosecuzione sul momento. Questo può costare di più con così poco anticipo. La decisione di farti salire a bordo spetta alla compagnia aerea, quindi conviene risolverlo prima di arrivare in aeroporto.
 
 ### Un biglietto di sola andata è un problema?
 
-Non di per sé. Ciò che preoccupa la compagnia aerea non è se hai un biglietto di sola andata, ma se hai i mezzi per andartene nel caso non riesca a entrare nella tua destinazione. Se puoi dimostrarlo — con una prenotazione di prosecuzione, un'offerta di lavoro, una prenotazione alberghiera, o un estratto conto bancario — di solito non ti verrà chiesto altro.
+Un biglietto di sola andata non è un problema di per sé, perché le regole sulla prosecuzione del viaggio sono generalmente pensate per i visitatori. Se ti stai trasferendo con un visto che ti permette di vivere o lavorare nel paese, quel visto di solito risolve la questione. Se sei in visita, un viaggio di prosecuzione prenotato che intendi effettivamente fare è la risposta più semplice.
 
 ### Mi serve la prova di prosecuzione del viaggio per la frontiera?
 
-Probabilmente no. Gli agenti di frontiera si concentrano solitamente sui requisiti di ingresso come la validità del passaporto e i visti. La prosecuzione del viaggio riguarda soprattutto la compagnia aerea, anche se alcuni paesi la includono nei propri requisiti di ingresso. Verifica le regole specifiche della tua destinazione prima di viaggiare.
+A volte, perché alcune destinazioni la includono nelle condizioni d'ingresso per i visitatori. Il Codice frontiere Schengen elenca un biglietto di ritorno o andata e ritorno tra i documenti che un agente di frontiera può chiedere, e la Nuova Zelanda richiede ai visitatori di disporre dei mezzi per lasciare il paese. Verifica le regole della tua destinazione prima di partire.
 
-## Articoli Correlati
+## Articoli correlati
 
-[Documenti di Viaggio8 min di letturaQuali documenti portare quando si viaggia a livello internazionale](https://traveldocumentvault.com/it/blog/what-documents-to-carry-when-travelling-internationally/)
+[Documenti di Viaggio8 min di letturaI Documenti di Viaggio Che Le Persone Dimenticano (e Dove Conservare Ognuno)](https://traveldocumentvault.com/it/blog/what-documents-to-carry-when-travelling-internationally/)
 
-[Documenti di Viaggio6 min di letturaLista di controllo dei documenti di viaggio: ogni membro della famiglia, ogni viaggio](https://traveldocumentvault.com/it/blog/travel-document-checklist/)
+[Documenti di Viaggio6 min di letturaElenco di Controllo dei Documenti di Viaggio Internazionali: Tutto Ciò di Cui Ha Bisogno Prima di Volare](https://traveldocumentvault.com/it/blog/travel-document-checklist/)
+
+[Requisiti del visto7 min di letturaServe un visto di transito per uno scalo?](https://traveldocumentvault.com/it/blog/transit-visa-connecting-flights/)
+
+[Visti e ingressi6 min di letturaQual è la differenza tra visto e passaporto?](https://traveldocumentvault.com/it/blog/visa-vs-passport/)

@@ -136,6 +136,8 @@ Bisa. ETIAS belum diwajibkan. Selama belum diwajibkan, pelancong bebas visa dapa
 
 ## Artikel Terkait
 
+[Dokumen Perjalanan7 menit bacaBukti Perjalanan Lanjutan: Apa yang Sebenarnya Diterima](https://traveldocumentvault.com/id/blog/proof-of-onward-travel/)
+
 [Perpanjangan5 menit bacaAplikasi Pelacak Kedaluwarsa Visa: Apa yang Perlu Diperhatikan](https://traveldocumentvault.com/id/blog/visa-expiry-tracker-app/)
 
 [Paspor6 menit bacaMasa Berlaku Paspor dan Aturan 6 Bulan](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)

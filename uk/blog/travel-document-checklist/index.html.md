@@ -137,6 +137,8 @@ Source: https://traveldocumentvault.com/uk/blog/travel-document-checklist/
 
 ## Пов'язані статті
 
+[Подорожні документи7 хв читанняПідтвердження подальшої подорожі: що справді підходить](https://traveldocumentvault.com/uk/blog/proof-of-onward-travel/)
+
 [Правила паспорта8 хв читання · 1 лют 2026Правило 6 місяців для паспорта: які країни його застосовують і як ніколи не потрапити в халепу](https://traveldocumentvault.com/uk/blog/passport-expiry-6-month-rule/)
 
 [Сімейні подорожі8 хв читання · лютий 2026Як організувати документи для подорожі всієї родини (перед наступною поїздкою)](https://traveldocumentvault.com/uk/blog/how-to-organise-family-travel-documents/)

@@ -26,7 +26,7 @@ Je paspoort en visum voelen urgent, dus die pak je als eerste in. De vijf docume
 
 ### Bewijs van doorreis
 
-Verrassend veel landen willen bewijs zien dat je van plan bent het land weer te verlaten – een terugvlucht, een doorreisboeking naar een ander land, of zelfs een bus- of veerticket volstaat meestal. Een uitdraai of digitale kopie in je handbagage voorkomt vertraging bij de grenscontrole.
+Veel bestemmingen willen bewijs dat je van plan bent weer te vertrekken, meestal een retourvlucht of een ticket door naar een ander land. Onze gids over [bewijs van verder reizen](https://traveldocumentvault.com/nl/blog/proof-of-onward-travel/) behandelt wat telt, waarom de luchtvaartmaatschappij er vaak het eerst naar vraagt, en wat je doet met een enkele reis.
 
 ### Verblijfsbevestigingen
 
@@ -130,6 +130,8 @@ Ja. Bewaar versleutelde offline kopieën op je telefoon – niet in je camerarol
 Als je je paspoort vergeet, kun je niet instappen. Bij ontbrekende ondersteunende documenten varieert de uitkomst: een ontbrekend vaccinatiebewijs kan betekenen dat je kunt omboeken en naar huis gaat om het te regelen, terwijl een ontbrekende toestemmingsverklaring kan leiden tot geweigerde instap voor je kind. Sommige bestemmingen bieden visum bij aankomst, maar de meeste ondersteunende documenten kun je niet aan de grens regelen. Controleer de vereisten altijd 2-3 weken voor vertrek.
 
 ## Gerelateerde artikelen
+
+[Reisdocumenten7 min leestijdBewijs van verder reizen: wat telt echt](https://traveldocumentvault.com/nl/blog/proof-of-onward-travel/)
 
 [Reisdocumenten6 min leestijdNationale ID-kaart voor reizen: wanneer volstaat die?](https://traveldocumentvault.com/nl/blog/national-id-card-travel-europe/)
 

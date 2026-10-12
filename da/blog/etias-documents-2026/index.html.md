@@ -136,6 +136,8 @@ Ja. ETIAS er endnu ikke obligatorisk. Så længe det ikke er det, kan visumfrie 
 
 ## Relaterede artikler
 
+[Rejsedokumenter7 min læsningBevis for videre rejse: hvad der faktisk gælder](https://traveldocumentvault.com/da/blog/proof-of-onward-travel/)
+
 [Fornyelse5 min læsningApp til overvågning af visumudløb: hvad du skal se efter](https://traveldocumentvault.com/da/blog/visa-expiry-tracker-app/)
 
 [Pasregler6 min læsningPassets gyldighed og 6-måneders-reglen](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)

@@ -136,6 +136,8 @@ Ja. ETIAS är ännu inte obligatoriskt. Så länge det inte är det kan visering
 
 ## Relaterade artiklar
 
+[Resehandlingar7 min läsningBevis på vidare resa: vad som faktiskt räknas](https://traveldocumentvault.com/sv/blog/proof-of-onward-travel/)
+
 [Förnyelse5 min läsningApp för att bevaka visumets utgångsdatum: vad du bör leta efter](https://traveldocumentvault.com/sv/blog/visa-expiry-tracker-app/)
 
 [Pass6 min läsningPassets giltighetstid och 6-månadersregeln](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/)

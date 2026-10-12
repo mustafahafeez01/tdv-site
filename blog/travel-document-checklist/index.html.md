@@ -139,6 +139,8 @@ Keep these with you at all times: passports, boarding passes, travel insurance c
 
 ## Related Articles
 
+[Travel Documents7 min readProof of Onward Travel: What Actually Counts](https://traveldocumentvault.com/blog/proof-of-onward-travel/)
+
 [Passport Rules8 min read · Feb 1, 2026The 6-Month Passport Rule: Which Countries Enforce It](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
 [Organisation8 min read · Feb 5, 2026How to Organise Family Travel Documents (Before Your Next Trip)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)

@@ -136,6 +136,8 @@ ETIAS는 단기 방문(180일 동안 최대 90일)을 위해 여행하는 비자
 
 ## 관련 문서
 
+[여행 서류7분 읽기출국 예정 증빙, 실제로 인정되는 것은 무엇일까](https://traveldocumentvault.com/ko/blog/proof-of-onward-travel/)
+
 [갱신5분 읽음 · 3월 21일비자 만료 추적 앱: 무엇을 찾아야 하나](https://traveldocumentvault.com/ko/blog/visa-expiry-tracker-app/)
 
 [여권6분 읽음 · 2월 14일여권 유효기간 및 6개월 규칙](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)

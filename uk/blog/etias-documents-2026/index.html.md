@@ -136,6 +136,8 @@ ETIAS потрібен громадянам не з ЄС, які звільне�
 
 ## Пов'язані статті
 
+[Подорожні документи7 хв читанняПідтвердження подальшої подорожі: що справді підходить](https://traveldocumentvault.com/uk/blog/proof-of-onward-travel/)
+
 [Продовження5 хв читанняЗастосунок для відстеження терміну дії візи: на що звернути увагу](https://traveldocumentvault.com/uk/blog/visa-expiry-tracker-app/)
 
 [Правила паспорта6 хв читанняТермін дії паспорта і правило 6 місяців](https://traveldocumentvault.com/uk/blog/passport-expiry-6-month-rule/)
