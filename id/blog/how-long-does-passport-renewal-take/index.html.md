@@ -110,6 +110,8 @@ Dalam kebanyakan kasus, bisa, asalkan paspor Anda saat ini masih berlaku dan And
 
 ## Artikel Terkait
 
+[Perpanjangan7 menit baca · Oktober 2026Bisakah Anda Memperpanjang Paspor Sebelum Kedaluwarsa?](https://traveldocumentvault.com/id/blog/renew-passport-before-expiry/)
+
 [Aturan Paspor7 menit bacaAturan Paspor 6 Bulan: Negara Mana yang Menerapkannya dan Cara Menghindari Masalah](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
 
 [Perjalanan Keluarga7 menit bacaCara Mengatur Dokumen Perjalanan Keluarga (Sebelum Perjalanan Berikutnya)](https://traveldocumentvault.com/id/blog/how-to-organise-family-travel-documents/)

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
+[VerlengingKun je een paspoort verlengen voordat het verloopt?Ja, en er is geen officiële wachttijd. Wat vroeg verlengen je kost aan onbenutte maanden, waarom het oude paspoort stopt met werken, en wat een nieuw nummer verandert.19 oktober 20267 min leestijd](https://traveldocumentvault.com/nl/blog/renew-passport-before-expiry/)
+
+##
+
 [ReisdocumentenBewijs van verder reizen: wat telt echtBewijs van verder reizen betekent meestal een geboekt ticket het land weer uit. Wat telt, waarom de luchtvaartmaatschappij het vraagt voordat de grens dat doet, en wat je doet als je een enkele reis maakt.12 oktober 20267 min leestijd](https://traveldocumentvault.com/nl/blog/proof-of-onward-travel/)
 
 ##

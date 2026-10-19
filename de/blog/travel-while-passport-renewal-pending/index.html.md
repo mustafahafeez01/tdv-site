@@ -124,6 +124,8 @@ Ein Notreisedokument ist ein temporäres Dokument, das von Ihrer Regierung für 
 
 ## Verwandte Artikel
 
+[Erneuerung7 Min. Lesezeit · Oktober 2026Kann man einen Reisepass vor Ablauf erneuern?](https://traveldocumentvault.com/de/blog/renew-passport-before-expiry/)
+
 [Erneuerung8 Min. Lesezeit · 10. Feb. 2026Wie lange dauert die Passerneuerung? (USA, UK, Australien, Kanada)](https://traveldocumentvault.com/de/blog/how-long-does-passport-renewal-take/)
 
 [Pass9 Min. Lesezeit · 9. März 2026Pass abgelaufen? Hier ist genau das, was Sie tun müssen (Schritt für Schritt)](https://traveldocumentvault.com/de/blog/passport-expired-what-to-do/)

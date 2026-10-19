@@ -155,6 +155,8 @@ HM Passport Office负责处理英国的护照更新，并在其网站上公布�
 
 ## 相关文章
 
+[更新7 分钟阅读 · 2026年10月护照可以在到期前更新吗？](https://traveldocumentvault.com/zh-Hans/blog/renew-passport-before-expiry/)
+
 [护照规则7 分钟阅读 · 2026年2月1日6个月护照规则：哪些国家执行它](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)
 
 [组织7 分钟阅读 · 2026年2月5日如何组织家庭旅行文件（在您的下一次旅行之前）](https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-travel-documents/)

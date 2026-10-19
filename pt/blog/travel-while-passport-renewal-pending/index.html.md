@@ -124,6 +124,8 @@ Um documento de viagem de emergência é um documento temporário emitido pelo s
 
 ## Artigos Relacionados
 
+[Renovação7 min de leitura · outubro de 2026Pode renovar o passaporte antes de expirar?](https://traveldocumentvault.com/pt/blog/renew-passport-before-expiry/)
+
 [Renovação8 min de leitura · 10 de fev, 2026Quanto Tempo Demora a Renovação de Passaporte? (EUA, Reino Unido, Austrália, Canadá)](https://traveldocumentvault.com/pt/blog/how-long-does-passport-renewal-take/)
 
 [Passaporte9 min de leitura · 9 de mar, 2026Passaporte Expirou? Eis Exatamente o Que Fazer (Passo a Passo)](https://traveldocumentvault.com/pt/blog/passport-expired-what-to-do/)

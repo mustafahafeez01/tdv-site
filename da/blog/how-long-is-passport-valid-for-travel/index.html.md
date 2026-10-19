@@ -107,6 +107,8 @@ Du skal kontakte dit lands nærmeste ambassade eller konsulat for at få et nød
 
 ## Relaterede artikler
 
+[Fornyelse7 min læsning · oktober 2026Kan du forny dit pas, før det udløber?](https://traveldocumentvault.com/da/blog/renew-passport-before-expiry/)
+
 [Familierejser6 min. læsning · juli 2026Schengen-pasregler for familierejser: det forældre tager fejl af](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
 
 [Pasregler8 min. læsning · 1. feb. 20266-måneders-reglen for pas: hvilke lande håndhæver den, og sådan undgår du at blive taget på sengen](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)

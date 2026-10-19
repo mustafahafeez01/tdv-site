@@ -124,6 +124,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/travel-while-passport-renew
 
 ## 相关文章
 
+[更新7 分钟阅读 · 2026年10月护照可以在到期前更新吗？](https://traveldocumentvault.com/zh-Hans/blog/renew-passport-before-expiry/)
+
 [更新8 分钟阅读 · 2月 10, 2026护照更新需要多长时间(美国、英国、澳大利亚、加拿大)](https://traveldocumentvault.com/zh-Hans/blog/how-long-does-passport-renewal-take/)
 
 [护照9 分钟阅读 · 3月 9, 2026护照过期了，该怎么办（分步指南）](https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do/)

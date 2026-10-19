@@ -122,6 +122,8 @@ An emergency travel document is a temporary document issued by your government f
 
 ## Related Articles
 
+[Renewal7 min read · October 2026Can You Renew a Passport Before It Expires?](https://traveldocumentvault.com/blog/renew-passport-before-expiry/)
+
 [Renewal8 min read · Feb 10, 2026How Long Does Passport Renewal Take? (US, UK, Australia, Canada)](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)
 
 [Passport9 min read · Mar 9, 2026Passport Expired? Here's Exactly What to Do (Step by Step)](https://traveldocumentvault.com/blog/passport-expired-what-to-do/)

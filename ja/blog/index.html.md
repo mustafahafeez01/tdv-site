@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
+[更新パスポートは期限切れ前に更新できますか？はい、公式な待機期間はありません。早めに更新すると未使用の有効期間でどれだけ損をするか、古いパスポートが使えなくなる理由、新しい番号で何が変わるかを解説します。2026年10月19日読了時間 7分](https://traveldocumentvault.com/ja/blog/renew-passport-before-expiry/)
+
+##
+
 [旅行書類出国手段の証明:実際に認められるものとは出国手段の証明とは、通常、目的地から出る予約済みのチケットのことです。何が証明として認められるか、国境より先に航空会社が確認する理由、そして片道で渡航する場合の対処法を解説します。2026年10月12日読了時間 7分](https://traveldocumentvault.com/ja/blog/proof-of-onward-travel/)
 
 ##

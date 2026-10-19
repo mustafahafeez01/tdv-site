@@ -124,6 +124,8 @@ Service Canada는 현재 처리 기준을 공개하며, 직접 신청, 우편 �
 
 ## 관련 기사
 
+[갱신7분 읽기 · 2026년 10월여권, 만료 전에 갱신해도 될까요?](https://traveldocumentvault.com/ko/blog/renew-passport-before-expiry/)
+
 [갱신8분 읽기 · 2026년 2월 10일여권 갱신에는 얼마나 걸리나요? (미국, 영국, 호주, 캐나다)](https://traveldocumentvault.com/ko/blog/how-long-does-passport-renewal-take/)
 
 [여권9분 읽기 · 2026년 3월 9일여권이 만료되었나요? 정확히 해야 할 일(단계별)](https://traveldocumentvault.com/ko/blog/passport-expired-what-to-do/)

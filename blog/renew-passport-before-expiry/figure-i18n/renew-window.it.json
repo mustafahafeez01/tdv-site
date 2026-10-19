@@ -1,0 +1,42 @@
+{
+ "it": {
+  "template": "cards",
+  "title": "Quando rinnoveremmo",
+  "cards": [
+   {
+    "heading": "A 12 mesi dalla scadenza",
+    "items": [
+     {
+      "text": "Inizia a pianificare il rinnovo",
+      "mark": "dot"
+     },
+     {
+      "text": "Controlla tutti i passaporti di casa",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Entro 9 mesi dalla scadenza",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Presenta la domanda",
+      "mark": "tick"
+     },
+     {
+      "text": "Scegli settimane senza viaggi",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Nuovo passaporto, nuovo numero: controlla ESTA, ETA e prenotazioni",
+  "alt": "Diagramma su quando rinnovare un passaporto: a 12 mesi dalla scadenza, inizia a pianificare il rinnovo e controlla tutti i passaporti di casa; entro 9 mesi dalla scadenza, presenta la domanda in settimane senza viaggi in programma. Un nuovo passaporto significa un nuovo numero, quindi controlla ESTA, ETA e prenotazioni",
+  "caption": "Due date da pianificare, e una pausa tranquilla per rinnovare.",
+  "placement": {
+   "h2": 6,
+   "para": 1
+  }
+ }
+}

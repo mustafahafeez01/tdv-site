@@ -1,0 +1,42 @@
+{
+ "da": {
+  "template": "cards",
+  "title": "Hvornår vi ville forny",
+  "cards": [
+   {
+    "heading": "Ved 12 måneder tilbage",
+    "items": [
+     {
+      "text": "Begynd at planlægge fornyelsen",
+      "mark": "dot"
+     },
+     {
+      "text": "Tjek alle pas i hjemmet",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Senest ved 9 måneder tilbage",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Få ansøgningen afsendt",
+      "mark": "tick"
+     },
+     {
+      "text": "Vælg uger uden bookede rejser",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Nyt pas, nyt nummer: tjek dit ESTA, ETA og dine bookinger",
+  "alt": "Diagram over hvornår vi ville forny et pas: ved 12 måneder tilbage, begynd at planlægge fornyelsen og tjek alle pas i hjemmet; senest ved 9 måneder tilbage, få ansøgningen afsendt i uger uden bookede rejser. Et nyt pas betyder et nyt nummer, så tjek dit ESTA, ETA og dine bookinger",
+  "caption": "To datoer at planlægge efter, og ét stille vindue at forny i.",
+  "placement": {
+   "h2": 6,
+   "para": 1
+  }
+ }
+}

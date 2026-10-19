@@ -107,6 +107,8 @@ Source: https://traveldocumentvault.com/ja/blog/how-long-is-passport-valid-for-t
 
 ## 関連記事
 
+[更新7分で読める・2026年10月パスポートは期限切れ前に更新できますか？](https://traveldocumentvault.com/ja/blog/renew-passport-before-expiry/)
+
 [ファミリー旅行6分で読める・2026年7月シェンゲン協定のパスポート規則：親が間違えるポイント](https://traveldocumentvault.com/ja/blog/schengen-passport-rules-family-trips/)
 
 [パスポート規則8分で読める・2026年2月6ヶ月パスポートルール：どの国が適用するのか、引っかからないようにする方法](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)

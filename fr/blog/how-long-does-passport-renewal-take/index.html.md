@@ -135,6 +135,8 @@ Dans la plupart des cas, oui — à condition que votre passeport actuel soit to
 
 ## Articles connexes
 
+[Renouvellement7 min de lecture · octobre 2026Peut-on renouveler un passeport avant son expiration ?](https://traveldocumentvault.com/fr/blog/renew-passport-before-expiry/)
+
 [Règles de passeport7 min de lecture · 1 février 2026La règle de validité de 6 mois du passeport : quels pays l'appliquent](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)
 
 [Organisation7 min de lecture · 5 février 2026Comment organiser les documents de voyage en famille (avant votre prochain voyage)](https://traveldocumentvault.com/fr/blog/how-to-organise-family-travel-documents/)

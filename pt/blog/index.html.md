@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/pt/blog/
 
 ##
 
+[RenovaçãoPode renovar o passaporte antes de expirar?Sim, e não há período de espera oficial. O que renovar antecipadamente custa em meses não usados, porque o passaporte antigo deixa de funcionar, e o que um novo número muda.19 de outubro de 20267 min de leitura](https://traveldocumentvault.com/pt/blog/renew-passport-before-expiry/)
+
+##
+
 [Documentos de ViagemProva de continuação de viagem: o que realmente contaA prova de continuação de viagem costuma ser um bilhete reservado para saída do seu destino. O que conta, por que pergunta a companhia aérea antes da fronteira e o que fazer se viajar só de ida.12 de outubro de 20267 min de leitura](https://traveldocumentvault.com/pt/blog/proof-of-onward-travel/)
 
 ##

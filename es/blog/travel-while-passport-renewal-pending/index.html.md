@@ -124,6 +124,8 @@ Un documento de viaje de emergencia es un documento temporal emitido por tu gobi
 
 ## Artículos relacionados
 
+[Renovación7 minutos de lectura · octubre de 2026¿Se puede renovar el pasaporte antes de que caduque?](https://traveldocumentvault.com/es/blog/renew-passport-before-expiry/)
+
 [Renovación8 minutos de lectura · 10 de febrero de 2026¿Cuánto tarda la renovación del pasaporte? (EE.UU., Reino Unido, Australia, Canadá)](https://traveldocumentvault.com/es/blog/how-long-does-passport-renewal-take/)
 
 [Pasaporte9 minutos de lectura · 9 de marzo de 2026¿Pasaporte caducado? Esto es exactamente qué hacer (paso a paso)](https://traveldocumentvault.com/es/blog/passport-expired-what-to-do/)

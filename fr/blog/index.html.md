@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 ##
 
+[RenouvellementPeut-on renouveler un passeport avant son expiration ?Oui, et il n'existe aucun délai d'attente officiel. Ce que renouveler à l'avance vous coûte en mois non utilisés, pourquoi l'ancien passeport cesse de fonctionner, et ce qu'un nouveau numéro change.19 octobre 20267 min de lecture](https://traveldocumentvault.com/fr/blog/renew-passport-before-expiry/)
+
+##
+
 [Documents de voyagePreuve de continuation de voyage : ce qui compte vraimentLa preuve de continuation de voyage, c'est généralement un billet réservé de sortie de votre destination. Ce qui compte, pourquoi la compagnie aérienne demande avant la frontière, et quoi faire si vous voyagez en aller simple.12 octobre 20267 min de lecture](https://traveldocumentvault.com/fr/blog/proof-of-onward-travel/)
 
 ##

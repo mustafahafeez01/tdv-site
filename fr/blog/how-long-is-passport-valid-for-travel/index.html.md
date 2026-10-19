@@ -107,6 +107,8 @@ Vous devriez contacter l'ambassade ou le consulat de votre pays le plus proche p
 
 ## Articles connexes
 
+[Renouvellement7 min de lecture - octobre 2026Peut-on renouveler un passeport avant son expiration ?](https://traveldocumentvault.com/fr/blog/renew-passport-before-expiry/)
+
 [Voyage en famille6 min de lecture - juillet 2026Règles du passeport Schengen pour les voyages en famille: ce que les parents se trompent](https://traveldocumentvault.com/fr/blog/schengen-passport-rules-family-trips/)
 
 [Règles du passeport8 min de lecture - février 2026La règle du passeport de 6 mois: les pays qui l'appliquent et comment ne jamais vous faire prendre](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)

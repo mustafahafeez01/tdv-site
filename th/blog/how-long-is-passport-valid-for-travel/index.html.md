@@ -107,6 +107,8 @@ Source: https://traveldocumentvault.com/th/blog/how-long-is-passport-valid-for-t
 
 ## บทความที่เกี่ยวข้อง
 
+[การต่ออายุอ่าน 7 นาที · ตุลาคม 2026ต่ออายุพาสปอร์ตก่อนหมดอายุได้หรือไม่](https://traveldocumentvault.com/th/blog/renew-passport-before-expiry/)
+
 [เดินทางกับครอบครัวอ่าน 6 นาที · กรกฎาคม 2026กฎพาสปอร์ตเชงเก้นสำหรับทริปครอบครัว: สิ่งที่พ่อแม่มักเข้าใจผิด](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
 
 [กฎเรื่องพาสปอร์ตอ่าน 8 นาทีกฎ 6 เดือนของพาสปอร์ต ประเทศไหนบังคับใช้ และจะไม่พลาดได้อย่างไร](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)

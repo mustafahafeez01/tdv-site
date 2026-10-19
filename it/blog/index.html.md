@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/it/blog/
 
 ##
 
+[RinnovoPuoi rinnovare il passaporto prima che scada?Sì, e non c'è un periodo di attesa ufficiale. Cosa costa in mesi non usati rinnovare in anticipo, perché il vecchio passaporto smette di funzionare, e cosa cambia un nuovo numero.19 ottobre 20267 min di lettura](https://traveldocumentvault.com/it/blog/renew-passport-before-expiry/)
+
+##
+
 [Documenti di ViaggioProva di prosecuzione del viaggio: cosa conta davveroLa prova di prosecuzione del viaggio di solito significa un biglietto prenotato per uscire dalla destinazione. Cosa conta, perché la chiede la compagnia aerea prima della frontiera, e cosa fare se voli in sola andata.12 ottobre 20267 min di lettura](https://traveldocumentvault.com/it/blog/proof-of-onward-travel/)
 
 ##

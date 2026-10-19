@@ -124,6 +124,8 @@ Dokumen perjalanan darurat adalah dokumen sementara yang diterbitkan pemerintah 
 
 ## Artikel Terkait
 
+[Perpanjangan7 menit baca · Oktober 2026Bisakah Anda Memperpanjang Paspor Sebelum Kedaluwarsa?](https://traveldocumentvault.com/id/blog/renew-passport-before-expiry/)
+
 [Keadaan Darurat Perjalanan7 menit baca · 27 Juli 2026Bisakah Anda Bepergian dengan Paspor yang Rusak?](https://traveldocumentvault.com/id/blog/damaged-passport-travel/)
 
 [Perpanjangan8 menit baca · 10 Feb 2026Berapa Lama Perpanjangan Paspor? (AS, Inggris, Australia, Kanada)](https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-take/)

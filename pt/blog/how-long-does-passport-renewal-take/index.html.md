@@ -135,6 +135,8 @@ Na maioria dos casos, sim — desde que o seu passaporte atual ainda seja válid
 
 ## Artigos Relacionados
 
+[Renovação7 min de leitura · outubro de 2026Pode renovar o passaporte antes de expirar?](https://traveldocumentvault.com/pt/blog/renew-passport-before-expiry/)
+
 [Regras de Passaporte7 min de leitura · 1 fev de 2026A Regra de Validade de 6 Meses do Passaporte: Quais Países a Aplicam](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/)
 
 [Organização7 min de leitura · 5 fev de 2026Como Organizar Documentos de Viagem Familiar (Antes da Sua Próxima Viagem)](https://traveldocumentvault.com/pt/blog/how-to-organise-family-travel-documents/)

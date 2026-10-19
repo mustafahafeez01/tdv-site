@@ -1,0 +1,42 @@
+{
+ "fr": {
+  "template": "cards",
+  "title": "Quand renouveler",
+  "cards": [
+   {
+    "heading": "À 12 mois restants",
+    "items": [
+     {
+      "text": "Commencer à planifier",
+      "mark": "dot"
+     },
+     {
+      "text": "Vérifier tous les passeports",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Au plus tard à 9 mois",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Envoyer la demande",
+      "mark": "tick"
+     },
+     {
+      "text": "Choisir des semaines sans voyage",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Avec un nouveau numéro, vérifiez ESTA, ETA et réservations",
+  "alt": "Schéma du moment où renouveler un passeport : à 12 mois restants, commencer à planifier le renouvellement et vérifier tous les passeports à la maison ; à 9 mois restants, avoir envoyé la demande pendant des semaines sans voyage prévu. Un nouveau passeport signifie un nouveau numéro, donc vérifiez votre ESTA, votre ETA et vos réservations",
+  "caption": "Deux dates à anticiper, et une période calme pour renouveler.",
+  "placement": {
+   "h2": 6,
+   "para": 1
+  }
+ }
+}

@@ -110,6 +110,8 @@ HM Passport Office публікує свій власний актуальний
 
 ## Пов'язані статті
 
+[Правила паспорта7 хв читання · жовтень 2026Чи можна поновити паспорт до закінчення строку дії?](https://traveldocumentvault.com/uk/blog/renew-passport-before-expiry/)
+
 [Правила паспорта7 хв читання · 1 лют 2026Правило 6 місяців для паспорта: які країни його застосовують і як ніколи не потрапити в халепу](https://traveldocumentvault.com/uk/blog/passport-expiry-6-month-rule/)
 
 [Сімейні подорожі7 хв читання · 8 лют 2026Як організувати сімейні подорожні документи (і не збожеволіти)](https://traveldocumentvault.com/uk/blog/how-to-organise-family-travel-documents/)

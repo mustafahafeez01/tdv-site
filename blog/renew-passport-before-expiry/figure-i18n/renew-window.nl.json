@@ -1,0 +1,42 @@
+{
+ "nl": {
+  "template": "cards",
+  "title": "Wanneer wij verlengen",
+  "cards": [
+   {
+    "heading": "Bij nog 12 maanden",
+    "items": [
+     {
+      "text": "Begin met plannen van de verlenging",
+      "mark": "dot"
+     },
+     {
+      "text": "Controleer elk paspoort thuis",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Uiterlijk bij nog 9 maanden",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Aanvraag is ingediend",
+      "mark": "tick"
+     },
+     {
+      "text": "Kies weken zonder geboekte reis",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Nieuw paspoort, nieuw nummer: check je ESTA, ETA en boekingen",
+  "alt": "Diagram van wanneer wij een paspoort zouden verlengen: bij nog 12 maanden, begin met plannen van de verlenging en controleer elk paspoort thuis; bij nog 9 maanden, zorg dat de aanvraag binnen is tijdens weken zonder geboekte reis. Een nieuw paspoort betekent een nieuw nummer, dus check je ESTA, ETA en boekingen",
+  "caption": "Twee data om rond te plannen, en één rustige periode om te verlengen.",
+  "placement": {
+   "h2": 6,
+   "para": 1
+  }
+ }
+}

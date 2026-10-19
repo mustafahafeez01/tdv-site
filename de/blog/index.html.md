@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
+[VerlängerungKann man einen Reisepass vor Ablauf erneuern?Ja, und es gibt keine offizielle Wartezeit. Was die vorzeitige Erneuerung an ungenutzten Monaten kostet, warum der alte Pass seine Gültigkeit verliert, und was eine neue Nummer verändert.19. Oktober 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/renew-passport-before-expiry/)
+
+##
+
 [ReisedokumenteNachweis der Weiterreise: Was wirklich zähltDer Nachweis der Weiterreise ist meist ein gebuchtes Ticket aus Ihrem Zielland. Was zählt, warum die Fluggesellschaft vor der Grenze fragt, und was zu tun ist, wenn Sie nur einen Hinflug haben.12. Oktober 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/proof-of-onward-travel/)
 
 ##

@@ -107,6 +107,8 @@ Source: https://traveldocumentvault.com/uk/blog/how-long-is-passport-valid-for-t
 
 ## Пов'язані статті
 
+[Поновлення7 хв читання · жовтень 2026Чи можна поновити паспорт до закінчення строку дії?](https://traveldocumentvault.com/uk/blog/renew-passport-before-expiry/)
+
 [Сімейні подорожі6 хв читання · липень 2026Шенгенські правила для паспортів під час родинних подорожей: у чому найчастіше помиляються батьки](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
 
 [Правила паспорта8 хв читання · 1 лют 2026Правило 6 місяців для паспорта: які країни його застосовують і як ніколи не потрапити в халепу](https://traveldocumentvault.com/uk/blog/passport-expiry-6-month-rule/)

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
+[PassförnyelseKan du förnya ett pass innan det går ut?Ja, och det finns ingen officiell väntetid. Vad tidig förnyelse kostar dig i oanvända månader, varför det gamla passet slutar fungera, och vad ett nytt nummer ändrar.19 oktober 20267 min läsning](https://traveldocumentvault.com/sv/blog/renew-passport-before-expiry/)
+
+##
+
 [ResehandlingarBevis på vidare resa: vad som faktiskt räknasBevis på vidare resa betyder oftast en bokad biljett ut ur resmålet. Vad som räknas, varför flygbolaget frågar innan gränsen gör det, och vad du gör om du reser med enkel biljett.12 oktober 20267 min läsning](https://traveldocumentvault.com/sv/blog/proof-of-onward-travel/)
 
 ##

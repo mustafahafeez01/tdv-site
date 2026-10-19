@@ -107,6 +107,8 @@ Anda perlu menghubungi kedutaan besar atau konsulat negara Anda yang terdekat un
 
 ## Artikel Terkait
 
+[Perpanjangan7 menit baca · Oktober 2026Bisakah Anda Memperpanjang Paspor Sebelum Kedaluwarsa?](https://traveldocumentvault.com/id/blog/renew-passport-before-expiry/)
+
 [Perjalanan Keluarga6 menit baca · Juli 2026Aturan Paspor Schengen untuk Perjalanan Keluarga: Kesalahan yang Sering Dilakukan Orang Tua](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
 
 [Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Negara Mana yang Menerapkannya dan Cara Menghindari Masalah](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)

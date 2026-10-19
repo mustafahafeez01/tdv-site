@@ -124,6 +124,8 @@ Een noodreisdocument is een tijdelijk document dat door je overheid wordt uitgeg
 
 ## Gerelateerde artikelen
 
+[Verlenging7 min leestijd · oktober 2026Kun je een paspoort verlengen voordat het verloopt?](https://traveldocumentvault.com/nl/blog/renew-passport-before-expiry/)
+
 [Reisnoodgevallen7 min leestijd · 27 juli 2026Kun je reizen met een beschadigd paspoort?](https://traveldocumentvault.com/nl/blog/damaged-passport-travel/)
 
 [Verlenging8 min leestijd · 10 feb 2026Hoe lang duurt een paspoortverlenging? (VS, VK, Australië, Canada)](https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-take/)

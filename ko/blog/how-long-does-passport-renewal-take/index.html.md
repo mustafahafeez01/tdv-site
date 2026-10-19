@@ -155,6 +155,8 @@ HM Passport Office는 자체 현재 처리 시간을 공개하고 있으며, 자
 
 ## 관련 기사
 
+[갱신7분 읽기 · 2026년 10월여권, 만료 전에 갱신해도 될까요?](https://traveldocumentvault.com/ko/blog/renew-passport-before-expiry/)
+
 [패스포트 규칙7분 읽기 · 2026년 2월 1일6개월 패스포트 규칙: 어느 국가가 시행하나요](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)
 
 [조직7분 읽기 · 2026년 2월 5일가족 여행 문서를 정리하는 방법 (다음 여행 전)](https://traveldocumentvault.com/ko/blog/how-to-organise-family-travel-documents/)

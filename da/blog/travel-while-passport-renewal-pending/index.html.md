@@ -124,6 +124,8 @@ Et nødrejsedokument er et midlertidigt dokument udstedt af din regering til ree
 
 ## Relaterede artikler
 
+[Fornyelse7 min læsning · oktober 2026Kan du forny dit pas, før det udløber?](https://traveldocumentvault.com/da/blog/renew-passport-before-expiry/)
+
 [Rejseakutte situationer7 min læsning · 27. juli 2026Kan du rejse med et beskadiget pas?](https://traveldocumentvault.com/da/blog/damaged-passport-travel/)
 
 [Fornyelse8 min læsning · 10. feb. 2026Hvor lang tid tager pasfornyelse? (USA, Storbritannien, Australien, Canada)](https://traveldocumentvault.com/da/blog/how-long-does-passport-renewal-take/)

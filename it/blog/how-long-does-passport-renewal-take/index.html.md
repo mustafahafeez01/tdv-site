@@ -135,6 +135,8 @@ Nella maggior parte dei casi, sì — a condizione che il vostro passaporto attu
 
 ## Articoli Correlati
 
+[Rinnovo7 min di lettura · ottobre 2026Puoi rinnovare il passaporto prima che scada?](https://traveldocumentvault.com/it/blog/renew-passport-before-expiry/)
+
 [Regole Passaporto7 min di lettura · 1 febbraio 2026La Regola del Passaporto di 6 Mesi: Quali Paesi l'Applicano](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/)
 
 [Organizzazione7 min di lettura · 5 febbraio 2026Come Organizzare i Documenti di Viaggio della Famiglia (Prima del Vostro Prossimo Viaggio)](https://traveldocumentvault.com/it/blog/how-to-organise-family-travel-documents/)

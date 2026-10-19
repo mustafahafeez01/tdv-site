@@ -124,6 +124,8 @@ Un document de voyage d'urgence est un document temporaire délivré par votre g
 
 ## Articles connexes
 
+[Renouvellement7 min de lecture · octobre 2026Peut-on renouveler un passeport avant son expiration ?](https://traveldocumentvault.com/fr/blog/renew-passport-before-expiry/)
+
 [Renouvellement8 min de lecture · 10 février 2026Combien de temps dure le renouvellement d'un passeport ? (États-Unis, Royaume-Uni, Australie, Canada)](https://traveldocumentvault.com/fr/blog/how-long-does-passport-renewal-take/)
 
 [Passeport9 min de lecture · 9 mars 2026Passeport expiré ? Voici exactement ce qu'il faut faire (pas à pas)](https://traveldocumentvault.com/fr/blog/passport-expired-what-to-do/)

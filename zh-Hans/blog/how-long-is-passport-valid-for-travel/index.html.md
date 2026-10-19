@@ -107,6 +107,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-long-is-passport-valid-
 
 ## 相关文章
 
+[更新7 分钟阅读 · 2026年10月护照可以在到期前更新吗？](https://traveldocumentvault.com/zh-Hans/blog/renew-passport-before-expiry/)
+
 [家庭旅行6 分钟阅读 · 2026年7月申根护照规则家庭旅行：父母做错的](https://traveldocumentvault.com/zh-Hans/blog/schengen-passport-rules-family-trips/)
 
 [护照规则8 分钟阅读 · 2026年2月6个月护照规则：哪些国家执行它以及如何永远不会被困](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)

@@ -124,6 +124,8 @@ Service Canada публикует актуальные стандарты обр
 
 ## Похожие статьи
 
+[Продление7 мин чтения · октябрь 2026Можно ли продлить паспорт досрочно?](https://traveldocumentvault.com/ru/blog/renew-passport-before-expiry/)
+
 [Экстренные ситуации в поездке7 мин чтения · 27 июля 2026Можно ли путешествовать с повреждённым паспортом?](https://traveldocumentvault.com/ru/blog/damaged-passport-travel/)
 
 [Продление8 мин чтения · 10 фев 2026Сколько времени занимает продление паспорта? (США, Великобритания, Австралия, Канада)](https://traveldocumentvault.com/ru/blog/how-long-does-passport-renewal-take/)

@@ -1,0 +1,42 @@
+{
+ "de": {
+  "template": "cards",
+  "title": "Wann wir erneuern würden",
+  "cards": [
+   {
+    "heading": "Bei noch 12 Monaten",
+    "items": [
+     {
+      "text": "Mit der Planung beginnen",
+      "mark": "dot"
+     },
+     {
+      "text": "Alle Pässe zu Hause prüfen",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Spätestens bei 9 Monaten",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Antrag einreichen",
+      "mark": "tick"
+     },
+     {
+      "text": "Wochen ohne Reise wählen",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Neuer Pass, neue Nummer: ESTA, ETA und Buchungen prüfen",
+  "alt": "Diagramm, wann man einen Reisepass erneuern sollte: bei noch 12 Monaten Gültigkeit die Erneuerung planen und alle Pässe zu Hause prüfen; spätestens bei 9 Monaten den Antrag einreichen, in Wochen ohne gebuchte Reise. Ein neuer Pass bedeutet eine neue Nummer, also ESTA, ETA und Buchungen prüfen",
+  "caption": "Zwei Termine zum Planen, und eine ruhige Lücke zum Erneuern.",
+  "placement": {
+   "h2": 6,
+   "para": 1
+  }
+ }
+}

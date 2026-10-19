@@ -107,6 +107,8 @@ Necesitarías ponerte en contacto con la embajada o consulado más cercano de tu
 
 ## Artículos Relacionados
 
+[Renovación7 min de lectura · octubre 2026¿Se puede renovar el pasaporte antes de que caduque?](https://traveldocumentvault.com/es/blog/renew-passport-before-expiry/)
+
 [Viajes en Familia6 min de lectura · julio 2026Reglas de Pasaporte de Schengen para Viajes en Familia: Lo Que los Padres Entienden Mal](https://traveldocumentvault.com/es/blog/schengen-passport-rules-family-trips/)
 
 [Reglas de Pasaporte8 min de lectura · febrero 2026La Regla de Pasaporte de 6 Meses: Qué Países la Aplican y Cómo No Ser Atrapado](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/)

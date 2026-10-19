@@ -1,0 +1,42 @@
+{
+ "id": {
+  "template": "cards",
+  "title": "Kapan sebaiknya memperpanjang",
+  "cards": [
+   {
+    "heading": "Saat tersisa 12 bulan",
+    "items": [
+     {
+      "text": "Mulai rencanakan perpanjangan",
+      "mark": "dot"
+     },
+     {
+      "text": "Periksa semua paspor di rumah",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Selambatnya sisa 9 bulan",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Ajukan permohonannya",
+      "mark": "tick"
+     },
+     {
+      "text": "Pilih minggu tanpa perjalanan",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Paspor baru, nomor baru: periksa ESTA, ETA, dan pemesanan Anda",
+  "alt": "Diagram kapan sebaiknya memperpanjang paspor: saat tersisa 12 bulan, mulai rencanakan perpanjangan dan periksa semua paspor di rumah; selambatnya 9 bulan, ajukan permohonan dalam minggu tanpa perjalanan yang sudah dipesan. Paspor baru berarti nomor baru, jadi periksa ESTA, ETA, dan pemesanan Anda",
+  "caption": "Dua tanggal untuk direncanakan, dan satu jeda tenang untuk memperpanjang.",
+  "placement": {
+   "h2": 6,
+   "para": 1
+  }
+ }
+}

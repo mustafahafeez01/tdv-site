@@ -135,6 +135,8 @@ En la mayoría de casos, sí —siempre que tu pasaporte actual sea válido y no
 
 ## Artículos relacionados
 
+[Renovación7 minutos de lectura · octubre de 2026¿Se puede renovar el pasaporte antes de que caduque?](https://traveldocumentvault.com/es/blog/renew-passport-before-expiry/)
+
 [Reglas de pasaporte7 minutos de lectura · 1 de febrero de 2026La regla de pasaporte de 6 meses: Qué países la aplican](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/)
 
 [Organización7 minutos de lectura · 5 de febrero de 2026Cómo organizar los documentos de viaje de tu familia (antes de tu próximo viaje)](https://traveldocumentvault.com/es/blog/how-to-organise-family-travel-documents/)

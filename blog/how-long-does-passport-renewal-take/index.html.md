@@ -112,6 +112,8 @@ In most cases, yes - provided your current passport is still valid and you haven
 
 ## Related Articles
 
+[Renewal7 min read · October 2026Can You Renew a Passport Before It Expires?](https://traveldocumentvault.com/blog/renew-passport-before-expiry/)
+
 [Travel Rules6 min read · Sep 8UK ETA: Which Passport Is Yours Tied To?](https://traveldocumentvault.com/blog/uk-eta-passport-rules/)
 
 [Passport Rules7 min read · Feb 1, 2026The 6-Month Passport Rule: Which Countries Enforce It](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)

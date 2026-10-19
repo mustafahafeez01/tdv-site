@@ -110,6 +110,8 @@ HM Passport Office публикует свой собственный актуа
 
 ## Похожие статьи
 
+[Паспорт7 мин чтения · октябрь 2026Можно ли продлить паспорт досрочно?](https://traveldocumentvault.com/ru/blog/renew-passport-before-expiry/)
+
 [Правила паспорта7 мин чтения · февраль 2026Правило шести месяцев для паспорта: какие страны его требуют и как не столкнуться с отказом на границе](https://traveldocumentvault.com/ru/blog/passport-expiry-6-month-rule/)
 
 [Путешествия с семьёй7 мин чтения · февраль 2026Как организовать документы для путешествий всей семьи (и не сойти с ума)](https://traveldocumentvault.com/ru/blog/how-to-organise-family-travel-documents/)

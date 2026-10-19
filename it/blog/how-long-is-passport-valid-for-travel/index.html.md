@@ -107,6 +107,8 @@ Dovresti contattare l'ambasciata o il consolato più vicino del tuo paese per ot
 
 ## Articoli correlati
 
+[Rinnovolettura di 7 min · ottobre 2026Puoi rinnovare il passaporto prima che scada?](https://traveldocumentvault.com/it/blog/renew-passport-before-expiry/)
+
 [Viaggio in famiglialettura di 6 min · luglio 2026Regole del passaporto Schengen per viaggi in famiglia: quello che i genitori sbagliano](https://traveldocumentvault.com/it/blog/schengen-passport-rules-family-trips/)
 
 [Regole del passaportolettura di 8 min · febbraio 2026La regola dei 6 mesi del passaporto: quali paesi la applicano e come non farsi sorprendere](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/)

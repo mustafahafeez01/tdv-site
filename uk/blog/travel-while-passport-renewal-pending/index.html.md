@@ -124,6 +124,8 @@ Service Canada публікує актуальні стандарти оброб
 
 ## Пов'язані статті
 
+[Поновлення7 хв читання · жовтень 2026Чи можна поновити паспорт до закінчення строку дії?](https://traveldocumentvault.com/uk/blog/renew-passport-before-expiry/)
+
 [Надзвичайні ситуації в подорожі7 хв читання · 27 лип 2026Чи можна подорожувати з пошкодженим паспортом?](https://traveldocumentvault.com/uk/blog/damaged-passport-travel/)
 
 [Поновлення8 хв читання · 10 лют 2026Скільки часу займає поновлення паспорта? (США, Велика Британія, Австралія, Канада)](https://traveldocumentvault.com/uk/blog/how-long-does-passport-renewal-take/)

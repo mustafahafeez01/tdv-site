@@ -110,6 +110,8 @@ I de flesta fall, ja – förutsatt att ditt nuvarande pass fortfarande är gilt
 
 ## Relaterade artiklar
 
+[Förnyelse7 min läsning · oktober 2026Kan du förnya ett pass innan det går ut?](https://traveldocumentvault.com/sv/blog/renew-passport-before-expiry/)
+
 [Passregler7 min läsning · 1 feb 20266-månadersregeln för pass: vilka länder tillämpar den och hur du aldrig blir tagen på sängen](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/)
 
 [Organisation7 min läsning · 5 feb 2026Så organiserar du familjens resehandlingar (inför nästa resa)](https://traveldocumentvault.com/sv/blog/how-to-organise-family-travel-documents/)

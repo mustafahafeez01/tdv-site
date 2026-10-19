@@ -124,6 +124,8 @@ Service Canada เผยแพร่มาตรฐานระยะเวล�
 
 ## บทความที่เกี่ยวข้อง
 
+[การต่ออายุอ่าน 7 นาที · ตุลาคม 2026ต่ออายุพาสปอร์ตก่อนหมดอายุได้หรือไม่](https://traveldocumentvault.com/th/blog/renew-passport-before-expiry/)
+
 [เหตุฉุกเฉินระหว่างเดินทางอ่าน 7 นาที · 27 กรกฎาคม 2026เดินทางด้วยพาสปอร์ตชำรุดได้ไหม](https://traveldocumentvault.com/th/blog/damaged-passport-travel/)
 
 [การต่ออายุอ่าน 8 นาที · 10 ก.พ. 2026การต่ออายุพาสปอร์ตใช้เวลานานแค่ไหน (สหรัฐฯ สหราชอาณาจักร ออสเตรเลีย แคนาดา)](https://traveldocumentvault.com/th/blog/how-long-does-passport-renewal-take/)

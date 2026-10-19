@@ -1,0 +1,42 @@
+{
+ "en": {
+  "template": "cards",
+  "title": "When we'd renew",
+  "cards": [
+   {
+    "heading": "At 12 months left",
+    "items": [
+     {
+      "text": "Start planning the renewal",
+      "mark": "dot"
+     },
+     {
+      "text": "Check every passport at home",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "By 9 months left",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Have the application in",
+      "mark": "tick"
+     },
+     {
+      "text": "Pick weeks with no trip booked",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "New passport, new number: check your ESTA, ETA and bookings",
+  "alt": "Diagram of when we'd renew a passport: at 12 months left, start planning the renewal and check every passport at home; by 9 months left, have the application in during weeks with no trip booked. A new passport means a new number, so check your ESTA, ETA and bookings",
+  "caption": "Two dates to plan around, and one quiet gap to renew in.",
+  "placement": {
+   "h2": 6,
+   "para": 1
+  }
+ }
+}

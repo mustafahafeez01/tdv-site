@@ -135,6 +135,8 @@ In den meisten Fällen ja – solange Ihr aktueller Reisepass noch gültig ist u
 
 ## Verwandte Artikel
 
+[Verlängerung7 Minuten Lesezeit · Oktober 2026Kann man einen Reisepass vor Ablauf erneuern?](https://traveldocumentvault.com/de/blog/renew-passport-before-expiry/)
+
 [Reisepass-Regeln7 Minuten Lesezeit · 1. Februar 2026Die 6-Monats-Reisepass-Regel: Welche Länder sie durchsetzen](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/)
 
 [Organisation7 Minuten Lesezeit · 5. Februar 2026So organisieren Sie Familien-Reisedokumente (vor Ihrer nächsten Reise)](https://traveldocumentvault.com/de/blog/how-to-organise-family-travel-documents/)

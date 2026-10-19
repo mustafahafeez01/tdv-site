@@ -124,6 +124,8 @@ Service Canadaは現在の処理基準を公表しており、対面申請、郵
 
 ## 関連記事
 
+[更新7分 - 2026年10月パスポートは期限切れ前に更新できますか？](https://traveldocumentvault.com/ja/blog/renew-passport-before-expiry/)
+
 [更新8分 - 2026年2月10日パスポート更新にはどのくらい時間がかかりますか(アメリカ、イギリス、オーストラリア、カナダ)](https://traveldocumentvault.com/ja/blog/how-long-does-passport-renewal-take/)
 
 [パスポート9分 - 2026年3月9日パスポートが期限切れですか正確にどうするかについて(ステップバイステップ)](https://traveldocumentvault.com/ja/blog/passport-expired-what-to-do/)

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
+[Renovación¿Se puede renovar el pasaporte antes de que caduque?Sí, y no hay ningún plazo de espera oficial. Lo que renovar con antelación te cuesta en meses sin usar, por qué el pasaporte antiguo deja de funcionar y qué cambia un número nuevo.19 de octubre de 20267 min de lectura](https://traveldocumentvault.com/es/blog/renew-passport-before-expiry/)
+
+##
+
 [Documentos de ViajePrueba de Viaje de Continuación: Qué Cuenta RealmenteLa prueba de viaje de continuación suele ser un billete reservado para salir de tu destino. Qué cuenta, por qué la pide la aerolínea antes que la frontera, y qué hacer si viajas solo de ida.12 de octubre de 20267 min de lectura](https://traveldocumentvault.com/es/blog/proof-of-onward-travel/)
 
 ##

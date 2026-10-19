@@ -107,6 +107,8 @@ Teria de contactar a embaixada ou consulado mais próximo do seu país para obte
 
 ## Artigos Relacionados
 
+[Renovação7 min de leitura · outubro de 2026Pode renovar o passaporte antes de expirar?](https://traveldocumentvault.com/pt/blog/renew-passport-before-expiry/)
+
 [Viagens em Família6 min leitura · julho 2026Regras de Passaporte Schengen para Viagens em Família — O que os Pais Entendem Mal](https://traveldocumentvault.com/pt/blog/schengen-passport-rules-family-trips/)
 
 [Regras de Passaporte8 min leitura · fevereiro 2026A Regra do Passaporte de 6 Meses — Quais Países a Aplicam e Como Nunca Ser Apanhado](https://traveldocumentvault.com/pt/blog/passport-expiry-6-month-rule/)

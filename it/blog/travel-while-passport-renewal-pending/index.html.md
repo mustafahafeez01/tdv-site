@@ -124,6 +124,8 @@ Un documento di viaggio d'emergenza è un documento temporaneo rilasciato dal vo
 
 ## Articoli correlati
 
+[Rinnovo7 min di lettura · ottobre 2026Puoi rinnovare il passaporto prima che scada?](https://traveldocumentvault.com/it/blog/renew-passport-before-expiry/)
+
 [Rinnovo8 min di lettura · 10 feb 2026Quanto tempo ci vuole per rinnovare un passaporto? (USA, UK, Australia, Canada)](https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-take/)
 
 [Passaporto9 min di lettura · 9 mar 2026Passaporto scaduto? Ecco esattamente cosa fare (passo dopo passo)](https://traveldocumentvault.com/it/blog/passport-expired-what-to-do/)

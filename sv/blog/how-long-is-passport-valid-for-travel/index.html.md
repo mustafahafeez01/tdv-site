@@ -107,6 +107,8 @@ Du skulle behöva kontakta ditt lands närmaste ambassad eller konsulat för att
 
 ## Relaterade artiklar
 
+[Förnyelse7 min läsning · oktober 2026Kan du förnya ett pass innan det går ut?](https://traveldocumentvault.com/sv/blog/renew-passport-before-expiry/)
+
 [Familjeresor6 min läsning · juli 2026Schengenreglerna för pass vid familjeresor: vad föräldrar missar](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
 
 [Passregler8 min läsning · 1 feb 20266-månadersregeln för pass: vilka länder tillämpar den och hur du aldrig blir tagen på sängen](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/)

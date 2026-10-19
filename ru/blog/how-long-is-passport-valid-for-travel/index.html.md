@@ -107,6 +107,8 @@ Source: https://traveldocumentvault.com/ru/blog/how-long-is-passport-valid-for-t
 
 ## Похожие статьи
 
+[Продление7 мин чтения · октябрь 2026Можно ли продлить паспорт досрочно?](https://traveldocumentvault.com/ru/blog/renew-passport-before-expiry/)
+
 [Путешествия с семьёй6 мин чтения · июль 2026Шенгенские правила для паспортов при семейных поездках: в чём чаще всего ошибаются родители](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
 
 [Правила паспорта8 мин чтения · февраль 2026Правило шести месяцев для паспорта: какие страны его требуют и как не столкнуться с отказом на границе](https://traveldocumentvault.com/ru/blog/passport-expiry-6-month-rule/)

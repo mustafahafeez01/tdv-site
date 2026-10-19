@@ -1,0 +1,42 @@
+{
+ "pt": {
+  "template": "cards",
+  "title": "Quando renovaríamos",
+  "cards": [
+   {
+    "heading": "Com 12 meses restantes",
+    "items": [
+     {
+      "text": "Comece a planear a renovação",
+      "mark": "dot"
+     },
+     {
+      "text": "Verifique todos os passaportes em casa",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Até 9 meses restantes",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Tenha o pedido feito",
+      "mark": "tick"
+     },
+     {
+      "text": "Escolha semanas sem viagem marcada",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Novo passaporte, novo número: verifique a ESTA, a ETA e as reservas",
+  "alt": "Diagrama de quando renovaríamos um passaporte: com 12 meses restantes, comece a planear a renovação e verifique todos os passaportes em casa; até 9 meses restantes, tenha o pedido feito durante semanas sem viagem marcada. Um novo passaporte significa um novo número, por isso verifique a sua ESTA, a ETA e as reservas",
+  "caption": "Duas datas para planear, e um intervalo tranquilo para renovar.",
+  "placement": {
+   "h2": 6,
+   "para": 1
+  }
+ }
+}

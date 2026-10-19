@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
+[Renewal Can You Renew a Passport Before It Expires? Yes, and there's no official waiting period. What renewing early costs you in unused months, why the old passport stops working, and what a new number changes. October 19, 20267 min read](https://traveldocumentvault.com/blog/renew-passport-before-expiry/)
+
+##
+
 [Travel Documents Proof of Onward Travel: What Actually Counts Proof of onward travel usually means a booked ticket out of your destination. What counts, why the airline asks before the border does, and what to do if you're flying one way. October 12, 20267 min read](https://traveldocumentvault.com/blog/proof-of-onward-travel/)
 
 ##

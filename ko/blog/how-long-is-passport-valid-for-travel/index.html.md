@@ -107,6 +107,8 @@ Source: https://traveldocumentvault.com/ko/blog/how-long-is-passport-valid-for-t
 
 ## 관련 기사
 
+[갱신약 7분 · 2026년 10월여권, 만료 전에 갱신해도 될까요?](https://traveldocumentvault.com/ko/blog/renew-passport-before-expiry/)
+
 [가족 여행약 6분 · 2026년 7월셴겐 패스포트 규칙(가족 여행): 부모가 놓치는 것](https://traveldocumentvault.com/ko/blog/schengen-passport-rules-family-trips/)
 
 [패스포트 규칙약 8분 · 2026년 2월6개월 패스포트 규칙: 어느 국가가 적용하는지, 걸려들지 않는 방법](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)

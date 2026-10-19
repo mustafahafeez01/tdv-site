@@ -155,6 +155,8 @@ HM Passport Officeは独自の現在の処理時間を公表していますが�
 
 ## 関連記事
 
+[更新7分の読み物・2026年10月パスポートは期限切れ前に更新できますか？](https://traveldocumentvault.com/ja/blog/renew-passport-before-expiry/)
+
 [パスポートルール7分の読み物・2026年2月1日6ヶ月パスポートルール。どの国がこれを実施しますか](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)
 
 [整理7分の読み物・2026年2月5日家族の旅行書類を整理する方法(次の旅行の前に)](https://traveldocumentvault.com/ja/blog/how-to-organise-family-travel-documents/)

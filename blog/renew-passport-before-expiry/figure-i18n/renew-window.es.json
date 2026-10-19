@@ -1,0 +1,42 @@
+{
+ "es": {
+  "template": "cards",
+  "title": "Cuándo renovaríamos",
+  "cards": [
+   {
+    "heading": "A los 12 meses",
+    "items": [
+     {
+      "text": "Empieza a planificar la renovación",
+      "mark": "dot"
+     },
+     {
+      "text": "Revisa todos los pasaportes de casa",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "A más tardar a los 9 meses",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Ten la solicitud presentada",
+      "mark": "tick"
+     },
+     {
+      "text": "Elige semanas sin viaje reservado",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Pasaporte nuevo, número nuevo: revisa tu ESTA, ETA y reservas",
+  "alt": "Diagrama de cuándo renovaríamos un pasaporte: a los 12 meses, empieza a planificar la renovación y revisa todos los pasaportes de casa; a los 9 meses, ten la solicitud presentada en semanas sin viaje reservado. Un pasaporte nuevo significa un número nuevo, así que revisa tu ESTA, ETA y reservas",
+  "caption": "Dos fechas para planificar, y un hueco tranquilo para renovar.",
+  "placement": {
+   "h2": 6,
+   "para": 1
+  }
+ }
+}

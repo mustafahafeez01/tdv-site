@@ -107,6 +107,8 @@ Dan moet je contact opnemen met de dichtstbijzijnde ambassade of het consulaat v
 
 ## Gerelateerde artikelen
 
+[Verlenging7 min leestijd · oktober 2026Kun je een paspoort verlengen voordat het verloopt?](https://traveldocumentvault.com/nl/blog/renew-passport-before-expiry/)
+
 [Gezinsreizen6 min leestijd · juli 2026Schengen-paspoortregels voor gezinsreizen: wat ouders vaak fout doen](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
 
 [Paspoortregels8 min leestijd · feb 2026De 6 maanden-paspoortregel: welke landen die hanteren en hoe je nooit voor verrassingen komt te staan](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/)

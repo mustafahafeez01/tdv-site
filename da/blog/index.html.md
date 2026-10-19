@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
+[FornyelseKan du forny dit pas, før det udløber?Ja, og der er ingen officiel venteperiode. Hvad tidlig fornyelse koster dig i ubrugte måneder, hvorfor det gamle pas stopper med at virke, og hvad et nyt nummer ændrer.19. oktober 20267 min læsning](https://traveldocumentvault.com/da/blog/renew-passport-before-expiry/)
+
+##
+
 [RejsedokumenterBevis for videre rejse: hvad der faktisk gælderBevis for videre rejse betyder som regel en booket billet ud af dit rejsemål. Hvad der gælder, hvorfor flyselskabet spørger, før grænsen gør det, og hvad du gør, hvis du flyver med en enkeltbillet.12. oktober 20267 min læsning](https://traveldocumentvault.com/da/blog/proof-of-onward-travel/)
 
 ##

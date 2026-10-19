@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
+[护照更新护照可以在到期前更新吗？可以，而且没有官方等待期。提前更新会损失多少未使用的有效期，旧护照为什么会失效，以及新号码会带来哪些改变。2026年10月19日7 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/renew-passport-before-expiry/)
+
+##
+
 [旅行证件后续行程证明：到底什么才算数后续行程证明通常是指一张预订好的离境机票。本文说明什么算数，航空公司为什么会在边境之前先问，以及持单程机票出行时该怎么办。2026年10月12日7 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/proof-of-onward-travel/)
 
 ##

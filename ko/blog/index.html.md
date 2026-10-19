@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
+[갱신여권, 만료 전에 갱신해도 될까요?네, 공식적인 대기 기간은 없습니다. 조기에 갱신하면 남은 유효기간에서 무엇을 잃는지, 기존 여권은 왜 효력을 잃는지, 새 번호가 무엇을 바꾸는지 정리했습니다.2026년 10월 19일7분 읽기](https://traveldocumentvault.com/ko/blog/renew-passport-before-expiry/)
+
+##
+
 [여행 서류출국 예정 증빙, 실제로 인정되는 것은 무엇일까출국 예정 증빙은 대개 목적지에서 나가는 예약된 티켓을 의미합니다. 무엇이 인정되는지, 국경보다 항공사가 먼저 묻는 이유, 편도로 여행할 때 어떻게 해야 하는지 정리했습니다.2026년 10월 12일7분 읽기](https://traveldocumentvault.com/ko/blog/proof-of-onward-travel/)
 
 ##

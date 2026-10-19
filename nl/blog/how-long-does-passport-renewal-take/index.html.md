@@ -110,6 +110,8 @@ In de meeste gevallen wel – mits je huidige paspoort nog geldig is en je het n
 
 ## Gerelateerde artikelen
 
+[Verlenging7 min leestijd · oktober 2026Kun je een paspoort verlengen voordat het verloopt?](https://traveldocumentvault.com/nl/blog/renew-passport-before-expiry/)
+
 [Paspoortregels7 min leestijd · feb 2026De 6 maanden-paspoortregel: welke landen die hanteren en hoe je nooit voor verrassingen komt te staan](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/)
 
 [Gezinsreizen7 min leestijd · feb 2026Zo organiseer je de reisdocumenten van je gezin (voor je volgende reis)](https://traveldocumentvault.com/nl/blog/how-to-organise-family-travel-documents/)

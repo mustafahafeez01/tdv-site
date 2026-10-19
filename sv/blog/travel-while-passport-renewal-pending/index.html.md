@@ -124,6 +124,8 @@ Ett nödreseddokument är ett tillfälligt dokument som utfärdas av din regerin
 
 ## Relaterade artiklar
 
+[Förnyelse7 min läsning · oktober 2026Kan du förnya ett pass innan det går ut?](https://traveldocumentvault.com/sv/blog/renew-passport-before-expiry/)
+
 [Reseakuta situationer7 min läsning · 27 juli 2026Kan du resa med ett skadat pass?](https://traveldocumentvault.com/sv/blog/damaged-passport-travel/)
 
 [Förnyelse8 min läsning · 10 feb 2026Hur lång tid tar passförnyelse? (USA, Storbritannien, Australien, Kanada)](https://traveldocumentvault.com/sv/blog/how-long-does-passport-renewal-take/)

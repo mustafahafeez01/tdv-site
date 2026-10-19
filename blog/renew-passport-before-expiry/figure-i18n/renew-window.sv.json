@@ -1,0 +1,42 @@
+{
+ "sv": {
+  "template": "cards",
+  "title": "När vi skulle förnya",
+  "cards": [
+   {
+    "heading": "Vid 12 månader kvar",
+    "items": [
+     {
+      "text": "Börja planera förnyelsen",
+      "mark": "dot"
+     },
+     {
+      "text": "Kontrollera alla pass hemma",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Senast vid 9 månader kvar",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Ha ansökan inskickad",
+      "mark": "tick"
+     },
+     {
+      "text": "Välj veckor utan bokad resa",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Nytt pass, nytt nummer: kontrollera ditt ESTA, ETA och dina bokningar",
+  "alt": "Diagram över när vi skulle förnya ett pass: vid 12 månader kvar, börja planera förnyelsen och kontrollera alla pass hemma; senast vid 9 månader kvar, ha ansökan inskickad under veckor utan bokad resa. Ett nytt pass innebär ett nytt nummer, så kontrollera ditt ESTA, ETA och dina bokningar",
+  "caption": "Två datum att planera kring, och ett lugnt gap att förnya i.",
+  "placement": {
+   "h2": 6,
+   "para": 1
+  }
+ }
+}
