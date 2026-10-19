@@ -28,6 +28,18 @@ A card that expires tomorrow is technically still a valid travel document today.
 
 The Schengen zone is where this flexibility matters most. As an EU citizen with a valid ID card, you can move freely across open borders between Schengen countries without passport control. The same right applies at non-Schengen EU borders too, because the card works through EU free movement law, not Schengen membership.
 
+## What Counts as an EEA National ID Card
+
+When a booking form or a check-in agent asks for an "EEA national ID card", they mean the identity card your own country issues to its citizens, the one that states your nationality. The EEA is the 27 EU countries plus Iceland, Liechtenstein and Norway; Switzerland sits outside it, but the European Commission's Your Europe guidance confirms EU citizens can travel there on a national ID card too.
+
+A residence card shows where you live, not your nationality, so it travels with a passport rather than replacing it. The UK government tells British residents in Spain to show their TIE residence card when presenting the passport at Spanish border control. Driving licences, bank cards and tax cards don't count either, and Your Europe warns they may be refused as proof of identity.
+
+The current EU card is easy to recognise. It's credit-card sized, has a machine-readable zone (the lines of code a scanner reads), and shows the issuing country's two-letter code in a blue rectangle ringed by 12 yellow stars on the front. A chip inside holds your photo and two fingerprints.
+
+Older cards are the ones that catch people out. Under the EU's identity card regulation, a card without a working machine-readable zone, or one below the international minimum security standard, stopped being valid by 3 August 2026, even if the printed date runs later. Most other older-format cards last until their printed expiry or 3 August 2031, whichever comes first. If your card predates the star-ringed code and has no machine-readable zone, we'd renew now rather than test it at the gate.
+
+For the UK, the card usually won't work. The Home Office stopped accepting most EU, EEA and Swiss ID cards as travel documents in October 2021, with limited exceptions, so check GOV.UK before a UK trip.
+
 ## When You Need the Passport Instead
 
 For most destinations outside the EU and EEA, a national ID card is not recognised as a valid travel document. Entry requirements vary by country and by nationality, so checking your destination's official immigration guidance before you travel is the only way to be sure. A passport is what most immigration systems worldwide expect.
@@ -74,6 +86,10 @@ What helps is a single place for both documents, one that keeps each expiry date
 Start today: pull out your ID card, check the expiry date, and look it over for cracks, fading, or warped plastic. If it's borderline, book the renewal before you book the trip.
 
 ## Frequently Asked Questions
+
+### What is an EEA national ID card?
+
+It's the national identity card an EEA country (the EU plus Iceland, Liechtenstein and Norway) issues to its own citizens, stating their nationality. An EU citizen can use one instead of a passport to travel across the EU, Iceland, Liechtenstein, Norway and Switzerland. A residence card, driving licence or bank card isn't one, and older EU cards without a working machine-readable zone stopped being valid by 3 August 2026.
 
 ### Can I travel to another EU country with just my national ID card?
 

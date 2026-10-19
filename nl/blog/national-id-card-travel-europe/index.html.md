@@ -28,6 +28,18 @@ Een kaart die morgen verloopt, is vandaag technisch gezien nog een geldig reisdo
 
 In het Schengengebied is deze flexibiliteit het belangrijkst. Als EU-burger met een geldige identiteitskaart kun je vrij over de open grenzen tussen Schengenlanden reizen, zonder paspoortcontrole. Hetzelfde recht geldt aan de grenzen van EU-landen die niet bij Schengen horen – de kaart werkt vanwege de EU-wetgeving voor vrij verkeer, niet vanwege het Schengenlidmaatschap.
 
+## Wat telt als een nationale EER-identiteitskaart
+
+Als een boekingsformulier of een incheckmedewerker vraagt naar een "nationale EER-identiteitskaart", bedoelen ze de identiteitskaart die je eigen land aan zijn burgers uitgeeft, de kaart die je nationaliteit vermeldt. De EER omvat de 27 EU-landen plus IJsland, Liechtenstein en Noorwegen; Zwitserland valt daarbuiten, maar de Your Europe-richtlijnen van de Europese Commissie bevestigen dat EU-burgers ook daarheen kunnen reizen met een nationale identiteitskaart.
+
+Een verblijfskaart toont waar je woont, niet je nationaliteit, dus die reist samen met een paspoort in plaats van het te vervangen. De Britse overheid vraagt Britse inwoners van Spanje om hun TIE-verblijfskaart te tonen naast het paspoort bij de Spaanse grenscontrole. Rijbewijzen, bankkaarten en belastingkaarten tellen ook niet, en Your Europe waarschuwt dat ze als identiteitsbewijs kunnen worden geweigerd.
+
+De huidige EU-kaart is makkelijk te herkennen. Ze heeft het formaat van een creditcard, een machineleesbare zone (de coderegels die een scanner leest), en toont de tweeletterige landcode van het uitgevende land in een blauwe rechthoek omringd door 12 gele sterren op de voorkant. Een chip erin bevat je foto en twee vingerafdrukken.
+
+Het zijn de oudere kaarten die mensen in de problemen brengen. Volgens de EU-verordening voor identiteitskaarten verloor een kaart zonder werkende machineleesbare zone, of een die onder de internationale minimumveiligheidsnorm valt, uiterlijk op 3 augustus 2026 haar geldigheid, ook als de gedrukte datum later ligt. De meeste andere oudere kaartformaten blijven geldig tot hun gedrukte vervaldatum of 3 augustus 2031, wat zich het eerst voordoet. Als je kaart van vóór de met sterren omringde code is en geen machineleesbare zone heeft, zouden wij hem nu laten vernieuwen in plaats van hem aan de grens te testen.
+
+Voor het Verenigd Koninkrijk werkt de kaart meestal niet. De Home Office stopte in oktober 2021 met het accepteren van de meeste EU-, EER- en Zwitserse identiteitskaarten als reisdocument, met beperkte uitzonderingen, dus controleer GOV.UK voordat je naar het VK reist.
+
 ## Wanneer je toch je paspoort nodig hebt
 
 Voor de meeste bestemmingen buiten de EU en de EER wordt een nationale identiteitskaart niet erkend als geldig reisdocument. Inreisvereisten verschillen per land en per nationaliteit – de officiële immigratie-informatie van je bestemming raadplegen voordat je vertrekt, is de enige manier om zeker te zijn. De meeste immigratiesystemen wereldwijd verwachten een paspoort.
@@ -74,6 +86,10 @@ Wat helpt, is één plek voor beide documenten, die elke vervaldatum bewaart en 
 Begin vandaag: pak je identiteitskaart erbij, controleer de vervaldatum en kijk of er barsten, vervaging of een kromgetrokken kaart te zien zijn. Zit hij op het randje, boek dan de verlenging voordat je de reis boekt.
 
 ## Veelgestelde vragen
+
+### Wat is een nationale EER-identiteitskaart?
+
+Het is de nationale identiteitskaart die een EER-land (de EU plus IJsland, Liechtenstein en Noorwegen) aan zijn eigen burgers uitgeeft en die hun nationaliteit vermeldt. Een EU-burger kan die gebruiken in plaats van een paspoort om te reizen binnen de EU, IJsland, Liechtenstein, Noorwegen en Zwitserland. Een verblijfskaart, rijbewijs of bankkaart is dat niet, en oudere EU-kaarten zonder werkende machineleesbare zone verloren uiterlijk op 3 augustus 2026 hun geldigheid.
 
 ### Kan ik met alleen mijn nationale identiteitskaart naar een ander EU-land reizen?
 

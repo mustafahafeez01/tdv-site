@@ -28,6 +28,18 @@ Et kort, der udløber i morgen, er teknisk set stadig et gyldigt rejsedokument i
 
 Det er i Schengenområdet, at denne fleksibilitet betyder mest. Som EU-borger med et gyldigt ID-kort kan du bevæge dig frit mellem Schengenlande uden paskontrol. Den samme ret gælder ved grænser til EU-lande uden for Schengen – kortet fungerer på grund af EU's ret til fri bevægelighed, ikke på grund af Schengen-medlemskab.
 
+## Hvad der tæller som et nationalt EØS-ID-kort
+
+Når en bookingformular eller en indcheckningsmedarbejder spørger efter et "nationalt EØS-ID-kort", mener de det identitetskort, dit eget land udsteder til sine borgere, det der angiver din nationalitet. EØS er EU's 27 lande plus Island, Liechtenstein og Norge; Schweiz står udenfor, men EU-Kommissionens Your Europe-vejledning bekræfter, at EU-borgere også kan rejse dertil på et nationalt ID-kort.
+
+Et opholdskort viser, hvor du bor, ikke din nationalitet, så det følger med passet i stedet for at erstatte det. Den britiske regering beder britiske borgere bosat i Spanien om at vise deres TIE-opholdskort, når de fremviser passet ved den spanske grænsekontrol. Kørekort, bankkort og skattekort tæller heller ikke, og Your Europe advarer om, at de kan blive afvist som identitetsbevis.
+
+Det nuværende EU-kort er let at genkende. Det har kreditkortstørrelse, en maskinlæsbar zone (de linjer med kode, en skanner læser), og viser det udstedende lands to-bogstavskode i et blåt rektangel omkranset af 12 gule stjerner på forsiden. En chip indeni indeholder dit foto og to fingeraftryk.
+
+Det er de ældre kort, der skaber problemer. I henhold til EU's forordning om identitetskort ophørte et kort uden en fungerende maskinlæsbar zone, eller et under den internationale minimumssikkerhedsstandard, med at være gyldigt senest 3. august 2026, selv hvis den trykte dato ligger senere. De fleste andre ældre kortformater gælder til deres trykte udløbsdato eller 3. august 2031, alt efter hvad der kommer først. Hvis dit kort er ældre end den stjerneomkransede kode og ikke har en maskinlæsbar zone, vil vi hellere forny det nu end teste det ved grænsen.
+
+For Storbritannien virker kortet normalt ikke. Home Office ophørte med at acceptere de fleste EU-, EØS- og schweiziske ID-kort som rejsedokumenter i oktober 2021, med begrænsede undtagelser, så tjek GOV.UK før en rejse til Storbritannien.
+
 ## Hvornår du skal bruge passet i stedet
 
 De fleste rejsemål uden for EU og EØS anerkender ikke et nationalt ID-kort som gyldigt rejsedokument. Indrejsekravene varierer fra land til land og fra nationalitet til nationalitet – det eneste sikre er at tjekke din destinations officielle immigrationsvejledning, før du rejser. Et pas er, hvad de fleste immigrationssystemer verden over forventer.
@@ -74,6 +86,10 @@ Det hjælper at have ét sted for begge dokumenter – et sted, der gemmer hver 
 Start i dag: tag dit ID-kort frem, tjek udløbsdatoen, og se det efter for revner, falmning eller skæv plast. Er det på grænsen, så bestil fornyelsen, før du booker rejsen.
 
 ## Ofte stillede spørgsmål
+
+### Hvad er et nationalt EØS-ID-kort?
+
+Det er det nationale identitetskort, et EØS-land (EU plus Island, Liechtenstein og Norge) udsteder til sine egne borgere, og som angiver deres nationalitet. En EU-borger kan bruge det i stedet for et pas til at rejse i EU, Island, Liechtenstein, Norge og Schweiz. Et opholdskort, kørekort eller bankkort er ikke det, og ældre EU-kort uden en fungerende maskinlæsbar zone ophørte med at være gyldige senest 3. august 2026.
 
 ### Kan jeg rejse til et andet EU-land med kun mit nationale ID-kort?
 

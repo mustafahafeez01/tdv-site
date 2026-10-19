@@ -28,6 +28,18 @@ Kartu yang kedaluwarsa besok secara teknis masih menjadi dokumen perjalanan yang
 
 Fleksibilitas ini paling terasa di wilayah Schengen. Sebagai warga negara UE dengan kartu ID yang masih berlaku, Anda dapat bergerak bebas melintasi perbatasan terbuka antarnegara Schengen tanpa pemeriksaan paspor. Hak yang sama berlaku di perbatasan UE non-Schengen - kartu ini berfungsi karena hukum kebebasan bergerak UE, bukan karena keanggotaan Schengen.
 
+## Apa yang Dianggap sebagai Kartu Identitas Nasional EEA
+
+Ketika formulir pemesanan atau petugas check-in menanyakan "kartu identitas nasional EEA", yang mereka maksud adalah kartu identitas yang diterbitkan negara Anda sendiri untuk warganya, yang mencantumkan kewarganegaraan Anda. EEA terdiri dari 27 negara anggota UE ditambah Islandia, Liechtenstein, dan Norwegia; Swiss berada di luar EEA, tetapi panduan Your Europe dari Komisi Eropa menegaskan warga negara UE tetap dapat bepergian ke sana dengan kartu identitas nasional.
+
+Kartu izin tinggal menunjukkan tempat Anda tinggal, bukan kewarganegaraan Anda, sehingga kartu ini menyertai paspor, bukan menggantikannya. Pemerintah Inggris mengarahkan warga Inggris yang tinggal di Spanyol untuk menunjukkan kartu izin tinggal TIE mereka saat menunjukkan paspor di pos perbatasan Spanyol. SIM, kartu bank, dan kartu pajak juga tidak termasuk, dan Your Europe memperingatkan bahwa dokumen-dokumen ini bisa ditolak sebagai bukti identitas.
+
+Kartu UE saat ini mudah dikenali. Ukurannya sebesar kartu kredit, memiliki zona baca mesin (deretan kode yang dibaca pemindai), dan menampilkan kode dua huruf negara penerbit dalam kotak biru yang dikelilingi 12 bintang kuning di bagian depan. Di dalamnya terdapat chip yang menyimpan foto dan dua sidik jari Anda.
+
+Kartu lama adalah yang paling sering membuat orang terjebak. Berdasarkan regulasi UE tentang kartu identitas, kartu tanpa zona baca mesin yang berfungsi, atau yang berada di bawah standar keamanan minimum internasional, berhenti berlaku sejak 3 Agustus 2026, meskipun tanggal yang tercetak lebih lambat dari itu. Kebanyakan kartu format lama lainnya tetap berlaku hingga tanggal kedaluwarsa yang tercetak atau 3 Agustus 2031, mana yang lebih dulu. Jika kartu Anda lebih tua dari versi dengan kode berbintang dan tidak memiliki zona baca mesin, kami sarankan memperpanjangnya sekarang daripada mengujinya di gerbang perbatasan.
+
+Untuk Inggris, kartu ini biasanya tidak berlaku. Kementerian Dalam Negeri Inggris (Home Office) berhenti menerima sebagian besar kartu ID UE, EEA, dan Swiss sebagai dokumen perjalanan sejak Oktober 2021, dengan pengecualian terbatas, jadi periksa GOV.UK sebelum bepergian ke Inggris.
+
 ## Kapan Anda Membutuhkan Paspor
 
 Untuk sebagian besar tujuan di luar UE dan EEA, kartu identitas nasional tidak diakui sebagai dokumen perjalanan yang sah. Persyaratan masuk berbeda-beda menurut negara dan kewarganegaraan - memeriksa panduan imigrasi resmi tujuan Anda sebelum bepergian adalah satu-satunya cara untuk memastikannya. Paspor adalah dokumen yang diharapkan oleh sebagian besar sistem imigrasi di seluruh dunia.
@@ -74,6 +86,10 @@ Yang membantu adalah satu tempat untuk kedua dokumen, yang menyimpan masing-masi
 Mulailah hari ini: ambil kartu ID Anda, periksa tanggal kedaluwarsanya, dan amati apakah ada retak, pudar, atau plastik yang melengkung. Kalau kondisinya mendekati batas, ajukan perpanjangan sebelum Anda memesan perjalanan.
 
 ## Pertanyaan yang Sering Diajukan
+
+### Apa itu kartu identitas nasional EEA?
+
+Ini adalah kartu identitas nasional yang diterbitkan oleh negara EEA (UE ditambah Islandia, Liechtenstein, dan Norwegia) untuk warganya sendiri, yang mencantumkan kewarganegaraan mereka. Warga negara UE dapat menggunakan kartu ini sebagai pengganti paspor untuk bepergian ke seluruh UE, Islandia, Liechtenstein, Norwegia, dan Swiss. Kartu izin tinggal, SIM, atau kartu bank bukan termasuk kartu ini, dan kartu UE lama tanpa zona baca mesin yang berfungsi berhenti berlaku sejak 3 Agustus 2026.
 
 ### Bisakah saya bepergian ke negara UE lain hanya dengan kartu identitas nasional?
 

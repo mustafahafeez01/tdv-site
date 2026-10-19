@@ -28,6 +28,18 @@ Ein Ausweis, der morgen abläuft, ist heute technisch noch ein gültiges Reisedo
 
 Im Schengen-Raum zählt diese Flexibilität am meisten. Als EU-Bürger mit gültigem Ausweis können Sie sich frei zwischen Schengen-Ländern bewegen, ohne Passkontrolle. Dasselbe Recht gilt an den Grenzen von EU-Ländern außerhalb Schengens – der Ausweis funktioniert wegen des EU-Freizügigkeitsrechts, nicht wegen der Schengen-Mitgliedschaft.
 
+## Was als EWR-Personalausweis zählt
+
+Wenn ein Buchungsformular oder ein Check-in-Mitarbeiter nach einem „EWR-Personalausweis“ fragt, meint er den Ausweis, den Ihr eigenes Land seinen Bürgern ausstellt, den, der Ihre Staatsangehörigkeit angibt. Der EWR besteht aus den 27 EU-Ländern plus Island, Liechtenstein und Norwegen; die Schweiz gehört nicht dazu, aber die Your-Europe-Hinweise der Europäischen Kommission bestätigen, dass EU-Bürger auch dorthin mit einem Personalausweis reisen können.
+
+Eine Aufenthaltskarte zeigt, wo Sie wohnen, nicht Ihre Staatsangehörigkeit, deshalb reist sie zusammen mit einem Reisepass, statt ihn zu ersetzen. Die britische Regierung weist britische Einwohner in Spanien an, ihre TIE-Aufenthaltskarte zusammen mit dem Reisepass bei der spanischen Grenzkontrolle vorzulegen. Führerscheine, Bankkarten und Steuerkarten zählen ebenfalls nicht, und Your Europe weist darauf hin, dass sie als Identitätsnachweis abgelehnt werden können.
+
+Der aktuelle EU-Ausweis ist leicht zu erkennen. Er hat Kreditkartenformat, besitzt eine maschinenlesbare Zone (die Codezeilen, die ein Scanner liest), und zeigt den aus zwei Buchstaben bestehenden Code des ausstellenden Landes in einem blauen Rechteck, umringt von 12 gelben Sternen, auf der Vorderseite. Ein Chip im Inneren speichert Ihr Foto und zwei Fingerabdrücke.
+
+Es sind die älteren Ausweise, die Probleme bereiten. Nach der EU-Verordnung über Personalausweise verlor ein Ausweis ohne funktionierende maschinenlesbare Zone, oder unterhalb des internationalen Mindestsicherheitsstandards, spätestens am 3. August 2026 seine Gültigkeit, selbst wenn das aufgedruckte Datum später liegt. Die meisten anderen Ausweise im alten Format bleiben bis zum aufgedruckten Ablaufdatum oder bis zum 3. August 2031 gültig, je nachdem, was früher eintritt. Wenn Ihr Ausweis älter ist als der sternumringte Code und keine maschinenlesbare Zone hat, würden wir ihn jetzt erneuern, statt es am Gate zu riskieren.
+
+Für das Vereinigte Königreich funktioniert der Ausweis in der Regel nicht. Das Home Office akzeptiert die meisten EU-, EWR- und Schweizer Personalausweise seit Oktober 2021 nicht mehr als Reisedokument, mit begrenzten Ausnahmen, prüfen Sie daher GOV.UK vor einer Reise ins Vereinigte Königreich.
+
 ## Wann Sie stattdessen den Reisepass brauchen
 
 Für die meisten Ziele außerhalb der EU und des EWR wird ein Personalausweis nicht als gültiges Reisedokument anerkannt. Die Einreisevoraussetzungen unterscheiden sich je nach Land und Staatsangehörigkeit – die offizielle Einwanderungsinformation Ihres Ziellandes vor der Reise zu prüfen, ist der einzige verlässliche Weg, sich sicher zu sein. Ein Reisepass ist das Dokument, das die meisten Einwanderungsbehörden weltweit erwarten.
@@ -74,6 +86,10 @@ Hilfreich ist ein einziger Ort für beide Dokumente: einer, der jedes Ablaufdatu
 Fangen Sie heute an: Holen Sie Ihren Personalausweis hervor, prüfen Sie das Ablaufdatum und sehen Sie ihn auf Risse, Verblassen oder verzogenen Kunststoff durch. Wenn es knapp ist, beantragen Sie die Erneuerung, bevor Sie die Reise buchen.
 
 ## Häufig gestellte Fragen
+
+### Was ist ein EWR-Personalausweis?
+
+Es ist der Personalausweis, den ein EWR-Land (die EU plus Island, Liechtenstein und Norwegen) seinen eigenen Bürgern ausstellt und der ihre Staatsangehörigkeit angibt. Ein EU-Bürger kann ihn anstelle eines Reisepasses nutzen, um innerhalb der EU, Island, Liechtenstein, Norwegen und der Schweiz zu reisen. Eine Aufenthaltskarte, ein Führerschein oder eine Bankkarte zählen nicht dazu, und ältere EU-Ausweise ohne funktionierende maschinenlesbare Zone verloren spätestens am 3. August 2026 ihre Gültigkeit.
 
 ### Kann ich mit nur meinem Personalausweis in ein anderes EU-Land reisen?
 

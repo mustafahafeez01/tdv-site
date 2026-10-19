@@ -28,6 +28,18 @@ Une carte qui expire demain reste techniquement un document de voyage valide auj
 
 C'est dans l'espace Schengen que cette flexibilité compte le plus. En tant que citoyen de l'UE muni d'une carte d'identité valide, vous pouvez circuler librement entre les pays Schengen sans contrôle de passeport. Le même droit s'applique aux frontières des pays de l'UE hors Schengen — la carte fonctionne grâce au droit de libre circulation de l'UE, et non parce qu'un pays appartient à l'espace Schengen.
 
+## Ce qui compte comme carte d'identité nationale de l'EEE
+
+Quand un formulaire de réservation ou un agent d'enregistrement vous demande une « carte d'identité nationale de l'EEE », il s'agit de la carte d'identité que votre propre pays délivre à ses citoyens, celle qui indique votre nationalité. L'EEE regroupe les 27 pays de l'UE plus l'Islande, le Liechtenstein et la Norvège ; la Suisse n'en fait pas partie, mais les conseils Your Europe de la Commission européenne confirment que les citoyens de l'UE peuvent aussi s'y rendre avec une carte d'identité nationale.
+
+Une carte de résident indique où vous vivez, pas votre nationalité, donc elle voyage avec un passeport plutôt que de le remplacer. Le gouvernement britannique indique aux résidents britanniques en Espagne de présenter leur carte de résident TIE en même temps que leur passeport au contrôle frontalier espagnol. Les permis de conduire, cartes bancaires et cartes fiscales ne comptent pas non plus, et Your Europe prévient qu'ils peuvent être refusés comme preuve d'identité.
+
+La carte européenne actuelle se reconnaît facilement. Elle a la taille d'une carte bancaire, comporte une zone de lecture optique (les lignes de code qu'un scanner peut lire), et affiche le code à deux lettres du pays émetteur dans un rectangle bleu entouré de 12 étoiles jaunes au recto. Une puce à l'intérieur conserve votre photo et deux empreintes digitales.
+
+Les anciennes cartes sont celles qui posent problème. En vertu du règlement européen sur les cartes d'identité, une carte sans zone de lecture optique fonctionnelle, ou en dessous de la norme de sécurité minimale internationale, a cessé d'être valide au plus tard le 3 août 2026, même si la date imprimée est postérieure. La plupart des autres cartes à l'ancien format restent valides jusqu'à leur date d'expiration imprimée ou jusqu'au 3 août 2031, selon la date la plus proche. Si votre carte est antérieure au code entouré d'étoiles et n'a pas de zone de lecture optique, nous vous conseillons de la renouveler dès maintenant plutôt que de tenter votre chance à l'embarquement.
+
+Pour le Royaume-Uni, la carte ne fonctionne généralement pas. Le Home Office n'accepte plus la plupart des cartes d'identité de l'UE, de l'EEE et suisses comme documents de voyage depuis octobre 2021, avec des exceptions limitées, donc vérifiez sur GOV.UK avant un voyage au Royaume-Uni.
+
 ## Quand il vous faut le passeport à la place
 
 Pour la plupart des destinations hors de l'UE et de l'EEE, une carte d'identité nationale n'est pas reconnue comme document de voyage valide. Les exigences d'entrée varient selon le pays et la nationalité — consulter les informations officielles d'immigration de votre destination avant de partir est le seul moyen d'en être sûr. Le passeport est ce qu'attendent la plupart des systèmes d'immigration dans le monde.
@@ -74,6 +86,10 @@ Ce qui aide, c'est d'avoir un seul endroit pour les deux documents, un outil qui
 Commencez dès aujourd'hui : sortez votre carte d'identité, vérifiez la date d'expiration et examinez-la à la recherche de fissures, de décoloration ou de plastique déformé. Si elle est limite, réservez le renouvellement avant de réserver le voyage.
 
 ## Questions fréquemment posées
+
+### Qu'est-ce qu'une carte d'identité nationale de l'EEE ?
+
+C'est la carte d'identité nationale qu'un pays de l'EEE (l'UE plus l'Islande, le Liechtenstein et la Norvège) délivre à ses propres citoyens, indiquant leur nationalité. Un citoyen de l'UE peut l'utiliser à la place d'un passeport pour voyager dans l'UE, en Islande, au Liechtenstein, en Norvège et en Suisse. Une carte de résident, un permis de conduire ou une carte bancaire n'en sont pas, et les anciennes cartes de l'UE sans zone de lecture optique fonctionnelle ont cessé d'être valides au plus tard le 3 août 2026.
 
 ### Puis-je voyager dans un autre pays de l'UE avec seulement ma carte d'identité nationale ?
 

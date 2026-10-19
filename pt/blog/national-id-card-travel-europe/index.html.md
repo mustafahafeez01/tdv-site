@@ -28,6 +28,18 @@ Um cartão que expira amanhã continua, tecnicamente, a ser um documento de viag
 
 É no espaço Schengen que esta flexibilidade mais importa. Como cidadão da UE com cartão de identidade válido, pode circular livremente entre países Schengen sem controlo de passaportes. O mesmo direito aplica-se nas fronteiras de países da UE fora do espaço Schengen — o cartão funciona por causa do direito de livre circulação da UE, não por causa da pertença ao espaço Schengen.
 
+## O que conta como cartão de identidade nacional do EEE
+
+Quando um formulário de reserva ou um agente de check-in pede um «cartão de identidade nacional do EEE», refere-se ao cartão de identidade que o seu próprio país emite aos seus cidadãos, o que indica a sua nacionalidade. O EEE é composto pelos 27 países da UE mais a Islândia, o Listenstaine e a Noruega; a Suíça fica fora, mas as orientações Your Europe da Comissão Europeia confirmam que os cidadãos da UE também podem viajar para lá com um cartão de identidade nacional.
+
+Um cartão de residência mostra onde vive, não a sua nacionalidade, por isso viaja junto com o passaporte em vez de o substituir. O governo britânico indica aos residentes britânicos em Espanha que mostrem o seu cartão de residência TIE junto com o passaporte no controlo fronteiriço espanhol. As cartas de condução, cartões bancários e cartões fiscais também não contam, e a Your Europe avisa que podem ser recusados como prova de identidade.
+
+O atual cartão da UE é fácil de reconhecer. Tem o tamanho de um cartão bancário, tem uma zona de leitura ótica (as linhas de código que um leitor lê), e mostra o código de duas letras do país emissor dentro de um retângulo azul rodeado por 12 estrelas amarelas na frente. Um chip no interior guarda a sua fotografia e duas impressões digitais.
+
+Os cartões mais antigos são os que costumam criar problemas. Segundo o regulamento da UE sobre cartões de identidade, um cartão sem zona de leitura ótica funcional, ou abaixo do padrão mínimo internacional de segurança, deixou de ser válido até 3 de agosto de 2026, mesmo que a data impressa seja posterior. A maioria dos outros cartões de formato antigo mantém-se válida até à data de validade impressa ou até 3 de agosto de 2031, o que ocorrer primeiro. Se o seu cartão for anterior ao código rodeado de estrelas e não tiver zona de leitura ótica, nós renovaríamos já, em vez de arriscar no embarque.
+
+Para o Reino Unido, o cartão geralmente não funciona. O Home Office deixou de aceitar a maioria dos cartões de identidade da UE, do EEE e suíços como documento de viagem desde outubro de 2021, com exceções limitadas, por isso confirme no GOV.UK antes de uma viagem ao Reino Unido.
+
 ## Quando precisa do passaporte em vez disso
 
 Para a maioria dos destinos fora da UE e do EEE, o cartão de identidade nacional não é reconhecido como documento de viagem válido. Os requisitos de entrada variam consoante o país e a nacionalidade — confirmar as orientações oficiais de imigração do seu destino antes de viajar é a única forma de ter a certeza. O passaporte é o que a maioria dos sistemas de imigração em todo o mundo espera.
@@ -74,6 +86,10 @@ O que ajuda é ter um único lugar para os dois documentos, um que guarda a data
 Comece hoje: pegue no seu cartão de identidade, verifique a data de validade e examine-o à procura de fissuras, desbotamento ou plástico deformado. Se estiver no limite, marque a renovação antes de reservar a viagem.
 
 ## Perguntas Frequentes
+
+### O que é um cartão de identidade nacional do EEE?
+
+É o cartão de identidade nacional que um país do EEE (a UE mais a Islândia, o Listenstaine e a Noruega) emite aos seus próprios cidadãos, indicando a sua nacionalidade. Um cidadão da UE pode usá-lo em vez do passaporte para viajar pela UE, Islândia, Listenstaine, Noruega e Suíça. Um cartão de residência, uma carta de condução ou um cartão bancário não são isso, e os cartões antigos da UE sem zona de leitura ótica funcional deixaram de ser válidos até 3 de agosto de 2026.
 
 ### Posso viajar para outro país da UE só com o meu cartão de identidade nacional?
 

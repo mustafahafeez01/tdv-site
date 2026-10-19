@@ -28,6 +28,18 @@ Una carta che scade domani è tecnicamente ancora un documento di viaggio valido
 
 È nell'area Schengen che questa flessibilità conta di più. Come cittadino UE con una carta valida, puoi muoverti liberamente attraverso le frontiere aperte tra i paesi Schengen senza controllo passaporti. Lo stesso diritto si applica alle frontiere UE non Schengen — la carta funziona grazie al diritto alla libera circolazione dell'UE, non per l'appartenenza all'area Schengen.
 
+## Cosa conta come carta d'identità nazionale SEE
+
+Quando un modulo di prenotazione o un addetto al check-in chiede una «carta d'identità nazionale SEE», intende la carta d'identità che il tuo paese rilascia ai propri cittadini, quella che indica la tua nazionalità. Il SEE comprende i 27 paesi dell'UE più Islanda, Liechtenstein e Norvegia; la Svizzera ne resta fuori, ma le indicazioni Your Europe della Commissione europea confermano che i cittadini UE possono viaggiare anche lì con una carta d'identità nazionale.
+
+Una carta di soggiorno indica dove vivi, non la tua nazionalità, quindi viaggia insieme al passaporto invece di sostituirlo. Il governo britannico indica ai residenti britannici in Spagna di mostrare la propria carta di soggiorno TIE insieme al passaporto al controllo di frontiera spagnolo. Nemmeno patenti di guida, carte bancarie e tessere fiscali contano, e Your Europe avverte che possono essere rifiutate come prova d'identità.
+
+L'attuale carta UE è facile da riconoscere. Ha le dimensioni di una carta di credito, ha una zona a lettura ottica (le righe di codice che uno scanner legge), e mostra sul fronte il codice a due lettere del paese emittente in un rettangolo blu circondato da 12 stelle gialle. Un chip all'interno conserva la tua foto e due impronte digitali.
+
+Le carte più vecchie sono quelle che creano problemi. In base al regolamento UE sulle carte d'identità, una carta senza zona a lettura ottica funzionante, o sotto lo standard minimo di sicurezza internazionale, ha perso la validità entro il 3 agosto 2026, anche se la data stampata è successiva. La maggior parte delle altre carte di vecchio formato resta valida fino alla scadenza stampata o al 3 agosto 2031, qualunque data arrivi prima. Se la tua carta è precedente al codice circondato dalle stelle e non ha zona a lettura ottica, noi la rinnoveremmo subito, invece di rischiare all'imbarco.
+
+Per il Regno Unito, la carta di solito non funziona. L'Home Office britannico ha smesso di accettare la maggior parte delle carte d'identità UE, SEE e svizzere come documento di viaggio da ottobre 2021, con eccezioni limitate, quindi controlla il sito GOV.UK prima di un viaggio nel Regno Unito.
+
 ## Quando serve invece il passaporto
 
 Per la maggior parte delle destinazioni fuori dall'UE e dal SEE, la carta d'identità non è riconosciuta come documento di viaggio valido. I requisiti d'ingresso variano da paese a paese e da nazionalità a nazionalità — consultare le indicazioni ufficiali per l'immigrazione della destinazione prima di partire è l'unico modo per esserne certi. Il passaporto è ciò che la maggior parte dei sistemi di immigrazione nel mondo si aspetta di vedere.
@@ -74,6 +86,10 @@ Ciò che aiuta davvero è avere un unico posto per entrambi i documenti, che con
 Comincia oggi: prendi la tua carta d'identità, controlla la data di scadenza ed esaminala per vedere se ci sono crepe, sbiadimenti o plastica deformata. Se è al limite, prenota il rinnovo prima di prenotare il viaggio.
 
 ## Domande frequenti
+
+### Cos'è una carta d'identità nazionale SEE?
+
+È la carta d'identità nazionale che un paese del SEE (l'UE più Islanda, Liechtenstein e Norvegia) rilascia ai propri cittadini, indicando la loro nazionalità. Un cittadino UE può usarla invece del passaporto per viaggiare nell'UE, in Islanda, Liechtenstein, Norvegia e Svizzera. Una carta di soggiorno, una patente di guida o una carta bancaria non lo sono, e le vecchie carte UE senza zona a lettura ottica funzionante hanno perso la validità entro il 3 agosto 2026.
 
 ### Posso viaggiare in un altro paese UE con la sola carta d'identità?
 

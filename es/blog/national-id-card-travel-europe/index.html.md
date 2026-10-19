@@ -28,6 +28,18 @@ Un documento que caduca mañana sigue siendo técnicamente un documento de viaje
 
 El espacio Schengen es donde más importa esta flexibilidad. Como ciudadano de la UE con un documento de identidad válido, puedes moverte libremente por las fronteras abiertas entre países Schengen sin control de pasaportes. El mismo derecho se aplica en las fronteras de países de la UE que no forman parte de Schengen: el documento funciona por la ley de libre circulación de la UE, no por pertenecer a Schengen.
 
+## Qué cuenta como documento de identidad nacional del EEE
+
+Cuando un formulario de reserva o un agente de facturación pide un «documento de identidad nacional del EEE», se refiere al documento de identidad que tu propio país emite a sus ciudadanos, el que indica tu nacionalidad. El EEE son los 27 países de la UE más Islandia, Liechtenstein y Noruega; Suiza queda fuera, pero la guía Your Europe de la Comisión Europea confirma que los ciudadanos de la UE también pueden viajar allí con un documento de identidad nacional.
+
+Una tarjeta de residencia indica dónde vives, no tu nacionalidad, así que viaja junto al pasaporte en vez de sustituirlo. El gobierno británico indica a los residentes británicos en España que muestren su tarjeta de residencia TIE junto con el pasaporte en el control fronterizo español. El carné de conducir, las tarjetas bancarias y las tarjetas fiscales tampoco cuentan, y Your Europe advierte que pueden ser rechazados como prueba de identidad.
+
+El documento de identidad actual de la UE se reconoce fácilmente. Tiene el tamaño de una tarjeta bancaria, incluye una zona de lectura mecánica (las líneas de código que lee un escáner), y muestra el código de dos letras del país emisor dentro de un rectángulo azul rodeado de 12 estrellas amarillas en la cara frontal. Un chip interno guarda tu foto y dos huellas dactilares.
+
+Los documentos antiguos son los que suelen dar problemas. Según el reglamento de la UE sobre documentos de identidad, un documento sin zona de lectura mecánica funcional, o por debajo del estándar mínimo internacional de seguridad, dejó de ser válido a más tardar el 3 de agosto de 2026, aunque la fecha impresa sea posterior. La mayoría de los demás documentos de formato antiguo son válidos hasta su fecha de caducidad impresa o el 3 de agosto de 2031, lo que ocurra antes. Si tu documento es anterior al código rodeado de estrellas y no tiene zona de lectura mecánica, nosotros lo renovaríamos ya, en vez de arriesgarnos en el embarque.
+
+Para el Reino Unido, el documento normalmente no sirve. El Home Office dejó de aceptar la mayoría de los documentos de identidad de la UE, el EEE y Suiza como documentos de viaje en octubre de 2021, con excepciones limitadas, así que consulta GOV.UK antes de un viaje al Reino Unido.
+
 ## Cuándo necesitas el pasaporte en su lugar
 
 Para la mayoría de los destinos fuera de la UE y el EEE, el documento de identidad nacional no se reconoce como documento de viaje válido. Los requisitos de entrada varían según el país y la nacionalidad; consultar la guía oficial de inmigración de tu destino antes de viajar es la única forma de estar seguro. El pasaporte es lo que esperan la mayoría de los sistemas de inmigración del mundo.
@@ -74,6 +86,10 @@ Lo que ayuda es tener un único lugar para ambos documentos, que guarde cada fec
 Empieza hoy: saca tu documento de identidad, comprueba la fecha de caducidad y revisa que no tenga grietas, desteñidos ni el plástico deformado. Si está en el límite, solicita la renovación antes de reservar el viaje.
 
 ## Preguntas frecuentes
+
+### ¿Qué es un documento de identidad nacional del EEE?
+
+Es el documento de identidad nacional que emite un país del EEE (la UE más Islandia, Liechtenstein y Noruega) a sus propios ciudadanos, indicando su nacionalidad. Un ciudadano de la UE puede usarlo en vez del pasaporte para viajar por la UE, Islandia, Liechtenstein, Noruega y Suiza. Una tarjeta de residencia, un carné de conducir o una tarjeta bancaria no lo son, y los documentos antiguos de la UE sin zona de lectura mecánica funcional dejaron de ser válidos a más tardar el 3 de agosto de 2026.
 
 ### ¿Puedo viajar a otro país de la UE solo con mi documento de identidad nacional?
 
