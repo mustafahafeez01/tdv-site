@@ -1,6 +1,6 @@
-# Reisepass 6-Monats-Regel: Können Sie mit weniger als 6 Monaten Gültigkeit reisen?
+# 6-Monats-Regel beim Reisepass: Reisen mit weniger?
 
-> Viele Länder verweigern die Einreise, wenn der Reisepass weniger als 6 Monate gültig ist. Wer die Regel durchsetzt und wie Sie vorher prüfen.
+> Reisepass läuft in weniger als 6 Monaten ab? Länder mit der 6-Monats-Regel, Länder die nur Gültigkeit für den Aufenthalt brauchen, und wie Sie das prüfen.
 
 Source: https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/
 

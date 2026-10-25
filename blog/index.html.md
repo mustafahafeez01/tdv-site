@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
+[Passport Rules How Long Is an ESTA Valid? What Ends It Early An ESTA lasts two years or until your passport expires, whichever comes first. What ends it early, who needs their own, and what the fee change means. October 25, 20266 min read](https://traveldocumentvault.com/blog/how-long-is-esta-valid/)
+
+##
+
 [Renewal Can You Renew a Passport Before It Expires? Yes, and there's no official waiting period. What renewing early costs you in unused months, why the old passport stops working, and what a new number changes. October 19, 20267 min read](https://traveldocumentvault.com/blog/renew-passport-before-expiry/)
 
 ##
@@ -20,7 +24,7 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
-[Travel Documents National ID Card for Travel: When It Is Enough Inside the EU and EEA, a valid national ID card is usually a full travel document. When the card is enough, when to take the passport, and why the two run on different expiry clocks. October 5, 20266 min read](https://traveldocumentvault.com/blog/national-id-card-travel-europe/)
+[Travel Documents EEA National ID Card: What It Is and When It Is Enough What counts as an EEA national ID card, where it works instead of a passport across Europe, and when you will still need the passport with you. October 5, 20266 min read](https://traveldocumentvault.com/blog/national-id-card-travel-europe/)
 
 ##
 
@@ -148,7 +152,7 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
-[Passport Rules The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out Your passport might be valid - but still get you turned away. Learn which countries enforce the 6-month rule, how airlines check it, and how to make sure your whole family is covered before booking. Feb 1, 20267 min read](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Passport Rules 6-Month Passport Rule: Can You Travel With Less Left? Passport expires in under six months? Which countries enforce the 6-month rule, which only need validity for your stay, and how to check before you book. Feb 1, 20267 min read](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
 ## Keep Your Passport Details Together
 

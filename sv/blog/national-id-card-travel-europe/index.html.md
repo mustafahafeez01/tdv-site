@@ -1,6 +1,6 @@
-# Nationellt ID-kort för resor: när det räcker
+# Nationellt EES-ID-kort: vad det är och när det räcker
 
-> EU:s nationella ID-kort fungerar för resor inom Europa, men inte överallt. Lär dig när kortet räcker och när du behöver passet.
+> Vad som räknas som ett EES-ID-kort, var det gäller i stället för pass i Europa, och när du ändå behöver passet med dig.
 
 Source: https://traveldocumentvault.com/sv/blog/national-id-card-travel-europe/
 

@@ -1,6 +1,6 @@
-# Nationale ID-kaart voor reizen: wanneer volstaat die?
+# EER-identiteitskaart: wat die is en wanneer die volstaat
 
-> EU-identiteitskaarten werken voor reizen binnen Europa, maar niet overal. Ontdek wanneer je kaart volstaat en wanneer je je paspoort nodig hebt.
+> Wat telt als een EER-identiteitskaart, waar die in Europa een paspoort vervangt, en wanneer je toch je paspoort nodig hebt.
 
 Source: https://traveldocumentvault.com/nl/blog/national-id-card-travel-europe/
 

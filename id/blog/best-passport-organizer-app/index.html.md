@@ -134,7 +134,7 @@ Minimal: paspor, visa, dan kartu identitas nasional. Aplikasi yang lebih baik ju
 
 ## Artikel Terkait
 
-[Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Negara Mana yang Menerapkannya dan Cara Menghindari Masalah](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
+[Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Bisakah Bepergian dengan Sisa Kurang?](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
 
 [Perjalanan Keluarga9 menit bacaCara Mengatur Dokumen Perjalanan Keluarga (Tanpa Bikin Pusing)](https://traveldocumentvault.com/id/blog/how-to-organise-family-travel-documents/)
 

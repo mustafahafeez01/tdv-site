@@ -1,6 +1,6 @@
-# Cartão de identidade em viagem: quando é suficiente
+# Cartão de Identidade do EEE: O Que É e Quando Basta
 
-> O cartão de identidade nacional serve para viajar pela Europa, mas não em todo o lado. Veja quando é suficiente e quando precisa do passaporte.
+> O que conta como cartão de identidade do EEE, onde substitui o passaporte na Europa, e quando ainda vai precisar do passaporte consigo.
 
 Source: https://traveldocumentvault.com/pt/blog/national-id-card-travel-europe/
 

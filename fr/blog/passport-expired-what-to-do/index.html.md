@@ -52,6 +52,24 @@ Ce scénario se produit plus souvent que les gens ne le pensent, et les étapes 
 
 **Étape 6 : Contactez votre assureur voyage.** Un passeport découvert expiré à l'aéroport peut être couvert par une assurance voyage selon votre police. Appelez pour vérifier plutôt que de supposer l'un ou l'autre.
 
+## Un passeport expiré peut généralement être renouvelé, pas refait de zéro
+
+L'expiration ne signifie presque jamais tout reprendre à zéro, car au Royaume-Uni, aux États-Unis et au Canada, vous pouvez généralement renouveler un passeport adulte expiré par la voie de renouvellement normale. Aux États-Unis et au Canada, ce qui bloque le plus souvent un renouvellement, c'est l'âge que vous aviez à la délivrance du passeport et depuis combien de temps cela remonte.
+
+### Royaume-Uni : un passeport expiré suit le renouvellement normal
+
+GOV.UK indique que vous devez renouveler votre passeport avant de voyager s'il est expiré ou s'il ne dispose pas d'une validité suffisante pour votre destination. Un passeport expiré suit le renouvellement standard, en ligne ou sur formulaire papier, et vous aurez besoin de votre ancien passeport pour le faire. Les passeports adultes concernent les personnes de 16 ans et plus, et les passeports pour enfants suivent leur propre procédure.
+
+### États-Unis : le renouvellement fonctionne dans les 15 ans suivant la délivrance
+
+Selon USA.gov, vous ne pouvez renouveler un passeport expiré que s'il a été délivré au cours des 15 dernières années. Vous ne pouvez pas non plus renouveler un passeport délivré avant votre 16ᵉ anniversaire, un passeport endommagé, perdu ou volé, ni un passeport portant un nom antérieur, sauf si vous disposez d'un document légal prouvant le changement. Si l'un de ces cas s'applique, vous devez demander un nouveau passeport en personne avec le formulaire DS-11.
+
+### Canada : un passeport expiré peut être renouvelé en ligne
+
+Le gouvernement du Canada vous permet de renouveler si votre dernier passeport était un passeport adulte délivré alors que vous aviez au moins 16 ans. Il doit aussi avoir été délivré dans les 15 ans précédant votre demande et avoir une validité de 5 ou 10 ans. Le nom, la date et le lieu de naissance qui y figurent doivent correspondre à ceux que vous souhaitez sur le nouveau. Vous pouvez renouveler en ligne si votre passeport expire dans les six prochains mois ou est déjà expiré, à condition que votre adresse de résidence et de correspondance soit au Canada. Les passeports d'enfants ne peuvent pas être renouvelés ; un enfant a besoin d'une nouvelle demande.
+
+Si votre passeport a expiré il y a des années, regardez d'abord la date de délivrance, car la limite de 15 ans aux États-Unis et au Canada se compte à partir de la délivrance, pas de l'expiration. Vérifiez ensuite les délais actuels avant de réserver, ce que notre guide sur [la durée du renouvellement de passeport](https://traveldocumentvault.com/fr/blog/how-long-does-passport-renewal-take/) détaille pays par pays.
+
 ## Autres Problèmes de Passeport Qui Causent le Refus à l'Aéroport
 
 L'expiration est la raison la plus courante pour qu'un passeport soit refusé à l'aéroport, mais d'autres problèmes causent le même résultat.

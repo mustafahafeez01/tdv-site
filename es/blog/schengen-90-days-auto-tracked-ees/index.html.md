@@ -62,11 +62,27 @@ Si tus fechas están dentro de lo permitido, la entrada se desarrolla con normal
 
 EES exime actualmente a los menores de 12 años de la toma de huellas dactilares. Cuando un padre, madre o tutor lleva a un niño a la frontera, el agente igualmente capta una imagen facial para el registro EES - el sistema necesita saber que ese niño cruzó y cuándo. El agente omite las huellas. A los 12 años las reglas cambian; a partir de ese momento, el registro biométrico de un menor incluye las huellas dactilares.
 
+## Consultar los días EES que te quedan: pasaporte y una fecha
+
+La comprobación oficial más rápida es la herramienta "¿Cuánto tiempo puedes permanecer?" en la web Travel to Europe. Te dice si tu entrada está permitida, con una respuesta OK o NOT OK, y **cuántos días te quedan** en los países que usan EES. El equipamiento de algunos pasos fronterizos exteriores ofrece la misma comprobación, y los agentes de control de pasaportes también pueden decírtelo.
+
+Ten esto a mano antes de empezar:
+
+- el país que usa EES en el que estás ahora, o que planeas visitar
+- el tipo y número de tu documento de viaje, junto con el código de tres letras del país que lo emitió (CAN para Canadá, por ejemplo)
+- una o dos fechas, según tu pregunta: tu fecha de llegada para un viaje futuro, tu fecha de salida si ya estás allí, o ambas si quieres saber cuánto te quedará al terminar un viaje planeado
+
+Conviene conocer dos límites antes de fiarte del número. La UE indica en la propia herramienta que la respuesta OK o NOT OK no es una decisión de conceder o denegar la entrada, porque el agente fronterizo sigue teniendo la última palabra. El conteo también excluye cualquier estancia que comenzara antes de que EES sustituyera los sellos de pasaporte el 10 de abril, así que si uno de esos viajes todavía cae dentro de tus últimos 180 días, añádelo tú mismo.
+
+Para un viaje que todavía estás planeando, te recomendamos combinar esta herramienta con la calculadora de estancia breve de la Comisión Europea, que funciona con las fechas de entrada y salida que introduces y tiene un modo de Planificación para fechas futuras. La Comisión la presenta solo como una herramienta de ayuda. Haz la comprobación una vez por cada persona que viaje, con su propio pasaporte, porque cada viajero lleva su propio conteo.
+
 ## El mensaje "no se puede calcular actualmente"
 
-Algunos viajeros han reportado un error en la frontera parecido a: "Tu estancia autorizada restante no se puede calcular actualmente debido a datos temporalmente incompletos en el sistema de entrada/salida." Este mensaje aparece durante el registro o en el quiosco, cuando el agente intenta verificarte. Lo que significa: EES está funcionando, pero el sistema todavía no encuentra tu registro anterior, o los datos de tu último cruce no se han sincronizado en todas las fronteras de Schengen.
+Algunos viajeros han reportado un error en la frontera parecido a: "Tu estancia autorizada restante no se puede calcular actualmente debido a datos temporalmente incompletos en el sistema de entrada/salida." Esa misma frase es una de las respuestas que puede dar la herramienta "¿Cuánto tiempo puedes permanecer?" de la UE, que lo atribuye a datos temporalmente incompletos en el sistema de entrada/salida. Lo que significa: EES está funcionando, pero el sistema todavía no encuentra tu registro anterior, o los datos de tu último cruce no se han sincronizado en todas las fronteras de Schengen.
 
 Es un mensaje propio de esta etapa de transición, más frecuente cuando has entrado en el área de Schengen muy recientemente y los sistemas fronterizos todavía están sincronizando datos entre los estados miembros. El mensaje señala un problema con los datos del sistema y no un problema con tu estancia, e indica que la comprobación automática no se completó. Lo que ocurra después depende de la decisión del agente fronterizo, no es algo que podamos prometer. Si lo ves, pregunta directamente al agente si tu recuento de días es motivo de preocupación, y lleva tú mismo un registro detallado de cada día que pases en el área de Schengen.
+
+Si el mensaje sigue apareciendo cuando lo compruebas en línea, o el número que obtienes parece incorrecto, la recomendación de la UE es contactar con las autoridades del país donde entraste o saliste por última vez del área de Schengen. Si no has visitado el área de Schengen desde que EES sustituyó los sellos de pasaporte, contacta en su lugar con el país que planeas visitar. La web Travel to Europe indica a quién contactar en cada país.
 
 ## Cómo Rastrear Tu Ventana en la Práctica
 
@@ -99,6 +115,10 @@ EES registra cada entrada y salida digitalmente, por lo que incluso un exceso br
 ### ¿Puedo verificar cuántos días de Schengen me quedan después de entrar?
 
 Sí. La herramienta en línea de EES de la UE, en el sitio web oficial Travel to Europe, muestra el número de días que todavía puedes quedarte, y algunos cruces fronterizos externos ofrecen la misma comprobación. Para planificar un viaje futuro, usa la calculadora de estancia breve de la UE con tu historial de viajes completo, y lleva tu propio registro de fechas de entrada y salida por si los datos del sistema están incompletos.
+
+### ¿Existe una calculadora oficial de días de EES?
+
+Sí, la UE gestiona dos. Su herramienta "¿Cuánto tiempo puedes permanecer?", en la web Travel to Europe, usa los datos de tu documento de viaje para mostrar los días que te quedan, con una respuesta OK o NOT OK. La calculadora de estancia breve de la Comisión Europea funciona con las fechas de entrada y salida que introduces, y la Comisión la presenta solo como una herramienta de ayuda. Ninguna de las dos respuestas es una decisión sobre la entrada, porque el agente fronterizo sigue decidiendo.
 
 ### ¿Necesito una visa o seguro de viaje por EES?
 

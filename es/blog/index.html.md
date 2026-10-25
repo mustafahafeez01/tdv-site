@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
+[Normas de pasaporte¿Cuánto dura una ESTA? Qué hace que caduque antesUna ESTA dura dos años o hasta que caduca el pasaporte, lo que ocurra antes. Qué la acorta, quién necesita la suya y qué cambia la nueva tarifa.25 de octubre de 20266 min de lectura](https://traveldocumentvault.com/es/blog/how-long-is-esta-valid/)
+
+##
+
 [Renovación¿Se puede renovar el pasaporte antes de que caduque?Sí, y no hay ningún plazo de espera oficial. Lo que renovar con antelación te cuesta en meses sin usar, por qué el pasaporte antiguo deja de funcionar y qué cambia un número nuevo.19 de octubre de 20267 min de lectura](https://traveldocumentvault.com/es/blog/renew-passport-before-expiry/)
 
 ##
@@ -20,7 +24,7 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
-[Documentos de ViajeDocumento de Identidad para Viajar: Cuándo BastaDentro de la UE y el EEE, un documento de identidad nacional válido suele ser un documento de viaje completo. Cuándo basta el documento, cuándo llevar el pasaporte y por qué los dos siguen relojes de caducidad distintos.5 de octubre de 20266 min de lectura](https://traveldocumentvault.com/es/blog/national-id-card-travel-europe/)
+[Documentos de ViajeDocumento de Identidad EEE: Qué Es y Cuándo BastaQué cuenta como documento de identidad del EEE, dónde sustituye al pasaporte en Europa, y cuándo seguirás necesitando el pasaporte encima.5 de octubre de 20266 min de lectura](https://traveldocumentvault.com/es/blog/national-id-card-travel-europe/)
 
 ##
 
@@ -148,7 +152,7 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
-[Normas de pasaporteLa Regla de los 6 Meses del Pasaporte: Qué Países la Aplican y Cómo Nunca Quedarte Atrapado Tu pasaporte puede ser válido pero aun así te impedirán embarcar. Descubre qué países aplican la regla de los 6 meses, cómo la comprueban las aerolíneas y cómo asegurarte de que toda tu familia esté cubierta antes de reservar. 1 feb. 20267 min de lectura](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/)
+[Normas de pasaporteRegla de los 6 Meses del Pasaporte: ¿Puedes Viajar? ¿Pasaporte caduca en menos de 6 meses? Países que aplican la regla, cuáles solo exigen validez para la estancia, y cómo comprobarlo antes de reservar. 1 feb. 20267 min de lectura](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/)
 
 ## Reúne los datos de tu pasaporte
 

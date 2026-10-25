@@ -26,6 +26,18 @@ A few missing documents are not just inconvenient here. They decide whether trea
 
 Travel insurance only works if you can access it when you need it. Most people store it in email and cannot find it when crisis hits - usually during stress, time pressure, or a medical emergency.
 
+## Can't Find Your Policy Documents? Start With Whoever Sold You the Cover
+
+Your policy documents sit with whoever sold you the cover, so start there. Search your inbox for the insurer's name, or the broker or comparison site you bought through, together with the word "policy". If you set up an account when you bought it, log in to the insurer's website or app too. You're looking for three things:
+
+- **The policy wording:** the full terms, including exclusions and how to claim
+- **The schedule or certificate:** your name, policy number, travel dates and level of cover
+- **The 24-hour emergency assistance number**, the one to ring from a hospital or police station abroad
+
+If you don't remember buying a policy at all, check your bank account. The Financial Ombudsman Service describes a packaged bank account as a current account that charges a monthly fee in exchange for extra benefits, travel insurance among them. In that case the bank, not a travel insurer, holds your documents, so its app, website or helpline is where to look.
+
+Once you have them, the UK Foreign, Commonwealth and Development Office advises taking your policy details with you, including the policy number and your insurer's emergency assistance number. It also suggests sharing them with the people you're travelling with and family at home. If you still can't find anything, call the insurer, or the bank for packaged cover, and ask them to send the documents again before you fly rather than after something goes wrong.
+
 ## The Five Documents You Must Save Before You Fly
 
 Your travel insurance policy is typically a PDF. That one file contains everything you need, but you should extract and save these five things separately so you can find them instantly:

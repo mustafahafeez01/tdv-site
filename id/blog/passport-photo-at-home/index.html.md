@@ -155,4 +155,4 @@ Aturan intinya konsisten di sebagian besar negara: latar belakang polos berwarna
 
 [Perpanjangan7 menit bacaBerapa Lama Waktu Perpanjangan Paspor](https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-take/)
 
-[Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Negara Mana yang Menerapkannya dan Cara Menghindari Masalah](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
+[Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Bisakah Bepergian dengan Sisa Kurang?](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)

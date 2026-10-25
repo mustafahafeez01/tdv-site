@@ -52,6 +52,24 @@ Questo scenario accade più spesso di quanto la gente si aspetti, e i passaggi n
 
 **Passo 6: Contatti il Suo assicuratore di viaggio.** Un passaporto scoperto scaduto all'aeroporto potrebbe essere coperto dall'assicurazione di viaggio a seconda della Sua polizza. Chiami per verificare piuttosto che supporre in entrambi i modi.
 
+## Un Passaporto Scaduto Di Solito Può Essere Rinnovato, Non Rifatto da Zero
+
+La scadenza raramente significa ripartire da zero, perché nel Regno Unito, negli Stati Uniti e in Canada può di solito rinnovare un passaporto per adulti scaduto tramite la via di rinnovo normale. Negli Stati Uniti e in Canada, ciò che di solito blocca un rinnovo è l'età che aveva al momento del rilascio del passaporto e da quanto tempo è trascorso.
+
+### Regno Unito: Un Passaporto Scaduto Segue il Rinnovo Normale
+
+GOV.UK afferma che deve rinnovare il Suo passaporto prima di poter viaggiare se è scaduto o non ha validità sufficiente per la Sua destinazione. Un passaporto scaduto segue il rinnovo standard, online o su modulo cartaceo, e Le servirà il vecchio passaporto per farlo. I passaporti per adulti sono per le persone dai 16 anni in su, e i passaporti per bambini hanno una procedura propria.
+
+### Stati Uniti: Il Rinnovo Funziona Entro 15 Anni dal Rilascio
+
+Secondo USA.gov, può rinnovare un passaporto scaduto solo se è stato rilasciato negli ultimi 15 anni. Non può nemmeno rinnovare uno rilasciato prima del Suo 16° compleanno, uno danneggiato, perso o rubato, oppure uno con un nome precedente, a meno che non disponga di un documento legale che provi il cambiamento. Se si applica uno di questi casi, deve richiedere un nuovo passaporto di persona con il modulo DS-11.
+
+### Canada: Un Passaporto Scaduto Può Essere Rinnovato Online
+
+Il governo del Canada consente il rinnovo se il Suo ultimo passaporto era un passaporto per adulti rilasciato quando aveva almeno 16 anni. Deve inoltre essere stato rilasciato entro 15 anni dalla data della Sua richiesta e avere una validità di 5 o 10 anni. Il nome, la data e il luogo di nascita riportati devono corrispondere a quelli che vuole sul nuovo passaporto. Può rinnovare online se il Suo passaporto scade nei prossimi sei mesi o è già scaduto, a condizione che il Suo indirizzo di residenza e postale siano in Canada. I passaporti per bambini non possono essere rinnovati, quindi un bambino necessita di una nuova richiesta.
+
+Se il Suo passaporto è scaduto anni fa, guardi prima la data di rilascio, perché il limite di 15 anni negli Stati Uniti e in Canada si conta dal rilascio, non dalla scadenza. Verifichi poi i tempi di attesa attuali prima di prenotare, cosa che la nostra guida su [quanto tempo richiede il rinnovo del passaporto](https://traveldocumentvault.com/it/blog/how-long-does-passport-renewal-take/) illustra paese per paese.
+
 ## Altri problemi di passaporto che respingono i viaggiatori
 
 La scadenza è il motivo più comune per cui un passaporto fallisce all'aeroporto, ma altri problemi causano lo stesso risultato.
@@ -122,7 +140,7 @@ Sì. Un passaporto che non è scaduto può comunque essere rifiutato se è danne
 
 ### Qual è la regola dei sei mesi del passaporto?
 
-Molti Paesi richiedono che il Suo passaporto rimanga valido per almeno sei mesi oltre la data di arrivo prevista. Se il Suo passaporto scade prima di questo, anche se tecnicamente ancora valido, potrebbe essere negato l'imbarco o l'ingresso. Non tutti i Paesi applicano questa regola e la soglia varia. Verifichi i requisiti per la Sua destinazione specifica prima di viaggiare.
+Molti Paesi richiedono che il Suo passaporto rimanga valido per almeno sei mesi oltre la data di arrivo prevista. Se scade prima, anche se tecnicamente è ancora valido, potrebbero negarLe l'imbarco o l'ingresso. Non tutti i Paesi applicano questa regola e la soglia varia. Verifichi i requisiti della Sua destinazione specifica prima di viaggiare.
 
 ## Articoli correlati
 

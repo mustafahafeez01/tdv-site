@@ -1,6 +1,6 @@
-# 6 maanden-paspoortregel: kun je reizen met minder dan 6 maanden geldigheid?
+# 6 maanden-paspoortregel: kun je reizen met minder over?
 
-> Veel landen weigeren toegang als je paspoort minder dan 6 maanden geldig is. Wie de regel hanteert en hoe je dit controleert vóór je boekt.
+> Paspoort verloopt binnen 6 maanden? Check welke landen de 6-maandenregel toepassen, en welke alleen geldigheid tijdens je reis eisen.
 
 Source: https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/
 

@@ -93,7 +93,7 @@ Source: https://traveldocumentvault.com/uk/blog/schengen-passport-rules-family-t
 
 ## Пов'язані статті
 
-[Подорожні документи6 хв читанняНаціональна ID-картка в подорожі: коли її достатньо](https://traveldocumentvault.com/uk/blog/national-id-card-travel-europe/)
+[Подорожні документи6 хв читанняНаціональна картка ЄЕЗ: що це і коли її достатньо](https://traveldocumentvault.com/uk/blog/national-id-card-travel-europe/)
 
 [Сімейні подорожі8 хв читання · серпень 2026Дитина летить без обох батьків: які документи брати з собою](https://traveldocumentvault.com/uk/blog/travelling-child-without-both-parents/)
 

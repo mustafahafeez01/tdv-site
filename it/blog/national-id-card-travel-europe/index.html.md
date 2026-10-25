@@ -1,6 +1,6 @@
-# Carta d'identità per viaggiare: quando basta
+# Carta d'Identità SEE: Cos'è e Quando Basta
 
-> Le carte d'identità UE permettono di viaggiare in Europa, ma non ovunque. Scopri quando la tua carta basta e quando ti serve il passaporto.
+> Cosa conta come carta d'identità SEE, dove sostituisce il passaporto in Europa, e quando avrai comunque bisogno del passaporto con te.
 
 Source: https://traveldocumentvault.com/it/blog/national-id-card-travel-europe/
 

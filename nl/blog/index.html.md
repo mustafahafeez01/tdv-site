@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
+[PaspoortregelsHoe lang is een ESTA geldig? Wat hem eerder laat verlopenEen ESTA is twee jaar geldig of tot je paspoort verloopt. Wat hem eerder laat verlopen, wie zijn eigen ESTA nodig heeft en wat het nieuwe tarief betekent.25 oktober 20266 min leestijd](https://traveldocumentvault.com/nl/blog/how-long-is-esta-valid/)
+
+##
+
 [VerlengingKun je een paspoort verlengen voordat het verloopt?Ja, en er is geen officiële wachttijd. Wat vroeg verlengen je kost aan onbenutte maanden, waarom het oude paspoort stopt met werken, en wat een nieuw nummer verandert.19 oktober 20267 min leestijd](https://traveldocumentvault.com/nl/blog/renew-passport-before-expiry/)
 
 ##
@@ -20,7 +24,7 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
-[ReisdocumentenNationale ID-kaart voor reizen: wanneer volstaat die?Binnen de EU en de EER is een geldige nationale identiteitskaart meestal een volwaardig reisdocument. Wanneer de kaart genoeg is, wanneer je toch je paspoort meeneemt, en waarom de twee op verschillende vervalklokken lopen.5 oktober 20266 min leestijd](https://traveldocumentvault.com/nl/blog/national-id-card-travel-europe/)
+[ReisdocumentenEER-identiteitskaart: wat die is en wanneer die volstaatWat telt als een EER-identiteitskaart, waar die in Europa een paspoort vervangt, en wanneer je toch je paspoort nodig hebt.5 oktober 20266 min leestijd](https://traveldocumentvault.com/nl/blog/national-id-card-travel-europe/)
 
 ##
 
@@ -148,7 +152,7 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
-[Paspoortregels De 6 maanden-paspoortregel: welke landen die hanteren en hoe je nooit voor verrassingen komt te staan Je paspoort kan geldig zijn, maar toch geweigerd worden bij de gate. Ontdek welke landen de 6 maanden-regel hanteren, hoe luchtvaartmaatschappijen dit controleren en hoe je zorgt dat je hele gezin gedekt is voordat je boekt. 1 feb. 20267 min lezing](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/)
+[Paspoortregels 6 maanden-paspoortregel: kun je reizen met minder over? Paspoort verloopt binnen 6 maanden? Check welke landen de 6-maandenregel toepassen, en welke alleen geldigheid tijdens je reis eisen. 1 feb. 20267 min lezing](https://traveldocumentvault.com/nl/blog/passport-expiry-6-month-rule/)
 
 ## Bewaar uw paspoortgegevens bij elkaar
 

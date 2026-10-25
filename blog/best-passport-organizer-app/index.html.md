@@ -134,7 +134,7 @@ At a minimum: passports, visas, and national identity cards. Better apps also su
 
 ## Related Articles
 
-[Passport Rules8 min read · Feb 1, 2026The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Passport Rules8 min read · Feb 1, 20266-Month Passport Rule: Can You Travel With Less Left?](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
 [Family Travel9 min read · Feb 8, 2026How to Organise Family Travel Documents (Without Losing Your Mind)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
 

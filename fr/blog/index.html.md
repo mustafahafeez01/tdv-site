@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 ##
 
+[Règles de passeportCombien de temps une ESTA est-elle valable ? Ce qui l'abrègeUne ESTA est valable deux ans ou jusqu'à l'expiration du passeport, selon ce qui arrive en premier. Ce qui l'abrège, et qui doit avoir la sienne.25 octobre 20266 min de lecture](https://traveldocumentvault.com/fr/blog/how-long-is-esta-valid/)
+
+##
+
 [RenouvellementPeut-on renouveler un passeport avant son expiration ?Oui, et il n'existe aucun délai d'attente officiel. Ce que renouveler à l'avance vous coûte en mois non utilisés, pourquoi l'ancien passeport cesse de fonctionner, et ce qu'un nouveau numéro change.19 octobre 20267 min de lecture](https://traveldocumentvault.com/fr/blog/renew-passport-before-expiry/)
 
 ##
@@ -20,7 +24,7 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 ##
 
-[Documents de voyageCarte d'identité nationale en voyage : quand elle suffitÀ l'intérieur de l'UE et de l'EEE, une carte d'identité nationale valide est généralement un document de voyage à part entière. Quand la carte suffit, quand prendre le passeport, et pourquoi les deux suivent des horloges d'expiration différentes.5 octobre 20266 min de lecture](https://traveldocumentvault.com/fr/blog/national-id-card-travel-europe/)
+[Documents de voyageCarte d'identité EEE : ce qu'elle est et quand elle suffitCe qui compte comme carte d'identité de l'EEE, où elle remplace le passeport en Europe, et quand vous devrez tout de même avoir votre passeport sur vous.5 octobre 20266 min de lecture](https://traveldocumentvault.com/fr/blog/national-id-card-travel-europe/)
 
 ##
 
@@ -148,7 +152,7 @@ Source: https://traveldocumentvault.com/fr/blog/
 
 ##
 
-[Règles de passeportLa règle des 6 mois de validité du passeport : quels pays l'appliquent et comment l'éviter Votre passeport pourrait être valide — mais vous faire refuser quand même. Découvrez quels pays appliquent la règle des 6 mois, comment les compagnies aériennes la vérifient et comment vous assurer que toute votre famille est couverte avant de réserver. 1er février 20267 min de lecture](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)
+[Règles de passeportRègle des 6 mois du passeport : peut-on voyager avec moins ? Passeport expirant dans moins de 6 mois ? Pays appliquant la règle, pays exigeant seulement la durée du séjour, et comment vérifier avant de réserver. 1er février 20267 min de lecture](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)
 
 ## Regroupez les informations de votre passeport
 

@@ -20,6 +20,14 @@ Saat merencanakan perjalanan, banyak pelancong bertanya-tanya apakah mereka bisa
 
 Jawaban singkatnya: salinan digital memang berguna, tetapi hanya dalam situasi tertentu.
 
+## Salinan Digital Adalah Foto Paspor Anda, Bukan Paspor Digital
+
+Salinan digital paspor adalah **hasil pindaian atau foto ponsel dari halaman identitas**, halaman yang memuat foto, nama, tanggal lahir, nomor paspor, dan tanggal kedaluwarsa Anda. Salinan ini mencatat data Anda tanpa menggantikan dokumen aslinya. Pemerintah Kanada menyatakannya dengan jelas dalam panduan perjalanannya: salinan bisa membantu jika dokumen Anda hilang atau dicuri, tetapi tidak bisa digunakan sebagai identitas, dan Anda tetap harus mengajukan paspor baru jika paspor asli Anda hilang.
+
+Membuat satu salinan hanya butuh beberapa menit. Buka paspor rata di tempat terang, foto atau pindai halaman identitas agar seluruh halaman terlihat tajam, lalu perbesar dan periksa apakah semua detail terbaca. Lakukan hal yang sama untuk visa mana pun yang akan Anda gunakan. Kanada menyarankan untuk meninggalkan salinan dengan orang yang Anda percaya di rumah, dan daftar periksa perjalanan luar negeri Inggris merekomendasikan cadangan data paspor yang Anda bagikan dengan keluarga atau simpan di platform penyimpanan data yang aman.
+
+Salinan juga berbeda dari ID digital yang kini diterima oleh beberapa pemerintah. Di AS, Transportation Security Administration mengizinkan pemegang paspor AS untuk membuat ID pass di Google Wallet untuk pos pemeriksaan bandara, tetapi tetap menyatakan bahwa semua penumpang harus membawa ID fisik yang berlaku. Foto di galeri ponsel Anda adalah cadangan data Anda, dan begitulah seharusnya Anda memperlakukannya.
+
 ## Di Mana Salinan Digital Paspor Diterima
 
 ### Banyak Hotel Menerima Salinan, tetapi Sebagian Eropa Biasanya Meminta yang Asli
@@ -85,6 +93,10 @@ Kalau Anda belum membuatnya, pindai halaman foto paspor Anda hari ini, sebelum A
 
 ## Pertanyaan yang Sering Diajukan
 
+### Apa itu salinan digital paspor?
+
+Salinan digital adalah hasil pindaian atau foto ponsel dari halaman identitas paspor Anda, halaman yang memuat foto dan data pribadi Anda. Ini membantu untuk pemesanan dan untuk mengganti paspor yang hilang, tetapi bukan dokumen perjalanan: pemerintah Kanada menyatakan salinan tidak bisa digunakan sebagai identitas. Salinan ini juga berbeda dari ID digital yang didukung pemerintah, dan bahkan di AS, tempat TSA menerima ID digital di pos pemeriksaannya, penumpang tetap harus membawa ID fisik yang berlaku.
+
 ### Apakah salinan digital paspor saya diterima saat check-in hotel?
 
 Ya, sebagian besar hotel di seluruh dunia menerima salinan digital paspor untuk check-in: PDF di ponsel, dikirim lewat email, atau dicetak. Beberapa akomodasi yang lebih kecil mungkin tetap meminta paspor fisik. Selalu hubungi hotel Anda terlebih dahulu untuk memastikan.
@@ -107,6 +119,6 @@ Gunakan aplikasi terenkripsi yang dirancang untuk penyimpanan dokumen, bukan pen
 
 ## Artikel Terkait
 
-[Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Negara Mana yang Menerapkannya dan Cara Menghindari Masalah](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
+[Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Bisakah Bepergian dengan Sisa Kurang?](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
 
 [Privasi7 menit bacaAmankah Menyimpan Paspor Anda di Google Foto?](https://traveldocumentvault.com/id/blog/is-it-safe-to-store-passport-in-google-photos/)

@@ -95,6 +95,8 @@ We'd start planning at 12 months of validity left and apply by nine, in a stretc
 
 ## Related Articles
 
+[Passport Rules6 min read · October 2026How Long Is an ESTA Valid? What Ends It Early](https://traveldocumentvault.com/blog/how-long-is-esta-valid/)
+
 [Renewal6 min read · February 2026How Long Does Passport Renewal Take? (US, UK, Australia, Canada)](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)
 
 [Renewal7 min read · March 2026Can You Travel While Your Passport Is Being Renewed?](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/)

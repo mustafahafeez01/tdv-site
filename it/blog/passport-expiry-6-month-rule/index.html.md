@@ -1,6 +1,6 @@
-# Regola dei 6 Mesi del Passaporto: Potete Viaggiare con Meno di 6 Mesi di Validità?
+# Regola dei 6 Mesi del Passaporto: Si Può Viaggiare con Meno?
 
-> Molti paesi rifiutano l'ingresso se al passaporto restano meno di 6 mesi di validità. Chi applica la regola e come controllare prima di prenotare.
+> Passaporto in scadenza entro 6 mesi? Quali paesi applicano la regola, quali chiedono solo validità per il soggiorno e come controllare prima di prenotare.
 
 Source: https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/
 

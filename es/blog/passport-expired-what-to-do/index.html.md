@@ -52,6 +52,24 @@ Este escenario sucede más a menudo de lo que la gente espera, y los pasos no so
 
 **Paso 6: Contacta a tu aseguradora de viaje.** Un pasaporte descubierto como caducado en el aeropuerto puede estar cubierto por el seguro de viaje dependiendo de tu póliza. Llama para verificar en lugar de asumir de una forma u otra.
 
+## Un pasaporte caducado normalmente se puede renovar, no rehacer desde cero
+
+La caducidad rara vez significa empezar de nuevo, porque en el Reino Unido, Estados Unidos y Canadá normalmente puedes renovar un pasaporte de adulto caducado por la vía de renovación habitual. En Estados Unidos y Canadá, lo que suele bloquear una renovación es la edad que tenías cuando se emitió el pasaporte y cuánto tiempo ha pasado desde entonces.
+
+### Reino Unido: un pasaporte caducado sigue la renovación normal
+
+GOV.UK indica que debes renovar tu pasaporte antes de poder viajar si ha caducado o si no le queda suficiente validez para tu destino. Un pasaporte caducado sigue la renovación estándar, en línea o en formulario de papel, y necesitarás tu antiguo pasaporte para hacerlo. Los pasaportes de adulto son para personas de 16 años en adelante, y los pasaportes infantiles tienen su propio proceso.
+
+### Estados Unidos: la renovación funciona dentro de los 15 años desde la emisión
+
+Según USA.gov, solo puedes renovar un pasaporte caducado si se emitió en los últimos 15 años. Tampoco puedes renovar uno emitido antes de tu 16.º cumpleaños, uno dañado, perdido o robado, ni uno con un nombre anterior, a menos que tengas un documento legal que acredite el cambio. Si se da alguno de estos casos, debes solicitar un pasaporte nuevo en persona con el formulario DS-11.
+
+### Canadá: un pasaporte caducado se puede renovar en línea
+
+El gobierno de Canadá te permite renovar si tu último pasaporte era un pasaporte de adulto emitido cuando tenías al menos 16 años. Además, debe haberse emitido dentro de los 15 años anteriores a tu solicitud y tener una validez de 5 o 10 años. El nombre, la fecha y el lugar de nacimiento que figuran en él deben coincidir con los que quieres en el nuevo. Puedes renovar en línea si tu pasaporte caduca en los próximos seis meses o ya ha caducado, siempre que tu domicilio y dirección postal estén en Canadá. Los pasaportes infantiles no se pueden renovar, así que un niño necesita una solicitud nueva.
+
+Si tu pasaporte caducó hace años, mira primero la fecha de emisión, porque el límite de 15 años en Estados Unidos y Canadá se cuenta desde la emisión, no desde la caducidad. Después comprueba los plazos actuales antes de reservar, algo que nuestra guía sobre [cuánto tarda la renovación del pasaporte](https://traveldocumentvault.com/es/blog/how-long-does-passport-renewal-take/) detalla país por país.
+
 ## Otros Problemas de Pasaporte Que Hacen Que los Viajeros Sean Rechazados
 
 La caducidad es la razón más común de un fallo de pasaporte en el aeropuerto, pero otros problemas causan el mismo resultado.
@@ -64,11 +82,11 @@ El daño visible por sí solo es suficiente para ser rechazado. Las aerolíneas 
 
 Los pasaportes de niños son particularmente vulnerables. Marcas de bolígrafo en la página de fotos, cubiertas dobladas, o una página suelta durante el viaje son suficientes para causar problemas. Verifica cada pasaporte en tu hogar antes de viajar, no solo la noche anterior.
 
-### 2. Un nombre que no coincide con tu pasaje
+### 2. Un nombre que no coincide con tu billete
 
-Una falta de concordancia de nombre entre tu pasaporte y pasaje de embarque te hará ser rechazado. Atrapa a las personas después de un cambio de nombre legal —matrimonio, divorcio, o cambio formal de documento— donde el pasaporte aún no ha sido actualizado. También atrapa errores de reserva: un segundo nombre en el pasaje pero ausente del pasaporte, o viceversa.
+Si el nombre de tu pasaporte no coincide con el de la tarjeta de embarque, no te dejarán embarcar. Pilla a quien ha cambiado de nombre legalmente —matrimonio, divorcio o un cambio formal por escritura— y aún no ha actualizado el pasaporte. También pilla errores de reserva: un segundo nombre que aparece en el billete pero no en el pasaporte, o al contrario.
 
-Incluso pequeñas variaciones como una inicial de segundo nombre faltante o una letra transpuesta a veces pueden ser resueltas por el personal de la aerolínea, pero no puedes contar con ello. Asegúrate de que cada nombre en cada pasaje coincida con cada nombre en cada pasaporte exactamente, incluyendo los nombres de los niños.
+El personal de la aerolínea a veces resuelve variaciones pequeñas, como la falta de la inicial del segundo nombre o una letra bailada, pero no puedes contar con ello. Asegúrate de que cada nombre de cada billete coincida exactamente con el del pasaporte correspondiente, incluidos los de los niños.
 
 ### 3. Un pasaporte sin firmar
 
@@ -80,9 +98,9 @@ La fecha de caducidad de tu pasaporte no es el único umbral que importa. Muchos
 
 Esta regla no se aplica consistentemente en todos los destinos, lo que la hace fácil de pasar por alto. [La regla de los seis meses del pasaporte](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/) explica qué países la aplican y cuáles no, con un ejemplo trabajado de cómo se calcula.
 
-### 5. No verificar requisitos de visa antes de viajar
+### 5. No comprobar los requisitos de visado antes de viajar
 
-Los requisitos de visa y autorización de viaje electrónica (ETA) cambian a menudo y varían según la nacionalidad, el destino y el propósito del viaje. Llegar sin el permiso de entrada correcto —asumiendo acceso sin visa cuando en realidad se requiere uno— resulta en embarque rechazado o ser devuelto en la frontera. Una ruta que era sin visa cuando la viajaste por última vez puede ya no serlo.
+Los requisitos de visado y de autorización electrónica de viaje (ETA) cambian a menudo y varían según la nacionalidad, el destino y el motivo del viaje. Llegar sin el permiso de entrada correcto —dando por hecho que no hace falta visado cuando sí lo piden— acaba en embarque denegado o en una devolución en la frontera. Una ruta que no exigía visado la última vez que la hiciste puede exigirlo ahora.
 
 Antes de cada viaje, verifica los requisitos de entrada oficiales para tu destino usando el servicio de asesoramiento de viaje de tu país: gov.uk/foreign-travel-advice para titulares de pasaporte del Reino Unido, travel.state.gov para titulares de pasaporte de Estados Unidos, o smartraveller.gov.au para titulares de pasaporte australianos. No confíes en lo que era verdad la última vez.
 
@@ -118,11 +136,11 @@ Establece un recordatorio de caducidad 12 meses antes de la caducidad —no 6 me
 
 ### ¿Puede un pasaporte válido ser rechazado en el aeropuerto?
 
-Sí. Un pasaporte que no ha caducado aún puede ser rechazado si está dañado, si el nombre no coincide con el pasaje, si no está firmado, o si no cumple con el requisito de validez mínima del destino. Las aerolíneas verifican documentos antes del embarque, y los oficiales fronterizos verifican nuevamente a la llegada. Una fecha de caducidad válida sola no es suficiente.
+Sí. Un pasaporte que no ha caducado puede ser rechazado si está dañado, si el nombre no coincide con el billete, si no está firmado o si no cumple el requisito de validez mínima del destino. Las aerolíneas comprueban los documentos antes del embarque, y los agentes de fronteras los comprueban de nuevo a la llegada. Una fecha de caducidad válida, por sí sola, no basta.
 
 ### ¿Cuál es la regla de los seis meses del pasaporte?
 
-Muchos países requieren que tu pasaporte siga siendo válido durante al menos seis meses más allá de tu fecha de llegada planeada. Si tu pasaporte caduca antes de eso —incluso si técnicamente sigue siendo válido— se te puede denegar el embarque o la entrada. No todos los países aplican esta regla, y el umbral varía. Verifica los requisitos para tu destino específico antes de viajar.
+Muchos países exigen que tu pasaporte siga siendo válido al menos seis meses más allá de tu fecha de llegada prevista. Si caduca antes de eso —aunque técnicamente siga siendo válido— se te puede denegar el embarque o la entrada. No todos los países aplican esta regla, y el umbral varía. Comprueba los requisitos de tu destino concreto antes de viajar.
 
 ## Artículos Relacionados
 

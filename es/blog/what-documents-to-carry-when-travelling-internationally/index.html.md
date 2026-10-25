@@ -135,7 +135,7 @@ Olvidar tu pasaporte significa que no puedes embarcar. Para documentos de apoyo 
 
 [Documentos de Viaje7 min de lectura · 13 oct, 2026Prueba de Viaje de Continuación: Qué Cuenta Realmente](https://traveldocumentvault.com/es/blog/proof-of-onward-travel/)
 
-[Documentos de Viaje6 min de lectura · 6 oct, 2026Documento de Identidad para Viajar: Cuándo Basta](https://traveldocumentvault.com/es/blog/national-id-card-travel-europe/)
+[Documentos de Viaje6 min de lectura · 6 oct, 2026Documento de Identidad EEE: Qué Es y Cuándo Basta](https://traveldocumentvault.com/es/blog/national-id-card-travel-europe/)
 
 [Reglas de Pasaporte8 min de lectura · 1 feb, 2026La Regla de Pasaporte de 6 Meses: Qué Países La Aplican y Cómo Nunca Ser Atrapado](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/)
 

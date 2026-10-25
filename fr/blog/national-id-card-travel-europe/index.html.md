@@ -1,6 +1,6 @@
-# Carte d'identité nationale en voyage : quand elle suffit
+# Carte d'identité EEE : ce qu'elle est et quand elle suffit
 
-> La carte d'identité nationale suffit pour voyager en Europe, mais pas partout. Découvrez quand elle suffit et quand il vous faut votre passeport.
+> Ce qui compte comme carte d'identité de l'EEE, où elle remplace le passeport en Europe, et quand vous devrez tout de même avoir votre passeport sur vous.
 
 Source: https://traveldocumentvault.com/fr/blog/national-id-card-travel-europe/
 

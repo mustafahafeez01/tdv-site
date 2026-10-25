@@ -103,7 +103,7 @@ Die Gültigkeit eines Transitvisums hängt vom Land ab. Manche sind ab der Einre
 
 ## Verwandte Artikel
 
-[Passregeln8 Min. Lesezeit · Februar 2026Reisepass 6-Monats-Regel: Können Sie mit weniger als 6 Monaten Gültigkeit reisen?](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/)
+[Passregeln8 Min. Lesezeit · Februar 20266-Monats-Regel beim Reisepass: Reisen mit weniger?](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/)
 
 [Familienreisen7 Min. Lesezeit · Februar 2026Familienreisedokumente organisieren (Vor Ihrer nächsten Reise)](https://traveldocumentvault.com/de/blog/how-to-organise-family-travel-documents/)
 

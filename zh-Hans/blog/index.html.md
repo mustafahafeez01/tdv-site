@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
+[护照规则ESTA的有效期是多久？ESTA的有效期为两年，或至护照到期为止，以较早者为准。本文说明哪些情况会让它提前失效、谁需要单独申请，以及费用调整意味着什么。2026年10月25日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/how-long-is-esta-valid/)
+
+##
+
 [护照更新护照可以在到期前更新吗？可以，而且没有官方等待期。提前更新会损失多少未使用的有效期，旧护照为什么会失效，以及新号码会带来哪些改变。2026年10月19日7 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/renew-passport-before-expiry/)
 
 ##
@@ -20,7 +24,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
-[旅行证件国民身份证能当旅行证件吗？什么时候够用在欧盟和欧洲经济区内，有效的国民身份证通常就是完整的旅行证件。什么时候身份证就够用，什么时候该带护照，以及两者为何各走各的到期时钟。2026年10月5日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-europe/)
+[旅行证件欧洲经济区国民身份证：它是什么，什么时候够用什么样的证件算欧洲经济区国民身份证，在欧洲哪些地方可以代替护照使用，哪些情况下仍需随身携带护照。2026年10月5日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-europe/)
 
 ##
 
@@ -128,6 +132,8 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
+[旅行工具 护照整理应用：存在设备上，而不是云端 护照整理应用并非千篇一律。为家人的旅行证件挑选一款应用时，这篇文章告诉你该关注什么，又该避开什么。 2026 年 3 月 4 日8 分钟读完](https://traveldocumentvault.com/zh-Hans/blog/best-passport-organizer-app/)
+
 ##
 
 [护照规则组织 每次旅行的国际旅行证件核对清单 国际旅行前需要携带、检查和准备的一切。涵盖护照、签证、驾驶执照和旅行保险的实用清单，适用于家庭和独自旅行的旅行者。 2026 年 3 月 4 日9 分钟读完](https://traveldocumentvault.com/zh-Hans/blog/travel-document-checklist/)
@@ -146,7 +152,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
-[护照规则护照6个月有效期规则：哪些国家执行以及如何避免被卡在机场 护照有效但仍被拒绝入境？这种事确实存在。了解哪些国家执行 6 个月规则、航空公司如何核查，以及订票前如何保障全家人万无一失。 2026 年 2 月 1 日7 分钟读完](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)
+[护照规则护照6个月规则：有效期不足也能出行吗？ 护照有效期不足六个月？本文说明哪些国家执行6个月规则，哪些国家只要求有效期覆盖您的停留时间，以及预订前该如何检查。 2026 年 2 月 1 日7 分钟读完](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)
 
 ## 将护照信息放在一起
 

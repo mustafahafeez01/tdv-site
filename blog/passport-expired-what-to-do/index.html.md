@@ -52,6 +52,24 @@ This scenario happens more often than people expect, and the steps are not obvio
 
 **Step 6: Contact your travel insurer.** A passport discovered expired at the airport may be covered under travel insurance depending on your policy. Call to check rather than assuming either way.
 
+## An Expired Passport Can Usually Be Renewed, Not Replaced From Scratch
+
+Expiry rarely means starting again, because in the UK, the US and Canada you can usually renew an expired adult passport through the normal renewal route. In the US and Canada, what tends to block a renewal is how old you were when the passport was issued and how long ago that was.
+
+### UK: An Expired Passport Goes Through Normal Renewal
+
+GOV.UK says you must renew before you can travel if your passport has expired or doesn't have enough time left for your destination. An expired passport goes through the standard renewal, online or on a paper form, and you'll need your old passport to do it. Adult passports are for people aged 16 and over, and children's passports have their own process.
+
+### US: Renewal Works Within 15 Years of Issue
+
+According to USA.gov, you can renew an expired passport only if it was **issued within the last 15 years**. You also can't renew one issued before your 16th birthday, one that's damaged, lost or stolen, or one in a previous name unless you have a legal document proving the change. If any of those apply, you apply for a new passport in person with Form DS-11.
+
+### Canada: An Expired Passport Can Be Renewed Online
+
+The Government of Canada lets you renew if your last passport was an adult passport issued when you were at least 16. It also has to have been issued within 15 years of the date you apply and valid for 5 or 10 years. The name, date and place of birth on it must match what you want on the new one. You can renew online if your passport expires in the next six months or has already expired, provided your home and mailing address are in Canada. Child passports can't be renewed, so a child needs a new application.
+
+If your passport lapsed years ago, look at the issue date before anything else, because the 15-year limit in the US and Canada counts from when it was issued, not from when it expired. Then check current turnaround times before you book, which our guide to [how long passport renewal takes](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/) covers country by country.
+
 ## Other Passport Problems That Get Travellers Turned Away
 
 Expiry is the most common reason a passport fails at the airport, but other problems cause the same result.

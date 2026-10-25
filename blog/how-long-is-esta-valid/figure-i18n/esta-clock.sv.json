@@ -1,0 +1,42 @@
+{
+ "sv": {
+  "template": "cards",
+  "title": "När ett ESTA slutar gälla",
+  "cards": [
+   {
+    "heading": "Det upphör efter 2 år",
+    "items": [
+     {
+      "text": "Eller när passet går ut",
+      "mark": "dot"
+     },
+     {
+      "text": "Det som inträffar först",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Alla behöver sitt eget",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Även bebisar och barn",
+      "mark": "tick"
+     },
+     {
+      "text": "Var och en på sitt eget pass",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Nytt pass, nytt namn eller medborgarskap: ansök igen",
+  "alt": "Diagram över när ett ESTA slutar gälla: det upphör efter 2 år eller när passet går ut, det som inträffar först. Alla behöver sitt eget, även bebisar och barn, var och en på sitt eget pass. Nytt pass, nytt namn eller nytt medborgarskap innebär att man måste ansöka igen",
+  "caption": "En klocka per resenär, och den överlever aldrig passet.",
+  "placement": {
+   "h2": 2,
+   "para": 1
+  }
+ }
+}

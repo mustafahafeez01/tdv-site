@@ -52,6 +52,24 @@ Skenario ini lebih sering terjadi daripada yang orang kira, dan langkah-langkahn
 
 **Langkah 6: Hubungi perusahaan asuransi perjalanan Anda.** Paspor yang baru diketahui kedaluwarsa di bandara mungkin bisa dicakup oleh asuransi perjalanan tergantung polis Anda. Telepon untuk memastikan, jangan berasumsi ke arah mana pun.
 
+## Paspor Kedaluwarsa Biasanya Bisa Diperpanjang, Tidak Perlu Dibuat Ulang dari Awal
+
+Paspor kedaluwarsa jarang berarti Anda harus mulai dari nol, karena di Inggris, AS, dan Kanada, Anda biasanya bisa memperpanjang paspor dewasa yang kedaluwarsa melalui jalur perpanjangan normal. Di AS dan Kanada, yang biasanya menjadi penghalang perpanjangan adalah usia Anda saat paspor itu diterbitkan dan sudah berapa lama sejak itu.
+
+### Inggris: Paspor Kedaluwarsa Melalui Perpanjangan Normal
+
+GOV.UK menyatakan Anda harus memperpanjang sebelum bisa bepergian jika paspor Anda sudah kedaluwarsa atau sisa masa berlakunya tidak cukup untuk tujuan Anda. Paspor kedaluwarsa melalui proses perpanjangan standar, baik secara daring maupun dengan formulir kertas, dan Anda membutuhkan paspor lama Anda untuk melakukannya. Paspor dewasa berlaku untuk usia 16 tahun ke atas, sementara paspor anak memiliki prosesnya sendiri.
+
+### AS: Perpanjangan Berlaku Jika Diterbitkan dalam 15 Tahun Terakhir
+
+Menurut USA.gov, Anda hanya bisa memperpanjang paspor kedaluwarsa jika paspor itu **diterbitkan dalam 15 tahun terakhir**. Anda juga tidak bisa memperpanjang paspor yang diterbitkan sebelum ulang tahun ke-16 Anda, yang rusak, hilang, atau dicuri, atau yang menggunakan nama lama tanpa dokumen hukum yang membuktikan perubahan nama. Jika salah satu hal ini berlaku, Anda harus mengajukan paspor baru secara langsung menggunakan Formulir DS-11.
+
+### Kanada: Paspor Kedaluwarsa Bisa Diperpanjang Secara Daring
+
+Pemerintah Kanada memperbolehkan perpanjangan jika paspor terakhir Anda adalah paspor dewasa yang diterbitkan saat Anda berusia minimal 16 tahun. Paspor itu juga harus diterbitkan dalam 15 tahun sejak tanggal Anda mengajukan, dan berlaku selama 5 atau 10 tahun. Nama, tanggal lahir, dan tempat lahir pada paspor itu harus sesuai dengan yang Anda inginkan pada paspor baru. Anda bisa memperpanjang secara daring jika paspor Anda akan kedaluwarsa dalam enam bulan ke depan atau sudah kedaluwarsa, dengan syarat alamat rumah dan alamat surat Anda berada di Kanada. Paspor anak tidak bisa diperpanjang, sehingga anak memerlukan pengajuan baru.
+
+Jika paspor Anda sudah kedaluwarsa sejak bertahun-tahun lalu, periksa dulu tanggal penerbitannya, karena batas 15 tahun di AS dan Kanada dihitung dari tanggal diterbitkan, bukan dari tanggal kedaluwarsa. Setelah itu, periksa waktu pemrosesan saat ini sebelum memesan, yang dibahas negara per negara dalam panduan kami tentang [berapa lama perpanjangan paspor](https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-take/).
+
 ## Masalah Paspor Lain yang Membuat Pelancong Ditolak
 
 Kedaluwarsa adalah alasan paling umum sebuah paspor gagal di bandara, tetapi masalah lain juga menyebabkan hasil yang sama.

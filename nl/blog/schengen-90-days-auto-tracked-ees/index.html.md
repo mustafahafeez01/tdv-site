@@ -62,11 +62,27 @@ Vallen je data binnen de regel, dan verloopt je inreis zoals gewoonlijk. Blijkt 
 
 EES stelt kinderen onder de 12 jaar momenteel vrij van het afnemen van vingerafdrukken. Wanneer een ouder of voogd een kind naar de grens brengt, legt de ambtenaar toch een gezichtsopname vast voor het EES-dossier - het systeem moet weten dat dit kind is overgestoken, en wanneer. De vingerafdrukken slaat de ambtenaar over. Vanaf 12 jaar veranderen de regels; vanaf dat moment omvat de biometrische registratie van een kind ook vingerafdrukken.
 
+## Je resterende EES-dagen controleren kost alleen je paspoort en één datum
+
+De snelste officiële check is de EU-tool "Check how long you can stay" op de website Travel to Europe. Die laat zien of je inreis is toegestaan, als OK of niet OK, en **hoeveel dagen je nog mag blijven** in de landen die EES gebruiken. Apparatuur bij sommige buitengrenzen doet dezelfde check, en de grenswachters kunnen het je ook vertellen.
+
+Zorg dat je dit bij de hand hebt voordat je begint:
+
+- het EES-land waar je nu bent, of dat je wilt bezoeken
+- het type en nummer van je reisdocument, plus de landcode van drie letters van het land dat het heeft afgegeven (CAN voor Canada, bijvoorbeeld)
+- één of twee datums, afhankelijk van je vraag: je aankomstdatum voor een toekomstige reis, je vertrekdatum als je er al bent, of beide als je wilt weten wat je overhoudt zodra een geplande reis afloopt
+
+Twee beperkingen zijn goed om te kennen voordat je het getal vertrouwt. De EU geeft op de tool zelf aan dat het antwoord OK of niet OK geen beslissing is om toegang te verlenen of te weigeren, omdat de grensbeambte die beslissing nog steeds neemt. De telling laat ook elk verblijf buiten beschouwing dat begon voordat EES op 10 april de paspoortstempels verving, dus als een van die reizen nog binnen je laatste 180 dagen valt, moet je die er zelf bij optellen.
+
+Voor een reis die je nog aan het plannen bent, zouden wij de tool combineren met de rekentool voor kort verblijf van de Europese Commissie, die werkt met de in- en uitreisdatums die je zelf invoert en een planningsmodus heeft voor toekomstige datums. De Commissie noemt het slechts een hulpmiddel. Voer de check uit voor elke reiziger apart, met zijn of haar eigen paspoort, want elke reiziger heeft een eigen telling.
+
 ## Het bericht "kan momenteel niet worden berekend"
 
-Sommige reizigers meldden een foutmelding bij de grens die ongeveer luidt: "Uw resterende toegestane verblijf kan momenteel niet worden berekend vanwege tijdelijk onvolledige gegevens in het inreis-uitreissysteem." Dit bericht verschijnt tijdens de check-in of bij de kiosk, wanneer de ambtenaar je probeert te verifiëren. Wat het betekent: EES draait, maar het systeem kan je vorige registratie nog niet vinden, of de gegevens van je laatste grensovergang zijn nog niet gesynchroniseerd over alle Schengengrenzen.
+Sommige reizigers meldden een foutmelding bij de grens die ongeveer luidt: "Uw resterende toegestane verblijf kan momenteel niet worden berekend vanwege tijdelijk onvolledige gegevens in het inreis-uitreissysteem." Diezelfde bewoording is een van de antwoorden die de EU-tool "Check how long you can stay" kan geven, en de EU wijt het aan tijdelijk onvolledige gegevens in het inreis-uitreissysteem. Wat het betekent: EES draait, maar het systeem kan je vorige registratie nog niet vinden, of de gegevens van je laatste grensovergang zijn nog niet gesynchroniseerd over alle Schengengrenzen.
 
 Dit is een bericht dat hoort bij deze overgangsperiode, en het komt het vaakst voor wanneer je heel recent het Schengengebied bent binnengekomen en de grenssystemen de gegevens tussen lidstaten nog synchroniseren. Het bericht wijst op een probleem met de gegevens in het systeem, niet op een probleem met je verblijf, en het geeft aan dat de automatische controle niet is voltooid. Wat er daarna gebeurt, is de beslissing van de grensambtenaar - dat kunnen wij niet beloven. Zie je dit bericht, vraag de ambtenaar dan rechtstreeks of je dagentelling een probleem vormt, en houd zelf een nauwkeurige registratie bij van elke dag die je in het Schengengebied doorbrengt.
+
+Komt het bericht steeds weer terug wanneer je online checkt, of ziet het getal dat je krijgt er verkeerd uit, dan adviseert de EU om contact op te nemen met de autoriteiten van het land waar je het Schengengebied het laatst binnenkwam of verliet. Heb je het gebied niet bezocht sinds EES de paspoortstempels verving, neem dan in plaats daarvan contact op met het land dat je van plan bent te bezoeken. De website Travel to Europe vermeldt wie je in elk land moet contacteren.
 
 ## Zo houd je je venster in de praktijk bij
 
@@ -99,6 +115,10 @@ EES registreert elke in- en uitreis digitaal, dus zelfs een korte overschrijding
 ### Kan ik zien hoeveel Schengendagen ik nog over heb na inreis?
 
 Ja. De online EES-tool van de EU, op de officiële website Travel to Europe, toont het aantal dagen dat je nog mag blijven, en bij sommige buitengrensovergangen kun je dezelfde check doen. Wil je een toekomstige reis plannen, gebruik dan de rekentool van de EU voor kort verblijf met je volledige reisgeschiedenis, en houd je eigen overzicht van in- en uitreisdatums bij voor het geval de gegevens van het systeem onvolledig zijn.
+
+### Bestaat er een officiële EES-dagenrekentool?
+
+Ja, de EU beheert er twee. De tool "Check how long you can stay", op de website Travel to Europe, gebruikt de gegevens van je reisdocument om te laten zien hoeveel dagen je nog mag blijven, met het antwoord OK of niet OK. De rekentool voor kort verblijf van de Europese Commissie werkt met de in- en uitreisdatums die je zelf invoert, en de Commissie noemt die slechts een hulpmiddel. Geen van beide antwoorden is een beslissing over inreis, want de grensbeambte beslist nog steeds.
 
 ### Heb ik door EES een visum of reisverzekering nodig?
 

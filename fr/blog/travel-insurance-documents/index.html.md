@@ -26,6 +26,18 @@ Quelques documents manquants ne sont pas simplement gênants ici. Ils décident 
 
 L'assurance voyage ne fonctionne que si vous pouvez y accéder quand vous en avez besoin. La plupart des gens la stockent par e-mail et ne peuvent pas la trouver en cas de crise — généralement lors du stress, de la pression du temps, ou d'une urgence médicale.
 
+## Vous ne trouvez plus votre police d'assurance ? Commencez par celui qui vous l'a vendue
+
+Les documents de votre police d'assurance sont chez celui qui vous l'a vendue, alors commencez par là. Cherchez dans votre boîte de réception le nom de l'assureur, du courtier ou du comparateur par lequel vous avez acheté, avec le mot « police ». Si vous avez créé un compte à l'achat, connectez-vous aussi au site ou à l'application de l'assureur. Vous recherchez trois choses :
+
+- **Les conditions générales :** les termes complets, y compris les exclusions et la procédure de réclamation
+- **Le certificat ou l'avenant :** votre nom, votre numéro de police, vos dates de voyage et votre niveau de couverture
+- **Le numéro d'assistance d'urgence 24 heures sur 24**, celui à appeler depuis un hôpital ou un commissariat à l'étranger
+
+Si vous ne vous souvenez même pas avoir acheté une police, vérifiez votre compte bancaire. Le Financial Ombudsman Service décrit un compte bancaire avec forfait comme un compte courant facturant des frais mensuels en échange d'avantages supplémentaires, dont l'assurance voyage. Dans ce cas, c'est la banque, et non un assureur voyage, qui détient vos documents, donc c'est son application, son site ou sa ligne d'assistance qu'il faut consulter.
+
+Une fois que vous les avez, le Foreign, Commonwealth and Development Office britannique conseille d'emporter les détails de votre police avec vous, y compris le numéro de police et le numéro d'assistance d'urgence de votre assureur. Il suggère aussi de les partager avec les personnes avec qui vous voyagez et votre famille restée chez vous. Si vous ne trouvez toujours rien, appelez l'assureur, ou la banque pour une couverture groupée, et demandez-leur de renvoyer les documents avant votre départ plutôt qu'après qu'un problème survienne.
+
 ## Les cinq documents que vous devez conserver avant de partir
 
 Votre police d'assurance voyage est généralement un PDF. Ce seul fichier contient tout ce dont vous avez besoin, mais vous devriez extraire et conserver ces cinq choses séparément pour pouvoir les trouver instantanément :
@@ -146,7 +158,7 @@ Les lignes d'urgence en assurance voyage acceptent généralement les appels int
 
 ### Que faire si je perds ma police d'assurance en voyageant ?
 
-Si vous avez votre numéro de police et pouvez appeler votre assureur, c'est tout ce qu'il vous faut. Donnez votre numéro de police et vos données personnelles par téléphone et ils confirmeront votre couverture. Si vous avez stocké des sauvegardes (photos numériques, copies cloud ou notes écrites), utilisez-les. La plupart des assureurs conservent les dossiers et peuvent renvoyer votre police immédiatement.
+Si vous avez votre numéro de police et pouvez appeler la ligne d'urgence de votre assureur, c'est tout ce qu'il vous faut. Donnez votre numéro de police et vos données personnelles par téléphone et ils confirmeront votre couverture. Si vous avez conservé des sauvegardes (photos numériques, copies dans le cloud ou notes écrites), utilisez-les. La plupart des assureurs gardent une trace de vos dossiers et peuvent vous renvoyer votre police immédiatement.
 
 ### Quelles sections de ma police d'assurance voyage dois-je vraiment lire ?
 

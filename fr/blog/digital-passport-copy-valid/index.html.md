@@ -20,6 +20,14 @@ Lorsque vous planifiez un voyage, de nombreux voyageurs se demandent s'ils peuve
 
 La réponse courte : une copie numérique est véritablement utile, mais seulement dans des situations spécifiques.
 
+## Une copie numérique est une photo de votre passeport, pas un passeport numérique
+
+Une copie numérique de passeport est **un scan ou une photo de téléphone de sa page d'identification**, la page avec votre photo, votre nom, votre date de naissance, votre numéro de passeport et sa date d'expiration. Elle enregistre vos informations sans se substituer au document. Le gouvernement canadien le dit clairement dans ses conseils aux voyageurs : les copies peuvent aider si vos documents sont perdus ou volés, mais elles ne peuvent pas servir de pièce d'identité, et vous devrez quand même demander un nouveau passeport si vous perdez le vôtre.
+
+En faire une prend quelques minutes. Posez le passeport à plat sous un bon éclairage, photographiez ou scannez la page d'identification pour que toute la page soit nette, puis zoomez pour vérifier que chaque détail est lisible. Faites de même pour tout visa avec lequel vous voyagerez. Le Canada conseille de laisser des copies à une personne de confiance restée chez vous, et la liste de contrôle du Royaume-Uni pour les voyages à l'étranger recommande une sauvegarde de vos informations de passeport que vous partagez avec votre famille ou conservez sur une plateforme de stockage de données sécurisée.
+
+Une copie n'est pas non plus la même chose que les identités numériques que certains gouvernements acceptent désormais. Aux États-Unis, la Transportation Security Administration permet aux titulaires d'un passeport américain de configurer un pass d'identité dans Google Wallet pour ses contrôles d'aéroport, mais elle précise toujours que tous les passagers doivent porter une pièce d'identité physique acceptable. Une photo dans votre pellicule est une sauvegarde de vos informations, et c'est exactement ainsi qu'il faut la considérer.
+
 ## Où les copies numériques du passeport sont acceptées
 
 ### Beaucoup d'hôtels acceptent une copie, mais dans certaines régions d'Europe on voudra généralement l'original
@@ -56,13 +64,13 @@ Une copie numérique n'est pas un substitut à votre passeport physique à l'imm
 
 ## Demandes de visa : les règles sont spécifiques
 
-Les règles pour les demandes de visa sont plus flexibles que pour les frontières, mais toujours spécifiques. La plupart des pays acceptent soit le passeport original, soit des photocopies certifiées, bien que les exigences varient considérablement selon la destination et l'ambassade.
+Les règles des demandes de visa sont plus souples que celles des frontières, mais elles restent précises. La plupart des pays acceptent soit le passeport original, soit des photocopies certifiées, même si les exigences varient considérablement selon la destination et l'ambassade.
 
 Ce que cela signifie en pratique
 
-Vous postulez pour un visa français. Le site officiel dit "copie certifiée". Cela signifie une photocopie certifiée par un notaire public ou un bureau gouvernemental. Pas une photo informelle de téléphone. Soumettre le mauvais format entraîne un rejet et des délais de nouvelle demande. Contactez l'ambassade pour confirmer les formats acceptables avant de consacrer du temps à la demande.
+Vous demandez un visa français. Le site officiel indique « copie certifiée ». Cela veut dire une photocopie certifiée par un notaire ou une administration, pas une photo prise au téléphone. Envoyer le mauvais format entraîne un refus et les délais d'une nouvelle demande. Contactez l'ambassade pour savoir quels formats elle accepte avant de consacrer du temps au dossier.
 
-Certaines ambassades acceptent les numérisations numériques notariées soumises par voie électronique, tandis que d'autres exigent des photocopies physiques certifiées ou le passeport original en personne. Les exigences varient tellement dramatiquement que vous devez vraiment consulter le site Web officiel du gouvernement du pays pour lequel vous postulez.
+Certaines ambassades acceptent les scans notariés envoyés par voie électronique, tandis que d'autres exigent des copies certifiées papier ou le passeport original en personne. Les exigences varient tellement qu'il vaut vraiment la peine de consulter le site officiel du gouvernement du pays auquel vous demandez le visa.
 
 ## Comment stocker votre copie numérique de passeport en toute sécurité
 
@@ -85,6 +93,10 @@ Si vous n'en avez pas encore fait, scannez dès aujourd'hui la page photo de vot
 
 ## Questions fréquemment posées
 
+### Qu'est-ce qu'une copie numérique de passeport ?
+
+Une copie numérique est un scan ou une photo de téléphone de la page d'identification de votre passeport, la page avec votre photo et vos informations personnelles. Elle aide pour les réservations et pour remplacer un passeport perdu, mais ce n'est pas un document de voyage : le gouvernement canadien précise que les copies ne peuvent pas servir de pièce d'identité. Elle est aussi différente d'une identité numérique soutenue par un gouvernement, et même aux États-Unis, où la TSA accepte les identités numériques à ses contrôles, les passagers doivent toujours porter une pièce d'identité physique acceptable.
+
 ### Une copie numérique de mon passeport est-elle acceptée lors de l'enregistrement à l'hôtel ?
 
 Oui, la plupart des hôtels du monde acceptent les copies numériques de passeport pour l'enregistrement : un PDF sur votre téléphone, par email ou imprimé. Certains petits établissements peuvent encore exiger un passeport physique. Contactez toujours votre hôtel à l'avance pour confirmer.
@@ -95,7 +107,7 @@ Non. Les compagnies aériennes exigent le passeport original et physique pour l'
 
 ### Les copies numériques de passeport sont-elles valides pour les demandes de visa ?
 
-La plupart des demandes de visa exigent des photocopies certifiées ou des numérisations notariées. Pas des photos informelles de téléphone. Les exigences varient selon le pays et l'ambassade. Consultez le site Web officiel du gouvernement du pays où vous postulez avant de soumettre quoi que ce soit.
+La plupart des demandes de visa exigent des photocopies certifiées ou des scans notariés, pas une photo prise au téléphone. Les exigences varient selon le pays et l'ambassade, alors consultez le site officiel du gouvernement du pays auquel vous demandez le visa avant d'envoyer quoi que ce soit.
 
 ### Une copie numérique de passeport peut-elle m'aider si mon passeport est perdu ou volé à l'étranger ?
 

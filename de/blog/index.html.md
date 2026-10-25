@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
+[Reisepass-RegelnWie lange ist ein ESTA gültig? Was es vorzeitig beendetEin ESTA gilt zwei Jahre, höchstens aber bis zum Ablauf des Passes. Was es vorzeitig beendet, wer ein eigenes braucht und was die neue Gebühr bedeutet.25. Oktober 20266 Min. Lesezeit](https://traveldocumentvault.com/de/blog/how-long-is-esta-valid/)
+
+##
+
 [VerlängerungKann man einen Reisepass vor Ablauf erneuern?Ja, und es gibt keine offizielle Wartezeit. Was die vorzeitige Erneuerung an ungenutzten Monaten kostet, warum der alte Pass seine Gültigkeit verliert, und was eine neue Nummer verändert.19. Oktober 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/renew-passport-before-expiry/)
 
 ##
@@ -20,7 +24,7 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
-[ReisedokumentePersonalausweis auf Reisen: Wann er ausreichtInnerhalb der EU und des EWR ist ein gültiger Personalausweis meist ein vollwertiges Reisedokument. Wann der Ausweis ausreicht, wann Sie den Reisepass brauchen, und warum beide Dokumente unterschiedlich schnell ablaufen.5. Oktober 20266 Min. Lesezeit](https://traveldocumentvault.com/de/blog/national-id-card-travel-europe/)
+[ReisedokumenteEWR-Personalausweis: Was er ist und wann er ausreichtWas als EWR-Personalausweis zählt, wo er in Europa statt des Reisepasses funktioniert, und wann Sie den Reisepass trotzdem bei sich brauchen.5. Oktober 20266 Min. Lesezeit](https://traveldocumentvault.com/de/blog/national-id-card-travel-europe/)
 
 ##
 
@@ -148,7 +152,7 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
-[Reisepass-RegelnDie Sechsmonats-Reisepass-Regel: Welche Länder sie durchsetzen und wie Sie nie überraschend betroffen sind Ihr Reisepass könnte gültig sein – aber Sie immer noch abweisen. Erfahren Sie, welche Länder die 6-Monats-Regel durchsetzen, wie Fluggesellschaften sie überprüfen und wie Sie sicherstellen, dass Ihre ganze Familie vor der Buchung versichert ist. 1. Feb. 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/)
+[Reisepass-Regeln6-Monats-Regel beim Reisepass: Reisen mit weniger? Reisepass läuft in weniger als 6 Monaten ab? Länder mit der 6-Monats-Regel, Länder die nur Gültigkeit für den Aufenthalt brauchen, und wie Sie das prüfen. 1. Feb. 20267 Min. Lesezeit](https://traveldocumentvault.com/de/blog/passport-expiry-6-month-rule/)
 
 ## Bewahren Sie Ihre Passangaben zusammen auf
 

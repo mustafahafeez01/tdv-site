@@ -111,6 +111,6 @@ Source: https://traveldocumentvault.com/th/blog/how-long-is-passport-valid-for-t
 
 [เดินทางกับครอบครัวอ่าน 6 นาที · กรกฎาคม 2026กฎพาสปอร์ตเชงเก้นสำหรับทริปครอบครัว: สิ่งที่พ่อแม่มักเข้าใจผิด](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
 
-[กฎเรื่องพาสปอร์ตอ่าน 8 นาทีกฎ 6 เดือนของพาสปอร์ต ประเทศไหนบังคับใช้ และจะไม่พลาดได้อย่างไร](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)
+[กฎเรื่องพาสปอร์ตอ่าน 8 นาทีกฎ 6 เดือนของพาสปอร์ต: เหลืออายุน้อยก็เดินทางได้ไหม](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)
 
 [การต่ออายุอ่าน 7 นาทีการต่ออายุพาสปอร์ตใช้เวลานานแค่ไหน กรอบเวลาของสหราชอาณาจักร สหรัฐฯ และออสเตรเลีย](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)

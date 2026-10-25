@@ -122,6 +122,6 @@ Source: https://traveldocumentvault.com/th/blog/how-to-read-your-passport-dates/
 
 [กฎเรื่องพาสปอร์ตอ่าน 6 นาที · เมษายน 2026พาสปอร์ตมีอายุใช้งานนานแค่ไหนสำหรับการเดินทาง อธิบายกฎเรื่องอายุการใช้งาน](https://traveldocumentvault.com/th/blog/how-long-is-passport-valid-for-travel/)
 
-[กฎเรื่องพาสปอร์ตอ่าน 8 นาที · 1 กุมภาพันธ์ 2026กฎ 6 เดือนของพาสปอร์ต ประเทศไหนบังคับใช้ และจะไม่พลาดได้อย่างไร](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)
+[กฎเรื่องพาสปอร์ตอ่าน 8 นาที · 1 กุมภาพันธ์ 2026กฎ 6 เดือนของพาสปอร์ต: เหลืออายุน้อยก็เดินทางได้ไหม](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)
 
 [พาสปอร์ตชำรุดอ่าน 7 นาที · 27 กรกฎาคม 2026เดินทางด้วยพาสปอร์ตชำรุดได้ไหม](https://traveldocumentvault.com/th/blog/damaged-passport-travel/)

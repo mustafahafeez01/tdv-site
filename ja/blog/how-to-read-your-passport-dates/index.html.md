@@ -122,6 +122,6 @@ Source: https://traveldocumentvault.com/ja/blog/how-to-read-your-passport-dates/
 
 [パスポート規則6分で読める · 2026年4月30日パスポートの有効期限は旅行でどのくらい必要？ 有効期間ルールの解説](https://traveldocumentvault.com/ja/blog/how-long-is-passport-valid-for-travel/)
 
-[パスポート規則8分で読める · 2026年2月1日6ヶ月パスポート有効期限ルール：どの国が適用しており、対策法は？](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)
+[パスポート規則8分で読める · 2026年2月1日パスポート6ヶ月ルール：残り期間が少なくても渡航できる？](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)
 
 [パスポート破損7分で読める · 2026年7月27日破損したパスポートで搭乗できる？ルールと対処法](https://traveldocumentvault.com/ja/blog/damaged-passport-travel/)

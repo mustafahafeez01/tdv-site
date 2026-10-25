@@ -1,6 +1,6 @@
-# National ID Card for Travel: When It Is Enough
+# EEA National ID Card: What It Is and When It Is Enough
 
-> EU national ID cards work for travel within Europe, but not everywhere. Learn when your card is enough and when you need your passport.
+> What counts as an EEA national ID card, where it works instead of a passport across Europe, and when you will still need the passport with you.
 
 Source: https://traveldocumentvault.com/blog/national-id-card-travel-europe/
 

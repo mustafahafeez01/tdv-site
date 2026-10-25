@@ -103,7 +103,7 @@ Source: https://traveldocumentvault.com/ko/blog/transit-visa-connecting-flights/
 
 ## 관련 기사
 
-[여권 규칙8분 읽기 · 2026년 2월6개월 여권 유효기간 규칙: 어느 국가가 시행하고 어떻게 대비할까](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)
+[여권 규칙8분 읽기 · 2026년 2월여권 6개월 규칙: 유효기간이 적게 남아도 여행할 수 있을까?](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)
 
 [가족 여행7분 읽기 · 2026년 2월가족 여행 서류 정리하기 (다음 여행 전에)](https://traveldocumentvault.com/ko/blog/how-to-organise-family-travel-documents/)
 

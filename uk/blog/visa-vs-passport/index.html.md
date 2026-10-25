@@ -155,7 +155,7 @@ Source: https://traveldocumentvault.com/uk/blog/visa-vs-passport/
 
 ## Пов'язані статті
 
-[Подорожні документи6 хв читанняНаціональна ID-картка в подорожі: коли її достатньо](https://traveldocumentvault.com/uk/blog/national-id-card-travel-europe/)
+[Подорожні документи6 хв читанняНаціональна картка ЄЕЗ: що це і коли її достатньо](https://traveldocumentvault.com/uk/blog/national-id-card-travel-europe/)
 
 [Надзвичайна ситуація в подорожі7 хв читанняЧи можна подорожувати з пошкодженим паспортом?](https://traveldocumentvault.com/uk/blog/damaged-passport-travel/)
 

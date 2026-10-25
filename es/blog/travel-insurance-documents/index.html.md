@@ -26,6 +26,18 @@ Unos pocos documentos faltantes no son solo un inconveniente aquí. Deciden si e
 
 El seguro de viaje solo funciona si puedes acceder a él cuando lo necesitas. La mayoría de las personas lo almacenan en correo electrónico y no pueden encontrarlo cuando surge la crisis —típicamente durante estrés, presión de tiempo, o una emergencia médica.
 
+## ¿No encuentras los documentos de tu póliza? Empieza por quien te la vendió
+
+Los documentos de tu póliza están en manos de quien te vendió la cobertura, así que empieza por ahí. Busca en tu bandeja de entrada el nombre de la aseguradora, del corredor o del comparador a través del que compraste, junto con la palabra «póliza». Si creaste una cuenta al comprarla, entra también en la web o app del asegurador. Buscas tres cosas:
+
+- **Las condiciones de la póliza:** los términos completos, incluidas las exclusiones y cómo reclamar
+- **El certificado o anexo:** tu nombre, número de póliza, fechas de viaje y nivel de cobertura
+- **El número de asistencia de emergencia 24 horas**, el que llamas desde un hospital o comisaría en el extranjero
+
+Si ni siquiera recuerdas haber comprado una póliza, revisa tu cuenta bancaria. El Financial Ombudsman Service describe una cuenta bancaria con paquete como una cuenta corriente que cobra una cuota mensual a cambio de beneficios adicionales, el seguro de viaje entre ellos. En ese caso es el banco, y no un asegurador de viaje, quien tiene tus documentos, así que su app, web o línea de atención es donde debes buscar.
+
+Una vez que los tengas, la Foreign, Commonwealth and Development Office del Reino Unido recomienda llevar contigo los datos de tu póliza, incluyendo el número de póliza y el número de asistencia de emergencia de tu asegurador. También sugiere compartirlos con quienes viajan contigo y con tu familia en casa. Si aun así no encuentras nada, llama al asegurador, o al banco si se trata de una cuenta con paquete, y pídeles que te envíen de nuevo los documentos antes de volar, no después de que algo salga mal.
+
 ## Los Cinco Documentos Que Debes Guardar Antes de Viajar
 
 Tu póliza de seguro de viaje es típicamente un PDF. Ese único archivo contiene todo lo que necesitas, pero deberías extraer y guardar estas cinco cosas por separado para poder encontrarlas al instante:
@@ -146,7 +158,7 @@ Las líneas de emergencia de seguros de viaje típicamente aceptan llamadas inte
 
 ### ¿Qué debo hacer si pierdo mi póliza de seguros mientras viajo?
 
-Si tienes tu número de póliza y puedes llamar a la línea de emergencia de tu asegurador, eso es todo lo que necesitas. Proporciona tu número de póliza y detalles personales por teléfono y confirmarán tu cobertura. Si has guardado copias de seguridad (fotos digitales, copias en la nube o notas escritas), úsalas. La mayoría de aseguradores guardan registros y pueden reenviar tu póliza inmediatamente.
+Si tienes tu número de póliza y puedes llamar a la línea de emergencia de tu aseguradora, eso es todo lo que necesitas. Da tu número de póliza y tus datos personales por teléfono y te confirmarán la cobertura. Si has guardado copias de seguridad (fotos digitales, copias en la nube o notas escritas), úsalas. La mayoría de las aseguradoras guardan registros y pueden reenviarte la póliza al momento.
 
 ### ¿Qué secciones de una póliza de seguros de viaje realmente necesito leer?
 

@@ -135,7 +135,7 @@ Source: https://traveldocumentvault.com/ru/blog/what-documents-to-carry-when-tra
 
 [Документы для путешествий7 мин чтенияПодтверждение дальнейшей поездки: что действительно подходит](https://traveldocumentvault.com/ru/blog/proof-of-onward-travel/)
 
-[Документы для путешествий6 мин чтенияНациональное удостоверение личности в поездках: когда его достаточно](https://traveldocumentvault.com/ru/blog/national-id-card-travel-europe/)
+[Документы для путешествий6 мин чтенияНациональная карта ЕЭЗ: что это и когда её достаточно](https://traveldocumentvault.com/ru/blog/national-id-card-travel-europe/)
 
 [Правила паспорта8 мин чтения · февраль 2026Правило шести месяцев для паспорта: какие страны его требуют и как не столкнуться с отказом на границе](https://traveldocumentvault.com/ru/blog/passport-expiry-6-month-rule/)
 

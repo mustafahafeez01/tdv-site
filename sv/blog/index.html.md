@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
+[PassreglerHur länge är ett ESTA giltigt? Vad som avslutar det i förtidEtt ESTA gäller i två år eller tills passet går ut. Vad som avslutar det i förtid, vem som behöver sitt eget och vad den nya avgiften innebär.25 oktober 20266 min läsning](https://traveldocumentvault.com/sv/blog/how-long-is-esta-valid/)
+
+##
+
 [PassförnyelseKan du förnya ett pass innan det går ut?Ja, och det finns ingen officiell väntetid. Vad tidig förnyelse kostar dig i oanvända månader, varför det gamla passet slutar fungera, och vad ett nytt nummer ändrar.19 oktober 20267 min läsning](https://traveldocumentvault.com/sv/blog/renew-passport-before-expiry/)
 
 ##
@@ -20,7 +24,7 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
-[ResehandlingarNationellt ID-kort för resor: när det räckerInom EU och EES är ett giltigt nationellt ID-kort oftast en fullständig resehandling. När kortet räcker, när du ska ta med passet, och varför de två följer olika utgångsklockor.5 oktober 20266 min läsning](https://traveldocumentvault.com/sv/blog/national-id-card-travel-europe/)
+[ResehandlingarNationellt EES-ID-kort: vad det är och när det räckerVad som räknas som ett EES-ID-kort, var det gäller i stället för pass i Europa, och när du ändå behöver passet med dig.5 oktober 20266 min läsning](https://traveldocumentvault.com/sv/blog/national-id-card-travel-europe/)
 
 ##
 
@@ -148,7 +152,7 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
-[Passregler 6-månadersregeln för pass: vilka länder tillämpar den och hur du aldrig blir tagen på sängen Passet kan vara giltigt – och ändå nekas dig vid gaten. Ta reda på vilka länder som tillämpar 6-månadersregeln, hur flygbolagen kontrollerar den, och hur du säkerställer att hela familjen är skyddad innan ni bokar. 1 feb 20267 min läsning](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/)
+[Passregler 6-månadersregeln för pass: kan du resa med mindre kvar? Passet går ut om under sex månader? Vilka länder tillämpar 6-månadersregeln, vilka bara kräver giltighet för vistelsen, och hur du kollar före bokning. 1 feb 20267 min läsning](https://traveldocumentvault.com/sv/blog/passport-expiry-6-month-rule/)
 
 ## Samla dina passuppgifter
 

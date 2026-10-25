@@ -52,6 +52,24 @@ Dette scenarie sker oftere, end folk forventer, og trinnene er ikke indlysende, 
 
 **Trin 6: Kontakt dit rejseforsikringsselskab.** Et pas, der opdages udløbet i lufthavnen, kan være dækket af rejseforsikringen afhængigt af din police. Ring og undersøg det i stedet for at antage noget som helst.
 
+## Et udløbet pas kan som regel fornyes, ikke gøres helt om fra ny
+
+Udløb betyder sjældent, at du skal starte forfra, fordi du i Storbritannien, USA og Canada som regel kan forny et udløbet voksenpas gennem den normale fornyelsesproces. I USA og Canada er det typisk, hvor gammel du var, da passet blev udstedt, og hvor længe siden det er, der kan blokere en fornyelse.
+
+### Storbritannien: Et udløbet pas går gennem normal fornyelse
+
+GOV.UK siger, at du skal forny, før du kan rejse, hvis dit pas er udløbet eller ikke har gyldighed nok til din destination. Et udløbet pas går gennem den almindelige fornyelse, online eller på en papirblanket, og du skal bruge dit gamle pas til det. Voksenpas er til personer på 16 år og derover, og børnepas har deres egen proces.
+
+### USA: Fornyelse virker inden for 15 år fra udstedelsen
+
+Ifølge USA.gov kan du kun forny et udløbet pas, hvis det blev **udstedt inden for de sidste 15 år**. Du kan heller ikke forny et, der blev udstedt før din 16-års fødselsdag, et der er beskadiget, bortkommet eller stjålet, eller et i et tidligere navn, hvis du ikke har et juridisk dokument, der beviser navneændringen. Gælder noget af dette, skal du ansøge om et nyt pas personligt med formular DS-11.
+
+### Canada: Et udløbet pas kan fornyes online
+
+Canadas regering lader dig forny, hvis dit sidste pas var et voksenpas, udstedt da du var mindst 16 år. Det skal også have været udstedt inden for 15 år fra din ansøgningsdato og have en gyldighed på 5 eller 10 år. Navnet, fødselsdatoen og fødestedet på det skal matche, hvad du vil have på det nye. Du kan forny online, hvis dit pas udløber inden for de næste seks måneder eller allerede er udløbet, forudsat at din hjemme- og postadresse er i Canada. Børnepas kan ikke fornyes, så et barn har brug for en ny ansøgning.
+
+Er dit pas udløbet for år tilbage, så tjek udstedelsesdatoen først, fordi 15-års-grænsen i USA og Canada tælles fra udstedelsen, ikke fra udløbet. Tjek derefter de aktuelle sagsbehandlingstider, før du booker, hvilket vores guide til [hvor lang tid en pasfornyelse tager](https://traveldocumentvault.com/da/blog/how-long-does-passport-renewal-take/) dækker land for land.
+
 ## Andre pasproblemer, der får rejsende afvist
 
 Udløb er den mest almindelige årsag til, at et pas afvises i lufthavnen, men andre problemer giver samme resultat.

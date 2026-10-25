@@ -122,6 +122,6 @@ Buka halaman berlapis kaku yang memuat foto Anda, dan cari kolom berlabel tangga
 
 [Aturan Paspor6 menit baca · April 2026Berapa Lama Paspor Berlaku untuk Perjalanan? Penjelasan Aturan Masa Berlaku](https://traveldocumentvault.com/id/blog/how-long-is-passport-valid-for-travel/)
 
-[Aturan Paspor8 menit baca · 1 Februari 2026Aturan Paspor 6 Bulan: Negara Mana yang Menerapkannya dan Cara Menghindari Masalah](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
+[Aturan Paspor8 menit baca · 1 Februari 2026Aturan Paspor 6 Bulan: Bisakah Bepergian dengan Sisa Kurang?](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
 
 [Kerusakan Paspor7 menit baca · 27 Juli 2026Bisakah Anda Bepergian dengan Paspor yang Rusak?](https://traveldocumentvault.com/id/blog/damaged-passport-travel/)

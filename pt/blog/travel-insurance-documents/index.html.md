@@ -26,6 +26,18 @@ Alguns documentos em falta não são apenas inconvenientes aqui. Decidem se o tr
 
 O seguro de viagem só funciona se conseguir acedê-lo quando precisa. A maioria das pessoas guarda-o em email e não consegue encontrá-lo em crise — normalmente durante stress, pressão de tempo, ou uma emergência médica.
 
+## Não encontra os documentos da sua apólice? Comece por quem lhe vendeu a cobertura
+
+Os documentos da sua apólice estão nas mãos de quem lhe vendeu a cobertura, por isso comece por aí. Procure na sua caixa de entrada o nome da seguradora, do corretor ou do site comparador através do qual comprou, juntamente com a palavra «apólice». Se criou uma conta ao comprá-la, entre também no site ou na app da seguradora. Procura três coisas:
+
+- **As condições da apólice:** os termos completos, incluindo exclusões e como reclamar
+- **O certificado ou aditamento:** o seu nome, número de apólice, datas de viagem e nível de cobertura
+- **O número de assistência de emergência 24 horas**, aquele que liga a partir de um hospital ou esquadra no estrangeiro
+
+Se nem se lembra de ter comprado uma apólice, verifique a sua conta bancária. O Financial Ombudsman Service descreve uma conta bancária com pacote como uma conta à ordem que cobra uma taxa mensal em troca de benefícios extra, incluindo seguro de viagem. Nesse caso é o banco, e não uma seguradora de viagem, que tem os seus documentos, por isso é na app, site ou linha de apoio dele que deve procurar.
+
+Depois de os ter, o Foreign, Commonwealth and Development Office do Reino Unido recomenda levar consigo os dados da sua apólice, incluindo o número de apólice e o número de assistência de emergência da sua seguradora. Sugere também partilhá-los com quem viaja consigo e com a família em casa. Se ainda assim não encontrar nada, ligue para a seguradora, ou para o banco no caso de uma conta com pacote, e peça que lhe enviem novamente os documentos antes de voar, não depois de algo correr mal.
+
 ## Os Cinco Documentos Que Deve Guardar Antes de Partir
 
 A sua apólice de seguro de viagem é normalmente um PDF. Esse ficheiro único contém tudo o que precisa, mas deve extrair e guardar estas cinco coisas separadamente para conseguir encontrá-las instantaneamente:

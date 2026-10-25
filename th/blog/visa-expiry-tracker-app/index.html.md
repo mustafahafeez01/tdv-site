@@ -106,7 +106,7 @@ Source: https://traveldocumentvault.com/th/blog/visa-expiry-tracker-app/
 
 ## บทความที่เกี่ยวข้อง
 
-[กฎเรื่องพาสปอร์ตอ่าน 8 นาทีกฎ 6 เดือนของพาสปอร์ต ประเทศไหนบังคับใช้ และจะไม่พลาดได้อย่างไร](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)
+[กฎเรื่องพาสปอร์ตอ่าน 8 นาทีกฎ 6 เดือนของพาสปอร์ต: เหลืออายุน้อยก็เดินทางได้ไหม](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)
 
 [การต่ออายุอ่าน 8 นาทีHow Long Does Passport Renewal Take? Current Times for US, UK, Australia, Canada & More](https://traveldocumentvault.com/th/blog/how-long-does-passport-renewal-take/)
 

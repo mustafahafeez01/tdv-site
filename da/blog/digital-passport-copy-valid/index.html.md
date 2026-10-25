@@ -20,6 +20,14 @@ Når man planlægger en rejse, spekulerer mange rejsende på, om de kan gemme en
 
 Det korte svar: en digital kopi er reelt nyttig, men kun i bestemte situationer.
 
+## En digital kopi er et foto af dit pas, ikke et digitalt pas
+
+En digital kopi af et pas er **en scanning eller et mobilfoto af dets identifikationsside**, siden med dit foto, navn, fødselsdato, pasnummer og udløbsdato. Den registrerer dine oplysninger uden at træde i stedet for dokumentet. Canadas regering siger det ligeud i sine rejseråd: kopier kan hjælpe, hvis dine dokumenter bliver væk eller stjålet, men de kan ikke bruges som legitimation, og du skal stadig ansøge om et nyt pas, hvis du mister dit.
+
+Det tager et par minutter at lave en. Læg passet fladt i godt lys, fotografer eller scan identifikationssiden, så hele siden er skarp, zoom så ind og tjek, at du kan læse hver detalje. Gør det samme for ethvert visum, du rejser på. Canada foreslår, at du efterlader kopier hjemme hos en person, du har tillid til, og Storbritanniens tjekliste for udlandsrejser anbefaler en backup af dine pasoplysninger, som du deler med familien eller opbevarer på en sikker datalagringsplatform.
+
+En kopi er heller ikke det samme som de digitale ID'er, nogle myndigheder nu accepterer. I USA lader transportsikkerhedsmyndigheden TSA amerikanske pasindehavere oprette et ID-kort i Google Wallet til brug ved sikkerhedskontrollen i lufthavne, men den siger stadig, at alle passagerer skal medbringe et gyldigt fysisk ID. Et foto i din kamerarulle er en backup af dine oplysninger, og det er netop sådan, du skal behandle det.
+
 ## Hvor digitale paskopier accepteres
 
 ### Mange hoteller accepterer en kopi, men dele af Europa vil som regel se originalen
@@ -84,6 +92,10 @@ Har du ikke lavet en endnu, så scan dit pas' fotoside i dag, før du står ved 
 **Før du stoler på det her:** det er en blog, ikke en officiel kilde. Regler og detaljer ændrer sig, og din situation kan være en anden. Vi kontrollerer det, vi udgiver, og vi kan stadig tage fejl eller være forældede. Hvis noget her har betydning for dine planer, så få det bekræftet hos den ansvarlige myndighed, før du gør noget.
 
 ## Ofte stillede spørgsmål
+
+### Hvad er en digital kopi af et pas?
+
+En digital kopi er en scanning eller et mobilfoto af passets identifikationsside, siden med foto og personlige oplysninger. Den hjælper ved bookinger og ved udskiftning af et bortkommet pas, men den er ikke et rejsedokument: Canadas regering siger, at kopier ikke kan bruges som legitimation. Den er også forskellig fra et myndighedsgodkendt digitalt ID, og selv i USA, hvor TSA accepterer digitale ID'er ved sine sikkerhedskontroller, skal passagerer stadig medbringe et gyldigt fysisk ID.
 
 ### Accepteres en digital kopi af mit pas ved indtjekning på hotellet?
 

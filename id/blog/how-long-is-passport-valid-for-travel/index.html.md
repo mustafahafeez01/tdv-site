@@ -111,6 +111,6 @@ Anda perlu menghubungi kedutaan besar atau konsulat negara Anda yang terdekat un
 
 [Perjalanan Keluarga6 menit baca · Juli 2026Aturan Paspor Schengen untuk Perjalanan Keluarga: Kesalahan yang Sering Dilakukan Orang Tua](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
 
-[Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Negara Mana yang Menerapkannya dan Cara Menghindari Masalah](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
+[Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Bisakah Bepergian dengan Sisa Kurang?](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
 
 [Perpanjangan7 menit bacaBerapa Lama Perpanjangan Paspor Berlangsung? Jadwal Waktu Inggris Raya, AS, dan Australia](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)

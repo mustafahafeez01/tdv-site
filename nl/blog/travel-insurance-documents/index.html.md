@@ -26,6 +26,18 @@ Een paar ontbrekende documenten zijn hier niet alleen onhandig. Ze bepalen of be
 
 Reisverzeking werkt alleen als je er toegang toe hebt als je het nodig hebt. De meeste mensen bewaren het in e-mail en kunnen het niet vinden als crisis toeslaat – doorgaans onder stress, tijdsdruk, of een medische noodsituatie.
 
+## Vind je je verzekeringsdocumenten niet? Begin bij wie je de verzekering heeft verkocht
+
+Je verzekeringsdocumenten liggen bij wie je de verzekering heeft verkocht, dus begin daar. Zoek in je inbox op de naam van de verzekeraar, of de tussenpersoon of vergelijkingssite waar je de verzekering hebt gekocht, samen met het woord "polis". Heb je een account aangemaakt toen je de verzekering kocht, log dan ook in op de website of app van de verzekeraar. Je zoekt drie dingen:
+
+- **De polisvoorwaarden:** de volledige voorwaarden, inclusief uitsluitingen en hoe je een claim indient
+- **Het polisoverzicht of certificaat:** je naam, polisnummer, reisdata en dekkingsniveau
+- **Het 24-uurs noodnummer**, het nummer dat je belt vanuit een ziekenhuis of politiebureau in het buitenland
+
+Weet je helemaal niet meer of je een polis hebt afgesloten, controleer dan je bankrekening. De Britse Financial Ombudsman Service beschrijft een pakketbankrekening als een gewone rekening waarvoor je een maandelijkse vergoeding betaalt in ruil voor extra voordelen, waaronder reisverzekering. In dat geval heeft de bank, niet een reisverzekeraar, je documenten, dus kijk in de app, website of klantenservice van de bank.
+
+Zodra je ze hebt, adviseert het Britse ministerie van Buitenlandse Zaken (Foreign, Commonwealth and Development Office) om je polisgegevens mee te nemen, inclusief het polisnummer en het noodnummer van je verzekeraar. Het stelt ook voor die te delen met je medereizigers en familie thuis. Vind je nog steeds niets, bel dan de verzekeraar, of de bank bij een pakketverzekering, en vraag hen de documenten opnieuw te sturen voordat je vliegt, in plaats van nadat er iets fout is gegaan.
+
 ## De vijf documenten die je moet bewaren voordat je vliegt
 
 Je reisverzekeringspolisje is meestal een PDF. Dat ene bestand bevat alles wat je nodig hebt, maar je moet deze vijf dingen apart uitpakken en bewaren zodat je ze meteen kunt vinden:

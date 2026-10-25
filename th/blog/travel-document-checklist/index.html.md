@@ -141,7 +141,7 @@ Source: https://traveldocumentvault.com/th/blog/travel-document-checklist/
 
 [เอกสารการเดินทางอ่าน 7 นาทีหลักฐานการเดินทางต่อ: สิ่งที่ใช้ได้จริง](https://traveldocumentvault.com/th/blog/proof-of-onward-travel/)
 
-[กฎเรื่องพาสปอร์ตอ่าน 8 นาทีกฎ 6 เดือนของพาสปอร์ต ประเทศไหนบังคับใช้ และจะไม่พลาดได้อย่างไร](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)
+[กฎเรื่องพาสปอร์ตอ่าน 8 นาทีกฎ 6 เดือนของพาสปอร์ต: เหลืออายุน้อยก็เดินทางได้ไหม](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)
 
 [เดินทางกับครอบครัวอ่าน 8 นาทีวิธีจัดระเบียบเอกสารการเดินทางของครอบครัว (ก่อนทริปหน้า)](https://traveldocumentvault.com/th/blog/how-to-organise-family-travel-documents/)
 

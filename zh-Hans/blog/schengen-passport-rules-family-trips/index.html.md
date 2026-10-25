@@ -93,7 +93,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/schengen-passport-rules-fam
 
 ## 相关文章
 
-[旅行证件6分钟阅读 · 2026年10月国民身份证能当旅行证件吗？什么时候够用](https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-europe/)
+[旅行证件6分钟阅读 · 2026年10月欧洲经济区国民身份证：它是什么，什么时候够用](https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-europe/)
 
 [家庭旅行8分钟阅读 · 2026年8月带孩子出行却没有父母双方同行：该带哪些证件](https://traveldocumentvault.com/zh-Hans/blog/travelling-child-without-both-parents/)
 

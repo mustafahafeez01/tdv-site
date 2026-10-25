@@ -26,6 +26,18 @@ Ein paar fehlende Dokumente sind hier nicht nur unpraktisch. Sie entscheiden, ob
 
 Reiseversicherung funktioniert nur, wenn Sie sie im Notfall erreichen können. Die meisten Menschen speichern sie in E-Mails und können sie nicht finden, wenn eine Krise eintritt – normalerweise unter Stress, Zeitdruck oder einem medizinischen Notfall.
 
+## Sie finden Ihre Versicherungsunterlagen nicht? Fragen Sie dort, wo Sie die Versicherung gekauft haben
+
+Ihre Versicherungsunterlagen liegen bei dem, der Ihnen die Deckung verkauft hat, also fangen Sie dort an. Durchsuchen Sie Ihr Postfach nach dem Namen des Versicherers, des Maklers oder des Vergleichsportals, über das Sie gekauft haben, zusammen mit dem Wort „Police“. Wenn Sie beim Kauf ein Konto eingerichtet haben, melden Sie sich auch auf der Website oder in der App des Versicherers an. Sie suchen drei Dinge:
+
+- **Die Versicherungsbedingungen:** die vollständigen Bedingungen, einschließlich Ausschlüssen und dem Vorgehen bei einer Schadenmeldung
+- **Den Versicherungsschein oder Nachtrag:** Ihren Namen, die Versicherungsnummer, Ihre Reisedaten und den Umfang der Deckung
+- **Die 24-Stunden-Notrufnummer**, die Sie aus einem Krankenhaus oder einer Polizeiwache im Ausland anrufen
+
+Wenn Sie sich nicht einmal erinnern, eine Police gekauft zu haben, prüfen Sie Ihr Bankkonto. Der Financial Ombudsman Service beschreibt ein Bankkonto mit Zusatzleistungen als ein Girokonto, das eine monatliche Gebühr verlangt und dafür zusätzliche Vorteile bietet, darunter Reiseversicherung. In diesem Fall hält die Bank, nicht ein Reiseversicherer, Ihre Unterlagen, also schauen Sie in deren App, Website oder Hotline nach.
+
+Sobald Sie sie haben, rät das britische Foreign, Commonwealth and Development Office, Ihre Versicherungsdetails mitzunehmen, einschließlich Versicherungsnummer und der Notrufnummer Ihres Versicherers. Es empfiehlt außerdem, diese mit Mitreisenden und der Familie zu Hause zu teilen. Wenn Sie immer noch nichts finden, rufen Sie den Versicherer an, oder bei einem Konto mit Zusatzleistungen die Bank, und bitten Sie darum, Ihnen die Unterlagen vor dem Abflug erneut zuzusenden, nicht erst, wenn etwas schiefgeht.
+
 ## Die fünf Dokumente, die Sie vor dem Flug speichern müssen
 
 Ihre Reiseversicherungspolice ist normalerweise eine PDF. Diese eine Datei enthält alles, was Sie brauchen, aber Sie sollten diese fünf Dinge separat extrahieren und speichern, damit Sie sie sofort finden können:

@@ -154,7 +154,7 @@ Source: https://traveldocumentvault.com/th/blog/how-to-organise-family-travel-do
 
 ## บทความที่เกี่ยวข้อง
 
-[กฎเรื่องพาสปอร์ตอ่าน 8 นาทีกฎ 6 เดือนของพาสปอร์ต ประเทศไหนบังคับใช้ และจะไม่พลาดได้อย่างไร](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)
+[กฎเรื่องพาสปอร์ตอ่าน 8 นาทีกฎ 6 เดือนของพาสปอร์ต: เหลืออายุน้อยก็เดินทางได้ไหม](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)
 
 [ความเป็นส่วนตัวอ่าน 7 นาทีเก็บพาสปอร์ตไว้ใน Google Photos ปลอดภัยหรือไม่ สิ่งที่คุณควรรู้](https://traveldocumentvault.com/th/blog/is-it-safe-to-store-passport-in-google-photos/)
 

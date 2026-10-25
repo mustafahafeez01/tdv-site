@@ -1,6 +1,6 @@
-# Nationalt ID-kort på rejsen: hvornår det er nok
+# Nationalt EØS-ID-kort: hvad det er, og hvornår det er nok
 
-> Et nationalt ID-kort er nok til at rejse i Europa, men ikke alle steder. Se hvornår det er nok, og hvornår du skal bruge dit pas.
+> Hvad der tæller som et EØS-ID-kort, hvor det gælder i stedet for et pas i Europa, og hvornår du stadig skal have passet med.
 
 Source: https://traveldocumentvault.com/da/blog/national-id-card-travel-europe/
 

@@ -155,7 +155,7 @@ Di sebagian besar negara, bisa. Masa berlaku visa terpisah dari masa berlaku pas
 
 ## Artikel Terkait
 
-[Dokumen Perjalanan6 menit bacaKartu Identitas Nasional untuk Bepergian: Kapan Sudah Cukup](https://traveldocumentvault.com/id/blog/national-id-card-travel-europe/)
+[Dokumen Perjalanan6 menit bacaKartu Identitas Nasional EEA: Apa Itu dan Kapan Sudah Cukup](https://traveldocumentvault.com/id/blog/national-id-card-travel-europe/)
 
 [Aturan Paspor6 menit bacaPaspor Kedaluwarsa: Apa yang Harus Dilakukan dan Cara Memperpanjangnya](https://traveldocumentvault.com/id/blog/passport-expired-what-to-do/)
 

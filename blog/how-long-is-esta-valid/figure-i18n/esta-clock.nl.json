@@ -1,0 +1,42 @@
+{
+ "nl": {
+  "template": "cards",
+  "title": "Wanneer een ESTA stopt met werken",
+  "cards": [
+   {
+    "heading": "Het verloopt na 2 jaar",
+    "items": [
+     {
+      "text": "Of wanneer je paspoort verloopt",
+      "mark": "dot"
+     },
+     {
+      "text": "Wat het eerst gebeurt",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Iedereen heeft er zelf een nodig",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Ook baby's en kinderen",
+      "mark": "tick"
+     },
+     {
+      "text": "Elk op zijn eigen paspoort",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Nieuw paspoort, nieuwe naam of nationaliteit: opnieuw aanvragen",
+  "alt": "Diagram van wanneer een ESTA stopt met werken: het verloopt na 2 jaar of wanneer je paspoort verloopt, wat het eerst gebeurt. Iedereen heeft zijn eigen ESTA nodig, ook baby's en kinderen, elk op zijn eigen paspoort. Een nieuw paspoort, nieuwe naam of nieuwe nationaliteit betekent opnieuw aanvragen",
+  "caption": "Eén klok per reiziger, en die overleeft het paspoort nooit.",
+  "placement": {
+   "h2": 2,
+   "para": 1
+  }
+ }
+}

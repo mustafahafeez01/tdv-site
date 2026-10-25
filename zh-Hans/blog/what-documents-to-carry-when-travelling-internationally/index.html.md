@@ -135,7 +135,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/what-documents-to-carry-whe
 
 [旅行证件7 分钟阅读 · 2026年10月13日后续行程证明：到底什么才算数](https://traveldocumentvault.com/zh-Hans/blog/proof-of-onward-travel/)
 
-[旅行证件6 分钟阅读 · 2026年10月6日国民身份证能当旅行证件吗？什么时候够用](https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-europe/)
+[旅行证件6 分钟阅读 · 2026年10月6日欧洲经济区国民身份证：它是什么，什么时候够用](https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-europe/)
 
 [护照规则8 分钟阅读 · 2026年2月1日六个月护照规则：哪些国家执行它以及如何永远不会被抓住](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)
 

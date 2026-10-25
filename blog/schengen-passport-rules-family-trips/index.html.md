@@ -93,10 +93,10 @@ Airlines check every passport against IATA's Timatic database, which applies the
 
 ## Related Articles
 
-[Travel Documents6 min readNational ID Card for Travel: When It Is Enough](https://traveldocumentvault.com/blog/national-id-card-travel-europe/)
+[Travel Documents6 min readEEA National ID Card: What It Is and When It Is Enough](https://traveldocumentvault.com/blog/national-id-card-travel-europe/)
 
 [Family Travel8 min read · August 2026Travelling With a Child Without Both Parents: What to Carry](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/)
 
-[Passport Rules8 min read · February 2026The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Passport Rules8 min read · February 20266-Month Passport Rule: Can You Travel With Less Left?](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
 [Passport Rules6 min read · April 2026How Long is a Passport Valid for Travel? Validity Rules Explained](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/)

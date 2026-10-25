@@ -93,7 +93,7 @@ Airlines überprüfen jeden Reisepass gegen die IATA-Timatic-Datenbank, die die 
 
 ## Verwandte Artikel
 
-[Reisedokumente6 Min. LesezeitPersonalausweis auf Reisen: Wann er ausreicht](https://traveldocumentvault.com/de/blog/national-id-card-travel-europe/)
+[Reisedokumente6 Min. LesezeitEWR-Personalausweis: Was er ist und wann er ausreicht](https://traveldocumentvault.com/de/blog/national-id-card-travel-europe/)
 
 [Familienreisen8 Min. Lesezeit · August 2026Reisen mit einem Kind ohne beide Elternteile: Was Sie mitnehmen sollten](https://traveldocumentvault.com/de/blog/travelling-child-without-both-parents/)
 

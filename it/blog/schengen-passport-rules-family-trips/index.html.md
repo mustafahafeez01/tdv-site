@@ -93,7 +93,7 @@ Le compagnie aeree verificano ogni passaporto rispetto al database Timatic dell'
 
 ## Articoli correlati
 
-[Documenti di Viaggio6 min di letturaCarta d'identità per viaggiare: quando basta](https://traveldocumentvault.com/it/blog/national-id-card-travel-europe/)
+[Documenti di Viaggio6 min di letturaCarta d'Identità SEE: Cos'è e Quando Basta](https://traveldocumentvault.com/it/blog/national-id-card-travel-europe/)
 
 [Viaggio in Famiglia8 min di lettura · agosto 2026Viaggiare con un Figlio Senza Entrambi i Genitori: Cosa Portare](https://traveldocumentvault.com/it/blog/travelling-child-without-both-parents/)
 

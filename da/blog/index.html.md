@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
+[PasreglerHvor længe er et ESTA gyldigt? Hvad der afslutter det tidligtEt ESTA gælder i to år eller indtil dit pas udløber. Hvad der afslutter det tidligt, hvem der skal have sit eget, og hvad det nye gebyr betyder.25. oktober 20266 min læsning](https://traveldocumentvault.com/da/blog/how-long-is-esta-valid/)
+
+##
+
 [FornyelseKan du forny dit pas, før det udløber?Ja, og der er ingen officiel venteperiode. Hvad tidlig fornyelse koster dig i ubrugte måneder, hvorfor det gamle pas stopper med at virke, og hvad et nyt nummer ændrer.19. oktober 20267 min læsning](https://traveldocumentvault.com/da/blog/renew-passport-before-expiry/)
 
 ##
@@ -20,7 +24,7 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[RejsedokumenterNationalt ID-kort på rejsen: hvornår det er nokInden for EU og EØS er et gyldigt nationalt ID-kort som regel et fuldt gyldigt rejsedokument. Se, hvornår kortet er nok, hvornår du skal medbringe passet, og hvorfor de to følger hver sit udløbsur.5. oktober 20266 min læsning](https://traveldocumentvault.com/da/blog/national-id-card-travel-europe/)
+[RejsedokumenterNationalt EØS-ID-kort: hvad det er, og hvornår det er nokHvad der tæller som et EØS-ID-kort, hvor det gælder i stedet for et pas i Europa, og hvornår du stadig skal have passet med.5. oktober 20266 min læsning](https://traveldocumentvault.com/da/blog/national-id-card-travel-europe/)
 
 ##
 
@@ -148,7 +152,7 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
-[Pasregler 6-måneders-reglen for pas: hvilke lande håndhæver den, og sådan undgår du at blive taget på sengen Dit pas kan være gyldigt – og stadig blive afvist ved gaten. Se hvilke lande håndhæver 6-måneders-reglen, hvordan flyselskaberne tjekker den, og hvordan du sikrer, at hele familien er dækket, inden I booker. 1. feb. 20267 min. læsning](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)
+[Pasregler 6-måneders-reglen for pas: kan du rejse med mindre tilbage? Udløber dit pas inden et halvt år? Hvilke lande håndhæver 6-måneders-reglen, hvilke kun kræver gyldighed på rejsen, og hvordan du tjekker før du booker. 1. feb. 20267 min. læsning](https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/)
 
 ## Saml dine pasoplysninger
 

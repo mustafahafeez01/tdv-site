@@ -110,7 +110,7 @@ It depends on the visa type. For long-stay visas needing renewal, we'd set the r
 
 ## Related Articles
 
-[Passport Rules8 min read · Feb 1, 2026The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Passport Rules8 min read · Feb 1, 20266-Month Passport Rule: Can You Travel With Less Left?](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
 [Renewal8 min read · Feb 22, 2026How Long Does Passport Renewal Take? Current Times for US, UK, Australia, Canada & More](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)
 

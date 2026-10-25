@@ -151,7 +151,7 @@ Source: https://traveldocumentvault.com/ko/blog/visa-vs-passport/
 
 ## 관련 기사
 
-[여행 서류6분 읽기국민 ID 카드로 하는 여행, 어디까지 통할까](https://traveldocumentvault.com/ko/blog/national-id-card-travel-europe/)
+[여행 서류6분 읽기EEA 국민 ID 카드란: 카드만으로 충분한 경우](https://traveldocumentvault.com/ko/blog/national-id-card-travel-europe/)
 
 [여권 규칙6분 읽기여권 만료됨: 할 일과 갱신 방법](https://traveldocumentvault.com/ko/blog/passport-expired-what-to-do/)
 

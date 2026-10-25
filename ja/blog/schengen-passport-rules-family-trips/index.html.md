@@ -93,7 +93,7 @@ EU の要件は明確です。パスポートは出国予定日から3ヶ月以�
 
 ## 関連記事
 
-[旅行書類6分で読める国民IDカードでの渡航:それで十分な場合](https://traveldocumentvault.com/ja/blog/national-id-card-travel-europe/)
+[旅行書類6分で読めるEEA国民IDカードとは：それだけで足りる場面](https://traveldocumentvault.com/ja/blog/national-id-card-travel-europe/)
 
 [ファミリー旅行8分で読める · 2026年8月片親だけで子どもが渡航するとき、持っていくべき書類](https://traveldocumentvault.com/ja/blog/travelling-child-without-both-parents/)
 

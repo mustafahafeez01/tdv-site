@@ -93,7 +93,7 @@ Luchtvaartmaatschappijen controleren elk paspoort tegen de IATA Timatic-database
 
 ## Gerelateerde artikelen
 
-[Reisdocumenten6 min leestijdNationale ID-kaart voor reizen: wanneer volstaat die?](https://traveldocumentvault.com/nl/blog/national-id-card-travel-europe/)
+[Reisdocumenten6 min leestijdEER-identiteitskaart: wat die is en wanneer die volstaat](https://traveldocumentvault.com/nl/blog/national-id-card-travel-europe/)
 
 [Gezinsreizen8 min leestijd · augustus 2026Reizen met een Kind Zonder Beide Ouders: Wat Je Moet Meenemen](https://traveldocumentvault.com/nl/blog/travelling-child-without-both-parents/)
 

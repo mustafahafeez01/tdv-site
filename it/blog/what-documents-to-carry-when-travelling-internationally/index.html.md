@@ -135,7 +135,7 @@ Dimenticare il passaporto significa che non è possibile imbarcarsi. Per i docum
 
 [Documenti di Viaggio7 min di letturaProva di prosecuzione del viaggio: cosa conta davvero](https://traveldocumentvault.com/it/blog/proof-of-onward-travel/)
 
-[Documenti di Viaggio6 min di letturaCarta d'identità per viaggiare: quando basta](https://traveldocumentvault.com/it/blog/national-id-card-travel-europe/)
+[Documenti di Viaggio6 min di letturaCarta d'Identità SEE: Cos'è e Quando Basta](https://traveldocumentvault.com/it/blog/national-id-card-travel-europe/)
 
 [Regole PassaportoLettura di 8 minuti - 1 febbraio 2026La Regola dei 6 Mesi del Passaporto: Quali Paesi La Applicano e Come Non Rimanere Sorpresi](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/)
 

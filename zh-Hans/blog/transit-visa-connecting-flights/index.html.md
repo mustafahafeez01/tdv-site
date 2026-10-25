@@ -103,7 +103,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/transit-visa-connecting-fli
 
 ## 相关文章
 
-[护照规则8 分钟阅读 · 2026年2月1日护照6个月有效期规则：哪些国家执行以及如何避免被卡在机场](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)
+[护照规则8 分钟阅读 · 2026年2月1日护照6个月规则：有效期不足也能出行吗？](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)
 
 [家庭旅行7 分钟阅读 · 2026年2月5日如何组织家庭旅行文件（在下次旅行前）](https://traveldocumentvault.com/zh-Hans/blog/how-to-organise-family-travel-documents/)
 

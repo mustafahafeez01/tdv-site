@@ -103,7 +103,7 @@ Masa berlaku visa transit berbeda-beda menurut negara. Sebagian berlaku selama 4
 
 ## Artikel Terkait
 
-[Aturan Paspor8 menit baca · Februari 2026Aturan Paspor 6 Bulan: Negara Mana yang Menerapkannya dan Cara Menghindari Masalah](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
+[Aturan Paspor8 menit baca · Februari 2026Aturan Paspor 6 Bulan: Bisakah Bepergian dengan Sisa Kurang?](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
 
 [Perjalanan Keluarga7 menit baca · Februari 2026Cara Mengatur Dokumen Perjalanan Keluarga (Sebelum Perjalanan Berikutnya)](https://traveldocumentvault.com/id/blog/how-to-organise-family-travel-documents/)
 

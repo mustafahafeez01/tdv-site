@@ -103,7 +103,7 @@ Source: https://traveldocumentvault.com/th/blog/transit-visa-connecting-flights/
 
 ## บทความที่เกี่ยวข้อง
 
-[กฎเรื่องพาสปอร์ตอ่าน 8 นาที · กุมภาพันธ์ 2026กฎ 6 เดือนของพาสปอร์ต ประเทศไหนบังคับใช้ และจะไม่พลาดได้อย่างไร](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)
+[กฎเรื่องพาสปอร์ตอ่าน 8 นาที · กุมภาพันธ์ 2026กฎ 6 เดือนของพาสปอร์ต: เหลืออายุน้อยก็เดินทางได้ไหม](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)
 
 [การเดินทางครอบครัวอ่าน 7 นาที · กุมภาพันธ์ 2026วิธีจัดระเบียบเอกสารการเดินทางของครอบครัว (ก่อนทริปหน้า)](https://traveldocumentvault.com/th/blog/how-to-organise-family-travel-documents/)
 

@@ -62,11 +62,27 @@ Se le Sue date rientrano nella regola, l'ingresso procede normalmente. Se mostra
 
 EES esenta attualmente i bambini sotto i 12 anni dalla raccolta delle impronte digitali. Quando un genitore o tutore porta un bambino alla frontiera, il funzionario acquisisce comunque un'immagine facciale per il profilo EES - il sistema deve sapere che quel bambino ha attraversato, e quando. Il funzionario salta le impronte. A 12 anni le regole cambiano; da quel momento in poi, la registrazione biometrica di un bambino include le impronte digitali.
 
+## Controllare i giorni EES rimasti: bastano il passaporto e una data
+
+Il controllo ufficiale più rapido è lo strumento "Quanto tempo può restare" sul sito Travel to Europe. Le dice se il Suo ingresso è consentito, con una risposta OK o NOT OK, e **quanti giorni Le restano** nei paesi che usano EES. Alcuni valichi di frontiera esterni offrono lo stesso controllo tramite apparecchiature dedicate, e anche i funzionari di controllo passaporti possono dirglielo.
+
+Tenga questi elementi a portata di mano prima di iniziare:
+
+- il paese che usa EES in cui si trova ora, o che intende visitare
+- il tipo e il numero del Suo documento di viaggio, più il codice di tre lettere del paese che lo ha rilasciato (CAN per il Canada, per esempio)
+- una o due date, secondo la Sua domanda: la data di arrivo per un viaggio futuro, la data di partenza se è già lì, oppure entrambe se vuole sapere cosa Le resterà al termine di un viaggio pianificato
+
+Conviene conoscere due limiti prima di fidarsi del numero. L'UE precisa sullo strumento stesso che la risposta OK o NOT OK non è una decisione di concedere o negare l'ingresso, perché a decidere resta sempre il funzionario di frontiera. Il conteggio esclude inoltre qualsiasi soggiorno iniziato prima che EES sostituisse i timbri di passaporto il 10 aprile, quindi se uno di questi viaggi rientra ancora nei Suoi ultimi 180 giorni, deve aggiungerlo Lei stesso.
+
+Per un viaggio che sta ancora pianificando, Le consigliamo di affiancare questo strumento al calcolatore di soggiorni brevi della Commissione Europea, che funziona con le date di ingresso e uscita che Lei inserisce e offre una modalità di Pianificazione per date future. La Commissione lo presenta solo come strumento di ausilio. Esegua il controllo una volta per ogni persona che viaggia, con il proprio passaporto, perché ogni viaggiatore ha un conteggio separato.
+
 ## Il messaggio "non è attualmente calcolabile"
 
-Alcuni viaggiatori hanno segnalato un errore alla frontiera simile a: "Il Suo soggiorno autorizzato residuo non può essere attualmente calcolato a causa di dati temporaneamente incompleti nel sistema di ingresso/uscita." Questo messaggio appare durante il check-in o al chiosco, quando il funzionario cerca di verificarLa. Cosa significa: EES è operativo, ma il sistema non riesce ancora a trovare il Suo profilo precedente, oppure i dati del Suo ultimo attraversamento non si sono ancora sincronizzati su tutte le frontiere Schengen.
+Alcuni viaggiatori hanno segnalato un errore alla frontiera simile a: "Il Suo soggiorno autorizzato residuo non può essere attualmente calcolato a causa di dati temporaneamente incompleti nel sistema di ingresso/uscita." Questa stessa frase è una delle risposte che può dare lo strumento "Quanto tempo può restare" dell'UE, che l'attribuisce a dati temporaneamente incompleti nel sistema di ingresso/uscita. Cosa significa: EES è operativo, ma il sistema non riesce ancora a trovare il Suo profilo precedente, oppure i dati del Suo ultimo attraversamento non si sono ancora sincronizzati su tutte le frontiere Schengen.
 
 Si tratta di un messaggio tipico di questa fase di transizione, più comune quando è entrato nell'area Schengen molto di recente e i sistemi di frontiera stanno ancora sincronizzando i dati tra gli stati membri. Il messaggio segnala un problema con i dati nel sistema, non un problema con il Suo soggiorno, e indica che il controllo automatico non si è completato. Quello che succede dopo è una decisione del funzionario di frontiera, non qualcosa che possiamo promettere. Se lo vede, chieda direttamente al funzionario se il conteggio dei Suoi giorni è un problema, e tenga Lei stesso un registro dettagliato di ogni giorno trascorso nell'area Schengen.
+
+Se il messaggio continua a comparire quando effettua il controllo online, o se il numero ottenuto sembra sbagliato, l'UE consiglia di contattare le autorità del paese in cui è entrato o uscito per ultimo dall'area Schengen. Se non ha visitato l'area Schengen da quando EES ha sostituito i timbri di passaporto, contatti invece il paese che intende visitare. Il sito Travel to Europe indica chi contattare in ciascun paese.
 
 ## Come Tracciare la Sua Finestra in Pratica
 
@@ -99,6 +115,10 @@ EES registra ogni ingresso e uscita digitalmente, così anche un breve sforo vie
 ### Posso verificare quanti giorni Schengen mi rimangono dopo l'ingresso?
 
 Sì. Lo strumento online EES dell'UE, sul sito ufficiale Travel to Europe, mostra il numero di giorni che Le restano, e alcuni valichi di frontiera esterni offrono lo stesso controllo. Per pianificare un viaggio futuro, usi il calcolatore ufficiale dell'UE per i soggiorni brevi con la Sua storia di viaggio completa, e tenga un Suo registro delle date di ingresso e uscita nel caso i dati del sistema siano incompleti.
+
+### Esiste un calcolatore ufficiale dei giorni EES?
+
+Sì, l'UE ne gestisce due. Il suo strumento "Quanto tempo può restare", sul sito Travel to Europe, usa i dati del Suo documento di viaggio per mostrare i giorni che Le restano, con una risposta OK o NOT OK. Il calcolatore di soggiorni brevi della Commissione Europea funziona con le date di ingresso e uscita che Lei inserisce, e la Commissione lo presenta solo come strumento di ausilio. Nessuna delle due risposte è una decisione sull'ingresso, perché a decidere resta sempre il funzionario di frontiera.
 
 ### Ho bisogno di un visto o di un'assicurazione di viaggio a causa di EES?
 

@@ -141,7 +141,7 @@ Bawa ini bersama Anda setiap saat: paspor, boarding pass, sertifikat asuransi pe
 
 [Dokumen Perjalanan7 menit bacaBukti Perjalanan Lanjutan: Apa yang Sebenarnya Diterima](https://traveldocumentvault.com/id/blog/proof-of-onward-travel/)
 
-[Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Negara Mana yang Menerapkannya dan Cara Menghindari Masalah](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
+[Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Bisakah Bepergian dengan Sisa Kurang?](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
 
 [Perjalanan Keluarga8 menit bacaCara Mengatur Dokumen Perjalanan Keluarga (Sebelum Perjalanan Berikutnya)](https://traveldocumentvault.com/id/blog/how-to-organise-family-travel-documents/)
 

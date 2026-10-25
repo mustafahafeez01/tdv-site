@@ -1,6 +1,6 @@
-# Personalausweis auf Reisen: Wann er ausreicht
+# EWR-Personalausweis: Was er ist und wann er ausreicht
 
-> Der Personalausweis reicht für Reisen innerhalb Europas, aber nicht überall. Erfahren Sie, wann er genügt und wann Sie Ihren Reisepass brauchen.
+> Was als EWR-Personalausweis zählt, wo er in Europa statt des Reisepasses funktioniert, und wann Sie den Reisepass trotzdem bei sich brauchen.
 
 Source: https://traveldocumentvault.com/de/blog/national-id-card-travel-europe/
 

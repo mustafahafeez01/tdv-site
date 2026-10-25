@@ -1,0 +1,42 @@
+{
+ "fr": {
+  "template": "cards",
+  "title": "Quand une ESTA cesse d'être valide",
+  "cards": [
+   {
+    "heading": "Elle prend fin après 2 ans",
+    "items": [
+     {
+      "text": "Ou quand le passeport expire",
+      "mark": "dot"
+     },
+     {
+      "text": "Selon ce qui arrive en premier",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Chacun a besoin de la sienne",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Bébés et enfants aussi",
+      "mark": "tick"
+     },
+     {
+      "text": "Chacun sur son propre passeport",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Nouveau passeport, nom ou nationalité : refaire la demande",
+  "alt": "Schéma du moment où une ESTA cesse d'être valide : elle prend fin après 2 ans ou quand le passeport expire, selon ce qui arrive en premier. Chacun a besoin de la sienne, bébés et enfants aussi, chacun sur son propre passeport. Un nouveau passeport, nom ou nationalité signifie refaire la demande",
+  "caption": "Une horloge par voyageur, qui ne dépasse jamais le passeport.",
+  "placement": {
+   "h2": 2,
+   "para": 1
+  }
+ }
+}

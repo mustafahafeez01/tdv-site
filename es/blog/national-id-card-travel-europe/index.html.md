@@ -1,6 +1,6 @@
-# Documento de Identidad para Viajar: Cuándo Basta
+# Documento de Identidad EEE: Qué Es y Cuándo Basta
 
-> El documento de identidad de la UE sirve para viajar por Europa, pero no en todas partes. Descubre cuándo basta y cuándo hace falta el pasaporte.
+> Qué cuenta como documento de identidad del EEE, dónde sustituye al pasaporte en Europa, y cuándo seguirás necesitando el pasaporte encima.
 
 Source: https://traveldocumentvault.com/es/blog/national-id-card-travel-europe/
 

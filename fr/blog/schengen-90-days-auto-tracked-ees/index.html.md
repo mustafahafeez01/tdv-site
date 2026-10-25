@@ -62,11 +62,27 @@ Si vos dates respectent la règle, l'entrée se déroule normalement. Si elles m
 
 Le EES exempte actuellement les enfants de moins de 12 ans du relevé d'empreintes digitales. Lorsqu'un parent ou un tuteur amène un enfant à la frontière, l'agent capture tout de même une image faciale pour le dossier EES - le système doit savoir que cet enfant a franchi la frontière, et quand. L'agent se dispense des empreintes. À 12 ans, les règles changent; à partir de cet âge, l'enregistrement biométrique d'un enfant inclut les empreintes digitales.
 
+## Vérifier vos jours EES restants : votre passeport et une date suffisent
+
+La vérification officielle la plus rapide est l'outil « Combien de temps pouvez-vous rester » sur le site Travel to Europe. Il vous indique si votre entrée est autorisée, avec une réponse OK ou NOT OK, et **combien de jours il vous reste** dans les pays qui utilisent le EES. Certains postes-frontières extérieurs proposent le même contrôle sur leurs équipements, et les agents de contrôle des passeports peuvent aussi vous renseigner.
+
+Ayez ceci sous la main avant de commencer :
+
+- le pays utilisant le EES où vous vous trouvez actuellement, ou que vous prévoyez de visiter
+- le type et le numéro de votre document de voyage, ainsi que le code à trois lettres du pays qui l'a délivré (CAN pour le Canada, par exemple)
+- une ou deux dates, selon votre question : votre date d'arrivée pour un futur voyage, votre date de départ si vous êtes déjà sur place, ou les deux si vous voulez savoir ce qu'il vous restera une fois un voyage prévu terminé
+
+Deux limites méritent d'être connues avant de faire confiance au chiffre affiché. L'UE précise sur l'outil lui-même que la réponse OK ou NOT OK n'est pas une décision d'accorder ou de refuser l'entrée, car l'agent frontalier garde toujours la décision finale. Le décompte exclut aussi tout séjour commencé avant que le EES ne remplace les tampons de passeport le 10 avril, donc si l'un de ces voyages se situe encore dans vos 180 derniers jours, ajoutez-le vous-même.
+
+Pour un voyage encore en préparation, nous vous conseillons de combiner cet outil avec la calculatrice de court séjour de la Commission européenne, qui fonctionne à partir des dates d'entrée et de sortie que vous saisissez et propose un mode Planification pour les dates futures. La Commission la présente comme un outil d'aide uniquement. Faites la vérification une fois pour chaque voyageur, avec son propre passeport, car chaque voyageur a son propre décompte.
+
 ## Le message "ne peut actuellement pas être calculé"
 
-Certains voyageurs ont signalé une erreur à la frontière du type: "Votre séjour autorisé restant ne peut actuellement pas être calculé en raison de données temporairement incomplètes dans le système d'entrée/sortie." Ce message apparaît lors de l'enregistrement ou à la borne, lorsque l'agent tente de vous vérifier. Ce que cela signifie: le EES fonctionne, mais le système ne trouve pas encore votre dossier précédent, ou les données de votre dernier passage n'ont pas encore été synchronisées entre toutes les frontières Schengen.
+Certains voyageurs ont signalé une erreur à la frontière du type : « Votre séjour autorisé restant ne peut actuellement pas être calculé en raison de données temporairement incomplètes dans le système d'entrée/sortie. » Ce même message fait partie des réponses que peut donner l'outil « Combien de temps pouvez-vous rester » de l'UE, qui l'attribue à des données temporairement incomplètes dans le système d'entrée/sortie. Ce que cela signifie : le EES fonctionne, mais le système ne trouve pas encore votre dossier précédent, ou les données de votre dernier passage n'ont pas encore été synchronisées entre toutes les frontières Schengen.
 
 Il s'agit d'un message propre à la période de transition, le plus fréquent lorsque vous êtes entré dans l'espace Schengen très récemment et que les systèmes frontaliers synchronisent encore les données entre les États membres. Le message signale un problème de données dans le système plutôt qu'un problème lié à votre séjour, et indique que la vérification automatique n'a pas abouti. Ce qui se passe ensuite relève de la décision de l'agent frontalier, ce n'est pas quelque chose que nous pouvons promettre. Si vous voyez ce message, demandez directement à l'agent si votre décompte de jours pose problème, et tenez vous-même un relevé précis de chaque jour passé dans l'espace Schengen.
+
+Si le message revient sans cesse lorsque vous vérifiez en ligne, ou si le chiffre obtenu semble erroné, l'UE conseille de contacter les autorités du pays où vous êtes entré ou sorti en dernier de l'espace Schengen. Si vous n'avez pas visité l'espace Schengen depuis que le EES a remplacé les tampons de passeport, contactez plutôt le pays que vous prévoyez de visiter. Le site Travel to Europe indique qui contacter dans chaque pays.
 
 ## Comment suivre votre fenêtre en pratique
 
@@ -99,6 +115,10 @@ Le EES enregistre chaque entrée et sortie numériquement, de sorte que même un
 ### Puis-je vérifier combien de jours Schengen il me reste après mon entrée?
 
 Oui. L'outil en ligne du EES, sur le site officiel Travel to Europe, indique le nombre de jours qu'il vous reste à séjourner, et certains postes-frontières extérieurs proposent la même vérification. Pour planifier un futur voyage, utilisez la calculatrice officielle de court séjour de l'UE avec l'historique complet de vos voyages, et conservez votre propre relevé des dates d'entrée et de sortie au cas où les données du système seraient incomplètes.
+
+### Existe-t-il une calculatrice officielle des jours EES ?
+
+Oui, l'UE en gère deux. Son outil « Combien de temps pouvez-vous rester », sur le site Travel to Europe, utilise les informations de votre document de voyage pour indiquer les jours qu'il vous reste, avec une réponse OK ou NOT OK. La calculatrice de court séjour de la Commission européenne fonctionne à partir des dates d'entrée et de sortie que vous saisissez, et la Commission la présente comme un simple outil d'aide. Aucune des deux réponses n'est une décision d'entrée, car l'agent frontalier décide toujours.
 
 ### Ai-je besoin d'un visa ou d'une assurance voyage en raison du EES?
 

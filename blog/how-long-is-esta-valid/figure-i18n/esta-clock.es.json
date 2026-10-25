@@ -1,0 +1,42 @@
+{
+ "es": {
+  "template": "cards",
+  "title": "Cuándo deja de ser válida una ESTA",
+  "cards": [
+   {
+    "heading": "Termina a los 2 años",
+    "items": [
+     {
+      "text": "O cuando caduca tu pasaporte",
+      "mark": "dot"
+     },
+     {
+      "text": "Lo que ocurra antes",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Cada persona necesita la suya",
+    "tone": "good",
+    "items": [
+     {
+      "text": "También bebés y niños",
+      "mark": "tick"
+     },
+     {
+      "text": "Cada uno con su propio pasaporte",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Pasaporte, nombre o nacionalidad nuevos: solicítala de nuevo",
+  "alt": "Diagrama de cuándo deja de ser válida una ESTA: termina a los 2 años o cuando caduca el pasaporte, lo que ocurra antes. Cada persona necesita la suya, también bebés y niños, cada uno con su propio pasaporte. Un pasaporte, nombre o nacionalidad nuevos significan solicitarla de nuevo",
+  "caption": "Un reloj por viajero, que nunca dura más que el pasaporte.",
+  "placement": {
+   "h2": 2,
+   "para": 1
+  }
+ }
+}

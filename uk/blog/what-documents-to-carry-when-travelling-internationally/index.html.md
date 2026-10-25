@@ -135,7 +135,7 @@ Source: https://traveldocumentvault.com/uk/blog/what-documents-to-carry-when-tra
 
 [Подорожні документи7 хв читанняПідтвердження подальшої подорожі: що справді підходить](https://traveldocumentvault.com/uk/blog/proof-of-onward-travel/)
 
-[Подорожні документи6 хв читанняНаціональна ID-картка в подорожі: коли її достатньо](https://traveldocumentvault.com/uk/blog/national-id-card-travel-europe/)
+[Подорожні документи6 хв читанняНаціональна картка ЄЕЗ: що це і коли її достатньо](https://traveldocumentvault.com/uk/blog/national-id-card-travel-europe/)
 
 [Правила паспорта8 хв читання · 1 лют 2026Правило 6 місяців для паспорта: які країни його застосовують і як ніколи не потрапити в халепу](https://traveldocumentvault.com/uk/blog/passport-expiry-6-month-rule/)
 

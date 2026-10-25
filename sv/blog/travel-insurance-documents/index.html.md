@@ -26,6 +26,18 @@ Några saknade handlingar är inte bara opraktiska här. De avgör om behandling
 
 Reseförsäkring fungerar bara om du kan nå den när du behöver den. De flesta lagrar den i mejl och kan inte hitta den när krisen slår till – vanligtvis under stress, tidspress eller en medicinsk nödsituation.
 
+## Hittar du inte dina försäkringshandlingar? Börja hos den som sålde dig försäkringen
+
+Dina försäkringshandlingar finns hos den som sålde dig försäkringen, så börja där. Sök i din mejlkorg efter försäkringsbolagets namn, eller mäklaren eller jämförelsesajten du köpte genom, tillsammans med ordet "försäkring". Om du skapade ett konto när du köpte den, logga också in på försäkringsbolagets webbplats eller app. Du letar efter tre saker:
+
+- **Försäkringsvillkoren:** de fullständiga villkoren, inklusive undantag och hur du gör anspråk
+- **Försäkringsbeskedet eller certifikatet:** ditt namn, försäkringsnummer, resedatum och omfattning
+- **Numret för akut hjälp dygnet runt**, det du ringer från ett sjukhus eller en polisstation utomlands
+
+Om du inte alls minns att du köpt en försäkring, kontrollera ditt bankkonto. Den brittiska finansombudsmannen (Financial Ombudsman Service) beskriver ett paketkonto som ett vanligt konto som tar ut en månadsavgift i utbyte mot extra förmåner, reseförsäkring bland dem. I så fall är det banken, inte ett reseförsäkringsbolag, som har dina handlingar, så dess app, webbplats eller kundtjänst är där du ska leta.
+
+När du har dem rekommenderar brittiska utrikesdepartementet (Foreign, Commonwealth and Development Office) att du tar med dig försäkringsuppgifterna, inklusive försäkringsnumret och försäkringsbolagets akutnummer. De föreslår också att du delar dem med dina medresenärer och familjen hemma. Hittar du fortfarande ingenting, ring försäkringsbolaget, eller banken för paketförsäkring, och be dem skicka handlingarna igen innan du flyger i stället för efter att något har gått fel.
+
 ## De fem dokument du måste spara före du flyger
 
 Din reseförsäkring är vanligtvis en PDF. Den en filen innehåller allt du behöver, men du bör extrahera och spara dessa fem saker separat så du kan hitta dem direkt:

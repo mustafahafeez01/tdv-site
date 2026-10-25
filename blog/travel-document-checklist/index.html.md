@@ -139,6 +139,8 @@ Keep these with you at all times: passports, boarding passes, travel insurance c
 
 ## Related Articles
 
+[Passport Rules6 min read · October 2026How Long Is an ESTA Valid? What Ends It Early](https://traveldocumentvault.com/blog/how-long-is-esta-valid/)
+
 [Travel Documents7 min readProof of Onward Travel: What Actually Counts](https://traveldocumentvault.com/blog/proof-of-onward-travel/)
 
 [Passport Rules8 min read · Feb 1, 2026The 6-Month Passport Rule: Which Countries Enforce It](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)

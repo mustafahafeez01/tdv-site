@@ -111,6 +111,6 @@ You would need to contact your country's nearest embassy or consulate to obtain 
 
 [Family Travel6 min read · July 2026Schengen Passport Rules for Family Trips: What Parents Get Wrong](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
 
-[Passport Rules8 min read · February 2026The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Passport Rules8 min read · February 20266-Month Passport Rule: Can You Travel With Less Left?](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
 [Renewal7 min read · February 2026How Long Does Passport Renewal Take? UK, US and Australia Timelines](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)

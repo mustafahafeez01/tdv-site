@@ -62,11 +62,27 @@ Visar dina datum att du håller dig inom regeln går inresan som vanligt. Visar 
 
 EES undantar för närvarande barn under 12 år från fingeravtrycksinsamling. När en förälder eller vårdnadshavare tar med ett barn till gränsen tar tjänstemannen ändå en ansiktsbild för EES-registret - systemet behöver veta att barnet har passerat, och när. Tjänstemannen hoppar över fingeravtrycken. Vid 12 års ålder ändras reglerna; från den punkten omfattar ett barns biometriska registrering även fingeravtryck.
 
+## Att kontrollera dina kvarvarande EES-dagar kräver bara passet och ett datum
+
+Den snabbaste officiella kontrollen är EU:s verktyg "Check how long you can stay" på webbplatsen Travel to Europe. Det visar om din inresa är tillåten, som OK eller inte OK, och **hur många dagar du fortfarande får stanna** i länderna som använder EES. Utrustning vid vissa yttre gränser gör samma kontroll, och gränstjänstemännen kan också berätta det för dig.
+
+Ha det här till hands innan du börjar:
+
+- det EES-land du är i nu, eller planerar att besöka
+- typ och nummer på din resehandling, samt landskoden med tre bokstäver för landet som utfärdade den (CAN för Kanada, till exempel)
+- ett eller två datum, beroende på din fråga: ditt ankomstdatum för en framtida resa, ditt avresedatum om du redan är där, eller båda om du vill veta vad du har kvar när en planerad resa är slut
+
+Två begränsningar är bra att känna till innan du litar på siffran. EU anger på själva verktyget att svaret OK eller inte OK inte är ett beslut om att bevilja eller neka inresa, eftersom gränstjänstemannen fortfarande fattar det beslutet. Räkningen utesluter också vistelser som började innan EES ersatte passtämplarna den 10 april, så om en av dessa resor fortfarande ligger inom dina senaste 180 dagar måste du lägga till den själv.
+
+För en resa du fortfarande planerar skulle vi kombinera verktyget med EU-kommissionens kalkylator för korta vistelser, som utgår från de in- och utresedatum du skriver in och har ett planeringsläge för framtida datum. Kommissionen kallar den enbart ett hjälpverktyg. Kör kontrollen en gång för varje resenär, med personens eget pass, eftersom varje resenär har en egen räkning.
+
 ## Meddelandet "kan för närvarande inte beräknas"
 
-Vissa resenärer har rapporterat ett felmeddelande vid gränsen som ungefär lyder: "Din återstående godkända vistelse kan för närvarande inte beräknas på grund av tillfälligt ofullständiga uppgifter i in- och utresesystemet." Meddelandet dyker upp vid incheckningen eller vid kiosken, när tjänstemannen försöker verifiera dig. Vad det betyder: EES körs, men systemet kan ännu inte hitta ditt tidigare register, eller så har uppgifterna från din senaste gränspassage inte synkroniserats mellan alla Schengens gränser än.
+Vissa resenärer har rapporterat ett felmeddelande vid gränsen som ungefär lyder: "Din återstående godkända vistelse kan för närvarande inte beräknas på grund av tillfälligt ofullständiga uppgifter i in- och utresesystemet." Samma formulering är ett av svaren som EU:s verktyg "Check how long you can stay" kan ge, och EU förklarar det med tillfälligt ofullständiga uppgifter i in- och utresesystemet. Vad det betyder: EES körs, men systemet kan ännu inte hitta ditt tidigare register, eller så har uppgifterna från din senaste gränspassage inte synkroniserats mellan alla Schengens gränser än.
 
 Det här är ett meddelande som hör till övergångsperioden och är vanligast när du nyligen har rest in i Schengenområdet och gränssystemen fortfarande synkroniserar data mellan medlemsstaterna. Meddelandet flaggar ett problem med uppgifterna i systemet, inte ett problem med din vistelse, och visar att den automatiska kontrollen inte slutfördes. Vad som händer härnäst är gränstjänstemannens beslut - det är inget vi kan lova. Ser du meddelandet, fråga tjänstemannen direkt om din dagräkning är ett problem, och för själv noggranna anteckningar över varje dag du tillbringar i Schengenområdet.
+
+Om meddelandet fortsätter att komma när du kontrollerar online, eller om siffran du får ser fel ut, är EU:s råd att kontakta myndigheterna i det land där du senast reste in i eller ut ur Schengenområdet. Om du inte har besökt området sedan EES ersatte passtämplarna, kontakta i stället landet du planerar att besöka. Webbplatsen Travel to Europe listar vem du ska kontakta i varje land.
 
 ## Så räknar du ditt fönster i praktiken
 
@@ -99,6 +115,10 @@ EES registrerar varje in- och utresa digitalt, så även en kort överstigning f
 ### Kan jag kontrollera hur många Schengendagar jag har kvar efter att jag har rest in?
 
 Ja. EU:s EES-onlineverktyg, på den officiella webbplatsen Travel to Europe, visar hur många dagar du fortfarande får stanna, och vissa yttre gränsövergångar erbjuder samma kontroll. För att planera en kommande resa, använd EU:s kalkylator för korta vistelser med hela din resehistorik, och för egna anteckningar över in- och utresedatum om systemets uppgifter skulle vara ofullständiga.
+
+### Finns det en officiell EES-dagkalkylator?
+
+Ja, EU driver två. Verktyget "Check how long you can stay", på webbplatsen Travel to Europe, använder uppgifterna i din resehandling för att visa hur många dagar du fortfarande får stanna, med svaret OK eller inte OK. EU-kommissionens kalkylator för korta vistelser utgår från de in- och utresedatum du skriver in, och kommissionen kallar den enbart ett hjälpverktyg. Inget av svaren är ett beslut om inresa, eftersom gränstjänstemannen fortfarande bestämmer.
 
 ### Behöver jag visum eller reseförsäkring på grund av EES?
 

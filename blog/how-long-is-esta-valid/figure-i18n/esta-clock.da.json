@@ -1,0 +1,42 @@
+{
+ "da": {
+  "template": "cards",
+  "title": "Hvornår et ESTA ophører",
+  "cards": [
+   {
+    "heading": "Det udløber efter 2 år",
+    "items": [
+     {
+      "text": "Eller når dit pas udløber",
+      "mark": "dot"
+     },
+     {
+      "text": "Det der sker først",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Alle skal have sit eget",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Også babyer og børn",
+      "mark": "tick"
+     },
+     {
+      "text": "Hver på sit eget pas",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Nyt pas, nyt navn eller statsborgerskab: ansøg igen",
+  "alt": "Diagram over hvornår et ESTA ophører: det udløber efter 2 år eller når passet udløber, det der sker først. Alle skal have sit eget, også babyer og børn, hver på sit eget pas. Nyt pas, nyt navn eller nyt statsborgerskab betyder, at man skal ansøge igen",
+  "caption": "Et ur per rejsende, og det overlever aldrig passet.",
+  "placement": {
+   "h2": 2,
+   "para": 1
+  }
+ }
+}

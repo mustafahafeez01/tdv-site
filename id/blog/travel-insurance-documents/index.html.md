@@ -26,6 +26,18 @@ Beberapa dokumen yang hilang bukan hanya tidak nyaman di sini. Mereka menentukan
 
 Asuransi perjalanan hanya bekerja jika Anda bisa mengaksesnya saat Anda membutuhkannya. Sebagian besar orang menyimpannya di email dan tidak bisa menemukannya saat krisis terjadi — biasanya saat stres, tekanan waktu, atau keadaan darurat medis.
 
+## Tidak Bisa Menemukan Dokumen Polis Anda? Mulai dari yang Menjual Asuransinya
+
+Dokumen polis Anda ada di pihak yang menjual asuransi tersebut kepada Anda, jadi mulailah dari sana. Cari di kotak masuk email Anda nama perusahaan asuransinya, atau broker maupun situs pembanding yang Anda gunakan untuk membeli, bersama dengan kata "polis". Jika Anda membuat akun saat membeli, masuk juga ke situs web atau aplikasi perusahaan asuransi tersebut. Ada tiga hal yang Anda cari:
+
+- Ketentuan polis: syarat lengkap, termasuk pengecualian dan cara mengajukan klaim
+- Lembar rincian atau sertifikat: nama Anda, nomor polis, tanggal perjalanan, dan tingkat perlindungan
+- Nomor bantuan darurat 24 jam, nomor yang dihubungi dari rumah sakit atau kantor polisi di luar negeri
+
+Jika Anda sama sekali tidak ingat pernah membeli polis, periksa rekening bank Anda. Financial Ombudsman Service Inggris menjelaskan rekening bank paket sebagai rekening giro yang mengenakan biaya bulanan, dengan imbalan manfaat tambahan, salah satunya asuransi perjalanan. Dalam kasus ini, yang menyimpan dokumen Anda adalah bank, bukan perusahaan asuransi perjalanan, sehingga Anda perlu memeriksa aplikasi, situs web, atau layanan bantuan bank tersebut.
+
+Setelah Anda mendapatkannya, Foreign, Commonwealth and Development Office Inggris menyarankan untuk membawa rincian polis Anda, termasuk nomor polis dan nomor bantuan darurat perusahaan asuransi. Mereka juga menyarankan untuk membagikannya kepada orang yang bepergian bersama Anda dan keluarga di rumah. Jika Anda masih tidak menemukan apa pun, hubungi perusahaan asuransi, atau bank untuk asuransi paket, dan minta mereka mengirim ulang dokumennya sebelum Anda terbang, bukan setelah terjadi masalah.
+
 ## Lima Dokumen yang Harus Disimpan Sebelum Anda Terbang
 
 Polis asuransi perjalanan Anda biasanya berupa PDF. Satu file itu berisi semua yang Anda butuhkan, tetapi Anda harus mengekstrak dan menyimpan lima hal ini secara terpisah agar Anda bisa menemukannya secara instan:

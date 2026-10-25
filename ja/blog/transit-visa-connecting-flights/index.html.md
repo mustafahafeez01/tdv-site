@@ -103,7 +103,7 @@ Source: https://traveldocumentvault.com/ja/blog/transit-visa-connecting-flights/
 
 ## 関連記事
 
-[パスポートルール読了時間 8分 · 2026年2月1日パスポート6ヶ月ルール：残り6ヶ月未満でも渡航できる？](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)
+[パスポートルール読了時間 8分 · 2026年2月1日パスポート6ヶ月ルール：残り期間が少なくても渡航できる？](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)
 
 [家族旅行読了時間 7分 · 2026年2月5日家族の旅行書類を整理する方法（次の旅の前に）](https://traveldocumentvault.com/ja/blog/how-to-organise-family-travel-documents/)
 

@@ -151,7 +151,7 @@ Dans la plupart des pays, oui. La validité du visa est distincte de celle du pa
 
 ## Articles connexes
 
-[Documents de voyage6 min de lectureCarte d'identité nationale en voyage : quand elle suffit](https://traveldocumentvault.com/fr/blog/national-id-card-travel-europe/)
+[Documents de voyage6 min de lectureCarte d'identité EEE : ce qu'elle est et quand elle suffit](https://traveldocumentvault.com/fr/blog/national-id-card-travel-europe/)
 
 [Règles de passeport6 min de lecturePasseport expiré : Quoi faire et comment renouveler](https://traveldocumentvault.com/fr/blog/passport-expired-what-to-do/)
 

@@ -52,6 +52,24 @@ Det här scenariot händer oftare än man tror, och stegen är inte självklara 
 
 **Steg 6: Kontakta ditt reseförsäkringsbolag.** Ett pass som upptäcks ha gått ut på flygplatsen kan omfattas av reseförsäkringen beroende på din försäkring. Ring och kontrollera i stället för att anta något åt något håll.
 
+## Ett utgånget pass kan vanligtvis förnyas, inte göras om från grunden
+
+Att passet gått ut betyder sällan att du måste börja om, eftersom du i Storbritannien, USA och Kanada vanligtvis kan förnya ett utgånget vuxenpass genom den vanliga förnyelsevägen. I USA och Kanada är det oftast hur gammal du var när passet utfärdades och hur länge sedan det var som kan blockera en förnyelse.
+
+### Storbritannien: Ett utgånget pass går genom vanlig förnyelse
+
+GOV.UK säger att du måste förnya innan du kan resa om ditt pass har gått ut eller inte har tillräcklig giltighetstid kvar för ditt resmål. Ett utgånget pass går genom den vanliga förnyelsen, online eller på en pappersblankett, och du behöver ditt gamla pass för att göra det. Vuxenpass är för personer från 16 år, och barnpass har sin egen process.
+
+### USA: Förnyelse fungerar inom 15 år från utfärdandet
+
+Enligt USA.gov kan du bara förnya ett utgånget pass om det **utfärdades inom de senaste 15 åren**. Du kan heller inte förnya ett som utfärdades före din 16-årsdag, ett som är skadat, borttappat eller stulet, eller ett i ett tidigare namn om du inte har en juridisk handling som styrker namnändringen. Gäller något av detta ansöker du om ett nytt pass personligen med blankett DS-11.
+
+### Kanada: Ett utgånget pass kan förnyas online
+
+Kanadas regering låter dig förnya om ditt senaste pass var ett vuxenpass som utfärdades när du var minst 16 år. Det måste också ha utfärdats inom 15 år från ansökningsdatumet och vara giltigt i 5 eller 10 år. Namnet, födelsedatumet och födelseorten på det måste matcha det du vill ha på det nya. Du kan förnya online om ditt pass går ut inom de kommande sex månaderna eller redan har gått ut, förutsatt att din hem- och postadress är i Kanada. Barnpass kan inte förnyas, så ett barn behöver en ny ansökan.
+
+Har ditt pass gått ut för flera år sedan, kolla utfärdandedatumet först, eftersom 15-årsgränsen i USA och Kanada räknas från utfärdandet, inte från utgångsdatumet. Kontrollera sedan aktuella handläggningstider innan du bokar, vilket vår guide till [hur lång tid en passförnyelse tar](https://traveldocumentvault.com/sv/blog/how-long-does-passport-renewal-take/) går igenom land för land.
+
 ## Andra passproblem som gör att resenärer nekas
 
 Utgångsdatum är den vanligaste anledningen till att ett pass stoppas på flygplatsen, men andra problem ger samma resultat.

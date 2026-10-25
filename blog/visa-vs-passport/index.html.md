@@ -155,7 +155,7 @@ In most countries, yes. Your visa validity is separate from your passport validi
 
 ## Related Articles
 
-[Travel Documents6 min readNational ID Card for Travel: When It Is Enough](https://traveldocumentvault.com/blog/national-id-card-travel-europe/)
+[Travel Documents6 min readEEA National ID Card: What It Is and When It Is Enough](https://traveldocumentvault.com/blog/national-id-card-travel-europe/)
 
 [Visa Requirements7 min readDo You Need a Transit Visa for a Layover?](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/)
 

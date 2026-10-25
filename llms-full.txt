@@ -138,7 +138,7 @@ At a minimum: passports, visas, and national identity cards. Better apps also su
 
 ## Related Articles
 
-[Passport Rules8 min read · Feb 1, 2026The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Passport Rules8 min read · Feb 1, 20266-Month Passport Rule: Can You Travel With Less Left?](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
 [Family Travel9 min read · Feb 8, 2026How to Organise Family Travel Documents (Without Losing Your Mind)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
 
@@ -577,6 +577,14 @@ When planning a trip, many travellers wonder whether they can store a digital co
 
 The short answer: a digital copy is genuinely useful, but only in specific situations.
 
+## A Digital Copy Is a Photo of Your Passport, Not a Digital Passport
+
+A digital copy of a passport is **a scan or phone photo of its identification page**, the page with your photo, name, date of birth, passport number and expiry date. It records your details without standing in for the document. Canada's government puts it plainly in its travel advice: copies can help if your documents are lost or stolen, but they can't be used as identification, and you still need to apply for a new passport if you lose yours.
+
+Making one takes a couple of minutes. Open the passport flat in good light, photograph or scan the identification page so the whole page is sharp, then zoom in and check you can read every detail. Do the same for any visa you'll travel on. Canada suggests leaving copies with someone you trust at home, and the UK's foreign travel checklist recommends a backup of your passport details that you share with family or keep on a secure data storage platform.
+
+A copy also isn't the same as the digital IDs some governments now accept. In the US, the Transportation Security Administration lets US passport holders set up an ID pass in Google Wallet for its airport checkpoints, yet it still says all passengers must carry an acceptable physical ID. A photo in your camera roll is a backup of your details, which is exactly how to treat it.
+
 ## Where Digital Passport Copies Are Accepted
 
 ### Many Hotels Accept a Copy, but Parts of Europe Usually Want the Original
@@ -642,6 +650,10 @@ If you haven't made one yet, scan your passport's photo page today, before you'r
 
 ## Frequently Asked Questions
 
+### What is a digital copy of a passport?
+
+A digital copy is a scan or phone photo of your passport's identification page, the page with your photo and personal details. It helps with bookings and with replacing a lost passport, but it isn't a travel document: Canada's government says copies can't be used as identification. It's also different from a government-supported digital ID, and even in the US, where the TSA accepts digital IDs at its checkpoints, passengers must still carry an acceptable physical ID.
+
 ### Is a digital copy of my passport accepted at hotel check-in?
 
 Yes, most hotels worldwide accept digital passport copies for check-in: a PDF on your phone, by email, or printed. Some smaller establishments may still require a physical passport. Always contact your hotel in advance to confirm.
@@ -664,7 +676,7 @@ Use an encrypted app designed for document storage rather than regular cloud sto
 
 ## Related Articles
 
-[Passport Rules8 min read · Feb 1, 2026The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Passport Rules8 min read · Feb 1, 20266-Month Passport Rule: Can You Travel With Less Left?](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
 [Privacy7 min read · Feb 15, 2026Is It Safe to Store Your Passport in Google Photos?](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/)
 
@@ -1216,6 +1228,137 @@ In most cases, yes - provided your current passport is still valid and you haven
 
 ---
 
+# How Long Is an ESTA Valid? What Ends It Early
+
+> An ESTA lasts two years or until your passport expires, whichever comes first. What ends it early, who needs their own, and what the fee change means.
+
+Source: https://traveldocumentvault.com/blog/how-long-is-esta-valid/
+
+---
+
+![A parent and two children seen from behind at home looking out a window, holding a US passport and travel documents, one child pointing ahead, gold accent on the passport spine](https://traveldocumentvault.com/blog/how-long-is-esta-valid/cover.jpg)
+
+## Key Takeaways
+
+- **An ESTA is valid for two years from approval, or until your passport expires**, whichever comes first.
+- It only needs to be valid on the day you arrive in the US, and each visit is limited to 90 days or less.
+- It can't be extended, but you can reapply at any time. A new application replaces the old one.
+- A new passport, a new name, a new citizenship or a changed eligibility answer means applying again.
+- **Every traveller needs their own ESTA**, including children of any age and infants without a ticket.
+- The fee rose from US $40.27 to US $40.62 on 16 October 2026. An existing approved ESTA doesn't need reapplying.
+
+An ESTA lasts two years from the day it's approved, or until the passport it's linked to expires, whichever comes first. If you already hold one, the fee change on 16 October 2026 doesn't touch it, and you only pay the new amount when you next apply. The one thing we'd do today is look up the expiry date on every ESTA in the family, because each person's clock runs on its own.
+
+## Your ESTA ends at two years or when your passport does
+
+US Customs and Border Protection (CBP) sets the rule: an approved ESTA is valid for two years from the date of authorisation, or until your passport expires, whichever is sooner. So a passport with 14 months left gives you an ESTA with 14 months left. The approval screen shows the exact expiry date, which saves you working it out.
+
+![Diagram of when an ESTA stops working: it ends after 2 years or when your passport expires, whichever comes first. Everyone needs their own, babies and children too, each on their own passport. A new passport, new name or new citizenship means applying again](https://traveldocumentvault.com/blog/how-long-is-esta-valid/esta-clock.jpg) One clock per traveller, and it never outlives the passport.
+
+CBP also emails the address on your application when your ESTA is due to expire within the next 30 days. We wouldn't rely on that email alone: it can land in spam or an old inbox, so note the date somewhere you'll see it when you book.
+
+Inside those two years, one ESTA covers as many trips as you like. Each visit under the Visa Waiver Program is still limited to 90 days or less, and CBP is clear that a two-year approval doesn't mean a two-year stay.
+
+The one exception is Brunei, where CBP has cut the validity period for citizens and nationals to one year.
+
+## It only has to be valid on the day you land
+
+CBP says an ESTA needs to be valid on arrival in the United States, not for your whole stay. If it expires while you're there, that won't affect your departure. The next trip is a different matter, and you'll need a fresh approval before you fly again.
+
+Here's how that plays out. Say your ESTA expires on the 10th of a month and you land on the 3rd for a fortnight. It's valid when you arrive, and CBP says it running out halfway through the holiday won't affect your departure. Book the next trip after the 10th, though, and you'll need a new one first.
+
+## You can't extend an ESTA, but you can reapply early
+
+There's no extension. CBP says existing authorisations can't be extended, and you don't have to wait for one to expire before applying again. Your new application cancels and replaces the old one.
+
+CBP recommends applying when you book your travel, and it's a habit worth keeping. If your ESTA runs out a few weeks before a trip, apply the day the trip is booked rather than the week you fly.
+
+## Four changes mean a new ESTA
+
+CBP lists four situations where you need a new travel authorisation:
+
+- **A new passport.** CBP says a new passport, or any change to your passport information, means applying again. Our post on [renewing before your passport expires](https://traveldocumentvault.com/blog/renew-passport-before-expiry/) covers what else changes with a new passport number.
+- **A change of name.**
+- **A change of country of citizenship.**
+- **A changed answer** to any of the yes-or-no eligibility questions on the application.
+
+Once an application is approved, CBP lets you update only two things: your email address and your address in the US. Anything else that's wrong or out of date means a new application, so read every field before you pay.
+
+## Every traveller needs their own, including babies
+
+Children of any age need their own ESTA approval, CBP says, including infants who don't have a ticket of their own. Each child also needs their own unexpired passport, because a child who's only listed on a parent's passport doesn't qualify.
+
+Nobody expects a toddler to fill in a form. A parent or anyone else can apply on a traveller's behalf, and the ESTA website has a group status check for families who applied together. Still, each expiry date is worth checking separately, since each ESTA is tied to a different passport and every passport has its own expiry date.
+
+## The fee rose on 16 October, and existing approvals are unaffected
+
+According to the Federal Register notice published on 1 October 2026, the ESTA fee rose from US $40.27 to US $40.62, charged from 16 October 2026. If you already hold a valid, approved ESTA, CBP says you don't need to reapply. You'll pay the new amount when you next apply.
+
+The same notice sets a lower fee of US $10.62 if an application is denied, which covers the cost of processing it.
+
+Expect the figure to move again. The law behind it requires the fee to be adjusted for inflation every year, so check the current amount on the official ESTA website before you apply.
+
+## Apply on the official ESTA website, not a lookalike
+
+Some third-party websites charge more than the official fee. CBP says they won't speed up approval, they aren't endorsed by or affiliated with the Department of Homeland Security, and CBP can't refund what you paid them. Apply on the official ESTA website run by CBP.
+
+That's also where you check a status. Choose "Check ESTA Status", then "Check Individual Status", or "Check Group Status" for a family application. If you've lost the application number, you can find the application with your passport number, country of citizenship, passport issue and expiry dates, and date of birth. The details have to match what you entered exactly.
+
+## Keep a copy of the approval, even though nobody asks for it
+
+US regulations don't require you to show a printed ESTA page to travel. CBP still recommends printing a copy for your records, and we'd go one step further and keep the approval somewhere you can reach on your phone too. It has the application number and the expiry date, which are the two things you'll want if you ever need to check a status or plan the next trip.
+
+## What we'd check the day you book a US trip
+
+Four checks take a few minutes:
+
+- Every traveller has an approved ESTA, babies included.
+- Each ESTA is still valid on your arrival date. It only has to be valid when you land.
+- Nobody has a new passport, a new name or a new citizenship since their ESTA was approved.
+- Every application went through the official ESTA website, not a lookalike that charged extra.
+
+## An approved ESTA isn't a guarantee of entry
+
+Approval means you're eligible to travel under the Visa Waiver Program, not that you'll be admitted, since CBP officers make that decision when you arrive.
+
+**Before you rely on this:** it's a blog, not an official source. Rules and details change, and your situation may be different. We check what we publish, and we can still be wrong or out of date. If something here matters to your plans, confirm it with the authority that handles it before you act.
+
+## Frequently Asked Questions
+
+### How long is an ESTA valid for?
+
+Two years from the date it's approved, or until your passport expires, whichever comes first. The exact expiry date is shown on your approval screen.
+
+### Does my ESTA expire if my passport expires?
+
+Yes. CBP only grants an ESTA up to the expiry date of the passport you applied with. Once you have a new passport, you need a new ESTA.
+
+### Does my ESTA need to be valid for my whole stay?
+
+No. CBP says it only needs to be valid when you arrive in the United States. If it expires during your stay, that won't affect your departure.
+
+### Do children need their own ESTA?
+
+Yes. Children of any age need their own approval, including infants without their own ticket, and each child needs their own unexpired passport. A parent can apply on their behalf.
+
+### Can an ESTA be extended?
+
+No. You can reapply at any time instead, and the new application replaces the old one.
+
+### What is the ESTA fee now?
+
+From 16 October 2026 the fee is US $40.62, up from US $40.27, according to the Federal Register notice. It's adjusted for inflation every year, and an already-approved ESTA doesn't need reapplying.
+
+## Related Articles
+
+[Renewal7 min read · October 2026Can You Renew a Passport Before It Expires?](https://traveldocumentvault.com/blog/renew-passport-before-expiry/)
+
+[Passport Rules8 min read · February 2026The 6-Month Passport Rule: Which Countries Enforce It](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+
+[Passport Rules6 min read · September 2026Is the UK ETA Linked to Your Passport? Yes, to the Number](https://traveldocumentvault.com/blog/uk-eta-passport-rules/)
+
+---
+
 # How Long is a Passport Valid for Travel? Validity Rules Explained
 
 > Most adult passports are valid for 10 years, but your travel window is often shorter. Learn how passport validity months work and when to renew.
@@ -1329,7 +1472,7 @@ You would need to contact your country's nearest embassy or consulate to obtain 
 
 [Family Travel6 min read · July 2026Schengen Passport Rules for Family Trips: What Parents Get Wrong](https://traveldocumentvault.com/blog/schengen-passport-rules-family-trips/)
 
-[Passport Rules8 min read · February 2026The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Passport Rules8 min read · February 20266-Month Passport Rule: Can You Travel With Less Left?](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
 [Renewal7 min read · February 2026How Long Does Passport Renewal Take? UK, US and Australia Timelines](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)
 
@@ -1625,7 +1768,7 @@ Open the stiff laminated page with your photograph and find the field labelled d
 
 [Passport Rules6 min read · April 2026How Long is a Passport Valid for Travel?](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/)
 
-[Passport Rules8 min read · February 2026The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Passport Rules8 min read · February 20266-Month Passport Rule: Can You Travel With Less Left?](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
 [Passport Damage7 min read · July 2026Can You Travel with a Damaged Passport?](https://traveldocumentvault.com/blog/damaged-passport-travel/)
 
@@ -2032,9 +2175,9 @@ Having a secure digital copy of your passport stored before you travel is the si
 
 ---
 
-# National ID Card for Travel: When It Is Enough
+# EEA National ID Card: What It Is and When It Is Enough
 
-> EU national ID cards work for travel within Europe, but not everywhere. Learn when your card is enough and when you need your passport.
+> What counts as an EEA national ID card, where it works instead of a passport across Europe, and when you will still need the passport with you.
 
 Source: https://traveldocumentvault.com/blog/national-id-card-travel-europe/
 
@@ -2207,6 +2350,24 @@ This scenario happens more often than people expect, and the steps are not obvio
 
 **Step 6: Contact your travel insurer.** A passport discovered expired at the airport may be covered under travel insurance depending on your policy. Call to check rather than assuming either way.
 
+## An Expired Passport Can Usually Be Renewed, Not Replaced From Scratch
+
+Expiry rarely means starting again, because in the UK, the US and Canada you can usually renew an expired adult passport through the normal renewal route. In the US and Canada, what tends to block a renewal is how old you were when the passport was issued and how long ago that was.
+
+### UK: An Expired Passport Goes Through Normal Renewal
+
+GOV.UK says you must renew before you can travel if your passport has expired or doesn't have enough time left for your destination. An expired passport goes through the standard renewal, online or on a paper form, and you'll need your old passport to do it. Adult passports are for people aged 16 and over, and children's passports have their own process.
+
+### US: Renewal Works Within 15 Years of Issue
+
+According to USA.gov, you can renew an expired passport only if it was **issued within the last 15 years**. You also can't renew one issued before your 16th birthday, one that's damaged, lost or stolen, or one in a previous name unless you have a legal document proving the change. If any of those apply, you apply for a new passport in person with Form DS-11.
+
+### Canada: An Expired Passport Can Be Renewed Online
+
+The Government of Canada lets you renew if your last passport was an adult passport issued when you were at least 16. It also has to have been issued within 15 years of the date you apply and valid for 5 or 10 years. The name, date and place of birth on it must match what you want on the new one. You can renew online if your passport expires in the next six months or has already expired, provided your home and mailing address are in Canada. Child passports can't be renewed, so a child needs a new application.
+
+If your passport lapsed years ago, look at the issue date before anything else, because the 15-year limit in the US and Canada counts from when it was issued, not from when it expired. Then check current turnaround times before you book, which our guide to [how long passport renewal takes](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/) covers country by country.
+
 ## Other Passport Problems That Get Travellers Turned Away
 
 Expiry is the most common reason a passport fails at the airport, but other problems cause the same result.
@@ -2291,9 +2452,9 @@ Many countries require your passport to remain valid for at least six months bey
 
 ---
 
-# Passport 6-Month Rule: Can You Travel With Less Than 6 Months Left?
+# 6-Month Passport Rule: Can You Travel With Less Left?
 
-> Many countries refuse entry if your passport has under 6 months left. Who enforces the 6 month rule, and how to check yours before you book.
+> Passport expires in under six months? Which countries enforce the 6-month rule, which only need validity for your stay, and how to check before you book.
 
 Source: https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/
 
@@ -2833,6 +2994,8 @@ We'd start planning at 12 months of validity left and apply by nine, in a stretc
 
 ## Related Articles
 
+[Passport Rules6 min read · October 2026How Long Is an ESTA Valid? What Ends It Early](https://traveldocumentvault.com/blog/how-long-is-esta-valid/)
+
 [Renewal6 min read · February 2026How Long Does Passport Renewal Take? (US, UK, Australia, Canada)](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)
 
 [Renewal7 min read · March 2026Can You Travel While Your Passport Is Being Renewed?](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/)
@@ -3063,11 +3226,27 @@ If your dates are within the rule, entry carries on as normal. If they show you'
 
 EES currently exempts children under 12 from fingerprint collection. When a parent or guardian brings a child to the border, the officer still captures a facial image for the EES record - the system needs to know that this child crossed and when. The officer skips the fingerprints. At 12 years old, the rules shift; from that point forward, a child's biometric registration includes fingerprints.
 
+## Checking Your EES Days Left Takes Your Passport and One Date
+
+The quickest official check is the EU's "Check how long you can stay" tool on the Travel to Europe website. It tells you whether your entry is allowed, shown as OK or not OK, and **how many days you're still allowed to stay** in the countries that use EES. Equipment at some external borders runs the same check, and passport control officers can tell you too.
+
+Have these to hand before you start:
+
+- the country using EES that you're in now, or plan to visit
+- your travel document type and number, plus the three-letter code of the country that issued it (CAN for Canada, for example)
+- one or two dates, depending on your question: your arrival date for a future trip, your departure date if you're already there, or both if you want to know what you'll have left once a planned trip ends
+
+Two limits are worth knowing before you trust the number. The EU states on the tool itself that the OK or not OK answer isn't a decision to grant or refuse entry, because the border officer still makes that call. The count also leaves out any stay that began before EES replaced passport stamps on 10 April, so if one of those trips still falls inside your last 180 days, add it yourself.
+
+For a trip you're still shaping, we'd pair the tool with the European Commission's short-stay calculator, which works from entry and exit dates you type in and has a Planning mode for future dates. The Commission calls it a helping tool only. Run the check once for each person travelling, using their own passport, since every traveller carries a separate count.
+
 ## The "Cannot Currently Be Calculated" Message
 
-Some travellers have reported an error at the border reading something like: "Your remaining authorised stay cannot currently be calculated due to temporary incomplete data in the entry/exit system." This message appears during check-in or at the kiosk when the officer tries to verify you. What it means: EES is running, but the system cannot yet find your previous record, or data from your last crossing hasn't synced across all Schengen borders.
+Some travellers have reported an error at the border reading something like: "Your remaining authorised stay cannot currently be calculated due to temporary incomplete data in the entry/exit system." The same wording is one of the answers the EU's "Check how long you can stay" tool can give, and the EU puts it down to temporary incomplete data in the Entry/Exit System. What it means: EES is running, but the system cannot yet find your previous record, or data from your last crossing hasn't synced across all Schengen borders.
 
 This is a transition-era message, most common when you've entered Schengen very recently and border systems are still synchronising data across member states. The message reports a problem with the data in the system rather than a problem with your stay, and it signals that the automatic check did not complete. What happens next is the border officer's decision, not something we can promise. If you see it, ask the officer directly whether your day count is a concern, and keep detailed records of every day you spend in the Schengen area yourself.
+
+If the message keeps coming back when you check online, or the number you get looks wrong, the EU's advice is to contact the authorities of the country where you last entered or left the Schengen area. If you haven't visited since EES replaced passport stamps, contact the country you plan to visit instead. The Travel to Europe website lists who to contact in each country.
 
 ## How to Track Your Window in Practice
 
@@ -3102,6 +3281,10 @@ EES records every entry and exit digitally, so even a short overstay is flagged 
 ### Can I check how many Schengen days I have left after entering?
 
 Yes. The EU's EES online tool, on the official Travel to Europe website, shows the number of days you're still allowed to stay, and some external border crossings offer the same check. To plan a future trip, use the EU's short-stay calculator with your full trip history, and keep your own record of entry and exit dates in case the system's data is incomplete.
+
+### Is there an official EES days calculator?
+
+Yes, the EU runs two. Its 'Check how long you can stay' tool, on the Travel to Europe website, uses your travel document details to show the days you're still allowed to stay, with an OK or not OK answer. The European Commission's short-stay calculator works from entry and exit dates you type in, and the Commission calls it a helping tool only. Neither answer is a decision on entry, because the border officer still decides.
 
 ### Do I need a visa or travel insurance because of EES?
 
@@ -3222,11 +3405,11 @@ Airlines check every passport against IATA's Timatic database, which applies the
 
 ## Related Articles
 
-[Travel Documents6 min readNational ID Card for Travel: When It Is Enough](https://traveldocumentvault.com/blog/national-id-card-travel-europe/)
+[Travel Documents6 min readEEA National ID Card: What It Is and When It Is Enough](https://traveldocumentvault.com/blog/national-id-card-travel-europe/)
 
 [Family Travel8 min read · August 2026Travelling With a Child Without Both Parents: What to Carry](https://traveldocumentvault.com/blog/travelling-child-without-both-parents/)
 
-[Passport Rules8 min read · February 2026The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Passport Rules8 min read · February 20266-Month Passport Rule: Can You Travel With Less Left?](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
 [Passport Rules6 min read · April 2026How Long is a Passport Valid for Travel? Validity Rules Explained](https://traveldocumentvault.com/blog/how-long-is-passport-valid-for-travel/)
 
@@ -3335,7 +3518,7 @@ Transit visa validity varies by country. Some are valid for 48 hours from entry,
 
 ## Related Articles
 
-[Passport Rules8 min read · February 2026The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Passport Rules8 min read · February 20266-Month Passport Rule: Can You Travel With Less Left?](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
 [Family Travel7 min read · February 2026How to Organise Family Travel Documents and Never Miss an Expiry Date](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
 
@@ -3483,6 +3666,8 @@ A child travel consent letter is a signed document from the absent parent giving
 Keep these with you at all times: passports, boarding passes, travel insurance certificate, parental consent letter if applicable, and any visa documentation or approval letters. Never put identity documents in checked luggage. A digital backup of key documents in [a dedicated passport organiser app](https://traveldocumentvault.com/blog/best-passport-organizer-app/) - not your camera roll - is strongly recommended in case anything is lost or stolen.
 
 ## Related Articles
+
+[Passport Rules6 min read · October 2026How Long Is an ESTA Valid? What Ends It Early](https://traveldocumentvault.com/blog/how-long-is-esta-valid/)
 
 [Travel Documents7 min readProof of Onward Travel: What Actually Counts](https://traveldocumentvault.com/blog/proof-of-onward-travel/)
 
@@ -3667,6 +3852,18 @@ It's 2 AM in Bangkok and you've got food poisoning and a fever. The hotel recept
 A few missing documents are not just inconvenient here. They decide whether treatment starts immediately, whether you pay out-of-pocket and claim it back later, or whether the claim gets rejected altogether.
 
 Travel insurance only works if you can access it when you need it. Most people store it in email and cannot find it when crisis hits - usually during stress, time pressure, or a medical emergency.
+
+## Can't Find Your Policy Documents? Start With Whoever Sold You the Cover
+
+Your policy documents sit with whoever sold you the cover, so start there. Search your inbox for the insurer's name, or the broker or comparison site you bought through, together with the word "policy". If you set up an account when you bought it, log in to the insurer's website or app too. You're looking for three things:
+
+- **The policy wording:** the full terms, including exclusions and how to claim
+- **The schedule or certificate:** your name, policy number, travel dates and level of cover
+- **The 24-hour emergency assistance number**, the one to ring from a hospital or police station abroad
+
+If you don't remember buying a policy at all, check your bank account. The Financial Ombudsman Service describes a packaged bank account as a current account that charges a monthly fee in exchange for extra benefits, travel insurance among them. In that case the bank, not a travel insurer, holds your documents, so its app, website or helpline is where to look.
+
+Once you have them, the UK Foreign, Commonwealth and Development Office advises taking your policy details with you, including the policy number and your insurer's emergency assistance number. It also suggests sharing them with the people you're travelling with and family at home. If you still can't find anything, call the insurer, or the bank for packaged cover, and ask them to send the documents again before you fly rather than after something goes wrong.
 
 ## The Five Documents You Must Save Before You Fly
 
@@ -4281,6 +4478,8 @@ No. A UK ETA gives you permission to travel to the UK, but border officers still
 
 ## Related Articles
 
+[Passport Rules6 min read · October 2026How Long Is an ESTA Valid? What Ends It Early](https://traveldocumentvault.com/blog/how-long-is-esta-valid/)
+
 [Visa Requirements7 min readDo You Need a Transit Visa for a Layover?](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/)
 
 [Renewal7 min read · February 2026How Long Does Passport Renewal Take? UK, US and Australia Timelines](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)
@@ -4401,7 +4600,7 @@ It depends on the visa type. For long-stay visas needing renewal, we'd set the r
 
 ## Related Articles
 
-[Passport Rules8 min read · Feb 1, 2026The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Passport Rules8 min read · Feb 1, 20266-Month Passport Rule: Can You Travel With Less Left?](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
 [Renewal8 min read · Feb 22, 2026How Long Does Passport Renewal Take? Current Times for US, UK, Australia, Canada & More](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)
 
@@ -4570,7 +4769,7 @@ In most countries, yes. Your visa validity is separate from your passport validi
 
 ## Related Articles
 
-[Travel Documents6 min readNational ID Card for Travel: When It Is Enough](https://traveldocumentvault.com/blog/national-id-card-travel-europe/)
+[Travel Documents6 min readEEA National ID Card: What It Is and When It Is Enough](https://traveldocumentvault.com/blog/national-id-card-travel-europe/)
 
 [Visa Requirements7 min readDo You Need a Transit Visa for a Layover?](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/)
 
@@ -4717,9 +4916,9 @@ Forgetting your passport means you cannot board. For missing supporting document
 
 [Travel Documents7 min readProof of Onward Travel: What Actually Counts](https://traveldocumentvault.com/blog/proof-of-onward-travel/)
 
-[Travel Documents6 min readNational ID Card for Travel: When It Is Enough](https://traveldocumentvault.com/blog/national-id-card-travel-europe/)
+[Travel Documents6 min readEEA National ID Card: What It Is and When It Is Enough](https://traveldocumentvault.com/blog/national-id-card-travel-europe/)
 
-[Passport Rules8 min read · Feb 1, 2026The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Passport Rules8 min read · Feb 1, 20266-Month Passport Rule: Can You Travel With Less Left?](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
 [Family Travel9 min read · Feb 8, 2026How to Organise Family Travel Documents (Without Losing Your Mind)](https://traveldocumentvault.com/blog/how-to-organise-family-travel-documents/)
 

@@ -122,6 +122,6 @@ Source: https://traveldocumentvault.com/ko/blog/how-to-read-your-passport-dates/
 
 [여권 규칙6분 읽기 · 2026년 4월 30일여행을 위한 패스포트 유효 기간은 얼마나 될까요? 유효 기간 규칙 설명](https://traveldocumentvault.com/ko/blog/how-long-is-passport-valid-for-travel/)
 
-[여권 규칙8분 읽기 · 2026년 2월 1일6개월 여권 유효기간 규칙: 어느 국가가 시행하고 어떻게 대비할까](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)
+[여권 규칙8분 읽기 · 2026년 2월 1일여권 6개월 규칙: 유효기간이 적게 남아도 여행할 수 있을까?](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)
 
 [여권 손상7분 읽기 · 2026년 7월 27일손상된 여권으로 여행할 수 있을까요?](https://traveldocumentvault.com/ko/blog/damaged-passport-travel/)

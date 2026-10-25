@@ -1,0 +1,42 @@
+{
+ "it": {
+  "template": "cards",
+  "title": "Quando un ESTA cessa di essere valido",
+  "cards": [
+   {
+    "heading": "Finisce dopo 2 anni",
+    "items": [
+     {
+      "text": "O quando scade il passaporto",
+      "mark": "dot"
+     },
+     {
+      "text": "A seconda di cosa avviene prima",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Serve a ciascuno il proprio",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Anche neonati e bambini",
+      "mark": "tick"
+     },
+     {
+      "text": "Ognuno sul proprio passaporto",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Nuovo passaporto, nome o cittadinanza: richiedilo di nuovo",
+  "alt": "Diagramma di quando un ESTA cessa di essere valido: finisce dopo 2 anni o quando scade il passaporto, a seconda di cosa avviene prima. Serve a ciascuno il proprio, anche neonati e bambini, ognuno sul proprio passaporto. Un nuovo passaporto, nome o cittadinanza significa richiederlo di nuovo",
+  "caption": "Un orologio per ogni viaggiatore, che non supera mai il passaporto.",
+  "placement": {
+   "h2": 2,
+   "para": 1
+  }
+ }
+}

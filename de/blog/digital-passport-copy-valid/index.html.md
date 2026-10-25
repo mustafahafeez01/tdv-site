@@ -20,6 +20,14 @@ Bei der Planung einer Reise fragen sich viele Reisende, ob sie eine digitale Kop
 
 Die kurze Antwort: Eine digitale Kopie ist wirklich nützlich, aber nur in bestimmten Situationen.
 
+## Eine digitale Kopie ist ein Foto Ihres Reisepasses, kein digitaler Reisepass
+
+Eine digitale Kopie eines Reisepasses ist **ein Scan oder ein Handyfoto seiner Identifikationsseite**, der Seite mit Ihrem Foto, Namen, Geburtsdatum, Reisepassnummer und Ablaufdatum. Sie hält Ihre Angaben fest, ohne das Dokument zu ersetzen. Die kanadische Regierung sagt es in ihren Reisehinweisen klar: Kopien können helfen, wenn Ihre Dokumente verloren gehen oder gestohlen werden, aber sie können nicht als Ausweis dienen, und Sie müssen trotzdem einen neuen Reisepass beantragen, wenn Sie Ihren verlieren.
+
+Eine Kopie anzufertigen dauert nur ein paar Minuten. Legen Sie den Reisepass flach bei gutem Licht aus, fotografieren oder scannen Sie die Identifikationsseite so, dass die ganze Seite scharf ist, und zoomen Sie dann, um zu prüfen, dass jedes Detail lesbar ist. Machen Sie dasselbe für jedes Visum, mit dem Sie reisen. Kanada empfiehlt, Kopien bei einer Vertrauensperson zu Hause zu lassen, und die britische Checkliste für Auslandsreisen empfiehlt eine Sicherung Ihrer Reisepassangaben, die Sie mit der Familie teilen oder auf einer sicheren Datenspeicherplattform aufbewahren.
+
+Eine Kopie ist auch nicht dasselbe wie die digitalen Ausweise, die manche Regierungen inzwischen akzeptieren. In den USA erlaubt die Transportation Security Administration Inhabern eines US-Reisepasses, einen Identitätspass in Google Wallet für ihre Flughafenkontrollen einzurichten, betont aber weiterhin, dass alle Passagiere einen gültigen physischen Ausweis mitführen müssen. Ein Foto in Ihrer Kamerarolle ist eine Sicherung Ihrer Angaben, und genau so sollten Sie es auch behandeln.
+
 ## Wo digitale Reisepasskopien akzeptiert werden
 
 ### Viele Hotels akzeptieren eine Kopie, in Teilen Europas wollen sie meist trotzdem das Original
@@ -54,15 +62,15 @@ Eine digitale Kopie ist kein Ersatz für Ihren physischen Reisepass an der Einwa
 | **Mietwagenbuchung** | Normalerweise ja | Original ist immer noch bei der Fahzeugabholung erforderlich |
 | **Botschaft-Notfallhilfe** | Ja (beschleunigt Ersatzbeschaffung) | Kann den Reisepass selbst nicht ersetzen, hilft aber bei der Ausstellung von Notfalldokumenten |
 
-## Visaanträge: Die Regeln sind spezifisch
+## Visumanträge: Die Regeln sind spezifisch
 
-Die Regeln für Visaanträge sind flexibler als an Grenzen, aber immer noch spezifisch. Die meisten Länder akzeptieren entweder den Originalreisepass oder beglaubigte Fotokopien, obwohl die Anforderungen je nach Ziel und Botschaft erheblich variieren.
+Die Regeln für Visumanträge sind flexibler als die an der Grenze, aber immer noch spezifisch. Die meisten Länder akzeptieren entweder den Originalreisepass oder beglaubigte Fotokopien, auch wenn die Anforderungen je nach Zielland und Botschaft erheblich variieren.
 
 Was das in der Praxis bedeutet
 
-Sie beantragen ein französisches Visum. Die offizielle Webseite sagt "beglaubigte Kopie". Dies bedeutet eine beglaubigte Fotokopie von einem Notar oder einer Regierungsbehörde. Nicht ein zufälliges Handyfoto. Das Einreichen des falschen Formats führt zu Ablehnung und Verzögerungen bei der Neuanmeldung. Wenden Sie sich an die Botschaft, um zulässige Formate zu bestätigen, bevor Sie Zeit auf den Antrag verwenden.
+Sie beantragen ein französisches Visum. Auf der offiziellen Website steht „beglaubigte Kopie“. Gemeint ist eine beglaubigte Fotokopie von einem Notar oder einer Behörde, kein schnell geschossenes Handyfoto. Wer das falsche Format einreicht, wird abgelehnt und verliert Zeit, weil er neu beantragen muss. Wenden Sie sich an die Botschaft und klären Sie, welche Formate zulässig sind, bevor Sie Zeit in den Antrag stecken.
 
-Einige Botschaften akzeptieren beglaubigte digitale Scans, die elektronisch eingereicht werden, während andere physische beglaubigte Kopien oder den Originalreisepass persönlich benötigen. Die Anforderungen variieren so stark, dass Sie wirklich die offizielle Regierungswebseite des Landes überprüfen müssen, in dem Sie einen Antrag stellen.
+Einige Botschaften akzeptieren beglaubigte digitale Scans, die elektronisch eingereicht werden, während andere beglaubigte Kopien in Papierform oder den Originalreisepass persönlich verlangen. Die Anforderungen variieren so stark, dass Sie die offizielle Website der Behörden des Landes prüfen sollten, in dem Sie den Antrag stellen.
 
 ## Wie Sie digitale Kopien sicher speichern
 
@@ -85,6 +93,10 @@ Falls Sie noch keine Kopie angelegt haben, scannen Sie die Fotoseite Ihres Reise
 
 ## Häufig gestellte Fragen
 
+### Was ist eine digitale Kopie eines Reisepasses?
+
+Eine digitale Kopie ist ein Scan oder ein Handyfoto der Identifikationsseite Ihres Reisepasses, der Seite mit Ihrem Foto und Ihren persönlichen Daten. Sie hilft bei Buchungen und beim Ersatz eines verlorenen Reisepasses, ist aber kein Reisedokument: Die kanadische Regierung erklärt, dass Kopien nicht als Ausweis dienen können. Sie unterscheidet sich außerdem von einem staatlich unterstützten digitalen Ausweis, und selbst in den USA, wo die TSA digitale Ausweise an ihren Kontrollen akzeptiert, müssen Passagiere weiterhin einen gültigen physischen Ausweis mitführen.
+
 ### Wird eine digitale Kopie meines Reisepasses beim Hotel-Check-in akzeptiert?
 
 Ja, die meisten Hotels weltweit akzeptieren digitale Reisepasskopien beim Check-in: als PDF auf Ihrem Telefon, per E-Mail oder ausgedruckt. Einige kleinere Einrichtungen verlangen möglicherweise immer noch einen physischen Reisepass. Wenden Sie sich immer im Voraus an Ihr Hotel, um dies zu bestätigen.
@@ -93,9 +105,9 @@ Ja, die meisten Hotels weltweit akzeptieren digitale Reisepasskopien beim Check-
 
 Nein. Fluggesellschaften benötigen den ursprünglichen, physischen Reisepass zum Einchecken. Eine digitale Kopie wird von Sicherheits- oder Gate-Personal nicht akzeptiert. Sie müssen Ihren Originalreisepass zum Flughafen mitbringen, um einen internationalen Flug zu nehmen.
 
-### Sind digitale Reisepasskopien für Visaanträge gültig?
+### Sind digitale Reisepasskopien für Visumanträge gültig?
 
-Die meisten Visaanträge erfordern beglaubigte Fotokopien oder beglaubigte Scans. Keine zufälligen Handyfotos. Die Anforderungen variieren je nach Land und Botschaft. Überprüfen Sie die offizielle Regierungswebseite des Landes, in dem Sie einen Antrag stellen, bevor Sie etwas einreichen.
+Die meisten Visumanträge verlangen beglaubigte Fotokopien oder beglaubigte Scans und keine schnell geschossenen Handyfotos. Die Anforderungen variieren je nach Land und Botschaft, prüfen Sie also die offizielle Website der Behörden des Landes, in dem Sie den Antrag stellen, bevor Sie etwas einreichen.
 
 ### Kann eine digitale Reisepasskopie helfen, wenn mein Reisepass im Ausland verloren geht oder gestohlen wird?
 

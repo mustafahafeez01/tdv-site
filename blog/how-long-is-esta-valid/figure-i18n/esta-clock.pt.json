@@ -1,0 +1,42 @@
+{
+ "pt": {
+  "template": "cards",
+  "title": "Quando uma ESTA deixa de ser válida",
+  "cards": [
+   {
+    "heading": "Termina após 2 anos",
+    "items": [
+     {
+      "text": "Ou quando o passaporte expira",
+      "mark": "dot"
+     },
+     {
+      "text": "O que ocorrer primeiro",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Cada um precisa da sua",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Bebés e crianças também",
+      "mark": "tick"
+     },
+     {
+      "text": "Cada um com o seu passaporte",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Novo passaporte, nome ou nacionalidade: peça de novo",
+  "alt": "Diagrama de quando uma ESTA deixa de ser válida: termina após 2 anos ou quando o passaporte expira, o que ocorrer primeiro. Cada um precisa da sua, bebés e crianças também, cada um com o seu próprio passaporte. Um novo passaporte, nome ou nacionalidade significa pedir de novo",
+  "caption": "Um relógio por viajante, que nunca dura mais do que o passaporte.",
+  "placement": {
+   "h2": 2,
+   "para": 1
+  }
+ }
+}

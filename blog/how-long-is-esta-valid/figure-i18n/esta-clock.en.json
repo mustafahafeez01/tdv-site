@@ -1,0 +1,42 @@
+{
+ "en": {
+  "template": "cards",
+  "title": "When an ESTA stops working",
+  "cards": [
+   {
+    "heading": "It ends after 2 years",
+    "items": [
+     {
+      "text": "Or when your passport expires",
+      "mark": "dot"
+     },
+     {
+      "text": "Whichever comes first",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Everyone needs their own",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Babies and children too",
+      "mark": "tick"
+     },
+     {
+      "text": "Each on their own passport",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "New passport, new name or new citizenship: apply again",
+  "alt": "Diagram of when an ESTA stops working: it ends after 2 years or when your passport expires, whichever comes first. Everyone needs their own, babies and children too, each on their own passport. A new passport, new name or new citizenship means applying again",
+  "caption": "One clock per traveller, and it never outlives the passport.",
+  "placement": {
+   "h2": 2,
+   "para": 1
+  }
+ }
+}

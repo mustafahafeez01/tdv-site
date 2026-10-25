@@ -135,7 +135,7 @@ Source: https://traveldocumentvault.com/ja/blog/what-documents-to-carry-when-tra
 
 [旅行書類7分で読める出国手段の証明:実際に認められるものとは](https://traveldocumentvault.com/ja/blog/proof-of-onward-travel/)
 
-[旅行書類6分で読める国民IDカードでの渡航:それで十分な場合](https://traveldocumentvault.com/ja/blog/national-id-card-travel-europe/)
+[旅行書類6分で読めるEEA国民IDカードとは：それだけで足りる場面](https://traveldocumentvault.com/ja/blog/national-id-card-travel-europe/)
 
 [パスポートルール8分で読める・2026年2月1日6ヶ月パスポートルール：どの国が実施し、引っかかる方法](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)
 

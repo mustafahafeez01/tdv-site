@@ -20,6 +20,14 @@ Quando pianifica un viaggio, molti viaggiatori si chiedono se possono conservare
 
 La risposta breve: una copia digitale è davvero utile, ma solo in situazioni specifiche.
 
+## Una Copia Digitale È Una Fotografia del Suo Passaporto, Non Un Passaporto Digitale
+
+Una copia digitale di un passaporto è **una scansione o una foto da telefono della sua pagina di identificazione**, la pagina con la Sua foto, nome, data di nascita, numero di passaporto e data di scadenza. Registra i Suoi dati senza sostituire il documento. Il governo canadese lo dice chiaramente nei suoi consigli di viaggio: le copie possono aiutare se i documenti vengono persi o rubati, ma non possono essere usate come documento d'identità, e deve comunque richiedere un nuovo passaporto se perde il Suo.
+
+Farne una richiede un paio di minuti. Appoggi il passaporto in piano con buona luce, fotografi o scansioni la pagina di identificazione in modo che tutta la pagina sia nitida, poi usi lo zoom per verificare che ogni dettaglio sia leggibile. Faccia lo stesso per qualsiasi visto con cui viaggerà. Il Canada suggerisce di lasciare copie a una persona di fiducia a casa, e la checklist per i viaggi all'estero del Regno Unito raccomanda una copia di backup dei dati del Suo passaporto da condividere con la famiglia o conservare su una piattaforma di archiviazione dati sicura.
+
+Una copia non è nemmeno la stessa cosa delle identità digitali che alcuni governi oggi accettano. Negli Stati Uniti, la Transportation Security Administration consente ai titolari di passaporto statunitense di configurare un pass di identità in Google Wallet per i controlli aeroportuali, ma continua a precisare che tutti i passeggeri devono portare un documento d'identità fisico valido. Una foto nel Suo rullino è una copia di backup dei Suoi dati, ed è esattamente così che va trattata.
+
 ## Dove le Copie Digitali del Passaporto Sono Accettate
 
 ### Molti hotel accettano una copia, ma in parte dell'Europa di solito vogliono l'originale
@@ -54,15 +62,15 @@ Una copia digitale non è un sostituto per il Suo passaporto fisico all'immigraz
 | **Prenotazione di auto a noleggio** | Di solito sì | L'originale è comunque richiesto al ritiro del veicolo |
 | **Assistenza consolare di emergenza** | Sì (accelera la sostituzione) | Non può sostituire il passaporto stesso, ma aiuta a emettere un documento di emergenza |
 
-## Richieste di Visto: Le Regole Sono Specifiche
+## Richieste di visto: le regole sono specifiche
 
-Le regole per le richieste di visto sono più flessibili dei confini, ma comunque specifiche. La maggior parte dei Paesi accetta sia il passaporto originale che le fotocopie certificate, anche se i requisiti variano notevolmente a seconda della destinazione e dell'ambasciata.
+Le regole per le richieste di visto sono più flessibili di quelle alle frontiere, ma comunque specifiche. La maggior parte dei Paesi accetta il passaporto originale o le fotocopie certificate, anche se i requisiti variano notevolmente a seconda della destinazione e dell'ambasciata.
 
 Cosa significa nella pratica
 
-Sta facendo domanda per un visto francese. Il sito ufficiale dice "copia certificata". Questo significa una fotocopia certificata da un notaio pubblico o ufficio governativo. Non una semplice foto da telefono. L'invio del formato sbagliato porta al rifiuto e ai ritardi nella ricandidatura. Contatti l'ambasciata per confermare i formati accettabili prima di dedicare tempo alla domanda.
+Sta facendo domanda per un visto francese. Il sito ufficiale dice «copia certificata». Significa una fotocopia autenticata da un notaio o da un ufficio pubblico, non una semplice foto scattata col telefono. Inviare il formato sbagliato porta al rifiuto e al ritardo di dover presentare di nuovo la domanda. Contatti l'ambasciata per farsi confermare quali formati accetta prima di dedicare tempo alla domanda.
 
-Alcune ambasciate accettano scansioni digitali autenticate inviate elettronicamente, mentre altre richiedono copie certificate fisiche o il passaporto originale di persona. I requisiti variano così drasticamente che ha davvero bisogno di verificare il sito web ufficiale del governo del Paese per il quale sta facendo domanda.
+Alcune ambasciate accettano scansioni digitali autenticate inviate per via elettronica, mentre altre richiedono copie certificate su carta o il passaporto originale di persona. I requisiti variano così tanto che conviene verificare il sito ufficiale del governo del Paese al quale sta chiedendo il visto.
 
 ## Come Conservare le Copie Digitali in Modo Sicuro
 
@@ -85,6 +93,10 @@ Se non ne ha ancora una, scansioni oggi la pagina con la foto del Suo passaporto
 
 ## Domande Frequenti
 
+### Cos'è una copia digitale di un passaporto?
+
+Una copia digitale è una scansione o una foto da telefono della pagina di identificazione del Suo passaporto, la pagina con la Sua foto e i Suoi dati personali. Aiuta con le prenotazioni e con la sostituzione di un passaporto perso, ma non è un documento di viaggio: il governo canadese indica che le copie non possono essere usate come documento d'identità. È anche diversa da un'identità digitale sostenuta da un governo, e persino negli Stati Uniti, dove la TSA accetta identità digitali ai suoi controlli, i passeggeri devono comunque portare un documento d'identità fisico valido.
+
 ### Una copia digitale del mio passaporto è accettata al check-in dell'hotel?
 
 Sì, la maggior parte degli hotel in tutto il mondo accetta copie digitali del passaporto al check-in: un PDF sul Suo telefono, via email, o stampate. Alcuni stabilimenti più piccoli potrebbero ancora richiedere un passaporto fisico. Contatti sempre il Suo hotel in anticipo per confermare.
@@ -95,7 +107,7 @@ No. Le compagnie aeree richiedono il passaporto originale e fisico per l'imbarco
 
 ### Le copie digitali del passaporto sono valide per le richieste di visto?
 
-La maggior parte delle richieste di visto richiedono fotocopie certificate o scansioni autenticate. Non semplici foto digitali. I requisiti variano a seconda del Paese e dell'ambasciata. Verifichi il sito web ufficiale del governo del Paese dove sta facendo domanda prima di inviare qualsiasi cosa.
+La maggior parte delle richieste di visto richiede fotocopie certificate o scansioni autenticate, non semplici foto scattate col telefono. I requisiti variano a seconda del Paese e dell'ambasciata, quindi verifichi il sito ufficiale del governo del Paese al quale sta chiedendo il visto prima di inviare qualsiasi cosa.
 
 ### Una copia digitale del passaporto può aiutare se il mio passaporto viene perso o rubato all'estero?
 

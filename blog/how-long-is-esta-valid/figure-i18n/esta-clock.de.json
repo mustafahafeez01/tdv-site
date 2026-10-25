@@ -1,0 +1,42 @@
+{
+ "de": {
+  "template": "cards",
+  "title": "Wann ein ESTA ungültig wird",
+  "cards": [
+   {
+    "heading": "Endet nach 2 Jahren",
+    "items": [
+     {
+      "text": "Oder wenn der Pass abläuft",
+      "mark": "dot"
+     },
+     {
+      "text": "Je nachdem, was früher eintritt",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Jeder braucht sein eigenes",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Auch Babys und Kinder",
+      "mark": "tick"
+     },
+     {
+      "text": "Jeder mit eigenem Pass",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Neuer Pass, neuer Name oder neue Staatsangehörigkeit: neu beantragen",
+  "alt": "Diagramm, wann ein ESTA ungültig wird: es endet nach 2 Jahren oder wenn der Pass abläuft, je nachdem, was früher eintritt. Jeder braucht sein eigenes, auch Babys und Kinder, jeder mit eigenem Pass. Ein neuer Pass, ein neuer Name oder eine neue Staatsangehörigkeit bedeutet, neu zu beantragen",
+  "caption": "Eine Uhr pro Reisendem, die den Pass nie überlebt.",
+  "placement": {
+   "h2": 2,
+   "para": 1
+  }
+ }
+}

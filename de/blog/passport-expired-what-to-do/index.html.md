@@ -52,6 +52,24 @@ Dieses Szenario passiert häufiger als erwartet, und die Schritte sind nicht kla
 
 **Schritt 6: Kontaktieren Sie Ihren Reiseversicherer.** Ein am Flughafen entdeckter abgelaufener Reisepass ist möglicherweise durch eine Reiseversicherung abgedeckt, je nach Ihrer Police. Rufen Sie an, um nachzufragen, anstatt davon auszugehen.
 
+## Ein abgelaufener Reisepass lässt sich meist verlängern, nicht neu beantragen
+
+Ablauf bedeutet selten, noch einmal ganz von vorn anzufangen, denn in Großbritannien, den USA und Kanada können Sie einen abgelaufenen Erwachsenenreisepass meist über den normalen Verlängerungsweg erneuern. In den USA und Kanada blockiert eine Verlängerung meist, wie alt Sie bei der Ausstellung waren und wie lange das zurückliegt.
+
+### Großbritannien: Ein abgelaufener Reisepass durchläuft die normale Verlängerung
+
+GOV.UK schreibt, Sie müssen Ihren Reisepass verlängern, bevor Sie reisen können, wenn er abgelaufen ist oder nicht genügend Restgültigkeit für Ihr Reiseziel hat. Ein abgelaufener Reisepass durchläuft die Standardverlängerung, online oder per Papierformular, und Sie benötigen dafür Ihren alten Reisepass. Erwachsenenreisepässe sind für Personen ab 16 Jahren, Kinderreisepässe haben ein eigenes Verfahren.
+
+### USA: Verlängerung funktioniert innerhalb von 15 Jahren nach Ausstellung
+
+Laut USA.gov können Sie einen abgelaufenen Reisepass nur verlängern, wenn er in den letzten 15 Jahren ausgestellt wurde. Ebenso wenig können Sie einen Pass verlängern, der vor Ihrem 16. Geburtstag ausgestellt wurde, einen beschädigten, verlorenen oder gestohlenen Pass, oder einen Pass mit einem früheren Namen, sofern Sie kein rechtliches Dokument für die Namensänderung vorlegen können. Trifft eines davon zu, müssen Sie persönlich mit dem Formular DS-11 einen neuen Reisepass beantragen.
+
+### Kanada: Ein abgelaufener Reisepass kann online verlängert werden
+
+Die kanadische Regierung erlaubt eine Verlängerung, wenn Ihr letzter Reisepass ein Erwachsenenreisepass war, der ausgestellt wurde, als Sie mindestens 16 Jahre alt waren. Er muss außerdem innerhalb von 15 Jahren vor Ihrem Antrag ausgestellt worden sein und eine Gültigkeit von 5 oder 10 Jahren haben. Name, Geburtsdatum und Geburtsort darauf müssen mit den Angaben für den neuen Pass übereinstimmen. Sie können online verlängern, wenn Ihr Reisepass in den nächsten sechs Monaten abläuft oder bereits abgelaufen ist, sofern Ihre Wohn- und Postadresse in Kanada liegt. Kinderreisepässe können nicht verlängert werden, ein Kind braucht einen neuen Antrag.
+
+Ist Ihr Reisepass schon vor Jahren abgelaufen, schauen Sie zuerst auf das Ausstellungsdatum, denn die 15-Jahres-Grenze in den USA und Kanada zählt vom Ausstellungsdatum, nicht vom Ablaufdatum. Prüfen Sie dann die aktuellen Bearbeitungszeiten, bevor Sie buchen - unser Leitfaden zu [wie lange eine Reisepassverlängerung dauert](https://traveldocumentvault.com/de/blog/how-long-does-passport-renewal-take/) behandelt das Land für Land.
+
 ## Andere Reisepassprobleme, die Reisende am Flughafen abweisen
 
 Ablauf ist der häufigste Grund für einen fehlgeschlagenen Reisepass am Flughafen, aber andere Probleme führen zum gleichen Ergebnis.
@@ -64,15 +82,15 @@ Sichtbare Beschädigungen allein reichen aus, um Sie abzuweisen. Airlines und Gr
 
 Kinderreisepässe sind besonders anfällig. Stiftmarkierungen auf der Fotoseite, verbogene Umschläge oder eine Seite, die während der Reise locker wird, reichen aus, um Probleme zu verursachen. Überprüfen Sie jeden Reisepass in Ihrem Haushalt vor der Reise, nicht nur in der Nacht davor.
 
-### 2. Ein Name, der nicht auf Ihrem Flugschein passt
+### 2. Ein Name, der nicht zum Flugticket passt
 
-Ein Namenskonflikt zwischen Ihrem Reisepass und dem Flugschein führt zum Abweisen. Es trifft Menschen, die einen legalen Namenswechsel durchgemacht haben – Heirat, Scheidung oder formelle Namensurkunde – wo der Reisepass noch nicht aktualisiert wurde. Es trifft auch Buchungsfehler: Ein Mittelname auf dem Flugschein, aber fehlt im Reisepass, oder umgekehrt.
+Stimmt der Name in Ihrem Reisepass nicht mit dem auf der Bordkarte überein, werden Sie abgewiesen. Betroffen sind Menschen, deren Name sich rechtlich geändert hat – durch Heirat, Scheidung oder eine amtliche Namensänderung – und deren Reisepass noch nicht aktualisiert ist. Betroffen sind auch Buchungsfehler: ein zweiter Vorname, der auf dem Ticket steht, im Reisepass aber fehlt, oder umgekehrt.
 
-Auch kleine Abweichungen wie ein fehlender zweiter Namensbuchstabe oder ein vertauschter Buchstabe können manchmal von dem Flughafenpersonal gelöst werden, aber Sie können sich nicht darauf verlassen. Stellen Sie sicher, dass jeder Name auf jedem Flugschein genau mit jedem Namen in jedem Reisepass übereinstimmt, einschließlich der Namen der Kinder.
+Kleine Abweichungen wie eine fehlende Initiale des zweiten Vornamens oder ein vertauschter Buchstabe lassen sich manchmal vom Personal der Airline klären, aber darauf verlassen können Sie sich nicht. Achten Sie darauf, dass jeder Name auf jedem Ticket genau mit dem im zugehörigen Reisepass übereinstimmt, auch bei den Kindern.
 
-### 3. Ein unsignierter Reisepass
+### 3. Ein nicht unterschriebener Reisepass
 
-Die meisten Reisepässe haben ein Unterschriftsfeld. Einige Länder – einschließlich der Vereinigten Staaten – verlangen, dass der Reisepass vor der Reise unterzeichnet ist. Ein unsignierter Reisepass kann an der Grenze abgelehnt werden. Dies ist am häufigsten bei Reisepässen, die an Kinder ausgegeben wurden, die zu jung zum Unterzeichnen waren, oder bei ganz neuen Reisepässen, deren Inhaber vergessen hat, sie vor der Reise zu unterzeichnen. Ein kurzer Blick auf das Unterschriftsfeld vor der Abreise fängt das früh genug ab.
+Die meisten Reisepässe haben ein Unterschriftsfeld. Einige Länder – darunter die Vereinigten Staaten – verlangen, dass der Reisepass vor der Reise unterschrieben ist. Ein nicht unterschriebener Reisepass kann an der Grenze abgelehnt werden. Am häufigsten passiert das bei Pässen, die für Kinder ausgestellt wurden, die zum Unterschreiben noch zu klein waren, oder bei ganz neuen Pässen, deren Inhaber die Unterschrift vor der Reise vergessen hat. Ein kurzer Blick auf das Unterschriftsfeld vor der Abreise fängt das rechtzeitig ab.
 
 ### 4. Unzureichende Restgültigkeit für Ihr Ziel
 
@@ -118,11 +136,11 @@ Stellen Sie eine Ablauferinnerung 12 Monate vor Ablauf ein – nicht 6 Monate. D
 
 ### Kann ein gültiger Reisepass am Flughafen abgelehnt werden?
 
-Ja. Ein Reisepass, der nicht abgelaufen ist, kann immer noch abgelehnt werden, wenn er beschädigt ist, wenn der Name nicht auf dem Flugschein passt, wenn er nicht unterzeichnet ist, oder wenn er die Mindestgültigkeitsanforderung des Ziellandes nicht erfüllt. Airlines überprüfen Dokumente vor dem Einsteigen und Grenzbeamte überprüfen erneut bei der Ankunft. Ein gültiges Ablaufdatum allein ist nicht ausreichend.
+Ja. Ein Reisepass, der nicht abgelaufen ist, kann trotzdem abgelehnt werden, wenn er beschädigt ist, wenn der Name nicht zum Flugticket passt, wenn er nicht unterschrieben ist oder wenn er die Mindestgültigkeit nicht erfüllt, die das Zielland verlangt. Airlines prüfen die Dokumente vor dem Abflug, und Grenzbeamte prüfen bei der Ankunft erneut. Ein gültiges Ablaufdatum allein genügt nicht.
 
 ### Was ist die Sechs-Monats-Reisepass-Regel?
 
-Viele Länder verlangen, dass Ihr Reisepass mindestens sechs Monate über Ihrem geplanten Ankunftsdatum hinaus gültig bleibt. Wenn Ihr Reisepass früher abläuft – auch wenn er technisch noch gültig ist – kann Ihnen das Einsteigen oder die Einreise verweigert werden. Nicht jedes Land erzwingt diese Regel und der Schwellenwert variiert. Überprüfen Sie die Anforderungen für Ihr spezifisches Ziel vor der Reise.
+Viele Länder verlangen, dass Ihr Reisepass mindestens sechs Monate über Ihrem geplanten Ankunftsdatum hinaus gültig bleibt. Läuft er früher ab – auch wenn er formal noch gültig ist – kann Ihnen die Beförderung oder die Einreise verweigert werden. Nicht jedes Land wendet diese Regel an, und der Schwellenwert variiert. Prüfen Sie vor der Reise die Anforderungen Ihres konkreten Reiseziels.
 
 ## Verwandte Artikel
 

@@ -154,7 +154,7 @@ Ini mungkin tidak selalu diwajibkan secara hukum, tetapi sangat disarankan. Petu
 
 ## Artikel Terkait
 
-[Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Negara Mana yang Menerapkannya dan Cara Menghindari Masalah](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
+[Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Bisakah Bepergian dengan Sisa Kurang?](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
 
 [Privasi7 menit bacaApakah Aman Menyimpan Paspor di Google Foto? Ini yang Perlu Anda Ketahui](https://traveldocumentvault.com/id/blog/is-it-safe-to-store-passport-in-google-photos/)
 

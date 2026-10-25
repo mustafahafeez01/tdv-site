@@ -62,11 +62,25 @@ Jika tanggal Anda masih sesuai aturan, proses masuk berjalan seperti biasa. Jika
 
 EES saat ini mengecualikan anak-anak di bawah 12 tahun dari pengambilan sidik jari. Ketika orang tua atau wali membawa anak ke perbatasan, petugas tetap merekam gambar wajah untuk catatan EES, karena sistem perlu tahu bahwa anak ini melintas dan kapan. Petugas melewati pengambilan sidik jari. Pada usia 12 tahun, aturannya berubah; sejak saat itu, pendaftaran biometrik anak mencakup sidik jari.
 
+## Memeriksa Sisa Hari EES Hanya Butuh Paspor dan Satu Tanggal
+
+Cara resmi tercepat adalah alat "Check how long you can stay" (periksa berapa lama Anda masih boleh tinggal) di situs resmi Travel to Europe. Alat ini memberi tahu apakah Anda boleh masuk, ditampilkan sebagai OK atau not OK, serta **berapa hari lagi Anda boleh tinggal** di negara-negara yang menggunakan EES. Perangkat di beberapa pos perbatasan eksternal melakukan pemeriksaan yang sama, dan petugas imigrasi juga bisa memberitahu Anda.
+
+Siapkan hal-hal ini sebelum mulai:
+
+- negara pengguna EES tempat Anda berada sekarang, atau yang ingin dikunjungi
+- jenis dan nomor dokumen perjalanan Anda, beserta kode tiga huruf negara penerbitnya (misalnya "CAN" untuk Kanada)
+- satu atau dua tanggal, sesuai pertanyaan Anda: tanggal kedatangan untuk perjalanan mendatang, tanggal keberangkatan jika Anda sudah berada di sana, atau kedua tanggal jika ingin tahu sisa hari setelah perjalanan yang direncanakan berakhir
+
+Ada dua batasan yang patut diketahui sebelum mempercayai angka ini. UE menyatakan langsung di alat tersebut bahwa jawaban OK atau not OK bukan keputusan untuk mengizinkan atau menolak masuk, karena keputusan itu tetap ada di tangan petugas perbatasan. Hitungan ini juga tidak memasukkan masa tinggal mana pun yang dimulai sebelum EES mengganti cap paspor pada 10 April, jadi jika salah satu perjalanan itu masih masuk dalam 180 hari terakhir Anda, Anda harus menambahkannya sendiri.
+
+Untuk perjalanan yang masih Anda susun, sebaiknya gunakan alat ini bersama kalkulator tinggal singkat Komisi Eropa, yang menghitung berdasarkan tanggal masuk dan keluar yang Anda ketik sendiri dan punya mode Planning untuk tanggal mendatang. Komisi sendiri menyebutnya hanya sebagai alat bantu. Lakukan pemeriksaan satu per satu untuk setiap orang yang bepergian, menggunakan paspor masing-masing, karena setiap pelancong memiliki hitungan tersendiri.
+
 ## Pesan "Tidak Dapat Dihitung Saat Ini"
 
-Beberapa pelancong melaporkan pesan kesalahan di perbatasan yang berbunyi seperti: "Sisa masa tinggal resmi Anda saat ini tidak dapat dihitung karena data yang belum lengkap sementara dalam sistem masuk/keluar." Pesan ini muncul saat check in atau di kios ketika petugas mencoba memverifikasi Anda. Artinya: EES sedang berjalan, tetapi sistem belum dapat menemukan catatan Anda sebelumnya, atau data dari pelintasan terakhir Anda belum tersinkronisasi di semua perbatasan Schengen.
+Beberapa pelancong melaporkan pesan kesalahan di perbatasan yang berbunyi seperti: "Sisa masa tinggal yang diizinkan bagi Anda saat ini tidak dapat dihitung karena data di sistem masuk/keluar sementara belum lengkap." Kalimat yang sama ini adalah salah satu jawaban yang bisa diberikan alat "Check how long you can stay" (periksa berapa lama Anda masih boleh tinggal) milik Uni Eropa, dan UE mengaitkannya dengan data di Entry/Exit System yang sementara belum lengkap. Artinya: EES sedang berjalan, tetapi sistem belum dapat menemukan catatan Anda sebelumnya, atau data dari pelintasan terakhir Anda belum tersinkronisasi di semua perbatasan Schengen.
 
-Ini adalah pesan masa transisi, paling sering muncul ketika Anda baru saja memasuki wilayah Schengen dan sistem perbatasan masih menyinkronkan data antarnegara anggota. Pesan ini melaporkan masalah pada data dalam sistem, bukan masalah pada masa tinggal Anda, dan menandakan bahwa pemeriksaan otomatis belum selesai. Apa yang terjadi selanjutnya adalah keputusan petugas perbatasan, bukan sesuatu yang bisa kami janjikan. Jika Anda melihatnya, tanyakan langsung kepada petugas apakah hitungan hari Anda menjadi masalah, dan simpan catatan rinci setiap hari yang Anda habiskan di wilayah Schengen sendiri.
+Ini adalah pesan masa transisi, paling sering muncul ketika Anda baru saja memasuki wilayah Schengen dan sistem perbatasan masih menyinkronkan data antarnegara anggota. Pesan ini melaporkan masalah pada data dalam sistem, bukan masalah pada masa tinggal Anda, dan menandakan bahwa pemeriksaan otomatis belum selesai. Apa yang terjadi selanjutnya adalah keputusan petugas perbatasan, bukan sesuatu yang bisa kami janjikan. Jika Anda melihatnya, tanyakan langsung kepada petugas apakah hitungan hari Anda menjadi masalah, dan catat sendiri secara rinci setiap hari yang Anda lalui di wilayah Schengen.
 
 ## Cara Melacak Jendela Anda dalam Praktik
 
@@ -99,6 +113,10 @@ EES mencatat setiap masuk dan keluar secara digital, sehingga bahkan kelebihan t
 ### Bisakah saya memeriksa berapa hari Schengen tersisa setelah saya masuk?
 
 Bisa. Alat daring EES dari UE, di situs resmi Travel to Europe, menampilkan jumlah hari yang masih boleh Anda habiskan, dan beberapa pos pelintasan perbatasan eksternal menawarkan pemeriksaan serupa. Untuk merencanakan perjalanan berikutnya, gunakan kalkulator resmi tinggal singkat dari UE dengan seluruh riwayat perjalanan Anda, dan tetap simpan catatan tanggal masuk serta keluar Anda sendiri, untuk mengantisipasi jika data sistem belum lengkap.
+
+### Apakah ada kalkulator resmi untuk hari EES?
+
+Ya, Uni Eropa mengoperasikan dua alat. Alat “Check how long you can stay” (periksa berapa lama Anda masih boleh tinggal) di situs resmi Travel to Europe menggunakan data dokumen perjalanan Anda untuk menunjukkan berapa hari lagi Anda boleh tinggal, dengan jawaban OK atau not OK. Kalkulator tinggal singkat Komisi Eropa menghitung dari tanggal masuk dan keluar yang Anda ketik sendiri, dan Komisi menyebutnya hanya sebagai alat bantu. Baik jawaban OK atau not OK, keduanya bukan keputusan masuk, karena petugas perbatasan tetap yang memutuskan.
 
 ### Apakah saya memerlukan visa atau asuransi perjalanan karena EES?
 

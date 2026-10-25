@@ -52,6 +52,24 @@ Este cenário acontece mais vezes do que as pessoas esperam, e os passos não s�
 
 **Passo 6: Contacte o seu segurador de viagem.** Um passaporte descoberto expirado no aeroporto pode estar coberto sob seguro de viagem dependendo da sua apólice. Ligue para verificar em vez de assumir de qualquer forma.
 
+## Um Passaporte Expirado Normalmente Pode Ser Renovado, Não Refeito do Zero
+
+A expiração raramente significa começar tudo de novo, porque no Reino Unido, nos EUA e no Canadá pode normalmente renovar um passaporte de adulto expirado pela via normal de renovação. Nos EUA e no Canadá, o que costuma bloquear uma renovação é a idade que tinha quando o passaporte foi emitido e há quanto tempo isso aconteceu.
+
+### Reino Unido: Um Passaporte Expirado Segue a Renovação Normal
+
+O GOV.UK indica que deve renovar o seu passaporte antes de poder viajar se estiver expirado ou não tiver validade suficiente para o seu destino. Um passaporte expirado segue a renovação padrão, online ou em formulário de papel, e vai precisar do seu antigo passaporte para o fazer. Os passaportes de adulto são para pessoas com 16 anos ou mais, e os passaportes de crianças têm o seu próprio processo.
+
+### EUA: A Renovação Funciona Dentro de 15 Anos Após a Emissão
+
+Segundo a USA.gov, só pode renovar um passaporte expirado se este tiver sido emitido nos últimos 15 anos. Também não pode renovar um emitido antes do seu 16.º aniversário, um danificado, perdido ou roubado, ou um com um nome anterior, a menos que tenha um documento legal que comprove a alteração. Se algum destes casos se aplicar, deve pedir um novo passaporte pessoalmente com o formulário DS-11.
+
+### Canadá: Um Passaporte Expirado Pode Ser Renovado Online
+
+O governo do Canadá permite a renovação se o seu último passaporte era um passaporte de adulto emitido quando tinha pelo menos 16 anos. Também tem de ter sido emitido nos 15 anos anteriores ao pedido e ter validade de 5 ou 10 anos. O nome, a data e o local de nascimento nele devem corresponder aos que quer no novo. Pode renovar online se o seu passaporte expirar nos próximos seis meses ou já tiver expirado, desde que a sua morada e endereço postal estejam no Canadá. Os passaportes de crianças não podem ser renovados, por isso uma criança precisa de um novo pedido.
+
+Se o seu passaporte expirou há anos, veja primeiro a data de emissão, porque o limite de 15 anos nos EUA e no Canadá conta a partir da emissão, não da expiração. Depois verifique os prazos atuais antes de reservar, algo que o nosso guia sobre [quanto tempo demora a renovação do passaporte](https://traveldocumentvault.com/pt/blog/how-long-does-passport-renewal-take/) detalha país a país.
+
 ## Outros Problemas de Passaporte Que Afastam Viajantes
 
 A expiração é a razão mais comum para um passaporte falhar no aeroporto, mas outros problemas causam o mesmo resultado.
@@ -64,11 +82,11 @@ Danos visíveis sozinhos são suficientes para o afastar. As companhias aéreas 
 
 Os passaportes infantis são particularmente vulneráveis. Marcas de caneta na página de foto, capas dobradas, ou uma página solta durante a viagem são suficientes para causar problemas. Verifique cada passaporte no seu agregado antes de viajar, não apenas na noite anterior.
 
-### 2. Um nome que não corresponde à sua passagem
+### 2. Um nome que não corresponde ao seu bilhete
 
-Uma incompatibilidade de nome entre o seu passaporte e a passagem de embarque o afastará. Apanha pessoas após uma mudança legal de nome — casamento, divórcio, ou mudança formal de acto — onde o passaporte não foi actualizado ainda. Também apanha erros de reserva: um nome do meio na passagem mas ausente do passaporte, ou vice-versa.
+Se o nome do seu passaporte não corresponder ao do cartão de embarque, não o deixarão embarcar. Apanha quem mudou de nome legalmente — casamento, divórcio ou uma alteração formal por escritura — e ainda não atualizou o passaporte. Também apanha erros de reserva: um nome do meio que aparece no bilhete mas não no passaporte, ou o contrário.
 
-Mesmo pequenas variações como um inicial de nome do meio em falta ou uma letra transposta podem às vezes ser resolvidas pelo pessoal da companhia aérea, mas não pode contar com isso. Certifique-se de que cada nome em cada passagem corresponde exactamente a cada nome em cada passaporte, incluindo os nomes das crianças.
+O pessoal da companhia aérea às vezes resolve pequenas variações, como a falta da inicial do nome do meio ou uma letra trocada, mas não pode contar com isso. Confirme que cada nome em cada bilhete corresponde exatamente ao do passaporte respetivo, incluindo os das crianças.
 
 ### 3. Um passaporte não assinado
 
@@ -118,11 +136,11 @@ Defina um lembrete de expiração 12 meses antes da expiração — não 6 meses
 
 ### Pode um passaporte válido ser recusado no aeroporto?
 
-Sim. Um passaporte que não expirou ainda pode ser recusado se estiver danificado, se o nome não corresponde à passagem, se não estiver assinado, ou se não cumprir o requisito de validade mínima do destino. As companhias aéreas verificam documentos antes de embarque, e os oficiais fronteiriços verificam novamente na chegada. Um prazo de expiração válido sozinho não é suficiente.
+Sim. Um passaporte que ainda não expirou pode ser recusado se estiver danificado, se o nome não corresponder ao bilhete, se não estiver assinado ou se não cumprir o requisito de validade mínima do destino. As companhias aéreas verificam os documentos antes do embarque, e os agentes de fronteira verificam novamente na chegada. Uma data de validade em ordem, por si só, não basta.
 
-### O que é a regra dos seis meses de passaporte?
+### O que é a regra dos seis meses do passaporte?
 
-Muitos países exigem que o seu passaporte se mantenha válido durante pelo menos seis meses após a sua data de chegada planeada. Se o seu passaporte expira mais cedo do que isso — mesmo que seja tecnicamente válido — pode ser negado embarque ou entrada. Nem todos os países aplicam esta regra, e o limiar varia. Verifique os requisitos para o seu destino específico antes de viajar.
+Muitos países exigem que o seu passaporte se mantenha válido durante pelo menos seis meses após a data de chegada prevista. Se expirar antes disso — mesmo que ainda seja tecnicamente válido — podem recusar-lhe o embarque ou a entrada. Nem todos os países aplicam esta regra, e o limiar varia. Verifique os requisitos do seu destino concreto antes de viajar.
 
 ## Artigos Relacionados
 

@@ -122,6 +122,6 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/how-to-read-your-passport-d
 
 [护照规则6分钟阅读 · 2026年4月30日护照有效期多久才能旅行？护照有效期规则详解](https://traveldocumentvault.com/zh-Hans/blog/how-long-is-passport-valid-for-travel/)
 
-[护照规则8分钟阅读 · 2026年2月1日护照6个月有效期规则：哪些国家执行以及如何避免被卡在机场](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)
+[护照规则8分钟阅读 · 2026年2月1日护照6个月规则：有效期不足也能出行吗？](https://traveldocumentvault.com/zh-Hans/blog/passport-expiry-6-month-rule/)
 
 [护照损坏7 分钟阅读 · 2026年7月27日护照损坏还能出行吗？](https://traveldocumentvault.com/zh-Hans/blog/damaged-passport-travel/)

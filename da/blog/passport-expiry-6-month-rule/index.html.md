@@ -1,6 +1,6 @@
-# 6-måneders-reglen for pas: kan du rejse med mindre end 6 måneder tilbage?
+# 6-måneders-reglen for pas: kan du rejse med mindre tilbage?
 
-> Mange lande nægter indrejse, hvis passet har mindre end 6 måneder tilbage. Hvem håndhæver 6-måneders-reglen, og hvordan tjekker du dit pas.
+> Udløber dit pas inden et halvt år? Hvilke lande håndhæver 6-måneders-reglen, hvilke kun kræver gyldighed på rejsen, og hvordan du tjekker før du booker.
 
 Source: https://traveldocumentvault.com/da/blog/passport-expiry-6-month-rule/
 

@@ -135,7 +135,7 @@ Source: https://traveldocumentvault.com/ko/blog/what-documents-to-carry-when-tra
 
 [여행 서류7분 읽기출국 예정 증빙, 실제로 인정되는 것은 무엇일까](https://traveldocumentvault.com/ko/blog/proof-of-onward-travel/)
 
-[여행 서류6분 읽기국민 ID 카드로 하는 여행, 어디까지 통할까](https://traveldocumentvault.com/ko/blog/national-id-card-travel-europe/)
+[여행 서류6분 읽기EEA 국민 ID 카드란: 카드만으로 충분한 경우](https://traveldocumentvault.com/ko/blog/national-id-card-travel-europe/)
 
 [여권 규칙8분 읽기 · Feb 1, 20266개월 여권 규칙: 어느 국가가 적용하며 어떻게 절대 걸리지 않을지](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)
 

@@ -103,7 +103,7 @@ La durée de validité d'un visa de transit varie selon les pays. Certains sont 
 
 ## Articles connexes
 
-[Règles de passeport8 min de lecture · 1 février 2026La règle des 6 mois du passeport : peut-on voyager avec moins de 6 mois de validité ?](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)
+[Règles de passeport8 min de lecture · 1 février 2026Règle des 6 mois du passeport : peut-on voyager avec moins ?](https://traveldocumentvault.com/fr/blog/passport-expiry-6-month-rule/)
 
 [Organisation7 min de lecture · 5 février 2026Comment organiser les documents de voyage en famille (Avant votre prochain voyage)](https://traveldocumentvault.com/fr/blog/how-to-organise-family-travel-documents/)
 

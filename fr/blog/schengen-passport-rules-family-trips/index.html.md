@@ -93,7 +93,7 @@ Les compagnies aériennes vérifient chaque passeport par rapport à la base de 
 
 ## Articles connexes
 
-[Documents de voyage6 min de lectureCarte d'identité nationale en voyage : quand elle suffit](https://traveldocumentvault.com/fr/blog/national-id-card-travel-europe/)
+[Documents de voyage6 min de lectureCarte d'identité EEE : ce qu'elle est et quand elle suffit](https://traveldocumentvault.com/fr/blog/national-id-card-travel-europe/)
 
 [Voyage en famille8 min de lecture · août 2026Voyager avec un enfant sans ses deux parents : quels documents emporter](https://traveldocumentvault.com/fr/blog/travelling-child-without-both-parents/)
 

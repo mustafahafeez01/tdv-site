@@ -64,11 +64,27 @@ If your dates are within the rule, entry carries on as normal. If they show you'
 
 EES currently exempts children under 12 from fingerprint collection. When a parent or guardian brings a child to the border, the officer still captures a facial image for the EES record - the system needs to know that this child crossed and when. The officer skips the fingerprints. At 12 years old, the rules shift; from that point forward, a child's biometric registration includes fingerprints.
 
+## Checking Your EES Days Left Takes Your Passport and One Date
+
+The quickest official check is the EU's "Check how long you can stay" tool on the Travel to Europe website. It tells you whether your entry is allowed, shown as OK or not OK, and **how many days you're still allowed to stay** in the countries that use EES. Equipment at some external borders runs the same check, and passport control officers can tell you too.
+
+Have these to hand before you start:
+
+- the country using EES that you're in now, or plan to visit
+- your travel document type and number, plus the three-letter code of the country that issued it (CAN for Canada, for example)
+- one or two dates, depending on your question: your arrival date for a future trip, your departure date if you're already there, or both if you want to know what you'll have left once a planned trip ends
+
+Two limits are worth knowing before you trust the number. The EU states on the tool itself that the OK or not OK answer isn't a decision to grant or refuse entry, because the border officer still makes that call. The count also leaves out any stay that began before EES replaced passport stamps on 10 April, so if one of those trips still falls inside your last 180 days, add it yourself.
+
+For a trip you're still shaping, we'd pair the tool with the European Commission's short-stay calculator, which works from entry and exit dates you type in and has a Planning mode for future dates. The Commission calls it a helping tool only. Run the check once for each person travelling, using their own passport, since every traveller carries a separate count.
+
 ## The "Cannot Currently Be Calculated" Message
 
-Some travellers have reported an error at the border reading something like: "Your remaining authorised stay cannot currently be calculated due to temporary incomplete data in the entry/exit system." This message appears during check-in or at the kiosk when the officer tries to verify you. What it means: EES is running, but the system cannot yet find your previous record, or data from your last crossing hasn't synced across all Schengen borders.
+Some travellers have reported an error at the border reading something like: "Your remaining authorised stay cannot currently be calculated due to temporary incomplete data in the entry/exit system." The same wording is one of the answers the EU's "Check how long you can stay" tool can give, and the EU puts it down to temporary incomplete data in the Entry/Exit System. What it means: EES is running, but the system cannot yet find your previous record, or data from your last crossing hasn't synced across all Schengen borders.
 
 This is a transition-era message, most common when you've entered Schengen very recently and border systems are still synchronising data across member states. The message reports a problem with the data in the system rather than a problem with your stay, and it signals that the automatic check did not complete. What happens next is the border officer's decision, not something we can promise. If you see it, ask the officer directly whether your day count is a concern, and keep detailed records of every day you spend in the Schengen area yourself.
+
+If the message keeps coming back when you check online, or the number you get looks wrong, the EU's advice is to contact the authorities of the country where you last entered or left the Schengen area. If you haven't visited since EES replaced passport stamps, contact the country you plan to visit instead. The Travel to Europe website lists who to contact in each country.
 
 ## How to Track Your Window in Practice
 
@@ -103,6 +119,10 @@ EES records every entry and exit digitally, so even a short overstay is flagged 
 ### Can I check how many Schengen days I have left after entering?
 
 Yes. The EU's EES online tool, on the official Travel to Europe website, shows the number of days you're still allowed to stay, and some external border crossings offer the same check. To plan a future trip, use the EU's short-stay calculator with your full trip history, and keep your own record of entry and exit dates in case the system's data is incomplete.
+
+### Is there an official EES days calculator?
+
+Yes, the EU runs two. Its 'Check how long you can stay' tool, on the Travel to Europe website, uses your travel document details to show the days you're still allowed to stay, with an OK or not OK answer. The European Commission's short-stay calculator works from entry and exit dates you type in, and the Commission calls it a helping tool only. Neither answer is a decision on entry, because the border officer still decides.
 
 ### Do I need a visa or travel insurance because of EES?
 

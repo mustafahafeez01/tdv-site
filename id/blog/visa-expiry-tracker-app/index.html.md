@@ -106,7 +106,7 @@ Tergantung jenis visanya. Untuk visa jangka panjang yang memerlukan perpanjangan
 
 ## Artikel Terkait
 
-[Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Negara Mana yang Menerapkannya dan Cara Menghindari Masalah](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
+[Aturan Paspor8 menit bacaAturan Paspor 6 Bulan: Bisakah Bepergian dengan Sisa Kurang?](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
 
 [Perpanjangan8 menit bacaHow Long Does Passport Renewal Take? Current Times for US, UK, Australia, Canada & More](https://traveldocumentvault.com/id/blog/how-long-does-passport-renewal-take/)
 

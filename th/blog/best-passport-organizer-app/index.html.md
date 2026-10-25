@@ -134,7 +134,7 @@ Source: https://traveldocumentvault.com/th/blog/best-passport-organizer-app/
 
 ## บทความที่เกี่ยวข้อง
 
-[กฎเรื่องพาสปอร์ตอ่าน 8 นาทีกฎ 6 เดือนของพาสปอร์ต ประเทศไหนบังคับใช้ และจะไม่พลาดได้อย่างไร](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)
+[กฎเรื่องพาสปอร์ตอ่าน 8 นาทีกฎ 6 เดือนของพาสปอร์ต: เหลืออายุน้อยก็เดินทางได้ไหม](https://traveldocumentvault.com/th/blog/passport-expiry-6-month-rule/)
 
 [เดินทางกับครอบครัวอ่าน 9 นาทีวิธีจัดระเบียบเอกสารการเดินทางของครอบครัว (แบบไม่ปวดหัว)](https://traveldocumentvault.com/th/blog/how-to-organise-family-travel-documents/)
 

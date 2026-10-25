@@ -20,6 +20,14 @@ Ao planear uma viagem, muitos viajantes questionam-se se podem armazenar uma có
 
 A resposta curta: uma cópia digital é genuinamente útil, mas apenas em situações específicas.
 
+## Uma Cópia Digital É Uma Fotografia do Seu Passaporte, Não Um Passaporte Digital
+
+Uma cópia digital de um passaporte é **uma digitalização ou fotografia de telemóvel da sua página de identificação**, a página com a sua fotografia, nome, data de nascimento, número de passaporte e data de validade. Regista os seus dados sem substituir o documento. O governo canadiano afirma-o claramente nos seus conselhos de viagem: as cópias podem ajudar se perder ou lhe roubarem os documentos, mas não podem ser usadas como identificação, e ainda assim precisa de pedir um novo passaporte se perder o seu.
+
+Fazer uma demora apenas alguns minutos. Abra o passaporte numa superfície plana com boa luz, fotografe ou digitalize a página de identificação de forma a que toda a página fique nítida, e depois aumente o zoom para verificar se consegue ler todos os detalhes. Faça o mesmo para qualquer visto com o qual vá viajar. O Canadá sugere deixar cópias com alguém de confiança em casa, e a lista de verificação de viagens ao estrangeiro do Reino Unido recomenda uma cópia de segurança dos dados do seu passaporte que partilhe com a família ou guarde numa plataforma segura de armazenamento de dados.
+
+Uma cópia também não é o mesmo que as identidades digitais que alguns governos já aceitam. Nos Estados Unidos, a Transportation Security Administration permite que titulares de passaporte norte-americano configurem um passe de identidade na Google Wallet para os seus controlos aeroportuários, mas continua a afirmar que todos os passageiros devem trazer uma identificação física aceitável. Uma fotografia no seu rolo de câmara é uma cópia de segurança dos seus dados, e é exatamente assim que deve ser tratada.
+
 ## Onde as Cópias Digitais de Passaporte São Aceites
 
 ### Muitos Hotéis Aceitam Uma Cópia, mas Em Partes da Europa Costumam Querer o Original
@@ -54,15 +62,15 @@ Uma cópia digital não é um substituto para o seu passaporte físico na imigra
 | **Reserva de aluguel de automóvel** | Geralmente sim | O original ainda é obrigatório na recolha do veículo |
 | **Assistência de emergência da embaixada** | Sim (acelera a substituição) | Não pode substituir o passaporte em si, mas ajuda a emitir documento de emergência |
 
-## Candidaturas de Visto: As Regras São Específicas
+## Pedidos de visto: as regras são específicas
 
-As regras para candidaturas de visto são mais flexíveis do que as fronteiras, mas ainda específicas. A maioria dos países aceita tanto o passaporte original como fotocópias certificadas, embora os requisitos variem significativamente por destino e embaixada.
+As regras dos pedidos de visto são mais flexíveis do que as das fronteiras, mas continuam a ser específicas. A maioria dos países aceita o passaporte original ou fotocópias certificadas, embora os requisitos variem bastante de destino para destino e de embaixada para embaixada.
 
 O que isto significa na prática
 
-Está a candidatar-se a um visto francês. O site oficial diz "cópia certificada". Isto significa uma fotocópia certificada de um notário público ou oficina governamental. Não uma foto casual de telemóvel. Submeter o formato errado leva à rejeição e atrasos de reapresentação. Contacte a embaixada para confirmar formatos aceitáveis antes de gastar tempo na candidatura.
+Está a pedir um visto francês. O site oficial diz «cópia certificada». Isso significa uma fotocópia autenticada por notário ou numa repartição pública, não uma fotografia tirada com o telemóvel. Entregar o formato errado leva à recusa e ao atraso de ter de pedir outra vez. Contacte a embaixada para confirmar que formatos aceita antes de perder tempo com o pedido.
 
-Algumas embaixadas aceitam digitalizações notarizadas submetidas eletronicamente, enquanto outras exigem cópias certificadas físicas ou o passaporte original pessoalmente. Os requisitos variam tão dramaticamente que realmente precisa de consultar o site oficial do governo do país a que se está a candidatar.
+Algumas embaixadas aceitam digitalizações autenticadas por notário e submetidas por via eletrónica, enquanto outras exigem cópias certificadas em papel ou o passaporte original presencialmente. Os requisitos variam tanto que vale a pena consultar o site oficial do governo do país ao qual está a pedir o visto.
 
 ## Como Armazenar Cópias Digitais de Forma Segura
 
@@ -85,6 +93,10 @@ Se ainda não fez uma, digitalize hoje a página da fotografia do seu passaporte
 
 ## Perguntas Frequentes
 
+### O que é uma cópia digital de um passaporte?
+
+Uma cópia digital é uma digitalização ou fotografia de telemóvel da página de identificação do seu passaporte, a página com a sua fotografia e os seus dados pessoais. Ajuda em reservas e na substituição de um passaporte perdido, mas não é um documento de viagem: o governo canadiano indica que as cópias não podem ser usadas como identificação. É também diferente de uma identidade digital apoiada por um governo, e mesmo nos Estados Unidos, onde a TSA aceita identidades digitais nos seus controlos, os passageiros devem continuar a trazer uma identificação física aceitável.
+
 ### Uma cópia digital do meu passaporte é aceite no check-in do hotel?
 
 Sim, a maioria dos hotéis em todo o mundo aceita cópias digitais de passaporte no check-in: um PDF no seu telemóvel, por email, ou impresso. Alguns estabelecimentos menores podem ainda exigir um passaporte físico. Contacte sempre o seu hotel com antecedência para confirmar.
@@ -93,9 +105,9 @@ Sim, a maioria dos hotéis em todo o mundo aceita cópias digitais de passaporte
 
 Não. As companhias aéreas exigem o passaporte original físico para embarque. Uma cópia digital não é aceite pela segurança nem pela equipa de portão. Tem de levar o seu passaporte original ao aeroporto para qualquer voo internacional.
 
-### As cópias digitais de passaporte são válidas para candidaturas de visto?
+### As cópias digitais de passaporte são válidas para pedidos de visto?
 
-A maioria das candidaturas de visto exigem fotocópias certificadas ou digitalizações autenticadas. Não fotos casuais de telemóvel. Os requisitos variam por país e embaixada. Consulte o site oficial do governo do país onde está a candidatar-se antes de submeter qualquer coisa.
+A maioria dos pedidos de visto exige fotocópias certificadas ou digitalizações autenticadas, não fotografias tiradas com o telemóvel. Os requisitos variam de país para país e de embaixada para embaixada, por isso consulte o site oficial do governo do país ao qual está a pedir o visto antes de submeter qualquer coisa.
 
 ### Uma cópia digital do passaporte ajuda se o meu passaporte for perdido ou roubado no estrangeiro?
 

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/it/blog/
 
 ##
 
+[Regole sul passaportoQuanto dura un ESTA? Cosa lo fa scadere in anticipoUn ESTA dura due anni o fino alla scadenza del passaporto, a seconda di cosa avviene prima. Cosa lo accorcia, chi deve averne uno e la nuova tariffa.25 ottobre 20266 min di lettura](https://traveldocumentvault.com/it/blog/how-long-is-esta-valid/)
+
+##
+
 [RinnovoPuoi rinnovare il passaporto prima che scada?Sì, e non c'è un periodo di attesa ufficiale. Cosa costa in mesi non usati rinnovare in anticipo, perché il vecchio passaporto smette di funzionare, e cosa cambia un nuovo numero.19 ottobre 20267 min di lettura](https://traveldocumentvault.com/it/blog/renew-passport-before-expiry/)
 
 ##
@@ -20,7 +24,7 @@ Source: https://traveldocumentvault.com/it/blog/
 
 ##
 
-[Documenti di ViaggioCarta d'identità per viaggiare: quando bastaAll'interno dell'UE e del SEE, una carta d'identità valida è di norma un documento di viaggio a tutti gli effetti. Quando la carta basta, quando serve il passaporto, e perché i due documenti scadono secondo orologi diversi.5 ottobre 20266 min di lettura](https://traveldocumentvault.com/it/blog/national-id-card-travel-europe/)
+[Documenti di ViaggioCarta d'Identità SEE: Cos'è e Quando BastaCosa conta come carta d'identità SEE, dove sostituisce il passaporto in Europa, e quando avrai comunque bisogno del passaporto con te.5 ottobre 20266 min di lettura](https://traveldocumentvault.com/it/blog/national-id-card-travel-europe/)
 
 ##
 
@@ -148,7 +152,7 @@ Source: https://traveldocumentvault.com/it/blog/
 
 ##
 
-[Regole sul passaportoLa Regola dei 6 Mesi di Validità del Passaporto: Quali Paesi la Applicano e Come Non Farsi Sorprendere Il passaporto potrebbe essere valido, eppure venire respinti. Scopri quali paesi applicano la regola dei 6 mesi, come le compagnie aeree la verificano e come assicurarsi che tutta la famiglia sia in regola prima di prenotare. 1 feb 20267 min di lettura](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/)
+[Regole sul passaportoRegola dei 6 Mesi del Passaporto: Si Può Viaggiare con Meno? Passaporto in scadenza entro 6 mesi? Quali paesi applicano la regola, quali chiedono solo validità per il soggiorno e come controllare prima di prenotare. 1 feb 20267 min di lettura](https://traveldocumentvault.com/it/blog/passport-expiry-6-month-rule/)
 
 ## Tenga insieme i dati del passaporto
 

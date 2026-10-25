@@ -1,6 +1,6 @@
-# 국민 ID 카드로 하는 여행, 어디까지 통할까
+# EEA 국민 ID 카드란: 카드만으로 충분한 경우
 
-> EU 회원국의 국민 ID 카드는 유럽 역내 여행에 사용할 수 있지만 어디서나 통하는 것은 아닙니다. ID 카드로 충분한 경우와 여권이 필요한 경우를 정리했습니다.
+> EEA 국민 ID 카드로 인정되는 것은 무엇인지, 유럽 전역에서 여권 대신 쓸 수 있는 경우, 그리고 그래도 여권을 챙겨야 하는 경우를 정리했습니다.
 
 Source: https://traveldocumentvault.com/ko/blog/national-id-card-travel-europe/
 

@@ -26,6 +26,18 @@ Et par manglende dokumenter er ikke bare ubelejligt her. De afgør, om behandlin
 
 Rejseforsikring virker kun, hvis du kan få adgang til den, når du har brug for det. De fleste mennesker opbevarer det i email og kan ikke finde det, når krisen rammer – normalt under stress, tidspres eller en medicinsk nødsituation.
 
+## Kan du ikke finde dine forsikringsdokumenter? Start hos den, der solgte dig forsikringen
+
+Dine forsikringsdokumenter ligger hos den, der solgte dig forsikringen, så start der. Søg i din indbakke efter forsikringsselskabets navn, eller mægleren eller sammenligningssiden, du købte den gennem, sammen med ordet "police". Hvis du oprettede en konto, da du købte den, skal du også logge ind på forsikringsselskabets hjemmeside eller app. Du leder efter tre ting:
+
+- **Policevilkårene:** de fulde betingelser, inklusive undtagelser og hvordan du anmelder en skade
+- **Oversigten eller certifikatet:** dit navn, policenummer, rejsedatoer og dækningsniveau
+- **Nummeret til akut hjælp døgnet rundt**, det du ringer til fra et hospital eller en politistation i udlandet
+
+Kan du ikke huske overhovedet at have købt en police, så tjek din bankkonto. Det britiske finansombudsmandsinstitut (Financial Ombudsman Service) beskriver en pakkebankkonto som en almindelig konto, der opkræver et månedligt gebyr mod ekstra fordele, heriblandt rejseforsikring. I så fald er det banken, ikke et forsikringsselskab, der har dine dokumenter, så dens app, hjemmeside eller kundeservice er, hvor du skal kigge.
+
+Når du har dem, råder det britiske udenrigsministerium (Foreign, Commonwealth and Development Office) dig til at tage policeoplysningerne med dig, inklusive policenummeret og forsikringsselskabets akutnummer. Det foreslår også, at du deler dem med dem, du rejser med, og familien hjemme. Finder du stadig ingenting, så ring til forsikringsselskabet, eller banken ved pakkeforsikring, og bed dem sende dokumenterne igen, før du flyver, i stedet for efter noget er gået skævt.
+
 ## De fem dokumenter, du skal gemme før du flyver
 
 Din rejseforsikringspolice er typisk en PDF. Den ene fil indeholder alt, hvad du har brug for, men du bør trække disse fem ting ud og gemme dem hver for sig, så du kan finde dem øjeblikkeligt:

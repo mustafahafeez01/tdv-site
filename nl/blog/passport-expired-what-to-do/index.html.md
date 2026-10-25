@@ -52,6 +52,24 @@ Dit scenario komt vaker voor dan je zou denken, en de stappen zijn niet vanzelfs
 
 **Stap 6: neem contact op met je reisverzekeraar.** Een paspoort dat op het vliegveld verlopen blijkt te zijn, kan afhankelijk van je polis gedekt zijn door je reisverzekering. Bel om dit te controleren in plaats van iets aan te nemen.
 
+## Een verlopen paspoort kan meestal verlengd worden, niet helemaal opnieuw aangevraagd
+
+Verlopen betekent zelden dat je opnieuw moet beginnen, want in het VK, de VS en Canada kun je een verlopen volwassenenpaspoort meestal verlengen via het normale verlengingstraject. In de VS en Canada is het meestal hoe oud je was toen het paspoort werd afgegeven en hoe lang dat geleden is, wat een verlenging kan blokkeren.
+
+### VK: een verlopen paspoort doorloopt de normale verlenging
+
+GOV.UK zegt dat je moet verlengen voordat je kunt reizen als je paspoort is verlopen of niet genoeg geldigheid meer heeft voor je bestemming. Een verlopen paspoort doorloopt de gewone verlenging, online of met een papieren formulier, en je hebt je oude paspoort nodig om dat te doen. Paspoorten voor volwassenen zijn voor mensen van 16 jaar en ouder, en kinderpaspoorten hebben hun eigen proces.
+
+### VS: verlenging werkt binnen 15 jaar na afgifte
+
+Volgens USA.gov kun je een verlopen paspoort alleen verlengen als het **binnen de laatste 15 jaar is afgegeven**. Je kunt ook geen paspoort verlengen dat vóór je 16e verjaardag is afgegeven, dat beschadigd, verloren of gestolen is, of dat op een vorige naam staat zonder een juridisch document dat de naamswijziging bewijst. Is een van deze van toepassing, dan vraag je persoonlijk een nieuw paspoort aan met formulier DS-11.
+
+### Canada: een verlopen paspoort kan online worden verlengd
+
+De Canadese overheid laat je verlengen als je laatste paspoort een volwassenenpaspoort was, afgegeven toen je minstens 16 jaar was. Het moet ook binnen 15 jaar vóór je aanvraagdatum zijn afgegeven en 5 of 10 jaar geldig zijn. De naam, geboortedatum en geboorteplaats erop moeten overeenkomen met wat je op het nieuwe wilt. Je kunt online verlengen als je paspoort binnen zes maanden verloopt of al verlopen is, mits je woon- en postadres in Canada liggen. Kinderpaspoorten kunnen niet worden verlengd, dus een kind heeft een nieuwe aanvraag nodig.
+
+Is je paspoort al jaren verlopen, kijk dan eerst naar de afgiftedatum, want de grens van 15 jaar in de VS en Canada wordt geteld vanaf de afgifte, niet vanaf het verlopen. Controleer daarna de actuele doorlooptijden voordat je boekt, wat onze gids over [hoe lang een paspoortverlenging duurt](https://traveldocumentvault.com/nl/blog/how-long-does-passport-renewal-take/) land voor land behandelt.
+
 ## Andere paspoortproblemen die reizigers geweigerd doen worden
 
 Verval is de meest voorkomende reden waarom een paspoort op het vliegveld faalt, maar andere problemen leiden tot hetzelfde resultaat.

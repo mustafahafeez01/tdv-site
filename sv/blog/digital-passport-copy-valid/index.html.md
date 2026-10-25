@@ -20,6 +20,14 @@ Inför en resa undrar många resenärer om de kan spara en digital kopia av pass
 
 Det korta svaret: en digital kopia är genuint användbar, men bara i specifika situationer.
 
+## En digital kopia är ett foto av ditt pass, inte ett digitalt pass
+
+En digital kopia av ett pass är **en skanning eller ett mobilfoto av dess identitetssida**, sidan med ditt foto, namn, födelsedatum, passnummer och utgångsdatum. Den registrerar dina uppgifter utan att ersätta handlingen. Kanadas regering säger det rakt ut i sina reseråd: kopior kan hjälpa om dina handlingar tappas bort eller stjäls, men de kan inte användas som identitetsbevis, och du måste ändå ansöka om ett nytt pass om du tappar ditt.
+
+Att göra en tar ett par minuter. Lägg passet plant i bra ljus, fotografera eller skanna identitetssidan så att hela sidan är skarp, zooma sedan in och kontrollera att du kan läsa varje detalj. Gör samma sak för alla viseringar du reser på. Kanada föreslår att du lämnar kopior hemma hos någon du litar på, och Storbritanniens checklista för utlandsresor rekommenderar en backup av dina passuppgifter som du delar med familjen eller förvarar på en säker datalagringsplattform.
+
+En kopia är heller inte samma sak som de digitala ID:n som vissa myndigheter numera accepterar. I USA låter transportsäkerhetsmyndigheten TSA amerikanska passinnehavare skapa ett ID-pass i Google Wallet för sina säkerhetskontroller på flygplatser, men den säger ändå att alla resenärer måste bära ett godkänt fysiskt ID. Ett foto i kamerarullen är en backup av dina uppgifter, och det är precis så du bör behandla det.
+
 ## Var digitala passkopior accepteras
 
 ### Många hotell godtar en kopia, men i delar av Europa vill man oftast se originalet
@@ -84,6 +92,10 @@ Har du inte gjort någon kopia ännu, skanna passets fotosida redan i dag, innan
 **Innan du förlitar dig på det här:** det här är en blogg, inte en officiell källa. Regler och detaljer ändras, och din situation kan se annorlunda ut. Vi kontrollerar det vi publicerar, och vi kan ändå ha fel eller vara inaktuella. Om något här har betydelse för dina planer, bekräfta det med ansvarig myndighet innan du gör något.
 
 ## Vanliga frågor
+
+### Vad är en digital kopia av ett pass?
+
+En digital kopia är en skanning eller ett mobilfoto av passets identitetssida, sidan med foto och personuppgifter. Den hjälper vid bokningar och vid ersättning av ett borttappat pass, men den är ingen resehandling: Kanadas regering säger att kopior inte kan användas som identitetsbevis. Den skiljer sig också från ett myndighetsstött digitalt ID, och även i USA, där TSA accepterar digitala ID:n vid sina säkerhetskontroller, måste resenärer fortfarande bära ett godkänt fysiskt ID.
 
 ### Accepteras en digital kopia av mitt pass vid incheckning på hotell?
 

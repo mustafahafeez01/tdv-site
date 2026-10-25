@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
+[Aturan PasporBerapa Lama ESTA Berlaku?ESTA berlaku dua tahun atau sampai paspor kedaluwarsa. Apa yang mengakhirinya lebih awal, siapa yang perlu ESTA sendiri, dan soal biaya barunya.25 Oktober 20266 menit baca](https://traveldocumentvault.com/id/blog/how-long-is-esta-valid/)
+
+##
+
 [PembaruanBisakah Anda Memperpanjang Paspor Sebelum Kedaluwarsa?Ya, dan tidak ada masa tunggu resmi. Berapa biaya yang hilang dari bulan yang belum terpakai jika Anda memperpanjang lebih awal, mengapa paspor lama berhenti berfungsi, dan apa yang berubah dengan nomor baru.19 Oktober 20267 menit baca](https://traveldocumentvault.com/id/blog/renew-passport-before-expiry/)
 
 ##
@@ -20,7 +24,7 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
-[Dokumen PerjalananKartu Identitas Nasional untuk Bepergian: Kapan Sudah CukupDi dalam UE dan EEA, kartu identitas nasional yang masih berlaku biasanya merupakan dokumen perjalanan yang lengkap. Kapan kartu itu cukup, kapan Anda perlu membawa paspor, dan mengapa keduanya berjalan pada siklus kedaluwarsa yang berbeda.5 Oktober 20266 menit baca](https://traveldocumentvault.com/id/blog/national-id-card-travel-europe/)
+[Dokumen PerjalananKartu Identitas Nasional EEA: Apa Itu dan Kapan Sudah CukupApa yang termasuk kartu identitas nasional EEA, di mana kartu ini bisa dipakai ganti paspor di Eropa, dan kapan Anda tetap harus membawa paspor.5 Oktober 20266 menit baca](https://traveldocumentvault.com/id/blog/national-id-card-travel-europe/)
 
 ##
 
@@ -148,7 +152,7 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
-[Aturan Paspor Aturan Paspor 6 Bulan: Negara Mana yang Menerapkannya dan Cara Menghindari Masalah Paspor Anda bisa saja masih berlaku, tapi tetap bisa ditolak di gerbang. Pelajari negara mana yang menerapkan aturan 6 bulan, bagaimana maskapai memeriksanya, dan cara memastikan seluruh keluarga Anda aman sebelum memesan tiket. Feb 1, 20267 mnt baca](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
+[Aturan Paspor Aturan Paspor 6 Bulan: Bisakah Bepergian dengan Sisa Kurang? Paspor tersisa kurang dari enam bulan? Negara yang menerapkan aturan 6 bulan, yang cukup berlaku selama kunjungan, dan cara memeriksanya sebelum memesan. Feb 1, 20267 mnt baca](https://traveldocumentvault.com/id/blog/passport-expiry-6-month-rule/)
 
 ## Simpan Detail Paspor Anda Bersama
 

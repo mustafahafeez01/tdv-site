@@ -26,6 +26,18 @@ Pochi documenti mancanti non sono solo scomodi qui. Decidono se il trattamento i
 
 L'assicurazione di viaggio funziona solo se riesci ad accedervi quando ne hai bisogno. La maggior parte delle persone la archivia in email e non riesce a trovarla quando scoppia la crisi, di solito durante stress, pressione oraria o un'emergenza medica.
 
+## Non trovi i documenti della polizza? Parti da chi te l'ha venduta
+
+I documenti della tua polizza sono nelle mani di chi ti ha venduto la copertura, quindi parti da lì. Cerca nella tua casella di posta il nome della compagnia, del broker o del comparatore tramite cui hai acquistato, insieme alla parola «polizza». Se hai creato un account all'acquisto, accedi anche al sito o all'app dell'assicuratore. Stai cercando tre cose:
+
+- **Le condizioni di polizza:** i termini completi, incluse le esclusioni e come fare un reclamo
+- **Il certificato o l'appendice:** il tuo nome, il numero di polizza, le date di viaggio e il livello di copertura
+- **Il numero di assistenza di emergenza 24 ore**, quello da chiamare da un ospedale o un commissariato all'estero
+
+Se non ricordi nemmeno di aver acquistato una polizza, controlla il tuo conto bancario. Il Financial Ombudsman Service descrive un conto bancario con pacchetto come un conto corrente che applica una commissione mensile in cambio di vantaggi extra, tra cui l'assicurazione di viaggio. In questo caso è la banca, non un assicuratore di viaggio, a detenere i tuoi documenti, quindi è nella sua app, sito o numero di assistenza che devi guardare.
+
+Una volta ottenuti, il Foreign, Commonwealth and Development Office del Regno Unito consiglia di portare con sé i dati della polizza, incluso il numero di polizza e il numero di assistenza di emergenza dell'assicuratore. Suggerisce anche di condividerli con chi viaggia con te e con la famiglia a casa. Se ancora non trovi nulla, chiama l'assicuratore, o la banca nel caso di un conto con pacchetto, e chiedi di farti rinviare i documenti prima di volare, non dopo che qualcosa va storto.
+
 ## I Cinque Documenti Che Devi Salvare Prima di Partire
 
 La tua polizza di assicurazione di viaggio è in genere un PDF. Quel singolo file contiene tutto ciò di cui hai bisogno, ma dovresti estrarre e salvare queste cinque cose separatamente così puoi trovarle istantaneamente:
@@ -146,7 +158,7 @@ Le linee di emergenza dell'assicurazione di viaggio in genere accettano le chiam
 
 ### Cosa devo fare se perdo la mia polizza di assicurazione durante il viaggio?
 
-Se hai il tuo numero di polizza e puoi chiamare la linea di emergenza della tua compagnia di assicurazioni, è tutto ciò di cui hai bisogno. Fornisci il tuo numero di polizza e i tuoi dati personali per telefono e loro confermeranno la tua copertura. Se hai salvato backup (foto digitali, copie cloud o appunti scritti), usali. La maggior parte degli assicuratori mantiene i registri e può rinviare la tua polizza immediatamente.
+Se hai il numero di polizza e puoi chiamare la linea di emergenza della tua compagnia, è tutto ciò che ti serve. Comunica per telefono il numero di polizza e i tuoi dati personali e ti confermeranno la copertura. Se hai salvato delle copie (foto digitali, copie nel cloud o appunti scritti), usa quelle. La maggior parte delle compagnie conserva i registri e può inviarti di nuovo la polizza subito.
 
 ### Quali sezioni di una polizza di assicurazione di viaggio devo effettivamente leggere?
 

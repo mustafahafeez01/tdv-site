@@ -151,7 +151,7 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/visa-vs-passport/
 
 ## 相关文章
 
-[旅行证件6 分钟阅读国民身份证能当旅行证件吗？什么时候够用](https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-europe/)
+[旅行证件6 分钟阅读欧洲经济区国民身份证：它是什么，什么时候够用](https://traveldocumentvault.com/zh-Hans/blog/national-id-card-travel-europe/)
 
 [护照规则6 分钟阅读护照过期：该怎么办以及如何续签](https://traveldocumentvault.com/zh-Hans/blog/passport-expired-what-to-do/)
 

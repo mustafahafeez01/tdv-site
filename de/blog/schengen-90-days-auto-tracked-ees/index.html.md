@@ -62,11 +62,27 @@ Liegen Ihre Daten innerhalb der Regel, läuft die Einreise wie gewohnt ab. Zeige
 
 Das EES nimmt Kinder unter 12 Jahren derzeit von der Fingerabdruckerfassung aus. Wenn ein Elternteil oder Erziehungsberechtigter ein Kind zur Grenze bringt, erfasst der Beamte trotzdem ein Gesichtsbild für die EES-Akte - das System muss wissen, dass dieses Kind die Grenze überquert hat und wann. Der Beamte lässt die Fingerabdrücke aus. Mit 12 Jahren ändern sich die Regeln; ab diesem Zeitpunkt umfasst die biometrische Registrierung eines Kindes auch Fingerabdrücke.
 
-## Die Meldung "kann derzeit nicht berechnet werden"
+## EES-Resttage prüfen: Reisepass und ein Datum genügen
 
-Manche Reisende berichten von einer Fehlermeldung an der Grenze, die etwa lautet: "Ihr verbleibender genehmigter Aufenthalt kann derzeit aufgrund vorübergehend unvollständiger Daten im Ein-/Ausreisesystem nicht berechnet werden." Diese Meldung erscheint beim Check-in oder am Kiosk, wenn der Beamte versucht, Sie zu verifizieren. Was das bedeutet: Das EES läuft, aber das System kann Ihre vorherige Akte noch nicht finden, oder die Daten Ihres letzten Grenzübertritts wurden noch nicht über alle Schengen-Grenzen hinweg synchronisiert.
+Die schnellste offizielle Prüfung ist das Tool „Wie lange dürfen Sie bleiben“ auf der Website Travel to Europe. Es zeigt Ihnen, ob Ihre Einreise erlaubt ist, mit der Antwort OK oder NOT OK, und **wie viele Tage Sie noch bleiben dürfen** in den Ländern, die das EES nutzen. An manchen Außengrenzübergängen führt die gleiche Prüfung ein Gerät durch, und auch Grenzbeamte können es Ihnen sagen.
+
+Halten Sie Folgendes bereit, bevor Sie beginnen:
+
+- das Land, das EES nutzt, in dem Sie sich gerade befinden oder das Sie besuchen möchten
+- Art und Nummer Ihres Reisedokuments sowie den Dreibuchstabencode des ausstellenden Landes (CAN für Kanada, zum Beispiel)
+- ein oder zwei Daten, je nach Ihrer Frage: Ihr Ankunftsdatum für eine künftige Reise, Ihr Abreisedatum, falls Sie schon dort sind, oder beides, wenn Sie wissen möchten, was nach einer geplanten Reise übrig bleibt
+
+Zwei Grenzen sollten Sie kennen, bevor Sie der Zahl vertrauen. Die EU erklärt im Tool selbst, dass die Antwort OK oder NOT OK keine Entscheidung über die Gewährung oder Verweigerung der Einreise ist, denn diese Entscheidung trifft weiterhin der Grenzbeamte. Die Zählung lässt außerdem jeden Aufenthalt aus, der begann, bevor das EES am 10. April die Passstempel ersetzte - fällt eine dieser Reisen noch in Ihre letzten 180 Tage, müssen Sie sie selbst hinzurechnen.
+
+Für eine Reise, die Sie noch planen, empfehlen wir, das Tool mit dem Kurzaufenthaltsrechner der Europäischen Kommission zu kombinieren, der mit von Ihnen eingegebenen Ein- und Ausreisedaten arbeitet und einen Planungsmodus für zukünftige Daten bietet. Die Kommission bezeichnet ihn ausdrücklich nur als Hilfsmittel. Führen Sie die Prüfung für jede reisende Person einzeln mit ihrem eigenen Reisepass durch, denn jeder Reisende hat eine eigene Zählung.
+
+## Die Meldung „kann derzeit nicht berechnet werden“
+
+Manche Reisende berichten von einer Fehlermeldung an der Grenze, die etwa lautet: „Ihr verbleibender genehmigter Aufenthalt kann derzeit aufgrund vorübergehend unvollständiger Daten im Ein-/Ausreisesystem nicht berechnet werden.“ Genau dieser Wortlaut ist eine der Antworten, die das EU-Tool „Wie lange dürfen Sie bleiben“ geben kann, und die EU führt das auf vorübergehend unvollständige Daten im Ein-/Ausreisesystem zurück. Was das bedeutet: Das EES läuft, aber das System kann Ihre vorherige Akte noch nicht finden, oder die Daten Ihres letzten Grenzübertritts wurden noch nicht über alle Schengen-Grenzen hinweg synchronisiert.
 
 Dies ist eine Meldung der Übergangsphase, am häufigsten, wenn Sie erst sehr kürzlich in den Schengen-Raum eingereist sind und die Grenzsysteme die Daten zwischen den Mitgliedstaaten noch synchronisieren. Die Meldung weist auf ein Datenproblem im System hin, nicht auf ein Problem mit Ihrem Aufenthalt, und zeigt an, dass die automatische Prüfung nicht abgeschlossen wurde. Was als Nächstes geschieht, liegt in der Entscheidung des Grenzbeamten - das können wir nicht versprechen. Wenn Sie diese Meldung sehen, fragen Sie den Beamten direkt, ob Ihre Tagezählung ein Problem darstellt, und führen Sie selbst genaue Aufzeichnungen über jeden Tag, den Sie im Schengen-Raum verbringen.
+
+Falls die Meldung bei einer Online-Prüfung immer wieder erscheint, oder die angezeigte Zahl falsch wirkt, rät die EU, sich an die Behörden des Landes zu wenden, in dem Sie zuletzt in den Schengen-Raum eingereist oder aus ihm ausgereist sind. Wenn Sie den Schengen-Raum seit der Ablösung der Passstempel durch das EES nicht besucht haben, wenden Sie sich stattdessen an das Land, das Sie besuchen möchten. Die Website Travel to Europe listet für jedes Land die passende Kontaktstelle auf.
 
 ## Ihr Fenster in der Praxis nachverfolgen
 
@@ -99,6 +115,10 @@ Das EES erfasst jeden Ein- und Ausreisedatensatz digital, sodass selbst eine kur
 ### Kann ich nach der Einreise überprüfen, wie viele Schengen-Tage mir noch bleiben?
 
 Ja. Das EES-Online-Tool der EU, auf der offiziellen Website Travel to Europe, zeigt an, wie viele Tage Sie noch bleiben dürfen, und an manchen Außengrenzübergängen wird dieselbe Prüfung angeboten. Um eine zukünftige Reise zu planen, nutzen Sie den Kurzaufenthaltsrechner der EU mit Ihrer vollständigen Reisegeschichte, und führen Sie selbst Aufzeichnungen über Ihre Ein- und Ausreisedaten, falls die Daten des Systems unvollständig sind.
+
+### Gibt es einen offiziellen EES-Tagesrechner?
+
+Ja, die EU betreibt zwei. Ihr Tool „Wie lange dürfen Sie bleiben“ auf der Website Travel to Europe nutzt die Angaben Ihres Reisedokuments, um die Tage zu zeigen, die Sie noch bleiben dürfen, mit der Antwort OK oder NOT OK. Der Kurzaufenthaltsrechner der Europäischen Kommission arbeitet mit von Ihnen eingegebenen Ein- und Ausreisedaten, und die Kommission bezeichnet ihn nur als Hilfsmittel. Keine der beiden Antworten ist eine Entscheidung über die Einreise, denn diese trifft weiterhin der Grenzbeamte.
 
 ### Benötige ich wegen EES ein Visum oder eine Reiseversicherung?
 

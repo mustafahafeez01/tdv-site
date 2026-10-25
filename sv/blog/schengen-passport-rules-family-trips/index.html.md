@@ -93,7 +93,7 @@ Flygbolag kontrollerar varje pass mot IATA:s Timatic-databas, som tillämpar des
 
 ## Relaterade artiklar
 
-[Resehandlingar6 min läsningNationellt ID-kort för resor: när det räcker](https://traveldocumentvault.com/sv/blog/national-id-card-travel-europe/)
+[Resehandlingar6 min läsningNationellt EES-ID-kort: vad det är och när det räcker](https://traveldocumentvault.com/sv/blog/national-id-card-travel-europe/)
 
 [Familjeresor8 min läsning · augusti 2026Att Resa med Barn Utan Båda Föräldrarna: Vad Du Ska Ta Med](https://traveldocumentvault.com/sv/blog/travelling-child-without-both-parents/)
 

@@ -20,6 +20,14 @@ Bij het plannen van een reis vragen veel reizigers zich af of ze een digitale ko
 
 Het korte antwoord: een digitale kopie is echt nuttig, maar alleen in specifieke situaties.
 
+## Een digitale kopie is een foto van je paspoort, geen digitaal paspoort
+
+Een digitale kopie van een paspoort is **een scan of telefoonfoto van de identiteitspagina**, de pagina met je foto, naam, geboortedatum, paspoortnummer en vervaldatum. Hij legt je gegevens vast zonder het document te vervangen. De Canadese overheid zegt het onomwonden in haar reisadvies: kopieën kunnen helpen als je documenten verloren of gestolen zijn, maar ze kunnen niet als identiteitsbewijs dienen, en je moet nog steeds een nieuw paspoort aanvragen als je het jouwe verliest.
+
+Een kopie maken duurt een paar minuten. Leg het paspoort vlak neer in goed licht, fotografeer of scan de identiteitspagina zodat de hele pagina scherp is, zoom dan in en controleer of je elk detail kunt lezen. Doe hetzelfde voor elk visum waarmee je reist. Canada raadt aan kopieën thuis achter te laten bij iemand die je vertrouwt, en de checklist voor buitenlandse reizen van het Verenigd Koninkrijk raadt een backup van je paspoortgegevens aan die je deelt met familie of bewaart op een veilig dataopslagplatform.
+
+Een kopie is ook niet hetzelfde als de digitale ID's die sommige overheden nu accepteren. In de VS laat de Transportation Security Administration Amerikaanse paspoorthouders een ID-pas instellen in Google Wallet voor haar luchthavencontroles, maar ze stelt nog steeds dat alle passagiers een geldig fysiek ID moeten dragen. Een foto in je camerarol is een backup van je gegevens, en dat is precies hoe je die moet behandelen.
+
 ## Waar digitale paspoortkopieën worden geaccepteerd
 
 ### Veel hotels accepteren een kopie, maar in delen van Europa willen ze meestal het origineel zien
@@ -84,6 +92,10 @@ Heb je er nog geen gemaakt, scan dan vandaag de fotopagina van je paspoort, voor
 **Voordat je hierop vertrouwt:** dit is een blog, geen officiële bron. Regels en details veranderen, en jouw situatie kan anders zijn. We controleren wat we publiceren, en we kunnen er alsnog naast zitten of verouderd zijn. Als iets hier belangrijk is voor je plannen, laat het dan bevestigen door de instantie die erover gaat voordat je iets doet.
 
 ## Veelgestelde vragen
+
+### Wat is een digitale kopie van een paspoort?
+
+Een digitale kopie is een scan of telefoonfoto van de identiteitspagina van je paspoort, de pagina met foto en persoonlijke gegevens. Hij helpt bij boekingen en bij het vervangen van een verloren paspoort, maar is geen reisdocument: de Canadese overheid zegt dat kopieën niet als identiteitsbewijs kunnen dienen. Hij verschilt ook van een door de overheid ondersteund digitaal ID, en zelfs in de VS, waar de TSA digitale ID's accepteert bij haar controles, moeten passagiers nog steeds een geldig fysiek ID dragen.
 
 ### Wordt een digitale kopie van mijn paspoort geaccepteerd bij het inchecken in een hotel?
 

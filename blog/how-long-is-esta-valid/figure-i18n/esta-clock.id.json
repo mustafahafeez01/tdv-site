@@ -1,0 +1,42 @@
+{
+ "id": {
+  "template": "cards",
+  "title": "Kapan ESTA berhenti berlaku",
+  "cards": [
+   {
+    "heading": "Berakhir setelah 2 tahun",
+    "items": [
+     {
+      "text": "Atau saat paspor Anda kedaluwarsa",
+      "mark": "dot"
+     },
+     {
+      "text": "Mana yang lebih dulu",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Semua orang perlu ESTA sendiri",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Bayi dan anak-anak juga",
+      "mark": "tick"
+     },
+     {
+      "text": "Masing-masing dengan paspor sendiri",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Paspor baru, nama baru, atau kewarganegaraan baru: ajukan lagi",
+  "alt": "Diagram kapan ESTA berhenti berlaku: berakhir setelah 2 tahun atau saat paspor kedaluwarsa, mana yang lebih dulu. Semua orang perlu ESTA sendiri, termasuk bayi dan anak-anak, masing-masing dengan paspor sendiri. Paspor baru, nama baru, atau kewarganegaraan baru berarti harus mengajukan lagi",
+  "caption": "Satu masa berlaku per pelancong, dan tidak pernah melebihi paspornya.",
+  "placement": {
+   "h2": 2,
+   "para": 1
+  }
+ }
+}

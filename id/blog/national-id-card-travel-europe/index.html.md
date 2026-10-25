@@ -1,6 +1,6 @@
-# Kartu Identitas Nasional untuk Bepergian: Kapan Sudah Cukup
+# Kartu Identitas Nasional EEA: Apa Itu dan Kapan Sudah Cukup
 
-> Kartu identitas nasional UE bisa dipakai di Eropa, tapi tidak di mana-mana. Kapan kartu itu cukup, dan kapan Anda tetap butuh paspor.
+> Apa yang termasuk kartu identitas nasional EEA, di mana kartu ini bisa dipakai ganti paspor di Eropa, dan kapan Anda tetap harus membawa paspor.
 
 Source: https://traveldocumentvault.com/id/blog/national-id-card-travel-europe/
 

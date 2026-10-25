@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
+[パスポート規則ESTAの有効期限はどのくらいですか？ESTAは承認から2年、またはパスポートの期限が切れるまでのいずれか早い方まで有効です。早く失効するケース、誰に必要か、料金改定の影響を解説します。2026年10月25日読了時間 6分](https://traveldocumentvault.com/ja/blog/how-long-is-esta-valid/)
+
+##
+
 [更新パスポートは期限切れ前に更新できますか？はい、公式な待機期間はありません。早めに更新すると未使用の有効期間でどれだけ損をするか、古いパスポートが使えなくなる理由、新しい番号で何が変わるかを解説します。2026年10月19日読了時間 7分](https://traveldocumentvault.com/ja/blog/renew-passport-before-expiry/)
 
 ##
@@ -20,7 +24,7 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
-[旅行書類国民IDカードでの渡航:それで十分な場合EUおよびEEA域内では、有効な国民IDカードは通常そのまま渡航書類として使えます。カードで十分な場合、パスポートが必要な場合、そして二つの書類の有効期限がまったく別に動く理由を解説します。2026年10月5日読了時間 6分](https://traveldocumentvault.com/ja/blog/national-id-card-travel-europe/)
+[旅行書類EEA国民IDカードとは：それだけで足りる場面EEA国民IDカードとして認められるものは何か、ヨーロッパでパスポートの代わりに使える場面、そしてそれでもパスポートが必要な場面を解説します。2026年10月5日読了時間 6分](https://traveldocumentvault.com/ja/blog/national-id-card-travel-europe/)
 
 ##
 
@@ -128,6 +132,8 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
+[旅行ツール パスポート整理アプリ：クラウドではなく端末内で パスポート整理アプリと一口に言っても、その作りはさまざまです。家族の旅行書類を管理するアプリを選ぶ際に、注目すべき点と避けたい点を紹介します。 2026年3月4日8 分読み](https://traveldocumentvault.com/ja/blog/best-passport-organizer-app/)
+
 ##
 
 [パスポート規則組織 すべての旅行のための国際旅行書類チェックリスト 国際旅行前に持参、確認、準備する必要があるすべてのこと。パスポート、ビザ、運転免許証、旅行保険をカバーする実用的なチェックリスト。家族と一人旅の旅行者に適しています。 2026年3月4日9 分読む](https://traveldocumentvault.com/ja/blog/travel-document-checklist/)
@@ -146,7 +152,7 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
-[パスポート規則6ヶ月パスポート有効期限ルール：どの国が適用しており、対策法は？ パスポートは有効かもしれませんが、それでも受け入れ拒否される可能性があります。どの国が 6 カ月ルールを実施しており、航空会社がそれをどう確認し、ご家族全員が予約前にカバーされていることをどう確認するかを学んでください。 2026年2月1日7 分読み](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)
+[パスポート規則パスポート6ヶ月ルール：残り期間が少なくても渡航できる？ パスポートの有効期限が残り6ヶ月を切っていませんか。6ヶ月ルールを適用する国、滞在期間分の有効期間だけで足りる国、そして予約前の確認方法を解説します。 2026年2月1日7 分読み](https://traveldocumentvault.com/ja/blog/passport-expiry-6-month-rule/)
 
 ## パスポートの情報をまとめて保管
 

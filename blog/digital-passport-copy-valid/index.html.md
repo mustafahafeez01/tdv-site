@@ -20,6 +20,14 @@ When planning a trip, many travellers wonder whether they can store a digital co
 
 The short answer: a digital copy is genuinely useful, but only in specific situations.
 
+## A Digital Copy Is a Photo of Your Passport, Not a Digital Passport
+
+A digital copy of a passport is **a scan or phone photo of its identification page**, the page with your photo, name, date of birth, passport number and expiry date. It records your details without standing in for the document. Canada's government puts it plainly in its travel advice: copies can help if your documents are lost or stolen, but they can't be used as identification, and you still need to apply for a new passport if you lose yours.
+
+Making one takes a couple of minutes. Open the passport flat in good light, photograph or scan the identification page so the whole page is sharp, then zoom in and check you can read every detail. Do the same for any visa you'll travel on. Canada suggests leaving copies with someone you trust at home, and the UK's foreign travel checklist recommends a backup of your passport details that you share with family or keep on a secure data storage platform.
+
+A copy also isn't the same as the digital IDs some governments now accept. In the US, the Transportation Security Administration lets US passport holders set up an ID pass in Google Wallet for its airport checkpoints, yet it still says all passengers must carry an acceptable physical ID. A photo in your camera roll is a backup of your details, which is exactly how to treat it.
+
 ## Where Digital Passport Copies Are Accepted
 
 ### Many Hotels Accept a Copy, but Parts of Europe Usually Want the Original
@@ -85,6 +93,10 @@ If you haven't made one yet, scan your passport's photo page today, before you'r
 
 ## Frequently Asked Questions
 
+### What is a digital copy of a passport?
+
+A digital copy is a scan or phone photo of your passport's identification page, the page with your photo and personal details. It helps with bookings and with replacing a lost passport, but it isn't a travel document: Canada's government says copies can't be used as identification. It's also different from a government-supported digital ID, and even in the US, where the TSA accepts digital IDs at its checkpoints, passengers must still carry an acceptable physical ID.
+
 ### Is a digital copy of my passport accepted at hotel check-in?
 
 Yes, most hotels worldwide accept digital passport copies for check-in: a PDF on your phone, by email, or printed. Some smaller establishments may still require a physical passport. Always contact your hotel in advance to confirm.
@@ -107,6 +119,6 @@ Use an encrypted app designed for document storage rather than regular cloud sto
 
 ## Related Articles
 
-[Passport Rules8 min read · Feb 1, 2026The 6-Month Passport Rule: Which Countries Enforce It and How to Never Get Caught Out](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
+[Passport Rules8 min read · Feb 1, 20266-Month Passport Rule: Can You Travel With Less Left?](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/)
 
 [Privacy7 min read · Feb 15, 2026Is It Safe to Store Your Passport in Google Photos?](https://traveldocumentvault.com/blog/is-it-safe-to-store-passport-in-google-photos/)

@@ -103,7 +103,7 @@ La validez del visado de tránsito varía según el país. Algunos son válidos 
 
 ## Artículos Relacionados
 
-[Reglas de Pasaporte8 min de lectura · febrero de 2026La Regla de los 6 Meses del Pasaporte: ¿Puedes Viajar con Menos de 6 Meses de Validez?](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/)
+[Reglas de Pasaporte8 min de lectura · febrero de 2026Regla de los 6 Meses del Pasaporte: ¿Puedes Viajar?](https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/)
 
 [Viajes en Familia7 minutos de lectura · febrero de 2026Cómo organizar los documentos de viaje en familia (Antes de tu próximo viaje)](https://traveldocumentvault.com/es/blog/how-to-organise-family-travel-documents/)
 

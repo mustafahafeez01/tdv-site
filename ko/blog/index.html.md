@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
+[여권 규칙ESTA 유효기간은 얼마나 되나요?ESTA는 승인일로부터 2년, 또는 여권 만료일까지 중 더 이른 시점까지 유효합니다. 유효기간이 일찍 끝나는 경우, 누구에게 각자의 ESTA가 필요한지, 수수료 인상이 어떤 의미인지 정리했습니다.2026년 10월 25일6분 읽기](https://traveldocumentvault.com/ko/blog/how-long-is-esta-valid/)
+
+##
+
 [갱신여권, 만료 전에 갱신해도 될까요?네, 공식적인 대기 기간은 없습니다. 조기에 갱신하면 남은 유효기간에서 무엇을 잃는지, 기존 여권은 왜 효력을 잃는지, 새 번호가 무엇을 바꾸는지 정리했습니다.2026년 10월 19일7분 읽기](https://traveldocumentvault.com/ko/blog/renew-passport-before-expiry/)
 
 ##
@@ -20,7 +24,7 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[여행 서류국민 ID 카드로 하는 여행, 어디까지 통할까EU 및 EEA 역내에서는 유효한 국민 ID 카드만으로 대개 완전한 여행 서류가 됩니다. ID 카드로 충분한 경우, 여권을 챙겨야 하는 경우, 그리고 두 서류가 서로 다른 만료 주기로 움직이는 이유를 정리했습니다.2026년 10월 5일6분 읽기](https://traveldocumentvault.com/ko/blog/national-id-card-travel-europe/)
+[여행 서류EEA 국민 ID 카드란: 카드만으로 충분한 경우EEA 국민 ID 카드로 인정되는 것은 무엇인지, 유럽 전역에서 여권 대신 쓸 수 있는 경우, 그리고 그래도 여권을 챙겨야 하는 경우를 정리했습니다.2026년 10월 5일6분 읽기](https://traveldocumentvault.com/ko/blog/national-id-card-travel-europe/)
 
 ##
 
@@ -128,6 +132,8 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
+[여행 도구 여권 보관 앱: 클라우드가 아니라 기기 안에 모든 여권 보관 앱이 같은 방식으로 만들어지지는 않습니다. 가족의 여행 서류를 관리할 앱을 고를 때 무엇을 살펴봐야 하는지, 그리고 무엇을 피해야 하는지 알려드립니다. 2026년 3월 4일8분 읽기](https://traveldocumentvault.com/ko/blog/best-passport-organizer-app/)
+
 ##
 
 [여권 규칙조직 모든 여행을 위한 국제 여행 서류 확인 목록 국제 여행 전에 가져가야 할, 확인해야 할, 준비해야 할 모든 것. 여권, 비자, 운전면허증, 여행 보험을 다루는 실용적인 확인 목록. 가족과 독립적인 여행자 모두에게 적합합니다. 2026년 3월 4일9분 읽기](https://traveldocumentvault.com/ko/blog/travel-document-checklist/)
@@ -146,7 +152,7 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
-[여권 규칙6개월 여권 유효기간 규칙: 어느 국가가 시행하고 어떻게 대비할까 여권이 유효할 수 있지만 여전히 통과하지 못할 수 있습니다. 어느 국가가 6개월 규칙을 시행하는지, 항공사가 어떻게 확인하는지, 예약 전에 전체 가족을 보장하는 방법을 알아보세요. 2026년 2월 1일7분 읽기](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)
+[여권 규칙여권 6개월 규칙: 유효기간이 적게 남아도 여행할 수 있을까? 여권 유효기간이 6개월 미만으로 남았나요? 6개월 규칙을 시행하는 국가, 체류 기간만큼의 유효기간만 요구하는 국가, 그리고 예약 전 확인 방법을 정리했습니다. 2026년 2월 1일7분 읽기](https://traveldocumentvault.com/ko/blog/passport-expiry-6-month-rule/)
 
 ## 여권 정보를 한곳에서 관리하십시오
 
