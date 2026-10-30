@@ -142,6 +142,10 @@ Yes. A passport that has not expired can still be refused if it is damaged, if t
 
 Many countries require your passport to remain valid for at least six months beyond your planned arrival date. If your passport expires sooner than that - even if it is technically still valid - you may be denied boarding or entry. Not every country enforces this rule, and the threshold varies. Check the requirements for your specific destination before you travel.
 
+### Can you renew an out-of-date passport?
+
+Usually, yes. In the UK, GOV.UK says you must renew before you travel if your passport has expired, and you can do it online or on a paper form with your old passport as a supporting document. In the US and Canada it also depends on when the passport was issued and how old you were at the time.
+
 ## Related Articles
 
 [Renewal8 min read · Feb 10, 2026How Long Does Passport Renewal Take? (US, UK, Australia, Canada)](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)

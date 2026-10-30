@@ -36,9 +36,7 @@ The only exception is a British emergency travel document, issued by the Foreign
 
 ## Can You Book a Holiday with an Expired Passport?
 
-Booking is not the same as boarding.
-
-Nothing stops you paying for flights and a hotel while your passport is out of date, because no one checks the document at the point of sale. The check happens at the airport, and by then the passport has to be valid.
+Yes, you can book a holiday with an expired passport, because no one checks the document at the point of sale. The check happens at the airport, and by then the passport has to be valid. GOV.UK still advises against booking travel until you have a valid passport, since the new one won't have the same number as the old.
 
 So the question worth asking is not whether you can book, but whether the renewal will land before you fly. Passport offices publish their current processing times, and those move with demand, so check the figure on the day rather than relying on what it was last year.
 
@@ -127,6 +125,10 @@ No, but you still cannot travel with it. A damaged passport may be rejected by a
 ### Can I renew a UK passport that has already expired?
 
 Yes. GOV.UK lists an expired passport as a reason to renew before you travel, so most people use the standard adult renewal service. The exception is a passport issued before 1 January 1994, which means applying for a first adult passport instead. Your new passport will have a different number, so update any bookings made with the old one.
+
+### Can you book a holiday with an expired passport?
+
+Yes, nothing stops you booking, because no one checks the passport at the point of sale. It has to be valid on the day you travel, though, and GOV.UK advises against booking until you have the new passport, because it won't have the same number as the old one.
 
 ## Related Articles
 

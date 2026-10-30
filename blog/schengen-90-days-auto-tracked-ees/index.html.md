@@ -42,9 +42,9 @@ The EU publishes an official short-stay calculator that's well worth bookmarking
 
 ## Who EES Applies To, and Who Is Exempt
 
-Not everyone meets EES. The system registers non-EU visitors who arrive on visa-free short-stay allowances, and those on short-stay visas. If you hold citizenship from the US, UK, Canada, Australia, or dozens of other countries, EES applies to you the moment you cross into Schengen.
+Not everyone meets EES. The system registers non-EU visitors who arrive on visa-free short-stay allowances, and those on short-stay visas. If you hold citizenship from the US, UK, Canada, Australia, or dozens of other countries, EES applies to you the moment you cross into Schengen. It doesn't change how long your passport has to last, though: for Schengen that's three months after the day you leave, so [6 months left on your passport](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) is plenty here, even if it isn't everywhere.
 
-If you're an EU, EEA or Swiss citizen, you're exempt - your passport receives no special entry process, and EES does not log your entries and exits. The official list of exemptions is longer, and it includes non-EU family members of EU citizens who hold a residence card.
+If you're an EU, EEA or Swiss citizen, you're exempt - your passport receives no special entry process, and EES does not log your entries and exits. Inside the EU you can usually cross on your [EEA national ID card](https://traveldocumentvault.com/blog/national-id-card-travel-europe/) rather than a passport. The official list of exemptions is longer, and it includes non-EU family members of EU citizens who hold a residence card.
 
 Being exempt from EES isn't the same as being exempt from the 90/180 rule, though. If you're a non-EU visitor on a short stay, the rule applies whether or not a border has registered you yet. Time spent in a Schengen country on a residence permit or long-stay (type D) visa from that country doesn't count towards it. Short visits to other Schengen countries generally still do, so check with the authority that issued your permit.
 

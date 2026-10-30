@@ -486,6 +486,8 @@ A damaged passport also tends to mean applying in person rather than by post. In
 
 Start the process the moment you discover the damage. We wouldn't wait even a day to make that call. Booking flights and hoping the renewal lands in time is a gamble that fails constantly, especially in summer when passport offices are overwhelmed.
 
+If a renewal is already under way and you're wondering whether the old passport still works, we cover [whether you can travel on your old passport while renewing](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/). And if the passport has run out as well as taken a knock, see [whether you can book a holiday with an expired passport](https://traveldocumentvault.com/blog/travel-expired-passport-uk/).
+
 ## At the Gate, Honesty Keeps Your Options Open
 
 Now for the harder version: you're in the check-in queue or at the gate and you notice damage you missed earlier, or the agent spots it the moment you hand over your passport.
@@ -2193,7 +2195,7 @@ Source: https://traveldocumentvault.com/blog/national-id-card-travel-europe/
 - A damaged, faded, or water-damaged ID card may be refused at the border even if it hasn't expired, because officials can't read it reliably.
 - Unlike passports, **national ID cards expire on a faster schedule.** Travel Document Vault tracks both documents separately so you don't miss the shorter clock on your ID.
 
-If you're an EU citizen planning a trip to another European country, you probably own a national ID card. And you've probably wondered whether to pack it, your passport, or both. The straight answer is this: within the EU and EEA, your ID card alone is enough for travel, because this post is written for EU and EEA citizens specifically. A British or American reader doesn't have a national ID card for travel, so if that's you, your passport is your only option anyway.
+An EEA national ID card is the identity card your own country issues to its citizens, the one that states your nationality. The EEA is the 27 EU countries plus Iceland, Liechtenstein and Norway, and within the EU and EEA a valid card is enough on its own for travel. If an online check-in form asks you to pick between a passport and an EEA national ID card, choose the document you'll actually hand over at the airport and enter that document's number. This post is written for EU and EEA citizens; a British or American reader doesn't have a national ID card for travel, so the passport is the only option anyway.
 
 For the rest of Europe, the rules are clear and they're simpler than most people think. The confusion usually comes from airlines, which layer their own requirements on top of the law. Understanding the difference between what Europe legally requires and what your airline wants saves you a last-minute scramble at check-in.
 
@@ -2440,6 +2442,10 @@ Yes. A passport that has not expired can still be refused if it is damaged, if t
 
 Many countries require your passport to remain valid for at least six months beyond your planned arrival date. If your passport expires sooner than that - even if it is technically still valid - you may be denied boarding or entry. Not every country enforces this rule, and the threshold varies. Check the requirements for your specific destination before you travel.
 
+### Can you renew an out-of-date passport?
+
+Usually, yes. In the UK, GOV.UK says you must renew before you travel if your passport has expired, and you can do it online or on a paper form with your old passport as a supporting document. In the US and Canada it also depends on when the passport was issued and how old you were at the time.
+
 ## Related Articles
 
 [Renewal8 min read · Feb 10, 2026How Long Does Passport Renewal Take? (US, UK, Australia, Canada)](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)
@@ -2469,6 +2475,8 @@ Source: https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/
 - Airlines can and do deny boarding if your passport falls short - even if the destination country itself would've let you in.
 - The rule gets applied inconsistently: the same country may waive it for some passport holders and enforce it for others based on bilateral agreements.
 - The safest move is to renew when you drop below 12 months of validity, so you always carry a comfortable buffer.
+
+Six months left on your passport is usually not enough for a country that applies the 6-month rule, because the six months are counted from the day you arrive, or for some countries the day you leave, not from today. Thailand, for one, wants an expiry date at least six months after you arrive. For destinations that only ask for a passport valid for your stay, or for the Schengen area, which asks for three months after the day you leave, six months left will generally get you in.
 
 The immigration officer looked at my daughter's passport, paused, and then looked up. "You know this expires in seven months, right? Some countries won't let you in with less than six months validity." We were fine - barely. But that moment stuck with me, because I'd checked the passport before booking and seven months had felt like plenty. I'd forgotten entirely about the passport expiry 6 month rule.
 
@@ -2523,6 +2531,8 @@ With Pro, **Travel Document Vault** checks linked passports against a default 18
 ## When the 6-Month Rule Does Not Apply
 
 Plenty of destinations ask for nothing beyond the dates of your trip. The UK Foreign Office puts it plainly for Japan: your passport must be valid for the length of your stay, and no additional period of validity is required. Australia and the United States use the same standard, asking only that your passport stays valid for the length of your planned stay.
+
+You may also come across lists of countries whose passports are treated as valid for six months past their expiry date. That's a United States arrangement, not an extension of your passport. US Customs and Border Protection publishes a list of countries whose citizens are exempt from the US six-month validity requirement and need a passport valid only for their intended stay. It applies to entering the US and nowhere else, and an expired passport stays expired everywhere.
 
 Europe sits in the middle, and it's the tier people misread most often. To visit the Schengen area, the Foreign Office says your passport needs an expiry date at least three months after the day you plan to leave. Three months, not six.
 
@@ -2615,6 +2625,10 @@ It depends entirely on where you're going. Japan, Australia and the United State
 ### Does the 6-month rule apply if I'm only transiting through a country?
 
 Often, yes, and it's the step people forget. The Foreign Office notes on both its Australia and its United States travel advice that if you transit through another country on the way, you need to meet that country's entry requirements too, and many of them ask for six months. The same destination can carry different document requirements on a direct flight and on a one-stop flight.
+
+### Do any countries extend passport validity by six months after it expires?
+
+No country adds time to your passport. The list people usually mean is published by US Customs and Border Protection: citizens of the countries on it are exempt from the US six-month validity requirement and need a passport valid only for their intended stay. It covers entry to the United States and nowhere else.
 
 ## Related Articles
 
@@ -3206,9 +3220,9 @@ The EU publishes an official short-stay calculator that's well worth bookmarking
 
 ## Who EES Applies To, and Who Is Exempt
 
-Not everyone meets EES. The system registers non-EU visitors who arrive on visa-free short-stay allowances, and those on short-stay visas. If you hold citizenship from the US, UK, Canada, Australia, or dozens of other countries, EES applies to you the moment you cross into Schengen.
+Not everyone meets EES. The system registers non-EU visitors who arrive on visa-free short-stay allowances, and those on short-stay visas. If you hold citizenship from the US, UK, Canada, Australia, or dozens of other countries, EES applies to you the moment you cross into Schengen. It doesn't change how long your passport has to last, though: for Schengen that's three months after the day you leave, so [6 months left on your passport](https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/) is plenty here, even if it isn't everywhere.
 
-If you're an EU, EEA or Swiss citizen, you're exempt - your passport receives no special entry process, and EES does not log your entries and exits. The official list of exemptions is longer, and it includes non-EU family members of EU citizens who hold a residence card.
+If you're an EU, EEA or Swiss citizen, you're exempt - your passport receives no special entry process, and EES does not log your entries and exits. Inside the EU you can usually cross on your [EEA national ID card](https://traveldocumentvault.com/blog/national-id-card-travel-europe/) rather than a passport. The official list of exemptions is longer, and it includes non-EU family members of EU citizens who hold a residence card.
 
 Being exempt from EES isn't the same as being exempt from the 90/180 rule, though. If you're a non-EU visitor on a short stay, the rule applies whether or not a border has registered you yet. Time spent in a Schengen country on a residence permit or long-stay (type D) visa from that country doesn't count towards it. Short visits to other Schengen countries generally still do, so check with the authority that issued your permit.
 
@@ -3723,9 +3737,7 @@ The only exception is a British emergency travel document, issued by the Foreign
 
 ## Can You Book a Holiday with an Expired Passport?
 
-Booking is not the same as boarding.
-
-Nothing stops you paying for flights and a hotel while your passport is out of date, because no one checks the document at the point of sale. The check happens at the airport, and by then the passport has to be valid.
+Yes, you can book a holiday with an expired passport, because no one checks the document at the point of sale. The check happens at the airport, and by then the passport has to be valid. GOV.UK still advises against booking travel until you have a valid passport, since the new one won't have the same number as the old.
 
 So the question worth asking is not whether you can book, but whether the renewal will land before you fly. Passport offices publish their current processing times, and those move with demand, so check the figure on the day rather than relying on what it was last year.
 
@@ -3814,6 +3826,10 @@ No, but you still cannot travel with it. A damaged passport may be rejected by a
 ### Can I renew a UK passport that has already expired?
 
 Yes. GOV.UK lists an expired passport as a reason to renew before you travel, so most people use the standard adult renewal service. The exception is a passport issued before 1 January 1994, which means applying for a first adult passport instead. Your new passport will have a different number, so update any bookings made with the old one.
+
+### Can you book a holiday with an expired passport?
+
+Yes, nothing stops you booking, because no one checks the passport at the point of sale. It has to be valid on the day you travel, though, and GOV.UK advises against booking until you have the new passport, because it won't have the same number as the old one.
 
 ## Related Articles
 

@@ -16,6 +16,8 @@ Source: https://traveldocumentvault.com/blog/passport-expiry-6-month-rule/
 - The rule gets applied inconsistently: the same country may waive it for some passport holders and enforce it for others based on bilateral agreements.
 - The safest move is to renew when you drop below 12 months of validity, so you always carry a comfortable buffer.
 
+Six months left on your passport is usually not enough for a country that applies the 6-month rule, because the six months are counted from the day you arrive, or for some countries the day you leave, not from today. Thailand, for one, wants an expiry date at least six months after you arrive. For destinations that only ask for a passport valid for your stay, or for the Schengen area, which asks for three months after the day you leave, six months left will generally get you in.
+
 The immigration officer looked at my daughter's passport, paused, and then looked up. "You know this expires in seven months, right? Some countries won't let you in with less than six months validity." We were fine - barely. But that moment stuck with me, because I'd checked the passport before booking and seven months had felt like plenty. I'd forgotten entirely about the passport expiry 6 month rule.
 
 It's one of the most misunderstood requirements in international travel: it catches out experienced travellers as often as first-timers, and if this is your first big trip abroad, it's the rule nobody warns you about at booking. Your passport can be technically valid - not expired - and still get you turned away at the gate.
@@ -69,6 +71,8 @@ With Pro, **Travel Document Vault** checks linked passports against a default 18
 ## When the 6-Month Rule Does Not Apply
 
 Plenty of destinations ask for nothing beyond the dates of your trip. The UK Foreign Office puts it plainly for Japan: your passport must be valid for the length of your stay, and no additional period of validity is required. Australia and the United States use the same standard, asking only that your passport stays valid for the length of your planned stay.
+
+You may also come across lists of countries whose passports are treated as valid for six months past their expiry date. That's a United States arrangement, not an extension of your passport. US Customs and Border Protection publishes a list of countries whose citizens are exempt from the US six-month validity requirement and need a passport valid only for their intended stay. It applies to entering the US and nowhere else, and an expired passport stays expired everywhere.
 
 Europe sits in the middle, and it's the tier people misread most often. To visit the Schengen area, the Foreign Office says your passport needs an expiry date at least three months after the day you plan to leave. Three months, not six.
 
@@ -161,6 +165,10 @@ It depends entirely on where you're going. Japan, Australia and the United State
 ### Does the 6-month rule apply if I'm only transiting through a country?
 
 Often, yes, and it's the step people forget. The Foreign Office notes on both its Australia and its United States travel advice that if you transit through another country on the way, you need to meet that country's entry requirements too, and many of them ask for six months. The same destination can carry different document requirements on a direct flight and on a one-stop flight.
+
+### Do any countries extend passport validity by six months after it expires?
+
+No country adds time to your passport. The list people usually mean is published by US Customs and Border Protection: citizens of the countries on it are exempt from the US six-month validity requirement and need a passport valid only for their intended stay. It covers entry to the United States and nowhere else.
 
 ## Related Articles
 

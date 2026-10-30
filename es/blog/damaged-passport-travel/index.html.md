@@ -48,6 +48,8 @@ Un pasaporte dañado también suele significar solicitarlo en persona en lugar d
 
 Empieza el trámite en cuanto descubras el daño. **Nosotros no esperaríamos ni un día para hacer esa llamada.** Reservar vuelos y esperar que la renovación llegue a tiempo es una apuesta que falla constantemente, sobre todo en verano, cuando las oficinas de pasaportes están desbordadas.
 
+Si ya tienes una renovación en marcha y te preguntas si el pasaporte antiguo todavía sirve, lo explicamos en [si puedes viajar con el pasaporte antiguo mientras se tramita la renovación](https://traveldocumentvault.com/es/blog/travel-while-passport-renewal-pending/). Y si el pasaporte, además de dañado, ha caducado, consulta [si puedes reservar un viaje con el pasaporte caducado](https://traveldocumentvault.com/es/blog/travel-expired-passport-uk/).
+
 ## En la Puerta de Embarque, la Honestidad Mantiene Abiertas Tus Opciones
 
 Ahora la versión más difícil: estás en la fila de facturación o en la puerta de embarque y notas un daño que se te había pasado antes, o el agente lo detecta en cuanto le entregas el pasaporte.

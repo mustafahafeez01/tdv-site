@@ -48,6 +48,8 @@ Un passaporto danneggiato in genere significa anche dover fare domanda di person
 
 Avvia la procedura nel momento stesso in cui scopri il danno. **Noi non aspetteremmo nemmeno un giorno per fare quella telefonata.** Prenotare i voli sperando che il rinnovo arrivi in tempo è una scommessa che fallisce di continuo, specialmente in estate, quando gli uffici passaporti sono sommersi di richieste.
 
+Se il rinnovo è già in corso e ti chiedi se il vecchio passaporto funziona ancora, trattiamo l'argomento in [se puoi viaggiare con il vecchio passaporto mentre è in corso il rinnovo](https://traveldocumentvault.com/it/blog/travel-while-passport-renewal-pending/). E se il passaporto, oltre a essere danneggiato, è anche scaduto, consulta [se puoi prenotare una vacanza con il passaporto scaduto](https://traveldocumentvault.com/it/blog/travel-expired-passport-uk/).
+
 ## Al Gate, l'Onestà Ti Lascia Più Opzioni Aperte
 
 Ecco la versione più difficile: sei in coda al check-in o al gate e ti accorgi di un danno che ti era sfuggito prima, oppure è l'agente a notarlo nel momento in cui gli consegni il passaporto.

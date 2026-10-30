@@ -48,6 +48,8 @@ A damaged passport also tends to mean applying in person rather than by post. In
 
 Start the process the moment you discover the damage. We wouldn't wait even a day to make that call. Booking flights and hoping the renewal lands in time is a gamble that fails constantly, especially in summer when passport offices are overwhelmed.
 
+If a renewal is already under way and you're wondering whether the old passport still works, we cover [whether you can travel on your old passport while renewing](https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/). And if the passport has run out as well as taken a knock, see [whether you can book a holiday with an expired passport](https://traveldocumentvault.com/blog/travel-expired-passport-uk/).
+
 ## At the Gate, Honesty Keeps Your Options Open
 
 Now for the harder version: you're in the check-in queue or at the gate and you notice damage you missed earlier, or the agent spots it the moment you hand over your passport.

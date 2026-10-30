@@ -16,6 +16,8 @@ Source: https://traveldocumentvault.com/es/blog/passport-expiry-6-month-rule/
 - La regla se aplica inconsistentemente: el mismo país puede renunciar a ella para algunos titulares de pasaporte y aplicarla para otros en función de acuerdos bilaterales.
 - La opción más segura es renovar cuando caigas por debajo de 12 meses de validez, para que siempre tengas un margen cómodo.
 
+Seis meses de validez restante en tu pasaporte normalmente no son suficientes para un país que aplica la regla de los 6 meses, porque los seis meses se cuentan desde el día que llegas, o en algunos países desde el día que sales, no desde hoy. Tailandia, por ejemplo, exige una fecha de caducidad de al menos seis meses después de tu llegada. Para los destinos que solo piden que el pasaporte sea válido durante tu estancia, o para el área Schengen, que pide tres meses después del día que sales, seis meses de validez restante normalmente te dejarán entrar.
+
 El oficial de inmigración miró el pasaporte de mi hija, se detuvo, y luego miró hacia arriba. "¿Sabes que vence en siete meses, verdad? Algunos países no te dejarán entrar con menos de seis meses de validez." Estábamos bien —apenas. Pero ese momento se quedó conmigo, porque había verificado el pasaporte antes de reservar y siete meses me había parecido muchísimo tiempo. Había olvidado completamente la regla de los 6 meses del pasaporte.
 
 Es uno de los requisitos más malentendidos en viajes internacionales, y atrapa a viajeros experimentados, no solo a novatos. Si planeas tu primer viaje internacional, esta es la regla que nadie te cuenta al reservar. Tu pasaporte puede ser técnicamente válido —no vencido— y aún así te pueden dejar en tierra en la puerta.
@@ -71,6 +73,8 @@ Siempre verifica tus requisitos específicos usando el IATA Travel Centre, el si
 ## Cuándo No Se Aplica la Regla de los 6 Meses
 
 Muchos destinos no piden nada más allá de las fechas de tu viaje. El Foreign Office del Reino Unido lo expresa claramente para Japón: tu pasaporte debe ser válido durante la duración de tu estancia, y no se requiere ningún periodo adicional de validez. Australia y Estados Unidos usan el mismo estándar, pidiendo solo que tu pasaporte permanezca válido durante la duración de tu estancia prevista.
+
+También puede que encuentres listas de países cuyos pasaportes se consideran válidos durante seis meses después de su fecha de caducidad. Eso es un acuerdo propio de Estados Unidos, no una prórroga de tu pasaporte. La Oficina de Aduanas y Protección Fronteriza de EE. UU. publica una lista de países cuyos ciudadanos están exentos del requisito estadounidense de validez de seis meses y solo necesitan un pasaporte válido para la duración de su estancia prevista. Se aplica únicamente a la entrada en Estados Unidos y a ningún otro caso, y un pasaporte caducado sigue caducado en todas partes.
 
 Europa se sitúa en un punto intermedio, y es el nivel que la gente malinterpreta con más frecuencia. Para visitar el área Schengen, el Foreign Office dice que tu pasaporte necesita una fecha de vencimiento de al menos tres meses después del día que planeas salir. Tres meses, no seis.
 
@@ -163,6 +167,10 @@ Depende totalmente de a dónde vayas. Japón, Australia y Estados Unidos solo pi
 ### ¿Se aplica la regla de los 6 meses si solo estoy en tránsito por un país?
 
 A menudo sí, y es el paso que la gente olvida. El Foreign Office señala tanto en su información de viaje sobre Australia como sobre Estados Unidos que, si haces tránsito por otro país en el camino, también debes cumplir los requisitos de entrada de ese país, y muchos de ellos piden seis meses. El mismo destino puede tener requisitos de documentación distintos en un vuelo directo que en un vuelo con escala.
+
+### ¿Algún país prorroga la validez del pasaporte seis meses después de su caducidad?
+
+Ningún país añade tiempo a tu pasaporte. La lista a la que suele referirse la gente la publica la Oficina de Aduanas y Protección Fronteriza de EE. UU.: los ciudadanos de los países que figuran en ella están exentos del requisito estadounidense de validez de seis meses y solo necesitan un pasaporte válido para la duración de su estancia prevista. Cubre la entrada a Estados Unidos y ningún otro caso.
 
 ## Artículos Relacionados
 

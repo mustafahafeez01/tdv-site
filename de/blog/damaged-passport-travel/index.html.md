@@ -48,6 +48,8 @@ Ein beschädigter Pass bedeutet in der Regel auch, dass Sie persönlich vorstell
 
 Starten Sie den Prozess in dem Moment, in dem Sie den Schaden entdecken. **Wir würden dafür keinen Tag warten.** Flüge zu buchen und zu hoffen, dass die Erneuerung rechtzeitig fertig wird, ist ein Glücksspiel, das ständig schiefgeht, besonders im Sommer, wenn die Passämter überlastet sind.
 
+Läuft bereits eine Erneuerung und Sie fragen sich, ob der alte Pass in der Zwischenzeit noch gilt: Das klären wir unter [reisen während der Passerneuerung](https://traveldocumentvault.com/de/blog/travel-while-passport-renewal-pending/). Ist der Pass neben dem Schaden auch noch abgelaufen, lesen Sie [Urlaub mit abgelaufenem Pass buchen](https://traveldocumentvault.com/de/blog/travel-expired-passport-uk/).
+
 ## Am Gate hält Ehrlichkeit Ihnen die Optionen offen
 
 Nun zur schwierigeren Variante: Sie stehen am Check-in oder am Gate und bemerken einen Schaden, den Sie vorher übersehen haben, oder der Mitarbeiter entdeckt ihn in dem Moment, in dem Sie den Pass übergeben.

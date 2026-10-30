@@ -48,6 +48,8 @@ Source: https://traveldocumentvault.com/ja/blog/damaged-passport-travel/
 
 破損に気づいたその瞬間から手続きを始めてください。**私たちなら、その連絡を一日たりとも先延ばしにしません。**更新が間に合うことを期待してフライトを予約するのは、うまくいかないことの多い賭けです。特にパスポート発給機関が混み合う夏場は要注意です。
 
+すでに更新手続き中で、古いパスポートが今も使えるのか気になっている方は、[更新中に古いパスポートで旅行できるか](https://traveldocumentvault.com/ja/blog/travel-while-passport-renewal-pending/)という記事で詳しく説明しています。破損だけでなく期限切れも重なっている場合は、[期限切れのパスポートで旅行の予約ができるか](https://traveldocumentvault.com/ja/blog/travel-expired-passport-uk/)もご確認ください。
+
 ## ゲートでは、正直に伝えることで選択肢が残る
 
 ここからは、より厳しいケースです。チェックインの列やゲートで、それまで気づかなかった破損に気づく、あるいはパスポートを渡した瞬間に係員が指摘してくる場合です。
