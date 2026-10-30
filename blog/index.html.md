@@ -56,7 +56,7 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
-[Travel PrepTravel Insurance Documents: What to Save Before You GoYou don't need to print the policy. What hospitals and insurers actually ask for, what to keep reachable offline, and the claims that get refused for missing paperwork.August 3, 20269 min read](https://traveldocumentvault.com/blog/travel-insurance-documents/)
+[Travel PrepDo You Need to Print Travel Insurance Documents?You don't need to print the policy. What hospitals and insurers actually ask for, what to keep reachable offline, and the claims that get refused for missing paperwork.August 3, 20269 min read](https://traveldocumentvault.com/blog/travel-insurance-documents/)
 
 ##
 
@@ -112,7 +112,7 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
-[Passport Rules Digital Passport Copy: Where It Counts and Where It Doesn't The copy you make yourself opens hotel check-in and speeds up an embassy replacement, but no gate or border takes it. Where it counts, and how to store it. Apr 4, 20267 min read](https://traveldocumentvault.com/blog/digital-passport-copy-valid/)
+[Passport Rules Digital Copy of Your Passport: Where It's Accepted and Not A digital copy is a photo or scan of your passport. Hotels often accept one; airlines and borders do not. Where it counts, and how to store yours safely. Apr 4, 20267 min read](https://traveldocumentvault.com/blog/digital-passport-copy-valid/)
 
 ##
 

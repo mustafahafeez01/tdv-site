@@ -1,6 +1,6 @@
-# Digital Passport Copy: Where It Counts and Where It Doesn't
+# Digital Copy of Your Passport: Where It's Accepted and Not
 
-> The copy you make yourself opens hotel check-in and speeds up an embassy replacement, but no gate or border takes it. Where it counts, and how to store it.
+> A digital copy is a photo or scan of your passport. Hotels often accept one; airlines and borders do not. Where it counts, and how to store yours safely.
 
 Source: https://traveldocumentvault.com/blog/digital-passport-copy-valid/
 

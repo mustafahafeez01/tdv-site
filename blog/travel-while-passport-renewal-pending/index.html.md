@@ -1,6 +1,6 @@
 # Can You Travel While Your Passport Is Being Renewed?
 
-> It turns on one thing: whether you still hold your passport or surrendered it. US, UK, Australian and Canadian rules, and what each means for booked trips.
+> Domestic flights: usually yes, with other photo ID. Abroad: only if you still hold your old passport. US, UK, Australian and Canadian rules compared.
 
 Source: https://traveldocumentvault.com/blog/travel-while-passport-renewal-pending/
 
