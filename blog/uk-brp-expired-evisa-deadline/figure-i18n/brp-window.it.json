@@ -1,0 +1,46 @@
+{
+ "it": {
+  "template": "cards",
+  "title": "Per quanto tempo un BRP scaduto funziona ancora",
+  "cards": [
+   {
+    "heading": "La finestra della tua carta",
+    "items": [
+     {
+      "text": "24 mesi dopo la data di scadenza stampata",
+      "mark": "dot"
+     },
+     {
+      "text": "Oppure fino al 31 dicembre 2026",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Per cosa funziona ancora",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Accedere e ottenere un codice di condivisione",
+      "mark": "tick"
+     },
+     {
+      "text": "Creare un account UKVI",
+      "mark": "tick"
+     },
+     {
+      "text": "Richiedere un'estensione del soggiorno",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "La data più vicina è il tuo limite",
+  "alt": "Diagramma di per quanto tempo un BRP scaduto funziona ancora: per 24 mesi dopo la data di scadenza stampata oppure fino al 31 dicembre 2026, a seconda di cosa avviene prima. In quel periodo può ancora essere usato per accedere e ottenere un codice di condivisione, creare un account UKVI, o richiedere un'estensione del permesso di soggiorno",
+  "caption": "Due date, e la prima è quella che conta.",
+  "placement": {
+   "h2": 1,
+   "para": 1
+  }
+ }
+}

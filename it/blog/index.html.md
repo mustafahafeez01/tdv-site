@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/it/blog/
 
 ##
 
+[Regole sul passaportoBRP scaduto? Configura il tuo account UKVI prima della data limiteSecondo GOV.UK un BRP scaduto può funzionare 24 mesi dopo la data stampata o fino al 31 dicembre 2026, a seconda di cosa avviene prima.30 ottobre 20265 min di lettura](https://traveldocumentvault.com/it/blog/uk-brp-expired-evisa-deadline/)
+
+##
+
 [Regole sul passaportoQuanto dura un ESTA? Cosa lo fa scadere in anticipoUn ESTA dura due anni o fino alla scadenza del passaporto, a seconda di cosa avviene prima. Cosa lo accorcia, chi deve averne uno e la nuova tariffa.25 ottobre 20266 min di lettura](https://traveldocumentvault.com/it/blog/how-long-is-esta-valid/)
 
 ##

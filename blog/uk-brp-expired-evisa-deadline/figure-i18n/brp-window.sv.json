@@ -1,0 +1,46 @@
+{
+ "sv": {
+  "template": "cards",
+  "title": "Hur länge ett utgånget BRP fortfarande fungerar",
+  "cards": [
+   {
+    "heading": "Ditt korts tidsfönster",
+    "items": [
+     {
+      "text": "24 månader efter det tryckta utgångsdatumet",
+      "mark": "dot"
+     },
+     {
+      "text": "Eller fram till 31 december 2026",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Vad det fortfarande funkar till",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Logga in och få en share code",
+      "mark": "tick"
+     },
+     {
+      "text": "Skapa ett UKVI-konto",
+      "mark": "tick"
+     },
+     {
+      "text": "Ansöka om att förlänga din vistelse",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Det datum som kommer först är din gräns",
+  "alt": "Diagram över hur länge ett utgånget BRP fortfarande fungerar: i 24 månader efter det tryckta utgångsdatumet eller fram till 31 december 2026, det som inträffar först. Under den tiden kan det fortfarande användas för att logga in och få en share code, skapa ett UKVI-konto, eller ansöka om att förlänga din rätt att stanna",
+  "caption": "Två datum, och det tidigaste är ditt.",
+  "placement": {
+   "h2": 1,
+   "para": 1
+  }
+ }
+}

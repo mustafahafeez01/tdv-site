@@ -122,6 +122,8 @@ An emergency travel document is a temporary document issued by your government f
 
 ## Related Articles
 
+[Passport Rules5 min read · October 2026Expired BRP? Set Up Your UKVI Account Before the Deadline](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/)
+
 [Renewal7 min read · October 2026Can You Renew a Passport Before It Expires?](https://traveldocumentvault.com/blog/renew-passport-before-expiry/)
 
 [Renewal8 min read · Feb 10, 2026How Long Does Passport Renewal Take? (US, UK, Australia, Canada)](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/)

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ja/blog/
 
 ##
 
+[旅行書類BRPが期限切れ？期限までにUKVIアカウントを作成しましょうGOV.UKによると、期限切れのBRPは印字された期限日から24か月間、または2026年12月31日までのいずれか早い方まで使える場合があります。UKVIアカウントの作成方法を解説します。2026年10月30日読了時間 5分](https://traveldocumentvault.com/ja/blog/uk-brp-expired-evisa-deadline/)
+
+##
+
 [パスポート規則ESTAの有効期限はどのくらいですか？ESTAは承認から2年、またはパスポートの期限が切れるまでのいずれか早い方まで有効です。早く失効するケース、誰に必要か、料金改定の影響を解説します。2026年10月25日読了時間 6分](https://traveldocumentvault.com/ja/blog/how-long-is-esta-valid/)
 
 ##

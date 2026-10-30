@@ -1,0 +1,46 @@
+{
+ "zh-Hans": {
+  "template": "cards",
+  "title": "过期的BRP还能用多久",
+  "cards": [
+   {
+    "heading": "你的卡片的有效期",
+    "items": [
+     {
+      "text": "印制到期日后的24个月内",
+      "mark": "dot"
+     },
+     {
+      "text": "或至2026年12月31日",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "它还能用来做什么",
+    "tone": "good",
+    "items": [
+     {
+      "text": "登录并获取共享码（share code）",
+      "mark": "tick"
+     },
+     {
+      "text": "创建UKVI账户",
+      "mark": "tick"
+     },
+     {
+      "text": "申请延长居留许可",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "以较早到达的日期为准",
+  "alt": "展示过期的BRP还能用多久的图示：印制到期日后的24个月内，或至2026年12月31日，以较早者为准。在此期间，它仍可用于登录并获取共享码、创建UKVI账户，或申请延长居留许可",
+  "caption": "两个日期，以较早的一个为准。",
+  "placement": {
+   "h2": 1,
+   "para": 1
+  }
+ }
+}

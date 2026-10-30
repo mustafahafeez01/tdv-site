@@ -1,0 +1,46 @@
+{
+ "id": {
+  "template": "cards",
+  "title": "Berapa lama BRP yang kedaluwarsa masih bisa dipakai",
+  "cards": [
+   {
+    "heading": "Batas waktu kartu Anda",
+    "items": [
+     {
+      "text": "24 bulan setelah tanggal kedaluwarsa tercetak",
+      "mark": "dot"
+     },
+     {
+      "text": "Atau sampai 31 Desember 2026",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Apa yang masih bisa dilakukan",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Masuk dan mendapatkan share code",
+      "mark": "tick"
+     },
+     {
+      "text": "Membuat akun UKVI",
+      "mark": "tick"
+     },
+     {
+      "text": "Mengajukan perpanjangan izin tinggal",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Tanggal mana pun yang lebih dulu adalah batas Anda",
+  "alt": "Diagram tentang berapa lama BRP yang kedaluwarsa masih bisa dipakai: selama 24 bulan setelah tanggal kedaluwarsa tercetak atau sampai 31 Desember 2026, mana yang lebih dulu. Selama waktu itu masih bisa dipakai untuk masuk dan mendapatkan share code, membuat akun UKVI, atau mengajukan perpanjangan izin tinggal",
+  "caption": "Dua tanggal, dan yang lebih dulu adalah milik Anda.",
+  "placement": {
+   "h2": 1,
+   "para": 1
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "nl": {
+  "template": "cards",
+  "title": "Hoe lang een verlopen BRP nog werkt",
+  "cards": [
+   {
+    "heading": "Het tijdvenster van je kaart",
+    "items": [
+     {
+      "text": "24 maanden na de afgedrukte vervaldatum",
+      "mark": "dot"
+     },
+     {
+      "text": "Of tot 31 december 2026",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Waarvoor hij nog werkt",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Inloggen en een deelcode krijgen",
+      "mark": "tick"
+     },
+     {
+      "text": "Een UKVI-account aanmaken",
+      "mark": "tick"
+     },
+     {
+      "text": "Een verlenging aanvragen",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "De datum die eerst komt is jouw grens",
+  "alt": "Diagram van hoe lang een verlopen BRP nog werkt: gedurende 24 maanden na de afgedrukte vervaldatum of tot 31 december 2026, wat het eerst komt. In die tijd kan hij nog gebruikt worden om in te loggen en een deelcode te krijgen, een UKVI-account aan te maken, of een verlenging van je verblijfsvergunning aan te vragen",
+  "caption": "Twee datums, en de eerste is de jouwe.",
+  "placement": {
+   "h2": 1,
+   "para": 1
+  }
+ }
+}

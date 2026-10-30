@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/zh-Hans/blog/
 
 ##
 
+[护照规则BRP已过期？请在截止日期前设置你的UKVI账户GOV.UK表示，过期的BRP在印制到期日后的24个月内，或至2026年12月31日（以较早者为准）仍可能可用。本文说明如何设置你的UKVI账户。2026年10月30日5 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/uk-brp-expired-evisa-deadline/)
+
+##
+
 [护照规则ESTA的有效期是多久？ESTA的有效期为两年，或至护照到期为止，以较早者为准。本文说明哪些情况会让它提前失效、谁需要单独申请，以及费用调整意味着什么。2026年10月25日6 分钟阅读](https://traveldocumentvault.com/zh-Hans/blog/how-long-is-esta-valid/)
 
 ##

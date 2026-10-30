@@ -1,0 +1,46 @@
+{
+ "es": {
+  "template": "cards",
+  "title": "Cuánto tiempo sigue funcionando un BRP caducado",
+  "cards": [
+   {
+    "heading": "El plazo de tu tarjeta",
+    "items": [
+     {
+      "text": "24 meses tras la fecha de caducidad impresa",
+      "mark": "dot"
+     },
+     {
+      "text": "O hasta el 31 de diciembre de 2026",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Para qué sigue sirviendo",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Iniciar sesión y obtener un código para compartir",
+      "mark": "tick"
+     },
+     {
+      "text": "Crear una cuenta UKVI",
+      "mark": "tick"
+     },
+     {
+      "text": "Solicitar una prórroga de tu estancia",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "La fecha que llegue antes es tu límite",
+  "alt": "Diagrama de cuánto tiempo sigue funcionando un BRP caducado: durante 24 meses tras la fecha de caducidad impresa o hasta el 31 de diciembre de 2026, lo que ocurra antes. Durante ese tiempo todavía se puede usar para iniciar sesión y obtener un código para compartir, crear una cuenta UKVI, o solicitar una prórroga de tu estancia",
+  "caption": "Dos fechas, y la que llega antes es la tuya.",
+  "placement": {
+   "h2": 1,
+   "para": 1
+  }
+ }
+}

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/ko/blog/
 
 ##
 
+[여권 규정BRP가 만료됐나요? 마감일 전에 UKVI 계정을 만드세요GOV.UK에 따르면 만료된 BRP는 인쇄된 만료일로부터 24개월, 또는 2026년 12월 31일 중 더 이른 시점까지 사용할 수 있을지도 모릅니다. UKVI 계정을 만드는 방법을 알아보세요.2026년 10월 30일5분 읽기](https://traveldocumentvault.com/ko/blog/uk-brp-expired-evisa-deadline/)
+
+##
+
 [여권 규칙ESTA 유효기간은 얼마나 되나요?ESTA는 승인일로부터 2년, 또는 여권 만료일까지 중 더 이른 시점까지 유효합니다. 유효기간이 일찍 끝나는 경우, 누구에게 각자의 ESTA가 필요한지, 수수료 인상이 어떤 의미인지 정리했습니다.2026년 10월 25일6분 읽기](https://traveldocumentvault.com/ko/blog/how-long-is-esta-valid/)
 
 ##

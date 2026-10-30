@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/id/blog/
 
 ##
 
+[Aturan PasporBRP Kedaluwarsa? Siapkan Akun UKVI Anda Sebelum Tenggat WaktuMenurut GOV.UK, BRP kedaluwarsa mungkin masih bisa dipakai 24 bulan setelah tanggal tercetak atau sampai 31 Desember 2026, mana yang lebih dulu.30 Oktober 20265 menit baca](https://traveldocumentvault.com/id/blog/uk-brp-expired-evisa-deadline/)
+
+##
+
 [Aturan PasporBerapa Lama ESTA Berlaku?ESTA berlaku dua tahun atau sampai paspor kedaluwarsa. Apa yang mengakhirinya lebih awal, siapa yang perlu ESTA sendiri, dan soal biaya barunya.25 Oktober 20266 menit baca](https://traveldocumentvault.com/id/blog/how-long-is-esta-valid/)
 
 ##

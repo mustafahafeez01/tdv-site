@@ -1,0 +1,46 @@
+{
+ "da": {
+  "template": "cards",
+  "title": "Hvor længe et udløbet BRP stadig fungerer",
+  "cards": [
+   {
+    "heading": "Dit korts tidsvindue",
+    "items": [
+     {
+      "text": "24 måneder efter den trykte udløbsdato",
+      "mark": "dot"
+     },
+     {
+      "text": "Eller indtil 31. december 2026",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Hvad det stadig kan bruges til",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Logge ind og få en share code",
+      "mark": "tick"
+     },
+     {
+      "text": "Oprette en UKVI-konto",
+      "mark": "tick"
+     },
+     {
+      "text": "Ansøge om at forlænge sin tilladelse",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Den dato, der kommer først, er din grænse",
+  "alt": "Diagram over, hvor længe et udløbet BRP stadig fungerer: i 24 måneder efter den trykte udløbsdato eller indtil 31. december 2026, alt efter hvad der kommer først. I den periode kan det stadig bruges til at logge ind og få en share code, oprette en UKVI-konto, eller ansøge om at forlænge sin tilladelse til at blive",
+  "caption": "To datoer, og den tidligste er din.",
+  "placement": {
+   "h2": 1,
+   "para": 1
+  }
+ }
+}

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/blog/
 
 ##
 
+[Passport Rules Expired BRP? Set Up Your UKVI Account Before the Deadline GOV.UK says an expired BRP might work for 24 months after its printed date or until 31 December 2026, whichever is first. How to set up your UKVI account. October 30, 20265 min read](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/)
+
+##
+
 [Passport Rules How Long Is an ESTA Valid? What Ends It Early An ESTA lasts two years or until your passport expires, whichever comes first. What ends it early, who needs their own, and what the fee change means. October 25, 20266 min read](https://traveldocumentvault.com/blog/how-long-is-esta-valid/)
 
 ##

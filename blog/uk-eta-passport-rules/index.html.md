@@ -111,6 +111,8 @@ No. A UK ETA gives you permission to travel to the UK, but border officers still
 
 ## Related Articles
 
+[Passport Rules5 min read · October 2026Expired BRP? Set Up Your UKVI Account Before the Deadline](https://traveldocumentvault.com/blog/uk-brp-expired-evisa-deadline/)
+
 [Passport Rules6 min read · October 2026How Long Is an ESTA Valid? What Ends It Early](https://traveldocumentvault.com/blog/how-long-is-esta-valid/)
 
 [Visa Requirements7 min readDo You Need a Transit Visa for a Layover?](https://traveldocumentvault.com/blog/transit-visa-connecting-flights/)

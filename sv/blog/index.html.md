@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/sv/blog/
 
 ##
 
+[PassreglerUtgånget BRP? Skapa ditt UKVI-konto innan tidsfristenEnligt GOV.UK kan ett utgånget BRP fungera i 24 månader efter det tryckta datumet eller till 31 december 2026, det som inträffar först.30 oktober 20265 min läsning](https://traveldocumentvault.com/sv/blog/uk-brp-expired-evisa-deadline/)
+
+##
+
 [PassreglerHur länge är ett ESTA giltigt? Vad som avslutar det i förtidEtt ESTA gäller i två år eller tills passet går ut. Vad som avslutar det i förtid, vem som behöver sitt eget och vad den nya avgiften innebär.25 oktober 20266 min läsning](https://traveldocumentvault.com/sv/blog/how-long-is-esta-valid/)
 
 ##

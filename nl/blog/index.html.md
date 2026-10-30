@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/nl/blog/
 
 ##
 
+[PaspoortregelsVerlopen BRP? Zet je UKVI-account op voor de deadlineGOV.UK zegt dat een verlopen BRP nog 24 maanden na de afgedrukte datum kan werken, of tot 31 december 2026, wat het eerst komt. Zet je UKVI-account op.30 oktober 20265 min leestijd](https://traveldocumentvault.com/nl/blog/uk-brp-expired-evisa-deadline/)
+
+##
+
 [PaspoortregelsHoe lang is een ESTA geldig? Wat hem eerder laat verlopenEen ESTA is twee jaar geldig of tot je paspoort verloopt. Wat hem eerder laat verlopen, wie zijn eigen ESTA nodig heeft en wat het nieuwe tarief betekent.25 oktober 20266 min leestijd](https://traveldocumentvault.com/nl/blog/how-long-is-esta-valid/)
 
 ##

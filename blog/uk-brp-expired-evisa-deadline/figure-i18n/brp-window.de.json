@@ -1,0 +1,46 @@
+{
+ "de": {
+  "template": "cards",
+  "title": "Wie lange ein abgelaufener BRP noch funktioniert",
+  "cards": [
+   {
+    "heading": "Das Zeitfenster Ihrer Karte",
+    "items": [
+     {
+      "text": "24 Monate nach dem aufgedruckten Ablaufdatum",
+      "mark": "dot"
+     },
+     {
+      "text": "Oder bis zum 31. Dezember 2026",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Wofür sie noch gut ist",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Anmelden und einen Freigabecode erhalten",
+      "mark": "tick"
+     },
+     {
+      "text": "Ein UKVI-Konto einrichten",
+      "mark": "tick"
+     },
+     {
+      "text": "Eine Verlängerung beantragen",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "Das frühere Datum ist Ihre Frist",
+  "alt": "Diagramm dazu, wie lange ein abgelaufener BRP noch funktioniert: 24 Monate nach dem aufgedruckten Ablaufdatum oder bis zum 31. Dezember 2026, je nachdem, was früher eintritt. In dieser Zeit kann er noch genutzt werden, um sich anzumelden und einen Freigabecode zu erhalten, ein UKVI-Konto einzurichten oder eine Verlängerung der Aufenthaltserlaubnis zu beantragen",
+  "caption": "Zwei Termine, und der frühere zählt für Sie.",
+  "placement": {
+   "h2": 1,
+   "para": 1
+  }
+ }
+}

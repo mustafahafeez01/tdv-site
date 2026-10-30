@@ -1,0 +1,46 @@
+{
+ "pt": {
+  "template": "cards",
+  "title": "Durante quanto tempo um BRP expirado ainda funciona",
+  "cards": [
+   {
+    "heading": "O prazo do seu cartão",
+    "items": [
+     {
+      "text": "24 meses após a data de validade impressa",
+      "mark": "dot"
+     },
+     {
+      "text": "Ou até 31 de dezembro de 2026",
+      "mark": "dot"
+     }
+    ]
+   },
+   {
+    "heading": "Para que ainda serve",
+    "tone": "good",
+    "items": [
+     {
+      "text": "Iniciar sessão e obter um código de partilha",
+      "mark": "tick"
+     },
+     {
+      "text": "Criar uma conta UKVI",
+      "mark": "tick"
+     },
+     {
+      "text": "Candidatar-se a uma prorrogação",
+      "mark": "tick"
+     }
+    ]
+   }
+  ],
+  "focal": "A data que chegar primeiro é o seu limite",
+  "alt": "Diagrama de durante quanto tempo um BRP expirado ainda funciona: durante 24 meses após a data de validade impressa ou até 31 de dezembro de 2026, o que ocorrer primeiro. Nesse período ainda pode ser usado para iniciar sessão e obter um código de partilha, criar uma conta UKVI, ou candidatar-se a uma prorrogação da sua autorização para permanecer",
+  "caption": "Duas datas, e a que chega primeiro é a sua.",
+  "placement": {
+   "h2": 1,
+   "para": 1
+  }
+ }
+}

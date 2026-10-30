@@ -1,0 +1,28 @@
+{
+ "en": {
+  "template": "cards",
+  "title": "How long an expired BRP still works",
+  "cards": [
+   {
+    "heading": "Your card's window",
+    "items": [
+     {"text": "24 months after the printed expiry date", "mark": "dot"},
+     {"text": "Or until 31 December 2026", "mark": "dot"}
+    ]
+   },
+   {
+    "heading": "What it still works for",
+    "tone": "good",
+    "items": [
+     {"text": "Sign in and get a share code", "mark": "tick"},
+     {"text": "Create a UKVI account", "mark": "tick"},
+     {"text": "Apply to extend your stay", "mark": "tick"}
+    ]
+   }
+  ],
+  "focal": "Whichever date comes first is your cut-off",
+  "alt": "Diagram of how long an expired BRP still works: for 24 months after the printed expiry date or until 31 December 2026, whichever comes first. In that time it can still be used to sign in and get a share code, create a UKVI account, or apply to extend your stay",
+  "caption": "Two dates, and the earlier one is yours.",
+  "placement": {"h2": 1, "para": 1}
+ }
+}

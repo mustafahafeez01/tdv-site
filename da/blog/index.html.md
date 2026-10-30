@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/da/blog/
 
 ##
 
+[PasreglerUdløbet BRP? Opret din UKVI-konto før tidsfristenIfølge GOV.UK kan et udløbet BRP måske bruges i 24 måneder efter den trykte dato eller til 31. december 2026, alt efter hvad der kommer først.30. oktober 20265 min læsning](https://traveldocumentvault.com/da/blog/uk-brp-expired-evisa-deadline/)
+
+##
+
 [PasreglerHvor længe er et ESTA gyldigt? Hvad der afslutter det tidligtEt ESTA gælder i to år eller indtil dit pas udløber. Hvad der afslutter det tidligt, hvem der skal have sit eget, og hvad det nye gebyr betyder.25. oktober 20266 min læsning](https://traveldocumentvault.com/da/blog/how-long-is-esta-valid/)
 
 ##

@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/es/blog/
 
 ##
 
+[Normas de pasaporte¿BRP caducado? Crea tu cuenta UKVI antes de la fecha límiteSegún GOV.UK, un BRP caducado puede seguir funcionando 24 meses tras su fecha impresa o hasta el 31 de diciembre de 2026, lo que ocurra antes.30 de octubre de 20265 min de lectura](https://traveldocumentvault.com/es/blog/uk-brp-expired-evisa-deadline/)
+
+##
+
 [Normas de pasaporte¿Cuánto dura una ESTA? Qué hace que caduque antesUna ESTA dura dos años o hasta que caduca el pasaporte, lo que ocurra antes. Qué la acorta, quién necesita la suya y qué cambia la nueva tarifa.25 de octubre de 20266 min de lectura](https://traveldocumentvault.com/es/blog/how-long-is-esta-valid/)
 
 ##

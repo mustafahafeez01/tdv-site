@@ -12,6 +12,10 @@ Source: https://traveldocumentvault.com/de/blog/
 
 ##
 
+[Reisepass-RegelnAbgelaufener BRP? Richten Sie Ihr UKVI-Konto vor der Frist einLaut GOV.UK funktioniert ein abgelaufener BRP womöglich noch 24 Monate nach dem Ablaufdatum oder bis 31. Dezember 2026, je nachdem, was früher eintritt.30. Oktober 20265 Min. Lesezeit](https://traveldocumentvault.com/de/blog/uk-brp-expired-evisa-deadline/)
+
+##
+
 [Reisepass-RegelnWie lange ist ein ESTA gültig? Was es vorzeitig beendetEin ESTA gilt zwei Jahre, höchstens aber bis zum Ablauf des Passes. Was es vorzeitig beendet, wer ein eigenes braucht und was die neue Gebühr bedeutet.25. Oktober 20266 Min. Lesezeit](https://traveldocumentvault.com/de/blog/how-long-is-esta-valid/)
 
 ##
