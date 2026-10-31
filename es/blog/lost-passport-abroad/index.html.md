@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/es/blog/lost-passport-abroad/
 
 ## Puntos Clave
 
-- Presenta una denuncia policial primero —la necesitas tanto para tu solicitud de embajada como para tu reclamación de seguros.
+- Presenta una denuncia policial pronto —tu asegurador normalmente la pedirá, y algunas embajadas también.
 - Tu embajada o consulado puede emitir un documento de viaje de emergencia, normalmente mucho más rápido que un pasaporte de reemplazo. **Llama antes** —la mayoría requieren cita previa.
 - Los viajeros con una copia digital segura de su pasaporte obtienen documentos de reemplazo más rápido —entregas los detalles que tu embajada necesita en segundos.
 - El seguro de viaje cubre los costos de reemplazo de pasaporte en la mayoría de las pólizas integrales. Necesitas la denuncia policial para reclamar.
@@ -36,7 +36,7 @@ Busca en todas partes antes de asumir lo peor —bolsillos de chaqueta, cada com
 
 ## Paso 2: Presenta una Denuncia Policial Inmediatamente
 
-Dirígete a la comisaría de policía más cercana y reporta el pasaporte perdido o robado. Necesitas este reporte tanto para tu solicitud de embajada como para tu reclamación de seguros. Nosotros lo haríamos en la primera hora si es posible, mientras los detalles aún están frescos en tu memoria.
+Dirígete a la comisaría de policía más cercana y reporta el pasaporte perdido o robado. Tu asegurador normalmente lo pedirá para una reclamación, y algunas embajadas también lo piden, aunque no todas: el Gobierno de Canadá, por ejemplo, dice que no es obligatorio para reemplazar el pasaporte. Nosotros lo haríamos en la primera hora si es posible, mientras los detalles aún están frescos en tu memoria.
 
 Solicita una copia escrita con un número de caso. Pide una versión en inglés o traducción si es posible. Toma una foto de la misma y mantén varias copias seguras.
 
@@ -57,7 +57,7 @@ Tu embajada emite un documento de viaje de emergencia (DTU) o pasaporte de emerg
 
 Qué típicamente necesitarás (confirma con tu embajada antes de visitar):
 
-- Denuncia policial con número de caso
+- Denuncia policial con número de caso, si tu embajada la pide
 - Prueba de identidad —carné de conducir, certificado de nacimiento, u otro ID emitido por el gobierno
 - Fotos de pasaporte —pregunta a tu embajada dónde obtenerlas localmente
 - Tu copia digital del pasaporte perdido si la tienes
@@ -98,7 +98,7 @@ Sí. La mayoría de los países emiten documentos de viaje de emergencia a trav�
 
 ### ¿Necesito una denuncia policial si mi pasaporte es robado en el extranjero?
 
-Sí. La mayoría de las embajadas requieren una denuncia policial para solicitudes de documentos de viaje de emergencia, y la mayoría de los aseguradores de viaje la requieren para reclamaciones. Obtén una en la comisaría de policía local inmediatamente, pide una copia en inglés si es posible, y mantén varias copias.
+Normalmente conviene tenerla, aunque no todas las autoridades de pasaportes la exigen. El Gobierno de Canadá dice que no es obligatoria para reemplazar el pasaporte, pero puede ayudar con la reclamación de seguros, y GOV.UK no la incluye entre lo necesario para un documento de viaje de emergencia del Reino Unido. Algunas embajadas sí la piden, y la mayoría de los aseguradores de viaje la requieren para reclamaciones. Obtén una en la comisaría de policía local inmediatamente, pide una copia en inglés si es posible, y mantén varias copias.
 
 ### ¿Cubrirá el seguro de viaje un pasaporte perdido o robado?
 

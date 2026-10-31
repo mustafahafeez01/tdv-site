@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/id/blog/lost-passport-abroad/
 
 ## Poin Penting
 
-- Buat laporan polisi terlebih dahulu, Anda membutuhkannya baik untuk permohonan di kedutaan maupun klaim asuransi.
+- Buat laporan polisi lebih awal, perusahaan asuransi Anda biasanya akan memintanya, dan sebagian kedutaan juga memintanya.
 - Kedutaan atau konsulat Anda dapat menerbitkan dokumen perjalanan darurat, biasanya jauh lebih cepat daripada penggantian paspor biasa. **Telepon terlebih dahulu**, sebagian besar mengharuskan janji temu.
 - Pelancong yang memiliki salinan digital paspor yang aman mendapatkan dokumen pengganti lebih cepat, Anda bisa memberikan detail yang dibutuhkan kedutaan dalam hitungan detik.
 - Asuransi perjalanan menanggung biaya penggantian paspor pada sebagian besar polis komprehensif. Anda memerlukan laporan polisi untuk mengajukan klaim.
@@ -36,7 +36,7 @@ Periksa semua tempat sebelum menyimpulkan yang terburuk — kantong jaket, setia
 
 ## Langkah 2: Buat Laporan Polisi Segera
 
-Pergi ke kantor polisi terdekat dan laporkan paspor sebagai hilang atau dicuri. Anda membutuhkan laporan ini baik untuk permohonan di kedutaan maupun klaim asuransi. Kami akan membuatnya dalam satu jam jika memungkinkan, selagi detailnya masih segar dalam ingatan Anda.
+Pergi ke kantor polisi terdekat dan laporkan paspor sebagai hilang atau dicuri. Perusahaan asuransi Anda biasanya akan meminta laporan ini untuk klaim, dan sebagian kedutaan juga memintanya, meski tidak semua: Pemerintah Kanada, misalnya, menyatakan laporan ini tidak diperlukan untuk penggantian paspor. Kami akan membuatnya dalam satu jam jika memungkinkan, selagi detailnya masih segar dalam ingatan Anda.
 
 Minta salinan tertulis dengan nomor kasus, dan minta terjemahan bahasa Inggris jika tersedia. Foto laporan tersebut dan simpan beberapa salinan di tempat yang aman.
 
@@ -57,7 +57,7 @@ Kedutaan Anda menerbitkan dokumen perjalanan darurat (emergency travel document,
 
 Yang biasanya Anda perlukan (konfirmasikan dengan kedutaan Anda sebelum datang):
 
-- Laporan polisi dengan nomor kasus
+- Laporan polisi dengan nomor kasus, jika kedutaan Anda memintanya
 - Bukti identitas - SIM, akta kelahiran, atau identitas resmi lain yang diterbitkan pemerintah
 - Foto paspor - tanyakan ke kedutaan Anda di mana bisa mendapatkannya secara lokal
 - Salinan digital paspor yang hilang, jika Anda memilikinya
@@ -98,7 +98,7 @@ Ya. Sebagian besar negara menerbitkan dokumen perjalanan darurat melalui kedutaa
 
 ### Apakah saya perlu laporan polisi jika paspor saya dicuri di luar negeri?
 
-Ya. Laporan polisi diperlukan oleh sebagian besar kedutaan untuk permohonan dokumen perjalanan darurat, dan oleh sebagian besar perusahaan asuransi perjalanan untuk klaim. Segera dapatkan dari kantor polisi setempat, minta salinan bahasa Inggris jika memungkinkan, dan simpan beberapa salinan.
+Biasanya tetap layak dibuat, meskipun tidak semua otoritas paspor mewajibkannya. Pemerintah Kanada menyatakan laporan polisi tidak diperlukan untuk penggantian paspor, tetapi bisa membantu klaim asuransi, dan GOV.UK tidak mencantumkannya sebagai syarat permohonan dokumen perjalanan darurat Inggris. Sebagian kedutaan tetap memintanya, dan sebagian besar perusahaan asuransi perjalanan membutuhkannya untuk klaim. Segera dapatkan dari kantor polisi setempat, minta salinan bahasa Inggris jika memungkinkan, dan simpan beberapa salinan.
 
 ### Apakah asuransi perjalanan menanggung paspor yang hilang atau dicuri?
 

@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/blog/travel-expired-passport-uk/
 
 - **Absolute rule:** No international travel with an expired passport. Airlines and border control will refuse you.
 - **Domestic exceptions:** UK to Ireland and Isle of Man may accept alternative photo ID; contact your airline first.
-- **Emergency renewal:** HM Passport Office runs an Online Premium service for renewals only, with a same-day or next-day appointment when slots are available. Check the current fee on gov.uk before you book.
+- **Emergency renewal:** HM Passport Office runs a 1 Day Premium service for adult renewals only: the earliest appointment is 2 days after you apply, and the new passport is ready to collect 4 hours after it. Check the current fee on gov.uk before you book.
 - **Travel insurance:** Most policies void claims if your passport was expired during travel.
 - **If abroad:** Contact the nearest British embassy or consulate for an emergency travel document.
 
@@ -62,7 +62,7 @@ If you are considering domestic travel with an expired passport, contact your ai
 
 ## Emergency Renewal: Premium Service, If You Can Get a Slot
 
-If your trip is imminent and your passport is expired, His Majesty's Passport Office offers a Premium service designed for exactly this scenario, with a same-day appointment or one the next working day depending on availability. HM Passport Office publishes the current fee on gov.uk, and it covers the appointment and renewal together rather than being charged on top of the standard fee. It gets you a passport far faster than the standard route, though how much faster depends on the appointment you can get. Note the Online Premium service is for renewals only, not first adult passports.
+If your trip is imminent and your passport is expired, His Majesty's Passport Office offers a 1 Day Premium service designed for exactly this scenario. GOV.UK says the earliest appointment is 2 days after you apply, and the new passport is ready to collect 4 hours after your appointment. HM Passport Office publishes the current fee on gov.uk, and it covers the appointment and renewal together rather than being charged on top of the standard fee. It gets you a passport far faster than the standard route, though how much faster depends on the appointment you can get. Note the 1 Day Premium service is for adult renewals only, not first adult passports.
 
 This is the official emergency route for genuine travel constraints. HM Passport Office publishes its current standard processing guidance on gov.uk, and it's worth checking that before you assume you have time to wait. When a trip genuinely can't wait, the Premium option removes the uncertainty.
 

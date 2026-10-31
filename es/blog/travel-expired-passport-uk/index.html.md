@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/es/blog/travel-expired-passport-uk/
 
 - **Norma absoluta:** No se permite viajar internacionalmente con un pasaporte expirado. Las aerolíneas y el control de fronteras te rechazarán.
 - **Excepciones nacionales:** De Reino Unido a Irlanda e Isla de Man pueden aceptar documentos de identidad con foto alternativos; consulta con tu aerolínea primero.
-- **Renovación de emergencia:** HM Passport Office ofrece un servicio Premium en línea solo para renovaciones, con cita el mismo día o al día siguiente cuando hay disponibilidad. Consulta la tarifa actual en gov.uk antes de reservar.
+- **Renovación de emergencia:** HM Passport Office ofrece un servicio 1 Day Premium solo para renovaciones de adultos: la cita más próxima es 2 días después de solicitarlo, y el nuevo pasaporte está listo para recoger 4 horas después de la cita.
 - **Seguro de viaje:** La mayoría de las pólizas anulan los reclamos si tu pasaporte estaba expirado durante el viaje.
 - **Si estás en el extranjero:** Contacta a la embajada o consulado británico más cercano para obtener un documento de viaje de emergencia.
 
@@ -66,7 +66,7 @@ Si estás considerando viajar dentro del país con un pasaporte expirado, contac
 
 ## Renovación de emergencia: servicio Premium, si consigues una cita
 
-Si tu viaje es inminente y tu pasaporte está expirado, la Oficina de Pasaportes de Su Majestad ofrece un servicio Premium diseñado exactamente para este escenario, con una cita el mismo día o al día siguiente, dependiendo de la disponibilidad. HM Passport Office publica la tarifa actual en gov.uk, que cubre la cita y la renovación juntas en lugar de sumarse a la tarifa estándar. Obtienes tu pasaporte mucho más rápido que por la vía estándar, aunque la rapidez exacta depende de la cita disponible. Ten en cuenta que el servicio Premium en línea es solo para renovaciones, no para primeros pasaportes de adultos.
+Si tu viaje es inminente y tu pasaporte está expirado, la Oficina de Pasaportes de Su Majestad ofrece un servicio 1 Day Premium diseñado exactamente para este escenario. GOV.UK indica que la cita más próxima es 2 días después de solicitarlo, y que el nuevo pasaporte está listo para recoger 4 horas después de tu cita. HM Passport Office publica la tarifa actual en gov.uk, que cubre la cita y la renovación juntas en lugar de sumarse a la tarifa estándar. Obtienes tu pasaporte mucho más rápido que por la vía estándar, aunque la rapidez exacta depende de la cita disponible. Ten en cuenta que el servicio 1 Day Premium es solo para renovaciones de adultos, no para primeros pasaportes de adultos.
 
 Esta es la ruta de emergencia oficial para limitaciones de viajes genuinas. HM Passport Office publica su tiempo de procesamiento estándar actual en gov.uk, y merece la pena consultarlo antes de asumir que tienes tiempo de esperar. Cuando un viaje realmente no puede esperar, la opción Premium elimina la incertidumbre.
 

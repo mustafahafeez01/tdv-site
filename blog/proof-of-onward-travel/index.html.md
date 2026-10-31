@@ -32,7 +32,7 @@ The other is the border officer when you land. Their job is to decide whether to
 
 A confirmed ticket out of the country is the form most widely understood. It can be a return flight or a flight on to a third country. What matters is that it leaves before your permitted stay ends and goes somewhere you're allowed to enter.
 
-Immigration New Zealand's guidance for visitors gives a useful picture of the range. It lists confirmed or open-dated tickets out of the country, or written confirmation from an airline or travel agency that onward travel is booked and paid for. Business travellers can also use a letter from their employer guaranteeing that onward travel will be arranged. Other destinations set their own lists, and they don't all match.
+Immigration New Zealand's guidance for visitors gives a useful picture of the range. It lists confirmed or open-dated tickets out of the country, or written confirmation from an airline or travel agency that onward travel is booked and paid for. It also accepts anything that shows a confirmed departure, such as a yacht or private aircraft leaving. Other destinations set their own lists, and they don't all match.
 
 A **hotel booking** and a **bank statement** come up often too, but they answer different questions. One shows where you'll stay, and the other shows you can pay your way. A border officer may ask for either, though neither typically stands in for a ticket out.
 

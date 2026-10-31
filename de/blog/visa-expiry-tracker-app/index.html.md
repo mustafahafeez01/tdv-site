@@ -51,7 +51,7 @@ Die Folgen einer Visumsüberschreitung sind je nach Land unterschiedlich, aber d
 
 - **Vereinigtes Königreich:** Überschreitungen werden aufgezeichnet und beeinflussen zukünftige Visamanträge. Das UK Home Office berücksichtigt Überschreitungen bei der Beurteilung der Glaubwürdigkeit und kann nachfolgende Anträge ablehnen.
 - **Australien:** Visumsüberschreitung kann zu Einschränkungen bei zukünftigen Visaanträgen und Entfernung aus dem Land führen. Gemäß Migration Act 1958 werden Überschreitungsaufzeichnungen nachverfolgt und beeinflussen zukünftige Visaanträge und die Wiedereinreiseberechtigung.
-- **Schengen-Raum:** Überschreitungen werden im Schengen-Informationssystem (SIS) nachverfolgt. Ein Verbot, das von einem Schengen-Land erlassen wird, gilt für alle 27 Mitgliedstaaten.
+- **Schengen-Raum:** Überschreitungen werden im Schengen-Informationssystem (SIS) nachverfolgt. Ein Verbot, das von einem Schengen-Land erlassen wird, gilt im gesamten Schengen-Raum, den die Europäische Kommission derzeit mit 29 Ländern angibt.
 - **Thailand:** Überschreitungen ziehen eine von der thailändischen Einwanderungsbehörde festgelegte Tagesstrafe bis zu einer gedeckelten Obergrenze nach sich und können bei längeren Überschreitungen zu Verhaftung und Abschiebung führen.
 
 In allen Fällen folgt der Überschreitungsdatensatz Ihnen typischerweise: Er taucht in Einwanderungsdatenbanken auf, die bei zukünftigen Grenzübergängen und Visaanträgen überprüft werden.

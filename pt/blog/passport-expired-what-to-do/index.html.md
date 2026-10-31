@@ -30,7 +30,7 @@ A urgência com que precisa de agir determina o que fazer:
 - **Muito tempo antes da viagem:** peça a renovação padrão online através do site da sua autoridade de passaportes — GOV.UK no Reino Unido, travel.state.gov nos EUA.
 - **A viagem aproxima-se:** peça imediatamente e pague pelo processamento expedito. Tanto o Reino Unido como os EUA oferecem online um serviço pago mais rápido, e ambos publicam o seu tempo de processamento atual.
 - **A viagem está próxima:** ligue diretamente para a sua autoridade de passaportes em vez de confiar apenas no site — a linha de apoio do HM Passport Office no Reino Unido, ou o National Passport Information Center nos EUA.
-- **A viagem é iminente:** pergunte sobre uma consulta de emergência e traga prova das suas datas de viagem. O Reino Unido oferece um serviço Premium expedito em escritórios de passaportes designados, e os EUA oferecem consultas em agências de passaportes regionais.
+- **A viagem é iminente:** pergunte sobre uma consulta de emergência e traga prova das suas datas de viagem. O serviço 1 Day Premium do Reino Unido (apenas renovações de adultos) permite marcar a partir de 2 dias depois do pedido, com o passaporte pronto para recolha 4 horas depois da marcação, e os EUA oferecem consultas em agências de passaportes regionais.
 
 Todas as autoridades de passaportes principais retêm consultas de emergência que não são visíveis online. Se o seu cronograma é apertado, **nós ligaríamos sempre em vez de confiar apenas no site.**
 
@@ -46,7 +46,7 @@ Este cenário acontece mais vezes do que as pessoas esperam, e os passos não s�
 
 **Passo 3: Verifique se as viagens domésticas são possíveis.** Um passaporte expirado pode ainda ser aceite como ID para voos domésticos em alguns países, embora isto não seja garantido. Se o seu destino final é alcançável domesticamente de uma cidade mais próxima, isto pode ser uma opção enquanto resolve o passaporte.
 
-**Passo 4: Contacte a sua autoridade de passaportes por telefone.** Explique a sua situação. No Reino Unido, ligue para a linha de apoio do HM Passport Office e peça a consulta mais antiga disponível no escritório de passaportes mais próximo. Nos EUA, ligue para o National Passport Information Center dos EUA e pergunte sobre consultas de emergência na agência regional de passaportes mais próxima. Opções do mesmo dia e do dia seguinte existem para emergências genuínas.
+**Passo 4: Contacte a sua autoridade de passaportes por telefone.** Explique a sua situação. No Reino Unido, ligue para a linha de apoio do HM Passport Office e peça a consulta mais antiga disponível no escritório de passaportes mais próximo. Nos EUA, ligue para o National Passport Information Center dos EUA e pergunte sobre consultas de emergência na agência regional de passaportes mais próxima. Pergunte especificamente por opções de emergência, já que as marcações mais rápidas muitas vezes não aparecem no site.
 
 **Passo 5: Reserve alojamento perto do escritório de passaportes.** Se conseguir uma consulta para o dia seguinte, precisa de um local para ficar. Guarde os recibos — se tem seguro de viagem, alguns destes custos podem ser reclamáveis.
 
@@ -124,7 +124,7 @@ Peça a renovação imediatamente e pague pelo processamento expedito se a sua v
 
 ### O que devo fazer se descobrir que o meu passaporte expirou no aeroporto?
 
-Não conseguirá embarcar. Vá ao balcão da companhia aérea imediatamente para discutir reagendamento — alguns dispensam taxas de mudança por emergências genuínas de documentos. Depois ligue para a sua autoridade de passaportes para marcar uma consulta de emergência. Opções do mesmo dia e do dia seguinte estão disponíveis dependendo do seu país.
+Não conseguirá embarcar. Vá ao balcão da companhia aérea imediatamente para discutir reagendamento — alguns dispensam taxas de mudança por emergências genuínas de documentos. Depois ligue para a sua autoridade de passaportes e pergunte especificamente por opções de consulta de emergência, já que as marcações mais rápidas muitas vezes não aparecem no site.
 
 ### Quão rápido consigo um passaporte de emergência se o meu expirou?
 

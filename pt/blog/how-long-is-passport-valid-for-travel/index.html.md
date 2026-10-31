@@ -28,9 +28,9 @@ O período de validade padrão para um passaporte de adulto é 10 anos a partir 
 |---|---|---|
 | Reino Unido | 10 anos | 5 anos (menores de 16) |
 | Estados Unidos | 10 anos | 5 anos (menores de 16) |
-| Austrália | 10 anos | 5 anos (menores de 18) |
+| Austrália | 10 anos | 5 anos (menores de 16) |
 | Canadá | 10 anos | 5 anos |
-| Irlanda | 10 anos | 3 anos (menores de 18) |
+| Irlanda | 10 anos | 5 anos (menores de 18) |
 | Nova Zelândia | 10 anos | 5 anos (menores de 16) |
 
 A data exata de expiração está impressa na página de dados ao lado da sua fotografia. Essa data é o limite absoluto — o seu passaporte deixa de ser um documento de viagem válido em qualquer lugar do mundo após essa data.

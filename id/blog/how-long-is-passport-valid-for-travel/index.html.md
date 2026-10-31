@@ -28,9 +28,9 @@ Masa berlaku standar untuk paspor dewasa adalah 10 tahun sejak tanggal penerbita
 |---|---|---|
 | Inggris Raya | 10 tahun | 5 tahun (di bawah 16) |
 | Amerika Serikat | 10 tahun | 5 tahun (di bawah 16) |
-| Australia | 10 tahun | 5 tahun (di bawah 18) |
+| Australia | 10 tahun | 5 tahun (di bawah 16) |
 | Kanada | 10 tahun | 5 tahun |
-| Irlandia | 10 tahun | 3 tahun (di bawah 18) |
+| Irlandia | 10 tahun | 5 tahun (di bawah 18) |
 | Selandia Baru | 10 tahun | 5 tahun (di bawah 16) |
 
 Tanggal kedaluwarsa Anda yang tepat tercetak pada halaman data di samping foto Anda. Tanggal itu adalah batas mutlak, paspor Anda berhenti menjadi dokumen perjalanan yang sah di mana pun di dunia begitu tanggal itu terlewati.

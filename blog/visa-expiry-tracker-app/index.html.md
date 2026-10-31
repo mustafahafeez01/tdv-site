@@ -53,7 +53,7 @@ The consequences of a visa overstay vary by country but are consistently serious
 
 - **UK:** Overstays are recorded and will affect future visa applications. The UK Home Office considers overstays when assessing credibility and may refuse subsequent applications.
 - **Australia:** Overstaying your visa may result in restrictions on future visa applications and removal from the country. Under the Migration Act 1958, overstay records are tracked and will affect future visa applications and re-entry eligibility.
-- **Schengen Area:** Overstays are tracked in the Schengen Information System (SIS). A ban issued by one Schengen country applies across all 27 member states.
+- **Schengen Area:** Overstays are tracked in the Schengen Information System (SIS). A ban issued by one Schengen country applies across the Schengen area, which the European Commission currently lists as 29 countries.
 - **Thailand:** Overstays incur a daily fine set by Thai immigration, up to a capped maximum, and may result in arrest and deportation for extended overstays.
 
 In all cases, the overstay record typically follows you: it appears in immigration databases checked at future border crossings and visa applications.

@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/da/blog/passport-expired-what-to-do/
 
 At opdage, at dit pas er udløbet, er et af de øjeblikke, hvor tiden pludselig føles meget virkelig. Uanset om du opdagede det tre måneder før en rejse, eller du står ved check-in-skranken i lufthavnen lige nu, afhænger det næste skridt helt af, hvilken situation du befinder dig i.
 
-![Forgrenet diagram for et udløbet pas: hjemme med en rejse i vente, book en akut fornyelse, da Storbritannien har samme-dags og USA har nødtider; i lufthavnen, ring til dit flyselskab først, da nogle omlægger gratis i nødsituationer. Den rigtige løsning er en påmindelse ved 12 måneder, ikke 6, fordi udløbet betyder, at du ikke flyver](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-da.jpg) Samme problem, to meget forskellige fremgangsmåder – det afhænger helt af, hvor du står, når du finder ud af det.
+![Forgrenet diagram for et udløbet pas: hjemme med en rejse i vente, book en akut fornyelse, da Storbritannien har akutte og USA har nødtider; i lufthavnen, ring til dit flyselskab først, da nogle omlægger gratis i nødsituationer. Den rigtige løsning er en påmindelse ved 12 måneder, ikke 6, fordi udløbet betyder, at du ikke flyver](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-da.jpg) Samme problem, to meget forskellige fremgangsmåder – det afhænger helt af, hvor du står, når du finder ud af det.
 
 ## Scenarie A: Du opdagede det hjemme, med en rejse på vej
 
@@ -30,7 +30,7 @@ Hvor akut du skal handle, afgør, hvad du skal gøre:
 - **God tid før rejsen:** ansøg om standardfornyelse online via pasmyndighedens hjemmeside – GOV.UK i Storbritannien, travel.state.gov i USA.
 - **Rejsen nærmer sig:** ansøg med det samme, og betal for ekspresbehandling. Både Storbritannien og USA tilbyder en hurtigere betalt service online, og begge oplyser deres aktuelle behandlingstid.
 - **Rejsen begynder at nærme sig:** ring direkte til pasmyndigheden i stedet for kun at stole på hjemmesiden – HM Passport Office's rådgivningslinje i Storbritannien, eller US National Passport Information Center i USA.
-- **Rejsen er umiddelbart forestående:** spørg om en nødtid, og medbring bevis for dine rejsedatoer. Storbritannien tilbyder en samme-dags Premium-service på udvalgte paskontorer, og USA tilbyder tider på regionale paskontorer.
+- **Rejsen er umiddelbart forestående:** spørg om en nødtid, og medbring bevis for dine rejsedatoer. Storbritanniens 1 Day Premium-service (kun voksenfornyelser) giver tider fra 2 dage efter din ansøgning, med pas klar til afhentning 4 timer efter din tid, og USA tilbyder tider på regionale paskontorer.
 
 Alle større pasmyndigheder holder nødtider tilbage, som ikke er synlige online. Hvis din tidsramme er stram, ville vi altid ringe frem for kun at stole på hjemmesiden.
 

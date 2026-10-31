@@ -99,7 +99,7 @@ Con Pro puoi sincronizzare i documenti tra dispositivi configurati sulla stessa 
 | Funziona completamente offline | No (necessita sincronizzazione) | No (necessita sincronizzazione) | Sì |
 | Rischio di violazione remota | Medio (server di Apple) | Medio-Alto (server di Google + scansione dei contenuti) | Backup crittografato facoltativo sul tuo iCloud o Google Drive (Pro) |
 | Accesso multi-dispositivo | Automatico | Automatico | Esportazione manuale del vault; backup cloud e sincronizzazione automatici facoltativi (Pro) |
-| Costo | Gratuito (200GB), poi a pagamento | Gratuito (15GB), poi a pagamento | In genere acquisto una tantum |
+| Costo | Gratuito (5GB), poi a pagamento | Gratuito (15GB), poi a pagamento | In genere acquisto una tantum |
 | Progettato per documenti di identità | No | No | Sì |
 
 ## Quale Dovresti Scegliere?

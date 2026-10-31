@@ -28,9 +28,9 @@ Il periodo di validità standard per un passaporto per adulti è 10 anni dalla d
 |---|---|---|
 | Regno Unito | 10 anni | 5 anni (sotto 16) |
 | Stati Uniti | 10 anni | 5 anni (sotto 16) |
-| Australia | 10 anni | 5 anni (sotto 18) |
+| Australia | 10 anni | 5 anni (sotto 16) |
 | Canada | 10 anni | 5 anni |
-| Irlanda | 10 anni | 3 anni (sotto 18) |
+| Irlanda | 10 anni | 5 anni (sotto 18) |
 | Nuova Zelanda | 10 anni | 5 anni (sotto 16) |
 
 La tua data esatta di scadenza è stampata sulla pagina dati accanto alla tua foto. Quella data è il limite assoluto — il tuo passaporto smette di essere un documento di viaggio valido da qualsiasi parte del mondo una volta che la supera.

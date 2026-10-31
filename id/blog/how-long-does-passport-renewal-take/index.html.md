@@ -26,7 +26,7 @@ Waktu pemrosesan berubah seiring jumlah staf, volume permohonan, dan musim, jadi
 
 ## Setiap Sistem Paspor Menjalankan Dua Jalur yang Sama
 
-Lepaskan formulir khusus tiap negara, dan sistemnya semua mengikuti bentuk yang sama. Ada jalur standar yang memproses permohonan kurang lebih sesuai urutan kedatangan, dan biasanya ada setidaknya satu jalur berbayar yang menaikkan posisi Anda dalam antrean itu. AS menyebut opsi lebih cepatnya expedited processing. Inggris menawarkan fast track dan, di beberapa kantor, jadwal premium di hari yang sama. Australia menjual tingkat fast track dan prioritas. Kanada menawarkan opsi ekspres tatap muka bagi orang yang akan segera bepergian. Namanya berbeda antarnegara; mekanisme dasarnya tidak.
+Lepaskan formulir khusus tiap negara, dan sistemnya semua mengikuti bentuk yang sama. Ada jalur standar yang memproses permohonan kurang lebih sesuai urutan kedatangan, dan biasanya ada setidaknya satu jalur berbayar yang menaikkan posisi Anda dalam antrean itu. AS menyebut opsi lebih cepatnya expedited processing. Inggris menawarkan layanan 1 Week Fast Track dan, untuk perpanjangan dewasa, layanan 1 Day Premium. Australia menjual tingkat fast track dan prioritas. Kanada menawarkan opsi ekspres tatap muka bagi orang yang akan segera bepergian. Namanya berbeda antarnegara; mekanisme dasarnya tidak.
 
 Penting untuk jelas soal apa sebenarnya yang Anda beli saat membayar untuk kecepatan, karena mudah untuk menganggap Anda melewati langkah-langkah tertentu. Padahal tidak. Tingkat yang lebih cepat membeli Anda posisi antrean lebih awal atau jadwal yang bisa dipesan — bukan membebaskan Anda dari pemeriksaan dokumen, persyaratan foto, atau verifikasi identitas yang dilalui setiap permohonan. Jika formulir Anda salah atau foto Anda tidak memenuhi standar, membayar lebih tidak akan menyelamatkannya. Itu hanya membuat Anda lebih cepat sampai ke penolakan.
 
@@ -40,7 +40,7 @@ Artinya dalam praktik
 
 Misalnya Anda bepergian saat musim puncak suatu negara dan paspor Anda mulai mendekati batas waktu. Membayar untuk jalur yang lebih cepat membeli Anda kepastian: posisi antrean lebih awal, tidak peduli seberapa panjang antrean standar telah bertambah bulan itu. Jika Anda tetap memilih pemrosesan standar selama periode sibuk, Anda bertaruh bahwa perkiraan waktu yang dipublikasikan masih mencerminkan kenyataan, dan itu persis asumsi yang sering menjebak orang.
 
-Satu catatan penting: kelayakan untuk jalur yang lebih cepat biasanya bergantung pada situasi Anda, bukan sekadar kesediaan Anda membayar. AS hanya membuka janji temu darurat bagi orang dengan bukti perjalanan dalam jangka waktu tertentu, dan layanan premium di hari yang sama di Inggris hanya berjalan di kantor tertentu, dengan pemesanan lebih dulu. Periksa aturan kelayakan sebelum Anda menganggap suatu jalur terbuka untuk Anda, jangan sampai baru tahu di loket.
+Satu catatan penting: kelayakan untuk jalur yang lebih cepat biasanya bergantung pada situasi Anda, bukan sekadar kesediaan Anda membayar. AS hanya membuka janji temu darurat bagi orang dengan bukti perjalanan dalam jangka waktu tertentu, dan layanan 1 Day Premium di Inggris hanya mencakup perpanjangan dewasa, dengan janji temu paling cepat tersedia 2 hari setelah Anda mengajukan. Periksa aturan kelayakan sebelum Anda menganggap suatu jalur terbuka untuk Anda, jangan sampai baru tahu di loket.
 
 ## Daftar Pendek yang Mudah Ditebak Menjadi Penyebab Sebagian Besar Keterlambatan
 
@@ -90,7 +90,7 @@ Kami tidak bisa memberi Anda angka pasti di sini, karena waktu pemrosesan Depart
 
 ### Berapa lama perpanjangan paspor berlangsung di Inggris?
 
-HM Passport Office mempublikasikan waktu pemrosesan terkininya sendiri, dan berubah cukup sering sehingga angka di sini kemungkinan sudah salah saat Anda membacanya. Orang dewasa yang memenuhi syarat yang mengajukan dari dalam Inggris bisa menggunakan layanan perpanjangan digital, yang tidak mengharuskan mengirim paspor lewat pos tapi tetap membutuhkan [foto yang memenuhi persyaratan resmi](https://traveldocumentvault.com/id/blog/passport-photo-at-home/). Jika Anda mengajukan dari luar Inggris, Anda menggunakan layanan luar negeri sebagai gantinya, yang mengharuskan Anda mengirim paspor saat ini lewat pos. Fast track dan janji temu premium di hari yang sama tersedia untuk kasus mendesak di kantor tertentu. Periksa GOV.UK untuk angka yang berlaku bagi situasi Anda.
+HM Passport Office mempublikasikan waktu pemrosesan terkininya sendiri, dan berubah cukup sering sehingga angka di sini kemungkinan sudah salah saat Anda membacanya. Orang dewasa yang memenuhi syarat yang mengajukan dari dalam Inggris bisa menggunakan layanan perpanjangan digital, yang tidak mengharuskan mengirim paspor lewat pos tapi tetap membutuhkan [foto yang memenuhi persyaratan resmi](https://traveldocumentvault.com/id/blog/passport-photo-at-home/). Jika Anda mengajukan dari luar Inggris, Anda menggunakan layanan luar negeri sebagai gantinya, yang mengharuskan Anda mengirim paspor saat ini lewat pos. Untuk kasus mendesak, HM Passport Office menjalankan layanan 1 Week Fast Track dan, khusus untuk perpanjangan dewasa, layanan 1 Day Premium dengan janji temu paling cepat tersedia 2 hari setelah Anda mengajukan. Periksa GOV.UK untuk angka yang berlaku bagi situasi Anda.
 
 ### Berapa lama perpanjangan paspor berlangsung di Australia?
 
@@ -98,7 +98,7 @@ Kantor Paspor Australia adalah satu-satunya sumber tepercaya untuk waktu terkini
 
 ### Bisakah saya memperpanjang paspor secara daring?
 
-AS menawarkan opsi perpanjangan daring untuk orang dewasa yang memenuhi syarat yang paspornya diterbitkan saat berusia 16 tahun ke atas, periksa travel.state.gov untuk kelayakan terkini. Inggris menawarkan layanan digital untuk orang dewasa yang memenuhi syarat yang mengajukan dari dalam Inggris; siapa pun yang mengajukan dari luar negeri harus menggunakan layanan terpisah. Australia dan Kanada sama-sama mensyaratkan pengajuan tatap muka atau lewat pos untuk sebagian besar perpanjangan. Aturan kelayakan bisa berubah, jadi periksa situs resmi negara Anda sebelum menganggap Anda memenuhi syarat.
+AS menawarkan opsi perpanjangan daring untuk orang dewasa yang memenuhi syarat yang paspornya diterbitkan saat berusia 16 tahun ke atas, periksa travel.state.gov untuk kelayakan terkini. Inggris menawarkan layanan digital untuk orang dewasa yang memenuhi syarat yang mengajukan dari dalam Inggris; siapa pun yang mengajukan dari luar negeri harus menggunakan layanan terpisah. Australia mensyaratkan pengajuan tatap muka atau lewat pos untuk sebagian besar perpanjangan. Kanada menawarkan perpanjangan daring bagi orang dewasa yang memenuhi syarat dan tidak akan bepergian dalam 20 hari kerja ke depan; selain itu, pengajuan dilakukan lewat pos atau tatap muka. Aturan kelayakan bisa berubah, jadi periksa situs resmi negara Anda sebelum menganggap Anda memenuhi syarat.
 
 ### Apa yang harus saya lakukan jika paspor saya akan kedaluwarsa dan saya sudah memesan perjalanan?
 

@@ -10,10 +10,10 @@ Source: https://traveldocumentvault.com/nl/blog/passport-photo-at-home/
 
 ## Belangrijkste punten
 
-- Gebruik een effen witte of gebroken witte achtergrond, een neutrale gezichtsuitdrukking, en ogen open en recht vooruit kijkend
+- Gebruik een effen, lichte achtergrond in de kleur die je instantie voorschrijft, een neutrale gezichtsuitdrukking, en ogen open en recht vooruit kijkend
 - De afmetingen verschillen per land en worden strikt gehandhaafd, dus neem de maten over van je eigen paspoortinstantie in plaats van een samenvatting
 - Natuurlijk raamlicht werkt het best – vermijd harde schaduwen en gebruik geen cameraflits
-- De meeste landen staan tegenwoordig geen bril toe, tenzij medisch noodzakelijk – controleer de actuele eisen
+- Veel instanties, waaronder de Britse, vragen je geen bril te dragen tenzij het niet anders kan – controleer de actuele eisen
 - Veelvoorkomende afwijzingsredenen zijn schaduwen, onjuiste afmetingen, glimlachen, wazige foto's en een verkeerde achtergrond
 
 Een foto die je thuis maakt wordt net zo makkelijk geaccepteerd als een uit een fotohokje, mits hij aan dezelfde korte lijst met regels voldoet. De meeste afwijzingen komen neer op drie dingen: schaduw op het gezicht of de achtergrond, een verkeerde grootte van het hoofd in het kader, en een bril. Krijg je die goed, dan is de rest eenvoudig.
@@ -24,7 +24,7 @@ Hoewel de specifieke regels per paspoortinstantie verschillen, delen de meeste l
 
 ### Achtergrond en compositie
 
-Je hebt een effen witte of gebroken witte achtergrond nodig – niets anders werkt. Geen patronen, schaduwen, wazige achtergronden of kleuren. De reden is simpel: ambtenaren hebben een schoon, ongestoord beeld van je gezicht nodig om te vergelijken met toekomstige documenten. De meeste mensen gebruiken een wit laken, een posterbord, of schilderen zelfs een klein stukje muur. Het belangrijkste is dat het licht en gelijkmatig blijft, over de hele achtergrond.
+Je hebt een effen, lichte achtergrond nodig, en de exacte kleur hangt af van je instantie: GOV.UK vraagt om effen crème of lichtgrijs, terwijl de Canadese overheid om effen wit of lichtgekleurd vraagt. Geen patronen, schaduwen, wazige achtergronden of felle kleuren. De reden is simpel: ambtenaren hebben een schoon, ongestoord beeld van je gezicht nodig om te vergelijken met toekomstige documenten. De meeste mensen gebruiken een wit laken, een posterbord, of schilderen zelfs een klein stukje muur. Het belangrijkste is dat het licht en gelijkmatig blijft, over de hele achtergrond.
 
 ### Uitdrukking en houding
 
@@ -32,13 +32,13 @@ Je gezicht moet het kader vullen tot de verhouding die je paspoortinstantie voor
 
 ## Mag je een bril dragen op een paspoortfoto?
 
-De meeste landen staan tegenwoordig geen gewone bril meer toe op paspoortfoto's, tenzij je die permanent draagt om medische redenen. Zelfs dan moet je mogelijk documentatie overleggen of een aparte foto zonder bril nemen. Sommige landen staan nog leesbrillen toe als deze op recept zijn, maar het glas mag geen glans veroorzaken en je ogen moeten duidelijk zichtbaar zijn. Religieuze hoofdbedekking is doorgaans toegestaan zolang deze de gezichtskenmerken die nodig zijn voor identificatie niet verbergt.
+De regels rond een gewone bril verschillen meer dan je zou verwachten. GOV.UK zegt dat Britse aanvragers geen bril mogen dragen tenzij het niet anders kan. De Canadese overheid staat een bril wel toe, zolang je ogen duidelijk zichtbaar zijn en de glazen geen glans vertonen. Religieuze hoofdbedekking is doorgaans toegestaan zolang deze de gezichtskenmerken die nodig zijn voor identificatie niet verbergt.
 
 Een zonnebril en getinte glazen worden overal geweigerd, zonder medische uitzondering. Kom je wel in aanmerking om je bril op te houden, kantel je hoofd dan iets weg van het licht zodat de glazen niet reflecteren, en controleer dat het montuur geen enkel deel van je ogen bedekt.
 
 ## Afmetingen pasfoto: de twee standaardmaten die de meeste landen gebruiken
 
-De meeste paspoortinstanties gebruiken een van twee gedrukte formaten. Het formaat 35 x 45 mm geldt voor het Verenigd Koninkrijk, EU-landen waaronder Nederland, en een groot deel van de rest van de wereld. De Verenigde Staten vragen een vierkant van 2 x 2 inch, en een handjevol landen volgt die standaard in plaats daarvan.
+De meeste paspoortinstanties gebruiken een van twee gedrukte formaten. Het formaat 35 x 45 mm geldt voor het Verenigd Koninkrijk, EU-landen waaronder Nederland, en een groot deel van de rest van de wereld. De Verenigde Staten vragen een vierkant van 2 x 2 inch, en een handjevol landen volgt die standaard in plaats daarvan. Sommige instanties hanteren hun eigen formaat: de Canadese overheid vraagt bijvoorbeeld om afgedrukte foto's van 50 mm breed bij 70 mm hoog.
 
 Digitale indieningen wisselen millimeters in voor pixels, en elke instantie publiceert haar eigen minimumeisen. Deze twee formaten zijn wat de meeste instanties momenteel voor gedrukte foto's vragen, maar specificaties worden herzien, dus bevestig die van jou voordat je print of uploadt.
 
@@ -92,9 +92,9 @@ Moderne smartphones fotograferen met 12 megapixels of meer, wat ruim voldoende i
 - **Schaduwen op het gezicht:** Veroorzaakt door zijlicht of felle lichtbronnen. Ga loodrecht op een raam staan voor gelijkmatige belichting, en controleer of je oren en jukbeenderen gelijkmatig belicht zijn.
 - **Onjuiste fotoafmetingen:** De foto komt niet overeen met de specificatie van je land (eisen verschillen per land). Gebruik een bijsnij-app voor paspoortfoto's en controleer de afmetingen dubbel aan de officiële specificatie van je eigen instantie voordat je print of upload – niet aan de norm van een ander land.
 - **Glimlachen of een ongebruikelijke uitdrukking:** De meeste landen vereisen een neutrale gezichtsuitdrukking. Oefen vooraf een rustige, rechte blik voor een spiegel – streef naar serieus, niet streng.
-- **Bril met glans:** Glans op de glazen verbergt je ogen. Doe je bril af of pas de hoek aan om reflectie te voorkomen. Veel landen verbieden bril nu volledig, tenzij medisch noodzakelijk, dus controleer eerst de actuele regels van je instantie.
+- **Bril met glans:** Glans op de glazen verbergt je ogen. Doe je bril af of pas de hoek aan om reflectie te voorkomen. Sommige instanties, waaronder de Britse, vragen je geen bril te dragen tenzij het niet anders kan, dus controleer eerst de actuele regels van je instantie.
 - **Wazige of onscherpe foto:** Beweging of scherpstelproblemen tijdens het maken van de foto. Gebruik een statief of stabiel voorwerp om je telefoon te ondersteunen, tik op het scherm om op je gezicht scherp te stellen, en vermijd elke beweging tijdens de opname.
-- **Verkeerde achtergrond:** Gekleurde achtergrond, patroon of ongelijke witte achtergrond. Effen wit of gebroken wit posterbord of laken werkt het best – zorg dat er geen zichtbare textuur of schaduwen zijn.
+- **Verkeerde achtergrond:** Gekleurde achtergrond, patroon of ongelijke witte achtergrond. Een effen, licht posterbord of laken in de kleur die je instantie voorschrijft werkt het best – zorg dat er geen zichtbare textuur of schaduwen zijn.
 - **Te veel of te weinig ruimte rond het hoofd:** Gezicht te klein of verkeerd gepositioneerd in het kader. De regels van je land geven precies aan hoeveel van het kader je gezicht moet vullen, meestal als een maat van kin tot kruin in plaats van een percentage – werk naar dat cijfer toe, niet naar wat er "goed uitziet".
 
 ## Snijd je smartphonefoto bij en print of upload hem daarna
@@ -113,7 +113,7 @@ Sommige landen accepteren digitale uploads van de biometrische paspoortfoto die 
 
 Voordat je je foto neemt, zorg dat je het volgende klaar hebt staan:
 
-- Effen wit of gebroken wit achtergrondmateriaal klaar en op zijn plek
+- Effen, licht achtergrondmateriaal in de kleur die je instantie voorschrijft, klaar en op zijn plek
 - Een goede bron van natuurlijk licht (bij voorkeur een raam)
 - Smartphone met een werkende camera
 - Statief of stabiel voorwerp om je telefoon tegen te zetten
@@ -129,11 +129,11 @@ Heb je goed daglicht bij een raam en een paar minuten over, maak de foto dan van
 
 ### Kan ik een paspoortfoto met mijn smartphone maken?
 
-Ja, je kunt een paspoortfoto met je smartphone maken. Ga voor een effen witte of gebroken witte achtergrond staan met goed daglicht, en zorg dat de foto voldoet aan de grootte- en kwaliteitseisen van je land. Veel mensen gebruiken daarna een bijsnij-app om de digitale foto aan te passen aan de officiële afmetingen en printen hem of uploaden hem digitaal, afhankelijk van het aanvraagproces in hun land.
+Ja, je kunt een paspoortfoto met je smartphone maken. Ga voor een effen, lichte achtergrond staan in de kleur die je paspoortinstantie voorschrijft, met goed daglicht, en zorg dat de foto voldoet aan de grootte- en kwaliteitseisen van je land. Veel mensen gebruiken daarna een bijsnij-app om de digitale foto aan te passen aan de officiële afmetingen en printen hem of uploaden hem digitaal, afhankelijk van het aanvraagproces in hun land.
 
 ### Welke afmetingen moet een paspoortfoto hebben?
 
-De meeste landen gebruiken een van twee gedrukte formaten: 35 x 45 mm, dat geldt voor het Verenigd Koninkrijk, de EU en een groot deel van de wereld, of het vierkant van 2 x 2 inch dat de Verenigde Staten gebruiken. Digitale indieningen hebben aparte minimumeisen in pixels. De eisen worden strikt gehandhaafd en herzien, dus bevestig de exacte specificatie bij je eigen paspoortinstantie voordat je print of uploadt.
+De meeste landen gebruiken een van twee gedrukte formaten: 35 x 45 mm, dat geldt voor het Verenigd Koninkrijk, de EU en een groot deel van de wereld, of het vierkant van 2 x 2 inch dat de Verenigde Staten gebruiken. Sommige instanties hanteren hun eigen formaat, zoals de Canadese 50 x 70 mm. Digitale indieningen hebben aparte minimumeisen in pixels. De eisen worden strikt gehandhaafd en herzien, dus bevestig de exacte specificatie bij je eigen paspoortinstantie voordat je print of uploadt.
 
 ### Waarom werd mijn paspoortfoto afgewezen?
 
@@ -145,11 +145,11 @@ Natuurlijk licht uit een raam is ideaal voor een paspoortfoto. Vermijd harde sch
 
 ### Mag ik een bril dragen op een paspoortfoto?
 
-De meeste landen staan tegenwoordig geen bril toe op paspoortfoto's, tenzij dit medisch noodzakelijk is. Zelfs dan moet je mogelijk documentatie overleggen. Controleer de actuele eisen van je land voordat je de foto neemt, want de regels zijn de afgelopen jaren veranderd. Twijfel je, maak dan zowel een foto met als zonder bril om beide opties te hebben.
+Dat hangt af van de instantie. GOV.UK zegt dat Britse aanvragers geen bril mogen dragen tenzij het niet anders kan, terwijl de Canadese overheid een bril toestaat als je ogen duidelijk zichtbaar zijn en de glazen geen glans vertonen. Een zonnebril of getinte glazen worden over het algemeen geweigerd. Controleer de actuele eisen van je land voordat je de foto neemt, want de regels zijn de afgelopen jaren veranderd. Twijfel je, maak dan zowel een foto met als zonder bril om beide opties te hebben.
 
 ### Wat zijn de regels voor een paspoortfoto?
 
-De kernregels zijn in de meeste landen vergelijkbaar: een effen lichte achtergrond, een neutrale gezichtsuitdrukking met gesloten mond, beide ogen open en duidelijk zichtbaar, geen bril tenzij medisch noodzakelijk, gelijkmatige belichting zonder schaduwen, en een recente foto die voldoet aan de afmetingseisen van je land. Elke instantie publiceert haar eigen volledige lijst en de details verschillen, dus controleer die van jou voordat je de foto neemt.
+De kernregels zijn in de meeste landen vergelijkbaar: een effen lichte achtergrond, een neutrale gezichtsuitdrukking met gesloten mond, beide ogen open en duidelijk zichtbaar, geen glans of tint op je bril als je instantie toestaat dat je hem ophoudt, gelijkmatige belichting zonder schaduwen, en een recente foto die voldoet aan de afmetingseisen van je land. Elke instantie publiceert haar eigen volledige lijst en de details verschillen, dus controleer die van jou voordat je de foto neemt.
 
 ## Gerelateerde artikelen
 

@@ -26,7 +26,7 @@ Handläggningstider ändras med bemanning, ansökningsvolym och årstid, så en 
 
 ## Varje passsystem har samma två vägar
 
-Skala bort de landsspecifika blanketterna och systemen följer alla samma form. Det finns en standardväg som behandlar ansökningar ungefär i den ordning de kommer in, och det finns oftast minst en betald väg som flyttar upp dig i den kön. USA kallar sitt snabbare alternativ expedited processing. Storbritannien erbjuder fast track och, på vissa kontor, en samma-dag-premiumtid. Australien säljer fast track- och prioritetsnivåer. Kanada erbjuder ett snabbspår för personer som reser inom kort. Namnen skiljer sig från land till land; den underliggande mekaniken gör det inte.
+Skala bort de landsspecifika blanketterna och systemen följer alla samma form. Det finns en standardväg som behandlar ansökningar ungefär i den ordning de kommer in, och det finns oftast minst en betald väg som flyttar upp dig i den kön. USA kallar sitt snabbare alternativ expedited processing. Storbritannien erbjuder en 1 Week Fast Track-tjänst och, för förnyelser av vuxnas pass, en 1 Day Premium-tjänst. Australien säljer fast track- och prioritetsnivåer. Kanada erbjuder ett snabbspår för personer som reser inom kort. Namnen skiljer sig från land till land; den underliggande mekaniken gör det inte.
 
 Det är värt att vara precis med vad du faktiskt köper när du betalar för snabbhet, för det är lätt att anta att du hoppar över steg. Det gör du inte. En snabbare nivå köper dig en tidigare plats i kön eller en bokningsbar tid – den avstår inte från dokumentkontrollerna, fotokraven eller identitetsverifieringen som varje ansökan går igenom. Om din blankett är fel eller ditt foto inte uppfyller kraven räddar inte extra betalning den. Det ger dig bara ett snabbare avslag.
 
@@ -40,7 +40,7 @@ Vad det betyder i praktiken
 
 Säg att du reser under ett lands högsäsong och att passet börjar närma sig gränsen. Att betala för den snabbare vägen köper dig säkerhet: en tidigare plats i kön, oavsett hur lång standardkön har vuxit den månaden. Håller du dig i stället till standardhandläggning under en hektisk period satsar du på att den publicerade tidsuppskattningen fortfarande stämmer med verkligheten – vilket är precis det antagandet som ställer till det för folk.
 
-En brasklapp: behörighet för de snabbare vägarna beror oftast på din situation, inte bara på din betalningsvilja. USA öppnar bara akutbesök för personer med dokumenterad resa inom ett bestämt tidsfönster, och Storbritanniens premium-samma-dag-service körs bara på specifika kontor, efter förhandsbokning. Kontrollera behörighetsreglerna innan du antar att en väg är öppen för dig – ta inte reda på det vid disken.
+En brasklapp: behörighet för de snabbare vägarna beror oftast på din situation, inte bara på din betalningsvilja. USA öppnar bara akutbesök för personer med dokumenterad resa inom ett bestämt tidsfönster, och Storbritanniens 1 Day Premium-tjänst gäller bara förnyelser av vuxnas pass, med tidigaste tiden två dagar efter ansökan. Kontrollera behörighetsreglerna innan du antar att en väg är öppen för dig – ta inte reda på det vid disken.
 
 ## En kort, förutsägbar lista orsakar de flesta förseningar
 
@@ -66,7 +66,7 @@ Var försiktig med att låna någon annans tidslinje också. En vän som förnya
 
 Det här är den del vi medvetet lämnar till dem som faktiskt driver systemet. I Storbritannien är det HM Passport Office. I USA är det utrikesdepartementet. I Australien är det Australian Passport Office. I Kanada är det Immigration, Refugees and Citizenship Canada, tillsammans med Service Canada för personliga ansökningar. De flesta andra länder publicerar en motsvarande siffra genom sin egen nationella pass- eller utrikesmyndighet.
 
-Lite sammanhang hjälper dig att använda den siffran rätt. HM Passport Office kör en digital tjänst för behöriga vuxna som ansöker inifrån Storbritannien; alla som ansöker från utlandet använder i stället den separata utlandstjänsten, som fortfarande kräver att du postar det nuvarande passet. Det amerikanska utrikesdepartementets onlineprogram täcker bara vuxna vars pass utfärdades vid 16 års ålder eller senare. Australien kräver ansökan personligen eller via Australia Post, med extra steg för föräldrars samtycke för barn. Kanada hoppar över onlineförnyelse helt – allt går via post genom Service Canada eller personligen, så räkna in posttid utöver det IRCC publicerar. Dessa myndigheter är värda att lita på eftersom deras siffror rör sig med verklig, aktuell ansökningsvolym, inte ett inaktuellt genomsnitt – kontrollera direkt innan du ansöker, inte veckor i förväg.
+Lite sammanhang hjälper dig att använda den siffran rätt. HM Passport Office kör en digital tjänst för behöriga vuxna som ansöker inifrån Storbritannien; alla som ansöker från utlandet använder i stället den separata utlandstjänsten, som fortfarande kräver att du postar det nuvarande passet. Det amerikanska utrikesdepartementets onlineprogram täcker bara vuxna vars pass utfärdades vid 16 års ålder eller senare. Australien kräver ansökan personligen eller via Australia Post, med extra steg för föräldrars samtycke för barn. Kanada erbjuder onlineförnyelse till behöriga vuxna som inte reser inom de kommande 20 arbetsdagarna, medan alla andra ansöker via post genom Service Canada eller personligen, så räkna in posttid utöver det IRCC publicerar. Dessa myndigheter är värda att lita på eftersom deras siffror rör sig med verklig, aktuell ansökningsvolym, inte ett inaktuellt genomsnitt – kontrollera direkt innan du ansöker, inte veckor i förväg.
 
 ## Kan du resa medan ditt pass förnyas?
 
@@ -90,7 +90,7 @@ Vi kan inte ge dig en fast siffra här, eftersom det amerikanska utrikesdepartem
 
 ### Hur lång tid tar en passförnyelse i Storbritannien?
 
-HM Passport Office publicerar sin egen aktuella handläggningstid, och den ändras tillräckligt ofta för att en siffra här sannolikt skulle vara fel när du läser detta. Behöriga vuxna som ansöker inifrån Storbritannien kan använda den digitala förnyelsetjänsten, som slipper posta passet men ändå kräver [ett foto som uppfyller de officiella kraven](https://traveldocumentvault.com/sv/blog/passport-photo-at-home/). Om du ansöker utanför Storbritannien använder du i stället utlandstjänsten, som kräver att du postar ditt nuvarande pass. Fast track och premium-samma-dag-tider finns för brådskande fall på specifika kontor. Kolla GOV.UK för siffran som gäller din situation.
+HM Passport Office publicerar sin egen aktuella handläggningstid, och den ändras tillräckligt ofta för att en siffra här sannolikt skulle vara fel när du läser detta. Behöriga vuxna som ansöker inifrån Storbritannien kan använda den digitala förnyelsetjänsten, som slipper posta passet men ändå kräver [ett foto som uppfyller de officiella kraven](https://traveldocumentvault.com/sv/blog/passport-photo-at-home/). Om du ansöker utanför Storbritannien använder du i stället utlandstjänsten, som kräver att du postar ditt nuvarande pass. För brådskande fall kör HM Passport Office en 1 Week Fast Track-tjänst och, endast för förnyelser av vuxnas pass, en 1 Day Premium-tjänst med tider tidigast två dagar efter ansökan. Kolla GOV.UK för siffran som gäller din situation.
 
 ### Hur lång tid tar en passförnyelse i Australien?
 
@@ -98,7 +98,7 @@ Australian Passport Office är den enda tillförlitliga källan för aktuella ti
 
 ### Kan jag förnya mitt pass online?
 
-USA erbjuder ett onlineförnyelsealternativ för behöriga vuxna vars pass utfärdades vid 16 års ålder eller senare – kolla travel.state.gov för aktuell behörighet. Storbritannien erbjuder en digital tjänst för behöriga vuxna som ansöker inifrån Storbritannien; alla som ansöker från utlandet måste använda en separat tjänst. Australien och Kanada kräver båda personlig eller postal inlämning för de flesta förnyelser. Behörighetsreglerna ändras, så kolla ditt lands officiella webbplats innan du antar att du kvalificerar.
+USA erbjuder ett onlineförnyelsealternativ för behöriga vuxna vars pass utfärdades vid 16 års ålder eller senare – kolla travel.state.gov för aktuell behörighet. Storbritannien erbjuder en digital tjänst för behöriga vuxna som ansöker inifrån Storbritannien; alla som ansöker från utlandet måste använda en separat tjänst. Australien kräver personlig eller postal inlämning för de flesta förnyelser. Kanada erbjuder onlineförnyelse till behöriga vuxna som inte reser inom de kommande 20 arbetsdagarna; alla andra ansöker via post eller personligen. Behörighetsreglerna ändras, så kolla ditt lands officiella webbplats innan du antar att du kvalificerar.
 
 ### Vad ska jag göra om mitt pass håller på att gå ut och jag har bokat resa?
 

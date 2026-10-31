@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/it/blog/child-first-passport-application
 
 - **Il consenso per fare domanda è diverso dal consenso per viaggiare.** Tuo figlio ha bisogno del permesso scritto di tutti i genitori o tutori prima che la domanda possa essere presentata.
 - **La maggior parte delle domande richiede tre tipi di prove:** prova di identità del bambino (certificato di nascita), prova di identità dei genitori, e prova del legame di parentela.
-- **Le foto passaporto dei neonati hanno regole specifiche.** Gli occhi devono essere aperti e rivolti verso la fotocamera, senza ciucci, giocattoli o mani di altre persone visibili — e lo sfondo dietro la testa del bambino deve essere semplice e senza ostacoli.
+- **Le foto passaporto dei neonati hanno regole specifiche.** La maggior parte delle autorità chiede occhi aperti e rivolti verso la fotocamera (GOV.UK fa eccezione per i bambini sotto un anno e sotto i 6 anni), senza ciucci, giocattoli o mani di altre persone visibili — e lo sfondo dietro la testa del bambino deve essere semplice e senza ostacoli.
 - **Controlla tutto appena arriva.** Ortografia, nomi dei genitori dove compaiono, data di scadenza — soprattutto perché i passaporti dei bambini scadono prima di quelli degli adulti.
 - **Un genitore non può firmare da solo, a meno che non ci sia un provvedimento del tribunale, l'affido esclusivo, o il decesso dell'altro genitore.** Se questa è la tua situazione, il tuo ufficio passaporti ha una procedura specifica da seguire.
 
@@ -52,7 +52,7 @@ Gli uffici passaporti vogliono tre cose quando fai domanda per il primo passapor
 
 È qui che molte domande per la prima volta falliscono. Un neonato o un bambino piccolo non può seguire le regole della foto come un adulto: i neonati non sanno stare seduti, i bambini piccoli non riescono a stare fermi o a capire le istruzioni, e i neonati appena nati non possono guardare la fotocamera a comando. Gli standard delle foto passaporto sono stati scritti per gli adulti, e devi capire come adattarli quando il soggetto è un bambino che pesa 5 chili e si muove di continuo.
 
-**Le regole di base sono le stesse:** gli occhi del bambino devono essere chiaramente aperti e rivolti verso la fotocamera, con uno sfondo semplice dietro la testa e nient'altro nell'inquadratura. Ciò che cambia è come riuscirci.
+**Le regole di base sono le stesse:** gli occhi del bambino dovrebbero in genere essere aperti e rivolti verso la fotocamera, con uno sfondo semplice dietro la testa e nient'altro nell'inquadratura. Alcune autorità ammorbidiscono le regole sugli occhi per i più piccoli: GOV.UK non richiede occhi aperti sotto un anno, né lo sguardo diretto in camera sotto i 6 anni. Ciò che cambia è come riuscirci.
 
 **Per un neonato o un bambino sotto i 6 mesi:** fotografalo sdraiato su un lenzuolo o una coperta semplice, bianca o chiara. Il lenzuolo diventa lo sfondo. La testa del bambino riempie il terzo superiore dell'inquadratura. Mettiti direttamente sopra di lui in modo che guardi dritto verso la fotocamera, con gli occhi aperti — se il bambino è assonnato, aspetta un momento in cui è sveglio. Niente giocattoli, niente ciucci, niente mani, nessun'altra persona visibile nell'inquadratura tranne la testa e le spalle del bambino.
 
@@ -62,7 +62,7 @@ Gli uffici passaporti vogliono tre cose quando fai domanda per il primo passapor
 
 **Gli errori più comuni** si riducono tutti a qualcosa che si infila in un'inquadratura pensata per contenere solo il bambino:
 
-- La mano di un genitore che sostiene la testa del bambino (non consentito).
+- La mano di un genitore visibile nello scatto. GOV.UK permette di sostenere la testa del bambino, ma la mano non deve essere visibile nella foto.
 - Un ciuccio ancora in bocca al bambino (deve essere tolto prima dello scatto).
 - Qualcun altro parzialmente visibile sul bordo dell'inquadratura (non deve comparire affatto).
 - Giocattoli o oggetti sullo sfondo (rimuovili prima).
@@ -106,7 +106,7 @@ Come minimo: prova dell'identità del bambino (certificato di nascita), prova de
 
 ### Cosa rende diversa una foto passaporto di un neonato?
 
-Gli occhi del neonato devono essere chiaramente aperti e rivolti verso la fotocamera, senza ciucci, giocattoli, o mani di altre persone visibili. Lo sfondo semplice deve essere chiaramente visibile dietro la testa del bambino. Poiché i neonati non sanno stare seduti o fermi, puoi fotografarli sdraiati su uno sfondo semplice — la regola è che la testa deve riempire l'inquadratura, che nell'immagine compaia solo il bambino, e che lo sfondo dietro di lui sia pulito e senza ostacoli.
+Molte autorità vogliono gli occhi del neonato chiaramente aperti e rivolti verso la fotocamera, senza ciucci, giocattoli, o mani di altre persone visibili. Alcune ammorbidiscono le regole sugli occhi per i più piccoli: GOV.UK, ad esempio, dice che un bambino sotto un anno non deve avere gli occhi aperti, e uno sotto i 6 anni non deve guardare direttamente la fotocamera. Lo sfondo semplice deve essere chiaramente visibile dietro la testa del bambino. Poiché i neonati non sanno stare seduti o fermi, puoi fotografarli sdraiati su uno sfondo semplice — la regola è che la testa deve riempire l'inquadratura, che nell'immagine compaia solo il bambino, e che lo sfondo dietro di lui sia pulito e senza ostacoli.
 
 ### Per quanto tempo è valido il passaporto di un bambino?
 

@@ -160,7 +160,7 @@ Source: https://traveldocumentvault.com/blog/child-first-passport-application/
 
 - **Consent to apply is different from consent to travel.** Your child needs written permission from all parents or guardians before the application can go in.
 - **Most applications ask for three types of evidence:** proof of identity (birth certificate), proof of parents' identity, and proof of parental relationship.
-- **Baby passport photos have specific rules.** Eyes must be open and looking at the camera, with no dummies, toys, or other hands visible - and the background behind the child's head must be plain and clear.
+- **Baby passport photos have specific rules.** Most authorities want eyes open and looking at the camera (GOV.UK relaxes this for under-1s and under-6s), with no dummies, toys, or other hands visible - and the background behind the child's head must be plain and clear.
 - **Check everything the moment it arrives.** Spelling, parent names where they appear, expiry date - especially since child passports expire faster than adult ones.
 - **One parent cannot sign alone unless there is a court order, sole legal guardianship, or the other parent is deceased.** If this is your situation, your passport office has a specific process to follow.
 
@@ -200,7 +200,7 @@ Some countries use a **countersignatory system**: a trusted professional (a teac
 
 This is where many first-time applications fail. A baby or small child cannot follow photo rules the way an adult can: babies cannot sit up, toddlers cannot sit still or understand instructions, and newborns cannot look at the camera on command. Passport photo standards were written for adults, and you need to understand how to adapt them when the subject is a child who weighs 5 kilos and moves constantly.
 
-**The core rules are the same:** the child's eyes must be clearly open and looking at the camera, with a plain background behind their head and nothing else in frame. What changes is how you make that happen.
+**The core rules are the same:** the child's eyes should generally be open and looking at the camera, with a plain background behind their head and nothing else in frame. Some authorities relax the eye rules for the youngest children: GOV.UK doesn't require open eyes under one, or a direct look at the camera under 6. What changes is how you make that happen.
 
 **For a newborn or baby under 6 months:** photograph them lying down on a plain white or pale sheet or blanket. The sheet becomes the background. The child's head fills the upper third of the frame. Position yourself directly above so the baby is looking straight up at the camera, eyes open, but if the baby is sleepy, wait for a moment when they are alert. No toys, no dummies, no hands, no other person visible in the frame except the baby's own head and shoulders.
 
@@ -210,7 +210,7 @@ This is where many first-time applications fail. A baby or small child cannot fo
 
 **The most common mistakes** all come down to something creeping into a frame that is supposed to hold only the baby:
 
-- A parent's hand supporting the baby's head (not allowed).
+- A parent's hand showing in the shot. GOV.UK lets you support the baby's head, but your hand must not be visible in the photo.
 - A dummy still in the baby's mouth (must be removed before the shot).
 - Someone else partially visible at the edge of the frame (must not appear at all).
 - Toys or objects in the background (remove them first).
@@ -254,7 +254,7 @@ At minimum: proof of the child's identity (birth certificate), proof of the pare
 
 ### What makes a passport photo of a baby different?
 
-A baby's eyes must be clearly open and looking at the camera, with no dummies, toys, or other people's hands visible. The plain background should be clearly visible behind the child's head. Because babies cannot sit up or sit still, you can photograph them lying down on a plain background - the rule is that the head must fill the frame, only the child appears in shot, and the background behind it must be clear and unobstructed.
+Many authorities want a baby's eyes open and looking at the camera, with no dummies, toys, or other people's hands visible. Some relax the eye rules for young children: GOV.UK, for example, says a child under one doesn't need their eyes open and a child under 6 doesn't need to look directly at the camera. The plain background should be clearly visible behind the child's head. Because babies cannot sit up or sit still, you can photograph them lying down on a plain background - the rule is that the head must fill the frame, only the child appears in shot, and the background behind it must be clear and unobstructed.
 
 ### How long is a child's passport valid?
 
@@ -1134,7 +1134,7 @@ Processing times move with staffing, application volume, and the season, so a fi
 
 Strip away the country-specific paperwork and most systems follow the same shape. There's a standard route that processes applications roughly in the order they arrive, and there's usually at least one paid route that moves you up that queue.
 
-The US calls its faster option expedited processing; the UK offers a fast track and, at some offices, a same-day premium appointment; Australia sells fast track and priority tiers; and Canada offers an in-person express option for people travelling soon. The names differ from country to country, but the underlying mechanism doesn't.
+The US calls its faster option expedited processing; the UK offers a 1 Week Fast Track and, for adult renewals, a 1 Day Premium service; Australia sells fast track and priority tiers; and Canada offers an in-person express option for people travelling soon. The names differ from country to country, but the underlying mechanism doesn't.
 
 It's worth being precise about what you're actually buying when you pay for speed, because it's easy to assume you're skipping steps. You're not. A faster tier buys you an earlier position in the queue or a bookable appointment slot; it does not waive the document checks, the photo requirements, or the identity verification every application goes through. If your form is wrong or your photo doesn't meet spec, paying more won't rescue it. It just gets you to the rejection faster.
 
@@ -1148,7 +1148,7 @@ What this means in practice
 
 Say you're travelling during a country's peak season and your passport is getting close to the line. Paying for the faster route buys you certainty: an earlier slot in the queue, regardless of how long the standard backlog has grown to that month. Stick with standard processing during a busy period instead, and you're betting that the published time estimate still reflects reality, which is exactly the assumption that catches people out.
 
-One caveat: eligibility for the faster routes usually depends on your situation, not just your willingness to pay. The US only opens emergency appointments to people with documented travel inside a defined window, and the UK's premium same-day service runs at specific offices only, by advance booking. Check the eligibility rules before you assume a route is open to you, not once you're at the counter.
+One caveat: eligibility for the faster routes usually depends on your situation, not just your willingness to pay. The US only opens emergency appointments to people with documented travel inside a defined window, and the UK's 1 Day Premium service covers adult renewals only, with the earliest appointment 2 days after you apply. Check the eligibility rules before you assume a route is open to you, not once you're at the counter.
 
 ## A Short, Predictable List Causes Most Delays
 
@@ -1174,7 +1174,7 @@ Be careful about borrowing someone else's timeline, too. A friend who renewed qu
 
 This is the part we deliberately leave to the people who actually run the system: HM Passport Office in the UK, the State Department in the US, the Australian Passport Office in Australia, and in Canada, Immigration, Refugees and Citizenship Canada alongside Service Canada for in-person applications. Most other countries publish an equivalent figure through their own national passport or foreign affairs authority.
 
-A little context helps you use that number correctly. HM Passport Office runs a digital service for eligible adults applying from inside the UK, though anyone applying from abroad uses the separate overseas service instead, which still requires posting the current passport; the US State Department's online programme, meanwhile, only covers adults whose passport was issued at 16 or older. Australia requires lodging in person or through Australia Post, with extra parental consent steps for children, while Canada skips online renewal entirely: everything goes through the post via Service Canada or in person, so factor in mailing time on top of whatever IRCC publishes. These authorities are worth trusting because their figures move with real, current application volume rather than a stale average, so check immediately before you apply rather than weeks ahead.
+A little context helps you use that number correctly. HM Passport Office runs a digital service for eligible adults applying from inside the UK, though anyone applying from abroad uses the separate overseas service instead, which still requires posting the current passport; the US State Department's online programme, meanwhile, only covers adults whose passport was issued at 16 or older. Australia requires lodging in person or through Australia Post, with extra parental consent steps for children, while Canada offers online renewal to eligible adults who aren't travelling in the next 20 business days, with everyone else applying by post or in person via Service Canada, so factor in mailing time on top of whatever IRCC publishes. These authorities are worth trusting because their figures move with real, current application volume rather than a stale average, so check immediately before you apply rather than weeks ahead.
 
 ## Can You Travel While Your Passport Is Being Renewed?
 
@@ -1198,7 +1198,7 @@ There's no fixed number we can give you here, because US State Department proces
 
 ### How long does passport renewal take in the UK?
 
-HM Passport Office publishes its own current processing time, and it changes often enough that quoting one here would likely be wrong by the time you read this. Eligible adults applying from within the UK can use the digital renewal service, which skips posting your passport but still needs [a photo that meets the official requirements](https://traveldocumentvault.com/blog/passport-photo-at-home/). If you're applying from outside the UK, you'll use the overseas service instead, which does require posting your current passport. Fast track and premium same-day appointments exist for urgent cases at specific offices. Check GOV.UK for the figure that applies to your situation.
+HM Passport Office publishes its own current processing time, and it changes often enough that quoting one here would likely be wrong by the time you read this. Eligible adults applying from within the UK can use the digital renewal service, which skips posting your passport but still needs [a photo that meets the official requirements](https://traveldocumentvault.com/blog/passport-photo-at-home/). If you're applying from outside the UK, you'll use the overseas service instead, which does require posting your current passport. For urgent cases, HM Passport Office runs a 1 Week Fast Track service and, for adult renewals only, a 1 Day Premium service with appointments from 2 days after you apply. Check GOV.UK for the figure that applies to your situation.
 
 ### How long does passport renewal take in Australia?
 
@@ -1206,7 +1206,7 @@ The Australian Passport Office is the only reliable source for current times, be
 
 ### Can I renew my passport online?
 
-The US offers an online renewal option for eligible adults whose passport was issued at 16 or older - check travel.state.gov for current eligibility. The UK offers a digital service for eligible adults applying from within the UK; anyone applying from overseas must use a separate service. Australia and Canada both require in-person or postal lodgement for most renewals. Eligibility rules change, so check your country's official website before assuming you qualify.
+The US offers an online renewal option for eligible adults whose passport was issued at 16 or older - check travel.state.gov for current eligibility. The UK offers a digital service for eligible adults applying from within the UK; anyone applying from overseas must use a separate service. Australia requires in-person or postal lodgement for most renewals. Canada offers online renewal to eligible adults who aren't travelling in the next 20 business days; everyone else applies by post or in person. Eligibility rules change, so check your country's official website before assuming you qualify.
 
 ### What should I do if my passport is expiring and I have travel booked?
 
@@ -1391,9 +1391,9 @@ The standard validity period for an adult passport is 10 years from the date of 
 |---|---|---|
 | United Kingdom | 10 years | 5 years (under 16) |
 | United States | 10 years | 5 years (under 16) |
-| Australia | 10 years | 5 years (under 18) |
+| Australia | 10 years | 5 years (under 16) |
 | Canada | 10 years | 5 years |
-| Ireland | 10 years | 3 years (under 18) |
+| Ireland | 10 years | 5 years (under 18) |
 | New Zealand | 10 years | 5 years (under 16) |
 
 Your exact expiry date is printed on the data page next to your photo. That date is the hard limit: your passport stops being a valid travel document anywhere in the world once it passes.
@@ -2069,7 +2069,7 @@ Source: https://traveldocumentvault.com/blog/lost-passport-abroad/
 
 ## Key Takeaways
 
-- File a police report first - you need it for both your embassy application and your insurance claim.
+- File a police report early - your insurer will usually want it, and some embassies ask for it too.
 - Your embassy or consulate can issue an emergency travel document, usually far faster than a replacement passport. **Call ahead** - most require an appointment.
 - Travellers with a secure digital copy of their passport get replacement documents faster - you hand over the details your embassy needs in seconds.
 - Travel insurance covers passport replacement costs in most comprehensive policies. You need the police report to claim.
@@ -2095,7 +2095,7 @@ Check everywhere before assuming the worst - jacket pockets, every bag compartme
 
 ## Step 2: File a Police Report Immediately
 
-Go to the nearest police station and report the passport lost or stolen. You need this report for both your embassy application and your insurance claim. We'd do it within the hour if possible, while the details are still fresh in your mind.
+Go to the nearest police station and report the passport lost or stolen. Your insurer will usually want it for a claim, and some embassies ask for it, though not all do: the Government of Canada, for example, says it isn't required for passport replacement. We'd do it within the hour if possible, while the details are still fresh in your mind.
 
 Ask for a written copy with a case number, and request an English translation if one's available. Take a photo of it and keep multiple copies safe.
 
@@ -2116,7 +2116,7 @@ Your embassy issues an emergency travel document (ETD) or emergency passport, ty
 
 What you will typically need (confirm with your embassy before visiting):
 
-- Police report with case number
+- Police report with case number, if your embassy asks for one
 - Proof of identity - driving licence, birth certificate, or any other government-issued ID
 - Passport photos - ask your embassy where to get these locally
 - Your digital copy of the lost passport if you have one
@@ -2157,7 +2157,7 @@ Yes. Most countries issue emergency travel documents through their embassies and
 
 ### Do I need a police report if my passport is stolen abroad?
 
-Yes. A police report is required by most embassies for emergency travel document applications, and by most travel insurers for claims. Get it from the local police station immediately, ask for an English copy if possible, and keep multiple copies.
+Usually worth getting, though not every passport authority requires it. The Government of Canada says a police report isn't required for passport replacement but may help with insurance claims, and GOV.UK doesn't list one for a UK emergency travel document application. Some embassies do ask for one, and most travel insurers want it for a claim. Get it from the local police station immediately, ask for an English copy if possible, and keep multiple copies.
 
 ### Will travel insurance cover a lost or stolen passport?
 
@@ -2319,7 +2319,7 @@ Source: https://traveldocumentvault.com/blog/passport-expired-what-to-do/
 
 Discovering your passport is expired is one of those moments where time suddenly becomes very real. Whether you spotted it three months before a trip or you're standing at the airport check-in desk as you read this, what happens next depends entirely on which situation you're in.
 
-![Hand-drawn branch diagram for an expired passport: at home with a trip coming up, book an urgent renewal (UK same-day and US emergency slots exist); at the airport, call your airline first as some reschedule free in emergencies. The real fix is a reminder at 12 months, not 6 - expired means you do not fly](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure.jpg) Same problem, two very different playbooks - it all depends on where you're standing when you find out.
+![Hand-drawn branch diagram for an expired passport: at home with a trip coming up, book an urgent renewal (UK urgent and US emergency slots exist); at the airport, call your airline first as some reschedule free in emergencies. The real fix is a reminder at 12 months, not 6 - expired means you do not fly](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure.jpg) Same problem, two very different playbooks - it all depends on where you're standing when you find out.
 
 ## Scenario A: You Discovered It at Home, with a Trip Coming Up
 
@@ -2330,7 +2330,7 @@ How urgently you need to act determines what to do:
 - **Plenty of time before travel:** apply for standard renewal online through your passport authority's website - GOV.UK for the UK, travel.state.gov for the US.
 - **Trip coming up sooner:** apply immediately and pay for expedited processing. Both the UK and the US offer a faster paid service online, and each publishes its current turnaround.
 - **Trip getting close:** call your passport authority directly rather than relying on the website alone - the HM Passport Office adviceline in the UK, or the US National Passport Information Center in the US.
-- **Trip is imminent:** ask about an emergency appointment and bring proof of your travel dates. The UK offers a same-day Premium service at designated passport offices, and the US offers appointments at regional passport agencies.
+- **Trip is imminent:** ask about an emergency appointment and bring proof of your travel dates. The UK's 1 Day Premium service (adult renewals only) books appointments from 2 days after you apply, with the passport ready to collect 4 hours after your appointment, and the US offers appointments at regional passport agencies.
 
 All major passport authorities hold back emergency appointment slots that are not visible online. If your timeline is tight, we'd always call rather than trust the website alone.
 
@@ -2656,10 +2656,10 @@ Source: https://traveldocumentvault.com/blog/passport-photo-at-home/
 
 ## Key Takeaways
 
-- Use a plain white or off-white background, neutral expression, and eyes open and looking straight ahead
+- Use a plain, light background in your authority's required shade, neutral expression, and eyes open and looking straight ahead
 - Size requirements differ from country to country and are enforced strictly, so take the measurements from your own passport authority rather than any summary
 - Natural window light works best - avoid harsh shadows and avoid using camera flash
-- Most countries now prohibit glasses unless medically necessary - check current requirements
+- Many authorities, including the UK's, ask you not to wear glasses unless you have to - check current requirements
 - Common rejection reasons include shadows, wrong size, smiling, blurry photos, and improper backgrounds
 
 A photo taken at home passes just as readily as one from a booth, provided it meets the same short list of rules. Most rejections come down to three things: shadow on the face or the background, the head being the wrong size in the frame, and glasses. Get those right and the rest is straightforward.
@@ -2670,7 +2670,7 @@ Although specific rules vary by passport authority, most countries share core re
 
 ### Background and Composition
 
-You need a plain white or off-white background: nothing else works. No patterns, shadows, blurred backgrounds, or colours. The reasoning is straightforward: officials need a clean, uncluttered view of your face to compare against future documents. Most people use a white bedsheet, poster board, or even paint a small section of wall. The key is keeping it bright and uniform throughout.
+You need a plain, light background, and the exact shade depends on your authority: GOV.UK asks for plain cream or light grey, while the Government of Canada asks for plain white or light-coloured. No patterns, shadows, blurred backgrounds, or strong colours. The reasoning is straightforward: officials need a clean, uncluttered view of your face to compare against future documents. Most people use a white bedsheet, poster board, or even paint a small section of wall. The key is keeping it bright and uniform throughout.
 
 ### Expression and Pose
 
@@ -2678,13 +2678,13 @@ Your face needs to fill the frame to the proportion your passport authority spec
 
 ## Can You Wear Glasses in Your Passport Photo?
 
-Most countries have moved away from allowing regular glasses in passport photos unless you wear them permanently for a medical reason. Even then, you may need to provide documentation or take a separate photo without glasses. Some nations still permit reading glasses if they are prescribed, but the lens must not create glare and your eyes must be clearly visible. Religious headgear is typically permitted as long as it does not obscure the facial features needed for identification.
+Rules on regular glasses vary more than you might expect. GOV.UK tells UK applicants not to wear them unless they have to. The Government of Canada accepts them as long as your eyes are clearly visible and there's no glare on the lenses. Religious headgear is typically permitted as long as it does not obscure the facial features needed for identification.
 
 Sunglasses and tinted lenses are refused everywhere, with no medical exemption. If you do qualify to keep your glasses on, angle your head slightly away from the light so the lenses carry no reflection, and check that the frames do not cross any part of your eyes.
 
 ## Passport Photo Size: the Two Standards Most Countries Use
 
-Most passport authorities use one of two printed sizes. The 35mm x 45mm format covers the UK, EU countries including the Netherlands, and much of the rest of the world. The US asks for a 2 x 2 inch square, and a handful of countries follow that standard instead.
+Most passport authorities use one of two printed sizes. The 35mm x 45mm format covers the UK, EU countries including the Netherlands, and much of the rest of the world. The US asks for a 2 x 2 inch square, and a handful of countries follow that standard instead. A few authorities set their own size: the Government of Canada, for example, asks for printed photos 50mm wide by 70mm high.
 
 Digital submissions swap millimetres for pixels, and every authority publishes its own minimums. Those two sizes are what most authorities currently ask for in print, but specifications get revised, so confirm yours before you print or upload.
 
@@ -2736,9 +2736,9 @@ Modern smartphones shoot at 12 megapixels or higher, which is plenty for passpor
 - **Shadows on the face:** side lighting or a harsh light source is usually the cause, so position yourself perpendicular to a window for even illumination and check that your ears and cheekbones are lit evenly.
 - **Incorrect photo dimensions:** Photo does not match your country's specifications (requirements vary by country). Use a passport photo cropping app and double-check dimensions against your authority's official spec before printing or uploading - not another country's standards.
 - **Smiling or unusual expression:** most countries require a neutral expression, so practice a calm, straight-ahead look in a mirror beforehand: aim for serious, not stern.
-- **Glasses with glare:** Glare on lenses obscures your eyes. Either remove your glasses or adjust the angle to eliminate reflection. Many countries now prohibit glasses entirely unless medically necessary, so check your authority's current rules first.
+- **Glasses with glare:** Glare on lenses obscures your eyes. Either remove your glasses or adjust the angle to eliminate reflection. Some authorities, including the UK's, ask you not to wear glasses unless you have to, so check your authority's current rules first.
 - **Blurry or out-of-focus image:** Motion or focus issues during capture. Use a tripod or stable object to prop your phone, tap the screen to focus on your face, and avoid any movement during the shot.
-- **Wrong background:** the usual culprit is a coloured background, a pattern, or an uneven white, so switch to a plain white or off-white poster board or bedsheet with no visible texture or shadow.
+- **Wrong background:** the usual culprit is a coloured background, a pattern, or an uneven white, so switch to a plain, light poster board or bedsheet in the shade your authority asks for with no visible texture or shadow.
 - **Excessive head room or cropping:** Face too small or positioned incorrectly in frame. Your country's rules will state exactly how much of the frame your face should fill, usually as a chin-to-crown measurement rather than a percentage - work to that figure, not to what looks right.
 
 ![Hand-drawn sketchnote of six rejected passport photos - shadow behind the head, smiling, glasses glare, hair across the eyes, patterned background and photo taken too close - beside one accepted photo on a plain background with a neutral face and even light](https://traveldocumentvault.com/blog/passport-photo-at-home/passport-photo-figure.jpg) Six ways a photo gets sent back, and the one setup that passes.
@@ -2759,7 +2759,7 @@ Some countries accept digital uploads of the biometric passport photo submitted 
 
 Before you take your photo, ensure you have the following in place:
 
-- Plain white or off-white background material ready and positioned
+- Plain, light background material in your authority's required shade, ready and positioned
 - Good natural light source (preferably a window)
 - Smartphone with a functioning camera
 - Tripod or stable object to prop your phone
@@ -2775,11 +2775,11 @@ If you've got decent window light and a few minutes to spare, take the photo you
 
 ### Can I take a passport photo on my smartphone
 
-Yes, you can take a passport photo using a smartphone. Position yourself in front of a plain white or off-white background with good natural light, and ensure the photo meets your country's size and quality requirements. Many people then use a cropping app to resize the digital photo to official dimensions and either print it or upload it digitally depending on their country's submission process.
+Yes, you can take a passport photo using a smartphone. Position yourself in front of a plain, light background in the shade your passport authority asks for, with good natural light, and ensure the photo meets your country's size and quality requirements. Many people then use a cropping app to resize the digital photo to official dimensions and either print it or upload it digitally depending on their country's submission process.
 
 ### What size should a passport photo be
 
-Most countries use one of two printed sizes: 35mm x 45mm, which covers the UK, the EU and much of the world, or the 2 x 2 inch square the US uses. Digital submissions have separate pixel minimums. Requirements are enforced strictly and get revised, so confirm the exact spec with your own passport authority before you print or upload.
+Most countries use one of two printed sizes: 35mm x 45mm, which covers the UK, the EU and much of the world, or the 2 x 2 inch square the US uses. A few authorities set their own, such as the Government of Canada's 50mm x 70mm. Digital submissions have separate pixel minimums. Requirements are enforced strictly and get revised, so confirm the exact spec with your own passport authority before you print or upload.
 
 ### Why was my passport photo rejected
 
@@ -2791,11 +2791,11 @@ Natural light from a window is ideal for passport photos. Avoid harsh shadows on
 
 ### Can I wear glasses in a passport photo
 
-Most countries now prohibit glasses in passport photos unless medically necessary. Even then, you may need to provide documentation. Check your country's current requirements before taking your photo, as rules have evolved in recent years. When in doubt, take both a photo with and without glasses to have options.
+It depends on the authority. GOV.UK tells UK applicants not to wear glasses unless they have to, while the Government of Canada accepts them if your eyes are clearly visible and there's no glare on the lenses. Sunglasses and tinted lenses are generally refused. Check your country's current requirements before taking your photo, as rules have evolved in recent years. When in doubt, take both a photo with and without glasses to have options.
 
 ### What are the rules for a passport photo?
 
-The core rules are consistent across most countries: a plain light background, a neutral expression with your mouth closed, both eyes open and clearly visible, no glasses unless medically necessary, even lighting with no shadows, and a recent photo that meets your country's size spec. Each authority publishes its own full list and the details differ, so check yours before you shoot.
+The core rules are consistent across most countries: a plain light background, a neutral expression with your mouth closed, both eyes open and clearly visible, no glare or tint on glasses if your authority lets you keep them on, even lighting with no shadows, and a recent photo that meets your country's size spec. Each authority publishes its own full list and the details differ, so check yours before you shoot.
 
 ## Related Articles
 
@@ -2839,7 +2839,7 @@ The other is the border officer when you land. Their job is to decide whether to
 
 A confirmed ticket out of the country is the form most widely understood. It can be a return flight or a flight on to a third country. What matters is that it leaves before your permitted stay ends and goes somewhere you're allowed to enter.
 
-Immigration New Zealand's guidance for visitors gives a useful picture of the range. It lists confirmed or open-dated tickets out of the country, or written confirmation from an airline or travel agency that onward travel is booked and paid for. Business travellers can also use a letter from their employer guaranteeing that onward travel will be arranged. Other destinations set their own lists, and they don't all match.
+Immigration New Zealand's guidance for visitors gives a useful picture of the range. It lists confirmed or open-dated tickets out of the country, or written confirmation from an airline or travel agency that onward travel is booked and paid for. It also accepts anything that shows a confirmed departure, such as a yacht or private aircraft leaving. Other destinations set their own lists, and they don't all match.
 
 A **hotel booking** and a **bank statement** come up often too, but they answer different questions. One shows where you'll stay, and the other shows you can pay your way. A border officer may ask for either, though neither typically stands in for a ticket out.
 
@@ -3119,7 +3119,7 @@ With Pro, you can sync documents across configured devices on the same platform.
 | Works fully offline | No (needs sync) | No (needs sync) | Yes |
 | Remote breach risk | Medium (Apple's servers) | Medium-High (Google's servers + content scanning) | Optional encrypted backup to your own iCloud or Google Drive (Pro) |
 | Cross-device access | Automatic | Automatic | Manual vault export; optional automatic cloud backup and sync (Pro) |
-| Cost | Free (200GB), then paid | Free (15GB), then paid | Typically a one-time purchase, no subscription |
+| Cost | Free (5GB), then paid | Free (15GB), then paid | Typically a one-time purchase, no subscription |
 | Designed for identity docs | No | No | Yes |
 
 ![Hand-drawn comparison chart asking where should your passport live: iCloud Photos offers optional end-to-end encryption but needs an account and sync, Google Photos misses all four criteria, an encrypted vault ticks end-to-end, no account, works offline and AES-256](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/storage-comparison.jpg) The comparison table above, redrawn at a glance.
@@ -3474,7 +3474,7 @@ Transit visas are mandatory in several circumstances, and the requirements vary 
 
 The **Schengen Airport Transit Visa (ATV)** applies to certain non-EU passport holders making airside-only connections through any Schengen airport, though many nationalities are exempt - including EU, EEA, UK, US, Canadian, Australian, and several others. Because the exemption list is complex and changes periodically, you cannot assume you are exempt. The IATA Travel Centre database holds the current rules for your specific nationality and destination, so check there rather than guessing based on what you know about other countries.
 
-The **United Kingdom** offers visa-free airside transit for many, but others require what is now called a Direct Airside Transit Visa (DATV). Like Schengen, exemption depends on your nationality, not just your destination.
+The **United Kingdom** offers visa-free airside transit for many, but others require what is now called a Direct Airside Transit Visa (DATV). Like Schengen, exemption depends mainly on your nationality, not just your destination, and GOV.UK says you don't need a transit visa if you hold a UK electronic travel authorisation (ETA).
 
 The **United States** does not offer a true international transit zone, so you must clear immigration and customs on arrival, regardless of where you boarded. This means even a two-hour connection requires entry to the country and handling of your baggage through US immigration, even if your bags are nominally checked through to your final destination. In practice, this comes down to US entry rules rather than transit visa rules, so it's worth building into your travel plan from the start.
 
@@ -3713,7 +3713,7 @@ Source: https://traveldocumentvault.com/blog/travel-expired-passport-uk/
 
 - **Absolute rule:** No international travel with an expired passport. Airlines and border control will refuse you.
 - **Domestic exceptions:** UK to Ireland and Isle of Man may accept alternative photo ID; contact your airline first.
-- **Emergency renewal:** HM Passport Office runs an Online Premium service for renewals only, with a same-day or next-day appointment when slots are available. Check the current fee on gov.uk before you book.
+- **Emergency renewal:** HM Passport Office runs a 1 Day Premium service for adult renewals only: the earliest appointment is 2 days after you apply, and the new passport is ready to collect 4 hours after it. Check the current fee on gov.uk before you book.
 - **Travel insurance:** Most policies void claims if your passport was expired during travel.
 - **If abroad:** Contact the nearest British embassy or consulate for an emergency travel document.
 
@@ -3763,7 +3763,7 @@ If you are considering domestic travel with an expired passport, contact your ai
 
 ## Emergency Renewal: Premium Service, If You Can Get a Slot
 
-If your trip is imminent and your passport is expired, His Majesty's Passport Office offers a Premium service designed for exactly this scenario, with a same-day appointment or one the next working day depending on availability. HM Passport Office publishes the current fee on gov.uk, and it covers the appointment and renewal together rather than being charged on top of the standard fee. It gets you a passport far faster than the standard route, though how much faster depends on the appointment you can get. Note the Online Premium service is for renewals only, not first adult passports.
+If your trip is imminent and your passport is expired, His Majesty's Passport Office offers a 1 Day Premium service designed for exactly this scenario. GOV.UK says the earliest appointment is 2 days after you apply, and the new passport is ready to collect 4 hours after your appointment. HM Passport Office publishes the current fee on gov.uk, and it covers the appointment and renewal together rather than being charged on top of the standard fee. It gets you a passport far faster than the standard route, though how much faster depends on the appointment you can get. Note the 1 Day Premium service is for adult renewals only, not first adult passports.
 
 This is the official emergency route for genuine travel constraints. HM Passport Office publishes its current standard processing guidance on gov.uk, and it's worth checking that before you assume you have time to wait. When a trip genuinely can't wait, the Premium option removes the uncertainty.
 
@@ -4665,7 +4665,7 @@ The consequences of a visa overstay vary by country but are consistently serious
 
 - **UK:** Overstays are recorded and will affect future visa applications. The UK Home Office considers overstays when assessing credibility and may refuse subsequent applications.
 - **Australia:** Overstaying your visa may result in restrictions on future visa applications and removal from the country. Under the Migration Act 1958, overstay records are tracked and will affect future visa applications and re-entry eligibility.
-- **Schengen Area:** Overstays are tracked in the Schengen Information System (SIS). A ban issued by one Schengen country applies across all 27 member states.
+- **Schengen Area:** Overstays are tracked in the Schengen Information System (SIS). A ban issued by one Schengen country applies across the Schengen area, which the European Commission currently lists as 29 countries.
 - **Thailand:** Overstays incur a daily fine set by Thai immigration, up to a capped maximum, and may result in arrest and deportation for extended overstays.
 
 In all cases, the overstay record typically follows you: it appears in immigration databases checked at future border crossings and visa applications.

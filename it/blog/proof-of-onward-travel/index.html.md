@@ -32,7 +32,7 @@ La seconda è l'agente di frontiera all'arrivo. Il suo compito è decidere se am
 
 Un biglietto confermato per uscire dal paese è la forma più comunemente riconosciuta. Può essere un volo di ritorno o un volo verso un paese terzo. Ciò che conta è che parta prima della fine del soggiorno consentito e sia diretto verso un luogo in cui sei autorizzato a entrare.
 
-Le indicazioni di Immigration New Zealand per i visitatori offrono un quadro utile della gamma possibile. Elencano biglietti confermati o a data aperta per uscire dal paese, oppure la conferma scritta di una compagnia aerea o di un'agenzia di viaggio che la prosecuzione è prenotata e pagata. I viaggiatori d'affari possono anche usare una lettera del datore di lavoro che garantisce che la prosecuzione sarà organizzata. Altre destinazioni stabiliscono le proprie liste, e non coincidono tutte.
+Le indicazioni di Immigration New Zealand per i visitatori offrono un quadro utile della gamma possibile. Elencano biglietti confermati o a data aperta per uscire dal paese, oppure la conferma scritta di una compagnia aerea o di un'agenzia di viaggio che la prosecuzione è prenotata e pagata. Accetta anche qualunque elemento che dimostri una partenza confermata, come quella di uno yacht o di un aereo privato. Altre destinazioni stabiliscono le proprie liste, e non coincidono tutte.
 
 Anche una **prenotazione d'albergo** e un **estratto conto bancario** compaiono spesso, ma rispondono a domande diverse. Una mostra dove alloggerai, l'altro mostra che puoi sostenere le spese. Un agente di frontiera può chiedere l'uno o l'altro, ma di solito nessuno dei due sostituisce un biglietto per uscire.
 

@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/es/blog/child-first-passport-application
 
 - **El consentimiento para solicitar el pasaporte es distinto del consentimiento para viajar.** Tu hijo necesita el permiso por escrito de todos los padres o tutores antes de poder presentar la solicitud.
 - **La mayoría de las solicitudes piden tres tipos de pruebas:** prueba de identidad (certificado de nacimiento), prueba de identidad de los padres y prueba del vínculo parental.
-- **Las fotos de pasaporte de bebés tienen normas específicas.** Los ojos deben estar abiertos y mirando a la cámara, sin chupetes, juguetes ni manos visibles —y el fondo detrás de la cabeza del niño debe ser liso y despejado.
+- **Las fotos de pasaporte de bebés tienen normas específicas.** La mayoría de las autoridades quieren los ojos abiertos y mirando a la cámara (GOV.UK relaja esto para menores de 1 y de 6 años), sin chupetes, juguetes ni manos visibles —y el fondo detrás de la cabeza del niño debe ser liso y despejado.
 - **Revísalo todo en cuanto llegue.** La ortografía, los nombres de los padres donde aparezcan, la fecha de caducidad —sobre todo porque los pasaportes infantiles caducan antes que los de los adultos.
 - **Un progenitor no puede firmar solo, salvo que exista una orden judicial, la guarda y custodia legal exclusiva, o que el otro progenitor haya fallecido.** Si es tu caso, tu oficina de pasaportes sigue un procedimiento específico.
 
@@ -52,7 +52,7 @@ Las oficinas de pasaportes piden tres cosas cuando solicitas el primer pasaporte
 
 Aquí es donde muchas primeras solicitudes fracasan. Un bebé o un niño pequeño no puede seguir las normas de la foto como lo haría un adulto: los bebés no se sientan solos, los pequeños no se quedan quietos ni entienden instrucciones, y los recién nacidos no miran a la cámara a la orden. Las normas de las fotos de pasaporte se redactaron pensando en adultos, y hay que entender cómo adaptarlas cuando el sujeto es un niño que pesa 5 kilos y no para de moverse.
 
-**Las normas básicas son las mismas:** los ojos del niño deben estar claramente abiertos y mirando a la cámara, con un fondo liso detrás de la cabeza y nada más en el encuadre. Lo que cambia es cómo lo consigues.
+**Las normas básicas son las mismas:** los ojos del niño deben estar generalmente abiertos y mirando a la cámara, con un fondo liso detrás de la cabeza y nada más en el encuadre. Algunas autoridades relajan la norma de los ojos para los niños más pequeños: GOV.UK no exige los ojos abiertos en menores de un año, ni mirar directamente a la cámara en menores de 6. Lo que cambia es cómo lo consigues.
 
 **Para un recién nacido o un bebé de menos de 6 meses:** fotografíalo tumbado sobre una sábana o manta lisa, blanca o de color claro. La tela se convierte en el fondo. La cabeza del niño ocupa el tercio superior del encuadre. Colócate justo encima para que el bebé mire hacia arriba, directo a la cámara, con los ojos abiertos —si está somnoliento, espera a un momento en que esté despierto. Nada de juguetes, chupetes, manos, ni ninguna otra persona visible en el encuadre salvo la cabeza y los hombros del bebé.
 
@@ -62,7 +62,7 @@ Aquí es donde muchas primeras solicitudes fracasan. Un bebé o un niño pequeñ
 
 **Los errores más frecuentes** se reducen a algo que se cuela en un encuadre pensado para que salga solo el bebé:
 
-- Una mano del progenitor sujetando la cabeza del bebé (no permitido).
+- Una mano del progenitor visible en la toma. GOV.UK permite sujetar la cabeza del bebé, pero la mano no debe verse en la foto.
 - Un chupete todavía en la boca del bebé (hay que quitarlo antes de la foto).
 - Otra persona parcialmente visible en el borde del encuadre (no debe aparecer en absoluto).
 - Juguetes u objetos en el fondo (retíralos antes).
@@ -106,7 +106,7 @@ Como mínimo: prueba de la identidad del niño (certificado de nacimiento), prue
 
 ### ¿Qué hace diferente a una foto de pasaporte de un bebé?
 
-Los ojos del bebé deben estar claramente abiertos y mirando a la cámara, sin chupetes, juguetes ni manos de otras personas visibles. El fondo liso debe verse con claridad detrás de la cabeza del niño. Como los bebés no pueden sentarse solos ni quedarse quietos, puedes fotografiarlos tumbados sobre un fondo liso —la norma es que la cabeza debe llenar el encuadre, que solo aparezca el niño en la foto, y que el fondo detrás de él esté despejado y sin obstáculos.
+Muchas autoridades quieren que el bebé tenga los ojos abiertos y mire a la cámara, sin chupetes, juguetes ni manos de otras personas visibles. Algunas relajan la norma de los ojos para los niños pequeños: GOV.UK, por ejemplo, dice que un niño menor de un año no necesita tener los ojos abiertos y que uno menor de 6 años no necesita mirar directamente a la cámara. El fondo liso debe verse con claridad detrás de la cabeza del niño. Como los bebés no pueden sentarse solos ni quedarse quietos, puedes fotografiarlos tumbados sobre un fondo liso —la norma es que la cabeza debe llenar el encuadre, que solo aparezca el niño en la foto, y que el fondo detrás de él esté despejado y sin obstáculos.
 
 ### ¿Cuánto tiempo es válido el pasaporte de un menor?
 

@@ -28,9 +28,9 @@ Die standardmäßige Gültigkeitsdauer für einen Reisepass für Erwachsene betr
 |---|---|---|
 | Vereinigtes Königreich | 10 Jahre | 5 Jahre (unter 16) |
 | Vereinigte Staaten | 10 Jahre | 5 Jahre (unter 16) |
-| Australien | 10 Jahre | 5 Jahre (unter 18) |
+| Australien | 10 Jahre | 5 Jahre (unter 16) |
 | Kanada | 10 Jahre | 5 Jahre |
-| Irland | 10 Jahre | 3 Jahre (unter 18) |
+| Irland | 10 Jahre | 5 Jahre (unter 18) |
 | Neuseeland | 10 Jahre | 5 Jahre (unter 16) |
 
 Ihr genaues Verfallsdatum ist auf der Datenseite neben Ihrem Foto aufgedruckt. Dieses Datum ist die harte Grenze – Ihr Reisepass ist kein gültiges Reisedokument mehr, wenn es diesen Punkt überschreitet.

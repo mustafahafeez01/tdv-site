@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/nl/blog/travel-expired-passport-uk/
 
 - **Absolute regel:** geen internationale reizen met een verlopen paspoort. Luchtvaartmaatschappijen en grensbewaking wijzen je af.
 - **Binnenlandse uitzonderingen:** van het VK naar Ierland en het Isle of Man kan alternatieve foto-ID worden geaccepteerd; neem eerst contact op met je luchtvaartmaatschappij.
-- **Noodverlenging:** His Majesty's Passport Office biedt een online Premium-service uitsluitend voor verlengingen, met een afspraak dezelfde dag of de volgende dag als er plek is. Controleer de actuele kosten op gov.uk voordat je boekt.
+- **Noodverlenging:** His Majesty's Passport Office biedt een 1 Day Premium-service, uitsluitend voor verlengingen van volwassenen: de vroegst mogelijke afspraak is 2 dagen na je aanvraag, en je nieuwe paspoort is 4 uur na de afspraak klaar om af te halen. Controleer de actuele kosten op gov.uk voordat je boekt.
 - **Reisverzekering:** de meeste polissen maken claims ongeldig als je paspoort tijdens de reis verlopen was.
 - **Als je in het buitenland bent:** neem contact op met de dichtstbijzijnde Britse ambassade of het consulaat voor een noodreisdocument.
 
@@ -66,7 +66,7 @@ Overweeg je een binnenlandse reis met een verlopen paspoort, neem dan minstens 4
 
 ## Noodverlenging: Premium-service, als je een plek kunt krijgen
 
-Als je reis op korte termijn is en je paspoort is verlopen, biedt His Majesty's Passport Office een Premium-service die precies voor dit scenario is ontworpen, met een garantie op een afspraak dezelfde dag of de eerstvolgende werkdag, afhankelijk van beschikbaarheid. His Majesty's Passport Office publiceert de actuele kosten op gov.uk, en die dekken de afspraak en de verlenging samen, in plaats van een toeslag bovenop het standaardtarief. Je verlengde paspoort komt aanzienlijk sneller aan dan via de standaardroute, al hangt hoeveel sneller af van de afspraak die je kunt krijgen. Let op: de online Premium-service is alleen voor verlengingen, niet voor eerste paspoorten voor volwassenen.
+Als je reis op korte termijn is en je paspoort is verlopen, biedt His Majesty's Passport Office een 1 Day Premium-service die precies voor dit scenario is ontworpen. Volgens gov.uk is de vroegst mogelijke afspraak 2 dagen na je aanvraag, en is je nieuwe paspoort 4 uur na de afspraak klaar om af te halen. His Majesty's Passport Office publiceert de actuele kosten op gov.uk, en die dekken de afspraak en de verlenging samen, in plaats van een toeslag bovenop het standaardtarief. Je verlengde paspoort komt aanzienlijk sneller aan dan via de standaardroute, al hangt hoeveel sneller af van de afspraak die je kunt krijgen. Let op: de 1 Day Premium-service is alleen voor verlengingen van volwassenen, niet voor eerste paspoorten voor volwassenen.
 
 Dit is de officiële noodroute voor echte reisbeperkingen. De officiële richtlijn is momenteel om rekening te houden met ongeveer 3 weken voor een standaardverlenging, en bijna alle aanvragen worden binnen die termijn verwerkt, maar wanneer een reis echt niet kan wachten, neemt de Premium-optie de onzekerheid weg.
 

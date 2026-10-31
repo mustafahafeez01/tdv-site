@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/nl/blog/child-first-passport-application
 
 - **Toestemming om aan te vragen is iets anders dan toestemming om te reizen.** Je kind heeft schriftelijke toestemming van alle ouders of voogden nodig voordat de aanvraag kan worden ingediend.
 - **De meeste aanvragen vragen om drie soorten bewijs:** bewijs van identiteit van het kind (geboorteakte), bewijs van identiteit van de ouders, en bewijs van de ouderlijke relatie.
-- **Voor babyfoto's op een paspoort gelden specifieke regels.** De ogen moeten open zijn en naar de camera kijken, zonder speen, speelgoed of handen van anderen in beeld – en de achtergrond achter het hoofd van het kind moet effen en onbelemmerd zijn.
+- **Voor babyfoto's op een paspoort gelden specifieke regels.** De meeste instanties willen open ogen die naar de camera kijken (GOV.UK verzacht dit voor kinderen onder één jaar en onder zes jaar), zonder speen, speelgoed of handen van anderen in beeld – en de achtergrond achter het hoofd van het kind moet effen en onbelemmerd zijn.
 - **Controleer alles zodra het paspoort binnenkomt.** Spelling, namen van de ouders waar die vermeld staan, vervaldatum – vooral omdat paspoorten van kinderen sneller verlopen dan die van volwassenen.
 - **Eén ouder kan niet alleen tekenen, tenzij er een gerechtelijk bevel is, sprake is van exclusief ouderlijk gezag, of de andere ouder is overleden.** Is dit jouw situatie, dan heeft je paspoortinstantie hiervoor een specifieke procedure.
 
@@ -52,7 +52,7 @@ Paspoortinstanties willen drie dingen zien als je het eerste paspoort van een ki
 
 Dit is waar veel eerste aanvragen misgaan. Een baby of klein kind kan de fotoregels niet volgen zoals een volwassene: baby's kunnen niet zelf rechtop zitten, peuters kunnen niet stilzitten of instructies begrijpen, en pasgeborenen kunnen niet op commando naar de camera kijken. De paspoortfotostandaarden zijn geschreven voor volwassenen, en je moet begrijpen hoe je ze aanpast als het onderwerp een kind is dat 5 kilo weegt en voortdurend beweegt.
 
-**De basisregels blijven hetzelfde:** de ogen van het kind moeten duidelijk open zijn en naar de camera kijken, met een effen achtergrond achter het hoofd en verder niets in beeld. Wat verandert, is hoe je dat voor elkaar krijgt.
+**De basisregels blijven hetzelfde:** de ogen van het kind moeten over het algemeen open zijn en naar de camera kijken, met een effen achtergrond achter het hoofd en verder niets in beeld. Sommige instanties verzachten de regels rond de ogen voor de allerjongste kinderen: GOV.UK vereist geen open ogen onder de één jaar, en geen directe blik in de camera onder de zes jaar. Wat verandert, is hoe je dat voor elkaar krijgt.
 
 **Voor een pasgeborene of baby onder de 6 maanden:** fotografeer het kind liggend op een effen wit of licht laken of dekentje. Het laken wordt de achtergrond. Het hoofd van het kind vult het bovenste derde deel van het beeld. Ga er recht boven staan, zodat de baby recht omhoog naar de camera kijkt, met open ogen – is de baby slaperig, wacht dan op een moment waarop hij of zij alert is. Geen speelgoed, geen speen, geen handen, geen andere persoon zichtbaar in beeld behalve het hoofd en de schouders van de baby zelf.
 
@@ -62,7 +62,7 @@ Dit is waar veel eerste aanvragen misgaan. Een baby of klein kind kan de fotoreg
 
 **De meest voorkomende fouten** komen allemaal neer op iets dat in beeld sluipt terwijl er alleen de baby op de foto hoort te staan:
 
-- De hand van een ouder die het hoofd van de baby ondersteunt en in beeld komt (niet toegestaan).
+- De hand van een ouder die in beeld komt. GOV.UK staat toe dat je het hoofd van de baby ondersteunt, maar je hand mag niet zichtbaar zijn op de foto.
 - Een speen die nog in de mond van de baby zit (moet vóór de opname worden verwijderd).
 - Iemand anders die gedeeltelijk zichtbaar is aan de rand (mag niet in beeld zijn).
 - Speelgoed of voorwerpen op de achtergrond (haal ze weg).
@@ -106,7 +106,7 @@ Minimaal nodig: bewijs van de identiteit van het kind (geboorteakte), bewijs van
 
 ### Wat maakt een paspoortfoto van een baby anders?
 
-De ogen van de baby moeten duidelijk open zijn en naar de camera kijken, zonder speen, speelgoed, of handen van anderen in beeld. De effen achtergrond moet duidelijk zichtbaar zijn achter het hoofd van het kind. Omdat baby's niet zelf kunnen zitten of stilzitten, mag je ze liggend fotograferen op een effen achtergrond – de regel is dat het hoofd het beeld moet vullen, dat alleen het kind in beeld is, en dat de achtergrond erachter schoon en onbelemmerd moet zijn.
+Veel instanties willen dat de ogen van de baby open zijn en naar de camera kijken, zonder speen, speelgoed of handen van anderen in beeld. Sommige verzachten de regels voor jonge kinderen: GOV.UK zegt bijvoorbeeld dat een kind onder de één jaar de ogen niet open hoeft te hebben, en een kind onder de zes jaar niet rechtstreeks in de camera hoeft te kijken. De effen achtergrond moet duidelijk zichtbaar zijn achter het hoofd van het kind. Omdat baby's niet zelf kunnen zitten of stilzitten, mag je ze liggend fotograferen op een effen achtergrond – de regel is dat het hoofd het beeld moet vullen, dat alleen het kind in beeld is, en dat de achtergrond erachter schoon en onbelemmerd moet zijn.
 
 ### Hoe lang is het paspoort van een kind geldig?
 

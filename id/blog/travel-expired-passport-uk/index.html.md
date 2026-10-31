@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/id/blog/travel-expired-passport-uk/
 
 - **Aturan mutlak:** Tidak ada perjalanan internasional dengan paspor yang sudah kedaluwarsa. Maskapai dan petugas imigrasi akan menolak Anda.
 - **Pengecualian domestik:** Inggris ke Irlandia dan Isle of Man mungkin menerima identitas berfoto alternatif; hubungi maskapai Anda terlebih dahulu.
-- **Perpanjangan darurat:** His Majesty's Passport Office menjalankan layanan Premium daring khusus untuk perpanjangan, dengan janji temu hari yang sama atau keesokan harinya jika slot tersedia. Periksa biaya terkini di gov.uk sebelum memesan.
+- **Perpanjangan darurat:** His Majesty's Passport Office menjalankan layanan 1 Day Premium khusus untuk perpanjangan dewasa: janji temu paling cepat tersedia 2 hari setelah Anda mengajukan, dan paspor baru siap diambil 4 jam setelah janji temu tersebut. Periksa biaya terkini di gov.uk sebelum memesan.
 - **Asuransi perjalanan:** Sebagian besar polis membatalkan klaim jika paspor Anda sudah kedaluwarsa selama perjalanan.
 - **Jika berada di luar negeri:** Hubungi kedutaan besar atau konsulat Inggris terdekat untuk mendapatkan dokumen perjalanan darurat.
 
@@ -66,7 +66,7 @@ Jika Anda mempertimbangkan perjalanan domestik dengan paspor yang sudah kedaluwa
 
 ## Perpanjangan Darurat: Layanan Premium, Jika Anda Mendapat Slot
 
-Jika perjalanan Anda sudah dekat dan paspor Anda kedaluwarsa, His Majesty's Passport Office menawarkan layanan Premium yang dirancang khusus untuk situasi seperti ini, dengan jaminan janji temu di hari yang sama atau hari kerja berikutnya tergantung ketersediaan. His Majesty's Passport Office mempublikasikan biaya terkini di gov.uk, dan biaya itu mencakup janji temu serta perpanjangan sekaligus, bukan tambahan di atas biaya standar. Paspor Anda yang diperbarui akan tiba jauh lebih cepat dibanding jalur standar, meski seberapa cepat tergantung janji temu yang bisa Anda dapatkan. Perlu diketahui, layanan Premium daring ini hanya untuk perpanjangan, bukan untuk paspor pertama bagi orang dewasa.
+Jika perjalanan Anda sudah dekat dan paspor Anda kedaluwarsa, His Majesty's Passport Office menawarkan layanan 1 Day Premium yang dirancang khusus untuk situasi seperti ini. GOV.UK menyatakan janji temu paling cepat tersedia 2 hari setelah Anda mengajukan, dan paspor baru siap diambil 4 jam setelah janji temu tersebut. His Majesty's Passport Office mempublikasikan biaya terkini di gov.uk, dan biaya itu mencakup janji temu serta perpanjangan sekaligus, bukan tambahan di atas biaya standar. Paspor Anda yang diperbarui akan tiba jauh lebih cepat dibanding jalur standar, meski seberapa cepat tergantung janji temu yang bisa Anda dapatkan. Perlu diketahui, layanan 1 Day Premium ini hanya untuk perpanjangan dewasa, bukan untuk paspor pertama bagi orang dewasa.
 
 Ini adalah jalur darurat resmi untuk kendala perjalanan yang sesungguhnya. Panduan resmi saat ini menyarankan sekitar 3 minggu untuk perpanjangan standar, dan hampir semua permohonan diproses dalam jangka waktu tersebut, tetapi ketika sebuah perjalanan benar-benar tidak bisa ditunda, opsi Premium menghilangkan ketidakpastian tersebut.
 

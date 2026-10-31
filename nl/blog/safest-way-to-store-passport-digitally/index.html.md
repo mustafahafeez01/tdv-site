@@ -99,7 +99,7 @@ Met Pro kun je documenten synchroniseren tussen ingestelde apparaten op hetzelfd
 | Werkt volledig offline | Nee (vereist synchronisatie) | Nee (vereist synchronisatie) | Ja |
 | Risico op extern datalek | Gemiddeld (Apple's servers) | Gemiddeld tot hoog (Google's servers + contentscanning) | Optionele versleutelde back-up naar je eigen iCloud of Google Drive (Pro) |
 | Toegang op meerdere apparaten | Automatisch | Automatisch | Handmatige kluisexport; optionele automatische cloudback-up en synchronisatie (Pro) |
-| Kosten | Gratis (200 GB), daarna betaald | Gratis (15 GB), daarna betaald | Doorgaans een eenmalige aankoop, geen abonnement |
+| Kosten | Gratis (5 GB), daarna betaald | Gratis (15 GB), daarna betaald | Doorgaans een eenmalige aankoop, geen abonnement |
 | Ontworpen voor identiteitsdocumenten | Nee | Nee | Ja |
 
 ## Welke moet je kiezen?

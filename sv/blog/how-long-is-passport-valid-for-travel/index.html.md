@@ -28,9 +28,9 @@ Standardgiltigheten för ett vuxenpass är 10 år från utfärdandedatumet i de 
 |---|---|---|
 | Storbritannien | 10 år | 5 år (under 16) |
 | USA | 10 år | 5 år (under 16) |
-| Australien | 10 år | 5 år (under 18) |
+| Australien | 10 år | 5 år (under 16) |
 | Kanada | 10 år | 5 år |
-| Irland | 10 år | 3 år (under 18) |
+| Irland | 10 år | 5 år (under 18) |
 | Nya Zeeland | 10 år | 5 år (under 16) |
 
 Ditt exakta utgångsdatum finns tryckt på datasidan bredvid ditt foto. Det datumet är den absoluta gränsen – ditt pass slutar vara en giltig resehandling överallt i världen så snart det passeras.

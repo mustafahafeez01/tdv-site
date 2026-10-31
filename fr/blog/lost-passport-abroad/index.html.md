@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/fr/blog/lost-passport-abroad/
 
 ## Points clés
 
-- Déposez un rapport de police d'abord — vous en avez besoin pour votre demande à l'ambassade et votre réclamation d'assurance.
+- Déposez un rapport de police dès que possible — votre assureur le demandera généralement, et certaines ambassades aussi.
 - Votre ambassade ou consulat peut délivrer un document de voyage d'urgence, généralement bien plus vite qu'un passeport de remplacement. **Appelez à l'avance** — la plupart exigent un rendez-vous.
 - Les voyageurs qui disposent d'une copie numérique sécurisée de leur passeport obtiennent les documents de remplacement plus rapidement — vous fournissez les détails dont votre ambassade a besoin en quelques secondes.
 - L'assurance voyage couvre les frais de remplacement du passeport dans la plupart des polices complètes. Vous avez besoin du rapport de police pour la réclamation.
@@ -36,7 +36,7 @@ Vérifiez partout avant de supposer le pire — les poches de votre veste, chaqu
 
 ## Étape 2 — Déposez un rapport de police immédiatement
 
-Allez au poste de police le plus proche et signalez le passeport perdu ou volé. Vous en avez besoin pour votre demande à l'ambassade et votre réclamation d'assurance. Nous le ferions dans l'heure si possible, tant que les détails sont encore frais dans votre mémoire.
+Allez au poste de police le plus proche et signalez le passeport perdu ou volé. Votre assureur le demandera généralement pour une réclamation, et certaines ambassades en demandent un aussi, mais pas toutes : le Gouvernement du Canada, par exemple, indique qu'il n'est pas requis pour remplacer un passeport. Nous le ferions dans l'heure si possible, tant que les détails sont encore frais dans votre mémoire.
 
 Demandez une copie écrite avec un numéro de dossier. Demandez une version anglaise ou une traduction si possible. Prenez une photo et conservez plusieurs copies en sécurité.
 
@@ -57,7 +57,7 @@ Votre ambassade délivre un document de voyage d'urgence (DTU) ou un passeport d
 
 Ce dont vous aurez généralement besoin (confirmez avec votre ambassade avant de visiter):
 
-- Rapport de police avec numéro de dossier
+- Rapport de police avec numéro de dossier, si votre ambassade en demande un
 - Preuve d'identité — permis de conduire, acte de naissance ou tout autre document d'identité délivré par le gouvernement
 - Photos de passeport — demandez à votre ambassade où les obtenir localement
 - Votre copie numérique du passeport perdu si vous en avez une
@@ -98,7 +98,7 @@ Oui. La plupart des pays délivrent des documents de voyage d'urgence par l'inte
 
 ### Ai-je besoin d'un rapport de police si mon passeport est volé à l'étranger?
 
-Oui. Un rapport de police est exigé par la plupart des ambassades pour les demandes de document de voyage d'urgence, et par la plupart des assureurs voyage pour les réclamations. Obtenez-le au poste de police local immédiatement, demandez une copie en anglais si possible, et conservez plusieurs copies.
+Cela vaut généralement la peine d'en obtenir un, même si toutes les autorités de passeport ne l'exigent pas. Le Gouvernement du Canada indique qu'un rapport de police n'est pas requis pour remplacer un passeport, mais qu'il peut aider pour une réclamation d'assurance, et GOV.UK n'en mentionne aucun pour une demande de document de voyage d'urgence britannique. Certaines ambassades en demandent un, et la plupart des assureurs voyage l'exigent pour une réclamation. Obtenez-le au poste de police local immédiatement, demandez une copie en anglais si possible, et conservez plusieurs copies.
 
 ### L'assurance voyage couvrira-t-elle un passeport perdu ou volé?
 

@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/nl/blog/passport-expired-what-to-do/
 
 Ontdekken dat je paspoort is verlopen, is een van die momenten waarop de tijd plotseling heel echt aanvoelt. Of je het nu drie maanden voor een reis ontdekte of nu op dit moment bij de incheckbalie op het vliegveld staat, wat er hierna gebeurt hangt volledig af van je situatie.
 
-![Vertakkingsdiagram voor een verlopen paspoort: thuis met een reis op komst, vraag een spoedverlenging aan want het VK biedt dezelfde dag en de VS noodafspraken; op de luchthaven, bel eerst je luchtvaartmaatschappij want sommige boeken gratis om bij noodgevallen. De echte oplossing is een herinnering op 12 maanden, niet 6, want verlopen betekent niet vliegen](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-nl.jpg) Hetzelfde probleem, twee heel verschillende draaiboeken - het hangt allemaal af van waar je staat als je het ontdekt.
+![Vertakkingsdiagram voor een verlopen paspoort: thuis met een reis op komst, vraag een spoedverlenging aan (het VK heeft spoedplekken en de VS noodafspraken); op de luchthaven, bel eerst je luchtvaartmaatschappij want sommige boeken gratis om bij noodgevallen. De echte oplossing is een herinnering op 12 maanden, niet 6, want verlopen betekent niet vliegen](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-nl.jpg) Hetzelfde probleem, twee heel verschillende draaiboeken - het hangt allemaal af van waar je staat als je het ontdekt.
 
 ## Scenario A: je ontdekte het thuis, met een reis in het vooruitzicht
 
@@ -30,7 +30,7 @@ Hoe dringend je moet handelen, bepaalt wat je moet doen:
 - **Ruim de tijd voor vertrek:** vraag online een standaardverlenging aan via de website van je paspoortinstantie – GOV.UK voor het VK, travel.state.gov voor de VS.
 - **Je reis komt dichterbij:** vraag direct aan en betaal voor spoedbehandeling. Zowel het VK als de VS bieden online een snellere betaalde service, en beide publiceren hun actuele doorlooptijd.
 - **Je reis komt echt dichtbij:** bel rechtstreeks met je paspoortinstantie in plaats van alleen op de website te vertrouwen – de adviestelefoon van het HM Passport Office in het VK, of het US National Passport Information Center in de VS.
-- **Je reis is op handen:** vraag naar een spoedafspraak en neem bewijs van je reisdata mee. Het VK biedt een Premium-service op dezelfde dag bij aangewezen paspoortkantoren, en de VS biedt afspraken bij regionale paspoortkantoren.
+- **Je reis is op handen:** vraag naar een spoedafspraak en neem bewijs van je reisdata mee. Het VK's 1 Day Premium-service (alleen voor verlengingen van volwassenen) biedt afspraken vanaf 2 dagen na je aanvraag, met het paspoort klaar om af te halen 4 uur na je afspraak, en de VS biedt afspraken bij regionale paspoortkantoren.
 
 Alle grote paspoortinstanties houden spoedafspraken achter de hand die niet online zichtbaar zijn. Als je tijdlijn krap is, **zouden wij altijd bellen in plaats van alleen op de website te vertrouwen.**
 

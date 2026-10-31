@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/it/blog/travel-expired-passport-uk/
 
 - **Regola assoluta:** Nessun viaggio internazionale con un passaporto scaduto. Le compagnie aeree e il controllo alle frontiere la rifiuteranno.
 - **Eccezioni nazionali:** Regno Unito verso l'Irlanda e l'Isola di Man possono accettare un documento di identità fotografica alternativo; contatti la sua compagnia aerea prima.
-- **Rinnovo d'emergenza:** HM Passport Office offre un servizio Premium online riservato ai rinnovi, con appuntamento lo stesso giorno o il giorno successivo se disponibile. Consulti la tariffa attuale su gov.uk prima di prenotare.
+- **Rinnovo d'emergenza:** HM Passport Office offre un servizio 1 Day Premium riservato ai rinnovi per adulti: il primo appuntamento disponibile è 2 giorni dopo la richiesta, e il nuovo passaporto è pronto per il ritiro 4 ore dopo l'appuntamento.
 - **Assicurazione di viaggio:** La maggior parte delle polizze annulla i sinistri se il passaporto era scaduto durante il viaggio.
 - **Se all'estero:** Contatti l'ambasciata o il consolato britannico più vicino per un documento di viaggio d'emergenza.
 
@@ -66,7 +66,7 @@ Se sta considerando un viaggio nazionale con un passaporto scaduto, contatti la 
 
 ## Rinnovo d'emergenza: servizio Premium, se riesce a ottenere un appuntamento
 
-Se il suo viaggio è imminente e il suo passaporto è scaduto, l'Ufficio passaporti di Sua Maestà offre un servizio Premium progettato proprio per questo scenario, con un appuntamento lo stesso giorno o il giorno lavorativo successivo a seconda della disponibilità. HM Passport Office pubblica la tariffa attuale su gov.uk, che copre insieme appuntamento e rinnovo invece di sommarsi alla tariffa standard. Ottiene il passaporto molto più velocemente rispetto al percorso standard, anche se la rapidità esatta dipende dall'appuntamento disponibile. Si noti che il servizio Premium online è solo per rinnovi, non per i primi passaporti per adulti.
+Se il suo viaggio è imminente e il suo passaporto è scaduto, l'Ufficio passaporti di Sua Maestà offre un servizio 1 Day Premium progettato proprio per questo scenario. GOV.UK indica che il primo appuntamento disponibile è 2 giorni dopo la richiesta, e il nuovo passaporto è pronto per il ritiro 4 ore dopo l'appuntamento. HM Passport Office pubblica la tariffa attuale su gov.uk, che copre insieme appuntamento e rinnovo invece di sommarsi alla tariffa standard. Ottiene il passaporto molto più velocemente rispetto al percorso standard, anche se la rapidità esatta dipende dall'appuntamento disponibile. Si noti che il servizio 1 Day Premium è riservato ai rinnovi per adulti, non ai primi passaporti per adulti.
 
 Questo è il percorso ufficiale di emergenza per i vincoli di viaggio genuini. HM Passport Office pubblica il suo tempo di elaborazione standard attuale su gov.uk, ed è utile controllarlo prima di supporre di avere tempo di attesa. Quando un viaggio genuinamente non può attendere, l'opzione Premium rimuove l'incertezza.
 

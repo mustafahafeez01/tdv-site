@@ -28,7 +28,7 @@ Processing times move with staffing, application volume, and the season, so a fi
 
 Strip away the country-specific paperwork and most systems follow the same shape. There's a standard route that processes applications roughly in the order they arrive, and there's usually at least one paid route that moves you up that queue.
 
-The US calls its faster option expedited processing; the UK offers a fast track and, at some offices, a same-day premium appointment; Australia sells fast track and priority tiers; and Canada offers an in-person express option for people travelling soon. The names differ from country to country, but the underlying mechanism doesn't.
+The US calls its faster option expedited processing; the UK offers a 1 Week Fast Track and, for adult renewals, a 1 Day Premium service; Australia sells fast track and priority tiers; and Canada offers an in-person express option for people travelling soon. The names differ from country to country, but the underlying mechanism doesn't.
 
 It's worth being precise about what you're actually buying when you pay for speed, because it's easy to assume you're skipping steps. You're not. A faster tier buys you an earlier position in the queue or a bookable appointment slot; it does not waive the document checks, the photo requirements, or the identity verification every application goes through. If your form is wrong or your photo doesn't meet spec, paying more won't rescue it. It just gets you to the rejection faster.
 
@@ -42,7 +42,7 @@ What this means in practice
 
 Say you're travelling during a country's peak season and your passport is getting close to the line. Paying for the faster route buys you certainty: an earlier slot in the queue, regardless of how long the standard backlog has grown to that month. Stick with standard processing during a busy period instead, and you're betting that the published time estimate still reflects reality, which is exactly the assumption that catches people out.
 
-One caveat: eligibility for the faster routes usually depends on your situation, not just your willingness to pay. The US only opens emergency appointments to people with documented travel inside a defined window, and the UK's premium same-day service runs at specific offices only, by advance booking. Check the eligibility rules before you assume a route is open to you, not once you're at the counter.
+One caveat: eligibility for the faster routes usually depends on your situation, not just your willingness to pay. The US only opens emergency appointments to people with documented travel inside a defined window, and the UK's 1 Day Premium service covers adult renewals only, with the earliest appointment 2 days after you apply. Check the eligibility rules before you assume a route is open to you, not once you're at the counter.
 
 ## A Short, Predictable List Causes Most Delays
 
@@ -68,7 +68,7 @@ Be careful about borrowing someone else's timeline, too. A friend who renewed qu
 
 This is the part we deliberately leave to the people who actually run the system: HM Passport Office in the UK, the State Department in the US, the Australian Passport Office in Australia, and in Canada, Immigration, Refugees and Citizenship Canada alongside Service Canada for in-person applications. Most other countries publish an equivalent figure through their own national passport or foreign affairs authority.
 
-A little context helps you use that number correctly. HM Passport Office runs a digital service for eligible adults applying from inside the UK, though anyone applying from abroad uses the separate overseas service instead, which still requires posting the current passport; the US State Department's online programme, meanwhile, only covers adults whose passport was issued at 16 or older. Australia requires lodging in person or through Australia Post, with extra parental consent steps for children, while Canada skips online renewal entirely: everything goes through the post via Service Canada or in person, so factor in mailing time on top of whatever IRCC publishes. These authorities are worth trusting because their figures move with real, current application volume rather than a stale average, so check immediately before you apply rather than weeks ahead.
+A little context helps you use that number correctly. HM Passport Office runs a digital service for eligible adults applying from inside the UK, though anyone applying from abroad uses the separate overseas service instead, which still requires posting the current passport; the US State Department's online programme, meanwhile, only covers adults whose passport was issued at 16 or older. Australia requires lodging in person or through Australia Post, with extra parental consent steps for children, while Canada offers online renewal to eligible adults who aren't travelling in the next 20 business days, with everyone else applying by post or in person via Service Canada, so factor in mailing time on top of whatever IRCC publishes. These authorities are worth trusting because their figures move with real, current application volume rather than a stale average, so check immediately before you apply rather than weeks ahead.
 
 ## Can You Travel While Your Passport Is Being Renewed?
 
@@ -92,7 +92,7 @@ There's no fixed number we can give you here, because US State Department proces
 
 ### How long does passport renewal take in the UK?
 
-HM Passport Office publishes its own current processing time, and it changes often enough that quoting one here would likely be wrong by the time you read this. Eligible adults applying from within the UK can use the digital renewal service, which skips posting your passport but still needs [a photo that meets the official requirements](https://traveldocumentvault.com/blog/passport-photo-at-home/). If you're applying from outside the UK, you'll use the overseas service instead, which does require posting your current passport. Fast track and premium same-day appointments exist for urgent cases at specific offices. Check GOV.UK for the figure that applies to your situation.
+HM Passport Office publishes its own current processing time, and it changes often enough that quoting one here would likely be wrong by the time you read this. Eligible adults applying from within the UK can use the digital renewal service, which skips posting your passport but still needs [a photo that meets the official requirements](https://traveldocumentvault.com/blog/passport-photo-at-home/). If you're applying from outside the UK, you'll use the overseas service instead, which does require posting your current passport. For urgent cases, HM Passport Office runs a 1 Week Fast Track service and, for adult renewals only, a 1 Day Premium service with appointments from 2 days after you apply. Check GOV.UK for the figure that applies to your situation.
 
 ### How long does passport renewal take in Australia?
 
@@ -100,7 +100,7 @@ The Australian Passport Office is the only reliable source for current times, be
 
 ### Can I renew my passport online?
 
-The US offers an online renewal option for eligible adults whose passport was issued at 16 or older - check travel.state.gov for current eligibility. The UK offers a digital service for eligible adults applying from within the UK; anyone applying from overseas must use a separate service. Australia and Canada both require in-person or postal lodgement for most renewals. Eligibility rules change, so check your country's official website before assuming you qualify.
+The US offers an online renewal option for eligible adults whose passport was issued at 16 or older - check travel.state.gov for current eligibility. The UK offers a digital service for eligible adults applying from within the UK; anyone applying from overseas must use a separate service. Australia requires in-person or postal lodgement for most renewals. Canada offers online renewal to eligible adults who aren't travelling in the next 20 business days; everyone else applies by post or in person. Eligibility rules change, so check your country's official website before assuming you qualify.
 
 ### What should I do if my passport is expiring and I have travel booked?
 

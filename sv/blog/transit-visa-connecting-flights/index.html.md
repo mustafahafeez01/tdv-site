@@ -41,7 +41,7 @@ Transitvisum är obligatoriskt i flera situationer, och kraven varierar kraftigt
 
 **Schengens flygplatstransitvisum (ATV)** gäller vissa icke-EU-passinnehavare som gör en ren airside-anslutning genom en Schengen-flygplats, men många nationaliteter är undantagna – bland annat EU, EES, Storbritannien, USA, Kanada, Australien och flera andra. Eftersom undantagslistan är komplex och ändras med jämna mellanrum kan du inte utgå från att du är undantagen. IATA Travel Centre-databasen har de aktuella reglerna för just din nationalitet och destination, så kontrollera där i stället för att gissa utifrån vad du vet om andra länder.
 
-**Storbritannien** erbjuder visumfri airside-transit för många, men andra behöver det som numera kallas Direct Airside Transit Visa (DATV). Precis som i Schengen beror undantaget på din nationalitet, inte bara din destination.
+**Storbritannien** erbjuder visumfri airside-transit för många, men andra behöver det som numera kallas Direct Airside Transit Visa (DATV). Precis som i Schengen beror undantaget huvudsakligen på din nationalitet, inte bara din destination, och GOV.UK uppger att du inte behöver transitvisum om du har ett brittiskt electronic travel authorisation (ETA).
 
 **USA** erbjuder ingen egentlig internationell transitzon – du måste passera gränskontroll och tull vid ankomst, oavsett var du steg ombord. Det betyder att även en anslutning på två timmar kräver att du reser in i landet och tar ditt bagage genom amerikansk gräns- och tullkontroll, även om det formellt är incheckat hela vägen till slutdestinationen. I praktiken handlar det om USA:s inresebestämmelser snarare än transitvisumregler, så det är värt att räkna in i reseplaneringen från början.
 

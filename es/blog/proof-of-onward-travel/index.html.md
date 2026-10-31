@@ -32,7 +32,7 @@ La otra es el funcionario de fronteras cuando aterrizas. Su trabajo es decidir s
 
 Un billete confirmado para salir del país es la forma más reconocida. Puede ser un vuelo de vuelta o un vuelo hacia un tercer país. Lo importante es que salga antes de que termine tu estancia permitida y que vaya a un sitio al que puedas entrar.
 
-La guía para visitantes de Immigration New Zealand (el servicio de inmigración de Nueva Zelanda) da una buena idea del abanico de opciones. Incluye billetes confirmados o de fecha abierta para salir del país, o una confirmación por escrito de una aerolínea o agencia de viajes de que el viaje de continuación está reservado y pagado. Los viajeros de negocios también pueden usar una carta de su empresa que garantice que se organizará el viaje de continuación. Otros destinos tienen sus propias listas, y no todas coinciden.
+La guía para visitantes de Immigration New Zealand (el servicio de inmigración de Nueva Zelanda) da una buena idea del abanico de opciones. Incluye billetes confirmados o de fecha abierta para salir del país, o una confirmación por escrito de una aerolínea o agencia de viajes de que el viaje de continuación está reservado y pagado. También acepta cualquier prueba de una salida confirmada, como la de un yate o una aeronave privada. Otros destinos tienen sus propias listas, y no todas coinciden.
 
 Una **reserva de hotel** y un **extracto bancario** también aparecen a menudo, pero responden a preguntas distintas. Uno muestra dónde te vas a alojar, y el otro que puedes pagarte el viaje. Un funcionario de fronteras puede pedir cualquiera de los dos, aunque normalmente ninguno sustituye a un billete de salida.
 

@@ -28,9 +28,9 @@ La période de validité standard d'un passeport pour adulte est de 10 ans à co
 |---|---|---|
 | Royaume-Uni | 10 ans | 5 ans (moins de 16 ans) |
 | États-Unis | 10 ans | 5 ans (moins de 16 ans) |
-| Australie | 10 ans | 5 ans (moins de 18 ans) |
+| Australie | 10 ans | 5 ans (moins de 16 ans) |
 | Canada | 10 ans | 5 ans |
-| Irlande | 10 ans | 3 ans (moins de 18 ans) |
+| Irlande | 10 ans | 5 ans (moins de 18 ans) |
 | Nouvelle-Zélande | 10 ans | 5 ans (moins de 16 ans) |
 
 Votre date d'expiration exacte est imprimée sur la page de données à côté de votre photo. Cette date est la limite ferme — votre passeport cesse d'être un document de voyage valable n'importe où dans le monde une fois qu'il passe.

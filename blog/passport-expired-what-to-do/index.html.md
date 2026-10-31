@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/blog/passport-expired-what-to-do/
 
 Discovering your passport is expired is one of those moments where time suddenly becomes very real. Whether you spotted it three months before a trip or you're standing at the airport check-in desk as you read this, what happens next depends entirely on which situation you're in.
 
-![Hand-drawn branch diagram for an expired passport: at home with a trip coming up, book an urgent renewal (UK same-day and US emergency slots exist); at the airport, call your airline first as some reschedule free in emergencies. The real fix is a reminder at 12 months, not 6 - expired means you do not fly](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure.jpg) Same problem, two very different playbooks - it all depends on where you're standing when you find out.
+![Hand-drawn branch diagram for an expired passport: at home with a trip coming up, book an urgent renewal (UK urgent and US emergency slots exist); at the airport, call your airline first as some reschedule free in emergencies. The real fix is a reminder at 12 months, not 6 - expired means you do not fly](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure.jpg) Same problem, two very different playbooks - it all depends on where you're standing when you find out.
 
 ## Scenario A: You Discovered It at Home, with a Trip Coming Up
 
@@ -30,7 +30,7 @@ How urgently you need to act determines what to do:
 - **Plenty of time before travel:** apply for standard renewal online through your passport authority's website - GOV.UK for the UK, travel.state.gov for the US.
 - **Trip coming up sooner:** apply immediately and pay for expedited processing. Both the UK and the US offer a faster paid service online, and each publishes its current turnaround.
 - **Trip getting close:** call your passport authority directly rather than relying on the website alone - the HM Passport Office adviceline in the UK, or the US National Passport Information Center in the US.
-- **Trip is imminent:** ask about an emergency appointment and bring proof of your travel dates. The UK offers a same-day Premium service at designated passport offices, and the US offers appointments at regional passport agencies.
+- **Trip is imminent:** ask about an emergency appointment and bring proof of your travel dates. The UK's 1 Day Premium service (adult renewals only) books appointments from 2 days after you apply, with the passport ready to collect 4 hours after your appointment, and the US offers appointments at regional passport agencies.
 
 All major passport authorities hold back emergency appointment slots that are not visible online. If your timeline is tight, we'd always call rather than trust the website alone.
 

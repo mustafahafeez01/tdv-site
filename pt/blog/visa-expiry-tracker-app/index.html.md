@@ -51,7 +51,7 @@ As consequências de uma ultrapassagem de visto variam consoante o país mas sã
 
 - **Reino Unido:** As ultrapassagens são registadas e afetarão futuras candidaturas de visto. O Gabinete do Ministério do Interior do Reino Unido considera as ultrapassagens ao avaliar credibilidade e pode recusar candidaturas subsequentes.
 - **Austrália:** Ultrapassar o seu visto pode resultar em restrições às futuras candidaturas de visto e remoção do país. Sob a Migration Act 1958, os registos de ultrapassagem são rastreados e afetarão futuras candidaturas de visto e elegibilidade de reentrada.
-- **Área de Schengen:** As ultrapassagens são rastreadas no Sistema de Informações Schengen (SIS). Uma proibição emitida por um país Schengen aplica-se em todos os 27 estados-membros.
+- **Área de Schengen:** As ultrapassagens são rastreadas no Sistema de Informações Schengen (SIS). Uma proibição emitida por um país Schengen aplica-se a toda a Área Schengen, que a Comissão Europeia lista atualmente como 29 países.
 - **Tailândia:** As ultrapassagens incorrem numa multa diária fixada pela imigração tailandesa, até um limite máximo, e podem resultar em prisão e deportação para ultrapassagens prolongadas.
 
 Em todos os casos, o registo de ultrapassagem tipicamente segue-o: aparece nas bases de dados de imigração verificadas nas futuras travessias de fronteira e candidaturas de visto.

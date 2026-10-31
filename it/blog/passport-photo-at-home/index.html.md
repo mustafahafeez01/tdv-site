@@ -10,10 +10,10 @@ Source: https://traveldocumentvault.com/it/blog/passport-photo-at-home/
 
 ## Punti Chiave
 
-- Usa uno sfondo bianco o bianco sporco, un'espressione neutra, con occhi aperti e sguardo dritto davanti
+- Usa uno sfondo chiaro e uniforme nella tonalità richiesta dalla tua autorità, un'espressione neutra, con occhi aperti e sguardo dritto davanti
 - I requisiti di dimensione variano in base al paese e vengono applicati rigorosamente. Alcune autorità specificano millimetri, altre pollici. Prendi le misure esatte dal tuo ente passaporti anziché da alcun riassunto
 - La luce naturale delle finestre funziona meglio — evita le ombre dure e evita il flash della fotocamera
-- La maggior parte dei paesi vieta ora gli occhiali se non medicamente necessari — controlla i requisiti attuali
+- Molte autorità, inclusa quella britannica, chiedono di non indossare occhiali a meno che non sia necessario — controlla i requisiti attuali
 - I motivi di rifiuto comuni includono ombre, dimensioni sbagliate, sorriso, foto sfocate e sfondi impropri
 
 Una foto scattata a casa viene accettata con la stessa facilità di una scattata in cabina, purché rispetti la stessa breve lista di regole. La maggior parte dei rifiuti si riduce a tre cose: ombra sul viso o sullo sfondo, la testa con la dimensione sbagliata nell'inquadratura, e gli occhiali. Sistema questi punti e il resto è semplice.
@@ -24,7 +24,7 @@ Anche se le regole specifiche variano a seconda dell'autorità passaporti, la ma
 
 ### Sfondo e Composizione
 
-Hai bisogno di uno sfondo bianco o bianco sporco — nient'altro funziona. Nessun motivo, ombre, sfondi sfocati o colori. La logica è diretta: gli ufficiali hanno bisogno di una visione pulita e ordinata del tuo viso per il confronto con documenti futuri. La maggior parte delle persone utilizza un lenzuolo bianco, un cartoncino o persino dipinge una piccola sezione di muro. La chiave è mantenerlo luminoso e uniforme per tutto.
+Hai bisogno di uno sfondo chiaro e uniforme, e la tonalità esatta dipende dalla tua autorità: GOV.UK chiede crema o grigio chiaro, mentre il Government of Canada chiede bianco o un colore chiaro. Nessun motivo, ombre, sfondi sfocati o colori intensi. La logica è diretta: gli ufficiali hanno bisogno di una visione pulita e ordinata del tuo viso per il confronto con documenti futuri. La maggior parte delle persone utilizza un lenzuolo bianco, un cartoncino o persino dipinge una piccola sezione di muro. La chiave è mantenerlo luminoso e uniforme per tutto.
 
 ### Espressione e Postura
 
@@ -32,13 +32,13 @@ Il tuo viso deve riempire il fotogramma nella proporzione specificata dalla tua 
 
 ## Puoi Indossare gli Occhiali nella Foto del Passaporto?
 
-La maggior parte dei paesi si è allontanata dal permettere gli occhiali normali nelle foto passaporto a meno che tu non li indossi permanentemente per una ragione medica. Anche in questo caso, potrebbe essere necessario fornire documentazione o scattare una foto separata senza occhiali. Alcune nazioni permettono ancora gli occhiali da lettura se sono prescritti, ma la lente non deve creare bagliori e i tuoi occhi devono essere chiaramente visibili. L'abbigliamento religioso è generalmente consentito purché non nasconda le caratteristiche facciali necessarie per l'identificazione.
+Le regole sugli occhiali da vista variano più di quanto si immagini. GOV.UK dice ai richiedenti nel Regno Unito di non indossarli a meno che non sia necessario. Il Government of Canada li accetta purché gli occhi siano chiaramente visibili e non ci sia bagliore sulle lenti. L'abbigliamento religioso è generalmente consentito purché non nasconda le caratteristiche facciali necessarie per l'identificazione.
 
 Gli occhiali da sole e le lenti colorate vengono rifiutati ovunque, senza eccezioni mediche. Se hai il diritto di tenere gli occhiali, inclina leggermente la testa lontano dalla luce in modo che le lenti non riflettano, e controlla che la montatura non copra nessuna parte degli occhi.
 
 ## Dimensioni della Foto Passaporto: i Due Standard Più Usati
 
-La maggior parte delle autorità passaporti usa una di due dimensioni stampate. Il formato 35 mm x 45 mm copre il Regno Unito, i paesi dell'UE, inclusi i Paesi Bassi, e gran parte del resto del mondo. Gli Stati Uniti richiedono un quadrato di 2 x 2 pollici, e alcuni paesi seguono invece questo standard.
+La maggior parte delle autorità passaporti usa una di due dimensioni stampate. Il formato 35 mm x 45 mm copre il Regno Unito, i paesi dell'UE, inclusi i Paesi Bassi, e gran parte del resto del mondo. Gli Stati Uniti richiedono un quadrato di 2 x 2 pollici, e alcuni paesi seguono invece questo standard. Alcune autorità fissano una propria dimensione: il Government of Canada, ad esempio, chiede foto stampate di 50 mm di larghezza per 70 mm di altezza.
 
 Le presentazioni digitali sostituiscono i millimetri con i pixel, e ogni autorità pubblica i propri requisiti minimi. Questi due formati sono quelli richiesti attualmente dalla maggior parte delle autorità per la stampa, ma le specifiche vengono riviste, quindi conferma la tua prima di stampare o caricare.
 
@@ -92,9 +92,9 @@ Gli smartphone moderni scattano a 12 megapixel o superiore, il che è più che s
 - **Ombre sul viso:** Causate da illuminazione laterale o fonti di luce dura. Posizionati perpendicolarmente a una finestra per un'illuminazione uniforme, e controlla che le tue orecchie e gli zigomi siano illuminati uniformemente.
 - **Dimensioni foto errate:** La foto non corrisponde alle specifiche del tuo paese (i requisiti variano in base al paese). Usa un'app di ritaglio foto passaporto e ricontrolla le dimensioni rispetto alla specifica ufficiale della tua autorità prima di stampare o caricare — non gli standard di un altro paese.
 - **Sorriso o espressione insolita:** La maggior parte dei paesi richiede un'espressione neutra. Pratica uno sguardo calmo e dritto in uno specchio in anticipo — punta a serio, non aspro.
-- **Occhiali con bagliore:** Il bagliore sulle lenti oscura i tuoi occhi. Rimuovi gli occhiali oppure regola l'angolo per eliminare il riflesso. Molti paesi ora vietano completamente gli occhiali se non medicamente necessari, quindi controlla prima le regole attuali della tua autorità.
+- **Occhiali con bagliore:** Il bagliore sulle lenti oscura i tuoi occhi. Rimuovi gli occhiali oppure regola l'angolo per eliminare il riflesso. Alcune autorità, inclusa quella britannica, chiedono di non indossare occhiali a meno che non sia necessario, quindi controlla prima le regole attuali della tua autorità.
 - **Immagine sfocata o non messa a fuoco:** Problemi di movimento o messa a fuoco durante l'acquisizione. Usa un treppiede o un oggetto stabile per appoggiare il tuo telefono, tocca lo schermo per mettere a fuoco il tuo viso e evita qualsiasi movimento durante lo scatto.
-- **Sfondo sbagliato:** Sfondo colorato, motivo o sfondo bianco non uniforme. Un cartoncino bianco o bianco sporco o un lenzuolo funzionano meglio — assicurati che non ci sia trama visibile o ombre.
+- **Sfondo sbagliato:** Sfondo colorato, motivo o sfondo chiaro non uniforme. Un cartoncino o un lenzuolo chiaro nella tonalità richiesta dalla tua autorità funzionano meglio — assicurati che non ci sia trama visibile o ombre.
 - **Spazio di testa eccessivo o ritaglio:** Viso troppo piccolo o posizionato in modo errato nel fotogramma. Le regole del tuo paese diranno esattamente quanto del fotogramma il tuo viso dovrebbe riempire, solitamente come misura da mento a corona piuttosto che come percentuale — lavora a quella figura, non a quello che sembra giusto.
 
 ## Ritaglia la Foto dello Smartphone, Poi Stampala o Caricala
@@ -113,7 +113,7 @@ Alcuni paesi accettano caricamenti digitali della foto biometrica passaporto pre
 
 Prima di scattare la foto, assicurati di avere quanto segue in posto:
 
-- Materiale sfondo bianco o bianco sporco pronto e posizionato
+- Materiale per lo sfondo, nella tonalità chiara richiesta dalla tua autorità, pronto e posizionato
 - Buona fonte di luce naturale (preferibilmente una finestra)
 - Smartphone con una fotocamera funzionante
 - Treppiede o oggetto stabile su cui appoggiare il tuo telefono
@@ -129,11 +129,11 @@ Se hai una buona luce da finestra e qualche minuto a disposizione, scatta la fot
 
 ### Posso scattare una foto passaporto con il mio smartphone
 
-Sì, puoi scattare una foto passaporto usando uno smartphone. Posizionati di fronte a uno sfondo bianco o bianco sporco con una buona illuminazione naturale e assicurati che la foto soddisfi i requisiti di dimensione e qualità del tuo paese. Molte persone usano un'app di ritaglio per ridimensionare la foto digitale alle dimensioni ufficiali e poi la stampano o la caricano digitalmente a seconda del processo di presentazione del loro paese.
+Sì, puoi scattare una foto passaporto usando uno smartphone. Posizionati di fronte a uno sfondo chiaro e uniforme, nella tonalità richiesta dalla tua autorità passaporti, con una buona illuminazione naturale e assicurati che la foto soddisfi i requisiti di dimensione e qualità del tuo paese. Molte persone usano un'app di ritaglio per ridimensionare la foto digitale alle dimensioni ufficiali e poi la stampano o la caricano digitalmente a seconda del processo di presentazione del loro paese.
 
 ### Quale dovrebbe essere la dimensione di una foto passaporto
 
-La maggior parte dei paesi usa una di due dimensioni stampate: 35 mm x 45 mm, che copre il Regno Unito, l'UE e gran parte del mondo, oppure il quadrato di 2 x 2 pollici usato negli Stati Uniti. Le presentazioni digitali hanno requisiti minimi in pixel separati. I requisiti vengono applicati rigorosamente e vengono rivisti, quindi conferma la specifica esatta con la tua autorità passaporti prima di stampare o caricare.
+La maggior parte dei paesi usa una di due dimensioni stampate: 35 mm x 45 mm, che copre il Regno Unito, l'UE e gran parte del mondo, oppure il quadrato di 2 x 2 pollici usato negli Stati Uniti. Alcune autorità fissano una propria dimensione, come i 50 mm x 70 mm del Government of Canada. Le presentazioni digitali hanno requisiti minimi in pixel separati. I requisiti vengono applicati rigorosamente e vengono rivisti, quindi conferma la specifica esatta con la tua autorità passaporti prima di stampare o caricare.
 
 ### Perché la mia foto passaporto è stata rifiutata
 
@@ -145,11 +145,11 @@ La luce naturale da una finestra è ideale per le foto passaporto. Evita le ombr
 
 ### Posso indossare occhiali in una foto passaporto
 
-La maggior parte dei paesi ora vieta gli occhiali nelle foto passaporto a meno che non siano medicamente necessari. Anche in questo caso, potresti dover fornire documentazione. Controlla i requisiti attuali del tuo paese prima di scattare la foto, poiché le regole si sono evolute negli ultimi anni. Se hai dubbi, scatta sia una foto con che senza occhiali per avere opzioni.
+Dipende dall'autorità. GOV.UK dice ai richiedenti nel Regno Unito di non indossare occhiali a meno che non sia necessario, mentre il Government of Canada li accetta se gli occhi sono chiaramente visibili e non c'è bagliore sulle lenti. Gli occhiali da sole e le lenti colorate vengono in genere respinti. Controlla i requisiti attuali del tuo paese prima di scattare la foto, poiché le regole si sono evolute negli ultimi anni. Se hai dubbi, scatta sia una foto con che senza occhiali per avere opzioni.
 
 ### Quali sono le regole per una foto passaporto?
 
-Le regole principali sono coerenti nella maggior parte dei paesi: uno sfondo chiaro e uniforme, un'espressione neutra con la bocca chiusa, entrambi gli occhi aperti e chiaramente visibili, niente occhiali a meno che non siano medicamente necessari, un'illuminazione uniforme senza ombre e una foto recente che rispetti la specifica di dimensione del tuo paese. Ogni autorità pubblica il proprio elenco completo e i dettagli differiscono, quindi controlla il tuo prima di scattare.
+Le regole principali sono coerenti nella maggior parte dei paesi: uno sfondo chiaro e uniforme, un'espressione neutra con la bocca chiusa, entrambi gli occhi aperti e chiaramente visibili, nessun bagliore o tinta sulle lenti degli occhiali se la tua autorità te li fa tenere, un'illuminazione uniforme senza ombre e una foto recente che rispetti la specifica di dimensione del tuo paese. Ogni autorità pubblica il proprio elenco completo e i dettagli differiscono, quindi controlla il tuo prima di scattare.
 
 ## Articoli Correlati
 

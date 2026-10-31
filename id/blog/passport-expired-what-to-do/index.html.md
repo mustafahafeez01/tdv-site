@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/id/blog/passport-expired-what-to-do/
 
 Menemukan bahwa paspor Anda sudah kedaluwarsa adalah salah satu momen ketika waktu tiba-tiba terasa sangat nyata. Baik Anda menyadarinya tiga bulan sebelum keberangkatan atau justru sedang berdiri di meja check-in bandara sekarang, langkah selanjutnya bergantung sepenuhnya pada situasi yang Anda hadapi.
 
-![Diagram cabang untuk paspor kedaluwarsa: di rumah dengan perjalanan yang akan datang, ajukan perpanjangan darurat karena Inggris menyediakan slot sehari jadi dan AS punya slot darurat; di bandara, hubungi maskapai Anda dulu karena sebagian menjadwalkan ulang gratis untuk keadaan darurat. Solusi sesungguhnya adalah pengingat di 12 bulan, bukan 6, karena kedaluwarsa berarti Anda tidak bisa terbang](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-id.jpg) Masalah yang sama, dua langkah yang sangat berbeda - semuanya bergantung pada di mana Anda berada saat menyadarinya.
+![Diagram cabang untuk paspor kedaluwarsa: di rumah dengan perjalanan yang akan datang, ajukan perpanjangan darurat karena Inggris punya slot mendesak dan AS punya slot darurat; di bandara, hubungi maskapai Anda dulu karena sebagian menjadwalkan ulang gratis untuk keadaan darurat. Solusi sesungguhnya adalah pengingat di 12 bulan, bukan 6, karena kedaluwarsa berarti Anda tidak bisa terbang](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-id.jpg) Masalah yang sama, dua langkah yang sangat berbeda - semuanya bergantung pada di mana Anda berada saat menyadarinya.
 
 ## Skenario A: Anda Menemukannya di Rumah, dengan Rencana Perjalanan
 
@@ -30,7 +30,7 @@ Seberapa mendesak Anda harus bertindak menentukan apa yang harus dilakukan:
 - **Masih banyak waktu sebelum keberangkatan:** ajukan perpanjangan standar secara daring lewat situs web kantor imigrasi Anda — GOV.UK untuk Inggris, travel.state.gov untuk Amerika Serikat.
 - **Keberangkatan semakin dekat:** ajukan segera dan bayar untuk proses yang dipercepat. Baik Inggris maupun Amerika Serikat menawarkan layanan berbayar yang lebih cepat secara daring, dan keduanya mempublikasikan estimasi waktu proses terkini.
 - **Keberangkatan semakin mepet:** telepon langsung kantor imigrasi Anda alih-alih hanya mengandalkan situs web — saluran bantuan HM Passport Office di Inggris, atau US National Passport Information Center di Amerika Serikat.
-- **Keberangkatan sudah sangat dekat:** tanyakan soal janji temu darurat dan bawa bukti tanggal perjalanan Anda. Inggris menawarkan layanan Premium hari yang sama di kantor paspor tertentu, dan Amerika Serikat menawarkan janji temu di kantor paspor regional.
+- **Keberangkatan sudah sangat dekat:** tanyakan soal janji temu darurat dan bawa bukti tanggal perjalanan Anda. Layanan 1 Day Premium Inggris (khusus perpanjangan dewasa) membuka janji temu paling cepat 2 hari setelah Anda mengajukan, dengan paspor baru siap diambil 4 jam setelah janji temu itu, dan Amerika Serikat menawarkan janji temu di kantor paspor regional.
 
 Semua kantor imigrasi besar menyimpan slot janji temu darurat yang tidak terlihat secara daring. Jika waktu Anda mepet, **kami akan selalu menelepon, bukan hanya mengandalkan situs web.**
 

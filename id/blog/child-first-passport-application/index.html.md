@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/id/blog/child-first-passport-application
 
 - **Persetujuan untuk mengajukan berbeda dari persetujuan untuk bepergian.** Anak Anda memerlukan izin tertulis dari semua orang tua atau wali sebelum permohonan bisa diajukan.
 - **Sebagian besar permohonan memerlukan tiga jenis bukti:** bukti identitas anak (akta kelahiran), bukti identitas orang tua, dan bukti hubungan orang tua dengan anak.
-- **Foto paspor bayi memiliki aturan khusus.** Mata harus terbuka dan menghadap kamera, tanpa empeng, mainan, atau tangan orang lain yang terlihat, dan latar belakang di belakang kepala anak harus polos dan jelas.
+- **Foto paspor bayi memiliki aturan khusus.** Sebagian besar otoritas menginginkan mata terbuka dan menghadap kamera (GOV.UK melonggarkan ini untuk anak di bawah 1 dan di bawah 6 tahun), tanpa empeng, mainan, atau tangan orang lain yang terlihat, dan latar belakang di belakang kepala anak harus polos dan jelas.
 - **Periksa semuanya begitu paspor tiba.** Ejaan nama, nama orang tua di bagian yang mencantumkannya, dan tanggal kedaluwarsa, terutama karena paspor anak kedaluwarsa lebih cepat daripada paspor dewasa.
 - **Satu orang tua tidak bisa menandatangani sendirian,** kecuali ada putusan pengadilan, hak asuh tunggal secara hukum, atau orang tua lainnya sudah meninggal. Jika ini situasi Anda, kantor paspor Anda memiliki prosedur khusus yang harus diikuti.
 
@@ -52,7 +52,7 @@ Kantor paspor memerlukan tiga hal saat Anda mengajukan paspor pertama untuk anak
 
 Di sinilah banyak permohonan pertama kali gagal. Bayi atau anak kecil tidak bisa mengikuti aturan foto seperti orang dewasa, bayi belum bisa duduk tegak, balita belum bisa diam atau memahami instruksi, dan bayi baru lahir tidak bisa melihat kamera atas perintah. Standar foto paspor dibuat untuk orang dewasa, sehingga Anda perlu memahami cara menyesuaikannya saat subjeknya adalah anak yang beratnya 5 kilogram dan terus bergerak.
 
-**Aturan intinya tetap sama.** Mata anak harus terbuka jelas dan menghadap kamera, dengan latar belakang polos di belakang kepalanya dan tidak ada hal lain dalam bingkai. Yang berbeda adalah cara Anda mewujudkannya.
+**Aturan intinya tetap sama.** Mata anak umumnya harus terbuka dan menghadap kamera, dengan latar belakang polos di belakang kepalanya dan tidak ada hal lain dalam bingkai. Sebagian otoritas melonggarkan aturan mata untuk anak paling kecil: GOV.UK tidak mewajibkan mata terbuka untuk anak di bawah satu tahun, atau menatap langsung ke kamera untuk anak di bawah 6 tahun. Yang berbeda adalah cara Anda mewujudkannya.
 
 **Untuk bayi baru lahir atau di bawah 6 bulan,** potret mereka sambil berbaring di atas seprai atau selimut polos berwarna putih atau pucat. Seprai itu menjadi latar belakang. Kepala anak mengisi sepertiga bagian atas bingkai. Berdirilah tepat di atasnya agar bayi menatap lurus ke kamera dengan mata terbuka, jika bayi mengantuk, tunggu saat mereka waspada. Tidak boleh ada mainan, empeng, tangan, atau orang lain yang terlihat dalam bingkai selain kepala dan bahu bayi itu sendiri.
 
@@ -62,7 +62,7 @@ Di sinilah banyak permohonan pertama kali gagal. Bayi atau anak kecil tidak bisa
 
 **Kesalahan yang paling umum** semuanya berawal dari sesuatu yang menyelinap ke dalam bingkai yang seharusnya hanya berisi bayi:
 
-- Tangan orang tua yang menopang kepala bayi (tidak diperbolehkan).
+- Tangan orang tua yang terlihat dalam bingkai. GOV.UK mengizinkan Anda menopang kepala bayi, tetapi tangan Anda tidak boleh terlihat dalam foto.
 - Empeng yang masih ada di mulut bayi (harus dilepas sebelum foto diambil).
 - Orang lain yang terlihat sebagian di tepi bingkai (sama sekali tidak boleh muncul).
 - Mainan atau benda di latar belakang (singkirkan lebih dulu).
@@ -106,7 +106,7 @@ Minimal, bukti identitas anak (akta kelahiran), bukti identitas orang tua, dan b
 
 ### Apa yang membuat foto paspor bayi berbeda?
 
-Mata bayi harus terbuka jelas dan menghadap kamera, tanpa empeng, mainan, atau tangan orang lain yang terlihat. Latar belakang polos harus terlihat jelas di belakang kepala anak. Karena bayi belum bisa duduk tegak atau diam, Anda bisa memotretnya sambil berbaring di atas latar belakang polos, aturannya adalah kepala harus mengisi bingkai, hanya anak yang muncul dalam foto, dan latar belakang di belakangnya harus jelas dan tidak terhalang.
+Sebagian besar otoritas menginginkan mata bayi terbuka dan menghadap kamera, tanpa empeng, mainan, atau tangan orang lain yang terlihat. Sebagian melonggarkan aturan mata untuk anak kecil: GOV.UK, misalnya, menyatakan anak di bawah satu tahun tidak perlu mata terbuka dan anak di bawah 6 tahun tidak perlu menatap langsung ke kamera. Latar belakang polos harus terlihat jelas di belakang kepala anak. Karena bayi belum bisa duduk tegak atau diam, Anda bisa memotretnya sambil berbaring di atas latar belakang polos, aturannya adalah kepala harus mengisi bingkai, hanya anak yang muncul dalam foto, dan latar belakang di belakangnya harus jelas dan tidak terhalang.
 
 ### Berapa lama masa berlaku paspor anak?
 

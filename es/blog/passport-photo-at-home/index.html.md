@@ -10,10 +10,10 @@ Source: https://traveldocumentvault.com/es/blog/passport-photo-at-home/
 
 ## Conclusiones Principales
 
-- Usa un fondo blanco o beige plano, expresión neutral, y ojos abiertos mirando directamente a la cámara
+- Usa un fondo claro y uniforme en el tono que exija tu autoridad, expresión neutral, y ojos abiertos mirando directamente a la cámara
 - Los requisitos de tamaño difieren según el país y se aplican estrictamente. Algunos especifican milímetros, otros pulgadas. Toma las medidas exactas de tu autoridad de pasaportes en lugar de cualquier resumen
 - La luz natural de una ventana funciona mejor, evita sombras duras y no uses flash de cámara
-- La mayoría de los países ahora prohíben gafas a menos que sea médicamente necesario, verifica los requisitos actuales
+- Muchas autoridades, incluida la del Reino Unido, piden no llevar gafas salvo que sea estrictamente necesario; verifica los requisitos actuales
 - Los motivos comunes de rechazo incluyen sombras, tamaño incorrecto, sonrisa, fotos borrosas y fondos inadecuados
 
 Una foto tomada en casa se acepta con la misma facilidad que una de cabina, siempre que cumpla la misma lista breve de reglas. La mayoría de los rechazos se reducen a tres cosas: sombra en la cara o en el fondo, la cabeza con un tamaño incorrecto en el encuadre, y las gafas. Si resuelves esos tres puntos, el resto es sencillo.
@@ -24,7 +24,7 @@ Aunque las reglas específicas varían según la autoridad de pasaportes, la may
 
 ### Fondo y Composición
 
-Necesitas un fondo blanco o beige plano, nada más funciona. Sin patrones, sombras, fondos borrosos o colores. La razón es directa: los funcionarios necesitan una vista limpia y sin desorden de tu cara para compararla con documentos futuros. La mayoría de las personas usan una sábana blanca, cartón, o incluso pintan una pequeña sección de pared. La clave es mantenerlo brillante y uniforme en toda la extensión.
+Necesitas un fondo claro y uniforme, y el tono exacto depende de tu autoridad: GOV.UK pide crema claro o gris claro, mientras que el Gobierno de Canadá pide blanco o de color claro. Sin patrones, sombras, fondos borrosos o colores intensos. La razón es directa: los funcionarios necesitan una vista limpia y sin desorden de tu cara para compararla con documentos futuros. La mayoría de las personas usan una sábana blanca, cartón, o incluso pintan una pequeña sección de pared. La clave es mantenerlo brillante y uniforme en toda la extensión.
 
 ### Expresión y Postura
 
@@ -32,13 +32,13 @@ Tu cara necesita llenar el marco en la proporción que tu autoridad de pasaporte
 
 ## ¿Puedes Llevar Gafas en tu Foto de Pasaporte?
 
-La mayoría de los países se han alejado de permitir gafas normales en fotos de pasaporte a menos que las uses permanentemente por una razón médica. Incluso entonces, es posible que necesites proporcionar documentación o tomar una foto separada sin gafas. Algunos países aún permiten gafas de lectura si están prescritas, pero la lente no debe crear brillo y tus ojos deben ser claramente visibles. Los tocados religiosos generalmente se permiten siempre que no obscurezcan las características faciales necesarias para la identificación.
+Las reglas sobre gafas normales varían más de lo que cabría esperar. GOV.UK pide a los solicitantes del Reino Unido que no lleven gafas a menos que sea estrictamente necesario. El Gobierno de Canadá las acepta siempre que los ojos queden claramente visibles y no haya brillo en las lentes. Los tocados religiosos generalmente se permiten siempre que no obscurezcan las características faciales necesarias para la identificación.
 
 Las gafas de sol y los cristales tintados se rechazan en todas partes, sin excepción médica. Si cumples los requisitos para mantener las gafas puestas, inclina ligeramente la cabeza en dirección contraria a la luz para que los cristales no reflejen, y comprueba que la montura no cruce ninguna parte de tus ojos.
 
 ## Tamaño de la Foto de Pasaporte: los Dos Estándares que Usa la Mayoría de Países
 
-La mayoría de las autoridades de pasaportes usan uno de estos dos tamaños impresos. El formato 35 x 45 mm cubre el Reino Unido, los países de la UE, incluidos los Países Bajos, y buena parte del resto del mundo. Estados Unidos pide un cuadrado de 2 x 2 pulgadas, y un puñado de países siguen ese estándar en su lugar.
+La mayoría de las autoridades de pasaportes usan uno de estos dos tamaños impresos. El formato 35 x 45 mm cubre el Reino Unido, los países de la UE, incluidos los Países Bajos, y buena parte del resto del mundo. Estados Unidos pide un cuadrado de 2 x 2 pulgadas, y un puñado de países siguen ese estándar en su lugar. Algunas autoridades fijan su propio tamaño: el Gobierno de Canadá, por ejemplo, pide fotos impresas de 50 mm de ancho por 70 mm de alto.
 
 Las solicitudes digitales cambian los milímetros por píxeles, y cada autoridad publica sus propios mínimos. Esos dos tamaños son los que la mayoría de las autoridades piden actualmente para impresión, pero las especificaciones se revisan, así que confirma la tuya antes de imprimir o subir la foto.
 
@@ -92,9 +92,9 @@ Los teléfonos inteligentes modernos disparan a 12 megapíxeles o superior, lo c
 - **Sombras en la cara:** Causadas por iluminación lateral o fuentes de luz dura. Posiciónate perpendicular a una ventana para iluminación uniforme, y verifica que tus orejas y pómulos estén uniformemente iluminados.
 - **Dimensiones de foto incorrectas:** La foto no coincide con las especificaciones de tu país (los requisitos varían según el país). Usa una app de recorte de foto de pasaporte y verifica dos veces las dimensiones contra la especificación oficial de tu autoridad antes de imprimir o cargar, no los estándares de otro país.
 - **Sonrisa o expresión inusual:** La mayoría de los países requieren una expresión neutral. Practica una mirada tranquila y directa en un espejo de antemano, apunta a serio, no severo.
-- **Gafas con brillo:** El brillo en las lentes obscurece tus ojos. O retira tus gafas o ajusta el ángulo para eliminar reflexión. Muchos países ahora prohíben gafas completamente a menos que sea médicamente necesario, así que primero verifica las reglas actuales de tu autoridad.
+- **Gafas con brillo:** El brillo en las lentes obscurece tus ojos. O retira tus gafas o ajusta el ángulo para eliminar reflexión. Algunas autoridades, incluida la del Reino Unido, piden no llevar gafas salvo que sea estrictamente necesario, así que primero verifica las reglas actuales de tu autoridad.
 - **Imagen borrosa o fuera de enfoque:** Problemas de movimiento o enfoque durante la captura. Usa un trípode u objeto estable para apoyar tu teléfono, toca la pantalla para enfocar en tu cara, y evita cualquier movimiento durante la toma.
-- **Fondo incorrecto:** Fondo coloreado, patrón o fondo blanco desigual. El cartón o sábana blanco o beige plano funciona mejor, asegúrate de que no haya textura visible o sombras.
+- **Fondo incorrecto:** Fondo coloreado, patrón o fondo blanco desigual. Cambia a un cartón o sábana de color claro y uniforme en el tono que pida tu autoridad, y asegúrate de que no haya textura visible o sombras.
 - **Espacio de cabeza excesivo o recorte:** La cara demasiado pequeña o posicionada incorrectamente en el marco. Las reglas de tu país establecerán exactamente cuánto del marco tu cara debe llenar, usualmente como una medida de barbilla a coronilla en lugar de un porcentaje, trabaja con esa cifra, no con lo que se ve correcto.
 
 ## Recorta la Foto de tu Teléfono y Luego Imprímela o Súbela
@@ -113,7 +113,7 @@ Algunos países aceptan cargas digitales de la foto de pasaporte biométrica pre
 
 Antes de tomar tu foto, asegúrate de tener lo siguiente en su lugar:
 
-- Material de fondo blanco o beige plano listo y posicionado
+- Material de fondo claro y uniforme, en el tono que exige tu autoridad, listo y posicionado
 - Buena fuente de luz natural (preferiblemente una ventana)
 - Teléfono inteligente con cámara funcionando
 - Trípode u objeto estable para apoyar tu teléfono
@@ -129,11 +129,11 @@ Si tienes buena luz de ventana y unos minutos libres, hazte la foto tú mismo ho
 
 ### ¿Puedo tomar una foto de pasaporte con mi teléfono inteligente?
 
-Sí, puedes tomar una foto de pasaporte usando un teléfono inteligente. Posiciónate frente a un fondo blanco o beige plano con buena luz natural, y asegúrate de que la foto cumple con los requisitos de tamaño y calidad de tu país. Muchas personas luego usan una app de recorte para redimensionar la foto digital a las dimensiones oficiales e imprimirla o subirla digitalmente dependiendo del proceso de presentación de tu país.
+Sí, puedes tomar una foto de pasaporte usando un teléfono inteligente. Posiciónate frente a un fondo claro y uniforme, en el tono que pida tu autoridad de pasaportes, con buena luz natural, y asegúrate de que la foto cumple con los requisitos de tamaño y calidad de tu país. Muchas personas luego usan una app de recorte para redimensionar la foto digital a las dimensiones oficiales e imprimirla o subirla digitalmente dependiendo del proceso de presentación de tu país.
 
 ### ¿Qué tamaño debe tener una foto de pasaporte?
 
-La mayoría de los países usan uno de estos dos tamaños impresos: 35 x 45 mm, que cubre el Reino Unido, la UE y buena parte del mundo, o el cuadrado de 2 x 2 pulgadas que usa Estados Unidos. Las solicitudes digitales tienen mínimos de píxeles independientes. Los requisitos se aplican con rigor y se revisan, así que confirma la especificación exacta con tu propia autoridad de pasaportes antes de imprimir o subir la foto.
+La mayoría de los países usan uno de estos dos tamaños impresos: 35 x 45 mm, que cubre el Reino Unido, la UE y buena parte del mundo, o el cuadrado de 2 x 2 pulgadas que usa Estados Unidos. Algunas autoridades fijan su propio tamaño, como el de 50 x 70 mm del Gobierno de Canadá. Las solicitudes digitales tienen mínimos de píxeles independientes. Los requisitos se aplican con rigor y se revisan, así que confirma la especificación exacta con tu propia autoridad de pasaportes antes de imprimir o subir la foto.
 
 ### ¿Por qué fue rechazada mi foto de pasaporte?
 
@@ -145,11 +145,11 @@ La luz natural de una ventana es ideal para fotos de pasaporte. Evita sombras du
 
 ### ¿Puedo usar gafas en una foto de pasaporte?
 
-La mayoría de los países ahora prohíben gafas en fotos de pasaporte a menos que sea médicamente necesario. Incluso entonces, es posible que necesites proporcionar documentación. Verifica los requisitos actuales de tu país antes de tomar tu foto, ya que las reglas han evolucionado en los últimos años. En caso de duda, toma una foto con y sin gafas para tener opciones.
+Depende de la autoridad. GOV.UK pide a los solicitantes del Reino Unido que no lleven gafas a menos que sea estrictamente necesario, mientras que el Gobierno de Canadá las acepta si tus ojos quedan claramente visibles y no hay brillo en las lentes. Las gafas de sol y los cristales tintados generalmente se rechazan. Verifica los requisitos actuales de tu país antes de tomar tu foto, ya que las reglas han evolucionado en los últimos años. En caso de duda, toma una foto con y sin gafas para tener opciones.
 
 ### ¿Cuáles son las reglas para una foto de pasaporte?
 
-Las reglas básicas son prácticamente las mismas en la mayoría de los países: un fondo claro y uniforme, una expresión neutral con la boca cerrada, ambos ojos abiertos y bien visibles, sin gafas salvo necesidad médica, iluminación uniforme sin sombras, y una foto reciente que cumpla el tamaño exigido por tu país. Cada autoridad publica su propia lista completa y los detalles varían, así que consulta la tuya antes de tomarla.
+Las reglas básicas son prácticamente las mismas en la mayoría de los países: un fondo claro y uniforme, una expresión neutral con la boca cerrada, ambos ojos abiertos y bien visibles, sin brillo ni tinte en las gafas si tu autoridad te permite mantenerlas puestas, iluminación uniforme sin sombras, y una foto reciente que cumpla el tamaño exigido por tu país. Cada autoridad publica su propia lista completa y los detalles varían, así que consulta la tuya antes de tomarla.
 
 ## Artículos Relacionados
 

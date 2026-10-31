@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/fr/blog/child-first-passport-application
 
 - **Le consentement à la demande est différent du consentement à voyager.** Votre enfant a besoin de l'autorisation écrite de tous les parents ou tuteurs avant que la demande puisse être déposée.
 - **La plupart des demandes exigent trois types de justificatifs :** une preuve d'identité (acte de naissance), une preuve d'identité des parents, et une preuve du lien de filiation.
-- **Les photos de passeport pour bébé obéissent à des règles précises.** Les yeux doivent être ouverts et regarder l'objectif, sans tétine, jouet ni main visible — et l'arrière-plan derrière la tête de l'enfant doit être uni et dégagé.
+- **Les photos de passeport pour bébé obéissent à des règles précises.** La plupart des autorités demandent les yeux ouverts et tournés vers l'objectif (GOV.UK assouplit cette règle pour les moins d'un an et les moins de 6 ans), sans tétine, jouet ni main visible — et l'arrière-plan derrière la tête de l'enfant doit être uni et dégagé.
 - **Vérifiez tout dès la réception.** L'orthographe, les noms des parents lorsqu'ils figurent sur le document, la date d'expiration — d'autant plus que les passeports d'enfants expirent plus vite que ceux des adultes.
 - **Un parent ne peut pas signer seul, sauf en cas de décision de justice, de garde légale exclusive, ou de décès de l'autre parent.** Si c'est votre situation, votre bureau des passeports applique une procédure spécifique.
 
@@ -52,7 +52,7 @@ Les bureaux des passeports demandent trois choses lorsque vous faites la demande
 
 C'est souvent là que les premières demandes échouent. Un bébé ou un jeune enfant ne peut pas suivre les règles photo comme le ferait un adulte : les bébés ne tiennent pas assis, les tout-petits ne restent pas immobiles ni ne comprennent les consignes, et les nouveau-nés ne regardent pas l'objectif sur commande. Les normes des photos de passeport ont été écrites pour des adultes, et il faut comprendre comment les adapter quand le sujet est un enfant de 5 kilos qui bouge sans arrêt.
 
-**Les règles de base restent les mêmes :** les yeux de l'enfant doivent être clairement ouverts et tournés vers l'objectif, avec un fond uni derrière la tête et rien d'autre dans le cadre. Ce qui change, c'est la façon d'y parvenir.
+**Les règles de base restent globalement les mêmes :** les yeux de l'enfant doivent généralement être ouverts et tournés vers l'objectif, avec un fond uni derrière la tête et rien d'autre dans le cadre. Certaines autorités assouplissent cette règle pour les plus jeunes enfants : GOV.UK n'exige pas que les yeux soient ouverts avant un an, ni que l'enfant regarde directement l'objectif avant 6 ans. Ce qui change, c'est la façon d'y parvenir.
 
 **Pour un nouveau-né ou un bébé de moins de 6 mois :** photographiez-le allongé sur un drap ou une couverture unie, blanche ou de couleur claire. Le tissu devient l'arrière-plan. La tête de l'enfant occupe le tiers supérieur du cadre. Placez-vous directement au-dessus pour que le bébé regarde droit vers l'objectif, les yeux ouverts — s'il est somnolent, attendez un moment où il est bien éveillé. Aucun jouet, aucune tétine, aucune main, aucune autre personne visible dans le cadre, à l'exception de la tête et des épaules du bébé.
 
@@ -62,7 +62,7 @@ C'est souvent là que les premières demandes échouent. Un bébé ou un jeune e
 
 **Les erreurs les plus fréquentes** tiennent toutes à quelque chose qui s'invite dans un cadre censé ne contenir que le bébé :
 
-- Une main de parent qui soutient la tête du bébé dans le cadre (non autorisé).
+- Une main de parent visible dans le cadre. GOV.UK autorise à soutenir la tête du bébé, mais votre main ne doit pas être visible sur la photo.
 - Une tétine encore dans la bouche du bébé (à retirer avant la prise de vue).
 - Une autre personne partiellement visible sur le bord du cadre (ne doit pas apparaître du tout).
 - Des jouets ou objets dans l'arrière-plan (à enlever d'abord).
@@ -106,7 +106,7 @@ Au minimum : une preuve de l'identité de l'enfant (acte de naissance), une preu
 
 ### Qu'est-ce qui rend une photo de passeport de bébé différente ?
 
-Les yeux du bébé doivent être clairement ouverts et regarder l'objectif, sans tétine, jouet ni main d'une autre personne visible. Le fond uni doit être clairement visible derrière la tête de l'enfant. Comme les bébés ne peuvent ni s'asseoir ni rester immobiles, vous pouvez les photographier allongés sur un fond uni — la règle est que la tête doit remplir le cadre, que seul l'enfant apparaît sur la photo, et que le fond derrière lui doit être dégagé et sans obstruction.
+De nombreuses autorités demandent que les yeux du bébé soient ouverts et tournés vers l'objectif, sans tétine, jouet ni main d'une autre personne visible. Certaines assouplissent cette règle pour les jeunes enfants : GOV.UK, par exemple, n'exige pas que les yeux soient ouverts pour un enfant de moins d'un an, ni qu'il regarde directement l'objectif avant 6 ans. Le fond uni doit être clairement visible derrière la tête de l'enfant. Comme les bébés ne peuvent ni s'asseoir ni rester immobiles, vous pouvez les photographier allongés sur un fond uni — la règle est que la tête doit remplir le cadre, que seul l'enfant apparaît sur la photo, et que le fond derrière lui doit être dégagé et sans obstruction.
 
 ### Quelle est la durée de validité du passeport d'un enfant ?
 

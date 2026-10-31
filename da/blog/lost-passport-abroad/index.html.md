@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/da/blog/lost-passport-abroad/
 
 ## Vigtigste punkter
 
-- Indgiv en politianmeldelse først – du skal bruge den både til din ansøgning hos ambassaden og til din forsikringssag.
+- Indgiv en politianmeldelse hurtigt – dit forsikringsselskab vil som regel bede om den, og nogle ambassader spørger også om den.
 - Din ambassade eller dit konsulat kan udstede et nødpas, som regel langt hurtigere end et almindeligt nyt pas. **Ring i forvejen** – de fleste kræver en aftale.
 - Rejsende med en sikker digital kopi af deres pas får erstatningsdokumenter hurtigere – du kan give ambassaden de oplysninger, den har brug for, på få sekunder.
 - Rejseforsikringen dækker udgifterne til et nyt pas i de fleste fuldt dækkende policer. Du skal bruge politianmeldelsen for at anmelde skaden.
@@ -36,7 +36,7 @@ Tjek overalt, før du antager det værste – jakkelommer, alle rum i tasken, ho
 
 ## Trin 2: Indgiv en politianmeldelse med det samme
 
-Gå til den nærmeste politistation, og anmeld passet som tabt eller stjålet. Du skal bruge denne anmeldelse både til din ansøgning hos ambassaden og til din forsikringssag. Vi ville gøre det inden for en time, hvis det er muligt, mens detaljerne stadig står klart for dig.
+Gå til den nærmeste politistation, og anmeld passet som tabt eller stjålet. Dit forsikringsselskab vil som regel bede om den til en erstatningssag, og nogle ambassader spørger om den, men ikke alle: den canadiske regering oplyser for eksempel, at den ikke kræves til pasudskiftning. Vi ville gøre det inden for en time, hvis det er muligt, mens detaljerne stadig står klart for dig.
 
 Bed om en skriftlig kopi med et sagsnummer, og spørg om en engelsk oversættelse, hvis der er en tilgængelig. Tag et billede af den, og opbevar flere kopier et sikkert sted.
 
@@ -57,7 +57,7 @@ Din ambassade udsteder et nødpas (emergency travel document, ETD), som regel ku
 
 Hvad du normalt skal bruge (bekræft med din ambassade, før du møder op):
 
-- Politianmeldelse med sagsnummer
+- Politianmeldelse med sagsnummer, hvis din ambassade spørger om en
 - Legitimation – kørekort, fødselsattest eller anden officiel legitimation
 - Pasfotos – spørg din ambassade, hvor du kan få taget disse lokalt
 - Din digitale kopi af det mistede pas, hvis du har en
@@ -98,7 +98,7 @@ Ja. De fleste lande udsteder nødpas gennem deres ambassader og konsulater, som 
 
 ### Skal jeg have en politianmeldelse, hvis mit pas bliver stjålet i udlandet?
 
-Ja. En politianmeldelse kræves af de fleste ambassader til ansøgninger om nødpas og af de fleste rejseforsikringsselskaber til erstatningssager. Få den fra den lokale politistation med det samme, spørg om en engelsk kopi, hvis muligt, og gem flere kopier.
+Det er som regel værd at få en, selvom ikke alle pasmyndigheder kræver det. Den canadiske regering oplyser, at en politianmeldelse ikke er nødvendig for pasudskiftning, men kan hjælpe med en forsikringssag, og GOV.UK nævner ikke en politianmeldelse som krav til et britisk nødpas. Nogle ambassader spørger om den alligevel, og de fleste rejseforsikringsselskaber vil have den til en erstatningssag. Få den fra den lokale politistation med det samme, spørg om en engelsk kopi, hvis muligt, og gem flere kopier.
 
 ### Dækker rejseforsikringen et mistet eller stjålet pas?
 

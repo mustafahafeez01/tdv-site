@@ -48,7 +48,7 @@ O HM Passport Office publica o seu próprio tempo de processamento atual em GOV.
 
 ![Diagrama de um pedido a percorrer o caminho até um passaporte emitido, passando por seis atrasos possíveis: mudança de nome, primeiro passaporte de adulto, pedido de uma criança, perdido ou danificado, verificações extra ou entrevista, e pedido feito no estrangeiro](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/passport-renewal-timeline-pt.jpg) Seis situações tiram um pedido da via rápida. Uma renovação simples evita todas elas.
 
-O Reino Unido oferece um serviço de renovação digital para adultos elegíveis que se candidatam a partir de **dentro do Reino Unido**. Se se qualifica, não precisa enviar o seu passaporte antigo, mas ainda precisa de uma fotografia que cumpra os requisitos oficiais. A candidatura é completada online. **Se é cidadão do Reino Unido que vive no estrangeiro** (um expatriado), o serviço digital não está disponível para si. Deve usar o serviço de passaporte para o exterior em GOV.UK, que requer enviar o seu passaporte atual. Faixa rápida e marcações premium do mesmo dia existem para casos urgentes em escritórios específicos. Consulte GOV.UK para o serviço correto e o número atual para a sua situação, que pergunta pela sua localização no início da candidatura.
+O Reino Unido oferece um serviço de renovação digital para adultos elegíveis que se candidatam a partir de **dentro do Reino Unido**. Se se qualifica, não precisa enviar o seu passaporte antigo, mas ainda precisa de uma fotografia que cumpra os requisitos oficiais. A candidatura é completada online. **Se é cidadão do Reino Unido que vive no estrangeiro** (um expatriado), o serviço digital não está disponível para si. Deve usar o serviço de passaporte para o exterior em GOV.UK, que requer enviar o seu passaporte atual. Para casos urgentes, o HM Passport Office tem um serviço 1 Week Fast Track e, apenas para renovações de adultos, um serviço 1 Day Premium com marcação a partir de 2 dias depois do pedido. Consulte GOV.UK para o serviço correto e o número atual para a sua situação, que pergunta pela sua localização no início da candidatura.
 
 Uma mudança de nome, um primeiro passaporte de adulto ou qualquer candidatura que requeira verificações extras levará mais tempo. Os passaportes de menores não podem usar o serviço digital — passam apenas pelo processo padrão. Antes de se candidatar, consulte GOV.UK para o número atual relevante para a sua situação.
 
@@ -62,7 +62,7 @@ As candidaturas de passaporte para menores são uma história diferente. São ma
 
 ## Quanto Tempo Demora a Renovação de Passaporte no Canadá?
 
-Immigration, Refugees and Citizenship Canada (IRCC) processa renovações de passaporte, quer por correio através do Service Canada, quer presencialmente num escritório de Passaportes Canadá — o Canadá não oferece renovação de passaporte online. Para viagens urgentes existem opções de marcação urgente e serviço expresso presencial mediante uma taxa adicional.
+Immigration, Refugees and Citizenship Canada (IRCC) oferece renovação online a adultos elegíveis que não viajem nos próximos 20 dias úteis; todos os outros candidatam-se por correio através do Service Canada ou presencialmente num escritório de Passaportes Canadá. Para viagens urgentes existem opções de marcação urgente e serviço expresso presencial mediante uma taxa adicional.
 
 Isto torna o processo mais exigente logisticamente, especialmente se vive algures rural e o escritório de passaportes mais próximo fica longe. Consulte a página do IRCC para tempos de processamento atuais antes de se candidatar, e some o tempo de envio em cada sentido se se candidatar por correio.
 
@@ -115,7 +115,7 @@ Não podemos dar-lhe aqui um número fixo, porque os tempos de processamento do 
 
 ### Quanto tempo demora a renovação de passaporte no Reino Unido?
 
-O HM Passport Office publica o seu próprio tempo de processamento atual, e muda com frequência suficiente para que um número citado aqui provavelmente já estivesse desatualizado quando o lesse. Adultos elegíveis que se candidatam dentro do Reino Unido podem usar o serviço de renovação digital, que evita enviar o passaporte mas ainda requer uma fotografia que cumpra os requisitos oficiais. Se se candidata de fora do Reino Unido, usará antes o serviço exterior, que requer enviar o seu passaporte atual. Faixa rápida e marcações premium do mesmo dia existem para casos urgentes em escritórios específicos. Consulte GOV.UK para o número que se aplica à sua situação.
+O HM Passport Office publica o seu próprio tempo de processamento atual, e muda com frequência suficiente para que um número citado aqui provavelmente já estivesse desatualizado quando o lesse. Adultos elegíveis que se candidatam dentro do Reino Unido podem usar o serviço de renovação digital, que evita enviar o passaporte mas ainda requer uma fotografia que cumpra os requisitos oficiais. Se se candidata de fora do Reino Unido, usará antes o serviço exterior, que requer enviar o seu passaporte atual. Para casos urgentes, o HM Passport Office tem um serviço 1 Week Fast Track e, apenas para renovações de adultos, um serviço 1 Day Premium com marcação a partir de 2 dias depois do pedido. Consulte GOV.UK para o número que se aplica à sua situação.
 
 ### Quanto tempo demora a renovação de passaporte na Austrália?
 
@@ -123,7 +123,7 @@ O Serviço de Passaportes Australiano é a única fonte fiável para tempos atua
 
 ### Posso renovar o meu passaporte online?
 
-Os EUA oferecem um programa de renovação online para adultos elegíveis que receberam o seu passaporte aos 16 anos ou mais — verifique em travel.state.gov a elegibilidade atual. O Reino Unido oferece uma opção de renovação digital para adultos elegíveis que se candidatam dentro do Reino Unido — candidatos do exterior devem usar um serviço separado. Austrália e Canadá ambos requerem apresentação presencial para a maioria das renovações. Sempre verifique o website oficial do seu país para regras de elegibilidade atuais.
+Os EUA oferecem um programa de renovação online para adultos elegíveis que receberam o seu passaporte aos 16 anos ou mais — verifique em travel.state.gov a elegibilidade atual. O Reino Unido oferece uma opção de renovação digital para adultos elegíveis que se candidatam dentro do Reino Unido — candidatos do exterior devem usar um serviço separado. A Austrália requer apresentação presencial ou postal para a maioria das renovações. O Canadá oferece renovação online a adultos elegíveis que não viajem nos próximos 20 dias úteis; todos os outros candidatam-se por correio ou presencialmente. Sempre verifique o website oficial do seu país para regras de elegibilidade atuais.
 
 ### O que devo fazer se o meu passaporte está a expirar e tenho viagem marcada?
 

@@ -32,7 +32,7 @@ Die andere ist der Grenzbeamte bei der Landung. Seine Aufgabe ist es, zu entsche
 
 Ein bestätigtes Ticket aus dem Land ist die am weitesten anerkannte Form. Es kann ein Rückflug sein oder ein Flug weiter in ein drittes Land. Entscheidend ist, dass es abfliegt, bevor Ihr erlaubter Aufenthalt endet, und irgendwohin führt, wo Sie einreisen dürfen.
 
-Die Hinweise von Immigration New Zealand für Besucher geben ein nützliches Bild der Bandbreite. Sie nennen bestätigte Tickets oder Tickets mit offenem Datum für die Ausreise aus dem Land, oder eine schriftliche Bestätigung einer Fluggesellschaft oder eines Reisebüros, dass die Weiterreise gebucht und bezahlt ist. Geschäftsreisende können auch ein Schreiben ihres Arbeitgebers nutzen, das die Organisation der Weiterreise garantiert. Andere Ziele haben eigene Listen, und diese stimmen nicht alle überein.
+Die Hinweise von Immigration New Zealand für Besucher geben ein nützliches Bild der Bandbreite. Sie nennen bestätigte Tickets oder Tickets mit offenem Datum für die Ausreise aus dem Land, oder eine schriftliche Bestätigung einer Fluggesellschaft oder eines Reisebüros, dass die Weiterreise gebucht und bezahlt ist. Akzeptiert wird auch alles, was eine bestätigte Ausreise belegt, etwa die Abfahrt einer Jacht oder eines Privatflugzeugs. Andere Ziele haben eigene Listen, und diese stimmen nicht alle überein.
 
 Eine **Hotelbuchung** und ein **Kontoauszug** tauchen ebenfalls oft auf, beantworten aber andere Fragen. Die eine zeigt, wo Sie übernachten, die andere, dass Sie sich die Reise leisten können. Ein Grenzbeamter kann nach beidem fragen, doch typischerweise ersetzt keines davon ein Ausreiseticket.
 

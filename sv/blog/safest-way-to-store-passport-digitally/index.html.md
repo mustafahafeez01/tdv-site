@@ -99,7 +99,7 @@ Med Pro kan du synkronisera dokument mellan konfigurerade enheter på samma plat
 | Fungerar helt offline | Nej (kräver synk) | Nej (kräver synk) | Ja |
 | Risk för fjärrintrång | Medel (Apples servrar) | Medel till hög (Googles servrar + innehållsskanning) | Valfri krypterad säkerhetskopiering till ditt eget iCloud eller Google Drive (Pro) |
 | Åtkomst från flera enheter | Automatisk | Automatisk | Manuell valvexport; valfri automatisk molnsäkerhetskopiering och synkronisering (Pro) |
-| Kostnad | Gratis (200 GB), sedan betalt | Gratis (15 GB), sedan betalt | Vanligtvis ett engångsköp, ingen prenumeration |
+| Kostnad | Gratis (5 GB), sedan betalt | Gratis (15 GB), sedan betalt | Vanligtvis ett engångsköp, ingen prenumeration |
 | Utformad för identitetshandlingar | Nej | Nej | Ja |
 
 ## Vilket bör du välja?

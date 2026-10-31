@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/blog/lost-passport-abroad/
 
 ## Key Takeaways
 
-- File a police report first - you need it for both your embassy application and your insurance claim.
+- File a police report early - your insurer will usually want it, and some embassies ask for it too.
 - Your embassy or consulate can issue an emergency travel document, usually far faster than a replacement passport. **Call ahead** - most require an appointment.
 - Travellers with a secure digital copy of their passport get replacement documents faster - you hand over the details your embassy needs in seconds.
 - Travel insurance covers passport replacement costs in most comprehensive policies. You need the police report to claim.
@@ -36,7 +36,7 @@ Check everywhere before assuming the worst - jacket pockets, every bag compartme
 
 ## Step 2: File a Police Report Immediately
 
-Go to the nearest police station and report the passport lost or stolen. You need this report for both your embassy application and your insurance claim. We'd do it within the hour if possible, while the details are still fresh in your mind.
+Go to the nearest police station and report the passport lost or stolen. Your insurer will usually want it for a claim, and some embassies ask for it, though not all do: the Government of Canada, for example, says it isn't required for passport replacement. We'd do it within the hour if possible, while the details are still fresh in your mind.
 
 Ask for a written copy with a case number, and request an English translation if one's available. Take a photo of it and keep multiple copies safe.
 
@@ -57,7 +57,7 @@ Your embassy issues an emergency travel document (ETD) or emergency passport, ty
 
 What you will typically need (confirm with your embassy before visiting):
 
-- Police report with case number
+- Police report with case number, if your embassy asks for one
 - Proof of identity - driving licence, birth certificate, or any other government-issued ID
 - Passport photos - ask your embassy where to get these locally
 - Your digital copy of the lost passport if you have one
@@ -98,7 +98,7 @@ Yes. Most countries issue emergency travel documents through their embassies and
 
 ### Do I need a police report if my passport is stolen abroad?
 
-Yes. A police report is required by most embassies for emergency travel document applications, and by most travel insurers for claims. Get it from the local police station immediately, ask for an English copy if possible, and keep multiple copies.
+Usually worth getting, though not every passport authority requires it. The Government of Canada says a police report isn't required for passport replacement but may help with insurance claims, and GOV.UK doesn't list one for a UK emergency travel document application. Some embassies do ask for one, and most travel insurers want it for a claim. Get it from the local police station immediately, ask for an English copy if possible, and keep multiple copies.
 
 ### Will travel insurance cover a lost or stolen passport?
 

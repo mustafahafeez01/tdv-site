@@ -99,7 +99,7 @@ Mit Pro können Sie Dokumente zwischen eingerichteten Geräten derselben Plattfo
 | Funktioniert vollständig offline | Nein (benötigt Synchronisierung) | Nein (benötigt Synchronisierung) | Ja |
 | Risiko einer Remote-Datenpanne | Mittel (Apples Server) | Mittel bis hoch (Googles Server und Inhaltsanalyse) | Optionales verschlüsseltes Backup in Ihrem eigenen iCloud oder Google Drive (Pro) |
 | Geräteübergreifender Zugriff | Automatisch | Automatisch | Manueller Tresor-Export; optionale automatische Cloud-Sicherung und Synchronisierung (Pro) |
-| Kosten | Kostenlos (200 GB), dann bezahlt | Kostenlos (15 GB), dann bezahlt | Normalerweise einmaliger Kauf |
+| Kosten | Kostenlos (5 GB), dann bezahlt | Kostenlos (15 GB), dann bezahlt | Normalerweise einmaliger Kauf |
 | Für Identitätsdokumente konzipiert | Nein | Nein | Ja |
 
 ## Welches sollten Sie wählen?

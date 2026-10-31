@@ -32,7 +32,7 @@ Yang kedua adalah petugas perbatasan saat Anda tiba. Tugas mereka adalah memutus
 
 Tiket terkonfirmasi untuk keluar dari negara tujuan adalah bentuk yang paling umum dipahami. Bisa berupa penerbangan pulang atau penerbangan menuju negara ketiga. Yang penting, keberangkatannya terjadi sebelum masa tinggal yang diizinkan berakhir dan menuju tempat yang boleh Anda masuki.
 
-Panduan Immigration New Zealand untuk pengunjung memberi gambaran yang berguna tentang jangkauannya. Panduan itu mencantumkan tiket terkonfirmasi atau bertanggal terbuka untuk keluar dari negara itu, atau konfirmasi tertulis dari maskapai atau agen perjalanan bahwa perjalanan lanjutan sudah dipesan dan dibayar. Pelancong bisnis juga dapat menggunakan surat dari pemberi kerja yang menjamin bahwa perjalanan lanjutan akan diatur. Negara tujuan lain menetapkan daftar mereka sendiri, dan tidak semuanya sama.
+Panduan Immigration New Zealand untuk pengunjung memberi gambaran yang berguna tentang jangkauannya. Panduan itu mencantumkan tiket terkonfirmasi atau bertanggal terbuka untuk keluar dari negara itu, atau konfirmasi tertulis dari maskapai atau agen perjalanan bahwa perjalanan lanjutan sudah dipesan dan dibayar. Panduan itu juga menerima apa pun yang menunjukkan keberangkatan yang terkonfirmasi, seperti keberangkatan yacht atau pesawat pribadi. Negara tujuan lain menetapkan daftar mereka sendiri, dan tidak semuanya sama.
 
 **Reservasi hotel** dan **rekening koran** juga sering muncul, tetapi keduanya menjawab pertanyaan yang berbeda. Satu menunjukkan di mana Anda akan menginap, yang lain menunjukkan bahwa Anda mampu membiayai diri. Petugas perbatasan bisa meminta salah satunya, meskipun biasanya keduanya tidak dapat menggantikan tiket keluar.
 

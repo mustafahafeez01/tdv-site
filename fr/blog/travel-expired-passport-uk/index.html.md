@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/fr/blog/travel-expired-passport-uk/
 
 - **Règle absolue :** Pas de voyages internationaux avec un passeport expiré. Les compagnies aériennes et le contrôle aux frontières vous refuseront.
 - **Exceptions nationales :** Royaume-Uni vers l'Irlande et Île de Man peuvent accepter une pièce d'identité avec photo alternative. Contactez d'abord votre compagnie aérienne.
-- **Renouvellement d'urgence :** HM Passport Office propose un service Premium en ligne réservé aux renouvellements, avec un rendez-vous le même jour ou le lendemain selon la disponibilité. Consultez les frais actuels sur gov.uk avant de réserver.
+- **Renouvellement d'urgence :** HM Passport Office propose un service 1 Day Premium réservé aux renouvellements pour adultes : le premier rendez-vous disponible est 2 jours après la demande, et le passeport est prêt à récupérer 4 heures après le rendez-vous. Consultez les frais actuels sur gov.uk avant de réserver.
 - **Assurance voyage :** La plupart des polices annulent les réclamations si votre passeport était expiré pendant le voyage.
 - **Si vous êtes à l'étranger :** Contactez l'ambassade ou le consulat britannique le plus proche pour un document de voyage d'urgence.
 
@@ -66,7 +66,7 @@ Si vous envisagez un voyage domestique avec un passeport expiré, contactez votr
 
 ## Renouvellement d'urgence : le service Premium, si vous décrochez un créneau
 
-Si votre voyage est imminent et votre passeport expiré, le Bureau des passeports de Sa Majesté propose un service Premium conçu pour exactement cette situation, avec un rendez-vous le même jour ou le lendemain selon la disponibilité. HM Passport Office publie les frais actuels sur gov.uk, qui couvrent le rendez-vous et le renouvellement ensemble plutôt que de s'ajouter aux frais standard. Vous obtenez votre passeport bien plus vite que par la voie standard, la rapidité exacte dépendant du rendez-vous disponible. Notez que le service Premium en ligne est uniquement pour les renouvellements, pas les premiers passeports d'adulte.
+Si votre voyage est imminent et votre passeport expiré, le Bureau des passeports de Sa Majesté propose un service 1 Day Premium conçu pour exactement cette situation. GOV.UK indique que le premier rendez-vous disponible est 2 jours après la demande, et que le passeport est prêt à récupérer 4 heures après le rendez-vous. HM Passport Office publie les frais actuels sur gov.uk, qui couvrent le rendez-vous et le renouvellement ensemble plutôt que de s'ajouter aux frais standard. Vous obtenez votre passeport bien plus vite que par la voie standard, la rapidité exacte dépendant du rendez-vous disponible. Notez que le service 1 Day Premium est réservé aux renouvellements pour adultes, et non aux premiers passeports d'adulte.
 
 C'est la voie officielle d'urgence pour les contraintes de voyage véritables. HM Passport Office publie son délai de traitement standard actuel sur gov.uk, et cela vaut la peine de le vérifier avant de supposer que vous avez le temps d'attendre. Quand un voyage ne peut vraiment pas attendre, l'option Premium élimine l'incertitude.
 

@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/da/blog/child-first-passport-application
 
 - **Samtykke til at ansøge er ikke det samme som samtykke til at rejse.** Dit barn skal have skriftlig tilladelse fra alle forældre eller værger, før ansøgningen kan indsendes.
 - **De fleste ansøgninger kræver tre typer bevis:** bevis for identitet (fødselsattest), bevis for forældrenes identitet, og bevis for forældreskab.
-- **Babyfotos til pas har specifikke regler.** Øjnene skal være åbne og vende mod kameraet, uden sut, legetøj eller andre hænder synlige – og baggrunden bag barnets hoved skal være ensfarvet og tydelig.
+- **Babyfotos til pas har specifikke regler.** De fleste myndigheder vil have øjnene åbne og vendt mod kameraet (GOV.UK lemper dette for børn under 1 år og under 6 år), uden sut, legetøj eller andre hænder synlige – og baggrunden bag barnets hoved skal være ensfarvet og tydelig.
 - **Tjek alt, i det øjeblik det ankommer.** Stavning, forældrenavne hvor de forekommer, udløbsdato – især fordi børnepas udløber hurtigere end voksenpas.
 - **Én forælder kan ikke underskrive alene, medmindre der er en retsafgørelse, eneforældremyndighed, eller den anden forælder er død.** Er det din situation, har dit pasudstedende kontor en specifik proces at følge.
 
@@ -52,7 +52,7 @@ Pasudstedende myndigheder vil have tre ting, når du ansøger om et barns først
 
 Det er her, mange førstegangsansøgninger går galt. En baby eller et lille barn kan ikke følge fotoreglerne, som en voksen kan: babyer kan ikke sidde op, tumlinger kan ikke sidde stille eller forstå instruktioner, og nyfødte kan ikke se ind i kameraet på kommando. Pasfotostandarder er skrevet til voksne, og du skal forstå, hvordan du tilpasser dem, når motivet er et barn, der vejer 5 kilo og bevæger sig konstant.
 
-**Grundreglerne er de samme:** barnets øjne skal være tydeligt åbne og vende mod kameraet, med en ensfarvet baggrund bag hovedet og intet andet i billedet. Det, der ændrer sig, er, hvordan du får det til at ske.
+**Grundreglerne er stort set de samme:** barnets øjne bør generelt være åbne og vende mod kameraet, med en ensfarvet baggrund bag hovedet og intet andet i billedet. Nogle myndigheder lemper øjenreglerne for de yngste børn: GOV.UK kræver ikke åbne øjne under 1 år, eller et direkte kig mod kameraet under 6 år. Det, der ændrer sig, er, hvordan du får det til at ske.
 
 **For en nyfødt eller baby under 6 måneder:** fotografer barnet liggende på et ensfarvet hvidt eller lyst lagen eller tæppe. Lagenet bliver baggrunden. Barnets hoved fylder den øverste tredjedel af billedet. Stil dig direkte ovenover, så babyen kigger lige op mod kameraet med åbne øjne – er babyen sløv, så vent på et øjeblik, hvor den er vågen. Ingen legetøj, ingen sutter, ingen hænder, ingen anden person synlig i billedet ud over babyens eget hoved og skuldre.
 
@@ -62,7 +62,7 @@ Det er her, mange førstegangsansøgninger går galt. En baby eller et lille bar
 
 **De mest almindelige fejl** handler alle om, at noget sniger sig ind i et billede, der kun skal rumme babyen:
 
-- En forælders hånd, der støtter babyens hoved (ikke tilladt).
+- En forælders hånd, der er synlig på billedet. GOV.UK tillader, at du støtter babyens hoved, men hånden må ikke være synlig på fotoet.
 - En sut, der stadig sidder i babyens mund (skal fjernes, før billedet tages).
 - En anden person, der er delvist synlig i kanten af billedet (må slet ikke ses).
 - Legetøj eller genstande i baggrunden (fjern dem først).
@@ -106,7 +106,7 @@ Som minimum: bevis for barnets identitet (fødselsattest), bevis for forældrene
 
 ### Hvad gør et pasfoto af en baby anderledes?
 
-En babys øjne skal være tydeligt åbne og vende mod kameraet, uden sut, legetøj eller andres hænder synlige. Den ensfarvede baggrund skal være tydeligt synlig bag barnets hoved. Fordi babyer ikke kan sidde op eller sidde stille, kan du fotografere dem liggende på en ensfarvet baggrund – reglen er, at hovedet skal udfylde billedet, kun barnet er med i billedet, og baggrunden bag det skal være ren og uforstyrret.
+Mange myndigheder vil have, at en babys øjne er åbne og vender mod kameraet, uden sut, legetøj eller andres hænder synlige. Nogle lemper øjenreglerne for små børn: GOV.UK siger for eksempel, at et barn under 1 år ikke behøver have øjnene åbne, og at et barn under 6 år ikke behøver kigge direkte på kameraet. Den ensfarvede baggrund skal være tydeligt synlig bag barnets hoved. Fordi babyer ikke kan sidde op eller sidde stille, kan du fotografere dem liggende på en ensfarvet baggrund – reglen er, at hovedet skal udfylde billedet, kun barnet er med i billedet, og baggrunden bag det skal være ren og uforstyrret.
 
 ### Hvor længe er et barns pas gyldigt?
 

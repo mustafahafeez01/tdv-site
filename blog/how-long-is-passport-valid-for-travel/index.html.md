@@ -28,9 +28,9 @@ The standard validity period for an adult passport is 10 years from the date of 
 |---|---|---|
 | United Kingdom | 10 years | 5 years (under 16) |
 | United States | 10 years | 5 years (under 16) |
-| Australia | 10 years | 5 years (under 18) |
+| Australia | 10 years | 5 years (under 16) |
 | Canada | 10 years | 5 years |
-| Ireland | 10 years | 3 years (under 18) |
+| Ireland | 10 years | 5 years (under 18) |
 | New Zealand | 10 years | 5 years (under 16) |
 
 Your exact expiry date is printed on the data page next to your photo. That date is the hard limit: your passport stops being a valid travel document anywhere in the world once it passes.

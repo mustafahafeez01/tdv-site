@@ -48,7 +48,7 @@ HM Passport Office pubblica il proprio tempo di elaborazione attuale su GOV.UK, 
 
 ![Diagramma di una domanda che arriva a un passaporto pronto superando sei possibili ritardi: cambio di nome, primo passaporto da adulto, domanda per un minore, perso o danneggiato, controlli aggiuntivi o un colloquio, e domanda dall'estero](https://traveldocumentvault.com/blog/how-long-does-passport-renewal-take/passport-renewal-timeline-it.jpg) Sei situazioni tolgono una domanda dalla corsia rapida. Un rinnovo semplice le evita tutte.
 
-Il Regno Unito offre un servizio di rinnovo digitale per gli adulti idonei che presentano domanda da **entro il Regno Unito**. Se siete idonei, non è necessario spedire il vostro vecchio passaporto, ma serve comunque una foto conforme ai requisiti ufficiali. L'applicazione è completata online. **Se siete un cittadino britannico che vive all'estero** (un espatriato), il servizio digitale non è disponibile per voi. Dovete utilizzare il servizio passaporti estero presso GOV.UK, che richiede di spedire il vostro passaporto attuale. Fast track e appuntamenti premium stesso giorno esistono per i casi urgenti presso uffici specifici. Controllate GOV.UK per il servizio corretto e la cifra attuale per la vostra situazione, che chiede la vostra posizione all'inizio della domanda.
+Il Regno Unito offre un servizio di rinnovo digitale per gli adulti idonei che presentano domanda da **entro il Regno Unito**. Se siete idonei, non è necessario spedire il vostro vecchio passaporto, ma serve comunque una foto conforme ai requisiti ufficiali. L'applicazione è completata online. **Se siete un cittadino britannico che vive all'estero** (un espatriato), il servizio digitale non è disponibile per voi. Dovete utilizzare il servizio passaporti estero presso GOV.UK, che richiede di spedire il vostro passaporto attuale. Per i casi urgenti, HM Passport Office gestisce un servizio 1 Week Fast Track e, solo per i rinnovi degli adulti, un servizio 1 Day Premium con appuntamenti disponibili a partire da 2 giorni dopo la richiesta. Controllate GOV.UK per il servizio corretto e la cifra attuale per la vostra situazione, che chiede la vostra posizione all'inizio della domanda.
 
 Un cambio di nome, un primo passaporto da adulto, o qualsiasi domanda che richiede controlli extra impiegherà più tempo. I passaporti dei bambini non possono utilizzare affatto il servizio digitale — vanno attraverso il processo standard solo. Prima di fare domanda, controllate GOV.UK per la cifra attuale rilevante per la vostra situazione.
 
@@ -62,7 +62,7 @@ Le domande di passaporto dei bambini sono una storia diversa. Sono più compless
 
 ## Quanto tempo richiede il rinnovo del passaporto in Canada?
 
-Immigration, Refugees and Citizenship Canada (IRCC) elabora i rinnovi dei passaporti, sia per posta tramite Service Canada sia di persona presso un ufficio Passaporti Canada — il Canada non offre il rinnovo dei passaporti online. Per i viaggi urgenti esistono opzioni di appuntamento urgente ed express di persona dietro pagamento di una commissione aggiuntiva.
+Immigration, Refugees and Citizenship Canada (IRCC) offre il rinnovo online agli adulti idonei che non viaggiano nei prossimi 20 giorni lavorativi; tutti gli altri presentano domanda per posta tramite Service Canada o di persona presso un ufficio Passaporti Canada, quindi conviene considerare i tempi di spedizione. Per i viaggi urgenti esistono opzioni di appuntamento urgente ed express di persona dietro pagamento di una commissione aggiuntiva.
 
 Questo rende il processo più impegnativo dal punto di vista logistico, specialmente se vivete da qualche parte in zona rurale e l'ufficio passaporti più vicino è lontano. Controllate la pagina dell'IRCC per i tempi di elaborazione attuali prima di fare domanda, e aggiungete il tempo di spedizione in entrambe le direzioni se fate domanda per posta.
 
@@ -115,7 +115,7 @@ Non possiamo darvi qui una cifra fissa, perché i tempi di elaborazione del Dipa
 
 ### Quanto tempo richiede il rinnovo del passaporto nel Regno Unito?
 
-HM Passport Office pubblica il proprio tempo di elaborazione attuale, e cambia abbastanza spesso che una cifra citata qui sarebbe probabilmente già obsoleta quando la leggete. Gli adulti idonei che presentano domanda da entro il Regno Unito possono utilizzare il servizio di rinnovo digitale, che evita di spedire il passaporto ma richiede comunque una foto conforme ai requisiti ufficiali. Se presentate domanda da fuori del Regno Unito, userete invece il servizio estero, che richiede di spedire il vostro passaporto attuale. Fast track e appuntamenti premium stesso giorno esistono per i casi urgenti presso uffici specifici. Controllate GOV.UK per la cifra che si applica alla vostra situazione.
+HM Passport Office pubblica il proprio tempo di elaborazione attuale, e cambia abbastanza spesso che una cifra citata qui sarebbe probabilmente già obsoleta quando la leggete. Gli adulti idonei che presentano domanda da entro il Regno Unito possono utilizzare il servizio di rinnovo digitale, che evita di spedire il passaporto ma richiede comunque una foto conforme ai requisiti ufficiali. Se presentate domanda da fuori del Regno Unito, userete invece il servizio estero, che richiede di spedire il vostro passaporto attuale. Per i casi urgenti, HM Passport Office gestisce un servizio 1 Week Fast Track e, solo per i rinnovi degli adulti, un servizio 1 Day Premium con appuntamenti disponibili a partire da 2 giorni dopo la richiesta. Controllate GOV.UK per la cifra che si applica alla vostra situazione.
 
 ### Quanto tempo richiede il rinnovo del passaporto in Australia?
 
@@ -123,7 +123,7 @@ L'Ufficio Passaporti Australiano è l'unica fonte affidabile per i tempi attuali
 
 ### Posso rinnovare il mio passaporto online?
 
-Gli USA offrono un programma di rinnovo online per gli adulti idonei che hanno ottenuto il loro passaporto all'età di 16 anni o più — controllate travel.state.gov per l'idoneità attuale. Il Regno Unito offre un'opzione di rinnovo digitale per gli adulti idonei che presentano domanda da entro il Regno Unito — i candidati all'estero devono utilizzare un servizio separato. Australia e Canada richiedono entrambi il deposito di persona per la maggior parte dei rinnovi. Controllate sempre il sito web ufficiale del vostro paese per le regole di idoneità attuali.
+Gli USA offrono un programma di rinnovo online per gli adulti idonei che hanno ottenuto il loro passaporto all'età di 16 anni o più — controllate travel.state.gov per l'idoneità attuale. Il Regno Unito offre un'opzione di rinnovo digitale per gli adulti idonei che presentano domanda da entro il Regno Unito — i candidati all'estero devono utilizzare un servizio separato. L'Australia richiede il deposito di persona o per posta per la maggior parte dei rinnovi. Il Canada offre il rinnovo online agli adulti idonei che non viaggiano nei prossimi 20 giorni lavorativi; tutti gli altri presentano domanda per posta o di persona. Controllate sempre il sito web ufficiale del vostro paese per le regole di idoneità attuali.
 
 ### Cosa devo fare se il mio passaporto sta scadendo e ho un viaggio prenotato?
 

@@ -32,7 +32,7 @@ De andere is de grensbeambte bij aankomst. Die beslist of je wordt toegelaten, e
 
 Een bevestigd ticket uit het land is de meest gangbare vorm. Dat kan een retourvlucht zijn of een vlucht door naar een derde land. Wat telt, is dat het vertrekt voordat je toegestane verblijf afloopt en naar een plek gaat waar je mag inreizen.
 
-De richtlijnen van Immigration New Zealand voor bezoekers geven een goed beeld van de bandbreedte. Ze noemen bevestigde tickets of tickets met een open datum uit het land, of een schriftelijke bevestiging van een luchtvaartmaatschappij of reisbureau dat de vervolgreis is geboekt en betaald. Zakenreizigers kunnen ook een brief van hun werkgever gebruiken die garandeert dat de vervolgreis wordt geregeld. Andere bestemmingen stellen hun eigen lijsten op, en die komen niet allemaal overeen.
+De richtlijnen van Immigration New Zealand voor bezoekers geven een goed beeld van de bandbreedte. Ze noemen bevestigde tickets of tickets met een open datum uit het land, of een schriftelijke bevestiging van een luchtvaartmaatschappij of reisbureau dat de vervolgreis is geboekt en betaald. Ook aanvaarden ze alles wat een bevestigd vertrek aantoont, zoals het vertrek van een jacht of privévliegtuig. Andere bestemmingen stellen hun eigen lijsten op, en die komen niet allemaal overeen.
 
 Een **hotelboeking** en een **bankafschrift** komen ook vaak voor, maar ze beantwoorden andere vragen. Het een laat zien waar je verblijft, het ander dat je jezelf kunt onderhouden. Een grensbeambte kan om een van beide vragen, al vervangt geen van beide doorgaans een ticket om het land te verlaten.
 

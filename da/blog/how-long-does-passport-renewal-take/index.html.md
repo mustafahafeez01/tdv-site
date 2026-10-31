@@ -26,7 +26,7 @@ Sagsbehandlingstider ændrer sig med bemanding, ansøgningsmængde og årstid, s
 
 ## Alle pasløsninger kører de samme to ruter
 
-Skrab de landespecifikke blanketter væk, og systemerne følger alle samme form. Der er en standardrute, der behandler ansøgninger nogenlunde i den rækkefølge, de kommer ind, og der er som regel mindst én betalt rute, der flytter dig op i den kø. USA kalder sin hurtigere mulighed expedited processing. Storbritannien tilbyder fast track og, på nogle kontorer, en samme-dag-premiumtid. Australien sælger fast track- og prioritetsniveauer. Canada tilbyder en personlig ekspresmulighed for folk, der rejser snart. Navnene er forskellige fra land til land; den underliggende mekanik er det ikke.
+Skrab de landespecifikke blanketter væk, og systemerne følger alle samme form. Der er en standardrute, der behandler ansøgninger nogenlunde i den rækkefølge, de kommer ind, og der er som regel mindst én betalt rute, der flytter dig op i den kø. USA kalder sin hurtigere mulighed expedited processing. Storbritannien tilbyder 1 Week Fast Track og, for voksenfornyelser, en 1 Day Premium-service. Australien sælger fast track- og prioritetsniveauer. Canada tilbyder en personlig ekspresmulighed for folk, der rejser snart. Navnene er forskellige fra land til land; den underliggende mekanik er det ikke.
 
 Det er værd at være præcis om, hvad du reelt betaler for, når du betaler for hastighed, for det er let at antage, at du springer trin over. Det gør du ikke. Et hurtigere niveau køber dig en tidligere plads i køen eller en bookbar tid – det fritager dig ikke for dokumentkontrollerne, fotokravene eller den identitetsverifikation, som enhver ansøgning gennemgår. Hvis din blanket er forkert, eller dit foto ikke lever op til kravene, redder ekstra betaling den ikke. Den bringer dig blot hurtigere frem til afvisningen.
 
@@ -40,7 +40,7 @@ Hvad det betyder i praksis
 
 Sig, at du rejser i et lands højsæson, og dit pas nærmer sig grænsen. At betale for den hurtigere rute køber dig sikkerhed: en tidligere plads i køen, uanset hvor lang standardpuklen er vokset til den måned. Holder du dig i stedet til standardbehandling i en travl periode, satser du på, at det offentliggjorte tidsestimat stadig afspejler virkeligheden – hvilket er præcis den antagelse, der stiller folk dårligt.
 
-Ét forbehold: berettigelse til de hurtigere ruter afhænger som regel af din situation, ikke kun af din vilje til at betale. USA åbner kun akuttider for personer med dokumenteret rejse inden for et bestemt tidsvindue, og Storbritanniens premium-samme-dag-service kører kun på bestemte kontorer, ved forudgående booking. Tjek berettigelsesreglerne, før du antager, at en rute er åben for dig – find ikke ud af det ved skranken.
+Ét forbehold: berettigelse til de hurtigere ruter afhænger som regel af din situation, ikke kun af din vilje til at betale. USA åbner kun akuttider for personer med dokumenteret rejse inden for et bestemt tidsvindue, og Storbritanniens 1 Day Premium-service gælder kun voksenfornyelser, med tidligste tid 2 dage efter din ansøgning. Tjek berettigelsesreglerne, før du antager, at en rute er åben for dig – find ikke ud af det ved skranken.
 
 ## En kort, forudsigelig liste står bag de fleste forsinkelser
 
@@ -66,7 +66,7 @@ Vær forsigtig med at låne andres tidslinje. En ven, der fornyede hurtigt sidst
 
 Det er den del, vi bevidst overlader til dem, der reelt driver systemet. I Storbritannien er det HM Passport Office. I USA er det udenrigsministeriet. I Australien er det det australske paskontor. I Canada er det Immigration, Refugees and Citizenship Canada, sammen med Service Canada for personlige ansøgninger. De fleste andre lande offentliggør et tilsvarende tal gennem deres egen nationale pas- eller udenrigsmyndighed.
 
-Lidt kontekst hjælper dig med at bruge det tal korrekt. HM Passport Office kører en digital tjeneste for berettigede voksne, der ansøger inde fra Storbritannien; alle, der ansøger fra udlandet, bruger i stedet den separate udenlandske tjeneste, som stadig kræver, at du poster dit nuværende pas. Det amerikanske udenrigsministeriums onlineprogram dækker kun voksne, hvis pas blev udstedt ved 16 år eller senere. Australien kræver personlig fremmøde eller indlevering via Australia Post, med ekstra trin for forældresamtykke til børn. Canada springer online fornyelse helt over – alt går via post gennem Service Canada eller personligt, så læg posttid oveni det, IRCC offentliggør. Disse myndigheder er værd at stole på, fordi deres tal følger den reelle, aktuelle ansøgningsmængde, ikke et forældet gennemsnit – tjek umiddelbart før du ansøger, ikke uger i forvejen.
+Lidt kontekst hjælper dig med at bruge det tal korrekt. HM Passport Office kører en digital tjeneste for berettigede voksne, der ansøger inde fra Storbritannien; alle, der ansøger fra udlandet, bruger i stedet den separate udenlandske tjeneste, som stadig kræver, at du poster dit nuværende pas. Det amerikanske udenrigsministeriums onlineprogram dækker kun voksne, hvis pas blev udstedt ved 16 år eller senere. Australien kræver personlig fremmøde eller indlevering via Australia Post, med ekstra trin for forældresamtykke til børn. Canada tilbyder onlinefornyelse til berettigede voksne, der ikke rejser inden for de næste 20 hverdage; alle andre ansøger med post eller personligt via Service Canada, så læg posttid oveni det, IRCC offentliggør. Disse myndigheder er værd at stole på, fordi deres tal følger den reelle, aktuelle ansøgningsmængde, ikke et forældet gennemsnit – tjek umiddelbart før du ansøger, ikke uger i forvejen.
 
 ## Kan du rejse, mens dit pas bliver fornyet?
 
@@ -90,7 +90,7 @@ Vi kan ikke give dig et fast tal her, fordi det amerikanske udenrigsministeriums
 
 ### Hvor lang tid tager en pasfornyelse i Storbritannien?
 
-HM Passport Office offentliggør sin egen aktuelle sagsbehandlingstid, og den ændrer sig ofte nok til, at et tal her sandsynligvis ville være forkert, når du læser dette. Berettigede voksne, der ansøger inde fra Storbritannien, kan bruge den digitale fornyelsestjeneste, som slipper for at poste passet, men stadig kræver [et foto, der lever op til de officielle krav](https://traveldocumentvault.com/da/blog/passport-photo-at-home/). Hvis du ansøger uden for Storbritannien, bruger du i stedet den udenlandske tjeneste, som kræver, at du poster dit nuværende pas. Fast track og premium-samme-dag-tider findes til hastesager på bestemte kontorer. Tjek GOV.UK for det tal, der gælder for din situation.
+HM Passport Office offentliggør sin egen aktuelle sagsbehandlingstid, og den ændrer sig ofte nok til, at et tal her sandsynligvis ville være forkert, når du læser dette. Berettigede voksne, der ansøger inde fra Storbritannien, kan bruge den digitale fornyelsestjeneste, som slipper for at poste passet, men stadig kræver [et foto, der lever op til de officielle krav](https://traveldocumentvault.com/da/blog/passport-photo-at-home/). Hvis du ansøger uden for Storbritannien, bruger du i stedet den udenlandske tjeneste, som kræver, at du poster dit nuværende pas. Til hastesager kører HM Passport Office en 1 Week Fast Track-service og, kun for voksenfornyelser, en 1 Day Premium-service med tider fra 2 dage efter din ansøgning. Tjek GOV.UK for det tal, der gælder for din situation.
 
 ### Hvor lang tid tager en pasfornyelse i Australien?
 
@@ -98,7 +98,7 @@ Det australske paskontor er den eneste pålidelige kilde til aktuelle tider, da 
 
 ### Kan jeg forny mit pas online?
 
-USA tilbyder en onlinefornyelsesmulighed for berettigede voksne, hvis pas blev udstedt ved 16 år eller senere – tjek travel.state.gov for aktuel berettigelse. Storbritannien tilbyder en digital tjeneste for berettigede voksne, der ansøger inde fra Storbritannien; alle, der ansøger fra udlandet, skal bruge en separat tjeneste. Australien og Canada kræver begge personlig eller postal indlevering for de fleste fornyelser. Berettigelsesreglerne ændrer sig, så tjek dit lands officielle hjemmeside, før du antager, at du kvalificerer.
+USA tilbyder en onlinefornyelsesmulighed for berettigede voksne, hvis pas blev udstedt ved 16 år eller senere – tjek travel.state.gov for aktuel berettigelse. Storbritannien tilbyder en digital tjeneste for berettigede voksne, der ansøger inde fra Storbritannien; alle, der ansøger fra udlandet, skal bruge en separat tjeneste. Australien kræver personlig eller postal indlevering for de fleste fornyelser. Canada tilbyder onlinefornyelse til berettigede voksne, der ikke rejser inden for de næste 20 hverdage; alle andre ansøger med post eller personligt. Berettigelsesreglerne ændrer sig, så tjek dit lands officielle hjemmeside, før du antager, at du kvalificerer.
 
 ### Hvad skal jeg gøre, hvis mit pas er ved at udløbe, og jeg har booket rejse?
 

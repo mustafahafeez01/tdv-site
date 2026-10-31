@@ -32,7 +32,7 @@ La seconde est l'agent frontalier à l'arrivée. Son rôle est de décider s'il 
 
 Un billet confirmé de sortie du pays est la forme la plus largement comprise. Il peut s'agir d'un vol retour ou d'un vol vers un pays tiers. Ce qui compte, c'est qu'il parte avant la fin de votre séjour autorisé et qu'il vous mène vers un endroit où vous êtes autorisé à entrer.
 
-Les indications d'Immigration New Zealand pour les visiteurs donnent un bon aperçu de cette variété. Elles citent des billets confirmés ou à date ouverte de sortie du pays, ou une confirmation écrite d'une compagnie aérienne ou d'une agence de voyage attestant que la suite du voyage est réservée et payée. Les voyageurs d'affaires peuvent aussi présenter une lettre de leur employeur garantissant que la continuation du voyage sera organisée. D'autres destinations établissent leurs propres listes, qui ne correspondent pas toutes.
+Les indications d'Immigration New Zealand pour les visiteurs donnent un bon aperçu de cette variété. Elles citent des billets confirmés ou à date ouverte de sortie du pays, ou une confirmation écrite d'une compagnie aérienne ou d'une agence de voyage attestant que la suite du voyage est réservée et payée. Elles acceptent aussi tout élément démontrant un départ confirmé, comme celui d'un yacht ou d'un avion privé. D'autres destinations établissent leurs propres listes, qui ne correspondent pas toutes.
 
 Une **réservation d'hôtel** et un **relevé bancaire** reviennent souvent aussi, mais ils répondent à d'autres questions. L'un montre où vous allez loger, l'autre que vous pouvez subvenir à vos besoins. Un agent frontalier peut demander l'un ou l'autre, mais aucun ne remplace généralement un billet de sortie.
 

@@ -51,7 +51,7 @@ Konsekuensi overstay visa berbeda-beda tergantung negara tetapi secara konsisten
 
 - **Inggris:** Overstay tercatat dan akan memengaruhi permohonan visa di masa depan. Kementerian Dalam Negeri Inggris (Home Office) mempertimbangkan riwayat overstay saat menilai kredibilitas dan dapat menolak permohonan berikutnya.
 - **Australia:** Overstay visa dapat mengakibatkan pembatasan permohonan visa di masa depan dan pemulangan paksa dari negara tersebut. Berdasarkan Migration Act 1958, catatan overstay dilacak dan akan memengaruhi permohonan visa dan kelayakan masuk kembali di masa depan.
-- **Wilayah Schengen:** Overstay dilacak dalam Sistem Informasi Schengen (SIS). Larangan yang dikeluarkan oleh satu negara Schengen berlaku di seluruh 27 negara anggota.
+- **Wilayah Schengen:** Overstay dilacak dalam Sistem Informasi Schengen (SIS). Larangan yang dikeluarkan oleh satu negara Schengen berlaku di seluruh Wilayah Schengen, yang saat ini tercatat oleh Komisi Eropa sebagai 29 negara.
 - **Thailand:** Overstay dikenai denda harian yang ditetapkan oleh imigrasi Thailand, hingga batas maksimum tertentu, dan dapat berujung pada penangkapan serta deportasi untuk overstay yang berkepanjangan.
 
 Dalam semua kasus, catatan overstay biasanya terus mengikuti Anda: catatan ini muncul dalam basis data imigrasi yang diperiksa pada persilangan perbatasan dan permohonan visa di masa depan.

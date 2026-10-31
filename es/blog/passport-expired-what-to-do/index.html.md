@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/es/blog/passport-expired-what-to-do/
 
 Descubrir que tu pasaporte está caducado es uno de esos momentos en los que el tiempo se vuelve repentinamente muy real. Ya sea que lo hayas visto tres meses antes de un viaje o que estés de pie en el mostrador de facturación del aeropuerto en este momento, lo que sucede después depende completamente de en cuál situación te encuentres.
 
-![Diagrama de ramas para un pasaporte caducado: en casa con un viaje próximo, reserva una renovación urgente ya que hay citas el mismo día en Reino Unido y de emergencia en EE.UU.; en el aeropuerto, llama primero a tu aerolínea porque algunas reprograman gratis en emergencias. La solución real es un aviso a los 12 meses, no a los 6, porque caducado significa que no vuelas](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-es.jpg) El mismo problema, dos planes muy distintos: todo depende de dónde estés cuando te enteras.
+![Diagrama de ramas para un pasaporte caducado: en casa con un viaje próximo, reserva una renovación urgente ya que hay citas urgentes en Reino Unido y de emergencia en EE.UU.; en el aeropuerto, llama primero a tu aerolínea porque algunas reprograman gratis en emergencias. La solución real es un aviso a los 12 meses, no a los 6, porque caducado significa que no vuelas](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-es.jpg) El mismo problema, dos planes muy distintos: todo depende de dónde estés cuando te enteras.
 
 ## Escenario A: Lo Descubriste en Casa, con un Viaje Próximo
 
@@ -30,7 +30,7 @@ Lo urgente que necesites actuar determina qué hacer:
 - **Mucho tiempo antes del viaje:** solicita la renovación estándar en línea a través del sitio web de tu autoridad de pasaportes —GOV.UK en el Reino Unido, travel.state.gov en EE.UU.
 - **El viaje se acerca:** solicita inmediatamente y paga por procesamiento expedito. Tanto el Reino Unido como EE.UU. ofrecen en línea un servicio de pago más rápido, y ambos publican su tiempo de procesamiento actual.
 - **El viaje está cerca:** llama directamente a tu autoridad de pasaportes en lugar de confiar solo en el sitio web —la línea de atención de HM Passport Office en el Reino Unido, o el National Passport Information Center en EE.UU.
-- **El viaje es inminente:** pregunta por una cita de emergencia y lleva prueba de tus fechas de viaje. El Reino Unido ofrece un servicio Premium acelerado en oficinas de pasaportes designadas, y EE.UU. ofrece citas en agencias de pasaportes regionales.
+- **El viaje es inminente:** pregunta por una cita de emergencia y lleva prueba de tus fechas de viaje. El servicio 1 Day Premium del Reino Unido (solo renovaciones de adultos) reserva citas desde 2 días después de solicitarlo, con el pasaporte listo para recoger 4 horas después de la cita, y EE.UU. ofrece citas en agencias de pasaportes regionales.
 
 Todas las principales autoridades de pasaportes retienen ranuras de cita de emergencia que no son visibles en línea. Si tu cronograma es ajustado, nosotros siempre llamaríamos en lugar de fiarnos solo del sitio web.
 
@@ -46,7 +46,7 @@ Este escenario sucede más a menudo de lo que la gente espera, y los pasos no so
 
 **Paso 3: Verifica si el viaje doméstico es posible.** Un pasaporte caducado aún puede ser aceptado como identificación para vuelos domésticos en algunos países, aunque esto no es garantizado. Si tu destino final es alcanzable por vía doméstica desde una ciudad más cercana, esto podría ser una opción mientras resuelves el pasaporte.
 
-**Paso 4: Contacta a tu autoridad de pasaportes por teléfono.** Explica tu situación. En el Reino Unido, llama al la línea de atención de HM Passport Office y pregunta por la cita más temprana disponible en la oficina de pasaportes más cercana. En Estados Unidos, llama al el National Passport Information Center de EE. UU. y pregunta sobre citas de emergencia en la agencia regional de pasaportes más cercana. Existen opciones de mismo día y día siguiente para emergencias genuinas.
+**Paso 4: Contacta a tu autoridad de pasaportes por teléfono.** Explica tu situación. En el Reino Unido, llama al la línea de atención de HM Passport Office y pregunta por la cita más temprana disponible en la oficina de pasaportes más cercana. En Estados Unidos, llama al el National Passport Information Center de EE. UU. y pregunta sobre citas de emergencia en la agencia regional de pasaportes más cercana. Pregunta específicamente por opciones de emergencia, ya que las citas más rápidas a menudo no aparecen en el sitio web.
 
 **Paso 5: Reserva alojamiento cerca de la oficina de pasaportes.** Si consigues una cita para el día siguiente, necesitas un lugar donde quedarte. Guarda los recibos —si tienes seguro de viaje, algunos de estos costos pueden ser reclamables.
 
@@ -124,7 +124,7 @@ Solicita la renovación inmediatamente y paga por procesamiento expedito si tu v
 
 ### ¿Qué debo hacer si descubro que mi pasaporte está caducado en el aeropuerto?
 
-No podrás abordar. Ve al mostrador de la aerolínea inmediatamente para discutir reprogramación —algunas renuncian a tarifas de cambio para emergencias genuinas de documentos. Luego llama a tu autoridad de pasaportes para reservar una cita de emergencia. Opciones de mismo día y día siguiente están disponibles dependiendo de tu país.
+No podrás abordar. Ve al mostrador de la aerolínea inmediatamente para discutir reprogramación —algunas renuncian a tarifas de cambio para emergencias genuinas de documentos. Luego llama a tu autoridad de pasaportes y pregunta específicamente por opciones de cita de emergencia, ya que las citas más rápidas a menudo no aparecen en el sitio web.
 
 ### ¿Qué tan rápido puedo obtener un pasaporte de emergencia si el mío ha caducado?
 

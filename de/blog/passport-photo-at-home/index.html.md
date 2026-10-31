@@ -10,10 +10,10 @@ Source: https://traveldocumentvault.com/de/blog/passport-photo-at-home/
 
 ## Wichtigste Erkenntnisse
 
-- Verwenden Sie einen einfarbigen weißen oder cremefarbenen Hintergrund, neutralen Ausdruck, Augen offen und gerade nach vorne schauend
+- Verwenden Sie einen einfarbigen, hellen Hintergrund in dem von Ihrer Behörde verlangten Farbton, neutralen Ausdruck, Augen offen und gerade nach vorne schauend
 - Größenanforderungen unterscheiden sich von Land zu Land und werden streng durchgesetzt. Einige Behörden geben Millimeter an, andere Zoll. Entnehmen Sie die genauen Messwerte Ihrer eigenen Passbehörde anstelle einer Zusammenfassung
 - Natürliches Fensterlich funktioniert am besten – vermeiden Sie harte Schatten und vermeiden Sie Kamerablitz
-- Die meisten Länder verbieten jetzt Brillen, es sei denn, medizinisch notwendig – überprüfen Sie aktuelle Anforderungen
+- Viele Behörden, darunter die britische, bitten Sie, keine Brille zu tragen, außer es ist nötig – überprüfen Sie aktuelle Anforderungen
 - Häufige Ablehnungsgründe sind Schatten, falsche Größe, Lächeln, unscharfe Fotos und ungeeigneter Hintergrund
 
 Ein zu Hause aufgenommenes Foto wird genauso zuverlässig akzeptiert wie eines aus dem Fotoautomaten, solange es dieselbe kurze Liste von Regeln erfüllt. Die meisten Ablehnungen laufen auf drei Dinge hinaus: Schatten im Gesicht oder im Hintergrund, ein falsch proportionierter Kopf im Bild, und die Brille. Stimmen diese drei, ist der Rest einfach.
@@ -24,7 +24,7 @@ Obwohl spezifische Regeln je nach Passbehörde unterschiedlich sind, teilen die 
 
 ### Hintergrund und Komposition
 
-Sie benötigen einen einfarbigen weißen oder cremefarbenen Hintergrund – sonst nichts. Keine Muster, Schatten, unscharfe Hintergründe oder Farben. Der Grund ist einfach: Beamte benötigen einen sauberen, unverbauten Blick auf Ihr Gesicht, um es gegen zukünftige Dokumente zu vergleichen. Die meisten Menschen verwenden ein weißes Bettlaken, Plakatwand oder malen sogar einen kleinen Bereich der Wand. Der Schlüssel ist, es hell und durchgehend zu halten.
+Sie benötigen einen einfarbigen, hellen Hintergrund, dessen genauer Farbton von Ihrer Behörde abhängt: GOV.UK verlangt ein einfarbiges Creme oder Hellgrau, während die kanadische Regierung ein einfarbiges Weiß oder Hellfarbiges verlangt. Keine Muster, Schatten, unscharfe Hintergründe oder kräftigen Farben. Der Grund ist einfach: Beamte benötigen einen sauberen, unverbauten Blick auf Ihr Gesicht, um es gegen zukünftige Dokumente zu vergleichen. Die meisten Menschen verwenden ein weißes Bettlaken, Plakatwand oder malen sogar einen kleinen Bereich der Wand. Der Schlüssel ist, es hell und durchgehend zu halten.
 
 ### Ausdruck und Pose
 
@@ -32,7 +32,7 @@ Ihr Gesicht muss das Bild im von Ihrer Passbehörde angegebenen Verhältnis ausf
 
 ## Darf man auf dem Passfoto eine Brille tragen?
 
-Die meisten Länder haben sich von der Erlaubnis normaler Brillen auf Passfotos abgewandt, es sei denn, Sie tragen sie permanent aus medizinischen Gründen. Selbst dann müssen Sie möglicherweise eine Dokumentation bereitstellen oder ein separates Foto ohne Brille machen. Einige Länder erlauben noch Lesebrille, wenn sie verschrieben sind, aber die Linsen dürfen keinen Glanz erzeugen und Ihre Augen müssen deutlich sichtbar sein. Religiöse Kopfbedeckung ist normalerweise zulässig, solange sie die für die Identifikation erforderlichen Gesichtsmerkmale nicht verdeckt.
+Die Regeln zu normalen Brillen unterscheiden sich mehr, als man erwarten würde. GOV.UK bittet britische Antragstellende, keine Brille zu tragen, außer es ist nötig. Die kanadische Regierung akzeptiert sie, solange die Augen deutlich sichtbar sind und die Gläser nicht spiegeln. Religiöse Kopfbedeckung ist normalerweise zulässig, solange sie die für die Identifikation erforderlichen Gesichtsmerkmale nicht verdeckt.
 
 Sonnenbrillen und getönte Gläser werden überall abgelehnt, ohne medizinische Ausnahme. Wenn Sie die Brille tragen dürfen, neigen Sie den Kopf leicht von der Lichtquelle weg, damit die Gläser nicht spiegeln, und achten Sie darauf, dass die Fassung keinen Teil Ihrer Augen verdeckt.
 
@@ -92,9 +92,9 @@ Moderne Smartphones schießen mit 12 Megapixeln oder höher, was für Passfotos 
 - **Schatten im Gesicht:** Verursacht durch Seitenlicht oder harte Lichtquellen. Positionieren Sie sich senkrecht zum Fenster für gleichmäßige Beleuchtung, und überprüfen Sie, dass Ihre Ohren und Wangenknochen gleichmäßig beleuchtet sind.
 - **Falsche Fotodimensionen:** Das Foto entspricht nicht den Spezifikationen Ihres Landes (Anforderungen unterscheiden sich je nach Land). Verwenden Sie eine Passfoto-Zuschneidungs-App und überprüfen Sie die Abmessungen doppelt gegen die offizielle Spezifikation Ihrer Behörde vor dem Drucken oder Hochladen – nicht die Standards eines anderen Landes.
 - **Lächeln oder ungewöhnlicher Ausdruck:** Die meisten Länder erfordern einen neutralen Ausdruck. Üben Sie einen ruhigen, geradeaus gerichteten Blick in einem Spiegel – zielen Sie auf ernst, nicht streng.
-- **Brille mit Glanz:** Glanz auf den Gläsern verdeckt Ihre Augen. Entweder entfernen Sie Ihre Brille oder passen Sie den Winkel an, um die Reflexion zu beseitigen. Viele Länder verbieten jetzt Brillen vollständig, es sei denn, medizinisch notwendig, daher überprüfen Sie zuerst die aktuellen Regeln Ihrer Behörde.
+- **Brille mit Glanz:** Glanz auf den Gläsern verdeckt Ihre Augen. Entweder entfernen Sie Ihre Brille oder passen Sie den Winkel an, um die Reflexion zu beseitigen. Einige Behörden, darunter die britische, bitten Sie, keine Brille zu tragen, außer es ist nötig, daher überprüfen Sie zuerst die aktuellen Regeln Ihrer Behörde.
 - **Unscharfes oder unfokussiertes Bild:** Bewegungs- oder Fokussprobleme während der Aufnahme. Verwenden Sie ein Stativ oder ein stabiles Objekt, um Ihr Telefon zu stützen, tippen Sie auf den Bildschirm, um auf Ihrem Gesicht zu fokussieren, und vermeiden Sie jede Bewegung während der Aufnahme.
-- **Falscher Hintergrund:** Farbiger Hintergrund, Muster oder ungleichmäßiger weißer Hintergrund. Einfacher weißer oder cremefarbener Plakatwand oder Bettlaken funktioniert am besten – stellen Sie sicher, dass keine sichtbare Textur oder Schatten vorhanden sind.
+- **Falscher Hintergrund:** Farbiger Hintergrund, Muster oder ungleichmäßiger heller Hintergrund. Eine einfache, helle Plakatwand oder ein Bettlaken in dem von Ihrer Behörde verlangten Farbton funktioniert am besten – stellen Sie sicher, dass keine sichtbare Textur oder Schatten vorhanden sind.
 - **Übermäßiger Kopfplatz oder Beschnitt:** Gesicht zu klein oder falsch im Rahmen positioniert. Die Regeln Ihres Landes geben genau an, wie viel des Rahmens Ihr Gesicht ausfüllen sollte, normalerweise als Messung vom Kinn bis zur Scheitelkante, nicht als Prozentsatz – arbeiten Sie nach dieser Zahl, nicht nach dem, was richtig aussieht.
 
 ## Smartphone-Foto zuschneiden, dann drucken oder hochladen
@@ -113,7 +113,7 @@ Einige Länder akzeptieren digitale Uploads des biometrischen Passfotos, die onl
 
 Bevor Sie Ihr Foto machen, stellen Sie sicher, dass Sie Folgendes zur Hand haben:
 
-- Einfarbiges weißes oder cremefarbenes Hintergrundmaterial bereit und positioniert
+- Einfarbiges, helles Hintergrundmaterial in dem von Ihrer Behörde verlangten Farbton, bereit und positioniert
 - Gute natürliche Lichtquelle (bevorzugt ein Fenster)
 - Smartphone mit funktionierender Kamera
 - Stativ oder stabiles Objekt zum Stützen Ihres Telefons
@@ -129,11 +129,11 @@ Wenn Sie gutes Fensterlicht haben und ein paar Minuten Zeit, machen Sie das Foto
 
 ### Kann ich ein Passfoto mit meinem Smartphone machen
 
-Ja, Sie können ein Passfoto mit einem Smartphone machen. Positionieren Sie sich vor einem einfarbigen weißen oder cremefarbenen Hintergrund mit guter natürlicher Beleuchtung und stellen Sie sicher, dass das Foto die Größen- und Qualitätsanforderungen Ihres Landes erfüllt. Viele Menschen verwenden dann eine Zuschneide-App, um das digitale Foto auf die offiziellen Abmessungen zu ändern und es entweder auszudrucken oder digital hochzuladen, je nach Einreichungsprozess ihres Landes.
+Ja, Sie können ein Passfoto mit einem Smartphone machen. Positionieren Sie sich vor einem einfarbigen, hellen Hintergrund in dem von Ihrer Passbehörde verlangten Farbton, mit guter natürlicher Beleuchtung, und stellen Sie sicher, dass das Foto die Größen- und Qualitätsanforderungen Ihres Landes erfüllt. Viele Menschen verwenden dann eine Zuschneide-App, um das digitale Foto auf die offiziellen Abmessungen zu ändern und es entweder auszudrucken oder digital hochzuladen, je nach Einreichungsprozess ihres Landes.
 
 ### Wie groß sollte ein Passfoto sein
 
-Die meisten Länder verwenden eines von zwei gedruckten Formaten: 35 x 45 mm, das im Vereinigten Königreich, in der EU und in weiten Teilen der Welt gilt, oder das 2 x 2 Zoll große Quadrat der USA. Digitale Einreichungen haben eigene Mindestpixelwerte. Die Anforderungen werden streng durchgesetzt und überarbeitet, prüfen Sie die genaue Vorgabe daher bei Ihrer eigenen Passbehörde, bevor Sie drucken oder hochladen.
+Die meisten Länder verwenden eines von zwei gedruckten Formaten: 35 x 45 mm, das im Vereinigten Königreich, in der EU und in weiten Teilen der Welt gilt, oder das 2 x 2 Zoll große Quadrat der USA. Einige Behörden legen eigene Maße fest, etwa die kanadische Regierung mit 50 mm Breite und 70 mm Höhe. Digitale Einreichungen haben eigene Mindestpixelwerte. Die Anforderungen werden streng durchgesetzt und überarbeitet, prüfen Sie die genaue Vorgabe daher bei Ihrer eigenen Passbehörde, bevor Sie drucken oder hochladen.
 
 ### Warum wurde mein Passfoto abgelehnt
 
@@ -145,11 +145,11 @@ Natürliches Licht von einem Fenster ist ideal für Passfotos. Vermeiden Sie har
 
 ### Kann ich mit Brille auf einem Passfoto abgebildet sein
 
-Die meisten Länder verbieten jetzt Brillen auf Passfotos, es sei denn, Sie tragen sie aus medizinischen Gründen ständig. Selbst dann müssen Sie möglicherweise eine Dokumentation vorlegen. Überprüfen Sie die aktuellen Anforderungen Ihres Landes, bevor Sie Ihr Foto machen, da sich die Regeln in den letzten Jahren geändert haben. Im Zweifelsfall machen Sie sowohl ein Foto mit als auch ohne Brille, um Optionen zu haben.
+Das hängt von der Behörde ab. GOV.UK bittet britische Antragstellende, keine Brille zu tragen, außer es ist nötig, während die kanadische Regierung sie akzeptiert, wenn die Augen deutlich sichtbar sind und die Gläser nicht spiegeln. Sonnenbrillen und getönte Gläser werden meist abgelehnt. Überprüfen Sie die aktuellen Anforderungen Ihres Landes, bevor Sie Ihr Foto machen, da sich die Regeln in den letzten Jahren geändert haben. Im Zweifelsfall machen Sie sowohl ein Foto mit als auch ohne Brille, um Optionen zu haben.
 
 ### Welche Regeln gelten für ein Passfoto?
 
-Die Grundregeln sind in den meisten Ländern ähnlich: ein einfarbiger, heller Hintergrund, ein neutraler Ausdruck mit geschlossenem Mund, beide Augen offen und gut sichtbar, keine Brille außer bei medizinischer Notwendigkeit, gleichmäßige Beleuchtung ohne Schatten, und ein aktuelles Foto in der von Ihrem Land verlangten Größe. Jede Behörde veröffentlicht ihre eigene vollständige Liste, und die Details unterscheiden sich, prüfen Sie also Ihre eigene, bevor Sie fotografieren.
+Die Grundregeln sind in den meisten Ländern ähnlich: ein einfarbiger, heller Hintergrund, ein neutraler Ausdruck mit geschlossenem Mund, beide Augen offen und gut sichtbar, kein Glanz oder Tönung auf der Brille, falls Ihre Behörde das Tragen erlaubt, gleichmäßige Beleuchtung ohne Schatten, und ein aktuelles Foto in der von Ihrem Land verlangten Größe. Jede Behörde veröffentlicht ihre eigene vollständige Liste, und die Details unterscheiden sich, prüfen Sie also Ihre eigene, bevor Sie fotografieren.
 
 ## Verwandte Artikel
 

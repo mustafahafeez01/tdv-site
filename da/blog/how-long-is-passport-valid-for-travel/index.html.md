@@ -28,9 +28,9 @@ Standardgyldigheden for et voksenpas er 10 år fra udstedelsesdatoen i de fleste
 |---|---|---|
 | Storbritannien | 10 år | 5 år (under 16) |
 | USA | 10 år | 5 år (under 16) |
-| Australien | 10 år | 5 år (under 18) |
+| Australien | 10 år | 5 år (under 16) |
 | Canada | 10 år | 5 år |
-| Irland | 10 år | 3 år (under 18) |
+| Irland | 10 år | 5 år (under 18) |
 | New Zealand | 10 år | 5 år (under 16) |
 
 Din nøjagtige udløbsdato står trykt på datasiden ved siden af dit foto. Den dato er den absolutte grænse – dit pas ophører med at være et gyldigt rejsedokument overalt i verden, når den er overskredet.

@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/blog/child-first-passport-application/
 
 - **Consent to apply is different from consent to travel.** Your child needs written permission from all parents or guardians before the application can go in.
 - **Most applications ask for three types of evidence:** proof of identity (birth certificate), proof of parents' identity, and proof of parental relationship.
-- **Baby passport photos have specific rules.** Eyes must be open and looking at the camera, with no dummies, toys, or other hands visible - and the background behind the child's head must be plain and clear.
+- **Baby passport photos have specific rules.** Most authorities want eyes open and looking at the camera (GOV.UK relaxes this for under-1s and under-6s), with no dummies, toys, or other hands visible - and the background behind the child's head must be plain and clear.
 - **Check everything the moment it arrives.** Spelling, parent names where they appear, expiry date - especially since child passports expire faster than adult ones.
 - **One parent cannot sign alone unless there is a court order, sole legal guardianship, or the other parent is deceased.** If this is your situation, your passport office has a specific process to follow.
 
@@ -52,7 +52,7 @@ Some countries use a **countersignatory system**: a trusted professional (a teac
 
 This is where many first-time applications fail. A baby or small child cannot follow photo rules the way an adult can: babies cannot sit up, toddlers cannot sit still or understand instructions, and newborns cannot look at the camera on command. Passport photo standards were written for adults, and you need to understand how to adapt them when the subject is a child who weighs 5 kilos and moves constantly.
 
-**The core rules are the same:** the child's eyes must be clearly open and looking at the camera, with a plain background behind their head and nothing else in frame. What changes is how you make that happen.
+**The core rules are the same:** the child's eyes should generally be open and looking at the camera, with a plain background behind their head and nothing else in frame. Some authorities relax the eye rules for the youngest children: GOV.UK doesn't require open eyes under one, or a direct look at the camera under 6. What changes is how you make that happen.
 
 **For a newborn or baby under 6 months:** photograph them lying down on a plain white or pale sheet or blanket. The sheet becomes the background. The child's head fills the upper third of the frame. Position yourself directly above so the baby is looking straight up at the camera, eyes open, but if the baby is sleepy, wait for a moment when they are alert. No toys, no dummies, no hands, no other person visible in the frame except the baby's own head and shoulders.
 
@@ -62,7 +62,7 @@ This is where many first-time applications fail. A baby or small child cannot fo
 
 **The most common mistakes** all come down to something creeping into a frame that is supposed to hold only the baby:
 
-- A parent's hand supporting the baby's head (not allowed).
+- A parent's hand showing in the shot. GOV.UK lets you support the baby's head, but your hand must not be visible in the photo.
 - A dummy still in the baby's mouth (must be removed before the shot).
 - Someone else partially visible at the edge of the frame (must not appear at all).
 - Toys or objects in the background (remove them first).
@@ -106,7 +106,7 @@ At minimum: proof of the child's identity (birth certificate), proof of the pare
 
 ### What makes a passport photo of a baby different?
 
-A baby's eyes must be clearly open and looking at the camera, with no dummies, toys, or other people's hands visible. The plain background should be clearly visible behind the child's head. Because babies cannot sit up or sit still, you can photograph them lying down on a plain background - the rule is that the head must fill the frame, only the child appears in shot, and the background behind it must be clear and unobstructed.
+Many authorities want a baby's eyes open and looking at the camera, with no dummies, toys, or other people's hands visible. Some relax the eye rules for young children: GOV.UK, for example, says a child under one doesn't need their eyes open and a child under 6 doesn't need to look directly at the camera. The plain background should be clearly visible behind the child's head. Because babies cannot sit up or sit still, you can photograph them lying down on a plain background - the rule is that the head must fill the frame, only the child appears in shot, and the background behind it must be clear and unobstructed.
 
 ### How long is a child's passport valid?
 

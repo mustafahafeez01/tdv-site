@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/sv/blog/passport-expired-what-to-do/
 
 Att upptäcka att passet har gått ut är ett av de ögonblick då tiden plötsligt känns väldigt verklig. Oavsett om du upptäckte det tre månader före en resa eller står vid incheckningsdisken på flygplatsen just nu, beror nästa steg helt på vilken situation du befinner dig i.
 
-![Grendiagram för ett utgånget pass: hemma med en resa på gång, boka en brådskande förnyelse eftersom Storbritannien erbjuder samma-dag-tider och USA akuttider; på flygplatsen, ring flygbolaget först eftersom vissa ombokar gratis i nödfall. Den riktiga lösningen är en påminnelse vid 12 månader, inte 6, eftersom utgånget pass betyder att du inte flyger](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-sv.jpg) Samma problem, två helt olika tillvägagångssätt - allt beror på var du står när du upptäcker det.
+![Grendiagram för ett utgånget pass: hemma med en resa på gång, boka en brådskande förnyelse eftersom Storbritannien erbjuder brådskande tider och USA akuttider; på flygplatsen, ring flygbolaget först eftersom vissa ombokar gratis i nödfall. Den riktiga lösningen är en påminnelse vid 12 månader, inte 6, eftersom utgånget pass betyder att du inte flyger](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-sv.jpg) Samma problem, två helt olika tillvägagångssätt - allt beror på var du står när du upptäcker det.
 
 ## Scenario A: Du upptäckte det hemma, med en resa på gång
 
@@ -30,7 +30,7 @@ Hur brådskande du behöver agera avgör vad du ska göra:
 - **Gott om tid innan resan:** ansök om standardförnyelse online via passmyndighetens webbplats – GOV.UK i Storbritannien, travel.state.gov i USA.
 - **Resan närmar sig:** ansök omedelbart och betala för påskyndad handläggning. Både Storbritannien och USA erbjuder en snabbare betaltjänst online, och båda publicerar sin aktuella handläggningstid.
 - **Resan börjar bli nära:** ring passmyndigheten direkt i stället för att bara förlita dig på webbplatsen – HM Passport Office:s rådgivningslinje i Storbritannien, eller US National Passport Information Center i USA.
-- **Resan är omedelbart förestående:** fråga om en akuttid och ta med bevis på dina resdatum. Storbritannien erbjuder en Premium-tjänst samma dag på utvalda passkontor, och USA erbjuder tider på regionala passmyndigheter.
+- **Resan är omedelbart förestående:** fråga om en akuttid och ta med bevis på dina resdatum. Storbritanniens 1 Day Premium-tjänst (endast förnyelser av vuxnas pass) bokar tider tidigast två dagar efter ansökan, med passet klart för avhämtning fyra timmar senare, och USA erbjuder tider på regionala passmyndigheter.
 
 Alla större passmyndigheter håller tillbaka akuttider som inte syns online. Om din tidsram är snäv **skulle vi alltid ringa i stället för att bara lita på webbplatsen.**
 

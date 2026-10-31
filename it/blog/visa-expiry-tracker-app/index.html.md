@@ -51,7 +51,7 @@ Le conseguenze di un superamento della durata di soggiorno variano da paese a pa
 
 - **Regno Unito:** I superamenti sono registrati e influenzeranno le domande di visto future. L'Ufficio per l'Immigrazione del Regno Unito considera i superamenti nella valutazione della credibilità e può rifiutare le applicazioni successive.
 - **Australia:** Il superamento della durata di soggiorno del Suo visto può risultare in restrizioni sulle domande di visto future e nell'allontanamento dal paese. Secondo il Migration Act 1958, i record di superamento sono tracciati e influenzeranno le domande di visto future e l'idoneità al rientro.
-- **Area Schengen:** I superamenti sono tracciati nel Sistema Informativo Schengen (SIS). Un divieto emesso da un paese Schengen si applica a tutti i 27 stati membri.
+- **Area Schengen:** I superamenti sono tracciati nel Sistema Informativo Schengen (SIS). Un divieto emesso da un paese Schengen si applica a tutta l'Area Schengen, che la Commissione Europea elenca attualmente come composta da 29 paesi.
 - **Tailandia:** I superamenti comportano una multa giornaliera stabilita dall'immigrazione thailandese, fino a un tetto massimo, e possono risultare in arresto ed espulsione per superamenti prolungati.
 
 In tutti i casi, il record di superamento típicamente La segue: appare nei database immigrazione controllati ai futuri valichi di confine e nelle domande di visto.

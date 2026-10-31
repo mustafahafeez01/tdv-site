@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/it/blog/lost-passport-abroad/
 
 ## Punti chiave
 
-- Presenti una denuncia alla polizia per primo — ne avrà bisogno sia per la domanda presso l'ambasciata che per il reclamo assicurativo.
+- Presenti una denuncia alla polizia per tempo — il suo assicuratore in genere la vorrà, e alcune ambasciate la chiedono anch'esse.
 - La sua ambasciata o il consolato può rilasciare un documento di viaggio d'emergenza, generalmente molto più velocemente di un passaporto sostitutivo. **Chiami in anticipo** — la maggior parte richiede un appuntamento.
 - I viaggiatori con una copia digitale sicura del passaporto ottengono documenti di sostituzione più velocemente — fornisce i dettagli di cui ha bisogno l'ambasciata in pochi secondi.
 - L'assicurazione di viaggio copre i costi di sostituzione del passaporto nella maggior parte delle polizze complete. Avrà bisogno della denuncia alla polizia per reclamare.
@@ -36,7 +36,7 @@ Controlli dappertutto prima di assumere il peggio — tasche della giacca, ogni 
 
 ## Passo 2: Presenti una denuncia alla polizia immediatamente
 
-Vada alla stazione di polizia più vicina e denunci il passaporto smarrito o rubato. Ne avrà bisogno sia per la domanda presso l'ambasciata che per il reclamo assicurativo. Noi lo faremmo entro un'ora, se possibile, finché i dettagli sono ancora freschi nella memoria.
+Vada alla stazione di polizia più vicina e denunci il passaporto smarrito o rubato. Il suo assicuratore in genere la vorrà per un reclamo, e alcune ambasciate la chiedono, anche se non tutte: il Government of Canada, per esempio, dice che non è necessaria per la sostituzione del passaporto. Noi lo faremmo comunque entro un'ora, se possibile, finché i dettagli sono ancora freschi nella memoria.
 
 Chieda una copia scritta con un numero di caso. Richieda una versione inglese o una traduzione se possibile. Faccia una foto e conservi più copie al sicuro.
 
@@ -57,7 +57,7 @@ La sua ambasciata rilascia un documento di viaggio d'emergenza (ETD) o passaport
 
 Quello che probabilmente avrà bisogno (confermi con l'ambasciata prima di visitarla):
 
-- Denuncia alla polizia con numero di caso
+- Denuncia alla polizia con numero di caso, se la sua ambasciata la richiede
 - Prova d'identità — patente di guida, certificato di nascita, o qualsiasi altro documento d'identità emesso dal governo
 - Foto del passaporto — chieda all'ambasciata dove ottenerle localmente
 - La sua copia digitale del passaporto smarrito se ce l'ha
@@ -98,7 +98,7 @@ Sì. La maggior parte dei paesi rilascia documenti di viaggio d'emergenza attrav
 
 ### Ho bisogno di una denuncia alla polizia se il mio passaporto è rubato all'estero?
 
-Sì. Una denuncia alla polizia è richiesta dalla maggior parte delle ambasciate per le domande di documenti di viaggio d'emergenza, e dalla maggior parte degli assicuratori di viaggio per i reclami. La ottenga dalla stazione di polizia locale immediatamente, chieda una copia inglese se possibile, e conservi più copie.
+Generalmente conviene farla, anche se non tutte le autorità passaporti la richiedono. Il Government of Canada dice che non è necessaria per la sostituzione del passaporto ma può aiutare con i reclami assicurativi, e GOV.UK non la elenca tra i requisiti per un documento di viaggio d'emergenza britannico. Alcune ambasciate la chiedono comunque, e la maggior parte degli assicuratori di viaggio la vuole per un reclamo. La ottenga dalla stazione di polizia locale, chieda una copia inglese se possibile, e conservi più copie.
 
 ### L'assicurazione di viaggio copre un passaporto smarrito o rubato?
 

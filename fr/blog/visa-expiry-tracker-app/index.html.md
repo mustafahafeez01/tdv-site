@@ -51,7 +51,7 @@ Les conséquences d'un dépassement de visa varient selon le pays mais sont cons
 
 - **Royaume-Uni:** Les dépassements sont enregistrés et affecteront les futures demandes de visa. Le Bureau de l'immigration du Royaume-Uni considère les dépassements lors de l'évaluation de la crédibilité et peut refuser les demandes ultérieures.
 - **Australie:** Le dépassement de votre visa peut entraîner des restrictions sur les futures demandes de visa et votre expulsion du pays. En vertu de la loi sur la migration de 1958, les dossiers de dépassement sont suivis et affecteront les futures demandes de visa et l'admissibilité à la réentrée.
-- **Espace Schengen:** Les dépassements sont suivis dans le Système d'information Schengen (SIS). Une interdiction émise par un pays Schengen s'applique à tous les 27 États membres.
+- **Espace Schengen:** Les dépassements sont suivis dans le Système d'information Schengen (SIS). Une interdiction émise par un pays Schengen s'applique à l'ensemble de l'espace Schengen, que la Commission européenne recense actuellement à 29 pays.
 - **Thaïlande:** Les dépassements entraînent une amende journalière fixée par les autorités d'immigration thaïlandaises, jusqu'à un plafond, et peuvent entraîner une arrestation et une expulsion pour les dépassements prolongés.
 
 Dans tous les cas, l'enregistrement du dépassement vous suit généralement: il apparaît dans les bases de données d'immigration consultées aux futurs passages frontaliers et demandes de visa.

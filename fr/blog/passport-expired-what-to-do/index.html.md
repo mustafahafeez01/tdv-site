@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/fr/blog/passport-expired-what-to-do/
 
 Découvrir que votre passeport est expiré est un de ces moments où le temps devient soudainement très réel. Que vous l'ayez remarqué trois mois avant un voyage ou que vous soyez debout au comptoir d'enregistrement de l'aéroport maintenant, ce qui se passe ensuite dépend entièrement de la situation dans laquelle vous êtes.
 
-![Diagramme pour un passeport expiré : chez vous avec un voyage à venir, réservez un renouvellement urgent car des créneaux le jour même existent au Royaume-Uni et en urgence aux États-Unis ; à l'aéroport, appelez d'abord votre compagnie aérienne car certaines reprogramment gratuitement en urgence. La vraie solution est un rappel à 12 mois, pas 6, car expiré signifie pas d'embarquement](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-fr.jpg) Même problème, deux stratégies très différentes — tout dépend d'où vous êtes quand vous le découvrez.
+![Diagramme pour un passeport expiré : chez vous avec un voyage à venir, réservez un renouvellement urgent car des créneaux urgents existent au Royaume-Uni et en urgence aux États-Unis ; à l'aéroport, appelez d'abord votre compagnie aérienne car certaines reprogramment gratuitement en urgence. La vraie solution est un rappel à 12 mois, pas 6, car expiré signifie pas d'embarquement](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-fr.jpg) Même problème, deux stratégies très différentes — tout dépend d'où vous êtes quand vous le découvrez.
 
 ## Scénario A : Vous l'Avez Découvert à la Maison, avec un Voyage à Venir
 
@@ -30,7 +30,7 @@ L'urgence de la situation détermine la marche à suivre :
 - **Beaucoup de temps avant le voyage :** demandez un renouvellement standard en ligne via le site de votre autorité de délivrance de passeports — GOV.UK au Royaume-Uni, travel.state.gov aux États-Unis.
 - **Le voyage approche :** demandez immédiatement et payez pour un traitement accéléré. Le Royaume-Uni comme les États-Unis proposent en ligne un service payant plus rapide, et chacun publie son délai de traitement actuel.
 - **Le voyage se rapproche :** appelez directement votre autorité de délivrance de passeports plutôt que de vous fier au seul site Web — le service d'assistance de HM Passport Office au Royaume-Uni, ou le National Passport Information Center aux États-Unis.
-- **Le voyage est imminent :** demandez un rendez-vous d'urgence et apportez la preuve de vos dates de voyage. Le Royaume-Uni propose un service Premium accéléré dans des bureaux de passeport désignés, et les États-Unis proposent des rendez-vous dans des agences de passeport régionales.
+- **Le voyage est imminent :** demandez un rendez-vous d'urgence et apportez la preuve de vos dates de voyage. Le service 1 Day Premium du Royaume-Uni (réservé aux renouvellements pour adultes) permet de réserver un rendez-vous à partir de 2 jours après la demande, le passeport étant prêt à récupérer 4 heures après le rendez-vous, et les États-Unis proposent des rendez-vous dans des agences de passeport régionales.
 
 Toutes les grandes autorités de délivrance de passeports conservent des créneaux de rendez-vous d'urgence qui ne sont pas visibles en ligne. Si votre calendrier est serré, nous appellerions toujours plutôt que de nous fier au seul site Web.
 
@@ -46,7 +46,7 @@ Ce scénario se produit plus souvent que les gens ne le pensent, et les étapes 
 
 **Étape 3 : Vérifiez si les voyages intérieurs sont possibles.** Un passeport expiré peut toujours être accepté comme pièce d'identité pour les vols intérieurs dans certains pays, bien que ce ne soit pas garanti. Si votre destination finale est accessible par voie aérienne intérieure depuis une ville plus proche, cela pourrait être une option pendant que vous réglez la question du passeport.
 
-**Étape 4 : Contactez votre autorité de délivrance de passeports par téléphone.** Expliquez votre situation. Au Royaume-Uni, appelez le le service d'assistance de HM Passport Office et demandez le rendez-vous disponible le plus proche au bureau de passeport le plus proche. Aux États-Unis, appelez le le National Passport Information Center des États-Unis et renseignez-vous sur les rendez-vous d'urgence à l'agence régionale de passeport la plus proche. Les options le même jour et le lendemain existent pour les urgences authentiques.
+**Étape 4 : Contactez votre autorité de délivrance de passeports par téléphone.** Expliquez votre situation. Au Royaume-Uni, appelez le le service d'assistance de HM Passport Office et demandez le rendez-vous disponible le plus proche au bureau de passeport le plus proche. Aux États-Unis, appelez le le National Passport Information Center des États-Unis et renseignez-vous sur les rendez-vous d'urgence à l'agence régionale de passeport la plus proche. Demandez spécifiquement les options d'urgence, car les créneaux les plus rapides ne sont souvent pas affichés sur le site web.
 
 **Étape 5 : Réservez un hébergement près du bureau de passeport.** Si vous obtenez un rendez-vous pour le lendemain, vous avez besoin d'un endroit où rester. Conservez les reçus — si vous avez une assurance voyage, certains de ces coûts peuvent être remboursables.
 
@@ -124,7 +124,7 @@ Demandez un renouvellement immédiatement et payez pour un traitement accélér�
 
 ### Que dois-je faire si je découvre que mon passeport est expiré à l'aéroport ?
 
-Vous ne pourrez pas embarquer. Allez au comptoir de la compagnie aérienne immédiatement pour discuter de la reprogrammation — certaines annulent les frais de modification pour les urgences documentaires authentiques. Puis appelez votre autorité de délivrance de passeports pour réserver un rendez-vous d'urgence. Les options le même jour et le lendemain sont disponibles selon votre pays.
+Vous ne pourrez pas embarquer. Allez au comptoir de la compagnie aérienne immédiatement pour discuter de la reprogrammation — certaines annulent les frais de modification pour les urgences documentaires authentiques. Puis appelez votre autorité de délivrance de passeports et demandez spécifiquement les options de rendez-vous d'urgence, car les créneaux les plus rapides ne sont souvent pas affichés sur le site web.
 
 ### À quelle vitesse puis-je obtenir un passeport d'urgence si le mien a expiré ?
 

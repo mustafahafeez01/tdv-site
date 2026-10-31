@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/nl/blog/lost-passport-abroad/
 
 ## Belangrijkste punten
 
-- Doe eerst aangifte bij de politie – je hebt dit nodig voor zowel je aanvraag bij de ambassade als je verzekeringsclaim.
+- Doe vroeg aangifte bij de politie – je verzekeraar zal er meestal om vragen, en sommige ambassades ook.
 - Je ambassade of consulaat kan een noodpaspoort uitgeven, meestal veel sneller dan een gewoon nieuw paspoort. **Bel van tevoren** – de meeste vereisen een afspraak.
 - Reizigers met een veilige digitale kopie van hun paspoort krijgen vervangende documenten sneller – je geeft de gegevens die je ambassade nodig heeft binnen enkele seconden door.
 - Reisverzekeringen dekken de kosten voor een nieuw paspoort in de meeste uitgebreide polissen. Je hebt het proces-verbaal nodig om een claim in te dienen.
@@ -36,7 +36,7 @@ Kijk overal na voordat je het ergste aanneemt – jaszakken, elk vak van je tas,
 
 ## Stap 2: Doe meteen aangifte bij de politie
 
-Ga naar het dichtstbijzijnde politiebureau en meld het paspoort als verloren of gestolen. Je hebt dit proces-verbaal nodig voor zowel je aanvraag bij de ambassade als je verzekeringsclaim. Wij zouden het binnen het uur doen als het kan, zolang de details je nog vers in het geheugen liggen.
+Ga naar het dichtstbijzijnde politiebureau en meld het paspoort als verloren of gestolen. Je verzekeraar zal er meestal om vragen voor een claim, en sommige ambassades vragen er ook om, al doet niet elke dat: de Canadese overheid zegt bijvoorbeeld dat het niet nodig is om een paspoort te vervangen. Wij zouden het binnen het uur doen als het kan, zolang de details je nog vers in het geheugen liggen.
 
 Vraag om een schriftelijke kopie met een zaaknummer, en vraag om een Engelse vertaling als die beschikbaar is. Maak er een foto van en bewaar meerdere kopieën op een veilige plek.
 
@@ -57,7 +57,7 @@ Je ambassade geeft een noodpaspoort (emergency travel document, ETD) uit, meesta
 
 Wat je meestal nodig hebt (bevestig dit met je ambassade voordat je langsgaat):
 
-- Proces-verbaal met zaaknummer
+- Proces-verbaal met zaaknummer, als je ambassade erom vraagt
 - Identiteitsbewijs - rijbewijs, geboorteakte of ander overheidsdocument
 - Pasfoto's - vraag je ambassade waar je die lokaal kunt laten maken
 - Je digitale kopie van het verloren paspoort, als je die hebt
@@ -98,7 +98,7 @@ Ja. De meeste landen geven noodpaspoorten uit via hun ambassades en consulaten, 
 
 ### Heb ik een proces-verbaal nodig als mijn paspoort in het buitenland wordt gestolen?
 
-Ja. De meeste ambassades vereisen een proces-verbaal voor aanvragen van een noodpaspoort, en de meeste reisverzekeraars vereisen het voor claims. Haal het meteen bij het plaatselijke politiebureau, vraag indien mogelijk om een Engelse kopie, en bewaar meerdere kopieën.
+Meestal de moeite waard, al vereist niet elke paspoortinstantie het. De Canadese overheid zegt dat een proces-verbaal niet nodig is om een paspoort te vervangen, maar wel kan helpen bij een verzekeringsclaim, en GOV.UK vermeldt er geen voor de aanvraag van een Brits noodreisdocument. Sommige ambassades vragen er wel om, en de meeste reisverzekeraars willen het voor een claim. Haal het meteen bij het plaatselijke politiebureau, vraag indien mogelijk om een Engelse kopie, en bewaar meerdere kopieën.
 
 ### Dekt mijn reisverzekering een verloren of gestolen paspoort?
 

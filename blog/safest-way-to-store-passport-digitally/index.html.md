@@ -97,7 +97,7 @@ With Pro, you can sync documents across configured devices on the same platform.
 | Works fully offline | No (needs sync) | No (needs sync) | Yes |
 | Remote breach risk | Medium (Apple's servers) | Medium-High (Google's servers + content scanning) | Optional encrypted backup to your own iCloud or Google Drive (Pro) |
 | Cross-device access | Automatic | Automatic | Manual vault export; optional automatic cloud backup and sync (Pro) |
-| Cost | Free (200GB), then paid | Free (15GB), then paid | Typically a one-time purchase, no subscription |
+| Cost | Free (5GB), then paid | Free (15GB), then paid | Typically a one-time purchase, no subscription |
 | Designed for identity docs | No | No | Yes |
 
 ![Hand-drawn comparison chart asking where should your passport live: iCloud Photos offers optional end-to-end encryption but needs an account and sync, Google Photos misses all four criteria, an encrypted vault ticks end-to-end, no account, works offline and AES-256](https://traveldocumentvault.com/blog/safest-way-to-store-passport-digitally/storage-comparison.jpg) The comparison table above, redrawn at a glance.

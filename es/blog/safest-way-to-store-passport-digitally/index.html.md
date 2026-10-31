@@ -99,7 +99,7 @@ Con Pro, puedes sincronizar documentos entre dispositivos configurados de la mis
 | Funciona completamente sin conexión | No (necesita sincronización) | No (necesita sincronización) | Sí |
 | Riesgo de incumplimiento remoto | Medio (servidores de Apple) | Medio-Alto (servidores de Google + escaneo de contenido) | Copia de seguridad cifrada opcional en tu propio iCloud o Google Drive (Pro) |
 | Acceso entre dispositivos | Automático | Automático | Exportación manual de la bóveda; copia de seguridad automática en la nube y sincronización opcionales (Pro) |
-| Costo | Gratis (200GB), luego pago | Gratis (15GB), luego pago | Generalmente compra única |
+| Costo | Gratis (5GB), luego pago | Gratis (15GB), luego pago | Generalmente compra única |
 | Diseñado para documentos de identidad | No | No | Sí |
 
 ## ¿Cuál Deberías Elegir?

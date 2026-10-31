@@ -51,7 +51,7 @@ Las consecuencias de un exceso de visado varían según el país pero son consis
 
 - **Reino Unido:** Los excesos se registran y afectarán futuras solicitudes de visado. La Oficina de Interior del Reino Unido considera los excesos al evaluar credibilidad y puede rechazar futuras solicitudes.
 - **Australia:** Excederse en tu visado puede resultar en restricciones en futuras solicitudes de visado y expulsión del país. Bajo la Ley de Migración de 1958, los registros de exceso se rastrean y afectarán futuras solicitudes de visado y elegibilidad de reentrada.
-- **Área de Schengen:** Los excesos se rastrean en el Sistema de Información de Schengen (SIS). Una prohibición emitida por un país de Schengen se aplica en los 27 estados miembros.
+- **Área de Schengen:** Los excesos se rastrean en el Sistema de Información de Schengen (SIS). Una prohibición emitida por un país de Schengen se aplica en toda el Área de Schengen, que la Comisión Europea sitúa actualmente en 29 países.
 - **Tailandia:** Los excesos incurren una multa diaria fijada por inmigración tailandesa, hasta un máximo establecido, y pueden resultar en arresto y deportación por excesos prolongados.
 
 En todos los casos, el registro de exceso típicamente te sigue: aparece en bases de datos de inmigración revisadas en futuras cruces fronterizos y solicitudes de visado.

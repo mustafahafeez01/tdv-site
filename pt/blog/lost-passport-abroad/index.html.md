@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/pt/blog/lost-passport-abroad/
 
 ## Pontos-Chave
 
-- Apresente um relatório de polícia primeiro — precisa dele tanto para a sua candidatura à embaixada como para a sua reclamação de seguro.
+- Apresente um relatório de polícia desde o início — a sua seguradora normalmente vai querê-lo, e algumas embaixadas também pedem.
 - A sua embaixada ou consulado pode emitir um documento de viagem de emergência, normalmente muito mais rápido do que um passaporte de substituição. **Contacte antes** — a maioria requer uma marcação.
 - Os viajantes com uma cópia digital segura do seu passaporte obtêm documentos de substituição mais rapidamente — entregar os detalhes que a sua embaixada necessita em segundos.
 - O seguro de viagem cobre custos de substituição de passaporte na maioria das apólices abrangentes. Precisa do relatório de polícia para reclamar.
@@ -36,7 +36,7 @@ Procure em todo o lado antes de assumir o pior — bolsos do casaco, todos os co
 
 ## Passo 2: Apresente um Relatório de Polícia Imediatamente
 
-Vá à esquadra de polícia mais próxima e apresente queixa por passaporte perdido ou roubado. Precisa deste relatório tanto para a sua candidatura à embaixada como para a sua reclamação de seguro. Nós fá-lo-íamos dentro da hora, se possível, enquanto os pormenores ainda estão frescos na memória.
+Vá à esquadra de polícia mais próxima e apresente queixa por passaporte perdido ou roubado. A sua seguradora normalmente vai querê-lo para uma reclamação, e algumas embaixadas pedem-no, embora nem todas: o Governo do Canadá, por exemplo, diz que não é necessário para a substituição do passaporte. Nós fá-lo-íamos dentro da hora, se possível, enquanto os pormenores ainda estão frescos na memória.
 
 Peça uma cópia escrita com número de caso. Solicite uma versão em inglês ou tradução se possível. Tire uma foto e mantenha várias cópias guardadas em segurança.
 
@@ -57,7 +57,7 @@ A sua embaixada emite um documento de viagem de emergência (DVE) ou passaporte 
 
 O que normalmente vai precisar (confirme com a sua embaixada antes de visitar):
 
-- Relatório de polícia com número de caso
+- Relatório de polícia com número de caso, se a sua embaixada o pedir
 - Prova de identidade — carta de condução, certidão de nascimento, ou qualquer outra identificação emitida pelo governo
 - Fotos de passaporte — pergunte à sua embaixada onde obter estas localmente
 - A sua cópia digital do passaporte perdido se tiver uma
@@ -98,7 +98,7 @@ Sim. A maioria dos países emite documentos de viagem de emergência através da
 
 ### Preciso de um relatório de polícia se o meu passaporte for roubado no estrangeiro?
 
-Sim. Um relatório de polícia é necessário pela maioria das embaixadas para candidaturas a documentos de viagem de emergência, e pela maioria das seguradoras de viagem para reclamações. Obtenha-o da estação de polícia local imediatamente, peça uma cópia em inglês se possível, e mantenha várias cópias.
+Geralmente vale a pena, embora nem todas as autoridades de passaportes o exijam. O Governo do Canadá diz que um relatório de polícia não é necessário para a substituição do passaporte, mas pode ajudar numa reclamação de seguro, e o GOV.UK não o lista como exigência para um documento de viagem de emergência britânico. Algumas embaixadas pedem-no, e a maioria das seguradoras de viagem quer-o para uma reclamação. Obtenha-o da estação de polícia local imediatamente, peça uma cópia em inglês se possível, e mantenha várias cópias.
 
 ### O seguro de viagem cobre um passaporte perdido ou roubado?
 

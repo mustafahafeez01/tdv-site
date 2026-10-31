@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/de/blog/lost-passport-abroad/
 
 ## Wichtigste Erkenntnisse
 
-- Erstatten Sie zuerst eine Polizeianzeige – Sie benötigen diese sowohl für Ihren Botschaftsantrag als auch für Ihren Versicherungsanspruch.
+- Erstatten Sie früh eine Polizeianzeige – Ihr Versicherer wird sie meist verlangen, und manche Botschaften fragen auch danach.
 - Ihre Botschaft oder Ihr Konsulat kann ein Notfallreisedokument ausstellen, normalerweise weit schneller als einen Passersatz. **Rufen Sie vorher an** – die meisten benötigen einen Termin.
 - Reisende mit einer sicheren digitalen Kopie ihres Passes erhalten Ersatzdokumente schneller – Sie übergeben die Details, die Ihre Botschaft benötigt, in Sekunden.
 - Die Reiseversicherung deckt die Kosten für Passersatz in den meisten umfassenden Policen. Sie benötigen den Polizeibericht, um einen Anspruch geltend zu machen.
@@ -36,7 +36,7 @@ Prüfen Sie überall, bevor Sie das Schlimmste annehmen – Jackentaschen, jedes
 
 ## Schritt 2: Erstatten Sie sofort eine Polizeianzeige
 
-Gehen Sie zur nächsten Polizeiwache und melden Sie den Pass als verloren oder gestohlen. Sie benötigen diesen Bericht sowohl für Ihren Botschaftsantrag als auch für Ihren Versicherungsanspruch. Wir würden die Anzeige möglichst innerhalb einer Stunde erstatten, solange die Einzelheiten noch frisch in Erinnerung sind.
+Gehen Sie zur nächsten Polizeiwache und melden Sie den Pass als verloren oder gestohlen. Ihr Versicherer wird den Bericht meist für einen Anspruch verlangen, und manche Botschaften fragen danach, aber nicht alle: Die kanadische Regierung etwa sagt, er sei für den Passersatz nicht erforderlich. Wir würden die Anzeige möglichst innerhalb einer Stunde erstatten, solange die Einzelheiten noch frisch in Erinnerung sind.
 
 Fragen Sie nach einer schriftlichen Kopie mit einem Aktenzeichen. Fragen Sie nach einer englischen Fassung oder Übersetzung, falls möglich. Machen Sie ein Foto davon und bewahren Sie mehrere Kopien sicher auf.
 
@@ -57,7 +57,7 @@ Ihre Botschaft stellt ein Notfallreisedokument (ETD) oder einen Notfallpass aus,
 
 Was Sie normalerweise brauchen (bestätigen Sie dies mit Ihrer Botschaft, bevor Sie besuchen):
 
-- Polizeibericht mit Aktenzeichen
+- Polizeibericht mit Aktenzeichen, falls Ihre Botschaft danach fragt
 - Identitätsnachweis – Führerschein, Geburtsurkunde oder andere behördliche Ausweisdokumente
 - Passfotos – fragen Sie Ihre Botschaft, wo Sie diese lokal bekommen
 - Ihre digitale Kopie des verlorenen Passes, falls vorhanden
@@ -98,7 +98,7 @@ Ja. Die meisten Länder stellen Notfallreisedokumente über ihre Botschaften und
 
 ### Brauche ich einen Polizeibericht, wenn mein Pass im Ausland gestohlen wird?
 
-Ja. Ein Polizeibericht ist erforderlich von den meisten Botschaften bei Anträgen für Notfallreisedokumente und von den meisten Reiseversicherungen bei Ansprüchen. Holen Sie ihn sofort von der örtlichen Polizeiwache, fragen Sie nach einer englischen Kopie, falls möglich, und bewahren Sie mehrere Kopien auf.
+Es lohnt sich meist, einen zu holen, aber nicht jede Passbehörde verlangt ihn. Die kanadische Regierung sagt, ein Polizeibericht sei für den Passersatz nicht erforderlich, könne aber bei Versicherungsansprüchen helfen, und GOV.UK führt keinen für den Antrag auf ein britisches Notfallreisedokument auf. Manche Botschaften fragen danach, und die meisten Reiseversicherer wollen ihn für einen Anspruch. Holen Sie ihn sofort von der örtlichen Polizeiwache, fragen Sie nach einer englischen Kopie, falls möglich, und bewahren Sie mehrere Kopien auf.
 
 ### Deckt die Reiseversicherung einen verlorenen oder gestohlenen Pass ab?
 

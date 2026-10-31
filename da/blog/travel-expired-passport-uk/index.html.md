@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/da/blog/travel-expired-passport-uk/
 
 - **Absolut regel:** Ingen international rejse med et udløbet pas. Flyselskaber og grænsekontrol vil afvise dig.
 - **Indenrigske undtagelser:** Storbritannien til Irland og Isle of Man kan acceptere alternativ foto-legitimation; kontakt dit flyselskab først.
-- **Nødfornyelse:** Onlinetjenesten Premium er tilgængelig (tid samme dag eller næste dag, kun fornyelser).
+- **Nødfornyelse:** HM Passport Office kører en 1 Day Premium-tjeneste for voksenfornyelser: tidligste tid er 2 dage efter du ansøger, og det nye pas er klar til afhentning 4 timer efter. Tjek det aktuelle gebyr på gov.uk, før du booker.
 - **Rejseforsikring:** De fleste forsikringer ugyldiggør erstatningskrav, hvis dit pas var udløbet under rejsen.
 - **Hvis du er i udlandet:** Kontakt nærmeste britiske ambassade eller konsulat for at få et nødrejsedokument.
 
@@ -66,7 +66,7 @@ Overvejer du en indenrigsrejse med et udløbet pas, skal du kontakte dit flysels
 
 ## Nødfornyelse: Premiumtjenesten, hvis du kan få en tid
 
-Er din rejse nært forestående, og dit pas er udløbet, tilbyder His Majesty's Passport Office en Premiumtjeneste, der er designet netop til dette scenarie, og som garanterer enten en tid samme dag eller den næste hverdag afhængigt af tilgængelighed. HM Passport Office offentliggør det aktuelle gebyr på gov.uk, og det dækker tiden og fornyelsen samlet i stedet for at blive lagt oveni standardgebyret. Dit fornyede pas ankommer langt hurtigere end standardvejen, selvom hvor meget hurtigere afhænger af den tid, du kan få. Bemærk, at den online Premiumtjeneste kun gælder fornyelser, ikke første pas til voksne.
+Er din rejse nært forestående, og dit pas er udløbet, tilbyder His Majesty's Passport Office en 1 Day Premium-tjeneste, der er designet netop til dette scenarie. Ifølge GOV.UK er den tidligste tid 2 dage efter din ansøgning, og dit fornyede pas er klar til afhentning 4 timer efter din tid. HM Passport Office offentliggør det aktuelle gebyr på gov.uk, og det dækker tiden og fornyelsen samlet i stedet for at blive lagt oveni standardgebyret. Det giver dig et pas langt hurtigere end standardvejen, selvom hvor meget hurtigere afhænger af den tid, du får. Bemærk, at 1 Day Premium-tjenesten kun gælder voksenfornyelser, ikke første pas til voksne.
 
 Dette er den officielle nødvej for reelle rejsebegrænsninger. HM Passport Office offentliggør den aktuelle sagsbehandlingstid for en standardfornyelse, og næsten alle ansøgninger behandles inden for det tidsrum, men når en rejse virkelig ikke kan vente, fjerner Premiummuligheden usikkerheden.
 

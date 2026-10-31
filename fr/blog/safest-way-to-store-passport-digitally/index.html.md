@@ -99,7 +99,7 @@ Avec Pro, vous pouvez synchroniser les documents entre les appareils configurés
 | Fonctionne complètement hors ligne | Non (synchronisation nécessaire) | Non (synchronisation nécessaire) | Oui |
 | Risque de violation distante | Moyen (serveurs d'Apple) | Moyen-Élevé (serveurs de Google + analyse de contenu) | Sauvegarde chiffrée facultative sur votre propre iCloud ou Google Drive (Pro) |
 | Accès multi-appareils | Automatique | Automatique | Exportation manuelle du coffre ; sauvegarde cloud et synchronisation automatiques facultatives (Pro) |
-| Coût | Gratuit (200 Go), puis payant | Gratuit (15 Go), puis payant | Généralement un achat unique, sans abonnement |
+| Coût | Gratuit (5 Go), puis payant | Gratuit (15 Go), puis payant | Généralement un achat unique, sans abonnement |
 | Conçu pour les documents d'identité | Non | Non | Oui |
 
 ## Lequel devriez-vous choisir ?

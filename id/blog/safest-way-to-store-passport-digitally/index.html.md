@@ -99,7 +99,7 @@ Dengan Pro, Anda bisa menyinkronkan dokumen antarperangkat yang sudah dikonfigur
 | Berfungsi penuh secara offline | Tidak (perlu sinkronisasi) | Tidak (perlu sinkronisasi) | Ya |
 | Risiko kebocoran jarak jauh | Sedang (server Apple) | Sedang hingga tinggi (server Google + pemindaian konten) | Cadangan terenkripsi opsional ke iCloud atau Google Drive Anda sendiri (Pro) |
 | Akses lintas perangkat | Otomatis | Otomatis | Ekspor vault manual; cadangan cloud otomatis dan sinkronisasi opsional (Pro) |
-| Biaya | Gratis (200 GB), lalu berbayar | Gratis (15 GB), lalu berbayar | Umumnya pembelian sekali bayar, tanpa langganan |
+| Biaya | Gratis (5 GB), lalu berbayar | Gratis (15 GB), lalu berbayar | Umumnya pembelian sekali bayar, tanpa langganan |
 | Dirancang untuk dokumen identitas | Tidak | Tidak | Ya |
 
 ## Mana yang sebaiknya Anda pilih?

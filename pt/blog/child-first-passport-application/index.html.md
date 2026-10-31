@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/pt/blog/child-first-passport-application
 
 - **O consentimento para pedir o passaporte é diferente do consentimento para viajar.** O seu filho precisa de autorização por escrito de todos os pais ou tutores antes de o pedido poder avançar.
 - **A maioria dos pedidos exige três tipos de prova:** prova de identidade da criança (certidão de nascimento), prova de identidade dos pais, e prova da relação parental.
-- **As fotos de passaporte de bebés têm regras específicas.** Os olhos têm de estar abertos e a olhar para a câmara, sem chupetas, brinquedos ou mãos de outras pessoas visíveis — e o fundo atrás da cabeça da criança tem de ser liso e sem obstruções.
+- **As fotos de passaporte de bebés têm regras específicas.** A maioria das autoridades quer os olhos abertos e a olhar para a câmara (o GOV.UK flexibiliza isto para menores de 1 ano e de 6 anos), sem chupetas, brinquedos ou mãos de outras pessoas visíveis — e o fundo atrás da cabeça da criança tem de ser liso e sem obstruções.
 - **Verifique tudo assim que o passaporte chegar.** Ortografia, nomes dos pais quando aparecem, data de validade — sobretudo porque os passaportes de crianças expiram mais depressa do que os de adultos.
 - **Um progenitor não pode assinar sozinho, exceto havendo uma decisão judicial, guarda legal exclusiva, ou falecimento do outro progenitor.** Se for essa a sua situação, o serviço de passaportes tem um procedimento específico a seguir.
 
@@ -52,7 +52,7 @@ Os serviços de passaportes pedem três coisas quando se candidata ao primeiro p
 
 É aqui que muitos pedidos pela primeira vez falham. Um bebé ou uma criança pequena não consegue seguir as regras da fotografia como um adulto: os bebés não conseguem sentar-se sozinhos, as crianças pequenas não conseguem ficar quietas ou entender instruções, e os recém-nascidos não conseguem olhar para a câmara a pedido. As normas para fotografias de passaporte foram escritas para adultos, e é preciso perceber como as adaptar quando o sujeito é uma criança que pesa 5 quilos e não para quieta.
 
-**As regras principais são as mesmas:** os olhos da criança têm de estar claramente abertos e a olhar para a câmara, com um fundo liso atrás da cabeça e mais nada visível na imagem. O que muda é a forma como consegue que isso aconteça.
+**As regras principais são as mesmas:** os olhos da criança devem, em geral, estar abertos e a olhar para a câmara, com um fundo liso atrás da cabeça e mais nada visível na imagem. Algumas autoridades flexibilizam as regras dos olhos para as crianças mais pequenas: o GOV.UK não exige olhos abertos antes de um ano, nem um olhar direto para a câmara antes dos 6 anos. O que muda é a forma como consegue que isso aconteça.
 
 **Para um recém-nascido ou bebé com menos de 6 meses:** fotografe-o deitado sobre um lençol ou manta liso, branco ou claro. O lençol torna-se o fundo. A cabeça da criança preenche o terço superior da imagem. Coloque-se diretamente por cima, para que o bebé olhe para cima, na direção da câmara, com os olhos abertos — se o bebé estiver sonolento, espere por um momento em que esteja desperto. Sem brinquedos, sem chupetas, sem mãos, sem qualquer outra pessoa visível na imagem, apenas a cabeça e os ombros do bebé.
 
@@ -62,7 +62,7 @@ Os serviços de passaportes pedem três coisas quando se candidata ao primeiro p
 
 **Os erros mais comuns** resumem-se a algo que se intromete numa imagem que deve conter apenas o bebé:
 
-- a mão de um progenitor a segurar a cabeça do bebé, visível na imagem (não é permitido);
+- a mão de um progenitor visível na imagem. O GOV.UK permite apoiar a cabeça do bebé, mas a mão não pode ficar visível na fotografia;
 - uma chupeta ainda na boca do bebé (tem de ser removida antes da fotografia);
 - outra pessoa parcialmente visível na borda da imagem (não pode aparecer);
 - brinquedos ou objetos no fundo (remova-os);
@@ -106,7 +106,7 @@ No mínimo: prova da identidade da criança (certidão de nascimento), prova da 
 
 ### O que torna diferente uma fotografia de passaporte de um bebé?
 
-Os olhos do bebé têm de estar claramente abertos e a olhar para a câmara, sem chupetas, brinquedos, ou mãos de outras pessoas visíveis. O fundo liso deve estar claramente visível atrás da cabeça da criança. Como os bebés não conseguem sentar-se ou ficar quietos, pode fotografá-los deitados sobre um fundo liso — a regra é que a cabeça preencha a imagem, que apenas a criança apareça na fotografia, e que o fundo atrás dela esteja limpo e sem obstruções.
+Muitas autoridades querem os olhos do bebé abertos e a olhar para a câmara, sem chupetas, brinquedos, ou mãos de outras pessoas visíveis. Algumas flexibilizam as regras dos olhos para crianças pequenas: o GOV.UK, por exemplo, diz que uma criança com menos de um ano não precisa de ter os olhos abertos, e uma criança com menos de 6 anos não precisa de olhar diretamente para a câmara. O fundo liso deve estar claramente visível atrás da cabeça da criança. Como os bebés não conseguem sentar-se ou ficar quietos, pode fotografá-los deitados sobre um fundo liso — a regra é que a cabeça preencha a imagem, que apenas a criança apareça na fotografia, e que o fundo atrás dela esteja limpo e sem obstruções.
 
 ### Quanto tempo é válido o passaporte de uma criança?
 

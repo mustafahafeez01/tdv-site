@@ -10,7 +10,7 @@ Source: https://traveldocumentvault.com/sv/blog/lost-passport-abroad/
 
 ## Viktiga punkter
 
-- Gör en polisanmälan först – du behöver den både för ansökan hos ambassaden och för försäkringsanspråket.
+- Gör en polisanmälan tidigt – ditt försäkringsbolag vill vanligtvis ha den, och en del ambassader begär den också.
 - Din ambassad eller ditt konsulat kan utfärda ett nödpass, oftast betydligt snabbare än ett vanligt nytt pass. **Ring i förväg** – de flesta kräver tidsbokning.
 - Resenärer med en säker digital kopia av sitt pass får sina ersättningshandlingar snabbare – du lämnar över de uppgifter ambassaden behöver på några sekunder.
 - Reseförsäkringen täcker kostnaden för ett nytt pass i de flesta fullständiga försäkringar. Du behöver polisanmälan för att göra anspråket.
@@ -36,7 +36,7 @@ Leta överallt innan du drar den värsta slutsatsen – jackfickor, alla fack i 
 
 ## Steg 2: Gör en polisanmälan omedelbart
 
-Gå till närmaste polisstation och anmäl passet som förlorat eller stulet. Du behöver den här anmälan både för ansökan hos ambassaden och för försäkringsanspråket. Vi skulle göra det inom en timme om det går, medan detaljerna fortfarande är färska i minnet.
+Gå till närmaste polisstation och anmäl passet som förlorat eller stulet. Ditt försäkringsbolag vill vanligtvis ha den här anmälan för ett anspråk, och en del ambassader begär den, men inte alla: den kanadensiska regeringen uppger exempelvis att den inte krävs för att ersätta passet. Vi skulle göra det inom en timme om det går, medan detaljerna fortfarande är färska i minnet.
 
 Be om en skriftlig kopia med ärendenummer, och fråga om en engelsk översättning finns att få. Fotografera anmälan och spara flera kopior på säkert ställe.
 
@@ -57,7 +57,7 @@ Din ambassad utfärdar ett nödpass (emergency travel document, ETD), vanligtvis
 
 Vad du vanligtvis behöver (bekräfta med din ambassad innan du besöker den):
 
-- Polisanmälan med ärendenummer
+- Polisanmälan med ärendenummer, om din ambassad begär det
 - Identitetsbevis – körkort, födelsebevis eller annan myndighetsutfärdad legitimation
 - Passfoton – fråga ambassaden var du kan få dessa tagna lokalt
 - Din digitala kopia av det förlorade passet, om du har en
@@ -98,7 +98,7 @@ Ja. De flesta länder utfärdar nödpass via sina ambassader och konsulat, vanli
 
 ### Behöver jag en polisanmälan om passet blir stulet utomlands?
 
-Ja. De flesta ambassader kräver en polisanmälan för ansökan om nödpass, och de flesta reseförsäkringsbolag kräver den för anspråk. Skaffa den hos den lokala polisstationen omedelbart, be om en engelsk kopia om möjligt, och spara flera kopior.
+Vanligtvis värt att skaffa, även om inte alla passmyndigheter kräver den. Den kanadensiska regeringen uppger att en polisanmälan inte krävs för att ersätta passet men kan vara till hjälp vid försäkringsanspråk, och GOV.UK listar ingen sådan för en brittisk nödresehandling. Vissa ambassader begär en, och de flesta reseförsäkringsbolag vill ha den för ett anspråk. Skaffa den hos den lokala polisstationen omedelbart, be om en engelsk kopia om möjligt, och spara flera kopior.
 
 ### Täcker reseförsäkringen ett förlorat eller stulet pass?
 

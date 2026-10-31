@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/pt/blog/travel-expired-passport-uk/
 
 - **Regra absoluta:** Nenhuma viagem internacional com um passaporte expirado. Companhias aéreas e controlo de fronteiras recusarão.
 - **Exceções domésticas:** Reino Unido para Irlanda e Ilha de Man podem aceitar documentos de identidade alternativos; contacte primeiro a sua companhia aérea.
-- **Renovação de emergência:** O HM Passport Office oferece um serviço Online Premium apenas para renovações, com marcação no mesmo dia ou no dia seguinte quando há disponibilidade. Consulte a taxa atual em gov.uk antes de reservar.
+- **Renovação de emergência:** O HM Passport Office oferece um serviço 1 Day Premium apenas para renovações de adultos: a marcação mais próxima é 2 dias depois do pedido, e o novo passaporte fica pronto para recolha 4 horas depois da marcação. Consulte a taxa atual em gov.uk antes de reservar.
 - **Seguro de viagem:** A maioria das apólices invalida reclamações se o seu passaporte estava expirado durante a viagem.
 - **Se estiver no estrangeiro:** Contacte a embaixada ou consulado britânico mais próximo para obter um documento de viagem de emergência.
 
@@ -66,7 +66,7 @@ Se está a considerar viagem doméstica com um passaporte expirado, contacte a s
 
 ## Renovação de Emergência: Serviço Premium, Se Conseguir uma Marcação
 
-Se a sua viagem é iminente e o seu passaporte está expirado, o Escritório de Passaportes de Sua Majestade oferece um serviço Premium concebido exatamente para este cenário, com marcação no mesmo dia ou no dia de trabalho seguinte, dependendo da disponibilidade. O HM Passport Office publica a taxa atual em gov.uk, que cobre a marcação e a renovação em conjunto, em vez de se somar à taxa padrão. Obtém o seu passaporte muito mais rápido do que pela via padrão, embora a rapidez exata dependa da marcação disponível. Note que o serviço Online Premium é apenas para renovações, não para primeiros passaportes de adulto.
+Se a sua viagem é iminente e o seu passaporte está expirado, o Escritório de Passaportes de Sua Majestade oferece um serviço 1 Day Premium concebido exatamente para este cenário. O GOV.UK indica que a marcação mais próxima é 2 dias depois do pedido, e que o novo passaporte fica pronto para recolha 4 horas depois da marcação. O HM Passport Office publica a taxa atual em gov.uk, que cobre a marcação e a renovação em conjunto, em vez de se somar à taxa padrão. Obtém o seu passaporte muito mais rápido do que pela via padrão, embora a rapidez exata dependa da marcação disponível. Note que o serviço 1 Day Premium é apenas para renovações de adultos, não para primeiros passaportes de adulto.
 
 Esta é a via de emergência oficial para constrangimentos de viagem genuína. O HM Passport Office publica o seu tempo de processamento padrão atual em gov.uk, e vale a pena consultá-lo antes de assumir que tem tempo para esperar. Quando uma viagem genuinamente não pode esperar, a opção Premium remove a incerteza.
 

@@ -51,7 +51,7 @@ Konsekvenserna av en overstay på visumet varierar mellan länder men är genomg
 
 - **Storbritannien:** Overstays registreras och påverkar framtida visumansökningar. Brittiska inrikesministeriet (Home Office) beaktar overstays vid bedömning av trovärdighet och kan avslå senare ansökningar.
 - **Australien:** En overstay kan leda till begränsningar för framtida visumansökningar och avlägsnande från landet. Enligt Migration Act 1958 registreras overstays och påverkar framtida visumansökningar och möjligheten till återinresa.
-- **Schengenområdet:** Overstays registreras i informationssystemet SIS. Ett förbud utfärdat av ett Schengenland gäller i samtliga 27 medlemsländer.
+- **Schengenområdet:** Overstays registreras i informationssystemet SIS. Ett förbud utfärdat av ett Schengenland gäller i hela Schengenområdet, som EU-kommissionen för närvarande listar till 29 länder.
 - **Thailand:** Overstays medför en daglig avgift fastställd av thailändska migrationsmyndigheten, upp till ett tak, och kan resultera i gripande och utvisning vid längre overstays.
 
 I samtliga fall följer overstay-registret ofta med dig: det syns i migrationsdatabaser som kontrolleras vid framtida gränspasseringar och visumansökningar.

@@ -99,7 +99,7 @@ Com Pro, pode sincronizar documentos entre dispositivos configurados na mesma pl
 | Funciona totalmente offline | Não (precisa de sincronização) | Não (precisa de sincronização) | Sim |
 | Risco de violação remota | Médio (servidores da Apple) | Médio-Alto (servidores do Google + análise de conteúdo) | Cópia de segurança encriptada opcional para o seu próprio iCloud ou Google Drive (Pro) |
 | Acesso entre dispositivos | Automático | Automático | Exportação manual do cofre; cópia de segurança automática na nuvem e sincronização opcionais (Pro) |
-| Custo | Grátis (200GB), depois pago | Grátis (15GB), depois pago | Normalmente compra única |
+| Custo | Grátis (5GB), depois pago | Grátis (15GB), depois pago | Normalmente compra única |
 | Concebido para documentos de identidade | Não | Não | Sim |
 
 ## Qual Deveria Escolher?

@@ -28,9 +28,9 @@ De standaardgeldigheid voor een paspoort van een volwassene is in de meeste land
 |---|---|---|
 | Verenigd Koninkrijk | 10 jaar | 5 jaar (onder 16) |
 | Verenigde Staten | 10 jaar | 5 jaar (onder 16) |
-| Australië | 10 jaar | 5 jaar (onder 18) |
+| Australië | 10 jaar | 5 jaar (onder 16) |
 | Canada | 10 jaar | 5 jaar |
-| Ierland | 10 jaar | 3 jaar (onder 18) |
+| Ierland | 10 jaar | 5 jaar (onder 18) |
 | Nieuw-Zeeland | 10 jaar | 5 jaar (onder 16) |
 
 Je exacte vervaldatum staat afgedrukt op de gegevenspagina naast je foto. Die datum is de harde grens – je paspoort houdt overal ter wereld op een geldig reisdocument te zijn zodra die datum verstrijkt.

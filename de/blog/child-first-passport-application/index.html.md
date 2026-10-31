@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/de/blog/child-first-passport-application
 
 - **Die Zustimmung zur Beantragung ist etwas anderes als die Zustimmung zur Reise.** Ihr Kind benötigt die schriftliche Erlaubnis aller Eltern oder Erziehungsberechtigten, bevor der Antrag eingereicht werden kann.
 - **Die meisten Anträge verlangen drei Arten von Nachweisen:** einen Identitätsnachweis (Geburtsurkunde), einen Identitätsnachweis der Eltern und einen Nachweis des Eltern-Kind-Verhältnisses.
-- **Für Babyfotos im Reisepass gelten besondere Regeln.** Die Augen müssen offen sein und in die Kamera schauen, ohne sichtbaren Schnuller, Spielzeug oder fremde Hände – und der Hintergrund hinter dem Kopf des Kindes muss einfarbig und frei sein.
+- **Für Babyfotos im Reisepass gelten besondere Regeln.** Die meisten Behörden wollen offene Augen, die in die Kamera schauen (GOV.UK lockert dies für Kinder unter 1 und unter 6 Jahren), ohne sichtbaren Schnuller, Spielzeug oder fremde Hände – und der Hintergrund hinter dem Kopf des Kindes muss einfarbig und frei sein.
 - **Prüfen Sie alles, sobald der Reisepass ankommt.** Schreibweise, die Namen der Eltern, sofern sie aufgeführt sind, das Ablaufdatum – besonders wichtig, weil Kinderreisepässe schneller ablaufen als die von Erwachsenen.
 - **Ein Elternteil kann nicht allein unterschreiben, es sei denn, es liegt eine gerichtliche Verfügung oder das alleinige Sorgerecht vor, oder der andere Elternteil ist verstorben.** Trifft das auf Sie zu, hat Ihre Passbehörde ein festgelegtes Verfahren dafür.
 
@@ -52,7 +52,7 @@ Passbehörden verlangen drei Dinge, wenn Sie den ersten Reisepass eines Kindes b
 
 Genau hier scheitern viele Erstanträge. Ein Baby oder Kleinkind kann Fotoregeln nicht so befolgen wie ein Erwachsener: Babys können nicht selbst sitzen, Kleinkinder können weder stillhalten noch Anweisungen verstehen, und Neugeborene schauen nicht auf Kommando in die Kamera. Die Passfoto-Standards wurden für Erwachsene geschrieben, und Sie müssen verstehen, wie man sie anpasst, wenn das Motiv ein 5 Kilo schweres Kind ist, das sich ständig bewegt.
 
-**Die Grundregeln bleiben gleich:** Die Augen des Kindes müssen deutlich geöffnet sein und in die Kamera schauen, mit einem einfarbigen Hintergrund hinter dem Kopf und nichts sonst im Bild. Was sich ändert, ist der Weg dorthin.
+**Die Grundregeln bleiben größtenteils gleich:** Die Augen des Kindes sollten in der Regel geöffnet sein und in die Kamera schauen, mit einem einfarbigen Hintergrund hinter dem Kopf und nichts sonst im Bild. Einige Behörden lockern die Augenregeln für die jüngsten Kinder: GOV.UK verlangt bei einem Kind unter einem Jahr keine offenen Augen und bei einem Kind unter 6 Jahren keinen direkten Blick in die Kamera. Was sich ändert, ist der Weg dorthin.
 
 **Bei einem Neugeborenen oder Baby unter 6 Monaten:** Fotografieren Sie es liegend auf einem einfarbigen weißen oder hellen Laken oder einer Decke. Der Stoff wird zum Hintergrund. Der Kopf des Kindes füllt das obere Drittel des Bildausschnitts. Positionieren Sie sich direkt darüber, sodass das Baby mit offenen Augen gerade nach oben in die Kamera schaut – ist es schläfrig, warten Sie einen Moment ab, in dem es wach ist. Kein Spielzeug, kein Schnuller, keine Hände, keine andere Person im Bild außer Kopf und Schultern des Babys.
 
@@ -62,7 +62,7 @@ Genau hier scheitern viele Erstanträge. Ein Baby oder Kleinkind kann Fotoregeln
 
 **Die häufigsten Fehler** haben alle dieselbe Ursache: Etwas schleicht sich in einen Bildausschnitt, der nur das Baby zeigen soll.
 
-- Eine Elternhand, die den Kopf des Babys stützt (nicht erlaubt).
+- Eine Elternhand, die im Bild sichtbar ist. GOV.UK erlaubt es, den Kopf des Babys zu stützen, aber die Hand darf auf dem Foto nicht sichtbar sein.
 - Ein Schnuller noch im Mund des Babys (muss vor der Aufnahme entfernt werden).
 - Eine andere Person, die am Bildrand teilweise sichtbar ist (darf überhaupt nicht erscheinen).
 - Spielzeug oder Gegenstände im Hintergrund (zuerst entfernen).
@@ -106,7 +106,7 @@ Mindestens erforderlich sind: ein Identitätsnachweis des Kindes (Geburtsurkunde
 
 ### Was ist bei einem Passfoto eines Babys anders?
 
-Die Augen des Babys müssen deutlich geöffnet sein und in die Kamera schauen, ohne sichtbaren Schnuller, Spielzeug oder fremde Hände. Der einfarbige Hintergrund sollte hinter dem Kopf des Kindes klar sichtbar sein. Da Babys weder sitzen noch stillhalten können, dürfen Sie sie liegend auf einem einfarbigen Hintergrund fotografieren – die Regel lautet, dass der Kopf den Bildausschnitt füllen muss, nur das Kind im Bild zu sehen ist und der Hintergrund dahinter klar und frei sein muss.
+Viele Behörden wollen, dass die Augen des Babys offen sind und in die Kamera schauen, ohne sichtbaren Schnuller, Spielzeug oder fremde Hände. Manche Behörden lockern die Augenregeln für kleine Kinder: GOV.UK etwa verlangt bei einem Kind unter einem Jahr keine offenen Augen und bei einem Kind unter 6 Jahren keinen direkten Blick in die Kamera. Der einfarbige Hintergrund sollte hinter dem Kopf des Kindes klar sichtbar sein. Da Babys weder sitzen noch stillhalten können, dürfen Sie sie liegend auf einem einfarbigen Hintergrund fotografieren – die Regel lautet, dass der Kopf den Bildausschnitt füllen muss, nur das Kind im Bild zu sehen ist und der Hintergrund dahinter klar und frei sein muss.
 
 ### Wie lange ist der Reisepass eines Kindes gültig?
 

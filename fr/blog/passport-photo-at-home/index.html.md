@@ -10,10 +10,10 @@ Source: https://traveldocumentvault.com/fr/blog/passport-photo-at-home/
 
 ## Points clés à retenir
 
-- Utilisez un arrière-plan blanc ou blanc cassé uni, une expression neutre, les yeux ouverts et regardant droit devant
+- Utilisez un arrière-plan clair et uni dans la teinte demandée par votre autorité, une expression neutre, les yeux ouverts et regardant droit devant
 - Les exigences de taille varient selon le pays et elles sont appliquées strictement. Certaines autorités spécifient les millimètres, d'autres les pouces. Prenez les mesures exactes auprès de votre propre autorité de passeport plutôt que d'un résumé tiers
 - La lumière naturelle d'une fenêtre fonctionne mieux — évitez les ombres dures et n'utilisez pas le flash
-- La plupart des pays interdisent désormais les lunettes sauf si elles sont médicalement nécessaires — vérifiez les exigences actuelles
+- De nombreuses autorités, dont celle du Royaume-Uni, demandent de ne pas porter de lunettes sauf nécessité — vérifiez les exigences actuelles
 - Les raisons courantes de rejet incluent les ombres, une mauvaise taille, le sourire, les photos floues et des arrière-plans inappropriés
 
 Une photo prise chez vous est acceptée aussi facilement qu'une photo de cabine, à condition de respecter la même courte liste de règles. La plupart des rejets tiennent à trois choses : une ombre sur le visage ou l'arrière-plan, une tête mal proportionnée dans le cadre, et les lunettes. Une fois ces trois points réglés, le reste est simple.
@@ -24,7 +24,7 @@ Bien que les règles spécifiques varient selon l'autorité de passeport, la plu
 
 ### Arrière-plan et composition
 
-Vous avez besoin d'un arrière-plan blanc ou blanc cassé uni — rien d'autre ne fonctionne. Pas de motifs, d'ombres, d'arrière-plans flous ou de couleurs. La raison est simple : les responsables ont besoin d'une vue nette et sans encombrement de votre visage pour le comparer avec les documents futurs. La plupart des gens utilisent un drap blanc, un carton de présentation ou même peignent une petite section de mur. L'essentiel est de garder l'arrière-plan lumineux et uniforme.
+Vous avez besoin d'un arrière-plan clair et uni, la teinte exacte dépendant de votre autorité : GOV.UK demande un fond crème ou gris clair uni, tandis que le Gouvernement du Canada demande un fond blanc ou de couleur claire uni. Pas de motifs, d'ombres, d'arrière-plans flous ou de couleurs vives. La raison est simple : les responsables ont besoin d'une vue nette et sans encombrement de votre visage pour le comparer avec les documents futurs. La plupart des gens utilisent un drap blanc, un carton de présentation ou même peignent une petite section de mur. L'essentiel est de garder l'arrière-plan lumineux et uniforme.
 
 ### Expression et pose
 
@@ -32,13 +32,13 @@ Votre visage doit remplir le cadre selon la proportion que votre autorité de pa
 
 ## Peut-on porter des lunettes sur une photo de passeport ?
 
-La plupart des pays se sont détournés de l'autorisation des lunettes ordinaires sur les photos de passeport, sauf si vous les portez de façon permanente pour une raison médicale. Même dans ce cas, vous devrez peut-être fournir une documentation ou prendre une photo séparée sans lunettes. Certains pays autorisent toujours les lunettes de lecture si elles sont prescrites, mais la lentille ne doit pas créer de reflet et vos yeux doivent être clairement visibles. Le couvre-chef religieux est généralement autorisé tant qu'il ne masque pas les caractéristiques faciales nécessaires à l'identification.
+Les règles sur le port de lunettes varient plus qu'on pourrait le croire. GOV.UK demande aux candidats britanniques de ne pas porter de lunettes sauf nécessité. Le Gouvernement du Canada les accepte à condition que vos yeux restent clairement visibles et qu'il n'y ait aucun reflet sur les verres. Le couvre-chef religieux est généralement autorisé tant qu'il ne masque pas les caractéristiques faciales nécessaires à l'identification.
 
 Les lunettes de soleil et verres teintés sont refusés partout, sans exemption médicale. Si vous êtes autorisé à garder vos lunettes, inclinez légèrement la tête à l'écart de la lumière pour éviter tout reflet sur les verres, et vérifiez que la monture ne recouvre aucune partie de vos yeux.
 
 ## Taille de la photo de passeport : les deux formats utilisés par la plupart des pays
 
-La plupart des autorités de passeport utilisent l'un de ces deux formats imprimés. Le format 35 x 45 mm couvre le Royaume-Uni, les pays de l'UE dont les Pays-Bas, et une grande partie du reste du monde. Les États-Unis demandent un carré de 2 x 2 pouces, une poignée de pays suivant ce standard à la place.
+La plupart des autorités de passeport utilisent l'un de ces deux formats imprimés. Le format 35 x 45 mm couvre le Royaume-Uni, les pays de l'UE dont les Pays-Bas, et une grande partie du reste du monde. Les États-Unis demandent un carré de 2 x 2 pouces, une poignée de pays suivant ce standard à la place. Certaines autorités fixent toutefois leur propre format : le Gouvernement du Canada demande des photos imprimées de 50 mm sur 70 mm.
 
 Les soumissions numériques remplacent les millimètres par des pixels, et chaque autorité publie ses propres minimums. Ces deux formats sont ceux que la plupart des autorités demandent actuellement pour l'impression, mais les spécifications sont révisées, alors confirmez la vôtre avant d'imprimer ou de télécharger.
 
@@ -92,9 +92,9 @@ Les smartphones modernes prennent des photos à 12 mégapixels ou plus, ce qui e
 - **Ombres sur le visage :** Causée par un éclairage latéral ou des sources lumineuses dures. Positionnez-vous perpendiculairement à une fenêtre pour un éclairage uniforme, et vérifiez que vos oreilles et vos pommettes sont uniformément éclairés.
 - **Dimensions de photo incorrectes :** La photo ne correspond pas aux spécifications de votre pays (les exigences varient selon le pays). Utilisez une application de recadrage de photo de passeport et vérifiez deux fois les dimensions par rapport à la spécification officielle de votre autorité avant d'imprimer ou de télécharger — pas les normes d'un autre pays.
 - **Sourire ou expression inhabituelle :** La plupart des pays exigent une expression neutre. Entraînez-vous à faire un regard calme et droit devant vous dans un miroir — visez grave, pas sévère.
-- **Verres avec reflet :** Le reflet sur les verres masque vos yeux. Soit enlevez vos lunettes, soit ajustez l'angle pour éliminer le reflet. De nombreux pays interdisent désormais complètement les lunettes sauf si elles sont médicalement nécessaires. Vérifiez d'abord les règles actuelles de votre autorité.
+- **Verres avec reflet :** Le reflet sur les verres masque vos yeux. Soit enlevez vos lunettes, soit ajustez l'angle pour éliminer le reflet. Certaines autorités, dont celle du Royaume-Uni, demandent de ne pas porter de lunettes sauf nécessité. Vérifiez d'abord les règles actuelles de votre autorité.
 - **Image floue ou non mise au point :** Problèmes de mouvement ou de mise au point lors de la capture. Utilisez un trépied ou un objet stable pour vous aider à maintenir votre téléphone, appuyez sur l'écran pour mettre au point votre visage, et évitez tout mouvement pendant le tir.
-- **Mauvais arrière-plan :** Arrière-plan coloré, motif ou arrière-plan blanc inégal. Du carton blanc ou blanc cassé uni ou un drap fonctionne mieux — assurez-vous qu'aucune texture ou ombre visible.
+- **Mauvais arrière-plan :** Arrière-plan coloré, motif ou arrière-plan inégal. Du carton ou un drap de couleur claire et unie, dans la teinte demandée par votre autorité, fonctionne mieux — assurez-vous qu'aucune texture ou ombre visible.
 - **Espace excessif au-dessus de la tête ou recadrage :** Visage trop petit ou mal positionné dans le cadre. Les règles de votre pays indiqueront exactement la quantité de cadre que votre visage doit remplir, généralement sous forme de mesure du menton à la couronne plutôt qu'un pourcentage — travaillez sur ce chiffre, pas sur ce qui semble correct.
 
 ## Recadrez votre photo de smartphone, puis imprimez-la ou téléversez-la
@@ -113,7 +113,7 @@ Certains pays acceptent les téléchargements numériques de la photo biométriq
 
 Avant de prendre votre photo, assurez-vous que vous avez ce qui suit en place :
 
-- Du matériel d'arrière-plan blanc ou blanc cassé uni prêt et positionné
+- Du matériel d'arrière-plan clair et uni, dans la teinte demandée par votre autorité, prêt et positionné
 - Une bonne source de lumière naturelle (de préférence une fenêtre)
 - Un smartphone avec un appareil photo qui fonctionne
 - Un trépied ou un objet stable pour aider votre téléphone
@@ -129,11 +129,11 @@ Si vous disposez d'une bonne lumière de fenêtre et de quelques minutes, prenez
 
 ### Puis-je prendre une photo de passeport sur mon smartphone
 
-Oui, vous pouvez prendre une photo de passeport avec un smartphone. Positionnez-vous devant un arrière-plan blanc ou blanc cassé uni avec une bonne lumière naturelle, et assurez-vous que la photo respecte les exigences de taille et de qualité de votre pays. Beaucoup de gens utilisent ensuite une application de recadrage pour redimensionner la photo numérique aux dimensions officielles et l'impriment ou la téléchargent numériquement selon le processus de soumission de leur pays.
+Oui, vous pouvez prendre une photo de passeport avec un smartphone. Positionnez-vous devant un arrière-plan clair et uni dans la teinte demandée par votre autorité de passeport, avec une bonne lumière naturelle, et assurez-vous que la photo respecte les exigences de taille et de qualité de votre pays. Beaucoup de gens utilisent ensuite une application de recadrage pour redimensionner la photo numérique aux dimensions officielles et l'impriment ou la téléchargent numériquement selon le processus de soumission de leur pays.
 
 ### Quelle taille doit avoir une photo de passeport
 
-La plupart des pays utilisent l'un de ces deux formats imprimés : 35 x 45 mm, qui couvre le Royaume-Uni, l'UE et une grande partie du monde, ou le carré de 2 x 2 pouces utilisé aux États-Unis. Les soumissions numériques ont des minimums en pixels distincts. Les exigences sont appliquées strictement et révisées régulièrement, alors confirmez la spécification exacte auprès de votre propre autorité de passeport avant d'imprimer ou de télécharger.
+La plupart des pays utilisent l'un de ces deux formats imprimés : 35 x 45 mm, qui couvre le Royaume-Uni, l'UE et une grande partie du monde, ou le carré de 2 x 2 pouces utilisé aux États-Unis. Certaines autorités fixent leur propre format : le Gouvernement du Canada, par exemple, demande des photos imprimées de 50 mm sur 70 mm. Les soumissions numériques ont des minimums en pixels distincts. Les exigences sont appliquées strictement et révisées régulièrement, alors confirmez la spécification exacte auprès de votre propre autorité de passeport avant d'imprimer ou de télécharger.
 
 ### Pourquoi ma photo de passeport a-t-elle été rejetée
 
@@ -145,11 +145,11 @@ La lumière naturelle d'une fenêtre est idéale pour les photos de passeport. �
 
 ### Puis-je porter des lunettes sur une photo de passeport
 
-La plupart des pays interdisent désormais les lunettes sur les photos de passeport sauf si elles sont médicalement nécessaires. Même dans ce cas, vous devrez peut-être fournir une documentation. Vérifiez les exigences actuelles de votre pays avant de prendre votre photo, car les règles ont évolué ces dernières années. En cas de doute, prenez une photo avec et sans lunettes pour avoir des options.
+Cela dépend de l'autorité. GOV.UK demande aux candidats britanniques de ne pas porter de lunettes sauf nécessité, tandis que le Gouvernement du Canada les accepte si vos yeux restent clairement visibles et qu'il n'y a aucun reflet sur les verres. Les lunettes de soleil et les verres teintés sont généralement refusés. Vérifiez les exigences actuelles de votre pays avant de prendre votre photo. En cas de doute, prenez une photo avec et sans lunettes pour avoir des options.
 
 ### Quelles sont les règles pour une photo de passeport ?
 
-Les règles de base sont globalement les mêmes d'un pays à l'autre : un arrière-plan clair et uni, une expression neutre bouche fermée, les deux yeux ouverts et bien visibles, pas de lunettes sauf nécessité médicale, un éclairage homogène sans ombres, et une photo récente conforme au format exigé par votre pays. Chaque autorité publie sa propre liste complète et les détails varient, alors vérifiez la vôtre avant de la prendre.
+Les règles de base sont globalement les mêmes d'un pays à l'autre : un arrière-plan clair et uni, une expression neutre bouche fermée, les deux yeux ouverts et bien visibles, pas de reflet ni de teinte sur les lunettes si votre autorité vous autorise à les garder, un éclairage homogène sans ombres, et une photo récente conforme au format exigé par votre pays. Chaque autorité publie sa propre liste complète et les détails varient, alors vérifiez la vôtre avant de la prendre.
 
 ## Articles connexes
 

@@ -99,7 +99,7 @@ Med Pro kan du synkronisere dokumenter mellem konfigurerede enheder på samme pl
 | Virker fuldt offline | Nej (kræver synkronisering) | Nej (kræver synkronisering) | Ja |
 | Risiko for fjernbrud | Middel (Apples servere) | Middel til høj (Googles servere + indholdsscanning) | Valgfri krypteret backup til din egen iCloud eller Google Drive (Pro) |
 | Adgang på tværs af enheder | Automatisk | Automatisk | Manuel eksport af hvælving; valgfri automatisk cloud-backup og synkronisering (Pro) |
-| Pris | Gratis (200 GB), derefter betalt | Gratis (15 GB), derefter betalt | Typisk et engangskøb, intet abonnement |
+| Pris | Gratis (5 GB), derefter betalt | Gratis (15 GB), derefter betalt | Typisk et engangskøb, intet abonnement |
 | Designet til identitetsdokumenter | Nej | Nej | Ja |
 
 ## Hvilken bør du vælge?

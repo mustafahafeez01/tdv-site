@@ -28,9 +28,9 @@ El período de validez estándar para un pasaporte de adulto es de 10 años desd
 |---|---|---|
 | Reino Unido | 10 años | 5 años (menores de 16) |
 | Estados Unidos | 10 años | 5 años (menores de 16) |
-| Australia | 10 años | 5 años (menores de 18) |
+| Australia | 10 años | 5 años (menores de 16) |
 | Canadá | 10 años | 5 años |
-| Irlanda | 10 años | 3 años (menores de 18) |
+| Irlanda | 10 años | 5 años (menores de 18) |
 | Nueva Zelanda | 10 años | 5 años (menores de 16) |
 
 Tu fecha exacta de vencimiento está impresa en la página de datos junto a tu foto. Esa fecha es el límite máximo —tu pasaporte deja de ser un documento de viaje válido en cualquier lugar del mundo una vez que pasa.

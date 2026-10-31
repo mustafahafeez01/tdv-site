@@ -51,7 +51,7 @@ De gevolgen van een visumoverstay verschillen per land, maar zijn doorgaans erns
 
 - **VK:** Overstays worden geregistreerd en beïnvloeden toekomstige visumaanvragen. Het Britse Home Office weegt overstays mee bij het beoordelen van geloofwaardigheid en kan latere aanvragen afwijzen.
 - **Australië:** Een overstay kan leiden tot beperkingen bij toekomstige visumaanvragen en uitzetting uit het land. Onder de Migration Act 1958 worden overstays geregistreerd en beïnvloeden ze toekomstige visumaanvragen en de mogelijkheid om weer in te reizen.
-- **Schengengebied:** Overstays worden bijgehouden in het Schengen Informatiesysteem (SIS). Een verbod dat door één Schengenland is uitgevaardigd, geldt in alle 27 lidstaten.
+- **Schengengebied:** Overstays worden bijgehouden in het Schengen Informatiesysteem (SIS). Een verbod dat door één Schengenland is uitgevaardigd, geldt in het hele Schengengebied, dat de Europese Commissie momenteel op 29 landen stelt.
 - **Thailand:** Overstays leiden tot een dagelijkse boete die door de Thaise immigratiedienst wordt vastgesteld, tot een maximum, en kunnen bij langere overstays leiden tot arrestatie en uitzetting.
 
 In alle gevallen blijft het overstay-dossier je meestal volgen: het verschijnt in immigratiedatabases die worden gecontroleerd bij toekomstige grensovergangen en visumaanvragen.

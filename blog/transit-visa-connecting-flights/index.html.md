@@ -41,7 +41,7 @@ Transit visas are mandatory in several circumstances, and the requirements vary 
 
 The **Schengen Airport Transit Visa (ATV)** applies to certain non-EU passport holders making airside-only connections through any Schengen airport, though many nationalities are exempt - including EU, EEA, UK, US, Canadian, Australian, and several others. Because the exemption list is complex and changes periodically, you cannot assume you are exempt. The IATA Travel Centre database holds the current rules for your specific nationality and destination, so check there rather than guessing based on what you know about other countries.
 
-The **United Kingdom** offers visa-free airside transit for many, but others require what is now called a Direct Airside Transit Visa (DATV). Like Schengen, exemption depends on your nationality, not just your destination.
+The **United Kingdom** offers visa-free airside transit for many, but others require what is now called a Direct Airside Transit Visa (DATV). Like Schengen, exemption depends mainly on your nationality, not just your destination, and GOV.UK says you don't need a transit visa if you hold a UK electronic travel authorisation (ETA).
 
 The **United States** does not offer a true international transit zone, so you must clear immigration and customs on arrival, regardless of where you boarded. This means even a two-hour connection requires entry to the country and handling of your baggage through US immigration, even if your bags are nominally checked through to your final destination. In practice, this comes down to US entry rules rather than transit visa rules, so it's worth building into your travel plan from the start.
 

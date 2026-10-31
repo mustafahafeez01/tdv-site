@@ -10,10 +10,10 @@ Source: https://traveldocumentvault.com/blog/passport-photo-at-home/
 
 ## Key Takeaways
 
-- Use a plain white or off-white background, neutral expression, and eyes open and looking straight ahead
+- Use a plain, light background in your authority's required shade, neutral expression, and eyes open and looking straight ahead
 - Size requirements differ from country to country and are enforced strictly, so take the measurements from your own passport authority rather than any summary
 - Natural window light works best - avoid harsh shadows and avoid using camera flash
-- Most countries now prohibit glasses unless medically necessary - check current requirements
+- Many authorities, including the UK's, ask you not to wear glasses unless you have to - check current requirements
 - Common rejection reasons include shadows, wrong size, smiling, blurry photos, and improper backgrounds
 
 A photo taken at home passes just as readily as one from a booth, provided it meets the same short list of rules. Most rejections come down to three things: shadow on the face or the background, the head being the wrong size in the frame, and glasses. Get those right and the rest is straightforward.
@@ -24,7 +24,7 @@ Although specific rules vary by passport authority, most countries share core re
 
 ### Background and Composition
 
-You need a plain white or off-white background: nothing else works. No patterns, shadows, blurred backgrounds, or colours. The reasoning is straightforward: officials need a clean, uncluttered view of your face to compare against future documents. Most people use a white bedsheet, poster board, or even paint a small section of wall. The key is keeping it bright and uniform throughout.
+You need a plain, light background, and the exact shade depends on your authority: GOV.UK asks for plain cream or light grey, while the Government of Canada asks for plain white or light-coloured. No patterns, shadows, blurred backgrounds, or strong colours. The reasoning is straightforward: officials need a clean, uncluttered view of your face to compare against future documents. Most people use a white bedsheet, poster board, or even paint a small section of wall. The key is keeping it bright and uniform throughout.
 
 ### Expression and Pose
 
@@ -32,13 +32,13 @@ Your face needs to fill the frame to the proportion your passport authority spec
 
 ## Can You Wear Glasses in Your Passport Photo?
 
-Most countries have moved away from allowing regular glasses in passport photos unless you wear them permanently for a medical reason. Even then, you may need to provide documentation or take a separate photo without glasses. Some nations still permit reading glasses if they are prescribed, but the lens must not create glare and your eyes must be clearly visible. Religious headgear is typically permitted as long as it does not obscure the facial features needed for identification.
+Rules on regular glasses vary more than you might expect. GOV.UK tells UK applicants not to wear them unless they have to. The Government of Canada accepts them as long as your eyes are clearly visible and there's no glare on the lenses. Religious headgear is typically permitted as long as it does not obscure the facial features needed for identification.
 
 Sunglasses and tinted lenses are refused everywhere, with no medical exemption. If you do qualify to keep your glasses on, angle your head slightly away from the light so the lenses carry no reflection, and check that the frames do not cross any part of your eyes.
 
 ## Passport Photo Size: the Two Standards Most Countries Use
 
-Most passport authorities use one of two printed sizes. The 35mm x 45mm format covers the UK, EU countries including the Netherlands, and much of the rest of the world. The US asks for a 2 x 2 inch square, and a handful of countries follow that standard instead.
+Most passport authorities use one of two printed sizes. The 35mm x 45mm format covers the UK, EU countries including the Netherlands, and much of the rest of the world. The US asks for a 2 x 2 inch square, and a handful of countries follow that standard instead. A few authorities set their own size: the Government of Canada, for example, asks for printed photos 50mm wide by 70mm high.
 
 Digital submissions swap millimetres for pixels, and every authority publishes its own minimums. Those two sizes are what most authorities currently ask for in print, but specifications get revised, so confirm yours before you print or upload.
 
@@ -90,9 +90,9 @@ Modern smartphones shoot at 12 megapixels or higher, which is plenty for passpor
 - **Shadows on the face:** side lighting or a harsh light source is usually the cause, so position yourself perpendicular to a window for even illumination and check that your ears and cheekbones are lit evenly.
 - **Incorrect photo dimensions:** Photo does not match your country's specifications (requirements vary by country). Use a passport photo cropping app and double-check dimensions against your authority's official spec before printing or uploading - not another country's standards.
 - **Smiling or unusual expression:** most countries require a neutral expression, so practice a calm, straight-ahead look in a mirror beforehand: aim for serious, not stern.
-- **Glasses with glare:** Glare on lenses obscures your eyes. Either remove your glasses or adjust the angle to eliminate reflection. Many countries now prohibit glasses entirely unless medically necessary, so check your authority's current rules first.
+- **Glasses with glare:** Glare on lenses obscures your eyes. Either remove your glasses or adjust the angle to eliminate reflection. Some authorities, including the UK's, ask you not to wear glasses unless you have to, so check your authority's current rules first.
 - **Blurry or out-of-focus image:** Motion or focus issues during capture. Use a tripod or stable object to prop your phone, tap the screen to focus on your face, and avoid any movement during the shot.
-- **Wrong background:** the usual culprit is a coloured background, a pattern, or an uneven white, so switch to a plain white or off-white poster board or bedsheet with no visible texture or shadow.
+- **Wrong background:** the usual culprit is a coloured background, a pattern, or an uneven white, so switch to a plain, light poster board or bedsheet in the shade your authority asks for with no visible texture or shadow.
 - **Excessive head room or cropping:** Face too small or positioned incorrectly in frame. Your country's rules will state exactly how much of the frame your face should fill, usually as a chin-to-crown measurement rather than a percentage - work to that figure, not to what looks right.
 
 ![Hand-drawn sketchnote of six rejected passport photos - shadow behind the head, smiling, glasses glare, hair across the eyes, patterned background and photo taken too close - beside one accepted photo on a plain background with a neutral face and even light](https://traveldocumentvault.com/blog/passport-photo-at-home/passport-photo-figure.jpg) Six ways a photo gets sent back, and the one setup that passes.
@@ -113,7 +113,7 @@ Some countries accept digital uploads of the biometric passport photo submitted 
 
 Before you take your photo, ensure you have the following in place:
 
-- Plain white or off-white background material ready and positioned
+- Plain, light background material in your authority's required shade, ready and positioned
 - Good natural light source (preferably a window)
 - Smartphone with a functioning camera
 - Tripod or stable object to prop your phone
@@ -129,11 +129,11 @@ If you've got decent window light and a few minutes to spare, take the photo you
 
 ### Can I take a passport photo on my smartphone
 
-Yes, you can take a passport photo using a smartphone. Position yourself in front of a plain white or off-white background with good natural light, and ensure the photo meets your country's size and quality requirements. Many people then use a cropping app to resize the digital photo to official dimensions and either print it or upload it digitally depending on their country's submission process.
+Yes, you can take a passport photo using a smartphone. Position yourself in front of a plain, light background in the shade your passport authority asks for, with good natural light, and ensure the photo meets your country's size and quality requirements. Many people then use a cropping app to resize the digital photo to official dimensions and either print it or upload it digitally depending on their country's submission process.
 
 ### What size should a passport photo be
 
-Most countries use one of two printed sizes: 35mm x 45mm, which covers the UK, the EU and much of the world, or the 2 x 2 inch square the US uses. Digital submissions have separate pixel minimums. Requirements are enforced strictly and get revised, so confirm the exact spec with your own passport authority before you print or upload.
+Most countries use one of two printed sizes: 35mm x 45mm, which covers the UK, the EU and much of the world, or the 2 x 2 inch square the US uses. A few authorities set their own, such as the Government of Canada's 50mm x 70mm. Digital submissions have separate pixel minimums. Requirements are enforced strictly and get revised, so confirm the exact spec with your own passport authority before you print or upload.
 
 ### Why was my passport photo rejected
 
@@ -145,11 +145,11 @@ Natural light from a window is ideal for passport photos. Avoid harsh shadows on
 
 ### Can I wear glasses in a passport photo
 
-Most countries now prohibit glasses in passport photos unless medically necessary. Even then, you may need to provide documentation. Check your country's current requirements before taking your photo, as rules have evolved in recent years. When in doubt, take both a photo with and without glasses to have options.
+It depends on the authority. GOV.UK tells UK applicants not to wear glasses unless they have to, while the Government of Canada accepts them if your eyes are clearly visible and there's no glare on the lenses. Sunglasses and tinted lenses are generally refused. Check your country's current requirements before taking your photo, as rules have evolved in recent years. When in doubt, take both a photo with and without glasses to have options.
 
 ### What are the rules for a passport photo?
 
-The core rules are consistent across most countries: a plain light background, a neutral expression with your mouth closed, both eyes open and clearly visible, no glasses unless medically necessary, even lighting with no shadows, and a recent photo that meets your country's size spec. Each authority publishes its own full list and the details differ, so check yours before you shoot.
+The core rules are consistent across most countries: a plain light background, a neutral expression with your mouth closed, both eyes open and clearly visible, no glare or tint on glasses if your authority lets you keep them on, even lighting with no shadows, and a recent photo that meets your country's size spec. Each authority publishes its own full list and the details differ, so check yours before you shoot.
 
 ## Related Articles
 

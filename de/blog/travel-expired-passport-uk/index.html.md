@@ -12,7 +12,7 @@ Source: https://traveldocumentvault.com/de/blog/travel-expired-passport-uk/
 
 - **Absolute Regel:** Keine internationale Reise mit abgelaufenem Pass. Fluggesellschaften und Grenzkontrolle werden Sie ablehnen.
 - **Inlandsausnahmen:** UK zu Irland und Isle of Man können alternative Ausweisdokumente akzeptieren; kontaktieren Sie Ihre Fluggesellschaft zuerst.
-- **Noterneuerung:** HM Passport Office bietet einen Online-Premium-Service nur für Erneuerungen an, mit einem Termin am selben Tag oder am nächsten Arbeitstag, wenn Plätze verfügbar sind. Prüfen Sie die aktuelle Gebühr auf gov.uk, bevor Sie buchen.
+- **Noterneuerung:** HM Passport Office bietet einen 1 Day Premium Service nur für Erneuerungen von Erwachsenen an: Der früheste Termin ist laut GOV.UK 2 Tage nach Antragstellung möglich, und der neue Pass ist 4 Stunden danach abholbereit. Prüfen Sie die aktuelle Gebühr auf gov.uk, bevor Sie buchen.
 - **Reiseversicherung:** Die meisten Policen machen Ansprüche ungültig, wenn Ihr Pass während der Reise abgelaufen war.
 - **Im Ausland:** Wenden Sie sich an die nächste britische Botschaft oder Konsulat für ein Notfall-Reisedokument.
 
@@ -66,7 +66,7 @@ Wenn Sie eine Inlandsreise mit abgelaufenem Pass in Betracht ziehen, kontaktiere
 
 ## Noterneuerung: Premium-Service, wenn Sie einen Termin bekommen
 
-Wenn Ihre Reise unmittelbar bevorsteht und Ihr Pass abgelaufen ist, bietet His Majesty's Passport Office einen Premium-Service an, der genau für dieses Szenario konzipiert ist, mit einem Termin am selben Tag oder am nächsten Arbeitstag, je nach Verfügbarkeit. Das HM Passport Office veröffentlicht die aktuelle Gebühr auf gov.uk, die den Termin und die Erneuerung zusammen abdeckt, statt zusätzlich zur Standardgebühr berechnet zu werden. Sie bekommen Ihren Pass weit schneller als über den Standardweg, wobei das genaue Tempo vom verfügbaren Termin abhängt. Beachten Sie, dass der Online-Premium-Service nur für Erneuerungen gilt, nicht für erste erwachsene Pässe.
+Wenn Ihre Reise unmittelbar bevorsteht und Ihr Pass abgelaufen ist, bietet His Majesty's Passport Office einen 1 Day Premium Service an, der genau für dieses Szenario konzipiert ist. GOV.UK zufolge ist der früheste Termin 2 Tage nach Antragstellung möglich, und der neue Pass ist 4 Stunden nach dem Termin abholbereit. Das HM Passport Office veröffentlicht die aktuelle Gebühr auf gov.uk, die den Termin und die Erneuerung zusammen abdeckt, statt zusätzlich zur Standardgebühr berechnet zu werden. Sie bekommen Ihren Pass weit schneller als über den Standardweg, wobei das genaue Tempo vom verfügbaren Termin abhängt. Beachten Sie, dass der 1 Day Premium Service nur für Erneuerungen von Erwachsenen gilt, nicht für erste erwachsene Pässe.
 
 Dies ist die offizielle Notfalllösung für echte Reisebedingungen. Das HM Passport Office veröffentlicht seine aktuelle Standardbearbeitungszeit auf gov.uk, und es lohnt sich, diese zu prüfen, bevor Sie annehmen, noch Zeit zum Warten zu haben. Wenn eine Reise wirklich nicht warten kann, beseitigt die Premium-Option die Unsicherheit.
 

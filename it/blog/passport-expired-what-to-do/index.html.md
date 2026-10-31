@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/it/blog/passport-expired-what-to-do/
 
 Scoprire che il Suo passaporto è scaduto è uno di quei momenti in cui il tempo improvvisamente diventa molto reale. Che l'abbia notato tre mesi prima di un viaggio o che stia in piedi al bancone del check-in dell'aeroporto in questo momento, quello che accade dopo dipende interamente da quale situazione si trova.
 
-![Diagramma a rami per un passaporto scaduto: a casa con un viaggio in arrivo, si prenota un rinnovo urgente perché esistono appuntamenti lo stesso giorno nel Regno Unito e d'emergenza negli USA; in aeroporto, si chiama prima la compagnia aerea perché alcune riprogrammano gratis in caso di emergenza. La vera soluzione è un promemoria a 12 mesi, non a 6, perché scaduto significa che non si vola](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-it.jpg) Stesso problema, due soluzioni molto diverse - dipende tutto da dove ci si trova quando lo si scopre.
+![Diagramma a rami per un passaporto scaduto: a casa con un viaggio in arrivo, si prenota un rinnovo urgente perché esistono appuntamenti urgenti nel Regno Unito e d'emergenza negli USA; in aeroporto, si chiama prima la compagnia aerea perché alcune riprogrammano gratis in caso di emergenza. La vera soluzione è un promemoria a 12 mesi, non a 6, perché scaduto significa che non si vola](https://traveldocumentvault.com/blog/passport-expired-what-to-do/expired-where-are-you-figure-it.jpg) Stesso problema, due soluzioni molto diverse - dipende tutto da dove ci si trova quando lo si scopre.
 
 ## Scenario A: Ha scoperto a casa, con un viaggio in programma
 
@@ -30,7 +30,7 @@ L'urgenza con cui deve agire determina cosa fare:
 - **Molto tempo prima del viaggio:** chieda il rinnovo standard online tramite il sito web della Sua autorità preposta ai passaporti — GOV.UK nel Regno Unito, travel.state.gov negli USA.
 - **Il viaggio si avvicina:** chieda immediatamente e paghi per l'elaborazione accelerata. Sia il Regno Unito che gli USA offrono online un servizio a pagamento più rapido, ed entrambi pubblicano il loro tempo di elaborazione attuale.
 - **Il viaggio è vicino:** chiami direttamente l'autorità preposta ai passaporti invece di affidarsi solo al sito web — la linea di assistenza di HM Passport Office nel Regno Unito, o il National Passport Information Center negli USA.
-- **Il viaggio è imminente:** chieda un appuntamento di emergenza e porti una prova delle Sue date di viaggio. Il Regno Unito offre un servizio Premium accelerato negli uffici passaporti designati, e gli USA offrono appuntamenti presso le agenzie passaporti regionali.
+- **Il viaggio è imminente:** chieda un appuntamento di emergenza e porti una prova delle Sue date di viaggio. Il servizio 1 Day Premium del Regno Unito (riservato ai rinnovi per adulti) prevede appuntamenti a partire da 2 giorni dopo la richiesta, con il passaporto pronto per il ritiro 4 ore dopo l'appuntamento, e gli USA offrono appuntamenti presso le agenzie passaporti regionali.
 
 Tutte le autorità maggiori tengono i posti per appuntamenti di emergenza che non sono visibili online. Se il Suo arco temporale è stretto, **noi chiameremmo sempre, invece di fidarci del solo sito web.**
 
@@ -46,7 +46,7 @@ Questo scenario accade più spesso di quanto la gente si aspetti, e i passaggi n
 
 **Passo 3: Verifichi se il viaggio nazionale è possibile.** Un passaporto scaduto potrebbe comunque essere accettato come ID per i voli nazionali in alcuni Paesi, anche se questo non è garantito. Se la Sua destinazione finale è raggiungibile a livello nazionale da una città più vicina, potrebbe essere un'opzione mentre ordina il passaporto.
 
-**Passo 4: Contatti l'autorità preposta ai passaporti per telefono.** Spieghi la Sua situazione. Nel Regno Unito, chiami il la linea di assistenza di HM Passport Office e chieda l'appuntamento più disponibile dell'ufficio passaporti più vicino. Negli USA, chiami il il National Passport Information Center degli Stati Uniti e chieda gli appuntamenti di emergenza presso l'agenzia passaporti regionale più vicina. Le opzioni lo stesso giorno e il giorno successivo esistono per emergenze genuine.
+**Passo 4: Contatti l'autorità preposta ai passaporti per telefono.** Spieghi la Sua situazione. Nel Regno Unito, chiami il la linea di assistenza di HM Passport Office e chieda l'appuntamento più disponibile dell'ufficio passaporti più vicino. Negli USA, chiami il il National Passport Information Center degli Stati Uniti e chieda gli appuntamenti di emergenza presso l'agenzia passaporti regionale più vicina. Chieda specificamente delle opzioni d'emergenza, perché gli appuntamenti più rapidi spesso non compaiono sul sito web.
 
 **Passo 5: Prenoti l'alloggio vicino all'ufficio passaporti.** Se riceve un appuntamento per il giorno successivo, ha bisogno di un posto dove stare. Conservi gli scontrini — se ha un'assicurazione di viaggio, alcuni di questi costi potrebbero essere reclamabili.
 
@@ -124,7 +124,7 @@ Chieda il rinnovo immediatamente e paghi l'elaborazione accelerata se il Suo via
 
 ### Cosa devo fare se scopro che il mio passaporto è scaduto all'aeroporto?
 
-Non sarà in grado di imbarcarsi. Vada al bancone della compagnia aerea immediatamente per discutere le opzioni di riprogrammazione — alcuni rinunciano alle tariffe di cambio per emergenze documentali genuine. Quindi chiami l'autorità preposta ai passaporti per prenotare un appuntamento di emergenza. Le opzioni lo stesso giorno e il giorno successivo sono disponibili a seconda del Paese.
+Non sarà in grado di imbarcarsi. Vada al bancone della compagnia aerea immediatamente per discutere le opzioni di riprogrammazione — alcuni rinunciano alle tariffe di cambio per emergenze documentali genuine. Quindi chiami l'autorità preposta ai passaporti e chieda specificamente delle opzioni per un appuntamento d'emergenza, perché gli appuntamenti più rapidi spesso non compaiono sul sito web.
 
 ### Quanto velocemente posso ottenere un passaporto di emergenza se il mio è scaduto?
 
