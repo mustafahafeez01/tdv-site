@@ -48,7 +48,7 @@ Source: https://traveldocumentvault.com/ja/blog/child-first-passport-application
 
 ## 赤ちゃんには大人向けの写真ルールが守れないので、工夫して合わせる
 
-![赤ちゃんのパスポート写真で変わらないこと(目を開けてカメラを見る、無地の背景、他は写さない)と、生後6ヶ月未満から2歳以上までの年齢帯で変わること、よくある却下理由を示す図](https://traveldocumentvault.com/blog/child-first-passport-application/baby-photo-figure-ja.jpg)
+![赤ちゃんのパスポート写真で変わらないこと(できれば目を開ける、無地の背景、他は写さない)と、生後6ヶ月未満から2歳以上までの年齢帯で変わること、よくある却下理由を示す図](https://traveldocumentvault.com/blog/child-first-passport-application/baby-photo-figure-ja.jpg)
 
 多くの初回申請がここでつまずきます。赤ちゃんや小さな子どもは、大人のように写真のルールに従うことができません。赤ちゃんは自分で座れず、幼児はじっと座っていられなかったり指示を理解できなかったりし、新生児は指示に従ってカメラを見ることができません。パスポート写真の基準は大人向けに作られているため、被写体が体重5キロで常に動き回る子どもの場合、どう適応させるかを理解する必要があります。
 

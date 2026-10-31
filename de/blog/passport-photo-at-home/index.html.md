@@ -34,7 +34,7 @@ Ihr Gesicht muss das Bild im von Ihrer Passbehörde angegebenen Verhältnis ausf
 
 Die Regeln zu normalen Brillen unterscheiden sich mehr, als man erwarten würde. GOV.UK bittet britische Antragstellende, keine Brille zu tragen, außer es ist nötig. Die kanadische Regierung akzeptiert sie, solange die Augen deutlich sichtbar sind und die Gläser nicht spiegeln. Religiöse Kopfbedeckung ist normalerweise zulässig, solange sie die für die Identifikation erforderlichen Gesichtsmerkmale nicht verdeckt.
 
-Sonnenbrillen und getönte Gläser werden überall abgelehnt, ohne medizinische Ausnahme. Wenn Sie die Brille tragen dürfen, neigen Sie den Kopf leicht von der Lichtquelle weg, damit die Gläser nicht spiegeln, und achten Sie darauf, dass die Fassung keinen Teil Ihrer Augen verdeckt.
+Sonnenbrillen und getönte Gläser werden in der Regel abgelehnt. Wenn Sie die Brille tragen dürfen, neigen Sie den Kopf leicht von der Lichtquelle weg, damit die Gläser nicht spiegeln, und achten Sie darauf, dass die Fassung keinen Teil Ihrer Augen verdeckt.
 
 ## Passfoto-Größe: die zwei Standards, die die meisten Länder verwenden
 

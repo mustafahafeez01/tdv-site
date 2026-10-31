@@ -48,7 +48,7 @@ Source: https://traveldocumentvault.com/ko/blog/child-first-passport-application
 
 ## 아기는 성인 사진 규정을 따를 수 없으니 상황에 맞게 조정합니다
 
-![아기 여권 사진에서 변하지 않는 것(눈 뜨고 카메라 보기, 단색 배경, 다른 것 없음)과 나이대별로 달라지는 것(6개월 미만부터 2세 이상까지), 가장 흔한 반려 이유를 보여주는 다이어그램](https://traveldocumentvault.com/blog/child-first-passport-application/baby-photo-figure-ko.jpg)
+![아기 여권 사진에서 변하지 않는 것(가능하면 눈 뜨기, 단색 배경, 다른 것 없음)과 나이대별로 달라지는 것(6개월 미만부터 2세 이상까지), 가장 흔한 반려 이유를 보여주는 다이어그램](https://traveldocumentvault.com/blog/child-first-passport-application/baby-photo-figure-ko.jpg)
 
 많은 첫 신청이 여기서 실패합니다. 아기나 어린 자녀는 성인처럼 사진 규정을 따를 수 없습니다. 아기는 스스로 앉을 수 없고, 유아는 가만히 앉아 있거나 지시를 이해하지 못하며, 신생아는 지시에 따라 카메라를 볼 수 없습니다. 여권 사진 기준은 성인을 기준으로 만들어졌기 때문에, 대상이 체중 5킬로그램에 끊임없이 움직이는 아이일 때 이를 어떻게 적용할지 이해해야 합니다.
 

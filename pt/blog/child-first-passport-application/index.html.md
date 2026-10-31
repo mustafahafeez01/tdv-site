@@ -48,7 +48,7 @@ Os serviços de passaportes pedem três coisas quando se candidata ao primeiro p
 
 ## Os bebés não conseguem seguir as regras de foto dos adultos, por isso adapta-se
 
-![Diagrama do que se mantém igual numa foto de passaporte de bebé (olhos abertos, fundo liso, mais nada na imagem) e do que muda por faixa etária, de menos de 6 meses a partir dos 2 anos, com as causas mais comuns de rejeição](https://traveldocumentvault.com/blog/child-first-passport-application/baby-photo-figure-pt.jpg)
+![Diagrama do que se mantém igual numa foto de passaporte de bebé (olhos abertos se possível, fundo liso, mais nada na imagem) e do que muda por faixa etária, de menos de 6 meses a partir dos 2 anos, com as causas mais comuns de rejeição](https://traveldocumentvault.com/blog/child-first-passport-application/baby-photo-figure-pt.jpg)
 
 É aqui que muitos pedidos pela primeira vez falham. Um bebé ou uma criança pequena não consegue seguir as regras da fotografia como um adulto: os bebés não conseguem sentar-se sozinhos, as crianças pequenas não conseguem ficar quietas ou entender instruções, e os recém-nascidos não conseguem olhar para a câmara a pedido. As normas para fotografias de passaporte foram escritas para adultos, e é preciso perceber como as adaptar quando o sujeito é uma criança que pesa 5 quilos e não para quieta.
 

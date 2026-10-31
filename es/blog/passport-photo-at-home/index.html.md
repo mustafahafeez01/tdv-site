@@ -34,7 +34,7 @@ Tu cara necesita llenar el marco en la proporción que tu autoridad de pasaporte
 
 Las reglas sobre gafas normales varían más de lo que cabría esperar. GOV.UK pide a los solicitantes del Reino Unido que no lleven gafas a menos que sea estrictamente necesario. El Gobierno de Canadá las acepta siempre que los ojos queden claramente visibles y no haya brillo en las lentes. Los tocados religiosos generalmente se permiten siempre que no obscurezcan las características faciales necesarias para la identificación.
 
-Las gafas de sol y los cristales tintados se rechazan en todas partes, sin excepción médica. Si cumples los requisitos para mantener las gafas puestas, inclina ligeramente la cabeza en dirección contraria a la luz para que los cristales no reflejen, y comprueba que la montura no cruce ninguna parte de tus ojos.
+Las gafas de sol y los cristales tintados suelen rechazarse. Si cumples los requisitos para mantener las gafas puestas, inclina ligeramente la cabeza en dirección contraria a la luz para que los cristales no reflejen, y comprueba que la montura no cruce ninguna parte de tus ojos.
 
 ## Tamaño de la Foto de Pasaporte: los Dos Estándares que Usa la Mayoría de Países
 

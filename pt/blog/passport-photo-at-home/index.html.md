@@ -34,7 +34,7 @@ O seu rosto precisa de preencher o quadro na proporção que a sua autoridade de
 
 As regras sobre óculos normais variam mais do que seria de esperar. O GOV.UK diz aos candidatos do Reino Unido para não usarem óculos a menos que tenham de usar. O Governo do Canadá aceita-os desde que os seus olhos estejam claramente visíveis e não haja brilho nas lentes. Vestuário de cabeça religioso é tipicamente permitido desde que não obscureça as características faciais necessárias para identificação.
 
-Óculos de sol e lentes fumadas são recusados em todo o lado, sem exceção médica. Se puder manter os seus óculos, incline ligeiramente a cabeça para longe da luz para que as lentes não reflitam, e verifique que a armação não cobre nenhuma parte dos olhos.
+Óculos de sol e lentes fumadas são geralmente recusados. Se puder manter os seus óculos, incline ligeiramente a cabeça para longe da luz para que as lentes não reflitam, e verifique que a armação não cobre nenhuma parte dos olhos.
 
 ## Tamanho da Foto de Passaporte: os Dois Padrões Mais Usados
 

@@ -13,7 +13,7 @@
       "mark": "dot"
      },
      {
-      "text": "UK bietet Termine am selben Tag, USA Notfalltermine",
+      "text": "UK bietet dringende Termine, USA Notfalltermine",
       "mark": "dot"
      }
     ]
@@ -34,7 +34,7 @@
   ],
   "note": "Die eigentliche Lösung: eine Erinnerung nach 12 Monaten, nicht 6",
   "focal": "Keine Ausnahmen: abgelaufen heißt, Sie fliegen nicht",
-  "alt": "Verzweigungsdiagramm für einen abgelaufenen Reisepass: zu Hause mit anstehender Reise, dringende Erneuerung buchen, da UK Termine am selben Tag und die USA Notfalltermine bieten; am Flughafen zuerst die Airline anrufen, da manche bei Notfällen kostenlos umbuchen. Die eigentliche Lösung ist eine Erinnerung nach 12 Monaten, nicht 6, weil abgelaufen heißt, Sie fliegen nicht",
+  "alt": "Verzweigungsdiagramm für einen abgelaufenen Reisepass: zu Hause mit anstehender Reise, dringende Erneuerung buchen, da UK dringende Termine und die USA Notfalltermine bieten; am Flughafen zuerst die Airline anrufen, da manche bei Notfällen kostenlos umbuchen. Die eigentliche Lösung ist eine Erinnerung nach 12 Monaten, nicht 6, weil abgelaufen heißt, Sie fliegen nicht",
   "caption": "Gleiches Problem, zwei völlig unterschiedliche Vorgehensweisen – es hängt davon ab, wo Sie stehen, wenn Sie es merken.",
   "placement": {
    "h2": 1,

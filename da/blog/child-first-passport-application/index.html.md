@@ -48,7 +48,7 @@ Pasudstedende myndigheder vil have tre ting, når du ansøger om et barns først
 
 ## Babyer kan ikke følge voksnes fotoregler, så du tilpasser dem
 
-![Diagram over, hvad der er ens i et pasfoto af en baby (øjnene åbne, ensfarvet baggrund, intet andet i billedet), og hvad der ændrer sig efter alder fra under 6 måneder til 2 år og ældre, samt de mest almindelige afvisningsgrunde](https://traveldocumentvault.com/blog/child-first-passport-application/baby-photo-figure-da.jpg)
+![Diagram over, hvad der er ens i et pasfoto af en baby (øjnene åbne hvis muligt, ensfarvet baggrund, intet andet i billedet), og hvad der ændrer sig efter alder fra under 6 måneder til 2 år og ældre, samt de mest almindelige afvisningsgrunde](https://traveldocumentvault.com/blog/child-first-passport-application/baby-photo-figure-da.jpg)
 
 Det er her, mange førstegangsansøgninger går galt. En baby eller et lille barn kan ikke følge fotoreglerne, som en voksen kan: babyer kan ikke sidde op, tumlinger kan ikke sidde stille eller forstå instruktioner, og nyfødte kan ikke se ind i kameraet på kommando. Pasfotostandarder er skrevet til voksne, og du skal forstå, hvordan du tilpasser dem, når motivet er et barn, der vejer 5 kilo og bevæger sig konstant.
 

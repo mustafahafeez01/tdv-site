@@ -34,7 +34,7 @@ Je gezicht moet het kader vullen tot de verhouding die je paspoortinstantie voor
 
 De regels rond een gewone bril verschillen meer dan je zou verwachten. GOV.UK zegt dat Britse aanvragers geen bril mogen dragen tenzij het niet anders kan. De Canadese overheid staat een bril wel toe, zolang je ogen duidelijk zichtbaar zijn en de glazen geen glans vertonen. Religieuze hoofdbedekking is doorgaans toegestaan zolang deze de gezichtskenmerken die nodig zijn voor identificatie niet verbergt.
 
-Een zonnebril en getinte glazen worden overal geweigerd, zonder medische uitzondering. Kom je wel in aanmerking om je bril op te houden, kantel je hoofd dan iets weg van het licht zodat de glazen niet reflecteren, en controleer dat het montuur geen enkel deel van je ogen bedekt.
+Een zonnebril en getinte glazen worden meestal geweigerd. Kom je wel in aanmerking om je bril op te houden, kantel je hoofd dan iets weg van het licht zodat de glazen niet reflecteren, en controleer dat het montuur geen enkel deel van je ogen bedekt.
 
 ## Afmetingen pasfoto: de twee standaardmaten die de meeste landen gebruiken
 

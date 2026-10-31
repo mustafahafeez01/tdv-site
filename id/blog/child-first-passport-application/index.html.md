@@ -48,7 +48,7 @@ Kantor paspor memerlukan tiga hal saat Anda mengajukan paspor pertama untuk anak
 
 ## Bayi Tidak Bisa Mengikuti Aturan Foto Orang Dewasa, Jadi Anda Menyesuaikannya
 
-![Diagram tentang yang tetap sama pada foto paspor bayi (mata terbuka, latar belakang polos, tidak ada hal lain dalam bingkai) dan yang berubah menurut kelompok usia dari di bawah 6 bulan sampai 2 tahun ke atas, dengan penyebab penolakan paling umum](https://traveldocumentvault.com/blog/child-first-passport-application/baby-photo-figure-id.jpg)
+![Diagram tentang yang tetap sama pada foto paspor bayi (mata terbuka jika memungkinkan, latar belakang polos, tidak ada hal lain dalam bingkai) dan yang berubah menurut kelompok usia dari di bawah 6 bulan sampai 2 tahun ke atas, dengan penyebab penolakan paling umum](https://traveldocumentvault.com/blog/child-first-passport-application/baby-photo-figure-id.jpg)
 
 Di sinilah banyak permohonan pertama kali gagal. Bayi atau anak kecil tidak bisa mengikuti aturan foto seperti orang dewasa, bayi belum bisa duduk tegak, balita belum bisa diam atau memahami instruksi, dan bayi baru lahir tidak bisa melihat kamera atas perintah. Standar foto paspor dibuat untuk orang dewasa, sehingga Anda perlu memahami cara menyesuaikannya saat subjeknya adalah anak yang beratnya 5 kilogram dan terus bergerak.
 

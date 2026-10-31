@@ -34,7 +34,7 @@ Dit ansigt skal fylde billedet i den andel, din pasmyndighed angiver, med øjnen
 
 Reglerne for almindelige briller varierer mere, end man måske tror. GOV.UK beder britiske ansøgere om ikke at have dem på, medmindre det er nødvendigt. Den canadiske regering accepterer dem, så længe dine øjne er tydeligt synlige, og der ikke er reflekser i glassene. Religiøs hovedbeklædning er som regel tilladt, så længe den ikke skjuler de ansigtstræk, der er nødvendige for identifikation.
 
-Solbriller og tonede glas afvises overalt, uden lægelig dispensation. Kvalificerer du dig til at beholde brillerne på, så vinkl hovedet lidt væk fra lyskilden, så glassene ikke reflekterer, og tjek at stellet ikke dækker nogen del af øjnene.
+Solbriller og tonede glas afvises som regel. Kvalificerer du dig til at beholde brillerne på, så vinkl hovedet lidt væk fra lyskilden, så glassene ikke reflekterer, og tjek at stellet ikke dækker nogen del af øjnene.
 
 I Danmark ansøger du om pas i Borgerservice i din kommune, og kravene til selve billedet fastsættes af politiet. Det er deres liste, der afgør, om billedet bliver godkendt, så tjek den, før du printer noget eller møder op – reglerne for briller og hovedbeklædning står der.
 

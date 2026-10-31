@@ -8,7 +8,7 @@
     "tone": "good",
     "items": [
      {
-      "text": "Ojos abiertos, mirando a la cámara",
+      "text": "Ojos abiertos si es posible",
       "mark": "tick"
      },
      {
@@ -39,8 +39,8 @@
     ]
    }
   ],
-  "focal": "Causa habitual de rechazo: mano, chupete o juguete en el fondo",
-  "alt": "Diagrama de lo que no cambia en una foto de pasaporte de un bebé (ojos abiertos, fondo liso, nada más en el encuadre) y de lo que cambia según la edad, desde menos de 6 meses hasta 2 años o más, con las causas más frecuentes de rechazo",
+  "focal": "Causa habitual de rechazo: mano visible, chupete o juguete en el fondo",
+  "alt": "Diagrama de lo que no cambia en una foto de pasaporte de un bebé (ojos abiertos si es posible, fondo liso, nada más en el encuadre) y de lo que cambia según la edad, desde menos de 6 meses hasta 2 años o más, con las causas más frecuentes de rechazo",
   "caption": "",
   "placement": {
    "h2": 5,

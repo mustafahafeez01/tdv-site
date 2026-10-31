@@ -8,7 +8,7 @@
     "tone": "good",
     "items": [
      {
-      "text": "Öppna ögon riktade mot kameran",
+      "text": "Öppna ögon om möjligt",
       "mark": "tick"
      },
      {
@@ -39,8 +39,8 @@
     ]
    }
   ],
-  "focal": "Vanligaste avslagsorsaken: en stödjande hand, en napp eller en leksak i bakgrunden",
-  "alt": "Diagram över vad som är samma på ett babypassfoto (öppna ögon, enfärgad bakgrund, inget annat i bild) och vad som ändras per åldersgrupp, från under 6 månader till 2 år och äldre, med de vanligaste avslagsorsakerna",
+  "focal": "Vanligaste avslagsorsaken: en synlig hand, en napp eller en leksak i bakgrunden",
+  "alt": "Diagram över vad som är samma på ett babypassfoto (öppna ögon om möjligt, enfärgad bakgrund, inget annat i bild) och vad som ändras per åldersgrupp, från under 6 månader till 2 år och äldre, med de vanligaste avslagsorsakerna",
   "caption": "",
   "placement": {
    "h2": 5,

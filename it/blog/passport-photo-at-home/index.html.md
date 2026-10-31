@@ -34,7 +34,7 @@ Il tuo viso deve riempire il fotogramma nella proporzione specificata dalla tua 
 
 Le regole sugli occhiali da vista variano più di quanto si immagini. GOV.UK dice ai richiedenti nel Regno Unito di non indossarli a meno che non sia necessario. Il Government of Canada li accetta purché gli occhi siano chiaramente visibili e non ci sia bagliore sulle lenti. L'abbigliamento religioso è generalmente consentito purché non nasconda le caratteristiche facciali necessarie per l'identificazione.
 
-Gli occhiali da sole e le lenti colorate vengono rifiutati ovunque, senza eccezioni mediche. Se hai il diritto di tenere gli occhiali, inclina leggermente la testa lontano dalla luce in modo che le lenti non riflettano, e controlla che la montatura non copra nessuna parte degli occhi.
+Gli occhiali da sole e le lenti colorate vengono generalmente rifiutati. Se hai il diritto di tenere gli occhiali, inclina leggermente la testa lontano dalla luce in modo che le lenti non riflettano, e controlla che la montatura non copra nessuna parte degli occhi.
 
 ## Dimensioni della Foto Passaporto: i Due Standard Più Usati
 

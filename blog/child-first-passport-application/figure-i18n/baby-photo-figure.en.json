@@ -8,7 +8,7 @@
     "tone": "good",
     "items": [
      {
-      "text": "Eyes open, looking at the camera",
+      "text": "Eyes open where possible",
       "mark": "tick"
      },
      {
@@ -39,8 +39,8 @@
     ]
    }
   ],
-  "focal": "Most rejections: a supporting hand, a dummy or a toy in the background",
-  "alt": "Diagram of what stays the same in a baby passport photo (eyes open, plain background, nothing else in frame) and what changes by age band from under 6 months to 2 years and older, with the most common rejection causes",
+  "focal": "Most rejections: a visible hand, a dummy or a toy in the background",
+  "alt": "Diagram of what stays the same in a baby passport photo (eyes open where possible, plain background, nothing else in frame) and what changes by age band from under 6 months to 2 years and older, with the most common rejection causes",
   "caption": "",
   "placement": {
    "h2": 5,

@@ -8,7 +8,7 @@
     "tone": "good",
     "items": [
      {
-      "text": "Mata terbuka, menghadap kamera",
+      "text": "Mata terbuka jika memungkinkan",
       "mark": "tick"
      },
      {
@@ -39,8 +39,8 @@
     ]
    }
   ],
-  "focal": "Penyebab penolakan terbanyak: tangan penyangga, empeng, atau mainan",
-  "alt": "Diagram tentang yang tetap sama pada foto paspor bayi (mata terbuka, latar belakang polos, tidak ada hal lain dalam bingkai) dan yang berubah menurut kelompok usia dari di bawah 6 bulan sampai 2 tahun ke atas, dengan penyebab penolakan paling umum",
+  "focal": "Penyebab penolakan terbanyak: tangan terlihat, empeng, atau mainan",
+  "alt": "Diagram tentang yang tetap sama pada foto paspor bayi (mata terbuka jika memungkinkan, latar belakang polos, tidak ada hal lain dalam bingkai) dan yang berubah menurut kelompok usia dari di bawah 6 bulan sampai 2 tahun ke atas, dengan penyebab penolakan paling umum",
   "caption": "",
   "placement": {
    "h2": 5,

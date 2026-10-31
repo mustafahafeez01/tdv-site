@@ -34,7 +34,7 @@ Votre visage doit remplir le cadre selon la proportion que votre autorité de pa
 
 Les règles sur le port de lunettes varient plus qu'on pourrait le croire. GOV.UK demande aux candidats britanniques de ne pas porter de lunettes sauf nécessité. Le Gouvernement du Canada les accepte à condition que vos yeux restent clairement visibles et qu'il n'y ait aucun reflet sur les verres. Le couvre-chef religieux est généralement autorisé tant qu'il ne masque pas les caractéristiques faciales nécessaires à l'identification.
 
-Les lunettes de soleil et verres teintés sont refusés partout, sans exemption médicale. Si vous êtes autorisé à garder vos lunettes, inclinez légèrement la tête à l'écart de la lumière pour éviter tout reflet sur les verres, et vérifiez que la monture ne recouvre aucune partie de vos yeux.
+Les lunettes de soleil et verres teintés sont généralement refusés. Si vous êtes autorisé à garder vos lunettes, inclinez légèrement la tête à l'écart de la lumière pour éviter tout reflet sur les verres, et vérifiez que la monture ne recouvre aucune partie de vos yeux.
 
 ## Taille de la photo de passeport : les deux formats utilisés par la plupart des pays
 

@@ -13,7 +13,7 @@
       "mark": "dot"
      },
      {
-      "text": "UK same-day and US emergency slots exist",
+      "text": "UK urgent and US emergency slots exist",
       "mark": "dot"
      }
     ]
@@ -34,7 +34,7 @@
   ],
   "note": "The real fix: a reminder at 12 months, not 6",
   "focal": "No exceptions: expired means you do not fly",
-  "alt": "Branch diagram for an expired passport: at home with a trip coming up, book an urgent renewal as UK same-day and US emergency slots exist; at the airport, call your airline first as some reschedule free in emergencies. The real fix is a reminder at 12 months, not 6, because expired means you do not fly",
+  "alt": "Branch diagram for an expired passport: at home with a trip coming up, book an urgent renewal as UK urgent and US emergency slots exist; at the airport, call your airline first as some reschedule free in emergencies. The real fix is a reminder at 12 months, not 6, because expired means you do not fly",
   "caption": "Same problem, two very different playbooks - it all depends on where you're standing when you find out.",
   "placement": {
    "h2": 1,

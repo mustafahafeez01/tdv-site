@@ -34,7 +34,7 @@ Ditt ansikte ska fylla bildrutan i den andel din passmyndighet anger, med ögone
 
 För ett svenskt pass: ja, så länge glasen inte är mörka, inte ger reflexer och pupillerna syns tydligt. Det är Polismyndighetens krav. Tar du bilden hemma för ett visum eller ett annat lands pass gäller andra regler, och de varierar mer än man kan tro: GOV.UK säger till brittiska sökande att inte bära glasögon om det inte är nödvändigt, medan den kanadensiska regeringen godtar dem så länge ögonen syns tydligt och det inte finns reflexer i glasen. Religiös huvudbonad är i regel tillåten så länge den inte döljer de ansiktsdrag som behövs för identifiering.
 
-Solglasögon och tonade glas godtas i regel bara om du har ett medicinskt skäl. Kvalificerar du dig för att behålla glasögonen på, vinkla huvudet lite bort från ljuskällan så att glasen inte reflekterar, och kontrollera att bågarna inte skymmer någon del av ögonen.
+Solglasögon och tonade glas avvisas i regel. Kvalificerar du dig för att behålla glasögonen på, vinkla huvudet lite bort från ljuskällan så att glasen inte reflekterar, och kontrollera att bågarna inte skymmer någon del av ögonen.
 
 I Sverige är det Polismyndigheten som utfärdar pass, och fotot tas normalt på plats när du besöker en passexpedition, så du behöver oftast inte ta med en egen bild. Det du behöver ha koll på i förväg är hur du ska se ut när bilden tas, inte hur du skriver ut den, och det är polisens egna krav som gäller. Ett foto du tar hemma används i stället för visumansökningar och för pass som utfärdas av andra länder.
 

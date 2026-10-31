@@ -34,7 +34,7 @@ Wajah Anda harus mengisi bingkai sesuai proporsi yang ditetapkan otoritas paspor
 
 Aturan soal kacamata biasa lebih beragam dari yang mungkin Anda kira. GOV.UK meminta pemohon di Inggris untuk tidak memakai kacamata kecuali benar-benar diperlukan. Pemerintah Kanada mengizinkannya selama mata Anda terlihat jelas dan tidak ada kilau pada lensa. Penutup kepala keagamaan umumnya diizinkan selama tidak menutupi fitur wajah yang diperlukan untuk identifikasi.
 
-Kacamata hitam dan lensa berwarna ditolak di mana pun, tanpa pengecualian medis. Jika Anda memenuhi syarat untuk tetap memakai kacamata, miringkan kepala sedikit menjauhi sumber cahaya agar lensa tidak memantulkan cahaya, dan pastikan bingkai kacamata tidak menutupi bagian mata mana pun.
+Kacamata hitam dan lensa berwarna umumnya ditolak. Jika Anda memenuhi syarat untuk tetap memakai kacamata, miringkan kepala sedikit menjauhi sumber cahaya agar lensa tidak memantulkan cahaya, dan pastikan bingkai kacamata tidak menutupi bagian mata mana pun.
 
 ## Ukuran Foto Paspor: Dua Standar yang Digunakan Sebagian Besar Negara
 

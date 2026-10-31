@@ -8,7 +8,7 @@
     "tone": "good",
     "items": [
      {
-      "text": "Yeux ouverts, regard vers l'objectif",
+      "text": "Yeux ouverts si possible",
       "mark": "tick"
      },
      {
@@ -40,7 +40,7 @@
    }
   ],
   "focal": "Principal motif de refus : main, tétine ou jouet visible",
-  "alt": "Diagramme de ce qui ne change pas sur une photo de passeport de bébé (yeux ouverts, fond uni, rien d'autre dans le cadre) et de ce qui change selon l'âge, de moins de 6 mois à 2 ans et plus, avec les motifs de refus les plus courants",
+  "alt": "Diagramme de ce qui ne change pas sur une photo de passeport de bébé (yeux ouverts si possible, fond uni, rien d'autre dans le cadre) et de ce qui change selon l'âge, de moins de 6 mois à 2 ans et plus, avec les motifs de refus les plus courants",
   "caption": "",
   "placement": {
    "h2": 5,

@@ -8,7 +8,7 @@
     "tone": "good",
     "items": [
      {
-      "text": "Augen offen, Blick zur Kamera",
+      "text": "Augen möglichst offen",
       "mark": "tick"
      },
      {
@@ -39,8 +39,8 @@
     ]
    }
   ],
-  "focal": "Häufigste Ablehnung: stützende Hand, Schnuller oder Spielzeug im Hintergrund",
-  "alt": "Diagramm dazu, was bei einem Babypassfoto gleich bleibt, offene Augen, einfarbiger Hintergrund, nichts sonst im Bild, und was sich je Altersgruppe ändert, von unter 6 Monaten bis 2 Jahre und älter, mit den häufigsten Ablehnungsgründen",
+  "focal": "Häufigste Ablehnung: sichtbare Hand, Schnuller oder Spielzeug im Hintergrund",
+  "alt": "Diagramm dazu, was bei einem Babypassfoto gleich bleibt, möglichst offene Augen, einfarbiger Hintergrund, nichts sonst im Bild, und was sich je Altersgruppe ändert, von unter 6 Monaten bis 2 Jahre und älter, mit den häufigsten Ablehnungsgründen",
   "caption": "",
   "placement": {
    "h2": 5,

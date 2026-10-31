@@ -48,7 +48,7 @@ Les bureaux des passeports demandent trois choses lorsque vous faites la demande
 
 ## Un bébé ne peut pas suivre les règles photo des adultes, alors on les adapte
 
-![Diagramme de ce qui ne change pas sur une photo de passeport de bébé (yeux ouverts, fond uni, rien d'autre dans le cadre) et de ce qui change selon l'âge, de moins de 6 mois à 2 ans et plus, avec les motifs de refus les plus courants](https://traveldocumentvault.com/blog/child-first-passport-application/baby-photo-figure-fr.jpg)
+![Diagramme de ce qui ne change pas sur une photo de passeport de bébé (yeux ouverts si possible, fond uni, rien d'autre dans le cadre) et de ce qui change selon l'âge, de moins de 6 mois à 2 ans et plus, avec les motifs de refus les plus courants](https://traveldocumentvault.com/blog/child-first-passport-application/baby-photo-figure-fr.jpg)
 
 C'est souvent là que les premières demandes échouent. Un bébé ou un jeune enfant ne peut pas suivre les règles photo comme le ferait un adulte : les bébés ne tiennent pas assis, les tout-petits ne restent pas immobiles ni ne comprennent les consignes, et les nouveau-nés ne regardent pas l'objectif sur commande. Les normes des photos de passeport ont été écrites pour des adultes, et il faut comprendre comment les adapter quand le sujet est un enfant de 5 kilos qui bouge sans arrêt.
 

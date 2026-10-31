@@ -8,7 +8,7 @@
     "tone": "good",
     "items": [
      {
-      "text": "Øjnene åbne, kigger ind i kameraet",
+      "text": "Øjnene åbne, hvis muligt",
       "mark": "tick"
      },
      {
@@ -39,8 +39,8 @@
     ]
    }
   ],
-  "focal": "Oftest afvist for: støttende hånd, sut eller legetøj i baggrunden",
-  "alt": "Diagram over, hvad der er ens i et pasfoto af en baby (øjnene åbne, ensfarvet baggrund, intet andet i billedet), og hvad der ændrer sig efter alder fra under 6 måneder til 2 år og ældre, samt de mest almindelige afvisningsgrunde",
+  "focal": "Oftest afvist for: synlig hånd, sut eller legetøj i baggrunden",
+  "alt": "Diagram over, hvad der er ens i et pasfoto af en baby (øjnene åbne hvis muligt, ensfarvet baggrund, intet andet i billedet), og hvad der ændrer sig efter alder fra under 6 måneder til 2 år og ældre, samt de mest almindelige afvisningsgrunde",
   "caption": "",
   "placement": {
    "h2": 5,

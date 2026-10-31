@@ -8,7 +8,7 @@
     "tone": "good",
     "items": [
      {
-      "text": "Occhi aperti, verso la fotocamera",
+      "text": "Occhi aperti, se possibile",
       "mark": "tick"
      },
      {
@@ -39,8 +39,8 @@
     ]
    }
   ],
-  "focal": "Motivo più comune di rifiuto: una mano di supporto, un ciuccio o un giocattolo sullo sfondo",
-  "alt": "Diagramma di cosa resta uguale in una foto passaporto di un neonato (occhi aperti, sfondo neutro, nient'altro nell'inquadratura) e cosa cambia in base all'età, da sotto i 6 mesi a oltre i 2 anni, con i motivi di rifiuto più comuni",
+  "focal": "Motivo più comune di rifiuto: una mano visibile, un ciuccio o un giocattolo sullo sfondo",
+  "alt": "Diagramma di cosa resta uguale in una foto passaporto di un neonato (occhi aperti se possibile, sfondo neutro, nient'altro nell'inquadratura) e cosa cambia in base all'età, da sotto i 6 mesi a oltre i 2 anni, con i motivi di rifiuto più comuni",
   "caption": "",
   "placement": {
    "h2": 5,
