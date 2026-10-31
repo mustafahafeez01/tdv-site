@@ -1,4 +1,4 @@
-# Do You Need a Transit Visa for a Layover? Rules by Country Explained
+# Do You Need a Visa for a Layover? Transit Rules Explained
 
 > Not every connecting flight needs a transit visa. Which layovers require one, how nationality decides it, and what to do if you find out after booking.
 
@@ -19,7 +19,7 @@ Source: https://traveldocumentvault.com/blog/transit-visa-connecting-flights/
 
 Whether a connecting flight requires a transit visa depends on three things: which passport you hold, which country your plane lands in, and whether you leave the airport or stay in the international transit zone. Most layovers need no transit visa at all. But the requirement, where it exists, is firm - and airlines check at the gate.
 
-Transit visas are the document that catches even careful travellers out, because they sit apart from everything else in your file. Your passport's validity does not affect them, and your destination's entry visa does not substitute for them either: they exist purely because of where your plane happens to land to refuel. Yet many travellers never check whether they need one until it is far too late.
+Often you don't need a visa for a layover. If you stay airside, in the international transit zone, many countries let you connect without one. You're far more likely to need one when you leave the airport or pass through immigration between flights, and your nationality decides the rest: the Schengen Airport Transit Visa, for example, applies only to certain non-EU nationalities. A transit visa also sits apart from the rest of your file, so neither your passport's validity nor your destination's entry visa covers it.
 
 ## Airside Transit Often Needs No Visa, but Landside Means Clearing Immigration
 

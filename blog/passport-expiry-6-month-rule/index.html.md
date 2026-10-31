@@ -104,7 +104,7 @@ Getting past departure but denied entry by immigration on the other end is worse
 
 ## What to Do if Your Passport Has Less Than 6 Months Left
 
-Treat your passport like a car tyre and don't wait until it's flat: renew as soon as you drop below 12 months of validity, which gives you a six-month buffer on top of the rule, with room to spare.
+Treat your passport like a car tyre and don't wait until it's flat: renew as soon as you drop below 12 months of validity, which gives you a six-month buffer on top of the rule, with room to spare. There's no waiting period to [renew your passport before it expires](https://traveldocumentvault.com/blog/renew-passport-before-expiry/) in the UK or US, though a UK renewal no longer carries over the months you have left.
 
 Before any trip, count six months forward from the day you leave the destination, which is the later date and so satisfies either version of the rule. Check your passport expiry against that date - not just your travel dates.
 

@@ -90,7 +90,7 @@ Your passport expiring while you're still abroad is the hardest scenario to plan
 
 The process is slow and bureaucratic. You'll need to provide proof of identity and pay a fee, the current amount published by the Foreign, Commonwealth and Development Office. Processing time varies by embassy and by how urgent your situation is, so ask the consulate what to expect as soon as you contact them. The emergency document only covers the specific journey back to the UK; it isn't a tourist passport, and it won't permit onward travel.
 
-Setting reminders months ahead, rather than scrambling the week before you fly, is what keeps this from happening in the first place. If your passport expires within 6 months of your trip, start the renewal process now before you commit to travel dates.
+Setting reminders months ahead, rather than scrambling the week before you fly, is what keeps this from happening in the first place. If your passport expires within 6 months of your trip, start the renewal process now before you commit to travel dates. GOV.UK sets no earliest date, so you can [renew your passport early](https://traveldocumentvault.com/blog/renew-passport-before-expiry/), though the months you have left aren't carried over to the new one.
 
 ## Your Passport's Expiry Isn't the Same as a Destination's Extra-Validity Rule
 

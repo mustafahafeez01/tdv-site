@@ -106,7 +106,7 @@ Before every trip, check the official entry requirements for your destination us
 
 ## Set the Reminder a Year Out, Not Six Months
 
-The root cause is usually the same: no reminder in place. Set an expiry reminder at least **12 months before the expiry date**, not 6 months. This gives you time to renew on standard processing without paying for expedited service, and without the stress of a tight timeline.
+The root cause is usually the same: no reminder in place. Set an expiry reminder at least **12 months before the expiry date**, not 6 months. This gives you time to renew on standard processing without paying for expedited service, and without the stress of a tight timeline. The UK and US set no waiting period to [renew a passport before it expires](https://traveldocumentvault.com/blog/renew-passport-before-expiry/), so the reminder leaves you free to apply in whichever quiet weeks suit you.
 
 Do this for every passport in your household separately. Children's passports expire faster (5 years in most countries versus 10 for adults) and are the ones most often missed. Pull every passport out today and check the expiry date, not just the photo page.
 

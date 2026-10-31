@@ -2406,7 +2406,7 @@ Before every trip, check the official entry requirements for your destination us
 
 ## Set the Reminder a Year Out, Not Six Months
 
-The root cause is usually the same: no reminder in place. Set an expiry reminder at least **12 months before the expiry date**, not 6 months. This gives you time to renew on standard processing without paying for expedited service, and without the stress of a tight timeline.
+The root cause is usually the same: no reminder in place. Set an expiry reminder at least **12 months before the expiry date**, not 6 months. This gives you time to renew on standard processing without paying for expedited service, and without the stress of a tight timeline. The UK and US set no waiting period to [renew a passport before it expires](https://traveldocumentvault.com/blog/renew-passport-before-expiry/), so the reminder leaves you free to apply in whichever quiet weeks suit you.
 
 Do this for every passport in your household separately. Children's passports expire faster (5 years in most countries versus 10 for adults) and are the ones most often missed. Pull every passport out today and check the expiry date, not just the photo page.
 
@@ -2564,7 +2564,7 @@ Getting past departure but denied entry by immigration on the other end is worse
 
 ## What to Do if Your Passport Has Less Than 6 Months Left
 
-Treat your passport like a car tyre and don't wait until it's flat: renew as soon as you drop below 12 months of validity, which gives you a six-month buffer on top of the rule, with room to spare.
+Treat your passport like a car tyre and don't wait until it's flat: renew as soon as you drop below 12 months of validity, which gives you a six-month buffer on top of the rule, with room to spare. There's no waiting period to [renew your passport before it expires](https://traveldocumentvault.com/blog/renew-passport-before-expiry/) in the UK or US, though a UK renewal no longer carries over the months you have left.
 
 Before any trip, count six months forward from the day you leave the destination, which is the later date and so satisfies either version of the rule. Check your passport expiry against that date - not just your travel dates.
 
@@ -3431,7 +3431,7 @@ Airlines check every passport against IATA's Timatic database, which applies the
 
 ---
 
-# Do You Need a Transit Visa for a Layover? Rules by Country Explained
+# Do You Need a Visa for a Layover? Transit Rules Explained
 
 > Not every connecting flight needs a transit visa. Which layovers require one, how nationality decides it, and what to do if you find out after booking.
 
@@ -3452,7 +3452,7 @@ Source: https://traveldocumentvault.com/blog/transit-visa-connecting-flights/
 
 Whether a connecting flight requires a transit visa depends on three things: which passport you hold, which country your plane lands in, and whether you leave the airport or stay in the international transit zone. Most layovers need no transit visa at all. But the requirement, where it exists, is firm - and airlines check at the gate.
 
-Transit visas are the document that catches even careful travellers out, because they sit apart from everything else in your file. Your passport's validity does not affect them, and your destination's entry visa does not substitute for them either: they exist purely because of where your plane happens to land to refuel. Yet many travellers never check whether they need one until it is far too late.
+Often you don't need a visa for a layover. If you stay airside, in the international transit zone, many countries let you connect without one. You're far more likely to need one when you leave the airport or pass through immigration between flights, and your nationality decides the rest: the Schengen Airport Transit Visa, for example, applies only to certain non-EU nationalities. A transit visa also sits apart from the rest of your file, so neither your passport's validity nor your destination's entry visa covers it.
 
 ## Airside Transit Often Needs No Visa, but Landside Means Clearing Immigration
 
@@ -3791,7 +3791,7 @@ Your passport expiring while you're still abroad is the hardest scenario to plan
 
 The process is slow and bureaucratic. You'll need to provide proof of identity and pay a fee, the current amount published by the Foreign, Commonwealth and Development Office. Processing time varies by embassy and by how urgent your situation is, so ask the consulate what to expect as soon as you contact them. The emergency document only covers the specific journey back to the UK; it isn't a tourist passport, and it won't permit onward travel.
 
-Setting reminders months ahead, rather than scrambling the week before you fly, is what keeps this from happening in the first place. If your passport expires within 6 months of your trip, start the renewal process now before you commit to travel dates.
+Setting reminders months ahead, rather than scrambling the week before you fly, is what keeps this from happening in the first place. If your passport expires within 6 months of your trip, start the renewal process now before you commit to travel dates. GOV.UK sets no earliest date, so you can [renew your passport early](https://traveldocumentvault.com/blog/renew-passport-before-expiry/), though the months you have left aren't carried over to the new one.
 
 ## Your Passport's Expiry Isn't the Same as a Destination's Extra-Validity Rule
 
